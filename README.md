@@ -88,17 +88,19 @@ Aquí se incluye todo contenido multimedia de interés relacionado con *El Libro
 * Animaciones. Imágenes animadas que aclaren conceptos que impliquen una visualización animada.
 * Mapas. Mapas que permitan ubicar lugares mencionados en el libro o itinerarios y migraciones.
 
-
+---
 
 ## ¿Cómo se desarrolla?
 
 Para desarrolladores habrá un documento explicativo HOWTO_developers.md.
 
+---
 
 ## ¿Cómo se añade contenido?
 
 Para editores de contenido habrá un documento explicativo HOWTO_editors.md.
 
+---
 
 ## ¿Cómo se usa?
 
