@@ -1,0 +1,284 @@
+Lugares
+
+Abila
+Acab
+Acaya
+Acrópolis (monte, Atenas)
+Actium
+Adam
+Adriático (mar)
+África (continente)
+Aguas de Merom
+Alejandría
+Amatus
+Anatolia (región)
+Antioquía
+Antípatris
+Antonia (fortaleza, Jerusalén)
+Apia (vía)
+Apolo (templo)
+Arabia (región)
+Arbela
+Areópago (consejo, Atenas)
+Areópolis
+Arimatea
+Armenia (región)
+Aroer
+Arquelais
+Asdod
+Asia (continente)
+Asiria (región)
+Asmoneo (palacio, Jerusalén)
+Atenas
+Babilonia
+Bagdad
+Batanea
+Beerot
+Beerseba
+Beirut
+Beit Adis
+Beit Jenn
+Belén
+Bet-Meón
+Bet-Nimra
+Bet-Peor
+Bet-seán
+Bet-sur
+Betábara
+Betania
+Betel
+Betesda
+Betfagé
+Betsaida
+Betsaida-Julias
+Bitinia
+Bosora
+Bretaña
+Busiris
+Cafarnaúm
+Callirhue
+Calvario (peñasco, Jerusalén)
+Caná
+Canata
+Capadocia (región)
+Capitolias
+Capitolio (monte, Roma)
+Capua
+Cárata
+Carmelo (monte)
+Cartago
+Caspin
+Caspio (mar)
+Cedrón (cauce, Jerusalén)
+Cesarea
+Cesarea de Filipo, Dan
+Charax
+China (región)
+Chipre
+Cirene (región)
+Ciudad de Judá
+Corazín
+Corinto
+Creta (isla)
+Dabarita
+Dafne
+Damasco
+Dan, Cesarea de Filipo
+Decápolis (región)
+Dion
+Dium
+Divinington (celestial)
+Dotán
+Ebal
+Edentia (celestial)
+Edrei
+Éfeso
+Efraín
+Egipto (región)
+Eleale
+Emaús
+En-Ganim
+En-Gedi
+Endor
+Escitópolis
+Escocia (región)
+Esdraelón
+España (región)
+Éufrates
+Europa (continente)
+Faros (isla)
+Fasaelis
+Fenicia (región)
+Fénix
+Filadelfia
+Gad
+Gadara
+Galaad
+Galacia
+Gales (región)
+Galilea
+Gamala
+Gaza
+Geba
+Gehena
+Genesaret
+Gerasa
+Gérasa
+Gerizim
+Getsemaní (huerto, Jerusalén)
+Gilboa
+Gilead
+Giscala
+Gofna
+Golfo Pérsico (golfo)
+Gólgota (peñasco, Jerusalén)
+Grecia (región)
+Hades (celestial, figurado)
+Han (imperio)
+Hatita
+Havona (celestial)
+Hebrón
+Heldua
+Hermón (monte)
+Hesbón
+Hierápolis
+Hinom (valle)
+Hipos
+Hiram (tumba, Jerusalén)
+Idumea (región)
+India (región)
+Indo (río)
+Inglaterra (región)
+Irón
+Israel (región)
+Italia (región)
+Jaboc (río)
+Jafia
+Jamnia
+Japón (región)
+Jeresa (también llamada Queresa)
+Jericó
+Jerusalén
+Jerusem (celestial)
+Jezreel
+Jogbeha
+Jope
+Jordán (río)
+Jotapata
+Judea (región)
+Júpiter, Juno y Minerva (templo, Roma)
+Larisa
+Lasea
+Lausana
+Lebona
+Levante (mundo)
+Líbano (región)
+Lida
+Lisimaquia (región)
+Livias
+Luz
+Macad
+Macaerus
+Macedonia (región)
+Madón
+Magadán (parque)
+Magdala
+Malta (isla)
+Maza
+Medeba
+Mediterráneo (mar)
+Meganta (escuela)
+Meguido
+Melcart (templo)
+Menfis
+Mesina
+Mesopotamia (región)
+Mispé
+Moab
+Mongolia (región)
+Muerto (mar)
+Naín
+Nápoles
+Nazaret
+Nebadon (celestial)
+Neptuno (templo, Roma)
+Nicea
+Nicópolis
+Nilo (río)
+Nínive
+Norlatiadek (celestial)
+Norteamérica (región)
+Nueva York (estado, USA)
+Occidente (mundo)
+Ofel
+Olivete (monte, Jerusalén)
+Oriente (mundo)
+Pafos
+Palatino (monte, Roma)
+Palestina (región)
+Paraíso (celestial)
+Partia (región)
+Patmos
+Patras
+Pella
+Penuel
+Perea
+Persia (región)
+Pisidia
+Porfireón
+Queriot
+Ragaba
+Ramá
+Ramat
+Rimón
+Rodas
+Roma
+Safed
+Salamina
+Salem
+Salvington (celestial)
+Samaria (región)
+Sarepta
+Sarid
+Sartaba (monte)
+Satania (celestial)
+Sebaste
+Séforis
+Sibma
+Sicar
+Sicilia (isla)
+Sidón
+Siloam, Siloé (estanque, Jerusalén)
+Sinaí (monte, Jerusalén)
+Siquem
+Siracusa
+Siria (región)
+Sitim
+Sonarington (celestial)
+Sucot
+Suiza (región)
+Sunem
+Susa
+Taanac
+Tabor (monte)
+Tamna
+Tapsacos
+Tarento
+Tariquea
+Tarsis
+Tarso
+Texas (estado, USA)
+Tiber (río)
+Tiberiades (mar)
+Tiberiades (ciudad)
+Tigris (río)
+Tiro
+Tolemaida
+Tracia (región)
+Troade, Tróades
+Turquestán (región)
+Ur
+Urmia
+Uversa (celestial)
+Zafón
+

@@ -1,0 +1,419 @@
+﻿namespace UBSearch {
+    partial class Form1 {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing) {
+            if (disposing && (components != null)) {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent() {
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.textBoxCadenas = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.textBoxExclusion = new System.Windows.Forms.TextBox();
+            this.buttonBuscar = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
+            this.textBoxResultados = new System.Windows.Forms.TextBox();
+            this.textBoxLog = new System.Windows.Forms.TextBox();
+            this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this.buttonNombres = new System.Windows.Forms.Button();
+            this.buttonCopiar = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.label10 = new System.Windows.Forms.Label();
+            this.txtRefRepeated = new System.Windows.Forms.TextBox();
+            this.button2 = new System.Windows.Forms.Button();
+            this.label9 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.label8 = new System.Windows.Forms.Label();
+            this.button3 = new System.Windows.Forms.Button();
+            this.label11 = new System.Windows.Forms.Label();
+            this.button4 = new System.Windows.Forms.Button();
+            this.label12 = new System.Windows.Forms.Label();
+            this.tabControl1.SuspendLayout();
+            this.tabPage1.SuspendLayout();
+            this.tabPage2.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label1.Location = new System.Drawing.Point(6, 3);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(622, 42);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Este buscador permite buscar referencias dentro de El Libro de Urantia. Utiliza c" +
+    "omo fuente unos fichero LaTEX debidamente formateados que deben estar colocados " +
+    "dentro de la carpeta de la aplicación. ";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(6, 51);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(112, 13);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Cadena de búsqueda:";
+            // 
+            // textBoxCadenas
+            // 
+            this.textBoxCadenas.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textBoxCadenas.Location = new System.Drawing.Point(129, 48);
+            this.textBoxCadenas.Name = "textBoxCadenas";
+            this.textBoxCadenas.Size = new System.Drawing.Size(499, 20);
+            this.textBoxCadenas.TabIndex = 4;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(6, 80);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(114, 13);
+            this.label3.TabIndex = 5;
+            this.label3.Text = "Cadenas de exclusión:";
+            // 
+            // textBoxExclusion
+            // 
+            this.textBoxExclusion.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textBoxExclusion.Location = new System.Drawing.Point(129, 77);
+            this.textBoxExclusion.Name = "textBoxExclusion";
+            this.textBoxExclusion.Size = new System.Drawing.Size(499, 20);
+            this.textBoxExclusion.TabIndex = 6;
+            // 
+            // buttonBuscar
+            // 
+            this.buttonBuscar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.buttonBuscar.Location = new System.Drawing.Point(507, 113);
+            this.buttonBuscar.Name = "buttonBuscar";
+            this.buttonBuscar.Size = new System.Drawing.Size(121, 28);
+            this.buttonBuscar.TabIndex = 7;
+            this.buttonBuscar.Text = "Buscar referencias";
+            this.buttonBuscar.UseVisualStyleBackColor = true;
+            this.buttonBuscar.Click += new System.EventHandler(this.buttonBuscar_Click);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(5, 201);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(63, 13);
+            this.label4.TabIndex = 8;
+            this.label4.Text = "Resultados:";
+            // 
+            // textBoxResultados
+            // 
+            this.textBoxResultados.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textBoxResultados.Location = new System.Drawing.Point(91, 198);
+            this.textBoxResultados.Multiline = true;
+            this.textBoxResultados.Name = "textBoxResultados";
+            this.textBoxResultados.ScrollBars = System.Windows.Forms.ScrollBars.Both;
+            this.textBoxResultados.Size = new System.Drawing.Size(410, 42);
+            this.textBoxResultados.TabIndex = 9;
+            // 
+            // textBoxLog
+            // 
+            this.textBoxLog.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textBoxLog.Location = new System.Drawing.Point(9, 246);
+            this.textBoxLog.Multiline = true;
+            this.textBoxLog.Name = "textBoxLog";
+            this.textBoxLog.ScrollBars = System.Windows.Forms.ScrollBars.Both;
+            this.textBoxLog.Size = new System.Drawing.Size(619, 331);
+            this.textBoxLog.TabIndex = 10;
+            // 
+            // progressBar1
+            // 
+            this.progressBar1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.progressBar1.Location = new System.Drawing.Point(4, 615);
+            this.progressBar1.Name = "progressBar1";
+            this.progressBar1.Size = new System.Drawing.Size(641, 23);
+            this.progressBar1.Step = 1;
+            this.progressBar1.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
+            this.progressBar1.TabIndex = 11;
+            // 
+            // buttonNombres
+            // 
+            this.buttonNombres.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.buttonNombres.Location = new System.Drawing.Point(507, 147);
+            this.buttonNombres.Name = "buttonNombres";
+            this.buttonNombres.Size = new System.Drawing.Size(121, 43);
+            this.buttonNombres.TabIndex = 12;
+            this.buttonNombres.Text = "Buscar potenciales nombres propios";
+            this.buttonNombres.UseVisualStyleBackColor = true;
+            this.buttonNombres.Click += new System.EventHandler(this.buttonNombres_Click);
+            // 
+            // buttonCopiar
+            // 
+            this.buttonCopiar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.buttonCopiar.Location = new System.Drawing.Point(559, 196);
+            this.buttonCopiar.Name = "buttonCopiar";
+            this.buttonCopiar.Size = new System.Drawing.Size(69, 23);
+            this.buttonCopiar.TabIndex = 13;
+            this.buttonCopiar.Text = "Copiar";
+            this.buttonCopiar.UseVisualStyleBackColor = true;
+            this.buttonCopiar.Click += new System.EventHandler(this.buttonCopiar_Click);
+            // 
+            // label5
+            // 
+            this.label5.Location = new System.Drawing.Point(7, 115);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(475, 26);
+            this.label5.TabIndex = 14;
+            this.label5.Text = "Introduce una cadena de búsqueda, una serie de cadenas de exclusión separadas por" +
+    " comas, y pulsa en \'Buscar referencias\' para buscar todas las referencias";
+            // 
+            // label6
+            // 
+            this.label6.Location = new System.Drawing.Point(7, 147);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(475, 29);
+            this.label6.TabIndex = 15;
+            this.label6.Text = "Pulsa directamente en \'Buscar potenciales nombres propios\' para obtener una lista" +
+    " de todos los potenciales nombres propios";
+            // 
+            // label7
+            // 
+            this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(507, 199);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(46, 20);
+            this.label7.TabIndex = 16;
+            this.label7.Text = "0";
+            // 
+            // tabControl1
+            // 
+            this.tabControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.tabControl1.Controls.Add(this.tabPage1);
+            this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Location = new System.Drawing.Point(0, 0);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(649, 609);
+            this.tabControl1.TabIndex = 18;
+            // 
+            // tabPage1
+            // 
+            this.tabPage1.Controls.Add(this.label1);
+            this.tabPage1.Controls.Add(this.label2);
+            this.tabPage1.Controls.Add(this.label7);
+            this.tabPage1.Controls.Add(this.textBoxCadenas);
+            this.tabPage1.Controls.Add(this.label6);
+            this.tabPage1.Controls.Add(this.label3);
+            this.tabPage1.Controls.Add(this.label5);
+            this.tabPage1.Controls.Add(this.textBoxExclusion);
+            this.tabPage1.Controls.Add(this.buttonCopiar);
+            this.tabPage1.Controls.Add(this.buttonBuscar);
+            this.tabPage1.Controls.Add(this.buttonNombres);
+            this.tabPage1.Controls.Add(this.label4);
+            this.tabPage1.Controls.Add(this.textBoxResultados);
+            this.tabPage1.Controls.Add(this.textBoxLog);
+            this.tabPage1.Location = new System.Drawing.Point(4, 22);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage1.Size = new System.Drawing.Size(641, 583);
+            this.tabPage1.TabIndex = 0;
+            this.tabPage1.Text = "Buscador";
+            this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.Controls.Add(this.label12);
+            this.tabPage2.Controls.Add(this.button4);
+            this.tabPage2.Controls.Add(this.label11);
+            this.tabPage2.Controls.Add(this.button3);
+            this.tabPage2.Controls.Add(this.label10);
+            this.tabPage2.Controls.Add(this.txtRefRepeated);
+            this.tabPage2.Controls.Add(this.button2);
+            this.tabPage2.Controls.Add(this.label9);
+            this.tabPage2.Controls.Add(this.button1);
+            this.tabPage2.Controls.Add(this.label8);
+            this.tabPage2.Location = new System.Drawing.Point(4, 22);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(641, 583);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "Otras cosas";
+            this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(8, 197);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(63, 13);
+            this.label10.TabIndex = 21;
+            this.label10.Text = "Resultados:";
+            // 
+            // txtRefRepeated
+            // 
+            this.txtRefRepeated.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtRefRepeated.Location = new System.Drawing.Point(11, 213);
+            this.txtRefRepeated.Multiline = true;
+            this.txtRefRepeated.Name = "txtRefRepeated";
+            this.txtRefRepeated.ScrollBars = System.Windows.Forms.ScrollBars.Both;
+            this.txtRefRepeated.Size = new System.Drawing.Size(614, 364);
+            this.txtRefRepeated.TabIndex = 22;
+            // 
+            // button2
+            // 
+            this.button2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.button2.Location = new System.Drawing.Point(499, 62);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(126, 42);
+            this.button2.TabIndex = 20;
+            this.button2.Text = "Buscar citas bíblicas incorrectas";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // label9
+            // 
+            this.label9.Location = new System.Drawing.Point(8, 62);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(472, 42);
+            this.label9.TabIndex = 19;
+            this.label9.Text = "Haz click en esta opción para buscar todas las líneas que contienen citas bíblica" +
+    "s en formato incorrecto en todos los ficheros LaTeX existentes en la carpeta de " +
+    "la aplicación.";
+            // 
+            // button1
+            // 
+            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.button1.Location = new System.Drawing.Point(499, 14);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(126, 42);
+            this.button1.TabIndex = 18;
+            this.button1.Text = "Corergir fichero Paramony.txt";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // label8
+            // 
+            this.label8.Location = new System.Drawing.Point(8, 14);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(472, 42);
+            this.label8.TabIndex = 1;
+            this.label8.Text = "Haz click en esta opción para ejecutar una ordenación correcta de citas bíblicas " +
+    "en el fichero Paramony.txt descargado de la web de Fundación Urantia.";
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(499, 110);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(126, 40);
+            this.button3.TabIndex = 23;
+            this.button3.Text = "Convertir LaTeX a JSON";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // label11
+            // 
+            this.label11.Location = new System.Drawing.Point(8, 110);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(453, 40);
+            this.label11.TabIndex = 24;
+            this.label11.Text = "Haz click en esta opción para convertir todos los archivos LaTeX a sus equivalent" +
+    "es en JSON, localizando errores en el proceso";
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(499, 156);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(126, 41);
+            this.button4.TabIndex = 25;
+            this.button4.Text = "Convertir JSON a LaTeX";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // label12
+            // 
+            this.label12.Location = new System.Drawing.Point(8, 156);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(441, 41);
+            this.label12.TabIndex = 26;
+            this.label12.Text = "Haz click en esta opción para convertir todos los archivos JSON en sus equivalent" +
+    "es LaTeX usando la template.tex";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(650, 640);
+            this.Controls.Add(this.tabControl1);
+            this.Controls.Add(this.progressBar1);
+            this.MaximizeBox = false;
+            this.MinimumSize = new System.Drawing.Size(643, 620);
+            this.Name = "Form1";
+            this.Text = "Buscador de El Libro de Urantia y otras cosas";
+            this.tabControl1.ResumeLayout(false);
+            this.tabPage1.ResumeLayout(false);
+            this.tabPage1.PerformLayout();
+            this.tabPage2.ResumeLayout(false);
+            this.tabPage2.PerformLayout();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox textBoxCadenas;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox textBoxExclusion;
+        private System.Windows.Forms.Button buttonBuscar;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox textBoxResultados;
+        private System.Windows.Forms.TextBox textBoxLog;
+        private System.Windows.Forms.ProgressBar progressBar1;
+        private System.Windows.Forms.Button buttonNombres;
+        private System.Windows.Forms.Button buttonCopiar;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.TabPage tabPage1;
+        private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.TextBox txtRefRepeated;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Button button4;
+    }
+}
+
