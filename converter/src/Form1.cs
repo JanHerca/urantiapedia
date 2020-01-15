@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Globalization;
 using System.Text;
 using System.Threading;
@@ -11,237 +8,68 @@ using System.Windows.Forms;
 namespace UBSearch {
     public partial class Form1 : Form {
 
-        private struct Posicion {
-            public int Inicio;
-            public int Fin;
-        }
+
 
         public Form1() {
             InitializeComponent();
         }
 
-        private void buttonBuscar_Click(object sender, EventArgs e) {
-            this.label7.Text = "0";
+        private void btnBuscar_Click(object sender, EventArgs e) {
+            lblNumResult.Text = "0";
 
-            string[] latexFiles = GetLatexFiles();
-            if (latexFiles == null) return;
-
-            string cadena = this.textBoxCadenas.Text;
-            if (cadena.Length == 0) {
-                MessageBox.Show("Introducir cadena de búsqueda.");
+            //Obtener el input
+            string[] latexFiles = null;
+            try {
+                latexFiles = CommonTasks.GetLatexFiles(txtLatexFolder.Text);
+            } catch(Exception ex) {
+                MessageBox.Show(ex.Message);
                 return;
             }
-            bool hayexclusion = (this.textBoxExclusion.Text != string.Empty);
-            string[] exclusion = new string[] { };
+
+            string searchText = txtSearchText.Text;
+            if (searchText.Length == 0) {
+                MessageBox.Show("Introduce texto de búsqueda.");
+                return;
+            }
+            bool hayexclusion = (txtExcluded.Text != string.Empty);
+            string[] exclusiones = new string[] { };
             if (hayexclusion) {
-                exclusion = this.textBoxExclusion.Text.Split(new char[] { ',' });
-                for (int i = 0; i < exclusion.Length; i++) {
-                    exclusion[i] = exclusion[i].Trim();
-                    if (exclusion[i].IndexOf(cadena) == -1) {
-                        MessageBox.Show("La cadena de exclusión " + exclusion[i] + 
-                            " no contiene la cadena " + cadena + ".");
+                exclusiones = txtExcluded.Text.Split(new char[] { ',' });
+                for (int i = 0; i < exclusiones.Length; i++) {
+                    exclusiones[i] = exclusiones[i].Trim();
+                    if (exclusiones[i].IndexOf(searchText) == -1) {
+                        MessageBox.Show("La cadena de exclusión " + exclusiones[i] +
+                            " no contiene la cadena " + searchText + ".");
                         return;
                     }
                 }
             }
 
-            //Leer fichero LateX
-            int contador, total, indice, inicio, fin;
-            int posValida = 0, posValidaInicio = 0, posValidaFin = 0;
-            string linea, referencia, log = "";
-            string busqueda = "\\textsuperscript{";
-            bool incluido = true;
-            List<string> resultados = new List<string>();
-            System.IO.StreamReader fichero;
+            //Leer fichero LaTeX
+            Book book = new Book(latexFiles, progressBar1);
+            List<Excerpt> excerpts = book.Search(searchText, exclusiones);
 
-            for (int f = 0; f < latexFiles.Length; f++) {
-                contador = 0;
-                total = 0;
-                indice = -1;
-                posValida = 0;
-                posValidaInicio = 0;
-                posValidaFin = 0;
-                fichero = new System.IO.StreamReader(latexFiles[f]);
-
-                //Contar lineas existentes
-                while ((linea = fichero.ReadLine()) != null) {
-                    total++;
-                }
-                this.progressBar1.Maximum = total;
-                fichero.DiscardBufferedData();
-                fichero.BaseStream.Seek(0, System.IO.SeekOrigin.Begin);
-
-                while ((linea = fichero.ReadLine()) != null) {
-                    incluido = false;
-                    //Buscar recursivamente
-                    List<Posicion> encuentros = this.IndexesOf(linea, cadena);
-
-
-                    if (encuentros.Count > 0) {
-                        if (hayexclusion) {
-                            List<Posicion> encuentrosExclusiones = new List<Posicion>();
-                            for (int i = 0; i < exclusion.Length; i++) {
-                                List<Posicion> encuentrosExclusion = this.IndexesOf(linea, exclusion[i]);
-                                for (int j = 0; j < encuentrosExclusion.Count; j++) {
-                                    Posicion p = new Posicion();
-                                    p.Inicio = encuentrosExclusion[j].Inicio;
-                                    p.Fin = encuentrosExclusion[j].Fin;
-                                    encuentrosExclusiones.Add(p);
-                                }
-                            }
-                            for (int i = 0; i < encuentros.Count; i++) {
-                                bool excluida = false;
-                                int inicial = encuentros[i].Inicio;
-                                for (int j = 0; j < encuentrosExclusiones.Count; j++) {
-                                    int min = encuentrosExclusiones[j].Inicio;
-                                    int max = encuentrosExclusiones[j].Fin;
-                                    if (min < inicial && inicial < max) {
-                                        excluida = true;
-                                    }
-                                }
-                                if (!excluida) {
-                                    incluido = true;
-                                    posValida = i;
-                                    break;
-                                }
-                            }
-                        } else {
-                            incluido = true;
-                            posValida = 0;
-                        }
-
-                        if (incluido) {
-                            //Obtener la referencia
-                            indice = linea.IndexOf(busqueda);
-                            if (indice != -1) {
-                                inicio = indice + busqueda.Length;
-                                fin = linea.IndexOf('}', inicio);
-                                referencia = linea.Substring(inicio, fin - inicio);
-                                //Añadir a resultados
-                                resultados.Add(referencia);
-                                posValidaInicio = encuentros[posValida].Inicio - 45;
-                                if (posValidaInicio <= fin) posValidaInicio = fin + 1;
-                                posValidaFin = encuentros[posValida].Fin + 45;
-                                if (posValidaFin >= linea.Length) posValidaFin = linea.Length - 1;
-                                log += referencia + "   " + linea.Substring(posValidaInicio, posValidaFin - posValidaInicio) + "\r\n";
-                                this.textBoxLog.Text = log;
-                            }
-                        }
-                    }
-                    contador++;
-                    this.progressBar1.Value = contador;
-                }
-
-                fichero.Close();
-            }
             //Presentar resultados
             StringBuilder sb = new StringBuilder();
-            for (int n = 0; n < resultados.Count; n++) {
-                sb.Append(resultados[n] + (n == resultados.Count - 1 ? "" : ", "));
+            StringBuilder sb2 = new StringBuilder();
+            for (int n = 0; n < excerpts.Count; n++) {
+                sb.Append(excerpts[n].Reference + (n == excerpts.Count - 1 ? "" : ", "));
+                sb2.Append(excerpts[n].Reference + "   " + excerpts[n].Extract + "\r\n");
             }
-            this.label7.Text = resultados.Count.ToString();
-            this.textBoxResultados.Text = this.compactarReferencias(sb.ToString());
-
-        }
-
-        private List<Posicion> IndexesOf(string cadena, string busqueda) {
-            List<Posicion> resultado = new List<Posicion>();
-            int indice = -1;
-            while ((indice = cadena.IndexOf(busqueda, indice + 1)) != -1) {
-                Posicion p = new Posicion();
-                p.Inicio = indice;
-                p.Fin = indice + busqueda.Length;
-                resultado.Add(p);
-            }
-            return resultado;
+           
+            this.lblNumResult.Text = excerpts.Count.ToString();
+            this.txtResultados.Text = CommonTasks.ReduceRefs(sb.ToString());
+            this.txtLog.Text = sb2.ToString();
         }
 
         private void buttonCopiar_Click(object sender, EventArgs e) {
-            Clipboard.SetText(this.textBoxResultados.Text);
+            Clipboard.SetText(this.txtResultados.Text);
         }
 
-        private string compactarReferencias(string referencias) {
-            //Compacta referencias. Por ejemplo, en lugar de tener 124:8.1, 124:8.2, 124:8.3
-            // tendríamos 124:8.1-3
-            //Sólo funciona con párrafos completamente consecutivos
 
-            string[] entradas = referencias.Split(new char[] { ',' });
-            List<string> salidas = new List<string>();
-            int ultimo = -1;
-            for (int n = 0; n < entradas.Length; n++) {
-                string entrada = entradas[n].Trim();
-                if (n == 0) {
-                    salidas.Add(entrada);
-                } else {
-                    string salidaUltima = salidas[salidas.Count - 1];
-
-                    int indice1 = salidaUltima.IndexOf(".");
-                    string resto1 = salidaUltima.Substring(0, indice1);
-                    int parrafo1 = Int32.Parse(salidaUltima.Substring(indice1 + 1));
-
-                    int indice2 = entrada.IndexOf(".");
-                    string resto2 = entrada.Substring(0, indice2);
-                    int parrafo2 = Int32.Parse(entrada.Substring(indice2 + 1));
-
-                    if (resto1 == resto2 && (parrafo2 == parrafo1 + 1 || parrafo2 == ultimo + 1)) {
-                        ultimo = parrafo2;
-                        if (n == entradas.Length - 1) {
-                            salidas[salidas.Count - 1] += "-" + ultimo.ToString();
-                        }
-                    } else {
-                        if (ultimo != -1) {
-                            salidas[salidas.Count - 1] += "-" + ultimo.ToString();
-                            ultimo = -1;
-                        }
-                        salidas.Add(entrada);
-                    }
-                }
-            }
-
-            List<string> salidas2 = new List<string>();
-            string concatenado = "";
-            for (int n = 0; n < salidas.Count; n++) {
-                string salida = salidas[n];
-                if (n == 0) {
-                    salidas2.Add(salida);
-                    
-                } else {
-                    string salidaUltima = salidas2[salidas2.Count - 1];
-
-                    int indice1 = salidaUltima.IndexOf(".");
-                    string resto1 = salidaUltima.Substring(0, indice1);
-
-                    int indice2 = salida.IndexOf(".");
-                    string resto2 = salida.Substring(0, indice2);
-                    string parrafo2 = salida.Substring(indice2 + 1);
-
-                    if (resto1 == resto2) {
-                        concatenado += "·" + parrafo2;
-                        if (n == entradas.Length - 1) {
-                            salidas2[salidas2.Count - 1] += concatenado;
-                            concatenado = "";
-                        }
-                    } else {
-                        if (concatenado != "") {
-                            salidas2[salidas2.Count - 1] += concatenado;
-                            concatenado = "";
-                        }
-                        salidas2.Add(salida);
-                    }
-
-                }
-            }
-
-            StringBuilder sb = new StringBuilder();
-            for (int n = 0; n < salidas2.Count; n++) {
-                sb.Append(salidas2[n] + (n == salidas2.Count - 1 ? "" : ", "));
-            }
-
-            return sb.ToString();
-        }
 
         private void buttonNombres_Click(object sender, EventArgs e) {
-            this.label7.Text = "0";
+            this.lblNumResult.Text = "0";
             //Obtenemos lista de ficheros LaTEX
             string currentFolder = AppDomain.CurrentDomain.BaseDirectory;
 
@@ -267,8 +95,8 @@ namespace UBSearch {
             for (int n = 0; n < vocablos.Length; n++)
                 exclusiones.Add(vocablos[n]);
 
-            if (this.textBoxExclusion.Text != string.Empty) {
-                string[] vocablos2 = this.textBoxExclusion.Text.Split(new char[] { ',' });
+            if (this.txtExcluded.Text != string.Empty) {
+                string[] vocablos2 = this.txtExcluded.Text.Split(new char[] { ',' });
                 for (int i = 0; i < vocablos2.Length; i++) {
                     vocablos2[i] = vocablos2[i].Trim();
                     if (!exclusiones.Contains(vocablos2[i]))
@@ -354,8 +182,8 @@ namespace UBSearch {
             for (int n = 0; n < resultados.Count; n++) {
                 sb.Append(resultados[n] + "\r\n");
             }
-            this.textBoxLog.Text = sb.ToString();
-            this.label7.Text = resultados.Count.ToString();
+            this.txtLog.Text = sb.ToString();
+            this.lblNumResult.Text = resultados.Count.ToString();
 
         }
 
@@ -473,7 +301,7 @@ namespace UBSearch {
             fichero.Close();
 
             if (errores) {
-                this.textBoxLog.Text = sbErrores.ToString();
+                this.txtLog.Text = sbErrores.ToString();
             } else {
                 
                 foreach(KeyValuePair<string, SortedDictionary<string, string>> entry in resultados) {
@@ -487,7 +315,7 @@ namespace UBSearch {
 
                     sbResultados.Append(entry.Key + ": " + sb2.ToString() + "\r\n");
                 }
-                this.textBoxLog.Text = sbResultados.ToString();
+                this.txtLog.Text = sbResultados.ToString();
             }
             
         }
@@ -540,7 +368,7 @@ namespace UBSearch {
 
             for (int f = 0; f < latexFiles.Length; f++) {
                 resultados.Add(latexFiles[f]);
-                Book book = new Book(latexFiles[f], this.progressBar1);
+                Book book = new Book(latexFiles, this.progressBar1);
                 if (book.GetParLength() > 0) {
                     for (int p = 0; p < book.GetParLength(); p++) {
                         Par par = book.GetPar(p);
@@ -607,6 +435,18 @@ namespace UBSearch {
             return latexFiles;
         }
 
-
+        private void btnSelLatexFolder_Click(object sender, EventArgs e) {
+            FolderBrowserDialog fbd = new FolderBrowserDialog();
+            fbd.Description = "Selecciona carpeta con ficheros LaTeX";
+            if (fbd.ShowDialog() == DialogResult.OK) {
+                txtLatexFolder.Text = fbd.SelectedPath;
+                //Comprobamos si hay ficheros
+                try {
+                    CommonTasks.GetLatexFiles(txtLatexFolder.Text);
+                } catch (Exception ex) {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+        }
     }
 }
