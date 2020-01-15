@@ -92,19 +92,13 @@ Aquí se incluye todo contenido multimedia de interés relacionado con *El Libro
 
 ## ¿Cómo se desarrolla?
 
-Para desarrolladores habrá un documento explicativo HOWTO_developers.md.
+Ver docs / HOWTO_developers.md.
 
 ---
 
 ## ¿Cómo se añade contenido?
 
-Para editores de contenido habrá un documento explicativo HOWTO_editors.md.
-
----
-
-## ¿Cómo se usa?
-
-Para usuarios habrá un documento explicativo HOWTO_users.md.
+Ver docs / HOWTO_editors.md.
 
 
 

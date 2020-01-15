@@ -29,6 +29,15 @@ $wgScribuntoDefaultEngine = 'luastandalone';
 
 ## Hacer copias de seguridad
 
+1. Abrir el XAMPP Control Panel y hacer click en el botón Shell para abrir una línea de comandos
+2. Por defecto la carpeta será la de instalación de XAMPP
+2. Lanzar el siguiente comando: 
+```
+mysqldump --port=<puerto> --user=<user> --password=<password> <nombre_bd> > dump.sql
+```
+3. donde <puerto> es el puerto de MySql/MariaDB que suele ser el 3306, <user> y <password> el nombre de usuario y contraseña del administrador de la base de datos. Si no se conoce mirar el fichero LocalSettings.php de la carpeta mediawiki\htdocs. <nombre_db> es el nombre de la base de datos con la wiki.
+4. Se genera la copia de seguridad como un fichero dump.sql en la carpeta de instalación de XAMPP. Poner fecha en el nombre y guardar el archivo.
+
 
 
 
