@@ -1,0 +1,30 @@
+####################################################################################
+#
+#                    X
+#
+#
+# The Urantia Book Uversa Press Topical index
+# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
+# Cada entrada viene precedida de una línea en blanco
+# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
+# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
+#
+####################################################################################
+
+
+
+
+X rays (41:5.1-5). See also radioactivity
+15 feet of Urantia-density surface would prevent solar escape of
+X rays, leading to explosion (41:5.1)
+enable light to escape suns (41:9.1)
+energize electrons in suns’ interiors (41:5.3-5)
+level atomic existence (41:7.1)
+modify life plasm of plants and animals (77:2.5)
+preatomic matter slightly gravity responsive when activated by (42:6.2)
+pressure of X rays supports suns’ outer layers (41:9.4)
+produced by commotion upon electron being suddenly stopped (42:5.8)
+wave-energy category (42:5.1)
+
+Xenophanes
+Greek; pantheistic deity concept (98:2.6)
