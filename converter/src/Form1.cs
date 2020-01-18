@@ -20,7 +20,7 @@ namespace UBSearch {
             //Obtener el input
             string[] latexFiles = null;
             try {
-                latexFiles = CommonTasks.GetLatexFiles(txtLatexFolder.Text);
+                latexFiles = CommonTasks.GetFiles(txtLatexFolder.Text, "*.tex");
             } catch(Exception ex) {
                 MessageBox.Show(ex.Message);
                 return;
@@ -45,7 +45,7 @@ namespace UBSearch {
                 }
             }
 
-            //Leer fichero LaTeX
+            //Leer ficheros LaTeX
             Book book = new Book(latexFiles, progressBar1);
             List<Excerpt> excerpts = book.Search(searchText, exclusiones);
 
@@ -360,8 +360,15 @@ namespace UBSearch {
         /// <param name="e"></param>
         private void button2_Click(object sender, EventArgs e) {
             //Buscar todos los párrafos con footnotes donde las abreviaturas biblicas se repiten
-            string[] latexFiles = this.GetLatexFiles();
-            if (latexFiles == null) return;
+
+            //Obtener el input
+            string[] latexFiles = null;
+            try {
+                latexFiles = CommonTasks.GetFiles(txtLatexFolder.Text, "*.tex");
+            } catch (Exception ex) {
+                MessageBox.Show(ex.Message);
+                return;
+            }
 
             //Leer fichero LateX
             List<string> resultados = new List<string>();
@@ -396,43 +403,8 @@ namespace UBSearch {
             for (int n = 0; n < resultados.Count; n++) {
                 sb.Append(resultados[n] + "\r\n");
             }
-            this.txtRefRepeated.Text = sb.ToString();
+            this.txtResultLog.Text = sb.ToString();
 
-        }
-
-        /// <summary>
-        /// Convierte de LaTeX a JSON.
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void button3_Click(object sender, EventArgs e) {
-
-        }
-
-        /// <summary>
-        /// Convierte de JSON a LaTeX.
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void button4_Click(object sender, EventArgs e) {
-
-        }
-
-        private string[] GetLatexFiles() {
-            //Obtenemos lista de ficheros LaTEX
-            string currentFolder = AppDomain.CurrentDomain.BaseDirectory;
-
-            string[] latexFiles = null;
-            try {
-                latexFiles = System.IO.Directory.GetFiles(currentFolder, "*.tex");
-            } catch (Exception ex) {
-                MessageBox.Show(ex.Message);
-            }
-            //Comprobaciones
-            if (latexFiles == null) {
-                MessageBox.Show("No se han encontrado ficheros LaTEX en la carpeta de la aplicación.");
-            }
-            return latexFiles;
         }
 
         private void btnSelLatexFolder_Click(object sender, EventArgs e) {
@@ -442,7 +414,43 @@ namespace UBSearch {
                 txtLatexFolder.Text = fbd.SelectedPath;
                 //Comprobamos si hay ficheros
                 try {
-                    CommonTasks.GetLatexFiles(txtLatexFolder.Text);
+                    CommonTasks.GetFiles(txtLatexFolder.Text, "*.tex");
+                } catch (Exception ex) {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+        }
+
+        private void btnTopicToWiki_Click(object sender, EventArgs e) {
+            //Obtener el input
+            string[] topicFiles = null;
+            try {
+                topicFiles = CommonTasks.GetFiles(txtTopicFolder.Text, "*.txt");
+            } catch (Exception ex) {
+                MessageBox.Show(ex.Message);
+                return;
+            }
+
+            //Leer ficheros LaTeX
+            TopicIndex topicIndex = new TopicIndex(topicFiles, progressBar1);
+            //MessageBox.Show(topicIndex.GetTermLength().ToString());
+
+            //Presentar resultados
+            StringBuilder sb = new StringBuilder();
+            for (int n = 0; n < topicIndex.GetTermLength(); n++) {
+                sb.Append(topicIndex.GetTerm(n).Name + "\r\n");
+            }
+            this.txtResultLog.Text = sb.ToString();
+        }
+
+        private void btnSelTopicFolder_Click(object sender, EventArgs e) {
+            FolderBrowserDialog fbd = new FolderBrowserDialog();
+            fbd.Description = "Selecciona carpeta con ficheros TXT";
+            if (fbd.ShowDialog() == DialogResult.OK) {
+                txtTopicFolder.Text = fbd.SelectedPath;
+                //Comprobamos si hay ficheros
+                try {
+                    CommonTasks.GetFiles(txtTopicFolder.Text, "*.txt");
                 } catch (Exception ex) {
                     MessageBox.Show(ex.Message);
                 }

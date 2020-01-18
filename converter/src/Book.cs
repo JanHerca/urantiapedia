@@ -4,20 +4,32 @@ using System.Collections.Generic;
 using System.Windows.Forms;
 
 namespace UBSearch {
+    /// <summary>
+    /// Clase que contiene una representación en memoria de El Libro de Urantia.
+    /// Contiene dos listas, una lista de Paper (documentos) y una lista de
+    /// párrafos, la segunda para agilizar las búsquedas.
+    /// Si hay errores durante la lectura de ficheros hay una lista de los errores.
+    /// </summary>
     public class Book {
-        private readonly string chapterStart = "\\chapter{";
+        private readonly string paperStart = "\\chapter{";
         private readonly string sectionStart = "\\section*{";
         private readonly string oldidStart = "%\\textsuperscript{(";
         private readonly string parStart = "\\textsuperscript{";
         private readonly string commonEnd = "}";
         private readonly string errorString = "{0}, línea {1}: {2}";
         private string[] filepaths = null;
-        //Parragraphs refs are duplicated in this list for faster search
+        //Las referencias de los párrafos están duplicadas para búsquedas más rápidas
         private List<Par> pars = new List<Par>();
         private ProgressBar progressBar = null;
-        private List<Chapter> chapters = new List<Chapter>();
+        private List<Paper> papers = new List<Paper>();
         private List<string> errors = new List<string>();
 
+        /// <summary>
+        /// Crea un objeto Book con la representación en memoria de
+        /// El Libro de Urantia.
+        /// </summary>
+        /// <param name="filepaths">Rutas de fichero LaTeX con los input del libro.</param>
+        /// <param name="progressBar">Barra de progreso en la que mostrar progresos.</param>
         public Book(string[] filepaths, ProgressBar progressBar) {
             this.filepaths = filepaths;
             this.progressBar = progressBar;
@@ -30,7 +42,7 @@ namespace UBSearch {
 
             string line, linePrevious = "", extract;
             int count = 0, linePreviousPos = 0;
-            Chapter currentChapter = null;
+            Paper currentChapter = null;
             int currentChapterIndex = -1;
             Section currentSection = null;
             int currentSectionIndex = -1;
@@ -52,16 +64,16 @@ namespace UBSearch {
                 currentSectionID = "";
 
                 while ((line = stream.ReadLine()) != null) {
-                    if (line.StartsWith(chapterStart)) {
+                    if (line.StartsWith(paperStart)) {
                         //Si es un documento
-                        extract = CommonTasks.Extract(line, chapterStart, commonEnd);
+                        extract = CommonTasks.Extract(line, paperStart, commonEnd);
                         if (extract == null) {
                             errors.Add(String.Format(errorString, fileinfo.Name, count,
-                                "Chapter no se pudo extraer"));
+                                "No se pudo extraer el inicio de documento"));
                         } else {
                             currentChapterIndex++;
-                            currentChapter = new Chapter(currentChapterIndex, extract);
-                            chapters.Add(currentChapter);
+                            currentChapter = new Paper(currentChapterIndex, extract);
+                            papers.Add(currentChapter);
                             currentSection = null;
                             currentSectionIndex++;
                             currentSectionID = currentChapterIndex.ToString() + ":" + 
@@ -75,7 +87,7 @@ namespace UBSearch {
                         extract = CommonTasks.Extract(line, sectionStart, commonEnd);
                         if (extract == null) {
                             errors.Add(String.Format(errorString, fileinfo.Name, count,
-                                "Section no se pudo extraer"));
+                                "No se pudo extraer el inicio de sección"));
                         } else {
                             currentSectionIndex++;
                             currentSectionID = currentChapterIndex.ToString() + ":" + 
@@ -111,16 +123,29 @@ namespace UBSearch {
             
         }
 
+        /// <summary>
+        /// Devuelve el párrafo en el índice especificado.
+        /// </summary>
+        /// <param name="index">Índice del párrafo empezando en cero.</param>
+        /// <returns>Un objeto párrafo.</returns>
         public Par GetPar(int index) {
             if (index >= 0 && index < pars.Count) {
                 return pars[index];
             } else return null;
         }
 
+        /// <summary>
+        /// Devuelve el número de párrafos.
+        /// </summary>
+        /// <returns>Número de párrafos.</returns>
         public int GetParLength() {
             return pars.Count;
         }
 
+        /// <summary>
+        /// Devuelve el array de rutas de fichero.
+        /// </summary>
+        /// <returns>Array de rutas de fichero.</returns>
         public string[] GetFilepaths() {
             return filepaths;
         }

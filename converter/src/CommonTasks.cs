@@ -17,22 +17,24 @@ namespace UBSearch {
 
     public class CommonTasks {
         /// <summary>
-        /// Devuelve las rutas de los ficheros LaTeX de la carpeta dada.
+        /// Devuelve las rutas de los ficheros de la carpeta dada.
         /// </summary>
         /// <param name="folder">Carpeta</param>
+        /// <param name="extension">Extensión de los ficheros a buscar</param>
         /// <returns>Array de las rutas.</returns>
-        public static string[] GetLatexFiles(string folder) {
-            string[] latexFiles = null;
+        public static string[] GetFiles(string folder, string extension) {
+            string[] files = null;
             try {
-                latexFiles = Directory.GetFiles(folder, "*.tex");
+                files = Directory.GetFiles(folder, extension);
             } catch (Exception ex) {
                 throw ex;
             }
             //Comprobaciones
-            if (latexFiles.Length == 0) {
-                throw new FileNotFoundException("No se han encontrado ficheros LaTeX en la carpeta seleccionada.");
+            if (files.Length == 0) {
+                throw new FileNotFoundException("No se han encontrado ficheros " +
+                    extension + " en la carpeta seleccionada.");
             }
-            return latexFiles;
+            return files;
         }
 
         /// <summary>

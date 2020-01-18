@@ -41,7 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Book.cs" />
-    <Compile Include="Chapter.cs" />
+    <Compile Include="Paper.cs" />
     <Compile Include="CommonTasks.cs" />
     <Compile Include="Footnote.cs" />
     <Compile Include="FootnotePart.cs" />
@@ -55,9 +55,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Section.cs" />
-    <Content Include="Paramony.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
+    <Compile Include="Term.cs" />
+    <Compile Include="TermInfo.cs" />
+    <Compile Include="TopicIndex.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
