@@ -43,6 +43,8 @@
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.label7 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.btnTopicToWiki = new System.Windows.Forms.Button();
+            this.label11 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.txtResultLog = new System.Windows.Forms.TextBox();
             this.button2 = new System.Windows.Forms.Button();
@@ -50,24 +52,22 @@
             this.button1 = new System.Windows.Forms.Button();
             this.label8 = new System.Windows.Forms.Label();
             this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.btnSelLatexFolder = new System.Windows.Forms.Button();
-            this.txtLatexFolder = new System.Windows.Forms.TextBox();
-            this.label14 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.label15 = new System.Windows.Forms.Label();
-            this.btnSelTopicFolder = new System.Windows.Forms.Button();
-            this.txtTopicFolder = new System.Windows.Forms.TextBox();
-            this.label16 = new System.Windows.Forms.Label();
-            this.btnSelParamony = new System.Windows.Forms.Button();
-            this.txtParamony = new System.Windows.Forms.TextBox();
-            this.label17 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
             this.btnSelWikiFolder = new System.Windows.Forms.Button();
             this.txtWikiFolder = new System.Windows.Forms.TextBox();
             this.label19 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
-            this.btnTopicToWiki = new System.Windows.Forms.Button();
-            this.label11 = new System.Windows.Forms.Label();
+            this.btnSelParamony = new System.Windows.Forms.Button();
+            this.txtParamony = new System.Windows.Forms.TextBox();
+            this.label17 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.btnSelTopicFolder = new System.Windows.Forms.Button();
+            this.txtTopicFolder = new System.Windows.Forms.TextBox();
+            this.label16 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.btnSelLatexFolder = new System.Windows.Forms.Button();
+            this.txtLatexFolder = new System.Windows.Forms.TextBox();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -294,6 +294,26 @@
             this.tabPage2.Text = "Otras cosas";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
+            // btnTopicToWiki
+            // 
+            this.btnTopicToWiki.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnTopicToWiki.Location = new System.Drawing.Point(497, 114);
+            this.btnTopicToWiki.Name = "btnTopicToWiki";
+            this.btnTopicToWiki.Size = new System.Drawing.Size(126, 42);
+            this.btnTopicToWiki.TabIndex = 24;
+            this.btnTopicToWiki.Text = "Convertir Topic Index a formato Wiki";
+            this.btnTopicToWiki.UseVisualStyleBackColor = true;
+            this.btnTopicToWiki.Click += new System.EventHandler(this.btnTopicToWiki_Click);
+            // 
+            // label11
+            // 
+            this.label11.Location = new System.Drawing.Point(8, 114);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(472, 42);
+            this.label11.TabIndex = 23;
+            this.label11.Text = "Haz click en esta opción para convertir los ficheros TXT del Topic Index en fiche" +
+    "ro WIKI localizando errores en el proceso.";
+            // 
             // label10
             // 
             this.label10.AutoSize = true;
@@ -380,81 +400,43 @@
             this.tabPage3.Text = "Configurar";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
-            // btnSelLatexFolder
+            // btnSelWikiFolder
             // 
-            this.btnSelLatexFolder.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnSelLatexFolder.Location = new System.Drawing.Point(531, 30);
-            this.btnSelLatexFolder.Name = "btnSelLatexFolder";
-            this.btnSelLatexFolder.Size = new System.Drawing.Size(98, 29);
-            this.btnSelLatexFolder.TabIndex = 3;
-            this.btnSelLatexFolder.Text = "Seleccionar";
-            this.btnSelLatexFolder.UseVisualStyleBackColor = true;
-            this.btnSelLatexFolder.Click += new System.EventHandler(this.btnSelLatexFolder_Click);
+            this.btnSelWikiFolder.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnSelWikiFolder.Location = new System.Drawing.Point(531, 268);
+            this.btnSelWikiFolder.Name = "btnSelWikiFolder";
+            this.btnSelWikiFolder.Size = new System.Drawing.Size(98, 29);
+            this.btnSelWikiFolder.TabIndex = 15;
+            this.btnSelWikiFolder.Text = "Seleccionar";
+            this.btnSelWikiFolder.UseVisualStyleBackColor = true;
+            this.btnSelWikiFolder.Click += new System.EventHandler(this.btnSelWikiFolder_Click);
             // 
-            // txtLatexFolder
+            // txtWikiFolder
             // 
-            this.txtLatexFolder.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.txtWikiFolder.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtLatexFolder.Location = new System.Drawing.Point(115, 35);
-            this.txtLatexFolder.Name = "txtLatexFolder";
-            this.txtLatexFolder.Size = new System.Drawing.Size(410, 20);
-            this.txtLatexFolder.TabIndex = 2;
+            this.txtWikiFolder.Location = new System.Drawing.Point(115, 273);
+            this.txtWikiFolder.Name = "txtWikiFolder";
+            this.txtWikiFolder.Size = new System.Drawing.Size(410, 20);
+            this.txtWikiFolder.TabIndex = 14;
             // 
-            // label14
+            // label19
             // 
-            this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(17, 40);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(82, 13);
-            this.label14.TabIndex = 1;
-            this.label14.Text = "Ficheros LaTeX";
+            this.label19.AutoSize = true;
+            this.label19.Location = new System.Drawing.Point(17, 278);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(69, 13);
+            this.label19.TabIndex = 13;
+            this.label19.Text = "Fichero WIKI";
             // 
-            // label13
+            // label20
             // 
-            this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(8, 11);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(149, 13);
-            this.label13.TabIndex = 0;
-            this.label13.Text = "Entrada de El Libro de Urantia";
-            // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(8, 71);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(118, 13);
-            this.label15.TabIndex = 4;
-            this.label15.Text = "Entrada de Topic Index";
-            // 
-            // btnSelTopicFolder
-            // 
-            this.btnSelTopicFolder.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnSelTopicFolder.Location = new System.Drawing.Point(531, 97);
-            this.btnSelTopicFolder.Name = "btnSelTopicFolder";
-            this.btnSelTopicFolder.Size = new System.Drawing.Size(98, 29);
-            this.btnSelTopicFolder.TabIndex = 7;
-            this.btnSelTopicFolder.Text = "Seleccionar";
-            this.btnSelTopicFolder.UseVisualStyleBackColor = true;
-            this.btnSelTopicFolder.Click += new System.EventHandler(this.btnSelTopicFolder_Click);
-            // 
-            // txtTopicFolder
-            // 
-            this.txtTopicFolder.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtTopicFolder.Location = new System.Drawing.Point(115, 102);
-            this.txtTopicFolder.Name = "txtTopicFolder";
-            this.txtTopicFolder.Size = new System.Drawing.Size(410, 20);
-            this.txtTopicFolder.TabIndex = 6;
-            // 
-            // label16
-            // 
-            this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(17, 107);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(71, 13);
-            this.label16.TabIndex = 5;
-            this.label16.Text = "Ficheros TXT";
+            this.label20.AutoSize = true;
+            this.label20.Location = new System.Drawing.Point(8, 242);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(99, 13);
+            this.label20.TabIndex = 12;
+            this.label20.Text = "Salida Urantiapedia";
             // 
             // btnSelParamony
             // 
@@ -493,62 +475,81 @@
             this.label18.TabIndex = 8;
             this.label18.Text = "Entrada de Paramony";
             // 
-            // btnSelWikiFolder
+            // btnSelTopicFolder
             // 
-            this.btnSelWikiFolder.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnSelWikiFolder.Location = new System.Drawing.Point(531, 268);
-            this.btnSelWikiFolder.Name = "btnSelWikiFolder";
-            this.btnSelWikiFolder.Size = new System.Drawing.Size(98, 29);
-            this.btnSelWikiFolder.TabIndex = 15;
-            this.btnSelWikiFolder.Text = "Seleccionar";
-            this.btnSelWikiFolder.UseVisualStyleBackColor = true;
+            this.btnSelTopicFolder.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnSelTopicFolder.Location = new System.Drawing.Point(531, 97);
+            this.btnSelTopicFolder.Name = "btnSelTopicFolder";
+            this.btnSelTopicFolder.Size = new System.Drawing.Size(98, 29);
+            this.btnSelTopicFolder.TabIndex = 7;
+            this.btnSelTopicFolder.Text = "Seleccionar";
+            this.btnSelTopicFolder.UseVisualStyleBackColor = true;
+            this.btnSelTopicFolder.Click += new System.EventHandler(this.btnSelTopicFolder_Click);
             // 
-            // txtWikiFolder
+            // txtTopicFolder
             // 
-            this.txtWikiFolder.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.txtTopicFolder.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtWikiFolder.Location = new System.Drawing.Point(115, 273);
-            this.txtWikiFolder.Name = "txtWikiFolder";
-            this.txtWikiFolder.Size = new System.Drawing.Size(410, 20);
-            this.txtWikiFolder.TabIndex = 14;
+            this.txtTopicFolder.Location = new System.Drawing.Point(115, 102);
+            this.txtTopicFolder.Name = "txtTopicFolder";
+            this.txtTopicFolder.Size = new System.Drawing.Size(410, 20);
+            this.txtTopicFolder.TabIndex = 6;
             // 
-            // label19
+            // label16
             // 
-            this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(17, 278);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(69, 13);
-            this.label19.TabIndex = 13;
-            this.label19.Text = "Fichero WIKI";
+            this.label16.AutoSize = true;
+            this.label16.Location = new System.Drawing.Point(17, 107);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(71, 13);
+            this.label16.TabIndex = 5;
+            this.label16.Text = "Ficheros TXT";
             // 
-            // label20
+            // label15
             // 
-            this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(8, 242);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(99, 13);
-            this.label20.TabIndex = 12;
-            this.label20.Text = "Salida Urantiapedia";
+            this.label15.AutoSize = true;
+            this.label15.Location = new System.Drawing.Point(8, 71);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(118, 13);
+            this.label15.TabIndex = 4;
+            this.label15.Text = "Entrada de Topic Index";
             // 
-            // btnTopicToWiki
+            // btnSelLatexFolder
             // 
-            this.btnTopicToWiki.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnTopicToWiki.Location = new System.Drawing.Point(497, 114);
-            this.btnTopicToWiki.Name = "btnTopicToWiki";
-            this.btnTopicToWiki.Size = new System.Drawing.Size(126, 42);
-            this.btnTopicToWiki.TabIndex = 24;
-            this.btnTopicToWiki.Text = "Convertir Topic Index a formato Wiki";
-            this.btnTopicToWiki.UseVisualStyleBackColor = true;
-            this.btnTopicToWiki.Click += new System.EventHandler(this.btnTopicToWiki_Click);
+            this.btnSelLatexFolder.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnSelLatexFolder.Location = new System.Drawing.Point(531, 30);
+            this.btnSelLatexFolder.Name = "btnSelLatexFolder";
+            this.btnSelLatexFolder.Size = new System.Drawing.Size(98, 29);
+            this.btnSelLatexFolder.TabIndex = 3;
+            this.btnSelLatexFolder.Text = "Seleccionar";
+            this.btnSelLatexFolder.UseVisualStyleBackColor = true;
+            this.btnSelLatexFolder.Click += new System.EventHandler(this.btnSelLatexFolder_Click);
             // 
-            // label11
+            // txtLatexFolder
             // 
-            this.label11.Location = new System.Drawing.Point(8, 114);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(472, 42);
-            this.label11.TabIndex = 23;
-            this.label11.Text = "Haz click en esta opción para convertir los ficheros TXT del Topic Index en fiche" +
-    "ro WIKI localizando errores en el proceso.";
+            this.txtLatexFolder.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtLatexFolder.Location = new System.Drawing.Point(115, 35);
+            this.txtLatexFolder.Name = "txtLatexFolder";
+            this.txtLatexFolder.Size = new System.Drawing.Size(410, 20);
+            this.txtLatexFolder.TabIndex = 2;
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Location = new System.Drawing.Point(17, 40);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(82, 13);
+            this.label14.TabIndex = 1;
+            this.label14.Text = "Ficheros LaTeX";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Location = new System.Drawing.Point(8, 11);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(149, 13);
+            this.label13.TabIndex = 0;
+            this.label13.Text = "Entrada de El Libro de Urantia";
             // 
             // Form1
             // 

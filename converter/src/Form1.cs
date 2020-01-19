@@ -431,16 +431,36 @@ namespace UBSearch {
                 return;
             }
 
+            //Obtener el output
+            string folder = txtWikiFolder.Text;
+            if (folder == "") {
+                MessageBox.Show("Selecciona la carpeta de salida");
+                return;
+            }
+
             //Leer ficheros LaTeX
             TopicIndex topicIndex = new TopicIndex(topicFiles, progressBar1);
-            //MessageBox.Show(topicIndex.GetTermLength().ToString());
 
             //Presentar resultados
-            StringBuilder sb = new StringBuilder();
-            for (int n = 0; n < topicIndex.GetTermLength(); n++) {
-                sb.Append(topicIndex.GetTerm(n).Name + "\r\n");
-            }
-            this.txtResultLog.Text = sb.ToString();
+            //StringBuilder sb = new StringBuilder();
+            //Term term;
+            //for (int n = 0; n < topicIndex.GetTermLength(); n++) {
+            //    term = topicIndex.GetTerm(n);
+            //    sb.Append(term.Name + ": ");
+            //    foreach(string seeAlso in term.SeeAlso) sb.Append(seeAlso + " | ");
+            //    foreach (string r in term.References) sb.Append(r + " | ");
+            //    sb.Append("\r\n");
+            //    foreach(TermInfo ti in term.Infos) {
+            //        sb.Append("[" + ti.Level.ToString() + "] " + ti.Content + ": ");
+            //        foreach (string r in ti.References) sb.Append(r + " | ");
+            //        sb.Append("\r\n");
+            //    }
+            //    sb.Append("--------------------------------------------\r\n");
+            //}
+            //this.txtResultLog.Text = sb.ToString();
+
+            //Convertir a ficheros wiki
+            topicIndex.WriteAsWiki(folder);
         }
 
         private void btnSelTopicFolder_Click(object sender, EventArgs e) {
@@ -454,6 +474,14 @@ namespace UBSearch {
                 } catch (Exception ex) {
                     MessageBox.Show(ex.Message);
                 }
+            }
+        }
+
+        private void btnSelWikiFolder_Click(object sender, EventArgs e) {
+            FolderBrowserDialog fbd = new FolderBrowserDialog();
+            fbd.Description = "Selecciona carpeta de salida";
+            if (fbd.ShowDialog() == DialogResult.OK) {
+                txtWikiFolder.Text = fbd.SelectedPath;
             }
         }
     }

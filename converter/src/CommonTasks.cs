@@ -152,5 +152,34 @@ namespace UBSearch {
 
             return sb.ToString();
         }
+
+        /// <summary>
+        /// Convierte una referencia a estilo wiki.
+        /// Ejemplos: 
+        /// 8:2 > {{luref|8|2|1|}}
+        /// 10:8.3 > {{luref|10|8|3|.3}}
+        /// 43:5.1-3 > {{luref|43|5|1|.1-3}}
+        /// 125:6.1sec > {{luref|125|6|1|.1sec}}
+        /// 80:4.6,9 > {{luref|80|4|6|.6,9}}
+        /// </summary>
+        /// <param name="reference">Referencia.</param>
+        /// <returns>Referencia en estilo Wiki.</returns>
+        public static string RefToWiki(string reference) {
+            string[] nums = reference.Split(new char[] { ':' });
+            string wiki = "";
+            string template = "{{luref|{0}|{1}|{2}|{3}}}";
+            if (nums.Length == 2) {
+                int i = nums[1].IndexOf('.');
+                if (i == -1) {
+                    wiki = String.Format(template, nums[0], nums[1], "1", "");
+                } else {
+                    string n1 = nums[1].Substring(0, i);
+                    string n2 = nums[1].Substring(i + 1);
+                    string[] nn = n2.Split(new char[] { ',', '.', '-' });
+                    wiki = String.Format(template, nums[0], n1, nn[0], n2);
+                }
+            }
+            return wiki;
+        }
     }
 }

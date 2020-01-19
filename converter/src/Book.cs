@@ -38,6 +38,7 @@ namespace UBSearch {
 
         private void Read() {
             pars.Clear();
+            errors.Clear();
             if (filepaths == null) return;
 
             string line, linePrevious = "", extract;
