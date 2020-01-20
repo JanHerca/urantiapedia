@@ -30,6 +30,9 @@ namespace UBSearch {
             this.references = references;
         }
 
+        /// <summary>
+        /// Devuelve o establece el nombre del término.
+        /// </summary>
         public string Name {
             get {
                 return this.name;
@@ -39,6 +42,20 @@ namespace UBSearch {
             }
         }
 
+        /// <summary>
+        /// Devuelve la abreviatura del nombre del término.
+        /// </summary>
+        /// <returns>Abreviatura.</returns>
+        public string GetAbbreviation() {
+            string[] subs = this.name.Split(new char[] { ' ' });
+            string abb = "";
+            foreach (string a in subs) abb += a[0] + ".";
+            return abb;
+        }
+
+        /// <summary>
+        /// Devuelve o establece la lista de términos relacionados.
+        /// </summary>
         public List<string> SeeAlso {
             get {
                 return this.seeAlso;
@@ -48,6 +65,9 @@ namespace UBSearch {
             }
         }
 
+        /// <summary>
+        /// Devuelve o establece la lista de informaciones de este término.
+        /// </summary>
         public List<TermInfo> Infos {
             get {
                 return this.infos;
@@ -57,6 +77,11 @@ namespace UBSearch {
             }
         }
 
+        /// <summary>
+        /// Añade una nueva información al término.
+        /// </summary>
+        /// <param name="info">Información a añadir.</param>
+        /// <returns>Índice que ocupa la nueva información en la lista.</returns>
         public int AddInfo(TermInfo info) {
             infos.Add(info);
             return infos.Count - 1;
@@ -71,6 +96,12 @@ namespace UBSearch {
             }
         }
 
+        /// <summary>
+        /// Devuelve true si este término es una redirección, es decir,
+        /// si no contiene ninguna información y sólo tiene un término
+        /// relacionado.
+        /// </summary>
+        /// <returns>True o False.</returns>
         public bool IsRedirection() {
             return (this.infos.Count == 0 && this.seeAlso.Count == 1);
         }
@@ -88,10 +119,29 @@ namespace UBSearch {
             TermInfo info;
             for (int n = index + 1; n < infos.Count; n++) {
                 info = infos[n];
-                if (info.Level < level) count++;
+                if (info.Level > level) count++;
                 else break;
             }
             return count;
+        }
+
+        /// <summary>
+        /// Devuelve una representación en forma de texto de este objeto.
+        /// </summary>
+        /// <returns>Texto.</returns>
+        public override string ToString() {
+            StringBuilder sb = new StringBuilder();
+            sb.Append(Name + ": ");
+            foreach (string seeAlso in SeeAlso) sb.Append(seeAlso + " | ");
+            foreach (string r in References) sb.Append(r + " | ");
+            sb.Append("\r\n");
+            foreach (TermInfo ti in Infos) {
+                sb.Append("[" + ti.Level.ToString() + "] " + ti.Content + ": ");
+                foreach (string r in ti.References) sb.Append(r + " | ");
+                sb.Append("\r\n");
+            }
+            sb.Append("--------------------------------------------\r\n");
+            return sb.ToString();
         }
     }
 }

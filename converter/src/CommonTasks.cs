@@ -154,7 +154,8 @@ namespace UBSearch {
         }
 
         /// <summary>
-        /// Convierte una referencia a estilo wiki.
+        /// Convierte una referencia a estilo wiki usando la template Luref
+        /// que permite escribir de una forma muy compacta una referencia.
         /// Ejemplos: 
         /// 8:2 > {{luref|8|2|1|}}
         /// 10:8.3 > {{luref|10|8|3|.3}}
@@ -167,7 +168,7 @@ namespace UBSearch {
         public static string RefToWiki(string reference) {
             string[] nums = reference.Split(new char[] { ':' });
             string wiki = "";
-            string template = "{{luref|{0}|{1}|{2}|{3}}}";
+            string template = "luref|{0}|{1}|{2}|{3}";
             if (nums.Length == 2) {
                 int i = nums[1].IndexOf('.');
                 if (i == -1) {
@@ -176,10 +177,10 @@ namespace UBSearch {
                     string n1 = nums[1].Substring(0, i);
                     string n2 = nums[1].Substring(i + 1);
                     string[] nn = n2.Split(new char[] { ',', '.', '-' });
-                    wiki = String.Format(template, nums[0], n1, nn[0], n2);
+                    wiki = String.Format(template, nums[0], n1, nn[0], "." + n2);
                 }
             }
-            return wiki;
+            return "{{" + wiki + "}}";
         }
     }
 }

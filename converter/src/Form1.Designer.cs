@@ -43,13 +43,10 @@
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.label7 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.btnTopicToWiki = new System.Windows.Forms.Button();
-            this.label11 = new System.Windows.Forms.Label();
+            this.btnExecute = new System.Windows.Forms.Button();
+            this.cmbAction = new System.Windows.Forms.ComboBox();
             this.label10 = new System.Windows.Forms.Label();
             this.txtResultLog = new System.Windows.Forms.TextBox();
-            this.button2 = new System.Windows.Forms.Button();
-            this.label9 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
             this.label8 = new System.Windows.Forms.Label();
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.btnSelWikiFolder = new System.Windows.Forms.Button();
@@ -278,13 +275,10 @@
             // 
             // tabPage2
             // 
-            this.tabPage2.Controls.Add(this.btnTopicToWiki);
-            this.tabPage2.Controls.Add(this.label11);
+            this.tabPage2.Controls.Add(this.btnExecute);
+            this.tabPage2.Controls.Add(this.cmbAction);
             this.tabPage2.Controls.Add(this.label10);
             this.tabPage2.Controls.Add(this.txtResultLog);
-            this.tabPage2.Controls.Add(this.button2);
-            this.tabPage2.Controls.Add(this.label9);
-            this.tabPage2.Controls.Add(this.button1);
             this.tabPage2.Controls.Add(this.label8);
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
@@ -294,30 +288,35 @@
             this.tabPage2.Text = "Otras cosas";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
-            // btnTopicToWiki
+            // btnExecute
             // 
-            this.btnTopicToWiki.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnTopicToWiki.Location = new System.Drawing.Point(497, 114);
-            this.btnTopicToWiki.Name = "btnTopicToWiki";
-            this.btnTopicToWiki.Size = new System.Drawing.Size(126, 42);
-            this.btnTopicToWiki.TabIndex = 24;
-            this.btnTopicToWiki.Text = "Convertir Topic Index a formato Wiki";
-            this.btnTopicToWiki.UseVisualStyleBackColor = true;
-            this.btnTopicToWiki.Click += new System.EventHandler(this.btnTopicToWiki_Click);
+            this.btnExecute.Location = new System.Drawing.Point(497, 9);
+            this.btnExecute.Name = "btnExecute";
+            this.btnExecute.Size = new System.Drawing.Size(126, 30);
+            this.btnExecute.TabIndex = 26;
+            this.btnExecute.Text = "Ejecutar";
+            this.btnExecute.UseVisualStyleBackColor = true;
+            this.btnExecute.Click += new System.EventHandler(this.btnExecute_Click);
             // 
-            // label11
+            // cmbAction
             // 
-            this.label11.Location = new System.Drawing.Point(8, 114);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(472, 42);
-            this.label11.TabIndex = 23;
-            this.label11.Text = "Haz click en esta opción para convertir los ficheros TXT del Topic Index en fiche" +
-    "ro WIKI localizando errores en el proceso.";
+            this.cmbAction.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbAction.FormattingEnabled = true;
+            this.cmbAction.Items.AddRange(new object[] {
+            "Corregir fichero Paramony.txt",
+            "Buscar citas bíblicas incorrectas",
+            "Listar términos de los ficheros txt del Topic index",
+            "Convertir ficheros txt del Topic index a formato Wiki"});
+            this.cmbAction.Location = new System.Drawing.Point(11, 15);
+            this.cmbAction.Name = "cmbAction";
+            this.cmbAction.Size = new System.Drawing.Size(442, 21);
+            this.cmbAction.TabIndex = 25;
+            this.cmbAction.SelectedIndexChanged += new System.EventHandler(this.cmbAction_SelectedIndexChanged);
             // 
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(8, 156);
+            this.label10.Location = new System.Drawing.Point(11, 91);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(63, 13);
             this.label10.TabIndex = 21;
@@ -328,52 +327,21 @@
             this.txtResultLog.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtResultLog.Location = new System.Drawing.Point(11, 172);
+            this.txtResultLog.Location = new System.Drawing.Point(11, 107);
             this.txtResultLog.Multiline = true;
             this.txtResultLog.Name = "txtResultLog";
             this.txtResultLog.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.txtResultLog.Size = new System.Drawing.Size(612, 411);
+            this.txtResultLog.Size = new System.Drawing.Size(612, 476);
             this.txtResultLog.TabIndex = 22;
-            // 
-            // button2
-            // 
-            this.button2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.button2.Location = new System.Drawing.Point(497, 62);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(126, 42);
-            this.button2.TabIndex = 20;
-            this.button2.Text = "Buscar citas bíblicas incorrectas";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // label9
-            // 
-            this.label9.Location = new System.Drawing.Point(8, 62);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(472, 42);
-            this.label9.TabIndex = 19;
-            this.label9.Text = "Haz click en esta opción para buscar todas las líneas que contienen citas bíblica" +
-    "s en formato incorrecto en todos los ficheros LaTeX existentes en la carpeta de " +
-    "la aplicación.";
-            // 
-            // button1
-            // 
-            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.button1.Location = new System.Drawing.Point(497, 14);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(126, 42);
-            this.button1.TabIndex = 18;
-            this.button1.Text = "Corregir fichero Paramony.txt";
-            this.button1.UseVisualStyleBackColor = true;
             // 
             // label8
             // 
-            this.label8.Location = new System.Drawing.Point(8, 14);
+            this.label8.Location = new System.Drawing.Point(11, 49);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(472, 42);
+            this.label8.Size = new System.Drawing.Size(442, 42);
             this.label8.TabIndex = 1;
-            this.label8.Text = "Haz click en esta opción para ejecutar una ordenación correcta de citas bíblicas " +
-    "en el fichero Paramony.txt descargado de la web de Fundación Urantia.";
+            this.label8.Text = "Ejecuta esta opción para ejecutar una ordenación correcta de citas bíblicas en el" +
+    " fichero Paramony.txt descargado de la web de Fundación Urantia.";
             // 
             // tabPage3
             // 
@@ -593,10 +561,7 @@
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.TextBox txtResultLog;
         private System.Windows.Forms.TabPage tabPage3;
@@ -617,8 +582,8 @@
         private System.Windows.Forms.TextBox txtParamony;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.Label label18;
-        private System.Windows.Forms.Button btnTopicToWiki;
-        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Button btnExecute;
+        private System.Windows.Forms.ComboBox cmbAction;
     }
 }
 

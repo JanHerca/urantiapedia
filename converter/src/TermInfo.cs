@@ -70,14 +70,24 @@ namespace UBSearch {
 
         /// <summary>
         /// Convierte esta información a formato wiki.
+        /// Si aparece el nombre del término en forma de abreviatura
+        /// se reemplaza por el nombre del término.
         /// </summary>
+        /// <param name="abb">Abreviatura del término.</param>
+        /// <param name="name">Nombre del término.</param>
         /// <returns></returns>
-        public string ToWiki() {
+        public string ToWiki(string abb, string name) {
             StringBuilder sb = new StringBuilder();
-            sb.Append(content);
-            if (references.Count == 0) sb.Append(": ");
-            else sb.Append(". ");
-            foreach(string r in references) sb.Append("")
+            string content2 = content.Replace(abb, name);
+            sb.Append(content2);
+
+            if (References.Count > 0) {
+                for (int n = 0; n < References.Count; n++) {
+                    sb.Append(CommonTasks.RefToWiki(References[n]));
+                    if (n > 0 && n != References.Count - 1) sb.Append(" ");
+                }
+            }
+            return sb.ToString();
         }
     }
 }

@@ -12,6 +12,8 @@ namespace UBSearch {
 
         public Form1() {
             InitializeComponent();
+
+            cmbAction.SelectedIndex = 0;
         }
 
         private void btnBuscar_Click(object sender, EventArgs e) {
@@ -187,12 +189,106 @@ namespace UBSearch {
 
         }
 
-        /// <summary>
-        /// Corrije el fichero Paramony.
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void button1_Click(object sender, EventArgs e) {
+        private string compactarCapituloVersiculo(string entrada) {
+            //compacta un capitulo versiculo haciendo que los números no tengan ceros a la izquierda
+            // por ejemplo: 01:08 es convertido a 1:8 o 01:08-09,02 a 1:8-9,2
+
+            char[] seps = { ':', '-', ',', '.', ';' };
+
+            char caracter;
+            string numStr = "";
+            StringBuilder sb = new StringBuilder();
+            for (int n = 0; n < entrada.Length; n++) {
+                caracter = entrada[n];
+                if (Array.IndexOf(seps, caracter) != -1) {
+                    if (numStr != "") {
+                        sb.Append(numStr);
+                        numStr = "";
+                    }
+                    sb.Append(caracter);
+                } else {
+                    if (numStr == "") {
+                        if (caracter != '0') {
+                            numStr = numStr + caracter;
+                        }
+                    } else {
+                        numStr = numStr + caracter;
+                    }
+                }
+            }
+            if (numStr != "") {
+                sb.Append(numStr);
+            }
+            return sb.ToString();
+        }
+
+        private void btnSelLatexFolder_Click(object sender, EventArgs e) {
+            FolderBrowserDialog fbd = new FolderBrowserDialog();
+            fbd.Description = "Selecciona carpeta con ficheros LaTeX";
+            if (fbd.ShowDialog() == DialogResult.OK) {
+                txtLatexFolder.Text = fbd.SelectedPath;
+                //Comprobamos si hay ficheros
+                try {
+                    CommonTasks.GetFiles(txtLatexFolder.Text, "*.tex");
+                } catch (Exception ex) {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+        }
+
+        private void btnSelTopicFolder_Click(object sender, EventArgs e) {
+            FolderBrowserDialog fbd = new FolderBrowserDialog();
+            fbd.Description = "Selecciona carpeta con ficheros TXT";
+            if (fbd.ShowDialog() == DialogResult.OK) {
+                txtTopicFolder.Text = fbd.SelectedPath;
+                //Comprobamos si hay ficheros
+                try {
+                    CommonTasks.GetFiles(txtTopicFolder.Text, "*.txt");
+                } catch (Exception ex) {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+        }
+
+        private void btnSelWikiFolder_Click(object sender, EventArgs e) {
+            FolderBrowserDialog fbd = new FolderBrowserDialog();
+            fbd.Description = "Selecciona carpeta de salida";
+            if (fbd.ShowDialog() == DialogResult.OK) {
+                txtWikiFolder.Text = fbd.SelectedPath;
+            }
+        }
+
+        private void btnExecute_Click(object sender, EventArgs e) {
+            int index = cmbAction.SelectedIndex;
+            if (index == 0) {
+                CorregirParamony();
+            } else if (index == 1) {
+                BuscarCitasIncorrectas();
+            } else if (index == 2) {
+                ListarTerminos();
+            } else if (index == 3) {
+                ConvertirAWiki();
+            }
+        }
+
+        private void cmbAction_SelectedIndexChanged(object sender, EventArgs e) {
+            string[] helpStrs = new string[] {
+                "Ejecuta esta opción para ejecutar una ordenación correcta " +
+                    "de citas bíblicas en el fichero Paramony.txt descargado de " +
+                    "la web de Fundación Urantia.",
+                "Ejecuta esta opción para buscar todas las líneas que contienen " +
+                    "citas bíblicas en formato incorrecto en todos los ficheros " +
+                    "LaTeX existentes en la carpeta de la aplicación.",
+                "Ejecuta esta opción para sacar un listado de todos los términos " +
+                    "disponibles en los ficheros txt de entrada del Topic index.",
+                "Ejecuta esta opción para convertir los ficheros TXT del Topic " +
+                    "Index en fichero WIKI localizando errores en el proceso."
+            };
+            string help = helpStrs[cmbAction.SelectedIndex];
+            label8.Text = help;
+        }
+
+        private void CorregirParamony() {
             string currentFolder = AppDomain.CurrentDomain.BaseDirectory;
 
             string[] rutas = System.IO.Directory.GetFiles(currentFolder, "Paramony.txt");
@@ -303,11 +399,11 @@ namespace UBSearch {
             if (errores) {
                 this.txtLog.Text = sbErrores.ToString();
             } else {
-                
-                foreach(KeyValuePair<string, SortedDictionary<string, string>> entry in resultados) {
+
+                foreach (KeyValuePair<string, SortedDictionary<string, string>> entry in resultados) {
                     StringBuilder sb2 = new StringBuilder();
                     bool first = true;
-                    foreach(KeyValuePair<string, string> entry2 in entry.Value) {
+                    foreach (KeyValuePair<string, string> entry2 in entry.Value) {
                         if (!first) sb2.Append("; ");
                         if (first) first = !first;
                         sb2.Append(entry2.Value);
@@ -317,48 +413,9 @@ namespace UBSearch {
                 }
                 this.txtLog.Text = sbResultados.ToString();
             }
-            
         }
 
-        private string compactarCapituloVersiculo(string entrada) {
-            //compacta un capitulo versiculo haciendo que los números no tengan ceros a la izquierda
-            // por ejemplo: 01:08 es convertido a 1:8 o 01:08-09,02 a 1:8-9,2
-
-            char[] seps = { ':', '-', ',', '.', ';' };
-
-            char caracter;
-            string numStr = "";
-            StringBuilder sb = new StringBuilder();
-            for (int n = 0; n < entrada.Length; n++) {
-                caracter = entrada[n];
-                if (Array.IndexOf(seps, caracter) != -1) {
-                    if (numStr != "") {
-                        sb.Append(numStr);
-                        numStr = "";
-                    }
-                    sb.Append(caracter);
-                } else {
-                    if (numStr == "") {
-                        if (caracter != '0') {
-                            numStr = numStr + caracter;
-                        }
-                    } else {
-                        numStr = numStr + caracter;
-                    }
-                }
-            }
-            if (numStr != "") {
-                sb.Append(numStr);
-            }
-            return sb.ToString();
-        }
-
-        /// <summary>
-        /// Buscar citas bíblicas incorrectas.
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void button2_Click(object sender, EventArgs e) {
+        private void BuscarCitasIncorrectas() {
             //Buscar todos los párrafos con footnotes donde las abreviaturas biblicas se repiten
 
             //Obtener el input
@@ -404,24 +461,9 @@ namespace UBSearch {
                 sb.Append(resultados[n] + "\r\n");
             }
             this.txtResultLog.Text = sb.ToString();
-
         }
 
-        private void btnSelLatexFolder_Click(object sender, EventArgs e) {
-            FolderBrowserDialog fbd = new FolderBrowserDialog();
-            fbd.Description = "Selecciona carpeta con ficheros LaTeX";
-            if (fbd.ShowDialog() == DialogResult.OK) {
-                txtLatexFolder.Text = fbd.SelectedPath;
-                //Comprobamos si hay ficheros
-                try {
-                    CommonTasks.GetFiles(txtLatexFolder.Text, "*.tex");
-                } catch (Exception ex) {
-                    MessageBox.Show(ex.Message);
-                }
-            }
-        }
-
-        private void btnTopicToWiki_Click(object sender, EventArgs e) {
+        private void ListarTerminos() {
             //Obtener el input
             string[] topicFiles = null;
             try {
@@ -439,50 +481,43 @@ namespace UBSearch {
             }
 
             //Leer ficheros LaTeX
-            TopicIndex topicIndex = new TopicIndex(topicFiles, progressBar1);
+            TopicIndex topicIndex = new TopicIndex(topicFiles);
+            topicIndex.ProgressBar = progressBar1;
+            topicIndex.LogTextBox = txtResultLog;
+            topicIndex.Read();
 
-            //Presentar resultados
-            //StringBuilder sb = new StringBuilder();
-            //Term term;
-            //for (int n = 0; n < topicIndex.GetTermLength(); n++) {
-            //    term = topicIndex.GetTerm(n);
-            //    sb.Append(term.Name + ": ");
-            //    foreach(string seeAlso in term.SeeAlso) sb.Append(seeAlso + " | ");
-            //    foreach (string r in term.References) sb.Append(r + " | ");
-            //    sb.Append("\r\n");
-            //    foreach(TermInfo ti in term.Infos) {
-            //        sb.Append("[" + ti.Level.ToString() + "] " + ti.Content + ": ");
-            //        foreach (string r in ti.References) sb.Append(r + " | ");
-            //        sb.Append("\r\n");
-            //    }
-            //    sb.Append("--------------------------------------------\r\n");
-            //}
-            //this.txtResultLog.Text = sb.ToString();
+            //Crear listado de términos
+            topicIndex.WriteList(folder);
+
+        }
+
+        private void ConvertirAWiki() {
+            //Obtener el input
+            string[] topicFiles = null;
+            try {
+                topicFiles = CommonTasks.GetFiles(txtTopicFolder.Text, "*.txt");
+            } catch (Exception ex) {
+                MessageBox.Show(ex.Message);
+                return;
+            }
+
+            //Obtener el output
+            string folder = txtWikiFolder.Text;
+            if (folder == "") {
+                MessageBox.Show("Selecciona la carpeta de salida");
+                return;
+            }
+
+            //Leer ficheros LaTeX
+            TopicIndex topicIndex = new TopicIndex(topicFiles);
+            topicIndex.ProgressBar = progressBar1;
+            topicIndex.LogTextBox = txtResultLog;
+            topicIndex.Read();
 
             //Convertir a ficheros wiki
             topicIndex.WriteAsWiki(folder);
         }
 
-        private void btnSelTopicFolder_Click(object sender, EventArgs e) {
-            FolderBrowserDialog fbd = new FolderBrowserDialog();
-            fbd.Description = "Selecciona carpeta con ficheros TXT";
-            if (fbd.ShowDialog() == DialogResult.OK) {
-                txtTopicFolder.Text = fbd.SelectedPath;
-                //Comprobamos si hay ficheros
-                try {
-                    CommonTasks.GetFiles(txtTopicFolder.Text, "*.txt");
-                } catch (Exception ex) {
-                    MessageBox.Show(ex.Message);
-                }
-            }
-        }
 
-        private void btnSelWikiFolder_Click(object sender, EventArgs e) {
-            FolderBrowserDialog fbd = new FolderBrowserDialog();
-            fbd.Description = "Selecciona carpeta de salida";
-            if (fbd.ShowDialog() == DialogResult.OK) {
-                txtWikiFolder.Text = fbd.SelectedPath;
-            }
-        }
     }
 }
