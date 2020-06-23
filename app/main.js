@@ -13,7 +13,10 @@ app.once('ready', () => {
 		// Set the initial height to 500px
 		// height: 500,
 		// Don't show the window until it ready, this prevents any white flickering
-		show: false
+		show: false,
+		webPreferences: {
+			nodeIntegration: true
+		}
 	});
 
 	// Load a URL in the window to the local index.html path
