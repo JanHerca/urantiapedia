@@ -1,0 +1,30 @@
+{
+  "name": "urantiapedia",
+  "version": "1.0.0",
+  "description": "Una Wiki para El Libro de Urantia",
+  "main": "./app/main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanHerca/urantiapedia.git"
+  },
+  "keywords": [
+    "Urantia",
+    "Wiki"
+  ],
+  "author": "Jan Herca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanHerca/urantiapedia/issues"
+  },
+  "homepage": "https://github.com/JanHerca/urantiapedia#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "electron": "^9.0.5"
+  }
+}
