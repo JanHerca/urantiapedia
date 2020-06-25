@@ -1,0 +1,1320 @@
+{
+    "paper_index": 30,
+    "sections": [
+        {
+            "section_index": 0,
+            "section_ref": "30:0",
+            "pars": [
+                {
+                    "par_ref": "30:0.1",
+                    "par_pageref": "330.1"
+                },
+                {
+                    "par_ref": "30:0.2",
+                    "par_pageref": "330.2"
+                }
+            ]
+        },
+        {
+            "section_index": 1,
+            "section_ref": "30:1",
+            "pars": [
+                {
+                    "par_ref": "30:1.1",
+                    "par_pageref": "330.3"
+                },
+                {
+                    "par_ref": "30:1.2",
+                    "par_pageref": "330.4"
+                },
+                {
+                    "par_ref": "30:1.3",
+                    "par_pageref": "330.5"
+                },
+                {
+                    "par_ref": "30:1.4",
+                    "par_pageref": "330.6"
+                },
+                {
+                    "par_ref": "30:1.5",
+                    "par_pageref": "330.7"
+                },
+                {
+                    "par_ref": "30:1.6",
+                    "par_pageref": "330.8"
+                },
+                {
+                    "par_ref": "30:1.7",
+                    "par_pageref": "330.9"
+                },
+                {
+                    "par_ref": "30:1.8",
+                    "par_pageref": "330.10"
+                },
+                {
+                    "par_ref": "30:1.9",
+                    "par_pageref": "330.11"
+                },
+                {
+                    "par_ref": "30:1.10",
+                    "par_pageref": "330.12"
+                },
+                {
+                    "par_ref": "30:1.11",
+                    "par_pageref": "330.13"
+                },
+                {
+                    "par_ref": "30:1.12",
+                    "par_pageref": "331.1"
+                },
+                {
+                    "par_ref": "30:1.13",
+                    "par_pageref": "331.2"
+                },
+                {
+                    "par_ref": "30:1.14",
+                    "par_pageref": "331.3"
+                },
+                {
+                    "par_ref": "30:1.15",
+                    "par_pageref": "331.4"
+                },
+                {
+                    "par_ref": "30:1.16",
+                    "par_pageref": "331.5"
+                },
+                {
+                    "par_ref": "30:1.17",
+                    "par_pageref": "331.6"
+                },
+                {
+                    "par_ref": "30:1.18",
+                    "par_pageref": "331.7"
+                },
+                {
+                    "par_ref": "30:1.19",
+                    "par_pageref": "331.8"
+                },
+                {
+                    "par_ref": "30:1.20",
+                    "par_pageref": "331.9"
+                },
+                {
+                    "par_ref": "30:1.21",
+                    "par_pageref": "331.10"
+                },
+                {
+                    "par_ref": "30:1.22",
+                    "par_pageref": "331.11"
+                },
+                {
+                    "par_ref": "30:1.23",
+                    "par_pageref": "331.12"
+                },
+                {
+                    "par_ref": "30:1.24",
+                    "par_pageref": "331.13"
+                },
+                {
+                    "par_ref": "30:1.25",
+                    "par_pageref": "331.14"
+                },
+                {
+                    "par_ref": "30:1.26",
+                    "par_pageref": "331.15"
+                },
+                {
+                    "par_ref": "30:1.27",
+                    "par_pageref": "331.16"
+                },
+                {
+                    "par_ref": "30:1.28",
+                    "par_pageref": "331.17"
+                },
+                {
+                    "par_ref": "30:1.29",
+                    "par_pageref": "331.18"
+                },
+                {
+                    "par_ref": "30:1.30",
+                    "par_pageref": "331.19"
+                },
+                {
+                    "par_ref": "30:1.31",
+                    "par_pageref": "331.20"
+                },
+                {
+                    "par_ref": "30:1.32",
+                    "par_pageref": "331.21"
+                },
+                {
+                    "par_ref": "30:1.33",
+                    "par_pageref": "331.22"
+                },
+                {
+                    "par_ref": "30:1.34",
+                    "par_pageref": "331.23"
+                },
+                {
+                    "par_ref": "30:1.35",
+                    "par_pageref": "331.24"
+                },
+                {
+                    "par_ref": "30:1.36",
+                    "par_pageref": "331.25"
+                },
+                {
+                    "par_ref": "30:1.37",
+                    "par_pageref": "331.26"
+                },
+                {
+                    "par_ref": "30:1.38",
+                    "par_pageref": "331.27"
+                },
+                {
+                    "par_ref": "30:1.39",
+                    "par_pageref": "331.28"
+                },
+                {
+                    "par_ref": "30:1.40",
+                    "par_pageref": "331.29"
+                },
+                {
+                    "par_ref": "30:1.41",
+                    "par_pageref": "331.30"
+                },
+                {
+                    "par_ref": "30:1.42",
+                    "par_pageref": "331.31"
+                },
+                {
+                    "par_ref": "30:1.43",
+                    "par_pageref": "331.32"
+                },
+                {
+                    "par_ref": "30:1.44",
+                    "par_pageref": "331.33"
+                },
+                {
+                    "par_ref": "30:1.45",
+                    "par_pageref": "331.34"
+                },
+                {
+                    "par_ref": "30:1.46",
+                    "par_pageref": "331.35"
+                },
+                {
+                    "par_ref": "30:1.47",
+                    "par_pageref": "331.36"
+                },
+                {
+                    "par_ref": "30:1.48",
+                    "par_pageref": "331.37"
+                },
+                {
+                    "par_ref": "30:1.49",
+                    "par_pageref": "331.38"
+                },
+                {
+                    "par_ref": "30:1.50",
+                    "par_pageref": "331.39"
+                },
+                {
+                    "par_ref": "30:1.51",
+                    "par_pageref": "331.40"
+                },
+                {
+                    "par_ref": "30:1.52",
+                    "par_pageref": "331.41"
+                },
+                {
+                    "par_ref": "30:1.53",
+                    "par_pageref": "331.42"
+                },
+                {
+                    "par_ref": "30:1.54",
+                    "par_pageref": "331.43"
+                },
+                {
+                    "par_ref": "30:1.55",
+                    "par_pageref": "332.1"
+                },
+                {
+                    "par_ref": "30:1.56",
+                    "par_pageref": "332.2"
+                },
+                {
+                    "par_ref": "30:1.57",
+                    "par_pageref": "332.3"
+                },
+                {
+                    "par_ref": "30:1.58",
+                    "par_pageref": "332.4"
+                },
+                {
+                    "par_ref": "30:1.59",
+                    "par_pageref": "332.5"
+                },
+                {
+                    "par_ref": "30:1.60",
+                    "par_pageref": "332.6"
+                },
+                {
+                    "par_ref": "30:1.61",
+                    "par_pageref": "332.7"
+                },
+                {
+                    "par_ref": "30:1.62",
+                    "par_pageref": "332.8"
+                },
+                {
+                    "par_ref": "30:1.63",
+                    "par_pageref": "332.9"
+                },
+                {
+                    "par_ref": "30:1.64",
+                    "par_pageref": "332.10"
+                },
+                {
+                    "par_ref": "30:1.65",
+                    "par_pageref": "332.11"
+                },
+                {
+                    "par_ref": "30:1.66",
+                    "par_pageref": "332.12"
+                },
+                {
+                    "par_ref": "30:1.67",
+                    "par_pageref": "332.13"
+                },
+                {
+                    "par_ref": "30:1.68",
+                    "par_pageref": "332.14"
+                },
+                {
+                    "par_ref": "30:1.69",
+                    "par_pageref": "332.15"
+                },
+                {
+                    "par_ref": "30:1.70",
+                    "par_pageref": "332.16"
+                },
+                {
+                    "par_ref": "30:1.71",
+                    "par_pageref": "332.17"
+                },
+                {
+                    "par_ref": "30:1.72",
+                    "par_pageref": "332.18"
+                },
+                {
+                    "par_ref": "30:1.73",
+                    "par_pageref": "332.19"
+                },
+                {
+                    "par_ref": "30:1.74",
+                    "par_pageref": "332.20"
+                },
+                {
+                    "par_ref": "30:1.75",
+                    "par_pageref": "332.21"
+                },
+                {
+                    "par_ref": "30:1.76",
+                    "par_pageref": "332.22"
+                },
+                {
+                    "par_ref": "30:1.77",
+                    "par_pageref": "332.23"
+                },
+                {
+                    "par_ref": "30:1.78",
+                    "par_pageref": "332.24"
+                },
+                {
+                    "par_ref": "30:1.79",
+                    "par_pageref": "332.25"
+                },
+                {
+                    "par_ref": "30:1.80",
+                    "par_pageref": "332.26"
+                },
+                {
+                    "par_ref": "30:1.81",
+                    "par_pageref": "332.27"
+                },
+                {
+                    "par_ref": "30:1.82",
+                    "par_pageref": "332.28"
+                },
+                {
+                    "par_ref": "30:1.83",
+                    "par_pageref": "332.29"
+                },
+                {
+                    "par_ref": "30:1.84",
+                    "par_pageref": "332.30"
+                },
+                {
+                    "par_ref": "30:1.85",
+                    "par_pageref": "332.31"
+                },
+                {
+                    "par_ref": "30:1.86",
+                    "par_pageref": "332.32"
+                },
+                {
+                    "par_ref": "30:1.87",
+                    "par_pageref": "332.33"
+                },
+                {
+                    "par_ref": "30:1.88",
+                    "par_pageref": "332.34"
+                },
+                {
+                    "par_ref": "30:1.89",
+                    "par_pageref": "332.35"
+                },
+                {
+                    "par_ref": "30:1.90",
+                    "par_pageref": "332.36"
+                },
+                {
+                    "par_ref": "30:1.91",
+                    "par_pageref": "332.37"
+                },
+                {
+                    "par_ref": "30:1.92",
+                    "par_pageref": "332.38"
+                },
+                {
+                    "par_ref": "30:1.93",
+                    "par_pageref": "333.1"
+                },
+                {
+                    "par_ref": "30:1.94",
+                    "par_pageref": "333.2"
+                },
+                {
+                    "par_ref": "30:1.95",
+                    "par_pageref": "333.3"
+                },
+                {
+                    "par_ref": "30:1.96",
+                    "par_pageref": "333.4"
+                },
+                {
+                    "par_ref": "30:1.97",
+                    "par_pageref": "333.5"
+                },
+                {
+                    "par_ref": "30:1.98",
+                    "par_pageref": "333.6"
+                },
+                {
+                    "par_ref": "30:1.99",
+                    "par_pageref": "333.7"
+                },
+                {
+                    "par_ref": "30:1.100",
+                    "par_pageref": "333.8"
+                },
+                {
+                    "par_ref": "30:1.101",
+                    "par_pageref": "333.9"
+                },
+                {
+                    "par_ref": "30:1.102",
+                    "par_pageref": "333.10"
+                },
+                {
+                    "par_ref": "30:1.103",
+                    "par_pageref": "333.11"
+                },
+                {
+                    "par_ref": "30:1.104",
+                    "par_pageref": "333.12"
+                },
+                {
+                    "par_ref": "30:1.105",
+                    "par_pageref": "333.13"
+                },
+                {
+                    "par_ref": "30:1.106",
+                    "par_pageref": "333.14"
+                },
+                {
+                    "par_ref": "30:1.107",
+                    "par_pageref": "334.1"
+                },
+                {
+                    "par_ref": "30:1.108",
+                    "par_pageref": "334.2"
+                },
+                {
+                    "par_ref": "30:1.109",
+                    "par_pageref": "334.3"
+                },
+                {
+                    "par_ref": "30:1.110",
+                    "par_pageref": "334.4"
+                },
+                {
+                    "par_ref": "30:1.111",
+                    "par_pageref": "334.5"
+                },
+                {
+                    "par_ref": "30:1.112",
+                    "par_pageref": "334.6"
+                },
+                {
+                    "par_ref": "30:1.113",
+                    "par_pageref": "334.7"
+                },
+                {
+                    "par_ref": "30:1.114",
+                    "par_pageref": "334.8"
+                }
+            ]
+        },
+        {
+            "section_index": 2,
+            "section_ref": "30:2",
+            "pars": [
+                {
+                    "par_ref": "30:2.1",
+                    "par_pageref": "334.9"
+                },
+                {
+                    "par_ref": "30:2.2",
+                    "par_pageref": "334.10"
+                },
+                {
+                    "par_ref": "30:2.3",
+                    "par_pageref": "334.11"
+                },
+                {
+                    "par_ref": "30:2.4",
+                    "par_pageref": "334.12"
+                },
+                {
+                    "par_ref": "30:2.5",
+                    "par_pageref": "334.13"
+                },
+                {
+                    "par_ref": "30:2.6",
+                    "par_pageref": "334.14"
+                },
+                {
+                    "par_ref": "30:2.7",
+                    "par_pageref": "334.15"
+                },
+                {
+                    "par_ref": "30:2.8",
+                    "par_pageref": "334.16"
+                },
+                {
+                    "par_ref": "30:2.9",
+                    "par_pageref": "334.17"
+                },
+                {
+                    "par_ref": "30:2.10",
+                    "par_pageref": "335.1"
+                },
+                {
+                    "par_ref": "30:2.11",
+                    "par_pageref": "335.2"
+                },
+                {
+                    "par_ref": "30:2.12",
+                    "par_pageref": "335.3"
+                },
+                {
+                    "par_ref": "30:2.13",
+                    "par_pageref": "335.4"
+                },
+                {
+                    "par_ref": "30:2.14",
+                    "par_pageref": "335.5"
+                },
+                {
+                    "par_ref": "30:2.15",
+                    "par_pageref": "335.6"
+                },
+                {
+                    "par_ref": "30:2.16",
+                    "par_pageref": "335.7"
+                },
+                {
+                    "par_ref": "30:2.17",
+                    "par_pageref": "335.8"
+                },
+                {
+                    "par_ref": "30:2.18",
+                    "par_pageref": "335.9"
+                },
+                {
+                    "par_ref": "30:2.19",
+                    "par_pageref": "335.10"
+                },
+                {
+                    "par_ref": "30:2.20",
+                    "par_pageref": "335.11"
+                },
+                {
+                    "par_ref": "30:2.21",
+                    "par_pageref": "335.12"
+                },
+                {
+                    "par_ref": "30:2.22",
+                    "par_pageref": "335.13"
+                },
+                {
+                    "par_ref": "30:2.23",
+                    "par_pageref": "335.14"
+                },
+                {
+                    "par_ref": "30:2.24",
+                    "par_pageref": "335.15"
+                },
+                {
+                    "par_ref": "30:2.25",
+                    "par_pageref": "335.16"
+                },
+                {
+                    "par_ref": "30:2.26",
+                    "par_pageref": "335.17"
+                },
+                {
+                    "par_ref": "30:2.27",
+                    "par_pageref": "335.18"
+                },
+                {
+                    "par_ref": "30:2.28",
+                    "par_pageref": "335.19"
+                },
+                {
+                    "par_ref": "30:2.29",
+                    "par_pageref": "335.20"
+                },
+                {
+                    "par_ref": "30:2.30",
+                    "par_pageref": "335.21"
+                },
+                {
+                    "par_ref": "30:2.31",
+                    "par_pageref": "335.22"
+                },
+                {
+                    "par_ref": "30:2.32",
+                    "par_pageref": "335.23"
+                },
+                {
+                    "par_ref": "30:2.33",
+                    "par_pageref": "335.24"
+                },
+                {
+                    "par_ref": "30:2.34",
+                    "par_pageref": "335.25"
+                },
+                {
+                    "par_ref": "30:2.35",
+                    "par_pageref": "335.26"
+                },
+                {
+                    "par_ref": "30:2.36",
+                    "par_pageref": "335.27"
+                },
+                {
+                    "par_ref": "30:2.37",
+                    "par_pageref": "335.28"
+                },
+                {
+                    "par_ref": "30:2.38",
+                    "par_pageref": "335.29"
+                },
+                {
+                    "par_ref": "30:2.39",
+                    "par_pageref": "335.30"
+                },
+                {
+                    "par_ref": "30:2.40",
+                    "par_pageref": "335.31"
+                },
+                {
+                    "par_ref": "30:2.41",
+                    "par_pageref": "335.32"
+                },
+                {
+                    "par_ref": "30:2.42",
+                    "par_pageref": "335.33"
+                },
+                {
+                    "par_ref": "30:2.43",
+                    "par_pageref": "335.34"
+                },
+                {
+                    "par_ref": "30:2.44",
+                    "par_pageref": "335.35"
+                },
+                {
+                    "par_ref": "30:2.45",
+                    "par_pageref": "335.36"
+                },
+                {
+                    "par_ref": "30:2.46",
+                    "par_pageref": "335.37"
+                },
+                {
+                    "par_ref": "30:2.47",
+                    "par_pageref": "335.38"
+                },
+                {
+                    "par_ref": "30:2.48",
+                    "par_pageref": "335.39"
+                },
+                {
+                    "par_ref": "30:2.49",
+                    "par_pageref": "335.40"
+                },
+                {
+                    "par_ref": "30:2.50",
+                    "par_pageref": "335.41"
+                },
+                {
+                    "par_ref": "30:2.51",
+                    "par_pageref": "335.42"
+                },
+                {
+                    "par_ref": "30:2.52",
+                    "par_pageref": "335.43"
+                },
+                {
+                    "par_ref": "30:2.53",
+                    "par_pageref": "335.44"
+                },
+                {
+                    "par_ref": "30:2.54",
+                    "par_pageref": "336.1"
+                },
+                {
+                    "par_ref": "30:2.55",
+                    "par_pageref": "336.2"
+                },
+                {
+                    "par_ref": "30:2.56",
+                    "par_pageref": "336.3"
+                },
+                {
+                    "par_ref": "30:2.57",
+                    "par_pageref": "336.4"
+                },
+                {
+                    "par_ref": "30:2.58",
+                    "par_pageref": "336.5"
+                },
+                {
+                    "par_ref": "30:2.59",
+                    "par_pageref": "336.6"
+                },
+                {
+                    "par_ref": "30:2.60",
+                    "par_pageref": "336.7"
+                },
+                {
+                    "par_ref": "30:2.61",
+                    "par_pageref": "336.8"
+                },
+                {
+                    "par_ref": "30:2.62",
+                    "par_pageref": "336.9"
+                },
+                {
+                    "par_ref": "30:2.63",
+                    "par_pageref": "336.10"
+                },
+                {
+                    "par_ref": "30:2.64",
+                    "par_pageref": "336.11"
+                },
+                {
+                    "par_ref": "30:2.65",
+                    "par_pageref": "336.12"
+                },
+                {
+                    "par_ref": "30:2.66",
+                    "par_pageref": "336.13"
+                },
+                {
+                    "par_ref": "30:2.67",
+                    "par_pageref": "336.14"
+                },
+                {
+                    "par_ref": "30:2.68",
+                    "par_pageref": "336.15"
+                },
+                {
+                    "par_ref": "30:2.69",
+                    "par_pageref": "336.16"
+                },
+                {
+                    "par_ref": "30:2.70",
+                    "par_pageref": "336.17"
+                },
+                {
+                    "par_ref": "30:2.71",
+                    "par_pageref": "336.18"
+                },
+                {
+                    "par_ref": "30:2.72",
+                    "par_pageref": "336.19"
+                },
+                {
+                    "par_ref": "30:2.73",
+                    "par_pageref": "336.20"
+                },
+                {
+                    "par_ref": "30:2.74",
+                    "par_pageref": "336.21"
+                },
+                {
+                    "par_ref": "30:2.75",
+                    "par_pageref": "336.22"
+                },
+                {
+                    "par_ref": "30:2.76",
+                    "par_pageref": "336.23"
+                },
+                {
+                    "par_ref": "30:2.77",
+                    "par_pageref": "336.24"
+                },
+                {
+                    "par_ref": "30:2.78",
+                    "par_pageref": "336.25"
+                },
+                {
+                    "par_ref": "30:2.79",
+                    "par_pageref": "336.26"
+                },
+                {
+                    "par_ref": "30:2.80",
+                    "par_pageref": "336.27"
+                },
+                {
+                    "par_ref": "30:2.81",
+                    "par_pageref": "336.28"
+                },
+                {
+                    "par_ref": "30:2.82",
+                    "par_pageref": "336.29"
+                },
+                {
+                    "par_ref": "30:2.83",
+                    "par_pageref": "336.30"
+                },
+                {
+                    "par_ref": "30:2.84",
+                    "par_pageref": "336.31"
+                },
+                {
+                    "par_ref": "30:2.85",
+                    "par_pageref": "336.32"
+                },
+                {
+                    "par_ref": "30:2.86",
+                    "par_pageref": "336.33"
+                },
+                {
+                    "par_ref": "30:2.87",
+                    "par_pageref": "336.34"
+                },
+                {
+                    "par_ref": "30:2.88",
+                    "par_pageref": "336.35"
+                },
+                {
+                    "par_ref": "30:2.89",
+                    "par_pageref": "336.36"
+                },
+                {
+                    "par_ref": "30:2.90",
+                    "par_pageref": "336.37"
+                },
+                {
+                    "par_ref": "30:2.91",
+                    "par_pageref": "336.38"
+                },
+                {
+                    "par_ref": "30:2.92",
+                    "par_pageref": "336.39"
+                },
+                {
+                    "par_ref": "30:2.93",
+                    "par_pageref": "336.40"
+                },
+                {
+                    "par_ref": "30:2.94",
+                    "par_pageref": "336.41"
+                },
+                {
+                    "par_ref": "30:2.95",
+                    "par_pageref": "336.42"
+                },
+                {
+                    "par_ref": "30:2.96",
+                    "par_pageref": "336.43"
+                },
+                {
+                    "par_ref": "30:2.97",
+                    "par_pageref": "336.44"
+                },
+                {
+                    "par_ref": "30:2.98",
+                    "par_pageref": "336.45"
+                },
+                {
+                    "par_ref": "30:2.99",
+                    "par_pageref": "336.46"
+                },
+                {
+                    "par_ref": "30:2.100",
+                    "par_pageref": "337.1"
+                },
+                {
+                    "par_ref": "30:2.101",
+                    "par_pageref": "337.2"
+                },
+                {
+                    "par_ref": "30:2.102",
+                    "par_pageref": "337.3"
+                },
+                {
+                    "par_ref": "30:2.103",
+                    "par_pageref": "337.4"
+                },
+                {
+                    "par_ref": "30:2.104",
+                    "par_pageref": "337.5"
+                },
+                {
+                    "par_ref": "30:2.105",
+                    "par_pageref": "337.6"
+                },
+                {
+                    "par_ref": "30:2.106",
+                    "par_pageref": "337.7"
+                },
+                {
+                    "par_ref": "30:2.107",
+                    "par_pageref": "337.8"
+                },
+                {
+                    "par_ref": "30:2.108",
+                    "par_pageref": "337.9"
+                },
+                {
+                    "par_ref": "30:2.109",
+                    "par_pageref": "337.10"
+                },
+                {
+                    "par_ref": "30:2.110",
+                    "par_pageref": "337.11"
+                },
+                {
+                    "par_ref": "30:2.111",
+                    "par_pageref": "337.12"
+                },
+                {
+                    "par_ref": "30:2.112",
+                    "par_pageref": "337.13"
+                },
+                {
+                    "par_ref": "30:2.113",
+                    "par_pageref": "337.14"
+                },
+                {
+                    "par_ref": "30:2.114",
+                    "par_pageref": "337.15"
+                },
+                {
+                    "par_ref": "30:2.115",
+                    "par_pageref": "337.16"
+                },
+                {
+                    "par_ref": "30:2.116",
+                    "par_pageref": "337.17"
+                },
+                {
+                    "par_ref": "30:2.117",
+                    "par_pageref": "337.18"
+                },
+                {
+                    "par_ref": "30:2.118",
+                    "par_pageref": "337.19"
+                },
+                {
+                    "par_ref": "30:2.119",
+                    "par_pageref": "337.20"
+                },
+                {
+                    "par_ref": "30:2.120",
+                    "par_pageref": "337.21"
+                },
+                {
+                    "par_ref": "30:2.121",
+                    "par_pageref": "337.22"
+                },
+                {
+                    "par_ref": "30:2.122",
+                    "par_pageref": "337.23"
+                },
+                {
+                    "par_ref": "30:2.123",
+                    "par_pageref": "337.24"
+                },
+                {
+                    "par_ref": "30:2.124",
+                    "par_pageref": "337.25"
+                },
+                {
+                    "par_ref": "30:2.125",
+                    "par_pageref": "337.26"
+                },
+                {
+                    "par_ref": "30:2.126",
+                    "par_pageref": "337.27"
+                },
+                {
+                    "par_ref": "30:2.127",
+                    "par_pageref": "337.28"
+                },
+                {
+                    "par_ref": "30:2.128",
+                    "par_pageref": "337.29"
+                },
+                {
+                    "par_ref": "30:2.129",
+                    "par_pageref": "337.30"
+                },
+                {
+                    "par_ref": "30:2.130",
+                    "par_pageref": "337.31"
+                },
+                {
+                    "par_ref": "30:2.131",
+                    "par_pageref": "337.32"
+                },
+                {
+                    "par_ref": "30:2.132",
+                    "par_pageref": "337.33"
+                },
+                {
+                    "par_ref": "30:2.133",
+                    "par_pageref": "337.34"
+                },
+                {
+                    "par_ref": "30:2.134",
+                    "par_pageref": "337.35"
+                },
+                {
+                    "par_ref": "30:2.135",
+                    "par_pageref": "337.36"
+                },
+                {
+                    "par_ref": "30:2.136",
+                    "par_pageref": "337.37"
+                },
+                {
+                    "par_ref": "30:2.137",
+                    "par_pageref": "337.38"
+                },
+                {
+                    "par_ref": "30:2.138",
+                    "par_pageref": "337.39"
+                },
+                {
+                    "par_ref": "30:2.139",
+                    "par_pageref": "337.40"
+                },
+                {
+                    "par_ref": "30:2.140",
+                    "par_pageref": "338.1"
+                },
+                {
+                    "par_ref": "30:2.141",
+                    "par_pageref": "338.2"
+                },
+                {
+                    "par_ref": "30:2.142",
+                    "par_pageref": "338.3"
+                },
+                {
+                    "par_ref": "30:2.143",
+                    "par_pageref": "338.4"
+                },
+                {
+                    "par_ref": "30:2.144",
+                    "par_pageref": "338.5"
+                },
+                {
+                    "par_ref": "30:2.145",
+                    "par_pageref": "338.6"
+                },
+                {
+                    "par_ref": "30:2.146",
+                    "par_pageref": "338.7"
+                },
+                {
+                    "par_ref": "30:2.147",
+                    "par_pageref": "338.8"
+                },
+                {
+                    "par_ref": "30:2.148",
+                    "par_pageref": "338.9"
+                },
+                {
+                    "par_ref": "30:2.149",
+                    "par_pageref": "338.10"
+                },
+                {
+                    "par_ref": "30:2.150",
+                    "par_pageref": "338.11"
+                },
+                {
+                    "par_ref": "30:2.151",
+                    "par_pageref": "338.12"
+                },
+                {
+                    "par_ref": "30:2.152",
+                    "par_pageref": "338.13"
+                },
+                {
+                    "par_ref": "30:2.153",
+                    "par_pageref": "338.14"
+                },
+                {
+                    "par_ref": "30:2.154",
+                    "par_pageref": "338.15"
+                },
+                {
+                    "par_ref": "30:2.155",
+                    "par_pageref": "338.16"
+                },
+                {
+                    "par_ref": "30:2.156",
+                    "par_pageref": "338.17"
+                },
+                {
+                    "par_ref": "30:2.157",
+                    "par_pageref": "338.18"
+                }
+            ]
+        },
+        {
+            "section_index": 3,
+            "section_ref": "30:3",
+            "pars": [
+                {
+                    "par_ref": "30:3.1",
+                    "par_pageref": "338.19"
+                },
+                {
+                    "par_ref": "30:3.2",
+                    "par_pageref": "338.20"
+                },
+                {
+                    "par_ref": "30:3.3",
+                    "par_pageref": "338.21"
+                },
+                {
+                    "par_ref": "30:3.4",
+                    "par_pageref": "339.1"
+                },
+                {
+                    "par_ref": "30:3.5",
+                    "par_pageref": "339.2"
+                },
+                {
+                    "par_ref": "30:3.6",
+                    "par_pageref": "339.3"
+                },
+                {
+                    "par_ref": "30:3.7",
+                    "par_pageref": "339.4"
+                },
+                {
+                    "par_ref": "30:3.8",
+                    "par_pageref": "339.5"
+                },
+                {
+                    "par_ref": "30:3.9",
+                    "par_pageref": "339.6"
+                },
+                {
+                    "par_ref": "30:3.10",
+                    "par_pageref": "339.7"
+                },
+                {
+                    "par_ref": "30:3.11",
+                    "par_pageref": "339.8"
+                },
+                {
+                    "par_ref": "30:3.12",
+                    "par_pageref": "340.1"
+                },
+                {
+                    "par_ref": "30:3.13",
+                    "par_pageref": "340.2"
+                }
+            ]
+        },
+        {
+            "section_index": 4,
+            "section_ref": "30:4",
+            "pars": [
+                {
+                    "par_ref": "30:4.1",
+                    "par_pageref": "340.3"
+                },
+                {
+                    "par_ref": "30:4.2",
+                    "par_pageref": "340.4"
+                },
+                {
+                    "par_ref": "30:4.3",
+                    "par_pageref": "340.5"
+                },
+                {
+                    "par_ref": "30:4.4",
+                    "par_pageref": "340.6"
+                },
+                {
+                    "par_ref": "30:4.5",
+                    "par_pageref": "340.7"
+                },
+                {
+                    "par_ref": "30:4.6",
+                    "par_pageref": "340.8"
+                },
+                {
+                    "par_ref": "30:4.7",
+                    "par_pageref": "340.9"
+                },
+                {
+                    "par_ref": "30:4.8",
+                    "par_pageref": "340.10"
+                },
+                {
+                    "par_ref": "30:4.9",
+                    "par_pageref": "340.11"
+                },
+                {
+                    "par_ref": "30:4.10",
+                    "par_pageref": "340.12"
+                },
+                {
+                    "par_ref": "30:4.11",
+                    "par_pageref": "341.1"
+                },
+                {
+                    "par_ref": "30:4.12",
+                    "par_pageref": "341.2"
+                },
+                {
+                    "par_ref": "30:4.13",
+                    "par_pageref": "341.3"
+                },
+                {
+                    "par_ref": "30:4.14",
+                    "par_pageref": "341.4"
+                },
+                {
+                    "par_ref": "30:4.15",
+                    "par_pageref": "341.5"
+                },
+                {
+                    "par_ref": "30:4.16",
+                    "par_pageref": "341.6"
+                },
+                {
+                    "par_ref": "30:4.17",
+                    "par_pageref": "341.7"
+                },
+                {
+                    "par_ref": "30:4.18",
+                    "par_pageref": "342.1"
+                },
+                {
+                    "par_ref": "30:4.19",
+                    "par_pageref": "342.2"
+                },
+                {
+                    "par_ref": "30:4.20",
+                    "par_pageref": "342.3"
+                },
+                {
+                    "par_ref": "30:4.21",
+                    "par_pageref": "342.4"
+                },
+                {
+                    "par_ref": "30:4.22",
+                    "par_pageref": "342.5"
+                },
+                {
+                    "par_ref": "30:4.23",
+                    "par_pageref": "342.6"
+                },
+                {
+                    "par_ref": "30:4.24",
+                    "par_pageref": "342.7"
+                },
+                {
+                    "par_ref": "30:4.25",
+                    "par_pageref": "342.8"
+                },
+                {
+                    "par_ref": "30:4.26",
+                    "par_pageref": "343.1"
+                },
+                {
+                    "par_ref": "30:4.27",
+                    "par_pageref": "343.2"
+                },
+                {
+                    "par_ref": "30:4.28",
+                    "par_pageref": "343.3"
+                },
+                {
+                    "par_ref": "30:4.29",
+                    "par_pageref": "343.4"
+                },
+                {
+                    "par_ref": "30:4.30",
+                    "par_pageref": "343.5"
+                },
+                {
+                    "par_ref": "30:4.31",
+                    "par_pageref": "343.6"
+                },
+                {
+                    "par_ref": "30:4.32",
+                    "par_pageref": "343.7"
+                },
+                {
+                    "par_ref": "30:4.33",
+                    "par_pageref": "344.1"
+                },
+                {
+                    "par_ref": "30:4.34",
+                    "par_pageref": "344.2"
+                },
+                {
+                    "par_ref": "30:4.35",
+                    "par_pageref": "344.3"
+                }
+            ]
+        }
+    ],
+    "paper_title": "Documento 30. Las personalidades del gran universo"
+}

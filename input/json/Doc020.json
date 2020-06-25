@@ -1,0 +1,364 @@
+{
+    "paper_index": 20,
+    "sections": [
+        {
+            "section_index": 0,
+            "section_ref": "20:0",
+            "pars": [
+                {
+                    "par_ref": "20:0.1",
+                    "par_pageref": "223.1"
+                },
+                {
+                    "par_ref": "20:0.2",
+                    "par_pageref": "223.2"
+                },
+                {
+                    "par_ref": "20:0.3",
+                    "par_pageref": "223.3"
+                },
+                {
+                    "par_ref": "20:0.4",
+                    "par_pageref": "223.4"
+                },
+                {
+                    "par_ref": "20:0.5",
+                    "par_pageref": "223.5"
+                }
+            ]
+        },
+        {
+            "section_index": 1,
+            "section_ref": "20:1",
+            "pars": [
+                {
+                    "par_ref": "20:1.1",
+                    "par_pageref": "223.6"
+                },
+                {
+                    "par_ref": "20:1.2",
+                    "par_pageref": "223.7"
+                },
+                {
+                    "par_ref": "20:1.3",
+                    "par_pageref": "223.8"
+                },
+                {
+                    "par_ref": "20:1.4",
+                    "par_pageref": "223.9"
+                },
+                {
+                    "par_ref": "20:1.5",
+                    "par_pageref": "223.10"
+                },
+                {
+                    "par_ref": "20:1.6",
+                    "par_pageref": "223.11"
+                },
+                {
+                    "par_ref": "20:1.7",
+                    "par_pageref": "223.12"
+                },
+                {
+                    "par_ref": "20:1.8",
+                    "par_pageref": "223.13"
+                },
+                {
+                    "par_ref": "20:1.9",
+                    "par_pageref": "223.14"
+                },
+                {
+                    "par_ref": "20:1.10",
+                    "par_pageref": "223.15"
+                },
+                {
+                    "par_ref": "20:1.11",
+                    "par_pageref": "224.1"
+                },
+                {
+                    "par_ref": "20:1.12",
+                    "par_pageref": "224.2"
+                },
+                {
+                    "par_ref": "20:1.13",
+                    "par_pageref": "224.3"
+                },
+                {
+                    "par_ref": "20:1.14",
+                    "par_pageref": "224.4"
+                },
+                {
+                    "par_ref": "20:1.15",
+                    "par_pageref": "224.5"
+                }
+            ]
+        },
+        {
+            "section_index": 2,
+            "section_ref": "20:2",
+            "pars": [
+                {
+                    "par_ref": "20:2.1",
+                    "par_pageref": "224.6"
+                },
+                {
+                    "par_ref": "20:2.2",
+                    "par_pageref": "225.1"
+                },
+                {
+                    "par_ref": "20:2.3",
+                    "par_pageref": "225.2"
+                },
+                {
+                    "par_ref": "20:2.4",
+                    "par_pageref": "225.3"
+                },
+                {
+                    "par_ref": "20:2.5",
+                    "par_pageref": "225.4"
+                },
+                {
+                    "par_ref": "20:2.6",
+                    "par_pageref": "225.5"
+                },
+                {
+                    "par_ref": "20:2.7",
+                    "par_pageref": "225.6"
+                },
+                {
+                    "par_ref": "20:2.8",
+                    "par_pageref": "225.7"
+                },
+                {
+                    "par_ref": "20:2.9",
+                    "par_pageref": "225.8"
+                }
+            ]
+        },
+        {
+            "section_index": 3,
+            "section_ref": "20:3",
+            "pars": [
+                {
+                    "par_ref": "20:3.1",
+                    "par_pageref": "226.1"
+                },
+                {
+                    "par_ref": "20:3.2",
+                    "par_pageref": "226.2"
+                },
+                {
+                    "par_ref": "20:3.3",
+                    "par_pageref": "226.3"
+                },
+                {
+                    "par_ref": "20:3.4",
+                    "par_pageref": "226.4"
+                }
+            ]
+        },
+        {
+            "section_index": 4,
+            "section_ref": "20:4",
+            "pars": [
+                {
+                    "par_ref": "20:4.1",
+                    "par_pageref": "226.5"
+                },
+                {
+                    "par_ref": "20:4.2",
+                    "par_pageref": "226.6"
+                },
+                {
+                    "par_ref": "20:4.3",
+                    "par_pageref": "227.1"
+                },
+                {
+                    "par_ref": "20:4.4",
+                    "par_pageref": "227.2"
+                },
+                {
+                    "par_ref": "20:4.5",
+                    "par_pageref": "227.3"
+                }
+            ]
+        },
+        {
+            "section_index": 5,
+            "section_ref": "20:5",
+            "pars": [
+                {
+                    "par_ref": "20:5.1",
+                    "par_pageref": "227.4"
+                },
+                {
+                    "par_ref": "20:5.2",
+                    "par_pageref": "227.5"
+                },
+                {
+                    "par_ref": "20:5.3",
+                    "par_pageref": "227.6"
+                },
+                {
+                    "par_ref": "20:5.4",
+                    "par_pageref": "228.1"
+                },
+                {
+                    "par_ref": "20:5.5",
+                    "par_pageref": "228.2"
+                },
+                {
+                    "par_ref": "20:5.6",
+                    "par_pageref": "228.3"
+                },
+                {
+                    "par_ref": "20:5.7",
+                    "par_pageref": "228.4"
+                }
+            ]
+        },
+        {
+            "section_index": 6,
+            "section_ref": "20:6",
+            "pars": [
+                {
+                    "par_ref": "20:6.1",
+                    "par_pageref": "228.5"
+                },
+                {
+                    "par_ref": "20:6.2",
+                    "par_pageref": "229.1"
+                },
+                {
+                    "par_ref": "20:6.3",
+                    "par_pageref": "229.2"
+                },
+                {
+                    "par_ref": "20:6.4",
+                    "par_pageref": "229.3"
+                },
+                {
+                    "par_ref": "20:6.5",
+                    "par_pageref": "229.4"
+                },
+                {
+                    "par_ref": "20:6.6",
+                    "par_pageref": "229.5"
+                },
+                {
+                    "par_ref": "20:6.7",
+                    "par_pageref": "229.6"
+                },
+                {
+                    "par_ref": "20:6.8",
+                    "par_pageref": "230.1"
+                },
+                {
+                    "par_ref": "20:6.9",
+                    "par_pageref": "230.2"
+                }
+            ]
+        },
+        {
+            "section_index": 7,
+            "section_ref": "20:7",
+            "pars": [
+                {
+                    "par_ref": "20:7.1",
+                    "par_pageref": "230.3"
+                },
+                {
+                    "par_ref": "20:7.2",
+                    "par_pageref": "230.4"
+                },
+                {
+                    "par_ref": "20:7.3",
+                    "par_pageref": "230.5"
+                },
+                {
+                    "par_ref": "20:7.4",
+                    "par_pageref": "230.6"
+                },
+                {
+                    "par_ref": "20:7.5",
+                    "par_pageref": "230.7"
+                }
+            ]
+        },
+        {
+            "section_index": 8,
+            "section_ref": "20:8",
+            "pars": [
+                {
+                    "par_ref": "20:8.1",
+                    "par_pageref": "231.1"
+                },
+                {
+                    "par_ref": "20:8.2",
+                    "par_pageref": "231.2"
+                },
+                {
+                    "par_ref": "20:8.3",
+                    "par_pageref": "231.3"
+                },
+                {
+                    "par_ref": "20:8.4",
+                    "par_pageref": "231.4"
+                }
+            ]
+        },
+        {
+            "section_index": 9,
+            "section_ref": "20:9",
+            "pars": [
+                {
+                    "par_ref": "20:9.1",
+                    "par_pageref": "231.5"
+                },
+                {
+                    "par_ref": "20:9.2",
+                    "par_pageref": "231.6"
+                },
+                {
+                    "par_ref": "20:9.3",
+                    "par_pageref": "232.1"
+                },
+                {
+                    "par_ref": "20:9.4",
+                    "par_pageref": "232.2"
+                },
+                {
+                    "par_ref": "20:9.5",
+                    "par_pageref": "232.3"
+                }
+            ]
+        },
+        {
+            "section_index": 10,
+            "section_ref": "20:10",
+            "pars": [
+                {
+                    "par_ref": "20:10.1",
+                    "par_pageref": "232.4"
+                },
+                {
+                    "par_ref": "20:10.2",
+                    "par_pageref": "232.5"
+                },
+                {
+                    "par_ref": "20:10.3",
+                    "par_pageref": "232.6"
+                },
+                {
+                    "par_ref": "20:10.4",
+                    "par_pageref": "233.1"
+                },
+                {
+                    "par_ref": "20:10.5",
+                    "par_pageref": "233.2"
+                }
+            ]
+        }
+    ],
+    "paper_title": "Documento 20. Los Hijos Paradisiacos de Dios"
+}

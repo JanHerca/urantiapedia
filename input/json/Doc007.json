@@ -1,0 +1,294 @@
+{
+    "paper_index": 7,
+    "sections": [
+        {
+            "section_index": 0,
+            "section_ref": "7:0",
+            "pars": [
+                {
+                    "par_ref": "7:0.1",
+                    "par_pageref": "81.1"
+                },
+                {
+                    "par_ref": "7:0.2",
+                    "par_pageref": "81.2"
+                },
+                {
+                    "par_ref": "7:0.3",
+                    "par_pageref": "81.3"
+                },
+                {
+                    "par_ref": "7:0.4",
+                    "par_pageref": "81.4"
+                },
+                {
+                    "par_ref": "7:0.5",
+                    "par_pageref": "81.5"
+                }
+            ]
+        },
+        {
+            "section_index": 1,
+            "section_ref": "7:1",
+            "pars": [
+                {
+                    "par_ref": "7:1.1",
+                    "par_pageref": "81.6"
+                },
+                {
+                    "par_ref": "7:1.2",
+                    "par_pageref": "82.1"
+                },
+                {
+                    "par_ref": "7:1.3",
+                    "par_pageref": "82.2"
+                },
+                {
+                    "par_ref": "7:1.4",
+                    "par_pageref": "82.3"
+                },
+                {
+                    "par_ref": "7:1.5",
+                    "par_pageref": "82.4"
+                },
+                {
+                    "par_ref": "7:1.6",
+                    "par_pageref": "82.5"
+                },
+                {
+                    "par_ref": "7:1.7",
+                    "par_pageref": "82.6"
+                },
+                {
+                    "par_ref": "7:1.8",
+                    "par_pageref": "82.7"
+                },
+                {
+                    "par_ref": "7:1.9",
+                    "par_pageref": "83.1"
+                },
+                {
+                    "par_ref": "7:1.10",
+                    "par_pageref": "83.2"
+                },
+                {
+                    "par_ref": "7:1.11",
+                    "par_pageref": "83.3"
+                }
+            ]
+        },
+        {
+            "section_index": 2,
+            "section_ref": "7:2",
+            "pars": [
+                {
+                    "par_ref": "7:2.1",
+                    "par_pageref": "83.4"
+                },
+                {
+                    "par_ref": "7:2.2",
+                    "par_pageref": "83.5"
+                },
+                {
+                    "par_ref": "7:2.3",
+                    "par_pageref": "83.6"
+                },
+                {
+                    "par_ref": "7:2.4",
+                    "par_pageref": "83.7"
+                }
+            ]
+        },
+        {
+            "section_index": 3,
+            "section_ref": "7:3",
+            "pars": [
+                {
+                    "par_ref": "7:3.1",
+                    "par_pageref": "84.1"
+                },
+                {
+                    "par_ref": "7:3.2",
+                    "par_pageref": "84.2"
+                },
+                {
+                    "par_ref": "7:3.3",
+                    "par_pageref": "84.3"
+                },
+                {
+                    "par_ref": "7:3.4",
+                    "par_pageref": "84.4"
+                },
+                {
+                    "par_ref": "7:3.5",
+                    "par_pageref": "84.5"
+                },
+                {
+                    "par_ref": "7:3.6",
+                    "par_pageref": "84.6"
+                },
+                {
+                    "par_ref": "7:3.7",
+                    "par_pageref": "85.1"
+                }
+            ]
+        },
+        {
+            "section_index": 4,
+            "section_ref": "7:4",
+            "pars": [
+                {
+                    "par_ref": "7:4.1",
+                    "par_pageref": "85.2"
+                },
+                {
+                    "par_ref": "7:4.2",
+                    "par_pageref": "85.3"
+                },
+                {
+                    "par_ref": "7:4.3",
+                    "par_pageref": "85.4"
+                },
+                {
+                    "par_ref": "7:4.4",
+                    "par_pageref": "85.5"
+                },
+                {
+                    "par_ref": "7:4.5",
+                    "par_pageref": "85.6"
+                },
+                {
+                    "par_ref": "7:4.6",
+                    "par_pageref": "85.7"
+                },
+                {
+                    "par_ref": "7:4.7",
+                    "par_pageref": "86.1"
+                }
+            ]
+        },
+        {
+            "section_index": 5,
+            "section_ref": "7:5",
+            "pars": [
+                {
+                    "par_ref": "7:5.1",
+                    "par_pageref": "86.2"
+                },
+                {
+                    "par_ref": "7:5.2",
+                    "par_pageref": "86.3"
+                },
+                {
+                    "par_ref": "7:5.3",
+                    "par_pageref": "86.4"
+                },
+                {
+                    "par_ref": "7:5.4",
+                    "par_pageref": "86.5"
+                },
+                {
+                    "par_ref": "7:5.5",
+                    "par_pageref": "86.6"
+                },
+                {
+                    "par_ref": "7:5.6",
+                    "par_pageref": "86.7"
+                },
+                {
+                    "par_ref": "7:5.7",
+                    "par_pageref": "87.1"
+                },
+                {
+                    "par_ref": "7:5.8",
+                    "par_pageref": "87.2"
+                },
+                {
+                    "par_ref": "7:5.9",
+                    "par_pageref": "87.3"
+                },
+                {
+                    "par_ref": "7:5.10",
+                    "par_pageref": "87.4"
+                },
+                {
+                    "par_ref": "7:5.11",
+                    "par_pageref": "87.5"
+                }
+            ]
+        },
+        {
+            "section_index": 6,
+            "section_ref": "7:6",
+            "pars": [
+                {
+                    "par_ref": "7:6.1",
+                    "par_pageref": "87.6"
+                },
+                {
+                    "par_ref": "7:6.2",
+                    "par_pageref": "87.7"
+                },
+                {
+                    "par_ref": "7:6.3",
+                    "par_pageref": "88.1"
+                },
+                {
+                    "par_ref": "7:6.4",
+                    "par_pageref": "88.2"
+                },
+                {
+                    "par_ref": "7:6.5",
+                    "par_pageref": "88.3"
+                },
+                {
+                    "par_ref": "7:6.6",
+                    "par_pageref": "88.4"
+                },
+                {
+                    "par_ref": "7:6.7",
+                    "par_pageref": "88.5"
+                },
+                {
+                    "par_ref": "7:6.8",
+                    "par_pageref": "88.6"
+                }
+            ]
+        },
+        {
+            "section_index": 7,
+            "section_ref": "7:7",
+            "pars": [
+                {
+                    "par_ref": "7:7.1",
+                    "par_pageref": "88.7"
+                },
+                {
+                    "par_ref": "7:7.2",
+                    "par_pageref": "89.1"
+                },
+                {
+                    "par_ref": "7:7.3",
+                    "par_pageref": "89.2"
+                },
+                {
+                    "par_ref": "7:7.4",
+                    "par_pageref": "89.3"
+                },
+                {
+                    "par_ref": "7:7.5",
+                    "par_pageref": "89.4"
+                },
+                {
+                    "par_ref": "7:7.6",
+                    "par_pageref": "89.5"
+                },
+                {
+                    "par_ref": "7:7.7",
+                    "par_pageref": "89.6"
+                }
+            ]
+        }
+    ],
+    "paper_title": "Documento 7. Las relaciones del Hijo Eterno con el universo"
+}

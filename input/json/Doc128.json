@@ -1,0 +1,374 @@
+{
+    "paper_index": 128,
+    "sections": [
+        {
+            "section_index": 0,
+            "section_ref": "128:0",
+            "pars": [
+                {
+                    "par_ref": "128:0.1",
+                    "par_pageref": "1407.1"
+                },
+                {
+                    "par_ref": "128:0.2",
+                    "par_pageref": "1407.2"
+                },
+                {
+                    "par_ref": "128:0.3",
+                    "par_pageref": "1407.3"
+                },
+                {
+                    "par_ref": "128:0.4",
+                    "par_pageref": "1407.4"
+                },
+                {
+                    "par_ref": "128:0.5",
+                    "par_pageref": "1407.5"
+                }
+            ]
+        },
+        {
+            "section_index": 1,
+            "section_ref": "128:1",
+            "pars": [
+                {
+                    "par_ref": "128:1.1",
+                    "par_pageref": "1407.6"
+                },
+                {
+                    "par_ref": "128:1.2",
+                    "par_pageref": "1407.7"
+                },
+                {
+                    "par_ref": "128:1.3",
+                    "par_pageref": "1407.8"
+                },
+                {
+                    "par_ref": "128:1.4",
+                    "par_pageref": "1408.1"
+                },
+                {
+                    "par_ref": "128:1.5",
+                    "par_pageref": "1408.2"
+                },
+                {
+                    "par_ref": "128:1.6",
+                    "par_pageref": "1408.3"
+                },
+                {
+                    "par_ref": "128:1.7",
+                    "par_pageref": "1408.4"
+                },
+                {
+                    "par_ref": "128:1.8",
+                    "par_pageref": "1408.5"
+                },
+                {
+                    "par_ref": "128:1.9",
+                    "par_pageref": "1408.6"
+                },
+                {
+                    "par_ref": "128:1.10",
+                    "par_pageref": "1408.7"
+                },
+                {
+                    "par_ref": "128:1.11",
+                    "par_pageref": "1409.1"
+                },
+                {
+                    "par_ref": "128:1.12",
+                    "par_pageref": "1409.2"
+                },
+                {
+                    "par_ref": "128:1.13",
+                    "par_pageref": "1409.3"
+                },
+                {
+                    "par_ref": "128:1.14",
+                    "par_pageref": "1409.4"
+                },
+                {
+                    "par_ref": "128:1.15",
+                    "par_pageref": "1409.5"
+                }
+            ]
+        },
+        {
+            "section_index": 2,
+            "section_ref": "128:2",
+            "pars": [
+                {
+                    "par_ref": "128:2.1",
+                    "par_pageref": "1409.6"
+                },
+                {
+                    "par_ref": "128:2.2",
+                    "par_pageref": "1410.1"
+                },
+                {
+                    "par_ref": "128:2.3",
+                    "par_pageref": "1410.2"
+                },
+                {
+                    "par_ref": "128:2.4",
+                    "par_pageref": "1410.3"
+                },
+                {
+                    "par_ref": "128:2.5",
+                    "par_pageref": "1410.4"
+                },
+                {
+                    "par_ref": "128:2.6",
+                    "par_pageref": "1410.5"
+                },
+                {
+                    "par_ref": "128:2.7",
+                    "par_pageref": "1410.6"
+                }
+            ]
+        },
+        {
+            "section_index": 3,
+            "section_ref": "128:3",
+            "pars": [
+                {
+                    "par_ref": "128:3.1",
+                    "par_pageref": "1411.1"
+                },
+                {
+                    "par_ref": "128:3.2",
+                    "par_pageref": "1411.2"
+                },
+                {
+                    "par_ref": "128:3.3",
+                    "par_pageref": "1411.3"
+                },
+                {
+                    "par_ref": "128:3.4",
+                    "par_pageref": "1411.4"
+                },
+                {
+                    "par_ref": "128:3.5",
+                    "par_pageref": "1411.5"
+                },
+                {
+                    "par_ref": "128:3.6",
+                    "par_pageref": "1411.6"
+                },
+                {
+                    "par_ref": "128:3.7",
+                    "par_pageref": "1412.1"
+                },
+                {
+                    "par_ref": "128:3.8",
+                    "par_pageref": "1412.2"
+                },
+                {
+                    "par_ref": "128:3.9",
+                    "par_pageref": "1412.3"
+                }
+            ]
+        },
+        {
+            "section_index": 4,
+            "section_ref": "128:4",
+            "pars": [
+                {
+                    "par_ref": "128:4.1",
+                    "par_pageref": "1412.4"
+                },
+                {
+                    "par_ref": "128:4.2",
+                    "par_pageref": "1412.5"
+                },
+                {
+                    "par_ref": "128:4.3",
+                    "par_pageref": "1412.6"
+                },
+                {
+                    "par_ref": "128:4.4",
+                    "par_pageref": "1412.7"
+                },
+                {
+                    "par_ref": "128:4.5",
+                    "par_pageref": "1413.1"
+                },
+                {
+                    "par_ref": "128:4.6",
+                    "par_pageref": "1413.2"
+                },
+                {
+                    "par_ref": "128:4.7",
+                    "par_pageref": "1413.3"
+                },
+                {
+                    "par_ref": "128:4.8",
+                    "par_pageref": "1413.4"
+                },
+                {
+                    "par_ref": "128:4.9",
+                    "par_pageref": "1413.5"
+                }
+            ]
+        },
+        {
+            "section_index": 5,
+            "section_ref": "128:5",
+            "pars": [
+                {
+                    "par_ref": "128:5.1",
+                    "par_pageref": "1413.6"
+                },
+                {
+                    "par_ref": "128:5.2",
+                    "par_pageref": "1413.7"
+                },
+                {
+                    "par_ref": "128:5.3",
+                    "par_pageref": "1414.1"
+                },
+                {
+                    "par_ref": "128:5.4",
+                    "par_pageref": "1414.2"
+                },
+                {
+                    "par_ref": "128:5.5",
+                    "par_pageref": "1414.3"
+                },
+                {
+                    "par_ref": "128:5.6",
+                    "par_pageref": "1414.4"
+                },
+                {
+                    "par_ref": "128:5.7",
+                    "par_pageref": "1414.5"
+                },
+                {
+                    "par_ref": "128:5.8",
+                    "par_pageref": "1414.6"
+                },
+                {
+                    "par_ref": "128:5.9",
+                    "par_pageref": "1414.7"
+                }
+            ]
+        },
+        {
+            "section_index": 6,
+            "section_ref": "128:6",
+            "pars": [
+                {
+                    "par_ref": "128:6.1",
+                    "par_pageref": "1415.1"
+                },
+                {
+                    "par_ref": "128:6.2",
+                    "par_pageref": "1415.2"
+                },
+                {
+                    "par_ref": "128:6.3",
+                    "par_pageref": "1415.3"
+                },
+                {
+                    "par_ref": "128:6.4",
+                    "par_pageref": "1415.4"
+                },
+                {
+                    "par_ref": "128:6.5",
+                    "par_pageref": "1415.5"
+                },
+                {
+                    "par_ref": "128:6.6",
+                    "par_pageref": "1415.6"
+                },
+                {
+                    "par_ref": "128:6.7",
+                    "par_pageref": "1415.7"
+                },
+                {
+                    "par_ref": "128:6.8",
+                    "par_pageref": "1416.1"
+                },
+                {
+                    "par_ref": "128:6.9",
+                    "par_pageref": "1416.2"
+                },
+                {
+                    "par_ref": "128:6.10",
+                    "par_pageref": "1416.3"
+                },
+                {
+                    "par_ref": "128:6.11",
+                    "par_pageref": "1416.4"
+                },
+                {
+                    "par_ref": "128:6.12",
+                    "par_pageref": "1416.5"
+                }
+            ]
+        },
+        {
+            "section_index": 7,
+            "section_ref": "128:7",
+            "pars": [
+                {
+                    "par_ref": "128:7.1",
+                    "par_pageref": "1416.6"
+                },
+                {
+                    "par_ref": "128:7.2",
+                    "par_pageref": "1417.1"
+                },
+                {
+                    "par_ref": "128:7.3",
+                    "par_pageref": "1417.2"
+                },
+                {
+                    "par_ref": "128:7.4",
+                    "par_pageref": "1417.3"
+                },
+                {
+                    "par_ref": "128:7.5",
+                    "par_pageref": "1417.4"
+                },
+                {
+                    "par_ref": "128:7.6",
+                    "par_pageref": "1417.5"
+                },
+                {
+                    "par_ref": "128:7.7",
+                    "par_pageref": "1417.6"
+                },
+                {
+                    "par_ref": "128:7.8",
+                    "par_pageref": "1417.7"
+                },
+                {
+                    "par_ref": "128:7.9",
+                    "par_pageref": "1418.1"
+                },
+                {
+                    "par_ref": "128:7.10",
+                    "par_pageref": "1418.2"
+                },
+                {
+                    "par_ref": "128:7.11",
+                    "par_pageref": "1418.3"
+                },
+                {
+                    "par_ref": "128:7.12",
+                    "par_pageref": "1418.4"
+                },
+                {
+                    "par_ref": "128:7.13",
+                    "par_pageref": "1418.5"
+                },
+                {
+                    "par_ref": "128:7.14",
+                    "par_pageref": "1418.6"
+                }
+            ]
+        }
+    ],
+    "paper_title": "Documento 128. Los primeros años de la vida adulta de Jesús"
+}

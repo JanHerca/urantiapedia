@@ -1,0 +1,334 @@
+{
+    "paper_index": 1,
+    "sections": [
+        {
+            "section_index": 0,
+            "section_ref": "1:0",
+            "pars": [
+                {
+                    "par_ref": "1:0.1",
+                    "par_pageref": "21.1"
+                },
+                {
+                    "par_ref": "1:0.2",
+                    "par_pageref": "21.2"
+                },
+                {
+                    "par_ref": "1:0.3",
+                    "par_pageref": "21.3"
+                },
+                {
+                    "par_ref": "1:0.4",
+                    "par_pageref": "22.1"
+                },
+                {
+                    "par_ref": "1:0.5",
+                    "par_pageref": "22.2"
+                },
+                {
+                    "par_ref": "1:0.6",
+                    "par_pageref": "22.3"
+                }
+            ]
+        },
+        {
+            "section_index": 1,
+            "section_ref": "1:1",
+            "pars": [
+                {
+                    "par_ref": "1:1.1",
+                    "par_pageref": "22.4"
+                },
+                {
+                    "par_ref": "1:1.2",
+                    "par_pageref": "22.5"
+                },
+                {
+                    "par_ref": "1:1.3",
+                    "par_pageref": "22.6"
+                },
+                {
+                    "par_ref": "1:1.4",
+                    "par_pageref": "23.1"
+                },
+                {
+                    "par_ref": "1:1.5",
+                    "par_pageref": "23.2"
+                },
+                {
+                    "par_ref": "1:1.6",
+                    "par_pageref": "23.3"
+                }
+            ]
+        },
+        {
+            "section_index": 2,
+            "section_ref": "1:2",
+            "pars": [
+                {
+                    "par_ref": "1:2.1",
+                    "par_pageref": "23.4"
+                },
+                {
+                    "par_ref": "1:2.2",
+                    "par_pageref": "23.5"
+                },
+                {
+                    "par_ref": "1:2.3",
+                    "par_pageref": "24.1"
+                },
+                {
+                    "par_ref": "1:2.4",
+                    "par_pageref": "24.2"
+                },
+                {
+                    "par_ref": "1:2.5",
+                    "par_pageref": "24.3"
+                },
+                {
+                    "par_ref": "1:2.6",
+                    "par_pageref": "24.4"
+                },
+                {
+                    "par_ref": "1:2.7",
+                    "par_pageref": "24.5"
+                },
+                {
+                    "par_ref": "1:2.8",
+                    "par_pageref": "24.6"
+                },
+                {
+                    "par_ref": "1:2.9",
+                    "par_pageref": "24.7"
+                },
+                {
+                    "par_ref": "1:2.10",
+                    "par_pageref": "24.8"
+                }
+            ]
+        },
+        {
+            "section_index": 3,
+            "section_ref": "1:3",
+            "pars": [
+                {
+                    "par_ref": "1:3.1",
+                    "par_pageref": "25.1"
+                },
+                {
+                    "par_ref": "1:3.2",
+                    "par_pageref": "25.2"
+                },
+                {
+                    "par_ref": "1:3.3",
+                    "par_pageref": "25.3"
+                },
+                {
+                    "par_ref": "1:3.4",
+                    "par_pageref": "25.4"
+                },
+                {
+                    "par_ref": "1:3.5",
+                    "par_pageref": "25.5"
+                },
+                {
+                    "par_ref": "1:3.6",
+                    "par_pageref": "25.6"
+                },
+                {
+                    "par_ref": "1:3.7",
+                    "par_pageref": "26.1"
+                },
+                {
+                    "par_ref": "1:3.8",
+                    "par_pageref": "26.2"
+                }
+            ]
+        },
+        {
+            "section_index": 4,
+            "section_ref": "1:4",
+            "pars": [
+                {
+                    "par_ref": "1:4.1",
+                    "par_pageref": "26.3"
+                },
+                {
+                    "par_ref": "1:4.2",
+                    "par_pageref": "26.4"
+                },
+                {
+                    "par_ref": "1:4.3",
+                    "par_pageref": "26.5"
+                },
+                {
+                    "par_ref": "1:4.4",
+                    "par_pageref": "26.6"
+                },
+                {
+                    "par_ref": "1:4.5",
+                    "par_pageref": "26.7"
+                },
+                {
+                    "par_ref": "1:4.6",
+                    "par_pageref": "27.1"
+                },
+                {
+                    "par_ref": "1:4.7",
+                    "par_pageref": "27.2"
+                }
+            ]
+        },
+        {
+            "section_index": 5,
+            "section_ref": "1:5",
+            "pars": [
+                {
+                    "par_ref": "1:5.1",
+                    "par_pageref": "27.3"
+                },
+                {
+                    "par_ref": "1:5.2",
+                    "par_pageref": "27.4"
+                },
+                {
+                    "par_ref": "1:5.3",
+                    "par_pageref": "27.5"
+                },
+                {
+                    "par_ref": "1:5.4",
+                    "par_pageref": "28.1"
+                },
+                {
+                    "par_ref": "1:5.5",
+                    "par_pageref": "28.2"
+                },
+                {
+                    "par_ref": "1:5.6",
+                    "par_pageref": "28.3"
+                },
+                {
+                    "par_ref": "1:5.7",
+                    "par_pageref": "28.4"
+                },
+                {
+                    "par_ref": "1:5.8",
+                    "par_pageref": "28.5"
+                },
+                {
+                    "par_ref": "1:5.9",
+                    "par_pageref": "28.6"
+                },
+                {
+                    "par_ref": "1:5.10",
+                    "par_pageref": "28.7"
+                },
+                {
+                    "par_ref": "1:5.11",
+                    "par_pageref": "29.1"
+                },
+                {
+                    "par_ref": "1:5.12",
+                    "par_pageref": "29.2"
+                },
+                {
+                    "par_ref": "1:5.13",
+                    "par_pageref": "29.3"
+                },
+                {
+                    "par_ref": "1:5.14",
+                    "par_pageref": "29.4"
+                },
+                {
+                    "par_ref": "1:5.15",
+                    "par_pageref": "29.5"
+                },
+                {
+                    "par_ref": "1:5.16",
+                    "par_pageref": "29.6"
+                }
+            ]
+        },
+        {
+            "section_index": 6,
+            "section_ref": "1:6",
+            "pars": [
+                {
+                    "par_ref": "1:6.1",
+                    "par_pageref": "29.7"
+                },
+                {
+                    "par_ref": "1:6.2",
+                    "par_pageref": "30.1"
+                },
+                {
+                    "par_ref": "1:6.3",
+                    "par_pageref": "30.2"
+                },
+                {
+                    "par_ref": "1:6.4",
+                    "par_pageref": "30.3"
+                },
+                {
+                    "par_ref": "1:6.5",
+                    "par_pageref": "30.4"
+                },
+                {
+                    "par_ref": "1:6.6",
+                    "par_pageref": "30.5"
+                },
+                {
+                    "par_ref": "1:6.7",
+                    "par_pageref": "30.6"
+                },
+                {
+                    "par_ref": "1:6.8",
+                    "par_pageref": "30.7"
+                }
+            ]
+        },
+        {
+            "section_index": 7,
+            "section_ref": "1:7",
+            "pars": [
+                {
+                    "par_ref": "1:7.1",
+                    "par_pageref": "31.1"
+                },
+                {
+                    "par_ref": "1:7.2",
+                    "par_pageref": "31.2"
+                },
+                {
+                    "par_ref": "1:7.3",
+                    "par_pageref": "31.3"
+                },
+                {
+                    "par_ref": "1:7.4",
+                    "par_pageref": "31.4"
+                },
+                {
+                    "par_ref": "1:7.5",
+                    "par_pageref": "31.5"
+                },
+                {
+                    "par_ref": "1:7.6",
+                    "par_pageref": "31.6"
+                },
+                {
+                    "par_ref": "1:7.7",
+                    "par_pageref": "31.7"
+                },
+                {
+                    "par_ref": "1:7.8",
+                    "par_pageref": "31.8"
+                },
+                {
+                    "par_ref": "1:7.9",
+                    "par_pageref": "32.1"
+                }
+            ]
+        }
+    ],
+    "paper_title": "Documento 1. El Padre Universal"
+}

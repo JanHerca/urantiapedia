@@ -1,0 +1,322 @@
+{
+    "paper_index": 111,
+    "sections": [
+        {
+            "section_index": 0,
+            "section_ref": "111:0",
+            "pars": [
+                {
+                    "par_ref": "111:0.1",
+                    "par_pageref": "1215.1"
+                },
+                {
+                    "par_ref": "111:0.2",
+                    "par_pageref": "1215.2"
+                },
+                {
+                    "par_ref": "111:0.3",
+                    "par_pageref": "1215.3"
+                },
+                {
+                    "par_ref": "111:0.4",
+                    "par_pageref": "1215.4"
+                },
+                {
+                    "par_ref": "111:0.5",
+                    "par_pageref": "1215.5"
+                },
+                {
+                    "par_ref": "111:0.6",
+                    "par_pageref": "1215.6"
+                },
+                {
+                    "par_ref": "111:0.7",
+                    "par_pageref": "1216.1"
+                }
+            ]
+        },
+        {
+            "section_index": 1,
+            "section_ref": "111:1",
+            "pars": [
+                {
+                    "par_ref": "111:1.1",
+                    "par_pageref": "1216.2"
+                },
+                {
+                    "par_ref": "111:1.2",
+                    "par_pageref": "1216.3"
+                },
+                {
+                    "par_ref": "111:1.3",
+                    "par_pageref": "1216.4"
+                },
+                {
+                    "par_ref": "111:1.4",
+                    "par_pageref": "1216.5"
+                },
+                {
+                    "par_ref": "111:1.5",
+                    "par_pageref": "1216.6"
+                },
+                {
+                    "par_ref": "111:1.6",
+                    "par_pageref": "1217.1"
+                },
+                {
+                    "par_ref": "111:1.7",
+                    "par_pageref": "1217.2"
+                },
+                {
+                    "par_ref": "111:1.8",
+                    "par_pageref": "1217.3"
+                },
+                {
+                    "par_ref": "111:1.9",
+                    "par_pageref": "1217.4"
+                }
+            ]
+        },
+        {
+            "section_index": 2,
+            "section_ref": "111:2",
+            "pars": [
+                {
+                    "par_ref": "111:2.1",
+                    "par_pageref": "1217.5"
+                },
+                {
+                    "par_ref": "111:2.2",
+                    "par_pageref": "1217.6"
+                },
+                {
+                    "par_ref": "111:2.3",
+                    "par_pageref": "1218.1"
+                },
+                {
+                    "par_ref": "111:2.4",
+                    "par_pageref": "1218.2"
+                },
+                {
+                    "par_ref": "111:2.5",
+                    "par_pageref": "1218.3"
+                },
+                {
+                    "par_ref": "111:2.6",
+                    "par_pageref": "1218.4"
+                },
+                {
+                    "par_ref": "111:2.7",
+                    "par_pageref": "1218.5"
+                },
+                {
+                    "par_ref": "111:2.8",
+                    "par_pageref": "1218.6"
+                },
+                {
+                    "par_ref": "111:2.9",
+                    "par_pageref": "1218.7"
+                },
+                {
+                    "par_ref": "111:2.10",
+                    "par_pageref": "1218.8"
+                }
+            ]
+        },
+        {
+            "section_index": 3,
+            "section_ref": "111:3",
+            "pars": [
+                {
+                    "par_ref": "111:3.1",
+                    "par_pageref": "1218.9"
+                },
+                {
+                    "par_ref": "111:3.2",
+                    "par_pageref": "1219.1"
+                },
+                {
+                    "par_ref": "111:3.3",
+                    "par_pageref": "1219.2"
+                },
+                {
+                    "par_ref": "111:3.4",
+                    "par_pageref": "1219.3"
+                },
+                {
+                    "par_ref": "111:3.5",
+                    "par_pageref": "1219.4"
+                },
+                {
+                    "par_ref": "111:3.6",
+                    "par_pageref": "1219.5"
+                },
+                {
+                    "par_ref": "111:3.7",
+                    "par_pageref": "1219.6"
+                }
+            ]
+        },
+        {
+            "section_index": 4,
+            "section_ref": "111:4",
+            "pars": [
+                {
+                    "par_ref": "111:4.1",
+                    "par_pageref": "1219.7"
+                },
+                {
+                    "par_ref": "111:4.2",
+                    "par_pageref": "1220.1"
+                },
+                {
+                    "par_ref": "111:4.3",
+                    "par_pageref": "1220.2"
+                },
+                {
+                    "par_ref": "111:4.4",
+                    "par_pageref": "1220.3"
+                },
+                {
+                    "par_ref": "111:4.5",
+                    "par_pageref": "1220.4"
+                },
+                {
+                    "par_ref": "111:4.6",
+                    "par_pageref": "1220.5"
+                },
+                {
+                    "par_ref": "111:4.7",
+                    "par_pageref": "1220.6"
+                },
+                {
+                    "par_ref": "111:4.8",
+                    "par_pageref": "1220.7"
+                },
+                {
+                    "par_ref": "111:4.9",
+                    "par_pageref": "1220.8"
+                },
+                {
+                    "par_ref": "111:4.10",
+                    "par_pageref": "1220.9"
+                },
+                {
+                    "par_ref": "111:4.11",
+                    "par_pageref": "1220.10"
+                },
+                {
+                    "par_ref": "111:4.12",
+                    "par_pageref": "1221.1"
+                }
+            ]
+        },
+        {
+            "section_index": 5,
+            "section_ref": "111:5",
+            "pars": [
+                {
+                    "par_ref": "111:5.1",
+                    "par_pageref": "1221.2"
+                },
+                {
+                    "par_ref": "111:5.2",
+                    "par_pageref": "1221.3"
+                },
+                {
+                    "par_ref": "111:5.3",
+                    "par_pageref": "1221.4"
+                },
+                {
+                    "par_ref": "111:5.4",
+                    "par_pageref": "1221.5"
+                },
+                {
+                    "par_ref": "111:5.5",
+                    "par_pageref": "1221.6"
+                },
+                {
+                    "par_ref": "111:5.6",
+                    "par_pageref": "1221.7"
+                }
+            ]
+        },
+        {
+            "section_index": 6,
+            "section_ref": "111:6",
+            "pars": [
+                {
+                    "par_ref": "111:6.1",
+                    "par_pageref": "1221.8"
+                },
+                {
+                    "par_ref": "111:6.2",
+                    "par_pageref": "1222.1"
+                },
+                {
+                    "par_ref": "111:6.3",
+                    "par_pageref": "1222.2"
+                },
+                {
+                    "par_ref": "111:6.4",
+                    "par_pageref": "1222.3"
+                },
+                {
+                    "par_ref": "111:6.5",
+                    "par_pageref": "1222.4"
+                },
+                {
+                    "par_ref": "111:6.6",
+                    "par_pageref": "1222.5"
+                },
+                {
+                    "par_ref": "111:6.7",
+                    "par_pageref": "1222.6"
+                },
+                {
+                    "par_ref": "111:6.8",
+                    "par_pageref": "1222.7"
+                },
+                {
+                    "par_ref": "111:6.9",
+                    "par_pageref": "1223.1"
+                },
+                {
+                    "par_ref": "111:6.10",
+                    "par_pageref": "1223.2"
+                }
+            ]
+        },
+        {
+            "section_index": 7,
+            "section_ref": "111:7",
+            "pars": [
+                {
+                    "par_ref": "111:7.1",
+                    "par_pageref": "1223.3"
+                },
+                {
+                    "par_ref": "111:7.2",
+                    "par_pageref": "1223.4"
+                },
+                {
+                    "par_ref": "111:7.3",
+                    "par_pageref": "1223.5"
+                },
+                {
+                    "par_ref": "111:7.4",
+                    "par_pageref": "1223.6"
+                },
+                {
+                    "par_ref": "111:7.5",
+                    "par_pageref": "1223.7"
+                },
+                {
+                    "par_ref": "111:7.6",
+                    "par_pageref": "1224.1"
+                }
+            ]
+        }
+    ],
+    "paper_title": "Documento 111. El Ajustador y el alma"
+}
