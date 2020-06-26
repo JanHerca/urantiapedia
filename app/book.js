@@ -9,6 +9,7 @@ class Book {
 	errorString = '{0}, línea {1}: {2}';
 	pars = [];
 	papers = [];
+	onProgressFn = null;
 
 	readFromLaTeX = (dirPath) => {
 		return new Promise((resolve, reject) => {
@@ -46,6 +47,9 @@ class Book {
 	readFileFromLaTeX = (filePath) => {
 		const baseName = path.basename(filePath);
 		return new Promise((resolve, reject) => {
+			if (this.onProgressFn) {
+				this.onProgressFn(baseName);
+			}
 			const paperIndex = parseInt(extractStr(baseName, 'Doc', '.tex'));
 			if (isNaN(paperIndex)) {
 				reject([this.createError(baseName, 0, 
@@ -59,7 +63,8 @@ class Book {
 				}
 				const lines = buf.toString().split('\n');
 				const errors = [];
-				const paper = this.extractPaperFromLaTex(paperIndex, lines, errors);
+				const paper = this.extractPaperFromLaTex(baseName, paperIndex, 
+					lines, errors);
 				if (errors.length === 0) {
 					this.papers.push(paper);
 					resolve(paper);
@@ -70,11 +75,12 @@ class Book {
 		});
 	};
 
-	extractPaperFromLaTex = (paperIndex, lines, errors) => {
+	extractPaperFromLaTex = (baseName, paperIndex, lines, errors) => {
 		let extract;
 		const paper = {
 			paper_index: paperIndex,
-			sections: []
+			sections: [],
+			footnotes: []
 		};
 		let currentSection = null;
 		let currentSectionIndex = -1;
@@ -83,6 +89,7 @@ class Book {
 		let linePreviousPos = 0;
 		let extractPrevious = null;
 		lines.forEach((line, i) => {
+			let j = 0;
 			if (line.startsWith(LaTeXSeparator.PAPER_START)) {
 				//Si es un documento
 				extract = extractStr(line, LaTeXSeparator.PAPER_START,
@@ -112,6 +119,7 @@ class Book {
 					currentSection = {
 						section_index: currentSectionIndex,
 						section_ref: `${paperIndex}:${currentSectionIndex}`,
+						section_title: extract,
 						pars: []
 					};
 					paper.sections.push(currentSection);
@@ -135,9 +143,14 @@ class Book {
 						errors.push(this.createError(baseName, i,
 							'No se pudo extraer la referencia de párrafo'));
 					} else if (extractPrevious) {
+						j = LaTeXSeparator.PAR_START.length + extract.length + 
+							LaTeXSeparator.END.length;
 						currentPar = {
 							par_ref: extract,
-							par_pageref: extractPrevious
+							par_pageref: extractPrevious,
+							par_content: this.extractParContentFromLaTeX(baseName,
+								i + 1, line.substring(j).trim(), paper.footnotes, 
+								errors)
 						};
 						currentSection.pars.push(currentPar);
 					}
@@ -148,6 +161,67 @@ class Book {
 			}
 		});
 		return paper;
+	};
+
+	extractParContentFromLaTeX = (baseName, lnum, content, footnotes, errors) => {
+		let extract = '', fi, i = 0, open = 0, index, c, footnoteExtract;
+		while (i < content.length) {
+			index = content.indexOf(LaTeXSeparator.FOOTNOTE_START, i);
+			if (index === -1) {
+				extract += content.substring(i);
+				break;
+			} else {
+				extract += content.substring(i, index);
+			}
+			fi = index + LaTeXSeparator.FOOTNOTE_START.length;
+			i = fi;
+			open = 1;
+			while (i < content.length && open > 0) {
+				c = content[i];
+				if (c === '{') open++;
+				else if (c === '}') open--;
+				i++;
+			}
+			if (open != 0) {
+				errors.push(this.createError(baseName, lnum,
+					'No existe cierre de footnote correcto'))
+				return content;
+			}
+			extract += `{${footnotes.length}}`;
+			footnoteExtract = content.substring(fi, i - 1);
+			footnoteExtract = this.replaceItalicsFromLaTeX(baseName, lnum, 
+				footnoteExtract, errors);
+			footnotes.push(footnoteExtract);
+		}
+		extract = this.replaceItalicsFromLaTeX(baseName, lnum, extract, errors);
+		return extract;
+	};
+
+	replaceItalicsFromLaTeX = (baseName, lnum, content, errors) => {
+		let result = '', ii, i = 0, index;
+		while (i < content.length) {
+			index = content.indexOf(LaTeXSeparator.ITALIC_START, i);
+			if (index === -1) {
+				result += content.substring(i);
+				break;
+			} else {
+				result += content.substring(i, index);
+			}
+			ii = index + LaTeXSeparator.ITALIC_START.length;
+			i = content.indexOf(LaTeXSeparator.END, ii);
+			if (i === -1) {
+				errors.push(this.createError(baseName, lnum,
+					'No existe cierre de itálicas correcto'))
+				return content;
+			}
+			result += '*' + content.substring(ii, i) + '*';
+			i++;
+		}
+		return result;
+	};
+
+	replaceSpecialChars = (content) => {
+		//TODO: reemplazar \"u con ü, --- con —, 
 	};
 
 	writeToLaTeX = (dirPath) => {
@@ -194,6 +268,9 @@ class Book {
 	readFileFromJSON = (filePath) => {
 		const baseName = path.basename(filePath);
 		return new Promise((resolve, reject) => {
+			if (this.onProgressFn) {
+				this.onProgressFn(baseName);
+			}
 			const paperIndex = parseInt(extractStr(baseName, 'Doc', '.json'));
 			if (isNaN(paperIndex)) {
 				reject([this.createError(baseName, 0, 
