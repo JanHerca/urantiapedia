@@ -11,6 +11,10 @@ class Book {
 	papers = [];
 	onProgressFn = null;
 
+	//***********************************************************************
+	// LaTeX
+	//***********************************************************************
+
 	readFromLaTeX = (dirPath) => {
 		return new Promise((resolve, reject) => {
 			fs.readdir(dirPath, (err, files) => {
@@ -25,6 +29,8 @@ class Book {
 					reject([new Error('No se han encontrado archivos LaTeX')]);
 					return;
 				}
+
+				this.papers = [];
 				
 				var promises = texFiles.map(file => {
 					const filePath = path.join(dirPath, file);
@@ -191,9 +197,11 @@ class Book {
 			footnoteExtract = content.substring(fi, i - 1);
 			footnoteExtract = this.replaceItalicsFromLaTeX(baseName, lnum, 
 				footnoteExtract, errors);
+			footnoteExtract = this.replaceSpecialChars(footnoteExtract);
 			footnotes.push(footnoteExtract);
 		}
 		extract = this.replaceItalicsFromLaTeX(baseName, lnum, extract, errors);
+		extract = this.replaceSpecialChars(extract);
 		return extract;
 	};
 
@@ -221,16 +229,20 @@ class Book {
 	};
 
 	replaceSpecialChars = (content) => {
-		//TODO: reemplazar \"u con ü, --- con —, 
+		return content.replace(/(\\\"u)/g, 'ü').replace(/(---)/g, '—');
 	};
 
 	writeToLaTeX = (dirPath) => {
-
+		return this.writeTo(dirPath, 'tex');
 	};
 
 	writeFileToLaTeX = (filePath) => {
 
 	};
+
+	//***********************************************************************
+	// JSON
+	//***********************************************************************
 
 	readFromJSON = (dirPath) => {
 		return new Promise((resolve, reject) => {
@@ -246,6 +258,8 @@ class Book {
 					reject([new Error('No se han encontrado archivos JSON')]);
 					return;
 				}
+
+				this.papers = [];
 				
 				var promises = jsonFiles.map(file => {
 					const filePath = path.join(dirPath, file);
@@ -295,30 +309,7 @@ class Book {
 	};
 
 	writeToJSON = (dirPath) => {
-		const baseName = path.basename(dirPath);
-		return new Promise((resolve, reject) => {
-			fs.access(dirPath, fs.constants.W_OK, (err) => {
-				if (err) {
-					reject([new Error(`El directorio ${baseName} no está accesible`)]);
-					return;
-				}
-				var promises = this.papers.map(paper => {
-					const i = paper.paper_index;
-					const stri = (i > 99 ? `${i}` : (i > 9 ? `0${i}` : `00${i}`));
-					const filePath = path.join(dirPath, `Doc${stri}.json`);
-					return reflectPromise(this.writeFileToJSON(filePath, paper));
-				});
-				Promise.all(promises)
-					.then((results) => {
-						const errors = results.filter(r => r.error != null);
-						if (errors.length === 0) {
-							resolve(null);
-						} else {
-							reject(errors);
-						}
-					});
-			});
-		});
+		return this.writeTo(dirPath, 'json');
 	};
 
 	writeFileToJSON = (filePath, paper) => {
@@ -334,8 +325,116 @@ class Book {
 		});
 	};
 
+	//***********************************************************************
+	// Wiki
+	//***********************************************************************
+
+	writeToWiki = (dirPath) => {
+		return this.writeTo(dirPath, 'wiki');
+	};
+
+	writeFileToWiki = (filePath, paper) => {
+		return new Promise((resolve, reject) => {
+			let wiki = '', ptitle, error;
+			const end = '\r\n\r\n';
+			if (paper.paper_title) {
+				ptitle = paper.paper_title.toUpperCase();
+				wiki += `== ${ptitle} ==${end}`;
+			}
+			if (!Array.isArray(paper.sections)) {
+				error = 'El documento no tiene secciones';
+				reject(new Error(`${filePath}: ${error}`));
+				return;
+			}
+			paper.sections.forEach(section => {
+				let ref, anchor, stitle;
+				if (!section.section_ref) {
+					error = 'Una sección no tiene referencia';
+					return;
+				}
+				ref = section.section_ref.replace(':', '_');
+				anchor = `{{anchor|LU_${ref}}}`;
+				if (section.section_title) {
+					stitle = section.section_title.toUpperCase();
+					wiki += `== ${anchor} ${stitle} ==${end}`;
+				} else {
+					wiki += `${anchor}${end}`;
+				}
+				if (!Array.isArray(section.pars)) {
+					error = 'Una sección no tiene párrafos';
+					return;
+				}
+				section.pars.forEach(par => {
+					let pref, panchor, pcontent;
+					if (!par.par_ref || !par.par_content) {
+						error = 'Un párafo no tiene referencia o contenido';
+						return;
+					}
+					pref = par.par_ref.replace(/[:\.]/g,'_');
+					panchor = `{{anchor|LU_${pref}}}`;
+					pcontent = par.par_content.replace(/\*/g, '\'\'');
+					//TODO: añadir referencias
+					wiki += `${panchor} ${pcontent}${end}`;
+				});
+			});
+			if (error) {
+				reject(new Error(`${filePath}: ${error}`));
+				return;
+			}
+			fs.writeFile(filePath, wiki, 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
+			});
+		});
+	};
+
+
+	//***********************************************************************
+	// Help functions
+	//***********************************************************************
+
 	createError = (file, linenum, msg) => {
 		return new Error(`${file}, línea ${linenum}: ${msg}`);
+	};
+
+	writeTo = (dirPath, format) => {
+		const baseName = path.basename(dirPath);
+		return new Promise((resolve, reject) => {
+			fs.access(dirPath, fs.constants.W_OK, (err) => {
+				if (err) {
+					reject([new Error(`El directorio ${baseName} no está accesible`)]);
+					return;
+				}
+				var promises = this.papers.map(paper => {
+					const i = paper.paper_index;
+					const stri = (i > 99 ? `${i}` : (i > 9 ? `0${i}` : `00${i}`));
+					const filePath = path.join(dirPath, `Doc${stri}.${format}`);
+					let p;
+					if (format === 'json') {
+						p = this.writeFileToJSON(filePath, paper);
+					} else if (format === 'tex') {
+						p = this.writeFileToLaTeX(filePath, paper);
+					} else if (format = 'wiki') {
+						p = this.writeFileToWiki(filePath, paper);
+					} else {
+						p = Promise.resolve(null);
+					}
+					return reflectPromise(p);
+				});
+				Promise.all(promises)
+					.then((results) => {
+						const errors = results.filter(r => r.error != null);
+						if (errors.length === 0) {
+							resolve(null);
+						} else {
+							reject(errors);
+						}
+					});
+			});
+		});
 	};
 }
 

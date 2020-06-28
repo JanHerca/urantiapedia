@@ -8,7 +8,7 @@
 4. Para comprobar que funciona http://localhost/dashboard/
 5. Instalar el módulo de WikiMedia con [Bitnami](https://bitnami.com/stack/xampp?utm_source=bitnami&utm_medium=installer&utm_campaign=XAMPP%2BInstaller).
 7. Al instalar meter la password de MySQL (por defecto es pwdpwd) y crear un usuario para la wiki.
-8. Se abrirá la web al finalizar, algo así como: http://192.168.1.10/wiki/index.php/Main_Page.
+8. Se abrirá la web al finalizar, algo así como: http://192.168.1.10/wiki/index.php/Main_Page o http://localhost/wiki/index.php/Main_Page segun esté configurado localhost.
 9. Hacer login para comprobar que funciona el usuario creado en 7.
 
 ## Templates
