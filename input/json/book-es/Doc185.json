@@ -18,7 +18,7 @@
                 {
                     "par_ref": "185:0.3",
                     "par_pageref": "1987.3",
-                    "par_content": "Aunque Pilatos dirigió una gran parte del interrogatorio de Jesús dentro de las salas del pretorio, el juicio público se celebró en el exterior, en los escalones que conducían a la entrada principal. Fue una concesión que hizo a los judíos, los cuales se negaban a entrar en cualquier edificio gentil donde quizás se había utilizado la levadura en este día de la preparación de la Pascua. Una conducta así no solamente los volvería ceremonialmente impuros, privándolos con ello de poder participar en la fiesta de acción de gracias de la tarde, sino que también necesitarían someterse a las ceremonias de purificación después de la puesta del Sol para poder compartir la cena pascual."
+                    "par_content": "Aunque Pilatos dirigió una gran parte del interrogatorio de Jesús dentro de las salas del pretorio, el juicio público se celebró en el exterior{0}, en los escalones que conducían a la entrada principal. Fue una concesión que hizo a los judíos, los cuales se negaban a entrar en cualquier edificio gentil donde quizás se había utilizado la levadura en este día de la preparación de la Pascua. Una conducta así no solamente los volvería ceremonialmente impuros, privándolos con ello de poder participar en la fiesta de acción de gracias de la tarde, sino que también necesitarían someterse a las ceremonias de purificación después de la puesta del Sol para poder compartir la cena pascual."
                 },
                 {
                     "par_ref": "185:0.4",
@@ -87,17 +87,17 @@
                 {
                     "par_ref": "185:2.1",
                     "par_pageref": "1989.4",
-                    "par_content": "Cuando Jesús y sus acusadores se hubieron congregado delante de la sala de juicios de Pilatos, el gobernador romano salió y se dirigió a la compañía reunida, preguntando: «¿Qué acusación traéis contra este hombre?» Los saduceos y los consejeros, que habían hecho suyo el deshacerse de Jesús, habían decidido presentarse ante Pilatos para pedirle la confirmación de la sentencia de muerte pronunciada contra él, sin ofrecer ninguna acusación definida. Por esta razón, el portavoz del tribunal de los sanedristas le contestó a Pilatos: «Si este hombre no fuera un malhechor, no te lo habríamos entregado»."
+                    "par_content": "Cuando Jesús y sus acusadores se hubieron congregado delante de la sala de juicios de Pilatos, el gobernador romano salió y se dirigió a la compañía reunida, preguntando: «¿Qué acusación traéis contra este hombre?»{1} Los saduceos y los consejeros, que habían hecho suyo el deshacerse de Jesús, habían decidido presentarse ante Pilatos para pedirle la confirmación de la sentencia de muerte pronunciada contra él, sin ofrecer ninguna acusación definida. Por esta razón, el portavoz del tribunal de los sanedristas le contestó a Pilatos: «Si este hombre no fuera un malhechor, no te lo habríamos entregado»."
                 },
                 {
                     "par_ref": "185:2.2",
                     "par_pageref": "1989.5",
-                    "par_content": "Cuando Pilatos observó que eran reacios a exponer sus acusaciones contra Jesús, aunque sabía que habían pasado toda la noche deliberando sobre su culpabilidad, les contestó: «Puesto que no estáis de acuerdo en unas acusaciones determinadas, ¿por qué no os lleváis a este hombre y lo juzgáis según vuestras propias leyes?»"
+                    "par_content": "Cuando Pilatos observó que eran reacios a exponer sus acusaciones contra Jesús, aunque sabía que habían pasado toda la noche deliberando sobre su culpabilidad, les contestó: «Puesto que no estáis de acuerdo en unas acusaciones determinadas, ¿por qué no os lleváis a este hombre y lo juzgáis según vuestras propias leyes?»{2}"
                 },
                 {
                     "par_ref": "185:2.3",
                     "par_pageref": "1989.6",
-                    "par_content": "Entonces, el actuario del tribunal del sanedrín le dijo a Pilatos: «No nos está permitido ejecutar a nadie, y este perturbador de nuestra nación merece morir por las cosas que ha dicho y hecho. Por eso hemos venido ante ti para que confirmes esta sentencia»."
+                    "par_content": "Entonces, el actuario del tribunal del sanedrín le dijo a Pilatos: «No nos está permitido ejecutar a nadie, y este perturbador de nuestra nación merece morir por las cosas que ha dicho y hecho. Por eso hemos venido ante ti para que confirmes esta sentencia»{3}."
                 },
                 {
                     "par_ref": "185:2.4",
@@ -132,7 +132,7 @@
                 {
                     "par_ref": "185:2.10",
                     "par_pageref": "1990.5",
-                    "par_content": "«El tribunal sanedrista estima que este hombre es un malhechor y un perturbador de nuestra nación, porque es culpable de:"
+                    "par_content": "«El tribunal sanedrista estima que este hombre es un malhechor y un perturbador de nuestra nación, porque es culpable de{4}:"
                 },
                 {
                     "par_ref": "185:2.11",
@@ -174,27 +174,27 @@
                 {
                     "par_ref": "185:3.1",
                     "par_pageref": "1991.1",
-                    "par_content": "Pilatos llevó a Jesús y a Juan Zebedeo a una habitación privada, dejando a los guardias fuera en la sala; le rogó al preso que se sentara, se sentó a su lado y le hizo varias preguntas. Pilatos empezó su conversación con Jesús asegurándole que no creía en la primera acusación contra él: la de que pervertía a la nación e incitaba a la rebelión. Luego le preguntó: «¿Has enseñado alguna vez que se debe negar el tributo al César?» Jesús señaló a Juan y dijo: «Pregúntale a él o a cualquier otra persona que haya escuchado mi enseñanza». Entonces Pilatos le preguntó a Juan sobre este asunto del tributo, y Juan testificó acerca de la enseñanza de su Maestro y explicó que Jesús y sus apóstoles pagaban los impuestos tanto al César como al templo. Cuando Pilatos hubo interrogado a Juan, dijo: «Procura no decirle a nadie que he hablado contigo». Y Juan no reveló nunca este asunto."
+                    "par_content": "Pilatos llevó a Jesús y a Juan Zebedeo a una habitación privada, dejando a los guardias fuera en la sala; le rogó al preso que se sentara, se sentó a su lado y le hizo varias preguntas{5}. Pilatos empezó su conversación con Jesús asegurándole que no creía en la primera acusación contra él: la de que pervertía a la nación e incitaba a la rebelión. Luego le preguntó: «¿Has enseñado alguna vez que se debe negar el tributo al César?»{6} Jesús señaló a Juan y dijo: «Pregúntale a él o a cualquier otra persona que haya escuchado mi enseñanza». Entonces Pilatos le preguntó a Juan sobre este asunto del tributo, y Juan testificó acerca de la enseñanza de su Maestro y explicó que Jesús y sus apóstoles pagaban los impuestos tanto al César como al templo. Cuando Pilatos hubo interrogado a Juan, dijo: «Procura no decirle a nadie que he hablado contigo». Y Juan no reveló nunca este asunto."
                 },
                 {
                     "par_ref": "185:3.2",
                     "par_pageref": "1991.2",
-                    "par_content": "Pilatos se volvió entonces para hacerle nuevas preguntas a Jesús, diciendo: «Y ahora, en cuanto a la tercera acusación contra ti, ¿eres el rey de los judíos?» Puesto que en la voz de Pilatos había un tono de interrogación posiblemente sincera, Jesús le sonrió al procurador y dijo: «Pilatos, ¿preguntas esto por ti mismo, o coges esta pregunta de esos otros, mis acusadores?» Entonces, el gobernador respondió con un tono parcialmente indignado: «¿Soy yo judío? Tu propio pueblo y los jefes de los sacerdotes te han entregado y me han pedido que te condene a muerte. Pongo en duda la validez de sus acusaciones y sólo intento descubrir por mí mismo qué has hecho. Dime, ¿has dicho que eres el rey de los judíos, y has tratado de fundar un nuevo reino?»"
+                    "par_content": "Pilatos se volvió entonces para hacerle nuevas preguntas a Jesús, diciendo: «Y ahora, en cuanto a la tercera acusación contra ti, ¿eres el rey de los judíos?»{7} Puesto que en la voz de Pilatos había un tono de interrogación posiblemente sincera, Jesús le sonrió al procurador y dijo: «Pilatos, ¿preguntas esto por ti mismo, o coges esta pregunta de esos otros, mis acusadores?»{8} Entonces, el gobernador respondió con un tono parcialmente indignado: «¿Soy yo judío? Tu propio pueblo y los jefes de los sacerdotes te han entregado y me han pedido que te condene a muerte. Pongo en duda la validez de sus acusaciones y sólo intento descubrir por mí mismo qué has hecho. Dime, ¿has dicho que eres el rey de los judíos, y has tratado de fundar un nuevo reino?»"
                 },
                 {
                     "par_ref": "185:3.3",
                     "par_pageref": "1991.3",
-                    "par_content": "Jesús le dijo entonces a Pilatos: «¿No percibes que mi reino no es de este mundo? Si mi reino fuera de este mundo, mis discípulos lucharían con toda seguridad para que yo no fuera entregado a los judíos. Mi presencia aquí delante de ti con estas ataduras es suficiente para mostrar a todos los hombres que mi reino es un dominio espiritual, la fraternidad misma de los hombres que se han vuelto hijos de Dios a través de la fe y por amor. Y esta salvación es tanto para los gentiles como para los judíos»."
+                    "par_content": "Jesús le dijo entonces a Pilatos: «¿No percibes que mi reino no es de este mundo?{9} Si mi reino fuera de este mundo, mis discípulos lucharían con toda seguridad para que yo no fuera entregado a los judíos. Mi presencia aquí delante de ti con estas ataduras es suficiente para mostrar a todos los hombres que mi reino es un dominio espiritual, la fraternidad misma de los hombres que se han vuelto hijos de Dios a través de la fe y por amor. Y esta salvación es tanto para los gentiles como para los judíos»."
                 },
                 {
                     "par_ref": "185:3.4",
                     "par_pageref": "1991.4",
-                    "par_content": "«Entonces, ¿después de todo eres rey?» dijo Pilatos. Y Jesús respondió: «Sí, soy un rey de ese tipo, y mi reino es la familia de los hijos por la fe de mi Padre que está en los cielos. Nací en este mundo con esa finalidad, para mostrar mi Padre a todos los hombres y dar testimonio de la verdad de Dios. E incluso ahora te afirmo que todo el que ama la verdad escucha mi voz»."
+                    "par_content": "«Entonces, ¿después de todo eres rey?» dijo Pilatos. Y Jesús respondió: «Sí, soy un rey de ese tipo, y mi reino es la familia de los hijos por la fe de mi Padre que está en los cielos. Nací en este mundo con esa finalidad, para mostrar mi Padre a todos los hombres y dar testimonio de la verdad de Dios{10}. E incluso ahora te afirmo que todo el que ama la verdad escucha mi voz»{11}."
                 },
                 {
                     "par_ref": "185:3.5",
                     "par_pageref": "1991.5",
-                    "par_content": "Entonces dijo Pilatos con una mezcla de burla y de sinceridad: «La verdad, ¿cuál es la verdad —quién la conoce?»"
+                    "par_content": "Entonces dijo Pilatos con una mezcla de burla y de sinceridad: «La verdad, ¿cuál es la verdad —quién la conoce?»{12}"
                 },
                 {
                     "par_ref": "185:3.6",
@@ -204,17 +204,17 @@
                 {
                     "par_ref": "185:3.7",
                     "par_pageref": "1991.7",
-                    "par_content": "Después de interrogar al Maestro, Pilatos regresó donde estaban los jefes de los sacerdotes y los acusadores de Jesús, y dijo: «He interrogado a este hombre, y no encuentro ninguna falta en él. No creo que sea culpable de las acusaciones que habéis efectuado contra él; creo que debe ser puesto en libertad». Cuando los judíos escucharon esto, se encolerizaron enormemente, hasta el punto de que gritaron ferozmente que Jesús debía morir; y uno de los sanedristas subió con descaro hasta el lado de Pilatos, diciendo: «Este hombre excita al pueblo, empezando por Galilea y continuando por toda Judea. Causa daño y es un malhechor. Si dejas en libertad a este hombre perverso, lo lamentarás durante mucho tiempo»."
+                    "par_content": "Después de interrogar al Maestro, Pilatos regresó donde estaban los jefes de los sacerdotes y los acusadores de Jesús, y dijo: «He interrogado a este hombre, y no encuentro ninguna falta en él{13}. No creo que sea culpable de las acusaciones que habéis efectuado contra él; creo que debe ser puesto en libertad». Cuando los judíos escucharon esto, se encolerizaron enormemente, hasta el punto de que gritaron ferozmente que Jesús debía morir{14}; y uno de los sanedristas subió con descaro hasta el lado de Pilatos, diciendo: «Este hombre excita al pueblo, empezando por Galilea y continuando por toda Judea. Causa daño y es un malhechor. Si dejas en libertad a este hombre perverso, lo lamentarás durante mucho tiempo»."
                 },
                 {
                     "par_ref": "185:3.8",
                     "par_pageref": "1992.1",
-                    "par_content": "Pilatos se veía en el apuro de no saber qué hacer con Jesús; por eso, cuando les oyó decir que había empezado su trabajo en Galilea, pensó en esquivar la responsabilidad de resolver el caso, o al menos ganar tiempo para reflexionar, enviando a Jesús a comparecer ante Herodes, que entonces estaba en la ciudad para asistir a la Pascua. Pilatos pensó también que este gesto serviría de antídoto contra algunos sentimientos desagradables que habían existido entre él y Herodes desde hacía algún tiempo, debidos a numerosos malentendidos sobre cuestiones de jurisdicción."
+                    "par_content": "Pilatos se veía en el apuro de no saber qué hacer con Jesús; por eso, cuando les oyó decir que había empezado su trabajo en Galilea, pensó en esquivar la responsabilidad de resolver el caso, o al menos ganar tiempo para reflexionar, enviando a Jesús a comparecer ante Herodes{15}, que entonces estaba en la ciudad para asistir a la Pascua. Pilatos pensó también que este gesto serviría de antídoto contra algunos sentimientos desagradables que habían existido entre él y Herodes desde hacía algún tiempo, debidos a numerosos malentendidos sobre cuestiones de jurisdicción{16}."
                 },
                 {
                     "par_ref": "185:3.9",
                     "par_pageref": "1992.2",
-                    "par_content": "Pilatos llamó a los guardias y les dijo: «Este hombre es galileo. Llevadlo inmediatamente ante Herodes, y cuando lo haya interrogado, informadme de sus conclusiones». Y los guardias llevaron a Jesús ante Herodes."
+                    "par_content": "Pilatos llamó a los guardias y les dijo: «Este hombre es galileo. Llevadlo inmediatamente ante Herodes, y cuando lo haya interrogado, informadme de sus conclusiones». Y los guardias llevaron a Jesús ante Herodes{17}."
                 }
             ]
         },
@@ -226,17 +226,17 @@
                 {
                     "par_ref": "185:4.1",
                     "par_pageref": "1992.3",
-                    "par_content": "Cuando Herodes Antipas se quedaba en Jerusalén, residía en el viejo palacio macabeo de Herodes el Grande, y Jesús fue llevado ahora por los guardias del templo a esta residencia del anterior rey, seguido por sus acusadores y una multitud en aumento. Herodes había oído hablar de Jesús desde hacía tiempo, y tenía mucha curiosidad por conocerlo. Cuando el Hijo del Hombre estuvo ante él este viernes por la mañana, el malvado idumeo no recordó en ningún momento al muchacho de años atrás que se había presentado ante él en Séforis para rogarle una decisión justa sobre el dinero que le debían a su padre, el cual había muerto accidentalmente mientras trabajaba en uno de los edificios públicos. Que Herodes supiera, nunca había visto a Jesús, aunque se había inquietado mucho a causa de él cuando la actividad del Maestro estaba centrada en Galilea. Ahora que Jesús estaba bajo la custodia de Pilatos y de los judeos, Herodes ansiaba verlo, pues se sentía protegido contra cualquier problema que Jesús pudiera causar en el futuro. Herodes había oído hablar mucho de los milagros que Jesús había hecho, y esperaba realmente verle realizar algún prodigio."
+                    "par_content": "Cuando Herodes Antipas se quedaba en Jerusalén, residía en el viejo palacio macabeo de Herodes el Grande, y Jesús fue llevado ahora por los guardias del templo a esta residencia del anterior rey, seguido por sus acusadores y una multitud en aumento. Herodes había oído hablar de Jesús desde hacía tiempo, y tenía mucha curiosidad por conocerlo. Cuando el Hijo del Hombre estuvo ante él este viernes por la mañana, el malvado idumeo no recordó en ningún momento al muchacho de años atrás que se había presentado ante él en Séforis para rogarle una decisión justa sobre el dinero que le debían a su padre, el cual había muerto accidentalmente mientras trabajaba en uno de los edificios públicos. Que Herodes supiera, nunca había visto a Jesús, aunque se había inquietado mucho a causa de él cuando la actividad del Maestro estaba centrada en Galilea. Ahora que Jesús estaba bajo la custodia de Pilatos y de los judeos, Herodes ansiaba verlo, pues se sentía protegido contra cualquier problema que Jesús pudiera causar en el futuro. Herodes había oído hablar mucho de los milagros que Jesús había hecho, y esperaba realmente verle realizar algún prodigio{18}."
                 },
                 {
                     "par_ref": "185:4.2",
                     "par_pageref": "1992.4",
-                    "par_content": "Cuando llevaron a Jesús ante Herodes, el tetrarca se quedó sorprendido de su apariencia majestuosa y de la serenidad de su semblante. Herodes le hizo preguntas a Jesús durante unos quince minutos, pero el Maestro no quiso responder. Herodes lo provocó y lo desafió a que realizara un milagro, pero Jesús no quiso contestar a sus numerosas preguntas ni responder a sus insultos."
+                    "par_content": "Cuando llevaron a Jesús ante Herodes, el tetrarca se quedó sorprendido de su apariencia majestuosa y de la serenidad de su semblante. Herodes le hizo preguntas a Jesús durante unos quince minutos, pero el Maestro no quiso responder{19}. Herodes lo provocó y lo desafió a que realizara un milagro, pero Jesús no quiso contestar a sus numerosas preguntas ni responder a sus insultos."
                 },
                 {
                     "par_ref": "185:4.3",
                     "par_pageref": "1992.5",
-                    "par_content": "Herodes se volvió entonces hacia los jefes de los sacerdotes y los saduceos, prestó oído a sus acusaciones, y escuchó todo lo que Pilatos había oído y más aún acerca de las supuestas maldades del Hijo del Hombre. Finalmente, convencido de que Jesús no hablaría ni realizaría un prodigio para él, Herodes, después de burlarse de él durante un rato, le colocó un viejo manto de púrpura real y lo envió de vuelta a Pilatos. Herodes sabía que no tenía ninguna jurisdicción sobre Jesús en Judea. Aunque le alegraba creer que por fin se iba a desembarazar de Jesús en Galilea, estaba agradecido de que fuera Pilatos quien tenía la responsabilidad de quitarle la vida. Herodes nunca se había recuperado por completo del miedo que padecía por haber ejecutado a Juan el Bautista. En algunos momentos, Herodes había temido incluso que Jesús fuera Juan resucitado de entre los muertos. Ahora se había librado de este temor, puesto que observó que Jesús era un tipo de persona muy diferente al directo y fogoso profeta que se había atrevido a sacar a la luz y denunciar su vida privada."
+                    "par_content": "Herodes se volvió entonces hacia los jefes de los sacerdotes y los saduceos, prestó oído a sus acusaciones, y escuchó todo lo que Pilatos había oído y más aún acerca de las supuestas maldades del Hijo del Hombre. Finalmente, convencido de que Jesús no hablaría ni realizaría un prodigio para él, Herodes, después de burlarse de él durante un rato, le colocó un viejo manto de púrpura real y lo envió de vuelta a Pilatos{20}. Herodes sabía que no tenía ninguna jurisdicción sobre Jesús en Judea. Aunque le alegraba creer que por fin se iba a desembarazar de Jesús en Galilea, estaba agradecido de que fuera Pilatos quien tenía la responsabilidad de quitarle la vida. Herodes nunca se había recuperado por completo del miedo que padecía por haber ejecutado a Juan el Bautista. En algunos momentos, Herodes había temido incluso que Jesús fuera Juan resucitado de entre los muertos. Ahora se había librado de este temor, puesto que observó que Jesús era un tipo de persona muy diferente al directo y fogoso profeta que se había atrevido a sacar a la luz y denunciar su vida privada."
                 }
             ]
         },
@@ -248,22 +248,22 @@
                 {
                     "par_ref": "185:5.1",
                     "par_pageref": "1993.1",
-                    "par_content": "Cuando los guardias volvieron a traer a Jesús ante Pilatos, éste salió a los escalones del pretorio donde se había colocado su asiento para el juicio, convocó a los principales sacerdotes y a los sanedristas, y les dijo: «Habéis traído a este hombre ante mí acusándolo de que pervierte al pueblo, prohíbe el pago de los impuestos y pretende ser el rey de los judíos. Lo he interrogado y no lo he encontrado culpable de esas acusaciones. De hecho, no encuentro ninguna falta en él. Luego lo he enviado a Herodes, y el tetrarca debe haber llegado a la misma conclusión, puesto que nos lo ha enviado de vuelta. Sin duda este hombre no ha hecho nada que merezca la muerte. Si aún seguís pensando que necesita ser castigado, estoy dispuesto a darle un escarmiento antes de ponerlo en libertad»."
+                    "par_content": "Cuando los guardias volvieron a traer a Jesús ante Pilatos, éste salió a los escalones del pretorio donde se había colocado su asiento para el juicio, convocó a los principales sacerdotes y a los sanedristas, y les dijo: «Habéis traído a este hombre ante mí acusándolo de que pervierte al pueblo, prohíbe el pago de los impuestos y pretende ser el rey de los judíos. Lo he interrogado y no lo he encontrado culpable de esas acusaciones. De hecho, no encuentro ninguna falta en él{21}. Luego lo he enviado a Herodes, y el tetrarca debe haber llegado a la misma conclusión, puesto que nos lo ha enviado de vuelta. Sin duda este hombre no ha hecho nada que merezca la muerte. Si aún seguís pensando que necesita ser castigado, estoy dispuesto a darle un escarmiento antes de ponerlo en libertad»."
                 },
                 {
                     "par_ref": "185:5.2",
                     "par_pageref": "1993.2",
-                    "par_content": "En el preciso momento en que los judíos se disponían a gritar sus protestas por la liberación de Jesús, una gran muchedumbre se acercó hasta el pretorio para pedirle a Pilatos que soltara a un preso en honor de la fiesta de la Pascua. Desde hacía algún tiempo, los gobernadores romanos habían tenido la costumbre de permitir que la plebe escogiera a un hombre encarcelado o condenado para que fuera indultado en la época de la Pascua. Ahora que este gentío se presentaba ante él para pedirle que liberara a un preso, y puesto que Jesús había gozado tan recientemente de una gran popularidad entre las multitudes, a Pilatos se le ocurrió que quizás podría salir de este apuro proponiéndole a este grupo que, ya que Jesús estaba ahora preso delante de su tribunal, les soltaría a este hombre de Galilea como prueba de la buena voluntad de la Pascua."
+                    "par_content": "En el preciso momento en que los judíos se disponían a gritar sus protestas por la liberación de Jesús, una gran muchedumbre se acercó hasta el pretorio para pedirle a Pilatos que soltara a un preso en honor de la fiesta de la Pascua{22}. Desde hacía algún tiempo, los gobernadores romanos habían tenido la costumbre de permitir que la plebe escogiera a un hombre encarcelado o condenado para que fuera indultado en la época de la Pascua. Ahora que este gentío se presentaba ante él para pedirle que liberara a un preso, y puesto que Jesús había gozado tan recientemente de una gran popularidad entre las multitudes, a Pilatos se le ocurrió que quizás podría salir de este apuro proponiéndole a este grupo que, ya que Jesús estaba ahora preso delante de su tribunal, les soltaría a este hombre de Galilea como prueba de la buena voluntad de la Pascua{23}."
                 },
                 {
                     "par_ref": "185:5.3",
                     "par_pageref": "1993.3",
-                    "par_content": "Mientras la multitud invadía las escaleras del edificio, Pilatos les oyó gritar el nombre de un tal Barrabás. Barrabás era un conocido agitador político y ladrón asesino, hijo de un sacerdote, que había sido capturado recientemente in fraganti robando y asesinando en la carretera de Jericó. Este hombre había sido condenado a muerte y sería ejecutado en cuanto terminaran las fiestas de la Pascua."
+                    "par_content": "Mientras la multitud invadía las escaleras del edificio, Pilatos les oyó gritar el nombre de un tal Barrabás{24}. Barrabás era un conocido agitador político y ladrón asesino, hijo de un sacerdote, que había sido capturado recientemente in fraganti robando y asesinando en la carretera de Jericó{25}. Este hombre había sido condenado a muerte y sería ejecutado en cuanto terminaran las fiestas de la Pascua."
                 },
                 {
                     "par_ref": "185:5.4",
                     "par_pageref": "1993.4",
-                    "par_content": "Pilatos se levantó y explicó a la multitud que Jesús había sido traído ante él por los jefes de los sacerdotes, los cuales querían que fuera condenado a muerte por ciertas acusaciones, y que él no creía que este hombre mereciera la muerte. Pilatos dijo: «¿A quién preferís entonces que os suelte, a ese Barrabás, el asesino, o a este Jesús de Galilea?» Cuando Pilatos hubo dicho esto, los jefes de los sacerdotes y los consejeros del sanedrín exclamaron a voz en grito: «¡Barrabás, Barrabás!» Cuando la gente vio que los jefes de los sacerdotes estaban dispuestos a conseguir la muerte de Jesús, se unieron rápidamente al clamor pidiendo su vida, mientras vociferaban ruidosamente que soltaran a Barrabás."
+                    "par_content": "Pilatos se levantó y explicó a la multitud que Jesús había sido traído ante él por los jefes de los sacerdotes, los cuales querían que fuera condenado a muerte por ciertas acusaciones, y que él no creía que este hombre mereciera la muerte. Pilatos dijo: «¿A quién preferís entonces que os suelte, a ese Barrabás, el asesino, o a este Jesús de Galilea?»{26} Cuando Pilatos hubo dicho esto, los jefes de los sacerdotes y los consejeros del sanedrín exclamaron a voz en grito: «¡Barrabás, Barrabás!»{27} Cuando la gente vio que los jefes de los sacerdotes estaban dispuestos a conseguir la muerte de Jesús, se unieron rápidamente al clamor pidiendo su vida, mientras vociferaban ruidosamente que soltaran a Barrabás."
                 },
                 {
                     "par_ref": "185:5.5",
@@ -273,27 +273,27 @@
                 {
                     "par_ref": "185:5.6",
                     "par_pageref": "1993.6",
-                    "par_content": "Pilatos se indignó al ver a los jefes de los sacerdotes pidiendo a voces el indulto de un asesino bien conocido mientras gritaban para conseguir la sangre de Jesús. Vio su maldad y su odio y percibió sus prejuicios y su envidia. Por eso les dijo: «¿Cómo podéis escoger la vida de un asesino, en lugar de preferir la de este hombre cuyo peor crimen consiste en hacerse llamar en sentido figurado el rey de los judíos?» Pero esta declaración que hizo Pilatos no fue sabia. Los judíos eran un pueblo orgulloso, ahora sometido al yugo político romano, pero que esperaban la venida de un Mesías que los liberaría de su esclavitud de los gentiles con una gran exhibición de poder y de gloria. Se sintieron más ofendidos de lo que Pilatos podía suponer, por la insinuación de que este instructor de modales suaves que enseñaba unas doctrinas extrañas, ahora arrestado y acusado de unos delitos que merecían la muerte, pudiera ser considerado como «el rey de los judíos». Contemplaron esta observación como un insulto a todo lo que consideraban sagrado y honorable en su existencia nacional, y por esta razón todos se pusieron a gritar con todas sus fuerzas por la liberación de Barrabás y la muerte de Jesús."
+                    "par_content": "Pilatos se indignó al ver a los jefes de los sacerdotes pidiendo a voces el indulto de un asesino bien conocido mientras gritaban para conseguir la sangre de Jesús. Vio su maldad y su odio y percibió sus prejuicios y su envidia. Por eso les dijo: «¿Cómo podéis escoger la vida de un asesino, en lugar de preferir la de este hombre cuyo peor crimen consiste en hacerse llamar en sentido figurado el rey de los judíos?» Pero esta declaración que hizo Pilatos no fue sabia. Los judíos eran un pueblo orgulloso, ahora sometido al yugo político romano, pero que esperaban la venida de un Mesías que los liberaría de su esclavitud de los gentiles con una gran exhibición de poder y de gloria. Se sintieron más ofendidos de lo que Pilatos podía suponer, por la insinuación de que este instructor de modales suaves que enseñaba unas doctrinas extrañas, ahora arrestado y acusado de unos delitos que merecían la muerte, pudiera ser considerado como «el rey de los judíos». Contemplaron esta observación como un insulto a todo lo que consideraban sagrado y honorable en su existencia nacional, y por esta razón todos se pusieron a gritar con todas sus fuerzas por la liberación de Barrabás y la muerte de Jesús{28}."
                 },
                 {
                     "par_ref": "185:5.7",
                     "par_pageref": "1994.1",
-                    "par_content": "Pilatos sabía que Jesús era inocente de las acusaciones presentadas contra él, y si hubiera sido un juez justo y valiente, lo habría absuelto y puesto en libertad. Pero tenía miedo de desafiar a estos judíos encolerizados, y mientras titubeaba en cumplir con su deber, llegó un mensajero y le entregó un mensaje sellado de su mujer, Claudia."
+                    "par_content": "Pilatos sabía que Jesús era inocente de las acusaciones presentadas contra él, y si hubiera sido un juez justo y valiente, lo habría absuelto y puesto en libertad. Pero tenía miedo de desafiar a estos judíos encolerizados, y mientras titubeaba en cumplir con su deber, llegó un mensajero y le entregó un mensaje sellado de su mujer, Claudia{29}."
                 },
                 {
                     "par_ref": "185:5.8",
                     "par_pageref": "1994.2",
-                    "par_content": "Pilatos indicó a los que estaban congregados ante él que deseaba leer la comunicación que acababa de recibir antes de proseguir con el asunto que tenía ante él. Pilatos abrió la carta de su mujer y leyó: «Te ruego que no tengas nada que ver con este hombre justo e inocente a quien llaman Jesús. Esta noche he sufrido mucho en un sueño a causa de él». Esta nota de Claudia no sólo afectó mucho a Pilatos y retrasó así el juicio de este asunto, sino que desgraciadamente también proporcionó a los dirigentes judíos un tiempo considerable para circular libremente entre la multitud e incitar al pueblo a pedir la liberación de Barrabás y a gritar que crucificaran a Jesús."
+                    "par_content": "Pilatos indicó a los que estaban congregados ante él que deseaba leer la comunicación que acababa de recibir antes de proseguir con el asunto que tenía ante él. Pilatos abrió la carta de su mujer y leyó: «Te ruego que no tengas nada que ver con este hombre justo e inocente a quien llaman Jesús. Esta noche he sufrido mucho en un sueño a causa de él»{30}. Esta nota de Claudia no sólo afectó mucho a Pilatos y retrasó así el juicio de este asunto, sino que desgraciadamente también proporcionó a los dirigentes judíos un tiempo considerable para circular libremente entre la multitud e incitar al pueblo a pedir la liberación de Barrabás y a gritar que crucificaran a Jesús{31}."
                 },
                 {
                     "par_ref": "185:5.9",
                     "par_pageref": "1994.3",
-                    "par_content": "Finalmente, Pilatos se dedicó una vez más a solucionar el problema que tenía delante, preguntándole a la asamblea mixta compuesta por los dirigentes judíos y la multitud que buscaba el indulto: «¿Qué he de hacer con el que llaman el rey de los judíos?» Y todos gritaron al unísono: «¡Crucifícalo! ¡Crucifícalo!» La unanimidad de esta petición por parte de una gente de todo tipo sorprendió y alarmó a Pilatos, el juez injusto y dominado por el miedo."
+                    "par_content": "Finalmente, Pilatos se dedicó una vez más a solucionar el problema que tenía delante, preguntándole a la asamblea mixta compuesta por los dirigentes judíos y la multitud que buscaba el indulto: «¿Qué he de hacer con el que llaman el rey de los judíos?» Y todos gritaron al unísono: «¡Crucifícalo! ¡Crucifícalo!»{32} La unanimidad de esta petición por parte de una gente de todo tipo sorprendió y alarmó a Pilatos, el juez injusto y dominado por el miedo."
                 },
                 {
                     "par_ref": "185:5.10",
                     "par_pageref": "1994.4",
-                    "par_content": "Entonces Pilatos dijo una vez más: «¿Por qué queréis crucificar a este hombre? ¿Qué mal ha hecho? ¿Quién quiere adelantarse para testificar contra él?» Pero cuando escucharon que Pilatos hablaba en defensa de Jesús, se limitaron a gritar aún más: «¡Crucifícalo! ¡Crucifícalo!»"
+                    "par_content": "Entonces Pilatos dijo una vez más: «¿Por qué queréis crucificar a este hombre?{33} ¿Qué mal ha hecho? ¿Quién quiere adelantarse para testificar contra él?» Pero cuando escucharon que Pilatos hablaba en defensa de Jesús, se limitaron a gritar aún más: «¡Crucifícalo! ¡Crucifícalo!»"
                 },
                 {
                     "par_ref": "185:5.11",
@@ -325,12 +325,12 @@
                 {
                     "par_ref": "185:6.2",
                     "par_pageref": "1995.1",
-                    "par_content": "Pilatos quería hacer un último llamamiento a la piedad de la gente. Como tenía miedo de desafiar el clamor de este gentío descarriado que gritaba para conseguir la sangre de Jesús, ordenó a los guardias judíos y a los soldados romanos que cogieran a Jesús y lo azotaran. Este modo de proceder era en sí mismo injusto e ilegal, ya que la ley romana estipulaba que únicamente los condenados a morir por crucifixión fueran sometidos así a la flagelación. Los guardias llevaron a Jesús al patio abierto del pretorio para este suplicio. Aunque sus enemigos no presenciaron esta flagelación, Pilatos sí lo hizo, y antes de que terminaran este abuso perverso, ordenó a los azotadores que se detuvieran e indicó que Jesús fuera llevado ante él. Antes de que los azotadores ataran a Jesús al poste de flagelación y lo golpearan con sus látigos de nudos, le pusieron de nuevo el manto de púrpura, trenzaron una corona de espinas y se la colocaron en la frente. Después de poner una caña en su mano simulando un cetro, se arrodillaron delante de él y se burlaron de él, diciendo: «¡Salud, rey de los judíos!» Luego le escupieron y lo abofetearon. Antes de devolverlo a Pilatos, uno de ellos le quitó la caña de la mano y lo golpeó con ella en la cabeza."
+                    "par_content": "Pilatos quería hacer un último llamamiento a la piedad de la gente. Como tenía miedo de desafiar el clamor de este gentío descarriado que gritaba para conseguir la sangre de Jesús, ordenó a los guardias judíos y a los soldados romanos que cogieran a Jesús y lo azotaran{34}. Este modo de proceder era en sí mismo injusto e ilegal, ya que la ley romana estipulaba que únicamente los condenados a morir por crucifixión fueran sometidos así a la flagelación. Los guardias llevaron a Jesús al patio abierto del pretorio para este suplicio. Aunque sus enemigos no presenciaron esta flagelación, Pilatos sí lo hizo, y antes de que terminaran este abuso perverso, ordenó a los azotadores que se detuvieran e indicó que Jesús fuera llevado ante él. Antes de que los azotadores ataran a Jesús al poste de flagelación y lo golpearan con sus látigos de nudos, le pusieron de nuevo el manto de púrpura, trenzaron una corona de espinas y se la colocaron en la frente. Después de poner una caña en su mano simulando un cetro, se arrodillaron delante de él y se burlaron de él, diciendo: «¡Salud, rey de los judíos!» Luego le escupieron y lo abofetearon. Antes de devolverlo a Pilatos, uno de ellos le quitó la caña de la mano y lo golpeó con ella en la cabeza{35}."
                 },
                 {
                     "par_ref": "185:6.3",
                     "par_pageref": "1995.2",
-                    "par_content": "Entonces, Pilatos condujo fuera a este preso sangrante y lacerado, y lo presentó a la variopinta multitud, diciendo: «¡He aquí al hombre! Os declaro de nuevo que no encuentro ningún delito en él, y después de haberlo azotado, quisiera liberarlo»."
+                    "par_content": "Entonces, Pilatos condujo fuera a este preso sangrante y lacerado, y lo presentó a la variopinta multitud, diciendo: «¡He aquí al hombre!{36} Os declaro de nuevo que no encuentro ningún delito en él, y después de haberlo azotado, quisiera liberarlo»."
                 },
                 {
                     "par_ref": "185:6.4",
@@ -340,7 +340,7 @@
                 {
                     "par_ref": "185:6.5",
                     "par_pageref": "1995.4",
-                    "par_content": "Cuando se hubieron recobrado del primer impacto al ver el estado lastimoso del Maestro, sólo gritaron más fuerte y durante más tiempo: «¡Crucifícalo! ¡Crucifícalo! ¡Crucifícalo!»"
+                    "par_content": "Cuando se hubieron recobrado del primer impacto al ver el estado lastimoso del Maestro, sólo gritaron más fuerte y durante más tiempo: «¡Crucifícalo! ¡Crucifícalo! ¡Crucifícalo!»{37}"
                 },
                 {
                     "par_ref": "185:6.6",
@@ -350,7 +350,7 @@
                 {
                     "par_ref": "185:6.7",
                     "par_pageref": "1995.6",
-                    "par_content": "Entonces el sumo sacerdote en persona se adelantó, subió hasta Pilatos, y declaró con irritación: «Tenemos una ley sagrada, y según esa ley este hombre debe morir porque se ha llamado a sí mismo Hijo de Dios». Cuando Pilatos escuchó esto, tuvo aún más miedo, no solamente de los judíos, sino que al recordar la nota de su mujer y la mitología griega en la que los dioses descendían a la Tierra, se puso a temblar ante la idea de que Jesús pudiera ser un personaje divino. Hizo señas a la multitud para que se calmara, mientras cogía a Jesús por el brazo y lo conducía de nuevo al interior del edificio para poder interrogarlo otra vez. Pilatos estaba ahora confuso por el miedo, desconcertado por la superstición y abrumado por la actitud testaruda de la muchedumbre."
+                    "par_content": "Entonces el sumo sacerdote en persona se adelantó, subió hasta Pilatos, y declaró con irritación{38}: «Tenemos una ley sagrada, y según esa ley este hombre debe morir porque se ha llamado a sí mismo Hijo de Dios». Cuando Pilatos escuchó esto, tuvo aún más miedo, no solamente de los judíos, sino que al recordar la nota de su mujer y la mitología griega en la que los dioses descendían a la Tierra, se puso a temblar ante la idea de que Jesús pudiera ser un personaje divino. Hizo señas a la multitud para que se calmara, mientras cogía a Jesús por el brazo y lo conducía de nuevo al interior del edificio para poder interrogarlo otra vez. Pilatos estaba ahora confuso por el miedo, desconcertado por la superstición y abrumado por la actitud testaruda de la muchedumbre."
                 }
             ]
         },
@@ -362,12 +362,12 @@
                 {
                     "par_ref": "185:7.1",
                     "par_pageref": "1995.7",
-                    "par_content": "Cuando Pilatos, temblando con una temerosa emoción, se sentó al lado de Jesús, le preguntó: «¿De dónde vienes? ¿Quién eres realmente? ¿Qué es eso que dicen de que eres el Hijo de Dios?»"
+                    "par_content": "Cuando Pilatos, temblando con una temerosa emoción, se sentó al lado de Jesús, le preguntó: «¿De dónde vienes? ¿Quién eres realmente? ¿Qué es eso que dicen de que eres el Hijo de Dios?»{39}"
                 },
                 {
                     "par_ref": "185:7.2",
                     "par_pageref": "1996.1",
-                    "par_content": "Pero Jesús difícilmente podía contestar estas preguntas cuando eran efectuadas por un juez débil, vacilante, que temía a los hombres, y que era tan injusto como para hacerlo azotar incluso después de haberlo declarado inocente de todo delito, y antes de haber sido debidamente condenado a muerte. Jesús miró a Pilatos directamente a la cara, pero no le contestó. Entonces dijo Pilatos: «¿Te niegas a hablarme? ¿No te das cuenta de que aún tengo el poder de liberarte o de crucificarte?» Entonces Jesús le dijo: «No podrías tener ningún poder sobre mí si no fuera consentido desde arriba. No podrías ejercer ninguna autoridad sobre el Hijo del Hombre a menos que lo permita el Padre que está en los cielos. Pero no eres tan culpable puesto que ignoras el evangelio. El que me ha traicionado y el que me ha entregado a ti son los que tienen el mayor pecado»."
+                    "par_content": "Pero Jesús difícilmente podía contestar estas preguntas cuando eran efectuadas por un juez débil, vacilante, que temía a los hombres, y que era tan injusto como para hacerlo azotar incluso después de haberlo declarado inocente de todo delito, y antes de haber sido debidamente condenado a muerte. Jesús miró a Pilatos directamente a la cara, pero no le contestó{40}. Entonces dijo Pilatos: «¿Te niegas a hablarme? ¿No te das cuenta de que aún tengo el poder de liberarte o de crucificarte?» Entonces Jesús le dijo: «No podrías tener ningún poder sobre mí si no fuera consentido desde arriba. No podrías ejercer ninguna autoridad sobre el Hijo del Hombre a menos que lo permita el Padre que está en los cielos. Pero no eres tan culpable puesto que ignoras el evangelio. El que me ha traicionado y el que me ha entregado a ti son los que tienen el mayor pecado»{41}."
                 },
                 {
                     "par_ref": "185:7.3",
@@ -382,7 +382,7 @@
                 {
                     "par_ref": "185:7.5",
                     "par_pageref": "1996.4",
-                    "par_content": "Pilatos estaba casi dispuesto a soltar a Jesús cuando Caifás, el sumo sacerdote, se acercó al cobarde juez romano, agitó un dedo vengativo delante de la cara de Pilatos, y dijo estas palabras irritadas que toda la multitud pudo escuchar: «Si sueltas a este hombre, no eres amigo del César, y procuraré que el emperador se entere de todo». Esta amenaza pública fue demasiado para Pilatos. El temor por sus bienes personales eclipsó ahora cualquier otra consideración, y el cobarde gobernador ordenó que Jesús fuera traído ante el tribunal. Cuando el Maestro estuvo allí delante de ellos, Pilatos lo señaló con el dedo y dijo en tono burlón: «Aquí está vuestro rey». Y los judíos respondieron: «¡Acaba con él! ¡Crucifícalo!» Entonces dijo Pilatos, con mucha ironía y sarcasmo: «¿Voy a crucificar a vuestro rey?» Y los judíos respondieron: «Sí, ¡crucifícalo! No tenemos más rey que al César». Entonces Pilatos se dio cuenta de que no había ninguna esperanza de salvar a Jesús, puesto que no estaba dispuesto a desafiar a los judíos."
+                    "par_content": "Pilatos estaba casi dispuesto a soltar a Jesús cuando Caifás, el sumo sacerdote, se acercó al cobarde juez romano, agitó un dedo vengativo delante de la cara de Pilatos, y dijo estas palabras irritadas que toda la multitud pudo escuchar: «Si sueltas a este hombre, no eres amigo del César, y procuraré que el emperador se entere de todo». Esta amenaza pública fue demasiado para Pilatos. El temor por sus bienes personales eclipsó ahora cualquier otra consideración, y el cobarde gobernador ordenó que Jesús fuera traído ante el tribunal. Cuando el Maestro estuvo allí delante de ellos, Pilatos lo señaló con el dedo y dijo en tono burlón: «Aquí está vuestro rey». Y los judíos respondieron: «¡Acaba con él! ¡Crucifícalo!» Entonces dijo Pilatos, con mucha ironía y sarcasmo: «¿Voy a crucificar a vuestro rey?» Y los judíos respondieron: «Sí, ¡crucifícalo! No tenemos más rey que al César». Entonces Pilatos se dio cuenta de que no había ninguna esperanza de salvar a Jesús, puesto que no estaba dispuesto a desafiar a los judíos{42}."
                 }
             ]
         },
@@ -399,11 +399,58 @@
                 {
                     "par_ref": "185:8.2",
                     "par_pageref": "1996.6",
-                    "par_content": "Pilatos temía un alboroto o un motín. No se atrevía a arriesgarse a tener este tipo de disturbios durante la época de la Pascua en Jerusalén. Recientemente había recibido una reprimenda del César, y no quería arriesgarse a recibir otra. El gentío aplaudió cuando ordenó que soltaran a Barrabás. Luego ordenó que le trajeran una palangana y un poco de agua, y se lavó las manos allí mismo delante de la multitud, diciendo: «Soy inocente de la sangre de este hombre. Estáis decididos a que muera, pero no he encontrado ninguna culpa en él. Allá vosotros. Los soldados se lo llevarán». Entonces el gentío aplaudió y replicó: «Que su sangre caiga sobre nosotros y sobre nuestros hijos»."
+                    "par_content": "Pilatos temía un alboroto o un motín. No se atrevía a arriesgarse a tener este tipo de disturbios durante la época de la Pascua en Jerusalén. Recientemente había recibido una reprimenda del César, y no quería arriesgarse a recibir otra. El gentío aplaudió cuando ordenó que soltaran a Barrabás{43}. Luego ordenó que le trajeran una palangana y un poco de agua, y se lavó las manos{44} allí mismo delante de la multitud, diciendo: «Soy inocente de la sangre de este hombre. Estáis decididos a que muera, pero no he encontrado ninguna culpa en él{45}. Allá vosotros. Los soldados se lo llevarán». Entonces el gentío aplaudió y replicó: «Que su sangre caiga sobre nosotros y sobre nuestros hijos»."
                 }
             ]
         }
     ],
-    "footnotes": [],
+    "footnotes": [
+        "*Juicio en los exteriores*: Jn 18:28b.",
+        "*Pilatos solicita las acusaciones*: Jn 18:29-30.",
+        "*Pilatos: ¿Por qué no lo juzgáis vosotros?*: Jn 18:31a.",
+        "*Respuesta: no podemos matarlo*: Jn 18:31b.",
+        "*Cargos contra Jesús*: Mt 27:12a; Mc 15:3a; Lc 23:2.",
+        "*Pilatos pregunta a Jesús*: Jn 18:33a.",
+        "*La postura de Jesús sobre el tributo*: Mt 22:21; Mc 12:17; Lc 20:25.",
+        "*¿Eres el rey de los judíos?*: Mt 27:11a; Mc 15:2a; Lc 23:3a; Jn 18:33b.",
+        "*¿Por qué lo preguntas?*: Jn 18:34-35.",
+        "*Mi reino no es de este mundo*: Jn 18:36.",
+        "*El destino de Jesús: mostrar la verdad*: Jn 18:37b.",
+        "*El reconocimiento del «reino»*: Mt 27:11b; Mc 15:2b; Lc 23:3b; Jn 18:37a.",
+        "*¿Qué es la verdad?*: Jn 18:38a.",
+        "*Pilatos: No encuentro falta en él*: Lc 23:4; Jn 18:38b.",
+        "*Los judíos se encolerizan*: Lc 23:5.",
+        "*Los galileos están bajo gobierno de Herodes*: Lc 23:6.",
+        "*Aceptar la jurisdicción de Herodes*: Lc 23:12.",
+        "*Pilatos envía a Jesús ante Herodes*: Lc 23:7.",
+        "*Los sentimientos de Herodes*: Lc 23:8.",
+        "*Jesús en silencio ante Herodes*: Lc 23:9.",
+        "*Jesús vestido y devuelto a Pilatos*: Lc 23:10-11.",
+        "*No encuentro falta en él*: Lc 23:13-16.",
+        "*La costumbre de liberar a un prisionero*: Mt 27:15; Mc 15:6; Lc 23:17; Jn 18:39a.",
+        "*Pilatos intentando liberar a Jesús*: Jn 18:39.",
+        "*La multitud grita: libera a Barrabás*: Jn 18:40a.",
+        "*Barrabás era un asesino*: Mt 27:16; Mc 15:7; Lc 23:18-19; Jn 18:40b.",
+        "*¿A qué prisionero queréis que os suelte?*: Mt 27:17; Mc 15:9; Jn 18:39b.",
+        "*«Libera a Barrabás»*: Mc 15:11; Lc 23:18; Jn 18:40a.",
+        "*Jesús y Barrabás*: Mt 27:18; Mc 15:10.",
+        "*El mensaje a Pilatos de su mujer*: Mt 27:19a.",
+        "*Contenido del mensaje*: Mt 27:19b.",
+        "*El retraso ayuda a los enemigos*: Mt 27:20; Mc 15:11.",
+        "*¿Qué hacemos con Jesús? ¡Crucifícalo!*: Mt 27:22; Mc 15:12-13; Lc 23:20-21.",
+        "*¿Por qué queréis crucificar a Jesús?*: Mt 27:23; Mc 15:14; Lc 23:22-23.",
+        "*Jesús azotado*: Mt 27:26b; Mc 15:15b; Lc 23:16; Jn 19:1.",
+        "*La flagelación*: Mt 27:27-31a; Mc 15:16-20a; Jn 19:2-3.",
+        "*Hé aquí al hombre*: Jn 19:4-5,6b.",
+        "*¡Crucifícalo!*: Lc 23:23a; Jn 19:6a.",
+        "*El sumo sacerdote se encara con Pilatos*: Jn 19:7-9a.",
+        "*Pilatos pregunta a Jesús*: Jn 19:9b.",
+        "*Jesús no contesta*: Jn 19:9c.",
+        "*El último diálogo con Jesús*: Jn 19:10-11.",
+        "*El último esfuerzo de Jesús*: Jn 19:12-15.",
+        "*Liberación de Barrabás*: Mt 27:26a; Mc 15:15a; Lc 23:24-25a.",
+        "*Pilatos se lava las manos*: Mt 27:24-25.",
+        "*«No he encontrado ninguna culpa en él»*: Lc 23:4,22; Jn 18:38; Jn 19:4,6."
+    ],
     "paper_title": "Documento 185. El juicio ante Pilatos"
 }
