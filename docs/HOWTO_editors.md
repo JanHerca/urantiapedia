@@ -30,6 +30,13 @@ https://es.urantiapedia.com/wiki/Grandfanda
 - espacio en blanco extra: &emsp;
 - comillas tipográficas: « »
 
+## Buscar y reemplazar en VS Code
+
+En el texto de la Biblia:
+- Capítulos: Capítulo (\d+)  >  \chapter{$1}
+- Secciones: (^[^\\\d]+)  >  \section{$1}
+- Quitar número de capítulo en inicio del línea: ^
+
 
 ## Referencias
 
