@@ -36,6 +36,7 @@ En el texto de la Biblia:
 - Capítulos: Capítulo (\d+)  >  \chapter{$1}
 - Secciones: ^([^\n\\\d]+)\n\n  >  \section*{$1}\n\n
 - Quitar número de capítulo en inicio de la línea: ^\d+:  > nada
+- Añadir marca de párrafo: ^(\d+)  >  \par $1  y también ^([^\\])  >  \par $1
 
 Ver [Regular expression Quisck start](http://www.regular-expressions.info/quickstart.html)
 

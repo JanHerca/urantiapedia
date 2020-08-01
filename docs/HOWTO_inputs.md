@@ -33,3 +33,5 @@ Los formatos de entrada para la Urantiapedia son los siguientes:
 
 * LU a Biblia: https://urantia-book.org/urantiabook/paramony/bible_refs_index.html
 * Biblia a LU: https://urantia-book.org/urantiabook/paramony/urantia_book_refs_index.html
+* Biblia Reina-Valera 1960: https://www.biblegateway.com/passage/?search=G%C3%A9nesis+1&version=RVR1960
+* Plugin LaTeX para Visual Code: https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
