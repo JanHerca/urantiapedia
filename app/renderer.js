@@ -1,7 +1,9 @@
 const {dialog} = require('electron').remote;
 const Book = require('./book');
+const Bible = require('./bible');
 
 const book = new Book();
+const bible = new Bible();
 const controlIDs = ['dirLButton', 'dirLTextbox', 'dirJButton', 'dirJTextbox', 
 	'dirWButton', 'dirWTextbox', 'drpProcess', 'exeButton', 'logArea', 
 	'progress'];
@@ -77,6 +79,24 @@ const handle_exeButtonClick = () => {
 		//Read JSON then write Wiki
 		book.readFromJSON(controls.dirJTextbox.value)
 			.then(() => book.writeToWiki(controls.dirWTextbox.value))
+			.then(() => onSuccess(['Conversión realizada con éxito']))
+			.catch(onFail);
+	} else if (process === 'cblw') {
+		if (!checkControls(['dirLTextbox', 'dirWTextbox'])) {
+			return;
+		}
+		//Read LaTeX then write wiki
+		bible.readFromLaTeX(controls.dirLTextbox.value)
+			.then(() => bible.writeToWiki(controls.dirWTextbox.value))
+			.then(() => onSuccess(['Conversión realizada con éxito']))
+			.catch(onFail);
+	} else if (process === 'cblx') {
+		if (!checkControls(['dirLTextbox', 'dirWTextbox'])) {
+			return;
+		}
+		//Read LaTeX then write wiki XML
+		bible.readFromLaTeX(controls.dirLTextbox.value)
+			.then(() => bible.writetoWikiXML(controls.dirWTextbox.value))
 			.then(() => onSuccess(['Conversión realizada con éxito']))
 			.catch(onFail);
 	}

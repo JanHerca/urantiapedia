@@ -1,3 +1,5 @@
+//Reader/Writer para El Libro de Urantia en diferentes formatos (LaTeX/JSON/Wiki)
+
 const LaTeXSeparator = require('./enums').LaTeXSeparator;
 const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
@@ -96,9 +98,9 @@ class Book {
 		let extractPrevious = null;
 		lines.forEach((line, i) => {
 			let j = 0;
-			if (line.startsWith(LaTeXSeparator.PAPER_START)) {
+			if (line.startsWith(LaTeXSeparator.CHAPTER_START)) {
 				//Si es un documento
-				extract = extractStr(line, LaTeXSeparator.PAPER_START,
+				extract = extractStr(line, LaTeXSeparator.CHAPTER_START,
 					LaTeXSeparator.END);
 				if (!extract) {
 					errors.push(this.createError(baseName, i,
@@ -140,16 +142,16 @@ class Book {
 					errors.push(this.createError(baseName, i,
 						'No se pudo extraer la referencia tipo página'));
 				}
-			} else if (line.startsWith(LaTeXSeparator.PAR_START)) {
+			} else if (line.startsWith(LaTeXSeparator.TEXT_START)) {
 				//Si es un párrafo
 				if (linePreviousPos === i - 1) {
-					extract = extractStr(line, LaTeXSeparator.PAR_START,
+					extract = extractStr(line, LaTeXSeparator.TEXT_START,
 						LaTeXSeparator.END);
 					if (!extract) {
 						errors.push(this.createError(baseName, i,
 							'No se pudo extraer la referencia de párrafo'));
 					} else if (extractPrevious) {
-						j = LaTeXSeparator.PAR_START.length + extract.length + 
+						j = LaTeXSeparator.TEXT_START.length + extract.length + 
 							LaTeXSeparator.END.length;
 						currentPar = {
 							par_ref: extract,

@@ -15,17 +15,67 @@
 
 Para importar templates en la Urantiapedia:
 
-1. Asegurarse que la extension Scribunto está disponible en el raíz de la instalación de Mediaki /extensions/Scribunto y que las siguientes dos líneas están añadidas al final a LocalSettings.php (también el raíz):
+1. Asegurarse que la extension Scribunto está disponible en el raíz de la instalación de Mediawiki /extensions/Scribunto y que las siguientes dos líneas están añadidas al final a LocalSettings.php (también el raíz):
 ```
 wfLoadExtension( 'Scribunto' );
 $wgScribuntoDefaultEngine = 'luastandalone';
 ```
-2. Exportar una template, por ejemplo, de la Wikipedia, entrando en la página de exportación: https://en.wikipedia.org/wiki/Special:Export
-3. Añadir manualmente uno o varios nombres de templates, por ejemplo, Template:Anchor
-4. Marcar todas las casillas y exportar. Se genera un fichero XML.
-5. Ir a /Special:Import de la Urantiapedia e importar el XML. Como interwiki prefix usar en, es segun corresponda a la Wikipedia que hayamos usado para hacer el export de la template.
+2. Puede que Lua no funcione si el binario de Lus no tiene permisos de ejecución. Ir a la carpeta extensions/Scribunto/includes/engines/LuaStandalone/binaries/*sistema op*/ y cambiar los permisos a ejecución ( 7 5 5).
+3. Exportar una template, por ejemplo, de la Wikipedia, entrando en la página de exportación: https://en.wikipedia.org/wiki/Special:Export
+4. Añadir manualmente uno o varios nombres de templates, por ejemplo, Template:Anchor
+5. Marcar todas las casillas y exportar. Se genera un fichero XML.
+6. Ir a /Special:Import de la Urantiapedia e importar el XML. Como interwiki prefix usar en, es segun corresponda a la Wikipedia que hayamos usado para hacer el export de la template.
 
+Más información en:
 
+https://www.mediawiki.org/wiki/Extension:Scribunto#Installation
+
+## Quitar el título a la página principal
+
+1. Hay que editar Common.css, que en realidad es una página de la Wiki. Hay que ir a la página MediaWiki:Commons.css. Editar esa página equivale a editar un CSS que se aplicará detrás de cualquier skin en uso.
+2. Añadir esta línea:
+```
+body.page-Main_Page.action-view h1.firstHeading, body.page-Main_Page.action-submit h1.firstHeading { display: none; }
+```
+
+Más información en:
+
+https://www.mediawiki.org/wiki/Manual:FAQ#How_do_I_hide_the_main_page_title?
+
+## Instalar la extension MobileFrontend
+
+Esta extensión permite mostrar la Wiki de un modo más amigable en dispositivos móviles:
+
+1. Descargar la extensión de: https://www.mediawiki.org/wiki/Extension:MobileFrontend/es
+2. Copiar el fichero .gz comprimido de la extensión a la carpeta extensions.
+3. Descomprimir el fichero.
+4. Modificar LocalSettings.php añadiendo esta línea:
+```
+wfLoadExtension( 'MobileFrontend' );
+```
+5. Navega a la página Special:Version para comprobar que la extensión se ha cargado.
+
+## Cargas masivas de páginas
+
+1. Descargar la extensión DataTransfer: https://www.mediawiki.org/wiki/Extension:Data_Transfer
+2. Copiar el fichero .gz comprimido de la extensión a la carpeta extensions.
+3. Descomprimir el fichero.
+4. Modificar LocalSettings.php añadiendo esta línea:
+```
+wfLoadExtension( 'DataTransfer' );
+```
+5. Añadir lo siguiente para permitir que el contenido del Free_Text no sea parseado:
+```
+$wgDataTransferViewXMLParseFreeText = false;
+```
+6. Ver un ejemplo de qué se debe cargar haciendo una descarga desde ?title=Special:ViewXML&titles=nombre_de_la_pagina
+7. Cargar mediante Special:ImportXML
+
+La carga eno es inmediata. Usa el sistema de jobs de MediaWiki, lo cual significa que cada poco que se visitan páginas se lanzan un número de jobs.
+
+Para examinar la lista de jobs: https://urantiapedia.site/api.php?action=query&meta=siteinfo&siprop=statistics
+
+Cambiar el número de jobs que se ejecutan tras cada visita (modificar el LocalSettings.php): $wgJobRunRate = 0.01;
 
 ## Hacer copias de seguridad
 
