@@ -6,7 +6,7 @@ const book = new Book();
 const bible = new Bible();
 const controlIDs = ['dirLButton', 'dirLTextbox', 'dirJButton', 'dirJTextbox', 
 	'dirWButton', 'dirWTextbox', 'drpProcess', 'exeButton', 'logArea', 
-	'progress'];
+	'progress', 'chkMerge'];
 const controls = {};
 
 const onLoad = () => {
@@ -57,47 +57,41 @@ const handle_exeButtonClick = () => {
 	showProgress(true);
 	book.onProgressFn = onProgress;
 	const process = controls.drpProcess.value;
-	if (process === 'clj') {
-		if (!checkControls(['dirLTextbox', 'dirJTextbox'])) {
-			return;
-		}
-		//Read LaTeX then write JSON
+	const okMsgs = ['Conversión realizada con éxito'];
+	if (process === 'clj' && checkControls(['dirLTextbox', 'dirJTextbox'])) {
+		//Read UB LaTeX then write JSON
 		book.readFromLaTeX(controls.dirLTextbox.value)
 			.then(() => book.writeToJSON(controls.dirJTextbox.value))
-			.then(() => onSuccess(['Conversión realizada con éxito']))
+			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cjl') {
-		if (!checkControls(['dirJTextbox', 'dirLTextbox'])) {
-			return;
-		}
-		//Read JSON then write LaTeX
+	} else if (process === 'cjl' && checkControls(['dirJTextbox', 'dirLTextbox'])) {
+		//Read UB JSON then write LaTeX
 
-	} else if (process === 'cjw') {
-		if (!checkControls(['dirJTextbox', 'dirWTextbox'])) {
-			return;
-		}
-		//Read JSON then write Wiki
+	} else if (process === 'cjw' && checkControls(['dirJTextbox', 'dirWTextbox'])) {
+		//Read UB JSON then write Wiki
 		book.readFromJSON(controls.dirJTextbox.value)
 			.then(() => book.writeToWiki(controls.dirWTextbox.value))
-			.then(() => onSuccess(['Conversión realizada con éxito']))
+			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cblw') {
-		if (!checkControls(['dirLTextbox', 'dirWTextbox'])) {
-			return;
-		}
-		//Read LaTeX then write wiki
+	} else if (process === 'clx' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
+		//Read UB LaTeX then write wiki XML
+		book.readFromLaTeX(controls.dirLTextbox.value)
+			.then(() => book.writeToWikiXML(controls.dirWTextbox.value,
+				controls.chkMerge.checked))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'cblw' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
+		//Read Bible LaTeX then write wiki
 		bible.readFromLaTeX(controls.dirLTextbox.value)
 			.then(() => bible.writeToWiki(controls.dirWTextbox.value))
-			.then(() => onSuccess(['Conversión realizada con éxito']))
+			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cblx') {
-		if (!checkControls(['dirLTextbox', 'dirWTextbox'])) {
-			return;
-		}
-		//Read LaTeX then write wiki XML
+	} else if (process === 'cblx' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
+		//Read Bible LaTeX then write wiki XML
 		bible.readFromLaTeX(controls.dirLTextbox.value)
-			.then(() => bible.writetoWikiXML(controls.dirWTextbox.value))
-			.then(() => onSuccess(['Conversión realizada con éxito']))
+			.then(() => bible.writeToWikiXML(controls.dirWTextbox.value,
+				controls.chkMerge.checked))
+			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	}
 };

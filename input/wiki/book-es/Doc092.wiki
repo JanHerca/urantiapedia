@@ -22,7 +22,7 @@
 
 {{anchor|LU_92_1_4}} El misterio y el poder siempre han estimulado los sentimientos y los temores religiosos, mientras que la emoción ha funcionado continuamente como un poderoso factor que ha condicionado el desarrollo de ambos. El miedo ha sido siempre el estímulo religioso fundamental. El miedo da forma a los dioses de la religión evolutiva y motiva el ritual religioso de los creyentes primitivos. A medida que avanza la civilización, el temor es modificado por la veneración, la admiración, el respeto y la simpatía, y luego es condicionado además por el remordimiento y el arrepentimiento.
 
-{{anchor|LU_92_1_5}} Un pueblo asiático enseñaba que «Dios es un gran temor»{0}; éste es el resultado de la religión puramente evolutiva. Jesús, la revelación del tipo más elevado de vida religiosa, proclamó que «Dios es amor»{1}.
+{{anchor|LU_92_1_5}} Un pueblo asiático enseñaba que «Dios es un gran temor»<ref>''Dios es un gran temor'': Gn 20:11; 22:12; Job 1:1.</ref>; éste es el resultado de la religión puramente evolutiva. Jesús, la revelación del tipo más elevado de vida religiosa, proclamó que «Dios es amor»{1}.
 
 == {{anchor|LU_92_2}} 2. LA RELIGIÓN Y LAS COSTUMBRES ==
 
@@ -189,4 +189,8 @@
 {{anchor|LU_92_7_15}} La verdadera religión debe ser siempre y al mismo tiempo el eterno fundamento y la estrella orientadora de todas las civilizaciones duraderas.
 
 {{anchor|LU_92_7_16}} [Presentado por un Melquisedek de Nebadon.]
+
+== Referencias ==
+
+<references/>
 

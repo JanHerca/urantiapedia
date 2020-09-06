@@ -2,7 +2,7 @@
 
 {{anchor|LU_140_0}}
 
-{{anchor|LU_140_0_1}} El domingo 12 de enero del año 27, un poco antes del mediodía, Jesús reunió a los apóstoles para su ordenación{0} como predicadores públicos del evangelio del reino{1}. Los doce esperaban ser llamados de un día a otro; por eso, aquella mañana no se alejaron mucho de la costa para pescar. Algunos de ellos se habían quedado cerca de la orilla reparando sus redes y remendando sus atavíos de pesca.
+{{anchor|LU_140_0_1}} El domingo 12 de enero del año 27, un poco antes del mediodía, Jesús reunió a los apóstoles para su ordenación<ref>''Sermón de la ordenación'': Mt 5:1; Lc 6:17.</ref> como predicadores públicos del evangelio del reino{1}. Los doce esperaban ser llamados de un día a otro; por eso, aquella mañana no se alejaron mucho de la costa para pescar. Algunos de ellos se habían quedado cerca de la orilla reparando sus redes y remendando sus atavíos de pesca.
 
 {{anchor|LU_140_0_2}} Cuando Jesús bajó a la playa para convocar a los apóstoles, primero llamó a Andrés y Pedro, que estaban pescando cerca de la orilla; luego hizo señas a Santiago y Juan, que se encontraban cerca en una barca charlando con su padre Zebedeo y reparando sus redes. Reunió de dos en dos a los otros apóstoles, y cuando los doce estuvieron congregados, se dirigió con ellos hacia las tierras montañosas del norte de Cafarnaúm, donde procedió a instruirlos como preparación para su ordenación formal.
 
@@ -295,4 +295,8 @@
 {{anchor|LU_140_10_9}} Juan le preguntó a Jesús: «Maestro, ¿qué es el reino de los cielos?» Y Jesús respondió: «El reino de los cielos consiste en estas tres cosas esenciales: primero, el reconocimiento del hecho de la soberanía de Dios; segundo, la creencia en la verdad de la filiación con Dios; y tercero, la fe en la eficacia del deseo supremo humano de hacer la voluntad de Dios —de ser semejante a Dios. Y he aquí la buena nueva del evangelio: por medio de la fe, cada mortal puede poseer todas estas cosas esenciales para la salvación».
 
 {{anchor|LU_140_10_10}} Ahora que la semana de espera había terminado, se prepararon para partir al día siguiente hacia Jerusalén.
+
+== Referencias ==
+
+<references/>
 

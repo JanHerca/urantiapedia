@@ -140,7 +140,7 @@
 
 {{anchor|LU_16_6_1}} Los Espíritus Maestros son la fuente séptuple de la mente cósmica, el potencial intelectual del gran universo. Esta mente cósmica es una manifestación subabsoluta de la mente de la Fuente-Centro Tercera, y está relacionada funcionalmente de cierta manera con la mente del Ser Supremo en evolución.
 
-{{anchor|LU_16_6_2}} En un mundo como Urantia, la influencia directa de los Siete Espíritus Maestros no la encontramos en los asuntos de las razas humanas. Vivís bajo la influencia directa del Espíritu Creativo de Nebadon. Sin embargo, estos mismos Espíritus Maestros{0} dominan las reacciones básicas de todas las mentes de las criaturas, porque son la fuente efectiva de los potenciales intelectuales y espirituales que han sido especializados en los universos locales para funcionar en la vida de los individuos que viven en los mundos evolutivos del tiempo y del espacio{1}.
+{{anchor|LU_16_6_2}} En un mundo como Urantia, la influencia directa de los Siete Espíritus Maestros no la encontramos en los asuntos de las razas humanas. Vivís bajo la influencia directa del Espíritu Creativo de Nebadon. Sin embargo, estos mismos Espíritus Maestros<ref>''Espíritus ayudantes de la mente'': Ap 5:6.</ref> dominan las reacciones básicas de todas las mentes de las criaturas, porque son la fuente efectiva de los potenciales intelectuales y espirituales que han sido especializados en los universos locales para funcionar en la vida de los individuos que viven en los mundos evolutivos del tiempo y del espacio{1}.
 
 {{anchor|LU_16_6_3}} El hecho de la mente cósmica explica la afinidad existente entre los diversos tipos de mentes humanas y superhumanas. No solamente los espíritus afines se sienten atraídos los unos hacia los otros, sino que las mentes afines{2} son también muy fraternales y tienden a cooperar las unas con las otras. A veces se observa que las mentes humanas funcionan en unas vías que tienen una similitud asombrosa y una concordancia inexplicable.
 
@@ -255,4 +255,8 @@
 {{anchor|LU_16_9_15}} ¿Es extraño pues que la mente cósmica se dé cuenta conscientemente de su propia fuente, la mente infinita del Espíritu Infinito, y que al mismo tiempo sea consciente de la realidad física de los extensos universos, de la realidad espiritual del Hijo Eterno, y de la realidad de la personalidad del Padre Universal?
 
 {{anchor|LU_16_9_16}} [Patrocinado por un Censor Universal procedente de Uversa.]
+
+== Referencias ==
+
+<references/>
 

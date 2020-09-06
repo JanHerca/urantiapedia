@@ -4,7 +4,7 @@
 
 {{anchor|LU_180_0_1}} DESPUÉS de cantar el salmo al final de la última cena, los apóstoles pensaron que Jesús tenía la intención de regresar inmediatamente al campamento, pero les indicó que se sentaran. El Maestro dijo:
 
-{{anchor|LU_180_0_2}} «Recordáis bien cuando os envié sin bolsa ni alforja, e incluso os aconsejé que no llevarais ninguna ropa de repuesto. Y todos recordaréis que no os faltó de nada. Pero ahora os encontráis en tiempos difíciles. Ya no podéis contar con la buena voluntad de las multitudes. De aquí en adelante, el que tenga una bolsa que la lleve con él. Cuando salgáis al mundo para proclamar este evangelio, encargaos de vuestro sostén como os parezca más conveniente{0}. He venido para traer la paz, pero ésta no aparecerá durante un tiempo»{1}.
+{{anchor|LU_180_0_2}} «Recordáis bien cuando os envié sin bolsa ni alforja, e incluso os aconsejé que no llevarais ninguna ropa de repuesto. Y todos recordaréis que no os faltó de nada. Pero ahora os encontráis en tiempos difíciles. Ya no podéis contar con la buena voluntad de las multitudes. De aquí en adelante, el que tenga una bolsa que la lleve con él. Cuando salgáis al mundo para proclamar este evangelio, encargaos de vuestro sostén como os parezca más conveniente<ref>''Haced preparativos para el trabajo'': Lc 22:35-36.</ref>. He venido para traer la paz, pero ésta no aparecerá durante un tiempo»{1}.
 
 {{anchor|LU_180_0_3}} «Ha llegado la hora de que el Hijo del Hombre sea glorificado, y el Padre será glorificado en mí{2}. Amigos míos, sólo voy a estar con vosotros un poco más de tiempo. Pronto me buscaréis, pero no me encontraréis{3}, porque voy a un lugar donde no podéis venir en este momento{4}. Pero cuando hayáis terminado vuestra obra en la Tierra tal como yo he terminado la mía, entonces vendréis a mí{5} como yo me preparo ahora para ir hacia mi Padre. Voy a dejaros dentro de muy poco tiempo y no me veréis más en la Tierra, pero todos me veréis en la era venidera cuando ascendáis al reino que mi Padre me ha dado».
 
@@ -119,4 +119,8 @@
 {{anchor|LU_180_6_8}} «Aquí abajo os he enseñado con proverbios y os he hablado en parábolas. Lo he hecho así porque espiritualmente sólo erais niños; pero se acerca el momento en que os hablaré claramente{63} sobre el Padre y su reino. Y lo haré porque el Padre mismo os ama y desea ser revelado más plenamente a vosotros. El hombre mortal no puede ver al Padre{64} que es espíritu; por eso he venido al mundo para mostrar el Padre a vuestros ojos de criaturas. Pero cuando os hayáis perfeccionado en el crecimiento espiritual, entonces veréis al Padre mismo».
 
 {{anchor|LU_180_6_9}} Cuando los once le oyeron hablar así, se dijeron unos a otros: «Mirad, ahora nos habla claramente. Es seguro que el Maestro ha venido de Dios. Pero, ¿por qué dice que debe regresar al Padre?» Jesús vio que incluso entonces no le comprendían{65}. Estos once hombres no podían liberarse de las ideas que habían abrigado durante mucho tiempo sobre el concepto judío del Mesías. Cuanto más plenamente creían en Jesús como Mesías, más embarazosas se volvían estas nociones profundamente arraigadas sobre el glorioso triunfo material del reino en la Tierra.
+
+== Referencias ==
+
+<references/>
 

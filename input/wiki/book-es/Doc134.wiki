@@ -54,9 +54,9 @@
 
 == {{anchor|LU_134_4}} 4. LA SOBERANÍA --- DIVINA Y HUMANA ==
 
-{{anchor|LU_134_4_1}} La fraternidad de los hombres está basada en la paternidad de Dios. La familia de Dios tiene su origen en el amor de Dios —Dios es amor{0}. Dios Padre ama divinamente a sus hijos, a todos ellos.
+{{anchor|LU_134_4_1}} La fraternidad de los hombres está basada en la paternidad de Dios. La familia de Dios tiene su origen en el amor de Dios —Dios es amor<ref>''Dios es amor'': 1 Jn 4:7-11,16,19.</ref>. Dios Padre ama divinamente a sus hijos, a todos ellos.
 
-{{anchor|LU_134_4_2}} El reino de los cielos, el gobierno divino, está basado en el hecho de la soberanía divina —Dios es espíritu{1}. Puesto que Dios es espíritu, este reino es espiritual. El reino de los cielos no es material ni simplemente intelectual; es una relación espiritual entre Dios y el hombre.
+{{anchor|LU_134_4_2}} El reino de los cielos, el gobierno divino, está basado en el hecho de la soberanía divina —Dios es espíritu<ref>''Dios es espíritu, su reino es espiritual'': Jn 3:5; 4:24.</ref>. Puesto que Dios es espíritu, este reino es espiritual. El reino de los cielos no es material ni simplemente intelectual; es una relación espiritual entre Dios y el hombre.
 
 {{anchor|LU_134_4_3}} Si las diferentes religiones reconocen la soberanía espiritual de Dios Padre, entonces todas esas religiones permanecerán en paz. Sólo cuando una religión pretende ser de alguna manera superior a todas las demás, y poseer una autoridad exclusiva sobre las otras religiones, dicha religión se atreverá a ser intolerante con las demás religiones o tendrá la osadía de perseguir a otros creyentes religiosos.
 
@@ -64,9 +64,9 @@
 
 {{anchor|LU_134_4_5}} No podéis conseguir la igualdad entre las religiones (la libertad religiosa) sin guerras religiosas, a menos que todas las religiones estén dispuestas a transferir toda la soberanía religiosa a un nivel superhumano, a Dios mismo.
 
-{{anchor|LU_134_4_6}} El reino de los cielos en el corazón de los hombres creará la unidad religiosa (no necesariamente la uniformidad){2} porque todos y cada uno de los grupos religiosos, compuestos por tales creyentes religiosos, estarán libres de toda noción de autoridad eclesiástica —de soberanía religiosa.
+{{anchor|LU_134_4_6}} El reino de los cielos en el corazón de los hombres creará la unidad religiosa (no necesariamente la uniformidad)<ref>''Unidad, no uniformidad'': Ro 14:17-19; 1 Co 1:10; 1 Co 10:17; 1 Co 12:17-31; Ef 4:3-6,11-13.</ref> porque todos y cada uno de los grupos religiosos, compuestos por tales creyentes religiosos, estarán libres de toda noción de autoridad eclesiástica —de soberanía religiosa.
 
-{{anchor|LU_134_4_7}} Dios es espíritu, y Dios confiere un fragmento de su ser espiritual para que resida en el corazón del hombre{3}. Espiritualmente, todos los hombres son iguales{4}. El reino de los cielos está desprovisto de castas, de clases, de niveles sociales y de grupos económicos. Todos sois hermanos{5}.
+{{anchor|LU_134_4_7}} Dios es espíritu, y Dios confiere un fragmento de su ser espiritual para que resida en el corazón del hombre<ref>''El espíritu interior'': Job 32:8,18; Is 63:10-11; Ez 37:14; Mt 10:20; Lc 17:21; Jn 17:21-23; Ro 8:9-11; 1 Co 3:16-17; 6:19; 2 Co 6:16; Gl 2:20; 1 Jn 3:24; 4:12-15; Ap 21:3.</ref>. Espiritualmente, todos los hombres son iguales{4}. El reino de los cielos está desprovisto de castas, de clases, de niveles sociales y de grupos económicos. Todos sois hermanos{5}.
 
 {{anchor|LU_134_4_8}} Pero en cuanto perdáis de vista la soberanía espiritual de Dios Padre, alguna religión empezará a afirmar su superioridad sobre las otras religiones. Entonces, en lugar de paz en la Tierra y de buena voluntad entre los hombres, empezarán las disensiones, las recriminaciones e incluso las guerras religiosas, o al menos las guerras entre los practicantes de la religión.
 
@@ -201,4 +201,8 @@
 {{anchor|LU_134_9_8}} A medida que pasaba el tiempo, llegaron rumores a Cafarnaúm sobre un tal Juan que predicaba mientras bautizaba a los penitentes en el Jordán{14}. La predicación de Juan era: «El reino de los cielos está cerca; arrepentíos y sed bautizados»{15}. Jesús escuchó estos informes a medida que Juan remontaba lentamente el valle del Jordán desde el vado del río más cercano a Jerusalén. Pero Jesús continuó trabajando construyendo barcas, hasta que Juan llegó río arriba a un lugar cercano a Pella, en el mes de enero del año siguiente, el año 26. Entonces dejó sus herramientas, declarando «Ha llegado mi hora», y poco después se presentó ante Juan para ser bautizado.
 
 {{anchor|LU_134_9_9}} Un gran cambio se había producido en Jesús. De la gente que había disfrutado de sus visitas y servicios mientras recorría el país de arriba abajo, pocos reconocieron después, en el maestro público, a la misma persona que habían conocido y amado como individuo particular en años anteriores. Había una razón que impedía a sus primeros beneficiarios reconocerlo en su papel posterior como educador público lleno de autoridad: La transformación de su mente y de su espíritu se había estado desarrollando a lo largo de muchos años, y había finalizado durante la permanencia extraordinaria en el Monte Hermón.
+
+== Referencias ==
+
+<references/>
 

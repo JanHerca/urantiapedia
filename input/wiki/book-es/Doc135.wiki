@@ -2,7 +2,7 @@
 
 {{anchor|LU_135_0}}
 
-{{anchor|LU_135_0_1}} JUAN el Bautista nació el 25 de marzo del año 7 a. de J. C., según la promesa que Gabriel le había hecho a Isabel en junio del año anterior. Durante cinco meses, Isabel guardó en secreto la visita de Gabriel{0}; cuando se lo dijo a su marido Zacarías, éste se quedó muy preocupado y sólo creyó plenamente en su relato después de tener un sueño insólito{1}, unas seis semanas antes del nacimiento de Juan. Aparte de la visita de Gabriel a Isabel y del sueño de Zacarías, no hubo nada extraño ni sobrenatural en relación con el nacimiento de Juan el Bautista{2}.
+{{anchor|LU_135_0_1}} JUAN el Bautista nació el 25 de marzo del año 7 a. de J. C., según la promesa que Gabriel le había hecho a Isabel en junio del año anterior. Durante cinco meses, Isabel guardó en secreto la visita de Gabriel<ref>''El secreto de Isabel'': Lc 1:24.</ref>; cuando se lo dijo a su marido Zacarías, éste se quedó muy preocupado y sólo creyó plenamente en su relato después de tener un sueño insólito{1}, unas seis semanas antes del nacimiento de Juan. Aparte de la visita de Gabriel a Isabel y del sueño de Zacarías, no hubo nada extraño ni sobrenatural en relación con el nacimiento de Juan el Bautista{2}.
 
 {{anchor|LU_135_0_2}} Al octavo día Juan fue circuncidado{3} de acuerdo con la costumbre judía. Día tras día y año tras año, creció como un niño normal en el pueblecito conocido en aquella época con el nombre de Ciudad de Judá, a unos seis kilómetros al oeste de Jerusalén.
 
@@ -169,4 +169,8 @@
 {{anchor|LU_135_12_6}} En el transcurso de las festividades y diversiones de la velada, Herodías presentó a su hija para que bailara ante los comensales. Herodes quedó muy complacido con la actuación de la doncella y, llamándola ante él, le dijo: «Eres encantadora. Estoy muy contento contigo. Pídeme en mi cumpleaños todo lo que desees y yo te lo daré, aunque sea la mitad de mi reino». Cuando Herodes dijo esto, se encontraba bajo el influjo de todo lo que había bebido. La joven se retiró y le preguntó a su madre qué debía pedirle a Herodes. Herodías le dijo: «Ve a Herodes y pídele la cabeza de Juan el Bautista». La joven regresó a la mesa del banquete y le dijo a Herodes: «Te pido que me des inmediatamente la cabeza de Juan el Bautista en una bandeja».
 
 {{anchor|LU_135_12_7}} Herodes se llenó de temor y de tristeza, pero a causa de su promesa y de todos los testigos que estaban en el banquete con él, no quiso rechazar la petición. Herodes Antipas envió a un soldado, ordenándole que trajera la cabeza de Juan. Así es como Juan fue decapitado aquella noche en la prisión; el soldado trajo la cabeza del profeta en una bandeja y se la dio a la joven detrás de la sala del banquete. Y la doncella entregó la bandeja a su madre. Cuando los discípulos de Juan se enteraron de esto, vinieron a la prisión para recoger su cuerpo, y después de darle sepultura, fueron a decírselo a Jesús.
+
+== Referencias ==
+
+<references/>
 

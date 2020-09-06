@@ -134,7 +134,7 @@
 
 == {{anchor|LU_61_6}} 6. EL HOMBRE PRIMITIVO EN LA ÉPOCA GLACIAL ==
 
-{{anchor|LU_61_6_1}} El gran acontecimiento de este período glacial fue la aparición por evolución del hombre primitivo{0}. Un poco hacia el oeste de la India, en una tierra ahora sumergida y entre los descendientes de los antiguos tipos de lémures norteamericanos que emigraron a Asia, los mamíferos precursores del hombre aparecieron ''repentinamente''. Estos pequeños animales caminaban principalmente sobre sus patas traseras; poseían un cerebro grande en proporción a su tamaño y en comparación con el cerebro de otros animales. En la septuagésima generación de esta orden de vida, un nuevo grupo de animales superiores se diferenció ''repentinamente''. Estos nuevos mamíferos intermedios —que eran casi el doble de grandes que sus predecesores y poseían proporcionalmente una mayor capacidad cerebral— apenas acababan de establecerse bien cuando los primates, la tercera mutación vital, aparecieron ''repentinamente''. (Al mismo tiempo, un desarrollo retrógrado dentro de la familia de los mamíferos intermedios dio origen a los antepasados de los simios; desde aquel día hasta la fecha, la rama humana ha progresado mediante una evolución paulatina, mientras que las tribus simias han permanecido estacionarias o han retrocedido realmente.)
+{{anchor|LU_61_6_1}} El gran acontecimiento de este período glacial fue la aparición por evolución del hombre primitivo<ref>''Hombre primitivo'': Gn 1:26-27; 2:7.</ref>. Un poco hacia el oeste de la India, en una tierra ahora sumergida y entre los descendientes de los antiguos tipos de lémures norteamericanos que emigraron a Asia, los mamíferos precursores del hombre aparecieron ''repentinamente''. Estos pequeños animales caminaban principalmente sobre sus patas traseras; poseían un cerebro grande en proporción a su tamaño y en comparación con el cerebro de otros animales. En la septuagésima generación de esta orden de vida, un nuevo grupo de animales superiores se diferenció ''repentinamente''. Estos nuevos mamíferos intermedios —que eran casi el doble de grandes que sus predecesores y poseían proporcionalmente una mayor capacidad cerebral— apenas acababan de establecerse bien cuando los primates, la tercera mutación vital, aparecieron ''repentinamente''. (Al mismo tiempo, un desarrollo retrógrado dentro de la familia de los mamíferos intermedios dio origen a los antepasados de los simios; desde aquel día hasta la fecha, la rama humana ha progresado mediante una evolución paulatina, mientras que las tribus simias han permanecido estacionarias o han retrocedido realmente.)
 
 {{anchor|LU_61_6_2}} Hace ''1.000.000'' de años, Urantia fue registrada como ''mundo habitado''. Una mutación dentro de la familia de los primates que progresaban produjo ''repentinamente'' dos seres humanos primitivos, los verdaderos antepasados de la humanidad.
 
@@ -183,4 +183,8 @@
 {{anchor|LU_61_7_19}} Esta narración se extiende desde el nacimiento de los mamíferos hasta el retroceso de los hielos y los tiempos históricos, abarcando un período de casi cincuenta millones de años. Es el último período geológico —el actualmente vigente— y vuestros investigadores lo conocen con el nombre de ''Cenozoico'' o era de los tiempos recientes.
 
 {{anchor|LU_61_7_20}} [Patrocinado por un Portador de Vida residente.]
+
+== Referencias ==
+
+<references/>
 

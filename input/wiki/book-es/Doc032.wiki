@@ -6,7 +6,7 @@
 
 {{anchor|LU_32_0_2}} Estos universos del tiempo y del espacio son todos evolutivos. El plan creativo de los Migueles del Paraíso sigue siempre el curso de la evolución gradual y del desarrollo progresivo de las naturalezas y de las capacidades físicas, intelectuales y espirituales de las múltiples criaturas que habitan los diversos tipos de esferas que componen ese universo local.
 
-{{anchor|LU_32_0_3}} Urantia pertenece a un universo local cuyo soberano es el Dios-hombre de Nebadon, Jesús de Nazaret y Miguel de Salvington{0}. Todos los planes de Miguel para este universo local fueron plenamente aprobados por la Trinidad del Paraíso antes de que Miguel emprendiera la aventura suprema del espacio.
+{{anchor|LU_32_0_3}} Urantia pertenece a un universo local cuyo soberano es el Dios-hombre de Nebadon, Jesús de Nazaret y Miguel de Salvington<ref>''Miguel de Salvington'': Jn 1:1-3.</ref>. Todos los planes de Miguel para este universo local fueron plenamente aprobados por la Trinidad del Paraíso antes de que Miguel emprendiera la aventura suprema del espacio.
 
 {{anchor|LU_32_0_4}} Los Hijos de Dios pueden elegir los reinos de sus actividades creadoras, pero los Arquitectos Paradisiacos del Universo Maestro son los que proyectan y planifican originariamente estas creaciones materiales.
 
@@ -38,7 +38,7 @@
 
 {{anchor|LU_32_2_7}} Y ahora que el brazo derecho y jefe ejecutivo del Hijo Creador ha aparecido, a esto le sigue la venida a la existencia de una inmensa y maravillosa serie de criaturas diversas. Los hijos y las hijas del universo local aparecen, y poco después se le proporciona un gobierno a esta creación, un gobierno que se extiende desde los consejos supremos del universo hasta los padres de las constelaciones y los soberanos de los sistemas locales —los conjuntos de mundos que están destinados a convertirse posteriormente en las moradas de las diversas razas mortales de criaturas volitivas; y cada uno de estos mundos será presidido por un Príncipe Planetario.
 
-{{anchor|LU_32_2_8}} Luego, cuando ese universo ha sido completamente organizado y plenamente equipado de personal, el Hijo Creador emprende el proyecto del Padre consistente en crear al hombre mortal a su divina imagen{1}.
+{{anchor|LU_32_2_8}} Luego, cuando ese universo ha sido completamente organizado y plenamente equipado de personal, el Hijo Creador emprende el proyecto del Padre consistente en crear al hombre mortal a su divina imagen<ref>''Hombre a imagen de Dios'': Gn 1:26-27; 9:6.</ref>.
 
 {{anchor|LU_32_2_9}} La organización de las moradas planetarias continúa desarrollándose en Nebadon, pues este universo es en verdad un grupo joven en los reinos estelares y planetarios de Orvonton. En el momento del último registro había en Nebadon 3.840.101 planetas habitados, y Satania, el sistema local de vuestro mundo, es bastante típico en relación con los otros sistemas.
 
@@ -62,7 +62,7 @@
 
 {{anchor|LU_32_3_5}} En la sede de un universo local residen todas las personalidades creadoras y creativas que representan una autoridad independiente y una autonomía administrativa, excepto la presencia personal del Padre Universal. En el universo local se puede encontrar a casi todas las clases de seres inteligentes que existen en el universo central, salvo al Padre Universal. Aunque el Padre Universal no está personalmente presente en un universo local, está representado personalmente por su Hijo Creador, al principio vicegerente de Dios y posteriormente gobernante supremo y soberano por su propio derecho.
 
-{{anchor|LU_32_3_6}} Cuanto más descendemos la escala de la vida, más difícil es localizar, con los ojos de la fe, al Padre invisible. A las criaturas inferiores —y a veces incluso a las personalidades superiores— siempre les resulta difícil ver al Padre Universal en sus Hijos Creadores. Así pues, hasta el momento de su exaltación espiritual en que la perfección de su desarrollo les permitirá ver a Dios en persona, las criaturas se cansan en su progresión, albergan dudas espirituales, tropiezan en la confusión y se aíslan así de las metas espirituales progresivas de su época y de su universo. De esta manera pierden la capacidad de ver al Padre cuando contemplan al Hijo Creador. Durante la larga lucha por alcanzar al Padre, durante el período en que las condiciones inherentes hacen que esta consecución resulte imposible, la salvaguardia más segura para la criatura consiste en aferrarse tenazmente al hecho-verdad de la presencia del Padre en sus Hijos. Literal y figurativamente, espiritual y personalmente, el Padre y los Hijos son uno solo{2}. Es un hecho: aquel que ha visto a un Hijo Creador ha visto al Padre{3}.
+{{anchor|LU_32_3_6}} Cuanto más descendemos la escala de la vida, más difícil es localizar, con los ojos de la fe, al Padre invisible. A las criaturas inferiores —y a veces incluso a las personalidades superiores— siempre les resulta difícil ver al Padre Universal en sus Hijos Creadores. Así pues, hasta el momento de su exaltación espiritual en que la perfección de su desarrollo les permitirá ver a Dios en persona, las criaturas se cansan en su progresión, albergan dudas espirituales, tropiezan en la confusión y se aíslan así de las metas espirituales progresivas de su época y de su universo. De esta manera pierden la capacidad de ver al Padre cuando contemplan al Hijo Creador. Durante la larga lucha por alcanzar al Padre, durante el período en que las condiciones inherentes hacen que esta consecución resulte imposible, la salvaguardia más segura para la criatura consiste en aferrarse tenazmente al hecho-verdad de la presencia del Padre en sus Hijos. Literal y figurativamente, espiritual y personalmente, el Padre y los Hijos son uno solo<ref>''El Padre y el Hijo son uno'': Jn 1:1; 5:17-18; 10:30,38; 14:7-11,20; 17:11,21-22.</ref>. Es un hecho: aquel que ha visto a un Hijo Creador ha visto al Padre{3}.
 
 {{anchor|LU_32_3_7}} Las personalidades de un universo dado sólo son estables y fiables, al principio, de acuerdo con su grado de parecido con la Deidad. Cuando el origen de las criaturas se aparta bastante de las Fuentes originales y divinas, ya se trate de los Hijos de Dios o de las criaturas ministrantes pertenecientes al Espíritu Infinito, existe la posibilidad de que aumente la falta de armonía, la confusión y a veces la rebelión —el pecado.
 
@@ -127,4 +127,8 @@
 {{anchor|LU_32_5_8}} ¡La meta de la eternidad está hacia adelante! ¡La aventura para alcanzar la divinidad se extiende delante de vosotros! ¡La carrera hacia la perfección está en marcha! Quienquiera que lo desee puede participar{6}, y una victoria segura{7} coronará los esfuerzos de todo ser humano que corra la carrera de la fe y de la confianza, dependiendo a cada paso del camino de las directrices del Ajustador interior y de la guía de ese buen espíritu del Hijo del Universo{8} que ha sido derramado tan generosamente sobre toda carne.
 
 {{anchor|LU_32_5_9}} [Presentado por un Mensajero Poderoso vinculado temporalmente al Consejo Supremo de Nebadon y asignado a esta misión por Gabriel de Salvington.]
+
+== Referencias ==
+
+<references/>
 

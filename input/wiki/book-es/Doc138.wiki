@@ -4,7 +4,7 @@
 
 {{anchor|LU_138_0_1}} DESPUÉS de predicar el sermón sobre «el Reino», Jesús reunió a los seis apóstoles aquella tarde y empezó a exponerles sus planes para visitar las ciudades situadas alrededor y en las proximidades del Mar de Galilea. Sus hermanos Santiago y Judá estaban muy molestos porque no habían sido llamados para participar en esta conferencia. Hasta ese momento se habían considerado como pertenecientes al círculo interno de los asociados de Jesús. Pero Jesús había decidido no tener parientes cercanos entre los miembros de este cuerpo de directores apostólicos del reino. El hecho de no incluir a Santiago y a Judá entre los pocos elegidos, así como su aparente alejamiento de su madre desde la experiencia de Caná, fue el punto de partida de un abismo cada vez más profundo entre Jesús y su familia. Esta situación continuó durante todo su ministerio público —los suyos llegaron casi a rechazarlo— y estas diferencias no desaparecieron por completo hasta después de su muerte y resurrección. Su madre oscilaba constantemente entre actitudes de fe y esperanza fluctuantes, y emociones crecientes de desilusión, humillación y desesperación. Sólo Rut, la más joven, permaneció inquebrantablemente fiel a su hermano-padre.
 
-{{anchor|LU_138_0_2}} Hasta después de la resurrección, toda la familia de Jesús participó muy poco en su ministerio. Un profeta siempre recibe honores, excepto en su propia tierra, y siempre goza de una estima comprensiva, salvo en su propia familia{0}.
+{{anchor|LU_138_0_2}} Hasta después de la resurrección, toda la familia de Jesús participó muy poco en su ministerio. Un profeta siempre recibe honores, excepto en su propia tierra, y siempre goza de una estima comprensiva, salvo en su propia familia<ref>''No hay profeta sin honra excepto en su casa'': Mt 13:57; Mc 6:4; Lc 4:24; Jn 4:44.</ref>.
 
 == {{anchor|LU_138_1}} 1. LAS INSTRUCCIONES FINALES ==
 
@@ -24,7 +24,7 @@
 
 {{anchor|LU_138_2_2}} Después de que cada uno hubiera presentado al nuevo apóstol de su elección, Jesús pidió a todos los demás que votaran su nombramiento; y así, los seis nuevos apóstoles fueron debidamente aceptados, de manera unánime, por los seis primeros. Después, Jesús anunció que todos irían a visitar a estos candidatos para confirmarles el llamamiento al servicio.
 
-{{anchor|LU_138_2_3}} Los apóstoles recién elegidos eran{1}:
+{{anchor|LU_138_2_3}} Los apóstoles recién elegidos eran<ref>''Nombres bíblicos de los apóstoles'': Mt 10:2-4; Mc 3:16-19; Lc 6:14-16; Hch 1:13.</ref>:
 
 {{anchor|LU_138_2_4}} 1. ''Mateo Leví'', el recaudador de derechos de aduana de Cafarnaúm, que tenía su oficina exactamente al este de la ciudad, cerca de los límites de Batanea. Había sido elegido por Andrés.
 
@@ -42,13 +42,13 @@
 
 == {{anchor|LU_138_3}} 3. EL LLAMAMIENTO DE MATEO Y DE SIMÓN ==
 
-{{anchor|LU_138_3_1}} Al día siguiente, Jesús y los seis fueron a ver a Mateo{2}, el recaudador de aduanas. Mateo los estaba esperando; había saldado sus libros y se había preparado para traspasar los asuntos de su oficina a su hermano. Al acercarse a la oficina de peajes, Andrés se adelantó con Jesús, que miró de frente a Mateo y le dijo: «Sígueme». Mateo se levantó y llevó a Jesús y a los apóstoles a su casa.
+{{anchor|LU_138_3_1}} Al día siguiente, Jesús y los seis fueron a ver a Mateo<ref>''Selección de Mateo'': Mt 9:9; Mc 2:14; Lc 5:27-28.</ref>, el recaudador de aduanas. Mateo los estaba esperando; había saldado sus libros y se había preparado para traspasar los asuntos de su oficina a su hermano. Al acercarse a la oficina de peajes, Andrés se adelantó con Jesús, que miró de frente a Mateo y le dijo: «Sígueme». Mateo se levantó y llevó a Jesús y a los apóstoles a su casa.
 
 {{anchor|LU_138_3_2}} Mateo le habló a Jesús del banquete que había organizado para aquella noche, diciendo que deseaba al menos ofrecer esta cena a su familia y a sus amigos, si Jesús estaba de acuerdo y accedía a ser el invitado de honor. Jesús asintió con la cabeza. Entonces Pedro cogió a Mateo aparte y le explicó que había invitado a un tal Simón a unirse a los apóstoles, y se aseguró el consentimiento de Mateo para que Simón también fuera convidado a esta fiesta.
 
 {{anchor|LU_138_3_3}} Después de almorzar a mediodía en la casa de Mateo, todos fueron con Pedro a visitar a Simón el Celote. Lo encontraron en su antigua oficina de negocios, que ahora dirigía su sobrino. Cuando Pedro condujo a Jesús hasta Simón, el Maestro saludó al ardiente patriota y sólo le dijo: «Sígueme».
 
-{{anchor|LU_138_3_4}} Todos regresaron a la casa de Mateo, donde hablaron mucho sobre política y religión hasta la hora de la cena{3}. La familia Leví se dedicaba desde hacía mucho tiempo a los negocios y a la recaudación de impuestos; por ello, muchos de los convidados invitados por Mateo a este banquete habrían sido calificados de «publicanos y pecadores»{4} por los fariseos.
+{{anchor|LU_138_3_4}} Todos regresaron a la casa de Mateo, donde hablaron mucho sobre política y religión hasta la hora de la cena<ref>''El banquete de Mateo'': Mt 9:10; Mc 2:15; Lc 5:29.</ref>. La familia Leví se dedicaba desde hacía mucho tiempo a los negocios y a la recaudación de impuestos; por ello, muchos de los convidados invitados por Mateo a este banquete habrían sido calificados de «publicanos y pecadores»{4} por los fariseos.
 
 {{anchor|LU_138_3_5}} En aquellos tiempos, cuando un banquete-recepción de este tipo se ofrecía a un individuo sobresaliente, todas las personas interesadas tenían la costumbre de merodear por la sala del banquete para ver comer a los convidados y escuchar la conversación y los discursos de los invitados de honor. Por consiguiente, la mayoría de los fariseos de Cafarnaúm se encontraban presentes en esta ocasión para observar la conducta de Jesús en esta reunión social poco común.
 
@@ -161,4 +161,8 @@
 {{anchor|LU_138_10_10}} 9. Judas Iscariote fue nombrado tesorero. Llevaba la bolsa{16}, pagaba todos los gastos y llevaba los libros de la contabilidad. Cada semana hacía un proyecto de presupuesto para Mateo y también presentaba sus informes semanales a Andrés. Judas desembolsaba los fondos con la autorización de Andrés.
 
 {{anchor|LU_138_10_11}} Los doce funcionaron de esta forma desde su organización primitiva hasta el momento en que tuvieron necesidad de reorganizarse debido a la deserción de Judas, el traidor. El Maestro y sus discípulos-apóstoles continuaron viviendo de esta manera sencilla hasta el domingo 12 de enero del año 27, día en que los reunió y los ordenó formalmente como embajadores del reino y predicadores de su buena nueva. Inmediatamente después de esto, se prepararon para salir hacia Jerusalén y Judea en su primera gira de predicación pública.
+
+== Referencias ==
+
+<references/>
 

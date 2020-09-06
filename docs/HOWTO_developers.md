@@ -11,6 +11,8 @@
 8. Se abrirá la web al finalizar, algo así como: http://192.168.1.10/wiki/index.php/Main_Page o http://localhost/wiki/index.php/Main_Page segun esté configurado localhost.
 9. Hacer login para comprobar que funciona el usuario creado en 7.
 
+---
+
 ## Templates
 
 Para importar templates en la Urantiapedia:
@@ -20,15 +22,17 @@ Para importar templates en la Urantiapedia:
 wfLoadExtension( 'Scribunto' );
 $wgScribuntoDefaultEngine = 'luastandalone';
 ```
-2. Puede que Lua no funcione si el binario de Lus no tiene permisos de ejecución. Ir a la carpeta extensions/Scribunto/includes/engines/LuaStandalone/binaries/*sistema op*/ y cambiar los permisos a ejecución ( 7 5 5).
+2. Puede que Lua no funcione si el binario de Lua no tiene permisos de ejecución. Ir a la carpeta extensions/Scribunto/includes/engines/LuaStandalone/binaries/*sistema op*/ y cambiar los permisos a ejecución ( 7 5 5 ).
 3. Exportar una template, por ejemplo, de la Wikipedia, entrando en la página de exportación: https://en.wikipedia.org/wiki/Special:Export
 4. Añadir manualmente uno o varios nombres de templates, por ejemplo, Template:Anchor
 5. Marcar todas las casillas y exportar. Se genera un fichero XML.
-6. Ir a /Special:Import de la Urantiapedia e importar el XML. Como interwiki prefix usar en, es segun corresponda a la Wikipedia que hayamos usado para hacer el export de la template.
+6. Ir a /Special:Import de la Urantiapedia e importar el XML. Como interwiki prefix usar `en` o `es` segun corresponda a la Wikipedia que hayamos usado para hacer el export de la template.
 
 Más información en:
 
 https://www.mediawiki.org/wiki/Extension:Scribunto#Installation
+
+---
 
 ## Quitar el título a la página principal
 
@@ -42,6 +46,8 @@ Más información en:
 
 https://www.mediawiki.org/wiki/Manual:FAQ#How_do_I_hide_the_main_page_title?
 
+---
+
 ## Instalar la extension MobileFrontend
 
 Esta extensión permite mostrar la Wiki de un modo más amigable en dispositivos móviles:
@@ -53,9 +59,11 @@ Esta extensión permite mostrar la Wiki de un modo más amigable en dispositivos
 ```
 wfLoadExtension( 'MobileFrontend' );
 ```
-5. Navega a la página Special:Version para comprobar que la extensión se ha cargado.
+5. Navegar a la página Special:Version para comprobar que la extensión se ha cargado.
 
-## Cargas masivas de páginas
+---
+
+## Cargas masivas de páginas con la extensión DataTransfer
 
 1. Descargar la extensión DataTransfer: https://www.mediawiki.org/wiki/Extension:Data_Transfer
 2. Copiar el fichero .gz comprimido de la extensión a la carpeta extensions.
@@ -71,11 +79,25 @@ $wgDataTransferViewXMLParseFreeText = false;
 6. Ver un ejemplo de qué se debe cargar haciendo una descarga desde ?title=Special:ViewXML&titles=nombre_de_la_pagina
 7. Cargar mediante Special:ImportXML
 
-La carga eno es inmediata. Usa el sistema de jobs de MediaWiki, lo cual significa que cada poco que se visitan páginas se lanzan un número de jobs.
+La carga no es inmediata. Usa el sistema de jobs de MediaWiki, lo cual significa que cada poco que se visitan páginas se lanzan un número de jobs.
 
 Para examinar la lista de jobs: https://urantiapedia.site/api.php?action=query&meta=siteinfo&siprop=statistics
 
-Cambiar el número de jobs que se ejecutan tras cada visita (modificar el LocalSettings.php): $wgJobRunRate = 0.01;
+Cambiar el número de jobs que se ejecutan tras cada visita modificar el LocalSettings.php añadiendo:
+```
+$wgJobRunRate = 100;
+```
+Lo anterior eleva el número de jobs tras cada visita a 100, lo cual es mucho cuando la web está funcionando con muchos usuarios concurrentes. Conviene dejarlo en 1 o incluso 0.1 cuando la página ya está publicada y siendo masivamente accedida.
+
+---
+
+## Cambiar permisos de un usuario
+
+Se hace desde la página Special:UserRights. Está accesible desde `Special pages` en el menu principal y luego en la sección User Rights. 
+
+Para cambiar a un usuario los permisos hay que añadirle o quitarle de un User Group. Hay varios grupos creados con diferentes permisos.
+
+---
 
 ## Hacer copias de seguridad
 
@@ -88,7 +110,7 @@ mysqldump --port=<puerto> --user=<user> --password=<password> <nombre_bd> > dump
 3. donde <puerto> es el puerto de MySql/MariaDB que suele ser el 3306, <user> y <password> el nombre de usuario y contraseña del administrador de la base de datos. Si no se conoce mirar el fichero LocalSettings.php de la carpeta mediawiki\htdocs. <nombre_db> es el nombre de la base de datos con la wiki.
 4. Se genera la copia de seguridad como un fichero dump.sql en la carpeta de instalación de XAMPP. Poner fecha en el nombre y guardar el archivo.
 
-
+---
 
 
 ## Referencias

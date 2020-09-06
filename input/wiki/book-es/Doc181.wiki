@@ -8,9 +8,9 @@
 
 == {{anchor|LU_181_1}} 1. LAS ÚLTIMAS PALABRAS DE CONSUELO ==
 
-{{anchor|LU_181_1_1}} Cuando los once se hubieron sentado, Jesús se levantó y les dirigió la palabra: «Mientras que esté con vosotros en la carne, sólo puedo ser una persona en medio de vosotros o en el mundo entero. Pero cuando haya sido liberado de esta envoltura de naturaleza mortal, podré regresar como habitante espiritual a cada uno de vosotros y de todos los demás creyentes en este evangelio del reino. De esta manera, el Hijo del Hombre se volverá una encarnación espiritual{0} en el alma de todos los verdaderos creyentes».
+{{anchor|LU_181_1_1}} Cuando los once se hubieron sentado, Jesús se levantó y les dirigió la palabra: «Mientras que esté con vosotros en la carne, sólo puedo ser una persona en medio de vosotros o en el mundo entero. Pero cuando haya sido liberado de esta envoltura de naturaleza mortal, podré regresar como habitante espiritual a cada uno de vosotros y de todos los demás creyentes en este evangelio del reino. De esta manera, el Hijo del Hombre se volverá una encarnación espiritual<ref>''Volver como una encarnación espiritual'': Jn 16:7.</ref> en el alma de todos los verdaderos creyentes».
 
-{{anchor|LU_181_1_2}} «Cuando haya regresado para vivir en vosotros y trabajar a través de vosotros, podré continuar conduciéndoos mejor por esta vida y guiaros a través de las muchas moradas{1} en la vida futura en el cielo de los cielos{2}. La vida en la creación eterna del Padre no es un descanso sin fin en la ociosidad ni un reposo egoísta, sino más bien una progresión continua en la gracia, la verdad y la gloria. Cada una de las muchísimas estaciones en la casa de mi Padre es una parada, una vida destinada a prepararos para la siguiente. Los hijos de la luz{3} continuarán así de gloria en gloria{4} hasta que alcancen el estado divino en el que estarán perfeccionados espiritualmente{5} como el Padre es perfecto en todas las cosas».
+{{anchor|LU_181_1_2}} «Cuando haya regresado para vivir en vosotros y trabajar a través de vosotros, podré continuar conduciéndoos mejor por esta vida y guiaros a través de las muchas moradas<ref>''El Cielo: muchas moradas'': Jn 14:2-3.</ref> en la vida futura en el cielo de los cielos{2}. La vida en la creación eterna del Padre no es un descanso sin fin en la ociosidad ni un reposo egoísta, sino más bien una progresión continua en la gracia, la verdad y la gloria. Cada una de las muchísimas estaciones en la casa de mi Padre es una parada, una vida destinada a prepararos para la siguiente. Los hijos de la luz{3} continuarán así de gloria en gloria{4} hasta que alcancen el estado divino en el que estarán perfeccionados espiritualmente{5} como el Padre es perfecto en todas las cosas».
 
 {{anchor|LU_181_1_3}} «Si queréis seguir mis pasos cuando os haya dejado, esforzaos seriamente por vivir de acuerdo con el espíritu de mis enseñanzas{6} y el ideal de mi vida —hacer la voluntad de mi Padre. Haced esto, en lugar de intentar imitar mi vida sencilla en la carne tal como me he visto obligado a vivirla, necesariamente, en este mundo».
 
@@ -91,4 +91,8 @@
 {{anchor|LU_181_2_30}} «Pero recuerda mi promesa: Cuando haya resucitado{65}, permaneceré algún tiempo{66} con vosotros antes de ir hacia el Padre. Esta misma noche le suplicaré al Padre que fortalezca{67} a cada uno de vosotros para la prueba que muy pronto tendréis que atravesar. Os amo a todos con el mismo amor que el Padre me ama, y por eso, de ahora en adelante, deberíais amaros los unos a los otros como yo os he amado»{68}.
 
 {{anchor|LU_181_2_31}} Luego, después de haber cantado un himno, partieron hacia el campamento del Monte de los Olivos{69}.
+
+== Referencias ==
+
+<references/>
 

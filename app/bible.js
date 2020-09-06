@@ -92,7 +92,7 @@ class Bible {
 					errors.push(this.createError(baseName, i,
 						'No se pudo extraer el título del libro'));
 				} else {
-					book.file = baseName;
+					book.file = path.basename(baseName, '.tex');
 					book.title = extract;
 				}
 			} else if (line.startsWith(LaTeXSeparator.CHAPTER_START)) {
@@ -148,7 +148,7 @@ class Bible {
 		return this.writeTo(dirPath, 'wiki');
 	};
 
-	writetoWikiXML = (dirPath) => {
+	writeToWikiXML = (dirPath, merge) => {
 		const baseName = path.basename(dirPath);
 		const filePath = path.join(dirPath, 'wiki_xml_import.xml');
 		return new Promise((resolve, reject) => {
@@ -157,40 +157,36 @@ class Bible {
 					reject([new Error(`El directorio ${baseName} no está accesible`)]);
 					return;
 				}
-			});
-			let xml = '<Pages>';
-			const writePar = (par) => {
-				const v = par.substring(0, par.indexOf(' '));
-				const p = par.substring(par.indexOf(' '));
-				const isNumber = !isNaN(parseInt(v));
-				const anchor = (isNumber ? 
-					`<Template Name="anchor"><Field Name="1">${v}</Field></Template>` : 
-					'');
-				const vers = (isNumber ? `&lt;small&gt;${v}&lt;/small&gt;` : '');
-				const text = (isNumber ? p : par);
-				xml += `${anchor}<Free_Text>${vers}${text}&lt;br&gt;</Free_Text>`;
-			};
-
-			this.biblebooks.forEach(book => {
-				book.chapters.forEach(chapter => {
-					let title = book.title.replace(/ /g,"_");
-					xml += `<Page Title="${title}_${chapter.title}">`;
-					chapter.pars.forEach(writePar);
-					chapter.sections.forEach(section => {
-						xml += `<Free_Text>== ${section.title} ==</Free_Text>`;
-						section.pars.forEach(writePar);
+				let files = [];
+				this.biblebooks.forEach((book, i) => {
+					const j = (merge ? 0 : i);
+					if (!files[j]) {
+						files[j] = {
+							chapters: [],
+							filePath: (merge ? filePath : 
+								path.join(dirPath, `${book.file}.xml`))
+						};
+					}
+					book.chapters.forEach(chapter => {
+						chapter.booktitle = book.title;
+						files[j].chapters.push(chapter);
 					});
-					xml += '</Page>'
 				});
-			});
-			xml += '</Pages>';
 
-			fs.writeFile(filePath, xml, 'utf-8', (err) => {
-				if (err) {
-					reject(err);
-					return;
-				}
-				resolve(null);
+				const promises = files.map(file => {
+					const p = this.writeFileToWikiXML(file.filePath,
+						file.chapters);
+					return reflectPromise(p);
+				});
+				Promise.all(promises)
+					.then((results) => {
+						const errors = results.filter(r => r.error != null);
+						if (errors.length === 0) {
+							resolve(null);
+						} else {
+							reject(errors);
+						}
+					});
 			});
 		});
 	};
@@ -225,6 +221,43 @@ class Bible {
 		});
 	};
 
+	writeFileToWikiXML = (filePath, chapters) => {
+		return new Promise((resolve, reject) => {
+			let xml = '<Pages>\r\n';
+			const writePar = (par) => {
+				const v = par.substring(0, par.indexOf(' '));
+				const p = par.substring(par.indexOf(' '));
+				const isNumber = !isNaN(parseInt(v));
+				const anchor = (isNumber ? 
+					`<Template Name="anchor"><Field Name="1">${v}</Field></Template>` : 
+					'');
+				const vers = (isNumber ? `&lt;small&gt;${v}&lt;/small&gt;` : '');
+				const text = (isNumber ? p : par);
+				xml += `${anchor}<Free_Text>${vers}${text}&lt;br&gt;</Free_Text>\r\n`;
+			};
+
+			chapters.forEach(chapter => {
+				let title = chapter.booktitle.replace(/ /g,"_");
+				xml += `<Page Title="${title}_${chapter.title}">\r\n`;
+				chapter.pars.forEach(writePar);
+				chapter.sections.forEach(section => {
+					xml += `<Free_Text>== ${section.title} ==</Free_Text>\r\n`;
+					section.pars.forEach(writePar);
+				});
+				xml += '</Page>\r\n'
+			});
+			xml += '</Pages>';
+
+			fs.writeFile(filePath, xml, 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
+			});
+		});
+	};
+
 	//***********************************************************************
 	// Help functions
 	//***********************************************************************
@@ -241,28 +274,28 @@ class Bible {
 					reject([new Error(`El directorio ${baseName} no está accesible`)]);
 					return;
 				}
-			});
-			var promises = [];
-			this.biblebooks.forEach(book => {
-				book.chapters.forEach(chapter => {
-					const filePath = path.join(dirPath, 
-						`${book.file}_${chapter.title}.${format}`);
-					let p;
-					if (format = 'wiki') {
-						p = this.writeFileToWiki(filePath, chapter);
-						promises.push(reflectPromise(p));
-					}
+				let promises = [];
+				this.biblebooks.forEach(book => {
+					book.chapters.forEach(chapter => {
+						const filePath = path.join(dirPath, 
+							`${book.file}_${chapter.title}.${format}`);
+						let p;
+						if (format = 'wiki') {
+							p = this.writeFileToWiki(filePath, chapter);
+							promises.push(reflectPromise(p));
+						}
+					});
 				});
+				Promise.all(promises)
+					.then((results) => {
+						const errors = results.filter(r => r.error != null);
+						if (errors.length === 0) {
+							resolve(null);
+						} else {
+							reject(errors);
+						}
+					});
 			});
-			Promise.all(promises)
-				.then((results) => {
-					const errors = results.filter(r => r.error != null);
-					if (errors.length === 0) {
-						resolve(null);
-					} else {
-						reject(errors);
-					}
-				});
 		});
 	};
 }

@@ -2,7 +2,7 @@
 
 {{anchor|LU_168_0}}
 
-{{anchor|LU_168_0_1}} POCO después del mediodía, Marta salió al encuentro de Jesús{0} cuando éste atravesaba la cima de la colina cerca de Betania. Su hermano Lázaro había muerto hacía cuatro días{1} y el domingo al anochecer había sido colocado en el sepulcro de la familia, situado en un extremo del jardín. Este mismo jueves por la mañana, habían hecho rodar la piedra a la entrada de la tumba.
+{{anchor|LU_168_0_1}} POCO después del mediodía, Marta salió al encuentro de Jesús<ref>''Marta se encuentra con Jesús'': Jn 11:20.</ref> cuando éste atravesaba la cima de la colina cerca de Betania. Su hermano Lázaro había muerto hacía cuatro días{1} y el domingo al anochecer había sido colocado en el sepulcro de la familia, situado en un extremo del jardín. Este mismo jueves por la mañana, habían hecho rodar la piedra a la entrada de la tumba.
 
 {{anchor|LU_168_0_2}} Cuando Marta y María enviaron a Jesús el aviso de la enfermedad de Lázaro, confiaban en que el Maestro haría algo al respecto. Sabían que su hermano estaba irremediablemente enfermo, y aunque apenas se atrevían a esperar que Jesús dejara su trabajo de enseñanza y predicación para venir a ayudarlos, tenían tanta confianza en su poder de curar las enfermedades, que pensaron que le bastaría con pronunciar las palabras curativas y Lázaro recuperaría inmediatamente la salud. Cuando Lázaro murió pocas horas después de que el mensajero saliera de Betania hacia Filadelfia, dedujeron que el Maestro no se había enterado de la enfermedad de su hermano hasta que fue demasiado tarde, hasta que ya estaba muerto desde hacía varias horas.
 
@@ -131,4 +131,8 @@
 {{anchor|LU_168_5_2}} Así pues, Lázaro se despidió apresuradamente de sus hermanas en Betania, huyó hacia Jericó, atravesó el Jordán, y no se permitió ningún largo descanso hasta haber llegado a Filadelfia. Lázaro conocía bien a Abner, y aquí se sentía a salvo de las intrigas asesinas del malvado sanedrín.
 
 {{anchor|LU_168_5_3}} Poco después de esto, Marta y María vendieron sus tierras de Betania y se reunieron con su hermano en Perea. Entretanto, Lázaro se había convertido en el tesorero de la iglesia de Filadelfia. Apoyó firmemente a Abner en su controversia con Pablo y la iglesia de Jerusalén, y murió finalmente, a los 67 años de edad, de la misma enfermedad que se lo había llevado en Betania cuando era más joven.
+
+== Referencias ==
+
+<references/>
 

@@ -335,6 +335,49 @@ class Book {
 		return this.writeTo(dirPath, 'wiki');
 	};
 
+	writeToWikiXML = (dirPath, merge) => {
+		const baseName = path.basename(dirPath);
+		const filePath = path.join(dirPath, 'wiki_xml_import.xml');
+		return new Promise((resolve, reject) => {
+			fs.access(dirPath, fs.constants.W_OK, (err) => {
+				if (err) {
+					reject([new Error(`El directorio ${baseName} no está accesible`)]);
+					return;
+				}
+				let files = [];
+				this.papers.forEach((paper, i) => {
+					const j = (merge ? 0 : i);
+					const index = paper.paper_index;
+					const stri = (index > 99 ? `${index}` : (i > 9 ? `0${index}` : 
+						`00${index}`));
+					const fp = path.join(dirPath, `Doc${stri}.xml`);
+					if (!files[j]) {
+						files[j] = {
+							papers: [],
+							filePath: (merge ? filePath : fp)
+						};
+					}
+					files[j].papers.push(paper);
+				});
+
+				const promises = files.map(file => {
+					const p = this.writeFileToWikiXML(file.filePath,
+						file.papers);
+					return reflectPromise(p);
+				});
+				Promise.all(promises)
+					.then((results) => {
+						const errors = results.filter(r => r.error != null);
+						if (errors.length === 0) {
+							resolve(null);
+						} else {
+							reject(errors);
+						}
+					});
+			});
+		});
+	};
+
 	writeFileToWiki = (filePath, paper) => {
 		return new Promise((resolve, reject) => {
 			let wiki = '', ptitle, error;
@@ -348,6 +391,11 @@ class Book {
 				reject(new Error(`${filePath}: ${error}`));
 				return;
 			}
+			const wfootnotes = (Array.isArray(paper.footnotes) &&
+				paper.footnotes.length > 0 ?
+				this.footnotesToWiki(paper.footnotes) : []);
+			let footnoteIndex = 0;
+
 			paper.sections.forEach(section => {
 				let ref, anchor, stitle;
 				if (!section.section_ref) {
@@ -375,10 +423,20 @@ class Book {
 					pref = par.par_ref.replace(/[:\.]/g,'_');
 					panchor = `{{anchor|LU_${pref}}}`;
 					pcontent = par.par_content.replace(/\*/g, '\'\'');
-					//TODO: añadir referencias
+					if (wfootnotes.length > 0 && 
+						footnoteIndex < wfootnotes.length &&
+						pcontent.indexOf(`{${footnoteIndex}}`) != -1) {
+						pcontent = pcontent.replace(`{${footnoteIndex}}`,
+							wfootnotes[footnoteIndex]);
+						footnoteIndex++;
+					}
 					wiki += `${panchor} ${pcontent}${end}`;
 				});
 			});
+
+			if (wfootnotes.length > 0) {
+				wiki += `== Referencias ==${end}<references/>${end}`;
+			}
 			if (error) {
 				reject(new Error(`${filePath}: ${error}`));
 				return;
@@ -391,6 +449,96 @@ class Book {
 				resolve(null);
 			});
 		});
+	};
+
+	writeFileToWikiXML = (filePath, papers) => {
+		return new Promise((resolve, reject) => {
+			let xml = '<Pages>\r\n';
+			let error;
+
+			papers.forEach(paper => {
+				if (!Array.isArray(paper.sections)) {
+					error = 'El documento no tiene secciones';
+				} else if (paper.sections.find(s => s.section_ref == null)) {
+					error = 'Una sección no tiene referencia';
+				} else if (paper.sections.find(s => !Array.isArray(s.pars))) {
+					error = 'Una sección no tiene párrafos';
+				} else if (!paper.paper_title) {
+					error = 'El documento no tiene título';
+				}
+
+				if (error) {
+					reject(new Error(`${filePath}: ${error}`));
+					return;
+				}
+
+				xml += `<Page Title="El_Libro_de_Urantia_Doc_${paper.paper_index}">\r\n`;
+				
+				const section0 = paper.sections.find(s => s.section_index === 0);
+				const ptitle = paper.paper_title.toUpperCase();
+				if (!section0) {
+					xml += `<Free_Text>== ${ptitle} ==</Free_Text>\r\n`;
+				}
+				
+				paper.sections.forEach(section => {
+					let ref, anchor, stitle;
+					ref = section.section_ref.replace(':', '_');
+					anchor = '<Template Name="anchor">' +
+						`<Field Name="1">LU_${ref}</Field>` +
+						'</Template>';
+					if (section.section_title) {
+						stitle = section.section_title.toUpperCase();
+						xml += `${anchor}<Free_Text>== ${stitle} ==</Free_Text>\r\n`;
+					} else {
+						xml += `${anchor}\r\n`;
+					}
+					if (section0 && section.section_index === 0) {
+						xml += `<Free_Text>== ${ptitle} ==</Free_Text>\r\n`;
+					}
+					section.pars.forEach(par => {
+						let pref, panchor, pcontent;
+						if (!par.par_ref || !par.par_content) {
+							error = 'Un párafo no tiene referencia o contenido';
+							return;
+						}
+						pref = par.par_ref.replace(/[:\.]/g,'_');
+						panchor = '<Template Name="anchor">' +
+							`<Field Name="1">LU_${pref}</Field>` +
+							'</Template>';
+						pcontent = par.par_content.replace(/\*/g, '\'\'');
+						//TODO: añadir referencias
+
+						xml += `${panchor}<Free_Text>&lt;p&gt;${pcontent}&lt;/p&gt;</Free_Text>\r\n`;
+					});
+				});
+				xml += '</Page>\r\n'
+			});
+
+			xml += '</Pages>';
+
+			if (error) {
+				reject(new Error(`${filePath}: ${error}`));
+				return;
+			}
+
+			fs.writeFile(filePath, xml, 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
+			});
+		});
+	};
+
+	footnotesToWiki = (footnotes) => {
+		return footnotes.map(f => {
+			return `<ref>${f.replace(/\*/g, '\'\'')}</ref>`;
+		});
+	};
+
+	footnotesToWikiXML = (footnotes) => {
+
 	};
 
 

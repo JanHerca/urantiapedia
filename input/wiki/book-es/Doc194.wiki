@@ -2,7 +2,7 @@
 
 {{anchor|LU_194_0}}
 
-{{anchor|LU_194_0_1}} ALREDEDOR DE la una, mientras los ciento veinte creyentes estaban orando, todos se dieron cuenta de una extraña presencia en la sala. Al mismo tiempo, todos estos discípulos se volvieron conscientes de un nuevo y profundo sentimiento de alegría, de seguridad y de confianza espirituales{0}. Esta nueva conciencia de fuerza espiritual fue seguida de inmediato por un poderoso impulso a salir y proclamar públicamente el evangelio del reino{1} y la buena nueva de que Jesús había resucitado de entre los muertos.
+{{anchor|LU_194_0_1}} ALREDEDOR DE la una, mientras los ciento veinte creyentes estaban orando, todos se dieron cuenta de una extraña presencia en la sala. Al mismo tiempo, todos estos discípulos se volvieron conscientes de un nuevo y profundo sentimiento de alegría, de seguridad y de confianza espirituales<ref>''La llegada del Espíritu de la Verdad'': Hch 2:1-3.</ref>. Esta nueva conciencia de fuerza espiritual fue seguida de inmediato por un poderoso impulso a salir y proclamar públicamente el evangelio del reino{1} y la buena nueva de que Jesús había resucitado de entre los muertos.
 
 {{anchor|LU_194_0_2}} Pedro se puso de pie y declaró que esto debía ser la llegada del Espíritu de la Verdad que el Maestro les había prometido, y propuso que fueran al templo para empezar a proclamar la buena nueva que les había sido confiada. Y todos hicieron lo que Pedro había sugerido.
 
@@ -139,4 +139,8 @@
 {{anchor|LU_194_4_12}} Esteban, el jefe de la colonia griega de los creyentes en Jesús de Jerusalén, se convirtió así en el primer mártir de la nueva fe y en la causa específica de la organización oficial de la iglesia cristiana primitiva. Los creyentes hicieron frente a esta nueva crisis reconociendo que ya no podían continuar como una secta dentro de la religión judía. Todos estuvieron de acuerdo en que debían separarse de los no creyentes. Un mes después de la muerte de Esteban, la iglesia de Jerusalén había sido organizada bajo la dirección de Pedro, y Santiago, el hermano de Jesús, había sido nombrado jefe titular.
 
 {{anchor|LU_194_4_13}} Entonces estallaron las nuevas e implacables persecuciones{48} por parte de los judíos, de manera que los instructores activos de la nueva religión acerca de Jesús, llamada posteriormente cristianismo en Antioquía{49}, salieron hasta los confines del imperio proclamando a Jesús. Antes de la época de Pablo, los griegos fueron los que se encargaron de difundir este mensaje. Estos primeros misioneros, así como los que vinieron después, siguieron los pasos del antiguo itinerario de Alejandro, dirigiéndose por el camino de Gaza y Tiro hasta Antioquía, luego desde Asia Menor hasta Macedonia, y después continuaron hasta Roma y las partes más distantes del imperio.
+
+== Referencias ==
+
+<references/>
 

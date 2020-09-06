@@ -24,7 +24,7 @@
 
 {{anchor|LU_60_1_8}} La costa del Pacífico, que habitualmente permaneció por encima del agua durante las inmersiones continentales, se hundió, a excepción de la parte sur de California y de una gran isla que entonces existía en lo que hoy es el Océano Pacífico. Este antiguo mar de California era rico en vida marina y se extendía hacia el este hasta unirse con la vieja cuenca marítima de la región del mediooeste norteamericano.
 
-{{anchor|LU_60_1_9}} Hace ''140.000.000'' de años, y con el único indicio de los dos antepasados pre-reptiles que se habían desarrollado en África durante la época anterior, los reptiles aparecieron ''repentinamente'' con todos sus atributos{0}. Se desarrollaron con rapidez, y pronto dieron nacimiento a los cocodrilos, a los reptiles con escamas y finalmente a las serpientes marinas y a los reptiles voladores. Sus antepasados de transición desaparecieron rápidamente.
+{{anchor|LU_60_1_9}} Hace ''140.000.000'' de años, y con el único indicio de los dos antepasados pre-reptiles que se habían desarrollado en África durante la época anterior, los reptiles aparecieron ''repentinamente'' con todos sus atributos<ref>''Los reptiles'': Gn 1:24.</ref>. Se desarrollaron con rapidez, y pronto dieron nacimiento a los cocodrilos, a los reptiles con escamas y finalmente a las serpientes marinas y a los reptiles voladores. Sus antepasados de transición desaparecieron rápidamente.
 
 {{anchor|LU_60_1_10}} Estos dinosaurios reptiles que evolucionaban con rapidez se convirtieron pronto en los reyes de esta época. Ponían huevos y se distinguían de todos los demás animales por tener un cerebro pequeño, que pesaba menos de medio kilo y tenía que controlar un cuerpo que más adelante llegó a pesar cuarenta toneladas. Pero los primeros reptiles eran más pequeños, carnívoros, y caminaban sobre sus patas traseras igual que los canguros. Tenían los huesos huecos como las aves y posteriormente sólo desarrollaron tres dedos en sus patas traseras, por lo que muchas de sus huellas fosilizadas se han confundido con las de aves gigantes. Los dinosaurios herbívoros evolucionaron más tarde. Caminaban sobre las cuatro patas y una rama de este grupo desarrolló una coraza protectora.
 
@@ -112,7 +112,7 @@
 
 {{anchor|LU_60_3_21}} Las pre-aves zancudas y nadadoras de las épocas anteriores no habían prosperado en el aire, ni tampoco los dinosaurios voladores. Fueron unas especies efímeras que se extinguieron pronto. Sufrieron también el mismo destino que los dinosaurios, la destrucción, pues tenían muy poca sustancia cerebral en comparación con el tamaño de su cuerpo. Esta segunda tentativa por producir unos animales que pudieran navegar en la atmósfera fracasó, al igual que el intento frustrado por producir los mamíferos durante esta época y una época anterior.
 
-{{anchor|LU_60_3_22}} Hace ''55.000.000'' de años, la marcha de la evolución estuvo marcada por la aparición ''repentina'' de la primera ''auténtica ave'',{1} una pequeña criatura parecida a la paloma, que fue la antecesora de todas las aves. Era el tercer tipo de criatura voladora que aparecía en la Tierra; surgió directamente del grupo de los reptiles, y no de los dinosaurios voladores contemporáneos ni de los tipos anteriores de aves terrestres dentadas. Por eso a este período se le conoce como la ''época de las aves'' así como la época de la decadencia de los reptiles.
+{{anchor|LU_60_3_22}} Hace ''55.000.000'' de años, la marcha de la evolución estuvo marcada por la aparición ''repentina'' de la primera ''auténtica ave'',<ref>''Las aves'': Gn 1:20-22.</ref> una pequeña criatura parecida a la paloma, que fue la antecesora de todas las aves. Era el tercer tipo de criatura voladora que aparecía en la Tierra; surgió directamente del grupo de los reptiles, y no de los dinosaurios voladores contemporáneos ni de los tipos anteriores de aves terrestres dentadas. Por eso a este período se le conoce como la ''época de las aves'' así como la época de la decadencia de los reptiles.
 
 == {{anchor|LU_60_4}} 4. EL FINAL DEL PERÍODO CRETÁCEO ==
 
@@ -129,4 +129,8 @@
 {{anchor|LU_60_4_6}} Así finaliza una larga era de la evolución mundial, que se extiende desde la primera aparición de la vida terrestre hasta los tiempos más recientes de los antepasados inmediatos de la especie humana y sus ramas colaterales. Esta época, llamada ''Cretácea'', abarca cincuenta millones de años y pone fin a la era premamífera de la vida terrestre, que se prolonga durante un período de cien millones de años y se conoce con el nombre de ''Mesozoica''.
 
 {{anchor|LU_60_4_7}} [Presentado por un Portador de Vida de Nebadon asignado a Satania, y que ahora ejerce su actividad en Urantia.]
+
+== Referencias ==
+
+<references/>
 

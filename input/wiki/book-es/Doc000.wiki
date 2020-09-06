@@ -92,7 +92,7 @@
 
 {{anchor|LU_0_2_11}} La palabra DIOS se utiliza en estos documentos con los siguientes significados:
 
-{{anchor|LU_0_2_12}} 1. ''Dios Padre'' —Creador{0}, Controlador{1} y Sostén{2}. El Padre Universal, la Primera Persona de la Deidad.
+{{anchor|LU_0_2_12}} 1. ''Dios Padre'' —Creador<ref>''Dios como Creador de todo'': Gn 1:1-27; 2:4-23; Ex 20:11; Neh 9:6; Sal 146:6; Is 42:5; Jer 51:15-16; Mc 13:19; Jn 1:1-3; Hch 4:24; 14:15; Ef 3:9; Col 1:16; 1 P 4:19; Ap 4:11; 10:6. ''Dios como Creador de cielo y tierra'': Ex 31:17; 2 Re 19:15; 2 Cr 2:12; Sal 115:15-16; 121:2; 124:8; 134:3; Is 37:16; 45:12-18; Jer 10:11-12; 32:17; Ap 14:7. ''Dios como Creador del hombre y la mujer'': Gn 5:1-2. ''Dios como Creador del hombre'': Eclo 33:10; Mal 2:10. ''Dios como Creador de la Tierra'': Is 40:26,28; Am 4:13. ''Dios como Creador de la Sabiduría'': Eclo 1:1-4; Bar 3:32-36. ''Dios como creador de mundos'': Heb 1:2.</ref>, Controlador{1} y Sostén{2}. El Padre Universal, la Primera Persona de la Deidad.
 
 {{anchor|LU_0_2_13}} 2. ''Dios Hijo'' —Creador Coordinado, Controlador del Espíritu y Administrador Espiritual. El Hijo Eterno, la Segunda Persona de la Deidad.
 
@@ -369,4 +369,8 @@
 {{anchor|LU_0_12_13}} Conocemos plenamente las dificultades de nuestra misión; reconocemos la imposibilidad de traducir completamente el lenguaje de los conceptos de la divinidad y de la eternidad a los símbolos lingüísticos de los conceptos finitos de la mente mortal. Pero sabemos que un fragmento de Dios vive en la mente humana y que el Espíritu de la Verdad reside con el alma humana; y sabemos también que estas fuerzas espirituales conspiran para permitir que el hombre material capte la realidad de los valores espirituales y comprenda la filosofía de los significados universales. Pero sabemos incluso con mayor seguridad que estos espíritus de la Presencia Divina son capaces de ayudar al hombre para que se apropie espiritualmente de toda verdad que contribuya a realzar la realidad siempre en progreso de la experiencia religiosa personal —la conciencia de Dios.
 
 {{anchor|LU_0_12_14}} [Redactado por un Consejero Divino de Orvonton, Jefe del Cuerpo de las Personalidades Superuniversales designadas para describir, en Urantia, la verdad sobre las Deidades del Paraíso y el universo de universos.]
+
+== Referencias ==
+
+<references/>
 

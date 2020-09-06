@@ -8,7 +8,7 @@
 
 == {{anchor|LU_175_1}} 1. EL DISCURSO ==
 
-{{anchor|LU_175_1_1}} «He estado con vosotros durante mucho tiempo, recorriendo el país de un lado a otro, y proclamando el amor del Padre por los hijos de los hombres. Muchos han visto la luz y han entrado, por la fe, en el reino de los cielos. En conexión con esta enseñanza y esta predicación, el Padre ha realizado muchas obras maravillosas, llegando incluso a resucitar a los muertos{0}. Muchos enfermos y afligidos han recuperado la salud porque creían{1}; pero toda esta proclamación de la verdad y esta curación de enfermedades no ha abierto los ojos a aquellos que se niegan a ver la luz, a aquellos que están decididos a rechazar este evangelio del reino».
+{{anchor|LU_175_1_1}} «He estado con vosotros durante mucho tiempo, recorriendo el país de un lado a otro, y proclamando el amor del Padre por los hijos de los hombres. Muchos han visto la luz y han entrado, por la fe, en el reino de los cielos. En conexión con esta enseñanza y esta predicación, el Padre ha realizado muchas obras maravillosas, llegando incluso a resucitar a los muertos<ref>''Resurrección de los muertos'': Jn 11:41-44.</ref>. Muchos enfermos y afligidos han recuperado la salud porque creían{1}; pero toda esta proclamación de la verdad y esta curación de enfermedades no ha abierto los ojos a aquellos que se niegan a ver la luz, a aquellos que están decididos a rechazar este evangelio del reino».
 
 {{anchor|LU_175_1_2}} «De todas las maneras compatibles con la realización de la voluntad de mi Padre, mis apóstoles y yo hemos hecho todo lo posible por vivir en paz con nuestros hermanos, por cumplir con las exigencias razonables de las leyes de Moisés y de las tradiciones de Israel. Hemos buscado la paz constantemente, pero los dirigentes de Israel no la quieren. Al rechazar la verdad de Dios y la luz del cielo, se alinean al lado del error y de las tinieblas. No puede haber paz entre la luz y las tinieblas, entre la vida y la muerte, entre la verdad y el error».
 
@@ -105,4 +105,8 @@
 {{anchor|LU_175_4_14}} Un pequeño grupo de saduceos había llegado a proponer que se deshicieran de Jesús mediante el asesinato, pero los fariseos se negaron terminantemente a apoyar este procedimiento.
 
 {{anchor|LU_175_4_15}} Ésta era la situación en Jerusalén y entre los hombres en este día lleno de acontecimientos, mientras una enorme multitud de seres celestiales se cernía sobre esta importante escena en la Tierra, impacientes por hacer algo para ayudar a su amado Soberano, pero sin poder actuar porque los superiores que los dirigían se lo habían prohibido expresamente.
+
+== Referencias ==
+
+<references/>
 
