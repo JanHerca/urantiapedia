@@ -1,0 +1,172 @@
+<noinclude>
+== Modo de uso ==
+Plantilla para convertir una abreviatura de la Biblia en el nombre de la página dentro de la wiki:
+
+<pre>
+{{#switch: {{{1|}}}
+| Gn = Génesis
+| Ex = Éxodo
+| Lv = Levítico
+| Nm = Números
+| Dt = Deuteronomio
+| Jos = Josué
+| Jue = Jueces
+| Rt = Rut
+| 1 S = Samuel_I
+| 2 S = Samuel_II
+| 1 R = Reyes_I
+| 2 R = Reyes II
+| 1 Cr = Crónicas_I
+| 2 Cr = Crónicas_II
+| Esd = Esdras
+| Neh = Nehemías
+| Est = Ester
+| 1 Mac = Macabeos_I
+| 2 Mac = Macabeos_II
+| Job = Job
+| Sal = Salmos
+| Pr = Proverbios
+| Ec = Eclesiastés
+| Cnt = Cantar_de_los_Cantares
+| Eclo = Eclesiásitco
+| Sab = Sabiduría
+| Is = Isaías
+| Jer = Jeremías
+| Lm = Lamentaciones_de_Jeremías
+| Bar = Baruc
+| Ez = Ezequiel
+| Dn = Daniel
+| Os = Oseas
+| Jl = Joel
+| Am = Amós
+| Abd = Abdías
+| Jon = Jonás
+| Miq = Miqueas
+| Nah = Nahum
+| Hab = Habacuc
+| Sof = Sofonías
+| Hag = Hageo
+| Zac = Zacarías
+| Mal = Malaquías
+| Mt = Evangelio_de_Mateo
+| Mc = Evangelio_de_Marcos
+| Lc = Evangelio_de_Lucas
+| Jn = Evangelio_de_Juan
+| Hch = Hechos_de_los_Apóstoles
+| Ro = Epístola_a_los_Romanos
+| 1 Co = Epístola_a_los_Corintios_I
+| 2 Co = Epístola_a_los_Corintios_II
+| Gl = Epístola_a_los_Gálatas
+| Ef = Epístola_a_los_Efesios
+| Flp = Epístola_a_los_Filipenses
+| Col = Epístola_a_los_Colosenses
+| 1 Ts = Epístola_a_los_Tesalonicenses_I
+| 2 Ts = Epístola_a_los_Tesalonicenses_II
+| 1 Ti = Epístola_a_Timoteo_I
+| 2 Ti = Epístola_a_Timoteo_II
+| Tit = Epístola_a_Tito
+| Flm = Epístola_a_Filemón
+| Heb = Epístola_a_los_Hebreos
+| Stg = Epístola_de_Santiago
+| 1 P = Epístola_de_Pedro_I
+| 2 P = Epístola_de_Pedro_II
+| 1 Jn = Epístola_de_Juan_I
+| 2 Jn = Epístola_de_Juan_II
+| 3 Jn = Epístola_de_Juan_III
+| Jud = Epístola_de_Judas
+| Ap = Apocalipsis_de_Juan
+| Bel = Historia_de_Bel_y_el_Dragón
+| Man = Oración_de_Manasés
+| Tb = Tobit
+| 1 Hen = Enoc
+| AsMo = Asunción_de_Moisés
+}}
+</pre>
+
+Ejemplos:
+<pre>{{bibliaab|Gn}}</pre> da como resultado: Génesis
+
+<pre>{{bibliaab|1 Ts}}</pre> da como resultado: Epístola_a_los_Tesalonicenses_I
+
+Hay que tener cuidado de que siempre requiere un parámetro.
+
+</noinclude>
+
+{{#switch: {{{1|}}}
+| Gn = Génesis
+| Ex = Éxodo
+| Lv = Levítico
+| Nm = Números
+| Dt = Deuteronomio
+| Jos = Josué
+| Jue = Jueces
+| Rt = Rut
+| 1 S = Samuel_I
+| 2 S = Samuel_II
+| 1 R = Reyes_I
+| 2 R = Reyes II
+| 1 Cr = Crónicas_I
+| 2 Cr = Crónicas_II
+| Esd = Esdras
+| Neh = Nehemías
+| Est = Ester
+| 1 Mac = Macabeos_I
+| 2 Mac = Macabeos_II
+| Job = Job
+| Sal = Salmos
+| Pr = Proverbios
+| Ec = Eclesiastés
+| Cnt = Cantar_de_los_Cantares
+| Eclo = Eclesiásitco
+| Sab = Sabiduría
+| Is = Isaías
+| Jer = Jeremías
+| Lm = Lamentaciones_de_Jeremías
+| Bar = Baruc
+| Ez = Ezequiel
+| Dn = Daniel
+| Os = Oseas
+| Jl = Joel
+| Am = Amós
+| Abd = Abdías
+| Jon = Jonás
+| Miq = Miqueas
+| Nah = Nahum
+| Hab = Habacuc
+| Sof = Sofonías
+| Hag = Hageo
+| Zac = Zacarías
+| Mal = Malaquías
+| Mt = Evangelio_de_Mateo
+| Mc = Evangelio_de_Marcos
+| Lc = Evangelio_de_Lucas
+| Jn = Evangelio_de_Juan
+| Hch = Hechos_de_los_Apóstoles
+| Ro = Epístola_a_los_Romanos
+| 1 Co = Epístola_a_los_Corintios_I
+| 2 Co = Epístola_a_los_Corintios_II
+| Gl = Epístola_a_los_Gálatas
+| Ef = Epístola_a_los_Efesios
+| Flp = Epístola_a_los_Filipenses
+| Col = Epístola_a_los_Colosenses
+| 1 Ts = Epístola_a_los_Tesalonicenses_I
+| 2 Ts = Epístola_a_los_Tesalonicenses_II
+| 1 Ti = Epístola_a_Timoteo_I
+| 2 Ti = Epístola_a_Timoteo_II
+| Tit = Epístola_a_Tito
+| Flm = Epístola_a_Filemón
+| Heb = Epístola_a_los_Hebreos
+| Stg = Epístola_de_Santiago
+| 1 P = Epístola_de_Pedro_I
+| 2 P = Epístola_de_Pedro_II
+| 1 Jn = Epístola_de_Juan_I
+| 2 Jn = Epístola_de_Juan_II
+| 3 Jn = Epístola_de_Juan_III
+| Jud = Epístola_de_Judas
+| Ap = Apocalipsis_de_Juan
+| Bel = Historia_de_Bel_y_el_Dragón
+| Man = Oración_de_Manasés
+| Tb = Tobit
+| 1 Hen = Enoc
+| AsMo = Asunción_de_Moisés
+}}

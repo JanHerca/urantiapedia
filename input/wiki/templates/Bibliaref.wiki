@@ -1,0 +1,23 @@
+<noinclude>
+== Modo de uso ==
+Plantilla para incluir un enlace a un versículo de la Biblia:
+
+<pre>
+{{#if: {{{4}}} 
+| [[ {{ bibliaab | {{{1}}} }}_{{{2}}}#{{{3}}} | {{{1}}} {{{4}}} ]]
+| [[ {{ bibliaab | {{{1}}} }}_{{{2}}}#{{{3}}} | {{{1}}} {{{2}}}:{{{3}}} ]]
+}}
+</pre>
+
+Ejemplos:
+<pre>{{bibliaref|Gn|1|1|1:1-4}}</pre> da como resultado: [[Génesis_1#1 | Gn 1:1-4]]
+
+<pre>{{bibliaref|1 Ts|1|5|}}</pre> da como resultado: [[Epístola_a_los_Tesalonicenses_I_1#5 | 1 Ts 1:5]]
+
+Hay que tener cuidado de que siempre requiere cuatro parámetros.
+
+</noinclude>
+
+[[ {{ bibliaab | {{{1}}} }}_{{{2}}}#{{{3}}} ]]
+
+[[ {{ bibliaab | {{{1}}} }}_{{{2}}}#{{{3}}} | {{{4}}} ]]

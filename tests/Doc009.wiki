@@ -8,7 +8,7 @@
 
 {{anchor|LU_9_0_3}} El Espíritu Infinito, el Creador Conjunto, es un ministro universal y divino. El Espíritu administra sin cesar la misericordia del Hijo y el amor del Padre, en armonía con la justicia estable, invariable y recta de la Trinidad del Paraíso. Su influencia y sus personalidades siempre están cerca de vosotros; os conocen realmente y os comprenden verdaderamente.
 
-{{anchor|LU_9_0_4}} En todos los universos, los agentes del Actor Conjunto manipulan sin cesar las fuerzas y las energías de todo el espacio. Al igual que la Fuente-Centro Primera, el Centro Tercero es sensible tanto a lo espiritual como a lo material. El Actor Conjunto es la revelación de la unidad de Dios, en quien todas las cosas consisten<ref name="n0" /> —cosas, significados y valores; energías, mentes y espíritus.
+{{anchor|LU_9_0_4}} En todos los universos, los agentes del Actor Conjunto manipulan sin cesar las fuerzas y las energías de todo el espacio. Al igual que la Fuente-Centro Primera, el Centro Tercero es sensible tanto a lo espiritual como a lo material. El Actor Conjunto es la revelación de la unidad de Dios, en quien todas las cosas consisten<ref name="n0"/> —cosas, significados y valores; energías, mentes y espíritus.
 
 {{anchor|LU_9_0_5}} El Espíritu Infinito impregna todo el espacio; habita el círculo de la eternidad; y el Espíritu, al igual que el Padre y el Hijo, es perfecto e invariable —absoluto.
 
@@ -32,7 +32,7 @@
 
 == {{anchor|LU_9_2}} 2. EL ESPÍRITU OMNIPRESENTE ==
 
-{{anchor|LU_9_2_1}} Dios es espíritu<ref name="n1" /> en un sentido triple: él mismo es espíritu; en su Hijo aparece como un espíritu sin restricción y en el Actor Conjunto como un espíritu aliado a la mente. Además de estas realidades espirituales, creemos discernir unos niveles de fenómenos espirituales experienciales —los espíritus del Ser Supremo, de la Deidad Última y del Absoluto de la Deidad.
+{{anchor|LU_9_2_1}} Dios es espíritu<ref name="n1"/> en un sentido triple: él mismo es espíritu; en su Hijo aparece como un espíritu sin restricción y en el Actor Conjunto como un espíritu aliado a la mente. Además de estas realidades espirituales, creemos discernir unos niveles de fenómenos espirituales experienciales —los espíritus del Ser Supremo, de la Deidad Última y del Absoluto de la Deidad.
 
 {{anchor|LU_9_2_2}} El Espíritu Infinito complementa al Hijo Eterno como el Hijo complementa al Padre Universal. El Hijo Eterno es una personalización espiritualizada del Padre; el Espíritu Infinito es una espiritualización personalizada del Hijo Eterno y del Padre Universal.
 
@@ -181,7 +181,7 @@
 <references>
 <ref name="n0">''En Dios todas las cosas consisten'': {{lib|Hch|17|28}}; {{lib|Col|1|17,19}}.</ref>
 <ref name="n1">''Dios es espíritu'': {{lib|Jn|4|24}}.</ref>
-<ref name="n2">''La mente del Espíritu'': {{lib|Ro|8|27}}; {{lib|Ro|11|34}}; {{lib|1 Co|2|16}}; {{lib|Ef|4|23}}; {{lib|Flp|2|5}}.</ref>
+<ref name="n2">''La mente del Espíritu'': {{lib|Ro|8|27}}; {{lib|Ro|11|34}}; {{lib|1|Co 2|16}}; {{lib|Ef|4|23}}; {{lib|Flp|2|5}}.</ref>
 <ref name="n3">''Dios consciente de cada mente'': {{lib|Sab|1|6-7}}.</ref>
 <ref name="n4">''Atracción de la mente'': {{lib|Jer|31|3}}; {{lib|Jn|6|44}}; {{lib|Jn|12|32}}.</ref>
 </references>

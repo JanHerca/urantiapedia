@@ -427,7 +427,7 @@ class Book {
 						footnoteIndex < wfootnotes.length &&
 						pcontent.indexOf(`{${footnoteIndex}}`) != -1) {
 						pcontent = pcontent.replace(`{${footnoteIndex}}`,
-							wfootnotes[footnoteIndex]);
+							`<ref name="n${footnoteIndex}"/>`);
 						footnoteIndex++;
 					}
 					wiki += `${panchor} ${pcontent}${end}`;
@@ -435,7 +435,9 @@ class Book {
 			});
 
 			if (wfootnotes.length > 0) {
-				wiki += `== Referencias ==${end}<references/>${end}`;
+				wiki += `== Referencias ==${end}<references>\r\n`;
+				wfootnotes.forEach(f => wiki += f);
+				wiki += '</references>'
 			}
 			if (error) {
 				reject(new Error(`${filePath}: ${error}`));
@@ -532,8 +534,38 @@ class Book {
 	};
 
 	footnotesToWiki = (footnotes) => {
-		return footnotes.map(f => {
-			return `<ref>${f.replace(/\*/g, '\'\'')}</ref>`;
+		return footnotes.map((f, n) => {
+			let wiki, text, fs, ab, ref, chapter, vers;
+			if (f.indexOf(':')) {
+				text = f.substring(0, f.indexOf(':'));
+				fs = f.substring(f.indexOf(':') + 1).split(';');
+			} else {
+				return 'FOOTNOTE ERROR';
+			}
+			wiki = `<ref name="n${n}">${text.replace(/\*/g, '\'\'')}:`;
+			fs.forEach((fss, i) => {
+				fss = fss.trim();
+				if (fss[fss.length - 1] == '.') {
+					fss = fss.substring(0, fss.length - 1);
+				}
+				chapter = null;
+				vers = null;
+				if (fss.indexOf(' ') != -1) {
+					ab = fss.substring(0, fss.indexOf(' '));
+					ref = fss.substring(fss.indexOf(' ') + 1);
+				} else {
+					ref = fss;
+				}
+				if (ref.indexOf(':')) {
+					chapter = ref.substring(0, ref.indexOf(':'));
+					vers = ref.substring(ref.indexOf(':') + 1);
+				}
+				wiki += (chapter && vers ? ` {{lib|${ab}|${chapter}|${vers}}}` :
+					` {{lib|${ab}|1}}`);
+				wiki += (i != fs.length - 1 ? ';' : '');
+			});
+			wiki += '.</ref>\r\n';
+			return wiki;
 		});
 	};
 
