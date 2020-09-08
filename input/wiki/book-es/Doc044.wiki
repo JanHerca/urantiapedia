@@ -12,7 +12,7 @@
 
 {{anchor|LU_44_0_5}} Todos los artesanos celestiales están registrados en la sede del superuniverso, pero en las capitales de los universos locales son dirigidos por los supervisores morontiales. El cuerpo central de los supervisores morontiales, que ejerce su actividad en el mundo sede de cada universo local, los pone en servicio en las siete divisiones principales de actividad siguientes:
 
-{{anchor|LU_44_0_6}} 1. Los Músicos Celestiales<ref>''Músicos celestiales'': Sal 66:1-2.</ref>.
+{{anchor|LU_44_0_6}} 1. Los Músicos Celestiales<ref name="n0"/>.
 
 {{anchor|LU_44_0_7}} 2. Los Reproductores Celestiales.
 
@@ -78,7 +78,7 @@
 
 == {{anchor|LU_44_2}} 2. LOS REPRODUCTORES CELESTIALES ==
 
-{{anchor|LU_44_2_1}} El hombre mortal apenas puede esperar algo más que un concepto pobre y deformado sobre las actividades de los reproductores celestiales, un concepto que debo intentar ilustrar mediante el simbolismo burdo y limitado de vuestro lenguaje material. El mundo morontio-espiritual posee mil y una cosas que tienen un valor supremo, cosas dignas de ser reproducidas pero que son desconocidas en Urantia, experiencias que pertenecen a la categoría de las actividades que difícilmente han «penetrado en la mente del hombre»<ref>''Penetrado en la mente del hombre'': Is 64:4; 1 Co 2:9.</ref>, esas realidades que Dios tiene en espera para aquellos que sobrevivan a la vida en la carne.
+{{anchor|LU_44_2_1}} El hombre mortal apenas puede esperar algo más que un concepto pobre y deformado sobre las actividades de los reproductores celestiales, un concepto que debo intentar ilustrar mediante el simbolismo burdo y limitado de vuestro lenguaje material. El mundo morontio-espiritual posee mil y una cosas que tienen un valor supremo, cosas dignas de ser reproducidas pero que son desconocidas en Urantia, experiencias que pertenecen a la categoría de las actividades que difícilmente han «penetrado en la mente del hombre»<ref name="n1"/>, esas realidades que Dios tiene en espera para aquellos que sobrevivan a la vida en la carne.
 
 {{anchor|LU_44_2_2}} Hay siete grupos de reproductores celestiales, y voy a intentar ilustrar su trabajo clasificándolos de la manera siguiente:
 
@@ -102,7 +102,7 @@
 
 == {{anchor|LU_44_3}} 3. LOS CONSTRUCTORES DIVINOS ==
 
-{{anchor|LU_44_3_1}} Hay ciudades «cuyo constructor y hacedor es Dios»<ref>''Cuyo constructor y hacedor es Dios'': 2 Co 5:1; Heb 11:10.</ref>. Poseemos la contrapartida espiritual de todo aquello con que estáis familiarizados los mortales, e indeciblemente más. Tenemos hogares, comodidades espirituales y las cosas morontiales necesarias. Por cada satisfacción material que los humanos pueden disfrutar, tenemos miles de realidades espirituales que sirven para enriquecer y desarrollar nuestra existencia. Los constructores divinos ejercen su actividad en siete grupos:
+{{anchor|LU_44_3_1}} Hay ciudades «cuyo constructor y hacedor es Dios»<ref name="n2"/>. Poseemos la contrapartida espiritual de todo aquello con que estáis familiarizados los mortales, e indeciblemente más. Tenemos hogares, comodidades espirituales y las cosas morontiales necesarias. Por cada satisfacción material que los humanos pueden disfrutar, tenemos miles de realidades espirituales que sirven para enriquecer y desarrollar nuestra existencia. Los constructores divinos ejercen su actividad en siete grupos:
 
 {{anchor|LU_44_3_2}} 1. ''Los diseñadores y constructores de hogares'' —aquellos que construyen y transforman las residencias asignadas a los individuos y a los grupos de trabajo. Estos domicilios morontiales y espirituales son reales. Serían invisibles para vuestra visión limitada, pero son muy reales y muy hermosos para nosotros. Hasta cierto punto, todos los seres espirituales pueden compartir con los constructores ciertos detalles sobre la planificación y la creación de sus moradas morontiales o espirituales. Estos hogares están equipados y adornados de acuerdo con las necesidades de las criaturas morontiales o espirituales que van a habitarlos. En todas estas construcciones, los individuos encuentran una variedad abundante y amplias oportunidades para poder expresarse.
 
@@ -126,7 +126,7 @@
 
 {{anchor|LU_44_4_2}} 1. ''Los conservadores del pensamiento''. Son los artesanos que se dedican a conservar el pensamiento superior de los reinos. En los mundos morontiales, atesoran realmente las joyas de la actividad intelectual. Antes de venir por primera vez a Urantia, vi los registros y escuché las transmisiones de la ideación de algunas grandes mentes de este planeta. Los registradores del pensamiento conservan estas nobles ideas en la lengua de Uversa.
 
-{{anchor|LU_44_4_3}} Cada superuniverso tiene su propio idioma, una lengua hablada por sus personalidades y que predomina en todos sus sectores. En nuestro superuniverso se la conoce como la lengua de Uversa. Cada universo local tiene también su propio idioma. Todas las órdenes superiores de Nebadon son bilingües, y hablan tanto el idioma de Nebadon como la lengua de Uversa. Cuando dos individuos de diferentes universos locales se encuentran, se comunican en la lengua de Uversa; sin embargo, si uno de ellos procede de otro superuniverso, tienen que recurrir a un traductor. En el universo central hay poca necesidad de un idioma; allí existe una comprensión perfecta y casi completa; los Dioses son los únicos que no son allí plenamente comprendidos. Nos enseñan que un encuentro casual en el Paraíso revela una comprensión mutua mayor que la que se podría comunicar mediante una lengua humana en mil años. Incluso en Salvington «conocemos de igual forma que somos conocidos»<ref>''Conocemos como somos conocidos'': Jn 10:15; 1 Co 13:12.</ref>.
+{{anchor|LU_44_4_3}} Cada superuniverso tiene su propio idioma, una lengua hablada por sus personalidades y que predomina en todos sus sectores. En nuestro superuniverso se la conoce como la lengua de Uversa. Cada universo local tiene también su propio idioma. Todas las órdenes superiores de Nebadon son bilingües, y hablan tanto el idioma de Nebadon como la lengua de Uversa. Cuando dos individuos de diferentes universos locales se encuentran, se comunican en la lengua de Uversa; sin embargo, si uno de ellos procede de otro superuniverso, tienen que recurrir a un traductor. En el universo central hay poca necesidad de un idioma; allí existe una comprensión perfecta y casi completa; los Dioses son los únicos que no son allí plenamente comprendidos. Nos enseñan que un encuentro casual en el Paraíso revela una comprensión mutua mayor que la que se podría comunicar mediante una lengua humana en mil años. Incluso en Salvington «conocemos de igual forma que somos conocidos»<ref name="n3"/>.
 
 {{anchor|LU_44_4_4}} La capacidad para traducir el pensamiento a un idioma en las esferas morontiales y espirituales sobrepasa la comprensión de los mortales. La velocidad a la que reducimos el pensamiento a un registro permanente puede ser acelerada por los expertos registradores de tal manera que en un minuto del tiempo de Urantia se puede registrar el equivalente de más de medio millón de palabras o símbolos de pensamiento. Estos idiomas universales son mucho más ricos que las lenguas de los mundos en evolución. Los símbolos conceptuales de Uversa abarcan más de mil millones de caracteres, aunque su alfabeto básico sólo contiene setenta símbolos. El idioma de Nebadon no es en absoluto tan elaborado, pues sus símbolos básicos, o alfabeto, sólo ascienden a cuarenta y ocho.
 
@@ -162,7 +162,7 @@
 
 {{anchor|LU_44_5_7}} 6. ''Los expertos en las comunicaciones''. Doce técnicos en comunicaciones interplanetarias e interuniversales están igualmente de servicio en Urantia. Estos seres tan experimentados son unos expertos en el conocimiento de las leyes que gobiernan las transmisiones y las interferencias tal como éstas se aplican a las comunicaciones de los reinos. Este cuerpo se ocupa de todas las formas de mensajes espaciales, salvo de aquellos de los Mensajeros de Gravedad y de los Mensajeros Solitarios. En Urantia, una gran parte de su trabajo ha de realizarse a través del circuito de los arcángeles.
 
-{{anchor|LU_44_5_8}} 7. ''Los profesores del descanso''. El descanso divino<ref>''Descanso divino y físico'': Gn 2:2-3; Ex 20:11; Lv 25:4-5.</ref> está asociado a la técnica de la absorción de la energía espiritual. La energía morontial y espiritual ha de reponerse tan ciertamente como la energía física, pero no por las mismas razones. Me veo obligado a emplear forzosamente unos ejemplos rudimentarios en mis intentos por iluminaros; sin embargo, nosotros, los del mundo espiritual, debemos interrumpir periódicamente nuestras actividades regulares y trasladarnos a los lugares adecuados de reunión donde entramos en el descanso divino y recuperamos así nuestras energías agotadas.
+{{anchor|LU_44_5_8}} 7. ''Los profesores del descanso''. El descanso divino<ref name="n4"/> está asociado a la técnica de la absorción de la energía espiritual. La energía morontial y espiritual ha de reponerse tan ciertamente como la energía física, pero no por las mismas razones. Me veo obligado a emplear forzosamente unos ejemplos rudimentarios en mis intentos por iluminaros; sin embargo, nosotros, los del mundo espiritual, debemos interrumpir periódicamente nuestras actividades regulares y trasladarnos a los lugares adecuados de reunión donde entramos en el descanso divino y recuperamos así nuestras energías agotadas.
 
 {{anchor|LU_44_5_9}} Recibiréis vuestras primeras lecciones en estas materias cuando lleguéis a los mundos de las mansiones después de haberos convertido en seres morontiales y de haber empezado a experimentar la técnica de los asuntos espirituales. Sabéis algunas cosas sobre el círculo más interior de Havona y que, después de que los peregrinos del espacio han atravesado los círculos precedentes, deben ser inducidos al largo descanso revivificante del Paraíso. Esto no es solamente un requisito técnico para pasar de la carrera del tiempo al servicio de la eternidad, sino que es también una necesidad, una forma de descanso necesaria para reponer las pérdidas energéticas inherentes a las etapas finales de la experiencia ascendente, y almacenar las reservas de poder espiritual para la fase siguiente de la carrera sin fin.
 
@@ -170,7 +170,7 @@
 
 == {{anchor|LU_44_6}} 6. LOS DISEÑADORES Y LOS EMBELLECEDORES ==
 
-{{anchor|LU_44_6_1}} ¡Cómo desearía saber la manera de describir el trabajo exquisito de estos artesanos únicos! Todo intento por mi parte por explicar el trabajo del embellecimiento espiritual<ref>''Embellecedores'': 1 Cr 29:2; Is 54:11-12.</ref> sólo haría recordar a la mente material vuestros propios esfuerzos lamentables, pero meritorios, por llevar a cabo estas cosas en vuestro mundo de mente y de materia.
+{{anchor|LU_44_6_1}} ¡Cómo desearía saber la manera de describir el trabajo exquisito de estos artesanos únicos! Todo intento por mi parte por explicar el trabajo del embellecimiento espiritual<ref name="n5"/> sólo haría recordar a la mente material vuestros propios esfuerzos lamentables, pero meritorios, por llevar a cabo estas cosas en vuestro mundo de mente y de materia.
 
 {{anchor|LU_44_6_2}} Aunque este cuerpo abarca más de mil subdivisiones de actividad, está agrupado en las siete categorías principales siguientes:
 
@@ -216,5 +216,11 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Músicos celestiales'': {{lib|Sal|66|1-2}}. </ref>
+<ref name="n1">''Penetrado en la mente del hombre'': {{lib|Is|64|4}}; {{lib|1 Co|2|9}}. </ref>
+<ref name="n2">''Cuyo constructor y hacedor es Dios'': {{lib|2 Co|5|1}}; {{lib|Heb|11|10}}. </ref>
+<ref name="n3">''Conocemos como somos conocidos'': {{lib|Jn|10|15}}; {{lib|1 Co|13|12}}. </ref>
+<ref name="n4">''Descanso divino y físico'': {{lib|Gn|2|2-3}}; {{lib|Ex|20|11}}; {{lib|Lv|25|4-5}}. </ref>
+<ref name="n5">''Embellecedores'': {{lib|1 Cr|29|2}}; {{lib|Is|54|11-12}}. </ref>
+</references>

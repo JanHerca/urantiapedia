@@ -180,7 +180,8 @@ class Bible {
 				});
 				Promise.all(promises)
 					.then((results) => {
-						const errors = results.filter(r => r.error != null);
+						const errors = [];
+						results.forEach(r => extendArray(errors, r.error));
 						if (errors.length === 0) {
 							resolve(null);
 						} else {
@@ -288,7 +289,8 @@ class Bible {
 				});
 				Promise.all(promises)
 					.then((results) => {
-						const errors = results.filter(r => r.error != null);
+						const errors = [];
+						results.forEach(r => extendArray(errors, r.error));
 						if (errors.length === 0) {
 							resolve(null);
 						} else {

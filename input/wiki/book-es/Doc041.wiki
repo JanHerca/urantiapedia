@@ -20,7 +20,7 @@
 
 {{anchor|LU_41_1_4}} Diez Centros Supremos de Poder de la quinta orden están asignados a cada una de las subdivisiones primarias de Nebadon, a las cien constelaciones. En vuestra constelación, Norlatiadek, no están estacionados en la esfera sede, sino que están situados en el centro del enorme sistema estelar que constituye el núcleo físico de la constelación. En Edentia hay diez controladores maquinales asociados y diez frandalanks que están en conexión perfecta y constante con los centros de poder cercanos.
 
-{{anchor|LU_41_1_5}} Un Centro Supremo de Poder de la sexta orden está estacionado en el centro exacto de gravedad de cada sistema local. En el sistema de Satania, el centro de poder<ref>''Centro de poder'': Job 26:7.</ref> destinado allí ocupa una isla oscura del espacio situada en el centro astronómico del sistema. Muchas de estas islas oscuras son inmensas dinamos que movilizan y orientan ciertas energías espaciales, y estas circunstancias naturales son utilizadas eficazmente por el Centro de Poder de Satania, cuya masa viviente funciona como punto de conexión con los centros superiores, dirigiendo las corrientes de poder más materializado hacia los Controladores Físicos Maestros estacionados en los planetas evolutivos del espacio.
+{{anchor|LU_41_1_5}} Un Centro Supremo de Poder de la sexta orden está estacionado en el centro exacto de gravedad de cada sistema local. En el sistema de Satania, el centro de poder<ref name="n0"/> destinado allí ocupa una isla oscura del espacio situada en el centro astronómico del sistema. Muchas de estas islas oscuras son inmensas dinamos que movilizan y orientan ciertas energías espaciales, y estas circunstancias naturales son utilizadas eficazmente por el Centro de Poder de Satania, cuya masa viviente funciona como punto de conexión con los centros superiores, dirigiendo las corrientes de poder más materializado hacia los Controladores Físicos Maestros estacionados en los planetas evolutivos del espacio.
 
 == {{anchor|LU_41_2}} 2. LOS CONTROLADORES FÍSICOS DE SATANIA ==
 
@@ -42,7 +42,7 @@
 
 == {{anchor|LU_41_3}} 3. NUESTROS ASOCIADOS ESTELARES ==
 
-{{anchor|LU_41_3_1}} Hay más de dos mil soles<ref>''Nuestros asociados estelares'': Gn 1:14-15; Job 9:9; 38:31-33; Sal 147:4; Am 5:8.</ref> brillantes que derraman su luz y su energía en Satania, y vuestro propio Sol es un globo resplandeciente de tipo medio. De los treinta soles más cercanos al vuestro, sólo tres son más brillantes. Los Directores del Poder Universal inician las corrientes especializadas de energía que actúan entre las estrellas individuales y sus sistemas respectivos. Estos hornos solares, junto con los gigantes oscuros del espacio, sirven de parada obligada a los centros de poder y a los controladores físicos para concentrar y orientar eficazmente los circuitos energéticos de las creaciones materiales.
+{{anchor|LU_41_3_1}} Hay más de dos mil soles<ref name="n1"/> brillantes que derraman su luz y su energía en Satania, y vuestro propio Sol es un globo resplandeciente de tipo medio. De los treinta soles más cercanos al vuestro, sólo tres son más brillantes. Los Directores del Poder Universal inician las corrientes especializadas de energía que actúan entre las estrellas individuales y sus sistemas respectivos. Estos hornos solares, junto con los gigantes oscuros del espacio, sirven de parada obligada a los centros de poder y a los controladores físicos para concentrar y orientar eficazmente los circuitos energéticos de las creaciones materiales.
 
 {{anchor|LU_41_3_2}} Los soles de Nebadon no son diferentes a los de otros universos. La composición material de todos los soles, islas oscuras, planetas y satélites, e incluso meteoros, es totalmente idéntica. Estos soles tienen un diámetro medio de casi un millón seiscientos mil kilómetros, pero el de vuestro propio globo solar es ligeramente menor. La estrella más grande del universo, la nube estelar de Antares, tiene cuatrocientas cincuenta veces el diámetro de vuestro Sol y sesenta millones de veces su volumen. Pero hay espacio abundante para alojar a todos estos soles enormes. Tienen, en comparación, tanto sitio en el espacio como una docena de naranjas circulando por el interior de Urantia si el planeta fuera un globo hueco.
 
@@ -176,11 +176,15 @@
 
 {{anchor|LU_41_10_4}} Durante los primeros tiempos de todos estos nuevos mundos, los terremotos son frecuentes, y todos están caracterizados por grandes perturbaciones físicas; esto es especialmente así en las esferas surgidas de las contracciones gaseosas, los mundos nacidos de los inmensos anillos nebulares que son dejados atrás después de las primeras condensaciones y contracciones de ciertos soles individuales. Los planetas que tienen un origen doble como Urantia pasan por una carrera juvenil menos violenta y tempestuosa. Incluso así, vuestro mundo experimentó una fase primitiva de poderosas agitaciones, caracterizada por erupciones volcánicas, terremotos, inundaciones y tormentas terroríficas.
 
-{{anchor|LU_41_10_5}} Urantia está relativamente aislada en las afueras de Satania, pues vuestro sistema solar, con una sola excepción, es el que se encuentra más lejos de Jerusem, mientras que Satania misma está cerca del sistema más exterior de Norlatiadek, y esta constelación está atravesando ahora la periferia exterior de Nebadon. Figurabais realmente entre los más pequeños de toda la creación, hasta que la donación de Miguel elevó vuestro planeta a una posición de honor y de gran interés para el universo. A veces el último es el primero<ref>''El último se convierte en el primero'': Mt 19:30; 20:16; Mc 9:35; 10:31; Lc 13:30.</ref>, mientras que el más pequeño se convierte realmente en el más grande{3}.
+{{anchor|LU_41_10_5}} Urantia está relativamente aislada en las afueras de Satania, pues vuestro sistema solar, con una sola excepción, es el que se encuentra más lejos de Jerusem, mientras que Satania misma está cerca del sistema más exterior de Norlatiadek, y esta constelación está atravesando ahora la periferia exterior de Nebadon. Figurabais realmente entre los más pequeños de toda la creación, hasta que la donación de Miguel elevó vuestro planeta a una posición de honor y de gran interés para el universo. A veces el último es el primero<ref name="n2"/>, mientras que el más pequeño se convierte realmente en el más grande<ref name="n3"/>.
 
 {{anchor|LU_41_10_6}} [Presentado por un Arcángel en colaboración con el Jefe de los Centros de Poder de Nebadon.]
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Centro de poder'': {{lib|Job|26|7}}. </ref>
+<ref name="n1">''Nuestros asociados estelares'': {{lib|Gn|1|14-15}}; {{lib|Job|9|9}}; {{lib|Job|38|31-33}}; {{lib|Sal|147|4}}; {{lib|Am|5|8}}. </ref>
+<ref name="n2">''El último se convierte en el primero'': {{lib|Mt|19|30}}; {{lib|Mt|20|16}}; {{lib|Mc|9|35}}; {{lib|Mc|10|31}}; {{lib|Lc|13|30}}. </ref>
+<ref name="n3">''Quién será el más grande'': {{lib|Mt|18|1-4}}; {{lib|Mt|20|26-27}}; {{lib|Mt|23|11-12}}; {{lib|Mc|10|43-44}}; {{lib|Lc|9|46-48}}; {{lib|Lc|22|26}}. </ref>
+</references>

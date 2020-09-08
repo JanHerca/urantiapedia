@@ -24,7 +24,7 @@
 
 == {{anchor|LU_15_2}} 2. LA ORGANIZACIÓN DE LOS SUPERUNIVERSOS ==
 
-{{anchor|LU_15_2_1}} El Padre Universal es el único que conoce el emplazamiento y el número real de los mundos habitados del espacio; los llama a todos por su nombre y por su número<ref>''Número y nombre de las estrellas'': Sal 147:4.</ref>. Sólo puedo daros el número aproximado de planetas habitados o habitables, porque algunos universos locales tienen más mundos adecuados para la vida inteligente que otros. Todos los universos locales en proyecto no han sido organizados. Por eso los cálculos aproximados que ofrezco son únicamente con el objeto de dar una idea de la inmensidad de la creación material.
+{{anchor|LU_15_2_1}} El Padre Universal es el único que conoce el emplazamiento y el número real de los mundos habitados del espacio; los llama a todos por su nombre y por su número<ref name="n0"/>. Sólo puedo daros el número aproximado de planetas habitados o habitables, porque algunos universos locales tienen más mundos adecuados para la vida inteligente que otros. Todos los universos locales en proyecto no han sido organizados. Por eso los cálculos aproximados que ofrezco son únicamente con el objeto de dar una idea de la inmensidad de la creación material.
 
 {{anchor|LU_15_2_2}} Hay siete superuniversos en el gran universo, y están constituidos aproxima-damente como sigue:
 
@@ -88,7 +88,7 @@
 
 {{anchor|LU_15_3_6}} El núcleo del sistema físico al que pertenecen vuestro Sol y sus planetas asociados es el centro de la antigua nebulosa de Andronover. Esta nebulosa en otro tiempo espiral fue ligeramente deformada por los trastornos gravitatorios asociados a los acontecimientos que acompañaron al nacimiento de vuestro sistema solar, y que fueron ocasionados por el estrecho acercamiento de una gran nebulosa vecina. Esta casi colisión transformó a Andronover en un agregado un poco globular, pero no destruyó por completo la procesión en dos direcciones de los soles y de sus grupos físicos asociados. Vuestro sistema solar ocupa ahora una posición bastante central en uno de los brazos de esta espiral deformada, y está situado casi a medio camino entre el centro y el borde exterior de la corriente de estrellas.
 
-{{anchor|LU_15_3_7}} El sector de Sagitario y todos los otros sectores y divisiones de Orvonton dan vueltas alrededor de Uversa, y una parte de la confusión de los observadores de estrellas urantianos proviene de las ilusiones y de las distorsiones relativas producidas por los múltiples movimientos rotatorios siguientes<ref>''Revoluciones del universo'': Ez 1:15-19; 10:9-10.</ref>:
+{{anchor|LU_15_3_7}} El sector de Sagitario y todos los otros sectores y divisiones de Orvonton dan vueltas alrededor de Uversa, y una parte de la confusión de los observadores de estrellas urantianos proviene de las ilusiones y de las distorsiones relativas producidas por los múltiples movimientos rotatorios siguientes<ref name="n1"/>:
 
 {{anchor|LU_15_3_8}} 1. La revolución de Urantia alrededor de su Sol.
 
@@ -194,7 +194,7 @@
 
 == {{anchor|LU_15_7}} 7. LAS ESFERAS ARQUITECTÓNICAS ==
 
-{{anchor|LU_15_7_1}} Aunque cada gobierno superuniversal ejerce su dirección desde cerca del centro de los universos evolutivos de su segmento espacial, ocupa un mundo hecho a medida y poblado de personalidades acreditadas. Estos mundos sede son esferas arquitectónicas, unos cuerpos espaciales construidos específicamente para su finalidad especial. Aunque comparten la luz de los soles cercanos, estas esferas están iluminadas y calentadas de forma independiente. Cada una tiene un sol que emite luz sin calor, como los satélites del Paraíso, y cada una recibe su suministro de calor mediante la circulación de ciertas corrientes de energía cerca de la superficie de la esfera. Estos mundos sede pertenecen a uno de los sistemas más grandes situados cerca del centro astronómico de sus superuniversos respectivos<ref>''Nuevo cielo'': Is 66:22; 2 P 3:13; Ap 21:1.</ref>.
+{{anchor|LU_15_7_1}} Aunque cada gobierno superuniversal ejerce su dirección desde cerca del centro de los universos evolutivos de su segmento espacial, ocupa un mundo hecho a medida y poblado de personalidades acreditadas. Estos mundos sede son esferas arquitectónicas, unos cuerpos espaciales construidos específicamente para su finalidad especial. Aunque comparten la luz de los soles cercanos, estas esferas están iluminadas y calentadas de forma independiente. Cada una tiene un sol que emite luz sin calor, como los satélites del Paraíso, y cada una recibe su suministro de calor mediante la circulación de ciertas corrientes de energía cerca de la superficie de la esfera. Estos mundos sede pertenecen a uno de los sistemas más grandes situados cerca del centro astronómico de sus superuniversos respectivos<ref name="n2"/>.
 
 {{anchor|LU_15_7_2}} El tiempo está uniformado en las sedes de los superuniversos. El día oficial del superuniverso de Orvonton es igual a casi treinta días del tiempo de Urantia, y el año de Orvonton equivale a cien días oficiales. Este año de Uversa es oficial en el séptimo superuniverso y corresponde a tres mil días menos veintidós minutos del tiempo de Urantia, unos ocho años más una quinta parte de vuestros años.
 
@@ -202,7 +202,7 @@
 
 {{anchor|LU_15_7_4}} Los diversos mundos sede están provistos de todas las fases de la creación material y espiritual. Todos los tipos de seres materiales, morontiales y espirituales se sienten en su hogar en estos mundos de encuentro de los universos. A medida que las criaturas mortales ascienden por el universo, pasando de los mundos materiales a los mundos espirituales, nunca pierden su aprecio por los niveles anteriores de existencia, ni el placer que experimentaron en ellos.
 
-{{anchor|LU_15_7_5}} ''Jerusem''<ref>''Jerusem (capital del sistema)'': Ap 21:2 ff.</ref>, la sede de vuestro sistema local de Satania, tiene sus siete mundos de cultura de transición, y cada uno de ellos está rodeado por siete satélites entre los que se encuentran los siete mundos de las mansiones de detención morontial, la primera residencia del hombre después de la muerte. La palabra cielo, tal como se ha utilizado en Urantia, a veces se ha referido a estos siete mundos de las mansiones, denominándose primer cielo al primer mundo de las mansiones, y así sucesivamente hasta el séptimo.
+{{anchor|LU_15_7_5}} ''Jerusem''<ref name="n3"/>, la sede de vuestro sistema local de Satania, tiene sus siete mundos de cultura de transición, y cada uno de ellos está rodeado por siete satélites entre los que se encuentran los siete mundos de las mansiones de detención morontial, la primera residencia del hombre después de la muerte. La palabra cielo, tal como se ha utilizado en Urantia, a veces se ha referido a estos siete mundos de las mansiones, denominándose primer cielo al primer mundo de las mansiones, y así sucesivamente hasta el séptimo.
 
 {{anchor|LU_15_7_6}} ''Edentia,'' la sede de vuestra constelación de Norlatiadek, tiene sus setenta satélites de cultura y de preparación para la vida social, y en ellos residen los ascendentes después de finalizar el régimen de Jerusem relacionado con la movilización, la unificación y la comprensión de la personalidad.
 
@@ -284,7 +284,7 @@
 
 {{anchor|LU_15_10_2}} Las sedes de los superuniversos son los lugares donde residen los Espíritus Reflectantes y los Ayudantes Reflectantes de Imágenes. Desde esta posición intermedia, estos seres maravillosos dirigen sus extraordinarias operaciones de reflectividad, aportando así su ministerio al universo central que se encuentra por encima de ellos y a los universos locales que están por debajo.
 
-{{anchor|LU_15_10_3}} Cada superuniverso está presidido por tres Ancianos de los Días<ref>''Ancianos de los Días'': Dn 7:9,13,22.</ref>, los jefes ejecutivos conjuntos del supergobierno. En su rama ejecutiva, el personal del gobierno superuniversal está compuesto de siete grupos diferentes:
+{{anchor|LU_15_10_3}} Cada superuniverso está presidido por tres Ancianos de los Días<ref name="n4"/>, los jefes ejecutivos conjuntos del supergobierno. En su rama ejecutiva, el personal del gobierno superuniversal está compuesto de siete grupos diferentes:
 
 {{anchor|LU_15_10_4}} 1. Los Ancianos de los Días.
 
@@ -382,5 +382,10 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Número y nombre de las estrellas'': {{lib|Sal|147|4}}. </ref>
+<ref name="n1">''Revoluciones del universo'': {{lib|Ez|1|15-19}}; {{lib|Ez|10|9-10}}. </ref>
+<ref name="n2">''Nuevo cielo'': {{lib|Is|66|22}}; {{lib|2 P|3|13}}; {{lib|Ap|21|1}}. </ref>
+<ref name="n3">''Jerusem (capital del sistema)'': {{lib|Ap|21|2 ff}}. </ref>
+<ref name="n4">''Ancianos de los Días'': {{lib|Dn|7|9,13,22}}. </ref>
+</references>

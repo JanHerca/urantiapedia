@@ -92,13 +92,13 @@
 
 {{anchor|LU_0_2_11}} La palabra DIOS se utiliza en estos documentos con los siguientes significados:
 
-{{anchor|LU_0_2_12}} 1. ''Dios Padre'' —Creador<ref>''Dios como Creador de todo'': Gn 1:1-27; 2:4-23; Ex 20:11; Neh 9:6; Sal 146:6; Is 42:5; Jer 51:15-16; Mc 13:19; Jn 1:1-3; Hch 4:24; 14:15; Ef 3:9; Col 1:16; 1 P 4:19; Ap 4:11; 10:6. ''Dios como Creador de cielo y tierra'': Ex 31:17; 2 Re 19:15; 2 Cr 2:12; Sal 115:15-16; 121:2; 124:8; 134:3; Is 37:16; 45:12-18; Jer 10:11-12; 32:17; Ap 14:7. ''Dios como Creador del hombre y la mujer'': Gn 5:1-2. ''Dios como Creador del hombre'': Eclo 33:10; Mal 2:10. ''Dios como Creador de la Tierra'': Is 40:26,28; Am 4:13. ''Dios como Creador de la Sabiduría'': Eclo 1:1-4; Bar 3:32-36. ''Dios como creador de mundos'': Heb 1:2.</ref>, Controlador{1} y Sostén{2}. El Padre Universal, la Primera Persona de la Deidad.
+{{anchor|LU_0_2_12}} 1. ''Dios Padre'' —Creador<ref name="n0"/>, Controlador<ref name="n1"/> y Sostén<ref name="n2"/>. El Padre Universal, la Primera Persona de la Deidad.
 
 {{anchor|LU_0_2_13}} 2. ''Dios Hijo'' —Creador Coordinado, Controlador del Espíritu y Administrador Espiritual. El Hijo Eterno, la Segunda Persona de la Deidad.
 
 {{anchor|LU_0_2_14}} 3. ''Dios Espíritu'' —Actor Conjunto, Integrador Universal y Donador de la Mente. El Espíritu Infinito, la Tercera Persona de la Deidad.
 
-{{anchor|LU_0_2_15}} 4. ''Dios Supremo''{3} —el Dios del tiempo y del espacio en proceso de actualización o evolución. La Deidad personal que está llevando a cabo, en asociación, la hazaña experiencial del espacio-tiempo: identificar a la criatura con el Creador. El Ser Supremo está experimentando y consiguiendo personalmente la unidad de la Deidad como Dios evolutivo y experiencial de las criaturas evolutivas del tiempo y del espacio.
+{{anchor|LU_0_2_15}} 4. ''Dios Supremo''<ref name="n3"/> —el Dios del tiempo y del espacio en proceso de actualización o evolución. La Deidad personal que está llevando a cabo, en asociación, la hazaña experiencial del espacio-tiempo: identificar a la criatura con el Creador. El Ser Supremo está experimentando y consiguiendo personalmente la unidad de la Deidad como Dios evolutivo y experiencial de las criaturas evolutivas del tiempo y del espacio.
 
 {{anchor|LU_0_2_16}} 5. ''Dios Séptuple'' —personalidad de la Deidad que actúa realmente en cualquier parte del espacio-tiempo. Se trata de las Deidades personales del Paraíso y de sus asociados creativos, que actúan dentro y fuera de las fronteras del universo central, y están personalizando el poder como Ser Supremo en el primer nivel de las criaturas donde se revela, en el tiempo y el espacio, la Deidad unificadora. Este nivel es el gran universo, la esfera donde las personalidades del Paraíso descienden al espacio-tiempo, en asociación recíproca con las criaturas evolutivas que ascienden del espacio-tiempo.
 
@@ -124,7 +124,7 @@
 
 {{anchor|LU_0_3_8}} 7. El Absoluto Incalificado.
 
-{{anchor|LU_0_3_9}} Dios, como Fuente y Centro Primera, es primordial —de manera incondicional— en relación con la realidad total. La Fuente-Centro Primera es infinita así como eterna{4}, y por lo tanto sólo está limitada o condicionada por su volición.
+{{anchor|LU_0_3_9}} Dios, como Fuente y Centro Primera, es primordial —de manera incondicional— en relación con la realidad total. La Fuente-Centro Primera es infinita así como eterna<ref name="n4"/>, y por lo tanto sólo está limitada o condicionada por su volición.
 
 {{anchor|LU_0_3_10}} Dios —el Padre Universal— es la personalidad de la Fuente-Centro Primera, y como tal mantiene relaciones personales de control infinito sobre todas las fuentes y centros coordinados y subordinados. Este control es personal e infinito en ''potencia,'' aunque nunca lo ejerza realmente debido a la perfección con que actúan las citadas fuentes, centros y personalidades coordinados y subordinados.
 
@@ -152,7 +152,7 @@
 
 {{anchor|LU_0_3_22}} Con esta operación original, el YO SOY teórico consiguió hacer realidad la personalidad al convertirse en el Padre Eterno del Hijo Original, volviéndose simultáneamente la Fuente Eterna de la Isla del Paraíso. Coexistentes con la diferenciación entre el Hijo y el Padre, y en presencia del Paraíso, aparecieron la persona del Espíritu Infinito y el universo central de Havona. Con la aparición de la Deidad personal coexistente —el Hijo Eterno y el Espíritu Infinito— el Padre evitó dispersarse, como personalidad, por todo el potencial de la Deidad Total, lo que de otra manera hubiera sido inevitable. Desde entonces, el Padre sólo llena todo el potencial de la Deidad cuando se encuentra en asociación Trinitaria con sus dos iguales en Deidad, mientras que la Deidad experiencial se está actualizando cada vez más en los niveles de divinidad de la Supremacía, la Ultimidad y la Absolutidad.
 
-{{anchor|LU_0_3_23}} ''El concepto del YO SOY''{5} es una concesión filosófica que hacemos a la mente finita del hombre, atada al tiempo y encadenada al espacio, a la imposibilidad de que las criaturas comprendan las existencias de la eternidad —las realidades y relaciones sin principio ni fin. Para las criaturas del espacio-tiempo, todas las cosas deben tener un principio, con la sola excepción de la ÚNICA SIN CAUSA— la causa primigenia de las causas. Por este motivo conceptuamos este nivel de valor filosófico como el YO SOY, y al mismo tiempo enseñamos a todas las criaturas que el Hijo Eterno y el Espíritu Infinito son coeternos con el YO SOY; en otras palabras, que nunca ha existido un momento en el que el YO SOY no fuera el ''Padre'' del Hijo, y con él, del Espíritu.
+{{anchor|LU_0_3_23}} ''El concepto del YO SOY''<ref name="n5"/> es una concesión filosófica que hacemos a la mente finita del hombre, atada al tiempo y encadenada al espacio, a la imposibilidad de que las criaturas comprendan las existencias de la eternidad —las realidades y relaciones sin principio ni fin. Para las criaturas del espacio-tiempo, todas las cosas deben tener un principio, con la sola excepción de la ÚNICA SIN CAUSA— la causa primigenia de las causas. Por este motivo conceptuamos este nivel de valor filosófico como el YO SOY, y al mismo tiempo enseñamos a todas las criaturas que el Hijo Eterno y el Espíritu Infinito son coeternos con el YO SOY; en otras palabras, que nunca ha existido un momento en el que el YO SOY no fuera el ''Padre'' del Hijo, y con él, del Espíritu.
 
 {{anchor|LU_0_3_24}} El concepto de ''Infinito'' lo utilizamos para indicar la plenitud —la finalidad— implícita en la primacía de la Fuente-Centro Primera. El YO SOY ''teórico'' es para la criatura una extensión filosófica de «la infinidad de la voluntad», pero el Infinito es un nivel de valor ''actual'' que representa la connotación, desde la eternidad, de la verdadera infinidad del libre albedrío absoluto y sin trabas del Padre Universal. Este concepto se denomina a veces el Infinito-Padre.
 
@@ -180,7 +180,7 @@
 
 {{anchor|LU_0_4_10}} 4. ''Personal e Impersonal.'' La expansión de la Deidad, la expresión de la personali-dad y la evolución del universo están condicionadas para siempre por el acto voluntario del Padre, que separó definitivamente los significados y valores mentales, espirituales y personales, actuales y potenciales, centrados en el Hijo Eterno, de aquellas cosas que están centradas en la Isla eterna del Paraíso y son inherentes a ella.
 
-{{anchor|LU_0_4_11}} EL PARAÍSO{6} es un término que incluye a los Absolutos focales, personales y no personales, de todas las fases de la realidad universal. El Paraíso, adecuadamente calificado, puede connotar todas y cada una de las formas de la realidad, la Deidad, la divinidad, la personalidad y la energía —espiritual, mental o material. Todas comparten el Paraíso como lugar de origen, de función y de destino en lo que se refiere a los valores, los significados y la existencia de hecho.
+{{anchor|LU_0_4_11}} EL PARAÍSO<ref name="n6"/> es un término que incluye a los Absolutos focales, personales y no personales, de todas las fases de la realidad universal. El Paraíso, adecuadamente calificado, puede connotar todas y cada una de las formas de la realidad, la Deidad, la divinidad, la personalidad y la energía —espiritual, mental o material. Todas comparten el Paraíso como lugar de origen, de función y de destino en lo que se refiere a los valores, los significados y la existencia de hecho.
 
 {{anchor|LU_0_4_12}} ''La Isla del Paraíso'' —el Paraíso no calificado de otra manera —es el Absoluto del control de la gravedad material que ejerce la Fuente-Centro Primera. El Paraíso está inmóvil, y es la única cosa estacionaria en el universo de universos. La Isla del Paraíso tiene un emplazamiento en el universo pero ninguna posición en el espacio. Esta Isla eterna es la fuente real de los universos físicos —pasados, presentes y futuros. La Isla nuclear de Luz es un derivado de la Deidad, pero no es exactamente una Deidad; las creaciones materiales tampoco son una parte de la Deidad, sino una consecuencia.
 
@@ -206,7 +206,7 @@
 
 {{anchor|LU_0_5_9}} 3. ''El espíritu.'' El espíritu divino que reside en la mente del hombre —el Ajustador del Pensamiento. Este espíritu inmortal es prepersonal —no es una personalidad, aunque está destinado a volverse una parte de la personalidad de la criatura mortal sobreviviente.
 
-{{anchor|LU_0_5_10}} 4. ''El alma.'' El alma del hombre es una adquisición experiencial. A medida que una criatura mortal elige «hacer la voluntad del Padre que está en los cielos»{7}, el espíritu interno se convierte en el padre de una ''nueva realidad'' en la experiencia humana. La mente mortal y material es la madre de esta misma realidad emergente. La sustancia de esta nueva realidad no es material ni espiritual —es ''morontial.'' Es el alma emergente e inmortal que está destinada a sobrevivir a la muerte física y a empezar la ascensión al Paraíso.
+{{anchor|LU_0_5_10}} 4. ''El alma.'' El alma del hombre es una adquisición experiencial. A medida que una criatura mortal elige «hacer la voluntad del Padre que está en los cielos»<ref name="n7"/>, el espíritu interno se convierte en el padre de una ''nueva realidad'' en la experiencia humana. La mente mortal y material es la madre de esta misma realidad emergente. La sustancia de esta nueva realidad no es material ni espiritual —es ''morontial.'' Es el alma emergente e inmortal que está destinada a sobrevivir a la muerte física y a empezar la ascensión al Paraíso.
 
 {{anchor|LU_0_5_11}} ''La personalidad.'' La personalidad del hombre mortal no es ni el cuerpo, ni la mente ni el espíritu, y tampoco es el alma. La personalidad es la única realidad invariable en la experiencia por lo demás siempre cambiante de una criatura, y unifica todos los otros factores asociados de la individualidad. La personalidad es el don incomparable que el Padre Universal confiere a las energías vivientes y asociadas de la materia, la mente y el espíritu, y que sobrevive al sobrevivir el alma morontial.
 
@@ -230,7 +230,7 @@
 
 {{anchor|LU_0_6_8}} ''La mente'' es un fenómeno que implica la presencia y la actividad de un ''ministerio viviente'' además de diversos sistemas de energía, y esto es cierto a todos los niveles de la inteligencia. En la personalidad, la mente siempre media entre el espíritu y la materia; por consiguiente, el universo está iluminado por tres tipos de luz: la luz material, la perspicacia intelectual y la luminosidad espiritual.
 
-{{anchor|LU_0_6_9}} ''La luz'' —la luminosidad espiritual{8}— es un símbolo verbal, una figura retórica, que implica la manifestación característica de la personalidad de las diversas clases de seres espirituales. Esta emanación luminosa no está relacionada de ninguna manera con el discernimiento intelectual ni con las manifestaciones de la luz física.
+{{anchor|LU_0_6_9}} ''La luz'' —la luminosidad espiritual<ref name="n8"/>— es un símbolo verbal, una figura retórica, que implica la manifestación característica de la personalidad de las diversas clases de seres espirituales. Esta emanación luminosa no está relacionada de ninguna manera con el discernimiento intelectual ni con las manifestaciones de la luz física.
 
 {{anchor|LU_0_6_10}} UN ARQUETIPO puede ser proyectado con un aspecto material, espiritual o mental, o como cualquier combinación de estas energías. Puede impregnar las personalidades, las identidades, las entidades o la materia no viviente. Pero un arquetipo es un arquetipo y permanece siendo un arquetipo; sólo las ''copias'' se multiplican.
 
@@ -344,7 +344,7 @@
 
 {{anchor|LU_0_12_1}} La Trinidad original y eterna del Paraíso es existencial y era inevitable. Cuando la voluntad sin trabas del Padre diferenció lo personal de lo no personal, esta Trinidad sin principio era inherente a ese hecho, y se hizo real cuando la voluntad personal del Padre coordinó estas realidades dobles por medio de la mente. Las Trinidades posteriores a Havona son experienciales —son inherentes a la creación de los dos niveles subabsolutos y evolutivos en los que se manifiestan la personalidad y el poder en el universo maestro.
 
-{{anchor|LU_0_12_2}} ''La Trinidad del Paraíso''{9} —la unión de la Deidad eterna del Padre Universal, el Hijo Eterno y el Espíritu Infinito —es existencial en actualidad, pero todos sus potenciales son experienciales. Por eso esta Trinidad constituye la única realidad de la Deidad que abarca la infinidad, y por eso se producen los fenómenos universales de la actualización de Dios Supremo, Dios Último y Dios Absoluto.
+{{anchor|LU_0_12_2}} ''La Trinidad del Paraíso''<ref name="n9"/> —la unión de la Deidad eterna del Padre Universal, el Hijo Eterno y el Espíritu Infinito —es existencial en actualidad, pero todos sus potenciales son experienciales. Por eso esta Trinidad constituye la única realidad de la Deidad que abarca la infinidad, y por eso se producen los fenómenos universales de la actualización de Dios Supremo, Dios Último y Dios Absoluto.
 
 {{anchor|LU_0_12_3}} La primera y segunda Trinidad experienciales, las Trinidades posteriores a Havona, no pueden ser infinitas porque contienen ''Deidades derivadas,'' unas Deidades que han evolucionado mediante la actualización experiencial de unas realidades creadas o existenciadas por la Trinidad existencial del Paraíso. La infinidad de la divinidad se está enriqueciendo constantemente, si no ampliando, gracias a la finitud y a la absonidad de la experiencia de las criaturas y de los Creadores.
 
@@ -372,5 +372,15 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Dios como Creador de todo'': {{lib|Gn|1|1-27}}; {{lib|Gn|2|4-23}}; {{lib|Ex|20|11}}; {{lib|Neh|9|6}}; {{lib|Sal|146|6}}; {{lib|Is|42|5}}; {{lib|Jer|51|15-16}}; {{lib|Mc|13|19}}; {{lib|Jn|1|1-3}}; {{lib|Hch|4|24}}; {{lib|Hch|14|15}}; {{lib|Ef|3|9}}; {{lib|Col|1|16}}; {{lib|1 P|4|19}}; {{lib|Ap|4|11}}; {{lib|Ap|10|6}}. ''Dios como Creador de cielo y tierra'': {{lib|Ex|31|17}}; {{lib|2 Re|19|15}}; {{lib|2 Cr|2|12}}; {{lib|Sal|115|15-16}}; {{lib|Sal|121|2}}; {{lib|Sal|124|8}}; {{lib|Sal|134|3}}; {{lib|Is|37|16}}; {{lib|Is|45|12-18}}; {{lib|Jer|10|11-12}}; {{lib|Jer|32|17}}; {{lib|Ap|14|7}}. ''Dios como Creador del hombre y la mujer'': {{lib|Gn|5|1-2}}. ''Dios como Creador del hombre'': {{lib|Ec|lo 33|10}}; {{lib|Mal|2|10}}. ''Dios como Creador de la Tierra'': {{lib|Is|40|26,28}}; {{lib|Am|4|13}}. ''Dios como Creador de la Sabiduría'': {{lib|Ec|lo 1|1-4}}; {{lib|Bar|3|32-36}}. ''Dios como creador de mundos'': {{lib|Heb|1|2}}. </ref>
+<ref name="n1">''Dios como Controlador'': {{lib|Job|38|1-39:30}}; {{lib|Sal|104|1-32}}; {{lib|Sal|148|6-12}}; {{lib|Hch|14|15}}. </ref>
+<ref name="n2">''Dios como Sostén'': {{lib|Sal|37|17,24}}; {{lib|Sal|63|8}}; {{lib|Sal|145|14}}; {{lib|Is|41|10,13}}; {{lib|Heb|1|3}}. </ref>
+<ref name="n3">''Dios Supremo'': {{lib|Sal|136|2-3}}; {{lib|Dn|2|47}}; {{lib|Dn|10|17}}; {{lib|Jos|22|22}}; {{lib|1 P|2|13}}. </ref>
+<ref name="n4">''Dios es eterno'': {{lib|Dt|33|27}}; {{lib|Ro|1|20}}; {{lib|1 Ti|1|17}}. </ref>
+<ref name="n5">''YO SOY'': {{lib|Ex|3|13-14}}. </ref>
+<ref name="n6">''El Paraíso'': {{lib|Lc|23|43}}; {{lib|2 Co|12|4}}; {{lib|Ap|2|7}}. </ref>
+<ref name="n7">''Hacer la voluntad del Padre'': {{lib|Sal|143|10}}; {{lib|Ec|lo 15|11-20}}; {{lib|Mt|6|10}}; {{lib|Mt|7|21}}; {{lib|Mt|12|50}}; {{lib|Mc|3|35}}; {{lib|Lc|8|21}}; {{lib|Lc|11|2}}; {{lib|Jn|7|16-17}}; {{lib|Jn|9|31}}; {{lib|Jn|14|21,24}}; {{lib|Jn|15|10,14-16}}. </ref>
+<ref name="n8">''Luz espiritual'': {{lib|Esd|7|55}}; {{lib|Is|9|2}}; {{lib|Mt|4|16}}; {{lib|Mt|5|14-16}}; {{lib|Lc|1|79}}; {{lib|Lc|2|32}}; {{lib|Jn|1|4-9}}; {{lib|Jn|3|19-21}}; {{lib|Jn|8|12}}; {{lib|Jn|9|5}}; {{lib|Jn|12|46}}; {{lib|1 Jn|1|5}}; {{lib|1 Jn|2|8}}. </ref>
+<ref name="n9">''La Trinidad del Paraíso'': {{lib|Mt|28|19}}; {{lib|Hch|2|32-33}}; {{lib|2 Co|13|14}}; {{lib|1 Jn|5|7}}. ''La visión de Pablo sobre la Trinidad'': {{lib|1 Co|12|4-6}}. </ref>
+</references>

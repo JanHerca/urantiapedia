@@ -31,13 +31,13 @@ function p.ref( frame )
         name = 'Jueces'
     elseif ab == 'Rt' then
         name = 'Rut'
-    elseif ab == '1 S' then
+    elseif ab == '1 Sam' then
         name = 'Samuel_I'
-    elseif ab == '2 S' then
+    elseif ab == '2 Sam' then
         name = 'Samuel_II'
-    elseif ab == '1 R' then
+    elseif ab == '1 Re' then
         name = 'Reyes_I'
-    elseif ab == '2 R' then
+    elseif ab == '2 Re' then
         name = 'Reyes II'
     elseif ab == '1 Cr' then
         name = 'Crónicas_I'
@@ -174,7 +174,7 @@ function p.ref( frame )
     local text = ab .. ' ' .. chapter
     local v = ''
     
-    if name = 'El_Libro_de_Urantia_Doc'
+    if name == 'El_Libro_de_Urantia_Doc' then
         -- Falta de hacer la extracción del rango de párrafos
     else
         -- Extraemos el primer versículo del rango de versículos, si hay

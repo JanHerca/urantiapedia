@@ -50,7 +50,7 @@
 
 == {{anchor|LU_18_3}} 3. LOS ANCIANOS DE LOS DÍAS ==
 
-{{anchor|LU_18_3_1}} Cuando los mortales del tiempo se gradúan en los mundos de formación que rodean a la sede de un universo local y son ascendidos a las esferas educativas de su superuniverso, su desarrollo espiritual ha progresado hasta el punto en que son capaces de reconocer y de comunicarse con los altos gobernantes y directores espirituales de estos reinos elevados, incluyendo a los Ancianos de los Días<ref>''Ancianos de los Días'': Dn 7:9,13,22.</ref>.
+{{anchor|LU_18_3_1}} Cuando los mortales del tiempo se gradúan en los mundos de formación que rodean a la sede de un universo local y son ascendidos a las esferas educativas de su superuniverso, su desarrollo espiritual ha progresado hasta el punto en que son capaces de reconocer y de comunicarse con los altos gobernantes y directores espirituales de estos reinos elevados, incluyendo a los Ancianos de los Días<ref name="n0"/>.
 
 {{anchor|LU_18_3_2}} Todos los Ancianos de los Días son básicamente idénticos; revelan el carácter combinado y la naturaleza unificada de la Trinidad. Poseen una individualidad y sus personalidades son diversas, pero no se diferencian los unos de los otros como los Siete Espíritus Maestros. Aseguran la dirección uniforme de los siete superuniversos que por otra parte son diferentes, pues cada uno de ellos es una creación distinta, separada y única. La naturaleza y los atributos de los Siete Espíritus Maestros son diferentes, pero todos los Ancianos de los Días, los gobernantes personales de los superuniversos, son los descendientes uniformes y superperfectos de la Trinidad del Paraíso.
 
@@ -132,5 +132,6 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Ancianos de los Días'': {{lib|Dn|7|9,13,22}}. </ref>
+</references>

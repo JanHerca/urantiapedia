@@ -128,13 +128,13 @@
 
 {{anchor|LU_59_4_5}} Cinco millones de años después, las superficies de América del Norte y del Sur, Europa, África, el norte de Asia y Australia se inundaron durante corto tiempo; en uno u otro momento, la inmersión de América del Norte fue casi completa, y las capas calcáreas resultantes tienen un espesor que varía entre 150 y 1.500 metros. Estos diversos mares devonianos se extendieron primero en una dirección, y luego en otra, de manera que el inmenso mar interior ártico de América del Norte encontró una salida hacia el Océano Pacífico a través del norte de California.
 
-{{anchor|LU_59_4_6}} Hace ''260.000.000'' de años, hacia el final de esta época de depresión terrestre, América del Norte estaba parcialmente cubierta por unos mares que se comunicaban simultáneamente con las aguas del Pacífico, del Atlántico, del Ártico y del Golfo. Los depósitos de estas etapas más recientes de la primera inundación devoniana tienen un espesor medio de unos trescientos metros. Los arrecifes de coral que caracterizan esta época indican que los mares interiores eran transparentes y poco profundos. Estos depósitos de coral están puestos al descubierto en las orillas del río Ohio, cerca de Louisville
+{{anchor|LU_59_4_6}} Hace ''260.000.000'' de años, hacia el final de esta época de depresión terrestre, América del Norte estaba parcialmente cubierta por unos mares que se comunicaban simultáneamente con las aguas del Pacífico, del Atlántico, del Ártico y del Golfo. Los depósitos de estas etapas más recientes de la primera inundación devoniana tienen un espesor medio de unos trescientos metros. Los arrecifes de coral que caracterizan esta época indican que los mares interiores eran transparentes y poco profundos. Estos depósitos de coral están puestos al descubierto en las orillas del río Ohio, cerca de Louisville (Kentucky), y tienen aproximadamente treinta metros de espesor, abarcando más de doscientas variedades. Estas formaciones coralinas se extienden a través del Canadá y el norte de Europa hasta las regiones árticas.
 
 {{anchor|LU_59_4_7}} Después de estas inmersiones, una gran parte de los litorales se elevó considerablemente, de manera que los depósitos primitivos fueron cubiertos de lodo o esquisto. También existe un estrato de arenisca roja que caracteriza una de las sedimentaciones devonianas, y esta capa roja se extiende por una gran parte de la superficie de la Tierra, encontrándose en América del Norte y del Sur, Europa, Rusia, China, África y Australia. Estos depósitos rojos evocan unas condiciones áridas o semiáridas, pero el clima de esta época continuó siendo templado y uniforme.
 
 {{anchor|LU_59_4_8}} A lo largo de todo este período, las tierras situadas al sudeste de la Isla de Cincinnati permanecieron completamente por encima del agua. Pero una gran parte de Europa occidental, incluyendo a las Islas Británicas, estaba sumergida. En el País de Gales, Alemania y otras partes de Europa, las rocas devonianas tienen un espesor de 6.000 metros.
 
-{{anchor|LU_59_4_9}} Hace ''250.000.000'' de años se pudo presenciar la aparición de la familia de los peces, los vertebrados059:04.09 <ref>''Los peces vertebrados'': Gn 1:21.</ref>, una de las etapas más importantes de toda la evolución prehumana.
+{{anchor|LU_59_4_9}} Hace ''250.000.000'' de años se pudo presenciar la aparición de la familia de los peces, los vertebrados059:04.09 <ref name="n0"/>, una de las etapas más importantes de toda la evolución prehumana.
 
 {{anchor|LU_59_4_10}} Los artrópodos, o crustáceos, fueron los antecesores de los primeros vertebrados. Los precursores de la familia de los peces fueron dos ascendientes artrópodos modificados; uno tenía un cuerpo largo que unía la cabeza y la cola, mientras que el otro era un pre-pez sin espina dorsal ni mandíbulas. Pero estos tipos preliminares fueron rápidamente aniquilados cuando los peces, los primeros vertebrados del mundo animal, aparecieron ''repentinamente'' procedentes del norte.
 
@@ -232,5 +232,6 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Los peces vertebrados'': {{lib|Gn|1|21}}. </ref>
+</references>

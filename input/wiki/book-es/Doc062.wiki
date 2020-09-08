@@ -2,7 +2,7 @@
 
 {{anchor|LU_62_0}}
 
-{{anchor|LU_62_0_1}} HACE casi un millón de años, los antepasados inmediatos del género humano hicieron su aparición mediante tres mutaciones repentinas y sucesivas en el tronco primitivo del tipo lémur de mamíferos placentarios. Los factores dominantes de estos lémures primitivos procedían del plasma vital evolutivo del grupo americano occidental o más reciente. Pero antes de establecer la línea directa del linaje humano, esta raza fue reforzada por las aportaciones de la implantación central de vida que había evolucionado en
+{{anchor|LU_62_0_1}} HACE casi un millón de años, los antepasados inmediatos del género humano hicieron su aparición mediante tres mutaciones repentinas y sucesivas en el tronco primitivo del tipo lémur de mamíferos placentarios. Los factores dominantes de estos lémures primitivos procedían del plasma vital evolutivo del grupo americano occidental o más reciente. Pero antes de establecer la línea directa del linaje humano, esta raza fue reforzada por las aportaciones de la implantación central de vida que había evolucionado en África. El grupo oriental de vida contribuyó poco o nada a la producción efectiva de la especie humana.
 
 == {{anchor|LU_62_1}} 1. LOS TIPOS PRIMITIVOS DE LÉMURES ==
 
@@ -72,7 +72,7 @@
 
 == {{anchor|LU_62_5}} 5. LOS PRIMEROS SERES HUMANOS ==
 
-{{anchor|LU_62_5_1}} El nacimiento de los dos primeros seres humanos se produjo exactamente 993.419 años antes del año 1934 de la era cristiana<ref>''Primeros seres humanos'': Gn 1:26-27; 2:7.</ref>.
+{{anchor|LU_62_5_1}} El nacimiento de los dos primeros seres humanos se produjo exactamente 993.419 años antes del año 1934 de la era cristiana<ref name="n0"/>.
 
 {{anchor|LU_62_5_2}} Estas dos criaturas extraordinarias eran unos seres verdaderamente humanos. Poseían un pulgar humano perfecto, como muchos de sus antepasados, y tenían unos pies tan perfectos como las razas humanas actuales. Estos seres caminaban y corrían, pero no trepaban; la función prensil del dedo gordo del pie ya no existía, había desaparecido por completo. Cuando el peligro los empujaba hacia las copas de los árboles, subían tal como lo harían los humanos de hoy. Subían por el tronco de los árboles como los osos y no como los chimpancés o los gorilas, balanceándose de rama en rama.
 
@@ -128,5 +128,6 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Primeros seres humanos'': {{lib|Gn|1|26-27}}; {{lib|Gn|2|7}}. </ref>
+</references>

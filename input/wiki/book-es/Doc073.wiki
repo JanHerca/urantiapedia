@@ -20,7 +20,7 @@
 
 {{anchor|LU_73_1_5}} Poco después de la destrucción de Dalamatia, los seguidores de Nod se dividieron en tres grupos principales. El grupo central permaneció en las inmediaciones de su tierra natal, cerca de la cabecera del Golfo Pérsico. El grupo oriental emigró hacia las regiones de las tierras altas de Elam, justo al este del valle del Éufrates. El grupo occidental estaba situado en las costas sirias del nordeste del Mediterráneo y en el territorio adyacente.
 
-{{anchor|LU_73_1_6}} Estos noditas se habían casado frecuentemente con las razas sangiks y habían dejado tras ellos una progenitura capaz. Algunos descendientes de los rebeldes dalamatianos se unieron posteriormente a Van y a sus leales seguidores en las tierras situadas al norte de Mesopotamia. Aquí, en las proximidades del Lago Van y en la región sur del Mar Caspio, los noditas se unieron y se mezclaron con los amadonitas, y fueron contados entre los «poderosos hombres de la antigüedad»<ref>''Poderosos hombres de la antigüedad'': Gn 6:4.</ref>.
+{{anchor|LU_73_1_6}} Estos noditas se habían casado frecuentemente con las razas sangiks y habían dejado tras ellos una progenitura capaz. Algunos descendientes de los rebeldes dalamatianos se unieron posteriormente a Van y a sus leales seguidores en las tierras situadas al norte de Mesopotamia. Aquí, en las proximidades del Lago Van y en la región sur del Mar Caspio, los noditas se unieron y se mezclaron con los amadonitas, y fueron contados entre los «poderosos hombres de la antigüedad»<ref name="n0"/>.
 
 {{anchor|LU_73_1_7}} Antes de la llegada de Adán y Eva, estos grupos —los noditas y los amadonitas— eran las razas más avanzadas y cultas de la Tierra.
 
@@ -42,9 +42,9 @@
 
 {{anchor|LU_73_3_2}} La comisión apoyó casi por unanimidad la tercera solución. Se escogió este lugar, y se tardaron dos años en trasladar la sede cultural del mundo, incluyendo el árbol de la vida, a esta península mediterránea. Todos los habitantes de la península, a excepción de un solo grupo, se marcharon pacíficamente cuando llegaron Van y sus compañeros.
 
-{{anchor|LU_73_3_3}} Esta península mediterránea tenía un clima salubre y una temperatura uniforme; este tiempo estable se debía a las montañas que la rodeaban y al hecho de que esta zona era casi una isla en un mar interior. Llovía abundantemente en las tierras altas circundantes, pero rara vez en el propio Edén. Pero cada noche «se levantaba una niebla»<ref>''Se levantaba una niebla'': Gn 2:6.</ref>, procedente de la extensa red de canales artificiales de riego, que refrescaba la vegetación del Jardín.
+{{anchor|LU_73_3_3}} Esta península mediterránea tenía un clima salubre y una temperatura uniforme; este tiempo estable se debía a las montañas que la rodeaban y al hecho de que esta zona era casi una isla en un mar interior. Llovía abundantemente en las tierras altas circundantes, pero rara vez en el propio Edén. Pero cada noche «se levantaba una niebla»<ref name="n1"/>, procedente de la extensa red de canales artificiales de riego, que refrescaba la vegetación del Jardín.
 
-{{anchor|LU_73_3_4}} El litoral de esta masa de tierra estaba considerablemente elevado, y el istmo que la unía al continente sólo tenía cuarenta y tres kilómetros de ancho en el punto más estrecho. El gran río que regaba el Jardín descendía de las tierras más altas de la península, corría hacia el este por el istmo peninsular hasta llegar al continente, y desde allí atravesaba las tierras bajas de Mesopotamia hasta el lejano mar. Estaba alimentado por cuatro afluentes que se originaban en las colinas costeras de la península edénica, y éstas eran las «cuatro cabeceras»<ref>''Cabeceras de los ríos de Edén'': Gn 2:10.</ref> del río que «salía del Edén», y que más tarde se confundieron con los brazos de los ríos que rodeaban al segundo jardín.
+{{anchor|LU_73_3_4}} El litoral de esta masa de tierra estaba considerablemente elevado, y el istmo que la unía al continente sólo tenía cuarenta y tres kilómetros de ancho en el punto más estrecho. El gran río que regaba el Jardín descendía de las tierras más altas de la península, corría hacia el este por el istmo peninsular hasta llegar al continente, y desde allí atravesaba las tierras bajas de Mesopotamia hasta el lejano mar. Estaba alimentado por cuatro afluentes que se originaban en las colinas costeras de la península edénica, y éstas eran las «cuatro cabeceras»<ref name="n2"/> del río que «salía del Edén», y que más tarde se confundieron con los brazos de los ríos que rodeaban al segundo jardín.
 
 {{anchor|LU_73_3_5}} Las piedras preciosas y los metales abundaban en las montañas que rodeaban al Jardín, aunque les prestaron muy poca atención. La idea predominante debía ser la glorificación de la horticultura y la exaltación de la agricultura.
 
@@ -64,7 +64,7 @@
 
 == {{anchor|LU_73_5}} 5. EL HOGAR DEL JARDÍN ==
 
-{{anchor|LU_73_5_1}} En el centro de la península edénica se encontraba el exquisito templo de piedra del Padre Universal, el santuario sagrado del Jardín. La sede administrativa se estableció en el norte; las casas para los obreros y sus familias se construyeron en el sur; en el oeste se reservó una parcela de terreno para las escuelas en proyecto del sistema educativo del Hijo esperado, mientras que al «este del Edén»<ref>''Este del Edén'': Gn 2:8; 3:24.</ref> se construyeron las viviendas destinadas al Hijo prometido y a su descendencia inmediata. Los planes arquitectónicos del Edén preveían viviendas y tierras abundantes para un millón de seres humanos.
+{{anchor|LU_73_5_1}} En el centro de la península edénica se encontraba el exquisito templo de piedra del Padre Universal, el santuario sagrado del Jardín. La sede administrativa se estableció en el norte; las casas para los obreros y sus familias se construyeron en el sur; en el oeste se reservó una parcela de terreno para las escuelas en proyecto del sistema educativo del Hijo esperado, mientras que al «este del Edén»<ref name="n3"/> se construyeron las viviendas destinadas al Hijo prometido y a su descendencia inmediata. Los planes arquitectónicos del Edén preveían viviendas y tierras abundantes para un millón de seres humanos.
 
 {{anchor|LU_73_5_2}} En el momento de la llegada de Adán sólo se había terminado una cuarta parte del Jardín, pero ya había miles de kilómetros de canales de riego y cerca de veinte mil kilómetros de caminos y carreteras pavimentados. Había un poco más de cinco mil edificios de ladrillo en los diversos sectores, y los árboles y las plantas eran casi innumerables. Cualquier grupo de viviendas del parque no podía contener más de siete casas. Y aunque las estructuras del Jardín eran sencillas, eran muy artísticas. Las carreteras y los caminos estaban bien construidos, y el paisaje era exquisito.
 
@@ -82,11 +82,11 @@
 
 == {{anchor|LU_73_6}} 6. EL ÁRBOL DE LA VIDA ==
 
-{{anchor|LU_73_6_1}} En el centro del templo del Jardín, Van plantó el árbol de la vida<ref>''Árbol de la vida'': Gn 2:9; 3:22,24; Ap 2:7; 22:2,14.</ref> que había guardado durante tanto tiempo, cuyas hojas servían para «curar a las naciones»{5}, y cuyos frutos lo habían sustentado durante tanto tiempo en la Tierra. Van sabía muy bien que Adán y Eva dependerían también de este regalo de Edentia para mantenerse con vida una vez que hubieran aparecido en Urantia con una forma material.
+{{anchor|LU_73_6_1}} En el centro del templo del Jardín, Van plantó el árbol de la vida<ref name="n4"/> que había guardado durante tanto tiempo, cuyas hojas servían para «curar a las naciones»<ref name="n5"/>, y cuyos frutos lo habían sustentado durante tanto tiempo en la Tierra. Van sabía muy bien que Adán y Eva dependerían también de este regalo de Edentia para mantenerse con vida una vez que hubieran aparecido en Urantia con una forma material.
 
 {{anchor|LU_73_6_2}} En las capitales de los sistemas, los Hijos Materiales no necesitan el árbol de la vida para subsistir. Sólo dependen de este complemento, para ser físicamente inmortales, cuando se repersonalizan en los planetas.
 
-{{anchor|LU_73_6_3}} El «árbol del conocimiento del bien y del mal»{6} puede ser una figura retórica, una descripción simbólica que abarca una multitud de experiencias humanas, pero el «árbol de la vida» no era un mito; era real y estuvo presente durante mucho tiempo en Urantia. Cuando los Altísimos de Edentia aprobaron el nombramiento de Caligastia como Príncipe Planetario de Urantia y el de los cien ciudadanos de Jerusem como su estado mayor administrativo, enviaron al planeta un arbusto de Edentia por medio de los Melquisedeks, y esta planta creció en Urantia hasta convertirse en el árbol de la vida. Esta forma de vida no inteligente es originaria de las esferas sede de las constelaciones y también se encuentra en los mundos sede de los universos locales y de los superuniversos, así como en las esferas de Havona, pero no en las capitales de los sistemas.
+{{anchor|LU_73_6_3}} El «árbol del conocimiento del bien y del mal»<ref name="n6"/> puede ser una figura retórica, una descripción simbólica que abarca una multitud de experiencias humanas, pero el «árbol de la vida» no era un mito; era real y estuvo presente durante mucho tiempo en Urantia. Cuando los Altísimos de Edentia aprobaron el nombramiento de Caligastia como Príncipe Planetario de Urantia y el de los cien ciudadanos de Jerusem como su estado mayor administrativo, enviaron al planeta un arbusto de Edentia por medio de los Melquisedeks, y esta planta creció en Urantia hasta convertirse en el árbol de la vida. Esta forma de vida no inteligente es originaria de las esferas sede de las constelaciones y también se encuentra en los mundos sede de los universos locales y de los superuniversos, así como en las esferas de Havona, pero no en las capitales de los sistemas.
 
 {{anchor|LU_73_6_4}} Esta superplanta almacenaba ciertas energías espaciales que servían de antídoto contra los elementos que producen la vejez en la existencia animal. El fruto del árbol de la vida se parecía a una batería de acumuladores superquímicos que, cuando se comía, liberaba misteriosamente la fuerza del universo que prolonga la vida. Esta forma de sustento era completamente ineficaz para los seres evolutivos normales de Urantia, pero sí era expresamente útil para los cien miembros materializados del estado mayor de Caligastia y para los cien andonitas modificados que habían contribuído con su plasma vital al estado mayor del Príncipe, y que habían recibido a cambio un complemento de vida que les permitía utilizar el fruto del árbol de la vida para prolongar indefinidamente su existencia que, de otra manera, hubiera sido mortal.
 
@@ -94,7 +94,7 @@
 
 {{anchor|LU_73_6_6}} Cuando Van y sus asociados prepararon el Jardín para Adán y Eva, trasplantaron el árbol de Edentia al Jardín del Edén, donde creció una vez más en el patio circular central de otro templo del Padre. Adán y Eva comían periódicamente su fruto para mantener su forma dual de vida física.
 
-{{anchor|LU_73_6_7}} Cuando los planes del Hijo Material se desviaron del camino recto, Adán y su familia no obtuvieron la autorización de llevarse del Jardín el núcleo del árbol. Cuando los noditas invadieron el Edén, les contaron que se volverían como «dioses si comían el fruto del árbol»{7}. Para gran sorpresa suya, lo encontraron sin protección. Durante años comieron abundantemente su fruto, pero no les produjo ningún efecto; todos eran mortales materiales del reino; carecían del factor que actuaba como complemento del fruto del árbol. Su incapacidad para beneficiarse del árbol de la vida los enfureció, y durante una de sus guerras internas, tanto el templo como el árbol quedaron destruidos por el fuego; sólo permaneció de pie la muralla de piedra, hasta que posteriormente se sumergió el Jardín. Éste fue el segundo templo del Padre que se destruyó.
+{{anchor|LU_73_6_7}} Cuando los planes del Hijo Material se desviaron del camino recto, Adán y su familia no obtuvieron la autorización de llevarse del Jardín el núcleo del árbol. Cuando los noditas invadieron el Edén, les contaron que se volverían como «dioses si comían el fruto del árbol»<ref name="n7"/>. Para gran sorpresa suya, lo encontraron sin protección. Durante años comieron abundantemente su fruto, pero no les produjo ningún efecto; todos eran mortales materiales del reino; carecían del factor que actuaba como complemento del fruto del árbol. Su incapacidad para beneficiarse del árbol de la vida los enfureció, y durante una de sus guerras internas, tanto el templo como el árbol quedaron destruidos por el fuego; sólo permaneció de pie la muralla de piedra, hasta que posteriormente se sumergió el Jardín. Éste fue el segundo templo del Padre que se destruyó.
 
 {{anchor|LU_73_6_8}} Y ahora, todos los seres de Urantia han de seguir el curso natural de la vida y la muerte. Adán, Eva, sus hijos y los hijos de sus hijos, así como sus asociados, todos murieron con el transcurso del tiempo, quedando así sometidos al plan de ascensión del universo local, en el que la resurrección en los mundos de las mansiones sigue a la muerte física.
 
@@ -108,9 +108,18 @@
 
 {{anchor|LU_73_7_4}} Las instrucciones que los Melquisedeks dieron a Adán implicaban que debería establecer unos centros raciales, continentales y divisionarios que estarían a cargo de sus hijos e hijas inmediatos, mientras que él y Eva tendrían que repartir su tiempo entre estas diversas capitales del mundo como consejeros y coordinadores del ministerio mundial para el mejoramiento biológico, el progreso intelectual y la rehabilitación moral.
 
-{{anchor|LU_73_7_5}} [Presentado por Solonia, la «voz seráfica en el Jardín»{8}.]
+{{anchor|LU_73_7_5}} [Presentado por Solonia, la «voz seráfica en el Jardín»<ref name="n8"/>.]
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Poderosos hombres de la antigüedad'': {{lib|Gn|6|4}}. </ref>
+<ref name="n1">''Se levantaba una niebla'': {{lib|Gn|2|6}}. </ref>
+<ref name="n2">''Cabeceras de los ríos de Edén'': {{lib|Gn|2|10}}. </ref>
+<ref name="n3">''Este del Edén'': {{lib|Gn|2|8}}; {{lib|Gn|3|24}}. </ref>
+<ref name="n4">''Árbol de la vida'': {{lib|Gn|2|9}}; {{lib|Gn|3|22,24}}; {{lib|Ap|2|7}}; {{lib|Ap|22|2,14}}. </ref>
+<ref name="n5">''Hojas para curar a las naciones'': {{lib|Ap|22|2}}. </ref>
+<ref name="n6">''Árbol del conocimiento del bien'': {{lib|Gn|2|9,17}}. </ref>
+<ref name="n7">''Si comían el fruto se volverían dioses'': {{lib|Gn|3|1-5}}. </ref>
+<ref name="n8">''Voz del Jardín'': {{lib|Gn|3|8-13}}. </ref>
+</references>

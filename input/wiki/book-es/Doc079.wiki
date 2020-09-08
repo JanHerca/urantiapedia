@@ -22,7 +22,7 @@
 
 {{anchor|LU_79_1_8}} Pero incluso en el siglo veinte después de Cristo, aún quedan restos de sangre andita entre los pueblos turanianos y tibetanos, tal como se puede observar en los tipos rubios que se encuentran de vez en cuando en estas regiones. Los anales chinos primitivos describen la presencia de nómadas pelirrojos al norte de las pacíficas colonias del Río Amarillo, y aún se conservan pinturas que representan fielmente la presencia tanto del tipo rubio andita como del moreno mongol en la cuenca del Tarim de otros tiempos.
 
-{{anchor|LU_79_1_9}} La última gran manifestación del genio militar latente de los anditas de Asia central se produjo en el año 1200 d. de J.C. cuando los mongoles, bajo el mando de Gengis Kan, empezaron la conquista de la mayor parte del continente asiático. Y al igual que los antiguos anditas, estos guerreros proclamaron la existencia de «un solo Dios en el cielo»<ref>''Un solo Dios en el cielo'': Gn 24:3,7; 1 Re 8:23; 2 Cr 20:6; 36:23; Esd 1:2; 5:11-12; Neh 1:4-5; Sal 80:14; 136:26; Ec 5:2; Dn 2:18-19,28; Dt 4:39; Jos 2:11.</ref>. La desintegración prematura de su imperio retrasó durante mucho tiempo el intercambio cultural entre Oriente y Occidente, y obstaculizó enormemente el crecimiento de un concepto monoteísta en Asia.
+{{anchor|LU_79_1_9}} La última gran manifestación del genio militar latente de los anditas de Asia central se produjo en el año 1200 d. de J.C. cuando los mongoles, bajo el mando de Gengis Kan, empezaron la conquista de la mayor parte del continente asiático. Y al igual que los antiguos anditas, estos guerreros proclamaron la existencia de «un solo Dios en el cielo»<ref name="n0"/>. La desintegración prematura de su imperio retrasó durante mucho tiempo el intercambio cultural entre Oriente y Occidente, y obstaculizó enormemente el crecimiento de un concepto monoteísta en Asia.
 
 == {{anchor|LU_79_2}} 2. LA CONQUISTA ANDITA DE LA INDIA ==
 
@@ -50,7 +50,7 @@
 
 {{anchor|LU_79_3_3}} La cultura superior y las tendencias religiosas de los pueblos de la India datan de los primeros tiempos de la dominación dravidiana y se deben, en parte, al hecho de que un gran número de sacerdotes setitas entró en la India tanto con las primeras invasiones anditas como con las invasiones arias posteriores. El hilo conductor de monoteísmo que atraviesa la historia religiosa de la India proviene así de las enseñanzas de los adamitas en el segundo jardín.
 
-{{anchor|LU_79_3_4}} En una fecha tan temprana como el año 16.000 a. de J.C., un grupo de cien sacerdotes setitas penetró en la India y estuvo a punto de conquistar religiosamente la mitad occidental de este pueblo políglota, pero su religión no sobrevivió. En el espacio de cinco mil años, sus doctrinas sobre la Trinidad del Paraíso<ref>''Trinidad del Paraíso'': Job 5:7; Mt 28:19; Hch 2:32-33; 2 Co 13:14. ''Antigua visión de la Trinidad del Paraíso'': 1 Co 12:4-6.</ref> habían degenerado en el símbolo trino del dios del fuego.
+{{anchor|LU_79_3_4}} En una fecha tan temprana como el año 16.000 a. de J.C., un grupo de cien sacerdotes setitas penetró en la India y estuvo a punto de conquistar religiosamente la mitad occidental de este pueblo políglota, pero su religión no sobrevivió. En el espacio de cinco mil años, sus doctrinas sobre la Trinidad del Paraíso<ref name="n1"/> habían degenerado en el símbolo trino del dios del fuego.
 
 {{anchor|LU_79_3_5}} Pero durante más de siete mil años y hasta el final de las emigraciones anditas, el nivel religioso de los habitantes de la India fue muy superior al del resto del mundo. Durante aquellos tiempos, la India prometía dar nacimiento a la civilización cultural, religiosa, filosófica y comercial más avanzada del mundo. Si los anditas no hubieran sido completamente absorbidos por los pueblos del sur, este destino probablemente se hubiera realizado.
 
@@ -150,7 +150,7 @@
 
 {{anchor|LU_79_8_3}} La conciencia de los éxitos del pasado (un poco atenuada en la actualidad), el conservadurismo de un pueblo en su inmensa mayoría agrícola y una vida familiar bien desarrollada dieron nacimiento a la veneración de los antepasados, que culminó en la costumbre de honrar a los hombres del pasado hasta el punto de rayar en la adoración. Una actitud muy similar prevaleció entre las razas blancas de Europa durante cerca de quinientos años después de la desintegración de la civilización grecorromana.
 
-{{anchor|LU_79_8_4}} La creencia y la adoración de la «Verdad
+{{anchor|LU_79_8_4}} La creencia y la adoración de la «Verdad Única»<ref name="n2"/>, tal como la había enseñado Singlangtón, nunca desapareció por completo; pero a medida que el tiempo pasaba, la tendencia creciente a venerar lo que ya estaba establecido eclipsó la búsqueda de una verdad nueva y más elevada. El genio de la raza amarilla se desvió lentamente de la búsqueda de lo desconocido hacia la conservación de lo conocido. Y ésta es la razón del estancamiento de lo que había sido la civilización que había progresado más rápidamente en el mundo.
 
 {{anchor|LU_79_8_5}} La reunificación política de la raza amarilla se consumó entre los años 4000 y 500 a. de J.C., pero la unión cultural entre los centros del Yang-tsé y del Río Amarillo ya se había efectuado. Esta reunificación política de los últimos grupos tribales no se llevó a cabo sin conflictos, pero la sociedad tenía una mala opinión de la guerra. El culto de los antepasados, el aumento de los dialectos y la ausencia de llamamientos para las acciones militares durante miles y miles de años habían vuelto a este pueblo ultrapacífico.
 
@@ -182,5 +182,8 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Un solo Dios en el cielo'': {{lib|Gn|24|3,7}}; {{lib|1 Re|8|23}}; {{lib|2 Cr|20|6}}; {{lib|2 Cr|36|23}}; {{lib|Esd|1|2}}; {{lib|Esd|5|11-12}}; {{lib|Neh|1|4-5}}; {{lib|Sal|80|14}}; {{lib|Sal|136|26}}; {{lib|Ec|5|2}}; {{lib|Dn|2|18-19,28}}; {{lib|Dt|4|39}}; {{lib|Jos|2|11}}. </ref>
+<ref name="n1">''Trinidad del Paraíso'': {{lib|Job|5|7}}; {{lib|Mt|28|19}}; {{lib|Hch|2|32-33}}; {{lib|2 Co|13|14}}. ''Antigua visión de la Trinidad del Paraíso'': {{lib|1 Co|12|4-6}}. </ref>
+<ref name="n2">''Verdad Única'': {{lib|Jn|14|6}}. </ref>
+</references>

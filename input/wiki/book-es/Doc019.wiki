@@ -142,7 +142,7 @@
 
 == {{anchor|LU_19_7}} 7. LOS CIUDADANOS DEL PARAÍSO ==
 
-{{anchor|LU_19_7_1}} En el Paraíso<ref>''Paraíso'': Lc 23:43; 2 Co 12:4; Ap 2:7.</ref> residen numerosos grupos de seres magníficos, los Ciudadanos del Paraíso. No están directamente relacionados con el proyecto de perfeccionar a las criaturas volitivas ascendentes, y por eso no son plenamente revelados a los mortales de Urantia. Existen más de tres mil órdenes de estas inteligencias celestiales, y el último grupo fue personalizado al mismo tiempo que la Trinidad emitía el mandato que promulgaba el plan creativo de los siete superuniversos del tiempo y del espacio.
+{{anchor|LU_19_7_1}} En el Paraíso<ref name="n0"/> residen numerosos grupos de seres magníficos, los Ciudadanos del Paraíso. No están directamente relacionados con el proyecto de perfeccionar a las criaturas volitivas ascendentes, y por eso no son plenamente revelados a los mortales de Urantia. Existen más de tres mil órdenes de estas inteligencias celestiales, y el último grupo fue personalizado al mismo tiempo que la Trinidad emitía el mandato que promulgaba el plan creativo de los siete superuniversos del tiempo y del espacio.
 
 {{anchor|LU_19_7_2}} Los Ciudadanos del Paraíso y los nativos de Havona a veces se conocen por el nombre colectivo de ''personalidades del Paraíso-Havona.''
 
@@ -156,5 +156,6 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Paraíso'': {{lib|Lc|23|43}}; {{lib|2 Co|12|4}}; {{lib|Ap|2|7}}. </ref>
+</references>

@@ -49,3 +49,36 @@ exports.extendArray = function(arr, data) {
 		arr[arr.length] = extension[i];
 	}
 };
+
+/**
+ * Reemplaza en una cadena un tag de inicio y de fin por otro tag de inicio y fin.
+ * @param {string} content Cadena a reemplazar
+ * @param {string} initTag Tag de inicio.
+ * @param {string} endTag Tag de fin.
+ * @param {string} initTag2 Tag por el que reemplazar el tag de inicio.
+ * @param {string} endTag2 Tag por el que reemplazar el tag de fin.
+ * @param {?string} error Null si no hay error.
+ * @return {string}
+ */
+exports.replaceTags = function(content, initTag, endTag, initTag2, endTag2, error) {
+	let result = '', ii, i = 0, index;
+	error = null;
+	while (i < content.length) {
+		index = content.indexOf(initTag, i);
+		if (index === -1) {
+			result += content.substring(i);
+			break;
+		} else {
+			result += content.substring(i, index);
+		}
+		ii = index + initTag.length;
+		i = content.indexOf(endTag, ii);
+		if (i === -1) {
+			error = 'No existe cadena de cierre correcto';
+			return content;
+		}
+		result += initTag2 + content.substring(ii, i) + endTag2;
+		i += endTag.length;
+	}
+	return result;
+};

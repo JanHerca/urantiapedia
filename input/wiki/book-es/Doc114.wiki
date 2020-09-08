@@ -2,7 +2,7 @@
 
 {{anchor|LU_114_0}}
 
-{{anchor|LU_114_0_1}} LOS ALTÍSIMOS gobiernan en los reinos de los hombres<ref>''Los Altísimos gobiernan'': Dn 4:17,25,32; 5:21.</ref> por medio de muchas fuerzas y agentes celestiales, pero principalmente a través del ministerio de los serafines.
+{{anchor|LU_114_0_1}} LOS ALTÍSIMOS gobiernan en los reinos de los hombres<ref name="n0"/> por medio de muchas fuerzas y agentes celestiales, pero principalmente a través del ministerio de los serafines.
 
 {{anchor|LU_114_0_2}} Hoy al mediodía, la lista nominal de ángeles planetarios, guardianes y otros en Urantia contenía 501.234.619 parejas de serafines. Estaban destinadas a mi mando doscientas huestes seráficas —597.196.800 parejas de serafines o 1.194.393.600 ángeles individuales. El registro muestra sin embargo a 1.002.469.238 individuos; de ello se deduce por tanto que 191.294.362 ángeles estaban ausentes de este mundo en servicios relacionados con el transporte, los mensajes o la muerte. (En Urantia hay aproximadamente el mismo número de querubines que de serafines, y están organizados de manera similar.)
 
@@ -26,7 +26,7 @@
 
 == {{anchor|LU_114_1}} 1. LA SOBERANÍA DE URANTIA ==
 
-{{anchor|LU_114_1_1}} La soberanía original de Urantia estaba en manos del soberano del sistema de Satania. Éste la delegó en primer lugar a una comisión mixta de Melquisedeks y de Portadores de Vida, y este grupo funcionó en Urantia hasta la llegada de un Príncipe Planetario debidamente nombrado. Después de la caída del Príncipe Caligastia, en la época de la rebelión de Lucifer, Urantia no tuvo unas relaciones seguras y estables con el universo local y sus divisiones administrativas hasta que Miguel no finalizó su donación en la carne, cuando el Unión de los Días lo proclamó Príncipe Planetario de Urantia. Esta proclamación fijó para siempre, en principio y con seguridad, el estado de vuestro mundo, pero el Hijo Creador Soberano no hizo ningún gesto en la práctica para administrar personalmente el planeta, aparte de establecer en Jerusem una comisión de veinticuatro antiguos urantianos<ref>''La comisión de Jerusem'': Ap 4:4; 11:16.</ref> con autoridad para representarlo en el gobierno de Urantia y de todos los demás planetas en cuarentena del sistema. Un miembro de este consejo reside ahora permanentemente en Urantia como gobernador general residente{2}.
+{{anchor|LU_114_1_1}} La soberanía original de Urantia estaba en manos del soberano del sistema de Satania. Éste la delegó en primer lugar a una comisión mixta de Melquisedeks y de Portadores de Vida, y este grupo funcionó en Urantia hasta la llegada de un Príncipe Planetario debidamente nombrado. Después de la caída del Príncipe Caligastia, en la época de la rebelión de Lucifer, Urantia no tuvo unas relaciones seguras y estables con el universo local y sus divisiones administrativas hasta que Miguel no finalizó su donación en la carne, cuando el Unión de los Días lo proclamó Príncipe Planetario de Urantia. Esta proclamación fijó para siempre, en principio y con seguridad, el estado de vuestro mundo, pero el Hijo Creador Soberano no hizo ningún gesto en la práctica para administrar personalmente el planeta, aparte de establecer en Jerusem una comisión de veinticuatro antiguos urantianos<ref name="n1"/> con autoridad para representarlo en el gobierno de Urantia y de todos los demás planetas en cuarentena del sistema. Un miembro de este consejo reside ahora permanentemente en Urantia como gobernador general residente<ref name="n2"/>.
 
 {{anchor|LU_114_1_2}} La autoridad como vicegerente para actuar en nombre de Miguel como Príncipe Planetario se ha conferido recientemente a Maquiventa Melquisedek, pero este Hijo del universo local no ha tomado la más pequeña medida para modificar el régimen planetario actual de las administraciones sucesivas de los gobernadores generales residentes.
 
@@ -100,9 +100,9 @@
 
 {{anchor|LU_114_6_6}} 2. ''Los ángeles del progreso''. Estos serafines tienen encomendada la tarea de iniciar el progreso evolutivo de las épocas sociales sucesivas. Fomentan el desarrollo de la tendencia progresiva inherente a las criaturas evolutivas; trabajan sin cesar para hacer que las cosas sean como debieran ser. El grupo que está ahora de servicio es el segundo que ha sido asignado al planeta.
 
-{{anchor|LU_114_6_7}} 3. ''Los guardianes de la religión''. Son los «ángeles de las iglesias»{3}, los ardientes luchadores por lo que es y por lo que ha sido. Se esfuerzan por mantener los ideales de lo que ha sobrevivido, para que los valores morales puedan pasar con seguridad de una época a la siguiente. Son los jaque y mate de los ángeles del progreso, e intentan transferir constantemente, de una generación a la siguiente, los valores imperecederos de las formas antiguas y pasajeras a los modelos de pensamiento y de conducta nuevos y, por consiguiente, menos estabilizados. Estos ángeles luchan por las formas espirituales, pero no son la fuente del sectarismo excesivo ni de las polémicas divisiones sin sentido de las personas supuestamente religiosas. El cuerpo que trabaja ahora en Urantia es el quinto que sirve así{4}.
+{{anchor|LU_114_6_7}} 3. ''Los guardianes de la religión''. Son los «ángeles de las iglesias»<ref name="n3"/>, los ardientes luchadores por lo que es y por lo que ha sido. Se esfuerzan por mantener los ideales de lo que ha sobrevivido, para que los valores morales puedan pasar con seguridad de una época a la siguiente. Son los jaque y mate de los ángeles del progreso, e intentan transferir constantemente, de una generación a la siguiente, los valores imperecederos de las formas antiguas y pasajeras a los modelos de pensamiento y de conducta nuevos y, por consiguiente, menos estabilizados. Estos ángeles luchan por las formas espirituales, pero no son la fuente del sectarismo excesivo ni de las polémicas divisiones sin sentido de las personas supuestamente religiosas. El cuerpo que trabaja ahora en Urantia es el quinto que sirve así<ref name="n4"/>.
 
-{{anchor|LU_114_6_8}} 4. ''Los ángeles de la vida nacional''. Son los «ángeles de las trompetas»{5}, los directores de las realizaciones políticas de la vida nacional en Urantia. El grupo que asegura actualmente el supercontrol de las relaciones internacionales es el cuarto cuerpo que sirve en el planeta. El ministerio de esta división seráfica es el que hace particularmente posible que «los Altísimos gobiernen en los reinos de los hombres»{6}.
+{{anchor|LU_114_6_8}} 4. ''Los ángeles de la vida nacional''. Son los «ángeles de las trompetas»<ref name="n5"/>, los directores de las realizaciones políticas de la vida nacional en Urantia. El grupo que asegura actualmente el supercontrol de las relaciones internacionales es el cuarto cuerpo que sirve en el planeta. El ministerio de esta división seráfica es el que hace particularmente posible que «los Altísimos gobiernen en los reinos de los hombres»<ref name="n6"/>.
 
 {{anchor|LU_114_6_9}} 5. ''Los ángeles de las razas''. Son aquellos que trabajan para conservar las razas evolutivas del tiempo, sin tener en cuenta sus enredos políticos ni sus agrupaciones religiosas. En Urantia existen restos de nueve razas humanas que se han mezclado y combinado para formar los pueblos de los tiempos modernos. Estos serafines están estrechamente asociados al ministerio de los comisionados raciales, y el grupo que sirve actualmente en Urantia es el cuerpo original asignado al planeta poco después del día de Pentecostés.
 
@@ -162,11 +162,19 @@
 
 {{anchor|LU_114_7_16}} Nadie parece saber, en el universo local, cuándo terminará el estado inestable de la administración planetaria. Los Melquisedeks de Nebadon tienden a opinar que se producirán pocos cambios en el gobierno y la administración del planeta hasta la segunda venida personal de Miguel a Urantia. Es indudable que en ese momento, si no antes, se realizarán unos cambios radicales en la gestión del planeta. Pero en cuanto a la naturaleza de estas modificaciones en la administración del mundo, nadie parece ser capaz de hacer ni siquiera una conjetura. No existe ningún precedente de un episodio así en toda la historia de los mundos habitados del universo de Nebadon. Entre las numerosas cosas difíciles de comprender acerca del futuro gobierno de Urantia, una de las más sobresalientes es la instalación en el planeta de un circuito y de un cuartel general divisionario de arcángeles.
 
-{{anchor|LU_114_7_17}} Vuestro mundo aislado no está olvidado en los consejos del universo. Urantia no es una huérfana cósmica estigmatizada por el pecado y excluida, por la rebelión, de los vigilantes cuidados divinos. Desde Uversa hasta Salvington y continuando hacia abajo hasta Jerusem, e incluso en Havona y en el Paraíso, todos saben que estamos aquí; y vosotros los mortales que vivís actualmente en Urantia, sois amados con el mismo afecto y cuidados, con la misma fidelidad, e incluso más, que si esta esfera no hubiera sido nunca traicionada por un Príncipe Planetario desleal. Es eternamente cierto que «el Padre mismo os ama»{7}.
+{{anchor|LU_114_7_17}} Vuestro mundo aislado no está olvidado en los consejos del universo. Urantia no es una huérfana cósmica estigmatizada por el pecado y excluida, por la rebelión, de los vigilantes cuidados divinos. Desde Uversa hasta Salvington y continuando hacia abajo hasta Jerusem, e incluso en Havona y en el Paraíso, todos saben que estamos aquí; y vosotros los mortales que vivís actualmente en Urantia, sois amados con el mismo afecto y cuidados, con la misma fidelidad, e incluso más, que si esta esfera no hubiera sido nunca traicionada por un Príncipe Planetario desleal. Es eternamente cierto que «el Padre mismo os ama»<ref name="n7"/>.
 
 {{anchor|LU_114_7_18}} [Presentado por el Jefe de los Serafines estacionados en Urantia.]
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Los Altísimos gobiernan'': {{lib|Dn|4|17,25,32}}; {{lib|Dn|5|21}}. </ref>
+<ref name="n1">''La comisión de Jerusem'': {{lib|Ap|4|4}}; {{lib|Ap|11|16}}. </ref>
+<ref name="n2">''Gobierno de Urantia'': {{lib|Ap|4|4,10}}; {{lib|Ap|5|8,14}}; {{lib|Ap|7|11}}; {{lib|Ap|11|16}}; {{lib|Ap|14|3}}; {{lib|Ap|19|4}}. </ref>
+<ref name="n3">''Ángeles de las iglesias'': {{lib|Ap|1|20}}. </ref>
+<ref name="n4">''Ángel de la Iglesia'': {{lib|Ap|2|1,8,12,18}}; {{lib|Ap|3|1,7,14}}. </ref>
+<ref name="n5">''Ángeles de las trompetas'': {{lib|Ap|8|2,6}}. </ref>
+<ref name="n6">''Los Altísimos gobiernan'': {{lib|Dn|4|17,25,32}}; {{lib|Dn|5|21}}. </ref>
+<ref name="n7">''El Padre mismo os ama'': {{lib|Jn|16|27}}. </ref>
+</references>

@@ -144,7 +144,7 @@
 
 {{anchor|LU_91_8_5}} La oración puede ser una expresión espontánea de la conciencia de Dios, o una recitación sin sentido de fórmulas teológicas. Puede ser la alabanza extática de un alma que conoce a Dios, o el homenaje servil de un mortal dominado por el miedo. A veces consiste en la expresión patética de un anhelo espiritual, y a veces en el grito estridente de unas frases piadosas. La oración puede ser una alabanza gozosa o una humilde petición de perdón.
 
-{{anchor|LU_91_8_6}} La oración puede ser la petición infantil de lo imposible, o la súplica madura por el crecimiento moral y el poder espiritual. Una petición puede ser por el pan de cada día, o puede expresar el anhelo sincero de encontrar a Dios y hacer su voluntad<ref>''Oración personal'': Mt 6:9-13; Lc 11:3-4.</ref>. Puede tratarse de un ruego totalmente egoísta, o de un gesto sincero y magnífico hacia la realización de la fraternidad desinteresada.
+{{anchor|LU_91_8_6}} La oración puede ser la petición infantil de lo imposible, o la súplica madura por el crecimiento moral y el poder espiritual. Una petición puede ser por el pan de cada día, o puede expresar el anhelo sincero de encontrar a Dios y hacer su voluntad<ref name="n0"/>. Puede tratarse de un ruego totalmente egoísta, o de un gesto sincero y magnífico hacia la realización de la fraternidad desinteresada.
 
 {{anchor|LU_91_8_7}} La oración puede ser un grito airado de venganza, o una intercesión misericordiosa por vuestros enemigos. Puede ser la expresión de la esperanza de cambiar a Dios, o la técnica poderosa de cambiarse a sí mismo. Puede ser la súplica acobardada de un pecador perdido ante un Juez supuestamente severo, o la alegre expresión de un hijo, liberado, del Padre celestial vivo y misericordioso.
 
@@ -182,5 +182,6 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Oración personal'': {{lib|Mt|6|9-13}}; {{lib|Lc|11|3-4}}. </ref>
+</references>

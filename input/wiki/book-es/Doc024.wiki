@@ -112,7 +112,7 @@
 
 {{anchor|LU_24_6_1}} Los Guías de los Graduados, como grupo, patrocinan y dirigen la importante universidad de enseñanza técnica y de formación espiritual que es tan esencial para que los mortales alcancen la meta de todos los tiempos: Dios, el descanso, y luego una eternidad de servicio perfeccionado. Estos seres extremadamente personales reciben su nombre de la naturaleza y la finalidad de su trabajo. Se dedican exclusivamente a las tareas de guiar a los graduados mortales de los superuniversos del tiempo a través del programa de enseñanza y de formación de Havona, que sirve para preparar a los peregrinos ascendentes para que sean admitidos en el Paraíso y en el Cuerpo de la Finalidad.
 
-{{anchor|LU_24_6_2}} No me está prohibido indicaros el trabajo de estos Guías de los Graduados, pero es tan ultraespiritual que desespero de ser capaz de describir adecuadamente a la mente material una idea de sus múltiples actividades. En los mundos de las mansiones, después de que se amplíe vuestro campo visual y de que estéis liberados de las trabas de las comparaciones materiales, podréis empezar a comprender el significado de esas realidades que «el ojo no puede ver ni el oído oír, y que no han existido nunca en los conceptos de la mente humana»<ref>''Lo que el ojo no puede ver ni el oído oír'': Is 64:4.</ref>, e incluso aquellas cosas que «Dios ha preparado para aquellos que aman estas verdades eternas»{1}. No siempre estaréis tan limitados en el alcance de vuestra visión y de vuestra comprensión espiritual.
+{{anchor|LU_24_6_2}} No me está prohibido indicaros el trabajo de estos Guías de los Graduados, pero es tan ultraespiritual que desespero de ser capaz de describir adecuadamente a la mente material una idea de sus múltiples actividades. En los mundos de las mansiones, después de que se amplíe vuestro campo visual y de que estéis liberados de las trabas de las comparaciones materiales, podréis empezar a comprender el significado de esas realidades que «el ojo no puede ver ni el oído oír, y que no han existido nunca en los conceptos de la mente humana»<ref name="n0"/>, e incluso aquellas cosas que «Dios ha preparado para aquellos que aman estas verdades eternas»<ref name="n1"/>. No siempre estaréis tan limitados en el alcance de vuestra visión y de vuestra comprensión espiritual.
 
 {{anchor|LU_24_6_3}} Los Guías de los Graduados se ocupan de dirigir a los peregrinos del tiempo a través de los siete circuitos de los mundos de Havona. El guía que os acoja a vuestra llegada al mundo receptor del circuito exterior de Havona permanecerá con vosotros durante toda vuestra carrera en los circuitos celestiales. Aunque os asociaréis con otras innumerables personalidades durante vuestra estancia en los mil millones de mundos, vuestro Guía de los Graduados os seguirá hasta el final de vuestra progresión en Havona y presenciará vuestra entrada en el sueño final del tiempo, el sueño de transición a la eternidad hacia la meta del Paraíso, donde, cuando os despertéis, seréis recibidos por el Compañero Paradisiaco encargado de daros la bienvenida y quizás de permanecer con vosotros hasta que seáis aceptados como miembros del Cuerpo de los Mortales de la Finalidad.
 
@@ -152,5 +152,7 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Lo que el ojo no puede ver ni el oído oír'': {{lib|Is|64|4}}. </ref>
+<ref name="n1">''Lo que Dios ha preparado'': {{lib|1 Co|2|9}}. </ref>
+</references>

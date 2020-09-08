@@ -114,7 +114,7 @@
 
 == {{anchor|LU_98_7}} 7. LA RELIGIÓN CRISTIANA ==
 
-{{anchor|LU_98_7_1}} Un Hijo Creador no se encarnó en la similitud de la carne mortal ni se donó a la humanidad de Urantia para reconciliarla con un Dios enojado, sino más bien para conseguir que todos los hombres reconocieran el amor del Padre y fueran conscientes de su filiación con Dios. Después de todo, incluso el gran defensor de la doctrina de la expiación comprendió una parte de esta verdad, pues declaró que «Dios estaba, en Cristo, reconciliando el mundo consigo mismo»<ref>''Reconciliación de Cristo'': Ro 5:10; 2 Co 5:19.</ref>.
+{{anchor|LU_98_7_1}} Un Hijo Creador no se encarnó en la similitud de la carne mortal ni se donó a la humanidad de Urantia para reconciliarla con un Dios enojado, sino más bien para conseguir que todos los hombres reconocieran el amor del Padre y fueran conscientes de su filiación con Dios. Después de todo, incluso el gran defensor de la doctrina de la expiación comprendió una parte de esta verdad, pues declaró que «Dios estaba, en Cristo, reconciliando el mundo consigo mismo»<ref name="n0"/>.
 
 {{anchor|LU_98_7_2}} No es incumbencia de este documento tratar sobre el origen y la difusión de la religión cristiana. Es suficiente con decir que está construida alrededor de la persona de Jesús de Nazaret, el Hijo Miguel de Nebadon encarnado como ser humano, conocido en Urantia como el Cristo, el ungido. El cristianismo fue difundido por todo el Levante y Occidente por los seguidores de este galileo, y su entusiasmo misionero igualó al de sus ilustres predecesores, los setitas y los salemitas, así como al de sus fervientes contemporáneos asiáticos, los educadores budistas.
 
@@ -136,11 +136,13 @@
 
 {{anchor|LU_98_7_11}} A medida que las enseñanzas originales de Jesús penetraron en Occidente, fueron occidentalizadas, y a medida que fueron occidentalizadas, empezaron a perder su atracción potencialmente universal para todas las razas y tipos de hombres. El cristianismo de hoy se ha convertido en una religión bien adaptada a las costumbres sociales, económicas y políticas de las razas blancas. Hace tiempo que dejó de ser la religión de Jesús, aunque todavía presenta valientemente una hermosa religión acerca de Jesús a aquellas personas que intentan seguir sinceramente el camino de sus enseñanzas. El cristianismo ha glorificado a Jesús como Cristo, el ungido mesiánico de Dios, pero ha olvidado ampliamente el evangelio personal del Maestro: la Paternidad de Dios y la fraternidad universal de todos los hombres.
 
-{{anchor|LU_98_7_12}} Ésta es la larga historia de las enseñanzas de Maquiventa Melquisedek en Urantia. Hace cerca de cuatro mil años que este Hijo de emergencia de Nebadon se donó en Urantia, y durante este tiempo las enseñanzas del «sacerdote de El Elyón, el Dios Altísimo»<ref>''Sacerdote de El Elyón, el Dios Altísimo'': Gn 14:18; Heb 7:1.</ref>, han penetrado en todas las razas y pueblos. Y Maquiventa consiguió el objetivo de su donación excepcional: cuando Miguel se preparó para aparecer en Urantia, el concepto de Dios estaba presente en el corazón de los hombres y las mujeres, el mismo concepto de Dios que vuelve a brillar otra vez en la experiencia espiritual viviente de los numerosos hijos del Padre Universal, a medida que viven sus enigmáticas vidas temporales en los planetas que giran en el espacio.
+{{anchor|LU_98_7_12}} Ésta es la larga historia de las enseñanzas de Maquiventa Melquisedek en Urantia. Hace cerca de cuatro mil años que este Hijo de emergencia de Nebadon se donó en Urantia, y durante este tiempo las enseñanzas del «sacerdote de El Elyón, el Dios Altísimo»<ref name="n1"/>, han penetrado en todas las razas y pueblos. Y Maquiventa consiguió el objetivo de su donación excepcional: cuando Miguel se preparó para aparecer en Urantia, el concepto de Dios estaba presente en el corazón de los hombres y las mujeres, el mismo concepto de Dios que vuelve a brillar otra vez en la experiencia espiritual viviente de los numerosos hijos del Padre Universal, a medida que viven sus enigmáticas vidas temporales en los planetas que giran en el espacio.
 
 {{anchor|LU_98_7_13}} [Presentado por un Melquisedek de Nebadon.]
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Reconciliación de Cristo'': {{lib|Ro|5|10}}; {{lib|2 Co|5|19}}. </ref>
+<ref name="n1">''Sacerdote de El Elyón, el Dios Altísimo'': {{lib|Gn|14|18}}; {{lib|Heb|7|1}}. </ref>
+</references>

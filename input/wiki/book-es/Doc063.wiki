@@ -86,13 +86,13 @@
 
 == {{anchor|LU_63_6}} 6. ONAGAR --- EL PRIMER INSTRUCTOR DE LA VERDAD ==
 
-{{anchor|LU_63_6_1}} A medida que se extendía la dispersión andónica, el nivel cultural y espiritual de los clanes fue degenerando durante cerca de diez mil años hasta los tiempos de Onagar, el cual asumió la dirección de estas tribus, trajo la paz entre ellas y las condujo a todas, por primera vez, a la adoración de «Aquel que da el Aliento a los hombres y a los animales»<ref>''Aquel que da Aliento'': Gn 2:7; Is 42:5.</ref>.
+{{anchor|LU_63_6_1}} A medida que se extendía la dispersión andónica, el nivel cultural y espiritual de los clanes fue degenerando durante cerca de diez mil años hasta los tiempos de Onagar, el cual asumió la dirección de estas tribus, trajo la paz entre ellas y las condujo a todas, por primera vez, a la adoración de «Aquel que da el Aliento a los hombres y a los animales»<ref name="n0"/>.
 
 {{anchor|LU_63_6_2}} La filosofía de Andón había sido muy confusa; le faltó muy poco para convertirse en un adorador del fuego a causa de la gran comodidad que le procuró su descubrimiento accidental. Sin embargo, la razón lo desvió de su propio descubrimiento y lo orientó hacia el Sol como fuente superior e imponente de luz y de calor; pero esta fuente estaba demasiado lejana, y Andón no se convirtió en un adorador del Sol.
 
 {{anchor|LU_63_6_3}} Los andonitas no tardaron en descubrir el miedo que les producían los elementos —trueno, relámpago, lluvia, nieve, granizo e hielo. Pero el hambre era el estímulo que reaparecía constantemente en aquellos tiempos primitivos, y como se alimentaban en gran parte de los animales, desarrollaron con el tiempo una especie de adoración a los animales. Para Andón, los animales comestibles más grandes eran símbolos de fuerza creativa y de poder sustentador. De vez en cuando, tenían la costumbre de designar a alguno de estos animales más grandes como objeto de adoración. Cuando estaba en boga un animal determinado, dibujaban toscamente sus contornos en las paredes de las cavernas, y más tarde, a medida que las artes continuaron progresando, este dios animal era grabado en diversos ornamentos.
 
-{{anchor|LU_63_6_4}} Muy pronto, los pueblos andónicos adquirieron la costumbre de abstenerse de comer la carne del animal que se veneraba en su tribu. Luego, para causar una impresión más adecuada en la mente de los jóvenes, desarrollaron una ceremonia de veneración que realizaban alrededor del cuerpo de uno de aquellos animales reverenciados; y más tarde aún, esta celebración primitiva se transformó en las ceremonias sacrificatorias más complicadas que practicaron sus descendientes. Éste es el origen de los sacrificios como parte del culto. Esta idea fue elaborada por Moisés en el ritual hebreo, y conservada en su esencia por el apóstol Pablo como la doctrina de la expiación<ref>''Doctrina de la expiación'': Heb 9:22.</ref> de los pecados mediante el «derramamiento de sangre»{2}.
+{{anchor|LU_63_6_4}} Muy pronto, los pueblos andónicos adquirieron la costumbre de abstenerse de comer la carne del animal que se veneraba en su tribu. Luego, para causar una impresión más adecuada en la mente de los jóvenes, desarrollaron una ceremonia de veneración que realizaban alrededor del cuerpo de uno de aquellos animales reverenciados; y más tarde aún, esta celebración primitiva se transformó en las ceremonias sacrificatorias más complicadas que practicaron sus descendientes. Éste es el origen de los sacrificios como parte del culto. Esta idea fue elaborada por Moisés en el ritual hebreo, y conservada en su esencia por el apóstol Pablo como la doctrina de la expiación<ref name="n1"/> de los pecados mediante el «derramamiento de sangre»<ref name="n2"/>.
 
 {{anchor|LU_63_6_5}} La comida era la cosa más importante en la vida de estos seres humanos primitivos, tal como lo demuestra la oración que Onagar, su gran instructor, enseñó a esta gente sencilla. Esta oración decía así:
 
@@ -118,5 +118,8 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Aquel que da Aliento'': {{lib|Gn|2|7}}; {{lib|Is|42|5}}. </ref>
+<ref name="n1">''Doctrina de la expiación'': {{lib|Heb|9|22}}. </ref>
+<ref name="n2">''Sacrificios de sangre'': {{lib|Ex|20|24}}; {{lib|Lv|17|11}}. </ref>
+</references>

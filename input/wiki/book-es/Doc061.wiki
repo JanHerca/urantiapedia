@@ -106,7 +106,7 @@
 
 {{anchor|LU_61_4_3}} Durante un corto período de tiempo, todas las tierras del mundo estuvieron unidas de nuevo a excepción de Australia, y entonces se produjo la última gran emigración animal a escala mundial. América del Norte estaba conectada con Sudamérica y Asia a la vez, y la vida animal procedió a intercambiarse libremente. Los perezosos, armadillos, antílopes y osos de Asia penetraron en América del Norte, mientras que los camellos norteamericanos se fueron a China. Los rinocerontes emigraron por el mundo entero a excepción de Australia y América del Sur, pero al final de este período se habían extinguido en el hemisferio occidental.
 
-{{anchor|LU_61_4_4}} En general, la vida del período anterior continuó evolucionando y extendiéndose. La familia felina dominaba la vida animal, y la vida marina se encontraba casi estancada. Muchos caballos tenían todavía tres dedos, pero los tipos modernos estaban a punto de llegar; las llamas y los camellos parecidos a las jirafas se mezclaban con los caballos en los pastizales de las llanuras. La jirafa apareció en
+{{anchor|LU_61_4_4}} En general, la vida del período anterior continuó evolucionando y extendiéndose. La familia felina dominaba la vida animal, y la vida marina se encontraba casi estancada. Muchos caballos tenían todavía tres dedos, pero los tipos modernos estaban a punto de llegar; las llamas y los camellos parecidos a las jirafas se mezclaban con los caballos en los pastizales de las llanuras. La jirafa apareció en África con un cuello tan largo como el de hoy. En América del Sur evolucionaron los perezosos, los armadillos, los osos hormigueros y los tipos sudamericanos de monos primitivos. Antes de que los continentes se quedaran definitivamente aislados, los mastodontes, aquellos animales macizos, emigraron a todas partes excepto a Australia.
 
 {{anchor|LU_61_4_5}} Hace ''5.000.000'' de años, el caballo alcanzó su estado de evolución actual y emigró desde América del Norte hacia el mundo entero. Pero el caballo se había extinguido en su continente de origen mucho antes de que llegara el hombre rojo.
 
@@ -134,7 +134,7 @@
 
 == {{anchor|LU_61_6}} 6. EL HOMBRE PRIMITIVO EN LA ÉPOCA GLACIAL ==
 
-{{anchor|LU_61_6_1}} El gran acontecimiento de este período glacial fue la aparición por evolución del hombre primitivo<ref>''Hombre primitivo'': Gn 1:26-27; 2:7.</ref>. Un poco hacia el oeste de la India, en una tierra ahora sumergida y entre los descendientes de los antiguos tipos de lémures norteamericanos que emigraron a Asia, los mamíferos precursores del hombre aparecieron ''repentinamente''. Estos pequeños animales caminaban principalmente sobre sus patas traseras; poseían un cerebro grande en proporción a su tamaño y en comparación con el cerebro de otros animales. En la septuagésima generación de esta orden de vida, un nuevo grupo de animales superiores se diferenció ''repentinamente''. Estos nuevos mamíferos intermedios —que eran casi el doble de grandes que sus predecesores y poseían proporcionalmente una mayor capacidad cerebral— apenas acababan de establecerse bien cuando los primates, la tercera mutación vital, aparecieron ''repentinamente''. (Al mismo tiempo, un desarrollo retrógrado dentro de la familia de los mamíferos intermedios dio origen a los antepasados de los simios; desde aquel día hasta la fecha, la rama humana ha progresado mediante una evolución paulatina, mientras que las tribus simias han permanecido estacionarias o han retrocedido realmente.)
+{{anchor|LU_61_6_1}} El gran acontecimiento de este período glacial fue la aparición por evolución del hombre primitivo<ref name="n0"/>. Un poco hacia el oeste de la India, en una tierra ahora sumergida y entre los descendientes de los antiguos tipos de lémures norteamericanos que emigraron a Asia, los mamíferos precursores del hombre aparecieron ''repentinamente''. Estos pequeños animales caminaban principalmente sobre sus patas traseras; poseían un cerebro grande en proporción a su tamaño y en comparación con el cerebro de otros animales. En la septuagésima generación de esta orden de vida, un nuevo grupo de animales superiores se diferenció ''repentinamente''. Estos nuevos mamíferos intermedios —que eran casi el doble de grandes que sus predecesores y poseían proporcionalmente una mayor capacidad cerebral— apenas acababan de establecerse bien cuando los primates, la tercera mutación vital, aparecieron ''repentinamente''. (Al mismo tiempo, un desarrollo retrógrado dentro de la familia de los mamíferos intermedios dio origen a los antepasados de los simios; desde aquel día hasta la fecha, la rama humana ha progresado mediante una evolución paulatina, mientras que las tribus simias han permanecido estacionarias o han retrocedido realmente.)
 
 {{anchor|LU_61_6_2}} Hace ''1.000.000'' de años, Urantia fue registrada como ''mundo habitado''. Una mutación dentro de la familia de los primates que progresaban produjo ''repentinamente'' dos seres humanos primitivos, los verdaderos antepasados de la humanidad.
 
@@ -186,5 +186,6 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Hombre primitivo'': {{lib|Gn|1|26-27}}; {{lib|Gn|2|7}}. </ref>
+</references>

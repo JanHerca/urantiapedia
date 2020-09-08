@@ -8,7 +8,7 @@
 
 == {{anchor|LU_80_1}} 1. LOS ADAMITAS ENTRAN EN EUROPA ==
 
-{{anchor|LU_80_1_1}} Antes de que los últimos anditas fueran expulsados del valle del
+{{anchor|LU_80_1_1}} Antes de que los últimos anditas fueran expulsados del valle del Éufrates, muchos hermanos suyos habían penetrado en Europa como aventureros, educadores, comerciantes y guerreros. Durante los primeros tiempos de la raza violeta, la depresión mediterránea estaba protegida por el istmo de Gibraltar y el puente terrestre de Sicilia. Una parte del comercio marítimo inicial del hombre se estableció en estos lagos interiores, donde los hombres azules del norte y los saharianos del sur se encontraron con los noditas y los adamitas del este.
 
 {{anchor|LU_80_1_2}} Los noditas habían establecido uno de sus centros culturales más extensos en la depresión oriental del Mediterráneo, y desde allí habían penetrado un poco en el sur de Europa pero principalmente en el norte de África. Los sirios nodito-andonitas de cabeza ancha introdujeron muy pronto la alfarería y la agricultura en sus colonias del delta del Nilo, el cual se elevaba lentamente. Importaron también ovejas, cabras, ganado y otros animales domésticos, e introdujeron métodos muy perfeccionados para trabajar los metales, ya que Siria era entonces el centro de esta industria.
 
@@ -92,7 +92,7 @@
 
 {{anchor|LU_80_6_1}} La cultura declinó en el valle del Éufrates desde la época de las emigraciones anditas finales, y el centro inmediato de la civilización se trasladó al valle del Nilo. Egipto se convirtió en el sucesor de Mesopotamia como centro del grupo más avanzado de la Tierra.
 
-{{anchor|LU_80_6_2}} El valle del Nilo empezó a sufrir inundaciones poco antes que los valles de Mesopotamia, pero le fue mucho mejor. Este contratiempo inicial estuvo más que compensado por la oleada continua de inmigrantes anditas, de manera que la cultura de Egipto, aunque provenía en realidad de la región del
+{{anchor|LU_80_6_2}} El valle del Nilo empezó a sufrir inundaciones poco antes que los valles de Mesopotamia, pero le fue mucho mejor. Este contratiempo inicial estuvo más que compensado por la oleada continua de inmigrantes anditas, de manera que la cultura de Egipto, aunque provenía en realidad de la región del Éufrates, parecía hacer grandes progresos. Pero en el año 5000 a. de J.C., durante el período de las inundaciones en Mesopotamia, había siete grupos distintos de seres humanos en Egipto, y todos salvo uno procedían de Mesopotamia.
 
 {{anchor|LU_80_6_3}} Cuando se produjo el último éxodo del valle del Éufrates, Egipto tuvo la fortuna de recibir un gran número de los artistas y artesanos más hábiles. Estos artesanos anditas se encontraron como en su casa ya que estaban completamente familiarizados con la vida fluvial, sus inundaciones, el riego y las épocas de sequía. Disfrutaban de la situación protegida del valle del Nilo, donde estaban mucho menos expuestos a los ataques y las incursiones hostiles que en las riberas del Éufrates. Acrecentaron enormemente la habilidad de los egipcios en el trabajo de los metales. Aquí trabajaron los minerales de hierro procedentes del monte Sinaí en lugar de los de las regiones del Mar Negro.
 
@@ -114,7 +114,7 @@
 
 {{anchor|LU_80_7_6}} La región egea pasó por cinco etapas culturales diferentes, cada una de ellas menos espiritual que la anterior. Antes de mucho tiempo, la última época de gloria artística pereció bajo el peso de los descendientes mediocres, que se multiplicaban rápidamente, de los esclavos del Danubio que habían sido importados por las generaciones posteriores de griegos.
 
-{{anchor|LU_80_7_7}} El ''culto a la madre'' de los descendientes de Caín alcanzó su apogeo en Creta durante esta época. Este culto glorificaba a Eva en la adoración de la «gran madre»<ref>''Culto a Eva'': Gn 3:20.</ref>. Había imágenes de Eva por todas partes. Se erigieron miles de santuarios públicos por toda Creta y Asia Menor. Este culto a la madre perduró hasta los tiempos de Cristo, y más tarde fue incorporado en la religión cristiana primitiva bajo la forma de la glorificación y la adoración de María, la madre terrestre de Jesús.
+{{anchor|LU_80_7_7}} El ''culto a la madre'' de los descendientes de Caín alcanzó su apogeo en Creta durante esta época. Este culto glorificaba a Eva en la adoración de la «gran madre»<ref name="n0"/>. Había imágenes de Eva por todas partes. Se erigieron miles de santuarios públicos por toda Creta y Asia Menor. Este culto a la madre perduró hasta los tiempos de Cristo, y más tarde fue incorporado en la religión cristiana primitiva bajo la forma de la glorificación y la adoración de María, la madre terrestre de Jesús.
 
 {{anchor|LU_80_7_8}} Hacia el año 6500 a. de J.C. se había producido una gran decadencia en la herencia espiritual de los anditas. Los descendientes de Adán estaban extremadamente dispersos y habían sido prácticamente absorbidos por las razas humanas más antiguas y numerosas. Esta decadencia de la civilización andita, unida a la desaparición de sus normas religiosas, dejó a las razas espiritualmente empobrecidas del mundo en un estado deplorable.
 
@@ -178,5 +178,6 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Culto a Eva'': {{lib|Gn|3|20}}. </ref>
+</references>

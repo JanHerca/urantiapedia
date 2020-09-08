@@ -48,7 +48,7 @@
 
 {{anchor|LU_57_3_7}} Hace ''400.000.000.000'' de años empezó el período de recaptación de la nebulosa de Andronover. Muchos de los soles más cercanos y pequeños fueron capturados de nuevo a consecuencia de la ampliación gradual y de la condensación ulterior del núcleo materno. Muy pronto se inauguró la fase terminal de la condensación nebular, el período que precede siempre a la segregación final de estos inmensos agregados espaciales de energía y de materia.
 
-{{anchor|LU_57_3_8}} Apenas un millón de años después de esta época, Miguel de Nebadon, un Hijo Creador Paradisiaco, escogió esta nebulosa en desintegración como escenario para su aventura de construir un universo. Casi inmediatamente se empezaron a edificar los mundos arquitectónicos de Salvington y los cien grupos de planetas que forman las sedes centrales de las constelaciones. Se necesitó casi un millón de años para terminar estas agrupaciones de mundos especialmente creados. Los planetas sede de los sistemas locales se construyeron durante un período que se extendió desde esta época hasta hace unos cinco mil millones de años<ref>''La creación de Miguel'': Sal 33:6; 102:25; Is 45:12,18; Jn 1:1-3; Ef 2:10; 3:9; Col 1:16; Heb 1:2,10; Ap 4:11.</ref>.
+{{anchor|LU_57_3_8}} Apenas un millón de años después de esta época, Miguel de Nebadon, un Hijo Creador Paradisiaco, escogió esta nebulosa en desintegración como escenario para su aventura de construir un universo. Casi inmediatamente se empezaron a edificar los mundos arquitectónicos de Salvington y los cien grupos de planetas que forman las sedes centrales de las constelaciones. Se necesitó casi un millón de años para terminar estas agrupaciones de mundos especialmente creados. Los planetas sede de los sistemas locales se construyeron durante un período que se extendió desde esta época hasta hace unos cinco mil millones de años<ref name="n0"/>.
 
 {{anchor|LU_57_3_9}} Hace ''300.000.000.000'' de años, los circuitos solares de Andronover estaban bien establecidos, y el sistema nebular estaba pasando por un período transitorio de relativa estabilidad física. Aproximadamente por esta época, el estado mayor de Miguel llegó a Salvington, y el gobierno de Orvonton en Uversa reconoció la existencia física del universo local de Nebadon.
 
@@ -80,7 +80,7 @@
 
 == {{anchor|LU_57_5}} 5. EL ORIGEN DE MONMATIA ---EL SISTEMA SOLAR DE URANTIA ==
 
-{{anchor|LU_57_5_1}} Hace ''5.000.000.000'' de años, vuestro Sol<ref>''El sistema solar'': Gn 1:3.</ref> era una esfera llameante comparativamente aislada, que había atraído hacia sí la mayor parte de la materia cercana que circulaba por el espacio, los residuos del reciente cataclismo que había acompañado a su propio nacimiento.
+{{anchor|LU_57_5_1}} Hace ''5.000.000.000'' de años, vuestro Sol<ref name="n1"/> era una esfera llameante comparativamente aislada, que había atraído hacia sí la mayor parte de la materia cercana que circulaba por el espacio, los residuos del reciente cataclismo que había acompañado a su propio nacimiento.
 
 {{anchor|LU_57_5_2}} Vuestro Sol ha alcanzado hoy una estabilidad relativa, pero los ciclos de once años y medio de las manchas solares demuestran que era, en su juventud, una estrella variable. Durante los primeros tiempos de vuestro Sol, la contracción continua y el consiguiente aumento gradual de la temperatura iniciaron unas enormes convulsiones en su superficie. Estos levantamientos titánicos necesitaban tres días y medio para completar un ciclo de resplandor variable. Este estado variable, esta pulsación periódica, hicieron a vuestro Sol sumamente sensible a ciertas influencias externas que pronto iba a encontrar.
 
@@ -146,7 +146,7 @@
 
 {{anchor|LU_57_7_6}} La atmósfera planetaria primitiva va evolucionando lentamente; en este momento contiene un poco de vapor de agua, monóxido de carbono, dióxido de carbono y cloruro de hidrógeno, pero hay poco o ningún nitrógeno libre u oxígeno libre. La atmósfera de un mundo en la era volcánica ofrece un espectáculo extraño. Además de los gases enumerados, está sobrecargada de numerosos gases volcánicos, y a medida que se forma el cinturón atmosférico, hay que añadir los productos de la combustión de las abundantes lluvias meteóricas que se precipitan constantemente sobre la superficie del planeta. Esta combustión meteórica mantiene el oxígeno atmosférico muy cerca del agotamiento, y el ritmo del bombardeo meteórico continúa siendo enorme.
 
-{{anchor|LU_57_7_7}} La atmósfera pronto se volvió más estable y se enfrió lo suficiente como para provocar precipitaciones de lluvia<ref>''Agua'': Gn 1:6-10; 2:6.</ref> sobre la superficie rocosa caliente del planeta. Durante miles de años, Urantia estuvo envuelta en un continuo inmenso manto de vapor. Y durante estas épocas, el Sol no brilló nunca sobre la superficie de la Tierra.
+{{anchor|LU_57_7_7}} La atmósfera pronto se volvió más estable y se enfrió lo suficiente como para provocar precipitaciones de lluvia<ref name="n2"/> sobre la superficie rocosa caliente del planeta. Durante miles de años, Urantia estuvo envuelta en un continuo inmenso manto de vapor. Y durante estas épocas, el Sol no brilló nunca sobre la superficie de la Tierra.
 
 {{anchor|LU_57_7_8}} Una gran parte del carbono de la atmósfera fue extraído para formar los carbonatos de los diversos metales que abundaban en las capas superficiales del planeta. Más adelante, la prolífica vida vegetal primitiva consumió unas cantidades mucho mayores de estos gases carbónicos.
 
@@ -158,7 +158,7 @@
 
 {{anchor|LU_57_8_1}} Hace ''1.000.000.000'' de años comienza realmente la historia de Urantia. El planeta había alcanzado aproximadamente su tamaño actual. Por esta época fue inscrito en los registros físicos de Nebadon y se le dio el nombre de ''Urantia''.
 
-{{anchor|LU_57_8_2}} La atmósfera, así como las constantes precipitaciones de humedad, facilitaron el enfriamiento de la corteza terrestre<ref>''Estabilización de la corteza'': Gn 1:9-10.</ref>. La actividad volcánica igualó en poco tiempo la presión calorífica interna y la contracción de la corteza; y mientras los volcanes disminuían rápidamente, los terremotos hicieron su aparición a medida que avanzaba esta época de enfriamiento y de ajuste de la corteza.
+{{anchor|LU_57_8_2}} La atmósfera, así como las constantes precipitaciones de humedad, facilitaron el enfriamiento de la corteza terrestre<ref name="n3"/>. La actividad volcánica igualó en poco tiempo la presión calorífica interna y la contracción de la corteza; y mientras los volcanes disminuían rápidamente, los terremotos hicieron su aparición a medida que avanzaba esta época de enfriamiento y de ajuste de la corteza.
 
 {{anchor|LU_57_8_3}} La verdadera historia geológica de Urantia comienza cuando la corteza terrestre se enfrió lo suficiente para provocar la formación del primer océano. La condensación del vapor de agua sobre la superficie de la Tierra que se enfriaba, una vez iniciada, continuó hasta que estuvo prácticamente concluida. Hacia el final de este período, el océano ocupaba el mundo entero, cubriendo todo el planeta con una profundidad media de casi dos kilómetros. Las mareas funcionaban de manera muy similar a la de hoy, pero este océano primitivo no era salado; era prácticamente una envoltura de agua dulce que cubría el mundo. En aquellos tiempos, la mayor parte del cloro estaba combinado con diversos metales, pero había suficiente cloro unido al hidrógeno para hacer que este agua fuera ligeramente ácida.
 
@@ -212,5 +212,9 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''La creación de Miguel'': {{lib|Sal|33|6}}; {{lib|Sal|102|25}}; {{lib|Is|45|12,18}}; {{lib|Jn|1|1-3}}; {{lib|Ef|2|10}}; {{lib|Ef|3|9}}; {{lib|Col|1|16}}; {{lib|Heb|1|2,10}}; {{lib|Ap|4|11}}. </ref>
+<ref name="n1">''El sistema solar'': {{lib|Gn|1|3}}. </ref>
+<ref name="n2">''Agua'': {{lib|Gn|1|6-10}}; {{lib|Gn|2|6}}. </ref>
+<ref name="n3">''Estabilización de la corteza'': {{lib|Gn|1|9-10}}. </ref>
+</references>

@@ -8,7 +8,8 @@ exports.LaTeXSeparator = {
 	ITALIC_START: '\\textit{',
 	PAGEREF_START: '%\\textsuperscript{(',
 	PAGEREF_END: ')}',
-	END: '}'
+	END: '}',
+	BIGBREAK: '\\bigbreak'
 }
 
 //TODO: Libros que nos faltan:
@@ -24,17 +25,17 @@ exports.BibleAbb = {
 	'Jos':'Josué',
 	'Jue': 'Jueces',
 	'Rt': 'Rut',
-	'1 S': 'Samuel I',
-	'2 S': 'Samuel II',
-	'1 R': 'Reyes I',
-	'2 R': 'Reyes II',
-	'1 Cr': 'Crónicas I',
-	'2 Cr': 'Crónicas II',
+	'1 Sam': 'I Samuel',
+	'2 Sam': 'II Samuel',
+	'1 Re': 'I Reyes',
+	'2 Re': 'II Reyes',
+	'1 Cr': 'I Crónicas',
+	'2 Cr': 'II Crónicas',
 	'Esd': 'Esdras',
 	'Neh': 'Nehemías',
 	'Est': 'Ester',
-	'1 Mac': 'Macabeos I',
-	'2 Mac': 'Macabeos II',
+	'1 Mac': 'I Macabeos',
+	'2 Mac': 'II Macabeos',
 	'Job': 'Job',
 	'Sal': 'Salmos',
 	'Pr': 'Proverbios',

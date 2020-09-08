@@ -62,7 +62,7 @@
 
 {{anchor|LU_106_2_5}} Así es como el Ser Supremo consigue englobar finalmente todo lo que evoluciona en el tiempo y el espacio, confiriéndole a esas cualidades una personalidad espiritual. Puesto que las criaturas, incluidas las mortales, participan como personalidades en esta majestuosa operación, es indudable que conseguirán la capacidad de conocer al Supremo y de percibirlo como verdaderos hijos de esta Deidad evolutiva.
 
-{{anchor|LU_106_2_6}} Miguel de Nebadon es semejante al Padre Paradisiaco porque comparte su perfección paradisiaca<ref>''Perfección de Miguel'': Jn 14:9-10.</ref>; los mortales evolutivos conseguirán algún día emparentarse así con el Supremo experiencial, porque compartirán realmente su perfección evolutiva{1}.
+{{anchor|LU_106_2_6}} Miguel de Nebadon es semejante al Padre Paradisiaco porque comparte su perfección paradisiaca<ref name="n0"/>; los mortales evolutivos conseguirán algún día emparentarse así con el Supremo experiencial, porque compartirán realmente su perfección evolutiva<ref name="n1"/>.
 
 {{anchor|LU_106_2_7}} Dios Supremo es experiencial; por consiguiente, es completamente experimentable. Las realidades existenciales de los siete Absolutos no son perceptibles mediante la técnica de la experiencia; la personalidad de la criatura finita sólo puede captar ''las realidades de la personalidad'' del Padre, del Hijo y del Espíritu mediante la actitud de la oración y la adoración.
 
@@ -78,11 +78,11 @@
 
 {{anchor|LU_106_3_4}} La primera Trinidad experiencial asegura el logro colectivo de las eventualidades últimas. Las asociaciones colectivas permiten anticiparse a, e incluso trascender, las capacidades individuales; y esto es así incluso más allá del nivel finito. En las eras venideras, después de que los siete superuniversos estén establecidos en la luz y la vida, el Cuerpo de la Finalidad difundirá sin duda los objetivos de las Deidades del Paraíso tal como sean dictados por la Trinidad Última, y tal como estén unificados bajo la forma del poder y la personalidad en el Ser Supremo.
 
-{{anchor|LU_106_3_5}} Detectamos la expansión de los elementos comprensibles del Padre Universal a través de todos los gigantescos desarrollos universales de la eternidad pasada y futura. Consideramos como un postulado filosófico que el Padre, como YO SOY{2}, impregna toda la infinidad, pero ninguna criatura es capaz de abarcar este postulado por experiencia. A medida que se expanden los universos, a medida que la gravedad y el amor se extienden por el espacio que se organiza en el tiempo, somos capaces de comprender cada vez más cosas de la Fuente-Centro Primera. Observamos que la acción de la gravedad penetra la presencia espacial del Absoluto Incalificado, y detectamos que las criaturas espirituales evolucionan y se desarrollan dentro de la presencia de divinidad del Absoluto de la Deidad, mientras que la evolución tanto cósmica como espiritual se está unificando, por medio de la mente y de la experiencia, en los niveles finitos de la deidad bajo la forma del Ser Supremo, y se está coordinando en los niveles trascendentales como Trinidad Última.
+{{anchor|LU_106_3_5}} Detectamos la expansión de los elementos comprensibles del Padre Universal a través de todos los gigantescos desarrollos universales de la eternidad pasada y futura. Consideramos como un postulado filosófico que el Padre, como YO SOY<ref name="n2"/>, impregna toda la infinidad, pero ninguna criatura es capaz de abarcar este postulado por experiencia. A medida que se expanden los universos, a medida que la gravedad y el amor se extienden por el espacio que se organiza en el tiempo, somos capaces de comprender cada vez más cosas de la Fuente-Centro Primera. Observamos que la acción de la gravedad penetra la presencia espacial del Absoluto Incalificado, y detectamos que las criaturas espirituales evolucionan y se desarrollan dentro de la presencia de divinidad del Absoluto de la Deidad, mientras que la evolución tanto cósmica como espiritual se está unificando, por medio de la mente y de la experiencia, en los niveles finitos de la deidad bajo la forma del Ser Supremo, y se está coordinando en los niveles trascendentales como Trinidad Última.
 
 == {{anchor|LU_106_4}} 4. LA INTEGRACIÓN ÚLTIMA O DE CUARTA FASE ==
 
-{{anchor|LU_106_4_1}} La Trinidad del Paraíso coordina indudablemente en el sentido último, pero desempeña su actividad en este aspecto como un absoluto que se ha atenuado a sí mismo; la Trinidad Última experiencial, como trascendental que es, coordina lo trascendental. Cuando aumente su unidad en el eterno futuro, esta Trinidad experiencial activará aún más la presencia en vías de existenciarse de la Deidad
+{{anchor|LU_106_4_1}} La Trinidad del Paraíso coordina indudablemente en el sentido último, pero desempeña su actividad en este aspecto como un absoluto que se ha atenuado a sí mismo; la Trinidad Última experiencial, como trascendental que es, coordina lo trascendental. Cuando aumente su unidad en el eterno futuro, esta Trinidad experiencial activará aún más la presencia en vías de existenciarse de la Deidad Última.
 
 {{anchor|LU_106_4_2}} Aunque la Trinidad Última está destinada a coordinar la creación maestra, Dios Último es la personalización trascendental del poder que determina la meta hacia la que se dirige todo el universo maestro. La existenciación total del Último significará que la creación maestra ha llegado a su culminación, y traerá consigo la plena emergencia de esta Deidad trascendental.
 
@@ -214,5 +214,8 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Perfección de Miguel'': {{lib|Jn|14|9-10}}. </ref>
+<ref name="n1">''Sed perfectos'': {{lib|Gn|17|1}}; {{lib|1 Re|8|61}}; {{lib|Lv|19|2}}; {{lib|Dt|18|13}}; {{lib|Mt|5|48}}; {{lib|2 Co|13|11}}; {{lib|Stg|1|4}}; {{lib|1 P|1|16}}. </ref>
+<ref name="n2">''YO SOY'': {{lib|Ex|3|13-14}}. </ref>
+</references>

@@ -1,9 +1,11 @@
 //Reader/Writer para El Libro de Urantia en diferentes formatos (LaTeX/JSON/Wiki)
 
-const LaTeXSeparator = require('./enums').LaTeXSeparator;
+const LSep = require('./enums').LaTeXSeparator;
+const BibleAbb = require('./enums').BibleAbb;
 const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
+const replaceTags = require('./utils').replaceTags;
 const fs = require('fs');
 const path = require('path');
 
@@ -98,10 +100,9 @@ class Book {
 		let extractPrevious = null;
 		lines.forEach((line, i) => {
 			let j = 0;
-			if (line.startsWith(LaTeXSeparator.CHAPTER_START)) {
+			if (line.startsWith(LSep.CHAPTER_START)) {
 				//Si es un documento
-				extract = extractStr(line, LaTeXSeparator.CHAPTER_START,
-					LaTeXSeparator.END);
+				extract = extractStr(line, LSep.CHAPTER_START, LSep.END);
 				if (!extract) {
 					errors.push(this.createError(baseName, i,
 						'No se pudo extraer el inicio del documento'));
@@ -115,10 +116,9 @@ class Book {
 					};
 					paper.sections.push(currentSection);
 				}
-			} else if (line.startsWith(LaTeXSeparator.SECTION_START)) {
+			} else if (line.startsWith(LSep.SECTION_START)) {
 				//Si es una seccion
-				extract = extractStr(line, LaTeXSeparator.SECTION_START,
-					LaTeXSeparator.END);
+				extract = extractStr(line, LSep.SECTION_START, LSep.END);
 				if (!extract) {
 					errors.push(this.createError(baseName, i,
 						'No se pudo extraer el inicio de sección'));
@@ -132,27 +132,26 @@ class Book {
 					};
 					paper.sections.push(currentSection);
 				}
-			} else if (line.startsWith(LaTeXSeparator.PAGEREF_START)) {
+			} else if (line.startsWith(LSep.PAGEREF_START)) {
 				//Si es la línea con la antigua referencia
 				linePrevious = line;
 				linePreviousPos = i;
-				extractPrevious = extractStr(line, LaTeXSeparator.PAGEREF_START,
-					LaTeXSeparator.PAGEREF_END);
+				extractPrevious = extractStr(line, LSep.PAGEREF_START,
+					LSep.PAGEREF_END);
 				if (!extractPrevious) {
 					errors.push(this.createError(baseName, i,
 						'No se pudo extraer la referencia tipo página'));
 				}
-			} else if (line.startsWith(LaTeXSeparator.TEXT_START)) {
+			} else if (line.startsWith(LSep.TEXT_START)) {
 				//Si es un párrafo
 				if (linePreviousPos === i - 1) {
-					extract = extractStr(line, LaTeXSeparator.TEXT_START,
-						LaTeXSeparator.END);
+					extract = extractStr(line, LSep.TEXT_START, LSep.END);
 					if (!extract) {
 						errors.push(this.createError(baseName, i,
 							'No se pudo extraer la referencia de párrafo'));
 					} else if (extractPrevious) {
-						j = LaTeXSeparator.TEXT_START.length + extract.length + 
-							LaTeXSeparator.END.length;
+						j = LSep.TEXT_START.length + extract.length + 
+							LSep.END.length;
 						currentPar = {
 							par_ref: extract,
 							par_pageref: extractPrevious,
@@ -173,15 +172,16 @@ class Book {
 
 	extractParContentFromLaTeX = (baseName, lnum, content, footnotes, errors) => {
 		let extract = '', fi, i = 0, open = 0, index, c, footnoteExtract;
+		let replaceErr = null;
 		while (i < content.length) {
-			index = content.indexOf(LaTeXSeparator.FOOTNOTE_START, i);
+			index = content.indexOf(LSep.FOOTNOTE_START, i);
 			if (index === -1) {
 				extract += content.substring(i);
 				break;
 			} else {
 				extract += content.substring(i, index);
 			}
-			fi = index + LaTeXSeparator.FOOTNOTE_START.length;
+			fi = index + LSep.FOOTNOTE_START.length;
 			i = fi;
 			open = 1;
 			while (i < content.length && open > 0) {
@@ -197,49 +197,129 @@ class Book {
 			}
 			extract += `{${footnotes.length}}`;
 			footnoteExtract = content.substring(fi, i - 1);
-			footnoteExtract = this.replaceItalicsFromLaTeX(baseName, lnum, 
-				footnoteExtract, errors);
+			replaceErr = null;
+			footnoteExtract = replaceTags(footnoteExtract, LSep.ITALIC_START, 
+				LSep.END, '*', '*', replaceErr);
+			if (replaceErr) {
+				errors.push(this.createError(baseName, lnum, replaceErr));
+			}
 			footnoteExtract = this.replaceSpecialChars(footnoteExtract);
 			footnotes.push(footnoteExtract);
 		}
-		extract = this.replaceItalicsFromLaTeX(baseName, lnum, extract, errors);
+		replaceErr = null;
+		extract = replaceTags(extract, LSep.ITALIC_START, LSep.END, '*', '*', 
+			replaceErr);
+		if (replaceErr) {
+			errors.push(this.createError(baseName, lnum, replaceErr));
+		}
 		extract = this.replaceSpecialChars(extract);
 		return extract;
 	};
 
-	replaceItalicsFromLaTeX = (baseName, lnum, content, errors) => {
-		let result = '', ii, i = 0, index;
-		while (i < content.length) {
-			index = content.indexOf(LaTeXSeparator.ITALIC_START, i);
-			if (index === -1) {
-				result += content.substring(i);
-				break;
-			} else {
-				result += content.substring(i, index);
-			}
-			ii = index + LaTeXSeparator.ITALIC_START.length;
-			i = content.indexOf(LaTeXSeparator.END, ii);
-			if (i === -1) {
-				errors.push(this.createError(baseName, lnum,
-					'No existe cierre de itálicas correcto'))
-				return content;
-			}
-			result += '*' + content.substring(ii, i) + '*';
-			i++;
-		}
-		return result;
+	replaceSpecialChars = (content) => {
+		return content
+			.replace(/(\\\"u)/g, 'ü')
+			.replace(/(---)/g, '—')
+			.replace('\\bigbreak', '<br/>');
 	};
 
-	replaceSpecialChars = (content) => {
-		return content.replace(/(\\\"u)/g, 'ü').replace(/(---)/g, '—');
+	replaceInverseSpecialChars = (content) => {
+		return content
+			.replace(/(ü)/g, '\\\"u')
+			.replace(/(—)/g, '---')
+			.replace('<br/>', '\\bigbreak');
 	};
 
 	writeToLaTeX = (dirPath) => {
 		return this.writeTo(dirPath, 'tex');
 	};
 
-	writeFileToLaTeX = (filePath) => {
+	writeFileToLaTeX = (filePath, paper) => {
+		return new Promise((resolve, reject) => {
+			let latex = '', error;
 
+			if (!Array.isArray(paper.sections)) {
+				error = 'El documento no tiene secciones';
+			} else if (paper.sections.find(s => s.section_ref == null)) {
+				error = 'Una sección no tiene referencia';
+			} else if (paper.sections.find(s => !Array.isArray(s.pars))) {
+				error = 'Una sección no tiene párrafos';
+			} else if (!paper.paper_title) {
+				error = 'El documento no tiene título';
+			}
+
+			if (error) {
+				reject(new Error(`${filePath}: ${error}`));
+				return;
+			}
+
+			latex += `\\chapter{${paper.paper_title}}\r\n`;
+			if (paper.paper_index === 1) {
+				latex += `\\setcounter{chapter}{${paper.paper_index}}\r\n`;
+			}
+
+			const lfootnotes = (Array.isArray(paper.footnotes) &&
+				paper.footnotes.length > 0 ?
+				this.footnotesToLaTeX(paper.footnotes) : []);
+			let footnoteIndex = 0;
+
+			paper.sections.forEach((section, i) => {
+				if (section.section_title) {
+					latex += `\\section*{${section.section_title}}\r\n`;
+				}
+				section.pars.forEach((par, j) => {
+					let pcontent, replaceErr = null, end;
+					if (!par.par_ref || !par.par_content || !par.par_pageref) {
+						error = 'Un párafo no tiene referencia o contenido';
+						return;
+					}
+					pcontent = replaceTags(par.par_content, '*', '*', LSep.ITALIC_START,
+						LSep.END, replaceErr);
+					if (replaceErr) {
+						error = replaceErr;
+						return;
+					}
+					pcontent = this.replaceInverseSpecialChars(pcontent);
+					while (lfootnotes.length > 0 &&
+						footnoteIndex < lfootnotes.length &&
+						pcontent.indexOf(`{${footnoteIndex}}`) != -1) {
+						pcontent = pcontent.replace(`{${footnoteIndex}}`,
+							`${lfootnotes[footnoteIndex]}`);
+						footnoteIndex++;
+					}
+					latex += `\\par\r\n%\\textsuperscript{(${par.par_pageref})}\r\n`;
+					end = (i === paper.sections.length - 1 &&
+						j === section.pars.length - 1 ? '' : '\r\n\r\n');
+					latex += `\\textsuperscript{${par.par_ref}} ${pcontent}${end}`;
+				});
+			});
+
+			if (error) {
+				reject(new Error(`${filePath}: ${error}`));
+				return;
+			}
+
+			fs.writeFile(filePath, latex, 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
+			});
+		});
+	};
+
+	footnotesToLaTeX = (footnotes) => {
+		return footnotes.map((f, n) => {
+			let text, fs, replaceErr;
+			text = replaceTags(f, '*', '*', LSep.ITALIC_START, LSep.END, 
+				replaceErr);
+			text = this.replaceInverseSpecialChars(text);
+			if (replaceErr) {
+				return 'FOOTNOTE ERROR';
+			}
+			return `\\footnote{${text}}`;
+		});
 	};
 
 	//***********************************************************************
@@ -367,7 +447,8 @@ class Book {
 				});
 				Promise.all(promises)
 					.then((results) => {
-						const errors = results.filter(r => r.error != null);
+						const errors = [];
+						results.forEach(r => extendArray(errors, r.error));
 						if (errors.length === 0) {
 							resolve(null);
 						} else {
@@ -382,26 +463,42 @@ class Book {
 		return new Promise((resolve, reject) => {
 			let wiki = '', ptitle, error;
 			const end = '\r\n\r\n';
-			if (paper.paper_title) {
-				ptitle = paper.paper_title.toUpperCase();
-				wiki += `== ${ptitle} ==${end}`;
-			}
+
 			if (!Array.isArray(paper.sections)) {
 				error = 'El documento no tiene secciones';
+			} else if (paper.sections.find(s => s.section_ref == null)) {
+				error = 'Una sección no tiene referencia';
+			} else if (paper.sections.find(s => !Array.isArray(s.pars))) {
+				error = 'Una sección no tiene párrafos';
+			} else if (!paper.paper_title) {
+				error = 'El documento no tiene título';
+			}
+
+			if (error) {
 				reject(new Error(`${filePath}: ${error}`));
 				return;
 			}
+
+			ptitle = paper.paper_title.toUpperCase();
+			wiki += `== ${ptitle} ==${end}`;
+
 			const wfootnotes = (Array.isArray(paper.footnotes) &&
 				paper.footnotes.length > 0 ?
 				this.footnotesToWiki(paper.footnotes) : []);
+			const wfnErr = [];
+			wfootnotes.forEach((wf, i) => {
+				if (wf === 'FOOTNOTE ERROR') {
+					wfnErr.push(i);
+				}
+			});
+			if (wfnErr.length > 0) {
+				reject(new Error(`${filePath}: Error en footnotes: ${wfnErr.join(',')}`));
+				return;
+			}
 			let footnoteIndex = 0;
 
 			paper.sections.forEach(section => {
 				let ref, anchor, stitle;
-				if (!section.section_ref) {
-					error = 'Una sección no tiene referencia';
-					return;
-				}
 				ref = section.section_ref.replace(':', '_');
 				anchor = `{{anchor|LU_${ref}}}`;
 				if (section.section_title) {
@@ -410,10 +507,7 @@ class Book {
 				} else {
 					wiki += `${anchor}${end}`;
 				}
-				if (!Array.isArray(section.pars)) {
-					error = 'Una sección no tiene párrafos';
-					return;
-				}
+
 				section.pars.forEach(par => {
 					let pref, panchor, pcontent;
 					if (!par.par_ref || !par.par_content) {
@@ -423,7 +517,7 @@ class Book {
 					pref = par.par_ref.replace(/[:\.]/g,'_');
 					panchor = `{{anchor|LU_${pref}}}`;
 					pcontent = par.par_content.replace(/\*/g, '\'\'');
-					if (wfootnotes.length > 0 && 
+					while (wfootnotes.length > 0 && 
 						footnoteIndex < wfootnotes.length &&
 						pcontent.indexOf(`{${footnoteIndex}}`) != -1) {
 						pcontent = pcontent.replace(`{${footnoteIndex}}`,
@@ -535,38 +629,61 @@ class Book {
 
 	footnotesToWiki = (footnotes) => {
 		return footnotes.map((f, n) => {
-			let wiki, text, fs, ab, ref, chapter, vers;
-			if (f.indexOf(':')) {
-				text = f.substring(0, f.indexOf(':'));
-				fs = f.substring(f.indexOf(':') + 1).split(';');
-			} else {
+			let wiki, parts, text, text2, fs, ab;
+			parts = f.split('*').filter(n => n.trim() != '');
+			if (parts.length === 0 || parts.length % 2 != 0) {
 				return 'FOOTNOTE ERROR';
 			}
-			wiki = `<ref name="n${n}">${text.replace(/\*/g, '\'\'')}:`;
-			fs.forEach((fss, i) => {
-				fss = fss.trim();
-				if (fss[fss.length - 1] == '.') {
-					fss = fss.substring(0, fss.length - 1);
+			wiki = `<ref name="n${n}">`;
+			for (let p = 0; p < parts.length; p = p + 2) {
+				text = parts[p];
+				wiki += `''${text}'':`;
+
+				text2 = parts[p + 1];
+				if (text2[0] === ':') {
+					text2 = text2.substring(1).trim();
+					if (text2[text2.length - 1] === '.') {
+						text2 = text2.substring(0, text2.length - 1);
+					}
 				}
-				chapter = null;
-				vers = null;
-				if (fss.indexOf(' ') != -1) {
-					ab = fss.substring(0, fss.indexOf(' '));
-					ref = fss.substring(fss.indexOf(' ') + 1);
-				} else {
-					ref = fss;
-				}
-				if (ref.indexOf(':')) {
-					chapter = ref.substring(0, ref.indexOf(':'));
-					vers = ref.substring(ref.indexOf(':') + 1);
-				}
-				wiki += (chapter && vers ? ` {{lib|${ab}|${chapter}|${vers}}}` :
-					` {{lib|${ab}|1}}`);
-				wiki += (i != fs.length - 1 ? ';' : '');
-			});
-			wiki += '.</ref>\r\n';
+				fs = text2.split(';');
+
+				fs.forEach((fss, i) => {
+					fss = fss.trim();
+					let chapter = null;
+					let vers = null;
+					let ref = null;
+					let ab2 = this.findAbr(fss);
+					if (ab2) {
+						ab = ab2;
+						ref = fss.substring(ab.length).trim();
+					} else {
+						ref = fss;
+					}
+					if (ab && ref) {
+						if (ref.indexOf(':')) {
+							chapter = ref.substring(0, ref.indexOf(':'));
+							vers = ref.substring(ref.indexOf(':') + 1);
+						}
+						wiki += (chapter && vers ? ` {{lib|${ab}|${chapter}|${vers}}}` :
+							` {{lib|${ab}|1}}`);
+						wiki += (i != fs.length - 1 ? ';' : '. ');
+					}
+				});
+			}
+			wiki += '</ref>\r\n';
 			return wiki;
 		});
+	};
+
+	findAbr = (content) => {
+		//Localiza cuál es la abreviatura
+		for (let ab in BibleAbb) {
+			if (content.startsWith(ab)) {
+				return ab;
+			}
+		}
+		return null;
 	};
 
 	footnotesToWikiXML = (footnotes) => {
@@ -608,7 +725,8 @@ class Book {
 				});
 				Promise.all(promises)
 					.then((results) => {
-						const errors = results.filter(r => r.error != null);
+						const errors = [];
+						results.forEach(r => extendArray(errors, r.error));
 						if (errors.length === 0) {
 							resolve(null);
 						} else {

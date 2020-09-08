@@ -8,7 +8,7 @@
 
 == {{anchor|LU_66_1}} 1. EL PRÍNCIPE CALIGASTIA ==
 
-{{anchor|LU_66_1_1}} Caligastia<ref>''El Príncipe Caligastia'': Jn 12:31; 14:30; 16:11; Ef 2:2; 6:12.</ref> era un Hijo Lanonandek, el número 9.344 de la orden secundaria. Tenía experiencia en la administración de los asuntos del universo local en general, y durante las épocas más recientes, en la gestión del sistema local de Satania en particular.
+{{anchor|LU_66_1_1}} Caligastia<ref name="n0"/> era un Hijo Lanonandek, el número 9.344 de la orden secundaria. Tenía experiencia en la administración de los asuntos del universo local en general, y durante las épocas más recientes, en la gestión del sistema local de Satania en particular.
 
 {{anchor|LU_66_1_2}} Antes del reinado de Lucifer en Satania, Caligastia había estado destinado en el consejo de asesores de los Portadores de Vida en Jerusem. Lucifer ascendió a Caligastia a un puesto en su estado mayor personal, y cumplió adecuadamente cinco misiones sucesivas de honor y de confianza.
 
@@ -168,7 +168,7 @@
 
 {{anchor|LU_66_6_6}} Los instructores de Dalamatia trataron de añadir una selección social consciente a la selección puramente natural de la evolución biológica. No trastornaron la sociedad humana, pero sí aceleraron notablemente su evolución normal y natural. Su móvil era la progresión a través de la evolución, y no la revolución por medio de la revelación. La raza humana había necesitado miles de años para adquirir el poco de religión y de moralidad que poseía, y estos superhombres se guardaron de robarle a la humanidad estos pequeños progresos, sumiéndola en la confusión y la consternación que siempre se producen cuando unos seres superiores e instruídos emprenden la elevación de las razas atrasadas, enseñándolas e iluminándolas con exceso.
 
-{{anchor|LU_66_6_7}} Cuando los misioneros cristianos van hasta el corazón de
+{{anchor|LU_66_6_7}} Cuando los misioneros cristianos van hasta el corazón de África, donde se supone que los hijos y las hijas deben permanecer bajo el control y la dirección de sus padres mientras éstos vivan, sólo provocan la confusión y la ruptura de toda autoridad cuando intentan reemplazar esta práctica, en una sola generación, enseñando que los hijos deben liberarse de toda sujeción paternal después de cumplir los veintiún años.
 
 == {{anchor|LU_66_7}} 7. LA VIDA EN DALAMATIA ==
 
@@ -178,7 +178,7 @@
 
 {{anchor|LU_66_7_3}} El estado mayor corpóreo del Príncipe residía en viviendas sencillas y ejemplares, que cuidaban como hogares destinados a inspirar e impresionar favorablemente a los estudiantes observadores que residían temporalmente en el centro social y sede educativa del mundo.
 
-{{anchor|LU_66_7_4}} El orden definido de la vida familiar y la costumbre de vivir una sola familia en una sola vivienda en un lugar relativamente estable, data de estos tiempos de Dalamatia y se debe principalmente al ejemplo y las enseñanzas de los cien y sus alumnos. El hogar como unidad social nunca tuvo éxito hasta que los superhombres y las supermujeres de Dalamatia enseñaron a la humanidad a amar a sus nietos y a los hijos de sus nietos, y a hacer planes para ellos. El hombre salvaje ama a sus hijos, pero el hombre civilizado ama también a sus nietos<ref>''Amor por los nietos'': Pr 17:6.</ref>.
+{{anchor|LU_66_7_4}} El orden definido de la vida familiar y la costumbre de vivir una sola familia en una sola vivienda en un lugar relativamente estable, data de estos tiempos de Dalamatia y se debe principalmente al ejemplo y las enseñanzas de los cien y sus alumnos. El hogar como unidad social nunca tuvo éxito hasta que los superhombres y las supermujeres de Dalamatia enseñaron a la humanidad a amar a sus nietos y a los hijos de sus nietos, y a hacer planes para ellos. El hombre salvaje ama a sus hijos, pero el hombre civilizado ama también a sus nietos<ref name="n1"/>.
 
 {{anchor|LU_66_7_5}} Los miembros del estado mayor del Príncipe vivían en parejas como padres y madres. Es cierto que no tenían hijos propios, pero los cincuenta hogares modelo de Dalamatia nunca albergaron menos de quinientos niños adoptados, escogidos entre las familias superiores de las razas andónicas y sangiks; muchos de estos niños eran huérfanos. Se beneficiaban de la disciplina y la educación de estos superpadres, y luego, después de tres años en las escuelas del Príncipe (entraban entre los trece y los quince años), eran adecuados para el matrimonio y estaban preparados para recibir su nombramiento como emisarios del Príncipe ante las tribus necesitadas de sus razas respectivas.
 
@@ -188,19 +188,19 @@
 
 {{anchor|LU_66_7_8}} Hap ofreció a las razas primitivas una ley moral. Este código era conocido como «el Camino del Padre» y consistía en los siete mandamientos siguientes:
 
-{{anchor|LU_66_7_9}} 1. No temerás ni servirás a ningún Dios, salvo al Padre de todos<ref>''Servirás sólo a Dios Padre'': Ex 20:3; Dt 5:7.</ref>.
+{{anchor|LU_66_7_9}} 1. No temerás ni servirás a ningún Dios, salvo al Padre de todos<ref name="n2"/>.
 
-{{anchor|LU_66_7_10}} 2. No desobedecerás al Hijo del Padre, el soberano del mundo, ni mostrarás falta de respeto por sus asociados superhumanos<ref>''Respetarás/obedecerás a tus dioses'': Ex 20:6; Dt 5:11.</ref>.
+{{anchor|LU_66_7_10}} 2. No desobedecerás al Hijo del Padre, el soberano del mundo, ni mostrarás falta de respeto por sus asociados superhumanos<ref name="n3"/>.
 
-{{anchor|LU_66_7_11}} 3. No mentirás cuando seas convocado ante los jueces del pueblo<ref>''No mentirás ante los jueces'': Ex 20:16; Dt 5:20.</ref>.
+{{anchor|LU_66_7_11}} 3. No mentirás cuando seas convocado ante los jueces del pueblo<ref name="n4"/>.
 
-{{anchor|LU_66_7_12}} 4. No matarás a hombres, mujeres o niños<ref>''No matarás'': Ex 20:13; Dt 5:17.</ref>.
+{{anchor|LU_66_7_12}} 4. No matarás a hombres, mujeres o niños<ref name="n5"/>.
 
-{{anchor|LU_66_7_13}} 5. No robarás los bienes ni el ganado de tu prójimo<ref>''No robarás'': Ex 20:15; Dt 5:19.</ref>.
+{{anchor|LU_66_7_13}} 5. No robarás los bienes ni el ganado de tu prójimo<ref name="n6"/>.
 
-{{anchor|LU_66_7_14}} 6. No tocarás a la esposa de tu amigo<ref>''No tocarás a la esposa de tu amigo'': Ex 20:17; Dt 5:21.</ref>.
+{{anchor|LU_66_7_14}} 6. No tocarás a la esposa de tu amigo<ref name="n7"/>.
 
-{{anchor|LU_66_7_15}} 7. No mostrarás falta de respeto por tus padres ni por los ancianos de la tribu<ref>''Respetarás a tus padres y ancianos'': Ex 20:12; Dt 5:16.</ref>.
+{{anchor|LU_66_7_15}} 7. No mostrarás falta de respeto por tus padres ni por los ancianos de la tribu<ref name="n8"/>.
 
 {{anchor|LU_66_7_16}} Ésta fue la ley de Dalamatia durante cerca de trescientos mil años. Muchas de las piedras donde se inscribió esta ley yacen actualmente bajo las aguas a la altura de las costas de Mesopotamia y Persia. Se convirtió en una costumbre retener en la memoria uno de estos mandamientos por cada día de la semana, empleándose como saludo y como acción de gracias a la hora de comer.
 
@@ -208,7 +208,7 @@
 
 {{anchor|LU_66_7_18}} El campo estaba muy bien colonizado en un radio de ciento sesenta kilómetros alrededor de la ciudad. En las inmediaciones de la ciudad, cientos de diplomados de las escuelas del Príncipe practicaban la ganadería o llevaban a cabo de otras maneras la enseñanza que habían recibido de su estado mayor y de sus numerosos colaboradores humanos. Unos cuantos se dedicaron a la agricultura y la horticultura.
 
-{{anchor|LU_66_7_19}} La humanidad no fue destinada al duro trabajo de la agricultura como castigo por un supuesto pecado. «Comerás el fruto de los campos con el sudor de tu frente»<ref>''Con el sudor de tu frente'': Gn 3:19.</ref> no fue un castigo pronunciado contra el hombre por haber participado en las locuras de la rebelión de Lucifer bajo la dirección del traidor Caligastia. El cultivo de la tierra es inherente al establecimiento de una civilización progresiva en los mundos evolutivos, y este mandato fue el centro de toda la enseñanza del Príncipe Planetario y de su estado mayor durante los trescientos mil años que transcurrieron entre su llegada a Urantia y los días trágicos en que Caligastia compartió su suerte con la del rebelde Lucifer. El trabajo de la tierra no es una maldición; es más bien la bendición más elevada para todos aquellos que pueden disfrutar así de la más humana de todas las actividades humanas.
+{{anchor|LU_66_7_19}} La humanidad no fue destinada al duro trabajo de la agricultura como castigo por un supuesto pecado. «Comerás el fruto de los campos con el sudor de tu frente»<ref name="n9"/> no fue un castigo pronunciado contra el hombre por haber participado en las locuras de la rebelión de Lucifer bajo la dirección del traidor Caligastia. El cultivo de la tierra es inherente al establecimiento de una civilización progresiva en los mundos evolutivos, y este mandato fue el centro de toda la enseñanza del Príncipe Planetario y de su estado mayor durante los trescientos mil años que transcurrieron entre su llegada a Urantia y los días trágicos en que Caligastia compartió su suerte con la del rebelde Lucifer. El trabajo de la tierra no es una maldición; es más bien la bendición más elevada para todos aquellos que pueden disfrutar así de la más humana de todas las actividades humanas.
 
 {{anchor|LU_66_7_20}} Cuando estalló la rebelión, Dalamatia tenía una población permanente de casi seis mil habitantes. Esta cifra incluye a los estudiantes asiduos, pero no engloba a los visitantes ni a los observadores, que siempre ascendían a más de mil. Pero difícilmente os podéis hacer una idea de los progresos maravillosos de aquellos tiempos tan lejanos; la terrible confusión y las abyectas tinieblas espirituales que siguieron a la catástrofe de engaño y sedición de Caligastia destruyeron prácticamente todos los asombrosos logros humanos de aquella época.
 
@@ -232,5 +232,15 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''El Príncipe Caligastia'': {{lib|Jn|12|31}}; {{lib|Jn|14|30}}; {{lib|Jn|16|11}}; {{lib|Ef|2|2}}; {{lib|Ef|6|12}}. </ref>
+<ref name="n1">''Amor por los nietos'': {{lib|Pr|17|6}}. </ref>
+<ref name="n2">''Servirás sólo a Dios Padre'': {{lib|Ex|20|3}}; {{lib|Dt|5|7}}. </ref>
+<ref name="n3">''Respetarás/obedecerás a tus dioses'': {{lib|Ex|20|6}}; {{lib|Dt|5|11}}. </ref>
+<ref name="n4">''No mentirás ante los jueces'': {{lib|Ex|20|16}}; {{lib|Dt|5|20}}. </ref>
+<ref name="n5">''No matarás'': {{lib|Ex|20|13}}; {{lib|Dt|5|17}}. </ref>
+<ref name="n6">''No robarás'': {{lib|Ex|20|15}}; {{lib|Dt|5|19}}. </ref>
+<ref name="n7">''No tocarás a la esposa de tu amigo'': {{lib|Ex|20|17}}; {{lib|Dt|5|21}}. </ref>
+<ref name="n8">''Respetarás a tus padres y ancianos'': {{lib|Ex|20|12}}; {{lib|Dt|5|16}}. </ref>
+<ref name="n9">''Con el sudor de tu frente'': {{lib|Gn|3|19}}. </ref>
+</references>

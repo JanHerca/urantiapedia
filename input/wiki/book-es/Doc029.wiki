@@ -2,7 +2,7 @@
 
 {{anchor|LU_29_0}}
 
-{{anchor|LU_29_0_1}} DE TODAS las personalidades del universo implicadas en la reglamentación de los asuntos interplanetarios e interuniversales, los directores del poder y sus asociados son los que han sido menos comprendidos en Urantia. Aunque vuestras razas han conocido desde hace mucho tiempo la existencia de los ángeles y de las órdenes similares de seres celestiales, se ha comunicado muy poca información sobre los controladores y los reguladores del dominio físico<ref>''Creación física'': Job 9:4-10; 26:7-14; Sal 8:3; 33:6; 104:2-9.</ref>. Incluso ahora sólo se me permite revelar plenamente el último de los tres grupos siguientes de seres vivientes que tienen que ver con el control de la fuerza y la regulación de la energía en el universo maestro:
+{{anchor|LU_29_0_1}} DE TODAS las personalidades del universo implicadas en la reglamentación de los asuntos interplanetarios e interuniversales, los directores del poder y sus asociados son los que han sido menos comprendidos en Urantia. Aunque vuestras razas han conocido desde hace mucho tiempo la existencia de los ángeles y de las órdenes similares de seres celestiales, se ha comunicado muy poca información sobre los controladores y los reguladores del dominio físico<ref name="n0"/>. Incluso ahora sólo se me permite revelar plenamente el último de los tres grupos siguientes de seres vivientes que tienen que ver con el control de la fuerza y la regulación de la energía en el universo maestro:
 
 {{anchor|LU_29_0_2}} 1. Los Organizadores de la Fuerza Maestros Existenciados Primarios.
 
@@ -198,5 +198,6 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''Creación física'': {{lib|Job|9|4-10}}; {{lib|Job|26|7-14}}; {{lib|Sal|8|3}}; {{lib|Sal|33|6}}; {{lib|Sal|104|2-9}}. </ref>
+</references>

@@ -10,7 +10,7 @@
 
 == {{anchor|LU_105_1}} 1. EL CONCEPTO FILOSÓFICO DEL YO SOY ==
 
-{{anchor|LU_105_1_1}} Los filósofos del universo atribuyen la causalidad original absoluta en la infinidad al Padre Universal, actuando como el YO SOY infinito<ref>''YO SOY'': Ex 3:13-14.</ref>, eterno y absoluto.
+{{anchor|LU_105_1_1}} Los filósofos del universo atribuyen la causalidad original absoluta en la infinidad al Padre Universal, actuando como el YO SOY infinito<ref name="n0"/>, eterno y absoluto.
 
 {{anchor|LU_105_1_2}} Presentar al intelecto mortal esta idea de un YO SOY infinito comporta muchos factores de peligro, ya que este concepto está tan alejado de la comprensión experiencial humana que ocasiona una grave deformación de los significados y una idea falsa de los valores. Sin embargo, el concepto filosófico del YO SOY proporciona a los seres finitos una base para intentar acceder a la comprensión parcial de los orígenes absolutos y de los destinos infinitos. Pero en todos nuestros esfuerzos por dilucidar la génesis y la fructificación de la realidad debemos indicar claramente que, en todo lo referente a los significados y valores de la personalidad, este concepto del YO SOY es sinónimo de la Primera Persona de la Deidad, el Padre Universal de todas las personalidades. Sin embargo, este postulado del YO SOY no es tan fácil de identificar en los ámbitos no deificados de la realidad universal.
 
@@ -48,7 +48,7 @@
 
 {{anchor|LU_105_2_10}} 6. ''La Capacidad Infinita''. YO SOY estático-reactivo. Ésta es la matriz sin fin, la posibilidad de todas las expansiones cósmicas futuras. La mejor manera de concebir esta fase del YO SOY es quizás la presencia supergravitatoria del Absoluto Incalificado.
 
-{{anchor|LU_105_2_11}} 7. ''El Uno Universal de la Infinidad''. El YO SOY como YO SOY. Ésta es la estasis o relación de la Infinidad consigo misma, el hecho eterno de la realidad de la infinidad y la verdad universal de la infinidad de la realidad. En la medida en que esta relación es discernible como personalidad, es revelada a los universos en el Padre divino de toda personalidad —incluso de la personalidad absoluta. En la medida en que es posible expresar esta relación de manera impersonal, el universo contacta con ella bajo la forma de la coherencia absoluta de la energía pura y del puro espíritu en presencia del Padre Universal. En la medida en que esta relación es concebible como un absoluto, es revelada en la primacía de la Fuente-Centro Primera; en ella todos vivimos, nos movemos y tenemos nuestra existencia<ref>''Vivimos, nos movemos y tenemos nuestra existencia'': Job 12:10; Hch 17:28.</ref>, desde las criaturas del espacio hasta los ciudadanos del Paraíso. Y esto es tan cierto para el universo maestro como para el ultimatón infinitesimal, tan cierto para lo que va a ser como para lo que es y para lo que ha sido.
+{{anchor|LU_105_2_11}} 7. ''El Uno Universal de la Infinidad''. El YO SOY como YO SOY. Ésta es la estasis o relación de la Infinidad consigo misma, el hecho eterno de la realidad de la infinidad y la verdad universal de la infinidad de la realidad. En la medida en que esta relación es discernible como personalidad, es revelada a los universos en el Padre divino de toda personalidad —incluso de la personalidad absoluta. En la medida en que es posible expresar esta relación de manera impersonal, el universo contacta con ella bajo la forma de la coherencia absoluta de la energía pura y del puro espíritu en presencia del Padre Universal. En la medida en que esta relación es concebible como un absoluto, es revelada en la primacía de la Fuente-Centro Primera; en ella todos vivimos, nos movemos y tenemos nuestra existencia<ref name="n1"/>, desde las criaturas del espacio hasta los ciudadanos del Paraíso. Y esto es tan cierto para el universo maestro como para el ultimatón infinitesimal, tan cierto para lo que va a ser como para lo que es y para lo que ha sido.
 
 == {{anchor|LU_105_3}} 3. LOS SIETE ABSOLUTOS DE LA INFINIDAD ==
 
@@ -132,7 +132,7 @@
 
 {{anchor|LU_105_7_2}} Lo trascendental no es necesariamente algo que no se desarrolla, pero es superevolutivo en el sentido finito; tampoco es no experiencial, pero sí es una superexperiencia en la medida en que esta palabra tiene un significado para las criaturas. El mejor ejemplo de esta paradoja es quizás el universo central de perfección: Havona no es del todo absoluto —únicamente la Isla del Paraíso es realmente absoluta en el sentido «materializado». Tampoco es una creación evolutiva finita como los siete superuniversos. Havona es eterno, pero no invariable en el sentido de ser un universo donde el crecimiento no existe. Está habitado por unas criaturas (los nativos de Havona) que nunca han sido realmente creadas, ya que existen desde toda la eternidad. Havona es así un ejemplo de algo que no es exactamente finito ni tampoco absoluto. Havona actúa además como amortiguador entre el Paraíso absoluto y las creaciones finitas, ilustrando así nuevamente la función de los trascendentales. Pero Havona mismo no es un trascendental —es solamente Havona.
 
-{{anchor|LU_105_7_3}} Al igual que el Supremo está asociado con los finitos, el
+{{anchor|LU_105_7_3}} Al igual que el Supremo está asociado con los finitos, el Último está identificado con los trascendentales. Pero aunque comparamos así al Supremo con el Último, son diferentes por algo más que el grado; su diferencia es también una cuestión de calidad. El Último es algo más que un super-Supremo proyectado en el nivel trascendental. El Último es todo eso, pero también más: el Último es la existenciación de nuevas realidades de la Deidad, la atenuación de nuevas fases de lo que hasta entonces era incalificado.
 
 {{anchor|LU_105_7_4}} Entre las realidades que están asociadas con el nivel trascendental, se encuentran las siguientes:
 
@@ -168,5 +168,7 @@
 
 == Referencias ==
 
-<references/>
-
+<references>
+<ref name="n0">''YO SOY'': {{lib|Ex|3|13-14}}. </ref>
+<ref name="n1">''Vivimos, nos movemos y tenemos nuestra existencia'': {{lib|Job|12|10}}; {{lib|Hch|17|28}}. </ref>
+</references>
