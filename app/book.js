@@ -575,6 +575,21 @@ class Book {
 				if (!section0) {
 					xml += `<Free_Text>== ${ptitle} ==</Free_Text>\r\n`;
 				}
+
+				const wfootnotes = (Array.isArray(paper.footnotes) &&
+					paper.footnotes.length > 0 ?
+					this.footnotesToWiki(paper.footnotes, true) : []);
+				const wfnErr = [];
+				wfootnotes.forEach((wf, i) => {
+					if (wf === 'FOOTNOTE ERROR') {
+						wfnErr.push(i);
+					}
+				});
+				if (wfnErr.length > 0) {
+					reject(new Error(`${filePath}: Error en footnotes: ${wfnErr.join(',')}`));
+					return;
+				}
+				let footnoteIndex = 0;
 				
 				paper.sections.forEach(section => {
 					let ref, anchor, stitle;
@@ -602,12 +617,24 @@ class Book {
 							`<Field Name="1">LU_${pref}</Field>` +
 							'</Template>';
 						pcontent = par.par_content.replace(/\*/g, '\'\'');
-						//TODO: añadir referencias
+						while (wfootnotes.length > 0 && 
+							footnoteIndex < wfootnotes.length &&
+							pcontent.indexOf(`{${footnoteIndex}}`) != -1) {
+							pcontent = pcontent.replace(`{${footnoteIndex}}`,
+								`&lt;ref name="n${footnoteIndex}"/&gt;`);
+							footnoteIndex++;
+						}
 
 						xml += `${panchor}<Free_Text>&lt;p&gt;${pcontent}&lt;/p&gt;</Free_Text>\r\n`;
 					});
 				});
-				xml += '</Page>\r\n'
+				if (wfootnotes.length > 0) {
+					xml += `<Free_Text>== Referencias ==</Free_Text>\r\n`;
+					xml += `<Free_Text>&lt;references&gt;</Free_Text>\r\n`;
+					wfootnotes.forEach(f => xml += f);
+					xml += '<Free_Text>&lt;/references&gt;</Free_Text>\r\n'
+				}
+				xml += '</Page>\r\n';
 			});
 
 			xml += '</Pages>';
@@ -627,17 +654,26 @@ class Book {
 		});
 	};
 
-	footnotesToWiki = (footnotes) => {
+	footnotesToWiki = (footnotes, xml) => {
 		return footnotes.map((f, n) => {
 			let wiki, parts, text, text2, fs, ab;
 			parts = f.split('*').filter(n => n.trim() != '');
 			if (parts.length === 0 || parts.length % 2 != 0) {
 				return 'FOOTNOTE ERROR';
 			}
-			wiki = `<ref name="n${n}">`;
+			if (xml) {
+				wiki = `<Free_Text>&lt;ref name="n${n}"&gt;</Free_Text>`;
+			} else {
+				wiki = `<ref name="n${n}">`;
+			}
+			
 			for (let p = 0; p < parts.length; p = p + 2) {
 				text = parts[p];
-				wiki += `''${text}'':`;
+				if (xml) {
+					wiki += `<Free_Text>''${text}'':</Free_Text>`
+				} else {
+					wiki += `''${text}'':`;
+				}
 
 				text2 = parts[p + 1];
 				if (text2[0] === ':') {
@@ -665,13 +701,42 @@ class Book {
 							chapter = ref.substring(0, ref.indexOf(':'));
 							vers = ref.substring(ref.indexOf(':') + 1);
 						}
-						wiki += (chapter && vers ? ` {{lib|${ab}|${chapter}|${vers}}}` :
-							` {{lib|${ab}|1}}`);
-						wiki += (i != fs.length - 1 ? ';' : '. ');
+						if (chapter && vers) {
+							if (xml) {
+								wiki += ' <Template Name="lib">' +
+									`<Field Name="1">${ab}</Field>` +
+									`<Field Name="2">${chapter}</Field>` +
+									`<Field Name="3">${vers}</Field>` +
+									'</Template>';
+							} else {
+								wiki += ` {{lib|${ab}|${chapter}|${vers}}}`;
+							}
+						} else {
+							if (xml) {
+								wiki += ' <Template Name="lib">' +
+									`<Field Name="1">${ab}</Field>` +
+									`<Field Name="2">1</Field>` +
+									'</Template>';
+							} else {
+								wiki += ` {{lib|${ab}|1}}`;
+							}
+						}
+						if (xml) {
+							wiki += '<Free_Text>' + 
+								(i != fs.length - 1 ? ';' : '. ') +
+								'</Free_Text>';
+						} else {
+							wiki += (i != fs.length - 1 ? ';' : '. ');
+						}
 					}
 				});
 			}
-			wiki += '</ref>\r\n';
+			if (xml) {
+				wiki += '<Free_Text>&lt;/ref&gt;</Free_Text>\r\n';
+			} else {
+				wiki += '</ref>\r\n';
+			}
+			
 			return wiki;
 		});
 	};
@@ -684,10 +749,6 @@ class Book {
 			}
 		}
 		return null;
-	};
-
-	footnotesToWikiXML = (footnotes) => {
-
 	};
 
 

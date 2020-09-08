@@ -32,17 +32,17 @@ function p.ref( frame )
     elseif ab == 'Rt' then
         name = 'Rut'
     elseif ab == '1 Sam' then
-        name = 'Samuel_I'
+        name = 'I_Samuel'
     elseif ab == '2 Sam' then
-        name = 'Samuel_II'
+        name = 'II_Samuel'
     elseif ab == '1 Re' then
-        name = 'Reyes_I'
+        name = 'I_Reyes'
     elseif ab == '2 Re' then
-        name = 'Reyes II'
+        name = 'II_Reyes'
     elseif ab == '1 Cr' then
-        name = 'Crónicas_I'
+        name = 'I_Crónicas'
     elseif ab == '2 Cr' then
-        name = 'Crónicas_II'
+        name = 'II_Crónicas'
     elseif ab == 'Esd' then
         name = 'Esdras'
     elseif ab == 'Neh' then
