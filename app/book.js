@@ -771,13 +771,15 @@ class Book {
 				var promises = this.papers.map(paper => {
 					const i = paper.paper_index;
 					const stri = (i > 99 ? `${i}` : (i > 9 ? `0${i}` : `00${i}`));
-					const filePath = path.join(dirPath, `Doc${stri}.${format}`);
+					let filePath = path.join(dirPath, `Doc${stri}.${format}`);
 					let p;
 					if (format === 'json') {
 						p = this.writeFileToJSON(filePath, paper);
 					} else if (format === 'tex') {
 						p = this.writeFileToLaTeX(filePath, paper);
 					} else if (format = 'wiki') {
+						filePath = path.join(dirPath, 
+							`El_Libro_de_Urantia_Doc_${i}.${format}`);
 						p = this.writeFileToWiki(filePath, paper);
 					} else {
 						p = Promise.resolve(null);

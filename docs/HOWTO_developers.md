@@ -65,6 +65,8 @@ wfLoadExtension( 'MobileFrontend' );
 
 ## Cargas masivas de páginas con la extensión DataTransfer
 
+    Es preferible usar el sitema de importTextFiles.php. Es más rápido y fiable y el formato de entrada es simplemente formato wiki.
+    
 1. Descargar la extensión DataTransfer: https://www.mediawiki.org/wiki/Extension:Data_Transfer
 2. Copiar el fichero .gz comprimido de la extensión a la carpeta extensions.
 3. Descomprimir el fichero.
@@ -88,6 +90,20 @@ Cambiar el número de jobs que se ejecutan tras cada visita modificar el LocalSe
 $wgJobRunRate = 100;
 ```
 Lo anterior eleva el número de jobs tras cada visita a 100, lo cual es mucho cuando la web está funcionando con muchos usuarios concurrentes. Conviene dejarlo en 1 o incluso 0.1 cuando la página ya está publicada y siendo masivamente accedida.
+
+---
+
+## Cargas masivas con el script de mantenimiento importTextFiles.php
+
+https://www.mediawiki.org/wiki/Manual:ImportTextFiles.php
+
+Ejecutar este comando en PuTTy:
+```
+cd public_html/maintenance
+php importTextFiles.php -u <user> -s "Adición de referencias" --rc --overwrite files_to_import/*.wiki
+```
+El comando anterior actualiza las páginas cuyos nombres coincidan con los nombres de archivo de los ficheros wiki que estén en la carpeta `files_to_import` dentro de la carpeta `maintenance`.
+
 
 ---
 
