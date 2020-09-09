@@ -1,54 +1,41 @@
 const {dialog} = require('electron').remote;
 const Book = require('./book');
 const Bible = require('./bible');
+const BibleRef = require('./bibleref');
 
 const book = new Book();
 const bible = new Bible();
-const controlIDs = ['dirLButton', 'dirLTextbox', 'dirJButton', 'dirJTextbox', 
-	'dirWButton', 'dirWTextbox', 'drpProcess', 'exeButton', 'logArea', 
+const bibleref = new BibleRef();
+const controlIDs = [
+	'dirTButton', 'dirTTextbox',
+	'dirLButton', 'dirLTextbox', 
+	'dirJButton', 'dirJTextbox', 
+	'dirWButton', 'dirWTextbox', 
+	'drpProcess', 'exeButton', 'logArea', 
 	'progress', 'chkMerge'];
 const controls = {};
 
 const onLoad = () => {
 	controlIDs.forEach(id => controls[id] = document.querySelector('#' + id));
-	controls.dirLButton.addEventListener('click', handle_dirLButtonClick);
-	controls.dirJButton.addEventListener('click', handle_dirJButtonClick);
-	controls.dirWButton.addEventListener('click', handle_dirWButtonClick);
+	controls.dirTButton.addEventListener('click', 
+		handle_dirButtonClick.bind(this, controls.dirTTextbox));
+	controls.dirLButton.addEventListener('click', 
+		handle_dirButtonClick.bind(this, controls.dirLTextbox));
+	controls.dirJButton.addEventListener('click', 
+		handle_dirButtonClick.bind(this, controls.dirJTextbox));
+	controls.dirWButton.addEventListener('click', 
+		handle_dirButtonClick.bind(this, controls.dirWTextbox));
 	controls.exeButton.addEventListener('click', handle_exeButtonClick);
 };
 
-const handle_dirLButtonClick = () => {
+const handle_dirButtonClick = (textbox) => {
 	dialog.showOpenDialog({
 		title: 'Selecciona una carpeta',
 		properties: ['openDirectory']
 	}).then(result => {
 		if (!result.canceled && result.filePaths) {
 			const dirPath = result.filePaths[0];
-			controls.dirLTextbox.value = dirPath;
-		}
-	});
-};
-
-const handle_dirJButtonClick = () => {
-	dialog.showOpenDialog({
-		title: 'Selecciona una carpeta',
-		properties: ['openDirectory']
-	}).then(result => {
-		if (!result.canceled && result.filePaths) {
-			const dirPath = result.filePaths[0];
-			controls.dirJTextbox.value = dirPath;
-		}
-	});
-};
-
-const handle_dirWButtonClick = () => {
-	dialog.showOpenDialog({
-		title: 'Selecciona una carpeta',
-		properties: ['openDirectory']
-	}).then(result => {
-		if (!result.canceled && result.filePaths) {
-			const dirPath = result.filePaths[0];
-			controls.dirWTextbox.value = dirPath;
+			textbox.value = dirPath;
 		}
 	});
 };
@@ -58,7 +45,12 @@ const handle_exeButtonClick = () => {
 	book.onProgressFn = onProgress;
 	const process = controls.drpProcess.value;
 	const okMsgs = ['Conversión realizada con éxito'];
-	if (process === 'clj' && checkControls(['dirLTextbox', 'dirJTextbox'])) {
+	if (process === 'ctw' && checkControls(['dirTTextbox', 'dirWTextbox'])) {
+		// Leemos Referencias Biblia en formato TXT y escribimos Wiki
+		bibleref.readFromTXT(controls.dirTTextbox.value)
+			.then(() => console.log(bibleref.biblebooks))
+			.catch(onFail);
+	} else if (process === 'clj' && checkControls(['dirLTextbox', 'dirJTextbox'])) {
 		// Leemos LU en formato LaTeX y escribimos JSON
 		book.readFromLaTeX(controls.dirLTextbox.value)
 			.then(() => book.writeToJSON(controls.dirJTextbox.value))

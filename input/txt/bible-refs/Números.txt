@@ -1,0 +1,64 @@
+#https://urantia-book.org/urantiabook/bible_refs/Numbers_1.html
+
+Book	Ch:Vs	1st Ed Page:Line	Paper:Sec:Ppgh	Key Words	Class
+Numbers	1:1-4	1738:34-39	156:5.4/12-21	"God said"+	C
+Numbers	3:13	1352:37	122:9.1/1-2	Firstborn to God+	C
+Numbers	3:24	789:40-41	70:6.2/4	Father of his people+	R
+Numbers	5:12-31	795:16-25	70:10.6/all	Fidelity test	C
+Numbers	5:22	992:26	90:5.3/1-2	"Amen" as ritual+	C
+Numbers	6:2-15	965:11-12	87:6.9/1-3	Sacred vows and oaths+	C
+Numbers	6:26	66:47	5:4.2/3	Lasting peace+	C
+Numbers	8:16-17	1352:37	122:9.1/1-2	Firstborn to God+	C
+Numbers	9:15-16	947:16	85:4.2/18	Angels of fire	C
+Numbers	10:1-7	1794:5-6	162:4.2/	Silvery trumpet blasts	C
+Numbers	10:33	945:26-27	85:1.5/6-8	Holy mountains+	C
+Numbers	11:1	57:44-45	4:3.2/1-3	God said to be angry+	C
+Numbers	11:33	1597:8-9	142:2.1/13	A god of great wrath, fierce anger+	C
+Numbers	12:1	919:10	82:5.6/6-7	Outmarriage	C
+Numbers	12:3	1575:12-13	140:5.16/18-19	Moses, a meek man	C
+Numbers	12:6	954:40-41	86:5.7/4-6	God "speaking" in dreams+	C
+Numbers	14:17	23:15	1:1.4/16	God's power	C
+Numbers	14:17	1454:2	131:10.3/10-11	God is all powerful+	C
+Numbers	14:17	1598:40	142:3.7/4	All-powerful+	C
+Numbers	14:17	1454:29	131:10.6/4	The Power+	C
+Numbers	14:18-19	1454:29	131:10.6/5	The Mercy+	C
+Numbers	14:18-19	1598:40	142:3.7/4-5	All-merciful+	C
+Numbers	14:18-19	75:30-31	6:3.2/1-3	Mercy ministry+	C
+Numbers	14:18-19	39:40	2:5.7/11	God is merciful+	C
+Numbers	14:18-19	1608:25	143:1.6/2	God delights in mercy+	C
+Numbers	15:3,07,10,13	977:46-49	89:4.3/1-4	Sweet savor in the nostrils of God+	C
+Numbers	15:14,24	977:46-49	89:4.3/1-4	Sweet savor in the nostrils of God+	C
+Numbers	16:22	1057:16-17	96:4.6/9-10	God of spirits of all flesh	R
+Numbers	18:1-10	986:28-29	90:1.1/1-4	Shamans (priests)+	C
+Numbers	18:15	1599:29	142:3.14/all	God claims first-born males+	S
+Numbers	18:15-16	1352:38-40	122:9.1/3-7	Redemption+	C
+Numbers	19:1-22	992:29-30	90:5.3/6-8	Purify (Red Heifer ritual)+	C
+Numbers	21:1-3	1071:43-45	97:9.1/9-13	Canaanites never destroyed	C
+Numbers	21:2-3	779:11-12	69:8.3/9-11	Hebrews "utterly destroy"	C
+Numbers	21:8-9	946:23	85:3.3/1-2	Serpent worship+	C
+Numbers	21:8-9	968:2	88:1.5/8-9	Serpent reverence+	C
+Numbers	21:28	945:24-26	85:1.5/3-6	High places+	C
+Numbers	22:41	945:24-26	85:1.5/3-6	High places+	C
+Numbers	22:41	1387:10-11	126:1.2/1-3	High place of Baal	R
+Numbers	23:19	57:37-39	4:3.1/2-4	God is not manlike	C
+Numbers	23:19	46:27-28	3:1.12/3-6	God "not a man"	C
+Numbers	23:19	36:1-2	2:2.2/5-7	God repents not (by nature)	C
+Numbers	23:19	58:6	4:3.4/1-2	God repents not (by nature)	C
+Numbers	23:19	23:37	1:2.1/7-8	God is not a man	C
+Numbers	24:16	1053:40	96:1.9/6	The Most High+	C
+Numbers	24:16	1015:21-23	93:2.3/5-9	Most High God+	C
+Numbers	24:16	1016:25	93:3.2/12	Most High+	C
+Numbers	24:16	488:15	43:3.1/1	Most Highs+	C
+Numbers	26:65	1828:32-33	166:3.2/4-7	Caleb and Joshua	C
+Numbers	27:16	1057:16-17	96:4.6/9-10	God of spirits of all flesh	R
+Numbers	28:18,25-26	1415:36	128:6.6/5	Holy convocation	R
+Numbers	29:1,07,12	1415:36	128:6.6/5	Holy convocation	R
+Numbers	30:2-16	965:11-12	87:6.9/1-3	Sacred vows and oaths+	C
+Numbers	31:1-2	784:40-41	70:1.15/13	In name of Lord God of Israel+	R
+Numbers	31:3-31	784:36-40	70:1.15/4-12	Barbarian raids	C
+Numbers	31:7	779:12-13	69:8.3/11-13	Destroy all males	C
+Numbers	31:9,15-18	779:18-19	69:8.4/5-7	Capture females	C
+Numbers	31:12-24	992:29-30	90:5.3/6-8	Purify booty taken in war+	C
+Numbers	35:6,11,14	775:19	69:4.4/5-6	Cities of refuge	R
+Numbers	35:30	1576:28-29	140:6.4/5-6	2nd part: Subject to judgment	R
+Numbers	35:31	796:16-17	70:10.12/16-18	Take no ransom for murderer	R

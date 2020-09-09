@@ -1,0 +1,6 @@
+#https://urantia-book.org/urantiabook/bible_refs/Obadiah_1.html
+
+Book	Ch:Vs	1st Ed Page:Line	Paper:Sec:Ppgh	Key Words	Class
+Obadiah	1:16	37:25-26	2:3.4/1-3	Extinction as punishment	C
+Obadiah	1:16	611:45	53:9.7/15-16	Become as if had not been	R
+Obadiah	1:21	1858:27-29	170:1.3/all	The kingdom as a future hope+	S

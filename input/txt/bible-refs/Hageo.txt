@@ -1,0 +1,6 @@
+#https://urantia-book.org/urantiabook/bible_refs/Haggai_1.html
+
+Book	Ch:Vs	1st Ed Page:Line	Paper:Sec:Ppgh	Key Words	Class
+Haggai	1:2	2064:35-36	194:3.11/15-17	No longer Lord of Hosts+	C
+Haggai	2:7	2035:33	190:5.4/45	He is desire of all nations	R
+Haggai	2:7	1965:32	182:1.10/4	I am the desire of all ages	C

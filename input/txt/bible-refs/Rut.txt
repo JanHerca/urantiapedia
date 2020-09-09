@@ -1,0 +1,4 @@
+#https://urantia-book.org/urantiabook/bible_refs/Ruth_1.html
+
+Book	Ch:Vs	1st Ed Page:Line	Paper:Sec:Ppgh	Key Words	Class
+Ruth	4:10	917:33-34	82:3.4/11-13	Women as property	C

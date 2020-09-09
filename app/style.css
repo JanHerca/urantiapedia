@@ -9,8 +9,18 @@ html, body, form {
     width: 100%;
     overflow: hidden;
 }
+form {
+    display: flex;
+    flex-flow: column;
+}
 body {
     margin: 0;
     padding: 0;
     position: absolute;
+}
+.logContainer {
+    flex: 1;
+    margin-right: 0;
+    margin-left: 0;
+    overflow-y: auto;
 }
