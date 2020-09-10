@@ -1,0 +1,487 @@
+Isaías	1:4	#	196:0.2/#	El Santo de Israel	R	#
+Isaías	1:4	#	4:3.2/#	La visión de Dios como colérico o airado	C	#
+Isaías	1:4	#	96:1.9/#	El Santo	C	#
+Isaías	1:9	#	194:3.11/#	No más el Señor de los Ejércitos	C	#
+Isaías	1:16-17	#	126:4.4/#	Lectura de la escritura: Lavaos, purificaos	R	#
+Isaías	1:18	#	97:5.2/#	Venid ahora y razonemos juntos	R	#
+Isaías	1:18	#	131:2.10/#	Venid ahora y razonemos juntos	R	#
+Isaías	1:18-20	#	133:4.7/#	Justicia, equidad, misericordia	C	#
+Isaías	2:2	#	85:1.5/#	Montañas sagradas	C	#
+Isaías	2:2-4	#	170:1.5/#	Puntos de vista de Jesús de origen sobrenatural	C	#
+Isaías	2:2-5	#	141:4.1/#	Dios como rey por encima de todo	C	#
+Isaías	2:3	#	156:5.2/#	Enseñados por el espíritu	C	#
+Isaías	2:4	#	159:5.6/#	Las naciones ya no aprenderán más la guerra	R	#
+Isaías	2:19-21	#	2:1.2/#	Resplandece de majestad y de gloria	C	#
+Isaías	4:2	#	136:6.7/#	La tierra dará frutos	C	#
+Isaías	4:2	#	180:2.3/#	Un tallo que surgiría de la vid	C	#
+Isaías	5:8	#	97:9.21/#	Acumulando una casa tras otra	R	#
+Isaías	5:10	#	136:6.7/#	La tierra dará frutos	C	#
+Isaías	6:2	#	39:5.12/#	Alas de los ángeles	C	#
+Isaías	6:2,6	#	38:1.1/#	Serafín	C	#
+Isaías	6:8	#	163:4.10/#	Aquí estoy, envíame	R	#
+Isaías	6:9	#	151:1.4/#	Verán sin ver, etc.	S	#
+Isaías	6:10	#	174:5.3/#	Ceigos deliberadamente y de corazón endurecido	C	#
+Isaías	6:10	#	151:1.4/#	Han cerrado los ojos y los oídos	R	#
+Isaías	6:11	#	97:8.3/#	¿Hasta cuándo, oh Señor, hasta cuándo?	R	#
+Isaías	8:11-13	#	156:5.4/#	«Dios me ha dicho»	C	#
+Isaías	8:13	#	92:6.6/#	Lord God of hosts+	C	PROBLEM
+Isaías	9:2	#	149:2.6/#	Revelación de la luz de la vida	C	#
+Isaías	9:2	#	122:9.5/#	Light to Gentiles+	C	PROBLEM
+Isaías	9:2	#	52:1.7/#	Iluminados por la verdadera luz	R	#
+Isaías	9:2	#	190:5.4/#	Los de las tinieblas verán una gran luz	R	#
+Isaías	9:2	#	162:5.2/#	Jesús es la luz del mundo	C	#
+Isaías	9:2	#	162:5.3/#	Muchos prefieren permanecer en las tinieblas	S	#
+Isaías	9:2	#	132:2.9/#	Posesión de la luz de la vida	C	#
+Isaías	9:2	#	40:5.16/#	True light+	C	PROBLEM
+Isaías	9:2	#	107:4.5/#	Luminosidad espiritual	C	#
+Isaías	9:2	#	191:4.3/#	Luz en las tinieblas espirituales	C	#
+Isaías	9:2	#	155:6.3/#	De las tinieblas a la luz	C	#
+Isaías	9:2	#	45:4.4/#	La Gran Luz	R	#
+Isaías	9:2	#	0:6.9/#	Luz espiritual	C	#
+Isaías	9:6	#	52:2.5/#	Príncipe de la Paz	R	#
+Isaías	9:6	#	52:6.1/#	Príncipe de la Paz	C	#
+Isaías	9:6	#	124:6.16/#	Gobierno sobre sus hombros	R	#
+Isaías	9:6	#	68:3.5/#	Príncipe de la Paz	C	#
+Isaías	9:6	#	93:10.7/#	Príncipe de la Paz	C	#
+Isaías	9:6-7	#	170:1.3/#	El reino como una esperanza futura	S	#
+Isaías	9:7	#	170:1.2/#	El reino como una realidad presente	S	#
+Isaías	10:20	#	128:1.10/#	Santo de Israel	C	#
+Isaías	10:20	#	97:9.21/#	El resto de Israel	R	#
+Isaías	11:1	#	180:2.3/#	Un tallo que surgiría de la vid	C	#
+Isaías	11:1-10	#	170:1.3/#	El reino como una esperanza futura	S	#
+Isaías	11:2	#	36:5.2/#	Espíritus ayudantes de la mente	C	#
+Isaías	11:2	#	36:5.9/#	Espíritu de conocimiento	C	#
+Isaías	11:2	#	36:5.1/#	Espíritus ayudantes de la mente	C	#
+Isaías	11:2	#	36:5.7/#	Espíritu de comprensión	C	#
+Isaías	11:2	#	36:5.12/#	Espíritu de sabiduría	C	#
+Isaías	11:2	#	36:5.10/#	Espíritu de consejo	C	#
+Isaías	11:2	#	36:5.11/#	Espíritu de adoración	C	#
+Isaías	11:2-3	#	34:4.7/#	Adjutant Mind Spirits	C	PROBLEM
+Isaías	11:3	#	34:4.9/#	Quick understanding	R	PROBLEM
+Isaías	11:9	#	53:1.1/#	Montaña sagrada de Dios	R	#
+Isaías	11:9	#	131:2.2/#	La Tierra se llenará con el conocimiento del Señor	R	#
+Isaías	11:12	#	88:2.7/#	Libros sagrados como fetiches	C	#
+Isaías	12:2	#	2:6.3/#	Dios de salvación	C	#
+Isaías	12:2	#	96:1.10/#	Jehová	C	#
+Isaías	12:2	#	97:5.2/#	Mirad, Dios es mi salvación	R	#
+Isaías	12:2	#	131:2.8/#	Pondré mi confianza en el Dios de la salvación	R	#
+Isaías	12:2	#	142:3.3/#	Yahvé, el dios de los clanes del Sinaí	S	#
+Isaías	12:2-3	#	162:6.1/#	Ríos de agua viva	R	#
+Isaías	12:3	#	190:5.4/#	La alegría de la salvación	C	#
+Isaías	14:3	#	131:2.6/#	Apaciguará vuestro temor	R	#
+Isaías	14:3	#	97:5.2/#	El Señor os hará descansar	R	#
+Isaías	14:12	#	53:1.3/#	Cómo has caído del cielo	R	#
+Isaías	14:12-14	#	53:2.2/#	Reafirmación personal y de la libertad	R	#
+Isaías	14:12-14	#	53:3.1/#	Manifiesto de Lucifer	C	#
+Isaías	14:12-20	#	120:2.2/#	Finalización de la rebelión	C	#
+Isaías	14:13	#	43:4.5/#	Monte de la asamblea del Paraíso	R	#
+Isaías	14:13-14	#	43:4.6/#	Exaltaré mi trono por encima de los Hijos	R	#
+Isaías	14:14	#	93:2.3/#	El Altísimo	C	#
+Isaías	14:14	#	93:3.2/#	El Altísimo	C	#
+Isaías	14:14	#	43:3.1/#	Altísimos	C	#
+Isaías	17:10	#	2:6.3/#	Dios de salvación	C	#
+Isaías	20:1	#	78:8.8/#	Sargón	C	#
+Isaías	25:1	#	2:2.1/#	Sin variabilidad	C	#
+Isaías	25:4	#	148:5.5/#	Él es la esperanza del pobre	R	#
+Isaías	26:3	#	5:4.2/#	Paz duradera	C	#
+Isaías	26:3	#	155:6.6/#	Paz perfecta	R	#
+Isaías	26:3	#	100:6.6/#	Paz perfecta	C	#
+Isaías	26:4	#	142:3.3/#	Yahvé, el dios de los clanes del Sinaí	S	#
+Isaías	26:4	#	96:1.10/#	Jehová	C	#
+Isaías	26:8	#	74:7.7/#	Desire of the soul	R	PROBLEM
+Isaías	26:19	#	49:6.2/#	Muchos de los que duermen despiertan	R	#
+Isaías	28:2	#	4:5.3/#	La idea de la violencia de Dios en las tormentas	C	#
+Isaías	28:17	#	97:5.2/#	El juicio lo pondré como vara de medir	R	#
+Isaías	29:6	#	96:4.5/#	Fuego devorador	R	#
+Isaías	29:6	#	4:5.3/#	La idea de la violencia de Dios en las tormentas	C	#
+Isaías	29:13	#	153:3.3/#	Me honráis con los labios pero no con el corazón	R	#
+Isaías	30:15	#	131:2.6/#	Cuando volváis a vuestro reposo espiritual	R	#
+Isaías	30:21	#	97:5.2/#	Vuestros oídos escucharán `éste es el camino'	R	#
+Isaías	30:21	#	34:7.8/#	Éste es el camino	R	#
+Isaías	30:21	#	148:6.10/#	Este es el camino	S	#
+Isaías	30:21	#	117:5.9/#	Éste es el camino	R	#
+Isaías	30:27,30	#	96:4.5/#	Fuego devorador	R	#
+Isaías	31:5	#	97:9.22/#	Isaías y que Jerusalén no caería	C	#
+Isaías	32:1	#	97:8.3/#	Isaías y el rey liberador	C	#
+Isaías	32:2	#	190:5.4/#	La sombra de una gran roca	R	#
+Isaías	32:15-17	#	142:5.4/#	Cuando el espíritu se derrame vendrá la paz	R	#
+Isaías	32:17	#	5:4.2/#	Seguridad profunda	C	#
+Isaías	32:17-18	#	131:10.6/#	Por la fe alcanzaré la paz	C	#
+Isaías	33:22	#	137:8.4/#	Yahvé en nuestro juez	R	#
+Isaías	34:1	#	3:2.5/#	Fuente de todas las cosas	C	#
+Isaías	34:8	#	142:2.1/#	Que se venga de los pecadores	C	#
+Isaías	35:2	#	2:1.2/#	Gloria de Dios	C	#
+Isaías	35:4	#	70:10.9/#	La venganza es de Dios	R	#
+Isaías	35:10	#	190:5.4/#	La alegría perpetua	R	#
+Isaías	37:1-2	#	89:3.3/#	Pobreza y penitencia	C	#
+Isaías	37:16	#	92:5.8/#	One God+	C	PROBLEM
+Isaías	37:16	#	1:7.6/#	Dios es uno solo	R	#
+Isaías	37:16	#	1:0.1/#	No hay Dios aparte de ti	C	#
+Isaías	37:16	#	131:2.2/#	Dios creó el Cielo y la Tierra	C	#
+Isaías	37:16	#	142:3.7/#	Creador Universal	C	#
+Isaías	37:16	#	92:6.6/#	O Lord of Hosts, you are God	R	#
+Isaías	37:16	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	PROBLEM
+Isaías	37:16	#	95:5.9/#	Dios como creador de todo	C	#
+Isaías	37:16	#	131:10.6/#	El Creador	C	#
+Isaías	37:16	#	0:2.9/#	Dios como Creador del Cielo y la Tierra	C	#
+Isaías	37:16	#	92:6.6/#	One God+	C	PROBLEM
+Isaías	37:16	#	6:1.3/#	Dios ha hecho todo	C	#
+Isaías	37:16	#	1:0.1/#	No hay Dios aparte de ti	C	#
+Isaías	37:16	#	45:4.8/#	Dios único	C	#
+Isaías	37:16	#	2:1.2/#	Creador fiel y divino	C	#
+Isaías	37:16	#	131:10.2/#	Un único Dios	C	#
+Isaías	37:16	#	131:10.2/#	Un único Dios	C	#
+Isaías	37:16	#	128:1.10/#	Creador de los cielos y de la Tierra	C	#
+Isaías	37:16	#	96:5.5/#	El Señor es un único Dios	C	#
+Isaías	37:16	#	56:4.4/#	Dios es uno	C	#
+Isaías	37:16	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
+Isaías	38:17	#	142:3.22/#	Cambiados por la ley del amor	C	#
+Isaías	40:1	#	140:9.2/#	Confortad a los oprimidos	S	#
+Isaías	40:3-5	#	135:6.6/#	Respuesta de Juan	R	#
+Isaías	40:11	#	190:5.4/#	Alimentará a su rebaño como un verdadero pastor	R	#
+Isaías	40:11	#	97:7.8/#	Apacentará a su rebaño como un pastor	R	#
+Isaías	40:12	#	7:1.1/#	Mantiene en el hueco de su mano	C	#
+Isaías	40:12a	#	1:5.3/#	Pt 1: Measures waters in hand	R	PROBLEM
+Isaías	40:15	#	97:7.5/#	Mirad, levanta las islas	R	#
+Isaías	40:18,22,26,29	#	126:4.6/#	Lectura de la escritura: ¿Con quién, entonces, compararéis a Dios?	R	#
+Isaías	40:22	#	1:5.3/#	Pt 2: Sits on circle of earth	R	PROBLEM
+Isaías	40:26	#	3:3.1/#	El número y nombre de las estrellas	R	#
+Isaías	40:26	#	1:5.3/#	Levantad vuestros ojos	R	#
+Isaías	40:26,28	#	131:2.2/#	Dios creó la Tierra	C	#
+Isaías	40:26,28	#	142:3.7/#	Creador Universal	C	#
+Isaías	40:26,28	#	2:1.2/#	Creador fiel y divino	C	#
+Isaías	40:26,28	#	95:5.9/#	Dios como creador de todo	C	#
+Isaías	40:26,28	#	131:10.6/#	El Creador	C	#
+Isaías	40:26,28	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Isaías	40:26,28	#	0:2.9/#	Dios como Creador de la Tierra	C	#
+Isaías	40:26-28	#	6:1.3/#	Dios ha hecho todo	C	#
+Isaías	40:28	#	2:1.2/#	Mente primordial	C	#
+Isaías	40:28	#	1:1.6/#	El Dios eterno	C	#
+Isaías	40:28	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
+Isaías	40:29	#	148:5.5/#	Da poder al extenuado	R	#
+Isaías	40:29	#	97:7.8/#	Da energía a los débiles	R	#
+Isaías	40:31	#	131:2.6/#	Los que esperan en el Señor renovarán sus fuerzas	R	#
+Isaías	40:31	#	97:7.8/#	Aquellos que esperan en el Señor	R	#
+Isaías	41:4	#	97:7.6/#	Yo soy el primero y el último	R	#
+Isaías	41:4	#	2:1.2/#	Fuente y destino	C	#
+Isaías	41:4	#	2:1.2/#	Fuente y destino	C	#
+Isaías	41:4	#	10:7.1/#	El primero, el último, y el único Dios	R	#
+Isaías	41:4	#	2:1.5/#	Él es el principio y el fin	C	#
+Isaías	41:4,6	#	128:1.10/#	El primero y el último	R	#
+Isaías	41:8-9	#	96:2.3/#	Pueblo elegido	C	#
+Isaías	41:8-9	#	97:4.2/#	Pueblo elegido	C	#
+Isaías	41:8-9	#	96:5.6/#	Pueblo elegido de Dios	C	#
+Isaías	41:8-9	#	93:5.1/#	Pueblo elegido	R	#
+Isaías	41:8-9	#	97:10.1/#	Pueblo elegido	C	#
+Isaías	41:8-9	#	121:2.8/#	Pueblo elegido	R	#
+Isaías	41:10	#	131:2.6/#	No temáis, porque estoy con vosotros	R	#
+Isaías	41:10	#	174:0.2/#	No te desanimes por los acontecimientos futuros	C	#
+Isaías	41:10	#	97:7.6/#	No temáis, porque estoy con vosotros	R	#
+Isaías	41:10,13	#	0:2.9/#	God as Upholder+	C	PROBLEM
+Isaías	41:10,13	#	128:1.10/#	Sostén de un universo	C	#
+Isaías	41:10,13	#	126:4.6/#	Lectura de la escritura: ¿Con quién, entonces, compararéis a Dios?	R	#
+Isaías	41:10,13-14	#	95:4.3/#	Líbrame del temor	R	#
+Isaías	41:13	#	159:5.5/#	No temas, yo te ayudaré	R	#
+Isaías	41:17	#	190:5.4/#	Escuchará el lamento de los necesitados	R	#
+Isaías	41:17	#	97:7.9/#	Dios no abandonará	R	#
+Isaías	42:1	#	136:1.1/#	El Siervo del Señor	R	#
+Isaías	42:1-2	#	178:1.17/#	No luchéis contra los hombres	C	#
+Isaías	42:3	#	148:5.5/#	No romperá la caña quebrada	R	#
+Isaías	42:5	#	131:2.2/#	Dios creó todo	C	#
+Isaías	42:5	#	6:1.3/#	Dios ha hecho todo	C	#
+Isaías	42:5	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Isaías	42:5	#	2:1.2/#	Creador fiel y divino	C	#
+Isaías	42:5	#	95:5.9/#	Dios como creador de todo	C	#
+Isaías	42:5	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
+Isaías	42:5	#	142:3.7/#	Creador Universal	C	#
+Isaías	42:5	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
+Isaías	42:5	#	0:2.9/#	Dios como creador de todo	C	#
+Isaías	42:5	#	63:6.1/#	Aquel que da Aliento	R	#
+Isaías	42:5	#	128:1.10/#	Creador de los cielos y de la Tierra	C	#
+Isaías	42:5	#	131:10.6/#	El Creador	C	#
+Isaías	42:5-7	#	120:2.6/#	Libertad a los cautivos espirituales	C	#
+Isaías	42:7	#	190:5.4/#	Abrirá los ojos de los ciegos espirituales	R	#
+Isaías	42:8	#	2:1.2/#	Gloria de Dios	C	#
+Isaías	43:1	#	97:7.7/#	Dice el Señor: `Yo os he creado'	R	#
+Isaías	43:2	#	117:6.27/#	Dios está con nosotros	C	#
+Isaías	43:2	#	148:5.5/#	Cuando los ríos de la aflicción os inunden	R	#
+Isaías	43:2	#	97:7.7/#	Atravesar las aguas	R	#
+Isaías	43:4	#	97:7.7/#	Sois inapreciables	R	#
+Isaías	43:6-7	#	148:4.10/#	Los he creado para mi gloria	R	#
+Isaías	43:7	#	97:7.10/#	He creado al hombre para mi gloria	R	#
+Isaías	43:10-11	#	126:4.7/#	Lectura de la escritura: Y tú eres mi testigo, dice el Señor	R	#
+Isaías	43:20-21	#	96:5.6/#	Pueblo elegido de Dios	C	#
+Isaías	43:20-21	#	97:10.1/#	Pueblo elegido	C	#
+Isaías	43:20-21	#	97:4.2/#	Pueblo elegido	C	#
+Isaías	43:20-21	#	93:5.1/#	Pueblo elegido	R	#
+Isaías	43:20-21	#	96:2.3/#	Pueblo elegido	C	#
+Isaías	43:21	#	121:2.8/#	Pueblo elegido	R	#
+Isaías	43:21	#	97:7.10/#	Ellos proclamarán mi alabanza	R	#
+Isaías	43:22-26	#	97:8.3/#	El segundo Isaías y el sacrificio y la rendención	C	#
+Isaías	43:25	#	97:7.10/#	Soy yo el que borra sus trasgresiones	R	#
+Isaías	43:25	#	2:5.4/#	Borra nuestros pecados	R	#
+Isaías	44:1	#	97:10.1/#	Pueblo elegido	C	#
+Isaías	44:1	#	96:2.3/#	Pueblo elegido	C	#
+Isaías	44:1	#	121:2.8/#	Pueblo elegido	R	#
+Isaías	44:1	#	97:4.2/#	Pueblo elegido	C	#
+Isaías	44:1	#	93:5.1/#	Pueblo elegido	R	#
+Isaías	44:1	#	96:5.6/#	Pueblo elegido de Dios	C	#
+Isaías	44:3	#	34:4.1/#	Holy Spirit+	C	PROBLEM
+Isaías	44:3	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
+Isaías	44:3	#	162:6.1/#	Ríos de agua viva	R	#
+Isaías	44:3	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
+Isaías	44:3	#	162:6.3/#	Las aguas descienden sobre tierra seca	R	#
+Isaías	44:3	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
+Isaías	44:6	#	2:1.2/#	Fuente y destino	C	#
+Isaías	44:6	#	10:7.1/#	El primero, el último, y el único Dios	R	#
+Isaías	44:6	#	97:7.6/#	Yo soy el primero y el último	R	#
+Isaías	44:6	#	128:1.10/#	El primero y el último	R	#
+Isaías	44:6	#	2:1.2/#	Fuente y destino	C	#
+Isaías	44:6	#	2:1.5/#	Él es el principio y el fin	C	#
+Isaías	44:6	#	97:7.9/#	Yo soy el primero y el último, único Dios	R	#
+Isaías	44:6,8	#	1:7.6/#	Dios es uno solo	R	#
+Isaías	44:6,8	#	96:5.5/#	El Señor es un único Dios	C	#
+Isaías	44:6,8	#	92:6.6/#	One God+	C	PROBLEM
+Isaías	44:6,8	#	131:10.2/#	Un único Dios	C	#
+Isaías	44:6,8	#	1:0.1/#	No hay Dios aparte de ti	C	#
+Isaías	44:6,8	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
+Isaías	44:6,8	#	45:4.8/#	Dios único	C	#
+Isaías	44:6,8	#	56:4.4/#	Dios es uno	C	#
+Isaías	44:6,8	#	92:5.8/#	One God+	C	PROBLEM
+Isaías	44:8	#	95:4.3/#	Líbrame del temor	R	#
+Isaías	44:18	#	151:1.4/#	Verán sin ver, etc.	S	#
+Isaías	45:5-6,21	#	92:6.6/#	One God+	C	PROBLEM
+Isaías	45:5-6,21	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
+Isaías	45:5-6,21	#	56:4.4/#	Dios es uno	C	#
+Isaías	45:5-6,21	#	1:0.1/#	No hay Dios aparte de ti	C	#
+Isaías	45:5-6,21	#	96:5.5/#	El Señor es un único Dios	C	#
+Isaías	45:5-6,21	#	131:10.2/#	Un único Dios	C	#
+Isaías	45:5-6,21	#	45:4.8/#	Dios único	C	#
+Isaías	45:5-6,21	#	92:5.8/#	One God+	C	PROBLEM
+Isaías	45:5-6.21	#	1:7.6/#	Dios es uno solo	R	#
+Isaías	45:12,18	#	131:10.6/#	The Creator+	C	PROBLEM
+Isaías	45:12	#	74:0.1/#	Creación del hombre	C	#
+Isaías	45:12	#	97:7.6/#	He creado la Tierra y el hombre	R	#
+Isaías	45:12,18	#	57:3.8/#	La creación de Miguel	C	#
+Isaías	45:12,18	#	95:5.9/#	Dios como creador de todo	C	#
+Isaías	45:12,18	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
+Isaías	45:12,18	#	21:2.1/#	Los Hijos Creadores crean	C	#
+Isaías	45:12,18	#	128:1.10/#	Creador de los cielos y de la Tierra	C	#
+Isaías	45:12,18	#	6:1.3/#	Dios ha hecho todo	C	#
+Isaías	45:12,18	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
+Isaías	45:12,18	#	2:1.2/#	Creador fiel y divino	C	#
+Isaías	45:12,18	#	21:0.1/#	Los hijos Creadores	C	#
+Isaías	45:12,18	#	142:3.7/#	Creador Universal	C	#
+Isaías	45:12,18	#	131:2.2/#	Dios creó el Cielo y la Tierra	C	#
+Isaías	45:12,18	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Isaías	45:12-18	#	0:2.9/#	Dios como Creador del Cielo y la Tierra	C	#
+Isaías	45:18	#	97:7.6/#	No la he creado en vano	R	#
+Isaías	45:18	#	1:0.2/#	Creó la Tierra para ser habitada	R	#
+Isaías	45:18	#	131:2.9/#	Así se expresa el Señor	R	#
+Isaías	45:21	#	97:7.6/#	No hay Dios aparte de mí, un Dios justo	R	#
+Isaías	45:21	#	131:2.2/#	No hay nadie más que él	R	#
+Isaías	45:21-22	#	131:2.9/#	No hay más Dios que yo, un Dios justo y salvador	R	#
+Isaías	45:24	#	150:5.2/#	Mi rectitud reside en el Señor	R	#
+Isaías	46:1	#	95:1.3/#	Competing "gods" Bel, Nabu	C	PROBLEM
+Isaías	46:9-10	#	2:1.4/#	Ve el fin desde el principio	C	#
+Isaías	46:10	#	2:2.1/#	Proclama el fin desde el principio	R	#
+Isaías	46:10	#	2:2.1/#	Proclama el fin desde el principio	R	#
+Isaías	47:13	#	90:2.5/#	Astrología	C	#
+Isaías	48:12	#	97:7.6/#	Yo soy el primero y el último	R	#
+Isaías	48:12	#	2:1.2/#	Es el principio y el fin	C	#
+Isaías	48:12	#	2:1.5/#	Él es el principio y el fin	C	#
+Isaías	48:12	#	10:7.1/#	El primero, el último, y el único Dios	R	#
+Isaías	48:12	#	128:1.10/#	El primero y el último	R	#
+Isaías	48:22	#	131:2.10/#	No hay paz para los perversos	R	#
+Isaías	49:6	#	40:5.16/#	True light+	C	PROBLEM
+Isaías	49:6	#	52:1.7/#	Iluminados por la verdadera luz	R	#
+Isaías	49:9	#	120:2.6/#	Libertad a los cautivos espirituales	C	#
+Isaías	49:15	#	97:7.9/#	Dios no olvidará	R	#
+Isaías	49:15-16	#	97:7.7/#	¿Puede una mujer olvidar?	R	#
+Isaías	50:10	#	162:5.3/#	Muchos prefieren permanecer en las tinieblas	S	#
+Isaías	51:3	#	43:6.1/#	Los jardines de Dios	R	#
+Isaías	51:5	#	150:5.2/#	Mis brazos envolverán al pueblo	R	#
+Isaías	51:6	#	97:7.6/#	Los cielos pueden desaparecer	R	#
+Isaías	51:8	#	97:7.6/#	Mi salvación se extenderá generaciones	R	#
+Isaías	51:11	#	190:5.4/#	La alegría perpetua	R	#
+Isaías	51:16	#	97:7.7/#	Los he cubierto con la sombra	R	#
+Isaías	53:1	#	174:5.3/#	¿Quién ha creído? ¿A quién se ha revelado?	R	#
+Isaías	53:3	#	100:7.13/#	No era un hombre de tristezas	C	#
+Isaías	53:3	#	129:4.4/#	Varón de dolores que conocía las aflicciones	R	#
+Isaías	53:3	#	181:1.8/#	Jesús no fue un «hombre de dolores»	R	#
+Isaías	53:3	#	159:3.10/#	Jesús no es un hombre de tristezas	C	#
+Isaías	53:5	#	2:5.3/#	En nuestras aflicciones se aflige	R	#
+Isaías	53:7	#	183:5.5/#	Jesús silencioso todo el camino	S	#
+Isaías	53:7-9	#	188:5.12/#	El creador conoce las aflicciones temporales	S	#
+Isaías	53:11	#	136:1.1/#	El Siervo del Señor	R	#
+Isaías	54:4,14	#	95:4.3/#	Líbrame del temor	R	#
+Isaías	54:8	#	2:5.7/#	Dios es misericordioso	C	#
+Isaías	54:8	#	142:3.7/#	Totalmente misericordioso	C	#
+Isaías	54:8	#	6:3.2/#	Ministro de la misericordia	C	#
+Isaías	54:8	#	131:10.6/#	La Misericordia	C	#
+Isaías	54:8	#	2:4.1/#	Su misericordia dura eternamente	R	#
+Isaías	54:11-12	#	44:6.1/#	Embellecedores	C	#
+Isaías	54:13	#	153:2.11/#	Todos serán enseñados por Dios	R	#
+Isaías	54:13	#	156:5.2/#	Enseñados por el espíritu	C	#
+Isaías	55:1	#	34:6.8/#	Nunca tener sed, agua espiritual	R	#
+Isaías	55:1-3	#	110:3.7/#	Escogiendo la guía divina	C	#
+Isaías	55:4-7	#	142:3.22/#	Cambiados por la ley del amor	C	#
+Isaías	55:6	#	169:1.1/#	Seek the Lord	R	PROBLEM
+Isaías	55:7	#	2:5.4/#	Perdona en abundancia	R	#
+Isaías	55:7	#	131:10.6/#	La Misericordia	C	#
+Isaías	55:7	#	6:3.2/#	Ministro de la misericordia	C	#
+Isaías	55:7	#	2:4.1/#	Perdonará en abundancia	R	#
+Isaías	55:7	#	143:1.6/#	Dios se deleita en la misericordia	C	#
+Isaías	55:7	#	142:3.7/#	Totalmente misericordioso	C	#
+Isaías	55:7	#	131:2.11/#	Que vuelvan a mí, y tendré misericordia de ellos	R	#
+Isaías	55:7	#	2:5.7/#	Dios es misericordioso	C	#
+Isaías	55:7	#	97:7.7/#	Que el perverso abandone sus caminos	R	#
+Isaías	55:7	#	143:1.6/#	Dios se deleita en la misericordia	C	#
+Isaías	55:9	#	97:7.5/#	Como los cielos son más elevados que la Tierra	R	#
+Isaías	55:9	#	131:2.3/#	Los pensamientos de Dios son más elevados	R	#
+Isaías	56:5	#	190:3.1/#	El evangelio de la filiación	C	#
+Isaías	56:5	#	141:2.2/#	Hijos de Dios por la fe	C	#
+Isaías	56:5	#	149:6.8/#	Nosotros somos sus hijos	C	#
+Isaías	56:5	#	143:2.7/#	Los hijos liberados de Dios	C	#
+Isaías	56:5	#	131:10.8/#	La relación de padre e hijo	C	#
+Isaías	56:5	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+Isaías	56:5	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
+Isaías	56:5	#	193:1.2/#	Todos los hombres son hijos de Dios	C	#
+Isaías	56:5	#	142:5.2/#	Hijos de Dios	C	#
+Isaías	56:5	#	170:2.20/#	Hijos de Dios	C	#
+Isaías	56:5	#	181:2.12/#	Los creyentes, hijos de Dios	C	#
+Isaías	56:5	#	149:2.10/#	Hijos del Dios viviente	C	#
+Isaías	56:5	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
+Isaías	56:5	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
+Isaías	56:5	#	140:3.16/#	Sons of living God+	C	PROBLEM
+Isaías	56:5	#	181:2.14/#	Los creyentes son hijos de Dios	C	#
+Isaías	56:5	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
+Isaías	56:5	#	140:1.6/#	Hijos del Dios viviente	C	#
+Isaías	56:5	#	196:0.2/#	Cada criatura mortal es un hijo de Dios	C	#
+Isaías	56:5	#	5:4.8/#	Somos hijos de Dios	C	#
+Isaías	56:5	#	153:2.4/#	Fraternidad de los hijos de Dios	C	#
+Isaías	56:5	#	40:6.2/#	Les daré un nombre perpetuo	R	#
+Isaías	56:5	#	131:10.6/#	Relación entre padre e hijo	C	#
+Isaías	56:5	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
+Isaías	56:5	#	170:2.8/#	Los hijos salvados de Dios	S	#
+Isaías	56:5	#	40:6.1/#	Hijos de Dios por la fe	C	#
+Isaías	56:5	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+Isaías	56:5	#	131:10.2/#	Somos los hijos de Dios	C	#
+Isaías	56:5	#	2:5.4/#	Somos hijos de Dios	C	#
+Isaías	56:5	#	8:6.4/#	Hijos de Dios	C	#
+Isaías	56:5	#	34:6.10/#	Hijos de Dios	C	#
+Isaías	56:5	#	141:4.2/#	We are God's children+	C	PROBLEM
+Isaías	56:5	#	1:3.1/#	Progenie de Dios	C	#
+Isaías	56:7	#	125:1.1/#	La casa de su Padre	R	#
+Isaías	56:7	#	173:1.7/#	La casa de mi Padre es casa de oración	R	#
+Isaías	57:15	#	97:7.12/#	Vivo en el lugar alto y santo	R	#
+Isaías	57:15	#	131:2.4/#	Vivo en el lugar alto y sagrado	R	#
+Isaías	57:15	#	149:6.11/#	Mente contrita y espíritu humilde	C	#
+Isaías	57:15	#	1:1.6/#	Vive en la eternidad	C	#
+Isaías	57:15	#	97:7.9/#	Soy el elevado y el sublime	R	#
+Isaías	57:15	#	3:4.5/#	Dios vive en la eternidad	C	#
+Isaías	57:15	#	2:1.5/#	Habita la eternidad	C	#
+Isaías	57:15	#	11:1.2/#	Lugar alto y sagrado	C	#
+Isaías	57:15	#	1:0.3/#	Dios habita la eternidad	C	#
+Isaías	57:18	#	190:5.4/#	Él consolará a los afligidos	R	#
+Isaías	57:20-21	#	149:5.3/#	Los perversos parecen un mar agitado	R	#
+Isaías	57:21	#	131:2.10/#	No hay paz para los perversos	R	#
+Isaías	58:3-4	#	147:8.2/#	¿Por qué habéis ayunado?	S	#
+Isaías	58:3-5	#	89:3.3/#	Pobreza y penitencia	C	#
+Isaías	58:3.6	#	89:3.1/#	Ayuno ritual	C	#
+Isaías	58:5-7	#	147:8.3/#	¿Por qué no hacer el bien?	S	#
+Isaías	58:8-12	#	147:8.4/#	Vuestra luz brotará	S	#
+Isaías	58:11	#	97:7.12/#	El Señor os guiará continuamente	R	#
+Isaías	59:1	#	97:7.9/#	La mano del Señor no es tan corta	R	#
+Isaías	59:19	#	97:7.12/#	El espíritu del Señor os defenderá	R	#
+Isaías	59:21	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
+Isaías	59:21	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
+Isaías	59:21	#	34:4.1/#	Holy Spirit+	C	PROBLEM
+Isaías	59:21	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
+Isaías	60:1	#	97:5.3/#	Levantaos y resplandeced, la luz ha llegado	R	#
+Isaías	60:1-3	#	145:2.2/#	Levántate, resplandece, ha venido la luz	R	#
+Isaías	60:1-3	#	45:4.4/#	La Gran Luz	R	#
+Isaías	60:19-20	#	46:1.4/#	Sistema de iluminación de Jerusem	C	#
+Isaías	61:1	#	120:2.6/#	Libertad a los cautivos espirituales	C	#
+Isaías	61:1	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
+Isaías	61:1	#	123:5.11/#	El Espíritu del Señor está sobre mí	R	#
+Isaías	61:1	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
+Isaías	61:1	#	140:9.2/#	Liberad a los cautivos espirituales	S	#
+Isaías	61:1	#	140:3.2/#	Liberar a los cautivos espirituales	C	#
+Isaías	61:1	#	97:5.3/#	El espíritu del Señor está en mí	R	#
+Isaías	61:1	#	136:1.1/#	El Ungido	R	#
+Isaías	61:1	#	34:4.1/#	Holy Spirit+	C	PROBLEM
+Isaías	61:1	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
+Isaías	61:1	#	190:5.4/#	Curará a los de corazón destrozado	R	#
+Isaías	61:1-2	#	143:1.5/#	El evangelio predicado a los pobres	S	#
+Isaías	61:1-2	#	148:5.5/#	Enviado para vendar los corazones rotos	R	#
+Isaías	61:1-2	#	144:8.3/#	La buena nueva se predica a los pobres	C	#
+Isaías	61:1-2a	#	150:8.9/#	El espíritu del Señor está sobre mí	R	#
+Isaías	61:1-3	#	126:4.2/#	Lectura de la escritura: El espíritu de Señor está sobre mí	R	#
+Isaías	61:2-3	#	190:5.4/#	Él consolará a los afligidos	C	#
+Isaías	61:7	#	190:5.4/#	La alegría perpetua	R	#
+Isaías	61:10	#	131:2.10/#	Dios es la alegría de mi alma	R	#
+Isaías	61:10	#	150:5.2/#	Mi alma se regocija en el amor de Dios	R	#
+Isaías	61:10	#	97:5.3/#	Me regocijaré profundamente en el Señor	R	#
+Isaías	61:10	#	150:5.2/#	Mi alma se regocija en el amor de Dios	R	#
+Isaías	62:1-3	#	131:10.5/#	Las alegrías del cielo	C	#
+Isaías	62:2	#	47:8.5/#	Nuevo nombre	C	#
+Isaías	63:7-9	#	142:3.22/#	Cambiados por la ley del amor	C	#
+Isaías	63:8-9	#	188:5.12/#	El creador conoce las aflicciones temporales	S	#
+Isaías	63:9	#	97:5.3/#	El comparte las aflicciones	R	#
+Isaías	63:9	#	110:0.1/#	Compartir sufrimientos	C	#
+Isaías	63:9	#	2:5.3/#	En nuestras aflicciones se aflige	R	#
+Isaías	63:9	#	1:5.16/#	Dios comparte nuestras aflicciones	R	#
+Isaías	63:9	#	3:6.6/#	En vuestras aflicciones me aflijo	R	#
+Isaías	63:10-11	#	146:3.5/#	Espíritu viviente del Padre	C	#
+Isaías	63:10-11	#	34:4.1/#	Holy Spirit+	C	PROBLEM
+Isaías	63:10-11	#	5:2.3/#	El espíritu viviendo dentro	C	#
+Isaías	63:10-11	#	134:4.7/#	El espíritu interior	C	#
+Isaías	63:10-11	#	16:9.4/#	El espíritu de Dios vive en nosotros	C	#
+Isaías	63:10-11	#	133:4.4/#	Dios habita en tu alma	C	#
+Isaías	63:10-11	#	107:4.7/#	El Ajustador, espíritu interior	C	#
+Isaías	63:10-11	#	3:1.4/#	Vive en nosotros	R	#
+Isaías	63:10-11	#	2:5.6/#	Su espíritu vive en nosotros	C	#
+Isaías	63:10-11	#	133:4.5/#	El espíritu de Dios vive en nosotros	C	#
+Isaías	63:10-11	#	148:6.10/#	Dios habita dentro de ti	C	#
+Isaías	63:10-11	#	140:1.5/#	El reino es Dios dentro de vosotros	C	#
+Isaías	63:10-11	#	167:7.4/#	El espíritu de Dios vive en vosotros	C	#
+Isaías	63:10-11	#	34:6.7/#	Espíritu de Dios en el hombre	C	#
+Isaías	63:10-11	#	131:10.4/#	El espíritu de Dios está en el corazón del hombre	C	#
+Isaías	63:10-11	#	170:2.20/#	Kingdom of God within+	C	PROBLEM
+Isaías	63:10-11	#	195:10.4/#	El reino de Dios está dentro de vosotros	S	#
+Isaías	63:10-11	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
+Isaías	63:10-11	#	12:7.12/#	Dios vive en nosotros	C	#
+Isaías	63:10-11	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
+Isaías	63:10-11	#	131:10.2/#	El espíritu de Dios habita en nuestra alma	C	#
+Isaías	63:10-11	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
+Isaías	63:10-11	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
+Isaías	63:10-11	#	141:2.1/#	El espíritu de Dios dentro de nosotros	C	#
+Isaías	63:11	#	170:1.8/#	Kingdom within you	S	PROBLEM
+Isaías	63:16	#	141:4.1/#	Dios como padre de la nación judía	C	#
+Isaías	63:16	#	131:2.7/#	Dios es nuestro Padre, nuestro redentor	R	#
+Isaías	63:16	#	196:0.2/#	Concepto como padre	C	#
+Isaías	64:4	#	24:6.2/#	Lo que el ojo no puede ver ni el oído oír	R	#
+Isaías	64:4	#	44:2.1/#	Penetrado en la mente del hombre	R	#
+Isaías	64:4	#	181:2.20/#	Lo que el ojo no ha visto, el oído no ha escuchado, etc.	C	#
+Isaías	64:4	#	43:6.8/#	Los jardines de Edentia	C	#
+Isaías	64:4	#	11:4.5/#	El ojo no ha visto ni el oído ha oído	R	#
+Isaías	64:4	#	131:10.3/#	No podemos encontrar a Dios por el conocimiento	C	#
+Isaías	64:8	#	196:0.2/#	Concepto como padre	C	#
+Isaías	64:8	#	141:4.1/#	Dios como padre de la nación judía	C	#
+Isaías	65:17	#	52:7.11/#	Nuevo cielo y nueva tierra	R	#
+Isaías	65:17	#	55:6.4/#	La cosas viejas se hacen nuevas	R	#
+Isaías	65:17	#	176:1.6/#	Nuevos cielos y nueva tierra	C	#
+Isaías	65:17	#	135:5.4/#	Un nuevo cielo y una nueva Tierra	R	#
+Isaías	65:17-18	#	55:1.1/#	Templo sagrado construido en la Tierra	R	#
+Isaías	65:24	#	140:6.11/#	Dios sabe lo que necesitamos antes de pedírselo	S	#
+Isaías	65:24	#	3:3.2/#	Sabe lo que necesitáis antes de que lo pidáis	R	#
+Isaías	66:1	#	97:7.11/#	Los cielos son mi trono, y la Tierra es mi escabel	R	#
+Isaías	66:1-2	#	137:6.2/#	Versículos de Isaías leídos por Jesús	R	#
+Isaías	66:5-8	#	137:6.2/#	Versículos de Isaías leídos por Jesús	R	#
+Isaías	66:12-14	#	137:6.2/#	Versículos de Isaías leídos por Jesús	R	#
+Isaías	66:22	#	176:1.6/#	Nuevos cielos y nueva tierra	C	#
+Isaías	66:22	#	15:7.1/#	Nuevo cielo	C	#
+Isaías	66:22	#	52:7.11/#	Nuevo cielo y nueva tierra	R	#
+Isaías	66:22	#	135:5.4/#	Un nuevo cielo y una nueva Tierra	R	#
+Isaías	66:22-23	#	52:7.12/#	Toda la carne adorará a Dios	R	#

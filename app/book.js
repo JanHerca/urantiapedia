@@ -15,6 +15,117 @@ class Book {
 	papers = [];
 	onProgressFn = null;
 
+	/**
+	 * Devuelve un array de tres valores [paper_id, section_id, par_id]
+	 * @param {string} lu_ref Referencia al LU.
+	 * @return {Array}
+	 */
+	getRef = (lu_ref) => {
+		let data, data2, paper_id, section_id, par_id;
+		const err = new Error(`La referencia LU ${lu_ref} está mal o no existe`);
+		data = lu_ref.split(':');
+		if (data.length != 2) {
+			throw err;
+		}
+		paper_id = parseInt(data[0]);
+		if (isNaN(paper_id)) {
+			throw err;
+		}
+		data2 = data[1].split('.');
+		if (data2.length != 2) {
+			throw err;
+		}
+		section_id = parseInt(data2[0]);
+		par_id = parseInt(data2[1]);
+		if (isNaN(section_id) || isNaN(par_id)) {
+			throw err;
+		}
+		return [paper_id, section_id, par_id];
+	};
+
+	/**
+	 * Devolvemos las footnotes que contenga un determinado párrafo del LU
+	 * @param {string} lu_ref Referencia al LU.
+	 * @return {Array}
+	 */
+	getFootnotes = (lu_ref) => {
+		let paper, section, par_content, footnotes = [];
+		const err2 = new Error(`La referencia LU ${lu_ref} está mal o no existe`);
+		//
+		let ref;
+		try {
+			ref = this.getRef(lu_ref);
+		} catch (err) {
+			throw err;
+		}
+		const paper_id = ref[0], section_id = ref[1], par_id = ref[2];
+		paper = this.papers.find(p => p.paper_index === paper_id);
+		if (!paper) {
+			throw err2;
+		}
+		section = paper.sections.find(s => 
+			s.section_index === section_id);
+		if (!section) {
+			throw err2;
+		}
+		par_content = (section.pars[par_id - 1] ?
+			section.pars[par_id - 1].par_content : null);
+		if (!par_content) {
+			throw err2;
+		}
+		for (let i = 0; i < paper.footnotes.length; i++) {
+			if (par_content.indexOf(`{${i}}`) != -1) {
+				footnotes.push(paper.footnotes[i]);
+			}
+		}
+		return footnotes;
+	};
+
+	/**
+	 * Devolvemos un array con pares [texto, ref bíblica]
+	 * @param {Array} footnotes Array de footnotes
+	 * @return {Array}
+	 */
+	getSubFootnotes = (footnotes) => {
+		const subfootnotes = [];
+		const err = new Error(`Error extrayendo subfootnotes`);
+		footnotes.forEach(f => {
+			let parts, text, text2, fs, ab;
+			parts = f.split('*').filter(n => n.trim() != '');
+			if (parts.length === 0 || parts.length % 2 != 0) {
+				throw err;
+			}
+			
+			for (let p = 0; p < parts.length; p = p + 2) {
+				text = parts[p];
+				text2 = parts[p + 1];
+				if (text2[0] === ':') {
+					text2 = text2.substring(1).trim();
+					if (text2[text2.length - 1] === '.') {
+						text2 = text2.substring(0, text2.length - 1);
+					}
+				}
+				fs = text2.split(';');
+
+				fs.forEach(fss => {
+					fss = fss.trim();
+					let ref = null;
+					let ab2 = this.findAbr(fss);
+					if (ab2) {
+						ab = ab2;
+						ref = fss.substring(ab.length).trim();
+					} else {
+						ref = fss;
+					}
+					if (ab && ref) {
+						subfootnotes.push([text, `${ab} ${ref}`]);
+					}
+				});
+			}
+		});
+		return subfootnotes;
+	};
+
 	//***********************************************************************
 	// LaTeX
 	//***********************************************************************
@@ -123,7 +234,12 @@ class Book {
 					errors.push(this.createError(baseName, i,
 						'No se pudo extraer el inicio de sección'));
 				} else {
-					currentSectionIndex++;
+					//Caso especial de la sección 139:9 (que no existe)
+					if (extract.startsWith('9. y 10.')) {
+						currentSectionIndex += 2;
+					} else {
+						currentSectionIndex++;
+					}
 					currentSection = {
 						section_index: currentSectionIndex,
 						section_ref: `${paperIndex}:${currentSectionIndex}`,

@@ -1,0 +1,472 @@
+#https://urantia-book.org/urantiabook/bible_refs/Acts_1.html
+
+Book	Ch:Vs	1st Ed Page:Line	Paper:Sec:Ppgh	Key Words	Class
+Acts of the Apostles	1:1	1594:23-24	141:7.10/1-4	Teacher from heaven	C
+Acts of the Apostles	1:4	2057:21-22	193:5.2/1-2	Tarry in Jerusalem	S
+Acts of the Apostles	1:4	2053:17-18	193:0.5/23-24	Tarry in Jerusalem	S
+Acts of the Apostles	1:4,6	2055:6-7	193:3.1/3-6	Jesus' final appearance	S
+Acts of the Apostles	1:5	2043:15	191:5.3/23	Baptized with Spirit of Truth	S
+Acts of the Apostles	1:5	1593:13	141:6.5/8-9	Baptism with the spirit+	C
+Acts of the Apostles	1:5	947:1-2	85:4.1/5-7	Baptism+	C
+Acts of the Apostles	1:5	1536:34-36	137:8.10/all	John's baptism sign of repentance	S
+Acts of the Apostles	1:5	964:37	87:6.5/10-11	Water baptism	C
+Acts of the Apostles	1:5,8a	2035:38-39	190:5.4/55-56	Pour out spirit on all flesh+	C
+Acts of the Apostles	1:5,8a	1951:44-46	180:6.3/all	Spirit of Truth+	C
+Acts of the Apostles	1:5,8a	382:11	34:7.1/8-9	Spirit of Truth+	C
+Acts of the Apostles	1:5,8a	224:21	20:1.6/5	Son poured out spirit on flesh+	C
+Acts of the Apostles	1:5,8a	230:7-8	20:6.8/12-15	Spirit of truth+	C
+Acts of the Apostles	1:5,8a	1958:6-8	181:2.14/7-10	Follow new teacher in hearts+	C
+Acts of the Apostles	1:5,8a	1340:25-26	121:7.5/7-8	New spirit, live in men's hearts+	C
+Acts of the Apostles	1:5,8a	379:36	34:5.5/1-2	Spirit of Truth+	C
+Acts of the Apostles	1:5,8a	1961:24-28	181:2.24/9-15	Spirit of Truth will be with you+	C
+Acts of the Apostles	1:5,8a	241:40-42	21:5.7/5-8	Spirit of Truth+	C
+Acts of the Apostles	1:5,8a	2057:23-24	193:5.2/5-6	Send Spirit of Truth+	S
+Acts of the Apostles	1:5,8a	377:31-32	34:4.1/3-4	Spirit of Truth+	C
+Acts of the Apostles	1:5,8a	1954:2	181:1.4/3	Pour out my spirit on all flesh+	C
+Acts of the Apostles	1:5,8a	1918:45-46	176:4.3/5-6	Another teacher, Spirit of Truth+	S
+Acts of the Apostles	1:5,8a	1130:31-35	103:1.6/3-12	Spirit in man (Spirit of Truth)+	C
+Acts of the Apostles	1:5,8a	2044:34-35	191:6.3/7-8	Spirit of Truth+	C
+Acts of the Apostles	1:5,8a	365:32-33	32:5.8/8-10	Spirit of Truth+	C
+Acts of the Apostles	1:5,8a	1591:15-16	141:4.5/14-15	Jesus to pour out His spirit+	C
+Acts of the Apostles	1:5,8a	1949:3-5	180:4.5/5-9	I will send "my spirit"+	C
+Acts of the Apostles	1:5,8a	1328:5	120:2.4/9	Spirit of Truth+	C
+Acts of the Apostles	1:5,8a	1328:22-23	120:2.6/16-17	Spirit of Truth+	C
+Acts of the Apostles	1:5,8a	1536:12-14	137:8.7/2-5	Spirit of Truth+	C
+Acts of the Apostles	1:5,8a	1947:14-17	180:3.3/all	Promise of comforter+	C
+Acts of the Apostles	1:5,8a	1642:18	146:3.6/15-17	Spirit of Truth+	C
+Acts of the Apostles	1:5,8a	2061:43-46	194:2.10/all	Baptism of the spirit+	C
+Acts of the Apostles	1:5,8a	2062:39	194:3.1/17-19	Spirit of Truth in heart shows Son+	C
+Acts of the Apostles	1:5,8a	2063:34-40	194:3.6/1-12	Spirit of Truth bestowed on all+	C
+Acts of the Apostles	1:6	1502:2	135:6.2/11-12	Restoration of the kingdom	R
+Acts of the Apostles	1:6-8	2055:9-17	193:3.2/1-16	Mistaken idea of Spirit of Truth	S
+Acts of the Apostles	1:7-8	1591:16-17	141:4.5/15-17	Kingdom comes in power & glory	C
+Acts of the Apostles	1:7-8	1569:13-15	140:1.5/6-8	No unseemly demonstration	C
+Acts of the Apostles	1:8	1961:48-49	181:2.26/26-27	Uttermost parts of earth	S
+Acts of the Apostles	1:8	1187:18-20	108:2.3/15-18	Adjusters after Pentecost	C
+Acts of the Apostles	1:8a	596:31-32	52:5.6/11-12	Spirit poured out on all flesh+	R
+Acts of the Apostles	1:8b	2053:38-40	193:1.2/9-12	Teach God's love to world	C
+Acts of the Apostles	1:8b	2043:4-5	191:5.3/3-4	Great Commission	C
+Acts of the Apostles	1:8b	1957:35-36	181:2.12/14-16	Proclaim gospel to world	S
+Acts of the Apostles	1:8b	2044:35	191:6.3/8-10	Great Commission	C
+Acts of the Apostles	1:8b	2042:8-9	191:4.4/1-3	Great commission	C
+Acts of the Apostles	1:8b	2057:25-26	193:5.2/7-10	Proclaim new gospel+	S
+Acts of the Apostles	1:8b	1931:41-42	178:1.14/10-12	Great Commission	C
+Acts of the Apostles	1:8b	1824:43-44	165:6.3/28-30	Great Commission	C
+Acts of the Apostles	1:8b	2052:39-40	193:0.4/10-11	Go preach love of God	C
+Acts of the Apostles	1:8b	2053:14-16	193:0.5/17-19	Preach gospel to all the world	C
+Acts of the Apostles	1:8b	2054:41-42	193:2.2/46-47	Great Commission	C
+Acts of the Apostles	1:8b	1051:8	95:7.3/13-14	Great commission	R
+Acts of the Apostles	1:8b	2054:5-6	193:1.2/33-35	Tell good news to world	C
+Acts of the Apostles	1:8b	1584:4	140:9.2/6-8	Charge: go preach to the world	S
+Acts of the Apostles	1:8b	1914:30-31	176:2.3/9-10	Gospel to go to all the world	C
+Acts of the Apostles	1:8b	1608:22-24	143:1.5/11-15	Go preach gospel to everyone	C
+Acts of the Apostles	1:8b	2033:17	190:3.1/28-29	Great commission	S
+Acts of the Apostles	1:8b	2034:2-3	190:4.1/14-16	Great commission	S
+Acts of the Apostles	1:9	2057:31-34	193:5.3/all	The ascension	S
+Acts of the Apostles	1:12-14	2057:44-53	193:6.1/all	The first meeting of Apostles	S
+Acts of the Apostles	1:13	1559:13	139:6.9/1	Nathaniel Bartholomew	C
+Acts of the Apostles	1:13	1539:34-36	138:2.2/1-5	Bible names for the Apostles	S
+Acts of the Apostles	1:13	1561:2	139:8.1/1-2	Thomas Didymus	C
+Acts of the Apostles	1:13	1564:34	139:11.1/1	Simon Zelotes added	C
+Acts of the Apostles	1:13	1563:15	139:10.1/1-2	Alpheus twins: James & Judas	C
+Acts of the Apostles	1:13	1681:36-38	150:4.1/15-19	Apostles named	S
+Acts of the Apostles	1:13	1548:2	139:0.1/1	The twelve apostles	S
+Acts of the Apostles	1:14	1671:23-24	149:2.8/6-8	Women disciples	S
+Acts of the Apostles	1:14	1345:15-20	122:1.3/all	Jesus' parents	S
+Acts of the Apostles	1:15-23	2058:9-16	193:6.2/all	The agenda	S
+Acts of the Apostles	1:16-18	1998:43-50	186:1.7/all	Judas' suicide	S
+Acts of the Apostles	1:18	1567:41-44	139:12.13/all	Judas' Suicide	C
+Acts of the Apostles	1:24	1571:37-39	140:3.19/12-16	God judges men's hearts	C
+Acts of the Apostles	1:24-26	2058:17-20	193:6.3/all	Matthias elected	S
+Acts of the Apostles	1:26	2045:16-18	192:0.2/11-13	Matthias as treasurer	S
+Acts of the Apostles	2:1,42	2064:7-9	194:3.9/1-6	Universality of religion of Jesus	S
+Acts of the Apostles	2:1-3	2059:3-9	194:0.1/all	Coming of Spirit of Truth	S
+Acts of the Apostles	2:1-4	1569:24-25	140:1.6/13-15	Reign of God in power	R
+Acts of the Apostles	2:1-4	2043:11-12	191:5.3/16-17	When Spirit comes	S
+Acts of the Apostles	2:1-4,16-18	1642:18	146:3.6/15-17	Spirit of Truth+	C
+Acts of the Apostles	2:1-4,16-18	2044:34-35	191:6.3/7-8	Spirit of Truth+	C
+Acts of the Apostles	2:1-4,16-18	596:31-32	52:5.6/11-12	Spirit poured out on all flesh+	R
+Acts of the Apostles	2:1-4,16-18	1954:2	181:1.4/3	Pour out my spirit on all flesh+	C
+Acts of the Apostles	2:1-4,16-18	2063:34-40	194:3.6/1-12	Spirit of Truth bestowed on all+	C
+Acts of the Apostles	2:1-4,16-18	2057:23-24	193:5.2/5-6	Send Spirit of Truth+	S
+Acts of the Apostles	2:1-4,16-18	1918:45-46	176:4.3/5-6	Another teacher, Spirit of Truth+	S
+Acts of the Apostles	2:1-4,16-18	1591:15-16	141:4.5/14-15	Jesus to pour out His spirit+	C
+Acts of the Apostles	2:1-4,16-18	1961:24-28	181:2.24/9-15	Spirit of Truth will be with you+	C
+Acts of the Apostles	2:1-4,16-18	2035:38-39	190:5.4/55-56	Pour out spirit on all flesh+	C
+Acts of the Apostles	2:1-4,16-18	1130:31-35	103:1.6/3-12	Spirit in man (Spirit of Truth)+	C
+Acts of the Apostles	2:1-4,16-18	230:7-8	20:6.8/12-15	Spirit of truth+	C
+Acts of the Apostles	2:1-4,16-18	377:31-32	34:4.1/3-4	Spirit of Truth+	C
+Acts of the Apostles	2:1-4,16-18	241:40-42	21:5.7/5-8	Spirit of Truth+	C
+Acts of the Apostles	2:1-4,16-18	1949:3-5	180:4.5/5-9	I will send "my spirit"+	C
+Acts of the Apostles	2:1-4,16-18	1951:44-46	180:6.3/all	Spirit of Truth+	C
+Acts of the Apostles	2:1-4,16-18	1328:22-23	120:2.6/16-17	Spirit of Truth+	C
+Acts of the Apostles	2:1-4,16-18	365:32-33	32:5.8/8-10	Spirit of Truth+	C
+Acts of the Apostles	2:1-4,16-18	382:11	34:7.1/8-9	Spirit of Truth+	C
+Acts of the Apostles	2:1-4,16-18	1328:5	120:2.4/9	Spirit of Truth+	C
+Acts of the Apostles	2:1-4,16-18	379:36	34:5.5/1-2	Spirit of Truth+	C
+Acts of the Apostles	2:1-4,16-18	1536:12-14	137:8.7/2-5	Spirit of Truth+	C
+Acts of the Apostles	2:1-4,16-18	1947:14-17	180:3.3/all	Promise of comforter+	C
+Acts of the Apostles	2:1-4,16-18	1958:6-8	181:2.14/7-10	Follow new teacher in hearts+	C
+Acts of the Apostles	2:1-4,16-18	1340:25-26	121:7.5/7-8	New spirit, live in men's hearts+	C
+Acts of the Apostles	2:1-4,17-18	224:21	20:1.6/5	Son poured out spirit on flesh+	C
+Acts of the Apostles	2:1-4,38	2061:43-46	194:2.10/all	Baptism of the spirit+	C
+Acts of the Apostles	2:1-4,38	1593:13	141:6.5/8-9	Baptism with the spirit+	C
+Acts of the Apostles	2:1-21	1187:18-20	108:2.3/15-18	Adjusters after Pentecost	C
+Acts of the Apostles	2:1-40	1918:47	176:4.3/6-7	Day of Pentecost	S
+Acts of the Apostles	2:1a,5	2060:2-4	194:1.1/1-5	Pentecost, many there	S
+Acts of the Apostles	2:4	45:12	3:1.4/11-12	Pt 3: Spirit speaks from within	R
+Acts of the Apostles	2:4a	2059:35-43	194:0.6/all	Filled with the spirit	S
+Acts of the Apostles	2:4b-12	2060:15-19	194:1.2/12-19	Speaking in other tongues	S
+Acts of the Apostles	2:14-41	2060:9-11	194:1.2/1-5	Peter's sermon	S
+Acts of the Apostles	2:16-18	241:40-42	21:5.7/5-8	Pour out Spirit of Truth	R
+Acts of the Apostles	2:19-20	1860:40	170:2.14/6-7	Believe end sudden, spectacular+	C
+Acts of the Apostles	2:21	1567:4	139:12.7/15-16	Whosoever will may come+	C
+Acts of the Apostles	2:21	1454:40	131:10.7/10-12	Whosoever will are saved+	C
+Acts of the Apostles	2:21	39:7	2:5.2/8-9	Whosoever will may come+	C
+Acts of the Apostles	2:21	38:9-10	2:4.1/7-8	Who calls on Lord is saved	R
+Acts of the Apostles	2:21	1829:44-45	166:3.7/18-19	Whosoever will may come+	C
+Acts of the Apostles	2:21	1102:18-19	100:7.6/6-7	Whosoever will may come+	C
+Acts of the Apostles	2:21	1820:44-45	165:3.8/13-14	Whosoever will may come+	C
+Acts of the Apostles	2:21	365:29	32:5.8/3-4	Whosoever will may come+	C
+Acts of the Apostles	2:22-23	2066:35-37	194:4.4/8-12	2nd part: All filled with spirit	R
+Acts of the Apostles	2:29-36	2092:40-43	196:2.5/12-16	Exaltation of risen Christ+	C
+Acts of the Apostles	2:32-33	881:25	79:3.4/6-7	Paradise Trinity	C
+Acts of the Apostles	2:32-33	2067:40	194:4.9/3-4	Trinity	C
+Acts of the Apostles	2:32-33	15:39	0:12.2/1	Paradise Trinity	C
+Acts of the Apostles	2:32-33	108:10-15	10:0.2/1-11	Paradise Trinity	C
+Acts of the Apostles	2:32-33	1304:29	118:10.2/1-2	The Trinity	C
+Acts of the Apostles	2:32-33	1144:48-51	104:1.12/all	Later trinity concept	C
+Acts of the Apostles	2:32-33	640:33-35	56:5.1/2-7	Trinity	C
+Acts of the Apostles	2:32-33	2066:38-41	194:4.4/15-19	2nd part: All filled with spirit	R
+Acts of the Apostles	2:32-33	236:28-29	21:2.8/5-6	Trinity personalities	C
+Acts of the Apostles	2:33	379:36	34:5.5/1-2	Spirit of Truth+	C
+Acts of the Apostles	2:33	2063:34-40	194:3.6/1-12	Spirit of Truth bestowed on all+	C
+Acts of the Apostles	2:33	377:31-32	34:4.1/3-4	Spirit of Truth+	C
+Acts of the Apostles	2:33	1918:45-46	176:4.3/5-6	Another teacher, Spirit of Truth+	S
+Acts of the Apostles	2:33	2044:34-35	191:6.3/7-8	Spirit of Truth+	C
+Acts of the Apostles	2:33	2057:23-24	193:5.2/5-6	Send Spirit of Truth+	S
+Acts of the Apostles	2:33	365:32-33	32:5.8/8-10	Spirit of Truth+	C
+Acts of the Apostles	2:33	1328:22-23	120:2.6/16-17	Spirit of Truth+	C
+Acts of the Apostles	2:33	1949:3-5	180:4.5/5-9	I will send "my spirit"+	C
+Acts of the Apostles	2:33	224:21	20:1.6/5	Son poured out spirit on flesh+	C
+Acts of the Apostles	2:33	1961:24-28	181:2.24/9-15	Spirit of Truth will be with you+	C
+Acts of the Apostles	2:33	230:7-8	20:6.8/12-15	Spirit of truth+	C
+Acts of the Apostles	2:33	1536:12-14	137:8.7/2-5	Spirit of Truth+	C
+Acts of the Apostles	2:33	382:11	34:7.1/8-9	Spirit of Truth+	C
+Acts of the Apostles	2:33	1328:5	120:2.4/9	Spirit of Truth+	C
+Acts of the Apostles	2:33	2035:38-39	190:5.4/55-56	Pour out spirit on all flesh+	C
+Acts of the Apostles	2:33	1954:2	181:1.4/3	Pour out my spirit on all flesh+	C
+Acts of the Apostles	2:33	1642:18	146:3.6/15-17	Spirit of Truth+	C
+Acts of the Apostles	2:33	1958:6-8	181:2.14/7-10	Follow new teacher in hearts+	C
+Acts of the Apostles	2:33	241:40-42	21:5.7/5-8	Spirit of Truth+	C
+Acts of the Apostles	2:33	1951:44-46	180:6.3/all	Spirit of Truth+	C
+Acts of the Apostles	2:33	1591:15-16	141:4.5/14-15	Jesus to pour out His spirit+	C
+Acts of the Apostles	2:33	1947:14-17	180:3.3/all	Promise of comforter+	C
+Acts of the Apostles	2:33	1340:25-26	121:7.5/7-8	New spirit, live in men's hearts+	C
+Acts of the Apostles	2:33	1130:31-35	103:1.6/3-12	Spirit in man (Spirit of Truth)+	C
+Acts of the Apostles	2:33	596:31-32	52:5.6/11-12	Spirit poured out on all flesh+	R
+Acts of the Apostles	2:36	2066:39	194:4.4/15-16	2nd part: All filled with spirit	R
+Acts of the Apostles	2:38,41	1865:16-17	170:5.13/8-11	Baptism, admission to social order+	C
+Acts of the Apostles	2:38-39	1954:3-4	181:1.4/6-7	As many as receive him blessed	C
+Acts of the Apostles	2:41	1549:28	139:1.6/13-14	2,000 souls added to kingdom	S
+Acts of the Apostles	2:41	2060:22-25	194:1.4/all	Baptizing converts	S
+Acts of the Apostles	2:41-42	2067:19-21	194:4.7/2-5	Steadfast in fellowship	R
+Acts of the Apostles	2:42	1861:29	170:2.20/18	Fellowship of faithful	S
+Acts of the Apostles	2:42	1584:32-33	140:10.1/18-19	Fellowship with God+	C
+Acts of the Apostles	2:44	2067:22-24	194:4.7/8-11	Shared living	S
+Acts of the Apostles	2:44-45	976:25	89:3.2/8-9	Property seen as spiritual handicap	C
+Acts of the Apostles	2:45	2067:31-32	194:4.7/23-26	Selling of assets	S
+Acts of the Apostles	2:46	1558:41-42	139:6.5/12-14	Came to bring gladness	C
+Acts of the Apostles	2:46-47a	2066:24-26	194:4.3/1-5	1st part: They took food gladly	R
+Acts of the Apostles	3:2,10	1379:4	125:1.5/3	Gate Beautiful	R
+Acts of the Apostles	3:16	1739:43-48	156:5.12/all	Implicit faith+	C
+Acts of the Apostles	3:18	2066:37-38	194:4.4/12-14	2nd part: All filled with spirit	R
+Acts of the Apostles	3:19-21a	2066:41-44	194:4.4/20-24	2nd part: All filled with spirit	R
+Acts of the Apostles	3:24	1062:18	97:1.1/1	Samuel, first Hebrew prophet	C
+Acts of the Apostles	3:25	1509:26	136:1.1/14-15	Seed of Abraham+	R
+Acts of the Apostles	4:10-12	2069:10-11	195:0.2/4-7	Proclaimed "gospel"+	C
+Acts of the Apostles	4:10-12	2029:20-23	190:0.4/all	Faith in resurrection+	C
+Acts of the Apostles	4:12	2035:16	190:5.4/15	Gospel of Salvation of God+	C
+Acts of the Apostles	4:12	2034:3	190:4.1/16-17	Gospel of Salvation+	C
+Acts of the Apostles	4:13	2077:24-26	195:6.9/4-6	Unlearned Galileans	S
+Acts of the Apostles	4:13	1548:20-21	139:0.4/2-3	Ignorant and unlearned men	R
+Acts of the Apostles	4:20	1545:21-23	138:8.4/all	Speak only what hear; not hearsay	S
+Acts of the Apostles	4:24	34:6	2:1.2/2-3	Faithful and Divine Creator+	C
+Acts of the Apostles	4:24	0004:12-13	0:2.9/all	God as Creator of everything+	C
+Acts of the Apostles	4:24	74:11-12	6:1.3/8-10	God made everything+	C
+Acts of the Apostles	4:24	1011:32-33	92:6.6/13-14	God created heaven & earth+	C
+Acts of the Apostles	4:24	1444:5-6	131:2.2/1-3	God created everything+	C
+Acts of the Apostles	4:24	1453:41-42	131:10.2/11-13	God made all things and beings+	C
+Acts of the Apostles	4:24	1048:19-21	95:5.9/4-7	God created world & all in it	R
+Acts of the Apostles	4:24	1454:28-29	131:10.6/4	The Creator+	C
+Acts of the Apostles	4:24	1598:38	142:3.7/3	Universal Creator+	C
+Acts of the Apostles	4:24	21:9-10	1:0.1/8-11	God created heaven & earth+	C
+Acts of the Apostles	4:24	1409:7	128:1.10/22-23	Creator of heaven & earth	C
+Acts of the Apostles	4:25	1725:35-36	155:1.3/2-3	Why do the heathen rage	C
+Acts of the Apostles	4:25-26	1725:12-14	155:1.1/2-7	Why do the heathen rage	R
+Acts of the Apostles	4:31b-32	2066:26-30	194:4.3/6-12	2nd part: All filled with spirit	R
+Acts of the Apostles	4:32	2065:32-33	194:3.17/7-8	Spirit unity	R
+Acts of the Apostles	4:33	1957:13-14	181:2.11/3-4	Preach gospel in great power	S
+Acts of the Apostles	5:1-10	60:16	4:5.3/5	Strike down people in anger+	C
+Acts of the Apostles	5:14	1671:23-24	149:2.8/6-8	Women disciples	S
+Acts of the Apostles	5:17-18	2067:46	194:4.10/6-8	Leaders jailed	S
+Acts of the Apostles	5:19	865:27-28	77:8.12/6-8	Angel opens prison doors	R
+Acts of the Apostles	5:29-32	2069:10-11	195:0.2/4-7	Proclaimed "gospel"+	C
+Acts of the Apostles	5:34,38-39	2067:47-51	194:4.10/9-15	Gamaliel's advice	S
+Acts of the Apostles	5:40	2068:3	194:4.10/16	Sadducees take advice	S
+Acts of the Apostles	6:8-7:60	1411:37-39	128:3.6/1-5	Stoning of Stephen	S
+Acts of the Apostles	6:8-7:60	1456:22-23	132:0.5/18-20	Stephen's stoning	C
+Acts of the Apostles	7:30	947:16	85:4.2/18	Angels of fire	C
+Acts of the Apostles	7:32	1900:43-44	174:3.4/14-16	God of living	C
+Acts of the Apostles	7:32	1900:27	174:3.2/26-28	God of living	C
+Acts of the Apostles	7:48	1016:25	93:3.2/12	Most High+	C
+Acts of the Apostles	7:48	488:15	43:3.1/1	Most Highs+	C
+Acts of the Apostles	7:48	1015:21-23	93:2.3/5-9	Most High God+	C
+Acts of the Apostles	7:51-60	2068:15-17	194:4.11/18-22	Stoning of Stephen	S
+Acts of the Apostles	7:53	1241:13	113:0.1/19	Received by ministry of angels	R
+Acts of the Apostles	7:55-56	64:33	5:2.2/3-4	Right hand of the Father	R
+Acts of the Apostles	7:55-56	418:6-7	38:0.1/4-7	Right hand of God	C
+Acts of the Apostles	7:55-56	148:46-47	13:2.7/11	Right hand of God	R
+Acts of the Apostles	7:55-56	239:45-46	21:4.4/1-5	Right hand of God	R
+Acts of the Apostles	7:58	1411:44-46	128:3.6/15-18	Saul of Tarsus	S
+Acts of the Apostles	7:60	2018:46-47	188:5.6/13	Lay not this sin to their charge	R
+Acts of the Apostles	8:1b	2068:26	194:4.13/1-2	New persecutions	S
+Acts of the Apostles	8:5	2049:12-13	192:2.11/5-7	Preach to Gentiles	S
+Acts of the Apostles	8:5-6,12-16	1557:36-38	139:5.9/12-16	Philip did not lay on hands	S
+Acts of the Apostles	8:5-8	1616:6-9	143:6.6/6-14	Groundwork for Philip	S
+Acts of the Apostles	8:12	1865:16-17	170:5.13/8-11	Baptism, admission to social order+	C
+Acts of the Apostles	8:14-17	1557:38-40	139:5.9/17-19	As done by Peter & John	S
+Acts of the Apostles	8:14-25	1551:21-22	139:2.7/1-4	Peter defended adding gentiles	C
+Acts of the Apostles	8:32	1977:44-46	183:5.5/all	Jesus silent along the way	S
+Acts of the Apostles	8:37	1748:8	157:5.1/12	Jesus, the Son of God+	C
+Acts of the Apostles	8:37	1509:25	136:1.1/13	Jesus, Son of God+	R
+Acts of the Apostles	8:37	1205:1-2	110:2.2/8-11	Co-operation & consent+	C
+Acts of the Apostles	8:37	1590:4	141:3.5/10	Gospel of Divine Sonship+	C
+Acts of the Apostles	8:40	1430:42-45	130:2.5/5-10	Philip's harvest	C
+Acts of the Apostles	9:1-9,20	1099:6-7	100:5.3/6-9	Paul's conversion	C
+Acts of the Apostles	9:1-20	2091:32-34	196:2.1/10-14	Pauline Christianity	C
+Acts of the Apostles	9:17	2067:21	194:4.7/5-6	Called "brother" & "sister"	C
+Acts of the Apostles	9:36-42	1428:41	130:1.3/8-9	Dorcas' house in Joppa	C
+Acts of the Apostles	9:43	1428:41-43	130:1.3/9-12	Simon the tanner's conversion	S
+Acts of the Apostles	10:1-48	1430:45-46	130:2.5/10-13	Cornelius' conversion	S
+Acts of the Apostles	10:2,22	1333:40-41	121:2.5/1-3	"God-fearing" gentiles	S
+Acts of the Apostles	10:5-6	1428:4-5	130:1.1/1-2	Gadiah and Simon	C
+Acts of the Apostles	10:7	1333:40-41	121:2.5/1-3	"Devout" gentiles	S
+Acts of the Apostles	10:9-16	1713:26-28	153:3.6/21-25	Peter's vivid dream	S
+Acts of the Apostles	10:24	1226:2	112:0.10/7	God is no respecter of persons	C
+Acts of the Apostles	10:34	1608:20	143:1.5/8-9	No respecter of persons	C
+Acts of the Apostles	10:34	1541:38-41	138:4.2/13-18	Equality for all who seek God	C
+Acts of the Apostles	10:34	1958:12-16	181:2.14/17-25	God/Son no respecter of persons	C
+Acts of the Apostles	10:34	1536:37	137:8.11/1-3	Neither Jew nor Gentile	C
+Acts of the Apostles	10:34	1564:16-17	139:10.9/7-8	Jesus is no respecter of persons	C
+Acts of the Apostles	10:34	2047:37	192:2.2/8-9	God is no respecter of persons	C
+Acts of the Apostles	10:34	1899:18	174:2.2/10-11	Jesus is no respecter of persons	C
+Acts of the Apostles	10:34	1831:8	166:4.11/8-9	God is no respecter of persons	C
+Acts of the Apostles	10:34	27:8	1:4.6/7	God is no respecter of persons	C
+Acts of the Apostles	10:34	1468:30	133:0.3/22-23	God is no respecter of persons	C
+Acts of the Apostles	10:34	454:17-19	40:10.13/4-9	God is no respecter of persons	C
+Acts of the Apostles	10:34	138:22	12:7.8/5-7	God is no respecter of persons	C
+Acts of the Apostles	10:34	1909:35	175:2.3/24	God is no respecter of persons	C
+Acts of the Apostles	10:34	46:32-33	3:1.12/13-14	God is no respecter of persons	C
+Acts of the Apostles	10:34	1731:6-7	155:6.2/16-17	God is no respecter of races	C
+Acts of the Apostles	10:34	36:43-44	2:3.1/9-10	God is no respecter of persons	C
+Acts of the Apostles	10:34	1568:30-31	140:1.2/6-7	Not the God of Jew or Gentile	S
+Acts of the Apostles	10:34	1487:12-13	134:4.7/3-5	All people are spiritually equal	C
+Acts of the Apostles	10:34	1662:46-47	148:6.2/16-18	No respecter of persons	C
+Acts of the Apostles	10:34	1290:43-44	117:6.22/1	No respecter of persons	C
+Acts of the Apostles	10:34	1736:10-12	156:2.4/9-12	No favoritism by God	C
+Acts of the Apostles	10:34	1679:23-25	150:1.3/15-18	Equality of persons	C
+Acts of the Apostles	10:34	2033:14-15	190:3.1/22-25	In kingdom, no differences	C
+Acts of the Apostles	10:34	2034:1-2	190:4.1/12-14	Neither Jew nor Gentile	S
+Acts of the Apostles	10:34	1536:10	137:8.6/5-6	No respecter of persons	C
+Acts of the Apostles	10:35	1861:42-44	170:3.2/3-7	Also need righteousness+	S
+Acts of the Apostles	10:36	1409:2	128:1.10/14	Lord of all	C
+Acts of the Apostles	10:38	602:5-6	53:1.4/8-10	The devil+	C
+Acts of the Apostles	10:38	1102:27	100:7.8/3-4	He went about doing good	R
+Acts of the Apostles	10:38	1590:11	141:3.6/11	Jesus went about doing good	S
+Acts of the Apostles	10:38	1875:23	171:7.9/8-9	Jesus went about doing good	R
+Acts of the Apostles	10:38	1770:24	159:5.10/15-16	Jesus went about doing good	C
+Acts of the Apostles	10:38	1509:27	136:1.1/17	Anointed one+	R
+Acts of the Apostles	10:38	1786:33	161:2.9/2-3	Jesus went about doing good	C
+Acts of the Apostles	10:41	2031:34-35	190:2.1/5-7	Jesus appeared to believers	S
+Acts of the Apostles	10:42-43	1820:44-45	165:3.8/13-14	Whosoever will may come+	C
+Acts of the Apostles	10:42-43	39:7	2:5.2/8-9	Whosoever will may come+	C
+Acts of the Apostles	10:42-43	365:29	32:5.8/3-4	Whosoever will may come+	C
+Acts of the Apostles	10:43	1829:44-45	166:3.7/18-19	Whosoever will may come+	C
+Acts of the Apostles	10:43	1454:40	131:10.7/10-12	Whosoever will are saved+	C
+Acts of the Apostles	10:43	1567:4	139:12.7/15-16	Whosoever will may come+	C
+Acts of the Apostles	10:43	1102:18-19	100:7.6/6-7	Whosoever will may come+	C
+Acts of the Apostles	10:47	1593:13	141:6.5/8-9	Baptism with the spirit+	C
+Acts of the Apostles	10:47	2061:43-46	194:2.10/all	Baptism of the spirit+	C
+Acts of the Apostles	11:16	1593:13	141:6.5/8-9	Baptism with the spirit+	C
+Acts of the Apostles	11:16	2061:43-46	194:2.10/all	Baptism of the spirit+	C
+Acts of the Apostles	11:16	1536:34-36	137:8.10/all	John's baptism sign of repentance	S
+Acts of the Apostles	11:23	1342:16	121:8.8/7	Grace of Lord Jesus Christ	R
+Acts of the Apostles	11:25-26	1492:18-21	134:7.3/9-14	Paul in Antioch	S
+Acts of the Apostles	11:26	1333:44-45	121:2.5/9-11	First called "Christians" in Antioch	S
+Acts of the Apostles	11:26b	2068:27-28	194:4.13/4-5	First called "Christians" at Antioch	S
+Acts of the Apostles	11:29-30	2067:34-35	194:4.7/28-31	Antioch collection for Jerusalem	S
+Acts of the Apostles	12:1-2	2048:36-37	192:2.8/12-14	Faith when you are sacrificed	C
+Acts of the Apostles	12:1-2	1958:25-26	181:2.15/14-16	James "drinks cup"	S
+Acts of the Apostles	12:1-2	1553:28-30	139:3.8/17-22	James martyrdom	S
+Acts of the Apostles	12:7-10	865:28-30	77:8.12/8-11	Peter's deliverance	C
+Acts of the Apostles	13:24	1584:31-32	140:10.1/16-17	John's, a baptism of repentance	C
+Acts of the Apostles	13:26	1820:44-45	165:3.8/13-14	Whosoever will may come+	C
+Acts of the Apostles	13:26	1829:44-45	166:3.7/18-19	Whosoever will may come+	C
+Acts of the Apostles	13:26	1454:40	131:10.7/10-12	Whosoever will are saved+	C
+Acts of the Apostles	13:26	365:29	32:5.8/3-4	Whosoever will may come+	C
+Acts of the Apostles	13:26	39:7	2:5.2/8-9	Whosoever will may come+	C
+Acts of the Apostles	13:26	1102:18-19	100:7.6/6-7	Whosoever will may come+	C
+Acts of the Apostles	13:26	1567:4	139:12.7/15-16	Whosoever will may come+	C
+Acts of the Apostles	13:26-39	2069:10-11	195:0.2/4-7	Proclaimed "gospel"+	C
+Acts of the Apostles	13:33	232:33-35	20:10.1/1-5	Only begotten Son	C
+Acts of the Apostles	13:33	1522:44-47	136:9.7/10-17	You are my Son, this day...	R
+Acts of the Apostles	13:33	234:7	21:0.1/8-9	Only begotten Son	R
+Acts of the Apostles	13:33	235:6-8	21:1.2/1-6	Only begotten Sons	C
+Acts of the Apostles	13:33	366:15	33:1.1/5-6	Only begotten Son	C
+Acts of the Apostles	13:39	1682:46	150:5.3/4-5	Saved by faith+	S
+Acts of the Apostles	13:43	1342:16	121:8.8/7	Grace of Lord Jesus Christ	R
+Acts of the Apostles	13:46-48	1750:16-17	157:6.10/4-7	Believe truth, have eternal life+	C
+Acts of the Apostles	13:46-48	1113:7-8	101:6.8/36	Eternal life+	C
+Acts of the Apostles	13:46-48	1409:8	128:1.10/25	Giver of life eternal+	C
+Acts of the Apostles	13:46-48	1711:36-37	153:2.11/19-20	Believers have eternal life+	C
+Acts of the Apostles	13:46-48	1843:10	168:0.7/4-5	Whosoever believes never dies+	C
+Acts of the Apostles	13:46-48	35:36-37	2:2.1/8	Eternal life+	C
+Acts of the Apostles	13:46-48	1337:28	121:5.11/5	Life after death+	C
+Acts of the Apostles	13:46-48	299:42-43	27:1.5/11	Pt 2: Live forever+	C
+Acts of the Apostles	13:46-48	44:5-6	3:0.1/5-6	Everlasting life+	C
+Acts of the Apostles	13:46-48	1861:23	170:2.20/6-7	Eternal / everlasting life+	C
+Acts of the Apostles	13:46-48	1797:19-30	162:7.5/all	Believers never die+	C
+Acts of the Apostles	13:46-48	1792:4-5	162:2.7/8-9	Eternal life+	C
+Acts of the Apostles	13:46-48	1957:21-23	181:2.11/18-21	Eternal / everlasting life+	C
+Acts of the Apostles	13:46-48	2053:36-37	193:1.2/5-7	Faith Sons never die+	C
+Acts of the Apostles	13:46-48	2035:38	190:5.4/54-55	Believers live forever+	C
+Acts of the Apostles	13:46-48	1859:36-38	170:2.2/all	Hope for eternal Life+	S
+Acts of the Apostles	13:46-48	1642:29-30	146:3.7/8-10	Eternal life+	C
+Acts of the Apostles	13:47	2035:16	190:5.4/15	Gospel of Salvation of God+	C
+Acts of the Apostles	13:47	2034:3	190:4.1/16-17	Gospel of Salvation+	C
+Acts of the Apostles	14:3,26	1342:16	121:8.8/7	Grace of Lord Jesus Christ	R
+Acts of the Apostles	14:15	1453:41-42	131:10.2/11-13	God made all things and beings+	C
+Acts of the Apostles	14:15	21:9-10	1:0.1/8-11	God created heaven & earth+	C
+Acts of the Apostles	14:15	1598:38	142:3.7/3	Universal Creator+	C
+Acts of the Apostles	14:15	74:11-12	6:1.3/8-10	God made everything+	C
+Acts of the Apostles	14:15	0004:12-13	0:2.9/all	God as Creator of everything+	C
+Acts of the Apostles	14:15	1011:32-33	92:6.6/13-14	God created heaven & earth+	C
+Acts of the Apostles	14:15	0004:12-13	0:2.9/all	God as Controller+	C
+Acts of the Apostles	14:15	34:6	2:1.2/2-3	Faithful and Divine Creator+	C
+Acts of the Apostles	14:15	1048:19-21	95:5.9/4-7	God created+	C
+Acts of the Apostles	14:15	1454:28-29	131:10.6/4	The Creator+	C
+Acts of the Apostles	14:15	1409:7	128:1.10/22-23	Creator of heaven & earth	C
+Acts of the Apostles	14:15	1444:5-6	131:2.2/1-3	God created everything+	C
+Acts of the Apostles	14:17	1558:41-42	139:6.5/12-14	Came to bring gladness	C
+Acts of the Apostles	14:22	1521:13-14	136:8.6/8-10	Enter kingdom via tribulation	R
+Acts of the Apostles	14:22	1533:29-31	137:6.5/24-28	Kingdom of tribulation and joy	C
+Acts of the Apostles	14:22b	1935:6-7	178:3.4/18-19	Go through tribulation	C
+Acts of the Apostles	14:27	2083:33-35	195:9.8/14-18	Expectant faith+	C
+Acts of the Apostles	14:27	1545:40	138:8.8/10-11	Faith is the open door	C
+Acts of the Apostles	15:5-12	1551:21-22	139:2.7/1-4	Peter defended adding gentiles	C
+Acts of the Apostles	15:11,40	1342:16	121:8.8/7	Grace of Lord Jesus Christ	R
+Acts of the Apostles	16:17	1016:25	93:3.2/12	Most High+	C
+Acts of the Apostles	16:17	488:15	43:3.1/1	Most Highs+	C
+Acts of the Apostles	16:17	2035:16	190:5.4/15	Gospel of Salvation of God+	C
+Acts of the Apostles	16:17	1015:21-23	93:2.3/5-9	Most High God+	C
+Acts of the Apostles	16:17	2034:3	190:4.1/16-17	Gospel of Salvation+	C
+Acts of the Apostles	16:30-31,33	1865:14-16	170:5.13/5-8	Admission by faith	S
+Acts of the Apostles	16:31	1205:1-2	110:2.2/8-11	Co-operation & consent+	C
+Acts of the Apostles	16:37-39	1332:30	121:1.2/6	Paul was a Roman citizen	S
+Acts of the Apostles	17:2-3	2092:40-43	196:2.5/12-16	Exaltation of risen Christ+	C
+Acts of the Apostles	17:4,17	1333:40-41	121:2.5/1-3	"Devout" gentiles	S
+Acts of the Apostles	17:6	2077:26-27	195:6.9/7-8	Turned world upside down	S
+Acts of the Apostles	17:22-23	2071:2-4	195:1.1/1-5	Greek Christianity began	S
+Acts of the Apostles	17:22-23	962:15-17	87:5.1/11-15	Unknown gods	R
+Acts of the Apostles	17:22-25,28	125:29-30	11:8.1/9-10	In God all things consist	C
+Acts of the Apostles	17:24,28	125:29	11:8.1/8-9	God is all things	C
+Acts of the Apostles	17:24-31	2071:4-6	195:1.1/5-9	Paul's version of gospel	S
+Acts of the Apostles	17:25	403:41-45	36:6.1/all	Life, both material and spiritual	C
+Acts of the Apostles	17:25	513:29	45:4.3/3	The Breath Giver	R
+Acts of the Apostles	17:25	23:14-15	1:1.4/15	Gift of life	C
+Acts of the Apostles	17:25	35:38	2:2.1/8	Gives to all life	R
+Acts of the Apostles	17:26	593:38-39	52:3.7/4-5	All nations are of one blood	R
+Acts of the Apostles	17:27	139:7-8	12:7.12/13-14	God not far	C
+Acts of the Apostles	17:28	35:28-29	2:1.11/8-9	In Him we live & move	R
+Acts of the Apostles	17:28	1155:21	105:2.11/15-16	Live, move, and have our being	C
+Acts of the Apostles	17:28	1283:11-12	117:3.12/5-8	We live, move, have our being	C
+Acts of the Apostles	17:28	44:34	3:1.2/11	God is all and in all	C
+Acts of the Apostles	17:28	139:10-10	12:7.12/14-16	In God we live & move	C
+Acts of the Apostles	17:28	467:27-28	42:1.2/4-5	In him all things consist	C
+Acts of the Apostles	17:28	29:42	1:5.16/17-18	In Him we live and move ...	R
+Acts of the Apostles	17:28	1900:29-30	174:3.2/30-32	In Him we live & move	S
+Acts of the Apostles	17:28	98:32	9:0.4/6-7	In God all things consist	C
+Acts of the Apostles	17:28	646:4-5	56:9.14/7-8	God is all and in all things	C
+Acts of the Apostles	17:28	638:18	56:1.5/9	Duality of reality	C
+Acts of the Apostles	17:28-29	67:33	5:4.8/7	We are children of God+	C
+Acts of the Apostles	17:28-29	25:4	1:3.1/5	Offspring of God+	R
+Acts of the Apostles	17:28-29	1957:36-37	181:2.12/16-17	Believers, sons of God+	C
+Acts of the Apostles	17:28-29	381:27-28	34:6.10/8-9	Sons of God+	C
+Acts of the Apostles	17:28-29	1453:39	131:10.2/7-8	We are the children of God+	C
+Acts of the Apostles	17:28-29	447:40	40:6.1/1	Faith sons of God+	C
+Acts of the Apostles	17:28-29	96:39	8:6.4/13-15	Sons of God+	C
+Acts of the Apostles	17:28-29	39:19	2:5.4/8	We are sons of God+	C
+Acts of the Apostles	17:28-29	1454:29-30	131:10.6/5-7	Father-child relationship+	C
+Acts of the Apostles	17:28-29	1671:40-41	149:2.10/17-19	Sons of living God+	C
+Acts of the Apostles	17:28-29	2053:14	193:0.5/16	We are sons of God on earth+	C
+Acts of the Apostles	17:28-29	1454:46-47	131:10.8/9-11	Father-child relationship+	C
+Acts of the Apostles	17:28-29	1601:18-19	142:5.2/18-20	Children of living God+	C
+Acts of the Apostles	17:28-29	1861:30	170:2.20/19	Liberated sons of God+	C
+Acts of the Apostles	17:28-29	1590:36	141:4.2/5-6	We are God's children+	C
+Acts of the Apostles	17:28-29	2033:15-17	190:3.1/25-28	Gospel of sonship+	C
+Acts of the Apostles	17:28-29	2087:15-16	196:0.2/12-13	Every child a son of God+	C
+Acts of the Apostles	17:28-29	1710:16	153:2.4/10-11	Brotherhood of sons of God+	C
+Acts of the Apostles	17:28-29	1588:46	141:2.2/5-6	Faith-sons of God+	C
+Acts of the Apostles	17:28-29	1861:29	170:2.20/17	Children of God+	C
+Acts of the Apostles	17:28-29	2052:28	193:0.3/11-12	You are sons of God on earth+	C
+Acts of the Apostles	17:28-29	1336:10	121:4.3/12-13	Stoics "offspring of God"	R
+Acts of the Apostles	17:28-29	2053:38	193:1.2/8-9	All men are sons of God+	C
+Acts of the Apostles	17:28-29	1569:20-21	140:1.6/5-8	Children of the living God+	C
+Acts of the Apostles	17:28-29	1958:17	181:2.14/26	Believers are sons of God+	C
+Acts of the Apostles	17:28-29	1610:19-20	143:2.7/11-15	Liberated sons of God+	C
+Acts of the Apostles	17:28-29	1860:6-8	170:2.8/all	Salvaged sons of God+	S
+Acts of the Apostles	17:28-29	1596:22-23	142:1.1/9-11	Faith-children of living God+	C
+Acts of the Apostles	17:28-29	1945:21	180:1.6/12-13	Believers are sons of God+	C
+Acts of the Apostles	17:28-29	1091:16-17	99:5.5/5-7	All are children of God+	C
+Acts of the Apostles	17:28-29	2035:12-13	190:5.4/9-10	All men are sons of God+	C
+Acts of the Apostles	17:28-29	1676:17-18	149:6.8/7-8	We are His sons+	R
+Acts of the Apostles	17:28-29	1571:14	140:3.16/4	Sons of living God+	C
+Acts of the Apostles	17:28a	22:40	1:1.2/15-16	In God man lives, moves..	R
+Acts of the Apostles	18:2,18,26	1473:48-50	133:3.12/5-9	Aquila & Priscilla	C
+Acts of the Apostles	18:5	1472:12-13	133:3.3/1-3	Silas and Timothy	C
+Acts of the Apostles	18:7	1472:22-23	133:3.5/1-3	Justus	C
+Acts of the Apostles	18:8	1471:48	133:3.1/8-9	Crispus	C
+Acts of the Apostles	18:10	1291:15	117:6.27/3-4	God is with us+	C
+Acts of the Apostles	18:27	1342:16	121:8.8/7	Grace of Lord Jesus Christ	R
+Acts of the Apostles	19:1-10	1478:16-19	133:6.3/4-10	Christianity started at Ephesus	C
+Acts of the Apostles	19:18	1736:32	156:2.7/5-6	If confess sins, they are forgiven	C
+Acts of the Apostles	19:20	1053:41	96:1.9/9	Kyrios+	C
+Acts of the Apostles	19:29	1473:41-42	133:3.11/1-3	Gaius	C
+Acts of the Apostles	20:4	1473:41-42	133:3.11/1-3	Gaius	C
+Acts of the Apostles	20:24,32	1342:16	121:8.8/7	Grace of Lord Jesus Christ	R
+Acts of the Apostles	20:28	1864:25-28	170:5.6/all	Jesus as Redeemer of church+	C
+Acts of the Apostles	20:32	1820:40-41	165:3.8/5-7	Spiritual inheritance	C
+Acts of the Apostles	20:35	1102:35-36	100:7.10/2-3	More blessed to give	R
+Acts of the Apostles	20:35	1131:48	103:2.9/11	More blessed to give	R
+Acts of the Apostles	20:35	316:39	28:6.18/15-16	More blessed to give More blessed to give	R
+Acts of the Apostles	20:35	1581:44-45	140:8.18/8	More blessed to give	R
+Acts of the Apostles	20:37	1575:6-10	140:5.16/6-15	Not unmanly to weep	C
+Acts of the Apostles	21:19	2083:33-35	195:9.8/14-18	Expectant faith+	C
+Acts of the Apostles	21:37-40	1332:29	121:1.2/5	Paul spoke in Greek tongue	S
+Acts of the Apostles	22:2-3	1332:29	121:1.2/5	Paul spoke in Greek tongue	S
+Acts of the Apostles	22:3	1388:34	126:2.3/8	Sat at no man's feet	R
+Acts of the Apostles	22:13	2067:21	194:4.7/5-6	Called "brother" & "sister"	C
+Acts of the Apostles	22:24-29	1332:30	121:1.2/6	Paul was a Roman citizen	S
+Acts of the Apostles	23:11	1102:29	100:7.9/4	Be of good cheer	R
+Acts of the Apostles	23:31-24:27	1430:46-47	130:2.5/15-16	Paul's imprisonment	S
+Acts of the Apostles	24:15	1247:38	113:6.8/8	Resurrection of the unjust	R
+Acts of the Apostles	24:16	1736:33	156:2.7/7	Keep conscience void of offense	C
+Acts of the Apostles	26:18	2042:1-2	191:4.3/20-22	Light in spiritual darkness	C
+Acts of the Apostles	26:18	1820:40-41	165:3.8/5-7	Spiritual inheritance	C
+Acts of the Apostles	26:20	1769:40-44	159:5.8/1-9	Jesus taught positive action+	C
+Acts of the Apostles	27:8	1436:36	130:5.4/1-2	Fair Havens	S
+Acts of the Apostles	28:26-27	1689:21-22	151:1.4/11-13	See without seeing, etc	S
+Acts of the Apostles	28:28	2034:3	190:4.1/16-17	Gospel of Salvation+	C
+Acts of the Apostles	28:28	2035:16	190:5.4/15	Gospel of Salvation of God+	C
+Acts of the Apostles	28:31	1858:30	170:1.4/1-2	Jesus taught both views+	S

@@ -1,0 +1,94 @@
+I_Crónicas	1:32	#	93:9.8/#	Queturá no era esposa	C	#
+I_Crónicas	6:57,67	#	69:4.4/#	Ciudades de refugio	R	#
+I_Crónicas	10:1-5	#	134:9.5/#	Gilboa, donde murió Saúl	C	#
+I_Crónicas	10:1-9	#	97:9.5/#	Trágica derrota de Saúl	C	#
+I_Crónicas	11:9	#	194:3.11/#	No más el Señor de los Ejércitos	C	#
+I_Crónicas	13:10	#	4:5.3/#	Idea de que fulmina hombres con su ira	C	#
+I_Crónicas	13:10	#	4:3.2/#	La visión de Dios como colérico o airado	C	#
+I_Crónicas	14:15	#	90:2.5/#	Cuando oigas el sonido del viento	R	#
+I_Crónicas	14:15	#	89:6.3/#	Dios de las batallas	R	#
+I_Crónicas	14:15	#	70:1.15/#	Dios de las batallas	R	#
+I_Crónicas	15:25-29	#	97:9.14/#	Arca de Yahvé	R	#
+I_Crónicas	16:31	#	131:2.4/#	El Señor reina	R	#
+I_Crónicas	16:33	#	128:1.10/#	Juez de toda la Tierra	C	#
+I_Crónicas	16:34	#	6:3.5/#	El Hijo es misericordia	C	#
+I_Crónicas	16:34	#	6:3.2/#	Ministro de la misericordia	C	#
+I_Crónicas	16:34	#	131:2.4/#	Dad gracias a Dios por su misericordia	R	#
+I_Crónicas	16:34	#	143:1.6/#	Dios se deleita en la misericordia	C	#
+I_Crónicas	16:34	#	131:10.6/#	La Misericordia	C	#
+I_Crónicas	16:34,41	#	142:3.7/#	Totalmente misericordioso	C	#
+I_Crónicas	16:34,41	#	2:4.1/#	Su misericordia dura eternamente	R	#
+I_Crónicas	16:34,41	#	2:5.7/#	Dios es misericordioso	C	#
+I_Crónicas	16:35	#	2:6.3/#	Dios de salvación	C	#
+I_Crónicas	17:12	#	170:1.3/#	El reino como una esperanza futura	S	#
+I_Crónicas	17:20	#	96:5.5/#	El Señor es un único Dios	C	#
+I_Crónicas	17:20	#	45:4.8/#	Dios único	C	#
+I_Crónicas	17:20	#	131:10.2/#	Un único Dios	C	#
+I_Crónicas	17:20	#	1:7.6/#	Dios es uno solo	R	#
+I_Crónicas	17:20	#	92:5.8/#	One God+	C	PROBLEM
+I_Crónicas	17:20	#	1:0.1/#	No hay Dios aparte de ti	C	#
+I_Crónicas	17:20	#	92:6.6/#	One God+	C	PROBLEM
+I_Crónicas	17:20	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
+I_Crónicas	17:20	#	56:4.4/#	Dios es uno	C	#
+I_Crónicas	17:21-22	#	93:5.1/#	Pueblo elegido	R	#
+I_Crónicas	17:21-22	#	121:2.8/#	Pueblo elegido	R	#
+I_Crónicas	17:21-22	#	97:4.2/#	Pueblo elegido	C	#
+I_Crónicas	17:21-22	#	96:2.3/#	Pueblo elegido	C	#
+I_Crónicas	17:21-22	#	96:5.6/#	Pueblo elegido de Dios	C	#
+I_Crónicas	17:21-22	#	97:10.1/#	Pueblo elegido	C	#
+I_Crónicas	21:1	#	142:3.9/#	Satanás pidió a David hacer recuento del pueblo	R	#
+I_Crónicas	21:1,5	#	122:7.1/#	Reacciones contra los censos	R	#
+I_Crónicas	21:1-4	#	88:1.6/#	Contar al pueblo	R	#
+I_Crónicas	21:15	#	4:3.4/#	La visión de Dios arrepintiéndose	C	#
+I_Crónicas	21:15	#	2:2.2/#	Se ha dicho que Dios se arrepiente, pero no lo hace	C	#
+I_Crónicas	22:10	#	143:2.7/#	Los hijos liberados de Dios	C	#
+I_Crónicas	22:10	#	196:0.2/#	Cada criatura mortal es un hijo de Dios	C	#
+I_Crónicas	22:10	#	190:3.1/#	El evangelio de la filiación	C	#
+I_Crónicas	22:10	#	170:2.8/#	Los hijos salvados de Dios	S	#
+I_Crónicas	22:10	#	34:6.10/#	Hijos de Dios	C	#
+I_Crónicas	22:10	#	2:5.4/#	Somos hijos de Dios	C	#
+I_Crónicas	22:10	#	153:2.4/#	Fraternidad de los hijos de Dios	C	#
+I_Crónicas	22:10	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
+I_Crónicas	22:10	#	140:3.16/#	Sons of living God+	C	PROBLEM
+I_Crónicas	22:10	#	131:10.5/#	Dios es «mi» padre	C	#
+I_Crónicas	22:10	#	149:2.10/#	Hijos del Dios viviente	C	#
+I_Crónicas	22:10	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
+I_Crónicas	22:10	#	149:6.8/#	Dios es nuestro Padre	C	#
+I_Crónicas	22:10	#	131:10.2/#	Somos los hijos de Dios	C	#
+I_Crónicas	22:10	#	142:5.2/#	Hijos de Dios	C	#
+I_Crónicas	22:10	#	170:2.20/#	Hijos de Dios	C	#
+I_Crónicas	22:10	#	140:1.6/#	Hijos del Dios viviente	C	#
+I_Crónicas	22:10	#	5:4.8/#	Somos hijos de Dios	C	#
+I_Crónicas	22:10	#	181:2.14/#	Los creyentes son hijos de Dios	C	#
+I_Crónicas	22:10	#	181:2.12/#	Los creyentes, hijos de Dios	C	#
+I_Crónicas	22:10	#	141:4.2/#	We are God's children+	C	PROBLEM
+I_Crónicas	22:10	#	131:10.8/#	La relación de padre e hijo	C	#
+I_Crónicas	22:10	#	141:2.2/#	Hijos de Dios por la fe	C	#
+I_Crónicas	22:10	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
+I_Crónicas	22:10	#	40:6.1/#	Hijos de Dios por la fe	C	#
+I_Crónicas	22:10	#	131:10.6/#	Relación entre padre e hijo	C	#
+I_Crónicas	22:10	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
+I_Crónicas	22:10	#	141:4.2/#	God is our Father+	C	PROBLEM
+I_Crónicas	22:10	#	8:6.4/#	Hijos de Dios	C	#
+I_Crónicas	22:10	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+I_Crónicas	22:10	#	1:3.1/#	Progenie de Dios	C	#
+I_Crónicas	22:10	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+I_Crónicas	22:10	#	149:6.8/#	Dios es nuestro Padre	C	#
+I_Crónicas	22:10	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
+I_Crónicas	22:10	#	193:1.2/#	Todos los hombres son hijos de Dios	C	#
+I_Crónicas	22:10	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
+I_Crónicas	27:23-24	#	88:1.6/#	Contar al pueblo	R	#
+I_Crónicas	28:6	#	148:4.10/#	Lo he elegido como mi hijo	R	#
+I_Crónicas	28:9	#	5:4.8/#	Conoce a Dios	R	#
+I_Crónicas	28:9	#	8:6.3/#	El Espíritu sondea todas las cosas	R	#
+I_Crónicas	29:2	#	44:6.1/#	Embellecedores	C	#
+I_Crónicas	29:11	#	2:1.2/#	Resplandece de majestad y de gloria	C	#
+I_Crónicas	29:11-12	#	1:1.4/#	El poder de Dios	C	#
+I_Crónicas	29:11-12	#	142:3.7/#	Todopoderoso	C	#
+I_Crónicas	29:11-12	#	131:10.6/#	El Poder	C	#
+I_Crónicas	29:11-12	#	131:10.3/#	Dios es todopoderoso	C	#
+I_Crónicas	29:11-12	#	2:6.3/#	Es todopoderoso	R	#
+I_Crónicas	29:11a	#	97:1.10/#	Tuya es la grandeza	R	#
+I_Crónicas	29:11b	#	97:1.9/#	Tuyo es el reino, oh Señor	R	#
+I_Crónicas	29:12	#	97:1.10/#	En tu mano se encuentra el poder	R	#
+I_Crónicas	29:29	#	90:1.1/#	Videntes	C	#

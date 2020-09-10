@@ -50,6 +50,18 @@ const handle_exeButtonClick = () => {
 		bibleref.readFromTXT(controls.dirTTextbox.value)
 			.then(() => console.log(bibleref.biblebooks))
 			.catch(onFail);
+	} else if (process ==='ttt' && checkControls(['dirJTextbox', 'dirTTextbox'])) {
+		// Leemos LU en formato JSON, luego leemos Referencias Biblia en formato TXT,
+		// y escribimos los TXT traducidos
+		book.readFromJSON(controls.dirJTextbox.value)
+			.then(() => {
+				bibleref.readFromTXT(controls.dirTTextbox.value)
+					.then(() => {
+						bibleref.translate(controls.dirTTextbox.value, book)
+							.then(() => onSuccess(okMsgs))
+							.catch(onFail);
+					}).catch(onFail);
+			}).catch(onFail);
 	} else if (process === 'clj' && checkControls(['dirLTextbox', 'dirJTextbox'])) {
 		// Leemos LU en formato LaTeX y escribimos JSON
 		book.readFromLaTeX(controls.dirLTextbox.value)

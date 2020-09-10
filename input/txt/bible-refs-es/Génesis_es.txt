@@ -1,0 +1,420 @@
+Génesis	1:1	#	128:1.10/#	Creador de los cielos y de la Tierra	C	#
+Génesis	1:1	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
+Génesis	1:1	#	142:3.6/#	Elohim (los Dioses) crearon	R	#
+Génesis	1:1	#	96:1.9/#	Creador del Cielo y de la Tierra	C	#
+Génesis	1:1	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Génesis	1:1	#	6:1.3/#	Dios ha hecho todo	C	#
+Génesis	1:1	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
+Génesis	1:1	#	96:1.8/#	Elohim	C	#
+Génesis	1:1	#	95:5.9/#	Dios como creador de todo	C	#
+Génesis	1:1,30	#	45:4.9/#	Única Fuente de la Vida	R	#
+Génesis	1:1-27	#	2:1.2/#	Creador fiel y divino	C	#
+Génesis	1:1-27	#	131:10.6/#	El Creador	C	#
+Génesis	1:1-27	#	131:2.2/#	Dios creó todo	C	#
+Génesis	1:1-27	#	142:3.7/#	Creador Universal	C	#
+Génesis	1:1-27	#	0:2.9/#	Dios como creador de todo	C	#
+Génesis	1:1-31	#	74:8.1/#	Tradición de la creación	C	#
+Génesis	1:1ff	#	10:3.3/#	Acto de Dios	R	#
+Génesis	1:1ff	#	2:1.2/#	Causa de causas	R	#
+Génesis	1:2	#	34:4.1/#	Holy Spirit+	C	PROBLEM
+Génesis	1:2	#	96:1.9/#	El Espíritu de Dios	C	#
+Génesis	1:2	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
+Génesis	1:2	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
+Génesis	1:2	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	R	#
+Génesis	1:3	#	57:5.1/#	El sistema solar	C	#
+Génesis	1:3-5,14-18	#	74:8.2/#	El sol y la luna	C	#
+Génesis	1:6-10	#	57:7.7/#	Agua	C	#
+Génesis	1:9-10	#	57:8.1/#	Crustal stabilization	C	PROBLEM
+Génesis	1:9-12,20-25	#	58:6.1/#	De la flora a la fauna	C	#
+Génesis	1:11-13,20-27	#	58:4.1/#	La era de los albores de la vida	C	#
+Génesis	1:14-15	#	41:3.1/#	Nuestros asociados estelares	C	#
+Génesis	1:20-21	#	58:4.2/#	La vida comenzó en el agua	C	#
+Génesis	1:20-22	#	60:3.22/#	Las aves	C	#
+Génesis	1:21	#	59:4.9/#	Los peces vertebrados	C	#
+Génesis	1:24	#	60:1.9/#	Los reptiles	C	#
+Génesis	1:26	#	7:4.4/#	El hombre hecho a imagen de Dios	R	#
+Génesis	1:26	#	6:5.7/#	El hombre hecho a imagen de Dios	R	#
+Génesis	1:26	#	10:3.1/#	El hombre hecho a imagen de Dios	R	#
+Génesis	1:26-27	#	117:3.5/#	El hombre hecho a imagen de Dios	C	#
+Génesis	1:26-27	#	61:6.1/#	Hombre primitivo	C	#
+Génesis	1:26-27	#	108:6.3/#	Imagen de Dios	R	#
+Génesis	1:26-27	#	62:5.1/#	Primeros seres humanos	C	#
+Génesis	1:26-27	#	3:4.7/#	El hombre a imagen de Dios	C	#
+Génesis	1:26-27	#	74:7.6/#	Man made in God's image	R	PROBLEM
+Génesis	1:26-27	#	74:0.1/#	Creación del hombre	C	#
+Génesis	1:26-27	#	32:2.8/#	Hombre a imagen de Dios	C	#
+Génesis	1:26-27	#	1:3.1/#	A imagen de Dios	R	#
+Génesis	1:27	#	167:5.7/#	Creación del hombre y la mujer	S	#
+Génesis	1:27,31	#	89:2.3/#	Creencia en un hombre original perfecto	C	#
+Génesis	1:29	#	76:4.4/#	Frutos de los árboles	R	#
+Génesis	1:31	#	111:6.3/#	Bueno	C	#
+Génesis	2:2	#	74:3.9/#	Día de descanso	C	#
+Génesis	2:2-3	#	44:5.8/#	Descanso divino y físico	C	#
+Génesis	2:2-3	#	74:8.1/#	Tradición del sábado	C	#
+Génesis	2:3	#	74:4.6/#	Tradición del sábado	C	#
+Génesis	2:4	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
+Génesis	2:4	#	6:1.3/#	Dios ha hecho todo	C	#
+Génesis	2:4	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Génesis	2:4	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
+Génesis	2:4	#	128:1.10/#	Creador de los cielos y de la Tierra	C	#
+Génesis	2:4	#	96:1.9/#	Creador del Cielo y de la Tierra	C	#
+Génesis	2:4-23	#	131:2.2/#	Dios creó todo	C	#
+Génesis	2:4-23	#	2:1.2/#	Creador fiel y divino	C	#
+Génesis	2:4-23	#	95:5.9/#	Dios como creador de todo	C	#
+Génesis	2:4-23	#	0:2.9/#	Dios como creador de todo	C	#
+Génesis	2:4-23	#	131:10.6/#	El Creador	C	#
+Génesis	2:4-23	#	142:3.7/#	Creador Universal	C	#
+Génesis	2:6	#	73:3.3/#	Se levantaba una niebla	R	#
+Génesis	2:6	#	57:7.7/#	Agua	C	#
+Génesis	2:7	#	45:4.3/#	Dador del Aliento	R	#
+Génesis	2:7	#	61:6.1/#	Hombre primitivo	C	#
+Génesis	2:7	#	63:6.1/#	Aquel que da Aliento	R	#
+Génesis	2:7	#	34:2.5/#	El soplo de vida	R	#
+Génesis	2:7	#	86:4.3/#	Aliento de la vida	R	#
+Génesis	2:7	#	84:1.3/#	Aliento de vida	C	#
+Génesis	2:7	#	68:6.1/#	Polvo eres y al polvo volverás	R	#
+Génesis	2:7	#	62:5.1/#	Primeros seres humanos	C	#
+Génesis	2:7	#	112:7.19/#	Nuestro cuerpo es de polvo	C	#
+Génesis	2:7	#	45:4.9/#	Única Fuente de la Vida	R	#
+Génesis	2:7	#	36:6.4/#	Soplo de vida	R	#
+Génesis	2:7	#	1:4.3/#	El cuerpo regresa a la tierra	R	#
+Génesis	2:7,21-22	#	74:8.4/#	Cuerpos de Adán y Eva	C	#
+Génesis	2:7,21-24	#	74:0.1/#	Creación del hombre	C	#
+Génesis	2:7,22	#	89:2.3/#	Creencia en un hombre original perfecto	C	#
+Génesis	2:8	#	74:7.1/#	Este del Edén	R	#
+Génesis	2:8	#	74:3.9/#	Este del Edén	R	#
+Génesis	2:8	#	73:5.1/#	Este del Edén	R	#
+Génesis	2:8-9	#	43:6.2/#	Los jardines del Edén	R	#
+Génesis	2:8-10	#	51:3.2/#	Edén	C	#
+Génesis	2:9	#	73:6.1/#	Árbol de la vida	C	#
+Génesis	2:9	#	85:2.4/#	Árbol de la vida	C	#
+Génesis	2:9	#	73:6.3/#	El árbol de la vida	R	#
+Génesis	2:9,17	#	73:6.3/#	Árbol del conocimiento del bien	R	#
+Génesis	2:10	#	73:3.4/#	Cabeceras de los ríos de Edén	R	#
+Génesis	2:16	#	76:4.4/#	Frutos de los árboles	R	#
+Génesis	2:17	#	89:2.1/#	Fruto prohibido	C	#
+Génesis	2:17	#	53:9.8/#	El salario del pecado es la muerte	R	#
+Génesis	2:17	#	75:4.4/#	Al mezclar bien con mal moriréis	R	#
+Génesis	2:17	#	46:8.4/#	La paga del pecado es la muerte	R	#
+Génesis	2:18	#	25:8.4/#	No es bueno que el hombre esté solo	R	#
+Génesis	2:18	#	160:2.6/#	No es bueno que el hombre esté solo	C	#
+Génesis	2:18a	#	193:3.2/#	No es bueno que el hombre esté solo	R	#
+Génesis	2:19-20	#	74:3.8/#	Inspección de animales	C	#
+Génesis	2:19-23	#	51:3.9/#	Adán	C	#
+Génesis	2:21-23	#	74:8.3/#	Eva de una costilla de Adán	C	#
+Génesis	2:24	#	167:5.7/#	Se volverán como uno solo	C	#
+Génesis	3:1-5	#	88:1.5/#	Serpientes, portavoces de los espíritus malignos	C	#
+Génesis	3:1-5	#	73:6.5/#	Eat fruit, become as gods	R	PROBLEM
+Génesis	3:1-5	#	75:4.5/#	La advertencia	C	#
+Génesis	3:1-19	#	89:2.3/#	La caída de la humanidad	C	#
+Génesis	3:1a	#	75:3.6/#	El ardiz de Caligastia	C	#
+Génesis	3:1a	#	75:3.3/#	El ardiz de Caligastia	C	#
+Génesis	3:2	#	76:4.4/#	Frutos de los árboles	R	#
+Génesis	3:2-3	#	89:2.1/#	Fruto prohibido	C	#
+Génesis	3:6	#	75:8.4/#	El «pecado» de Adán y Eva	C	#
+Génesis	3:6a	#	75:4.7/#	Cano atractivo a los ojos de Eva	C	#
+Génesis	3:6b	#	75:4.7/#	Una comprensión más viva	C	#
+Génesis	3:8	#	39:5.3/#	Voces del Jardín	R	#
+Génesis	3:8-10	#	74:8.15/#	Voz del Jardín	C	#
+Génesis	3:8-13	#	75:4.8/#	Registrado como «Dios llamó»	R	#
+Génesis	3:8-13	#	75:4.2/#	Notificación de la falta	C	#
+Génesis	3:8-13	#	73:7.5/#	Voz del Jardín	R	#
+Génesis	3:8-19	#	51:3.5/#	Voces del jardín	C	#
+Génesis	3:12-17	#	84:4.4/#	Culpabilidad sobre la mujer	C	#
+Génesis	3:14,19	#	89:6.7/#	El polvo vuelve al polvo	R	#
+Génesis	3:15	#	75:5.9/#	Enemistad intensa y duradera	R	#
+Génesis	3:16-19	#	75:7.3/#	Futura conducta	C	#
+Génesis	3:17-19	#	81:1.4/#	Trabajo servil	C	#
+Génesis	3:17-19	#	148:4.7/#	La supuesta caída del hombre	C	#
+Génesis	3:19	#	76:1.4/#	Sudor de su frente	R	#
+Génesis	3:19	#	112:3.5/#	Polvo al polvo	C	#
+Génesis	3:19	#	112:7.19/#	Nuestro cuerpo es de polvo	C	#
+Génesis	3:19	#	1:4.3/#	El cuerpo regresa a la tierra	R	#
+Génesis	3:19	#	66:7.19/#	Con el sudor de tu frente	R	#
+Génesis	3:19	#	68:6.1/#	Polvo eres y al polvo volverás	R	#
+Génesis	3:19	#	69:2.5/#	El que no trabaje no comerá	R	#
+Génesis	3:19,23	#	74:8.4/#	Cuerpos de Adán y Eva	C	#
+Génesis	3:20	#	51:3.9/#	Eva	C	#
+Génesis	3:20	#	80:7.7/#	Culto a Eva	C	#
+Génesis	3:22	#	85:2.4/#	Árbol de la vida	C	#
+Génesis	3:22,24	#	73:6.3/#	El árbol de la vida	R	#
+Génesis	3:22,24	#	73:6.1/#	Árbol de la vida	C	#
+Génesis	3:22-24	#	75:7.6/#	Sentencia de muerte	C	#
+Génesis	3:23	#	43:6.2/#	Los jardines del Edén	R	#
+Génesis	3:23-24	#	74:7.1/#	Este del Edén	R	#
+Génesis	3:23-24	#	76:0.1/#	Viaje al este	C	#
+Génesis	3:23-24	#	75:6.2/#	Abandono de Edén	C	#
+Génesis	3:23-24	#	74:3.9/#	Este del Edén	R	#
+Génesis	3:24	#	73:5.1/#	Este del Edén	R	#
+Génesis	4:1	#	76:2.1/#	Nacimiento de Caín	C	#
+Génesis	4:1-2,17-26	#	74:8.10/#	Linaje judío	C	#
+Génesis	4:1-2,17-26	#	78:7.3/#	Genealogías judías	C	#
+Génesis	4:2	#	76:2.1/#	Nacimiento de Abel	C	#
+Génesis	4:2-5	#	81:1.4/#	Ofrendas pastoriles preferidas	C	#
+Génesis	4:3-5	#	76:2.2/#	Ofrendas	C	#
+Génesis	4:7	#	131:2.8/#	Si no hacéis el bien, es porque el pecado está en la puerta	R	#
+Génesis	4:8	#	76:2.5/#	Caín mata a Abel	C	#
+Génesis	4:10	#	86:5.11/#	Soul crying from Abel's blood	R	PROBLEM
+Génesis	4:13-15	#	76:2.8/#	Ninguna marca tribal	C	#
+Génesis	4:14-15	#	68:1.2/#	Marca de Caín	C	#
+Génesis	4:15	#	76:2.8/#	Marca de la tribu de Adán	C	#
+Génesis	4:16	#	77:2.9/#	Pueblos noditas	C	#
+Génesis	4:16	#	76:2.9/#	Caín viaja a Nod	C	#
+Génesis	4:16	#	77:2.6/#	Pueblos noditas	C	#
+Génesis	4:16	#	77:4.5/#	La tierra de Nod	R	#
+Génesis	4:16	#	74:8.8/#	Tierra de Nod	R	#
+Génesis	4:16	#	67:4.2/#	La tierra de Nod	R	#
+Génesis	4:16-17	#	148:4.7/#	Caín tomó esposa en Nod	S	#
+Génesis	4:17	#	76:2.9/#	Caín engendra a Enoc	C	#
+Génesis	4:24	#	159:1.7/#	Setenta y siete veces	R	#
+Génesis	5:1-2	#	2:1.2/#	Creador fiel y divino	C	#
+Génesis	5:1-2	#	6:1.3/#	Dios ha hecho todo	C	#
+Génesis	5:1-2	#	74:0.1/#	Creación del hombre	C	#
+Génesis	5:1-2	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Génesis	5:1-2	#	131:10.6/#	El Creador	C	#
+Génesis	5:1-2	#	142:3.7/#	Creador Universal	C	#
+Génesis	5:1-2	#	95:5.9/#	Dios como creador de todo	C	#
+Génesis	5:1-2	#	131:2.2/#	Dios creó al hombre y la mujer	C	#
+Génesis	5:1-2	#	0:2.9/#	God as Creator of man, woman+	C	PROBLEM
+Génesis	5:3	#	76:3.4/#	Nacimiento de Set	C	#
+Génesis	5:3-32	#	74:8.10/#	Linaje judío	C	#
+Génesis	5:3-32	#	78:7.3/#	Genealogías judías	C	#
+Génesis	5:5	#	76:5.5/#	Muerte de Adán	C	#
+Génesis	5:5,8,11,14	#	77:2.11/#	Longitud de la vida	C	#
+Génesis	5:6	#	76:3.4/#	Enós	C	#
+Génesis	5:9	#	76:3.4/#	Cainán	C	#
+Génesis	5:17,20,23,27	#	77:2.11/#	Longitud de la vida	C	#
+Génesis	5:24	#	45:4.13/#	El traslado de Enoc	C	#
+Génesis	5:24	#	55:2.1/#	Translation to morontia status	C	PROBLEM
+Génesis	5:31	#	77:2.11/#	Longitud de la vida	C	#
+Génesis	6:1-2	#	148:4.7/#	Los hijos de Dios tomaron esposas	S	#
+Génesis	6:2	#	77:4.5/#	Los adamitas se casan con los noditas	C	#
+Génesis	6:2	#	76:4.8/#	Elevación racial	C	#
+Génesis	6:2,4	#	167:7.2/#	Los ángeles no son los «Hijos de Dios»	R	#
+Génesis	6:4	#	77:5.9/#	Poderosos hombres de la antigüedad	R	#
+Génesis	6:4	#	77:2.3/#	Hijos de los dioses, hijas de los hombres	R	#
+Génesis	6:4	#	73:1.6/#	Poderosos hombres de la antigüedad	R	#
+Génesis	6:5-10	#	78:7.3/#	La destrucción del mundo	C	#
+Génesis	6:6	#	136:1.4/#	Dios arrepentido de crear al hombre	R	#
+Génesis	6:6	#	4:3.4/#	La visión de Dios arrepintiéndose	C	#
+Génesis	6:6 ff	#	4:5.3/#	Inundaciones como castigo	C	#
+Génesis	6:6-7	#	2:2.2/#	Se ha dicho que Dios se arrepiente, pero no lo hace	C	#
+Génesis	6:7	#	74:0.1/#	Creación del hombre	C	#
+Génesis	6:9-10	#	78:7.3/#	Genealogías judías	C	#
+Génesis	6:9-10	#	78:7.5/#	Noé vivió	C	#
+Génesis	6:9-10	#	74:8.10/#	Linaje judío	C	#
+Génesis	6:17	#	36:6.4/#	Soplo de vida	R	#
+Génesis	6:17	#	86:4.3/#	Aliento de la vida	R	#
+Génesis	6:18	#	89:8.4/#	La alianza reemplaza al miedo	C	#
+Génesis	7:4,12	#	85:4.3/#	Lluvias inoportunas	C	#
+Génesis	7:10-24	#	78:7.5/#	La inundación real	C	#
+Génesis	7:10-24	#	78:7.4/#	Nunca un diluvio universal	C	#
+Génesis	7:15,22	#	86:4.3/#	Aliento de la vida	R	#
+Génesis	7:15,22	#	36:6.4/#	Soplo de vida	R	#
+Génesis	8:8-12	#	85:3.4/#	Paloma de la paz	C	#
+Génesis	8:21	#	89:4.3/#	Aroma agradable para el olfato de Dios	C	#
+Génesis	9:6	#	1:3.1/#	A imagen de Dios	R	#
+Génesis	9:6	#	3:4.7/#	El hombre a imagen de Dios	C	#
+Génesis	9:6	#	32:2.8/#	Hombre a imagen de Dios	C	#
+Génesis	9:6	#	74:7.6/#	Sheds blood, bood is shed	R	PROBLEM
+Génesis	9:6	#	108:6.3/#	Imagen de Dios	R	#
+Génesis	9:6	#	117:3.5/#	El hombre hecho a imagen de Dios	C	#
+Génesis	9:9,11	#	89:8.4/#	La alianza reemplaza al miedo	C	#
+Génesis	9:9-17	#	85:4.2/#	Arco iris, arco de la promesa	C	#
+Génesis	9:29	#	77:2.11/#	Longitud de la vida	C	#
+Génesis	10:1-32	#	74:8.10/#	Linaje judío	C	#
+Génesis	10:1-32	#	78:7.3/#	Genealogías judías	C	#
+Génesis	11:1-9	#	77:3.1/#	Tower of Babel	C	PROBLEM
+Génesis	11:1-9	#	81:6.18/#	Una lengua	C	#
+Génesis	11:10-26	#	77:2.11/#	Longitud de la vida	C	#
+Génesis	11:10-26	#	74:8.10/#	Linaje judío	C	#
+Génesis	11:10-26	#	78:7.3/#	Genealogías judías	C	#
+Génesis	11:27-31	#	133:9.2/#	Ur, lugar de nacimiento de Abraham	C	#
+Génesis	11:31	#	142:3.4/#	Abraham abandona Ur	S	#
+Génesis	11:32	#	93:5.5/#	Muerte de Téraj	C	#
+Génesis	12:1-2	#	93:5.5/#	Venid a Salem, escuchad la verdad	R	#
+Génesis	12:3	#	190:5.4/#	Todas las familias serán benditas	R	#
+Génesis	12:4-5	#	93:5.5/#	Lot y Abraham en Salem	C	#
+Génesis	12:7	#	93:9.7/#	Conversaciones con Melquisedek	C	#
+Génesis	12:8	#	93:5.6/#	Llegada de Abraham	C	#
+Génesis	12:10	#	93:5.7/#	Viaje a Egipto	C	#
+Génesis	12:11-20	#	93:9.3/#	Abraham muestra cobardía	C	#
+Génesis	12:16	#	93:5.7/#	Buenas relaciones	C	#
+Génesis	13:1-2	#	93:5.7/#	Buenas relaciones	C	#
+Génesis	13:5-12	#	93:5.9/#	Lot marcha a Sodoma	C	#
+Génesis	13:14	#	93:9.7/#	Conversaciones con Melquisedek	C	#
+Génesis	13:14-17	#	93:6.3/#	Alianza («mira las estrellas»)	R	#
+Génesis	13:18	#	93:5.11/#	Abraham en Hebrón	C	#
+Génesis	14:8-12	#	93:5.12/#	Los reyes capturan a Lot	C	#
+Génesis	14:13-16	#	93:5.12/#	Abraham contra los reyes	C	#
+Génesis	14:18	#	35:4.5/#	Melquisedek, Príncipe de Salem	R	#
+Génesis	14:18	#	93:2.4/#	Otros nombres de Melquisedek	C	#
+Génesis	14:18	#	98:7.12/#	Sacerdote de El Elyón, el Dios Altísimo	R	#
+Génesis	14:18 ff	#	51:3.9/#	Melquisedek	C	#
+Génesis	14:18-20	#	93:3.2/#	El Elyón, el Altísimo	C	#
+Génesis	14:18-20	#	93:9.9/#	Omisiones en los registros	C	#
+Génesis	14:18-20	#	93:5.13/#	Abraham entrega el diezmo a Melquisedek	C	#
+Génesis	14:18-20	#	93:2.1/#	Melquisedek, sacerdote del Altísimo	R	#
+Génesis	14:18-20,22	#	43:3.1/#	Altísimos	C	#
+Génesis	14:18-20,22	#	93:2.3/#	El Altísimo (El Elyón)	R	#
+Génesis	14:18-20,22	#	93:3.2/#	El Altísimo	C	#
+Génesis	14:18-22	#	142:3.4/#	El Elyón, el Dios Altísimo	S	#
+Génesis	14:18-22	#	96:1.4/#	El Elyón	C	#
+Génesis	14:18ff	#	93:4.14/#	Melquisedek, rey de Salem	R	#
+Génesis	14:18ff	#	45:4.16/#	Maquiventa Melquisedek	R	#
+Génesis	14:18ff	#	43:5.17/#	Melquisedek, rey de Salem	R	#
+Génesis	14:20	#	43:5.17/#	Bendito sea el Altísimo	R	#
+Génesis	14:20	#	93:3.1/#	Sistema del diezmo	C	#
+Génesis	15:1,4,7	#	93:9.7/#	Conversaciones con Melquisedek	C	#
+Génesis	15:1-3	#	93:6.1/#	Preocupación por la descendencia	C	#
+Génesis	15:2-4	#	93:6.5/#	Nacimiento de Isaac	C	#
+Génesis	15:4-5	#	93:6.3/#	Alianza («mira las estrellas»)	R	#
+Génesis	15:6	#	93:4.5/#	Contado en justicia	R	#
+Génesis	15:6	#	93:6.3/#	La fe le fue contado en justicia	R	#
+Génesis	15:9-10	#	93:4.14/#	La creencia en los sacrificios	C	#
+Génesis	15:12-14	#	93:6.3/#	Anticipación de la salida de Egipto	C	#
+Génesis	15:15-16,18-21	#	93:6.3/#	Anticipación de la ocupación de Canaán	C	#
+Génesis	16:2	#	82:5.6/#	Exogamia	C	#
+Génesis	16:6	#	82:5.5/#	La esposa-hermana solía dominar a las otras	C	#
+Génesis	16:7	#	85:4.2/#	Ángeles del agua	C	#
+Génesis	16:7	#	96:1.9/#	Ángel del Señor	C	#
+Génesis	16:7,9-11	#	93:9.7/#	Ángel del Señor	R	#
+Génesis	16:7-11	#	37:2.3/#	El ángel del Señor	R	#
+Génesis	16:9-13	#	93:9.7/#	Conversaciones con Melquisedek	C	#
+Génesis	17:1	#	31:3.6/#	Sed perfectos	R	#
+Génesis	17:1	#	26:9.3/#	Sed perfectos	C	#
+Génesis	17:1	#	26:4.5/#	Be you perfect	R	PROBLEM
+Génesis	17:1	#	26:11.4/#	Sed perfectos	C	#
+Génesis	17:1	#	96:1.5/#	El Shaddai	C	#
+Génesis	17:1	#	13:2.8/#	Ser perfectos	C	#
+Génesis	17:1	#	131:2.6/#	Sé perfecto	R	#
+Génesis	17:1	#	140:5.15/#	Sed perfectos	R	#
+Génesis	17:1	#	137:8.13/#	Sed perfectos	C	#
+Génesis	17:1	#	106:2.6/#	Sed perfectos	C	#
+Génesis	17:1	#	181:2.25/#	Perfecionarse espiritualmente	C	#
+Génesis	17:1	#	1:0.3/#	Sed perfectos	C	#
+Génesis	17:1	#	7:4.7/#	Sed perfectos	R	#
+Génesis	17:1	#	56:0.1/#	Sed perfectos como yo soy	R	#
+Génesis	17:1	#	140:10.1/#	Sed perfectos	C	#
+Génesis	17:1	#	140:3.16/#	Sed perfectos	C	#
+Génesis	17:1	#	181:1.2/#	Convertirse en perfectos espiritualmente	C	#
+Génesis	17:1	#	142:3.5/#	El Shaddai, Deidad creadora	S	#
+Génesis	17:1	#	107:0.3/#	Sed perfectos	C	#
+Génesis	17:1	#	140:4.11/#	Sed perfectos	C	#
+Génesis	17:1	#	143:2.6/#	Seek perfection+	C	PROBLEM
+Génesis	17:1	#	142:7.13/#	Sed perfectos	C	#
+Génesis	17:1	#	7:5.1/#	Sed perfectos	R	#
+Génesis	17:1	#	131:10.6/#	El Todopoderoso	C	#
+Génesis	17:1	#	161:1.10/#	Sed perfectos	C	#
+Génesis	17:1	#	40:7.4/#	Sed perfectos	R	#
+Génesis	17:1	#	99:5.3/#	Sed perfectos	C	#
+Génesis	17:1	#	37:5.3/#	Sed perfectos	R	#
+Génesis	17:1	#	1:0.6/#	Be you perfect	C	PROBLEM
+Génesis	17:1	#	140:8.32/#	Sed perfectos	C	#
+Génesis	17:1	#	131:2.13/#	Sed como yo y vivid conmigo	R	#
+Génesis	17:1,17	#	93:9.8/#	Edad de Abraham	C	#
+Génesis	17:1-9	#	93:6.3/#	Alianza («mira las estrellas»)	R	#
+Génesis	17:1-22	#	93:9.7/#	Conversaciones con Melquisedek	C	#
+Génesis	17:2-9	#	96:0.3/#	Religión hebrea	C	#
+Génesis	17:4,7-10,21	#	89:8.4/#	La alianza reemplaza al miedo	C	#
+Génesis	17:4-7,16-21	#	93:6.5/#	Nacimiento de Isaac	C	#
+Génesis	17:5	#	93:6.5/#	Nombre cambiado a Abraham	C	#
+Génesis	17:10-12,23-27	#	93:6.5/#	Alianza formal	C	#
+Génesis	17:10-13	#	93:6.6/#	Circuncisión	C	#
+Génesis	17:10-14	#	89:8.2/#	Circuncisión	C	#
+Génesis	17:16-17	#	93:9.8/#	Nacimiento milagroso de Isaac	C	#
+Génesis	17:17	#	93:9.8/#	Edad de Sara	C	#
+Génesis	18:1,9-10,13	#	93:9.7/#	Conversaciones con Melquisedek	C	#
+Génesis	18:1-16	#	93:6.7/#	Los tres seres celestiales	C	#
+Génesis	18:10-12	#	93:9.8/#	Nacimiento milagroso de Isaac	C	#
+Génesis	18:10-14	#	93:6.5/#	Nacimiento de Isaac	C	#
+Génesis	18:11	#	93:9.8/#	Edad de Abraham	C	#
+Génesis	18:11	#	93:9.8/#	Edad de Abraham	C	#
+Génesis	18:14	#	158:5.2/#	Todas las cosas son posibles para el que cree	C	#
+Génesis	18:14	#	131:10.2/#	Con Dios, todas las cosas son posibles	C	#
+Génesis	18:14	#	163:3.2/#	Con Dios, nada es imposible	S	#
+Génesis	18:14	#	2:1.2/#	Todas las cosas son posibles	R	#
+Génesis	18:14	#	26:5.3/#	Con Dios nada es imposible	R	#
+Génesis	18:14	#	3:2.2/#	Con Él todo es posible	R	#
+Génesis	18:16-33	#	93:6.7/#	Realidad y mitos	C	#
+Génesis	18:17,20,23	#	93:9.7/#	Conversaciones con Melquisedek	C	#
+Génesis	18:18	#	136:1.1/#	Semilla de Abraham	R	#
+Génesis	18:18	#	190:5.4/#	All nations to be blessed	C	PROBLEM
+Génesis	18:24-25	#	133:4.7/#	Juicio de todos	C	#
+Génesis	18:25	#	128:1.10/#	Juez de toda la Tierra	C	#
+Génesis	18:27	#	96:1.9/#	El Señor	C	#
+Génesis	19:1-29	#	93:6.7/#	Realidad y mitos	C	#
+Génesis	19:24	#	69:6.6/#	Fuego de los dioses	C	#
+Génesis	19:37-38	#	70:6.2/#	Padre de su pueblo	R	#
+Génesis	20:1	#	93:9.2/#	Viaje al sur	C	#
+Génesis	20:2	#	93:9.3/#	Sara tomada por Abimélek	C	#
+Génesis	20:2-14	#	93:9.3/#	Abraham muestra cobardía	C	#
+Génesis	20:3	#	86:5.7/#	God "speaking" in dreams+	C	PROBLEM
+Génesis	20:11	#	92:1.5/#	Dios es un gran temor	R	#
+Génesis	20:12	#	82:5.4/#	La hermana y mujer de Abraham	C	#
+Génesis	21:1-8	#	93:9.8/#	Nacimiento milagroso de Isaac	C	#
+Génesis	21:1-8	#	93:6.5/#	Nacimiento de Isaac	C	#
+Génesis	21:2,5	#	93:9.8/#	Edad de Abraham	C	#
+Génesis	21:9-10	#	82:5.5/#	La esposa-hermana solía dominar a las otras	C	#
+Génesis	21:22-32	#	93:9.4/#	Tratado	C	#
+Génesis	21:25-30	#	69:9.11/#	Pozos y tierras adyacentes	C	#
+Génesis	21:33	#	1:1.6/#	El Dios eterno	C	#
+Génesis	21:33	#	85:2.4/#	Arboledas sagradas	C	#
+Génesis	22:1-2	#	93:9.4/#	Supersticiones	C	#
+Génesis	22:1-2	#	156:5.4/#	«Dios me ha dicho»	C	#
+Génesis	22:1-10	#	89:6.8/#	Sacrificio de Isaac	C	#
+Génesis	22:1-10	#	89:6.2/#	Sacrificios humanos	C	#
+Génesis	22:2-13	#	93:4.14/#	La creencia en los sacrificios	C	#
+Génesis	22:7-8	#	85:3.4/#	Cordero sacrificial	C	#
+Génesis	22:11,15	#	93:9.7/#	Ángel del Señor	R	#
+Génesis	22:12	#	92:1.5/#	Dios es un gran temor	R	#
+Génesis	22:14	#	142:3.3/#	Yahvé, el dios de los clanes del Sinaí	S	#
+Génesis	22:14	#	96:1.3/#	Yahvé	C	#
+Génesis	22:14	#	96:1.10/#	Jehová	C	#
+Génesis	22:15	#	85:4.2/#	Ángeles del aire	C	#
+Génesis	22:18	#	190:5.4/#	All nations to be blessed	C	PROBLEM
+Génesis	23:1	#	93:9.8/#	Edad de Sara	C	#
+Génesis	23:2,17-20	#	93:9.4/#	Regreso a Hebrón	C	#
+Génesis	24:1	#	93:9.8/#	Edad de Abraham	C	#
+Génesis	24:2-4,9	#	93:9.4/#	Conseguir mujer para Isaac	C	#
+Génesis	24:3,7	#	79:1.9/#	Un solo Dios en el cielo	R	#
+Génesis	24:36-38,51	#	93:9.4/#	Conseguir mujer para Isaac	C	#
+Génesis	25:1	#	93:9.8/#	Queturá no era esposa	C	#
+Génesis	25:5	#	93:9.8/#	Herencia de Isaac	C	#
+Génesis	25:7-8	#	93:9.8/#	Edad de Abraham	C	#
+Génesis	25:8	#	93:9.4/#	Muerte de Abraham	C	#
+Génesis	25:8	#	86:5.2/#	Entregar el alma	R	#
+Génesis	26:4	#	190:5.4/#	All nations to be blessed	C	PROBLEM
+Génesis	26:19-22	#	69:9.11/#	Pozos y tierras adyacentes	C	#
+Génesis	28:3	#	142:3.5/#	El Shaddai, Deidad creadora	S	#
+Génesis	28:3	#	131:10.6/#	El Todopoderoso	C	#
+Génesis	28:3	#	96:1.5/#	El Shaddai	C	#
+Génesis	28:12	#	167:7.4/#	Los ángeles subiendo y bajando	C	#
+Génesis	28:12-16	#	86:5.7/#	God "speaking" in dreams+	C	PROBLEM
+Génesis	28:14	#	190:5.4/#	Todas las familias serán benditas	R	#
+Génesis	28:18	#	85:1.1/#	Piedra de Jacob	C	#
+Génesis	28:22	#	93:3.1/#	Sistema del diezmo	C	#
+Génesis	28:22	#	88:2.3/#	Piedra levantada como un pilar	R	#
+Génesis	29:18-20	#	83:3.2/#	Comprar esposas	C	#
+Génesis	29:18-20	#	82:3.4/#	La mujer como propiedad	C	#
+Génesis	31:13	#	87:6.9/#	Sacred vows and oaths+	C	PROBLEM
+Génesis	31:13	#	96:1.7/#	El	C	#
+Génesis	31:19,30-35	#	85:1.1/#	Piedras de Raquel	C	#
+Génesis	31:54	#	93:4.14/#	La creencia en los sacrificios	C	#
+Génesis	32:32	#	96:2.3/#	Hijos de Israel	C	#
+Génesis	35:11	#	74:7.8/#	Loins of the father+	R	PROBLEM
+Génesis	35:11	#	96:5.7/#	El Todopoderoso	R	#
+Génesis	36:9,43	#	70:6.2/#	Padre de su pueblo	R	#
+Génesis	37:19	#	93:9.5/#	Soñador	C	#
+Génesis	37:23-28	#	126:1.2/#	José vendido como esclavo	C	#
+Génesis	37:34	#	89:3.3/#	Pobreza y penitencia	C	#
+Génesis	38:6-10	#	83:5.4/#	Matrimonio del levirato	C	#
+Génesis	38:24	#	70:10.14/#	Quemar a la adúltera en el fuego	R	#
+Génesis	40:15	#	96:2.3/#	Hebreos	C	#
+Génesis	41:41	#	93:9.5/#	Administrador civil	C	#
+Génesis	45:21	#	96:2.3/#	Hijos de Israel	C	#
+Génesis	46:3	#	1:1.6/#	Calling God "God"+	C	PROBLEM
+Génesis	46:26	#	74:7.8/#	Loins of the father+	R	PROBLEM
+Génesis	49:25	#	148:6.2/#	Dios bendice al fiel	C	#
+Génesis	49:25	#	96:1.9/#	Todopoderoso	C	#
+Génesis	50:7	#	70:5.2/#	Consejo de ancianos	C	#

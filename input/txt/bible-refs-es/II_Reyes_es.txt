@@ -1,0 +1,53 @@
+II_Reyes	1:3-2:11	#	123:5.12/#	Historia de Elías	C	#
+II_Reyes	2:1,11	#	45:4.15/#	El traslado de Elías	C	#
+II_Reyes	2:1,11	#	55:2.1/#	Translation to morontia status	C	PROBLEM
+II_Reyes	2:1-15	#	97:2.2/#	La marcha de Elías	C	#
+II_Reyes	2:11	#	110:7.2/#	En carros de fuego	R	#
+II_Reyes	3:14	#	194:3.11/#	No más el Señor de los Ejércitos	C	#
+II_Reyes	6:17	#	110:7.2/#	En carros de fuego	R	#
+II_Reyes	9:36	#	156:5.4/#	«Dios me ha dicho»	C	#
+II_Reyes	10:15-28	#	97:9.19/#	Las reformas de Jehú	C	#
+II_Reyes	11:12,17-19	#	97:9.21/#	Revuelta del rey niño Joás	C	#
+II_Reyes	12:1-2	#	97:9.20/#	Joás	C	#
+II_Reyes	16:3	#	85:4.4/#	Reverencia al fuego	C	#
+II_Reyes	16:3	#	69:6.6/#	Pasar por el fuego	R	#
+II_Reyes	16:6	#	96:2.3/#	Judíos	C	#
+II_Reyes	17:4-6	#	97:9.21/#	Fin del reino	C	#
+II_Reyes	17:9-11,16	#	85:2.4/#	Arboledas sagradas	C	#
+II_Reyes	17:13	#	90:1.1/#	Videntes	C	#
+II_Reyes	17:35-38	#	160:5.9/#	Un único Dios y los dioses falsos	C	#
+II_Reyes	18:4	#	85:3.3/#	Adoración de las serpientes	C	#
+II_Reyes	18:4	#	88:2.5/#	Nuevos fetiches	C	#
+II_Reyes	18:4	#	88:1.5/#	Veneración de las serpientes	C	#
+II_Reyes	18:4,34	#	85:1.5/#	Lugares elevados	C	#
+II_Reyes	19:15	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
+II_Reyes	19:15	#	0:2.9/#	Dios como Creador del Cielo y la Tierra	C	#
+II_Reyes	19:15	#	6:1.3/#	Dios ha hecho todo	C	#
+II_Reyes	19:15	#	95:5.9/#	Dios como creador de todo	C	#
+II_Reyes	19:15	#	131:10.6/#	El Creador	C	#
+II_Reyes	19:15	#	131:2.2/#	Dios creó el Cielo y la Tierra	C	#
+II_Reyes	19:15	#	128:1.10/#	Creador de los cielos y de la Tierra	C	#
+II_Reyes	19:15	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
+II_Reyes	19:15	#	142:3.7/#	Creador Universal	C	#
+II_Reyes	19:15	#	2:1.2/#	Creador fiel y divino	C	#
+II_Reyes	19:15	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+II_Reyes	19:19	#	92:5.8/#	One God+	C	PROBLEM
+II_Reyes	19:19	#	131:10.2/#	Un único Dios	C	#
+II_Reyes	19:19	#	1:7.6/#	Dios es uno solo	R	#
+II_Reyes	19:19	#	45:4.8/#	Dios único	C	#
+II_Reyes	19:19	#	56:4.4/#	Dios es uno	C	#
+II_Reyes	19:19	#	1:0.1/#	No hay Dios aparte de ti	C	#
+II_Reyes	19:19	#	92:6.6/#	One God+	C	PROBLEM
+II_Reyes	19:19	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
+II_Reyes	19:19	#	96:5.5/#	El Señor es un único Dios	C	#
+II_Reyes	19:22	#	196:0.2/#	El Santo de Israel	R	#
+II_Reyes	19:22	#	128:1.10/#	Santo de Israel	C	#
+II_Reyes	19:22	#	96:1.9/#	El Santo	C	#
+II_Reyes	21:1-2	#	97:9.23/#	El rey niño Manasés	C	#
+II_Reyes	22:13	#	142:2.1/#	Un Dios de gran ira e intenso furor	C	#
+II_Reyes	23:13	#	95:1.3/#	"Gods" Ashtoreth, Chemosh	C	PROBLEM
+II_Reyes	23:13	#	95:1.7/#	Astaroth	C	#
+II_Reyes	23:25-30	#	97:9.24/#	El atrevimiento de Josías	C	#
+II_Reyes	23:29-30	#	126:1.2/#	Josías derrotado	C	#
+II_Reyes	25:1	#	97:9.25/#	El regreso de Nabucodonosor	C	#
+II_Reyes	25:2-17	#	97:9.26/#	La destrucción de la ciudad	C	#

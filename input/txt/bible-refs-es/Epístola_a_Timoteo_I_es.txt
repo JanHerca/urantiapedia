@@ -1,0 +1,71 @@
+Epístola_a_Timoteo_I	1:1	#	182:1.10/#	I am the hope of all living truth	C	PROBLEM
+Epístola_a_Timoteo_I	1:2	#	149:6.8/#	Dios es nuestro Padre	C	#
+Epístola_a_Timoteo_I	1:2	#	131:10.6/#	Relación entre padre e hijo	C	#
+Epístola_a_Timoteo_I	1:2	#	141:4.2/#	God is our Father+	C	PROBLEM
+Epístola_a_Timoteo_I	1:2	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
+Epístola_a_Timoteo_I	1:2	#	131:10.5/#	Dios es «mi» padre	C	#
+Epístola_a_Timoteo_I	1:2	#	131:10.8/#	La relación de padre e hijo	C	#
+Epístola_a_Timoteo_I	1:16	#	27:1.5/#	Vida eterna	C	#
+Epístola_a_Timoteo_I	1:16	#	181:2.11/#	La vida eterna en el reino venidero	C	#
+Epístola_a_Timoteo_I	1:16	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
+Epístola_a_Timoteo_I	1:16	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Epístola_a_Timoteo_I	1:16	#	162:7.5/#	Los creyentes nunca morirán	C	#
+Epístola_a_Timoteo_I	1:16	#	2:2.1/#	Vida eterna	C	#
+Epístola_a_Timoteo_I	1:16	#	27:2.1/#	Modelo original	R	#
+Epístola_a_Timoteo_I	1:16	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
+Epístola_a_Timoteo_I	1:16	#	101:6.8/#	Eternal life+	C	PROBLEM
+Epístola_a_Timoteo_I	1:16	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
+Epístola_a_Timoteo_I	1:16	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
+Epístola_a_Timoteo_I	1:16	#	146:3.7/#	La vida eterna	C	#
+Epístola_a_Timoteo_I	1:16	#	162:2.7/#	Vida eterna	C	#
+Epístola_a_Timoteo_I	1:16	#	121:5.11/#	Vida después de la muerte	C	#
+Epístola_a_Timoteo_I	1:16	#	153:2.11/#	Los que creen tienen vida eterna	C	#
+Epístola_a_Timoteo_I	1:16	#	3:0.1/#	Vida eterna	C	#
+Epístola_a_Timoteo_I	1:16	#	170:2.2/#	La esperanza de la vida eterna	S	#
+Epístola_a_Timoteo_I	1:16	#	128:1.10/#	Dador de la vida eterna	C	#
+Epístola_a_Timoteo_I	1:16-17	#	2:1.2/#	Inmortal, eterno	C	#
+Epístola_a_Timoteo_I	1:17	#	32:4.7/#	El Dios invisible manifestado	C	#
+Epístola_a_Timoteo_I	1:17	#	0:3.2/#	Eternal God+	C	PROBLEM
+Epístola_a_Timoteo_I	1:17	#	1:3.1/#	Único Dios verdadero	R	#
+Epístola_a_Timoteo_I	2:4	#	2:5.2/#	¿Se salvarán todos los hombres?	R	#
+Epístola_a_Timoteo_I	2:5	#	1:7.6/#	Dios es uno solo	R	#
+Epístola_a_Timoteo_I	2:5	#	92:6.6/#	One God+	C	PROBLEM
+Epístola_a_Timoteo_I	2:5	#	45:4.8/#	Dios único	C	#
+Epístola_a_Timoteo_I	2:5	#	141:7.14/#	Jesús era «humano»	C	#
+Epístola_a_Timoteo_I	2:5	#	56:4.4/#	Dios es uno	C	#
+Epístola_a_Timoteo_I	2:5	#	96:5.5/#	El Señor es un único Dios	C	#
+Epístola_a_Timoteo_I	2:5	#	1:0.1/#	No hay Dios aparte de ti	C	#
+Epístola_a_Timoteo_I	2:5	#	92:5.8/#	One God+	C	PROBLEM
+Epístola_a_Timoteo_I	2:5	#	131:10.2/#	Un único Dios	C	#
+Epístola_a_Timoteo_I	2:5	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
+Epístola_a_Timoteo_I	2:6	#	186:5.7/#	Contra la idea de la expiación del pecado	C	#
+Epístola_a_Timoteo_I	2:9-12	#	150:1.3/#	Visión de Pablo de las mujeres	C	#
+Epístola_a_Timoteo_I	6:8-11	#	89:3.2/#	La propiedad vista como un peligro espiritual	C	#
+Epístola_a_Timoteo_I	6:11	#	196:1.2/#	Seguir al Maestro	C	#
+Epístola_a_Timoteo_I	6:12	#	166:3.4/#	Librar el buen combate de la fe	C	#
+Epístola_a_Timoteo_I	6:12	#	188:5.5/#	Combatir la buena lucha de la fe	S	#
+Epístola_a_Timoteo_I	6:12	#	159:3.8/#	Sostener el buen combate de la fe	C	#
+Epístola_a_Timoteo_I	6:12,19	#	101:6.8/#	Eternal life+	C	PROBLEM
+Epístola_a_Timoteo_I	6:12,19	#	170:2.2/#	La esperanza de la vida eterna	S	#
+Epístola_a_Timoteo_I	6:12,19	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
+Epístola_a_Timoteo_I	6:12,19	#	3:0.1/#	Vida eterna	C	#
+Epístola_a_Timoteo_I	6:12,19	#	121:5.11/#	Vida después de la muerte	C	#
+Epístola_a_Timoteo_I	6:12,19	#	162:7.5/#	Los creyentes nunca morirán	C	#
+Epístola_a_Timoteo_I	6:12,19	#	153:2.11/#	Los que creen tienen vida eterna	C	#
+Epístola_a_Timoteo_I	6:12,19	#	2:2.1/#	Vida eterna	C	#
+Epístola_a_Timoteo_I	6:12,19	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
+Epístola_a_Timoteo_I	6:12,19	#	181:2.11/#	La vida eterna en el reino venidero	C	#
+Epístola_a_Timoteo_I	6:12,19	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Epístola_a_Timoteo_I	6:12,19	#	27:1.5/#	Vida eterna	C	#
+Epístola_a_Timoteo_I	6:12,19	#	162:2.7/#	Vida eterna	C	#
+Epístola_a_Timoteo_I	6:12,19	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
+Epístola_a_Timoteo_I	6:12,19	#	146:3.7/#	La vida eterna	C	#
+Epístola_a_Timoteo_I	6:12,19	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
+Epístola_a_Timoteo_I	6:12:19	#	128:1.10/#	Dador de la vida eterna	C	#
+Epístola_a_Timoteo_I	6:13	#	36:6.1/#	La vida, tanto material como espiritual	C	#
+Epístola_a_Timoteo_I	6:13	#	36:3.4/#	Chispa vital, misterio de la vida	C	#
+Epístola_a_Timoteo_I	6:15	#	64:6.26/#	Dios de los Dioses	R	#
+Epístola_a_Timoteo_I	6:15	#	21:4.5/#	Rey de Reyes	R	#
+Epístola_a_Timoteo_I	6:16	#	1:3.3/#	Luz a la que nadie puede acercarse	R	#
+Epístola_a_Timoteo_I	6:16	#	1:5.3/#	Luz a la que puede acercarse	R	#
+Epístola_a_Timoteo_I	6:17	#	133:4.6/#	Lo temporal contra lo espiritual	C	#

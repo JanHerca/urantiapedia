@@ -1,0 +1,70 @@
+I_Samuel	1:3	#	96:1.9/#	Señor de los Ejércitos	C	#
+I_Samuel	1:3,11	#	194:3.11/#	No más el Señor de los Ejércitos	C	#
+I_Samuel	2:2	#	97:1.7/#	No hay nadie tan santo como el Señor	R	#
+I_Samuel	2:2	#	92:5.8/#	One God+	C	PROBLEM
+I_Samuel	2:2	#	92:6.6/#	One God+	C	PROBLEM
+I_Samuel	2:2	#	131:2.2/#	No hay nadie más que él	R	#
+I_Samuel	2:2	#	96:5.5/#	El Señor es un único Dios	C	#
+I_Samuel	2:2	#	131:10.2/#	Un único Dios	C	#
+I_Samuel	2:2	#	1:0.1/#	No hay Dios aparte de ti	C	#
+I_Samuel	2:2	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
+I_Samuel	2:2	#	45:4.8/#	Dios único	C	#
+I_Samuel	2:2	#	56:4.4/#	Dios es uno	C	#
+I_Samuel	2:2	#	1:7.6/#	Dios es uno solo	R	#
+I_Samuel	2:3	#	97:1.8/#	Dios de conocimiento	R	#
+I_Samuel	2:7-8	#	97:1.6/#	El Señor enriquece y empobrece	R	#
+I_Samuel	2:8	#	97:1.3/#	Las columnas de la Tierra pertenecen al Señor	R	#
+I_Samuel	2:10	#	128:1.10/#	Juez de toda la Tierra	C	#
+I_Samuel	2:10	#	97:1.8/#	El Señor juzgará la Tierra	R	#
+I_Samuel	7:3	#	159:5.13/#	Repent for forgiveness (OT)+	C	PROBLEM
+I_Samuel	7:3-4	#	95:1.3/#	Competing "gods" Ashtaroth	C	PROBLEM
+I_Samuel	7:3-4	#	95:1.7/#	Astaroth	C	#
+I_Samuel	7:3-4	#	97:1.3/#	Tosco y de acción	C	#
+I_Samuel	7:10	#	85:4.3/#	El trueno	C	#
+I_Samuel	9:8-11,18-19	#	90:1.1/#	Videntes	C	#
+I_Samuel	9:17	#	156:5.4/#	«Dios me ha dicho»	C	#
+I_Samuel	11:1-11	#	97:9.3/#	Saúl derrota a los ammonitas	C	#
+I_Samuel	11:8	#	97:9.3/#	Números inflados	C	#
+I_Samuel	11:14-15	#	97:9.4/#	Hechos modificados	C	#
+I_Samuel	11:15	#	97:9.3/#	Saúl hecho rey por las tropas	C	#
+I_Samuel	12:10	#	95:1.3/#	Compet. "gods" Baal, Ashtaroth	C	PROBLEM
+I_Samuel	12:10	#	95:1.7/#	Astaroth	C	#
+I_Samuel	12:17-18	#	85:4.3/#	Lluvias inoportunas	C	#
+I_Samuel	12:22	#	3:1.4/#	Nunca nos abandona	C	#
+I_Samuel	12:22	#	97:1.5/#	El Señor no abandonará a su pueblo	R	#
+I_Samuel	14:6	#	97:1.8/#	No tiene limitación para salvar a muchos o a pocos	R	#
+I_Samuel	15:2-3	#	70:1.15/#	En nombre del Señor Dios de Israel	R	#
+I_Samuel	15:3	#	159:4.5/#	Dios no dice «matad a todos los enemigos»	C	#
+I_Samuel	15:3,9,18	#	69:8.3/#	Los hebreos «destruían por completo»	C	#
+I_Samuel	15:22	#	192:2.11/#	Dios quiere obediencia, no sacrificios	C	#
+I_Samuel	15:23	#	90:2.3/#	Brujería	C	#
+I_Samuel	15:29	#	4:3.4/#	Dios no se arrepiente (por naturaleza)	C	#
+I_Samuel	15:29	#	1:2.1/#	Dios no es un hombre	C	#
+I_Samuel	15:29	#	2:2.2/#	No se arrepiente (por naturaleza)	C	#
+I_Samuel	15:29	#	97:1.4/#	La Fuerza de Israel no miente ni se arrepiente	R	#
+I_Samuel	15:29	#	3:1.12/#	Dios no es un hombre	C	#
+I_Samuel	15:29	#	4:3.1/#	Dios no es como el hombre	C	#
+I_Samuel	15:32-33	#	97:1.3/#	Despedazar a un rey cautivo	C	#
+I_Samuel	15:35	#	2:2.2/#	Se ha dicho que Dios se arrepiente, pero no lo hace	C	#
+I_Samuel	15:35	#	4:3.4/#	La visión de Dios arrepintiéndose	C	#
+I_Samuel	16:1-13	#	97:9.8/#	Versión de los sacerdotes de la coronación	C	#
+I_Samuel	16:7	#	140:6.4/#	Judgaz los motivos, no los actos	C	#
+I_Samuel	16:7	#	174:0.2/#	Ignora las apariencias exteriores	C	#
+I_Samuel	16:14-16	#	96:7.6/#	Envía a los espíritus malignos	R	#
+I_Samuel	17:1-51	#	70:1.19/#	Lucha de campeones	C	#
+I_Samuel	17:47	#	70:1.15/#	Dios de las batallas	R	#
+I_Samuel	17:47	#	89:6.3/#	Dios de las batallas	R	#
+I_Samuel	18:22-27	#	97:9.10/#	David marries Milchal	C	PROBLEM
+I_Samuel	18:25-27	#	70:1.18/#	Dote con prepucios	C	#
+I_Samuel	21:3-6	#	147:6.4/#	David comió pan de la proposición	C	#
+I_Samuel	22:1-2	#	97:9.5/#	El ejército de David	C	#
+I_Samuel	23:1-5	#	97:9.13/#	David defiende Keila	C	#
+I_Samuel	25:42	#	97:9.10/#	David se casa con Abigail	C	#
+I_Samuel	27:2-3	#	97:9.5/#	Alianza con los filisteos	C	#
+I_Samuel	28:7-19	#	90:2.5/#	Chamanesas	C	#
+I_Samuel	28:7-25	#	146:7.1/#	La bruja de Endor	R	#
+I_Samuel	28:15	#	86:5.7/#	God "speaking" in dreams+	C	PROBLEM
+I_Samuel	28:18	#	97:9.6/#	Errores de ritual	C	#
+I_Samuel	29:1-11	#	97:9.5/#	David se retira	C	#
+I_Samuel	31:1-4	#	134:9.5/#	Gilboa, donde murió Saúl	C	#
+I_Samuel	31:1-9	#	97:9.5/#	Trágica derrota de Saúl	C	#

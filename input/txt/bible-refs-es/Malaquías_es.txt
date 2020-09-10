@@ -1,0 +1,23 @@
+Malaquías	1:6	#	196:0.2/#	Concepto como padre	C	#
+Malaquías	1:8	#	194:3.11/#	No más el Señor de los Ejércitos	C	#
+Malaquías	1:14	#	141:4.1/#	Dios como rey por encima de todo	C	#
+Malaquías	2:10	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Malaquías	2:10	#	131:2.2/#	God created man+	C	PROBLEM
+Malaquías	2:10	#	95:5.9/#	Dios como creador de todo	C	#
+Malaquías	2:10	#	2:1.2/#	Un Dios, el Padre	R	#
+Malaquías	2:10	#	0:2.9/#	God as Creator of man+	C	PROBLEM
+Malaquías	2:10	#	2:1.2/#	Un Dios, el Padre	C	#
+Malaquías	2:10	#	6:1.3/#	Dios ha hecho todo	C	#
+Malaquías	2:10	#	74:0.1/#	Creación del hombre	C	#
+Malaquías	2:10	#	142:3.7/#	Creador Universal	C	#
+Malaquías	2:11	#	131:10.6/#	El Creador	C	#
+Malaquías	3:1	#	144:8.3/#	Enviado a preparar el camino	R	#
+Malaquías	3:6	#	12:7.5/#	Dios no cambia	C	#
+Malaquías	3:6	#	2:2.1/#	Yo soy el Señor, yo no cambio	C	#
+Malaquías	3:6	#	2:2.1/#	Yo soy el Señor, yo no cambio	R	#
+Malaquías	3:6	#	4:4.2/#	Dios no cambia	R	#
+Malaquías	3:8-10	#	93:3.1/#	Sistema del diezmo	C	#
+Malaquías	3:12	#	190:5.4/#	Las naciones lo llamarán bendito	R	#
+Malaquías	4:2	#	190:5.4/#	El Hijo, sol de recitud	R	#
+Malaquías	4:5-6	#	158:2.2/#	Profecía	S	#
+Malaquías	4:5-6	#	135:4.4/#	Envío previo de Elías	R	#

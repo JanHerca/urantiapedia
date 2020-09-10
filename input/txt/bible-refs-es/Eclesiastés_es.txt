@@ -1,0 +1,26 @@
+Eclesiastés	1:1-8	#	102:0.1/#	La muerte inevitable, no desesperéis	C	#
+Eclesiastés	1:1-18	#	97:8.2/#	El Eclesiastés es pesimista	C	#
+Eclesiastés	2:11-23	#	102:0.1/#	La muerte inevitable, no desesperéis	C	#
+Eclesiastés	2:12-17	#	97:8.2/#	El Eclesiastés es pesimista	C	#
+Eclesiastés	3:14	#	2:2.2/#	Actos eternos y completos	R	#
+Eclesiastés	3:20	#	112:3.5/#	Polvo al polvo	C	#
+Eclesiastés	3:20	#	68:6.1/#	Polvo eres y al polvo volverás	R	#
+Eclesiastés	3:20	#	89:6.7/#	El polvo vuelve al polvo	R	#
+Eclesiastés	3:20	#	112:7.19/#	Nuestro cuerpo es de polvo	C	#
+Eclesiastés	3:20-21	#	1:4.3/#	El cuerpo regresa a la tierra	R	#
+Eclesiastés	3:21	#	34:6.4/#	Regreso del espíritu	C	#
+Eclesiastés	3:21	#	1:4.3/#	El Espíritu regresa a Dios	R	#
+Eclesiastés	4:6	#	149:5.2/#	Es mejor tener algo de serenidad	R	#
+Eclesiastés	5:2	#	79:1.9/#	Un solo Dios en el cielo	C	#
+Eclesiastés	7:9	#	149:4.2/#	La ira reposa en el seno de los necios	R	#
+Eclesiastés	7:20	#	148:4.8/#	Malos por naturaleza, pero no pecadores	C	#
+Eclesiastés	8:12-13	#	95:4.2/#	La riqueza como dones de Dios	C	#
+Eclesiastés	9:10	#	133:8.3/#	Haz todo con todas tus fuerzas	R	#
+Eclesiastés	9:11-12	#	86:1.6/#	La carrera no la ganan los ligeros	R	#
+Eclesiastés	12:7	#	1:4.3/#	El Espíritu regresa a Dios	R	#
+Eclesiastés	12:7	#	36:6.1/#	La vida, tanto material como espiritual	C	#
+Eclesiastés	12:7	#	68:6.1/#	Polvo eres y al polvo volverás	R	#
+Eclesiastés	12:7	#	34:6.4/#	Regreso del espíritu	C	#
+Eclesiastés	12:13	#	149:6.7/#	Temer al Señor, el mayor deber del hombre	R	#
+Eclesiastés	12:13	#	131:2.9/#	Temed a Dios y guardad sus mandamientos	R	#
+Eclesiastés	12:14	#	131:2.8/#	Dios traerá a juicio todas las obras secretas	R	#

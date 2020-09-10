@@ -6,6 +6,7 @@ const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
 const fs = require('fs');
 const path = require('path');
+const BibleAbb = require('./enums').BibleAbb;
 
 class BibleRef {
 	biblebooks = [];
@@ -82,9 +83,11 @@ class BibleRef {
 
 	extractFromTXT = (baseName, lines, errors) => {
 		const book = {
-			file: path.basename(baseName, '.tex'),
+			file: path.basename(baseName, '.txt'),
 			chapters: []
 		};
+		const booknames = Object.values(BibleAbb).map(n => n.replace(/ /g,"_"));
+		book.abb = Object.keys(BibleAbb)[booknames.indexOf(book.file)];
 
 		lines.forEach((line, i) => {
 			let data = null, ref, data2, data3, bible_ref, chapter, vers;
@@ -127,7 +130,7 @@ class BibleRef {
 								bible_vers: vers,
 								lu_ref: data3[0],
 								text: data[4],
-								type: data[5]
+								type: data[5].trim()
 							};
 							book.chapters[chapter - 1][vers - 1].push(ref);
 						}
@@ -150,6 +153,95 @@ class BibleRef {
 			i++;
 		}
 		return (isNaN(parseInt(num)) ? null : parseInt(num));
+	};
+
+	translate = (dirPath, lu_book) => {
+		return new Promise((resolve, reject) => {
+			const errs = [];
+			this.biblebooks.forEach(book => {
+				book.chapters.forEach(chapter => {
+					if (!chapter) {
+						return;
+					}
+					chapter.forEach(vers => {
+						if (!vers) {
+							return;
+						}
+						vers.forEach(ref => {
+							const bref = `${book.abb} ${ref.bible_ref}`;
+							let footnotes, subfootnotes, subfootnote;
+							if (!ref) {
+								return;
+							}
+							try {
+								footnotes = lu_book.getFootnotes(ref.lu_ref);
+								subfootnotes = lu_book.getSubFootnotes(footnotes);
+								subfootnote = subfootnotes.find(sf => {
+									return sf[1] === bref;
+								});
+								if (subfootnote) {
+									ref.text_es = subfootnote[0];
+								}
+							} catch (err) {
+								errs.push(new Error(`${err.message}: ${bref}`));
+							}
+						});
+					});
+				});
+			});
+
+			if (errs.length != 0) {
+				reject(errs);
+				return;
+			}
+
+			const promises = this.biblebooks.map(book => {
+				const filePath = path.join(dirPath, `${book.file}_es.txt`);
+				return reflectPromise(this.writeFileToTXT(filePath, book));
+			});
+			Promise.all(promises)
+				.then((results) => {
+					const errors = [];
+					results.forEach(r => extendArray(errors, r.error));
+					if (errors.length === 0) {
+						resolve(null);
+					} else {
+						reject(errors);
+					}
+				});
+		});
+	};
+
+	writeFileToTXT = (filePath, book) => {
+		return new Promise((resolve, reject) => {
+			let txt = '';
+			book.chapters.forEach(chapter => {
+				if (!chapter) {
+					return;
+				}
+				chapter.forEach(vers => {
+					if (!vers) {
+						return;
+					}
+					vers.forEach(ref => {
+						if (!ref) {
+							return;
+						}
+						const text_es = (ref.text_es ? ref.text_es : ref.text);
+						const problem = (ref.text_es ? '#' : 'PROBLEM');
+						txt += `${book.file}\t${ref.bible_ref}\t#\t${ref.lu_ref}/#\t` +
+							`${text_es}\t${ref.type}\t${problem}\r\n`;
+					});
+				});
+			});
+			fs.writeFile(filePath, txt, 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
+			});
+		});
 	};
 
 	//***********************************************************************

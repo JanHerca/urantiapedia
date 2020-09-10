@@ -1,0 +1,26 @@
+Epístola_de_Judas	1:3	#	92:3.4/#	La fe entregada a los santos	R	#
+Epístola_de_Judas	1:4	#	53:3.1/#	Manifiesto de Lucifer	C	#
+Epístola_de_Judas	1:6	#	53:1.6/#	Ángeles que abandonaron su estado inicial	R	#
+Epístola_de_Judas	1:9	#	53:1.2/#	El juez te reprenda	R	#
+Epístola_de_Judas	1:9	#	53:1.4/#	El demonio	C	#
+Epístola_de_Judas	1:9	#	52:5.5/#	Resurrección de Moisés	C	#
+Epístola_de_Judas	1:9	#	37:3.6/#	Arcángel de Miguel	R	#
+Epístola_de_Judas	1:21	#	128:1.10/#	Dador de la vida eterna	C	#
+Epístola_de_Judas	1:21	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
+Epístola_de_Judas	1:21	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
+Epístola_de_Judas	1:21	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Epístola_de_Judas	1:21	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
+Epístola_de_Judas	1:21	#	101:6.8/#	Eternal life+	C	PROBLEM
+Epístola_de_Judas	1:21	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
+Epístola_de_Judas	1:21	#	153:2.11/#	Los que creen tienen vida eterna	C	#
+Epístola_de_Judas	1:21	#	162:2.7/#	Vida eterna	C	#
+Epístola_de_Judas	1:21	#	121:5.11/#	Vida después de la muerte	C	#
+Epístola_de_Judas	1:21	#	170:2.2/#	La esperanza de la vida eterna	S	#
+Epístola_de_Judas	1:21	#	146:3.7/#	La vida eterna	C	#
+Epístola_de_Judas	1:21	#	181:2.11/#	La vida eterna en el reino venidero	C	#
+Epístola_de_Judas	1:21	#	2:2.1/#	Vida eterna	C	#
+Epístola_de_Judas	1:21	#	27:1.5/#	Vida eterna	C	#
+Epístola_de_Judas	1:21	#	3:0.1/#	Vida eterna	C	#
+Epístola_de_Judas	1:21	#	162:7.5/#	Los creyentes nunca morirán	C	#
+Epístola_de_Judas	1:24	#	165:3.3/#	Aquellos que tienen miedo	S	#
+Epístola_de_Judas	1:24	#	8:5.4/#	Capaz de sosteneros y presentaros	R	#

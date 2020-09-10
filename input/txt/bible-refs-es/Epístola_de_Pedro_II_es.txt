@@ -1,0 +1,20 @@
+Epístola_de_Pedro_II	1:3-4	#	2:1.2/#	Divino	C	#
+Epístola_de_Pedro_II	1:4	#	143:2.4/#	Fe en las promesas	C	#
+Epístola_de_Pedro_II	1:8	#	5:4.8/#	Conoce a Jesucristo	R	#
+Epístola_de_Pedro_II	1:11	#	137:8.16/#	El reino es un dominio perpetuo	C	#
+Epístola_de_Pedro_II	1:17	#	47:8.4/#	Éste es un hijo amado	R	#
+Epístola_de_Pedro_II	2:4	#	120:2.2/#	Finalización de la rebelión	C	#
+Epístola_de_Pedro_II	2:11	#	38:2.4/#	Los ángeles no te acusan	R	#
+Epístola_de_Pedro_II	3:8	#	14:1.5/#	Thousand years but a day	R	PROBLEM
+Epístola_de_Pedro_II	3:9	#	2:5.2/#	No desea que nadie perezca	R	#
+Epístola_de_Pedro_II	3:10,12	#	170:2.14/#	Believe end sudden, spectacular+	C	PROBLEM
+Epístola_de_Pedro_II	3:13	#	15:7.1/#	Nuevo cielo	C	#
+Epístola_de_Pedro_II	3:13	#	176:1.6/#	Nuevos cielos y nueva tierra	C	#
+Epístola_de_Pedro_II	3:13	#	52:7.11/#	Nuevo cielo y nueva tierra	R	#
+Epístola_de_Pedro_II	3:13-14	#	52:7.15/#	Nueva tierra de rectitud	R	#
+Epístola_de_Pedro_II	3:15	#	194:4.7/#	Se llamaban unos a otros hermanos y hermanas	C	#
+Epístola_de_Pedro_II	3:18	#	176:3.5/#	Crecer en la gracia	S	#
+Epístola_de_Pedro_II	3:18	#	193:2.2/#	Crecer en el espíritu	S	#
+Epístola_de_Pedro_II	3:18	#	147:8.5/#	Creced en la gracia	C	#
+Epístola_de_Pedro_II	3:18	#	5:4.8/#	Conoce a Jesucristo	R	#
+Epístola_de_Pedro_II	3:18	#	193:4.3/#	Los discípulos crecieron en gracia y en conocimiento	S	#

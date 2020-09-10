@@ -1,0 +1,96 @@
+Daniel	1:17	#	86:5.7/#	God "speaking" in dreams+	C	PROBLEM
+Daniel	2:2	#	90:2.5/#	Astrología	C	#
+Daniel	2:18-19,28	#	79:1.9/#	Un solo Dios en el cielo	C	#
+Daniel	2:21	#	3:5.2/#	Destrona y corona reyes	R	#
+Daniel	2:22	#	131:2.3/#	Dios revela las cosas profundas y secretas	R	#
+Daniel	2:31-33	#	135:3.2/#	La «gran estatua» de Daniel	C	#
+Daniel	2:31-45	#	97:8.3/#	Daniel y el reino mesiánico	C	#
+Daniel	2:35	#	173:4.4/#	El que caiga sobre ella, se salvará	C	#
+Daniel	2:44	#	135:3.2/#	Reino eterno	R	#
+Daniel	2:44	#	136:2.1/#	El reino de Dios está cerca	R	#
+Daniel	2:44	#	141:4.1/#	Dios como rey por encima de todo	C	#
+Daniel	2:47	#	0:2.12/#	God the Supreme+	C	PROBLEM
+Daniel	2:47	#	45:4.10/#	Dios de los Dioses	R	#
+Daniel	3:26	#	93:3.2/#	El Altísimo	C	#
+Daniel	3:26	#	43:3.1/#	Altísimos	C	#
+Daniel	3:26	#	93:2.3/#	El Altísimo	C	#
+Daniel	4:2,17,24-25,32	#	43:3.1/#	Altísimos	C	#
+Daniel	4:2,17,24-25,32	#	93:2.3/#	El Altísimo	C	#
+Daniel	4:2,17,24-25,32	#	93:3.2/#	El Altísimo	C	#
+Daniel	4:3	#	170:1.2/#	El reino como una realidad presente	S	#
+Daniel	4:17,25,32	#	97:8.5/#	Los Altísimos gobiernen en los reinos de los hombres	R	#
+Daniel	4:17,25,32	#	114:0.1/#	Los Altísimos gobiernan	C	#
+Daniel	4:17,25,32	#	175:1.8/#	Los Altísimos gobiernan los reinos de los hombres	C	#
+Daniel	4:17,25,32	#	3:5.2/#	Gobierna los reinos de los hombres	R	#
+Daniel	4:17,25,32	#	93:3.4/#	Los Altísimos reinan en los reinos de los hombres	C	#
+Daniel	4:17,25,32	#	50:2.6/#	Los Altísimos gobiernan en los reinos	R	#
+Daniel	4:17,25,32	#	43:5.17/#	Gobierna en los reinos de los hombres	R	#
+Daniel	4:17,25,32	#	134:5.3/#	Los Altísimos gobiernan en los reinos de los hombres	C	#
+Daniel	4:17,25,32	#	131:2.5/#	Nuestro Dios gobierna entre las naciones	S	#
+Daniel	4:17,25,32	#	114:6.8/#	Los Altísimos gobiernan	R	#
+Daniel	4:17,25,32	#	43:3.4/#	El Altísimo gobierna	R	#
+Daniel	4:32	#	43:3.1/#	Altísimos	C	#
+Daniel	4:32	#	93:3.2/#	El Altísimo	C	#
+Daniel	4:32	#	93:2.3/#	El Altísimo	C	#
+Daniel	4:32	#	43:3.1/#	Altísimos	C	#
+Daniel	4:35	#	3:2.1/#	Actúa de acuerdo a su voluntad	R	#
+Daniel	5:11-12,14	#	36:5.7/#	Espíritu de comprensión	C	#
+Daniel	5:18,21	#	93:3.2/#	El Altísimo	C	#
+Daniel	5:18,21	#	93:2.3/#	El Altísimo	C	#
+Daniel	5:18,21	#	43:3.1/#	Altísimos	C	#
+Daniel	5:21	#	93:3.4/#	Los Altísimos reinan en los reinos de los hombres	C	#
+Daniel	5:21	#	175:1.8/#	Los Altísimos gobiernan los reinos de los hombres	C	#
+Daniel	5:21	#	114:0.1/#	Los Altísimos gobiernan	C	#
+Daniel	5:21	#	43:5.17/#	Gobierna en los reinos de los hombres	R	#
+Daniel	5:21	#	97:8.5/#	Los Altísimos gobiernen en los reinos de los hombres	R	#
+Daniel	5:21	#	114:6.8/#	Los Altísimos gobiernan	R	#
+Daniel	5:21	#	50:2.6/#	Los Altísimos gobiernan en los reinos	R	#
+Daniel	5:21	#	43:3.4/#	El Altísimo gobierna	R	#
+Daniel	5:21	#	131:2.5/#	Nuestro Dios gobierna entre las naciones	S	#
+Daniel	5:21	#	3:5.2/#	Gobierna los reinos de los hombres	R	#
+Daniel	5:21	#	134:5.3/#	Los Altísimos gobiernan en los reinos de los hombres	C	#
+Daniel	5:27	#	28:6.15/#	Found (not) wanting	R	PROBLEM
+Daniel	6:26	#	170:1.2/#	El reino como una realidad presente	S	#
+Daniel	7:9,13,22	#	96:1.9/#	Anciano de los Días	C	#
+Daniel	7:9,13,22	#	18:3.1/#	Ancianos de los Días	C	#
+Daniel	7:9,13,22	#	15:10.3/#	Ancianos de los Días	C	#
+Daniel	7:9-10	#	28:6.6/#	El juicio de los Ancianos de los Días	R	#
+Daniel	7:13	#	137:2.2/#	Cita de Daniel	R	#
+Daniel	7:13-14	#	136:1.1/#	# 2 The Son of Man	R	PROBLEM
+Daniel	7:13-14	#	135:5.7/#	The Son of Man+	R	PROBLEM
+Daniel	7:13-14	#	126:3.6/#	Hijo del Hombre	C	#
+Daniel	7:13-14	#	135:3.3/#	Visión de la venida del Hijo del Hombre	R	#
+Daniel	7:13-14	#	128:1.2/#	Hijo del Hombre	C	#
+Daniel	7:13-14	#	136:1.6/#	El Mesías como Hijo del Hombre	C	#
+Daniel	7:13-14	#	126:3.6/#	Hijo del Hombre	R	#
+Daniel	7:14	#	135:3.2/#	Dominio sin fni	R	#
+Daniel	7:18,22,25,27	#	93:2.3/#	El Altísimo	C	#
+Daniel	7:18,22,25,27	#	43:3.1/#	Altísimos	C	#
+Daniel	7:18,22,25,27	#	93:3.2/#	El Altísimo	C	#
+Daniel	7:27	#	170:5.15/#	Visión del fin de los tiempos	S	#
+Daniel	7:27	#	135:3.2/#	Dar el reino a los Altísimos	R	#
+Daniel	9:11	#	136:2.1/#	Se sentían como una nación culpable	C	#
+Daniel	9:25-26	#	136:1.1/#	El Mesías	C	#
+Daniel	11:7	#	180:2.3/#	Un tallo que surgiría de la vid	C	#
+Daniel	11:36	#	45:4.10/#	Dios de los Dioses	R	#
+Daniel	12:1-2	#	170:4.6/#	El fin de los tiempos	C	#
+Daniel	12:1-2	#	137:7.6/#	La resurrección de los muertos	C	#
+Daniel	12:2	#	121:5.11/#	Vida después de la muerte	C	#
+Daniel	12:2	#	162:2.7/#	Vida eterna	C	#
+Daniel	12:2	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
+Daniel	12:2	#	27:1.5/#	Vida eterna	C	#
+Daniel	12:2	#	2:2.1/#	Vida eterna	C	#
+Daniel	12:2	#	3:0.1/#	Vida eterna	C	#
+Daniel	12:2	#	49:6.2/#	Muchos de los que duermen despiertan	R	#
+Daniel	12:2	#	101:6.8/#	Eternal life+	C	PROBLEM
+Daniel	12:2	#	146:3.7/#	La vida eterna	C	#
+Daniel	12:2	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Daniel	12:2	#	181:2.11/#	La vida eterna en el reino venidero	C	#
+Daniel	12:2	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
+Daniel	12:2	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
+Daniel	12:2	#	153:2.11/#	Los que creen tienen vida eterna	C	#
+Daniel	12:2	#	170:2.2/#	La esperanza de la vida eterna	S	#
+Daniel	12:2	#	128:1.10/#	Dador de la vida eterna	C	#
+Daniel	12:2	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
+Daniel	12:2	#	162:7.5/#	Los creyentes nunca morirán	C	#
+Daniel	12:3	#	131:2.11/#	Los que son sabios brillarán como el firmamento	R	#

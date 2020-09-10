@@ -1,0 +1,11 @@
+Lamentaciones_de_Jeremías	1:12	#	4:3.2/#	La visión de Dios como colérico o airado	C	#
+Lamentaciones_de_Jeremías	1:19	#	86:5.2/#	Entregar el alma	R	#
+Lamentaciones_de_Jeremías	2:1	#	85:4.3/#	Nubes amenazadoras	C	#
+Lamentaciones_de_Jeremías	3:25	#	2:6.3/#	Dios es bueno	R	#
+Lamentaciones_de_Jeremías	3:33	#	2:4.1/#	No aflijo a propósito	R	#
+Lamentaciones_de_Jeremías	3:33	#	148:5.5/#	El Señor no aflige de buena gana	R	#
+Lamentaciones_de_Jeremías	3:33	#	97:6.3/#	Él no aflige voluntariamente	R	#
+Lamentaciones_de_Jeremías	3:33	#	148:6.11/#	El Padre no aflige a propósito	C	#
+Lamentaciones_de_Jeremías	3:35,38	#	43:3.1/#	Altísimos	C	#
+Lamentaciones_de_Jeremías	3:35,38	#	93:3.2/#	El Altísimo	C	#
+Lamentaciones_de_Jeremías	3:35,38	#	93:2.3/#	El Altísimo	C	#
