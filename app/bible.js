@@ -1,6 +1,7 @@
 //Reader/Writer para la Biblia en diferentes formatos (LaTeX/JSON/Wiki)
 
 const LaTeXSeparator = require('./enums').LaTeXSeparator;
+const BibleAbb = require('./enums').BibleAbb;
 const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
@@ -83,6 +84,7 @@ class Bible {
 		};
 		let currentChapter = null;
 		let currentSection = null;
+		const booknames = Object.values(BibleAbb);
 
 		lines.forEach((line, i) => {
 			if (line.startsWith(LaTeXSeparator.TITLE_START)) {
@@ -94,6 +96,7 @@ class Bible {
 				} else {
 					book.file = path.basename(baseName, '.tex');
 					book.title = extract;
+					book.abb = Object.keys(BibleAbb)[booknames.indexOf(book.title)];
 				}
 			} else if (line.startsWith(LaTeXSeparator.CHAPTER_START)) {
 				extract = extractStr(line, LaTeXSeparator.CHAPTER_START,
@@ -144,8 +147,8 @@ class Bible {
 	// Wiki
 	//***********************************************************************
 
-	writeToWiki = (dirPath) => {
-		return this.writeTo(dirPath, 'wiki');
+	writeToWiki = (dirPath, bibleref) => {
+		return this.writeTo(dirPath, 'wiki', bibleref);
 	};
 
 	writeToWikiXML = (dirPath, merge) => {
@@ -192,10 +195,11 @@ class Bible {
 		});
 	};
 
-	writeFileToWiki = (filePath, chapter) => {
+	writeFileToWiki = (filePath, book_abb, chapter, chapter_bibleref) => {
 		return new Promise((resolve, reject) => {
 			let wiki = '';
 			const end = '\r\n\r\n';
+			let fnAdded = false;
 			const writePar = (par) => {
 				const v = par.substring(0, par.indexOf(' '));
 				const p = par.substring(par.indexOf(' '));
@@ -203,7 +207,12 @@ class Bible {
 				const anchor = (isNumber ? `{{anchor|${v}}} ` : '');
 				const vers = (isNumber ? `<small>${v}</small>` : '');
 				const text = (isNumber ? p : par);
-				wiki += `${anchor}${vers}${text}<br>\r\n`;
+				const footnotes = (isNumber ? this.footnotesToWiki(book_abb, 
+					parseInt(chapter.title), parseInt(v), chapter_bibleref) : '');
+				if (footnotes != '') {
+					fnAdded = true;
+				}
+				wiki += `${anchor}${vers}${text}${footnotes}<br>\r\n`;
 			};
 			chapter.pars.forEach(writePar);
 
@@ -211,6 +220,10 @@ class Bible {
 				wiki += `== ${section.title} ==${end}`;
 				section.pars.forEach(writePar);
 			});
+
+			if (fnAdded) {
+				wiki += `== Referencias ==${end}<references />\r\n`;
+			}
 
 			fs.writeFile(filePath, wiki, 'utf-8', (err) => {
 				if (err) {
@@ -259,6 +272,45 @@ class Bible {
 		});
 	};
 
+	footnotesToWiki = (book_abb, chapter, vers, chapter_bibleref) => {
+		let wiki = '';
+		if (!chapter_bibleref || !chapter_bibleref[vers - 1] ||
+			!Array.isArray(chapter_bibleref[vers - 1]) ||
+			chapter_bibleref[vers - 1].length === 0) {
+			return wiki;
+		}
+		const name = `${book_abb}_${chapter}_${vers}`;
+		// const ref = `${book_abb} ${chapter}:${vers}`;
+		chapter_bibleref[vers - 1].forEach(ref => {
+			let list, lus;
+			if (!ref.used) {
+				list = chapter_bibleref[vers - 1]
+					.filter(r => r.text === ref.text);
+				lus = list
+					.map(r => r.lu_ref)
+					.sort()
+					.map(lu =>this.getLULink(lu))
+					.join('; ');
+				wiki += ` <ref>${ref.bible_ref} ''${ref.text}'': ${lus}.</ref>`;
+				list.forEach(r => r.used = true);
+			}
+		});
+		return wiki;
+	};
+
+	getLULink = (lu_ref) => {
+		let link = '';
+		let ref = lu_ref.replace(/[:.,-]/g,"|");
+		let data = ref.split('|');
+		if (data.length > 3) {
+			data = data.slice(0 , 3);
+			link = `{{lib|LU|${data[0]}|${data[1]}|${data[2]}|${lu_ref}}}`;
+		} else {
+			link = `{{lib|LU|${ref}}}`;
+		}
+		return link;
+	};
+
 	//***********************************************************************
 	// Help functions
 	//***********************************************************************
@@ -267,7 +319,7 @@ class Bible {
 		return new Error(`${file}, línea ${linenum}: ${msg}`);
 	};
 
-	writeTo = (dirPath, format) => {
+	writeTo = (dirPath, format, bibleref) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
@@ -277,12 +329,21 @@ class Bible {
 				}
 				let promises = [];
 				this.biblebooks.forEach(book => {
-					book.chapters.forEach(chapter => {
+					book.chapters.forEach((chapter, n) => {
+						const fileName = book.title.replace(/ /g, '_');
 						const filePath = path.join(dirPath, 
-							`${book.file}_${chapter.title}.${format}`);
-						let p;
+							`${fileName}_${chapter.title}.${format}`);
+						let p, book_bibleref, chapter_bibleref;
+						if (bibleref) {
+							book_bibleref = bibleref.biblebooks.find(b => 
+								b.file === fileName);
+							if (book_bibleref) {
+								chapter_bibleref = book_bibleref.chapters[n];
+							}
+						}
 						if (format = 'wiki') {
-							p = this.writeFileToWiki(filePath, chapter);
+							p = this.writeFileToWiki(filePath, book.abb, chapter, 
+								chapter_bibleref);
 							promises.push(reflectPromise(p));
 						}
 					});

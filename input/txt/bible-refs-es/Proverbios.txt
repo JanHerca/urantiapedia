@@ -40,7 +40,7 @@ Proverbios	15:1	#	150:9.3/#	Una respuesta suave aplaca el furor	C	#
 Proverbios	15:1	#	139:4.13/#	La respuesta dulce desvía el furor	R	#
 Proverbios	15:1a	#	149:4.2/#	Una respuesta suave desvía el furor	R	#
 Proverbios	15:1b	#	149:4.2/#	Las palabras ásperas despiertan la cólera	R	#
-Proverbios	15	#	95:4.5/#	From Book of Wisdom	S	PROBLEM
+Proverbios	15:1	#	95:4.5/#	From Book of Wisdom	S	PROBLEM
 Proverbios	15:3	#	3:3.1/#	Los ojos del Señor en todas partes	R	#
 Proverbios	15:13	#	149:5.2/#	Un corazón alegre es un semblante jovial	R	#
 Proverbios	15:15	#	149:5.2/#	Un corazón alegre es una fiesta contínua	R	#
@@ -53,7 +53,7 @@ Proverbios	16:32	#	28:6.20/#	Conquista una ciudad	R	#
 Proverbios	16:32	#	131:2.6/#	El que gobierna su propio espíritu es más poderoso	R	#
 Proverbios	16:32	#	143:2.3/#	Aquel que se gobierna a sí mismo es grande	C	#
 Proverbios	16:33	#	2:1.2/#	Determinador Universal	C	#
-Proverbios	17	#	95:4.5/#	Del Libro de la Sabiduría	S	#
+Proverbios	17:1	#	95:4.5/#	Del Libro de la Sabiduría	S	#
 Proverbios	17:6	#	84:7.10/#	Amor por los nietos	C	#
 Proverbios	17:6	#	66:7.4/#	Amor por los nietos	C	#
 Proverbios	17:22	#	149:5.2/#	Un corazón alegre es un buen medicamento	R	#
@@ -62,7 +62,7 @@ Proverbios	18:16	#	133:6.2/#	El talento es el que asegura la posición	R	#
 Proverbios	18:24	#	130:7.2/#	Un hombre que quiere amigos debe ser amistoso	R	#
 Proverbios	18:24	#	193:3.2/#	Si quieres amigos sé amistoso	S	#
 Proverbios	19:11	#	149:4.2/#	La discreción difiere la cólera	R	#
-Proverbios	20	#	95:4.5/#	Del Libro de la Sabiduría	S	#
+Proverbios	20:1	#	95:4.5/#	Del Libro de la Sabiduría	S	#
 Proverbios	20:4	#	69:2.5/#	El que no trabaje no comerá	R	#
 Proverbios	20:22	#	140:8.5/#	Advertencia contra la venganza	S	#
 Proverbios	20:27	#	149:5.2/#	El espíritu del hombre es la vela del Señor	R	#
@@ -74,7 +74,7 @@ Proverbios	22:6	#	84:7.30/#	Crianza de los hijos	C	#
 Proverbios	22:8	#	131:2.9/#	Recogerás lo que siembres	R	#
 Proverbios	22:17-29	#	95:4.5/#	Del Libro de la Sabiduría	S	#
 Proverbios	22:28	#	69:9.13/#	Respeto por las marcas territoriales	C	#
-Proverbios	23	#	95:4.5/#	Del Libro de la Sabiduría	S	#
+Proverbios	23:1	#	95:4.5/#	Del Libro de la Sabiduría	S	#
 Proverbios	23:5	#	95:4.3/#	Las riquezas cogen alas y emprenden el vuelo	R	#
 Proverbios	23:6	#	87:5.4/#	Mal de ojo	C	#
 Proverbios	23:7	#	131:2.8/#	Tal como un hombre piensa, así es él	R	#

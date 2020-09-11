@@ -647,7 +647,7 @@ class Book {
 			if (wfootnotes.length > 0) {
 				wiki += `== Referencias ==${end}<references>\r\n`;
 				wfootnotes.forEach(f => wiki += f);
-				wiki += '</references>'
+				wiki += '</references>';
 			}
 			if (error) {
 				reject(new Error(`${filePath}: ${error}`));

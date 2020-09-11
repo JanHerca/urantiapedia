@@ -231,7 +231,7 @@ Deuteronomio	25:5-6	#	174:3.1/#	La enseñanza de Moisés sobre el levirato	S	#
 Deuteronomio	27:5-6	#	92:2.2/#	Altar de piedra no labrada	R	#
 Deuteronomio	27:17	#	69:9.13/#	Maldiciones si se destruían marcas territoriales	R	#
 Deuteronomio	28:1-8	#	148:6.2/#	Dios bendice al fiel	C	#
-Deuteronomio	28	#	96:5.6/#	Dios mata cuando desobedecéis	R	#
+Deuteronomio	28:1	#	96:5.6/#	Dios mata cuando desobedecéis	R	#
 Deuteronomio	28:15	#	152:2.1/#	If not harken to God, curses	R	PROBLEM
 Deuteronomio	28:25	#	152:2.1/#	Smitten by enemies	R	PROBLEM
 Deuteronomio	28:36-37	#	152:2.1/#	Become a byword	R	PROBLEM

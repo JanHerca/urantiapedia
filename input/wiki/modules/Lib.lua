@@ -7,11 +7,23 @@ function p.ref( frame )
     local name = ''
     local chapter = ''
     local ver = ''
+    local doc = ''
+    local sec = ''
+    local par = ''
+    local lu_extended = ''
     if targs[2] ~= nil then
         chapter = targs[2]
+        doc = targs[2]
     end
     if targs[3] ~= nil then
         ver = targs[3]
+        sec = targs[3]
+    end
+    if targs[4] ~= nil then
+        par = targs[4]
+    end
+    if targs[5] ~= nil then
+        lu_extended = targs[5]
     end
     if ab == 'LU' then
         name = 'El_Libro_de_Urantia_Doc'
@@ -175,7 +187,20 @@ function p.ref( frame )
     local v = ''
     
     if name == 'El_Libro_de_Urantia_Doc' then
-        -- Falta de hacer la extracción del rango de párrafos
+        local anchor = 'LU_' .. doc
+        if sec ~= '' then
+            anchor = anchor .. '_' .. sec
+            text = text .. ':' .. sec
+        end
+        if par ~= '' then
+            anchor = anchor .. '_' .. par
+        end
+        if lu_extended ~= '' then
+            text = text .. '.' .. lu_extended
+        elseif par ~= '' then
+            text = text .. '.' .. par
+        end
+        url = url .. '#' .. anchor
     else
         -- Extraemos el primer versículo del rango de versículos, si hay
         if ver ~= '' then

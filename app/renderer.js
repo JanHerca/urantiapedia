@@ -45,12 +45,7 @@ const handle_exeButtonClick = () => {
 	book.onProgressFn = onProgress;
 	const process = controls.drpProcess.value;
 	const okMsgs = ['Conversión realizada con éxito'];
-	if (process === 'ctw' && checkControls(['dirTTextbox', 'dirWTextbox'])) {
-		// Leemos Referencias Biblia en formato TXT y escribimos Wiki
-		bibleref.readFromTXT(controls.dirTTextbox.value)
-			.then(() => console.log(bibleref.biblebooks))
-			.catch(onFail);
-	} else if (process ==='ttt' && checkControls(['dirJTextbox', 'dirTTextbox'])) {
+	if (process ==='ttt' && checkControls(['dirJTextbox', 'dirTTextbox'])) {
 		// Leemos LU en formato JSON, luego leemos Referencias Biblia en formato TXT,
 		// y escribimos los TXT traducidos
 		book.readFromJSON(controls.dirJTextbox.value)
@@ -99,12 +94,18 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeToWikiXML(controls.dirWTextbox.value))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cblw' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
-		// Leemos Biblia en formato LaTeX y escribimos Wiki
-		bible.readFromLaTeX(controls.dirLTextbox.value)
-			.then(() => bible.writeToWiki(controls.dirWTextbox.value))
-			.then(() => onSuccess(okMsgs))
-			.catch(onFail);
+	} else if (process === 'cblw' && checkControls(['dirTTextbox', 'dirLTextbox', 'dirWTextbox'])) {
+		// Leemos Referencias Biblia en formato TXT,
+		// luego leemos Biblia en formato LaTeX y escribimos Wiki
+		bibleref.readFromTXT(controls.dirTTextbox.value)
+			.then(() => {
+				bible.readFromLaTeX(controls.dirLTextbox.value)
+					.then(() => {
+						bible.writeToWiki(controls.dirWTextbox.value, bibleref)
+						.then(() => onSuccess(okMsgs))
+						.catch(onFail);
+					}).catch(onFail);
+			}).catch(onFail);
 	} else if (process === 'cblx' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
 		// Leemos Biblia en formato LaTeX y escribimos Wiki XML
 		bible.readFromLaTeX(controls.dirLTextbox.value)

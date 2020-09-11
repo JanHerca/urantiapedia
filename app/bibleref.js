@@ -1,12 +1,12 @@
 //Reader/Writer para pasar las refs de la Biblia de unos TXT en los *.wiki
 
 const LaTeXSeparator = require('./enums').LaTeXSeparator;
+const BibleAbb = require('./enums').BibleAbb;
 const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
 const fs = require('fs');
 const path = require('path');
-const BibleAbb = require('./enums').BibleAbb;
 
 class BibleRef {
 	biblebooks = [];
@@ -83,6 +83,7 @@ class BibleRef {
 
 	extractFromTXT = (baseName, lines, errors) => {
 		const book = {
+			name: baseName,
 			file: path.basename(baseName, '.txt'),
 			chapters: []
 		};
