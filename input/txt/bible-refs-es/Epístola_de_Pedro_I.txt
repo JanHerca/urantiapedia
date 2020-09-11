@@ -14,8 +14,8 @@ Epístola_de_Pedro_I	1:16	#	137:8.13/#	Sed perfectos	C	#
 Epístola_de_Pedro_I	1:16	#	142:7.13/#	Sed perfectos	C	#
 Epístola_de_Pedro_I	1:16	#	140:10.1/#	Sed perfectos	C	#
 Epístola_de_Pedro_I	1:16	#	56:0.1/#	Sed perfectos como yo soy	R	#
-Epístola_de_Pedro_I	1:16	#	26:4.5/#	Be you perfect	R	PROBLEM
-Epístola_de_Pedro_I	1:16	#	1:0.6/#	Be you perfect	C	PROBLEM
+Epístola_de_Pedro_I	1:16	#	26:4.5/#	Sed perfectos	R	#
+Epístola_de_Pedro_I	1:16	#	1:0.6/#	Sed perfectos	C	#
 Epístola_de_Pedro_I	1:16	#	31:3.6/#	Sed perfectos	R	#
 Epístola_de_Pedro_I	1:16	#	7:5.1/#	Sed perfectos	R	#
 Epístola_de_Pedro_I	1:16	#	26:11.4/#	Sed perfectos	C	#
@@ -28,7 +28,7 @@ Epístola_de_Pedro_I	1:16	#	40:7.4/#	Sed perfectos	R	#
 Epístola_de_Pedro_I	1:16	#	37:5.3/#	Sed perfectos	R	#
 Epístola_de_Pedro_I	1:16	#	106:2.6/#	Sed perfectos	C	#
 Epístola_de_Pedro_I	1:16	#	131:2.6/#	Sé perfecto	R	#
-Epístola_de_Pedro_I	1:16	#	143:2.6/#	Seek perfection+	C	PROBLEM
+Epístola_de_Pedro_I	1:16	#	143:2.6/#	Buscad la perfección+	C	#
 Epístola_de_Pedro_I	1:16	#	161:1.10/#	Sed perfectos	C	#
 Epístola_de_Pedro_I	1:16	#	7:4.7/#	Sed perfectos	R	#
 Epístola_de_Pedro_I	1:18-19	#	89:9.3/#	Jesús visto como sacrificio humano	C	#
@@ -51,7 +51,7 @@ Epístola_de_Pedro_I	2:2	#	133:4.2/#	La leche de la verdad espiritual	R	#
 Epístola_de_Pedro_I	2:2	#	156:2.6/#	No continuar siendo niños en evangelio	C	#
 Epístola_de_Pedro_I	2:2	#	193:2.2/#	Crecer en el espíritu	S	#
 Epístola_de_Pedro_I	2:9	#	52:7.13/#	Una generación elegida	R	#
-Epístola_de_Pedro_I	2:13	#	0:2.12/#	God the Supreme+	C	PROBLEM
+Epístola_de_Pedro_I	2:13	#	0:2.12/#	Dios el Supremo+	C	#
 Epístola_de_Pedro_I	2:15-16	#	54:1.1/#	La verdadera y la falsa libertad	C	#
 Epístola_de_Pedro_I	2:17	#	170:2.20/#	Brotherhood of man	S	PROBLEM
 Epístola_de_Pedro_I	2:21-23	#	196:2.1/#	Los relatos de Pedro sobre la vida de Jesús	S	#

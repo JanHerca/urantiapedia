@@ -1,4 +1,4 @@
-Epístola_a_los_Tesalonicenses_II	1:1-2	#	141:4.2/#	God is our Father+	C	PROBLEM
+Epístola_a_los_Tesalonicenses_II	1:1-2	#	141:4.2/#	Dios es nuestro Padre	C	#
 Epístola_a_los_Tesalonicenses_II	1:1-2	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
 Epístola_a_los_Tesalonicenses_II	1:1-2	#	131:10.5/#	Dios es «mi» padre	C	#
 Epístola_a_los_Tesalonicenses_II	1:1-2	#	131:10.6/#	Relación entre padre e hijo	C	#

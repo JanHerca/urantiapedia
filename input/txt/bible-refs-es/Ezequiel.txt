@@ -24,9 +24,9 @@ Ezequiel	10:21	#	39:5.12/#	Escudos de fricción	C	#
 Ezequiel	11:13	#	97:9.21/#	El resto de Israel	R	#
 Ezequiel	11:19	#	194:3.19/#	El Espíritu de la Verdad purifica el corazón	C	#
 Ezequiel	11:19	#	52:5.6/#	Espíritu derramado sobre toda carne	R	#
-Ezequiel	11:19	#	21:5.7/#	Spirit of Truth+	C	PROBLEM
+Ezequiel	11:19	#	21:5.7/#	El Espíritu de la Verdad	C	#
 Ezequiel	11:19	#	32:5.8/#	Espíritu de la Verdad	C	#
-Ezequiel	11:19	#	120:2.6/#	Spirit of Truth+	C	PROBLEM
+Ezequiel	11:19	#	120:2.6/#	El Espíritu de la Verdad	C	#
 Ezequiel	11:19	#	181:1.4/#	Derramaré mi espíritu sobre toda la carne	C	#
 Ezequiel	11:19	#	120:2.4/#	Espíritu de la Verdad	C	#
 Ezequiel	11:19	#	181:2.14/#	Seguid al nuevo instructor en vuestros corazones	C	#
@@ -34,7 +34,7 @@ Ezequiel	11:19	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
 Ezequiel	11:19	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
 Ezequiel	11:19	#	180:3.3/#	Promesa del confortador	C	#
 Ezequiel	11:19	#	20:6.8/#	Espíritu de la Verdad	C	#
-Ezequiel	11:19	#	20:1.6/#	Son poured out spirit on flesh+	C	PROBLEM
+Ezequiel	11:19	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
 Ezequiel	11:19	#	193:5.2/#	Envío del Espíritu de la Verdad	C	#
 Ezequiel	11:19	#	191:6.3/#	El Espíritu de la Verdad	C	#
 Ezequiel	11:19	#	180:6.3/#	El Espíritu de la Verdad	C	#
@@ -44,14 +44,14 @@ Ezequiel	11:19	#	121:7.5/#	Nuevo espiritu que vive en el corazón de los hombres
 Ezequiel	11:19	#	146:3.6/#	El Espíritu de la Verdad	C	#
 Ezequiel	11:19	#	34:7.1/#	Espíritu de la Verdad	C	#
 Ezequiel	11:19	#	181:2.17/#	El nuevo instructor en el corazón	C	#
-Ezequiel	11:19	#	141:4.5/#	Jesus to pour out His spirit+	C	PROBLEM
+Ezequiel	11:19	#	141:4.5/#	Jesús envió Su Espíritu	C	#
 Ezequiel	11:19	#	137:8.7/#	Espíritu de la Verdad	C	#
 Ezequiel	11:19	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
 Ezequiel	11:19	#	194:2.2/#	Soledad de los creyentes si no viniera al corazón	C	#
 Ezequiel	11:19	#	34:5.5/#	Espíritu de la Verdad	C	#
 Ezequiel	11:19	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
 Ezequiel	11:19	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
-Ezequiel	11:19	#	34:4.1/#	Spirit of Truth+	C	PROBLEM
+Ezequiel	11:19	#	34:4.1/#	El Espíritu de la Verdad	C	#
 Ezequiel	12:2	#	157:2.2/#	No sea que vuestros ojos no vean y vuestros oídos no oigan	C	#
 Ezequiel	14:1-23	#	97:8.3/#	Ezequiel y el servicio y la devoción	C	#
 Ezequiel	14:23	#	2:3.1/#	No actúa sin una causa	R	#
@@ -60,7 +60,7 @@ Ezequiel	18:1-9	#	97:10.7/#	Ezequiel y la responsabilidad moral	C	#
 Ezequiel	18:2-4	#	145:2.7/#	Sólo el alma pecadora morirá	C	#
 Ezequiel	18:21-23,27	#	131:10.4/#	Dios ama incluso a los perversos	C	#
 Ezequiel	18:31	#	180:3.3/#	Promesa del confortador	C	#
-Ezequiel	18:31	#	21:5.7/#	Spirit of Truth+	C	PROBLEM
+Ezequiel	18:31	#	21:5.7/#	El Espíritu de la Verdad	C	#
 Ezequiel	18:31	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
 Ezequiel	18:31	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
 Ezequiel	18:31	#	32:5.8/#	Espíritu de la Verdad	C	#
@@ -74,20 +74,20 @@ Ezequiel	18:31	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
 Ezequiel	18:31	#	52:5.6/#	Espíritu derramado sobre toda carne	R	#
 Ezequiel	18:31	#	137:8.7/#	Espíritu de la Verdad	C	#
 Ezequiel	18:31	#	143:2.4/#	Transformación	C	#
-Ezequiel	18:31	#	120:2.6/#	Spirit of Truth+	C	PROBLEM
+Ezequiel	18:31	#	120:2.6/#	El Espíritu de la Verdad	C	#
 Ezequiel	18:31	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
-Ezequiel	18:31	#	34:4.1/#	Spirit of Truth+	C	PROBLEM
+Ezequiel	18:31	#	34:4.1/#	El Espíritu de la Verdad	C	#
 Ezequiel	18:31	#	181:1.5/#	El Espíritu de la Verdad reside en los corazones	C	#
 Ezequiel	18:31	#	34:7.1/#	Espíritu de la Verdad	C	#
 Ezequiel	18:31	#	20:6.8/#	Espíritu de la Verdad	C	#
-Ezequiel	18:31	#	141:4.5/#	Jesus to pour out His spirit+	C	PROBLEM
+Ezequiel	18:31	#	141:4.5/#	Jesús envió Su Espíritu	C	#
 Ezequiel	18:31	#	193:5.2/#	Envío del Espíritu de la Verdad	C	#
 Ezequiel	18:31	#	121:7.5/#	Nuevo espiritu que vive en el corazón de los hombres	R	#
 Ezequiel	18:31	#	181:2.17/#	El nuevo instructor en el corazón	C	#
 Ezequiel	18:31	#	120:2.4/#	Espíritu de la Verdad	C	#
 Ezequiel	18:31	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
 Ezequiel	18:31	#	181:1.4/#	Derramaré mi espíritu sobre toda la carne	C	#
-Ezequiel	18:31	#	20:1.6/#	Son poured out spirit on flesh+	C	PROBLEM
+Ezequiel	18:31	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
 Ezequiel	24:14	#	2:2.2/#	No se arrepiente (por elección)	C	#
 Ezequiel	24:14	#	4:3.4/#	Dios no se arrepiente (por elección)	C	#
 Ezequiel	28:13	#	43:6.1/#	Los jardines de Dios	R	#
@@ -111,7 +111,7 @@ Ezequiel	36:26-27	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
 Ezequiel	36:26-27	#	180:4.5/#	Os enviaré mi «espíritu»	C	#
 Ezequiel	36:26-27	#	181:2.17/#	El nuevo instructor en el corazón	C	#
 Ezequiel	36:26-27	#	180:3.3/#	Promesa del confortador	C	#
-Ezequiel	36:26-27	#	141:4.5/#	Jesus to pour out His spirit+	C	PROBLEM
+Ezequiel	36:26-27	#	141:4.5/#	Jesús envió Su Espíritu	C	#
 Ezequiel	36:26-27	#	181:1.4/#	Derramaré mi espíritu sobre toda la carne	C	#
 Ezequiel	36:26-27	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
 Ezequiel	36:26-27	#	194:2.2/#	Soledad de los creyentes si no viniera al corazón	C	#
@@ -119,9 +119,9 @@ Ezequiel	36:26-27	#	121:7.5/#	Nuevo espiritu que vive en el corazón de los homb
 Ezequiel	36:26-27	#	194:3.19/#	El Espíritu de la Verdad purifica el corazón	C	#
 Ezequiel	36:26-27	#	34:5.5/#	Espíritu de la Verdad	C	#
 Ezequiel	36:26-27	#	32:5.8/#	Espíritu de la Verdad	C	#
-Ezequiel	36:26-27	#	20:1.6/#	Son poured out spirit on flesh+	C	PROBLEM
+Ezequiel	36:26-27	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
 Ezequiel	36:26-27	#	52:5.6/#	Espíritu derramado sobre toda carne	R	#
-Ezequiel	36:26-27	#	21:5.7/#	Spirit of Truth+	C	PROBLEM
+Ezequiel	36:26-27	#	21:5.7/#	El Espíritu de la Verdad	C	#
 Ezequiel	36:26-27	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
 Ezequiel	36:26-27	#	181:1.5/#	El Espíritu de la Verdad reside en los corazones	C	#
 Ezequiel	36:26-27	#	20:6.8/#	Espíritu de la Verdad	C	#
@@ -132,8 +132,8 @@ Ezequiel	36:26-27	#	120:2.4/#	Espíritu de la Verdad	C	#
 Ezequiel	36:26-27	#	146:3.6/#	El Espíritu de la Verdad	C	#
 Ezequiel	36:26-27	#	180:6.3/#	El Espíritu de la Verdad	C	#
 Ezequiel	36:26-27	#	137:8.7/#	Espíritu de la Verdad	C	#
-Ezequiel	36:26-27	#	120:2.6/#	Spirit of Truth+	C	PROBLEM
-Ezequiel	36:26-27	#	34:4.1/#	Spirit of Truth+	C	PROBLEM
+Ezequiel	36:26-27	#	120:2.6/#	El Espíritu de la Verdad	C	#
+Ezequiel	36:26-27	#	34:4.1/#	El Espíritu de la Verdad	C	#
 Ezequiel	36:26-27	#	34:7.1/#	Espíritu de la Verdad	C	#
 Ezequiel	36:27	#	3:1.4/#	Vive en nosotros	R	#
 Ezequiel	36:27	#	3:1.4/#	Vive en nosotros	R	#
@@ -150,12 +150,12 @@ Ezequiel	37:14	#	148:6.10/#	Dios habita dentro de ti	C	#
 Ezequiel	37:14	#	34:6.7/#	Espíritu de Dios en el hombre	C	#
 Ezequiel	37:14	#	133:4.5/#	El espíritu de Dios vive en nosotros	C	#
 Ezequiel	37:14	#	141:2.1/#	El espíritu de Dios dentro de nosotros	C	#
-Ezequiel	37:14	#	170:2.20/#	Kingdom of God within+	C	PROBLEM
+Ezequiel	37:14	#	170:2.20/#	El Reino de Dios dentro de nosotros	C	#
 Ezequiel	37:14	#	5:2.3/#	El espíritu viviendo dentro	C	#
 Ezequiel	37:14	#	12:7.12/#	Dios vive en nosotros	C	#
 Ezequiel	37:14	#	140:1.5/#	El reino es Dios dentro de vosotros	C	#
 Ezequiel	37:14	#	3:1.4/#	Vive en nosotros	R	#
-Ezequiel	37:14	#	170:1.8/#	Kingdom within you	S	PROBLEM
+Ezequiel	37:14	#	170:1.8/#	El reino dentro de ti	S	#
 Ezequiel	37:14	#	131:10.4/#	El espíritu de Dios está en el corazón del hombre	C	#
 Ezequiel	37:14	#	131:10.2/#	El espíritu de Dios habita en nuestra alma	C	#
 Ezequiel	37:14	#	107:4.7/#	El Ajustador, espíritu interior	C	#

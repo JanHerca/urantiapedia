@@ -13,7 +13,7 @@ Números	11:1	#	4:3.2/#	La visión de Dios como colérico o airado	C	#
 Números	11:33	#	142:2.1/#	Un Dios de gran ira e intenso furor	C	#
 Números	12:1	#	82:5.6/#	Exogamia	C	#
 Números	12:3	#	140:5.16/#	Moisés, el afligido	C	#
-Números	12:6	#	86:5.7/#	God "speaking" in dreams+	C	PROBLEM
+Números	12:6	#	86:5.7/#	Dios "habla" en sueños	C	#
 Números	14:17	#	1:1.4/#	El poder de Dios	C	#
 Números	14:17	#	131:10.3/#	Dios es todopoderoso	C	#
 Números	14:17	#	142:3.7/#	Todopoderoso	C	#

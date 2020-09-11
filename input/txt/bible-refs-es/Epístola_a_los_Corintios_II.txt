@@ -1,7 +1,7 @@
 Epístola_a_los_Corintios_II	1:1	#	194:4.7/#	Se llamaban unos a otros hermanos y hermanas	C	#
 Epístola_a_los_Corintios_II	1:2	#	131:10.8/#	La relación de padre e hijo	C	#
 Epístola_a_los_Corintios_II	1:2	#	131:10.5/#	Dios es «mi» padre	C	#
-Epístola_a_los_Corintios_II	1:2	#	141:4.2/#	God is our Father+	C	PROBLEM
+Epístola_a_los_Corintios_II	1:2	#	141:4.2/#	Dios es nuestro Padre	C	#
 Epístola_a_los_Corintios_II	1:2	#	131:10.6/#	Relación entre padre e hijo	C	#
 Epístola_a_los_Corintios_II	1:2	#	149:6.8/#	Dios es nuestro Padre	C	#
 Epístola_a_los_Corintios_II	1:2	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
@@ -53,14 +53,14 @@ Epístola_a_los_Corintios_II	6:16	#	3:1.4/#	Vive en nosotros	R	#
 Epístola_a_los_Corintios_II	6:16	#	143:2.4/#	Seréis los templos de Dios	C	#
 Epístola_a_los_Corintios_II	6:16	#	131:10.4/#	El espíritu de Dios está en el corazón del hombre	C	#
 Epístola_a_los_Corintios_II	6:16	#	2:5.6/#	Su espíritu vive en nosotros	C	#
-Epístola_a_los_Corintios_II	6:16	#	170:2.20/#	Kingdom of God within+	C	PROBLEM
+Epístola_a_los_Corintios_II	6:16	#	170:2.20/#	El Reino de Dios dentro de nosotros	C	#
 Epístola_a_los_Corintios_II	6:16	#	5:2.3/#	El espíritu viviendo dentro	C	#
 Epístola_a_los_Corintios_II	6:16	#	12:7.12/#	Dios vive en nosotros	C	#
 Epístola_a_los_Corintios_II	6:16	#	140:1.5/#	El reino es Dios dentro de vosotros	C	#
 Epístola_a_los_Corintios_II	6:16	#	195:10.4/#	El reino de Dios está dentro de vosotros	S	#
 Epístola_a_los_Corintios_II	6:16	#	103:1.6/#	El espíritu en el hombre (Ajustador del Pensamiento)	C	#
 Epístola_a_los_Corintios_II	6:16	#	16:9.4/#	El espíritu de Dios vive en nosotros	C	#
-Epístola_a_los_Corintios_II	6:16	#	170:1.8/#	Kingdom within you	S	PROBLEM
+Epístola_a_los_Corintios_II	6:16	#	170:1.8/#	El reino dentro de ti	S	#
 Epístola_a_los_Corintios_II	6:16	#	34:6.7/#	Sois el templo de Dios, y os habita el espíritu	C	#
 Epístola_a_los_Corintios_II	6:16	#	141:2.1/#	El espíritu de Dios dentro de nosotros	C	#
 Epístola_a_los_Corintios_II	6:16	#	1:4.2/#	El cuerpo es el templo de Dios	R	#
@@ -73,11 +73,11 @@ Epístola_a_los_Corintios_II	6:18	#	5:4.8/#	Somos hijos de Dios	C	#
 Epístola_a_los_Corintios_II	6:18	#	131:10.5/#	Dios es «mi» padre	C	#
 Epístola_a_los_Corintios_II	6:18	#	170:2.8/#	Los hijos salvados de Dios	S	#
 Epístola_a_los_Corintios_II	6:18	#	2:5.4/#	Somos hijos de Dios	C	#
-Epístola_a_los_Corintios_II	6:18	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+Epístola_a_los_Corintios_II	6:18	#	170:2.20/#	Hijos de Dios liberados	C	#
 Epístola_a_los_Corintios_II	6:18	#	131:10.6/#	Relación entre padre e hijo	C	#
 Epístola_a_los_Corintios_II	6:18	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
 Epístola_a_los_Corintios_II	6:18	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
-Epístola_a_los_Corintios_II	6:18	#	141:4.2/#	God is our Father+	C	PROBLEM
+Epístola_a_los_Corintios_II	6:18	#	141:4.2/#	Dios es nuestro Padre	C	#
 Epístola_a_los_Corintios_II	6:18	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
 Epístola_a_los_Corintios_II	6:18	#	131:10.8/#	La relación de padre e hijo	C	#
 Epístola_a_los_Corintios_II	6:18	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
@@ -95,10 +95,10 @@ Epístola_a_los_Corintios_II	6:18	#	153:2.4/#	Fraternidad de los hijos de Dios	C
 Epístola_a_los_Corintios_II	6:18	#	140:1.6/#	Hijos del Dios viviente	C	#
 Epístola_a_los_Corintios_II	6:18	#	40:6.1/#	Hijos de Dios por la fe	C	#
 Epístola_a_los_Corintios_II	6:18	#	149:6.8/#	Dios es nuestro Padre	C	#
-Epístola_a_los_Corintios_II	6:18	#	140:3.16/#	Sons of living God+	C	PROBLEM
+Epístola_a_los_Corintios_II	6:18	#	140:3.16/#	Hijos del Dios viviente	C	#
 Epístola_a_los_Corintios_II	6:18	#	131:10.2/#	Somos los hijos de Dios	C	#
-Epístola_a_los_Corintios_II	6:18	#	141:4.2/#	We are God's children+	C	PROBLEM
-Epístola_a_los_Corintios_II	6:18	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+Epístola_a_los_Corintios_II	6:18	#	141:4.2/#	Somos los hijos de Dios	C	#
+Epístola_a_los_Corintios_II	6:18	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
 Epístola_a_los_Corintios_II	6:18	#	143:2.7/#	Los hijos liberados de Dios	C	#
 Epístola_a_los_Corintios_II	6:18	#	142:5.2/#	Hijos de Dios	C	#
 Epístola_a_los_Corintios_II	6:18	#	34:6.10/#	Hijos de Dios	C	#
@@ -118,13 +118,13 @@ Epístola_a_los_Corintios_II	11:14	#	67:1.1/#	Satanás, brillante criatura	R	#
 Epístola_a_los_Corintios_II	11:22	#	121:1.2/#	Pablo, hebreo entre los hebreos	S	#
 Epístola_a_los_Corintios_II	11:31	#	194:3.11/#	Padre del Señor Jesucristo	C	#
 Epístola_a_los_Corintios_II	11:31	#	194:4.6/#	Padre del Señor Jesucristo	R	#
-Epístola_a_los_Corintios_II	12:2	#	48:6.12/#	Caught up in third heaven	R	PROBLEM
+Epístola_a_los_Corintios_II	12:2	#	48:6.12/#	Elevado al tercer cielo	R	#
 Epístola_a_los_Corintios_II	12:4	#	19:7.1/#	Paraíso	C	#
 Epístola_a_los_Corintios_II	12:4	#	0:4.11/#	El Paraíso	C	#
-Epístola_a_los_Corintios_II	12:7	#	48:4.14/#	Ego deflation+	C	PROBLEM
+Epístola_a_los_Corintios_II	12:7	#	48:4.14/#	Desenaltecerse	C	#
 Epístola_a_los_Corintios_II	12:18	#	194:4.7/#	Se llamaban unos a otros hermanos y hermanas	C	#
 Epístola_a_los_Corintios_II	13:5	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
-Epístola_a_los_Corintios_II	13:5	#	34:4.1/#	Spirit of Truth+	C	PROBLEM
+Epístola_a_los_Corintios_II	13:5	#	34:4.1/#	El Espíritu de la Verdad	C	#
 Epístola_a_los_Corintios_II	13:5	#	32:5.8/#	Espíritu de la Verdad	C	#
 Epístola_a_los_Corintios_II	13:5	#	180:6.3/#	El Espíritu de la Verdad	C	#
 Epístola_a_los_Corintios_II	13:5	#	180:3.3/#	Promesa del confortador	C	#
@@ -136,17 +136,17 @@ Epístola_a_los_Corintios_II	13:5	#	121:7.5/#	Nuevo espiritu que vive en el cora
 Epístola_a_los_Corintios_II	13:5	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
 Epístola_a_los_Corintios_II	13:5	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
 Epístola_a_los_Corintios_II	13:5	#	193:5.2/#	Envío del Espíritu de la Verdad	C	#
-Epístola_a_los_Corintios_II	13:5	#	21:5.7/#	Spirit of Truth+	C	PROBLEM
+Epístola_a_los_Corintios_II	13:5	#	21:5.7/#	El Espíritu de la Verdad	C	#
 Epístola_a_los_Corintios_II	13:5	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
 Epístola_a_los_Corintios_II	13:5	#	20:6.8/#	Espíritu de la Verdad	C	#
 Epístola_a_los_Corintios_II	13:5	#	181:2.14/#	Seguid al nuevo instructor en vuestros corazones	C	#
-Epístola_a_los_Corintios_II	13:5	#	20:1.6/#	Son poured out spirit on flesh+	C	PROBLEM
+Epístola_a_los_Corintios_II	13:5	#	20:1.6/#	El Hijo vertió el espíritu sobre la carne	C	#
 Epístola_a_los_Corintios_II	13:5	#	34:7.1/#	Espíritu de la Verdad	C	#
 Epístola_a_los_Corintios_II	13:5	#	137:8.7/#	Espíritu de la Verdad	C	#
-Epístola_a_los_Corintios_II	13:5	#	120:2.6/#	Spirit of Truth+	C	PROBLEM
+Epístola_a_los_Corintios_II	13:5	#	120:2.6/#	El Espíritu de la Verdad	C	#
 Epístola_a_los_Corintios_II	13:5	#	120:2.4/#	Espíritu de la Verdad	C	#
 Epístola_a_los_Corintios_II	13:5	#	146:3.6/#	El Espíritu de la Verdad	C	#
-Epístola_a_los_Corintios_II	13:5	#	141:4.5/#	Jesus to pour out His spirit+	C	PROBLEM
+Epístola_a_los_Corintios_II	13:5	#	141:4.5/#	Jesús envió a Su Espíritu	C	#
 Epístola_a_los_Corintios_II	13:5	#	52:5.6/#	Espíritu derramado sobre toda carne	R	#
 Epístola_a_los_Corintios_II	13:5	#	34:5.5/#	Espíritu de la Verdad	C	#
 Epístola_a_los_Corintios_II	13:11	#	106:2.6/#	Sed perfectos	C	#
@@ -158,15 +158,15 @@ Epístola_a_los_Corintios_II	13:11	#	181:1.2/#	Convertirse en perfectos espiritu
 Epístola_a_los_Corintios_II	13:11	#	181:2.25/#	Perfecionarse espiritualmente	C	#
 Epístola_a_los_Corintios_II	13:11	#	156:5.11/#	El amor divino	C	#
 Epístola_a_los_Corintios_II	13:11	#	13:2.8/#	Ser perfectos	C	#
-Epístola_a_los_Corintios_II	13:11	#	143:2.6/#	Seek perfection+	C	PROBLEM
-Epístola_a_los_Corintios_II	13:11	#	196:3.16/#	Religion of LOVE+	C	PROBLEM
+Epístola_a_los_Corintios_II	13:11	#	143:2.6/#	Buscad la perfección+	C	#
+Epístola_a_los_Corintios_II	13:11	#	196:3.16/#	Una religión de AMOR	C	#
 Epístola_a_los_Corintios_II	13:11	#	195:10.4/#	Dios es un espíritu amoroso	C	#
 Epístola_a_los_Corintios_II	13:11	#	7:5.1/#	Sed perfectos	R	#
 Epístola_a_los_Corintios_II	13:11	#	7:4.7/#	Sed perfectos	R	#
 Epístola_a_los_Corintios_II	13:11	#	99:5.3/#	Sed perfectos	C	#
 Epístola_a_los_Corintios_II	13:11	#	26:11.4/#	Sed perfectos	R	#
 Epístola_a_los_Corintios_II	13:11	#	26:9.3/#	Sed perfectos	R	#
-Epístola_a_los_Corintios_II	13:11	#	26:4.5/#	Be you perfect	R	PROBLEM
+Epístola_a_los_Corintios_II	13:11	#	26:4.5/#	Sed perfectos	R	#
 Epístola_a_los_Corintios_II	13:11	#	161:1.10/#	Sed perfectos	C	#
 Epístola_a_los_Corintios_II	13:11	#	140:10.1/#	Sed perfectos	C	#
 Epístola_a_los_Corintios_II	13:11	#	142:7.13/#	Sed perfectos	C	#
@@ -176,7 +176,7 @@ Epístola_a_los_Corintios_II	13:11	#	140:5.15/#	Sed perfectos	R	#
 Epístola_a_los_Corintios_II	13:11	#	1:0.3/#	Sed perfectos	C	#
 Epístola_a_los_Corintios_II	13:11	#	40:7.4/#	Sed perfectos	R	#
 Epístola_a_los_Corintios_II	13:11	#	131:2.6/#	Sé perfecto	R	#
-Epístola_a_los_Corintios_II	13:11	#	1:0.6/#	Be you perfect	C	PROBLEM
+Epístola_a_los_Corintios_II	13:11	#	1:0.6/#	Sed perfectos	C	#
 Epístola_a_los_Corintios_II	13:11	#	137:8.13/#	Sed perfectos	C	#
 Epístola_a_los_Corintios_II	13:11	#	140:3.16/#	Sed perfectos	C	#
 Epístola_a_los_Corintios_II	13:11	#	140:4.11/#	Sed perfectos	C	#

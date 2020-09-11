@@ -1,6 +1,6 @@
-Epístola_a_Tito	1:2	#	101:6.8/#	Eternal life+	C	PROBLEM
+Epístola_a_Tito	1:2	#	101:6.8/#	Vida eterna	C	#
 Epístola_a_Tito	1:2	#	121:5.11/#	Vida después de la muerte	C	#
-Epístola_a_Tito	1:2	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Epístola_a_Tito	1:2	#	170:2.20/#	Vida eterna / sin fin	C	#
 Epístola_a_Tito	1:2	#	2:2.1/#	Vida eterna	C	#
 Epístola_a_Tito	1:2	#	146:3.7/#	La vida eterna	C	#
 Epístola_a_Tito	1:2	#	153:2.11/#	Los que creen tienen vida eterna	C	#
@@ -17,9 +17,9 @@ Epístola_a_Tito	1:2	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
 Epístola_a_Tito	1:2	#	128:1.10/#	Dador de la vida eterna	C	#
 Epístola_a_Tito	1:5	#	130:6.5/#	Creyentes cretenses	C	#
 Epístola_a_Tito	1:10-16	#	130:5.1/#	Duras palabras de Pablo	S	#
-Epístola_a_Tito	1:16	#	1:2.3/#	God consciousness	C	PROBLEM
+Epístola_a_Tito	1:16	#	1:2.3/#	Consciencia de Dios	C	#
 Epístola_a_Tito	2:11	#	190:4.1/#	Evangelio de salvación	C	#
-Epístola_a_Tito	2:11	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Epístola_a_Tito	2:11	#	190:5.4/#	Evangelio de salvación de Dios	C	#
 Epístola_a_Tito	2:13	#	182:1.10/#	I am the hope of all living truth	C	PROBLEM
 Epístola_a_Tito	2:13-14	#	170:5.6/#	Jesús el Redentor de la Iglesia	C	#
 Epístola_a_Tito	2:14	#	89:9.3/#	Jesús visto como sacrificio humano	C	#
@@ -31,7 +31,7 @@ Epístola_a_Tito	3:4	#	131:10.4/#	Dios ama incluso a los perversos	C	#
 Epístola_a_Tito	3:4	#	156:5.11/#	El amor divino	C	#
 Epístola_a_Tito	3:4	#	118:10.5/#	Dios ama a cada criatura como a un hijo	C	#
 Epístola_a_Tito	3:5	#	34:6.5/#	Conformes con su misericordia	R	#
-Epístola_a_Tito	3:7	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Epístola_a_Tito	3:7	#	170:2.20/#	Vida eterna / sin fin	C	#
 Epístola_a_Tito	3:7	#	170:2.2/#	La esperanza de la vida eterna	S	#
 Epístola_a_Tito	3:7	#	128:1.10/#	Dador de la vida eterna	C	#
 Epístola_a_Tito	3:7	#	121:5.11/#	Vida después de la muerte	C	#
@@ -42,7 +42,7 @@ Epístola_a_Tito	3:7	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	
 Epístola_a_Tito	3:7	#	153:2.11/#	Los que creen tienen vida eterna	C	#
 Epístola_a_Tito	3:7	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
 Epístola_a_Tito	3:7	#	181:2.11/#	La vida eterna en el reino venidero	C	#
-Epístola_a_Tito	3:7	#	101:6.8/#	Eternal life+	C	PROBLEM
+Epístola_a_Tito	3:7	#	101:6.8/#	Vida eterna	C	#
 Epístola_a_Tito	3:7	#	162:2.7/#	Vida eterna	C	#
 Epístola_a_Tito	3:7	#	162:7.5/#	Los creyentes nunca morirán	C	#
 Epístola_a_Tito	3:7	#	2:2.1/#	Vida eterna	C	#

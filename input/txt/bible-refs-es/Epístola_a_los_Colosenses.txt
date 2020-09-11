@@ -2,7 +2,7 @@ Epístola_a_los_Colosenses	1:1	#	194:4.7/#	Se llamaban unos a otros hermanos y h
 Epístola_a_los_Colosenses	1:2	#	131:10.6/#	Relación entre padre e hijo	C	#
 Epístola_a_los_Colosenses	1:2	#	131:10.8/#	La relación de padre e hijo	C	#
 Epístola_a_los_Colosenses	1:2	#	149:6.8/#	Dios es nuestro Padre	C	#
-Epístola_a_los_Colosenses	1:2	#	141:4.2/#	God is our Father+	C	PROBLEM
+Epístola_a_los_Colosenses	1:2	#	141:4.2/#	Dios es nuestro Padre	C	#
 Epístola_a_los_Colosenses	1:2	#	131:10.5/#	Dios es «mi» padre	C	#
 Epístola_a_los_Colosenses	1:2	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
 Epístola_a_los_Colosenses	1:3	#	194:4.6/#	Padre del Señor Jesucristo	R	#
@@ -29,7 +29,7 @@ Epístola_a_los_Colosenses	1:17	#	56:1.5/#	En él radican todas las cosas	R	#
 Epístola_a_los_Colosenses	1:17	#	3:5.4/#	Existe antes que todas las cosas	R	#
 Epístola_a_los_Colosenses	1:17	#	3:1.2/#	Es todo en todo	C	#
 Epístola_a_los_Colosenses	1:17	#	131:10.2/#	Todas las cosas radican en él	C	#
-Epístola_a_los_Colosenses	1:17	#	104:4.25/#	In him all things consist	R	PROBLEM
+Epístola_a_los_Colosenses	1:17	#	104:4.25/#	En Él todas las cosas consisten	R	#
 Epístola_a_los_Colosenses	1:17	#	174:3.2/#	La relación de Dios con todas las cosas	C	#
 Epístola_a_los_Colosenses	1:17	#	11:8.1/#	En Dios todas las cosas consisten	C	#
 Epístola_a_los_Colosenses	1:17	#	56:9.14/#	Dios es todo y está en todo	C	#
@@ -37,7 +37,7 @@ Epístola_a_los_Colosenses	1:17	#	128:1.10/#	Aquel que era antes de todas las co
 Epístola_a_los_Colosenses	1:17	#	42:1.2/#	Todas las cosas radican en él	R	#
 Epístola_a_los_Colosenses	1:17,19	#	9:0.4/#	En Dios todas las cosas consisten	C	#
 Epístola_a_los_Colosenses	1:18	#	170:5.17/#	Cristo se convirtió en la «cabeza de la iglesia»	S	#
-Epístola_a_los_Colosenses	1:27	#	182:1.10/#	I am the hope of all living truth	C	PROBLEM
+Epístola_a_los_Colosenses	1:27	#	182:1.10/#	Yo soy la esperanza de toda verdad viviente	C	#
 Epístola_a_los_Colosenses	2:2	#	5:4.2/#	Seguridad profunda	C	#
 Epístola_a_los_Colosenses	2:3	#	128:1.10/#	Tesoros de la sabiduría y del conocimiento	C	#
 Epístola_a_los_Colosenses	2:3	#	128:7.2/#	En él estaban ocultos todos los tesoros de la sabiduría	R	#
@@ -62,7 +62,7 @@ Epístola_a_los_Colosenses	3:11	#	190:3.1/#	En el reino no habrá diferencias	C	
 Epístola_a_los_Colosenses	3:11	#	139:10.9/#	Jesús no hacía acepción de personas	C	#
 Epístola_a_los_Colosenses	3:11	#	190:4.1/#	Ni judíos ni gentiles	S	#
 Epístola_a_los_Colosenses	3:11	#	3:1.2/#	Es todo en todo	R	#
-Epístola_a_los_Colosenses	3:11	#	112:0.10/#	God is no respecter of persons	C	PROBLEM
+Epístola_a_los_Colosenses	3:11	#	112:0.10/#	Dios no hace acepción de personas	C	#
 Epístola_a_los_Colosenses	3:11	#	40:10.13/#	Dios no hace acepción de personas	C	#
 Epístola_a_los_Colosenses	3:11	#	1:4.6/#	Dios no hace acepción de personas	C	#
 Epístola_a_los_Colosenses	3:11	#	133:0.3/#	Dios no hace acepción de personas	C	#

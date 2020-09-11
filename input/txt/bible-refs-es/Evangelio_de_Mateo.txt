@@ -8,14 +8,14 @@ Evangelio_de_Mateo	1:14-15	#	196:2.6/#	El evangelio del reino	C	#
 Evangelio_de_Mateo	1:14-16	#	122:4.3/#	Antepasado adoptado	C	#
 Evangelio_de_Mateo	1:16-21,24-25	#	122:1.3/#	Los padres de Jesús	S	#
 Evangelio_de_Mateo	1:18-21,24-25	#	122:5.9/#	La boda de los padres de Jesús	S	#
-Evangelio_de_Mateo	1:20	#	86:5.7/#	God "speaking" in dreams+	C	PROBLEM
+Evangelio_de_Mateo	1:20	#	86:5.7/#	Dios "habla" en sueños	C	#
 Evangelio_de_Mateo	1:20,24	#	37:2.3/#	El ángel del Señor	R	#
 Evangelio_de_Mateo	1:20-21,24	#	122:4.1/#	El sueño de José	S	#
 Evangelio_de_Mateo	1:21	#	190:5.4/#	Nos salvará de los pecados	C	#
 Evangelio_de_Mateo	1:21,25	#	122:3.1/#	El nombre de Jesús	S	#
-Evangelio_de_Mateo	1:22-23	#	121:8.4/#	Cites prophecy Is 7:14	R	PROBLEM
+Evangelio_de_Mateo	1:22-23	#	121:8.4/#	Citas de profecías Is 7:14	R	#
 Evangelio_de_Mateo	1:22-23	#	122:4.4/#	No virgin birth	C	PROBLEM
-Evangelio_de_Mateo	1:22-23	#	122:4.4/#	Messianic prophecy: Is 7:14	R	PROBLEM
+Evangelio_de_Mateo	1:22-23	#	122:4.4/#	Profecía mesiánica: Is 7:14	R	#
 Evangelio_de_Mateo	1:23	#	128:1.10/#	Dios con nosotros	C	#
 Evangelio_de_Mateo	1:24	#	122:7.1/#	Joseph weds Mary	S	PROBLEM
 Evangelio_de_Mateo	1:25b	#	122:8.1/#	Nacimiento de Jesús	S	#
@@ -28,8 +28,8 @@ Evangelio_de_Mateo	2:1-12	#	119:7.5/#	Visita de los magos	C	#
 Evangelio_de_Mateo	2:1-12	#	122:8.6/#	Visita de los hombres sabios	S	#
 Evangelio_de_Mateo	2:2	#	90:2.7/#	La buena estrella	C	#
 Evangelio_de_Mateo	2:2,7,9-10	#	122:8.7/#	No hubo estrella en Belén	S	#
-Evangelio_de_Mateo	2:5-6	#	122:4.4/#	Messianic prophecy: Mi 5:2	R	PROBLEM
-Evangelio_de_Mateo	2:5-6	#	121:8.4/#	Cites prophecy Mi 5:2	R	PROBLEM
+Evangelio_de_Mateo	2:5-6	#	122:4.4/#	Profecía mesiánica: Mi 5:2	R	#
+Evangelio_de_Mateo	2:5-6	#	121:8.4/#	Citas de profecías Mi 5:2	R	#
 Evangelio_de_Mateo	2:7,9-10	#	90:2.5/#	Astrología	C	#
 Evangelio_de_Mateo	2:7-9a	#	122:10.1/#	Herodes envía a los sabios a buscar al niño	S	#
 Evangelio_de_Mateo	2:11	#	122:1.3/#	Los padres de Jesús	S	#
@@ -37,17 +37,17 @@ Evangelio_de_Mateo	2:13	#	122:10.4/#	El aviso	S	#
 Evangelio_de_Mateo	2:13,19	#	37:2.3/#	El ángel del Señor	R	#
 Evangelio_de_Mateo	2:14	#	122:10.4/#	Huida a Egipto	S	#
 Evangelio_de_Mateo	2:14	#	95:5.2/#	Jesús en Egipto	C	#
-Evangelio_de_Mateo	2:15	#	121:8.4/#	Cites prophecy Ho 11:1	R	PROBLEM
-Evangelio_de_Mateo	2:15	#	122:4.4/#	Messianic prophecy: Ho 11:1	R	PROBLEM
+Evangelio_de_Mateo	2:15	#	121:8.4/#	Citas de profecías Ho 11:1	R	#
+Evangelio_de_Mateo	2:15	#	122:4.4/#	Profecía mesiánica: Ho 11:1	R	#
 Evangelio_de_Mateo	2:15a,19-21	#	122:10.4/#	Longitud de la estancia	S	#
 Evangelio_de_Mateo	2:16	#	122:10.3/#	Asesinato de los bebés varones	S	#
 Evangelio_de_Mateo	2:16a	#	122:10.1/#	Enfado de Herodes	S	#
-Evangelio_de_Mateo	2:17-18	#	121:8.4/#	Cites prophecy Je 31:15	R	PROBLEM
-Evangelio_de_Mateo	2:17-18	#	122:4.4/#	Messianic prophecy: Je 31:15	R	PROBLEM
+Evangelio_de_Mateo	2:17-18	#	121:8.4/#	Citas de profecías Je 31:15	R	#
+Evangelio_de_Mateo	2:17-18	#	122:4.4/#	Profecía mesiánica: Je 31:15	R	#
 Evangelio_de_Mateo	2:21	#	123:0.3/#	Retraso en el regreso	C	#
 Evangelio_de_Mateo	2:22-23	#	123:0.5/#	Elección de Nazaret como hogar	S	#
-Evangelio_de_Mateo	2:23	#	121:8.4/#	Cites prophecy Jg 13:5	R	PROBLEM
-Evangelio_de_Mateo	2:23	#	122:4.4/#	Messianic prophecy: Jg 13:5	R	PROBLEM
+Evangelio_de_Mateo	2:23	#	121:8.4/#	Citas de profecías Jg 13:5	R	#
+Evangelio_de_Mateo	2:23	#	122:4.4/#	Profecía mesiánica: Jg 13:5	R	#
 Evangelio_de_Mateo	3:1	#	135:2.3/#	«Desierto» de Judea	C	#
 Evangelio_de_Mateo	3:1	#	135:6.1/#	Juan comienza a predicar	S	#
 Evangelio_de_Mateo	3:1-2	#	170:1.3/#	El concepto de Juan el Bautista	S	#
@@ -130,8 +130,8 @@ Evangelio_de_Mateo	4:10	#	136:9.3/#	Servir sólo al Señor Dios	R	#
 Evangelio_de_Mateo	4:10	#	53:8.4/#	Ve detrás de mí, Satanás	R	#
 Evangelio_de_Mateo	4:10	#	133:4.9/#	Adora sólo a Dios	C	#
 Evangelio_de_Mateo	4:12,17	#	137:8.2/#	Jesús oye que Juan está en prisión	S	#
-Evangelio_de_Mateo	4:14-16	#	122:4.4/#	Messianic prophecy: Is 9:1-2	R	PROBLEM
-Evangelio_de_Mateo	4:14-16	#	121:8.4/#	Cites prophecy Is 9:1-2	R	PROBLEM
+Evangelio_de_Mateo	4:14-16	#	122:4.4/#	Profecía mesiánica: Is 9:1-2	R	#
+Evangelio_de_Mateo	4:14-16	#	121:8.4/#	Citas de profecías Is 9:1-2	R	#
 Evangelio_de_Mateo	4:16	#	107:4.5/#	Luminosidad espiritual	C	#
 Evangelio_de_Mateo	4:16	#	162:5.2/#	Jesús es la luz del mundo	S	#
 Evangelio_de_Mateo	4:16	#	40:5.16/#	True light+	C	PROBLEM
@@ -181,7 +181,7 @@ Evangelio_de_Mateo	4:23	#	145:5.8/#	Comienzo de la primera gira de predicación	
 Evangelio_de_Mateo	4:23	#	150:5.2/#	Evangelio del reino	C	#
 Evangelio_de_Mateo	4:23	#	191:6.3/#	El evangelio del reino	C	#
 Evangelio_de_Mateo	4:23	#	138:6.3/#	El evangelio del reino	C	#
-Evangelio_de_Mateo	4:23	#	139:7.6/#	Gospel of the kingdom+	C	PROBLEM
+Evangelio_de_Mateo	4:23	#	139:7.6/#	Evangelio del reino	C	#
 Evangelio_de_Mateo	4:23	#	140:0.1/#	El evangelio del reino	C	#
 Evangelio_de_Mateo	4:23	#	194:0.1/#	El evangelio del reino	C	#
 Evangelio_de_Mateo	4:23	#	137:2.2/#	Jesús en Galilea	S	#
@@ -227,7 +227,7 @@ Evangelio_de_Mateo	5:9	#	140:5.18/#	Los pacificadores serán llamados hijos de D
 Evangelio_de_Mateo	5:9,16,16,45	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
 Evangelio_de_Mateo	5:9,16,45	#	181:2.12/#	Los creyentes, hijos de Dios	C	#
 Evangelio_de_Mateo	5:9,16,45	#	140:1.6/#	Hijos del Dios viviente	C	#
-Evangelio_de_Mateo	5:9,16,45	#	140:3.16/#	Sons of living God+	C	PROBLEM
+Evangelio_de_Mateo	5:9,16,45	#	140:3.16/#	Hijos del Dios viviente	C	#
 Evangelio_de_Mateo	5:9,16,45	#	149:2.10/#	Hijos del Dios viviente	C	#
 Evangelio_de_Mateo	5:9,16,45	#	196:0.2/#	Cada criatura mortal es un hijo de Dios	C	#
 Evangelio_de_Mateo	5:9,16,45	#	131:10.2/#	Somos los hijos de Dios	C	#
@@ -244,7 +244,7 @@ Evangelio_de_Mateo	5:9,16,45	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
 Evangelio_de_Mateo	5:9,16,45	#	1:3.1/#	Progenie de Dios	C	#
 Evangelio_de_Mateo	5:9,16,45	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
 Evangelio_de_Mateo	5:9,16,45	#	190:3.1/#	El evangelio de la filiación	C	#
-Evangelio_de_Mateo	5:9,16,45	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+Evangelio_de_Mateo	5:9,16,45	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
 Evangelio_de_Mateo	5:9,16,45	#	193:1.2/#	Todos los hombres son hijos de Dios	C	#
 Evangelio_de_Mateo	5:9,16,45	#	34:6.10/#	Hijos de Dios	C	#
 Evangelio_de_Mateo	5:9,16,45	#	149:6.8/#	Nosotros somos sus hijos	C	#
@@ -252,10 +252,10 @@ Evangelio_de_Mateo	5:9,16,45	#	131:10.8/#	La relación de padre e hijo	C	#
 Evangelio_de_Mateo	5:9,16,45	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
 Evangelio_de_Mateo	5:9,16,45	#	5:4.8/#	Somos hijos de Dios	C	#
 Evangelio_de_Mateo	5:9,16,45	#	143:2.7/#	Los hijos liberados de Dios	C	#
-Evangelio_de_Mateo	5:9,16,45	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+Evangelio_de_Mateo	5:9,16,45	#	170:2.20/#	Hijos de Dios liberados	C	#
 Evangelio_de_Mateo	5:9,16,45	#	170:2.20/#	Hijos de Dios	S	#
 Evangelio_de_Mateo	5:9,16,45	#	40:6.1/#	Hijos de Dios por la fe	C	#
-Evangelio_de_Mateo	5:9,16,45	#	141:4.2/#	We are God's children+	C	PROBLEM
+Evangelio_de_Mateo	5:9,16,45	#	141:4.2/#	Somos los hijos de Dios	C	#
 Evangelio_de_Mateo	5:9,16,45,48	#	149:6.8/#	Dios es nuestro Padre	C	#
 Evangelio_de_Mateo	5:9,16,45,48	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
 Evangelio_de_Mateo	5:9,16,45,48	#	142:3.8/#	El Padre que está en los Cielos	C	#
@@ -277,7 +277,7 @@ Evangelio_de_Mateo	5:16,16,45,48	#	131:10.2/#	Dios es nuestro Padre celestial	C	
 Evangelio_de_Mateo	5:16,45	#	96:1.9/#	Padre que está en los Cielos	C	#
 Evangelio_de_Mateo	5:16,45,48	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
 Evangelio_de_Mateo	5:16,45,48	#	100:7.16/#	Padre nuestro que estás en los cielos	C	#
-Evangelio_de_Mateo	5:16,45,48	#	141:4.2/#	God is our Father+	C	PROBLEM
+Evangelio_de_Mateo	5:16,45,48	#	141:4.2/#	Dios es nuestro Padre	C	#
 Evangelio_de_Mateo	5:16,45,48	#	196:0.2/#	El Padre del cielo	C	#
 Evangelio_de_Mateo	5:17	#	140:6.2/#	No vengo a transgredir la ley, sino a completarla	C	#
 Evangelio_de_Mateo	5:20	#	140:6.3/#	Una rectitud mayor	C	#
@@ -316,7 +316,7 @@ Evangelio_de_Mateo	5:43-44	#	180:5.7/#	Amar al prójimo como a uno mismo	S	#
 Evangelio_de_Mateo	5:43-44	#	159:5.9/#	Ama a tu prójimo como a ti mismo	R	#
 Evangelio_de_Mateo	5:43-44	#	131:2.11/#	Ama a tu prójimo como a ti mismo	R	#
 Evangelio_de_Mateo	5:43-44	#	131:10.2/#	Amar al prójimo como a uno mismo	C	#
-Evangelio_de_Mateo	5:43-44	#	131:2.13/#	Love neighbors as yourself	R	PROBLEM
+Evangelio_de_Mateo	5:43-44	#	131:2.13/#	Ama a tu prójimo como a ti mismo	R	#
 Evangelio_de_Mateo	5:43-44	#	142:1.1/#	Love neighbor as self	C	PROBLEM
 Evangelio_de_Mateo	5:43-44:	#	181:2.4/#	Amarse uno a otro	S	#
 Evangelio_de_Mateo	5:43-45	#	195:10.4/#	Dios es un espíritu amoroso	C	#
@@ -340,7 +340,7 @@ Evangelio_de_Mateo	5:45-48	#	165:3.8/#	He venido a revelaros al Padre	C	#
 Evangelio_de_Mateo	5:45-48	#	20:10.3/#	Los Hijos Creadores revelan al Padre	C	#
 Evangelio_de_Mateo	5:45b	#	166:4.4/#	El sol brilla sobre todos	S	#
 Evangelio_de_Mateo	5:48	#	140:10.1/#	Sed perfectos	C	#
-Evangelio_de_Mateo	5:48	#	26:4.5/#	Be you perfect	R	PROBLEM
+Evangelio_de_Mateo	5:48	#	26:4.5/#	Sed perfectos	R	#
 Evangelio_de_Mateo	5:48	#	56:0.1/#	Sed perfectos como yo soy	R	#
 Evangelio_de_Mateo	5:48	#	140:5.15/#	Sed perfectos	R	#
 Evangelio_de_Mateo	5:48	#	161:1.10/#	Sed perfectos	C	#
@@ -359,10 +359,10 @@ Evangelio_de_Mateo	5:48	#	13:2.8/#	Ser perfectos	C	#
 Evangelio_de_Mateo	5:48	#	131:2.6/#	Sé perfecto	R	#
 Evangelio_de_Mateo	5:48	#	37:5.3/#	Sed perfectos	R	#
 Evangelio_de_Mateo	5:48	#	7:4.7/#	Sed perfectos	R	#
-Evangelio_de_Mateo	5:48	#	143:2.6/#	Seek perfection+	C	PROBLEM
+Evangelio_de_Mateo	5:48	#	143:2.6/#	Buscad la perfección+	C	#
 Evangelio_de_Mateo	5:48	#	1:0.3/#	Sed perfectos	C	#
 Evangelio_de_Mateo	5:48	#	106:2.6/#	Sed perfectos	C	#
-Evangelio_de_Mateo	5:48	#	1:0.6/#	Be you perfect	C	PROBLEM
+Evangelio_de_Mateo	5:48	#	1:0.6/#	Sed perfectos	C	#
 Evangelio_de_Mateo	5:48	#	99:5.3/#	Sed perfectos	C	#
 Evangelio_de_Mateo	5:48	#	7:5.1/#	Sed perfectos	R	#
 Evangelio_de_Mateo	5:48	#	140:8.32/#	Sed perfectos	C	#
@@ -375,7 +375,7 @@ Evangelio_de_Mateo	6:1,4,6	#	20:10.3/#	Los Hijos Creadores revelan al Padre	C	#
 Evangelio_de_Mateo	6:1,9,14	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
 Evangelio_de_Mateo	6:1,9,14	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
 Evangelio_de_Mateo	6:1,9,14	#	131:10.6/#	Relación entre padre e hijo	C	#
-Evangelio_de_Mateo	6:1,9,14	#	141:4.2/#	God is our Father+	C	PROBLEM
+Evangelio_de_Mateo	6:1,9,14	#	141:4.2/#	Dios es nuestro Padre	C	#
 Evangelio_de_Mateo	6:1,9,14	#	142:3.8/#	El Padre que está en los Cielos	C	#
 Evangelio_de_Mateo	6:1,9,14	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
 Evangelio_de_Mateo	6:1,9,14	#	149:6.8/#	Dios es nuestro Padre	C	#
@@ -416,7 +416,7 @@ Evangelio_de_Mateo	6:10	#	195:6.16/#	Hacer la voluntad del Padre	R	#
 Evangelio_de_Mateo	6:10	#	160:1.11/#	«Que no se haga mi voluntad, sino la tuya»	R	#
 Evangelio_de_Mateo	6:10	#	0:5.10/#	Hacer la voluntad del Padre	R	#
 Evangelio_de_Mateo	6:10	#	196:0.8/#	La voluntad de Dios	R	#
-Evangelio_de_Mateo	6:10	#	1:2.3/#	Desire to do Father's will+	C	PROBLEM
+Evangelio_de_Mateo	6:10	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
 Evangelio_de_Mateo	6:10	#	140:8.20/#	Haced voluntariamente la «voluntad» de Dios	C	#
 Evangelio_de_Mateo	6:12,14-15	#	170:3.4/#	Somos perdonados en tanto perdonamos	S	#
 Evangelio_de_Mateo	6:12,14-15	#	133:4.7/#	Justicia, equidad, misericordia	C	#
@@ -456,7 +456,7 @@ Evangelio_de_Mateo	6:26,32	#	131:10.5/#	Dios es «mi» padre	C	#
 Evangelio_de_Mateo	6:26,32	#	131:10.6/#	Relación entre padre e hijo	C	#
 Evangelio_de_Mateo	6:26,32	#	196:0.2/#	El Padre del cielo	C	#
 Evangelio_de_Mateo	6:26,32	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
-Evangelio_de_Mateo	6:26:32	#	141:4.2/#	God is our Father+	C	PROBLEM
+Evangelio_de_Mateo	6:26:32	#	141:4.2/#	Dios es nuestro Padre	C	#
 Evangelio_de_Mateo	6:28-30	#	165:5.3/#	Oh, hombres de poca fe	S	#
 Evangelio_de_Mateo	6:31	#	165:5.2/#	No estéis ansiosos por las cosas	S	#
 Evangelio_de_Mateo	6:31-32	#	165:5.3/#	El Padre provee de las necesidades	S	#
@@ -500,7 +500,7 @@ Evangelio_de_Mateo	7:11	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
 Evangelio_de_Mateo	7:11	#	131:10.8/#	La relación de padre e hijo	C	#
 Evangelio_de_Mateo	7:11	#	149:6.8/#	Dios es nuestro Padre	C	#
 Evangelio_de_Mateo	7:11	#	170:2.20/#	Family fellowship with God+	C	PROBLEM
-Evangelio_de_Mateo	7:11	#	141:4.2/#	God is our Father+	C	PROBLEM
+Evangelio_de_Mateo	7:11	#	141:4.2/#	Dios es nuestro Padre	C	#
 Evangelio_de_Mateo	7:11	#	131:10.5/#	Dios es «mi» padre	C	#
 Evangelio_de_Mateo	7:11,21	#	196:0.2/#	El Padre del cielo	C	#
 Evangelio_de_Mateo	7:11,21	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
@@ -535,7 +535,7 @@ Evangelio_de_Mateo	7:21	#	140:8.20/#	Haced voluntariamente la «voluntad» de Di
 Evangelio_de_Mateo	7:21	#	131:10.2/#	Viviendo su voluntad podemos revelarlo	C	#
 Evangelio_de_Mateo	7:21	#	117:0.1/#	Hacer la voluntad de Dios	C	#
 Evangelio_de_Mateo	7:21	#	0:5.10/#	Hacer la voluntad del Padre	R	#
-Evangelio_de_Mateo	7:21	#	1:2.3/#	Desire to do Father's will+	C	PROBLEM
+Evangelio_de_Mateo	7:21	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
 Evangelio_de_Mateo	7:21	#	196:0.2/#	Hacer la voluntad del Padre de los cielos	R	#
 Evangelio_de_Mateo	7:21	#	193:0.4/#	Evangelio del reino	C	#
 Evangelio_de_Mateo	7:21	#	118:8.11/#	Es mi voluntad que se haga tu voluntad	R	#
@@ -588,8 +588,8 @@ Evangelio_de_Mateo	8:13	#	147:1.3/#	La curación del sirviente	S	#
 Evangelio_de_Mateo	8:14	#	139:2.1/#	La mujer de Simón y su suegra	S	#
 Evangelio_de_Mateo	8:14-15	#	145:2.15/#	La suegra de Pedro, enferma	S	#
 Evangelio_de_Mateo	8:16	#	145:3.2/#	La multitud a la puesta de sol	S	#
-Evangelio_de_Mateo	8:17	#	122:4.4/#	Messianic prophecy: Is 53:4	R	PROBLEM
-Evangelio_de_Mateo	8:17	#	121:8.4/#	Cites prophecy Is 53:4	R	PROBLEM
+Evangelio_de_Mateo	8:17	#	122:4.4/#	Profecía mesiánica: Is 53:4	R	#
+Evangelio_de_Mateo	8:17	#	121:8.4/#	Citas de profecías Is 53:4	R	#
 Evangelio_de_Mateo	8:18	#	151:5.1/#	Cruzando al otro lado del lago	S	#
 Evangelio_de_Mateo	8:18-22	#	149:2.12/#	Tres hombres rehusaron la llamada	S	#
 Evangelio_de_Mateo	8:19	#	129:1.11/#	El Maestro	R	#
@@ -662,7 +662,7 @@ Evangelio_de_Mateo	9:35	#	34:6.13/#	Reino	C	#
 Evangelio_de_Mateo	9:35	#	191:6.3/#	El evangelio del reino	C	#
 Evangelio_de_Mateo	9:35	#	143:1.5/#	El evangelio del reino	C	#
 Evangelio_de_Mateo	9:35	#	193:0.4/#	Evangelio del reino	C	#
-Evangelio_de_Mateo	9:35	#	139:7.6/#	Gospel of the kingdom+	C	PROBLEM
+Evangelio_de_Mateo	9:35	#	139:7.6/#	Evangelio del reino	C	#
 Evangelio_de_Mateo	9:35	#	140:0.1/#	El evangelio del reino	C	#
 Evangelio_de_Mateo	9:35	#	138:6.3/#	El evangelio del reino	C	#
 Evangelio_de_Mateo	9:35	#	176:1.1/#	Evangelio del reino	C	#
@@ -743,8 +743,8 @@ Evangelio_de_Mateo	10:20	#	146:3.5/#	Espíritu viviente del Padre	C	#
 Evangelio_de_Mateo	10:20	#	148:6.10/#	Dios habita dentro de ti	C	#
 Evangelio_de_Mateo	10:20	#	131:10.2/#	El espíritu de Dios habita en nuestra alma	C	#
 Evangelio_de_Mateo	10:20	#	133:4.4/#	Dios habita en tu alma	C	#
-Evangelio_de_Mateo	10:20	#	170:1.8/#	Kingdom within you	S	PROBLEM
-Evangelio_de_Mateo	10:20	#	170:2.20/#	Kingdom of God within+	C	PROBLEM
+Evangelio_de_Mateo	10:20	#	170:1.8/#	El reino dentro de ti	S	#
+Evangelio_de_Mateo	10:20	#	170:2.20/#	El Reino de Dios dentro de nosotros	C	#
 Evangelio_de_Mateo	10:20	#	16:9.4/#	El espíritu de Dios vive en nosotros	C	#
 Evangelio_de_Mateo	10:20	#	195:10.4/#	El reino de Dios está dentro de vosotros	S	#
 Evangelio_de_Mateo	10:20	#	5:2.3/#	El espíritu viviendo dentro	C	#
@@ -776,7 +776,7 @@ Evangelio_de_Mateo	10:29-31	#	150:4.3/#	Los gorriones no valen nada; los cabello
 Evangelio_de_Mateo	10:29-31	#	165:3.4/#	Los gorriones caen, los cabellos están contados	S	#
 Evangelio_de_Mateo	10:30	#	38:2.3/#	Los cabellos de la cabeza están contados	R	#
 Evangelio_de_Mateo	10:30	#	3:3.1/#	Vuestros cabellos están contados	R	#
-Evangelio_de_Mateo	10:32-33	#	141:4.2/#	God is our Father+	C	PROBLEM
+Evangelio_de_Mateo	10:32-33	#	141:4.2/#	Dios es nuestro Padre	C	#
 Evangelio_de_Mateo	10:32-33	#	196:0.2/#	El Padre del cielo	C	#
 Evangelio_de_Mateo	10:32-33	#	2:5.2/#	Quienquiera puede venir	C	#
 Evangelio_de_Mateo	10:32-33	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
@@ -870,8 +870,8 @@ Evangelio_de_Mateo	12:9-14	#	169:0.6/#	Cura en sábado	S	#
 Evangelio_de_Mateo	12:13b-14	#	148:7.3/#	La mano queda curada	S	#
 Evangelio_de_Mateo	12:16	#	149:1.2/#	No se lo digáis a nadie	S	#
 Evangelio_de_Mateo	12:16	#	136:8.1/#	Que no contaran nada sobre el acortamiento del tiempo	S	#
-Evangelio_de_Mateo	12:17-21	#	122:4.4/#	Messianic prophecy: Is 42:1-4	R	PROBLEM
-Evangelio_de_Mateo	12:17-21	#	121:8.4/#	Cites prophecy Is 42:1-4	R	PROBLEM
+Evangelio_de_Mateo	12:17-21	#	122:4.4/#	Profecía mesiánica: Is 42:1-4	R	#
+Evangelio_de_Mateo	12:17-21	#	121:8.4/#	Citas de profecías Is 42:1-4	R	#
 Evangelio_de_Mateo	12:19	#	178:1.17/#	No luchéis contra los hombres	S	#
 Evangelio_de_Mateo	12:22	#	153:4.1/#	Curación de un endemoniado	S	#
 Evangelio_de_Mateo	12:22-28	#	169:0.7/#	Aliado con los demonios	S	#
@@ -929,7 +929,7 @@ Evangelio_de_Mateo	12:50	#	131:10.7/#	Hermandad espiritual	C	#
 Evangelio_de_Mateo	12:50	#	159:5.8/#	Jesús enseña la acción positiva	C	#
 Evangelio_de_Mateo	12:50	#	118:8.11/#	Es mi voluntad que se haga tu voluntad	R	#
 Evangelio_de_Mateo	12:50	#	140:8.20/#	Haced voluntariamente la «voluntad» de Dios	C	#
-Evangelio_de_Mateo	12:50	#	1:2.3/#	Desire to do Father's will+	C	PROBLEM
+Evangelio_de_Mateo	12:50	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
 Evangelio_de_Mateo	12:50	#	100:7.16/#	Padre nuestro que estás en los cielos	C	#
 Evangelio_de_Mateo	12:50	#	196:0.8/#	La voluntad de Dios	R	#
 Evangelio_de_Mateo	12:50	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
@@ -954,8 +954,8 @@ Evangelio_de_Mateo	13:12	#	151:3.1/#	Al que tiene se le dará más	S	#
 Evangelio_de_Mateo	13:12	#	169:2.6/#	Fieles en lo pequeño, también en lo grande	S	#
 Evangelio_de_Mateo	13:12	#	151:1.4/#	Al que tiene más se le da más, y al que menos se le quita	S	#
 Evangelio_de_Mateo	13:12	#	109:4.5/#	A quien tiene se le dará, pero al que no tiene	C	#
-Evangelio_de_Mateo	13:14	#	121:8.4/#	Cites prophecy Is 6:9-10	R	PROBLEM
-Evangelio_de_Mateo	13:14	#	122:4.4/#	Messianic prophecy: Is 6:9-10	R	PROBLEM
+Evangelio_de_Mateo	13:14	#	121:8.4/#	Citas de profecías Is 6:9-10	R	#
+Evangelio_de_Mateo	13:14	#	122:4.4/#	Profecía mesiánica: Is 6:9-10	R	#
 Evangelio_de_Mateo	13:16-17	#	163:6.4/#	Evaluación de la misión	S	#
 Evangelio_de_Mateo	13:18-23	#	151:2.2/#	La interpretación de Pedro	S	#
 Evangelio_de_Mateo	13:18-23	#	151:2.3/#	La interpretación de Natanael	C	#
@@ -968,8 +968,8 @@ Evangelio_de_Mateo	13:31-32	#	140:8.27/#	Crecimiento del carácter	C	#
 Evangelio_de_Mateo	13:33	#	151:4.3/#	Parábola de la levadura	S	#
 Evangelio_de_Mateo	13:33	#	178:1.15/#	La levadura en la masa	S	#
 Evangelio_de_Mateo	13:33	#	170:2.14/#	Leaven in dough	S	PROBLEM
-Evangelio_de_Mateo	13:35	#	122:4.4/#	Messianic prophecy: Ps 78:2	R	PROBLEM
-Evangelio_de_Mateo	13:35	#	121:8.4/#	Cites prophecy Ps 78:2	R	PROBLEM
+Evangelio_de_Mateo	13:35	#	122:4.4/#	Profecía mesiánica: Ps 78:2	R	#
+Evangelio_de_Mateo	13:35	#	121:8.4/#	Citas de profecías Ps 78:2	R	#
 Evangelio_de_Mateo	13:39	#	53:1.4/#	El demonio	C	#
 Evangelio_de_Mateo	13:44	#	151:4.4/#	Parábola del tesoro escondido	S	#
 Evangelio_de_Mateo	13:45-46	#	151:4.5/#	Parábola de la perla de gran valor	S	#
@@ -1197,7 +1197,7 @@ Evangelio_de_Mateo	18:14	#	131:10.8/#	La relación de padre e hijo	C	#
 Evangelio_de_Mateo	18:14	#	131:10.6/#	Relación entre padre e hijo	C	#
 Evangelio_de_Mateo	18:14	#	149:6.8/#	Dios es nuestro Padre	C	#
 Evangelio_de_Mateo	18:14	#	131:10.5/#	Dios es «mi» padre	C	#
-Evangelio_de_Mateo	18:14	#	141:4.2/#	God is our Father+	C	PROBLEM
+Evangelio_de_Mateo	18:14	#	141:4.2/#	Dios es nuestro Padre	C	#
 Evangelio_de_Mateo	18:14	#	131:10.4/#	No perecerá ninguno que desee encontrar a Dios	C	#
 Evangelio_de_Mateo	18:15-17	#	159:1.3/#	El proceso de la reconciliación	S	#
 Evangelio_de_Mateo	18:18	#	157:4.5/#	Las llaves del reino exterior	C	#
@@ -1243,10 +1243,10 @@ Evangelio_de_Mateo	19:14,23-24	#	193:0.4/#	Evangelio del reino	C	#
 Evangelio_de_Mateo	19:14,23-24	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
 Evangelio_de_Mateo	19:14,23-24	#	190:5.4/#	El evangelio del reino	S	#
 Evangelio_de_Mateo	19:15	#	167:6.2/#	Jesús bendice a los niños	S	#
-Evangelio_de_Mateo	19:16,29	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Evangelio_de_Mateo	19:16,29	#	170:2.20/#	Vida eterna / sin fin	C	#
 Evangelio_de_Mateo	19:16,29	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
 Evangelio_de_Mateo	19:16,29	#	3:0.1/#	Vida eterna	C	#
-Evangelio_de_Mateo	19:16,29	#	101:6.8/#	Eternal life+	C	PROBLEM
+Evangelio_de_Mateo	19:16,29	#	101:6.8/#	Vida eterna	C	#
 Evangelio_de_Mateo	19:16,29	#	162:2.7/#	Vida eterna	C	#
 Evangelio_de_Mateo	19:16,29	#	170:2.2/#	La esperanza de la vida eterna	S	#
 Evangelio_de_Mateo	19:16,29	#	121:5.11/#	Vida después de la muerte	C	#
@@ -1278,7 +1278,7 @@ Evangelio_de_Mateo	19:19b	#	170:3.6/#	Amar al prójimo	S	#
 Evangelio_de_Mateo	19:19b	#	131:10.2/#	Amar al prójimo como a uno mismo	C	#
 Evangelio_de_Mateo	19:19b	#	178:1.17/#	Amaros los unos a los otros	C	#
 Evangelio_de_Mateo	19:19b	#	159:5.9/#	Ama a tu prójimo como a ti mismo	R	#
-Evangelio_de_Mateo	19:19b	#	131:2.13/#	Love neighbors as yourself	R	PROBLEM
+Evangelio_de_Mateo	19:19b	#	131:2.13/#	Ama a tu prójimo como a ti mismo	R	#
 Evangelio_de_Mateo	19:19b	#	180:5.7/#	Amar al prójimo como a uno mismo	S	#
 Evangelio_de_Mateo	19:19b	#	131:2.11/#	Ama a tu prójimo como a ti mismo	R	#
 Evangelio_de_Mateo	19:20b-21	#	163:2.5/#	Un impedimento: el amor a las riquezas	S	#
@@ -1359,8 +1359,8 @@ Evangelio_de_Mateo	20:30-34	#	175:1.1/#	Curados por la fe	C	#
 Evangelio_de_Mateo	20:32-34	#	171:5.3/#	La vista restaurada por la fe	S	#
 Evangelio_de_Mateo	21:1-3	#	172:3.6/#	Los apóstoles son enviados a por el asno	S	#
 Evangelio_de_Mateo	21:4-5	#	172:3.4/#	Planificando la entrada en Jerusalén	S	#
-Evangelio_de_Mateo	21:4-5	#	122:4.4/#	Messianic prophecy: Zc 9:9	R	PROBLEM
-Evangelio_de_Mateo	21:4-5	#	121:8.4/#	Cites prophecy Zc 9:9	R	PROBLEM
+Evangelio_de_Mateo	21:4-5	#	122:4.4/#	Profecía mesiánica: Zc 9:9	R	#
+Evangelio_de_Mateo	21:4-5	#	121:8.4/#	Citas de profecías Zc 9:9	R	#
 Evangelio_de_Mateo	21:6-7a	#	172:3.6/#	Los apóstoles se hacen con el asno	S	#
 Evangelio_de_Mateo	21:7b-9	#	172:3.9/#	Entrada triunfal en Jerusalén	S	#
 Evangelio_de_Mateo	21:8-9	#	127:5.6/#	Entrada triunfal	S	#
@@ -1452,7 +1452,7 @@ Evangelio_de_Mateo	22:37-40	#	196:3.16/#	Religion of LOVE+	C	PROBLEM
 Evangelio_de_Mateo	22:37-40	#	143:1.6/#	Dios de amor	C	#
 Evangelio_de_Mateo	22:39	#	174:4.2/#	Ama a tu prójimo como a ti	S	#
 Evangelio_de_Mateo	22:39	#	103:5.2/#	Amar al prójimo como a sí mismo	C	#
-Evangelio_de_Mateo	22:39	#	131:2.13/#	Love neighbors as yourself	R	PROBLEM
+Evangelio_de_Mateo	22:39	#	131:2.13/#	Ama a tu prójimo como a ti mismo	R	#
 Evangelio_de_Mateo	22:39	#	131:2.11/#	Ama a tu prójimo como a ti mismo	R	#
 Evangelio_de_Mateo	22:39	#	131:10.2/#	Amar al prójimo como a uno mismo	C	#
 Evangelio_de_Mateo	22:39	#	159:5.4/#	Ama a tu prójimo como a ti	R	#
@@ -1478,7 +1478,7 @@ Evangelio_de_Mateo	23:3-4	#	175:1.8/#	Obedeced incluso a los líderes deshonesto
 Evangelio_de_Mateo	23:5-7	#	175:1.9/#	Los líderes anhelan honores	S	#
 Evangelio_de_Mateo	23:6-7	#	166:1.4/#	Lamento por los que buscan los honores	S	#
 Evangelio_de_Mateo	23:8	#	134:4.7/#	Todos somos hermanos	C	#
-Evangelio_de_Mateo	23:9	#	141:4.2/#	God is our Father+	C	PROBLEM
+Evangelio_de_Mateo	23:9	#	141:4.2/#	Dios es nuestro Padre	C	#
 Evangelio_de_Mateo	23:9	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
 Evangelio_de_Mateo	23:9	#	131:10.6/#	Relación entre padre e hijo	C	#
 Evangelio_de_Mateo	23:9	#	131:10.5/#	Dios es «mi» padre	C	#
@@ -1569,7 +1569,7 @@ Evangelio_de_Mateo	24:14	#	100:7.12/#	Evangelio del reino	C	#
 Evangelio_de_Mateo	24:14	#	178:1.14/#	El gran encargo	S	#
 Evangelio_de_Mateo	24:14	#	130:2.3/#	Evangelio del reino	C	#
 Evangelio_de_Mateo	24:14	#	191:6.3/#	La gran asignación	C	#
-Evangelio_de_Mateo	24:14	#	139:7.6/#	Gospel of the kingdom+	C	PROBLEM
+Evangelio_de_Mateo	24:14	#	139:7.6/#	Evangelio del reino	C	#
 Evangelio_de_Mateo	24:14	#	140:9.2/#	Encargo de predicar por el mundo	S	#
 Evangelio_de_Mateo	24:14	#	146:4.4/#	El evangelio del reino	S	#
 Evangelio_de_Mateo	24:14	#	141:2.2/#	Evangelio del reino	C	#
@@ -1660,12 +1660,12 @@ Evangelio_de_Mateo	25:41	#	53:1.4/#	El demonio	C	#
 Evangelio_de_Mateo	25:46	#	153:2.11/#	Los que creen tienen vida eterna	C	#
 Evangelio_de_Mateo	25:46	#	162:7.5/#	Los creyentes nunca morirán	C	#
 Evangelio_de_Mateo	25:46	#	27:1.5/#	Vida eterna	C	#
-Evangelio_de_Mateo	25:46	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Evangelio_de_Mateo	25:46	#	170:2.20/#	Vida eterna / sin fin	C	#
 Evangelio_de_Mateo	25:46	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
 Evangelio_de_Mateo	25:46	#	170:2.2/#	La esperanza de la vida eterna	S	#
 Evangelio_de_Mateo	25:46	#	181:2.11/#	La vida eterna en el reino venidero	C	#
 Evangelio_de_Mateo	25:46	#	121:5.11/#	Vida después de la muerte	C	#
-Evangelio_de_Mateo	25:46	#	101:6.8/#	Eternal life+	C	PROBLEM
+Evangelio_de_Mateo	25:46	#	101:6.8/#	Vida eterna	C	#
 Evangelio_de_Mateo	25:46	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
 Evangelio_de_Mateo	25:46	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
 Evangelio_de_Mateo	25:46	#	2:2.1/#	Vida eterna	C	#
@@ -1722,7 +1722,7 @@ Evangelio_de_Mateo	26:39,42,44	#	170:2.20/#	Jesus taught "Father's will"+	C	PROB
 Evangelio_de_Mateo	26:39,42,44	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
 Evangelio_de_Mateo	26:39,42,44	#	131:10.2/#	Viviendo su voluntad podemos revelarlo	C	#
 Evangelio_de_Mateo	26:39,42,44	#	120:4.1/#	Vivir sometido a la voluntad del Padre	R	#
-Evangelio_de_Mateo	26:39,42,44	#	1:2.3/#	Desire to do Father's will+	C	PROBLEM
+Evangelio_de_Mateo	26:39,42,44	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
 Evangelio_de_Mateo	26:39,42,44	#	180:3.9/#	He hecho la vountad del Padre	C	#
 Evangelio_de_Mateo	26:39,42,44	#	119:8.4/#	Jesús vivió la voluntad del Padre	C	#
 Evangelio_de_Mateo	26:39,42,44	#	128:7.2/#	Sometido a la voluntad de mi Padre	R	#
@@ -1786,8 +1786,8 @@ Evangelio_de_Mateo	27:3b-4a	#	186:1.4/#	Judas regresa al sanedrín	S	#
 Evangelio_de_Mateo	27:4b	#	186:1.5/#	Judas rechazado	S	#
 Evangelio_de_Mateo	27:5a	#	186:1.6/#	Judas devuelve la plata	S	#
 Evangelio_de_Mateo	27:5b	#	186:1.7/#	El suicidio de Judas	S	#
-Evangelio_de_Mateo	27:9-10	#	122:4.4/#	Messianic prophecy: Zc 11:12	R	PROBLEM
-Evangelio_de_Mateo	27:9-10	#	121:8.4/#	Cites prophecy Zc 11:12	R	PROBLEM
+Evangelio_de_Mateo	27:9-10	#	122:4.4/#	Profecía mesiánica: Zc 11:12	R	#
+Evangelio_de_Mateo	27:9-10	#	121:8.4/#	Citas de profecías Zc 11:12	R	#
 Evangelio_de_Mateo	27:11	#	186:2.2/#	Jesús respondió sobre su divinidad	S	#
 Evangelio_de_Mateo	27:11a	#	185:3.2/#	¿Eres el rey de los judíos?	S	#
 Evangelio_de_Mateo	27:11b	#	185:3.4/#	El reconocimiento del «reino»	S	#
@@ -1814,8 +1814,8 @@ Evangelio_de_Mateo	27:32	#	130:6.6/#	Simón el portador de la cruz	C	#
 Evangelio_de_Mateo	27:32	#	187:1.9/#	Portar la cruz de Jesús	S	#
 Evangelio_de_Mateo	27:33	#	187:1.11/#	Lugar de la crucifixión	S	#
 Evangelio_de_Mateo	27:34	#	187:2.3/#	Jesús rehúsa los narcóticos	S	#
-Evangelio_de_Mateo	27:35	#	122:4.4/#	Messianic prophecy: Ps 22:18	R	PROBLEM
-Evangelio_de_Mateo	27:35	#	121:8.4/#	Cites prophecy Ps 22:18	R	PROBLEM
+Evangelio_de_Mateo	27:35	#	122:4.4/#	Profecía mesiánica: Ps 22:18	R	#
+Evangelio_de_Mateo	27:35	#	121:8.4/#	Citas de profecías Ps 22:18	R	#
 Evangelio_de_Mateo	27:35a	#	187:2.1/#	La crucifixión	S	#
 Evangelio_de_Mateo	27:35b	#	187:2.8/#	Se reparten sus ropas	S	#
 Evangelio_de_Mateo	27:36	#	187:3.4/#	Los soldados se sientan y observan	S	#

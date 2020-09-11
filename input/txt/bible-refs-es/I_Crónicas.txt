@@ -25,9 +25,9 @@ I_Crónicas	17:20	#	96:5.5/#	El Señor es un único Dios	C	#
 I_Crónicas	17:20	#	45:4.8/#	Dios único	C	#
 I_Crónicas	17:20	#	131:10.2/#	Un único Dios	C	#
 I_Crónicas	17:20	#	1:7.6/#	Dios es uno solo	R	#
-I_Crónicas	17:20	#	92:5.8/#	One God+	C	PROBLEM
+I_Crónicas	17:20	#	92:5.8/#	Un único Dios	C	#
 I_Crónicas	17:20	#	1:0.1/#	No hay Dios aparte de ti	C	#
-I_Crónicas	17:20	#	92:6.6/#	One God+	C	PROBLEM
+I_Crónicas	17:20	#	92:6.6/#	Un único Dios	C	#
 I_Crónicas	17:20	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
 I_Crónicas	17:20	#	56:4.4/#	Dios es uno	C	#
 I_Crónicas	17:21-22	#	93:5.1/#	Pueblo elegido	R	#
@@ -49,7 +49,7 @@ I_Crónicas	22:10	#	34:6.10/#	Hijos de Dios	C	#
 I_Crónicas	22:10	#	2:5.4/#	Somos hijos de Dios	C	#
 I_Crónicas	22:10	#	153:2.4/#	Fraternidad de los hijos de Dios	C	#
 I_Crónicas	22:10	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
-I_Crónicas	22:10	#	140:3.16/#	Sons of living God+	C	PROBLEM
+I_Crónicas	22:10	#	140:3.16/#	Hijos del Dios viviente	C	#
 I_Crónicas	22:10	#	131:10.5/#	Dios es «mi» padre	C	#
 I_Crónicas	22:10	#	149:2.10/#	Hijos del Dios viviente	C	#
 I_Crónicas	22:10	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
@@ -61,18 +61,18 @@ I_Crónicas	22:10	#	140:1.6/#	Hijos del Dios viviente	C	#
 I_Crónicas	22:10	#	5:4.8/#	Somos hijos de Dios	C	#
 I_Crónicas	22:10	#	181:2.14/#	Los creyentes son hijos de Dios	C	#
 I_Crónicas	22:10	#	181:2.12/#	Los creyentes, hijos de Dios	C	#
-I_Crónicas	22:10	#	141:4.2/#	We are God's children+	C	PROBLEM
+I_Crónicas	22:10	#	141:4.2/#	Somos los hijos de Dios	C	#
 I_Crónicas	22:10	#	131:10.8/#	La relación de padre e hijo	C	#
 I_Crónicas	22:10	#	141:2.2/#	Hijos de Dios por la fe	C	#
 I_Crónicas	22:10	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
 I_Crónicas	22:10	#	40:6.1/#	Hijos de Dios por la fe	C	#
 I_Crónicas	22:10	#	131:10.6/#	Relación entre padre e hijo	C	#
 I_Crónicas	22:10	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
-I_Crónicas	22:10	#	141:4.2/#	God is our Father+	C	PROBLEM
+I_Crónicas	22:10	#	141:4.2/#	Dios es nuestro Padre	C	#
 I_Crónicas	22:10	#	8:6.4/#	Hijos de Dios	C	#
-I_Crónicas	22:10	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+I_Crónicas	22:10	#	170:2.20/#	Hijos de Dios liberados	C	#
 I_Crónicas	22:10	#	1:3.1/#	Progenie de Dios	C	#
-I_Crónicas	22:10	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+I_Crónicas	22:10	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
 I_Crónicas	22:10	#	149:6.8/#	Dios es nuestro Padre	C	#
 I_Crónicas	22:10	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
 I_Crónicas	22:10	#	193:1.2/#	Todos los hombres son hijos de Dios	C	#

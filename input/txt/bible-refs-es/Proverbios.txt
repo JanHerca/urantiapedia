@@ -3,7 +3,7 @@ Proverbios	1:7	#	149:6.5/#	El temor al Señor es el comienzo de la sabiduría	R	
 Proverbios	1:7	#	131:2.6/#	El temor del Señor es el principio de la sabiduría	R	#
 Proverbios	1:7	#	149:6.3/#	Significados del temor al Señor	C	#
 Proverbios	1:8-16	#	95:4.2/#	Enseñanzas para su hijo	C	#
-Proverbios	1:23	#	34:4.1/#	Holy Spirit+	C	PROBLEM
+Proverbios	1:23	#	34:4.1/#	El Espíritu Santo	C	#
 Proverbios	1:23	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
 Proverbios	1:23	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
 Proverbios	1:23	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#

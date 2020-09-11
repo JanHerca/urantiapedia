@@ -183,7 +183,7 @@
 Éxodo	31:3	#	36:5.9/#	Espíritu de conocimiento	C	#
 Éxodo	31:3	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
 Éxodo	31:3	#	36:5.7/#	Espíritu de comprensión	C	#
-Éxodo	31:3	#	34:4.1/#	Holy Spirit+	C	PROBLEM
+Éxodo	31:3	#	34:4.1/#	El Espíritu Santo	C	#
 Éxodo	31:3	#	36:5.12/#	Espíritu de sabiduría	C	#
 Éxodo	31:3	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
 Éxodo	31:14-17	#	95:1.2/#	Costumbre de guardar el sábado	C	#
@@ -229,7 +229,7 @@
 Éxodo	35:2-3	#	95:1.2/#	Costumbre de guardar el sábado	C	#
 Éxodo	35:31	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
 Éxodo	35:31	#	36:5.9/#	Espíritu de conocimiento	C	#
-Éxodo	35:31	#	34:4.1/#	Holy Spirit+	C	PROBLEM
+Éxodo	35:31	#	34:4.1/#	El Espíritu Santo	C	#
 Éxodo	35:31	#	36:5.7/#	Espíritu de comprensión	C	#
 Éxodo	35:31	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
 Éxodo	35:31	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#

@@ -9,10 +9,10 @@ Jeremías	3:19	#	131:10.5/#	Dios es «mi» padre	C	#
 Jeremías	3:19	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
 Jeremías	3:19	#	131:10.6/#	Relación entre padre e hijo	C	#
 Jeremías	3:19	#	131:10.8/#	La relación de padre e hijo	C	#
-Jeremías	3:19	#	141:4.2/#	God is our Father+	C	PROBLEM
+Jeremías	3:19	#	141:4.2/#	Dios es nuestro Padre	C	#
 Jeremías	3:19	#	149:6.8/#	Dios es nuestro Padre	C	#
 Jeremías	3:23	#	85:1.5/#	Montañas sagradas	C	#
-Jeremías	4:2	#	190:5.4/#	All nations to be blessed	C	PROBLEM
+Jeremías	4:2	#	190:5.4/#	Todas las naciones serán bendecidas	C	#
 Jeremías	4:28	#	2:2.2/#	No se arrepiente (por elección)	C	#
 Jeremías	4:28	#	4:3.4/#	Dios no se arrepiente (por elección)	C	#
 Jeremías	5:12	#	195:8.5/#	El laicismo militante	C	#
@@ -65,7 +65,7 @@ Jeremías	23:6	#	150:5.2/#	Señor de nuestra rectitud	R	#
 Jeremías	23:23	#	3:1.4/#	No está lejos	R	#
 Jeremías	23:23-24	#	3:1.2/#	Dios a mano y lejos	R	#
 Jeremías	23:24	#	131:2.4/#	Nadie puede esconderse de nuestro Señor	R	#
-Jeremías	23:25-26	#	86:5.7/#	God "speaking" in dreams+	C	PROBLEM
+Jeremías	23:25-26	#	86:5.7/#	Dios "habla" en sueños	C	#
 Jeremías	24:7	#	97:8.3/#	Jeremías y la rectitud interior	C	#
 Jeremías	24:7	#	130:8.2/#	Te daré un corazón para que me conozcas	R	#
 Jeremías	24:7	#	145:2.6/#	La religión un asunto del corazón	C	#
@@ -91,9 +91,9 @@ Jeremías	31:3	#	14:2.7/#	Gravedad espiritual	C	#
 Jeremías	31:3	#	174:5.13/#	Atracción espiritual	C	#
 Jeremías	31:3	#	1:4.2/#	Atrae a todos los hombres (gravedad espiritual)	R	#
 Jeremías	31:3	#	5:6.9/#	Gravedad espiritual	C	#
-Jeremías	31:3	#	34:4.2/#	Spirit gravity	C	PROBLEM
+Jeremías	31:3	#	34:4.2/#	Atracción espiritual	C	#
 Jeremías	31:3	#	12:8.4/#	Gravedad espiritual	C	#
-Jeremías	31:3	#	20:1.6/#	Spirit gravity	C	PROBLEM
+Jeremías	31:3	#	20:1.6/#	Atracción espiritual	C	#
 Jeremías	31:3	#	157:6.10/#	Gravedad espiritual	C	#
 Jeremías	31:3	#	131:2.13/#	Amados con un amor perpetuo	R	#
 Jeremías	31:3	#	108:4.1/#	Atracción espiritual	C	#
@@ -137,7 +137,7 @@ Jeremías	33:11	#	2:6.3/#	Dios es bueno	R	#
 Jeremías	33:15	#	180:2.3/#	Un tallo que surgiría de la vid	C	#
 Jeremías	33:16	#	150:5.2/#	Señor de nuestra rectitud	R	#
 Jeremías	35:15	#	159:5.13/#	Repent for forgiveness (OT)+	C	PROBLEM
-Jeremías	35:17	#	92:6.6/#	Lord God of hosts+	C	PROBLEM
+Jeremías	35:17	#	92:6.6/#	Dios Señor de las huestes	C	#
 Jeremías	36:3	#	159:5.13/#	Repent for forgiveness (OT)+	C	PROBLEM
 Jeremías	38:2-3	#	97:6.4/#	Jeremías aconsejó la rendición	C	#
 Jeremías	38:2-3	#	97:9.25/#	Anuncio de la ruina	C	#

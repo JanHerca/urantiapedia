@@ -50,15 +50,15 @@ Levítico	19:2	#	140:8.32/#	Sed perfectos	C	#
 Levítico	19:2	#	181:1.2/#	Convertirse en perfectos espiritualmente	C	#
 Levítico	19:2	#	142:7.13/#	Sed perfectos	C	#
 Levítico	19:2	#	140:5.15/#	Sed perfectos	R	#
-Levítico	19:2	#	26:4.5/#	Be you perfect	R	PROBLEM
+Levítico	19:2	#	26:4.5/#	Sed perfectos	R	#
 Levítico	19:2	#	26:9.3/#	Sed perfectos	C	#
 Levítico	19:2	#	7:5.1/#	Sed perfectos	R	#
 Levítico	19:2	#	7:4.7/#	Sed perfectos	R	#
 Levítico	19:2	#	31:3.6/#	Sed perfectos	R	#
 Levítico	19:2	#	37:5.3/#	Sed perfectos	R	#
 Levítico	19:2	#	1:0.3/#	Sed perfectos	C	#
-Levítico	19:2	#	1:0.6/#	Be you perfect	C	PROBLEM
-Levítico	19:2	#	143:2.6/#	Seek perfection+	C	PROBLEM
+Levítico	19:2	#	1:0.6/#	Sed perfectos	C	#
+Levítico	19:2	#	143:2.6/#	Buscad la perfección+	C	#
 Levítico	19:2	#	26:11.4/#	Sed perfectos	C	#
 Levítico	19:2	#	40:7.4/#	Sed perfectos	R	#
 Levítico	19:2	#	13:2.8/#	Becoming perfect	C	PROBLEM
@@ -70,7 +70,7 @@ Levítico	19:18,34	#	159:5.4/#	Ama a tu prójimo como a ti	R	#
 Levítico	19:18,34	#	159:5.9/#	Ama a tu prójimo como a ti mismo	R	#
 Levítico	19:18	#	159:5.9/#	No te vengarás	R	#
 Levítico	19:18,34	#	170:3.6/#	Amar al prójimo	S	#
-Levítico	19:18,34	#	131:2.13/#	Love neighbors as yourself	R	PROBLEM
+Levítico	19:18,34	#	131:2.13/#	Ama a tu prójimo como a ti mismo	R	#
 Levítico	19:18,34	#	131:10.2/#	Amar al prójimo como a uno mismo	C	#
 Levítico	19:18,34	#	180:5.7/#	Amar al prójimo como a uno mismo	C	#
 Levítico	19:18,34	#	163:4.8/#	Ama a tu prójimo como a ti mismo	S	#

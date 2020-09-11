@@ -1,5 +1,5 @@
 Epístola_de_Santiago	1:4	#	140:8.32/#	Sed perfectos	C	#
-Epístola_de_Santiago	1:4	#	1:0.6/#	Be you perfect	C	PROBLEM
+Epístola_de_Santiago	1:4	#	1:0.6/#	Sed perfectos	C	#
 Epístola_de_Santiago	1:4	#	99:5.3/#	Sed perfectos	C	#
 Epístola_de_Santiago	1:4	#	131:2.6/#	Sé perfecto	R	#
 Epístola_de_Santiago	1:4	#	7:5.1/#	Sed perfectos	R	#
@@ -8,7 +8,7 @@ Epístola_de_Santiago	1:4	#	140:4.11/#	Sed perfectos	C	#
 Epístola_de_Santiago	1:4	#	7:4.7/#	Sed perfectos	R	#
 Epístola_de_Santiago	1:4	#	31:3.6/#	Sed perfectos	R	#
 Epístola_de_Santiago	1:4	#	181:2.25/#	Perfecionarse espiritualmente	C	#
-Epístola_de_Santiago	1:4	#	143:2.6/#	Seek perfection+	C	PROBLEM
+Epístola_de_Santiago	1:4	#	143:2.6/#	Buscad la perfección+	C	#
 Epístola_de_Santiago	1:4	#	181:1.2/#	Convertirse en perfectos espiritualmente	C	#
 Epístola_de_Santiago	1:4	#	140:3.16/#	Sed perfectos	C	#
 Epístola_de_Santiago	1:4	#	140:10.1/#	Sed perfectos	C	#
@@ -23,7 +23,7 @@ Epístola_de_Santiago	1:4	#	107:0.3/#	Sed perfectos	C	#
 Epístola_de_Santiago	1:4	#	1:0.3/#	Sed perfectos	C	#
 Epístola_de_Santiago	1:4	#	56:0.1/#	Sed perfectos como yo soy	R	#
 Epístola_de_Santiago	1:4	#	26:11.4/#	Sed perfectos	R	#
-Epístola_de_Santiago	1:4	#	26:4.5/#	Be you perfect	R	PROBLEM
+Epístola_de_Santiago	1:4	#	26:4.5/#	Sed perfectos	R	#
 Epístola_de_Santiago	1:4	#	13:2.8/#	Ser perfectos	C	#
 Epístola_de_Santiago	1:5	#	28:5.8/#	Si carece de sabiduría, que la pida	R	#
 Epístola_de_Santiago	1:12	#	131:10.6/#	Corona de la vida eterna	C	#
@@ -57,7 +57,7 @@ Epístola_de_Santiago	2:8	#	103:5.2/#	Amar al prójimo como a sí mismo	C	#
 Epístola_de_Santiago	2:8	#	159:5.9/#	Ama a tu prójimo como a ti mismo	R	#
 Epístola_de_Santiago	2:8	#	131:2.11/#	Ama a tu prójimo como a ti mismo	R	#
 Epístola_de_Santiago	2:8	#	178:1.17/#	Amaros los unos a los otros	C	#
-Epístola_de_Santiago	2:8	#	131:2.13/#	Love neighbors as yourself	R	PROBLEM
+Epístola_de_Santiago	2:8	#	131:2.13/#	Ama a tu prójimo como a ti mismo	R	#
 Epístola_de_Santiago	2:11	#	162:2.1/#	No matarás	R	#
 Epístola_de_Santiago	2:12-13	#	133:4.7/#	Judga justamente	C	#
 Epístola_de_Santiago	2:14	#	138:8.8/#	Cambio de la mente por la fe, el nuevo nacimiento	C	#
@@ -68,10 +68,10 @@ Epístola_de_Santiago	2:17-18	#	159:5.8/#	Jesús enseña la acción positiva	C	#
 Epístola_de_Santiago	2:19	#	1:0.1/#	No hay Dios aparte de ti	C	#
 Epístola_de_Santiago	2:19	#	1:7.6/#	Dios es uno solo	R	#
 Epístola_de_Santiago	2:19	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
-Epístola_de_Santiago	2:19	#	92:6.6/#	One God+	C	PROBLEM
+Epístola_de_Santiago	2:19	#	92:6.6/#	Un único Dios	C	#
 Epístola_de_Santiago	2:19	#	45:4.8/#	Dios único	C	#
 Epístola_de_Santiago	2:19	#	96:5.5/#	El Señor es un único Dios	C	#
-Epístola_de_Santiago	2:19	#	92:5.8/#	One God+	C	PROBLEM
+Epístola_de_Santiago	2:19	#	92:5.8/#	Un único Dios	C	#
 Epístola_de_Santiago	2:19	#	56:4.4/#	Dios es uno	C	#
 Epístola_de_Santiago	2:19	#	131:10.2/#	Un único Dios	C	#
 Epístola_de_Santiago	2:23	#	1:5.8/#	La amistad de Dios	C	#

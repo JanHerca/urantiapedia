@@ -1,4 +1,4 @@
-Daniel	1:17	#	86:5.7/#	God "speaking" in dreams+	C	PROBLEM
+Daniel	1:17	#	86:5.7/#	Dios "habla" en sueños	C	#
 Daniel	2:2	#	90:2.5/#	Astrología	C	#
 Daniel	2:18-19,28	#	79:1.9/#	Un solo Dios en el cielo	C	#
 Daniel	2:21	#	3:5.2/#	Destrona y corona reyes	R	#
@@ -9,7 +9,7 @@ Daniel	2:35	#	173:4.4/#	El que caiga sobre ella, se salvará	C	#
 Daniel	2:44	#	135:3.2/#	Reino eterno	R	#
 Daniel	2:44	#	136:2.1/#	El reino de Dios está cerca	R	#
 Daniel	2:44	#	141:4.1/#	Dios como rey por encima de todo	C	#
-Daniel	2:47	#	0:2.12/#	God the Supreme+	C	PROBLEM
+Daniel	2:47	#	0:2.12/#	Dios el Supremo+	C	#
 Daniel	2:47	#	45:4.10/#	Dios de los Dioses	R	#
 Daniel	3:26	#	93:3.2/#	El Altísimo	C	#
 Daniel	3:26	#	43:3.1/#	Altísimos	C	#
@@ -49,15 +49,15 @@ Daniel	5:21	#	43:3.4/#	El Altísimo gobierna	R	#
 Daniel	5:21	#	131:2.5/#	Nuestro Dios gobierna entre las naciones	S	#
 Daniel	5:21	#	3:5.2/#	Gobierna los reinos de los hombres	R	#
 Daniel	5:21	#	134:5.3/#	Los Altísimos gobiernan en los reinos de los hombres	C	#
-Daniel	5:27	#	28:6.15/#	Found (not) wanting	R	PROBLEM
+Daniel	5:27	#	28:6.15/#	Encontrado (sin) querer	R	#
 Daniel	6:26	#	170:1.2/#	El reino como una realidad presente	S	#
 Daniel	7:9,13,22	#	96:1.9/#	Anciano de los Días	C	#
 Daniel	7:9,13,22	#	18:3.1/#	Ancianos de los Días	C	#
 Daniel	7:9,13,22	#	15:10.3/#	Ancianos de los Días	C	#
 Daniel	7:9-10	#	28:6.6/#	El juicio de los Ancianos de los Días	R	#
 Daniel	7:13	#	137:2.2/#	Cita de Daniel	R	#
-Daniel	7:13-14	#	136:1.1/#	# 2 The Son of Man	R	PROBLEM
-Daniel	7:13-14	#	135:5.7/#	The Son of Man+	R	PROBLEM
+Daniel	7:13-14	#	136:1.1/#	# 2 El Hijo del Hombre	R	#
+Daniel	7:13-14	#	135:5.7/#	El Hijo del Hombre	R	#
 Daniel	7:13-14	#	126:3.6/#	Hijo del Hombre	C	#
 Daniel	7:13-14	#	135:3.3/#	Visión de la venida del Hijo del Hombre	R	#
 Daniel	7:13-14	#	128:1.2/#	Hijo del Hombre	C	#
@@ -82,9 +82,9 @@ Daniel	12:2	#	27:1.5/#	Vida eterna	C	#
 Daniel	12:2	#	2:2.1/#	Vida eterna	C	#
 Daniel	12:2	#	3:0.1/#	Vida eterna	C	#
 Daniel	12:2	#	49:6.2/#	Muchos de los que duermen despiertan	R	#
-Daniel	12:2	#	101:6.8/#	Eternal life+	C	PROBLEM
+Daniel	12:2	#	101:6.8/#	Vida eterna	C	#
 Daniel	12:2	#	146:3.7/#	La vida eterna	C	#
-Daniel	12:2	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Daniel	12:2	#	170:2.20/#	Vida eterna / sin fin	C	#
 Daniel	12:2	#	181:2.11/#	La vida eterna en el reino venidero	C	#
 Daniel	12:2	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
 Daniel	12:2	#	168:0.7/#	Quien crea en mí nunca morirá	C	#

@@ -46,7 +46,7 @@ Evangelio_de_Lucas	1:59	#	135:0.2/#	La circuncisión de Juan	S	#
 Evangelio_de_Lucas	1:67	#	122:9.4/#	Poema de Ana	S	#
 Evangelio_de_Lucas	1:68-79	#	122:9.5/#	Hymn of Redemption	S	PROBLEM
 Evangelio_de_Lucas	1:69,77	#	190:4.1/#	Evangelio de salvación	C	#
-Evangelio_de_Lucas	1:69,77	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Evangelio_de_Lucas	1:69,77	#	190:5.4/#	Evangelio de salvación de Dios	C	#
 Evangelio_de_Lucas	1:78-79	#	162:5.2/#	Jesús es la luz del mundo	S	#
 Evangelio_de_Lucas	1:79	#	5:4.2/#	Paz duradera	C	#
 Evangelio_de_Lucas	1:79	#	40:5.16/#	True light+	C	PROBLEM
@@ -138,7 +138,7 @@ Evangelio_de_Lucas	3:3,7,16	#	87:6.5/#	Water baptism	C	PROBLEM
 Evangelio_de_Lucas	3:3,16	#	144:6.9/#	El significado del bautismo	C	#
 Evangelio_de_Lucas	3:4-5	#	135:6.6/#	Respuesta de Juan	R	#
 Evangelio_de_Lucas	3:6	#	190:4.1/#	Evangelio de salvación	C	#
-Evangelio_de_Lucas	3:6	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Evangelio_de_Lucas	3:6	#	190:5.4/#	Evangelio de salvación de Dios	C	#
 Evangelio_de_Lucas	3:7	#	135:5.8/#	Huir de la ira venidera	R	#
 Evangelio_de_Lucas	3:7-9	#	135:6.7/#	El mensaje sin tacto de Juan	R	#
 Evangelio_de_Lucas	3:9	#	140:3.19/#	Requerimientos para dar buenos frutos	C	#
@@ -176,7 +176,7 @@ Evangelio_de_Lucas	3:23	#	122:1.3/#	Los padres de Jesús	S	#
 Evangelio_de_Lucas	3:23-24	#	122:4.3/#	Antepasado adoptado	C	#
 Evangelio_de_Lucas	3:23-37	#	122:4.4/#	Equivocación de las genealogías	S	#
 Evangelio_de_Lucas	3:23-38	#	122:1.1/#	Linaje de José	S	#
-Evangelio_de_Lucas	4:1	#	34:4.1/#	Holy Spirit+	C	PROBLEM
+Evangelio_de_Lucas	4:1	#	34:4.1/#	El Espíritu Santo	C	#
 Evangelio_de_Lucas	4:1	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
 Evangelio_de_Lucas	4:1	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
 Evangelio_de_Lucas	4:1	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
@@ -364,7 +364,7 @@ Evangelio_de_Lucas	6:36	#	131:10.8/#	La relación de padre e hijo	C	#
 Evangelio_de_Lucas	6:36	#	131:10.6/#	Relación entre padre e hijo	C	#
 Evangelio_de_Lucas	6:36	#	140:3.16/#	Sed misericordiosos como Dios lo es	S	#
 Evangelio_de_Lucas	6:36	#	153:2.4/#	Jesús ha venido para revelar al Padre	C	#
-Evangelio_de_Lucas	6:36	#	141:4.2/#	God is our Father+	C	PROBLEM
+Evangelio_de_Lucas	6:36	#	141:4.2/#	Dios es nuestro Padre	C	#
 Evangelio_de_Lucas	6:36	#	149:6.8/#	Dios es nuestro Padre	C	#
 Evangelio_de_Lucas	6:36	#	131:10.5/#	Dios es «mi» padre	C	#
 Evangelio_de_Lucas	6:36-38	#	133:4.7/#	Justicia, equidad, misericordia	C	#
@@ -474,7 +474,7 @@ Evangelio_de_Lucas	8:21	#	140:8.20/#	Haced voluntariamente la «voluntad» de Di
 Evangelio_de_Lucas	8:21	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
 Evangelio_de_Lucas	8:21	#	131:10.7/#	Hermandad espiritual	C	#
 Evangelio_de_Lucas	8:21	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
-Evangelio_de_Lucas	8:21	#	1:2.3/#	Desire to do Father's will+	C	PROBLEM
+Evangelio_de_Lucas	8:21	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
 Evangelio_de_Lucas	8:21	#	159:5.8/#	Jesús enseña la acción positiva	C	#
 Evangelio_de_Lucas	8:21	#	117:0.1/#	Hacer la voluntad de Dios	C	#
 Evangelio_de_Lucas	8:21	#	0:5.10/#	Hacer la voluntad del Padre	R	#
@@ -652,7 +652,7 @@ Evangelio_de_Lucas	10:4	#	180:0.2/#	Cambio en las instrucciones previas	S	#
 Evangelio_de_Lucas	10:7	#	140:9.3/#	El obrero merece su salario	S	#
 Evangelio_de_Lucas	10:9	#	141:4.4/#	La misión de los doce	R	#
 Evangelio_de_Lucas	10:9	#	141:8.1/#	Los apóstoles ayudando a los enfermos	S	#
-Evangelio_de_Lucas	10:9,11	#	142:1.1/#	Kingdom of God is at hand	C	PROBLEM
+Evangelio_de_Lucas	10:9,11	#	142:1.1/#	El Reino de Dios está a las puertas	C	#
 Evangelio_de_Lucas	10:9,11	#	141:2.1/#	El reino de Dios ya está aquí	C	#
 Evangelio_de_Lucas	10:9-11	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
 Evangelio_de_Lucas	10:9-11	#	140:1.6/#	El reino está cerca	C	#
@@ -701,7 +701,7 @@ Evangelio_de_Lucas	10:25	#	162:7.5/#	Los creyentes nunca morirán	C	#
 Evangelio_de_Lucas	10:25	#	128:1.10/#	Dador de la vida eterna	C	#
 Evangelio_de_Lucas	10:25	#	3:0.1/#	Vida eterna	C	#
 Evangelio_de_Lucas	10:25	#	162:2.7/#	Vida eterna	C	#
-Evangelio_de_Lucas	10:25	#	101:6.8/#	Eternal life+	C	PROBLEM
+Evangelio_de_Lucas	10:25	#	101:6.8/#	Vida eterna	C	#
 Evangelio_de_Lucas	10:25	#	121:5.11/#	Vida después de la muerte	C	#
 Evangelio_de_Lucas	10:25	#	2:2.1/#	Vida eterna	C	#
 Evangelio_de_Lucas	10:25	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
@@ -710,7 +710,7 @@ Evangelio_de_Lucas	10:25	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
 Evangelio_de_Lucas	10:25	#	27:1.5/#	Vida eterna	C	#
 Evangelio_de_Lucas	10:25	#	170:2.2/#	La esperanza de la vida eterna	S	#
 Evangelio_de_Lucas	10:25	#	153:2.11/#	Los que creen tienen vida eterna	C	#
-Evangelio_de_Lucas	10:25	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Evangelio_de_Lucas	10:25	#	170:2.20/#	Vida eterna / sin fin	C	#
 Evangelio_de_Lucas	10:25	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
 Evangelio_de_Lucas	10:25	#	181:2.11/#	La vida eterna en el reino venidero	C	#
 Evangelio_de_Lucas	10:25-27	#	142:1.1/#	Love God & neighbor as self	C	PROBLEM
@@ -760,7 +760,7 @@ Evangelio_de_Lucas	11:2	#	141:2.2/#	Cuando la voluntad del Padre se convierta en
 Evangelio_de_Lucas	11:2	#	196:0.8/#	La voluntad de Dios	R	#
 Evangelio_de_Lucas	11:2	#	117:0.1/#	Hacer la voluntad de Dios	C	#
 Evangelio_de_Lucas	11:2	#	140:8.20/#	Haced voluntariamente la «voluntad» de Dios	C	#
-Evangelio_de_Lucas	11:2	#	1:2.3/#	Desire to do Father's will+	C	PROBLEM
+Evangelio_de_Lucas	11:2	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
 Evangelio_de_Lucas	11:2	#	1:1.5/#	Llamar a Dios «nuestro Padre»	R	#
 Evangelio_de_Lucas	11:2	#	135:5.2/#	El Mesías gobierna cielo y tierra	R	#
 Evangelio_de_Lucas	11:2	#	160:1.11/#	«Que no se haga mi voluntad, sino la tuya»	R	#
@@ -782,7 +782,7 @@ Evangelio_de_Lucas	11:2,13	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
 Evangelio_de_Lucas	11:2,13	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
 Evangelio_de_Lucas	11:2,13	#	131:10.5/#	Dios es «mi» padre	C	#
 Evangelio_de_Lucas	11:2,13	#	131:10.6/#	Relación entre padre e hijo	C	#
-Evangelio_de_Lucas	11:2,13	#	141:4.2/#	God is our Father+	C	PROBLEM
+Evangelio_de_Lucas	11:2,13	#	141:4.2/#	Dios es nuestro Padre	C	#
 Evangelio_de_Lucas	11:2,13	#	142:3.8/#	El Padre que está en los Cielos	C	#
 Evangelio_de_Lucas	11:2-4	#	144:3.3/#	Lord's prayer	S	PROBLEM
 Evangelio_de_Lucas	11:2-4	#	126:3.3/#	Oración del Padrenuestro	R	#
@@ -808,7 +808,7 @@ Evangelio_de_Lucas	11:11-13	#	144:2.4/#	Regalos apropiados para un hijo	S	#
 Evangelio_de_Lucas	11:13	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
 Evangelio_de_Lucas	11:13	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
 Evangelio_de_Lucas	11:13	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
-Evangelio_de_Lucas	11:13	#	34:4.1/#	Holy Spirit+	C	PROBLEM
+Evangelio_de_Lucas	11:13	#	34:4.1/#	El Espíritu Santo	C	#
 Evangelio_de_Lucas	11:13	#	131:10.3/#	Si los padres terrenales aman, cuánto más Dios	C	#
 Evangelio_de_Lucas	11:14	#	153:4.1/#	Curación de un endemoniado	S	#
 Evangelio_de_Lucas	11:14-20	#	169:0.7/#	Aliado con los demonios	S	#
@@ -1089,7 +1089,7 @@ Evangelio_de_Lucas	17:20-21	#	158:6.2/#	Mi reino no es de este mundo	S	#
 Evangelio_de_Lucas	17:20-21	#	157:6.12/#	Mi reino no es de este mundo	C	#
 Evangelio_de_Lucas	17:21	#	34:6.7/#	Sois el templo de Dios, y os habita el espíritu	C	#
 Evangelio_de_Lucas	17:21	#	103:1.6/#	El espíritu en el hombre (Ajustador del Pensamiento)	C	#
-Evangelio_de_Lucas	17:21	#	170:1.8/#	Kingdom within you	S	PROBLEM
+Evangelio_de_Lucas	17:21	#	170:1.8/#	El reino dentro de ti	S	#
 Evangelio_de_Lucas	17:21	#	140:1.5/#	El reino es Dios dentro de vosotros	S	#
 Evangelio_de_Lucas	17:21	#	195:10.4/#	El reino de Dios está dentro de vosotros	S	#
 Evangelio_de_Lucas	17:21	#	34:6.7/#	Sois el templo de Dios, y os habita el espíritu	C	#
@@ -1112,12 +1112,12 @@ Evangelio_de_Lucas	17:21	#	131:10.4/#	El espíritu de Dios está en el corazón 
 Evangelio_de_Lucas	17:21	#	134:4.7/#	El espíritu interior	C	#
 Evangelio_de_Lucas	17:21	#	133:4.4/#	Dios habita en tu alma	C	#
 Evangelio_de_Lucas	17:21	#	148:6.10/#	Dios habita dentro de ti	C	#
-Evangelio_de_Lucas	17:21	#	170:1.8/#	Kingdom within you	S	PROBLEM
+Evangelio_de_Lucas	17:21	#	170:1.8/#	El reino dentro de ti	S	#
 Evangelio_de_Lucas	17:21	#	167:7.4/#	El espíritu de Dios vive en vosotros	S	#
 Evangelio_de_Lucas	17:21	#	1:4.2/#	El cuerpo es el templo de Dios	C	#
 Evangelio_de_Lucas	17:21	#	171:0.3/#	El reino dentro de vosotros	R	#
 Evangelio_de_Lucas	17:21	#	118:10.17/#	El reino de Dios está en el corazón	C	#
-Evangelio_de_Lucas	17:21	#	170:2.20/#	Kingdom of God within+	C	PROBLEM
+Evangelio_de_Lucas	17:21	#	170:2.20/#	El Reino de Dios dentro de nosotros	C	#
 Evangelio_de_Lucas	17:21	#	146:3.5/#	Espíritu viviente del Padre	C	#
 Evangelio_de_Lucas	17:23	#	137:8.9/#	No os dejéis engañar	S	#
 Evangelio_de_Lucas	17:33	#	103:5.6/#	Quien salve la vida la perderá	R	#
@@ -1168,8 +1168,8 @@ Evangelio_de_Lucas	18:18,30	#	121:5.11/#	Vida después de la muerte	C	#
 Evangelio_de_Lucas	18:18,30	#	128:1.10/#	Dador de la vida eterna	C	#
 Evangelio_de_Lucas	18:18,30	#	146:3.7/#	La vida eterna	C	#
 Evangelio_de_Lucas	18:18,30	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
-Evangelio_de_Lucas	18:18,30	#	101:6.8/#	Eternal life+	C	PROBLEM
-Evangelio_de_Lucas	18:18,30	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Evangelio_de_Lucas	18:18,30	#	101:6.8/#	Vida eterna	C	#
+Evangelio_de_Lucas	18:18,30	#	170:2.20/#	Vida eterna / sin fin	C	#
 Evangelio_de_Lucas	18:18,30	#	27:1.5/#	Vida eterna	C	#
 Evangelio_de_Lucas	18:18,30	#	3:0.1/#	Vida eterna	C	#
 Evangelio_de_Lucas	18:18,30	#	2:2.1/#	Vida eterna	C	#
@@ -1286,8 +1286,8 @@ Evangelio_de_Lucas	20:36	#	181:2.12/#	Los creyentes, hijos de Dios	S	#
 Evangelio_de_Lucas	20:36	#	131:10.8/#	La relación de padre e hijo	C	#
 Evangelio_de_Lucas	20:36	#	153:2.4/#	Fraternidad de los hijos de Dios	C	#
 Evangelio_de_Lucas	20:36	#	131:10.2/#	Somos los hijos de Dios	C	#
-Evangelio_de_Lucas	20:36	#	141:4.2/#	We are God's children+	C	PROBLEM
-Evangelio_de_Lucas	20:36	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+Evangelio_de_Lucas	20:36	#	141:4.2/#	Somos los hijos de Dios	C	#
+Evangelio_de_Lucas	20:36	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
 Evangelio_de_Lucas	20:36	#	170:2.20/#	Hijos de Dios	S	#
 Evangelio_de_Lucas	20:36	#	181:2.14/#	Los creyentes son hijos de Dios	C	#
 Evangelio_de_Lucas	20:36	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
@@ -1298,10 +1298,10 @@ Evangelio_de_Lucas	20:36	#	43:9.2/#	Sois como los ángeles	R	#
 Evangelio_de_Lucas	20:36	#	40:6.1/#	Hijos de Dios por la fe	C	#
 Evangelio_de_Lucas	20:36	#	149:6.8/#	Nosotros somos sus hijos	C	#
 Evangelio_de_Lucas	20:36	#	34:6.10/#	Hijos de Dios	C	#
-Evangelio_de_Lucas	20:36	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+Evangelio_de_Lucas	20:36	#	170:2.20/#	Hijos de Dios liberados	C	#
 Evangelio_de_Lucas	20:36	#	8:6.4/#	Hijos de Dios	C	#
 Evangelio_de_Lucas	20:36	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
-Evangelio_de_Lucas	20:36	#	140:3.16/#	Sons of living God+	C	PROBLEM
+Evangelio_de_Lucas	20:36	#	140:3.16/#	Hijos del Dios viviente	C	#
 Evangelio_de_Lucas	20:36	#	2:5.4/#	Somos hijos de Dios	C	#
 Evangelio_de_Lucas	20:36	#	131:10.6/#	Relación entre padre e hijo	C	#
 Evangelio_de_Lucas	20:36	#	143:2.7/#	Los hijos liberados de Dios	C	#
@@ -1366,7 +1366,7 @@ Evangelio_de_Lucas	21:31	#	193:0.4/#	Evangelio del reino	C	#
 Evangelio_de_Lucas	21:31	#	190:5.4/#	El evangelio del reino	S	#
 Evangelio_de_Lucas	21:31	#	137:8.15/#	El reino está cerca	S	#
 Evangelio_de_Lucas	21:31	#	170:5.19/#	El reino de Dios está cerca	R	#
-Evangelio_de_Lucas	21:31	#	142:1.1/#	Kingdom of God is at hand	C	PROBLEM
+Evangelio_de_Lucas	21:31	#	142:1.1/#	El Reino de Dios está a las puertas	C	#
 Evangelio_de_Lucas	21:31	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
 Evangelio_de_Lucas	21:31	#	34:6.13/#	El reino de Dios	C	#
 Evangelio_de_Lucas	21:32	#	176:2.6/#	Las tribulaciones de Jerusalén	S	#
@@ -1443,7 +1443,7 @@ Evangelio_de_Lucas	22:42	#	196:0.10/#	Jesús hizo la voluntad del Padre	C	#
 Evangelio_de_Lucas	22:42	#	109:6.5/#	Que no se haga mi voluntad, sino la tuya	R	#
 Evangelio_de_Lucas	22:42	#	140:5.11/#	Hágase tu voluntad	C	#
 Evangelio_de_Lucas	22:42	#	136:9.4/#	Beber el cáliz amargo	C	#
-Evangelio_de_Lucas	22:42	#	1:2.3/#	Desire to do Father's will+	C	PROBLEM
+Evangelio_de_Lucas	22:42	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
 Evangelio_de_Lucas	22:42	#	128:7.2/#	Sometido a la voluntad de mi Padre	R	#
 Evangelio_de_Lucas	22:42	#	118:8.11/#	Es mi voluntad que se haga tu voluntad	R	#
 Evangelio_de_Lucas	22:42	#	117:0.1/#	Hacer la voluntad de Dios	C	#
@@ -1615,8 +1615,8 @@ Evangelio_de_Lucas	24:47	#	191:4.4/#	La gran asignación	C	#
 Evangelio_de_Lucas	24:47	#	191:6.3/#	La gran asignación	C	#
 Evangelio_de_Lucas	24:49	#	20:6.8/#	Espíritu de la Verdad	C	#
 Evangelio_de_Lucas	24:49	#	193:5.2/#	Permanecer en Jerusalén	C	#
-Evangelio_de_Lucas	24:49	#	21:5.7/#	Spirit of Truth+	C	PROBLEM
-Evangelio_de_Lucas	24:49	#	20:1.6/#	Son poured out spirit on flesh+	C	PROBLEM
+Evangelio_de_Lucas	24:49	#	21:5.7/#	El Espíritu de la Verdad	C	#
+Evangelio_de_Lucas	24:49	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
 Evangelio_de_Lucas	24:49	#	191:5.3/#	Permaneced aquí	S	#
 Evangelio_de_Lucas	24:49	#	180:3.3/#	Promesa del confortador	C	#
 Evangelio_de_Lucas	24:49	#	32:5.8/#	Espíritu de la Verdad	C	#
@@ -1630,8 +1630,8 @@ Evangelio_de_Lucas	24:49	#	52:5.6/#	Espíritu derramado sobre toda carne	R	#
 Evangelio_de_Lucas	24:49	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
 Evangelio_de_Lucas	24:49	#	146:3.6/#	El Espíritu de la Verdad	C	#
 Evangelio_de_Lucas	24:49	#	120:2.4/#	Espíritu de la Verdad	C	#
-Evangelio_de_Lucas	24:49	#	141:4.5/#	Jesus to pour out His spirit+	C	PROBLEM
-Evangelio_de_Lucas	24:49	#	34:4.1/#	Spirit of Truth+	C	PROBLEM
+Evangelio_de_Lucas	24:49	#	141:4.5/#	Jesús envió Su Espíritu	C	#
+Evangelio_de_Lucas	24:49	#	34:4.1/#	El Espíritu de la Verdad	C	#
 Evangelio_de_Lucas	24:49	#	34:5.5/#	Espíritu de la Verdad	C	#
 Evangelio_de_Lucas	24:49	#	34:7.1/#	Espíritu de la Verdad	C	#
 Evangelio_de_Lucas	24:49	#	181:1.4/#	Derramaré mi espíritu sobre toda la carne	C	#
@@ -1640,7 +1640,7 @@ Evangelio_de_Lucas	24:49	#	193:5.2/#	Permanecer en Jerusalén	S	#
 Evangelio_de_Lucas	24:49	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
 Evangelio_de_Lucas	24:49	#	193:3.2/#	Permanecer en Jerusalén	S	#
 Evangelio_de_Lucas	24:49	#	121:7.5/#	Nuevo espiritu que vive en el corazón de los hombres	C	#
-Evangelio_de_Lucas	24:49	#	120:2.6/#	Spirit of Truth+	C	PROBLEM
+Evangelio_de_Lucas	24:49	#	120:2.6/#	El Espíritu de la Verdad	C	#
 Evangelio_de_Lucas	24:49	#	137:8.7/#	Espíritu de la Verdad	C	#
 Evangelio_de_Lucas	24:49	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
 Evangelio_de_Lucas	24:50a	#	193:5.1/#	Ascensión a la montaña	S	#

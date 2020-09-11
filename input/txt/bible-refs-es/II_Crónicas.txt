@@ -1,8 +1,8 @@
 II_Crónicas	2:6	#	181:1.2/#	Cielo de los cielos	C	#
-II_Crónicas	2:6	#	48:6.12/#	Heaven, heaven of heavens	R	PROBLEM
+II_Crónicas	2:6	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
 II_Crónicas	2:6	#	3:1.2/#	El cielo de los cielos	R	#
 II_Crónicas	2:6	#	2:1.1/#	El cielo de los cielos	R	#
-II_Crónicas	2:6	#	48:6.12/#	Heaven, heaven of heavens	R	PROBLEM
+II_Crónicas	2:6	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
 II_Crónicas	2:12	#	0:2.9/#	Dios como Creador del Cielo y la Tierra	C	#
 II_Crónicas	2:12	#	142:3.7/#	Creador Universal	C	#
 II_Crónicas	2:12	#	6:1.3/#	Dios ha hecho todo	C	#
@@ -22,11 +22,11 @@ II_Crónicas	5:13	#	143:1.6/#	Dios se deleita en la misericordia	C	#
 II_Crónicas	5:13	#	131:10.6/#	La Misericordia	C	#
 II_Crónicas	6:1	#	14:1.7/#	Dark gravity bodies	C	PROBLEM
 II_Crónicas	6:1	#	2:1.1/#	Residir en espesas tinieblas	R	#
-II_Crónicas	6:18	#	48:6.12/#	Heaven, heaven of heavens	R	PROBLEM
+II_Crónicas	6:18	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
 II_Crónicas	6:18	#	3:1.2/#	El cielo de los cielos	R	#
 II_Crónicas	6:18	#	181:1.2/#	Cielo de los cielos	C	#
 II_Crónicas	6:18	#	2:1.1/#	El cielo de los cielos	R	#
-II_Crónicas	6:18	#	48:6.12/#	Heaven, heaven of heavens	R	PROBLEM
+II_Crónicas	6:18	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
 II_Crónicas	6:30	#	32:4.8/#	El Señor conoce a sus hijos	R	#
 II_Crónicas	6:38-39	#	159:5.13/#	Repent for forgiveness (OT)+	C	PROBLEM
 II_Crónicas	7:1-3	#	85:4.2/#	Ángeles del fuego	C	#
@@ -62,7 +62,7 @@ II_Crónicas	19:7	#	1:4.6/#	Dios no hace acepción de personas	C	#
 II_Crónicas	19:7	#	143:1.5/#	Mi padre no hace acepción de personas	C	#
 II_Crónicas	19:7	#	148:6.2/#	No hace acepción de personas	C	#
 II_Crónicas	19:7	#	40:10.13/#	Dios no hace acepción de personas	C	#
-II_Crónicas	19:7	#	112:0.10/#	God is no respecter of persons	C	PROBLEM
+II_Crónicas	19:7	#	112:0.10/#	Dios no hace acepción de personas	C	#
 II_Crónicas	19:7	#	133:0.3/#	Dios no hace acepción de personas	C	#
 II_Crónicas	19:7	#	117:6.22/#	No hace acepción de personas	C	#
 II_Crónicas	19:7	#	134:4.7/#	Espiritualmente, todos los hombres son iguales	C	#

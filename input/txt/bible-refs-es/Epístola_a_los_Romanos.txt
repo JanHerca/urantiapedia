@@ -1,18 +1,18 @@
 Epístola_a_los_Romanos	1:7	#	1:1.5/#	Llamar a Dios «nuestro Padre»	R	#
 Epístola_a_los_Romanos	1:7	#	131:10.6/#	Relación entre padre e hijo	C	#
 Epístola_a_los_Romanos	1:7	#	1:1.1/#	Llamar a Dios «Padre»	C	#
-Epístola_a_los_Romanos	1:7	#	141:4.2/#	God is our Father+	C	PROBLEM
+Epístola_a_los_Romanos	1:7	#	141:4.2/#	Dios es nuestro Padre	C	#
 Epístola_a_los_Romanos	1:7	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
 Epístola_a_los_Romanos	1:7	#	131:10.8/#	La relación de padre e hijo	C	#
 Epístola_a_los_Romanos	1:7	#	149:6.8/#	Dios es nuestro Padre	C	#
 Epístola_a_los_Romanos	1:7	#	131:10.5/#	Dios es «mi» padre	C	#
 Epístola_a_los_Romanos	1:16	#	140:9.3/#	Primero a los judíos, luego a los gentiles	C	#
 Epístola_a_los_Romanos	1:16-17	#	190:4.1/#	Evangelio de salvación	C	#
-Epístola_a_los_Romanos	1:16-17	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Epístola_a_los_Romanos	1:16-17	#	190:5.4/#	Evangelio de salvación de Dios	C	#
 Epístola_a_los_Romanos	1:17	#	137:8.17/#	La fe es el precio para entrar	C	#
 Epístola_a_los_Romanos	1:17	#	140:1.4/#	Sólo la fe os atravesará la puerta	S	#
 Epístola_a_los_Romanos	1:17	#	102:0.2/#	La fe disipa la desesperación	C	#
-Epístola_a_los_Romanos	1:20	#	0:3.2/#	Eternal God+	C	PROBLEM
+Epístola_a_los_Romanos	1:20	#	0:3.2/#	Dios eterno	C	#
 Epístola_a_los_Romanos	1:20	#	2:1.2/#	Inmortal, eterno	C	#
 Epístola_a_los_Romanos	1:20	#	1:5.3/#	Cosas invisibles parcialmente comprendidas	R	#
 Epístola_a_los_Romanos	2:4	#	2:6.3/#	Bondad de Dios	R	#
@@ -27,7 +27,7 @@ Epístola_a_los_Romanos	2:7	#	3:0.1/#	Vida eterna	C	#
 Epístola_a_los_Romanos	2:7	#	2:2.1/#	Vida eterna	C	#
 Epístola_a_los_Romanos	2:7	#	121:5.11/#	Vida después de la muerte	C	#
 Epístola_a_los_Romanos	2:7	#	181:2.11/#	La vida eterna en el reino venidero	C	#
-Epístola_a_los_Romanos	2:7	#	101:6.8/#	Eternal life+	C	PROBLEM
+Epístola_a_los_Romanos	2:7	#	101:6.8/#	Vida eterna	C	#
 Epístola_a_los_Romanos	2:7	#	27:1.5/#	Vida eterna	C	#
 Epístola_a_los_Romanos	2:7	#	162:2.7/#	Vida eterna	C	#
 Epístola_a_los_Romanos	2:7	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
@@ -37,7 +37,7 @@ Epístola_a_los_Romanos	2:7	#	170:2.2/#	La esperanza de la vida eterna	S	#
 Epístola_a_los_Romanos	2:7	#	153:2.11/#	Los que creen tienen vida eterna	C	#
 Epístola_a_los_Romanos	2:7	#	128:1.10/#	Dador de la vida eterna	C	#
 Epístola_a_los_Romanos	2:7	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
-Epístola_a_los_Romanos	2:7	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Epístola_a_los_Romanos	2:7	#	170:2.20/#	Vida eterna / sin fin	C	#
 Epístola_a_los_Romanos	2:9-11	#	137:8.11/#	No habrá judíos ni gentiles	C	#
 Epístola_a_los_Romanos	2:9-11	#	140:1.2/#	No es el Dios de los judíos o de los gentiles	S	#
 Epístola_a_los_Romanos	2:11	#	155:6.2/#	Dios no hace acepción de razas	C	#
@@ -55,7 +55,7 @@ Epístola_a_los_Romanos	2:11	#	181:2.14/#	El Padre y el Hijo no hacen acepción 
 Epístola_a_los_Romanos	2:11	#	190:4.1/#	Ni judíos ni gentiles	S	#
 Epístola_a_los_Romanos	2:11	#	1:4.6/#	Dios no hace acepción de personas	C	#
 Epístola_a_los_Romanos	2:11	#	117:6.22/#	No hace acepción de personas	C	#
-Epístola_a_los_Romanos	2:11	#	112:0.10/#	God is no respecter of persons	C	PROBLEM
+Epístola_a_los_Romanos	2:11	#	112:0.10/#	Dios no hace acepción de personas	C	#
 Epístola_a_los_Romanos	2:11	#	190:3.1/#	En el reino no habrá diferencias	C	#
 Epístola_a_los_Romanos	2:11	#	150:1.3/#	Igualdad de todos los seres humanos	C	#
 Epístola_a_los_Romanos	2:11	#	143:1.5/#	Mi padre no hace acepción de personas	C	#
@@ -76,12 +76,12 @@ Epístola_a_los_Romanos	3:28	#	196:3.4/#	Justificado por la fe	S	#
 Epístola_a_los_Romanos	3:30	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
 Epístola_a_los_Romanos	3:30	#	131:10.2/#	Un único Dios	C	#
 Epístola_a_los_Romanos	3:30	#	56:4.4/#	Dios es uno	C	#
-Epístola_a_los_Romanos	3:30	#	92:5.8/#	One God+	C	PROBLEM
+Epístola_a_los_Romanos	3:30	#	92:5.8/#	Un único Dios	C	#
 Epístola_a_los_Romanos	3:30	#	96:5.5/#	El Señor es un único Dios	C	#
 Epístola_a_los_Romanos	3:30	#	1:0.1/#	No hay Dios aparte de ti	C	#
 Epístola_a_los_Romanos	3:30	#	45:4.8/#	Dios único	C	#
 Epístola_a_los_Romanos	3:30	#	1:7.6/#	Dios es uno solo	R	#
-Epístola_a_los_Romanos	3:30	#	92:6.6/#	One God+	C	PROBLEM
+Epístola_a_los_Romanos	3:30	#	92:6.6/#	Un único Dios	C	#
 Epístola_a_los_Romanos	4:3,5	#	93:4.5/#	Contado en justicia	R	#
 Epístola_a_los_Romanos	4:13	#	136:1.1/#	Semilla de Abraham	R	#
 Epístola_a_los_Romanos	4:20	#	111:7.1/#	Incertidumbre en la seguridad	C	#
@@ -105,8 +105,8 @@ Epístola_a_los_Romanos	5:12-19	#	148:4.7/#	La supuesta caída del hombre	C	#
 Epístola_a_los_Romanos	5:12-19	#	148:4.9/#	Los griegos enseñan la degradación del hombre	C	#
 Epístola_a_los_Romanos	5:12-19	#	89:2.3/#	La caída de la humanidad	C	#
 Epístola_a_los_Romanos	5:15-18	#	110:2.2/#	La supervivencia es un don	C	#
-Epístola_a_los_Romanos	5:21	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
-Epístola_a_los_Romanos	5:21	#	101:6.8/#	Eternal life+	C	PROBLEM
+Epístola_a_los_Romanos	5:21	#	170:2.20/#	Vida eterna / sin fin	C	#
+Epístola_a_los_Romanos	5:21	#	101:6.8/#	Vida eterna	C	#
 Epístola_a_los_Romanos	5:21	#	155:6.3/#	De la muerte a la vida	C	#
 Epístola_a_los_Romanos	5:21	#	170:2.2/#	La esperanza de la vida eterna	S	#
 Epístola_a_los_Romanos	5:21	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
@@ -127,7 +127,7 @@ Epístola_a_los_Romanos	6:6	#	103:2.9/#	Naturaleza superior e inferior	R	#
 Epístola_a_los_Romanos	6:22-23	#	170:2.2/#	La esperanza de la vida eterna	S	#
 Epístola_a_los_Romanos	6:22-23	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
 Epístola_a_los_Romanos	6:22-23	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
-Epístola_a_los_Romanos	6:22-23	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Epístola_a_los_Romanos	6:22-23	#	170:2.20/#	Vida eterna / sin fin	C	#
 Epístola_a_los_Romanos	6:22-23	#	181:2.11/#	La vida eterna en el reino venidero	C	#
 Epístola_a_los_Romanos	6:22-23	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
 Epístola_a_los_Romanos	6:22-23	#	162:2.7/#	Vida eterna	C	#
@@ -136,7 +136,7 @@ Epístola_a_los_Romanos	6:22-23	#	121:5.11/#	Vida después de la muerte	C	#
 Epístola_a_los_Romanos	6:22-23	#	146:3.7/#	La vida eterna	C	#
 Epístola_a_los_Romanos	6:22-23	#	27:1.5/#	Vida eterna	C	#
 Epístola_a_los_Romanos	6:22-23	#	128:1.10/#	Dador de la vida eterna	C	#
-Epístola_a_los_Romanos	6:22-23	#	101:6.8/#	Eternal life+	C	PROBLEM
+Epístola_a_los_Romanos	6:22-23	#	101:6.8/#	Vida eterna	C	#
 Epístola_a_los_Romanos	6:22-23	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
 Epístola_a_los_Romanos	6:22-23	#	2:2.1/#	Vida eterna	C	#
 Epístola_a_los_Romanos	6:22-23	#	3:0.1/#	Vida eterna	C	#
@@ -180,12 +180,12 @@ Epístola_a_los_Romanos	8:9-11	#	140:1.5/#	El reino es Dios dentro de vosotros	S
 Epístola_a_los_Romanos	8:9-11	#	1:4.2/#	El cuerpo es el templo de Dios	C	#
 Epístola_a_los_Romanos	8:9-11	#	34:6.7/#	Sois el templo de Dios, y os habita el espíritu	C	#
 Epístola_a_los_Romanos	8:9-11	#	133:4.4/#	Dios habita en tu alma	C	#
-Epístola_a_los_Romanos	8:9-11	#	170:2.20/#	Kingdom of God within+	C	PROBLEM
+Epístola_a_los_Romanos	8:9-11	#	170:2.20/#	El Reino de Dios dentro de nosotros	C	#
 Epístola_a_los_Romanos	8:9-11	#	146:3.5/#	Espíritu viviente del Padre	C	#
 Epístola_a_los_Romanos	8:9-11	#	5:2.3/#	El espíritu viviendo dentro	C	#
 Epístola_a_los_Romanos	8:9-11	#	134:4.7/#	El espíritu interior	C	#
 Epístola_a_los_Romanos	8:9-11	#	12:7.12/#	Dios vive en nosotros	C	#
-Epístola_a_los_Romanos	8:9-11	#	170:1.8/#	Kingdom within you	S	PROBLEM
+Epístola_a_los_Romanos	8:9-11	#	170:1.8/#	El reino dentro de ti	S	#
 Epístola_a_los_Romanos	8:9-11	#	167:7.4/#	El espíritu de Dios vive en vosotros	C	#
 Epístola_a_los_Romanos	8:9-11	#	3:1.4/#	Vive en nosotros	R	#
 Epístola_a_los_Romanos	8:11	#	34:6.5/#	El Espíritu es el que vivifica	R	#
@@ -198,10 +198,10 @@ Epístola_a_los_Romanos	8:14	#	143:2.7/#	Filiación por la fe	C	#
 Epístola_a_los_Romanos	8:14 -15	#	131:10.5/#	Dios es «mi» padre	C	#
 Epístola_a_los_Romanos	8:14-15	#	149:6.8/#	Dios es nuestro Padre	C	#
 Epístola_a_los_Romanos	8:14-15	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
-Epístola_a_los_Romanos	8:14-15	#	141:4.2/#	God is our Father+	C	PROBLEM
+Epístola_a_los_Romanos	8:14-15	#	141:4.2/#	Dios es nuestro Padre	C	#
 Epístola_a_los_Romanos	8:14-15,19,21	#	143:2.7/#	Los hijos liberados de Dios	C	#
 Epístola_a_los_Romanos	8:14-17	#	142:5.3/#	El espíritu da testimonio del espíritu	C	#
-Epístola_a_los_Romanos	8:14-17,19,21	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+Epístola_a_los_Romanos	8:14-17,19,21	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	153:2.4/#	Fraternidad de los hijos de Dios	C	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	5:4.8/#	Somos hijos de Dios	C	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	196:0.2/#	Cada criatura mortal es un hijo de Dios	C	#
@@ -209,7 +209,7 @@ Epístola_a_los_Romanos	8:14-17,19,21	#	193:0.5/#	Somos los hijos de Dios en la 
 Epístola_a_los_Romanos	8:14-17,19,21	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	131:10.2/#	Somos los hijos de Dios	C	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	181:2.12/#	Los creyentes, hijos de Dios	C	#
-Epístola_a_los_Romanos	8:14-17,19,21	#	140:3.16/#	Sons of living God+	C	PROBLEM
+Epístola_a_los_Romanos	8:14-17,19,21	#	140:3.16/#	Hijos del Dios viviente	C	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	170:2.8/#	Los hijos salvados de Dios	S	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	190:3.1/#	El evangelio de la filiación	C	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	131:10.8/#	La relación de padre e hijo	C	#
@@ -222,10 +222,10 @@ Epístola_a_los_Romanos	8:14-17,19,21	#	193:1.2/#	Todos los hombres son hijos de
 Epístola_a_los_Romanos	8:14-17,19,21	#	1:3.1/#	Progenie de Dios	C	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	2:5.4/#	Somos hijos de Dios	C	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	8:6.4/#	Los conducidos por el Espíritu son hijos de Dios	R	#
-Epístola_a_los_Romanos	8:14-17,19,21	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+Epístola_a_los_Romanos	8:14-17,19,21	#	170:2.20/#	Hijos de Dios liberados	C	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	140:1.6/#	Hijos del Dios viviente	C	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	34:6.10/#	Hijos de Dios	C	#
-Epístola_a_los_Romanos	8:14-17,19,21	#	141:4.2/#	We are God's children+	C	PROBLEM
+Epístola_a_los_Romanos	8:14-17,19,21	#	141:4.2/#	Somos los hijos de Dios	C	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	141:2.2/#	Hijos de Dios por la fe	C	#
 Epístola_a_los_Romanos	8:14-17,19,21	#	149:6.8/#	Nosotros somos sus hijos	C	#
@@ -263,17 +263,17 @@ Epístola_a_los_Romanos	8:37	#	195:10.1/#	Más que conquistadores	C	#
 Epístola_a_los_Romanos	8:38-39	#	100:6.6/#	Estoy convencido de que ni la muerte	R	#
 Epístola_a_los_Romanos	9:24	#	140:1.2/#	No es el Dios de los judíos o de los gentiles	S	#
 Epístola_a_los_Romanos	9:24	#	137:8.11/#	No habrá judíos ni gentiles	C	#
-Epístola_a_los_Romanos	9:26	#	141:4.2/#	We are God's children+	C	PROBLEM
+Epístola_a_los_Romanos	9:26	#	141:4.2/#	Somos los hijos de Dios	C	#
 Epístola_a_los_Romanos	9:26	#	5:4.8/#	Somos hijos de Dios	C	#
-Epístola_a_los_Romanos	9:26	#	140:3.16/#	Sons of living God+	C	PROBLEM
+Epístola_a_los_Romanos	9:26	#	140:3.16/#	Hijos del Dios viviente	C	#
 Epístola_a_los_Romanos	9:26	#	141:2.2/#	Hijos de Dios por la fe	C	#
 Epístola_a_los_Romanos	9:26	#	143:2.7/#	Los hijos liberados de Dios	C	#
 Epístola_a_los_Romanos	9:26	#	40:6.1/#	Hijos de Dios por la fe	C	#
 Epístola_a_los_Romanos	9:26	#	170:2.20/#	Hijos de Dios	C	#
 Epístola_a_los_Romanos	9:26	#	34:6.10/#	Hijos de Dios	C	#
-Epístola_a_los_Romanos	9:26	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+Epístola_a_los_Romanos	9:26	#	170:2.20/#	Hijos de Dios liberados	C	#
 Epístola_a_los_Romanos	9:26	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
-Epístola_a_los_Romanos	9:26	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+Epístola_a_los_Romanos	9:26	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
 Epístola_a_los_Romanos	9:26	#	149:2.10/#	Hijos del Dios viviente	C	#
 Epístola_a_los_Romanos	9:26	#	131:10.8/#	La relación de padre e hijo	C	#
 Epístola_a_los_Romanos	9:26	#	131:10.2/#	Somos los hijos de Dios	C	#
@@ -304,7 +304,7 @@ Epístola_a_los_Romanos	9:33	#	139:12.7/#	Todo el que quiera puede venir	C	#
 Epístola_a_los_Romanos	9:33	#	131:10.7/#	Quien lo desee será salvado	C	#
 Epístola_a_los_Romanos	10:9-13	#	190:0.4/#	La fe en la resurrección	C	#
 Epístola_a_los_Romanos	10:10-13	#	190:4.1/#	Evangelio de salvación	C	#
-Epístola_a_los_Romanos	10:10-13	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Epístola_a_los_Romanos	10:10-13	#	190:5.4/#	Evangelio de salvación de Dios	C	#
 Epístola_a_los_Romanos	10:12	#	140:1.2/#	No es el Dios de los judíos o de los gentiles	S	#
 Epístola_a_los_Romanos	10:12	#	137:8.11/#	No habrá judíos ni gentiles	C	#
 Epístola_a_los_Romanos	10:12	#	175:2.1/#	El estado de los judíos	C	#
@@ -333,7 +333,7 @@ Epístola_a_los_Romanos	11:36	#	3:1.2/#	Es todo en todo	C	#
 Epístola_a_los_Romanos	12:2	#	110:2.5/#	Las mentes se volverán una sola	C	#
 Epístola_a_los_Romanos	12:2	#	143:2.4/#	Transformación	C	#
 Epístola_a_los_Romanos	12:2	#	156:5.4/#	Transformar las tentaciones	C	#
-Epístola_a_los_Romanos	12:3	#	48:4.14/#	Ego deflation+	C	PROBLEM
+Epístola_a_los_Romanos	12:3	#	48:4.14/#	Desenaltecerse	C	#
 Epístola_a_los_Romanos	12:4-8	#	170:5.7/#	La iglesia institucionalizada de Pablo	C	#
 Epístola_a_los_Romanos	12:5	#	54:6.3/#	Impacto social del mal	C	#
 Epístola_a_los_Romanos	12:15	#	16:6.3/#	Mentes afine	C	#
@@ -359,7 +359,7 @@ Epístola_a_los_Romanos	13:9b	#	131:2.11/#	Ama a tu prójimo como a ti mismo	R	#
 Epístola_a_los_Romanos	13:9b	#	110:3.9/#	Amando a los hombres	C	#
 Epístola_a_los_Romanos	13:9b	#	170:3.6/#	Amar al prójimo	S	#
 Epístola_a_los_Romanos	13:9b	#	159:5.9/#	Ama a tu prójimo como a ti mismo	R	#
-Epístola_a_los_Romanos	13:9b	#	131:2.13/#	Love neighbors as yourself	R	PROBLEM
+Epístola_a_los_Romanos	13:9b	#	131:2.13/#	Ama a tu prójimo como a ti mismo	R	#
 Epístola_a_los_Romanos	13:9b	#	103:5.2/#	Amar al prójimo como a sí mismo	C	#
 Epístola_a_los_Romanos	13:9b	#	159:5.4/#	Ama a tu prójimo como a ti	R	#
 Epístola_a_los_Romanos	13:9b	#	163:4.8/#	Ama a tu prójimo como a ti mismo	S	#

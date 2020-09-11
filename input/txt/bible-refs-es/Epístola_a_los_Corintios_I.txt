@@ -1,5 +1,5 @@
 Epístola_a_los_Corintios_I	1:1	#	194:4.7/#	Se llamaban unos a otros hermanos y hermanas	C	#
-Epístola_a_los_Corintios_I	1:3	#	141:4.2/#	God is our Father+	C	PROBLEM
+Epístola_a_los_Corintios_I	1:3	#	141:4.2/#	Dios es nuestro Padre	C	#
 Epístola_a_los_Corintios_I	1:3	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
 Epístola_a_los_Corintios_I	1:3	#	131:10.8/#	La relación de padre e hijo	C	#
 Epístola_a_los_Corintios_I	1:3	#	131:10.6/#	Relación entre padre e hijo	C	#
@@ -32,8 +32,8 @@ Epístola_a_los_Corintios_I	2:16	#	107:5.3/#	Mente espiritual	C	#
 Epístola_a_los_Corintios_I	2:16	#	9:5.4/#	La mente del Espíritu	C	#
 Epístola_a_los_Corintios_I	2:16	#	6:6.4/#	Mente del espíritu	C	#
 Epístola_a_los_Corintios_I	2:16	#	16:6.2/#	Mente de Jesús	C	#
-Epístola_a_los_Corintios_I	2:16	#	42:12.8/#	Mind dominance	C	PROBLEM
-Epístola_a_los_Corintios_I	2:16	#	48:6.15/#	Mind of Jesus	C	PROBLEM
+Epístola_a_los_Corintios_I	2:16	#	42:12.8/#	Dominación de la mente	C	#
+Epístola_a_los_Corintios_I	2:16	#	48:6.15/#	La mente de Jesús	C	#
 Epístola_a_los_Corintios_I	2:16	#	102:4.1/#	Dejar la mente de Cristo estar en vosotros	R	#
 Epístola_a_los_Corintios_I	2:16	#	2:1.2/#	Mente primordial	C	#
 Epístola_a_los_Corintios_I	3:1-2	#	156:2.6/#	No continuar siendo niños en evangelio	C	#
@@ -53,7 +53,7 @@ Epístola_a_los_Corintios_I	3:16-17	#	108:6.2/#	Reino de los cielos dentro de vo
 Epístola_a_los_Corintios_I	3:16-17	#	110:1.5/#	El cuerpo es el tabernáculo	C	#
 Epístola_a_los_Corintios_I	3:16-17	#	34:6.7/#	Sois el templo de Dios, y os habita el espíritu	C	#
 Epístola_a_los_Corintios_I	3:16-17	#	146:3.5/#	Espíritu viviente del Padre	C	#
-Epístola_a_los_Corintios_I	3:16-17	#	170:1.8/#	Kingdom within you	S	PROBLEM
+Epístola_a_los_Corintios_I	3:16-17	#	170:1.8/#	El reino dentro de ti	S	#
 Epístola_a_los_Corintios_I	3:16-17	#	3:1.4/#	Vive en nosotros	R	#
 Epístola_a_los_Corintios_I	3:16-17	#	134:4.7/#	El espíritu interior	C	#
 Epístola_a_los_Corintios_I	3:16-17	#	148:6.10/#	Dios habita dentro de ti	C	#
@@ -62,7 +62,7 @@ Epístola_a_los_Corintios_I	3:16-17	#	195:10.4/#	El reino de Dios está dentro d
 Epístola_a_los_Corintios_I	3:16-17	#	133:4.4/#	Dios habita en tu alma	C	#
 Epístola_a_los_Corintios_I	3:16-17	#	167:7.4/#	El espíritu de Dios vive en vosotros	C	#
 Epístola_a_los_Corintios_I	3:16-17	#	131:10.2/#	El espíritu de Dios habita en nuestra alma	C	#
-Epístola_a_los_Corintios_I	3:16-17	#	170:2.20/#	Kingdom of God within+	C	PROBLEM
+Epístola_a_los_Corintios_I	3:16-17	#	170:2.20/#	El Reino de Dios dentro de nosotros	C	#
 Epístola_a_los_Corintios_I	3:16-17	#	12:7.12/#	Dios vive en nosotros	C	#
 Epístola_a_los_Corintios_I	3:16-17	#	16:9.4/#	El espíritu de Dios vive en nosotros	C	#
 Epístola_a_los_Corintios_I	3:16-17	#	34:6.7/#	Sois el templo de Dios, y os habita el espíritu	R	#
@@ -86,7 +86,7 @@ Epístola_a_los_Corintios_I	6:17	#	110:1.6/#	Unidad de espíritu	C	#
 Epístola_a_los_Corintios_I	6:19	#	103:1.6/#	El espíritu en el hombre (Ajustador del Pensamiento)	C	#
 Epístola_a_los_Corintios_I	6:19	#	140:1.5/#	El reino es Dios dentro de vosotros	S	#
 Epístola_a_los_Corintios_I	6:19	#	3:1.4/#	Vive en nosotros	R	#
-Epístola_a_los_Corintios_I	6:19	#	170:2.20/#	Kingdom of God within+	C	PROBLEM
+Epístola_a_los_Corintios_I	6:19	#	170:2.20/#	El Reino de Dios dentro de nosotros	C	#
 Epístola_a_los_Corintios_I	6:19	#	167:7.4/#	El espíritu de Dios vive en vosotros	C	#
 Epístola_a_los_Corintios_I	6:19	#	16:9.4/#	El espíritu de Dios vive en nosotros	C	#
 Epístola_a_los_Corintios_I	6:19	#	195:10.4/#	El reino de Dios está dentro de vosotros	S	#
@@ -117,10 +117,10 @@ Epístola_a_los_Corintios_I	8:4-6	#	1:0.1/#	No hay Dios aparte de ti	C	#
 Epístola_a_los_Corintios_I	8:4-6	#	1:7.6/#	Dios es uno solo	R	#
 Epístola_a_los_Corintios_I	8:4-6	#	45:4.8/#	Dios único	C	#
 Epístola_a_los_Corintios_I	8:4-6	#	56:4.4/#	Dios es uno	C	#
-Epístola_a_los_Corintios_I	8:4-6	#	92:6.6/#	One God+	C	PROBLEM
+Epístola_a_los_Corintios_I	8:4-6	#	92:6.6/#	Un único Dios	C	#
 Epístola_a_los_Corintios_I	8:4-6	#	131:10.2/#	Un único Dios	C	#
 Epístola_a_los_Corintios_I	8:4-6	#	96:5.5/#	El Señor es un único Dios	C	#
-Epístola_a_los_Corintios_I	8:4-6	#	92:5.8/#	One God+	C	PROBLEM
+Epístola_a_los_Corintios_I	8:4-6	#	92:5.8/#	Un único Dios	C	#
 Epístola_a_los_Corintios_I	8:4-6	#	160:5.9/#	Un único Dios y los dioses falsos	C	#
 Epístola_a_los_Corintios_I	8:4-6	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
 Epístola_a_los_Corintios_I	8:6	#	2:1.2/#	Un Dios, el Padre	R	#
@@ -129,7 +129,7 @@ Epístola_a_los_Corintios_I	8:6	#	11:8.1/#	Dios es todas las cosas	C	#
 Epístola_a_los_Corintios_I	8:6	#	3:1.2/#	Es todo en todo	C	#
 Epístola_a_los_Corintios_I	8:6	#	56:9.14/#	Dios es todo y está en todo	C	#
 Epístola_a_los_Corintios_I	8:6	#	174:3.2/#	La relación de Dios con todas las cosas	C	#
-Epístola_a_los_Corintios_I	8:19	#	170:1.8/#	Kingdom within you	S	PROBLEM
+Epístola_a_los_Corintios_I	8:19	#	170:1.8/#	El reino dentro de ti	S	#
 Epístola_a_los_Corintios_I	10:13	#	4:1.3/#	Dios es fiel	R	#
 Epístola_a_los_Corintios_I	10:17	#	134:4.6/#	Unidad, no uniformidad	C	#
 Epístola_a_los_Corintios_I	10:17	#	54:6.3/#	Impacto social del mal	C	#
@@ -149,7 +149,7 @@ Epístola_a_los_Corintios_I	12:4-6	#	79:3.4/#	Antigua visión de la Trinidad del
 Epístola_a_los_Corintios_I	12:4-6	#	0:12.2/#	La visión de Pablo sobre la Trinidad	C	#
 Epístola_a_los_Corintios_I	12:4-6	#	194:4.9/#	La Trinidad (primera visión de Pablo)	C	#
 Epístola_a_los_Corintios_I	12:4-6	#	118:10.2/#	La Trinidad (Primitiva visión de Pablo)	C	#
-Epístola_a_los_Corintios_I	12:4-31	#	141:5.2/#	Unity in diversity	C	PROBLEM
+Epístola_a_los_Corintios_I	12:4-31	#	141:5.2/#	Unidad en la diversidad	C	#
 Epístola_a_los_Corintios_I	12:6	#	56:9.14/#	Dios es todo y está en todo	C	#
 Epístola_a_los_Corintios_I	12:6	#	3:1.2/#	Es todo en todo	R	#
 Epístola_a_los_Corintios_I	12:6	#	174:3.2/#	La relación de Dios con todas las cosas	C	#
@@ -177,12 +177,12 @@ Epístola_a_los_Corintios_I	13:12	#	6:6.2/#	Conocer y ser conocido	C	#
 Epístola_a_los_Corintios_I	13:12	#	1:5.8/#	Conocer y ser conocido	R	#
 Epístola_a_los_Corintios_I	13:12	#	6:6.3/#	Conocer y ser conocido	C	#
 Epístola_a_los_Corintios_I	13:13	#	194:3.2/#	La fe, la esperanza y el amor	R	#
-Epístola_a_los_Corintios_I	13:13	#	196:3.16/#	Faith, hope, & charity	S	PROBLEM
+Epístola_a_los_Corintios_I	13:13	#	196:3.16/#	Fe, esperanza y caridad	S	#
 Epístola_a_los_Corintios_I	13:14	#	121:8.8/#	La gracia del Señor Jesucristo	R	#
 Epístola_a_los_Corintios_I	14:14-19	#	168:4.9/#	Orar en el espíritu	C	#
 Epístola_a_los_Corintios_I	14:19	#	26:11.4/#	Sed comprensivos con el hombre	R	#
 Epístola_a_los_Corintios_I	14:33	#	5:4.2/#	Paz duradera	C	#
-Epístola_a_los_Corintios_I	14:34	#	82:2.5/#	Female bias	C	PROBLEM
+Epístola_a_los_Corintios_I	14:34	#	82:2.5/#	Discriminación femenina	C	#
 Epístola_a_los_Corintios_I	14:34-35	#	150:1.3/#	Visión de Pablo de las mujeres	C	#
 Epístola_a_los_Corintios_I	15:3	#	186:5.7/#	Contra la idea de la expiación del pecado	C	#
 Epístola_a_los_Corintios_I	15:5a	#	191:1.1/#	Jesús se aparece a Pedro	C	#

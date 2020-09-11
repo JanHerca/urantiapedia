@@ -1,6 +1,6 @@
 Epístola_a_los_Gálatas	1:4	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
 Epístola_a_los_Gálatas	1:4	#	149:6.8/#	Dios es nuestro Padre	C	#
-Epístola_a_los_Gálatas	1:4	#	141:4.2/#	God is our Father+	C	PROBLEM
+Epístola_a_los_Gálatas	1:4	#	141:4.2/#	Dios es nuestro Padre	C	#
 Epístola_a_los_Gálatas	1:4	#	131:10.5/#	Dios es «mi» padre	C	#
 Epístola_a_los_Gálatas	1:4	#	121:5.11/#	Liberación del mal	C	#
 Epístola_a_los_Gálatas	1:6-9	#	159:4.6/#	En contra de la infalibilidad de las escrituras	C	#
@@ -27,7 +27,7 @@ Epístola_a_los_Gálatas	2:6	#	155:6.2/#	Dios no hace acepción de razas	C	#
 Epístola_a_los_Gálatas	2:6	#	138:4.2/#	Igualdad de todos los que buscan a Dios	C	#
 Epístola_a_los_Gálatas	2:6	#	139:10.9/#	Jesús no hacía acepción de personas	C	#
 Epístola_a_los_Gálatas	2:6	#	137:8.11/#	No habrá judíos ni gentiles	C	#
-Epístola_a_los_Gálatas	2:6	#	112:0.10/#	God is no respecter of persons	C	PROBLEM
+Epístola_a_los_Gálatas	2:6	#	112:0.10/#	Dios no hace acepción de personas	C	#
 Epístola_a_los_Gálatas	2:6	#	150:1.3/#	Igualdad de todos los seres humanos	C	#
 Epístola_a_los_Gálatas	2:6	#	190:3.1/#	En el reino no habrá diferencias	C	#
 Epístola_a_los_Gálatas	2:6	#	181:2.14/#	El Padre y el Hijo no hacen acepción de personas	C	#
@@ -54,23 +54,23 @@ Epístola_a_los_Gálatas	2:20	#	131:10.4/#	El espíritu de Dios está en el cora
 Epístola_a_los_Gálatas	2:20	#	34:7.1/#	Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	2:20	#	20:6.8/#	Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	2:20	#	16:9.4/#	El espíritu de Dios vive en nosotros	C	#
-Epístola_a_los_Gálatas	2:20	#	34:4.1/#	Spirit of Truth+	C	PROBLEM
+Epístola_a_los_Gálatas	2:20	#	34:4.1/#	El Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	2:20	#	131:10.2/#	El espíritu de Dios habita en nuestra alma	C	#
-Epístola_a_los_Gálatas	2:20	#	170:1.8/#	Kingdom within you	S	PROBLEM
+Epístola_a_los_Gálatas	2:20	#	170:1.8/#	El reino dentro de ti	S	#
 Epístola_a_los_Gálatas	2:20	#	2:5.6/#	Su espíritu vive en nosotros	C	#
 Epístola_a_los_Gálatas	2:20	#	120:2.4/#	Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	2:20	#	133:4.4/#	Dios habita en tu alma	C	#
-Epístola_a_los_Gálatas	2:20	#	20:1.6/#	Son poured out spirit on flesh+	C	PROBLEM
+Epístola_a_los_Gálatas	2:20	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
 Epístola_a_los_Gálatas	2:20	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
 Epístola_a_los_Gálatas	2:20	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
-Epístola_a_los_Gálatas	2:20	#	120:2.6/#	Spirit of Truth+	C	PROBLEM
+Epístola_a_los_Gálatas	2:20	#	120:2.6/#	El Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	2:20	#	140:1.5/#	El reino es Dios dentro de vosotros	S	#
 Epístola_a_los_Gálatas	2:20	#	134:4.7/#	El espíritu interior	C	#
 Epístola_a_los_Gálatas	2:20	#	133:4.5/#	El espíritu de Dios vive en nosotros	C	#
-Epístola_a_los_Gálatas	2:20	#	141:4.5/#	Jesus to pour out His spirit+	C	PROBLEM
+Epístola_a_los_Gálatas	2:20	#	141:4.5/#	Jesús envió Su Espíritu	C	#
 Epístola_a_los_Gálatas	2:20	#	146:3.6/#	El Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	2:20	#	52:5.6/#	Espíritu derramado sobre toda carne	R	#
-Epístola_a_los_Gálatas	2:20	#	170:2.20/#	Kingdom of God within+	C	PROBLEM
+Epístola_a_los_Gálatas	2:20	#	170:2.20/#	El Reino de Dios dentro de nosotros	C	#
 Epístola_a_los_Gálatas	2:20	#	181:2.14/#	Seguid al nuevo instructor en vuestros corazones	C	#
 Epístola_a_los_Gálatas	2:20	#	12:7.12/#	Dios vive en nosotros	C	#
 Epístola_a_los_Gálatas	2:20	#	191:6.3/#	El Espíritu de la Verdad	C	#
@@ -78,7 +78,7 @@ Epístola_a_los_Gálatas	2:20	#	176:4.3/#	Otro instructor, el Espíritu de la Ve
 Epístola_a_los_Gálatas	2:20	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
 Epístola_a_los_Gálatas	2:20	#	195:10.4/#	El reino de Dios está dentro de vosotros	S	#
 Epístola_a_los_Gálatas	2:20	#	167:7.4/#	El espíritu de Dios vive en vosotros	C	#
-Epístola_a_los_Gálatas	2:20	#	21:5.7/#	Spirit of Truth+	C	PROBLEM
+Epístola_a_los_Gálatas	2:20	#	21:5.7/#	El Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	2:20	#	3:1.4/#	Vive en nosotros	R	#
 Epístola_a_los_Gálatas	2:20	#	180:6.3/#	El Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	2:20	#	193:5.2/#	Envío del Espíritu de la Verdad	C	#
@@ -86,14 +86,14 @@ Epístola_a_los_Gálatas	2:20	#	137:8.7/#	Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	2:20	#	148:6.10/#	Dios habita dentro de ti	C	#
 Epístola_a_los_Gálatas	3:2	#	138:8.8/#	Cambio de la mente por la fe, el nuevo nacimiento	C	#
 Epístola_a_los_Gálatas	3:6	#	93:4.5/#	Contado en justicia	R	#
-Epístola_a_los_Gálatas	3:8	#	190:5.4/#	All nations to be blessed	C	PROBLEM
+Epístola_a_los_Gálatas	3:8	#	190:5.4/#	Todas las naciones serán bendecidas	C	#
 Epístola_a_los_Gálatas	3:11	#	137:8.17/#	La fe es el precio para entrar	C	#
 Epístola_a_los_Gálatas	3:11,24	#	196:3.4/#	Justificado por la fe	S	#
 Epístola_a_los_Gálatas	3:13	#	186:5.7/#	Contra la idea de la expiación del pecado	C	#
 Epístola_a_los_Gálatas	3:13-14	#	170:5.6/#	Jesús el Redentor de la Iglesia	C	#
 Epístola_a_los_Gálatas	3:20	#	131:10.2/#	Un único Dios	C	#
-Epístola_a_los_Gálatas	3:20	#	92:5.8/#	One God+	C	PROBLEM
-Epístola_a_los_Gálatas	3:20	#	92:6.6/#	One God+	C	PROBLEM
+Epístola_a_los_Gálatas	3:20	#	92:5.8/#	Un único Dios	C	#
+Epístola_a_los_Gálatas	3:20	#	92:6.6/#	Un único Dios	C	#
 Epístola_a_los_Gálatas	3:20	#	96:5.5/#	El Señor es un único Dios	C	#
 Epístola_a_los_Gálatas	3:20	#	1:7.6/#	Dios es uno solo	R	#
 Epístola_a_los_Gálatas	3:20	#	1:0.1/#	No hay Dios aparte de ti	C	#
@@ -103,14 +103,14 @@ Epístola_a_los_Gálatas	3:20	#	45:4.8/#	Dios único	C	#
 Epístola_a_los_Gálatas	3:22	#	101:6.9/#	La fe de Jesús	C	#
 Epístola_a_los_Gálatas	3:24	#	150:5.3/#	Salvados por la fe	S	#
 Epístola_a_los_Gálatas	3:26	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
-Epístola_a_los_Gálatas	3:26	#	141:4.2/#	We are God's children+	C	PROBLEM
+Epístola_a_los_Gálatas	3:26	#	141:4.2/#	Somos los hijos de Dios	C	#
 Epístola_a_los_Gálatas	3:26	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
 Epístola_a_los_Gálatas	3:26	#	190:4.1/#	Los hijos de la fe	C	#
 Epístola_a_los_Gálatas	3:26	#	190:3.1/#	El evangelio de la filiación	C	#
 Epístola_a_los_Gálatas	3:26	#	181:2.12/#	Los creyentes, hijos de Dios	C	#
 Epístola_a_los_Gálatas	3:26	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
 Epístola_a_los_Gálatas	3:26	#	193:1.2/#	Todos los hombres son hijos de Dios	C	#
-Epístola_a_los_Gálatas	3:26	#	140:3.16/#	Sons of living God+	C	PROBLEM
+Epístola_a_los_Gálatas	3:26	#	140:3.16/#	Hijos del Dios viviente	C	#
 Epístola_a_los_Gálatas	3:26	#	181:2.14/#	Los creyentes son hijos de Dios	C	#
 Epístola_a_los_Gálatas	3:26	#	153:2.4/#	Fraternidad de los hijos de Dios	C	#
 Epístola_a_los_Gálatas	3:26	#	143:2.7/#	Filiación por la fe	C	#
@@ -118,13 +118,13 @@ Epístola_a_los_Gálatas	3:26	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
 Epístola_a_los_Gálatas	3:26	#	142:5.2/#	Hijos de Dios	C	#
 Epístola_a_los_Gálatas	3:26	#	196:0.2/#	Cada criatura mortal es un hijo de Dios	C	#
 Epístola_a_los_Gálatas	3:26	#	131:10.2/#	Somos los hijos de Dios	C	#
-Epístola_a_los_Gálatas	3:26	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+Epístola_a_los_Gálatas	3:26	#	170:2.20/#	Hijos de Dios liberados	C	#
 Epístola_a_los_Gálatas	3:26	#	140:1.6/#	Hijos del Dios viviente	C	#
 Epístola_a_los_Gálatas	3:26	#	143:2.7/#	Filiación por la fe	C	#
 Epístola_a_los_Gálatas	3:26	#	141:2.2/#	Hijos de Dios por la fe	C	#
 Epístola_a_los_Gálatas	3:26	#	170:2.20/#	Hijos de Dios	C	#
 Epístola_a_los_Gálatas	3:26	#	149:2.10/#	Hijos del Dios viviente	C	#
-Epístola_a_los_Gálatas	3:26	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+Epístola_a_los_Gálatas	3:26	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
 Epístola_a_los_Gálatas	3:26	#	2:5.4/#	Somos hijos de Dios	C	#
 Epístola_a_los_Gálatas	3:26	#	5:4.8/#	Somos hijos de Dios	C	#
 Epístola_a_los_Gálatas	3:26	#	131:10.8/#	La relación de padre e hijo	C	#
@@ -155,7 +155,7 @@ Epístola_a_los_Gálatas	3:28	#	181:2.13/#	Muchos más para la armonía	C	#
 Epístola_a_los_Gálatas	3:28	#	137:8.11/#	No habrá judíos ni gentiles	C	#
 Epístola_a_los_Gálatas	3:28	#	155:6.2/#	Dios no hace acepción de razas	C	#
 Epístola_a_los_Gálatas	3:28	#	143:1.5/#	Mi padre no hace acepción de personas	C	#
-Epístola_a_los_Gálatas	3:28	#	112:0.10/#	God is no respecter of persons	C	PROBLEM
+Epístola_a_los_Gálatas	3:28	#	112:0.10/#	Dios no hace acepción de personas	C	#
 Epístola_a_los_Gálatas	3:28	#	156:2.4/#	No existen favoritismos con Dios	C	#
 Epístola_a_los_Gálatas	3:28	#	175:2.3/#	Dios no hace acepción de personas	C	#
 Epístola_a_los_Gálatas	3:28	#	117:6.22/#	No hace acepción de personas	C	#
@@ -170,22 +170,22 @@ Epístola_a_los_Gálatas	4:5-7	#	141:2.2/#	Hijos de Dios por la fe	C	#
 Epístola_a_los_Gálatas	4:5-7	#	140:1.6/#	Hijos del Dios viviente	C	#
 Epístola_a_los_Gálatas	4:5-7	#	5:4.8/#	Somos hijos de Dios	C	#
 Epístola_a_los_Gálatas	4:5-7	#	170:2.20/#	Hijos de Dios	C	#
-Epístola_a_los_Gálatas	4:5-7	#	141:4.2/#	We are God's children+	C	PROBLEM
+Epístola_a_los_Gálatas	4:5-7	#	141:4.2/#	Somos los hijos de Dios	C	#
 Epístola_a_los_Gálatas	4:5-7	#	131:10.8/#	La relación de padre e hijo	C	#
 Epístola_a_los_Gálatas	4:5-7	#	8:6.4/#	Hijos de Dios	C	#
 Epístola_a_los_Gálatas	4:5-7	#	190:3.1/#	El evangelio de la filiación	C	#
 Epístola_a_los_Gálatas	4:5-7	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
-Epístola_a_los_Gálatas	4:5-7	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+Epístola_a_los_Gálatas	4:5-7	#	170:2.20/#	Hijos de Dios liberados	C	#
 Epístola_a_los_Gálatas	4:5-7	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
 Epístola_a_los_Gálatas	4:5-7	#	2:5.4/#	Somos hijos de Dios	C	#
 Epístola_a_los_Gálatas	4:5-7	#	34:6.10/#	Hijos de Dios	C	#
-Epístola_a_los_Gálatas	4:5-7	#	140:3.16/#	Sons of living God+	C	PROBLEM
+Epístola_a_los_Gálatas	4:5-7	#	140:3.16/#	Hijos del Dios viviente	C	#
 Epístola_a_los_Gálatas	4:5-7	#	40:6.1/#	Hijos de Dios por la fe	C	#
 Epístola_a_los_Gálatas	4:5-7	#	170:2.8/#	Los hijos salvados de Dios	S	#
 Epístola_a_los_Gálatas	4:5-7	#	142:5.2/#	Hijos de Dios	C	#
 Epístola_a_los_Gálatas	4:5-7	#	196:0.2/#	Cada criatura mortal es un hijo de Dios	C	#
 Epístola_a_los_Gálatas	4:5-7	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
-Epístola_a_los_Gálatas	4:5-7	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+Epístola_a_los_Gálatas	4:5-7	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
 Epístola_a_los_Gálatas	4:5-7	#	1:3.1/#	Progenie de Dios	C	#
 Epístola_a_los_Gálatas	4:5-7	#	181:2.12/#	Los creyentes, hijos de Dios	C	#
 Epístola_a_los_Gálatas	4:5-7	#	149:6.8/#	Nosotros somos sus hijos	C	#
@@ -200,15 +200,15 @@ Epístola_a_los_Gálatas	4:5-7	#	131:10.6/#	Relación entre padre e hijo	C	#
 Epístola_a_los_Gálatas	4:5-7	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
 Epístola_a_los_Gálatas	4:6	#	180:4.5/#	Os enviaré mi «espíritu»	C	#
 Epístola_a_los_Gálatas	4:6	#	181:2.14/#	Seguid al nuevo instructor en vuestros corazones	C	#
-Epístola_a_los_Gálatas	4:6	#	141:4.5/#	Jesus to pour out His spirit+	C	PROBLEM
+Epístola_a_los_Gálatas	4:6	#	141:4.5/#	Jesús envió Su Espíritu	C	#
 Epístola_a_los_Gálatas	4:6	#	181:1.4/#	Derramaré mi espíritu sobre toda la carne	C	#
 Epístola_a_los_Gálatas	4:6	#	180:3.3/#	Promesa del confortador	C	#
 Epístola_a_los_Gálatas	4:6	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
-Epístola_a_los_Gálatas	4:6	#	34:4.1/#	Spirit of Truth+	C	PROBLEM
+Epístola_a_los_Gálatas	4:6	#	34:4.1/#	El Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	4:6	#	137:8.7/#	Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	4:6	#	40:6.2/#	Espíritu de Dios en los corazones	R	#
 Epístola_a_los_Gálatas	4:6	#	52:5.6/#	Espíritu derramado sobre toda carne	R	#
-Epístola_a_los_Gálatas	4:6	#	21:5.7/#	Spirit of Truth+	C	PROBLEM
+Epístola_a_los_Gálatas	4:6	#	21:5.7/#	El Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	4:6	#	20:6.8/#	Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	4:6	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
 Epístola_a_los_Gálatas	4:6	#	34:5.5/#	Espíritu de la Verdad	C	#
@@ -222,14 +222,14 @@ Epístola_a_los_Gálatas	4:6	#	193:5.2/#	Envío del Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	4:6	#	191:6.3/#	El Espíritu de la Verdad	C	#
 Epístola_a_los_Gálatas	4:6	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
 Epístola_a_los_Gálatas	4:6	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
-Epístola_a_los_Gálatas	4:6	#	120:2.6/#	Spirit of Truth+	C	PROBLEM
-Epístola_a_los_Gálatas	4:6	#	20:1.6/#	Son poured out spirit on flesh+	C	PROBLEM
+Epístola_a_los_Gálatas	4:6	#	120:2.6/#	El Espíritu de la Verdad	C	#
+Epístola_a_los_Gálatas	4:6	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
 Epístola_a_los_Gálatas	4:6	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
 Epístola_a_los_Gálatas	4:6-7	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
 Epístola_a_los_Gálatas	4:6-7	#	131:10.5/#	Dios es «mi» padre	C	#
 Epístola_a_los_Gálatas	4:6-7	#	143:2.4/#	Hijos liberados del Espíritu	C	#
 Epístola_a_los_Gálatas	4:6-7	#	149:6.8/#	Dios es nuestro Padre	C	#
-Epístola_a_los_Gálatas	4:6-7	#	141:4.2/#	God is our Father+	C	PROBLEM
+Epístola_a_los_Gálatas	4:6-7	#	141:4.2/#	Dios es nuestro Padre	C	#
 Epístola_a_los_Gálatas	5:1,13	#	120:2.6/#	Libertad a los cautivos espirituales	C	#
 Epístola_a_los_Gálatas	5:13	#	54:1.1/#	La verdadera y la falsa libertad	C	#
 Epístola_a_los_Gálatas	5:13	#	170:2.2/#	El evangelio libera a los hombres	C	#
@@ -239,7 +239,7 @@ Epístola_a_los_Gálatas	5:13-14	#	178:1.17/#	Amaros los unos a los otros	C	#
 Epístola_a_los_Gálatas	5:13-14	#	181:2.4/#	Amarse uno a otro	S	#
 Epístola_a_los_Gálatas	5:13-14	#	110:3.9/#	Amando a los hombres	C	#
 Epístola_a_los_Gálatas	5:14	#	159:5.9/#	Ama a tu prójimo como a ti mismo	R	#
-Epístola_a_los_Gálatas	5:14	#	131:2.13/#	Love neighbors as yourself	R	PROBLEM
+Epístola_a_los_Gálatas	5:14	#	131:2.13/#	Ama a tu prójimo como a ti mismo	R	#
 Epístola_a_los_Gálatas	5:14	#	131:10.2/#	Amar al prójimo como a uno mismo	C	#
 Epístola_a_los_Gálatas	5:14	#	174:4.2/#	Ama a tu prójimo como a ti	C	#
 Epístola_a_los_Gálatas	5:14	#	170:3.6/#	Amar al prójimo	S	#
@@ -254,7 +254,7 @@ Epístola_a_los_Gálatas	5:22-23	#	153:4.4/#	El árbol bueno se conoce por sus f
 Epístola_a_los_Gálatas	5:22-23	#	194:3.1/#	Los frutos del espíritu	R	#
 Epístola_a_los_Gálatas	5:22-23	#	193:2.2/#	Los frutos del espíritu	S	#
 Epístola_a_los_Gálatas	5:22-23	#	193:1.2/#	Los frutos del espíritu	S	#
-Epístola_a_los_Gálatas	5:22-23	#	142:1.1/#	Fruits of the spirit	C	PROBLEM
+Epístola_a_los_Gálatas	5:22-23	#	142:1.1/#	Los frutos del espíritu	C	#
 Epístola_a_los_Gálatas	5:22-23	#	156:5.2/#	Los frutos del espíritu	C	#
 Epístola_a_los_Gálatas	5:22-23	#	142:5.2/#	Judgad por los frutos del espíritu	C	#
 Epístola_a_los_Gálatas	5:22-23	#	34:6.13/#	Frutos del espíritu	R	#
@@ -269,18 +269,18 @@ Epístola_a_los_Gálatas	5:22-23	#	102:7.5/#	Frutos sociales del espíritu	C	#
 Epístola_a_los_Gálatas	5:22-23	#	99:5.6/#	Frutos del espíritu	R	#
 Epístola_a_los_Gálatas	5:22-23	#	140:4.7/#	Frutos del espíritu	C	#
 Epístola_a_los_Gálatas	5:22-23	#	176:3.5/#	Frutos del espíritu	S	#
-Epístola_a_los_Gálatas	6:3	#	48:4.14/#	Ego deflation+	C	PROBLEM
+Epístola_a_los_Gálatas	6:3	#	48:4.14/#	Desenaltecerse	C	#
 Epístola_a_los_Gálatas	6:7	#	148:6.3/#	Los hombres cosechan lo que siembran	C	#
 Epístola_a_los_Gálatas	6:7	#	131:2.9/#	Recogerás lo que siembres	C	#
 Epístola_a_los_Gálatas	6:7	#	2:3.2/#	Se recoge lo que siembra	R	#
 Epístola_a_los_Gálatas	6:7	#	192:2.8/#	Se cosecha lo que se siembra	C	#
 Epístola_a_los_Gálatas	6:8	#	27:1.5/#	Vida eterna	C	#
-Epístola_a_los_Gálatas	6:8	#	101:6.8/#	Eternal life+	C	PROBLEM
+Epístola_a_los_Gálatas	6:8	#	101:6.8/#	Vida eterna	C	#
 Epístola_a_los_Gálatas	6:8	#	3:0.1/#	Vida eterna	C	#
 Epístola_a_los_Gálatas	6:8	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
 Epístola_a_los_Gálatas	6:8	#	153:2.11/#	Los que creen tienen vida eterna	C	#
 Epístola_a_los_Gálatas	6:8	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
-Epístola_a_los_Gálatas	6:8	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Epístola_a_los_Gálatas	6:8	#	170:2.20/#	Vida eterna / sin fin	C	#
 Epístola_a_los_Gálatas	6:8	#	162:2.7/#	Vida eterna	C	#
 Epístola_a_los_Gálatas	6:8	#	162:7.5/#	Los creyentes nunca morirán	C	#
 Epístola_a_los_Gálatas	6:8	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#

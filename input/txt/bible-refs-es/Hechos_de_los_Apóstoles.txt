@@ -10,24 +10,24 @@ Hechos_de_los_Apóstoles	1:5	#	87:6.5/#	Water baptism	C	PROBLEM
 Hechos_de_los_Apóstoles	1:5,8a	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	180:6.3/#	El Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	34:7.1/#	Espíritu de la Verdad	C	#
-Hechos_de_los_Apóstoles	1:5,8a	#	20:1.6/#	Son poured out spirit on flesh+	C	PROBLEM
+Hechos_de_los_Apóstoles	1:5,8a	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	20:6.8/#	Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	181:2.14/#	Seguid al nuevo instructor en vuestros corazones	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	121:7.5/#	Nuevo espiritu que vive en el corazón de los hombres	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	34:5.5/#	Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
-Hechos_de_los_Apóstoles	1:5,8a	#	21:5.7/#	Spirit of Truth+	C	PROBLEM
+Hechos_de_los_Apóstoles	1:5,8a	#	21:5.7/#	El Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	193:5.2/#	Envío del Espíritu de la Verdad	S	#
-Hechos_de_los_Apóstoles	1:5,8a	#	34:4.1/#	Spirit of Truth+	C	PROBLEM
+Hechos_de_los_Apóstoles	1:5,8a	#	34:4.1/#	El Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	181:1.4/#	Derramaré mi espíritu sobre toda la carne	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
 Hechos_de_los_Apóstoles	1:5,8a	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	191:6.3/#	El Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	32:5.8/#	Espíritu de la Verdad	C	#
-Hechos_de_los_Apóstoles	1:5,8a	#	141:4.5/#	Jesus to pour out His spirit+	C	PROBLEM
+Hechos_de_los_Apóstoles	1:5,8a	#	141:4.5/#	Jesús envió Su Espíritu	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	180:4.5/#	Os enviaré mi «espíritu»	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	120:2.4/#	Espíritu de la Verdad	C	#
-Hechos_de_los_Apóstoles	1:5,8a	#	120:2.6/#	Spirit of Truth+	C	PROBLEM
+Hechos_de_los_Apóstoles	1:5,8a	#	120:2.6/#	El Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	137:8.7/#	Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	180:3.3/#	Promesa del confortador	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	146:3.6/#	El Espíritu de la Verdad	C	#
@@ -87,16 +87,16 @@ Hechos_de_los_Apóstoles	2:1-4,16-18	#	181:1.4/#	Derramaré mi espíritu sobre t
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	193:5.2/#	Envío del Espíritu de la Verdad	S	#
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
-Hechos_de_los_Apóstoles	2:1-4,16-18	#	141:4.5/#	Jesus to pour out His spirit+	C	PROBLEM
+Hechos_de_los_Apóstoles	2:1-4,16-18	#	141:4.5/#	Jesús envió Su Espíritu	C	#
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	20:6.8/#	Espíritu de la Verdad	C	#
-Hechos_de_los_Apóstoles	2:1-4,16-18	#	34:4.1/#	Spirit of Truth+	C	PROBLEM
-Hechos_de_los_Apóstoles	2:1-4,16-18	#	21:5.7/#	Spirit of Truth+	C	PROBLEM
+Hechos_de_los_Apóstoles	2:1-4,16-18	#	34:4.1/#	El Espíritu de la Verdad	C	#
+Hechos_de_los_Apóstoles	2:1-4,16-18	#	21:5.7/#	El Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	180:4.5/#	Os enviaré mi «espíritu»	C	#
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	180:6.3/#	El Espíritu de la Verdad	C	#
-Hechos_de_los_Apóstoles	2:1-4,16-18	#	120:2.6/#	Spirit of Truth+	C	PROBLEM
+Hechos_de_los_Apóstoles	2:1-4,16-18	#	120:2.6/#	El Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	32:5.8/#	Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	34:7.1/#	Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	120:2.4/#	Espíritu de la Verdad	C	#
@@ -105,7 +105,7 @@ Hechos_de_los_Apóstoles	2:1-4,16-18	#	137:8.7/#	Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	180:3.3/#	Promesa del confortador	C	#
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	181:2.14/#	Seguid al nuevo instructor en vuestros corazones	C	#
 Hechos_de_los_Apóstoles	2:1-4,16-18	#	121:7.5/#	Nuevo espiritu que vive en el corazón de los hombres	C	#
-Hechos_de_los_Apóstoles	2:1-4,17-18	#	20:1.6/#	Son poured out spirit on flesh+	C	PROBLEM
+Hechos_de_los_Apóstoles	2:1-4,17-18	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
 Hechos_de_los_Apóstoles	2:1-4,38	#	194:2.10/#	Bautismo del espíritu	C	#
 Hechos_de_los_Apóstoles	2:1-4,38	#	141:6.5/#	Bautismo con el espíritu	C	#
 Hechos_de_los_Apóstoles	2:1-21	#	108:2.3/#	Ajustadores después de Pentecostés	C	#
@@ -138,14 +138,14 @@ Hechos_de_los_Apóstoles	2:32-33	#	194:4.4/#	Segunda parte: Todos estaban llenos
 Hechos_de_los_Apóstoles	2:32-33	#	21:2.8/#	Personalidades de la Trinidad	C	#
 Hechos_de_los_Apóstoles	2:33	#	34:5.5/#	Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	2:33	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
-Hechos_de_los_Apóstoles	2:33	#	34:4.1/#	Spirit of Truth+	C	PROBLEM
+Hechos_de_los_Apóstoles	2:33	#	34:4.1/#	El Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	2:33	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
 Hechos_de_los_Apóstoles	2:33	#	191:6.3/#	El Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	2:33	#	193:5.2/#	Envío del Espíritu de la Verdad	S	#
 Hechos_de_los_Apóstoles	2:33	#	32:5.8/#	Espíritu de la Verdad	C	#
-Hechos_de_los_Apóstoles	2:33	#	120:2.6/#	Spirit of Truth+	C	PROBLEM
+Hechos_de_los_Apóstoles	2:33	#	120:2.6/#	El Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	2:33	#	180:4.5/#	Os enviaré mi «espíritu»	C	#
-Hechos_de_los_Apóstoles	2:33	#	20:1.6/#	Son poured out spirit on flesh+	C	PROBLEM
+Hechos_de_los_Apóstoles	2:33	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
 Hechos_de_los_Apóstoles	2:33	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
 Hechos_de_los_Apóstoles	2:33	#	20:6.8/#	Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	2:33	#	137:8.7/#	Espíritu de la Verdad	C	#
@@ -155,9 +155,9 @@ Hechos_de_los_Apóstoles	2:33	#	190:5.4/#	Derramará su espíritu sobre toda la 
 Hechos_de_los_Apóstoles	2:33	#	181:1.4/#	Derramaré mi espíritu sobre toda la carne	C	#
 Hechos_de_los_Apóstoles	2:33	#	146:3.6/#	El Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	2:33	#	181:2.14/#	Seguid al nuevo instructor en vuestros corazones	C	#
-Hechos_de_los_Apóstoles	2:33	#	21:5.7/#	Spirit of Truth+	C	PROBLEM
+Hechos_de_los_Apóstoles	2:33	#	21:5.7/#	El Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	2:33	#	180:6.3/#	El Espíritu de la Verdad	C	#
-Hechos_de_los_Apóstoles	2:33	#	141:4.5/#	Jesus to pour out His spirit+	C	PROBLEM
+Hechos_de_los_Apóstoles	2:33	#	141:4.5/#	Jesús envió Su Espíritu	C	#
 Hechos_de_los_Apóstoles	2:33	#	180:3.3/#	Promesa del confortador	C	#
 Hechos_de_los_Apóstoles	2:33	#	121:7.5/#	Nuevo espiritu que vive en el corazón de los hombres	C	#
 Hechos_de_los_Apóstoles	2:33	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
@@ -183,7 +183,7 @@ Hechos_de_los_Apóstoles	3:24	#	97:1.1/#	Samuel, el primer profeta hebreo	C	#
 Hechos_de_los_Apóstoles	3:25	#	136:1.1/#	Semilla de Abraham	R	#
 Hechos_de_los_Apóstoles	4:10-12	#	195:0.2/#	Proclamación del evangelio	C	#
 Hechos_de_los_Apóstoles	4:10-12	#	190:0.4/#	La fe en la resurrección	C	#
-Hechos_de_los_Apóstoles	4:12	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Hechos_de_los_Apóstoles	4:12	#	190:5.4/#	Evangelio de salvación de Dios	C	#
 Hechos_de_los_Apóstoles	4:12	#	190:4.1/#	Evangelio de salvación	C	#
 Hechos_de_los_Apóstoles	4:13	#	195:6.9/#	Unos galileos ignorantes	S	#
 Hechos_de_los_Apóstoles	4:13	#	139:0.4/#	Hombres ignorantes e iletrados	R	#
@@ -250,7 +250,7 @@ Hechos_de_los_Apóstoles	10:2,22	#	121:2.5/#	Gentiles «temerosos de Dios»	S	#
 Hechos_de_los_Apóstoles	10:5-6	#	130:1.1/#	Gadía y Simón	C	#
 Hechos_de_los_Apóstoles	10:7	#	121:2.5/#	Gentiles «devotos»	S	#
 Hechos_de_los_Apóstoles	10:9-16	#	153:3.6/#	El sueño vívido de Pedro	S	#
-Hechos_de_los_Apóstoles	10:24	#	112:0.10/#	God is no respecter of persons	C	PROBLEM
+Hechos_de_los_Apóstoles	10:24	#	112:0.10/#	Dios no hace acepción de personas	C	#
 Hechos_de_los_Apóstoles	10:34	#	143:1.5/#	Mi padre no hace acepción de personas	C	#
 Hechos_de_los_Apóstoles	10:34	#	138:4.2/#	Igualdad de todos los que buscan a Dios	C	#
 Hechos_de_los_Apóstoles	10:34	#	181:2.14/#	El Padre y el Hijo no hacen acepción de personas	C	#
@@ -324,7 +324,7 @@ Hechos_de_los_Apóstoles	13:33	#	33:1.1/#	Hijo unigénito	C	#
 Hechos_de_los_Apóstoles	13:39	#	150:5.3/#	Salvados por la fe	S	#
 Hechos_de_los_Apóstoles	13:43	#	121:8.8/#	La gracia del Señor Jesucristo	R	#
 Hechos_de_los_Apóstoles	13:46-48	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
-Hechos_de_los_Apóstoles	13:46-48	#	101:6.8/#	Eternal life+	C	PROBLEM
+Hechos_de_los_Apóstoles	13:46-48	#	101:6.8/#	Vida eterna	C	#
 Hechos_de_los_Apóstoles	13:46-48	#	128:1.10/#	Dador de la vida eterna	C	#
 Hechos_de_los_Apóstoles	13:46-48	#	153:2.11/#	Los que creen tienen vida eterna	C	#
 Hechos_de_los_Apóstoles	13:46-48	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
@@ -332,7 +332,7 @@ Hechos_de_los_Apóstoles	13:46-48	#	2:2.1/#	Vida eterna	C	#
 Hechos_de_los_Apóstoles	13:46-48	#	121:5.11/#	Vida después de la muerte	C	#
 Hechos_de_los_Apóstoles	13:46-48	#	27:1.5/#	Vivirán para siempre	C	#
 Hechos_de_los_Apóstoles	13:46-48	#	3:0.1/#	Vida eterna	C	#
-Hechos_de_los_Apóstoles	13:46-48	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Hechos_de_los_Apóstoles	13:46-48	#	170:2.20/#	Vida eterna / sin fin	C	#
 Hechos_de_los_Apóstoles	13:46-48	#	162:7.5/#	Los creyentes nunca morirán	C	#
 Hechos_de_los_Apóstoles	13:46-48	#	162:2.7/#	Vida eterna	C	#
 Hechos_de_los_Apóstoles	13:46-48	#	181:2.11/#	La vida eterna en el reino venidero	C	#
@@ -340,7 +340,7 @@ Hechos_de_los_Apóstoles	13:46-48	#	193:1.2/#	Los hijos de la fe no morirán nun
 Hechos_de_los_Apóstoles	13:46-48	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
 Hechos_de_los_Apóstoles	13:46-48	#	170:2.2/#	La esperanza de la vida eterna	S	#
 Hechos_de_los_Apóstoles	13:46-48	#	146:3.7/#	La vida eterna	C	#
-Hechos_de_los_Apóstoles	13:47	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Hechos_de_los_Apóstoles	13:47	#	190:5.4/#	Evangelio de salvación de Dios	C	#
 Hechos_de_los_Apóstoles	13:47	#	190:4.1/#	Evangelio de salvación	C	#
 Hechos_de_los_Apóstoles	14:3,26	#	121:8.8/#	La gracia del Señor Jesucristo	R	#
 Hechos_de_los_Apóstoles	14:15	#	131:10.2/#	Es el Creador de todas las cosas	C	#
@@ -365,7 +365,7 @@ Hechos_de_los_Apóstoles	15:5-12	#	139:2.7/#	Defensa de Pedro de extender la pre
 Hechos_de_los_Apóstoles	15:11,40	#	121:8.8/#	La gracia del Señor Jesucristo	R	#
 Hechos_de_los_Apóstoles	16:17	#	93:3.2/#	El Altísimo	C	#
 Hechos_de_los_Apóstoles	16:17	#	43:3.1/#	Altísimos	C	#
-Hechos_de_los_Apóstoles	16:17	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Hechos_de_los_Apóstoles	16:17	#	190:5.4/#	Evangelio de salvación de Dios	C	#
 Hechos_de_los_Apóstoles	16:17	#	93:2.3/#	El Altísimo	C	#
 Hechos_de_los_Apóstoles	16:17	#	190:4.1/#	Evangelio de salvación	C	#
 Hechos_de_los_Apóstoles	16:30-31,33	#	170:5.13/#	Admisión por la fe	S	#
@@ -409,8 +409,8 @@ Hechos_de_los_Apóstoles	17:28-29	#	149:2.10/#	Hijos del Dios viviente	C	#
 Hechos_de_los_Apóstoles	17:28-29	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
 Hechos_de_los_Apóstoles	17:28-29	#	131:10.8/#	La relación de padre e hijo	C	#
 Hechos_de_los_Apóstoles	17:28-29	#	142:5.2/#	Hijos de Dios	C	#
-Hechos_de_los_Apóstoles	17:28-29	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
-Hechos_de_los_Apóstoles	17:28-29	#	141:4.2/#	We are God's children+	C	PROBLEM
+Hechos_de_los_Apóstoles	17:28-29	#	170:2.20/#	Hijos de Dios liberados	C	#
+Hechos_de_los_Apóstoles	17:28-29	#	141:4.2/#	Somos los hijos de Dios	C	#
 Hechos_de_los_Apóstoles	17:28-29	#	190:3.1/#	El evangelio de la filiación	C	#
 Hechos_de_los_Apóstoles	17:28-29	#	196:0.2/#	Cada criatura mortal es un hijo de Dios	C	#
 Hechos_de_los_Apóstoles	17:28-29	#	153:2.4/#	Fraternidad de los hijos de Dios	C	#
@@ -423,12 +423,12 @@ Hechos_de_los_Apóstoles	17:28-29	#	140:1.6/#	Hijos del Dios viviente	C	#
 Hechos_de_los_Apóstoles	17:28-29	#	181:2.14/#	Los creyentes son hijos de Dios	C	#
 Hechos_de_los_Apóstoles	17:28-29	#	143:2.7/#	Los hijos liberados de Dios	C	#
 Hechos_de_los_Apóstoles	17:28-29	#	170:2.8/#	Los hijos salvados de Dios	S	#
-Hechos_de_los_Apóstoles	17:28-29	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+Hechos_de_los_Apóstoles	17:28-29	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
 Hechos_de_los_Apóstoles	17:28-29	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
 Hechos_de_los_Apóstoles	17:28-29	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
 Hechos_de_los_Apóstoles	17:28-29	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
 Hechos_de_los_Apóstoles	17:28-29	#	149:6.8/#	Nosotros somos sus hijos	R	#
-Hechos_de_los_Apóstoles	17:28-29	#	140:3.16/#	Sons of living God+	C	PROBLEM
+Hechos_de_los_Apóstoles	17:28-29	#	140:3.16/#	Hijos del Dios viviente	C	#
 Hechos_de_los_Apóstoles	17:28a	#	1:1.2/#	En Dios el hombre vive, se mueve	R	#
 Hechos_de_los_Apóstoles	18:2,18,26	#	133:3.12/#	Aquila y Priscila	C	#
 Hechos_de_los_Apóstoles	18:5	#	133:3.3/#	Silas y Timoteo	C	#
@@ -465,5 +465,5 @@ Hechos_de_los_Apóstoles	26:20	#	159:5.8/#	Jesús enseña la acción positiva	C	
 Hechos_de_los_Apóstoles	27:8	#	130:5.4/#	Buenos Puertos	S	#
 Hechos_de_los_Apóstoles	28:26-27	#	151:1.4/#	Verán sin ver, etc.	S	#
 Hechos_de_los_Apóstoles	28:28	#	190:4.1/#	Evangelio de salvación	C	#
-Hechos_de_los_Apóstoles	28:28	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Hechos_de_los_Apóstoles	28:28	#	190:5.4/#	Evangelio de salvación de Dios	C	#
 Hechos_de_los_Apóstoles	28:31	#	170:1.4/#	Jesús enseñó ambos puntos de vista	S	#

@@ -70,7 +70,7 @@ Job	28:28	#	131:2.6/#	El temor del Señor es el principio de la sabiduría	R	#
 Job	32:2ff	#	96:7.7/#	Eliju, profeta de Ur y sacerdote	C	#
 Job	32:8	#	36:5.7/#	Espíritu de comprensión	C	#
 Job	32:8	#	131:10.3/#	La mente del hombre es mortal, el espíritu inmortal	C	#
-Job	32:8	#	170:1.8/#	Kingdom within you	S	PROBLEM
+Job	32:8	#	170:1.8/#	El reino dentro de ti	S	#
 Job	32:8,18	#	107:4.7/#	El Ajustador, espíritu interior	C	#
 Job	32:8,18	#	103:1.6/#	El espíritu en el hombre (Ajustador del Pensamiento)	C	#
 Job	32:8,18	#	133:4.4/#	Dios habita en tu alma	C	#
@@ -86,7 +86,7 @@ Job	32:8,18	#	134:4.7/#	El espíritu interior	C	#
 Job	32:8,18	#	167:7.4/#	El espíritu de Dios vive en vosotros	C	#
 Job	32:8,18	#	195:10.4/#	El reino de Dios está dentro de vosotros	S	#
 Job	32:8,18	#	5:2.3/#	El espíritu viviendo dentro	C	#
-Job	32:8,18	#	170:2.20/#	Kingdom of God within+	C	PROBLEM
+Job	32:8,18	#	170:2.20/#	El Reino de Dios dentro de nosotros	C	#
 Job	32:8,18	#	140:1.5/#	El reino es Dios dentro de vosotros	S	#
 Job	32:8,18	#	34:6.7/#	Espíritu de Dios en el hombre	C	#
 Job	32:8,18	#	131:10.4/#	El espíritu de Dios está en el corazón del hombre	C	#
@@ -96,7 +96,7 @@ Job	33:4	#	86:4.3/#	Aliento de la vida	R	#
 Job	33:4	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
 Job	33:4	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
 Job	33:4	#	34:6.5/#	El Espíritu da la vida	R	#
-Job	33:4	#	34:4.1/#	Holy Spirit+	C	PROBLEM
+Job	33:4	#	34:4.1/#	El Espíritu Santo	C	#
 Job	33:24	#	96:7.7/#	Es misericordioso con el que se arrepiente	R	#
 Job	33:26	#	96:7.7/#	Orará a Dios	R	#
 Job	33:27-28	#	130:8.2/#	Él mira a los hombres	R	#
@@ -120,7 +120,7 @@ Job	34:19	#	117:6.22/#	No hace acepción de personas	C	#
 Job	34:19	#	174:2.2/#	Jesús no hace acepción de personas	C	#
 Job	34:19	#	139:10.9/#	Jesús no hacía acepción de personas	C	#
 Job	34:19	#	150:1.3/#	Igualdad de todos los seres humanos	C	#
-Job	34:19	#	112:0.10/#	God is no respecter of persons	C	PROBLEM
+Job	34:19	#	112:0.10/#	Dios no hace acepción de personas	C	#
 Job	34:19	#	137:8.6/#	No hace acepción de personas	C	#
 Job	34:19	#	166:4.11/#	El Padre no hace acepción de personas	C	#
 Job	34:19	#	156:2.4/#	No existen favoritismos con Dios	C	#

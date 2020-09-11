@@ -5,7 +5,7 @@ Epístola_a_Timoteo_II	1:14	#	3:1.4/#	Vive en nosotros	R	#
 Epístola_a_Timoteo_II	1:14	#	143:2.4/#	Seréis los templos de Dios	C	#
 Epístola_a_Timoteo_II	1:14	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
 Epístola_a_Timoteo_II	1:14	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
-Epístola_a_Timoteo_II	1:14	#	34:4.1/#	Holy Spirit+	C	PROBLEM
+Epístola_a_Timoteo_II	1:14	#	34:4.1/#	El Espíritu Santo	C	#
 Epístola_a_Timoteo_II	1:14	#	1:4.2/#	El cuerpo es el templo de Dios	C	#
 Epístola_a_Timoteo_II	1:14	#	110:1.5/#	El cuerpo es el tabernáculo	C	#
 Epístola_a_Timoteo_II	1:14	#	108:6.2/#	Reino de los cielos dentro de vosotros	C	#

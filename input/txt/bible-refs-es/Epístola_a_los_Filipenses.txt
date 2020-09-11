@@ -1,20 +1,20 @@
-Epístola_a_los_Filipenses	1:2	#	131:10.5/#	God is MY Father+	C	PROBLEM
+Epístola_a_los_Filipenses	1:2	#	131:10.5/#	Dios es MI Padre	C	#
 Epístola_a_los_Filipenses	1:2	#	131:10.6/#	Relación entre padre e hijo	C	#
 Epístola_a_los_Filipenses	1:2	#	131:10.8/#	La relación de padre e hijo	C	#
-Epístola_a_los_Filipenses	1:2	#	141:4.2/#	God is our Father+	C	PROBLEM
+Epístola_a_los_Filipenses	1:2	#	141:4.2/#	Dios es nuestro Padre	C	#
 Epístola_a_los_Filipenses	1:2	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
 Epístola_a_los_Filipenses	1:2	#	149:6.8/#	Dios es nuestro Padre	C	#
 Epístola_a_los_Filipenses	1:2	#	131:10.8/#	La relación de padre e hijo	C	#
 Epístola_a_los_Filipenses	1:19	#	2:6.3/#	Dios de salvación	C	#
-Epístola_a_los_Filipenses	1:19,28	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Epístola_a_los_Filipenses	1:19,28	#	190:5.4/#	Evangelio de salvación de Dios	C	#
 Epístola_a_los_Filipenses	1:19,28	#	190:4.1/#	Evangelio de salvación	C	#
 Epístola_a_los_Filipenses	1:27	#	16:6.3/#	Mentes afine	C	#
 Epístola_a_los_Filipenses	2:2	#	16:6.3/#	Mentes afine	C	#
-Epístola_a_los_Filipenses	2:5	#	48:6.15/#	Mind of Jesus	C	PROBLEM
+Epístola_a_los_Filipenses	2:5	#	48:6.15/#	La mente de Jesús	C	#
 Epístola_a_los_Filipenses	2:5	#	9:5.4/#	La mente del Espíritu	C	#
 Epístola_a_los_Filipenses	2:5	#	102:4.1/#	Dejar la mente de Cristo estar en vosotros	R	#
 Epístola_a_los_Filipenses	2:5	#	107:5.3/#	Mente espiritual	C	#
-Epístola_a_los_Filipenses	2:5	#	42:12.8/#	Mind dominance	C	PROBLEM
+Epístola_a_los_Filipenses	2:5	#	42:12.8/#	Dominación de la mente	C	#
 Epístola_a_los_Filipenses	2:5	#	2:1.2/#	Mente primordial	C	#
 Epístola_a_los_Filipenses	2:5	#	110:2.5/#	Las mentes se volverán una sola	C	#
 Epístola_a_los_Filipenses	2:5	#	6:6.4/#	Mente del espíritu	C	#
@@ -29,15 +29,15 @@ Epístola_a_los_Filipenses	2:15	#	196:0.2/#	Cada criatura mortal es un hijo de D
 Epístola_a_los_Filipenses	2:15	#	1:3.1/#	Progenie de Dios	C	#
 Epístola_a_los_Filipenses	2:15	#	2:5.4/#	Somos hijos de Dios	C	#
 Epístola_a_los_Filipenses	2:15	#	5:4.8/#	Somos hijos de Dios	C	#
-Epístola_a_los_Filipenses	2:15	#	141:4.2/#	We are God's children+	C	PROBLEM
+Epístola_a_los_Filipenses	2:15	#	141:4.2/#	Somos los hijos de Dios	C	#
 Epístola_a_los_Filipenses	2:15	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
 Epístola_a_los_Filipenses	2:15	#	153:2.4/#	Fraternidad de los hijos de Dios	C	#
 Epístola_a_los_Filipenses	2:15	#	181:2.12/#	Los creyentes, hijos de Dios	C	#
 Epístola_a_los_Filipenses	2:15	#	140:1.6/#	Hijos del Dios viviente	C	#
-Epístola_a_los_Filipenses	2:15	#	140:3.16/#	Sons of living God+	C	PROBLEM
+Epístola_a_los_Filipenses	2:15	#	140:3.16/#	Hijos del Dios viviente	C	#
 Epístola_a_los_Filipenses	2:15	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
 Epístola_a_los_Filipenses	2:15	#	141:2.2/#	Hijos de Dios por la fe	C	#
-Epístola_a_los_Filipenses	2:15	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+Epístola_a_los_Filipenses	2:15	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
 Epístola_a_los_Filipenses	2:15	#	142:5.2/#	Hijos de Dios	C	#
 Epístola_a_los_Filipenses	2:15	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
 Epístola_a_los_Filipenses	2:15	#	149:6.8/#	Nosotros somos sus hijos	C	#
@@ -45,11 +45,11 @@ Epístola_a_los_Filipenses	2:15	#	131:10.6/#	Relación entre padre e hijo	C	#
 Epístola_a_los_Filipenses	2:15	#	170:2.8/#	Los hijos salvados de Dios	S	#
 Epístola_a_los_Filipenses	2:15	#	190:3.1/#	El evangelio de la filiación	C	#
 Epístola_a_los_Filipenses	2:15	#	131:10.2/#	Somos los hijos de Dios	C	#
-Epístola_a_los_Filipenses	2:15	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+Epístola_a_los_Filipenses	2:15	#	170:2.20/#	Hijos de Dios liberados	C	#
 Epístola_a_los_Filipenses	2:15	#	34:6.10/#	Hijos de Dios	C	#
 Epístola_a_los_Filipenses	2:15	#	143:2.7/#	Los hijos liberados de Dios	C	#
 Epístola_a_los_Filipenses	2:15	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
-Epístola_a_los_Filipenses	2:15	#	181:2.14/#	Believers are sons of God+	C	PROBLEM
+Epístola_a_los_Filipenses	2:15	#	181:2.14/#	Los creyentes son hijos de Dios	C	#
 Epístola_a_los_Filipenses	2:15	#	8:6.4/#	Hijos de Dios	C	#
 Epístola_a_los_Filipenses	2:15	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
 Epístola_a_los_Filipenses	2:25	#	194:4.7/#	Se llamaban unos a otros hermanos y hermanas	C	#

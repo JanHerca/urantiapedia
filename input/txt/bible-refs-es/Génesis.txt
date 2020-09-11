@@ -16,7 +16,7 @@ Génesis	1:1-27	#	0:2.9/#	Dios como creador de todo	C	#
 Génesis	1:1-31	#	74:8.1/#	Tradición de la creación	C	#
 Génesis	1:1ff	#	10:3.3/#	Acto de Dios	R	#
 Génesis	1:1ff	#	2:1.2/#	Causa de causas	R	#
-Génesis	1:2	#	34:4.1/#	Holy Spirit+	C	PROBLEM
+Génesis	1:2	#	34:4.1/#	El Espíritu Santo	C	#
 Génesis	1:2	#	96:1.9/#	El Espíritu de Dios	C	#
 Génesis	1:2	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
 Génesis	1:2	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
@@ -283,7 +283,7 @@ Génesis	16:7-11	#	37:2.3/#	El ángel del Señor	R	#
 Génesis	16:9-13	#	93:9.7/#	Conversaciones con Melquisedek	C	#
 Génesis	17:1	#	31:3.6/#	Sed perfectos	R	#
 Génesis	17:1	#	26:9.3/#	Sed perfectos	C	#
-Génesis	17:1	#	26:4.5/#	Be you perfect	R	PROBLEM
+Génesis	17:1	#	26:4.5/#	Sed perfectos	R	#
 Génesis	17:1	#	26:11.4/#	Sed perfectos	C	#
 Génesis	17:1	#	96:1.5/#	El Shaddai	C	#
 Génesis	17:1	#	13:2.8/#	Ser perfectos	C	#
@@ -301,7 +301,7 @@ Génesis	17:1	#	181:1.2/#	Convertirse en perfectos espiritualmente	C	#
 Génesis	17:1	#	142:3.5/#	El Shaddai, Deidad creadora	S	#
 Génesis	17:1	#	107:0.3/#	Sed perfectos	C	#
 Génesis	17:1	#	140:4.11/#	Sed perfectos	C	#
-Génesis	17:1	#	143:2.6/#	Seek perfection+	C	PROBLEM
+Génesis	17:1	#	143:2.6/#	Buscad la perfección+	C	#
 Génesis	17:1	#	142:7.13/#	Sed perfectos	C	#
 Génesis	17:1	#	7:5.1/#	Sed perfectos	R	#
 Génesis	17:1	#	131:10.6/#	El Todopoderoso	C	#
@@ -309,7 +309,7 @@ Génesis	17:1	#	161:1.10/#	Sed perfectos	C	#
 Génesis	17:1	#	40:7.4/#	Sed perfectos	R	#
 Génesis	17:1	#	99:5.3/#	Sed perfectos	C	#
 Génesis	17:1	#	37:5.3/#	Sed perfectos	R	#
-Génesis	17:1	#	1:0.6/#	Be you perfect	C	PROBLEM
+Génesis	17:1	#	1:0.6/#	Sed perfectos	C	#
 Génesis	17:1	#	140:8.32/#	Sed perfectos	C	#
 Génesis	17:1	#	131:2.13/#	Sed como yo y vivid conmigo	R	#
 Génesis	17:1,17	#	93:9.8/#	Edad de Abraham	C	#
@@ -339,7 +339,7 @@ Génesis	18:14	#	3:2.2/#	Con Él todo es posible	R	#
 Génesis	18:16-33	#	93:6.7/#	Realidad y mitos	C	#
 Génesis	18:17,20,23	#	93:9.7/#	Conversaciones con Melquisedek	C	#
 Génesis	18:18	#	136:1.1/#	Semilla de Abraham	R	#
-Génesis	18:18	#	190:5.4/#	All nations to be blessed	C	PROBLEM
+Génesis	18:18	#	190:5.4/#	Todas las naciones serán bendecidas	C	#
 Génesis	18:24-25	#	133:4.7/#	Juicio de todos	C	#
 Génesis	18:25	#	128:1.10/#	Juez de toda la Tierra	C	#
 Génesis	18:27	#	96:1.9/#	El Señor	C	#
@@ -349,7 +349,7 @@ Génesis	19:37-38	#	70:6.2/#	Padre de su pueblo	R	#
 Génesis	20:1	#	93:9.2/#	Viaje al sur	C	#
 Génesis	20:2	#	93:9.3/#	Sara tomada por Abimélek	C	#
 Génesis	20:2-14	#	93:9.3/#	Abraham muestra cobardía	C	#
-Génesis	20:3	#	86:5.7/#	God "speaking" in dreams+	C	PROBLEM
+Génesis	20:3	#	86:5.7/#	Dios "habla" en sueños	C	#
 Génesis	20:11	#	92:1.5/#	Dios es un gran temor	R	#
 Génesis	20:12	#	82:5.4/#	La hermana y mujer de Abraham	C	#
 Génesis	21:1-8	#	93:9.8/#	Nacimiento milagroso de Isaac	C	#
@@ -372,7 +372,7 @@ Génesis	22:14	#	142:3.3/#	Yahvé, el dios de los clanes del Sinaí	S	#
 Génesis	22:14	#	96:1.3/#	Yahvé	C	#
 Génesis	22:14	#	96:1.10/#	Jehová	C	#
 Génesis	22:15	#	85:4.2/#	Ángeles del aire	C	#
-Génesis	22:18	#	190:5.4/#	All nations to be blessed	C	PROBLEM
+Génesis	22:18	#	190:5.4/#	Todas las naciones serán bendecidas	C	#
 Génesis	23:1	#	93:9.8/#	Edad de Sara	C	#
 Génesis	23:2,17-20	#	93:9.4/#	Regreso a Hebrón	C	#
 Génesis	24:1	#	93:9.8/#	Edad de Abraham	C	#
@@ -384,13 +384,13 @@ Génesis	25:5	#	93:9.8/#	Herencia de Isaac	C	#
 Génesis	25:7-8	#	93:9.8/#	Edad de Abraham	C	#
 Génesis	25:8	#	93:9.4/#	Muerte de Abraham	C	#
 Génesis	25:8	#	86:5.2/#	Entregar el alma	R	#
-Génesis	26:4	#	190:5.4/#	All nations to be blessed	C	PROBLEM
+Génesis	26:4	#	190:5.4/#	Todas las naciones serán bendecidas	C	#
 Génesis	26:19-22	#	69:9.11/#	Pozos y tierras adyacentes	C	#
 Génesis	28:3	#	142:3.5/#	El Shaddai, Deidad creadora	S	#
 Génesis	28:3	#	131:10.6/#	El Todopoderoso	C	#
 Génesis	28:3	#	96:1.5/#	El Shaddai	C	#
 Génesis	28:12	#	167:7.4/#	Los ángeles subiendo y bajando	C	#
-Génesis	28:12-16	#	86:5.7/#	God "speaking" in dreams+	C	PROBLEM
+Génesis	28:12-16	#	86:5.7/#	Dios "habla" en sueños	C	#
 Génesis	28:14	#	190:5.4/#	Todas las familias serán benditas	R	#
 Génesis	28:18	#	85:1.1/#	Piedra de Jacob	C	#
 Génesis	28:22	#	93:3.1/#	Sistema del diezmo	C	#

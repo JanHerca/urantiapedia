@@ -134,7 +134,7 @@ Apocalipsis_de_Juan	11:19	#	85:4.3/#	El granizo	C	#
 Apocalipsis_de_Juan	12:3-4	#	53:7.7/#	Una tercera parte de las estrellas	R	#
 Apocalipsis_de_Juan	12:7	#	67:3.1/#	Guerra en el cielo	R	#
 Apocalipsis_de_Juan	12:7	#	53:7.12/#	Después de dos años de guerra en el cielo	R	#
-Apocalipsis_de_Juan	12:7	#	53:4.1/#	Rebellion	C	PROBLEM
+Apocalipsis_de_Juan	12:7	#	53:4.1/#	La rebelión	C	#
 Apocalipsis_de_Juan	12:7-8	#	53:7.15/#	Lucifer fracasa	C	#
 Apocalipsis_de_Juan	12:7-8	#	53:5.6/#	Guerra en el cielo	R	#
 Apocalipsis_de_Juan	12:7-9	#	120:2.2/#	Finalización de la rebelión	C	#
@@ -217,10 +217,10 @@ Apocalipsis_de_Juan	21:3	#	131:10.4/#	El espíritu de Dios está en el corazón 
 Apocalipsis_de_Juan	21:3	#	12:7.12/#	Dios vive en nosotros	C	#
 Apocalipsis_de_Juan	21:3	#	143:2.4/#	Seréis los templos de Dios	C	#
 Apocalipsis_de_Juan	21:3	#	16:9.4/#	El espíritu de Dios vive en nosotros	C	#
-Apocalipsis_de_Juan	21:3	#	170:2.20/#	Kingdom of God within+	C	PROBLEM
+Apocalipsis_de_Juan	21:3	#	170:2.20/#	El Reino de Dios dentro de nosotros	C	#
 Apocalipsis_de_Juan	21:3	#	34:6.7/#	Sois el templo de Dios, y os habita el espíritu	C	#
 Apocalipsis_de_Juan	21:3	#	131:10.2/#	El espíritu de Dios habita en nuestra alma	C	#
-Apocalipsis_de_Juan	21:3	#	170:1.8/#	Kingdom within you	S	PROBLEM
+Apocalipsis_de_Juan	21:3	#	170:1.8/#	El reino dentro de ti	S	#
 Apocalipsis_de_Juan	21:3	#	1:4.2/#	El cuerpo es el templo de Dios	C	#
 Apocalipsis_de_Juan	21:3	#	2:5.6/#	Su espíritu vive en nosotros	C	#
 Apocalipsis_de_Juan	21:3	#	110:1.5/#	El cuerpo es el tabernáculo	C	#
@@ -248,18 +248,18 @@ Apocalipsis_de_Juan	21:7	#	170:2.8/#	Los hijos salvados de Dios	S	#
 Apocalipsis_de_Juan	21:7	#	141:2.2/#	Hijos de Dios por la fe	C	#
 Apocalipsis_de_Juan	21:7	#	142:5.2/#	Hijos de Dios	C	#
 Apocalipsis_de_Juan	21:7	#	140:1.6/#	Hijos del Dios viviente	C	#
-Apocalipsis_de_Juan	21:7	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
-Apocalipsis_de_Juan	21:7	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+Apocalipsis_de_Juan	21:7	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
+Apocalipsis_de_Juan	21:7	#	170:2.20/#	Hijos de Dios liberados	C	#
 Apocalipsis_de_Juan	21:7	#	190:3.1/#	El evangelio de la filiación	C	#
 Apocalipsis_de_Juan	21:7	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
 Apocalipsis_de_Juan	21:7	#	149:6.8/#	Nosotros somos sus hijos	C	#
 Apocalipsis_de_Juan	21:7	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
 Apocalipsis_de_Juan	21:7	#	8:6.4/#	Hijos de Dios	C	#
-Apocalipsis_de_Juan	21:7	#	140:3.16/#	Sons of living God+	C	PROBLEM
+Apocalipsis_de_Juan	21:7	#	140:3.16/#	Hijos del Dios viviente	C	#
 Apocalipsis_de_Juan	21:7	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
 Apocalipsis_de_Juan	21:7	#	131:10.6/#	Relación entre padre e hijo	C	#
 Apocalipsis_de_Juan	21:7	#	5:4.8/#	Somos hijos de Dios	C	#
-Apocalipsis_de_Juan	21:7	#	141:4.2/#	We are God's children+	C	PROBLEM
+Apocalipsis_de_Juan	21:7	#	141:4.2/#	Somos los hijos de Dios	C	#
 Apocalipsis_de_Juan	21:7	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
 Apocalipsis_de_Juan	21:7	#	131:10.2/#	Somos los hijos de Dios	C	#
 Apocalipsis_de_Juan	21:7	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
@@ -291,11 +291,11 @@ Apocalipsis_de_Juan	22:5	#	162:7.5/#	Los creyentes nunca morirán	C	#
 Apocalipsis_de_Juan	22:5	#	146:3.7/#	La vida eterna	C	#
 Apocalipsis_de_Juan	22:5	#	121:5.11/#	Vida después de la muerte	C	#
 Apocalipsis_de_Juan	22:5	#	162:2.7/#	Vida eterna	C	#
-Apocalipsis_de_Juan	22:5	#	101:6.8/#	Eternal life+	C	PROBLEM
+Apocalipsis_de_Juan	22:5	#	101:6.8/#	Vida eterna	C	#
 Apocalipsis_de_Juan	22:5	#	3:0.1/#	Vida eterna	C	#
 Apocalipsis_de_Juan	22:5	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
 Apocalipsis_de_Juan	22:5	#	27:1.5/#	Vida eterna	R	#
-Apocalipsis_de_Juan	22:5	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Apocalipsis_de_Juan	22:5	#	170:2.20/#	Vida eterna / sin fin	C	#
 Apocalipsis_de_Juan	22:8-9	#	38:2.5/#	No adoréis a los ángeles	R	#
 Apocalipsis_de_Juan	22:13	#	10:7.1/#	El alpha y el omega	C	#
 Apocalipsis_de_Juan	22:13	#	2:1.5/#	Él es el principio y el fin	C	#

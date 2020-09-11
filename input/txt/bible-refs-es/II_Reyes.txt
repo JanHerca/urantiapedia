@@ -31,13 +31,13 @@ II_Reyes	19:15	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
 II_Reyes	19:15	#	142:3.7/#	Creador Universal	C	#
 II_Reyes	19:15	#	2:1.2/#	Creador fiel y divino	C	#
 II_Reyes	19:15	#	131:10.2/#	Es el Creador de todas las cosas	C	#
-II_Reyes	19:19	#	92:5.8/#	One God+	C	PROBLEM
+II_Reyes	19:19	#	92:5.8/#	Un único Dios	C	#
 II_Reyes	19:19	#	131:10.2/#	Un único Dios	C	#
 II_Reyes	19:19	#	1:7.6/#	Dios es uno solo	R	#
 II_Reyes	19:19	#	45:4.8/#	Dios único	C	#
 II_Reyes	19:19	#	56:4.4/#	Dios es uno	C	#
 II_Reyes	19:19	#	1:0.1/#	No hay Dios aparte de ti	C	#
-II_Reyes	19:19	#	92:6.6/#	One God+	C	PROBLEM
+II_Reyes	19:19	#	92:6.6/#	Un único Dios	C	#
 II_Reyes	19:19	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
 II_Reyes	19:19	#	96:5.5/#	El Señor es un único Dios	C	#
 II_Reyes	19:22	#	196:0.2/#	El Santo de Israel	R	#

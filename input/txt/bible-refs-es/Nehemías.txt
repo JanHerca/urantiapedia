@@ -10,13 +10,13 @@ Nehemías	9:6	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
 Nehemías	9:6	#	131:10.2/#	Un único Dios	C	#
 Nehemías	9:6	#	4:1.5/#	Los protege a todos	R	#
 Nehemías	9:6	#	45:4.8/#	Dios único	C	#
-Nehemías	9:6	#	48:6.12/#	Heaven, heaven of heavens	R	PROBLEM
+Nehemías	9:6	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
 Nehemías	9:6	#	1:0.1/#	Tú eres el único Dios	C	#
 Nehemías	9:6	#	56:4.4/#	Dios es uno	C	#
 Nehemías	9:6	#	181:1.2/#	Cielo de los cielos	C	#
-Nehemías	9:6	#	92:6.6/#	One God+	C	PROBLEM
-Nehemías	9:6	#	92:5.8/#	One God+	C	PROBLEM
-Nehemías	9:6	#	48:6.12/#	Heaven, heaven of heavens	R	PROBLEM
+Nehemías	9:6	#	92:6.6/#	Un único Dios	C	#
+Nehemías	9:6	#	92:5.8/#	Un único Dios	C	#
+Nehemías	9:6	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
 Nehemías	9:6	#	131:2.7/#	Dios es creador y preservador	R	#
 Nehemías	9:6	#	131:10.2/#	Un único Dios	C	#
 Nehemías	9:6	#	3:1.2/#	El cielo de los cielos	C	#

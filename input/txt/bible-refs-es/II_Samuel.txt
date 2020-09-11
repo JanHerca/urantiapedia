@@ -33,12 +33,12 @@ II_Samuel	7:14	#	170:2.8/#	Los hijos salvados de Dios	S	#
 II_Samuel	7:14	#	131:10.5/#	Dios es «mi» padre	C	#
 II_Samuel	7:14	#	190:3.1/#	El evangelio de la filiación	C	#
 II_Samuel	7:14	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
-II_Samuel	7:14	#	141:4.2/#	God is our Father+	C	PROBLEM
+II_Samuel	7:14	#	141:4.2/#	Dios es nuestro Padre	C	#
 II_Samuel	7:14	#	40:6.1/#	Hijos de Dios por la fe	C	#
-II_Samuel	7:14	#	141:4.2/#	We are God's children+	C	PROBLEM
+II_Samuel	7:14	#	141:4.2/#	Somos los hijos de Dios	C	#
 II_Samuel	7:14	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
 II_Samuel	7:14	#	196:0.2/#	Cada criatura mortal es un hijo de Dios	C	#
-II_Samuel	7:14	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+II_Samuel	7:14	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
 II_Samuel	7:14	#	193:1.2/#	Todos los hombres son hijos de Dios	C	#
 II_Samuel	7:14	#	181:2.14/#	Los creyentes son hijos de Dios	C	#
 II_Samuel	7:14	#	141:2.2/#	Hijos de Dios por la fe	C	#
@@ -47,11 +47,11 @@ II_Samuel	7:14	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
 II_Samuel	7:14	#	142:5.2/#	Hijos de Dios	C	#
 II_Samuel	7:14	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
 II_Samuel	7:14	#	140:1.6/#	Hijos del Dios viviente	C	#
-II_Samuel	7:14	#	140:3.16/#	Sons of living God+	C	PROBLEM
+II_Samuel	7:14	#	140:3.16/#	Hijos del Dios viviente	C	#
 II_Samuel	7:14	#	131:10.2/#	Somos los hijos de Dios	C	#
 II_Samuel	7:14	#	181:2.12/#	Los creyentes, hijos de Dios	C	#
 II_Samuel	7:14	#	170:2.20/#	Hijos de Dios	C	#
-II_Samuel	7:14	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+II_Samuel	7:14	#	170:2.20/#	Hijos de Dios liberados	C	#
 II_Samuel	7:14	#	149:6.8/#	Dios es nuestro Padre	C	#
 II_Samuel	7:14	#	8:6.4/#	Hijos de Dios	C	#
 II_Samuel	7:22	#	96:5.5/#	El Señor es un único Dios	C	#
@@ -59,12 +59,12 @@ II_Samuel	7:22	#	97:1.5/#	Eres grande, oh Señor Dios	R	#
 II_Samuel	7:22	#	1:0.1/#	No hay Dios aparte de ti	C	#
 II_Samuel	7:22	#	45:4.8/#	Dios único	C	#
 II_Samuel	7:22	#	1:7.6/#	Dios es uno solo	R	#
-II_Samuel	7:22	#	92:6.6/#	One God+	C	PROBLEM
+II_Samuel	7:22	#	92:6.6/#	Un único Dios	C	#
 II_Samuel	7:22	#	131:10.2/#	Un único Dios	C	#
-II_Samuel	7:22	#	92:5.8/#	One God+	C	PROBLEM
+II_Samuel	7:22	#	92:5.8/#	Un único Dios	C	#
 II_Samuel	7:22	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
 II_Samuel	7:22	#	56:4.4/#	Dios es uno	C	#
-II_Samuel	7:26	#	92:6.6/#	Lord God of hosts+	C	PROBLEM
+II_Samuel	7:26	#	92:6.6/#	Dios Señor de las huestes	C	#
 II_Samuel	8:11-12	#	97:9.14/#	Fuertes tributos a los vecinos	C	#
 II_Samuel	11:14-17	#	97:9.15/#	Asesinato de Urías	C	#
 II_Samuel	11:26-27	#	97:9.10/#	Betsabé	C	#

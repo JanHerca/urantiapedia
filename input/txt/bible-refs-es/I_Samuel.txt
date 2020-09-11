@@ -1,8 +1,8 @@
 I_Samuel	1:3	#	96:1.9/#	Señor de los Ejércitos	C	#
 I_Samuel	1:3,11	#	194:3.11/#	No más el Señor de los Ejércitos	C	#
 I_Samuel	2:2	#	97:1.7/#	No hay nadie tan santo como el Señor	R	#
-I_Samuel	2:2	#	92:5.8/#	One God+	C	PROBLEM
-I_Samuel	2:2	#	92:6.6/#	One God+	C	PROBLEM
+I_Samuel	2:2	#	92:5.8/#	Un único Dios	C	#
+I_Samuel	2:2	#	92:6.6/#	Un único Dios	C	#
 I_Samuel	2:2	#	131:2.2/#	No hay nadie más que él	R	#
 I_Samuel	2:2	#	96:5.5/#	El Señor es un único Dios	C	#
 I_Samuel	2:2	#	131:10.2/#	Un único Dios	C	#
@@ -63,7 +63,7 @@ I_Samuel	25:42	#	97:9.10/#	David se casa con Abigail	C	#
 I_Samuel	27:2-3	#	97:9.5/#	Alianza con los filisteos	C	#
 I_Samuel	28:7-19	#	90:2.5/#	Chamanesas	C	#
 I_Samuel	28:7-25	#	146:7.1/#	La bruja de Endor	R	#
-I_Samuel	28:15	#	86:5.7/#	God "speaking" in dreams+	C	PROBLEM
+I_Samuel	28:15	#	86:5.7/#	Dios "habla" en sueños	C	#
 I_Samuel	28:18	#	97:9.6/#	Errores de ritual	C	#
 I_Samuel	29:1-11	#	97:9.5/#	David se retira	C	#
 I_Samuel	31:1-4	#	134:9.5/#	Gilboa, donde murió Saúl	C	#

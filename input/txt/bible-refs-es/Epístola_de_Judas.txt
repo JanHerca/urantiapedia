@@ -8,9 +8,9 @@ Epístola_de_Judas	1:9	#	37:3.6/#	Arcángel de Miguel	R	#
 Epístola_de_Judas	1:21	#	128:1.10/#	Dador de la vida eterna	C	#
 Epístola_de_Judas	1:21	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
 Epístola_de_Judas	1:21	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
-Epístola_de_Judas	1:21	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Epístola_de_Judas	1:21	#	170:2.20/#	Vida eterna / sin fin	C	#
 Epístola_de_Judas	1:21	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
-Epístola_de_Judas	1:21	#	101:6.8/#	Eternal life+	C	PROBLEM
+Epístola_de_Judas	1:21	#	101:6.8/#	Vida eterna	C	#
 Epístola_de_Judas	1:21	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
 Epístola_de_Judas	1:21	#	153:2.11/#	Los que creen tienen vida eterna	C	#
 Epístola_de_Judas	1:21	#	162:2.7/#	Vida eterna	C	#
