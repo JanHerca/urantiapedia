@@ -8,7 +8,7 @@ Evangelio_de_Marcos	1:4	#	135:5.7/#	Juan predica el arrepentimiento	S	#
 Evangelio_de_Marcos	1:4,7-8	#	135:6.1/#	Juan comienza a predicar	S	#
 Evangelio_de_Marcos	1:4,8	#	144:6.9/#	El significado del bautismo	C	#
 Evangelio_de_Marcos	1:4-5	#	135:6.4/#	Bautizo para remisión de los pecados	R	#
-Evangelio_de_Marcos	1:4-5,8	#	87:6.5/#	Water baptism	C	PROBLEM
+Evangelio_de_Marcos	1:4-5,8	#	87:6.5/#	Bautismo de agua	C	#
 Evangelio_de_Marcos	1:4-5,8	#	85:4.1/#	Bautismo	C	#
 Evangelio_de_Marcos	1:5	#	156:2.7/#	Si confesáis vuestros pecados, están perdonados	C	#
 Evangelio_de_Marcos	1:6	#	135:3.1/#	La dieta de Juan	S	#
@@ -30,7 +30,7 @@ Evangelio_de_Marcos	1:11	#	136:2.5/#	Voz del Ajustador Personalizado	S	#
 Evangelio_de_Marcos	1:11	#	136:2.3/#	Éste es mi Hijo amado	R	#
 Evangelio_de_Marcos	1:12	#	134:7.6/#	El ajustador conduce a Jesús a la montaña	S	#
 Evangelio_de_Marcos	1:12-13	#	135:8.6/#	Cuarenta días solo	S	#
-Evangelio_de_Marcos	1:12-13	#	136:4.8/#	Decision making	S	PROBLEM
+Evangelio_de_Marcos	1:12-13	#	136:4.8/#	Toma de decisiones	S	#
 Evangelio_de_Marcos	1:12-13	#	120:2.2/#	Finalización de la rebelión	C	#
 Evangelio_de_Marcos	1:12-13	#	136:4.3/#	Las «tentaciones» ocurrieron anteriormente	C	#
 Evangelio_de_Marcos	1:12-13	#	136:4.5/#	Razón de la idea de los «cuarenta días»	C	#
@@ -56,7 +56,7 @@ Evangelio_de_Marcos	1:14-15	#	160:3.5/#	Evangelio del reino	R	#
 Evangelio_de_Marcos	1:14-15	#	137:8.2/#	Evangelio del reino	S	#
 Evangelio_de_Marcos	1:14-15	#	190:5.4/#	El evangelio del reino	S	#
 Evangelio_de_Marcos	1:14-15	#	141:2.1/#	El reino de Dios ya está aquí	C	#
-Evangelio_de_Marcos	1:14-15	#	170:1.10/#	Gospel of the kingdom	R	PROBLEM
+Evangelio_de_Marcos	1:14-15	#	170:1.10/#	Evangelio del reino	R	#
 Evangelio_de_Marcos	1:14-15	#	150:5.2/#	Evangelio del reino	C	#
 Evangelio_de_Marcos	1:14-15	#	194:0.1/#	El evangelio del reino	C	#
 Evangelio_de_Marcos	1:14-15	#	169:4.6/#	El reino de Dios	S	#
@@ -108,7 +108,7 @@ Evangelio_de_Marcos	1:43-45	#	146:4.4/#	El leproso habla	S	#
 Evangelio_de_Marcos	1:44	#	136:8.1/#	Que no contaran nada sobre el acortamiento del tiempo	S	#
 Evangelio_de_Marcos	2:1-2	#	148:9.1/#	Predicando en Galilea	S	#
 Evangelio_de_Marcos	2:3-5	#	148:9.2/#	Curación del paralítico	S	#
-Evangelio_de_Marcos	2:6-7	#	148:9.2/#	Pharisees provoked	S	PROBLEM
+Evangelio_de_Marcos	2:6-7	#	148:9.2/#	Provocación de los fariseos	S	#
 Evangelio_de_Marcos	2:8-12	#	148:9.3/#	Jesús responde con la curación	S	#
 Evangelio_de_Marcos	2:10	#	136:1.1/#	El Hijo del Hombre	R	#
 Evangelio_de_Marcos	2:10	#	135:5.7/#	El Hijo del Hombre	R	#
@@ -124,7 +124,7 @@ Evangelio_de_Marcos	2:14	#	171:7.5/#	Mientras pasaba	R	#
 Evangelio_de_Marcos	2:15	#	138:3.4/#	El banquete de Mateo	S	#
 Evangelio_de_Marcos	2:15-16	#	169:0.4/#	Come con publicanos y pecadores	S	#
 Evangelio_de_Marcos	2:15-16	#	138:3.4/#	Publicanos y pecadores	R	#
-Evangelio_de_Marcos	2:15-16	#	169:1.2/#	Friend of publicans and sinners	S	PROBLEM
+Evangelio_de_Marcos	2:15-16	#	169:1.2/#	Amigo de publicanos y pecadores	S	#
 Evangelio_de_Marcos	2:16-17	#	138:3.6/#	Los sanos no necesitan médico	S	#
 Evangelio_de_Marcos	2:17	#	137:8.16/#	Jesús vino a llamar a los pecadores	S	#
 Evangelio_de_Marcos	2:17b	#	157:6.9/#	Jesús vino a llamar a los pecadores	S	#
@@ -146,15 +146,15 @@ Evangelio_de_Marcos	3:13	#	139:2.2/#	Simón renombrado como Pedro	S	#
 Evangelio_de_Marcos	3:13-14	#	140:9.2/#	Consagración y comisión	S	#
 Evangelio_de_Marcos	3:14-15	#	150:4.1/#	Los apóstoles se reúnen	S	#
 Evangelio_de_Marcos	3:15	#	163:1.4/#	Ayudad a los enfermos	S	#
-Evangelio_de_Marcos	3:16-19	#	138:2.2/#	Bible names for the Apostles	S	PROBLEM
+Evangelio_de_Marcos	3:16-19	#	138:2.2/#	Nombres bíblicos de los apóstoles	S	#
 Evangelio_de_Marcos	3:16-19	#	150:4.1/#	Los apóstoles son nominados	S	#
 Evangelio_de_Marcos	3:16-19	#	139:0.1/#	Los doce apóstoles	S	#
 Evangelio_de_Marcos	3:17	#	139:3.1/#	Hijos del trueno	R	#
 Evangelio_de_Marcos	3:17	#	181:2.4/#	Hijos del trueno	S	#
-Evangelio_de_Marcos	3:17	#	139:3.5/#	Sons of thunder	R	PROBLEM
+Evangelio_de_Marcos	3:17	#	139:3.5/#	Hijos del trueno	R	#
 Evangelio_de_Marcos	3:18	#	139:10.5/#	También llamados Tadeo y Lebeo	C	#
 Evangelio_de_Marcos	3:18	#	139:11.1/#	La admisión de Simón Celotes	C	#
-Evangelio_de_Marcos	3:18	#	139:8.1/#	Thomas Didymus	C	PROBLEM
+Evangelio_de_Marcos	3:18	#	139:8.1/#	Tomás Dídimo	C	#
 Evangelio_de_Marcos	3:18	#	139:6.9/#	Natanael Bartolomé	C	#
 Evangelio_de_Marcos	3:18	#	139:7.1/#	Mateo Leví, publicano	C	#
 Evangelio_de_Marcos	3:18	#	139:10.1/#	Los gemelos Alfeo, Santiago y Judas	C	#
@@ -173,7 +173,7 @@ Evangelio_de_Marcos	3:29	#	49:6.7/#	No sobrevimiento	C	#
 Evangelio_de_Marcos	3:31	#	154:6.1/#	Llega la familia de Jesús	S	#
 Evangelio_de_Marcos	3:32	#	154:6.4/#	Le dicen a Jesús que su familia está esperando	S	#
 Evangelio_de_Marcos	3:33-35	#	154:6.5/#	¿Quién es mi familia?	S	#
-Evangelio_de_Marcos	3:33-35	#	170:2.20/#	Jesus used "family of God"+	S	PROBLEM
+Evangelio_de_Marcos	3:33-35	#	170:2.20/#	Jesús usó «la familia de Dios»	S	#
 Evangelio_de_Marcos	3:35	#	141:2.2/#	Cuando la voluntad del Padre se convierta en vuestra voluntad	C	#
 Evangelio_de_Marcos	3:35	#	100:7.6/#	Quienquiera que lo desee, puede venir	C	#
 Evangelio_de_Marcos	3:35	#	140:8.20/#	Haced voluntariamente la «voluntad» de Dios	C	#
@@ -189,7 +189,7 @@ Evangelio_de_Marcos	3:35	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
 Evangelio_de_Marcos	3:35	#	131:10.4/#	Todos los hombres son hermanos	C	#
 Evangelio_de_Marcos	3:35	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
 Evangelio_de_Marcos	3:35	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
-Evangelio_de_Marcos	3:35	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
+Evangelio_de_Marcos	3:35	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
 Evangelio_de_Marcos	3:35	#	170:5.17/#	El hermano mayor de los creyentes	S	#
 Evangelio_de_Marcos	3:35	#	195:6.16/#	Hacer la voluntad del Padre	R	#
 Evangelio_de_Marcos	3:35	#	131:10.2/#	Viviendo su voluntad podemos revelarlo	C	#
@@ -227,7 +227,7 @@ Evangelio_de_Marcos	4:26-29	#	151:3.15/#	Segunda parábola del sembrador	S	#
 Evangelio_de_Marcos	4:30	#	153:2.4/#	Reino de Dios	C	#
 Evangelio_de_Marcos	4:30-32	#	151:4.2/#	Parábola de la semilla de mostaza	S	#
 Evangelio_de_Marcos	4:31	#	178:1.15/#	La semilla de mostaza	S	#
-Evangelio_de_Marcos	4:31	#	170:2.14/#	Mustard seed	S	PROBLEM
+Evangelio_de_Marcos	4:31	#	170:2.14/#	La semilla de mostaza	S	#
 Evangelio_de_Marcos	4:31-32	#	140:8.27/#	Crecimiento del carácter	C	#
 Evangelio_de_Marcos	4:33-34	#	151:4.7/#	Muchas otras parábolas	S	#
 Evangelio_de_Marcos	4:35-36	#	151:5.1/#	Cruzando al otro lado del lago	S	#
@@ -250,7 +250,7 @@ Evangelio_de_Marcos	5:11-16	#	151:6.6/#	La leyenda acerca de los cerdos poseído
 Evangelio_de_Marcos	5:15	#	151:6.5/#	El lunático curado	S	#
 Evangelio_de_Marcos	5:16-17	#	151:6.7/#	La reacción de los lugareños	S	#
 Evangelio_de_Marcos	5:18-20	#	151:6.8/#	Lo que fue del lunático	S	#
-Evangelio_de_Marcos	5:21-24	#	152:0.1/#	Jairus' request: heal daughter	S	PROBLEM
+Evangelio_de_Marcos	5:21-24	#	152:0.1/#	La petición de Jairo: curación de su hija	S	#
 Evangelio_de_Marcos	5:23,36	#	175:1.1/#	Curados por la fe	C	#
 Evangelio_de_Marcos	5:25-33	#	152:0.2/#	Curación de la mujer hemorroísa	S	#
 Evangelio_de_Marcos	5:25-34	#	171:7.8/#	La fe de la mujer la curó	S	#
@@ -295,7 +295,7 @@ Evangelio_de_Marcos	6:17b-19	#	135:10.2/#	Juan ataca a Herodes	S	#
 Evangelio_de_Marcos	6:20	#	135:12.3/#	Juan ante Herodes	S	#
 Evangelio_de_Marcos	6:21	#	135:12.5/#	Fiesta de cumpleaños de Herodes	S	#
 Evangelio_de_Marcos	6:27-29	#	144:9.1/#	Juan Bautista ejecutado y enterrado	S	#
-Evangelio_de_Marcos	6:31-32	#	152:2.1/#	Jesus leaves	S	PROBLEM
+Evangelio_de_Marcos	6:31-32	#	152:2.1/#	La partida de Jesús	S	#
 Evangelio_de_Marcos	6:33-34	#	152:2.2/#	La gente les sigue	S	#
 Evangelio_de_Marcos	6:35-37	#	152:2.6/#	No hay comida para la multitud	S	#
 Evangelio_de_Marcos	6:38	#	152:2.7/#	Cinco panes y dos peces	S	#
@@ -326,7 +326,7 @@ Evangelio_de_Marcos	7:36	#	136:8.1/#	Que no contaran nada sobre el acortamiento 
 Evangelio_de_Marcos	7:36	#	149:1.2/#	No se lo digáis a nadie	S	#
 Evangelio_de_Marcos	8:1-9	#	152:2.9/#	Alimentación de 4.000	C	#
 Evangelio_de_Marcos	8:11	#	157:2.1/#	Jesús retado con un signo	S	#
-Evangelio_de_Marcos	8:11	#	136:7.4/#	No supernatural sign	C	PROBLEM
+Evangelio_de_Marcos	8:11	#	136:7.4/#	Ningún signo sobrenatural	C	#
 Evangelio_de_Marcos	8:11-12	#	136:8.1/#	Jesús rehusó mostrar signos	R	#
 Evangelio_de_Marcos	8:11-12	#	153:4.5/#	Los fariseos piden un signo	C	#
 Evangelio_de_Marcos	8:12	#	157:2.1/#	No se dará ningún signo	S	#
@@ -410,7 +410,7 @@ Evangelio_de_Marcos	9:24	#	158:5.2/#	Yo creo, ayuda a mi incredulidad	S	#
 Evangelio_de_Marcos	9:24	#	159:3.8/#	La batalla contra la incredulidad	S	#
 Evangelio_de_Marcos	9:25-27	#	158:5.3/#	El niño es curado	S	#
 Evangelio_de_Marcos	9:28	#	158:6.1/#	Los discípulos preguntan por su fracaso	S	#
-Evangelio_de_Marcos	9:29	#	158:6.2/#	Little faith	C	PROBLEM
+Evangelio_de_Marcos	9:29	#	158:6.2/#	Fe pequeña	C	#
 Evangelio_de_Marcos	9:31	#	190:5.4/#	Predicción de la muerte y resurrección	S	#
 Evangelio_de_Marcos	9:31	#	181:1.5/#	Moriré pero resucitaré	C	#
 Evangelio_de_Marcos	9:31	#	171:4.2/#	Advertencia sobre la crucifixión y la resurrección	S	#
@@ -439,11 +439,11 @@ Evangelio_de_Marcos	9:36-37	#	144:4.3/#	La filiación se recibe al igual que un 
 Evangelio_de_Marcos	9:36-37	#	196:0.12/#	Ser como un niño	R	#
 Evangelio_de_Marcos	9:36-37	#	140:10.4/#	Volverse como un niño	S	#
 Evangelio_de_Marcos	9:36-37	#	195:3.5/#	La enseñanza relativa a los niños	C	#
-Evangelio_de_Marcos	9:36-37	#	170:2.18/#	Faith as little child	S	PROBLEM
+Evangelio_de_Marcos	9:36-37	#	170:2.18/#	Fe como un niño pequeño	S	#
 Evangelio_de_Marcos	9:36-37	#	137:8.8/#	La fe confiada de un niño	S	#
 Evangelio_de_Marcos	9:36-37	#	193:2.2/#	Entrar en el reino como un niño	S	#
 Evangelio_de_Marcos	9:36-37	#	155:6.12/#	Fe como la de un niño, la simplicidad espiritual	S	#
-Evangelio_de_Marcos	9:36-37	#	181:2.20/#	Become as child in spirit	S	PROBLEM
+Evangelio_de_Marcos	9:36-37	#	181:2.20/#	Ser un niño en el espíritu	S	#
 Evangelio_de_Marcos	9:36-37	#	140:6.2/#	Comenzar como niños pequeños	C	#
 Evangelio_de_Marcos	9:36-37	#	196:0.11/#	Fe confiada y sin sospecha como la de un niño	C	#
 Evangelio_de_Marcos	9:36-37	#	170:3.2/#	La fe simple de un niño	S	#
@@ -456,7 +456,7 @@ Evangelio_de_Marcos	9:41	#	159:2.1/#	Una copa de agua fría a un alma sedienta	S
 Evangelio_de_Marcos	9:42	#	158:8.1/#	Atarse una piedra de molino al cuello	S	#
 Evangelio_de_Marcos	9:43-47	#	158:8.1/#	Sacrificad las cosas que ofenden al progreso	S	#
 Evangelio_de_Marcos	9:50	#	140:3.12/#	Sois la sal de la Tierra	S	#
-Evangelio_de_Marcos	9:50	#	140:4.2/#	You are the salt of the earth	S	PROBLEM
+Evangelio_de_Marcos	9:50	#	140:4.2/#	Sois la sal de la Tierra	S	#
 Evangelio_de_Marcos	9:50	#	171:2.5/#	Sal que ha perdido su sabor	S	#
 Evangelio_de_Marcos	10:2	#	167:5.2/#	Pregunta sobre el divorcio	S	#
 Evangelio_de_Marcos	10:2-12	#	167:5.3/#	Sobre el matrimonio y el divorcio	S	#
@@ -469,7 +469,7 @@ Evangelio_de_Marcos	10:13-15	#	137:8.8/#	La fe confiada de un niño	S	#
 Evangelio_de_Marcos	10:13-15	#	140:10.4/#	Volverse como un niño	S	#
 Evangelio_de_Marcos	10:13-15	#	158:8.1/#	Entrar como un niño	S	#
 Evangelio_de_Marcos	10:13-15	#	193:2.2/#	Entrar en el reino como un niño	S	#
-Evangelio_de_Marcos	10:13-15	#	170:2.18/#	Faith as little child	S	PROBLEM
+Evangelio_de_Marcos	10:13-15	#	170:2.18/#	Fe como un niño pequeño	S	#
 Evangelio_de_Marcos	10:13-15	#	170:3.2/#	La fe simple de un niño	S	#
 Evangelio_de_Marcos	10:13-15	#	140:6.2/#	Comenzar como niños pequeños	C	#
 Evangelio_de_Marcos	10:13-16	#	196:0.11/#	Fe confiada y sin sospecha como la de un niño	C	#
@@ -487,7 +487,7 @@ Evangelio_de_Marcos	10:14-15,23-25	#	193:0.4/#	Evangelio del reino	C	#
 Evangelio_de_Marcos	10:14-15,23-25	#	34:6.13/#	El reino de Dios	C	#
 Evangelio_de_Marcos	10:14-15,23-25	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
 Evangelio_de_Marcos	10:15	#	102:1.1/#	Tener la confianza de un niño	C	#
-Evangelio_de_Marcos	10:15	#	181:2.20/#	Become as child in spirit	S	PROBLEM
+Evangelio_de_Marcos	10:15	#	181:2.20/#	Ser un niño en el espíritu	S	#
 Evangelio_de_Marcos	10:16	#	167:6.2/#	Jesús bendice a los niños	S	#
 Evangelio_de_Marcos	10:17,19-20	#	163:2.4/#	Joven rico sanedrita	S	#
 Evangelio_de_Marcos	10:17,30	#	146:3.7/#	La vida eterna	C	#
@@ -530,7 +530,7 @@ Evangelio_de_Marcos	10:27	#	2:1.2/#	Todas las cosas son posibles	R	#
 Evangelio_de_Marcos	10:27	#	131:10.2/#	Con Dios, todas las cosas son posibles	C	#
 Evangelio_de_Marcos	10:27	#	163:3.2/#	Con Dios, nada es imposible	S	#
 Evangelio_de_Marcos	10:28-30	#	163:3.4/#	Recompensa por el servicio	S	#
-Evangelio_de_Marcos	10:29-30	#	182:1.10/#	I am the secret of survival	S	PROBLEM
+Evangelio_de_Marcos	10:29-30	#	182:1.10/#	Yo soy el secreto de la supervivencia	S	#
 Evangelio_de_Marcos	10:31	#	163:3.4/#	Muchos que son los primeros serán los últimos	S	#
 Evangelio_de_Marcos	10:31	#	166:3.5/#	Muchos primeros serán últimos, y últimos los primeros	S	#
 Evangelio_de_Marcos	10:31	#	41:10.5/#	El último se convierte en el primero	C	#
@@ -649,9 +649,9 @@ Evangelio_de_Marcos	12:27	#	195:10.4/#	El Padre es un espíritu vivo	C	#
 Evangelio_de_Marcos	12:28-31	#	164:1.1/#	¿Cuál es el mayor mandamiento?	S	#
 Evangelio_de_Marcos	12:28-31	#	174:4.2/#	El mandamiento más grande	S	#
 Evangelio_de_Marcos	12:28-33	#	142:3.22/#	Amar a Dios y al prójimo	C	#
-Evangelio_de_Marcos	12:28-33	#	196:3.16/#	Religion of LOVE+	C	PROBLEM
+Evangelio_de_Marcos	12:28-33	#	196:3.16/#	Una religión de AMOR	C	#
 Evangelio_de_Marcos	12:28-33	#	142:4.2/#	Amar a Dios y al prójimo	C	#
-Evangelio_de_Marcos	12:28-33	#	142:1.1/#	Love God & neighbor as self	C	PROBLEM
+Evangelio_de_Marcos	12:28-33	#	142:1.1/#	Amar a Dios y al prójimo como a sí mismo	C	#
 Evangelio_de_Marcos	12:29,32	#	45:4.8/#	Dios único	C	#
 Evangelio_de_Marcos	12:29,32	#	96:5.5/#	El Señor es un único Dios	C	#
 Evangelio_de_Marcos	12:29,32	#	1:7.6/#	Dios es uno solo	R	#
@@ -707,7 +707,7 @@ Evangelio_de_Marcos	12:38-40a	#	175:1.9/#	Los líderes anhelan honores	S	#
 Evangelio_de_Marcos	12:41-44	#	172:4.2/#	Los ébolos de la viuda	S	#
 Evangelio_de_Marcos	13:1	#	141:3.5/#	Le llamaban «Maestro»	S	#
 Evangelio_de_Marcos	13:1-2	#	176:0.1/#	Predicción de la destrucción del templo	S	#
-Evangelio_de_Marcos	13:1-2	#	128:5.3/#	Temple to be demolished	C	PROBLEM
+Evangelio_de_Marcos	13:1-2	#	128:5.3/#	El templo será demolido	C	#
 Evangelio_de_Marcos	13:1-2	#	178:3.3/#	Predicción de la destrucción del templo	S	#
 Evangelio_de_Marcos	13:3-4	#	176:0.2/#	Jesús y los apóstoles conversan	S	#
 Evangelio_de_Marcos	13:4-33	#	20:4.5/#	Promesa de regresar	C	#
@@ -756,9 +756,9 @@ Evangelio_de_Marcos	13:22	#	140:3.19/#	Advertencia contra los falsos profetas	S	
 Evangelio_de_Marcos	13:22	#	140:10.4/#	Los falsos profetas	S	#
 Evangelio_de_Marcos	13:24-26	#	170:2.10/#	La creencia en un reino inminente	S	#
 Evangelio_de_Marcos	13:24-27	#	170:4.6/#	El fin de los tiempos	C	#
-Evangelio_de_Marcos	13:24-27	#	170:2.14/#	Believe end sudden, spectacular+	C	PROBLEM
+Evangelio_de_Marcos	13:24-27	#	170:2.14/#	Creencia en un final súbito y espectacular	C	#
 Evangelio_de_Marcos	13:26	#	176:2.4/#	Segunda venida con poder	S	#
-Evangelio_de_Marcos	13:26	#	141:4.5/#	Kingdom:comes in power & glory	C	PROBLEM
+Evangelio_de_Marcos	13:26	#	141:4.5/#	El reino vendrá con poder y gloria	C	#
 Evangelio_de_Marcos	13:26	#	140:1.5/#	No con una demostración indecorosa	C	#
 Evangelio_de_Marcos	13:26	#	196:2.5/#	Creencia en el retorno inmediato del Señor	C	#
 Evangelio_de_Marcos	13:26	#	176:3.3/#	Regreso del Hijo del Hombre	S	#
@@ -800,7 +800,7 @@ Evangelio_de_Marcos	14:25	#	34:6.13/#	El reino de Dios	C	#
 Evangelio_de_Marcos	14:25	#	190:5.4/#	El evangelio del reino	S	#
 Evangelio_de_Marcos	14:25	#	193:0.4/#	Evangelio del reino	C	#
 Evangelio_de_Marcos	14:25	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
-Evangelio_de_Marcos	14:25	#	153:2.4/#	Kingdom of God+	C	PROBLEM
+Evangelio_de_Marcos	14:25	#	153:2.4/#	El reino de Dios	C	#
 Evangelio_de_Marcos	14:26	#	181:2.31/#	Canto del himno y salida	S	#
 Evangelio_de_Marcos	14:26a	#	179:5.10/#	Final con un canto (Salmo 118)	S	#
 Evangelio_de_Marcos	14:27	#	183:4.6/#	El pastor es golpeado y las ovejas se dispersan	C	#
@@ -841,13 +841,13 @@ Evangelio_de_Marcos	14:36,39	#	160:1.11/#	«Que no se haga mi voluntad, sino la 
 Evangelio_de_Marcos	14:36,39	#	136:8.3/#	Jesús decide vivir la voluntad del Padre	C	#
 Evangelio_de_Marcos	14:36,39	#	109:6.5/#	Que no se haga mi voluntad, sino la tuya	R	#
 Evangelio_de_Marcos	14:36,39	#	136:10.1/#	Someterse a la voluntad del Padre	R	#
-Evangelio_de_Marcos	14:36,39	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
+Evangelio_de_Marcos	14:36,39	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
 Evangelio_de_Marcos	14:36.39	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
 Evangelio_de_Marcos	14:37	#	182:3.2/#	Primera vez que los apóstoles duermen	S	#
 Evangelio_de_Marcos	14:39	#	182:3.2/#	La segunda oración en Getsemaní	S	#
 Evangelio_de_Marcos	14:40	#	182:3.3/#	La segunda vez que los apóstoles duermen	S	#
 Evangelio_de_Marcos	14:41-42	#	182:3.4/#	Tercera oración y tercer sueño de los apóstoles	S	#
-Evangelio_de_Marcos	14:43	#	183:2.4/#	Judas leads armed band	S	PROBLEM
+Evangelio_de_Marcos	14:43	#	183:2.4/#	Judas conduce a la tropa armada	S	#
 Evangelio_de_Marcos	14:44	#	183:3.3/#	El plan	S	#
 Evangelio_de_Marcos	14:45	#	183:3.5/#	Jesús traicionado con un beso	S	#
 Evangelio_de_Marcos	14:46-47	#	183:3.7/#	El ataque a Malco	S	#
@@ -856,7 +856,7 @@ Evangelio_de_Marcos	14:50	#	183:3.9/#	Los seguidores huyen	S	#
 Evangelio_de_Marcos	14:51-52	#	183:3.9/#	El chico desnudo	S	#
 Evangelio_de_Marcos	14:51-52	#	183:3.10/#	Juan Marcos se hace con un manto	C	#
 Evangelio_de_Marcos	14:53	#	184:1.9/#	Jesús llevado ante Caifás	S	#
-Evangelio_de_Marcos	14:54	#	184:2.1/#	Peter enters courtyard	S	PROBLEM
+Evangelio_de_Marcos	14:54	#	184:2.1/#	Pedro entra en el patio	S	#
 Evangelio_de_Marcos	14:54	#	139:2.9/#	Siguiendo de lejos	R	#
 Evangelio_de_Marcos	14:54	#	183:3.10/#	Pedro los sigue en la distancia	S	#
 Evangelio_de_Marcos	14:54b	#	184:2.2/#	Pedro calentándose	S	#
@@ -865,13 +865,13 @@ Evangelio_de_Marcos	14:56-61a	#	186:2.2/#	Jesús rehusó defenderse	S	#
 Evangelio_de_Marcos	14:57-59	#	184:3.7/#	El acuerdo de los testigos	S	#
 Evangelio_de_Marcos	14:58	#	184:3.7/#	Destruid este templo, y lo reconstruiré	S	#
 Evangelio_de_Marcos	14:60-61a	#	184:3.8/#	Jesús no se defiende	S	#
-Evangelio_de_Marcos	14:61b-62	#	184:3.11/#	Jesus confesses, I am deliverer	S	PROBLEM
+Evangelio_de_Marcos	14:61b-62	#	184:3.11/#	Jesús confiesa, soy el Libertador	S	#
 Evangelio_de_Marcos	14:61b-62	#	184:1.8/#	Conversación con Anás	C	#
 Evangelio_de_Marcos	14:61b-62a	#	186:2.2/#	Jesús respondió sobre su divinidad	S	#
 Evangelio_de_Marcos	14:62	#	176:3.3/#	Regreso del Hijo del Hombre	S	#
 Evangelio_de_Marcos	14:62	#	170:2.10/#	La creencia en un reino inminente	S	#
 Evangelio_de_Marcos	14:62	#	176:2.4/#	Segunda venida con poder	S	#
-Evangelio_de_Marcos	14:63-64	#	184:3.12/#	High Priest's response	S	PROBLEM
+Evangelio_de_Marcos	14:63-64	#	184:3.12/#	La respuesta del sumo sacerdote	S	#
 Evangelio_de_Marcos	14:65	#	184:4.1/#	Ultrajes contra Jesús	S	#
 Evangelio_de_Marcos	14:65	#	184:3.15/#	Desorden en el tribunal	S	#
 Evangelio_de_Marcos	14:65	#	186:2.10/#	Jesús nunca se irritaba	S	#
@@ -879,13 +879,13 @@ Evangelio_de_Marcos	14:66-68a	#	184:2.4/#	Primera negación	S	#
 Evangelio_de_Marcos	14:66-72	#	139:2.6/#	Negación de Pedro	S	#
 Evangelio_de_Marcos	14:66-72	#	139:2.5/#	Negación de Pedro	S	#
 Evangelio_de_Marcos	14:68b,72a	#	184:2.8/#	El gallo cantó	S	#
-Evangelio_de_Marcos	14:69-70a	#	184:2.6/#	2nd denial	S	PROBLEM
-Evangelio_de_Marcos	14:70b-71	#	184:2.7/#	3rd denial	S	PROBLEM
+Evangelio_de_Marcos	14:69-70a	#	184:2.6/#	Segunda negación	S	#
+Evangelio_de_Marcos	14:70b-71	#	184:2.7/#	Tercera negación	S	#
 Evangelio_de_Marcos	14:72	#	140:5.16/#	La ternura es varonil	C	#
 Evangelio_de_Marcos	14:72b	#	184:2.8/#	Pedro recuerda	S	#
 Evangelio_de_Marcos	14:72c	#	184:2.9/#	Pedro llora amargamente	S	#
 Evangelio_de_Marcos	15:1a	#	184:5.1/#	Segunda reunión del tribunal	S	#
-Evangelio_de_Marcos	15:1b	#	184:5.8/#	Jesus led to Pilate	S	PROBLEM
+Evangelio_de_Marcos	15:1b	#	184:5.8/#	Jesús conducido ante Pilato	S	#
 Evangelio_de_Marcos	15:2	#	186:2.2/#	Jesús respondió sobre su divinidad	S	#
 Evangelio_de_Marcos	15:2a	#	185:3.2/#	¿Eres el rey de los judíos?	S	#
 Evangelio_de_Marcos	15:2b	#	185:3.4/#	El reconocimiento del «reino»	S	#
@@ -915,7 +915,7 @@ Evangelio_de_Marcos	15:24b	#	187:2.8/#	Se reparten sus ropas	S	#
 Evangelio_de_Marcos	15:25	#	187:3.1/#	La hora de la crucifixión	S	#
 Evangelio_de_Marcos	15:26	#	187:1.2/#	El letrero: el rey de los judíos	S	#
 Evangelio_de_Marcos	15:26	#	187:2.5/#	El letrero: el rey de los judíos	S	#
-Evangelio_de_Marcos	15:27	#	186:4.3/#	Two malefactors	S	PROBLEM
+Evangelio_de_Marcos	15:27	#	186:4.3/#	Los dos bandidos	S	#
 Evangelio_de_Marcos	15:27	#	187:0.2/#	Jesús crucificado con dos ladrones	S	#
 Evangelio_de_Marcos	15:27	#	187:2.4/#	Los dos bandidos	S	#
 Evangelio_de_Marcos	15:28	#	122:4.4/#	Profecía mesiánica: Is 53:12	R	#
@@ -928,7 +928,7 @@ Evangelio_de_Marcos	15:33	#	187:6.1/#	La oscuridad de la tormenta de arena	S	#
 Evangelio_de_Marcos	15:33	#	187:5.1/#	La oscuridad, una tormenta de arena	S	#
 Evangelio_de_Marcos	15:34	#	187:5.2/#	Jesús recita pasajes de las escrituras	S	#
 Evangelio_de_Marcos	15:36a	#	187:5.3/#	De nuevo «Tengo sed»	S	#
-Evangelio_de_Marcos	15:37	#	187:5.5/#	Jesus dies on cross	S	PROBLEM
+Evangelio_de_Marcos	15:37	#	187:5.5/#	Jesús muere en la cruz	S	#
 Evangelio_de_Marcos	15:39	#	157:5.1/#	Jesús, el Hijo de Dios	C	#
 Evangelio_de_Marcos	15:39	#	141:3.5/#	Evangelio del Hijo divino de Dios	C	#
 Evangelio_de_Marcos	15:39	#	136:1.1/#	Jesús, Hijo de Dios	R	#

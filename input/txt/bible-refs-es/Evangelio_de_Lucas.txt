@@ -1,4 +1,4 @@
-Evangelio_de_Lucas	1:5	#	135:0.3/#	Education of parents	C	PROBLEM
+Evangelio_de_Lucas	1:5	#	135:0.3/#	Educación de los padres	C	#
 Evangelio_de_Lucas	1:5-7	#	122:2.1/#	Los padres de Juan	S	#
 Evangelio_de_Lucas	1:5a	#	121:2.9/#	El rey Herodes	S	#
 Evangelio_de_Lucas	1:8-10	#	122:2.3/#	Ministerio de Zacarías	S	#
@@ -24,7 +24,7 @@ Evangelio_de_Lucas	1:30-33	#	119:7.5/#	Encarnación de Miguel	C	#
 Evangelio_de_Lucas	1:31	#	122:3.1/#	El nombre de Jesús	S	#
 Evangelio_de_Lucas	1:32	#	141:2.1/#	El trono del rey David	C	#
 Evangelio_de_Lucas	1:32	#	170:1.3/#	El reino como una esperanza futura	S	#
-Evangelio_de_Lucas	1:32-33	#	122:4.2/#	Inaccuracies in Bible	C	PROBLEM
+Evangelio_de_Lucas	1:32-33	#	122:4.2/#	Inexactitudes en la Biblia	C	#
 Evangelio_de_Lucas	1:33	#	140:1.2/#	El reino eterno	S	#
 Evangelio_de_Lucas	1:35	#	136:1.1/#	Jesús, Hijo de Dios	R	#
 Evangelio_de_Lucas	1:35	#	141:3.5/#	Evangelio del Hijo divino de Dios	C	#
@@ -44,12 +44,12 @@ Evangelio_de_Lucas	1:57	#	135:0.1/#	Nacimiento de Juan el Bautista	S	#
 Evangelio_de_Lucas	1:57-63	#	122:2.7/#	Nacimiento e infancia de Juan	S	#
 Evangelio_de_Lucas	1:59	#	135:0.2/#	La circuncisión de Juan	S	#
 Evangelio_de_Lucas	1:67	#	122:9.4/#	Poema de Ana	S	#
-Evangelio_de_Lucas	1:68-79	#	122:9.5/#	Hymn of Redemption	S	PROBLEM
+Evangelio_de_Lucas	1:68-79	#	122:9.5/#	Himno de redención	S	#
 Evangelio_de_Lucas	1:69,77	#	190:4.1/#	Evangelio de salvación	C	#
 Evangelio_de_Lucas	1:69,77	#	190:5.4/#	Evangelio de salvación de Dios	C	#
 Evangelio_de_Lucas	1:78-79	#	162:5.2/#	Jesús es la luz del mundo	S	#
 Evangelio_de_Lucas	1:79	#	5:4.2/#	Paz duradera	C	#
-Evangelio_de_Lucas	1:79	#	40:5.16/#	True light+	C	PROBLEM
+Evangelio_de_Lucas	1:79	#	40:5.16/#	Luz verdadera	C	#
 Evangelio_de_Lucas	1:79	#	52:1.7/#	Iluminados por la verdadera luz	R	#
 Evangelio_de_Lucas	1:79	#	107:4.5/#	Luminosidad espiritual	C	#
 Evangelio_de_Lucas	1:79	#	107:4.5/#	Luminosidad espiritual	C	#
@@ -91,13 +91,13 @@ Evangelio_de_Lucas	2:25	#	122:9.2/#	Simeón	S	#
 Evangelio_de_Lucas	2:26	#	122:9.2/#	Ambos veían a Jesús como el Mesías	S	#
 Evangelio_de_Lucas	2:27a	#	122:9.3/#	Los dos estaban en el Templo	S	#
 Evangelio_de_Lucas	2:28	#	122:9.4/#	Poema de Ana	S	#
-Evangelio_de_Lucas	2:29-32	#	122:9.5/#	Hymn of Redemption	S	PROBLEM
+Evangelio_de_Lucas	2:29-32	#	122:9.5/#	Himno de redención	S	#
 Evangelio_de_Lucas	2:32	#	162:5.2/#	Jesús es la luz del mundo	S	#
 Evangelio_de_Lucas	2:32	#	0:6.9/#	Luz espiritual	C	#
-Evangelio_de_Lucas	2:32	#	40:5.16/#	True light+	C	PROBLEM
+Evangelio_de_Lucas	2:32	#	40:5.16/#	Luz verdadera	C	#
 Evangelio_de_Lucas	2:32	#	52:1.7/#	Iluminados por la verdadera luz	R	#
 Evangelio_de_Lucas	2:32	#	107:4.5/#	Luminosidad espiritual	C	#
-Evangelio_de_Lucas	2:33	#	122:9.6/#	Parents marvel	S	PROBLEM
+Evangelio_de_Lucas	2:33	#	122:9.6/#	Los padres se maravillan	S	#
 Evangelio_de_Lucas	2:33-34,43	#	122:1.3/#	Los padres de Jesús	S	#
 Evangelio_de_Lucas	2:36-38	#	122:9.2/#	Ana	S	#
 Evangelio_de_Lucas	2:39	#	123:0.6/#	Viaje a Nazaret	S	#
@@ -134,7 +134,7 @@ Evangelio_de_Lucas	3:3	#	135:6.4/#	Bautizo para remisión de los pecados	R	#
 Evangelio_de_Lucas	3:3	#	135:7.3/#	Arrepentíos y bautizaos	R	#
 Evangelio_de_Lucas	3:3,7	#	138:8.8/#	El arrepentimiento, huir de la ira venidera	R	#
 Evangelio_de_Lucas	3:3,7,16	#	85:4.1/#	Bautismo	C	#
-Evangelio_de_Lucas	3:3,7,16	#	87:6.5/#	Water baptism	C	PROBLEM
+Evangelio_de_Lucas	3:3,7,16	#	87:6.5/#	Bautismo de agua	C	#
 Evangelio_de_Lucas	3:3,16	#	144:6.9/#	El significado del bautismo	C	#
 Evangelio_de_Lucas	3:4-5	#	135:6.6/#	Respuesta de Juan	R	#
 Evangelio_de_Lucas	3:6	#	190:4.1/#	Evangelio de salvación	C	#
@@ -144,7 +144,7 @@ Evangelio_de_Lucas	3:7-9	#	135:6.7/#	El mensaje sin tacto de Juan	R	#
 Evangelio_de_Lucas	3:9	#	140:3.19/#	Requerimientos para dar buenos frutos	C	#
 Evangelio_de_Lucas	3:9	#	193:2.2/#	Se pide que produzcáis muchos frutos	S	#
 Evangelio_de_Lucas	3:9	#	142:5.2/#	Judgad por los frutos del espíritu	C	#
-Evangelio_de_Lucas	3:9	#	140:4.7/#	Requirement to bear good fruit	C	PROBLEM
+Evangelio_de_Lucas	3:9	#	140:4.7/#	Necesidad de dar buen fruto	C	#
 Evangelio_de_Lucas	3:9-10	#	135:6.7/#	Dar buen fruto	R	#
 Evangelio_de_Lucas	3:10-11	#	135:6.8/#	Juan daba clases a sus discípulos	S	#
 Evangelio_de_Lucas	3:12	#	129:1.11/#	El Maestro	R	#
@@ -181,7 +181,7 @@ Evangelio_de_Lucas	4:1	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
 Evangelio_de_Lucas	4:1	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
 Evangelio_de_Lucas	4:1	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
 Evangelio_de_Lucas	4:1	#	134:7.6/#	El ajustador conduce a Jesús a la montaña	S	#
-Evangelio_de_Lucas	4:1-2	#	136:4.8/#	Decision making	S	PROBLEM
+Evangelio_de_Lucas	4:1-2	#	136:4.8/#	Toma de decisiones	S	#
 Evangelio_de_Lucas	4:1-13	#	136:4.5/#	Razón de la idea de los «cuarenta días»	C	#
 Evangelio_de_Lucas	4:1-13	#	135:8.6/#	Cuarenta días solo	S	#
 Evangelio_de_Lucas	4:1-13	#	136:3.1/#	Los «cuarenta días»	S	#
@@ -265,7 +265,7 @@ Evangelio_de_Lucas	5:14	#	136:8.1/#	Que no contaran nada sobre el acortamiento d
 Evangelio_de_Lucas	5:14-15	#	146:4.4/#	El leproso habla	S	#
 Evangelio_de_Lucas	5:17	#	148:9.1/#	Predicando en Galilea	S	#
 Evangelio_de_Lucas	5:18-20	#	148:9.2/#	Curación del paralítico	S	#
-Evangelio_de_Lucas	5:21	#	148:9.2/#	Pharisees provoked	S	PROBLEM
+Evangelio_de_Lucas	5:21	#	148:9.2/#	Provocación de los fariseos	S	#
 Evangelio_de_Lucas	5:22-26	#	148:9.3/#	Jesús responde con la curación	S	#
 Evangelio_de_Lucas	5:24	#	128:1.2/#	Hijo del Hombre	C	#
 Evangelio_de_Lucas	5:24	#	135:5.7/#	El Hijo del Hombre	R	#
@@ -280,7 +280,7 @@ Evangelio_de_Lucas	5:29	#	138:3.4/#	El banquete de Mateo	S	#
 Evangelio_de_Lucas	5:29-30	#	121:8.8/#	Amigo de publicanos y pecadores	R	#
 Evangelio_de_Lucas	5:30	#	169:0.4/#	Come con publicanos y pecadores	S	#
 Evangelio_de_Lucas	5:30	#	138:3.4/#	Publicanos y pecadores	R	#
-Evangelio_de_Lucas	5:30	#	169:1.2/#	Friend of publicans and sinners	S	PROBLEM
+Evangelio_de_Lucas	5:30	#	169:1.2/#	Amigo de publicanos y pecadores	S	#
 Evangelio_de_Lucas	5:30-32	#	138:3.6/#	Los sanos no necesitan médico	S	#
 Evangelio_de_Lucas	5:32	#	157:6.9/#	Jesús vino a llamar a los pecadores	S	#
 Evangelio_de_Lucas	5:32	#	137:8.16/#	Jesús vino a llamar a los pecadores	S	#
@@ -299,9 +299,9 @@ Evangelio_de_Lucas	6:14	#	139:6.9/#	Natanael Bartolomé	C	#
 Evangelio_de_Lucas	6:14	#	139:2.2/#	Simón renombrado como Pedro	S	#
 Evangelio_de_Lucas	6:14	#	139:1.7/#	El hermano de Pedro	R	#
 Evangelio_de_Lucas	6:14-16	#	139:0.1/#	Los doce apóstoles	S	#
-Evangelio_de_Lucas	6:14-16	#	138:2.2/#	Bible names for the Apostles	S	PROBLEM
+Evangelio_de_Lucas	6:14-16	#	138:2.2/#	Nombres bíblicos de los apóstoles	S	#
 Evangelio_de_Lucas	6:14-16	#	150:4.1/#	Los apóstoles son nominados	S	#
-Evangelio_de_Lucas	6:15	#	139:8.1/#	Thomas Didymus	C	PROBLEM
+Evangelio_de_Lucas	6:15	#	139:8.1/#	Tomás Dídimo	C	#
 Evangelio_de_Lucas	6:15	#	139:11.1/#	La admisión de Simón Celotes	C	#
 Evangelio_de_Lucas	6:15	#	139:7.1/#	Mateo Leví, publicano	C	#
 Evangelio_de_Lucas	6:15-16	#	139:10.1/#	Los gemelos Alfeo, Santiago y Judas	C	#
@@ -337,20 +337,20 @@ Evangelio_de_Lucas	6:27,35	#	131:10.8/#	Ama a tus enemigos	C	#
 Evangelio_de_Lucas	6:27-28	#	194:3.11/#	Vencer el odio con el amor	S	#
 Evangelio_de_Lucas	6:27-28	#	140:3.15/#	Ama a tus enemigos	S	#
 Evangelio_de_Lucas	6:27-31	#	131:10.5/#	Haz a otros como Dios haría	C	#
-Evangelio_de_Lucas	6:27-38	#	159:5.13/#	Positive admoniton golden rule	S	PROBLEM
+Evangelio_de_Lucas	6:27-38	#	159:5.13/#	Forma positiva de la regla de oro	S	#
 Evangelio_de_Lucas	6:28	#	178:1.17/#	Tened misericordia con los abusones maliciosos	S	#
 Evangelio_de_Lucas	6:28	#	146:2.11/#	Orad por vuestros enemigos	S	#
 Evangelio_de_Lucas	6:28-31	#	141:3.8/#	No resistáis al mal	R	#
 Evangelio_de_Lucas	6:29	#	140:3.14/#	Estad dispuestos a la injusticia	S	#
 Evangelio_de_Lucas	6:29	#	159:5.11/#	Dar el manto	S	#
 Evangelio_de_Lucas	6:29a	#	159:5.9/#	Poner la otra mejilla	R	#
-Evangelio_de_Lucas	6:31	#	147:4.3/#	Golden rule	S	PROBLEM
+Evangelio_de_Lucas	6:31	#	147:4.3/#	La regla de oro	S	#
 Evangelio_de_Lucas	6:31	#	131:10.7/#	La regla de oro	C	#
 Evangelio_de_Lucas	6:31	#	103:5.1/#	La Regla de Oro procedente del Ajustador	C	#
 Evangelio_de_Lucas	6:31	#	147:4.1/#	La regla de oro	S	#
 Evangelio_de_Lucas	6:31	#	178:1.12/#	La regla de oro	S	#
-Evangelio_de_Lucas	6:31	#	180:5.5/#	Golden Rule	S	PROBLEM
-Evangelio_de_Lucas	6:31	#	132:5.10/#	Golden rule	C	PROBLEM
+Evangelio_de_Lucas	6:31	#	180:5.5/#	La regla de oro	S	#
+Evangelio_de_Lucas	6:31	#	132:5.10/#	La regla de oro	C	#
 Evangelio_de_Lucas	6:31	#	140:10.5/#	La regla de oro de Jesús, en modo positivo	S	#
 Evangelio_de_Lucas	6:31	#	140:3.15/#	La regla de oro	S	#
 Evangelio_de_Lucas	6:35-36	#	169:4.2/#	El Padre revelado por el Hijo	S	#
@@ -375,7 +375,7 @@ Evangelio_de_Lucas	6:37	#	188:4.13/#	Perdona nuestras deudas, como nosotros perd
 Evangelio_de_Lucas	6:37b	#	170:3.4/#	Somos perdonados en tanto perdonamos	S	#
 Evangelio_de_Lucas	6:37b	#	146:2.4/#	El perdón	C	#
 Evangelio_de_Lucas	6:38	#	133:4.7/#	Judga justamente	C	#
-Evangelio_de_Lucas	6:39	#	159:5.14/#	Blind leading blind	R	PROBLEM
+Evangelio_de_Lucas	6:39	#	159:5.14/#	Un ciego conduciendo a otro ciego	R	#
 Evangelio_de_Lucas	6:39	#	153:3.5/#	Si un ciego guía a un ciego, ambos caen al precipicio	S	#
 Evangelio_de_Lucas	6:39	#	175:1.15/#	Ciegos dirigiendo ciegos	S	#
 Evangelio_de_Lucas	6:39	#	140:3.18/#	Si el ciego conduce al ciego	S	#
@@ -428,7 +428,7 @@ Evangelio_de_Lucas	7:29,34	#	121:8.8/#	Amigo de publicanos y pecadores	R	#
 Evangelio_de_Lucas	7:31-35	#	144:8.7/#	Comentarios de Jesús	S	#
 Evangelio_de_Lucas	7:32	#	140:5.16/#	La ternura es varonil	C	#
 Evangelio_de_Lucas	7:34	#	138:3.4/#	Publicanos y pecadores	R	#
-Evangelio_de_Lucas	7:34	#	169:1.2/#	Friend of publicans and sinners	S	PROBLEM
+Evangelio_de_Lucas	7:34	#	169:1.2/#	Amigo de publicanos y pecadores	S	#
 Evangelio_de_Lucas	7:34	#	169:0.4/#	Come con publicanos y pecadores	S	#
 Evangelio_de_Lucas	7:36a	#	147:5.1/#	Simón el fariseo	S	#
 Evangelio_de_Lucas	7:36b-38	#	147:5.3/#	Jesús ungido por una antigua prostituta	S	#
@@ -468,12 +468,12 @@ Evangelio_de_Lucas	8:18	#	109:4.5/#	A quien tiene se le dará, pero al que no ti
 Evangelio_de_Lucas	8:18	#	176:3.5/#	Al que tiene se le dará; al que no se le quitará	S	#
 Evangelio_de_Lucas	8:19	#	154:6.1/#	Llega la familia de Jesús	S	#
 Evangelio_de_Lucas	8:20	#	154:6.4/#	Le dicen a Jesús que su familia está esperando	S	#
-Evangelio_de_Lucas	8:20-21	#	170:2.20/#	Family fellowship with God+	C	PROBLEM
-Evangelio_de_Lucas	8:20-21	#	170:2.20/#	Jesus used "family of God"+	S	PROBLEM
+Evangelio_de_Lucas	8:20-21	#	170:2.20/#	La hermandad de la familia de Dios	C	#
+Evangelio_de_Lucas	8:20-21	#	170:2.20/#	Jesús usó «la familia de Dios»	S	#
 Evangelio_de_Lucas	8:21	#	140:8.20/#	Haced voluntariamente la «voluntad» de Dios	C	#
 Evangelio_de_Lucas	8:21	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
 Evangelio_de_Lucas	8:21	#	131:10.7/#	Hermandad espiritual	C	#
-Evangelio_de_Lucas	8:21	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
+Evangelio_de_Lucas	8:21	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
 Evangelio_de_Lucas	8:21	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
 Evangelio_de_Lucas	8:21	#	159:5.8/#	Jesús enseña la acción positiva	C	#
 Evangelio_de_Lucas	8:21	#	117:0.1/#	Hacer la voluntad de Dios	C	#
@@ -504,7 +504,7 @@ Evangelio_de_Lucas	8:33-34	#	151:6.6/#	La leyenda acerca de los cerdos poseídos
 Evangelio_de_Lucas	8:35	#	151:6.5/#	El lunático curado	S	#
 Evangelio_de_Lucas	8:36-37	#	151:6.7/#	La reacción de los lugareños	S	#
 Evangelio_de_Lucas	8:38-39	#	151:6.8/#	Lo que fue del lunático	S	#
-Evangelio_de_Lucas	8:40-42a	#	152:0.1/#	Jairus' request: heal daughter	S	PROBLEM
+Evangelio_de_Lucas	8:40-42a	#	152:0.1/#	La petición de Jairo: curación de su hija	S	#
 Evangelio_de_Lucas	8:43-47	#	152:0.2/#	Curación de la mujer hemorroísa	S	#
 Evangelio_de_Lucas	8:43-48	#	171:7.8/#	La fe de la mujer la curó	S	#
 Evangelio_de_Lucas	8:43-48	#	175:1.1/#	Curados por la fe	C	#
@@ -535,7 +535,7 @@ Evangelio_de_Lucas	9:5	#	163:1.4/#	Planes para la aceptación y el rechazo	S	#
 Evangelio_de_Lucas	9:6	#	150:4.4/#	Los apóstoles se marchan a predicar	S	#
 Evangelio_de_Lucas	9:7	#	154:0.2/#	Actitud de Herodes hacia Jesús	C	#
 Evangelio_de_Lucas	9:7-9	#	154:0.2/#	Los temores de Herodes	S	#
-Evangelio_de_Lucas	9:10b	#	152:2.1/#	Jesus leaves	S	PROBLEM
+Evangelio_de_Lucas	9:10b	#	152:2.1/#	La partida de Jesús	S	#
 Evangelio_de_Lucas	9:11	#	152:2.2/#	La gente les sigue	S	#
 Evangelio_de_Lucas	9:12	#	152:2.6/#	No hay comida para la multitud	S	#
 Evangelio_de_Lucas	9:13	#	152:2.7/#	Cinco panes y dos peces	S	#
@@ -575,7 +575,7 @@ Evangelio_de_Lucas	9:23-26	#	158:7.5/#	Que tome sus responsabilidades y me siga	
 Evangelio_de_Lucas	9:23-27	#	158:7.5/#	El coste de ser dscípulo	S	#
 Evangelio_de_Lucas	9:24	#	160:5.10/#	Quien quiera salvar su vida la perderá	S	#
 Evangelio_de_Lucas	9:24	#	103:5.6/#	Quien salve la vida la perderá	R	#
-Evangelio_de_Lucas	9:24	#	140:5.19/#	Who would save life, lose it	R	PROBLEM
+Evangelio_de_Lucas	9:24	#	140:5.19/#	El que salve su vida, la perderá	R	#
 Evangelio_de_Lucas	9:24	#	158:7.5/#	El que salve su vida egoístamente, la perderá	S	#
 Evangelio_de_Lucas	9:25	#	140:8.17/#	¿De qué le sirve al hombre ganar el mundo entero?	R	#
 Evangelio_de_Lucas	9:25	#	165:4.9/#	¿De qué sirve ganar el mundo si pierdes el alma?	S	#
@@ -612,9 +612,9 @@ Evangelio_de_Lucas	9:47-48	#	155:6.12/#	Fe como la de un niño, la simplicidad e
 Evangelio_de_Lucas	9:47-48	#	144:4.3/#	La filiación se recibe al igual que un niño	C	#
 Evangelio_de_Lucas	9:47-48	#	140:6.2/#	Comenzar como niños pequeños	C	#
 Evangelio_de_Lucas	9:47-48	#	140:10.4/#	Volverse como un niño	S	#
-Evangelio_de_Lucas	9:47-48	#	170:2.18/#	Faith as little child	S	PROBLEM
+Evangelio_de_Lucas	9:47-48	#	170:2.18/#	Fe como la de un niño pequeño	S	#
 Evangelio_de_Lucas	9:48	#	158:8.1/#	El que recibe a un niño me recibe a mí	S	#
-Evangelio_de_Lucas	9:48	#	181:2.20/#	Become as child in spirit	S	PROBLEM
+Evangelio_de_Lucas	9:48	#	181:2.20/#	Volverse un niño en espíritu	S	#
 Evangelio_de_Lucas	9:49	#	139:4.8/#	Juan prohibió predicar a un extraño	S	#
 Evangelio_de_Lucas	9:49-50	#	159:2.1/#	El extraño predicador	S	#
 Evangelio_de_Lucas	9:50	#	159:2.1/#	Quien no está contra nosotros está con nosotros	R	#
@@ -713,7 +713,7 @@ Evangelio_de_Lucas	10:25	#	153:2.11/#	Los que creen tienen vida eterna	C	#
 Evangelio_de_Lucas	10:25	#	170:2.20/#	Vida eterna / sin fin	C	#
 Evangelio_de_Lucas	10:25	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
 Evangelio_de_Lucas	10:25	#	181:2.11/#	La vida eterna en el reino venidero	C	#
-Evangelio_de_Lucas	10:25-27	#	142:1.1/#	Love God & neighbor as self	C	PROBLEM
+Evangelio_de_Lucas	10:25-27	#	142:1.1/#	Amar a Dios y al prójimo como a sí mismo	C	#
 Evangelio_de_Lucas	10:25-27	#	142:3.22/#	Amar a Dios y al prójimo	C	#
 Evangelio_de_Lucas	10:25-27	#	142:4.2/#	Amar a Dios y al prójimo	C	#
 Evangelio_de_Lucas	10:25-27	#	174:4.2/#	El mandamiento más grande	S	#
@@ -727,7 +727,7 @@ Evangelio_de_Lucas	10:27	#	159:5.9/#	Ama a tu prójimo como a ti mismo	R	#
 Evangelio_de_Lucas	10:27	#	163:4.8/#	Ama a Dios con todo tu corazón	S	#
 Evangelio_de_Lucas	10:27	#	178:1.17/#	Amaros los unos a los otros	S	#
 Evangelio_de_Lucas	10:27	#	131:10.2/#	Deberíais amarlo con toda la mente y corazón	C	#
-Evangelio_de_Lucas	10:27	#	196:3.16/#	Religion of LOVE+	C	PROBLEM
+Evangelio_de_Lucas	10:27	#	196:3.16/#	Una religión de AMOR	C	#
 Evangelio_de_Lucas	10:27	#	174:4.2/#	Ama a tu prójimo como a ti	S	#
 Evangelio_de_Lucas	10:27	#	131:2.2/#	Amarás al Señor tu Dios con todo tu corazón	C	#
 Evangelio_de_Lucas	10:27	#	110:3.8/#	Amando a Dios	C	#
@@ -749,13 +749,13 @@ Evangelio_de_Lucas	10:30-37	#	164:1.3/#	El buen samaritano	S	#
 Evangelio_de_Lucas	10:38-39a	#	162:8.1/#	Jesús permanece con Lázaro	S	#
 Evangelio_de_Lucas	10:39b	#	162:8.2/#	María escucha a Jesús	S	#
 Evangelio_de_Lucas	10:40-42	#	162:8.3/#	Marta sirve la mesa pero se queja	S	#
-Evangelio_de_Lucas	11:1	#	144:1.6/#	Teach us how to pray	R	PROBLEM
+Evangelio_de_Lucas	11:1	#	144:1.6/#	Enséñanos a orar	R	#
 Evangelio_de_Lucas	11:1	#	144:3.1/#	La petición de los apóstoles de una oración	S	#
-Evangelio_de_Lucas	11:1b	#	144:1.7/#	John's disciples prayer	S	PROBLEM
+Evangelio_de_Lucas	11:1b	#	144:1.7/#	La oración de los discípulos de Juan	S	#
 Evangelio_de_Lucas	11:2	#	196:0.2/#	Hacer la voluntad del Padre de los cielos	R	#
 Evangelio_de_Lucas	11:2	#	140:5.11/#	Hágase tu voluntad	R	#
 Evangelio_de_Lucas	11:2	#	96:1.9/#	Padre que está en los Cielos	C	#
-Evangelio_de_Lucas	11:2	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
+Evangelio_de_Lucas	11:2	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
 Evangelio_de_Lucas	11:2	#	141:2.2/#	Cuando la voluntad del Padre se convierta en vuestra voluntad	C	#
 Evangelio_de_Lucas	11:2	#	196:0.8/#	La voluntad de Dios	R	#
 Evangelio_de_Lucas	11:2	#	117:0.1/#	Hacer la voluntad de Dios	C	#
@@ -784,7 +784,7 @@ Evangelio_de_Lucas	11:2,13	#	131:10.5/#	Dios es «mi» padre	C	#
 Evangelio_de_Lucas	11:2,13	#	131:10.6/#	Relación entre padre e hijo	C	#
 Evangelio_de_Lucas	11:2,13	#	141:4.2/#	Dios es nuestro Padre	C	#
 Evangelio_de_Lucas	11:2,13	#	142:3.8/#	El Padre que está en los Cielos	C	#
-Evangelio_de_Lucas	11:2-4	#	144:3.3/#	Lord's prayer	S	PROBLEM
+Evangelio_de_Lucas	11:2-4	#	144:3.3/#	La oración del Señor	S	#
 Evangelio_de_Lucas	11:2-4	#	126:3.3/#	Oración del Padrenuestro	R	#
 Evangelio_de_Lucas	11:2.13	#	100:7.16/#	Padre nuestro que estás en los cielos	R	#
 Evangelio_de_Lucas	11:2a	#	144:3.2/#	Jesús responde	S	#
@@ -828,13 +828,13 @@ Evangelio_de_Lucas	11:20	#	137:8.6/#	Proclamar el establecimiento del reino del 
 Evangelio_de_Lucas	11:20	#	34:6.13/#	El reino de Dios	C	#
 Evangelio_de_Lucas	11:20	#	190:5.4/#	El evangelio del reino	S	#
 Evangelio_de_Lucas	11:23a	#	159:2.2/#	Quien no está conmigo está contra mí	R	#
-Evangelio_de_Lucas	11:24-26	#	141:6.2/#	Don't take beliefs out of hearts	C	PROBLEM
+Evangelio_de_Lucas	11:24-26	#	141:6.2/#	No quitéis creencias de los corazones	C	#
 Evangelio_de_Lucas	11:27-28	#	154:6.7/#	Bendito sea el vientre que te gestó	S	#
 Evangelio_de_Lucas	11:28	#	159:5.8/#	Jesús enseña la acción positiva	C	#
 Evangelio_de_Lucas	11:33	#	140:4.4/#	Vosotros sois la luz del mundo	S	#
 Evangelio_de_Lucas	11:33	#	140:3.13/#	Vosotros sois la luz del mundo	S	#
 Evangelio_de_Lucas	11:33	#	151:3.1/#	Dejad que la luz brille con discreción	C	#
-Evangelio_de_Lucas	11:34	#	86:5.11/#	Eyes are the windows of soul	C	PROBLEM
+Evangelio_de_Lucas	11:34	#	86:5.11/#	Los ojos son las ventanas del alma	C	#
 Evangelio_de_Lucas	11:34-36	#	140:6.12/#	El ojo es la lámpara del cuerpo	S	#
 Evangelio_de_Lucas	11:35-36	#	155:6.3/#	De las tinieblas a la luz	C	#
 Evangelio_de_Lucas	11:37	#	166:1.1/#	Los fariseos invitan a Jesús	S	#
@@ -867,7 +867,7 @@ Evangelio_de_Lucas	12:3	#	165:3.3/#	Proclamad desde los tejados	S	#
 Evangelio_de_Lucas	12:4	#	100:2.7/#	Para un creyente que conoce a Dios	R	#
 Evangelio_de_Lucas	12:4,4,7,32	#	140:8.20/#	Jesús decía «No temáis»	R	#
 Evangelio_de_Lucas	12:4-5	#	165:3.3/#	No temáis a los que pueden matar el cuerpo	S	#
-Evangelio_de_Lucas	12:4-7,,32	#	100:7.15/#	Fear not	R	PROBLEM
+Evangelio_de_Lucas	12:4-7,,32	#	100:7.15/#	No temáis	R	#
 Evangelio_de_Lucas	12:6	#	3:3.1/#	Los gorriones no caen sin que Dios lo sepa	R	#
 Evangelio_de_Lucas	12:6-7	#	150:4.3/#	Los gorriones no valen nada; los cabellos de vuestra cabeza están contados	S	#
 Evangelio_de_Lucas	12:6-7	#	165:3.4/#	Los gorriones caen, los cabellos están contados	S	#
@@ -916,7 +916,7 @@ Evangelio_de_Lucas	12:33-34	#	165:4.5/#	Un tesoro en el Cielo	S	#
 Evangelio_de_Lucas	12:33-34	#	140:6.11/#	Guardad tesoros en el cielo	S	#
 Evangelio_de_Lucas	12:33-34	#	169:2.2/#	Sabios espiritualmente	S	#
 Evangelio_de_Lucas	12:35-38	#	165:5.6/#	Parábola: regreso de la boda	S	#
-Evangelio_de_Lucas	12:39-40	#	165:5.7/#	When least expected	S	PROBLEM
+Evangelio_de_Lucas	12:39-40	#	165:5.7/#	Cuando menos lo esperéis	S	#
 Evangelio_de_Lucas	12:41	#	165:6.1/#	¿Para quién es la parábola?	S	#
 Evangelio_de_Lucas	12:42-44	#	165:6.2/#	El criado puesto a prueba	S	#
 Evangelio_de_Lucas	12:45-46	#	165:6.3/#	El criado perezoso	S	#
@@ -932,7 +932,7 @@ Evangelio_de_Lucas	13:1-5	#	166:4.4/#	Víctimas inocentes del tiempo	S	#
 Evangelio_de_Lucas	13:6,9	#	140:3.19/#	Requerimientos para dar buenos frutos	C	#
 Evangelio_de_Lucas	13:6-9	#	193:2.2/#	Se pide que produzcáis muchos frutos	S	#
 Evangelio_de_Lucas	13:6-9	#	166:4.9/#	La párabola de la higuera estéril	S	#
-Evangelio_de_Lucas	13:6-9	#	140:4.7/#	Requirement to bear good fruit	C	PROBLEM
+Evangelio_de_Lucas	13:6-9	#	140:4.7/#	Necesidad de dar buen fruto	C	#
 Evangelio_de_Lucas	13:10-13	#	167:3.1/#	Curación en sábado	S	#
 Evangelio_de_Lucas	13:10-16	#	169:0.6/#	Cura en sábado	S	#
 Evangelio_de_Lucas	13:14	#	167:3.2/#	El jefe principal critica la curación	S	#
@@ -947,9 +947,9 @@ Evangelio_de_Lucas	13:18,20,28-29	#	169:4.6/#	El reino de Dios	S	#
 Evangelio_de_Lucas	13:18-19	#	140:8.27/#	Crecimiento del carácter	C	#
 Evangelio_de_Lucas	13:18-19	#	151:4.2/#	Parábola de la semilla de mostaza	S	#
 Evangelio_de_Lucas	13:19	#	178:1.15/#	La semilla de mostaza	S	#
-Evangelio_de_Lucas	13:19	#	170:2.14/#	Mustard seed	S	PROBLEM
+Evangelio_de_Lucas	13:19	#	170:2.14/#	La semilla de mostaza	S	#
 Evangelio_de_Lucas	13:20-21	#	151:4.3/#	Parábola de la levadura	S	#
-Evangelio_de_Lucas	13:21	#	170:2.14/#	Leaven in dough	S	PROBLEM
+Evangelio_de_Lucas	13:21	#	170:2.14/#	La levadura en la masa	S	#
 Evangelio_de_Lucas	13:21	#	178:1.15/#	La levadura en la masa	S	#
 Evangelio_de_Lucas	13:22-23	#	166:3.1/#	¿Se salvarán muchos?	S	#
 Evangelio_de_Lucas	13:24	#	166:3.3/#	Todos podrán entrar por la puerta	S	#
@@ -996,7 +996,7 @@ Evangelio_de_Lucas	14:21-24	#	173:5.3/#	Parábola del festín de bodas (parte 3)
 Evangelio_de_Lucas	14:25	#	171:2.1/#	Jesús se dirige a la multitud	S	#
 Evangelio_de_Lucas	14:25-72	#	140:6.9/#	Mayor exigencia a los apóstoles	S	#
 Evangelio_de_Lucas	14:26	#	150:4.3/#	Amad el evangelio por encima de a la familia	S	#
-Evangelio_de_Lucas	14:26	#	171:2.2/#	Talk on counting the cost	S	PROBLEM
+Evangelio_de_Lucas	14:26	#	171:2.2/#	Charla sobre calcular el coste	S	#
 Evangelio_de_Lucas	14:27	#	171:2.3/#	Los que me seguís debéis pagar el precio	S	#
 Evangelio_de_Lucas	14:27	#	158:7.5/#	Que tome sus responsabilidades y me siga	S	#
 Evangelio_de_Lucas	14:27	#	159:5.10/#	Que tome sus responsabilidades y me siga	S	#
@@ -1005,16 +1005,16 @@ Evangelio_de_Lucas	14:31-32	#	171:2.3/#	El coste de la guerra	S	#
 Evangelio_de_Lucas	14:33	#	171:2.4/#	Compromiso total	S	#
 Evangelio_de_Lucas	14:33-35	#	171:2.5/#	Motivos improcedentes	S	#
 Evangelio_de_Lucas	14:34-35	#	171:2.5/#	Sal que ha perdido su sabor	S	#
-Evangelio_de_Lucas	14:34-35	#	140:4.2/#	You are the salt of the earth	S	PROBLEM
+Evangelio_de_Lucas	14:34-35	#	140:4.2/#	Vosotros sois la sal de la Tierra	S	#
 Evangelio_de_Lucas	14:34-35	#	140:3.12/#	Sois la sal de la Tierra	S	#
 Evangelio_de_Lucas	15:1	#	138:3.4/#	Publicanos y pecadores	R	#
 Evangelio_de_Lucas	15:1-2	#	169:0.4/#	Come con publicanos y pecadores	S	#
 Evangelio_de_Lucas	15:1-2	#	121:8.8/#	Amigo de publicanos y pecadores	R	#
-Evangelio_de_Lucas	15:1-2	#	169:1.2/#	Friend of publicans and sinners	S	PROBLEM
+Evangelio_de_Lucas	15:1-2	#	169:1.2/#	Amigo de publicanos y pecadores	S	#
 Evangelio_de_Lucas	15:3-7	#	169:1.2/#	Parábola de la oveja perdida	S	#
 Evangelio_de_Lucas	15:3-7	#	159:1.2/#	La parábola de la oveja perdida	S	#
 Evangelio_de_Lucas	15:3-7	#	169:1.15/#	Parábola de la oveja perdida	S	#
-Evangelio_de_Lucas	15:3-10	#	159:5.13/#	God seeks sinners+	S	PROBLEM
+Evangelio_de_Lucas	15:3-10	#	159:5.13/#	Dios busca a los pecadores	S	#
 Evangelio_de_Lucas	15:7,10	#	167:7.5/#	La alegría seráfica	S	#
 Evangelio_de_Lucas	15:7,10	#	169:1.4/#	Los ángeles se regocijan con un salvado	S	#
 Evangelio_de_Lucas	15:8-9	#	169:1.4/#	La moneda perdida	S	#
@@ -1022,7 +1022,7 @@ Evangelio_de_Lucas	15:8-10	#	169:1.15/#	Parábola de la moneda perdida	S	#
 Evangelio_de_Lucas	15:11-12	#	169:1.6/#	El padre que dividió la herencia entre los hijos	S	#
 Evangelio_de_Lucas	15:11-32	#	169:1.15/#	Parábola del hijo perdido	S	#
 Evangelio_de_Lucas	15:11-32	#	54:4.2/#	El hijo pródigo	C	#
-Evangelio_de_Lucas	15:11-32	#	159:5.13/#	Rejoices upon their return	S	PROBLEM
+Evangelio_de_Lucas	15:11-32	#	159:5.13/#	Se regocija con su regreso	S	#
 Evangelio_de_Lucas	15:13-16	#	169:1.7/#	El hijo malgastó todo en una vida disipada	S	#
 Evangelio_de_Lucas	15:17-20a	#	169:1.8/#	El hijo decide regresar	S	#
 Evangelio_de_Lucas	15:20b-22	#	169:1.9/#	La bienvenida del Padre	S	#
@@ -1081,7 +1081,7 @@ Evangelio_de_Lucas	17:20-21	#	193:0.4/#	Evangelio del reino	C	#
 Evangelio_de_Lucas	17:20-21	#	34:6.13/#	El reino de Dios	C	#
 Evangelio_de_Lucas	17:20-21	#	190:5.4/#	El evangelio del reino	S	#
 Evangelio_de_Lucas	17:20-21	#	141:2.1/#	El espíritu de Dios dentro de nosotros	C	#
-Evangelio_de_Lucas	17:20-21	#	142:1.1/#	Kingdom of heaven is at hand	C	PROBLEM
+Evangelio_de_Lucas	17:20-21	#	142:1.1/#	El reino del Cielo está a las puertas	C	#
 Evangelio_de_Lucas	17:20-21	#	140:1.6/#	El reino está cerca	C	#
 Evangelio_de_Lucas	17:20-21	#	153:2.4/#	Reino de Dios	C	#
 Evangelio_de_Lucas	17:20-21	#	169:4.6/#	El reino de Dios	S	#
@@ -1136,7 +1136,7 @@ Evangelio_de_Lucas	18:15	#	167:6.1/#	Las madres llevan a su hijos	S	#
 Evangelio_de_Lucas	18:15-17	#	149:6.11/#	Fe como la de un niño	C	#
 Evangelio_de_Lucas	18:15-17	#	196:0.12/#	Ser como un niño	R	#
 Evangelio_de_Lucas	18:15-17	#	196:0.11/#	Fe confiada y sin sospecha como la de un niño	C	#
-Evangelio_de_Lucas	18:15-17	#	170:2.18/#	Faith as little child	S	PROBLEM
+Evangelio_de_Lucas	18:15-17	#	170:2.18/#	Fe como un niño pequeño	S	#
 Evangelio_de_Lucas	18:16-17	#	140:6.2/#	Comenzar como niños pequeños	C	#
 Evangelio_de_Lucas	18:16-17	#	195:3.5/#	La enseñanza relativa a los niños	C	#
 Evangelio_de_Lucas	18:16-17	#	167:6.1/#	Jesús atiende a los niños	S	#
@@ -1155,7 +1155,7 @@ Evangelio_de_Lucas	18:16-17,24-25	#	137:8.6/#	Proclamar el establecimiento del r
 Evangelio_de_Lucas	18:16-17,24-25	#	34:6.13/#	El reino de Dios	R	#
 Evangelio_de_Lucas	18:17	#	102:1.1/#	Tener la confianza de un niño	C	#
 Evangelio_de_Lucas	18:17	#	137:8.8/#	La fe confiada de un niño	S	#
-Evangelio_de_Lucas	18:17	#	181:2.20/#	Become as child in spirit	S	PROBLEM
+Evangelio_de_Lucas	18:17	#	181:2.20/#	Ser un niño en el espíritu	S	#
 Evangelio_de_Lucas	18:18,20-21	#	163:2.4/#	Joven rico sanedrita	S	#
 Evangelio_de_Lucas	18:18,30	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
 Evangelio_de_Lucas	18:18,30	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
@@ -1215,7 +1215,7 @@ Evangelio_de_Lucas	19:2-6	#	121:8.8/#	Amigo de publicanos y pecadores	R	#
 Evangelio_de_Lucas	19:5-6	#	171:6.1/#	Jesús se autoinvita en casa de Zaqueo	S	#
 Evangelio_de_Lucas	19:7-8	#	171:6.2/#	La conversión de Zaqueo	S	#
 Evangelio_de_Lucas	19:9-10	#	171:6.3/#	Jesús ha venido a salvar lo perdido	S	#
-Evangelio_de_Lucas	19:10	#	159:5.13/#	God seeks sinners+	S	PROBLEM
+Evangelio_de_Lucas	19:10	#	159:5.13/#	Dios busca a los pecadores	S	#
 Evangelio_de_Lucas	19:10	#	131:10.4/#	Dios ama incluso a los perversos	C	#
 Evangelio_de_Lucas	19:10	#	157:6.9/#	Jesús vino para buscar y salvar a los perdidos	S	#
 Evangelio_de_Lucas	19:10	#	169:1.3/#	Jesús ha venido a buscar y salvar	S	#
@@ -1248,7 +1248,7 @@ Evangelio_de_Lucas	19:36-38	#	127:5.6/#	Entrada triunfal	S	#
 Evangelio_de_Lucas	19:39-40	#	172:3.13/#	Jesús defiende a sus acompañantes	S	#
 Evangelio_de_Lucas	19:41	#	140:5.16/#	La ternura es varonil	C	#
 Evangelio_de_Lucas	19:41-44	#	172:3.10/#	Lamento de Jesús por Jerusalén	S	#
-Evangelio_de_Lucas	19:43-44	#	128:5.3/#	Temple to be demolished	C	PROBLEM
+Evangelio_de_Lucas	19:43-44	#	128:5.3/#	El templo será demolido	C	#
 Evangelio_de_Lucas	19:45-46	#	125:1.1/#	La casa de su Padre	R	#
 Evangelio_de_Lucas	19:45-46	#	175:4.6/#	La limpieza del templo	S	#
 Evangelio_de_Lucas	19:45-46	#	173:1.7/#	Jesús limpia el templo	S	#
@@ -1327,14 +1327,14 @@ Evangelio_de_Lucas	20:46-47a	#	175:1.9/#	Los líderes anhelan honores	S	#
 Evangelio_de_Lucas	21:1-4	#	172:4.2/#	Los ébolos de la viuda	S	#
 Evangelio_de_Lucas	21:5-6	#	178:3.3/#	Predicción de la destrucción del templo	S	#
 Evangelio_de_Lucas	21:5-6	#	176:0.1/#	Predicción de la destrucción del templo	S	#
-Evangelio_de_Lucas	21:5-6	#	128:5.3/#	Temple to be demolished	C	PROBLEM
+Evangelio_de_Lucas	21:5-6	#	128:5.3/#	El templo será demolido	C	#
 Evangelio_de_Lucas	21:7	#	176:0.2/#	Jesús y los apóstoles conversan	S	#
 Evangelio_de_Lucas	21:7-27	#	20:4.5/#	Promesa de regresar	C	#
 Evangelio_de_Lucas	21:8	#	137:8.9/#	No os dejéis engañar	S	#
 Evangelio_de_Lucas	21:8-17	#	176:1.1/#	Destrucción de Jerusalén	S	#
 Evangelio_de_Lucas	21:9-10	#	52:6.1/#	Guerras y rumores de guerras	R	#
 Evangelio_de_Lucas	21:9-10	#	134:6.3/#	Guerras y rumores de guerras	C	#
-Evangelio_de_Lucas	21:11,25-27	#	170:2.14/#	Believe end sudden, spectacular+	C	PROBLEM
+Evangelio_de_Lucas	21:11,25-27	#	170:2.14/#	Creencia en un final súbito y espectacular	C	#
 Evangelio_de_Lucas	21:12	#	140:9.3/#	Os llevarán ante los consejos	C	#
 Evangelio_de_Lucas	21:12,16-17	#	143:1.6/#	Exigencia de un servicio valiente	C	#
 Evangelio_de_Lucas	21:13-15	#	165:3.7/#	El espíritu os dará respuestas	S	#
@@ -1352,7 +1352,7 @@ Evangelio_de_Lucas	21:25-28	#	170:4.6/#	El fin de los tiempos	C	#
 Evangelio_de_Lucas	21:27	#	176:3.3/#	Regreso del Hijo del Hombre	S	#
 Evangelio_de_Lucas	21:27	#	52:5.7/#	Cubierto de gloria con los ángeles	R	#
 Evangelio_de_Lucas	21:27	#	170:2.10/#	La creencia en un reino inminente	S	#
-Evangelio_de_Lucas	21:27	#	141:4.5/#	Kingdom comes in power & glory	C	PROBLEM
+Evangelio_de_Lucas	21:27	#	141:4.5/#	El reino vendrá en poder y gloria	C	#
 Evangelio_de_Lucas	21:27	#	196:2.5/#	Creencia en el retorno inmediato del Señor	C	#
 Evangelio_de_Lucas	21:27	#	176:2.4/#	Segunda venida con poder	S	#
 Evangelio_de_Lucas	21:29-31	#	176:2.6/#	Ser sabios en la maduración de una era	S	#
@@ -1427,7 +1427,7 @@ Evangelio_de_Lucas	22:34	#	181:2.29/#	Predicción de la negación de Pedro	S	#
 Evangelio_de_Lucas	22:34	#	184:2.8/#	Las palabras de advertencia	S	#
 Evangelio_de_Lucas	22:35-36	#	180:0.2/#	Haced preparativos para el trabajo	S	#
 Evangelio_de_Lucas	22:41-42	#	182:3.1/#	La primera oración de Getsemaní	S	#
-Evangelio_de_Lucas	22:42	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
+Evangelio_de_Lucas	22:42	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
 Evangelio_de_Lucas	22:42	#	136:8.3/#	Jesús decide vivir la voluntad del Padre	C	#
 Evangelio_de_Lucas	22:42	#	120:2.1/#	Jesús vive sometido a la voluntad del Padre	C	#
 Evangelio_de_Lucas	22:42	#	131:10.2/#	Viviendo su voluntad podemos revelarlo	C	#
@@ -1465,14 +1465,14 @@ Evangelio_de_Lucas	22:49-51	#	183:3.7/#	El ataque a Malco	S	#
 Evangelio_de_Lucas	22:52-53	#	183:3.8/#	¿Por qué me capturáis aquí?	S	#
 Evangelio_de_Lucas	22:54	#	183:3.10/#	Pedro los sigue en la distancia	S	#
 Evangelio_de_Lucas	22:54	#	184:1.9/#	Jesús llevado ante Caifás	S	#
-Evangelio_de_Lucas	22:54	#	184:2.1/#	Peter enters courtyard	S	PROBLEM
+Evangelio_de_Lucas	22:54	#	184:2.1/#	Pedro entra en el patio	S	#
 Evangelio_de_Lucas	22:54	#	139:2.9/#	Siguiendo de lejos	R	#
 Evangelio_de_Lucas	22:55	#	184:2.2/#	Pedro calentándose	S	#
 Evangelio_de_Lucas	22:55-62	#	139:2.6/#	Negación de Pedro	S	#
 Evangelio_de_Lucas	22:55-62	#	139:2.5/#	Negación de Pedro	S	#
 Evangelio_de_Lucas	22:56-57	#	184:2.4/#	Primera negación	S	#
 Evangelio_de_Lucas	22:58	#	184:2.5/#	Segunda negación	S	#
-Evangelio_de_Lucas	22:59-60a	#	184:2.7/#	3rd denial	S	PROBLEM
+Evangelio_de_Lucas	22:59-60a	#	184:2.7/#	Tercera negación	S	#
 Evangelio_de_Lucas	22:60b	#	184:2.8/#	El gallo cantó	S	#
 Evangelio_de_Lucas	22:61a	#	184:2.8/#	Jesús mira a Pedro	S	#
 Evangelio_de_Lucas	22:61b	#	184:2.8/#	Pedro recuerda	S	#
@@ -1483,12 +1483,12 @@ Evangelio_de_Lucas	22:63-65	#	186:2.10/#	Jesús nunca se irritaba	S	#
 Evangelio_de_Lucas	22:63-65	#	184:4.1/#	Ultrajes contra Jesús	S	#
 Evangelio_de_Lucas	22:66a	#	184:3.1/#	El Sanedrín se reúne	S	#
 Evangelio_de_Lucas	22:66b	#	184:3.5/#	Jesús es llevado dentro	S	#
-Evangelio_de_Lucas	22:67,69-70	#	184:3.11/#	Jesus confesses, I am deliverer	S	PROBLEM
-Evangelio_de_Lucas	22:67-68	#	184:5.7/#	Questions by "gawkers"	S	PROBLEM
+Evangelio_de_Lucas	22:67,69-70	#	184:3.11/#	Jesús confiesa, yo soy el Libertador	S	#
+Evangelio_de_Lucas	22:67-68	#	184:5.7/#	Preguntas de los «curiosos»	S	#
 Evangelio_de_Lucas	22:67-68,70	#	184:1.8/#	Conversación con Anás	C	#
 Evangelio_de_Lucas	22:67-70	#	186:2.2/#	Jesús respondió sobre su divinidad	S	#
-Evangelio_de_Lucas	22:71	#	184:3.12/#	High Priest's response	S	PROBLEM
-Evangelio_de_Lucas	23:1	#	184:5.8/#	Jesus led to Pilate	S	PROBLEM
+Evangelio_de_Lucas	22:71	#	184:3.12/#	La respuesta del sumo sacerdote	S	#
+Evangelio_de_Lucas	23:1	#	184:5.8/#	Jesús conducido ante Pilato	S	#
 Evangelio_de_Lucas	23:2	#	185:2.10/#	Cargos contra Jesús	S	#
 Evangelio_de_Lucas	23:3	#	186:2.2/#	Jesús respondió sobre su divinidad	S	#
 Evangelio_de_Lucas	23:3a	#	185:3.2/#	¿Eres el rey de los judíos?	S	#
@@ -1520,7 +1520,7 @@ Evangelio_de_Lucas	23:27,49,55	#	149:2.8/#	Las mujeres discípulas	S	#
 Evangelio_de_Lucas	23:27-30	#	187:1.6/#	Hijas, llorad por vosotras	S	#
 Evangelio_de_Lucas	23:32	#	187:0.2/#	Jesús crucificado con dos ladrones	S	#
 Evangelio_de_Lucas	23:32	#	187:2.4/#	Los dos bandidos	S	#
-Evangelio_de_Lucas	23:32	#	186:4.3/#	Two malefactors	S	PROBLEM
+Evangelio_de_Lucas	23:32	#	186:4.3/#	Los dos bandidos	S	#
 Evangelio_de_Lucas	23:33a	#	187:1.11/#	Lugar de la crucifixión	S	#
 Evangelio_de_Lucas	23:33b	#	187:2.1/#	La crucifixión	S	#
 Evangelio_de_Lucas	23:34	#	188:5.6/#	Padre, perdónalos	S	#
@@ -1540,7 +1540,7 @@ Evangelio_de_Lucas	23:43	#	0:4.11/#	El Paraíso	C	#
 Evangelio_de_Lucas	23:43	#	19:7.1/#	Paraíso	C	#
 Evangelio_de_Lucas	23:44-45a	#	187:5.1/#	La oscuridad, una tormenta de arena	S	#
 Evangelio_de_Lucas	23:44-45a	#	187:6.1/#	La oscuridad de la tormenta de arena	S	#
-Evangelio_de_Lucas	23:46	#	187:5.5/#	Jesus dies on cross	S	PROBLEM
+Evangelio_de_Lucas	23:46	#	187:5.5/#	Jesús muere en la cruz	S	#
 Evangelio_de_Lucas	23:46	#	188:3.4/#	En tus manos encomiendo mi espíritu	R	#
 Evangelio_de_Lucas	23:46	#	27:1.4/#	Identidad durante la muerte	C	#
 Evangelio_de_Lucas	23:47	#	187:5.5/#	Un verdadero Hijo de Dios	S	#
@@ -1580,7 +1580,7 @@ Evangelio_de_Lucas	24:9-11	#	189:4.13/#	Las mujeres lo cuentan, pero no las cree
 Evangelio_de_Lucas	24:10	#	189:4.12/#	Id y decile a los apóstoles	C	#
 Evangelio_de_Lucas	24:10,22,24	#	149:2.8/#	Las mujeres discípulas	S	#
 Evangelio_de_Lucas	24:10-11	#	150:2.3/#	La fidelidad de las mujeres	S	#
-Evangelio_de_Lucas	24:12	#	189:4.13/#	Peter enters tomb	S	PROBLEM
+Evangelio_de_Lucas	24:12	#	189:4.13/#	Pedro entra en la tumba	S	#
 Evangelio_de_Lucas	24:12b	#	189:5.2/#	La tumba vacía	S	#
 Evangelio_de_Lucas	24:13-16	#	190:5.2/#	La carretera a Emaús	S	#
 Evangelio_de_Lucas	24:17-24	#	190:5.3/#	Hablaban sobre Jesús	S	#

@@ -25,7 +25,7 @@ Josué	22:5	#	131:2.2/#	Amarás al Señor tu Dios con todo tu corazón	C	#
 Josué	22:5	#	110:3.8/#	Amando a Dios	C	#
 Josué	22:5	#	131:2.13/#	Los que aman al Señor sobre todas las cosas	R	#
 Josué	22:22	#	45:4.10/#	Dios de los Dioses	R	#
-Josué	22:22	#	0:2.12/#	+	C	#
+Josué	22:22	#	0:2.12/#	Dios el Supremo	C	#
 Josué	23:11	#	110:3.8/#	Amando a Dios	C	#
 Josué	23:11	#	131:2.13/#	Los que aman al Señor sobre todas las cosas	R	#
 Josué	23:11	#	163:4.8/#	Ama a Dios con todo tu corazón	C	#

@@ -1,6 +1,6 @@
 II_Reyes	1:3-2:11	#	123:5.12/#	Historia de Elías	C	#
 II_Reyes	2:1,11	#	45:4.15/#	El traslado de Elías	C	#
-II_Reyes	2:1,11	#	55:2.1/#	Translation to morontia status	C	PROBLEM
+II_Reyes	2:1,11	#	55:2.1/#	Traslado al estado de morontia	C	#
 II_Reyes	2:1-15	#	97:2.2/#	La marcha de Elías	C	#
 II_Reyes	2:11	#	110:7.2/#	En carros de fuego	R	#
 II_Reyes	3:14	#	194:3.11/#	No más el Señor de los Ejércitos	C	#
@@ -45,7 +45,7 @@ II_Reyes	19:22	#	128:1.10/#	Santo de Israel	C	#
 II_Reyes	19:22	#	96:1.9/#	El Santo	C	#
 II_Reyes	21:1-2	#	97:9.23/#	El rey niño Manasés	C	#
 II_Reyes	22:13	#	142:2.1/#	Un Dios de gran ira e intenso furor	C	#
-II_Reyes	23:13	#	95:1.3/#	"Gods" Ashtoreth, Chemosh	C	PROBLEM
+II_Reyes	23:13	#	95:1.3/#	Los dios Astoret y Quemos	C	#
 II_Reyes	23:13	#	95:1.7/#	Astaroth	C	#
 II_Reyes	23:25-30	#	97:9.24/#	El atrevimiento de Josías	C	#
 II_Reyes	23:29-30	#	126:1.2/#	Josías derrotado	C	#

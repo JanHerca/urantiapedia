@@ -1,5 +1,5 @@
 Jueces	2:12	#	4:3.2/#	La visión de Dios como colérico o airado	C	#
-Jueces	2:13	#	95:1.3/#	Compet. "gods" Baal, Ashtaroth	C	PROBLEM
+Jueces	2:13	#	95:1.3/#	Los dioses competidores Baal y Astarot	C	#
 Jueces	2:13	#	95:1.7/#	Astaroth	C	#
 Jueces	2:18	#	2:2.2/#	Se ha dicho que Dios se arrepiente, pero no lo hace	C	#
 Jueces	2:18	#	4:3.4/#	La visión de Dios arrepintiéndose	C	#
@@ -9,10 +9,10 @@ Jueces	4:16	#	70:1.17/#	Matanza del ejército de Sísara	R	#
 Jueces	6:20-21	#	85:4.2/#	Ángeles del fuego	C	#
 Jueces	9:15	#	39:5.7/#	Espíritus de la Confianza	C	#
 Jueces	9:23	#	96:7.6/#	Envía a los espíritus malignos	R	#
-Jueces	10:6	#	95:1.3/#	Compet. "gods" Baal, Ashtaroth	C	PROBLEM
+Jueces	10:6	#	95:1.3/#	Los dioses competidores Baal y Astarot	C	#
 Jueces	10:6	#	95:1.7/#	Astaroth	C	#
 Jueces	11:21,23	#	70:1.15/#	En nombre del Señor Dios de Israel	R	#
-Jueces	11:30-39	#	87:6.9/#	Penalty for violating oaths	C	PROBLEM
+Jueces	11:30-39	#	87:6.9/#	Castigo por violar los juramentos	C	#
 Jueces	11:30-39	#	89:6.3/#	La hija de Jefté	C	#
 Jueces	11:36	#	142:2.1/#	Que se venga de los pecadores	C	#
 Jueces	11:39	#	70:11.6/#	Es la costumbre	R	#

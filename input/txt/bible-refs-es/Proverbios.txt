@@ -40,7 +40,7 @@ Proverbios	15:1	#	150:9.3/#	Una respuesta suave aplaca el furor	C	#
 Proverbios	15:1	#	139:4.13/#	La respuesta dulce desvía el furor	R	#
 Proverbios	15:1a	#	149:4.2/#	Una respuesta suave desvía el furor	R	#
 Proverbios	15:1b	#	149:4.2/#	Las palabras ásperas despiertan la cólera	R	#
-Proverbios	15:1	#	95:4.5/#	From Book of Wisdom	S	PROBLEM
+Proverbios	15:1	#	95:4.5/#	De el libro de la Sabiduría	S	#
 Proverbios	15:3	#	3:3.1/#	Los ojos del Señor en todas partes	R	#
 Proverbios	15:13	#	149:5.2/#	Un corazón alegre es un semblante jovial	R	#
 Proverbios	15:15	#	149:5.2/#	Un corazón alegre es una fiesta contínua	R	#

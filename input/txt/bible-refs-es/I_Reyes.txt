@@ -10,7 +10,7 @@ I_Reyes	6:13	#	3:1.4/#	Nunca nos abandona	C	#
 I_Reyes	7:8	#	97:9.16/#	Salomón y la hija del faraón	C	#
 I_Reyes	8:9	#	88:2.5/#	Nuevos fetiches	C	#
 I_Reyes	8:12	#	2:1.1/#	Residir en espesas tinieblas	R	#
-I_Reyes	8:12	#	14:1.7/#	Dark gravity bodies	C	PROBLEM
+I_Reyes	8:12	#	14:1.7/#	Cuerpos oscuros de gravedad	C	#
 I_Reyes	8:23	#	79:1.9/#	Un solo Dios en el cielo	C	#
 I_Reyes	8:27	#	2:1.1/#	El cielo de los cielos	R	#
 I_Reyes	8:27	#	3:1.2/#	El cielo de los cielos	R	#
@@ -19,7 +19,7 @@ I_Reyes	8:27	#	181:1.2/#	Cielo de los cielos	C	#
 I_Reyes	8:27	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
 I_Reyes	8:30,34,36,39	#	133:4.7/#	Justicia, equidad, misericordia	C	#
 I_Reyes	8:39	#	32:4.8/#	El Señor conoce a sus hijos	R	#
-I_Reyes	8:46-48	#	159:5.13/#	Repent for forgiveness (OT)+	C	PROBLEM
+I_Reyes	8:46-48	#	159:5.13/#	Arrepentimiento para el perdón (AT)	C	#
 I_Reyes	8:61	#	107:0.3/#	Sed perfectos	C	#
 I_Reyes	8:61	#	106:2.6/#	Sed perfectos	C	#
 I_Reyes	8:61	#	1:0.6/#	Sed perfectos	C	#
@@ -36,7 +36,7 @@ I_Reyes	8:61	#	26:11.4/#	Sed perfectos	R	#
 I_Reyes	8:61	#	99:5.3/#	Sed perfectos	C	#
 I_Reyes	8:61	#	56:0.1/#	Sed perfectos como yo soy	R	#
 I_Reyes	8:61	#	26:9.3/#	Sed perfectos	R	#
-I_Reyes	8:61	#	143:2.6/#	Buscad la perfección+	C	#
+I_Reyes	8:61	#	143:2.6/#	Buscad la perfección	C	#
 I_Reyes	8:61	#	7:4.7/#	Sed perfectos	R	#
 I_Reyes	8:61	#	137:8.13/#	Sed perfectos	C	#
 I_Reyes	8:61	#	161:1.10/#	Sed perfectos	C	#
@@ -50,7 +50,7 @@ I_Reyes	8:61	#	181:2.25/#	Perfecionarse espiritualmente	C	#
 I_Reyes	9:15	#	97:9.16/#	Tributos a los edificios	C	#
 I_Reyes	9:26-27	#	97:9.16/#	La armada hebrea	C	#
 I_Reyes	11:3	#	97:9.16/#	El harén de Salomón	C	#
-I_Reyes	11:5,7,33	#	95:1.3/#	"Gods" Ashtoreth, Milcom	C	PROBLEM
+I_Reyes	11:5,7,33	#	95:1.3/#	Los dioses Astoret y Milcom	C	#
 I_Reyes	11:5,33	#	95:1.7/#	Astaroth	C	#
 I_Reyes	13:26	#	156:5.4/#	«Dios me ha dicho»	C	#
 I_Reyes	14:9	#	4:3.2/#	La visión de Dios como colérico o airado	C	#

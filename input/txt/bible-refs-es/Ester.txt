@@ -1,4 +1,4 @@
-Ester	1:2	#	133:9.2/#	Stories of Esther & Susa	C	PROBLEM
+Ester	1:2	#	133:9.2/#	Historias de Ester y Susa	C	#
 Ester	4:1,3	#	163:6.5/#	Saco y cenizas	C	#
 Ester	4:1-4	#	89:3.3/#	Pobreza y penitencia	C	#
 Ester	9:17-32	#	125:1.5/#	Fiesta de Purim	C	#

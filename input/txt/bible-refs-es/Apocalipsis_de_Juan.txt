@@ -79,7 +79,7 @@ Apocalipsis_de_Juan	4:6	#	43:1.10/#	Mar de cristal	C	#
 Apocalipsis_de_Juan	4:6	#	46:2.9/#	Mar de cristal	C	#
 Apocalipsis_de_Juan	4:6	#	47:10.2/#	Mar de cristal y fuego	R	#
 Apocalipsis_de_Juan	4:6	#	47:4.3/#	Mar de cristal	C	#
-Apocalipsis_de_Juan	4:6b-9	#	34:4.9/#	Cuatro "bestias"	C	#
+Apocalipsis_de_Juan	4:6b-9	#	34:4.9/#	Cuatro «bestias»	C	#
 Apocalipsis_de_Juan	4:11	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
 Apocalipsis_de_Juan	4:11	#	131:10.2/#	Es el Creador de todas las cosas	C	#
 Apocalipsis_de_Juan	4:11	#	131:10.6/#	El Creador	C	#
@@ -101,7 +101,7 @@ Apocalipsis_de_Juan	5:6	#	36:5.2/#	Espíritus ayudantes de la mente	C	#
 Apocalipsis_de_Juan	5:6	#	16:4.1/#	Siete espíritus de Dios	R	#
 Apocalipsis_de_Juan	5:6	#	16:6.2/#	Espíritus ayudantes de la mente	C	#
 Apocalipsis_de_Juan	5:8	#	47:10.2/#	Arpa de Dios	R	#
-Apocalipsis_de_Juan	5:8,14	#	34:4.9/#	Cuatro "bestias"	C	#
+Apocalipsis_de_Juan	5:8,14	#	34:4.9/#	Cuatro «bestias»	C	#
 Apocalipsis_de_Juan	5:8,14	#	77:9.5/#	Consejo de los veinticuatro	C	#
 Apocalipsis_de_Juan	5:8,14	#	114:2.1/#	Gobierno de Urantia	C	#
 Apocalipsis_de_Juan	7:1	#	88:2.7/#	Libros sagrados como fetiches	C	#

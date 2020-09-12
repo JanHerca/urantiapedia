@@ -65,7 +65,7 @@ Jeremías	23:6	#	150:5.2/#	Señor de nuestra rectitud	R	#
 Jeremías	23:23	#	3:1.4/#	No está lejos	R	#
 Jeremías	23:23-24	#	3:1.2/#	Dios a mano y lejos	R	#
 Jeremías	23:24	#	131:2.4/#	Nadie puede esconderse de nuestro Señor	R	#
-Jeremías	23:25-26	#	86:5.7/#	Dios "habla" en sueños	C	#
+Jeremías	23:25-26	#	86:5.7/#	Dios «habla» en sueños	C	#
 Jeremías	24:7	#	97:8.3/#	Jeremías y la rectitud interior	C	#
 Jeremías	24:7	#	130:8.2/#	Te daré un corazón para que me conozcas	R	#
 Jeremías	24:7	#	145:2.6/#	La religión un asunto del corazón	C	#
@@ -136,9 +136,9 @@ Jeremías	32:40	#	121:7.5/#	Ley escrita en el corazón de los hombres	R	#
 Jeremías	33:11	#	2:6.3/#	Dios es bueno	R	#
 Jeremías	33:15	#	180:2.3/#	Un tallo que surgiría de la vid	C	#
 Jeremías	33:16	#	150:5.2/#	Señor de nuestra rectitud	R	#
-Jeremías	35:15	#	159:5.13/#	Repent for forgiveness (OT)+	C	PROBLEM
+Jeremías	35:15	#	159:5.13/#	Arrepentimiento para el perdón (AT)	C	#
 Jeremías	35:17	#	92:6.6/#	Dios Señor de las huestes	C	#
-Jeremías	36:3	#	159:5.13/#	Repent for forgiveness (OT)+	C	PROBLEM
+Jeremías	36:3	#	159:5.13/#	Arrepentimiento para el perdón (AT)	C	#
 Jeremías	38:2-3	#	97:6.4/#	Jeremías aconsejó la rendición	C	#
 Jeremías	38:2-3	#	97:9.25/#	Anuncio de la ruina	C	#
 Jeremías	38:2-9	#	97:9.26/#	La destrucción de la ciudad	R	#
@@ -149,7 +149,7 @@ Jeremías	42:10	#	4:3.4/#	La visión de Dios arrepintiéndose	C	#
 Jeremías	42:10	#	2:2.2/#	Se ha dicho que Dios se arrepiente, pero no lo hace	C	#
 Jeremías	46:2	#	97:9.25/#	Derrota de Nekó	C	#
 Jeremías	46:27	#	174:0.2/#	No te desanimes por los acontecimientos futuros	C	#
-Jeremías	50:2	#	95:1.3/#	Competing "gods" Bel, Marduk	C	PROBLEM
+Jeremías	50:2	#	95:1.3/#	Los dioses competidores Bel y Marduk	C	#
 Jeremías	50:21	#	69:8.3/#	Los hebreos «destruían por completo»	C	#
 Jeremías	50:29	#	196:0.2/#	El Santo de Israel	R	#
 Jeremías	51:5	#	128:1.10/#	Santo de Israel	C	#
@@ -171,4 +171,4 @@ Jeremías	51:15-16	#	128:1.10/#	Creador de los cielos y de la Tierra	C	#
 Jeremías	51:15-16	#	131:2.2/#	Dios creó todo	C	#
 Jeremías	51:19	#	3:2.5/#	Fuente de todas las cosas	C	#
 Jeremías	51:39	#	49:6.7/#	No sobrevimiento	C	#
-Jeremías	51:44	#	95:1.3/#	Competing "gods" Bel	C	PROBLEM
+Jeremías	51:44	#	95:1.3/#	Los dioses competidores Bel	C	#

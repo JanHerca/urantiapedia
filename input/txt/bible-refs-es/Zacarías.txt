@@ -13,7 +13,7 @@ Zacarías	8:2	#	4:3.1/#	Dios celoso `por' el hombre	C	#
 Zacarías	8:2	#	96:4.6/#	Celo	R	#
 Zacarías	8:14	#	2:2.2/#	No se arrepiente (por elección)	C	#
 Zacarías	8:14	#	4:3.4/#	Dios no se arrepiente (por elección)	C	#
-Zacarías	9:9	#	172:5.8/#	Zechariah's prophecy fulfilled	S	PROBLEM
+Zacarías	9:9	#	172:5.8/#	La profecía de Zacarías cumplida	S	#
 Zacarías	9:9	#	172:3.4/#	Entrada sobre un asno	R	#
 Zacarías	9:9	#	172:5.5/#	La profecía de Zacarías	R	#
 Zacarías	9:17	#	131:10.4/#	Si más pudieran enterarse de la bondad de Dios	C	#

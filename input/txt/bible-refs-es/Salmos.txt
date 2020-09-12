@@ -71,16 +71,16 @@ Salmos	10:3	#	165:4.8/#	El Señor aborrece a los codiciosos	R	#
 Salmos	10:4c	#	195:8.5/#	El laicismo militante	C	#
 Salmos	12:2	#	149:6.12/#	Adulan con los labios	R	#
 Salmos	14:1	#	195:8.5/#	El laicismo militante	C	#
-Salmos	14:2	#	1:2.3/#	God seeking	C	PROBLEM
+Salmos	14:2	#	1:2.3/#	Buscar a Dios	C	#
 Salmos	15:1-5	#	124:4.9/#	Sé fiel a tus convicciones	R	#
 Salmos	16:6	#	149:5.2/#	Una herencia excelente	R	#
 Salmos	17:7	#	2:5.7/#	Amar su benevolencia	C	#
 Salmos	18:2	#	128:1.10/#	Libertador de los mundos	C	#
 Salmos	18:2,46	#	2:6.3/#	Dios de salvación	C	#
-Salmos	18:11	#	14:1.7/#	Dark gravity bodies	C	PROBLEM
+Salmos	18:11	#	14:1.7/#	Cuerpos oscuros de gravedad	C	#
 Salmos	18:12	#	85:4.3/#	El granizo	C	#
 Salmos	19:1	#	111:6.3/#	Bueno	C	#
-Salmos	19:1	#	101:2.9/#	God's handiwork	C	PROBLEM
+Salmos	19:1	#	101:2.9/#	Las obras de Dios	C	#
 Salmos	19:1-3	#	131:2.2/#	Los cielos proclaman la gloria de Dios	R	#
 Salmos	19:6	#	3:1.3/#	Viene del cielo	R	#
 Salmos	19:9	#	2:3.1/#	Juicios rectos y verdaderos	R	#
@@ -104,7 +104,7 @@ Salmos	23:4	#	95:4.3/#	Líbrame del temor	R	#
 Salmos	23:4	#	100:7.13/#	Valle de la sombra de la muerte	R	#
 Salmos	23:4	#	117:6.27/#	Dios está con nosotros	C	#
 Salmos	23:6	#	131:2.13/#	Ir al Paraíso	R	#
-Salmos	23:6	#	131:2.7/#	End, 23d Psalm	R	PROBLEM
+Salmos	23:6	#	131:2.7/#	Final, Salmo 23	R	#
 Salmos	24:1	#	3:5.2/#	La Tierra pertenece a Dios en toda su plenitud	R	#
 Salmos	24:3-4	#	43:6.3/#	¿Quién ascenderá la colina?	R	#
 Salmos	24:5	#	2:6.3/#	Dios de salvación	C	#
@@ -131,7 +131,7 @@ Salmos	32:1	#	133:4.7/#	Justicia, equidad, misericordia	C	#
 Salmos	32:5	#	156:2.7/#	Si confesáis vuestros pecados, están perdonados	C	#
 Salmos	33:5	#	96:6.3/#	Dios del juicio	C	#
 Salmos	33:6	#	1:0.1/#	Creador de todas sus huestes	C	#
-Salmos	33:6	#	86:5.9/#	By word of the Lord: creation	R	PROBLEM
+Salmos	33:6	#	86:5.9/#	Por la palabra de Dios: creación	R	#
 Salmos	33:6	#	57:3.8/#	La creación de Miguel	C	#
 Salmos	33:6	#	21:0.1/#	Los hijos Creadores	C	#
 Salmos	33:6	#	21:2.1/#	Los Hijos Creadores crean	C	#
@@ -163,7 +163,7 @@ Salmos	36:5	#	143:1.6/#	Dios se deleita en la misericordia	C	#
 Salmos	36:5	#	6:3.2/#	Ministro de la misericordia	C	#
 Salmos	36:6	#	131:2.7/#	Su rectitud es como las montañas	R	#
 Salmos	36:8-9	#	131:2.7/#	Los abrevarás en el río de tus placeres ...	R	#
-Salmos	36:15	#	142:3.7/#	All-merciful+	C	PROBLEM
+Salmos	36:15	#	142:3.7/#	Todo misericordioso	C	#
 Salmos	37:1	#	131:2.8/#	No os enojéis por culpa de los que hacen el mal	R	#
 Salmos	37:4	#	146:2.9/#	Delicia en Dios	R	#
 Salmos	37:5	#	131:2.10/#	Confiad en el Señor	R	#
@@ -211,7 +211,7 @@ Salmos	51:10-11	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
 Salmos	51:12	#	190:5.4/#	La alegría de la salvación	R	#
 Salmos	51:14	#	2:6.3/#	Dios de salvación	C	#
 Salmos	51:16-17	#	192:2.11/#	Dios quiere obediencia, no sacrificios	C	#
-Salmos	53:2	#	1:2.3/#	God seeking	C	PROBLEM
+Salmos	53:2	#	1:2.3/#	Buscar a Dios	C	#
 Salmos	55:22	#	152:5.3/#	Echad vuestra carga sobre el Señor	R	#
 Salmos	58:10	#	142:2.1/#	Que se venga de los pecadores	C	#
 Salmos	59:16	#	131:10.3/#	Dios es todopoderoso	C	#
@@ -220,12 +220,12 @@ Salmos	59:16	#	1:1.4/#	El poder de Dios	C	#
 Salmos	59:16	#	131:10.6/#	El Poder	C	#
 Salmos	62:8	#	152:5.3/#	Confiad en él en todo momento	R	#
 Salmos	62:10	#	165:4.8/#	Si tus riquezas aumentan, no pongas tu corazón en ellas	R	#
-Salmos	63:1	#	74:7.7/#	Desire of the soul	R	PROBLEM
+Salmos	63:1	#	74:7.7/#	Deseo del alma	R	#
 Salmos	63:8	#	128:1.10/#	Sostén de un universo	C	#
 Salmos	63:8	#	0:2.9/#	Dios como Sostenedor	C	#
 Salmos	65:5	#	2:6.3/#	Dios de salvación	C	#
 Salmos	65:11	#	2:1.2/#	Generoso	C	#
-Salmos	66:1-2	#	44:0.5/#	Celestial musicians+	C	PROBLEM
+Salmos	66:1-2	#	44:0.5/#	Músicos celestiales	C	#
 Salmos	66:7	#	170:1.2/#	El reino como una realidad presente	S	#
 Salmos	66:18	#	131:2.8/#	Si veneráis la iniquidad, el Señor no os escuchará	R	#
 Salmos	68:4	#	96:1.9/#	Jah	C	#
@@ -234,7 +234,7 @@ Salmos	68:19-20	#	2:6.3/#	Dios de salvación	R	#
 Salmos	69:4	#	180:3.2/#	Me odiaron sin causa	R	#
 Salmos	69:28	#	37:3.7/#	Tachada de los registros	R	#
 Salmos	69:30-31	#	146:2.16/#	Alabaré a Dios con un cántico	R	#
-Salmos	69:32	#	1:2.3/#	God seeking	C	PROBLEM
+Salmos	69:32	#	1:2.3/#	Buscar a Dios	C	#
 Salmos	71:22	#	128:1.10/#	Santo de Israel	C	#
 Salmos	71:22	#	196:0.2/#	El Santo de Israel	R	#
 Salmos	71:22	#	96:1.9/#	El Santo	C	#
@@ -264,7 +264,7 @@ Salmos	82:6	#	133:4.4/#	Los hijos anhelan parecerse a Dios	C	#
 Salmos	82:6	#	93:3.2/#	El Altísimo	C	#
 Salmos	83:18	#	142:3.3/#	Yahvé, el dios de los clanes del Sinaí	S	#
 Salmos	83:18	#	96:1.10/#	Jehová	C	#
-Salmos	84:2	#	74:7.7/#	Desire of the soul	R	PROBLEM
+Salmos	84:2	#	74:7.7/#	Deseo del alma	R	#
 Salmos	84:3	#	137:8.4/#	Yahvé es nuestro rey y Dios	R	#
 Salmos	84:11	#	2:1.2/#	Se da a sí mismo	C	#
 Salmos	84:11	#	131:2.9/#	Dios no negará ninguna cosa buena	R	#
@@ -301,7 +301,7 @@ Salmos	89:26-27	#	131:10.8/#	La relación de padre e hijo	C	#
 Salmos	89:26-27	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
 Salmos	89:26-27	#	131:10.6/#	Relación entre padre e hijo	C	#
 Salmos	90:2	#	1:1.6/#	El Dios eterno	C	#
-Salmos	90:4	#	14:1.5/#	Thousand years but a day	R	PROBLEM
+Salmos	90:4	#	14:1.5/#	Mil años son un día	R	#
 Salmos	90:4	#	2:2.2/#	Dios es atemporal	R	#
 Salmos	90:10	#	77:2.11/#	Sesenta años más diez	R	#
 Salmos	91:1	#	4:1.4/#	Habita en lugar secreto	R	#
@@ -354,13 +354,13 @@ Salmos	103:14	#	112:7.19/#	Nuestro cuerpo es de polvo	C	#
 Salmos	103:17	#	131:2.13/#	Misericordioso y justo con vuestros hijos	R	#
 Salmos	103:17	#	131:2.4/#	La misericordia del Señor es eterna	R	#
 Salmos	103:17	#	2:4.1/#	Su misericordia dura eternamente	R	#
-Salmos	104:1-32	#	0:2.9/#	God as Controller+	C	PROBLEM
+Salmos	104:1-32	#	0:2.9/#	Dios como controlador	C	#
 Salmos	104:2	#	1:0.1/#	El Creador se cubre de luz	R	#
 Salmos	104:2-9	#	29:0.1/#	Creación física	C	#
 Salmos	104:4	#	85:4.2/#	Ángeles del fuego	C	#
 Salmos	104:24	#	131:2.2/#	Ha hecho todas las cosas con sabiduría	R	#
 Salmos	104:30	#	4:1.5/#	Envía a sus Hijos creadores	R	#
-Salmos	104:30	#	4:1.6/#	Constantly renewed	C	PROBLEM
+Salmos	104:30	#	4:1.6/#	Constantemente renovado	C	#
 Salmos	104:30	#	2:1.2/#	Espíritu Ilimitado	C	#
 Salmos	104:30	#	36:6.1/#	La vida, tanto material como espiritual	C	#
 Salmos	104:30	#	34:2.4/#	Envías tu Espíritu	R	#
@@ -370,7 +370,7 @@ Salmos	105:6,43	#	97:10.1/#	Pueblo elegido	C	#
 Salmos	105:6,43	#	97:4.2/#	Pueblo elegido	C	#
 Salmos	105:6,43	#	93:5.1/#	Pueblo elegido	R	#
 Salmos	105:6,43	#	121:2.8/#	Pueblo elegido	R	#
-Salmos	105:9-10	#	87:6.9/#	Sacred vows and oaths+	C	PROBLEM
+Salmos	105:9-10	#	87:6.9/#	Votos y juramentos sagrados	C	#
 Salmos	106:8	#	131:10.6/#	El Poder	C	#
 Salmos	106:8	#	131:10.3/#	Dios es todopoderoso	C	#
 Salmos	106:8	#	1:1.4/#	El poder de Dios	C	#
@@ -412,7 +412,7 @@ Salmos	111:10	#	68:3.3/#	El temor al Señor, comienzo de la sabiduría	R	#
 Salmos	111:10	#	131:2.6/#	El temor del Señor es el principio de la sabiduría	R	#
 Salmos	111:10	#	149:6.5/#	El temor al Señor es el comienzo de la sabiduría	R	#
 Salmos	112:1-3	#	95:4.2/#	La riqueza como dones de Dios	C	#
-Salmos	113:1-9; 114:1-8; 115:1-18; 116:1-19; 117:1-2; 118:1-29	#	162:4.4/#	Psalms 113-118	S	PROBLEM
+Salmos	113:1-9; 114:1-8; 115:1-18; 116:1-19; 117:1-2; 118:1-29	#	162:4.4/#	Salmos 113-118	S	#
 Salmos	113:5-8	#	190:5.4/#	Escuchará el lamento de los necesitados	C	#
 Salmos	115:13	#	95:4.2/#	La riqueza como dones de Dios	C	#
 Salmos	115:15	#	142:3.7/#	Creador Universal	C	#
@@ -506,7 +506,7 @@ Salmos	136:1-26	#	131:2.4/#	Su misericordia dura para siempre	R	#
 Salmos	136:1-26	#	6:3.2/#	Ministro de la misericordia	C	#
 Salmos	136:1-26	#	2:4.1/#	Su misericordia dura eternamente	R	#
 Salmos	136:2	#	45:4.10/#	Dios de los Dioses	R	#
-Salmos	136:2-3	#	0:2.12/#	Dios el Supremo+	C	#
+Salmos	136:2-3	#	0:2.12/#	Dios el Supremo	C	#
 Salmos	136:26	#	79:1.9/#	Un solo Dios en el cielo	C	#
 Salmos	138:2	#	137:8.4/#	La misericordia	R	#
 Salmos	139:2-3	#	3:3.2/#	Comprende nuestros pensamientos	R	#
@@ -519,7 +519,7 @@ Salmos	139:7	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
 Salmos	139:14	#	102:2.4/#	El alma sabe, y sabe ahora	C	#
 Salmos	140:1	#	121:5.11/#	Liberación del mal	C	#
 Salmos	141:3	#	146:2.13/#	Pon un vigilante en mi boca	R	#
-Salmos	143:10	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
+Salmos	143:10	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
 Salmos	143:10	#	196:0.8/#	La voluntad de Dios	R	#
 Salmos	143:10	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
 Salmos	143:10	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
@@ -540,7 +540,7 @@ Salmos	145:8	#	131:2.4/#	El Señor es clemente y está lleno de compasión	R	#
 Salmos	145:8	#	2:5.7/#	Dios es misericordioso	C	#
 Salmos	145:8	#	6:3.2/#	Ministro de la misericordia	C	#
 Salmos	145:8	#	2:6.3/#	Dios es bondadoso	R	#
-Salmos	145:8	#	143:1.6/#	God delights in mercy+	C	PROBLEM
+Salmos	145:8	#	143:1.6/#	Dios se complace en la misericordia	C	#
 Salmos	145:9	#	131:2.4/#	El Señor es bueno y extiende sus misericordias	R	#
 Salmos	145:13	#	131:2.7/#	El reino de Dios es un reino perpetuo	R	#
 Salmos	145:14	#	0:2.9/#	Dios como Sostenedor	C	#
@@ -578,4 +578,4 @@ Salmos	148:4	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
 Salmos	148:4	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
 Salmos	148:4	#	3:1.2/#	El cielo de los cielos	C	#
 Salmos	148:4	#	181:1.2/#	Cielo de los cielos	C	#
-Salmos	148:6-12	#	0:2.9/#	God as Controller+	C	PROBLEM
+Salmos	148:6-12	#	0:2.9/#	Dios como controlador	C	#

@@ -107,7 +107,7 @@ Epístola_a_los_Efesios	3:11	#	2:2.1/#	Propósito eterno	R	#
 Epístola_a_los_Efesios	3:12	#	5:4.2/#	Seguridad profunda	C	#
 Epístola_a_los_Efesios	3:14	#	194:3.11/#	Padre del Señor Jesucristo	C	#
 Epístola_a_los_Efesios	3:14	#	194:4.6/#	Padre del Señor Jesucristo	R	#
-Epístola_a_los_Efesios	3:14-15	#	170:2.20/#	Pablo usó "la familia de Dios"	C	#
+Epístola_a_los_Efesios	3:14-15	#	170:2.20/#	Pablo usó «la familia de Dios»	C	#
 Epístola_a_los_Efesios	3:16	#	34:6.10/#	Fortalecidos por el poder	R	#
 Epístola_a_los_Efesios	3:19	#	34:6.10/#	Llenos de la plenitud de Dios	R	#
 Epístola_a_los_Efesios	4:3-6,11-13	#	134:4.6/#	Unidad, no uniformidad	C	#

@@ -9,13 +9,13 @@
 Éxodo	3:4-17	#	156:5.4/#	«Dios me ha dicho»	C	#
 Éxodo	3:6	#	174:3.2/#	El poder viviente de Dios	C	#
 Éxodo	3:6	#	174:3.4/#	El Dios de los vivos	C	#
-Éxodo	3:6	#	1:1.6/#	Calling God "God"+	C	PROBLEM
+Éxodo	3:6	#	1:1.6/#	Llamar a Dios «Dios»	C	#
 Éxodo	3:6	#	182:1.9/#	YO SOY	C	#
 Éxodo	3:7	#	148:5.5/#	Conozco vuestros pesares	R	#
 Éxodo	3:7	#	3:3.2/#	Conozco sus penas	R	#
 Éxodo	3:8,17	#	96:2.2/#	Abundaba en leche y miel	R	#
 Éxodo	3:13-14	#	103:7.12/#	YO SOY	C	#
-Éxodo	3:13-14	#	0:3.16/#	I AM	C	PROBLEM
+Éxodo	3:13-14	#	0:3.16/#	YO SOY	C	#
 Éxodo	3:13-14	#	105:1.1/#	YO SOY	C	#
 Éxodo	3:13-14	#	106:3.5/#	YO SOY	C	#
 Éxodo	3:13-14	#	102:3.10/#	El Infinito YO SOY	C	#
@@ -152,7 +152,7 @@
 Éxodo	21:24	#	140:8.5/#	Ojo por ojo y diente por diente	S	#
 Éxodo	21:28	#	70:10.12/#	Dinero compensatorio	C	#
 Éxodo	21:30	#	89:7.1/#	Sustitutos y rescate	C	#
-Éxodo	22:11	#	87:6.9/#	Sacred vows and oaths+	C	PROBLEM
+Éxodo	22:11	#	87:6.9/#	Votos y juramentos sagrados	C	#
 Éxodo	22:18	#	90:2.3/#	Brujería	C	#
 Éxodo	22:24	#	142:2.1/#	Un Dios de gran ira e intenso furor	C	#
 Éxodo	22:29-30	#	122:9.1/#	Rendención de los primogénitos	C	#
@@ -174,7 +174,7 @@
 Éxodo	29:4	#	90:5.3/#	de las vestiduras sacerdotales	C	#
 Éxodo	29:4-9,29	#	90:1.1/#	Chamán sacerdote	C	#
 Éxodo	29:18,25,41	#	89:4.3/#	Aroma agradable para el olfato de Dios	C	#
-Éxodo	29:29	#	90:5.4/#	Hereditary priesthood+	C	PROBLEM
+Éxodo	29:29	#	90:5.4/#	Sacerdocio hereditario	C	#
 Éxodo	29:41-44	#	90:5.3/#	del tabernáculo	C	#
 Éxodo	29:41-44	#	90:5.3/#	del tabernáculo	C	#
 Éxodo	30:12-16	#	88:1.6/#	Contar al pueblo	R	#

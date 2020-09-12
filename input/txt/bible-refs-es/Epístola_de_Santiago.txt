@@ -8,7 +8,7 @@ Epístola_de_Santiago	1:4	#	140:4.11/#	Sed perfectos	C	#
 Epístola_de_Santiago	1:4	#	7:4.7/#	Sed perfectos	R	#
 Epístola_de_Santiago	1:4	#	31:3.6/#	Sed perfectos	R	#
 Epístola_de_Santiago	1:4	#	181:2.25/#	Perfecionarse espiritualmente	C	#
-Epístola_de_Santiago	1:4	#	143:2.6/#	Buscad la perfección+	C	#
+Epístola_de_Santiago	1:4	#	143:2.6/#	Buscad la perfección	C	#
 Epístola_de_Santiago	1:4	#	181:1.2/#	Convertirse en perfectos espiritualmente	C	#
 Epístola_de_Santiago	1:4	#	140:3.16/#	Sed perfectos	C	#
 Epístola_de_Santiago	1:4	#	140:10.1/#	Sed perfectos	C	#

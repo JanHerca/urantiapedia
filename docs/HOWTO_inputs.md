@@ -14,19 +14,7 @@ Los formatos de entrada para la Urantiapedia son los siguientes:
 
 ![](formatos.png)
 
-## Paramony TXT
 
-## Topic-index TXT
-
-## El Libro de Urantia TEX
-
-## Biblia TEX
-
-## El Libro de Urantia JSON
-
-## Biblia JSON
-
-## Wiki
 
 
 ## Enlaces

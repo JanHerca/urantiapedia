@@ -65,7 +65,7 @@ Epístola_a_los_Romanos	2:11	#	156:2.4/#	No existen favoritismos con Dios	C	#
 Epístola_a_los_Romanos	2:11	#	148:6.2/#	No hace acepción de personas	C	#
 Epístola_a_los_Romanos	2:11	#	40:10.13/#	Dios no hace acepción de personas	C	#
 Epístola_a_los_Romanos	2:19	#	107:4.5/#	Luz piloto	C	#
-Epístola_a_los_Romanos	3:21-31; 4:1-5	#	150:5.2/#	Salvation: believe, accept	C	PROBLEM
+Epístola_a_los_Romanos	3:21-31; 4:1-5	#	150:5.2/#	Salvación: creer, aceptar	C	#
 Epístola_a_los_Romanos	3:22	#	101:6.9/#	La fe de Jesús	C	#
 Epístola_a_los_Romanos	3:23	#	148:4.8/#	Malos por naturaleza, pero no pecadores	C	#
 Epístola_a_los_Romanos	3:24-25	#	170:5.6/#	Jesús el Redentor de la Iglesia	C	#
@@ -141,7 +141,7 @@ Epístola_a_los_Romanos	6:22-23	#	193:1.2/#	Los hijos de la fe no morirán nunca
 Epístola_a_los_Romanos	6:22-23	#	2:2.1/#	Vida eterna	C	#
 Epístola_a_los_Romanos	6:22-23	#	3:0.1/#	Vida eterna	C	#
 Epístola_a_los_Romanos	6:22-23	#	153:2.11/#	Los que creen tienen vida eterna	C	#
-Epístola_a_los_Romanos	6:23	#	182:1.10/#	I am the secret of survival	C	PROBLEM
+Epístola_a_los_Romanos	6:23	#	182:1.10/#	Yo soy el secreto de la supervivencia	C	#
 Epístola_a_los_Romanos	6:23	#	110:2.2/#	La supervivencia es un don	C	#
 Epístola_a_los_Romanos	6:23	#	3:1.4/#	Dona a un compañero	R	#
 Epístola_a_los_Romanos	6:23	#	46:8.4/#	La paga del pecado es la muerte	R	#
@@ -234,7 +234,7 @@ Epístola_a_los_Romanos	8:14-17,19,21	#	181:2.14/#	Los creyentes son hijos de Di
 Epístola_a_los_Romanos	8:14-17,19,21	#	170:2.20/#	Hijos de Dios	C	#
 Epístola_a_los_Romanos	8:15	#	40:6.2/#	Recibido el espíritu de la filiación	R	#
 Epístola_a_los_Romanos	8:16	#	34:6.12/#	El Espíritu atestigua	R	#
-Epístola_a_los_Romanos	8:16	#	101:2.11/#	Spirit itself bears witness	R	PROBLEM
+Epístola_a_los_Romanos	8:16	#	101:2.11/#	El Espíritu atestigua	R	#
 Epístola_a_los_Romanos	8:16	#	146:3.6/#	El espíritu de Dios ayuda a conocer la filiación	C	#
 Epístola_a_los_Romanos	8:16-17	#	3:2.9/#	La familia de Dios	C	#
 Epístola_a_los_Romanos	8:21	#	143:2.3/#	De la esclavitud a la libertad	C	#
@@ -327,7 +327,7 @@ Epístola_a_los_Romanos	11:34	#	6:6.4/#	Mente del espíritu	R	#
 Epístola_a_los_Romanos	11:34	#	107:5.3/#	Mente espiritual	C	#
 Epístola_a_los_Romanos	11:36	#	11:8.1/#	En Dios todas las cosas consisten	C	#
 Epístola_a_los_Romanos	11:36	#	174:3.2/#	La relación de Dios con todas las cosas	C	#
-Epístola_a_los_Romanos	11:36	#	104:4.25/#	In him all things consist	R	PROBLEM
+Epístola_a_los_Romanos	11:36	#	104:4.25/#	En él todas las cosas consisten	R	#
 Epístola_a_los_Romanos	11:36	#	56:9.14/#	Dios es todo y está en todo	C	#
 Epístola_a_los_Romanos	11:36	#	3:1.2/#	Es todo en todo	C	#
 Epístola_a_los_Romanos	12:2	#	110:2.5/#	Las mentes se volverán una sola	C	#
@@ -340,7 +340,7 @@ Epístola_a_los_Romanos	12:15	#	16:6.3/#	Mentes afine	C	#
 Epístola_a_los_Romanos	12:17-21	#	140:8.7/#	Futilidad de devolver mal con mal	S	#
 Epístola_a_los_Romanos	12:18	#	181:2.5/#	Esfuérzate por vivir en paz	C	#
 Epístola_a_los_Romanos	12:19	#	140:8.5/#	Advertencia contra la venganza	S	#
-Epístola_a_los_Romanos	12:19	#	70:10.9/#	Vengeance is God's+	R	PROBLEM
+Epístola_a_los_Romanos	12:19	#	70:10.9/#	La venganza es de Dios	R	#
 Epístola_a_los_Romanos	12:21	#	156:5.5/#	Vencer al mal con el bien	C	#
 Epístola_a_los_Romanos	12:21	#	194:3.12/#	Vencer el mal con el bien	S	#
 Epístola_a_los_Romanos	12:21	#	159:5.10/#	Vencer el mal con el bien	S	#

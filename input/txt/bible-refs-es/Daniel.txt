@@ -1,4 +1,4 @@
-Daniel	1:17	#	86:5.7/#	Dios "habla" en sueños	C	#
+Daniel	1:17	#	86:5.7/#	Dios «habla» en sueños	C	#
 Daniel	2:2	#	90:2.5/#	Astrología	C	#
 Daniel	2:18-19,28	#	79:1.9/#	Un solo Dios en el cielo	C	#
 Daniel	2:21	#	3:5.2/#	Destrona y corona reyes	R	#
@@ -9,7 +9,7 @@ Daniel	2:35	#	173:4.4/#	El que caiga sobre ella, se salvará	C	#
 Daniel	2:44	#	135:3.2/#	Reino eterno	R	#
 Daniel	2:44	#	136:2.1/#	El reino de Dios está cerca	R	#
 Daniel	2:44	#	141:4.1/#	Dios como rey por encima de todo	C	#
-Daniel	2:47	#	0:2.12/#	Dios el Supremo+	C	#
+Daniel	2:47	#	0:2.12/#	Dios el Supremo	C	#
 Daniel	2:47	#	45:4.10/#	Dios de los Dioses	R	#
 Daniel	3:26	#	93:3.2/#	El Altísimo	C	#
 Daniel	3:26	#	43:3.1/#	Altísimos	C	#
@@ -63,7 +63,7 @@ Daniel	7:13-14	#	135:3.3/#	Visión de la venida del Hijo del Hombre	R	#
 Daniel	7:13-14	#	128:1.2/#	Hijo del Hombre	C	#
 Daniel	7:13-14	#	136:1.6/#	El Mesías como Hijo del Hombre	C	#
 Daniel	7:13-14	#	126:3.6/#	Hijo del Hombre	R	#
-Daniel	7:14	#	135:3.2/#	Dominio sin fni	R	#
+Daniel	7:14	#	135:3.2/#	Dominio sin fin	R	#
 Daniel	7:18,22,25,27	#	93:2.3/#	El Altísimo	C	#
 Daniel	7:18,22,25,27	#	43:3.1/#	Altísimos	C	#
 Daniel	7:18,22,25,27	#	93:3.2/#	El Altísimo	C	#

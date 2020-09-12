@@ -39,7 +39,7 @@ Evangelio_de_Juan	1:1-18	#	120:0.1/#	La donación de Miguel en Urantia	C	#
 Evangelio_de_Juan	1:3	#	3:2.5/#	Fuente de todas las cosas	C	#
 Evangelio_de_Juan	1:4	#	36:6.1/#	La vida, tanto material como espiritual	C	#
 Evangelio_de_Juan	1:4-9	#	122:9.5/#	La luz a los gentiles	C	#
-Evangelio_de_Juan	1:4-9	#	40:5.16/#	True light+	C	PROBLEM
+Evangelio_de_Juan	1:4-9	#	40:5.16/#	Luz verdadera	C	#
 Evangelio_de_Juan	1:4-9	#	107:4.5/#	Luminosidad espiritual	C	#
 Evangelio_de_Juan	1:4-9	#	0:6.9/#	Luz espiritual	C	#
 Evangelio_de_Juan	1:4-9	#	162:5.2/#	Jesús es la luz del mundo	S	#
@@ -47,7 +47,7 @@ Evangelio_de_Juan	1:4-9	#	52:1.7/#	Iluminados por la verdadera luz	R	#
 Evangelio_de_Juan	1:6-7,15	#	144:8.3/#	Juan, el mensajero prometido	S	#
 Evangelio_de_Juan	1:6-8	#	45:4.17/#	Juan el Bautista	C	#
 Evangelio_de_Juan	1:9	#	107:4.5/#	Verdadera luz que ilumina al mundo	R	#
-Evangelio_de_Juan	1:9	#	40:5.16/#	True light which lights all	R	PROBLEM
+Evangelio_de_Juan	1:9	#	40:5.16/#	Luz verdadera que lo ilumina todo	R	#
 Evangelio_de_Juan	1:9	#	182:1.10/#	Yo soy la luz del mundo	S	#
 Evangelio_de_Juan	1:9	#	101:0.3/#	Luz verdadera que ilumina a todo hombre	R	#
 Evangelio_de_Juan	1:10-3	#	142:3.7/#	Creador Universal	C	#
@@ -57,7 +57,7 @@ Evangelio_de_Juan	1:12	#	155:1.2/#	Filiación por la fe	C	#
 Evangelio_de_Juan	1:12	#	143:2.7/#	Filiación por la fe	C	#
 Evangelio_de_Juan	1:12	#	181:1.4/#	A todos cuantos le recibieron	C	#
 Evangelio_de_Juan	1:12	#	174:0.2/#	Conocerás la realidad de lo que crees	S	#
-Evangelio_de_Juan	1:12	#	101:6.8/#	Realization of sonship of God	C	PROBLEM
+Evangelio_de_Juan	1:12	#	101:6.8/#	Realización de la filiación con Dios	C	#
 Evangelio_de_Juan	1:12	#	150:5.2/#	Creed para salvaros	C	#
 Evangelio_de_Juan	1:12-13	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
 Evangelio_de_Juan	1:12-13	#	170:2.20/#	Hijos de Dios liberados	C	#
@@ -133,15 +133,15 @@ Evangelio_de_Juan	1:24-26	#	135:9.4/#	Preguntas de la delegación	S	#
 Evangelio_de_Juan	1:24-26	#	135:7.2/#	Juan niega ser el Mesías	S	#
 Evangelio_de_Juan	1:25	#	136:0.1/#	El pueblo expectante del Mesías	C	#
 Evangelio_de_Juan	1:25-26,31,33	#	85:4.1/#	Bautismo	C	#
-Evangelio_de_Juan	1:25-26,31,33	#	87:6.5/#	Water baptism	C	PROBLEM
+Evangelio_de_Juan	1:25-26,31,33	#	87:6.5/#	Bautismo de agua	C	#
 Evangelio_de_Juan	1:26-27	#	135:7.2/#	Juan como precursor del Mesías	R	#
 Evangelio_de_Juan	1:26-27,33	#	144:6.9/#	El significado del bautismo	C	#
 Evangelio_de_Juan	1:28	#	135:6.5/#	Predicación de Juan	S	#
 Evangelio_de_Juan	1:28	#	135:8.1/#	Juan llega a Pella	S	#
 Evangelio_de_Juan	1:28	#	171:2.1/#	Dónde ocurrió esto	S	#
 Evangelio_de_Juan	1:29	#	135:8.3/#	Jesús viaja a Pella	S	#
-Evangelio_de_Juan	1:29	#	135:9.7/#	John's declaration re: Jesus	S	PROBLEM
-Evangelio_de_Juan	1:30-32	#	135:9.7/#	Declaration continued	S	PROBLEM
+Evangelio_de_Juan	1:29	#	135:9.7/#	Declaración de Juan sobre Jesús	S	#
+Evangelio_de_Juan	1:30-32	#	135:9.7/#	Continuación de la declaración	S	#
 Evangelio_de_Juan	1:31a	#	135:7.1/#	Juan confuso acerca del reino	C	#
 Evangelio_de_Juan	1:32	#	85:3.4/#	Paloma de la paz	C	#
 Evangelio_de_Juan	1:32-33	#	136:2.3/#	Ajustador Personalizado	S	#
@@ -173,7 +173,7 @@ Evangelio_de_Juan	1:42	#	139:2.2/#	Simón renombrado como Pedro	S	#
 Evangelio_de_Juan	1:43	#	196:0.13/#	La exigencia suprema: «Sígueme»	S	#
 Evangelio_de_Juan	1:43	#	137:2.2/#	Jesús en Galilea	S	#
 Evangelio_de_Juan	1:43-44	#	137:2.5/#	Selección de Felipe	S	#
-Evangelio_de_Juan	1:43-44	#	139:5.1/#	Philip chosen as apostle	S	PROBLEM
+Evangelio_de_Juan	1:43-44	#	139:5.1/#	Felipe escogido como apóstol	S	#
 Evangelio_de_Juan	1:43a	#	135:9.9/#	Jesús vuelve a Galilea	S	#
 Evangelio_de_Juan	1:44	#	139:5.7/#	Felipe de Betsaida	S	#
 Evangelio_de_Juan	1:45	#	122:1.3/#	Los padres de Jesús	S	#
@@ -217,7 +217,7 @@ Evangelio_de_Juan	2:18-22	#	173:5.4/#	El único signo: la resurrección al terce
 Evangelio_de_Juan	2:19	#	184:3.9/#	Los cargos establecidos	S	#
 Evangelio_de_Juan	2:19	#	184:3.7/#	Destruid este templo, y lo reconstruiré	R	#
 Evangelio_de_Juan	2:23	#	141:9.3/#	A Jerusalén	S	#
-Evangelio_de_Juan	2:23	#	142:1.2/#	Multitudes rejoiced at news	C	PROBLEM
+Evangelio_de_Juan	2:23	#	142:1.2/#	Las multitudes se regocijan con las nuevas	C	#
 Evangelio_de_Juan	3:1-2a	#	142:6.1/#	Nicodemo visita a Jesús	S	#
 Evangelio_de_Juan	3:1-9	#	164:2.1/#	Nicodemo	S	#
 Evangelio_de_Juan	3:1-12	#	141:6.4/#	Nacer de nuevo	C	#
@@ -235,7 +235,7 @@ Evangelio_de_Juan	3:3,5	#	137:8.6/#	Proclamar el establecimiento del reino del P
 Evangelio_de_Juan	3:3,5	#	190:5.4/#	El evangelio del reino	S	#
 Evangelio_de_Juan	3:3,5	#	137:7.13/#	Predicar buenas noticias	R	#
 Evangelio_de_Juan	3:3,5	#	141:2.1/#	El reino de Dios ya está aquí	C	#
-Evangelio_de_Juan	3:3,7	#	70:7.11/#	New birth societies	R	PROBLEM
+Evangelio_de_Juan	3:3,7	#	70:7.11/#	Sociedad renacida	R	#
 Evangelio_de_Juan	3:3,7	#	155:6.3/#	La llamada de Jesús a nacer del espíritu	C	#
 Evangelio_de_Juan	3:3,7	#	140:6.2/#	Tenéis que renacer	C	#
 Evangelio_de_Juan	3:3-5	#	153:2.4/#	Reino de Dios	C	#
@@ -310,7 +310,7 @@ Evangelio_de_Juan	3:16,18	#	20:10.1/#	Hijo unigénito	C	#
 Evangelio_de_Juan	3:16,18	#	6:1.1/#	Hijo unigénito	C	#
 Evangelio_de_Juan	3:16,18	#	21:0.1/#	Hijo unigénito	R	#
 Evangelio_de_Juan	3:16-17	#	20:5.6/#	Donaciones de los Hijos Creadores	C	#
-Evangelio_de_Juan	3:16-17,36	#	182:1.10/#	I am the reality of endless life	S	PROBLEM
+Evangelio_de_Juan	3:16-17,36	#	182:1.10/#	Yo soy la realidad de la vida sin fin	S	#
 Evangelio_de_Juan	3:16-18	#	136:1.1/#	Jesús, Hijo de Dios	R	#
 Evangelio_de_Juan	3:16-18	#	157:5.1/#	Jesús, el Hijo de Dios	C	#
 Evangelio_de_Juan	3:16-18	#	141:3.5/#	Evangelio del Hijo divino de Dios	C	#
@@ -320,7 +320,7 @@ Evangelio_de_Juan	3:19-21	#	155:6.3/#	De las tinieblas a la luz	C	#
 Evangelio_de_Juan	3:19-21	#	0:6.9/#	Luz espiritual	C	#
 Evangelio_de_Juan	3:19-21	#	191:4.3/#	Luz en las tinieblas espirituales	C	#
 Evangelio_de_Juan	3:22	#	142:8.1/#	Regreso a Judea	S	#
-Evangelio_de_Juan	3:22-23	#	87:6.5/#	Water baptism	C	PROBLEM
+Evangelio_de_Juan	3:22-23	#	87:6.5/#	Bautismo de agua	C	#
 Evangelio_de_Juan	3:22-23	#	85:4.1/#	Bautismo	C	#
 Evangelio_de_Juan	3:22-26	#	144:6.7/#	Disputa sobre el bautismo	S	#
 Evangelio_de_Juan	3:22b,26b	#	143:6.2/#	Los apóstoles de Jesús no bautizaban	C	#
@@ -334,7 +334,7 @@ Evangelio_de_Juan	3:31-34	#	16:9.6/#	Jesús reveló Dios al hombre	C	#
 Evangelio_de_Juan	3:31-35	#	169:4.2/#	Para revelar sus naturalezas combinadas	S	#
 Evangelio_de_Juan	3:34	#	3:1.4/#	Su espíritu habla desde el interior	R	#
 Evangelio_de_Juan	3:35	#	161:2.9/#	Asociación con el Padre	C	#
-Evangelio_de_Juan	3:35-36	#	182:1.10/#	I am the Infinite Father of children	S	PROBLEM
+Evangelio_de_Juan	3:35-36	#	182:1.10/#	Yo soy el Padre Infinito de sus hijos	S	#
 Evangelio_de_Juan	3:36	#	143:2.6/#	Salvados por la fe, no por las obras	C	#
 Evangelio_de_Juan	3:36	#	150:5.3/#	Salvados por la fe	S	#
 Evangelio_de_Juan	4:1-3	#	142:8.5/#	Regreso a la Decápolis	S	#
@@ -347,8 +347,8 @@ Evangelio_de_Juan	4:9	#	143:5.2/#	La contestación de Nalda	S	#
 Evangelio_de_Juan	4:9	#	137:7.11/#	No tenían trato con los samaritanos	R	#
 Evangelio_de_Juan	4:10	#	143:5.2/#	Jesús habla del «agua de vida»	S	#
 Evangelio_de_Juan	4:10,13-14	#	34:6.8/#	Nunca tener sed, agua espiritual	R	#
-Evangelio_de_Juan	4:10,14	#	170:2.18/#	Truth hunger	S	PROBLEM
-Evangelio_de_Juan	4:10-14	#	182:1.10/#	I am the living water	S	PROBLEM
+Evangelio_de_Juan	4:10,14	#	170:2.18/#	Hambre de la verdad	S	#
+Evangelio_de_Juan	4:10-14	#	182:1.10/#	Yo soy el agua viva	S	#
 Evangelio_de_Juan	4:10-14	#	181:1.4/#	El Espíritu de la Verdad, fuente del agua viva	C	#
 Evangelio_de_Juan	4:11-12	#	143:5.2/#	¿Cómo puedo sacar «agua viva»?	S	#
 Evangelio_de_Juan	4:13-14	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
@@ -361,7 +361,7 @@ Evangelio_de_Juan	4:13-14	#	32:5.8/#	Quien lo quiera puede participar	C	#
 Evangelio_de_Juan	4:13-15	#	143:5.3/#	Conversación con Nalda	S	#
 Evangelio_de_Juan	4:14	#	170:2.6/#	Logro espiritual	S	#
 Evangelio_de_Juan	4:14	#	190:5.4/#	El espíritu será una fuente de agua viviente	S	#
-Evangelio_de_Juan	4:14, 36	#	121:5.11/#	Life after death+	C	PROBLEM
+Evangelio_de_Juan	4:14, 36	#	121:5.11/#	Vida tras la muerte	C	#
 Evangelio_de_Juan	4:14,36	#	101:6.8/#	Vida eterna	C	#
 Evangelio_de_Juan	4:14,36	#	170:2.20/#	Vida eterna / sin fin	C	#
 Evangelio_de_Juan	4:14,36	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
@@ -428,7 +428,7 @@ Evangelio_de_Juan	4:29	#	143:5.13/#	Jesús me dijo todo lo que había hecho	R	#
 Evangelio_de_Juan	4:31	#	143:6.1/#	Le piden a Jesús que coma algo	S	#
 Evangelio_de_Juan	4:31	#	141:3.5/#	Le llamaban «Maestro»	S	#
 Evangelio_de_Juan	4:31	#	149:2.12/#	La gente le llamaba maestro	C	#
-Evangelio_de_Juan	4:32	#	26:1.10/#	Food you know not	R	PROBLEM
+Evangelio_de_Juan	4:32	#	26:1.10/#	Un alimento que no conocéis	R	#
 Evangelio_de_Juan	4:32-38	#	143:6.1/#	Jesús tiene un alimento que nadie conoce	S	#
 Evangelio_de_Juan	4:34	#	119:8.4/#	Jesús vivió la voluntad del Padre	C	#
 Evangelio_de_Juan	4:34	#	196:0.14/#	Jesús hizo la voluntad del Padre	C	#
@@ -448,7 +448,7 @@ Evangelio_de_Juan	4:34	#	136:10.1/#	Someterse a la voluntad del Padre	R	#
 Evangelio_de_Juan	4:34	#	143:1.4/#	Jesús vino a hacer la voluntad de Dios	R	#
 Evangelio_de_Juan	4:34	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
 Evangelio_de_Juan	4:34	#	128:7.2/#	Sometido a la voluntad de mi Padre	R	#
-Evangelio_de_Juan	4:34	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
+Evangelio_de_Juan	4:34	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
 Evangelio_de_Juan	4:34	#	117:0.1/#	Hacer la voluntad de Dios	C	#
 Evangelio_de_Juan	4:34	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
 Evangelio_de_Juan	4:34	#	141:7.11/#	Jesús vivió la voluntad del Padre	C	#
@@ -472,7 +472,7 @@ Evangelio_de_Juan	5:10-15	#	147:3.6/#	Temores de los sacerdotes y escribas	C	#
 Evangelio_de_Juan	5:17	#	147:3.3/#	Mi Padre trabaja y yo trabajo	S	#
 Evangelio_de_Juan	5:17	#	157:6.13/#	Mi Padre trabaja conmigo	S	#
 Evangelio_de_Juan	5:17,22-23	#	169:4.2/#	Para revelar sus naturalezas combinadas	S	#
-Evangelio_de_Juan	5:17,36	#	143:6.1/#	"Meat" to do will of Father, "work"	C	PROBLEM
+Evangelio_de_Juan	5:17,36	#	143:6.1/#	Hacer la voluntad del Padre, «trabajar»	C	#
 Evangelio_de_Juan	5:17,36	#	181:2.3/#	El trabajo confiado por el Padre	S	#
 Evangelio_de_Juan	5:17-18	#	161:1.8/#	Jesús y el Padre son uno	C	#
 Evangelio_de_Juan	5:17-18	#	184:4.6/#	Jesús y el Padre son uno	C	#
@@ -490,7 +490,7 @@ Evangelio_de_Juan	5:17-18	#	6:8.3/#	El Padre y el Hijo son uno	C	#
 Evangelio_de_Juan	5:18	#	6:1.3/#	El Verbo y Dios	R	#
 Evangelio_de_Juan	5:19	#	56:8.4/#	El Hijo imita al Padre	R	#
 Evangelio_de_Juan	5:19-23	#	153:2.11/#	El Padre enseña al hijo	C	#
-Evangelio_de_Juan	5:19-24	#	182:1.10/#	I am the Infinite Father of children	S	PROBLEM
+Evangelio_de_Juan	5:19-24	#	182:1.10/#	Yo soy el Padre Infinito de sus hijos	S	#
 Evangelio_de_Juan	5:20	#	169:4.2/#	El Padre y el Hijo conocen todas las cosas	S	#
 Evangelio_de_Juan	5:21	#	36:3.4/#	Chispa vital, misterio de la vida	C	#
 Evangelio_de_Juan	5:23,30,36-37	#	193:2.2/#	El Padre me envió	S	#
@@ -530,7 +530,7 @@ Evangelio_de_Juan	5:30	#	196:0.10/#	Jesús hizo la voluntad del Padre	C	#
 Evangelio_de_Juan	5:30	#	128:7.2/#	Sometido a la voluntad de mi Padre	R	#
 Evangelio_de_Juan	5:30	#	131:10.2/#	Viviendo su voluntad podemos revelarlo	C	#
 Evangelio_de_Juan	5:30	#	119:8.4/#	Jesús vivió la voluntad del Padre	C	#
-Evangelio_de_Juan	5:30	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
+Evangelio_de_Juan	5:30	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
 Evangelio_de_Juan	5:30	#	109:6.5/#	Jesús hizo la voluntad de Dios	C	#
 Evangelio_de_Juan	5:30	#	136:10.1/#	Someterse a la voluntad del Padre	R	#
 Evangelio_de_Juan	5:30	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
@@ -548,9 +548,9 @@ Evangelio_de_Juan	5:30	#	183:1.1/#	Jesús hizo la voluntad del Padre	C	#
 Evangelio_de_Juan	5:36	#	180:3.9/#	El Padre está en el Hijo y el Hijo en el Padre	S	#
 Evangelio_de_Juan	5:36	#	178:3.4/#	Jesús ha terminado el trabajo del Padre	S	#
 Evangelio_de_Juan	5:43	#	169:4.2/#	Mostrar su trabajo conjunto	S	#
-Evangelio_de_Juan	6:1	#	152:2.1/#	Jesus leaves	S	PROBLEM
+Evangelio_de_Juan	6:1	#	152:2.1/#	La partida de Jesús	S	#
 Evangelio_de_Juan	6:2	#	152:2.2/#	La gente les sigue	S	#
-Evangelio_de_Juan	6:4	#	152:2.1/#	Passover near	S	PROBLEM
+Evangelio_de_Juan	6:4	#	152:2.1/#	La Pascua se acerca	S	#
 Evangelio_de_Juan	6:5,7	#	181:2.20/#	Los fallos de Felipe usados por Jesús	C	#
 Evangelio_de_Juan	6:5-7	#	152:2.6/#	No hay comida para la multitud	S	#
 Evangelio_de_Juan	6:8	#	139:1.7/#	El hermano de Pedro	R	#
@@ -570,7 +570,7 @@ Evangelio_de_Juan	6:26	#	153:2.6/#	Los hombres buscan el pan físico	S	#
 Evangelio_de_Juan	6:26	#	152:3.2/#	Por razones erróneas	C	#
 Evangelio_de_Juan	6:26-27	#	152:5.4/#	Jesús discierne los motivos	S	#
 Evangelio_de_Juan	6:27	#	153:2.7/#	Deberíais buscar el pan espiritual	S	#
-Evangelio_de_Juan	6:27,40	#	182:1.10/#	I am the reality of endless life	S	PROBLEM
+Evangelio_de_Juan	6:27,40	#	182:1.10/#	Yo soy la realidad de la vida sin fin	S	#
 Evangelio_de_Juan	6:27,40,47	#	121:5.11/#	Vida después de la muerte	C	#
 Evangelio_de_Juan	6:27,40,47	#	162:7.5/#	Los creyentes nunca morirán	C	#
 Evangelio_de_Juan	6:27,40,47	#	3:0.1/#	Vida eterna	C	#
@@ -610,7 +610,7 @@ Evangelio_de_Juan	6:38-40	#	141:7.11/#	Jesús vivió la voluntad del Padre	C	#
 Evangelio_de_Juan	6:38-40	#	180:3.9/#	He hecho la vountad del Padre	C	#
 Evangelio_de_Juan	6:38-40	#	143:1.4/#	Jesús vino a hacer la voluntad de Dios	R	#
 Evangelio_de_Juan	6:38-40	#	128:7.2/#	Sometido a la voluntad de mi Padre	R	#
-Evangelio_de_Juan	6:38-40	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
+Evangelio_de_Juan	6:38-40	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
 Evangelio_de_Juan	6:38-40	#	117:0.1/#	Hacer la voluntad de Dios	C	#
 Evangelio_de_Juan	6:38-40	#	153:2.9/#	La voluntad de Dios es la vida eterna	S	#
 Evangelio_de_Juan	6:38-40	#	120:2.8/#	Jesús dedicado a vivir la voluntad del Padre	C	#
@@ -657,7 +657,7 @@ Evangelio_de_Juan	6:45-46	#	120:2.8/#	Jesús dedicado a revelar a Dios a la huma
 Evangelio_de_Juan	6:45-46	#	16:9.6/#	Jesús reveló Dios al hombre	C	#
 Evangelio_de_Juan	6:46	#	157:6.10/#	Ningún hombre ve ahora al Padre	S	#
 Evangelio_de_Juan	6:46	#	153:2.4/#	Jesús ha venido para revelar al Padre	C	#
-Evangelio_de_Juan	6:48,50,58	#	170:2.18/#	Truth hunger	S	PROBLEM
+Evangelio_de_Juan	6:48,50,58	#	170:2.18/#	Hambre de la verdad	S	#
 Evangelio_de_Juan	6:48-51	#	153:2.12/#	El pan de vida	S	#
 Evangelio_de_Juan	6:51,58	#	193:2.2/#	El pan de la vida	S	#
 Evangelio_de_Juan	6:51,68	#	27:1.5/#	Vida eterna	C	#
@@ -689,7 +689,7 @@ Evangelio_de_Juan	6:63	#	34:6.5/#	El Espíritu es el que vivifica	R	#
 Evangelio_de_Juan	6:63	#	34:6.5/#	El Espíritu es el que vivifica	R	#
 Evangelio_de_Juan	6:63	#	36:3.4/#	Chispa vital, misterio de la vida	C	#
 Evangelio_de_Juan	6:63-70	#	153:5.4/#	Tened buen ánimo	S	#
-Evangelio_de_Juan	6:68	#	182:1.10/#	I am the secret of survival	S	PROBLEM
+Evangelio_de_Juan	6:68	#	182:1.10/#	Yo soy el secreto de la supervivencia	S	#
 Evangelio_de_Juan	6:69	#	195:10.4/#	El Padre es un espíritu vivo	C	#
 Evangelio_de_Juan	7:1	#	162:1.3/#	Incomprensión de las motivaciones de Jesús	S	#
 Evangelio_de_Juan	7:2-4	#	162:1.1/#	Predicación en Jerusalén	S	#
@@ -711,7 +711,7 @@ Evangelio_de_Juan	7:16-17	#	195:6.16/#	Hacer la voluntad del Padre	R	#
 Evangelio_de_Juan	7:16-17	#	118:8.11/#	Es mi voluntad que se haga tu voluntad	R	#
 Evangelio_de_Juan	7:16-17	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
 Evangelio_de_Juan	7:16-17	#	117:0.1/#	Hacer la voluntad de Dios	C	#
-Evangelio_de_Juan	7:16-17	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
+Evangelio_de_Juan	7:16-17	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
 Evangelio_de_Juan	7:17	#	159:5.8/#	Jesús enseña la acción positiva	C	#
 Evangelio_de_Juan	7:20-24	#	162:2.2/#	¿Por qué los judíos querían matar a Jesús?	S	#
 Evangelio_de_Juan	7:24	#	174:0.2/#	Apariencias engañosas	S	#
@@ -737,8 +737,8 @@ Evangelio_de_Juan	7:34-36	#	162:5.3/#	No podéis venir	S	#
 Evangelio_de_Juan	7:34-36	#	162:2.7/#	No podéis venir conmigo	S	#
 Evangelio_de_Juan	7:35-36	#	162:2.8/#	Frases de burla	S	#
 Evangelio_de_Juan	7:37	#	170:5.13/#	Admisión por la fe	S	#
-Evangelio_de_Juan	7:37-38	#	182:1.10/#	I am the living water	S	PROBLEM
-Evangelio_de_Juan	7:37-38	#	170:2.18/#	Truth hunger	S	PROBLEM
+Evangelio_de_Juan	7:37-38	#	182:1.10/#	Yo soy el agua viva	S	#
+Evangelio_de_Juan	7:37-38	#	170:2.18/#	Hambre de la verdad	S	#
 Evangelio_de_Juan	7:37-38	#	34:6.8/#	Nunca tener sed, agua espiritual	R	#
 Evangelio_de_Juan	7:37-39	#	162:6.1/#	Traigo el agua de la vida	S	#
 Evangelio_de_Juan	7:38	#	181:1.4/#	El Espíritu de la Verdad, fuente del agua viva	C	#
@@ -789,7 +789,7 @@ Evangelio_de_Juan	8:12	#	122:9.5/#	La luz a los gentiles	C	#
 Evangelio_de_Juan	8:12	#	182:1.10/#	Yo soy la luz del mundo	S	#
 Evangelio_de_Juan	8:12	#	52:1.7/#	Iluminados por la verdadera luz	R	#
 Evangelio_de_Juan	8:12	#	107:4.5/#	Luminosidad espiritual	C	#
-Evangelio_de_Juan	8:12	#	40:5.16/#	True light+	C	PROBLEM
+Evangelio_de_Juan	8:12	#	40:5.16/#	Luz verdadera	C	#
 Evangelio_de_Juan	8:12	#	191:4.3/#	Luz en las tinieblas espirituales	S	#
 Evangelio_de_Juan	8:12	#	45:4.4/#	La Gran Luz	R	#
 Evangelio_de_Juan	8:12	#	149:2.6/#	Revelación de la luz de la vida	C	#
@@ -819,7 +819,7 @@ Evangelio_de_Juan	8:30	#	162:5.5/#	Muchos creyeron	S	#
 Evangelio_de_Juan	8:31a	#	162:7.1/#	Los creyentes reunidos	S	#
 Evangelio_de_Juan	8:31b-36	#	162:7.2/#	Conocer la verdad os hará libres	S	#
 Evangelio_de_Juan	8:32	#	141:7.6/#	La verdad os hará libres	R	#
-Evangelio_de_Juan	8:32	#	101:6.8/#	Know truth , be free	C	PROBLEM
+Evangelio_de_Juan	8:32	#	101:6.8/#	Conoceréis la verdad, y os hará libres	C	#
 Evangelio_de_Juan	8:32,36	#	54:1.1/#	La verdadera y la falsa libertad	C	#
 Evangelio_de_Juan	8:32,36	#	170:2.2/#	El evangelio libera a los hombres	C	#
 Evangelio_de_Juan	8:37-40	#	162:7.3/#	La semilla de Abraham	S	#
@@ -859,11 +859,11 @@ Evangelio_de_Juan	9:1-7,16	#	169:0.6/#	Cura en sábado	S	#
 Evangelio_de_Juan	9:2	#	164:3.2/#	¿Quién pecó para que naciera ciego?	S	#
 Evangelio_de_Juan	9:3-5	#	164:3.7/#	Ninguno pecó	S	#
 Evangelio_de_Juan	9:4	#	162:7.3/#	He sido enviado por Dios	S	#
-Evangelio_de_Juan	9:4	#	143:6.1/#	"Meat" to do will of Father, "work"	C	PROBLEM
+Evangelio_de_Juan	9:4	#	143:6.1/#	Hacer la voluntad del Padre, «trabajar»	C	#
 Evangelio_de_Juan	9:4	#	174:0.2/#	Capaz de finalizar mi obra	S	#
 Evangelio_de_Juan	9:4	#	181:2.3/#	El trabajo confiado por el Padre	S	#
 Evangelio_de_Juan	9:5	#	0:6.9/#	Luz espiritual	C	#
-Evangelio_de_Juan	9:5	#	40:5.16/#	True light+	C	PROBLEM
+Evangelio_de_Juan	9:5	#	40:5.16/#	Luz verdadera	C	#
 Evangelio_de_Juan	9:5	#	107:4.5/#	Luminosidad espiritual	C	#
 Evangelio_de_Juan	9:5	#	52:1.7/#	Iluminados por la verdadera luz	R	#
 Evangelio_de_Juan	9:5	#	182:1.10/#	Yo soy la luz del mundo	S	#
@@ -887,7 +887,7 @@ Evangelio_de_Juan	9:30-33	#	164:4.11/#	El discurso del hombre «ciego»	S	#
 Evangelio_de_Juan	9:31	#	118:8.11/#	Es mi voluntad que se haga tu voluntad	R	#
 Evangelio_de_Juan	9:31	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
 Evangelio_de_Juan	9:31	#	195:6.16/#	Hacer la voluntad del Padre	R	#
-Evangelio_de_Juan	9:31	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
+Evangelio_de_Juan	9:31	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
 Evangelio_de_Juan	9:31	#	141:2.2/#	Cuando la voluntad del Padre se convierta en vuestra voluntad	C	#
 Evangelio_de_Juan	9:31	#	117:0.1/#	Hacer la voluntad de Dios	C	#
 Evangelio_de_Juan	9:31	#	0:5.10/#	Hacer la voluntad del Padre	R	#
@@ -898,21 +898,21 @@ Evangelio_de_Juan	9:31	#	140:8.20/#	Haced voluntariamente la «voluntad» de Dio
 Evangelio_de_Juan	9:31	#	131:10.2/#	Viviendo su voluntad podemos revelarlo	C	#
 Evangelio_de_Juan	9:34	#	164:4.11/#	Expulsión de la sinagoga	S	#
 Evangelio_de_Juan	9:35-38	#	164:5.4/#	La conversión del hombre «ciego»	S	#
-Evangelio_de_Juan	9:39	#	101:6.8/#	Spiritual blindness	C	PROBLEM
+Evangelio_de_Juan	9:39	#	101:6.8/#	Ceguera espiritual	C	#
 Evangelio_de_Juan	9:41	#	165:2.3/#	Los falsos pastores	S	#
-Evangelio_de_Juan	10:1-3,7.9	#	182:1.10/#	I am the open door to salvation	S	PROBLEM
+Evangelio_de_Juan	10:1-3,7.9	#	182:1.10/#	Yo soy la puerta abierta a la salvación	S	#
 Evangelio_de_Juan	10:1-5	#	165:2.4/#	Los verdaderos pastores	S	#
 Evangelio_de_Juan	10:3-4	#	164:5.2/#	Mis ovejas escuchan mi voz	S	#
 Evangelio_de_Juan	10:7,9	#	166:3.7/#	Yo soy la puerta	S	#
 Evangelio_de_Juan	10:7-9	#	165:2.7/#	Jesús es la «puerta»	S	#
-Evangelio_de_Juan	10:7-15	#	170:2.20/#	Father's fold	S	PROBLEM
+Evangelio_de_Juan	10:7-15	#	170:2.20/#	Redil del Padre	S	#
 Evangelio_de_Juan	10:8a	#	165:2.4/#	Ladrones y saqueadores	S	#
 Evangelio_de_Juan	10:8b	#	165:2.4/#	No conocen su voz	S	#
 Evangelio_de_Juan	10:10	#	139:6.5/#	He venido a traer vida abundante	C	#
 Evangelio_de_Juan	10:10-15	#	165:2.8/#	Jesús el verdadero pastor	S	#
 Evangelio_de_Juan	10:10b	#	157:6.2/#	Vida más abundante	C	#
 Evangelio_de_Juan	10:11,14	#	128:1.10/#	Verdadero Pastor	C	#
-Evangelio_de_Juan	10:11-16	#	182:1.10/#	I am the good shepherd	S	PROBLEM
+Evangelio_de_Juan	10:11-16	#	182:1.10/#	Yo soy el buen pastor	S	#
 Evangelio_de_Juan	10:14	#	1:5.8/#	Conocer y ser conocido	R	#
 Evangelio_de_Juan	10:15	#	44:4.3/#	Conocemos como somos conocidos	R	#
 Evangelio_de_Juan	10:15	#	169:4.2/#	Sólo el Hijo conoce al Padre	S	#
@@ -949,9 +949,9 @@ Evangelio_de_Juan	10:28	#	162:2.7/#	Vida eterna	S	#
 Evangelio_de_Juan	10:28	#	128:1.10/#	Dador de la vida eterna	C	#
 Evangelio_de_Juan	10:28	#	170:2.2/#	La esperanza de la vida eterna	S	#
 Evangelio_de_Juan	10:28	#	181:2.11/#	La vida eterna en el reino venidero	C	#
-Evangelio_de_Juan	10:28-29	#	182:1.10/#	I am the reality of endless life	S	PROBLEM
+Evangelio_de_Juan	10:28-29	#	182:1.10/#	Yo soy la realidad de la vida sin fin	S	#
 Evangelio_de_Juan	10:29	#	3:5.4/#	Mi Padre me los ha dado	R	#
-Evangelio_de_Juan	10:30	#	182:1.10/#	I am the Infinite Father of children	S	PROBLEM
+Evangelio_de_Juan	10:30	#	182:1.10/#	Yo soy el Padre Infinito de sus hijos	S	#
 Evangelio_de_Juan	10:30	#	120:4.3/#	Jesús, Dios y hombre	C	#
 Evangelio_de_Juan	10:30,38	#	161:1.8/#	Jesús y el Padre son uno	C	#
 Evangelio_de_Juan	10:30,38	#	169:4.2/#	Jesús y el Padre son uno solo	S	#
@@ -1005,7 +1005,7 @@ Evangelio_de_Juan	11:20-24	#	168:0.6/#	«Lázaro resucitará»	S	#
 Evangelio_de_Juan	11:24-26	#	49:6.1/#	Liberación de la carne	C	#
 Evangelio_de_Juan	11:24-26	#	47:3.1/#	Resurrección	C	#
 Evangelio_de_Juan	11:25	#	171:3.5/#	La resurrección y la vida	R	#
-Evangelio_de_Juan	11:25	#	182:1.10/#	I am the resurrection & the life	S	PROBLEM
+Evangelio_de_Juan	11:25	#	182:1.10/#	Yo soy la resurección y la vida	S	#
 Evangelio_de_Juan	11:25	#	168:1.15/#	La resurrección y la vida	R	#
 Evangelio_de_Juan	11:25	#	168:2.7/#	La resurrección y la vida	R	#
 Evangelio_de_Juan	11:25	#	193:1.2/#	Soy la resurrección y la vida	S	#
@@ -1096,7 +1096,7 @@ Evangelio_de_Juan	12:3-5	#	172:1.5/#	La unción de Jesús por una mujer	S	#
 Evangelio_de_Juan	12:6	#	138:10.10/#	Judas llevaba la bolsa	S	#
 Evangelio_de_Juan	12:7-8	#	172:1.6/#	Jesús defiende a María	S	#
 Evangelio_de_Juan	12:9	#	172:0.3/#	Mucha gente para ver a Jesús	S	#
-Evangelio_de_Juan	12:10-11	#	172:1.9/#	Plot death of Lazarus	S	PROBLEM
+Evangelio_de_Juan	12:10-11	#	172:1.9/#	Complot para matar a Lázaro	S	#
 Evangelio_de_Juan	12:12-13	#	127:5.6/#	Entrada triunfal	S	#
 Evangelio_de_Juan	12:12-14a	#	172:3.9/#	Entrada triunfal en Jerusalén	S	#
 Evangelio_de_Juan	12:14b-15	#	172:3.4/#	Planificando la entrada en Jerusalén	S	#
@@ -1126,7 +1126,7 @@ Evangelio_de_Juan	12:25,50	#	121:5.11/#	Vida después de la muerte	C	#
 Evangelio_de_Juan	12:25,50	#	27:1.5/#	Vida eterna	C	#
 Evangelio_de_Juan	12:25,50	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
 Evangelio_de_Juan	12:25,50	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
-Evangelio_de_Juan	12:26	#	170:2.20/#	Father's service	S	PROBLEM
+Evangelio_de_Juan	12:26	#	170:2.20/#	El servicio del Padre	S	#
 Evangelio_de_Juan	12:26	#	196:0.13/#	La exigencia suprema: «Sígueme»	S	#
 Evangelio_de_Juan	12:27-28a	#	174:5.9/#	Más declaraciones	S	#
 Evangelio_de_Juan	12:28b	#	174:5.10/#	Confirmación celestial	S	#
@@ -1158,7 +1158,7 @@ Evangelio_de_Juan	12:32,34	#	162:5.4/#	El Hijo será elevado	S	#
 Evangelio_de_Juan	12:34-36a	#	174:5.13/#	Jesús advierte de que queda poco tiempo	S	#
 Evangelio_de_Juan	12:35-36	#	162:5.2/#	Jesús es la luz del mundo	S	#
 Evangelio_de_Juan	12:35-36,46	#	52:1.7/#	Iluminados por la verdadera luz	R	#
-Evangelio_de_Juan	12:35-36,46	#	40:5.16/#	True light+	C	PROBLEM
+Evangelio_de_Juan	12:35-36,46	#	40:5.16/#	Luz verdadera	C	#
 Evangelio_de_Juan	12:35-36,46	#	45:4.4/#	La Gran Luz	R	#
 Evangelio_de_Juan	12:36	#	147:7.2/#	Hijos de la luz	C	#
 Evangelio_de_Juan	12:36	#	120:2.2/#	«Hijos de la luz»	C	#
@@ -1169,7 +1169,7 @@ Evangelio_de_Juan	12:36	#	193:0.3/#	Hijos de la luz	C	#
 Evangelio_de_Juan	12:36	#	178:3.4/#	Los hijos de la luz	S	#
 Evangelio_de_Juan	12:36	#	191:4.3/#	Luz en las tinieblas espirituales	S	#
 Evangelio_de_Juan	12:36b	#	174:5.14/#	Jesús se retira	S	#
-Evangelio_de_Juan	12:37-43	#	174:5.3/#	Jesus' response	S	PROBLEM
+Evangelio_de_Juan	12:37-43	#	174:5.3/#	La respuesta de Jesús	S	#
 Evangelio_de_Juan	12:38	#	122:4.4/#	Profecía mesiánica: Is 53:1	R	#
 Evangelio_de_Juan	12:39-40	#	122:4.4/#	Profecía mesiánica: Is 6:9-10	R	#
 Evangelio_de_Juan	12:40	#	151:1.4/#	Verán sin ver, etc.	S	#
@@ -1184,7 +1184,7 @@ Evangelio_de_Juan	12:44-45	#	153:2.11/#	El Padre y yo somos uno	C	#
 Evangelio_de_Juan	12:44-45	#	161:2.9/#	Jesús y el Padre son uno	S	#
 Evangelio_de_Juan	12:44-45	#	1:5.6/#	El Padre y el Hijo son uno	C	#
 Evangelio_de_Juan	12:44-45	#	169:0.5/#	Blasfemo: dice ser igual a Dios	S	#
-Evangelio_de_Juan	12:44-46	#	170:2.20/#	Fellowship of believers	S	PROBLEM
+Evangelio_de_Juan	12:44-46	#	170:2.20/#	La hermandad de los creyentes	S	#
 Evangelio_de_Juan	12:44-50	#	174:5.7/#	Declaración de Jesús para el mundo	S	#
 Evangelio_de_Juan	12:45	#	6:8.3/#	El Padre y el Hijo son uno	C	#
 Evangelio_de_Juan	12:45	#	20:6.5/#	Aquel que ha visto al Hijo ha visto al Padre	R	#
@@ -1240,7 +1240,7 @@ Evangelio_de_Juan	13:33	#	180:0.3/#	Me buscaréis y no me encontraréis	S	#
 Evangelio_de_Juan	13:33	#	180:4.5/#	Debo irme pronto	S	#
 Evangelio_de_Juan	13:34	#	191:4.3/#	Amar a todos los hombres como Él nos ama	S	#
 Evangelio_de_Juan	13:34	#	180:6.1/#	Guardad mi nuevo mandamiento	S	#
-Evangelio_de_Juan	13:34-35	#	196:3.16/#	Religion of LOVE+	C	PROBLEM
+Evangelio_de_Juan	13:34-35	#	196:3.16/#	Una religión de AMOR	C	#
 Evangelio_de_Juan	13:34-35	#	103:5.2/#	Amar a los semejantes	C	#
 Evangelio_de_Juan	13:34-35	#	143:1.6/#	Dios de amor	C	#
 Evangelio_de_Juan	13:34-35	#	156:5.11/#	El amor divino	C	#
@@ -1276,7 +1276,7 @@ Evangelio_de_Juan	14:1a,27b	#	181:1.9/#	Que vuestro corazón no se perturbe	R	#
 Evangelio_de_Juan	14:2	#	180:6.3/#	Muchas mansiones	S	#
 Evangelio_de_Juan	14:2	#	133:4.9/#	Muchas mansiones	C	#
 Evangelio_de_Juan	14:2	#	178:3.4/#	Hay muchas moradas en la casa del Padre	S	#
-Evangelio_de_Juan	14:2	#	30:4.10/#	Many mansions	R	PROBLEM
+Evangelio_de_Juan	14:2	#	30:4.10/#	Muchas moradas	R	#
 Evangelio_de_Juan	14:2	#	167:7.2/#	Las mansiones de las alturas	C	#
 Evangelio_de_Juan	14:2	#	167:7.6/#	Mansiones del Cielo	S	#
 Evangelio_de_Juan	14:2	#	47:0.1/#	Numerosas mansiones en el universo	R	#
@@ -1298,10 +1298,10 @@ Evangelio_de_Juan	14:5	#	180:3.6/#	«Muéstranos el camino»	S	#
 Evangelio_de_Juan	14:6	#	129:4.7/#	Nuevo camino viviente	C	#
 Evangelio_de_Juan	14:6	#	166:3.7/#	Yo soy el camino nuevo y viviente	S	#
 Evangelio_de_Juan	14:6	#	162:2.7/#	Jesús: el nuevo camino viviente	C	#
-Evangelio_de_Juan	14:6	#	182:1.10/#	I am the Way, Truth & Life	S	PROBLEM
+Evangelio_de_Juan	14:6	#	182:1.10/#	Yo soy el Camino, la Verdad y la Vida	S	#
 Evangelio_de_Juan	14:6	#	180:3.7/#	«Yo soy el camino»	S	#
 Evangelio_de_Juan	14:6	#	141:7.4/#	Jesús es el camino, la verdad y la vida	R	#
-Evangelio_de_Juan	14:6	#	101:6.10/#	New and living way	C	PROBLEM
+Evangelio_de_Juan	14:6	#	101:6.10/#	El nuevo camino viviente	C	#
 Evangelio_de_Juan	14:6	#	52:5.5/#	Nuevo camino viviente	R	#
 Evangelio_de_Juan	14:6	#	52:5.4/#	Nuevo camino viviente	R	#
 Evangelio_de_Juan	14:6	#	79:8.4/#	Verdad Única	R	#
@@ -1314,7 +1314,7 @@ Evangelio_de_Juan	14:6	#	196:2.4/#	Jesús el nuevo camino viviente	S	#
 Evangelio_de_Juan	14:6	#	117:3.3/#	Yo soy el camino viviente	R	#
 Evangelio_de_Juan	14:6	#	45:4.8/#	Verdad única	R	#
 Evangelio_de_Juan	14:6	#	64:6.15/#	Verdad Única	R	#
-Evangelio_de_Juan	14:6	#	7:7.3/#	Los Hijos son el "camino"	R	#
+Evangelio_de_Juan	14:6	#	7:7.3/#	Los Hijos son el «camino»	R	#
 Evangelio_de_Juan	14:6-11,20	#	20:10.3/#	Los Hijos Creadores revelan al Padre	C	#
 Evangelio_de_Juan	14:6-11,20	#	8:3.7/#	El Hijo: el único camino	C	#
 Evangelio_de_Juan	14:6-11,20	#	169:4.2/#	El Padre revelado por el Hijo	S	#
@@ -1414,7 +1414,7 @@ Evangelio_de_Juan	14:21-24	#	141:2.2/#	Cuando la voluntad del Padre se convierta
 Evangelio_de_Juan	14:21-24	#	196:0.2/#	Hacer la voluntad del Padre de los cielos	R	#
 Evangelio_de_Juan	14:21-24	#	118:8.11/#	Es mi voluntad que se haga tu voluntad	R	#
 Evangelio_de_Juan	14:21-24	#	140:8.20/#	Haced voluntariamente la «voluntad» de Dios	C	#
-Evangelio_de_Juan	14:21-24	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
+Evangelio_de_Juan	14:21-24	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
 Evangelio_de_Juan	14:21-24	#	117:0.1/#	Hacer la voluntad de Dios	C	#
 Evangelio_de_Juan	14:21-24	#	131:10.2/#	Viviendo su voluntad podemos revelarlo	C	#
 Evangelio_de_Juan	14:21-24	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
@@ -1452,7 +1452,7 @@ Evangelio_de_Juan	14:30	#	53:8.5/#	Príncipe de este mundo	C	#
 Evangelio_de_Juan	14:30	#	51:3.9/#	Antiguo Príncipe Planetario	C	#
 Evangelio_de_Juan	14:30	#	53:1.4/#	El demonio, antiguo Príncipe de este mundo	C	#
 Evangelio_de_Juan	14:30	#	66:1.1/#	El Príncipe Caligastia	C	#
-Evangelio_de_Juan	15:1,5	#	182:1.10/#	I am the vine, you are branches	S	PROBLEM
+Evangelio_de_Juan	15:1,5	#	182:1.10/#	Yo soy la vid, vosotros los sarmientos	S	#
 Evangelio_de_Juan	15:1-5	#	180:2.5/#	El sarmiento sólo existe para producir frutos	S	#
 Evangelio_de_Juan	15:1-5	#	180:2.1/#	La verdadera vid y los verdaderos sarmientos	S	#
 Evangelio_de_Juan	15:2	#	135:6.7/#	Dar buen fruto	R	#
@@ -1486,7 +1486,7 @@ Evangelio_de_Juan	15:4-7	#	131:10.4/#	Vivimos en Dios	S	#
 Evangelio_de_Juan	15:7	#	131:10.5/#	Pide y se te dará	C	#
 Evangelio_de_Juan	15:7,16	#	146:2.7/#	Cuándo son contestadas las súplicas	C	#
 Evangelio_de_Juan	15:7,16b	#	180:2.4/#	Error relativo a la «oración»	S	#
-Evangelio_de_Juan	15:7-8,16	#	140:4.7/#	Requirement to bear good fruit	C	PROBLEM
+Evangelio_de_Juan	15:7-8,16	#	140:4.7/#	Necesidad de dar buen fruto	C	#
 Evangelio_de_Juan	15:7-8,16	#	140:3.19/#	Requerimientos para dar buenos frutos	C	#
 Evangelio_de_Juan	15:7-8,16	#	193:2.2/#	Se pide que produzcáis muchos frutos	S	#
 Evangelio_de_Juan	15:7-9	#	180:2.1/#	Los discípulos producen frutos	S	#
@@ -1528,7 +1528,7 @@ Evangelio_de_Juan	15:10,14-16	#	196:0.8/#	La voluntad de Dios	R	#
 Evangelio_de_Juan	15:10,14-16	#	195:6.16/#	Hacer la voluntad del Padre	R	#
 Evangelio_de_Juan	15:10,14-16	#	140:8.20/#	Haced voluntariamente la «voluntad» de Dios	C	#
 Evangelio_de_Juan	15:10,14-16	#	131:10.2/#	Viviendo su voluntad podemos revelarlo	C	#
-Evangelio_de_Juan	15:10,14-16	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
+Evangelio_de_Juan	15:10,14-16	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
 Evangelio_de_Juan	15:10-11	#	131:10.5/#	Las alegrías del cielo	C	#
 Evangelio_de_Juan	15:11	#	180:1.2/#	No os coloco nueva carga, sino un nuevo placer	S	#
 Evangelio_de_Juan	15:11	#	139:6.5/#	He venido a traer gozo	C	#
@@ -1539,7 +1539,7 @@ Evangelio_de_Juan	15:12	#	193:0.5/#	Ama como Jesús te ama	S	#
 Evangelio_de_Juan	15:12	#	180:6.1/#	Guardad mi nuevo mandamiento	S	#
 Evangelio_de_Juan	15:12,17	#	181:2.30/#	Amaros como yo os he amado	S	#
 Evangelio_de_Juan	15:12,17	#	182:1.6/#	Amaos los unos a los otros como yo os he amado	S	#
-Evangelio_de_Juan	15:12,17	#	196:3.16/#	Religion of LOVE+	C	PROBLEM
+Evangelio_de_Juan	15:12,17	#	196:3.16/#	Una religión de AMOR	C	#
 Evangelio_de_Juan	15:12,17	#	103:5.2/#	Amar a los semejantes	C	#
 Evangelio_de_Juan	15:12,17	#	180:4.5/#	El nuevo mandamiento	S	#
 Evangelio_de_Juan	15:12,17	#	180:1.3/#	Amaos unos a otros como yo os he amado	S	#
@@ -1553,7 +1553,7 @@ Evangelio_de_Juan	15:12,17	#	181:2.4/#	Amarse uno a otro	S	#
 Evangelio_de_Juan	15:12-15	#	180:1.3/#	No hay amor mayor	S	#
 Evangelio_de_Juan	15:13	#	188:5.7/#	No hay amor más grande	S	#
 Evangelio_de_Juan	15:13	#	140:5.21/#	No existe un amor más grande	R	#
-Evangelio_de_Juan	15:13-15	#	170:2.20/#	Friends of God	S	PROBLEM
+Evangelio_de_Juan	15:13-15	#	170:2.20/#	Amigos de Dios	S	#
 Evangelio_de_Juan	15:14	#	159:5.8/#	Jesús enseña la acción positiva	C	#
 Evangelio_de_Juan	15:14-15	#	137:7.2/#	Amigos de Dios	C	#
 Evangelio_de_Juan	15:14-15	#	1:5.8/#	La amistad de Dios	C	#
@@ -1644,7 +1644,7 @@ Evangelio_de_Juan	16:25	#	16:9.6/#	Jesús reveló Dios al hombre	C	#
 Evangelio_de_Juan	16:25	#	20:10.3/#	Los Hijos Creadores revelan al Padre	C	#
 Evangelio_de_Juan	16:25	#	169:4.2/#	El Padre revelado por el Hijo	S	#
 Evangelio_de_Juan	16:27	#	2:5.2/#	El Padre te ama	R	#
-Evangelio_de_Juan	16:27	#	114:7.14/#	Father himself loves you	R	PROBLEM
+Evangelio_de_Juan	16:27	#	114:7.14/#	El Padre mismo te ama	R	#
 Evangelio_de_Juan	16:27	#	143:1.4/#	Dios gobierna mediante el amor	C	#
 Evangelio_de_Juan	16:27	#	195:10.4/#	Dios es un espíritu amoroso	C	#
 Evangelio_de_Juan	16:27	#	143:1.6/#	Dios de amor	C	#
@@ -1680,7 +1680,7 @@ Evangelio_de_Juan	17:2-3	#	2:2.1/#	Vida eterna	C	#
 Evangelio_de_Juan	17:2-3	#	170:2.2/#	La esperanza de la vida eterna	S	#
 Evangelio_de_Juan	17:2-3	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
 Evangelio_de_Juan	17:2-3	#	121:5.11/#	Vida después de la muerte	C	#
-Evangelio_de_Juan	17:2-3	#	182:1.10/#	I am the reality of endless life	S	PROBLEM
+Evangelio_de_Juan	17:2-3	#	182:1.10/#	Yo soy la realidad de la vida sin fin	S	#
 Evangelio_de_Juan	17:2-3	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
 Evangelio_de_Juan	17:2-3	#	146:3.7/#	Quien siga al espíritu vivirá para siempre	C	#
 Evangelio_de_Juan	17:2-3	#	146:3.7/#	Quien siga al espíritu vivirá para siempre	C	#
@@ -1708,10 +1708,10 @@ Evangelio_de_Juan	17:4	#	174:0.2/#	Capaz de finalizar mi obra	S	#
 Evangelio_de_Juan	17:4	#	120:2.1/#	Jesús vive sometido a la voluntad del Padre	C	#
 Evangelio_de_Juan	17:4	#	136:10.1/#	Someterse a la voluntad del Padre	R	#
 Evangelio_de_Juan	17:4	#	120:2.8/#	Jesús dedicado a vivir la voluntad del Padre	C	#
-Evangelio_de_Juan	17:4	#	170:2.20/#	Jesus taught "Father's will"+	C	PROBLEM
+Evangelio_de_Juan	17:4	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
 Evangelio_de_Juan	17:4	#	141:7.11/#	Jesús vivió la voluntad del Padre	C	#
 Evangelio_de_Juan	17:4	#	128:7.2/#	Sometido a la voluntad de mi Padre	R	#
-Evangelio_de_Juan	17:4	#	143:6.1/#	"Meat" to do will of Father, "work"	C	PROBLEM
+Evangelio_de_Juan	17:4	#	143:6.1/#	Hacer la voluntad del Padre, «trabajar»	C	#
 Evangelio_de_Juan	17:4	#	196:0.10/#	Jesús hizo la voluntad del Padre	C	#
 Evangelio_de_Juan	17:4	#	117:0.1/#	Hacer la voluntad de Dios	C	#
 Evangelio_de_Juan	17:4	#	118:8.11/#	Es mi voluntad que se haga tu voluntad	R	#
@@ -1774,7 +1774,7 @@ Evangelio_de_Juan	17:18	#	191:6.3/#	Así os envío yo	C	#
 Evangelio_de_Juan	17:18	#	165:6.3/#	El gran encargo	C	#
 Evangelio_de_Juan	17:18	#	191:5.3/#	La gran asignación	C	#
 Evangelio_de_Juan	17:18	#	178:1.14/#	El gran encargo	C	#
-Evangelio_de_Juan	17:20-21	#	182:1.10/#	I am the Infinite Father of children	S	PROBLEM
+Evangelio_de_Juan	17:20-21	#	182:1.10/#	Yo soy el Padre Infinito de sus hijos	S	#
 Evangelio_de_Juan	17:20-26	#	182:1.6/#	Oración: parte 5	S	#
 Evangelio_de_Juan	17:21	#	141:5.1/#	Armonía apostólica	C	#
 Evangelio_de_Juan	17:21	#	180:4.2/#	El Padre está en el Hijo y el Hijo en nosotros	S	#
@@ -1841,7 +1841,7 @@ Evangelio_de_Juan	17:24	#	180:3.5/#	Estaréis conmigo	S	#
 Evangelio_de_Juan	18:1	#	183:0.3/#	El lugar de la traición	S	#
 Evangelio_de_Juan	18:2	#	183:2.3/#	Judas conocía los lugares donde iba Jesús	S	#
 Evangelio_de_Juan	18:2-5	#	139:12.12/#	La traición de Judas	C	#
-Evangelio_de_Juan	18:3	#	183:2.4/#	Judas leads armed band	S	PROBLEM
+Evangelio_de_Juan	18:3	#	183:2.4/#	Judas conduce a la tropa armada	S	#
 Evangelio_de_Juan	18:4-6	#	183:3.4/#	¿A quién buscáis? Soy yo.	S	#
 Evangelio_de_Juan	18:7-8	#	183:3.6/#	«Dejad que estos otros se vayan»	S	#
 Evangelio_de_Juan	18:10	#	183:3.7/#	El ataque a Malco	S	#
@@ -1853,7 +1853,7 @@ Evangelio_de_Juan	18:12	#	183:3.8/#	Jesús atado y escoltado	S	#
 Evangelio_de_Juan	18:13	#	183:5.1/#	Jesús llevado ante Anás	S	#
 Evangelio_de_Juan	18:14	#	168:3.6/#	Es mejor que sólo muera un hombre	S	#
 Evangelio_de_Juan	18:15	#	183:5.4/#	Se permite a Juan quedarse	S	#
-Evangelio_de_Juan	18:15-16	#	184:2.1/#	Peter enters courtyard	S	PROBLEM
+Evangelio_de_Juan	18:15-16	#	184:2.1/#	Pedro entra en el patio	S	#
 Evangelio_de_Juan	18:15a	#	183:3.10/#	Pedro los sigue en la distancia	S	#
 Evangelio_de_Juan	18:15b	#	183:3.10/#	Juan sigue a Jesús de cerca	S	#
 Evangelio_de_Juan	18:17	#	184:2.4/#	Primera negación	S	#
@@ -1863,9 +1863,9 @@ Evangelio_de_Juan	18:18	#	184:2.2/#	Pedro calentándose	S	#
 Evangelio_de_Juan	18:19-23	#	184:1.6/#	Interrogatorio antes Anás	S	#
 Evangelio_de_Juan	18:24	#	184:1.9/#	Jesús llevado ante Caifás	S	#
 Evangelio_de_Juan	18:25	#	184:2.5/#	Segunda negación	S	#
-Evangelio_de_Juan	18:26-27a	#	184:2.7/#	3rd denial	S	PROBLEM
+Evangelio_de_Juan	18:26-27a	#	184:2.7/#	Tercera negación	S	#
 Evangelio_de_Juan	18:27b	#	184:2.8/#	El gallo cantó	S	#
-Evangelio_de_Juan	18:28a	#	184:5.8/#	Jesus led to Pilate	S	PROBLEM
+Evangelio_de_Juan	18:28a	#	184:5.8/#	Jesús conducido ante Pilato	S	#
 Evangelio_de_Juan	18:28b	#	185:0.3/#	Juicio en los exteriores	S	#
 Evangelio_de_Juan	18:29-30	#	185:2.1/#	Pilatos solicita las acusaciones	S	#
 Evangelio_de_Juan	18:31a	#	185:2.2/#	Pilatos: ¿Por qué no lo juzgáis vosotros?	S	#
@@ -1914,7 +1914,7 @@ Evangelio_de_Juan	19:16b	#	187:0.4/#	La hora a la que Jesús fue llevado	S	#
 Evangelio_de_Juan	19:16b-17	#	187:1.1/#	Porteamiento de la cruz	S	#
 Evangelio_de_Juan	19:17	#	187:1.11/#	Lugar de la crucifixión	S	#
 Evangelio_de_Juan	19:18	#	187:0.2/#	Jesús crucificado con dos ladrones	S	#
-Evangelio_de_Juan	19:18	#	186:4.3/#	Two malefactors	S	PROBLEM
+Evangelio_de_Juan	19:18	#	186:4.3/#	Los dos bandidos	S	#
 Evangelio_de_Juan	19:18a	#	187:2.1/#	La crucifixión	S	#
 Evangelio_de_Juan	19:18b	#	187:2.4/#	Los dos bandidos	S	#
 Evangelio_de_Juan	19:19-20	#	187:1.2/#	El letrero: el rey de los judíos	S	#
@@ -1932,8 +1932,8 @@ Evangelio_de_Juan	19:26-27	#	183:5.4/#	Se permite a Juan quedarse	S	#
 Evangelio_de_Juan	19:26-27	#	181:2.2/#	Juan asignado a ayudar a la familia	S	#
 Evangelio_de_Juan	19:26-27	#	187:4.7/#	María puesta al cuidado de Juan	S	#
 Evangelio_de_Juan	19:28-30a	#	187:5.3/#	De nuevo «Tengo sed»	S	#
-Evangelio_de_Juan	19:30	#	143:6.1/#	"Meat" to do will of Father, "work"	C	PROBLEM
-Evangelio_de_Juan	19:30	#	187:5.5/#	Jesus dies on cross	S	PROBLEM
+Evangelio_de_Juan	19:30	#	143:6.1/#	Hacer la voluntad del Padre, «trabajar»	C	#
+Evangelio_de_Juan	19:30	#	187:5.5/#	Jesús muere en la cruz	S	#
 Evangelio_de_Juan	19:30	#	86:5.2/#	Entregar el alma	R	#
 Evangelio_de_Juan	19:30	#	21:4.5/#	Todo se ha consumado	R	#
 Evangelio_de_Juan	19:30	#	178:3.4/#	Jesús ha terminado el trabajo del Padre	S	#
@@ -1988,7 +1988,7 @@ Evangelio_de_Juan	20:21	#	193:3.2/#	Como el Padre me envió, así os envío	S	#
 Evangelio_de_Juan	20:21a	#	191:5.3/#	La paz sea con vosotros	S	#
 Evangelio_de_Juan	20:21b	#	191:5.3/#	Así os envío yo	S	#
 Evangelio_de_Juan	20:21b	#	191:6.3/#	Así os envío yo	S	#
-Evangelio_de_Juan	20:22	#	86:5.9/#	Breath & spirit	C	PROBLEM
+Evangelio_de_Juan	20:22	#	86:5.9/#	Aliento y espíritu	C	#
 Evangelio_de_Juan	20:23	#	157:4.5/#	Las llaves del reino exterior	C	#
 Evangelio_de_Juan	20:24	#	191:0.13/#	La ausencia de Tomás	C	#
 Evangelio_de_Juan	20:24	#	191:2.1/#	Tomás ausente	S	#
@@ -1998,15 +1998,15 @@ Evangelio_de_Juan	20:27	#	191:5.4/#	Jesús se dirige a Tomás	S	#
 Evangelio_de_Juan	20:28	#	128:1.10/#	Nuestro Señor y nuestro Dios	C	#
 Evangelio_de_Juan	20:28-29	#	191:5.5/#	Tomás a Jesús	S	#
 Evangelio_de_Juan	20:29	#	50:7.2/#	Agondontarios	C	#
-Evangelio_de_Juan	20:29	#	50:7.1/#	Agondonters	C	PROBLEM
+Evangelio_de_Juan	20:29	#	50:7.1/#	Agondontarios	C	#
 Evangelio_de_Juan	20:31	#	141:3.5/#	Evangelio del Hijo divino de Dios	C	#
 Evangelio_de_Juan	20:31	#	136:1.1/#	Jesús, Hijo de Dios	R	#
 Evangelio_de_Juan	20:31	#	157:5.1/#	Jesús, el Hijo de Dios	C	#
-Evangelio_de_Juan	20:32-34	#	187:5.8/#	No bones, spear pierces side	S	PROBLEM
+Evangelio_de_Juan	20:32-34	#	187:5.8/#	No quiebran sus huesos, la lanza le atraviesa	S	#
 Evangelio_de_Juan	21:1	#	181:2.27/#	Iré a Galilea	S	#
 Evangelio_de_Juan	21:1	#	192:1.1/#	Aparición en Galilea	S	#
 Evangelio_de_Juan	21:1-2	#	139:8.13/#	Acogió a Jesús en Galilea	S	#
-Evangelio_de_Juan	21:2	#	139:8.1/#	Thomas Didymus	C	PROBLEM
+Evangelio_de_Juan	21:2	#	139:8.1/#	Tomás Dídimo	C	#
 Evangelio_de_Juan	21:2	#	139:6.2/#	Vivió en Caná	S	#
 Evangelio_de_Juan	21:2-3	#	192:1.2/#	Los discípulos no capturaron ningún pez	S	#
 Evangelio_de_Juan	21:4	#	192:1.2/#	Ven a un hombre en la orilla junto a un fuego	S	#
@@ -2019,7 +2019,7 @@ Evangelio_de_Juan	21:11	#	192:1.7/#	Pedro llega a tierra; cuentan los peces	S	#
 Evangelio_de_Juan	21:12-13	#	192:1.8/#	Jesús sirve el desayuno	S	#
 Evangelio_de_Juan	21:14	#	192:1.9/#	Los apóstoles ven a Jesús por tercera vez	S	#
 Evangelio_de_Juan	21:15	#	192:2.2/#	Apacienta mis corderos	S	#
-Evangelio_de_Juan	21:15-17	#	170:2.20/#	Father's fold	S	PROBLEM
+Evangelio_de_Juan	21:15-17	#	170:2.20/#	Redil del Padre	S	#
 Evangelio_de_Juan	21:16	#	192:2.3/#	Cuida bien a mis ovejas	S	#
 Evangelio_de_Juan	21:17	#	192:2.4/#	Apacienta mis ovejas	S	#
 Evangelio_de_Juan	21:19	#	196:0.13/#	La exigencia suprema: «Sígueme»	S	#

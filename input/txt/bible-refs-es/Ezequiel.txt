@@ -1,5 +1,5 @@
-Ezequiel	1:4,13,	#	39:5.14/#	Luminosity	C	PROBLEM
-Ezequiel	1:4,14,22,27	#	39:5.14/#	Enshrouded by light	C	PROBLEM
+Ezequiel	1:4,13,	#	39:5.14/#	Luminosidad	C	#
+Ezequiel	1:4,14,22,27	#	39:5.14/#	Envuelto en luz	C	#
 Ezequiel	1:6,11,23	#	39:5.12/#	Escudos de fricción	C	#
 Ezequiel	1:12-14,19-24	#	39:5.14/#	Partida de un ángel	C	#
 Ezequiel	1:15-19	#	15:3.7/#	Revoluciones del universo	C	#

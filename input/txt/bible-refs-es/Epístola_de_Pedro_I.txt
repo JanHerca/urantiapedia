@@ -1,7 +1,7 @@
 Epístola_de_Pedro_I	1:3	#	194:3.11/#	Padre del Señor Jesucristo	C	#
 Epístola_de_Pedro_I	1:3	#	194:4.6/#	Padre del Señor Jesucristo	R	#
 Epístola_de_Pedro_I	1:3-4	#	165:3.8/#	Herencia espiritual	C	#
-Epístola_de_Pedro_I	1:4	#	101:6.10/#	Divine inheritance	C	PROBLEM
+Epístola_de_Pedro_I	1:4	#	101:6.10/#	Herencia divina	C	#
 Epístola_de_Pedro_I	1:8	#	131:10.6/#	Llena de alegría y felicidad	C	#
 Epístola_de_Pedro_I	1:9	#	137:8.17/#	La fe es el precio para entrar	C	#
 Epístola_de_Pedro_I	1:16	#	99:5.3/#	Sed perfectos	C	#
@@ -28,7 +28,7 @@ Epístola_de_Pedro_I	1:16	#	40:7.4/#	Sed perfectos	R	#
 Epístola_de_Pedro_I	1:16	#	37:5.3/#	Sed perfectos	R	#
 Epístola_de_Pedro_I	1:16	#	106:2.6/#	Sed perfectos	C	#
 Epístola_de_Pedro_I	1:16	#	131:2.6/#	Sé perfecto	R	#
-Epístola_de_Pedro_I	1:16	#	143:2.6/#	Buscad la perfección+	C	#
+Epístola_de_Pedro_I	1:16	#	143:2.6/#	Buscad la perfección	C	#
 Epístola_de_Pedro_I	1:16	#	161:1.10/#	Sed perfectos	C	#
 Epístola_de_Pedro_I	1:16	#	7:4.7/#	Sed perfectos	R	#
 Epístola_de_Pedro_I	1:18-19	#	89:9.3/#	Jesús visto como sacrificio humano	C	#
@@ -44,16 +44,16 @@ Epístola_de_Pedro_I	1:22	#	131:10.4/#	Todos los hombres son hermanos	C	#
 Epístola_de_Pedro_I	1:22	#	178:1.17/#	Amaros los unos a los otros	C	#
 Epístola_de_Pedro_I	1:22-23	#	111:2.10/#	Nacimiento del alma	C	#
 Epístola_de_Pedro_I	1:23	#	166:3.7/#	Debéis nacer de nuevo del espíritu	S	#
-Epístola_de_Pedro_I	1:23	#	70:7.11/#	New birth societies	R	PROBLEM
+Epístola_de_Pedro_I	1:23	#	70:7.11/#	Sociedad renacida	R	#
 Epístola_de_Pedro_I	1:23	#	155:6.3/#	La llamada de Jesús a nacer del espíritu	C	#
 Epístola_de_Pedro_I	1:23	#	140:6.2/#	Tenéis que renacer	C	#
 Epístola_de_Pedro_I	2:2	#	133:4.2/#	La leche de la verdad espiritual	R	#
 Epístola_de_Pedro_I	2:2	#	156:2.6/#	No continuar siendo niños en evangelio	C	#
 Epístola_de_Pedro_I	2:2	#	193:2.2/#	Crecer en el espíritu	S	#
 Epístola_de_Pedro_I	2:9	#	52:7.13/#	Una generación elegida	R	#
-Epístola_de_Pedro_I	2:13	#	0:2.12/#	Dios el Supremo+	C	#
+Epístola_de_Pedro_I	2:13	#	0:2.12/#	Dios el Supremo	C	#
 Epístola_de_Pedro_I	2:15-16	#	54:1.1/#	La verdadera y la falsa libertad	C	#
-Epístola_de_Pedro_I	2:17	#	170:2.20/#	Brotherhood of man	S	PROBLEM
+Epístola_de_Pedro_I	2:17	#	170:2.20/#	Hermandad de los hombres	S	#
 Epístola_de_Pedro_I	2:21-23	#	196:2.1/#	Los relatos de Pedro sobre la vida de Jesús	S	#
 Epístola_de_Pedro_I	2:23-24	#	143:2.1/#	El dominio de sí mismo de Jesús	C	#
 Epístola_de_Pedro_I	3:1-6	#	150:1.3/#	Visión de Pablo de las mujeres	C	#

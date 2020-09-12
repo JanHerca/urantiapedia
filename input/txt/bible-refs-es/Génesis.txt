@@ -24,7 +24,7 @@ Génesis	1:2	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	R	#
 Génesis	1:3	#	57:5.1/#	El sistema solar	C	#
 Génesis	1:3-5,14-18	#	74:8.2/#	El sol y la luna	C	#
 Génesis	1:6-10	#	57:7.7/#	Agua	C	#
-Génesis	1:9-10	#	57:8.1/#	Crustal stabilization	C	PROBLEM
+Génesis	1:9-10	#	57:8.1/#	Estabilización de la corteza	C	#
 Génesis	1:9-12,20-25	#	58:6.1/#	De la flora a la fauna	C	#
 Génesis	1:11-13,20-27	#	58:4.1/#	La era de los albores de la vida	C	#
 Génesis	1:14-15	#	41:3.1/#	Nuestros asociados estelares	C	#
@@ -40,7 +40,7 @@ Génesis	1:26-27	#	61:6.1/#	Hombre primitivo	C	#
 Génesis	1:26-27	#	108:6.3/#	Imagen de Dios	R	#
 Génesis	1:26-27	#	62:5.1/#	Primeros seres humanos	C	#
 Génesis	1:26-27	#	3:4.7/#	El hombre a imagen de Dios	C	#
-Génesis	1:26-27	#	74:7.6/#	Man made in God's image	R	PROBLEM
+Génesis	1:26-27	#	74:7.6/#	El hombre hecho a imagen de Dios	R	#
 Génesis	1:26-27	#	74:0.1/#	Creación del hombre	C	#
 Génesis	1:26-27	#	32:2.8/#	Hombre a imagen de Dios	C	#
 Génesis	1:26-27	#	1:3.1/#	A imagen de Dios	R	#
@@ -104,7 +104,7 @@ Génesis	2:19-23	#	51:3.9/#	Adán	C	#
 Génesis	2:21-23	#	74:8.3/#	Eva de una costilla de Adán	C	#
 Génesis	2:24	#	167:5.7/#	Se volverán como uno solo	C	#
 Génesis	3:1-5	#	88:1.5/#	Serpientes, portavoces de los espíritus malignos	C	#
-Génesis	3:1-5	#	73:6.5/#	Eat fruit, become as gods	R	PROBLEM
+Génesis	3:1-5	#	73:6.5/#	Si coméis la fruta, seréis dioses	R	#
 Génesis	3:1-5	#	75:4.5/#	La advertencia	C	#
 Génesis	3:1-19	#	89:2.3/#	La caída de la humanidad	C	#
 Génesis	3:1a	#	75:3.6/#	El ardiz de Caligastia	C	#
@@ -154,7 +154,7 @@ Génesis	4:2-5	#	81:1.4/#	Ofrendas pastoriles preferidas	C	#
 Génesis	4:3-5	#	76:2.2/#	Ofrendas	C	#
 Génesis	4:7	#	131:2.8/#	Si no hacéis el bien, es porque el pecado está en la puerta	R	#
 Génesis	4:8	#	76:2.5/#	Caín mata a Abel	C	#
-Génesis	4:10	#	86:5.11/#	Soul crying from Abel's blood	R	PROBLEM
+Génesis	4:10	#	86:5.11/#	Alma llorando de la sangre de Abel	R	#
 Génesis	4:13-15	#	76:2.8/#	Ninguna marca tribal	C	#
 Génesis	4:14-15	#	68:1.2/#	Marca de Caín	C	#
 Génesis	4:15	#	76:2.8/#	Marca de la tribu de Adán	C	#
@@ -175,7 +175,7 @@ Génesis	5:1-2	#	131:10.6/#	El Creador	C	#
 Génesis	5:1-2	#	142:3.7/#	Creador Universal	C	#
 Génesis	5:1-2	#	95:5.9/#	Dios como creador de todo	C	#
 Génesis	5:1-2	#	131:2.2/#	Dios creó al hombre y la mujer	C	#
-Génesis	5:1-2	#	0:2.9/#	God as Creator of man, woman+	C	PROBLEM
+Génesis	5:1-2	#	0:2.9/#	Dios como Creador del hombre, la mujer	C	#
 Génesis	5:3	#	76:3.4/#	Nacimiento de Set	C	#
 Génesis	5:3-32	#	74:8.10/#	Linaje judío	C	#
 Génesis	5:3-32	#	78:7.3/#	Genealogías judías	C	#
@@ -185,7 +185,7 @@ Génesis	5:6	#	76:3.4/#	Enós	C	#
 Génesis	5:9	#	76:3.4/#	Cainán	C	#
 Génesis	5:17,20,23,27	#	77:2.11/#	Longitud de la vida	C	#
 Génesis	5:24	#	45:4.13/#	El traslado de Enoc	C	#
-Génesis	5:24	#	55:2.1/#	Translation to morontia status	C	PROBLEM
+Génesis	5:24	#	55:2.1/#	Traslado al estado de morontia	C	#
 Génesis	5:31	#	77:2.11/#	Longitud de la vida	C	#
 Génesis	6:1-2	#	148:4.7/#	Los hijos de Dios tomaron esposas	S	#
 Génesis	6:2	#	77:4.5/#	Los adamitas se casan con los noditas	C	#
@@ -216,7 +216,7 @@ Génesis	8:21	#	89:4.3/#	Aroma agradable para el olfato de Dios	C	#
 Génesis	9:6	#	1:3.1/#	A imagen de Dios	R	#
 Génesis	9:6	#	3:4.7/#	El hombre a imagen de Dios	C	#
 Génesis	9:6	#	32:2.8/#	Hombre a imagen de Dios	C	#
-Génesis	9:6	#	74:7.6/#	Sheds blood, bood is shed	R	PROBLEM
+Génesis	9:6	#	74:7.6/#	Quien derrame sangre, se derramará la suya	R	#
 Génesis	9:6	#	108:6.3/#	Imagen de Dios	R	#
 Génesis	9:6	#	117:3.5/#	El hombre hecho a imagen de Dios	C	#
 Génesis	9:9,11	#	89:8.4/#	La alianza reemplaza al miedo	C	#
@@ -224,7 +224,7 @@ Génesis	9:9-17	#	85:4.2/#	Arco iris, arco de la promesa	C	#
 Génesis	9:29	#	77:2.11/#	Longitud de la vida	C	#
 Génesis	10:1-32	#	74:8.10/#	Linaje judío	C	#
 Génesis	10:1-32	#	78:7.3/#	Genealogías judías	C	#
-Génesis	11:1-9	#	77:3.1/#	Tower of Babel	C	PROBLEM
+Génesis	11:1-9	#	77:3.1/#	Torre de Babel	C	#
 Génesis	11:1-9	#	81:6.18/#	Una lengua	C	#
 Génesis	11:10-26	#	77:2.11/#	Longitud de la vida	C	#
 Génesis	11:10-26	#	74:8.10/#	Linaje judío	C	#
@@ -301,7 +301,7 @@ Génesis	17:1	#	181:1.2/#	Convertirse en perfectos espiritualmente	C	#
 Génesis	17:1	#	142:3.5/#	El Shaddai, Deidad creadora	S	#
 Génesis	17:1	#	107:0.3/#	Sed perfectos	C	#
 Génesis	17:1	#	140:4.11/#	Sed perfectos	C	#
-Génesis	17:1	#	143:2.6/#	Buscad la perfección+	C	#
+Génesis	17:1	#	143:2.6/#	Buscad la perfección	C	#
 Génesis	17:1	#	142:7.13/#	Sed perfectos	C	#
 Génesis	17:1	#	7:5.1/#	Sed perfectos	R	#
 Génesis	17:1	#	131:10.6/#	El Todopoderoso	C	#
@@ -349,7 +349,7 @@ Génesis	19:37-38	#	70:6.2/#	Padre de su pueblo	R	#
 Génesis	20:1	#	93:9.2/#	Viaje al sur	C	#
 Génesis	20:2	#	93:9.3/#	Sara tomada por Abimélek	C	#
 Génesis	20:2-14	#	93:9.3/#	Abraham muestra cobardía	C	#
-Génesis	20:3	#	86:5.7/#	Dios "habla" en sueños	C	#
+Génesis	20:3	#	86:5.7/#	Dios «habla» en sueños	C	#
 Génesis	20:11	#	92:1.5/#	Dios es un gran temor	R	#
 Génesis	20:12	#	82:5.4/#	La hermana y mujer de Abraham	C	#
 Génesis	21:1-8	#	93:9.8/#	Nacimiento milagroso de Isaac	C	#
@@ -390,19 +390,19 @@ Génesis	28:3	#	142:3.5/#	El Shaddai, Deidad creadora	S	#
 Génesis	28:3	#	131:10.6/#	El Todopoderoso	C	#
 Génesis	28:3	#	96:1.5/#	El Shaddai	C	#
 Génesis	28:12	#	167:7.4/#	Los ángeles subiendo y bajando	C	#
-Génesis	28:12-16	#	86:5.7/#	Dios "habla" en sueños	C	#
+Génesis	28:12-16	#	86:5.7/#	Dios «habla» en sueños	C	#
 Génesis	28:14	#	190:5.4/#	Todas las familias serán benditas	R	#
 Génesis	28:18	#	85:1.1/#	Piedra de Jacob	C	#
 Génesis	28:22	#	93:3.1/#	Sistema del diezmo	C	#
 Génesis	28:22	#	88:2.3/#	Piedra levantada como un pilar	R	#
 Génesis	29:18-20	#	83:3.2/#	Comprar esposas	C	#
 Génesis	29:18-20	#	82:3.4/#	La mujer como propiedad	C	#
-Génesis	31:13	#	87:6.9/#	Sacred vows and oaths+	C	PROBLEM
+Génesis	31:13	#	87:6.9/#	Votos y juramentos sagrados	C	#
 Génesis	31:13	#	96:1.7/#	El	C	#
 Génesis	31:19,30-35	#	85:1.1/#	Piedras de Raquel	C	#
 Génesis	31:54	#	93:4.14/#	La creencia en los sacrificios	C	#
 Génesis	32:32	#	96:2.3/#	Hijos de Israel	C	#
-Génesis	35:11	#	74:7.8/#	Loins of the father+	R	PROBLEM
+Génesis	35:11	#	74:7.8/#	Los costados del padre	R	#
 Génesis	35:11	#	96:5.7/#	El Todopoderoso	R	#
 Génesis	36:9,43	#	70:6.2/#	Padre de su pueblo	R	#
 Génesis	37:19	#	93:9.5/#	Soñador	C	#
@@ -413,8 +413,8 @@ Génesis	38:24	#	70:10.14/#	Quemar a la adúltera en el fuego	R	#
 Génesis	40:15	#	96:2.3/#	Hebreos	C	#
 Génesis	41:41	#	93:9.5/#	Administrador civil	C	#
 Génesis	45:21	#	96:2.3/#	Hijos de Israel	C	#
-Génesis	46:3	#	1:1.6/#	Calling God "God"+	C	PROBLEM
-Génesis	46:26	#	74:7.8/#	Loins of the father+	R	PROBLEM
+Génesis	46:3	#	1:1.6/#	Llamar a Dios «Dios»	C	#
+Génesis	46:26	#	74:7.8/#	Los costados del padres	R	#
 Génesis	49:25	#	148:6.2/#	Dios bendice al fiel	C	#
 Génesis	49:25	#	96:1.9/#	Todopoderoso	C	#
 Génesis	50:7	#	70:5.2/#	Consejo de ancianos	C	#

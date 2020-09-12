@@ -1,4 +1,4 @@
-Epístola_a_Timoteo_I	1:1	#	182:1.10/#	I am the hope of all living truth	C	PROBLEM
+Epístola_a_Timoteo_I	1:1	#	182:1.10/#	Yo soy la esperanza de toda verdad viviente	C	#
 Epístola_a_Timoteo_I	1:2	#	149:6.8/#	Dios es nuestro Padre	C	#
 Epístola_a_Timoteo_I	1:2	#	131:10.6/#	Relación entre padre e hijo	C	#
 Epístola_a_Timoteo_I	1:2	#	141:4.2/#	Dios es nuestro Padre	C	#

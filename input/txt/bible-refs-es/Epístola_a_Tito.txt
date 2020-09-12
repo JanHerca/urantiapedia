@@ -20,7 +20,7 @@ Epístola_a_Tito	1:10-16	#	130:5.1/#	Duras palabras de Pablo	S	#
 Epístola_a_Tito	1:16	#	1:2.3/#	Consciencia de Dios	C	#
 Epístola_a_Tito	2:11	#	190:4.1/#	Evangelio de salvación	C	#
 Epístola_a_Tito	2:11	#	190:5.4/#	Evangelio de salvación de Dios	C	#
-Epístola_a_Tito	2:13	#	182:1.10/#	I am the hope of all living truth	C	PROBLEM
+Epístola_a_Tito	2:13	#	182:1.10/#	Yo soy la esperanza de toda verdad viviente	C	#
 Epístola_a_Tito	2:13-14	#	170:5.6/#	Jesús el Redentor de la Iglesia	C	#
 Epístola_a_Tito	2:14	#	89:9.3/#	Jesús visto como sacrificio humano	C	#
 Epístola_a_Tito	3:4	#	143:1.6/#	Dios de amor	C	#

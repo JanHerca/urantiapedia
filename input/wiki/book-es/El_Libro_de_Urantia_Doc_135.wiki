@@ -183,7 +183,7 @@
 <ref name="n7">''La dieta de Juan'': {{lib|Mt|3|4}}; {{lib|Mc|1|6}}. </ref>
 <ref name="n8">''La «gran estatua» de Daniel'': {{lib|Dn|2|31-33}}. </ref>
 <ref name="n9">''Reino eterno'': {{lib|Dn|2|44}}. </ref>
-<ref name="n10">''Dominio sin fni'': {{lib|Dn|7|14}}. ''Dar el reino a los Altísimos'': {{lib|Dn|7|27}}. </ref>
+<ref name="n10">''Dominio sin fin'': {{lib|Dn|7|14}}. ''Dar el reino a los Altísimos'': {{lib|Dn|7|27}}. </ref>
 <ref name="n11">''Visión de la venida del Hijo del Hombre'': {{lib|Dn|7|13-14}}. </ref>
 <ref name="n12">''Envío previo de Elías'': {{lib|Mal|4|5-6}}. </ref>
 <ref name="n13">''El Mesías gobierna cielo y tierra'': {{lib|Mt|6|10}}; {{lib|Lc|11|2}}. </ref>

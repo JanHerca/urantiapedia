@@ -1,7 +1,7 @@
 Job	1:1	#	92:1.5/#	Dios es un gran temor	R	#
 Job	1:1-3	#	148:6.2/#	Job tenía riquez, salud, posición	C	#
-Job	1:1ss	#	148:6.2/#	Book of Job	C	PROBLEM
-Job	1:1ss	#	95:1.10/#	Book of Job	C	PROBLEM
+Job	1:1ss	#	148:6.2/#	Libro de Job	C	#
+Job	1:1ss	#	95:1.10/#	Libro de Job	C	#
 Job	1:6	#	167:7.2/#	Los ángeles no son los «Hijos de Dios»	R	#
 Job	1:6	#	45:2.4/#	Cuando los Hijos de Dios se reúnen	R	#
 Job	1:6	#	53:8.2/#	Cuando los Hijos de Dios se congregaban	R	#
@@ -40,11 +40,11 @@ Job	11:7	#	96:6.4/#	¿Podéis encontrar a Dios?	R	#
 Job	12:10	#	105:2.11/#	Vivimos, nos movemos y tenemos nuestra existencia	C	#
 Job	12:10	#	117:3.12/#	Vivimos, nos movemos y existimos	C	#
 Job	12:13	#	2:1.1/#	Su comprensión es infinita	R	#
-Job	13:15	#	101:3.4/#	Even though he slay me	R	PROBLEM
+Job	13:15	#	101:3.4/#	Aunque me mate	R	#
 Job	13:16	#	2:6.3/#	Dios de salvación	C	#
 Job	13:19	#	86:5.2/#	Entregar el alma	R	#
 Job	14:1	#	148:6.8/#	Vive pocos días y está lleno de problemas	R	#
-Job	15:1-35	#	148:6.9/#	Eliphaz more stern	S	PROBLEM
+Job	15:1-35	#	148:6.9/#	Elifaz más severo	S	#
 Job	17:14-16	#	112:3.5/#	Polvo al polvo	C	#
 Job	18:1-21	#	148:6.9/#	Bildad indignado	S	#
 Job	18:4	#	149:4.2/#	El hombre se desgarra en su ira	R	#
@@ -54,9 +54,9 @@ Job	19:25	#	148:6.9/#	Mi Protector vive	R	#
 Job	20:1-29	#	148:6.9/#	Zofar repite sus consejos	S	#
 Job	21:9	#	95:4.3/#	Líbrame del temor	R	#
 Job	21:16-21	#	148:6.9/#	Job apela a Dios	S	#
-Job	22:12-14	#	14:1.7/#	Dark gravity bodies	C	PROBLEM
+Job	22:12-14	#	14:1.7/#	Cuerpos oscuros de gravedad	C	#
 Job	23:1--24:25	#	148:6.9/#	Apelaba a un Dios justo	S	#
-Job	23:3	#	1:2.3/#	God seeking	C	PROBLEM
+Job	23:3	#	1:2.3/#	Buscar a Dios	C	#
 Job	23:10	#	3:3.2/#	Conoce el camino que tomo	R	#
 Job	26:7	#	4:1.5/#	Estabilidad entre la inestabilidad	C	#
 Job	26:7	#	41:1.5/#	Centro de poder	C	#
@@ -148,10 +148,10 @@ Job	37:23	#	142:3.7/#	Todopoderoso	C	#
 Job	37:23	#	96:6.3/#	Dios de poder y juicio	R	#
 Job	37:23	#	131:10.3/#	Dios es todopoderoso	C	#
 Job	38:1	#	148:6.10/#	Discurso desde el torbellino	S	#
-Job	38:1-39:30	#	0:2.9/#	God as Controller+	C	PROBLEM
+Job	38:1-39:30	#	0:2.9/#	Dios como Controlador	C	#
 Job	38:7	#	7:6.1/#	Los Hijos proclaman la alegría	R	#
 Job	38:7	#	167:7.2/#	Los ángeles no son los «Hijos de Dios»	R	#
-Job	38:9-11	#	14:1.7/#	Dark gravity bodies	C	PROBLEM
+Job	38:9-11	#	14:1.7/#	Cuerpos oscuros de gravedad	C	#
 Job	38:25	#	3:2.4/#	Un camino para el rayo	R	#
 Job	38:31-33	#	41:3.1/#	Nuestros asociados estelares	C	#
 Job	41:33	#	2:1.2/#	Desprovisto de temor	C	#

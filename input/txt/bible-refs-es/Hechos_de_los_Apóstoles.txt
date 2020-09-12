@@ -6,7 +6,7 @@ Hechos_de_los_Apóstoles	1:5	#	191:5.3/#	Bautizados con el Espíritu de la Verda
 Hechos_de_los_Apóstoles	1:5	#	141:6.5/#	Bautismo con el espíritu	C	#
 Hechos_de_los_Apóstoles	1:5	#	85:4.1/#	Bautismo	C	#
 Hechos_de_los_Apóstoles	1:5	#	137:8.10/#	Bautismo de Juan en señal de arrepentimiento	S	#
-Hechos_de_los_Apóstoles	1:5	#	87:6.5/#	Water baptism	C	PROBLEM
+Hechos_de_los_Apóstoles	1:5	#	87:6.5/#	Bautismo de agua	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	180:6.3/#	El Espíritu de la Verdad	C	#
 Hechos_de_los_Apóstoles	1:5,8a	#	34:7.1/#	Espíritu de la Verdad	C	#
@@ -36,7 +36,7 @@ Hechos_de_los_Apóstoles	1:5,8a	#	194:3.1/#	El Espíritu de la Verdad en los cor
 Hechos_de_los_Apóstoles	1:5,8a	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
 Hechos_de_los_Apóstoles	1:6	#	135:6.2/#	La restauración del reino	R	#
 Hechos_de_los_Apóstoles	1:6-8	#	193:3.2/#	Falsa idea sobre el Espíritu de la Verdad	S	#
-Hechos_de_los_Apóstoles	1:7-8	#	141:4.5/#	Kingdom comes in power & glory	C	PROBLEM
+Hechos_de_los_Apóstoles	1:7-8	#	141:4.5/#	El reino vendrá en poder y gloria	C	#
 Hechos_de_los_Apóstoles	1:7-8	#	140:1.5/#	No con una demostración indecorosa	C	#
 Hechos_de_los_Apóstoles	1:8	#	181:2.26/#	Los rincones más alejados de la Tierra	S	#
 Hechos_de_los_Apóstoles	1:8	#	108:2.3/#	Ajustadores después de Pentecostés	C	#
@@ -62,8 +62,8 @@ Hechos_de_los_Apóstoles	1:8b	#	190:4.1/#	La gran asignación	S	#
 Hechos_de_los_Apóstoles	1:9	#	193:5.3/#	La ascensión	S	#
 Hechos_de_los_Apóstoles	1:12-14	#	193:6.1/#	Primera reunión de los apóstoles	S	#
 Hechos_de_los_Apóstoles	1:13	#	139:6.9/#	Natanael Bartolomé	C	#
-Hechos_de_los_Apóstoles	1:13	#	138:2.2/#	Bible names for the Apostles	S	PROBLEM
-Hechos_de_los_Apóstoles	1:13	#	139:8.1/#	Thomas Didymus	C	PROBLEM
+Hechos_de_los_Apóstoles	1:13	#	138:2.2/#	Nombres bíblicos de los apóstoles	S	#
+Hechos_de_los_Apóstoles	1:13	#	139:8.1/#	Tomás Dídimo	C	#
 Hechos_de_los_Apóstoles	1:13	#	139:11.1/#	La admisión de Simón Celotes	C	#
 Hechos_de_los_Apóstoles	1:13	#	139:10.1/#	Los gemelos Alfeo, Santiago y Judas	C	#
 Hechos_de_los_Apóstoles	1:13	#	150:4.1/#	Los apóstoles son nominados	S	#
@@ -115,8 +115,8 @@ Hechos_de_los_Apóstoles	2:4	#	3:1.4/#	Su espíritu habla desde el interior	R	#
 Hechos_de_los_Apóstoles	2:4a	#	194:0.6/#	Llenos del espíritu	S	#
 Hechos_de_los_Apóstoles	2:4b-12	#	194:1.2/#	Hablando en otras lenguas	S	#
 Hechos_de_los_Apóstoles	2:14-41	#	194:1.2/#	El sermón de Pedro	S	#
-Hechos_de_los_Apóstoles	2:16-18	#	21:5.7/#	Pour out Spirit of Truth	R	PROBLEM
-Hechos_de_los_Apóstoles	2:19-20	#	170:2.14/#	Believe end sudden, spectacular+	C	PROBLEM
+Hechos_de_los_Apóstoles	2:16-18	#	21:5.7/#	Derramará el Espíritu de la Verdad	R	#
+Hechos_de_los_Apóstoles	2:19-20	#	170:2.14/#	Creencia en un final súbito y espectacular	C	#
 Hechos_de_los_Apóstoles	2:21	#	139:12.7/#	Todo el que quiera puede venir	C	#
 Hechos_de_los_Apóstoles	2:21	#	131:10.7/#	Quien lo desee será salvado	C	#
 Hechos_de_los_Apóstoles	2:21	#	2:5.2/#	Quienquiera puede venir	C	#
@@ -168,7 +168,7 @@ Hechos_de_los_Apóstoles	2:38-39	#	181:1.4/#	A todos cuantos le recibieron	C	#
 Hechos_de_los_Apóstoles	2:41	#	139:1.6/#	Dos miles almas añadidas al reino	S	#
 Hechos_de_los_Apóstoles	2:41	#	194:1.4/#	Bautizar a los convertidos	S	#
 Hechos_de_los_Apóstoles	2:41-42	#	194:4.7/#	Era una comunidad de vida	R	#
-Hechos_de_los_Apóstoles	2:42	#	170:2.20/#	Fellowship of faithful	S	PROBLEM
+Hechos_de_los_Apóstoles	2:42	#	170:2.20/#	La hermandad de los creyentes	S	#
 Hechos_de_los_Apóstoles	2:42	#	140:10.1/#	La hermandad de los hijos de Dios	C	#
 Hechos_de_los_Apóstoles	2:44	#	194:4.7/#	Compartían sus bienes	S	#
 Hechos_de_los_Apóstoles	2:44-45	#	89:3.2/#	La propiedad vista como un peligro espiritual	C	#
@@ -212,7 +212,7 @@ Hechos_de_los_Apóstoles	5:29-32	#	195:0.2/#	Proclamación del evangelio	C	#
 Hechos_de_los_Apóstoles	5:34,38-39	#	194:4.10/#	El consejo de Gamaliel	S	#
 Hechos_de_los_Apóstoles	5:40	#	194:4.10/#	Los saduceos siguen el consejo	S	#
 Hechos_de_los_Apóstoles	6:8-7:60	#	128:3.6/#	Apedreamiento de Esteban	S	#
-Hechos_de_los_Apóstoles	6:8-7:60	#	132:0.5/#	Stephen's stoning	C	PROBLEM
+Hechos_de_los_Apóstoles	6:8-7:60	#	132:0.5/#	El apedreamiento de Esteban	C	#
 Hechos_de_los_Apóstoles	7:30	#	85:4.2/#	Ángeles del fuego	C	#
 Hechos_de_los_Apóstoles	7:32	#	174:3.4/#	El Dios de los vivos	C	#
 Hechos_de_los_Apóstoles	7:32	#	174:3.2/#	El poder viviente de Dios	C	#
@@ -349,7 +349,7 @@ Hechos_de_los_Apóstoles	14:15	#	142:3.7/#	Creador Universal	C	#
 Hechos_de_los_Apóstoles	14:15	#	6:1.3/#	Dios ha hecho todo	C	#
 Hechos_de_los_Apóstoles	14:15	#	0:2.9/#	Dios como creador de todo	C	#
 Hechos_de_los_Apóstoles	14:15	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
-Hechos_de_los_Apóstoles	14:15	#	0:2.9/#	God as Controller+	C	PROBLEM
+Hechos_de_los_Apóstoles	14:15	#	0:2.9/#	Dios como controlador	C	#
 Hechos_de_los_Apóstoles	14:15	#	2:1.2/#	Creador fiel y divino	C	#
 Hechos_de_los_Apóstoles	14:15	#	95:5.9/#	Dios como creador de todo	C	#
 Hechos_de_los_Apóstoles	14:15	#	131:10.6/#	El Creador	C	#
@@ -384,7 +384,7 @@ Hechos_de_los_Apóstoles	17:25	#	45:4.3/#	Dador del Aliento	R	#
 Hechos_de_los_Apóstoles	17:25	#	1:1.4/#	Don de la Vida	C	#
 Hechos_de_los_Apóstoles	17:25	#	2:2.1/#	Da a todos la vida	R	#
 Hechos_de_los_Apóstoles	17:26	#	52:3.7/#	Todas las naciones de una sola sangre	R	#
-Hechos_de_los_Apóstoles	17:27	#	12:7.12/#	God not far	C	PROBLEM
+Hechos_de_los_Apóstoles	17:27	#	12:7.12/#	Dios no está lejos	C	#
 Hechos_de_los_Apóstoles	17:28	#	2:1.11/#	En Él vivimos y nos movemos	R	#
 Hechos_de_los_Apóstoles	17:28	#	105:2.11/#	Vivimos, nos movemos y tenemos nuestra existencia	C	#
 Hechos_de_los_Apóstoles	17:28	#	117:3.12/#	Vivimos, nos movemos y existimos	C	#

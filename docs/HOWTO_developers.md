@@ -102,7 +102,7 @@ Ejecutar este comando en PuTTy:
 cd public_html/maintenance
 php importTextFiles.php -u <user> -s "Adición de referencias" --rc --overwrite files_to_import/*.wiki
 ```
-El comando anterior actualiza las páginas cuyos nombres coincidan con los nombres de archivo de los ficheros wiki que estén en la carpeta `files_to_import` dentro de la carpeta `maintenance`.
+El comando anterior actualiza las páginas cuyos nombres coincidan con los nombres de archivo de los ficheros wiki que estén en la carpeta `files_to_import` dentro de la carpeta `maintenance`. En lugar de "Adición de referencias", poner el mensaje que se quiera dar a todas las actualizaciones.
 
 
 ---

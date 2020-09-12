@@ -158,7 +158,7 @@ Epístola_a_los_Corintios_II	13:11	#	181:1.2/#	Convertirse en perfectos espiritu
 Epístola_a_los_Corintios_II	13:11	#	181:2.25/#	Perfecionarse espiritualmente	C	#
 Epístola_a_los_Corintios_II	13:11	#	156:5.11/#	El amor divino	C	#
 Epístola_a_los_Corintios_II	13:11	#	13:2.8/#	Ser perfectos	C	#
-Epístola_a_los_Corintios_II	13:11	#	143:2.6/#	Buscad la perfección+	C	#
+Epístola_a_los_Corintios_II	13:11	#	143:2.6/#	Buscad la perfección	C	#
 Epístola_a_los_Corintios_II	13:11	#	196:3.16/#	Una religión de AMOR	C	#
 Epístola_a_los_Corintios_II	13:11	#	195:10.4/#	Dios es un espíritu amoroso	C	#
 Epístola_a_los_Corintios_II	13:11	#	7:5.1/#	Sed perfectos	R	#

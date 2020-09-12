@@ -76,7 +76,7 @@ Deuteronomio	5:21	#	66:7.14/#	No tocarás a la esposa de tu amigo	C	#
 Deuteronomio	5:22	#	85:4.3/#	El trueno	C	#
 Deuteronomio	5:22-23	#	2:1.1/#	Residir en espesas tinieblas	R	#
 Deuteronomio	5:26	#	195:10.4/#	El Padre es un espíritu vivo	C	#
-Deuteronomio	6:4	#	92:5.8/#	Hear, O Israel, Un único Dios	R	#
+Deuteronomio	6:4	#	92:5.8/#	Escucha oh, Israel, un único Dios	R	#
 Deuteronomio	6:4	#	1:7.6/#	Dios es uno solo	R	#
 Deuteronomio	6:4	#	96:5.5/#	El Señor vuestro Dios es un Dios único	R	#
 Deuteronomio	6:4	#	92:6.6/#	Un único Dios	C	#
@@ -142,7 +142,7 @@ Deuteronomio	10:15	#	1:5.4/#	Se deleita en sus hijos	R	#
 Deuteronomio	10:17	#	45:4.10/#	Dios de los Dioses	R	#
 Deuteronomio	10:17	#	96:4.5/#	Poderoso, terrible	R	#
 Deuteronomio	10:17	#	96:5.6/#	Dios de los Dioses, el Señor de los Señores	R	#
-Deuteronomio	10:17	#	0:2.12/#	Dios el Supremo+	C	#
+Deuteronomio	10:17	#	0:2.12/#	Dios el Supremo	C	#
 Deuteronomio	10:20	#	136:9.3/#	Servir sólo al Señor Dios	R	#
 Deuteronomio	11:1,13,22	#	131:2.2/#	Amarás al Señor tu Dios con todo tu corazón	C	#
 Deuteronomio	11:1,13,22	#	110:3.8/#	Amando a Dios	C	#
@@ -187,7 +187,7 @@ Deuteronomio	18:13	#	140:8.32/#	Sed perfectos	C	#
 Deuteronomio	18:13	#	142:7.13/#	Sed perfectos	C	#
 Deuteronomio	18:13	#	140:4.11/#	Sed perfectos	C	#
 Deuteronomio	18:13	#	26:9.3/#	Sed perfectos	R	#
-Deuteronomio	18:13	#	143:2.6/#	Buscad la perfección+	C	#
+Deuteronomio	18:13	#	143:2.6/#	Buscad la perfección	C	#
 Deuteronomio	18:13	#	99:5.3/#	Sed perfectos	C	#
 Deuteronomio	18:13	#	140:3.16/#	Sed perfectos	C	#
 Deuteronomio	18:13	#	140:10.1/#	Sed perfectos	C	#
