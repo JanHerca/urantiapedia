@@ -6,6 +6,7 @@ const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
 const replaceTags = require('./utils').replaceTags;
+const readFrom = require('./utils').readFrom;
 const fs = require('fs');
 const path = require('path');
 
@@ -131,38 +132,11 @@ class Book {
 	//***********************************************************************
 
 	readFromLaTeX = (dirPath) => {
-		return new Promise((resolve, reject) => {
-			fs.readdir(dirPath, (err, files) => {
-				if (err) {
-					reject([err]);
-					return;
-				}
-				var texFiles = files.filter(file => {
-					return path.extname(file) === '.tex';
-				});
-				if (texFiles.length === 0) {
-					reject([new Error('No se han encontrado archivos LaTeX')]);
-					return;
-				}
+		return readFrom(dirPath, '.tex', this.clear, this.readFileFromLaTeX, this);
+	};
 
-				this.papers = [];
-				
-				var promises = texFiles.map(file => {
-					const filePath = path.join(dirPath, file);
-					return reflectPromise(this.readFileFromLaTeX(filePath));
-				});
-				Promise.all(promises)
-					.then((results) => {
-						const errors = [];
-						results.forEach(r => extendArray(errors, r.error));
-						if (errors.length === 0) {
-							resolve(null);
-						} else {
-							reject(errors);
-						}
-					});
-			});
-		});
+	clear = () => {
+		this.papers = [];
 	};
 
 	readFileFromLaTeX = (filePath) => {
@@ -443,38 +417,7 @@ class Book {
 	//***********************************************************************
 
 	readFromJSON = (dirPath) => {
-		return new Promise((resolve, reject) => {
-			fs.readdir(dirPath, (err, files) => {
-				if (err) {
-					reject([err]);
-					return;
-				}
-				var jsonFiles = files.filter(file => {
-					return path.extname(file) === '.json';
-				});
-				if (jsonFiles.length === 0) {
-					reject([new Error('No se han encontrado archivos JSON')]);
-					return;
-				}
-
-				this.papers = [];
-				
-				var promises = jsonFiles.map(file => {
-					const filePath = path.join(dirPath, file);
-					return reflectPromise(this.readFileFromJSON(filePath));
-				});
-				Promise.all(promises)
-					.then((results) => {
-						const errors = [];
-						results.forEach(r => extendArray(errors, r.error));
-						if (errors.length === 0) {
-							resolve(null);
-						} else {
-							reject(errors);
-						}
-					});
-			});
-		});
+		return readFrom(dirPath, '.json', this.clear, this.readFileFromJSON, this);
 	};
 
 	readFileFromJSON = (filePath) => {

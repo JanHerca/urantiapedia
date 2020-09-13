@@ -5,6 +5,7 @@ const BibleAbb = require('./enums').BibleAbb;
 const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
+const readFrom = require('./utils').readFrom;
 const fs = require('fs');
 const path = require('path');
 
@@ -16,40 +17,11 @@ class Bible {
 	//***********************************************************************
 
 	readFromLaTeX = (dirPath) => {
-		return new Promise((resolve, reject) => {
-			fs.readdir(dirPath, (err, files) => {
-				if (err) {
-					reject([err]);
-					return;
-				}
-				var texFiles = files.filter(file => {
-					return path.extname(file) === '.tex';
-				});
-				if (texFiles.length === 0) {
-					reject([new Error('No se han encontrado archivos LaTeX')]);
-					return;
-				}
-				
-				this.biblebooks = [];
+		return readFrom(dirPath, '.tex', this.clear, this.readFileFromLaTeX, this);
+	};
 
-				var promises = texFiles.map(file => {
-					const filePath = path.join(dirPath, file);
-					return reflectPromise(this.readFileFromLaTeX(filePath));
-				});
-
-				Promise.all(promises)
-					.then((results) => {
-						const errors = [];
-						results.forEach(r => extendArray(errors, r.error));
-						if (errors.length === 0) {
-							resolve(null);
-						} else {
-							reject(errors);
-						}
-					});
-
-			});
-		});
+	clear = () => {
+		this.biblebooks = [];
 	};
 
 	readFileFromLaTeX = (filePath) => {

@@ -1,3 +1,6 @@
+const fs = require('fs');
+const path = require('path');
+
 /**
  * Extrae de un texto una porción delimitada por dos textos. Se extrae la primera 
  * aparición, las demás se ignoran.
@@ -81,4 +84,54 @@ exports.replaceTags = function(content, initTag, endTag, initTag2, endTag2, erro
 		i += endTag.length;
 	}
 	return result;
+};
+
+/**
+ * Returns a Promise that reads a directory, find files of a given format and
+ * execute a fiven function with each one. If any file rejects, then the full
+ * promise rejects.
+ * @param {string} dirPath Path to the directory.
+ * @param {string} format Format like '.txt' or '.tex'.
+ * @param {Function} clearFunction Function to clear data before reading. It must
+ * be a function without params and that returns nothing.
+ * @param {Function} readFunction Function to execute with each file. It must be
+ * a function with the filePath as param and that returns a Promise.
+ * @param {Object} thisObj Object to pass as 'this'.
+ * @return {Promise}
+ */
+exports.readFrom = function(dirPath, format, clearFunction, readFunction, thisObj) {
+	return new Promise((resolve, reject) => {
+		fs.readdir(dirPath, (err, files) => {
+			if (err) {
+				reject([err]);
+				return;
+			}
+			var files = files.filter(file => {
+				return path.extname(file) === format;
+			});
+			if (files.length === 0) {
+				reject([new Error('No se han encontrado archivos ' + format)]);
+				return;
+			}
+			
+			clearFunction.call(thisObj);
+
+			var promises = files.map(file => {
+				const filePath = path.join(dirPath, file);
+				return exports.reflectPromise(readFunction.call(thisObj, filePath));
+			});
+
+			Promise.all(promises)
+				.then((results) => {
+					const errors = [];
+					results.forEach(r => exports.extendArray(errors, r.error));
+					if (errors.length === 0) {
+						resolve(null);
+					} else {
+						reject(errors);
+					}
+				});
+
+		});
+	});
 };

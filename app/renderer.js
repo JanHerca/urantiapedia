@@ -2,10 +2,12 @@ const {dialog} = require('electron').remote;
 const Book = require('./book');
 const Bible = require('./bible');
 const BibleRef = require('./bibleref');
+const TopicIndex = require('./topicindex');
 
 const book = new Book();
 const bible = new Bible();
 const bibleref = new BibleRef();
+const topicindex = new TopicIndex();
 const controlIDs = [
 	'dirTButton', 'dirTTextbox',
 	'dirLButton', 'dirLTextbox', 
@@ -45,72 +47,79 @@ const handle_exeButtonClick = () => {
 	book.onProgressFn = onProgress;
 	const process = controls.drpProcess.value;
 	const okMsgs = ['Conversión realizada con éxito'];
+	const latexDir = controls.dirLTextbox.value;
+	const jsonDir = controls.dirJTextbox.value;
+	const txtDir = controls.dirTTextbox.value;
+	const wikiDir = controls.dirWTextbox.value;
 	if (process ==='ttt' && checkControls(['dirJTextbox', 'dirTTextbox'])) {
 		// Leemos LU en formato JSON, luego leemos Referencias Biblia en formato TXT,
 		// y escribimos los TXT traducidos
-		book.readFromJSON(controls.dirJTextbox.value)
+		book.readFromJSON(jsonDir)
 			.then(() => {
-				bibleref.readFromTXT(controls.dirTTextbox.value)
+				bibleref.readFromTXT(txtDir)
 					.then(() => {
-						bibleref.translate(controls.dirTTextbox.value, book)
+						bibleref.translate(txtDir, book)
 							.then(() => onSuccess(okMsgs))
 							.catch(onFail);
 					}).catch(onFail);
 			}).catch(onFail);
 	} else if (process === 'clj' && checkControls(['dirLTextbox', 'dirJTextbox'])) {
 		// Leemos LU en formato LaTeX y escribimos JSON
-		book.readFromLaTeX(controls.dirLTextbox.value)
-			.then(() => book.writeToJSON(controls.dirJTextbox.value))
+		book.readFromLaTeX(latexDir)
+			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'clw' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
 		// Leemos LU en formato LaTeX y escribimos Wiki
-		book.readFromLaTeX(controls.dirLTextbox.value)
-			.then(() => book.writeToWiki(controls.dirWTextbox.value))
+		book.readFromLaTeX(latexDir)
+			.then(() => book.writeToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'clx' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
 		// Leemos LU en formato LaTeX y escribimos Wiki XML
-		book.readFromLaTeX(controls.dirLTextbox.value)
-			.then(() => book.writeToWikiXML(controls.dirWTextbox.value,
-				controls.chkMerge.checked))
+		book.readFromLaTeX(latexDir)
+			.then(() => book.writeToWikiXML(wikiDir, controls.chkMerge.checked))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'cjl' && checkControls(['dirJTextbox', 'dirLTextbox'])) {
 		// Leemos LU en formato JSON y escribimos LaTeX
-		book.readFromJSON(controls.dirJTextbox.value)
-			.then(() => book.writeToLaTeX(controls.dirLTextbox.value))
+		book.readFromJSON(jsonDir)
+			.then(() => book.writeToLaTeX(latexDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'cjw' && checkControls(['dirJTextbox', 'dirWTextbox'])) {
 		// Leemos LU en formato JSON y escribimos Wiki
-		book.readFromJSON(controls.dirJTextbox.value)
-			.then(() => book.writeToWiki(controls.dirWTextbox.value))
+		book.readFromJSON(jsonDir)
+			.then(() => book.writeToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'cjx' && checkControls(['dirJTextbox', 'dirWTextbox'])) {
 		// Leemos LU en formato JSON y escribimos Wiki XML
-		book.readFromJSON(controls.dirJTextbox.value)
-			.then(() => book.writeToWikiXML(controls.dirWTextbox.value))
+		book.readFromJSON(jsonDir)
+			.then(() => book.writeToWikiXML(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'cblw' && checkControls(['dirTTextbox', 'dirLTextbox', 'dirWTextbox'])) {
 		// Leemos Referencias Biblia en formato TXT,
 		// luego leemos Biblia en formato LaTeX y escribimos Wiki
-		bibleref.readFromTXT(controls.dirTTextbox.value)
+		bibleref.readFromTXT(txtDir)
 			.then(() => {
-				bible.readFromLaTeX(controls.dirLTextbox.value)
+				bible.readFromLaTeX(latexDir)
 					.then(() => {
-						bible.writeToWiki(controls.dirWTextbox.value, bibleref)
-						.then(() => onSuccess(okMsgs))
-						.catch(onFail);
+						bible.writeToWiki(wikiDir, bibleref)
+							.then(() => onSuccess(okMsgs))
+							.catch(onFail);
 					}).catch(onFail);
 			}).catch(onFail);
 	} else if (process === 'cblx' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
 		// Leemos Biblia en formato LaTeX y escribimos Wiki XML
-		bible.readFromLaTeX(controls.dirLTextbox.value)
-			.then(() => bible.writeToWikiXML(controls.dirWTextbox.value,
-				controls.chkMerge.checked))
+		bible.readFromLaTeX(latexDir)
+			.then(() => bible.writeToWikiXML(wikiDir, controls.chkMerge.checked))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'ctiw' && checkControls(['dirTTextbox'])) {
+		// Leemos TopicIndex en formato TXT y escribimos Wiki
+		topicindex.readFromTXT(txtDir)
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	}
