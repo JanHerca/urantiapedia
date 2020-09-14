@@ -120,8 +120,15 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'ctiw' && checkControls(['dirTTextbox'])) {
 		// Leemos TopicIndex en formato TXT y escribimos Wiki
 		topicindex.readFromTXT(txtDir)
-			.then(() => onSuccess(okMsgs))
-			.catch(onFail);
+			.then(() => {
+				if (wikiDir != '') {
+					topicindex.writeToWiki(wikiDir)
+						.then(() => onSuccess(okMsgs))
+						.catch(onFail);
+				} else {
+					onSuccess(okMsgs)
+				}
+			}).catch(onFail);
 	}
 };
 

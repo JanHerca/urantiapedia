@@ -1,0 +1,5 @@
+Descendiente de reptiles no progresivos. <ref>{{lib|LU|65|2|10}}</ref> 
+
+== Referencias ==
+
+<references />

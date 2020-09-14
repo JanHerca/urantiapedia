@@ -827,7 +827,7 @@ class Book {
 					reject([new Error(`El directorio ${baseName} no está accesible`)]);
 					return;
 				}
-				var promises = this.papers.map(paper => {
+				const promises = this.papers.map(paper => {
 					const i = paper.paper_index;
 					const stri = (i > 99 ? `${i}` : (i > 9 ? `0${i}` : `00${i}`));
 					let filePath = path.join(dirPath, `Doc${stri}.${format}`);
