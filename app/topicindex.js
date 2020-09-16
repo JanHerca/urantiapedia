@@ -53,29 +53,45 @@ class TopicIndex {
 				let current = null;
 				let topicline = null;
 				let isRedirect = false;
+				let ignored = false;
 				lines.forEach((line, i) => {
-					let data, data2, refs;
+					let data, data2, refs, seeAlso;
 					const tline = line.trim();
 					if (tline.startsWith('#')) {
 						return;
 					}
-					data = tline.split(/\([^)]*\)/g)
-						.filter(i => i.trim() != '')
-						.map(i => i.trim().replace(/^\.|\.$/g, '').trim());
-					refs = tline.replace(/[^()](?=([^()]*\([^()]*\))*[^()]*$)/g, '')
-						.split(/[()]/g)
-						.filter(i => i.trim() != '');
+					data = tline.split('|').map(i => i.trim());
+					
+					if (data.length > 1) {
+						if (data[1].startsWith('(') && data[1].endsWith(')')) {
+							refs = data[1].split(/[()]/g).filter(i => i.trim() != '');
+						} else if (data[1].startsWith('Ver ')) {
+							seeAlso = data[1].substring(4).split(';').map(s => s.trim());
+						}
+						if (data.length > 2 && data[2].startsWith('Ver ')) {
+							seeAlso = data[2].substring(4).split(';').map(s => s.trim());
+						}
+					}
+					
 					if (current && (tline === '' || i === lines.length - 1)) {
-						if (isRedirect) {
-							this.redirects.push(current);
-						} else {
-							this.topics.push(current);
+						if (!ignored) {
+							if (isRedirect) {
+								this.redirects.push(current);
+							} else {
+								this.topics.push(current);
+							}
 						}
 						current = null;
 					} else if (current && tline.length > 0) {
 						if (data.length === 0) {
 							errors.push(new Error(`${baseName}, línea ${i}: ${tline}`));
 						} else {
+							data = tline.split(/\([^)]*\)/g)
+								.filter(i => i.trim() != '')
+								.map(i => i.trim().replace(/^\.|\.$/g, '').trim());
+							refs = tline.replace(/[^()](?=([^()]*\([^()]*\))*[^()]*$)/g, '')
+								.split(/[()]/g)
+								.filter(i => i.trim() != '');
 							topicline = {
 								text: ''
 							};
@@ -91,20 +107,107 @@ class TopicIndex {
 						if (data.length === 0) {
 							errors.push(new Error(`${baseName}, línea ${i}: ${tline}`));
 						} else {
+							ignored = (tline.substring(tline.length - 2) === 'OK');
 							current = {
 								name: '',
 								lines: []
 							};
-							data2 = data[0].split('.').map(p => p.trim());
-							current.name = data2[0];
-							addRefs(data2, data, current);
-							current.refs = refs;
+							current.name = data[0];
+							// addRefs(data2, data, current);
+							current.seeAlso = (seeAlso ? seeAlso : []);
+							current.refs = (refs ? refs : []);
 						}
 					}
 				});
 				
 				if (errors.length === 0) {
 					resolve(null);
+				} else {
+					reject(errors);
+				}
+			});
+		});
+	};
+
+	normalize = (dirPath) => {
+		return readFrom(dirPath, '.txt', this.clear, this.normalizeFile, this);
+	};
+
+	normalizeFile = (filePath) => {
+		const baseName = path.basename(filePath);
+		return new Promise((resolve, reject) => {
+			if (this.onProgressFn) {
+				this.onProgressFn(baseName);
+			}
+			
+
+			fs.readFile(filePath, (errFile, buf) => {
+				if (errFile) {
+					reject([errFile]);
+					return;
+				}
+				const lines = buf.toString().split('\n');
+				const errors = [];
+				let result = '';
+				let nfilePath = filePath.replace('.txt', '_normalized.txt');
+				
+				let current = null;
+				const topicTypes = ['PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'OTRO'];
+
+				lines.forEach((line, i) => {
+					let data, name, refs, seeAlso, type, ok;
+					const tline = line.trim();
+					if (line.startsWith('#') || (!current && tline === '')) {
+						result += line;
+					} else if (current && (tline === '' || i === lines.length - 1)) {
+						result += line;
+						current = null;
+					} else if (current && tline.length > 0) {
+						result += line;
+					} else if (!current && tline.length > 0) {
+						current = {};
+						data = tline.split('|').map(i => i.trim());
+
+						if (data.length === 0) {
+							errors.push(new Error(`${baseName}, línea ${i}: ${tline}`));
+						} else if (data.length === 5) {
+							name = data[0];
+							refs = data[1];
+							seeAlso = data[2];
+							type = data[3];
+							ok = data[4];
+							if ((name === '') || 
+								(refs != '' && refs.indexOf('(') === -1) ||
+								(seeAlso != '' && !seeAlso.startsWith('Ver ')) ||
+								(type != '' && topicTypes.indexOf(type) === -1) ||
+								(ok != '' && ok != 'OK')) {
+								errors.push(new Error(`${baseName}, línea ${i}: ${tline}`));
+							}
+							result += line;
+						} else if (data.length > 1) {
+							name = data[0];
+							refs = data.find(d => d.startsWith('(')) || '';
+							refs = (refs.length > 0 ? refs + ' ': refs);
+							seeAlso = data.find(d => d.startsWith('Ver ')) || '';
+							seeAlso = (seeAlso.length > 0 ? seeAlso + ' ' : seeAlso);
+							type = data.find(d => topicTypes.indexOf(d) != -1) || '';
+							type = (type.length > 0 ? type + ' ' : type);
+							ok = data.find(d => d === 'OK') || '';
+							result += `${name} | ${refs}| ${seeAlso}| ${type}| ${ok}\r\n`;
+						} else {
+							result += tline + ' | | | | \r\n';
+						}
+					}
+				});
+
+				if (errors.length === 0) {
+					fs.writeFile(nfilePath, result, 'utf-8', (err) => {
+						if (err) {
+							reject(err);
+							return;
+						}
+						resolve(null);
+					});
 				} else {
 					reject(errors);
 				}

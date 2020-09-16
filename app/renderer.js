@@ -14,7 +14,7 @@ const controlIDs = [
 	'dirJButton', 'dirJTextbox', 
 	'dirWButton', 'dirWTextbox', 
 	'drpProcess', 'exeButton', 'logArea', 
-	'progress', 'chkMerge'];
+	'progress', 'chkMerge', 'drpTopics'];
 const controls = {};
 
 const onLoad = () => {
@@ -28,6 +28,7 @@ const onLoad = () => {
 	controls.dirWButton.addEventListener('click', 
 		handle_dirButtonClick.bind(this, controls.dirWTextbox));
 	controls.exeButton.addEventListener('click', handle_exeButtonClick);
+	controls.drpTopics.addEventListener('change', handle_drpTopicsChange);
 };
 
 const handle_dirButtonClick = (textbox) => {
@@ -51,18 +52,15 @@ const handle_exeButtonClick = () => {
 	const jsonDir = controls.dirJTextbox.value;
 	const txtDir = controls.dirTTextbox.value;
 	const wikiDir = controls.dirWTextbox.value;
+
 	if (process ==='ttt' && checkControls(['dirJTextbox', 'dirTTextbox'])) {
 		// Leemos LU en formato JSON, luego leemos Referencias Biblia en formato TXT,
 		// y escribimos los TXT traducidos
 		book.readFromJSON(jsonDir)
-			.then(() => {
-				bibleref.readFromTXT(txtDir)
-					.then(() => {
-						bibleref.translate(txtDir, book)
-							.then(() => onSuccess(okMsgs))
-							.catch(onFail);
-					}).catch(onFail);
-			}).catch(onFail);
+			.then(() => bibleref.readFromTXT(txtDir))
+			.then(() => bibleref.translate(txtDir, book))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'clj' && checkControls(['dirLTextbox', 'dirJTextbox'])) {
 		// Leemos LU en formato LaTeX y escribimos JSON
 		book.readFromLaTeX(latexDir)
@@ -100,36 +98,46 @@ const handle_exeButtonClick = () => {
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'cblw' && checkControls(['dirTTextbox', 'dirLTextbox', 'dirWTextbox'])) {
-		// Leemos Referencias Biblia en formato TXT,
-		// luego leemos Biblia en formato LaTeX y escribimos Wiki
+		// Leemos Referencias Biblia en formato TXT, luego leemos Biblia en formato LaTeX 
+		// y escribimos Wiki
 		bibleref.readFromTXT(txtDir)
-			.then(() => {
-				bible.readFromLaTeX(latexDir)
-					.then(() => {
-						bible.writeToWiki(wikiDir, bibleref)
-							.then(() => onSuccess(okMsgs))
-							.catch(onFail);
-					}).catch(onFail);
-			}).catch(onFail);
+			.then(() => bible.readFromLaTeX(latexDir))
+			.then(() => bible.writeToWiki(wikiDir, bibleref))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'cblx' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
 		// Leemos Biblia en formato LaTeX y escribimos Wiki XML
 		bible.readFromLaTeX(latexDir)
 			.then(() => bible.writeToWikiXML(wikiDir, controls.chkMerge.checked))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'ctiw' && checkControls(['dirTTextbox'])) {
+	} else if (process === 'ctiw' && checkControls(['dirTTextbox', 'dirWTextbox'])) {
 		// Leemos TopicIndex en formato TXT y escribimos Wiki
 		topicindex.readFromTXT(txtDir)
+			.then(() => topicindex.writeToWiki(wikiDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'rti' && checkControls(['dirTTextbox', 'dirJTextbox'])) {
+		// Leemos TopicIndex en formato TXT y luego leemos LU en formato JSON
+		topicindex.readFromTXT(txtDir)
+			.then(() => book.readFromJSON(jsonDir))
 			.then(() => {
-				if (wikiDir != '') {
-					topicindex.writeToWiki(wikiDir)
-						.then(() => onSuccess(okMsgs))
-						.catch(onFail);
-				} else {
-					onSuccess(okMsgs)
-				}
+				// Rellenamos desplegable
+				controls.drpTopics.innerHTML = topicindex.topics.map(t =>
+					`<option value="${t.name}">${t.name}</option>`).join('');
+				onSuccess(okMsgs)
 			}).catch(onFail);
+	} else if (process === 'nti' && checkControls(['dirTTextbox'])) {
+		// Leemos TopicIndex en formato TXT y volvemos a escribir igual
+		// pero modificando la primera línea de cada entrada
+		topicindex.normalize(txtDir)
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	}
+};
+
+const handle_drpTopicsChange = (evt) => {
+	showTopic(controls.drpTopics.value);
 };
 
 const checkControls = (cnames) => {
@@ -164,6 +172,35 @@ const showInfos = (infos) => {
 	controls.logArea.innerHTML = infos.map(info=> {
 		return `<p class="mb-1">${info}</p>`;
 	}).join('');
+};
+
+const showTopic = (name) => {
+	let html = `<h2 class="mb-1">${name}</h2>`;
+	const topic = topicindex.topics.find(t => t.name === name);
+	if (topic) {
+		html += topic.lines.map(line => {
+			return `<p class="mb-1"><strong>${line.text}</strong></p>` +
+				line.refs.map(ref => {
+					const data = ref.split(/[:.]/g);
+					if (data.length < 2) return null;
+					const doc = parseInt(data[0]), sec = parseInt(data[1]);
+					const ppar = (data.length > 2 ? data[2].match(/^[0-9]+/g) : null);
+					let par = (ppar ? parseInt(ppar[0]) : null);
+					par = (par == null || isNaN(par) ? 1 : par);
+					if (isNaN(doc) || isNaN(sec)) return null;
+					const paper = book.papers.find(p => p.paper_index === doc);
+					if (!paper) return null;
+					const section = paper.sections.find(s => s.section_index === sec);
+					if (!section) return null;
+					const parr = section.pars.find(p =>
+						p.par_ref === `${doc}:${sec}.${par}`);
+					if (!parr) return null;
+					
+					return `<p class="mb-2"><em>${parr.par_content}</em> [LU ${ref}]</p>`;
+				}).filter(r => r != null).join('');
+		}).join('');
+	}
+	controls.logArea.innerHTML = html;
 };
 
 const onProgress = (baseName) => {

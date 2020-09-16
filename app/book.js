@@ -249,7 +249,12 @@ class Book {
 								i + 1, line.substring(j).trim(), paper.footnotes, 
 								errors)
 						};
-						currentSection.pars.push(currentPar);
+						if (currentSection) {
+							currentSection.pars.push(currentPar);
+						} else {
+							errors.push(this.createError(baseName, i,
+								'No se pudo añadir párrafo sin una sección previa'));
+						}
 					}
 				} else {
 					errors.push(this.createError(baseName, i,
