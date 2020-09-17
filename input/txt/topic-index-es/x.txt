@@ -1,3 +1,30 @@
-######################################################################################                    X### The Urantia Book Uversa Press Topical index# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press# Cada entrada viene precedida de una línea en blanco# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.#####################################################################################Rayos X | (41:5.1-5) | Ver radiactividad. | | 
-15 pies de superficie de densidad Urantia evitarían el escape solar deRayos X que provocan una explosión (41:5.1)permitir que la luz escape de los soles (41:9.1)energizar electrones en el interior de los soles (41:5.3-5)nivel de existencia atómica (41:7.1)modificar el plasma vital de plantas y animales (77:2.5)Materia preatómica que responde ligeramente a la gravedad cuando es activada por (42:6.2)la presión de los rayos X sostiene las capas externas de los soles (41:9.4)producido por la conmoción al detenerse repentinamente un electrón (42:5.8)categoría de energía de las olas (42:5.1)Jenófanes | | | | 
+####################################################################################
+#
+#                    X
+# The Urantia Book Uversa Press Topical index
+# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
+# Cada entrada viene precedida de una línea en blanco 
+# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
+# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
+# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
+# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+####################################################################################
+
+
+
+
+
+Rayos X | (41:5.1-5) | Ver radiactividad. | | 
+15 pies de superficie de densidad Urantia evitarían el escape solar de
+Rayos X que provocan una explosión (41:5.1)
+permitir que la luz escape de los soles (41:9.1)
+energizar electrones en el interior de los soles (41:5.3-5)
+nivel de existencia atómica (41:7.1)
+modificar el plasma vital de plantas y animales (77:2.5)
+Materia preatómica que responde ligeramente a la gravedad cuando es activada por (42:6.2)
+la presión de los rayos X sostiene las capas externas de los soles (41:9.4)
+producido por la conmoción al detenerse repentinamente un electrón (42:5.8)
+categoría de energía de las olas (42:5.1)
+
+Jenófanes | | | | 
 Griego; concepto de deidad panteísta (98:2.6)

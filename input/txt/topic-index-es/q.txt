@@ -1,15 +1,82 @@
-######################################################################################                    Q### The Urantia Book Uversa Press Topical index# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press# Cada entrada viene precedida de una línea en blanco# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.#####################################################################################codorniz | (61:2.12) | | | 
-Absoluto calificado | | Ver el Absoluto de la Deidad | | 
-Vicegerentes de lo último calificados | (30:1.106) (106:4.3) (117:7.4) | | | 
-Las ayudas de imagen reflectante representan (15:10.21)calidad | | | | 
-representa la estimación de valores (133:5.7)valores, sentidos por el alma (111:3.6)cuantos | | | | 
-energía solo liberada en (42:4.13-14) (42:5.6)comportamiento cuántico | | | | 
-confusión que acompaña a la mecánica ondulatoria (42:4.14) (42:5.6)cuarentena | | Ver rebelión de Lucifer; rebelión (espiritual) | | 
-Antiguos individuos afectados aislados (90:3.4)comunicación interplanetaria por enlace de Ajustadores autoactivos durante q. (108:4.4)de Satania por Norlatiadek (43:5) (46:8)	los circuitos no serán restaurados mientras Lucifer viva,	los archirrebeldes albergaron (46:8.1) (53:7.3) (53:9.6)	efecto durante la rebelión de Lucifer (53:6.5) (53:7.3)	durante 200.000 años (50:6.5)	Máximos impuestos (46:8.1-4) (53:4.7)de Urantia por Satania (46:8.2)	cuarentena eludida por el circuito de los arcángeles (114:5.4)	aislamiento espiritual (20:8.4)rebelión por causas del Príncipe Planetario (35:9.9)acto de autoprotección contra los desganados o los que dudan (54:5.10)la gravedad espiritual no se ve afectada por (7:1.7)reacción espiritualmente defensiva para salvaguardar la presencia de Dios (3:1.10)Efecto de los supervisores de circuitos del universo (24:1.12)mundos sujetos a cuarentena	están confundidos, retrasados ​​(50:6.1-3)	tienen dificultad para formular conceptos de Dios (4:3.3)	tener hijos observadores Vorondadek (35:5.6) (43:5.17)	intercomunicación denegada (33:6.5)	Solo el Hijo de autootorgamiento puede restablecer los circuitos (35:9.9)	readmisión decidida por Ancianos de los Días (33:7.6)	Los serafines llevan mensajes entre (39:5.17)	algunos circuitos esenciales para la reflectividad no funcionan (28:7.4)	visitantes de estudiantes permitidos en todos (48:3.10)	circuitos del sistema cortados por la rebelión (67:2.3)cuarzo | | | | 
-aurífero q. en las sierras (60:3.3)arenisca, piedra caliza transformada en (59:1.16) (59:3.1)Quebec | (59:3.2) | | | 
-Queensland | | | | 
-primer niño asesinado y devorado (89:5.4)cuestionamientos | | Ver duda | | 
-avivadores de la moralidad | | Ver serafines | | 
-serafines administradores; enseñar interacciones de libertad y lealtad (39:4.10-14)quinina | | | | 
-entre los primeros descubrimientos farmacéuticos (90:4.8)abandonadores | | | | 
+####################################################################################
+#
+#                    Q
+# The Urantia Book Uversa Press Topical index
+# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
+# Cada entrada viene precedida de una línea en blanco 
+# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
+# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
+# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
+# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+####################################################################################
+
+
+
+
+
+
+codorniz | (61:2.12) | | | 
+
+Absoluto calificado | | Ver el Absoluto de la Deidad | | 
+
+Vicegerentes de lo último calificados | (30:1.106) (106:4.3) (117:7.4) | | | 
+Las ayudas de imagen reflectante representan (15:10.21)
+
+calidad | | | | 
+representa la estimación de valores (133:5.7)
+valores, sentidos por el alma (111:3.6)
+
+cuantos | | | | 
+energía solo liberada en (42:4.13-14) (42:5.6)
+
+comportamiento cuántico | | | | 
+confusión que acompaña a la mecánica ondulatoria (42:4.14) (42:5.6)
+
+cuarentena | | Ver rebelión de Lucifer; rebelión (espiritual) | | 
+Antiguos individuos afectados aislados (90:3.4)
+comunicación interplanetaria por enlace de Ajustadores autoactivos durante q. (108:4.4)
+de Satania por Norlatiadek (43:5) (46:8)
+	los circuitos no serán restaurados mientras Lucifer viva,
+	los archirrebeldes albergaron (46:8.1) (53:7.3) (53:9.6)
+	efecto durante la rebelión de Lucifer (53:6.5) (53:7.3)
+	durante 200.000 años (50:6.5)
+	Máximos impuestos (46:8.1-4) (53:4.7)
+de Urantia por Satania (46:8.2)
+	cuarentena eludida por el circuito de los arcángeles (114:5.4)
+	aislamiento espiritual (20:8.4)
+rebelión por causas del Príncipe Planetario (35:9.9)
+acto de autoprotección contra los desganados o los que dudan (54:5.10)
+la gravedad espiritual no se ve afectada por (7:1.7)
+reacción espiritualmente defensiva para salvaguardar la presencia de Dios (3:1.10)
+Efecto de los supervisores de circuitos del universo (24:1.12)
+mundos sujetos a cuarentena
+	están confundidos, retrasados ​​(50:6.1-3)
+	tienen dificultad para formular conceptos de Dios (4:3.3)
+	tener hijos observadores Vorondadek (35:5.6) (43:5.17)
+	intercomunicación denegada (33:6.5)
+	Solo el Hijo de autootorgamiento puede restablecer los circuitos (35:9.9)
+	readmisión decidida por Ancianos de los Días (33:7.6)
+	Los serafines llevan mensajes entre (39:5.17)
+	algunos circuitos esenciales para la reflectividad no funcionan (28:7.4)
+	visitantes de estudiantes permitidos en todos (48:3.10)
+	circuitos del sistema cortados por la rebelión (67:2.3)
+
+cuarzo | | | | 
+aurífero q. en las sierras (60:3.3)
+arenisca, piedra caliza transformada en (59:1.16) (59:3.1)
+
+Quebec | (59:3.2) | | | 
+
+Queensland | | | | 
+primer niño asesinado y devorado (89:5.4)
+
+cuestionamientos | | Ver duda | | 
+
+avivadores de la moralidad | | Ver serafines | | 
+serafines administradores; enseñar interacciones de libertad y lealtad (39:4.10-14)
+
+quinina | | | | 
+entre los primeros descubrimientos farmacéuticos (90:4.8)
+
+abandonadores | | | | 
 niega la compasión (159:3.11)
