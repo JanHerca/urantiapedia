@@ -7,7 +7,7 @@
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
 # Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
 # Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas « »
 ####################################################################################
 
 
@@ -63,45 +63,44 @@ aborto | | Ver infanticidio | | OK
 el aborto ha sido una práctica muy común después del tabú sobre el parto entre los solteros (68:6.9)
 el embrión humano es una etapa parasitaria transitoria de la vida humana (112:5.4)
 
-Abraham (Antiguo Testamento) | (93:5) (126:1.2) | | PERSONA | 
+Abraham (Antiguo Testamento) | (93:5) (126:1.2) | | PERSONA | OK
 Su nombre original era Abram y se lo cambió por Abraham cuando su pacto con Melquisedek tomó un aspecto formal (93:6.5)
 Efectivamente se le aparecieron tres seres celestiales (93:6.7)
 Abraham fue un antepasado de José, el padre de Jesús (122:1.1)
 creyó a medias en el pacto con Melquisedec, la idea de la salvación únicamente por la fe sin la intervención de sacrificios o sacerdotes (93:4.5)
-nació en Ur; se marchó debido a la adoración al Sol que se habían establecido allí (133:9.2) (142:3.4)
+nació en Ur, pero se marchó debido a la adoración al Sol que se habían establecido allí (133:9.2) (142:3.4)
 Dijo Jesús en cierta ocasión que «los hijos de Abraham hacen obras de Abraham», acusando a sus contemporáneos de no ser consecuentes ni siquiera con su propia fe (162:7.3,5)
-Dives gritó en voz alta (169:3.2)
-temía que alguien lo matara para conseguir a Sara (93:9.3)
-Temeroso y tímido después de la desaparición de Melquisedec (93:9.3)
-encontró a pariente lejano en el trono egipcio (93:5.7)
-Dios puede levantar a los hijos de Abraham de las piedras (135:6.7)
-introdujo el sistema del diezmo (93:3.1)
-Jesús fue antes de Abraham (157:6.11) (162:7.6)
-Judíos
-	abrogaron el pacto de Miguel con Abraham (175:3.2)
-	creían que la historia nacional comenzaba con Abraham (96:2.3) (136:1.1)
-	rastreareon la genealogía de Abraham hasta Adán (78:7.3)
-	consideraban que Abraham había ordenado la ley oral (121:7.3-4)
-justificado por la fe (150:5.3)
-Queturá y Agar eran concubinas de (93:9.8)
-ambiciones reales; planeó someter a todo Canaán bajo el gobierno de Salem (93:5.9)
-se casó con su media hermana (82:5.4)
-Melquisedec encargó a Abraham mantener viva la verdad de un solo Dios (93:5.1)
-Melquisedec le reveló al observador Altísimo (43:5.17)
-El alumno brillante de Melquisedec, principal partidario (93:4.16)
-El pacto de Melquisedec con (93:6)
-avanzó sobre el enemigo de Lot con un ejército de 4000 (93:5.12)
-no tan viejo al nacer Isaac (93:9.8)
-La descendencia formó el núcleo del pueblo judío posterior (96:2.3) (96:5.9)
-Las circunstancias políticas facilitaron la promoción de Abraham de las enseñanzas de Salem en Egipto (95:3.5).
-los profetas de Abraham se sentarán con los creyentes gentiles (166:3.5)
-sacrificio de Isaac (89:6.8)
-vio el día de Jesús y se alegró (162:7.5)
-compartió en el botín de las campañas militares egipcias (93:5.7)
-hombre de negocios rico y astuto; no demasiado piadoso (93:6.8)
-lento para renunciar a los dioses domésticos (93:5.4)
-líder espiritual de todas las tribus circundantes (93:9.4)
-victoria sobre Chedorlaomer (93:4.14)
+en la parábola de Jesús de Dives el rico opulento y Lázaro el mendigo, el primero fue llevado al Hades (infierno) y el segundo al seno de Abraham, donde allí Dives suplica a Abraham que se envíe a alguien al mundo (169:3.2)
+temía que alguien lo matara para conseguir a Sara, su brillante esposa (93:9.3)
+se volvió temeroso y tímido después de la desaparición de Melquisedec (93:9.3)
+durante su estancia en Egipto encontró a pariente lejano en el trono egipcio y sirvió como comandante de dos expediciones militares con mucho éxito para este rey (93:5.7)
+Juan el Bautista decía a sus contemporáneos que «Dios puede levantar a los hijos de Abraham de las piedras», advitiéndoles contra creerse justificados ante Dios por su mera ascendencia (135:6.7)
+introdujo el sistema del diezmo en las enseñanzas de Melquisedek (93:3.1)
+Jesús declaró abiertamente en cierta ocasión a sus oyentes que él existía con anterioridad a Abraham (157:6.11) (162:7.6)
+los judíos como descendientes de Abraham
+	los judíos abrogaron el pacto de Melquisedek con Abraham al haber repudiado al Hijo de Dios. El plan existente de convertir a la estirpe de los hijos de Abraham en los portadores de la verdad en el mundo se hizo añicos (175:3.2)
+	creían que la historia nacional comenzaba con Abraham a pesar de que Abraham no fue el padre racial de todos los judíos (96:2.3) (136:1.1)
+	intentaron remontar la genealogía de Abraham hasta Adán, sin éxito, lo cual les llevó a introducir el diluvio y a los hijos de Noé como ascendientes de Abraham (78:7.3)
+	los judíos de tiempos de Jesús consideraban que Abraham había ordenado la ley oral y las tradiciones, y tenían verdadera veneración por ambas (121:7.3-4)
+Abraham fue justificado por la fe en el sentido de que tomó conciencia de que su salvación estaba asegurada gracias a seguir las enseñanzas de Melquisedek y no por el ritualismo (150:5.3)
+Queturá y Agar no fueron esposas de Abraham como cuenta el Génesis sino que eran concubinas. Sara fue la única esposa legal y ambos eran mucho más jóvenes de lo que indican los relatos, que lo que trataron es de resaltar la spueta milagrosidad del nacimiento de Isaac, el hijo de Abraham (93:9.8)
+ambicionó convertirse en rey y planeó someter a todo Canaán bajo el gobierno de Salem (93:5.9)
+se casó con su hermanastra, una costumbre muy habitual entonces (82:5.4)
+Melquisedec encargó a Abraham mantener viva la verdad de un solo Dios en lugar de muchos (93:5.1)
+Melquisedec le reveló al observador Altísimo, el Hijo Vorondadek que es realmente el que «gobierna en los reinos de los hombres» (43:5.17)
+Abraham se convirtió en uno de los alumnos más brillantes de Melquisedec y su principal partidario (93:4.16)
+Abraham renunció a su idea de conquistar Canaán y convertirse en rey en favor de la idea de Melquisedec de un reino espiritual (93:6)
+Lot, el sobrino de Abraham, vivía en Sodoma y recibió un ataque de sus enemigos. Abraham aprovechó para atacar a los enemigos de Lot con un ejército de 4000 hombres (93:5.12)
+La descendencia de Abraham formó el núcleo del pueblo judío posterior, pero el grueso del pueblo judío fueron simplemente nómadas que se unieron a la causa de Moisés (96:2.3) (96:5.9)
+Las circunstancias políticas, más bien que las religiosas, son las que facilitaron la promoción de Abraham de las enseñanzas de Salem en Egipto (95:3.5).
+Jesús declaró en cierta ocasión que los profetas salidos de entre la semilla de Abraham se sentarían un día junto a creyentes gentiles en un reino glorificado, indicando claramente a su generación que la salvación no sería una exclusiva del pueblo judío (166:3.5)
+el sacrificio de Isaac, aunque chocante para la mentalidad de hoy, era un tipo de práctica habitual en la época de Abraham, pero que finalmente el patriarca no realizó (89:6.8)
+Jesús declaró que Abraham vio por medio de la fe cómo llegaría un día en que Jesús vendría al mundo y se alegró por ello (162:7.5)
+Durante la última parte de su estancia al borde del Nilo, Abraham y su esposa Sara vivieron en la corte, y cuando se marchó de Egipto, recibió una parte del botín de sus campañas militares egipcias (93:5.7)
+Abraham fue un hombre de negocios rico y astuto, que aunque no demasiado piadoso sí que era sincero y creyente por completo en Melquisedek (93:6.8)
+fue lento para renunciar a los dioses domésticos que él y sus familiares trajeron consigo de Ur en Caldea (93:5.4)
+con el tiempo se convirtió en el líder espiritual de todas las tribus circundantes (93:9.4)
+tras su victoria sobre Kedorlaomer Abraham se sintió obligado a realizar un sacrificio convencional de sangre (93:4.14)
 
 Abraham el fariseo | | | PERSONA |
 bautizado por Abner (148:8.1)
@@ -111,8 +110,8 @@ líderes religiosos desesperados por la conversión de (149:3.2)
 
 Abram | | Ver Abraham (Antiguo Testamento) | PERSONA | 
 
-Absalón | | | PERSONA |
-demagogo; su madre era cananea (97:9.15)
+Absalón | | | PERSONA | OK
+Abasalón fue uno de los hijos del rey David. Se nos informa de que su madre era cananea y que hoy sería calificado de demagogo. Absalón fue aspirante al trono que finalmente ocupó Salomón (97:9.15)
 
 propietario ausente (parábola) | | Ver Jesús:parábolas de Jesús | | 
 parábola de Jesús (173:4)
@@ -244,10 +243,10 @@ para el creyente que conoce a Dios, no importa si todas las cosas terrenales se 
 
 logro | | Ver logro | | 
 
-Acaya | | Ver Grecia | LUGAR | 
-Andrés crucificado en Acaya (139:1.12)
-Corinto, capital de Acaya (133:2.5)
-Lucas escribe su evangelio en Acaya (121:8.8)
+Acaya | | Ver Grecia | LUGAR | OK
+Andrés el apóstol fue crucificado en Acaya (139:1.12)
+Corinto era la capital de Acaya. Por aquí pasó Jesús durante su viaje por el Mediterráneo (133:2.5)
+Lucas escribió su evangelio en Acaya (121:8.8)
 
 logro | | Ver acción; ganarse la vida; grandeza; iniciativa; Progreso; Servicio; riqueza | | 
 
@@ -328,8 +327,8 @@ los débiles se entregan a las resoluciones; acto fuerte (48:7.13)
 sopesar las consecuencias de (192:2.8)
 La religión de Zoroastro es una de. (95:6.3)
 
-Actium | | | LUGAR | 
-Victoria de Augusto en la batalla de (133:2.5)
+Actium | | | LUGAR | OK
+Actium es el escenario de una sonada victoria del emperador Augusto en su batalla contra Marco Antonio. Para conmemorar este hecho Augusto fundó Nicópolis, que quiere decir «ciudad de la vistoria» (133:2.5)
 
 actores | | | | 
 reproductores celestiales, los artesanos celestiales son (44:2.6-10)
@@ -439,13 +438,13 @@ sin gusto por la guerra (75:6.2)
 no en la ascendencia de José, padre de Jesús (122:1.1)
 uno de los 24 consejeros (45:4.11)
 
-Adán (original de Satania) | (51:0.1) | | PERSONA | 
-cabeza de los Hijos Materiales de Satania (45:3.16)
-inmortal por dotación inherente (51:1.5)
+Adán (original de Satania) | (51:0.1) | | PERSONA | OK
+es el jefe supervisor de los Hijos Materiales de Satania (45:3.16)
+este Adán y su consorte Eva son los dos únicos en Satania que son inmortales por dotación inherente. Su descendencia requiere de un sincronismo mental con el Espíritu para poder ser inmortales (51:1.5)
 
-Adam (pueblo) | | | LUGAR | 
-Juan el Bautista atacó a Herodes en (135:10.2)
-en el río Jordán (135:7.2)
+Adán (pueblo) | | | LUGAR | OK
+en este pueblo al este del Jordán es donde Juan el Bautista pronunció sus palabras de ataque contra Herodes Antipas (135:10.2)
+Juan el Bautista pasó por este pueblo cuando viajó hacia el norte siguiendo el río Jordán (135:7.2)
 
 Dispensación adánica | | Ver épocas planetarias | | 
 
@@ -507,15 +506,15 @@ cultivó trigo y cebada (81:1.7)
 vivió 396 años (77:5.7)
 supervivencia de las tradiciones sobre Adamson en Grecia (98:1.1)
 
-Adamsonitas | | | RAZA | 
-bronce descubierto (81:3.5)
-sede cerca del Mar Caspio (78:1.3)
-liderado por Sato, se instaló en Grecia en el 10.000 a.C. (80:7.3-4)
-mantuvo una alta cultura durante 7000 años (77:5.9)
-con Adamitas formaron una raza violeta (78:1.3)
+Adansonitas | | | RAZA | OK
+los adansonitas fueron los descubridores del bronce (81:3.5)
+la sede adansonita se encontraba al este de la costa meridional del Mar Caspio, cerca de los montes Kopet (78:1.3)
+los adansonitas, liderados por Sato, un descendiente directo de Adansón y Ratta, se instalaron en Grecia en el 10.000 a.C., y formaron los antepasados de los griegos (80:7.3-4)
+los adansonitas son los descendientes de Adansón, hijo de Adán y Eva, y Ratta, una nodita superviviente. mantuvieron una cultura elevada durante 7.000 años. Se mezclaron con noditas y andonitas pero su cultura sobrevivió hasta formar parte de la civilización europea posterior (77:5.9)
+junto a los adamitas formaron la raza violeta, una de las nueve razas puras que han existido en la Tierra (78:1.3)
 
-Adén | | | PERSONA | 
-predicador extraño; convertido por Amós de Kheresa (159:2)
+Aden | | | PERSONA | OK
+Aden es un predicador extraño del evangelio que fue convertido por Amós de Jeresa, el demente a quien supuestamente Jesús había curado de una posesión. El apóstol Juan le prohibió predicar, pero él hizo caso omiso y consiguió reunir a un grupo considerable de creyentes, continuando su predicación en Mesopotamia (159:2)
 
 Montañas de Adirondack | (58:7.4) | | LUGAR | 
 
@@ -613,36 +612,36 @@ la mente mortal es dotación de (36:2.18)
 Los Espíritus Maternos se consideran personalidades (34:4.10) (36:5.4)
 no interesado en la evolución física (65:7.2)
 
-ayudantes de los circuitos de Havona | | | ORDEN | 
-cada espíritu de circuito tiene 12 (26:5.5)
-en la clasificación del Paraíso (30:1.59)
-probar el cumplimiento del peregrino con los requisitos para avanzar (26:5.5)
+Ayudantes de los Circuitos de Havona | | | ORDEN | OK
+cada Espíritu de los Circuitos tiene doce de estos ayudantes. Nosotros los mortales de Urantia algún día seremos llevados ante el séptimo Espíritu de los Circuitos, el de Orvonton, y antes su doce Ayudantes de los Circuitos. Allí tendremos que probar nuestro cumplimiento con los requisitos para avanzar hacia Havona (26:5.5)
+en la clasificación de seres se encuentran dentro de los llamados Espíritus Supremos que forman parte de los seres de origen único, descendientes de una única Deidad (30:1.59)
 
-asistentes administrativos | | Ver serafines | ORDEN | 
-serafines administradores; servir a los soberanos del sistema y a los príncipes planetarios; 1000 sirven en Urantia (39:4.2-3)
+Asistentes Administrativos | | Ver serafines | ORDEN | OK
+forman parte de la cuarta orden de serafines, los serafines administradores, que está destinada a las tareas administrativas de los sistemas locales. Sirven a los Soberanos de los Sistemas y a los Príncipes Planetarios. Actualmente mil de ellos sirven en Urantia (39:4.2-3)
 
-enactores administrativos | | | ORDEN | 
-reproductores celestiales, artesanos celestiales (44:2.9)
+actores administrativos | | | ORDEN | OK
+son uno de los siete grupos de los seres llamados reproductores celestiales, que se dedican a reproducir cosas de valor supremo en el nivel morontial. Los actores administrativos son aquellos que que describen la importancia de la filosofía gubernamental y de la técnica administrativa, los dramaturgos celestiales de la soberanía (44:2.9)
 
-serafines administrador | (39:4) | Ver serafines | ORDEN | 
-gobernante en funciones de Urantia asistido por 1000 (39:4.3)
-autóctono de las capitales del sistema; principalmente ocupado con (39:4.1)
-muchos perdidos en la rebelión de Lucifer; Manotia leal (53:6.2,4) (53:7.6) (67:3.2)
-residencia en los círculos de Jerusem (46:5.22)
-tipos (39:4)
-	1. asistentes administrativos q.v.
-	2. la justicia guía q.v.
-	3. intérpretes de ciudadanía cósmica q.v.
-	4. avivadores de la moral q.v.
-	5. transportadores (39:4.15)
-	6. registradores (39:4.16)
-	7. reservas (39:4.17-18)
+serafines administradores | (39:4) | Ver serafines | ORDEN | OK
+el gobernante en funciones de Urantia está asistido por mil de ellos (39:4.3)
+forman la cuarta orden de los serafines y están asignados a las tareas administrativas de los sistemas locales. Son nativos de las capitales de los sistemas pero también se encuentran en las esferas arquitectónicas y en los mundos habitados (39:4.1)
+se perdió a muchos de esta orden en la rebelión de Lucifer. Fue la orden más perjudicada. Manotia fue un ángel leal que logró salvar a dos tercios de ellos, pero un tercio se perdió. En Urantia la situación fue más desastrosa pues cerca de la mitad de los serafines administradores apoyaron la causa de Lucifer (53:6.2,4) (53:7.6) (67:3.2)
+su residencia se encuentra en los círculos de Jerusem, en concreto en el cuarto círculo, y constituyen un grupo muy numeroso (46:5.22)
+tipología (39:4.2)
+	Están organizados para el servicio de la manera siguiente:
+	1. Los Asistentes Administrativos (39:4.2-3)
+	2. Los Guías de la Justicia (39:4.4-6)
+	3. Los Intérpretes de la Ciudadanía Cósmica (39:4.7-9)
+	4. Los Estimuladores de la Moralidad (39:4.10-14)
+	5. Los Transportadores (39:4.15)
+	6. Los Registradores (39:4.16)
+	7. Las Reservas (39:4.17-18)
 
-Adonai | | | PERSONA | 
-Denominación semita de la Deidad (96:1.9)
+Adonai | | | PERSONA | OK
+Era una de las denominaciones con las que los semitas evitaban el uso del nombre de su Deidad, nombre que consideraban tabú (96:1.9)
 
-Adonia | | | LUGAR | 
-metrópolis comercial de Asia central cerca de Ashkhabad (79:1.4)
+Adonia | | | LUGAR | OK
+fue la metrópolis comercial de Asia central cerca de Ashjabad. Este comercio fue impulsado por las tribus anditas, que preferían la manufactura al pastoreo (79:1.4)
 
 adopción | | | | 
 antiguas ceremonias de beber sangre, intercambio de saliva (70:3.6-8)
@@ -670,44 +669,54 @@ El personal de Prince nunca envió emisarios excepto a pedido (66:6.5)
 Comisión Asesora de Ética y Autogobierno | | | | 
 Las reservas de Fieles de los Días funcionan como (18:7.1)
 
-Afganistán | | | LUGAR | 
-centro de la cultura primitiva Badonan (79:0.1)
+Afganistán | | | LUGAR | OK
+En las regiones montañosas de Afganistán es donde durante más de medio millón de años sobrevivió el más importante centro de la cultura primitiva, fundado por Badonán, un descendiente de los primeros seres humanos (79:0.1)
 
-África | | Ver Bosquimanos; Ciudad del Cabo; Egipto; raza índigo; Libia; Pigmeos; Tribu Toda | LUGAR | 
-Migración andónica a (64:1.5)
-el canibalismo al que se recurre como medida de guerra (89:5.4)
-Los misioneros cristianos causaron confusión en (66:6.7)
-piedras fetiche (85:1.4)
-pocos anditas penetraron más allá de las cabeceras del Nilo (78:5.5)
-geología (58:4.3) (59:1.15,17) (59:4.5-7) (59:5.4,11,20) (59:6.5) (60:1.4) (60:3.16) (61:1.13) ( 61:4.2,6) (61:5.3)
-los animales terrestres vivían continuamente solo en (60:1.2)
-los nativos de África son pueblos pastores más recientes (68:5.6)
-Los neandertales se extendieron a (64:4.1)
-Centros noditas en el norte (80:1.2)
-una vez conectado Europa con América del Sur (59:5.11)
-las razas naranja, verde e índigo gravitaron hacia (64:7.1,3,13)
-los prereptiles evolucionaron en (59:6.8)
-Se cree que el arco iris es una serpiente (85:4.2)
-los reptiles aparecieron por primera vez en (60:1.9)
-surgió de las profundidades del Pacífico (57:8.21)
-Los misioneros de Salem penetraron en las tribus más remotas de (94:0.1)
-Simón Zelotes murió en el corazón de (139:11.11)
-Tomás predicó en el norte (139:8.13)
-las tribus creían en ka y ba (111:0.4)
-cordón umbilical considerado fetiche en (88:1.8)
-esposas todavía compradas en (83:3.1)
+África | | Ver bosquimanos; Ciudad del Cabo; Egipto; raza índiga; Libia; pigmeos; tribu Toda | LUGAR | OK
+evolución geológica
+	Hace 800 millones de años se produjo la primera elevación terrestre de un único continente, surgido del oceáno Pacífico, que ya contenía la primigenia África (57:8.21)
+	Hace 500 millones de años África se desplazó al sur creando la cuenca del Mediterráneo (58:4.3)
+	Hace 370 millones de años se produjo el hundimiento de África, junto al de muchos otros continentes, que duró cinco millones de años (59:1.15,17)
+	Hace 270 millones de años África estaba emergida, como todos los continentes, pero cinco millones de años después se inundó (59:4.5-7)
+	Hace 210 millones de años África se encontraba muy elevada. América del Sur se encontraba conectada con Europa por medio de África. Hace 180 millones de años se terminó el período carbonífero que había dado lugar a carbón en el norte de África (59:5.4,11,20)
+	Hace 170 millones de años desapareció el continente que había conectado América del Sur con África (59:6.5) 
+	Hace 160 millones de años sólo vivieron animales terrestres de forma continuada en África. Se formó una capa caliza en África durante este período (60:1.2,4) 
+	Hace 65 millones de años hubo una de las mayores erupciones de lava de todos los tiempos que afectó a África del norte (60:3.16) 
+	Hace 50 millones de años, durante el eoceno, se produjeron depósitos de creta en las costas de África (61:1.13) 
+	Hace 10 millones de años el mar Mediterráneo cubría una gran parte del norte de África (61:4.2,6) 
+	Hace 5 millones de años, al principio de la época glacial, África estuvo poco afectada por el hielo (61:5.3)
+evolución y migraciones raciales
+	África estuvo unida a Europa mediante el puente terrestre de Sicilia, lo cual propició la migración de los andonitas a África (64:1.5)
+	pocos anditas penetraron más allá de las cabeceras del Nilo en sus migraciones en África. Algunos anditas mestizos descendieron por debajo del ecuador, pero ninguno llegó a Madagascar (78:5.5)
+	los nativos de África se cuentan entre los pueblos pastores más recientes (68:5.6)
+	Los neandertales se extendieron por todas partes desde lo que hoy es China hasta Francia e incluso descendieron al norte de África por el puente terrestre de esa época (64:4.1)
+	Los noditas se extendieron por el norte de África (80:1.2)
+	las razas de color no pudieron penetrar por mucho tiempo en África por culpa del extenso mar Mediterráneo. cuando pudieron hacerlo gracias a un paso terrestre, sólo las razas anaranjada, verde e índiga emigraron a África (64:7.1,3,13)
+	los prereptiles evolucionaron por primera vez en África a partir de las ranas (59:6.8)
+	África fue el lugar de aparición de los reptiles por primera vez, hace 140 millones de años (60:1.9)
+costumbres y creencias
+	las tribus de África han recurrido al canibalismo como medida de guerra, para atemorizar a sus enemigos (89:5.4)
+	en África se ha tenido mucha veneración de las piedras fetiche (85:1.4)
+	Todavía hoy en África se mantienen creencias como que el arco iris es una serpiente (85:4.2)
+	todavía en la actualidad se considera al cordón umbilical como un objeto fetiche muy apreciado (88:1.8)
+	los egipcios y muchas tribus africanas creían en ka y ba, dos factores de existencia en el individuo (111:0.4)
+	los africanos todavía compan a sus esposas siguiendo una antigua creencia por la que la propiedad es más valiosa que el amor conyugal (83:3.1)
+el evangelio en África
+	Las prácticas de los misioneros cristianos en África tratando en una sola generación de cambiar costumbres ancestrales lo único que han causado es confusión y una pérdida de autoridad (66:6.7)
+	Los misioneros de Salem penetraron en las tribus más remotas de África (94:0.1)
+	Simón Zelotes murió en el corazón de África predicando por todo el Nilo (139:11.11)
+	Tomás predicó entre otros lugares en el norte de África (139:8.13)
 
-Agaman | | | PERSONA | 
-en la 16a aparición de Jesús (193:0)
-viuda de Damasco; miembro del cuerpo de mujeres (150:1.1)
+Agaman | | | PERSONA | OK
+estuvo presente en la décimosexta aparición morontial de Jesús (193:0)
+Agaman era una viuda de Damasco que formó parte del cuerpo de mujeres que Jesús instrumentó en paralelo al de los doces apóstoles (150:1.1)
 
-Agni | | Ver hinduismo | PERSONA | 
-deidad antigua; exaltada cabeza del panteón védico (94:1.4) (94:4.6)
-La Trinidad degeneró en el símbolo trino del dios del fuego (79:3.4) (94:1.3) (104:1.2)
+Agni | | Ver hinduismo | PERSONA | OK
+Agni, el dios del fuego, fue una deidad antigua de los arios que a menudo era exaltada como cabeza del panteón védico (94:1.4) (94:4.6)
+Hacia el 16.000 a.C. la India casi fue conquistada a la idea de la Trinidad pero luego en cinco mil años degeneró en el símbolo trino del dios del fuego, Agni. En los principios del segundo milenio a.C. los dioses arios se organizaron bajo la dirección de Dyaus pitar, del cielo, Indra, del aire, y Agni, del fuego. Agni, el dios tricéfalo del fuego, fue durante mucho uno de los pocos remanentes de las ideas sobre la Trinidad que ya empezaron a diseminar en tiempos antiguos Adán y Eva y después Melquisedek (79:3.4) (94:1.3) (104:1.2)
 
-agondonters | | | ORDEN | 
-Tabamantia es un agondontero (50:7.2)
-criaturas que pueden creer sin ver (50:7.2)
+agondontario | | | ORDEN | OK
+los seres ascendentes, como los seres humanos, que viven un aislamiento planetario se conocen por el nombre de agondontarios, que significa criaturas volitivas evolutivas que pueden creer sin ver y perseverar cuando están aislados. Este el caso de nosotros, los habitantes de Urantia. Junto al resto de mundos aislados, en Jerusem se nos asigna un sector residencial propio y se les confía muy pronto tareas especiales que impliquen gran confianza. Tabamantia es un agondontario con estatus de finalitario que sobrevivió en una de las esferas en cuarentena implicadas en la primera rebelión que ha tenido lugar nunca (50:7.2)
 
 agricultura | | Ver plantas | | 
 origen accidental (81:1.6)
@@ -730,29 +739,29 @@ asesinó a los nabot para obtener su tierra (97:3.6) (97:9.19)
 Esposa fenicia de Acab papeles falsificados (97:9.19)
 resistió a Salmanasar en Karbar (97:9.18)
 
-Ahura-Mazda | | Ver Zoroastrismo | PERSONA | 
-cabeza de la galaxia de los siete dioses de Zoroastro (95:6.2) (98:5.3)
-Sol Invictus fue una degeneración de (98:5.3)
+Ahura-Mazda | | Ver Zoroastrismo | PERSONA | OK
+es el dios a la cabeza de la constelación de los siete dioses de Zoroastro (95:6.2)
+el dios Sol Invictus fue una degeneración de Ahura-Mazda (98:5.3)
 
-Ai | | | LUGAR | 
-emboscada a Ai imagen fiel de la matanza bárbara (69:8.3)
+Hai | | | LUGAR | OK
+el ataque a Hai, la ciudad que Josué aniquiló por completo con todos sus habitantes y su rey, es una muestra fiel de las matanzas bárbaras de tiempos antiguos, antes de que la esclavitud de los prisioneros de guerra hiciera progresar algo estas prácticas (69:8.3)
 
-Akkad | | | LUGAR | 
-Ciudad estado de Mesopotamia (78:8.9-10)
+Accad | | | LUGAR | OK
+se trata de una de las ciudades estado de Mesopotamia que tuvo en algún momento la soberanía de la región (78:8.9-10)
 
 Alabama | (58:7,4) (59:5,17) | | LUGAR | 
 
-Alaska | (58:7.4) (59:5.20) (60:3.2,12) | | LUGAR | 
-llegada de la raza roja (64:7.18) alquimia
+Alaska | (58:7.4) (59:5.20) (60:3.2,12) | | LUGAR | OK
+se nos dice que la raza roja llegó hasta Alaska (64:7.18)
 
 alquimia | | | | 
 convertido en química (81:2.9)
 
-Alexander (hermano de Philo) | | | PERSONA | 
-Banquero judío (130:3.9)
+Alejandro (hermano de Filón) | | | PERSONA | OK
+era un banquero judío de Alejandría, hermano del famoso filósofo Filón, con el cual tuvo negocios Gonod, el comerciante que contrató a Jesús durante su viaje por el Mediterráneo (130:3.9)
 
-Alejandro de Cirene | | | PERSONA | 
-maestro eficaz del evangelio; hijo de Simón de Cirene (187:1.10)
+Alejandro de Cirene | | | PERSONA | OK
+fue un maestro eficaz del evangelio en África, hijo de Simón de Cirene (187:1.10)
 
 Alejandro el Grande | | | PERSONA | 
 campaña en Punjab (79:4.3)
@@ -780,8 +789,8 @@ antepasados ​​de los corales (59:2.11)
 fósiles (58:7.2)
 piedra depositada por secreción de cal (59:2.3,11)
 
-Alá | | | PERSONA | 
-La presentación clara del Islam como la única Deidad (95:7.6)
+Alá | | | PERSONA | OK
+Alá es la sola y única Deidad del islam, concepto claro y bien definido en el cual ha residido la fuerza del islam (95:7.6)
 
 alegorías | | | | 
 Jesús desaconsejó el uso de (149:3.1) (151:2.1,7) (151:3.3)
@@ -791,8 +800,8 @@ descendiente de reptiles no progresivos (65:2.10)
 
 Todopoderoso | | Ver Supremo, el | PERSONA | 
 
-Todopoderoso, el trascendental | | | PERSONA | 
-Dios el Último manifestado a los universos del tiempo (118:2.4)
+Todopoderoso trascendental (el Omnipotente) | | | PERSONA | OK
+Se trata de una manifestación de Dios el Último a los universos del tiempo que se postula que ocurrirá cuando Dios el Último empiece a funcionar como supercontrol de los universos. En ese momento ejercerá el supercontrol del supertiempo y  del espacio trascendido sobre las funciones administrativas del Todopoderoso Supremo (118:2.4)
 
 Todopoderoso Supremo | | Ver Supremo, el | | 
 
@@ -800,8 +809,8 @@ Alfa y Omega | | | |
 Dios es el primero y el último (10:7.1)
 Jesús es (128:1.10)
 
-Alfeo | | | PERSONA | 
-padre de Jacobo y Judas Alfeo (138:4.1)
+Alfeo | | | PERSONA | OK
+Alfeo es el padre de los apóstoles Jacobo y Judas Alfeo (138:4.1)
 
 Gemelos Alfeo | (143:3.5) | Ver apóstoles de Jesús | PERSONA | 
 dormido junto al fuego (140:6.14)
@@ -829,10 +838,10 @@ regresó a sus hogares poco después de Pentecostés (192:4.7) (193:6.4)
 
 Carrera alpina | | Ver raza blanca:divisiones:central | RAZA | 
 
-Alpes | (60:1.4) (61:1.12-13) (61:7.3) | | LUGAR | 
-Migración de Heidelberg a (64:2.3)
-plantas y animales dislocados por glaciares encontrados en (61:7.16)
-volcanes en el Cretácico (60:3.6)
+Alpes | (60:1.4) (61:1.12-13) (61:7.3) | | LUGAR | OK
+Los Alpes es uno de los lugares por donde se diseminó la raza Heidelberg (64:2.3)
+muchas plantas y animales desplazados a causa de los glaciares se encuentran en lo alto de las montañas, como en el caso de los Alpes (61:7.16)
+Se produjeron grandes actividades volcánicas al sur de los Alpes durante el Cretácico (60:3.6)
 
 altares | | | | 
 cristiano primitivo y mitraico (98:6.3)
@@ -864,8 +873,8 @@ desinterés
 	antinatural, aparte del instinto paterno (16:9.7)
 Es imprudente mostrar simpatía a inferiores insalvables (52:2.12)
 
-Alvoring | | | LUGAR | 
-universo vecino a Nebadon (32:2.12)
+Alvoring | | | LUGAR | OK
+Alvoring es un universo local vecino a Nebadon (32:2.12)
 
 Amadon | | | PERSONA | 
 1-2-3 el primero apoyado (77:9.5)
@@ -882,14 +891,14 @@ descendientes de andonitas que permanecieron leales a Van y Amadon; término má
 se unió a los noditas para convertirse en vanitas (77:4.10)
 enemistad tradicional con los noditas (73:1.4)
 
-Amatha | | | PERSONA | 
-madre de Perpetua, esposa de Peter; curado de la malaria (145:2.15-16)
+Amata | | | PERSONA | OK
+Amata es la madre de Perpetua, la mujer de Simón Pedro. Padecía de malaria, enfermedad que suele cursar con fiebres cíclicas, motivo erróneo por el que se consideró que Jesús la curó de inmediato mientras la consolaba en su lecho. Sin embargo, Jesús sí la curó milagrosamente horas más tarde en el contexto de la curación multitudinaria que se produjo a la puesta de sol (145:2.15-16)
 
-Amathus | (128:1.14) (141:3-6) (147:6.3) (165:0.1) | | LUGAR | 
-diez leprosos sanados en (166:2)
+Amatus | (128:1.14) (141:3-6) (147:6.3) (165:0.1) | | LUGAR | OK
+población de Perea, al oeste de Gerasa y al sur de Pella, cerca de Ragaba. Allí Jesús curó a diez leprosos para mostrar a sus apóstoles lo errados que estaban al considerar a algunos pueblos como incapaces de aceptar el evangelio (166:2)
 
-Amasías | | | PERSONA | 
-Rey; asesinado después de la derrota militar (97:9.22)
+Amasías | | | PERSONA | OK
+Rey de Judá que fue asesinado después de la derrota militar en el ataque a sus vecinos del norte (97:9.22)
 
 embajadores | | | | 
 embajadores humanos
@@ -924,8 +933,8 @@ los nacidos del espíritu son tranquilos mientras que los más cariñosos a. per
 virtualmente destruido por las doctrinas védicas (94:2.4)
 se terminará en la eternidad, si vale la pena terminar (111:3.7)
 
-Amdon | | | PERSONA | 
-Pastor caldeo que vio por primera vez a Melquisedec (93:2.1-3)
+Amdón | | | PERSONA | OK
+es el pastor caldeo de origen sumerio que fue el primer testigo en ver a Melquisedek cuando se encarnó en la Tierra (93:2.1-3)
 
 Amenemope | | | PERSONA | 
 gran profeta egipcio (92:5.11) (95:3.5)

@@ -39,7 +39,7 @@ tonta idea de sembrar silvestres (70:7.12)
 Abdías | | | | 
 confirmó el evangelio de Isaías; sistema de sacrificios atacado sin miedo (97:5.4)
 
-Oban | | | | 
+Oban | | | LUGAR | 
 sede de Onagar en el Mediterráneo (63:6.7)
 
 obediencia | | Ver crianza de los hijos; disciplina; sumisión | | 
@@ -76,10 +76,10 @@ descendiente de cefalópodos (59:2.11)
 
 ofensa | | Ver críticas | | 
 
-Og | | | | 
+Og | | | PERSONA | 
 Incursión hebrea brutal y eficaz (69:8.3)
 
-Ohio | (61:7,9) | | | 
+Ohio | (61:7,9) | | LUGAR | 
 Río Ohio (59:4.6) (61:7.2)
 
 aceite (petróleo) | | | | 
@@ -97,7 +97,7 @@ El cuerpo de Jesús embalsamado con mirra, áloes (188:1.4,7) (189:4.3,5)
 Judas estaba resentido por el desperdicio de María (139:12.10)
 María derramó nardo sobre la cabeza y los pies de Jesús (172:1.5-8)
 
-Okhban | | | | 
+Okhban | | | PERSONA | 
 gran profeta egipcio; asesinado (95:3.5)
 
 Edad de piedra antigua | | Ver Edad de Piedra | | 
@@ -175,7 +175,7 @@ se cree que revela la voluntad de los espíritus; los cultistas de fantasmas con
 los curanderos confían mucho en (90:2.5)
 pura superstición infundada (150:3.8)
 
-omniaphim | | Ver ángeles | | 
+omniaphim | | Ver ángeles | ORDEN | 
 acompañó a Miguel en el autootorgamiento de Melquisedec (119:1.3,5)
 en registros de personalidad (30:1.84) (30:2.86)
 pueden convertirse en asesores técnicos; Compañeros del Paraíso (25:4.6) (25:8.1,8)
@@ -201,7 +201,7 @@ negar la autolimitación volitiva de Dios negaría su absolutismo volitivo (4:4.
 realidad trascendental (105:7.13)
 cuando Dios decreta una cosa, esa cosa es (131:1.2)
 
-Omnipotente, el | | | | 
+Omnipotente, el | | | ORDEN | 
 Dios el Último manifestado a los universos del tiempo (118:2.4)
 
 omnipresencia | (3:1) (118:2) (118:3.1) | | | 
@@ -230,17 +230,17 @@ Siete Espíritus Maestros revelan colectivamente (16:2.4)
 no quita nada a la libertad de decisión previamente conocida (118:7.1)
 realidad trascendental (105:7.13)
 
-Omri | | | | 
+Omri | | | PERSONA | 
 Rey; intentó comprar la propiedad de Shemer (97:9.18)
 
-Onagar | (92:5.8) | | | 
+Onagar | (92:5.8) | | PERSONA | 
 Andonita; primer maestro de la verdad, cerebro de la era del Príncipe Preplanetario (45:4.3) (63:6)
 nacido hace 983.323 años (63:6.8)
 instituyó un gobierno tribal eficiente (63:6.8)
 uno de los 24 consejeros (45:4.3)
 oración de (63:6.5-6)
 
-Onamonalonton | | | | 
+Onamonalonton | | | PERSONA | 
 Amerinds buscó el regreso de (92:5.6)
 Descendientes de los indios Blackfoot (64:6.7)
 centro en California es la cultura amerindia más antigua (79:5.8)
@@ -262,16 +262,16 @@ presidentes de, constituyen el gabinete de trabajo de Gabriel (33:8.4-5)
 Una verdad | | | | 
 Singlangton proclamó a Dios a la raza amarilla como (64:6.15) (79:6.10) (79:8.4)
 
-UNO SIN CAUSA. Mira yo soy | | | | 
+UNO SIN CAUSA. Mira yo soy | | | PERSONA | 
 
-Un Alma Suprema Universal | | Ver Alma Suprema Universal | | 
+Un Alma Suprema Universal | | Ver Alma Suprema Universal | PERSONA | 
 
-Uno sin nombre y número | | Ver aquellos sin nombre y número | | 
+Uno sin nombre y número | | Ver aquellos sin nombre y número | PERSONA | 
 
 rezumar | | | | 
 ascenso del hombre desde (65:2.1)
 
-Ofel | | | | 
+Ofel | | | LUGAR | 
 en Jerusalén (162:4.4)
 
 opiáceo | | Ver intoxicación | | 
@@ -316,7 +316,7 @@ Pueblos latinos consultados o. en crisis (98:3.4)
 
 ley oral | | Ver judaísmo:ley oral; tradiciones | | 
 
-raza naranja | (64:6.10-13) | Ver carreras | | 
+raza naranja | (64:6.10-13) | Ver carreras | RAZA | 
 creía en la transmigración y la reencarnación (86:4.6)
 destruido
 	absorbido por la raza verde (64:6.11,13) (64:7.16)
@@ -373,7 +373,7 @@ causa, luego equilibra, movimientos de la metamorfosis de la realidad (115:3.12)
 hace posible la coexistencia del hombre actual y el hombre eterno (115:3.15)
 manifestación fuente del YO SOY (115:3.6,11)
 
-Hijo Madre Original | | Ver Hijo Eterno | | 
+Hijo Madre Original | | Ver Hijo Eterno | PERSONA | 
 
 doctrina del pecado original | | | | 
 contabilizado por muerte; agarre debilitado de la magia (88:4.7)
@@ -392,7 +392,7 @@ originalidad | | Ver iniciativa; Estandarización | |
 la sociedad debe fomentar (70:2.18)
 luchar por o. mientras evita la excentricidad (149:4.4)
 
-Orlandof | | | | 
+Orlandof | | | PERSONA | 
 uno de los 24 consejeros (45:4.6)
 maestro de la raza azul hace 200.000 años (45:4.6) (64:6.23)
 
@@ -407,14 +407,14 @@ adoptado en las familias del personal corpóreo de Prince (66:7.5)
 Hermandad órfica | | | | 
 lo mejor de los cultos misteriosos (98:2.10)
 
-Orvonon | | | | 
+Orvonon | | | PERSONA | 
 uno de los 24 consejeros (45:4.10)
 maestro de raza índigo (64:6.26)
 
-Orvonton (satélite Paradise) | | | | 
+Orvonton (satélite Paradise) | | | LUGAR | 
 Satélite del paraíso para el séptimo superuniverso (17:1.5)
 
-Orvonton (superuniverso) | (15:3) | Ver superuniversos, los siete; Uversa | | 
+Orvonton (superuniverso) | (15:3) | Ver superuniversos, los siete; Uversa | LUGAR | 
 Séptima galaxia (15:3.4)
 ¿Andrómeda en una parte deshabitada de Orvonton? (15:4.7)
 compuesto de
@@ -439,7 +439,7 @@ el día estándar son 30 días de Urantia, el año son 3000 días de Urantia (15
 superuniverso # 7 en el gran universo; nuestro superuniverso (0:0.5) (12:1.12) (15:1.5) (15:14.7) (30:4.34)
 Uversa es capital de (0:0.5) (15:7.10-11)
 
-Osiris | | | | 
+Osiris | | | PERSONA | 
 consorte de Isis (95:5.12)
 las almas difuntas pasaron por la sala del juicio de (95:2.9)
 hijo de Isis en el culto misterioso egipcio (97:6.2) (98:4.2-8)
@@ -479,9 +479,9 @@ Juan Marcos permitió tener una experiencia original; no estaba sobreprotegido (
 
 sobrerevelación | | Ver revelación:sobre revelación | | 
 
-Alma Suprema, Universal | | Ver Alma Suprema Universal | | 
+Alma Suprema, Universal | | Ver Alma Suprema Universal | PERSONA | 
 
-alma suprema de la creación | | Ver Supremo, el | | 
+alma suprema de la creación | | Ver Supremo, el | PERSONA | 
 
 sobreespecialización | | Ver carreras; ganarse la vida; labor; habilidades | | 
 peligro de la monotonía (81:6.36)
@@ -489,7 +489,7 @@ Jesús deploró (149:4.3,6) (155:1.4)
 
 sobreenseñanza | | Ver educación; revelación:sobrerevelación | | 
 
-Ovidio | | | | 
+Ovidio | | | PERSONA | 
 Fenicio que proclamó las doctrinas de Salem en Ur; convertido
 Familia de Taré (93:5.4)
 

@@ -19,7 +19,7 @@ salario | | Ver ganarse la vida | |
 se despierta por muerto | | | | 
 origen en cultos fantasma (87:6.11)
 
-Gales | | Ver Islas Británicas | | 
+Gales | | Ver Islas Británicas | LUGAR | 
 reposo soberanía en el Reino Unido (134:6.3)
 
 paredes | | | | 
@@ -147,7 +147,7 @@ participarán en el mundo venidero (166:3.5)
 Emblema de la Pascua (127:6.7)
 espiritual w. surge en los creyentes (34:6.8)
 
-Aguas de Merom | (134:7.5) (157:3.2) (158:7.1) | | | 
+Aguas de Merom | (134:7.5) (157:3.2) (158:7.1) | | LUGAR | 
 
 serpiente de agua | | | | 
 si su hijo pide un (144:2.4)
@@ -301,12 +301,12 @@ Nalda, mujer en el pozo (143:5)
 hombres lobo | | | | 
 idea derivada de la creencia de que las almas podían entrar en los animales (86:5.12)
 
-Indias Occidentales | (59:1.5) (60:4.3) (61:1.13) | | | 
+Indias Occidentales | (59:1.5) (60:4.3) (61:1.13) | | LUGAR | 
 
 civilización del oeste | | | | 
 se tambalea bajo la culpa de los fracasos (195:10.20)
 
-Western Ghats | | | | 
+Western Ghats | | | LUGAR | 
 Asentamientos dravídicos a lo largo de la costa de (79:3.6)
 
 ballenas | | | | 
@@ -329,7 +329,7 @@ torbellino | | | |
 El padre no se revela a sí mismo en w. (148:6,10)
 los que siembran viento segarán w. (131:2.9)
 
-raza blanca | (80:9) | Ver caucásicos; Razas | | 
+raza blanca | (80:9) | Ver caucásicos; Razas | RAZA | 
 375 Adamsonitas que se establecieron en Grecia llevaron las cepas más valiosas ca. 10,000 a.C. (80:7,4)
 culto a los antepasados ​​después de la caída de la civilización romana (79:8.3)
 Cristianismo bien adaptado a las costumbres actuales de (98:7.11)
@@ -373,7 +373,7 @@ viuda de Tiro (149:1.9)
 la viudez es muy temida bajo ciertas costumbres (82:3.12)
 ácaros de la viuda (172:4.2)
 
-desierto de Judea | | | | 
+desierto de Judea | | | LUGAR | 
 Juan el Bautista cuidaba ovejas en (135:2.3)
 
 será | | Ver libre albedrío | | 
@@ -457,7 +457,7 @@ heridas tratadas con (90:4.9) (164:1.3)
 alas | | | | 
 origen de la idea que tienen los ángeles (39:5.11-14)
 
-Wisconsin | (58:7,4) (58:7,7) | | | 
+Wisconsin | (58:7,4) (58:7,7) | | LUGAR | 
 
 sabiduría | (85:7.3) | Ver espíritus ayudantes de la mente:# 7 – sabiduría | | 
 70 divisiones de (27:6.3)
@@ -555,7 +555,7 @@ practicantes del arte negro llamados (90:2.2)
 aflicción | | | | 
 ¡Ay de vosotros, escribas, fariseos, hipócritas! (163:6.5) (166:1.4-5) (175:1) (175:4.2)
 
-Wolvering | | | | 
+Wolvering | | | LUGAR | 
 universo vecino a Nebadon (32:2.12)
 
 lobos | (61:3.13) | | | 
@@ -628,7 +628,7 @@ gobernar a los hombres en algunos planetas (52:2.7)
 especialización laboral basada en el sexo (69:3.2-3) (69:4.2)
 donde está la mujer siempre se considera su hogar (68:2.6)
 
-cuerpo de mujeres | (150:1) (159:0,1) | | | 
+cuerpo de mujeres | (150:1) (159:0,1) | | PERSONA | 
 Abner a cargo de (163:7.3)
 creyó que Jesús resucitó (190:1.2)
 visitas de casa en casa (151:0.2)
@@ -683,16 +683,16 @@ gobierno mundial | | Ver gobierno:gobierno mundial | |
 mundo de la cruz | | | | 
 Urantia conocida como (20:6.6) (57:8.6) (119:8.8) (188:4.1)
 
-mundo del Padre | | Ver Jerusem:mundos culturales de transición | | 
+mundo del Padre | | Ver Jerusem:mundos culturales de transición | LUGAR | 
 7 mundos circulares son esferas de detención (45:1.10)
 Satélite Jerusem, esfera silenciosa; mundo de la cultura de transición # 7 (45:1.9) (53:7.1)
 Los panoptianos son cuidadores (53:7.1)
 rebeldes retenidos (53:9.1)
 
-mundo de los Hijos | | Ver Jerusem:mundos culturales de transición | | 
+mundo de los Hijos | | Ver Jerusem:mundos culturales de transición | LUGAR | 
 mundo de la cultura de transición # 5 (45:1.7)
 
-mundo del Espíritu | | Ver Jerusem:mundos culturales de transición | | 
+mundo del Espíritu | | Ver Jerusem:mundos culturales de transición | LUGAR | 
 mundo de la cultura de transición # 6 (45:1.8)
 
 Primera Guerra Mundial | | | | 
@@ -781,7 +781,7 @@ distorsión de valores en la adoración del poder de la riqueza (70:2.13)
 valor de la belleza para conducir a w. (167:6.5-6)
 la sabiduría se pierde en w iluminado y reflexivo. (112:2.11-13)
 
-constructores de adoración | | | | 
+constructores de adoración | | | ORDEN | 
 constructores divinos, artesanos celestiales (44:3.5)
 
 heridas | | | | 
@@ -816,4 +816,4 @@ los primitivos escribieron en corteza, arcilla, piedra, pieles, nidos de avispas
 
 marcha mala | | Ver el mal; iniquidad; pecado | | 
 
-Wyoming | (60:2.5) | | | 
+Wyoming | (60:2.5) | | LUGAR | 

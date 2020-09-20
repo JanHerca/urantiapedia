@@ -14,11 +14,11 @@
 
 
 
-Zaqueo | | | | 
+Zaqueo | | | PERSONA | 
 publicano jefe en Jericó (171:6.1)
 La visita de Jesús a Z .; Jesús enseñó (171:6) (171:8.1)
 
-Zacarías | (123:3.4) | | | 
+Zacarías | (123:3.4) | | PERSONA | 
 creyó la historia de Elizabeth sobre Gabriel sólo después de soñar (135:0.1)
 creía que Jesús se convertiría en el Mesías (122:8.4)
 conferenciado con José en Jerusalén (122:8.4)
@@ -31,10 +31,10 @@ arreglo previo con Simeón y Ana (122:9.2-3)
 envió reyes magos a Belén (122:8.6)
 advirtió a José de la inminente masacre de Herodes (122:10.4)
 
-Zadoc | | | | 
+Zadoc | | | PERSONA | 
 adoptó al antepasado de José (122:4.3)
 
-Zaphon | (159:0,2) (165:0,1) | | | 
+Zaphon | (159:0,2) (165:0,1) | | LUGAR | 
 
 celo | | Ver entusiasmo | | 
 
@@ -45,7 +45,7 @@ Simón, el hermano de María, era oficial de (127:2.4)
 Simon Zelotes era alto oficial de (138:2.8) (139:11.1)
 partido nacionalista fuerte opuesto a los impuestos romanos (127:2.1) (137:7.9)
 
-Zebedeo | (137:3.5) (138:5.4) (140:7.3) | | | 
+Zebedeo | (137:3.5) (138:5.4) (140:7.3) | | PERSONA | 
 celebró la Pascua con Anás en Jerusalén (129:2.8)
 le ordenó al hijo John que comprara una casa con el dinero de Jesús (129:2.4)
 la familia casi adoró a Jesús (129:1.10)
@@ -58,41 +58,41 @@ negocio propio de secado de pescado (139:1.1)
 compró el capital de José en una propiedad de Capernaum (127:6.10)
 con su esposa Salomé tuvo 3 hijos, 4 hijas (129:1.5)
 
-Zebedeo, David | | Ver a David Zebedeo | | 
+Zebedeo, David | | Ver a David Zebedeo | PERSONA | 
 
-Zebedeo, Santiago | | Ver Santiago Zebedeo | | 
+Zebedeo, Santiago | | Ver Santiago Zebedeo | PERSONA | 
 
-Zebedeo, Juan | | Ver a Juan Zebedeo | | 
+Zebedeo, Juan | | Ver a Juan Zebedeo | PERSONA | 
 
-Zebedeo, Salomé | | Ver a Salomé (esposa de Zebedeo) | | 
+Zebedeo, Salomé | | Ver a Salomé (esposa de Zebedeo) | PERSONA | 
 
-Zabulón | (146:3.10) (156:6.2) | | | 
+Zabulón | (146:3.10) (156:6.2) | | LUGAR | 
 
-Zacarías | | | | 
+Zacarías | | | PERSONA | 
 Libro de Zacarías
 	episodio del rey cabalgando sobre un asno (172:3.4)
 	Jesús citó (146:2.3)
 muerto entre el santuario y el altar (175:1.22)
 
-Zeus | | | | 
+Zeus | | | PERSONA | 
 Dyaus-Zeus era el jefe del panteón griego de dioses (98:1.3-4)
 trasplantado a Roma, Z.se convirtió en Júpiter (98:3.3)
 
 zinc | (59:3.4) (59:5.9) | | | 
 
-Zona del infinito | | | | 
+Zona del infinito | | | LUGAR | 
 en el Paraíso inferior directamente debajo de la Trinidad (11:5.2-4)
 
-Zofar | | | | 
+Zofar | | | PERSONA | 
 buscó un propósito oculto en las miserias de Job (148:6.8,9)
 
-Zoroastro | | Ver Zoroastrismo | | 
+Zoroastro | | Ver Zoroastrismo | PERSONA | 
 Llama simbolizada por el Espíritu (95:6.4)
 en contacto directo con los descendientes de misioneros de Salem (131:5.1)
 muy afectado por el espiritismo dual (92:5.12)
 destacado maestro religioso; apareció en Irán en el siglo VI a.C. (95:6.1) (121:6.4)
 
-Zoroastrismo | (92:6.8) | Ver Ahura-Mazda; Zoroastro | | 
+Zoroastrismo | (92:6.8) | Ver Ahura-Mazda; Zoroastro | RELIGION | 
 Resumen de Ganid de (131:5)
 influencia en el cristianismo (98:7.6)
 se opuso militantemente al mitraísmo (98:5.2)
@@ -102,5 +102,5 @@ religión de la moral (5:4.7)
 Los rimmonitas abrazaron creencias de (146:1.1-3)
 esparcido por la espada (95:6.4)
 
-Zulus | | | | 
+Zulus | | | RAZA | 
 religión del miedo a los fantasmas y el sacrificio (92:6.1)

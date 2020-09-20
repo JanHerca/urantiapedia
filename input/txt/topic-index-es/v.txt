@@ -52,9 +52,9 @@ advertencias
 	v. nunca puede ser estático (100:3.5)
 	v. no debe volverse desproporcionado (143:6.3)
 
-Van (lago) | | Ver el lago Van | | 
+Van (lago) | | Ver el lago Van | LUGAR | 
 
-Van (personal del Príncipe) | (67:6) | Ver Caligastia cien | | 
+Van (personal del Príncipe) | (67:6) | Ver Caligastia cien | PERSONA | 
 1-2-3 el primero apoyado (77:9.5)
 y todo el consejo leal en rebelión (67:4.1)
 podía comunicarse con los intermedios (74:4.3)
@@ -82,7 +82,7 @@ trabajo
 vanadio | | | | 
 el chorro de mar oxigena la sangre con (65:6.4)
 
-Vanitas | | | | 
+Vanitas | | | RAZA | 
 Amadonitas y noditas que abandonaron Nod por Van (77:4.10)
 
 vanidad | | Ver auto-importancia. | | 
@@ -131,7 +131,7 @@ velocidad máxima
 	para los Mensajeros Solitarios es de 840 mil millones de millas / segundo (23:3.3)
 	los atravesadores de gravedad se mueven instantáneamente (23:3.2)
 
-Veluntia | | | | 
+Veluntia | | | LUGAR | 
 sol masivo en Orvonton (41:4.6)
 
 venganza | | Ver venganza | | 
@@ -142,10 +142,10 @@ encantos mágicos elaborados a partir de (88:5.2)
 ventriloquia | | | | 
 empleado por los chamanes (90:1.4)
 
-Venus (dios) | | | | 
+Venus (dios) | | | PERSONA | 
 Afrodita, trasplantada a Roma (98:3.3)
 
-Venus (planeta) | | Ver Monmatia | | 
+Venus (planeta) | | Ver Monmatia | LUGAR | 
 los mortales que viven en Venus serían superrespiradores (49:2.13)
 El movimiento retrógrado demuestra que Venus fue originalmente satélite de Angona (57:5.13-14)
 apto para la vida? (15:6.15)
@@ -153,14 +153,14 @@ apto para la vida? (15:6.15)
 veredicto | | Ver juicio | | 
 eterno v. es, "Bien, buen siervo y fiel". (25:1,6)
 
-Virgilio | (195:2.6) | | | 
+Virgilio | (195:2.6) | | PERSONA | 
 
-Verónica de Cesarea de Filipo | | | | 
+Verónica de Cesarea de Filipo | | | PERSONA | 
 tocó el dobladillo del manto de Jesús (152:0.2-3) (171:7.8)
 
 vertebrados. Veo animales | | | | 
 
-Vesta | | | | 
+Vesta | | | PERSONA | 
 Diosa romana del hogar; Hestia en Grecia (98:3.3)
 
 veto | | | | 
@@ -168,10 +168,10 @@ El padre empuña el cetro (3:6.1)
 sobre el cónclave del sistema (55:8.1)
 sobre el gobierno planetario de Urantia ejercido por el observador Altísimo (114:5.1)
 
-Vevona | | | | 
+Vevona | | | PERSONA | 
 serafines ayudantes planetarios; jefe de almas de paz; proclamó el nacimiento de Jesús (39:5.5)
 
-Vicegerington | (13:1.11-14) | Ver esferas sagradas del paraíso | | 
+Vicegerington | (13:1.11-14) | Ver esferas sagradas del paraíso | LUGAR | 
 seno del Padre y del Hijo (13:1.11)
 Cuerpo de finalistas trinidizados conjuntos basados ​​en (31:1.5)
 seres trinidizados por criaturas mantenidos en reserva en (22:7.10) (23:4.3)
@@ -193,7 +193,7 @@ que vence al mundo es la fe (4:4.9)
 
 miradores | | Ver creencia | | 
 
-Vilton | | | | 
+Vilton | | | PERSONA | 
 grabadora del sistema local; Terciario Lanonandek # 374 (45:3.6)
 
 vid y ramas | | | | 
@@ -212,7 +212,7 @@ prohibido como procedimiento para ajustar diferencias (72:5.3)
 la religión se opone a la evolución social (99:0.2) (99:2.5)
 razas de competencia no reguladas (71:5.1)
 
-raza violeta | | Ver adanitas | | 
+raza violeta | | Ver adanitas | RAZA | 
 
 víboras | | Ver serpientes | | 
 líderes religiosos llamados descendientes de (175:1.21)
@@ -245,7 +245,7 @@ supremo v. es hacer de todo corazón la voluntad del Padre (16:7.10)
 virus | | Ver bacterias | | 
 la mayoría son hongos parásitos renegados (65:2.3)
 
-Vishnu | | | | 
+Vishnu | | | PERSONA | 
 Se afirma que Buda y Cristo son encarnaciones de (94:4.9)
 miembro del concepto trinitario hindú (104:1.5)
 a menudo se muestra con cabeza de caballo (85:3.4)
@@ -306,28 +306,28 @@ voces | | Ver conducciones; visiones | |
 Jesús no se permitió escuchar el versículo religioso (196:0.10)
 La voz de Jesús era musical, fascinante, autoritaria (125:5.1) (127:1.2) (154:6.5) (162:6.2) (183:3.5) (190:2.3)
 
-Voces de huestes angelicales | | Ver seconafines | | 
+Voces de huestes angelicales | | Ver seconafines | ORDEN | 
 seconafines primarios (28:4.11)
 
-Voces de actor conjunto | | Ver seconafines | | 
+Voces de actor conjunto | | Ver seconafines | ORDEN | 
 seconafines primarios (28:4.4)
 
-Voces de los hijos creadores | | Ver seconafines | | 
+Voces de los hijos creadores | | Ver seconafines | ORDEN | 
 hijos de Espíritus Reflexivos (40:10.2)
 seconafines primarios (28:4.6-10)
 
-Voces de misericordia | | Ver serafines | | 
+Voces de misericordia | | Ver serafines | ORDEN | 
 Los guías de justicia pueden convertirse (39:4.5)
 serafines superiores; fomentar emociones más santas de hombres y ángeles (39:2.5)
 
-Voces de siete espíritus maestros | | Ver seconafines | | 
+Voces de siete espíritus maestros | | Ver seconafines | ORDEN | 
 seconafines primarios (28:4.5)
 
-voces del jardín | | Ver serafines; Solonia | | 
+voces del jardín | | Ver serafines; Solonia | ORDEN | 
 ayudantes planetarios, serafines personales de Adán y Eva (39:5.3)
 Solonia reprendió a Adán y Eva por desobedecer (51:3.5) (73:7.5) (74:8.15) (75:4.2,8) (75:8.8) (76:6.5)
 
-Voces de sabiduría | | Ver seconafines | | 
+Voces de sabiduría | | Ver seconafines | ORDEN | 
 seconafines secundarios, asociados reflexivos de los Perfeccionadores de la Sabiduría; en enlace con las bibliotecas vivientes del Paraíso (28:5.7-10)
 
 volcanes | (60:3.16) (61:1.11-12) (61:2.3) (61:3.7) | | | 
@@ -342,7 +342,7 @@ Los flujos de lava trajeron metales pesados ​​a la superficie (58:5.2)
 v. del este de Kentucky fue uno de los más grandes (59:2.5)
 Yahvé se asoció con el volcán del monte Horeb (96:1.3,11) (96:4.5)
 
-Volga | | | | 
+Volga | | | LUGAR | 
 Ruta de invasión andita a Europa (80:4.1-2)
 
 voluntad | | Ver decisiones; Libre albedrío | | 
@@ -356,7 +356,7 @@ Volvox | (65:2,5) | | |
 médicos vudú | | Ver chamanes | | 
 típico de los magos de la antigüedad (88:6.1)
 
-Hijos de Vorondadek | (35:5-6secs) | Ver Most Highs | | 
+Hijos de Vorondadek | (35:5-6secs) | Ver Most Highs | ORDEN | 
 1 funciona en Urantia como observador Altísimo (109:7.7) (114:3.5) (114:4)
 12 administrar Norlatiadek (35:6.5) (43:5.2-15)
 12 sit en banc como tribunal superior de revisión (35:5.7)
@@ -379,11 +379,11 @@ servir como embajadores y cónsules (35:5.5)
 el trabajo pertenece a las funciones legislativas (35:5.7)
 escribió el artículo 36 (36:3.8)
 
-Mundos de Vorondadek | | | | 
+Mundos de Vorondadek | | | LUGAR | 
 7 mundos que rodean Salvington (35:7)
 ascendentes educados en la legislación universal sobre (35:7.1-2)
 
-Montañas de los Vosgos | (59:5.12) | | | 
+Montañas de los Vosgos | (59:5.12) | | LUGAR | 
 
 votación | | Ver sufragio | | 
 

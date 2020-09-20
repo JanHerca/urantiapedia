@@ -12,46 +12,46 @@
 
 
 
-Nabal | | | | 
+Nabal | | | PERSONA | 
 rico edomita; El rey David se casó con la viuda de (97:9.10)
 
-Nabodad | | | | 
+Nabodad | | | PERSONA | 
 Salem líder de la escuela en Kish (95:1.6)
 
-Nabón | | | | 
+Nabón | | | PERSONA | 
 Judío griego, sumo sacerdote mitraico (132:3.1,11)
 
-Naboths | | | | 
+Naboths | | | PERSONA | 
 asesinado por Acab para obtener su tierra (97:3.6) (97:9.19)
 
-Nabu | | | | 
+Nabu | | | PERSONA | 
 una de las principales deidades mesopotámicas (95:1.4)
 
-Nahor (evangelista) | | | | 
+Nahor (evangelista) | | | PERSONA | 
 cometió un error con el rechazo de Nazaret (150:9.3)
 
-Nahor (Antiguo Testamento) | | | | 
+Nahor (Antiguo Testamento) | | | PERSONA | 
 Hermano tibio de Abraham (93:5.4-5) (93:9.4)
 Moisés reunió descendientes de (96:5.9)
 
-Nahor (rabino) | | | | 
+Nahor (rabino) | | | PERSONA | 
 vino de Jerusalén a Nazaret para observar a Jesús (123:6.8-9)
 
 uñas | | | | 
 Tomás no creería hasta ver las marcas de (191:5.4)
 usado en la crucifixión (187:2.1)
 
-Naín | (124:1,12) (137:2,8) | | | 
+Naín | (124:1,12) (137:2,8) | | LUGAR | 
 colina de (122:6.1)
 José, padre de Jesús, trabajó en (123:3.8)
 hijo de la viuda en (146:6)
 
-Nalda | | | | 
-en la 17a aparición de Jesús (193:1)
-El primer pronunciamiento de Jesús de la naturaleza divina a (143:5.7-8)
-mujer junto al pozo; de Sychar (143:5)
+Nalda | | | PERSONA | OK
+ella estuvo en la décimo sétima aparición de Jesús (193:1)
+El primer pronunciamiento que Jesús hizo sobre su naturaleza divina se lo dirigió a Nalda (143:5.7-8)
+Nalda era la mujer que Jesús se encontró junto al pozo de Sicar (143:5)
 
-Namibia | | | | 
+Namibia | | | LUGAR | 
 Portador de vida primogénito de Nebadon (36:1.2)
 
 nombres | | | | 
@@ -62,34 +62,34 @@ el nombre de los padres se enorgullece del éxito de los niños (84:7.10,15)
 primitivos considerados n. como entidades separadas; podría ser empeñado (88:5.5)
 a los reveladores les resultó difícil traducir de manera significativa (18:4.3)
 
-Nanak, Guru | | Ver a Guru Nanak | | 
+Nanak, Guru | | Ver a Guru Nanak | PERSONA | 
 
-Naomi | | | | 
+Naomi | | | PERSONA | 
 novia en las bodas de Caná (137:3.6)
 
-Nápoles | (130:0,2) | | | 
+Nápoles | (130:0,2) | | LUGAR | 
 mendigo en Nápoles carecía de capacidad para responder (130:8.4)
 Claudio predicó en (130:8.1)
 Parada de Jesús en (130:8.4-5)
 
-Nasanta | | | | 
+Nasanta | | | PERSONA | 
 en la 16a aparición de Jesús (193:0)
 hija de Elman; miembro del cuerpo de mujeres (150:1.1)
 
-Nathan de Busiris | | | | 
+Nathan de Busiris | | | PERSONA | 
 llevó noticias de la crucifixión a Alejandría (191:6.1)
 
-Natán de Cesarea | | | | 
+Natán de Cesarea | | | PERSONA | 
 Judío griego; escribió el Evangelio de Juan (121:8.10) (139:4.4,15)
 
-Natán de Caná | | | | 
+Natán de Caná | | | PERSONA | 
 padre de Johab, novio de las bodas de Caná (137:3.6)
 escasez de vino (137:4.7)
 
-Natán de Nazaret | | | | 
+Natán de Nazaret | | | PERSONA | 
 alfarero (123:5.15) (124:1.3)
 
-Natanael (apóstol) | (139:6) (143:3.5) (144:1.7) (151:2.3) (164:0.1) (192:4.7) | Ver apóstoles de Jesús | | 
+Natanael (apóstol) | (139:6) (143:3.5) (144:1.7) (151:2.3) (164:0.1) (192:4.7) | Ver apóstoles de Jesús | PERSONA | 
 filósofo apostólico, soñador (139:6.4) (147:4.10) (191:0.7)
 en las apariciones de Jesús (191:2,5) (192:1-4) (193:0,3,5)
 asistió a la sesión del Sanedrín (164:5.3)
@@ -123,7 +123,7 @@ soltero; de Caná; sólo apoyo a padres enfermos; 25 en el año 26 d.C. (137:2.3
 velaba por las familias de los apóstoles (138:10.5) (139:6.7)
 bien educado (139:6.2)
 
-Natanael el fariseo | | | | 
+Natanael el fariseo | | | PERSONA | 
 invitó a Jesús a desayunar (166:1)
 
 Consejo Nacional de Defensa | | | | 
@@ -200,7 +200,7 @@ adoración de la naturaleza
 ombligos | | | | 
 los chamanes indujeron la autohipnosis mirando a sus (90:1.4)
 
-Nazaret | (138:1.4) | | | 
+Nazaret | (138:1.4) | | LUGAR | 
 ¿Puede salir algo bueno de N.? (123:5.7) (125:4.3) (137:2.2,6) (139:6.3) (187:2.5)
 centro de interpretación liberal de la ley judía (123:5.7-12) (124:4.8)
 chazán de la sinagoga de Nazaret q.v.
@@ -221,7 +221,7 @@ la sinagoga tenía una copia completa de las escrituras hebreas (123:5.3)
 escuela de la sinagoga; vista desde la colina arriba (123:5)
 la primavera de la aldea era el centro de los chismes (123:5.15)
 
-Nazareos | | | | 
+Nazareos | | | RELIGION | 
 Abner, antiguo jefe de (165:0.1)
 ascético y excéntrico; la mayoría se negó a aceptar a Jesús (142:8.1)
 creía en la venida del Mesías (137:7.12)
@@ -234,7 +234,7 @@ permitido entrar en el lugar santísimo en el templo (135:1.2)
 Sansón y el profeta Samuel fueron (135:1.2)
 prometió abstenerse de intoxicantes, dejar crecer el cabello, no tocar muerto (135:1.1-2) (135:2.1)
 
-Neandertales | (64:4) | | | 
+Neandertales | (64:4) | | RAZA | 
 raza azul invasora absorbida (64:7.9)
 Los adamitas exterminaron cepas de Neandertales en la raza azul (80:1.7)
 raza azul retardada por la absorción de (78:1.8) (79:5.1)
@@ -245,7 +245,7 @@ trabajo muy mejorado en pedernal (64:4.3)
 de Asia oriental contaminada con cepas animales degradadas (79:5.2)
 retrocedido no tenía religión, solo superstición (64:4.11-13)
 
-Nebadon | (33; 41) | Ver universos locales; Salvington | | 
+Nebadon | (33; 41) | Ver universos locales; Salvington | LUGAR | 
 administración (33)
 siendo forjado entre el yunque de la justicia y el martillo del sufrimiento (9:1.8)
 personalidades celestiales en Nebadon
@@ -332,25 +332,25 @@ consejo supremo de Salvington (188:3.12)
 Soberanos del sistema a quienes se les confían prerrogativas personales inusuales (45:2.1)
 lo que está impregnado de nuestro Espíritu Materno es Nebadon (41:0.1) (45:1.8) (116:5.13)
 
-Cuerpo de finalización de Nebadon | | Ver Cuerpo de perfección de Nebadon | | 
+Cuerpo de finalización de Nebadon | | Ver Cuerpo de perfección de Nebadon | ORDEN | 
 
-Cuerpo de perfección de Nebadon | | | | 
+Cuerpo de perfección de Nebadon | | | ORDEN | 
 alcanzado por los ascendentes fusionados con el Espíritu (37:5.4)
 los miembros adquieren sabiduría autorizada sobre Nebadon (40:10.6)
 
-Cuerpo de la Finalidad de Nebadon | | | | 
+Cuerpo de la Finalidad de Nebadon | | | ORDEN | 
 la identidad del alma de Jesús puede ser liberada para el liderazgo de (188:3.8)
 
-Centros de energía de Nebadon | | Ver centros del universo local | | 
+Centros de energía de Nebadon | | Ver centros del universo local | ORDEN | 
 
-Cuerpo Revelador de Nebadon | | | | 
+Cuerpo Revelador de Nebadon | | | ORDEN | 
 creación dirigida de la Parte II de los documentos de Urantia (56:10.22-23)
 
-Nabucodonosor | | | | 
+Nabucodonosor | | | PERSONA | 
 Rey de Babilonia que derrocó a Necao; destruyó Jerusalén, llevó a la población al cautiverio (97:9.25-26)
 Jeremías aconsejó entregar Jerusalén a (97:6.4)
 
-nebulosas | (15:4) (57:1-4) | | | 
+nebulosas | (15:4) (57:1-4) | | LUGAR | 
 etapa crítica de ruptura centrífuga (57:3.5)
 cada uno puede producir 100 millones de soles (15:4.5)
 las formas son barradas, anillos de contracción concéntricos, espirales, nubes de estrellas (15:3) (15:4.4-9) (15:5.3-5)
@@ -365,7 +365,7 @@ civilización primitiva forjada sobre yunques de (66:5.13)
 sociedad primitiva fundada en la reciprocidad de (68:1.3)
 atar al hombre con la realidad (99:7.5)
 
-Necho | | | | 
+Necho | | | PERSONA | 
 Egipcio que acabó con el rey Josías (97:9.24)
 derrocado por Nabucodonosor (97:9.25)
 
@@ -387,14 +387,14 @@ negativismo | | | |
 error mayor de las religiones modernas (140:4.7)
 a menudo entrenado en niños (103:2.5-6)
 
-Negroides | | Ver carreras | | 
+Negroides | | Ver carreras | RAZA | 
 raza mixta de naranja, verde e índigo (81:4.13)
 
 vecino | | | | 
 amor como yo (131:2.11,13) (159:5.4,9) (170:3.6) (180:1.1)
 quien es mi vecino (103:5.2) (140:8.11) (164:1.2)
 
-planeta vecino | (72) | Ver nación continental | | 
+planeta vecino | (72) | Ver nación continental | LUGAR | 
 nación continental (72:1-11secs)
 ninguna misión de los Hijos Paraíso hasta ahora (72:12.4)
 no muy lejos de Urantia (72:0.1)
@@ -402,19 +402,19 @@ otras naciones (72:12)
 Príncipe Planetario e Hijo Material incumplidos (72:0.3)
 Urantia mucho mejor preparado para el gobierno planetario (72:12.5)
 
-Nepal | | | | 
+Nepal | | | LUGAR | 
 Gautama nació en (94:7.1)
 
-Nephilim | | | | 
+Nephilim | | | RAZA | 
 Referencia del Antiguo Testamento a los noditas (77:2.3)
 
-Neptuno | | | | 
+Neptuno | | | LUGAR | 
 templo en Alejandría (130:3.4)
 
 Nereidas | | | | 
 Los monoteístas en evolución mantienen a los dioses subordinados como (96:1.14)
 
-Nerites | | | | 
+Nerites | | | RAZA | 
 erupción andita final de la región del Caspio (78:8.11)
 
 red arrojada al mar | | | | 
@@ -428,7 +428,7 @@ unidos por mesotrón recíproco (42:8.3)
 
 mandamiento nuevo | | Ver mandamientos | | 
 
-Nueva Guinea | | | | 
+Nueva Guinea | | | LUGAR | 
 el grupo se cree descendiente del loro (74:8.5)
 
 Nueva Jerusalén | | Ver Mesías | | 
@@ -469,21 +469,21 @@ visto con desagrado por los antiguos (88:5.4)
 El amor de la Maestra hace el mundo nuevo (180:1.5)
 no deben aceptarse simplemente porque son nuevas (81:6.39) (147:7.3)
 
-Nueva Zelanda | | | | 
+Nueva Zelanda | | | LUGAR | 
 tribu recibió revelaciones de Gabriel permitiendo sexo libre (92:2.5)
 
-Terranova | (58:7.4) | | | 
+Terranova | (58:7.4) | | LUGAR | 
 
 recién casados | | | | 
 origen de las travesuras realizadas (83:4.7)
 
-Cataratas del Niágara | (59:3.9) | | | 
+Cataratas del Niágara | (59:3.9) | | LUGAR | 
 Great Lakes vació a través de N.F. Hace 37.000 años (61:7.10)
 
-Nicea | | | | 
+Nicea | | | LUGAR | 
 Defensa de Atanasio en el concilio de (195:0.18)
 
-Nicodemo | (188:3.3) | | | 
+Nicodemo | (188:3.3) | | PERSONA | 
 después de la crucifixión
 	le pidió valientemente a Pilato el cuerpo de Jesús (142:6.9) (187:6.2) (188:0.3)
 	embalsamado el cuerpo de Jesús con mirra y áloes (188:1.4)
@@ -497,7 +497,7 @@ temía ser visto abiertamente con Jesús (142:6.1)
 Los seguidores de Jesús se reunieron en casa de (164:2.1) (174:5.5) (175:4.3) (183:4.4) (186:3.3) (189:4.2)
 La visita de Jesús con (142:6)
 
-Nicópolis | (130:0,3) | | | 
+Nicópolis | (130:0,3) | | LUGAR | 
 fundada por Augusto para conmemorar Actium (133:2.5)
 
 policía nocturna | | | | 
@@ -507,7 +507,7 @@ Dios del nilo | | | |
 El culto a Isis y Osiris se basa en la leyenda de (98:4.8)
 imagen en Luxor (111:0.5)
 
-Valle del Nilo | | Ver Egipto | | 
+Valle del Nilo | | Ver Egipto | LUGAR | 
 Abraham y Lot viajaron a (93:5.7)
 Adamitas y anditas viajaron a (78:3.2) (78:5.5) (78:6.8) (79:1.3)
 Los anditas disfrutaron de una posición protegida de (80:6)
@@ -518,7 +518,7 @@ Semitas esclavizados en (96:2.2)
 luchas de las razas verde y naranja en (64:6.13)
 extremo occidental de la cuna de la civilización (81:1.1)
 
-Nínive | | | | 
+Nínive | | | LUGAR | 
 amor de Dios por (159:4.4)
 
 Nirvana | | Ver Budismo | | 
@@ -529,27 +529,27 @@ iluminación y dicha, liberación del mundo material (94:8.16)
 nitrógeno | | | | 
 no libre n. en la atmósfera temprana (57:7.6)
 
-Noah (habitante del jardín) | | | | 
+Noah (habitante del jardín) | | | PERSONA | 
 hijo del arquitecto y constructor del jardín del Edén (74:2.5)
 
-Noé (enólogo de Aram) | | | | 
+Noé (enólogo de Aram) | | | PERSONA | 
 las casas preconizadas se hagan como barcos (78:7.5)
 cf:leyenda del diluvio de Mitra (98:5.3)
 Monte Ararat y la historia del diluvio (77:4.12) (78:7.3-5)
 
 nobleza | | Ver aristocracia; grandeza | | 
 
-Nod (tierra de) | | | | 
+Nod (tierra de) | | | LUGAR | 
 Caín partió hacia N .; al este del segundo Edén (76:2.9)
 Caín encontró esposa en (74:8.8) (148:4.7)
 Asentamiento elamita nodita (67:4.2) (77:4.5)
 
-Nod (el bastón corpóreo de Prince) | | Ver Caligastia cien | | 
+Nod (el bastón corpóreo de Prince) | | Ver Caligastia cien | PERSONA | 
 y todo el concilio perdido en rebelión (67:4.1)
 presidente del consejo de industria y comercio (66:5.11) (73:1.3)
 líder de los rebeldes del personal de Prince (67:4.2)
 
-Noditas | (77:2) | Ver carreras | | 
+Noditas | (77:2) | Ver carreras | RAZA | 
 8a carrera en aparecer (73:1.3) (77:2.8)
 60 miembros rebeldes del personal de Prince y 44 homólogos andónicos constituían 104 antepasados ​​de (77:2.4,8)
 Adán impregnó 1.682 Noditas en el segundo jardín para fundar la raza andita (76:4.8)
@@ -583,7 +583,7 @@ dividido en 3 grupos después de la destrucción de Dalamatia (73:1.5)
 todavía un pueblo capaz en tiempos de Adán (77:4.1)
 tomó el árbol de la vida después del incumplimiento; no les sirvió de nada (73:6.7) (75:3.5)
 
-Nog | | | | 
+Nog | | | PERSONA | 
 falso dios de la luz y el fuego (67:5.5)
 
 ruido | | | | 
@@ -638,15 +638,15 @@ alejándose de Dios, el hombre se acerca a la no realidad:cese de la existencia 
 
 no violencia | | Ver no resistencia | | 
 
-Norana | | | | 
+Norana | | | PERSONA | 
 Mujer siria con hija afligida (156:1)
 
-Nordan el Kenita | | | | 
+Nordan el Kenita | | | PERSONA | 
 El brillante discípulo de Melquisedec (93:3.4)
 
-Raza nórdica | | Ver raza blanca:divisiones | | 
+Raza nórdica | | Ver raza blanca:divisiones | RAZA | 
 
-Norlatiadek | (43) | Ver constelaciones; Edentia; Altísimos de Norlatiadek | | 
+Norlatiadek | (43) | Ver constelaciones; Edentia; Altísimos de Norlatiadek | LUGAR | 
 10 centros de constelación estacionados en (41:1.4)
 administrado por 12 Hijos Vorondadek (35:6.5)
 ser limpiado de pecado y rebeldes (43:4.9)
@@ -662,7 +662,7 @@ Satania elige 10 a Norlatiadek legislatura (45:3.22) (45:7.4)
 norte | | | | 
 dirección absoluta establecida por el eje del Paraíso (11:2.3)
 
-Norteamérica | | Ver Canadá; México; Estados Unidos de Norteamérica | | 
+Norteamérica | | Ver Canadá; México; Estados Unidos de Norteamérica | LUGAR | 
 24 grandes inundaciones (60:4.1)
 descubierto por razas blancas ca. 1000 d.C. (79:5,7)
 extensa zona de caza abierta y fértil (81:6.4)
@@ -677,16 +677,16 @@ surgió de las profundidades del Pacífico (57:8.21)
 deriva lenta hacia el oeste (58:4.3)
 la carrera amarilla impulsó la carrera roja desde Asia a (64:6.4,14) (64:7.4-5)
 
-Polo Norte | (59:3.7) | | | 
+Polo Norte | (59:3.7) | | LUGAR | 
 Vastas capas de hielo comenzaron a formarse hace 100.000 años (61:7.11)
 
-mar del Norte | | | | 
+mar del Norte | | | LUGAR | 
 aguas una vez calientes (63:5.2)
 
 auroras boreales | | | | 
 Cinturones de aire superiores de Urantia relacionados con (46:1.6)
 
-Noruega | (61:5.8) | Ver escandinavos | | 
+Noruega | (61:5.8) | Ver escandinavos | LUGAR | 
 
 nostalgia | | | | 
 los mortales experimentan n. en Salvington (39:1.10)

@@ -11,10 +11,10 @@
 ####################################################################################
 
 
-Taanach | | | | 
+Taanach | | | PERSONA | 
 Débora y Barac derrotaron a Sísara en (126:1.2)
 
-Tabamantia | | | | 
+Tabamantia | | | PERSONA | 
 reconocimiento al jefe de los Ajustadores de Urantia (108:3.5-6)
 agondónter del estado de finalista (50:7.2)
 finalista veterano; supervisor soberano de los planetas decimales de Nebadon (49:5.12) (73:0.3) (108:3.5)
@@ -67,13 +67,13 @@ habilidades | Ver logro
 	el tiempo es el único talento confiado a todos (28:6.9)
 	si uno es t. son pocos o muchos, hay que afrontar el ajuste de cuentas (176:3.7-8)
 
-Talmai | | | | 
+Talmai | | | PERSONA | 
 rey de Gesur; El rey David se casó con la hija de (97:9.10)
 
-Tamar | | | | 
+Tamar | | | PERSONA | 
 María madre de Jesús, descendiente de (122:1.2)
 
-Taoísmo | (92:6.7) | Ver Lao-tse | | 
+Taoísmo | (92:6.7) | Ver Lao-tse | RELIGION | 
 Budismo afectado (94:9.3)
 surgió como consecuencia directa de la enseñanza de Salem (94:5.2-6)
 El budismo absorbió el ritual desintegrador de (94:11.1)
@@ -83,11 +83,11 @@ Comerciante mongol creyente en (130:2.2)
 
 tapires | (61:1.9) (61:7.15) | | | 
 
-Tarento | (130:0.3) (133:0.2,3) | | | 
+Tarento | (130:0.3) (133:0.2,3) | | LUGAR | 
 Jesús contuvo al matón atacando a un niño pequeño en (133:1.1)
 hombre atacando a su esposa en (133:2)
 
-Tarichea | (138:1.1) (141:1.2) (147:7.1) (149:0.1) | | | 
+Tarichea | (138:1.1) (141:1.2) (147:7.1) (149:0.1) | | LUGAR | 
 llamada de Tomás y Judas Iscariote en (138:5) (139:12.2)
 comerciantes de pescado de (192:1.9)
 en la orilla occidental del mar de Galilea en la salida del Jordán (139:8.2)
@@ -95,17 +95,17 @@ Tomás residía en (139:8.2)
 
 tarifas | | Ver impuestos | | 
 
-Cuenca de Tarim | | | | 
+Cuenca de Tarim | | | LUGAR | 
 puesto de avanzada oriental de la cultura andita; en Sankiang (79:1.2,8)
 más avanzado que el Tíbet (79:6.5)
 
-Tarsis | | | | 
+Tarsis | | | LUGAR | 
 Destino reputado del viaje de Jonás (130:1.2)
 
-Tarso | | | | 
+Tarso | | | LUGAR | 
 El mitraísmo era la religión dominante en Tarso durante la adolescencia de Paul (98:7.9)
 
-Tasmania | | | | 
+Tasmania | | | LUGAR | 
 Migración andónica a (64:1.6)
 
 diseñadores de gusto | | | | 
@@ -149,7 +149,7 @@ contribuyentes | | Ver recaudadores de impuestos; impuestos | |
 imprevisto espera ser alimentado por (69:9.5)
 recibir votos adicionales en la nación continental (72:9.5)
 
-Hijos Maestros | | Ver Trinity Teacher Sons | | 
+Hijos Maestros | | Ver Trinity Teacher Sons | ORDEN | 
 
 profesores | | Ver educación | | 
 los ascendentes enseñan a los que están justo detrás (30:3.9) (30:4.23) (100:2.1)
@@ -159,7 +159,7 @@ mantener la integridad de los alumnos restantes (130:3.7)
 deben ser seres libres, verdaderos líderes (71:7.4)
 Los perfeccionadores de la sabiduría son fuente de sabiduría para (19:2.3)
 
-maestros del descanso | | | | 
+maestros del descanso | | | ORDEN | 
 aconsejar a los serafines sobre la ingesta de energía (44:5.10)
 manipuladores de energía, artesanos celestiales (44:5.8)
 
@@ -177,7 +177,7 @@ lágrimas | | Ver Jesús:acontecimientos de la vida:lloró | |
 El guardián del burdel ungió los pies de Jesús con (147:5.3)
 Dios limpiará (27:1.5)
 
-Asesores técnicos | (25:4) | | | 
+Asesores técnicos | (25:4) | | ORDEN | 
 disponible para todos los que deseen conocer la verdad de la ley:cómo reaccionará la Supremacía (25:4.19)
 aconsejar a los Portadores de Vida, Censores Universales, Melquisedec (25:4.18)
 no trates directamente con los mortales (25:4.18)
@@ -194,7 +194,7 @@ residencia en los círculos de Jerusem
 Los serafines pueden alcanzar el Paraíso mediante el servicio (39:8.3)
 entrenamiento (25:4.11)
 
-técnicos | (48:6.29) | Ver serafines | | 
+técnicos | (48:6.29) | Ver serafines | ORDEN | 
 Serafines de ministro de transición de quinto orden (39:6.1)
 enlaces entre sobrevivientes y Supervisores de Poder Morontia y Controladores Físicos Maestros (48:6.29)
 viajeros espaciales; ayudar a los progresores morontiales a adaptarse (48:6.29)
@@ -204,7 +204,7 @@ los primeros mamíferos desarrollaron 2 conjuntos (61:1.10)
 humano t. están gravitando hacia 28 (65:6.5)
 encantos mágicos elaborados a partir de (88:5.2)
 
-Teherma el persa | | | | 
+Teherma el persa | | | PERSONA | 
 no es un adorador del fuego (141:6.1-3)
 
 telepatía | | | | 
@@ -229,7 +229,7 @@ en la atmósfera (58:2.6)
 de soles (41:7) (41:9.1)
 solo superado por la gravedad en la evolución de la materia y la energía (42:2.7)
 
-Templo de la nueva vida | | | | 
+Templo de la nueva vida | | | LUGAR | 
 las salas de resurrección irradian desde el primer mundo de las mansiones (47:3.5)
 
 templos | | Ver iglesias | | 
@@ -301,14 +301,14 @@ El ser humano maduro mira a todos los demás con (160:1.6)
 
 tensión | | Ver ansiedad | | 
 
-Tenskwatawa | | | | 
+Tenskwatawa | | | PERSONA | 
 eclipse de sol previsto en 1808 (90:2.9)
 
 fabricante de tiendas | | | | 
 Jesús trabajó como (132:0.10) (134:7.3)
 Pablo era (89:3.6)
 
-Taré | | | | 
+Taré | | | PERSONA | 
 padre de Abraham (93:5.3-5)
 
 resto terminal del tiempo | | | | 
@@ -316,7 +316,7 @@ antes del estatus residencial en Paradise (26:7.4)
 
 escape terrestre | (49:6) (55:2) | Ver resurrección; Llamada de rol; supervivencia | | 
 
-terciafines | (28:1) | Ver ángeles | | 
+terciafines | (28:1) | Ver ángeles | ORDEN | 
 1000 t. acompañar a cada Hijo Creador a su universo local; retirarse con aparición de ángeles nativos (28:1.2-3)
 acompañó a Miguel en el autootorgamiento de Lanonandek (119:2.4)
 hijos del Espíritu Infinito (26:1.13) (28:1.1)
@@ -326,7 +326,7 @@ pueden convertirse en asesores técnicos (25:4.5)
 retirarse del universo local cuando aparecen los ángeles nativos (28:1.3)
 servir como Altísimos Auxiliares (37:4.2)
 
-Supervisores de Circuito Terciario | | Ver Supervisores de circuitos del universo | | 
+Supervisores de Circuito Terciario | | Ver Supervisores de circuitos del universo | ORDEN | 
 no puede anular las corrientes materiales (24:1.12)
 Emplear muchos seres, incluidas personalidades espirituales elevadas del control de circuitos (24:1.12)
 orden de los supervisores de circuitos del universo; 1 funciona en cada capital del universo local; de creación continua (24:1.6,10-11)
@@ -344,20 +344,20 @@ La medición de Jesús de la religión y la sociedad (126:2.5)
 
 textiles | | Ver tejido | | 
 
-Tadeo | (179:2.2) | | | 
+Tadeo | (179:2.2) | | PERSONA | 
 James Alpheus también llamado (139:9.5)
 
-Tailandia Ver Siam | | | | 
+Tailandia | | Ver Siam | LUGAR | 
 
-Thamna | (143:0,1) | | | 
+Thamna | (143:0,1) | | LUGAR | 
 
 acción de gracias | | Ver adoración | | 
 
-Tapsaco | (130:0.3) | | | 
+Tapsaco | (130:0.3) | | LUGAR | 
 
 teatros | | Ver anfiteatros | | 
 
-Tebas | | | | 
+Tebas | | | LUGAR | 
 Tutankamón devolvió el capital a (95:5.10)
 
 robo | | Ver fraude; injusticia | | 
@@ -416,11 +416,11 @@ Jesús resucitaría en (171:4.2,8) (186:3.4) (188:1.8) (188:2.1,2) (189:5.1) (19
 Expresión judía que significa "actualmente" (171:4.8)
 Los judíos creían que el alma no se demoraría en el pasado (167:4.3)
 
-Tercera Persona de la Deidad | | Ver espíritu infinito | | 
+Tercera Persona de la Deidad | | Ver espíritu infinito | PERSONA | 
 
-Tercera fuente y centro | | Ver espíritu infinito | | 
+Tercera fuente y centro | | Ver espíritu infinito | PERSONA | 
 
-Personalidades de la tercera fuente | | | | 
+Personalidades de la tercera fuente | | | ORDEN | 
 seres personales del Espíritu Infinito pero que no están en el circuito de personalidad del Padre (9:8.6-12)
 contactables por seres en el circuito de personalidad del Padre (9:8.9)
 Los mortales fusionados con el espíritu no lo son (40:9.1)
@@ -431,7 +431,7 @@ Jesús tuvo sed en la cruz (187:3.5)
 ninguno en la Presencia Divina (34:6.8) (48:6.11)
 aquellos que creen en Jesús no experimentarán espiritualidad (153:2.7-9)
 
-Tomás Dídimo | (139:8) (143:3.5) (144:1.7) (151:2.5) (164:0.1) | Ver apóstoles de Jesús | | 
+Tomás Dídimo | (139:8) (143:3.5) (144:1.7) (151:2.5) (164:0.1) | Ver apóstoles de Jesús | PERSONA | 
 después de Pentecostés (193:6.4)
 en las apariciones de Jesús (191:5) (192:1-4) (193:0,3,5)
 intentó disuadir a Norana (156:1.4)
@@ -469,17 +469,17 @@ predicó en Chipre, Creta, África del Norte, Sicilia, Malta (139:8.13)
 preguntas de (140:6.13) (140:7.1) (140:10.4) (141:4.2) (142:7.1,16) (144:1.9) (146:3.3) (148:4.1) (155:4.2) ( 158:6.1) (166:4.1) (176:3.1) (180:3.6)
 enseñó a responder preguntas (163:0.2)
 
-Thor (Andita) | | | | 
+Thor (Andita) | | | PERSONA | 
 comandante victorioso en la batalla final de Somme (80:5.4)
 
-Thor (dios) | | | | 
+Thor (dios) | | | PERSONA | 
 héroe fantasma; maestro del rayo (80:5.4) (85:6.4)
 
 espinas | | | | 
 corona de t. colocado sobre la cabeza de Jesús (185:6.2,4)
 alguna semilla cayó entre (151:1.2) (151:2.2)
 
-Los altos en autoridad | (22:3) | Ver Hijos trinidizados del logro. | | 
+Los altos en autoridad | (22:3) | Ver Hijos trinidizados del logro. | ORDEN | 
 Mortales fusionados con Ajustadores con capacidad administrativa superior (22:3.1)
 ejecutivos de Ancianos de los Días (15:10.3-12) (22:3.3)
 finalistas abrazados por la Trinidad (15:10.12)
@@ -495,7 +495,7 @@ Las solemnidades de confianza acompañan (28:6.15)
 Los seconafines terciarios están asignados a (28:3.1) (28:6.1)
 Hijos trinidizados del logro (15:10.12) (15:12.1) (22:3.1) (28:6.1)
 
-Aquellos sin nombre y número | (22:4) | Ver Trinitized | | 
+Aquellos sin nombre y número | (22:4) | Ver Trinitized | ORDEN | 
 Hijos del logro
 finalistas abrazados por la Trinidad (15:10.12)
 tener un concepto trascendente del propósito eterno del Padre (22:4.1)
@@ -511,7 +511,7 @@ mentes espirituales superiores de razas de supervivencia (22:4.3)
 jurados supremos en cortes superuniversales (15:12.1) (22:4.3)
 Hijos trinidizados del logro (15:10.12) (22:4.1) (28:6.1)
 
-Thoth | | | | 
+Thoth | | | PERSONA | 
 sanó el ojo de Set con saliva (95:2.6)
 
 pensamiento | | Ver ideas; liderazgos; mente mortal | | 
@@ -533,7 +533,7 @@ t., no sentimientos, guíanos hacia Dios (101:1.3)
 t. de Dios superior a t. del hombre (103:4.3) (131:2.3)
 técnica de Havona t. a diferencia del nuestro (14:5.2)
 
-Ajustador del pensamiento de Jesús | | Ver Ajustadores personalizados; Ajustadores del pensamiento | | 
+Ajustador del pensamiento de Jesús | | Ver Ajustadores personalizados; Ajustadores del pensamiento | PERSONA | 
 consejo sobre la resurrección de Jesús (189:0.1-3)
 llegada (123:2.1) (196:1.7)
 en la curación al atardecer (145:3.10-11)
@@ -556,7 +556,7 @@ habló
 	en Getsemaní (174:5.10)
 	en el monte Hermón (136:5.3-4)
 
-Ajustadores del pensamiento | (107; 108; 109; 110; 11; 112) | Ver mortales ascendentes; Divinington; fusión:fusión del Ajustador; Ajustadores personalizados; Ajustador del pensamiento de Jesús | | 
+Ajustadores del pensamiento | (107; 108; 109; 110; 11; 112) | Ver mortales ascendentes; Divinington; fusión:fusión del Ajustador; Ajustadores personalizados; Ajustador del pensamiento de Jesús | ORDEN | 
 administrado directamente desde Divinington (108:3.1)
 llegada (108:1-2)
 	El ajustador tiene datos completos sobre el candidato antes de ser voluntario (108:1.2-7)
@@ -834,16 +834,16 @@ tipos de Ajustadores, otras clasificaciones
 		Los reservistas tienen T.A. (114:7.2)
 		los sujetos alcanzaron el tercer círculo psíquico; tomó la decisión suprema; son reservistas (109:2.3-5) (110:6.22)
 
-Cambiadores de pensamiento | | Ver Ajustadores del pensamiento | | 
+Cambiadores de pensamiento | | Ver Ajustadores del pensamiento | ORDEN | 
 Ajustadores llamados, hasta que los sujetos tengan 20 años (107:0.7)
 
-Controladores del pensamiento | | Ver Ajustadores del pensamiento | | 
+Controladores del pensamiento | | Ver Ajustadores del pensamiento | ORDEN | 
 Ajustadores llamados, cuando los sujetos mayores de 40 (107:0,7)
 
-conservantes del pensamiento | | | | 
+conservantes del pensamiento | | | ORDEN | 
 registradores de pensamientos, artesanos celestiales; también preservar el pensamiento de las grandes mentes de Urantia (44:4.2-4)
 
-grabadores de pensamientos | | Ver artesanos celestiales | | 
+grabadores de pensamientos | | Ver artesanos celestiales | ORDEN | 
 artesanos celestiales (44:4)
 tipos
 	1. conservadores del pensamiento q.v.
@@ -857,7 +857,7 @@ tipos
 pagano irreflexivo | | | | 
 El comentario de Jesús a Ganid con respecto (132:7.1,2)
 
-Tracia | | | | 
+Tracia | | | LUGAR | 
 Los judíos abarcaron la muerte de Mateo en (139:7.10)
 Los tracios creían en la inmortalidad (92:6.1)
 
@@ -891,24 +891,24 @@ una vez día de suerte para las bodas (83:4.5)
 
 frustrante | | Ver derrota; decepción | | 
 
-Ti Tao | | | | 
+Ti Tao | | | LUGAR | 
 Los anditas entraron en China a través del paso de (79:7.1)
 
-Tiberíades | (128:2.6) (135:12.4) (147:0.1-2) (148:7.3) (150:3) | | | 
+Tiberíades | (128:2.6) (135:12.4) (147:0.1-2) (148:7.3) (150:3) | | LUGAR | 
 capital de Galilea; sucedió a Séforis (129:1.1-2) (135:12.1)
 conferencias de Herodes y el Sanedrín en (154:0.1) (154:3)
 Santiago de Safed de (158:4.2)
 Jesús les dijo a los apóstoles que evitaran (137:5.1)
 Los padres de Matthew vivían en (139:8.2)
 
-Tiberio | | | | 
+Tiberio | | | PERSONA | 
 admiro el porte de Jesús (132:0.1)
 emperador con Augusto (136:2.8)
 murió mientras Pilato se dirigía a Roma (185:1.6)
 Gonod llevó saludos de los príncipes de la India a (132:0.1)
 sufrió Pilato seguir siendo procurador de Judea 10 años (185:1.1)
 
-Tíbet | (61:1,13) (64:1,1) | | | 
+Tíbet | (61:1,13) (64:1,1) | | LUGAR | 
 Migración andita a (78:5.6) (79:1.1-2,8)
 Andonitas en (64:3.2)
 Asoka estableció el budismo en (94:9.1)
@@ -928,10 +928,10 @@ barrió Dalamatia (67:5.4)
 tigres | | Ver tigres dientes de sable | | 
 si un hombre desarmado se encuentra con un hambriento (70:9.1)
 
-Tiglat | (158:0,1) | | | 
+Tiglat | (158:0,1) | | PERSONA | 
 Ayudante de Jesús en el monte Hermón; Jesús le dio un burro (134:8.1,2,10)
 
-Río Tigris | | Ver Mesopotamia | | 
+Río Tigris | | Ver Mesopotamia | LUGAR | 
 y el área del Éufrates fue cuna de las civilizaciones occidental e india (78:1.3)
 segundo jardín contiguo (76:0.1) (76:1.1-3) (76:3.8)
 Los sumerios vivían en la boca de (77:4.6) (78.8)
@@ -1007,7 +1007,7 @@ timidez | | | |
 manifestando peligroso t. (181:2.16)
 muchos que están seguros de Dios temen afirmarlo (102:7.6)
 
-Timoteo | | | | 
+Timoteo | | | PERSONA | 
 se unió a Pablo en Corinto (133:3.3)
 
 estaño | | | | 
@@ -1023,14 +1023,14 @@ menta, anís y comino (175:1.17)
 impuestos en luz y vida (55:3.2)
 diezmos pagados por todos los miembros de la hermandad de Melquisedec (93:6.8)
 
-Titus (asociado de Paul) | | | | 
+Titus (asociado de Paul) | | | PERSONA | 
 Fortuna asociada con (130:6.5)
 Pablo envió a Creta (130:5.1)
 
-Titus (Emperador) | | | | 
+Titus (Emperador) | | | PERSONA | 
 destruyó Jerusalén en el año 70 d.C. (121:8.7) (187:1.5)
 
-Tito de Capernaum | | | | 
+Tito de Capernaum | | | PERSONA | 
 noble con hijo gravemente enfermo (146:5.1-3)
 hijo capacitado para el servicio del evangelio (148:1.4)
 
@@ -1038,7 +1038,7 @@ Tribu Toda | | | |
 no rezar a nadie en particular (91:0.4)
 recitaciones semimágicas de (91:3.2)
 
-Todan | | | | 
+Todan | | | PERSONA | 
 llevó el evangelio a Mesopotamia (146:1.4)
 
 tokens | | | | 
@@ -1114,7 +1114,7 @@ tótems | (88:3) | | |
 animales de supuesta ascendencia (74:8.5)
 símbolos del grupo y su dios (88:3.2)
 
-Torre de Babel | | Ver Babel, torre de | | 
+Torre de Babel | | Ver Babel, torre de | LUGAR | 
 
 comercio | | Ver comercio | | 
 
@@ -1151,7 +1151,7 @@ energía trascendental | | Ver tranosta | |
 
 nivel trascendental | | Ver realidad:niveles de realidad:realidad absonita | | 
 
-Registradores trascendentales | | | | 
+Registradores trascendentales | | | ORDEN | 
 traversers de gravedad personal; no disponible para administradores de universos locales (23:3.2)
 sin forma visible (42:12.10)
 
@@ -1184,7 +1184,7 @@ por el espíritu de la verdad (143:2.4)
 ocurre en personas expectantes dominadas por la fe (148:2.2)
 el servicio es un subproducto del t espiritual. (178:1.11)
 
-transformadores | | Ver transformadores de energía | | 
+transformadores | | Ver transformadores de energía | ORDEN | 
 
 transgresión | | Ver iniquidad; pecado | | 
 
@@ -1201,7 +1201,7 @@ gran peligro de avería durante (81:6.40-41)
 La religión debería estabilizar los ideales durante tiempos peligrosos de (99:1.3-4) (99:2.6)
 desempleo derivado de maquinaria que ahorra trabajo (81:6.22)
 
-ministros de transición | (39:6) (48:6) | Ver serafines | | 
+ministros de transición | (39:6) (48:6) | Ver serafines | ORDEN | 
 1/2 en Urantia se unió a la rebelión de Lucifer (67:3.2)
 Serafines de sexto orden (48:6.1)
 10% perdido en la rebelión de Lucifer (53:7.7)
@@ -1219,9 +1219,9 @@ residencia en los círculos de Jerusem (46:5.22)
 
 descanso de transición | | Ver descanso:descanso de transición | | 
 
-mundo en transición número 1 | | Ver el mundo de los finalistas | | 
+mundo en transición número 1 | | Ver el mundo de los finalistas | LUGAR | 
 
-mundos culturales de transición | | Ver Jerusem | | 
+mundos culturales de transición | | Ver Jerusem | LUGAR | 
 
 traducción | (112:7.3) | Ver fusión:fusión del Ajustador; idioma; descanso:descanso de transición | | 
 arcángel supervisa t. en el templo morontial (55:2.7)
@@ -1249,7 +1249,7 @@ mundos de mansión, sistema o constelación (55:2.8-9)
 traducción del sueño | | Ver descanso:descanso de transición | | 
 progresores morontiales entran c.t. entre mundos de mansión (47:3.10)
 
-traductores | | | | 
+traductores | | | ORDEN | 
 Los directores de retransmisiones traducen retransmisiones de Ancianos de los días para universos locales (44:4.9)
 Intérpretes y traductores Morontia Companion siempre disponibles (48:3.12-13)
 necesario para personas de diferentes superuniversos (44:4.3)
@@ -1258,22 +1258,22 @@ transmigración | | | |
 Ganid dejó de creer en (130:2.8)
 creencia embrutecedora en vidas cansadas y monótonas (94:2.3-6)
 
-asesores de transporte | | | | 
+asesores de transporte | | | ORDEN | 
 70 sirven en Urantia (44:5.6)
 manipuladores de energía artesanos celestiales; asesores técnicos para el transporte de serafines; supervisores de tráfico (44:5.6)
 
-transportar serafines | | Ver transporte seráfico, secoráfico y superáfico; serafines | | 
+transportar serafines | | Ver transporte seráfico, secoráfico y superáfico; serafines | ORDEN | 
 
-transporte de supernafines | | Ver transporte seráfico, secoráfico y superáfico; supernafines | | 
+transporte de supernafines | | Ver transporte seráfico, secoráfico y superáfico; supernafines | ORDEN | 
 
-transporte | | Ver transporte seráfico, secoráfico y superáfico; viaje | | 
+transporte | | Ver transporte seráfico, secoráfico y superáfico; viaje | ORDEN | 
 todos los viajeros espaciales requieren ayuda para vencer la gravedad al salir de una esfera (29:4.1)
 mejorado t. comercio facilitado (70:3.4)
 en Jerusem por pájaros, vehículos (46:2.4)
 Las personalidades espirituales proceden por enlace con la energía espiritual (46:2.4)
 los mortales trasladados atraviesan el espacio libremente antes de ser vestidos con formas morontiales (49:6.19) (55:2.7)
 
-personalidades del transporte | | Ver seconafines; transporte seráfico, secoráfico y superáfico | | 
+personalidades del transporte | | Ver seconafines; transporte seráfico, secoráfico y superáfico | ORDEN | 
 seconafines que llevan peregrinos entre superuniversos y Havona (28:4.13)
 
 trampas | (68:5.5) | | | 
@@ -1299,7 +1299,7 @@ beber sangre, se conmemoran las ofrendas de doncellas (70:3.11)
 el primer tratado se refería al depósito de sal (69:4.6)
 la paz mundial no puede ser mantenida por (134:6.9)
 
-árbol de la vida | (73:6) | | | 
+árbol de la vida | (73:6) | | LUGAR | 
 Adán y Eva advirtieron que no combinaran el bien y el mal cada vez que comían de (75:4.4)
 después del incumplimiento, Adán y Eva negaron el acceso a (75:7.6)
 destruido por noditas (73:6.7)
@@ -1330,7 +1330,7 @@ no confundir con el concepto de Trinidad (104:0.1-3)
 
 ensayos | | Ver desafíos; dificultades; resolución de problemas; sufrimiento | | 
 
-triangulos | | | | 
+triangulos | | | LUGAR | 
 Áreas administrativas de Edentia (43:1.7-9)
 Áreas administrativas de Jerusem (46:4.5) (46:8)
 
@@ -1346,7 +1346,7 @@ Caín no soportó (76:2.8)
 cortar en el niño como parte de la iniciación de la pubertad (70:7.10)
 hombre solitario indefenso sin un t.m. (68:1.2)
 
-tribus | (70:4) | Ver clanes; Razas | | 
+tribus | (70:4) | Ver clanes; Razas | RAZA | 
 soberanía del estado territorial a menudo subvertida (134:5.8)
 los jefes de guerra establecieron la línea paterna (70:4.10)
 originalmente una confederación libre de clanes (70:4.9)
@@ -1365,10 +1365,10 @@ trilobites | (59:1) | | |
 comedores de barro; animales sexados; algunos tenían ojos abortados (59:1.19)
 predecesores de los crustáceos; casi desapareció (59:2.10) (59:3.5,11) (59:5.8)
 
-Trimurti | | | | 
+Trimurti | | | PERSONA | 
 trinidad suprema del hinduismo (94:4.4-5)
 
-Trinidades | (0:12) | Ver Paradise Trinity; Trinidad de trinidades | | 
+Trinidades | (0:12) | Ver Paradise Trinity; Trinidad de trinidades | ORDEN | 
 realidad de la deidad, nunca realidad de la personalidad (106:5.3-4)
 Trinidades experienciales
 	primera | Ver Trinity Ultimate
@@ -1397,14 +1397,14 @@ precipita potenciales no realizados fuera del tiempo futuro (22:4.5)
 secreto de Vicegerington, Solitarington (13:1.12,18)
 técnica mediante la cual el Padre se despoja de la personalidad espiritual no calificada (0:7.8) (6:7.1) (10:2.1)
 
-Embajadores trinidizados | (22:6) | | | 
+Embajadores trinidizados | (22:6) | | ORDEN | 
 mortales ascendentes fusionados con el Espíritu y con el Hijo abrazados por la Trinidad; número 3.5 mil millones (18:4.5) (22:6.1)
 emisarios de Ancianos de los Días en sectores menores (18:4.5) (22:6.3)
 en el registro de personalidad de Uversa (30:2.59)
 servir en mundos de fusión de Espíritu e Hijo (22:6.2)
 Hijos de selección trinidizados (22:6.1)
 
-Custodios trinidizados | (22:5) | Ver trinitización | | 
+Custodios trinidizados | (22:5) | Ver trinitización | ORDEN | 
 asistido por varios miles de millones de seconafines (22:5.5)
 tratar con grupos, no con individuos (22:5.6)
 serafines finalitarios y criaturas intermedias trasladadas abrazados por la Trinidad (18:4.5) (22:5.1-2)
@@ -1413,7 +1413,7 @@ funcionarios de gobiernos de los sectores mayor y menor de los superuniversos; n
 reconocida por su valiente cooperación con un mortal posteriormente trinidizado (22:5.3)
 Hijos de selección trinidizados (22:1.11)
 
-Secretos trinidizados de supremacía | (13:2.9-10) (18:1) | | | 
+Secretos trinidizados de supremacía | (13:2.9-10) (18:1) | | ORDEN | 
 10 presiden cada mundo del Paraíso del Padre (13:1.2-3) (13:2.9-10) (18:1.1)
 son secretos de Supremo y Último (13:2.10)
 conocer colectivamente todos los secretos (13:2.9)
@@ -1422,7 +1422,7 @@ orden más alto de Hijos Estacionarios de la Trinidad (13:1.2)
 en registros de personalidad (30:1.8) (30:2.23)
 Personalidades Supremas de la Trinidad, 70 en número (18:1.1)
 
-Hijos trinidizados del logro | | Ver Hijos de Dios trinidizados. | | 
+Hijos trinidizados del logro | | Ver Hijos de Dios trinidizados. | ORDEN | 
 asignado al servicio del superuniverso (15:10.12) (22:1.10)
 compuesto por (15:10.12) (22:1.10) (22:2-4secs)
 	Mensajeros poderosos q.v.
@@ -1438,11 +1438,11 @@ Trinity abrazo dota a T.S.o.A. con todo lo que los finalistas lograrán como esp
 Mortales ascendentes fusionados con el Ajustador abrazados por la Trinidad eliminados del Cuerpo de Finalidad (15:10.12) (22:1.10)
 trío de T.S.o.A. presenta el punto de vista de las criaturas mortales (22:4.6)
 
-hijos del destino trinidizados | | Ver trinitización | | 
+hijos del destino trinidizados | | Ver trinitización | ORDEN | 
 seres producidos por finalitarios y Havoners del Paraíso (22:7.14)
 en el registro de personalidad de Uversa (30:2.64,138)
 
-Hijos de Dios trinidizados | (22) | Ver hijos trinidizados por criaturas; trinitización | | 
+Hijos de Dios trinidizados | (22) | Ver hijos trinidizados por criaturas; trinitización | ORDEN | 
 aconsejó a los receptores de Melquisedec después de la rebelión (67:6.5)
 Serafines de consumación unidos a (39:9.1)
 aumentando constantemente en número (22:1.13)
@@ -1470,7 +1470,7 @@ tipos
 		1. Hijos trinidizados de Paradise-Havona (22:7.9-13) (23:4.3) (30:2.63)
 		2. Hijos trinidizados por ascendente (22:0.1-5) (22:7.12) (22:8)
 
-Hijos de perfección trinidizados | (22:1.12) | Ver trinitización; Hijos de Dios trinidizados | | 
+Hijos de perfección trinidizados | (22:1.12) | Ver trinitización; Hijos de Dios trinidizados | ORDEN | 
 cariñoso, leal, humilde y sumamente sabio en cuanto al concepto que cada uno personifica (22:10.6-7)
 capacidad de experiencia inhibida (22:9.7)
 compuesto por (22:9-10)
@@ -1486,7 +1486,7 @@ la retrinitización puede actuar únicamente sobre la idea trinidizada (22:9.5)
 entrenar con Siete Ejecutivos Supremos e Hijos Instructores Trinitarios (22:9.7)
 Hijos trinidizados por criaturas abrazados por la Trinidad; servir a los Ancianos de los Días (22:1.12) (22:8.4)
 
-Hijos de selección trinidizados | | Ver trinitización; Hijos de Dios trinidizados | | 
+Hijos de selección trinidizados | | Ver trinitización; Hijos de Dios trinidizados | ORDEN | 
 asignado a las cortes de los Ancianos de los Días (22:1.11)
 compuesto por (22:5-6secs)
 	Embajadores trinidizados q.v.
@@ -1495,9 +1495,9 @@ en la clasificación del Paraíso (30:1.26)
 seleccionados de serafines ascendentes, criaturas intermedias, mortales fusionados con el Espíritu y con el Hijo (22:1.11)
 El abrazo trinitario dota de todo lo que los finalistas lograrán como espíritus de la séptima etapa (40:10.12)
 
-Trinidad | | Ver Paradise Trinity | | 
+Trinidad | | Ver Paradise Trinity | PERSONA | 
 
-Trinidad absoluta | (0:12,7-8) (106:5-6) (117:7,10) | | | 
+Trinidad absoluta | (0:12,7-8) (106:5-6) (117:7,10) | | PERSONA | 
 2da Trinidad experiencial (0:12.7)
 compuesto por Dios el Supremo, Dios el Último y el Consumador no revelado del Destino del Universo (0:12.7) (31:9.14) (106:5.1) (106:8.11)
 podría actualizarse solo después de la finalización de todo el universo maestro (106:5.1)
@@ -1506,27 +1506,27 @@ función completa más allá del universo maestro (106:6.2)
 Dios el Absoluto actualiza en consecuencia (0:10.1) (0:12.7-8)
 implica todas las relaciones de triunidad, tanto no deificadas como deificadas (10:5.7)
 
-Embajadores de la Trinidad | (33:5) | | | 
+Embajadores de la Trinidad | (33:5) | | ORDEN | 
 compuesto por (18:6-7secs)
 	Fieles de los días q.v.
 	Uniones de días q.v.
 
-Hijos abrazados por la Trinidad | | Ver Hijos de Dios trinidizados | | 
+Hijos abrazados por la Trinidad | | Ver Hijos de Dios trinidizados | ORDEN | 
 
-Guías de la trinidad | | | | 
+Guías de la trinidad | | | ORDEN | 
 ayudar a los peregrinos a encontrar el Espíritu Infinito; cada peregrino disfruta de la atención indivisa de un T.g. (26:7.2)
 supernafines secundarios en el quinto círculo de Havona (26:7)
 
-Trinidad infinita | | | | 
+Trinidad infinita | | | PERSONA | 
 acción de todas las relaciones de triunidad de la Primera Fuente (10:5.7)
 apariencia postulada (0:12.9)
 
-Trinidad de supremacía | | | | 
+Trinidad de supremacía | | | PERSONA | 
 El Espíritu Maestro n. ° 7 ayuda a los ascendentes a comprender (16:3.18) (26:6.3-4)
 La Trinidad del Paraíso trabajando en un dominio finito (0:8.10) (10:5.4) (106:8.9) (115:5.2)
 El Ser Supremo refleja la actitud de (10:7.3-4)
 
-Trinidad de Trinidades | (106:8-9secs) (117:7.11) | Ver Paradise Trinity; Trinidades; Trinidad infinita | | 
+Trinidad de Trinidades | (106:8-9secs) (117:7.11) | Ver Paradise Trinity; Trinidades; Trinidad infinita | PERSONA | 
 completa el ciclo de la realidad; integración ilimitada de la realidad (106:8.12)
 concebir el Absoluto Universal como una presencia impersonal de (56:9.5)
 el infinito experiencial alcanza la identidad con el infinito existencial en (106:8.1)
@@ -1536,10 +1536,10 @@ niveles
 	El segundo es Supremo, Último y Absoluto (106:8.13-20)
 	El tercero es la realización del YO SOY como experiencial (106:8.21-23)
 
-Trinidad de Ultimidad | | | | 
+Trinidad de Ultimidad | | | PERSONA | 
 Trinidad del Paraíso en relación con lo absonito (10:5.5) (106:8.9)
 
-Seres de origen trinitario | (19) | | | 
+Seres de origen trinitario | (19) | | ORDEN | 
 Los seres coordinados de origen trinitario están vinculados a la administración del superuniverso (15:10.11)
 en los registros de personalidad (30:1.18
 23) (30:2,22)
@@ -1563,7 +1563,7 @@ tipos (18; 19)
 	14. Paradise Citizens q.v.
 	Seres de origen trinitario no revelados (30:1.23)
 
-Hijos Maestros Trinitarios | (19:1 seg.) (20:7-9 seg.) | | | 
+Hijos Maestros Trinitarios | (19:1 seg.) (20:7-9 seg.) | | ORDEN | 
 21 mil millones en servicio; Reservas del paraíso; números en aumento (19:1.2) (20:7.2)
 15.000 a 20.000 en Nebadon (35:0,1)
 creado por Trinity (7:6.6) (19:1.3) (20:1.11) (20:7.1) (20:10.3)
@@ -1603,7 +1603,7 @@ Servicio
 	trabajar en estrecha colaboración con los finalistas (20:9.4-5) (55:4.14)
 visitar Urantia (20:9.1)
 
-Trinity Ultimate | (0:12.6) (106:3-4) (117:7.9) | | | 
+Trinity Ultimate | (0:12.6) (106:3-4) (117:7.9) | | PERSONA | 
 actúa a través de 7 cuerpos de finalistas (31:10.10)
 coordina lo trascendental (106:4.1)
 compuesto por (0:12.6) (31:9.14) (106:3.2) (106:8.10)
@@ -1618,7 +1618,7 @@ Michael colaborará con Supreme en (119:8.6-7)
 proporciona el logro grupal del Último (106:3.4)
 se unifica tras la actualización de Dios el Último (0:9.1-2) (0:12.6,8)
 
-triodidades | | | | 
+triodidades | | | ORDEN | 
 directamente relacionado con las Deidades experienciales (104:5.12)
 abarcar toda la actualidad absoluta, toda la potencialidad infinita (115:4.1)
 El crecimiento de la Supremacía se deriva de (115:4.7) (115:6)
@@ -1634,7 +1634,7 @@ triodidades de potencialidad | Ver Absolutos:los tres
 
 triunfo | | Ver la victoria | | 
 
-seres de origen trino | | | | 
+seres de origen trino | | | ORDEN | 
 seres creados por las 3 Deidades del Paraíso (30:1.2)
 en la clasificación del Paraíso (30:1.1-23)
 El Espíritu Maestro # 7 es consejero de (16:3.14)
@@ -1666,7 +1666,7 @@ tipos
 		9. Hijos de perfección trinidizados q.v.
 		10. Hijos trinidizados por criaturas q.v.
 
-triunidades | (104:3-4) | | | 
+triunidades | (104:3-4) | | ORDEN | 
 1ra triunidad
 	mecanismo por el cual la Deidad personal se revela a las criaturas (104:4.8)
 	Los miembros son Padre, Hijo Eterno y Espíritu Infinito (104:3.14-15) (104:4.3-8)
@@ -1709,7 +1709,7 @@ evitar la pérdida de tiempo (163:4.5)
 Jesús perdió poco tiempo en (134:9.7)
 dedicar tanto tiempo y pensar en (110:3.4)
 
-Troas | (130:0.3) (133:6.1) | | | 
+Troas | (130:0.3) (133:6.1) | | LUGAR | 
 
 zona tropical | | | | 
 raras raras veces avanzadas que buscaban facilidad en (64:1.3) (81:6.7)
@@ -1848,7 +1848,7 @@ unidad de, solo realizada en la experiencia espiritual (44:7.2-4) (196:3.23-24)
 Verdad-Justicia-Rectitud | | | | 
 tríada egipcia pre-salemita (95:3.3)
 
-Tubal-Caín | | | | 
+Tubal-Caín | | | PERSONA | 
 El júbilo de Lamec por las armas de (159:1.7)
 
 tulipanes | (60:3.7) | | | 
@@ -1856,7 +1856,7 @@ tulipanes | (60:3.7) | | |
 sayo | | | | 
 Jesús usó un vestido sin costuras (187:2.8)
 
-Turanianos | | | | 
+Turanianos | | | RAZA | 
 Los anditas superaron a los antepasados ​​de (78:5.6)
 Herencia causoide (81:4.11)
 rastros de sangre andita todavía entre (79:1.8)
@@ -1864,7 +1864,7 @@ rastros de sangre andita todavía entre (79:1.8)
 turbante | | | | 
 Jesús usó (187:2.8)
 
-Turquestán | | | | 
+Turquestán | | | LUGAR | 
 Los adamitas y noditas entraron entonces en regiones fértiles de (78:4.2) (80:2.5) (81:1.2)
 Anditas de (78:6.3) (79:1) (79:6.13)
 Andonitas de (78:1.5) (78:3.5) (80:8.2)
@@ -1891,12 +1891,12 @@ Gesto de desaprobación | | Ver Caligastia cien | |
 y todo el concilio perdido en rebelión (67:4.1)
 Gobernadores dirigidos de relaciones tribales avanzadas (66:5.28-30)
 
-Tutankamón | | | | 
+Tutankamón | | | PERSONA | 
 yerno de Ikhnaton; volvió a la adoración antigua (95:5.10)
 
 doce | | Ver 12 | | 
 
-doce veces ayudantes de los circuitos de Havona | | Ver ayudantes de los circuitos de Havona | | 
+doce veces ayudantes de los circuitos de Havona | | Ver ayudantes de los circuitos de Havona | ORDEN | 
 
 siglo veinte | | | | 
 Tiempos psicológicamente inestables de (99:4.6)
@@ -1922,10 +1922,10 @@ mortales de dos cerebros | (49:5.13-18) | Ver cerebros; mortales:tipos planetari
 dos hijos | | | | 
 parábola de (173:3)
 
-Tyrannus | | | | 
+Tyrannus | | | PERSONA | 
 Pablo enseñó en la escuela de (133:6.3)
 
-Neumático | (134:7.1) (140:7.2) (156:4-5) (194:4.13) | | | 
+Neumático | (134:7.1) (140:7.2) (156:4-5) (194:4.13) | | LUGAR | 
 Iglesia cristiana construida en el sitio del templo Melkarth en (156:4.2)
 18a aparición de Jesús en (193:2)
 José de Tiro (156:4.1)
@@ -1936,4 +1936,4 @@ se habría arrepentido en cilicio y cenizas (163:6.5)
 Púrpura de Tiro | | | | 
 los fabricantes de tintes creían en el reino (156:4.3)
 
-Tyrus | (165:0,1) | | | 
+Tyrus | (165:0,1) | | LUGAR | 

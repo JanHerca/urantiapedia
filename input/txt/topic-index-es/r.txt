@@ -24,13 +24,13 @@ conejos | (61:2.7) | | |
 
 mapaches | (61:3.13) | | | 
 
-comisionados de carrera | | | | 
+comisionados de carrera | | | ORDEN | 
 Los Altos Comisionados comienzan su servicio como (37:5.5-6)
 interpretar el punto de vista de razas enteras (37:5.5) (48:6.22)
 muy activo en Urantia (114:4.2)
 trabajo apoyado por serafines intérpretes raciales (48:6.22)
 
-carreras | (64) (51:4) | Ver eugenesia; genética; tribus | | 
+carreras | (64) (51:4) | Ver eugenesia; genética; tribus | RAZA | 
 24 consejeros reclutados de los 8 r. (45:4,2)
 La sangre adánica se prepara mejor para el Espíritu de la Verdad (34:7.1)
 todos son beligerantes (70:1.2)
@@ -99,16 +99,16 @@ tipos | Ver Adamitas; Andonitas; raza azul; raza marrón; raza verde; raza índi
 		tenía muchos rasgos deseables para mejorar las razas primarias (82:6.2,11)
 		desaparecidos o exterminados en muchos mundos (51:4.3)
 
-Raquel (Antiguo Testamento) | | | | 
+Raquel (Antiguo Testamento) | | | PERSONA | 
 piedras sagradas ocultas en su tienda (85:1.1)
 
-Raquel (cuñada de Judas) | (154:5.1) (154:6.1) | | | 
+Raquel (cuñada de Judas) | (154:5.1) (154:6.1) | | PERSONA | 
 en la 16a aparición de Jesús (193:0)
 convirtió a María Magdalena (150:2.2)
 miembro del cuerpo de mujeres (150:1.1)
 cuestión de (150:5.1)
 
-intérpretes raciales | (48:6.22-23) | Ver serafines | | 
+intérpretes raciales | (48:6.22-23) | Ver serafines | ORDEN | 
 Serafines de segundo orden de ministro de transición (39:6.1)
 serafines que armonizan diversos puntos de vista de las razas (48:6.22)
 
@@ -146,19 +146,19 @@ algunos chamanes especializados en hacer (90:2.1,6)
 arco iris | | | | 
 Punto de vista indio, africano, hebreo y cristiano de (85:4.2)
 
-Ramá | (138:9.3) (146:3) (152:7.3) (156:6.2) | | | 
+Ramá | (138:9.3) (146:3) (152:7.3) (156:6.2) | | LUGAR | 
 
-Ramad | (165:0,1) | | | 
+Ramad | (165:0,1) | | LUGAR | 
 
-Ramman | | | | 
+Ramman | | | PERSONA | 
 Dios babilónico del aire (146:1.1)
 
 doctrina de rescate | | Ver la doctrina de la expiación | | 
 
-Rantowoc | | | | 
+Rantowoc | | | PERSONA | 
 primer mortal en asegurar el guardián personal del destino (113:2.2)
 
-Rantulia | | | | 
+Rantulia | | | LUGAR | 
 sistema inmediatamente vecino a Satania (41:2.1) (53:6.5)
 
 rapto | | | | 
@@ -170,7 +170,7 @@ Se equivoca al suponer que las creencias primitivas son seguidas por la búsqued
 
 racionalización | | Ver autoengaño | | 
 
-Ratta | | | | 
+Ratta | | | PERSONA | 
 Nodite sobrehumano de 20 años; Segunda esposa de Adamson, con
 con quien tuvo 67 hijos (77:5.5-6)
 descendió en línea ininterrumpida del bastón nodita puro (80:7.5)
@@ -323,13 +323,13 @@ está de acuerdo con la siembra (148:6.3) (192:2.8)
 
 razón | | Ver lógica; mente mortal; pensamiento | | 
 
-Rebecca (hija de Ezra) | | | | 
+Rebecca (hija de Ezra) | | | PERSONA | 
 se enamoró de Jesús (127:5) (127:6.1-2)
 importunó a su padre para que se fuera de Nazaret a Séforis (127:5.6)
 detenido junto a la tumba de Jesús (188:1.7)
 presenció la crucifixión (127:5.6) (187:3.2) (187:5.4)
 
-Rebecca (hija de José de Arimatea) | | | | 
+Rebecca (hija de José de Arimatea) | | | PERSONA | 
 en la 16a aparición de Jesús (193:0)
 miembro del cuerpo de mujeres (150:1.1)
 relacionó la resurrección a José, Nicodemo y David (190:1.2)
@@ -358,7 +358,7 @@ Los supervisores de circuitos terciarios aíslan mundos en (24:1.12)
 los gobiernos del universo prefieren arriesgar r. que privar a un mortal de una carrera ascendente (112:5.7-8)
 mundos aislados por | Ver cuarentena:mundos sujetos a
 
-Recientes de los Días | (18:5) | | | 
+Recientes de los Días | (18:5) | | ORDEN | 
 3 presiden cada sector menor (15:10.15) (15:13.4) (18:5.1)
 21.000 creados simultáneamente por Trinity (18:5.1)
 aprendiz bajo los Eternos de los Días (18:4.6) (18:5.1)
@@ -389,11 +389,11 @@ Jesús
 	Verdad reconocida en las enseñanzas de otros (100:7.5)
 no busque r no merecido. (156:5.19)
 
-profesores-registradores | (48:6.30-33) | Ver serafines | | 
+profesores-registradores | (48:6.30-33) | Ver serafines | ORDEN | 
 Serafines de ministro de transición de sexto orden (39:6.1)
 serafines que registran transacciones morontiales (48:6.30)
 
-grabadoras | | Ver registros | | 
+grabadoras | | Ver registros | ORDEN | 
 comunicación constante entre muchos órdenes (39:2.16)
 creadores y custodios de registros
 	serafines administradores (39:4.16)
@@ -450,10 +450,10 @@ provisión para r. sobre los mundos morontiales (44:3.4)
 el descanso y todos los pasatiempos saludables previenen la monotonía (84:8.5)
 la reversión se disfruta en todas partes menos en el Paraíso (48:4.11,16)
 
-rectángulos (Jerusem) | | | | 
+rectángulos (Jerusem) | | | LUGAR | 
 áreas para la vida nativa inferior en Jerusem (46:4)
 
-raza roja | (64:6.3-9) (79:5) | Ver carreras | | 
+raza roja | (64:6.3-9) (79:5) | Ver carreras | RAZA | 
 logró una alta civilización aparte de los anditas (79:5.8)
 siempre monógamo (64:6.3) (82:1.2)
 La danza del búfalo aseguró el éxito de la caza (88:6.4)
@@ -531,9 +531,9 @@ Onamonalonton mantuvo su sede entre (64:6.7)
 reflexiones | | | | 
 temido y reverenciado por el hombre primitivo (86:5.14)
 
-Enlaces reflectantes de Majeston | (30:1.110) | | | 
+Enlaces reflectantes de Majeston | (30:1.110) | | ORDEN | 
 
-Ayudas para la imagen reflectante | (17:4) | | | 
+Ayudas para la imagen reflectante | (17:4) | | ORDEN | 
 7 residen en cada capital del superuniverso (15:10.2) (17:4.1)
 49 creado por Espíritus Reflexivos (17:3.4) (17:4.1)
 canal de comunicación entre los Espíritus Reflexivos y los superuniversos (15:10.6-21) (17:0.11) (17:3.4) (17:4.1-2)
@@ -545,9 +545,9 @@ representan seres elevados que no están completamente activos (15:10.21)
 los seconafines son ayudantes (17:4.3)
 Los conciliadores universales sirven bajo (25:3.14)
 
-Espíritus maternos reflexivos | | Ver espíritus reflectantes | | 
+Espíritus maternos reflexivos | | Ver espíritus reflectantes | ORDEN | 
 
-Espíritus reflectantes | (17:3) | Ver Majeston | | 
+Espíritus reflectantes | (17:3) | Ver Majeston | ORDEN | 
 7 en la sede de cada superuniverso (15:10.2) (17:3.1) (17:4.1) (25:2.2) (28:4.5)
 49, más Majeston, creado por Master Spirits y Trinity (17:2.1) (17:3.1) (116:4.3-4)
 los 49 actúan al unísono en ocasiones especiales (17:3.11)
@@ -669,7 +669,7 @@ impotente; superstición burda (150:3.6)
 Los guardias del sanedrín arrojaron la ropa de entierro de Jesús por el acantilado (190:1.2)
 bueno que los soldados se llevaron la ropa de Jesús (187:2.9)
 
-religión | (99; 100; 101; 102; 103; 196) (5:4) (101:1) | Ver iglesia cristiana, temprana; Cristiandad; iglesias; fe; fe hijos de Dios; comunión de creyentes; evangelio; Jesús:enseñanzas; Reino de los cielos; revelación; crecimiento espiritual | | 
+religión | (99; 100; 101; 102; 103; 196) (5:4) (101:1) | Ver iglesia cristiana, temprana; Cristiandad; iglesias; fe; fe hijos de Dios; comunión de creyentes; evangelio; Jesús:enseñanzas; Reino de los cielos; revelación; crecimiento espiritual | RELIGION | 
 toda Urantia esperando r sin trabas. de Jesús (94:12.7)
 acercarse a otros reconociendo verdades comunes (149:2.5)
 Equilibrio mediante el humor (143:7.3)
@@ -1046,7 +1046,7 @@ el mundo necesita más de primera mano r. (195:9,8)
 
 religiosos | | Ver la fe hijos de Dios | | 
 
-guardianes religiosos | | Ver serafines maestros de la supervisión planetaria | | 
+guardianes religiosos | | Ver serafines maestros de la supervisión planetaria | ORDEN | 
 
 líderes religiosos en Roma | | | | 
 Jesús se preparó para los subsiguientes misioneros cristianos (132:0.4-9)
@@ -1063,7 +1063,7 @@ Maestro realmente presente en (179:5.6)
 nueva Pascua; única ceremonia asociada con la vida de Jesús (179:5.4,9)
 tregua refrescante entre el ego y el impulso altruista (103:4.1)
 
-Remona | | | | 
+Remona | | | PERSONA | 
 esposa de Caín, madre de Enoc (76:2.9)
 
 renacimiento (europeo) | | | | 
@@ -1110,7 +1110,7 @@ imaginación creativa inhibida por (111:4.9)
 Judas víctima de (139:12.9)
 superar r. discerniendo el punto de vista de los demás (100:4.4)
 
-cuerpo de reserva | | | | 
+cuerpo de reserva | | | PERSONA | 
 70 divisiones en Uversa (30:3.10)
 no están inactivos (39:3.11)
 órdenes que poseen
@@ -1121,14 +1121,14 @@ no están inactivos (39:3.11)
 	Hijos abrazados por la Trinidad (22:3.2) (22:6.3)
 	Hijos Instructores Trinitarios (19:1.3)
 
-cuerpo de reserva del destino | (114:7) | Ver reservistas | | 
+cuerpo de reserva del destino | (114:7) | Ver reservistas | ORDEN | 
 12 cuerpos, uno para cada grupo de supervisión seráfica (114:7.7)
 la función principal es asegurar contra la ruptura del progreso (114:6.20)
 constaba de 962 personas en 1934 (114:7.8,13)
 cuerpo de reserva cósmico de ciudadanos conscientes del universo (114:7.13)
 consejos permanentes (114:7.11)
 
-reservistas | (114:7) | Ver personalidades de contacto; cuerpo de reserva de | | 
+reservistas | (114:7) | Ver personalidades de contacto; cuerpo de reserva de | ORDEN | 
 destino
 realizar alguna tarea específica, generalmente en unas pocas horas (114:7.11)
 Ajustadores de reservistas
@@ -1149,7 +1149,7 @@ raras veces blasonado en páginas de historia (114:7.9)
 seleccionados por su capacidad inherente, dedicación incondicional, voluntad de servir sin reconocimiento humano (114:7.5)
 conservadores inconscientes de la información planetaria esencial (114:7.10)
 
-gobernadores generales residentes | (114:3) | | | 
+gobernadores generales residentes | (114:3) | | PERSONA | 
 1-2-3 el primero ha servido como de Urantia (77:9.5)
 Términos de 100 años (114:3.1)
 gabinete administrativo (114:5.6) (114:6.2)
@@ -1254,7 +1254,7 @@ resurrecciones especiales
 	en el momento de la llegada de Adán (76:6.2)
 	de supervivientes dormidos ocurren al menos cada milenio del tiempo planetario (49:6.2)
 
-salas de resurrección | | Ver resurrección | | 
+salas de resurrección | | Ver resurrección | LUGAR | 
 las cámaras de ensamblaje de vida proporcionan una relación de energía universal que reconscientiza a los sobrevivientes dormidos (112:5.16-19)
 encuentro de guardianes seráficos, Ajustadores, Portadores de vida y Arcángeles de la resurrección (47:3.2)
 asamblea del templo de la personalidad en el primer mundo de las mansiones (47:3.2,5)
@@ -1382,7 +1382,7 @@ cuando el enemigo te golpea, pon la otra mejilla (159:5.9-15)
 
 reversión | | Ver recreación | | 
 
-directores de reversión | (48:4) | | | 
+directores de reversión | (48:4) | | ORDEN | 
 todos los seres celestiales disfrutan (84:8.5)
 colaborar con los reproductores celestiales (44:2.10)
 colaborar con Joys of Existence (28:5.16)
@@ -1420,12 +1420,12 @@ la religión no es promesas mágicas del futuro r místico. (99:5.2)
 la satisfacción de la justicia trasciende cualquier recompensa material (39:4.13)
 Los cazadores neandertales exitosos tenían elección de esposas (64:4.2,12)
 
-Río Rin | | | | 
+Río Rin | | | LUGAR | 
 La cultura nórdica-danubiana se mezcló (80:9.3)
 
 rinocerontes | (61:1.9) (61:2.9) (61:3.4-5) (61:4.3) (64:4.7) | | | 
 
-Rodas | (130:0,3) (133:7,1) | | | 
+Rodas | (130:0,3) (133:7,1) | | LUGAR | 
 
 ritmo | | Ver música | | 
 aumenta la eficiencia, aumenta el placer (44:4.11)
@@ -1461,7 +1461,7 @@ Judas influenciado por los amigos saduceos (172:5.13)
 Pedro se marchitó antes (139:2.6) (184:2.8)
 influencia fulminante de (174:3.5)
 
-Rig veda | | Ver hinduismo | | 
+Rig veda | | Ver hinduismo | RELIGION | 
 Los brahmanes seleccionaron escrituras sagradas para crear R.-V. a fin de que
 combatir a los maestros de Salem (94:1.7)
 distinción entre mente y corazón (111:0.7)
@@ -1523,7 +1523,7 @@ requiere el contraste del mal potencial (3:5.13)
 
 derechos | | Ver derechos humanos | | 
 
-Rimmon | (146:1) | | | 
+Rimmon | (146:1) | | LUGAR | 
 
 anillo | | | | 
 mujeres casadas apartadas por (82:2.5)
@@ -1566,7 +1566,7 @@ la harina de roca es un producto glacial (61:7.1)
 Montañas Rocosas | (59:2.4) (59:5.18-19) (60:3.9-14) (60:4.2-4) (61:3.3) | | | 
 dinosaurios enterrados en (60:2.2)
 
-Rodán de Alejandría | (160; 161) | | | 
+Rodán de Alejandría | (160; 161) | | PERSONA | 
 en la duodécima aparición de Jesús (191:6)
 filosofía armonizada con el judaísmo (121:6.3-6) (130:3.9) (146:1.3)
 instruido por el ex apóstol de Juan el Bautista (161:0.2)
@@ -1587,7 +1587,7 @@ de misericordia | Ver resurrección
 resurrección de sobrevivientes dormidos (113:6.8)
 Regocíjate que tus nombres estén escritos en rollos del cielo (163:6.2)
 
-Iglesia católica romana | | Ver iglesia cristiana, temprana; cristiandad | | 
+Iglesia católica romana | | Ver iglesia cristiana, temprana; cristiandad | RELIGION | 
 El antiguo culto de continencia fomentó el sacerdocio célibe (89:3.6)
 autoridad sobre las cosas temporales, asuntos del reino, dada a los apóstoles y sucesores (140:2.2-3) (157:4.5-6)
 No llames padre a ningún hombre en sentido espiritual (175:1.10)
@@ -1681,7 +1681,7 @@ El personal de Prince fomentó el noviazgo (66:5.29)
 Romanos | | Ver Imperio Romano; Roma | | 
 nombrada | Ver Augustus; Calígula; Cicerón; Claudia Procula; Claudio; Constantino; Cornelius; Mangus; Marcus; Poncio Pilato; líderes religiosos en Roma; Centurión romano en Corinto; Centurión romano de Jerusalén; Juez romano en Corinto; Juez romano en Jerusalén; Magistrado romano en Roma; Senador romano; Soldado romano en Roma; Soldados romanos en Jerusalén; Tiberio; Titus (Emperador); Vergil; viudas:viuda en Roma
 
-Roma | (130:0.3) (194:4.13) | Ver Imperio Romano; Romanos | | 
+Roma | (130:0.3) (194:4.13) | Ver Imperio Romano; Romanos | LUGAR | 
 ciudad de 2 millones (132:0.2)
 Claudio predicó en (130:8.1)
 El viaje de Jesús a (130; 131; 132; 133)
@@ -1690,7 +1690,7 @@ solo Zebedeo sabía del viaje de Jesús a (134:1.2)
 Enseñanzas de Salem en (98:3)
 hijo de Tito de Capernaum fue martirizado en (146:5.2)
 
-Rómulo | | | | 
+Rómulo | | | PERSONA | 
 tradición del niño repudiado salvado por la intervención divina (89:7.3)
 
 techo | | | | 
@@ -1706,12 +1706,12 @@ Los andonitas eran (80:5.8)
 regalías | | | | 
 recopilado por el gobierno en la nación continental (72:7.10)
 
-Ruben | | | | 
+Ruben | | | RAZA | 
 tribu de renombre (128:1.14)
 
 rufianes en Nazaret | (150:7.3) (150:8.11) (150:9) | | | 
 
-Rufus | | | | 
+Rufus | | | PERSONA | 
 maestro eficaz del evangelio; hijo de Simón de Cirene (187:1.10)
 Jesús ayudó a Rufus cuando fue herido por una carreta (130:6.6)
 
@@ -1730,18 +1730,18 @@ incluyen ciervos, bueyes, camellos, bisontes, rinocerontes (61:3.5)
 muchacho fugitivo en Corinto | | Ver Fortune | | 
 La charla de Jesús con (133:4.11)
 
-Rusia | (59:4.7) (60:1.4) (60:2.6) (60:3.6) (78:3.5) | Ver Siberia | | 
+Rusia | (59:4.7) (60:1.4) (60:2.6) (60:3.6) (78:3.5) | Ver Siberia | LUGAR | 
 La raza azul absorbió una cantidad considerable de sangre andonita en (80:3.2)
 espíritus de los árboles considerados crueles en (85:2.4)
 
-Rut (hija de Mateo) | | | | 
+Rut (hija de Mateo) | | | PERSONA | 
 en la 16a aparición de Jesús (193:0)
 miembro del cuerpo de mujeres (150:1.1)
 
-Rut (Antiguo Testamento) | | | | 
+Rut (Antiguo Testamento) | | | PERSONA | 
 María madre de Jesús descendiente de (122:1.2)
 
-Rut (hermana de Jesús) | (154:5.1) (188:3.3) | Ver Jesús:familia | | 
+Rut (hermana de Jesús) | (154:5.1) (188:3.3) | Ver Jesús:familia | PERSONA | 
 en la cuarta aparición de Jesús (190:2.6)
 en la crucifixión de Jesús (186:0.3) (187:2.7) (187:3.2) (187:5.4)
 nacido el 17 de abril del 9 d.C. (126:3.2)
@@ -1752,5 +1752,5 @@ se mudó a Capernaum (134:1.6)
 irreflexivo al hablar pero sincero de corazón; hermosa (127:4.8)
 inquebrantablemente leal a Jesús; comodidad de la familia principal (124:4.3) (138:0.1) (145:0.3) (154:6.1,3) (190:2.2)
 
-Ryonin | | | | 
+Ryonin | | | PERSONA | 
 enseñó el concepto de Dios en Amida Buddha; fe (94:12.2-3)

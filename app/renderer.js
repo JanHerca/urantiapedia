@@ -123,9 +123,18 @@ const handle_exeButtonClick = () => {
 			.then(() => book.readFromJSON(jsonDir))
 			.then(() => {
 				// Rellenamos desplegable
-				controls.drpTopics.innerHTML = topicindex.topics.map(t =>
-					`<option value="${t.name}">${t.name}</option>`).join('');
-				onSuccess(okMsgs)
+				const topics = topicindex.topics
+					.filter(t => t.type != 'OTRO' && t.lines.length < 4)
+					.sort((a, b) => {
+						if (a.order > b.order) return 1;
+						if (a.order < b.order) return -1;
+						return 0;
+					});
+				controls.drpTopics.innerHTML = topics
+					.map(t => `<option value="${t.name}">${t.name} [${t.type}]</option>`)
+					.join('');
+				onSuccess(okMsgs);
+				showTopic(topics[0].name);
 			}).catch(onFail);
 	} else if (process === 'nti' && checkControls(['dirTTextbox'])) {
 		// Leemos TopicIndex en formato TXT y volvemos a escribir igual
@@ -176,11 +185,14 @@ const showInfos = (infos) => {
 
 const showTopic = (name) => {
 	let html = `<h2 class="mb-1">${name}</h2>`;
+	
 	const topic = topicindex.topics.find(t => t.name === name);
 	if (topic) {
+		html += `<h4 class="mb-1">${topic.order}</h4>`;
 		html += topic.lines.map(line => {
 			return `<p class="mb-1"><strong>${line.text}</strong></p>` +
 				line.refs.map(ref => {
+					//TODO: ordenar por LU ref y por epigrafes
 					const data = ref.split(/[:.]/g);
 					if (data.length < 2) return null;
 					const doc = parseInt(data[0]), sec = parseInt(data[1]);

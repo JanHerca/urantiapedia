@@ -12,7 +12,7 @@
 
 
 
-Yahweh | (96) (97:3) | | | 
+Yahweh | (96) (97:3) | | PERSONA | 
 Y antropomórfica de mayor valor religioso que un Absoluto remoto (94:11.12)
 se cree que ha creado tanto el bien como el mal (142:3.9)
 Las erupciones del monte Horeb hicieron que los beduinos temieran a Yahweh (96:1.11)
@@ -32,7 +32,7 @@ sufrió el desarrollo más extenso de todas las teorías mortales de
 Dios (96:1.15)
 adorado por más de 100 tribus árabes (96:2.5)
 
-Yahwehites | | | | 
+Yahwehites | | | RELIGION | 
 El choque con los baalitas fue socioeconómico, no religioso (97:3)
 consideraba la tierra como algo inalienable (97:3.2)
 tribus árabes del sur o errantes (97:3.2)
@@ -42,7 +42,7 @@ domesticado por 5000 a.C. (81:2,12)
 
 yang | | Ver el yin y el yang | | 
 
-Río Yangtze | | | | 
+Río Yangtze | | | LUGAR | 
 Cultura china en 18.000 a.C. a lo largo (79:6.5) (79:8.5)
 
 bostezo | | | | 
@@ -54,7 +54,7 @@ ser culpable de crónico (155:1.3)
 años | | Ver tiempo:días y años | | 
 1000 años a los ojos de Dios (2:2.2)
 
-raza amarilla | (64:6.14-16) | Ver chino; Razas | | 
+raza amarilla | (64:6.14-16) | Ver chino; Razas | RAZA | 
 consolidación de Asia central en 15.000 a.C. (78:1,7) (78:3,8)
 se hundió en la oscuridad después de la apostasía de Caligastia (64:6.15)
 expulsó a los andonitas de Asia (78:1.5) (79:6.1)
@@ -74,7 +74,7 @@ cepas incorporadas en raza azul, blanca (80:0.2) (80:3.2) (80:9.2,5,10)
 sufrió de absorción de raza verde, inferiores indios (79:6.7)
 generalmente esclaviza a la raza verde (51:4.6)
 
-Río Amarillo | | | | 
+Río Amarillo | | | LUGAR | 
 Nómadas anditas al norte de (79:1.8)
 Cultura china en 18.000 a.C. a lo largo (79:6.5) (79:8.5)
 la sequía llevó a los anditas a los valles de (79:1.3)
