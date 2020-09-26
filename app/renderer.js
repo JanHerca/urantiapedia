@@ -97,6 +97,12 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeToWikiXML(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
+	} else if (process === 'cijw' && checkControls(['dirJTextbox', 'dirWTextbox'])) {
+		//Leemos LU en formato JSON y escribimos Indices en Wiki
+		book.readFromJSON(jsonDir)
+			.then(() => book.writeIndexToWiki(wikiDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'cblw' && checkControls(['dirTTextbox', 'dirLTextbox', 'dirWTextbox'])) {
 		// Leemos Referencias Biblia en formato TXT, luego leemos Biblia en formato LaTeX 
 		// y escribimos Wiki

@@ -944,19 +944,19 @@ conocido como hijo del hombre (95:4.1)
 La religión mesopotámica entró en la literatura hebrea a través de (95:1.11)
 enseñanzas (95:4)
 
-Amenhotep III | | | PERSONA | 
-representación del nacimiento en Luxor (111:0.5)
+Amenjótep III | | | PERSONA | OK
+En los muros de un templo de Luxor se muestra el nacimiento de Amenjótep representado junto a otro niño idéntico que simboliza la creencia egipcia en el ka, el espíritu protector que acompaña toda la vida a las personas distinguidas (111:0.5)
 
-Amerinds | | Ver carrera roja | RAZA | 
+Amerindios | | Ver raza roja | RAZA | 
 
 Buda Amida | | Ver budismo:tipos | | 
 
 Amidist | | Ver el Buda Amida | | 
 creyente en el Buda Amida (94:12.3)
 
-Amonitas | | | RAZA | 
-El rey David impuso un gran tributo (97:9.14)
-Saúl derrotado (97:9.3-5)
+Ammonitas | | | RAZA | OK
+El rey David impuso un gran tributo a este pueblo (97:9.14)
+Saúl derrotó a los ammonitas cuando éstos quisieron atacar a los galaaditas. La victoria fue luego ensalzada y dio lugar a la pretenciosa historia hebrea (97:9.3-5)
 
 amonitas | (60:1.12-13) (60:2.8) (60:4.5) | | | 
 
@@ -964,20 +964,20 @@ ameba | | | |
 vida animal inicial (59:1.1)
 poco ha cambiado desde la antigüedad (65:2.4)
 
-Amorreos | | | RAZA | 
-clanes atrasados ​​que se estaban suicidando (93:6.2)
-Quemos era dios de (96:1.14)
+amoritas | | | RAZA | OK
+eran una confederación de clanes semitas, pero que estaban muy atrasados ​​y se estaban suicidando como nación a causa de sus prácticas insensatas. Melquisedek desaconsejó a Abraham combatirles pues le reveló que en un futuro serían un pueblo débil fácil de derrotar por sus descendientes (93:6.2)
+Quemos era dios de los amoritas, y los hebreos creyeron también por un tiempo en su existencia, aunque fuera subordinada a Yahvé (96:1.14)
 
-Amos (hermano de Jesús) | | Ver Jesús:familia | PERSONA | 
-nacido el 9 de enero del 7 d.C. murió el 3 de diciembre del año 12 d.C. (124:5.2) (127:3.13)
-Jesús se llevaba bien con (124:4.3)
+Amós (hermano de Jesús) | | Ver Jesús:familia | PERSONA | OK
+Amós fue el séptimo hermano de Jesús. Nació la noche del domingo 9 de enero del 7 d.C. y murió la tarde del sábado 3 de diciembre del año 12 d.C., tras una semana enfermo con mucha fiebre. Este fallecimiento fue aún más doloroso si cabe para la familia porque el padre José, hacía poco que también había fallecido (124:5.2) (127:3.13)
+Jesús se llevaba especialmente bien con sus hermanos pequeños, Amós y Rut (124:4.3)
 
-Amos (amigo de John Mark) | | | PERSONA | 
-sobreprotegido por los padres; no confiable (177:2.2-4)
+Amós (amigo de Juan Marcos) | | | PERSONA | OK
+Amós es un amigo de Juan Marcos el evangelista, que fue sobreprotegido por sus padres negándole la posibilidad de unirse al movimiento de Jesús a no ser que escapara de su casa e hiriese los sentimientos de sus padres  (177:2.2-4)
 
-Amos (Kheresa lunático) | (151:6) | | PERSONA | 
-llevó a Adén a creer en Jesús (159:2.4)
-historia de un cerdo ayudado en la permanencia de la curación (151:6.6)
+Amós (lunático de Jeresa) | (151:6) | | PERSONA | OK
+Amós llevó a Adén a creer en Jesús y éste último se dedicó después a predicar (159:2.4)
+Era un lunático que vivía en unas cuevas y el cementario cerca de Jeresa. Solía estar encadenado pero había logrado desatarse y vagaba por allí cuando encontró a Jesús. Amós no tenía ninguna posesión demoníaca como él creía ni fue curado por Jesús sino que tenía una aflicción mental y cambió bruscamente de conducta al escuchar a Jesús. La historia que luego creyó, que los demonios que le atormentaban pasaron a morar en unos cerdos, ayudó a consolidar su restablecimiento. Todos los apóstoles excepto Tomás creyeron en la historia de los cerdos (151:6.6)
 
 Amós (profeta) | | | PERSONA | 
 denunció la embriaguez, la inmoralidad de las tribus del norte (97:4.1-4)
@@ -988,8 +988,8 @@ la escritura secreta comenzó el Antiguo Testamento (97:9.20)
 apedreado hasta la muerte (97:4.4)
 amenazó con que Dios abandonaría a Israel a menos que se restableciera la justicia (97:8.3)
 
-Amosad | | | PERSONA | 
-Sacerdocio setita regenerado ca. 15.000 a.C. (78:5.1) (92:5.9)
+Amosad | | | PERSONA | OK
+Amosad fue un líder que hacia el 15.000 a.C. logró una regeneración del decadente clero setita, renacimiento que logró la supervivencia de esa fe más tiempo que ninguna otra (78:5.1) (92:5.9)
 
 anfiteatro | | | | 
 en el lago Urmia (134:3.1)
@@ -1003,8 +1003,8 @@ anarquía | | | |
 aumenta la miseria (70:0.3)
 liderazgo proporcionado infaliblemente (181:2.16)
 
-Anaxágoras | | | PERSONA | 
-Mecanista griego que reconoció la Primera Causa (98:2.6)
+Anaxágoras | | | PERSONA | OK
+Anaxágoras era un mecanista griego que reconoció una Causa Primera (98:2.6)
 
 Anaxand | | | PERSONA | 
 mayordomo designado de Cornelio (130:2.5)
@@ -1228,9 +1228,9 @@ practicas
 retrocedió durante 500.000 años después de Andón (63:5.7) (63:6.1)
 inusual que Andonitas evolucionó antes que las razas de color (64:6.2)
 
-Andovontia | | Ver Supervisores de circuitos del universo | PERSONA | 
-puso en cuarentena a Urantia tras la traición de Caligastia (37:8.3)
-Supervisor del Circuito del Universo terciario # 572,842 para Nebadon; de asignación eterna (24:1.11)
+Andovontia | | Ver Supervisores de los Circuitos Universales | PERSONA | OK
+Es el Supervisor terciario de los Circuitos Universales estacionado en nuestro universo local. Él es quien puso en cuarentena a Urantia tras la traición de Caligastia (37:8.3)
+Andovontia es el nombre del Supervisor terciario de los Circuitos con el número 572.842 para Nebadon y su asignación es eterna. Es miembro del estado mayor personal de Miguel de Nebadon (24:1.11)
 
 Andrés | (139:1) (143:3.1,5) (144:1.4) (145:2.1) (167:0.1) (191:0.6) (192:1.11) (192:4.7) (194:1.2) | Ver apóstoles de Jesús | PERSONA | 
 3 hermanas, una llamada Marta; hermano Pedro (139:1.1) (150:1.1)
@@ -1265,10 +1265,9 @@ tendencia a la sospecha y al sobreindividualismo (193:4.3)
 socio pescador soltero de Pedro, Santiago y Juan (139:1.1) (139:3.1)
 preocupado por Judas (157:7.1) (181:2.6) (182:0.2)
 
-Andrómeda (nebulosa) | | | LUGAR | 
-1 millón de años luz de distancia (15:4.7)
-nebulosa activa fuera del superuniverso habitado (15:4.7)
-colapsó en 40 minutos (41:8.3)
+Andrómeda (nebulosa) | | | LUGAR | OK
+Andrómeda es una nebulosa formadora de soles que está fuera del superuniverso habitado y es muy activa. Es una nebulosa visible a simple vista y su luz tarda en llegar a nosotros un millón de años (15:4.7)
+en Andrómeda colapsó una nova gigante en 40 minutos (41:8.3)
 
 Andronover (nebulosa) | (57:1-4) | | LUGAR | 
 1.013.628 soles de Orvonton se originaron en (57:2.2) (57:4.3,8)
@@ -1281,16 +1280,17 @@ Nebadon parcialmente ensamblado de (41:0.3)
 nebulosa # 876,926 (57:1.6)
 gira alrededor de la nube de estrellas de Nebadon (15:3.10)
 
-Ang | | Ver Caligastia cien | PERSONA | 
-y 3 de su consejo leales en rebelión (67:4.1)
-consejo dirigido sobre alimentación y bienestar material (66:5.2)
+Ang | | Ver Caligastia cien | PERSONA | OK
+Ang y tres miembros de su consejo permanecieron leales y no se unieron a la rebelión (67:4.1)
+fue uno de los miembros corpóreos del estado mayor del Príncipe Planetario, que presidía el consejo de alimentación y bienestar material, y que enseñó irrigación, peletería y tejeduría a los hombres primitivos (66:5.2)
 
-Angamon | | | PERSONA | 
-presentó a Jesús a un hombre rico (132:5.1)
-Líder estoico en Roma; Charla de Jesús con (132:1)
+Angamón | | | PERSONA | OK
+Angamón presentó a Jesús a un hombre rico de Roma que fue muy influido por sus enseñanzas (132:5.1)
+Angamón era el líder de la iglesia de los estoicos en Roma. Jesús tuvo una charla con él de la que se nos ofrece un resumen en El Libro de Urantia. Fue un gran amigo de Pablo de Tarso y un seguidor ferviente de la iglesia cristiana en Roma (132:1)
 
-Angelic World, El | | Ver Jerusem:mundos culturales de transición | LUGAR | 
-mundo cultural de transición # 3 (45:1.5) (47:6.1)
+El mundo de los ángeles | | Ver Jerusem:mundos culturales de transición | LUGAR | OK
+este mundo es el tercer mundo cultural de transición de Jerusem, la capital de Satania (45:1.5)
+al llegar a la tercera mansonia, el tercer satélite del mundo de transición número uno, se concede permiso para sivitar el mundo de los ángeles (47:5.2)
 
 ángeles | (26:1) | Ver Espíritu infinito:familia de | ORDEN | 
 todos los grupos de a. tener su propio cuerpo de transporte (39:2.8)

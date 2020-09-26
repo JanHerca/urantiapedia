@@ -83,7 +83,7 @@ class Book {
 	};
 
 	/**
-	 * Devolvemos un array con pares [texto, ref bíblica]
+	 * Devuelve un array con pares [texto, ref bíblica]
 	 * @param {Array} footnotes Array de footnotes
 	 * @return {Array}
 	 */
@@ -475,10 +475,126 @@ class Book {
 	// Wiki
 	//***********************************************************************
 
+	/**
+	 * Escribe `El Libro de Urantia` en formato Wiki, cada documento en un archivo.
+	 * Requiere previamente haber leido el libro desde algun otro formato.
+	 * @param {string} dirPath Carpeta de salida.
+	 * @return {Promise}
+	 */
 	writeToWiki = (dirPath) => {
 		return this.writeTo(dirPath, 'wiki');
 	};
 
+	/**
+	 * Escribe las páginas de índices de `El Libro de Urantia` en formato Wiki.
+	 * El nombre de los ficheros resultantes son `El_Libro_de_Urantia_Indice.wiki`
+	 * y `El_Libro_de_Urantia_Indice_extendido.wiki`
+	 * @param {*} dirPath Carpeta de salida.
+	 * @return {Promise}
+	 */
+	writeIndexToWiki = (dirPath) => {
+		return new Promise((resolve, reject) => {
+			const lu = 'El_Libro_de_Urantia';
+			const filePath1 = path.join(dirPath, `${lu}_Indice.wiki`);
+			const filePath2 = path.join(dirPath, `${lu}_Indice_extendido.wiki`);
+			let wiki1 = '__NOTOC__\r\n\r\n';
+			let wiki2 = '__NOTOC__\r\n\r\n';
+			let errs = [];
+
+			let papers = this.papers.slice().sort((a, b) => 
+				a.paper_index - b.paper_index);
+
+			papers.forEach(paper => {
+				const i = paper.paper_index;
+				const title = paper.paper_title;
+				let error = null;
+
+				if (!Array.isArray(paper.sections)) {
+					error = 'El documento no tiene secciones';
+				} else if (paper.sections.find(s => s.section_ref == null)) {
+					error = 'Una sección no tiene referencia';
+				} else if (!paper.paper_title) {
+					error = 'El documento no tiene título';
+				}
+
+				if (error) {
+					errs.push(new Error(`${filePath1}: ${error}`));
+					return;
+				}
+
+				let part = null;
+
+				if (i === 0) {
+					part = '== PRÓLOGO ==';
+				} else if (i === 1) {
+					part = '== PRIMERA PARTE - EL UNIVERSO CENTRAL Y LOS SUPERUNIVERSOS ==';
+				} else if (i === 32) {
+					part = '== SEGUNDA PARTE - EL UNIVERSO CENTRAL ==';
+				} else if (i === 57) {
+					part = '== TERCERA PARTE - LA HISTORIA DE URANTIA ==';
+				} else if (i === 120) {
+					part = '== CUARTA PARTE - LA VIDA Y LAS ENSEÑANZAS DE JESÚS ==';
+				}
+				if (part) {
+					wiki1 += `${part}\r\n\r\n`;
+					wiki2 += `${part}\r\n\r\n`;
+				}
+				
+				wiki1 += `* [[${lu}_Doc_${i}|${title}]]\r\n`;
+				wiki2 += `=== ${title} ===\r\n\r\n`;
+
+				paper.sections.forEach((section, n) => {
+					const ref = section.section_ref.replace(':', '_');
+					const stitle = section.section_title;
+					if (section.section_title) {
+						wiki2 += `* [[${lu}_Doc_${i}#LU_${ref}|${stitle}]]\r\n`;
+					}
+					if (n === paper.sections.length - 1) {
+						wiki2 += '\r\n';
+					}
+				});
+			});
+
+			if (errs.length > 0) {
+				reject(errs);
+				return;
+			}
+
+			const p1 = new Promise((resolve1, reject1) => {
+				fs.writeFile(filePath1, wiki1, 'utf-8', (err) => {
+					resolve1(err ? {error: err} : {value: null});
+				});
+			});
+			const p2 = new Promise((resolve2, reject2) => {
+				fs.writeFile(filePath2, wiki2, 'utf-8', (err) => {
+					resolve2(err ? {error: err} : {value: null});
+				});
+			});
+
+			Promise.all([p1,p2])
+				.then((results) => {
+					const errors = [];
+					results.forEach(r => extendArray(errors, r.error));
+					if (errors.length === 0) {
+						resolve(null);
+					} else {
+						reject(errors);
+					}
+				});
+		});
+	};
+
+	/**
+	 * Escribe `El Libro de Urantia` en formato XML de la extensión DataTransfer
+	 * para MediaWiki, cada documento en un archivo si merge es false y si no
+	 * se genera un único archivo `wiki_xml_import.xml`.
+	 * @deprecated No se aconseja usar DataTransfer y usar el formato wiki con
+	 * el script de mantenimiento importTextFiles.php
+	 * @param {string} dirPath Carpeta de salida
+	 * @param {?boolean} merge Si fusionar todos los archivos de salida en uno.
+	 * Por defecto es false.
+	 * @return {Promise}
+	 */
 	writeToWikiXML = (dirPath, merge) => {
 		const baseName = path.basename(dirPath);
 		const filePath = path.join(dirPath, 'wiki_xml_import.xml');
@@ -523,6 +639,12 @@ class Book {
 		});
 	};
 
+	/**
+	 * Escribe un documento de `El Libro de Urantia` en formato Wiki.
+	 * @param {string} filePath Archivo de salida.
+	 * @param {Object} paper Objeto JSON con el documento.
+	 * @return {Promise}
+	 */
 	writeFileToWiki = (filePath, paper) => {
 		return new Promise((resolve, reject) => {
 			let wiki = '', ptitle, error;
@@ -611,6 +733,15 @@ class Book {
 		});
 	};
 
+	/**
+	 * Escribe uno o varios documentos de `El Libro de Urantia` en formato XML de 
+	 * la extensión DataTransfer para MediaWiki.
+	 * @deprecated No se aconseja usar DataTransfer y usar el formato wiki con
+	 * el script de mantenimiento importTextFiles.php
+	 * @param {string} filePath Archivo de salida.
+	 * @param {Array.<Object>} papers Array de objetos JSON con los documentos.
+	 * @return {Promise}
+	 */
 	writeFileToWikiXML = (filePath, papers) => {
 		return new Promise((resolve, reject) => {
 			let xml = '<Pages>\r\n';
@@ -718,6 +849,13 @@ class Book {
 		});
 	};
 
+	/**
+	 * Convierte el array de las notas a pie de página en formato Wiki o en
+	 * el formato XML de la extensión DataTransfer de MediaWiki si xml=true.
+	 * @param {Array.<Object>} footnotes Array de las notas al pie de página.
+	 * @param {boolean} xml Si true se convierte al formato XML, si no a Wiki.
+	 * @return {string}
+	 */
 	footnotesToWiki = (footnotes, xml) => {
 		return footnotes.map((f, n) => {
 			let wiki, parts, text, text2, fs, ab;
@@ -805,6 +943,11 @@ class Book {
 		});
 	};
 
+	/**
+	 * Obtiene la abreviatura de la Biblia para una referencia.
+	 * @param {string} content Referencia de la Biblia.
+	 * @return {string}
+	 */
 	findAbr = (content) => {
 		//Localiza cuál es la abreviatura
 		for (let ab in BibleAbb) {
@@ -820,10 +963,25 @@ class Book {
 	// Help functions
 	//***********************************************************************
 
+	/**
+	 * Devuelve un error con los datos dados.
+	 * @param {string} file Archivo en el que se produce el error.
+	 * @param {number} linenum Línea con el error.
+	 * @param {string} msg Mensaje de error.
+	 * @return {Error}
+	 */
 	createError = (file, linenum, msg) => {
-		return new Error(`${file}, línea ${linenum}: ${msg}`);
+		return new Error(`${file}, línea ${linenum + 1}: ${msg}`);
 	};
 
+	/**
+	 * Escribe `El Libro de Urantia` en el formato especificado, cada documento 
+	 * en un archivo.
+	 * Requiere previamente haber leido el libro desde algun otro formato.
+	 * @param {string} dirPath Carpeta de salida.
+	 * @param {string} format Formato de salida. Puede ser `json`, `tex` o `wiki`.
+	 * @return {Promise}
+	 */
 	writeTo = (dirPath, format) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
