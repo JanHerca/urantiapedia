@@ -208,6 +208,7 @@ class Book {
 					errors.push(this.createError(baseName, i,
 						'No se pudo extraer el inicio de sección'));
 				} else {
+					extract = this.replaceSpecialChars(extract);
 					//Caso especial de la sección 139:9 (que no existe)
 					if (extract.startsWith('9. y 10.')) {
 						currentSectionIndex += 2;
@@ -315,14 +316,26 @@ class Book {
 		return content
 			.replace(/(\\\"u)/g, 'ü')
 			.replace(/(---)/g, '—')
-			.replace('\\bigbreak', '<br/>');
+			.replace('\\bigbreak', '<br/>')
+			.replace(/{\\textdegree}/g, '&deg;')
+			.replace(/{\\textordmasculine}/g, 'º')
+			.replace(/{\\textordfeminine}/g, 'ª')
+			.replace(/\\textsuperscript\{27\}/g, '<sup>27</sup>')
+			.replace(/\\textsuperscript\{3\}/g, '<sup>3</sup>')
+			.replace(/{\\textonequarter}/g, '&frac14;');
 	};
 
 	replaceInverseSpecialChars = (content) => {
 		return content
 			.replace(/(ü)/g, '\\\"u')
 			.replace(/(—)/g, '---')
-			.replace('<br/>', '\\bigbreak');
+			.replace('<br/>', '\\bigbreak')
+			.replace(/&deg;/g, '{\\textdegree}')
+			.replace(/º/g, '{\\textordmasculine}')
+			.replace(/ª/g, '{\\textordfeminine}')
+			/*.replace(/<sup>27</sup>/g, '\\textsuperscript{27}')
+			.replace(/<sup>3</sup>/g, '\\textsuperscript{3}')
+			.replace(/&frac14;/g, '\\textonequarter')*/;
 	};
 
 	writeToLaTeX = (dirPath) => {
@@ -666,6 +679,7 @@ class Book {
 			}
 
 			ptitle = paper.paper_title.toUpperCase();
+			wiki += '<div class="noautonum">__TOC__</div>\r\n';
 			wiki += `== ${ptitle} ==${end}`;
 
 			const wfootnotes = (Array.isArray(paper.footnotes) &&
@@ -695,12 +709,13 @@ class Book {
 				}
 
 				section.pars.forEach(par => {
-					let pref, panchor, pcontent;
+					let pref, supref, panchor, pcontent;
 					if (!par.par_ref || !par.par_content) {
 						error = 'Un párafo no tiene referencia o contenido';
 						return;
 					}
 					pref = par.par_ref.replace(/[:\.]/g,'_');
+					supref = `<sup><small>${par.par_ref}</small></sup>`;
 					panchor = `{{anchor|LU_${pref}}}`;
 					pcontent = par.par_content.replace(/\*/g, '\'\'');
 					while (wfootnotes.length > 0 && 
@@ -710,7 +725,8 @@ class Book {
 							`<ref name="n${footnoteIndex}"/>`);
 						footnoteIndex++;
 					}
-					wiki += `${panchor} ${pcontent}${end}`;
+					// pcontent = `<p class="p-book">${pcontent}</p>`;
+					wiki += `${panchor} ${supref} ${pcontent}${end}`;
 				});
 			});
 
