@@ -130,7 +130,7 @@ const handle_exeButtonClick = () => {
 			.then(() => {
 				// Rellenamos desplegable
 				const topics = topicindex.topics
-					.filter(t => t.type != 'OTRO' && t.lines.length < 4)
+					/*.filter(t => t.type != 'OTRO' && t.lines.length < 4)*/
 					.sort((a, b) => {
 						if (a.order > b.order) return 1;
 						if (a.order < b.order) return -1;

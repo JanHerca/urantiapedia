@@ -41,7 +41,7 @@ uñas | | | |
 Tomás no creería hasta ver las marcas de (191:5.4)
 usado en la crucifixión (187:2.1)
 
-Naín | (124:1,12) (137:2,8) | | LUGAR | 
+Naín | (124:1.12) (137:2.8) | | LUGAR | 
 colina de (122:6.1)
 José, padre de Jesús, trabajó en (123:3.8)
 hijo de la viuda en (146:6)
@@ -67,7 +67,7 @@ Nanak, Guru | | Ver a Guru Nanak | PERSONA |
 Naomi | | | PERSONA | 
 novia en las bodas de Caná (137:3.6)
 
-Nápoles | (130:0,2) | | LUGAR | 
+Nápoles | (130:0.2) | | LUGAR | 
 mendigo en Nápoles carecía de capacidad para responder (130:8.4)
 Claudio predicó en (130:8.1)
 Parada de Jesús en (130:8.4-5)
@@ -91,7 +91,7 @@ alfarero (123:5.15) (124:1.3)
 
 Natanael (apóstol) | (139:6) (143:3.5) (144:1.7) (151:2.3) (164:0.1) (192:4.7) | Ver apóstoles de Jesús | PERSONA | 
 filósofo apostólico, soñador (139:6.4) (147:4.10) (191:0.7)
-en las apariciones de Jesús (191:2,5) (192:1-4) (193:0,3,5)
+en las apariciones de Jesús (191:2.5) (192:1-4) (193:0.3,5)
 asistió a la sesión del Sanedrín (164:5.3)
 actitud
 	¿Puede salir algo bueno de Nazaret? (137:2.6) (139:6.3)
@@ -191,7 +191,7 @@ los primitivos creían n. estaba directamente bajo el control de seres sobrenatu
 los primitivos elevaron los espíritus de la naturaleza a dioses (85:6.4)
 no tiene conocimiento de la moral sexual (82:2.1)
 Totalmente indiferente al bienestar humano (84:5.2) (101:3.10)
-la violencia es la ley del n. (70:1,1)
+la violencia es la ley del n. (70:1.1)
 adoración de la naturaleza
 	división del trabajo imaginada en el mundo supermortal (85:0.3)
 	inadecuado (4:2.6,8) (5:5.4) (139:8.7)
@@ -256,9 +256,9 @@ personalidades celestiales en Nebadon
 	1 Padre Melquisedec | Ver padre Melquisedec
 	1 Espíritu Materno del universo local | Ver el universo local Mother Spirit of Nebadon
 	1 supervisor del circuito del universo (terciario) (24:1.11) (37:8.3)
-	3 millones de supervisores celestiales (37:6.1)
+	3 millones de Supervisores Celestiales (37:6.1)
 	70 mil millones de compañeros morontiales (37:8.9)
-	75 registradores celestiales (37:8.8)
+	75 Registradores Celestiales (37:8.8)
 	100 Centros de Poder Supremos (32:2.2) (41:1.2)
 	400 millones de conciliadores universales (37:8.6)
 	500 millones de altos comisionados (37:5.6)
@@ -288,7 +288,7 @@ personalidades celestiales en Nebadon
 	univitatia (37:9.8)
 	Vorondadek Sons q.v.
 los tribunales de Nebadon son supremos excepto por cuestiones de extinción, incumplimiento de Universe Son, revocación de cuarentenas; supervisado por Gabriel (33:7)
-creado y gobernado por Michael (1:2.9) (33:1) (128:1.1)
+creado y gobernado por Miguel (1:2.9) (33:1) (128:1.1)
 Gabriel es el director ejecutivo (33:0.1) (33:4.5-6) ​​(33:6.1) (37:1.9) (37:2.2) (50:2.1)
 idioma de Nebadon (44:4.3,7)
 	48 símbolos en el alfabeto (44:4.4)
@@ -332,9 +332,9 @@ consejo supremo de Salvington (188:3.12)
 Soberanos del sistema a quienes se les confían prerrogativas personales inusuales (45:2.1)
 lo que está impregnado de nuestro Espíritu Materno es Nebadon (41:0.1) (45:1.8) (116:5.13)
 
-Cuerpo de finalización de Nebadon | | Ver Cuerpo de perfección de Nebadon | ORDEN | 
+Cuerpo de finalización de Nebadon | | Ver Cuerpo de la Perfección de Nebadon | ORDEN | 
 
-Cuerpo de perfección de Nebadon | | | ORDEN | 
+Cuerpo de la Perfección de Nebadon | | | ORDEN | 
 alcanzado por los ascendentes fusionados con el Espíritu (37:5.4)
 los miembros adquieren sabiduría autorizada sobre Nebadon (40:10.6)
 
@@ -387,7 +387,7 @@ negativismo | | | |
 error mayor de las religiones modernas (140:4.7)
 a menudo entrenado en niños (103:2.5-6)
 
-Negroides | | Ver carreras | RAZA | 
+Negroides | | Ver razas | RAZA | 
 raza mixta de naranja, verde e índigo (81:4.13)
 
 vecino | | | | 
@@ -423,7 +423,7 @@ parábola de (151:4.6)
 el paraíso inferior | | Ver el paraíso | | 
 
 neutrones | | Ver átomos; importar | | 
-la estabilidad atómica depende del número de n. en el núcleo (42:7,6)
+la estabilidad atómica depende del número de n. en el núcleo (42:7.6)
 unidos por mesotrón recíproco (42:8.3)
 
 mandamiento nuevo | | Ver mandamientos | | 
@@ -447,8 +447,8 @@ autores
 	sostenía ideas estrictas sobre el divorcio (140:8.14)
 cambió la historia durante 2000 años (121:8.11)
 evangelios, libros y epístolas nombrados
-	Libro de los Hechos | Ver Hechos, Libro de
-	Libro de las Revelaciones | Ver Revelaciones, Libro de
+	Libro de los Hechos de los Apóstoles | Ver Hechos de los Apóstoles
+	Libro del Apocalipsis | Ver Apocalipsis
 	Epístola de Santiago | Ver Santiago (hermano de Jesús):Epístola de
 	Epístola a los Hebreos | Ver Hebreos, Libro de
 	Primera epístola de Juan | Ver Juan Zebedeo:Primera Epístola
@@ -497,7 +497,7 @@ temía ser visto abiertamente con Jesús (142:6.1)
 Los seguidores de Jesús se reunieron en casa de (164:2.1) (174:5.5) (175:4.3) (183:4.4) (186:3.3) (189:4.2)
 La visita de Jesús con (142:6)
 
-Nicópolis | (130:0,3) | | LUGAR | 
+Nicópolis | (130:0.3) | | LUGAR | 
 fundada por Augusto para conmemorar Actium (133:2.5)
 
 policía nocturna | | | | 
@@ -544,13 +544,13 @@ Caín partió hacia N .; al este del segundo Edén (76:2.9)
 Caín encontró esposa en (74:8.8) (148:4.7)
 Asentamiento elamita nodita (67:4.2) (77:4.5)
 
-Nod (el bastón corpóreo de Prince) | | Ver Caligastia cien | PERSONA | 
+Nod (el bastón corpóreo de Prince) | | Ver los cien de Caligastia | PERSONA | 
 y todo el concilio perdido en rebelión (67:4.1)
 presidente del consejo de industria y comercio (66:5.11) (73:1.3)
 líder de los rebeldes del personal de Prince (67:4.2)
 
-Noditas | (77:2) | Ver carreras | RAZA | 
-8a carrera en aparecer (73:1.3) (77:2.8)
+Noditas | (77:2) | Ver razas | RAZA | 
+8a raza en aparecer (73:1.3) (77:2.8)
 60 miembros rebeldes del personal de Prince y 44 homólogos andónicos constituían 104 antepasados ​​de (77:2.4,8)
 Adán impregnó 1.682 Noditas en el segundo jardín para fundar la raza andita (76:4.8)
 construyó la torre de Babel como monumento a los Noditas la grandeza racial (77:3.1-2)
@@ -664,18 +664,18 @@ dirección absoluta establecida por el eje del Paraíso (11:2.3)
 
 Norteamérica | | Ver Canadá; México; Estados Unidos de Norteamérica | LUGAR | 
 24 grandes inundaciones (60:4.1)
-descubierto por razas blancas ca. 1000 d.C. (79:5,7)
+descubierto por razas blancas ca. 1000 d.C. (79:5.7)
 extensa zona de caza abierta y fértil (81:6.4)
 futuro determinado por la calidad de los factores raciales a los que se les permite ingresar (80:9.16)
 geología (59; 60; 61)
 Groenlandia una vez conectó N.A. con Europa (59:5.20) (61:1.12)
 caballos y camellos en las llanuras del Mioceno (61:3.10)
 Los océanos brindan oportunidades favorables para un desarrollo sin molestias (81:6.5)
-carrera roja en (79:5.7-8)
+raza roja en (79:5.7-8)
 rico en fósiles de vida marina (59:0.9)
 surgió de las profundidades del Pacífico (57:8.21)
 deriva lenta hacia el oeste (58:4.3)
-la carrera amarilla impulsó la carrera roja desde Asia a (64:6.4,14) (64:7.4-5)
+la raza amarilla impulsó la raza roja desde Asia a (64:6.4,14) (64:7.4-5)
 
 Polo Norte | (59:3.7) | | LUGAR | 
 Vastas capas de hielo comenzaron a formarse hace 100.000 años (61:7.11)

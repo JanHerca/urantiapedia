@@ -1,5 +1,0 @@
-Representación del nacimiento en Luxor. <ref>{{lib|LU|111|0|5}}</ref> 
-
-== Referencias ==
-
-<references />
