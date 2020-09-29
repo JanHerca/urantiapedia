@@ -123,6 +123,12 @@ const handle_exeButtonClick = () => {
 			.then(() => topicindex.writeToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
+	} else if (process === 'citw' && checkControls(['dirTTextbox', 'dirWTextbox'])) {
+		// Leemos Indice de TopicIndex en formato TXT y escribimos Wiki
+		topicindex.readFromTXT(txtDir)
+			.then(() => topicindex.writeIndexToWiki(wikiDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'rti' && checkControls(['dirTTextbox', 'dirJTextbox'])) {
 		// Leemos TopicIndex en formato TXT y luego leemos LU en formato JSON
 		topicindex.readFromTXT(txtDir)

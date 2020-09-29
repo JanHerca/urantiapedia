@@ -519,7 +519,7 @@ class Book {
 
 			papers.forEach(paper => {
 				const i = paper.paper_index;
-				const title = paper.paper_title;
+				let title = paper.paper_title;
 				let error = null;
 
 				if (!Array.isArray(paper.sections)) {
@@ -536,6 +536,7 @@ class Book {
 				}
 
 				let part = null;
+				title = this.replaceSpecialChars(title);
 
 				if (i === 0) {
 					part = '== PRÓLOGO ==';
@@ -558,8 +559,8 @@ class Book {
 
 				paper.sections.forEach((section, n) => {
 					const ref = section.section_ref.replace(':', '_');
-					const stitle = section.section_title;
 					if (section.section_title) {
+						const stitle = this.replaceSpecialChars(section.section_title);
 						wiki2 += `* [[${lu}_Doc_${i}#LU_${ref}|${stitle}]]\r\n`;
 					}
 					if (n === paper.sections.length - 1) {
@@ -678,7 +679,8 @@ class Book {
 				return;
 			}
 
-			ptitle = paper.paper_title.toUpperCase();
+			ptitle = this.replaceSpecialChars(paper.paper_title);
+			ptitle = ptitle.toUpperCase();
 			wiki += '<div class="noautonum">__TOC__</div>\r\n';
 			wiki += `== ${ptitle} ==${end}`;
 
@@ -702,7 +704,8 @@ class Book {
 				ref = section.section_ref.replace(':', '_');
 				anchor = `{{anchor|LU_${ref}}}`;
 				if (section.section_title) {
-					stitle = section.section_title.toUpperCase();
+					stitle = this.replaceSpecialChars(section.section_title);
+					stitle = stitle.toUpperCase();
 					wiki += `== ${anchor} ${stitle} ==${end}`;
 				} else {
 					wiki += `${anchor}${end}`;

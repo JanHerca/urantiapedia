@@ -171,7 +171,7 @@
                 {
                     "par_ref": "41:4.1",
                     "par_pageref": "459.5",
-                    "par_content": "La masa de vuestro Sol es ligeramente mayor de lo que estiman vuestros físicos, que han calculado que tiene unos mil ochocientos cuatrillones (1,8 x 10\\textsuperscript{27}) de toneladas. Actualmente se encuentra casi a medio camino entre las estrellas más densas y las más difusas, y tiene alrededor de una vez y media la densidad del agua. Pero vuestro Sol no es ni líquido ni sólido —es gaseoso— y esto es así a pesar de la dificultad de explicar cómo puede alcanzar la materia gaseosa esta densidad e incluso otras mucho mayores."
+                    "par_content": "La masa de vuestro Sol es ligeramente mayor de lo que estiman vuestros físicos, que han calculado que tiene unos mil ochocientos cuatrillones (1,8 x 10<sup>27</sup>) de toneladas. Actualmente se encuentra casi a medio camino entre las estrellas más densas y las más difusas, y tiene alrededor de una vez y media la densidad del agua. Pero vuestro Sol no es ni líquido ni sólido —es gaseoso— y esto es así a pesar de la dificultad de explicar cómo puede alcanzar la materia gaseosa esta densidad e incluso otras mucho mayores."
                 },
                 {
                     "par_ref": "41:4.2",
@@ -255,7 +255,7 @@
         {
             "section_index": 6,
             "section_ref": "41:6",
-            "section_title": "6. El calcio ---el vagabundo del espacio",
+            "section_title": "6. El calcio —el vagabundo del espacio",
             "pars": [
                 {
                     "par_ref": "41:6.1",

@@ -390,6 +390,61 @@ class TopicIndex {
 			});
 		});
 	};
+
+	/**
+	 * Escribe la página de índice de los términos del Topic Index en formato Wiki.
+	 * El nombre del fichero generado es '_indice.wiki' y su contenido debe ir
+	 * dentro de la página 'Manual:Dónde_puedo_aportar_contenido' porque allí se
+	 * explica con más detalle qué páginas existen en la Wiki y cuáles se deberían
+	 * revisar.
+	 * @param {string} dirPath Carpeta de salida.
+	 * @return {Promise}
+	 */
+	writeIndexToWiki = (dirPath) => {
+		return new Promise((resolve, reject) => {
+			const filePath = path.join(dirPath, '_indice.wiki');
+			const topicTypes = ['PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'OTRO'];
+			const typeTitles = [
+				'Personalidades, personas, nombres de dioses, o grupos',
+				'Lugares, tanto en la Tierra como en el Universo',
+				'Órdenes y tipologías de seres',
+				'Razas, tribus o pueblos que se han dado en la Tierra',
+				'Otros términos'];
+			let wiki = '';
+
+			topicTypes.forEach((tt, i) => {
+				wiki += `== ${typeTitles[i]} ==\r\n`;
+				const topics = this.topics
+					.filter(t => t.type === tt)
+					.sort((a, b) => {
+						if (a.name.toLowerCase() > b.name.toLowerCase()) {
+							return 1;
+						}
+						if (a.name.toLowerCase() < b.name.toLowerCase()) {
+							return -1;
+						}
+						return 0;
+					});
+				wiki += '<div style="column-count:4;-moz-column-count:4;-webkit-column-count:4">\r\n';
+				topics.forEach(topic => {
+					const name = topic.name.substring(0, 1).toUpperCase() +
+						topic.name.substring(1);
+					const revised = (topic.revised === 'NO' ? '' : '  &diams;');
+					wiki += `* [[${name}]]${revised}\r\n`;
+				});
+				wiki += '</div>\r\n';
+			});
+
+			fs.writeFile(filePath, wiki, 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
+			});
+
+		});
+	};
 };
 
 module.exports = TopicIndex;
