@@ -203,7 +203,8 @@ class TopicIndex {
 				let nfilePath = filePath.replace('.txt', '_normalized.txt');
 				
 				let current = null;
-				const topicTypes = ['PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'OTRO'];
+				const topicTypes = [
+					'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION', 'OTRO'];
 
 				lines.forEach((line, i) => {
 					let data, name, refs, seeAlso, type, ok;
@@ -403,12 +404,14 @@ class TopicIndex {
 	writeIndexToWiki = (dirPath) => {
 		return new Promise((resolve, reject) => {
 			const filePath = path.join(dirPath, '_indice.wiki');
-			const topicTypes = ['PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'OTRO'];
+			const topicTypes = [
+				'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION', 'OTRO'];
 			const typeTitles = [
 				'Personalidades, personas, nombres de dioses, o grupos',
 				'Lugares, tanto en la Tierra como en el Universo',
 				'Órdenes y tipologías de seres',
 				'Razas, tribus o pueblos que se han dado en la Tierra',
+				'Religiones, cultos, creencias',
 				'Otros términos'];
 			let wiki = '';
 
