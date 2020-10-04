@@ -5,14 +5,15 @@
 # Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
 # Cada entrada viene precedida de una línea en blanco 
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
+# Una entrada puede tener una o varias sub-entradas, son todas las líneas tras la entrada
+# Una sub-entrada puede tener sub-sub-entradas, cada una lleva una tabulación.
 # Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
 ####################################################################################
 
 1-2-3 el primero | (77:8.2) | | PERSONA | OK
 se trata del ser intermedio de la orden primaria que actuaba como jefe de toda la orden de intermedios de Urantia desde la traición de Caligastia (77:9.4-5)
-se mantuvo leal a Gabriel en la época de Van y Amadón y logró reducir las bajas rebeldes en su orden. Ahora es miembro de los veinticuatro consejeros de Jerusem y ha sido gobernador general de Urantia en una ocasión (45:4.18) (77:9.5)
+se mantuvo leal a Gabriel en la época de Van y Amadón y logró reducir las bajas rebeldes en su orden
+Ahora es miembro de los veinticuatro consejeros de Jerusem y ha sido gobernador general de Urantia en una ocasión (45:4.18) (77:9.5)
 
 3 | | | | 
 dominio de la vida caracterizado por (36:2.11)
