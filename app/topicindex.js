@@ -20,7 +20,8 @@ class TopicIndex {
 	 *           text: 'personalidades del Espíritu Infinito',
 	 *           level: 0,
 	 *           seeAlso: ['personalidades'],
-	 *           refs: ['30:2.82']
+	 *           refs: ['30:2.82'],
+	 *           fileline: 1295
 	 *        },
 	 *        {
 	 *          ...
@@ -30,7 +31,15 @@ class TopicIndex {
 	 *      refs: ['26:1'],
 	 *      type: 'ORDEN',
 	 *      revised: 'NO',
-	 *      order: 'a.txt:01294'
+	 *      order: 'a.txt:01294',
+	 *      filename: 'a.txt',
+	 *      fileline: 1294,
+	 *      errors: [
+	 *         {
+	 *            desc: 'seeAlso personalidades no encontrado',
+	 *            fileline: 1296
+	 *         }
+	 *      ]
 	 *   },
 	 *   {
 	 *    ...
@@ -116,7 +125,8 @@ class TopicIndex {
 								.filter(i => i.trim() != '');
 							topicline = {
 								text: '',
-								level: level
+								level: level,
+								fileline: i + 1
 							};
 							if (data.length === 0) {
 								errors.push(new Error(`${baseName}, línea ${i}: ${tline}`));
@@ -151,14 +161,16 @@ class TopicIndex {
 								lines: [],
 								type: (data[3] === '' ? 'OTRO' : data[3]),
 								revised: (data[4] === '' ? 'NO' : 'SI'),
-								order: baseName + ':' + i.toString().padStart(5, '0')
+								order: baseName + ':' + (i + 1).toString().padStart(5, '0'),
+								filename: baseName,
+								fileline: i + 1
 							};
 							current.seeAlso = (seeAlso ? seeAlso : []);
 							current.refs = (refs ? refs : []);
 						}
 					}
 				});
-				
+
 				if (errors.length === 0) {
 					resolve(null);
 				} else {
@@ -166,6 +178,76 @@ class TopicIndex {
 				}
 			});
 		});
+	};
+
+	/**
+	 * Escribe los errores en un fichero llamado 'errors.json'.
+	 * @param {string} dirPath Carpeta de salida.
+	 * @return {Promise}
+	 */
+	writeErrors = (dirPath) => {
+		return new Promise((resolve, reject) => {
+			const filePath = path.join(dirPath, 'errors.json');
+
+			const errors = this.topics
+				.map(t => t.errors.map(e => `${t.filename}:${e.fileline} > ${e.desc}`))
+				.filter(a => a.length > 0);
+			
+			fs.writeFile(filePath, JSON.stringify(errors, null, 4), 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
+			});
+		});
+	};
+
+	/**
+	 * Comprueba los enlaces a otros términos, escribiendo los errores encontrados
+	 * dentro de los propios términos.
+	 */
+	checkSeeAlsos = () => {
+		return new Promise((resolve, reject) => {
+			const check = (topic, obj, i) => {
+				if (obj.seeAlso && obj.seeAlso.length > 0) {
+					const errors = this.checkSeeAlso(obj.seeAlso, i);
+					if (errors.length > 0) {
+						extendArray(topic.errors, errors);
+					}
+				}
+			};
+			this.topics.forEach(t => {
+				t.errors = [];
+				check(t, t, t.fileline);
+				t.lines.forEach(line => {
+					check(t, line, line.fileline);
+				});
+			});
+			resolve(true);
+		});
+		
+	};
+
+	/**
+	 * Comprueba un array de enlaces a otros términos y devuelve un array de objetos
+	 * de error (con desc y fileline) o vacío si no hay errores.
+	 * @param {Array.<string>} seeAlso Array de enlaces a otros términos.
+	 * @param {number} fileline Número de línea.
+	 */
+	checkSeeAlso = (seeAlso, fileline) => {
+		let errors = [];
+		seeAlso.forEach(sa => {
+			const term = sa.split(':')[0];
+			if (!this.topics.find(t => t.name === term) &&
+				!this.redirects.find(t => t.name === term)) {
+				errors.push({
+					desc: `seeAlso '${sa}' no encontrado`,
+					fileline: fileline
+				});
+			}
+		});
+		return errors;
 	};
 
 	/**

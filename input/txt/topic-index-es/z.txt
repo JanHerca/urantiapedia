@@ -39,11 +39,11 @@ Una de las poblaciones recorridas en la misisón de Perea
 
 celo | | Ver entusiasmo | | 
 
-Fanáticos | | | | 
+zelotes | | | | 
 Jesús se negó a unirse (127:2.1-10) (136:9.7)
 Judá muy activo en (128:6.6)
 Simón, el hermano de María, era oficial de (127:2.4)
-Simon Zelotes era alto oficial de (138:2.8) (139:11.1)
+Simón Zelotes era alto oficial de (138:2.8) (139:11.1)
 partido nacionalista fuerte opuesto a los impuestos romanos (127:2.1) (137:7.9)
 
 Zebedeo | (137:3.5) (138:5.4) (140:7.3) | | PERSONA | 
@@ -59,13 +59,13 @@ negocio propio de secado de pescado (139:1.1)
 compró el capital de José en una propiedad de Cafarnaúm (127:6.10)
 con su esposa Salomé tuvo 3 hijos, 4 hijas (129:1.5)
 
-Zebedeo, David | | Ver David Zebedeo | PERSONA | 
+Zebedeo (David) | | Ver David Zebedeo | PERSONA | 
 
-Zebedeo, Santiago | | Ver Santiago Zebedeo | PERSONA | 
+Zebedeo (Santiago) | | Ver Santiago Zebedeo | PERSONA | 
 
-Zebedeo, Juan | | Ver Juan Zebedeo | PERSONA | 
+Zebede (Juan) | | Ver Juan Zebedeo | PERSONA | 
 
-Zebedeo, Salomé | | Ver Salomé (esposa de Zebedeo) | PERSONA | 
+Zebedeo (Salomé) | | Ver Salomé (esposa de Zebedeo) | PERSONA | 
 
 Zabulón | (146:3.10) (156:6.2) | | LUGAR | 
 
@@ -81,7 +81,7 @@ trasplantado a Roma, Z.se convirtió en Júpiter (98:3.3)
 
 zinc | (59:3.4) (59:5.9) | | | 
 
-Zona del infinito | | | LUGAR | 
+Zona de la Infinidad | | | LUGAR | 
 en el Paraíso inferior directamente debajo de la Trinidad (11:5.2-4)
 
 Zofar | | | PERSONA | 
@@ -93,7 +93,7 @@ en contacto directo con los descendientes de misioneros de Salem (131:5.1)
 muy afectado por el espiritismo dual (92:5.12)
 destacado maestro religioso; apareció en Irán en el siglo VI a.C. (95:6.1) (121:6.4)
 
-Zoroastrismo | (92:6.8) | Ver Ahura-Mazda; Zoroastro | RELIGION | 
+zoroastrismo | (92:6.8) | Ver Ahura-Mazda; Zoroastro | RELIGION | 
 Resumen de Ganid de (131:5)
 influencia en el cristianismo (98:7.6)
 se opuso militantemente al mitraísmo (98:5.2)
@@ -103,5 +103,5 @@ religión de la moral (5:4.7)
 Los rimmonitas abrazaron creencias de (146:1.1-3)
 esparcido por la espada (95:6.4)
 
-Zulus | | | RAZA | 
+zulúes | | | RAZA | 
 religión del miedo a los fantasmas y el sacrificio (92:6.1)

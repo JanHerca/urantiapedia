@@ -132,21 +132,13 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'rti' && checkControls(['dirTTextbox', 'dirJTextbox'])) {
 		// Leemos TopicIndex en formato TXT y luego leemos LU en formato JSON
 		topicindex.readFromTXT(txtDir)
+			.then(() => topicindex.checkSeeAlsos())
 			.then(() => book.readFromJSON(jsonDir))
+			.then(() => topicindex.writeErrors(txtDir))
 			.then(() => {
-				// Rellenamos desplegable
-				const topics = topicindex.topics
-					/*.filter(t => t.type != 'OTRO' && t.lines.length < 4)*/
-					.sort((a, b) => {
-						if (a.order > b.order) return 1;
-						if (a.order < b.order) return -1;
-						return 0;
-					});
-				controls.drpTopics.innerHTML = topics
-					.map(t => `<option value="${t.name}">${t.name} [${t.type}]</option>`)
-					.join('');
+				showTopicList();
 				onSuccess(okMsgs);
-				showTopic(topics[0].name);
+				showTopic(topicindex.topics[0].name);
 			}).catch(onFail);
 	} else if (process === 'nti' && checkControls(['dirTTextbox'])) {
 		// Leemos TopicIndex en formato TXT y volvemos a escribir igual
@@ -195,12 +187,36 @@ const showInfos = (infos) => {
 	}).join('');
 };
 
+const showTopicList = () => {
+	// Rellenamos desplegable
+	const topics = topicindex.topics
+		/*.filter(t => t.type != 'OTRO' && t.lines.length < 4)*/
+		.sort((a, b) => {
+			if (a.order > b.order) return 1;
+			if (a.order < b.order) return -1;
+			return 0;
+		});
+	controls.drpTopics.innerHTML = topics
+		.map(t => {
+			const n = t.name;
+			const errs = t.errors && t.errors.length > 0 ? 
+				`  [Errors: ${t.errors.length}]` : '';
+			const style = t.errors && t.errors.length > 0 ? 
+				` style="background-color:#f8d7da"` : '';
+			return `<option value="${n}"${style}>${n} [${t.type}]${errs}</option>`;
+		})
+		.join('');
+};
+
 const showTopic = (name) => {
 	let html = `<h2 class="mb-1">${name}</h2>`;
 	
 	const topic = topicindex.topics.find(t => t.name === name);
 	if (topic) {
 		html += `<h4 class="mb-1">${topic.order}</h4>`;
+		html += topic.errors.map(err => {
+			return `<p class="mb-0 alert alert-danger">${err.desc} [${topic.filename}:${err.fileline}]</p>`;
+		}).join('');
 		html += topic.lines.map(line => {
 			return `<p class="mb-1"><strong>${line.text}</strong></p>` +
 				line.refs.map(ref => {
