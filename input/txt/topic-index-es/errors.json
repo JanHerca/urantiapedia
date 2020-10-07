@@ -1,245 +1,48 @@
 [
     [
-        "a.txt:166 > seeAlso 'Absoluto, el' no encontrado"
+        "a.txt:887 > seeAlso 'caridad' no encontrado"
     ],
     [
-        "a.txt:300 > seeAlso 'ociosidad' no encontrado"
+        "a.txt:1423 > seeAlso 'mastadons' no encontrado",
+        "a.txt:1423 > seeAlso 'tigres de dientes de sable' no encontrado",
+        "a.txt:1423 > seeAlso 'Caracoles' no encontrado",
+        "a.txt:1423 > seeAlso 'esponjas calamar' no encontrado",
+        "a.txt:1423 > seeAlso 'cerdo' no encontrado",
+        "a.txt:1423 > seeAlso 'serpientes de agua' no encontrado",
+        "a.txt:1423 > seeAlso 'Lobos' no encontrado"
     ],
     [
-        "a.txt:416 > seeAlso 'la doctrina del pecado original' no encontrado"
+        "a.txt:1555 > seeAlso 'simios.' no encontrado"
     ],
     [
-        "a.txt:459 > seeAlso 'Abel' no encontrado",
-        "a.txt:459 > seeAlso 'Set' no encontrado"
+        "a.txt:1695 > seeAlso 'árabes.' no encontrado"
     ],
     [
-        "a.txt:675 > seeAlso 'bosquimanos' no encontrado",
-        "a.txt:675 > seeAlso 'pigmeos' no encontrado"
+        "a.txt:1721 > seeAlso 'el circuito de los arcángeles' no encontrado"
     ],
     [
-        "a.txt:742 > seeAlso 'Zoroastrismo' no encontrado"
+        "a.txt:1776 > seeAlso 'trascendentales' no encontrado"
     ],
     [
-        "a.txt:855 > seeAlso 'caridad' no encontrado"
+        "a.txt:2110 > seeAlso 'Centinela Asignado de Satania.' no encontrado"
     ],
     [
-        "a.txt:955 > seeAlso 'el Buda Amida' no encontrado"
+        "a.txt:2188 > seeAlso 'nebulosas cuerpos espaciales' no encontrado",
+        "a.txt:2195 > seeAlso 'la nebulosa de Andrómeda' no encontrado",
+        "a.txt:2195 > seeAlso 'Nebulosa de Andronover' no encontrado",
+        "a.txt:2195 > seeAlso 'Sistema Angona' no encontrado",
+        "a.txt:2195 > seeAlso 'Mercurio' no encontrado",
+        "a.txt:2195 > seeAlso 'luna (de Urantia)' no encontrado",
+        "a.txt:2195 > seeAlso 'Saturno' no encontrado",
+        "a.txt:2195 > seeAlso 'Dom' no encontrado",
+        "a.txt:2195 > seeAlso 'Umenor el quinto' no encontrado",
+        "a.txt:2195 > seeAlso 'Umenor el tercero' no encontrado"
     ],
     [
-        "a.txt:1033 > seeAlso 'Ancianos de los Días de Uversa.' no encontrado"
-    ],
-    [
-        "a.txt:1097 > seeAlso 'arios' no encontrado",
-        "a.txt:1097 > seeAlso 'Razas' no encontrado",
-        "a.txt:1126 > seeAlso 'Thor' no encontrado"
-    ],
-    [
-        "a.txt:1194 > seeAlso 'Familia Sangik' no encontrado"
-    ],
-    [
-        "a.txt:1340 > seeAlso 'mamíferos' no encontrado",
-        "a.txt:1389 > seeAlso 'anfibios' no encontrado",
-        "a.txt:1389 > seeAlso 'osos hormigueros' no encontrado",
-        "a.txt:1389 > seeAlso 'antílopes' no encontrado",
-        "a.txt:1389 > seeAlso 'armadillos' no encontrado",
-        "a.txt:1389 > seeAlso 'artrópodos' no encontrado",
-        "a.txt:1389 > seeAlso 'acial' no encontrado",
-        "a.txt:1389 > seeAlso 'moscas dragón' no encontrado",
-        "a.txt:1389 > seeAlso 'simulacros patos águilas' no encontrado",
-        "a.txt:1389 > seeAlso 'Medusa' no encontrado",
-        "a.txt:1389 > seeAlso 'mamíferos' no encontrado",
-        "a.txt:1389 > seeAlso 'mastadons' no encontrado",
-        "a.txt:1389 > seeAlso 'tigres de dientes de sable' no encontrado",
-        "a.txt:1389 > seeAlso 'Caracoles' no encontrado",
-        "a.txt:1389 > seeAlso 'esponjas calamar' no encontrado",
-        "a.txt:1389 > seeAlso 'cerdo' no encontrado",
-        "a.txt:1389 > seeAlso 'serpientes de agua' no encontrado",
-        "a.txt:1389 > seeAlso 'Lobos' no encontrado"
-    ],
-    [
-        "a.txt:1409 > seeAlso 'Sanedrín' no encontrado"
-    ],
-    [
-        "a.txt:1512 > seeAlso 'simios.' no encontrado"
-    ],
-    [
-        "a.txt:1592 > seeAlso 'gemelos Alfeo' no encontrado",
-        "a.txt:1592 > seeAlso 'Santiago Zebedee' no encontrado",
-        "a.txt:1592 > seeAlso 'John Zebedee' no encontrado",
-        "a.txt:1592 > seeAlso 'Matthew Levi' no encontrado",
-        "a.txt:1592 > seeAlso 'Matthias' no encontrado",
-        "a.txt:1592 > seeAlso 'Natanael' no encontrado"
-    ],
-    [
-        "a.txt:1652 > seeAlso 'árabes.' no encontrado"
-    ],
-    [
-        "a.txt:1678 > seeAlso 'el circuito de los arcángeles' no encontrado"
-    ],
-    [
-        "a.txt:1733 > seeAlso 'trascendentales' no encontrado"
-    ],
-    [
-        "a.txt:2061 > seeAlso 'Centinela Asignado de Satania.' no encontrado"
-    ],
-    [
-        "a.txt:2139 > seeAlso 'nebulosas cuerpos espaciales' no encontrado",
-        "a.txt:2146 > seeAlso 'la nebulosa de Andrómeda' no encontrado",
-        "a.txt:2146 > seeAlso 'Nebulosa de Andronover' no encontrado",
-        "a.txt:2146 > seeAlso 'Sistema Angona' no encontrado"
-    ],
-    [
-        "a.txt:2181 > seeAlso 'electrón' no encontrado"
-    ],
-    [
-        "b.txt:81 > seeAlso 'Babylon' no encontrado"
-    ],
-    [
-        "b.txt:206 > seeAlso 'fertilidad' no encontrado"
-    ],
-    [
-        "b.txt:272 > seeAlso 'arte' no encontrado"
-    ],
-    [
-        "b.txt:301 > seeAlso 'árabes' no encontrado"
-    ],
-    [
-        "b.txt:597 > seeAlso 'Razas' no encontrado"
-    ],
-    [
-        "b.txt:657 > seeAlso 'sesos' no encontrado",
-        "b.txt:657 > seeAlso 'ojos carne' no encontrado",
-        "b.txt:657 > seeAlso 'mortales personalidad:formas' no encontrado"
-    ],
-    [
-        "b.txt:697 > seeAlso 'Isaías' no encontrado",
-        "b.txt:700 > seeAlso 'Proverbios' no encontrado"
-    ],
-    [
-        "b.txt:752 > seeAlso 'Hinduismo' no encontrado"
+        "a.txt:2230 > seeAlso 'electrón' no encontrado"
     ],
     [
         "b.txt:1015 > seeAlso 'hermandad de hombres' no encontrado"
-    ],
-    [
-        "d.txt:90 > seeAlso 'defensa propia' no encontrado"
-    ],
-    [
-        "d.txt:185 > seeAlso 'cuerpo de mensajeros (David Zebedee's) (156:6.3-4) (157:6.1) (158:8.1) (176:2.9) (177:5.1,3) (182:2.5) (187:6.1) (188:3.3)' no encontrado"
-    ],
-    [
-        "d.txt:253 > seeAlso 'muerto, el' no encontrado",
-        "d.txt:279 > seeAlso 'pase de lista:de la justicia' no encontrado"
-    ],
-    [
-        "d.txt:336 > seeAlso 'será' no encontrado"
-    ],
-    [
-        "d.txt:451 > seeAlso 'la belleza' no encontrado"
-    ],
-    [
-        "d.txt:515 > seeAlso 'transporte seráfico, secoráfico y superáfico.' no encontrado"
-    ],
-    [
-        "d.txt:560 > seeAlso 'el sol' no encontrado"
-    ],
-    [
-        "d.txt:587 > seeAlso 'Artesanos Celestiales (44:6)' no encontrado"
-    ],
-    [
-        "d.txt:654 > seeAlso 'libre albedrío' no encontrado",
-        "d.txt:654 > seeAlso 'mecanismo (teoría)' no encontrado"
-    ],
-    [
-        "d.txt:784 > seeAlso 'brújula' no encontrado"
-    ],
-    [
-        "d.txt:843 > seeAlso 'fe hijos de dios' no encontrado"
-    ],
-    [
-        "d.txt:902 > seeAlso 'enfermo, el' no encontrado"
-    ],
-    [
-        "d.txt:1106 > seeAlso 'esferas sagradas de los Ajustadores del Paraíso' no encontrado"
-    ],
-    [
-        "g.txt:568 > seeAlso 'Infinito' no encontrado",
-        "g.txt:568 > seeAlso 'Trinidad del Paraíso' no encontrado",
-        "g.txt:650 > seeAlso 'presentación' no encontrado",
-        "g.txt:687 > seeAlso 'ajustadores del pensamiento' no encontrado"
-    ],
-    [
-        "g.txt:928 > seeAlso 'verdad, belleza y bondad.' no encontrado"
-    ],
-    [
-        "g.txt:986 > seeAlso 'Reino de los cielos' no encontrado",
-        "g.txt:1033 > seeAlso 'cuerpo de mensajeros' no encontrado"
-    ],
-    [
-        "g.txt:1211 > seeAlso 'caridad:por el gobierno' no encontrado"
-    ],
-    [
-        "g.txt:1353 > seeAlso 'antigravedad.' no encontrado"
-    ],
-    [
-        "g.txt:1708 > seeAlso 'Resurrección' no encontrado"
-    ],
-    [
-        "g.txt:1741 > seeAlso 'Resurrección' no encontrado"
-    ],
-    [
-        "e.txt:53 > seeAlso 'holgazanería' no encontrado"
-    ],
-    [
-        "e.txt:96 > seeAlso 'emociones' no encontrado"
-    ],
-    [
-        "e.txt:277 > seeAlso 'Philo' no encontrado"
-    ],
-    [
-        "e.txt:345 > seeAlso 'importar' no encontrado"
-    ],
-    [
-        "e.txt:377 > seeAlso 'hierro' no encontrado"
-    ],
-    [
-        "e.txt:509 > seeAlso 'aventura' no encontrado",
-        "e.txt:509 > seeAlso 'afectación' no encontrado",
-        "e.txt:509 > seeAlso 'afecto' no encontrado",
-        "e.txt:509 > seeAlso 'garantía' no encontrado",
-        "e.txt:509 > seeAlso 'inquietante hermandad' no encontrado"
-    ],
-    [
-        "e.txt:575 > seeAlso 'importar' no encontrado"
-    ],
-    [
-        "e.txt:788 > seeAlso 'Umenor el tercero' no encontrado"
-    ],
-    [
-        "e.txt:795 > seeAlso 'transporte seráfico, secoráfico y superáfico.' no encontrado"
-    ],
-    [
-        "e.txt:897 > seeAlso 'maldad' no encontrado",
-        "e.txt:897 > seeAlso 'errores pecado' no encontrado"
-    ],
-    [
-        "e.txt:941 > seeAlso 'judaísmo' no encontrado"
-    ],
-    [
-        "e.txt:953 > seeAlso 'Resurrección' no encontrado",
-        "e.txt:953 > seeAlso 'supervivencia' no encontrado"
-    ],
-    [
-        "e.txt:1149 > seeAlso 'discapacidades Razas' no encontrado"
-    ],
-    [
-        "e.txt:1192 > seeAlso 'la edad oscura' no encontrado"
-    ],
-    [
-        "e.txt:1356 > seeAlso 'Progreso' no encontrado"
-    ],
-    [
-        "e.txt:1542 > seeAlso 'supervivencia' no encontrado"
     ],
     [
         "f.txt:208 > seeAlso 'Reino de los cielos' no encontrado"
@@ -284,7 +87,181 @@
         "f.txt:1325 > seeAlso 'mortales fusionados con el espíritu' no encontrado"
     ],
     [
-        "h.txt:170 > seeAlso 'judaísmo:fiestas:tabernáculos' no encontrado"
+        "d.txt:90 > seeAlso 'defensa propia' no encontrado"
+    ],
+    [
+        "d.txt:185 > seeAlso 'cuerpo de mensajeros (David Zebedee's) (156:6.3-4) (157:6.1) (158:8.1) (176:2.9) (177:5.1,3) (182:2.5) (187:6.1) (188:3.3)' no encontrado"
+    ],
+    [
+        "d.txt:253 > seeAlso 'muerto, el' no encontrado",
+        "d.txt:279 > seeAlso 'pase de lista:de la justicia' no encontrado"
+    ],
+    [
+        "d.txt:336 > seeAlso 'será' no encontrado"
+    ],
+    [
+        "d.txt:451 > seeAlso 'la belleza' no encontrado"
+    ],
+    [
+        "d.txt:515 > seeAlso 'transporte seráfico, secoráfico y superáfico.' no encontrado"
+    ],
+    [
+        "d.txt:560 > seeAlso 'el sol (de Urantia)' no encontrado"
+    ],
+    [
+        "d.txt:587 > seeAlso 'Artesanos Celestiales (44:6)' no encontrado"
+    ],
+    [
+        "d.txt:654 > seeAlso 'libre albedrío' no encontrado",
+        "d.txt:654 > seeAlso 'mecanismo (teoría)' no encontrado"
+    ],
+    [
+        "d.txt:784 > seeAlso 'brújula' no encontrado"
+    ],
+    [
+        "d.txt:843 > seeAlso 'fe hijos de dios' no encontrado"
+    ],
+    [
+        "d.txt:902 > seeAlso 'enfermo, el' no encontrado"
+    ],
+    [
+        "d.txt:1106 > seeAlso 'esferas sagradas de los Ajustadores del Paraíso' no encontrado"
+    ],
+    [
+        "e.txt:53 > seeAlso 'holgazanería' no encontrado"
+    ],
+    [
+        "e.txt:96 > seeAlso 'emociones' no encontrado"
+    ],
+    [
+        "e.txt:277 > seeAlso 'Philo' no encontrado"
+    ],
+    [
+        "e.txt:345 > seeAlso 'importar' no encontrado"
+    ],
+    [
+        "e.txt:509 > seeAlso 'aventura' no encontrado",
+        "e.txt:509 > seeAlso 'afectación' no encontrado",
+        "e.txt:509 > seeAlso 'afecto' no encontrado",
+        "e.txt:509 > seeAlso 'garantía' no encontrado",
+        "e.txt:509 > seeAlso 'inquietante hermandad (actitud)' no encontrado",
+        "e.txt:509 > seeAlso 'caridad' no encontrado",
+        "e.txt:509 > seeAlso 'auto confianza' no encontrado"
+    ],
+    [
+        "e.txt:575 > seeAlso 'importar' no encontrado",
+        "e.txt:582 > seeAlso 'Directores Universales de Poder:trabajo' no encontrado",
+        "e.txt:604 > seeAlso 'Directores Universales de Poder' no encontrado"
+    ],
+    [
+        "e.txt:788 > seeAlso 'Umenor el tercero' no encontrado"
+    ],
+    [
+        "e.txt:795 > seeAlso 'transporte seráfico, secoráfico y superáfico.' no encontrado"
+    ],
+    [
+        "e.txt:897 > seeAlso 'maldad' no encontrado",
+        "e.txt:897 > seeAlso 'errores pecado' no encontrado"
+    ],
+    [
+        "e.txt:953 > seeAlso 'Resurrección' no encontrado",
+        "e.txt:953 > seeAlso 'supervivencia' no encontrado"
+    ],
+    [
+        "e.txt:1192 > seeAlso 'la edad oscura' no encontrado"
+    ],
+    [
+        "e.txt:1356 > seeAlso 'Progreso' no encontrado"
+    ],
+    [
+        "e.txt:1542 > seeAlso 'supervivencia' no encontrado"
+    ],
+    [
+        "g.txt:568 > seeAlso 'Infinito' no encontrado",
+        "g.txt:568 > seeAlso 'Trinidad del Paraíso' no encontrado",
+        "g.txt:650 > seeAlso 'presentación' no encontrado",
+        "g.txt:687 > seeAlso 'ajustadores del pensamiento' no encontrado"
+    ],
+    [
+        "g.txt:864 > seeAlso 'Augusto (emperador)' no encontrado",
+        "g.txt:864 > seeAlso 'Dafne' no encontrado",
+        "g.txt:864 > seeAlso 'Marte' no encontrado",
+        "g.txt:864 > seeAlso 'Neptuno' no encontrado",
+        "g.txt:864 > seeAlso 'Thor' no encontrado"
+    ],
+    [
+        "g.txt:928 > seeAlso 'verdad, belleza y bondad.' no encontrado"
+    ],
+    [
+        "g.txt:986 > seeAlso 'Reino de los cielos' no encontrado",
+        "g.txt:1003 > seeAlso 'espiritual' no encontrado",
+        "g.txt:1006 > seeAlso 'será' no encontrado"
+    ],
+    [
+        "g.txt:1211 > seeAlso 'caridad:por el gobierno' no encontrado"
+    ],
+    [
+        "g.txt:1353 > seeAlso 'antigravedad.' no encontrado"
+    ],
+    [
+        "g.txt:1708 > seeAlso 'Resurrección' no encontrado"
+    ],
+    [
+        "g.txt:1741 > seeAlso 'Resurrección' no encontrado"
+    ],
+    [
+        "c.txt:2693 > seeAlso 'Hijos de Dios paradisíacos:donaciones' no encontrado"
+    ],
+    [
+        "i.txt:264 > seeAlso 'maldad' no encontrado"
+    ],
+    [
+        "i.txt:283 > seeAlso 'autogratificación.' no encontrado"
+    ],
+    [
+        "i.txt:295 > seeAlso 'Hijos de Dios paradisíacos:donaciones' no encontrado"
+    ],
+    [
+        "i.txt:406 > seeAlso 'mortales partes y el todo' no encontrado",
+        "i.txt:406 > seeAlso 'yo' no encontrado"
+    ],
+    [
+        "i.txt:419 > seeAlso 'individual, el' no encontrado"
+    ],
+    [
+        "i.txt:511 > seeAlso 'respeto por uno mismo' no encontrado"
+    ],
+    [
+        "i.txt:646 > seeAlso 'personalidades de la Tercera Fuente' no encontrado"
+    ],
+    [
+        "i.txt:753 > seeAlso 'fiscalidad:impuesto sobre sucesiones' no encontrado"
+    ],
+    [
+        "i.txt:757 > seeAlso 'mal' no encontrado"
+    ],
+    [
+        "i.txt:789 > seeAlso 'medicos' no encontrado"
+    ],
+    [
+        "i.txt:798 > seeAlso 'maldad' no encontrado",
+        "i.txt:798 > seeAlso 'acostado' no encontrado"
+    ],
+    [
+        "i.txt:865 > seeAlso 'directrices' no encontrado"
+    ],
+    [
+        "i.txt:910 > seeAlso 'auto-mantenimiento' no encontrado"
+    ],
+    [
+        "i.txt:993 > seeAlso 'prejuicio' no encontrado"
+    ],
+    [
+        "i.txt:1137 > seeAlso 'Mohammed' no encontrado"
+    ],
+    [
+        "i.txt:1209 > seeAlso 'Appian Way' no encontrado",
+        "i.txt:1209 > seeAlso 'Tarentum' no encontrado"
     ],
     [
         "h.txt:467 > seeAlso 'Resurrección' no encontrado",
@@ -309,67 +286,172 @@
         "h.txt:967 > seeAlso 'inicio' no encontrado"
     ],
     [
-        "i.txt:195 > seeAlso 'arte' no encontrado"
+        "k.txt:85 > seeAlso 'Amós (Jeresa lunático)' no encontrado"
     ],
     [
-        "i.txt:264 > seeAlso 'maldad' no encontrado"
+        "o.txt:65 > seeAlso 'el mar de Arabia' no encontrado"
     ],
     [
-        "i.txt:283 > seeAlso 'autogratificación.' no encontrado"
+        "o.txt:107 > seeAlso 'Éxodo' no encontrado",
+        "o.txt:107 > seeAlso 'Esdras' no encontrado",
+        "o.txt:107 > seeAlso 'Trabajo' no encontrado",
+        "o.txt:107 > seeAlso 'Proverbios' no encontrado"
     ],
     [
-        "i.txt:295 > seeAlso 'Hijos de Dios paradisíacos:donaciones' no encontrado"
+        "o.txt:287 > seeAlso 'Servicio' no encontrado"
     ],
     [
-        "i.txt:319 > seeAlso 'Hinduismo' no encontrado"
+        "o.txt:391 > seeAlso 'Estandarización' no encontrado"
     ],
     [
-        "i.txt:406 > seeAlso 'mortales partes y el todo' no encontrado",
-        "i.txt:406 > seeAlso 'yo' no encontrado"
+        "m.txt:68 > seeAlso 'superstición' no encontrado"
     ],
     [
-        "i.txt:419 > seeAlso 'individual, el' no encontrado"
+        "m.txt:329 > seeAlso 'morontial' no encontrado"
     ],
     [
-        "i.txt:428 > seeAlso 'ociosidad' no encontrado"
+        "m.txt:417 > seeAlso 'antrópodos' no encontrado",
+        "m.txt:417 > seeAlso 'acial' no encontrado",
+        "m.txt:417 > seeAlso 'cangrejos crinoideos' no encontrado",
+        "m.txt:417 > seeAlso 'delfines equinodermos' no encontrado",
+        "m.txt:417 > seeAlso 'Medusa' no encontrado",
+        "m.txt:417 > seeAlso 'langostas moluscos pulpos' no encontrado",
+        "m.txt:417 > seeAlso 'tiburones camarones esponjas calamar' no encontrado",
+        "m.txt:417 > seeAlso 'tortugas serpiente de agua' no encontrado"
     ],
     [
-        "i.txt:511 > seeAlso 'respeto por uno mismo' no encontrado"
+        "m.txt:688 > seeAlso 'Directores Universales de Poder' no encontrado"
     ],
     [
-        "i.txt:753 > seeAlso 'fiscalidad:impuesto sobre sucesiones' no encontrado"
+        "m.txt:737 > seeAlso 'Directores Universales de Poder' no encontrado"
     ],
     [
-        "i.txt:757 > seeAlso 'mal' no encontrado"
+        "m.txt:979 > seeAlso 'importar' no encontrado"
     ],
     [
-        "i.txt:789 > seeAlso 'medicos' no encontrado"
+        "m.txt:1064 > seeAlso 'mecanismo (teoría)' no encontrado"
     ],
     [
-        "i.txt:798 > seeAlso 'maldad' no encontrado",
-        "i.txt:798 > seeAlso 'acostado' no encontrado"
+        "m.txt:1150 > seeAlso 'mesotrones' no encontrado",
+        "m.txt:1150 > seeAlso 'neutrones' no encontrado",
+        "m.txt:1150 > seeAlso 'protones' no encontrado",
+        "m.txt:1150 > seeAlso 'ultimatones' no encontrado"
     ],
     [
-        "i.txt:838 > seeAlso 'moscas dragón' no encontrado"
+        "m.txt:1161 > seeAlso 'ciencia, filosofía y religión.' no encontrado"
     ],
     [
-        "i.txt:865 > seeAlso 'directrices' no encontrado"
+        "m.txt:1295 > seeAlso 'médicos enfermo, el' no encontrado"
     ],
     [
-        "i.txt:993 > seeAlso 'prejuicio' no encontrado"
+        "m.txt:1321 > seeAlso 'Adoración' no encontrado"
     ],
     [
-        "i.txt:1137 > seeAlso 'Mohammed' no encontrado"
+        "m.txt:1349 > seeAlso 'región mediterránea' no encontrado"
     ],
     [
-        "i.txt:1203 > seeAlso 'judíos' no encontrado"
+        "m.txt:1421 > seeAlso 'las enseñanzas de Salem' no encontrado"
     ],
     [
-        "i.txt:1209 > seeAlso 'Appian Way' no encontrado",
-        "i.txt:1209 > seeAlso 'Tarentum' no encontrado"
+        "m.txt:1470 > seeAlso 'Melquisedek, Maquiventa' no encontrado"
     ],
     [
-        "k.txt:85 > seeAlso 'Amós' no encontrado"
+        "m.txt:1591 > seeAlso 'equidad' no encontrado"
+    ],
+    [
+        "m.txt:1626 > seeAlso 'el río Éufrates' no encontrado"
+    ],
+    [
+        "m.txt:1813 > seeAlso 'Hijos de Dios paradisíacos:donaciones' no encontrado",
+        "m.txt:1880 > seeAlso 'rebelión de Lucifer' no encontrado",
+        "m.txt:1895 > seeAlso 'cristo' no encontrado"
+    ],
+    [
+        "m.txt:2031 > seeAlso 'intermedios, primarios' no encontrado"
+    ],
+    [
+        "m.txt:2106 > seeAlso 'Hijos trinitizados del logro.' no encontrado"
+    ],
+    [
+        "m.txt:2432 > seeAlso 'mal' no encontrado"
+    ],
+    [
+        "m.txt:2508 > seeAlso 'ácaros libras plata' no encontrado"
+    ],
+    [
+        "m.txt:2521 > seeAlso 'banca' no encontrado"
+    ],
+    [
+        "m.txt:2573 > seeAlso 'trabajo pesado' no encontrado"
+    ],
+    [
+        "m.txt:2733 > seeAlso 'Directores Universales de Poder' no encontrado"
+    ],
+    [
+        "m.txt:2763 > seeAlso 'morontial' no encontrado"
+    ],
+    [
+        "m.txt:2804 > seeAlso 'morontial' no encontrado"
+    ],
+    [
+        "m.txt:2938 > seeAlso 'cuerpo, humano' no encontrado",
+        "m.txt:2938 > seeAlso 'yo' no encontrado"
+    ],
+    [
+        "m.txt:3181 > seeAlso 'Altísimo observadores' no encontrado"
+    ],
+    [
+        "m.txt:3185 > seeAlso 'Altísimo observador de Urantia' no encontrado"
+    ],
+    [
+        "m.txt:3322 > seeAlso 'prejuicio' no encontrado"
+    ],
+    [
+        "m.txt:3424 > seeAlso 'montañas de los Andes' no encontrado",
+        "m.txt:3424 > seeAlso 'montes Cárpatos' no encontrado",
+        "m.txt:3424 > seeAlso 'Pico Longs' no encontrado",
+        "m.txt:3424 > seeAlso 'monte Royal' no encontrado",
+        "m.txt:3424 > seeAlso 'colinas Siwalik' no encontrado"
+    ],
+    [
+        "m.txt:3562 > seeAlso 'directrices' no encontrado"
+    ],
+    [
+        "j.txt:229 > seeAlso 'templo de Jerusalén' no encontrado",
+        "j.txt:245 > seeAlso 'el palacio de Asmoneo' no encontrado",
+        "j.txt:245 > seeAlso 'Kidron' no encontrado",
+        "j.txt:245 > seeAlso 'estanque de Betesda' no encontrado",
+        "j.txt:245 > seeAlso 'Siloé' no encontrado",
+        "j.txt:245 > seeAlso 'puerta de agua' no encontrado"
+    ],
+    [
+        "j.txt:371 > seeAlso 'Ajustador del Pensamiento de Jesús' no encontrado",
+        "j.txt:621 > seeAlso 'Jude' no encontrado",
+        "j.txt:823 > seeAlso 'Ajustador del Pensamiento de Jesús' no encontrado",
+        "j.txt:1125 > seeAlso 'Reino de los cielos' no encontrado"
+    ],
+    [
+        "j.txt:1182 > seeAlso 'idioma hebreo' no encontrado"
+    ],
+    [
+        "j.txt:1247 > seeAlso 'cautiverio babilónico' no encontrado",
+        "j.txt:1281 > seeAlso 'el Antiguo Testamento' no encontrado"
+    ],
+    [
+        "j.txt:1480 > seeAlso 'Betania más allá de Jordania' no encontrado"
+    ],
+    [
+        "j.txt:1638 > seeAlso 'Abraham' no encontrado",
+        "j.txt:1638 > seeAlso 'templo de Jerusalén' no encontrado",
+        "j.txt:1638 > seeAlso 'escribas Semá' no encontrado"
+    ],
+    [
+        "j.txt:1859 > seeAlso 'Resurrección' no encontrado",
+        "j.txt:1859 > seeAlso 'supervivencia' no encontrado",
+        "j.txt:1862 > seeAlso 'prejuicio' no encontrado"
+    ],
+    [
+        "q.txt:35 > seeAlso 'rebelión de Lucifer' no encontrado"
     ],
     [
         "l.txt:15 > seeAlso 'jornaleros' no encontrado"
@@ -385,17 +467,10 @@
         "l.txt:271 > seeAlso 'ley de linchamiento' no encontrado"
     ],
     [
-        "l.txt:375 > seeAlso 'gemelos Alfeo' no encontrado"
-    ],
-    [
-        "l.txt:383 > seeAlso 'judaísmo:ley oral' no encontrado"
-    ],
-    [
         "l.txt:393 > seeAlso 'facilidad' no encontrado"
     ],
     [
-        "l.txt:425 > seeAlso 'templo de Jerusalén' no encontrado",
-        "l.txt:425 > seeAlso 'Sanedrín' no encontrado"
+        "l.txt:425 > seeAlso 'templo de Jerusalén' no encontrado"
     ],
     [
         "l.txt:433 > seeAlso 'libre albedrío' no encontrado"
@@ -419,44 +494,6 @@
         "l.txt:1428 > seeAlso 'juego' no encontrado"
     ],
     [
-        "j.txt:229 > seeAlso 'templo de Jerusalén' no encontrado",
-        "j.txt:245 > seeAlso 'el palacio de Asmoneo' no encontrado",
-        "j.txt:245 > seeAlso 'Kidron' no encontrado",
-        "j.txt:245 > seeAlso 'estanque de Betesda' no encontrado",
-        "j.txt:245 > seeAlso 'Siloé' no encontrado",
-        "j.txt:245 > seeAlso 'puerta de agua' no encontrado"
-    ],
-    [
-        "j.txt:251 > seeAlso 'Sanedrín' no encontrado"
-    ],
-    [
-        "j.txt:371 > seeAlso 'Ajustador del Pensamiento de Jesús' no encontrado",
-        "j.txt:621 > seeAlso 'Amós' no encontrado",
-        "j.txt:823 > seeAlso 'Ajustador del Pensamiento de Jesús' no encontrado",
-        "j.txt:1125 > seeAlso 'Reino de los cielos' no encontrado"
-    ],
-    [
-        "j.txt:1182 > seeAlso 'idioma hebreo' no encontrado"
-    ],
-    [
-        "j.txt:1247 > seeAlso 'cautiverio babilónico' no encontrado",
-        "j.txt:1281 > seeAlso 'el Antiguo Testamento' no encontrado"
-    ],
-    [
-        "j.txt:1480 > seeAlso 'Betania más allá de Jordania' no encontrado"
-    ],
-    [
-        "j.txt:1638 > seeAlso 'Abraham' no encontrado",
-        "j.txt:1638 > seeAlso 'rabinos Saduceos' no encontrado",
-        "j.txt:1638 > seeAlso 'Sanedrín' no encontrado",
-        "j.txt:1638 > seeAlso 'escribas Semá' no encontrado",
-        "j.txt:1735 > seeAlso 'judaísmo:fiestas' no encontrado"
-    ],
-    [
-        "j.txt:1859 > seeAlso 'Resurrección' no encontrado",
-        "j.txt:1859 > seeAlso 'supervivencia' no encontrado"
-    ],
-    [
         "n.txt:257 > seeAlso 'el universo local Espíritu Madre of Nebadon' no encontrado",
         "n.txt:329 > seeAlso 'rebelión de Lucifer' no encontrado"
     ],
@@ -475,146 +512,156 @@
         "n.txt:626 > seeAlso 'supervivencia' no encontrado"
     ],
     [
-        "m.txt:68 > seeAlso 'superstición' no encontrado"
+        "r.txt:93 > seeAlso 'raza índigo' no encontrado"
     ],
     [
-        "m.txt:328 > seeAlso 'morontial' no encontrado"
+        "r.txt:122 > seeAlso 'rayos X' no encontrado"
     ],
     [
-        "m.txt:416 > seeAlso 'anfibios' no encontrado",
-        "m.txt:416 > seeAlso 'antrópodos' no encontrado",
-        "m.txt:416 > seeAlso 'acial' no encontrado",
-        "m.txt:416 > seeAlso 'cangrejos crinoideos' no encontrado",
-        "m.txt:416 > seeAlso 'delfines equinodermos' no encontrado",
-        "m.txt:416 > seeAlso 'Medusa' no encontrado",
-        "m.txt:416 > seeAlso 'langostas moluscos pulpos' no encontrado",
-        "m.txt:416 > seeAlso 'tiburones camarones esponjas calamar' no encontrado",
-        "m.txt:416 > seeAlso 'tortugas serpiente de agua' no encontrado"
+        "r.txt:187 > seeAlso 'importar' no encontrado",
+        "r.txt:271 > seeAlso 'eternidad' no encontrado",
+        "r.txt:294 > seeAlso 'ciencia, filosofía y religión.' no encontrado"
     ],
     [
-        "m.txt:687 > seeAlso 'Directores Universales de Poder' no encontrado"
+        "r.txt:338 > seeAlso 'maldad' no encontrado",
+        "r.txt:350 > seeAlso 'rebelión de Lucifer' no encontrado"
     ],
     [
-        "m.txt:736 > seeAlso 'Directores Universales de Poder' no encontrado"
+        "r.txt:523 > seeAlso 'la doctrina de la expiación.' no encontrado"
     ],
     [
-        "m.txt:978 > seeAlso 'importar' no encontrado"
+        "r.txt:662 > seeAlso 'facilidad' no encontrado"
     ],
     [
-        "m.txt:1063 > seeAlso 'mecanismo (teoría)' no encontrado"
+        "r.txt:673 > seeAlso 'fe hijos de Dios' no encontrado",
+        "r.txt:673 > seeAlso 'Reino de los cielos' no encontrado",
+        "r.txt:904 > seeAlso 'dioses y diosas.' no encontrado",
+        "r.txt:944 > seeAlso 'confucionismo' no encontrado",
+        "r.txt:944 > seeAlso 'culto a no quitarse la vida' no encontrado",
+        "r.txt:944 > seeAlso 'cinismo' no encontrado",
+        "r.txt:944 > seeAlso 'Misterios de Eleusis' no encontrado",
+        "r.txt:944 > seeAlso 'cultos de misterios' no encontrado",
+        "r.txt:944 > seeAlso 'Parsis' no encontrado",
+        "r.txt:944 > seeAlso 'escepticismo' no encontrado",
+        "r.txt:944 > seeAlso 'estoicismo' no encontrado",
+        "r.txt:978 > seeAlso 'la revelación' no encontrado",
+        "r.txt:980 > seeAlso 'ciencia, filosofía y religión.' no encontrado"
     ],
     [
-        "m.txt:1149 > seeAlso 'mesotrones' no encontrado",
-        "m.txt:1149 > seeAlso 'neutrones' no encontrado",
-        "m.txt:1149 > seeAlso 'protones' no encontrado",
-        "m.txt:1149 > seeAlso 'ultimatones' no encontrado"
+        "r.txt:1077 > seeAlso 'enmiendas' no encontrado"
     ],
     [
-        "m.txt:1160 > seeAlso 'ciencia, filosofía y religión.' no encontrado"
+        "r.txt:1101 > seeAlso 'dinosaurios pterosaurios' no encontrado",
+        "r.txt:1101 > seeAlso 'serpientes tortugas' no encontrado"
     ],
     [
-        "m.txt:1294 > seeAlso 'médicos enfermo, el' no encontrado"
+        "r.txt:1132 > seeAlso 'cuerpo de reserva de' no encontrado"
     ],
     [
-        "m.txt:1320 > seeAlso 'Adoración' no encontrado"
+        "r.txt:1177 > seeAlso 'respeto por uno mismo' no encontrado"
     ],
     [
-        "m.txt:1348 > seeAlso 'región mediterránea' no encontrado"
+        "r.txt:1193 > seeAlso 'facilidad' no encontrado"
     ],
     [
-        "m.txt:1420 > seeAlso 'las enseñanzas de Salem' no encontrado"
+        "r.txt:1218 > seeAlso 'supervivientes dormidos' no encontrado",
+        "r.txt:1218 > seeAlso 'supervivencia' no encontrado",
+        "r.txt:1247 > seeAlso 'pase de lista:de la justicia' no encontrado"
     ],
     [
-        "m.txt:1469 > seeAlso 'Melquisedek, Maquiventa' no encontrado"
+        "r.txt:1333 > seeAlso 'directrices' no encontrado"
     ],
     [
-        "m.txt:1590 > seeAlso 'equidad' no encontrado"
+        "r.txt:1544 > seeAlso 'el río Colorado' no encontrado",
+        "r.txt:1544 > seeAlso 'Río Jordan' no encontrado",
+        "r.txt:1544 > seeAlso 'Río Mississippi' no encontrado",
+        "r.txt:1544 > seeAlso 'Nilo' no encontrado",
+        "r.txt:1544 > seeAlso 'Río Ohio' no encontrado",
+        "r.txt:1544 > seeAlso 'Río Rin' no encontrado",
+        "r.txt:1544 > seeAlso 'Río Somme' no encontrado",
+        "r.txt:1544 > seeAlso 'Río San Lorenzo' no encontrado",
+        "r.txt:1544 > seeAlso 'Río Susquehanna' no encontrado",
+        "r.txt:1544 > seeAlso 'Tarim' no encontrado",
+        "r.txt:1544 > seeAlso 'Río Tigris' no encontrado",
+        "r.txt:1544 > seeAlso 'Río Yangtze' no encontrado",
+        "r.txt:1544 > seeAlso 'Río Amarillo' no encontrado"
     ],
     [
-        "m.txt:1625 > seeAlso 'el río Éufrates' no encontrado",
-        "m.txt:1625 > seeAlso 'Sumerios' no encontrado"
+        "r.txt:1565 > seeAlso 'ámbar' no encontrado",
+        "r.txt:1565 > seeAlso 'marga verde' no encontrado",
+        "r.txt:1565 > seeAlso 'caliza' no encontrado",
+        "r.txt:1565 > seeAlso 'Roca' no encontrado"
     ],
     [
-        "m.txt:1812 > seeAlso 'Hijos de Dios paradisíacos:donaciones' no encontrado",
-        "m.txt:1879 > seeAlso 'rebelión de Lucifer' no encontrado",
-        "m.txt:1894 > seeAlso 'cristo' no encontrado"
+        "r.txt:1586 > seeAlso 'no sobrevivientes' no encontrado"
     ],
     [
-        "m.txt:2030 > seeAlso 'intermedios, primarios' no encontrado"
+        "r.txt:1593 > seeAlso 'cristiandad' no encontrado"
     ],
     [
-        "m.txt:2105 > seeAlso 'Hijos trinitizados del logro.' no encontrado"
+        "r.txt:1685 > seeAlso 'Cornelius' no encontrado",
+        "r.txt:1685 > seeAlso 'Juez romano en Corinto' no encontrado",
+        "r.txt:1685 > seeAlso 'Juez romano en Jerusalén' no encontrado",
+        "r.txt:1685 > seeAlso 'Magistrado romano en Roma' no encontrado",
+        "r.txt:1685 > seeAlso 'Senador romano' no encontrado",
+        "r.txt:1685 > seeAlso 'Soldado romano en Roma' no encontrado",
+        "r.txt:1685 > seeAlso 'Soldados romanos en Jerusalén' no encontrado",
+        "r.txt:1685 > seeAlso 'Vergil' no encontrado"
     ],
     [
-        "m.txt:2431 > seeAlso 'mal' no encontrado"
+        "r.txt:1733 > seeAlso 'Fortune' no encontrado"
     ],
     [
-        "m.txt:2447 > seeAlso 'cultos misteriosos' no encontrado"
+        "u.txt:115 > seeAlso 'Centros de Poder Supremo' no encontrado"
     ],
     [
-        "m.txt:2507 > seeAlso 'ácaros libras plata' no encontrado"
+        "u.txt:778 > seeAlso 'rebelión de Lucifer:en Urantia' no encontrado",
+        "u.txt:811 > seeAlso 'la luna (de Urantia)' no encontrado"
     ],
     [
-        "m.txt:2520 > seeAlso 'banca' no encontrado"
+        "u.txt:867 > seeAlso 'lenguaje:limitaciones del lenguaje humano' no encontrado",
+        "u.txt:876 > seeAlso 'Libro de Urantia Índice' no encontrado"
     ],
     [
-        "m.txt:2572 > seeAlso 'trabajo pesado' no encontrado"
+        "u.txt:946 > seeAlso 'banca' no encontrado"
     ],
     [
-        "m.txt:2732 > seeAlso 'Directores Universales de Poder' no encontrado"
+        "u.txt:949 > seeAlso 'Orvonton' no encontrado"
     ],
     [
-        "m.txt:2762 > seeAlso 'morontial' no encontrado"
+        "v.txt:88 > seeAlso 'auto-importancia.' no encontrado"
     ],
     [
-        "m.txt:2803 > seeAlso 'morontial' no encontrado"
+        "v.txt:182 > seeAlso 'maldad' no encontrado"
     ],
     [
-        "m.txt:2937 > seeAlso 'cuerpo, humano' no encontrado",
-        "m.txt:2937 > seeAlso 'Razas' no encontrado",
-        "m.txt:2937 > seeAlso 'yo' no encontrado"
+        "v.txt:208 > seeAlso 'no resistencia' no encontrado"
     ],
     [
-        "m.txt:3145 > seeAlso 'Sanedrín' no encontrado"
+        "v.txt:262 > seeAlso 'sueños' no encontrado"
     ],
     [
-        "m.txt:3180 > seeAlso 'Altísimo observadores' no encontrado"
+        "v.txt:305 > seeAlso 'directrices' no encontrado"
     ],
     [
-        "m.txt:3184 > seeAlso 'Altísimo observador de Urantia' no encontrado"
+        "w.txt:102 > seeAlso 'excretas' no encontrado"
     ],
     [
-        "m.txt:3321 > seeAlso 'prejuicio' no encontrado"
+        "w.txt:114 > seeAlso 'agua de vida.' no encontrado"
     ],
     [
-        "m.txt:3423 > seeAlso 'montañas de los Andes' no encontrado",
-        "m.txt:3423 > seeAlso 'montes Cárpatos' no encontrado",
-        "m.txt:3423 > seeAlso 'Pico Longs' no encontrado",
-        "m.txt:3423 > seeAlso 'monte Royal' no encontrado",
-        "m.txt:3423 > seeAlso 'colinas Siwalik' no encontrado"
+        "w.txt:709 > seeAlso 'espíritus mentales ayudantes:número 6 – adoración' no encontrado",
+        "w.txt:709 > seeAlso 'templo' no encontrado"
     ],
     [
-        "m.txt:3561 > seeAlso 'directrices' no encontrado"
+        "w.txt:793 > seeAlso 'palo de mensaje' no encontrado",
+        "w.txt:793 > seeAlso 'cinturones de wampum' no encontrado"
     ],
     [
-        "o.txt:65 > seeAlso 'el mar de Arabia' no encontrado"
+        "x.txt:17 > seeAlso 'radiactividad.' no encontrado"
     ],
     [
-        "o.txt:107 > seeAlso 'Éxodo' no encontrado",
-        "o.txt:107 > seeAlso 'Esdras' no encontrado",
-        "o.txt:107 > seeAlso 'Isaías' no encontrado"
-    ],
-    [
-        "o.txt:287 > seeAlso 'Servicio' no encontrado"
-    ],
-    [
-        "o.txt:391 > seeAlso 'Estandarización' no encontrado"
-    ],
-    [
-        "q.txt:35 > seeAlso 'rebelión de Lucifer' no encontrado"
-    ],
-    [
-        "p.txt:31 > seeAlso 'cultos misteriosos' no encontrado"
+        "p.txt:31 > seeAlso 'cultos de misterios' no encontrado"
     ],
     [
         "p.txt:336 > seeAlso 'Paraíso' no encontrado"
@@ -626,7 +673,6 @@
         "p.txt:570 > seeAlso 'hora' no encontrado"
     ],
     [
-        "p.txt:770 > seeAlso 'judaísmo:fiestas' no encontrado",
         "p.txt:770 > seeAlso 'Espíritu de verdad' no encontrado"
     ],
     [
@@ -637,17 +683,20 @@
         "p.txt:1115 > seeAlso 'mortales personalidad' no encontrado"
     ],
     [
-        "p.txt:1175 > seeAlso 'judaísmo' no encontrado",
-        "p.txt:1175 > seeAlso 'rabinos Sanedrín' no encontrado"
-    ],
-    [
         "p.txt:1300 > seeAlso 'maestros en filosofía' no encontrado",
         "p.txt:1316 > seeAlso 'Cinismo' no encontrado",
         "p.txt:1316 > seeAlso 'Epicureísmo' no encontrado",
-        "p.txt:1316 > seeAlso 'mecanismo' no encontrado"
+        "p.txt:1316 > seeAlso 'mecanismo (teoría)' no encontrado",
+        "p.txt:1316 > seeAlso 'Platonismo' no encontrado",
+        "p.txt:1316 > seeAlso 'escepticismo' no encontrado",
+        "p.txt:1316 > seeAlso 'estoicismo' no encontrado"
     ],
     [
-        "p.txt:1563 > seeAlso 'personal corpóreo de los Príncipes Planetarios' no encontrado"
+        "p.txt:1507 > seeAlso 'luz y vida.' no encontrado"
+    ],
+    [
+        "p.txt:1563 > seeAlso 'personal corpóreo de los Príncipes Planetarios' no encontrado",
+        "p.txt:1590 > seeAlso 'rebelión (espiritual).' no encontrado"
     ],
     [
         "p.txt:1664 > seeAlso 'áloe' no encontrado",
@@ -677,8 +726,7 @@
         "p.txt:2499 > seeAlso 'Amós' no encontrado",
         "p.txt:2499 > seeAlso 'Elías' no encontrado",
         "p.txt:2499 > seeAlso 'Elíseo' no encontrado",
-        "p.txt:2499 > seeAlso 'Esdras' no encontrado",
-        "p.txt:2499 > seeAlso 'Isaías' no encontrado"
+        "p.txt:2499 > seeAlso 'Esdras' no encontrado"
     ],
     [
         "p.txt:2568 > seeAlso 'importar' no encontrado"
@@ -694,10 +742,6 @@
         "s.txt:131 > seeAlso 'conciliación' no encontrado"
     ],
     [
-        "s.txt:181 > seeAlso 'judaísmo' no encontrado",
-        "s.txt:181 > seeAlso 'Sanedrín' no encontrado"
-    ],
-    [
         "s.txt:216 > seeAlso 'raza índigo' no encontrado"
     ],
     [
@@ -708,16 +752,10 @@
         "s.txt:298 > seeAlso 'supervivencia' no encontrado"
     ],
     [
-        "s.txt:364 > seeAlso 'Samaritanos' no encontrado"
-    ],
-    [
-        "s.txt:420 > seeAlso 'Sangiks' no encontrado"
-    ],
-    [
         "s.txt:425 > seeAlso 'Familia Sangik' no encontrado"
     ],
     [
-        "s.txt:446 > seeAlso 'Saduceos' no encontrado",
+        "s.txt:446 > seeAlso 'templo de Jerusalén' no encontrado",
         "s.txt:501 > seeAlso 'guardias del templo de Jerusalén' no encontrado"
     ],
     [
@@ -728,10 +766,6 @@
     ],
     [
         "s.txt:749 > seeAlso 'ciencia' no encontrado"
-    ],
-    [
-        "s.txt:768 > seeAlso 'judaísmo' no encontrado",
-        "s.txt:768 > seeAlso 'Sanedrín' no encontrado"
     ],
     [
         "s.txt:971 > seeAlso 'mecanismo (teoría)' no encontrado"
@@ -819,9 +853,6 @@
         "s.txt:3168 > seeAlso 'espaciadores exteriores' no encontrado"
     ],
     [
-        "s.txt:3314 > seeAlso 'Sanedrín:espías del Sanedrín' no encontrado"
-    ],
-    [
         "s.txt:3332 > seeAlso 'mortales fusionados con el espíritu' no encontrado"
     ],
     [
@@ -849,7 +880,7 @@
         "s.txt:4226 > seeAlso 'mesopotámicos' no encontrado"
     ],
     [
-        "s.txt:4322 > seeAlso 'sol' no encontrado"
+        "s.txt:4424 > seeAlso 'transporte seráfico, secoráfico y superáfico.' no encontrado"
     ],
     [
         "s.txt:4460 > seeAlso 'evitación' no encontrado",
@@ -899,24 +930,6 @@
         "s.txt:5119 > seeAlso 'emociones' no encontrado"
     ],
     [
-        "s.txt:5131 > seeAlso 'judaísmo' no encontrado"
-    ],
-    [
-        "v.txt:88 > seeAlso 'auto-importancia.' no encontrado"
-    ],
-    [
-        "v.txt:182 > seeAlso 'maldad' no encontrado"
-    ],
-    [
-        "v.txt:208 > seeAlso 'no resistencia' no encontrado"
-    ],
-    [
-        "v.txt:262 > seeAlso 'sueños' no encontrado"
-    ],
-    [
-        "v.txt:305 > seeAlso 'directrices' no encontrado"
-    ],
-    [
         "t.txt:217 > seeAlso 'emociones' no encontrado"
     ],
     [
@@ -951,8 +964,21 @@
         "t.txt:1326 > seeAlso 'árboles de tulipanes' no encontrado"
     ],
     [
-        "t.txt:1351 > seeAlso 'Razas' no encontrado",
-        "t.txt:1355 > seeAlso 'aborígenes' no encontrado"
+        "t.txt:1355 > seeAlso 'aborígenes (indios)' no encontrado",
+        "t.txt:1355 > seeAlso 'amorreos' no encontrado",
+        "t.txt:1355 > seeAlso 'asirios' no encontrado",
+        "t.txt:1355 > seeAlso 'tribus Badonán' no encontrado",
+        "t.txt:1355 > seeAlso 'tribus Baganda' no encontrado",
+        "t.txt:1355 > seeAlso 'indios pies negros' no encontrado",
+        "t.txt:1355 > seeAlso 'borneanos' no encontrado",
+        "t.txt:1355 > seeAlso 'Gente de Foxhall' no encontrado",
+        "t.txt:1355 > seeAlso 'raza índigo' no encontrado",
+        "t.txt:1355 > seeAlso 'malasios' no encontrado",
+        "t.txt:1355 > seeAlso 'mesopotámicos' no encontrado",
+        "t.txt:1355 > seeAlso 'neandertales' no encontrado",
+        "t.txt:1355 > seeAlso 'Parsis' no encontrado",
+        "t.txt:1355 > seeAlso 'polinesios' no encontrado",
+        "t.txt:1355 > seeAlso 'razas blancas' no encontrado"
     ],
     [
         "t.txt:1373 > seeAlso 'Trinidad del Paraíso' no encontrado",
@@ -964,158 +990,5 @@
     [
         "t.txt:1743 > seeAlso 'acostado' no encontrado",
         "t.txt:1743 > seeAlso 'Espíritu de verdad' no encontrado"
-    ],
-    [
-        "u.txt:115 > seeAlso 'Centros de Poder Supremo' no encontrado"
-    ],
-    [
-        "u.txt:778 > seeAlso 'rebelión de Lucifer:en Urantia' no encontrado",
-        "u.txt:811 > seeAlso 'la luna' no encontrado"
-    ],
-    [
-        "u.txt:867 > seeAlso 'lenguaje:limitaciones del lenguaje humano' no encontrado",
-        "u.txt:876 > seeAlso 'Libro de Urantia Índice' no encontrado"
-    ],
-    [
-        "u.txt:946 > seeAlso 'banca' no encontrado"
-    ],
-    [
-        "u.txt:949 > seeAlso 'Orvonton' no encontrado"
-    ],
-    [
-        "w.txt:102 > seeAlso 'excretas' no encontrado"
-    ],
-    [
-        "w.txt:114 > seeAlso 'agua de vida.' no encontrado"
-    ],
-    [
-        "w.txt:333 > seeAlso 'caucásicos' no encontrado",
-        "w.txt:333 > seeAlso 'Razas' no encontrado"
-    ],
-    [
-        "w.txt:709 > seeAlso 'espíritus mentales ayudantes:número 6 – adoración' no encontrado",
-        "w.txt:709 > seeAlso 'templo' no encontrado"
-    ],
-    [
-        "w.txt:793 > seeAlso 'palo de mensaje' no encontrado",
-        "w.txt:793 > seeAlso 'cinturones de wampum' no encontrado"
-    ],
-    [
-        "x.txt:17 > seeAlso 'radiactividad.' no encontrado"
-    ],
-    [
-        "y.txt:57 > seeAlso 'chino' no encontrado",
-        "y.txt:57 > seeAlso 'Razas' no encontrado"
-    ],
-    [
-        "z.txt:90 > seeAlso 'Zoroastrismo' no encontrado"
-    ],
-    [
-        "r.txt:17 > seeAlso 'judaísmo' no encontrado"
-    ],
-    [
-        "r.txt:93 > seeAlso 'raza índigo' no encontrado",
-        "r.txt:93 > seeAlso 'Sangiks' no encontrado"
-    ],
-    [
-        "r.txt:122 > seeAlso 'rayos X' no encontrado"
-    ],
-    [
-        "r.txt:187 > seeAlso 'importar' no encontrado"
-    ],
-    [
-        "r.txt:338 > seeAlso 'maldad' no encontrado",
-        "r.txt:350 > seeAlso 'rebelión de Lucifer' no encontrado"
-    ],
-    [
-        "r.txt:523 > seeAlso 'la doctrina de la expiación.' no encontrado"
-    ],
-    [
-        "r.txt:662 > seeAlso 'facilidad' no encontrado"
-    ],
-    [
-        "r.txt:673 > seeAlso 'fe hijos de Dios' no encontrado",
-        "r.txt:673 > seeAlso 'Reino de los cielos' no encontrado",
-        "r.txt:944 > seeAlso 'confucionismo' no encontrado",
-        "r.txt:944 > seeAlso 'culto a no quitarse la vida' no encontrado",
-        "r.txt:944 > seeAlso 'cinismo' no encontrado",
-        "r.txt:944 > seeAlso 'Misterios de Eleusis' no encontrado",
-        "r.txt:944 > seeAlso 'cultos misteriosos' no encontrado",
-        "r.txt:944 > seeAlso 'Parsis' no encontrado",
-        "r.txt:944 > seeAlso 'escepticismo' no encontrado",
-        "r.txt:944 > seeAlso 'estoicismo' no encontrado",
-        "r.txt:978 > seeAlso 'la revelación' no encontrado"
-    ],
-    [
-        "r.txt:1077 > seeAlso 'enmiendas' no encontrado"
-    ],
-    [
-        "r.txt:1101 > seeAlso 'dinosaurios pterosaurios' no encontrado",
-        "r.txt:1101 > seeAlso 'serpientes tortugas' no encontrado"
-    ],
-    [
-        "r.txt:1132 > seeAlso 'cuerpo de reserva de' no encontrado"
-    ],
-    [
-        "r.txt:1177 > seeAlso 'respeto por uno mismo' no encontrado"
-    ],
-    [
-        "r.txt:1193 > seeAlso 'facilidad' no encontrado"
-    ],
-    [
-        "r.txt:1218 > seeAlso 'supervivientes dormidos' no encontrado",
-        "r.txt:1218 > seeAlso 'supervivencia' no encontrado",
-        "r.txt:1235 > seeAlso 'cuerpo de mensajeros' no encontrado",
-        "r.txt:1247 > seeAlso 'pase de lista:de la justicia' no encontrado"
-    ],
-    [
-        "r.txt:1333 > seeAlso 'directrices' no encontrado"
-    ],
-    [
-        "r.txt:1544 > seeAlso 'el río Colorado' no encontrado",
-        "r.txt:1544 > seeAlso 'Río Jordan' no encontrado",
-        "r.txt:1544 > seeAlso 'Río Mississippi' no encontrado",
-        "r.txt:1544 > seeAlso 'Nilo' no encontrado",
-        "r.txt:1544 > seeAlso 'Río Ohio' no encontrado",
-        "r.txt:1544 > seeAlso 'Río Rin' no encontrado",
-        "r.txt:1544 > seeAlso 'Río Somme' no encontrado",
-        "r.txt:1544 > seeAlso 'Río San Lorenzo' no encontrado",
-        "r.txt:1544 > seeAlso 'Río Susquehanna' no encontrado",
-        "r.txt:1544 > seeAlso 'Tarim' no encontrado",
-        "r.txt:1544 > seeAlso 'Río Tigris' no encontrado",
-        "r.txt:1544 > seeAlso 'Río Yangtze' no encontrado",
-        "r.txt:1544 > seeAlso 'Río Amarillo' no encontrado"
-    ],
-    [
-        "r.txt:1565 > seeAlso 'ámbar' no encontrado",
-        "r.txt:1565 > seeAlso 'antracita' no encontrado",
-        "r.txt:1565 > seeAlso 'marga verde' no encontrado",
-        "r.txt:1565 > seeAlso 'caliza' no encontrado",
-        "r.txt:1565 > seeAlso 'Roca' no encontrado"
-    ],
-    [
-        "r.txt:1586 > seeAlso 'no sobrevivientes' no encontrado"
-    ],
-    [
-        "r.txt:1593 > seeAlso 'cristiandad' no encontrado"
-    ],
-    [
-        "r.txt:1619 > seeAlso 'Romanos' no encontrado"
-    ],
-    [
-        "r.txt:1685 > seeAlso 'Cornelius' no encontrado",
-        "r.txt:1685 > seeAlso 'Juez romano en Corinto' no encontrado",
-        "r.txt:1685 > seeAlso 'Juez romano en Jerusalén' no encontrado",
-        "r.txt:1685 > seeAlso 'Magistrado romano en Roma' no encontrado",
-        "r.txt:1685 > seeAlso 'Senador romano' no encontrado",
-        "r.txt:1685 > seeAlso 'Soldado romano en Roma' no encontrado",
-        "r.txt:1685 > seeAlso 'Soldados romanos en Jerusalén' no encontrado",
-        "r.txt:1685 > seeAlso 'Tito' no encontrado"
-    ],
-    [
-        "r.txt:1687 > seeAlso 'Romanos' no encontrado"
-    ],
-    [
-        "r.txt:1733 > seeAlso 'Fortune' no encontrado"
     ]
 ]

@@ -66,7 +66,7 @@ Gad | | | RAZA |
 tribu de renombre (128:1.14)
 
 Gadara | (138:9.3) (144:7.1) (149:0.1) (159:0.2) (165:0.1) | | LUGAR | 
-Tomás Didymus de (138:2.5)
+Tomás Dídimo de (138:2.5)
 Una de las poblaciones recorridas en la misisón de Perea
 
 Gada | (165:0.1) | | LUGAR | 
@@ -207,7 +207,7 @@ en el templo de Jerusalén (162:4.3)
 Gat | | | LUGAR | 
 Los filisteos ordenaron al rey David salir del campo en (97:9.5)
 
-Siddharta Gautama | (94:7) | Ver Buda; Budismo | PERSONA | 
+Siddharta Gautama | (94:7) | Ver Buda; budismo | PERSONA | 
 Doctrina de Maestro, Ley y Hermandad (104:1.6)
 seguidores
 	Gautama prohibió recibir dinero (94:8.19)
@@ -270,7 +270,7 @@ históricamente
 	la raza es un factor decisivo en la evolución de la cultura (81:6.4)
 	El deterioro racial contribuyó al declive romano (133:0.2) (195:3.8-9)
 	algunas pérdidas genéticas tempranas e irreparables debidas a guerras (63:4.8)
-	enormes ganancias de una pequeña cantidad de sangre violeta (48:4.13,17) (52:3.6) (74:7.23) | Ver Anditas
+	enormes ganancias de una pequeña cantidad de sangre violeta | Ver anditas | (48:4.13,17) (52:3.6) (74:7.23) 
 individuos que carecen de instinto parental eliminados de la corriente reproductiva (84:7.7)
 los impulsos heredados no pueden modificarse fundamentalmente; las respuestas pueden (140:4.8)
 guarda celosamente las cepas humanas superiores (49:1.7)
@@ -441,8 +441,8 @@ no antepasados ​​humanos (62:1.1)
 Gibeón | | | LUGAR | 
 Ciudad cananea atacada por Saúl (97:9.13)
 
-Gibeonitas | | | RAZA | 
-El rey David entregó 7 descendientes de Saúl a Gibeonitas para que los ahorcara (97:9.13)
+gibeonitas | | | RAZA | 
+El rey David entregó 7 descendientes de Saúl a los gibeonitas para que los ahorcara (97:9.13)
 
 Istmo de Gibraltar | (61:3.8) | | LUGAR | 
 cedió después de un terremoto (80:2.4)
@@ -468,7 +468,7 @@ Los filisteos derrotaron a Saúl en (97:9.6)
 Galaad | (165:0.1) | | LUGAR | 
 Una de las poblaciones recorridas en la misisón de Perea
 
-Galaaditas | | | RAZA | 
+galaaditas | | | RAZA | 
 tribu de renombre (128:1.14)
 Saúl vino en ayuda de (97:9.3)
 
@@ -1498,9 +1498,9 @@ parábola de (167:2)
 lo grande | | | | 
 busca el g., y el menor se encontrará en él (165:5.3)
 
-Camino Mayor | | Ver Budismo | | 
+Camino Mayor | | Ver budismo | | 
 concepto budista dual de Dios y el Absoluto (94:12.2)
-Budismo Mahayana; doctrina progresiva (94:9.4-5)
+budismo Mahayana; doctrina progresiva (94:9.4-5)
 
 grandeza | | | | 
 logrado al contemplar y perseguir firmemente la bondad (28:6.21-22) (56:10.12) (100:7.17)
@@ -1517,11 +1517,11 @@ grandeza mundana
 	preferencia deseada por los apóstoles (138:7.1) (158:4.4) (158:6.2-3) (158:8.1) (171:0.6) (179:1) (179:3.9)
 	abstenerse de luchar por g. (179:1) (179:5.7)
 
-Grecia | (98:1) | Ver Atenas; Corinto; Griegos | LUGAR | 
+Grecia | (98:1) | Ver Atenas; Corinto; griegos | LUGAR | 
 Historia griega
 	Andrés crucificado en Acaya (139:1.12)
 	el arte y el genio fueron el legado directo de Adanson y Ratta (77:5.10) (80:7.5)
-	arte y ciencia de Mesopotamia, Adansonitas (80:7.5)
+	arte y ciencia de Mesopotamia, adansonitas (80:7.5)
 	Los invasores arios casi destruyeron las enseñanzas de Salem (98:1.2)
 	Centro cultural de Atenas de (133:5.1-2)
 	Corinto, capital de Acaya (133:2.5)
@@ -1538,7 +1538,7 @@ lengua griega
 	hablado por mejores estratos de judíos en tiempos de Jesús (121:6.2)
 	traducción de escrituras hebreas al griego (123:0.3) (123:3.1) (126:5.6) (150:8.1)
 	generalizado en tiempos de Jesús (121:1.1,5)
-Religión griega (98:1-2ss) | Ver cultos misteriosos; platonismo
+Religión griega (98:1-2ss) | Ver cultos de misterio; platonismo
 	La ausencia de sacerdotes y de las Sagradas Escrituras liberó la mente (98:1.5) (98:2.7) (98:6.1)
 	sistema ético avanzado prácticamente sin Deidad (98:2.11)
 	baño ritual anual (85:4.1)
@@ -1563,7 +1563,7 @@ Religión griega (98:1-2ss) | Ver cultos misteriosos; platonismo
 		sobre el cristianismo (98:7.10) (195:0-1ss)
 	Los griegos inteligentes nunca consideraron seriamente a los dioses griegos (98:1.4) (98:2.4) (195:1.6-7)
 	mitología más estética que ética (98:1.6)
-	inmersión orgiástica en cultos misteriosos (98:2.10-11)
+	inmersión orgiástica en cultos de misterio (98:2.10-11)
 	Filosofía dirigida al surgimiento del individuo (195:1.1)
 	la salvación prometida de la falta de armonía (5:4.5-8)
 	fuente de tradiciones mitológicas (80:7.5)
@@ -1573,7 +1573,7 @@ Religión griega (98:1-2ss) | Ver cultos misteriosos; platonismo
 
 codicia | | Ver envidia | | 
 
-Griegos | | Ver Grecia | RAZA | 
+griegos | | Ver Grecia | RAZA | 
 columna vertebral de la iglesia cristiana primitiva (195:3.6)
 llevó el cristianismo a todo el Imperio Romano (195:0-1ss)
 en contraste con judíos y romanos (191:5.3)
@@ -1790,7 +1790,7 @@ lidiar con la culpa
 detectado por pruebas de veneno, fuego y dolor (70:10.5-7)
 Pedro aplastado después de negar a Jesús (184:2.8-9,13)
 
-Guitas | | | RAZA | 
+guitas | | | RAZA | 
 sumerios derrotados (78:8.10)
 
 Abismo | | | | 

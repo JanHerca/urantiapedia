@@ -218,7 +218,8 @@ la sección transversal vertical del espacio se asemeja (11:7.3-5)
 
 Malvorian | | | PERSONA | 
 primera Guía de los Graduados; con Grandfanda; jefe de su orden (24:6.4-6)
-mamíferos. (61) (59:0.6) Ver animales
+
+mamíferos | (61) (59:0.6) | Ver animales | | 
 la primera aparición falló (60:1.11)
 inmensas ventajas de supervivencia (61:1.3)
 pequeño mamífero reptil que pone huevos floreció hace 45 millones de años (61:1.9)
@@ -967,7 +968,7 @@ Matadormo | | | PERSONA |
 Los gemelos Alfeo, el orgulloso Jesús se negó a aceptar (139:9.9)
 se convirtió en tesorero de la iglesia de Jerusalén (163:2.7)
 se reunió con Jesús en la casa de Nicodemo (164:2.1)
-joven fariseo rico, miembro del Sanedrín de Jerusalén (163:2.4-9) (163:3.3)
+joven fariseo rico, miembro del sanedrín de Jerusalén (163:2.4-9) (163:3.3)
 
 casamenteros | | | | 
 primero fueron barberos; luego, sacerdotes (83:2.1)
@@ -1376,7 +1377,7 @@ Mek | | Ver los cien de Caligastia | PERSONA |
 y todo el consejo leal en rebelión (67:4.1)
 consejo planetario dirigido sobre arte y ciencia (66:5.23)
 
-Melanesios | | | RAZA | 
+melanesios | | | RAZA | 
 oración prereligiosa; prácticas de maná (91:0.5)
 
 melanina | | | | 
@@ -1622,11 +1623,11 @@ cuando m. agotado, la justicia prevalece (21:5.7) (28:6.7)
 sirenas | | | | 
 antiguos objetos de adoración (85:3.2)
 
-Mesopotamia | (130:0.3) | Ver el río Éufrates; segundo jardín; Sumerios; río Tigris | LUGAR | 
+Mesopotamia | (130:0.3) | Ver el río Éufrates; segundo jardín; sumerios; río Tigris | LUGAR | 
 5% de los anditas superiores se negaron a irse (78:6.6)
 Anditas expulsados ​​de (78:6.7) (79:1.7)
 apariencia de las ciudades (79:1.4)
-Ararat era la montaña sagrada de Vanitas en el norte (77:4.11-12)
+Ararat era la montaña sagrada de los vanitas en el norte (77:4.11-12)
 Niño Jesús buscado por los sabios de (122:8.5-7)
 Sede de Caligastia en (66:0.2) (66:3.1-2)
 los cambios climáticos provocaron la ruina (78:8.11)
@@ -1933,8 +1934,8 @@ mitad de la mente | | Ver alma | |
 
 Edades medias | | Ver la edad oscura | | 
 
-Madianitas | | | RAZA | 
-La incursión hebrea en Madianitas ilustra la crueldad de la guerra antigua (70:1.15)
+madianitas | | | RAZA | 
+La incursión hebrea en madianitas ilustra la crueldad de la guerra antigua (70:1.15)
 en los días de Gedeón (124:6.6)
 
 mundo midsonita | | Ver midsonitarios | ORDEN | 
@@ -2444,9 +2445,9 @@ Jesús tuvo una conversación con él
 Sacerdote mitraico en Corinto | (133:4.4) | | PERSONA | 
 Jesús tuvo una conversación con él
 
-Mitraísmo | | Ver Mitra; cultos misteriosos | RELIGION | 
+mitraísmo | | Ver Mitra; cultos de misterio | RELIGION | 
 y cristianismo (98:6) (98:7.7)
-	Los líderes cristianos comprometidos con Mitraísmo (195:0.9,11)
+	Los líderes cristianos comprometidos con el mitraísmo (195:0.9,11)
 	M. similar en apariencia y ritual al cristianismo primitivo (98:6.3)
 	M. fue un competidor del cristianismo de Pablo (121:5.8)
 	La doctrina de la expiación de Pablo deriva de (121:6.5)
@@ -2454,16 +2455,16 @@ y cristianismo (98:6) (98:7.7)
 surgió en Irán (98:4.5) (98:5.2)
 alentó el militarismo; tolerante con otras religiones (98:6.4)
 mejorado mucho por las enseñanzas de Zoroastro (98:5.2) (98:7.6)
-Los sacerdotes iraníes resucitaron a Mitraísmo para combatir el zoroastrismo (95:6.7)
+Los sacerdotes iraníes resucitaron al mitraísmo para combatir el zoroastrismo (95:6.7)
 Jesús buscó líderes mitraistas que valieran la pena (130:7.3) (132:0.4)
 celebraciones orgiásticas (134:6.16)
 Las legiones romanas se extendieron por el Imperio (98:5.1)
 la escuela en Urmia reabierta como templo de (134:6.16)
 Sol Invictus era el dios sol de (98:5.3)
-La adoración al sol dio origen al Mitraísmo en Irán (85:5.2)
+La adoración al sol dio origen al mitraísmo en Irán (85:5.2)
 suplantó los misterios frigios y egipcios (98:5.1)
 
-Mitra | | Ver Mitraísmo | PERSONA | 
+Mitra | | Ver mitraísmo | PERSONA | 
 campeón del dios sol en lucha con el dios de las tinieblas (98:5.3)
 
 comisión mixta de los doce en Jerusem | | | | 
@@ -2474,7 +2475,7 @@ combatió el confucianismo, proclamó la hermandad fundada en el amor de Dios (9
 
 colinas de Moab | (123:5.12) | | LUGAR | 
 
-Moabitas | | | RAZA | 
+moabitas | | | RAZA | 
 El rey David impuso un gran tributo (97:9.14)
 
 multitud | | Ver población | | 
@@ -2533,8 +2534,8 @@ influyente culto fluvial (85:4.1)
 Comerciante mongol | | | | 
 habló con Jesús en Cesarea (130:2.2)
 
-Mongoloides | | Ver razas | RAZA | 
-raza compuesta por Sangiks rojos, amarillos y azules (81:4.12)
+mongoloides | | Ver razas | RAZA | 
+raza compuesta por sangiks rojos, amarillos y azules (81:4.12)
 
 monos | | Ver simios | | 
 apariencia (61:1.9) (61:3.12) (61:4.4)
@@ -2934,7 +2935,7 @@ mente superconsciente
 	verdades espirituales residentes en (110:6.4)
 	El crecimiento espiritual inconsciente prueba la existencia de (100:1.9)
 
-mortales | | Ver mortales ascendentes; cuerpo, humano; niños; criaturas; mente mortal; personalidad; épocas planetarias; Razas; yo; sexos; alma; influencias espirituales; mujer | ORDEN | 
+mortales | | Ver mortales ascendentes; cuerpo, humano; niños; criaturas; mente mortal; personalidad; épocas planetarias; razas; yo; sexos; alma; influencias espirituales; mujer | ORDEN | 
 7 influencias espirituales superiores (194:2.12)
 Ajustadores asignados justo antes del sexto cumpleaños (108:2.1)
 después de la muerte
@@ -3142,7 +3143,7 @@ ningún hombre tan exitoso con un número tan grande (92:5.11)
 pasaje a mundos de estancia impugnado por Caligastia (52:5.5)
 Pedro creyó haber visto a Moisés en la transfiguración (158:1.8)
 se dice que trajo agua de una roca, maná en el desierto (136:6.6) (153:2.8,10)
-sede de Moisés | Ver Sanedrín
+sede de Moisés | Ver sanedrín
 se recluyó (136:3.3)
 espectacular vuelo nocturno fuera de Egipto (96:3.5)
 enseñanzas (74:8.8) (96:5)
@@ -3285,7 +3286,7 @@ Madres Evas | | Ver Hijos Materiales de Dios | |
 
 fuerza madre del espacio | | Ver absoluta | | 
 
-Culto a la Madre de Dios | | | RELIGION | 
+culto a la Madre de Dios | | | RELIGION | 
 El culto de la Gran Madre absorbió el evangelio de Salem (93:7.3)
 el mayor de los devastadores cultos de misterios romanos (98:3.5)
 influencia en el cristianismo (98:7.7)
@@ -3541,7 +3542,7 @@ el secreto confiere poder (70:7.7,15)
 tendencia a postrarse ante m. (89:4.1)
 siempre habrá mil (27:6.1)
 
-cultos de misterio | (98:4) (121:5) | Ver Mitraísmo; paganismo | | 
+cultos de misterio | (98:4) (121:5) | Ver mitraísmo; paganismo | | 
 Augusto trató de destruirlos (98:3.6)
 contendió con el estoicismo (195:3.3)
 influyó en el cristianismo (98:7.7)

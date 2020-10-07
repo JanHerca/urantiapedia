@@ -57,7 +57,7 @@ los mamíferos intermedios retrasados ​​eran antepasados ​​de los babuin
 lenguaje infantil | | | | 
 ilustra el origen de los dialectos (81:6.17)
 
-Babilonia | (130:0.3) (134:1.1) | Ver Babilonios | LUGAR | 
+Babilonia | (130:0.3) (134:1.1) | Ver babilonios | LUGAR | 
 el bautismo era un ceremonial religioso en Babilonia (85:4.1)
 caballería de Babilonia empujada hacia Mesopotamia (79:1.5)
 El judaísmo fue salvado del olvido por los maestros de Babilonia (121:6.8)
@@ -78,7 +78,7 @@ los sacerdotes destruyeron registros después (97:8.1)
 los sacerdotes inventaron leyendas durante (74:8.9-11) (78:7.3)
 Conmocionó al resto de Israel al monoteísmo (97:9.26)
 
-Babilonios | | Ver Babylon | RAZA | 
+babilonios | | Ver Babilonia | RAZA | 
 contacto inmediato con restos de adanitas (74:8.6)
 parte de la raza semítica más antigua que incluía judíos (121:2.1)
 enseñó al hombre que descendía directamente de los dioses (74:8.6)
@@ -106,7 +106,7 @@ Badonán | | | PERSONA |
 fundado centro de cultura en Afganistán (67:6.1) (79:0.1)
 tataranieto de Andón (64:3.1)
 
-Tribus de Badonán | | Ver Andonitas | RAZA | 
+Tribus de Badonán | | Ver andonitas | RAZA | 
 creía en 2 almas, el aliento y la sombra (86:5.17)
 temeroso del hielo, el agua (64:3.3)
 nunca practicó sacrificios humanos (64:3.1)
@@ -229,7 +229,7 @@ brutal incursión hebrea contra el rey de (69:8.3)
 cestería | | | | 
 origen de la idea (81:2.17-18)
 
-Vascos | | Ver raza blanca:divisiones:sur | RAZA | 
+vascos | | Ver raza blanca:divisiones:sur | RAZA | 
 raza azul mezclada con saharauis (80:9.11)
 
 Batanea | (138:2.4) (154:7.4) (155:0.1) | | LUGAR | 
@@ -298,7 +298,7 @@ variedad esencial para (56:10.3-4)
 castores | (61:2.7) (61:5.7) | | | 
 Las tribus indias creían que se originaron en (74:8.5)
 
-Beduinos | | Ver árabes | RAZA | 
+beduinos | | Ver árabes | RAZA | 
 creía que el espíritu de la naturaleza producía remolinos de arena (85:4.2)
 
 hayas | (60:3.19) | | | 
@@ -378,7 +378,7 @@ Jesús b. a los apóstoles (193:5.2)
 Bengala | | | LUGAR | 
 adoración del meteoro que cayó en 1880 d.C. (85:1.2)
 
-Bereberes | | Ver raza blanca:divisiones:sur | RAZA | 
+bereberes | | Ver raza blanca:divisiones:sur | RAZA | 
 raza azul mezclada con saharauis (80:9.11)
 
 Puente terrestre del estrecho de Bering | | | LUGAR | 
@@ -594,7 +594,7 @@ sello de amistad, aceptación en el clan (66:5.22) (70:3.7)
 camino sangriento | (182:2.11) | | | 
 Nombre dado al camino de Jerusalén a Jericó
 
-raza azul | (64:6.21-24) | Ver Cromañones; Razas | RAZA | 
+raza azul | (64:6.21-24) | Ver cromañones; razas | RAZA | 
 Los adanitas preferidos; infiltrado por 15.000 a.C. (64:6.21) (78:3.5,7) (80:1.5-7) (80:8.1)
 mejor absorbido por los anditas; no apto exterminado (80:5.6) (80:9.11)
 base biológica de la raza blanca (80:0.1) (80:5.7) (80:9.2,5,10)
@@ -654,7 +654,7 @@ La visión nocturna de Pedro en el mar de Galilea (152:4)
 comercio marítimo activo en 2500 a.C. (80:9.9)
 tráfico marítimo entre India y Mesopotamia (79:3.2)
 
-cuerpo humano | | Ver sangre; sesos; eugenesia; ojos carne; genética; mortales personalidad:formas; estructuras esqueléticas | | 
+cuerpo humano | | Ver sangre; cerebros; eugenesia; ojos; carne; genética; personalidad:formas de personalidad; estructuras esqueléticas | | 
 después de la muerte, b. se descarta la cubierta exterior (30:4.15) (39:2.13) (189:1.2)
 cuerpos creados para Caligastia 100 (66:2.7-8)
 no puede ser transportado por transporte seráfico (39:2.13)
@@ -697,7 +697,7 @@ Hebreos | Ver Hebreos
 Isaías | Ver Isaías (primero); Isaías (segundo)
 Job.
 Libro de la vida. los Custodios del Conocimiento son libros vivientes (27:5.1)
-Proverbios | Ver Proverbios
+Proverbios | Ver Proverbios (libro)
 Salmos.
 Apocalipsis | Ver Apocalipsis
 Sabiduría | Ver Eclesiastés
@@ -733,11 +733,11 @@ raza roja inventada (64:6.4)
 
 braquiópodos | (59:1.18) (59:2.12) (59:3) (59:4.3) | | | 
 
-Brahma | | Ver Brahmán; Brahmánismo; hinduismo | PERSONA | 
+Brahma | | Ver Brahmán; brahmánismo; hinduismo | PERSONA | 
 miembro de la trinidad hindú; identificado con el destino (94:4.4) (104:1.5)
 Principio védico de deidad-padre (94:1.4)
 
-Brahmán | | Ver Brahma; Brahmánismo; hinduismo | PERSONA | 
+Brahmán | | Ver Brahma; brahmánismo; hinduismo | PERSONA | 
 Brahmán-Narayana es el Yo Universal que existe estático y potencial durante toda la eternidad (94:3.3-4).
 idea distante de Absoluto que todo lo abarca (94:2.6-7)
 principio de energía-divinidad que activa el panteón védico (94:1.4)
@@ -746,12 +746,12 @@ India quedó desamparada por la hipótesis impersonal de (94:2.4,7)
 Infinito Uno, ES; sin atributos de personalidad (94:3.2) (94:4.3)
 Superalma védica de toda la creación (94:2.4)
 
-Brahmánas | | Ver Brahmánismo; hinduismo | | 
+Brahmánas | | Ver brahmánismo; hinduismo | | 
 Escrituras posteriores de la fe hindú (94:2.6)
 
-Brahmánismo | (94:2) (94:3) | Ver Brahma; Brahmán; Brahmánas; Hinduismo; India | RELIGION | 
+brahmánismo | (94:2) (94:3) | Ver Brahma; Brahmán; Brahmánas; hinduismo; India | RELIGION | 
 los dioses antiguos de los arios incluyen Agni, Indra y Soma (94:4.6)
-Los arios llevaron el Brahmánismo a la India (94:1.1)
+Los arios llevaron el brahmánismo a la India (94:1.1)
 no pudo diferenciar niveles de realidad, reconocer el alma (94:3.7-8)
 Infinito impersonal de (98:2.9)
 influencia en el taoísmo (94:5.5)
@@ -841,7 +841,7 @@ El caminar de Jesús con los 2 hermanos (190:5)
 práctica de casarse con la esposa del hermano fallecido (139:4.12) (174:3.2)
 todo aquel que hace la voluntad del Padre es hermano de Jesús (154:6.5)
 
-Bretones | | | RAZA | 
+bretones | | | RAZA | 
 Andonitas mezcladas con caldo mediterráneo (80:9.14)
 
 soborno | | | | 
@@ -1039,7 +1039,7 @@ Miqueas:vive cada uno según su entendimiento de Dios (97:5.5)
 el factor más poderoso y tenue de la civilización (118:8.10)
 a menos que sea religioso, b. es una abstracción desprovista de amor (16:9.8)
 
-Hermandad de los hombres | | Ver hermandad (actitud); evangelio | | 
+hermandad de los hombres | | Ver hermandad (actitud); evangelio | | 
 civilización rodeada por el amor (100:4.6)
 deriva de la paternidad de Dios (12:7.8,10) (16:9.14) (52:6.7) (134:4.1) (159:5.7) (195:8.11)
 implica el ajuste del yo a otros yoes (99:5.1)
@@ -1069,16 +1069,16 @@ Los monoteístas en evolución mantienen a los dioses subordinados como (96:1.14
 
 brutalidad | | Ver crueldad | | 
 
-Buda | | Ver Budismo; Siddharta Gautama | PERSONA | 
+Buda | | Ver budismo; Siddharta Gautama | PERSONA | 
 se convirtió en un devoto reflexivo del ocio (69:2.5)
 Gautama venerado como iluminado (92:5.12) (94:8.2) (94:9.1)
 La charla de Jesús con Gonod sobre (132:7.3-5)
 retorno de Buda buscado en el Tíbet, China e India (92:5.6)
 
-Buda (Sakyamuni) | | Ver Buda; Budismo | PERSONA | 
+Buda (Sakyamuni) | | Ver Buda; budismo | PERSONA | 
 Los seguidores de Gautama lo llamaron (94:8.2)
 
-Budismo | (94:8) | Ver Buda; Siddharta Gautama | RELIGION | 
+budismo | (94:8) | Ver Buda; Siddharta Gautama | RELIGION | 
 adaptabilidad a las costumbres igualadas solo por el cristianismo (92:6.16)
 degenerado en ritual ajeno a Gautama (94:7.8) (94:9.3)
 no produjo una religión de servicio desinteresado (94:8.19)
@@ -1099,7 +1099,7 @@ doctrinas
 	salvación del sufrimiento (5:4.5)
 	la salvación mediante la fe en Buda (94:9.1)
 	doctrina trinitaria (104:1.6)
-Resumen de Ganid del Budismo (131:3)
+Resumen de Ganid del budismo (131:3)
 gran fe internacional e interracial (92:6.5,16)
 historia
 	Renacimiento del siglo XX (94:12.5)
@@ -1148,7 +1148,7 @@ El budismo Hinayana persistió en (94:9.4)
 almud | | | | 
 vela no puesta (140:3.13)
 
-Bosquimanos | | | RAZA | 
+bosquimanos | | | RAZA | 
 cultivo crudo (66:5.30) (70:3.2)
 raza inferior (68:1.6) (103:3.1)
 sin nombres individuales (88:5.5)

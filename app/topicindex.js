@@ -114,41 +114,69 @@ class TopicIndex {
 						}
 						current = null;
 					} else if (current && tline.length > 0) {
+						topicline = {
+							text: '',
+							level: level,
+							fileline: i + 1
+						};
+
 						if (data.length === 0) {
-							errors.push(new Error(`${baseName}, línea ${i}: ${tline}`));
-						} else {
+							errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
+						} else if (data.length === 1) {
 							data = tline.split(/\([^)]*\)/g)
 								.filter(i => i.trim() != '')
 								.map(i => i.trim().replace(/^\.|\.$/g, '').trim());
 							refs = tline.replace(/[^()](?=([^()]*\([^()]*\))*[^()]*$)/g, '')
 								.split(/[()]/g)
 								.filter(i => i.trim() != '');
-							topicline = {
-								text: '',
-								level: level,
-								fileline: i + 1
-							};
+							
 							if (data.length === 0) {
-								errors.push(new Error(`${baseName}, línea ${i}: ${tline}`));
+								errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
 							} else {
-								data2 = data[0].split('|').map(p => p.trim());
-								seeAlso = data2.findIndex(d => d.startsWith('Ver '));
-								if (seeAlso === -1) {
-									topicline.text = data[0];
+								if (data[0].indexOf('Ver ') != -1) {
+									errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
 								} else {
-									topicline.text = data2.slice(0, seeAlso).join('. ');
-									topicline.seeAlso = data2[seeAlso].substring(4).split(';')
-										.map(s => s.trim());
+									topicline.text = data[0];
+									topicline.seeAlso = [];
+									topicline.refs = refs;
+									current.lines.push(topicline);
 								}
-								topicline.refs = refs;
+							}
+						} else if (data.length === 2) {
+							topicline.text = data[0];
+							if (data[1].startsWith('Ver ')) {
+								topicline.seeAlso = data[1].substring(4).split(';')
+									.map(s => s.trim());
+								topicline.refs = [];
+							} else {
+								topicline.seeAlso = [];
+								topicline.refs = data[1]
+									.replace(/[^()](?=([^()]*\([^()]*\))*[^()]*$)/g, '')
+									.split(/[()]/g)
+									.filter(i => i.trim() != '');
+							}
+							current.lines.push(topicline);
+						} else if (data.length === 3) {
+							if (!data[1].startsWith('Ver ')) {
+								errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
+							} else {
+								topicline.text = data[0];
+								topicline.seeAlso = data[1].substring(4).split(';')
+									.map(s => s.trim());
+								topicline.refs = data[2]
+									.replace(/[^()](?=([^()]*\([^()]*\))*[^()]*$)/g, '')
+									.split(/[()]/g)
+									.filter(i => i.trim() != '');
 								current.lines.push(topicline);
 							}
+						} else {
+							errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
 						}
 					} else if (!current && tline.length > 0) {
 						isRedirect = (!lines[i + 1] || 
 							lines[i + 1].trim().length === 0);
 						if (data.length === 0) {
-							errors.push(new Error(`${baseName}, línea ${i}: ${tline}`));
+							errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
 						} else if (data.length === 5) {
 							if (data[1].startsWith('(') && data[1].endsWith(')')) {
 								refs = data[1].split(/[()]/g).filter(i => i.trim() != '');

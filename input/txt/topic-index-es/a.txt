@@ -11,6 +11,38 @@
 ####################################################################################
 
 
+A-B-C el Primero | (77:8.2) | | PERSONA | OK
+	intermedio secundario (77:6.4)
+
+suposiciones a priori | | Ver doctrinas | | 
+	las respuestas a la realidad de la mente cósmica son la causación, el deber y la adoración (16:6.10)
+
+hijas de Aaron | Ver hijas de Aaron | | |
+
+Aarón (Viejo Testamento) | (146:1.1) | | PERSONA | 
+
+Aarón el albañil | | | PERSONA | 
+	le habló al paralítico acerca de Jesús (148:9.2)
+	curado de una mano seca (148:7ss)
+
+Abaddon | | | PERSONA | 
+	jefe del estado mayor de Caligastia; jefe de los rebeldes de Urantia (53:1.5)
+
+abandontarios | | | ORDEN | 
+	muy hábiles artísiticamente y adaptados socialmente (43:7.4)
+	creados por agentes de los Ancianos de los Días y los Espíritus Reeflectantes (37:9.12)
+	están en los registros de las personalidades (30:1.44) (30:2.122)
+	ciudadanos residentes de Uversa (37:9.12)
+	supervisados por los mortales fusionados con el Hijo (37:9.12)
+
+Abel | (76:2sec) | | PERSONA | 
+	primer hijo de Adán nacido en el segundo jardín; pastor (76:2.1,4)
+	grandemente influido por su entorno desfavorable (76:2.6)
+	se mofaba de su hermano mayor Caín; asesinado por él (76:2.2-5)
+
+Abila | (138:9.3) (144:7.1) (159:4.1) | | LUGAR | 
+Jesús predicó en este lugar
+
 capacidad | | | | OK
 La capacidad para un ministerio celestial superior no implica necesariamente la capacidad para funcionar en niveles inferiores (39:0.10).
 las capacidades inherentes no se pueden exceder (48:7.5)
@@ -163,7 +195,7 @@ Persona absoluta | | Ver Hijo Eterno | PERSONA |
 
 Trinidad Absoluta | | Ver Trinidad Absoluta | PERSONA |
 
-Absolutos | | Ver Absoluto, el | ORDEN | 
+Absolutos | | Ver El Absoluto | ORDEN | 
 de actualidad
 	compuesto de Hijo, Espíritu y Paraíso (104:5.2) (115:3.14)
 	los existentes del cosmos se centran en (115:3.14)
@@ -413,7 +445,7 @@ y Eva
 	supervivencia de (76:6)
 	enseñó agricultura (68:5.9)
 	enseñanzas sobre Adán y Eva
-		creer en su pecado, hombre maldito | Ver la doctrina del pecado original
+		creer en su pecado, hombre maldito | Ver doctrina del pecado original
 		Los judíos buscaron rastrear el origen hasta (78:7.3)
 		leyendas confundidas con hechos del personal del Príncipe (66:2.8)
 		La doctrina de Pablo de Cristo como segundo Adán (140:8.24)
@@ -450,13 +482,13 @@ Dispensación adánica | | Ver épocas planetarias | |
 
 Hijos Adánicos | | Ver Hijos Materiales de Dios | ORDEN | 
 
-Adamitas | | Ver razas | RAZA | 
+adamitas | | Ver razas | RAZA | 
 después de Adán (78)
 intentó divorciar lo matemático de lo volitivo (103:6.10)
 capacidad inherente aumentada en sangre de las razas (81:5.1)
 Los cambios climáticos desviaron la migración temprana a Europa (81:1.1-3)
 distribución alrededor del año 15.000 a.C. (78:3.5-9)
-temprano, nombrado | Ver Abel; Adanson; Caín; Enoc; Enós; Evason; Jansad; Cainán; Sansa; Set (hijo de Adán y Eva)
+temprano, nombrado | Ver Abel; Adanson; Caín; Enoc; Enós; Evason; Jansad; Cainán; Set (hijo de Adán y Eva); Sansa
 entrar en Europa (80:1)
 Exterminó las cepas de Neandertal en la raza azul (80:1.7)
 favorecieron las razas azules de Europa, que absorbieron una mayor parte de (64:6.21) (80:1.5-8)
@@ -468,7 +500,7 @@ en el jardín
 	elegible para el matrimonio a los 20 (74:6.8)
 	heroico, en el segundo jardín (76:3.8) (78:2)
 	los niños de raza mixta regresaron a un padre evolutivo (51:5.5)
-mestizaje con Adamitas inmediatamente sube las razas (52:3.6)
+mestizaje con adamitas inmediatamente sube las razas (52:3.6)
 la longevidad gravitaba hacia la norma con cada generación (76:4.3)
 Moisés líder del remanente sumergido de (45:4.14)
 nación de 4,5 millones en 19.000 a.C. (78:2.5)
@@ -506,7 +538,7 @@ cultivó trigo y cebada (81:1.7)
 vivió 396 años (77:5.7)
 supervivencia de las tradiciones sobre Adanson en Grecia (98:1.1)
 
-Adansonitas | | | RAZA | OK
+adansonitas | | | RAZA | OK
 los adansonitas fueron los descubridores del bronce (81:3.5)
 la sede adansonita se encontraba al este de la costa meridional del Mar Caspio, cerca de los montes Kopet (78:1.3)
 los adansonitas, liderados por Sato, un descendiente directo de Adansón y Ratta, se instalaron en Grecia en el 10.000 a.C., y formaron los antepasados de los griegos (80:7.3-4)
@@ -739,7 +771,7 @@ asesinó a los nabot para obtener su tierra (97:3.6) (97:9.19)
 Esposa fenicia de Acab papeles falsificados (97:9.19)
 resistió a Salmanasar en Karkar (97:9.18)
 
-Ahura-Mazda | | Ver Zoroastrismo | PERSONA | OK
+Ahura-Mazda | | Ver zoroastrismo | PERSONA | OK
 es el dios a la cabeza de la constelación de los siete dioses de Zoroastro (95:6.2)
 el dios Sol Invictus fue una degeneración de Ahura-Mazda (98:5.3)
 
@@ -812,7 +844,7 @@ Jesús es (128:1.10)
 Alfeo | | | PERSONA | OK
 Alfeo es el padre de los apóstoles Jacobo y Judas Alfeo (138:4.1)
 
-Gemelos Alfeo | (143:3.5) | Ver apóstoles de Jesús | PERSONA | 
+gemelos Alfeo | (143:3.5) | Ver apóstoles de Jesús | PERSONA | 
 dormido junto al fuego (140:6.14)
 asignado para manejar las multitudes (138:10.8) (141:3.2)
 en las apariciones de Jesús (191:2.5) (192:1-4) (193:0.3,5)
@@ -829,7 +861,7 @@ Jacobo Alfeo
 Las amonestaciones de Jesús a (174:0.2) (181:2.19) (192:2.13)
 Jesús dijo que trabajara como para Dios (192:2.13)
 Judas Alfeo
-	pescador de Jeresa, seleccionado por John Zebedee (138:2.7)
+	pescador de Jeresa, seleccionado por Juan Zebedeo (138:2.7)
 	casado y con 2 hijos; también llamado Lebeo (139:9.1,5)
 	preguntas de (139:9.10) (180:4.4-6)
 madre María, padre Alfeo (138:4.1) (189:4.4) (190:3.1)
@@ -884,7 +916,7 @@ permaneció en Urantia 150.000 años después de la rebelión, hasta la llegada 
 traducido a Jerusem 7 años después de la llegada de Adán (67:6.8) (74:5.2)
 dio la bienvenida a Adán (74:2.1,5)
 
-Amadonitas | | | RAZA | 
+amadonitas | | | RAZA | 
 55 traducido a Jerusem; el resto se quedó (67:6.3)
 144 andonitas leales, incluido Amadón (67:6.3) (67:8.4)
 descendientes de andonitas que permanecieron leales a Van y Amadón; término más cultural que racial (73:1)
@@ -952,10 +984,10 @@ Amerindios | | Ver raza roja | RAZA |
 
 Buda Amida | | Ver budismo:tipos | | 
 
-Amidista | | Ver el Buda Amida | | 
+Amidista | | Ver Buda Amida | | 
 creyente en el Buda Amida (94:12.3)
 
-Ammonitas | | | RAZA | OK
+ammonitas | | | RAZA | OK
 El rey David impuso un gran tributo a este pueblo (97:9.14)
 Saúl derrotó a los ammonitas cuando éstos quisieron atacar a los galaaditas. La victoria fue luego ensalzada y dio lugar a la pretenciosa historia hebrea (97:9.3-5)
 
@@ -991,6 +1023,8 @@ amenazó con que Dios abandonaría a Israel a menos que se restableciera la just
 
 Amosad | | | PERSONA | OK
 Amosad fue un líder que hacia el 15.000 a.C. logró una regeneración del decadente clero setita, renacimiento que logró la supervivencia de esa fe más tiempo que ninguna otra (78:5.1) (92:5.9)
+
+anfibios | (59:5.5) | | | 
 
 anfiteatro | | | | 
 en el lago Urmia (134:3.1)
@@ -1030,7 +1064,7 @@ lamentablemente persiste en China, Japón e India (92:6.20)
 el ritual se convirtió en una pseudo sesión espiritual; aparecieron fantasmas (70:7.15)
 la veneración solar se convirtió en una especie de (95:2.7)
 
-Ancianos de los Días | (15:0.2) (15:2.8) (15:10.3) (18:3) | Ver Ancianos de los Días de Uversa. | ORDEN | 
+Ancianos de los Días | (15:0.2) (15:2.8) (15:10.3) (18:3) | Ver Ancianos de los Días de Uversa | ORDEN | 
 Denominación semita de la Deidad (96:1.9)
 segundo nivel de Dios Séptuple (55:4.13) (56:5.3) (116:2.6)
 3 gobiernan cada superuniverso (15:0.2) (15:2.8) (15:10.3) (18:3.3,5)
@@ -1094,11 +1128,11 @@ pocos fallos que adjudiquen la rebelión de Lucifer (46:8.1) (67:4.7)
 
 Cordillera de los Andes | (59:5.18) (60:2.6) (60:3.4) | | LUGAR | 
 
-Anditas | (78; 80) | Ver arios; Razas | RAZA | 
+anditas | (78; 80) | Ver arios; razas | RAZA | 
 antepasados ​​de las razas nórdicas (80:4.5) (80:9.2)
-la aridez obligó a Anditas a adoptar nuevos métodos (81:6.4)
+la aridez obligó a los anditas a adoptar nuevos métodos (81:6.4)
 creía que los fantasmas regresaban a las tierras ancestrales (86:4.8)
-mejor estirpe humano desde Adamitas; capaz, agresivo; conquistadores militares (78:4.3-6) (80:4.3)
+mejor estirpe humano desde adamitas; capaz, agresivo; conquistadores militares (78:4.3-6) (80:4.3)
 contribuyó con humor, arte, aventura, disposiciones errantes, imaginación, romance, cortejo, música y manufactura (78:4.5-6) ​​(78:5.8) (80:5.7) (81:3.8) (83:2.5)
 peligro en la inquietud, la curiosidad, la aventura y el abandono del placer característico de (84:8.4)
 animales domesticados (81:2.11-12)
@@ -1108,8 +1142,8 @@ intentó por primera vez divorciar lo matemático de lo volitivo (103:6.10)
 homogeneidad referida como causoide o pre-aria (78:4.4)
 dominación determinada por el caballo de (80:2.8) (80:4.4)
 poco contacto con la raza roja (79:5.7)
-migraciones de Anditas (79; 80) (78:5-6ss)
-	132 Anditas de ascendencia japonesa de gobernantes incas (78:5.7) (79:5.9)
+migraciones de los anditas (79; 80) (78:5-6ss)
+	132 anditas de ascendencia japonesa de gobernantes incas (78:5.7) (79:5.9)
 	a lo largo del Nilo (80:6)
 	mejores cepas cerca de las bocas de Tigris, Éufrates (78:6.6) (78:8.1)
 	Conquistadores dravidianos y arios de la India; sumergido (78:5.6) (79:5.1) (94:1.1)
@@ -1123,7 +1157,7 @@ migraciones de Anditas (79; 80) (78:5-6ss)
 	Los sumerios fueron los últimos (78:8.1)
 mezclado con razas azules y saharauis (80:8.1) (80:9.8)
 los jóvenes más imaginativos y aventureros requieren más entrenamiento y disciplina (84:7.21)
-nombrada | Ver Amosad; Gengis Kan; Imhotep; Thor
+nombrada | Ver Amosad; Gengis Kan; Imhotep; Thor (dios)
 origen
 	1/8 a 1/6 de sangre adánica (78:4.1)
 	absorbió lo mejor del hombre azul y exterminó sin piedad
@@ -1169,14 +1203,14 @@ supervivencia de (63:7)
 dar la bienvenida a los peregrinos en el primer mundo de las mansiones (63:7.3)
 elaboró ​​un lenguaje mejorado de señas y palabras (62:5.7)
 
-Andonitas | (63:4) | Ver mortales:mortales primitivos | RAZA | 
+andonitas | (63:4) | Ver mortales:mortales primitivos | RAZA | 
 mejores cepas de primates asimiladas por (65:3.4)
 El idioma hebreo era claramente andonita (80:8.2)
 Los hititas provienen directamente de (80:8.2)
 incorporado en las razas azul y blanca (80:0.2) (80:3.2) (80:9.2)
 migraciones
-	La aridez llevó a Andonitas a Turquestán, Europa en 3000 a.C. (80:9.6)
-	Anditas diluidos en Asia central (79:1.7)
+	La aridez llevó a los andonitas a Turquestán, Europa en 3000 a.C. (80:9.6)
+	Los anditas diluidos en Asia central (79:1.7)
 	dispersado después de 20 generaciones (63:3.6) (63:5)
 	conducido desde Europa por la raza azul, desde Asia por la raza amarilla (78:1.5) (79:6.1)
 	entró en Europa desde Siberia; absorbido por los anditas (80:4.2)
@@ -1191,10 +1225,10 @@ migraciones
 	asentamientos después de Adán (78:1.5)
 	a Islandia, Groenlandia (64:7.18)
 	A. más occidental casi arrojado al mar (64:7.17)
-nombrada | Ver Amadón; Andón y Fonta; Badonán; Onagar; Familia Sangik; Sontad
-Onagar fue el maestro de la verdad para Andonitas (63:6)
+nombrada | Ver Amadón; Andón y Fonta; Badonán; Onagar; familia Sangik; Sontad
+Onagar fue el maestro de la verdad para los andonitas (63:6)
 características físicas (63:4.1)
-	Los danubianos eran Andonitas (80:8.4-5)
+	Los danubianos eran andonitas (80:8.4-5)
 	tenía 36 dientes (65:6.5)
 	Lapones y esquimales más cercanos al tipo andónico aborigen (61:6.3) (63:4.1) (65:2.7) (70:1.2) (81:4.9)
 	no tan sensible al dolor (63:4.2)
@@ -1227,7 +1261,7 @@ practicas
 	lenguaje bien desarrollado (63:4.6)
 	no viviría con habitantes de árboles inferiores (64:1.1-2)
 retrocedió durante 500.000 años después de Andón (63:5.7) (63:6.1)
-inusual que Andonitas evolucionó antes que las razas de color (64:6.2)
+inusual que los andonitas evolucionaran antes que las razas de color (64:6.2)
 
 Andovontia | | Ver Supervisores de los Circuitos Universales | PERSONA | OK
 Es el Supervisor terciario de los Circuitos Universales estacionado en nuestro universo local. Él es quien puso en cuarentena a Urantia tras la traición de Caligastia (37:8.3)
@@ -1330,7 +1364,7 @@ ira de Dios
 
 angiospermas | (61:2.2) (60:3.7,19) | | | 
 
-Anglosajones | | | RAZA | 
+anglosajones | | | RAZA | 
 descendientes de las razas andita y azul (80:4.5)
 
 Angona (sistema) | | | LUGAR | 
@@ -1386,7 +1420,7 @@ sacrificatorio | Ver sacrificio:sacrificio de animales
 spornagia utiliza a. en cultivo de suelo (46:7.2)
 aparición repentina de tierra (59:5.5)
 miles de especies marinas perecieron en el Pérmico (59:6.2)
-tipos nombrados | Ver caimanes; amonitas; anfibios; osos hormigueros; antílopes; simios; armadillos; artrópodos; babuinos; acial; murciélagos; osos; castores; aves; bisonte; braquiópodos; toros; mariposas; buitres; camellos; palomas mensajeras; orugas; gatos; vacas; ciempiés; chimpancés; almejas; cucarachas; mapaches; coral; coyotes; cangrejos; grillos; crinoideos; cocodrilos; crustáceos; calamar; mamíferos precursores; ciervo; dinosaurios; perros; delfines; burros; palomas; moscas dragón; simulacros patos águilas; lombrices de tierra; equinodermos; elefantes; halcones; pez; flamencos; foraminíferos; zorros; ranas; gasterópodos; gibones; jirafas; mosquitos; cabras; topos; gorilas; gaviotas; garzas; hipopótamos; caballos; hienas; Medusa; canguros; corderos; sanguijuelas; lémures; leones; lagartos; llamas; langostas; langostas; mamíferos; mamuts; vida marina; martas; mastadons; ratones; mamíferos intermedios; moluscos; monos; bueyes almizcleros; pulpos; zarigüeyas; avestruces; búhos; bueyes; ostras; panteras; loros; aves pasajeras; nautilo; pecaríes; bígaros; palomas; marsopas; aves de corral; Primates; Protozoos; pterosaurios; codorniz; conejos; mapaches; cuervos; reno; reptiles; rinocerontes; roedores; rumiantes; tigres de dientes de sable; salamandras; vieiras; escorpiones; pepinos de mar; Leones marinos; serpientes marinas; chorros de mar; erizos de mar; gusanos de mar; focas; tiburones; oveja; camarones; simios; perezosos; Caracoles; serpientes; gorriones; arañas; esponjas calamar; ardillas; estrella de mar; esturión; cerdo; renacuajos; tapires; tigres; trilobites; tortugas; víboras; cerdos de agua; serpientes de agua; comadrejas; ballenas; Lobos; yaks
+tipos nombrados | Ver caimanes; amonitas; anfibios; osos hormigueros; antílopes; simios; armadillos; artrópodos; babuinos; percebes; murciélagos; osos; castores; aves; bisonte; braquiópodos; toros; mariposas; buitres; camellos; palomas mensajeras; orugas; gatos; vacas; ciempiés; chimpancés; almejas; cucarachas; mapaches; coral; coyotes; cangrejos; grillos; crinoideos; cocodrilos; crustáceos; calamar; mamíferos precursores; ciervo; dinosaurios; perros; delfines; burros; palomas; libélulas; perforadores (gasterópodos); patos; águilas; lombrices de tierra; equinodermos; elefantes; halcones; pez; flamencos; foraminíferos; zorros; ranas; gasterópodos; gibones; jirafas; mosquitos; cabras; topos; gorilas; gaviotas; garzas; hipopótamos; caballos; hienas; medusas; canguros; corderos; sanguijuelas; lémures; leones; lagartos; llamas; langostas; langostas; mamíferos; mamuts; vida marina; martas; mastadons; ratones; mamíferos intermedios; moluscos; monos; bueyes almizcleros; pulpos; zarigüeyas; avestruces; búhos; bueyes; ostras; panteras; loros; aves pasajeras; nautilo; pecaríes; bígaros; palomas; marsopas; aves de corral; Primates; Protozoos; pterosaurios; codorniz; conejos; mapaches; cuervos; reno; reptiles; rinocerontes; roedores; rumiantes; tigres de dientes de sable; salamandras; vieiras; escorpiones; pepinos de mar; Leones marinos; serpientes marinas; chorros de mar; erizos de mar; gusanos de mar; focas; tiburones; oveja; camarones; simios; perezosos; Caracoles; serpientes; gorriones; arañas; esponjas calamar; ardillas; estrella de mar; esturión; cerdo; renacuajos; tapires; tigres; trilobites; tortugas; víboras; cerdos de agua; serpientes de agua; comadrejas; ballenas; Lobos; yaks
 utilización de a. (69:7)
 vertebrados
 	los crustáceos eran antepasados ​​de los primeros vertebrados (59:4.10)
@@ -1406,7 +1440,7 @@ poetisa en la presentación de Jesús (122:9.2-27)
 Annán | | | PERSONA | 
 leal hija nodita (74:2.5)
 
-Anás | (190:3.3) | Ver Sanedrín | PERSONA | 
+Anás | (190:3.3) | Ver sanedrín | PERSONA | 
 mayordomo principal de Anás golpeó a Jesús en la cara (184:1.6) (186:2.5)
 depuesto como sumo sacerdote en el año 13 d.C. (129:1.5)
 pariente lejano de Salomé (142:0.2) (184:0.3)
@@ -1439,6 +1473,15 @@ Vastas capas de hielo comenzaron a formarse hace 100.000 años (61:7.11)
 
 Antares | | | LUGAR | 
 la estrella más grande del universo local (41:3.2)
+
+osos hormigueros | (61:4.4) | | | 
+
+causación ancedente | | Ver causación | | 
+
+antílopes | (61:4.3) | | | 
+
+antracita | | | | 
+	sujeta a más presión y calor que otros carbones (59:5.16)
 
 antropomorfismo | | | | 
 logro más elevado de la religión puramente evolutiva (5:4.9)
@@ -1589,7 +1632,7 @@ Matías elegido para tomar el lugar de Judas (192:0.2)
 ministerio a los enfermos (141:4.4)
 de mentalidad milagrosa (152:1.2)
 la mayoría casados, algunos tuvieron varios hijos (138:9.3)
-nombrada | Ver gemelos Alfeo; Andrés; Santiago Zebedee; John Zebedee; Judas Iscariote; Matthew Levi; Matthias; Natanael (apóstol); Pablo; Felipe (apóstol); Simón Pedro; Simón Zelotes; Tomás Didymus
+nombrada | Ver gemelos Alfeo; Andrés; Santiago Zebedeo; Juan Zebedeo; Judas Iscariote; Mateo Leví; Matías; Natanael (apóstol); Pablo; Felipe (apóstol); Simón Pedro; Simón Zelotes; Tomás Dídimo
 Natanael cuidaba de las familias de los apóstoles de Jesús (139:6.7)
 nunca solicitó abiertamente fondos a la multitud (139:7.8)
 no iguales por la escolarización (139:0.3-4)
@@ -1658,7 +1701,7 @@ tribus de Arabia invadieron Egipto (80:6.5)
 mar de Arabia | | | LUGAR | 
 Envío de Dravidian en A.S. en el 7000 a.C. (79:3.7)
 
-Árabes | | Ver Arabia; Beduinos | RAZA | 
+árabes | | Ver Arabia; beduinos | RAZA | 
 ceremonia de adopción antigua (70:3.8)
 descendientes de razas azul, amarilla y adamita (64:7.11)
 pueblos pastores más recientes (68:5.6)
@@ -1836,6 +1879,8 @@ cofre con escrituras sagradas en la sinagoga (150:8.6,8)
 El rey David ganó el arca después de la derrota de los filisteos (97:9.14)
 Moisés consintió en poner reliquias junto a la ley en (88:2.5)
 
+armadillos | (61:4.3-4) (61:7.15) | | | 
+
 Armagedón | | | LUGAR | 
 sede de la raza naranja (64:6.12)
 
@@ -1845,7 +1890,7 @@ Andrés proclamó el evangelio en (139:1.12)
 Aroer | (165:0.1) | | LUGAR | 
 Una de las poblaciones recorridas en la misisón de Perea
 
-Arte | | Ver belleza; escultura | | 
+arte | | Ver belleza; escultura | | 
 los ángeles disfrutan de nuestro real a. (38:2.1)
 encanto de a. consiste en la armonía de su unidad (2:7.8)
 civilización en peligro cuando los jóvenes la descuidan (111:4.4)
@@ -1880,10 +1925,14 @@ Filosofía de Rodan (160:2)
 Artemisa | | | PERSONA | 
 perpetuación de la diosa de la fertilidad; templo en Éfeso (133:6.1)
 
+artrópodos | | Ver crustáceos | | 
+
+artificialidad | | Ver insinceridad | | 
+
 artistas del olor | | | ORDEN | 
 Diseñadores y los Embellecedores de Artesanos Celestiales (44:6.6)
 
-Arios | | Ver Anditas | RAZA | 
+arios | | Ver anditas | RAZA | 
 33 deidades (94:1.2-3)
 Conquistadores védicos anditas de la India ca. 2500 a.C.; de Turquestán (78:5.6) (79:4) (94:1.1)
 	poca impresión racial excepto en el norte de India (79:2.2) (79:4.3)
@@ -1891,7 +1940,7 @@ Conquistadores védicos anditas de la India ca. 2500 a.C.; de Turquestán (78:5.
 	usó el sistema de castas para salvar la identidad racial (79:4.5,6,9) (94:2.1-2)
 Los anditas eran pre-arios (78:4.4)
 Invasores helénicos de Grecia; destruyó las enseñanzas de Salem (98:1.2)
-el idioma de Arios dio similitud a las lenguas occidentales (78:5.3)
+el idioma de los arios dio similitud a las lenguas occidentales (78:5.3)
 migración a Levante e India (78:6.3) (79:1.6)
 semidemocrático (79:4.5)
 El idioma sumerio tenía mucho en común con el ario (77:4.7)
