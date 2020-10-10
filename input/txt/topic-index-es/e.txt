@@ -50,7 +50,7 @@ todavía promedian 15 diarios (57:8.15)
 
 lombrices de tierra | (65:2.5) | | | 
 
-facilitar | | Ver holgazanería; indolencia; ocio; relajación | | 
+facilidad | | Ver ociosidad; indolencia; ocio; relajación | | 
 aceptar la guía seráfica rara vez significa la vida de (113:4.3)
 los hombres no progresan en un entorno de (154:2.5)
 buscando e. es el rasgo animal que la carrera morontial erradica (48:5.8)
@@ -98,20 +98,20 @@ genuino e. generalmente asociado con la calma exterior (91:7.3)
 a menudo consecuencia de influencias puramente emocionales (91:7.3-4)
 validaciones prácticas (91:7.5-12)
 
-Edén (jardín) | | Ver el jardín del Edén | LUGAR | 
+Edén (jardín) | | Ver jardín del Edén | LUGAR | 
 
 Liga edénica | | | | 
 Federación de Adán en el Jardín (74:5.5)
 
 Enseñanzas edénicas | | Ver Jardín del Edén:enseñanzas | | 
 
-edenitas | | Ver el jardín del Edén | RAZA | 
+edenitas | | Ver jardín del Edén | RAZA | 
 
 Edentia | (43:1) | Ver constelaciones; Altísimos de Norlatiadek | LUGAR | 
 después de la rebelión de Satania, los archirrebeldes continuaron asistiendo a los cónclaves el (43:4.7)
 construcción (32:2.3)
 descripción
-	10 centros de poder supremo, 10 controladores maquinales y 10 frandalanks en (41:1.4)
+	10 Centros Supremos del Poder, 10 controladores maquinales y 10 frandalanks en (41:1.4)
 	70 satélites principales tienen 10 veces el tamaño de Urantia; 700 sub-satélites son del tamaño de Urantia (43:0.2) (43:7.1,3)
 	la vida animal de Edentia es inteligente y útil; no carnívoro (43:6.5)
 	E. es 100 veces más grande que Urantia (43:0.2)
@@ -274,7 +274,7 @@ en el nivel cultural más bajo hace 15.000 años (80:1.3)
 Niño Jesús llevado a (122:10.4) (123:0.3,6)
 sistemas de castas basados ​​en el color (70:8.11)
 cultura derivada de la región del Éufrates (80:6.2) (80:7.5)
-Egipcios nombrados | Ver Amenemope; Amenjótep III; Esraeon; Akenatón; Moisés; Okhbán; Philo
+Egipcios nombrados | Ver Amenemope; Amenjótep III; Esraeon; Akenatón; Moisés; Okhbán; Filón de Alejandría
 crecimiento del comercio (81:3.1)
 en 15.000 a.C. (78:3.6)
 influencia en el judaísmo (97:8.2)
@@ -342,7 +342,7 @@ no es una energía básica del espacio (41:1.2)
 lo mismo que la luz, el calor, el magnetismo, la química, la energía y la materia (42:4.1-2)
 la ciencia nunca puede decir qué e. en realidad es (133:5.4)
 
-electrones | (42:3.5) | Ver átomo; importar | | 
+electrón | (42:3.5) | Ver átomo; materia | | 
 10 formas modificadas causadas por pérdidas de ultimatones (42:6.5)
 100 ultimatones en cada electrón (42:3.3) (42:4.6) (42:6.4-5)
 roto a 35,000,000 ° F; fuente de energía solar (41:7.4,12,13)
@@ -489,7 +489,8 @@ hogar de Cleofás y Jacob; La séptima aparición de Jesús en (190:5.1)
 
 diseñadores de las emociones | | | ORDEN | 
 Diseñadores y los Embellecedores de Artesanos Celestiales (44:6.5)
-emociones | Ver sentimiento
+
+emociones | | Ver sentimiento | | 
 despertar e. en acercamiento a la adoración (167:6.6)
 no apele a e. en la proclamación del evangelio (152:6.3) (159:3.2) (160:3.1)
 la vida de los sueños testifica la presión de lo inexpresado (110:5.4)
@@ -506,7 +507,7 @@ los sentimientos materiales conducen directamente a actos materiales egoístas (
 los mamíferos intermedios mostraron miedo, disgusto, superstición (62:3.6,9)
 no es equivalente a la conducción espiritual (159:3.6)
 del hombre primitivo (62:5.4-6)
-emociones particulares | Ver aventura; afectación; afecto; enfado; ansiedad; garantía; culpa; aburrimiento; inquietante hermandad (actitud); certeza; caridad; quejumbroso; confusión; contención; valor; cortesía; cobardía; curiosidad; derrota; depresión; desesperación; decepción; desánimo; ánimo; entusiasmo; envidia; equívoco; honor; esperanzas; hipocresía; histeria; inmadurez; impaciencia; indolencia; inferioridad; inseguridad; insubordinación; intolerancia; aislamiento; celos; alegría; amabilidad; longanimidad; soledad; amor; lealtad; lujuria; mansedumbre; moderación; modestia; parálisis; paciencia; persistencia; pesimismo; piedad; equilibrio; orgullo; dilación; propiedad; imprudencia; resentimiento; venganza; ridículo; auto-humillación; auto confianza; autoengaño; abnegación; autogratificación; importancia personal; autocompasión; respeto a ti mismo; egoísmo; vergüenza; dolor; sospecha; simpatía; sensibilidad; tolerancia; infelicidad; vanidad; celo
+emociones particulares | Ver aventura; afectación; afecto; enfado; ansiedad; seguridad; culpa; aburrimiento; cavilaciones; hermandad (actitud); certeza; caridad; quejumbroso; confusión; contención; valor; cortesía; cobardía; curiosidad; derrota; depresión; desesperación; decepción; desánimo; ánimo; entusiasmo; envidia; equívoco; honor; esperanzas; hipocresía; histeria; inmadurez; impaciencia; indolencia; inferioridad; inseguridad; insubordinación; intolerancia; aislamiento; celos; alegría; amabilidad; longanimidad; soledad; amor; lealtad; lujuria; mansedumbre; moderación; modestia; parálisis; paciencia; persistencia; pesimismo; piedad; equilibrio; orgullo; dilación; propiedad; imprudencia; resentimiento; venganza; ridículo; auto-humillación; autoconfianza; autoengaño; abnegación; autogratificación; importancia personal; autocompasión; respeto por uno mismo; egoísmo; vergüenza; dolor; sospecha; simpatía; sensibilidad; tolerancia; infelicidad; vanidad; celo
 la reducción del rendimiento de la tierra o el aumento de la población hacen que afloren los peores rasgos de la naturaleza humana (68:6.4)
 
 adoración al emperador | | Ver Imperio Romano | | 
@@ -572,14 +573,14 @@ el sabio es amistoso entre (131:3.6)
 el Enemigo | | Ver Caligastia; diablo; Lucifer | PERSONA | 
 buscaría alejar a los apóstoles (138:7.3)
 
-energía | (42:2) | Ver luz; energía material; importar | | 
+energía | (42:2) | Ver luz; energía material; materia | | 
 circuitos de energia
 	Los carriles de comunicación son circuitos directos entre centros de poder o controladores físicos (29:2.16) (44:4.10)
 	localizado e. movimientos, como Gulf Stream (29:2.15)
 	nunca posesiones permanentes de ascendentes (117:5.7-8)
 	del superuniverso requieren 968 millones de años para completar el circuito (15:8.2)
 	solo los soles en canales directos brillarán para siempre (41:7.14)
-	los soles se transforman y envían e. de los circuitos espaciales (15:6.9) | Ver Directores Universales de Poder:trabajo
+	los soles se transforman y envían e. de los circuitos espaciales (15:6.9) | Ver Directores del Poder Universal:trabajo
 	superuniverso e. circuitos (15:9.10)
 	transportar Serafines viajar a lo largo e. circuitos (39:5.14)
 definición
@@ -601,7 +602,7 @@ manipulación de energía por agencias celestes
 	El Espíritu Infinito coordina todo e.; puede ralentizar e. a la materialización (9:0.2) (9:3.4)
 	controlado inteligentemente por agentes del Espíritu Infinito (24:1.1) (104:4.13) (106:2.3)
 	la vida tiene una capacidad inherente para la transmutación de e. (41:2.5)
-	directores de poder por su presencia causa e. segmentar o ensamblar en materia (15:8.4) (42:1.5) (42:2.22) | Ver Directores Universales de Poder
+	directores de poder por su presencia causa e. segmentar o ensamblar en materia (15:8.4) (42:1.5) (42:2.22) | Ver Directores del Poder Universal
 	los directores de poder mantienen el equilibrio entre e. y materia (15:8.4)
 	reguladores enumerados (29:0.1)
 	liberado del Absoluto Incalificado según las necesidades de las Deidades experienciales (104:4.27)
@@ -628,8 +629,8 @@ energía física
 	cada universo local tiene el mismo e. carga (15:4.6)
 	energía-materia es lo que responde al circuito de gravedad material del Paraíso (0:6.1)
 	evidencia la estabilidad del Paraíso (12:8.3)
-	factores que impiden que la gravedad convierta todo e. importar (15:8.5-6)
-	fórmula que equipara e. importar (42:4.11)
+	factores que impiden que la gravedad convierta todo e. material (15:8.5-6)
+	fórmula que equipara e. materia (42:4.11)
 	emitidos cuando los electrones pasan a e. órbitas (42:5.6)
 	tiene un peso relativo, dependiendo de la velocidad, masa y antigravedad revolucionarias (15:8.3)
 	el calor y la antigravedad se disipan e. (15:8.10)
@@ -721,7 +722,7 @@ escudos de energía | | Ver escudos de fricción | |
 transformadores de energía | | Ver Controladores Físicos Maestros; Directores del Poder Universal | ORDEN | 
 1 millón en Satania; 100 por mundo habitado (29:4.36)
 habilitado
-	apóstoles para ver la transfiguración (158:1.8)
+	apóstoles para ver transfiguración (158:1.8)
 	humanos para ver Príncipes Planetarios (50:2.7)
 	los humanos para ver a Jesús resucitado (189:4.11) (191:3.2)
 	humanos para ver Serafines (38:2.1)
@@ -785,14 +786,14 @@ hijo de Caín y Remona, cabeza de los noditas elamitas (76:2.9)
 Enós | | | PERSONA | 
 hijo de Set, fundó un nuevo orden de adoración (76:3.4)
 
-Ensa | | Ver sectores menores; Umenor el tercero | LUGAR | 
+Ensa | | Ver sectores menores; Umenor la tercera | LUGAR | 
 tiene 7 satélites (15:7.8)
 sector menor 3 en el sector mayor de Splandon (15:14.7) (18:5.5)
 nuestro sector menor (29:4.18)
 gira alrededor de la nube de estrellas de Sagitario (15:3.5-11)
 Umenor la tercera es capital de (15:7.8)
 
-enseconafinación | | Ver transporte seráfico, secoráfico y superáfico. | | 
+enseconafinación | | Ver transporte seráfico, secoráfico y superáfico | | 
 para un vuelo largo a Havona (112:7.5)
 
 enserafinación | | Ver transporte seráfico, secoráfico y superáfico | | 
@@ -870,7 +871,7 @@ alterado por el discípulo de Pablo (139:2.12)
 
 ángeles de la época | | Ver Serafines:tipos:Serafines maestros de supervisión planetaria | ORDEN | 
 
-revelación de época | | Ver la revelación | | 
+revelación de época | | Ver revelación | | 
 
 épocas | | Ver épocas planetarias | | 
 
@@ -894,7 +895,7 @@ Erec | | | LUGAR |
 Ciudad estado de Mesopotamia (78:8.9-10)
 cerca de la casa de Noé de Aram (78:7.5)
 
-error | | Ver maldad; iniquidad; errores pecado | | 
+error | | Ver maldad; iniquidad; errores; pecado | | 
 capacidad para entretener e. perdido en los niveles de burbuja finales (132:2.6)
 El defecto de Adán y Eva fue el error, no la rebelión (76:5.1)
 Causa dolor porque no se puede realizar (2:7.6)
@@ -950,7 +951,7 @@ matrimonio con Santiago, hermano de Jesús (128:5.7) (128:7.10-11)
 Ester | (150:3.1) | | PERSONA | 
 Purim es la fiesta de (123:3.5)
 
-vida eterna | | Ver muerte; fusión; cielo; juicio; vida; no supervivientes; Resurrección; salvación; supervivencia | | 
+vida eterna | | Ver muerte; fusión; cielo; juicio; vida; no supervivientes; resurrección; salvación; supervivencia (de la muerte mortal) | | 
 de acuerdo a
 	budismo (131:3.7)
 	Confucianismo (131:9.4)
@@ -1176,7 +1177,7 @@ la esclavitud sexual contaminó la aptitud biológica de los pueblos superiores 
 
 eunucos | | Ver castración | | 
 
-Río Éufrates | | Ver Mesopotamia | LUGAR | 
+río Éufrates | | Ver Mesopotamia | LUGAR | 
 y Tigris fueron la cuna de las civilizaciones indias occidentales (78:1.3)
 la sequía llevó a los anditas a los valles de (79:1.3) (80:1.1)
 segundo jardín contiguo (76:0.1) (76:1.1-3) (76:3.8) (76:4.8)
@@ -1189,7 +1190,7 @@ Adanitas, anditas entraron (77:5.10) (78:3.2,5) (78:6.2) (80:1.4-5) (80:9.5)
 África una vez conectó Europa con América del Sur (59:5.11)
 la raza azul invadida; expulsó a los andonitas de (64:7.3,8-10) (78:1.5)
 La raza azul era la más aventurera de las razas de colores en Europa (78:1.8)
-edades oscuras de | Ver la edad oscura
+edades oscuras de | Ver edades de tinieblas
 dinosaurios enterrados en (60:2.2)
 la sequía llevó a los andonitas a Europa ca. 2500 a.C. (80:9.6-7)
 naciones siempre en guerra de Europa (134:6.5)
@@ -1209,7 +1210,7 @@ exige la trascendencia de lo evaluado (112:2.12)
 
 evangelización | | Ver evangelio:proclamar | | 
 
-los setenta evangelistas | | Ver discípulos | PERSONA | 
+setenta evangelistas | | Ver discípulos | PERSONA | 
 75 de 117 sobrevivieron a la prueba; 1/3 desiertos (149:7.3) (153:5.2)
 Abner a cargo (163:1.1)
 no tenía todo en común como apóstoles (148:1.3)
@@ -1272,7 +1273,7 @@ evidencia | | Ver certeza | |
 base de la justicia (10:6.3)
 en tribunales dictados por personalidades del Espíritu Infinito (10:6.3-4)
 
-maldad | (130:1.5-6) ​​(132:2) | | Ver error; evolución:principio de evolución; iniquidad; errores malentendidos; rebelión (espiritual); pecado | | 
+maldad | (130:1.5-6) ​​(132:2) | Ver error; evolución:principio de evolución; iniquidad; errores; malentendidos; rebelión (espiritual); pecado | | 
 Los Ajustadores alejan a los mortales conscientes de Dios de (110:1.2)
 casi todos los seres humanos tienen una mascota e. (163:2.7)
 siempre resulta cuando las evaluaciones personales se elevan a absolutos (19:1.4) (100:1.1)
@@ -1353,7 +1354,7 @@ maligno | | Ver Caligastia; diablo; Lucifer | |
 
 Espíritus malignos | | Ver posesión demoníaca | | 
 
-evolución | | Ver plan divino; Progreso | | 
+evolución | | Ver plan divino; progreso | | 
 evolución biológica (65) | Ver genética; vida:biológica
 	2 características únicas en Urantia fueron la aparición de la raza andónica antes que los pueblos de color; aparición en una sola familia (64:6.1-2) (65:4.7)
 	50.000 hechos prueban e. no accidental (58:2.3-5)
@@ -1446,7 +1447,7 @@ evolución social | Ver plan de ascensión; civilización
 
 razas evolutivas | | Ver razas | | 
 
-exaltación del yo | | Ver la importancia personal | | 
+exaltación del yo | | Ver importancia personal | | 
 
 exámenes | | | | 
 por Clasificadores Selectivos (48:2.23)
@@ -1539,7 +1540,7 @@ Instructores de las Facultades Anexas | | | ORDEN |
 en el registro de personalidad de Uversa (30:2.153)
 profesores del siguiente mundo residencial superior (30:3.8)
 
-extinción | | Ver muerte:muerte espiritual; Ejecutores Divinos; iniquidad; juicio:juicio divino; pecado; supervivencia | | 
+extinción | | Ver muerte:muerte espiritual; Ejecutores Divinos; iniquidad; juicio:juicio divino; pecado; supervivencia (de la muerte mortal) | | 
 Ancianos de los Días
 	solo puede decretar e. (2:3.3) (15:12.2) (18:3.7) (20:3.2) (33:2.1)
 	ejecutores de los Ancianos de los Días (2:3.6) (53:3.5)

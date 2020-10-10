@@ -185,7 +185,7 @@ término nunca usado como negación (0:11.16)
 
 Buda Absoluto | | Ver budismo:doctrinas | | 
 
-Deidad Absoluta | | Ver el Absoluto de la Deidad | PERSONA | 
+Deidad Absoluta | | Ver Absoluto de la Deidad | PERSONA | 
 
 nivel absoluto | | Ver realidad:niveles de realidad:realidad absoluta | | 
 
@@ -235,11 +235,11 @@ absolutum | | | |
 sustancia del Paraíso; expresión no espiritual del Padre (11:2.9)
 organización homogénea estacionaria de la potencia espacial que no se encuentra fuera del Paraíso (11:2.9)
 
-nivel absonito | | Ver la realidad:niveles de realidad | | 
+nivel absonito | | Ver realidad:niveles de realidad | | 
 
 absonitos | | Ver trascendentales | ORDEN | 
 
-absonitas | | Ver la realidad:niveles de realidad | | 
+absonitas | | Ver realidad:niveles de realidad | | 
 
 absonidad | | Ver realidad:niveles de realidad | | 
 Seres absonitizados (30:1.114) (31:2.1)
@@ -691,6 +691,16 @@ Los primitivos creían que los nacimientos múltiples eran causados ​​por (6
 mujer tomada en a. (162:3)
 mujer que murió en el parto se cree culpable de (84:4.7)
 
+aventura | | | | 
+Los anditas contribuyeron con el rasgo; fueron aventureros; globo circunnavegado (78:4.6) (78:5.8)
+no te dejes tentar por lo barato y sórdido (195:5.10)
+Dios se ha embarcado en la eterna a. con el hombre (5:1.12)
+amor de a. sugiere que la muerte comienza el descubrimiento eterno (14:5.10)
+personalidades espirituales no dadas a inútiles a. (13:3.3)
+supremo a. es el hombre buscando y encontrando a Dios (1:0.6) (155:5.10)
+
+adversidad | | Ver dificultades; enfermedad; lesión; sufrimiento | | 
+
 Consejo | | | | 
 los seres celestiales nunca ofrecen a. a menos que se le pregunte (33:5.2) (43:4.2) (55:4.16)
 Dar un. solo cuando se le pregunta (48:7.16)
@@ -698,8 +708,24 @@ El consejo de Jesús al rico (132:5)
 Jesús rara vez ofreció a. a menos que se le pregunte (129:1.9) (132:5.2,14)
 El personal del Príncipe nunca envió emisarios excepto a pedido (66:6.5)
 
+consejeros encargados de vencer a los animales de rapiña | | Ver cien de Caligastia | | 
+
 Comisión Consultiva de la Ética y de la Autonomía | | | | 
 Las reservas de Fieles de los Días funcionan como (18:7.1)
+
+estética | | | | 
+El culto estético de la pura maravilla no sustituye a la religión (101:7.5)
+amor por lo bello (56:10.7)
+
+afectación | | | | 
+Jesús libre de (100:7.2)
+ridículo esfuerzo del ignorante por parecer sabio (48:7.17)
+
+afecto | | | | 
+matrimonio duradero nunca fundado en a. solo (84:7.10)
+vínculo espiritual que mantiene unidas a las familias (160:2.4)
+
+aflicción | | Ver dificultades; enfermedad; lesión; sufrimiento | | 
 
 Afganistán | | | LUGAR | OK
 En las regiones montañosas de Afganistán es donde durante más de medio millón de años sobrevivió el más importante centro de la cultura primitiva, fundado por Badonán, un descendiente de los primeros seres humanos (79:0.1)
@@ -836,6 +862,9 @@ Todopoderoso trascendental (el Omnipotente) | | | PERSONA | OK
 Se trata de una manifestación de Dios el Último a los universos del tiempo que se postula que ocurrirá cuando Dios el Último empiece a funcionar como supercontrol de los universos. En ese momento ejercerá el supercontrol del supertiempo y  del espacio trascendido sobre las funciones administrativas del Todopoderoso Supremo (118:2.4)
 
 Todopoderoso Supremo | | Ver El Supremo | | 
+
+áloes
+Jesús embalsamado con áloes (188:1.4)
 
 Alfa y Omega | | | | 
 Dios es el primero y el último (10:7.1)
@@ -1315,7 +1344,7 @@ Nebadon parcialmente ensamblado de (41:0.3)
 nebulosa número 876.926 (57:1.6)
 gira alrededor de la nube de estrellas de Nebadon (15:3.10)
 
-Ang | | Ver los cien de Caligastia | PERSONA | OK
+Ang | | Ver cien de Caligastia | PERSONA | OK
 Ang y tres miembros de su consejo permanecieron leales y no se unieron a la rebelión (67:4.1)
 fue uno de los miembros corpóreos del estado mayor del Príncipe Planetario, que presidía el consejo de la alimentación y el bienestar material, y que enseñó irrigación, peletería y tejeduría a los hombres primitivos (66:5.2)
 
@@ -1323,7 +1352,7 @@ Angamón | | | PERSONA | OK
 Angamón presentó a Jesús a un hombre rico de Roma que fue muy influido por sus enseñanzas (132:5.1)
 Angamón era el líder de la iglesia de los estoicos en Roma. Jesús tuvo una charla con él de la que se nos ofrece un resumen en El Libro de Urantia. Fue un gran amigo de Pablo de Tarso y un seguidor ferviente de la iglesia cristiana en Roma (132:1)
 
-El mundo de los ángeles | | Ver Jerusem:mundos culturales de transición | LUGAR | OK
+mundo de los ángeles | | Ver Jerusem:mundos culturales de transición | LUGAR | OK
 este mundo es el tercer mundo cultural de transición de Jerusem, la capital de Satania (45:1.5)
 al llegar a la tercera mansonia, el tercer satélite del mundo de transición número uno, se concede permiso para sivitar el mundo de los ángeles (47:5.2)
 
@@ -1420,7 +1449,7 @@ sacrificatorio | Ver sacrificio:sacrificio de animales
 spornagia utiliza a. en cultivo de suelo (46:7.2)
 aparición repentina de tierra (59:5.5)
 miles de especies marinas perecieron en el Pérmico (59:6.2)
-tipos nombrados | Ver caimanes; amonitas; anfibios; osos hormigueros; antílopes; simios; armadillos; artrópodos; babuinos; percebes; murciélagos; osos; castores; aves; bisonte; braquiópodos; toros; mariposas; buitres; camellos; palomas mensajeras; orugas; gatos; vacas; ciempiés; chimpancés; almejas; cucarachas; mapaches; coral; coyotes; cangrejos; grillos; crinoideos; cocodrilos; crustáceos; calamar; mamíferos precursores; ciervo; dinosaurios; perros; delfines; burros; palomas; libélulas; perforadores (gasterópodos); patos; águilas; lombrices de tierra; equinodermos; elefantes; halcones; pez; flamencos; foraminíferos; zorros; ranas; gasterópodos; gibones; jirafas; mosquitos; cabras; topos; gorilas; gaviotas; garzas; hipopótamos; caballos; hienas; medusas; canguros; corderos; sanguijuelas; lémures; leones; lagartos; llamas; langostas; langostas; mamíferos; mamuts; vida marina; martas; mastadons; ratones; mamíferos intermedios; moluscos; monos; bueyes almizcleros; pulpos; zarigüeyas; avestruces; búhos; bueyes; ostras; panteras; loros; aves pasajeras; nautilo; pecaríes; bígaros; palomas; marsopas; aves de corral; Primates; Protozoos; pterosaurios; codorniz; conejos; mapaches; cuervos; reno; reptiles; rinocerontes; roedores; rumiantes; tigres de dientes de sable; salamandras; vieiras; escorpiones; pepinos de mar; Leones marinos; serpientes marinas; chorros de mar; erizos de mar; gusanos de mar; focas; tiburones; oveja; camarones; simios; perezosos; Caracoles; serpientes; gorriones; arañas; esponjas calamar; ardillas; estrella de mar; esturión; cerdo; renacuajos; tapires; tigres; trilobites; tortugas; víboras; cerdos de agua; serpientes de agua; comadrejas; ballenas; Lobos; yaks
+tipos nombrados | Ver caimanes; amonitas; anfibios; osos hormigueros; antílopes; simios; armadillos; artrópodos; babuinos; percebes; murciélagos; osos; castores; aves; bisonte; braquiópodos; toros; mariposas; buitres; camellos; palomas mensajeras; orugas; gatos; vacas; ciempiés; chimpancés; almejas; cucarachas; mapaches; coral; coyotes; cangrejos; grillos; crinoideos; cocodrilos; crustáceos; sepias; mamíferos precursores; ciervo; dinosaurios; perros; delfines; burros; palomas; libélulas; perforadores (gasterópodos); patos; águilas; lombrices de tierra; equinodermos; elefantes; halcones; pez; flamencos; foraminíferos; zorros; ranas; gasterópodos; gibones; jirafas; mosquitos; cabras; topos; gorilas; gaviotas; garzas; hipopótamos; caballos; hienas; medusas; canguros; corderos; sanguijuelas; lémures; leones; lagartos; llamas; langostas; langostas; mamíferos; mamuts; vida marina; martas; mastodontes; ratones; mamíferos intermedios; moluscos; monos; bueyes almizcleros; pulpos; zarigüeyas; avestruces; búhos; bueyes; ostras; panteras; loros; aves pasajeras; nautilo; pecaríes; bígaros; palomas; marsopas; aves de corral; Primates; Protozoos; pterosaurios; codorniz; conejos; mapaches; cuervos; reno; reptiles; rinocerontes; roedores; rumiantes; tigres de dientes de sable; salamandras; vieiras; escorpiones; pepinos de mar; Leones marinos; serpientes marinas; chorros de mar; erizos de mar; gusanos de mar; focas; tiburones; oveja; camarones; simios; perezosos; caracoles; serpientes; gorriones; arañas; esponjas; calamares; ardillas; estrella de mar; esturión; cerdos; renacuajos; tapires; tigres; trilobites; tortugas; víboras; cerdos de agua; serpientes de agua; comadrejas; ballenas; lobos; yaks
 utilización de a. (69:7)
 vertebrados
 	los crustáceos eran antepasados ​​de los primeros vertebrados (59:4.10)
@@ -1433,6 +1462,9 @@ en el tiempo de Jesús, cada roca y árbol que se creía poseído (121:7.12)
 oración poco asociada con (91:1.5)
 El salvaje veía a toda la naturaleza como poseída (86:2.6-7)
 los esclavos trajeron un. a Grecia (98:1.1)
+
+anís | | | | 
+pagar el diezmo del anís mientras se descuida asuntos más importantes (175:1.17)
 
 Ana | | | PERSONA | 
 poetisa en la presentación de Jesús (122:9.2-27)
@@ -1486,7 +1518,7 @@ antracita | | | |
 antropomorfismo | | | | 
 logro más elevado de la religión puramente evolutiva (5:4.9)
 
-anti gravedad | | Ver gravedad | | 
+antigravedad | | Ver gravedad | | 
 El flujo alterno de niveles espaciales ejerce un. influencia (11:7.9)
 anula la gravedad física dentro del marco local (9:3.3)
 seres dotados de antigravedad
@@ -1497,7 +1529,7 @@ seres dotados de antigravedad
 	Ayudantes Personales del Espíritu Infinito (24:0.10)
 	siete Directores Supremos del Poder (9:3.6) (29:3.6)
 	Mensajeros Solitarios (24:0.10)
-	Centros de poder supremos (9:3.6) (29:3.6) (42:4.3)
+	Centros Supremos del Poder (9:3.6) (29:3.6) (42:4.3)
 	Supervisores de los Circuitos del Universo (24:0.10)
 empleado en Havona (14:3.6)
 opera solo con respecto a la gravedad del material (9:3.3)
@@ -1552,7 +1584,7 @@ frustra el trabajo del Ajustador (108:6.2)
 
 Apeninos | (61:1.12) | | LUGAR | 
 
-simios | (88:1.5) | Ver simios. | RAZA | 
+simios | (88:1.5) | | RAZA | 
 hombre no descendiente de (62:1.1) (62:3.11-13)
 
 Afrodita | | | PERSONA | 
@@ -1682,7 +1714,7 @@ montañas Apalaches | (59:4.16) (59:5.20) (60:3.13) | | LUGAR |
 casi completamente desgastado en el Cretácico (60:3.5)
 plantas y animales dislocados por glaciares encontrados en (61:7.16)
 
-Vía Apia | (130:0.2) (130:8.6) (133:0.2) | | LUGAR | 
+vía Apia | (130:0.2) (130:8.6) (133:0.2) | | LUGAR | 
 
 manzana | | | | 
 fruta prohibida para las primitivas (89:2.1)
@@ -1692,7 +1724,7 @@ tabú entre los pueblos levantinos (88:1.3)
 Cínico; fabricante de carpas; Jesús se puso en contacto con Águila en Roma; Pablo vivió con
 A. en Corinto (133:3.12)
 
-Arabia | (64:7.1) | Ver árabes. | LUGAR | 
+Arabia | (64:7.1) | Ver árabes | LUGAR | 
 Los saharauis emigraron a (80:2.2)
 Las enseñanzas de Salem fallaron en (95:7)
 serpiente venerada en (88:1.5)
@@ -1713,12 +1745,12 @@ arameo | | | |
 Jesús habló (123:2.14) (123:5.1)
 hablado por la gente común en Palestina en tiempos de Jesús (121:6.2)
 
-Ararat | | Ver el monte Ararat | LUGAR | 
+Ararat | | Ver monte Ararat | LUGAR | 
 
 Arbela | (165:0.1) | | LUGAR | 
 Una de las poblaciones visitadas en la misión en Perea
 
-arcángeles | (37:3) | Ver el circuito de los arcángeles; jefe de los arcángeles de Nebadon | ORDEN | 
+arcángeles | (37:3) | Ver circuito de los arcángeles; jefe de los arcángeles de Nebadon | ORDEN | 
 100 asignados a Hijos Magistrales en misiones planetarias (20:2.9) (37:3.5-6)
 Absolver a los guardianes del destino si los sujetos no logran sobrevivir (113:6.3)
 actividades en Jerusem (37:3.3)
@@ -1773,7 +1805,7 @@ era anterior a la vida, desde hace mil millones hasta 550 millones de años (59:
 Arquitectos del Ser | | | ORDEN | 
 formular planes para la vida (36:0.1)
 
-Arquitectos del Universo Maestro | (31:9) | Ver trascendentales | ORDEN | 
+Arquitectos del Universo Maestro | (31:9) | Ver Trascendentales | ORDEN | 
 7 grupos que suman 28,011 personalidades (31:9.1-10)
 28.012° Maestro Arquitecto no pudo absonitizar (31:9.10)
 relación cercana con los Hijos Creadores (31:9.14)
@@ -2090,7 +2122,7 @@ Asia Menor | | Ver Turquestán | LUGAR |
 
 Dinastía asmonea | | Ver macabeos | | 
 
-Palacio Asmoneo | | | LUGAR | 
+palacio Asmoneo | | | LUGAR | 
 residencia de Herodes el Grande (125:1.5) (128:3.5) (185:4.1)
 
 Asoka | | | PERSONA | 
@@ -2107,7 +2139,7 @@ Centinela Asignado de Satania | | Ver Centinelas Asignados | ORDEN |
 aconsejó a Gabriel en la rebelión de Lucifer (54:5.10)
 jefe ex officio de 24 consejeros (24:5.3) (114:2.3)
 
-Centinelas Asignados | (24:5) | Ver Centinela Asignado de Satania. | ORDEN | 
+Centinelas Asignados | (24:5) | Ver Centinela Asignado de Satania | ORDEN | 
 7 mil millones personalizados por Espíritu Infinito (24:5.1)
 actividades distintas de la administración de Ancianos de los Días (24:5.4)
 asesores de los sistemas locales en luz y vida (55:8.2) (55:10.3)
@@ -2185,14 +2217,14 @@ pseudo ciencia de Babilonia; superstición (121:5.5) (150:3.2-3)
 estrellas consultadas antes del matrimonio (83:4.4)
 la gente supuestamente inteligente todavía cree en (88:6.7) (90:2.7)
 
-astronomía | | Ver energía; nebulosas cuerpos espaciales; estudiantes de estrellas; soles | | 
+astronomía | | Ver energía; nebulosas; cuerpos espaciales; estudiantes de estrellas; soles | | 
 observatorio astronómico de Jerusem (46:2.9) (46:5.30)
 errores en la medición astronómica causados ​​por | Ver corrimiento al rojo
 	múltiples movimientos revolucionarios en Orvonton (15:3.7-15)
 	Procesión opuesta en el sentido de las agujas del reloj del primer nivel del espacio exterior (12:4.15)
 	respiración espacial (12:4.12-14)
 origen en la astrología (81:2.9) (88:6.5)
-lugares nombrados | Ver la nebulosa de Andrómeda; Nebulosa de Andronover; Sistema Angona; Antares; Nebulosa del Cangrejo; Júpiter (planeta); Nube de Magallanes; Marte (planeta); Mercurio; Via Láctea; Monmatia; luna (de Urantia); Estrella Polar; Sagitario; Saturno; Dom; Umayor la quinta; Umenor el quinto; Umenor el tercero; Urantia; Urano; Venus (planeta)
+lugares nombrados | Ver Andrómeda (nebulosa); Andronover (nebulosa); Angona (sistema); Antares; Nebulosa del Cangrejo; Júpiter (planeta); Nube de Magallanes; Marte (planeta); Mercurio (planeta); Via Láctea; Monmatia; Luna (de Urantia); Estrella Polar; Sagitario; Saturno (planeta); Sol (de Urantia); Umayor la quinta; Umenor la tercera; Urantia; Urano; Venus (planeta)
 
 Atanasio | | | PERSONA | 
 en el concilio de Nicea (195:0.18)

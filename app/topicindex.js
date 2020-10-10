@@ -126,9 +126,7 @@ class TopicIndex {
 							data = tline.split(/\([^)]*\)/g)
 								.filter(i => i.trim() != '')
 								.map(i => i.trim().replace(/^\.|\.$/g, '').trim());
-							refs = tline.replace(/[^()](?=([^()]*\([^()]*\))*[^()]*$)/g, '')
-								.split(/[()]/g)
-								.filter(i => i.trim() != '');
+							refs = this.extractRefs(tline);
 							
 							if (data.length === 0) {
 								errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
@@ -150,10 +148,7 @@ class TopicIndex {
 								topicline.refs = [];
 							} else {
 								topicline.seeAlso = [];
-								topicline.refs = data[1]
-									.replace(/[^()](?=([^()]*\([^()]*\))*[^()]*$)/g, '')
-									.split(/[()]/g)
-									.filter(i => i.trim() != '');
+								topicline.refs = this.extractRefs(data[1]);
 							}
 							current.lines.push(topicline);
 						} else if (data.length === 3) {
@@ -163,10 +158,7 @@ class TopicIndex {
 								topicline.text = data[0];
 								topicline.seeAlso = data[1].substring(4).split(';')
 									.map(s => s.trim());
-								topicline.refs = data[2]
-									.replace(/[^()](?=([^()]*\([^()]*\))*[^()]*$)/g, '')
-									.split(/[()]/g)
-									.filter(i => i.trim() != '');
+								topicline.refs = this.extractRefs(data[2]);
 								current.lines.push(topicline);
 							}
 						} else {
@@ -206,6 +198,17 @@ class TopicIndex {
 				}
 			});
 		});
+	};
+
+	/**
+	 * Extract references from a text.
+	 * @param {string} text Text.
+	 * @return {Array.<string>}
+	 */
+	extractRefs = (text) => {
+		return text.replace(/[^()](?=([^()]*\([^()]*\))*[^()]*$)/g, '')
+			.split(/[()]/g)
+			.filter(i => i.trim() != '');
 	};
 
 	/**

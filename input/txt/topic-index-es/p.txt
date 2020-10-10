@@ -28,7 +28,7 @@ llevar la carga una segunda milla (159:5.15)
 remo | | | | 
 Jesús ayudó a construir un remo de dirección (130:2.1,4)
 
-paganismo | | Ver mitraísmo; cultos de misterios | | 
+paganismo | | Ver mitraísmo; cultos de misterio | | 
 compuesto de mitología, patriotismo y tradición helénica y latina (121:5.3)
 Jesús ignoró al pagano irreflexivo (132:7.1-2)
 
@@ -121,7 +121,7 @@ teoría
 	promover la simpatía sin despertar antagonismo; Apelar simultáneamente a niveles mentales muy diferentes (151:3.6-10) (165:2.2,7)
 	historias verdaderas, no alegorías, ilustran una verdad central (149:3.1) (151:2.5,7)
 
-El Paraíso | (11) | | LUGAR | 
+Paraíso | (11) | | LUGAR | 
 La capacidad de comprender es el pasaporte al Paraíso (26:4.14-15)
 también conocida como Isla Eterna, Isla de la Luz (27:4.2) (27:5.2)
 La enseñanza del Buda Amida (94:12.3)
@@ -481,7 +481,7 @@ comisión parental | | | |
 12 padres recién llegados sirven en (47:1.4)
 todos los supervivientes deben aprobar los requisitos de (47:1.4,6)
 
-padres | | Ver crianza de los hijos; niños; familia; padres madres | | 
+padres | | Ver crianza de los hijos; niños; familia; padres; madres | | 
 cariñoso p. nunca llamado a perdonar a los niños (174:1.2)
 niños ordenados a honrar p. (131:2.12) (153:3.3) (163:2.4)
 Revelar a los niños el amor de Paraíso Parent (84:7.30)
@@ -567,7 +567,7 @@ ganancias en la p. gravado al 50% en la nación continental (72:7.10)
 
 paternalismo | | Ver favoritismo | | 
 
-paciencia | | Ver perdón; impaciencia; sumisión; hora | | 
+paciencia | | Ver perdón; impaciencia; sumisión; tiempo | | 
 Adán y Eva habrían tenido éxito si hubieran hecho más ejercicio (75:1.6) (75:8.4)
 soportar al hermano descarriado (54:5.5)
 ser justo y equitativo son condiciones previas para mostrar p. (28:6.8)
@@ -767,7 +767,7 @@ Pensilvania | (58:7.4) (59:5.17) (61:7.2,9) | | LUGAR |
 
 pensiones | | Ver jubilación | | 
 
-Pentecostés (donación del Espíritu de la Verdad) | | Ver judaísmo:fiestas; Espíritu de verdad | | 
+Pentecostés (donación del Espíritu de la Verdad) | | Ver judaísmo:fiestas; Espíritu de la Verdad | | 
 acto de autoentrega inteligente, consagración (194:3.16)
 Se han otorgado Ajustadores a todas las mentes normales desde entonces (108:2.3) (146:3.6)
 todos los intermedios rebeldes internados el día de (77:7.2,8)
@@ -931,7 +931,7 @@ Seres de origen paradisíaco conscientes de la presencia de (24:3.3)
 atraviesa el espacio como Mensajeros Solitarios (24:3.2)
 tremenda dotación de antigravedad (24:0.10)
 
-personalidad | (112) (1:6) (16:8) | Ver criaturas; identidad; mortales circuito de personalidad; yo; Personalidades de la tercera fuente | | 
+personalidad | (112) (1:6) (16:8) | Ver criaturas; identidad; mortales; circuito de personalidad; el yo; Personalidades de la Tercera Fuente | | 
 respetar siempre (159:3.2)
 y realidad (112:1)
 Yahvé antropomórfico de mayor valor religioso que el Absoluto remoto (94:11.12)
@@ -1090,7 +1090,7 @@ la gravedad de la personalidad no es computable (12:3.12)
 la personalidad responde a (0:6.1) (9:8.8) (12:3.1) (16:8.19) (16:9.14) (30:1.113) (112:0.8)
 Los seres de personalidad de la Tercera Fuente no están en el circuito de personalidad del Padre (9:8.6-12)
 
-Ajustadores personalizados | (40:4) (109:6-7) (109:7) | Ver Ajustador del pensamiento de Jesús; Ajustadores del pensamiento | ORDEN | 
+Ajustadores personalizados | (40:4) (109:6-7) (109:7) | Ver Ajustador del Pensamiento de Jesús; Ajustadores del pensamiento | ORDEN | 
 3 muy activo en Urantia; uno certifica el plan para cada ser humano (109:7.7) (110:2.1)
 asignado a los mundos después del donación del Hijo del Paraíso (108:3.4)
 jefes de su especie (20:4.3)
@@ -1112,7 +1112,7 @@ estabilizadores soberanos no asignados y compensadores de universos (109:7.2)
 los valores de los sujetos humanos no sobrevivientes se vuelven posesión de (109:6.2)
 visible para los seres que han alcanzado al Padre (107:4.5)
 
-personas | | Ver criaturas; mortales personalidad | | 
+personas | | Ver criaturas; mortales; personalidad | | 
 Dios no hace acepción de (1:4.6) (2:3.1) (12:7.1,8) (40:10.13) (133:0.3) (137:8.6) (138:8.2) (140:3.16) (143:1.5 ) (148:6.2) (155:6.2) (156:2.4) (166:4.11) (175:2.1-3) (181:2.14) (192:2.2)
 
 perspectiva | (118:10.13) | | | 
@@ -1297,10 +1297,9 @@ filósofo en Éfeso | (133:6.4-7) | | |
 La piedra filosofal | | | | 
 la creencia condujo al dominio de los metales (88:6.5)
 
-filosofía | (103:6-9ss) | Ver maestros en filosofía; ciencia, filosofía y religión | | 
+filosofía | (103:6-9ss) | Ver maestros de la filosofía; ciencia, filosofía y religión | | 
 y religión (101:7.4) (103:1.5) | Ver teología
-asume la realidad del cuerpo, la mente y el alma (101:5.5
-8)
+asume la realidad del cuerpo, la mente y el alma (101:5.5-8)
 basado en intuiciones de la mente cósmica (16:6.10)
 error para simplificar demasiado la realidad; acercarse más alto desde más bajo (19:1.5-12)
 nunca se puede establecer en sus conclusiones (27:6.5)
@@ -1313,7 +1312,7 @@ más alto alcanzable p. basado en ciencia, fe y revelación (103:6.15)
 es a la religión como la concepción es a la acción (98:2.12)
 los planos inferiores de mota se unen a niveles superiores de (48:7.1)
 Nalda esquivó el tema de la salvación con (143:5.5-7)
-filosofías nombradas | Ver ascetismo; ateísmo; comunismo; creacionismo; Cinismo; determinismo; Epicureísmo; fatalismo; humanismo; idealismo; internacionalismo; materialismo; mecanismo (teoría); metafísica; militarismo; nacionalismo; filosofía natural; negativismo; sin resistencia; doctrina del pecado original; patriotismo; filosofía; Platonismo; racionalismo; laicismo; escepticismo; estoicismo
+filosofías nombradas | Ver ascetismo; ateísmo; comunismo; creacionismo; cinismo (religión); determinismo; epicureísmo; fatalismo; humanismo; idealismo; internacionalismo; materialismo; mecanicismo (teoría); metafísica; militarismo; nacionalismo; filosofía natural; negativismo; sin resistencia; doctrina del pecado original; patriotismo; filosofía; platonismo; racionalismo; laicismo; escepticismo (religión); estoicismo (religión)
 postula un Dios de unidad universal (5:5.3)
 relevar por la poesía (143:7.3)
 la religión es madre de (5:5.5)
@@ -1391,9 +1390,7 @@ palomas | | | |
 descendiente de enormes reptiles antiguos (65:2.9)
 José ofreció 2 como sacrificio en el templo (122:10.2)
 
-cerdos | | Ver cerdo | | 
-
-Pico Pikes | (60:4.4) | | LUGAR | 
+pico Pikes | (60:4.4) | | LUGAR | 
 
 Pilato (Poncio) | | Ver Poncio Pilato | PERSONA | 
 
@@ -1447,7 +1444,7 @@ Adanes planetarios | | Ver Adán; Hijos Materiales de Dios | ORDEN |
 comisión planetaria de los setenta | | | | 
 El grupo Edentia aprueba los planes planetarios de iniciación a la vida (57:8.9)
 
-consejo planetario de arte y ciencia | | Ver los cien de Caligastia | PERSONA | 
+consejo planetario de arte y ciencia | | Ver cien de Caligastia | PERSONA | 
 
 Guardianes Planetarios | | | ORDEN | 
 70 a cargo de cada esfera morontial (48:2.18)
@@ -1460,7 +1457,7 @@ primera - era pre-Príncipe Planetario (52:1) | Ver mortales:mortales primitivos
 	emergencia desde el nivel animal; dura de 150.000 a 1.000.000 de años (52:1.1)
 	capítulo largo, oscuro y sangriento (52:1.4)
 	la religión es miedo, asombro y superstición (52:1.7)
-	Urantia terminó con el primer pase de lista dispensacional a la llegada del Príncipe (49:5.22) (176:2.3) (189:3.3)
+	Urantia terminó con el primer llamamiento dispensacional a la llegada del Príncipe (49:5.22) (176:2.3) (189:3.3)
 	Urantia duró entre 1.000.000 y 500.000 años (64:0.1-2)
 segunda - era posterior al Príncipe Planetario (52:2)
 	Ajustadores que llegan en números crecientes (52:2.2)
@@ -1469,7 +1466,7 @@ segunda - era posterior al Príncipe Planetario (52:2)
 	Mansant fue un gran maestro de (64:6.29)
 	razas llevadas a la perfección física (51:0.1) (52:2.9-12) (52:3.1)
 	dispersión racial y nacionalismo intenso (52:2.5)
-	Urantia terminó con el segundo pase de lista dispensacional a la llegada de Adán y Eva (74:2.8) (176:2.3) (189:3.3)
+	Urantia terminó con el segundo llamamiento dispensacional a la llegada de Adán y Eva (74:2.8) (176:2.3) (189:3.3)
 	El de Urantia comenzó con la aparición de razas de color; considerado como la edad de piedra antigua (64:0.1-2)
 	suele durar 500.000 años (52:2.2)
 tercera - era post-adánica (52:3)
@@ -1481,7 +1478,7 @@ tercera - era post-adánica (52:3)
 	cazadores y pastores a la agricultura (52:3.3)
 	Jesús percibió el final de (174:5.6)
 	las razas están prácticamente mezcladas con un tono oliva de violeta (52:3.7)
-	El último de Urantia; terminó con el tercer pase de lista sobre la resurrección de Jesús (77:8.1) (120:2.4) (176:2.3) (189:3.1,3)
+	El último de Urantia; terminó con el tercer llamamiento sobre la resurrección de Jesús (77:8.1) (120:2.4) (176:2.3) (189:3.1,3)
 	suele durar 25.000 años (52:3.3)
 	generalmente presencia la eliminación de los no aptos (52:3.4)
 cuarta - era posterior al Hijo Magisterial (52:4)
@@ -1504,7 +1501,7 @@ quinta - era posterior al Hijo donador (52:5-6)
 	El donación de Miguel en Urantia (52:5.2)
 	en Urantia (52:6)
 	búsqueda mundial de la cultura moral, la verdad espiritual (52:5.3)
-sexta - era posterior al Hijo Instructor (52:7) | Ver luz y vida.
+sexta - era posterior al Hijo Instructor | Ver luz y vida | (52:7)
 	Cuarta Mansonia comparable a (47:6.4)
 	La conclusión de las misiones de los Hijos Maestros marca la entrada a la luz y la vida (52:7.10,14)
 	el gobierno desaparece (52:7.5)
@@ -1560,7 +1557,7 @@ llegada tardía (65:4.8-9)
 Maquiventa Melquisedek es vicegerente (45:4.16) (55:7.3) (93:10.5-6) ​​(114:1.2-4)
 Miguel es (45:4.16) (114:0.8) (114:1.1) (136:3.1) (176:4.4)
 
-Príncipes Planetarios | (50) (35:9) (134:8.6) (136:3.1) (189:3.3) | Ver personal corpóreo de los Príncipes Planetarios; Hijos Lanonandek; Príncipe Planetario de Urantia; Soberanos Planetarios | ORDEN | 
+Príncipes Planetarios | (50) (35:9) (134:8.6) (136:3.1) (189:3.3) | Ver Estado mayor corpóreo de los Príncipes Planetarios; Hijos Lanonandek; Príncipe Planetario de Urantia; Soberanos Planetarios | ORDEN | 
 37 se separó en la rebelión de Lucifer (53:7.1)
 administraciones (50:2-4)
 llegada
@@ -1587,7 +1584,7 @@ acercamiento personal más cercano del Hijo Eterno aparte de la encarnación (50
 ninguna confianza alta considerada más sagrada que la depositada en (67:1.3)
 unido permanentemente a los planetas de asignación original (50:5.1)
 P.P. en el planeta vecino incumplido (72:0.3)
-rebelión de P.P. en Nebadon (35:9.6-10) (50:1.3) | Ver rebelión (espiritual).
+rebelión de P.P. en Nebadon | Ver rebelión (espiritual) | (35:9.6-10) (50:1.3)
 rebelión de P.P. aísla instantáneamente el planeta (35:9.9)
 los regímenes son idénticos (49:5.18)
 Lanonandek secundarios; número 10,234,601 en Nebadon (35:8.5)
@@ -1661,7 +1658,7 @@ la evolución requirió la aparición de muchas formas aparentemente inútiles; 
 floración p. apareció de repente en el Cretácico (60:3.)
 formas inferiores totalmente sensibles al entorno físico, químico y eléctrico (65:6.7)
 El paso más importante en la evolución fue la producción de clorofila (65:6.3)
-nombrada | Ver algas; áloe; angiospermas; anís; manzana; bacterias; cebada; hayas; abedules; árboles de pan; cereales; cidra; cacao; coníferas; comino; helechos; árbol de higo; hongos; uvas; césped; Hidra; magnolias; arces; menta; semilla de mostaza; mirra; robles; avena; naranjas; palmas; pinos; secuoyas; arroz; algas marinas; semillas; secuoyas; limo; lirios de mar; sicomoros; árboles de tulipanes; virus; Volvox; nueces; malas hierbas; trigo
+nombrada | Ver algas; áloes; angiospermas; anís; manzana; bacterias; cebada; hayas; abedules; árboles de pan; cereales; cidra; cacao; coníferas; comino; helechos; higuera; hongos; uvas; hierba; Hidra; magnolias; arces; menta; semilla de mostaza; mirra; robles; avena; palmas; pinos; secuoyas; arroz; algas; semillas; secuoyas; limo; lirios de mar; sicomoros; tulipanes; virus; Volvox; nueces; malas hierbas; trigo
 vieja superstición de que las mujeres podrían criar mejor (84:3.6)
 una vez fetiches, tabú como comida (88:1.3)
 crecimiento de energía pura en mundos morontiales (43:6.6)
@@ -1859,7 +1856,7 @@ superpoblación
 inmóvil en luz y vida (55:6.3)
 varía inversamente con el nivel de vida dado (68:6.3)
 
-Cerdo | | Ver cerdo | | 
+cerdos | | | | 
 
 Porogia | | | LUGAR | 
 sistema inmediatamente vecino a Satania (41:2.1)
@@ -1976,7 +1973,7 @@ tendencia a inclinarse ante p. (89:4.1)
 no hay p. sino de Dios (3:2.1)
 los que esperan en el Señor renovarán sus fuerzas (97:7.8) (131:2.6)
 
-centros de poder | | Ver los centros de poder supremo | ORDEN | 
+centros de poder | | Ver Centros Supremos del Poder | ORDEN | 
 
 directores de poder | | Ver Siete Directores Supremos del Poder; Directores del Poder Universal | ORDEN | 
 
@@ -1992,7 +1989,7 @@ de la vida diaria administrada por agencias del Espíritu Infinito (5:3.5)
 pretorio | | | | 
 además de la fortaleza de Antonia; El juicio de Jesús en (185:0.2) (185:5.1) (186:4.1) (187:0.4)
 
-alabanza | | Ver adulación; reconocimiento; Adoración | | 
+alabanza | | Ver adulación; reconocimiento; adoración | | 
 aliento por juicioso (139:1.10)
 Jesús no es influenciado por (141:7.12)
 busca solo lo que te pertenece (156:5.19)
@@ -2000,7 +1997,7 @@ busca solo lo que te pertenece (156:5.19)
 Prajapati | | | | 
 Principio védico de deidad-padre (94:1.4)
 
-oración | (143:7) (144:2) (168:4) | Ver meditación; comunión espiritual; Adoración | | 
+oración | (143:7) (144:2) (168:4) | Ver meditación; comunión espiritual; adoración | | 
 definido como
 	pedirle a Dios sabiduría y fortaleza mientras ataca los problemas que tiene entre manos (91:6.5)
 	la mejor técnica para contactar con Dios (91:6.7)
@@ -2144,7 +2141,7 @@ precipicio | | | |
 mercenarios dispuestos a empujar a Jesús (150:9.3)
 Jesús podría haberse desechado a sí mismo sin sufrir daño (136:7.1)
 
-predestinación | (118:7) | Ver omnisciencia; será | | 
+predestinación | (118:7) | Ver omnisciencia; voluntad | | 
 el ciclo está preordenado; la participación del hombre es opcional (112:5.2)
 los mortales son sujetos de p., pero pueden rechazar cualquier parte (110:2.1)
 correlación suprema de toda elección pasada, presente y futura; no invalida el libre albedrío (118:7.2)
@@ -2162,7 +2159,7 @@ abstenerse de buscar p. entre grupos (179:5.7)
 embarazo | | Ver partería | | 
 los primitivos creían p. resultado de la entrada del espíritu en la mujer (84:1.3)
 
-perjudicar | | Ver intolerancia; juicio:por el hombre | | 
+prejuicios | | Ver intolerancia; juicio:por el hombre | | 
 abandonar (160:1.7) (170:2.21)
 ciega, sella las almas (157:2.2) (162:7.3)
 gobierno celestial uniformemente libre de (49:5.18)
@@ -2215,7 +2212,7 @@ pretensión | | Ver afectación | |
 detención preventiva | | | | 
 en la nación continental (72:10.2)
 
-orgullo | | Ver honor; importancia personal; respeto a ti mismo | | 
+orgullo | | Ver honor; importancia personal; respeto por uno mismo | | 
 la arrogancia puede convertirse en pecado (111:6.2)
 encomiable en familia, reputación y nación si no se lleva demasiado lejos (139:6.3)
 contemplando a Dios, la auto-glorificación es ridícula (48:4.15)
@@ -2302,12 +2299,12 @@ Hijo de donación (52:6.1)
 Jesús (68:3.5) (93:10.7) (136:9.7) (137:8.7)
 Los judíos creían que el Mesías reinaría sobre ellos como (97:10.1)
 
-Príncipe de Salem | | Ver Melquisedek, Maquiventa. | PERSONA | 
+Príncipe de Salem | | Ver Maquiventa Melquisedek | PERSONA | 
 Melquisedek que vivió en Urantia (35:4.5)
 
 Príncipe de este mundo | | Ver Caligastia | PERSONA | 
 
-El personal corpóreo del Príncipe | | Ver los cien de Caligastia; Estado mayor corpóreo de los Príncipes Planetarios | PERSONA | 
+personal corpóreo del Príncipe | | Ver cien de Caligastia; Estado mayor corpóreo de los Príncipes Planetarios | PERSONA | 
 
 impresión | | Ver escritura | | 
 aparición temprana en China (79:8.7)
@@ -2466,7 +2463,7 @@ robó fuego del cielo (81:2.9)
 
 Tierra prometida | | Ver Palestina | | 
 
-promesas | | Ver deber; juramentos resoluciones | | 
+promesas | | Ver deber; juramentos; resoluciones | | 
 antiguos desconfiaban p. con respecto al matrimonio; garantía tangible solicitada (83:3.1)
 debe mantenerse (157:1.2)
 
@@ -2496,7 +2493,7 @@ sangre de p. requerido de esta generación perversa (166:1.5)
 los Artesanos Celestiales retratan el mundo espiritual a los videntes (44:2.11)
 deseaba contemplar lo que vieron 70 evangelistas (163:6.4)
 falso p. con piel de oveja (140:3.19)
-profetas individuales | Ver Amós; Daniel; Elías; Elíseo; Ezequiel; Esdras; Ageo; Oseas; Isaías (primero); Isaías (segundo); Jeremías; Juan el Bautista; Juan Zebedeo; Malaquías; Moisés; Samuel
+profetas individuales | Ver Amós (profeta); Daniel; Elías (profeta); Eliseo; Ezequiel; Esdras (profeta); Ageo; Oseas; Isaías (primero); Isaías (segundo); Jeremías; Juan el Bautista; Juan Zebedeo; Malaquías; Moisés; Samuel
 Juan el Bautista fue el más grande de la antigüedad (136:0.1)
 asesinado en Jerusalén (175:1.22-23)
 nueva escuela de (148:1)
@@ -2565,7 +2562,7 @@ reforma Protestante | | | |
 interrumpió la unidad del cristianismo (92:5.15)
 La inelasticidad de la iglesia hizo que el crecimiento adicional fuera incompatible con la unidad (92:5.15).
 
-protón | (42:3.5) | Ver átomo; importar | | 
+protón | (42:3.5) | Ver átomo; materia | | 
 emitido por un átomo de carbono en una reacción solar (41:8.1)
 mantenido en el núcleo por mesotrón recíproco (42:8.3-4)
 más de 100 electrones en un átomo interrumpen instantáneamente el p. central. (42:7.7)
@@ -2580,7 +2577,7 @@ Protozoos | (58:7.2) (65:2.4) | | |
 Proverbios (libro) | | | | 
 filosofía de Amenemope (95:4.3-5)
 
-providencia | (76:6.4) (118:10) | Ver accidentes; circunstancias; destino; Libre albedrío; influencias espirituales | | 
+providencia | (76:6.4) (118:10) | Ver accidentes; circunstancias; destino; libre albedrío; influencias espirituales | | 
 todas las cosas funcionan juntas para bien (4:1.4,11) (10:7.5-6) ​​(48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
 dominio del Espíritu Infinito y el Ser Supremo (4:1.10) (9:1.3)
 Dios muchas veces mete la mano de un Padre en los asuntos humanos (97:8.5) (118:10.6)

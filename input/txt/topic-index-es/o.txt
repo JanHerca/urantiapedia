@@ -62,7 +62,7 @@ océanos | | Ver lagos | |
 se volvió demasiado salado (59:3.10)
 los fondos se volvieron cada vez más pesados ​​por la acumulación de meteoritos; se hundió (57:8.20-21)
 las corrientes cambiaron en el Pleistoceno; poco ha cambiado en los últimos 15 millones de años (61:3.9) (61:5.2)
-nombrada | Ver el mar de Arabia; océano Ártico; océano Atlántico; bahía de Bengala; mares de China; golfo de México; corriente del golfo; océano Índico; océano Pacífico; golfo Pérsico
+nombrada | Ver mar de Arabia; océano Ártico; océano Atlántico; bahía de Bengala; mares de China; golfo de México; corriente del golfo; océano Índico; océano Pacífico; golfo Pérsico
 ninguno en Jerusem o Edentia (43:1.1) (46:2.2)
 no todos los planetas habitados tienen (49:2.24)
 originalmente fresco; alcanzó la salinidad necesaria (57:8.3,25)
@@ -80,7 +80,8 @@ Og | | | PERSONA |
 Rey de Basán que sufrió la incursión hebrea brutal y eficaz (69:8.3)
 
 Ohio | (61:7.9) | | LUGAR | 
-Río Ohio (59:4.6) (61:7.2)
+
+río Ohio | (59:4.6) (61:7.2) | | LUGAR |
 
 aceite (petróleo) | | | | 
 deposición (59:3.4) (60:3.9)
@@ -104,7 +105,7 @@ Edad de piedra antigua | | Ver Edad de Piedra | |
 
 Antiguo Testamento | | Ver profetas; libros sagrados | | 
 atribuye la responsabilidad de todo a Dios (148:5.4) (156:5.4)
-libros nombrados | Ver Deuteronomio; Eclesiastés; Enoc; Éxodo; Ezequiel; Esdras; Isaías (primero); Isaías (segundo); Jeremías; Trabajo; Proverbios; Salmos; Zacarías
+libros nombrados | Ver Deuteronomio; Eclesiastés; Enoc; Éxodo (libro); Ezequiel; Esdras (profeta); Isaías (primero); Isaías (segundo); Jeremías; Job (libro); Proverbios (libro); Salmos; Zacarías
 La emigración de Caín a la tierra de Nod (74:8.8)
 conversaciones entre Abraham y Dios (93:9.7)
 edición
@@ -201,7 +202,7 @@ negar la autolimitación volitiva de Dios negaría su absolutismo volitivo (4:4.
 realidad trascendental (105:7.13)
 cuando Dios decreta una cosa, esa cosa es (131:1.2)
 
-el Omnipotente | | | ORDEN | 
+El Omnipotente | | | ORDEN | 
 Dios el Último manifestado a los universos del tiempo (118:2.4)
 
 omnipresencia | (3:1) (118:2) (118:3.1) | | | 
@@ -284,7 +285,7 @@ utilizado por los sumerios como medicina (90:4.9)
 
 zarigüeyas | (61:1.9) | | | 
 
-oportunidades | | Ver desafíos; resolución de problemas; Servicio | | 
+oportunidades | | Ver desafíos; resolución de problemas; servicio | | 
 Dios arrojará a los buscadores a tierra seca de frescura (130:1.2)
 el gobierno debe hacer cumplir la igualdad de oportunidades (81:5.6)
 apresúrate hacia donde esperan grandes cosas por hacer (130:6.3)
@@ -368,7 +369,7 @@ origen | | Ver creación | |
 todas las relaciones y la ética surgen de o.; pregunta primordial
 con respecto al avance (28:6.2)
 
-la originalidad | | | | 
+originalidad | | | | 
 causa, luego equilibra, movimientos de la metamorfosis de la realidad (115:3.12)
 hace posible la coexistencia del hombre actual y el hombre eterno (115:3.15)
 manifestación fuente del YO SOY (115:3.6,11)
@@ -388,7 +389,7 @@ la hipótesis requerida de una época dorada (74:8.13)
 alma considerada como nacida bajo pérdida (89:0.1) (89:4.6)
 superstición de que el hombre es hijo del diablo (194:2.1)
 
-originalidad | | Ver iniciativa; Estandarización | | 
+originalidad | | Ver iniciativa; uniformidad | | 
 la sociedad debe fomentar (70:2.18)
 luchar por o. mientras evita la excentricidad (149:4.4)
 
@@ -409,7 +410,7 @@ lo mejor de los cultos de misterio (98:2.10)
 
 Orvonón | | | PERSONA | 
 uno de los 24 consejeros (45:4.10)
-maestro de raza índigo (64:6.26)
+maestro de raza índiga (64:6.26)
 
 Orvonton (satélite del Paraíso) | | | LUGAR | 
 Satélite del Paraíso para el séptimo superuniverso (17:1.5)

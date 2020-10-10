@@ -1261,8 +1261,7 @@ in Uversa personality register (30:2.107)
 system time broadcast by (46:1.2)
 type of Master Physical Controller (29:4.11)
 
-churches. See also Christian church, early; Christianity; fellowship
-of believers; Roman Catholic Church; temples; worship
+churches. See also Christian church, early; Christianity; fellowship of believers; Roman Catholic Church; temples; worship
 authority derived from invocation of sacred books (88:2.10)
 avoid union of church and state (70:1.14) (70:12.6) (71:8.4) (72:3.6) (178:1.9)
 church buildings
@@ -3028,6 +3027,7 @@ rituals (90:5.1-3)
 strengths
 	provide symbolism to preserve religious loyalties (87:7.1)
 	religion rarely survives without institutions, as private practice of isolated individuals (97:10.7) (98:6.1)
+
 culture. See civilization
 
 cumin
