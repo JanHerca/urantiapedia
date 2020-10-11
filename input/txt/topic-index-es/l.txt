@@ -814,7 +814,7 @@ lirios | | | |
 ni trabajar ni girar (165:5.3)
 cabezas nevadas sobre raíces en el lodo (156:5.1)
 
-piedra caliza | (59:4.5) | | | 
+caliza | (59:4.5) | | | 
 convertido en cuarzo, pizarra y mármol (59:1.16) (59:3.1)
 depósitos (59:1.13) (59:2.3) (59:3.1,9) (59:5.8) (59:5.10) (60:1.4) (60:3.9) (61:1.13)
 resulta de la precipitación química así como de la deposición marina (57:8.13)
@@ -1298,7 +1298,7 @@ actitud
 	Las relaciones con Miguel siempre habían sido íntimas y cordiales (53:2.3)
 	apartó el rostro del horror de la crucifixión (183:1.2)
 los hijos del mal siguen los caminos de Lucifer (162:7.3)
-crimen de lucifer
+crimen de Lucifer
 	intento de privar de derechos a toda Satania (54:2.3)
 	gobernador del tiempo interrumpido restringiendo libertades prematuras (118:8.9)
 	prostituyó talentos divinos para su propio engrandecimiento (136:6.9)
@@ -1360,7 +1360,7 @@ seres atrapados por la rebelión de Lucifer (53:7.4-10)
 	Educadores de los Mundos de las Mansiones (53:7.5)
 	muchos mortales ascendentes cayeron, pero resistieron la rebelión mejor que los espíritus inferiores (53:7.10)
 	muchos seres celestiales en Urantia (67:3.2) (167:7.3)
-	muchos ángeles de la guarda que se extraviaron se han arrepentido sinceramente; todos están detenidos en Jerusem (113:6.10)
+	muchos ángeles guardianes que se extraviaron se han arrepentido sinceramente; todos están detenidos en Jerusem (113:6.10)
 	Miguel ofreció la salvación a (45:1.11)
 	intermedios (53:7.8)
 	Compañeros Morontiales (48:3.3) (53:7.5)

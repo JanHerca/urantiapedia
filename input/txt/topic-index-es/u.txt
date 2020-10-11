@@ -864,7 +864,7 @@ Consejo asesor de Urantia | | Ver veinticuatro consejeros | PERSONA |
 
 Intermedios de la Hermandad Unida de Urantia | | Ver intermedios | PERSONA | 
 
-Documentos de Urantia | | Ver lenguaje:limitaciones del lenguaje humano; revelación | RELIGION | 
+Documentos de Urantia | | Ver idioma:limitaciones del lenguaje humano; revelación | RELIGION | 
 autores
 	reconocimientos por (0:12.13-14) (56:10.22-23) (121:0.1) (121:8.12-14)
 	El libro es una presentación compuesta por muchos seres (92:4.9)
@@ -873,7 +873,7 @@ autores
 	Los Consejeros Divinos son la fuente más alta en los mundos evolutivos (1:7.9)
 	ordenado por Ancianos de los Días (31:10.22)
 	los intermedios contribuyeron con la historia de la vida de Jesús (77:9.9)
-	nombrada | Ver Libro de Urantia Índice
+	nombres de autores en el índice
 	Comisión de Orvonton (0:0.4)
 	Parte I patrocinada por un cuerpo revelador de Uversa (Prólogo, prematerial)
 	Partes II y III patrocinadas por el cuerpo revelador de Nebadon (32; 57) (56:10.22-23)
@@ -943,10 +943,10 @@ Usatia | | | PERSONA |
 jefe de Directores del Censo de Orvonton (24:2.5)
 personalidad total en sintonía con sus subordinados (24:2.5)
 
-usura | | Ver banca; prestamistas | | 
+usura | | Ver bancario; prestamistas | | 
 nunca emplee el poder del dinero para obtener una ventaja injusta (132:5.19)
 
-Uversa | | Ver Orvonton; superuniverso:cada superuniverso | LUGAR | 
+Uversa | | Ver Orvonton (superuniverso); superuniverso:cada superuniverso | LUGAR | 
 centro administrativo para 1 billón de mundos habitables (15:7.11)
 Los Ancianos de los Días ocupan un punto de polaridad espiritual (18:3.6)
 capital de Orvonton, nuestro superuniverso (0:0.5) (15:7.10-11)
