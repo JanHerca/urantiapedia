@@ -132,8 +132,8 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'rti' && checkControls(['dirTTextbox', 'dirJTextbox'])) {
 		// Leemos TopicIndex en formato TXT y luego leemos LU en formato JSON
 		topicindex.readFromTXT(txtDir)
-			.then(() => topicindex.checkSeeAlsos())
 			.then(() => book.readFromJSON(jsonDir))
+			.then(() => topicindex.check(book))
 			.then(() => topicindex.writeErrors(txtDir))
 			.then(() => {
 				showTopicList();

@@ -48,12 +48,6 @@ class TopicIndex {
 	 */
 	topics = [];
 
-	/**
-	 * @example
-	 * redirects is equals that topics but each topic has no lines
-	 */
-	redirects = [];
-
 	//***********************************************************************
 	// TXT
 	//***********************************************************************
@@ -72,7 +66,6 @@ class TopicIndex {
 	 */
 	clear = () => {
 		this.topics = [];
-		this.redirects = [];
 	};
 
 	/**
@@ -96,9 +89,8 @@ class TopicIndex {
 				const errors = [];
 				let current = null;
 				let topicline = null;
-				let isRedirect = false;
 				lines.forEach((line, i) => {
-					let data, data2, refs, seeAlso, level;
+					let data, refs, seeAlso, level;
 					const tline = line.trim();
 					if (tline.startsWith('#')) {
 						return;
@@ -107,11 +99,7 @@ class TopicIndex {
 					data = tline.split('|').map(i => i.trim());
 					
 					if (current && (tline === '' || i === lines.length - 1)) {
-						if (isRedirect) {
-							this.redirects.push(current);
-						} else {
-							this.topics.push(current);
-						}
+						this.topics.push(current);
 						current = null;
 					} else if (current && tline.length > 0) {
 						topicline = {
@@ -165,8 +153,6 @@ class TopicIndex {
 							errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
 						}
 					} else if (!current && tline.length > 0) {
-						isRedirect = (!lines[i + 1] || 
-							lines[i + 1].trim().length === 0);
 						if (data.length === 0) {
 							errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
 						} else if (data.length === 5) {
@@ -187,6 +173,10 @@ class TopicIndex {
 							};
 							current.seeAlso = (seeAlso ? seeAlso : []);
 							current.refs = (refs ? refs : []);
+							current.isRedirect = ((!lines[i + 1] || 
+								lines[i + 1].trim().length === 0) && 
+								current.seeAlso.length === 1 &&
+								current.refs.length === 0);
 						}
 					}
 				});
@@ -235,50 +225,95 @@ class TopicIndex {
 	};
 
 	/**
-	 * Comprueba los enlaces a otros términos, escribiendo los errores encontrados
-	 * dentro de los propios términos.
+	 * Comprueba los términos, escribiendo los errores encontrados dentro
+	 * de los propios términos.
+	 * @param {Book} book The Urantia Book object.
 	 */
-	checkSeeAlsos = () => {
+	check = (book) => {
 		return new Promise((resolve, reject) => {
-			const check = (topic, obj, i) => {
-				if (obj.seeAlso && obj.seeAlso.length > 0) {
-					const errors = this.checkSeeAlso(obj.seeAlso, i);
-					if (errors.length > 0) {
-						extendArray(topic.errors, errors);
-					}
-				}
-			};
 			this.topics.forEach(t => {
 				t.errors = [];
-				check(t, t, t.fileline);
+				//Chequeo de duplicidades
+				const other = this.topics.filter(tt => tt != t && tt.name === t.name);
+				if (other.length > 0) {
+					const errors = other.map(tt => 
+						`${tt.name}|${tt.filename}:${tt.fileline}`).join(' ');
+					t.errors.push({
+						desc: 'término duplicado en ' + errors,
+						fileline: t.fileline
+					});
+				}
+				//Chequeo de que los nombres propios aparecen en los párrafos
+				const firstLetter = t.name.substring(0, 1);
+				const isUpperCase = (firstLetter === firstLetter.toUpperCase());
+				if (isUpperCase && t.revised === 'NO') {
+					let name = t.name.split('(')[0].trim();
+					let refs = t.refs.slice();
+					let invalid = [];
+					t.lines.forEach(line => extendArray(refs, line.refs));
+					const notFounded = refs.filter(ref => {
+						const refToFind = ref.split(/[,-]/g)[0];
+						let refFounded = null;
+						let founded = false;
+						try {
+							refFounded = book.getRef(refToFind);
+						} catch (err) {
+							invalid.push(ref);
+						}
+						if (refFounded) {
+							const paperIndex = refFounded[0];
+							const sectionIndex = refFounded[1];
+							const parIndex = refFounded[2];
+							const par = book.getPar(paperIndex, sectionIndex, parIndex);
+							if (par) {
+								founded = (par.par_content.indexOf(name) != -1);
+							}
+						}
+						return !founded;
+					});
+					if (invalid.length > 0) {
+						t.errors.push({
+							desc: 'referencias inválidas: ' + invalid.join('|'),
+							fileline: t.fileline
+						});
+					}
+					if (refs.length > 0 && notFounded.length / refs.length > 0.2) {
+						t.errors.push({
+							desc: 'en demasiadas referencias el LU no tiene el término: ' + 
+								notFounded.join('|'),
+							fileline: t.fileline
+						});
+					}
+				}
+				//Chequeo de enlaces a otros términos
+				this.checkSeeAlso(t.seeAlso, t.fileline, t.errors);
 				t.lines.forEach(line => {
-					check(t, line, line.fileline);
+					this.checkSeeAlso(line.seeAlso, line.fileline, t.errors);
 				});
 			});
 			resolve(true);
 		});
-		
 	};
 
 	/**
-	 * Comprueba un array de enlaces a otros términos y devuelve un array de objetos
-	 * de error (con desc y fileline) o vacío si no hay errores.
+	 * Comprueba un array de enlaces a otros términos y añade los errores en
+	 * un array de objetos de error (con desc y fileline).
 	 * @param {Array.<string>} seeAlso Array de enlaces a otros términos.
 	 * @param {number} fileline Número de línea.
+	 * @param {Array.<Object>} errors El array donde almacenar los errores.
 	 */
-	checkSeeAlso = (seeAlso, fileline) => {
-		let errors = [];
-		seeAlso.forEach(sa => {
-			const term = sa.split(':')[0];
-			if (!this.topics.find(t => t.name === term) &&
-				!this.redirects.find(t => t.name === term)) {
-				errors.push({
-					desc: `seeAlso '${sa}' no encontrado`,
-					fileline: fileline
-				});
-			}
-		});
-		return errors;
+	checkSeeAlso = (seeAlso, fileline, errors) => {
+		if (seeAlso && seeAlso.length > 0) {
+			seeAlso.forEach(sa => {
+				const term = sa.split(':')[0];
+				if (!this.topics.find(t => t.name === term)) {
+					errors.push({
+						desc: `seeAlso '${sa}' no encontrado`,
+						fileline: fileline
+					});
+				}
+			});
+		}
 	};
 
 	/**

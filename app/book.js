@@ -127,6 +127,28 @@ class Book {
 		return subfootnotes;
 	};
 
+	/**
+	 * Devuelve un párrafo del libro usando una referencia.
+	 * Si la referencia no existe devuelve null.
+	 * @param {number} paperIndex Índice del documento empezando en 0.
+	 * @param {number} sectionIndex Índice de sección empezando en 0.
+	 * @param {number} parIndex Índice de párrafo empezando en 1.
+	 * @return {Object}
+	 */
+	getPar = (paperIndex, sectionIndex, parIndex) => {
+		const paper = this.papers.find(p => 
+			p.paper_index === paperIndex);
+		if (!paper) {
+			return null;
+		}
+		const section = paper.sections.find(s => 
+			s.section_index === sectionIndex);
+		if (!section) {
+			return null;
+		}
+		return section.pars[parIndex - 1];
+	};
+
 	//***********************************************************************
 	// LaTeX
 	//***********************************************************************
