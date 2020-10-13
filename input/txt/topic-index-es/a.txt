@@ -11,34 +11,34 @@
 ####################################################################################
 
 
-A-B-C el Primero | (77:8.2) | | PERSONA | OK
-	intermedio secundario (77:6.4)
+A-B-C el Primero;a-b-c el primero | (77:8.2) | | PERSONA | OK
+intermedio secundario (77:6.4)
 
 suposiciones a priori | | Ver doctrinas | | 
-	las respuestas a la realidad de la mente cósmica son la causación, el deber y la adoración (16:6.10)
+las respuestas a la realidad de la mente cósmica son la causación, el deber y la adoración (16:6.10)
 
 hijas de Aaron | Ver hijas de Aaron | | |
 
 Aarón (Viejo Testamento) | (146:1.1) | | PERSONA | 
 
-Aarón el albañil | | | PERSONA | 
-	le habló al paralítico acerca de Jesús (148:9.2)
-	curado de una mano seca (148:7ss)
+Aarón el albañil; albañil; un hombre que tenía una mano seca | | | PERSONA | 
+le habló al paralítico acerca de Jesús (148:9.2)
+curado de una mano seca (148:7)
 
 Abaddon | | | PERSONA | 
-	jefe del estado mayor de Caligastia; jefe de los rebeldes de Urantia (53:1.5)
+jefe del estado mayor de Caligastia; jefe de los rebeldes de Urantia (53:1.5)
 
 abandontarios | | | ORDEN | 
-	muy hábiles artísiticamente y adaptados socialmente (43:7.4)
-	creados por agentes de los Ancianos de los Días y los Espíritus Reeflectantes (37:9.12)
-	están en los registros de las personalidades (30:1.44) (30:2.122)
-	ciudadanos residentes de Uversa (37:9.12)
-	supervisados por los mortales fusionados con el Hijo (37:9.12)
+muy hábiles artísiticamente y adaptados socialmente (43:7.4)
+creados por agentes de los Ancianos de los Días y los Espíritus Reeflectantes (37:9.12)
+están en los registros de las personalidades (30:1.44) (30:2.122)
+ciudadanos residentes de Uversa (37:9.12)
+supervisados por los mortales fusionados con el Hijo (37:9.12)
 
 Abel | (76:2sec) | | PERSONA | 
-	primer hijo de Adán nacido en el segundo jardín; pastor (76:2.1,4)
-	grandemente influido por su entorno desfavorable (76:2.6)
-	se mofaba de su hermano mayor Caín; asesinado por él (76:2.2-5)
+primer hijo de Adán nacido en el segundo jardín; pastor (76:2.1,4)
+grandemente influido por su entorno desfavorable (76:2.6)
+se mofaba de su hermano mayor Caín; asesinado por él (76:2.2-5)
 
 Abila | (138:9.3) (144:7.1) (159:4.1) | | LUGAR | 
 Jesús predicó en este lugar
@@ -102,7 +102,7 @@ Abraham fue un antepasado de José, el padre de Jesús (122:1.1)
 creyó a medias en el pacto con Melquisedek, la idea de la salvación únicamente por la fe sin la intervención de sacrificios o sacerdotes (93:4.5)
 nació en Ur, pero se marchó debido a la adoración al Sol que se habían establecido allí (133:9.2) (142:3.4)
 Dijo Jesús en cierta ocasión que «los hijos de Abraham hacen obras de Abraham», acusando a sus contemporáneos de no ser consecuentes ni siquiera con su propia fe (162:7.3,5)
-en la parábola de Jesús de Dives el rico opulento y Lázaro el mendigo, el primero fue llevado al Hades (infierno) y el segundo al seno de Abraham, donde allí Dives suplica a Abraham que se envíe a alguien al mundo (169:3.2)
+en la parábola de Jesús de Dives el rico opulento y Lázaro el mendigo, el primero fue llevado al Hades o infierno y el segundo al seno de Abraham, donde allí Dives suplica a Abraham que se envíe a alguien al mundo (169:3.2)
 temía que alguien lo matara para conseguir a Sara, su brillante esposa (93:9.3)
 se volvió temeroso y tímido después de la desaparición de Melquisedek (93:9.3)
 durante su estancia en Egipto encontró a pariente lejano en el trono egipcio y sirvió como comandante de dos expediciones militares con mucho éxito para este rey (93:5.7)
@@ -193,8 +193,6 @@ Mente Absoluta | | Ver Espíritu Infinito; mente:tipos de mente | PERSONA |
 
 Persona absoluta | | Ver Hijo Eterno | PERSONA | 
 
-Trinidad Absoluta | | Ver Trinidad Absoluta | PERSONA |
-
 Absolutos | | Ver El Absoluto | ORDEN | 
 de actualidad
 	compuesto de Hijo, Espíritu y Paraíso (104:5.2) (115:3.14)
@@ -217,7 +215,7 @@ los siete Absolutos (105:3)
 los tres Absolutos (0:11)
 	7 Espíritus Rectores con los que no se asocian directamente (16:1.4)
 	coordinado en Ultimate; 3 son 1 en Trinidad (56:9.1)
-	compuesto de Absoluto de la Deidad, Absoluto Universal, Absoluto Incalificado (0:11ss)
+	compuesto de Absoluto de la Deidad, Absoluto Universal, Absoluto Incalificado (0:11)
 	en el infinito son UNO (0:11.15) (56:9.8)
 	manifestarse con el Último, sobre el Supremo (115:3.13)
 	nunca funcionar como tal en niveles subabsolutos (115:3.13)
@@ -1179,7 +1177,7 @@ intentó por primera vez divorciar lo matemático de lo volitivo (103:6.10)
 homogeneidad referida como causoide o pre-aria (78:4.4)
 dominación determinada por el caballo de (80:2.8) (80:4.4)
 poco contacto con la raza roja (79:5.7)
-migraciones de los anditas (79; 80) (78:5-6ss)
+migraciones de los anditas (79; 80) (78:5-6)
 	132 anditas de ascendencia japonesa de gobernantes incas (78:5.7) (79:5.9)
 	a lo largo del Nilo (80:6)
 	mejores cepas cerca de las bocas de Tigris, Éufrates (78:6.6) (78:8.1)
@@ -1687,7 +1685,7 @@ Pedro, Santiago y Juan fueron ayudantes personales de Jesús (138:10.3)
 Felipe fue mayordomo apostólico (139:5.3)
 se negó a creer que Jesús resucitó (189:5.3) (190:1.1)
 consideraba a Jesús como su mejor amigo (138:9.1) (161:2.3)
-relaciones con los apóstoles de Juan (141:1.4-5) (141:3.3) (141:6.5) (143:3.1,5,7) (144:0.2) (144:6-7ss) (147:2.4) (162:9)
+relaciones con los apóstoles de Juan (141:1.4-5) (141:3.3) (141:6.5) (143:3.1,5,7) (144:0.2) (144:6-7) (147:2.4) (162:9)
 la religión es asunto exclusivo de (140:8.30) (141:7.4)
 resentido por la traición de Judas (182:2.4)
 ascenso y caída de la fe de (158:1.5)
@@ -1992,7 +1990,7 @@ mortales ascendentes | | Ver fusión:fusión del Ajustador; mortales | ORDEN |
 7 etapas de carrera (30:4)
 7 jubileos de la carrera de ascensión (27:7.8)
 capaz de reconocer seres de niveles anteriores (44:0.18-19)
-como hijos ascendentes de Dios (40:5-7ss)
+como hijos ascendentes de Dios (40:5-7)
 como finalitarios (31:3)
 volverse menos sujeto a la gravedad del material (7:3.2)
 ciudadanos del Paraíso (30:2.128)

@@ -18,6 +18,8 @@ class Book {
 
 	/**
 	 * Devuelve un array de tres valores [paper_id, section_id, par_id]
+	 * Por ejemplo: para '101:2.1' devuelve [101,2,1]
+	 * El input siempre debe tener los tres valores o lanzará una excepción.
 	 * @param {string} lu_ref Referencia al LU.
 	 * @return {Array}
 	 */
@@ -42,6 +44,130 @@ class Book {
 			throw err;
 		}
 		return [paper_id, section_id, par_id];
+	};
+
+	/**
+	 * Devuelve un array de arrays de tres valores [paper_id, section_id, par_id]
+	 * con todos los párrafos incluídos en la referencia.
+	 * Por ejemplo '101' devuelve un array con todos los párrafos del documento 101.
+	 * Por ejemplo '101:2.1,3-4' devuelve [[101,2,1], [101,2,3], [101,2,4]]
+	 * Comprueba si las referencias existen.
+	 * Si algo va mal lanza una excepción. 
+	 * @param {string} lu_ref Referencia al LU.
+	 * @return {Array}
+	 */
+	getRefs = (lu_ref) => {
+		let data, data2, data3, dd, paper_id, section_id, paper, section, min, max;
+		const err = new Error(`La referencia LU ${lu_ref} está mal o no existe`);
+		data = lu_ref.split(':');
+		let result = [];
+		let fail = false;
+		paper_id = parseInt(data[0]);
+		if (isNaN(paper_id)) {
+			throw err;
+		}
+		paper = this.papers.find(p => p.paper_index === paper_id);
+		if (!paper) {
+			throw err;
+		}
+		if (data.length === 1) {
+			//Caso de sólo el documento
+			paper.sections.forEach(s => {
+				s.pars.forEach(p => {
+					result.push(this.getRef(p.par_ref));
+				});
+			});
+		} else if (data.length > 1) {
+			data2 = data[1].split('.');
+			if (data2.length === 1) {
+				//Caso de sólo documento y sección/secciones
+				dd = data2[0].split('-');
+				min = parseInt(dd[0]);
+				max = (dd.length > 1 ? parseInt(dd[1]) : parseInt(dd[0]));
+				if (isNaN(min) || isNaN(max) ||
+					!paper.sections.find(s => s.section_index === min) ||
+					!paper.sections.find(s => s.section_index === max)) {
+					throw err;
+				}
+				paper.sections.forEach(s => {
+					if (s.section_index >= min && s.section_index <= max) {
+						s.pars.forEach(p => {
+							result.push(this.getRef(p.par_ref));
+						});
+					}
+				});
+			} else if (data.length > 1) {
+				if (data2[0].indexOf('-') != -1) {
+					throw err;
+				}
+				section_id = parseInt(data2[0]);
+				if (isNaN(section_id)) {
+					throw err;
+				}
+				section = paper.sections.find(s => s.section_index === section_id);
+				if (!section) {
+					throw err;
+				}
+				data3 = data2[1].split(',');
+				data3.forEach(d => {
+					dd = d.split('-');
+					min = parseInt(dd[0]);
+					max = (dd.length > 1 ? parseInt(dd[1]) : parseInt(dd[0]));
+					if (isNaN(min) || isNaN(max) ||
+						section.pars.length < min || section.pars.length < max) {
+						fail = true;
+					} else {
+						section.pars.slice(min - 1, max).forEach(p => {
+							result.push(this.getRef(p.par_ref));
+						});
+					}
+				});
+				if (fail) {
+					throw err;
+				}
+			}
+		}
+		return result;
+	};
+
+	/**
+	 * Devuelve true si la referencia en forma de texto contiene a la referencia
+	 * en forma numérica. Por ejemplo: '101:2.3,6-10' contiene a [101,2,3],
+	 * y [101,2,7] pero no a [101,2,4]. Funciona también dando como referencia
+	 * un documento entero o una sección entera.
+	 * @param {string} lu_ref Referencia al libro en forma de texto.
+	 * @param {number} paperIndex Índice de documento empezando en 0.
+	 * @param {number} sectionIndex Índice de la sección empezando en 0.
+	 * @param {number} parIndex Índice del párrafo empezando en 1.
+	 * @return {boolean}
+	 */
+	containsRef = (lu_ref, paperIndex, sectionIndex, parIndex) => {
+		let data, data2, data3, paper_id, section_id;
+		data = lu_ref.split(':');
+		paper_id = parseInt(data[0]);
+		if (data.length === 1) {
+			return (paper_id === paperIndex);
+		} else if (data.length > 1 && paper_id === paperIndex) {
+			data2 = data[1].split('.');
+			section_id = parseInt(data2[0]);
+			if (data2.length === 1) {
+				return (section_id === sectionIndex);
+			} else if (data2.length > 1 && section_id === sectionIndex) {
+				data3 = data2[1].split(',');
+				return (data3.find(d => {
+					const dd = d.split('-');
+					if (dd.length === 1 && parseInt(d) === parIndex ) {
+						return true;
+					} else if (dd.length > 1 &&
+						!isNaN(parseInt(dd[0])) && !isNaN(parseInt(dd[1])) &&
+						parseInt(dd[0]) <= parIndex && parseInt(dd[1]) >= parIndex) {
+						return true;
+					}
+					return false;
+				}) != null);
+			}
+		}
+		return false;
 	};
 
 	/**
@@ -514,10 +640,11 @@ class Book {
 	 * Escribe `El Libro de Urantia` en formato Wiki, cada documento en un archivo.
 	 * Requiere previamente haber leido el libro desde algun otro formato.
 	 * @param {string} dirPath Carpeta de salida.
+	 * @param {?TopicIndex} topicIndex Un Topic Index opcional.
 	 * @return {Promise}
 	 */
-	writeToWiki = (dirPath) => {
-		return this.writeTo(dirPath, 'wiki');
+	writeToWiki = (dirPath, topicIndex) => {
+		return this.writeTo(dirPath, 'wiki', topicIndex);
 	};
 
 	/**
@@ -679,9 +806,10 @@ class Book {
 	 * Escribe un documento de `El Libro de Urantia` en formato Wiki.
 	 * @param {string} filePath Archivo de salida.
 	 * @param {Object} paper Objeto JSON con el documento.
+	 * @param {?TopicIndex} topicIndex Un Topic Index opcional.
 	 * @return {Promise}
 	 */
-	writeFileToWiki = (filePath, paper) => {
+	writeFileToWiki = (filePath, paper, topicIndex) => {
 		return new Promise((resolve, reject) => {
 			let wiki = '', ptitle, error;
 			const end = '\r\n\r\n';
@@ -734,15 +862,53 @@ class Book {
 				}
 
 				section.pars.forEach(par => {
-					let pref, supref, panchor, pcontent;
+					let pref, supref, panchor, pcontent, aref, topics, di, si, pi;
 					if (!par.par_ref || !par.par_content) {
 						error = 'Un párafo no tiene referencia o contenido';
 						return;
 					}
+					try {
+						aref = this.getRef(par.par_ref);
+					} catch (err) {
+						error = 'La referencia no es válida en ' + par.par_ref;
+					}
+					if (!aref) {
+						return;
+					}
+					di = aref[0];
+					si = aref[1];
+					pi = aref[2];
 					pref = par.par_ref.replace(/[:\.]/g,'_');
 					supref = `<sup><small>${par.par_ref}</small></sup>`;
 					panchor = `{{anchor|LU_${pref}}}`;
 					pcontent = par.par_content.replace(/\*/g, '\'\'');
+					if (topicIndex) {
+						topics = topicIndex.topics.filter(topic => {
+							let contains = (topic.refs.find(r => 
+								this.containsRef(r, di, si, pi)) != null);
+							if (!contains) {
+								topic.lines.forEach(line => {
+									if (line.refs.find(r => 
+										this.containsRef(r, di, si, pi))) {
+										contains = true;
+									}
+								});
+							}
+							return contains;
+						});
+						topics.forEach(topic => {
+							const name = topic.name.split('(')[0].trim();
+							const link = (topic.name.indexOf('(') != -1 ?
+								`[[${topic.name}|${name}]]` : `[[${topic.name}]]`)
+							//TODO: Hay que crear en el nombre del término que
+							//sea una lista con el primer elemento el nombre de
+							//la página y los siguientes modos alternativos en los
+							//que puede aparecer el nombre. Por ejemplo, para distinguir
+							//entre varios modos en mayúsculas o en singular/plural etc
+							pcontent = pcontent.replace(new RegExp('\\b' + name + '\\b', 
+								'g'), link);
+						});
+					}
 					while (wfootnotes.length > 0 && 
 						footnoteIndex < wfootnotes.length &&
 						pcontent.indexOf(`{${footnoteIndex}}`) != -1) {
@@ -1021,9 +1187,10 @@ class Book {
 	 * Requiere previamente haber leido el libro desde algun otro formato.
 	 * @param {string} dirPath Carpeta de salida.
 	 * @param {string} format Formato de salida. Puede ser `json`, `tex` o `wiki`.
+	 * @param {?TopicIndex} topicIndex Un Topic Index opcional.
 	 * @return {Promise}
 	 */
-	writeTo = (dirPath, format) => {
+	writeTo = (dirPath, format, topicIndex) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
@@ -1043,7 +1210,7 @@ class Book {
 					} else if (format = 'wiki') {
 						filePath = path.join(dirPath, 
 							`El_Libro_de_Urantia_Doc_${i}.${format}`);
-						p = this.writeFileToWiki(filePath, paper);
+						p = this.writeFileToWiki(filePath, paper, topicIndex);
 					} else {
 						p = Promise.resolve(null);
 					}

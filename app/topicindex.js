@@ -15,6 +15,7 @@ class TopicIndex {
 	 * topics = [
 	 *   {
 	 *      name: 'ángeles',
+	 *      altnames: ['ángel', 'los ángeles'],
 	 *      lines: [
 	 *        {
 	 *           text: 'personalidades del Espíritu Infinito',
@@ -31,7 +32,7 @@ class TopicIndex {
 	 *      refs: ['26:1'],
 	 *      type: 'ORDEN',
 	 *      revised: 'NO',
-	 *      order: 'a.txt:01294',
+	 *      sorting: 'a.txt:01294',
 	 *      filename: 'a.txt',
 	 *      fileline: 1294,
 	 *      errors: [
@@ -163,11 +164,12 @@ class TopicIndex {
 								seeAlso = data[2].substring(4).split(';').map(s => s.trim());
 							}
 							current = {
-								name: data[0],
+								name: data[0].split(';')[0].trim(),
+								altnames: data[0].split(';').slice(1).map(a=>a.trim()),
 								lines: [],
 								type: (data[3] === '' ? 'OTRO' : data[3]),
 								revised: (data[4] === '' ? 'NO' : 'SI'),
-								order: baseName + ':' + (i + 1).toString().padStart(5, '0'),
+								sorting: baseName + ':' + (i + 1).toString().padStart(5, '0'),
 								filename: baseName,
 								fileline: i + 1
 							};
@@ -209,10 +211,14 @@ class TopicIndex {
 	writeErrors = (dirPath) => {
 		return new Promise((resolve, reject) => {
 			const filePath = path.join(dirPath, 'errors.json');
+			let errors = [];
 
-			const errors = this.topics
-				.map(t => t.errors.map(e => `${t.filename}:${e.fileline} > ${e.desc}`))
-				.filter(a => a.length > 0);
+			this.topics.forEach(t => {
+				const errs = t.errors.map(e => `${t.filename}:${e.fileline} > ${e.desc}`);
+				if (errs.length > 0) {
+					extendArray(errors, errs);
+				}
+			});
 			
 			fs.writeFile(filePath, JSON.stringify(errors, null, 4), 'utf-8', (err) => {
 				if (err) {
@@ -246,28 +252,30 @@ class TopicIndex {
 				//Chequeo de que los nombres propios aparecen en los párrafos
 				const firstLetter = t.name.substring(0, 1);
 				const isUpperCase = (firstLetter === firstLetter.toUpperCase());
-				if (isUpperCase && t.revised === 'NO') {
-					let name = t.name.split('(')[0].trim();
+				if (isUpperCase /*&& t.revised === 'NO'*/) {
+					let names = [t.name.split('(')[0].trim()];
+					extendArray(names, t.altnames);
+					const regex = new RegExp(
+						names.map(n => '\\b' + n + '\\b').join('|'), 'g');
 					let refs = t.refs.slice();
 					let invalid = [];
 					t.lines.forEach(line => extendArray(refs, line.refs));
 					const notFounded = refs.filter(ref => {
-						const refToFind = ref.split(/[,-]/g)[0];
-						let refFounded = null;
-						let founded = false;
+						let refsToFind = null;
 						try {
-							refFounded = book.getRef(refToFind);
+							refsToFind = book.getRefs(ref);
 						} catch (err) {
 							invalid.push(ref);
 						}
-						if (refFounded) {
-							const paperIndex = refFounded[0];
-							const sectionIndex = refFounded[1];
-							const parIndex = refFounded[2];
-							const par = book.getPar(paperIndex, sectionIndex, parIndex);
-							if (par) {
-								founded = (par.par_content.indexOf(name) != -1);
-							}
+						let founded = false;
+						if (refsToFind) {
+							founded = (refsToFind.find(r => {
+								const par = book.getPar(r[0], r[1], r[2]);
+								if (!par) {
+									invalid.push(ref);
+								}
+								return (par && regex.test(par.par_content));
+							}) != null);
 						}
 						return !founded;
 					});
@@ -277,9 +285,9 @@ class TopicIndex {
 							fileline: t.fileline
 						});
 					}
-					if (refs.length > 0 && notFounded.length / refs.length > 0.2) {
+					if (refs.length > 0 && notFounded.length === refs.length) {
 						t.errors.push({
-							desc: 'en demasiadas referencias el LU no tiene el término: ' + 
+							desc: 'el término en ninguna de las refs: ' + 
 								notFounded.join('|'),
 							fileline: t.fileline
 						});

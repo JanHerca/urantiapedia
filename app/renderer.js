@@ -67,10 +67,11 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'clw' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
+	} else if (process === 'clw' && checkControls(['dirLTextbox', 'dirTTextbox', 'dirWTextbox'])) {
 		// Leemos LU en formato LaTeX y escribimos Wiki
 		book.readFromLaTeX(latexDir)
-			.then(() => book.writeToWiki(wikiDir))
+			.then(() => topicindex.readFromTXT(txtDir))
+			.then(() => book.writeToWiki(wikiDir, topicindex))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'clx' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
@@ -85,10 +86,11 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeToLaTeX(latexDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cjw' && checkControls(['dirJTextbox', 'dirWTextbox'])) {
+	} else if (process === 'cjw' && checkControls(['dirJTextbox', 'dirTTextbox', 'dirWTextbox'])) {
 		// Leemos LU en formato JSON y escribimos Wiki
 		book.readFromJSON(jsonDir)
-			.then(() => book.writeToWiki(wikiDir))
+			.then(() => topicindex.readFromTXT(txtDir))
+			.then(() => book.writeToWiki(wikiDir, topicindex))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'cjx' && checkControls(['dirJTextbox', 'dirWTextbox'])) {
@@ -192,8 +194,8 @@ const showTopicList = () => {
 	const topics = topicindex.topics
 		/*.filter(t => t.type != 'OTRO' && t.lines.length < 4)*/
 		.sort((a, b) => {
-			if (a.order > b.order) return 1;
-			if (a.order < b.order) return -1;
+			if (a.sorting > b.sorting) return 1;
+			if (a.sorting < b.sorting) return -1;
 			return 0;
 		});
 	controls.drpTopics.innerHTML = topics
@@ -213,7 +215,7 @@ const showTopic = (name) => {
 	
 	const topic = topicindex.topics.find(t => t.name === name);
 	if (topic) {
-		html += `<h4 class="mb-1">${topic.order}</h4>`;
+		html += `<h4 class="mb-1">${topic.sorting}</h4>`;
 		html += topic.errors.map(err => {
 			return `<p class="mb-0 alert alert-danger">${err.desc} [${topic.filename}:${err.fileline}]</p>`;
 		}).join('');
