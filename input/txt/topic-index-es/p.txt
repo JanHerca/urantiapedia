@@ -785,7 +785,7 @@ Una de las poblaciones recorridas en la misisón de Perea
 Pepi | | | PERSONA | 
 Rey; referencia al culto al sol (95:2.8)
 
-Perea | (165; 166) | | LUGAR | 
+Perea | (165) (166) | | LUGAR | 
 gira de los apóstoles de (171:3)
 Los judíos fueron removidos de Perea durante los tiempos de Judas Macabeo (165:0.3)
 provincia más hermosa de Palestina (165:0.3)

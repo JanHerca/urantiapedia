@@ -247,13 +247,13 @@ capacidades | | Ver habilidad | |
 
 Cabo de Hornos | (60:3.2) (60:3.12) | | LUGAR | 
 
-Cafarnaúm | (145; 152; 153; 154) (134:7.5) (137:3.5) (138:1.1) (138:9.3) (147:7) | Ver Betsaida | LUGAR | 
+Cafarnaúm | (145) (152) (153) (154) (134:7.5) (137:3.5) (138:1.1) (138:9.3) (147:7) | Ver Betsaida | LUGAR | 
 Andrés de (139:1.1)
 Betsaida era puerto pesquero de (139:1.1)
 Jairo era el gobernante de la sinagoga (152:0.1)
 Jesús
 	1Cuarta aparición en (192:3.1)
-	crisis en (152; 153)
+	crisis en (152) (153)
 	repulsión general hacia Jesús en (153:5.2) (154:1.2) (154:4.1)
 	curación al atardecer (145:3)
 	hogar de Jesús (129:1.8) (134:2.5)
@@ -1479,7 +1479,7 @@ ningún gran club de privilegios heredados; cobra honorarios (81:5.3-5)
 no divino; un fenómeno de evolución progresiva (81:6.39)
 Numerosos solteros indican la ruptura de las costumbres (83:7.5)
 organización de cooperadores inteligentes (68:1.4)
-sociedad primitiva (68; 70; 71)
+sociedad primitiva (68) (70) (71)
 	4 grandes etapas fueron la recolección, la caza, el pastoreo y la agricultura (66:3.2) (68:5.2-11)
 	el grupo de creencias tenía derecho a controlar a los individuos (70:10.4)
 	El factor principal fue la fuerza ejercida por sabios maestros sociales (81:6.14)

@@ -6,6 +6,7 @@ const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
 const readFrom = require('./utils').readFrom;
+const testWords = require('./utils').testWords;
 const fs = require('fs');
 const path = require('path');
 
@@ -255,8 +256,10 @@ class TopicIndex {
 				if (isUpperCase /*&& t.revised === 'NO'*/) {
 					let names = [t.name.split('(')[0].trim()];
 					extendArray(names, t.altnames);
-					const regex = new RegExp(
-						names.map(n => '\\b' + n + '\\b').join('|'), 'g');
+					// const exps = names.map(n => 
+					// 	'\\b' + n.replace(/^[áéíóú]/i,'.').replace(/[áéíóú]$/i, '.') + '\\b'
+					// ).join('|');
+					// const regex = new RegExp(exps, 'g');
 					let refs = t.refs.slice();
 					let invalid = [];
 					t.lines.forEach(line => extendArray(refs, line.refs));
@@ -274,7 +277,8 @@ class TopicIndex {
 								if (!par) {
 									invalid.push(ref);
 								}
-								return (par && regex.test(par.par_content));
+								// return (par && regex.test(par.par_content));
+								return (par && testWords(names, par.par_content));
 							}) != null);
 						}
 						return !founded;
@@ -287,8 +291,7 @@ class TopicIndex {
 					}
 					if (refs.length > 0 && notFounded.length === refs.length) {
 						t.errors.push({
-							desc: 'el término en ninguna de las refs: ' + 
-								notFounded.join('|'),
+							desc: `'${t.name}' en ninguna ref: ${notFounded.join('|')}`,
 							fileline: t.fileline
 						});
 					}
@@ -473,6 +476,14 @@ class TopicIndex {
 		return new Promise((resolve, reject) => {
 			let wiki = '';
 			const end = '\r\n\r\n';
+			let containRefs = false;
+
+			if (topic.isRedirect && topic.seeAlso.length === 1) {
+				wiki = `#REDIRECT [[${topic.seeAlso[0]}]]`;
+			}
+
+			//TODO: Refs a nivel del topic?
+
 			topic.lines.forEach((line, i) => {
 				let heading = '=';
 				const nextline = topic.lines[i + 1];
@@ -506,6 +517,7 @@ class TopicIndex {
 							wiki += `${data[0]}|${data[1]}|${data[2]}`;
 						}
 						wiki += '}}</ref> ';
+						containRefs = true;
 					});
 
 					if (nextline && line.level > nextline.level) {
@@ -536,7 +548,9 @@ class TopicIndex {
 				}
 			});
 
-			wiki += `${end}== Referencias ==\r\n<references />\r\n`;
+			if (containRefs) {
+				wiki += `${end}== Referencias ==\r\n<references />\r\n`;
+			}
 
 			fs.writeFile(filePath, wiki, 'utf-8', (err) => {
 				if (err) {

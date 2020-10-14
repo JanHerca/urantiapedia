@@ -7,6 +7,7 @@ const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
 const replaceTags = require('./utils').replaceTags;
 const readFrom = require('./utils').readFrom;
+const replaceWords = require('./utils').replaceWords;
 const fs = require('fs');
 const path = require('path');
 
@@ -897,16 +898,13 @@ class Book {
 							return contains;
 						});
 						topics.forEach(topic => {
-							const name = topic.name.split('(')[0].trim();
-							const link = (topic.name.indexOf('(') != -1 ?
-								`[[${topic.name}|${name}]]` : `[[${topic.name}]]`)
-							//TODO: Hay que crear en el nombre del término que
-							//sea una lista con el primer elemento el nombre de
-							//la página y los siguientes modos alternativos en los
-							//que puede aparecer el nombre. Por ejemplo, para distinguir
-							//entre varios modos en mayúsculas o en singular/plural etc
-							pcontent = pcontent.replace(new RegExp('\\b' + name + '\\b', 
-								'g'), link);
+							let names = [topic.name.split('(')[0].trim()];
+							extendArray(names, topic.altnames);
+							const links = names.map((name, i) => {
+								return (i === 0 && topic.name.indexOf('(') != -1 ?
+									`[[${topic.name}|${name}]]` : `[[${name}]]`);
+							});
+							pcontent = replaceWords(names, links, pcontent);
 						});
 					}
 					while (wfootnotes.length > 0 && 

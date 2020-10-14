@@ -87,16 +87,16 @@ exports.replaceTags = function(content, initTag, endTag, initTag2, endTag2, erro
 };
 
 /**
- * Returns a Promise that reads a directory, find files of a given format and
- * execute a fiven function with each one. If any file rejects, then the full
- * promise rejects.
- * @param {string} dirPath Path to the directory.
- * @param {string} format Format like '.txt' or '.tex'.
- * @param {Function} clearFunction Function to clear data before reading. It must
- * be a function without params and that returns nothing.
- * @param {Function} readFunction Function to execute with each file. It must be
- * a function with the filePath as param and that returns a Promise.
- * @param {Object} thisObj Object to pass as 'this'.
+ * Devuelve una promesa que lee una carpeta, busca ficheros de un formato y
+ * ejecuta una funcion con cada uno. Si algun fichero llama a reject, entonces
+ * toda la promesa llama a reject.
+ * @param {string} dirPath Ruta de la carpeta.
+ * @param {string} format Formato como '.txt' o '.tex'.
+ * @param {Function} clearFunction Function para limpiar datos antes de leer. Debe
+ * ser una function sin params que no devuelve nada.
+ * @param {Function} readFunction Function para ejecutar con cada fichero. Debe
+ * ser una function con un parámetro filePath y que devuelva una promesa.
+ * @param {Object} thisObj Object que pasar como 'this'.
  * @return {Promise}
  */
 exports.readFrom = function(dirPath, format, clearFunction, readFunction, thisObj) {
@@ -134,4 +134,81 @@ exports.readFrom = function(dirPath, format, clearFunction, readFunction, thisOb
 
 		});
 	});
+};
+
+/**
+ * Testea un texto con un array de vocablos.
+ * Esta funcion es necesaria porque RegExp tiene problemas para localizar vocablos
+ * que sean palabras completas y empiecen o terminen en acento.
+ * @param {Array.<string>} arItems Array de vocablos. Con que cualquiera de los 
+ * vocablos aparezca una vez el test es válido.
+ * @param {string} text Texto a testear.
+ * @return {boolean}
+ */
+exports.testWords = function(arItems, text) {
+	let ini = 0, fin = 0, j, testIni, testFin;
+	const regex = /[a-z0-9áéíóúü\-]/i;
+	const len = text.length;
+	for (j = 0; j < arItems.length; j++) {
+		ini = 0;
+		while (ini != -1) {
+			ini = text.indexOf(arItems[j], ini);
+			fin = ini + arItems[j].length - 1;
+			testIni = !regex.test(text.substring(ini - 1, ini));
+			testFin = !regex.test(text.substring(fin + 1, fin + 2));
+			if (ini != -1) {
+				if ((ini === 0 || (ini > 0 && testIni)) && 
+					(fin === len - 1 || (fin < len - 1 && testFin))) {
+					return true;
+				}
+				ini = fin + 1;
+				if (ini === len - 1) {
+					break;
+				}
+			}
+		}
+	}
+	return false;
+};
+
+/**
+ * Reemplaza un texto con un array de vocablos por otro array de vocablos pero
+ * sólo la primera ocurrencia de cada vocablo.
+ * Esta funcion es necesaria porque RegExp tiene problemas para localizar vocablos
+ * que sean palabras completas y empiecen o terminen en acento.
+ * @param {Array.<string>} arItems Array de vocablos a localizar.
+ * @param {Array.<string>} arReplaces Array de vocablos con los que reemplazar.
+ * @param {string} text Texto a modificar.
+ * @return {string} Texto modificado.
+ */
+exports.replaceWords = function(arItems, arReplaces, text) {
+	let result = text, ini = 0, fin = 0, j, testIni, testFin, part1, part2;
+	const regex = /[a-z0-9áéíóúü\-]/i;
+	const len = text.length;
+	for (j = 0; j < arItems.length; j++) {
+		ini = 0;
+		while (ini != -1) {
+			ini = result.indexOf(arItems[j], ini);
+			fin = ini + arItems[j].length - 1;
+			testIni = !regex.test(text.substring(ini - 1, ini));
+			testFin = !regex.test(text.substring(fin + 1, fin + 2));
+			if (ini != -1) {
+				if ((ini === 0 || (ini > 0 && testIni)) && 
+					(fin === len - 1 || (fin < len - 1 && testFin))) {
+					part1 = result.substring(0, ini);
+					part2 = result.substring(ini);
+					result = part1 + part2.replace(arItems[j], `#${j}#`);
+					break;
+				}
+				ini = fin + 1;
+				if (ini === len - 1) {
+					break;
+				}
+			}
+		}
+	}
+	for (j = 0; j < arReplaces.length; j++) {
+		result = result.replace(new RegExp(`#${j}#`, 'g'), arReplaces[j]);
+	}
+	return result;
 };

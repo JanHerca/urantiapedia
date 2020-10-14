@@ -89,12 +89,12 @@ Mateo predicó en (139:7.10)
 galaxias | | Ver niveles de espacio; universo | LUGAR | 
 375 millones nuevas galaxias pronto serán observadas por los astrónomos urantianos (12:2.3)
 
-Galilea | (137; 146; 155) | Ver Palestina; mar de Galilea | LUGAR | 
+Galilea | (137) (146) (155) | Ver Palestina; mar de Galilea | LUGAR | 
 mal visto por los líderes de Jerusalén; en gran parte gentil (121:2.12)
 conversión forzosa de la población gentil (139:0.2)
 Herodes reconstruyó ciudades en (121:2.11)
 Jesús deseaba encontrarse con los apóstoles en (192:1.2)
-Giras de predicación de Jesús (146; 149; 150)
+Giras de predicación de Jesús (146) (149) (150)
 la falta de riqueza no implicaba inferioridad social (126:5.1) (127:5.1)
 más bella y próspera que Judea (124:2.9)
 ningún profeta surge de (162:2.9) (162:6.4)
@@ -131,7 +131,7 @@ alta cultura ario-dravídica en las llanuras de (79:4.4)
 la vida marina evolucionó en la bahía de (59:6.9)
 
 Ganid | | | PERSONA | 
-brillante niño indio a quien Jesús enseñó (130; 133)
+brillante niño indio a quien Jesús enseñó (130) (133)
 primer encuentro con Jesús (129:2.9)
 enfermedad grave en Chipre (133:7.3)
 hablar con un empleado descontento en Antioquía (133:8.3)
@@ -384,7 +384,7 @@ Talmai era rey de (97:9.10)
 gesto | | | | 
 más antiguo que el habla, considerado más mágico (88:6.4) (92:2.2)
 
-Getsemaní | (178; 182; 183) (147:2.2) (176:3) (177:3) | | LUGAR | 
+Getsemaní | (178) (182) (183) (147:2.2) (176:3) (177:3) | | LUGAR | 
 acampar en el terreno que pertenece a Simón de Betania (173:5.5)
 Jesús solo en (182:3)
 prensa de aceitunas cerca de la entrada a (183:0.3)
@@ -565,7 +565,7 @@ Noditas importados (80:1.2)
 Gobi | | | LUGAR | 
 pastizales abiertos en los días anditas (79:1.2)
 
-Dios | (1; 2; 3; 4; 5) | Ver Deidad; YO SOY; El Infinito; La Trinidad del Paraíso; Padre Universal | PERSONA | 
+Dios | (1) (2) (3) (4) (5) | Ver Deidad; YO SOY; El Infinito; La Trinidad del Paraíso; Padre Universal | PERSONA | 
 todos los hombres son hijos de Dios (2:5.4) (40:6) (99:5.5)
 también conocido como | Ver Deidad:también conocida como; Padre Universal:también conocido como
 	Adonai (96:1.9)
@@ -841,7 +841,7 @@ posible unión futura de Hijos Creadores y Espíritus Creativos puede revelar (1
 presente en Havona en sentido absonito y superpersonal (14:6.29) (106:4.3)
 reacciones impredecibles (12:6.6)
 Supremo indispensable para el surgimiento de (118:0.9)
-Los trascendentales están sujetos a (31:8.3)
+Los Trascendentales están sujetos a (31:8.3)
 transforma potenciales indiferenciados en planes definidos (118:4.6)
 Trinidad colabora con Dios el Último, no deidades individualmente (10:7.3)
 Trinidad Última activa la eventual presencia de (106:4.1-4)
@@ -912,7 +912,7 @@ narraciones inventadas relacionadas con la destrucción (93:6.7) (93:8.1)
 
 Gonod | | | PERSONA | 
 3 viajes a China (130:0.6)
-Hombre de negocios indio con quien Jesús viajó a Roma (130; 132; 133) (129:2.9)
+Hombre de negocios indio con quien Jesús viajó a Roma (130) (132) (133) (129:2.9)
 
 bueno | | Ver bondad | | 
 
@@ -1136,7 +1136,7 @@ democracia
 	peligros de (71:2.1-6)
 	las elecciones son la forma correcta incluso de hacer cosas incorrectas (71:2.8)
 	fetiche hecho de (88:3.4)
-historia del gobierno (70; 71) | Ver civilización
+historia del gobierno (70) (71) | Ver civilización
 	abolición de la esclavitud (71:8.5)
 	administraciones antiguas solo cambiadas por la guerra civil (70:7.17)
 	comienzos (70:5)
@@ -1158,7 +1158,7 @@ historia del gobierno (70; 71) | Ver civilización
 los órdenes sociales inferiores ya no son políticamente indefensos (99:1.5)
 directores ejecutivos mortales en luz y vida (55:4.15)
 Los Altísimos gobiernan en reinos de hombres (3:5.2) (43:3.4) (43:9.4) (50:2.6) (52:3.11) (97:8.5) (134:5.4) (136:9.6) (175:1.8) (175:3.2)
-principios de gobierno (70; 72) | Ver competencia; tribunales; derechos humanos; industria; justicia; ley; militar; lucro; impuestos
+principios de gobierno (70) (72) | Ver competencia; tribunales; derechos humanos; industria; justicia; ley; militar; lucro; impuestos
 	abolición de la esclavitud (71:2.10)
 	la adjudicación es la función más alta del gobierno (22:4.3)
 	el mejor gobierno es el equilibrio de poder entre los poderes ejecutivo, legislativo y judicial (70:12.1) (71:8.1)
