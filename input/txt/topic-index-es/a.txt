@@ -189,7 +189,9 @@ Deidad Absoluta | | Ver Absoluto de la Deidad | PERSONA |
 
 nivel absoluto | | Ver realidad:niveles de realidad:realidad absoluta | | 
 
-Mente Absoluta | | Ver Espíritu Infinito; mente:tipos de mente | PERSONA | 
+mente absoluta (mente) | | Ver mente:tipos de mente | | 
+
+Mente Absoluta (persona) | | Ver Espíritu Infinito | PERSONA | 
 
 Persona absoluta | | Ver Hijo Eterno | PERSONA | 
 
@@ -573,7 +575,7 @@ Espíritus Ayudantes de la Mente | (34:4.10) (36:5) (42:10.4) (65:7) | | ORDEN |
 4. Conocimiento (34:4.10) (62:6.3-6)
 	ayudante de curiosidad, aventura y descubrimiento (36:5.9)
 	ministros de la mente subhumana (42:10.4)
-5. Consejo (34:4.7)
+5. Consejo (34:4.10)
 	ayudante de cooperación y armonía social (36:5.10)
 	ministros de la mente subhumana (42:10.4)
 	fuente del instinto gregario (62:6.3-6)
@@ -692,9 +694,7 @@ amor de la aventura sugiere que la muerte comienza el descubrimiento eterno (14:
 personalidades espirituales no dadas a inútiles aventuras (13:3.3)
 la aventura suprema es el hombre buscando y encontrando a Dios (1:0.6) (155:5.10)
 
-adversidad | | Ver dificultades; enfermedad; lesión; sufrimiento | | 
-
-Consejo | | | | 
+consejo; asesor | | | | 
 los seres celestiales nunca ofrecen consejo a menos que se le pregunte (33:5.2) (43:4.2) (55:4.16)
 Dar un. solo cuando se le pregunta (48:7.16)
 El consejo de Jesús al rico (132:5)
@@ -717,8 +717,6 @@ ridículo esfuerzo del ignorante por parecer sabio (48:7.17)
 afecto | | | | 
 matrimonio duradero nunca fundado solo en el afecto (84:7.10)
 vínculo espiritual que mantiene unidas a las familias (160:2.4)
-
-aflicción | | Ver dificultades; enfermedad; lesión; sufrimiento | | 
 
 Afganistán | | | LUGAR | OK
 En las regiones montañosas de Afganistán es donde durante más de medio millón de años sobrevivió el más importante centro de la cultura primitiva, fundado por Badonán, un descendiente de los primeros seres humanos (79:0.1)
@@ -811,10 +809,10 @@ convertido en química (81:2.9)
 Alejandro (hermano de Filón) | | | PERSONA | OK
 era un banquero judío de Alejandría, hermano del famoso filósofo Filón, con el cual tuvo negocios Gonod, el comerciante que contrató a Jesús durante su viaje por el Mediterráneo (130:3.9)
 
-Alejandro de Cirene | | | PERSONA | OK
+Alejandro de Cirene; Alejandro | | | PERSONA | OK
 fue un maestro eficaz del evangelio en África, hijo de Simón de Cirene (187:1.10)
 
-Alejandro el Grande | | | PERSONA | 
+Alejandro el Grande; Alejandro | | | PERSONA | 
 campaña en Punjab (79:4.3)
 mausoleo real de (130:3.4)
 Los samaritanos asistieron (143:4.2-3)
@@ -835,10 +833,13 @@ La estancia de 2 años de José y María en (122:10.4) (123:0.1-4)
 La biblioteca de Ptolomeo; un millón de manuscritos (74:8.12) (130:3.4)
 Simón el Zelote predicó en (139:11.11)
 
-algas | | | | 
+algas | (59:1.18) | | | 
 antepasados ​​de los corales (59:2.11)
 fósiles (58:7.2)
 piedra depositada por secreción de cal (59:2.3,11)
+
+generó oxígeno libre para la atmósfera temprana (57:7.9)
+ascenso del hombre desde (65:2.1) (65:6.8)
 
 Alá | | | PERSONA | OK
 Alá es la sola y única Deidad del islam, concepto claro y bien definido en el cual ha residido la fuerza del islam (95:7.6)
@@ -859,7 +860,7 @@ Todopoderoso Supremo | | Ver El Supremo | |
 áloes | | | | 
 Jesús embalsamado con áloes (188:1.4)
 
-Alfa y Omega | | | | 
+Alfa y Omega; el Alfa y la Omega | | | | 
 Dios es el primero y el último (10:7.1)
 Jesús es (128:1.10)
 
@@ -1014,7 +1015,7 @@ Amerindios | | Ver raza roja | RAZA |
 
 Buda Amida | | Ver budismo:tipos | | 
 
-Amidista | | Ver Buda Amida | | 
+Amidista; Amida | | Ver Buda Amida | | 
 creyente en el Buda Amida (94:12.3)
 
 ammonitas | | | RAZA | OK
@@ -1300,7 +1301,7 @@ Andovontia es el nombre del Supervisor terciario de los Circuitos con el número
 Andrés | (139:1) (143:3.1,5) (144:1.4) (145:2.1) (167:0.1) (191:0.6) (192:1.11) (192:4.7) (194:1.2) | Ver apóstoles de Jesús | PERSONA | 
 3 hermanas, una llamada Marta; hermano Pedro (139:1.1) (150:1.1)
 33 años en 26 d.C. (139:1.2)
-en las apariciones de Jesús (191:2.5) (192:1-4) (193:0.3,5)
+en las apariciones de Jesús (191:2) (191:5) (192:1-4) (193:0.3,5)
 intentó curar al hijo de Santiago de Safed (158:4.7)
 creyente en Juan el Bautista; primer apóstol (137:1.1)
 desconcertado por la entrada a Jerusalén (172:5.2)
@@ -1467,7 +1468,7 @@ los esclavos trajeron un. a Grecia (98:1.1)
 anís | | | | 
 pagar el diezmo del anís mientras se descuida asuntos más importantes (175:1.17)
 
-Ana | | | PERSONA | 
+Ana (poetisa); Ana | | | PERSONA | 
 poetisa en la presentación de Jesús (122:9.2-27)
 
 Annán | | | PERSONA | 
@@ -1509,8 +1510,6 @@ la estrella más grande del universo local (41:3.2)
 
 osos hormigueros | (61:4.4) | | | 
 
-causación ancedente | | Ver causación | | 
-
 antílopes | (61:4.3) | | | 
 
 antracita | | | | 
@@ -1551,7 +1550,7 @@ notorio bosquecillo de Dafne en (133:8.1)
 Los discípulos de Pablo llamaron a los cristianos por primera vez en (121:2.5) (194:4.13)
 Pedro en (139:2.7)
 
-Antipatris | (127:6.4) (143:0.1) | | LUGAR | 
+Antípatris | (127:6.4) (143:0.1) | | LUGAR | 
 
 antítesis | | | | 
 Jesús empleó (159:5.17)
@@ -1584,9 +1583,6 @@ suficiente para que el día sea un problema (140:6.13)
 frustra el trabajo del Ajustador (108:6.2)
 
 Apeninos | (61:1.12) | | LUGAR | 
-
-simios | (88:1.5) | | RAZA | 
-hombre no descendiente de (62:1.1) (62:3.11-13)
 
 Afrodita | | | PERSONA | 
 Culto a Istar en Grecia (95:1.7)
@@ -1721,9 +1717,8 @@ manzana | | | |
 fruta prohibida para las primitivas (89:2.1)
 tabú entre los pueblos levantinos (88:1.3)
 
-Águila | | | PERSONA | 
-Cínico; fabricante de carpas; Jesús se puso en contacto con Águila en Roma; Pablo vivió con
-A. en Corinto (133:3.12)
+Aquila | | | PERSONA | 
+Cínico; fabricante de carpas; Jesús se puso en contacto con Aquila en Roma; Pablo vivió con Aquila en Corinto (133:3.12)
 
 Arabia | (64:7.1) | Ver árabes | LUGAR | 
 Los saharauis emigraron a (80:2.2)
@@ -1905,7 +1900,7 @@ filosofía venerada por los judíos helenizados (121:6.3)
 Arrio | | | PERSONA | 
 en el concilio de Nicea (195:0.18)
 
-arca de Noé | | Ver Noé | | 
+arca de Noé | | Ver Noé (viticultor de Aram) | | 
 
 arca de Yahvé | | | | 
 cofre con escrituras sagradas en la sinagoga (150:8.6,8)
@@ -1978,7 +1973,7 @@ migración a Levante e India (78:6.3) (79:1.6)
 semidemocrático (79:4.5)
 El idioma sumerio tenía mucho en común con el ario (77:4.7)
 
-hijos trinitizados ascendentes | | Ver hijos trinitizados por las criaturas; trinitización | | 
+hijos trinitizados ascendentes | | Ver hijos trinitizados por las criaturas | | 
 
 mortales ascendentes | | Ver fusión:fusión del Ajustador; mortales | ORDEN | 
 6 etapas de existencia espiritual; séptima etapa postulada (31:3.3-6) (106:2.8) (117:5.3)
@@ -2121,7 +2116,7 @@ la raza amarilla expulsó a los andonitas de (64:7.7) (78:1.5-7)
 
 Asia Menor | | Ver Turquestán | LUGAR | 
 
-Dinastía asmonea | | Ver macabeos | | 
+Dinastía asmonea | | Ver Macabeos | | 
 
 palacio Asmoneo | | | LUGAR | 
 residencia de Herodes el Grande (125:1.5) (128:3.5) (185:4.1)
@@ -2129,14 +2124,21 @@ residencia de Herodes el Grande (125:1.5) (128:3.5) (185:4.1)
 Asoka | | | PERSONA | 
 monarca de casta baja que abrazó el budismo; envió 17.000 misioneros (94:9.1)
 
-asesinato | | | | 
+asesinato | | Ver pena de muerte | | 
 los antiguos ricos distribuían fortunas por temor a (69:5.14)
 los primeros reyes restringidos por el miedo omnipresente a (70:6.6)
+Caín mató a Abel (76:2.5)
+dejó de ser crimen cuando todos participaron (89:5.9)
+mandamientos contra (66:7.12) (70:11.2) (74:7.20) (93:4.10) (94:8.10) (131:2.12) (162:2.1) (163:2.4)
+Ajustador residente es una razón adicional contra el asesinato (74:7.20)
+baja tasa de homicidios en nación continental (72:10.2)
+el hombre primitivo no reconoció la muerte accidental (70:10.3)
+los hombres primitivos podían matar esposas si se les pagaba (70:10.11-12)
 
 asambleas del Paraíso | | | | 
 asisten ascendentes, en Edentia (43:9.1)
 
-Centinela Asignado de Satania | | Ver Centinelas Asignados | ORDEN | 
+Centinela Asignado de Satania; Centinela Designado de Satania | | Ver Centinelas Asignados | ORDEN | 
 aconsejó a Gabriel en la rebelión de Lucifer (54:5.10)
 jefe ex officio de 24 consejeros (24:5.3) (114:2.3)
 
@@ -2155,7 +2157,7 @@ Educadores Asistentes | | Ver Serafines | ORDEN |
 ayudantes y asociados de Serafines Consejeros Docentes (39:2.7)
 Serafines superiores; cuerpo fomenta la verdad en Urantia (39:2.7)
 
-Supervisores de los Circuito Universales | | | ORDEN | 
+Supervisores Asociados de los Circuitos | | | ORDEN | 
 orden de los Supervisores de los Circuitos Universales; circuitos directos del superuniverso; número 7 (24:1.2-8)
 
 Inspectores Asociados | (24:4) | | ORDEN | 

@@ -178,7 +178,6 @@ class TopicIndex {
 							current.refs = (refs ? refs : []);
 							current.isRedirect = ((!lines[i + 1] || 
 								lines[i + 1].trim().length === 0) && 
-								current.seeAlso.length === 1 &&
 								current.refs.length === 0);
 						}
 					}
@@ -247,6 +246,13 @@ class TopicIndex {
 						`${tt.name}|${tt.filename}:${tt.fileline}`).join(' ');
 					t.errors.push({
 						desc: 'término duplicado en ' + errors,
+						fileline: t.fileline
+					});
+				}
+				//Chequeo de redirects
+				if (t.isRedirect && t.seeAlso.length > 1) {
+					t.errors.push({
+						desc: 'demasiados seeAlso',
 						fileline: t.fileline
 					});
 				}
