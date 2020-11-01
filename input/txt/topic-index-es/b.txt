@@ -16,7 +16,7 @@
 ba y ka | | | | 
 Enseñanza egipcia y africana del alma y el espíritu (111:0.4-6)
 
-Baal | | Ver Baalitas | PERSONA | 
+Baal | | Ver baalitas | PERSONA | 
 fue un culto fundado en el derecho a comprar y vender tierras; Baal enviaba la lluvia (97:3.3) (97:9.24)
 se producía prostitución ritual en los templos (97:3.4)
 Samuel se burló de los sacerdotes de Baal (97:1.3)
@@ -27,9 +27,9 @@ la palabra Baal significa propietario (97:3.3)
 Baal-Perazim | | | LUGAR | 
 ciudad nombrada por el rey David (97:9.12)
 
-Baales | | Ver Baalitas | | 
+Baales | | Ver baalitas | | 
 
-Baalitas | | Ver Baal | RAZA | 
+baalitas | | Ver Baal | RAZA | 
 aristócratas habitantes de la ciudad, con casas propias, tierras, y esclavos (97:3.4)
 Elías defendió las antiguas costumbres de la tierra contra la venta de tierras (97:9.19)
 Cananeos del norte y más asentados (97:3.3)
@@ -38,7 +38,7 @@ partido político volvió al poder en Jerusalén (97:9.24)
 Babel | | | LUGAR | 
 ciudad también conocida como Bablod, Bablot (77:3.3,6)
 torre de Babel (77:3)
-	La primera torre fue construida 50.000 años después de la muerte de Nod (es decir, hace unos 150.000 años) (77:3.1)
+	La primera torre fue construida 50.000 años después de la muerte de Nod, es decir, hace unos 150.000 años (77:3.1)
 	El segundo intento de reconstrucción por parte de los anditas falló (77:3.9)
 	tercer esfuerzo de construirla por parte de los anditas (78:8.4)
 	monumento a la grandeza racial nodita; contenciones (77:3)
@@ -223,8 +223,8 @@ la corteza terrestre estabilizada por el mar fundido de (58:5.3-4)
 forma de lava más pesada que el granito (58:5.6)
 Palisades of Hudson formadas por extrusión de (60:1.3)
 
-Basán | | | LUGAR | 
-brutal incursión hebrea contra el rey de (69:8.3)
+Basan | | | LUGAR | 
+brutal incursión hebrea contra el rey de Basan (69:8.3)
 
 cestería | | | | 
 origen de la idea (81:2.17-18)
@@ -327,8 +327,6 @@ comportamiento | | Ver acción | |
 ser | | | | 
 versus hacer (140:10.1)
 
-seres | | Ver criaturas; personalidad | | 
-
 Beirut | (156:3.1) | | LUGAR | 
 Población por la que pasó Jesús
 
@@ -381,7 +379,7 @@ adoración del meteoro que cayó en 1880 d.C. (85:1.2)
 bereberes | | Ver raza blanca:divisiones:sur | RAZA | 
 raza azul mezclada con saharauis (80:9.11)
 
-Puente terrestre del estrecho de Bering | | | LUGAR | 
+puente terrestre de Bering | | | LUGAR | 
 lémures, las tortugas migraron (62:1.2) (60:2.13)
 la raza roja emigró, 100.000-85.000 a.C. (64:6.5) (79:5.6)
 subió o bajó (60:1.6,13) (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6)
@@ -389,7 +387,7 @@ subió o bajó (60:1.6,13) (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6)
 Berenice | | | PERSONA | 
 madre de Justa (156:2.2)
 
-donación | | Ver Hijos Creadores:donaciones de criaturas; Hijos Paradisíacos de Dios:donaciones | | 
+donación | | Ver Hijos Creadores:donaciones de criaturas | | 
 
 Asistentes de las Donaciones | | Ver Serafines supremos | | 
 144 Serafines supremos que asisten a misiones avonales (39:1.4-6)
@@ -479,6 +477,8 @@ La ley judía prohibía el testimonio de traidores (184:3.6)
 última hora antes de la de Judas (139:12.12-13) (182:2)
 el dinero no es el motivo de Judas (139:12.5)
 Las Solemnidades de la Confianza reflejan las posibilidades individuales de (28:6.14)
+primer crimen capital (70:10.15)
+castigo de traición en nación continental (72:6.9)
 
 traidor | | Ver Judas Iscariote | | 
 
@@ -487,11 +487,9 @@ esponsales | | Ver matrimonio | |
 hechicerías | | | | 
 Jesús denunció la creencia en (150:3.12)
 
-Biblia | | Ver Nuevo Testamento; Antiguo Testamento; libros sagrados | | 
+Biblia | | Ver libros sagrados | | 
 
 bigamia | | Ver matrimonio:entre primitivos | | 
-
-fanatismo | | Ver intolerancia; prejuicios | | 
 
 Bildad | | | PERSONA | 
 ofreció un consejo deprimente para Job (148:6.5,9)
@@ -513,8 +511,6 @@ los primitivos creían que las aves eran la fuente del viento (85:3.4)
 tipos nombrados | Ver murciélagos; buitres; palomas mensajeras; palomas; patos; águilas; halcones; flamencos; gaviotas; garzas; avestruces; búhos; loros; aves pasajeras; palomas; aves de corral; codorniz; cuervos; gorriones
 utilizado para el transporte en Jerusem (46:2.4)
 
-nacimiento | | Ver parto; renacimiento espiritual | | 
-
 texto de cumpleaños | | Ver Jesús:texto de cumpleaños de Isaías | | 
 
 marcas de nacimiento | | | | 
@@ -527,7 +523,7 @@ Mateo predicó en (139:7.10)
 
 montañas de la Selva Negra | (59:5.12) | | LUGAR | 
 
-Viernes negro | | | | 
+Viernes Negro | | | | 
 conmemoró la muerte autoinfligida de Atis (98:4.7)
 
 raza negra | | Ver raza índiga | RAZA | 
@@ -544,7 +540,7 @@ primeros especialistas; disfrutó de privilegios especiales; odiado (69:3.6,9)
 indios pies negros | | | RAZA | 
 descendientes de Onamonalontón (64:6.7)
 
-culpa | | | | 
+acusación; acusar; inculpar; condenar | | | | 
 Judas culpó a otros por sus dificultades (193:4.7)
 Colocar los fallos propios sobre los demás (176:3.9)
 abstenerse de condenar (147:8.4)
@@ -675,8 +671,6 @@ Bon | | Ver cien de Caligastia | PERSONA |
 y todo el concilio perdido en rebelión (67:4.1)
 tablero dirigido de domesticación y utilización de animales (66:5.4)
 
-enlace | | Ver siervos esclavos; promesas enlace de tablero de cera | | 
-
 siervos esclavos | | | | 
 entre las primeras propiedades acumuladas (69:5.8)
 
@@ -686,7 +680,7 @@ de muertos se cree muy mágico (88:5.2)
 Primates hechos espículas de (63:1.2)
 primitivos líderes venerados "(88:2.1)
 
-Libros | | | | 
+Libros; libro de la vida | | | | 
 Hechos de los Apóstoles | Ver Hechos de los Apóstoles
 De los muertos | Ver Libro de los muertos
 Deuteronomio | Ver Deuteronomio
@@ -696,7 +690,7 @@ Génesis | Ver Génesis
 Hebreos | Ver Hebreos
 Isaías | Ver Isaías (primero); Isaías (segundo)
 Job.
-Libro de la vida. los Custodios del Conocimiento son libros vivientes (27:5.1)
+Libro de la vida. Los Custodios del Conocimiento son libros vivientes (27:5.1)
 Proverbios | Ver Proverbios (libro)
 Salmos.
 Apocalipsis | Ver Apocalipsis
@@ -746,7 +740,7 @@ India quedó desamparada por la hipótesis impersonal de (94:2.4,7)
 Infinito Uno, ES; sin atributos de personalidad (94:3.2) (94:4.3)
 Superalma védica de toda la creación (94:2.4)
 
-Brahmánas | | Ver brahmánismo; hinduismo | | 
+Brahmánas; Brahmanas | | Ver brahmánismo; hinduismo | | 
 Escrituras posteriores de la fe hindú (94:2.6)
 
 brahmánismo | (94:2) (94:3) | Ver Brahma; Brahmán; Brahmánas; hinduismo; India | RELIGION | 
@@ -793,7 +787,7 @@ ramas | | | |
 morir cuando se separa de la vid (180:2.1)
 Padre corta sin fruto (193:3.2)
 
-valentía | | Ver coraje | | 
+valentía | | Ver valor | | 
 
 pan | | | | 
 pan de vida
@@ -820,17 +814,17 @@ parábola de los 3 panes (144:2.3)
 
 amamantamiento | | Ver destete | | 
 
-respiración | | Ver respiración | | 
+respiración | | | | 
 los hombres primitivos pensaban que las cualidades del alma impartidas por (86:5.13)
 
-Dador de aliento | | | | 
+Dador del Aliento | | | | 
 Onagar ordenó a los andonitas que adoraran (45:4.3) (63:6.1) (64:1.7)
 
 aliento de vida | (28:5.21) | Ver vida; plasma vital | | 
 el hombre primitivo se consideraba diferenciador de los vivos de los muertos (86:4.3)
 Los Espíritus Maternos de los universos locales contribuyen (34:2.5) (36:6.4)
 
-Paso de Brenner | | | | 
+Paso del Brenner | | | | 
 Los nórdicos comerciaron con los danubianos a través de (80:9.4)
 
 hermanos de religion | | | | 
@@ -927,8 +921,6 @@ encargado de todas las comunicaciones personales (39:2.17)
 Gavalia, primogénito, es el jefe de las Brillantes Estrellas Vespertinas ascendente en Nebadon (37:2.6) (46:5.25) (119:0.1)
 escribió el documento 119 (119:8.9)
 
-Bretaña | | Ver islas británicas | LUGAR | 
-
 Columbia Británica | (60:3.14) | | LUGAR | 
 
 Islas Británicas | | | LUGAR | 
@@ -942,7 +934,7 @@ Misioneros de Salem en (93:7.2)
 separado del continente (64:1.5) (80:2.4)
 raza blanca dominante en 5000 a.C. (80:5.8)
 
-Bretaña | | | LUGAR | 
+Bretaña | | Ver Islas Británicas | LUGAR | 
 Los andonitas mayores retuvieron una apariencia de identidad en (80:4.6)
 las supersticiones de la adoración al sol aún persisten (80:9.14)
 
@@ -969,8 +961,6 @@ utilizar técnicas ideográficas superáficas (39:2.15)
 
 emisoras (Supernafines terciarios) | | Ver transmisiones (celestiales) | ORDEN | 
 directores de informes espaciales, Supernafines terciarios (26:3.6)
-
-radiodifusión (radio) | | Ver transmisión de radio | | 
 
 transmisiones (celestiales) | (46:3) | Ver transmisores (Serafines superiores); emisoras (Supernafines terciarios) | ORDEN | 
 Los ajustadores reciben transmisiones continuamente a través de circuitos maestros (110:4.1) (110:7.6)
@@ -1000,7 +990,7 @@ El Señor está cerca del (131:2.10)
 bronce | | | | 
 Descubrimiento de la adansonita (81:3.5)
 
-Edad de Bronce | | | | 
+Edad del Bronce | | | | 
 California. 3.000 a.C.. (80:9.13)
 no es un período distinto (81:3.4)
 
@@ -1056,8 +1046,6 @@ la universalidad del amor de Dios crea (12:7.8,10)
 Hermandad de los Intermedios Unidos | | Ver intermedios | PERSONA | 
 
 hermandades | | Ver sociedades secretas | | 
-
-hermanos y hermanas | | Ver hermanos | | 
 
 hombres cobrizos | | Ver razas | RAZA | 
 razas rojas y amarillas mixtas; islas controladas frente a Asia (64:7.6,16)
@@ -1126,8 +1114,6 @@ edificios | | | |
 todo a prueba de fuego en la nación continental (72:7.4)
 sacrificio de la fundación una vez acostumbrado (89:6.4)
 
-bueyes | | Ver ganado | | 
-
 toros | | | | 
 Las tribus egipcias adoraban (95:2.3)
 Mitra mató al toro sagrado (98:5.3)
@@ -1154,7 +1140,7 @@ raza inferior (68:1.6) (103:3.1)
 sin nombres individuales (88:5.5)
 todavía emplean líneas de recolección de alimentos (68:5.3)
 
-negocio | | Ver comercio; ganarse la vida; industria | | 
+negocio | | Ver comercio | | 
 
 mantequilla | | | | 
 se hizo común en los días del personal del Príncipe (66:5.5)
