@@ -10,9 +10,6 @@
 # Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
 ####################################################################################
 
-
-César | | Ver Augusto; Calígula; Constantino; gobierno:relación de los creyentes con; Imperio Romano; Tiberio; Tito (Emperador) | PERSONA | 
-
 Cesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | LUGAR | 
 Herodes el Idumea construyó (121:2.11)
 hogar de Natán, autor del Evangelio de Juan (121:8.10)
@@ -1016,7 +1013,7 @@ las mujeres aman naturalmente a los bebés más que los hombres (69:3.2)
 chimpancés | (62:5.2) | Ver simios | | 
 los mamíferos intermedios retrasados ​​eran antepasados ​​de (62:3.12)
 
-Ch'in Shih Huang Ti | | | PERSONA | 
+Tsin-Chi-Hoang-Ti | | | PERSONA | 
 combatió el confucianismo (94:6.11)
 
 China | | Ver chinos; Honan; Kansu; Shensi; Ti Tao; río Yangtze; raza amarilla; río Amarillo | LUGAR | 
@@ -1085,9 +1082,9 @@ cloro | (57:8.3) | | |
 fabricación de clorofila | | | | 
 paso más importante en la evolución de las plantas (65:6.3)
 
-elección | | Ver consagración de elección; decisiones; libre albedrío | | 
+elección | | Ver libre albedrío | | 
 
-Corazina | (138:9.3) (152:7.3) | | LUGAR | 
+Corazín | (138:9.3) (152:7.3) | | LUGAR | 
 rechazo general del evangelio en (146:4.6) (155:2)
 ay de los habitantes de (163:6.5) que rechazan la luz
 
@@ -1113,9 +1110,8 @@ No sacrifiques al Jesús humano al concepto de Cristo glorificado (196:1.2) (196
 Miguel de Nebadon llamado Cristo Miguel (0:5.3) (20:4.4) (21:0.3) (21:6.4) (27:0.2) (30:4.11) (33:1.1) (33:2.3) (37:2.6) (37:5.1) (40:6.5) (40:7.2) (45:4.1) (50:6.5) (51:3.9) (52:5.5) (52:6.1) (53:0.2) (53:5.3) (75:2.2) (77:6.6) (77:7.5) (83:8.3) (92:4.8) (93:9.11) (93:10.5-8) (94:6.1) (98:7.2) (101:6.5) (102:3.14) (119:8.8-9) (120:0.9) (120:4.2-3) (121:1.1) (121:3.1) (136:5.4) (196:1.1)
 el ungido (98:7.2)
 
-Iglesia cristiana inicial | | Ver cristianismo; Iglesia católica romana | RELIGION | 
-3 factores primordiales en la rápida propagación; razones del triunfo (132:0.5
-8) (195:0.5-18) (195:1.2-4)
+Iglesia cristiana inicial; iglesia cristiana; cristianismo | | Ver cristianismo; Iglesia católica romana | RELIGION | 
+3 factores primordiales en la rápida propagación; razones del triunfo (132:0.5-8) (195:0.5-18) (195:1.2-4)
 Abner representó el punto de vista babilónico (166:5.2,4) (171:1.6)
 La iglesia abneriana se centró en Filadelfia; perdido en el movimiento islámico (171:1.6) (195:1.11)
 después de Pentecostés (195)
@@ -1170,7 +1166,7 @@ compuesto en gran parte por clases bajas y esclavos (121:3.7)
 Competidor de mitraísmo de (121:5.8)
 organizado bajo Pedro; Santiago hermano de Jesús era jefe titular; Tesorero del matadormo (92:6.18) (163:2.7) (194:4.12)
 Iglesia paulina con sede en Antioquía (171:1.6) (196:2.6)
-la persecución en Jerusalén esparció a los creyentes (141:6.6)
+la persecución en Jerusalén esparció a los creyentes (143:6.6)
 la persecución resultó del término "reino" (170:2.24-25)
 Predicó a Dios como Padre del Señor Jesucristo, hermandad de creyentes con Cristo resucitado (5:4.8) (194:0.4)
 La Cena del Recuerdo se originó en la ceremonia de la Pascua (89:9.2)
@@ -1371,7 +1367,7 @@ de Jerusem asignan calificaciones para el sufragio (45:7.7)
 cidra | | | | 
 fruta prohibida (162:4.4)
 
-Ciudad de David | | Ver Belén | LUGAR | 
+Ciudad de David | | Ver Belén (Judea) | LUGAR | 
 
 Ciudad de Judá | | | LUGAR | 
 un pequeño pueblo a 4 millas al oeste de Jerusalén; hogar de Isabel y Zacarías (122:2.6-7) (135:0.2)
@@ -1529,7 +1525,7 @@ Estado territorial tuvo una amarga lucha con (71:1.23) (134:5.8)
 
 clases, sociales | | Ver clases sociales | | 
 
-Claudia Procula | | | PERSONA | 
+Claudia Prócula | | | PERSONA | 
 le pidió a Pilato que no arrestara a Jesús (183:2.3)
 Mensaje a Pilato sobre Jesús (185:5.7-8)
 esposa de Poncio Pilato; se identificó de manera prominente con el evangelio (185:1.7) (185:2.6)
@@ -1537,7 +1533,7 @@ esposa de Poncio Pilato; se identificó de manera prominente con el evangelio (1
 Claudio | | | PERSONA | 
 Dueño de esclavos romano con quien Jesús habló (132:4.5)
 
-Claudus | | | PERSONA | 
+Claudo | | | PERSONA | 
 joven desanimado a quien Jesús habló (130:8.1)
 
 garras | | | | 
@@ -1555,7 +1551,7 @@ limpiando el templo | (173:1) | | |
 Clemente | | | PERSONA | 
 enseñado por Pantaenos (195:3.10)
 
-Cleofás de Emaús | | | PERSONA | 
+Cleofás de Emaús; Cleofás | | | PERSONA | 
 en la séptima aparición de Jesús (190:5)
 
 astucia | | | | 
@@ -1619,11 +1615,11 @@ El personal del Príncipe enseñó el trabajo en equipo (66:7.6)
 el trabajo en equipo depende del liderazgo (81:6.37)
 el trabajo en equipo es una de las lecciones más importantes (28:5.14)
 
-Coordinar los Hijos Creadores | | Ver Hijos Creadores | ORDEN | 
+Hijos Creadores coordinados | | Ver Hijos Creadores | ORDEN | 
 
-Coordinar a las Hijas Ministrantes | | Ver Espíritus Maternos de los universos locales | ORDEN | 
+Hijas Ministrantes Coordinadas | | Ver Espíritus Maternos de los universos locales | ORDEN | 
 
-Coordinar seres de origen trinitario | | Ver seres de origen trinitario | ORDEN | 
+Seres Coordinados de Origen Trinitario | | Ver Seres de origen trinitario | ORDEN | 
 
 Coordinadores y los Directores de Enlace | | | ORDEN | 
 Compañeros Morontiales; instructores de conducta social (48:3.11)
@@ -1640,8 +1636,8 @@ las capas se alternan con pizarra, piedra y conglomerado (59:5.15)
 algunos estratos que contienen carbón tienen 18.000 pies de espesor (59:5.15)
 Restos de vegetación de pantano común conservados en agua y modificados por presión (59:5.14-17)
 
-Saco | | | | 
-cuando Saco tomado, ofrece manto (159:5.11)
+abrigo | | | | 
+cuando os quiten el abrigo, ofreced vuestro otro vestido (159:5.11)
 
 polla | | Ver aves de corral | | 
 
@@ -1707,8 +1703,7 @@ colores | | | |
 los Músicos Celestiales hacen sinfonías de color (44:1.6)
 
 coma | | | | 
-los antiguos creían que el alma dejaba el cuerpo durante (86:5.4
-8)
+los antiguos creían que el alma dejaba el cuerpo durante (86:5.4-8)
 La hija de Jairo en (152:1.2)
 personas a menudo sepultadas cuando simplemente están en (167:4.3)
 estaba el hijo de la viuda en Naín (146:6.2-3)
@@ -2285,8 +2280,6 @@ El personal del Príncipe enseñó cocina para evitar la enfermedad (66:5.18)
 energía reducida necesaria para la digestión (69:6.7)
 
 mapaches | (61:2.7) | | | 
-
-cooperación | | Ver cooperación | | 
 
 cobre | | | | 
 criado en lava (58:7.6)

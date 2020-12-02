@@ -219,6 +219,8 @@ class TopicIndex {
 					extendArray(errors, errs);
 				}
 			});
+
+			errors.sort();
 			
 			fs.writeFile(filePath, JSON.stringify(errors, null, 4), 'utf-8', (err) => {
 				if (err) {
