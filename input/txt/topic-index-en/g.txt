@@ -390,8 +390,6 @@ Jesus alone in (182:3sec)
 olive press near entrance to (183:0.3)
 on western slope of Mount of Olives near Kidron (142:8.4)
 
-ghostland. See deadland
-
 ghosts (Paper 87)
 cults were insurance against hazards of bad luck (87:0.1)
 early peoples associated g. with the sea (84:1.4)
@@ -480,8 +478,6 @@ Judas hung himself with (186:1.7)
 
 Gischala (138:9.3) (146:4.6) (156:6.3)
 Place near Galilee sea where Jesus preached
-
-giving. See altruism; sharing
 
 glaciers. See also ice ages
 appearance in Permian (59:6.6)
@@ -587,10 +583,10 @@ also known as. See also Deity: also known as; Universal Father: also known as
 	Makers (48:4.15)
 	Most High (4:1.4) (96:1.9)
 	One Source of Life (45:4.9)
-	One Truth (45:4.8) (65:6.15) (79:6.10) (79:8.4)
+	One Truth (45:4.8) (64:6.15) (79:6.10) (79:8.4) (94:5.3)
 	Powers of Paradise (27:7.6)
 	Shang-ti (79:8.7) (94:5.3)
-	Supreme Chief (45:4.6) (65:6.23)
+	Supreme Chief (45:4.6) (64:6.23)
 	Supreme Directors (48:4.7)
 	Supreme Rulers (46:8.4) (50:1.2) (53:2.4) (54:1.9) (54:3.1) (54:4.5) (65:8.2)
 	Unknown (64:6.26)
@@ -804,8 +800,6 @@ sevenfold controllers are physical-control level of (116:5.1-9)
 successive levels (0:8.1-8)
 Supreme is real to God the Sevenfold now (117:7.5)
 
-God the Sevenfold (of Orvonton) (17:1.5)
-
 God the Son. See Eternal Son
 
 God the Spirit. See Infinite Spirit
@@ -849,8 +843,12 @@ Godad
 hermit to whom Gautama should have listened (94:7.4)
 
 Godheads. See Eternal Son; Infinite Spirit; Universal Father
+Refers to
+	Universal Father
+	Eternal Son
+	Infinite Spirit
 
-Godlikeness. See divinity; spiritual growth
+Godlikeness. See spiritual growth
 
 gods and goddesses
 Andites had 33 (94:1.2-3)
@@ -1278,7 +1276,7 @@ in personality registers (30:1.77) (30:2.73)
 Malvorian was the first (24:6.4-6)
 minister on all circuits of Havona (26:6.1)
 never leave Havona (24:0.10) (24:6.9)
-pilot pilgrims through Havona worlds; stay with same pilgrim throughout (24:6.1,3) (26:9.5) (26:10.7)
+pilot pilgrims through Havona worlds; stay with same pilgrim throughout (24:6.1,3) (26:10.7)
 training program for (25:1.5)
 transformed Havona Servitals (24:7.1-7) (25:1.7)
 
@@ -1485,6 +1483,10 @@ Great River
 Egyptians expected ka would be waiting on other side (111:0.6)
 
 Great Sources and Centers. See Eternal Son; Infinite Spirit; Universal Father
+Refers to
+	Universal Father
+	Eternal Son
+	Infinite Spirit
 
 Great Spirit
 Onamonalonton referred to God as (45:4.5?) (64:6.7)
@@ -1620,12 +1622,8 @@ slow westward drift (58:4.3)
 
 greensand marl (60:3.9)
 
-greetings. See salutations
-
 Gregorian calendar
 used in Urantia Papers (57:0.1) (126:3.1)
-
-grief. See anxiety; depression; fear; sorrow
 
 groups. See also co-operation; family; fellowship of believers; friendship; individual, the; parts and the whole
 3 persons are minimum group (10:2.3) (39:3.6)

@@ -159,7 +159,8 @@ class TopicIndex {
 							errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
 						} else if (data.length === 5) {
 							if (data[1].startsWith('(') && data[1].endsWith(')')) {
-								refs = data[1].split(/[()]/g).filter(i => i.trim() != '');
+								refs = data[1].split(/[()]/g).filter(i => i.trim() != '' &&
+									i.trim().length > 2);
 							}
 							if (data[2].startsWith('Ver ')) {
 								seeAlso = data[2].substring(4).split(';').map(s => s.trim());
@@ -271,7 +272,7 @@ class TopicIndex {
 					let refs = t.refs.slice();
 					let invalid = [];
 					t.lines.forEach(line => extendArray(refs, line.refs));
-					const notFounded = refs.filter(ref => {
+					const notFound = refs.filter(ref => {
 						let refsToFind = null;
 						try {
 							refsToFind = book.getRefs(ref);
@@ -297,9 +298,9 @@ class TopicIndex {
 							fileline: t.fileline
 						});
 					}
-					if (refs.length > 0 && notFounded.length === refs.length) {
+					if (refs.length > 0 && notFound.length === refs.length) {
 						t.errors.push({
-							desc: `'${t.name}' en ninguna ref: ${notFounded.join('|')}`,
+							desc: `'${t.name}' en ninguna ref: ${notFound.join('|')}`,
 							fileline: t.fileline
 						});
 					}

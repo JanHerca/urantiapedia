@@ -456,7 +456,7 @@ evangelios, libros y epístolas nombrados
 	Epístola de Santiago | Ver Santiago (hermano de Jesús):Epístola de
 	Epístola a los Hebreos | Ver Libro de Hebreos
 	Primera epístola de Juan | Ver Juan Zebedeo:Primera Epístola
-	Primera epístola de Pedro | Ver Simón Pedro:Primera Epístola
+	Primera Epístola de Pedro | Ver Simón Pedro:Primera Epístola
 	Evangelio de Juan | Ver Juan Zebedeo:Evangelio de Juan
 	Evangelio de Lucas | Ver Lucas:Evangelio de Lucas
 	Evangelio de Marcos | Ver Juan Marcos:Evangelio de Marcos
