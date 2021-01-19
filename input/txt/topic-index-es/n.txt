@@ -79,19 +79,19 @@ hija de Elman; miembro del cuerpo de mujeres (150:1.1)
 Natán de Busiris | | | PERSONA | 
 llevó noticias de la crucifixión a Alejandría (191:6.1)
 
-Natán de Cesarea | | | PERSONA | 
+Natán de Cesarea; Natán | | | PERSONA | 
 Judío griego; escribió el Evangelio de Juan (121:8.10) (139:4.4,15)
 
-Natán de Caná | | | PERSONA | 
+Natán de Caná; Natán | | | PERSONA | 
 padre de Johab, novio de las bodas de Caná (137:3.6)
 escasez de vino (137:4.7)
 
-Natán de Nazaret | | | PERSONA | 
+Natán de Nazaret; Natán | | | PERSONA | 
 alfarero (123:5.15) (124:1.3)
 
 Natanael (apóstol) | (139:6) (143:3.5) (144:1.7) (151:2.3) (164:0.1) (192:4.7) | Ver apóstoles de Jesús | PERSONA | 
 filósofo apostólico, soñador (139:6.4) (147:4.10) (191:0.7)
-en las apariciones de Jesús (191:2.5) (192:1-4) (193:0.3,5)
+en las apariciones de Jesús (191:5.2) (192:1-4) (193:0.3,5)
 asistió a la sesión del sanedrín (164:5.3)
 actitud
 	¿Puede salir algo bueno de Nazaret? (137:2.6) (139:6.3)
@@ -123,13 +123,11 @@ soltero; de Caná; sólo apoyo a padres enfermos; 25 en el año 26 d.C. (137:2.3
 velaba por las familias de los apóstoles (138:10.5) (139:6.7)
 bien educado (139:6.2)
 
-Natanael el fariseo | | | PERSONA | 
+Natanael el fariseo; Natanael | | | PERSONA | 
 invitó a Jesús a desayunar (166:1)
 
 Consejo de la Defensa Nacional | | | | 
 en la nación continental (72:7.7,14) (72:11.1)
-
-defensa nacional | | Ver militar; autodefensa | | 
 
 nacionalismo | | Ver naciones; patriotismo | | 
 La era del Príncipe Planetario culmina en una intensa (52:2.5)
@@ -221,7 +219,7 @@ la sinagoga tenía una copia completa de las escrituras hebreas (123:5.3)
 escuela de la sinagoga; vista desde la colina arriba (123:5)
 la primavera de la aldea era el centro de los chismes (123:5.15)
 
-Nazareos | | | RELIGION | 
+nazareos; nazareno; colonia nazarena; hermandad nazarena; escuela nazarena | | | RELIGION | 
 Abner, antiguo jefe de (165:0.1)
 ascético y excéntrico; la mayoría se negó a aceptar a Jesús (142:8.1)
 creía en la venida del Mesías (137:7.12)
@@ -255,7 +253,7 @@ personalidades celestiales en Nebadon
 	1 criatura de control direccional | Ver criaturas del control direccional
 	1 Padre Melquisedek | Ver Padre Melquisedek
 	1 Espíritu Materno del universo local | Ver universos locales; Espíritu Materno del universo local de Nebadon
-	1 supervisor del circuito del universo (terciario) (24:1.11) (37:8.3)
+	1 supervisor del circuito del universo, terciario (24:1.11) (37:8.3)
 	3 millones de Supervisores Celestiales (37:6.1)
 	70 mil millones de Compañeros Morontiales (37:8.9)
 	75 Registradores Celestiales (37:8.8)
@@ -321,7 +319,7 @@ aspectos físicos (41)
 	hora | Ver tiempo:días y años
 	trabajo comenzado en Nebadon 400 mil millones de años (57:3.8-9)
 Salvington es la capital de (15:7.7)
-algunos Mensajeros Poderosos y AquelLos Elevados en Autoridad recientemente de (22:2.4) (22:3.2)
+algunos Mensajeros Poderosos y Aquellos Elevados en Autoridad recientemente de (22:2.4) (22:3.2)
 la identidad del alma de Jesús puede ser liberada para el liderazgo de los finalitarios en (188:3.8)
 sufrió 3 rebeliones por parte de los Soberanos de los Sistemas
 	1o por Lutentia (119:2.1-2)
@@ -381,8 +379,6 @@ necesidades | | | |
 Padre conoce nuestras necesidades antes de preguntar (3:3.2) (140:6.11)
 la sociedad está cargada con un crecimiento excesivo de supuestos (68:2.5)
 
-el necesitado | | Ver desafortunados; el débil | | 
-
 negativismo | | | | 
 error mayor de las religiones modernas (140:4.7)
 a menudo entrenado en niños (103:2.5-6)
@@ -405,7 +401,7 @@ Urantia mucho mejor preparado para el gobierno planetario (72:12.5)
 Nepal | | | LUGAR | 
 Gautama nació en (94:7.1)
 
-Nefilim | | | RAZA | 
+nefilim | | | RAZA | 
 Referencia del Antiguo Testamento a los noditas (77:2.3)
 
 Neptuno (dios) | (130:3.4) | | PERSONA | 
@@ -438,10 +434,10 @@ Nueva Jerusalén | | Ver Mesías | |
 creencia que el Mesías parecería establecer (176:1.6)
 en visión de Juan el Revelador (52:7.11)
 
-Nueva piedra arenisca roja | (60:1.4) | | | 
+nueva arenisca roja | (60:1.4) | | | 
 
-Nueva Edad de Piedra | | | | 
-California. 3.000 a.C. (80:9.13-14)
+Neolítico | | | | 
+3.000 a.C. en Europa (80:9.13-14)
 
 Nuevo Testamento | (180:1) | Ver libros sagrados | | 
 Abner no mencionado (166:5.3)
@@ -454,7 +450,7 @@ evangelios, libros y epístolas nombrados
 	Libro de los Hechos de los Apóstoles | Ver Hechos de los Apóstoles
 	Libro del Apocalipsis | Ver Apocalipsis
 	Epístola de Santiago | Ver Santiago (hermano de Jesús):Epístola de
-	Epístola a los Hebreos | Ver Libro de Hebreos
+	Epístola a los Hebreos | Ver Libro de los Hebreos
 	Primera epístola de Juan | Ver Juan Zebedeo:Primera Epístola
 	Primera Epístola de Pedro | Ver Simón Pedro:Primera Epístola
 	Evangelio de Juan | Ver Juan Zebedeo:Evangelio de Juan
@@ -541,8 +537,6 @@ las casas preconizadas se hagan como barcos (78:7.5)
 leyenda del diluvio de Mitra (98:5.3)
 Monte Ararat y la historia del diluvio (77:4.12) (78:7.3-5)
 
-nobleza | | Ver aristocracia; grandeza | | 
-
 Nod (tierra) | | | LUGAR | 
 Caín partió hacia Nod; al este del segundo Edén (76:2.9)
 Caín encontró esposa en (74:8.8) (148:4.7)
@@ -581,7 +575,7 @@ practicas
 	enemistad tradicional con los amadonitas (73:1.4)
 N. pre-sumerio mezclado con adanitas para convertirse en sumerios (77:2.10) (77:4.6)
 sacerdotes en el primer y segundo jardín fueron (76:2.2-3)
-referido como Nefilim en el Antiguo Testamento (77:2.3)
+referido como nefilim en el Antiguo Testamento (77:2.3)
 consideraba al hombre como alma y cuerpo (86:5.17)
 dividido en 3 grupos después de la destrucción de Dalamatia (73:1.5)
 todavía un pueblo capaz en tiempos de Adán (77:4.1)
@@ -605,7 +599,7 @@ no existencia | | Ver no supervivientes | |
 
 no religiosos | | Ver incrédulos | | 
 
-sin resistencia | | Ver lucha; autodefensa | | 
+no resistencia | | Ver lucha; autodefensa | | 
 acusación de que los especímenes debilitados perecerían pronto (143:1.2)
 Jesús
 	uso aprobado de la fuerza para proteger a la mayoría (173:1.11)
@@ -623,8 +617,6 @@ la no violencia es solo una actitud política y económica adecuada de la religi
 de reacción egoísta al universo (180:5.9)
 no resistir el daño a los sentimientos de dignidad personal (141:3.8)
 La raza violeta retuvo las tradiciones edénicas de paz durante muchos milenios (78:3.1) (78:4.5)
-
-no supervivencia | | Ver extinción; no sobrevivientes | | 
 
 no supervivientes | | Ver muerte:muerte espiritual; extinción; juicio; resurrección; llamamiento:de justicia; salvación; supervivencia (de la muerte mortal) | | 
 Los Ajustadores conservan las realidades nacidas del amor y el servicio (16:9.3) (47:3.4) (196:3.35)
@@ -666,7 +658,7 @@ Satania elige 10 a Norlatiadek legislatura (45:3.22) (45:7.4)
 norte | | | | 
 dirección absoluta establecida por el eje del Paraíso (11:2.3)
 
-Norteamérica | | Ver Canadá; México; Estados Unidos de Norteamérica | LUGAR | 
+Norteamérica | | Ver Canadá; Méjico; Estados Unidos de Norteamérica | LUGAR | 
 24 grandes inundaciones (60:4.1)
 descubierto por razas blancas ca. 1000 d.C. (79:5.7)
 extensa zona de caza abierta y fértil (81:6.4)
@@ -690,7 +682,7 @@ aguas una vez calientes (63:5.2)
 auroras boreales | | | | 
 Cinturones de aire superiores de Urantia relacionados con (46:1.6)
 
-Noruega | (61:5.8) | Ver escandinavos | LUGAR | 
+Noruega; fiordos noruegos | (61:5.8) | Ver escandinavos | LUGAR | 
 
 nostalgia | | | | 
 los mortales experimentan nostalgia en Salvington (39:1.10)
