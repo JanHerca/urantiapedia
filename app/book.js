@@ -16,6 +16,7 @@ class Book {
 	pars = [];
 	papers = [];
 	onProgressFn = null;
+	warnings = [];
 
 	/**
 	 * Devuelve un array de tres valores [paper_id, section_id, par_id]
@@ -649,6 +650,35 @@ class Book {
 	};
 
 	/**
+	 * Escribe en un fichero warnings.json un volcado de los warnings encontrados.
+	 * Los warnings no son errores sino cosas que potencialmente necesitan una
+	 * revisión.
+	 * @param {string} dirPath Carpeta de salida.
+	 * @return {Promise}
+	 */
+	writeWarnings = (dirPath) => {
+		const baseName = path.basename(dirPath);
+		const filePath = path.join(dirPath, 'warnings.json');
+		return new Promise((resolve, reject) => {
+			fs.access(dirPath, fs.constants.W_OK, (err) => {
+				if (err) {
+					reject([new Error(`El directorio ${baseName} no está accesible`)]);
+					return;
+				}
+
+				fs.writeFile(filePath, JSON.stringify(this.warnings, null, 4), 'utf-8', 
+					(err) => {
+						if (err) {
+							reject(err);
+							return;
+						}
+						resolve(null);
+					});
+			});
+		});
+	};
+
+	/**
 	 * Escribe las páginas de índices de `El Libro de Urantia` en formato Wiki.
 	 * El nombre de los ficheros resultantes son `El_Libro_de_Urantia_Indice.wiki`
 	 * y `El_Libro_de_Urantia_Indice_extendido.wiki`
@@ -904,7 +934,12 @@ class Book {
 								return (i === 0 && topic.name.indexOf('(') != -1 ?
 									`[[${topic.name}|${name}]]` : `[[${name}]]`);
 							});
+							const previous = pcontent;
 							pcontent = replaceWords(names, links, pcontent);
+							if (previous === pcontent) {
+								this.warnings.push(
+									`${topic.name} no encontrado en ${par.par_ref}`);
+							}
 						});
 					}
 					while (wfootnotes.length > 0 && 

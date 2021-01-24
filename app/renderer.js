@@ -14,7 +14,8 @@ const controlIDs = [
 	'dirJButton', 'dirJTextbox', 
 	'dirWButton', 'dirWTextbox', 
 	'drpProcess', 'exeButton', 'logArea', 
-	'progress', 'chkMerge', 'drpTopics'];
+	'progress', 'chkMerge', 
+	'drpTopics', 'drpCategories'];
 const controls = {};
 
 const onLoad = () => {
@@ -29,6 +30,7 @@ const onLoad = () => {
 		handle_dirButtonClick.bind(this, controls.dirWTextbox));
 	controls.exeButton.addEventListener('click', handle_exeButtonClick);
 	controls.drpTopics.addEventListener('change', handle_drpTopicsChange);
+	showCategoriesList();
 };
 
 const handle_dirButtonClick = (textbox) => {
@@ -52,88 +54,89 @@ const handle_exeButtonClick = () => {
 	const jsonDir = controls.dirJTextbox.value;
 	const txtDir = controls.dirTTextbox.value;
 	const wikiDir = controls.dirWTextbox.value;
+	const category = controls.drpCategories.value;
 
 	if (process ==='ttt' && checkControls(['dirJTextbox', 'dirTTextbox'])) {
-		// Leemos LU en formato JSON, luego leemos Referencias Biblia en formato TXT,
-		// y escribimos los TXT traducidos
+		// Leemos LU (*.json) + Referencias Biblia (*.txt) => escribimos traducción (*.txt)
 		book.readFromJSON(jsonDir)
 			.then(() => bibleref.readFromTXT(txtDir))
 			.then(() => bibleref.translate(txtDir, book))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'clj' && checkControls(['dirLTextbox', 'dirJTextbox'])) {
-		// Leemos LU en formato LaTeX y escribimos JSON
+		// Leemos LU (*.tex) => escribimos (*.json)
 		book.readFromLaTeX(latexDir)
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'clw' && checkControls(['dirLTextbox', 'dirTTextbox', 'dirWTextbox'])) {
-		// Leemos LU en formato LaTeX y escribimos Wiki
+		// Leemos LU (*.tex) + Topic Index (*.txt) => escribimos (*.wiki)
 		book.readFromLaTeX(latexDir)
-			.then(() => topicindex.readFromTXT(txtDir))
+			.then(() => topicindex.readFromTXT(txtDir, category))
 			.then(() => book.writeToWiki(wikiDir, topicindex))
+			.then(() => book.writeWarnings(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'clx' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
-		// Leemos LU en formato LaTeX y escribimos Wiki XML
+	} /*else if (process === 'clx' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
+		// Leemos LU (*.tex) => escribimos Wiki (*.xml)
 		book.readFromLaTeX(latexDir)
 			.then(() => book.writeToWikiXML(wikiDir, controls.chkMerge.checked))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cjl' && checkControls(['dirJTextbox', 'dirLTextbox'])) {
-		// Leemos LU en formato JSON y escribimos LaTeX
+	}*/ else if (process === 'cjl' && checkControls(['dirJTextbox', 'dirLTextbox'])) {
+		// Leemos LU (*.json) => escribimos (*.tex) 
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeToLaTeX(latexDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'cjw' && checkControls(['dirJTextbox', 'dirTTextbox', 'dirWTextbox'])) {
-		// Leemos LU en formato JSON y escribimos Wiki
+		// Leemos LU (*.json) + Topic Index (*.txt) => escribimos (*.wiki)
 		book.readFromJSON(jsonDir)
-			.then(() => topicindex.readFromTXT(txtDir))
+			.then(() => topicindex.readFromTXT(txtDir, category))
 			.then(() => book.writeToWiki(wikiDir, topicindex))
+			.then(() => book.writeWarnings(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cjx' && checkControls(['dirJTextbox', 'dirWTextbox'])) {
-		// Leemos LU en formato JSON y escribimos Wiki XML
+	} /*else if (process === 'cjx' && checkControls(['dirJTextbox', 'dirWTextbox'])) {
+		// Leemos LU (*.json) => escribimos Wiki (*.xml)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeToWikiXML(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cijw' && checkControls(['dirJTextbox', 'dirWTextbox'])) {
-		//Leemos LU en formato JSON y escribimos Indices en Wiki
+	}*/ else if (process === 'cijw' && checkControls(['dirJTextbox', 'dirWTextbox'])) {
+		//Leemos LU (*.json) => escribimos Indices (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeIndexToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'cblw' && checkControls(['dirTTextbox', 'dirLTextbox', 'dirWTextbox'])) {
-		// Leemos Referencias Biblia en formato TXT, luego leemos Biblia en formato LaTeX 
-		// y escribimos Wiki
+		// Leemos Referencias Biblia (*.txt) + leemos Biblia (*.tex) => escribimos (*.wiki)
 		bibleref.readFromTXT(txtDir)
 			.then(() => bible.readFromLaTeX(latexDir))
 			.then(() => bible.writeToWiki(wikiDir, bibleref))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cblx' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
-		// Leemos Biblia en formato LaTeX y escribimos Wiki XML
+	} /*else if (process === 'cblx' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
+		// Leemos Biblia (*.tex) => escribimos Wiki (*.xml)
 		bible.readFromLaTeX(latexDir)
 			.then(() => bible.writeToWikiXML(wikiDir, controls.chkMerge.checked))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'ctiw' && checkControls(['dirTTextbox', 'dirWTextbox'])) {
-		// Leemos TopicIndex en formato TXT y escribimos Wiki
-		topicindex.readFromTXT(txtDir)
+	}*/ else if (process === 'ctiw' && checkControls(['dirTTextbox', 'dirWTextbox'])) {
+		// Leemos TopicIndex (*.txt) => escribimos en (*.wiki)
+		topicindex.readFromTXT(txtDir, category)
 			.then(() => topicindex.writeToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'citw' && checkControls(['dirTTextbox', 'dirWTextbox'])) {
-		// Leemos Indice de TopicIndex en formato TXT y escribimos Wiki
-		topicindex.readFromTXT(txtDir)
+		// Leemos Indice de TopicIndex (*.txt) => escribimos (*.wiki)
+		topicindex.readFromTXT(txtDir, category)
 			.then(() => topicindex.writeIndexToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'rti' && checkControls(['dirTTextbox', 'dirJTextbox'])) {
-		// Leemos TopicIndex en formato TXT y luego leemos LU en formato JSON
-		topicindex.readFromTXT(txtDir)
+		// Leemos TopicIndex (*.txt) => luego leemos LU (*.json)
+		topicindex.readFromTXT(txtDir, category)
 			.then(() => book.readFromJSON(jsonDir))
 			.then(() => topicindex.check(book))
 			.then(() => topicindex.writeErrors(txtDir))
@@ -143,7 +146,7 @@ const handle_exeButtonClick = () => {
 				showTopic(topicindex.topics[0].name);
 			}).catch(onFail);
 	} else if (process === 'nti' && checkControls(['dirTTextbox'])) {
-		// Leemos TopicIndex en formato TXT y volvemos a escribir igual
+		// Leemos TopicIndex (*.txt) => volvemos a escribir igual
 		// pero modificando la primera línea de cada entrada
 		topicindex.normalize(txtDir)
 			.then(() => onSuccess(okMsgs))
@@ -222,27 +225,45 @@ const showTopic = (name) => {
 		html += topic.lines.map(line => {
 			return `<p class="mb-1"><strong>${line.text}</strong></p>` +
 				line.refs.map(ref => {
-					//TODO: ordenar por LU ref y por epigrafes
-					const data = ref.split(/[:.]/g);
-					if (data.length < 2) return null;
-					const doc = parseInt(data[0]), sec = parseInt(data[1]);
-					const ppar = (data.length > 2 ? data[2].match(/^[0-9]+/g) : null);
-					let par = (ppar ? parseInt(ppar[0]) : null);
-					par = (par == null || isNaN(par) ? 1 : par);
-					if (isNaN(doc) || isNaN(sec)) return null;
-					const paper = book.papers.find(p => p.paper_index === doc);
-					if (!paper) return null;
-					const section = paper.sections.find(s => s.section_index === sec);
-					if (!section) return null;
-					const parr = section.pars.find(p =>
-						p.par_ref === `${doc}:${sec}.${par}`);
-					if (!parr) return null;
+					let arRefs = null;
+					try {
+						arRefs = book.getRefs(ref);
+					} catch (er) {
+						return `<p class="mb-0 alert alert-danger">Error en referencia ${ref}</p>`;
+					}
+					return arRefs.map(r => {
+						const par = book.getPar(r[0], r[1], r[2]);
+						return `<p class="mb-2"><em>${par.par_content}</em> [LU ${r[0]}:${r[1]}.${r[2]}]</p>`;
+					}).join('');
 					
-					return `<p class="mb-2"><em>${parr.par_content}</em> [LU ${ref}]</p>`;
+					// const data = ref.split(/[:.]/g);
+					// if (data.length < 2) return null;
+					// const doc = parseInt(data[0]), sec = parseInt(data[1]);
+					// const ppar = (data.length > 2 ? data[2].match(/^[0-9]+/g) : null);
+					// let par = (ppar ? parseInt(ppar[0]) : null);
+					// par = (par == null || isNaN(par) ? 1 : par);
+					// if (isNaN(doc) || isNaN(sec)) return null;
+					// const paper = book.papers.find(p => p.paper_index === doc);
+					// if (!paper) return null;
+					// const section = paper.sections.find(s => s.section_index === sec);
+					// if (!section) return null;
+					// const parr = section.pars.find(p =>
+					// 	p.par_ref === `${doc}:${sec}.${par}`);
+					// if (!parr) return null;
+					
+					
 				}).filter(r => r != null).join('');
 		}).join('');
 	}
 	controls.logArea.innerHTML = html;
+};
+
+const showCategoriesList = () => {
+	const topicTypes = [
+		'TODOS', 'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION', 'OTRO'];
+	controls.drpCategories.innerHTML = topicTypes
+		.map(t => `<option value="${t}">${t}</option>`)
+		.join('');
 };
 
 const onProgress = (baseName) => {

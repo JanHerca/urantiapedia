@@ -57,10 +57,14 @@ class TopicIndex {
 	/**
 	 * Lee todos los archivos del Topic Index en formato TXT de una carpeta.
 	 * @param {string} dirPath Carpeta de entrada.
+	 * @param {string} category La categoría de los términos del Topic Index
+	 * que deben ser leídos. Los que no entren dentro de la categoría serán
+	 * ignorados. Para leer todo usar 'TODOS'.
 	 * @return {Promise}
 	 */
-	readFromTXT = (dirPath) => {
-		return readFrom(dirPath, '.txt', this.clear, this.readFileFromTXT, this);
+	readFromTXT = (dirPath, category) => {
+		return readFrom(dirPath, '.txt', this.clear, 
+			this.readFileFromTXT.bind(this, category), this);
 	};
 
 	/**
@@ -72,10 +76,13 @@ class TopicIndex {
 
 	/**
 	 * Lee un archivo TXT del Topic Index.
-	 * @param {*} filePath Archivo TXT del Topic Index.
+	 * @param {string} category La categoría de los términos del Topic Index
+	 * que deben ser leídos. Los que no entren dentro de la categoría serán
+	 * ignorados. Para leer todo usar 'TODOS'.
+	 * @param {string} filePath Archivo TXT del Topic Index.
 	 * @return {Promise}
 	 */
-	readFileFromTXT = (filePath) => {
+	readFileFromTXT = (category, filePath) => {
 		const baseName = path.basename(filePath);
 		return new Promise((resolve, reject) => {
 			if (this.onProgressFn) {
@@ -101,7 +108,9 @@ class TopicIndex {
 					data = tline.split('|').map(i => i.trim());
 					
 					if (current && (tline === '' || i === lines.length - 1)) {
-						this.topics.push(current);
+						if (category === 'TODOS' || category === current.type) {
+							this.topics.push(current);
+						}
 						current = null;
 					} else if (current && tline.length > 0) {
 						topicline = {
@@ -487,12 +496,18 @@ class TopicIndex {
 			const end = '\r\n\r\n';
 			let containRefs = false;
 
+			//Resolvemos redireccionamientos
 			if (topic.isRedirect && topic.seeAlso.length === 1) {
 				wiki = `#REDIRECT [[${topic.seeAlso[0]}]]`;
 			}
 
-			//TODO: Refs a nivel del topic?
+			//Añadimos las Referencias a nivel del Topic arriba del todo
+			if (topic.refs && topic.refs.length > 0) {
+				wiki += 'Véase: ' + this.refsToWiki(topic.refs) + end;
+				containRefs = true;
+			}
 
+			//Añadimos el contenido de las líneas en headings junto a sus Referencias
 			topic.lines.forEach((line, i) => {
 				let heading = '=';
 				const nextline = topic.lines[i + 1];
@@ -515,19 +530,10 @@ class TopicIndex {
 					}
 					wiki += content;
 					
-					line.refs.forEach(ref => {
-						let data = ref.split(/[:.]/g);
-						wiki += '<ref>{{lib|LU|';
-						if (data.length === 1) {
-							wiki += data[0];
-						} else if (data.length === 2) {
-							wiki += `${data[0]}|${data[1]}`;
-						} else if (data.length === 3) {
-							wiki += `${data[0]}|${data[1]}|${data[2]}`;
-						}
-						wiki += '}}</ref> ';
+					if (line.refs && line.refs.length > 0) {
+						wiki += this.refsToWiki(line.refs);
 						containRefs = true;
-					});
+					}
 
 					if (nextline && line.level > nextline.level) {
 						wiki += `${end}`;
@@ -536,6 +542,7 @@ class TopicIndex {
 				
 			});
 
+			//Añadimos los Enlaces
 			if (topic.seeAlso && topic.seeAlso.length > 0) {
 				wiki += `${end}== Enlaces ==${end}`;
 				topic.seeAlso.forEach(also => {
@@ -545,7 +552,7 @@ class TopicIndex {
 				})
 			}
 			topic.lines.forEach((line, i) => {
-				if (line.seeAlso) {
+				if (line.seeAlso && line.seeAlso.length > 0) {
 					wiki += '* ';
 					line.seeAlso.forEach((also, j) => {
 						let also2 = also.replace(/ /g, '_').replace(/:/g, '#');
@@ -561,6 +568,8 @@ class TopicIndex {
 				wiki += `${end}== Referencias ==\r\n<references />\r\n`;
 			}
 
+			//TODO: Añadir sistema para adjuntar enlaces externos a la Wikipedia
+
 			fs.writeFile(filePath, wiki, 'utf-8', (err) => {
 				if (err) {
 					reject(err);
@@ -569,6 +578,28 @@ class TopicIndex {
 				resolve(null);
 			});
 		});
+	};
+
+	/**
+	 * Convierte un array de referencias a formato Wiki.
+	 * @param {string[]} refs Referencias.
+	 * @return {string}
+	 */
+	refsToWiki = (refs) => {
+		let wiki = '';
+		refs.forEach(ref => {
+			let data = ref.split(/[:.]/g);
+			wiki += '<ref>{{lib|LU|';
+			if (data.length === 1) {
+				wiki += data[0];
+			} else if (data.length === 2) {
+				wiki += `${data[0]}|${data[1]}`;
+			} else if (data.length === 3) {
+				wiki += `${data[0]}|${data[1]}|${data[2]}`;
+			}
+			wiki += '}}</ref> ';
+		});
+		return wiki;
 	};
 
 	/**
@@ -625,6 +656,53 @@ class TopicIndex {
 				resolve(null);
 			});
 
+		});
+	};
+
+	/**
+	 * Escribe todas las entradas del Topic Index en formato JSON de El Libro
+	 * de Urantia. Las entradas se guardan en una propriedad links que contiene
+	 * un array de objetos con la definición de cada enlace a crear. El guardado
+	 * se hace de forma incremental. No se elimina un array ya existente sino que
+	 * se actualiza con nuevas entradas si es necesario.
+	 * @param {Book} book El Libro de Urantia.
+	 */
+	writeToJSON = (book) => {
+		return new Promise((resolve, reject) => {
+			this.topics.forEach(topic => {
+				//Textos a buscar
+				let names = [topic.name];
+				extendArray(names, topic.altnames);
+				//Lista de referencias en el libro donde buscar
+				let refs = topic.refs.slice();
+				topic.lines.forEach(line => extendArray(refs, line.refs));
+				//Convertimos las referencias en un array de párrafos no repetidos
+				let pars = [];
+				let errors = [];
+				refs.forEach(ref => {
+					try {
+						let ppars = book.getRefs(ref).filter(ppar => {
+							return pars.find(p => {
+								return (JSON.stringify(p) === JSON.stringify(ppar));
+							}) == undefined;
+						});
+						extendArray(pars, ppars);
+					} catch (er) {
+						errors.push(er);
+					}
+				});
+				if (errors.length > 0) {
+					reject(errors);
+					return;
+				}
+				//Bucle por todos los párrafos a buscar
+				pars.forEach(par => {
+					const parObj = book.getPar(par[0], par[1], par[2]);
+					names.forEach(name => {
+						//TODO:
+					});
+				});
+			});
 		});
 	};
 };
