@@ -535,9 +535,9 @@ class TopicIndex {
 						containRefs = true;
 					}
 
-					if (nextline && line.level > nextline.level) {
-						wiki += `${end}`;
-					}
+					// if (nextline && line.level > nextline.level) {
+					// 	wiki += `${end}`;
+					// }
 				}
 				
 			});
