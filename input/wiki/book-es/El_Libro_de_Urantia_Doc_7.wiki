@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 6|Documento 6. El Hijo Eterno]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 8|Documento 8. El Espíritu Infinito]]
+|}
+
 == DOCUMENTO 7. LAS RELACIONES DEL HIJO ETERNO CON EL UNIVERSO ==
 
 {{anchor|LU_7_0}}
@@ -136,6 +141,11 @@
 {{anchor|LU_7_7_6}} <sup><small>7:7.6</small></sup> Deberíais comprender más cosas sobre el carácter y la naturaleza misericordiosa del [[Hijo Eterno]] de la misericordia a medida que reflexionéis sobre la revelación de estos atributos divinos, efectuada como servicio amoroso por vuestro propio Hijo Creador, en otro tiempo Hijo del Hombre en la Tierra, y ahora soberano exaltado de vuestro universo local —el Hijo del Hombre y el Hijo de Dios.
 
 {{anchor|LU_7_7_7}} <sup><small>7:7.7</small></sup> [Redactado por un Consejero Divino designado para formular esta declaración que describe al Hijo Eterno del Paraíso.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 6|Documento 6. El Hijo Eterno]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 8|Documento 8. El Espíritu Infinito]]
+|}
 
 == Referencias ==
 

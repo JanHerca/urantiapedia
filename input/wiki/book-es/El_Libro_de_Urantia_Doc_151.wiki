@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 150|Documento 150. La tercera gira de predicación]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 152|Documento 152. Los acontecimientos que condujeron a la crisis de Cafarnaúm]]
+|}
+
 == DOCUMENTO 151. ESTANCIA Y ENSEÑANZA A LA ORILLA DEL MAR ==
 
 {{anchor|LU_151_0}}
@@ -120,6 +125,11 @@
 {{anchor|LU_151_6_7}} <sup><small>151:6.7</small></sup> Jesús no consiguió el descanso que iba buscando. La mayor parte de aquel día estuvo asediado por la gente que venía en respuesta a la noticia de que [[Amós (lunático de Jeresa)|Amós]] había sido curado, y atraída por la historia de que los demonios habían salido del lunático metiéndose en la piara de cerdos. Y así, el martes por la mañana temprano, después de una sola noche de descanso, Jesús y sus amigos fueron despertados por una delegación de estos gentiles criadores de cerdos que venía para exigirles que se fueran de su región. Su portavoz dijo a Pedro y a Andrés: «Pescadores de Galilea, iros de aquí y llevaos a vuestro profeta. Sabemos que es un hombre santo, pero los dioses de nuestro país no lo conocen, y corremos el riesgo de perder muchos cerdos. Tenemos miedo de vosotros, y por eso os rogamos que os vayáis de aquí». Cuando Jesús los escuchó, le dijo a Andrés: «Volvamos a nuestro hogar»<ref name="n31"/>.
 
 {{anchor|LU_151_6_8}} <sup><small>151:6.8</small></sup> Cuando estaban a punto de partir, [[Amós (lunático de Jeresa)|Amós]] le suplicó a Jesús que le permitiera ir con ellos, pero el Maestro no quiso consentirlo. Jesús le dijo a Amós: «No olvides que eres un hijo de Dios. Vuelve con tu propia gente y muéstrales las grandes cosas que Dios ha hecho por ti». Y Amós se puso a divulgar por todas partes que Jesús había echado a una legión de demonios de su alma perturbada, y que estos espíritus malignos se habían metido en una piara de cerdos, que los habían llevado rápidamente a la destrucción. Y no se detuvo hasta que hubo recorrido todas las ciudades de la Decápolis, proclamando las grandes cosas que Jesús había hecho por él<ref name="n32"/>.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 150|Documento 150. La tercera gira de predicación]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 152|Documento 152. Los acontecimientos que condujeron a la crisis de Cafarnaúm]]
+|}
 
 == Referencias ==
 

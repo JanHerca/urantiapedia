@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 41|Documento 41. Aspectos físicos del universo local]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 43|Documento 43. Las constelaciones]]
+|}
+
 == DOCUMENTO 42. LA ENERGÍA —LA MENTE Y LA MATERIA ==
 
 {{anchor|LU_42_0}}
@@ -302,6 +307,11 @@
 {{anchor|LU_42_12_15}} <sup><small>42:12.15</small></sup> La mente domina universalmente a la materia, al igual que es sensible a su vez al supercontrol último del espíritu. Y en el hombre mortal, sólo la mente que se somete libremente a la dirección del espíritu puede esperar sobrevivir a la existencia mortal espacio-temporal como un hijo inmortal del mundo espiritual eterno del Supremo, del Último y del Absoluto: del Infinito.
 
 {{anchor|LU_42_12_16}} <sup><small>42:12.16</small></sup> [Presentado, a petición de Gabriel, por un Mensajero Poderoso de servicio en Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 41|Documento 41. Aspectos físicos del universo local]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 43|Documento 43. Las constelaciones]]
+|}
 
 == Referencias ==
 

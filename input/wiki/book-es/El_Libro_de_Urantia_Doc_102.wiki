@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 101|Documento 101. La naturaleza real de la religión]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 103|Documento 103. La realidad de la experiencia religiosa]]
+|}
+
 == DOCUMENTO 102. LOS FUNDAMENTOS DE LA FE RELIGIOSA ==
 
 {{anchor|LU_102_0}}
@@ -158,6 +163,11 @@
 {{anchor|LU_102_8_7}} <sup><small>102:8.7</small></sup> Pero la religión nunca es realzada cuando se recurre a los pretendidos milagros. La búsqueda de los milagros es un retroceso a las religiones primitivas de la magia. La verdadera religión no tiene nada que ver con los supuestos milagros, y la religión revelada nunca se apoya en los milagros como prueba de su autoridad. La religión está siempre arraigada y basada en la experiencia personal. Y vuestra religión más elevada, la vida de Jesús, fue precisamente una experiencia personal de este tipo: el hombre, el hombre mortal, buscando a Dios y encontrándolo plenamente en el transcurso de una corta vida en la carne, mientras que en esta misma experiencia humana Dios se manifestó buscando al hombre y encontrándolo, para la plena satisfacción del alma perfecta de la supremacía infinita. Esto es la religión, la más elevada que se haya revelado hasta ahora en el universo de Nebadon —la vida terrestre de Jesús de Nazaret.
 
 {{anchor|LU_102_8_8}} <sup><small>102:8.8</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 101|Documento 101. La naturaleza real de la religión]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 103|Documento 103. La realidad de la experiencia religiosa]]
+|}
 
 == Referencias ==
 

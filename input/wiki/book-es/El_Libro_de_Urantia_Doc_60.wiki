@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 59|Documento 59. La era de la vida marina en Urantia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 61|Documento 61. La era de los mamíferos en Urantia]]
+|}
+
 == DOCUMENTO 60. URANTIA DURANTE LA ERA DE LA VIDA TERRESTRE PRIMITIVA ==
 
 {{anchor|LU_60_0}}
@@ -130,6 +135,11 @@
 {{anchor|LU_60_4_6}} <sup><small>60:4.6</small></sup> Así finaliza una larga era de la evolución mundial, que se extiende desde la primera aparición de la vida terrestre hasta los tiempos más recientes de los antepasados inmediatos de la especie humana y sus ramas colaterales. Esta época, llamada ''Cretácea'', abarca cincuenta millones de años y pone fin a la era premamífera de la vida terrestre, que se prolonga durante un período de cien millones de años y se conoce con el nombre de ''Mesozoica''.
 
 {{anchor|LU_60_4_7}} <sup><small>60:4.7</small></sup> [Presentado por un Portador de Vida de Nebadon asignado a Satania, y que ahora ejerce su actividad en Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 59|Documento 59. La era de la vida marina en Urantia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 61|Documento 61. La era de los mamíferos en Urantia]]
+|}
 
 == Referencias ==
 

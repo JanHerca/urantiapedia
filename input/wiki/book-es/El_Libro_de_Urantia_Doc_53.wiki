@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 52|Documento 52. Las épocas planetarias de los mortales]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 54|Documento 54. Los problemas de la rebelión de Lucifer]]
+|}
+
 == DOCUMENTO 53. LA REBELIÓN DE LUCIFER ==
 
 {{anchor|LU_53_0}}
@@ -166,6 +171,11 @@
 {{anchor|LU_53_9_8}} <sup><small>53:9.8</small></sup> Pero durante eras enteras, los siete mundos prisiones de tinieblas espirituales de Satania han constituido una advertencia solemne para todo Nebadon, proclamando de manera elocuente y eficaz la gran verdad de que «el camino del transgresor es duro»<ref name="n42"/>; que «dentro de cada pecado se oculta la semilla de su propia destrucción»; que «el salario del pecado es la muerte»<ref name="n43"/>.
 
 {{anchor|LU_53_9_9}} <sup><small>53:9.9</small></sup> [Presentado por Manovandet Melquisedek, en otro tiempo vinculado a los síndicos de Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 52|Documento 52. Las épocas planetarias de los mortales]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 54|Documento 54. Los problemas de la rebelión de Lucifer]]
+|}
 
 == Referencias ==
 

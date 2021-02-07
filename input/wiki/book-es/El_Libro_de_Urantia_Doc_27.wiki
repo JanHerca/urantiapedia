@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 26|Documento 26. Los espíritus ministrantes del universo central]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 28|Documento 28. Los espíritus ministrantes de los superuniversos]]
+|}
+
 == DOCUMENTO 27. EL MINISTERIO DE LOS SUPERNAFINES PRIMARIOS ==
 
 {{anchor|LU_27_0}}
@@ -114,6 +119,11 @@
 {{anchor|LU_27_7_10}} <sup><small>27:7.10</small></sup> El servicio interminable para la Trinidad del Paraíso está a punto de empezar; y ahora el finalitario se encuentra frente a frente con el desafío de Dios Último.
 
 {{anchor|LU_27_7_11}} <sup><small>27:7.11</small></sup> [Presentado por un Perfeccionador de la Sabiduría procedente de Uversa.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 26|Documento 26. Los espíritus ministrantes del universo central]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 28|Documento 28. Los espíritus ministrantes de los superuniversos]]
+|}
 
 == Referencias ==
 

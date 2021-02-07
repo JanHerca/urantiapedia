@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 103|Documento 103. La realidad de la experiencia religiosa]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 105|Documento 105. La Deidad y la realidad]]
+|}
+
 == DOCUMENTO 104. EL CRECIMIENTO DEL CONCEPTO DE LA TRINIDAD ==
 
 {{anchor|LU_104_0}}
@@ -212,6 +217,11 @@
 {{anchor|LU_104_5_12}} <sup><small>104:5.12</small></sup> Al igual que las triunidades se ocupan sobre todo de unificar funcionalmente la infinidad, las triodidades están implicadas en la aparición cósmica de las Deidades experienciales. Las triunidades se ocupan indirectamente de las Deidades experienciales —Suprema, Última y Absoluta— pero las triodidades se ocupan directamente de ellas. Aparecen en la síntesis emergente compuesta por el poder y la personalidad del Ser Supremo. Para las criaturas temporales del espacio, el Ser Supremo es una revelación de la unidad del YO SOY.
 
 {{anchor|LU_104_5_13}} <sup><small>104:5.13</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 103|Documento 103. La realidad de la experiencia religiosa]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 105|Documento 105. La Deidad y la realidad]]
+|}
 
 == Referencias ==
 

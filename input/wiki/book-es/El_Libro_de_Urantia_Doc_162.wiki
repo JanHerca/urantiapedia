@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 161|Documento 161. Otras discusiones con Rodán]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 163|Documento 163. La ordenación de los setenta en Magadán]]
+|}
+
 == DOCUMENTO 162. EN LA FIESTA DE LOS TABERNÁCULOS ==
 
 {{anchor|LU_162_0}}
@@ -138,6 +143,11 @@
 {{anchor|LU_162_9_6}} <sup><small>162:9.6</small></sup> A finales de octubre, Jesús y los doce se alejaron de las proximidades inmediatas de Jerusalén. El domingo 30 de octubre, Jesús y sus asociados dejaron la ciudad de Efraín, donde el Maestro había descansado aislado durante unos días; tomaron la carretera al oeste del Jordán y se dirigieron directamente al Parque de Magadán, donde llegaron al final de la tarde del miércoles 2 de noviembre.
 
 {{anchor|LU_162_9_7}} <sup><small>162:9.7</small></sup> Los apóstoles se sintieron muy aliviados por tener al Maestro de vuelta en una región amistosa; nunca más le insistieron para que fuera a Jerusalén a proclamar el evangelio del reino.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 161|Documento 161. Otras discusiones con Rodán]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 163|Documento 163. La ordenación de los setenta en Magadán]]
+|}
 
 == Referencias ==
 

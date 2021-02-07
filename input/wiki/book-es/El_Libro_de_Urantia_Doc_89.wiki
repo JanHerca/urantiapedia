@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 88|Documento 88. Fetiches, amuletos y magia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 90|Documento 90. El chamanismo ---los curanderos y los sacerdotes]]
+|}
+
 == DOCUMENTO 89. PECADO, SACRIFICIO Y EXPIACIÓN ==
 
 {{anchor|LU_89_0}}
@@ -180,6 +185,11 @@
 {{anchor|LU_89_10_6}} <sup><small>89:10.6</small></sup> Cuando los pecados son perdonados por la Deidad, se produce la reanudación de las relaciones leales después de un período durante el cual el hombre es consciente de la interrupción de dichas relaciones como consecuencia de una rebelión consciente. No es necesario buscar el perdón, sino únicamente recibirlo teniendo conciencia del restablecimiento de las relaciones leales entre la criatura y el Creador. Y todos los hijos leales de Dios son felices, aman el servicio y progresan constantemente en la ascensión hacia el Paraíso.
 
 {{anchor|LU_89_10_7}} <sup><small>89:10.7</small></sup> [Presentado por una Brillante Estrella Vespertina de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 88|Documento 88. Fetiches, amuletos y magia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 90|Documento 90. El chamanismo ---los curanderos y los sacerdotes]]
+|}
 
 == Referencias ==
 

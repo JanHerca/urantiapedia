@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 154|Documento 154. Los últimos días en Cafarnaúm]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 156|Documento 156. La estancia en Tiro y Sidón]]
+|}
+
 == DOCUMENTO 155. LA HUIDA POR EL NORTE DE GALILEA ==
 
 {{anchor|LU_155_0}}
@@ -124,6 +129,11 @@
 {{anchor|LU_155_6_18}} <sup><small>155:6.18</small></sup> Vosotros sois mis apóstoles, y la religión no se convertirá para vosotros en un refugio teológico al que podréis huir cuando temáis enfrentaros con las duras realidades del progreso espiritual y de la aventura idealista. Vuestra religión se convertirá más bien en el hecho de una experiencia real que atestigua que Dios os ha encontrado, idealizado, ennoblecido y espiritualizado, y que os habéis alistado en la aventura eterna de encontrar al Dios que así os ha encontrado y os ha hecho hijos suyos.
 
 {{anchor|LU_155_6_19}} <sup><small>155:6.19</small></sup> Cuando Jesús terminó de hablar, hizo una seña a Andrés, apuntó hacia el oeste en dirección a Fenicia, y dijo: «Pongámonos en camino».
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 154|Documento 154. Los últimos días en Cafarnaúm]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 156|Documento 156. La estancia en Tiro y Sidón]]
+|}
 
 == Referencias ==
 

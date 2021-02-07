@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 177|Documento 177. El miércoles, día de descanso]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 179|Documento 179. La Última cena]]
+|}
+
 == DOCUMENTO 178. EL ÚLTIMO DÍA EN EL CAMPAMENTO ==
 
 {{anchor|LU_178_0}}
@@ -82,6 +87,11 @@
 {{anchor|LU_178_3_5}} <sup><small>178:3.5</small></sup> Cuando el Maestro terminó de hablar, se levantó y todos le siguieron mientras descendían el Olivete y entraban con él en la ciudad. Ninguno de los apóstoles, salvo tres, sabía adónde iban mientras caminaban por las estrechas calles a la caída de la noche. Las multitudes los empujaban, pero nadie los reconoció ni supo que el Hijo de Dios pasaba por allí camino de su última reunión como ser mortal con sus embajadores escogidos del reino. Y los apóstoles tampoco sabían que uno de ellos mismos ya había empezado a conspirar para traicionar al Maestro y entregarlo a sus enemigos.
 
 {{anchor|LU_178_3_6}} <sup><small>178:3.6</small></sup> Juan Marcos los había seguido todo el camino hasta la ciudad, y después de que hubieron entrado por la puerta, corrió por otra calle, de manera que los estaba esperando para recibirlos cuando llegaran a la casa de su padre.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 177|Documento 177. El miércoles, día de descanso]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 179|Documento 179. La Última cena]]
+|}
 
 == Referencias ==
 

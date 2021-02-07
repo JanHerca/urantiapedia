@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 1|Documento 1. El Padre Universal]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 3|Documento 3. Los atributos de Dios]]
+|}
+
 == DOCUMENTO 2. LA NATURALEZA DE DIOS ==
 
 {{anchor|LU_2_0}}
@@ -148,6 +153,11 @@
 {{anchor|LU_2_7_12}} <sup><small>2:7.12</small></sup> La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora. Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad. La verdadera finalidad de toda la educación en el universo consiste en coordinar de la mejor manera a los hijos aislados de los mundos con las realidades más amplias de su experiencia en expansión. La realidad es finita en el nivel humano, y es infinita y eterna en los niveles superiores y divinos.
 
 {{anchor|LU_2_7_13}} <sup><small>2:7.13</small></sup> [Presentado por un Consejero Divino, que actúa por autoridad de los Ancianos de los Días de Uversa]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 1|Documento 1. El Padre Universal]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 3|Documento 3. Los atributos de Dios]]
+|}
 
 == Referencias ==
 

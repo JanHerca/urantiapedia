@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 148|Documento 148. La preparación de los evangelistas en Betsaida]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 150|Documento 150. La tercera gira de predicación]]
+|}
+
 == DOCUMENTO 149. LA SEGUNDA GIRA DE PREDICACIÓN ==
 
 {{anchor|LU_149_0}}
@@ -128,6 +133,11 @@
 {{anchor|LU_149_7_2}} <sup><small>149:7.2</small></sup> El grupo permaneció junto hasta el sábado, alojándose en los hogares de Betsaida y de la ciudad cercana de Cafarnaúm; después, a todo el grupo se le concedió dos semanas de vacaciones para ir a ver a sus familias, visitar a sus amigos o ir a pescar. Los dos o tres días que estuvieron juntos en Betsaida fueron verdaderamente divertidos e inspiradores; incluso los educadores más antiguos se sintieron edificados escuchando a los jóvenes predicadores relatar sus experiencias.
 
 {{anchor|LU_149_7_3}} <sup><small>149:7.3</small></sup> De los 117 evangelistas que participaron en esta segunda gira de predicación por Galilea, unos setenta y cinco solamente sobrevivieron a la prueba de la experiencia real, y estuvieron disponibles para que se les asignara una tarea al final de las dos semanas de descanso. Jesús permaneció en la casa de Zebedeo con Andrés, Pedro, Santiago y Juan, y pasó mucho tiempo conferenciando con ellos sobre el bienestar y la expansión del reino.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 148|Documento 148. La preparación de los evangelistas en Betsaida]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 150|Documento 150. La tercera gira de predicación]]
+|}
 
 == Referencias ==
 

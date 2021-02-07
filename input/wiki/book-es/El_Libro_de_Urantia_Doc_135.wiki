@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 134|Documento 134. Los años de transición]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 136|Documento 136. El bautismo y los cuarenta días]]
+|}
+
 == DOCUMENTO 135. JUAN EL BAUTISTA ==
 
 {{anchor|LU_135_0}}
@@ -170,6 +175,11 @@
 {{anchor|LU_135_12_6}} <sup><small>135:12.6</small></sup> En el transcurso de las festividades y diversiones de la velada, Herodías presentó a su hija para que bailara ante los comensales. Herodes quedó muy complacido con la actuación de la doncella y, llamándola ante él, le dijo: «Eres encantadora. Estoy muy contento contigo. Pídeme en mi cumpleaños todo lo que desees y yo te lo daré, aunque sea la mitad de mi reino». Cuando Herodes dijo esto, se encontraba bajo el influjo de todo lo que había bebido. La joven se retiró y le preguntó a su madre qué debía pedirle a Herodes. Herodías le dijo: «Ve a Herodes y pídele la cabeza de Juan el Bautista». La joven regresó a la mesa del banquete y le dijo a Herodes: «Te pido que me des inmediatamente la cabeza de Juan el Bautista en una bandeja».
 
 {{anchor|LU_135_12_7}} <sup><small>135:12.7</small></sup> Herodes se llenó de temor y de tristeza, pero a causa de su promesa y de todos los testigos que estaban en el banquete con él, no quiso rechazar la petición. Herodes Antipas envió a un soldado, ordenándole que trajera la cabeza de Juan. Así es como Juan fue decapitado aquella noche en la prisión; el soldado trajo la cabeza del profeta en una bandeja y se la dio a la joven detrás de la sala del banquete. Y la doncella entregó la bandeja a su madre. Cuando los discípulos de Juan se enteraron de esto, vinieron a la prisión para recoger su cuerpo, y después de darle sepultura, fueron a decírselo a Jesús.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 134|Documento 134. Los años de transición]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 136|Documento 136. El bautismo y los cuarenta días]]
+|}
 
 == Referencias ==
 

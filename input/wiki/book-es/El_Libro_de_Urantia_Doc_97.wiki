@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 96|Documento 96. Yahvé ---el Dios de los hebreos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 98|Documento 98. Las enseñanzas de Melquisedek en Occidente]]
+|}
+
 == DOCUMENTO 97. LA EVOLUCIÓN DEL CONCEPTO DE DIOS ENTRE LOS HEBREOS ==
 
 {{anchor|LU_97_0}}
@@ -216,6 +221,11 @@
 {{anchor|LU_97_10_8}} <sup><small>97:10.8</small></sup> Así es como los educadores sucesivos de Israel llevaron a cabo, en la evolución de la religión, la hazaña más grande que se haya realizado jamás en Urantia: la transformación gradual pero continua del concepto bárbaro del demonio salvaje Yahvé, el dios espíritu celoso y cruel del volcán fulminante del Sinaí, en el concepto posterior sublime y celestial de un Yahvé supremo, creador de todas las cosas y Padre amante y misericordioso de toda la humanidad. Este concepto hebreo de Dios fue la imagen humana más elevada que se tuvo del Padre Universal hasta el momento en que fue aún más ampliada y exquisitamente desarrollada mediante las enseñanzas personales y el ejemplo de la vida de su Hijo, Miguel de Nebadon.
 
 {{anchor|LU_97_10_9}} <sup><small>97:10.9</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 96|Documento 96. Yahvé ---el Dios de los hebreos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 98|Documento 98. Las enseñanzas de Melquisedek en Occidente]]
+|}
 
 == Referencias ==
 

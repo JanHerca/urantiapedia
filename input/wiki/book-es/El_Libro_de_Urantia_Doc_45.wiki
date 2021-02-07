@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 44|Documento 44. Los artesanos celestiales]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 46|Documento 46. La sede del sistema local]]
+|}
+
 == DOCUMENTO 45. LA ADMINISTRACIÓN DEL SISTEMA LOCAL ==
 
 {{anchor|LU_45_0}}
@@ -192,6 +197,11 @@
 {{anchor|LU_45_7_8}} <sup><small>45:7.8</small></sup> Bajo la supervisión de los Melquisedeks, los Hijos Materiales se encargan de los mortales ascendentes, especialmente de aquellos que son lentos en unificar su personalidad en los nuevos niveles morontiales, y les proporcionan una formación intensiva destinada a rectificar dichas deficiencias. Ningún mortal ascendente deja la sede del sistema para emprender la carrera más extensa y variada de adaptación a la vida social en la constelación hasta que estos Hijos Materiales no han certificado los logros conseguidos en mota por su personalidad —una individualidad que combina la existencia humana consumada en asociación experiencial con la carrera morontial en ciernes, estando las dos debidamente armonizadas gracias al supercontrol espiritual del Ajustador del Pensamiento.
 
 {{anchor|LU_45_7_9}} <sup><small>45:7.9</small></sup> [Presentado por un Melquisedek destinado temporalmente en Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 44|Documento 44. Los artesanos celestiales]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 46|Documento 46. La sede del sistema local]]
+|}
 
 == Referencias ==
 

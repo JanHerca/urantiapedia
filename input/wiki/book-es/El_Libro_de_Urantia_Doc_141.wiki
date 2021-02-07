@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 140|Documento 140. La ordenación de los doce]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 142|Documento 142. La pascua en Jerusalén]]
+|}
+
 == DOCUMENTO 141. EL COMIENZO DE LA OBRA PÚBLICA ==
 
 {{anchor|LU_141_0}}
@@ -134,6 +139,11 @@
 {{anchor|LU_141_9_2}} <sup><small>141:9.2</small></sup> Los discípulos de Juan permanecieron en Betania más allá del Jordán, enseñando y bautizando a las multitudes, de manera que Jesús sólo iba acompañado de los doce cuando llegó a casa de Lázaro. Jesús y los apóstoles se detuvieron allí durante cinco días, descansando y reponiéndose, antes de continuar hacia Jerusalén para la Pascua. Fue un gran acontecimiento en la vida de Marta y María tener al Maestro y a sus apóstoles en el hogar de su hermano, donde pudieron atender sus necesidades.
 
 {{anchor|LU_141_9_3}} <sup><small>141:9.3</small></sup> El domingo 6 de abril por la mañana, Jesús y los apóstoles bajaron a Jerusalén<ref name="n25"/>; ésta era la primera vez que el Maestro y los doce se encontraban allí todos juntos.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 140|Documento 140. La ordenación de los doce]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 142|Documento 142. La pascua en Jerusalén]]
+|}
 
 == Referencias ==
 

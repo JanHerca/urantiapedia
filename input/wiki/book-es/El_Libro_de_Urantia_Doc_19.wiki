@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 18|Documento 18. Las Personalidades Trinitarias Supremas]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 20|Documento 20. Los Hijos Paradisiacos de Dios]]
+|}
+
 == DOCUMENTO 19. LOS SERES COORDINADOS DE ORIGEN TRINITARIO ==
 
 {{anchor|LU_19_0}}
@@ -154,6 +159,11 @@
 {{anchor|LU_19_7_5}} <sup><small>19:7.5</small></sup> Tenemos la capacidad de intercomunicarnos instantáneamente a través de estos mismos medios. Toda nuestra orden creada se encuentra en contacto con todos los individuos incluidos en cada una de las divisiones compuestas por los hijos de la Trinidad del Paraíso, a excepción únicamente de los Espíritus Inspirados.
 
 {{anchor|LU_19_7_6}} <sup><small>19:7.6</small></sup> [Presentado por un Consejero Divino de Uversa.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 18|Documento 18. Las Personalidades Trinitarias Supremas]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 20|Documento 20. Los Hijos Paradisiacos de Dios]]
+|}
 
 == Referencias ==
 

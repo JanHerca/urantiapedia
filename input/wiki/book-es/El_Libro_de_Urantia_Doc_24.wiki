@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 23|Documento 23. Los Mensajeros Solitarios]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 25|Documento 25. Las huestes de mensajeros del espacio]]
+|}
+
 == DOCUMENTO 24. LAS PERSONALIDADES SUPERIORES DEL ESPÍRITU INFINITO ==
 
 {{anchor|LU_24_0}}
@@ -150,6 +155,11 @@
 {{anchor|LU_24_7_9}} <sup><small>24:7.9</small></sup> El Havona que atraviesan ahora los mortales ascendentes difiere en muchos aspectos del universo central que existía antes de la época de Grandfanda. La llegada de los ascendentes mortales a los circuitos de Havona ha introducido profundas modificaciones en la organización de la creación central y divina, unas modificaciones iniciadas indudablemente por el Ser Supremo —el Dios de las criaturas evolutivas— en respuesta a la llegada de su primer hijo experiencial procedente de los siete superuniversos. La aparición de los Guías de los Graduados, junto con la creación de los supernafines terciarios, es un indicio de estas acciones de Dios Supremo.
 
 {{anchor|LU_24_7_10}} <sup><small>24:7.10</small></sup> [Presentado por un Consejero Divino de Uversa.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 23|Documento 23. Los Mensajeros Solitarios]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 25|Documento 25. Las huestes de mensajeros del espacio]]
+|}
 
 == Referencias ==
 

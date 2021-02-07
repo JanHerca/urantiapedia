@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 68|Documento 68. Los albores de la civilización]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 70|Documento 70. La evolución del gobierno humano]]
+|}
+
 == DOCUMENTO 69. LAS INSTITUCIONES HUMANAS PRIMITIVAS ==
 
 {{anchor|LU_69_0}}
@@ -208,6 +213,11 @@
 {{anchor|LU_69_9_18}} <sup><small>69:9.18</small></sup> El orden social actual no es necesariamente justo —no es ni divino ni sagrado— pero la humanidad hará bien en proceder lentamente a efectuar sus cambios. El sistema que tenéis es muy superior a todos los que conocieron vuestros antepasados. Cuando cambiéis el orden social, aseguraos de que lo cambiáis por otro mejor. No os dejéis persuadir de que hay que experimentar con las fórmulas desechadas por vuestros antecesores ¡Avanzad, no retrocedáis! ¡Dejad que continúe la evolución! ¡No deis un paso atrás!
 
 {{anchor|LU_69_9_19}} <sup><small>69:9.19</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 68|Documento 68. Los albores de la civilización]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 70|Documento 70. La evolución del gobierno humano]]
+|}
 
 == Referencias ==
 

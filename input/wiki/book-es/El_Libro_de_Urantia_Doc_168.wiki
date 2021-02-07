@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 167|Documento 167. La visita a Filadelfia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 169|Documento 169. La última enseñanza en Pella]]
+|}
+
 == DOCUMENTO 168. LA RESURRECCIÓN DE LÁZARO ==
 
 {{anchor|LU_168_0}}
@@ -132,6 +137,11 @@
 {{anchor|LU_168_5_2}} <sup><small>168:5.2</small></sup> Así pues, Lázaro se despidió apresuradamente de sus hermanas en Betania, huyó hacia Jericó, atravesó el Jordán, y no se permitió ningún largo descanso hasta haber llegado a Filadelfia. Lázaro conocía bien a Abner, y aquí se sentía a salvo de las intrigas asesinas del malvado sanedrín.
 
 {{anchor|LU_168_5_3}} <sup><small>168:5.3</small></sup> Poco después de esto, Marta y María vendieron sus tierras de Betania y se reunieron con su hermano en Perea. Entretanto, Lázaro se había convertido en el tesorero de la iglesia de Filadelfia. Apoyó firmemente a [[Abner]] en su controversia con Pablo y la iglesia de Jerusalén, y murió finalmente, a los 67 años de edad, de la misma enfermedad que se lo había llevado en Betania cuando era más joven.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 167|Documento 167. La visita a Filadelfia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 169|Documento 169. La última enseñanza en Pella]]
+|}
 
 == Referencias ==
 

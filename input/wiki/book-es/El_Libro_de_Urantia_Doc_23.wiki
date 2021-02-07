@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 22|Documento 22. Los Hijos de Dios Trinitizados]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 24|Documento 24. Las personalidades superiores del Espíritu Infinito]]
+|}
+
 == DOCUMENTO 23. LOS MENSAJEROS SOLITARIOS ==
 
 {{anchor|LU_23_0}}
@@ -114,4 +119,9 @@
 {{anchor|LU_23_4_6}} <sup><small>23:4.6</small></sup> Nos inclinamos a creer que el futuro eterno presenciará unos fenómenos de evolución universal que trascenderán de lejos todo lo que ha experimentado el eterno pasado. Y esperamos estas aventuras extraordinarias, al igual que vosotros deberíais hacerlo, con un intenso entusiasmo y una expectación cada vez mayor.
 
 {{anchor|LU_23_4_7}} <sup><small>23:4.7</small></sup> [Presentado por un Consejero Divino procedente de Uversa.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 22|Documento 22. Los Hijos de Dios Trinitizados]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 24|Documento 24. Las personalidades superiores del Espíritu Infinito]]
+|}
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 5|Documento 5. Las relaciones de Dios con los individuos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 7|Documento 7. Las relaciones del Hijo Eterno con el universo]]
+|}
+
 == DOCUMENTO 6. EL HIJO ETERNO ==
 
 {{anchor|LU_6_0}}
@@ -130,6 +135,11 @@
 {{anchor|LU_6_8_8}} <sup><small>6:8.8</small></sup> El [[Hijo Eterno]] es una personalidad grandiosa y gloriosa. Aunque captar la realidad de la personalidad de este ser infinito sobrepasa la capacidad de la mente mortal y material, no lo dudéis, es una persona. Sé de lo que hablo. He permanecido en la presencia divina de este Hijo Eterno en ocasiones casi innumerables, y luego he viajado hasta el universo para llevar a cabo sus bondadosos mandatos.
 
 {{anchor|LU_6_8_9}} <sup><small>6:8.9</small></sup> [Redactado por un Consejero Divino designado para formular esta exposición que describe al [[Hijo Eterno]] del Paraíso.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 5|Documento 5. Las relaciones de Dios con los individuos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 7|Documento 7. Las relaciones del Hijo Eterno con el universo]]
+|}
 
 == Referencias ==
 

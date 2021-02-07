@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 11|Documento 11. La Isla Eterna del Paraíso]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 13|Documento 13. Las esferas sagradas del Paraíso]]
+|}
+
 == DOCUMENTO 12. EL UNIVERSO DE UNIVERSOS ==
 
 {{anchor|LU_12_0}}
@@ -248,6 +253,11 @@
 {{anchor|LU_12_9_6}} <sup><small>12:9.6</small></sup> El hombre mortal posee un núcleo espiritual. La mente es un sistema energético personal que existe alrededor de un núcleo espiritual divino y que funciona en un entorno material. Esta relación viviente entre la mente personal y el espíritu constituye el potencial universal de la personalidad eterna. Los conflictos reales, las decepciones duraderas, los fracasos importantes o la muerte inevitable sólo pueden producirse cuando los conceptos del yo se atreven a reemplazar por completo el poder dominante del núcleo espiritual central, trastornando así el plan cósmico de la identidad de la personalidad.
 
 {{anchor|LU_12_9_7}} <sup><small>12:9.7</small></sup> [Presentado por un Perfeccionador de la Sabiduría, que actúa por autorización de los Ancianos de los Días.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 11|Documento 11. La Isla Eterna del Paraíso]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 13|Documento 13. Las esferas sagradas del Paraíso]]
+|}
 
 == Referencias ==
 

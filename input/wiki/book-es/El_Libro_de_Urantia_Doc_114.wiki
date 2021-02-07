@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 113|Documento 113. Los guardianes seráficos del destino]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 115|Documento 115. El Ser Supremo]]
+|}
+
 == DOCUMENTO 114. EL GOBIERNO PLANETARIO DE LOS SERAFINES ==
 
 {{anchor|LU_114_0}}
@@ -166,6 +171,11 @@
 {{anchor|LU_114_7_17}} <sup><small>114:7.17</small></sup> Vuestro mundo aislado no está olvidado en los consejos del universo. Urantia no es una huérfana cósmica estigmatizada por el pecado y excluida, por la rebelión, de los vigilantes cuidados divinos. Desde Uversa hasta Salvington y continuando hacia abajo hasta Jerusem, e incluso en Havona y en el Paraíso, todos saben que estamos aquí; y vosotros los mortales que vivís actualmente en Urantia, sois amados con el mismo afecto y cuidados, con la misma fidelidad, e incluso más, que si esta esfera no hubiera sido nunca traicionada por un Príncipe Planetario desleal. Es eternamente cierto que «el Padre mismo os ama»<ref name="n7"/>.
 
 {{anchor|LU_114_7_18}} <sup><small>114:7.18</small></sup> [Presentado por el Jefe de los Serafines estacionados en Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 113|Documento 113. Los guardianes seráficos del destino]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 115|Documento 115. El Ser Supremo]]
+|}
 
 == Referencias ==
 

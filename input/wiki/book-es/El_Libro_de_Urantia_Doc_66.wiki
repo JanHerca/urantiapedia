@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 65|Documento 65. El supercontrol de la evolución]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 67|Documento 67. La rebelión planetaria]]
+|}
+
 == DOCUMENTO 66. EL PRÍNCIPE PLANETARIO DE URANTIA ==
 
 {{anchor|LU_66_0}}
@@ -230,6 +235,11 @@
 {{anchor|LU_66_8_7}} <sup><small>66:8.7</small></sup> Y ahora, este rebelde del reino, despojado de todo poder para perjudicar a sus antiguos súbditos, aguarda la sentencia final de los Ancianos de los Días de Uversa para todos los que participaron en la rebelión de Lucifer.
 
 {{anchor|LU_66_8_8}} <sup><small>66:8.8</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 65|Documento 65. El supercontrol de la evolución]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 67|Documento 67. La rebelión planetaria]]
+|}
 
 == Referencias ==
 

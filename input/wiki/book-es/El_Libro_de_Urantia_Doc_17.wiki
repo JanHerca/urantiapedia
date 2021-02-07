@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 16|Documento 16. Los Siete Espíritus Maestros]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 18|Documento 18. Las Personalidades Trinitarias Supremas]]
+|}
+
 == DOCUMENTO 17. LOS SIETE GRUPOS DE ESPÍRITUS SUPREMOS ==
 
 {{anchor|LU_17_0}}
@@ -154,4 +159,9 @@
 {{anchor|LU_17_8_9}} <sup><small>17:8.9</small></sup> La unidad funcional, inherente al Actor Conjunto, se revela a los universos evolutivos en los Siete Espíritus Maestros, sus personalidades primarias. Pero en los superuniversos perfeccionados del futuro, esta unidad será sin duda inseparable de la soberanía experiencial del Supremo.
 
 {{anchor|LU_17_8_10}} <sup><small>17:8.10</small></sup> [Presentado por un Consejero Divino de Uversa.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 16|Documento 16. Los Siete Espíritus Maestros]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 18|Documento 18. Las Personalidades Trinitarias Supremas]]
+|}
 

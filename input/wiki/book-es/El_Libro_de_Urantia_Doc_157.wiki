@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 156|Documento 156. La estancia en Tiro y Sidón]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 158|Documento 158. El monte de la transfiguración]]
+|}
+
 == DOCUMENTO 157. EN CESAREA DE FILIPO ==
 
 {{anchor|LU_157_0}}
@@ -110,6 +115,11 @@
 {{anchor|LU_157_7_4}} <sup><small>157:7.4</small></sup> Como era de Judea, Judas tomó como una ofensa personal la reciente advertencia de Jesús a los apóstoles: «tened cuidado con la influencia de los fariseos»<ref name="n33"/>; tendía a considerar esta declaración como una alusión velada a él mismo. Pero el gran error de Judas era el siguiente: una y otra vez, cuando Jesús enviaba a sus apóstoles a orar a solas, Judas se entregaba a pensamientos de temor humano, en lugar de buscar una comunión sincera con las fuerzas espirituales del universo; además, se empeñaba en mantener dudas sutiles acerca de la misión de Jesús, y se entregaba a su tendencia desafortunada a albergar sentimientos de revancha.
 
 {{anchor|LU_157_7_5}} <sup><small>157:7.5</small></sup> Jesús quería ahora llevar consigo a sus apóstoles al Monte Hermón, donde había decidido inaugurar, como Hijo de Dios, la cuarta fase de su ministerio terrestre. Algunos de ellos habían estado presentes en su bautismo en el Jordán y habían presenciado el comienzo de su carrera como Hijo del Hombre, y deseaba que algunos de ellos estuvieran presentes también para escuchar la autoridad con que asumiría el nuevo papel público de Hijo de Dios. En consecuencia, el viernes 12 de agosto por la mañana, Jesús dijo a los doce: «Comprad provisiones y preparaos para viajar a aquella montaña, donde el espíritu me pide que vaya para recibir los dones que me permitirán terminar mi obra en la Tierra. Y deseo llevar conmigo a mis hermanos para que también puedan ser fortalecidos con vistas a los tiempos difíciles que les esperan cuando atraviesen conmigo esta experiencia».
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 156|Documento 156. La estancia en Tiro y Sidón]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 158|Documento 158. El monte de la transfiguración]]
+|}
 
 == Referencias ==
 

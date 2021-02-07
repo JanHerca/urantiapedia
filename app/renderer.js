@@ -116,6 +116,12 @@ const handle_exeButtonClick = () => {
 			.then(() => bible.writeToWiki(wikiDir, bibleref))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
+	} else if (process === 'cbi' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
+		// Leemos Biblia (*.tex) => escribimos índice (*.wiki)
+		bible.readFromLaTeX(latexDir)
+			.then(() => bible.writeIndexToWiki(wikiDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} /*else if (process === 'cblx' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
 		// Leemos Biblia (*.tex) => escribimos Wiki (*.xml)
 		bible.readFromLaTeX(latexDir)

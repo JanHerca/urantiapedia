@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 181|Documento 181. Las últimas recomendaciones y advertencias]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 183|Documento 183. La traición y el arresto de Jesús]]
+|}
+
 == DOCUMENTO 182. EN GETSEMANÍ ==
 
 {{anchor|LU_182_0}}
@@ -112,6 +117,11 @@
 {{anchor|LU_182_3_10}} <sup><small>182:3.10</small></sup> La naturaleza humana de Jesús no era insensible a esta situación de soledad personal, de oprobio público y de fracaso aparente de su causa. Todos estos sentimientos pesaban sobre él con una fuerza indescriptible. En medio de esta gran tristeza, su mente volvió a los tiempos de su infancia en Nazaret y de sus primeros trabajos en Galilea. En el momento de esta gran prueba, muchas escenas agradables de su ministerio terrenal surgieron en su mente. Gracias a estos antiguos recuerdos de Nazaret, Cafarnaúm, el Monte Hermón y las salidas y puestas de Sol en el resplandeciente mar de Galilea, logró calmarse mientras fortalecía y preparaba su corazón humano para salir al encuentro del traidor que tan pronto iba a traicionarlo.
 
 {{anchor|LU_182_3_11}} <sup><small>182:3.11</small></sup> Antes de que Judas y los soldados llegaran, el Maestro había recuperado por completo su equilibrio habitual; el espíritu había triunfado sobre la carne; la fe se había afirmado sobre todas las tendencias humanas al temor y a albergar dudas. La prueba suprema del desarrollo completo de la naturaleza humana había sido afrontada y superada de manera aceptable. Una vez más, el Hijo del Hombre estaba preparado para enfrentarse a sus enemigos con serenidad y con la plena seguridad de que era invencible como hombre mortal dedicado sin reservas a hacer la voluntad de su Padre.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 181|Documento 181. Las últimas recomendaciones y advertencias]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 183|Documento 183. La traición y el arresto de Jesús]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 7|Documento 7. Las relaciones del Hijo Eterno con el universo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 9|Documento 9. Las relaciones del Espíritu Infinito con el universo]]
+|}
+
 == DOCUMENTO 8. EL ESPÍRITU INFINITO ==
 
 {{anchor|LU_8_0}}
@@ -122,6 +127,11 @@
 {{anchor|LU_8_6_7}} <sup><small>8:6.7</small></sup> En la persona del Espíritu Infinito, el Padre y el Hijo están siempre mutuamente presentes con una perfección incalificada, porque el Espíritu se parece al Padre y se parece al Hijo, y también se parece al Padre y al Hijo, ya que los dos son eternamente uno solo.
 
 {{anchor|LU_8_6_8}} <sup><small>8:6.8</small></sup> [Presentado en Urantia por un Consejero Divino de Uversa, encargado por los Ancianos de los Días de describir la naturaleza y el trabajo del Espíritu Infinito.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 7|Documento 7. Las relaciones del Hijo Eterno con el universo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 9|Documento 9. Las relaciones del Espíritu Infinito con el universo]]
+|}
 
 == Referencias ==
 

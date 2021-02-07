@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 107|Documento 107. El origen y la naturaleza de los Ajustadores del Pensamiento]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 109|Documento 109. Relación de los Ajustadores con las criaturas del universo]]
+|}
+
 == DOCUMENTO 108. LA MISIÓN Y EL MINISTERIO DE LOS AJUSTADORES DEL PENSAMIENTO ==
 
 {{anchor|LU_108_0}}
@@ -126,6 +131,11 @@
 {{anchor|LU_108_6_8}} <sup><small>108:6.8</small></sup> Vosotros, los humanos, habéis empezado el despliegue interminable de un panorama casi infinito, una expansión ilimitada en unas esferas de oportunidades sin fin en constante aumento, donde llevar a cabo un servicio estimulante, aventuras incomparables, incertidumbres sublimes y logros sin límites. Cuando las nubes se acumulan sobre vuestras cabezas, vuestra fe debería aceptar el hecho de la presencia del Ajustador interior, y así deberíais ser capaces de mirar más allá de las brumas de las incertidumbres mortales, hacia el claro resplandor del sol de la rectitud eterna que ilumina las alturas atrayentes de los mundos de las mansiones de Satania.
 
 {{anchor|LU_108_6_9}} <sup><small>108:6.9</small></sup> [Presentado por un Mensajero Solitario de Orvonton.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 107|Documento 107. El origen y la naturaleza de los Ajustadores del Pensamiento]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 109|Documento 109. Relación de los Ajustadores con las criaturas del universo]]
+|}
 
 == Referencias ==
 

@@ -244,6 +244,32 @@ class Bible {
 		});
 	};
 
+	writeIndexToWiki = (dirPath) => {
+		return new Promise((resolve, reject) => {
+			const filePath = path.join(dirPath, 'index.wiki');
+			let wiki = '';
+
+			Object.values(BibleAbb).forEach(name => {
+				wiki += `* ${name}: `;
+				const book = this.biblebooks.find(book => book.title === name);
+				if (book) {
+					wiki += book.chapters
+						.map((c, i) => `[[${name} ${i+1}|${i+1}]]`)
+						.join(' ');
+					wiki += '\r\n';
+				}
+			});
+
+			fs.writeFile(filePath, wiki, 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
+			});
+		});
+	};
+
 	footnotesToWiki = (book_abb, chapter, vers, chapter_bibleref) => {
 		let wiki = '';
 		if (!chapter_bibleref || !chapter_bibleref[vers - 1] ||

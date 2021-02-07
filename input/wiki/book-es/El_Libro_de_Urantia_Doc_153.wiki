@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 152|Documento 152. Los acontecimientos que condujeron a la crisis de Cafarnaúm]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 154|Documento 154. Los últimos días en Cafarnaúm]]
+|}
+
 == DOCUMENTO 153. LA CRISIS EN CAFARNAÚM ==
 
 {{anchor|LU_153_0}}
@@ -94,6 +99,11 @@
 {{anchor|LU_153_5_4}} <sup><small>153:5.4</small></sup> «Amados míos, debéis recordar que es el espíritu el que vivifica; la carne y todo lo relacionado con ella es de poco provecho. Las palabras que os he dicho son espíritu y vida. ¡Tened buen ánimo!<ref name="n45"/> No os he abandonado. Mucha gente se ofenderá por la claridad de mis palabras de estos días. Ya habéis oído que muchos de mis discípulos se han vuelto atrás; ya no caminan conmigo. Sabía desde el principio que estos creyentes sin entusiasmo se quedarían por el camino. ¿No os escogí a vosotros doce y os aparté como embajadores del reino? Y ahora, en un momento como éste, ¿desertaréis vosotros también? Que cada uno de vosotros vele por su propia fe, porque uno de vosotros corre un grave peligro». Cuando Jesús hubo terminado de hablar, Simón Pedro dijo: «Sí, Señor, estamos tristes y perplejos, pero nunca te abandonaremos. Tú nos has enseñado las palabras de la vida eterna. Hemos creído en ti y te hemos seguido todo este tiempo. No nos volveremos atrás, porque sabemos que has sido enviado por Dios». Cuando Pedro terminó de hablar, todos asintieron unánimemente con la cabeza, aprobando su promesa de lealtad.
 
 {{anchor|LU_153_5_5}} <sup><small>153:5.5</small></sup> Entonces Jesús dijo: «Id a descansar, porque se acercan momentos de mucho trabajo; los próximos días van a ser muy activos».
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 152|Documento 152. Los acontecimientos que condujeron a la crisis de Cafarnaúm]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 154|Documento 154. Los últimos días en Cafarnaúm]]
+|}
 
 == Referencias ==
 

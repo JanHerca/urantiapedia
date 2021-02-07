@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 90|Documento 90. El chamanismo ---los curanderos y los sacerdotes]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 92|Documento 92. La evolución posterior de la religión]]
+|}
+
 == DOCUMENTO 91. LA EVOLUCIÓN DE LA ORACIÓN ==
 
 {{anchor|LU_91_0}}
@@ -180,6 +185,11 @@
 {{anchor|LU_91_9_8}} <sup><small>91:9.8</small></sup> 7. Y debéis tener fe —una fe viviente.
 
 {{anchor|LU_91_9_9}} <sup><small>91:9.9</small></sup> [Presentado por el Jefe de los Intermedios de Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 90|Documento 90. El chamanismo ---los curanderos y los sacerdotes]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 92|Documento 92. La evolución posterior de la religión]]
+|}
 
 == Referencias ==
 

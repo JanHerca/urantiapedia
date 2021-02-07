@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 63|Documento 63. La primera familia humana]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 65|Documento 65. El supercontrol de la evolución]]
+|}
+
 == DOCUMENTO 64. LAS RAZAS EVOLUTIVAS DE COLOR ==
 
 {{anchor|LU_64_0}}
@@ -206,6 +211,11 @@
 {{anchor|LU_64_7_20}} <sup><small>64:7.20</small></sup> Las luchas de estas épocas primitivas estuvieron caracterizadas por el coraje, la valentía e incluso el heroísmo. Todos lamentamos que tantos de aquellos rasgos robustos y excelentes de vuestros primeros antepasados se hayan perdido para las razas más recientes. Aunque apreciamos el valor de muchos refinamientos de la civilización que progresa, echamos de menos la magnífica obstinación y la espléndida dedicación de vuestros primeros antepasados, las cuales rayaban a veces en la grandeza y la sublimidad.
 
 {{anchor|LU_64_7_21}} <sup><small>64:7.21</small></sup> [Presentado por un Portador de Vida, residente en Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 63|Documento 63. La primera familia humana]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 65|Documento 65. El supercontrol de la evolución]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 187|Documento 187. La crucifixión]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 189|Documento 189. La resurrección]]
+|}
+
 == DOCUMENTO 188. EL PERÍODO EN LA TUMBA ==
 
 {{anchor|LU_188_0}}
@@ -124,6 +129,11 @@
 {{anchor|LU_188_5_12}} <sup><small>188:5.12</small></sup> Si el hombre no puede apreciar a Jesús de otra manera ni entender el significado de su donación en la Tierra, al menos puede comprender que fue compañero suyo en sus sufrimientos humanos. Nadie puede temer nunca que el Creador no conozca la naturaleza o el grado de sus aflicciones temporales<ref name="n15"/>.
 
 {{anchor|LU_188_5_13}} <sup><small>188:5.13</small></sup> Sabemos que la muerte en la cruz no sirvió para reconciliar al hombre con Dios, sino para estimular en el hombre la ''comprensión'' del amor eterno del Padre y de la misericordia sin fin de su Hijo, y para difundir estas verdades universales a un universo entero.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 187|Documento 187. La crucifixión]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 189|Documento 189. La resurrección]]
+|}
 
 == Referencias ==
 

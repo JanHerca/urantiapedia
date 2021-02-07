@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 2|Documento 2. La naturaleza de Dios]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 4|Documento 4. Las relaciones de Dios con el universo]]
+|}
+
 == DOCUMENTO 3. LOS ATRIBUTOS DE DIOS ==
 
 {{anchor|LU_3_0}}
@@ -150,6 +155,11 @@
 {{anchor|LU_3_6_8}} <sup><small>3:6.8</small></sup> Dios Padre ama a los hombres; Dios Hijo sirve a los hombres; Dios Espíritu inspira a los hijos del universo hacia la aventura siempre ascendente de encontrar a Dios Padre por los caminos ordenados por Dios Hijos a través del ministerio de la gracia de Dios Espíritu.
 
 {{anchor|LU_3_6_9}} <sup><small>3:6.9</small></sup> [Siendo el Consejero Divino designado para presentar la revelación del Padre Universal, he continuado con esta exposición de los atributos de la Deidad.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 2|Documento 2. La naturaleza de Dios]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 4|Documento 4. Las relaciones de Dios con el universo]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 179|Documento 179. La Última cena]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 181|Documento 181. Las últimas recomendaciones y advertencias]]
+|}
+
 == DOCUMENTO 180. EL DISCURSO DE DESPEDIDA ==
 
 {{anchor|LU_180_0}}
@@ -120,6 +125,11 @@
 {{anchor|LU_180_6_8}} <sup><small>180:6.8</small></sup> «Aquí abajo os he enseñado con proverbios y os he hablado en parábolas. Lo he hecho así porque espiritualmente sólo erais niños; pero se acerca el momento en que os hablaré claramente<ref name="n63"/> sobre el Padre y su reino. Y lo haré porque el Padre mismo os ama y desea ser revelado más plenamente a vosotros. El hombre mortal no puede ver al Padre<ref name="n64"/> que es espíritu; por eso he venido al mundo para mostrar el Padre a vuestros ojos de criaturas. Pero cuando os hayáis perfeccionado en el crecimiento espiritual, entonces veréis al Padre mismo».
 
 {{anchor|LU_180_6_9}} <sup><small>180:6.9</small></sup> Cuando los once le oyeron hablar así, se dijeron unos a otros: «Mirad, ahora nos habla claramente. Es seguro que el Maestro ha venido de Dios. Pero, ¿por qué dice que debe regresar al Padre?» Jesús vio que incluso entonces no le comprendían<ref name="n65"/>. Estos once hombres no podían liberarse de las ideas que habían abrigado durante mucho tiempo sobre el concepto judío del Mesías. Cuanto más plenamente creían en Jesús como Mesías, más embarazosas se volvían estas nociones profundamente arraigadas sobre el glorioso triunfo material del reino en la Tierra.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 179|Documento 179. La Última cena]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 181|Documento 181. Las últimas recomendaciones y advertencias]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 175|Documento 175. El último discurso en el templo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 177|Documento 177. El miércoles, día de descanso]]
+|}
+
 == DOCUMENTO 176. EL MARTES POR LA NOCHE EN EL MONTE DE LOS OLIVOS ==
 
 {{anchor|LU_176_0}}
@@ -80,6 +85,11 @@
 {{anchor|LU_176_4_6}} <sup><small>176:4.6</small></sup> Por lo tanto, haríais bien en no asociar el regreso personal del Maestro a la Tierra con ningún acontecimiento previsto y con ninguna época determinada. Sólo estamos seguros de una cosa: Ha prometido que volverá. No tenemos ninguna idea de cuándo cumplirá esta promesa ni en relación con qué acontecimiento. Que nosotros sepamos, puede aparecer en la Tierra en cualquier momento, y puede no venir hasta que hayan pasado unas eras tras otras y hayan sido debidamente juzgadas por sus Hijos asociados del cuerpo Paradisiaco.
 
 {{anchor|LU_176_4_7}} <sup><small>176:4.7</small></sup> La segunda venida de Miguel a la Tierra es un acontecimiento con un enorme valor sentimental, tanto para los intermedios como para los humanos; pero por otra parte, no tiene una importancia inmediata para los intermedios ni más importancia práctica para los seres humanos que el acontecimiento común de la muerte natural, la cual precipita repentinamente al hombre mortal en la influencia inmediata de esa sucesión de acontecimientos universales que le conducen directamente a la presencia de este mismo Jesús, el gobernante soberano de nuestro universo. Todos los hijos de la luz están destinados a verlo, y no tiene ninguna importancia que nosotros vayamos hacia él o que se dé la circunstancia de que él venga primero hacia nosotros. Estad pues siempre dispuestos a acogerlo en la Tierra, tal como él está dispuesto a acogeros en el cielo. Esperamos con confianza su gloriosa aparición, e incluso sus repetidas visitas, pero ignoramos por completo cuándo, cómo, o en relación con qué acontecimiento está destinado a aparecer.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 175|Documento 175. El último discurso en el templo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 177|Documento 177. El miércoles, día de descanso]]
+|}
 
 == Referencias ==
 

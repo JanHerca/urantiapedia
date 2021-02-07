@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 62|Documento 62. Las razas en los albores del hombre primitivo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 64|Documento 64. Las razas evolutivas de color]]
+|}
+
 == DOCUMENTO 63. LA PRIMERA FAMILIA HUMANA ==
 
 {{anchor|LU_63_0}}
@@ -116,6 +121,11 @@
 {{anchor|LU_63_7_4}} <sup><small>63:7.4</small></sup> Y ésta es la narración del capítulo más heroico y fascinante de toda la historia de Urantia, el relato de la evolución, la lucha por la vida, la muerte y la supervivencia eterna de los padres excepcionales de toda la humanidad.
 
 {{anchor|LU_63_7_5}} <sup><small>63:7.5</small></sup> [Presentado por un Portador de Vida residente en Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 62|Documento 62. Las razas en los albores del hombre primitivo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 64|Documento 64. Las razas evolutivas de color]]
+|}
 
 == Referencias ==
 

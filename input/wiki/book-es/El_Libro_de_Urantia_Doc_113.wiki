@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 112|Documento 112. La supervivencia de la personalidad]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 114|Documento 114. El gobierno planetario de los serafines]]
+|}
+
 == DOCUMENTO 113. LOS GUARDIANES SERÁFICOS DEL DESTINO ==
 
 {{anchor|LU_113_0}}
@@ -128,6 +133,11 @@
 {{anchor|LU_113_7_8}} <sup><small>113:7.8</small></sup> Sólo los guardianes del destino son enrolados en el Cuerpo primario, o mortal, de la Finalidad, y estas parejas han emprendido la aventura suprema de unificar sus identidades; los dos seres han conseguido la biunificación espiritual en Serafington antes de ser admitidos en el cuerpo finalitario. En esta experiencia, las dos naturalezas angélicas, tan complementarias en todas sus funciones universales, consiguen la unidad espiritual última de ser dos en uno, lo cual repercute en una nueva capacidad para recibir un fragmento no Ajustador del Padre Paradisiaco y fusionar con él. Y así, algunos de vuestros amorosos asociados seráficos en el tiempo se convierten también en vuestros asociados finalitarios en la eternidad, hijos del Supremo e hijos perfeccionados del Padre Paradisiaco.
 
 {{anchor|LU_113_7_9}} <sup><small>113:7.9</small></sup> [Presentado por el Jefe de los Serafines estacionados en Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 112|Documento 112. La supervivencia de la personalidad]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 114|Documento 114. El gobierno planetario de los serafines]]
+|}
 
 == Referencias ==
 

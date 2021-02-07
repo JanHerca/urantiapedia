@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 174|Documento 174. El martes por la mañana en el templo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 176|Documento 176. El martes por la noche en el Monte de los Olivos]]
+|}
+
 == DOCUMENTO 175. EL ÚLTIMO DISCURSO EN EL TEMPLO ==
 
 {{anchor|LU_175_0}}
@@ -106,6 +111,11 @@
 {{anchor|LU_175_4_14}} <sup><small>175:4.14</small></sup> Un pequeño grupo de saduceos había llegado a proponer que se deshicieran de Jesús mediante el asesinato, pero los fariseos se negaron terminantemente a apoyar este procedimiento.
 
 {{anchor|LU_175_4_15}} <sup><small>175:4.15</small></sup> Ésta era la situación en Jerusalén y entre los hombres en este día lleno de acontecimientos, mientras una enorme multitud de seres celestiales se cernía sobre esta importante escena en la Tierra, impacientes por hacer algo para ayudar a su amado Soberano, pero sin poder actuar porque los superiores que los dirigían se lo habían prohibido expresamente.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 174|Documento 174. El martes por la mañana en el templo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 176|Documento 176. El martes por la noche en el Monte de los Olivos]]
+|}
 
 == Referencias ==
 

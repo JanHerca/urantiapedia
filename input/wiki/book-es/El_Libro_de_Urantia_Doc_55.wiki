@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 54|Documento 54. Los problemas de la rebelión de Lucifer]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 56|Documento 56. La unidad universal]]
+|}
+
 == DOCUMENTO 55. LAS ESFERAS DE LUZ Y DE VIDA ==
 
 {{anchor|LU_55_0}}
@@ -302,4 +307,9 @@
 {{anchor|LU_55_12_5}} <sup><small>55:12.5</small></sup> Ninguno de nosotros alberga un concepto satisfactorio sobre lo que sucederá cuando el gran universo (los siete superuniversos que dependen de Havona) se establezca totalmente en la luz y la vida. Ese acontecimiento representará sin duda el suceso más profundo de los anales de la eternidad desde la aparición del universo central. Están aquellos que sostienen que el Ser Supremo mismo saldrá del misterio de Havona que envuelve a su persona espiritual, y establecerá su residencia en la sede del séptimo superuniverso como soberano todopoderoso y experiencial de las creaciones perfeccionadas del tiempo y del espacio. Pero en realidad no lo sabemos.
 
 {{anchor|LU_55_12_6}} <sup><small>55:12.6</small></sup> [Presentado por un Mensajero Poderoso destinado temporalmente en el Consejo de los Arcángeles en Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 54|Documento 54. Los problemas de la rebelión de Lucifer]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 56|Documento 56. La unidad universal]]
+|}
 

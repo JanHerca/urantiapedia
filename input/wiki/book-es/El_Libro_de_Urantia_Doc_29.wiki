@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 28|Documento 28. Los espíritus ministrantes de los superuniversos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 30|Documento 30. Las personalidades del gran universo]]
+|}
+
 == DOCUMENTO 29. LOS DIRECTORES DEL PODER UNIVERSAL ==
 
 {{anchor|LU_29_0}}
@@ -196,6 +201,11 @@
 {{anchor|LU_29_5_7}} <sup><small>29:5.7</small></sup> Los Organizadores de la Fuerza Maestros resisten unas temperaturas y ejercen su actividad en unas condiciones físicas que serían intolerables incluso para los polifacéticos centros del poder y controladores físicos de Orvonton. Los otros únicos tipos de seres revelados capaces de ejercer sus funciones en estos reinos del espacio exterior son los Mensajeros Solitarios y los Espíritus Inspirados Trinitarios.
 
 {{anchor|LU_29_5_8}} <sup><small>29:5.8</small></sup> [Patrocinado por un Censor Universal que actúa por autorización de los Ancianos de los Días de Uversa.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 28|Documento 28. Los espíritus ministrantes de los superuniversos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 30|Documento 30. Las personalidades del gran universo]]
+|}
 
 == Referencias ==
 

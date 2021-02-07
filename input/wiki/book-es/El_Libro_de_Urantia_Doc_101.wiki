@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 100|Documento 100. La religión en la experiencia humana]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 102|Documento 102. Los fundamentos de la fe religiosa]]
+|}
+
 == DOCUMENTO 101. LA NATURALEZA REAL DE LA RELIGIÓN ==
 
 {{anchor|LU_101_0}}
@@ -252,6 +257,11 @@
 {{anchor|LU_101_10_9}} <sup><small>101:10.9</small></sup> Ahora, los hijos de Dios se han alistado juntos para librar la batalla del triunfo de la realidad sobre las sombras parciales de la existencia. Por fin todas las criaturas se vuelven conscientes del hecho de que Dios y todas las huestes divinas de un universo casi ilimitado están de su lado en la lucha celestial por alcanzar la vida eterna y el estado divino. Por supuesto, estos hijos liberados por la fe se han alistado en las luchas del tiempo al lado de las fuerzas supremas y de las personalidades divinas de la eternidad; incluso las estrellas en su trayectoria combaten ahora por ellos; por fin contemplan el universo desde dentro, desde el punto de vista de Dios, y las incertidumbres del aislamiento material se transforman en las certezas de la progresión espiritual eterna. Incluso el tiempo mismo se vuelve una mera sombra de la eternidad, proyectada por las realidades del Paraíso sobre la panoplia móvil del espacio.
 
 {{anchor|LU_101_10_10}} <sup><small>101:10.10</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 100|Documento 100. La religión en la experiencia humana]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 102|Documento 102. Los fundamentos de la fe religiosa]]
+|}
 
 == Referencias ==
 

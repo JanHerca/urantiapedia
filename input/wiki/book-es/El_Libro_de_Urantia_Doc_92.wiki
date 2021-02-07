@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 91|Documento 91. La evolución de la oración]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 93|Documento 93. Maquiventa Melquisedek]]
+|}
+
 == DOCUMENTO 92. LA EVOLUCIÓN POSTERIOR DE LA RELIGIÓN ==
 
 {{anchor|LU_92_0}}
@@ -190,6 +195,11 @@
 {{anchor|LU_92_7_15}} <sup><small>92:7.15</small></sup> La verdadera religión debe ser siempre y al mismo tiempo el eterno fundamento y la estrella orientadora de todas las civilizaciones duraderas.
 
 {{anchor|LU_92_7_16}} <sup><small>92:7.16</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 91|Documento 91. La evolución de la oración]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 93|Documento 93. Maquiventa Melquisedek]]
+|}
 
 == Referencias ==
 

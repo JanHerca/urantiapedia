@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 51|Documento 51. Los Adanes Planetarios]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 53|Documento 53. La rebelión de Lucifer]]
+|}
+
 == DOCUMENTO 52. LAS ÉPOCAS PLANETARIAS DE LOS MORTALES ==
 
 {{anchor|LU_52_0}}
@@ -188,6 +193,11 @@
 {{anchor|LU_52_7_16}} <sup><small>52:7.16</small></sup> La partida del cuerpo de los Hijos Instructores al final de su primer reinado o de alguno posterior, anuncia los albores de la era de luz y de vida —el umbral de la transición entre el tiempo y el vestíbulo de la eternidad. La realización planetaria de esta era de luz y de vida está mucho más allá de las expectativas más acariciadas por los mortales de Urantia, los cuales no han albergado otros conceptos clarividentes sobre la vida futura que aquellos incluídos en las creencias religiosas que describen el cielo como el destino inmediato y la morada final de los mortales sobrevivientes.
 
 {{anchor|LU_52_7_17}} <sup><small>52:7.17</small></sup> [Patrocinado por un Mensajero Poderoso vinculado temporalmente al estado mayor de Gabriel.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 51|Documento 51. Los Adanes Planetarios]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 53|Documento 53. La rebelión de Lucifer]]
+|}
 
 == Referencias ==
 

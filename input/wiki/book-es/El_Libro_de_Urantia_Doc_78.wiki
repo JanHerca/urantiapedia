@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 77|Documento 77. Las criaturas intermedias]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 79|Documento 79. La expansión andita en Oriente]]
+|}
+
 == DOCUMENTO 78. LA RAZA VIOLETA DESPUÉS DE LA ÉPOCA DE ADÁN ==
 
 {{anchor|LU_78_0}}
@@ -162,6 +167,11 @@
 {{anchor|LU_78_8_12}} <sup><small>78:8.12</small></sup> Y ésta es la historia de la raza violeta después de la época de Adán, y del destino de su tierra natal entre el Tigris y el Éufrates. Su antigua civilización cayó finalmente debido a la emigración de los pueblos superiores y a la inmigración de sus vecinos inferiores. Pero mucho antes de que los jinetes bárbaros conquistaran el valle, una gran parte de la cultura del jardín se había extendido por Asia, África y Europa, para producir allí los fermentos que dieron como resultado la civilización urantiana del siglo veinte.
 
 {{anchor|LU_78_8_13}} <sup><small>78:8.13</small></sup> [Presentado por un Arcángel de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 77|Documento 77. Las criaturas intermedias]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 79|Documento 79. La expansión andita en Oriente]]
+|}
 
 == Referencias ==
 

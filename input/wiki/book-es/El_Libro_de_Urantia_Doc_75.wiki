@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 74|Documento 74. Adán y Eva]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 76|Documento 76. El segundo Jardín]]
+|}
+
 == DOCUMENTO 75. LA FALTA DE ADÁN Y EVA ==
 
 {{anchor|LU_75_0}}
@@ -132,6 +137,11 @@
 {{anchor|LU_75_8_7}} <sup><small>75:8.7</small></sup> Si éste fuera un universo mecánico, si la Gran Fuente-Centro Primera sólo fuera una fuerza y no tambíén una personalidad, si toda la creación fuera un inmenso conjunto de materia física dominado por leyes precisas caracterizadas por actividades energéticas invariables, entonces podría prevalecer la perfección, a pesar incluso del estado incompleto del universo. No habría ningún desacuerdo; no habría ninguna fricción. Pero en nuestro universo evolutivo de perfección e imperfección relativas, nos alegramos de que los desacuerdos y los malentendidos sean posibles, porque aportan la prueba del hecho y de la actividad de la personalidad en el universo. Y si nuestra creación es una existencia dominada por la personalidad, entonces podéis estar seguros de que la supervivencia, el progreso y la consecución de la personalidad son posibles; podemos confiar en el crecimiento, la experiencia y la aventura de la personalidad. ¡Qué universo tan magnífico, porque es personal y progresivo, y no simplemente mecánico o incluso pasivamente perfecto!
 
 {{anchor|LU_75_8_8}} <sup><small>75:8.8</small></sup> [Presentado por Solonia, la «voz seráfica en el Jardín».]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 74|Documento 74. Adán y Eva]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 76|Documento 76. El segundo Jardín]]
+|}
 
 == Referencias ==
 

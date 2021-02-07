@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 126|Documento 126. Los dos años cruciales]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 128|Documento 128. Los primeros años de la vida adulta de Jesús]]
+|}
+
 == DOCUMENTO 127. LOS AÑOS DE ADOLESCENCIA ==
 
 {{anchor|LU_127_0}}
@@ -156,6 +161,11 @@
 {{anchor|LU_127_6_15}} <sup><small>127:6.15</small></sup> Nacido en el mundo como un niño del planeta, ha vivido su vida infantil y ha pasado por las etapas sucesivas de la adolescencia y de la juventud. Ahora se encuentra en el umbral de la plena edad adulta, con la rica experiencia de la vida humana, con la comprensión completa de la naturaleza humana y lleno de compasión por las flaquezas de la naturaleza humana. Se está volviendo experto en el arte divino de revelar su Padre Paradisiaco a las criaturas mortales de todas las edades y de todas las etapas.
 
 {{anchor|LU_127_6_16}} <sup><small>127:6.16</small></sup> Ahora, como un hombre en posesión de todas sus facultades —como un adulto del mundo— se prepara para continuar su misión suprema de revelar Dios a los hombres y de conducir los hombres a Dios.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 126|Documento 126. Los dos años cruciales]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 128|Documento 128. Los primeros años de la vida adulta de Jesús]]
+|}
 
 == Referencias ==
 

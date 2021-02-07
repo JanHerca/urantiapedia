@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 80|Documento 80. La expansión andita en Occidente]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 82|Documento 82. La evolución del matrimonio]]
+|}
+
 == DOCUMENTO 81. EL DESARROLLO DE LA CIVILIZACIÓN MODERNA ==
 
 {{anchor|LU_81_0}}
@@ -222,6 +227,11 @@
 {{anchor|LU_81_6_44}} <sup><small>81:6.44</small></sup> Ésta es la esencia de la larguísima lucha de los pueblos de la Tierra por establecer la civilización desde la época de Adán. La cultura de hoy en día es el resultado neto de esta ardua evolución. Antes del descubrimiento de la imprenta, el progreso era relativamente lento porque los hombres de una generación no podían beneficiarse tan rápidamente de los logros de sus predecesores. Pero actualmente la sociedad humana se lanza hacia adelante con la fuerza del impulso acumulado de todas las épocas durante las cuales ha luchado la civilización.
 
 {{anchor|LU_81_6_45}} <sup><small>81:6.45</small></sup> [Patrocinado por un Arcángel de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 80|Documento 80. La expansión andita en Occidente]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 82|Documento 82. La evolución del matrimonio]]
+|}
 
 == Referencias ==
 

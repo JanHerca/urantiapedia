@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 176|Documento 176. El martes por la noche en el Monte de los Olivos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 178|Documento 178. El último día en el campamento]]
+|}
+
 == DOCUMENTO 177. EL MIÉRCOLES, DÍA DE DESCANSO ==
 
 {{anchor|LU_177_0}}
@@ -98,6 +103,11 @@
 {{anchor|LU_177_5_5}} <sup><small>177:5.5</small></sup> Este miércoles por la noche marcó el punto más bajo del estado espiritual de los apóstoles hasta el momento mismo de la muerte del Maestro. Aunque el día siguiente era un día que les acercaba más al viernes trágico, al menos él todavía estaba con ellos, y pudieron pasar esas horas de inquietud más airosamente.
 
 {{anchor|LU_177_5_6}} <sup><small>177:5.6</small></sup> Jesús sabía que ésta sería la última noche que podría dormir tranquilo con la familia que había elegido en la Tierra; un poco antes de la medianoche, los despidió diciendo: «Id a dormir, hermanos míos, y que la paz sea con vosotros hasta que nos levantemos mañana, un día más para hacer la voluntad del Padre y experimentar la alegría de saber que somos sus hijos».
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 176|Documento 176. El martes por la noche en el Monte de los Olivos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 178|Documento 178. El último día en el campamento]]
+|}
 
 == Referencias ==
 

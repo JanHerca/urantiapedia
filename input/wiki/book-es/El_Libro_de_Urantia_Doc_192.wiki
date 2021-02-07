@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 191|Documento 191. Las apariciones a los apóstoles y a otros discípulos principales]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 193|Documento 193. Las apariciones finales y la ascensión]]
+|}
+
 == DOCUMENTO 192. LAS APARICIONES EN GALILEA ==
 
 {{anchor|LU_192_0}}
@@ -92,6 +97,11 @@
 {{anchor|LU_192_4_7}} <sup><small>192:4.7</small></sup> El jueves por la noche, los apóstoles tuvieron una maravillosa reunión en esta habitación de arriba, y todos se comprometieron a salir a predicar públicamente el nuevo evangelio del Señor resucitado, excepto Tomás, Simón Celotes y los [[gemelos Alfeo]]. Ya se estaban dando los primeros pasos para sustituir el evangelio del reino —la filiación con Dios y la fraternidad con los hombres— por la proclamación de la resurrección de Jesús. Natanael se opuso a este cambio en la esencia de su mensaje público, pero no pudo oponerse a la elocuencia de Pedro ni pudo vencer el entusiasmo de los discípulos, especialmente de las mujeres creyentes.
 
 {{anchor|LU_192_4_8}} <sup><small>192:4.8</small></sup> Y así, bajo la vigorosa dirección de Pedro, y antes de que el Maestro ascendiera hacia el Padre, sus representantes bien intencionados emprendieron este proceso sutil de sustituir de manera gradual y segura la religión ''de'' Jesús por una forma nueva y modificada de religión ''acerca de'' Jesús.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 191|Documento 191. Las apariciones a los apóstoles y a otros discípulos principales]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 193|Documento 193. Las apariciones finales y la ascensión]]
+|}
 
 == Referencias ==
 

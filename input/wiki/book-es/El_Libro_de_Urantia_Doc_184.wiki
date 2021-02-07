@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 183|Documento 183. La traición y el arresto de Jesús]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 185|Documento 185. El juicio ante Pilatos]]
+|}
+
 == DOCUMENTO 184. ANTE EL TRIBUNAL DEL SANEDRÍN ==
 
 {{anchor|LU_184_0}}
@@ -134,6 +139,11 @@
 {{anchor|LU_184_5_10}} <sup><small>184:5.10</small></sup> Mientras Jesús estaba en la habitación con Juan y los guardias, y el tribunal celebraba su segunda sesión, algunas mujeres del palacio del sumo sacerdote vinieron con sus amigas para contemplar al extraño preso, y una de ellas le preguntó: «¿Eres el Mesías, el Hijo de Dios?» Y Jesús respondió: «Si te lo digo, no me creerás; y si te lo pregunto, no contestarás»<ref name="n26"/>.
 
 {{anchor|LU_184_5_11}} <sup><small>184:5.11</small></sup> A las seis de aquella mañana, Jesús fue sacado de la casa de Caifás para aparecer ante Pilatos<ref name="n27"/>, a fin de que éste confirmara la sentencia de muerte que el tribunal de los sanedristas había decretado de manera tan injusta e irregular.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 183|Documento 183. La traición y el arresto de Jesús]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 185|Documento 185. El juicio ante Pilatos]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 165|Documento 165. Comienza la misión en Perea]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 167|Documento 167. La visita a Filadelfia]]
+|}
+
 == DOCUMENTO 166. LA ÚLTIMA VISITA A PEREA DEL NORTE ==
 
 {{anchor|LU_166_0}}
@@ -108,6 +113,11 @@
 {{anchor|LU_166_5_6}} <sup><small>166:5.6</small></sup> Durante los últimos años de [[Abner]] y hasta algún tiempo después de su muerte, los creyentes de Filadelfia se atuvieron a la religión de Jesús, tal como éste la había vivido y enseñado, más estrictamente que cualquier otro grupo en la Tierra.
 
 {{anchor|LU_166_5_7}} <sup><small>166:5.7</small></sup> [[Abner]] vivió hasta los 89 años de edad, y murió en Filadelfia el día 21 de noviembre del año 74. Hasta el final de su vida, fue un creyente fiel en el evangelio del reino celestial y un instructor del mismo.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 165|Documento 165. Comienza la misión en Perea]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 167|Documento 167. La visita a Filadelfia]]
+|}
 
 == Referencias ==
 

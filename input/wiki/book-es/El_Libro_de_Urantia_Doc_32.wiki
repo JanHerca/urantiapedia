@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 31|Documento 31. El Cuerpo de la Finalidad]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 33|Documento 33. La administración del universo local]]
+|}
+
 == DOCUMENTO 32. LA EVOLUCIÓN DE LOS UNIVERSOS LOCALES ==
 
 {{anchor|LU_32_0}}
@@ -128,6 +133,11 @@
 {{anchor|LU_32_5_8}} <sup><small>32:5.8</small></sup> ¡La meta de la eternidad está hacia adelante! ¡La aventura para alcanzar la divinidad se extiende delante de vosotros! ¡La carrera hacia la perfección está en marcha! Quienquiera que lo desee puede participar<ref name="n6"/>, y una victoria segura<ref name="n7"/> coronará los esfuerzos de todo ser humano que corra la carrera de la fe y de la confianza, dependiendo a cada paso del camino de las directrices del Ajustador interior y de la guía de ese buen espíritu del Hijo del Universo<ref name="n8"/> que ha sido derramado tan generosamente sobre toda carne.
 
 {{anchor|LU_32_5_9}} <sup><small>32:5.9</small></sup> [Presentado por un Mensajero Poderoso vinculado temporalmente al Consejo Supremo de Nebadon y asignado a esta misión por Gabriel de Salvington.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 31|Documento 31. El Cuerpo de la Finalidad]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 33|Documento 33. La administración del universo local]]
+|}
 
 == Referencias ==
 

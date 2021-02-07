@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 111|Documento 111. El Ajustador y el alma]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 113|Documento 113. Los guardianes seráficos del destino]]
+|}
+
 == DOCUMENTO 112. LA SUPERVIVENCIA DE LA PERSONALIDAD ==
 
 {{anchor|LU_112_0}}
@@ -270,6 +275,11 @@
 {{anchor|LU_112_7_19}} <sup><small>112:7.19</small></sup> Es verdad que vosotros, los mortales, sois de origen terrestre, de origen animal; vuestro cuerpo es ciertamente de polvo<ref name="n8"/>. Pero si queréis realmente, si verdaderamente lo deseáis, es seguro que la herencia de los siglos será vuestra, y que algún día serviréis en todos los universos en vuestra verdadera condición —la de hijos del Dios Supremo de la experiencia e hijos divinos del Padre Paradisiaco de todas las personalidades.
 
 {{anchor|LU_112_7_20}} <sup><small>112:7.20</small></sup> [Presentado por un Mensajero Solitario de Orvonton.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 111|Documento 111. El Ajustador y el alma]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 113|Documento 113. Los guardianes seráficos del destino]]
+|}
 
 == Referencias ==
 

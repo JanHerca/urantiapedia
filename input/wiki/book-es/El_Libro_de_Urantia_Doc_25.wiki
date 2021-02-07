@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 24|Documento 24. Las personalidades superiores del Espíritu Infinito]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 26|Documento 26. Los espíritus ministrantes del universo central]]
+|}
+
 == DOCUMENTO 25. LAS HUESTES DE MENSAJEROS DEL ESPACIO ==
 
 {{anchor|LU_25_0}}
@@ -200,6 +205,11 @@
 {{anchor|LU_25_8_11}} <sup><small>25:8.11</small></sup> Pero no sucede lo mismo con dos ascendentes mortales íntimamente asociados: si uno de ellos alcanza a Dios mientras que el otro fracasa temporalmente, el individuo que ha tenido éxito elige invariablemente regresar con la personalidad decepcionada a las creaciones evolutivas, pero esto no está permitido. En lugar de eso se hace un llamamiento a las reservas de los Compañeros Paradisiacos, y uno de los voluntarios es elegido para que acompañe al peregrino decepcionado. Un Ciudadano voluntario del Paraíso se asocia entonces con el mortal que ha tenido éxito, el cual se queda en la Isla central esperando que regrese a Havona su camarada rechazado, y mientras tanto enseña en ciertas escuelas del Paraíso, exponiendo la intrépida historia de la ascensión evolutiva.
 
 {{anchor|LU_25_8_12}} <sup><small>25:8.12</small></sup> [Patrocinado por un Elevado en Autoridad procedente de Uversa.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 24|Documento 24. Las personalidades superiores del Espíritu Infinito]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 26|Documento 26. Los espíritus ministrantes del universo central]]
+|}
 
 == Referencias ==
 

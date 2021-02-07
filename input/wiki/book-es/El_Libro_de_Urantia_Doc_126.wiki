@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 125|Documento 125. Jesús en Jerusalén]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 127|Documento 127. Los años de adolescencia]]
+|}
+
 == DOCUMENTO 126. LOS DOS AÑOS CRUCIALES ==
 
 {{anchor|LU_126_0}}
@@ -120,6 +125,11 @@
 {{anchor|LU_126_5_11}} <sup><small>126:5.11</small></sup> En un momento determinado, Jesús tuvo la débil esperanza de que podría reunir los recursos suficientes para justificar la tentativa de comprar una pequeña granja, con tal que pudieran recaudar la considerable suma de dinero que le debían a su padre por sus trabajos en el palacio de Herodes. Había pensado muy seriamente en este proyecto de establecer a su familia en el campo. Pero cuando Herodes se negó a pagarles el dinero que le debían a José, abandonaron el deseo de poseer una casa en el campo. Tal como estaban las cosas, se las ingeniaron para disfrutar de muchas de las experiencias de la vida campesina, pues ahora tenían tres vacas, cuatro ovejas, un montón de polluelos, un asno y un perro, además de las palomas. Incluso los más pequeños tenían sus tareas regulares que hacer dentro del plan de administración bien organizado que caracterizaba la vida hogareña de esta familia de Nazaret.
 
 {{anchor|LU_126_5_12}} <sup><small>126:5.12</small></sup> Al finalizar su decimoquinto año, Jesús concluyó la travesía de este período peligroso y difícil de la existencia humana, de esta época de transición entre los años más placenteros de la infancia y la conciencia de la edad adulta que se aproxima, con sus mayores responsabilidades y oportunidades para adquirir una experiencia avanzada en el desarrollo de un carácter noble. El período de crecimiento mental y físico había terminado, y ahora empezaba la verdadera carrera de este joven de Nazaret.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 125|Documento 125. Jesús en Jerusalén]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 127|Documento 127. Los años de adolescencia]]
+|}
 
 == Referencias ==
 

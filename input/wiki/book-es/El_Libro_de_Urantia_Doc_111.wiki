@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 110|Documento 110. Relación de los Ajustadores con los mortales individuales]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 112|Documento 112. La supervivencia de la personalidad]]
+|}
+
 == DOCUMENTO 111. EL AJUSTADOR Y EL ALMA ==
 
 {{anchor|LU_111_0}}
@@ -150,6 +155,11 @@
 {{anchor|LU_111_7_5}} <sup><small>111:7.5</small></sup> «Una gran parte de mis dificultades se debían al conflicto interminable entre las dos naturalezas de mi sujeto: la indolencia animal oponiéndose al impulso de la ambición; los ideales de un pueblo superior contrariados por los instintos de una raza inferior; los objetivos elevados de una gran mente neutralizados por el impulso de una herencia primitiva; la visión a largo plazo de un Monitor previsor contrarrestada por la miopía de una criatura del tiempo; los planes progresivos de un ser ascendente modificados por los deseos y los anhelos de una naturaleza material; los destellos de la inteligencia universal anulados por los mandatos energético-químicos de la raza en evolución; las emociones de un animal oponiéndose al impulso de los ángeles; el entrenamiento de un intelecto anulado por las tendencias del instinto; las tendencias acumuladas de la raza oponiéndose a la experiencia del individuo; las metas de lo mejor eclipsadas por los objetivos de lo peor; el vuelo de la genialidad neutralizado por la gravedad de la mediocridad; el progreso de lo bueno retrasado por la inercia de lo malo; el arte de lo hermoso manchado por la presencia del mal; el empuje de la salud neutralizado por la debilidad de la enfermedad; la fuente de la fe contaminada por los venenos del miedo; el manantial de la alegría envenenado por las aguas de la tristeza; la felicidad de la anticipación desilusionada por la amargura de la realización; las alegrías de la vida siempre amenazadas por las tristezas de la muerte. ¡Qué vida y en qué planeta! Y sin embargo, debido a la ayuda y al impulso siempre presentes del Ajustador del Pensamiento, este alma ha alcanzado un buen grado de felicidad y de éxito, y ya ha ascendido a las salas de juicio de mansonia».
 
 {{anchor|LU_111_7_6}} <sup><small>111:7.6</small></sup> [Presentado por un Mensajero Solitario de Orvonton.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 110|Documento 110. Relación de los Ajustadores con los mortales individuales]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 112|Documento 112. La supervivencia de la personalidad]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 142|Documento 142. La pascua en Jerusalén]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 144|Documento 144. En el Gilboa y la Decápolis]]
+|}
+
 == DOCUMENTO 143. LA TRAVESÍA DE SAMARIA ==
 
 {{anchor|LU_143_0}}
@@ -132,6 +137,11 @@
 {{anchor|LU_143_7_8}} <sup><small>143:7.8</small></sup> La adoración es el acto de un fragmento que se identifica con el Todo, lo finito con lo Infinito, el hijo con el Padre, el tiempo en la operación de ajustarse al ritmo de la eternidad. La adoración es el acto de la comunión personal del hijo con el Padre divino, la aceptación de unas actitudes vivificantes, creativas, fraternales y románticas por parte del alma-espíritu del hombre.
 
 {{anchor|LU_143_7_9}} <sup><small>143:7.9</small></sup> Aunque los apóstoles sólo comprendieron una pequeña parte de las enseñanzas del Maestro en el campamento, otros mundos las comprendieron, y otras generaciones de la Tierra las comprenderán.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 142|Documento 142. La pascua en Jerusalén]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 144|Documento 144. En el Gilboa y la Decápolis]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 182|Documento 182. En Getsemaní]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 184|Documento 184. Ante el tribunal del sanedrín]]
+|}
+
 == DOCUMENTO 183. LA TRAICIÓN Y EL ARRESTO DE JESÚS ==
 
 {{anchor|LU_183_0}}
@@ -80,6 +85,11 @@
 {{anchor|LU_183_5_4}} <sup><small>183:5.4</small></sup> Esto explica por qué se le permitió a Juan Zebedeo permanecer cerca de Jesús<ref name="n22"/> a lo largo de las duras experiencias de aquella noche y del día siguiente. Los judíos temían decirle algo a Juan o molestarlo de alguna manera, porque en cierto modo tenía la condición de un consejero romano designado para actuar como observador de las operaciones del tribunal eclesiástico judío. La posición privilegiada de Juan quedó aún más asegurada cuando, en el momento de entregar a Jesús al capitán de los guardias del templo en la puerta del palacio de [[Anás]], el capitán romano se dirigió a su asistente y le dijo: «Acompaña a este preso y asegúrate de que estos judíos no lo maten sin el consentimiento de Pilatos. Cuida de que no lo asesinen, y asegúrate de que a su amigo, el galileo, le permitan permanecer a su lado para observar todo lo que suceda». Así es como Juan pudo estar cerca de Jesús hasta el momento de su muerte en la cruz, aunque los otros diez apóstoles estuvieron obligados a permanecer ocultos. Juan actuaba bajo la protección romana, y los judíos no se atrevieron a molestarlo hasta después de la muerte del Maestro.
 
 {{anchor|LU_183_5_5}} <sup><small>183:5.5</small></sup> Durante todo el trayecto hasta el palacio de [[Anás]], Jesús no abrió la boca<ref name="n23"/>. Desde el momento de su arresto hasta su aparición delante de Anás, el Hijo del Hombre no dijo ni una palabra.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 182|Documento 182. En Getsemaní]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 184|Documento 184. Ante el tribunal del sanedrín]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 66|Documento 66. El Príncipe Planetario de Urantia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 68|Documento 68. Los albores de la civilización]]
+|}
+
 == DOCUMENTO 67. LA REBELIÓN PLANETARIA ==
 
 {{anchor|LU_67_0}}
@@ -136,6 +141,11 @@
 {{anchor|LU_67_8_5}} <sup><small>67:8.5</small></sup> Todo lo anterior ilustra de manera exquisitamente conmovedora y extraordinariamente magnífica la sabiduría del plan universal del Padre consistente en movilizar el Cuerpo de la Finalidad de los Mortales en el Paraíso, y en reclutar gran parte de este inmenso grupo de servidores misteriosos del futuro en la arcilla corriente de los mortales en progreso ascendente —precisamente en unos mortales como el inquebrantable [[Amadón]].
 
 {{anchor|LU_67_8_6}} <sup><small>67:8.6</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 66|Documento 66. El Príncipe Planetario de Urantia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 68|Documento 68. Los albores de la civilización]]
+|}
 
 == Referencias ==
 

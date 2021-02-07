@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 184|Documento 184. Ante el tribunal del sanedrín]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 186|Documento 186. Poco antes de la crucifixión]]
+|}
+
 == DOCUMENTO 185. EL JUICIO ANTE PILATOS ==
 
 {{anchor|LU_185_0}}
@@ -154,6 +159,11 @@
 {{anchor|LU_185_8_1}} <sup><small>185:8.1</small></sup> Allí estaba el Hijo de Dios, encarnado como Hijo del Hombre. Había sido arrestado sin acusación, acusado sin pruebas, juzgado sin testigos, castigado sin veredicto, y pronto iba a ser condenado a muerte por un juez injusto que había confesado que no podía encontrar ninguna falta en él. Si Pilatos había creído apelar al patriotismo de la gente llamando a Jesús el «rey de los judíos», se había equivocado por completo. Los judíos no esperaban ningún rey de este tipo. La declaración de los jefes de los sacerdotes y los saduceos «No tenemos más rey que al César» impactó incluso a la plebe irreflexiva, pero ya era demasiado tarde para salvar a Jesús, aunque el gentío se hubiera atrevido a abrazar la causa del Maestro.
 
 {{anchor|LU_185_8_2}} <sup><small>185:8.2</small></sup> Pilatos temía un alboroto o un motín. No se atrevía a arriesgarse a tener este tipo de disturbios durante la época de la Pascua en Jerusalén. Recientemente había recibido una reprimenda del César, y no quería arriesgarse a recibir otra. El gentío aplaudió cuando ordenó que soltaran a [[Barrabás]]<ref name="n43"/>. Luego ordenó que le trajeran una palangana y un poco de agua, y se lavó las manos<ref name="n44"/> allí mismo delante de la multitud, diciendo: «Soy inocente de la sangre de este hombre. Estáis decididos a que muera, pero no he encontrado ninguna culpa en él<ref name="n45"/>. Allá vosotros. Los soldados se lo llevarán». Entonces el gentío aplaudió y replicó: «Que su sangre caiga sobre nosotros y sobre nuestros hijos».
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 184|Documento 184. Ante el tribunal del sanedrín]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 186|Documento 186. Poco antes de la crucifixión]]
+|}
 
 == Referencias ==
 

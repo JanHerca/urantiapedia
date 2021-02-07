@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 39|Documento 39. Las huestes seráficas]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 41|Documento 41. Aspectos físicos del universo local]]
+|}
+
 == DOCUMENTO 40. LOS HIJOS ASCENDENTES DE DIOS ==
 
 {{anchor|LU_40_0}}
@@ -180,6 +185,11 @@
 {{anchor|LU_40_10_14}} <sup><small>40:10.14</small></sup> Como mortales, ahora podéis reconocer vuestro lugar en la familia de la filiación divina y empezar a sentir la obligación de aprovecharos de las ventajas que ofrece tan abundantemente el plan paradisiaco para la supervivencia de los mortales, un plan que fue tan realzado e iluminado por la experiencia de la vida de un Hijo donador. Se han proporcionado todas las facilidades y todos los poderes para asegurar que alcanzaréis finalmente la meta paradisiaca de la perfección divina.
 
 {{anchor|LU_40_10_15}} <sup><small>40:10.15</small></sup> [Presentado por un Mensajero Poderoso vinculado temporalmente al estado mayor de Gabriel de Salvington.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 39|Documento 39. Las huestes seráficas]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 41|Documento 41. Aspectos físicos del universo local]]
+|}
 
 == Referencias ==
 

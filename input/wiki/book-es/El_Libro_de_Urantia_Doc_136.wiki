@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 135|Documento 135. Juan el Bautista]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 137|Documento 137. El tiempo de espera en Galilea]]
+|}
+
 == DOCUMENTO 136. EL BAUTISMO Y LOS CUARENTA DÍAS ==
 
 {{anchor|LU_136_0}}
@@ -182,6 +187,11 @@
 == {{anchor|LU_136_10}} 10. LA SEXTA DECISIÓN ==
 
 {{anchor|LU_136_10_1}} <sup><small>136:10.1</small></sup> El último día de este retiro memorable, antes de bajar de la montaña para reunirse con Juan y sus discípulos, el Hijo del Hombre tomó su decisión final. Y la comunicó al Ajustador Personalizado en estos términos: «En todas las demás cuestiones, al igual que en estas decisiones ya registradas, te prometo que me someteré a la voluntad de mi Padre»<ref name="n43"/>. Después de haber dicho esto, descendió de la montaña. Y su faz resplandecía con la gloria de las victorias espirituales y de las proezas morales.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 135|Documento 135. Juan el Bautista]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 137|Documento 137. El tiempo de espera en Galilea]]
+|}
 
 == Referencias ==
 

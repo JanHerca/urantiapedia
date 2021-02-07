@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 73|Documento 73. El Jardín del Edén]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 75|Documento 75. La falta de Adán y Eva]]
+|}
+
 == DOCUMENTO 74. ADÁN Y EVA ==
 
 {{anchor|LU_74_0}}
@@ -192,6 +197,11 @@
 {{anchor|LU_74_8_14}} <sup><small>74:8.14</small></sup> La «edad de oro» es un mito, pero el Edén fue un hecho, y la civilización del Jardín se derrumbó realmente. [[Adán]] y [[Eva]] continuaron en el Jardín durante ciento diecisiete años, y entonces, a causa de la impaciencia de Eva y de los errores de juicio de Adán, se atrevieron a desviarse del camino ordenado, y atrajeron rápidamente un desastre sobre sí mismos y un retraso ruinoso sobre el desarrollo progresivo de toda Urantia.
 
 {{anchor|LU_74_8_15}} <sup><small>74:8.15</small></sup> [Narrado por Solonia, la «voz seráfica en el Jardín»<ref name="n18"/>.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 73|Documento 73. El Jardín del Edén]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 75|Documento 75. La falta de Adán y Eva]]
+|}
 
 == Referencias ==
 

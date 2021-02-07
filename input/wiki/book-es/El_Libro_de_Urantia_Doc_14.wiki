@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 13|Documento 13. Las esferas sagradas del Paraíso]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 15|Documento 15. Los siete superuniversos]]
+|}
+
 == DOCUMENTO 14. EL UNIVERSO CENTRAL Y DIVINO ==
 
 {{anchor|LU_14_0}}
@@ -238,6 +243,11 @@
 {{anchor|LU_14_6_41}} <sup><small>14:6.41</small></sup> Havona continuará funcionando indiscutiblemente con una importancia absonita incluso en las eras futuras del universo, las cuales quizás presencien cómo los peregrinos del espacio intentarán encontrar a Dios en los niveles superfinitos. Havona tiene capacidad para servir como universo educativo para los seres absonitos. Será probablemente la escuela superior cuando los siete superuniversos funcionen como escuela intermedia para los graduados de las escuelas primarias del espacio exterior. Tendemos a opinar que los potenciales del eterno Havona son realmente ilimitados, que el universo central tiene la capacidad eterna de servir como universo educativo experiencial para todos los tipos de seres creados, pasados, presentes o futuros.
 
 {{anchor|LU_14_6_42}} <sup><small>14:6.42</small></sup> [Presentado por un Perfeccionador de la Sabiduría, encargado para esta tarea por los Ancianos de los Días de Uversa.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 13|Documento 13. Las esferas sagradas del Paraíso]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 15|Documento 15. Los siete superuniversos]]
+|}
 
 == Referencias ==
 

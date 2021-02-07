@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 64|Documento 64. Las razas evolutivas de color]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 66|Documento 66. El Príncipe Planetario de Urantia]]
+|}
+
 == DOCUMENTO 65. EL SUPERCONTROL DE LA EVOLUCIÓN ==
 
 {{anchor|LU_65_0}}
@@ -178,4 +183,9 @@
 {{anchor|LU_65_8_6}} <sup><small>65:8.6</small></sup> Cuando las condiciones físicas están maduras, se pueden producir evoluciones mentales ''repentinas''; cuando el estado de la mente es propicio, pueden ocurrir transformaciones espirituales ''repentinas''; cuando los valores espirituales reciben el reconocimiento adecuado, entonces los significados cósmicos se vuelven discernibles, y la personalidad se libera cada vez más de los obstáculos del tiempo y de las limitaciones del espacio.
 
 {{anchor|LU_65_8_7}} <sup><small>65:8.7</small></sup> [Patrocinado por un Portador de Vida de Nebadon residente en Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 64|Documento 64. Las razas evolutivas de color]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 66|Documento 66. El Príncipe Planetario de Urantia]]
+|}
 

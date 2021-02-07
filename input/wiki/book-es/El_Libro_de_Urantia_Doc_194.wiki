@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 193|Documento 193. Las apariciones finales y la ascensión]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 195|Documento 195. Después de Pentecostés]]
+|}
+
 == DOCUMENTO 194. LA DONACIÓN DEL ESPÍRITU DE LA VERDAD ==
 
 {{anchor|LU_194_0}}
@@ -140,6 +145,11 @@
 {{anchor|LU_194_4_12}} <sup><small>194:4.12</small></sup> Esteban, el jefe de la colonia griega de los creyentes en Jesús de Jerusalén, se convirtió así en el primer mártir de la nueva fe y en la causa específica de la organización oficial de la iglesia cristiana primitiva. Los creyentes hicieron frente a esta nueva crisis reconociendo que ya no podían continuar como una secta dentro de la religión judía. Todos estuvieron de acuerdo en que debían separarse de los no creyentes. Un mes después de la muerte de Esteban, la iglesia de Jerusalén había sido organizada bajo la dirección de Pedro, y Santiago, el hermano de Jesús, había sido nombrado jefe titular.
 
 {{anchor|LU_194_4_13}} <sup><small>194:4.13</small></sup> Entonces estallaron las nuevas e implacables persecuciones<ref name="n48"/> por parte de los judíos, de manera que los instructores activos de la nueva religión acerca de Jesús, llamada posteriormente cristianismo en Antioquía<ref name="n49"/>, salieron hasta los confines del imperio proclamando a Jesús. Antes de la época de Pablo, los griegos fueron los que se encargaron de difundir este mensaje. Estos primeros misioneros, así como los que vinieron después, siguieron los pasos del antiguo itinerario de Alejandro, dirigiéndose por el camino de Gaza y Tiro hasta Antioquía, luego desde Asia Menor hasta Macedonia, y después continuaron hasta Roma y las partes más distantes del imperio.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 193|Documento 193. Las apariciones finales y la ascensión]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 195|Documento 195. Después de Pentecostés]]
+|}
 
 == Referencias ==
 

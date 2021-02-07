@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 141|Documento 141. El comienzo de la obra pública]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 143|Documento 143. La travesía de Samaria]]
+|}
+
 == DOCUMENTO 142. LA PASCUA EN JERUSALÉN ==
 
 {{anchor|LU_142_0}}
@@ -172,6 +177,11 @@
 {{anchor|LU_142_8_4}} <sup><small>142:8.4</small></sup> Aunque Jesús y los apóstoles pasaron todo el mes de junio en Jerusalén o en las proximidades, no efectuaron ninguna enseñanza pública durante este período. Vivieron la mayor parte del tiempo en las tiendas que montaron en un parque o jardín sombreado conocido en aquella época con el nombre de Getsemaní. Este parque estaba situado en la ladera occidental del Monte de los Olivos, no lejos del arroyo Cedrón. Los sábados del fin de semana los pasaban habitualmente con Lázaro y sus hermanas en Betania. Jesús entró pocas veces dentro de los muros de Jerusalén, pero un gran número de investigadores interesados fueron hasta Getsemaní para charlar con él. Un viernes por la noche, Nicodemo y un tal José de Arimatea se atrevieron a salir para visitar a Jesús, pero cuando estaban delante de la entrada de la tienda del Maestro, se volvieron atrás por miedo. Por supuesto, no se percataban de que Jesús conocía todo lo que hacían.
 
 {{anchor|LU_142_8_5}} <sup><small>142:8.5</small></sup> Cuando los dirigentes de los judíos se enteraron de que Jesús había regresado a Jerusalén, se prepararon para arrestarlo; pero al observar que no predicaba en público, concluyeron que se había asustado con el alboroto que habían causado anteriormente, y decidieron permitirle que continuara enseñando de esta manera privada, sin molestarlo más. Así es como las cosas siguieron desarrollándose tranquilamente hasta los últimos días de junio, cuando un tal Simón, miembro del sanedrín, abrazó públicamente las enseñanzas de Jesús, después de decírselo en persona a los jefes de los judíos. Inmediatamente se produjo un nuevo alboroto para capturar a Jesús, y tomó tal importancia, que el Maestro decidió retirarse a las ciudades de Samaria y la Decápolis<ref name="n43"/>.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 141|Documento 141. El comienzo de la obra pública]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 143|Documento 143. La travesía de Samaria]]
+|}
 
 == Referencias ==
 

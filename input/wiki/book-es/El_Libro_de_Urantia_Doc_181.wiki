@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 180|Documento 180. El discurso de despedida]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 182|Documento 182. En Getsemaní]]
+|}
+
 == DOCUMENTO 181. LAS ÚLTIMAS RECOMENDACIONES Y ADVERTENCIAS ==
 
 {{anchor|LU_181_0}}
@@ -92,6 +97,11 @@
 {{anchor|LU_181_2_30}} <sup><small>181:2.30</small></sup> «Pero recuerda mi promesa: Cuando haya resucitado<ref name="n65"/>, permaneceré algún tiempo<ref name="n66"/> con vosotros antes de ir hacia el Padre. Esta misma noche le suplicaré al Padre que fortalezca<ref name="n67"/> a cada uno de vosotros para la prueba que muy pronto tendréis que atravesar. Os amo a todos con el mismo amor que el Padre me ama, y por eso, de ahora en adelante, deberíais amaros los unos a los otros como yo os he amado»<ref name="n68"/>.
 
 {{anchor|LU_181_2_31}} <sup><small>181:2.31</small></sup> Luego, después de haber cantado un himno, partieron hacia el campamento del Monte de los Olivos<ref name="n69"/>.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 180|Documento 180. El discurso de despedida]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 182|Documento 182. En Getsemaní]]
+|}
 
 == Referencias ==
 

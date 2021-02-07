@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 15|Documento 15. Los siete superuniversos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 17|Documento 17. Los siete grupos de Espíritus Supremos]]
+|}
+
 == DOCUMENTO 16. LOS SIETE ESPÍRITUS MAESTROS ==
 
 {{anchor|LU_16_0}}
@@ -256,6 +261,11 @@
 {{anchor|LU_16_9_15}} <sup><small>16:9.15</small></sup> ¿Es extraño pues que la mente cósmica se dé cuenta conscientemente de su propia fuente, la mente infinita del Espíritu Infinito, y que al mismo tiempo sea consciente de la realidad física de los extensos universos, de la realidad espiritual del Hijo Eterno, y de la realidad de la personalidad del Padre Universal?
 
 {{anchor|LU_16_9_16}} <sup><small>16:9.16</small></sup> [Patrocinado por un Censor Universal procedente de Uversa.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 15|Documento 15. Los siete superuniversos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 17|Documento 17. Los siete grupos de Espíritus Supremos]]
+|}
 
 == Referencias ==
 

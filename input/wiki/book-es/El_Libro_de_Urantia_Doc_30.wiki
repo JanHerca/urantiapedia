@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 29|Documento 29. Los Directores del Poder Universal]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 31|Documento 31. El Cuerpo de la Finalidad]]
+|}
+
 == DOCUMENTO 30. LAS PERSONALIDADES DEL GRAN UNIVERSO ==
 
 {{anchor|LU_30_0}}
@@ -652,6 +657,11 @@
 {{anchor|LU_30_4_34}} <sup><small>30:4.34</small></sup> Esta narración, junto con lo que os ha sido revelado y con lo que podéis adquirir en conexión con la enseñanza relacionada con vuestro propio mundo, presenta un esbozo de la carrera de un mortal ascendente. La historia varía considerablemente en los diferentes superuniversos, pero este relato proporciona un vislumbre del plan medio de la progresión de los mortales tal como se encuentra en vigor en el universo local de Nebadon y en el séptimo segmento del gran universo, el superuniverso de Orvonton.
 
 {{anchor|LU_30_4_35}} <sup><small>30:4.35</small></sup> [Patrocinado por un Mensajero Poderoso procedente de Uversa. ]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 29|Documento 29. Los Directores del Poder Universal]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 31|Documento 31. El Cuerpo de la Finalidad]]
+|}
 
 == Referencias ==
 

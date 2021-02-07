@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 143|Documento 143. La travesía de Samaria]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 145|Documento 145. Cuatro días memorables en Cafarnaúm]]
+|}
+
 == DOCUMENTO 144. EN EL GILBOA Y LA DECÁPOLIS ==
 
 {{anchor|LU_144_0}}
@@ -384,6 +389,11 @@
 {{anchor|LU_144_9_1}} <sup><small>144:9.1</small></sup> Juan el Bautista fue ejecutado, por orden de Herodes Antipas, la noche del 10 de enero del año 28. Al día siguiente, algunos discípulos de Juan, que habían ido a Macaerus, oyeron hablar de su ejecución; se presentaron ante Herodes y solicitaron su cuerpo, que colocaron en un sepulcro<ref name="n23"/>, y lo enterraron más tarde en Sebaste, la patria de [[Abner]]. Al día siguiente, 12 de enero, partieron hacia el norte en dirección al campamento de los apóstoles de Juan y de Jesús, cerca de Pella, y contaron a Jesús la muerte de Juan. Cuando Jesús escuchó su informe, despidió a la multitud, convocó a los veinticuatro y les dijo: «Juan ha muerto. Herodes lo ha hecho decapitar. Esta noche, reuníos en consejo y arreglad vuestros asuntos convenientemente. Ya no habrá más dilaciones. Ha llegado la hora de proclamar el reino abiertamente y con poder. Mañana iremos a Galilea».
 
 {{anchor|LU_144_9_2}} <sup><small>144:9.2</small></sup> En consecuencia, el 13 de enero del año 28 por la mañana temprano, Jesús y los apóstoles, acompañados por unos veinticinco discípulos, se dirigieron a Cafarnaúm y aquella noche se alojaron en la casa de Zebedeo.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 143|Documento 143. La travesía de Samaria]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 145|Documento 145. Cuatro días memorables en Cafarnaúm]]
+|}
 
 == Referencias ==
 

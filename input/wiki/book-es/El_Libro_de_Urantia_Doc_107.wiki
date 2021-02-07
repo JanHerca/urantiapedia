@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 106|Documento 106. Los niveles de realidad del universo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 108|Documento 108. La misión y el ministerio de los Ajustadores del Pensamiento]]
+|}
+
 == DOCUMENTO 107. EL ORIGEN Y LA NATURALEZA DE LOS AJUSTADORES DEL PENSAMIENTO ==
 
 {{anchor|LU_107_0}}
@@ -138,6 +143,11 @@
 {{anchor|LU_107_7_7}} <sup><small>107:7.7</small></sup> No existen seres creados que no estén encantados de ser los anfitriones de los Monitores de Misterio, pero ninguna orden de seres está así habitada, salvo las criaturas volitivas y evolutivas con un destino finalitario.
 
 {{anchor|LU_107_7_8}} <sup><small>107:7.8</small></sup> [Presentado por un Mensajero Solitario de Orvonton.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 106|Documento 106. Los niveles de realidad del universo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 108|Documento 108. La misión y el ministerio de los Ajustadores del Pensamiento]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 115|Documento 115. El Ser Supremo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 117|Documento 117. Dios Supremo]]
+|}
+
 == DOCUMENTO 116. EL TODOPODEROSO SUPREMO ==
 
 {{anchor|LU_116_0}}
@@ -164,6 +169,11 @@
 {{anchor|LU_116_7_6}} <sup><small>116:7.6</small></sup> El vivo deseo que siente el hombre por la perfección del Paraíso, sus esfuerzos por alcanzar a Dios, crean en el cosmos viviente una verdadera tensión de divinidad que sólo puede resolverse mediante la evolución de un alma inmortal; esto es lo que sucede en la experiencia de una criatura humana individual. Pero cuando todas las criaturas y todos los Creadores se esfuerzan del mismo modo en el gran universo por alcanzar a Dios y la perfección divina, se establece una profunda tensión cósmica que sólo encuentra su resolución en la síntesis sublime del poder todopoderoso con la persona espiritual del Dios evolutivo de todas las criaturas, el Ser Supremo.
 
 {{anchor|LU_116_7_7}} <sup><small>116:7.7</small></sup> (Patrocinado por un Poderoso Mensajero que reside temporalmente en Urantia.)
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 115|Documento 115. El Ser Supremo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 117|Documento 117. Dios Supremo]]
+|}
 
 == Referencias ==
 

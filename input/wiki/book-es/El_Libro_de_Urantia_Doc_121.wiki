@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 120|Documento 120. La donación de Miguel en Urantia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 122|Documento 122. El nacimiento y la infancia de Jesús]]
+|}
+
 == DOCUMENTO 121. LA ÉPOCA DE LA DONACIÓN DE MIGUEL ==
 
 {{anchor|LU_121_0}}
@@ -200,6 +205,11 @@
 {{anchor|LU_121_8_13}} <sup><small>121:8.13</small></sup> Los memorando que he reunido, a partir de los cuales he preparado este relato de la vida y de las enseñanzas de Jesús —además de las memorias que el apóstol [[Andrés]] había registrado— contienen joyas del pensamiento y conceptos muy elevados de las enseñanzas de Jesús, procedentes de más de dos mil seres humanos que han vivido en la Tierra desde la época de Jesús hasta el día en que fueron redactadas las presentes revelaciones, o más exactamente estas reexposiciones. El permiso de revelar solamente ha sido utilizado cuando el escrito humano o los conceptos humanos no conseguían proporcionar un modelo de pensamiento adecuado. Mi misión de revelación me prohibía recurrir a fuentes extrahumanas de información o de expresión, hasta que pudiera atestiguar que había agotado todas las posibilidades para encontrar la expresión conceptual necesaria en las fuentes puramente humanas.
 
 {{anchor|LU_121_8_14}} <sup><small>121:8.14</small></sup> Aunque he descrito, con la colaboración de mis once compañeros intermedios y bajo la supervisión del Melquisedek ya mencionado, los acontecimientos de este relato según mi concepto sobre el orden en que se produjeron y en respuesta a mi elección de los términos adecuados para describirlos, sin embargo, la mayoría de las ideas e incluso algunas de las expresiones efectivas que he utilizado así tuvieron su origen en la mente de los hombres de numerosas razas que han vivido en la Tierra durante las generaciones intermedias, incluídos aquellos que viven todavía en el momento de efectuar esta tarea. En muchos aspectos, he actuado más como recopilador y adaptador que como narrador original. Me he apropiado sin titubeos de las ideas y de los conceptos, preferentemente humanos, que me permitían crear la descripción más eficaz de la vida de Jesús, y que me cualificaran para reexponer sus enseñanzas incomparables con la fraseología más notablemente provechosa y universalmente enriquecedora. En nombre de la Fraternidad de los Intermedios Unidos de Urantia, reconozco con la mayor gratitud nuestra deuda hacia todas las fuentes de información y de conceptos que se han utilizado para elaborar nuestra nueva exposición de la vida de Jesús en la Tierra].
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 120|Documento 120. La donación de Miguel en Urantia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 122|Documento 122. El nacimiento y la infancia de Jesús]]
+|}
 
 == Referencias ==
 

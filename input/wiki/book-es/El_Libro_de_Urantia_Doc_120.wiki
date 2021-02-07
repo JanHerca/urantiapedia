@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 119|Documento 119. Las donaciones de Cristo Miguel]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 121|Documento 121. La época de la donación de Miguel]]
+|}
+
 == DOCUMENTO 120. LA DONACIÓN DE MIGUEL EN URANTIA ==
 
 {{anchor|LU_120_0}}
@@ -96,6 +101,11 @@
 {{anchor|LU_120_4_5}} <sup><small>120:4.5</small></sup> Los mortales de Urantia tienen conceptos variables de lo milagroso, pero para nosotros, que vivimos como ciudadanos del universo local, hay pocos milagros, y entre éstos, las donaciones encarnadas de los Hijos Paradisiacos son con mucho los más misteriosos. La aparición de un Hijo divino en vuestro mundo por un proceso aparentemente natural, nosotros la consideramos como un milagro —el funcionamiento de unas leyes universales que sobrepasan nuestra comprensión. Jesús de Nazaret era una persona milagrosa.
 
 {{anchor|LU_120_4_6}} <sup><small>120:4.6</small></sup> A lo largo de toda esta experiencia extraordinaria, Dios Padre escogió manifestarse como siempre lo hace ''{''—de la manera habitual—} de la manera normal, natural y fiable de la actuación divina.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 119|Documento 119. Las donaciones de Cristo Miguel]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 121|Documento 121. La época de la donación de Miguel]]
+|}
 
 == Referencias ==
 

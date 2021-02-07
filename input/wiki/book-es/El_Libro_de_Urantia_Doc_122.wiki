@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 121|Documento 121. La época de la donación de Miguel]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 123|Documento 123. Los primeros años de la infancia de Jesús]]
+|}
+
 == DOCUMENTO 122. EL NACIMIENTO Y LA INFANCIA DE JESÚS ==
 
 {{anchor|LU_122_0}}
@@ -188,6 +193,11 @@
 {{anchor|LU_122_10_3}} <sup><small>122:10.3</small></sup> Después de más de un año de búsqueda, los espías de Herodes aún no habían localizado a Jesús; y como se sospechaba que el niño estaba todavía oculto en Belén, Herodes preparó un decreto ordenando que se hiciera una búsqueda sistemática en todas las casas de Belén, y que mataran a todos los niños varones con menos de dos años de edad. De esta manera, Herodes pretendía asegurarse de que el niño que estaba destinado a ser el «rey de los judíos» sería destruido. Y así fue como en un día perecieron dieciséis niños varones en Belén de Judea. La intriga y el asesinato, incluso dentro de su propia familia cercana, eran cosa corriente en la corte de Herodes<ref name="n49"/>.
 
 {{anchor|LU_122_10_4}} <sup><small>122:10.4</small></sup> La masacre de estos niños tuvo lugar a mediados de octubre del año 6 a. de J.C., cuando Jesús tenía poco más de un año. Pero incluso entre los miembros de la corte de Herodes había creyentes en el Mesías venidero, y uno de ellos, al enterarse de la orden de matar a los niños de Belén, se puso en contacto con Zacarías, quien a su vez envió un mensajero a José<ref name="n50"/>; la noche antes de la masacre, José y María salieron de Belén con el niño, camino de Alejandría en Egipto. Para evitar atraer la atención, viajaron solos con Jesús hasta Egipto<ref name="n51"/>. Fueron a Alejandría con los fondos que les proporcionó Zacarías, y allí José trabajó en su oficio, mientras que María y Jesús se alojaron con unos parientes acomodados de la familia de José. Vivieron en Alejandría dos años completos, y no regresaron a Belén hasta después de la muerte de Herodes<ref name="n52"/>.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 121|Documento 121. La época de la donación de Miguel]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 123|Documento 123. Los primeros años de la infancia de Jesús]]
+|}
 
 == Referencias ==
 

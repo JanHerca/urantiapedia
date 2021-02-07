@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 78|Documento 78. La raza violeta después de la época de Adán]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 80|Documento 80. La expansión andita en Occidente]]
+|}
+
 == DOCUMENTO 79. LA EXPANSIÓN ANDITA EN ORIENTE ==
 
 {{anchor|LU_79_0}}
@@ -180,6 +185,11 @@
 {{anchor|LU_79_8_17}} <sup><small>79:8.17</small></sup> Esta antigua cultura ha contribuido mucho a la felicidad humana; millones de seres humanos han vivido y han muerto bendecidos por sus logros. Esta gran civilización ha reposado durante siglos sobre los laureles del pasado, pero en este momento se está despertando de nuevo para visualizar otra vez las metas trascendentes de la existencia mortal, para reanudar una vez más la lucha incesante por el progreso sin fin.
 
 {{anchor|LU_79_8_18}} <sup><small>79:8.18</small></sup> [Presentado por un Arcángel de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 78|Documento 78. La raza violeta después de la época de Adán]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 80|Documento 80. La expansión andita en Occidente]]
+|}
 
 == Referencias ==
 

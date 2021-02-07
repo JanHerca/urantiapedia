@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 9|Documento 9. Las relaciones del Espíritu Infinito con el universo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 11|Documento 11. La Isla Eterna del Paraíso]]
+|}
+
 == DOCUMENTO 10. LA TRINIDAD DEL PARAÍSO ==
 
 {{anchor|LU_10_0}}
@@ -188,6 +193,11 @@
 {{anchor|LU_10_8_9}} <sup><small>10:8.9</small></sup> Sólo la infinidad puede revelar al Padre-Infinito.
 
 {{anchor|LU_10_8_10}} <sup><small>10:8.10</small></sup> [Patrocinado por un Censor Universal que actúa por autorización de los Ancianos de los Días que residen en Uversa.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 9|Documento 9. Las relaciones del Espíritu Infinito con el universo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 11|Documento 11. La Isla Eterna del Paraíso]]
+|}
 
 == Referencias ==
 

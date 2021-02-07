@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 32|Documento 32. La evolución de los universos locales]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 34|Documento 34. El Espíritu Madre del universo local]]
+|}
+
 == DOCUMENTO 33. LA ADMINISTRACIÓN DEL UNIVERSO LOCAL ==
 
 {{anchor|LU_33_0}}
@@ -128,6 +133,11 @@
 {{anchor|LU_33_8_6}} <sup><small>33:8.6</small></sup> Aunque hablamos de la administración del universo en términos de «tribunales» y de «asambleas», debe comprenderse que estas actuaciones espirituales son muy diferentes a las actividades más primitivas y materiales que llevan estos mismos nombres en Urantia.
 
 {{anchor|LU_33_8_7}} <sup><small>33:8.7</small></sup> [Presentado por el [[Jefe de los Arcángeles de Nebadon]].]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 32|Documento 32. La evolución de los universos locales]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 34|Documento 34. El Espíritu Madre del universo local]]
+|}
 
 == Referencias ==
 

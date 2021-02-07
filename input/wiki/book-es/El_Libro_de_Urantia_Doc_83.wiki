@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 82|Documento 82. La evolución del matrimonio]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 84|Documento 84. El matrimonio y la vida familiar]]
+|}
+
 == DOCUMENTO 83. LA INSTITUCIÓN DEL MATRIMONIO ==
 
 {{anchor|LU_83_0}}
@@ -156,6 +161,11 @@
 {{anchor|LU_83_8_9}} <sup><small>83:8.9</small></sup> Los matrimonios del siglo veinte se encuentran en un nivel elevado en comparación con los de los tiempos pasados, a pesar de que la institución del hogar está pasando actualmente por una dura prueba a causa de los problemas que el aumento precipitado de las libertades de la mujer ha impuesto tan repentinamente a la organización social, unos derechos que le han sido negados durante tanto tiempo a lo largo de la lenta evolución de las costumbres de las generaciones pasadas.
 
 {{anchor|LU_83_8_10}} <sup><small>83:8.10</small></sup> [Presentado por el Jefe de los Serafines estacionado en Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 82|Documento 82. La evolución del matrimonio]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 84|Documento 84. El matrimonio y la vida familiar]]
+|}
 
 == Referencias ==
 

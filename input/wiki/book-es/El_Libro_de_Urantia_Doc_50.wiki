@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 49|Documento 49. Los mundos habitados]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 51|Documento 51. Los Adanes Planetarios]]
+|}
+
 == DOCUMENTO 50. LOS PRÍNCIPES PLANETARIOS ==
 
 {{anchor|LU_50_0}}
@@ -120,6 +125,11 @@
 {{anchor|LU_50_7_3}} <sup><small>50:7.3</small></sup> A lo largo de toda la carrera hacia el Paraíso, la recompensa sigue al esfuerzo como consecuencia de las causas. Estas recompensas separan al individuo del término medio, proporcionan un diferencial en la experiencia de las criaturas, y contribuyen al carácter polifacético de las realizaciones últimas en el cuerpo colectivo de los finalitarios.
 
 {{anchor|LU_50_7_4}} <sup><small>50:7.4</small></sup> [Presentado por un Hijo Lanonandek Secundario del Cuerpo de Reserva.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 49|Documento 49. Los mundos habitados]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 51|Documento 51. Los Adanes Planetarios]]
+|}
 
 == Referencias ==
 

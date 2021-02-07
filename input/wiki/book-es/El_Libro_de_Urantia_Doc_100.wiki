@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 99|Documento 99. Los problemas sociales de la religión]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 101|Documento 101. La naturaleza real de la religión]]
+|}
+
 == DOCUMENTO 100. LA RELIGIÓN EN LA EXPERIENCIA HUMANA ==
 
 {{anchor|LU_100_0}}
@@ -158,6 +163,11 @@
 {{anchor|LU_100_7_18}} <sup><small>100:7.18</small></sup> Jesús era la personalidad humana perfectamente unificada. Y hoy, como en Galilea, continúa unificando la experiencia mortal y coordinando los esfuerzos humanos. Unifica la vida, ennoblece el carácter y simplifica la experiencia. Entra en la mente humana para elevarla, transformarla y transfigurarla. Es literalmente cierto que: «Si un hombre tiene a Cristo Jesús dentro de él, es una criatura nueva; las cosas viejas van desapareciendo; y mirad, todas las cosas se vuelven nuevas»<ref name="n23"/>.
 
 {{anchor|LU_100_7_19}} <sup><small>100:7.19</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 99|Documento 99. Los problemas sociales de la religión]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 101|Documento 101. La naturaleza real de la religión]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 43|Documento 43. Las constelaciones]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 45|Documento 45. La administración del sistema local]]
+|}
+
 == DOCUMENTO 44. LOS ARTESANOS CELESTIALES ==
 
 {{anchor|LU_44_0}}
@@ -214,6 +219,11 @@
 {{anchor|LU_44_8_6}} <sup><small>44:8.6</small></sup> Ésta es pues la historia de los artesanos celestiales, ese cuerpo cosmopolita de trabajadores exquisitos que tanto contribuyen a glorificar las esferas arquitectónicas con las representaciones artísticas de la belleza divina de los Creadores Paradisiacos.
 
 {{anchor|LU_44_8_7}} <sup><small>44:8.7</small></sup> [Redactado por un Arcángel de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 43|Documento 43. Las constelaciones]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 45|Documento 45. La administración del sistema local]]
+|}
 
 == Referencias ==
 

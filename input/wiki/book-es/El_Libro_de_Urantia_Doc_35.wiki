@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 34|Documento 34. El Espíritu Madre del universo local]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 36|Documento 36. Los Portadores de Vida]]
+|}
+
 == DOCUMENTO 35. LOS HIJOS DE DIOS DE LOS UNIVERSOS LOCALES ==
 
 {{anchor|LU_35_0}}
@@ -208,6 +213,11 @@
 {{anchor|LU_35_10_5}} <sup><small>35:10.5</small></sup> Sin embargo, muchos Hijos Lanonandeks de los sistemas más antiguos han establecido maravillosos historiales de servicio, de administración y de logros espirituales. Forman un grupo noble, fiel y leal, a pesar de su tendencia a caer en el error debido a los sofismas de la libertad personal y a las ficciones de la autodeterminación.
 
 {{anchor|LU_35_10_6}} <sup><small>35:10.6</small></sup> [Patrocinado por el Jefe de los Arcángeles, que actúa por autorización de Gabriel de Salvington.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 34|Documento 34. El Espíritu Madre del universo local]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 36|Documento 36. Los Portadores de Vida]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 123|Documento 123. Los primeros años de la infancia de Jesús]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 125|Documento 125. Jesús en Jerusalén]]
+|}
+
 == DOCUMENTO 124. LOS ÚLTIMOS AÑOS DE LA INFANCIA DE JESÚS ==
 
 {{anchor|LU_124_0}}
@@ -148,6 +153,11 @@
 {{anchor|LU_124_6_17}} <sup><small>124:6.17</small></sup> A medida que pasaba el tiempo, el misterio de la encarnación se volvía cada vez más insondable para todos nosotros. Apenas podíamos comprender que este muchacho de Nazaret fuera el creador de todo Nebadon. Y tampoco entendemos en la actualidad cómo están asociados el espíritu de este mismo Hijo Creador y el espíritu de su Padre Paradisiaco con las almas de la humanidad. Con el paso del tiempo, podíamos observar que su mente humana discernía cada vez mejor que, mientras estaba viviendo su vida en la carne, la responsabilidad de un universo reposaba en espíritu sobre sus hombros.
 
 {{anchor|LU_124_6_18}} <sup><small>124:6.18</small></sup> Así termina la carrera del muchacho de Nazaret y comienza el relato del joven adolescente —el hombre divino cada vez más consciente de sí mismo— que empieza ahora a considerar su carrera en el mundo, mientras se esfuerza por integrar su proyecto de vida en desarrollo con los deseos de sus padres y las obligaciones hacia su familia y la sociedad de su tiempo.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 123|Documento 123. Los primeros años de la infancia de Jesús]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 125|Documento 125. Jesús en Jerusalén]]
+|}
 
 == Referencias ==
 

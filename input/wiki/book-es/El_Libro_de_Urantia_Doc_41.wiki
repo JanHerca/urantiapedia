@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 40|Documento 40. Los Hijos ascendentes de Dios]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 42|Documento 42. La energía ---la mente y la materia]]
+|}
+
 == DOCUMENTO 41. ASPECTOS FÍSICOS DEL UNIVERSO LOCAL ==
 
 {{anchor|LU_41_0}}
@@ -180,6 +185,11 @@
 {{anchor|LU_41_10_5}} <sup><small>41:10.5</small></sup> Urantia está relativamente aislada en las afueras de Satania, pues vuestro sistema solar, con una sola excepción, es el que se encuentra más lejos de Jerusem, mientras que Satania misma está cerca del sistema más exterior de Norlatiadek, y esta constelación está atravesando ahora la periferia exterior de Nebadon. Figurabais realmente entre los más pequeños de toda la creación, hasta que la donación de Miguel elevó vuestro planeta a una posición de honor y de gran interés para el universo. A veces el último es el primero<ref name="n2"/>, mientras que el más pequeño se convierte realmente en el más grande<ref name="n3"/>.
 
 {{anchor|LU_41_10_6}} <sup><small>41:10.6</small></sup> [Presentado por un Arcángel en colaboración con el Jefe de los Centros de Poder de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 40|Documento 40. Los Hijos ascendentes de Dios]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 42|Documento 42. La energía ---la mente y la materia]]
+|}
 
 == Referencias ==
 

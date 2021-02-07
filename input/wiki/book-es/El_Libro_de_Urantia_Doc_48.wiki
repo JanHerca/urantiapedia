@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 47|Documento 47. Los siete mundos de las mansiones]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 49|Documento 49. Los mundos habitados]]
+|}
+
 == DOCUMENTO 48. LA VIDA MORONTIAL ==
 
 {{anchor|LU_48_0}}
@@ -332,6 +337,11 @@
 {{anchor|LU_48_8_4}} <sup><small>48:8.4</small></sup> Al atravesar la escala ascendente de la existencia viviente desde el hombre mortal hasta el abrazo de la Deidad, vivís realmente la vida misma de todas las fases y etapas posibles de la existencia perfeccionada de las criaturas dentro de los límites de la presente era del universo. Aquello que hay desde el hombre mortal hasta el finalitario del Paraíso abarca todo lo que puede existir ahora —engloba todo lo que es posible actualmente para las órdenes vivientes de criaturas finitas inteligentes y perfeccionadas. Si el destino futuro de los finalitarios del Paraíso es servir en los nuevos universos ahora en gestación, es seguro que esta nueva creación futura no contendrá órdenes creadas de seres experienciales cuyas vidas serán totalmente diferentes a las que los finalitarios mortales habrán vivido en algún mundo como parte de su formación ascendente, como una de las etapas de su progreso milenario desde el animal hasta el ángel, desde el ángel hasta el espíritu y desde el espíritu hasta Dios.
 
 {{anchor|LU_48_8_5}} <sup><small>48:8.5</small></sup> [Presentado por un Arcángel de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 47|Documento 47. Los siete mundos de las mansiones]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 49|Documento 49. Los mundos habitados]]
+|}
 
 == Referencias ==
 

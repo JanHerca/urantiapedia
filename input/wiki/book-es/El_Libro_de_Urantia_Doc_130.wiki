@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 129|Documento 129. Continuación de la vida adulta de Jesús]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 131|Documento 131. Las religiones del mundo]]
+|}
+
 == DOCUMENTO 130. EN EL CAMINO A ROMA ==
 
 {{anchor|LU_130_0}}
@@ -162,6 +167,11 @@
 {{anchor|LU_130_8_5}} <sup><small>130:8.5</small></sup> En Nápoles no tuvo lugar ninguna experiencia sobresaliente; Jesús y el joven recorrieron toda la ciudad y repartieron buen ánimo con muchas sonrisas a centenares de hombres, mujeres y niños.
 
 {{anchor|LU_130_8_6}} <sup><small>130:8.6</small></sup> Desde aquí siguieron hacia Roma por el camino de Capua, donde permanecieron tres días. Por la Vía Apia continuaron su viaje en dirección a Roma junto a sus animales de carga, ansiosos los tres por ver a esta dueña del imperio, la ciudad más grande del mundo entero.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 129|Documento 129. Continuación de la vida adulta de Jesús]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 131|Documento 131. Las religiones del mundo]]
+|}
 
 == Referencias ==
 

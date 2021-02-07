@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+|   || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 1|Documento 1. El Padre Universal]]
+|}
+
 == PRÓLOGO ==
 
 {{anchor|LU_0_0}}
@@ -370,6 +375,11 @@
 {{anchor|LU_0_12_13}} <sup><small>0:12.13</small></sup> Conocemos plenamente las dificultades de nuestra misión; reconocemos la imposibilidad de traducir completamente el lenguaje de los conceptos de la divinidad y de la eternidad a los símbolos lingüísticos de los conceptos finitos de la mente mortal. Pero sabemos que un fragmento de Dios vive en la mente humana y que el Espíritu de la Verdad reside con el alma humana; y sabemos también que estas fuerzas espirituales conspiran para permitir que el hombre material capte la realidad de los valores espirituales y comprenda la filosofía de los significados universales. Pero sabemos incluso con mayor seguridad que estos espíritus de la Presencia Divina son capaces de ayudar al hombre para que se apropie espiritualmente de toda verdad que contribuya a realzar la realidad siempre en progreso de la experiencia religiosa personal —la conciencia de Dios.
 
 {{anchor|LU_0_12_14}} <sup><small>0:12.14</small></sup> [Redactado por un Consejero Divino de Orvonton, Jefe del Cuerpo de las Personalidades Superuniversales designadas para describir, en Urantia, la verdad sobre las Deidades del Paraíso y el universo de universos.]
+
+
+{| class="wikitable" style="width:100%;"
+|   || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 1|Documento 1. El Padre Universal]]
+|}
 
 == Referencias ==
 

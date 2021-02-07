@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 194|Documento 194. La donación del Espíritu de la Verdad]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 196|Documento 196. La fe de Jesús]]
+|}
+
 == DOCUMENTO 195. DESPUÉS DE PENTECOSTÉS ==
 
 {{anchor|LU_195_0}}
@@ -328,6 +333,11 @@
 {{anchor|LU_195_10_20}} <sup><small>195:10.20</small></sup> El cristianismo sufre una gran desventaja porque ha sido identificado, en la mente de todo el mundo, como una parte del sistema social, la vida industrial y los criterios morales de la civilización occidental; de este modo, el cristianismo ha parecido patrocinar, sin ser consciente de ello, una sociedad que se tambalea bajo la culpabilidad de tolerar una ciencia sin idealismo, una política sin principios, una riqueza sin trabajo, un placer sin restricción, un conocimiento sin carácter, un poder sin conciencia y una industria sin moralidad.
 
 {{anchor|LU_195_10_21}} <sup><small>195:10.21</small></sup> La esperanza del cristianismo moderno consiste en dejar de patrocinar los sistemas sociales y las políticas industriales de la civilización occidental, e inclinarse humildemente ante la cruz que ensalza tan valientemente, para aprender allí otra vez de Jesús de Nazaret las verdades más grandes que el hombre mortal pueda escuchar jamás —el evangelio viviente de la paternidad de Dios y de la fraternidad de los hombres.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 194|Documento 194. La donación del Espíritu de la Verdad]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 196|Documento 196. La fe de Jesús]]
+|}
 
 == Referencias ==
 

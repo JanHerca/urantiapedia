@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 136|Documento 136. El bautismo y los cuarenta días]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 138|Documento 138. La formación de los mensajeros del reino]]
+|}
+
 == DOCUMENTO 137. EL TIEMPO DE ESPERA EN GALILEA ==
 
 {{anchor|LU_137_0}}
@@ -186,6 +191,11 @@
 {{anchor|LU_137_8_17}} <sup><small>137:8.17</small></sup> «Juan ha venido a predicar el arrepentimiento para prepararos para el reino; ahora vengo yo para proclamar que la fe, el regalo de Dios, es el precio para entrar en el reino de los cielos. Con que sólo creáis que mi Padre os ama con un amor infinito, ya estáis en el reino de Dios»<ref name="n40"/>.
 
 {{anchor|LU_137_8_18}} <sup><small>137:8.18</small></sup> Cuando terminó de hablar así, Jesús se sentó. Todos los que le oyeron se quedaron asombrados con sus palabras. Sus discípulos se maravillaron. Pero la gente no estaba preparada para recibir la buena nueva de labios de este Dios-hombre. Aproximadamente un tercio de sus oyentes creyó en el mensaje, aunque no pudieran comprenderlo por completo; otro tercio aproximadamente se preparó en su fuero interno para rechazar este concepto puramente espiritual del reino esperado, mientras que el tercio restante no pudo captar su enseñanza, y muchos de éstos creyeron sinceramente que «había perdido el juicio»<ref name="n41"/>.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 136|Documento 136. El bautismo y los cuarenta días]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 138|Documento 138. La formación de los mensajeros del reino]]
+|}
 
 == Referencias ==
 

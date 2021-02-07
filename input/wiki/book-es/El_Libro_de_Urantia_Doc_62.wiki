@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 61|Documento 61. La era de los mamíferos en Urantia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 63|Documento 63. La primera familia humana]]
+|}
+
 == DOCUMENTO 62. LAS RAZAS EN LOS ALBORES DEL HOMBRE PRIMITIVO ==
 
 {{anchor|LU_62_0}}
@@ -126,6 +131,11 @@
 {{anchor|LU_62_7_7}} <sup><small>62:7.7</small></sup> Hace exactamente 993.408 años (antes del año 1934 d. de J.C.) que Urantia fue reconocida oficialmente como planeta para la habitación humana en el universo de Nebadon. La evolución biológica había logrado una vez más los niveles humanos de dignidad volitiva; el hombre había aparecido en el planeta 606 de Satania.
 
 {{anchor|LU_62_7_8}} <sup><small>62:7.8</small></sup> [Patrocinado por un Portador de Vida de Nebadon, residente en Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 61|Documento 61. La era de los mamíferos en Urantia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 63|Documento 63. La primera familia humana]]
+|}
 
 == Referencias ==
 

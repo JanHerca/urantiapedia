@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 0|Prólogo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 2|Documento 2. La naturaleza de Dios]]
+|}
+
 == DOCUMENTO 1. EL PADRE UNIVERSAL ==
 
 {{anchor|LU_1_0}}
@@ -156,6 +161,11 @@
 {{anchor|LU_1_7_8}} <sup><small>1:7.8</small></sup> El hecho de la Trinidad del Paraíso no viola de ninguna manera la verdad de la unidad divina. Las tres personalidades de la Deidad del Paraíso son como una sola en todas sus reacciones a la realidad universal y en todas sus relaciones con las criaturas. La existencia de estas tres personas eternas tampoco viola la verdad de la indivisibilidad de la Deidad. Soy plenamente consciente de que no tengo a mi disposición ningún idioma adecuado para explicar claramente a la mente mortal cómo estos problemas del universo se nos presentan a nosotros. Pero no debéis desanimaros; todas estas cosas no están totalmente claras ni siquiera para las altas personalidades que pertenecen a mi grupo de seres paradisiacos. Tened siempre presente que estas profundas verdades relacionadas con la Deidad se clarificarán cada vez más a medida que vuestra mente se espiritualice progresivamente durante las épocas sucesivas de la larga ascensión de los mortales hacia el Paraíso.
 
 {{anchor|LU_1_7_9}} <sup><small>1:7.9</small></sup> [Presentado por un Consejero Divino, miembro de un grupo de personalidades celestiales designadas por los Ancianos de los Días de Uversa, sede del séptimo superuniverso, para supervisar aquellas partes de la revelación que sigue a continuación y que están relacionadas con los asuntos que sobrepasan las fronteras del universo local de Nebadon. Estoy encargado de patrocinar aquellos documentos que describen la naturaleza y los atributos de Dios, porque represento la fuente de información más elevada que se encuentra disponible para tal fin en cualquier mundo habitado. He servido como Consejero Divino en cada uno de los siete superuniversos y he residido durante mucho tiempo en el centro paradisiaco de todas las cosas. He disfrutado muchas veces del placer supremo de permanecer en la presencia personal inmediata del Padre Universal. Describo la realidad y la verdad de la naturaleza y de los atributos del Padre con una autoridad indiscutible; sé de lo que hablo.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 0|Prólogo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 2|Documento 2. La naturaleza de Dios]]
+|}
 
 == Referencias ==
 

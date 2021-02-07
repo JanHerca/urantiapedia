@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 170|Documento 170. El reino de los cielos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 172|Documento 172. La entrada en Jerusalén]]
+|}
+
 == DOCUMENTO 171. EN EL CAMINO DE JERUSALÉN ==
 
 {{anchor|LU_171_0}}
@@ -148,6 +153,11 @@
 {{anchor|LU_171_8_14}} <sup><small>171:8.14</small></sup> Cuando hubieron terminado de almorzar, y después de que la multitud de seguidores hubiera continuado hacia Jerusalén, Jesús se hallaba de pie delante de los apóstoles a la sombra de una roca que sobresalía por encima del camino. Con una dignidad jovial y una graciosa majestad, señaló con el dedo hacia el oeste y dijo: «Venid, hermanos míos, entremos en Jerusalén, para recibir allí lo que nos espera; así cumpliremos la voluntad del Padre celestial en todas las cosas».
 
 {{anchor|LU_171_8_15}} <sup><small>171:8.15</small></sup> Y así, Jesús y sus apóstoles reanudaron este viaje, el último que hacía el Maestro a Jerusalén en la similitud de la carne del hombre mortal.<ref name="n41"/>
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 170|Documento 170. El reino de los cielos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 172|Documento 172. La entrada en Jerusalén]]
+|}
 
 == Referencias ==
 

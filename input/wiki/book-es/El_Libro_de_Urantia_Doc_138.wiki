@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 137|Documento 137. El tiempo de espera en Galilea]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 139|Documento 139. Los doce apóstoles]]
+|}
+
 == DOCUMENTO 138. LA FORMACIÓN DE LOS MENSAJEROS DEL REINO ==
 
 {{anchor|LU_138_0}}
@@ -162,6 +167,11 @@
 {{anchor|LU_138_10_10}} <sup><small>138:10.10</small></sup> 9. Judas Iscariote fue nombrado tesorero. Llevaba la bolsa<ref name="n16"/>, pagaba todos los gastos y llevaba los libros de la contabilidad. Cada semana hacía un proyecto de presupuesto para Mateo y también presentaba sus informes semanales a Andrés. Judas desembolsaba los fondos con la autorización de Andrés.
 
 {{anchor|LU_138_10_11}} <sup><small>138:10.11</small></sup> Los doce funcionaron de esta forma desde su organización primitiva hasta el momento en que tuvieron necesidad de reorganizarse debido a la deserción de Judas, el traidor. El Maestro y sus discípulos-apóstoles continuaron viviendo de esta manera sencilla hasta el domingo 12 de enero del año 27, día en que los reunió y los ordenó formalmente como embajadores del reino y predicadores de su buena nueva. Inmediatamente después de esto, se prepararon para salir hacia Jerusalén y Judea en su primera gira de predicación pública.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 137|Documento 137. El tiempo de espera en Galilea]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 139|Documento 139. Los doce apóstoles]]
+|}
 
 == Referencias ==
 

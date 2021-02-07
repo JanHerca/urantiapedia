@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 130|Documento 130. En el camino a Roma]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 132|Documento 132. La estancia en Roma]]
+|}
+
 == DOCUMENTO 131. LAS RELIGIONES DEL MUNDO ==
 
 {{anchor|LU_131_0}}
@@ -156,6 +161,11 @@
 {{anchor|LU_131_10_7}} <sup><small>131:10.7</small></sup> «Estoy aprendiendo a examinar todas las cosas y a adherirme a lo que es bueno. Haré a mis semejantes todo lo que yo quisiera que hicieran por mí. Por medio de esta nueva fe, sé que el hombre puede volverse el hijo de Dios, pero a veces me aterra ponerme a pensar que todos los hombres son mis hermanos, aunque debe ser verdad. No veo cómo podría regocijarme con la paternidad de Dios, si rehúso aceptar la fraternidad de los hombres. El que invoque el nombre del Señor será salvado. Si esto es verdad, entonces todos los hombres deben ser mis hermanos»<ref name="n17"/>.
 
 {{anchor|LU_131_10_8}} <sup><small>131:10.8</small></sup> «A partir de ahora haré mis buenas obras en secreto, y efectuaré mis oraciones principalmente cuando me encuentre solo. No juzgaré, para evitar ser injusto con mis semejantes. Voy a aprender a amar a mis enemigos; en verdad, aún no he dominado esta técnica de ser semejante a Dios. Aunque veo a Dios en las otras religiones, en `nuestra religión' lo encuentro más bello, más afectuoso, más misericordioso, más personal y más positivo. Pero por encima de todo, este Ser grande y glorioso es mi Padre espiritual, y yo soy su hijo. Únicamente por medio de mi deseo sincero de ser como él, terminaré por encontrarlo y por servirle eternamente. Por fin tengo una religión con un Dios, un Dios maravilloso, y es un Dios de salvación eterna»<ref name="n18"/>.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 130|Documento 130. En el camino a Roma]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 132|Documento 132. La estancia en Roma]]
+|}
 
 == Referencias ==
 

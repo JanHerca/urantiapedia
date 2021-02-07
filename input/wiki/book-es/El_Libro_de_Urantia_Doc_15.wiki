@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 14|Documento 14. El universo central y divino]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 16|Documento 16. Los Siete Espíritus Maestros]]
+|}
+
 == DOCUMENTO 15. LOS SIETE SUPERUNIVERSOS ==
 
 {{anchor|LU_15_0}}
@@ -380,6 +385,11 @@
 {{anchor|LU_15_14_9}} <sup><small>15:14.9</small></sup> Vuestro planeta es miembro de un cosmos inmenso; pertenecéis a una familia casi infinita de mundos, pero vuestra esfera está administrada con tanta precisión y favorecida con tanto amor como si se tratara del único mundo habitado que existe.
 
 {{anchor|LU_15_14_10}} <sup><small>15:14.10</small></sup> [Presentado por un Censor Universal procedente de Uversa.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 14|Documento 14. El universo central y divino]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 16|Documento 16. Los Siete Espíritus Maestros]]
+|}
 
 == Referencias ==
 

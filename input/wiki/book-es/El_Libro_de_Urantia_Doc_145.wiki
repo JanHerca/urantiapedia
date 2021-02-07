@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 144|Documento 144. En el Gilboa y la Decápolis]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 146|Documento 146. La primera gira de predicación en Galilea]]
+|}
+
 == DOCUMENTO 145. CUATRO DÍAS MEMORABLES EN CAFARNAÚM ==
 
 {{anchor|LU_145_0}}
@@ -114,6 +119,11 @@
 {{anchor|LU_145_5_9}} <sup><small>145:5.9</small></sup> Aquel domingo por la tarde, poco después de que Jesús y sus apóstoles hubieran salido para Rimón, sus hermanos Santiago y Judá se presentaron en la casa de Zebedeo para verlo. Hacia el mediodía de aquel día, Judá había buscado por todas partes a su hermano Santiago y le había insistido para que fueran a ver a Jesús. Pero cuando Santiago consintió por fin en acompañar a Judá, Jesús ya se había marchado.
 
 {{anchor|LU_145_5_10}} <sup><small>145:5.10</small></sup> Los apóstoles eran reacios a abandonar el gran interés que se había despertado en Cafarnaúm. Pedro calculó que no menos de mil creyentes podían haber sido bautizados en el reino. Jesús los escuchó con paciencia, pero no consintió en volver. Durante un rato prevaleció el silencio, y luego Tomás se dirigió a sus compañeros apóstoles diciendo: «¡Vamos! El Maestro ha hablado. No importa que no podamos comprender plenamente los misterios del reino de los cielos, pues de una cosa estamos seguros: Seguimos a un instructor que no busca ninguna gloria para sí mismo». Y, a regañadientes, salieron a predicar la buena nueva en las ciudades de Galilea.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 144|Documento 144. En el Gilboa y la Decápolis]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 146|Documento 146. La primera gira de predicación en Galilea]]
+|}
 
 == Referencias ==
 

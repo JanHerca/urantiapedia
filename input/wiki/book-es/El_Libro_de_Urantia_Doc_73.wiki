@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 72|Documento 72. Un gobierno en un planeta vecino]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 74|Documento 74. Adán y Eva]]
+|}
+
 == DOCUMENTO 73. EL JARDÍN DEL EDÉN ==
 
 {{anchor|LU_73_0}}
@@ -110,6 +115,11 @@
 {{anchor|LU_73_7_4}} <sup><small>73:7.4</small></sup> Las instrucciones que los Melquisedeks dieron a [[Adán]] implicaban que debería establecer unos centros raciales, continentales y divisionarios que estarían a cargo de sus hijos e hijas inmediatos, mientras que él y Eva tendrían que repartir su tiempo entre estas diversas capitales del mundo como consejeros y coordinadores del ministerio mundial para el mejoramiento biológico, el progreso intelectual y la rehabilitación moral.
 
 {{anchor|LU_73_7_5}} <sup><small>73:7.5</small></sup> [Presentado por Solonia, la «voz seráfica en el Jardín»<ref name="n8"/>.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 72|Documento 72. Un gobierno en un planeta vecino]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 74|Documento 74. Adán y Eva]]
+|}
 
 == Referencias ==
 

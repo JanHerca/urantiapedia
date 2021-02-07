@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 86|Documento 86. La evolución inicial de la religión]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 88|Documento 88. Fetiches, amuletos y magia]]
+|}
+
 == DOCUMENTO 87. LOS CULTOS A LOS FANTASMAS ==
 
 {{anchor|LU_87_0}}
@@ -158,6 +163,11 @@
 {{anchor|LU_87_7_10}} <sup><small>87:7.10</small></sup> Pero un culto —un simbolismo de ritos, lemas u objetivos— no funcionará si es demasiado complejo. Y debe estar presente la exigencia de la devoción, la respuesta de la lealtad. Toda religión eficaz desarrolla infaliblemente un simbolismo valioso, y sus partidarios harían bien en impedir que ese ritual se cristalice en ceremoniales estereotipados obstaculizadores, deformantes y sofocantes, que lo único que pueden hacer es perjudicar y retrasar todo progreso social, moral y espiritual. No existe un culto que pueda sobrevivir si retrasa el crecimiento moral y no logra fomentar el progreso espiritual. El culto es la estructura esquelética alrededor de la cual crece el cuerpo vivo y dinámico de la experiencia espiritual personal —la verdadera religión.
 
 {{anchor|LU_87_7_11}} <sup><small>87:7.11</small></sup> [Presentado por una Brillante Estrella Vespertina de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 86|Documento 86. La evolución inicial de la religión]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 88|Documento 88. Fetiches, amuletos y magia]]
+|}
 
 == Referencias ==
 

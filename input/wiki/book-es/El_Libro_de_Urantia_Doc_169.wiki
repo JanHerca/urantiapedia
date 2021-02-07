@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 168|Documento 168. La resurrección de Lázaro]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 170|Documento 170. El reino de los cielos]]
+|}
+
 == DOCUMENTO 169. LA ÚLTIMA ENSEÑANZA EN PELLA ==
 
 {{anchor|LU_169_0}}
@@ -104,6 +109,11 @@
 {{anchor|LU_169_4_12}} <sup><small>169:4.12</small></sup> ¡Pero prestad atención! Jesús nunca dijo: «Cualquiera que me ha escuchado, ha escuchado a Dios». Pero sí dijo: «Aquel que me ha ''visto'', ha visto al Padre»<ref name="n48"/>. Escuchar la enseñanza de Jesús no equivale a conocer a Dios, pero ''ver'' a Jesús es una experiencia que es en sí misma una revelación del Padre al alma. El Dios de los universos gobierna la extensa creación, pero es el Padre que está en los cielos el que envía a su espíritu para que resida dentro de vuestra mente.
 
 {{anchor|LU_169_4_13}} <sup><small>169:4.13</small></sup> Jesús es, en su semejanza humana, la lente espiritual que hace visible para la criatura material a Aquel que es invisible. Es vuestro hermano mayor que, en la carne, os hace ''conocer'' a un Ser con atributos infinitos que ni siquiera las huestes celestiales pueden vanagloriarse de comprender plenamente. Pero todo esto debe consistir en la experiencia personal del ''creyente individual''. Dios, que es espíritu<ref name="n49"/>, sólo se puede conocer como experiencia espiritual. A los hijos finitos de los mundos materiales, el Hijo divino de los reinos espirituales sólo les puede revelar a Dios como ''Padre''. Podéis conocer al Eterno como Padre, pero podéis adorarlo como el Dios de los universos, el Creador infinito de todo lo que existe.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 168|Documento 168. La resurrección de Lázaro]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 170|Documento 170. El reino de los cielos]]
+|}
 
 == Referencias ==
 

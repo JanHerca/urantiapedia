@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 189|Documento 189. La resurrección]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 191|Documento 191. Las apariciones a los apóstoles y a otros discípulos principales]]
+|}
+
 == DOCUMENTO 190. LAS APARICIONES MORONTIALES DE JESÚS ==
 
 {{anchor|LU_190_0}}
@@ -82,6 +87,11 @@
 {{anchor|LU_190_5_7}} <sup><small>190:5.7</small></sup> Ni siquiera se detuvieron para comer. Habían visto al Maestro morontial y salieron precipitadamente de la casa, regresando rápidamente a Jerusalén<ref name="n44"/> para difundir la buena nueva del Salvador resucitado.
 
 {{anchor|LU_190_5_8}} <sup><small>190:5.8</small></sup> Hacia las nueve de aquella noche y poco antes de que el Maestro se apareciera a los diez, estos dos hermanos excitados irrumpieron en la habitación de arriba donde estaban los apóstoles, declarando que habían visto a Jesús y que habían hablado con él<ref name="n45"/>. Contaron todo lo que Jesús les había dicho, y que no habían descubierto quién era hasta el momento en que partió el pan.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 189|Documento 189. La resurrección]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 191|Documento 191. Las apariciones a los apóstoles y a otros discípulos principales]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 185|Documento 185. El juicio ante Pilatos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 187|Documento 187. La crucifixión]]
+|}
+
 == DOCUMENTO 186. POCO ANTES DE LA CRUCIFIXIÓN ==
 
 {{anchor|LU_186_0}}
@@ -92,6 +97,11 @@
 {{anchor|LU_186_5_8}} <sup><small>186:5.8</small></sup> El pecado y la rebelión no tienen nada que ver con el plan fundamental de donación de los Hijos Paradisiacos de Dios, aunque nos parezca que el plan de salvación es una característica provisional del plan de donación.
 
 {{anchor|LU_186_5_9}} <sup><small>186:5.9</small></sup> La salvación de Dios para los mortales de Urantia habría sido exactamente igual de eficaz e infaliblemente segura si Jesús no hubiera sido ejecutado por las manos crueles de unos mortales ignorantes. Si el Maestro hubiera sido recibido favorablemente por los mortales de la Tierra y si hubiera partido de Urantia abandonando voluntariamente su vida en la carne, el hecho del amor de Dios y de la misericordia del Hijo —el hecho de la filiación con Dios— no hubiera sido afectado de ninguna manera. Vosotros los mortales sois los hijos de Dios, y para que esta verdad se convierta en un hecho en vuestra experiencia personal, sólo se os pide una cosa: vuestra fe nacida del espíritu.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 185|Documento 185. El juicio ante Pilatos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 187|Documento 187. La crucifixión]]
+|}
 
 == Referencias ==
 

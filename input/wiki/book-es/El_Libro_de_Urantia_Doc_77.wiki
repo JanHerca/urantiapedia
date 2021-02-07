@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 76|Documento 76. El segundo Jardín]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 78|Documento 78. La raza violeta después de la época de Adán]]
+|}
+
 == DOCUMENTO 77. LAS CRIATURAS INTERMEDIAS ==
 
 {{anchor|LU_77_0}}
@@ -206,6 +211,11 @@
 {{anchor|LU_77_9_12}} <sup><small>77:9.12</small></sup> Toda la organización de los espíritus superiores, las huestes angélicas y los compañeros intermedios se dedica con entusiasmo a fomentar el plan del Paraíso para la ascensión progresiva y la conquista de la perfección de los mortales evolutivos, una de las ocupaciones supremas del universo —el grandioso plan de la supervivencia consistente en hacer bajar a Dios hasta los hombres y luego, mediante una especie de asociación sublime, hacer subir a los hombres hasta Dios y hacia una eternidad de servicio y la consecución de la divinidad— tanto para los mortales como para los intermedios.
 
 {{anchor|LU_77_9_13}} <sup><small>77:9.13</small></sup> [Presentado por un Arcángel de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 76|Documento 76. El segundo Jardín]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 78|Documento 78. La raza violeta después de la época de Adán]]
+|}
 
 == Referencias ==
 

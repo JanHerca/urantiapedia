@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 10|Documento 10. La Trinidad del Paraíso]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 12|Documento 12. El universo de universos]]
+|}
+
 == DOCUMENTO 11. LA ISLA ETERNA DEL PARAÍSO ==
 
 {{anchor|LU_11_0}}
@@ -154,6 +159,11 @@
 {{anchor|LU_11_9_8}} <sup><small>11:9.8</small></sup> Después de todo, la cosa más importante para los mortales, en lo que concierne al Paraíso eterno, es el hecho de que esta morada perfecta del Padre Universal es el destino real y lejano de las almas inmortales de los hijos mortales y materiales de Dios, las criaturas ascendentes de los mundos evolutivos del tiempo y del espacio. Cada mortal que conoce a Dios y que ha abrazado la carrera de hacer la voluntad del Padre, ya se ha embarcado en el larguísimo camino hacia el Paraíso a la búsqueda de la divinidad y del logro de la perfección. Y cuando un ser así de origen animal se halla ante los Dioses del Paraíso después de haber ascendido desde las esferas humildes del espacio, como actualmente lo hace un número incontable de sus semejantes, esa hazaña representa la realidad de una transformación espiritual que linda con los límites de la supremacía.
 
 {{anchor|LU_11_9_9}} <sup><small>11:9.9</small></sup> [Presentado por un Perfeccionador de la Sabiduría, encargado por los Ancianos de los Días de Uversa para llevar a cabo esta tarea.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 10|Documento 10. La Trinidad del Paraíso]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 12|Documento 12. El universo de universos]]
+|}
 
 == Referencias ==
 

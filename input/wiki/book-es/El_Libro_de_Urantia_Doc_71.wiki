@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 70|Documento 70. La evolución del gobierno humano]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 72|Documento 72. Un gobierno en un planeta vecino]]
+|}
+
 == DOCUMENTO 71. EL DESARROLLO DEL ESTADO ==
 
 {{anchor|LU_71_0}}
@@ -238,4 +243,9 @@
 {{anchor|LU_71_8_15}} <sup><small>71:8.15</small></sup> Éstos son los requisitos previos para un gobierno progresivo y las marcas distintivas de un Estado ideal. Urantia está lejos de hacer realidad estos ideales elevados, pero las razas civilizadas han empezado a caminar —la humanidad está en marcha hacia unos destinos evolutivos superiores.
 
 {{anchor|LU_71_8_16}} <sup><small>71:8.16</small></sup> [Patrocinado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 70|Documento 70. La evolución del gobierno humano]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 72|Documento 72. Un gobierno en un planeta vecino]]
+|}
 

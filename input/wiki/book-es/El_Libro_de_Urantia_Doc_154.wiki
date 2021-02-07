@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 153|Documento 153. La crisis en Cafarnaúm]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 155|Documento 155. La huida por el norte de Galilea]]
+|}
+
 == DOCUMENTO 154. LOS ÚLTIMOS DÍAS EN CAFARNAÚM ==
 
 {{anchor|LU_154_0}}
@@ -96,6 +101,11 @@
 {{anchor|LU_154_7_4}} <sup><small>154:7.4</small></sup> La multitud permaneció alrededor de la casa de Zebedeo, observando las dos embarcaciones que navegaban por el lago hacia la orilla oriental; ya estaban lejos cuando los oficiales de Jerusalén llegaron precipitadamente y empezaron a buscar a Jesús. Se negaban a creer que se les había escapado, y mientras Jesús y su grupo viajaban hacia el norte por Batanea, los fariseos y sus ayudantes se pasaron casi una semana entera buscándolo en vano por las inmediaciones de Cafarnaúm.
 
 {{anchor|LU_154_7_5}} <sup><small>154:7.5</small></sup> La familia de Jesús volvió a sus hogares de Cafarnaúm, y pasaron casi una semana hablando, discutiendo y orando. Estaban llenos de confusión y de consternación. No disfrutaron de tranquilidad hasta el jueves por la tarde, cuando Rut volvió de una visita a la casa de Zebedeo, donde David le había informado que su hermano-padre estaba a salvo y con buena salud, y que se dirigía hacia la costa de Fenicia.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 153|Documento 153. La crisis en Cafarnaúm]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 155|Documento 155. La huida por el norte de Galilea]]
+|}
 
 == Referencias ==
 

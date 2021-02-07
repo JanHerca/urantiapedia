@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 104|Documento 104. El crecimiento del concepto de la Trinidad]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 106|Documento 106. Los niveles de realidad del universo]]
+|}
+
 == DOCUMENTO 105. LA DEIDAD Y LA REALIDAD ==
 
 {{anchor|LU_105_0}}
@@ -166,6 +171,11 @@
 {{anchor|LU_105_7_18}} <sup><small>105:7.18</small></sup> En la eternidad del pasado, las fuerzas de los Absolutos, los espíritus de las Deidades y las personalidades de los Dioses se pusieron en movimiento en respuesta a la voluntad autónoma primordial de la voluntad autónoma existente por sí misma. En esta era del universo, todos estamos presenciando las prodigiosas repercusiones del inmenso panorama cósmico de las manifestaciones subabsolutas de los potenciales ilimitados de todas esas realidades. Es enteramente posible que la diversificación continua de la realidad original de la Fuente-Centro Primera siga aumentando y exteriorizándose a lo largo de las épocas, cada vez más, hasta las extensiones lejanas e inconcebibles de la infinidad absoluta.
 
 {{anchor|LU_105_7_19}} <sup><small>105:7.19</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 104|Documento 104. El crecimiento del concepto de la Trinidad]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 106|Documento 106. Los niveles de realidad del universo]]
+|}
 
 == Referencias ==
 

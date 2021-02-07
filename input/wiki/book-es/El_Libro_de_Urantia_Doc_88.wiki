@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 87|Documento 87. Los cultos a los fantasmas]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 89|Documento 89. Pecado, sacrificio y expiación]]
+|}
+
 == DOCUMENTO 88. FETICHES, AMULETOS Y MAGIA ==
 
 {{anchor|LU_88_0}}
@@ -110,6 +115,11 @@
 {{anchor|LU_88_6_8}} <sup><small>88:6.8</small></sup> La magia antigua fue el capullo de la ciencia moderna, indispensable en su tiempo pero inútil en la actualidad. Los fantasmas de la superstición ignorante agitaron así la mente primitiva de los hombres hasta que los conceptos de la ciencia pudieron nacer. Urantia se encuentra hoy en el crepúsculo de esta evolución intelectual. Una mitad del mundo se aferra ávidamente a la luz de la verdad y a los hechos de los descubrimientos científicos, mientras que la otra mitad languidece en los brazos de las antiguas supersticiones y de una magia apenas disfrazada.
 
 {{anchor|LU_88_6_9}} <sup><small>88:6.9</small></sup> [Presentado por una Brillante Estrella Vespertina de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 87|Documento 87. Los cultos a los fantasmas]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 89|Documento 89. Pecado, sacrificio y expiación]]
+|}
 
 == Referencias ==
 

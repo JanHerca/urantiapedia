@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 173|Documento 173. El lunes en Jerusalén]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 175|Documento 175. El último discurso en el templo]]
+|}
+
 == DOCUMENTO 174. EL MARTES POR LA MAÑANA EN EL TEMPLO ==
 
 {{anchor|LU_174_0}}
@@ -90,6 +95,11 @@
 {{anchor|LU_174_5_13}} <sup><small>174:5.13</small></sup> «Y ahora os afirmo que, si soy elevado en la Tierra y en vuestras vidas, atraeré a todos los hombres hacia mí<ref name="n52"/> y hacia la comunidad de mi Padre. Habéis creído que el Libertador residiría para siempre en la Tierra, pero declaro que el Hijo del Hombre será rechazado por los hombres, y que regresará al Padre. Sólo estaré con vosotros un corto período de tiempo<ref name="n53"/>; la luz viviente sólo estará poco tiempo en medio de esta generación tenebrosa. Caminad mientras tengáis esta luz, para que las tinieblas y la confusión venideras no os cojan por sorpresa. El que camina en las tinieblas, no sabe adonde va; pero si escogéis caminar en la luz, todos os convertiréis en verdad en los hijos liberados de Dios. Y ahora, venid conmigo todos vosotros mientras regresamos al templo, donde voy a decir mis palabras de adiós a los jefes de los sacerdotes, a los escribas, a los fariseos, a los saduceos, a los herodianos y a los dirigentes ignorantes de Israel».
 
 {{anchor|LU_174_5_14}} <sup><small>174:5.14</small></sup> Después de haber hablado así, Jesús condujo al grupo de regreso hacia el templo por las estrechas calles de Jerusalén. Acababan de oír decir al Maestro que éste iba a ser su discurso de adiós en el templo, y le siguieron en silencio, meditando profundamente<ref name="n54"/>.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 173|Documento 173. El lunes en Jerusalén]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 175|Documento 175. El último discurso en el templo]]
+|}
 
 == Referencias ==
 

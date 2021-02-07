@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 89|Documento 89. Pecado, sacrificio y expiación]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 91|Documento 91. La evolución de la oración]]
+|}
+
 == DOCUMENTO 90. EL CHAMANISMO —LOS CURANDEROS Y LOS SACERDOTES ==
 
 {{anchor|LU_90_0}}
@@ -112,6 +117,11 @@
 {{anchor|LU_90_5_8}} <sup><small>90:5.8</small></sup> No se puede negar que los sacerdotes han sido una piedra de molino atada al cuello de las razas, pero los verdaderos dirigentes religiosos han resultado inestimables señalando el camino hacia otras realidades más elevadas y mejores.
 
 {{anchor|LU_90_5_9}} <sup><small>90:5.9</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 89|Documento 89. Pecado, sacrificio y expiación]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 91|Documento 91. La evolución de la oración]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 69|Documento 69. Las instituciones humanas primitivas]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 71|Documento 71. El desarrollo del Estado]]
+|}
+
 == DOCUMENTO 70. LA EVOLUCIÓN DEL GOBIERNO HUMANO ==
 
 {{anchor|LU_70_0}}
@@ -400,6 +405,11 @@
 {{anchor|LU_70_12_20}} <sup><small>70:12.20</small></sup> La lucha de la humanidad por perfeccionar el gobierno en Urantia consiste en optimizar los canales de la administración, en adaptarlos a las necesidades corrientes en continuo cambio, en mejorar la distribución de los poderes dentro del gobierno, y luego en seleccionar a unos dirigentes administrativos que sean realmente sabios. Aunque existe una forma de gobierno divina e ideal, no podemos revelarla, sino que debe ser descubierta de manera lenta y laboriosa por los hombres y las mujeres de cada planeta en todos los universos del tiempo y del espacio.
 
 {{anchor|LU_70_12_21}} <sup><small>70:12.21</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 69|Documento 69. Las instituciones humanas primitivas]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 71|Documento 71. El desarrollo del Estado]]
+|}
 
 == Referencias ==
 

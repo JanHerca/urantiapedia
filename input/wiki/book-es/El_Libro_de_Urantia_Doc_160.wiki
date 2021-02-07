@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 159|Documento 159. La gira por la Decápolis]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 161|Documento 161. Otras discusiones con Rodán]]
+|}
+
 == DOCUMENTO 160. RODÁN DE ALEJANDRÍA ==
 
 {{anchor|LU_160_0}}
@@ -134,6 +139,11 @@
 {{anchor|LU_160_5_13}} <sup><small>160:5.13</small></sup> La conciencia del impulso a ser semejante a Dios no es la verdadera religión. Los sentimientos emotivos de adorar a Dios no son la verdadera religión. La convicción consciente de abandonar el yo y servir a Dios no es la verdadera religión. La sabiduría del razonamiento de que esta religión es la mejor de todas, no es la religión como experiencia personal y espiritual. La verdadera religión tiene relación con el destino y la realidad de lo que se logra, así como con la realidad y el idealismo de aquello que se acepta de todo corazón por la fe. Y todo esto debe hacerse personal para nosotros mediante la revelación del Espíritu de la Verdad.
 
 {{anchor|LU_160_5_14}} <sup><small>160:5.14</small></sup> Así terminaron las disertaciones del filósofo griego, uno de los más grandes de su raza, que se había vuelto creyente en el evangelio de Jesús.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 159|Documento 159. La gira por la Decápolis]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 161|Documento 161. Otras discusiones con Rodán]]
+|}
 
 == Referencias ==
 

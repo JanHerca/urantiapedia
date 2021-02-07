@@ -844,6 +844,18 @@ class Book {
 		return new Promise((resolve, reject) => {
 			let wiki = '', ptitle, error;
 			const end = '\r\n\r\n';
+			const eldu = 'El Libro de Urantia';
+			const prev = paper.paper_index - 1;
+			const next = paper.paper_index + 1;
+			let docPrev = (paper.paper_index === 0 ? null :
+				this.papers.find(p=>p.paper_index === prev).paper_title);
+			let docNext = (paper.paper_index === 196 ? ' ' :
+				this.papers.find(p=>p.paper_index === next).paper_title);
+			docPrev = (docPrev ? `[[${eldu} Doc ${prev}|${docPrev}]]` : ' ');
+			docNext = (docNext ? `[[${eldu} Doc ${next}|${docNext}]]` : ' ');
+
+			let header = '\r\n{| class="wikitable" style="width:100%;"\r\n' +
+				`| ${docPrev} || [[${eldu} Indice|Índice]] || ${docNext}\r\n|}${end}`;
 
 			if (!Array.isArray(paper.sections)) {
 				error = 'El documento no tiene secciones';
@@ -863,6 +875,7 @@ class Book {
 			ptitle = this.replaceSpecialChars(paper.paper_title);
 			ptitle = ptitle.toUpperCase();
 			wiki += '<div class="noautonum">__TOC__</div>\r\n';
+			wiki += header;
 			wiki += `== ${ptitle} ==${end}`;
 
 			const wfootnotes = (Array.isArray(paper.footnotes) &&
@@ -953,6 +966,8 @@ class Book {
 					wiki += `${panchor} ${supref} ${pcontent}${end}`;
 				});
 			});
+
+			wiki += header;
 
 			if (wfootnotes.length > 0) {
 				wiki += `== Referencias ==${end}<references>\r\n`;

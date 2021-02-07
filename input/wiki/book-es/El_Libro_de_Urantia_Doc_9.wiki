@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 8|Documento 8. El Espíritu Infinito]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 10|Documento 10. La Trinidad del Paraíso]]
+|}
+
 == DOCUMENTO 9. LAS RELACIONES DEL ESPÍRITU INFINITO CON EL UNIVERSO ==
 
 {{anchor|LU_9_0}}
@@ -176,6 +181,11 @@
 {{anchor|LU_9_8_25}} <sup><small>9:8.25</small></sup> Las personalidades espirituales de la inmensa familia del Espíritu Divino e Infinito están dedicadas para siempre al servicio del ministerio del amor de Dios y de la misericordia del Hijo hacia todas las criaturas inteligentes de los mundos evolutivos del tiempo y del espacio. Estos seres espirituales constituyen la escala viviente por la que el hombre mortal se eleva desde el caos hasta la gloria.
 
 {{anchor|LU_9_8_26}} <sup><small>9:8.26</small></sup> [Revelado en Urantia por un Consejero Divino de Uversa, encargado por los Ancianos de los Días para describir la naturaleza y el trabajo del Espíritu Infinito.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 8|Documento 8. El Espíritu Infinito]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 10|Documento 10. La Trinidad del Paraíso]]
+|}
 
 == Referencias ==
 

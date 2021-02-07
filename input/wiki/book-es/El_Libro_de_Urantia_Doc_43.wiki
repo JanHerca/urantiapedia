@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 42|Documento 42. La energía ---la mente y la materia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 44|Documento 44. Los artesanos celestiales]]
+|}
+
 == DOCUMENTO 43. LAS CONSTELACIONES ==
 
 {{anchor|LU_43_0}}
@@ -200,6 +205,11 @@
 {{anchor|LU_43_9_5}} <sup><small>43:9.5</small></sup> El día que estéis preparados para dejar Edentia con vistas a la carrera en Salvington, haréis una pausa y recordaréis una de las épocas más hermosas y refrescantes de todos vuestros períodos de formación a este lado del Paraíso. Pero la gloria de todo esto aumentará a medida que ascendáis hacia el interior y consigáis una capacidad creciente para apreciar más ampliamente los significados divinos y los valores espirituales.
 
 {{anchor|LU_43_9_6}} <sup><small>43:9.6</small></sup> [Patrocinado por Malavatia Melquisedek.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 42|Documento 42. La energía ---la mente y la materia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 44|Documento 44. Los artesanos celestiales]]
+|}
 
 == Referencias ==
 

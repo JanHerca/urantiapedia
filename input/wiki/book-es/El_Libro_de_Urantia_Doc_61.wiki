@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 60|Documento 60. Urantia durante la era de la vida terrestre primitiva]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 62|Documento 62. Las razas en los albores del hombre primitivo]]
+|}
+
 == DOCUMENTO 61. LA ERA DE LOS MAMÍFEROS EN URANTIA ==
 
 {{anchor|LU_61_0}}
@@ -184,6 +189,11 @@
 {{anchor|LU_61_7_19}} <sup><small>61:7.19</small></sup> Esta narración se extiende desde el nacimiento de los mamíferos hasta el retroceso de los hielos y los tiempos históricos, abarcando un período de casi cincuenta millones de años. Es el último período geológico —el actualmente vigente— y vuestros investigadores lo conocen con el nombre de ''Cenozoico'' o era de los tiempos recientes.
 
 {{anchor|LU_61_7_20}} <sup><small>61:7.20</small></sup> [Patrocinado por un Portador de Vida residente.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 60|Documento 60. Urantia durante la era de la vida terrestre primitiva]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 62|Documento 62. Las razas en los albores del hombre primitivo]]
+|}
 
 == Referencias ==
 

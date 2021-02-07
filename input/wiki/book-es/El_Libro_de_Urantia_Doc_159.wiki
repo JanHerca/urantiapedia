@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 158|Documento 158. El monte de la transfiguración]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 160|Documento 160. Rodán de Alejandría]]
+|}
+
 == DOCUMENTO 159. LA GIRA POR LA DECÁPOLIS ==
 
 {{anchor|LU_159_0}}
@@ -134,6 +139,11 @@
 {{anchor|LU_159_6_4}} <sup><small>159:6.4</small></sup> Aproximadamente por esta época, [[Abner]] trasladó su centro de operaciones de Hebrón a Belén; esta última ciudad era también el cuartel general de los mensajeros de David en Judea. David mantenía un servicio de mensajeros de relevo durante la noche entre Jerusalén y Betsaida. Estos corredores salían de Jerusalén todas las tardes, se relevaban en Sicar y Escitópolis, y llegaban a Betsaida a la hora del desayuno de la mañana siguiente.
 
 {{anchor|LU_159_6_5}} <sup><small>159:6.5</small></sup> Jesús y sus compañeros se dispusieron ahora a tomar una semana de descanso, antes de prepararse para iniciar la última época de sus trabajos a favor del reino. Éste fue su último período de descanso, porque la misión en Perea se convirtió en una campaña de predicación y de enseñanza que se prolongó hasta el momento de su llegada a Jerusalén y de la representación de los episodios finales de la carrera terrestre de Jesús.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 158|Documento 158. El monte de la transfiguración]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 160|Documento 160. Rodán de Alejandría]]
+|}
 
 == Referencias ==
 

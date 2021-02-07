@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 163|Documento 163. La ordenación de los setenta en Magadán]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 165|Documento 165. Comienza la misión en Perea]]
+|}
+
 == DOCUMENTO 164. LA FIESTA DE LA CONSAGRACIÓN ==
 
 {{anchor|LU_164_0}}
@@ -100,6 +105,11 @@
 {{anchor|LU_164_5_5}} <sup><small>164:5.5</small></sup> Cuando Josías se enteró de que había sido expulsado de la sinagoga, al principio se deprimió enormemente, pero se animó mucho cuando Jesús le ordenó que se preparara inmediatamente para acompañarlos al campamento de Pella. Este hombre sencillo de Jerusalén había sido expulsado en verdad de una sinagoga judía, pero he aquí que el Creador de un universo se lo llevaba para asociarlo con la nobleza espiritual de aquel tiempo y de aquella generación.
 
 {{anchor|LU_164_5_6}} <sup><small>164:5.6</small></sup> Jesús salió entonces de Jerusalén para no regresar allí hasta poco antes del momento en que se preparó para dejar este mundo. El Maestro volvió a Pella con Josías y los dos apóstoles<ref name="n30"/>. Josías demostró ser uno de los que recibieron el ministerio milagroso del Maestro que dió resultados fructíferos, pues se convirtió en un predicador del evangelio del reino durante el resto de su vida.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 163|Documento 163. La ordenación de los setenta en Magadán]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 165|Documento 165. Comienza la misión en Perea]]
+|}
 
 == Referencias ==
 

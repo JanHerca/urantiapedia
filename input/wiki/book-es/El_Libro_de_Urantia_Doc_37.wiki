@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 36|Documento 36. Los Portadores de Vida]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 38|Documento 38. Los espíritus ministrantes del universo local]]
+|}
+
 == DOCUMENTO 37. LAS PERSONALIDADES DEL UNIVERSO LOCAL ==
 
 {{anchor|LU_37_0}}
@@ -192,6 +197,11 @@
 {{anchor|LU_37_10_6}} <sup><small>37:10.6</small></sup> Existen además otros tipos de vida inteligente relacionados con la administración de un universo local, pero el plan de esta narración no prevé la revelación adicional de estas órdenes creadas. Aquí se describe lo suficiente sobre la vida y la administración de este universo como para proporcionarle a la mente mortal un vislumbre de la realidad y la grandiosidad de la existencia en la supervivencia. Las experiencias ulteriores de vuestra carrera progresiva os revelarán cada vez más estos seres interesantes y encantadores. Esta narración no puede ser más que un breve esbozo de la naturaleza y del trabajo de las múltiples personalidades que atestan los universos del espacio, administrando estas creaciones como enormes escuelas formativas, unas escuelas donde los peregrinos del tiempo avanzan de vida en vida y de mundo en mundo, hasta que son enviados con amor desde las fronteras de su universo de origen hacia el régimen educativo superior del superuniverso, y desde allí hacia los mundos de formación espiritual de Havona, y finalmente hacia el Paraíso y el elevado destino de los finalitarios —la asignación eterna a misiones aún no reveladas a los universos del tiempo y del espacio.
 
 {{anchor|LU_37_10_7}} <sup><small>37:10.7</small></sup> [Dictado por una Brillante Estrella Vespertina de Nebadon, Número 1.146 del Cuerpo Creado.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 36|Documento 36. Los Portadores de Vida]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 38|Documento 38. Los espíritus ministrantes del universo local]]
+|}
 
 == Referencias ==
 

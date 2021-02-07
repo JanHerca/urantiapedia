@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 58|Documento 58. El establecimiento de la vida en Urantia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 60|Documento 60. Urantia durante la era de la vida terrestre primitiva]]
+|}
+
 == DOCUMENTO 59. LA ERA DE LA VIDA MARINA EN URANTIA ==
 
 {{anchor|LU_59_0}}
@@ -230,6 +235,11 @@
 {{anchor|LU_59_6_12}} <sup><small>59:6.12</small></sup> El inmenso criadero de vida que fueron los océanos de Urantia ha cumplido su objetivo. Durante las largas épocas en que las tierras eran inadecuadas para sostener la vida, antes de que la atmósfera contuviera el suficiente oxígeno para mantener a los animales terrestres superiores, el mar dio a luz a la vida primitiva del planeta y la alimentó. Ahora, la importancia biológica del mar disminuye progresivamente a medida que la segunda etapa de la evolución empieza a desarrollarse en la tierra firme.
 
 {{anchor|LU_59_6_13}} <sup><small>59:6.13</small></sup> [Presentado por un Portador de Vida de Nebadon, miembro del cuerpo original asignado a Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 58|Documento 58. El establecimiento de la vida en Urantia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 60|Documento 60. Urantia durante la era de la vida terrestre primitiva]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 56|Documento 56. La unidad universal]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 58|Documento 58. El establecimiento de la vida en Urantia]]
+|}
+
 == DOCUMENTO 57. EL ORIGEN DE URANTIA ==
 
 {{anchor|LU_57_0}}
@@ -210,6 +215,11 @@
 {{anchor|LU_57_8_26}} <sup><small>57:8.26</small></sup> Estos mares y sus sucesores fueron los que establecieron los archivos vivientes de Urantia, tal como se descubrieron posteriormente en las páginas de piedra bien conservadas, volumen tras volumen, a medida que una era sucedía a la otra y una época daba nacimiento a la siguiente. Estos mares interiores de los tiempos antiguos fueron verdaderamente la cuna de la evolución.
 
 {{anchor|LU_57_8_27}} <sup><small>57:8.27</small></sup> [Presentado por un Portador de Vida, miembro del Cuerpo original de Urantia y actualmente observador residente.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 56|Documento 56. La unidad universal]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 58|Documento 58. El establecimiento de la vida en Urantia]]
+|}
 
 == Referencias ==
 

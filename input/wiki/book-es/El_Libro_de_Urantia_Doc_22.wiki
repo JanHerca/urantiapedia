@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 21|Documento 21. Los Hijos Creadores Paradisiacos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 23|Documento 23. Los Mensajeros Solitarios]]
+|}
+
 == DOCUMENTO 22. LOS HIJOS DE DIOS TRINITIZADOS ==
 
 {{anchor|LU_22_0}}
@@ -196,4 +201,9 @@
 {{anchor|LU_22_10_9}} <sup><small>22:10.9</small></sup> Y éste es el relato del origen, la naturaleza y la función de algunos seres llamados Hijos de Dios Trinitizados, y más especialmente de aquellos que han pasado por el abrazo divino de la Trinidad del Paraíso, y que luego han sido destinados al servicio de los superuniversos para ofrecer allí su cooperación sabia y comprensiva a los administradores de los Ancianos de los Días en sus esfuerzos infatigables por facilitar el progreso interior de los mortales ascendentes del tiempo hacia su destino inmediato en Havona y su meta final en el Paraíso.
 
 {{anchor|LU_22_10_10}} <sup><small>22:10.10</small></sup> [Narrado por un Mensajero Poderoso del cuerpo revelador de Orvonton.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 21|Documento 21. Los Hijos Creadores Paradisiacos]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 23|Documento 23. Los Mensajeros Solitarios]]
+|}
 

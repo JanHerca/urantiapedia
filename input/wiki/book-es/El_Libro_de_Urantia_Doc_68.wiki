@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 67|Documento 67. La rebelión planetaria]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 69|Documento 69. Las instituciones humanas primitivas]]
+|}
+
 == DOCUMENTO 68. LOS ALBORES DE LA CIVILIZACIÓN ==
 
 {{anchor|LU_68_0}}
@@ -130,6 +135,11 @@
 {{anchor|LU_68_6_11}} <sup><small>68:6.11</small></sup> Desde el punto de vista mundial, la superpoblación nunca ha sido un grave problema en el pasado, pero si las guerras disminuyen y la ciencia controla cada vez más las enfermedades humanas, puede convertirse en un problema serio en el futuro cercano. En ese momento se presentará la gran prueba de sabiduría para los dirigentes del mundo. Los gobernantes de Urantia ¿tendrán la perspicacia y la valentía de fomentar la multiplicación de los seres humanos de tipo medio o estabilizados, en lugar de favorecer la de los grupos extremos compuestos por los que son superiores a la normalidad y por los grupos cada vez más grandes de seres inferiores a la normalidad? Se debería fomentar el hombre normal; él es la espina dorsal de la civilización y la fuente de los genios mutantes de la raza. El hombre inferior a la normalidad debería estar sujeto al control de la sociedad; no se deberían tener más de los que se necesitan para atender los niveles inferiores de la industria, aquellas tareas que requieren una inteligencia por encima del nivel animal, pero que precisan unos esfuerzos tan pequeños que resultan una verdadera esclavitud y una servidumbre para los tipos superiores de la humanidad.
 
 {{anchor|LU_68_6_12}} <sup><small>68:6.12</small></sup> [Presentado por un Melquisedek destinado en otro tiempo en Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 67|Documento 67. La rebelión planetaria]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 69|Documento 69. Las instituciones humanas primitivas]]
+|}
 
 == Referencias ==
 

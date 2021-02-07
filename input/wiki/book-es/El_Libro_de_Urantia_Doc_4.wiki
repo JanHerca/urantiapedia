@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 3|Documento 3. Los atributos de Dios]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 5|Documento 5. Las relaciones de Dios con los individuos]]
+|}
+
 == DOCUMENTO 4. LAS RELACIONES DE DIOS CON EL UNIVERSO ==
 
 {{anchor|LU_4_0}}
@@ -106,6 +111,11 @@
 {{anchor|LU_4_5_7}} <sup><small>4:5.7</small></sup> Pero los habitantes de Urantia han de encontrar la manera de liberarse de estos antiguos errores y de estas supersticiones paganas respecto a la naturaleza del Padre Universal. La revelación de la verdad sobre Dios está empezando a aparecer, y la raza humana está destinada a conocer al Padre Universal en toda esa belleza de carácter y ese encanto de atributos que fueron tan magníficamente presentados por el Hijo Creador que residió en Urantia como Hijo del Hombre e Hijo de Dios.
 
 {{anchor|LU_4_5_8}} <sup><small>4:5.8</small></sup> [Presentado por un Consejero Divino de Uversa.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 3|Documento 3. Los atributos de Dios]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 5|Documento 5. Las relaciones de Dios con los individuos]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 4|Documento 4. Las relaciones de Dios con el universo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 6|Documento 6. El Hijo Eterno]]
+|}
+
 == DOCUMENTO 5. LAS RELACIONES DE DIOS CON LOS INDIVIDUOS ==
 
 {{anchor|LU_5_0}}
@@ -156,6 +161,11 @@
 {{anchor|LU_5_6_13}} <sup><small>5:6.13</small></sup> Esto representa mis esfuerzos por exponer las relaciones del Dios viviente con los hijos del tiempo. Y cuando todo ha sido dicho y hecho, no puedo hacer nada más útil que reiterar que Dios es vuestro Padre en el universo, y que todos sois sus hijos planetarios.
 
 {{anchor|LU_5_6_14}} <sup><small>5:6.14</small></sup> [Este documento es el quinto y último de la serie que describe al Padre Universal, presentada por un Consejero Divino de Uversa.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 4|Documento 4. Las relaciones de Dios con el universo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 6|Documento 6. El Hijo Eterno]]
+|}
 
 == Referencias ==
 

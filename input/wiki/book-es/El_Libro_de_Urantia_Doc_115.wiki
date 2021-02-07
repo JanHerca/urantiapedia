@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 114|Documento 114. El gobierno planetario de los serafines]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 116|Documento 116. El Todopoderoso Supremo]]
+|}
+
 == DOCUMENTO 115. EL SER SUPREMO ==
 
 {{anchor|LU_115_0}}
@@ -124,4 +129,9 @@
 {{anchor|LU_115_7_8}} <sup><small>115:7.8</small></sup> Mediante el proceso de totalizar la experiencia evolutiva, el Supremo conecta lo finito con lo absonito, de la misma manera que la mente del Actor Conjunto integra la espiritualidad divina del Hijo personal con las energías inmutables del arquetipo Paradisíaco, y de la misma forma que la presencia del Absoluto Universal unifica la activación del Absoluto de la Deidad con la reactividad del Incalificado. Esta unidad debe ser una revelación del trabajo no detectado de la unidad original de la Primera Causa-Padre y Primer Arquetipo-Fuente de todas las cosas y de todos los seres.
 
 {{anchor|LU_115_7_9}} <sup><small>115:7.9</small></sup> [Patrocinado por un Poderoso Mensajero que reside temporalmente en Urantia].
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 114|Documento 114. El gobierno planetario de los serafines]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 116|Documento 116. El Todopoderoso Supremo]]
+|}
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 155|Documento 155. La huida por el norte de Galilea]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 157|Documento 157. En Cesarea de Filipo]]
+|}
+
 == DOCUMENTO 156. LA ESTANCIA EN TIRO Y SIDÓN ==
 
 {{anchor|LU_156_0}}
@@ -126,6 +131,11 @@
 {{anchor|LU_156_6_9}} <sup><small>156:6.9</small></sup> Ésta era la situación hacia primeros de agosto del año 29, cuando el Maestro regresó de su misión en Fenicia y empezó a reorganizar sus fuerzas dispersas, puestas a prueba y reducidas, con vistas a este último año memorable de su misión en la Tierra.
 
 {{anchor|LU_156_6_10}} <sup><small>156:6.10</small></sup> Los resultados de la batalla están claramente delineados mientras el Maestro y sus compañeros se preparan para empezar la proclamación de una nueva religión, la religión del espíritu del Dios vivo que reside en la mente de los hombres.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 155|Documento 155. La huida por el norte de Galilea]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 157|Documento 157. En Cesarea de Filipo]]
+|}
 
 == Referencias ==
 

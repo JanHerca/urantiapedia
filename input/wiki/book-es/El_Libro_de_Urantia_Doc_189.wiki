@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 188|Documento 188. El período en la tumba]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 190|Documento 190. Las apariciones morontiales de Jesús]]
+|}
+
 == DOCUMENTO 189. LA RESURRECCIÓN ==
 
 {{anchor|LU_189_0}}
@@ -110,6 +115,11 @@
 {{anchor|LU_189_5_4}} <sup><small>189:5.4</small></sup> Mientras María permanecía allí después de la partida de Pedro y Juan, el Maestro se le apareció de nuevo<ref name="n18"/>, diciendo: «No dudes; ten el valor de creer en lo que has visto y oído. Vuelve a donde están mis apóstoles y diles de nuevo que he resucitado, que me apareceré a ellos, y que pronto los precederé en Galilea como les prometí»<ref name="n19"/>.
 
 {{anchor|LU_189_5_5}} <sup><small>189:5.5</small></sup> María se apresuró a volver a la casa de Marcos y contó a los apóstoles que había hablado de nuevo con Jesús, pero no quisieron creerla. Sin embargo, cuando Pedro y Juan regresaron, dejaron de burlarse y se llenaron de temor y de aprensión.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 188|Documento 188. El período en la tumba]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 190|Documento 190. Las apariciones morontiales de Jesús]]
+|}
 
 == Referencias ==
 

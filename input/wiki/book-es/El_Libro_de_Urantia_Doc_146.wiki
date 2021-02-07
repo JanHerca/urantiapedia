@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 145|Documento 145. Cuatro días memorables en Cafarnaúm]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 147|Documento 147. El paréntesis de la visita a Jerusalén]]
+|}
+
 == DOCUMENTO 146. LA PRIMERA GIRA DE PREDICACIÓN EN GALILEA ==
 
 {{anchor|LU_146_0}}
@@ -118,6 +123,11 @@
 {{anchor|LU_146_7_2}} <sup><small>146:7.2</small></sup> Jesús explicó además a sus apóstoles que los espíritus de los seres humanos fallecidos no regresan a su mundo de origen para comunicarse con sus semejantes vivos. Al espíritu en progreso del hombre mortal sólo le sería posible volver a la Tierra después de haber transcurrido una época dispensacional, e incluso entonces, sólo sería en casos excepcionales y como parte de la administración espiritual del planeta.
 
 {{anchor|LU_146_7_3}} <sup><small>146:7.3</small></sup> Después de haber descansado dos días, Jesús dijo a sus apóstoles: «Regresemos mañana a Cafarnaúm para quedarnos allí y enseñar mientras se calman los alrededores. A estas alturas, en nuestro pueblo ya se habrán recuperado en parte de esta especie de agitación».
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 145|Documento 145. Cuatro días memorables en Cafarnaúm]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 147|Documento 147. El paréntesis de la visita a Jerusalén]]
+|}
 
 == Referencias ==
 

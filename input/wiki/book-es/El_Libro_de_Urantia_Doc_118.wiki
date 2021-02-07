@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 117|Documento 117. Dios Supremo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 119|Documento 119. Las donaciones de Cristo Miguel]]
+|}
+
 == DOCUMENTO 118. EL SUPREMO Y EL ÚLTIMO —EL TIEMPO Y EL ESPACIO ==
 
 {{anchor|LU_118_0}}
@@ -232,6 +237,11 @@
 {{anchor|LU_118_10_23}} <sup><small>118:10.23</small></sup> Cuando los hombres ruegan para que se produzca una intervención providencial en las circunstancias de la vida, muchas veces la respuesta a sus oraciones es su propio cambio de actitud hacia la vida. Pero la providencia no es caprichosa, y tampoco es fantástica ni mágica. Es la aparición lenta y segura del poderoso soberano de los universos finitos, cuya presencia majestuosa es detectada ocasionalmente por las criaturas evolutivas en su progreso universal. La providencia es la marcha cierta y segura de las galaxias del espacio y de las personalidades del tiempo hacia las metas de la eternidad, primero en el Supremo, luego en el Último, y quizás en el Absoluto. Creemos que esta misma providencia existe en la infinidad, y que se trata de la voluntad, las acciones y el propósito de la Trinidad del Paraíso, que motiva así el panorama cósmico de unos universos tras otros.
 
 {{anchor|LU_118_10_24}} <sup><small>118:10.24</small></sup> [Patrocinado por un Poderoso Mensajero que reside temporalmente en Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 117|Documento 117. Dios Supremo]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 119|Documento 119. Las donaciones de Cristo Miguel]]
+|}
 
 == Referencias ==
 

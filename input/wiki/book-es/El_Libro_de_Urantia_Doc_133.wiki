@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 132|Documento 132. La estancia en Roma]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 134|Documento 134. Los años de transición]]
+|}
+
 == DOCUMENTO 133. EL REGRESO DE ROMA ==
 
 {{anchor|LU_133_0}}
@@ -182,6 +187,11 @@
 {{anchor|LU_133_9_5}} <sup><small>133:9.5</small></sup> En la India, Ganid creció y se volvió un hombre influyente, un digno sucesor de su eminente padre; divulgó por todas partes muchas de las nobles verdades que había aprendido de Jesús, su amado maestro. Más tarde en la vida, cuando Ganid oyó hablar del extraño educador de Palestina que terminó su carrera en una cruz, aunque reconoció la similitud entre el evangelio de este Hijo del Hombre y las enseñanzas de su preceptor judío, nunca se le ocurrió pensar que los dos eran de hecho la misma persona.
 
 {{anchor|LU_133_9_6}} <sup><small>133:9.6</small></sup> Así terminó el capítulo de la vida del Hijo del Hombre que podría titularse: ''La misión de Josué el educador''.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 132|Documento 132. La estancia en Roma]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 134|Documento 134. Los años de transición]]
+|}
 
 == Referencias ==
 

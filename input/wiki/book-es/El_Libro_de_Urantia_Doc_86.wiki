@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 85|Documento 85. Los orígenes de la adoración]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 87|Documento 87. Los cultos a los fantasmas]]
+|}
+
 == DOCUMENTO 86. LA EVOLUCIÓN INICIAL DE LA RELIGIÓN ==
 
 {{anchor|LU_86_0}}
@@ -132,6 +137,11 @@
 {{anchor|LU_86_7_6}} <sup><small>86:7.6</small></sup> Gracias a la fuerza poderosa e impresionante del falso miedo, la religión primitiva preparó el terreno de la mente humana para la concesión de una auténtica fuerza espiritual de origen sobrenatural, el Ajustador del Pensamiento. Y los Ajustadores divinos han trabajado siempre desde entonces para transmutar el temor de Dios en amor por Dios. La evolución puede ser lenta, pero es infaliblemente eficaz.
 
 {{anchor|LU_86_7_7}} <sup><small>86:7.7</small></sup> [Presentado por una Estrella Vespertina de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 85|Documento 85. Los orígenes de la adoración]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 87|Documento 87. Los cultos a los fantasmas]]
+|}
 
 == Referencias ==
 

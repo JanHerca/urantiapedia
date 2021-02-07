@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 178|Documento 178. El último día en el campamento]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 180|Documento 180. El discurso de despedida]]
+|}
+
 == DOCUMENTO 179. LA ÚLTIMA CENA ==
 
 {{anchor|LU_179_0}}
@@ -100,6 +105,11 @@
 {{anchor|LU_179_5_9}} <sup><small>179:5.9</small></sup> Cuando Jesús hubo establecido así la cena del recuerdo, dijo a sus apóstoles: «Cada vez que hagáis esto, hacedlo en memoria mía. Y cuando os acordéis de mí, reflexionad primero sobre mi vida en la carne, recordad que en otro tiempo estuve con vosotros, y luego discernid por la fe que todos cenaréis conmigo algún día en el reino eterno del Padre. Ésta es la nueva Pascua que os dejo, el recuerdo mismo de mi vida de donación, la palabra de la verdad eterna; y de mi amor por vosotros, os dejo la efusión de mi Espíritu de la Verdad sobre todo el género humano»<ref name="n29"/>.
 
 {{anchor|LU_179_5_10}} <sup><small>179:5.10</small></sup> Y terminaron la celebración de esta antigua pero incruenta Pascua en conexión con la inauguración de la nueva cena del recuerdo, cantando todos juntos el salmo ciento dieciocho<ref name="n30"/>.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 178|Documento 178. El último día en el campamento]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 180|Documento 180. El discurso de despedida]]
+|}
 
 == Referencias ==
 

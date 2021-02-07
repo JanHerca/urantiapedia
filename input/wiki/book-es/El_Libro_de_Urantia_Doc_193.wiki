@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 192|Documento 192. Las apariciones en Galilea]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 194|Documento 194. La donación del Espíritu de la Verdad]]
+|}
+
 == DOCUMENTO 193. LAS APARICIONES FINALES Y LA ASCENSIÓN ==
 
 {{anchor|LU_193_0}}
@@ -94,6 +99,11 @@
 {{anchor|LU_193_6_5}} <sup><small>193:6.5</small></sup> De esta manera sólo quedaron seis apóstoles, de los doce originales, para actuar en el escenario de la proclamación inicial del evangelio en Jerusalén: Pedro, Andrés, Santiago, Juan, Felipe y Mateo.
 
 {{anchor|LU_193_6_6}} <sup><small>193:6.6</small></sup> Poco antes del mediodía, los apóstoles regresaron junto a sus hermanos en la habitación de arriba, y anunciaron que Matías había sido elegido como nuevo apóstol. Luego, Pedro invitó a todos los creyentes a ponerse en oración, a orar a fin de estar preparados para recibir el don del espíritu que el Maestro había prometido enviar.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 192|Documento 192. Las apariciones en Galilea]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 194|Documento 194. La donación del Espíritu de la Verdad]]
+|}
 
 == Referencias ==
 

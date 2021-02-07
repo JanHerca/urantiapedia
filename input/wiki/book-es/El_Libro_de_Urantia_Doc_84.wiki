@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 83|Documento 83. La institución del matrimonio]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 85|Documento 85. Los orígenes de la adoración]]
+|}
+
 == DOCUMENTO 84. EL MATRIMONIO Y LA VIDA FAMILIAR ==
 
 {{anchor|LU_84_0}}
@@ -216,6 +221,11 @@
 {{anchor|LU_84_8_6}} <sup><small>84:8.6</small></sup> Que los hombres disfruten de la vida; que la raza humana encuentre placer de mil y una maneras; que la humanidad evolutiva explore todas las formas de satisfacciones legítimas, los frutos de su larga lucha biológica por elevarse. El hombre se ha ganado bien algunas de sus alegrías y placeres de hoy. ¡Pero mirad bien por la meta del destino! Los placeres son realmente suicidas si consiguen destruir la propiedad, que se ha convertido en la institución para la preservación de sí mismo; y la satisfacción de sí mismo habrá costado en verdad un precio funesto si ocasiona el derrumbamiento del matrimonio, la decadencia de la vida familiar y la destrucción del hogar —la adquisición evolutiva suprema del hombre y la única esperanza de supervivencia de la civilización.
 
 {{anchor|LU_84_8_7}} <sup><small>84:8.7</small></sup> [Presentado por el Jefe de Serafines estacionado en Urantia.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 83|Documento 83. La institución del matrimonio]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 85|Documento 85. Los orígenes de la adoración]]
+|}
 
 == Referencias ==
 

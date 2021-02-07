@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 35|Documento 35. Los Hijos de Dios de los universos locales]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 37|Documento 37. Las personalidades del universo local]]
+|}
+
 == DOCUMENTO 36. LOS PORTADORES DE VIDA ==
 
 {{anchor|LU_36_0}}
@@ -148,6 +153,11 @@
 {{anchor|LU_36_6_7}} <sup><small>36:6.7</small></sup> Hay algunas cosas relacionadas con la elaboración de la vida en los planetas evolutivos que no están del todo claras para nosotros. Comprendemos plenamente la organización física de las fórmulas electroquímicas de los Portadores de Vida, pero no entendemos por completo la naturaleza y la fuente de la ''chispa que activa la vida''. Sabemos que la vida proviene del Padre, pasa por el Hijo y fluye ''a través'' del Espíritu. Es muy probable que los Espíritus Maestros sean el canal séptuple del río de vida que se derrama sobre toda la creación. Pero no comprendemos la técnica por medio de la cual el Espíritu Maestro supervisor participa en el episodio inicial de conferir la vida en un nuevo planeta. Estamos seguros de que los Ancianos de los Días también participan de alguna manera en esta inauguración de la vida en un nuevo mundo, pero ignoramos por completo la naturaleza de dicha participación. Sabemos que el Espíritu Madre del Universo vitaliza realmente los modelos sin vida y confiere a ese plasma activado las prerrogativas de la reproducción del organismo. Observamos que estas tres personalidades constituyen los niveles de Dios Séptuple, y son a veces denominadas los Creadores Supremos del tiempo y del espacio; pero por lo demás, sabemos poco más que los mortales de Urantia —simplemente que el concepto es inherente al Padre, la expresión al Hijo y la realización de la vida al Espíritu.
 
 {{anchor|LU_36_6_8}} <sup><small>36:6.8</small></sup> [Redactado por un Hijo Vorondadek estacionado en Urantia como observador, y que actúa en esta calidad a petición del Jefe Melquisedek del Cuerpo Revelador Supervisor.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 35|Documento 35. Los Hijos de Dios de los universos locales]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 37|Documento 37. Las personalidades del universo local]]
+|}
 
 == Referencias ==
 

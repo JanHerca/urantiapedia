@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 105|Documento 105. La Deidad y la realidad]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 107|Documento 107. El origen y la naturaleza de los Ajustadores del Pensamiento]]
+|}
+
 == DOCUMENTO 106. LOS NIVELES DE REALIDAD DEL UNIVERSO ==
 
 {{anchor|LU_106_0}}
@@ -212,6 +217,11 @@
 {{anchor|LU_106_9_12}} <sup><small>106:9.12</small></sup> Para las criaturas materiales, evolutivas y finitas, una vida basada en vivir la voluntad del Padre conduce directamente a alcanzar la supremacía espiritual en el ámbito de la personalidad, y lleva a estas criaturas a avanzar un paso más en la comprensión del Padre-Infinito. Una vida centrada así en el Padre está basada en la verdad, es sensible a la belleza y está dominada por la bondad. La persona que conoce así a Dios está interiormente iluminada por la adoración, y exteriormente consagrada de todo corazón al servicio de la fraternidad universal de todas las personalidades, un ministerio de servicio lleno de misericordia y motivado por el amor, mientras que todas estas cualidades de vida están unificadas en la personalidad evolutiva en unos niveles siempre ascendentes de sabiduría cósmica, de autorrealización, de descubrimiento de Dios y de adoración del Padre.
 
 {{anchor|LU_106_9_13}} <sup><small>106:9.13</small></sup> [Presentado por un Melquisedek de Nebadon].
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 105|Documento 105. La Deidad y la realidad]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 107|Documento 107. El origen y la naturaleza de los Ajustadores del Pensamiento]]
+|}
 
 == Referencias ==
 

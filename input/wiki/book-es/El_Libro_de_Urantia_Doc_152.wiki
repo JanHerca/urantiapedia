@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 151|Documento 151. Estancia y enseñanza a la orilla del mar]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 153|Documento 153. La crisis en Cafarnaúm]]
+|}
+
 == DOCUMENTO 152. LOS ACONTECIMIENTOS QUE CONDUJERON A LA CRISIS DE CAFARNAÚM ==
 
 {{anchor|LU_152_0}}
@@ -96,6 +101,11 @@
 {{anchor|LU_152_7_2}} <sup><small>152:7.2</small></sup> Durante esta Pascua, Jesús sólo entró una vez en Jerusalén, y lo hizo el gran día de la fiesta. [[Abner]] llevó a muchos creyentes de Jerusalén para que se reunieran con Jesús en Betania. Durante esta estancia en Jerusalén, los doce aprendieron cuán amargos se estaban volviendo los sentimientos hacia su Maestro. Todos partieron de Jerusalén convencidos de que una crisis era inminente.
 
 {{anchor|LU_152_7_3}} <sup><small>152:7.3</small></sup> El domingo 24 de abril, Jesús y los apóstoles salieron de Jerusalén hacia Betsaida, pasando por las ciudades costeras de Jope, Cesarea y Tolemaida. Desde allí fueron por el interior a Ramá y Corazín, llegando a Betsaida el viernes 29 de abril. En cuanto estuvieron en casa, Jesús envió a Andrés a pedirle permiso al jefe de la sinagoga para hablar al día siguiente, sábado, en los oficios de la tarde. Jesús sabía muy bien que ésta era la última vez que le permitirían hablar en la sinagoga de Cafarnaúm.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 151|Documento 151. Estancia y enseñanza a la orilla del mar]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 153|Documento 153. La crisis en Cafarnaúm]]
+|}
 
 == Referencias ==
 

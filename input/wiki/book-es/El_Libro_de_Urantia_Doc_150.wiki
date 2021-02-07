@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 149|Documento 149. La segunda gira de predicación]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 151|Documento 151. Estancia y enseñanza a la orilla del mar]]
+|}
+
 == DOCUMENTO 150. LA TERCERA GIRA DE PREDICACIÓN ==
 
 {{anchor|LU_150_0}}
@@ -128,6 +133,11 @@
 {{anchor|LU_150_9_4}} <sup><small>150:9.4</small></sup> Jesús, seguido de sus discípulos, se dirigió al campamento, donde refirieron todo lo sucedido. Aquella tarde se prepararon para volver al día siguiente temprano a Cafarnaúm<ref name="n44"/>, tal como Jesús lo había ordenado. Este final turbulento de la tercera gira de predicación pública tuvo un efecto de moderación sobre todos los seguidores de Jesús. Empezaron a darse cuenta del significado de algunas enseñanzas del Maestro; estaban despertando al hecho de que el reino sólo se establecería mediante muchas tristezas y amargas desilusiones.
 
 {{anchor|LU_150_9_5}} <sup><small>150:9.5</small></sup> Aquel domingo por la mañana abandonaron Nazaret, y después de viajar por caminos diferentes, todos se congregaron finalmente en Betsaida el jueves 10 de marzo al mediodía. Se reunieron como un grupo sobrio y serio de predicadores desilusionados del evangelio de la verdad, y no como un conjunto, entusiasta y conquistador, de cruzados triunfantes.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 149|Documento 149. La segunda gira de predicación]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 151|Documento 151. Estancia y enseñanza a la orilla del mar]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 37|Documento 37. Las personalidades del universo local]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 39|Documento 39. Las huestes seráficas]]
+|}
+
 == DOCUMENTO 38. LOS ESPÍRITUS MINISTRANTES DEL UNIVERSO LOCAL ==
 
 {{anchor|LU_38_0}}
@@ -122,6 +127,11 @@
 {{anchor|LU_38_9_13}} <sup><small>38:9.13</small></sup> Los intermedios permanecen durante largos períodos en un mundo habitado, pero si son fieles a su deber, serán finalmente reconocidos con toda seguridad por su servicio secular para el mantenimiento de la soberanía del Hijo Creador; serán debidamente recompensados por su paciente ministerio hacia los mortales materiales en su mundo del tiempo y del espacio. Tarde o temprano, todas las criaturas intermedias acreditadas serán enroladas en las filas de los Hijos ascendentes de Dios, y serán debidamente introducidas en la larga aventura de la ascensión al Paraíso en compañía de los mismos mortales de origen animal, sus hermanos terrestres, a quienes protegieron tan celosamente y sirvieron con tanta eficacia durante su larga estancia planetaria.
 
 {{anchor|LU_38_9_14}} <sup><small>38:9.14</small></sup> [Presentado por un Melquisedek que actúa a petición del Jefe de las Huestes Seráficas de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 37|Documento 37. Las personalidades del universo local]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 39|Documento 39. Las huestes seráficas]]
+|}
 
 == Referencias ==
 

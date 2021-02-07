@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 98|Documento 98. Las enseñanzas de Melquisedek en Occidente]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 100|Documento 100. La religión en la experiencia humana]]
+|}
+
 == DOCUMENTO 99. LOS PROBLEMAS SOCIALES DE LA RELIGIÓN ==
 
 {{anchor|LU_99_0}}
@@ -146,6 +151,11 @@
 {{anchor|LU_99_7_5}} <sup><small>99:7.5</small></sup> La interdependencia económica y la hermandad social conducirán finalmente a la fraternidad. El hombre es un soñador por naturaleza, pero la ciencia lo está aleccionando, de manera que la religión podrá pronto activarlo con mucho menos peligro de precipitar unas reacciones fanáticas. Las necesidades económicas atan al hombre a la realidad, y la experiencia religiosa personal conduce a este mismo hombre a enfrentarse con las realidades eternas de una ciudadanía cósmica en constante expansión y progreso.
 
 {{anchor|LU_99_7_6}} <sup><small>99:7.6</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 98|Documento 98. Las enseñanzas de Melquisedek en Occidente]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 100|Documento 100. La religión en la experiencia humana]]
+|}
 
 == Referencias ==
 

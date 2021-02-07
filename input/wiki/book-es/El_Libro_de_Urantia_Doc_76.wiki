@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 75|Documento 75. La falta de Adán y Eva]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 77|Documento 77. Las criaturas intermedias]]
+|}
+
 == DOCUMENTO 76. EL SEGUNDO JARDÍN ==
 
 {{anchor|LU_76_0}}
@@ -104,6 +109,11 @@
 {{anchor|LU_76_6_4}} <sup><small>76:6.4</small></sup> Así termina la historia del [[Adán]] y la Eva Planetarios de Urantia, una historia de pruebas, tragedias y triunfos, al menos de triunfo personal para vuestro Hijo y vuestra Hija Materiales bienintencionados pero engañados; y al final será sin duda una historia de triunfo último para su mundo y sus habitantes sacudidos por la rebelión y acosados por el mal. En resumidas cuentas, Adán y Eva contribuyeron poderosamente a favorecer la civilización y a acelerar el progreso biológico de la raza humana. Dejaron una gran cultura en la Tierra, pero esta civilización tan avanzada no pudo sobrevivir en presencia de la dilución prematura y la sumersión final de la herencia adámica. Son los pueblos los que hacen las civilizaciones; las civilizaciones no hacen a los pueblos.
 
 {{anchor|LU_76_6_5}} <sup><small>76:6.5</small></sup> [Presentado por Solonia, la «voz seráfica en el Jardín».]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 75|Documento 75. La falta de Adán y Eva]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 77|Documento 77. Las criaturas intermedias]]
+|}
 
 == Referencias ==
 

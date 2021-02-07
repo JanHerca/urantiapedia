@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 84|Documento 84. El matrimonio y la vida familiar]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 86|Documento 86. La evolución inicial de la religión]]
+|}
+
 == DOCUMENTO 85. LOS ORÍGENES DE LA ADORACIÓN ==
 
 {{anchor|LU_85_0}}
@@ -88,6 +93,11 @@
 {{anchor|LU_85_7_3}} <sup><small>85:7.3</small></sup> Cuando el impulso de adoración está animado y dirigido por la sabiduría —por el pensamiento meditativo y experiencial— entonces empieza a convertirse en el fenómeno de la verdadera religión. Cuando el séptimo espíritu ayudante, el espíritu de la sabiduría, consigue ejercer eficazmente su ministerio, el hombre empieza entonces a desviar su adoración de la naturaleza y de los objetos naturales, para dirigirla hacia el Dios de la naturaleza y hacia el Creador eterno de todas las cosas naturales.
 
 {{anchor|LU_85_7_4}} <sup><small>85:7.4</small></sup> [Presentado por una Brillante Estrella Vespertina de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 84|Documento 84. El matrimonio y la vida familiar]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 86|Documento 86. La evolución inicial de la religión]]
+|}
 
 == Referencias ==
 

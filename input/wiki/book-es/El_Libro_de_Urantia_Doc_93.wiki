@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 92|Documento 92. La evolución posterior de la religión]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 94|Documento 94. Las enseñanzas de Melquisedek en Oriente]]
+|}
+
 == DOCUMENTO 93. MAQUIVENTA MELQUISEDEK ==
 
 {{anchor|LU_93_0}}
@@ -196,6 +201,11 @@
 {{anchor|LU_93_10_11}} <sup><small>93:10.11</small></sup> Ésta es la historia de Maquiventa Melquisedek, uno de los personajes más extraordinarios que hayan estado jamás relacionados con la historia de Urantia, y una personalidad que puede estar destinada a jugar un papel importante en la experiencia futura de vuestro mundo irregular y poco común.
 
 {{anchor|LU_93_10_12}} <sup><small>93:10.12</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 92|Documento 92. La evolución posterior de la religión]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 94|Documento 94. Las enseñanzas de Melquisedek en Oriente]]
+|}
 
 == Referencias ==
 

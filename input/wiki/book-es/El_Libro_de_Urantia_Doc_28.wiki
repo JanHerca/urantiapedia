@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 27|Documento 27. El ministerio de los Supernafines Primarios]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 29|Documento 29. Los Directores del Poder Universal]]
+|}
+
 == DOCUMENTO 28. LOS ESPÍRITUS MINISTRANTES DE LOS SUPERUNIVERSOS ==
 
 {{anchor|LU_28_0}}
@@ -168,6 +173,11 @@
 {{anchor|LU_28_7_4}} <sup><small>28:7.4</small></sup> Estamos privados del pleno privilegio de utilizar en Urantia a estos ángeles de la orden reflectante. Visitan con frecuencia vuestro mundo, acompañando a las personalidades destinadas aquí, pero aquí no pueden actuar libremente. Esta esfera se encuentra todavía en una cuarentena espiritual parcial, y algunos circuitos esenciales para su servicio no funcionan aquí en la actualidad. Cuando vuestro mundo sea restablecido una vez más en los circuitos reflectantes correspondientes, una gran parte del trabajo de las comunicaciones interplanetarias e interuniversales se simplificará y se acelerará enormemente. Los trabajadores celestiales que están en Urantia encuentran muchas dificultades debido a esta reducción funcional de sus asociados reflectantes. Pero continuamos dirigiendo alegremente nuestros asuntos con los intermediarios disponibles, a pesar de que estemos privados localmente de muchos servicios de estos seres maravillosos, los espejos vivientes del espacio y los proyectores de presencia del tiempo.
 
 {{anchor|LU_28_7_5}} <sup><small>28:7.5</small></sup> [Patrocinado por un Mensajero Poderoso de Uversa.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 27|Documento 27. El ministerio de los Supernafines Primarios]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 29|Documento 29. Los Directores del Poder Universal]]
+|}
 
 == Referencias ==
 

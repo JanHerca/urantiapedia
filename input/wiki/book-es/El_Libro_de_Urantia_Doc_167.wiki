@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 166|Documento 166. La última visita a Perea del norte]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 168|Documento 168. La resurrección de Lázaro]]
+|}
+
 == DOCUMENTO 167. LA VISITA A FILADELFIA ==
 
 {{anchor|LU_167_0}}
@@ -108,6 +113,11 @@
 {{anchor|LU_167_7_6}} <sup><small>167:7.6</small></sup> «Estos ángeles también están muy relacionados con los medios a través de los cuales el espíritu del hombre es liberado de los tabernáculos de la carne y su alma acompañada hasta las mansiones del cielo<ref name="n42"/>. Los ángeles son los guías seguros y celestiales del alma del hombre durante ese período de tiempo desconocido e indeterminado que transcurre entre la muerte física y la nueva vida en las moradas espirituales».
 
 {{anchor|LU_167_7_7}} <sup><small>167:7.7</small></sup> Jesús hubiera continuado hablando con Natanael sobre el ministerio de los ángeles, pero fue interrumpido por la llegada de Marta, a quien unos amigos le habían informado que el Maestro se acercaba a Betania, pues lo habían visto subir las colinas del este. Y ahora Marta se apresuraba a recibirlo.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 166|Documento 166. La última visita a Perea del norte]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 168|Documento 168. La resurrección de Lázaro]]
+|}
 
 == Referencias ==
 

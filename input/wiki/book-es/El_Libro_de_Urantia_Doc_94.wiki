@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 93|Documento 93. Maquiventa Melquisedek]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 95|Documento 95. Las enseñanzas de Melquisedek en el Levante]]
+|}
+
 == DOCUMENTO 94. LAS ENSEÑANZAS DE MELQUISEDEK EN ORIENTE ==
 
 {{anchor|LU_94_0}}
@@ -248,4 +253,9 @@
 {{anchor|LU_94_12_7}} <sup><small>94:12.7</small></sup> Toda Urantia está esperando la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús.
 
 {{anchor|LU_94_12_8}} <sup><small>94:12.8</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 93|Documento 93. Maquiventa Melquisedek]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 95|Documento 95. Las enseñanzas de Melquisedek en el Levante]]
+|}
 

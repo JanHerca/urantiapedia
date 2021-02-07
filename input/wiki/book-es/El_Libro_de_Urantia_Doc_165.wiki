@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 164|Documento 164. La fiesta de la consagración]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 166|Documento 166. La última visita a Perea del norte]]
+|}
+
 == DOCUMENTO 165. COMIENZA LA MISIÓN EN PEREA ==
 
 {{anchor|LU_165_0}}
@@ -120,6 +125,11 @@
 {{anchor|LU_165_6_3}} <sup><small>165:6.3</small></sup> «Pero si el criado es perezoso<ref name="n51"/> y empieza a decirse en su interior: `Mi señor retrasa su llegada', y comienza a maltratar a los demás criados, y a comer y a beber con los borrachos, entonces el señor de ese sirviente llegará cuando menos lo espere y, al encontrarlo infiel, lo despedirá con ignominia. Por eso, haréis bien en prepararos para el día en que seréis visitados de repente y de manera inesperada. Recordad que a vosotros se os ha dado mucho; por eso se os pedirá mucho. Se avecinan duras pruebas para vosotros. Tengo que pasar por un bautismo, y estaré alerta hasta que se haya consumado. Predicáis la paz en la Tierra, pero mi misión no traerá la paz a los asuntos materiales de los hombres —al menos, no durante un tiempo<ref name="n52"/>. Cuando dos miembros de una familia creen en mí y otros tres rechazan este evangelio, el único resultado es la división. Los amigos, los parientes y los seres queridos están destinados a indisponerse los unos con los otros a causa del evangelio que predicáis. Es verdad que cada uno de estos creyentes gozará de una gran paz duradera en su propio corazón, pero la paz en la Tierra no llegará hasta que todos estén dispuestos a creer y a entrar en la herencia gloriosa de su filiación con Dios. A pesar de eso, id por todo el mundo y proclamad este evangelio a todas las naciones, a cada hombre, mujer y niño»<ref name="n53"/>.
 
 {{anchor|LU_165_6_4}} <sup><small>165:6.4</small></sup> Así fue como terminó este día de sábado repleto y atareado. Al día siguiente, Jesús y los doce fueron a las ciudades del norte de Perea para charlar con los setenta, que estaban trabajando en estas regiones bajo la supervisión de Abner.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 164|Documento 164. La fiesta de la consagración]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 166|Documento 166. La última visita a Perea del norte]]
+|}
 
 == Referencias ==
 

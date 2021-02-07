@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 108|Documento 108. La misión y el ministerio de los Ajustadores del Pensamiento]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 110|Documento 110. Relación de los Ajustadores con los mortales individuales]]
+|}
+
 == DOCUMENTO 109. RELACIÓN DE LOS AJUSTADORES CON LAS CRIATURAS DEL UNIVERSO ==
 
 {{anchor|LU_109_0}}
@@ -120,6 +125,11 @@
 {{anchor|LU_109_7_8}} <sup><small>109:7.8</small></sup> Los Ajustadores Personalizados realizan una amplia gama de servicios para numerosas órdenes de personalidades del universo, pero no nos está permitido hablar de estos ministerios a las criaturas evolutivas habitadas por un Ajustador. Estas extraordinarias divinidades humanas se encuentran entre las personalidades más notables de todo el gran universo, y nadie se atreve a predecir cuáles podrán ser sus misiones futuras.
 
 {{anchor|LU_109_7_9}} <sup><small>109:7.9</small></sup> [Presentado por un Mensajero Solitario de Orvonton.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 108|Documento 108. La misión y el ministerio de los Ajustadores del Pensamiento]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 110|Documento 110. Relación de los Ajustadores con los mortales individuales]]
+|}
 
 == Referencias ==
 

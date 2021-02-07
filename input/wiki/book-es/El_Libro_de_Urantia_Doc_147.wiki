@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 146|Documento 146. La primera gira de predicación en Galilea]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 148|Documento 148. La preparación de los evangelistas en Betsaida]]
+|}
+
 == DOCUMENTO 147. EL PARÉNTESIS DE LA VISITA A JERUSALÉN ==
 
 {{anchor|LU_147_0}}
@@ -120,6 +125,11 @@
 {{anchor|LU_147_8_5}} <sup><small>147:8.5</small></sup> Luego, hasta muy entrada la noche, Jesús expuso a sus apóstoles la verdad de que era su fe la que les daba seguridad en el reino del presente y del futuro, y no la aflicción de su alma ni el ayuno del cuerpo. Exhortó a los apóstoles a que vivieran al menos a la altura de las ideas del profeta de antaño, y expresó la esperanza de que progresarían mucho, incluso más allá de los ideales de Isaías y de los antiguos profetas. Las últimas palabras que pronunció aquella noche fueron: «Creced en la gracia por medio de esa fe viviente que capta el hecho de que sois hijos de Dios, y al mismo tiempo reconoce a cada hombre como un hermano»<ref name="n23"/>.
 
 {{anchor|LU_147_8_6}} <sup><small>147:8.6</small></sup> Eran más de las dos de la madrugada cuando Jesús dejó de hablar, y cada cual se retiró a descansar.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 146|Documento 146. La primera gira de predicación en Galilea]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 148|Documento 148. La preparación de los evangelistas en Betsaida]]
+|}
 
 == Referencias ==
 

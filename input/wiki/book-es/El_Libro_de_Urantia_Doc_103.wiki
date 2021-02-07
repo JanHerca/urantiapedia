@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 102|Documento 102. Los fundamentos de la fe religiosa]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 104|Documento 104. El crecimiento del concepto de la Trinidad]]
+|}
+
 == DOCUMENTO 103. LA REALIDAD DE LA EXPERIENCIA RELIGIOSA ==
 
 {{anchor|LU_103_0}}
@@ -208,6 +213,11 @@
 {{anchor|LU_103_9_12}} <sup><small>103:9.12</small></sup> Existe una realidad, en la experiencia religiosa, que es proporcional a su contenido espiritual, y esta realidad trasciende la razón, la ciencia, la filosofía, la sabiduría y todos los demás logros humanos. Las convicciones de esta experiencia son inatacables; la lógica de la vida religiosa es indiscutible; la certidumbre de este conocimiento es superhumana; las satisfacciones son magníficamente divinas, la valentía es indomable, las dedicaciones son incondicionales, las lealtades son supremas y los destinos son finales —eternos, últimos y universales.
 
 {{anchor|LU_103_9_13}} <sup><small>103:9.13</small></sup> [Presentado por un Melquisedek de Nebadon.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 102|Documento 102. Los fundamentos de la fe religiosa]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 104|Documento 104. El crecimiento del concepto de la Trinidad]]
+|}
 
 == Referencias ==
 

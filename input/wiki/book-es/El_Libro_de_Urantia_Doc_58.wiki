@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 57|Documento 57. El origen de Urantia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 59|Documento 59. La era de la vida marina en Urantia]]
+|}
+
 == DOCUMENTO 58. EL ESTABLECIMIENTO DE LA VIDA EN URANTIA ==
 
 {{anchor|LU_58_0}}
@@ -130,6 +135,11 @@
 {{anchor|LU_58_7_12}} <sup><small>58:7.12</small></sup> Toda esta historia está contada de forma gráfica en las páginas fósiles del inmenso «libro de piedra» de los anales del mundo. Y las páginas de este gigantesco archivo biogeológico os dirán infaliblemente la verdad con que sólo adquiráis la habilidad de interpretarlas. Muchos de estos antiguos fondos marinos se encuentran ahora muy por encima del nivel de la tierra, y sus depósitos de una era tras otra cuentan la historia de las luchas por la vida durante aquellos tiempos primitivos. Como dijo vuestro poeta, es literalmente cierto que «El polvo que pisamos estuvo vivo en otro tiempo.»
 
 {{anchor|LU_58_7_13}} <sup><small>58:7.13</small></sup> [Presentado por un miembro del Cuerpo de Portadores de Vida de Urantia, que reside actualmente en el planeta.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 57|Documento 57. El origen de Urantia]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 59|Documento 59. La era de la vida marina en Urantia]]
+|}
 
 == Referencias ==
 

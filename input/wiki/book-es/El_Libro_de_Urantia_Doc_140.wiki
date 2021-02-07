@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 139|Documento 139. Los doce apóstoles]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 141|Documento 141. El comienzo de la obra pública]]
+|}
+
 == DOCUMENTO 140. LA ORDENACIÓN DE LOS DOCE ==
 
 {{anchor|LU_140_0}}
@@ -296,6 +301,11 @@
 {{anchor|LU_140_10_9}} <sup><small>140:10.9</small></sup> Juan le preguntó a Jesús: «Maestro, ¿qué es el reino de los cielos?» Y Jesús respondió: «El reino de los cielos consiste en estas tres cosas esenciales: primero, el reconocimiento del hecho de la soberanía de Dios; segundo, la creencia en la verdad de la filiación con Dios; y tercero, la fe en la eficacia del deseo supremo humano de hacer la voluntad de Dios —de ser semejante a Dios. Y he aquí la buena nueva del evangelio: por medio de la fe, cada mortal puede poseer todas estas cosas esenciales para la salvación».
 
 {{anchor|LU_140_10_10}} <sup><small>140:10.10</small></sup> Ahora que la semana de espera había terminado, se prepararon para partir al día siguiente hacia Jerusalén.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 139|Documento 139. Los doce apóstoles]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 141|Documento 141. El comienzo de la obra pública]]
+|}
 
 == Referencias ==
 

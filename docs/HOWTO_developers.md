@@ -63,7 +63,20 @@ wfLoadExtension( 'MobileFrontend' );
 
 ---
 
-## Cargas masivas de páginas con la extensión DataTransfer
+## Cargas masivas con el script de mantenimiento importTextFiles.php
+
+https://www.mediawiki.org/wiki/Manual:ImportTextFiles.php
+
+Ejecutar este comando en PuTTy:
+```
+cd public_html/maintenance
+php importTextFiles.php -u <user> -s "Adición de referencias" --rc --overwrite files_to_import/*.wiki
+```
+El comando anterior actualiza las páginas cuyos nombres coincidan con los nombres de archivo de los ficheros wiki que estén en la carpeta `files_to_import` dentro de la carpeta `maintenance`. En lugar de "Adición de referencias", poner el mensaje que se quiera dar a todas las actualizaciones.
+
+---
+
+## Cargas masivas de páginas con la extensión DataTransfer (OBSOLETO)
 
     Es preferible usar el sitema de importTextFiles.php. Es más rápido y fiable y el formato de entrada es simplemente formato wiki.
     
@@ -91,19 +104,6 @@ $wgJobRunRate = 100;
 ```
 Lo anterior eleva el número de jobs tras cada visita a 100, lo cual es mucho cuando la web está funcionando con muchos usuarios concurrentes. Conviene dejarlo en 1 o incluso 0.1 cuando la página ya está publicada y siendo masivamente accedida.
 
----
-
-## Cargas masivas con el script de mantenimiento importTextFiles.php
-
-https://www.mediawiki.org/wiki/Manual:ImportTextFiles.php
-
-Ejecutar este comando en PuTTy:
-```
-cd public_html/maintenance
-php importTextFiles.php -u <user> -s "Adición de referencias" --rc --overwrite files_to_import/*.wiki
-```
-El comando anterior actualiza las páginas cuyos nombres coincidan con los nombres de archivo de los ficheros wiki que estén en la carpeta `files_to_import` dentro de la carpeta `maintenance`. En lugar de "Adición de referencias", poner el mensaje que se quiera dar a todas las actualizaciones.
-
 
 ---
 
@@ -116,6 +116,14 @@ Para cambiar a un usuario los permisos hay que añadirle o quitarle de un User G
 ---
 
 ## Hacer copias de seguridad
+
+### De todo el sitio web
+
+cPanel, el software de gestión de la web, dispone de una tool llamada AutoBackup, que crea backups periódicos cada semana e incluso cada día. Acceder a la herramienta en cPanel, seleccionar el backup que se desea descargar, luego seleccionar que se desea descargar como un tar.gz y darle a Get. El proceso tarda un rato y al final se notifica que el archivo resultante se puede descargar.
+
+Luego almacenar la copia en algún disco en la nube seguro.
+
+### Sólo de la Base de Datos
 
 1. Abrir el XAMPP Control Panel y hacer click en el botón Shell para abrir una línea de comandos
 2. Por defecto la carpeta será la de instalación de XAMPP

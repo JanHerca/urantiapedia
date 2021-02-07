@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 50|Documento 50. Los Príncipes Planetarios]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 52|Documento 52. Las épocas planetarias de los mortales]]
+|}
+
 == DOCUMENTO 51. LOS ADANES PLANETARIOS ==
 
 {{anchor|LU_51_0}}
@@ -132,6 +137,11 @@
 {{anchor|LU_51_7_5}} <sup><small>51:7.5</small></sup> En el momento de inaugurarse la quinta dispensación de los asuntos del mundo, se ha conseguido una magnífica administración de las actividades planetarias. La existencia mortal en una esfera tan bien gestionada es en verdad estimulante y beneficiosa. Si los urantianos tan sólo pudieran observar la vida en un planeta así, apreciarían de inmediato el valor de aquellas cosas que su mundo ha perdido por haber abrazado el mal y haber participado en la rebelión.
 
 {{anchor|LU_51_7_6}} <sup><small>51:7.6</small></sup> [Presentado por un Hijo Lanonandek Secundario del Cuerpo de Reserva.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 50|Documento 50. Los Príncipes Planetarios]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 52|Documento 52. Las épocas planetarias de los mortales]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 133|Documento 133. El regreso de Roma]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 135|Documento 135. Juan el Bautista]]
+|}
+
 == DOCUMENTO 134. LOS AÑOS DE TRANSICIÓN ==
 
 {{anchor|LU_134_0}}
@@ -202,6 +207,11 @@
 {{anchor|LU_134_9_8}} <sup><small>134:9.8</small></sup> A medida que pasaba el tiempo, llegaron rumores a Cafarnaúm sobre un tal Juan que predicaba mientras bautizaba a los penitentes en el Jordán<ref name="n14"/>. La predicación de Juan era: «El reino de los cielos está cerca; arrepentíos y sed bautizados»<ref name="n15"/>. Jesús escuchó estos informes a medida que Juan remontaba lentamente el valle del Jordán desde el vado del río más cercano a Jerusalén. Pero Jesús continuó trabajando construyendo barcas, hasta que Juan llegó río arriba a un lugar cercano a Pella, en el mes de enero del año siguiente, el año 26. Entonces dejó sus herramientas, declarando «Ha llegado mi hora», y poco después se presentó ante Juan para ser bautizado.
 
 {{anchor|LU_134_9_9}} <sup><small>134:9.9</small></sup> Un gran cambio se había producido en Jesús. De la gente que había disfrutado de sus visitas y servicios mientras recorría el país de arriba abajo, pocos reconocieron después, en el maestro público, a la misma persona que habían conocido y amado como individuo particular en años anteriores. Había una razón que impedía a sus primeros beneficiarios reconocerlo en su papel posterior como educador público lleno de autoridad: La transformación de su mente y de su espíritu se había estado desarrollando a lo largo de muchos años, y había finalizado durante la permanencia extraordinaria en el Monte Hermón.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 133|Documento 133. El regreso de Roma]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 135|Documento 135. Juan el Bautista]]
+|}
 
 == Referencias ==
 

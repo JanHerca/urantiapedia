@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 48|Documento 48. La vida morontial]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 50|Documento 50. Los Príncipes Planetarios]]
+|}
+
 == DOCUMENTO 49. LOS MUNDOS HABITADOS ==
 
 {{anchor|LU_49_0}}
@@ -228,6 +233,11 @@
 {{anchor|LU_49_6_21}} <sup><small>49:6.21</small></sup> Con el establecimiento de la era planetaria de luz y de vida, muchos mortales van a los mundos morontiales del universo mediante el tipo primario modificado de traslado. Más tarde aún, durante las etapas avanzadas de la existencia establecida, cuando la mayoría de los mortales que dejan un reino están incluídos en esta clase, se considera que el planeta pertenece a esta serie. La muerte natural se vuelve cada vez menos frecuente en estas esferas establecidas durante mucho tiempo en la luz y la vida.
 
 {{anchor|LU_49_6_22}} <sup><small>49:6.22</small></sup> [Presentado por un Melquisedek de la Escuela de Administración Planetaria de Jerusem.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 48|Documento 48. La vida morontial]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 50|Documento 50. Los Príncipes Planetarios]]
+|}
 
 == Referencias ==
 

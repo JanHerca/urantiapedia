@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 46|Documento 46. La sede del sistema local]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 48|Documento 48. La vida morontial]]
+|}
+
 == DOCUMENTO 47. LOS SIETE MUNDOS DE LAS MANSIONES ==
 
 {{anchor|LU_47_0}}
@@ -162,6 +167,11 @@
 {{anchor|LU_47_10_7}} <sup><small>47:10.7</small></sup> La muerte física es una técnica para escapar de la vida material en la carne; y la experiencia de la vida progresiva en las mansonias a través de siete mundos de formación correctora y de educación cultural representa la entrada de los supervivientes mortales en la carrera morontial, la vida de transición que media entre la existencia material evolutiva y los logros espirituales superiores de los ascendentes del tiempo que están destinados a alcanzar las puertas de la eternidad.
 
 {{anchor|LU_47_10_8}} <sup><small>47:10.8</small></sup> [Patrocinado por una Brillante Estrella Vespertina.]
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 46|Documento 46. La sede del sistema local]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 48|Documento 48. La vida morontial]]
+|}
 
 == Referencias ==
 

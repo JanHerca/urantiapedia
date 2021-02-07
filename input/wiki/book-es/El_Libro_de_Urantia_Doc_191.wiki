@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 190|Documento 190. Las apariciones morontiales de Jesús]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 192|Documento 192. Las apariciones en Galilea]]
+|}
+
 == DOCUMENTO 191. LAS APARICIONES A LOS APÓSTOLES Y A OTROS DISCÍPULOS PRINCIPALES ==
 
 {{anchor|LU_191_0}}
@@ -98,6 +103,11 @@
 {{anchor|LU_191_6_3}} <sup><small>191:6.3</small></sup> «Al igual que el Padre me ha enviado a este mundo, yo os envío a vosotros<ref name="n29"/>. Todos estáis llamados a llevar la buena nueva<ref name="n30"/> a aquellos que están en las tinieblas. Este evangelio del reino<ref name="n31"/> pertenece a todos los que crean en él; no será confiado al cuidado exclusivo de los sacerdotes. El Espíritu de la Verdad<ref name="n32"/> vendrá pronto a vosotros, y os conducirá a toda la verdad. Id pues por el mundo entero predicando este evangelio, y pensad que siempre estoy con vosotros<ref name="n33"/>, incluso hasta el fin de los tiempos».
 
 {{anchor|LU_191_6_4}} <sup><small>191:6.4</small></sup> Después de haber hablado así, el Maestro desapareció de su vista. Estos creyentes permanecieron allí juntos toda la noche, contando sus experiencias como creyentes en el reino y escuchando las numerosas palabras de Rodán y de sus asociados. Y todos creyeron que Jesús había resucitado de entre los muertos. Un mensajero de David llegó dos días después para anunciarles la resurrección, e imaginad su sorpresa cuando respondieron a su anuncio: «Sí, ya lo sabemos, porque le hemos visto. Anteayer se apareció a nosotros».
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 190|Documento 190. Las apariciones morontiales de Jesús]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 192|Documento 192. Las apariciones en Galilea]]
+|}
 
 == Referencias ==
 

@@ -1,4 +1,9 @@
 <div class="noautonum">__TOC__</div>
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 138|Documento 138. La formación de los mensajeros del reino]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 140|Documento 140. La ordenación de los doce]]
+|}
+
 == DOCUMENTO 139. LOS DOCE APÓSTOLES ==
 
 {{anchor|LU_139_0}}
@@ -294,6 +299,11 @@
 {{anchor|LU_139_12_13}} <sup><small>139:12.13</small></sup> Cuando este asunto sórdido y pecaminoso hubo terminado, este mortal renegado, que con tanta ligereza había vendido a su amigo por treinta monedas de plata para satisfacer las ansias de venganza que había alimentado durante tanto tiempo, salió precipitadamente y cometió el acto final del drama consistente en huir de las realidades de la existencia mortal —se suicidó<ref name="n70"/>.
 
 {{anchor|LU_139_12_14}} <sup><small>139:12.14</small></sup> Los once apóstoles se quedaron horrorizados, anonadados. Jesús se limitó a mirar con lástima al traidor. Los mundos han encontrado difícil perdonar a Judas, y se evita pronunciar su nombre en todo un vasto universo.
+
+
+{| class="wikitable" style="width:100%;"
+| [[El Libro de Urantia Doc 138|Documento 138. La formación de los mensajeros del reino]] || [[El Libro de Urantia Indice|Índice]] || [[El Libro de Urantia Doc 140|Documento 140. La ordenación de los doce]]
+|}
 
 == Referencias ==
 
