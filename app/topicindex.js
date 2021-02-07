@@ -615,15 +615,17 @@ class TopicIndex {
 		return new Promise((resolve, reject) => {
 			const filePath = path.join(dirPath, '_indice.wiki');
 			const topicTypes = [
-				'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION', 'OTRO'];
+				'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION'/*, 'OTRO'*/];
 			const typeTitles = [
 				'Personalidades, personas, nombres de dioses, o grupos',
 				'Lugares, tanto en la Tierra como en el Universo',
 				'Órdenes y tipologías de seres',
 				'Razas, tribus o pueblos que se han dado en la Tierra',
-				'Religiones, cultos, creencias',
-				'Otros términos'];
+				'Religiones, cultos, creencias'/*,
+			'Otros términos'*/];
 			let wiki = '';
+			let letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+			let curLetter = null;
 
 			topicTypes.forEach((tt, i) => {
 				wiki += `== ${typeTitles[i]} ==\r\n`;
@@ -640,8 +642,12 @@ class TopicIndex {
 					});
 				wiki += '<div style="column-count:4;-moz-column-count:4;-webkit-column-count:4">\r\n';
 				topics.forEach(topic => {
-					const name = topic.name.substring(0, 1).toUpperCase() +
-						topic.name.substring(1);
+					const first = topic.name.substring(0, 1).toUpperCase();
+					if (letters.indexOf(first) != -1 && first != curLetter) {
+						wiki += `\r\n<span style="font-size:120%; font-weight: bold;">${first}</span>\r\n`;
+						curLetter = first;
+					}
+					const name = first + topic.name.substring(1);
 					const revised = (topic.revised === 'NO' ? '' : '  &diams;');
 					wiki += `* [[${name}]]${revised}\r\n`;
 				});

@@ -1,0 +1,57 @@
+== Cómo colaborar en esta wiki ==
+
+Un '''''editor''''' es cualquier usuario registrado que modifica páginas existentes. Para ser editor basta con registrarse. No es necesario nada más. Un usuario registrado puede modificar páginas existentes, pero no puede crear nuevas páginas o eliminarlas. Sin embargo, un editor debería leer la sección más abajo sobre cómo modificar las páginas existentes para ser coherente con los procesos de esta wiki.
+
+Un '''''administrador''''' es cualquier usuario que ha sido registrado con permisos de administración por otro administrador. El grupo de usuarios administradores es limitado para evitar modificaciones no intencionadas que pudieran afectar al contenido de esta wiki. Para ser administrador debe contactar con uno de los usuarios administradores de la wiki. Este proceso se explica en la sección más abajo.
+
+== Cómo modificar páginas (editores) ==
+
+Cualquier usuario registrado que modifique una página existente se convierte desde la primera modificación en un usuario editor. Todas sus aportaciones pueden monitorizarse en la página especial [[Especial:Contribuciones]].
+
+Sin embargo, para mantener una coherencia de esta wiki, los usuarios que decidan colaborar siendo editores, deberían tratar de respetar estas directrices:
+
+* Las páginas web que contienen los documentos de '''''El Libro de Urantia''''', ya sea en español o en cualquier otro idioma, se han creado utilizando como fuente las versiones y traducciones oficiales de la [https://www.urantia.org/es Fundación Urantia]. No se recomienda en absoluto la modificación del contenido de '''''El Libro de Urantia''''' incluso si se detecta alguna falta de ortografía o gramática. Es preferible utilizar la sección de '''''discusión''''' que cada página contiene para indicar cualquier fallo en el contenido, para que el grupo de usuarios administradores apruebe, si procede, su modificación.
+* Lo anterior no afecta a los hipervínculos y referencias que se encuentran en las páginas web que contienen los documentos de '''''El Libro de Urantia'''''. Debido a los procesos automáticos con los que se han generado estos hipervínculos o referencias, es muy posible que algunos no estén correctos. Se anima a los colaboradores a subsanar cualquier error que detecten en estas partes de las páginas.
+* Las páginas web que contienen la Biblia en español se han creado usado la Biblia estándar Reina-Valera de 1960, que está libre de derechos de autor. No se recomienda en absoluto la modificación del contenido de la Biblia y se deberían seguir las mismas recomendaciones anteriores realizadas para '''''El Libro de Urantia''''' al caso de la Biblia.
+* Existe una lista de prioridades disponible en una sección más abajo que explica cuáles son las páginas en las que aplicarse preferentemente.
+* Las páginas de esta wiki se han generado por un procedimiento semi-automatizado. En ese proceso, por su complejidad, se han omitido ciertas tareas, que han quedado pendientes. En la lista de prioridades se detalla cuáles han sido estos aspectos pendientes, que deberían ser la prioridad de los editores.
+* Se anima a los editores a que sean respetuosos con cualquier contenido discutible que haya incorporado otro editor, y que preferentemente utilicen las páginas de discusión de cada página para aportar su interpretación sobre un determinado contenido.
+
+== Cómo ser registrado como administrador ==
+
+Para registrarse como administrador siga estos pasos:
+
+# Dirígete a esta página especial: [[Especial:ListaUsuarios]]
+# En el selector Grupo selecciona Administradores.
+# Haz click en Mostrar.
+# Te aparecerá debajo una lista de usuarios administradores de la wiki. Haz click en cualquiera de las páginas de discusión que esté activa (con el hipervínculo en azul) de un usuario administrador.
+# Las páginas de discusión de cada usuario son páginas que cualquier usuario puede editar, y en las que se puede dejar una solicitud para ser incorporado en el grupo de usuarios administradores. Estas páginas suelen estar monitorizadas por los usuarios que las han creado por lo que cuando introduzcas un cambio será notificado y en normalmente respondido en breve.
+
+No todo usuario será admitido como usuario administrador para evitar potenciales problemas. Estos usuarios tienen permiso para modificar casi cualquier aspecto de la Urantiapedia, por lo que se mantendrá un número limitado de ellos. En cualquier caso, el usuario normal tiene permiso para poder modficar cualquier página existente, con lo que un usuario de tipo normal es más que suficiente para las necesidades de la gran mayoría de colaboradores.
+
+Está disponible un listado de tareas previstas para los usuarios administradores, que se detalla en una sección más abajo.
+
+== Lista de prioridades para editores ==
+
+Aquí se detalla un listado de aportaciones que pueden usar los editores como guía de acciones más prioritarias a realizar.
+
+=== Prioridad 1 ===
+
+* Revisión de las páginas de términos. Estas páginas de términos se han generado por un proceso semi-automatizado a partir del '''''Topic Index''''' creado por [http://uversapress.com/ Uversa Press]. Debido a esto, el contenido en ocasiones no está muy bien redactado y resume demasiado la información. Existe una página con un índice de los términos, agrupados por categorías: [[Índice:Términos]]. Puedes usar esa página para ver qué páginas de términos hay ya creadas y empezar a revisar esas. Algunos aspectos que deberían revisarse:
+** Corrección del texto y su excesiva concisión en ocasiones
+** Faltan los enlaces externos a otras webs, como la Wikipedia.
+** Faltan hipervínculos internos a la propia Urantiapedia en el texto. Sí están las referencias a '''''El Libro de Urantia'''''.
+** Faltan immágenes o dibujos que puedan mejorar las explicaciones del texto.
+
+=== Prioridad 2 ===
+
+* Revisión de hipervínculos en '''''El Libro de Urantia'''''.
+* Revisión de referencias en '''''El Libro de Urantia'''''. Las actuales referencias sólo contienen enlaces a pasajes bíblicos. En un futuro se añadirán también referencias a otras fuentes no bíblicas de '''''El Libro de Urantia'''''.
+* Revisión de las referencias en la Biblia hacia el libro.
+
+== Lista de tareas para administradores ==
+
+* Adición de todas las páginas de términos que faltan.
+* Adición de una página principal para la Biblia Reina-Valera.
+* Adición de otras fuentes de El Libro de Urantia no bíblicas, usando el espléndido trabajo de [https://urantiabooksources.com/ Matthew Block], y añadir estas fuentes como referencias en el libro.
+* Adición de artículos de lectores de El Libro de Urantia, añadiendo las correspondientes referencias en los documentos del libro.
