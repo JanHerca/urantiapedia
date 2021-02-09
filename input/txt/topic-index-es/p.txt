@@ -306,9 +306,9 @@ Hijos Creadores Paradisiacos | | Ver Hijos Creadores | ORDEN |
 Deidades del Paraíso; DEIDADES DEL PARAÍSO | | | ORDEN | 
 en registro de personalidad (30:2.10-13)
 nombrada
-	1. El Padre Universal
-	2. El Hijo Eterno
-	3. El Espíritu Infinito
+	# El Padre Universal
+	# El Hijo Eterno
+	# El Espíritu Infinito
 
 Energía del Paraíso | | Ver monota | | 
 

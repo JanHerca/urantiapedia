@@ -306,9 +306,9 @@ Paradise Creator Sons. See Creator Sons
 Paradise Deities
 in personality register (30:2.10-13)
 named
-	1. Universal Father q.v.
-	2. Eternal Son q.v.
-	3. Infinite Spirit q.v.
+	# Universal Father q.v.
+	# Eternal Son q.v.
+	# Infinite Spirit q.v.
 
 Paradise energy. See monota
 
@@ -1511,13 +1511,13 @@ majority of Urantia’s removed upon default of Adam (39:5.2)
 residence in Jerusem circles (46:5.22)
 Solonia is chief of Urantia’s (39:5sec) (51:3.5)
 types
-	1. voices of the Garden q.v.
-	2. spirits of brotherhood q.v.
-	3. souls of peace q.v.
-	4. spirits of trust q.v.
-	5. transporters (39:5.10-15)
-	6. recorders (39:5.16)
-	7. reserves (39:5.17)
+	# voices of the Garden q.v.
+	# spirits of brotherhood q.v.
+	# souls of peace q.v.
+	# spirits of trust q.v.
+	# transporters (39:5.10-15)
+	# recorders (39:5.16)
+	# reserves (39:5.17)
 
 planetary physical types. See mortals: planetary types
 

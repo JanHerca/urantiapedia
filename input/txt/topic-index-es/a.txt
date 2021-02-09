@@ -666,13 +666,13 @@ se perdió a muchos de esta orden en la rebelión de Lucifer. Fue la orden más 
 su residencia se encuentra en los círculos de Jerusem, en concreto en el cuarto círculo, y constituyen un grupo muy numeroso (46:5.22)
 tipología (39:4.2)
 	Están organizados para el servicio de la manera siguiente:
-	1. Los Asistentes Administrativos (39:4.2-3)
-	2. Los Guías de la Justicia (39:4.4-6)
-	3. Los Intérpretes de la Ciudadanía Cósmica (39:4.7-9)
-	4. Los Estimuladores de la Moralidad (39:4.10-14)
-	5. Los Transportadores (39:4.15)
-	6. Los Registradores (39:4.16)
-	7. Las Reservas (39:4.17-18)
+	# Los Asistentes Administrativos (39:4.2-3)
+	# Los Guías de la Justicia (39:4.4-6)
+	# Los Intérpretes de la Ciudadanía Cósmica (39:4.7-9)
+	# Los Estimuladores de la Moralidad (39:4.10-14)
+	# Los Transportadores (39:4.15)
+	# Los Registradores (39:4.16)
+	# Las Reservas (39:4.17-18)
 
 Adonai | | | PERSONA | OK
 Era una de las denominaciones con las que los semitas evitaban el uso del nombre de su Deidad, nombre que consideraban tabú (96:1.9)
@@ -824,10 +824,10 @@ fue un maestro eficaz del evangelio en África, hijo de Simón de Cirene (187:1.
 
 Alejandro el Grande; Alejandro | | | PERSONA | OK
 Hechos sobre Alejandro Magno mencionados en El Libro de Urantia
-	- su campaña en el Punjab introdujo herencia aria en la India (79:4.3)
-	- su mausoleo real de Alejandría fue visitado por Jesús (130:3.4)
-	- Los samaritanos asistieron a Alejandro y eso irritó a los judíos contra ellos (143:4.2-3)
-	- Alejandro difundió la civilización helenística en Oriente Próximo (195:1.7-10)
+	* su campaña en el Punjab introdujo herencia aria en la India (79:4.3)
+	* su mausoleo real de Alejandría fue visitado por Jesús (130:3.4)
+	* Los samaritanos asistieron a Alejandro y eso irritó a los judíos contra ellos (143:4.2-3)
+	* Alejandro difundió la civilización helenística en Oriente Próximo (195:1.7-10)
 
 Alejandría | (130:0.2) (186:3.2-3) (190:1.8) | Ver Egipto | LUGAR | 
 70 ancianos gobernaron la sinagoga más grande del mundo (130:3.8)
@@ -1388,13 +1388,13 @@ término ángel restringido a Serafines que sirven a mortales (38:3.1)
 El supernafín principal es el ángel modelo original (27:2.1)
 pueden convertirse en Compañeros Paradisiacos, Registradores Celestiales, Asesores Técnicos, hijos ascendentes de Dios (26:1.10)
 órdenes (26:1.2) (30:2.82-89)
-	1. Los Supernafines
-	2. Los Seconafines
-	3. Los Terciafines
-	4. Los Omniafines
-	5. Los Serafines
-	6. Los Querubines y Sanobines
-	7. Los intermedios
+	# Los Supernafines
+	# Los Seconafines
+	# Los Terciafines
+	# Los Omniafines
+	# Los Serafines
+	# Los Querubines y Sanobines
+	# Los intermedios
 participar de las enseñanzas circulantes de los Hijos Instructores (26:1.17)
 personalidades del Espíritu Infinito (30:2.82)
 sostenido por la ingesta directa de energía espiritual (26:1.17)
@@ -2055,14 +2055,14 @@ recibir la confirmación espiritual del Hijo Creador y el Espíritu Madre antes 
 satisfacciones proporcionadas por Havona (14:6.37-40)
 servicio en legislaturas de constelaciones (43:2.5)
 etapas de existencia (30:4) (31:3.4)
-	1. mortales planetarios | Ver mortales
-	2. supervivientes dormidos
-	3. Estudiantes de los Mundos de las Mansiones
-	4. progresores morontiales
-	5. Pupilos del Superuniverso
-	6. Peregrinos de Havona
-	7. Los que llegan al Paraíso
-	8. finalitarios
+	# mortales planetarios | Ver mortales
+	# supervivientes dormidos
+	# Estudiantes de los Mundos de las Mansiones
+	# progresores morontiales
+	# Pupilos del Superuniverso
+	# Peregrinos de Havona
+	# Los que llegan al Paraíso
+	# finalitarios
 	los mortales denominados hijos ascendentes después de la fusión (30:3.13) (30:4.1) (40:6.1) (40:7.2)
 estudiar Supremacía en Havona (16:3.18) (117:6.13)
 triple dotación espiritual cuando se fusiona (56:3.5)

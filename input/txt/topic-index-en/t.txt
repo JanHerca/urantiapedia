@@ -787,27 +787,27 @@ serve on Divinington after subjects’ deaths until resurrection (40:4.1) (40:9.
 Solitary Messengers and Inspired Trinity Spirits can detect presence of (23:1.9) (107:4.4) (108:3.9)
 spiritual beings must humanize to receive (55:4.25,31)
 types of Adjusters (107:1.3) (107:2sec)
-	1. virgin Adjusters
-		elaborate training and development (109:0.1) (109:1.1)
-		less ability to communicate with fellows (107:5.2)
-		often indwell series 2 mortals or on primitive series 1 planets (40:5.13) (109:3.2,8)
-		seldom assigned to persons of unquestioned survival capacity (109:3.6,8)
-		serve on primitive worlds, series 1 planets (109:3.2,8)
-		serving initial assignment (107:2.2)
-	2. advanced Adjusters
-		have served on non-Adjuster-fusion worlds (107:2.3)
-	3. supreme Adjusters
-		can leave human body at will (109:2.10)
-		in quarantine, interplanetary communication can be had by liaison of (108:4.4) (109:2.9)
-		previous human partners declined survival (107:2.4)
-	4. vanished Adjusters
-		Monitors on detached assignments or with Father (107:2.5)
-	5. liberated Adjusters
-		eternally liberated from service of time (107:1.3) (107:2.1,6)
-	6. fused Adjusters (109:3.1). See also fusion
-		have become one with ascending creatures (107:2.7)
-	7. Personalized Adjusters. See also Personalized Adjusters
-		have served with incarnated Paradise Sons or otherwise achieved distinction (40:4sec) (107:2.8)
+	# virgin Adjusters
+	#* elaborate training and development (109:0.1) (109:1.1)
+	#* less ability to communicate with fellows (107:5.2)
+	#* often indwell series 2 mortals or on primitive series 1 planets (40:5.13) (109:3.2,8)
+	#* seldom assigned to persons of unquestioned survival capacity (109:3.6,8)
+	#* serve on primitive worlds, series 1 planets (109:3.2,8)
+	#* serving initial assignment (107:2.2)
+	# advanced Adjusters
+	#* have served on non-Adjuster-fusion worlds (107:2.3)
+	# supreme Adjusters
+	#* can leave human body at will (109:2.10)
+	#* in quarantine, interplanetary communication can be had by liaison of (108:4.4) (109:2.9)
+	#* previous human partners declined survival (107:2.4)
+	# vanished Adjusters
+	#* Monitors on detached assignments or with Father (107:2.5)
+	# liberated Adjusters
+	#* eternally liberated from service of time (107:1.3) (107:2.1,6)
+	# fused Adjusters (109:3.1). See also fusion
+	#* have become one with ascending creatures (107:2.7)
+	# Personalized Adjusters. See also Personalized Adjusters
+	#* have served with incarnated Paradise Sons or otherwise achieved distinction (40:4sec) (107:2.8)
 types of Adjusters, other classifications
 	detached Adjusters
 		Adjusters of Caligastia 100 were detached (66:4.9)
@@ -837,13 +837,13 @@ thought recorders, celestial artisans; also preserve thought of great Urantia mi
 thought recorders. See also celestial artisans
 celestial artisans (44:4sec)
 types
-	1. thought preservers q.v.
-	2. concept recorders q.v.
-	3. ideograph recorders q.v.
-	4. promoters of oratory q.v.
-	5. broadcast directors q.v.
-	6. rhythm recorders q.v.
-	7. morontia recorders q.v.
+	# thought preservers q.v.
+	# concept recorders q.v.
+	# ideograph recorders q.v.
+	# promoters of oratory q.v.
+	# broadcast directors q.v.
+	# rhythm recorders q.v.
+	# morontia recorders q.v.
 
 thoughtless pagan
 Jesus’ comment to Ganid regarding (132:7.1,2)
@@ -1189,13 +1189,13 @@ transition ministers (39:6sec) (48:6sec). See also seraphim
 morontia world seraphim (39:6sec) (48:6sec)
 next to destiny guardians, draw nearest to humans of all seraphim (48:6.34)
 orders of assignment (39:6.1) (48:6.4-37)
-	1. seraphic evangels q.v.
-	2. racial interpreters q.v.
-	3. mind planners q.v.
-	4. morontia counselors q.v.
-	5. technicians q.v.
-	6. recorder-teachers q.v.
-	7. ministering reserves q.v.
+	# seraphic evangels q.v.
+	# racial interpreters q.v.
+	# mind planners q.v.
+	# morontia counselors q.v.
+	# technicians q.v.
+	# recorder-teachers q.v.
+	# ministering reserves q.v.
 residence in Jerusem circles (46:5.22)
 
 transition rest. See rest: transition rest
@@ -1514,20 +1514,20 @@ independent of transport personalities; can reach any point in Orvonton from Uve
 intercommunicate instantaneously (19:7.5)
 none have ever gone astray (19:7.3)
 types (Papers 18–19)
-	1. Trinitized Secrets of Supremacy q.v.
-	2. Eternals of Days q.v.
-	3. Ancients of Days q.v.
-	4. Perfections of Days q.v.
-	5. Recents of Days q.v.
-	6. Unions of Days q.v.
-	7. Faithfuls of Days q.v.
-	8. Trinity Teacher Sons q.v.
-	9. Perfectors of Wisdom q.v.
-	10. Divine Counselors q.v.
-	11. Universal Censors q.v.
-	12. Inspired Trinity Spirits q.v.
-	13. Havona natives q.v.
-	14. Paradise Citizens q.v.
+	# Trinitized Secrets of Supremacy q.v.
+	# Eternals of Days q.v.
+	# Ancients of Days q.v.
+	# Perfections of Days q.v.
+	# Recents of Days q.v.
+	# Unions of Days q.v.
+	# Faithfuls of Days q.v.
+	# Trinity Teacher Sons q.v.
+	# Perfectors of Wisdom q.v.
+	# Divine Counselors q.v.
+	# Universal Censors q.v.
+	# Inspired Trinity Spirits q.v.
+	# Havona natives q.v.
+	# Paradise Citizens q.v.
 	Unrevealed Trinity-origin beings (30:1.23)
 
 Trinity Teacher Sons (19:1sec) (20:7-9secs)
@@ -1574,9 +1574,9 @@ Trinity Ultimate (0:12.6) (106:3-4secs) (117:7.9)
 acts through 7 finaliter corps (31:10.10)
 co-ordinates the transcendental (106:4.1)
 comprised of (0:12.6) (31:9.14) (106:3.2) (106:8.10)
-	1. Supreme, the q.v.
-	2. God the Sevenfold q.v.
-	3. Architects of Master Universe q.v.
+	# Supreme, the q.v.
+	# God the Sevenfold q.v.
+	# Architects of Master Universe q.v.
 defined as
 	1st experiential Trinity (31:9.14) (106:3.2-4)
 	even now a qualified reality (117:7.4)

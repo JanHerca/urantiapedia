@@ -138,16 +138,16 @@ habitaron en viviendas provistas de abundancia de tierra (50:4.3)
 fueron los padres de 50.000 intermedios primarios; cada pareja produjo 1.000 de ellos (66:4.10) (77:1.2-5)
 40 de 100 se negaron a unirse a la rebelión (67:3.2)
 10 consejos autónomos presididos por Daligastia, con 10 miembros cada uno (66:5)
-	1. el consejo de la la alimentación y el bienestar material. Estaba dirigido por Ang y 3 miembros permanecieron leales (66:5.2-3) (67:4.1)
-	2. el consejo de la domesticación de animales. Liderado por Bon; ninguno permaneció leal (66:5.4-6) (67:4.1)
-	3. el consejo encargado de vencer a los de animales depredadores. Liderado por Dan; ninguno permaneció leal (66:5.7-8) (67:4.1)
-	4. el consejo de difusión y conservación del conocimiento. Dirigido por Fad; 5 miembros permanecieron leales (66:5.9-10) (67:4.1)
-	5. el consejo de industria y comercio. Conducido por Nod; ninguno permaneció leal (66:5.11-12)
-	6. el consejo de la religión revelada. Conducido por Hap; todos permanecieron leales (66:5.13-16)
-	7. el consejo de salud y vida. Dirigido por Lut; ninguno permaneció leal (66:5.17-22) (67:4.1)
-	8. el consejo de arte y ciencia. Liderado por Mek; todos permanecieron leales (66:5.23-27) (67:4.1)
-	9. el consejo de relaciones tribales. Dirigido por Tut; ninguno permaneció leal (66:5.28-30) (67:4.1)
-	10. el tribunal supremo de coordinación tribal. Conducido por Van. Formado por miembros previamente aprobados por los Altísimos; todos permacieron leales (66:5.31) (67:2.2) (67:4.1)
+	# el consejo de la la alimentación y el bienestar material. Estaba dirigido por Ang y 3 miembros permanecieron leales (66:5.2-3) (67:4.1)
+	# el consejo de la domesticación de animales. Liderado por Bon; ninguno permaneció leal (66:5.4-6) (67:4.1)
+	# el consejo encargado de vencer a los de animales depredadores. Liderado por Dan; ninguno permaneció leal (66:5.7-8) (67:4.1)
+	# el consejo de difusión y conservación del conocimiento. Dirigido por Fad; 5 miembros permanecieron leales (66:5.9-10) (67:4.1)
+	# el consejo de industria y comercio. Conducido por Nod; ninguno permaneció leal (66:5.11-12)
+	# el consejo de la religión revelada. Conducido por Hap; todos permanecieron leales (66:5.13-16)
+	# el consejo de salud y vida. Dirigido por Lut; ninguno permaneció leal (66:5.17-22) (67:4.1)
+	# el consejo de arte y ciencia. Liderado por Mek; todos permanecieron leales (66:5.23-27) (67:4.1)
+	# el consejo de relaciones tribales. Dirigido por Tut; ninguno permaneció leal (66:5.28-30) (67:4.1)
+	# el tribunal supremo de coordinación tribal. Conducido por Van. Formado por miembros previamente aprobados por los Altísimos; todos permacieron leales (66:5.31) (67:2.2) (67:4.1)
 Contrapartes andonitas
 	56 de estos andonitas permanecieron leales contra la rebelión; 44 se rebelaron (67:3.5) (77:2.7)
 	los 55 leales (todos excepto Amadón) fueron trasladados a Jerusem a la llegada de los síndicos Melquisedek (67:4.5) (67:6.3)
@@ -481,13 +481,13 @@ cuerpo seleccionado y reclutado; no creado como tal (44:0.3)
 Los Serafines pueden alcanzar el Paraíso mediante el servicio (39:8.3)
 a veces ayuda a los mortales dotados (44:8.1-2)
 tipos
-	1. Los Músicos Celestiales (44:0.6)
-	2. Los Reproductores Celestiales
-	3. Los Constructores Divinos
-	4. Los Registradores del Pensamiento
-	5. Los Manipuladores de la Energía
-	6. Los Diseñadores y los Embellecedores
-	7. Los Trabajadores de la Armonía
+	# Los Músicos Celestiales (44:0.6)
+	# Los Reproductores Celestiales
+	# Los Constructores Divinos
+	# Los Registradores del Pensamiento
+	# Los Manipuladores de la Energía
+	# Los Diseñadores y los Embellecedores
+	# Los Trabajadores de la Armonía
 Univitatia son el grupo más grande asociado con (43:7.4-5)
 utilizar materiales vivos para representar ideas (43:6.7)
 trabajar bajo los ángeles del progreso en Urantia (44:8.1)
@@ -2362,13 +2362,13 @@ movilización de toda la vida en el Paraíso (31:10.17)
 respuesta divina del gran universo a las necesidades futuras del espacio exterior (31:10.10)
 en el registro de personalidad de Uversa (30:2.131)
 incluye (30:2.131)
-	1. El Cuerpo de los Finalitarios Mortales
-	2. El Cuerpo de los Finalitarios Paradisiacos
-	3. El Cuerpo de los Finalitarios Trinitizados
-	4. El Cuerpo de los Finalitarios Trinitizados Conjuntos
-	5. El Cuerpo de los Finalitarios Havonianos
-	6. El Cuerpo de los Finalitarios Trascendentales
-	7. El Cuerpo de los Hijos del Destino No Revelados
+	# El Cuerpo de los Finalitarios Mortales
+	# El Cuerpo de los Finalitarios Paradisiacos
+	# El Cuerpo de los Finalitarios Trinitizados
+	# El Cuerpo de los Finalitarios Trinitizados Conjuntos
+	# El Cuerpo de los Finalitarios Havonianos
+	# El Cuerpo de los Finalitarios Trascendentales
+	# El Cuerpo de los Hijos del Destino No Revelados
 supervisado por el Arquitecto Maestro del universo (31:10.1)
 Consejo Supremo del Destino compuesto por jefes de cada cuerpos finalitarios (31:10.9)
 
@@ -2376,18 +2376,19 @@ Cuerpo de la Perfección | | | ORDEN |
 cuerpo del universo local; destino de los ascendentes fusionados con el Espíritu (37:5.3-4)
 
 Cuerpo de Ciudadanos Permanentes; CUERPO DE CIUDADANOS PERMANENTES; ciudadanos permanentes | (30:2.116-128) (37:9.12) | | ORDEN | 
-1. Los Intermedios Planetarios (77) (37:9.11) (48:2)
-2. Los Hijos Materiales de los sistemas locales (51) (37:9.9-10) (45:5)
-3. Los Univitatia de las Constelaciones (37:9.8) (43:7)
-4. Los Susatia de los Universos Locales (37:9.7)
-5. Los Mortales de los Universos Locales fusionados con el Espíritu (40:9)
-6. Los Abandontarios de los Superuniversos (37:9.12) (43:7.4)
-7. Los Mortales de los Superuniversos fusionados con el Hijo (40:9)
-8. Los Nativos de Havona (19:6)
-9. Los Nativos de las Esferas Paradisiacas del Espíritu (13:4)
-10. Los Nativos de las Esferas Paradisiacas del Padre (13:1-2)
-11. Los Ciudadanos Creados del Paraíso (19:7)
-12. Los Ciudadanos Mortales del Paraíso Fusionados con el Ajustador (47:2.8)
+integrantes
+	# Los Intermedios Planetarios (77) (37:9.11) (48:2)
+	# Los Hijos Materiales de los sistemas locales (51) (37:9.9-10) (45:5)
+	# Los Univitatia de las Constelaciones (37:9.8) (43:7)
+	# Los Susatia de los Universos Locales (37:9.7)
+	# Los Mortales de los Universos Locales fusionados con el Espíritu (40:9)
+	# Los Abandontarios de los Superuniversos (37:9.12) (43:7.4)
+	# Los Mortales de los Superuniversos fusionados con el Hijo (40:9)
+	# Los Nativos de Havona (19:6)
+	# Los Nativos de las Esferas Paradisiacas del Espíritu (13:4)
+	# Los Nativos de las Esferas Paradisiacas del Padre (13:1-2)
+	# Los Ciudadanos Creados del Paraíso (19:7)
+	# Los Ciudadanos Mortales del Paraíso Fusionados con el Ajustador (47:2.8)
 
 Cuerpo de la Finalización Seráfica | (39:8.10) (39:9) | Ver Serafines consumados; Serafines; Serafington | ORDEN | 
 El logro trasciende con creces a los mortales que logran la supervivencia (40:1.2)

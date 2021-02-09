@@ -693,21 +693,21 @@ informe del inspector interino número 811.307 sobre la formación de la nebulos
 supervisar la energía del superuniverso antes de los días de los Directores del Poder Universal (15:4.2) (29:0.10) (32:1.1)
 Seres trascendentales (30:1.97-98) (105:7.8)
 	tipos de Organizadores Maestros de la Fuerza
-	1. Primaria eventuada (29:0.2)
-		llevar la energía al nivel de respuesta inicial a la gravedad del Paraíso (42:2.11)
-		inauguró el torbellino de energía de Andronover y luego se retiró a la derecha de los ángeles (57:1)
-		modificar absoluta en segregata por su presencia pasiva (42:2.5-10)
-		creadores de nebulosas (12:4.6) (15:4.4) (29:5.5) (41:1.1) (57:1)
-		transmutar segregata en energía potente (29:5.5)
-	2. Asociado trascendental (29:0.3)
-		comprenden el Consejo del Equilibrio (29:4.2)
-		dejar el universo local cuando llegue el Hijo Creador (29:5.6)
-		hacer que la carga de fuerza del espacio responda a la gravedad (11:8.6) (15:4.2-4) (56:9.12)
-		metamorfosear la fuerza cósmica en el espacio exterior (12:2.4)
-		retirarse al aparecer la respuesta de la gravedad lineal a favor de los Directores del Poder Universal (42:2.12)
-		reemplazar a los Organizadores de la Fuerza Maestros Eventuados Primarios cuando la energía comienza a responder a la gravedad del Paraíso (42:2.11)
-		transmutar energía poderosa en ultimatones y volver a energía poderosa (42:6.3)
-		transmutar energía potente en energía de gravedad (29:5.5) (42:2.12)
+	# Primaria eventuada (29:0.2)
+	#* llevar la energía al nivel de respuesta inicial a la gravedad del Paraíso (42:2.11)
+	#* inauguró el torbellino de energía de Andronover y luego se retiró a la derecha de los ángeles (57:1)
+	#* modificar absoluta en segregata por su presencia pasiva (42:2.5-10)
+	#* creadores de nebulosas (12:4.6) (15:4.4) (29:5.5) (41:1.1) (57:1)
+	#* transmutar segregata en energía potente (29:5.5)
+	# Asociado trascendental (29:0.3)
+	#* comprenden el Consejo del Equilibrio (29:4.2)
+	#* dejar el universo local cuando llegue el Hijo Creador (29:5.6)
+	#* hacer que la carga de fuerza del espacio responda a la gravedad (11:8.6) (15:4.2-4) (56:9.12)
+	#* metamorfosear la fuerza cósmica en el espacio exterior (12:2.4)
+	#* retirarse al aparecer la respuesta de la gravedad lineal a favor de los Directores del Poder Universal (42:2.12)
+	#* reemplazar a los Organizadores de la Fuerza Maestros Eventuados Primarios cuando la energía comienza a responder a la gravedad del Paraíso (42:2.11)
+	#* transmutar energía poderosa en ultimatones y volver a energía poderosa (42:6.3)
+	#* transmutar energía potente en energía de gravedad (29:5.5) (42:2.12)
 soportar temperaturas y condiciones increíbles (29:5.7)
 
 maestro frandalancos | | Ver frandalanks | ORDEN | 
@@ -782,46 +782,46 @@ sobre Edentia y Jerusem (43:8.1) (46:5.26)
 sujeto a Ejecutores Divinos de comisiones conciliadoras (29:4.15) (50:2.6)
 Los Serafines técnicos son enlaces con (48:6.29)
 tipos de Controladores Físicos Maestros (29:4)
-	1. directores asociados del poder
-	2. controladores maquinales
-	3. transformadores de energía
-	4. transmisores de energía
-	5. Asociadores Primarios
-	6. disociadores secundarios
-	7. frandalanks y chronoldeks
+	# directores asociados del poder
+	# controladores maquinales
+	# transformadores de energía
+	# transmisores de energía
+	# Asociadores Primarios
+	# disociadores secundarios
+	# frandalanks y chronoldeks
 utilizar cálculos de físicos (41:2.7)
 
 Serafines maestros de la supervisión planetaria; serafines maestros; serafines maestros de la supervisión planetaria | | Ver Serafines | ORDEN | 
 movilizar cuerpos de reserva del destino (114:6.20)
 Graduados de Serafington; servir en 12 cuerpos (39:9.2) (114:6)
 tipos
-	1. ángeles de las épocas
-		ángeles de la era actual (114:6.5)
-	2. ángeles del progreso
-		Artesanos Celestiales en Urantia trabajan bajo (44:8.1)
-		desacuerdo con los ángeles de las iglesias con respecto a las conferencias de Urmia (134:3.8)
-		trabaja incesantemente para hacer las cosas como deben ser; jaque mate de ángeles de iglesias (114:6.6-7)
-	3. ángeles de las iglesias
-		desacuerdo con respecto a las conferencias de Urmia (134:3.8)
-		guardianes religiosos; jaque mate de los ángeles del progreso (114:6.7)
-	4. ángeles de la vida nacional
-		ángeles de las trompetas; directores de la vida política nacional; Los Altísimos gobiernan en reinos de hombres a través de (114:6.8)
-	5. ángeles de las razas
-		trabajar para la conservación de razas mortales (114:6.9)
-	6. ángeles del futuro
-		arquitectos de eras sucesivas (114:6.10)
-	7. ángeles de la iluminación
-		ocupado con el entrenamiento mental y moral (114:6.11)
-	8. ángeles de la salud
-		promover la salud, la prevención de enfermedades (114:6.12)
-	9. ángeles del hogar
-		dedicado a la preservación y el avance del hogar (114:6.13)
-	10. ángeles de la industria
-		trabajar para mejorar las condiciones económicas (114:6.14)
-	11. ángeles de la diversión
-		fomentar el juego, el humor y el descanso (114:6.15)
-	12. ángeles del ministerio sobrehumano
-		ministrar a la vida sobrehumana (114:6.16)
+	# ángeles de las épocas
+	#* ángeles de la era actual (114:6.5)
+	# ángeles del progreso
+	#* Artesanos Celestiales en Urantia trabajan bajo (44:8.1)
+	#* desacuerdo con los ángeles de las iglesias con respecto a las conferencias de Urmia (134:3.8)
+	#* trabaja incesantemente para hacer las cosas como deben ser; jaque mate de ángeles de iglesias (114:6.6-7)
+	# ángeles de las iglesias
+	#* desacuerdo con respecto a las conferencias de Urmia (134:3.8)
+	#* guardianes religiosos; jaque mate de los ángeles del progreso (114:6.7)
+	# ángeles de la vida nacional
+	#* ángeles de las trompetas; directores de la vida política nacional; Los Altísimos gobiernan en reinos de hombres a través de (114:6.8)
+	# ángeles de las razas
+	#* trabajar para la conservación de razas mortales (114:6.9)
+	# ángeles del futuro
+	#* arquitectos de eras sucesivas (114:6.10)
+	# ángeles de la iluminación
+	#* ocupado con el entrenamiento mental y moral (114:6.11)
+	# ángeles de la salud
+	#* promover la salud, la prevención de enfermedades (114:6.12)
+	# ángeles del hogar
+	#* dedicado a la preservación y el avance del hogar (114:6.13)
+	# ángeles de la industria
+	#* trabajar para mejorar las condiciones económicas (114:6.14)
+	# ángeles de la diversión
+	#* fomentar el juego, el humor y el descanso (114:6.15)
+	# ángeles del ministerio sobrehumano
+	#* ministrar a la vida sobrehumana (114:6.16)
 
 Hijos Maestros | | Ver Migueles Maestros | ORDEN | 
 
@@ -1685,13 +1685,13 @@ grupo dentro de los Hijos Lanonandek
 
 Huestes de Mensajeros del Espacio | (25) | | ORDEN | 
 órdenes en el registro de personalidad de Uversa (30:2.74)
-	1. Servitales de Havona
-	2. Conciliadores Universales
-	3. Asesores Técnicos
-	4. Custodios de los Registros
-	5. Registradores Celestiales
-	6. Compañeros Morontiales
-	7. Compañeros Paradisiacos
+	# Servitales de Havona
+	# Conciliadores Universales
+	# Asesores Técnicos
+	# Custodios de los Registros
+	# Registradores Celestiales
+	# Compañeros Morontiales
+	# Compañeros Paradisiacos
 personalidades del Espíritu Infinito (30:2.65)
 
 mensajeros (Supernafines terciarios) | (26:3.7) | | ORDEN | 
@@ -2689,13 +2689,13 @@ Servicio
 miles perdidos en la rebelión de Lucifer (48:3.3) (53:7.5)
 entrenado y sirviendo bajo Melquisedek (48:3.2)
 tipos
-	1. Los Guardianes de los Peregrinos
-	2. Los Receptores de los Peregrinos y los Asociadores Libres
-	3. Los Anfitriones de los Visitantes Celestiales
-	4. Los Coordinadores y los Directores de Enlace
-	5. Los Intérpretes y los Traductores
-	6. Los Supervisores de las Excursiones y de la Reversión
-	7. Los Guardianes de las Superficies y de los Edificios
+	# Los Guardianes de los Peregrinos
+	# Los Receptores de los Peregrinos y los Asociadores Libres
+	# Los Anfitriones de los Visitantes Celestiales
+	# Los Coordinadores y los Directores de Enlace
+	# Los Intérpretes y los Traductores
+	# Los Supervisores de las Excursiones y de la Reversión
+	# Los Guardianes de las Superficies y de los Edificios
 tipos agresivos y retraídos (48:3.4)
 parientes muy cercanos a los humanos (48:3.4)
 siempre serán Compañeros Morontiales (48:3.16)
@@ -2735,13 +2735,13 @@ rara vez sirven en planetas habitados (48:2.12)
 autónomo (48:2.11)
 Los Serafines técnicos son enlaces con (48:6.29)
 tipos (30:1.91) (30:2.108) (48:2)
-	1. Los Reguladores de los Circuitos
-	2. Los Coordinadores de los Sistemas
-	3. Los Guardianes Planetarios
-	4. Los Controladores Combinados
-	5. Los Estabilizadores de las Conexiones
-	6. Los Clasificadores Selectivos
-	7. Los Registradores Asociados
+	# Los Reguladores de los Circuitos
+	# Los Coordinadores de los Sistemas
+	# Los Guardianes Planetarios
+	# Los Controladores Combinados
+	# Los Estabilizadores de las Conexiones
+	# Los Clasificadores Selectivos
+	# Los Registradores Asociados
 
 progresores morontiales | (48:8) (112:6) | Ver mortales ascendentes; Estudiantes de los Mundos de las Mansiones; mundos de las mansiones; morontia | ORDEN | 
 la seguridad de la verdad reemplaza la seguridad de la fe para (101:5.14)
@@ -2996,42 +2996,42 @@ pasar por una prueba corta e intensa (14:5.1) (48:7.13) (112:7.4)
 las personalidades están en contacto ininterrumpido con el Padre a través del circuito de la personalidad (56:4.2)
 épocas planetario-mortales | Ver épocas planetarias
 tipos planetarios (15:6.16) (49:2-5)
-	1. tipos atmosféricos (49:2.10-14)
-		* subrespiradores
-			2-1 / 2% en Satania; Los marcianos serían (49:2.12-13)
-		* respiradores intermedios
-			91% en Satania; Los urantianos son (49:2.12-13)
-		* superrespiradores
-			5% en Satania; seres en Venus serían (49:2.12-13)
-		* no respiran (49:3)
-			1-1 / 2% en Satania; los seres en la luna serían (49:2.14)
-			candidatos para la fusión del Espíritu (49:3.5)
-			no coma alimentos ni beba agua (49:3.4)
-			no fusionar con Ajustadores (40:5.12-15)
-			transmisores de energía que son parte integral de la vida (29:4.31)
-			habitar la esfera cercana a Urantia (49:3.6)
-			ajuste radical a las condiciones planetarias (49:5.11)
-			Los mundos tienen bombardeos de meteoritos incesantes, tormentas eléctricas desastrosas (49:3.2-3)
-			los mundos tienen poco o ningún aire; 7% en Orvonton (49:3.1)
-	2. tipos elementales (49:2.15-18)
-		* navegación aérea; 10% en Satania (49:2.9-18)
-		* tipos de tierra; 70% en Satania (49:2.15-18)
-		* tipos de agua; 10% en Satania (49:2.15-18)
-	3. tipos de gravedad (49:2.19-20)
-	4. tipos de temperatura (49:2.21)
-	5. tipos eléctricos (49:2.22-23)
-	6. tipos energizantes (49:2.24-25)
-	7. tipos sin nombre (49:2.26)
+	# tipos atmosféricos (49:2.10-14)
+	## subrespiradores
+	##* 2-1 / 2% en Satania; Los marcianos serían (49:2.12-13)
+	## respiradores intermedios
+	##* 91% en Satania; Los urantianos son (49:2.12-13)
+	## superrespiradores
+	##* 5% en Satania; seres en Venus serían (49:2.12-13)
+	## no respiran (49:3)
+	##* 1-1 / 2% en Satania; los seres en la luna serían (49:2.14)
+	##* candidatos para la fusión del Espíritu (49:3.5)
+	##* no coma alimentos ni beba agua (49:3.4)
+	##* no fusionar con Ajustadores (40:5.12-15)
+	##* transmisores de energía que son parte integral de la vida (29:4.31)
+	##* habitar la esfera cercana a Urantia (49:3.6)
+	##* ajuste radical a las condiciones planetarias (49:5.11)
+	##* Los mundos tienen bombardeos de meteoritos incesantes, tormentas eléctricas desastrosas (49:3.2-3)
+	##* los mundos tienen poco o ningún aire; 7% en Orvonton (49:3.1)
+	# tipos elementales (49:2.15-18)
+	#* navegación aérea; 10% en Satania (49:2.9-18)
+	#* tipos de tierra; 70% en Satania (49:2.15-18)
+	#* tipos de agua; 10% en Satania (49:2.15-18)
+	# tipos de gravedad (49:2.19-20)
+	# tipos de temperatura (49:2.21)
+	# tipos eléctricos (49:2.22-23)
+	# tipos energizantes (49:2.24-25)
+	# tipos sin nombre (49:2.26)
 	todos los tipos confraternizan en mundos de estancia (30:4.10) (49:5.20)
 	Esperanza de vida de 25 a 500 años (49:4.6)
 	serie planetaria
-		1. ajuste al entorno planetario (49:5.10-12)
-		2. Serie de tipo cerebral (40:5.17) (49:4.2-3) (49:5.13-18) | Ver cerebros:inteligencia
-		3. Serie de recepción del espíritu (49:5.19-20)
-		4. Épocas mortales planetarias (49:5.21-28) | Ver épocas planetarias
-		5. Serie de parentesco entre criaturas (49:5.29-30)
-		6. Serie de fusión de ajustadores (40:5.4-18) (49:5.31) (109:3) | Ver fusión
-		7. técnicas de escape terrestre (49:5.32)
+		# ajuste al entorno planetario (49:5.10-12)
+		# Serie de tipo cerebral (40:5.17) (49:4.2-3) (49:5.13-18) | Ver cerebros:inteligencia
+		# Serie de recepción del espíritu (49:5.19-20)
+		# Épocas mortales planetarias (49:5.21-28) | Ver épocas planetarias
+		# Serie de parentesco entre criaturas (49:5.29-30)
+		# Serie de fusión de ajustadores (40:5.4-18) (49:5.31) (109:3) | Ver fusión
+		# técnicas de escape terrestre (49:5.32)
 	serie 1 mortales
 		Ajustadores prestados a (40:5.8-11) (109:3.2)
 		tener guardianes seráficos grupales pero no personales (40:5.9)

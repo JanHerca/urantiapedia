@@ -987,8 +987,8 @@ primera etapa de individuación de absoluta en forma preenergética de fuerza c�
 focalizado en el Paraíso inferior (11:5.4)
 paso de partículas a través de segregata da lugar a fenómenos análogos al éter postulado (42:5.15-16)
 fases de transmutación al poder universal (42:2.10-12)
-	1. energía poderosa
-	2. energía de gravedad
+	# energía poderosa
+	# energía de gravedad
 la pre-energía no responde a la gravedad directa del Paraíso (11:8.5) (29:5.5) (56:1.3)
 reactivo a la causalidad trascendental en proporción al absoluto (42:2.8)
 reacciona con elasticidad de respuesta de acuerdo con leyes desconocidas pero estables (12:6.6)
@@ -1464,73 +1464,73 @@ naturaleza
 	generalmente retienen el complemento original del ser (38:4.3)
 solo buenos resultados de los esfuerzos por comprender y amar (38:2.1)
 órdenes de Serafines (38:6)
-	1. orden, Serafines supremos (39:1)
-		1. Los Ministros del Hijo-Espíritu
-		1a. Los Asistentes de las Donaciones
-		2. Los Asesores de los Tribunales
-		3. Los Orientadores Universales
-		4. Los Consejeros Docentes
-		5. Los Directores de la Asignación
-		6. Los Registradores (39:1.17)
-		7. Los Ministros Disponibles (39:1.18)
-	2. orden, Serafines superiores (39:2)
-		1. El Cuerpo de Información
-		2. Las Voces de la Misericordia
-		3. Los Coordinadores Espirituales
-		4. Los Educadores Asistentes
-		5. Los Transportadores (39:2.8-13)
-		6. Los Registradores (39:2.14)
-		6a. Los Transmisores (39:2.15-16)
-		7. Las Reservas (39:2.17-18)
-	3. orden, Serafines supervisor (39:3)
-		1. Los Supervisores Asistentes
-		2. Los Pronosticadores de la Ley
-		3. Los Arquitectos Sociales
-		4. Los Sensibilizadores Éticos
-		5. Los Transportadores (39:3.8-9)
-		6. Los Registradores (39:3.10)
-		7. Las Reservas (39:3.11)
-	4. orden, Serafines administrador (39:4)
-		1. Los Asistentes Administrativos
-		2. Los Guías de la Justicia
-		3. Los Intérpretes de la Ciudadanía Cósmica
-		4. Los Estimuladores de la Moralidad
-		5. Los Transportadores (39:4.15)
-		6. Los Registradores (39:4.16)
-		7. Las Reservas (39:4.17-18)
-	5. orden, Serafines Ayudantes Planetarios (39:5)
-		1. Las Voces del Jardín
-		2. Los Espíritus de la Fraternidad
-		3. Las Almas de Paz
-		4. Los Espíritus de la Confianza
-		5. Los Transportadores (39:5.10-15)
-		6. Los Registradores (39:5.16)
-		7. Las Reservas (39:5.17)
-	6. orden, Ministros de las Transiciones (39:6) (48:6)
-		1. Los Evángeles Seráficos
-		2. Los Intérpretes Raciales
-		3. Los Planificadores de la Mente
-		4. Los Consejeros Morontiales
-		5. Los Técnicos (48:6.29)
-		6. Los Instructores-Registradores (48:6.30-33)
-		7. Las Reservas (48:6.34-37)
-	7. orden, Serafines del Futuro (39:7)
+	# orden, Serafines supremos (39:1)
+	## Los Ministros del Hijo-Espíritu
+	##* 1a. Los Asistentes de las Donaciones
+	## Los Asesores de los Tribunales
+	## Los Orientadores Universales
+	## Los Consejeros Docentes
+	## Los Directores de la Asignación
+	## Los Registradores (39:1.17)
+	## Los Ministros Disponibles (39:1.18)
+	# orden, Serafines superiores (39:2)
+	## El Cuerpo de Información
+	## Las Voces de la Misericordia
+	## Los Coordinadores Espirituales
+	## Los Educadores Asistentes
+	## Los Transportadores (39:2.8-13)
+	## Los Registradores (39:2.14)
+	##* 6a. Los Transmisores (39:2.15-16)
+	## Las Reservas (39:2.17-18)
+	# orden, Serafines supervisor (39:3)
+	## Los Supervisores Asistentes
+	## Los Pronosticadores de la Ley
+	## Los Arquitectos Sociales
+	## Los Sensibilizadores Éticos
+	## Los Transportadores (39:3.8-9)
+	## Los Registradores (39:3.10)
+	## Las Reservas (39:3.11)
+	# orden, Serafines administrador (39:4)
+	## Los Asistentes Administrativos
+	## Los Guías de la Justicia
+	## Los Intérpretes de la Ciudadanía Cósmica
+	## Los Estimuladores de la Moralidad
+	## Los Transportadores (39:4.15)
+	## Los Registradores (39:4.16)
+	## Las Reservas (39:4.17-18)
+	# orden, Serafines Ayudantes Planetarios (39:5)
+	## Las Voces del Jardín
+	## Los Espíritus de la Fraternidad
+	## Las Almas de Paz
+	## Los Espíritus de la Confianza
+	## Los Transportadores (39:5.10-15)
+	## Los Registradores (39:5.16)
+	## Las Reservas (39:5.17)
+	# orden, Ministros de las Transiciones (39:6) (48:6)
+	## Los Evángeles Seráficos
+	## Los Intérpretes Raciales
+	## Los Planificadores de la Mente
+	## Los Consejeros Morontiales
+	## Los Técnicos (48:6.29)
+	## Los Instructores-Registradores (48:6.30-33)
+	## Las Reservas (48:6.34-37)
+	# orden, Serafines del Futuro (39:7)
 otras clasificaciones
 	Serafines ascendentes (30:2.50) (40:1) (45:6.5)
 	Serafines de finalización (39:8-9)
 	Serafines maestros de la supervisión planetaria (114:6)
-		1. Los ángeles de la época
-		2. Los ángeles del progreso
-		3. Los ángeles de las iglesias
-		4. Los ángeles de la vida nacional
-		5. Los ángeles de las razas
-		6. Los ángeles del futuro
-		7. Los ángeles de la iluminación
-		8. Los ángeles de la salud
-		9. Los ángeles del hogar
-		10. Los ángeles de la industria
-		11. Los ángeles de la diversión
-		12. Los ángeles del ministerio superhumano
+		# Los ángeles de la época
+		# Los ángeles del progreso
+		# Los ángeles de las iglesias
+		# Los ángeles de la vida nacional
+		# Los ángeles de las razas
+		# Los ángeles del futuro
+		# Los ángeles de la iluminación
+		# Los ángeles de la salud
+		# Los ángeles del hogar
+		# Los ángeles de la industria
+		# Los ángeles de la diversión
+		# Los ángeles del ministerio superhumano
 	Serafines no revelados (38:3)
 separarse de los mortales ascendentes durante la estancia en Havona (26:4.11)
 acciones particulares
@@ -1783,13 +1783,13 @@ Sétuple | | Ver Dios Séptuple | |
 
 siete controladores | (116:5) | | ORDEN | 
 miembros
-	1. Los Controladores Físicos Maestros
-	2. Los Centros Supremos del Poder
-	3. Los Directores Supremos del Poder
-	4. El Todopoderoso Supremo
-	5. El Espíritu Infinito
-	6. El Paraíso
-	7. El Padre Universal
+	# Los Controladores Físicos Maestros
+	# Los Centros Supremos del Poder
+	# Los Directores Supremos del Poder
+	# El Todopoderoso Supremo
+	# El Espíritu Infinito
+	# El Paraíso
+	# El Padre Universal
 nivel de control físico de Dios Séptuple (116:5.9)
 
 alcantarillas | | Ver saneamiento | | 
@@ -3878,16 +3878,16 @@ Hijos Estacionarios de la Trinidad | (10:6) (33:5) | | |
 administradores del cuerpo de Trinidad; no más ser creado (10:6.5) (19:1.2) (19:4.8)
 en la clasificación del Paraíso (30:1.7-17)
 pedidos (18) (10:6.5) (19:2-4)
-	1. Los Secretos Trinitizados de la Supremacía
-	2. Los Eternos de los Días
-	3. Los Ancianos de los Días
-	4. Los Perfecciones de los Días
-	5. Los Recientes de días
-	6. Los Uniones de los Días
-	7. Los Fieles de los Días
-	8. Los Perfeccionadores de la Sabiduría
-	9. Los Consejeros Divinos
-	10. Los Censores Universales
+	# Los Secretos Trinitizados de la Supremacía
+	# Los Eternos de los Días
+	# Los Ancianos de los Días
+	# Los Perfecciones de los Días
+	# Los Recientes de días
+	# Los Uniones de los Días
+	# Los Fieles de los Días
+	# Los Perfeccionadores de la Sabiduría
+	# Los Consejeros Divinos
+	# Los Censores Universales
 representar a la Deidad en los dominios de la justicia (10:0.2) (10:6.4,16)
 Los Hijos Trinidizados del Logro son coordenadas de (22:4.5)
 
@@ -4292,14 +4292,14 @@ superfantasmas | | Ver fantasmas | |
 Serafines superiores; serafines superiores; superior | | Ver Serafines | ORDEN | 
 algunos engañados en la rebelión de Lucifer (53:7.6)
 tipos (39:2)
-	1. El Cuerpo de Información
-	2. Las Voces de la Misericordia
-	3. Los Coordinadores Espirituales
-	4. Los Educadores Asistentes
-	5. Los Transportadores (39:2.8-13)
-	6. Los Registradores (39:2.14,16)
-	6a. Los Transmisores (39:2.15-16)
-	7. Las Reservas (39:2.17-18)
+	# El Cuerpo de Información
+	# Las Voces de la Misericordia
+	# Los Coordinadores Espirituales
+	# Los Educadores Asistentes
+	# Los Transportadores (39:2.8-13)
+	# Los Registradores (39:2.14,16)
+	#* 6a. Los Transmisores (39:2.15-16)
+	# Las Reservas (39:2.17-18)
 
 superhombres | | | | 
 el hombre primitivo consideraba a las personas inusuales como sobrehumanas (85:6.2)
@@ -4506,13 +4506,13 @@ Serafines supervisores; serafines supervisores; orden de ángeles | (39:3) | Ver
 1/3 de los Serafines supervisores de Satania perdido en la rebelión de Lucifer (53:7.6)
 asignado a constelaciones (39:3) (43:0.4)
 tipos
-	1. Los Supervisores Asistentes
-	2. Los Pronosticadores de la Ley
-	3. Los Arquitectos Sociales
-	4. Los Sensibilizadores Éticos
-	5. Los transportadores (39:3.8-9)
-	6. Los registradores (39:3.10)
-	7. Las reservas (39:3.11)
+	# Los Supervisores Asistentes
+	# Los Pronosticadores de la Ley
+	# Los Arquitectos Sociales
+	# Los Sensibilizadores Éticos
+	# Los transportadores (39:3.8-9)
+	# Los registradores (39:3.10)
+	# Las reservas (39:3.11)
 
 la gran cena (parábola) | | | | 
 parábola de (167:2)
@@ -4801,13 +4801,13 @@ modificar, manipular, energizar y direccionar las energías físicas del espacio
 nunca jugar; siempre de servicio (29:3.5) (48:4.11)
 no sujeto a la dirección administrativa del gobierno del superuniverso (29:3.2)
 órdenes (29:2) (30:2.92-97)
-	1. Supervisores Supremos del Centro
-	2. Centros de Havona
-	3. Centros superuniversales
-	4. Centros de los universos locales
-	5. Centros de las constelaciones
-	6. Centros de los sistemas locales
-	7. Centros No Clasificados
+	# Supervisores Supremos del Centro
+	# Centros de Havona
+	# Centros superuniversales
+	# Centros de los universos locales
+	# Centros de las constelaciones
+	# Centros de los sistemas locales
+	# Centros No Clasificados
 parte de Dios Séptuple (116:5.3)
 controlar perfectamente 7 de 10 formas de energía en 3 fases cada una (29:3.11)
 preceden a los Hijos Creadores en la organización del universo (32:2.1-2) (41:1.1)
@@ -4829,14 +4829,14 @@ donación de Miguel como serafín supremo (39:1.15) (119:4)
 ninguno perdido en la rebelión de Lucifer (53:7.6)
 sirven como consejeros de los mortales morontiales (48:6.28)
 tipos (39:1)
-	1. Ministros del Hijo-Espíritu
-	1a. asistentes de donación
-	2. Asesores de los Tribunales
-	3. Orientadores Universales
-	4. Consejeros Docentes
-	5. Directores de la Asignación
-	6. registradores (39:1.17)
-	7. Ministros Disponibles (39:1.18)
+	# Ministros del Hijo-Espíritu
+	#* 1a. asistentes de donación
+	# Asesores de los Tribunales
+	# Orientadores Universales
+	# Consejeros Docentes
+	# Directores de la Asignación
+	# registradores (39:1.17)
+	# Ministros Disponibles (39:1.18)
 
 servicio supremo | | | | 
 único título otorgado en el templo morontial (55:3.8,19)
@@ -4845,13 +4845,13 @@ Espíritus Supremos | (17) (9:8.15) | Ver Espíritu Infinito:familia | ORDEN |
 directores administrativos del gran universo (17:0.1-12) (17:8.3)
 todos los espíritus ministrantes surgen de (17:8.2)
 grupos que comprenden, en registros de personalidad (30:1.3, 56) (30:2.14)
-	1. Siete Espíritus Rectores
-	2. Siete Ejecutivos Supremos
-	3. Espíritus Reflectantes
-	4. Ayudantes Reflectantes de Imágenes
-	5. Siete Espíritus de los Circuitos de Havona
-	6. Espíritus Maternos de los universos locales
-	7. Espíritus Ayudantes de la Mente
+	# Siete Espíritus Rectores
+	# Siete Ejecutivos Supremos
+	# Espíritus Reflectantes
+	# Ayudantes Reflectantes de Imágenes
+	# Siete Espíritus de los Circuitos de Havona
+	# Espíritus Maternos de los universos locales
+	# Espíritus Ayudantes de la Mente
 	ayudantes de Havona Circuits
 	Mensajeros de Gravedad
 	Seres no revelados (30:1.63)
@@ -4860,13 +4860,13 @@ núcleo de la familia funcional del Espíritu Infinito (17:8.1)
 Personalidades Trinitarias Supremas | (18) | | ORDEN | 
 creado a la perfección; de números definitivos y finales (18:0.9-11)
 grupos que comprenden (18:0.1)
-	1. Secretos Trinitizados de la Supremacía
-	2. Eternos de los Días
-	3. Ancianos de los Días
-	4. Perfecciones de los Días
-	5. Recientes de días
-	6. Uniones de los Días
-	7. Fieles de los Días
+	# Secretos Trinitizados de la Supremacía
+	# Eternos de los Días
+	# Ancianos de los Días
+	# Perfecciones de los Días
+	# Recientes de días
+	# Uniones de los Días
+	# Fieles de los Días
 representar la justicia y el juicio ejecutivo de Trinidad; nunca se han apartado del camino divino (18:0.10-11)
 
 Supremo-Último | | | PERSONA | 

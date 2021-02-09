@@ -478,13 +478,13 @@ algunos sabios vieron en visión (48:6.23)
 Reproductores Celestiales; reproductores celestiales | | Ver Artesanos Celestiales | ORDEN | 
 Artesanos Celestiales (44:2)
 tipos
-	1. Los cantores
-	2. Los trabajadores del color
-	3. Los cineastas de la luz
-	4. Los realizadores de los espectáculos históricos
-	5. Los artistas proféticos
-	6. Los narradores de biografías
-	7. Los actores administrativos
+	# Los cantores
+	# Los trabajadores del color
+	# Los cineastas de la luz
+	# Los realizadores de los espectáculos históricos
+	# Los artistas proféticos
+	# Los narradores de biografías
+	# Los actores administrativos
 
 realizadores de los espectáculos históricos | | | ORDEN | 
 Reproductores Celestiales, Artesanos Celestiales (44:2.6)
@@ -697,13 +697,13 @@ Personalidades Superiores del Espíritu Infinito | (23) (24) | | ORDEN |
 en el registro de personalidad (30:2.66-73)
 El Espíritu Maestro número 3 dirige a muchos (16:3.6)
 pedidos (24:0.2)
-	1. Mensajeros Solitarios
-	2. Los Supervisores de los Circuitos Universales
-	3. Los Directores del Censo
-	4. Los Ayudantes Personales del Espíritu Infinito
-	5. Los Inspectores Asociados
-	6. Los Centinelas Asignados
-	7. Los Guías de los Graduados
+	# Mensajeros Solitarios
+	# Los Supervisores de los Circuitos Universales
+	# Los Directores del Censo
+	# Los Ayudantes Personales del Espíritu Infinito
+	# Los Inspectores Asociados
+	# Los Centinelas Asignados
+	# Los Guías de los Graduados
 residencia en los círculos de Jerusem (46:5.21)
 
 Hildana | | | PERSONA | 

@@ -703,13 +703,13 @@ controladores energéticos. Consulte Controladores Físicos Maestros; Directores
 
 Manipuladores de la Energía; manipuladores de la energía | | Ver Artesanos Celestiales | ORDEN | 
 Artesanos Celestiales, tipos (44:5.1-10)
-	1. Los Manipuladores de la Energía física
-	2. Los Manipuladores de la Energía mental
-	3. Los Manipuladores de la Energía espiritual
-	4. Los Manipuladores combinados
-	5. Los Asesores de los transportes
-	6. Los Expertos en las comunicaciones
-	7. Los Profesores del descanso
+	# Los Manipuladores de la Energía física
+	# Los Manipuladores de la Energía mental
+	# Los Manipuladores de la Energía espiritual
+	# Los Manipuladores combinados
+	# Los Asesores de los transportes
+	# Los Expertos en las comunicaciones
+	# Los Profesores del descanso
 
 energía-materia | | Ver energía | | 
 

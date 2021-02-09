@@ -544,13 +544,13 @@ Ayudantes Universales | | | ORDEN |
 llevar a cabo misiones para los Hijos Creadores (30:2.148)
 en registros de personalidad (30:1.41) (30:2.140-148)
 pedidos (30:2.140) (37:1-7)
-	1. Radiantes Estrellas Matutinas
-	2. Brillantes Estrellas Vespertinas
-	3. arcángeles
-	4. Asistentes Altísimos
-	5. Altos Comisionados
-	6. Supervisores Celestiales
-	7. Educadores de los Mundos de las Mansiones
+	# Radiantes Estrellas Matutinas
+	# Brillantes Estrellas Vespertinas
+	# arcángeles
+	# Asistentes Altísimos
+	# Altos Comisionados
+	# Supervisores Celestiales
+	# Educadores de los Mundos de las Mansiones
 residencia en los círculos de Jerusem (46:5.25)
 
 Supervisores de los Circuitos Universales | (24:1) | | ORDEN | 
@@ -567,10 +567,10 @@ naturaleza
 	atender estricta y eficientemente a los negocios (24:1.16)
 	Poseen una tremenda antigravedad (24:0.10)
 órdenes (24:1.2-10)
-	1. Supervisores Supremos de los Circuito
-	2. Supervisores Asociados de los Circuitos
-	3. Supervisores Secundarios de los Circuitos
-	4. Supervisores Terciarios de los Circuitos
+	# Supervisores Supremos de los Circuito
+	# Supervisores Asociados de los Circuitos
+	# Supervisores Secundarios de los Circuitos
+	# Supervisores Terciarios de los Circuitos
 sujeto a Siete Directores Supremos del Poder (24:1.14)
 
 Coordinadores del Universo y Consejeros de las Constelaciones | | | ORDEN | 
@@ -597,10 +597,10 @@ debe tener un tono diferente para cada superuniverso (29:1.4)
 no involucrado con energía fuera de los superuniversos (12:2.4) (29:3.10)
 número de más de 10 mil millones (29:0.10)
 órdenes (29:0.5) (29:1-4) (30:2.90-115) (48:2)
-	1. Siete Directores Supremos del Poder
-	2. Centros Supremos del Poder
-	3. Controladores Físicos Maestros
-	4. Supervisores del Poder Morontial
+	# Siete Directores Supremos del Poder
+	# Centros Supremos del Poder
+	# Controladores Físicos Maestros
+	# Supervisores del Poder Morontial
 los Manipuladores de la Energía física sirven con (44:5.2)
 cuasi-físico; semimaterial (29:1)
 Solitarington es la esfera de estatus (13:1.16)

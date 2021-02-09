@@ -991,13 +991,13 @@ superstition of ignorant minds (150:3.8)
 divine builders. See also celestial artisans
 celestial artisans
 types (44:3sec)
-	1. home designers and builders q.v.
-	2. vocation builders q.v.
-	3. play builders q.v.
-	4. worship builders q.v.
-	5. education builders q.v.
-	6. morontia planners q.v.
-	7. public builders q.v.
+	# home designers and builders q.v.
+	# vocation builders q.v.
+	# play builders q.v.
+	# worship builders q.v.
+	# education builders q.v.
+	# morontia planners q.v.
+	# public builders q.v.
 
 Divine Counselors (19:3sec)
 21 billion in service; fixed numbers (15:10.11) (19:0.9) (19:3.1)

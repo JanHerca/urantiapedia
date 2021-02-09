@@ -101,7 +101,7 @@ class TopicIndex {
 				lines.forEach((line, i) => {
 					let data, refs, seeAlso, level;
 					const tline = line.trim();
-					if (tline.startsWith('#')) {
+					if (line.startsWith('#')) {
 						return;
 					}
 					level = line.split(/\t/g).findIndex(a => a != '');
@@ -511,7 +511,7 @@ class TopicIndex {
 			topic.lines.forEach((line, i) => {
 				let heading = '=';
 				const nextline = topic.lines[i + 1];
-				let content = line.text.replace(/#/g, 'núm.');
+				let content = line.text/*.replace(/#/g, 'núm.')*/;
 				const acontent = content.replace(/ /g, '_');
 				const anchor = `{{anchor|${acontent}}}`;
 				content = content.substring(0, 1).toUpperCase() + 
@@ -521,23 +521,27 @@ class TopicIndex {
 					heading += '='.repeat(line.level + 1);
 					wiki += `${end}${heading} ${anchor} ${content} ${heading}${end}`;
 				} else {
-					content = content.replace(/^[1-9]\./g, '#');
-					if (content.startsWith('# ')) {
-						content = '# ' + content.substring(2, 3).toUpperCase() + 
-							content.substring(3) + '\r\n';
-					} else if (!content.endsWith('.')) {
-						content += '. ';
+					const subcontent = content.replace(/^[#\*]*/g,'').trim();
+					const isub = content.indexOf(subcontent);
+					if (content.startsWith('#') || content.startsWith('*')) {
+						content = content.substring(0, isub) + 
+							content.substring(isub, isub+1).toUpperCase() + 
+							content.substring(isub+1);
+					}
+
+					if (!content.startsWith('#') && !content.endsWith('.')) {
+						content += '.';
 					}
 					wiki += content;
-					
+
 					if (line.refs && line.refs.length > 0) {
-						wiki += this.refsToWiki(line.refs);
+						wiki += ' ' + this.refsToWiki(line.refs);
 						containRefs = true;
 					}
 
-					// if (nextline && line.level > nextline.level) {
-					// 	wiki += `${end}`;
-					// }
+					if (content.startsWith('#') || content.startsWith('*')) {
+						wiki += '\r\n';
+					}
 				}
 				
 			});

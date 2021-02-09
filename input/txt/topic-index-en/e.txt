@@ -703,13 +703,13 @@ energy controllers. See Master Physical Controllers; Universe Power Directors
 
 energy manipulators. See also celestial artisans
 celestial artisans, types (44:5sec)
-	1. physical-energy manipulators q.v.
-	2. mind-energy manipulators q.v.
-	3. spiritual-energy manipulators q.v.
-	4. compound manipulators q.v.
-	5. transport advisers q.v.
-	6. experts of communication q.v.
-	7. teachers of rest q.v.
+	# physical-energy manipulators q.v.
+	# mind-energy manipulators q.v.
+	# spiritual-energy manipulators q.v.
+	# compound manipulators q.v.
+	# transport advisers q.v.
+	# experts of communication q.v.
+	# teachers of rest q.v.
 
 energy-matter. See energy; material energy; physical energy
 

@@ -666,13 +666,13 @@ indigenous to system capitals; mainly occupied with (39:4.1)
 many lost in Lucifer rebellion; Manotia loyal (53:6.2,4) (53:7.6) (67:3.2)
 residence in Jerusem circles (46:5.22)
 types (39:4sec)
-	1. administrative assistants q.v.
-	2. justice guides q.v.
-	3. interpreters of cosmic citizenship q.v.
-	4. quickeners of morality q.v.
-	5. transporters (39:4.15)
-	6. recorders (39:4.16)
-	7. reserves (39:4.17-18)
+	# administrative assistants q.v.
+	# justice guides q.v.
+	# interpreters of cosmic citizenship q.v.
+	# quickeners of morality q.v.
+	# transporters (39:4.15)
+	# recorders (39:4.16)
+	# reserves (39:4.17-18)
 
 Adonai
 Semite appellation of Deity (96:1.9)
@@ -1388,13 +1388,13 @@ cf: term angel restricted to seraphim serving mortals (38:3.1)
 chief supernaphim is original pattern angel (27:2.1)
 may become Paradise Companions, Celestial Recorders, Technical Advisors, ascending sons of God (26:1.10)
 orders (26:1.2) (30:2.82-89)
-	1. supernaphim q.v.
-	2. seconaphim q.v.
-	3. tertiaphim q.v.
-	4. omniaphim q.v.
-	5. seraphim q.v.
-	6. cherubim and sanobim q.v.
-	7. midwayers q.v.
+	# supernaphim q.v.
+	# seconaphim q.v.
+	# tertiaphim q.v.
+	# omniaphim q.v.
+	# seraphim q.v.
+	# cherubim and sanobim q.v.
+	# midwayers q.v.
 partake of circulating teachings of Teacher Sons (26:1.17)
 personalities of the Infinite Spirit (30:2.82)
 sustained by direct intake of spiritual energy (26:1.17)
@@ -2055,14 +2055,14 @@ receive spirit confirmation from Creator Son and Mother Spirit before leaving lo
 satisfactions afforded by Havona (14:6.37-40)
 service in constellation legislatures (43:2.5)
 stages of existence (30:4sec) (31:3.4)
-	1. planetary mortals. See mortals
-	2. sleeping survivors q.v.
-	3. mansion world students q.v.
-	4. morontia progressors q.v.
-	5. superuniverse wards q.v.
-	6. Havona pilgrims q.v.
-	7. Paradise arrivals q.v.
-	8. finaliters q.v.
+	# planetary mortals. See mortals
+	# sleeping survivors q.v.
+	# mansion world students q.v.
+	# morontia progressors q.v.
+	# superuniverse wards q.v.
+	# Havona pilgrims q.v.
+	# Paradise arrivals q.v.
+	# finaliters q.v.
 	mortals denominated ascending sons after fusion (30:3.13) (30:4.1) (40:6.1) (40:7.2)
 study Supremacy in Havona (16:3.18) (117:6.13)
 threefold spirit endowment when fused (56:3.5)

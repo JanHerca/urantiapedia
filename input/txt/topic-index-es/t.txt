@@ -787,27 +787,27 @@ servir en Divinington después de la muerte de los sujetos hasta la resurrecció
 Los Mensajeros Solitarios y los Espíritus Trinitarios Inspirados pueden detectar la presencia de (23:1.9) (107:4.4) (108:3.9)
 los seres espirituales deben humanizarse para recibir (55:4.25,31)
 tipos de Ajustadores (107:1.3) (107:2)
-	1. Ajustadores vírgenes
-		Elaborar entrenamiento y desarrollo (109:0.1) (109:1.1)
-		menor capacidad para comunicarse con los compañeros (107:5.2)
-		a menudo residen en mortales de la serie 2 o en planetas primitivos de la serie 1 (40:5.13) (109:3.2,8)
-		rara vez se asigna a personas con una capacidad de supervivencia incuestionable (109:3.6,8)
-		servir en mundos primitivos, planetas de la serie 1 (109:3.2,8)
-		sirviendo la asignación inicial (107:2.2)
-	2. Ajustadores avanzados
-		han servido en mundos sin fusión con el Ajustador (107:2.3)
-	3. Ajustadores supremos
-		puede dejar el cuerpo humano a voluntad (109:2.10)
-		en cuarentena, se puede tener comunicación interplanetaria mediante el enlace de (108:4.4) (109:2.9)
-		Las parejas humanas anteriores disminuyeron la supervivencia (107:2.4)
-	4. Ajustadores desaparecidos
-		Supervisores en asignaciones independientes o con el padre (107:2.5)
-	5. Ajustadores liberados
-		eternamente liberado del servicio del tiempo (107:1.3) (107:2.1,6)
-	6. Ajustadores fusionados (109:3.1) | Ver fusión
-		se han vuelto uno con criaturas ascendentes (107:2.7)
-	7. Ajustadores personalizados | Ver Ajustadores personalizados
-		han servido con Hijos Paradisiacos encarnados o han logrado distinción (40:4) (107:2.8)
+	# Ajustadores vírgenes
+	#* Elaborar entrenamiento y desarrollo (109:0.1) (109:1.1)
+	#* menor capacidad para comunicarse con los compañeros (107:5.2)
+	#* a menudo residen en mortales de la serie 2 o en planetas primitivos de la serie 1 (40:5.13) (109:3.2,8)
+	#* rara vez se asigna a personas con una capacidad de supervivencia incuestionable (109:3.6,8)
+	#* servir en mundos primitivos, planetas de la serie 1 (109:3.2,8)
+	#* sirviendo la asignación inicial (107:2.2)
+	# Ajustadores avanzados
+	#* han servido en mundos sin fusión con el Ajustador (107:2.3)
+	# Ajustadores supremos
+	#* puede dejar el cuerpo humano a voluntad (109:2.10)
+	#* en cuarentena, se puede tener comunicación interplanetaria mediante el enlace de (108:4.4) (109:2.9)
+	#* Las parejas humanas anteriores disminuyeron la supervivencia (107:2.4)
+	# Ajustadores desaparecidos
+	#* Supervisores en asignaciones independientes o con el padre (107:2.5)
+	# Ajustadores liberados
+	#* eternamente liberado del servicio del tiempo (107:1.3) (107:2.1,6)
+	# Ajustadores fusionados (109:3.1) | Ver fusión
+	#* se han vuelto uno con criaturas ascendentes (107:2.7)
+	# Ajustadores personalizados | Ver Ajustadores personalizados
+	#* han servido con Hijos Paradisiacos encarnados o han logrado distinción (40:4) (107:2.8)
 tipos de Ajustadores, otras clasificaciones
 	Ajustadores separados
 		Se separaron los ajustadores de Caligastia 100 (66:4.9)
@@ -837,13 +837,13 @@ registradores de pensamientos, Artesanos Celestiales; también preservar el pens
 Registradores del Pensamiento; artesanos | | Ver Artesanos Celestiales | ORDEN | 
 Artesanos Celestiales (44:4)
 tipos
-	1. Los conservadores del pensamiento
-	2. Los registradores de conceptos
-	3. Los registradores ideográfícos
-	4. Los promotores de la oratoria
-	5. Los directores de las transmisiones
-	6. Los registradores de ritmos
-	7. Los registradores morontiales
+	# Los conservadores del pensamiento
+	# Los registradores de conceptos
+	# Los registradores ideográfícos
+	# Los promotores de la oratoria
+	# Los directores de las transmisiones
+	# Los registradores de ritmos
+	# Los registradores morontiales
 
 pagano irreflexivo | | | | 
 El comentario de Jesús a Ganid con respecto (132:7.1,2)
@@ -1189,13 +1189,13 @@ Serafines de sexto orden (48:6.1)
 Serafines del mundo morontial (39:6) (48:6)
 junto a los guardianes del destino, acerca a los humanos de todos los Serafines (48:6.34)
 órdenes de asignación (39:6.1) (48:6.4-37)
-	1. Evángeles seráficos
-	2. Intérpretes Raciales
-	3. Planificadores de la Mente
-	4. Consejeros Morontiales
-	5. técnicos
-	6. registrador-profesores
-	7. Reservas Ministrantes
+	# Evángeles seráficos
+	# Intérpretes Raciales
+	# Planificadores de la Mente
+	# Consejeros Morontiales
+	# técnicos
+	# registrador-profesores
+	# Reservas Ministrantes
 residencia en los círculos de Jerusem (46:5.22)
 
 descanso de transición | | Ver descanso:descanso de transición | | 
@@ -1514,20 +1514,20 @@ independiente de las Personalidades de Transporte; puede llegar a cualquier punt
 intercomunicarse instantáneamente (19:7.5)
 ninguno se ha descarriado jamás (19:7.3)
 tipos (18) (19)
-	1. Los Secretos Trinitizados de la Supremacía
-	2. Los Eternos de los Días
-	3. Los Ancianos de los Días
-	4. Los Perfecciones de los Días
-	5. Los Recientes de días
-	6. Las Uniones de los Días
-	7. Los Fieles de los Días
-	8. Los Hijos Instructores Trinitarios
-	9. Los Perfeccionadores de la Sabiduría
-	10. Los Consejeros Divinos
-	11. Los Censores Universales
-	12. Los Espíritus Trinitarios Inspirados
-	13. Los Nativos de Havona
-	14. Los Ciudadanos del Paraíso
+	# Los Secretos Trinitizados de la Supremacía
+	# Los Eternos de los Días
+	# Los Ancianos de los Días
+	# Los Perfecciones de los Días
+	# Los Recientes de días
+	# Las Uniones de los Días
+	# Los Fieles de los Días
+	# Los Hijos Instructores Trinitarios
+	# Los Perfeccionadores de la Sabiduría
+	# Los Consejeros Divinos
+	# Los Censores Universales
+	# Los Espíritus Trinitarios Inspirados
+	# Los Nativos de Havona
+	# Los Ciudadanos del Paraíso
 	Los Seres de origen trinitario no revelados (30:1.23)
 
 Hijos Instructores Trinitarios | (19:1) (20:7-9) | | ORDEN | 
@@ -1574,9 +1574,9 @@ Trinidad Última | (0:12.6) (106:3-4) (117:7.9) | | PERSONA |
 actúa a través de 7 cuerpos de finalitarios (31:10.10)
 coordina lo trascendental (106:4.1)
 compuesto por (0:12.6) (31:9.14) (106:3.2) (106:8.10)
-	1. El Supremo
-	2. Dios Séptuple
-	3. Arquitectos del Universo Maestro
+	# El Supremo
+	# Dios Séptuple
+	# Arquitectos del Universo Maestro
 definido como
 	Primera Trinidad experiencial (31:9.14) (106:3.2-4)
 	incluso ahora una realidad calificada (117:7.4)

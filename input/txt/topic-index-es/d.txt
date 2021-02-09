@@ -991,13 +991,13 @@ superstición de mentes ignorantes (150:3.8)
 Constructores Divinos; constructores divinos | | Ver Artesanos Celestiales | ORDEN | 
 Uno de los tipos de Artesanos Celestiales
 tipos (44:3)
-	1. Los diseñadores y constructores de hogares
-	2. Los constructores de edificios profesionales
-	3. Los constructores de edificios recreativos
-	4. Los constructores de edificios para la adoración
-	5. Los constructores de edificios educativos
-	6. Los planificadores morontiales
-	7. Los constructores de edifcios públicos
+	# Los diseñadores y constructores de hogares
+	# Los constructores de edificios profesionales
+	# Los constructores de edificios recreativos
+	# Los constructores de edificios para la adoración
+	# Los constructores de edificios educativos
+	# Los planificadores morontiales
+	# Los constructores de edifcios públicos
 
 Consejeros Divinos | (19:3) | | ORDEN | 
 21 mil millones en servicio; números fijos (15:10.11) (19:0.9) (19:3.1)

@@ -544,13 +544,13 @@ Universe Aids
 carry out missions for Creator Sons (30:2.148)
 in personality registers (30:1.41) (30:2.140-148)
 orders (30:2.140) (37:1-7secs)
-	1. Bright and Morning Stars q.v.
-	2. Brilliant Evening Stars q.v.
-	3. archangels q.v.
-	4. Most High Assistants q.v.
-	5. High Commissioners q.v.
-	6. Celestial Overseers q.v.
-	7. Mansion World Teachers q.v.
+	# Bright and Morning Stars q.v.
+	# Brilliant Evening Stars q.v.
+	# archangels q.v.
+	# Most High Assistants q.v.
+	# High Commissioners q.v.
+	# Celestial Overseers q.v.
+	# Mansion World Teachers q.v.
 residence in Jerusem circles (46:5.25)
 
 Universe Circuit Supervisors (24:1sec)
@@ -567,10 +567,10 @@ nature
 	attend strictly and efficiently to business (24:1.16)
 	possess tremendous antigravity (24:0.10)
 orders (24:1.2-10)
-	1. Supreme Circuit Supervisors q.v.
-	2. Associate Circuit Supervisors q.v.
-	3. Secondary Circuit Supervisors q.v.
-	4. Tertiary Circuit Supervisors q.v.
+	# Supreme Circuit Supervisors q.v.
+	# Associate Circuit Supervisors q.v.
+	# Secondary Circuit Supervisors q.v.
+	# Tertiary Circuit Supervisors q.v.
 subject to Seven Supreme Power Directors (24:1.14)
 
 Universe Co-ordinators and Constellation Counselors
@@ -597,10 +597,10 @@ must be differently toned for each superuniverse (29:1.4)
 not involved with energy outside superuniverses (12:2.4) (29:3.10)
 number more than 10 billion (29:0.10)
 orders (29:0.5) (29:1-4secs) (30:2.90-115) (48:2sec)
-	1. Seven Supreme Power Directors q.v.
-	2. Supreme Power Centers q.v.
-	3. Master Physical Controllers q.v.
-	4. Morontia Power Supervisors q.v.
+	# Seven Supreme Power Directors q.v.
+	# Supreme Power Centers q.v.
+	# Master Physical Controllers q.v.
+	# Morontia Power Supervisors q.v.
 physical-energy manipulators serve with (44:5.2)
 quasi-physical; semimaterial (29:1sec)
 Solitarington is status sphere (13:1.16)
