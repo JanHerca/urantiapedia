@@ -7,7 +7,7 @@
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
 # Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
 # Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
 ####################################################################################
 
 
@@ -254,7 +254,7 @@ habiendo hablado, no hay apelación de las decisiones de (19:4.5)
 en registros de personalidad (30:1.17) (30:2.33)
 naturaleza
 	decisiones impredecibles (19:4.6-7)
-	representar "yo soy" de la justicia (19:4.4)
+	representar «yo soy» de la justicia (19:4.4)
 	personalidades totales (19:4.5)
 	Origen en la Trinidad; son el juicio de la Deidad (15:10.11) (19:4.1)
 residencia en los círculos de Jerusem (46:5.15)

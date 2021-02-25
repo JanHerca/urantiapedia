@@ -7,7 +7,7 @@
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
 # Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
 # Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
 ####################################################################################
 
 
@@ -174,7 +174,7 @@ método
 	El plan ascendente está enseñando a los que están justo detrás (30:3.9) (30:4.23) (35:4.1) (37:10.5) (100:2.1) (138:6.1)
 	asignar una tarea definida con instrucción calificada (37:6.4)
 	ser alumnos-profesores (25:4.12) (44:0.13) (74:6.7) (74:7.1)
-	lo mejor es "ven conmigo" (127:4.2) (139:5.8)
+	lo mejor es «ven conmigo» (127:4.2) (139:5.8)
 	aprendiendo y haciendo (35:10.3) (37:6.3-4) (50:5.7) (66:7.6) (148:1.1)
 	cada unidad de vida se entrena para la etapa siguiente (49:0.1)
 	la experiencia da capacidad conceptual para comprender problemas (54:6.10)
@@ -460,10 +460,10 @@ Elman era el padre de Nasanta, una de las doce mujeres del cuerpo de mujeres eva
 era médico; y supervisó el hospital de campaña que instalaron los discípulos en Betsaida (148:0.1) (148:2)
 
 Eloah | | Ver Elohim | PERSONA | OK
-Eloah es el singular de Elohim, que es un plural que significa el "Dios de dioses" (96:1.8)
+Eloah es el singular de Elohim, que es un plural que significa el «Dios de dioses» (96:1.8)
 
 Elohim | | Ver Eloah | PERSONA | OK
-Elohim significa para los judíos el "Dios de dioses" (169:4.8)
+Elohim significa para los judíos el «Dios de dioses» (169:4.8)
 Jesús usaba este término cuando quería referirse a la Deidad como Dios, nunca Yahvé (169:4.5)
 el reino judío del norte volvió a la adoración de Elohim, mientras que el del sur lo hizo a Yahvé (97:9.17)
 Elohim es el concepto de la Trinidad de Dios basado en las enseñanzas de Salem (96:1.8) (104:1.8) (142:3.6) (169:4.5,8-10)
@@ -1562,7 +1562,7 @@ lo que la misericordia no puede rehabilitar, la justicia aniquila (21:5.7)
 
 ojos | | | | 
 Adán y su descendencia tenían azul (76:4.1)
-El Ajustador de Caín "miró hacia afuera" desde (76:2.8)
+El Ajustador de Caín «miró hacia afuera» desde (76:2.8)
 ojo por ojo (70:10.9) (140:6.9) (140:8.5) (159:5.11)
 ojo de una aguja (163:3.1)
 nunca he visto lo que Dios ha preparado (11:4.5) (24:6.2) (43:6.8) (44:2.1)

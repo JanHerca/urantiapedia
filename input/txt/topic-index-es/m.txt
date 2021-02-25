@@ -7,7 +7,7 @@
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
 # Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
 # Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
 ####################################################################################
 
 
@@ -128,7 +128,7 @@ misiones planetarias sin donación
 	la paz mundial indica madurez para (52:3.11-12)
 ninguno ha visitado Urantia en misiones magistrales (20:4.4-5)
 suman alrededor de mil millones; 1062 en Nebadon (20:2.2) (35:0.1)
-referidos como "Cristos menores" (35:0.1)
+referidos como «Cristos menores» (35:0.1)
 residencia en los círculos de Jerusem (46:5.12)
 orden autónomo basado en el Paraíso (10:2.2)
 servicio de los Hijos Magistrales
@@ -2790,7 +2790,7 @@ construido por Supervisores de Poder Morontia y Controladores Físicos Maestros;
 dedicado a ceremonias especiales, no para adorar, jugar o recibir transmisiones (55:1.4)
 finalitarios, Soberano Planetario solo visible para los mortales espirituales cuando están en (55:1.2) (55:6.6) (55:7.2)
 los finalitarios participan en los asuntos mundiales después de la aparición del templo morontial (55:1.2) (55:4.1-2,14)
-"Servicio supremo" único grado otorgado en (55:1.4) (55:3.8)
+«Servicio supremo» único grado otorgado en (55:1.4) (55:3.8)
 el traslado de los mortales vivientes tiene lugar en (55:1.5) (55:2.3-5)
 El templo de traslado está compuesto de materiales morontiales (55:1.5)
 Inauguran los Hijos Instructores Trinitarios (55:1.1) (55:7.1)
@@ -2923,8 +2923,8 @@ mortales | | Ver mortales ascendentes; cuerpo humano; niños; criaturas; mente m
 Ajustadores asignados justo antes del sexto cumpleaños (108:2.1)
 después de la muerte
 	vidas posteriores de todo tipo muy similares (49:4.8) (49:5.20) (49:6.1)
-	denominados "hijos ascendentes" después de la fusión (30:4.1) (40:6.1)
-	denominados "hijos de la fe" antes de la fusión (40:6.1) (40:7.2)
+	denominados «hijos ascendentes» después de la fusión (30:4.1) (40:6.1)
+	denominados «hijos de la fe» antes de la fusión (40:6.1) (40:7.2)
 	no regrese al planeta de la natividad en la misma dispensación (39:4.15) (112:3.7) (146:7.2) (150:3.5)
 	etapas de existencia (30:4) (31:3.4)
 		1. mortales planetarios | Ver mortales

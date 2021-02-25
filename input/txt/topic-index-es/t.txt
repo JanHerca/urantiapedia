@@ -7,7 +7,7 @@
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
 # Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
 # Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
 ####################################################################################
 
 
@@ -394,7 +394,7 @@ asociados de Barrabás, azotados antes de la crucifixión (187:0.1-2)
 cuerpos llevados al Gehena (188:1.5)
 arrojar reproche sobre Jesús (187:3.3) (187:4.1)
 enviado por soldados romanos (188:0.1)
-"Señor, acuérdate de mí" (187:4.1)
+«Señor, acuérdate de mí» (187:4.1)
 uno había escuchado a Jesús hablar a menudo (186:4.4-5)
 El robo del penitente fue una protesta patriótica (187:4.5)
 
@@ -405,7 +405,7 @@ después de la muerte, los Hijos autootorgables reaparecen en (20:6.6)
 Las Guía de los Graduados aparecen en (24:7.6)
 Los Servitales de Havona aparecen en el tercer momento (25:1.3)
 Jesús resucitaría en (171:4.2,8) (186:3.4) (188:1.8) (188:2.1,2) (189:5.1) (190:1.3,5) (190:5.3-4) (191:0.2)
-Expresión judía que significa "actualmente" (171:4.8)
+Expresión judía que significa «actualmente» (171:4.8)
 Los judíos creían que el alma no se demoraría en el pasado (167:4.3)
 
 Tercera Persona de la Deidad | | Ver Espíritu Infinito | PERSONA | 
@@ -439,7 +439,7 @@ actitud
 	disfrutó de los esfuerzos de los apóstoles para convencerlo (191:5.1)
 	buscador de fallas nato y pesimista (139:8.3)
 	se opuso a proclamar rey a Jesús (152:2.5)
-	coraje sostenido; "Muramos con él" (139:8.4,9) (145:5.10) (167:4.7) (181:2.26)
+	coraje sostenido; «Muramos con él» (139:8.4,9) (145:5.10) (167:4.7) (181:2.26)
 	les dijo a los apóstoles que se dispersaran, cada uno por sí mismo (183:4.2)
 	demasiado orgulloso para regresar por su propia voluntad; Pedro y Juan fueron a buscar (191:0.12-13)
 	Actitud inconscientemente asumida de desacuerdo (191:5.1)

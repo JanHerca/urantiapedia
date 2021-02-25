@@ -7,7 +7,7 @@
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
 # Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
 # Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
 ####################################################################################
 
 
@@ -820,7 +820,7 @@ creado por Trinidad; personificar la sabiduría divina (15:10.11) (19:2.1,4)
 Dirigir baterías de Voces de la Sabiduría reflexivas para la sabiduría (28:5.8)
 Los Ayudantes de los Hijos Elevados sirven como secretarios para (22:10.1)
 en registros de personalidad (30:1.15) (30:2.31)
-representar "yo era" de juicio (19:4.4)
+representar «yo era» de juicio (19:4.4)
 requieren un complemento de sabiduría experiencial (19:2.5)
 residencia en los círculos de Jerusem (46:5.15)
 Servicio
@@ -858,7 +858,7 @@ líder del cuerpo de mujeres ampliado (163:7.3)
 
 persecucion | | | | 
 no te preocupes por lo que dirás en (140:9.3) (176:1.1)
-causado por el uso cristiano del término "reino" (195:2.2)
+causado por el uso cristiano del término «reino» (195:2.2)
 crea simpatía (174:3.5)
 desvía la religión hacia la sociología o la teología (99:3.8)
 No dudes de la verdad en (181:1.6)
@@ -1166,7 +1166,7 @@ practicas
 	devoción ceremonial a la propia justicia propia (166:1.2-4)
 	no rehuyó la publicidad sobre su filantropía (147:5.2)
 	ultraconservador (175:4.9)
-se referían a sí mismos como "asociados" (137:7.6)
+se referían a sí mismos como «asociados» (137:7.6)
 se negó a tolerar el asesinato (175:4.14)
 se negó a entrar en el reino; impidió que otros entraran (166:1.4) (175:1.12)
 escribas y rabinos tomados juntos eran (137:7.6)
@@ -1224,7 +1224,7 @@ en las apariciones de Jesús (191:2.1) (192:1-4) (193:0.3,5)
 socio comercial de Natanael (139:5.1)
 expulsado de la ciudad samaritana con piedras (162:0.1)
 elegido como apóstol (137:2)
-"Ven y ve" (137:2.6) (139:5.8)
+«Ven y ve» (137:2.6) (139:5.8)
 crucificado en Hierápolis (139:5.11-12)
 descendientes perseguidos por cristianos (175:2.2)
 esposa intrépida en el cuerpo de mujeres; apedreado en la cruz de Felipe (139:5.11) (163:7.3)
@@ -1756,7 +1756,7 @@ monoteísmo en formación (5:4.2,9)
 Poncio Pilato; Pilatos | (174:2.4) (184:3.17) | | PERSONA | 
 permitió que los soldados romanos arrestaran a Jesús; apostado 10 guardias, tumba sellada (183:2.3) (185:2.6) (188:2.2-3)
 animosidad con Herodes (185:3.8)
-"¡Observen al hombre!" (100:7.1) (185:6.3) (186:2.11)
+«¡Observen al hombre!» (100:7.1) (185:6.3) (186:2.11)
 acueducto construido con fondos del templo (185:1.5)
 cierto Jesús no es digno de morir (185:1.9) (185:3.8) (185:5.1,7)
 la acusación de blasfemia no tenía peso con (184:5.1)
@@ -1782,11 +1782,11 @@ posicion politica
 se retiró a Lausana; se suicidó (185:1.6)
 masacraron a los galileos en el templo (166:4.4) (185:1.5)
 rendición trágica de (185:8)
-"Verdad, ¿qué es la verdad?" (185:3.5)
+«Verdad, ¿qué es la verdad?» (185:3.5)
 molesto por una carta de su esposa, Claudia Prócula (183:2.3) (185:1.7) (185:5.7-8)
 lavarse las manos ante la multitud (185:8.2) (186:4.1)
 no aceptaría dinero por el cuerpo de Jesús (188:0.3)
-escribió "Rey de los judíos" sobre la cruz de Jesús (187:1.2-3) (187:2.5)
+escribió «Rey de los judíos» sobre la cruz de Jesús (187:1.2-3) (187:2.5)
 
 piscina de Betesda | | | LUGAR | 
 curación en (147:3)

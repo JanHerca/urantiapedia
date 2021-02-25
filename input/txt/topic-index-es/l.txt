@@ -7,7 +7,7 @@
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
 # Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
 # Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
 ####################################################################################
 
 
@@ -767,7 +767,7 @@ vida mortal en luz y vida (55:5-6)
 	muerte natural cada vez más frecuente (49:6.21) (55:2.1-3)
 	recursos naturales administrados como fideicomiso social (55:3.7)
 	uno de cada cuatro traducido en la era anterior (55:2.2)
-	orden de "servicio supremo" conferido en el templo (55:3.8)
+	orden de «servicio supremo» conferido en el templo (55:3.8)
 	mucho mal todavía está presente (55:3.1,10)
 	puestos ocupados conjuntamente por hombres y mujeres (55:3.9)
 	similar al primer mundo de las mansiones, excepto por los cuerpos materiales (47:3.1)

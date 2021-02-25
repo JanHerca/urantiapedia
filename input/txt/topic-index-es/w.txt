@@ -7,7 +7,7 @@
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
 # Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
 # Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
 ####################################################################################
 
 
@@ -171,7 +171,7 @@ muchos de ustedes se paran en la separación de caminos (153:1.2-3) (153:2.5) (1
 el camino viejo es conformidad con las reglas; camino nuevo es la transformación por
 Espíritu (143:2.4)
 proclamar una nueva verdad; no ataque las viejas costumbres (178:1.16)
-Los hijos de Dios son "el camino, la verdad y la vida" (7:5.1)
+Los hijos de Dios son «el camino, la verdad y la vida» (7:5.1)
 El Espíritu de la Verdad mostrará el camino (34:7.8)
 este es el camino, camina en él (97:5.2)
 w. lo que parece correcto termina en la muerte (139:12.5)
@@ -181,14 +181,14 @@ Camino del Cielo | | | |
 enseñanza de Confucio (94:6.10)
 
 débil, el | | Ver desafortunados | | 
-"¿Te pareces a los debiluchos?" (143:1.5)
+«¿Te pareces a los debiluchos?» (143:1.5)
 Dios da poder al débil (97:7.8)
 siempre he luchado por la igualdad de derechos (70:9.16)
 disfrutar de resoluciones; el acto fuerte (48:7.13)
 misericordia hacia el débil es un rasgo divino (26:11.5)
 ministrar a (192:2.2)
 sólo la hermandad impide que los fuertes opriman los débiles (71:4.17)
-no se debe permitir que se aproveche de los "gobernantes de oro" (71:4.16)
+no se debe permitir que se aproveche de los «gobernantes de oro» (71:4.16)
 
 riqueza | | Ver logro; ganarse la vida; dinero; posesiones; propiedad privada | | 
 adquisidor
@@ -407,7 +407,7 @@ es que todos los seres alcanzan la perfección (1:0.3-6) (7:4.7) (7:5.1) (9:5.6)
 Jesús
 	discurso sobre voluntad de Dios (141:2)
 	la curación al atardecer no es incompatible con (145:3.9-11)
-	término preferido a "reino de los cielos" (170:2.11)
+	término preferido a «reino de los cielos» (170:2.11)
 	convertir el agua en vino no es incompatible con (137:4.12)
 	era la personificación de voluntad de Dios (149:1.7)
 limitaciones a la voluntad de Dios

@@ -7,7 +7,7 @@
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
 # Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
 # Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
 ##################################################################################
 
 
@@ -678,7 +678,7 @@ huesos | | | |
 Latinos preservaron los huesos de los héroes; Santos posteriores (98:3.4)
 de muertos se cree muy mágico (88:5.2)
 Primates hechos espículas de (63:1.2)
-primitivos líderes venerados "(88:2.1)
+primitivos líderes venerados (88:2.1)
 
 Libros; libro de la vida | | | | 
 Hechos de los Apóstoles | Ver Hechos de los Apóstoles
@@ -1080,7 +1080,7 @@ doctrinas
 	gran y hermosa filosofía sin Dios (103:9.3) (131:3.1) (132:7.5)
 	moralidad más alta, pero representación de Dios menos definida que el hinduismo (94:2.8)
 	aislarse de la realidad objetiva (94:11.6)
-	Enseñanza de "muchos Budas"; Cualquiera podría aspirar a convertirse
+	Enseñanza de «muchos Budas»; Cualquiera podría aspirar a convertirse
 	un Buda (94:11.10)
 	relatividad de toda verdad (94:11.4)
 	retorno del espíritu de Buda (94:11.3)

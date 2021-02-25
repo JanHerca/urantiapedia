@@ -7,7 +7,7 @@
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
 # Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
 # Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
 ####################################################################################
 
 
@@ -1000,7 +1000,7 @@ citas
 	* no hay paz entre la luz y las tinieblas, la verdad y el error (175:1.2)
 	* ningún gorrión es olvidado a los ojos de Dios (150:4.3)
 	* nadie ha hecho nada más que lo que pensó que era mejor (125:6.8)
-	* no todo hombre que dice:"Señor, Señor" entrará en el reino (140:1.4)
+	* no todo hombre que dice: «Señor, Señor» entrará en el reino (140:1.4)
 	* no se haga mi voluntad sino la tuya (109:6.5) (111:5.6) (136:10.1) (160:1.11) (174:5.9) (182:3.4)
 	* no con palabras, sino con miradas anhelantes, preguntaste (130:6.2)
 	* nada oculto que no será revelado (150:4.2) (151:3.1) (165:3.2-3)
@@ -1254,7 +1254,7 @@ creencias y actitudes
 	mal de ojo (87:5.5)
 	concepto de evolución de Dios (97)
 	primero en dar valor a la mano de obra (69:2.5)
-	"Dios de las batallas" (70:1.15)
+	«Dios de las batallas» (70:1.15)
 	Dios habló en sueños (86:5.11)
 	buscó el regreso de Adán (92:5.6)
 	concepto madurado de Yahvé como Padre de su raza (97:0.1)
@@ -1369,7 +1369,7 @@ Jesús
 	les dijo a los apóstoles que cosecharan la siembra de Juan (143:6.1)
 Jesús y Juan decidieron no verse hasta comenzar el servicio público (127:3.11,12)
 concepto de reino de (170:1.3) (170:2.9)
-El mensaje era "arrepiéntete y bautízate" (135:7.3) (136:0.2) (136:1.5) (138:8.8)
+El mensaje era «arrepiéntete y bautízate» (135:7.3) (136:0.2) (136:1.5) (138:8.8)
 la madre Isabel le aseguró a Juan que Jesús era el Mesías (135:3.3)
 motivo para la reclusión (136:3.3)
 nombrado por Gabriel (122:2.3)
@@ -1459,7 +1459,7 @@ referido como un profeta (34:4.11)
 apoyo a la derecha de Pedro (139:4.11)
 Salomé pidió preferencia por (139:3.8) (171:0.4-7) (181:2.15)
 instrucciones especiales para (140:8.1)
-usó el término "vida eterna" para "reino de los cielos" (170:2.24)
+usó el término «vida eterna» para «reino de los cielos» (170:2.24)
 visiones de
 	Rebelión de Lucifer (53:7.7)
 	mortales en Jerusem (47:10.2)

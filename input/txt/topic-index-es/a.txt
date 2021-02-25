@@ -7,7 +7,7 @@
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
 # Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
 # Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas « »
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas « »
 ####################################################################################
 
 
@@ -1647,8 +1647,8 @@ organización
 	Judas Iscariote era tesorero (139:12.3)
 	Matías elegido para tomar el lugar de Judas (192:0.2)
 experiencia con Jesús
-	llamaban a Jesús "Maestro" (100:7.17) (141:3.5) (149:2.12)
-	también llamaban a Jesús "Rabí" (137:7.2)
+	llamaban a Jesús «Maestro» (100:7.17) (141:3.5) (149:2.12)
+	también llamaban a Jesús «Rabí» (137:7.2)
 	los apóstoles ignoraban alegremente mucho del aprendizaje rabínico y sin embargo eran piadosos y justos (138:8.7) (139:0.4)
 	el término apóstol designaba la familia elegida de consejeros de Jesús de entre todos los creyentes (137:1.7) (140:2.2)
 	tuvieron que estudiar 3 horas cada noche en preparación (137:6.5) (137:7.14)
@@ -2079,7 +2079,7 @@ seno del Padre, del Hijo y del Espíritu (13:1.21) (13:2.4)
 domicilio de los finalitarios (13:0.6) (13:1.21) (13:2.1-2)
 los mortales pueden visitar Ascendington al llegar a Havona (13:2.6)
 el mundo natal del Paraíso de los espaciales (13:2.2)
-las "vacaciones" de los peregrinos en Havona (13:1.21)
+las «vacaciones» de los peregrinos en Havona (13:1.21)
 los secretos de Ascendington son la evolución del alma, la fusión (13:1.22) (112:7.2)
 
 plan de ascensión | | Ver plan divino; educación; perfección | | 

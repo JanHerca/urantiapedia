@@ -7,7 +7,7 @@
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
 # Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
 # Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
 ####################################################################################
 
 
@@ -738,7 +738,7 @@ explicado (94:4.10) | Ver evangelio:explicado
 	factores que indican la calidad de la religión (92:7.6-10)
 	el sentimiento con respecto a la moral es primordial, no el pensamiento teológico (103:3.4) (103:9.2)
 	fundada en la suposición del Ajustador de que la fe es válida (103:9.8)
-	Resumen de Ganid de "nuestra religión" (131:10)
+	Resumen de Ganid de «nuestra religión» (131:10)
 	hace referencia al destino y la realidad del logro (160:5.13)
 	Implica un mundo espiritual que responde a las necesidades humanas (2:6.2)
 	El impulso se origina en presencias espirituales que activan la voluntad de ser desinteresado (103:3.1)

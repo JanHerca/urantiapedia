@@ -7,7 +7,7 @@
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
 # Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
 # Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
 ####################################################################################
 
 
@@ -317,7 +317,7 @@ ganado por
 históricamente
 	La enseñanza del Buda Amida sobre el logro por fe (94:12.3)
 	Buda Gautama
-		Las últimas palabras fueron:"Trabaja por tu cuenta" (94:7.6).
+		Las últimas palabras fueron: «Trabaja por tu cuenta» (94:7.6).
 		enseñó el logro mediante el esfuerzo humano sin la ayuda divina (94:8.17)
 		enseñó la salvación universal (94:7.7)
 	Melquisedek enseñó el favor de Dios por la fe (93:6.4)
@@ -573,7 +573,7 @@ Sasta | | | PERSONA |
 Los seguidores de Gautama lo llamaron (94:8.2)
 
 Satán | | Ver Caligastia; Hijos Lanonandek; Lucifer | PERSONA | 
-"Ponte detrás de mí, Satanás". (53:8.4)
+«Ponte detrás de mí, Satanás». (53:8.4)
 ¿Cómo puede Satán expulsar a Satán? (153:4.3)
 emitió el Manifiesto de Lucifer sobre un mar de vidrio (53:4.1)
 Jesús fue acusado de hacer milagros por el poder de (153:4.2-3)
@@ -1879,7 +1879,7 @@ temido y reverenciado por el hombre primitivo (86:5.14) (88:5.5)
 sigue la sustancia (165:5.3)
 interpretar en términos de sustancia (1:6.1)
 la materia es sombra proyectada por la mente en presencia del espíritu (12:8.15-16)
-una vez "amurallado" en nuevos edificios (89:6.5)
+una vez «amurallado» en nuevos edificios (89:6.5)
 sombra de cabello girando con un propósito falso (48:6.33)
 las almas no robustas tenían oscuridad más cortos (86:4.8)
 
@@ -2199,7 +2199,7 @@ Cornelio se hizo creyente mediante (130:2.5)
 crucificado en Roma; esposa Perpetua arrojada a las fieras (132:4.7) (139:2.14-15)
 liberación por los intermedios después de que Herodes mató a Santiago (77:8.12)
 descendientes perseguidos por cristianos (175:2.2)
-"¿me amas?" Jesús preguntó (192:2.2-5)
+«¿me amas?» Jesús preguntó (192:2.2-5)
 Sueño librado a Simón Pedro del temor a la inmundicia (153:3.6)
 buscó a Simón Zelotes (192:1.11)
 Primera epístola alterada por el discípulo de Pablo (139:2.12)
@@ -2249,7 +2249,7 @@ posición y logros
 	apoyó a Santiago, hermano de Jesús (166:5.5)
 	trabajó con Pablo (139:2.7,11)
 prometió pagar el impuesto del templo (157:1.1)
-protesta por; "Te pongo detrás de mí" (158:7)
+protesta por; «Te pongo detrás de mí» (158:7)
 preguntas de (155:4.2) (158:2.2) (159:1.4) (163:3.2-4) (165:6.1) (174:1.1) (176:1.6) (192:2.5)
 recitó la parábola de Lázaro y Dives (169:3)
 se precipitó hacia adelante con la espada para herir a Malco (183:2.2) (183:3.7)
@@ -2428,7 +2428,7 @@ Jesús amó, vino a llamar (100:7.11) (137:8.16) (138:3.6) (138:6.4) (157:6.9)
 gozo en el cielo por el que se arrepiente (159:1.2) (167:7.5) (169:1.2,4)
 no hay paz para los malvados (131:2.10)
 A todo pecador se le concede tiempo para aceptar la salvación (54:5.2-3)
-No se debe permitir que las personas inicuas se aprovechen de los "gobernantes de oro" (71:4.16).
+No se debe permitir que las personas inicuas se aprovechen de los «gobernantes de oro» (71:4.16).
 
 Sísara | | | PERSONA | 
 derrotado por Débora y Barac en Taanaj (126:1.2)
@@ -2853,10 +2853,10 @@ relación suprema de la criatura con el Creador (40:10.13)
 para tener compañerismo, asumir las obligaciones de la filiación con Dios (157:6.8)
 
 Sonta-an | | | PERSONA | 
-Andón; significa "amado por la madre" (63:0.3)
+Andón; significa «amado por la madre» (63:0.3)
 
 Sonta-en | | | PERSONA | 
-Fonta; significa "amado por el padre" (63:0.3)
+Fonta; significa «amado por el padre» (63:0.3)
 
 Sontad | | | PERSONA | 
 El primer hijo de Andón y Fonta; asumió el liderazgo tras la muerte de los padres (63:3.1,5)
@@ -3843,7 +3843,7 @@ tiempo del universo local (33:6.9)
 
 estándares de vida | | | | 
 el hombre se prepara para endulzar el proceso de vivir (81:5.2)
-esclavos criados amos "(81:2.13)
+esclavos criados amos (81:2.13)
 protegido por aranceles en la nación continental (72:7.9)
 cuando es demasiado complicado o lujoso, rápidamente suicida (68:6.7)
 

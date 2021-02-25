@@ -7,7 +7,7 @@
 # Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
 # Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
 # Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
 ####################################################################################
 
 Cesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | LUGAR | 
@@ -914,7 +914,7 @@ ningún mortal ascendente puede escapar de la experiencia de (47:1.6)
 actitud de los padres
 	aprecio esencial para desarrollar el carácter (160:2.6)
 	ayudar al niño a ganar la batalla de la vida (84:7.26)
-	"Ven conmigo" técnica más eficaz (139:5.8)
+	«Ven conmigo» técnica más eficaz (139:5.8)
 	ordenar el bien en lugar de prohibir el mal (127:4.2-6) (140:5.9)
 	tener hijos implica una responsabilidad suprema (84:7.25-26)
 	nutrir los primeros despertares morales (103:2.3)
@@ -1160,7 +1160,7 @@ Competidor de mitraísmo de (121:5.8)
 organizado bajo Pedro; Santiago hermano de Jesús era jefe titular; Tesorero del matadormo (92:6.18) (163:2.7) (194:4.12)
 Iglesia paulina con sede en Antioquía (171:1.6) (196:2.6)
 la persecución en Jerusalén esparció a los creyentes (143:6.6)
-la persecución resultó del término "reino" (170:2.24-25)
+la persecución resultó del término «reino» (170:2.24-25)
 Predicó a Dios como Padre del Señor Jesucristo, hermandad de creyentes con Cristo resucitado (5:4.8) (194:0.4)
 La Cena del Recuerdo se originó en la ceremonia de la Pascua (89:9.2)
 la segunda venida se considera cercana (170:2.1,10) (170:5.14-15) (194:4.5,7) (196:2.5) | Ver Jesús:segunda venida
@@ -1725,7 +1725,7 @@ mandamientos | (110:3.6-10) | Ver regla de oro | |
 alcanzar la perfección (1:0.3-6) (7:4.7) (7:5.1) (26:4.12) (26:9.3) (26:11.4) (31:3.6) (37:5.3) (40:7.4) (94:3.1) (99:5.3) (107:0.3) (131:2.13) (137:8.13) (140:5.3,15) (140:8.32) (140:10.1)
 Seres celestiales para mostrar respeto por los superiores, consideración por los subordinados, nunca aterrizar en Divinington (107:3.6)
 más temprano mandamientos contra el robo de mujeres y propiedades (89:1.3)
-"La oración del Padre" enseñada en Dalamatia (66:5.14-15)
+«La oración del Padre» enseñada en Dalamatia (66:5.14-15)
 amar a Dios y aprender a hacer su voluntad (149:6.7)
 amar a Dios con todo corazón, alma y fuerzas (131:2.2)
 Amarnos unos a otros como Jesús nos ama (131:10.5) (140:3.15) (140:5) (147:4.9) (155:3.4)
@@ -1971,7 +1971,7 @@ confesión | | Ver perdón; arrepentimiento; pecado | |
 esencial para el progreso espiritual; no mitiga las consecuencias de la deslealtad (89:10.5)
 encontrarse a sí mismo en el error, no dude en hacer (131:9.3)
 ha llevado a las naciones a realizar grandes esfuerzos de reforma (91:5.2)
-si alguno dice:"He pecado", Dios lo librará (96:7.7)
+si alguno dice: «He pecado», Dios lo librará (96:7.7)
 no dejar ninguna culpa sin confesar (131:3.3)
 una vez fue rito de remisión, aviso público de corrupción (89:2.5)
 realización de la necesidad de (167:5.2)
@@ -2649,7 +2649,7 @@ son
 	Creador y criatura fusionados para siempre (20:1.15) (21:0.4)
 	dedicado al plan de ascensión mortal progresiva (2:3.6)
 	retratos divinamente perfectos del Hijo Eterno (7:5.11) (8:4.1)
-	cada uno único en naturaleza y personalidad; un "Hijo unigénito" (21:0.1) (21:1.1-2) (21:2.10)
+	cada uno único en naturaleza y personalidad; un «Hijo unigénito» (21:0.1) (21:1.1-2) (21:2.10)
 	dotado de gravedad espiritual en sus propios reinos (7:1.5) (20:1.13)
 	Dios a los mortales (3:0.1) (5:3.6) (21:2.2) (21:5.8)
 	en comunicación directa y constante con el Hijo Eterno (7:6.7) (21:5.10) (34:3.5)
