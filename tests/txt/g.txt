@@ -1,0 +1,1815 @@
+####################################################################################
+#
+#                     G
+# The Urantia Book Uversa Press Topical index
+# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
+# Cada entrada viene precedida de una línea en blanco 
+# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
+# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
+# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+####################################################################################
+
+
+
+Gabriel | (33:4) (189:1.5,10) | Ver Radiantes Estrellas Matutinas | PERSONA | OK
+las Brillantes Estrellas Vespertinas son los oficiales de enlace para Gabriel (37:2.1-3)
+los presidentes de los cien consejos de sanciones supremas componen el gabinete de trabajo de Gabriel (33:8.4)
+como Gabriel no puede estar en dos lugares al tiempo las Brillantes Estrellas Vespertinas compensan esa limitación (37:2.2)
+El Padre Melquisedek es el primer asistente de Gabriel (33:6.2)
+los Melquisedek son sus principales auxiliares (35:2.5)
+los mortales rara vez se encuentran con Gabriel (33:4.8)
+El ejecutivo Altísimo es quien representa a Gabriel en Norlatiadek (43:5.7)
+nunca se marcha de Salvington cuando el Padre Melquisedek está ausente (35:1.2)
+su puesto
+	Gabriel es un administrador, no un creador (33:4.2,4,7)
+	es la Radiante Estrella Matutina, la única de Nebadon, y pertenece a este orden de seres (33:4.1)
+	es el director ejecutivo de Nebadon; también representa a los Ancianos de los Días (33:0.1) (33:4.5-6) ​​(33:6.1) (37:1.9) (50:2.1)
+	es el presidente ex officio de la mayoría de los cónclaves, consejos y tribunales de Salvington (35:1.2) (37:2.2) (188:3.12)
+	es el primogénito de Miguel y el Espíritu Materno (33:4.1)
+	es como Miguel en cuanto a divinidad pero está limitado en sus atributos de Deidad (33:4.2-3)
+	los Príncipes Planetarios están bajo su jurisdicción (50:2.1)
+	Gabriel es el comandante supremo de los ejércitos del cielo (33:4.6) (38:6.2) (168:2.1,8) (182:3.8)
+	si Miguel alguna vez dejara Nebadon para ir al espacio exterior Gabriel sin duda se convertiría en el administrador principal de Nebadon (55:10.10)
+funciones y acciones
+	ha realizado la apelación a los Ancianos de los Días por la destrucción de los rebeldes (46:8.1-4) (53:8.4) (53:9.4) (67:4.7)
+	se apareció ante Adán y Eva y para comunicarles el veredicto a su transgresión (75:7.1)
+	aprobó la donación de emergencia de Melquisedek (93:10.2)
+	en una visita a Jerusem Gabriel tuvo la certeza de que Lucifer pronto se rebelaría (53:2.4)
+	ha estado estrechamente identificado con Urantia desde la donación de Miguel (33:4.7)
+	la primera audiencia en el caso contra Lucifer ha sido celebrada recientemente (54:4.8)
+	ha participado en las donaciones de Miguel junto a él (119:4.2,5) (119:5.3) (119:6.2) (120:0.6) (189:0.1)
+	Gabriel tiene delegadas en él las materias relativas a juicios y resurrecciones dispensacionales (33:4.6) (74:2.8) (189:3.1-2)
+	la Parte III de El Libro de Urantia está escrita por autoridad de Gabriel (57:0.1)
+	presidió el consejo de Salvington durante el tiempo que Jesús estuvo en la tumba (188:3.12)
+	cuando Miguel está ausente de Salvington Gabriel actúa como regente del universo local (33:2.5) (33:4.7) (33:6.1)
+	El «Monumento conmemorativo de Miguel» que hay en Jerusem tiene el sello de Gabriel (188:3.11) (189:1.9)
+	el templo vacío de los finalitarios situado en Jerusem tien también el sello de Gabriel (46:5.32)
+	se encarga de supervisar los tribunales de Nebadon (33:7.2)
+	Gabriel dirigió una exposición incesante de los sofismas rebeldes desde su sede establecida en Jerusem (53:4.6) (53:5.4,6) (67:3.1)
+	Trabajó bastante solo con Miguel y Espíritu Madre en los primeros días de construcción del universo local (37:1.10)
+participación en la donación terrenal de Miguel (189:0.1)
+	eligió a los judíos como raza para la encarnación de Miguel (122:0.2-3)
+	Emmanuel confió la custodia de Miguel a Gabriel en el momento de la encarnación (120:3.11)
+	se apareció a Isabel en junio del 8 a.C. (122:2)
+	Gabriel fue quien instó a Isabel a que llamara a su hijo Juan (122:2.3)
+	se apareció a María en noviembre del 8 a.C. (122:2.6) (122:3)
+	Gabriel fue quien instó a María a que pusiera a su hijo el nombre de Jesús, «Josué» (122:3.1)
+	Jesús solo se enteró de la visita de Gabriel a María en su bautismo (126:2.4) (135:8.7) (135:9.1)
+	restableció la comunicación y se reencontró con Miguel después del bautismo de Jesús (136:3.4)
+	estuvo con Jesús en el monte de la transfiguración, trayéndole la noticia de la aceptación por parte del Hijo Eterno de su donación y de la satisfacción del Espíritu Infinito (158:1.6) (158:3.2)
+	estuvo en Urantia durante la crucifixión (186:4.2)
+	estuvo con Jesús durante su tránsito morontial (189:3.4)
+curiosidades
+	en Nueva Zelanda una tribu adoptó un cristianismo que supuestamente recibió unas revelaciones de Gabriel que relajaban las prácticas sexuales. Este movimiento religioso se denomina Pai Marire o Hauhau (92:2.5)
+
+Gad | | | RAZA | 
+tribu de renombre (128:1.14)
+
+Gadara | (138:9.3) (144:7.1) (149:0.1) (159:0.2) (165:0.1) | | LUGAR | 
+Tomás Dídimo de (138:2.5)
+Una de las poblaciones recorridas en la misisón de Perea
+
+Gada | (165:0.1) | | LUGAR | 
+Una de las poblaciones recorridas en la misisón de Perea
+
+Gadía | | | PERSONA | 
+Gadía es un intérprete filisteo con quien Jesús discurrió sobre Jonás durante su estancia en Jope. posteriormente se haría cristiano tras escuchar al apóstol Pedro, con quien tuvo una memorable controversia (130:1)
+
+Gayo | | | PERSONA | OK
+Jesús se encontró con Gayo en la casa de Crispo, en Corinto; luego se convirtió en un leal partidario de Pablo (133:3.11)
+
+Galantia | | | PERSONA | OK
+Galantia es el asociado ascendente de Gavalia, la primera Brillante Estrella Vespertina de Nebadon, y Galantia es la primera ascendente en entrar en servicio en Nebadon (37:2.6) (46:5.25)
+tiene actualmente su cuartel general en Jerusem (37:2.6) (46:5.25)
+ella es el jefe asociado de estos superángeles (46:5.25)
+
+Galacia | | | LUGAR | 
+Mateo predicó en (139:7.10)
+
+galaxias | | Ver niveles de espacio; universo | LUGAR | 
+375 millones nuevas galaxias pronto serán observadas por los astrónomos urantianos (12:2.3)
+
+Galilea | (137) (146) (155) | Ver Palestina; mar de Galilea | LUGAR | 
+mal visto por los líderes de Jerusalén; en gran parte gentil (121:2.12)
+conversión forzosa de la población gentil (139:0.2)
+Herodes reconstruyó ciudades en (121:2.11)
+Jesús deseaba encontrarse con los apóstoles en (192:1.2)
+Giras de predicación de Jesús (146) (149) (150)
+la falta de riqueza no implicaba inferioridad social (126:5.1) (127:5.1)
+más bella y próspera que Judea (124:2.9)
+ningún profeta surge de (162:2.9) (162:6.4)
+Pilato mezcló la sangre de los galileos con sacrificios (166:4.4) (185:1.5)
+los residentes fueron a Jerusalén para 3 fiestas (125:1.5)
+espléndido ambiente para el joven Jesús (123:0.5) (124:0.1)
+
+hiel | | | | 
+en punta de espada de ángel de la muerte (168:1.14)
+
+Gamala | (149:0.1) (149:6.1) | | LUGAR | 
+episodio de predicador extraño en (159:2.1)
+
+Gamaliel | | | PERSONA | 
+Gamaliel fue un renombrado maestro en Jerusalén (126:5.3)
+aconsejó al sanedrín en contra del encarcelamiento de los seguidores de Jesús (194:4.10)
+
+juegos de azar | | Ver azar; suerte | | 
+personas civilizadas todavía predispuestas a (86:1.4)
+natural a primitivas; deseo de algo a cambio de nada (69:2.7)
+
+juegos | | | | 
+juegos de atletismo | Ver deportes
+una vez, la persona contada debe morir; ahora, solo «eso» (90:2.4)
+
+rayos gamma | | | | 
+tras la disociación espontánea de ciertos átomos (42:5.1,7)
+
+Ganges | | | LUGAR | 
+Los anditas emigraron al valle de (79:2.4)
+delta es el trabajo de los últimos 50.000 años (79:2.1)
+Centros dravídicos a lo largo (79:3.6)
+alta cultura ario-dravídica en las llanuras de (79:4.4)
+la vida marina evolucionó en la bahía de (59:6.9)
+
+Ganid | | | PERSONA | OK
+Ganid fue un brillante niño indio a quien Jesús enseñó durante un viaje que hizo con él y con su padre Gonod (130) (133)
+el primer encuentro con Jesús tuvo lugar durante la Pascua del año 22, en Jerusalén (129:2.9)
+Ganid pasó una enfermedad grave en Chipre y recibió los afectuosos cuidados de Jesús y de su padre (133:7.3)
+puso en práctica las enseñanzas de su maestro cuando en Antioquía habló con un empleado de su padre que estaba descontento por las tareas que se le asignaban (133:8.3)
+realizó junto a Jesús una sinopsis traducida de los mejores textos sobre las religiones del mundo que encontraron en la biblioteca de Alejandría (131) (130:3.5-6)
+fue un digno sucesor de su eminente padre (133:9.5)
+
+jardín | | | | 
+Jesús alquiló un terreno cerca de la casa de Nazaret por (126:5.10)
+
+Jardín del Edén | (73) | Ver Adán; Jardines del Edén; segundo jardín | LUGAR | 
+3000 voluntarios preparados (73:2.3)
+Hace 37.000 años (51:6)
+Adán desanimó el sacrificio de animales en (76:2.3)
+después del incumplimiento, Adán abandonó a los noditas; caravana al segundo jardín (75:6) (76:0.1)
+relaciones comerciales con forasteros (51:6.1)
+Edenitas
+	1200 edenitas leales en el momento del incumplimiento (75:6.2)
+	cooperación de noditas (75:2.5) (75:3.5) (77:4.1)
+	educación (74:7)
+	entrar en Mesopotamia (76:1)
+	no tenía botes adecuados (76:0.1)
+	ideal de toda la familia como jardineros (84:7.8)
+	el idioma era el dialecto andónico (74:2.2)
+	masacró a los noditas cercanos al enterarse de la locura de Eva con Cano (75:5.3)
+	practicó el entierro escrupuloso de todos los desechos (73:5.4)
+	fabricación primitiva (74:5.3)
+jardín establecido; residentes existentes desalojados (73:3.2) (73:4)
+vida en el Jardín del Edén lejos de utópica (68:1.7)
+llamado así por Edentia (39:5.3) (73:4.1)
+nunca se sacrificaron animales en (73:4.1) (76:2.3)
+ocupado por tribus después del incumplimiento (73:7.1)
+descripción física (73:5)
+	Cuello de 27 millas de ancho conectado al continente (73:3.4)
+	12.000 millas de caminos pavimentados (73:5.2)
+	área entre muros ocupada por bestias salvajes (73:4.3)
+	paredes de ladrillo a lo largo del cuello de la península (73:4.2-3)
+	península mediterránea elevada; clima saludable (73:3.3-6)
+	colinas abundantes en piedras preciosas y metales (73:3.5)
+	montaje inaugural (74:2.5) (74:3.5) (74:4.4)
+	el lugar más hermoso de la tierra (73:3.6) (73:5.8) (73:7.1) (74:3.4)
+	prácticas sanitarias (73:5.3-4)
+	sumergido bajo el Mediterráneo oriental (73:7.1-2) (78:7.7)
+planificación para; selección de sitio (73:2.3) (76:1.3)
+planes para que habite 1 millón de personas (73:5.1)
+enseñanzas
+	Segunda revelación de época (92:4.6)
+	Los 7 mandamientos del Edén eran tabúes (89:1.4)
+	llevado a cabo por sacerdotes setitas (92:4.6)
+	leyes (74:7.12-20)
+
+jardineros | | | ORDEN | 
+espornagia son jardineros para Jerusem (46:7.2)
+
+Jardines del Edén | (51:6) | Ver Jardín del Edén | LUGAR | 
+nombrado en honor a la capital de la constelación (43:6.2) (51:3.2) (73:4.1)
+segundos centros de la cultura mundial (51:6.2)
+generalmente aislado en una zona casi trópica (51:3.2)
+
+jardines de Dios | (43:6) | | LUGAR | 
+la mitad de Edentia dedicada a (43:1.7) (43:6.1-2)
+
+gas | (59:3.4) | | | 
+se encuentra a menudo en lechos de carbón (59:5.16)
+
+cámaras de gas | | | | 
+criminales ejecutados en cámaras de gas en la nación continental (72:10.1)
+
+gasterópodos | (59:2.12) (59:3.7) | | | 
+
+puerta hermosa | | | LUGAR | 
+en el templo de Jerusalén (162:4.3)
+
+Gat | | | LUGAR | 
+Los filisteos ordenaron al rey David salir del campo en (97:9.5)
+
+Siddharta Gautama | (94:7) | Ver Buda; budismo | PERSONA | OK
+Siddartha fue un gran maestro del siglo VI a.C., hijo de un cacique sin importancia que gobernaba en un valle del Himalaya
+su conversión a sus nuevos ideales ocurrió de forma repentina (100:5.3)
+elaboró la doctrina trinitaria de Maestro, Ley y Fraternidad (104:1.6)
+seguidores
+	Gautama prohibió a sus discípulos recibir dinero para evitar tendencias jerárquicas (94:8.19)
+	el culto budista posterior pervirtió sus enseñanzas y lo convirtió en un personaje divino (92:5.12) (94:11.2,9)
+	La esposa de Gautama creía en el evangelio de su marido y fue la fundadora de una orden de monjas. (94:7.6)
+	Su hijo se convirtió en su sucesor y difundió mucho el culto (94:7.6)
+	El despertar espiritual del siglo VI no sobrevivió en la India y casi había desaparecido en el momento de la invasión musulmana (79:4.8)
+fortalezas
+	trajo socorro a millones de almas desesperadas (94:7.7)
+	su vida fue mucho más grande que su predicación (94:8.19)
+	fue un destacado maestro religioso (121:6.4)
+	enseñó la mejor filosofía atea jamás inventada (94:8.18)
+	enseñó la salvación universal, libre de sacrificios, rituales y sacerdotes (94:7.7)
+debilidades
+	falló en percibir la personalidad de Dios y la existencia de las almas (94:7.3)
+	Buda dirigió su nave de salvación directamente hacia el puerto seguro, hasta la entrada de la ensenada de la salvación de los mortales, pero allí, a causa de unas cartas de navegación equivocadas, la buena nave encalló (132:7.4)
+	Apenas creía en la inmortalidad de la personalidad humana (94:8.16)
+	Buda fue un gran hombre e incluso un profeta para su pueblo, pero fue un profeta huérfano. Conoció a Dios en espíritu, pero no con la mente (132:7.3-5)
+	debería haber escuchado al ermitaño Godad, un salemita que le transmitió las enseñanzas de Salem (94:7.4)
+
+Gavalia | | | PERSONA | OK
+Gavalia es el primogénito y jefe de las Brillantes Estrellas Vespertinas en Nebadon (37:2.6) (119:0.1)
+su asociado ascendente se llama Galantia, el primero en alcanzar este estatus en Nebadon (37:2.6)
+es el autor del documento 119 (119:0.1)
+
+Gaza | (134:7.4) (194:4.13) | | LUGAR | 
+Lugar de paso de Jesús
+
+Geba | (134:7.5) | | LUGAR | 
+Lugar de paso de Jesús
+
+Gehena | | | LUGAR | 
+cuerpos de ladrones crucificados llevados a (188:1.5)
+fosas de entierro abiertas al sur de Jerusalén (188:0.2)
+
+genealogías | | | | 
+Los significados del origen están vivos (28:6.2-4)
+
+consejo general | | | | 
+Hubo un consejo general de los seguidores de Jesús en Filadelfia (167:0.3) (167:2.3)
+
+Génesis; historia de la creación | | | | 
+historia de Eva creada de la costilla de Adán (74:8.3)
+
+genética | | Ver eugenesia; discapacidades; hibridación; razas | | 
+el gen dominante normalmente mejora el híbrido (82:6.7)
+la evolución produjo muchas formas aparentemente inútiles de vida de transición (65:4.10-12)
+las desventajas genéticas no pueden invalidar la presencia del Ajustador (5:1.4-7) (5:5.13-14)
+la genética es la base de toda habilidad, todo carácter (44:8.2) (76:2.6)
+la química de la glándula influye en la imaginación, la receptividad espiritual (49:5.19)
+el buen ambiente no puede superar las desventajas de carácter de la herencia básica (76:2.6)
+históricamente
+	70 generaciones entre los mamíferos precursores y los mamíferos intermedios (61:6.1) (62:2.6)
+	Abraham llegó en la generación esperada (93:5.3)
+	La cepa de andita estimuló la raza amarilla innatamente capaz (79:6.7) (79:7.3)
+	Caligastia 100 enseñó la cría selectiva de animales (66:5.4)
+	cromosomas en el personal del Príncipe reorganizados por circuitos de vida (77:2.2,5)
+	Jesús no interfirió con la evolución biológica (120:3.5,8)
+	La versatilidad y adaptabilidad inusuales de Moisés derivadas de la ascendencia mixta (96:3.1)
+	la raza es un factor decisivo en la evolución de la cultura (81:6.4)
+	El deterioro racial contribuyó al declive romano (133:0.2) (195:3.8-9)
+	algunas pérdidas genéticas tempranas e irreparables debidas a guerras (63:4.8)
+	enormes ganancias de una pequeña cantidad de sangre violeta | Ver anditas | (48:4.13,17) (52:3.6) (74:7.23) 
+individuos que carecen de instinto parental eliminados de la corriente reproductiva (84:7.7)
+los impulsos heredados no pueden modificarse fundamentalmente; las respuestas pueden (140:4.8)
+guarda celosamente las cepas humanas superiores (49:1.7)
+la vida morontial elimina todas las desventajas genéticas (44:8.3) (109:5.5)
+los mortales difieren en dotes innatas (69:3.8) (70:8.1) (100:7.8)
+a menudo requiere edades para recuperar la pérdida de una única cepa superior de la herencia humana (49:1.7)
+juego, humor, música en gran parte derivada de los adanitas (74:6.7)
+religión impotente aparte del sonido y la normalidad genética (70:8.18)
+experiencia religiosa marcadamente influenciada por (100:1.6)
+
+Gengis Kan | | | PERSONA | OK
+El genio militar andita de los mongoles; fue un monoteísta (79:1.9)
+los miembros de su tribu todavía esperan su regreso (92:5.6)
+
+genio | | | | 
+civilización limitada por la disponibilidad de genio (78:2.4)
+la fe puede llevar al fanatismo en una religión genio (196:0.6)
+fomentado en la nación continental (72:6.7) (72:7.1)
+El consejo de Jesús con respecto a la disposición de la riqueza de (132:5.8,20)
+neutralizado por la gravedad de la mediocridad (111:7.5)
+el hombre normal es fuente de genios mutantes (68:6.11)
+obligación de genio a la raza y la nación (132:5.20)
+los primitivos no pudieron distinguir genio de la locura (88:1.9)
+los primitivos miraron a los genio como poseído por un espíritu sabio (88:1.10)
+
+Genesaret | (152:6) (156:6.3) | | LUGAR | 
+Una región de Galilea donde estuvo Jesús
+
+gentiles | | Ver paganos | RAZA | 
+corte de los gentiles en el templo de Jerusalén (121:2.5)
+en tiempos de Jesús; religiones de (121:3.5)
+Judíos
+	miraron a los gentiles con desprecio (121:7.1)
+	mezclado más libremente con gentiles en Galilea (123:5.7)
+	moralmente superior a los gentiles (121:4.1) (121:5.17)
+
+dulzura | | | | 
+fruto del Espíritu (34:6.13)
+
+geografía | | Ver clima; continentes; montañas; océanos; ríos | | 
+China protegida por su geografía (79:6.12-13)
+India no logró la hegemonía debido a su topografía (79:2.5)
+influyente en la determinación de la paz o la guerra (81:6.5)
+la protección de América del Norte por los océanos permitió un desarrollo sin molestias (81:6.5)
+
+edades geológicas | (59:0.1-6) | | | 
+1. Arqueozoico (era anterior a la vida)
+	Hace de mil millones a 550 millones de años (59:0.2) (78:7.4)
+2. Proterozoico (era del amanecer de la vida)
+	Hace 550 a 400 millones de años (58:7.1) (59:0.3)
+3. Paleozoico (era de la vida marina)
+	Hace 400 a 150 millones de años (59:0.4) (59:6.11)
+	Cámbrico (edad de los trilobites)
+		Hace 400 a 350 millones de años (59:1)
+	Ordovícico (edad de los animales invertebrados)
+		Hace 350 a 300 millones de años (59:2)
+	Silúrico (edad de coral y braquiópodo)
+		Hace 300 a 275 millones de años (59:3)
+	Devónico (edad de la vida vegetal, peces)
+		Hace 270 a 220 millones de años (59:4)
+	Carbonífero (edad de los bosques de helechos, ranas)
+		Hace 220 a 180 millones de años (59:5)
+	Pérmico (edad semilla-planta; tribulación biológica)
+		Hace 170 a 150 millones de años (59:6)
+4. Mesozoico (era temprana de la vida terrestre)
+	Hace 150 a 50 millones de años (59:0.5) (60:4.6)
+	Triásico (edad reptiliana temprana)
+		Hace 150 a 125 millones de años (60:1)
+	Jurásico (era posterior a los reptiles)
+		Hace 125 a 100 millones de años (60:2)
+	Cretácico (edad de las plantas con flores, pájaros)
+	Hace 100 a 50 millones de años (60:3-4)
+5. Cenozoico (era de los mamíferos)
+	Hace 50 millones de años hasta el presente (61:0)
+	Eoceno (edad de los primeros mamíferos)
+		Hace 50 a 35 millones de años (61:1)
+	Oligoceno (edad avanzada de los mamíferos)
+		Hace 35 a 25 millones de años (61:2)
+	Mioceno (edad del elefante y el caballo)
+		Hace 25 a 10 millones de años (61:3.15)
+	Plioceno (etapa de migración de mamíferos)
+		Hace 10 a 1 millón de años (61:4)
+	Pleistoceno (edad de hielo)
+		Hace 2 millones a 100.000 años (61:5-7)
+	Holoceno (período posglacial)
+		Hace 35.000 años hasta el presente (61:7.18)
+
+geología | | Ver fósiles; edades geológicas; rocas y minerales | | 
+ciclo de millones de años de ascenso y caída de los continentes (60:4.1)
+capas de roca extensamente mezcladas (57:8.11) (58:7.1,6)
+libro de piedra (58:7)
+
+Guerar | | | LUGAR | 
+después de la partida de Melquisedek, Abraham se mudó a (93:9.2-3)
+
+Gerasa | (128:3.2) (134:9.1) (138:9.3) (144:7.1) (152:7.1) (159:0.2) (165:0.1) (166:3) | | LUGAR | 
+Una de las poblaciones de la Decápolis
+
+Gerizim | | Ver monte Gerizim | LUGAR | 
+
+germoplasma | | Ver plasma vital | | 
+
+Alemania | (59:4.8) (60:1.4) (60:2.6) | | LUGAR | 
+Grupos raciales nórdico-danés y danubiano-andonita (80:9.3)
+Los alemanes son descendientes de las razas andita y azul (80:4.5)
+raza blanca dominante en 5000 a.C. (80:5.8)
+
+Geshur | | | LUGAR | 
+Talmai era rey de (97:9.10)
+
+gesto | | | | 
+más antiguo que el habla, considerado más mágico (88:6.4) (92:2.2)
+
+Getsemaní | (178) (182) (183) (147:2.2) (176:3) (177:3) | | LUGAR | 
+acampar en el terreno que pertenece a Simón de Betania (173:5.5)
+Jesús solo en (182:3)
+prensa de aceitunas cerca de la entrada a (183:0.3)
+en la ladera occidental del monte de los Olivos cerca de Kidron (142:8.4)
+
+fantasmas | (87) | | | 
+las sectas eran un seguro contra los peligros de la mala suerte (87:0.1)
+pueblos primitivos asociaban fantasmas con el mar (84:1.4)
+miedo a los fantasmas
+	primitivas disciplinadas y controladas (68:3.3)
+	llevó a los hombres a la sociedad (68:2.4,6) (68:3.1,4) (68:4.3)
+	fuente de la ética, la religión (68:4.3) (87:1) (87:4.1)
+	preparó la mente de los hombres para el «temor del Señor» (68:3.3)
+	produjo temor a estar solo (84:7.17)
+	los salvajes vivían con miedo a los fantasmas (87:3.3)
+	superstición sin sentido (68:3.3)
+ilusorio fantasmas entorno del hombre primitivo (86:6)
+Moisés trató de desarraigar los cultos a los fantasmas (92:5.11)
+idea más primitiva de las almas humanas (86:4.3)
+naturaleza y actividades de los fantasmas
+	administraron justicia a través de curanderos (70:10.5)
+	enojado fantasmas causó desgracia, infelicidad (87:2.2)
+	causó enfermedad al sacar el alma del cuerpo (90:3.4)
+	acreditado con poderes sobrenaturales, pero no inteligencia sobrenatural (87:1.2-5)
+	disfrutaba de derechos ilimitados pero no de deberes (87:5.1)
+	Se esperaba que al menos una esposa esclava fuera enterrada viva con (87:2.7)
+	explicó lo inusual y lo inexplicable (86:4.4)
+	asustado por el ruido (87:6.11)
+	fantasmas buenos y malos (87:4)
+	recaudaba tributo continuo por no interferencia (87:5.1)
+	preferían morar en los objetos que poseían cuando estaban vivos (88:2.1)
+	castigó a aquellos que despreciaron sus reglas (68:4.3)
+	disfrutaba de la incomodidad de vivir (87:2.4) (89:0.2)
+el aplacamiento precedió a la coerción y la súplica (87:2.1)
+ritos diseñados para evitar, expulsar o coaccionar (87:0.1)
+salvaje creía fantasmas ser aliento menos cuerpo (86:4.4)
+los chamanes aullaban fantasmas responsable de la enfermedad (90:4.3)
+concepto de alma (86:5)
+los espíritus de los humanos que han partido no regresan ni se comunican (112:3.7) (146:7.2) (150:3.5)
+estratagemas para engañar (87:1.2,5) (87:6.3-10)
+Doctrina superfantasma aún no totalmente rechazada (87:5.8)
+superstición de fantasmas el sueño aún persiste (68:3.3)
+supuesto origen humano de fantasmas dioses (85:6.4)
+
+gigantismo | | | | 
+en razas verde y naranja (51:4.2)
+
+gibones | | | | 
+mató a los padres de Andón y Fonta (62:5.10-11)
+no antepasados ​​humanos (62:1.1)
+
+Gibeón | | | LUGAR | 
+Ciudad cananea atacada por Saúl (97:9.13)
+
+gibeonitas | | | RAZA | 
+El rey David entregó 7 descendientes de Saúl a los gibeonitas para que los ahorcara (97:9.13)
+
+Estrecho de Gibraltar; istmo de Gibraltar | (61:3.8) | | LUGAR | 
+cedió después de un terremoto (80:2.4)
+Mediterráneo protegido en los primeros días de la raza violeta (80:1.1)
+
+Gedeón | | | PERSONA | OK
+Los madianitas invadieron el valle del Jordán en los días de Gedeón (124:6.6)
+
+regalos | | | | 
+La voluntad consagrada es el mayor don para Dios (1:1.2) (56:8.3) (196:0.10)
+todo don bueno y perfecto es de Dios (2:6.3)
+Dios les da a sus hijos el espíritu y las bendiciones (131:10.3) (144:2.4) (146:2.6-10)
+la gente se deleita con la Navidad regalos (69:5.13)
+la salvación es un don gratuito (150:5.3,5) (167:5.1) (170:2.21) (193:1.2) (193:2.2)
+
+Gilboa | (144) (122:7.5) (123:5.13) (124:6.1) | | LUGAR | 
+conferencia con los apóstoles de Juan en Gilboa (144:6)
+campamento en (144:1)
+El rey Saúl se quitó la vida en (124:6.3) (134:9.5)
+Mateo y Felipe expulsaron de la aldea samaritana en (162:0.1)
+Los filisteos derrotaron a Saúl en (97:9.6)
+
+Galaad | (165:0.1) | | LUGAR | 
+Una de las poblaciones recorridas en la misisón de Perea
+
+galaaditas | | | RAZA | 
+tribu de renombre (128:1.14)
+Saúl vino en ayuda de (97:9.3)
+
+jirafas | (61:4.4) | | | 
+
+cinturón | | | | 
+Jesús usó (187:2.8)
+Judas se ahorcó con (186:1.7)
+
+Giscala | (138:9.3) (146:4.6) (156:6.3) | | LUGAR | 
+Lugar cercano al mar de Galilea donde predicó Jesús
+
+glaciares | | Ver edades de hielo | | 
+aparición en Pérmico (59:6.6)
+discrepancias en el cálculo (64:1.4)
+en Siberia (64:4.5)
+la elevación de la tierra produce (57:8.22) (61:2.3) (61:5.1-2)
+resultados topográficos de (61:7.1)
+
+glándulas endocrinas | | Ver hormonas | | 
+Tipos planetarios de 1, 2 y 3 glándulas (49:5.19-20)
+reacciones químicas resultantes de (65:6.6)
+la química de la glándula influye en la imaginación, la receptividad espiritual (49:5.19)
+
+Glantonia | | | LUGAR | 
+sistema inmediatamente vecino a Satania (41:2.1)
+
+gloria | | | | 
+cada uno llamado por mi nombre lo he creado para mi gloria (97:7.10)
+Jesús no buscó a los suyos gloria sino la gloria de Dios (162:7.4-5)
+amar gloria de los hombres más que de Dios (174:5.3)
+no busques la gloria de uno mismo sino la gloria de Dios (162:2.1) (175:1.10)
+
+mosquitos | | | | 
+esforzarse en mosquitos (156:2.8) (185:0.4)
+esforzarse mosquitos mientras traga camello (175:1.17)
+
+metas | | Ver ambiciones; consagración de elección; destino; progreso; autorrealización; voluntad | | 
+alcanzando objetivos
+	los ascendentes nunca negaron la satisfacción transitoria del logro de la meta (39:4.7) (44:8.3-5) (118:0.10,12)
+	asistencia para lograr metas proporcionado gratuitamente (4:3.5)
+	comenzado en el tiempo se terminará en la eternidad, si vale la pena terminar (111:3.7)
+	soldando la filosofía, la religión y la ciencia con la sabiduría, la fe y la experiencia (98:2.12)
+	cediendo a las fuerzas espirituales (5:1.12)
+	creación y respuesta a nuevo y espíritu metas (12:9.1)
+	enteramente posible alcanzar metas establecido por Dios (1:0.5)
+	gramo. son creativos de acuerdo con la dedicación a la voluntad del Padre (132:7.9)
+	la mayor felicidad vinculada con la búsqueda de lo digno metas (94:8.17)
+	el propósito de la vida debe ser celosamente guardado (160:3.5)
+	la religión paga cualquier precio para alcanzar la meta suprema (100:3.1)
+	esfuerzo espiritual requerido para lograr metas en Havona (26:7.1)
+	con Dios todas las cosas son posibles (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
+	el trabajo es importante, el yo no lo es (48:6.37)
+Dios trata con nosotros sobre la base de nuestros propósitos (103:4.5)
+vida sin objetivo y sin provecho sin ser digno (140:4.9)
+hitos en el largo camino ascendente (39:4.7)
+aspiraciones mortales (44:8)
+no es material para las almas divinamente regadas (34:6.8)
+solo metas por lo que vale la pena luchar son espirituales, no materiales (100:2.6) (170:2.6)
+las personas pueden emitir juicios sobre la valía de metas (16:7.2-4)
+en lugar de los credos deberían unificar a los religiosos (99:5.7)
+destino espiritual condicionado por (156:5.9)
+metas supremos
+	logrando la perfección | Ver perfección:logro
+	Ascendington es la esfera de estado suprema (13:0.6)
+	logro de supremo, luego último (0:7.10) (0:9.1)
+	sintonizando con la divinidad del Ajustador residente (110:3.4)
+	convertirse en finalista (14:6.39)
+	hermandad y conciencia de Dios (71:4.15) (143:1.4)
+	consagración a la voluntad del Padre; lealtad al Hijo Creador (20:1.14)
+	Movilización siempre ascendente y unificación perfecta de la realidad en asociación con la realidad del Paraíso (0:7.10)
+	explorando el infinito del Padre Universal (14:6.40)
+	pelear la batalla del triunfo de la realidad sobre las sombras parciales (101:10.9)
+	encontrar a Dios y llegar a ser como él (1:0.3) (132:3.7)
+	encontrar a Dios en el Paraíso (5:1.2,12) (11:9.8) (14:2.8) (48:8.1)
+	Dios, descanso y eternidad de servicio perfeccionado (24:6.1)
+	perfección de la fe y el servicio (34:6.10)
+	servicio (28:6.17)
+	espíritu (12:8.13) (16:4.6)
+	trinitización (para algunos) (13:1.13)
+	unificación, coherencia divina (2:7.7)
+	sabiduría de la existencia mental y moral (36:5.12)
+transferencia de metas desde el tiempo hasta la eternidad (160:1.14)
+
+cabras | | | | 
+domesticado por 5000 a.C. (81:2.12)
+primeras unidades de trueque (69:4.5)
+Noditas importados (80:1.2)
+
+Gobi | | | LUGAR | 
+pastizales abiertos en los días anditas (79:1.2)
+
+Dios | (1) (2) (3) (4) (5) | Ver Deidad; YO SOY; El Infinito; La Trinidad del Paraíso; Padre Universal | PERSONA | OK
+Dios no está personalmente presente ni en la naturaleza ni en ninguna de las fuerzas de la naturaleza (4:2.5) (131:1.5)
+la creación de la energía y la vida es prerrogativa de Dios; ambos fluyen hacia toda la creación (42:1.5)
+todos los hombres son hijos de Dios (2:5.4) (40:6) (99:5.5)
+Los Hijos Creadores son Dios en sus universos locales | Ver Miguel de Nebadon:descripción:Dios de nuestra creación | (33:1.4)
+sólo está perceptiblemente presente en el Paraíso y en Havona (3:1.6)
+está literalmente presente en el Paraíso (11:1)
+las cualidades divinas están perfectamente unificadas en Dios (44:7.4)
+Dios, como superpersona, existencia; como persona, crea; como prepersona, se fragmenta en los Ajustadores (30:1.99)
+El Libro de Urantia ofrece un documento, el 97, sobre la evolución del concepto de Dios (97) (5:4.9-13) (5:5.12) (142:3)
+en la relación de Dios con los universos locales parece que se retira de la actividad en favor de sus seres creados y Creadores, pero también hay por parte de Dios una participación real, literal y personal (32:4)
+Dios no sólo funciona en capacidades paternales, sino también en capacidades que no son del Padre como las relaciones del Dios de la fuerza, la energía, el poder, la causalidad, la reacción, la potencialidad, la actualidad, la gravedad, la tensión, el arquetipo, el principio y la unidad (104:2.6)
+Los fragmentos de Dios son los Ajustadores del pensamiento | Ver Ajustadores del pensamiento
+el término «Dios»
+	siempre denota personalidad (0:2)
+	para la persona religiosa significa el acercamiento a la realidad suprema (100:3.2)
+	La idea del padre es el concepto humano más elevado de Dios (2:0.1) (2:5.9) (196:3.35)
+	La palabra Dios no se puede definir y representa el concepto infinito del Padre, pero como la palabra Padre se puede definir parcialmente, puede ser empleada para representar el concepto humano del Padre divino (0:2.9) (1:7.1) (169:4.7)
+	Dios está destinado a ser comprendido como la realidad de los valores, la sustancia de los significados y la vida de la verdad (5:4.2)
+	las definiciones teológicas sobre Dios deben cambiar con cada época (5:5.12)
+Otras denominaciones para Dios | Ver Deidad:también conocida como; Padre Universal:también conocido como
+	* Adonai (96:1.9)
+	* Alá (95:7.6)
+	* Anciano de los Días (96:1.9)
+	* Dador de aliento (45:4.3) (63:6.1)
+	* Divina Presencia (48:6.11)
+	* «Padre» es el nombre más apropiado (4:4.5)
+	* Dios de los Dioses (45:4.10) (64:6.26)
+	* Dioses (27:7.7)
+	* Gran Luz (45:4.4)
+	* Gran Espíritu (45:4.5) (64:6.7)
+	* Gran Educador (45:4.7)
+	* Infinito (48:7.12)
+	* Jah (96:1.9)
+	* Jehová (94:12.1) (96:1.10)
+	* Júpiter (96:1.14)
+	* Kyrios (96:1.9)
+	* Señor Dios de Israel (45:4.14) (74:8.7) (142:3.5)
+	* Personas Luminosas (24:7.2)
+	* Creadores (48:4.15)
+	* Altísimo (4:1.4) (96:1.9)
+	* Única Fuente de la Vida (45:4.9)
+	* Verdad Única (45:4.8) (64:6.15) (79:6.10) (79:8.4) (94:5.3)
+	* Poderes del Paraíso (27:7.6)
+	* Shang-ti (79:8.7) (94:5.3)
+	* Jefe Supremo (45:4.6) (64:6.23)
+	* Directores Supremos (48:4.7)
+	* Gobernantes Supremos (46:8.4) (50:1.2) (53:2.4) (54:1.9) (54:3.1) (54:4.5) (65:8.2)
+	* Desconocido (64:6.26)
+	* Dador de valor (16:8.14)
+la conciencia de Dios | Ver comunión espiritual | (0:2.2) (5:2) (8:5)
+	la conciencia de Dios se descubre mejor en comunión con el Ajustador (5:2.3)
+	para Amenemope era el factor determinante en toda conducta (95:4.2)
+	La experiencia de la conciencia de Dios sigue siendo la misma de generación en generación (5:5.12)
+	La conciencia de Dios debe consistir en la conciencia mental — la comprensión de la idea de Dios, la conciencia del alma — la comprensión del ideal de Dios, y la conciencia del espíritu — la comprensión de la realidad espiritual de Dios. La unificación de estas comprensiones otorga una comprensión de la personalidad de Dios (5:5.11)
+	La conciencia de Dios es indispensable para el verdadero progreso (94:6.12) (100:3.6)
+	es el resultado inevitable de la consagración a la voluntad del Padre (5:1.6)
+	La conciencia de Dios equivale a la integración del yo en el universo y en sus niveles más elevados de realidad espiritual (196:3.35)
+	El secreto de la incomparable vida religiosa de Jesús fue la conciencia de la presencia de Dios (196:0.10)
+	El misticismo, como técnica para cultivar la conciencia de la presencia de Dios, es digna de elogio, pero si conduce al aislamiento social y al fanatismo religioso, es casi censurable (91:7.1)
+	Ningún idioma humano posee una palabra que se pueda emplear para designar esa «sensación», «sentimiento», «intuición» o «experiencia» que hemos elegido llamar la conciencia de Dios (103:1.6)
+	la conciencia de Dios es el último logro de la mente humana (71:7.13)
+	podemos alcanzar la perfección de la conciencia de Dios (1:0.5)
+	la presencia de Dios
+		la presencia de Dios se discierne más cuando se fraterniza con el Ajustador, y una muestra de esta armonización son los frutos del espíritu y el deseo de hacer la voluntad del Padre (5:2.4-6) (71:4.15)
+		el grado de la presencia de Dios en una parte del universo está determinado por la lealtad masiva a Dios (3:1.10-11) (13:4.3-5)
+		La presencia mental de la Deidad está determinada por la profundidad de la experiencia intelectual individual y por el nivel evolutivo de la personalidad, por la capacidad espiritual de receptividad y por el grado de consagración a hacer la voluntad divina (5:2.1)
+		los Espíritus Maestros actúan de modo que la presencia espiritual de las Deidades es diferencial (13:4.3)
+		El factor que determina el diferencial de la presencia espiritual existe en nuestro propio corazón y en nuestra propia mente. El espíritu de la divinidad se vuelve así humildemente obediente a nuestras elecciones (13:4.5)
+		La conciencia social no es inalienable como la conciencia de Dios (16:9.4)
+		No es tan importante conocer el hecho de Dios, como desarrollar cada vez más la habilidad de sentir la presencia de Dios (155:6.12)
+		vivir como en presencia de Dios favorece el crecimiento espiritual (100:1.8)
+		el hombre rara vez es consciente de la presencia de Dios (5:2.4,5)
+		la conciencia de Dios es más real que la conciencia de que existe el prójimo (16:9.4)
+		La conciencia de Dios reside en el espíritu interior (196:3.23,25)
+		Un día veremos a Dios cara a cara (5:1.9)
+encontrar a Dios | Ver fe; crecimiento espiritual
+	para acercarse al conocimiento de Dios, el hombre debe consagrar todos sus dones (1:6.5)
+	la incapaz del hombre para el acercamiento a Dios se debe a nuestra finitud, no a una actitud distante del Padre (5:1)
+	la carrera por comprender a Dios comienza reconociendo la divinidad del Hijo Creador (0:8.9)
+	se puede creer en Dios debido a la experiencia humana o la revelación de la verdad (101:2.6)
+	durante mucho tiempo, para una criatura que asciende sólo es posible localizar al Padre por medio de la fe | Ver fe | (32:3.6) (101:8.1) (102:6.5)
+	todos seremos llevados hacia el Padre por el impulso de rebote de los Ajustadores del Pensamiento (56:4.1)
+	al reconocer la verdad, la belleza y la bondad, el hombre debe desarrollar el reconocimiento de un Dios de amor y luego progresar hasta la comprensión del Supremo (56:6.3)
+	no se puede encontrar a Dios a través de la ciencia (1:2.7) (42:1.3) (133:6.7)
+	elegir la voluntad del Padre es el descubrimiento espiritual del Padre (111:5.6)
+	si deseamos de verdad encontrar a Dios, debe nacer en nuestra mente la conciencia del Supremo (117:6.2)
+	el deseo de encontrar a Dios es evidencia de haberlo encontrado (130:8.2) (131:10.4) (195:6.16)
+	debemos discernir a Dios a través de su creación y de las revelaciones de sus Hijos (1:5.3)
+	el hombre consigue la unión divina mediante una comunión espiritual progresiva y recíproca, de conformidad con la voluntad divina (1:7.2)
+	el fracaso en la aventura de la Deidad permanece en los universos; el segundo intento siempre tiene éxito (25:8.9) (26:8.3-5)
+	la fe revela a Dios en el alma (101:2.10)
+	son pocos los que han logrado encontrar a Dios en el Paraíso (11:1.3)
+	se puede encontrar a Dios por sumisión al espíritu | Ver sumisión
+	no se puede revelar a Dios a quien no lo busca, es preciso que tenga hambre de la verdad como resultado de las experiencias de la vida o contacto con aquellos que conocen a Dios (132:7.2)
+	Dios como Padre tiene prioridad sobre todas las fases de la Deidad (4:4.5-6) ​​(54:6.2) (196:3.35)
+	Dios no puede ser plural para la personalidad, para quien adora a Dios, Dios es uno (56:4.4-5)
+	Dios es siempre una realidad de la experiencia personal (102:4.3)
+	Dios está siempre accesible; no está escondido (1:3.3) (1:5.3) (3:0.2) (5:1.8) (131:1.5) (131:2.4)
+	La presencia divina que puede disfrutar cualquiera en un momento dado sólo está limitada por la capacidad de esa criatura para recibir y discernir las realidades espirituales (1:4.5-6) ​​(32:4.7)
+	la búsqueda sublime de Dios es la aventura suprema, la mayor experiencia en la existencia humana (1:0.6) (117:6.9)
+	el que ha visto a un Hijo Creador ha visto a Dios (0:8.9) (32:3.6) (107:0.4)
+	el que ha visto a Jesús ha visto a Dios (157:6.13) (180:3.9) (182:1.9)
+	Es por eso que el día que Juan Marcos pasó a solas con Jesús se denomina «el día que un joven pasó con Dios» (177:1.3)
+	cuando un ser humano encuentra a Dios se ver impulsado a buscar un servicio amoroso con sus semejantes menos iluminados (102:3.4)
+	el infinito de Dios lo aparta de la comunicación directa con los seres finitos (2:1.6)
+	acercarse a Dios es la comprensión de la realidad, es la identidad con la realidad, la autorrealización (196:3.3)
+	el descubrimiento del Padre Universal es el quinto jubileo del mortal, el quinto acontecimiento más destacado de la vida de un mortal (27:7.8)
+	cuando se encuentra a Dios se experimenta una unificación con la divinidad por medio de la mente cósmica (56:3.6)
+	una forma de aprender a amar a Dios es primero aprendiendo a amar a los hermanos (155:3.4)
+	el hombre busca un amigo que resulta que ya vive dentro de su corazón (3:1.4)
+	El acercamiento más cercano del hombre a Dios es a través del amor (3:4.7)
+	puede lograrse buscando ayuda sobrehumana para resolver conflictos (76:2.8) (103:2.4)
+	el laberinto de la superstición, la tradición y ls tendencias materialistas se interponen en el camino para encontrarse con Dios (102:7.6)
+	nadie va a Dios excepto a través de Miguel (0:8.1-9) (180:3.7)
+	cuando un alma desalentada busca sinceramente a Dios, no hay nada que pueda retenerla en el cautiverio de sus tinieblas, antes o después se liberará de las cadenas que la atenazan (130:1.2)
+	son nuestras limitaciones inherentes las que determinan cuándo veremos a Dios (5:1.1-2)
+	son nuestros pensamientos, y no nuestros sentimientos, los que nos llevan hacia Dios (101:1.3)
+	la experiencia paterna y materna es indispensable para encontrar a Dios (45:6.4)
+	los puros de corazón verán a Dios (131:1.6)
+	buscar a Dios es buscar todo, es la experiencia más grande de la existencia humana (117:6.9)
+	buscar a Dios nos hace semejantes a él (133:4.9)
+	para alcanzar la presencia de Dios, se ha establecido en el universo un enfoque séptuple a la Deidad, que empieza con los Hijos Creadores, se eleva hasta los Ancianos de los Días, y finalmente logra al Padre Universal (0:8.1-9)
+	El alma en evolución no se vuelve divina por lo que hace, sino por lo que se esfuerza en hacer (48:7.24)
+	La Deidad es más que espíritu, pero el acercamiento espiritual a Dios es el único posible (102:4.4)
+	los que buscan a Dios de todo corazón le encontrarán (131:2.9) (131:8.5) (132:7.1-2)
+	Encontramos a Dios mediante las directrices de la perspicacia espiritual, mediante el amor de lo bello, la búsqueda de la verdad, la fidelidad al deber y la adoración de la bondad divina (1:3.3) (195:5.14)
+	para encontrar a Dios el hombre no tiene necesidad de ir más allá de su propia experiencia interior, basta con la contemplación del alma de la realidad espiritual interior (5:0.1)
+	conocemos a Dios porque confiamos en él (102:1.5)
+	cada logro en el progreso evolutivo de un mundo o grupo de mundos viene acompañado de un crecimiento de la comprensión de Dios hasta las etapas de luz y vida que culminan en la comprensión del Supremo (56:7.1-2,5) (142:2.2-4) (142:3) (159:4)
+La naturaleza de Dios | Ver belleza; bondad; justicia:justicia divina; misericordia; omnipotencia; omnisciencia; verdad | (2)
+	todas las cosas consisten en Dios (0:3.11) (3:1.7) (3:5.4) (3:6) (9:0.4) (11:8.1) (16:9.14) (42:1.2,6) (56:1.5) (56:9.14) (104:4.46) (131:10.2,4)
+	todas las cosas son posibles para Dios (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
+	todo amor verdadero es de Dios (117:6.10)
+	Dios es inmutable (12:7.4-6) (19:6.8) (97:1.4-5)
+	Dios exige un fidelidad total (102:6.1)
+	él confiere realidad de existencia a todos los demás seres (4:4.7)
+	El perdón divino es inevitable (131:2.11) (174:1)
+	el Dios viviente es la luz divina cuyas interrupciones constituyen las sombras de la creación (102:6.2)
+	Como fenómeno no espiritual Dios es energía, pero es difícil comprender su infinidad energética (3:2.3) (42:2.21)
+	Dios no adquiere experiencia como la del hombre pero disfruta de expansiones de autorrealización (1:5.14-16)
+	Dios da a sus hijos el espíritu y y unos dones y bendiciones apropiados (131:10.3) (144:2.4)
+	Dios es supremamente grande y bueno | Ver bondad:de Dios | (2:6) (28:6.21)
+	Es un misterio cómo Dios guía y dirige al hombre, pero sin imponerse (131:8.3)
+	ha creado tensiones en las creaciones que rodean el Paraíso (117:4.14)
+	en él vivimos, nos movemos y tenemos nuestro ser (1:1.2) (1:5.16) (2:1.11) (3:1.2,4) (12:7.12) (16:9.14) (111:5.2) (141:2.1) (174:3.2)
+	Dios es infinito y está repleto y completo, e incluye infinitamente a todas las cosas excepto el mal y la experiencia de la criatura (108:0.2)
+	Dios es espíritu e invisible para el hombre (1:3.1) (1:5.1-4)
+	Dios es un Padre (4:4.5) (54:6.2) (56:4.4) (141:4.1) (196:3.35)
+	Dios es amor (1:3.8) (2:5.1,10) (6:3) (8:4.2) (54:4.6) (56:10.20) (130:1.5) (134:4.1) (160:5.11)
+	Dios es justo y recto, y su justicia no hace acepción de personas ni aceptación de regalos (2:3)
+	sobre las leyes de Dios, conviene consultar la ley divina | Ver ley:divina
+	Dios ama a la humanidad y ayuda a los afligidos (12:7.8) (131:4.4) (131:5.3) (193:0.3)
+	Dios es perpetuamente misericordioso (2:4) (12:7.1)
+	Dios es la más ineludible de todas las presencias (102:7.10) (133:4.1)
+	Dios y el hombre se necesitan el uno al otro para cumplir el destino divino del universo (195:10.3)
+	Dios ni crea el mal ni permite el pecado y la rebelión (54:0.2)
+	nunca es vengativo o está enojado (2:6.7)
+	no hace acepción de personas (1:4.6) (2:3.1) (3:1.12) (12:7.1,8) (40:10.5,13) (64:6.27) (112:0.12) (117:6.22) (133:0.3) (137:8.6) (138:8.2) (140:3.16) (143:1.5) (148:6.2) (155:6.2) (156:2.4) (166:4.11) (175:2.1-3) (181:2.14) (192:2.2)
+	nadie es bueno sino Dios (196:0.9) (196:2.2)
+	nada nos separa de su amor (100:6.6)
+	Dios es omnipotente. Véase más sobre la omnipotencia de Dios | Ver omnipotencia
+	Dios es omnisciente. Véase más sobre la omnisciencia de Dios | Ver omnisciencia
+	Dios es el único hecho autocausado en el universo (102:7.1-3)
+	Aunque Dios es más que una personalidad elevada, en nuestra experiencia no puede ser menos que una persona (102:1.6) (102:7.3) (103:1.6)
+	el concepto más elevado de Dios es como una personalidad primordial e infinita (2:0.1)
+	Dios es infinito, es una realidad espiritual infinita (1:3.1) (1:5.1) (1:7.7) (2:1)
+	Dios es primordial en relación con la realidad total, y es personal como Padre Universal (0:3.9-11)
+	Sobre el propósito de Dios, véase el plan divino | Ver plan divino
+	Dios es la fuente, la naturaleza y el destino de todas las mentes (102:4.3)
+	Dios es la fuente y destino de todo lo que es bueno, bello, y verdadero (130:2.7)
+	Dios es espíritu (1:3.1,8) (6:1.2) (6:2.6) (9:2.1) (12:8.1) (134:4.2,7) (143:5.6) (160:5.11) (169:4.2, 6)
+	Él es el ideal supremo de la lealtad religiosa (160:5.4-6)
+	Dios es la verdad absoluta (102:6.6) (131:1.6) (131:4.6)
+	Dios es unidad. La Deidad está universalmente coordinada. (56:0.1) (56:1.4)
+	Dios no permitirá que nadie prive a otro del libre albedrío (54:1.9) (54:3.1)
+	Dios habita el momento presente, sin principio ni fin (2:2.1)
+	nuestro deleite supremo debería estar en el carácter de Dios (146:2.9)
+	Dios mira más allá del acto para descubrir el motivo (103:4.5) (140:6.4-5) (140:10.5) (166:1.4)
+Dios y el hombre
+	El hombre ha sido creado a imagen de Dios (1:3.1) (3:4.7) (6:5.7) (7:4.4) (10:3.1) (32:2.8) (74:7.20) (92:5.1) (117:3.5)
+	todavía mostramos cierta disposición a negociar con Dios (87:6.17)
+	Una persona sólo puede empezar a comprender la unidad de Dios mediante el enfoque de la personalidad (1:5.11)
+	Suceden grandes cosas cuando el hombre se asocia con Dios (132:7.9)
+	Dios no es solamente el que determina el destino; él es el destino eterno del hombre (5:4.3)
+conceptos erróneos sobre Dios (1:2.2) (4:5) (12:7.6) (102:6.3) (188:4.8) (188:5.1,11) (196:3.24)
+	las tribus antiguas cometieron muchas atrocidades ejecutadas en nombre de Dios (70:1.15)
+	todo lo inusual era atribuido a la intervención personal de Dios (75:4.8)
+	Dios no es un esclavo sujeto a hábitos (12:7.4,6)
+	Era creencia que Dios tenía celos del hombre, pero la realidad es que Dios está celoso por el hombre, no del hombre (4:3.1)
+	Dios no es un accidente cósmico (2:1.4)
+	El error del panteísmo es considerar que puesto que Dios no tiene cuerpo, por consiguiente no es una persona, pero la realidad es que la personalidad no requiere de cuerpo (1:5.12)
+	La creencia antigua establecía que Dios era alguien de una gran ira e intenso furor (142:2)
+	Experimentar a Dios puede ser totalmente válido, pero la disertación sobre Dios es divergente y a veces falaz (103:8.2)
+	Dios nunca es víctima de antagonismos de actitud (2:4.3)
+	nada puede sustituir a Dios en la sociedad humana (195:8.6)
+	la revelación de Dios siempre es parcial, relativa y progresiva (56:9.7) (142:2.2)
+	los reveladores sólo pueden explicar a Dios gracias a la ayuda de los Ajustadores y el Espíritu de la Verdad (2:0.3)
+	el alma concluye que el hombre no tiene derecho a no creer en Dios (101:1.7) (101:9.3)
+	para entender a Dios uno debe explorar los hechos universales (102:6.6)
+	Para la ciencia, Dios es una posibilidad; para la psicología, una cosa deseable; para la filosofía, una probabilidad; para la religión, una certeza (102:6.8)
+
+Dios de Acción | | Ver Espíritu Infinito | PERSONA | OK
+
+Dios Absoluto; Absoluto | (0:10.1-2) | | PERSONA | OK
+Dios Absoluto es el Absoluto de la Deidad existencial que se está volviendo experiencial, encontrando al Absoluto Incalificado, incidiendo en él y experimentando la identidad con él (0:2.18)
+se especula con una posible trinitización algún día de Dios Supremo, Dios Último y Dios Absoluto (0:9.4) (0:12.8)
+definido como
+	es una inevitabilidad divina (0:12.4)
+	la realización experiencial de la divinidad absoluta (0:10.1)
+	la unificación experiencial de los tres Absolutos como uno solo (106:8.17)
+	es el Dios de los valores superpersonales trascendidos, existencial como Absoluto de Deidad pero que se está volviendo experiencial (0:2.18)
+	la actualización de Dios Absoluto sería la consecuencia de la unificación de la Trinidad Absoluta, la realización experiencial de la divinidad absoluta (0:10.1) (106:8.16)
+
+Dios el Padre | | Ver Padre Universal | PERSONA | OK
+
+Dios Séptuple; Deidad Séptuple; El Séptuple | (0:8) (56:5.3) (56:6.1) (116:2) | | PERSONA | OK
+Dios Séptuple es la divinidad compuesta por (56:5.3) (116:2.4-11)
+	* Los Hijos Creadores y los Espíritus Maternos de los universos locales
+	* Los Ancianos de los Días
+	* Los Siete Espíritus Maestros
+	* Ser Supremo
+	* El Espíritu Infinito
+	* El Hijo Eterno
+	* El Padre Universal
+Los Hijos Creadores son las focalizaciones finales del poder y de la personalidad de los poderosos atributos espacio-temporales de Dios Séptuple (33:1.3)
+Dios Séptuble es la personalidad de la Deidad funcionando en cualquier parte del espacio-tiempo (0:2.16)
+Los tres primeros niveles, los Espíritus Maternos, los Ancianos de los Días y los Espíritus Maestros, son conocidos como Creadores Supremos del tiempo y el espacio (31:9.14) (36:6.7) (56:6.1-2) (106:3.2) (106:5.2) (115:4.7) (116:2) (116:4.2) (117:1.2) (117:3.7) (118:0.9) (118:4.7)
+La unión de los Creadores Supremos, el Ser Supremo y los Arquitectos Maestros son los miembros de la primera Trinidad experiencial (31:9.14) (106:3.2)
+el Séptuple abarca a los controladores así como a los creadores del gran universo (116:5.1-9)
+el Padre Universal ha establecido siete niveles sucesivos de acercamiento a la Deidad (0:8.1-8)
+el Supremo no es completamente real para las criaturas pero es real para Dios Séptuple (117:7.5)
+funciones
+	mantiene el control del poder-energía-materia (42:2.14)
+	integra lo perfecto, lo perfeccionado y lo que está perfeccionándose (105:6.5) (106:1.2-4)
+	el hombre mortal parece ser necesario para la función completa de Dios Séptuple (116:4.12)
+	proporciona un acercamiento progresivo a la revelación de la personalidad del Padre (56:7.8) (105:7.17)
+	los Siete Espíritus Maestros parecen coordinar las actividades de Dios Séptuple (17:8.3)
+	El Séptuple es, en todas las fases, la fuente de la unidad relativa de la realidad funcional del gran universo actual (106:1.4)
+
+Dios el Hijo | | Ver Hijo Eterno | PERSONA | OK
+
+Dios el Espíritu | | Ver Espíritu Infinito | PERSONA | OK
+
+Dios el Supremo | | Ver El Supremo | PERSONA | OK
+
+Dios Último; Último; El Último; Deidad Última | (0:9) | Ver realidad:niveles de realidad:realidad absonita | PERSONA | OK
+Los tres Absolutos están coordinados en el Último (56:9.1)
+El Ajustador es el secreto del logro trascendental del Último (101:6.2)
+presagia el sobrecontrol trascendental en las etapas más tardías de la luz y la vida de un universo local (56:7.5)
+tuvo un comienzo pero no tendrá fin (0:9.5)
+participa en la manifestación de la energía emergente (42:2.13)
+el Último está presente en Havona en sentido absonito y superpersonal (14:6.29) (106:4.3)
+las actividades del Último provocan reacciones impredecibles en las realidades universales emergentes (12:6.6)
+el Supremo es indispensable para el surgimiento del Último (118:0.9)
+El Último transforma los potenciales indiferenciados en planes separados y definidos (118:4.6)
+Lo que se dice del Último
+	es la deidad consecuencia de la unidad de la divinidad trascendental y absonita (106:8.15)
+	Deidad omnipotente, omnisciente y omnipresente (0:1.10,12)
+	es una de las inevitabilidades divinas (0:12.4) (115:7.6)
+	Dios el Último es el Dios del supertiempo y del espacio trascendido (0:2.17)
+	se manifestará a los universos del tiempo como el Todopoderoso trascendental, el Omnipotente (118:2.4)
+	es miembro de la segunda Trinidad experiencial (106:5.1)
+	es la unificación absonita supersuprema de la primera Trinidad experiencial (0:9.1-2) (0:12.6)
+	es la personalización del poder trascendental de todo el universo maestro (106:4.2,4)
+	trasciende el tiempo y el espacio (1:7.7)
+	Dios Último designa a la Deidad personal que representa la unificación de la Trinidad tal como la comprenden los seres absonitos (0:9.2) (10:8.2)
+	es una deidad totalmente experiencial (0:7.5)
+relación con la Trinidad del Paraíso y otros seres
+	El Espíritu Infinito parece compensar la incompletitud de Dios el Último (9:1.6)
+	La Trinidad colabora con Dios Último, pero no como deidades individuales (10:7.3)
+	los finalitarios enfrentan el desafío de Dios Último (27:7.10)
+	al igual que el Supremo está asociado con los finitos, el Último está identificado con lo trascendental, con lo absonito (105:7.3-5)
+	Los Trascendentales están sujetos a Dios Último (31:8.3)
+	se cree que el Último dotará a los midsonitarios del espíritu trascendental y eterno de la absonidad (36:4.8)
+futuro
+	la unificación del universo maestro es el acto existenciador del Último (10:8.2)
+	está o estará presente en algún momento en el margen exterior del cuarto nivel del espacio (12:6.13)
+	una posible unión futura de los Hijos Creadores y los Espíritus Creativos puede suponer un nueva manifiestación no reveleada de la Deidad Última (118:9.8)
+	La Trinidad Última activará la presencia en vías de existenciarse del Último (106:4.1-4)
+
+Godad | | | PERSONA | OK
+Godad fue ermitaño salemita a quien Gautama debería haber escuchado para haber convrtido al budismo en una religión mejor (94:7.4)
+
+Deidades | | Ver Hijo Eterno; Espíritu Infinito; Padre Universal | PERSONA | OK
+Se refiere a
+	# El Padre Universal
+	# El Hijo Eterno
+	# El Espíritu Infinito
+
+semejanza a Dios | | Ver crecimiento espiritual | | 
+
+dioses y diosas | | | PERSONA | OK
+evolución en la consideración de los dioses
+	los primeros dioses eran seres humanos difuntos glorificados (87:3.1)
+	Los primitivos consideraban al personal del Príncipe como dioses (66:4.1)
+	Los arios tenían 33 deidades (94:1.2-3)
+	Las ciudades sumerias no se federaron por el celo que tenían de sus deidades, que siempre consideraban por encima de las demás (78:8.7)
+	las proyecciones del intelecto humano pueden originar dioses falsos a imagen del hombre (196:3.23)
+	el progreso de la ciencia aumenta la mortalidad de los falsos dioses (102:6.1)
+nombres de dioses
+	dioses nombrados en El Libro de Urantia | Ver Agni; Ahura-Mazda; Anu; Afrodita; Apolo; Artemisa; Astaroth; Asur; Astarté; Atón; Atis; Augusto; Baal; hadas malignas; Belo; Belo-Marduc; Brahma; Brahmán; duendes; Buda; centauros; Quemos; Cibeles; Dagón; Dafne; Devoradora; Dionisio; dragón; enanos; Dyaus pitar; Ea; El; El Shaddai; hadas; Destino; destinos; Gran culto a la Madre; Hestia; Horus; Indra; Istar; Isis; Jehová; Juno; Júpiter; Marduc; Marte (dios); sirenas; Minerva; Mitra; Nabu; Neptuno (dios); Nereidas; dios del Nilo; Nog; Osiris; Pandora; Prajapati; Prometeo; Ramán; Sakya-Muni Buda; Set (dios); Samas; Shang-ti; Sin (dios); Siva; Sol Invictus; Soma; Thor (dios); Thot; Trimurti; Venus (diosa); Vesta; Vichnú; Yahvé; Zeus
+
+oro | | | | 
+primer metal buscado por el hombre (81:3.4-5)
+los hombres viajan a los confines de la tierra para (63:5.6)
+producto de los flujos de lava en las Sierras (60:3.3)
+cuando me pruebe, saldré como (3:3.2)
+
+edad de oro | | | | 
+edades de luz y vida | Ver luz y vida
+creencia errónea en la existencia única de la edad de oro; creencia desalentadora (68:1.7) (74:8.13-14)
+terribles condiciones antisociales para los primitivos (81:5.4)
+los tiempos de Onagar fueron la edad de oro para el hombre primitivo (63:6.9)
+La tradición del Edén dio sustancia a un sueño de una vez (89:2.3).
+
+becerro de oro | | | | 
+antiguo símbolo de Yahvé plagó a Moisés (96:4.3)
+simboliza el concepto de los pastores beduinos del volcán Sinaí (96:1.12) (96:5.8)
+
+regla de oro | (52:5.8) (101:8.4) | Ver mandamientos | | 
+los adherentes deben mantener una defensa adecuada (71:4.16-17)
+Se enseñó a los andonitas (70:1.2)
+basado en un valor infinito de finito (196:2.10)
+clama contra el fraude, la injusticia, el egoísmo y la injusticia (54:1.8)
+niveles de (140:5.1) (147:4)
+literalmente interpretado, la regla de oro puede convertirse en una gran ofensa (180:5.5)
+viviendo la regla de oro
+	Los seres éticos y morales pueden aprender a vivir la regla de oro (50:5.8)
+	reafirmado por Jesús exige un contacto social activo (140:10.5) (159:5.16) (178:1.12)
+	conocimiento espiritual esencial para (52:6.5)
+	entendido solo viviendo (180:5.11)
+mala interpretación de la regla de oro promovió el culto a los insectos (85:3.4)
+la religión revelada enfatiza (101:5.11)
+declaraciones de la regla de oro (118:8.10)
+	haz con los demás lo que te gustaría que te hicieran a ti (131:2.11) (131:3.6) (131:4.6) (131:9.4) (131:10.7)
+	amor por el padre, amor entre los hijos (142:7.4) (163:4.8)
+	amar a los demás como Jesús nos amó (147:4.9) (180:5.5-11)
+enseñado en el Jardín del Edén (74:7.5,18)
+
+Gólgota | | | LUGAR | 
+Jesús en (186:0.2) (187:1)
+sitio oficial de crucifixión de Jerusalén (187:1.4)
+
+Goliat | | | PERSONA | OK
+El gigante que mantuvo un duelo con David (70:1.19)
+
+Gomorra | | | LUGAR | 
+narraciones inventadas relacionadas con la destrucción (93:6.7) (93:8.1)
+
+Gonod | | | PERSONA | OK
+Gonod es un hombre de negocios indio con quien Jesús viajó a Roma junto a él y su hijo Ganid (130) (132) (133) (129:2.9)
+realizó 3 viajes a China aparte del viaje que hizo junto a su hijo y Jesús (130:0.6)
+
+bueno | | Ver bondad | | 
+
+buenas noticias | | Ver evangelio | | 
+
+buen samaritano | | | | 
+parábola de (164:1)
+
+buen Pastor | | | | 
+Jesús fue (182:1.16)
+sermón sobre (165:1.2) (165:2)
+
+bondad | | Ver verdad, belleza y bondad | | 
+todas las cosas funcionan juntas para bien | Ver providencia | (4:1.4,11) (10:7.5-6) ​​(48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
+y el mal (4:2.6) (130:1.5-6) ​​(132:2) (159:5.10)
+intento de servicio de la bondad no sustituye a la experiencia religiosa (196:3.23)
+basar la vida en la conciencia más elevada de (110:3.7)
+no puede venir del mal al malhechor (54:4.7)
+concepto no inherente a la física (195:6.11)
+definido como
+	llevando a cabo planes divinos (75:4.3)
+	máximo finito de experiencia (102:3.15) (117:1.7)
+	fruto del espíritu (34:6.13) (193:2.2)
+	salud del alma (98:2.6)
+	vivo, relativo, contrastado con el mal, siempre una experiencia personal (132:2.3-7)
+	el esfuerzo del hombre por discernir a Dios en espíritu (56:10.2)
+	cercanía a la divinidad (3:6.2) (56:10.12)
+	revelación de la Deidad, valores infinitos (56:10.9-10)
+	mostrado en el ministerio amoroso de Padre, Hijo, Espíritu (56:10.17-18)
+	estabilizador (2:7.12)
+	comprensible solo en relación con la personalidad (1:7.3)
+	realización de valores de la conciencia de Dios (111:3.7)
+divinidad comprensible como (0:1.17)
+bondad de Dios (2:6)
+	Beneficencia hacia los justos y los impíos (131:5.2)
+	más allá de la comprensión del hombre (4:3.6)
+	encontrado solo en la experiencia religiosa personal (2:6.1)
+	La mayor evidencia es el Ajustador residente (2:5.5)
+	lleva a los hombres al arrepentimiento (2:6.3) (48:6.8) (131:10.4) (143:2.7) (149:6.4)
+la bondad indiscriminada causa muchos males sociales (140:8.13)
+Jesús exaltó la bondad ordenando el desempeño (127:4.2)
+Jesús anduvo haciendo el bien (100:7.8) (159:5.10) (171:7.9)
+comprensión del hombre de la bondad solo relativamente cierto (115:1.2)
+más una misión que una posesión (132:2.8)
+naturaleza de la bondad
+	El acto es potente en proporción a la divinidad de la motivación (48:6.7)
+	toda bondad tiene su origen en el Padre (8:2.7)
+	hazte bueno por la gracia (28:6.22)
+	todo lo bendice, no daña nada; busca los lugares más bajos (131:8.3)
+	no se puede divorciar de la grandeza (28:6.21) (56:10.12) (100:7.17)
+	destruye el mal (188:5.2)
+	gramo. puede derivarse del mal de tiempo limitado (54:6.6-10)
+	formas más altas de bondad están inconscientes (140:8.26) (170:3.9)
+	Los gustos y disgustos humanos no determinan la bondad (100:3.2)
+	ningún acto bueno se pierde por completo (48:6.7)
+	comprensible en contraste con el mal (4:3.6)
+	unificado con la belleza, la verdad y la justicia (44:7.2-4)
+	cuando carece de gracia, la bondad a menudo repele (171:7.2)
+nadie es bueno sino Dios (196:0.9) (196:2.2)
+devolver bien por mal (140:2.15) (140:6.9)
+búsqueda sincera de la bondad conduce a Dios (195:6.17)
+
+topos | (61:2.7) | | | 
+
+Gofna | (143:0.1) | | LUGAR | 
+Jesús predicó a gente de este lugar
+
+gorilas | (61:3.12) (62:5.2) | Ver simios | | 
+los mamíferos intermedios retrasados ​​eran antepasados ​​de (62:3.12)
+
+evangelio | | Ver hijos de Dios por la fe; Jesús:enseñanzas; reino de los cielos; religión; verdad | RAZA | 
+la aceptación del evangelio mejora inmediatamente la vida en el hogar (177:2.6)
+los creyentes deben amar el evangelio más que madre, padre, esposa, esposo, hijos o hermanos (150:4.3) (163:3.4) (171:2.2)
+creyentes no confiables a menos que el evangelio experimentado en el corazón (177:5.2)
+pertenece a todos los que creen, no meramente a los sacerdotes (191:6.3)
+la gente común escucha con gusto (173:3.2) (174:4.7) (196:1.4)
+difícil de perpetuar antes de la impresión (93:7.4)
+no intente encajar en las viejas formas de creencia religiosa (138:5.2) (140:6.2) (147:7.2-3)
+dominado por la convicción de la verdad (180:5.12)
+evidencia de creencia en el evangelio se muestra el amor unos a otros (182:1.6)
+explicado | Ver religión:explicado
+	se aplica al individuo, no al estado (140:8.5) (145:2.10)
+	por la fe todo mortal puede tener la salvación (140:10.9)
+	por la fe volviéndose consciente del espíritu de la filiación con Dios (140:10.4,7) (141:4.2) (142:3.8) (181:2.12,18) (186:5.4)
+	rasgos cardinales (170:4.8-13)
+		santidad del individuo (138:8.9) (140:8.11) (140:10.5) (144:6.3) (170:3.10-11) (170:4.9) (171:7.4) (194:3.7) (195:1.1 )
+		satisfacciones del servicio amoroso | Ver servicio | (170:4.12)
+		comunión espiritual con el Padre | Ver comunión espiritual; crecimiento espiritual; renacimiento espiritual | (170:4.11)
+		lo espiritual es trascendente sobre lo material (170:4.13).
+		voluntad como factor determinante | Ver consagración de elección; decisiones; voluntad | (170:4.10)
+	filiación divina, libertad espiritual, salvación eterna (152:5.6)
+	ayuno que no forma parte de (147:7.2)
+	paternidad de Dios, filiación-hermandad de los hombres (92:5.16) (94:4.10) (132:4.2) (142:7.4) (143:1.7) (143:6.6) (149:2.4) (191:4.4) (192:4.7) (193:0.4) (194:0.3-4) (195:10.21)
+	fundada en el hecho de la vida reveladora de Dios de Jesús (191:5.3)
+	amistad con Dios (159:3.9)
+	don de vida eterna recibido por fe (191:4.3)
+	Dios es Padre, somos sus hijos; creer que esto es salvación (141:6.2,4) (141:7.4) (147:3.3)
+	Las enseñanzas de Jesús, no su personalidad (166:0.2) (170:5.19)
+	gozo y libertad del nuevo reino (136:0.2) (170:2.1-2)
+	amor al Padre y servicio a sus hijos (142:4.2) (178:1.4) (193:0.4)
+	no depende de la muerte o resurrección de Jesús (138:6.3) (186:5.4) (193:2.2) (194:0.3,7) (194:4.4-5)
+	revelación de la bondad de Dios (150:5.5)
+	salvación por fe solamente; libertad a través de la verdad (140:10.1) (141:7.6) (150:5.2) (157:2.2) (163:2.4) (170:2.20-22)
+	busca primero el reino de Dios y su justicia (140:1.5)
+	El Sermón de la Montaña no es el evangelio (140:4.1)
+	solvente para las dificultades espirituales (194:2.1)
+	verdad, belleza, bondad, amor y adoración significativa como compañerismo con el hombre, filiación con Dios (99:4.4)
+	revela verdades del ser (146:3.1)
+libera a los hombres de las cargas de la religión formal (162:2.2) (170:2.1-2)
+el que niega a sabiendas el evangelio será negado por los ángeles (165:3.5)
+escondido de los sabios y los santurrones (163:6.3)
+infeccioso en su poder transformador (159:3.10)
+Jesús habita en todos los que creen en su evangelio (164:5.3)
+dejado como lo presentó Jesús, todas las religiones habrían aceptado (149:2.1)
+lealtad al evangelio depende de un entrenamiento temprano en casa sólido (177:2.2)
+Proclamados los receptores de Melquisedek evangelio a Adán (76:5.1)
+mensajeros | Ver apóstoles de Jesús; discípulos; setenta evangelistas; cuerpo de mensajeros (de David Zebedeo)
+debe mostrar una vitalidad creciente, profundidad de poder espiritual (178:1.15)
+proclamando el evangelio | Ver gobierno:relación de los creyentes con; reino de los cielos:establecimiento
+	otorgar un reconocimiento generoso (159:3.3)
+	toda Urantia esperando (94:12.7)
+	Permitir que los maestros apostólicos enseñen sus propios puntos de vista (148:1.2)
+	respetar siempre la personalidad del hombre (159:3.2)
+	acercarse a otros reconociendo verdades comunes (149:2.5)
+	evitar
+		apelar al miedo, la mente, la histeria religiosa, la emoción, la piedad o el sentimiento (152:6.2-4) (159:3.2,5)
+		situaciones artificiales (136:8.8) (137:6.5) (140:1.5)
+		atacar las viejas costumbres, reformar las costumbres; en lugar de agregar una nueva verdad (95:1.6-9) (132:0.4) (141:6.2) (178:1.16)
+		enredarse en la política (120:3.4) (137:7.5,12) (139:11.9) (140:8.9) (167:5.6)
+		deshonestidad, injusticia, tácticas innobles (125:5.8) (128:4.7) (149:4.5) (156:5.19) (166:4.12)
+		detalles que distraen, lenguaje florido (159:5.14)
+		desviar la devoción de un deber de proclamar el evangelio (141:7.4) (163:4.5) (178:1.11) (192:2.12)
+		simpatía falsa; autocompasión; mera comunión en la miseria; retener la piedad de los cobardes y los que se rinden (159:3.11)
+		identificarse con una raza, cultura, sistema político particular (140:8.9-31) (140:10.6) (142:7.17) (194:3.9)
+		permitirse el sarcasmo o el cinismo (159:3.4)
+		argumentos, apelaciones o milagros abrumadores (129:3.5) (136:6.6) (136:8.2) (159:3.2)
+		promover la causa justa por la fuerza (152:6.2-4) (159:3.2,5) (178:1.2-3,6)
+		exigir que los hombres conscientes de Dios rechacen su liderazgo histórico (99:5.11)
+		esforzarse (141:6.4) (178:1.16) (181:2.5)
+		subordinación del evangelio al ministerio físico (145:5.1-7)
+		sustituyendo maravillas y sanación (147:3.2)
+		uso de la ley o la fuerza para obligar (16:7.9) (178:1.3,6,12)
+	ser agresivo, sin miedo, incluso hasta los confines de la tierra (143:1.9) (178:1.14,16) (192:2.11-12) (195:10.1)
+	Sea audaz y enfático (141:7.8) (155:1.3)
+	ser más cortés, menos estricto en los requisitos sociales colaterales (95:7.3)
+	haciendo o respondiendo preguntas (132:4.2)
+	no puede revelar a Dios a los que no buscan (132:7.1,2) (153:3.5)
+	desafiar la incertidumbre de los incrédulos con una fe profunda y
+	certeza (103:8.5)
+	chocan solo cuando los gobernantes se lanzan en camino del evangelio (138:5.4) (178:1.16)
+	recompensas diferidas inherentes al servicio por la verdad (28:5.17)
+	deber de aquellos que conocen las realidades espirituales (142:6.6)
+	esfuerzo acompañado de diversos grados de éxito (151:2.6)
+	emplear analogías, historias reales para ilustrar una verdad central, no fábulas o alegorías (151:2.5) (151:3.3)
+	El grado en que la necesidad de ir a la gente revela la falta de una vida recta (163:7.2)
+	no temas a los que pueden matar el cuerpo (150:4.2)
+	Primero consiga al hombre con seguridad dentro del reino (141:6.2-4)
+	libremente has recibido, da gratis (159:1.5) (176:3.10) (193:0.5)
+	ir a todo el mundo, a cada hombre, mujer y niño (93:4.4) (94:7.2) (95:7.3) (100:7.6) (140:9.2) (163:4.2) (165:6.3) (182:1.5) (190:3.1) (190:4.1) (191:1.2) (191:4.4) (191:5.3) (191:6.3) (192:2.11-12) (193:0.5) (193:1.2 ) (193:2.2) (193:3.2) (193:5.2)
+	instrucción para maestros y creyentes (159:3) (178:1)
+	vivir para llevar a otros a investigar (130:2.4) (132:7.2) (140:1.7) (141:7.3) (155:1.5) (182:1.6) (191:6.2)
+	prever su propio apoyo (180:0.2)
+	la moralidad se difunde mediante la fragancia moral (16:7.9)
+	Ya no te preocupes por las órdenes de abstenerse (142:4.2)
+	ningún requisito de suscribirse a cosas repugnantes, impías o falsas (155:6.5)
+	la única ley a obedecer es el mandato de predicar el evangelio (192:2.11)
+	la predicación persistente resultará en una liberación increíble (178:1.9)
+	la experiencia personal con Dios es solo una prueba positiva (1:2.8)
+	predicar a todos sin temor ni favor (102:7.6) (143:1.5) (192:2.2)
+	proclamar el reino no solo con palabras sino con la vida (140:1.7)
+	proclamar toda la verdad, no solo una parte (193:0.4)
+	promulgar el evangelio solo por el poder del espíritu (152:6.2-4) (159:3.2,5) (178:1.2)
+	los destinatarios sintieron que estaban conferenciando con Jesús, no confesándole (171:7.5)
+	reiterar mensaje (166:4.12) (178:1.9)
+	reformular la forma de expresión a medida que se revisa el lenguaje (99:1.6)
+	Se necesitan segundas millas (195:10.5)
+	mostrar diligencia en ganar almas (169:2.2)
+	El Espíritu de la Verdad da un fuerte impulso a proclamar (194:0.1)
+	las experiencias espirituales no convencerán a los incrédulos (1:6.6)
+	predicador extraño no debe ser prohibido (159:2.1)
+	presentación del traje a la audiencia (133:4.2) (151:3.1) (191:4.4)
+	los que dan vida a la proclamación del evangelio vivirá por el evangelio (140:6.13) (165:5.2-3)
+	futuro incierto y problemático en la proclamación del evangelio (155:5.13)
+	abrir el apetito de los asociados por la verdad (48:7.16)
+triunfará y será proclamado a todas las naciones (142:2.2) (143:1.4) (176:1.1)
+
+Evangelio de Juan | | Ver Juan Zebedeo:Evangelio de Juan | | 
+
+Evangelio de Lucas | | Ver Lucas:Evangelio de Lucas | | 
+
+Evangelio de Marcos | | Ver Juan Marcos:Evangelio de Marcos | | 
+
+Evangelio de Mateo | | Ver Mateo Leví:Evangelio de Mateo | | 
+
+chisme | | | | 
+no hables de oídas (138:8.4)
+
+gobierno | | Ver civilización; nación continental; tribunales; instituciones; legislaturas; naciones; patriotismo; policía; regulación (gubernamental); soberanía; impuestos | | 
+Adán no pudo establecer gobierno fuera del Edén (74:5.5-7)
+la relación de los creyentes con
+	no permitirse tropiezos (157:1.2,4)
+	estar sujeto al gobierno; observar lo esencial de la ley (140:8.9) (175:1.8) (177:3.7)
+	conflicto cuando los gobernantes requieren una adoración que pertenece solo a Dios (133:4.3) (178:1.3) (181:2.10)
+	discurso sobre la filiación y la ciudadanía (178:1)
+	Jesús prohibió a los apóstoles involucrarse en política (120:3.4) (137:7.5,12) (139:11.9) (140:8.9) (167:5.6)
+	no haga denuncias del gobierno (138:5.4) (178:1.16)
+	Nunca identifique las enseñanzas de Jesús con ningún sistema político (140:8.9-31) (140:10.6) (142:7.17) (194:3.9)
+	persecución por dictadores religiosos (178:1.9)
+	entregar al César lo que es del César (140:8.9) (156:5.16) (174:2.2) (178:1.3) (181:2.10)
+	responsabilidad y moralidad de la ciudadanía cósmica (39:4.9)
+	buscar ganar todas las partes; no ser de ninguno (137:7.5,12)
+	El espíritu les enseñará a los creyentes cómo responder a los jueces (176:1.1)
+gobierno celestial | Ver Urantia:gobierno celestial
+	asuntos de todos los mundos supervisados ​​divinamente (3:1.1)
+	El padre gobierna a través de sus hijos (3:5.1-2)
+	niveles de dominios especiales de responsabilidad asignados (33:6.3)
+	ninguno en Havona (14:3.1-2) (14:5.3)
+	no siempre es posible distinguir las administraciones de Padre e Hijo (6:8.3)
+	administración espiritual del Hijo Eterno en superuniversos no discernibles por las criaturas (7:2.4)
+democracia
+	peligros de (71:2.1-6)
+	las elecciones son la forma correcta incluso de hacer cosas incorrectas (71:2.8)
+	fetiche hecho de (88:3.4)
+historia del gobierno | Ver civilización | (70) (71)
+	abolición de la esclavitud (71:8.5)
+	administraciones antiguas solo cambiadas por la guerra civil (70:7.17)
+	comienzos (70:5)
+	carácter de las personas reflejado en la estadidad (71:8.1)
+	comunismo
+	consejos de ancianos (70:5.2)
+	El peligro de agresión externa estimula el desarrollo del estado (79:8.1)
+	desarrollo; a menudo inconsciente (70:0.2-3) (71)
+	desarrollo de la industria y la propiedad privada necesaria (69:9.17) (70:0.1)
+	los dictadores prevalecieron en el gobierno primitivo (70:12.2)
+	los primeros estados fueron todos resultado de la conquista (71:1.2)
+	Los iroqueses carecían de lo esencial del gobierno moderno (71:1.3-11)
+	gobierno monarcal (70:6)
+	en el planeta vecino (72)
+	Onagar instituyó una tribu eficiente (63:6.8)
+	origen del poder ejecutivo (70:5.5-9)
+	originalmente fuerte contra débil (70:7.17)
+	los débiles e inferiores siempre insisten en que el estado obliga a otros a satisfacer sus necesidades (70:9.16)
+los órdenes sociales inferiores ya no son políticamente indefensos (99:1.5)
+directores ejecutivos mortales en luz y vida (55:4.15)
+Los Altísimos gobiernan en reinos de hombres (3:5.2) (43:3.4) (43:9.4) (50:2.6) (52:3.11) (97:8.5) (134:5.4) (136:9.6) (175:1.8) (175:3.2)
+principios de gobierno | Ver competencia; tribunales; derechos humanos; industria; justicia; ley; militar; lucro; impuestos | (70) (72)
+	abolición de la esclavitud (71:2.10)
+	la adjudicación es la función más alta del gobierno (22:4.3)
+	el mejor gobierno es el equilibrio de poder entre los poderes ejecutivo, legislativo y judicial (70:12.1) (71:8.1)
+	donación de honores en estado ideal (71:3.12)
+	cuidado de los desafortunados (71:4.10)
+	coordinar la mayoría y gobernar menos (71:3.9) (71:5.2)
+	educación obligatoria (71:4.7) (71:8.7) (72:4.1)
+	empleo obligatorio (71:3.7) (71:4.8) (72:6.4,6)
+	conquista de dialectos (71:8.12)
+	control de los servidores públicos (71:2.18)
+	control de la recaudación de impuestos (71:8.6)
+	ideal divino para gobierno debe ser descubierto lentamente (70:12.20)
+	educación (71:2.11)
+	efectivo solo cuando el poder conferido a una persona (70:6.1)
+	igualdad de oportunidades ante la ley (81:5.6)
+	los elementos esenciales son la libertad, la seguridad, la educación, la coordinación social (71:1.3-11) (71:3.1)
+	la ética es semilla y secreto del crecimiento con propósito (39:3.7)
+	federalismo (71:8.8) (72:2.1)
+	fundada en la justicia (132:4.8)
+	libertad de expresión (71:2.13)
+	gramo. desaparece en luz y vida (52:7.5) (55:3.2) (55:5.4)
+	gramo. empleados privados de sus derechos en la nación continental (72:9.4)
+	gramo. puede emplear la fuerza; pena de muerte (133:1.5) (133:4.12) (140:8.4) (178:1.2)
+	el gobierno ideal es orgánico (72:9.7)
+	el estado ideal tiene pocas leyes (71:3.7)
+	ideales de la estadidad (70:9.17) (71:3)
+	en nación continental (72:2)
+	libertades individuales (70:12.5) (71:4.3) (71:8.4)
+	representación inteligente y entrenada (71:2.19)
+	Jesús no enseñó las reglas de gobierno (140:6.6)
+	hombres y mujeres ocupan puestos conjuntamente en luz y vida (55:3.9)
+	nación condenada si la mayoría de los votantes son inferiores (72:9.8)
+	la supervivencia nacional exige preparación militar (71:4.17)
+	no lo que gobierno es, pero qué gobierno ¿Eso importa? (71:3.1)
+	del pueblo, por el pueblo y para el pueblo (71:2.19)
+	El único rasgo sagrado es la división en funciones ejecutivas, legislativas y judiciales (71:8.1,3)
+	prevenir gobierno de volverse parásito o tiránico (71:5.2)
+	promoción de la ciencia y el arte (71:4.12)
+	protección del hogar (71:4.4)
+	mejora de la raza (71:4.11)
+	reino de la ley, no capricho de los gobernantes (71:2.12)
+	representante gobierno es el ideal divino de autogobierno (45:7.3) (52:4.6) (70:12.1-2)
+	derecho de petición (71:2.15)
+	derecho a gobernar (71:2.16)
+	seguridad de la propiedad (71:2.14)
+	igualdad de sexos (71:8.10)
+	debe fomentar la ciencia, vencer la enfermedad (71:8.9,11)
+	debe brindar oportunidades justas y pacíficas para todos (70:9.17)
+	programas de bienestar social | Ver caridad:por el gobierno
+	etapas de evolución de gobierno; libertades requeridas (71:2.9-19) (71:8.2-15)
+	El estado más fuerte tiene un lenguaje, costumbres e instituciones comunes (71:1.1)
+	El sistema sólo tiene valor si mejora el bienestar del individuo y la humanidad (134:5.2).
+	en última instancia de, por y para toda la humanidad (134:5)
+	sufragio universal (71:2.17)
+	Conferencias de Urmia (134:5-6)
+	advertencias
+		evitar el control de dictadores (70:12.12)
+		evitar la dominación de minorías viciosas (70:12.11)
+		no puede establecer la justicia mediante leyes (152:6.2-4) (159:3.2) (178:1.12)
+		ciudadanos que no nacieron en beneficio del estado (71:0.2) (134:5.16)
+		peligros que deben evitarse (70:12.6-12)
+		gramo. no puede ser dirigido por una sociedad de debates (70:5.5)
+		la ociosidad y la pobreza no deben tolerarse (71:3.8)
+		la ignorancia, el egoísmo aseguran la caída de cualquier gobierno (71:3.1)
+		no gobierno puede perdurar sin proteger el derecho a la propiedad (71:2.14)
+		ningún gran cambio social o económico debería efectuarse de repente (81:6.40)
+		Los impuestos y la regulación opresivos interfieren con las libertades individuales (70:12.15) (134:6.10)
+		el secularismo vende al hombre a la esclavitud del totalitarismo (195:8.4)
+		Iglesia y estado separados (70:1.14) (70:12.17) (71:8.4) (72:3.6) (178:1.9)
+		el hombre subnormal debe mantenerse bajo el control de la sociedad | Ver eugenesia; inferiores | (68:6.11)
+		por qué declinó el Imperio Romano (71:1.22) (195:3.8-9)
+		la nación sabia sabe cuándo dejar de crecer (81:6.12)
+autogobierno
+	Órdenes celestiales en las que sus propios miembros participaron en su propia creación elegible para (35:1.3)
+	tipo más alto de representante gobierno (52:4.6)
+	la soberanía es característica del estado verdadero (71:1.23)
+el estado es una organización territorial social reguladora (71:1.1)
+estado de civilización representado por el calibre de ciudadanos que aceptan responsabilidades de (71:3.10-12)
+gobierno mundial
+	Adán trató de establecerse, pero falló (74:5.5)
+	creación (71:8.13)
+	los gobiernos nacionales confían la soberanía para los asuntos internacionales en (134:5.13-15) (134:6.8-11) (134:6.10)
+	la paz no puede prevalecer hasta la creación de (72:12.5) (134:5.12)
+	soberanía de la humanidad en su conjunto (134:5.2,5)
+	verdadera democracia bajo (134:6.11)
+
+gobernador general | | Ver gobernadores generales residentes | | 
+
+gobernadores de las relaciones tribales avanzadas | | Ver cien de Caligastia | | 
+
+gracia (la misericordia de Dios) | | Ver misericordia | | 
+avance en todas las fases de la experiencia religiosa (102:2.4)
+y el esfuerzo individual logra la perfección (32:3.9)
+convertirse en hijos de Dios por (144:4.3) (144:5.13)
+la necesidad de la criatura es suficiente para invocar la plena misericordia de Dios (2:4.2,4)
+potencia el rendimiento (144:5.72)
+pocos mortales obtienen créditos de personalidad disponibles (48:7.6)
+crecer en gracia por fe viva (147:8.5)
+generoso crédito de misericordia establecido para la supervivencia de todos (28:6.5)
+los sobrevivientes disfrutan de una oportunidad extendida de logro espiritual interrumpido por la muerte (45:7.1)
+lapso de tiempo entre el pecado y la pena (54:3.2) (54:4)
+
+gracias (oración antes de comer) | | | | 
+Jesús rara vez se descuida (143:3.4)
+método primitivo (87:2.9)
+
+gracia | | | | 
+aroma de amistad del alma saturada de amor (171:7.1)
+
+gradant | | | | 
+Medida de peso Jerusem; equivale a 10 onzas de Urantia (46:1.2)
+
+Guías de los Graduados | (24:6-7) | | ORDEN | 
+entre las personalidades superiores del Espíritu Infinito (26:6.1)
+se transforman en abrazo divino (24:7.2-3)
+ejemplo de Sudna (24:7.5)
+Ayuda de Servitales de Havona (25:1.5-6) ​​(26:7.4)
+en registros de personalidad (30:1.77) (30:2.73)
+Malvorian fue el primero (24:6.4-6)
+ministro en todos los circuitos de Havona (26:6.1)
+nunca abandone Havona (24:0.10) (24:6.9)
+peregrinos piloto a través de los mundos de Havona; permanecer con el mismo peregrino en todo momento (24:6.1,3) (26:10.7)
+programa de entrenamiento para (25:1.5)
+Servitales de Havona transformados (24:7.1-7) (25:1.7)
+
+injerto | | | | 
+determina la naturaleza de la fruta (102:7.4)
+
+grano | | | | 
+los apóstoles se frotaron grano el sábado (147:6.4)
+costumbre de lanzar grano sobre los recién casados ​​(83:4.5)
+
+Gran Cañón | (58:7.5) | | LUGAR | 
+
+Gran Lama | | | | 
+Líder religioso tibetano (94:10.2)
+
+gran universo | | Ver universo maestro; superuniverso; universo | LUGAR | 
+7 superuniversos más Havona (0:0.6) (12:1.13) (15:2.9)
+Los Ancianos de los Días y los Siete Espíritus Rectores están eternamente fijados como administradores de (0:8.11)
+dependiente de los universos futuros del espacio exterior para la trascendencia finita (117:6.20)
+dependiente de energías infalibles que emanan del Paraíso inferior (116:7.2)
+siempre busca la unificación completa (117:1.3)
+incompleto, inestable; el borde actual está irregular (12:1.13)
+organismo vivo (116:7)
+número de registro de Urantia (15:14.8)
+siete grupos de Espíritus Supremos son directores de (17:0.1)
+los Supervisores Centrales Supremos regulan los circuitos de energía de (29:2.10)
+usa solo el 5% de la gravedad del Paraíso (12:3.8)
+
+nietos | | | | 
+el hombre civilizado ama a los suyos (66:7.4) (84:7.10)
+
+Grandfanda | | | PERSONA | OK
+Grandfanda es el jefe interino del Cuerpo de la Finalidad (112:7.13)
+es el jefe del Consejo Supremo del Destino en el Paraíso, que asigna las misiones universales a los hijos del destino último (31:10.9-10,20)
+los Mensajero de Gravedad están bajo jurisdicción exclusiva de Grandfanda (31:2.1)
+fue el primer mortal en alcanzar Havona; su llegada inauguró los informes espaciales de gloria (7:5.8) (24:6.4-8) (119:0.2)
+procedía del superuniverso número 1 (24:6.8)
+Malvorian le fue asignado como Guía de los Graduados, convirtiéndose en el primero de su orden (24:6.4-6)
+
+granito | | | | 
+comenzó a formarse hace 1-1 / 2 mil millones de años (57:7.5)
+lava enfriada (58:5.5)
+
+uvas | | | | 
+grupos en el dintel de la sinagoga (153:2.8)
+Jeremías sobre agrio (145:2.5-6)
+
+hierba | (60:3.19) (61:3.2) | | | 
+Dios se viste (165:5.3)
+
+gratificación | | Ver autogratificación | | 
+
+grava | | | | 
+Depósitos carboníferos (59:5.10)
+
+enterramientos | | Ver tumbas | | 
+primeros títulos de propiedad concedidos para (69:9.14)
+
+gravita | | Ver energía; Directores del Poder Universal | | 
+30 sistemas de energía comprenden (15:8.2) (29:2.13-15)
+también conocido como poder universal (0:6.7)
+constitución de organizaciones materiales en superuniversos (11:8.7) (42:5.6)
+energía que responde a la gravedad lineal; etapa electrónica (0:6.7)
+Respuesta del Paraíso posgravedad (11:8.7)
+los centros de poder y los controladores físicos controlan parcialmente (15:8.2) (29:2.13-15)
+responde a la gravedad del Paraíso (0:6.7)
+energía de trabajo útil para los superuniversos (42:2.14-15)
+
+gravedad | | Ver antigravedad | | 
+caracteristicas
+	circuitos absolutos de personalidad, espíritu, mente y materia energética (12:3.1-4) (15:9.1-2)
+	Circuitos de presencia absoluta independientes del tiempo y el espacio (12:3.6) (42:11.4)
+	Circuitos de presencia absoluta no relacionados con el Paraíso inferior
+	centro de fuerza (12:3.1-6) (12:8.2)
+	todas las formas de fuerza-energía sujetas a presencias de (12:3.1)
+	se centra en la presencia personal del Padre (11:1.4) (56:1.3)
+	La creación inherentemente coherente y consiste en Dios (3:1.7)
+	leyes de la fuerza, la energía y la materia (15:4.1)
+	la vida y el patrón no responden a (0:6.10-13) (36:6.6)
+	Las Deidades del Paraíso actúan directamente en circuitos de (116:3.1)
+	la unificación es universal e invariable (56:1.3)
+tipos de gravedad
+	gravedad del material (12:3.8)
+		actúa en un plano perpendicular a la masa (11:8.9)
+		la antigravedad se anula dentro de un marco local (9:3.3)
+		las mentes de los ascendentes se vuelven menos sujetas a (7:3.2) (12:8.5)
+		átomo de calcio desafía parcialmente la gravedad (41:6.4-5)
+		converge en el Paraíso inferior (0:3.13) (3:2.4) (5:6.11) (11:1.4) (11:8.2)
+		la creación de cada universo requiere un ajuste de (3:4.2)
+		creación de Havona primera evidencia de (8:1.4)
+		los cuerpos oscuros de gravedad que rodean a Havona complementan el Paraíso gravedad (11:8.2)
+		equilibrado por el movimiento y el espacio (12:4.16)
+		factores que impiden gravedad de convertir toda la energía en materia (15:8.5-6)
+		primer operativo tras la creación de Havona (8:1.4)
+		el calor altera la estabilidad de (42:4.8)
+		altamente predecible (12:6.5)
+		independiente del tiempo (42:11.4)
+		menos en Jerusem que en Urantia (45:0.1)
+		gravedad lineal (local)
+			computable en términos del Paraíso gravedad (12:3.8)
+			Los organizadores de la fuerza se retiran a favor de los directores de poder al aparecer gravedad lineal. (42:2.12)
+			no completamente operativo por debajo del nivel de los electrones de materia atómica (42:4.3)
+			pertenece a la etapa eléctrica de la energía o la materia; opera tras la materialización (11:8.3)
+		Lucifer dijo gravedad era inherente (53:3.2)
+		mantiene el brillo de los soles (41:8.2)
+		muchos seres no personales utilizan gravedad para el tránsito, al igual que los Mensajero de Gravedads y Transcendental Recorders (23:3.2)
+		la masa en la materia retarda la velocidad en la energía (15:8.3)
+		organiza la materia (15:8.10)
+		La gravedad del Paraíso es una forma de (11:8.7)
+		el espacio invadido ejerce una influencia antigravedad (11:8.3)
+		La presencia física del Paraíso es fuente y sustancia de gravedad (9:1.7) (9:3.1) (11:8.1)
+		evita el cero absoluto teórico (42:4.6)
+		determinante cuantitativo de energía no espiritual (12:8.5)
+		real y eternamente confiable (9:3.1)
+		respuesta modificada por el espacio intermedio inversamente al cuadrado de la distancia (42:11.5)
+		la ciencia nunca puede saber qué es en realidad (133:5.4)
+		control exclusivo de la energía-materia (0:6.11)
+		Mensajeros Solitarios muy sensibles a (23:2.20)
+		fuente de energía solar (41:7.9)
+		ultimatones no sujetos a (41:9.2)
+	gravedad mental (3:1.6) (9:6) (12:3.10)
+		El 85% se origina en el gran universo existente (12:3.10)
+		se centra en el Espíritu Infinito (5:6.11) (11:1.4) (56:3.1)
+		circuito en Nebadon (34:4.1)
+		dibuja todos los pensamientos divinos e ideas perfectas (9:6.2)
+		independiente del tiempo (42:11.4)
+		Los Hijos Materiales mantienen el estado inmortal a través del circuito de (75:7.5)
+		manipulador de energía mental que los Artesanos Celestiales utilizan en la intercomunicación (44:5.3)
+		parte de la conciencia personal del Espíritu Infinito (9:6.1)
+		agarra infaliblemente todos los significados vitales (115:6.1)
+	Gravedad del Paraíso (3:1.6) (11:8)
+		Los ajustadores atraviesan el espacio sobre circuitos instantáneos y universales de (107:6.4-5)
+		todas las formas de energía básica obedecen (12:1.1)
+		también conocido como gravedad absoluta (11:8.3) (41:9.2) (42:2.12)
+		la mejor ilustración de la unidad de los universos materiales (56:1.2)
+		forma de físico gravedad (11:8.7)
+		el gran universo absorbe solo el 5% de (12:3.8)
+		capta unidades básicas de materia (21:2.12) (115:6.1)
+		mantiene unidos los universos físicos (8:4.1)
+		líneas de gravedad de energías en materia dependiente del Paraíso (42:1.2)
+		Los Organizadores Maestros de la Fuerza modifican el segregado para que responda a (11:8.6) (42:2.11)
+		etapas de respuesta (11:8.4-7)
+		Los centros superuniversales comienzan a funcionar cuando ultimata revela una respuesta inconfundible a (42:2.23)
+		oscilación del círculo eterno del universo (41:9.2)
+		ultimata no responde a (15:4.1)
+		ultimatones que responden a (41:9.2) (42:6.3)
+	gravedad de la personalidad | Ver circuito de personalidad
+	gravedad espiritual (3:1.6) (7:1) (12:3.9)
+		adecuado para un universo ilimitado (6:4.1)
+		tan real y absoluto como material gravedad (7:1.3) (12:8.4)
+		atrae de acuerdo con el grado de naturaleza espiritual, su calidad y grado de actualidad (7:1.3-4,8)
+		circuito es como circuitos neuronales en el cuerpo humano (7:3.4)
+		Los circuitos nunca son posesión permanente de ascendentes (117:5.7-8).
+		Los circuitos en Nebadon son el Espíritu Santo y el Espíritu de la Verdad (34:4.3-4).
+		existe en menor grado en muchas órdenes de filiación del Paraíso (7:1.5)
+		alianza finalista con (117:5.3)
+		sostiene a todos los individuos espiritualizados (7:3.2)
+		independiente del tiempo y el espacio; sin disminuir en la transmisión (7:1.2) (34:3.5) (42:11.4)
+		conduce directamente de regreso a, se centra en, Hijo Eterno (5:6.11) (6:3.2) (6:4.1) (6:5.2) (7:1.1) (7:5.6) (7:6.7) (11:1.4) (12:8.4) (34:3.5) (44:5.4) (56:3.1)
+		literalmente atrae a las almas mortales hacia el Paraíso (7:3.2)
+		El espíritu de Miguel gravedad es el mismo que el del Hijo Eterno en Nebadon (33:1.3)
+		no operativo en los niveles del espacio exterior (12:3.9)
+		opera directamente sobre los valores fundamentales de la existencia espiritual (115:6.1)
+		medida cualitativa de la divinidad (12:8.5)
+		las reacciones son confiables y mensurables (7:1.8)
+		el pecado y la rebelión no interfieren con (7:1.7)
+		La presencia espiritual del Hijo Eterno es el canal de toda comunión espiritual (194:2.12).
+		transmite oraciones genuinas (7:3.3)
+
+energía de la gravedad | | Ver energía; ultimata | | 
+Segunda fase de transmutación del segregado en poder universal (42:2.12)
+creado por Organizadores de la Fuerza Maestros Trascendentales Asociados (42:2.12)
+Energía paradisíaca que responde a la gravedad, antepasado de toda la materia; forma de ultimata (42:2.12)
+los Supervisores Centrales Supremos funcionan con todos los fenómenos por debajo del nivel de (29:2.11)
+
+Mensajeros de Gravedad | (31:2) | | ORDEN | 
+todos menos espíritus infinitos; trabajo inescrutable (31:2.2) (108:4.5)
+comandado por Grandfanda y el cuerpos finalitarios (31:2.1)
+son Ajustadores modificados y personalizados (31:2.2)
+Divinington hogar de (13:1.6) (31:2.2)
+en la clasificación del Paraíso (30:1.57)
+enlace con las Brillantes Estrellas Vespertinas (37:2.11)
+no disponible para administradores de superuniversos (23:3.2)
+se convierte en finalista con la plantilla actual de 999; reservas ilimitadas disponibles (31:2.3)
+mensajeros personales capaces de moverse independientemente del tiempo y el espacio (23:2.23) (31:2.1)
+mensajes espaciales de (44:5.7)
+sin forma visible (42:12.10)
+
+Gran Más Allá | | | RAZA | 
+El concepto de Onagar del Más Allá (63:6.7)
+
+Gran Bretaña | | Ver Islas Británicas | LUGAR | 
+
+gran mandamiento | (174:4) | Ver mandamientos | | 
+
+Grandes Lagos | | | LUGAR | 
+creado en la edad de hielo (61:7.10)
+
+Gran culto a la Madre | | Ver culto a la Madre de Dios | RAZA | 
+
+Gran pirámide | | Ver pirámides | | 
+
+Gran Río | | | | 
+Los egipcios esperaban que el ka estuviera esperando al otro lado del Gran Río (111:0.6)
+
+Grandes Fuentes y Centros | | Ver Padre Universal; Hijo Eterno; Espíritu Infinito | | 
+Se refiere a
+	El Padre Universal
+	El Hijo Eterno
+	El Espíritu Infinito
+
+Gran Espíritu | | | RAZA | 
+Onamonalontón se refirió a Dios como Gran Espíritu (45:4.5) (64:6.7)
+
+gran cena | | | | 
+parábola de la gran cena (167:2)
+
+lo grande | | | | 
+busca lo grande, y el menor se encontrará en él (165:5.3)
+
+Camino Mayor | | Ver budismo | | 
+concepto budista dual de Dios y el Absoluto (94:12.2)
+budismo Mahayana; doctrina progresiva (94:9.4-5)
+
+grandeza | | | | 
+logrado al contemplar y perseguir firmemente la bondad (28:6.21-22) (56:10.12) (100:7.17)
+crecimiento siempre inconsciente (100:1.7)
+deriva de hacer la voluntad de Dios (39:4.14)
+obtenido al hacer un uso sabio y divino de la propia fuerza (48:7.27)
+el mayor es el servidor de todos (56:10.14) (140:1.6) (171:0.6) (175:1.10)
+manifestado por el autocontrol (28:6.20)
+mostrado en trabajo desinteresado por seres dignos en necesidad y angustia (28:6.20) (140:4.6)
+la grandeza espiritual consiste en comprender el amor (158:6.3)
+sinónimo de divinidad (28:6.21)
+verdadera magnitud del carácter de supervivencia (28:6.22)
+grandeza mundana
+	preferencia deseada por los apóstoles (138:7.1) (158:4.4) (158:6.2-3) (158:8.1) (171:0.6) (179:1) (179:3.9)
+	abstenerse de luchar por la grandeza (179:1) (179:5.7)
+
+Grecia | (98:1) | Ver Atenas; Corinto; griegos | LUGAR | 
+Historia griega
+	Andrés crucificado en Acaya (139:1.12)
+	el arte y el genio fueron el legado directo de Adanson y Ratta (77:5.10) (80:7.5)
+	arte y ciencia de Mesopotamia, adansonitas (80:7.5)
+	Los invasores arios casi destruyeron las enseñanzas de Salem (98:1.2)
+	Centro cultural de Atenas de (133:5.1-2)
+	Corinto, capital de Acaya (133:2.5)
+	El Imperio helenístico no pudo perdurar (195:1.8)
+	hordas de esclavos inferiores (80:7.6,13) (98:1.1)
+	en 5000 a.C., las cepas de Adamita más puras estaban en (80:7.9)
+	influencia en Roma (98:3.3)
+	invasión naval de Egipto (96:3.5)
+	resuelto por 375 adansonitas ca. 10.000 a.C. (80:7.3-4)
+	algunos anditas entraron en Europa a través de (80:4.1)
+lengua griega
+	Jesús habló (123:2.14) (123:5.1,6)
+	Nuevo Testamento escrito en (195:2.7)
+	hablado por mejores estratos de judíos en tiempos de Jesús (121:6.2)
+	traducción de escrituras hebreas al griego (123:0.3) (123:3.1) (126:5.6) (150:8.1)
+	generalizado en tiempos de Jesús (121:1.1,5)
+Religión griega | Ver cultos de misterio; platonismo | (98:1-2)
+	La ausencia de sacerdotes y de las Sagradas Escrituras liberó la mente (98:1.5) (98:2.7) (98:6.1)
+	sistema ético avanzado prácticamente sin Deidad (98:2.11)
+	baño ritual anual (85:4.1)
+	creencias
+		30 piedras reverenciadas (85:1.3)
+		la contaminación surgió del cerdo, el ajo y la menstruación
+		mujeres (84:4.8)
+		en 3 almas (86:5.17)
+		en inmortalidad, provisionalmente (195:2.8)
+		en oráculos (90:2.8)
+		el hombre descendiendo de la perfección a la destrucción (148:4.9)
+		la materia como sombra de espíritu (12:8.16)
+		dioses de la tríada (104:0.3)
+		los hombres débiles tienen almas débiles (86:4.8)
+	no prometió salvación ni apagó la sed espiritual, por eso pereció (98:2.1)
+	distinción entre inanimado y animado (103:6.10)
+	belleza exaltada (191:5.3) (196:3.19)
+	G. tenía filosofía y ciencia, pero apenas una religión (130:3.5) (155:1.4)
+	influencia
+		de Amenemope (95:4.4)
+		de Akenatón (95:5.14)
+		sobre el cristianismo (98:7.10) (195:0-1)
+	Los griegos inteligentes nunca consideraron seriamente a los dioses griegos (98:1.4) (98:2.4) (195:1.6-7)
+	mitología más estética que ética (98:1.6)
+	inmersión orgiástica en cultos de misterio (98:2.10-11)
+	Filosofía dirigida al surgimiento del individuo (195:1.1)
+	la salvación prometida de la falta de armonía (5:4.5-8)
+	fuente de tradiciones mitológicas (80:7.5)
+	pensamiento contrastado con el de Hebreos (98:2.7-9)
+	era trivial y venal (98:3.2)
+	la palabra clave era «conócete a ti mismo» (5:4.8)
+
+griegos | | Ver Grecia | RAZA | 
+columna vertebral de la iglesia cristiana primitiva (195:3.6)
+llevó el cristianismo a todo el Imperio Romano (195:0-1)
+en contraste con judíos y romanos (191:5.3)
+matrimonio monógamo favorecido (83:6.3)
+grandes maestros, artistas, comerciantes y colonizadores (80:7.12-13)
+griegos individuales
+	Alejandro Magno
+	Anaxágoras (98:2.6)
+	Aristóteles (98:2.6) (121:6.3)
+	contratista en Corinto (133:4.6)
+	preguntando a los griegos
+	dueña de posada en Corinto (133:4.8)
+	filósofo en Atenas (133:5)
+	filósofo en Ramá (146:3.1-2) (148:8.2)
+	médico en Roma (132:4.5)
+	Platón (92:5.12) (98:2.6)
+	Rodán de Alejandría
+	Sato, líder de los colonos adansonitas (80:7.3-4)
+no muy interesado en la filosofía de la autorrealización, abstracto
+Deidad (98:2.10)
+sumido en el estancamiento intelectual, la depravación moral y la pobreza espiritual (98:2.10-11)
+enfermedades reconocidas resultan de causas naturales (90:3.9) (90:4.9)
+trataron a las mujeres mejor que la mayoría (84:5.6)
+entendido el carácter evolutivo del progreso humano (74:8.5)
+dispuesto a tomar prestadas buenas ideas (195:1.3)
+
+raza verde | (64:6.17-20) | Ver razas | RAZA | 
+destruyó y absorbió los restos de la raza naranja hace 100.000 años (64:6.11,13,18) (64:7.14,16)
+destrucción
+	para el 15.000 a.C. (78:3.7)
+	esclavizados y absorbidos por las razas amarilla, azul e índigo (51:4.6) (64:6.18-20)
+	la raza está particularmente sujeta a la destrucción (52:2.5)
+	virtualmente se destruyeron a sí mismos por la guerra (64:7.7)
+Fantad
+	en 24 consejeros (45:4.9)
+	renacimiento de la cultura de hace 350.000 años (64:6.17)
+en el sur de Europa en 15.000 a.C. (64:6.11,13,18) (64:7.14,16)
+India absorbió gran parte de (64:6.18) (79:2.2)
+índigo en el Sahara portaba extensas cepas de (78:1.10) (80:1.4)
+grupo menos capaz (64:6.17)
+persistió en Birmania, India, Indochina, islas del Pacífico sur (64:6.18) (78:1.9) (79:6.2-3,7)
+cepas de gigantismo (51:4.2) (64:6.19)
+
+Groenlandia | | | LUGAR | 
+Migración de andonita a (64:7.16-18) (78:1.5)
+conectó Europa con América del Norte (59:5.20) (61:1.12)
+geología (59:1.17) (59:4.14) (60:4.3) (61:1.12) (61:2.3) (61:3.1) (61:5.4) (61:5.6)
+deriva lenta hacia el oeste (58:4.3)
+
+marga de arenisca verde | (60:3.9) | | | 
+
+Calendario Gregoriano; calendario | | | | 
+utilizado en los documentos de Urantia (57:0.1) (126:3.1)
+
+grupos | | Ver cooperación; familia; hermandad de creyentes; amistad; el individuo; partes y el todo | | 
+3 personas son grupo mínimo (10:2.3) (39:3.6)
+participación celestial
+	El Hijo Creador gobierna en las relaciones entre grupos (32:4.3-4)
+	las resurrecciones dispensacionales guardan grupos juntos para un servicio prolongado y eficaz (30:4.13)
+	gramo. bajo la jurisdicción de Arquitectos Sociales (39:3.4-6)
+	Los Serafines Planificadores de la Mente organizan el trabajo en equipo en los mundos de las mansiones (48:6.24-25)
+	Clasificadores Selectivos agrupan personalidades morontiales para proyectos (48:2.24)
+	Los Mensajeros Solitarios contribuyen al desarrollo del grupo.
+	identidad en seres espirituales (23:4.1)
+	El Espíritu de la Verdad disminuye la autoafirmación de grupos (194:3.18)
+	transición de las fases del universo generalmente por clases (37:6.5)
+liderazgo | Ver liderazgo
+	eficacia de grupos depende del liderazgo (81:6.37)
+	liderazgo proporcionado infaliblemente para grupos (181:2.16)
+autoridad legislativa y judicial conferida a (159:1.6)
+los mortales pueden volver a asociarse para el servicio en mundos de estancia (39:3.5)
+Pablo fue un gran organizador (195:0.6)
+perfeccionando la capacidad de vivir en contacto íntimo con una irritabilidad disminuida (43:8.9)
+el hombre primitivo reconoció la ventaja de la asociación (69:2.3)
+la solución de los problemas de riego chinos exigió la cooperación del grupo; fomentó la interdependencia (79:8.6)
+la gravedad espiritual crea cohesión entre los creyentes (7:1.6)
+someterse a las disciplinas de (43:8.4)
+los supervivientes parten hacia Jerusem en (47:9.3)
+Tomás acató las decisiones del grupo (139:8.8)
+valor de los grupos
+	lograr cosas más permanentes trabajando con los hermanos (181:2.22)
+	gramo. anticipar y trascender las capacidades individuales (106:3.4)
+	el hombre se beneficia de la lealtad a las asociaciones humanas y las instituciones temporales (100:2.6)
+	los miembros cosechan beneficios y sufren las consecuencias de las acciones de otros (12:7.11) (54:6.3-4) (67:7) (145:2.8)
+	organizado grupos mucho más fuerte que la suma de individuos (10:5.2) (68:1.4-5)
+	La técnica de asociación cuadriplica las posibilidades de logro (43:8.11)
+	progreso de cada individuo aumentado a través del logro del grupo (100:0.1)
+	crecimiento espiritual estimulado por la asociación íntima con otros religiosos (100:0.2)
+el valor del grupo es cuadrado el número involucrado (133:5.6)
+
+crecimiento | | Ver equilibrio; progreso; crecimiento espiritual | | 
+crecimiento finito
+	la plenitud de la evolución agotará la capacidad de (117:5.14)
+	termina con la finalización de Supremo (117:2.2)
+indicado por el progreso, no por los productos (100:1.3)
+adquisición intelectual parte del universo crecimiento (37:6.6)
+naturaleza del crecimiento
+	siempre inconsciente (100:3.7)
+	aumento de estatus (117:2.2)
+	la confusión precede al crecimiento (99:6.1)
+	las decisiones abren una nueva capacidad para el crecimiento (115:3.16)
+	la evolución es una técnica cósmica de (100:3.7)
+	mayor donde las presiones externas son mínimas (103:5.11)
+	El infinito de Dios significa que la eternidad no se agotará (106:7.6)
+	el hombre no puede causar crecimiento, solo proporcionar condiciones favorables (100:3.7)
+	demasiado crecimiento rápido es suicida (39:4.12)
+	el prejuicio y la ignorancia son los principales inhibidores del crecimiento (100:1.2)
+	problemas del crecimiento (100:4)
+	puntuado por el logro transitorio de metas (118:0.10,12)
+	debe ser de por vida (100:1.2)
+	Supreme es fuente de crecimiento evolutivo. (117:2)
+ocurre porque
+	impulsos innatos hacia crecimiento función a menos que esté inhibida (100:1.6)
+	interasociación de resultado original, real y potencial en
+	posibilidad de crecimiento (115:3.9)
+	de la asociación criatura-Creador (116:0.3)
+	de búsqueda innata de destinos acordes con el infinito
+	fuente (105:5.5)
+	de la naturaleza de Séptuple, Supremo, Último (115:3.9)
+	de parcialidad e incompletitud de la existencia (115:7.1)
+	el lapso de tiempo brinda la oportunidad de (106:1.1-2)
+filosofía, religión y ciencia unidas por la sabiduría, la fe y la experiencia (98:2.12)
+algunas personas están demasiado ocupadas para (100:1.2)
+unificación de la lógica matemática, la razón mental y la fe espiritual en la personalidad (16:6.10)
+
+rencores | | Ver venganza | | 
+
+ángeles guardianes | (113:0-1) | Ver guardianes del destino; resurrección; Serafines | ORDEN | 
+después de la muerte de los sujetos
+	acompañar a los pupilos derrotados si se le ordena (25:8.10)
+	atender a los jóvenes en la guardería a prueba (47:2.6)
+	Los guardianes de grupo vuelven a reunir a sus sujetos en las salas de resurrección (113:6.7) (189:3.2)
+	Mantener las almas de los sobrevivientes como un deber sagrado (30:4.15) (47:3.3) (49:6.4) (113:3.4) (113:6)
+	indispensable para el escape terrestre (49:6.4)
+	separarse de los asociados mortales antes de la huida a Havona (26:4.11)
+	responder al llamado de la justicia para los no sobrevivientes (113:6.8)
+	nueva forma morontial de los sujetos patrocinadores (30:4.15)
+	los supervivientes primero ven ángeles guardianes en los mundos de las mansiones (113:7.1)
+todos se ofrecen como voluntarios para sus asignaciones (113:2.3,7)
+llegan a mundos habitados con el primer Ajustador (40:5.9) (49:6.4)
+asignado de acuerdo con la inteligencia humana, la espiritualidad y el destino (113:1.2)
+llamados guardianes del destino cuando se asignan a un solo humano (113:2.1)
+vino en gran número en los días de Onagar (63:6.9)
+Querubines y Sanobines siempre asociados con ángeles guardianes en la tierra, pero no en los mundos de estancia (38:7.3) (38:8.5)
+muchos que se rebelaron se han arrepentido; ahora detenido (113:6.10)
+puede servir en un planeta durante siglos; convertirse en custodios de miles de almas (113:2.4) (113:6.9)
+intermedios indispensables para (77:8.4)
+número de cabellos de la cabeza (165:3.4-5)
+Guardianes seráficos que ministran a grupos (113:0-1)
+estudiar en escuelas para Serafines en mundos de estancia (113:7.2)
+técnica de servicio
+	actuar para hacer el mejor uso del curso que los mortales eligen (113:5.4)
+	manipular constantemente el entorno mortal para aumentar la percepción cósmica (113:3.5) (113:4.4)
+	no invadan la santidad de la mente humana ni manipulen la voluntad humana (113:5.1)
+	ayudar a los mortales independientemente de las oraciones, las apelaciones (113:5.3)
+	entrometerse solo en emergencias, por órdenes directas (113:5.4)
+	más activo cuando los Ajustadores son menos activos (113:4.5)
+	no hay comunicación con los Ajustadores residentes de los sujetos (113:4.5) (113:5.1)
+	los contactos físicos con la humanidad son muy inusuales (113:5.5)
+
+guardianes del destino | (113) (39:8.5-8) | Ver ángeles guardianes; resurrección; Serafines | ORDEN | 
+después de la muerte de los sujetos
+	custodios de los patrones mentales y las realidades del alma entre la muerte y la resurrección (113:3.4) (113:6.1,5)
+	siempre en comunicación con antiguos pupilos (113:7.6)
+	Mantener las almas de los sobrevivientes como una confianza sagrada (30:4.15) (49:6.4) (113:3.4) (113:6)
+	posible resurrección inmediata de los mortales con (112:4.12) (112:5.10)
+	retener el alma, fórmulas estáticas de identidad, esenciales para la repersonalización (112:3.5) (112:5.13)
+	nueva forma morontial de los sujetos patrocinadores (30:4.15)
+	los tribunales deben absolver de la culpa si los sujetos no logran sobrevivir (108:5.10) (113:6.3)
+asignación
+	2 asignados a cada mortal; complemento de ser es registrador (113:1.8) (113:2.7,9)
+	según el logro del círculo, la consagración espiritual, la inscripción en el cuerpo de reserva (113:1.5-8) (113:2.1)
+	trajo Ajustadores antes del Espíritu de la Verdad (108:2.6)
+	de acuerdo con la inteligencia humana, la espiritualidad y el destino (113:1.2)
+	a todos los terceros círculos psíquicos (49:6.8,13) (55:4.2) (110:6.14) (113:1.8) (113:2.1)
+	a todos los mortales supervivientes de fusión con el Ajustador (39:8.5-8) (113:2.1)
+	a los reservistas (114:7.2)
+destino
+	la mayoría ingresa al cuerpos finalitarios Mortales (39:8.10)
+	par logra la bi-unificación espiritual en Serafington; fusible con fragmento de padre no Ajustador (113:7.8)
+	algunos se convierten en planificadores mentales si las barreras no sobreviven (48:6.24)
+	El pasaporte seráfico más seguro al Paraíso es el servicio como guardián del destino (39:1.6) (39:8.4-5) (113:7.7)
+Desarrollar un afecto duradero por sus asociados humanos (113:2.5).
+Jesús envió a su tutor personal mientras estaba en el monte Hermón; no tuvo un tutor personal después de su bautismo (123:2.2) (134:8.2,8) (136:4.10)
+la mayoría se separa de los sujetos durante Havona (39:8.7-8)
+los intermedios son intérpretes de los guardianes del destino en luz y vida (55:4.8)
+Rantowoc primero en recibir (113:2.2)
+técnica de servicio
+	correlacionar, unificar y personalizar las influencias espirituales impersonales para el sujeto (113:3.1-5)
+	ganar experiencia en mundos de fusión sin Ajustador (113:2.3)
+	Influir en los mortales de todas las formas compatibles con la dignidad de la personalidad (113:5.1).
+	los intermedios son indispensables (77:8.4)
+	ministerio más eficaz en luz y vida (55:4.2) (55:6.4)
+	declaración en la atenuación de las dificultades (111:7.4-5)
+
+guardianes de la salud y la vida | | Ver cien de Caligastia | PERSONA | 
+
+invitados | | Ver hospitalidad | | 
+
+culpa | | Ver perdón; vergüenza; pecado | | 
+surge de
+	fracaso para resolver las contiendas del ego (103:5.4)
+	comunión espiritual interrumpida, rebajando los ideales morales (103:4.3)
+	sentido de separación de la plena aprobación del Padre (174:1.4)
+	violar las costumbres, que no es necesariamente pecado (89:10.3-4)
+lidiar con la culpa
+	No se sienta abatido por no olvidar experiencias lamentables (156:5.8)
+	Jesús destruyó la base de todo lo ficticio culpa (103:4.4)
+	negarse a albergar sentimientos de culpa (156:2.7)
+detectado por pruebas de veneno, fuego y dolor (70:10.5-7)
+Pedro aplastado después de negar a Jesús (184:2.8-9,13)
+
+guitas | | | RAZA | 
+sumerios derrotados (78:8.10)
+
+abismo | | | | 
+entre materia y pensamiento, mente material y amor espiritual (112:2.10)
+vasto abismo entre lo humano y lo divino (110:4.5)
+
+golfo de México | (59:2.7) | | LUGAR | 
+la vida marina evolucionó en (59:6.9)
+
+corriente del golfo | (29:2.15) | | | 
+curso antiguo (59:1.17)
+funcionó en el Mioceno como hoy (61:3.9)
+
+gaviotas | (61:2.12) | | | 
+
+Gurú Nanek | | | PERSONA | OK
+Guruú Nanek o Nanak fue el líder religioso reciente, del siglo XV, que fundó el sijismo (92:5.8)
+el sijismo es una síntesis del Islam, el hinduismo y el budismo (92:5.15)
+
+yeso | (60:1.1) | | | 
+
+giroscopio | | | | 
+ilustra el efecto de la antigravedad (9:3.3)

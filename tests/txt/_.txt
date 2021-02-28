@@ -1,0 +1,40 @@
+####################################################################################
+#
+#                     NUMBER
+# The Urantia Book Uversa Press Topical index
+# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
+# Cada entrada viene precedida de una línea en blanco 
+# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
+# Una entrada puede tener una o varias sub-entradas, son todas las líneas tras la entrada
+# Una sub-entrada puede tener sub-sub-entradas, cada una lleva una tabulación.
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+####################################################################################
+
+1-2-3 el Primero; 1-2-3 el primero | (77:8.2) | | PERSONA | OK
+se trata del ser intermedio de la orden primaria que actuaba como jefe de toda la orden de intermedios de Urantia desde la traición de Caligastia (77:9.4-5)
+se mantuvo leal a Gabriel en la época de Van y Amadón y logró reducir las bajas rebeldes en su orden
+Ahora es miembro de los veinticuatro consejeros de Jerusem y ha sido gobernador general de Urantia en una ocasión (45:4.18) (77:9.5)
+
+3; tres | | | | 
+dominio de la vida caracterizado por (36:2.11)
+
+7; siete | | | | 
+posibilidades asociativas de 3 deidades (16:0.1) (16:1.1) (17:3.1) (18:1.3)
+básico para la transmisión del carácter (42:9.2)
+colores en espectro natural (42:9.3)
+dominio de la vida caracterizado por (36:2.11)
+fundamental para la organización del universo (10:2.8) (16:0.1) (42:9.2)
+en filosofía natural (42:9.1)
+en la tabla periódica, las cualidades se repiten en 7 (42:9.2-3)
+los tipos secoráficos se repiten en 7 (28:4.3-4) (28:5.6)
+organización electrónica séptuple de la premateria (42:9.1,3)
+
+10; diez | | | | 
+inherente a la energía y la materia (36:2.11) (42:9.2)
+
+12; doce | | | | 
+dominio de la vida caracterizado por (36:2.11)
+
+13; trece | | | | 
+antiguos considerados malvados (88:1.6)
+606 de Satania | Ver Urantia

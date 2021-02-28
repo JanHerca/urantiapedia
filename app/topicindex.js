@@ -30,6 +30,7 @@ class TopicIndex {
 	 *        }
 	 *      ],
 	 *      seeAlso: ['Espíritu Infinito:familia'],
+	 *      links: [https://es.wikipedia.org/wiki/Ángeles],
 	 *      refs: ['26:1'],
 	 *      type: 'ORDEN',
 	 *      revised: 'NO',
@@ -112,6 +113,11 @@ class TopicIndex {
 							this.topics.push(current);
 						}
 						current = null;
+					} else if (current && tline.length > 0 && tline.startsWith('>')) {
+						if (!current.links) {
+							current.links = [];
+						}
+						current.links.push(tline.substring(1).trim());
 					} else if (current && tline.length > 0) {
 						topicline = {
 							text: '',
@@ -570,7 +576,20 @@ class TopicIndex {
 					wiki += `* [[${alsoLink}|${alsoText}]]\r\n`;
 				});
 			}
-			//TODO: Añadir sistema para adjuntar enlaces externos a la Wikipedia
+			
+			//Añadimos los Enlaces externos
+			if (topic.links && topic.links.length > 0){
+				wiki+= `${end}== Enlaces externos ==${end}`;
+				topic.links.forEach(link => {
+					if (link.indexOf('wikipedia') != -1) {
+						let linkname = link.substring(link.lastIndexOf('/') + 1)
+							.replace(/_/g, ' ');
+						wiki += `* [${link} Wikipedia: ${linkname}]\r\n`;
+					} else {
+						wiki += `* [${link}]\r\n`;
+					}
+				});
+			}
 
 			//Añadimos las Referencias
 			if (refs.length > 0) {

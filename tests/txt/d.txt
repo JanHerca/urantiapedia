@@ -1,0 +1,1448 @@
+####################################################################################
+#
+#                     D
+# The Urantia Book Uversa Press Topical index
+# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
+# Cada entrada viene precedida de una línea en blanco 
+# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
+# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
+# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
+# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+####################################################################################
+
+
+
+Dabarita | (149:0.1) | | LUGAR | 
+Segunda gira de predicación por Galilea
+
+Dagón | | | PERSONA | OK
+Dios filisteo (97:6.2)
+
+Dakota Black Hills; Black Hills | | | LUGAR | 
+Pacífico extendido a (60:2.4)
+
+Dalamatia | | Ver Caligastia; cien de Caligastia | LUGAR | 
+Muro de 40 pies rodeado (66:3.3) (66:4.10)
+atacado por hordas de semisalvajes después de la rebelión (67:5.2)
+edificios limpios y sencillos; construido de ladrillo (66:3.5-6) ​​(66:7.1-3)
+ciudad del Príncipe (66:3)
+gran confusión durante 50 años después de la rebelión (67:5.1)
+tierra para una población de 20.000 (66:7.1)
+ley de (66:7.8-16)
+la biblioteca tenía 2 millones de registros separados (66:5.9)
+vida en (66:7)
+la vida en Dalamatia lejos de ser utópica (68:1.7)
+nombrado en honor a Daligastia (66:3.3)
+región bien asentada dentro de las 100 millas (66:7.18)
+población residente de 6000 en el momento de la rebelión (66:7.20)
+situado en la región del golfo Pérsico de la Mesopotamia posterior (66:3.1)
+inmersión (77:3.1-2)
+enseñanzas
+	7 mandamientos de Dalamatia eran tabúes (89:1.4)
+	terminó repentinamente después de 300.000 años (92:4.5)
+	fueron la primera revelación de época (92:4.5)
+maremoto arrasó hace más de 200.000 años; existen vestigios bajo el golfo Pérsico (67:5.2,4) (77:4.7) (78:7.7)
+razas en guerra vivían juntas en armonía cerca (64:6.28)
+
+Daligastia | | Ver Caligastia; Hijos Lanonandek | PERSONA | OK
+Daligastia es un Hijo Lanonandek secundario, el número 319.407 de esta orden (66:2.2)
+Dalamatia, la ciudad del Príncipe Planetario en Urantia, fue llamada así en honor a Daligastia (66:3.3)
+presidió los diez consejos de los cien de Caligastia, el séquito de consejeros de Caligastia (66:5.1)
+antes de que Caligastia se declarara soberano absoluto de Urantia exigió que el personal corpóreo del Príncipe renunciara en espera de la redistribución de la autoridad (67:2.1)
+proclamó a Caligastia como «Dios de Urantia» (53:8.5) (67:2.4)
+ordenó a los miembros del personal rebelde que se reprodujeran sexualmente para acrecentar su número puesto que se habían vuelto mortales (67:4.2)
+fue despojado de la mayor parte del poder para hacer el mal en tiempos de Van (73:2.5)
+trató de obstaculizar el trabajo de Adán (73:2.5) (74:5.5)
+hizo propuestas a los hijos de Adán pero con poca influencia (75:2.1)
+Miguel ofreció misericordia a Daligastia, pero éste la rechazó (53:8.6) (53:9.1)
+nunca fue capaz de oprimir o coaccionar a individuos normales contra su voluntad (66:8.6) (75:2.1)
+desde Pentecostés, es servil ante los Ajustadores y el Espíritu de la Verdad (53:8.7)
+todavía hoy está libre en Urantia (53:8.6-7)
+
+Damasco | (130:0.3) (133:8.4) (134:1.1) (134:2.5) (140:7.2) (186:3.2-3) (190:1.8) | Ver Siria | LUGAR | 
+Jesús conoció al maestro de matemáticas de (123:6.3)
+comerciante de Damasco
+La experiencia de Pablo con Jesús en el camino hacia (100:5.3) (196:2.1)
+
+puerta de Damasco | | | LUGAR | 
+conducido al norte desde Jerusalén (187:1.4)
+los soldados aterrorizados huyeron (189:4.5,7)
+
+Dan (ciudad) | | | LUGAR | 
+también conocida como Cesarea de Filipo (134:7.5)
+
+Dan (personal del Príncipe) | | Ver cien de Caligastia | PERSONA | OK
+Dan fue el jefe del consejo encargado de conquistar a los animales depredadores, uno de los diez consejos del Príncipe Planetario en Urantia (66:5.7)
+Dan y todo su consejo se perdió en la rebelión (67:4.1)
+
+baile | | | | 
+entre primitivos
+	muchas shamaness eran bailarinas profesionales (90:1.3)
+	se originó en festivales de adoración estacionales (92:3.6)
+	puramente militar baile refinado por el personal del Príncipe (66:5.29)
+	sucesor del ejercicio militar (70:2.2)
+	fue una oración dramática (88:6.3) (99:5.9)
+intento crudo y grotesco de acercarse a la armonía celestial de la ubicación del ser (44:1.10)
+el baile salvaje puede inducir un estado místico (100:5.10)
+
+peligro | | Ver autodefensa | | 
+Jesús ejerció un cuidado normal cuando se enfrentó a (136:7.1)
+no exponerse innecesariamente a (178:3.3)
+permanecer impasible ante (194:3.12)
+
+Daniel | | | PERSONA | OK
+Daniel fue un profeta que presentó el drama de una crisis inminente y el establecimiento del reino mesiánico (97:8.3)
+creía en la resurrección de los muertos (137:7.6)
+fue uno de los pocos profetas no silenciados por los sacerdotes judíos de tiempos de Jesús (97:10.3)
+los apocaliptistas se apoyaron en gran medida en las predicciones de Daniel (135:5.2)
+Daniel comprendió quiénes eran los Altísimos y que sólo gobiernan en los reinos de los hombres (43:3.4)
+la idea de Mesías de Daniel era la de un hombre sobrehumano, aunque hombre (136:1.6)
+Daniel describió a un Hijo del Hombre que Jesús rechazó como figura a adoptar (126:3.6)
+Juan el Bautista tenía predilección por los escritos de Daniel, aunque causaban gran confusión (135:3.2-3)
+
+Danubio | | | LUGAR | 
+algunos anditas entraron en Europa a través de (80:4.1)
+valle del Danubio controlado por el hombre azul, los andonitas (80:5.8) (80:9.4)
+
+danubianos | | | RAZA | 
+Labradores y pastores andonitas; cerámica hecha (80:8.4)
+Los griegos importaban danubianos como esclavos (80:7.6)
+asentamiento más al norte en Lieja, Bélgica (80:8.4)
+adoradores de madres (80:8.5)
+
+Dafne | (133:8.1) | Ver bosquecillo de Dafne | PERSONA | OK
+Ninfa, hija del dios río Ladón
+
+bosquecillo de Dafne | | | LUGAR | 
+notorio santuario de la vergüenza en Antioquía (133:8.1)
+
+edades de tinieblas | | | | 
+China del declive del taoísmo a la llegada del budismo (94:6.12)
+Edad oscura europea
+	El cristianismo estuvo en coma durante 1000 años (195:4) (195:10.18)
+	pocos derechos humanos reconocidos en (70:9.15)
+	reversión a pequeños grupos de castillos durante (71:1.24)
+	la esclavitud virtualmente desapareció durante (69:8.7)
+restauración inexorable del desequilibrio entre la libertad y el autocontrol (118:8.6)
+
+gigantes oscuros del espacio | | Ver islas oscuras del espacio | | 
+
+cuerpos de gravedad oscuros | | | LUGAR | 
+complementan la gravedad del Paraíso (11:8.2)
+Revelar el poder de atracción por gravedad física lineal y absoluta (11:8.7)
+rodear Havona; igualar la gravedad (12:1.10) (14:1.14-18)
+no reflejan ni absorben la luz (14:1.14)
+ni triata ni gravita; único (11:8.7) (14:1.17-18)
+posición en el espacio (14:1.5-7)
+Los Seconafines primarios llevan a los peregrinos más allá de los cuerpos de gravedad oscuros a Havona (26:4.11)
+forma y procesión de circuitos internos y externos (14:1.1,15-17)
+con Havona, la masa supera con creces los 7 superuniversos (12:1.10)
+
+islas oscuras del espacio | | | LUGAR | 
+en el centro astronómico de Satania (41:2.2)
+en el centro del sistema Angona (57:5.4)
+las colisiones de gigantes muertos convierten enormes masas en la energía más rara (15:8.6)
+convertir la energía en materia (42:4.9)
+esferas condensadas frías altamente energizadas desintegran la materia (15:8.5)
+grandes agregaciones de materia desprovistas de luz y calor; funcionan como ruedas de equilibrio; localizable por efecto de la gravedad (15:6.11)
+acercamiento cercano puede dar a luz a planetas (15:5.5)
+orígenes por acumulación de energía transmutada; acumulaciones de materia fría; de soles quemados (15:5.10-11)
+vastas dínamos que los Directores del Poder Universal utilizan para concentrar y direccionar las energías espaciales (41:1.5) (41:3.1)
+
+oscuridad | | | | 
+el que entra en la oscuridad no sabe adónde va (174:5.13)
+Los neandertales temían (64:4.13)
+
+hijas de Aarón | | | | 
+Isabel descendiente de (135:0.4)
+
+hijas de Dios | | | | 
+hijos del Espíritu Infinito (33:3.4) (38:2.2)
+
+David (rey) | | | PERSONA | OK
+el ejército de David era un conjunto de descontentos, inadaptados sociales y fugitivos (97:9.5)
+con 600 hombres entró en alianza con los filisteos, lo cual propició la derrota de Saúl (97:9.5)
+la tribu cosmopolita de David, Judá, era más gentil que judía (97:9.11)
+El 80% de los soldados de David eran baalitas (97:9.12)
+David entregó a siete descendientes de Saúl para que los gibeonitas los ahorcaran (97:9.13)
+el duelo con Goliat fue el típico caso de batalla que solía resolverse con el combate de sólo los dos mejores hombres (70:1.19)
+David puso en marcha una maquinaria política corrupta; no es de extrañar que estallara una rebelión contra él (97:9.15)
+ganó el control de las tarifas de las caravanas filisteas (97:9.15)
+impuso un gran tributo a los edomitas, moabitas, amonitas y sirios (97:9.14)
+comió pan de la proposición cuando tuvo hambre (147:6.4)
+pagó una dote a Saúl de cien prepucios filisteos por la mano de su hija Mical (70:1.18)
+tuvo muchas esposas (97:9.10)
+asesinó a Urías el hitita (97:9.15)
+en el monte Gilboa se recordaban las acciones que ejecutó David allí (124:6.3)
+historias sobre David
+	La mayor distorsión de la historia judía se relaciona con la figura de David (97:9.5)
+	hay dos historias diferentes sobre cómo David fue nombrado rey (97:9.8)
+	hay dos historias sobre si fue Dios o Satanás el que forzó a David a realizar un censo de Israel y Judá (142:3.9)
+	El evangelio de Mateo muestra a Jesús como hijo de David (121:8.4)
+	José el padre de Jesús no era descendiente de David y Salomón, sino que fue un antepasado fue adoptado en la casa de David (122:1.1) (122:4.2-3) (123:0.5) (126:3.10)
+	Según Jesús el Mesías no era hijo de David (174:4.6)
+	Según los judíos el Mesías sería el sucesor de David (135:5.4,7) (136:1.1,6)
+
+David Zebedeo | (156:6.3-4) (157:6.1) (158:8.1) (176:2.9) (177:5.1,3) (182:2.5) (187:6.1) (188:3.3) | Ver cuerpo de mensajeros (de David Zebedeo) | PERSONA | OK
+fue conocido como el confiable David Zebedeo. era el hermano de Juan y Santiago Zebedeo (186:3)
+Respetaba a Jesús como artesano, pero tomaba poco en cuenta sus puntos de vista religiosos (129:1.12)
+el padre Zebedeo se fue a vivir con su hijo David (138:5.4)
+Siguió a Jesús tras la pesca supuestamente milagrosa (145:1.1,2)
+su labor como seguidor de Jesús
+	fue un líder valiente y eficiente (154:5.1,3) (190:1.7)
+	sirvió no por mandato, sino por voluntad de su propio corazón (182:2.10)
+	supervisó el campamento de Betsaida (148:0.1)
+	trató rudamente a Quirmet, un profeta que causó cierto alboroto en el campamento de discípulos de Jesús. Lo sumergió varias veces en el lago, instándole a que se marchara y creara su propio grupo de seguidores (148:8.3)
+	montó un gran campamento en Pella (163:5.2-3)
+	cerró el campamento de Pella y vendió el equipo (171:1.4) (172:2.3)
+	le dio a Judas fondos de la venta de equipo (172:2.3)
+vigilaba por la seguridad de Jesús
+	Jesús declinó la oferta de tener unos guardaespaldas (177:0.3)
+	David ordenó a varios mensajeros suyos que velaran por Jesús (154:2.3)
+	tenía apostados a 25 centinelas alrededor de la casa de su padre Zebedeo (154:6.7)
+	montó guardia en Getsemaní (182:2.10-12)
+muerte de Jesús
+	sabía del plan para matar a Jesús y conocía que Judas era parte del complot (178:2.3) (182:2.1,9)
+	fue quien hizo llamar a su madre Salomé y a la familia de Jesús previendo una inminente muerte de Jesús (177:3.3)
+	creía firmemente que Jesús se levantaría de la tumba, a diferencia de los apóstoles (186:3.4) (188:1.8) (190:1.2)
+tras la muerte de Jesús
+	entregó la bolsa de Judas con los fondos apostólicos a Mateo (190:1.3)
+	estuvo presente en la cuarta aparición de Jesús (190:2.6)
+	se casó con Ruth, la hermana de Jesús, y se se fue a Filadelfia después de la crucifixión (190:1.10)
+	fue el supervisor financiero de los seguidores de Jesús en Filadelfia (171:1.5)
+	se autoproclamó defensor de Lázaro (171:1.5)
+
+mamíferos precursores | (62:2) | | RAZA | 
+descendientes de lémures (62:2.1)
+el miedo llevó a sabias medidas de precaución (62:2.4)
+dio lugar a los mamíferos intermedios después de 70 generaciones (61:6.1) (62:3.1)
+asesinado por los mamíferos intermedios (62:3.4)
+madre parecida a un lémur escapó de la muerte por el mero ancho de un cabello (62:3.9)
+poseía grandes cerebros; caminó principalmente sobre patas traseras (61:6.1)
+instintos compartidos con el hombre primitivo (62:2.3)
+aparición repentina hace 1 millón de años (61:6.1) (62:2.1)
+espíritu tribal; belicoso cuando se le molesta (62:2.5)
+
+Día de la expiación | | Ver judaísmo:fiestas | | 
+
+visionario | | | | 
+peligro de religión habitual visionario (100:5.8)
+
+Daynales | | Ver Hijos Instructores Trinitarios | ORDEN | 
+Son los educadores universales (20:7.3) (20:8.4) (20:9.4) (20:10.4) (46:5.13)
+
+días | | Ver tiempo:días y años | | 
+
+diaconisas | | | | 
+llamadas maestras de la iglesia cristiana primitiva (150:1.3)
+
+Libro de los Muertos | | | | 
+surtido de textos mágicos egipcios (95:2.5)
+
+los muertos | | Ver muerte | | 
+los antiguos nunca mencionaron nombres de (87:2.6)
+Judíos enterrados el día de su muerte (167:4.3)
+dejar que otros entierren (163:2.2)
+El voto nazareo prohibía el contacto con (135:2.1)
+
+gigantes muertos del espacio | | Ver islas oscuras del espacio | | 
+
+mar Muerto | (124:6.8) (135:1.1) (135:2.3) | | LUGAR | 
+Jordan fluyó hacia (124:6.5)
+
+reino de los muertos | | | | 
+El fantasma de la creencia deseaba continuar sin ser molestado (87:2.2).
+hogar de fantasmas (87:1.1) (87:2.4,8) (87:4.2)
+
+muerte | | Ver los muertos; pena de muerte; vida eterna; juicio; asesinato | | 
+entre primitivos
+	re. se cree que es la pena del pecado (89:2.2)
+	temido muerte, que liberó a otro fantasma (86:5.2) (87:1.1)
+	casa destruida en la que muerte ocurrido (87:1.3)
+	inexplicable (86:3-4) (88:4.7)
+	teorías chamánicas; brujería (90:3)
+muerte física (49:6) (55:2)
+	El Ajustador parte hacia Divinington después de la destrucción de los circuitos mentales (112:3.3) (112:4.1,3)
+	mortales avanzados exentos de (49:6.18-21) (55:2.1)
+	el cuerpo permanece en el planeta (12:8.16) (30:4.15) (39:2.13) (189:1.2)
+	ángeles guardianes según sus súbditos (113:6)
+	útil para ver con alegría (55:2.5-6)
+	en la batalla física es fácil (143:1.6)
+	sin conciencia del tiempo en (112:3.7) (112:5.13) (168:2.5,9) (188:3.9)
+	no muerte en el Paraíso (27:1.5)
+	ocurre al cesar las energías cerebrales mensurables, el movimiento vital (101:3.3) (112:3.4) (112:5.14)
+	la luz piloto en la mente humana desaparece (113:6.2)
+	El fenómeno reflexivo puede ocurrir justo antes de (39:5.11)
+	significado de la muerte
+		trae una nueva dispensación de servicio (176:2.7)
+		no gana al hombre nada excepto la experiencia de supervivencia (47:3.7) (48:0.2) (48:7.25) (103:5.7)
+		solo el comienzo de una carrera sin fin (14:5.10)
+		parte de la vida mortal (20:6.7) (188:4.2)
+		precipita eventos que conducen a Jesús (176:4.7)
+		técnica de escape de la vida material (32:5.4) (47:10.7) (49:6)
+muerte espiritual | Ver extinción; no supervivientes; llamamiento:de la justicia
+	Ajustador, los Serafines deben estar de acuerdo, los censores verifican (112:3.2)
+	El Ajustador procede al seno del Padre sobre (39:2.13)
+	Ajustador liberado tras el rechazo de la supervivencia; Serafines permanece (112:3.2) (130:4.8)
+	la perdición final sólo después de que los autoconceptos desplacen completamente el núcleo espiritual (12:9.6)
+	El ángel de la guarda responde al llamamiento dispensacional, pero el Ajustador no responde (49:6.7) (113:6.8)
+	Jesús advirtió sobre la ruina espiritual (153:2.3)
+	no sellado hasta que se pierde el poder de elegir la voluntad del Padre (5:1.11)
+
+pena de muerte | | Ver justicia | | 
+los antiguos dieron muerte a 10 inocentes por la supuesta responsabilidad de una muerte natural (88:4.7)
+Ardiendo en juego bajo Hamurabi, Moisés (70:10.14)
+por robar ganado, caballos (70:10.15)
+Moisés prescribió la pena de muerte para los cultistas de fantasmas (92:5.11)
+Los romanos negaron a los judíos el derecho a infligir (162:3.3)
+el derecho del estado a la autodefensa (133:4.12)
+seguro y rápido en la nación continental (72:10.1)
+
+club de debates | | | | 
+ni la paz ni la guerra pueden ser gobernadas por (70:5.5)
+
+Débora | (150:3.1) | | PERSONA | OK
+Débora fue una gobernante del pueblo hebreo que logró que se derrotara a Sísara en Taanaj (126:1.2)
+la crueldad persistió en el reinado de Débora, a pesar de que era mujer, pues tras una victoria hizo que murieran todos los rendidos (70:1.17)
+
+deuda | | | | 
+la ambición esclaviza a los hombres (69:8.10)
+los primeros acreedores controlaron el cuerpo después de la muerte (69:5.8)
+los gobiernos no pueden incurrir deuda en la nación continental (72:7.3,7)
+parábola del prestamista (147:5.4)
+parábola del mayordomo astuto (169:2)
+grabado en la tabla de cera (169:2.4)
+sociedades secretas empleadas por comerciantes para recolectar (70:7.18)
+
+Decápolis | (144) (159) (128:3.2) | Ver Escitópolis | LUGAR | 
+Amós el lunático de Jeresa evangelizado en (151:6.8)
+Ciudades grecorromanas de (123:5.12) (124:3.6-9)
+
+Decán | | Ver India | LUGAR | 
+Los anditas emigraron a (79:2.4-5)
+Los arios dejaron poca impresión racial en (79:4.3)
+cultos y credos degradantes y debilitantes de (79:4.7) (94:2.5-6)
+La cultura dravidiana sobrevivió en (79:3.6,8)
+Los misioneros de Salem encontraron el sistema de castas en (94:2.1-2)
+
+25 de Diciembre; veinticinco de diciembre | | | | 
+festival anual de Mitra celebrado el (98:5.4)
+
+planetas decimales | (40:5.18) | | | 
+Espíritus Ayudantes de la Mente relativamente aislados en (65:7.3)
+siempre hay intermedios (38:9.2)
+Los Portadores de Vida experimentan con nuevos patrones en (57:8.7-9) (58:0.1)
+mundos de experimentos de vida con mayor variación en los diseños de vida estándar; 1 mundo en 10 es (36:2.15)
+pequeños planetas oscuros adecuados para experimentos con la vida (23:2.20) (49:5.11)
+Tabamantia es inspector de planetas decimales en Satania (49:5.12)
+Urantia es el 60 planeta decimal en Satania; características únicas (36:2.15) (49:5.11) (57:8.7-10) (58:0.1) (65:4.7-9)
+
+decisiones | | Ver consagración de elección; resolución de problemas; renacimiento espiritual; voluntad | | 
+Los ajustadores hacen que la vida sea difícil de estimular y multiplicar (108:5.5)
+consumado en acción (101:7.1) (117:5.13)
+esencial para la adquisición de valores de supervivencia (50:6.3)
+frente a una grave muerte, Jesús se retiró para la comunión (136:4.10)
+influenciado por la moralidad, la ignorancia, la inmadurez, el engaño (16:7.7)
+Las grandes decisiones de Jesús (136:5-10)
+naturaleza moral impotente sin discriminar significados (16:7.8)
+mortales
+	avanzar en el estado espiritual mediante la fuerza, el poder y la persistencia
+	de su decisión (39:4.14) (117:3.6) (127:2.12)
+	están tan desprovistos de valentía decisiones (110:4.5)
+	deben llegar a los suyos decisiones (163:2.8)
+	a veces escucha la voz directa del Ajustador sobre el supremo decisiones (110:7.9)
+de los progresores morontiales respetados, si no perjudiciales para sí mismos o para los demás (48:6.6)
+Felipe se enfrenta a la cuestión de la vida (137:2.4)
+el poder de elección es una insignia de la condición de criatura del libre albedrío (112:5.5)
+resultado de decisiones
+	relación de crisis de decisiones tiene mucho que ver con la influencia de la creación de círculos (110:6.6)
+	re. abrir una nueva capacidad de crecimiento (115:3.16)
+	las decisiones morales causan la invasión divina del alma (196:3.20)
+	repeticiones persistentes de decisiones esencial para el logro del círculo psíquico (110:6.6)
+	presencia de Dios determinada por (13:4.4-5)
+proporcionar un punto de apoyo psíquico para los Ajustadores (108:5.8)
+El Ser Supremo depende para la actualidad de las decisiones mortales (112:5.5)
+permaneciendo en el valle de decisiones (165:3.8)
+trazamos nuestro propio rumbo; los ángeles hacen el mejor uso posible de ese curso (113:5.4)
+
+Declaración de Libertad | | Ver rebelión de Lucifer:manifiesto de Lucifer | | 
+
+fiesta de la dedicación | | Ver judaísmo:fiestas | | 
+
+dedicación espiritual | | Ver consagración de elección | | 
+
+deducción | | Ver lógica | | 
+
+ciervo | (61:3.5) (61:5.7) | | | 
+cazado por los neandertales (64:4.2)
+
+defecto | | Ver traición | | 
+
+derrota | | Ver depresión; decepción; desastre; miedo; dolor | | 
+después de los fracasos, ¿nos levantaremos para intentarlo de nuevo? (48:6.35)
+Culpar a los demás por lo nuestro (176:3.9) (193:4.7)
+re. envía al peregrino de Havona a los universos con el guardián seráfico o el Compañero del Paraíso (25:8.9-11) (26:3.9)
+la discreción llevada demasiado lejos conduce al fracaso (149:4.4)
+no temas al fracaso (34:7.8)
+episodio educativo; ganar sabiduría al adaptarse a (160:4.14-16)
+entusiasta sobre lo aparente derrota (26:5.3)
+las fallas son solo demoras ineludibles (26:8.4)
+la amistad disminuye el dolor de (160:2.9)
+La humanidad de Jesús no es insensible al aparente fracaso (182:3.10)
+Jesús no ha sido afectado por un aparente fracaso (100:7.7)
+Judas se negó a considerar el aparente fracaso (177:4.3)
+Judas fue un pobre perdedor; amargamente resentido por frustrar (193:4.6)
+nunca dude en admitir derrota; aprender a fallar con gracia (160:4.13)
+la percepción espiritual se convierte derrota en nuevas determinaciones (196:3.29)
+historia de la fortuna (130:6)
+tiempos de derrota siempre tiempos de gran revelación (195:9.3)
+espejo verdadero en el que ver el yo real de uno (156:5.17)
+confiar en la bondad de Dios a pesar de la amargura (101:3.6)
+arrebatar la victoria de las fauces de (127:6.12)
+
+defectuosos | | Ver inferiores | | 
+
+deshonra | | Ver ceremonias:ceremonias de purificación | | 
+por contacto con los muertos (135:1.1) (135:2.1)
+entrando en un edificio gentil antes de la Pascua (185:0.3-4)
+causado por el mal que se origina en el corazón (153:3.5)
+Los griegos creían deshonra causado por cerdo, ajo, menstruación (84:4.8)
+purificación después del parto (84:4.6) (122:9.1) (122:10.2)
+
+degeneración | | | | 
+gran desventaja que enfrenta Urantia (55:3.21)
+
+degenerados | | Ver inferiores | | 
+
+Deidad | | Ver Hijo Eterno; Dios; Espíritu Infinito; Padre Universal | | 
+7 niveles de función (0:1.3-10,14)
+7 Espíritus Maestros retratan la Deidad séptuple (16:1.1-2)
+y realidad (105)
+D. presencia absoluta solo en el Paraíso superior (11:3.1) (56:9.7)
+descrito
+	siempre uno en la experiencia humana (34:6.2)
+	criatura realizada en fusión Ajustador (117:3.9)
+	abarca hechos de energía así como valores espirituales (0:2.10) (103:7.3)
+	naturalezas de Padre, Hijo, Espíritu, Supremo, Séptuple, Último y Absoluto (118:0.1-8)
+	personalizable como Dios, caracterizado por la unidad y la divinidad (0:1.2,16) (0:1.15) (56:5)
+	fuente de todo lo que es divino (0:1.15)
+	Supremo es el máximo de Deidad que las criaturas pueden entender (56:6.3) (56:8.1)
+	la verdad, la belleza y la bondad son revelaciones de (56:10.2,9)
+deidades de las religiones primitivas | Ver dioses y diosas
+deidades existenciales
+	3 personas de la Deidad son el Padre Universal, el Hijo Eterno y el Espíritu Infinito (3:6.8) (10:3) (56:5.1) (56:7.3)
+	es la unidad, la totalidad de la función, en la Trinidad (0:7.1-6) (10:3.7,8,16) (117:3.9)
+	Los circuitos maestros derivan de las presencias de personalidad de (34:4.5)
+	la materia es la sombra del espacio-tiempo de la energía del Paraíso que brilla (56:10.18)
+	presencia espiritual influenciada por la lealtad de las criaturas (13:4.3-5)
+	La tarea de los peregrinos de Havona es el reconocimiento espiritual y de personalidad de (26:7.5)
+	potencial total en el Absoluto de la Deidad (10:8.4)
+	trasciende el tiempo y el espacio (130:7.4)
+Deidades experienciales
+	La 1.a y 2.a Trinidades experienciales son Deidades derivadas (0:12.3)
+	La evolución amplía las revelaciones de (56:7.1,2,5)
+	El padre logra expresarse en (0:7.6)
+	Dios el Supremo, Dios Último y posiblemente Dios el Absoluto (0:9.4)
+	El control excesivo de las Deidades experienciales hace que los fenómenos sean impredecibles (15:8.9)
+	presencia influenciada por la lealtad de las criaturas (13:4.4-5)
+	unificación de la Deidad evolutiva (56:6)
+Entidades de la Deidad fragmentadas en la clasificación del Paraíso (30:1.100-102)
+Dios como Padre tiene prioridad sobre todas las fases de la Deidad (54:6.2)
+meta infinita de logro eterno (56:10.16)
+la mente es autóctona de (6:6.2)
+naturaleza | Ver belleza; bondad; justicia:justicia divina; amor:amor divino; misericordia; omnipotencia; omnisciencia; verdad
+El Paraíso no es Deidad (11:9.4)
+personalización de (10:2-4)
+las realidades de Deidad buscan la realización en la personalización (0:12.4)
+enfoque séptuple de (0:8.1-8)
+la personalización triple era absoluta inevitabilidad (16:1.1)
+La Trinidad funciona como Deidad total (10:8.3-4)
+Seres no revelados en la clasificación del Paraíso (30:1.23,24,63)
+
+Absoluto de la Deidad | (0:4.5) (56:9.7) | Ver Absolutos:los tres; Dios Absoluto | | 
+definido como
+	Absoluto de potencialidad; activador de potenciales estáticos (115:3.8,10) (118:4.3-5)
+	iniciador del destino; 1 de 7 Absolutos del Infinito (105:3.6)
+	experiencial en actualización, existencial en potencial (0:7.5)
+	Las trinidades experienciales culminan en la personalización de (56:9.5)
+	Potencial Infinito; SOY autocalificado (105:2.9)
+	ilimitado, atemporal, sin espacio, sin límites y sin medida-verdaderamente infinito (106:7.3,9)
+	no es el equivalente del Infinito (0:10.1)
+	potencial prepersonal y existencial de la Deidad total (0:3.16) (0:11.5-6) ​​(10:8.4) (105:3.6)
+	el Absoluto Calificado (0:11.6)
+	se unifica con el Absoluto Incalificado en el Absoluto Universal (0:3.18) (0:11.3) (56:1.2) (56:9.1)
+	función ilimitada de la Trinidad? (56:9.3)
+Dios el Absoluto es existencial como (0:2.18)
+enlace de los Censores Universales con (19:4.7)
+Majeston creado por reacción en (17:2.2-6) (106:8.20)
+miembro de la triodidad de potencialidad (104:5.7)
+domina toda la realidad material (56:1.2)
+reacciones poco personales; impredecible (7:1.9) (12:6.6-7)
+relación con el Hijo Eterno (7:1.9-10)
+responde en términos de bienestar de toda la creación (0:11.5)
+respuesta en la creación de Majeston por encima de las previsiones (17:2.5)
+el espíritu emerge de los potenciales de (6:5.2) (7:1.10-11) (7:2.1)
+membresía de triunidad (104:4.16,34)
+unificación de la Trinidad Absoluta experiencializa (0:12.7) (106:5.1)
+
+Hijos trinitizados por la Deidad | | Ver Hijos de Dios Trinitizados | ORDEN | 
+no revelado (22:0.5)
+
+Deidad de la Ultimidad | | Ver Dios Último | PERSONA | OK
+
+retrasar | | Ver paciencia | | 
+los mortales deberían ser lentos para criticar los retrasos del universo (54:6.8)
+Nunca consideró una derrota en Paraíso (26:8.3-4)
+el aplazamiento no es evitación (48:5.8)
+sabiduría de (54:4-5)
+
+delegación | | Ver compartir | | 
+Padre
+	se distribuye libremente; no es egocéntrico (2:2.5) (7:0.2)
+	se reserva solo poderes imposibles de delegar (5:0.2) (8:3.2) (10:1) (10:3.6) (32:4.1-2,10-12)
+	ejercicio resignado de todo poder directo en nombre de los Creadores Supremos (4:4.4) (108:4.1)
+Jesús no hizo lo que otros podían realizar aceptablemente (141:1.3) (148:0.3) (149:0.2)
+Jesús instaló hermanos como jefes de la casa de José (128:2.4)
+
+delincuencia | | Ver crianza de los hijos; disciplina | | 
+Los padres excesivamente indulgentes abarcan la destrucción moral de sus hijos irreflexivos (147:5.9) (177:2.2)
+
+Libertador | | Ver Mesías | | 
+después del bautismo, Juan supo que Jesús era el Libertador (135:8.7)
+donación Hijos Paradisiacos acreditados como Libertadores (27:0.2)
+Jesús reconoció a Nalda que él era el Libertador (143:5.7-8)
+Vendrán muchos falsos libertadores y descarriarán (176:1.1)
+Pedro reconoció que Jesús era el Libertador (157:3.5)
+
+desmaterialización | | Ver transporte seráfico, secoráfico y superáfico | | 
+por transporte de Serafines en Jerusem (46:5.26)
+si el planeta entero debe vaciarse (51:2.3)
+de Adán y Eva (74:0.1) (74:1.5)
+del cuerpo de Jesús por arcángeles (189:2.1-4)
+de Melquisedek (93:8.1)
+
+semidioses | | | | 
+entidades en la teología hindú (94:4.7)
+
+democracia | | Ver gobierno:democracia | | 
+
+posesión demoníaca | (138:4.3) | Ver intermedios | | 
+El apóstol Juan no mencionó (145:2.13)
+expulsión de demonios por evangelistas (163:6.2)
+existió después de la rebelión caligástica (87:4.7)
+debilidad mental, locura y epilepsia confundidas con (77:7.6-7) (141:4.8) (145:2.12-14)
+Doctrina hebrea de los demonios derivada de los zoroastrianos (95:6.6)
+en general, es el dominio de las propias tendencias degradadas (53:8.9)
+en tiempos antiguos, cualquier cosa anormal atribuida a (90:1.2)
+El hijo de Jacobo de Safed estaba poseído (158:4.2) (158:5)
+Jesús expulsó demonios en Cafarnaúm (153:4.1)
+nunca es posible para los de mente normal (77:7.7)
+ninguno después de la llegada del Espíritu de la Verdad (53:8.7) (77:7.4-8) (87:4.7) (141:4.4-8) (145:2.13) (146:7.1) (153:4.1) (163:6.2 )
+ninguno ahora a menos que un mortal lo desee (53:8.6-9)
+Norana creía que su hija estaba poseída (156:1)
+Intermedios rebeldes ahora internados (51:3.7) (77:7.8)
+los espíritus supuestamente entraron en los cerdos (151:6.6)
+creencia universal enfermedad causada por (121:7.12) (148:2.3)
+
+demonios | | Ver posesión demoníaca | | 
+Los monoteístas en evolución mantienen a los dioses subordinados como (96:1.14)
+
+denarios | | Ver dinero | | 
+200 denarios no compraría pan por 5000 (152:2.6)
+La imagen de César en (174:2.2)
+a los obreros de la viña cada uno recibe un denario (163:3.6)
+prestamista prestó deudor 500 (147:5.4)
+mayordomo debía 100 (159:1.5)
+
+Dinamarca | | | LUGAR | 
+surgió del mar (80:2.4)
+cuartel general militar de los anditas del norte (80:5.2)
+
+densidad | | | | 
+de soles | Ver Sol (de Urantia); soles
+
+denuncias | | | | 
+Jesús denunció a los escribas, fariseos e hipócritas (163:6.5) (166:1.4-5) (175:1) (175:4.2)
+Jesús pasó poco tiempo en (147:6.6)
+Juan el Bautista denunció a Herodes, líderes religiosos (135:10.2)
+
+deposiciones | | | | 
+Melquisedek viaja para llevarse (35:2.4)
+
+depravación | | Ver iniquidad | | 
+
+depresión | | Ver derrota; decepción; dolor | | 
+hijos de fe inmunes a (156:5.13)
+sacudirse (181:2.11)
+historia de la fortuna (130:6)
+Tomás afligido por depresión; Evitó imprudentemente a Jesús cuando estaba deprimido (139:8.10-11)
+
+Hijos descendentes de Dios | | Ver Hijos de Dios:órdenes | ORDEN | 
+
+deserción | | Ver traición | | 
+de los trabajadores de jardinería (73:4.5)
+de los seguidores de Jesús después del episodio de hacer reyes (152:3)
+posibilidad de deserción brinda oportunidad de lealtad (3:5.12)
+
+Diseñadores y los Embellecedores; artesanos | | Ver Artesanos Celestiales | ORDEN | 
+1. Los artesanos de color (44:6.3)
+2. Los diseñadores de los sonido (44:6.4)
+3. Los diseñadores de las emociones (44:6.5)
+4. Los artistas del olor (44:6.6)
+5. Los embellecedores de las presencias (44:6.7)
+6. Los diseñadores del gusto (44:6.8)
+7. Los sintetizadores morontiales (44:6.9)
+
+deseo de todas las edades | | | | 
+Jesús es (182:1.13)
+
+deseos | | Ver metas | | 
+
+desesperación | | Ver ansiedad; derrota; depresión; miedo; dolor | | 
+la única recompensa de los materialistas por la vida de trabajo duro (102:0.1-2)
+historia de la fortuna (130:6)
+
+destino | (40:10) | Ver metas; providencia | | 
+inadecuadamente revelado por la historia (19:1.11)
+destino mortal
+	inspirarse en las representaciones de Ajustador de (110:6.5) (111:7.2)
+	creación y respuesta a metas espirituales (12:9.1)
+	la vida diaria determina el destino eterno (48:7.26)
+	despliegue sin fin de un panorama casi infinito (108:6.8)
+	establecido por identificación espiritual (40:5.4)
+	conocimiento final del Padre (106:8.22)
+	el hombre es artífice de su propia eternidad destino (70:1.16) (103:5.10)
+	sin límite sobre el destino para ascendentes fusionados (32:3.8) (107:4.7)
+	potencialmente destino final valor absoluto (106:7.4)
+	progresión de los supervivientes de aquí en adelante (14:5.1,4) (31:10.20)
+	estudio desde el punto de vista de la fuente del Paraíso (19:1.5-12)
+no hay tal cosa como un final (115:3.17-18)
+no necesariamente mayor o menor (40:10.5)
+los seres personales pueden aceptar o rechazar (112:5.1)
+destino del universo
+	La era de los primeros niveles del espacio exterior liberará a los superuniversos de las limitaciones de la era actual (106:0.18).
+	finalización del ciclo de la realidad (106:8.12)
+	consumado por Consummator of Universe Destiny (106:7.3)
+	creación interdependiente en la realización de (117:6.20)
+	establecido por el acto volitivo de las Deidades (106:7.3)
+	expansión a medida que la gravedad y el amor llegan al espacio organizador del tiempo (106:3.5)
+	plena autorrealización del YO SOY (106:8.22)
+	perfección, así como Havona (117:7.13)
+	reuniendo las 7 fases absolutas del Padre-YO SOY (106:7.10)
+	subyugación de energía-materia por la mente, coordinación con el espíritu, por la personalidad (116:5.15) (116:6.1,4) (117:2.1)
+
+reservistas del destino | | Ver reservistas | ORDEN | 
+
+destrucción | | | | 
+camino a la destrucción es amplio (166:3.3)
+
+detalles | | Ver distracciones | | 
+
+detención | | | | 
+detención preventiva en la nación continental (72:10.2)
+
+planetas de detención | | Ver mundos de las mansiones | | 
+
+esferas de detención | | Ver mundos carcelarios | | 
+
+deterioro | | | | 
+habiendo puesto la mano para arar, no puede volver atrás (163:2.3)
+repugnante a la naturaleza divina sufrir deterioro (12:7.3)
+
+determinismo | | Ver libre albedrío; materialismo; mecanicismo (teoría) | | 
+allí, pero no solo (195:6.14-15)
+
+Deuteronomio | | | | 
+Jesús leyó de (150:8.8) (153:2.1)
+retrató la Gran Elección entre el bien y el mal (97:8.3)
+
+diablo | | Ver Caligastia; posesión demoníaca; Lucifer; Satán | | 
+La doctrina de la expiación describe el rescate del hombre de (194:2.8)
+fundamento de la doctrina en Caligastia (53:1.4) (66:8.6) (179:2.3)
+dado crédito por el mal que no ha causado (53:8.9)
+Doctrina judía derivada de los zoroastrianos (95:6.6)
+atribuir conscientemente obras de Dios a (153:4.3)
+el hombre nunca es propiedad de (145:3.4) (188:4.3) (194:2.1)
+El sanedrín atribuyó las obras de Jesús al poder de (162:7.4-5) (164:4.11) (168:3.4) (169:0.7) (173:2.4)
+superstición de que Dios aflige al hombre a instancias de (148:6.11)
+
+Devoniano; devonianos; devoniana; devonianas | | Ver edades geológicas | | 
+Edad de los peces hace 270-220 millones de años (59:4.5-8)
+
+devoción | | Ver lealtad | | 
+
+Devoradora | | | PERSONA | OK
+La religión egipcia consignó a las almas deficientes a la Devoradora, el infierno (95:2.9)
+
+punto de rocío | (46:2.2) | | | 
+
+dialectos | | Ver idioma | | 
+diferentes dialectos hablado cada 40 millas entre los primitivos (68:1.6)
+origen ilustrado por la charla infantil en la familia (81:6.17-18)
+
+diamantes | (63:5.6) | | | 
+
+dictado | | Ver registros | | 
+
+dictadores | | Ver gobierno:la relación de los creyentes con | | 
+evitar el control de aspirantes a ambiciosos e inteligentes dictadores (70:12.12)
+cuando los gobiernos actúan como dictadores sobre las religiones (178:1.9)
+ganó en la lucha entre la división de autoridad y la unidad de mando (70:12.2)
+
+dieta | | Ver comida | | 
+los ancianos trataron la enfermedad con (90:4.8)
+
+dificultades | (4:1.7-9) | Ver desafíos; compensaciones; conflicto; confusión; mala adaptación; oportunidades; perspectiva; resolución de problemas; sufrimiento | | 
+que surgen de las relaciones requieren sabiduría (28:5.13)
+creyentes
+	Permitir que los Ajustadores se fortalezcan mientras luchan con (111:7.3)
+	desafiado y fortalecido por (26:5.3) (130:6.4) (156:5.21)
+	afrontar con valentía los problemas de la realidad universal (91:8.2)
+	el evangelio es solvente para las dificultades (194:2.1)
+	muchas son las aflicciones de los justos, pero Dios las libra (131:2.10)
+	El amor de la Maestra no nos libra de las dificultades (180:1.5)
+	debe atravesar la franja del conflicto (159:3.7) (160:1.6)
+	no preocupado por los trastornos temporales (176:3.2)
+	los que buscan a Dios son liberados del cautiverio (130:1.2)
+	sin miedo cuando es superado por (48:6.35) (156:5.13,21) (159:3.13)
+	utilizar el poder moral y la energía espiritual para resolver las dificultades (166:3.8)
+	cuando las nubes se acumulan en lo alto, mira más allá de las brumas de la incertidumbre mortal (108:6.8)
+	arrebatar la victoria de las fauces de la derrota (127:6.12)
+beneficios de las dificultades
+	Andón y Fonta se criaron en un entorno difícil (61:6.3)
+	el hombre aprendió la industria a través de la opresión (69:8.8)
+	muchos encuentran a Dios buscando ayuda divina para resolver las dificultades (103:2.4)
+	muchas verdades solo se sienten en la adversidad (48:7.18)
+	pasos en falso porque la perfección es la meta, no el origen (75:8.6-7)
+	debe ser encontrado como entrenamiento para el alma (154:2.5)
+	prepararnos para la sabiduría, la educación superior (132:7.2)
+	tiempos de prueba siempre tiempos de gran revelación (195:9.3)
+no se puede cambiar a menos que el Padre lo desee (147:3.3)
+no puede disuadir a los hombres de algunas perplejidades (143:3.1)
+desafiar la mediocridad y derrotar al temeroso (48:7.7)
+Los creadores hicieron universos en los que las dificultades abundar; mala adaptación inherente al crecimiento (23:2.12) (25:3.7) (105:6.4)
+no le pidas a Dios que te resuelva (91:6.5)
+El padre participa en nuestras luchas (1:5.15-16)
+la amistad disminuye el dolor de (160:2.9)
+el futuro agotará las posibilidades de mala adaptación (117:7.13)
+intelectual y emocional dificultades no interfieren con la supervivencia segura del alma que conoce a Dios (110:3.5)
+Jesús
+	no participó en actividades sociales dificultades (143:3.1)
+	dejó desenredado de dificultades al cumplimiento de la voluntad del Padre (137:5.3)
+	se negó a aplicar pruebas materiales a los problemas espirituales (136:9.9)
+Judas culpó a otros por su propia muerte; nunca fue a Jesús con personal dificultades (193:4.7,10)
+la humanidad debe resolver sus propios problemas (65:3.6)
+muchos son inexistentes, creaciones de miedo exagerado (143:3.6)
+los asuntos mortales no transcurren sin problemas a largo plazo (75:8.6-7) (128:5.7)
+la lucha mortal no es en vano (32:5.1-2)
+muy difícil de reconciliar con la idea de que la verdad prevalece (194:3.2)
+perspectiva obtenida solo mediante el estudio del origen, la historia y el destino de la situación (19:1.5-12)
+porción de todos los que se niegan a crecer (156:5.18)
+la evitación de problemas es un rasgo animal que la carrera morontial erradica (48:5.8)
+la religión clasifica, evalúa y resuelve la mayoría dificultades (196:3.1)
+la prueba revela el alma del hombre (165:6.2)
+
+digestión | | | | 
+cocinar energía reducida necesaria para (69:6.7)
+
+dignidad | | Ver respeto por uno mismo | | 
+
+diligencia | | Ver acción | | 
+
+Dilmat | | | LUGAR | 
+Ciudad sumeria a la que se refieren los egipcios (77:4.8)
+
+Dilmun | | | LUGAR | 
+Cuartel general nodita después del hundimiento de Dalamatia (77:3.1-2)
+Los sumerios confundidos con las tradiciones de Dalamatia (77:4.8-9)
+
+dinosaurios | | | | 
+1 libra de cuerpo de 40 toneladas controlado por el cerebro (60:1.10)
+apariencia, evolución y declive (60:1.10) (60:2.1-6,10)
+las aves evolucionaron a partir de saltos de huesos huecos (60:1.10) (60:2.12)
+en declive; condenado por muy poco cerebro para el tamaño del cuerpo (60:3.20-21) (61:2.5-6)
+los más grande dinosaurios vivían en las montañas Rocosas (60:2.2)
+Predominaban los tipos más ágiles (60:3.20)
+ninguno enterrado en Australia (60:2.2)
+mamíferos placentarios descendientes de (61:1.2) (65:2.12)
+muerto de hambre (60:2.3,12-14)
+
+Diógenes de Atenas | | | PERSONA | OK
+Los cínicos remontaron su filosofía hasta Diógenes de Atenas (121:4.4)
+
+Dion | (165:0.1) | | LUGAR | 
+Una de las poblaciones recorridas en la misisón de Perea
+
+Dionisio; culto dionisíaco | | | PERSONA | OK
+El culto a la naturaleza de Dionisio floreció en Grecia (98:2.10)
+
+diplomacia | | Ver tacto; táctica | | 
+Jesús no emplearía diplomacia para continuar el ministerio (136:8.4)
+
+dirección | | Ver brújula | | 
+4 puntos cardinales inherentes (34:4.13)
+absoluto dirección establecido por el eje del Paraíso (11:2.3)
+posiciones de los superuniversos en relación con el Paraíso (15:4.5)
+
+criaturas del control direccional | | | | 
+brújulas vivientes de la sede del universo (34:4.12-13)
+
+Directores de la Asignación | | Ver Serafines | ORDEN | 
+Serafines supremos; concilio angelical supremo (39:1.16)
+
+Directores de la Conducta | (27:4) | | ORDEN | 
+evitar la confusión y la incertidumbre (27:4.3)
+instruir a los que llegan al Paraíso en los usos aceptados (27:4.1)
+Supernafines primarios (27:0.7)
+Las satisfacciones del servicio reflejan (28:5.17)
+
+decepción | | Ver derrota; depresión; desánimo; dolor | | 
+Ajustadores sujetos a (110:7.10)
+una inevitabilidad; rasgo común de la existencia humana (3:5.6) (193:4.7)
+atendiendo a las búsquedas egoístas (195:9.7)
+atiende al error ya que no se puede vivir (2:7.6)
+puede convertir el amor en odio (177:4.11)
+aplasta a los que se fijan en los atractivos temporales (177:4.10)
+hijos de fe sin miedo, no desanimados por la decepción (100:6.6) (100:7.8) (127:6.12) (130:6.4) (156:5.13) (160:4.13)
+engordando (26:5.3)
+la amistad disminuye el dolor de (160:2.9)
+la mayor decepción es el fracaso en la aventura de la Deidad (26:10.2-4)
+Jesús predijo el aplastamiento de la decepción (171:2.4)
+Jesús sometió a los apóstoles a repetidos (153:1.3) (157:4.1) (158:5.4)
+Judas nunca tuvo una técnica filosófica para reunirse (193:4.7)
+nunca considerado como una derrota en el Paraíso (26:8.3)
+valor espiritual de (151:0.1)
+esos decepción que nunca llegan son los más difíciles de soportar (48:7.21)
+para disminuir decepción, esperar menos de algunos (48:6.36) (192:2.10)
+confiar en la bondad de Dios a pesar de la amargura (101:3.6)
+peor decepción a veces se convierte en la mayor bendición (48:6.36)
+
+desarme | | | | 
+no conduce a la paz (134:6.6)
+
+desastre | | Ver accidentes; crisis; derrota | | 
+siempre trabaja para el bienestar y el progreso (10:7.5-6)
+La traición de Caligastia y el incumplimiento de Adán fue (34:7.6)
+las colisiones reviven soles quemados (15:5.11)
+La dotación de libertad de seres imperfectos conlleva una tragedia inevitable (110:0.1)
+si una catástrofe física condenara a un planeta, los supervivientes llevados al nuevo mundo (51:2.3)
+Jesús alegremente indiferente hacia (178:2.1)
+
+Discernidores de Espíritus | | | ORDEN | 
+Revelar almas desnudas de individuos reflejados (28:5.9,19-20)
+tener una percepción espiritual inherente (28:5.20)
+enlace con Consejeros y los Asesores de Havona (28:5.19)
+reflejar el conocimiento del Espíritu Materno (28:5.22)
+reflejan la presencia de Ajustadores (28:5.22)
+Seconafines secundarios, asociados reflexivos de los Censores Universales (28:5.19-22)
+
+discípulos | | Ver apostolado; hijos de Dios por la fe | | 
+Jesús requiere la vida de sus discípulos (191:5.3)
+Jesús sometió a sus discípulos a la decepción repetida (153:1.3)
+puede regresar a casa para ministrar a sus seres queridos (163:2.2)
+debe estar dispuesto a abandonar al padre, la madre, la esposa y el hijo por el reino (171:2.2-3)
+debe ganarse el pan, contribuir a los que enseñan (165:5.3)
+deben renunciar a todo lo que son, dedicar todo lo que tienen (150:4.3) (163:3.4) (167:2.2) (171:2.2,4)
+solo 3 hombres rechazaron la invitación de Jesús a convertirse (149:2.12)
+contra apóstoles (140:6.9-13)
+somos discípulos de Jesús si hacemos la voluntad del Padre, y nos amamos unos a otros (102:6.7) (162:7.2) (180:1.1) (180:2.1) (191:4.3)
+
+disciplina | | Ver crianza de los hijos; castigo | | 
+aplicación de la guerra temprana (70:2.4)
+Melquisedek errante purgado con reposo correccional (35:2.8)
+los miembros de la familia a veces deben compartir (3:2.9)
+El padre corta las ramas sin fruto (180:2.6) (193:2.2)
+pocos mortales se dedican a actividades espirituales (110:7.6)
+Dios a veces nos castiga para nuestro propio beneficio (2:5.3)
+en grupos sociales
+	la comunión debe mantener el orden temporal (159:1.3,6)
+	los grupos sociales pueden mantener el orden (43:8.4) (178:1.2)
+Jesús nunca dudó en ser severo si fuera necesario (171:7.7)
+de niños
+	comenzó muy temprano entre los antiguos (84:7.20-25)
+	favorable (66:7.5)
+	en la familia de José y María (123:3.9)
+	Jesús comenzó temprano; el castigo rara vez se requiere (127:4.3-4)
+	que la compasión sea parte de todo castigo (131:9.4)
+	el castigo como afecto correctivo (142:2.4)
+	restricción de los actos imprudentes del niño (143:1.4) (177:2.7)
+	los padres sabios castigan en amor por la corrección (142:7.9) (188:4.10)
+No tientes a los ángeles para que te guíen por caminos problemáticos (178:1.10)
+La lealtad de Van resultó de un carácter disciplinado (67:3.6)
+a quien ama el Señor, corrige (148:5.5)
+
+divulgación | | Ver secreto; censura | | 
+Trabajar por la expresión completa e ilimitada del pecado como la cura final más rápida (54:5.9-12)
+
+desánimo | | Ver decepción | | 
+no te desanimes; evolución todavía en proceso (196:3.33)
+no te desanimes al descubrir que eres humano (156:5.8)
+no significa necesariamente resistencia al Ajustador (110:3.5)
+evidencia de inmadurez moral (160:1.6)
+Jesús estuvo con Simón el Zelote durante todos sus desánimos (181:2.11)
+historia de la fortuna (130:6)
+
+descubrimientos | | | | 
+el comercio y la aventura llevaron a (69:4.8)
+El consejo de Jesús sobre la riqueza derivada de (132:5.16,20)
+
+discreción | | Ver propiedad | | 
+llevado demasiado lejos, conduce a la cobardía y al fracaso (149:4.4)
+Jesús ocultó lo que lo hacía verse diferente (124:4.1) (126:3.14)
+la sabiduría abraza la discreción así como la sinceridad (181:2.15,21,27)
+
+discriminación | | Ver intolerancia | | 
+
+enfermedad | | Ver curación; salud; lesión; medicamento; enfermo | | 
+Adamitas mucho más resistentes a (76:4.7)
+siempre trabaja para el bienestar y el progreso (10:7.5-6)
+aspectos biológicos
+	cocinar los alimentos evita las enfermedades (66:5.18)
+	productos químicos curativos en el tratamiento de lesiones (65:4.5)
+	células humanas similares a organismos productores de enfermedades (76:4.7)
+	la mayoría de las bacterias que causan enfermedades son hongos parásitos renegados (65:2.3) (65:5.2)
+derramamiento de sangre una vez se creyó cura para (70:2.10)
+la fe exhibe un equilibrio inexplicable a pesar de (101:3.8)
+la fe en el tratamiento es un remedio poderoso (90:4.1-2)
+El padre trabaja para mejorar nuestro estado terrenal (147:3.3)
+gran desventaja que enfrenta Urantia (55:3.21)
+aislamiento de enfermos prevenido contagio (90:3.4)
+dominado en la era del Hijo autootorgado (52:5.9)
+tratamiento material y espiritual (148:2.1)
+tratamiento no científico de (90:4.2)
+ocurrió como aflicción física, mental y emocional, y posesión demoníaca (141:4.4-7) (147:3.3) (166:4.10)
+el dolor es inevitable (3:5.14)
+los primitivos creían que la enfermedad
+	curado por rocas porosas (85:1.4)
+	diagnosticado por las entrañas de los animales (90:4.3)
+	producido por magia; el enemigo (86:3.3) (90:3.7)
+	castigo por el pecado, personal o racial (90:3.8)
+	teorías chamánicas (90:2.1) (90:3)
+	tratados con cánticos, aullidos, imposición de manos, respiración
+en el paciente (90:4.4-5)
+resulta de causas naturales (90:3.9)
+enfermos segregados en el hospital de Betsaida (148:0.1)
+tipos nombrados | Ver coma; hidropesía; epilépticos; leprosos; malaria
+mujer con espíritu de enfermedad (167:3.1-2)
+
+desarmonía | | Ver mala adaptación | | 
+
+deshonestidad | | Ver falsedad | | 
+
+deslealtad | | Ver lealtad | | 
+a través de la indecisión, la indiferencia, la devoción a los ideales impíos (89:10.2)
+Confiar en los amigos es más destructivo para el estado de la personalidad (67:1.3)
+
+dispensaciones | | Ver épocas planetarias | | 
+
+disputa | | Ver argumentos | | 
+
+disidentes | | Ver inconformistas | | 
+
+disociación psíquica | | | | 
+puede inducir un estado místico (100:5.10)
+
+disolución | | Ver extinción | | 
+
+distancias (astronómicas) | | Ver años luz | | 
+
+distracciones | | | | 
+evitar la pérdida de tiempo por trivialidades (163:4.5)
+no significa necesariamente resistencia al Ajustador (110:3.5)
+escapar del deber presente corriendo hacia tentaciones lejanas (130:1.2)
+Jesús
+	evitó los detalles que distraen (159:5.17)
+	se negó a que la atención se desviara por (140:8.9)
+	perdió poco tiempo en nimiedades (134:9.7)
+
+angustia | | Ver dolor | | 
+
+Dium | (159:0.2) | | LUGAR | 
+Lugar de la gira por la Decápolis
+
+diversidad | | Ver unidad espiritual; tolerancia | | 
+diferencias entre hombres y mujeres altamente beneficiosas (84:6.5-6)
+de la operación de diferenciales, variables, modificadores, atenuadores, calificadores y disminuidores (104:3.4)
+el infinito es diversidad sin fin ni límite (115:3.4)
+diversidad racial
+	competencia sanamente estimulada por la diversidad (64:6.31-33)
+	Proporcionar la expresión inalcanzable de diversos potenciales humanos (51:4.4).
+tolerancia a la diversidad
+	cada apóstol enseñó su propia visión del evangelio (148:1.2)
+	No prohibáis predicador extraño (159:2.1)
+	Jesús permitió a Kirmet libertad de acción (148:8.3)
+	abstenerse de tratar de moldear a los creyentes de acuerdo con algún patrón establecido (140:8.26)
+	la religión del espíritu permite la diversidad de creencias (141:5.2) (155:6.9)
+	unidad no uniformidad (134:4.6) (182:1.6,8) (195:10.11)
+la unidad subyace a la creatividad diversidad (56:0.2)
+sin diversidad, sin base para formular conceptos (115:3.2-3)
+
+Dives | | | | 
+carácter rico de la parábola nazarea de Lázaro y Dives (169:3)
+
+dividiendo la herencia | (165:4) | | | 
+
+adivinación | | | | 
+intentar evitar problemas (87:5.14)
+La vara de adivinación es una reliquia de antiguos cultos a los árboles (85:2.5)
+mensajes espirituales interpretados (87:5.9)
+superstición de mentes ignorantes (150:3.8)
+
+Constructores Divinos; constructores divinos | | Ver Artesanos Celestiales | ORDEN | 
+Uno de los tipos de Artesanos Celestiales
+tipos (44:3)
+	# Los diseñadores y constructores de hogares
+	# Los constructores de edificios profesionales
+	# Los constructores de edificios recreativos
+	# Los constructores de edificios para la adoración
+	# Los constructores de edificios educativos
+	# Los planificadores morontiales
+	# Los constructores de edifcios públicos
+
+Consejeros Divinos | (19:3) | | ORDEN | 
+21 mil millones en servicio; números fijos (15:10.11) (19:0.9) (19:3.1)
+Se requieren 109 días para el viaje de Uversa a Urantia (19:7.4)
+las coordenadas son Perfeccionadores de la Sabiduría y Censores Universales (19:2.2)
+El consejero sabe de qué habla (1:7.9) (6:8.8)
+Los Corazones del Consejo, las Alegrías de la Existencia, las satisfacciones de servicio son asociados reflexivos (19:3.2-4) (28:3.1) (28:5.4,15-18)
+Los Ayudantes de los Hijos Elevados sirven como secretarios para (22:10.1)
+en registros de personalidad (30:1.16) (30:2.32)
+perplejo con respecto a los Absolutos (4:1.7–8)
+presidir algunos tribunales del superuniverso (15:12.1)
+representar «Yo seré» de juicio (19:4.4)
+residencia en los círculos de Jerusem (46:5.15)
+Servicio
+	como Asistentes Altísimos (37:4.2)
+	armonizar versiones de sabiduría (28:5.9)
+	en sectores mayores (18:4.4)
+	servir a los gobiernos de los superuniversos, las cortes (15:10.3-12)
+	entrenar Registradores Celestiales en Uversa (25:6.1)
+	escribió el Prólogo, los documentos 1-9, 17-19, 23-24, 31 (0:12.14) (1:7.9) (2:7.13) (3:6.9) (4:5.8) (5:6.14) (6:8.9) (7:7.7) (8:6.8) (9:8.26) (17:8.10) (18:7.6) (19:7.6) (23:4.7) (24:7.10) (31:10.22)
+testimonios de (1:3.8) (1:7.9)
+Seres de origen trinitario; son consejos de la Deidad para los superuniversos (15:10.11) (19:3.1,6)
+con asociados, son la fuente más alta de verdad en los planetas evolutivos (1:7.9) (19:2.6)
+con asociados, formar el órgano asesor móvil superior (19:2.4) (19:3.4-7)
+
+Ejecutores Divinos; ejecutores divinos; ejecutor divino; ejecutores | | Ver comisiones conciliadoras; extinción; Conciliadores Universales | ORDEN | 
+casi visible para los mortales (25:2.8)
+asumir el rol de intérprete de misericordia-justicia desde sectores menores en adelante; convertirse en las voces físicas de las comisiones (25:3.11-13)
+Los Mensajeros Solitarios pueden funcionar como Ejecutores Divinos para los tribunales superiores (23:2.17)
+despojado del poder retributivo a nivel de superuniverso (25:3.11,13)
+ejecutores de los Ancianos de los Días; puede extinguir la existencia de la personalidad (53:3.5)
+gran poder para poner en práctica las decisiones de las comisiones conciliadoras (25:3.5)
+Controladores Físicos Maestros sujetos a (29:4.15)
+miembros cuasi físicos de comisiones conciliadoras (25:2.8)
+hechos extraños a veces difíciles de explicar (25:3.5)
+
+Ministras Divinas | | Ver Espíritus Maternos de los universos locales | ORDEN | 
+
+plan divino | (7:4) (32:5) (105:4.9) | Ver plan de ascensión; evolución:teoría de la evolución; voluntad de Dios | | 
+6 Los propósitos divinos no pertenecen al ascenso mortal (106:0.14)
+Los Ajustadores traen consigo un plan de vida ideal (110:2.1)
+una variedad casi infinita caracteriza los planes de los Hijos Creadores para sus universos (32:3.3)
+d.p. tan vasto que es imposible ver mucho al mismo tiempo (32:5.1)
+la unidad divina sobrepasa la diversidad creativa (56:0.2)
+abraza los experimentos de todos los subordinados de Dios (2:1.4)
+eterno, perfecto e inmutable (2:2.1)
+los eventos del tiempo son solo un andamio (32:5.2)
+la evolución se desarrolla bajo perfecto control (3:2.2)
+El padre puede intervenir con respecto a la criatura individual en cualquier momento (1:2.10) (32:4.4) (118:10.6)
+para la creación, ascensión y perfección de las criaturas volitivas (2:2.5) (7:4.1-7) (9:5.6) (26:9.4)
+la salvación humana es la revelación de (170:2.8)
+imposible de captar para los seres finitos (2:1.10) (3:2.6-10) (4:0.1) (7:0.1)
+en la creación del universo (56:9.12-13)
+implica oportunidades ilimitadas para cada criatura (32:5.7)
+La enseñanza de Lao-Tse de (94:6.6)
+materia siempre fiel a; sólo el libre albedrío se aparta de (12:8.3) (42:4.2)
+participación mortal en el plan divino
+	agregando nuestros esquemas al plan divino es malvado (75:3.9) (75:4)
+	Locura intentar avanzar independientemente de (74:3.3)
+	los dolores y las pruebas mortales son parte de (23:2.12)
+	no hay ganancia de atajos o invenciones personales (75:8.5)
+	no incumbe a nadie aceptar (110:2.1)
+	progreso basado en el esfuerzo, logro en la perseverancia, desarrollo de la personalidad en la fe (115:7.2)
+forma natural, lenta y segura de realizar el plan divino (136:8.5-6)
+sin división de autoridad en (32:4.3)
+sin límite de fuerzas o personalidades que el padre pueda emplear (4:1.4)
+nada puede frustrar (178:3.3)
+del ministerio de misericordia puesto en operación por el Espíritu Infinito (7:4.6)
+prevalece en el destino del planeta (3:5.3)
+los reinos de lo finito existen en virtud de (115:1.4)
+El gobierno representativo es el ideal divino de autogobierno (45:7.3)
+La operación selectiva del plan de supervivencia no tiene favoritismos ni nada arbitrario (40:10.5)
+declaración del plan divino
+	concebir el propósito eterno como un círculo sin fin (32:5.4)
+	El esfuerzo del padre por revelarse a sus hijos (5:1.2)
+	creación gigantesca administrada por finalitarios (112:7.18)
+	desarrollo progresivo gradual (32:0.2)
+	oportunidad graduada de dominar el funcionamiento del universo mediante la participación real en cada paso (48:8.2)
+	supervivencia humana y ascensión mortal (30:4.33)
+	someter la energía-materia al espíritu mediante el esfuerzo de la mente personal (42:10.1) (112:2.15) (116:5.15) (116:6.1,4) (117:2.1) (117:3.2) (117:7.13)
+	los universos se expanden a medida que la gravedad y el amor llegan al tiempo organizando el espacio (106:3.5)
+que los mortales fueran superados por sangre adánica estaba en el plan divino (34:7.5)
+que algunos Hijos divinos hayan perdido la integridad no indica falta en la creación (35:9.7–8)
+Los que no tienen Nombre ni Número tienen un concepto trascendente de (22:4.1)
+
+descanso divino | | Ver descanso:descanso divino | | 
+
+filiación divina | | Ver filiación con Dios | | 
+
+voz divina | | Ver Ajustadores del pensamiento | | 
+
+voluntad divina | | Ver voluntad de Dios | | 
+
+varilla de adivinación | | Ver adivinación | | 
+
+Divinington | (13:1.5-6) ​​(107:3) | Ver esferas sagradas del Paraíso; Ajustadores del pensamiento | LUGAR | 
+	administrado desde Divinington (108:3.7)
+	volver a Divinington después de la muerte del sujeto (20:4.3) (40:4.1) (40:9.2)
+	el tiempo de tránsito a Urantia desde Divinington es de 117 horas (108:1.9)
+seno del Padre (13:1.4) (13:2.7)
+aterrizajes en Divinington prohibidos (13:1.2) (13:2.7-8) (107:3.1,3-8)
+Encuentro en el Paraíso de Ajustadores, Mensajeros de Gravedad y otros fragmentos del Padre solamente (13:0.6) (13:1.4-6) (107:3)
+los secretos incluyen la misión de los Ajustadores, los fragmentos del Padre (13:1.5-6)
+
+divinidad | | Ver espíritu | | 
+alcanzado al conformarse con la voluntad del Creador (130:4.3)
+cualidades cohesivas (106:2.4)
+comprendido como verdad, belleza, bondad; amor, misericordia, ministerio; justicia, poder, soberanía (0:1.17) (44:7.4) (56:10.20)
+comprendido en la adoración, el servicio y la experiencia espiritual personal (56:10.3) (101:10.4)
+conciencia de la divinidad es una experiencia espiritual progresiva (12:8.15)
+técnica divina en el acercamiento a la divinidad (27:4.2)
+enriquecido por la experiencia de la criatura y el Creador (0:12.3)
+el mal inherente a la concepción segmentada de la divinidad (19:1.4)
+los frutos son paz, progreso, satisfacción, alegría, sabiduría (56:10.20)
+funciona en la personalidad mortal como Ajustador, Espíritu de la Verdad, Espíritu Santo y Supremo (101:2.12)
+la grandeza es semejanza a Dios (28:6.22)
+humildemente obediente a la elección de las criaturas (13:4.5)
+en Creadores Supremos (56:5.3)
+puede ser imperfecto en los niveles de criatura (0:1.18)
+sin pruebas científicas de la divinidad; reconocible solo por la fe (101:10.4,6)
+no egocéntrico (10:1.3)
+Los residentes del Paraíso participan de la esencia de (26:7.4)
+plural en manifestación (34:6.2)
+búsqueda de la divinidad conduce al reino de Dios (54:0.1)
+la gravedad espiritual es una medida cualitativa de (12:8.5)
+estabilidad siempre proporcional a (12:6.1)
+la cualidad unificadora y coordinadora de la Deidad (0:1.2,16-18)
+
+divorcio | (83:7) | Ver matrimonio | | 
+explica la ausencia de ideales de los líderes nacionales (111:4.10)
+re. es la válvula de seguridad que previene situaciones aún peores (83:7.8)
+vergonzosa laxitud de las interpretaciones farisaicas (167:5.2-4)
+fácil divorcio lleva de vuelta a las etapas sociales burdas (83:7.7)
+Hildana abandonó a su malvado esposo (162:3.5)
+indica que la Deidad no era parte conjunta del matrimonio (83:8.4)
+Jesús condenó las prácticas que dan ventaja al hombre (167:5.4)
+Jesús se negó a dictar leyes con respecto al divorcio (140:8.14)
+leyes en la nación continental (72:3.8-9)
+casarse con el pensamiento conveniente divorcio si no está completamente satisfecho (82:3.15)
+no favorecido en los días de Adán (140:6.6)
+la educación prematrimonial se reduce (83:7.7-8)
+la pena de propiedad hizo mucho para disminuir (83:7.3)
+la mayor libertad económica de la mujer contribuye a (83:7.7) (83:8.9)
+
+doctores | | Ver médicos | | 
+
+doctrinas | | Ver conceptos; ideas; unidad espiritual; teorías; tolerancia | | 
+evitar la actitud de finalidad en (182:1.8)
+los creyentes deben responder al dogmatismo con un dogmatismo más perspicaz (102:7.7-9)
+La respuesta de la mente cósmica niega las suposiciones a priori (16:6.4)
+El fetiche doctrinal traiciona al hombre hacia la crueldad (88:2.7)
+el dogmatismo esclaviza la naturaleza espiritual (99:6.1)
+recurso indolente al refugio falso de los estereotipados (102:2.7)
+Jesús deploró el dogmatismo (141:5.4)
+Jesús advirtió contra el uso de credos para controlar a los creyentes (141:5.4)
+sin vida (155:6.9)
+el tirano más terrible que esclaviza al hombre (88:2.7)
+solo la realidad no calificada puede ser consistentemente dogmática (102:7.8)
+la filosofía lucha por la emancipación del dogma (12:9.5)
+impotente para transformar el carácter humano (34:6.6)
+las religiones pueden ponerse de acuerdo en valores mientras mantienen la creencia en credos en conflicto (103:1.4)
+los grupos religiosos deben eliminar toda la presión del credo (103:5.12)
+uniformidad inalcanzable en los credos (92:7.4)
+
+dogmatismo | | Ver doctrinas | | 
+
+perros | | Ver zorros; lobos | | 
+al principio solo aulló; luego ladró (69:7.4)
+trajo los rebaños de Abel a casa sin su amo (76:2.7)
+no puede conocer a Dios (130:2.8)
+cerdo acusado en Jeresa (151:6.6)
+aproximación detectada de fantasmas (87:6.11)
+comer las migas que caen de la mesa de los niños (156:1.5)
+adoptado por primera vez por el hombre azul (81:2.11)
+primer animal en ser domesticado; utilizado para comida, caza, transporte, compañía (66:5.5) (69:7.4)
+tenido en alta estima como mascota y como alimento (89:5.16)
+en el Mioceno, Oligoceno (61:2.7) (61:3.13)
+en la edad de hielo de América del Norte (61:5.7)
+Jesús y Ganid jugaron con perros (130:2.8)
+no presente lo sagrado para (140:3.18)
+animal sagrado de los parsis (88:1.4)
+los perros guardianes hicieron posible dormir por la noche (69:7.4) (84:3.10)
+
+hacer frente a ser | | Ver ser | | 
+
+Actos de los reyes de Israel | | | | 
+registro preciso de la historia hebrea; destruido por sacerdotes (97:8.1)
+
+Actos de los reyes de Judá | | | | 
+registro preciso de la historia hebrea; destruido por sacerdotes (97:8.1)
+
+muñeca | | | | 
+empleado por primera vez como talismán para esposa estéril (88:6.4)
+
+dólares (EE. UU.) | | | | 
+La factura de la luz solar de Chicago sería de $ 100 millones / día (58:2.1)
+la luz solar sería económica a $ 1 millón / libra (41:5.2)
+
+caliza dolomita | | Ver caliza | | 
+
+delfines | | | | 
+mamífero placentario que regresó al mar (61:2.11)
+
+Don | | | LUGAR | 
+Ruta de invasión andita a Europa (80:4.1-2)
+
+burros | | | | 
+Los griegos y romanos despreciaban a los jinetes de (172:5.12)
+Jesús entró en Jerusalén el (172:3.4-5)
+José poseído (125:3.2)
+montaron reyes en misión de paz (172:5.5,8)
+María cabalgó a Belén el (122:7.4,7)
+
+condenar | | Ver muerte:muerte espiritual | | 
+
+puerta | | | | 
+Jesús se para en la puerta y golpea (1:4.2) (159:3.2) (166:3.7)
+el sabio busca la llave para desbloquear (160:3.4)
+
+jambas de la puerta | | | | 
+costumbre de untar sangre (89:7.2)
+al joven Jesús le reprocha la costumbre de tocar pergamino (124:4.7)
+
+Dorcas | | | PERSONA | OK
+Dorcas es el propietario de la casa donde Gadías y Pedro tuvieron una memorable discusión (130:1.3)
+
+Dotán | | | LUGAR | 
+Los hermanos de José lo vendieron como esclavo egipcio en (126:1.2)
+
+duda | | Ver ansiedad; incertidumbre | | 
+solo, nunca puede prevenir la supervivencia (110:3.5)
+respuesta segura de los creyentes a (102:6.5) (102:7.6-9)
+la única batalla de los creyentes es contra (159:3.8) (165:5.5)
+no temas; El Espíritu de la Verdad hablará (34:7.8)
+los mensajeros que dudaban llevaron el mensaje con la misma rapidez (190:1.6)
+fe triunfante sobre (101:0.3) (102:6.7) (103:8.4-5) (182:3.11)
+Los primeros 7 años de rebelión fueron tiempos de búsqueda del corazón (67:3.7)
+las dudas honestas no son pecado (102:1.1)
+inhibe la libre expresión (196:0.11)
+Jesús experimentó dudas (124:4.2) (136:8.3)
+Jesús amaba a los escépticos honestos (139:8.6)
+Juan el Bautista hizo a un lado (135:4.6) (135:7.1)
+se afirma más obstinadamente justo antes de desmoronarse (191:5.4)
+referencia en el Salmo 23 (48:6.9-19)
+el renacimiento espiritual da poder para vencer todo (142:5.3)
+la tentación de dudar se desvanece en el tercer circuito de Havona (26:9.3)
+Tomás afligido por (139:8.10) (181:2.26)
+
+escépticos | | Ver incrédulos | | 
+
+palomas | | | | 
+ser inofensivo como (140:8.13) (140:9.3) (163:1.3) (178:1.7)
+Vendido Santiago, hermano de Jesús (126:3.12)
+María mantuvo un palomar en la azotea (123:4.4)
+Sacerdotes cobrados de más por los sacrificios (122:10.2) (173:1.2)
+símbolos de paz y amor (85:3.4)
+
+dotes | | | | 
+la dote fue una vez recompensa por servicios sexuales (82:3.10)
+el hombre podría tomar esposa, hijos después de pagar el precio de la novia (84:2.5)
+a menudo recolectada por la prostitución temporal en el templo (89:7.5)
+originalmente, pago al padre de la novia por esposa (83:3)
+tras el divorcio, se requiere el reembolso (83:3.4)
+
+dragón | | | | 
+Adoración china del dragón fue la supervivencia del culto a las serpientes (85:3.3)
+en la visión del apóstol Juan (53:7.7)
+representación simbólica de Lucifer y los rebeldes (53:1.6) (53:5.6)
+
+libélulas | | | | 
+mide 30 pulgadas de ancho (59:5.7)
+
+drama | | | | 
+Jesús nunca premeditó nada dramático (138:6.5) (172:3.11)
+se originó al actuar para la guía espiritual (92:3.6)
+
+la redada de peces | (145:1) | | | 
+
+dravidianos | (79:3) | | RAZA | 
+absorbió a los conquistadores arios, invadió la mayor parte de la India (79:4.2)
+entre los primeros pueblos que construyeron ciudades (79:3.7)
+Los conquistadores anditas de la India se mezclaron con los nativos (78:5.6) (79:3.1)
+centros en valles fluviales (79:3.6)
+fundó una civilización superior hace 12.000 años (79:3.1,8)
+
+dibujos | | Ver imágenes | | 
+
+soñadores | | | | 
+los hombres son naturalmente (99:7.5)
+confiando supinamente en una Providencia ficticia (178:1.14)
+
+sueños | | Ver dormir | | 
+absurdos de sueños testificar de la presión de emociones no expresadas (110:5.4)
+los celestiales rara vez usan sueños comunicarse (86:5.11)
+Desfile desordenado y desconectado de una mente dormida descoordinada (44:4.7) (110:5.2-5)
+sueños grotescos indican la falla de los Ajustadores para hacer un contacto eficiente (110:5.2-5)
+interpretación de sueños
+	peligro de considerar como comunicaciones divinas (100:5.6) (110:5.5)
+	en gran parte supersticioso y sin fundamento (90:2.5) (150:3.9)
+los sueños ordinarios son puramente fisiológicos y psicológicos (110:5.5)
+sueños particulares
+	El de Claudia Prócula sobre Jesús (185:5.8)
+	convenció a Zacarías con respecto a Juan (122:2.5)
+	liberó a Pedro del temor a la inmundicia (153:3.6)
+	informó a un extraño maestro religioso del nacimiento de Jesús (122:8.6)
+	Pedro de Jesús en el mar de Galilea (152:4)
+	reconcilió a José con respecto al nacimiento de Jesús (122:4.1)
+	el sueño del joven Jesús perturbado por la repugnancia (125:2.4)
+	Zoroastro le hizo remodelar su religión (95:6.2)
+los sueños de los primitivos
+los primitivos creían a los sueños tan real como la experiencia de vigilia (86:5.10)
+	los primitivos creían que el alma abandonaba el cuerpo durante el sueño (86:5.6,10)
+	El sueño fantasma fue el factor más importante en la evolución social (68:3) (87:5.14)
+	primitivos convencidos de la otra vida por sueños (63:3.5) (86:4.1-2)
+
+vagabundos | | Ver indolencia | | 
+confiando supinamente en una Providencia ficticia (178:1.14)
+
+perforadores (gasterópodos) | (59:2.12) | | | 
+
+impulsos innatos | | Ver instintos | | 
+
+hidropesía | | | | 
+Jesús sanó al hombre con (167:1.5)
+
+sequía | | Ver clima | | 
+causó el éxodo andita de la región del Caspio (79:1.3-6)
+hizo que las tribus de las tierras altas invadieran el valle del Éufrates (78:8.3)
+destruyó la civilización del Sahara (80:1.4) (80:2.1)
+condujo a los anditas a Egipto (79:1.2-3)
+expulsó a los andonitas de Asia a Europa (80:9.6)
+la sequía severa significó la muerte para los primeros agricultores (90:2.6)
+
+trabajo penoso | | Ver monotonía | | 
+entumecido (70:2.17)
+los hombres dejaron la rutina trabajo penoso para las mujeres (69:3.3)
+no existe el trabajo servil en los mundos espirituales (25:1.1)
+la religión ennoblece el trabajo cotidiano; trabajar como para Dios (100:0.2) (133:4.8) (181:2.19) (192:2.13)
+
+Drogas Ver intoxicación | | | | 
+
+drumlins | (61:7.1) | | | 
+
+embriaguez | | Ver intoxicación | | 
+
+Seres de origen dual; SERES DE ORIGEN DOBLE; tipo doble | | Ver Hijos de Dios | ORDEN | 
+seres de origen directo o indirecto en dos de las Deidades del Paraíso (30:1.29)
+La creación de Servitales de Havona es un patrón para (25:1.2)
+en la clasificación del Paraíso (30:1.29-54)
+pedidos
+	A. Las Órdenes Descendentes
+		1. Los Hijos Creadores
+		2. Los Hijos Magistrales
+		3. Las Radiantes Estrellas Matutinas
+		4. Los Padres Melquisedeks
+		5. Los Melquisedeks
+		6. Los Vorondadeks
+		7. Los Lanonandeks
+		8. Las Brillantes Estrellas Vespertinas
+		9. Los Arcángeles
+		10. Los Portadores de Vida
+		11. Los Ayudantes Universales No Revelados (30:1.41)
+		12. Los Hijos de Dios No Revelados (30:1.42)
+	B. Las Órdenes Estacionarias
+		1. Los Abandontarios
+		2. Los Susatias
+		3. Los Univitatia
+		4. Los Espirongas
+		5. Los Seres de Origen Doble No Revelados (30:1.48)
+	C. Las Órdenes Ascendentes
+		1. Los Mortales Fusionados con el Ajustador
+		2. Los Mortales fusionados con el Hijo
+		3. Los Mortales fusionados con el Espíritu
+		4. Los Intermedios Trasladados | Ver intermedios
+		5. Los Ascendentes No Revelados (30:1.54)
+
+espiritismo dual | | | | 
+2 tipos de fantasmas (87:4.3-7)
+doctrina complicada concepción de la unidad cósmica (87:4.6)
+dio lugar a creencias en la magia blanca y negra (88:6.2)
+enfrentó a una agencia contra otra (87:6.13)
+superstición de buenos y malos espíritus (69:3.5)
+el joven Jesús aceptado hace mucho tiempo (123:3.3)
+Zoroastro muy afectado por (92:5.12) (95:6.5)
+
+relaciones de dualidad | | | | 
+entre el YO SOY como séptuple y los 7 Absolutos del Infinito (105:4.5,8)
+
+patos | | | | 
+descendiente de enormes reptiles antiguos (65:2.9)
+
+debido al proceso | | | | 
+Caligastia impugnó el paso de Moisés a los mundos de las mansiones (52:5.5)
+no existía ningún tribunal del universo local para detener a Lucifer (53:7.14)
+no se encontró forma de evitar que los archirrebeldes asistan a los consejos de Edentia (43:4.7-9)
+
+duelo | | | | 
+representa la falta de voluntad para entregar una reparación privada (70:10.16)
+sustituido por la guerra tribal (70:1.19)
+supervivencia de prueba por ordalía (70:10.7)
+
+duplicación | | | | 
+Deidades no dadas a inútiles (6:4.2)
+
+polvo | | | | 
+polvo somos, y polvo volveremos (1:4.3) (68:6.1)
+
+deber | | Ver responsabilidad; confiar | | 
+según el hinduismo (131:4.6)
+Ajustador traduce deber a la fe en la revelación (102:1.1)
+devoción a obligaciones sociales comunes (91:7.9) (100:6.5) (126:5.4) (178:1.8)
+eclipsando la emoción de los seres espirituales es el gozo de (25:1.6)
+evadir el deber fallando en obligaciones elevadas y santas (185:0.4)
+realizado fielmente excluye el dolor (25:1.6)
+locura de huir de deber para tentaciones lejanas (130:1.2)
+Para los cultistas de fantasmas, ¿qué se debe hacer para mantener a los espíritus en una disposición favorable?
+salir a hacer (163:6.7)
+idea significa actitud de servicio (180:1.6)
+en morontia, el tiempo ya no está disponible para eludir obligaciones desagradables (48:5.8)
+la comprensión del hombre de deber solo relativamente cierto (115:1.2)
+la intuición moral es la realización de deber; respuesta de la mente cósmica (16:6.7) (16:7.1)
+realizar deber fielmente, luego acepta la suerte de uno (48:6.36)
+realizar asignaciones terrenales con fidelidad humana (34:6.13)
+las promesas deben cumplirse (157:1.2)
+resumen del deber mortal
+	logro de la perfección | Ver perfección:logro | (1:0.4)
+	creyentes deber es para el hombre, Dios y la comunión; predicar el evangelio (178:1.5,11)
+	traer niños al mundo es supremo deber (84:7.25-26)
+	tratar con justicia, amar la misericordia, caminar humildemente con Dios (97:5.6) (126:4.5)
+	Teme a Dios y guarda sus mandamientos (131:2.9)
+	el más alto deber es para la propia familia (126:3.5) (127:5.3) (140:8.14)
+	cumplir con las responsabilidades con energía y entusiasmo (159:5.10)
+	reconocimiento de la obligación progresiva hacia el Supremo (110:3.10) (117:4.8)
+	Aprovecharnos de las ventajas proporcionadas tan libremente para la supervivencia (40:10.14)
+	quien dirigió. es el amor a Dios y al hombre (142:3.22) (163:4.8)
+asumir responsabilidades diariamente y seguir a Jesús (158:7.5)
+enseña que el hombre no tiene derecho a no creer en Dios (101:1.7)
+
+enanos | | | | 
+Los monoteístas en evolución mantienen a los dioses subordinados como (96:1.14)
+
+dayacs | | | | 
+prácticas religiosas primitivas de (92:6.1)
+
+Dyaus pitar | | | PERSONA | OK
+Señor védico del cielo (94:1.3)
+
+Dyaus-Zeus | | Ver Zeus | PERSONA | OK
