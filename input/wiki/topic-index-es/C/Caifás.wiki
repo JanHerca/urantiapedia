@@ -1,11 +1,12 @@
-Véase: <ref>{{lib|LU|186|1|1}}</ref> <ref>{{lib|LU|190|3|3}}</ref> 
+Véase: <ref name="n0">{{lib|LU|186|1|1}}</ref> <ref name="n1">{{lib|LU|190|3|3}}</ref> 
 
-Caifás fue el agresivo yerno de Anás, el antiguo sumo sacerdote. <ref>{{lib|LU|183|5|1}}</ref> <ref>{{lib|LU|184|0|2}}</ref> <ref>{{lib|LU|184|1|1}}</ref> En el momento de la captura de Jesús, Caifás era el sumo sacerdote en funciones. <ref>{{lib|LU|175|4|13}}</ref> <ref>{{lib|LU|184|0|2}}</ref> Afirmó que es mejor que muera un hombre que toda la comunidad perezca. <ref>{{lib|LU|168|3|6}}</ref> Caifás era duro de corazón y vanaglorioso. <ref>{{lib|LU|177|4|7-8}}</ref> Acusó a Jesús ante Pilato. <ref>{{lib|LU|185|6|7}}</ref> Judas se reunió con los enemigos de Jesús en casa de Caifás. <ref>{{lib|LU|177|4|1}}</ref> Los guardias del templo tenían órdenes de llevar a Jesús ante Caifás. <ref>{{lib|LU|183|5|1}}</ref> El sanedrín se reunió en el palacio de Caifás. <ref>{{lib|LU|175|4|13}}</ref> <ref>{{lib|LU|184|0|2}}</ref> <ref>{{lib|LU|188|2|2}}</ref> En el juicio a Jesús Caifás se comportó más como fiscal que como juez imparcial. <ref>{{lib|LU|184|3|4}}</ref> Durante el juicio sacudió un dedo acusador provocativamente y golpeó al Maestro en la cara. <ref>{{lib|LU|184|3|14,18}}</ref> Agitó un dedo vengativo en el rostro de Pilato cuando vio que el procurador estaba dispuesto a soltar a Jesús. <ref>{{lib|LU|185|7|5}}</ref> 
+Caifás fue el agresivo yerno de Anás, el antiguo sumo sacerdote. <ref name="n2">{{lib|LU|183|5|1}}</ref> <ref name="n3">{{lib|LU|184|0|2}}</ref> <ref name="n4">{{lib|LU|184|1|1}}</ref> En el momento de la captura de Jesús, Caifás era el sumo sacerdote en funciones. <ref name="n5">{{lib|LU|175|4|13}}</ref> <ref name="n3"/> Afirmó que es mejor que muera un hombre que toda la comunidad perezca. <ref name="n6">{{lib|LU|168|3|6}}</ref> Caifás era duro de corazón y vanaglorioso. <ref name="n7">{{lib|LU|177|4|7-8}}</ref> Acusó a Jesús ante Pilato. <ref name="n8">{{lib|LU|185|6|7}}</ref> Judas se reunió con los enemigos de Jesús en casa de Caifás. <ref name="n9">{{lib|LU|177|4|1}}</ref> Los guardias del templo tenían órdenes de llevar a Jesús ante Caifás. <ref name="n2"/> El sanedrín se reunió en el palacio de Caifás. <ref name="n5"/> <ref name="n3"/> <ref name="n10">{{lib|LU|188|2|2}}</ref> En el juicio a Jesús Caifás se comportó más como fiscal que como juez imparcial. <ref name="n11">{{lib|LU|184|3|4}}</ref> Durante el juicio sacudió un dedo acusador provocativamente y golpeó al Maestro en la cara. <ref name="n12">{{lib|LU|184|3|14,18}}</ref> Agitó un dedo vengativo en el rostro de Pilato cuando vio que el procurador estaba dispuesto a soltar a Jesús. <ref name="n13">{{lib|LU|185|7|5}}</ref> 
 
 == Enlaces ==
 
-* [[Sanedrín]]
+* [[sanedrín|Sanedrín]]
 
 
 == Referencias ==
-<references />
+
+<references/>

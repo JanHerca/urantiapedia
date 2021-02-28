@@ -1,4 +1,5 @@
-Alá es la sola y única Deidad del islam, concepto claro y bien definido en el cual ha residido la fuerza del islam. <ref>{{lib|LU|95|7|6}}</ref> 
+Alá es la sola y única Deidad del islam, concepto claro y bien definido en el cual ha residido la fuerza del islam. <ref name="n0">{{lib|LU|95|7|6}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

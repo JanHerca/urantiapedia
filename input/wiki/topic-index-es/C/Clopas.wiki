@@ -1,4 +1,5 @@
-Clopas era esposo de María, hermana de la madre de Jesús. <ref>{{lib|LU|187|3|2}}</ref> 
+Clopas era esposo de María, hermana de la madre de Jesús. <ref name="n0">{{lib|LU|187|3|2}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

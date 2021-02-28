@@ -1,4 +1,5 @@
-Fantad fue un líder de la extinta raza verde hace 350.000 años que condujo a su pueblo a la adoración de la «Única Fuente de la Vida». <ref>{{lib|LU|45|4|9}}</ref> <ref>{{lib|LU|64|6|17}}</ref> Actualmente es uno de los 24 consejeros de Jerusem, el número 7. <ref>{{lib|LU|45|4|9}}</ref> 
+Fantad fue un líder de la extinta raza verde hace 350.000 años que condujo a su pueblo a la adoración de la «Única Fuente de la Vida». <ref name="n0">{{lib|LU|45|4|9}}</ref> <ref name="n1">{{lib|LU|64|6|17}}</ref> Actualmente es uno de los 24 consejeros de Jerusem, el número 7. <ref name="n0"/> 
 
 == Referencias ==
-<references />
+
+<references/>

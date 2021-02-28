@@ -1,4 +1,5 @@
-Aconsejó a los síndicos Melquisedek después de la rebelión. <ref>{{lib|LU|67|6|5}}</ref> 
+Aconsejó a los síndicos Melquisedek después de la rebelión. <ref name="n0">{{lib|LU|67|6|5}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

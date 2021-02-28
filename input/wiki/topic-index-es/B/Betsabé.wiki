@@ -1,4 +1,5 @@
-Betsabé era la esposa de Urías el hitita. El rey David se enamoró de ella y tras hacer matar a Urías se casó con ella. Betsabé fue la madre de Salomón, el sucesor de David. <ref>{{lib|LU|97|9|10,15}}</ref> María, la madre de Jesús, era descendiente de Betsabé. <ref>{{lib|LU|122|1|2}}</ref> 
+Betsabé era la esposa de Urías el hitita. El rey David se enamoró de ella y tras hacer matar a Urías se casó con ella. Betsabé fue la madre de Salomón, el sucesor de David. <ref name="n0">{{lib|LU|97|9|10,15}}</ref> María, la madre de Jesús, era descendiente de Betsabé. <ref name="n1">{{lib|LU|122|1|2}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

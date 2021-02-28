@@ -1,4 +1,5 @@
-Cano era un líder nodita brillante y activo. <ref>{{lib|LU|75|3|7}}</ref> Sedujo a Eva y el padre de Caín. <ref>{{lib|LU|75|4|7}}</ref> <ref>{{lib|LU|75|5|3}}</ref> Le aseguró a Eva que las personas con buenos motivos no podrían hacer el mal. <ref>{{lib|LU|75|4|5}}</ref> Influyendo en Eva mediante la adulación, el entusiasmo, y la persuasión personal, ambos cometieron el acto sexual para procrear un descendiente al margen de los planes ya establecidos. <ref>{{lib|LU|75|3|9}}</ref> Le mataron los habitantes del Jardín en un ataque enfurecido contra la colonia nodita vecina, en represalia por lo sucedido a Eva. <ref>{{lib|LU|75|5|3}}</ref> 
+Cano era un líder nodita brillante y activo. <ref name="n0">{{lib|LU|75|3|7}}</ref> Sedujo a Eva y el padre de Caín. <ref name="n1">{{lib|LU|75|4|7}}</ref> <ref name="n2">{{lib|LU|75|5|3}}</ref> Le aseguró a Eva que las personas con buenos motivos no podrían hacer el mal. <ref name="n3">{{lib|LU|75|4|5}}</ref> Influyendo en Eva mediante la adulación, el entusiasmo, y la persuasión personal, ambos cometieron el acto sexual para procrear un descendiente al margen de los planes ya establecidos. <ref name="n4">{{lib|LU|75|3|9}}</ref> Le mataron los habitantes del Jardín en un ataque enfurecido contra la colonia nodita vecina, en represalia por lo sucedido a Eva. <ref name="n2"/> 
 
 == Referencias ==
-<references />
+
+<references/>

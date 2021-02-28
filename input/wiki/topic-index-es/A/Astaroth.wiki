@@ -1,4 +1,5 @@
-Astaroth es el nombre de la diosa Istar en Palestina. <ref>{{lib|LU|95|1|7}}</ref> 
+Astaroth es el nombre de la diosa Istar en Palestina. <ref name="n0">{{lib|LU|95|1|7}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

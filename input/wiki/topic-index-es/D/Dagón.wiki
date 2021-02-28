@@ -1,4 +1,5 @@
-Dios filisteo. <ref>{{lib|LU|97|6|2}}</ref> 
+Dios filisteo. <ref name="n0">{{lib|LU|97|6|2}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

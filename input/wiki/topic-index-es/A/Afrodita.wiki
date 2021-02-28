@@ -1,4 +1,5 @@
-Diosa de la belleza, la sensualidad y el amor.Afrodita es el nombre que recibió la diosa Istar en Grecia. <ref>{{lib|LU|95|1|7}}</ref> Cuando el culto a Afrodita fue llevado a Roma, Afrodita se convirtió en Venus. <ref>{{lib|LU|98|3|3}}</ref> 
+Diosa de la belleza, la sensualidad y el amor. Afrodita es el nombre que recibió la diosa Istar en Grecia. <ref name="n0">{{lib|LU|95|1|7}}</ref> Cuando el culto a Afrodita fue llevado a Roma, Afrodita se convirtió en Venus. <ref name="n1">{{lib|LU|98|3|3}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

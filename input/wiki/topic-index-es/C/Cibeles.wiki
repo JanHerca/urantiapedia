@@ -1,4 +1,5 @@
-Cibeles es la madre de Atis en el culto de misterios frigio. <ref>{{lib|LU|98|4|2-8}}</ref> <ref>{{lib|LU|98|5|5}}</ref> 
+Cibeles es la madre de Atis en el culto de misterios frigio. <ref name="n0">{{lib|LU|98|4|2-8}}</ref> <ref name="n1">{{lib|LU|98|5|5}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

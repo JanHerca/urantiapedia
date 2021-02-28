@@ -1,6 +1,7 @@
-Véase: <ref>{{lib|LU|135|0-4}}</ref> 
+Véase: <ref name="n0">{{lib|LU|135|0-4}}</ref> 
 
-Isabel era una prima lejana de María, la madre de Jesús. <ref>{{lib|LU|122|2|1,6}}</ref> Era descendiente de las hijas de Aarón. <ref>{{lib|LU|135|0|4}}</ref> Gabriel se apareció primero a Isabel para anunciarla su embarazo. <ref>{{lib|LU|122|2}}</ref> María la visitó estando embarazada. <ref>{{lib|LU|122|2|6}}</ref> Isabel creía que Jesús se convertiría en el Mesías. <ref>{{lib|LU|122|8|4}}</ref> Recibió la visita de Jesús cuando él y su hijo contaban 5 años. <ref>{{lib|LU|123|3|4}}</ref> Mantuvo a Juan informado sobre los asuntos mundiales. <ref>{{lib|LU|135|3|2}}</ref> Su esposo Zacarías murió en julio del año 12. <ref>{{lib|LU|135|2}}</ref> Murió el 17 de agosto del 22 d.C. <ref>{{lib|LU|135|4}}</ref> 
+Isabel era una prima lejana de María, la madre de Jesús. <ref name="n1">{{lib|LU|122|2|1,6}}</ref> Era descendiente de las hijas de Aarón. <ref name="n2">{{lib|LU|135|0|4}}</ref> Gabriel se apareció primero a Isabel para anunciarla su embarazo. <ref name="n3">{{lib|LU|122|2}}</ref> María la visitó estando embarazada. <ref name="n4">{{lib|LU|122|2|6}}</ref> Isabel creía que Jesús se convertiría en el Mesías. <ref name="n5">{{lib|LU|122|8|4}}</ref> Recibió la visita de Jesús cuando él y su hijo contaban 5 años. <ref name="n6">{{lib|LU|123|3|4}}</ref> Mantuvo a Juan informado sobre los asuntos mundiales. <ref name="n7">{{lib|LU|135|3|2}}</ref> Su esposo Zacarías murió en julio del año 12. <ref name="n8">{{lib|LU|135|2}}</ref> Murió el 17 de agosto del 22 d.C. <ref name="n9">{{lib|LU|135|4}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

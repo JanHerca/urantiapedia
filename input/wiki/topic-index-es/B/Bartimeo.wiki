@@ -1,4 +1,5 @@
-Bartimeo es el ciego a quien Jesús restauró la vista. <ref>{{lib|LU|171|5}}</ref> 
+Bartimeo es el ciego a quien Jesús restauró la vista. <ref name="n0">{{lib|LU|171|5}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

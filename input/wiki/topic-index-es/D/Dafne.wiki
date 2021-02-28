@@ -1,11 +1,12 @@
-Véase: <ref>{{lib|LU|133|8|1}}</ref> 
+Véase: <ref name="n0">{{lib|LU|133|8|1}}</ref> 
 
 Ninfa, hija del dios río Ladón. 
 
 == Enlaces ==
 
-* [[Bosquecillo_de_Dafne]]
+* [[bosquecillo_de_Dafne|Bosquecillo de Dafne]]
 
 
 == Referencias ==
-<references />
+
+<references/>

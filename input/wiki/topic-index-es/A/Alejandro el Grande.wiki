@@ -2,11 +2,12 @@
 
 == {{anchor|Hechos_sobre_Alejandro_Magno_mencionados_en_El_Libro_de_Urantia}} Hechos sobre Alejandro Magno mencionados en El Libro de Urantia ==
 
-* Su campaña en el Punjab introdujo herencia aria en la India. <ref>{{lib|LU|79|4|3}}</ref> 
-* Su mausoleo real de Alejandría fue visitado por Jesús. <ref>{{lib|LU|130|3|4}}</ref> 
-* Los samaritanos asistieron a Alejandro y eso irritó a los judíos contra ellos. <ref>{{lib|LU|143|4|2-3}}</ref> 
-* Alejandro difundió la civilización helenística en Oriente Próximo. <ref>{{lib|LU|195|1|7-10}}</ref> 
+* Su campaña en el Punjab introdujo herencia aria en la India. <ref name="n0">{{lib|LU|79|4|3}}</ref> 
+* Su mausoleo real de Alejandría fue visitado por Jesús. <ref name="n1">{{lib|LU|130|3|4}}</ref> 
+* Los samaritanos asistieron a Alejandro y eso irritó a los judíos contra ellos. <ref name="n2">{{lib|LU|143|4|2-3}}</ref> 
+* Alejandro difundió la civilización helenística en Oriente Próximo. <ref name="n3">{{lib|LU|195|1|7-10}}</ref> 
 
 
 == Referencias ==
-<references />
+
+<references/>

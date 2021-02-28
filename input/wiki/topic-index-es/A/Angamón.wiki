@@ -1,4 +1,5 @@
-Angamón presentó a Jesús a un hombre rico de Roma que fue muy influido por sus enseñanzas. <ref>{{lib|LU|132|5|1}}</ref> Angamón era el líder de la iglesia de los estoicos en Roma. Jesús tuvo una charla con él de la que se nos ofrece un resumen en El Libro de Urantia. Fue un gran amigo de Pablo de Tarso y un seguidor ferviente de la iglesia cristiana en Roma. <ref>{{lib|LU|132|1}}</ref> 
+Angamón presentó a Jesús a un hombre rico de Roma que fue muy influido por sus enseñanzas. <ref name="n0">{{lib|LU|132|5|1}}</ref> Angamón era el líder de la iglesia de los estoicos en Roma. Jesús tuvo una charla con él de la que se nos ofrece un resumen en El Libro de Urantia. Fue un gran amigo de Pablo de Tarso y un seguidor ferviente de la iglesia cristiana en Roma. <ref name="n1">{{lib|LU|132|1}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

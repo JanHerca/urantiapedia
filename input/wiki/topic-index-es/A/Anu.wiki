@@ -1,4 +1,5 @@
-Dios mesopotámico del cielo. <ref>{{lib|LU|95|1|4}}</ref> 
+Dios mesopotámico del cielo. <ref name="n0">{{lib|LU|95|1|4}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

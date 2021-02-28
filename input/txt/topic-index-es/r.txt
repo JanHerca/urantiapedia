@@ -87,7 +87,7 @@ Las salas de resurrección tienen un ala separada para cada raza (47:3.5)
 segregación favorecida por muchos idiomas (52:2.5)
 rara vez avanzado en los trópicos (81:6.7)
 Semitas entre los más mezclados (96:2.1)
-espiritualmente iguales ante Dios (64:6.27) (134:4.7) | Ver Dios:la naturaleza de Dios:no hace acepción de personas
+espiritualmente iguales ante Dios | Ver Dios:la naturaleza de Dios:no hace acepción de personas | (64:6.27) (134:4.7)
 razas superiores buscaba climas templados o del norte (64:7.13)
 probado por las dificultades de la edad glacial (64:7.1)
 tipos | Ver adamitas; andonitas; raza azul; hombres cobrizos; raza verde; raza índiga; noditas; raza naranja; raza roja; sangiks; raza blanca; raza amarilla
@@ -211,7 +211,7 @@ en el universo local, realidad es materia, morontia y espíritu (103:6.7)
 El discurso de Jesús sobre (130:4)
 Jesús se enfrentó con franqueza (100:7.4)
 niveles de realidad (105) (106) (0:4.9)
-	# realidad finita (106:0.3)
+	realidad finita (106:0.3)
 		2 manifestaciones de realidad son perfección innata y perfección evolucionada (32:3.15)
 		las criaturas ascendentes son finitos incompletos hasta el logro del destino (106:0.3-4)
 		comienza con la aparición de Havona (105:2.7)
@@ -239,7 +239,7 @@ niveles de realidad (105) (106) (0:4.9)
 		Supremo es unificador y correlacionador de toda realidad finito | Ver El Supremo
 		la realidad suprema es la soberanía de la verdad, la belleza, la bondad (99:4.4)
 		finitos terciarios no revelados (106:1.1)
-	# realidad absonita | Ver absonidad; Trascendentales
+	realidad absonita | Ver absonidad; Trascendentales
 		7 niveles (30:1.93)
 		Los Arquitectos del Universo Maestro, los Trascendentales, los Organizadores Maestros de la Fuerza son seres absonitos (30:1.94)
 		Los Arquitectos del Universo Maestro existen en 7 niveles absonitos; tener absonitos celestiales (31:9.1-9)
@@ -266,7 +266,7 @@ niveles de realidad (105) (106) (0:4.9)
 			integración cuaternaria final (106:4)
 			unificador y correlacionador de toda la realidad absonita (0:1.10)
 		sin principios ni finales, trascendiendo el tiempo y el espacio (0:1.12) (0:4.8)
-	# realidad absoluta (0:4.8) (106:0.8) | Ver eternidad; infinito; monota
+	realidad absoluta | Ver eternidad; infinito; monota | (0:4.8) (106:0.8)
 		Integración de la sexta fase (106:6)
 		sin principio, sin fin, sin tiempo, sin espacio, sin límites; incondicionalmente eterno - verdaderamente existencial (0:1.13) (106:9.3) (115:1.3) (115:3.1)
 		coabsolute realidad es el nivel del universo supermaestro de la quinta fase
@@ -288,8 +288,8 @@ niveles de realidad (105) (106) (0:4.9)
 		el momento presente contiene todo el pasado y el futuro; potencial
 		r. tan significativo como el realidad real. (118:1.9-10)
 		el espacio se acerca más a todas las cosas no absolutas a ser absoluto (118:3.5)
-	# otras categorizaciones de la realidad
-		3 elementos de realidad son hecho, idea y relación (196:3.2) | Ver ciencia, filosofía y religión
+	otras categorizaciones de la realidad
+		3 elementos de realidad son hecho, idea y relación | Ver ciencia, filosofía y religión | (196:3.2)
 		Las 3 fases originales de la energía divina son la energía física, mental y espiritual (44:5.5)
 		3 fases son origen, historia y destino (19:1.6)
 		3 fases de la existencia son material, morontial y espiritual (46:4.8)
@@ -711,7 +711,7 @@ definido como
 	sabia reacción espiritual al universo (100:2.3)
 	adoración a Dios y servicio al hombre (72:3.5) (100:3.1) (103:3.2) (159:5.7) (196:3.19)
 religión evolutiva | Ver religión:historia de la religión; religión:religión institucional
-explicado (94:4.10) | Ver evangelio:explicado
+explicado | Ver evangelio:explicado | (94:4.10)
 	500 definiciones de teólogos (103:1.1)
 	cumbre de, marcas de, vida religiosa (100:6-7)
 	la activación es superemocional (99:4.5)
@@ -969,7 +969,7 @@ resultado de la religión
 	produce felicidad (101:2.8)
 religión reveladora | Ver revelación
 rituales | Ver ceremonias; cultos; tradiciones
-ciencia y religión (103:7) | Ver ciencia, filosofía y religión
+ciencia y religión | Ver ciencia, filosofía y religión | (103:7)
 Los reconstruccionistas sociales muestran una motivación religiosa no reconocida (99:3.6-7)
 tabúes
 descongelar formas congeladas de religión (155:3.8)
@@ -989,7 +989,7 @@ advertencias
 		ser algo aparte de la experiencia humana (5:5.12)
 		comercialización (125:1.1) (125:5.6) (149:6.12) (173:1.11)
 		defensa de sistemas obsoletos (195:10.8)
-		finalidad doctrinal (182:1.8) | Ver doctrinas
+		finalidad doctrinal | Ver doctrinas | (182:1.8)
 		discriminación maligna de las castas religiosas (99:6.3)
 		no hacer interpretaciones actualizadas (99:6.3)
 		falsas ideas de santidad (99:6.3) (155:3.5) (159:4.9)

@@ -494,7 +494,18 @@ class TopicIndex {
 		return new Promise((resolve, reject) => {
 			let wiki = '';
 			const end = '\r\n\r\n';
-			let containRefs = false;
+			const refs = this.sortUniqueRefs(topic);
+			let refsUsed = refs.map(ru => false);
+			const seeAlso = this.sortUniqueSeeAlso(topic);
+
+			const refsToTags = (rr) => {
+				return rr.map(r => {
+					const i = refs.indexOf(r);
+					const used = refsUsed[i];
+					refsUsed[i] = true;
+					return (used ? `<ref name="n${i}"/> ` : this.refToWiki(r, i));
+				}).join('');
+			};
 
 			//Resolvemos redireccionamientos
 			if (topic.isRedirect && topic.seeAlso.length === 1) {
@@ -503,8 +514,7 @@ class TopicIndex {
 
 			//Añadimos las Referencias a nivel del Topic arriba del todo
 			if (topic.refs && topic.refs.length > 0) {
-				wiki += 'Véase: ' + this.refsToWiki(topic.refs) + end;
-				containRefs = true;
+				wiki += 'Véase: ' + refsToTags(topic.refs) + end;
 			}
 
 			//Añadimos el contenido de las líneas en headings junto a sus Referencias
@@ -520,6 +530,9 @@ class TopicIndex {
 				if (nextline && line.level < nextline.level) {
 					heading += '='.repeat(line.level + 1);
 					wiki += `${end}${heading} ${anchor} ${content} ${heading}${end}`;
+					if (line.refs && line.refs.length > 0) {
+						wiki += 'Véase: ' + refsToTags(line.refs) + end;
+					}
 				} else {
 					const subcontent = content.replace(/^[#\*]*/g,'').trim();
 					const isub = content.indexOf(subcontent);
@@ -535,8 +548,9 @@ class TopicIndex {
 					wiki += content;
 
 					if (line.refs && line.refs.length > 0) {
-						wiki += ' ' + this.refsToWiki(line.refs);
-						containRefs = true;
+						wiki += ' ' + refsToTags(line.refs);
+					} else {
+						wiki += ' ';
 					}
 
 					if (content.startsWith('#') || content.startsWith('*')) {
@@ -547,32 +561,21 @@ class TopicIndex {
 			});
 
 			//Añadimos los Enlaces
-			if (topic.seeAlso && topic.seeAlso.length > 0) {
+			if (seeAlso && seeAlso.length > 0) {
 				wiki += `${end}== Enlaces ==${end}`;
-				topic.seeAlso.forEach(also => {
-					let also2 = also.replace(/ /g, '_').replace(/:/g, '#');
-					also2 = also2.substring(0, 1).toUpperCase() + also2.substring(1);
-					wiki += `* [[${also2}]]\r\n`;
-				})
+				seeAlso.forEach(also => {
+					let alsoLink = also.replace(/ /g, '_').replace(/:/, '#');
+					let alsoText = also.substring(0, 1).toUpperCase() + 
+						also.substring(1);
+					wiki += `* [[${alsoLink}|${alsoText}]]\r\n`;
+				});
 			}
-			topic.lines.forEach((line, i) => {
-				if (line.seeAlso && line.seeAlso.length > 0) {
-					wiki += '* ';
-					line.seeAlso.forEach((also, j) => {
-						let also2 = also.replace(/ /g, '_').replace(/:/g, '#');
-						also2 = also2.substring(0, 1).toUpperCase() + also2.substring(1);
-						const e = (j === line.seeAlso.length - 1 ? '' : ', ');
-						wiki += `[[${also2}]]${e}`;
-					});
-					wiki += '\r\n';
-				}
-			});
-
-			if (containRefs) {
-				wiki += `${end}== Referencias ==\r\n<references />\r\n`;
-			}
-
 			//TODO: Añadir sistema para adjuntar enlaces externos a la Wikipedia
+
+			//Añadimos las Referencias
+			if (refs.length > 0) {
+				wiki += `${end}== Referencias ==${end}<references/>\r\n`;
+			}
 
 			fs.writeFile(filePath, wiki, 'utf-8', (err) => {
 				if (err) {
@@ -585,25 +588,90 @@ class TopicIndex {
 	};
 
 	/**
-	 * Convierte un array de referencias a formato Wiki.
-	 * @param {string[]} refs Referencias.
+	 * Convierte una referencia a formato Wiki.
+	 * @param {string} ref Referencia.
+	 * @param {number} i Indice ed la referencia.
 	 * @return {string}
 	 */
-	refsToWiki = (refs) => {
+	refToWiki = (ref, i) => {
 		let wiki = '';
-		refs.forEach(ref => {
-			let data = ref.split(/[:.]/g);
-			wiki += '<ref>{{lib|LU|';
-			if (data.length === 1) {
-				wiki += data[0];
-			} else if (data.length === 2) {
-				wiki += `${data[0]}|${data[1]}`;
-			} else if (data.length === 3) {
-				wiki += `${data[0]}|${data[1]}|${data[2]}`;
-			}
-			wiki += '}}</ref> ';
-		});
+		let data = ref.split(/[:.]/g);
+		wiki += `<ref name="n${i}">{{lib|LU|`;
+		if (data.length === 1) {
+			wiki += data[0];
+		} else if (data.length === 2) {
+			wiki += `${data[0]}|${data[1]}`;
+		} else if (data.length === 3) {
+			wiki += `${data[0]}|${data[1]}|${data[2]}`;
+		}
+		wiki += '}}</ref> ';
 		return wiki;
+	};
+
+	/**
+	 * Obtiene un número a partir de una referencia. Para luego poder ordenar.
+	 * @param {string} ref Referncia a El Libro de Urantia.
+	 * @return {number}
+	 */
+	refToNumber = (ref) => {
+		let data = ref.split(/[:.]/g);
+		data = data.map(d => parseInt(d.match(/^[^\d]*(\d+)/)[0]));
+		if (data.length < 3) {
+			data.push(0);
+		}
+		if (data.length < 3) {
+			data.push(0);
+		}
+		return data[0] * 10000 + data[1] * 100 + data[2];
+	};
+
+	/**
+	 * Extrae todas las referencias diferentes de un topic (y las ordena por orden de
+	 * aparición en El Libro de Urantia). La ordenación ya no la hacemos.
+	 * @param {Object} topic El topic.
+	 * @return {Array.<string>}
+	 */
+	sortUniqueRefs = (topic) => {
+		let refs = [];
+		const addRefs = (rr) => {
+			if (rr && rr.length > 0) {
+				rr.filter(r => refs.indexOf(r) === -1).forEach(r => refs.push(r));
+			}
+		};
+
+		addRefs(topic.refs);
+		topic.lines.forEach(line => addRefs(line.refs));
+		
+		//De momento no ordenamos las referencias porque WikiMedia por defecto
+		// las ordena por orden de aparición en la página y no se puede imponer
+		// un orden
+		// refs.sort((a, b) => this.refToNumber(a) - this.refToNumber(b));
+		return refs;
+	};
+
+	/**
+	 * Extrae todos los enlaces diferentes de un topic (y los ordena por orden)
+	 * alfabético.
+	 * @param {Object} topic El topic.
+	 * @return {Array.<string>}
+	 */
+	sortUniqueSeeAlso = (topic) => {
+		let seeAlso = [];
+		const addSeeAlso = (sa) => {
+			if (sa && sa.length > 0) {
+				sa.filter(s => seeAlso.indexOf(s) === -1)
+					.forEach(s => seeAlso.push(s));
+			}
+		};
+
+		addSeeAlso(topic.seeAlso);
+		topic.lines.forEach(line => addSeeAlso(line.seeAlso));
+
+		seeAlso.sort((a,b) => {
+			return a.toLowerCase().localeCompare(b.toLowerCase());
+		});
+
+		return seeAlso;
 	};
 
 	/**

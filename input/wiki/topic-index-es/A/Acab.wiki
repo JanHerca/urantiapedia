@@ -1,6 +1,7 @@
-Véase: <ref>{{lib|LU|124|6|3}}</ref> 
+Véase: <ref name="n0">{{lib|LU|124|6|3}}</ref> 
 
-Rey de Efraín, también llamado Ajab; fue reprobado por el profeta Elías. <ref>{{lib|LU|123|5|12}}</ref> Asesinó a los Nabot para obtener su tierra. <ref>{{lib|LU|97|3|6}}</ref> <ref>{{lib|LU|97|9|19}}</ref> Su esposa fenicia fue quien falsificó los papeles que ordenaban la confiscación de las tierras de los Nabot por acusación de blasfemia. <ref>{{lib|LU|97|9|19}}</ref> Resistió contra el rey Salmanasar III en Karkar en una batalla que terminó en empate. <ref>{{lib|LU|97|9|18}}</ref> 
+Rey de Efraín, también llamado Ajab; fue reprobado por el profeta Elías. <ref name="n1">{{lib|LU|123|5|12}}</ref> Asesinó a los Nabot para obtener su tierra. <ref name="n2">{{lib|LU|97|3|6}}</ref> <ref name="n3">{{lib|LU|97|9|19}}</ref> Su esposa fenicia fue quien falsificó los papeles que ordenaban la confiscación de las tierras de los Nabot por acusación de blasfemia. <ref name="n3"/> Resistió contra el rey Salmanasar III en Karkar en una batalla que terminó en empate. <ref name="n4">{{lib|LU|97|9|18}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

@@ -1,24 +1,25 @@
-Véase: <ref>{{lib|LU|94|7}}</ref> 
+Véase: <ref name="n0">{{lib|LU|94|7}}</ref> 
 
-Siddartha fue un gran maestro del siglo VI a.C., hijo de un cacique sin importancia que gobernaba en un valle del Himalaya.Su conversión a sus nuevos ideales ocurrió de forma repentina. <ref>{{lib|LU|100|5|3}}</ref> Elaboró la doctrina trinitaria de Maestro, Ley y Fraternidad. <ref>{{lib|LU|104|1|6}}</ref> 
+Siddartha fue un gran maestro del siglo VI a.C., hijo de un cacique sin importancia que gobernaba en un valle del Himalaya. Su conversión a sus nuevos ideales ocurrió de forma repentina. <ref name="n1">{{lib|LU|100|5|3}}</ref> Elaboró la doctrina trinitaria de Maestro, Ley y Fraternidad. <ref name="n2">{{lib|LU|104|1|6}}</ref> 
 
 == {{anchor|seguidores}} Seguidores ==
 
-Gautama prohibió a sus discípulos recibir dinero para evitar tendencias jerárquicas. <ref>{{lib|LU|94|8|19}}</ref> El culto budista posterior pervirtió sus enseñanzas y lo convirtió en un personaje divino. <ref>{{lib|LU|92|5|12}}</ref> <ref>{{lib|LU|94|11|2,9}}</ref> La esposa de Gautama creía en el evangelio de su marido y fue la fundadora de una orden de monjas. <ref>{{lib|LU|94|7|6}}</ref> Su hijo se convirtió en su sucesor y difundió mucho el culto. <ref>{{lib|LU|94|7|6}}</ref> El despertar espiritual del siglo VI no sobrevivió en la India y casi había desaparecido en el momento de la invasión musulmana. <ref>{{lib|LU|79|4|8}}</ref> 
+Gautama prohibió a sus discípulos recibir dinero para evitar tendencias jerárquicas. <ref name="n3">{{lib|LU|94|8|19}}</ref> El culto budista posterior pervirtió sus enseñanzas y lo convirtió en un personaje divino. <ref name="n4">{{lib|LU|92|5|12}}</ref> <ref name="n5">{{lib|LU|94|11|2,9}}</ref> La esposa de Gautama creía en el evangelio de su marido y fue la fundadora de una orden de monjas. <ref name="n6">{{lib|LU|94|7|6}}</ref> Su hijo se convirtió en su sucesor y difundió mucho el culto. <ref name="n6"/> El despertar espiritual del siglo VI no sobrevivió en la India y casi había desaparecido en el momento de la invasión musulmana. <ref name="n7">{{lib|LU|79|4|8}}</ref> 
 
 == {{anchor|fortalezas}} Fortalezas ==
 
-Trajo socorro a millones de almas desesperadas. <ref>{{lib|LU|94|7|7}}</ref> Su vida fue mucho más grande que su predicación. <ref>{{lib|LU|94|8|19}}</ref> Fue un destacado maestro religioso. <ref>{{lib|LU|121|6|4}}</ref> Enseñó la mejor filosofía atea jamás inventada. <ref>{{lib|LU|94|8|18}}</ref> Enseñó la salvación universal, libre de sacrificios, rituales y sacerdotes. <ref>{{lib|LU|94|7|7}}</ref> 
+Trajo socorro a millones de almas desesperadas. <ref name="n8">{{lib|LU|94|7|7}}</ref> Su vida fue mucho más grande que su predicación. <ref name="n3"/> Fue un destacado maestro religioso. <ref name="n9">{{lib|LU|121|6|4}}</ref> Enseñó la mejor filosofía atea jamás inventada. <ref name="n10">{{lib|LU|94|8|18}}</ref> Enseñó la salvación universal, libre de sacrificios, rituales y sacerdotes. <ref name="n8"/> 
 
 == {{anchor|debilidades}} Debilidades ==
 
-Falló en percibir la personalidad de Dios y la existencia de las almas. <ref>{{lib|LU|94|7|3}}</ref> Buda dirigió su nave de salvación directamente hacia el puerto seguro, hasta la entrada de la ensenada de la salvación de los mortales, pero allí, a causa de unas cartas de navegación equivocadas, la buena nave encalló. <ref>{{lib|LU|132|7|4}}</ref> Apenas creía en la inmortalidad de la personalidad humana. <ref>{{lib|LU|94|8|16}}</ref> Buda fue un gran hombre e incluso un profeta para su pueblo, pero fue un profeta huérfano. Conoció a Dios en espíritu, pero no con la mente. <ref>{{lib|LU|132|7|3-5}}</ref> Debería haber escuchado al ermitaño Godad, un salemita que le transmitió las enseñanzas de Salem. <ref>{{lib|LU|94|7|4}}</ref> 
+Falló en percibir la personalidad de Dios y la existencia de las almas. <ref name="n11">{{lib|LU|94|7|3}}</ref> Buda dirigió su nave de salvación directamente hacia el puerto seguro, hasta la entrada de la ensenada de la salvación de los mortales, pero allí, a causa de unas cartas de navegación equivocadas, la buena nave encalló. <ref name="n12">{{lib|LU|132|7|4}}</ref> Apenas creía en la inmortalidad de la personalidad humana. <ref name="n13">{{lib|LU|94|8|16}}</ref> Buda fue un gran hombre e incluso un profeta para su pueblo, pero fue un profeta huérfano. Conoció a Dios en espíritu, pero no con la mente. <ref name="n14">{{lib|LU|132|7|3-5}}</ref> Debería haber escuchado al ermitaño Godad, un salemita que le transmitió las enseñanzas de Salem. <ref name="n15">{{lib|LU|94|7|4}}</ref> 
 
 == Enlaces ==
 
-* [[Buda]]
-* [[Budismo]]
+* [[Buda|Buda]]
+* [[budismo|Budismo]]
 
 
 == Referencias ==
-<references />
+
+<references/>

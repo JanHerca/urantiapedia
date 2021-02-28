@@ -1,4 +1,5 @@
-Asurbanipal fue un rey de Asiria, que envió colonos a Samaria para que vivieran allí. <ref>{{lib|LU|143|4|1}}</ref> 
+Asurbanipal fue un rey de Asiria, que envió colonos a Samaria para que vivieran allí. <ref name="n0">{{lib|LU|143|4|1}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

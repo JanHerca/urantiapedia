@@ -1,4 +1,5 @@
-Gadía es un intérprete filisteo con quien Jesús discurrió sobre Jonás durante su estancia en Jope. posteriormente se haría cristiano tras escuchar al apóstol Pedro, con quien tuvo una memorable controversia. <ref>{{lib|LU|130|1}}</ref> 
+Gadía es un intérprete filisteo con quien Jesús discurrió sobre Jonás durante su estancia en Jope. posteriormente se haría cristiano tras escuchar al apóstol Pedro, con quien tuvo una memorable controversia. <ref name="n0">{{lib|LU|130|1}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

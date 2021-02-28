@@ -1,4 +1,5 @@
-Cínico; fabricante de carpas; Jesús se puso en contacto con Aquila en Roma; Pablo vivió con Aquila en Corinto. <ref>{{lib|LU|133|3|12}}</ref> 
+Cínico; fabricante de carpas; Jesús se puso en contacto con Aquila en Roma; Pablo vivió con Aquila en Corinto. <ref name="n0">{{lib|LU|133|3|12}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

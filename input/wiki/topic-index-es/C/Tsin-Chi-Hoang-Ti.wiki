@@ -1,4 +1,5 @@
-Fue uno de los maestros chinos que combatió sin éxito el confucianismo, proclamando una fraternidad basada en el amor y no en el deber ético. <ref>{{lib|LU|94|6|11}}</ref> 
+Fue uno de los maestros chinos que combatió sin éxito el confucianismo, proclamando una fraternidad basada en el amor y no en el deber ético. <ref name="n0">{{lib|LU|94|6|11}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

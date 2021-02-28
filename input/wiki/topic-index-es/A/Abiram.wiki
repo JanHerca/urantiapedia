@@ -1,4 +1,5 @@
-Fue el hijo de un rey que fue sacrificado en la construcción de muros de Jericó junto a su hermano. <ref>{{lib|LU|89|6|6}}</ref> 
+Fue el hijo de un rey que fue sacrificado en la construcción de muros de Jericó junto a su hermano. <ref name="n0">{{lib|LU|89|6|6}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

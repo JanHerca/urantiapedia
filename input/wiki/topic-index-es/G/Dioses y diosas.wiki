@@ -2,12 +2,92 @@
 
 == {{anchor|evolución_en_la_consideración_de_los_dioses}} Evolución en la consideración de los dioses ==
 
-Los primeros dioses eran seres humanos difuntos glorificados. <ref>{{lib|LU|87|3|1}}</ref> Los primitivos consideraban al personal del Príncipe como dioses. <ref>{{lib|LU|66|4|1}}</ref> Los arios tenían 33 deidades. <ref>{{lib|LU|94|1|2-3}}</ref> Las ciudades sumerias no se federaron por el celo que tenían de sus deidades, que siempre consideraban por encima de las demás. <ref>{{lib|LU|78|8|7}}</ref> Las proyecciones del intelecto humano pueden originar dioses falsos a imagen del hombre. <ref>{{lib|LU|196|3|23}}</ref> El progreso de la ciencia aumenta la mortalidad de los falsos dioses. <ref>{{lib|LU|102|6|1}}</ref> 
+Los primeros dioses eran seres humanos difuntos glorificados. <ref name="n0">{{lib|LU|87|3|1}}</ref> Los primitivos consideraban al personal del Príncipe como dioses. <ref name="n1">{{lib|LU|66|4|1}}</ref> Los arios tenían 33 deidades. <ref name="n2">{{lib|LU|94|1|2-3}}</ref> Las ciudades sumerias no se federaron por el celo que tenían de sus deidades, que siempre consideraban por encima de las demás. <ref name="n3">{{lib|LU|78|8|7}}</ref> Las proyecciones del intelecto humano pueden originar dioses falsos a imagen del hombre. <ref name="n4">{{lib|LU|196|3|23}}</ref> El progreso de la ciencia aumenta la mortalidad de los falsos dioses. <ref name="n5">{{lib|LU|102|6|1}}</ref> 
 
 == {{anchor|nombres_de_dioses}} Nombres de dioses ==
 
-Dioses nombrados en El Libro de Urantia.* [[Agni]], [[Ahura-Mazda]], [[Anu]], [[Afrodita]], [[Apolo]], [[Artemisa]], [[Astaroth]], [[Asur]], [[Astarté]], [[Atón]], [[Atis]], [[Augusto]], [[Baal]], [[Hadas_malignas]], [[Belo]], [[Belo-Marduc]], [[Brahma]], [[Brahmán]], [[Duendes]], [[Buda]], [[Centauros]], [[Quemos]], [[Cibeles]], [[Dagón]], [[Dafne]], [[Devoradora]], [[Dionisio]], [[Dragón]], [[Enanos]], [[Dyaus_pitar]], [[Ea]], [[El]], [[El_Shaddai]], [[Hadas]], [[Destino]], [[Destinos]], [[Gran_culto_a_la_Madre]], [[Hestia]], [[Horus]], [[Indra]], [[Istar]], [[Isis]], [[Jehová]], [[Juno]], [[Júpiter]], [[Marduc]], [[Marte_(dios)]], [[Sirenas]], [[Minerva]], [[Mitra]], [[Nabu]], [[Neptuno_(dios)]], [[Nereidas]], [[Dios_del_Nilo]], [[Nog]], [[Osiris]], [[Pandora]], [[Prajapati]], [[Prometeo]], [[Ramán]], [[Sakya-Muni_Buda]], [[Set_(dios)]], [[Samas]], [[Shang-ti]], [[Sin_(dios)]], [[Siva]], [[Sol_Invictus]], [[Soma]], [[Thor_(dios)]], [[Thot]], [[Trimurti]], [[Venus_(diosa)]], [[Vesta]], [[Vichnú]], [[Yahvé]], [[Zeus]]
+Dioses nombrados en El Libro de Urantia. 
+
+== Enlaces ==
+
+* [[Afrodita|Afrodita]]
+* [[Agni|Agni]]
+* [[Ahura-Mazda|Ahura-Mazda]]
+* [[Anu|Anu]]
+* [[Apolo|Apolo]]
+* [[Artemisa|Artemisa]]
+* [[Astaroth|Astaroth]]
+* [[Astarté|Astarté]]
+* [[Asur|Asur]]
+* [[Atis|Atis]]
+* [[Atón|Atón]]
+* [[Augusto|Augusto]]
+* [[Baal|Baal]]
+* [[Belo|Belo]]
+* [[Belo-Marduc|Belo-Marduc]]
+* [[Brahma|Brahma]]
+* [[Brahmán|Brahmán]]
+* [[Buda|Buda]]
+* [[centauros|Centauros]]
+* [[Cibeles|Cibeles]]
+* [[Dafne|Dafne]]
+* [[Dagón|Dagón]]
+* [[Destino|Destino]]
+* [[destinos|Destinos]]
+* [[Devoradora|Devoradora]]
+* [[Dionisio|Dionisio]]
+* [[dios_del_Nilo|Dios del Nilo]]
+* [[dragón|Dragón]]
+* [[duendes|Duendes]]
+* [[Dyaus_pitar|Dyaus pitar]]
+* [[Ea|Ea]]
+* [[El|El]]
+* [[El_Shaddai|El Shaddai]]
+* [[enanos|Enanos]]
+* [[Gran_culto_a_la_Madre|Gran culto a la Madre]]
+* [[hadas|Hadas]]
+* [[hadas_malignas|Hadas malignas]]
+* [[Hestia|Hestia]]
+* [[Horus|Horus]]
+* [[Indra|Indra]]
+* [[Isis|Isis]]
+* [[Istar|Istar]]
+* [[Jehová|Jehová]]
+* [[Juno|Juno]]
+* [[Júpiter|Júpiter]]
+* [[Marduc|Marduc]]
+* [[Marte_(dios)|Marte (dios)]]
+* [[Minerva|Minerva]]
+* [[Mitra|Mitra]]
+* [[Nabu|Nabu]]
+* [[Neptuno_(dios)|Neptuno (dios)]]
+* [[Nereidas|Nereidas]]
+* [[Nog|Nog]]
+* [[Osiris|Osiris]]
+* [[Pandora|Pandora]]
+* [[Prajapati|Prajapati]]
+* [[Prometeo|Prometeo]]
+* [[Quemos|Quemos]]
+* [[Ramán|Ramán]]
+* [[Sakya-Muni_Buda|Sakya-Muni Buda]]
+* [[Samas|Samas]]
+* [[Set_(dios)|Set (dios)]]
+* [[Shang-ti|Shang-ti]]
+* [[Sin_(dios)|Sin (dios)]]
+* [[sirenas|Sirenas]]
+* [[Siva|Siva]]
+* [[Sol_Invictus|Sol Invictus]]
+* [[Soma|Soma]]
+* [[Thor_(dios)|Thor (dios)]]
+* [[Thot|Thot]]
+* [[Trimurti|Trimurti]]
+* [[Venus_(diosa)|Venus (diosa)]]
+* [[Vesta|Vesta]]
+* [[Vichnú|Vichnú]]
+* [[Yahvé|Yahvé]]
+* [[Zeus|Zeus]]
 
 
 == Referencias ==
-<references />
+
+<references/>

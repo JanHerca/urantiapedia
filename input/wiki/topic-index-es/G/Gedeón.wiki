@@ -1,4 +1,5 @@
-Los madianitas invadieron el valle del Jordán en los días de Gedeón. <ref>{{lib|LU|124|6|6}}</ref> 
+Los madianitas invadieron el valle del Jordán en los días de Gedeón. <ref name="n0">{{lib|LU|124|6|6}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

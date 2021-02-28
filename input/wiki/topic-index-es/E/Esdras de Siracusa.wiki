@@ -1,4 +1,5 @@
-Esdras era un judío descarriado, que tenía una taberna y hospicio en Siracusa, y a quien Jesús rehabilitó. <ref>{{lib|LU|130|8|2}}</ref> 
+Esdras era un judío descarriado, que tenía una taberna y hospicio en Siracusa, y a quien Jesús rehabilitó. <ref name="n0">{{lib|LU|130|8|2}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

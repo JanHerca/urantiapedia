@@ -1,10 +1,11 @@
-Fue el nombre que recibió el maestro Gautama, venerado como iluminado. <ref>{{lib|LU|92|5|12}}</ref> <ref>{{lib|LU|94|8|2}}</ref> <ref>{{lib|LU|94|9|1}}</ref> Buda se convirtió en un devoto reflexivo del ocio. <ref>{{lib|LU|69|2|5}}</ref> Jesús tuvo una charla con Gonod sobre Buda. <ref>{{lib|LU|132|7|3-5}}</ref> El retorno de Buda es algo esperado en el Tíbet, China e India. <ref>{{lib|LU|92|5|6}}</ref> 
+Fue el nombre que recibió el maestro Gautama, venerado como iluminado. <ref name="n0">{{lib|LU|92|5|12}}</ref> <ref name="n1">{{lib|LU|94|8|2}}</ref> <ref name="n2">{{lib|LU|94|9|1}}</ref> Buda se convirtió en un devoto reflexivo del ocio. <ref name="n3">{{lib|LU|69|2|5}}</ref> Jesús tuvo una charla con Gonod sobre Buda. <ref name="n4">{{lib|LU|132|7|3-5}}</ref> El retorno de Buda es algo esperado en el Tíbet, China e India. <ref name="n5">{{lib|LU|92|5|6}}</ref> 
 
 == Enlaces ==
 
-* [[Budismo]]
-* [[Siddharta_Gautama]]
+* [[budismo|Budismo]]
+* [[Siddharta_Gautama|Siddharta Gautama]]
 
 
 == Referencias ==
-<references />
+
+<references/>

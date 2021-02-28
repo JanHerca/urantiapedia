@@ -1,6 +1,7 @@
-Véase: <ref>{{lib|LU|150|3|1}}</ref> 
+Véase: <ref name="n0">{{lib|LU|150|3|1}}</ref> 
 
-Débora fue una gobernante del pueblo hebreo que logró que se derrotara a Sísara en Taanaj. <ref>{{lib|LU|126|1|2}}</ref> La crueldad persistió en el reinado de Débora, a pesar de que era mujer, pues tras una victoria hizo que murieran todos los rendidos. <ref>{{lib|LU|70|1|17}}</ref> 
+Débora fue una gobernante del pueblo hebreo que logró que se derrotara a Sísara en Taanaj. <ref name="n1">{{lib|LU|126|1|2}}</ref> La crueldad persistió en el reinado de Débora, a pesar de que era mujer, pues tras una victoria hizo que murieran todos los rendidos. <ref name="n2">{{lib|LU|70|1|17}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

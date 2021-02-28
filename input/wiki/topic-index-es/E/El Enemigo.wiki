@@ -1,11 +1,12 @@
-Esta es una denominación que alguna vez usó Jesús para Caligastia; advirtió a los apóstoles que intentaría separarlos entre sí. <ref>{{lib|LU|138|7|3}}</ref> 
+Esta es una denominación que alguna vez usó Jesús para Caligastia; advirtió a los apóstoles que intentaría separarlos entre sí. <ref name="n0">{{lib|LU|138|7|3}}</ref> 
 
 == Enlaces ==
 
-* [[Caligastia]]
-* [[Diablo]]
-* [[Lucifer]]
+* [[Caligastia|Caligastia]]
+* [[diablo|Diablo]]
+* [[Lucifer|Lucifer]]
 
 
 == Referencias ==
-<references />
+
+<references/>

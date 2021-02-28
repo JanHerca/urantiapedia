@@ -1,4 +1,5 @@
-Aarón fue curado de una mano seca por Jesús. <ref>{{lib|LU|148|7}}</ref> Fue quien le habló al paralítico que se descolgó del techo acerca de Jesús. <ref>{{lib|LU|148|9|2}}</ref> 
+Aarón fue curado de una mano seca por Jesús. <ref name="n0">{{lib|LU|148|7}}</ref> Fue quien le habló al paralítico que se descolgó del techo acerca de Jesús. <ref name="n1">{{lib|LU|148|9|2}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

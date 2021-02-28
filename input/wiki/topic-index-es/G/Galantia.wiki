@@ -1,4 +1,5 @@
-Galantia es el asociado ascendente de Gavalia, la primera Brillante Estrella Vespertina de Nebadon, y Galantia es la primera ascendente en entrar en servicio en Nebadon. <ref>{{lib|LU|37|2|6}}</ref> <ref>{{lib|LU|46|5|25}}</ref> Tiene actualmente su cuartel general en Jerusem. <ref>{{lib|LU|37|2|6}}</ref> <ref>{{lib|LU|46|5|25}}</ref> Ella es el jefe asociado de estos superángeles. <ref>{{lib|LU|46|5|25}}</ref> 
+Galantia es el asociado ascendente de Gavalia, la primera Brillante Estrella Vespertina de Nebadon, y Galantia es la primera ascendente en entrar en servicio en Nebadon. <ref name="n0">{{lib|LU|37|2|6}}</ref> <ref name="n1">{{lib|LU|46|5|25}}</ref> Tiene actualmente su cuartel general en Jerusem. <ref name="n0"/> <ref name="n1"/> Ella es el jefe asociado de estos superángeles. <ref name="n1"/> 
 
 == Referencias ==
-<references />
+
+<references/>

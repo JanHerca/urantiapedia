@@ -1,4 +1,5 @@
-Esposa de Poncio Pilato; se identificó de manera prominente con el evangelio. <ref>{{lib|LU|185|1|7}}</ref> <ref>{{lib|LU|185|2|6}}</ref> Le pidió a Pilato que no arrestara a Jesús. <ref>{{lib|LU|183|2|3}}</ref> Envió un mensaje a Pilato sobre Jesús. <ref>{{lib|LU|185|5|7-8}}</ref> 
+Esposa de Poncio Pilato; se identificó de manera prominente con el evangelio. <ref name="n0">{{lib|LU|185|1|7}}</ref> <ref name="n1">{{lib|LU|185|2|6}}</ref> Le pidió a Pilato que no arrestara a Jesús. <ref name="n2">{{lib|LU|183|2|3}}</ref> Envió un mensaje a Pilato sobre Jesús. <ref name="n3">{{lib|LU|185|5|7-8}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

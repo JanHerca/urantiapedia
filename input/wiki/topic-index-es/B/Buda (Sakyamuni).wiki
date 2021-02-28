@@ -1,10 +1,11 @@
-Los seguidores de Gautama lo llamaron también Sakya-Muni Buda. <ref>{{lib|LU|94|8|2}}</ref> 
+Los seguidores de Gautama lo llamaron también Sakya-Muni Buda. <ref name="n0">{{lib|LU|94|8|2}}</ref> 
 
 == Enlaces ==
 
-* [[Buda]]
-* [[Budismo]]
+* [[Buda|Buda]]
+* [[budismo|Budismo]]
 
 
 == Referencias ==
-<references />
+
+<references/>

@@ -1,9 +1,10 @@
-Concepto del Inifnito que denota la primacía de la Primera Fuente y Centro, la infinidad del libre albedrío absoluto y sin trabas del Padre Universal. <ref>{{lib|LU|0|3|24}}</ref> 
+Concepto del Inifnito que denota la primacía de la Primera Fuente y Centro, la infinidad del libre albedrío absoluto y sin trabas del Padre Universal. <ref name="n0">{{lib|LU|0|3|24}}</ref> 
 
 == Enlaces ==
 
-* [[Padre_Universal]]
+* [[Padre_Universal|Padre Universal]]
 
 
 == Referencias ==
-<references />
+
+<references/>

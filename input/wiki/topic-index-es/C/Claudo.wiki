@@ -1,4 +1,5 @@
-Claudo fue un joven desanimado a quien Jesús habló en la isla de Malta. <ref>{{lib|LU|130|8|1}}</ref> 
+Claudo fue un joven desanimado a quien Jesús habló en la isla de Malta. <ref name="n0">{{lib|LU|130|8|1}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

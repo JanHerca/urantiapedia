@@ -1,4 +1,5 @@
-Gonod es un hombre de negocios indio con quien Jesús viajó a Roma junto a él y su hijo Ganid. <ref>{{lib|LU|130}}</ref> <ref>{{lib|LU|132}}</ref> <ref>{{lib|LU|133}}</ref> <ref>{{lib|LU|129|2|9}}</ref> Realizó 3 viajes a China aparte del viaje que hizo junto a su hijo y Jesús. <ref>{{lib|LU|130|0|6}}</ref> 
+Gonod es un hombre de negocios indio con quien Jesús viajó a Roma junto a él y su hijo Ganid. <ref name="n0">{{lib|LU|130}}</ref> <ref name="n1">{{lib|LU|132}}</ref> <ref name="n2">{{lib|LU|133}}</ref> <ref name="n3">{{lib|LU|129|2|9}}</ref> Realizó 3 viajes a China aparte del viaje que hizo junto a su hijo y Jesús. <ref name="n4">{{lib|LU|130|0|6}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

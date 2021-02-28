@@ -1,4 +1,5 @@
-Jesús se encontró con Gayo en la casa de Crispo, en Corinto; luego se convirtió en un leal partidario de Pablo. <ref>{{lib|LU|133|3|11}}</ref> 
+Jesús se encontró con Gayo en la casa de Crispo, en Corinto; luego se convirtió en un leal partidario de Pablo. <ref name="n0">{{lib|LU|133|3|11}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

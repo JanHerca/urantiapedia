@@ -1,4 +1,5 @@
-El culto a la naturaleza de Dionisio floreció en Grecia. <ref>{{lib|LU|98|2|10}}</ref> 
+El culto a la naturaleza de Dionisio floreció en Grecia. <ref name="n0">{{lib|LU|98|2|10}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

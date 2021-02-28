@@ -1,4 +1,5 @@
-El genio militar andita de los mongoles; fue un monoteísta. <ref>{{lib|LU|79|1|9}}</ref> Los miembros de su tribu todavía esperan su regreso. <ref>{{lib|LU|92|5|6}}</ref> 
+El genio militar andita de los mongoles; fue un monoteísta. <ref name="n0">{{lib|LU|79|1|9}}</ref> Los miembros de su tribu todavía esperan su regreso. <ref name="n1">{{lib|LU|92|5|6}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

@@ -1,4 +1,5 @@
-Anaxando es un joven griego con quien Jesús habló en Cesarea cuando estuvo viajando por el Mediterráneo. <ref>{{lib|LU|130|2|4-5}}</ref> Se convirtió en intendente del centurión romano llamado Cornelio, quien se hizo creyente por Pedro. <ref>{{lib|LU|130|2|5}}</ref> Se convirtió al cristianismo por el apóstol Felipe. <ref>{{lib|LU|130|2|5}}</ref> Pereció accidentalmente mientras socorría heridos en la matanza de 20.000 judíos, hecho que ocurrió en Cesarea el 66 d.C. <ref>{{lib|LU|130|2|5}}</ref> 
+Anaxando es un joven griego con quien Jesús habló en Cesarea cuando estuvo viajando por el Mediterráneo. <ref name="n0">{{lib|LU|130|2|4-5}}</ref> Se convirtió en intendente del centurión romano llamado Cornelio, quien se hizo creyente por Pedro. <ref name="n1">{{lib|LU|130|2|5}}</ref> Se convirtió al cristianismo por el apóstol Felipe. <ref name="n1"/> Pereció accidentalmente mientras socorría heridos en la matanza de 20.000 judíos, hecho que ocurrió en Cesarea el 66 d.C. <ref name="n1"/> 
 
 == Referencias ==
-<references />
+
+<references/>

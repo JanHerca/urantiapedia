@@ -1,4 +1,5 @@
-Gamaliel fue un renombrado maestro en Jerusalén. <ref>{{lib|LU|126|5|3}}</ref> Aconsejó al sanedrín en contra del encarcelamiento de los seguidores de Jesús. <ref>{{lib|LU|194|4|10}}</ref> 
+Gamaliel fue un renombrado maestro en Jerusalén. <ref name="n0">{{lib|LU|126|5|3}}</ref> Aconsejó al sanedrín en contra del encarcelamiento de los seguidores de Jesús. <ref name="n1">{{lib|LU|194|4|10}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

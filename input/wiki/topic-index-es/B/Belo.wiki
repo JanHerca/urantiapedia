@@ -1,4 +1,5 @@
-Dios babilónico, también llamado Bel; Dios mesopotámico de la tierra; equivalente al Baal semítico; formó una tríada con Ea y Anu. <ref>{{lib|LU|95|1|4}}</ref> <ref>{{lib|LU|97|6|2}}</ref> 
+Dios babilónico, también llamado Bel; Dios mesopotámico de la tierra; equivalente al Baal semítico; formó una tríada con Ea y Anu. <ref name="n0">{{lib|LU|95|1|4}}</ref> <ref name="n1">{{lib|LU|97|6|2}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

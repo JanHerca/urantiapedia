@@ -1,4 +1,5 @@
-Filósofo griego que enseñó que la virtud es el conocimiento. <ref>{{lib|LU|98|2|6}}</ref> Su filosofía fue venerada por los judíos helenizados. <ref>{{lib|LU|121|6|3}}</ref> 
+Filósofo griego que enseñó que la virtud es el conocimiento. <ref name="n0">{{lib|LU|98|2|6}}</ref> Su filosofía fue venerada por los judíos helenizados. <ref name="n1">{{lib|LU|121|6|3}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

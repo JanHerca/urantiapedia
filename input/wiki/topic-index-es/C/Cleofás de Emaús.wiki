@@ -1,4 +1,5 @@
-Cleofás es uno de los dos hermanos de Emaús que fueron testigos de la séptima aparición de Jesús. <ref>{{lib|LU|190|5}}</ref> 
+Cleofás es uno de los dos hermanos de Emaús que fueron testigos de la séptima aparición de Jesús. <ref name="n0">{{lib|LU|190|5}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

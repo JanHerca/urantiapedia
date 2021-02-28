@@ -1,4 +1,5 @@
-Anaxágoras era un mecanicista griego que reconoció una Causa Primera. <ref>{{lib|LU|98|2|6}}</ref> 
+Anaxágoras era un mecanicista griego que reconoció una Causa Primera. <ref name="n0">{{lib|LU|98|2|6}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

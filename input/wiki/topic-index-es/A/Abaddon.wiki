@@ -1,4 +1,5 @@
-Abaddon era el jefe del estado mayor de Caligastia; jefe de los rebeldes de Urantia. <ref>{{lib|LU|53|1|5}}</ref> 
+Abaddon era el jefe del estado mayor de Caligastia; jefe de los rebeldes de Urantia. <ref name="n0">{{lib|LU|53|1|5}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

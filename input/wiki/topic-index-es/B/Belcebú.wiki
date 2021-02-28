@@ -1,4 +1,5 @@
-Belcebú era el líder de los intermedios secundarios apóstatas. <ref>{{lib|LU|53|1|5}}</ref> <ref>{{lib|LU|77|7|4}}</ref> Jesús fue acusado de hacer milagros por el poder de Belcebú. <ref>{{lib|LU|153|4|2-3}}</ref> <ref>{{lib|LU|169|0|7}}</ref> Jesús advirtió a los apóstoles que serían llamados asociados de Belcebú. <ref>{{lib|LU|150|4|2}}</ref> 
+Belcebú era el líder de los intermedios secundarios apóstatas. <ref name="n0">{{lib|LU|53|1|5}}</ref> <ref name="n1">{{lib|LU|77|7|4}}</ref> Jesús fue acusado de hacer milagros por el poder de Belcebú. <ref name="n2">{{lib|LU|153|4|2-3}}</ref> <ref name="n3">{{lib|LU|169|0|7}}</ref> Jesús advirtió a los apóstoles que serían llamados asociados de Belcebú. <ref name="n4">{{lib|LU|150|4|2}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

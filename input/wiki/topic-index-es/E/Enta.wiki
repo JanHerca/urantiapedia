@@ -1,4 +1,5 @@
-María la madre de Jesús era descendiente de Enta. <ref>{{lib|LU|122|1|2}}</ref> 
+María la madre de Jesús era descendiente de Enta. <ref name="n0">{{lib|LU|122|1|2}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>

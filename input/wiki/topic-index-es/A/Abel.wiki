@@ -1,6 +1,7 @@
-Véase: <ref>{{lib|LU|76|2sec}}</ref> 
+Véase: <ref name="n0">{{lib|LU|76|2sec}}</ref> 
 
-Abel fue el primer hijo de Adán nacido en el segundo jardín. Se dedicó a ser pastor. <ref>{{lib|LU|76|2|1,4}}</ref> Vivió grandemente influido por su entorno desfavorable. <ref>{{lib|LU|76|2|6}}</ref> Abel se mofaba a menudo de su hermano mayor Caín y terminó asesinado por él. <ref>{{lib|LU|76|2|2-5}}</ref> 
+Abel fue el primer hijo de Adán nacido en el segundo jardín. Se dedicó a ser pastor. <ref name="n1">{{lib|LU|76|2|1,4}}</ref> Vivió grandemente influido por su entorno desfavorable. <ref name="n2">{{lib|LU|76|2|6}}</ref> Abel se mofaba a menudo de su hermano mayor Caín y terminó asesinado por él. <ref name="n3">{{lib|LU|76|2|2-5}}</ref> 
 
 == Referencias ==
-<references />
+
+<references/>
