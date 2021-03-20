@@ -209,8 +209,29 @@ class TopicIndex {
 	};
 
 	/**
-	 * Extract references from a text.
-	 * @param {string} text Text.
+	 * Obtiene un objeto que contiene una resumen con la cantidad de términos de
+	 * cada tipo y los totales, así como el número de redireccionamientos.
+	 * @return {Object}
+	 */
+	getSummary = () => {
+		const letters = '_abcdefghijklmnopqrstuvwxyz';
+		const types = ['PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'OTRO'];
+		let result = {};
+		letters.split('').forEach(letter => {
+			let obj = {};
+			const tt = this.topics.filter(t => t.filename === letter + '.txt');
+			obj.TOTAL = tt.length;
+			types.forEach(type => obj[type] = tt.filter(t => t.type === type).length);
+			obj.REDIREC = tt.filter(t => t.lines.length === 0).length;
+			obj.REVISADO = tt.filter(t => t.revised === 'SI').length;
+			result[letter] = obj;
+		});
+		return result;
+	};
+
+	/**
+	 * Extrae las referencias de un texto.
+	 * @param {string} text Texto.
 	 * @return {Array.<string>}
 	 */
 	extractRefs = (text) => {

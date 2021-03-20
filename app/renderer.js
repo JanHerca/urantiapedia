@@ -13,10 +13,11 @@ const controlIDs = [
 	'dirLButton', 'dirLTextbox', 
 	'dirJButton', 'dirJTextbox', 
 	'dirWButton', 'dirWTextbox', 
-	'drpProcess', 'exeButton', 'logArea', 
+	'drpProcess', 'exeButton', 'logArea', 'collapseButton',
 	'progress', 'chkMerge', 
 	'drpTopics', 'drpCategories'];
 const controls = {};
+let collapsed = false;
 
 const onLoad = () => {
 	controlIDs.forEach(id => controls[id] = document.querySelector('#' + id));
@@ -29,6 +30,7 @@ const onLoad = () => {
 	controls.dirWButton.addEventListener('click', 
 		handle_dirButtonClick.bind(this, controls.dirWTextbox));
 	controls.exeButton.addEventListener('click', handle_exeButtonClick);
+	controls.collapseButton.addEventListener('click', handle_collapseButtonClick);
 	controls.drpTopics.addEventListener('change', handle_drpTopicsChange);
 	showCategoriesList();
 };
@@ -41,6 +43,16 @@ const handle_dirButtonClick = (textbox) => {
 		if (!result.canceled && result.filePaths) {
 			const dirPath = result.filePaths[0];
 			textbox.value = dirPath;
+		}
+	});
+};
+
+const handle_collapseButtonClick = () => {
+	collapsed = !collapsed;
+	document.querySelectorAll('form > div').forEach((e, i, ar) => {
+		if (i < ar.length - 2) {
+			if (collapsed) e.classList.add('d-none');
+			else e.classList.remove('d-none');
 		}
 	});
 };
@@ -150,6 +162,14 @@ const handle_exeButtonClick = () => {
 				showTopicList();
 				onSuccess(okMsgs);
 				showTopic(topicindex.topics[0].name);
+			}).catch(onFail);
+	} else if (process === 'sti' && checkControls(['dirTTextbox'])) {
+		// Leemos TopicIndex (*.txt) => luego sacamos un resumen
+		topicindex.readFromTXT(txtDir, 'TODOS')
+			.then(() => {
+				let summary = topicindex.getSummary();
+				onSuccess(okMsgs);
+				showTopicSummary(summary);
 			}).catch(onFail);
 	} else if (process === 'nti' && checkControls(['dirTTextbox'])) {
 		// Leemos TopicIndex (*.txt) => volvemos a escribir igual
@@ -261,6 +281,33 @@ const showTopic = (name) => {
 				}).filter(r => r != null).join('');
 		}).join('');
 	}
+	controls.logArea.innerHTML = html;
+};
+
+const showTopicSummary = (obj) => {
+	var columns = ['#', 'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'OTRO', 'REDIREC', 
+		'REVISADO', 'TOTAL'];
+	var columns2 = columns.slice(1);
+	let headers = columns.map(c => `<th scope="col">${c}</th>`).join('');
+	let header = `<thead class="thead-dark"><tr>${headers}</tr></thead>`;
+	let body = '';
+	for (let letter in obj) {
+		const r = columns2.map(c => {
+			const len = (obj[letter][c] != undefined ? obj[letter][c] : '-');
+			return `<th>${len}</th>`;
+		}).join('');
+		body += `<tr><th scope="row">${letter.toUpperCase()}</th>${r}</tr>`;
+	}
+	let footer = '<th scope="row">TOTAL</th>';
+	footer += columns2.map(c => {
+		var len = 0;
+		for (let lt in obj) {
+			len += (obj[lt][c] != undefined ? obj[lt][c] : 0);
+		}
+		return `<th>${len}</th>`;
+	}).join('');
+	let html = `<table class="table table-striped">${header}` +
+		`<tbody>${body}<tr>${footer}</tr></tbody></table>`;
 	controls.logArea.innerHTML = html;
 };
 
