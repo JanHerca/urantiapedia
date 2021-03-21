@@ -108,7 +108,7 @@ class TopicIndex {
 					level = line.split(/\t/g).findIndex(a => a != '');
 					data = tline.split('|').map(i => i.trim());
 					
-					if (current && (tline === '' || i === lines.length - 1)) {
+					if (current && tline === '') {
 						if (category === 'TODOS' || category === current.type) {
 							this.topics.push(current);
 						}
@@ -197,6 +197,13 @@ class TopicIndex {
 								current.refs.length === 0);
 						}
 					}
+
+					if (current && i === lines.length - 1) {
+						if (category === 'TODOS' || category === current.type) {
+							this.topics.push(current);
+						}
+						current = null;
+					}
 				});
 
 				if (errors.length === 0) {
@@ -215,16 +222,37 @@ class TopicIndex {
 	 */
 	getSummary = () => {
 		const letters = '_abcdefghijklmnopqrstuvwxyz';
-		const types = ['PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'OTRO'];
+		const types = ['PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION', 'OTRO'];
 		let result = {};
 		letters.split('').forEach(letter => {
 			let obj = {};
+			let objLines = {};
+			let totalLines = 0;
 			const tt = this.topics.filter(t => t.filename === letter + '.txt');
 			obj.TOTAL = tt.length;
-			types.forEach(type => obj[type] = tt.filter(t => t.type === type).length);
+			//Categorías
+			types.forEach(type => {
+				const tf = tt.filter(t => t.type === type);
+				let lines = 0;
+				tf.forEach(t => lines += t.lines.length);
+				obj[type] = tf.length;
+				objLines[type] = lines;
+				totalLines += lines;
+			});
+			//Redireccionamientos
 			obj.REDIREC = tt.filter(t => t.lines.length === 0).length;
-			obj.REVISADO = tt.filter(t => t.revised === 'SI').length;
+			objLines.REDIREC = obj.REDIREC;
+			totalLines += obj.REDIREC;
+			//Revisados
+			let revLines = 0;
+			const tr = tt.filter(t => t.revised === 'SI');
+			tr.forEach(t => revLines += t.lines.length);
+			objLines.REVISADO = revLines;
+			obj.REVISADO = tr.length;
+			//Totales
+			objLines.TOTAL = totalLines;
 			result[letter] = obj;
+			result[letter].lines = objLines;
 		});
 		return result;
 	};

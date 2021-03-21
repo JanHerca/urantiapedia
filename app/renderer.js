@@ -285,30 +285,49 @@ const showTopic = (name) => {
 };
 
 const showTopicSummary = (obj) => {
-	var columns = ['#', 'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'OTRO', 'REDIREC', 
-		'REVISADO', 'TOTAL'];
+	var columns = ['#', 'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION', 'OTRO', 
+		'REDIREC', 'REVISADO', 'TOTAL'];
 	var columns2 = columns.slice(1);
 	let headers = columns.map(c => `<th scope="col">${c}</th>`).join('');
 	let header = `<thead class="thead-dark"><tr>${headers}</tr></thead>`;
-	let body = '';
-	for (let letter in obj) {
-		const r = columns2.map(c => {
-			const len = (obj[letter][c] != undefined ? obj[letter][c] : '-');
+	let footerTh = '<th scope="row">TOTAL</th>';
+
+	const buildTableBody = (isLines) => {
+		let b = '';
+		for (let letter in obj) {
+			const o = (isLines ? obj[letter].lines : obj[letter]);
+			const r = columns2.map(c => {
+				const len = (o[c] != undefined ? o[c] : '-');
+				return `<th>${len}</th>`;
+			}).join('');
+			b += `<tr><th scope="row">${letter.toUpperCase()}</th>${r}</tr>`;
+		}
+		return b;
+	};
+	const buildTableFooter = (isLines) => {
+		return footerTh + columns2.map(c => {
+			let len = 0;
+			for (let letter in obj) {
+				const o = (isLines ? obj[letter].lines : obj[letter]);
+				len += (o[c] != undefined ? o[c] : 0);
+			}
 			return `<th>${len}</th>`;
 		}).join('');
-		body += `<tr><th scope="row">${letter.toUpperCase()}</th>${r}</tr>`;
-	}
-	let footer = '<th scope="row">TOTAL</th>';
-	footer += columns2.map(c => {
-		var len = 0;
-		for (let lt in obj) {
-			len += (obj[lt][c] != undefined ? obj[lt][c] : 0);
-		}
-		return `<th>${len}</th>`;
-	}).join('');
-	let html = `<table class="table table-striped">${header}` +
+	};
+
+	//Tabla de número de términos
+	const body = buildTableBody(false);
+	const footer = buildTableFooter(false);
+	const html = `<table class="table table-striped">${header}` +
 		`<tbody>${body}<tr>${footer}</tr></tbody></table>`;
-	controls.logArea.innerHTML = html;
+
+	//Tabla de número de líneas
+	const body2 = buildTableBody(true);
+	const footer2 = buildTableFooter(true);
+	const html2 = `<table class="table table-striped">${header}` +
+		`<tbody>${body2}<tr>${footer2}</tr></tbody></table>`;
+	
+	controls.logArea.innerHTML = html + html2;
 };
 
 const showCategoriesList = () => {
