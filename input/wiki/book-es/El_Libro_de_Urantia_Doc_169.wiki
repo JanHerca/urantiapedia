@@ -142,7 +142,7 @@
 <ref name="n21">''Parábola del hijo perdido'': {{lib|Lc|15|11-32}}. </ref>
 <ref name="n22">''La pregunta de Simón Celotes'': {{lib|Lc|16|8-9}}. </ref>
 <ref name="n23">''Sabios espiritualmente'': {{lib|Mt|6|19-21}}; {{lib|Lc|12|33-34}}. </ref>
-<ref name="n24">''Parábola del mayordomo deshonesto'': {{lib|Lc|16|1-2}}. </ref>
+<ref name="n24">''Parábola del mayordomo astuto'': {{lib|Lc|16|1-2}}. </ref>
 <ref name="n25">''Cuidarse de uno mismo'': {{lib|Lc|16|3-8a}}. </ref>
 <ref name="n26">''Haced espiritualmente lo que los hijos de este mundo hacen con las riquezas'': {{lib|Lc|16|8b-9}}. </ref>
 <ref name="n27">''Fieles en lo pequeño, también en lo grande'': {{lib|Mt|13|12}}; {{lib|Mt|25|21,23,29}}; {{lib|Mc|4|25}}; {{lib|Lc|8|18}}; {{lib|Lc|16|10}}; {{lib|Lc|19|16-19,26}}. </ref>

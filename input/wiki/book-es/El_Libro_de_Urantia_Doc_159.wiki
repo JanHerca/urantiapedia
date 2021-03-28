@@ -153,8 +153,8 @@
 <ref name="n2">''La autoridad secular'': {{lib|Mt|18|18}}. </ref>
 <ref name="n3">''Obtención de las peticiones si hay acuerdo'': {{lib|Mt|18|19-20}}. </ref>
 <ref name="n4">''Perdonar setenta veces más siete'': {{lib|Mt|18|21-22}}; {{lib|Lc|17|3-4}}. </ref>
-<ref name="n5">''Parábola del deudor'': {{lib|Mt|18|23-27}}. </ref>
-<ref name="n6">''Parábola del deudor (continuación)'': {{lib|Mt|18|28-34}}. </ref>
+<ref name="n5">''Parábola del siervo despiadado'': {{lib|Mt|18|23-27}}. </ref>
+<ref name="n6">''Parábola del siervo despiadado (continuación)'': {{lib|Mt|18|28-34}}. </ref>
 <ref name="n7">''Dios es misericordioso con los que tienen misericordia'': {{lib|Mt|5|7}}; {{lib|Mt|6|14-15}}; {{lib|Mt|18|35}}; {{lib|Lc|6|36}}. </ref>
 <ref name="n8">''Habéis recibido generosamente cosas buenas, dad pues con generosidad'': {{lib|Mt|10|8b}}. </ref>
 <ref name="n9">''Setenta y siete veces'': {{lib|Gn|4|24}}. </ref>

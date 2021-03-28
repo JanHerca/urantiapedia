@@ -1030,7 +1030,7 @@ Evangelio_de_Lucas	15:23-24	#	169:1.10/#	La celebración	S	#
 Evangelio_de_Lucas	15:25-27	#	169:1.11/#	El hermano mayor escucha el alboroto	S	#
 Evangelio_de_Lucas	15:28-30	#	169:1.12/#	Las objecciones del hermano	S	#
 Evangelio_de_Lucas	15:31-32	#	169:1.13/#	El regocijo del Padre	S	#
-Evangelio_de_Lucas	16:1-2	#	169:2.3/#	Parábola del mayordomo deshonesto	S	#
+Evangelio_de_Lucas	16:1-2	#	169:2.3/#	Parábola del mayordomo astuto	S	#
 Evangelio_de_Lucas	16:3-8a	#	169:2.4/#	Cuidarse de uno mismo	S	#
 Evangelio_de_Lucas	16:8	#	181:1.2/#	Hijos de la luz	C	#
 Evangelio_de_Lucas	16:8	#	120:2.2/#	«Hijos de la luz»	C	#

@@ -171,9 +171,9 @@
 <ref name="n22">''Con Dios, nada es imposible'': {{lib|Gn|18|14}}; {{lib|Jer|32|27}}; {{lib|Mt|19|26}}; {{lib|Mc|10|27}}; {{lib|Mc|14|36}}; {{lib|Lc|1|37}}; {{lib|Lc|18|27}}. </ref>
 <ref name="n23">''Recompensa por el servicio'': {{lib|Mt|19|27-29}}; {{lib|Mc|10|28-30}}; {{lib|Lc|18|28-30}}. </ref>
 <ref name="n24">''Muchos que son los primeros serán los últimos'': {{lib|Mt|19|30}}; {{lib|Mt|20|16}}; {{lib|Mc|9|35}}; {{lib|Mc|10|31}}; {{lib|Lc|13|30}}. </ref>
-<ref name="n25">''Parábola del propietario'': {{lib|Mt|20|1-7}}. </ref>
-<ref name="n26">''Parábola del propietario (cont.)'': {{lib|Mt|20|8-12}}. </ref>
-<ref name="n27">''Parable of householder (cont.)'': {{lib|Mt|20|13-15}}. </ref>
+<ref name="n25">''Parábola de los trabajadores de la viña'': {{lib|Mt|20|1-7}}. </ref>
+<ref name="n26">''Parábola de los trabajadores de la viña (cont.)'': {{lib|Mt|20|8-12}}. </ref>
+<ref name="n27">''Parábola de los trabajadores de la viña (cont.)'': {{lib|Mt|20|13-15}}. </ref>
 <ref name="n28">''Ama a Dios con todo tu corazón'': {{lib|Dt|6|4-5}}; {{lib|Dt|10|12}}; {{lib|Dt|11|1,13,22}}; {{lib|Dt|13|3}}; {{lib|Dt|19|9}}; {{lib|Dt|30|6,16,20}}; {{lib|Mt|22|37}}; {{lib|Mc|12|30}}; {{lib|Lc|10|27}}; {{lib|Ro|8|28}}; {{lib|Jos|22|5}}; {{lib|Jos|23|11}}. </ref>
 <ref name="n29">''Ama a tu prójimo como a ti mismo'': {{lib|Lv|19|18,34}}; {{lib|Mt|5|43-44}}; {{lib|Mt|19|19b}}; {{lib|Mt|22|39}}; {{lib|Mc|12|31,33}}; {{lib|Lc|10|27}}; {{lib|Ro|13|9b}}; {{lib|Gl|5|14}}; {{lib|Stg|2|8}}. </ref>
 <ref name="n30">''Aquí estoy, envíame'': {{lib|Is|6|8}}. </ref>
