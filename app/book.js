@@ -466,6 +466,8 @@ class Book {
 		return content
 			.replace(/(\\\"u)/g, 'ü')
 			.replace(/(---)/g, '—')
+			.replace(/`/g, '‘')
+			.replace(/'/g, '’')
 			.replace('\\bigbreak', '<br/>')
 			.replace(/{\\textdegree}/g, '&deg;')
 			.replace(/{\\textordmasculine}/g, 'º')
