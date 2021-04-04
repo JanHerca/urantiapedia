@@ -3,11 +3,13 @@ const Book = require('./book');
 const Bible = require('./bible');
 const BibleRef = require('./bibleref');
 const TopicIndex = require('./topicindex');
+const Articles = require('./articles');
 
 const book = new Book();
 const bible = new Bible();
 const bibleref = new BibleRef();
 const topicindex = new TopicIndex();
+const articles = new Articles();
 const controlIDs = [
 	'dirTButton', 'dirTTextbox',
 	'dirLButton', 'dirLTextbox', 
@@ -32,6 +34,11 @@ const onLoad = () => {
 	controls.exeButton.addEventListener('click', handle_exeButtonClick);
 	controls.collapseButton.addEventListener('click', handle_collapseButtonClick);
 	controls.drpTopics.addEventListener('change', handle_drpTopicsChange);
+	book.onProgressFn = onProgress;
+	bible.onProgressFn = onProgress;
+	bibleref.onProgressFn = onProgress;
+	topicindex.onProgressFn = onProgress;
+	articles.onProgressFn = onProgress;
 	showCategoriesList();
 };
 
@@ -59,7 +66,7 @@ const handle_collapseButtonClick = () => {
 
 const handle_exeButtonClick = () => {
 	showProgress(true);
-	book.onProgressFn = onProgress;
+	
 	const process = controls.drpProcess.value;
 	const okMsgs = ['Conversión realizada con éxito'];
 	const latexDir = controls.dirLTextbox.value;
@@ -175,6 +182,12 @@ const handle_exeButtonClick = () => {
 		// Leemos TopicIndex (*.txt) => volvemos a escribir igual
 		// pero modificando la primera línea de cada entrada
 		topicindex.normalize(txtDir)
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'ctw' && checkControls(['dirTTextbox', 'dirWTextbox'])) {
+		// Leemos carpeta con TXT => escribimos (*.wiki)
+		articles.readFromTXT(txtDir)
+			.then(() => articles.writeToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	}

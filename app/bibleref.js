@@ -11,6 +11,7 @@ const path = require('path');
 
 class BibleRef {
 	biblebooks = [];
+	onProgressFn = null;
 
 	//***********************************************************************
 	// TXT

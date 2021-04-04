@@ -50,6 +50,7 @@ class TopicIndex {
 	 * ];
 	 */
 	topics = [];
+	onProgressFn = null;
 
 	//***********************************************************************
 	// TXT
@@ -658,7 +659,7 @@ class TopicIndex {
 	/**
 	 * Convierte una referencia a formato Wiki.
 	 * @param {string} ref Referencia.
-	 * @param {number} i Indice ed la referencia.
+	 * @param {number} i Indice de la referencia.
 	 * @return {string}
 	 */
 	refToWiki = (ref, i) => {

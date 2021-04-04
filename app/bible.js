@@ -11,6 +11,7 @@ const path = require('path');
 
 class Bible {
 	biblebooks = [];
+	onProgressFn = null;
 
 	//***********************************************************************
 	// LaTeX
