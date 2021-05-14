@@ -11,6 +11,7 @@ const bibleref = new BibleRef();
 const topicindex = new TopicIndex();
 const articles = new Articles();
 const controlIDs = [
+	'dirHButton', 'dirHTextbox',
 	'dirTButton', 'dirTTextbox',
 	'dirLButton', 'dirLTextbox', 
 	'dirJButton', 'dirJTextbox', 
@@ -20,9 +21,33 @@ const controlIDs = [
 	'drpTopics', 'drpCategories'];
 const controls = {};
 let collapsed = false;
+const processControls = {
+	all: ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 'dirJTextbox', 'dirWTextbox',
+		'chkMerge', 'drpCategories', 'drpTopics'],
+	ttt: ['dirJTextbox', 'dirTTextbox'],
+	chj: ['dirHTextbox', 'dirJTextbox'],
+	clj: ['dirLTextbox', 'dirJTextbox'],
+	clw: ['dirLTextbox', 'dirTTextbox', 'dirWTextbox', 'drpCategories'],
+	clx: ['dirLTextbox', 'dirWTextbox', 'chkMerge'],
+	cjl: ['dirJTextbox', 'dirLTextbox'],
+	cjw: ['dirJTextbox', 'dirTTextbox', 'dirWTextbox', 'drpCategories'],
+	cjx: ['dirJTextbox', 'dirWTextbox'],
+	cijw: ['dirJTextbox', 'dirWTextbox'],
+	cblw: ['dirTTextbox', 'dirLTextbox', 'dirWTextbox'],
+	cbi: ['dirLTextbox', 'dirWTextbox'],
+	cblx: ['dirLTextbox', 'dirWTextbox', 'chkMerge'],
+	ctiw: ['dirTTextbox', 'dirWTextbox', 'drpCategories'],
+	citw: ['dirTTextbox', 'dirWTextbox', 'drpCategories'],
+	rti: ['dirTTextbox', 'dirJTextbox', 'drpCategories', 'drpTopics'],
+	sti: ['dirTTextbox'],
+	nti: ['dirTTextbox'],
+	ctw: ['dirTTextbox', 'dirWTextbox']
+};
 
 const onLoad = () => {
 	controlIDs.forEach(id => controls[id] = document.querySelector('#' + id));
+	controls.dirHButton.addEventListener('click', 
+		handle_dirButtonClick.bind(this, controls.dirHTextbox));
 	controls.dirTButton.addEventListener('click', 
 		handle_dirButtonClick.bind(this, controls.dirTTextbox));
 	controls.dirLButton.addEventListener('click', 
@@ -33,6 +58,7 @@ const onLoad = () => {
 		handle_dirButtonClick.bind(this, controls.dirWTextbox));
 	controls.exeButton.addEventListener('click', handle_exeButtonClick);
 	controls.collapseButton.addEventListener('click', handle_collapseButtonClick);
+	controls.drpProcess.addEventListener('change', handle_drpProcessChange);
 	controls.drpTopics.addEventListener('change', handle_drpTopicsChange);
 	book.onProgressFn = onProgress;
 	bible.onProgressFn = onProgress;
@@ -40,6 +66,7 @@ const onLoad = () => {
 	topicindex.onProgressFn = onProgress;
 	articles.onProgressFn = onProgress;
 	showCategoriesList();
+	handle_drpProcessChange();
 };
 
 const handle_dirButtonClick = (textbox) => {
@@ -56,11 +83,16 @@ const handle_dirButtonClick = (textbox) => {
 
 const handle_collapseButtonClick = () => {
 	collapsed = !collapsed;
-	document.querySelectorAll('form > div').forEach((e, i, ar) => {
-		if (i < ar.length - 2) {
-			if (collapsed) e.classList.add('d-none');
-			else e.classList.remove('d-none');
-		}
+	handle_drpProcessChange();
+};
+
+const handle_drpProcessChange = (evt) => {
+	const process = controls.drpProcess.value;
+	const cnames = processControls[process];
+	processControls.all.forEach(c => {
+		const hide = (collapsed || cnames.indexOf(c) === -1);
+		controls[c].parentNode.parentNode.parentNode.classList.toggle('d-none',
+			hide);
 	});
 };
 
@@ -69,26 +101,39 @@ const handle_exeButtonClick = () => {
 	
 	const process = controls.drpProcess.value;
 	const okMsgs = ['Conversión realizada con éxito'];
+	const htmlDir = controls.dirHTextbox.value;
 	const latexDir = controls.dirLTextbox.value;
 	const jsonDir = controls.dirJTextbox.value;
 	const txtDir = controls.dirTTextbox.value;
 	const wikiDir = controls.dirWTextbox.value;
 	const category = controls.drpCategories.value;
+	const merge = controls.chkMerge.checked;
+	const ctrls = processControls[process];
 
-	if (process ==='ttt' && checkControls(['dirJTextbox', 'dirTTextbox'])) {
-		// Leemos LU (*.json) + Referencias Biblia (*.txt) => escribimos traducción (*.txt)
+	if (!checkControls(ctrls)) {
+		return;
+	}
+
+	if (process ==='ttt') {
+		// Leemos LU (*.json) + Refs Biblia (*.txt) => escribimos traducción (*.txt)
 		book.readFromJSON(jsonDir)
 			.then(() => bibleref.readFromTXT(txtDir))
 			.then(() => bibleref.translate(txtDir, book))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'clj' && checkControls(['dirLTextbox', 'dirJTextbox'])) {
+	} else if (process === 'chj') {
+		// Leemos LU (*.html) => escribimos (*.json)
+		book.readFromHTML(htmlDir)
+			.then(() => book.writeToJSON(jsonDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'clj') {
 		// Leemos LU (*.tex) => escribimos (*.json)
 		book.readFromLaTeX(latexDir)
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'clw' && checkControls(['dirLTextbox', 'dirTTextbox', 'dirWTextbox'])) {
+	} else if (process === 'clw') {
 		// Leemos LU (*.tex) + Topic Index (*.txt) => escribimos (*.wiki)
 		book.readFromLaTeX(latexDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
@@ -96,19 +141,19 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeWarnings(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} /*else if (process === 'clx' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
+	} else if (process === 'clx') {
 		// Leemos LU (*.tex) => escribimos Wiki (*.xml)
-		book.readFromLaTeX(latexDir)
-			.then(() => book.writeToWikiXML(wikiDir, controls.chkMerge.checked))
-			.then(() => onSuccess(okMsgs))
-			.catch(onFail);
-	}*/ else if (process === 'cjl' && checkControls(['dirJTextbox', 'dirLTextbox'])) {
+		// book.readFromLaTeX(latexDir)
+		// 	.then(() => book.writeToWikiXML(wikiDir, merge))
+		// 	.then(() => onSuccess(okMsgs))
+		// 	.catch(onFail);
+	} else if (process === 'cjl') {
 		// Leemos LU (*.json) => escribimos (*.tex) 
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeToLaTeX(latexDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cjw' && checkControls(['dirJTextbox', 'dirTTextbox', 'dirWTextbox'])) {
+	} else if (process === 'cjw') {
 		// Leemos LU (*.json) + Topic Index (*.txt) => escribimos (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
@@ -116,50 +161,50 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeWarnings(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} /*else if (process === 'cjx' && checkControls(['dirJTextbox', 'dirWTextbox'])) {
+	} else if (process === 'cjx') {
 		// Leemos LU (*.json) => escribimos Wiki (*.xml)
-		book.readFromJSON(jsonDir)
-			.then(() => book.writeToWikiXML(wikiDir))
-			.then(() => onSuccess(okMsgs))
-			.catch(onFail);
-	}*/ else if (process === 'cijw' && checkControls(['dirJTextbox', 'dirWTextbox'])) {
+		// book.readFromJSON(jsonDir)
+		// 	.then(() => book.writeToWikiXML(wikiDir))
+		// 	.then(() => onSuccess(okMsgs))
+		// 	.catch(onFail);
+	} else if (process === 'cijw') {
 		//Leemos LU (*.json) => escribimos Indices (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeIndexToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cblw' && checkControls(['dirTTextbox', 'dirLTextbox', 'dirWTextbox'])) {
-		// Leemos Referencias Biblia (*.txt) + leemos Biblia (*.tex) => escribimos (*.wiki)
+	} else if (process === 'cblw') {
+		// Leemos Refs Biblia (*.txt) + leemos Biblia (*.tex) => escribimos (*.wiki)
 		bibleref.readFromTXT(txtDir)
 			.then(() => bible.readFromLaTeX(latexDir))
 			.then(() => bible.writeToWiki(wikiDir, bibleref))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cbi' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
+	} else if (process === 'cbi') {
 		// Leemos Biblia (*.tex) => escribimos índice (*.wiki)
 		bible.readFromLaTeX(latexDir)
 			.then(() => bible.writeIndexToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} /*else if (process === 'cblx' && checkControls(['dirLTextbox', 'dirWTextbox'])) {
+	} else if (process === 'cblx') {
 		// Leemos Biblia (*.tex) => escribimos Wiki (*.xml)
-		bible.readFromLaTeX(latexDir)
-			.then(() => bible.writeToWikiXML(wikiDir, controls.chkMerge.checked))
-			.then(() => onSuccess(okMsgs))
-			.catch(onFail);
-	}*/ else if (process === 'ctiw' && checkControls(['dirTTextbox', 'dirWTextbox'])) {
+		// bible.readFromLaTeX(latexDir)
+		// 	.then(() => bible.writeToWikiXML(wikiDir, merge))
+		// 	.then(() => onSuccess(okMsgs))
+		// 	.catch(onFail);
+	} else if (process === 'ctiw') {
 		// Leemos TopicIndex (*.txt) => escribimos en (*.wiki)
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => topicindex.writeToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'citw' && checkControls(['dirTTextbox', 'dirWTextbox'])) {
+	} else if (process === 'citw') {
 		// Leemos Indice de TopicIndex (*.txt) => escribimos (*.wiki)
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => topicindex.writeIndexToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'rti' && checkControls(['dirTTextbox', 'dirJTextbox'])) {
+	} else if (process === 'rti') {
 		// Leemos TopicIndex (*.txt) => luego leemos LU (*.json)
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => book.readFromJSON(jsonDir))
@@ -170,7 +215,7 @@ const handle_exeButtonClick = () => {
 				onSuccess(okMsgs);
 				showTopic(topicindex.topics[0].name);
 			}).catch(onFail);
-	} else if (process === 'sti' && checkControls(['dirTTextbox'])) {
+	} else if (process === 'sti') {
 		// Leemos TopicIndex (*.txt) => luego sacamos un resumen
 		topicindex.readFromTXT(txtDir, 'TODOS')
 			.then(() => {
@@ -178,13 +223,13 @@ const handle_exeButtonClick = () => {
 				onSuccess(okMsgs);
 				showTopicSummary(summary);
 			}).catch(onFail);
-	} else if (process === 'nti' && checkControls(['dirTTextbox'])) {
+	} else if (process === 'nti') {
 		// Leemos TopicIndex (*.txt) => volvemos a escribir igual
 		// pero modificando la primera línea de cada entrada
 		topicindex.normalize(txtDir)
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'ctw' && checkControls(['dirTTextbox', 'dirWTextbox'])) {
+	} else if (process === 'ctw') {
 		// Leemos carpeta con TXT => escribimos (*.wiki)
 		articles.readFromTXT(txtDir)
 			.then(() => articles.writeToWiki(wikiDir))

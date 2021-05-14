@@ -12,6 +12,51 @@
 	<body>
 		<form class="needs-validation p-2" novalidate="true">
 			<div class="form-group row p-0 mb-0">
+				<label class="col-sm-2 col-form-label-sm">Proceso:</label>
+				<div class="col-sm-10">
+					<div class="input-group">
+						<select id="drpProcess" class="custom-select custom-select-sm">
+							<option value="ttt">Traducir Refs Biblia (TXT) + LU (JSON) a TXT</option>
+							<option value="chj">Convertir Libro de Urantia (HTML) a JSON</option>
+							<option value="clj">Convertir Libro de Urantia (LaTeX) a JSON</option>
+							<option value="clw">Convertir Libro de Urantia (LaTeX) + TopicIndex (TXT) a Wiki</option>
+							<!--<option value="clx">Convertir Libro de Urantia - LaTeX a WikiXML</option>-->
+							<option value="cjl">Convertir Libro de Urantia (JSON) a LaTeX</option>
+							<option value="cjw">Convertir Libro de Urantia (JSON) + TopicIndex (TXT) a Wiki</option>
+							<!--<option value="cjx">Convertir Libro de Urantia - JSON a WikiXML</option>-->
+							<option value="cijw">Convertir Indice de Libro de Urantia (JSON) a Wiki</option>
+							<option value="cblw">Convertir Biblia (LaTeX) + Refs (TXT) a Wiki</option>
+							<option value="cbi"> Convertir Biblia (LaTeX) a índice Wiki</option>
+							<!--<option value="cblx">Convertir Biblia - LaTeX a WikiXML</option>-->
+							<option value="ctiw">Convertir TopicIndex (TXT) a Wiki</option>
+							<option value="citw">Convertir Indice de TopicIndex (TXT) a Wiki</option>
+							<option value="rti">Revisar TopicIndex (TXT) + JSON (LU)</option>
+							<option value="sti">Resumen actual del Topic Index (TXT)</option>
+							<option value="nti">Normalizar entradas TopicIndex (TXT) a TXT</option>
+							<option value="ctw">Convertir Artículos (TXT) a Wiki</option>
+						</select>
+						<div class="input-group-append">
+							<button id="exeButton" class="btn btn-sm btn-dark" 
+								type="button">Ejecutar</button>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="form-group row p-0 mb-0">
+				<label class="col-sm-2 col-form-label-sm">Ficheros HTML:</label>
+				<div class="col-sm-10">
+					<div class="input-group">
+						<input id="dirHTextbox" class="form-control form-control-sm" 
+							type="text" placeholder="Selecciona la ruta" 
+							readonly="readonly"/>
+						<div class="input-group-append">
+							<button id="dirHButton" class="btn btn-sm btn-dark" 
+								type="button">Seleccionar</button>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="form-group row p-0 mb-0">
 				<label class="col-sm-2 col-form-label-sm">Ficheros TXT:</label>
 				<div class="col-sm-10">
 					<div class="input-group">
@@ -79,15 +124,6 @@
 				</div>
 			</div>
 			<div class="form-group row p-0 mb-0">
-				<label class="col-sm-2 col-form-label-sm">Término</label>
-				<div class="col-sm-10">
-					<div class="input-group">
-						<select id="drpTopics" class="custom-select custom-select-sm">
-						</select>
-					</div>
-				</div>
-			</div>
-			<div class="form-group row p-0 mb-0">
 				<label class="col-sm-3 col-form-label-sm">Categorías de términos</label>
 				<div class="col-sm-9">
 					<div class="input-group">
@@ -97,32 +133,11 @@
 				</div>
 			</div>
 			<div class="form-group row p-0 mb-0">
-				<label class="col-sm-2 col-form-label-sm">Proceso:</label>
+				<label class="col-sm-2 col-form-label-sm">Término</label>
 				<div class="col-sm-10">
 					<div class="input-group">
-						<select id="drpProcess" class="custom-select custom-select-sm">
-							<option value="ttt">Traducir Referencias Biblia (TXT) + LaTeX a TXT</option>
-							<option value="clj">Convertir Libro de Urantia (LaTeX) a JSON</option>
-							<option value="clw">Convertir Libro de Urantia (LaTeX) + TopicIndex (TXT) a Wiki</option>
-							<!--<option value="clx">Convertir Libro de Urantia - LaTeX a WikiXML</option>-->
-							<option value="cjl">Convertir Libro de Urantia (JSON) a LaTeX</option>
-							<option value="cjw">Convertir Libro de Urantia (JSON) + TopicIndex (TXT) a Wiki</option>
-							<!--<option value="cjx">Convertir Libro de Urantia - JSON a WikiXML</option>-->
-							<option value="cijw">Convertir Indice de Libro de Urantia (JSON) a Wiki</option>
-							<option value="cblw">Convertir Biblia (LaTeX) + Refs (TXT) a Wiki</option>
-							<option value="cbi"> Convertir Biblia (LaTeX) a índice Wiki</option>
-							<!--<option value="cblx">Convertir Biblia - LaTeX a WikiXML</option>-->
-							<option value="ctiw">Convertir TopicIndex (TXT) a Wiki</option>
-							<option value="citw">Convertir Indice de TopicIndex (TXT) a Wiki</option>
-							<option value="rti">Revisar TopicIndex (TXT) + JSON (LU)</option>
-							<option value="sti">Resumen actual del Topic Index (TXT)</option>
-							<option value="nti">Normalizar entradas TopicIndex (TXT) a TXT</option>
-							<option value="ctw">Convertir Artículos (TXT) a Wiki</option>
+						<select id="drpTopics" class="custom-select custom-select-sm">
 						</select>
-						<div class="input-group-append">
-							<button id="exeButton" class="btn btn-sm btn-dark" 
-								type="button">Ejecutar</button>
-						</div>
 					</div>
 				</div>
 			</div>
