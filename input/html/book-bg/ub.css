@@ -1,0 +1,42 @@
+﻿:root { --xl: 72px; --lg: 36px; --md: 27px; --mmd: -27px; --sm: 18px; --xs: 9px; --no: 0; --si: 120px; --di: 147px; --mdi: -147px; --ti: 174px; }
+body { font-family: "Times New Roman", Times, serif; }
+p { font-size: var(--sm); margin: var(--no); line-height: 1.6; }
+h1 { font-size: var(--lg); padding-bottom: var(--lg); text-align: center; font-weight: bold; }
+h2 { font-size: var(--md); padding: var(--sm) var(--no); text-align: center; font-weight: bold; }
+hr { width: 100%; color: #777; }
+img { display: block; margin-left: auto; margin-right: auto; }
+small { display: inline-block; font-size: 80%; color: #777; width: var(--si); }
+table { border: none; width: 100%; }
+th { font-weight: bold; text-align: left; vertical-align: top; }
+td { vertical-align: top; }
+th:first-child, td:first-child { width: var(--xl); text-align: left; }
+th:last-child, td:last-child { text-align: right; }
+div.container { display: block; margin-left: auto; margin-right: auto; width: 92%; }
+.title , .paper { font-size: var(--lg); text-align: center; font-weight: bold; }
+.tl { margin-top: var(--lg); }
+.ctr { text-align: center; }
+.btn { padding-bottom: var(--no); }
+.bts { padding-bottom: var(--sm); }
+.btl { padding-bottom: var(--md); }
+.fln { padding: var(--no); text-align: center; }
+.fln > small { float: left; text-align: left; }
+.fll { padding: var(--md) var(--no); text-align: center; }
+.fll > small { float: left; text-align: left; }
+.l2n { padding-bottom: var(--no); }
+.l2n > small { width: var(--di); }
+.l2s { margin-bottom: var(--sm); }
+.l2s > small { width: var(--di); }
+.l3n { margin-bottom: var(--no); }
+.l3n > small { width: var(--ti); }
+.l3s { margin-bottom: var(--sm); }
+.l3s > small { width: var(--ti); }
+.bhi { margin-bottom: var(--no); text-indent: var(--mdi); padding-left: var(--ti); }
+.bhi > small { text-indent: var(--mmd); }
+td.tl1 { width: 92%; padding: var(--xs) var(--no); }
+td.tl2 { padding-left: var(--lg); }
+td.tl3 { padding-left: var(--xl); }
+.note { font-size: 80%; color: #777; }
+.scaps { font-variant: small-caps; }
+@media only screen and (min-width: 768px) { div.container { width: 96%; }} 
+@media only screen and (min-width: 992px) { div.container { width: 86%; }} 
+@media only screen and (min-width: 1200px) { div.container { width: 66%; }}

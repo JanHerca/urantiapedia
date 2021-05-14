@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="150" height="150">
+<style type="text/css">circle{stroke:#1295d8;fill:#ffffff;stroke-width:10px;}text{font:normal 600 18px 'Times New Roman', Times, serif;fill:#1295d8;}</style>
+<g><circle cx="75" cy="75" r="60" /><circle cx="75" cy="75" r="40" /><circle cx="75" cy="75" r="20" /></g>
+<text x="132" y="142">&#174;</text>
+</svg>

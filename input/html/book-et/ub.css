@@ -1,0 +1,47 @@
+﻿body { font-family: "Times New Roman", Times, serif; }
+p { font-size: 1em; margin: 0; line-height: 1.6em; text-align: left; }
+h1, h2, .title, .paper { text-align: center; font-weight: bold; }
+h1, .paper { font-size: 2em; }
+h1 { padding-bottom: 0.5em; }
+h2 { font-size: 1.5em; padding: 1em 0; }
+hr { width: 100%; color: #777; }
+img { margin-left: auto; margin-right: auto; }
+small { display: inline-block; font-size: 0.7em; color: #777; width: 9em; }
+div.container { display: block; margin-left: auto; margin-right: auto; }
+.title { font-size: 1.5em; padding-bottom: 0.5em; }
+.fmtitle { font-size: 2.5em; font-weight: 600; }
+.fmlogo { width: 7em; height: 7em; }
+.fmico { display: inline-block; width:16px; height:16px; }
+.tm { color: #1295d8; font-weight: 600; }
+.tl { margin-top: 2em; }
+.ctr { text-align: center; }
+.btn { padding-bottom: 0; }
+.bts { padding-bottom: 1em; }
+.btl { padding-bottom: 1.5em; }
+.fln { padding: 0; text-align: center; }
+.fln > small { float: left; text-align: left; }
+.fll { padding: 1.5em 0; text-align: center; }
+.fll > small { float: left; text-align: left; }
+.l2n { padding-bottom: 0; }
+.l2n > small { width: 9em; }
+.l2s { margin-bottom: 1em; }
+.l2s > small { width: 9em; }
+.l3n { margin-bottom: 0; }
+.l3n > small { width: 11em; }
+.l3s { margin-bottom: 1em; }
+.l3s > small { width: 11em; }
+.bhi { margin-bottom: 0; text-indent: -9em; padding-left: 11em; }
+.bhi > small { text-indent: -3em; }
+.note { font-size: 0.7em; color: #777; }
+.scaps { font-variant: small-caps; }
+.pti { text-indent: 1em; }
+.pnr { display: inline-block; width: 2.5em; }
+.ptc { display: inline-block; width: 45%; }
+.pac { display: inline; }
+.ppg { float: right; }
+.phd { margin-left: 0; }
+.psc { margin-left: 2em; }
+@media only screen and (max-width: 767px) { .ppg { display: none; }}
+@media only screen and (min-width: 768px) { div.container { width: 96%; }} 
+@media only screen and (min-width: 992px) { div.container { width: 86%; }} 
+@media only screen and (min-width: 1200px) { div.container { width: 66%; }}
