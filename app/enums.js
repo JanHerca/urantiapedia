@@ -10,7 +10,26 @@ exports.LaTeXSeparator = {
 	PAGEREF_END: ')}',
 	END: '}',
 	BIGBREAK: '\\bigbreak'
-}
+};
+
+exports.HTMLSeparator = {
+	SMALL_START: '<small>',
+	SMALL_END: '</small>',
+	SUPER_START: '<sup>',
+	SUPER_END: '</sup>',
+	ITALIC_START: '<em>',
+	ITALIC_END: '</em>',
+	SPAN_START: '<span>',
+	SPAN_END: '</span>',
+	SMALLCAPS_START: '<span class="scaps">',
+	SMALLCAPS_END: '</span>',
+	RIGHT_START: '<span style="float: right;">',
+	RIGHT_END: '</span>',
+	UNDERLINE_START: '<span class="UL">',
+	UNDERLINE_END: '</span>',
+	UNDERLINE2_START: '<span class="font3">',
+	UNDERLINE2_END: '</span>'
+};
 
 //TODO: Libros que nos faltan:
 // Macabeos I y II, Eclesiástico, Sabiduría, Historia de Bel y el Dragón,

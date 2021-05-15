@@ -1,12 +1,13 @@
 //Reader/Writer para `El Libro de Urantia` en diferentes formatos (HTML/LaTeX/JSON/Wiki)
 
 const LSep = require('./enums').LaTeXSeparator;
+const HSep = require('./enums').HTMLSeparator;
 const BibleAbb = require('./enums').BibleAbb;
 const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
 const replaceTags = require('./utils').replaceTags;
-const removeTags = require('./utils').removeTags;
+const removeHTMLTags = require('./utils').removeHTMLTags;
 const readFrom = require('./utils').readFrom;
 const replaceWords = require('./utils').replaceWords;
 const fs = require('fs');
@@ -280,6 +281,54 @@ class Book {
 		return section.pars[parIndex - 1];
 	};
 
+	/**
+	 * Devuelve un texto en formato LaTeX reemplazando caracteres especiales por
+	 * los mismos caracteres pero para que se vean bien en formato Wiki.
+	 * @param {string} content Contenido.
+	 * @returns {string}
+	 */
+	replaceSpecialChars = (content) => {
+		return content
+			.replace(/(\\\"u)/g, 'ü')
+			.replace(/(---)/g, '—')
+			.replace(/`/g, '‘')
+			.replace(/'/g, '’')
+			.replace(/\\bigbreak/g, '<br/>')
+			.replace(/{\\textdegree}/g, '&deg;')
+			.replace(/{\\textordmasculine}/g, 'º')
+			.replace(/{\\textordfeminine}/g, 'ª')
+			.replace(/\\textsuperscript\{27\}/g, '<sup>27</sup>')
+			.replace(/\\textsuperscript\{3\}/g, '<sup>3</sup>')
+			.replace(/{\\textonequarter}/g, '&frac14;');
+	};
+	
+	/**
+	 * Devuelve un texto en cualquier formato que no sea LaTeX reemplazando 
+	 * caracteres especiales por los mismos caracteres pero para que se vea
+	 * bien en formato LaTeX.
+	 * @param {string} content Contenido.
+	 * @returns {string}
+	 */
+	replaceInverseSpecialChars = (content) => {
+		return content
+			.replace(/(ü)/g, '\\\"u')
+			.replace(/(—)/g, '---')
+			.replace(/<br\/>/g, '\\bigbreak')
+			.replace(/&deg;/g, '{\\textdegree}')
+			.replace(/º/g, '{\\textordmasculine}')
+			.replace(/ª/g, '{\\textordfeminine}')
+			.replace(/<sup>27<\/sup>/g, '\\textsuperscript{27}')
+			.replace(/<sup>3<\/sup>/g, '\\textsuperscript{3}')
+			.replace(/&frac14;/g, '{\\textonequarter}');
+	};
+
+	/**
+	 * Limpia cualquier contenido leído.
+	 */
+	clear = () => {
+		this.papers = [];
+	};
+
 	//***********************************************************************
 	// LaTeX
 	//***********************************************************************
@@ -292,13 +341,6 @@ class Book {
 	 */
 	readFromLaTeX = (dirPath) => {
 		return readFrom(dirPath, '.tex', this.clear, this.readFileFromLaTeX, this);
-	};
-
-	/**
-	 * Limpia cualquier contenido leído.
-	 */
-	clear = () => {
-		this.papers = [];
 	};
 
 	/**
@@ -502,46 +544,6 @@ class Book {
 	};
 
 	/**
-	 * Devuelve un texto en formato LaTeX reemplazando caracteres especiales por
-	 * los mismos caracteres pero para que se vean bien en formato Wiki.
-	 * @param {string} content Contenido.
-	 * @returns {string}
-	 */
-	replaceSpecialChars = (content) => {
-		return content
-			.replace(/(\\\"u)/g, 'ü')
-			.replace(/(---)/g, '—')
-			.replace(/`/g, '‘')
-			.replace(/'/g, '’')
-			.replace('\\bigbreak', '<br/>')
-			.replace(/{\\textdegree}/g, '&deg;')
-			.replace(/{\\textordmasculine}/g, 'º')
-			.replace(/{\\textordfeminine}/g, 'ª')
-			.replace(/\\textsuperscript\{27\}/g, '<sup>27</sup>')
-			.replace(/\\textsuperscript\{3\}/g, '<sup>3</sup>')
-			.replace(/{\\textonequarter}/g, '&frac14;');
-	};
-
-	/**
-	 * Devuelve un texto en cualquier formato que no sea LaTeX reemplazando 
-	 * caracteres especiales.
-	 * @param {string} content Contenido.
-	 * @returns {string}
-	 */
-	replaceInverseSpecialChars = (content) => {
-		return content
-			.replace(/(ü)/g, '\\\"u')
-			.replace(/(—)/g, '---')
-			.replace('<br/>', '\\bigbreak')
-			.replace(/&deg;/g, '{\\textdegree}')
-			.replace(/º/g, '{\\textordmasculine}')
-			.replace(/ª/g, '{\\textordfeminine}')
-			/*.replace(/<sup>27</sup>/g, '\\textsuperscript{27}')
-			.replace(/<sup>3</sup>/g, '\\textsuperscript{3}')
-			.replace(/&frac14;/g, '\\textonequarter')*/;
-	};
-
-	/**
 	 * Escribe `El Libro de Urantia` en formato LaTeX.
 	 * @param {string} dirPath Ruta de la carpeta.
 	 * @returns {Promise} Promesa que devuelve null en la función resolve o un 
@@ -597,8 +599,8 @@ class Book {
 						error = 'Un párafo no tiene referencia o contenido';
 						return;
 					}
-					pcontent = replaceTags(par.par_content, '*', '*', LSep.ITALIC_START,
-						LSep.END, replaceErr);
+					pcontent = replaceTags(par.par_content, '*', '*', 
+						LSep.ITALIC_START, LSep.END, replaceErr);
 					if (replaceErr.length > 0) {
 						error = replaceErr[0];
 						return;
@@ -743,7 +745,7 @@ class Book {
 	 * array de errores en la función reject.
 	 */
 	readFromHTML = (dirPath) => {
-		return readFrom(dirPath, '.html', this.clear, this.readFileFromHTML, this);
+		return readFrom(dirPath, '.html;.htm', this.clear, this.readFileFromHTML, this);
 	};
 
 	/**
@@ -760,6 +762,7 @@ class Book {
 			}
 			const fname = baseName.replace('.html', '');
 			const paperIndex = parseInt(fname.substring(fname.length - 3));
+			const names = ['small', 'em', 'span'];
 			//Ignoramos archivos HTML que no tengan número de documento
 			if (isNaN(paperIndex)) {
 				resolve(null);
@@ -784,8 +787,8 @@ class Book {
 						footnotes: [],
 						paper_title: paperTitle
 					};
-					let i = 0, p, s, removeErr, text;
-					let pId, secId, ref, sec;
+					let i = 0, p, s, removeErr, text, tags = [], msg, j = 0, n;
+					let pId, secId, ref, pref, sec;
 					//Añadimos la sección 0 si es que la hay
 					for (i = 0; i < pars.length; i++) {
 						p = pars[i];
@@ -821,23 +824,51 @@ class Book {
 							continue;
 						}
 						pId = p.attribs.id.replace('U', '').split('_');
-						ref = extractStr($(p).find('small').text(), '(', ')');
+						pref = extractStr($(p).find('small').text(), '(', ')');
+						ref = `${paperIndex}:${pId[1]}.${pId[2]}`;
 						sec = paper.sections.find(s => s.section_index === 
 							parseInt(pId[1]));
 						text = $(p).html();
 						removeErr = [];
-						text = removeTags(text, '<small>', '</small>', removeErr);
+						text = removeHTMLTags(text, HSep.SMALL_START, HSep.SMALL_END, 
+							true, removeErr);
+						text = replaceTags(text, HSep.ITALIC_START, 
+							HSep.ITALIC_END, '*', '*', removeErr);
+						text = replaceTags(text, HSep.SMALLCAPS_START, 
+							HSep.SMALLCAPS_END, '$', '$', removeErr);
+						text = replaceTags(text, HSep.UNDERLINE_START, 
+							HSep.UNDERLINE_END, '|', '|', removeErr);
+						text = replaceTags(text, HSep.UNDERLINE2_START, 
+							HSep.UNDERLINE2_END, '|', '|', removeErr);
+						text = replaceTags(text, HSep.RIGHT_START, HSep.RIGHT_END,
+							'', '', removeErr);
+						text = removeHTMLTags(text, HSep.SPAN_START, HSep.SPAN_END, 
+							false, removeErr);
 						if (removeErr.length > 0) {
 							extendArray(errors, removeErr.map(e =>
 								this.createError(baseName, -999, e)));
 						}
-						//TODO: Replace <em> and other tags with JSON versions
 						sec.pars.push({
-							par_ref: `${paperIndex}:${pId[1]}.${pId[2]}`,
-							par_pageref: ref,
+							par_ref: ref,
+							par_pageref: pref,
 							par_content: text.trim()
 						});
+						//Chequeo de si el párrafo contiene tags extrañas
+						//para luego incluirlas en un reformateo
+						for (j = 0; j < p.children.length; j++) {
+							n = p.children[j];
+							if (n.type === 'tag' && names.indexOf(n.name) === -1) {
+								msg = `${baseName} - ${ref} - Tag: ${n.name}`;
+								if (tags.indexOf(msg) === -1) {
+									tags.push(msg);
+								}
+							}
+						}
 					};
+
+					if (tags.length > 0) {
+						console.log(tags);
+					}
 
 					if (errors.length > 0) {
 						reject(errors);
@@ -1116,6 +1147,7 @@ class Book {
 				return;
 			}
 			let footnoteIndex = 0;
+			let replaceErr = [];
 
 			paper.sections.forEach(section => {
 				let ref, anchor, stitle;
@@ -1150,6 +1182,13 @@ class Book {
 					supref = `<sup><small>${par.par_ref}</small></sup>`;
 					panchor = `{{anchor|LU_${pref}}}`;
 					pcontent = par.par_content.replace(/\*/g, '\'\'');
+					replaceErr = [];
+					pcontent = replaceTags(pcontent, '$', '$', 
+						'<span style="font-variant: small-caps;">', '</span>',
+						replaceErr);
+					if (replaceErr.length > 0) {
+						error = replaceErr[0];
+					}
 					if (topicIndex) {
 						topics = topicIndex.topics.filter(topic => {
 							let contains = (topic.refs.find(r => 
