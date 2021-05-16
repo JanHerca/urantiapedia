@@ -45,6 +45,7 @@
         {
             "section_index": 1,
             "section_ref": "169:1",
+            "section_title": "1. Притчата за блудния син",
             "pars": [
                 {
                     "par_ref": "169:1.1",
@@ -131,6 +132,7 @@
         {
             "section_index": 2,
             "section_ref": "169:2",
+            "section_title": "2. Притчата за хитрия управител",
             "pars": [
                 {
                     "par_ref": "169:2.1",
@@ -177,6 +179,7 @@
         {
             "section_index": 3,
             "section_ref": "169:3",
+            "section_title": "3. Богаташът и беднякът",
             "pars": [
                 {
                     "par_ref": "169:3.1",
@@ -198,6 +201,7 @@
         {
             "section_index": 4,
             "section_ref": "169:4",
+            "section_title": "4. Отецът и неговото царство",
             "pars": [
                 {
                     "par_ref": "169:4.1",

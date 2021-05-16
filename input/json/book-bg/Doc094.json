@@ -15,6 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "94:1",
+            "section_title": "1. Салимските учения във ведическа Индия",
             "pars": [
                 {
                     "par_ref": "94:1.1",
@@ -56,6 +57,7 @@
         {
             "section_index": 2,
             "section_ref": "94:2",
+            "section_title": "2. Брахманизмът",
             "pars": [
                 {
                     "par_ref": "94:2.1",
@@ -102,6 +104,7 @@
         {
             "section_index": 3,
             "section_ref": "94:3",
+            "section_title": "3. Брахманската философия",
             "pars": [
                 {
                     "par_ref": "94:3.1",
@@ -148,6 +151,7 @@
         {
             "section_index": 4,
             "section_ref": "94:4",
+            "section_title": "4. Индуистката религия",
             "pars": [
                 {
                     "par_ref": "94:4.1",
@@ -204,6 +208,7 @@
         {
             "section_index": 5,
             "section_ref": "94:5",
+            "section_title": "5. Борбата за истината в Китай",
             "pars": [
                 {
                     "par_ref": "94:5.1",
@@ -250,6 +255,7 @@
         {
             "section_index": 6,
             "section_ref": "94:6",
+            "section_title": "6. Лао-Дзъ и Конфуций",
             "pars": [
                 {
                     "par_ref": "94:6.1",
@@ -316,6 +322,7 @@
         {
             "section_index": 7,
             "section_ref": "94:7",
+            "section_title": "7. Гаутама Сидхартха",
             "pars": [
                 {
                     "par_ref": "94:7.1",
@@ -362,6 +369,7 @@
         {
             "section_index": 8,
             "section_ref": "94:8",
+            "section_title": "8. Будистката вяра",
             "pars": [
                 {
                     "par_ref": "94:8.1",
@@ -463,6 +471,7 @@
         {
             "section_index": 9,
             "section_ref": "94:9",
+            "section_title": "9. Разпространяването на будизма",
             "pars": [
                 {
                     "par_ref": "94:9.1",
@@ -499,6 +508,7 @@
         {
             "section_index": 10,
             "section_ref": "94:10",
+            "section_title": "10. Религията в Тибет",
             "pars": [
                 {
                     "par_ref": "94:10.1",
@@ -520,6 +530,7 @@
         {
             "section_index": 11,
             "section_ref": "94:11",
+            "section_title": "11. Философията на будизма",
             "pars": [
                 {
                     "par_ref": "94:11.1",
@@ -591,6 +602,7 @@
         {
             "section_index": 12,
             "section_ref": "94:12",
+            "section_title": "12. Концепцията за Бога в будизма",
             "pars": [
                 {
                     "par_ref": "94:12.1",

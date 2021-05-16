@@ -30,6 +30,7 @@
         {
             "section_index": 1,
             "section_ref": "177:1",
+            "section_title": "1. Денят, прекаран насаме с Бога",
             "pars": [
                 {
                     "par_ref": "177:1.1",
@@ -66,6 +67,7 @@
         {
             "section_index": 2,
             "section_ref": "177:2",
+            "section_title": "2. Детство в кръга на семейството",
             "pars": [
                 {
                     "par_ref": "177:2.1",
@@ -107,6 +109,7 @@
         {
             "section_index": 3,
             "section_ref": "177:3",
+            "section_title": "3. Денят, прекаран в лагера",
             "pars": [
                 {
                     "par_ref": "177:3.1",
@@ -153,6 +156,7 @@
         {
             "section_index": 4,
             "section_ref": "177:4",
+            "section_title": "4. Юда и първосвещениците",
             "pars": [
                 {
                     "par_ref": "177:4.1",
@@ -219,6 +223,7 @@
         {
             "section_index": 5,
             "section_ref": "177:5",
+            "section_title": "5. Последните беседи",
             "pars": [
                 {
                     "par_ref": "177:5.1",

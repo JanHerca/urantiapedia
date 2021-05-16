@@ -45,6 +45,7 @@
         {
             "section_index": 1,
             "section_ref": "130:1",
+            "section_title": "1. В Йопия — беседата за Йон",
             "pars": [
                 {
                     "par_ref": "130:1.1",
@@ -81,6 +82,7 @@
         {
             "section_index": 2,
             "section_ref": "130:2",
+            "section_title": "2. В Кесария",
             "pars": [
                 {
                     "par_ref": "130:2.1",
@@ -137,6 +139,7 @@
         {
             "section_index": 3,
             "section_ref": "130:3",
+            "section_title": "3. В Александрия",
             "pars": [
                 {
                     "par_ref": "130:3.1",
@@ -193,6 +196,7 @@
         {
             "section_index": 4,
             "section_ref": "130:4",
+            "section_title": "4. Беседата за реалността",
             "pars": [
                 {
                     "par_ref": "130:4.1",
@@ -274,6 +278,7 @@
         {
             "section_index": 5,
             "section_ref": "130:5",
+            "section_title": "5. На остров Крит",
             "pars": [
                 {
                     "par_ref": "130:5.1",
@@ -300,6 +305,7 @@
         {
             "section_index": 6,
             "section_ref": "130:6",
+            "section_title": "6. Юношата, който се боеше",
             "pars": [
                 {
                     "par_ref": "130:6.1",
@@ -336,6 +342,7 @@
         {
             "section_index": 7,
             "section_ref": "130:7",
+            "section_title": "7. В Картаген — беседата за времето и пространството",
             "pars": [
                 {
                     "par_ref": "130:7.1",
@@ -382,6 +389,7 @@
         {
             "section_index": 8,
             "section_ref": "130:8",
+            "section_title": "8. По пътя към Неапол и Рим",
             "pars": [
                 {
                     "par_ref": "130:8.1",

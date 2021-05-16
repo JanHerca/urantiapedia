@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "140:1",
+            "section_title": "1. Предварителните наставления",
             "pars": [
                 {
                     "par_ref": "140:1.1",
@@ -66,6 +67,7 @@
         {
             "section_index": 2,
             "section_ref": "140:2",
+            "section_title": "2. Посвещаването в сан",
             "pars": [
                 {
                     "par_ref": "140:2.1",
@@ -87,6 +89,7 @@
         {
             "section_index": 3,
             "section_ref": "140:3",
+            "section_title": "3. Проповедта на посвещението",
             "pars": [
                 {
                     "par_ref": "140:3.1",
@@ -198,6 +201,7 @@
         {
             "section_index": 4,
             "section_ref": "140:4",
+            "section_title": "4. Вие сте солта на Земята",
             "pars": [
                 {
                     "par_ref": "140:4.1",
@@ -259,6 +263,7 @@
         {
             "section_index": 5,
             "section_ref": "140:5",
+            "section_title": "5. Бащинската и братската любов",
             "pars": [
                 {
                     "par_ref": "140:5.1",
@@ -385,6 +390,7 @@
         {
             "section_index": 6,
             "section_ref": "140:6",
+            "section_title": "6. Вечерта в деня на посвещението",
             "pars": [
                 {
                     "par_ref": "140:6.1",
@@ -461,6 +467,7 @@
         {
             "section_index": 7,
             "section_ref": "140:7",
+            "section_title": "7. Седмицата след посвещаването като апостоли",
             "pars": [
                 {
                     "par_ref": "140:7.1",
@@ -507,6 +514,7 @@
         {
             "section_index": 8,
             "section_ref": "140:8",
+            "section_title": "8. В четвъртък на обед на езерото",
             "pars": [
                 {
                     "par_ref": "140:8.1",
@@ -673,6 +681,7 @@
         {
             "section_index": 9,
             "section_ref": "140:9",
+            "section_title": "9. Денят на духовното посвещение",
             "pars": [
                 {
                     "par_ref": "140:9.1",
@@ -699,6 +708,7 @@
         {
             "section_index": 10,
             "section_ref": "140:10",
+            "section_title": "10. Вечерта след духовното посвещение",
             "pars": [
                 {
                     "par_ref": "140:10.1",

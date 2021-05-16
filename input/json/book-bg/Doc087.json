@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "87:1",
+            "section_title": "1. Страхът от духове",
             "pars": [
                 {
                     "par_ref": "87:1.1",
@@ -51,6 +52,7 @@
         {
             "section_index": 2,
             "section_ref": "87:2",
+            "section_title": "2. Умиротворяването на духовете",
             "pars": [
                 {
                     "par_ref": "87:2.1",
@@ -107,6 +109,7 @@
         {
             "section_index": 3,
             "section_ref": "87:3",
+            "section_title": "3. Поклонението пред предците",
             "pars": [
                 {
                     "par_ref": "87:3.1",
@@ -138,6 +141,7 @@
         {
             "section_index": 4,
             "section_ref": "87:4",
+            "section_title": "4. Добрите и злите духове",
             "pars": [
                 {
                     "par_ref": "87:4.1",
@@ -179,6 +183,7 @@
         {
             "section_index": 5,
             "section_ref": "87:5",
+            "section_title": "5. Еволюцията на култа към духове",
             "pars": [
                 {
                     "par_ref": "87:5.1",
@@ -255,6 +260,7 @@
         {
             "section_index": 6,
             "section_ref": "87:6",
+            "section_title": "6. Принудата и заклинанието",
             "pars": [
                 {
                     "par_ref": "87:6.1",
@@ -346,6 +352,7 @@
         {
             "section_index": 7,
             "section_ref": "87:7",
+            "section_title": "7. Природата на култа",
             "pars": [
                 {
                     "par_ref": "87:7.1",

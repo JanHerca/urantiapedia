@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "61:1",
+            "section_title": "1. Стадият на новата континентална суша",
             "pars": [
                 {
                     "par_ref": "61:1.1",
@@ -101,6 +102,7 @@
         {
             "section_index": 2,
             "section_ref": "61:2",
+            "section_title": "2. Стадият на нови наводнения",
             "pars": [
                 {
                     "par_ref": "61:2.1",
@@ -172,6 +174,7 @@
         {
             "section_index": 3,
             "section_ref": "61:3",
+            "section_title": "3. Стадият на формиране на съвременните планини",
             "pars": [
                 {
                     "par_ref": "61:3.1",
@@ -253,6 +256,7 @@
         {
             "section_index": 4,
             "section_ref": "61:4",
+            "section_title": "4. Стадият на новото издигане на континентите",
             "pars": [
                 {
                     "par_ref": "61:4.1",
@@ -294,6 +298,7 @@
         {
             "section_index": 5,
             "section_ref": "61:5",
+            "section_title": "5. Първият ледников период",
             "pars": [
                 {
                     "par_ref": "61:5.1",
@@ -340,6 +345,7 @@
         {
             "section_index": 6,
             "section_ref": "61:6",
+            "section_title": "6. Първобитният човек в ледниковия период",
             "pars": [
                 {
                     "par_ref": "61:6.1",
@@ -366,6 +372,7 @@
         {
             "section_index": 7,
             "section_ref": "61:7",
+            "section_title": "7. Продължението на ледниковия период",
             "pars": [
                 {
                     "par_ref": "61:7.1",

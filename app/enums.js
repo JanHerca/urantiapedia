@@ -28,7 +28,9 @@ exports.HTMLSeparator = {
 	UNDERLINE_START: '<span class="UL">',
 	UNDERLINE_END: '</span>',
 	UNDERLINE2_START: '<span class="font3">',
-	UNDERLINE2_END: '</span>'
+	UNDERLINE2_END: '</span>',
+	ANCHOR_START: '<a>',
+	ANCHOR_END: '</a>'
 };
 
 //TODO: Libros que nos faltan:

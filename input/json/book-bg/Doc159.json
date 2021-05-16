@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "159:1",
+            "section_title": "1. Проповедта за прошката",
             "pars": [
                 {
                     "par_ref": "159:1.1",
@@ -61,6 +62,7 @@
         {
             "section_index": 2,
             "section_ref": "159:2",
+            "section_title": "2. Непознатият проповедник",
             "pars": [
                 {
                     "par_ref": "159:2.1",
@@ -87,6 +89,7 @@
         {
             "section_index": 3,
             "section_ref": "159:3",
+            "section_title": "3. Наставлението за учителите и вярващите",
             "pars": [
                 {
                     "par_ref": "159:3.1",
@@ -163,6 +166,7 @@
         {
             "section_index": 4,
             "section_ref": "159:4",
+            "section_title": "4. Разговорът с Натанаил",
             "pars": [
                 {
                     "par_ref": "159:4.1",
@@ -224,6 +228,7 @@
         {
             "section_index": 5,
             "section_ref": "159:5",
+            "section_title": "5. Позитивният характер на религията на Иисус",
             "pars": [
                 {
                     "par_ref": "159:5.1",
@@ -315,6 +320,7 @@
         {
             "section_index": 6,
             "section_ref": "159:6",
+            "section_title": "6. Завръщането в Магадан",
             "pars": [
                 {
                     "par_ref": "159:6.1",

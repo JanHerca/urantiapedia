@@ -756,18 +756,42 @@ class Book {
 	 */
 	readFileFromHTML = (filePath) => {
 		const baseName = path.basename(filePath);
+		const dirPath = path.dirname(filePath);
+		const ext = path.extname(filePath);
+		const fname = baseName.replace(ext, '');
+		const language = path.basename(dirPath).replace('book-', '');
+		const paperIndex = parseInt(fname.substring(fname.length - 3));
+		const configs = [
+			{
+				name: 'generic',
+				paperTitle: 'h1[id=U{paperIndex}_0_0]',
+				secs: 'h2',
+				pars: 'p',
+				languages: ['bg', 'cs', 'da', 'de', 'en', 'es', 'es-1993', 'et',
+					'fi', 'fr', 'hu', 'id', 'it', 'lt', 'nl', 'pl', 'pt', 'ro',
+					'ru', 'sv']
+			},
+			{
+				name: 'greek',
+				paperTitle: 'h3',
+				secs: 'h4',
+				pars: 'p',
+				htmlEntities: true,
+				languages: ['el']
+			}
+		];
+		const config = configs.find(c => c.languages.indexOf(language) != -1);
+
+		//Ignoramos archivos HTML que no tengan número de documento
+		if (isNaN(paperIndex)) {
+			return Promise.resolve(null);
+		}
+
 		return new Promise((resolve, reject) => {
 			if (this.onProgressFn) {
 				this.onProgressFn(baseName);
 			}
-			const fname = baseName.replace('.html', '');
-			const paperIndex = parseInt(fname.substring(fname.length - 3));
-			const names = ['small', 'em', 'span'];
-			//Ignoramos archivos HTML que no tengan número de documento
-			if (isNaN(paperIndex)) {
-				resolve(null);
-				return;
-			}
+			
 			fs.readFile(filePath, (errFile, buf) => {
 				if (errFile) {
 					reject([errFile]);
@@ -777,9 +801,11 @@ class Book {
 				let errors = [];
 				try {
 					const $ = cheerio.load(content);
-					const paperTitle = $(`h1[id=U${paperIndex}_0_0]`).text();
-					const secs = $('h2');
-					const pars = $('p');
+					const paperTitleQuery = config.paperTitle.replace(
+						'{paperIndex}', paperIndex.toString());
+					const paperTitle = $(paperTitleQuery).text();
+					const secs = $(config.secs);
+					const pars = $(config.pars);
 
 					let paper = {
 						paper_index: paperIndex,
@@ -787,92 +813,55 @@ class Book {
 						footnotes: [],
 						paper_title: paperTitle
 					};
-					let i = 0, p, s, removeErr, text, tags = [], msg, j = 0, n;
-					let pId, secId, ref, pref, sec;
+					let i = 0, p, removeErr, text, pId, sec, pdata;
 					//Añadimos la sección 0 si es que la hay
-					for (i = 0; i < pars.length; i++) {
-						p = pars[i];
-						if (!p.attribs || !p.attribs.id || p.attribs.id[0] != 'U') {
-							continue;
-						}
-						pId = p.attribs.id.replace('U', '').split('_');
-						if (pId[1] === '0') {
-							paper.sections.push({
-								section_index: parseInt(pId[1]),
-								section_ref: `${paperIndex}:${pId[1]}`,
-								pars: []
-							});
-							break;
-						}
-					};
+					paper.sections.push({
+						section_index: 0,
+						section_ref: `${paperIndex}:0`,
+						pars: []
+					});
 					//Añadimos el resto de secciones
-					for (i = 0; i < secs.length; i++) {
-						s = secs[i];
-						secId = s.attribs.id.replace('U', '').split('_');
-						paper.sections.push({
-							section_index: parseInt(secId[1]),
-							section_ref: `${paperIndex}:${secId[1]}`,
-							pars: []
-						});
-					};
+					extendArray(paper.sections, 
+						this.getSectionsFromHTML(secs, config.name, paperIndex));
 					//Añadimos párrafos
 					for (i = 0; i < pars.length; i++) {
 						p = pars[i];
-						if (!p.attribs || !p.attribs.id || 
-							p.attribs.id[0] != 'U' ||
-							$(p).find('small').length === 0) {
+						pdata = this.getParFromHTMLNode(p, config.name, paperIndex);
+						if (!pdata) {
 							continue;
 						}
-						pId = p.attribs.id.replace('U', '').split('_');
-						pref = extractStr($(p).find('small').text(), '(', ')');
-						ref = `${paperIndex}:${pId[1]}.${pId[2]}`;
-						sec = paper.sections.find(s => s.section_index === 
-							parseInt(pId[1]));
+						pId = this.getRef(pdata.par_ref);
+						sec = paper.sections.find(s => s.section_index === pId[1]);
+						if (!sec) {
+							extendArray(errors, this.createError(baseName, -999,
+								`Sección ${pId[1]} no encontrada.`));
+							continue;
+						}
 						text = $(p).html();
+						if (config.name === 'greek') {
+							text = text.replace(`<sup>(${pdata.par_pageref})</sup>`,
+								'');
+							text = text.replace(`<sup>${pdata.par_ref}</sup>`, '');
+						}
 						removeErr = [];
-						text = removeHTMLTags(text, HSep.SMALL_START, HSep.SMALL_END, 
-							true, removeErr);
-						text = replaceTags(text, HSep.ITALIC_START, 
-							HSep.ITALIC_END, '*', '*', removeErr);
-						text = replaceTags(text, HSep.SMALLCAPS_START, 
-							HSep.SMALLCAPS_END, '$', '$', removeErr);
-						text = replaceTags(text, HSep.UNDERLINE_START, 
-							HSep.UNDERLINE_END, '|', '|', removeErr);
-						text = replaceTags(text, HSep.UNDERLINE2_START, 
-							HSep.UNDERLINE2_END, '|', '|', removeErr);
-						text = replaceTags(text, HSep.RIGHT_START, HSep.RIGHT_END,
-							'', '', removeErr);
-						text = removeHTMLTags(text, HSep.SPAN_START, HSep.SPAN_END, 
-							false, removeErr);
+						text = this.modifyTagsInHTML(text, removeErr);
 						if (removeErr.length > 0) {
 							extendArray(errors, removeErr.map(e =>
 								this.createError(baseName, -999, e)));
 						}
-						sec.pars.push({
-							par_ref: ref,
-							par_pageref: pref,
-							par_content: text.trim()
-						});
-						//Chequeo de si el párrafo contiene tags extrañas
-						//para luego incluirlas en un reformateo
-						for (j = 0; j < p.children.length; j++) {
-							n = p.children[j];
-							if (n.type === 'tag' && names.indexOf(n.name) === -1) {
-								msg = `${baseName} - ${ref} - Tag: ${n.name}`;
-								if (tags.indexOf(msg) === -1) {
-									tags.push(msg);
-								}
-							}
-						}
+						pdata.par_content = text;
+						sec.pars.push(pdata);
 					};
-
-					if (tags.length > 0) {
-						console.log(tags);
-					}
 
 					if (errors.length > 0) {
 						reject(errors);
 						return;
+					}
+
+					//Quitamos la sección 0 si está vacía
+					sec = paper.sections.find(s => s.section_index === 0);
+					if (sec.pars.length === 0) {
+						paper.sections.splice(paper.sections.indexOf(sec), 1);
 					}
 
 					this.papers.push(paper);
@@ -882,6 +871,146 @@ class Book {
 				}
 			});
 		});
+	};
+
+	/**
+	 * Devuelve un array de objetos de secciones a partir del HTML dado. La sección
+	 * cero no está incluida.
+	 * @param {NodeList} nodes Lista de nodos HTML a usar.
+	 * @param {string} name Nombre de la configuración a usar.
+	 * @param {int} paperIndex Índice del documento.
+	 * @return {Object[]}
+	 */
+	getSectionsFromHTML = (nodes, name, paperIndex) => {
+		let i, node, c, a, result = [], id, title;
+		for (i = 0; i < nodes.length; i++) {
+			node = nodes[i];
+			c = node.children;
+			if (name === 'generic') {
+				a = node.attribs;
+				id = parseInt(a.id.split('_')[1]);
+				title = c[0].data;
+			} else if (name === 'greek') {
+				if (c && c.length > 0 && c[0].type === 'tag' &&
+					c[0].name === 'a') {
+					a = c[0].attribs;
+					if (a.name) {
+						if (a.name.indexOf('_0_0') != -1) {
+							continue;
+						}
+						id = parseInt(a.name.split('_')[1]);
+					} else if (a.id) {
+						if (a.id.indexOf('_0_0') != -1) {
+							continue;
+						}
+						id = parseInt(a.id.split('_')[1]);
+					}
+					if (c.length === 1) {
+						title = (c[0].children[0].name === 'em' ?
+							'*' + c[0].children[0].children[0].data + '*' :
+							c[0].children[0].data.trim());
+					} else if (c.length >= 2) {
+						title = c.filter(n=>n.type =='text')
+							.map(n=>n.data.trim()).join(' ');
+					}
+				} else {
+					continue;
+				}
+			}
+			result.push({
+				section_index: id,
+				section_ref: `${paperIndex}:${id}`,
+				section_title: title,
+				pars: []
+			});
+		};
+		return result;
+	};
+
+	/**
+	 * Devuelve datos de un párrafo a partir de un nodo HTML con el párrafo.
+	 * Devuelve null si no es un párrafo válido y debe ser ignorado.
+	 * @param {Node} node Un nodo HTML.
+	 * @param {string} name Nombre de la configuración a usar.
+	 * @param {int} paperIndex Índice del documento.
+	 * @return {Object}
+	 */
+	getParFromHTMLNode = (node, name, paperIndex) => {
+		const a = node.attribs, c = node.children;
+		let pId, sId, pindex = 0, ref, pref, prev = node.prev, h4, anchor;
+		if (name === 'generic') {
+			if (!a || !a.id || a.id[0] != 'U' || c.length === 0 || 
+				c[0].type != 'tag' || c[0].name != 'small') {
+				return null;
+			}
+			pId = a.id.split('_');
+			sId = pId[1];
+			pindex = pId[2];
+			pref = extractStr(c[0].children[0].data, '(', ')');
+		} else if (name === 'greek') {
+			while (prev) {
+				if (prev.name ==='p') {
+					pindex++;
+				} else if (prev.name === 'h4') {
+					h4 = prev;
+					break;
+				} else if (prev.children && prev.children.find(n=>n.name === 'h4')) {
+					h4 = prev.children.find(n=>n.name === 'h4');
+					break;
+				}
+				prev = prev.prev;
+			}
+			if (!h4) {
+				return null;
+			}
+			anchor = (h4.children ? h4.children.find(n=>n.name === 'a') :
+				null);
+			sId = '0';
+			if (anchor && anchor.attribs) {
+				if (anchor.attribs.name) {
+					sId = anchor.attribs.name.split('_')[1];
+				} else if (anchor.attribs.id) {
+					sId = anchor.attribs.id.split('_')[1];
+				}
+			}
+			pindex += 1;
+			pref = '';
+			if (c && c.length > 0 && c[0].type === 'tag' && 
+				c[0].name === 'sup' && c[0].children[0].data.indexOf('(') != -1) {
+				pref = extractStr(c[0].children[0].data, '(', ')');
+			}
+		}
+
+		ref = `${paperIndex}:${sId}.${pindex}`;
+		return {
+			par_ref: ref,
+			par_pageref: pref
+		};
+	};
+
+	/**
+	 * Modifica tags especiales en un contenido HTML.
+	 * @param {string} text Text con los tags HTML.
+	 * @param {string[]} errs Array donde almacenar los mensajes de error.
+	 * @return {string}
+	 */
+	modifyTagsInHTML = (text, errs) => {
+		text = removeHTMLTags(text, HSep.SMALL_START, HSep.SMALL_END, 
+			true, errs);
+		text = replaceTags(text, HSep.ITALIC_START, HSep.ITALIC_END, '*', '*', 
+			errs);
+		text = replaceTags(text, HSep.SMALLCAPS_START, HSep.SMALLCAPS_END, 
+			'$', '$', errs);
+		text = replaceTags(text, HSep.UNDERLINE_START, HSep.UNDERLINE_END, 
+			'|', '|', errs);
+		text = replaceTags(text, HSep.UNDERLINE2_START, HSep.UNDERLINE2_END, 
+			'|', '|', errs);
+		text = replaceTags(text, HSep.RIGHT_START, HSep.RIGHT_END, '', '', errs);
+		text = removeHTMLTags(text, HSep.SPAN_START, HSep.SPAN_END, false, errs);
+		text = removeHTMLTags(text, HSep.ANCHOR_START, HSep.ANCHOR_END, false, 
+			errs);
+		text = text.trim();
+		return text;
 	};
 
 	//***********************************************************************

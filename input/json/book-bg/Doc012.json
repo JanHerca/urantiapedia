@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "12:1",
+            "section_title": "1. Пространствените нива на Главната Вселена",
             "pars": [
                 {
                     "par_ref": "12:1.1",
@@ -111,6 +112,7 @@
         {
             "section_index": 2,
             "section_ref": "12:2",
+            "section_title": "2. Областта на Безусловния Абсолют",
             "pars": [
                 {
                     "par_ref": "12:2.1",
@@ -147,6 +149,7 @@
         {
             "section_index": 3,
             "section_ref": "12:3",
+            "section_title": "3. Всеобщата гравитация",
             "pars": [
                 {
                     "par_ref": "12:3.1",
@@ -213,6 +216,7 @@
         {
             "section_index": 4,
             "section_ref": "12:4",
+            "section_title": "4. Пространството и движението",
             "pars": [
                 {
                     "par_ref": "12:4.1",
@@ -299,6 +303,7 @@
         {
             "section_index": 5,
             "section_ref": "12:5",
+            "section_title": "5. Пространството и времето",
             "pars": [
                 {
                     "par_ref": "12:5.1",
@@ -360,6 +365,7 @@
         {
             "section_index": 6,
             "section_ref": "12:6",
+            "section_title": "6. Всеобщото свръхуправление",
             "pars": [
                 {
                     "par_ref": "12:6.1",
@@ -431,6 +437,7 @@
         {
             "section_index": 7,
             "section_ref": "12:7",
+            "section_title": "7. Частта и цялото",
             "pars": [
                 {
                     "par_ref": "12:7.1",
@@ -507,6 +514,7 @@
         {
             "section_index": 8,
             "section_ref": "12:8",
+            "section_title": "8. Материята, разумът и духът",
             "pars": [
                 {
                     "par_ref": "12:8.1",
@@ -593,6 +601,7 @@
         {
             "section_index": 9,
             "section_ref": "12:9",
+            "section_title": "9. Личностните реалности",
             "pars": [
                 {
                     "par_ref": "12:9.1",

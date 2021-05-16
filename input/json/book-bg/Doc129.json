@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "129:1",
+            "section_title": "1. Двадесет и седмата година (21 година след н.е.)",
             "pars": [
                 {
                     "par_ref": "129:1.1",
@@ -106,6 +107,7 @@
         {
             "section_index": 2,
             "section_ref": "129:2",
+            "section_title": "2. Двадесет и осмата година (22 година след н.е.)",
             "pars": [
                 {
                     "par_ref": "129:2.1",
@@ -167,6 +169,7 @@
         {
             "section_index": 3,
             "section_ref": "129:3",
+            "section_title": "3. Двадесет и деветата година (23 година след н.е.)",
             "pars": [
                 {
                     "par_ref": "129:3.1",
@@ -218,6 +221,7 @@
         {
             "section_index": 4,
             "section_ref": "129:4",
+            "section_title": "4. Иисус-човекът",
             "pars": [
                 {
                     "par_ref": "129:4.1",
