@@ -776,8 +776,21 @@ class Book {
 				paperTitle: 'h3',
 				secs: 'h4',
 				pars: 'p',
-				htmlEntities: true,
 				languages: ['el']
+			},
+			{
+				name: 'farsi',
+				paperTitle: 'h3',
+				secs: 'h4',
+				pars: 'p',
+				languages: ['fa']
+			},
+			{
+				name: 'other',
+				paperTitle: 'h1:last',
+				secs: 'h4',
+				pars: 'p',
+				languages: ['he', 'ja', 'ko']
 			}
 		];
 		const config = configs.find(c => c.languages.indexOf(language) != -1);
@@ -891,8 +904,7 @@ class Book {
 				id = parseInt(a.id.split('_')[1]);
 				title = c[0].data;
 			} else if (name === 'greek') {
-				if (c && c.length > 0 && c[0].type === 'tag' &&
-					c[0].name === 'a') {
+				if (c && c.length > 0 && c[0].type === 'tag' && c[0].name === 'a') {
 					a = c[0].attribs;
 					if (a.name) {
 						if (a.name.indexOf('_0_0') != -1) {
@@ -916,6 +928,10 @@ class Book {
 				} else {
 					continue;
 				}
+			} else if (name === 'farsi' || name === 'other') {
+				id = i + 1;
+				title = c.filter(n=>n.type =='text')
+					.map(n=>n.data.trim()).join(' ');
 			}
 			result.push({
 				section_index: id,
@@ -937,7 +953,7 @@ class Book {
 	 */
 	getParFromHTMLNode = (node, name, paperIndex) => {
 		const a = node.attribs, c = node.children;
-		let pId, sId, pindex = 0, ref, pref, prev = node.prev, h4, anchor;
+		let pId, sId, pindex = 0, ref, pref, prev, h4, anchor;
 		if (name === 'generic') {
 			if (!a || !a.id || a.id[0] != 'U' || c.length === 0 || 
 				c[0].type != 'tag' || c[0].name != 'small') {
@@ -948,23 +964,13 @@ class Book {
 			pindex = pId[2];
 			pref = extractStr(c[0].children[0].data, '(', ')');
 		} else if (name === 'greek') {
-			while (prev) {
-				if (prev.name ==='p') {
-					pindex++;
-				} else if (prev.name === 'h4') {
-					h4 = prev;
-					break;
-				} else if (prev.children && prev.children.find(n=>n.name === 'h4')) {
-					h4 = prev.children.find(n=>n.name === 'h4');
-					break;
-				}
-				prev = prev.prev;
-			}
-			if (!h4) {
+			prev = this.findAncestorInHTML(node, 'p', 'h4');
+			if (!prev) {
 				return null;
 			}
-			anchor = (h4.children ? h4.children.find(n=>n.name === 'a') :
-				null);
+			h4 = prev.node;
+			pindex = prev.count;
+			anchor = (h4.children ? h4.children.find(n=>n.name === 'a') : null);
 			sId = '0';
 			if (anchor && anchor.attribs) {
 				if (anchor.attribs.name) {
@@ -979,6 +985,22 @@ class Book {
 				c[0].name === 'sup' && c[0].children[0].data.indexOf('(') != -1) {
 				pref = extractStr(c[0].children[0].data, '(', ')');
 			}
+		} else if (name === 'farsi' || name === 'other') {
+			prev = this.findAncestorInHTML(node, 'p', 'h4');
+			if (!prev) {
+				prev = this.findAncestorInHTML(node, 'p', 
+					(name === 'farsi' ? 'h3' : 'h1'));
+				if (!prev) {
+					return null;
+				}
+				pindex = prev.count + 1;
+			} else {
+				pindex = prev.count + 1;
+			}
+			prev = this.findAncestorInHTML(node, 'h4', 
+				(name === 'farsi' ? 'h3' : 'h1'));
+			sId = (prev ? prev.count.toString() : '0');
+			pref = '';
 		}
 
 		ref = `${paperIndex}:${sId}.${pindex}`;
@@ -986,6 +1008,35 @@ class Book {
 			par_ref: ref,
 			par_pageref: pref
 		};
+	};
+
+	/**
+	 * Devuelve el nodo superior a uno dado que tenga el ancestorTag. También
+	 * obtiene el número de veces que encuentra un nodo con el nodeName.
+	 * @param {Node} node Nodo HTML.
+	 * @param {string} nodeName Nombre del tag a contar.
+	 * @param {string} ancestorTag Nombre del tag que se ha de buscar.
+	 * @return {Object} Objeto que tiene una propiedad 'count' y otra 'node'.
+	 */
+	findAncestorInHTML = (node, nodeName, ancestorTag) => {
+		let prev = node.prev, ancestor, pindex = 0;
+		while (prev) {
+			if (prev.name === nodeName || 
+				(prev.children && prev.children.find(n=>n.name === nodeName))) {
+				pindex++;
+			} else if (prev.name === ancestorTag) {
+				ancestor = prev;
+				break;
+			} else if (prev.children && prev.children.find(n=>n.name === ancestorTag)) {
+				ancestor = prev.children.find(n=>n.name === ancestorTag);
+				break;
+			}
+			prev = prev.prev;
+		}
+		if (!ancestor) {
+			return null;
+		}
+		return {count: pindex, node: ancestor};
 	};
 
 	/**
