@@ -23,3 +23,17 @@ Los formatos de entrada para la Urantiapedia son los siguientes:
 * Biblia a LU: https://urantia-book.org/urantiabook/paramony/urantia_book_refs_index.html
 * Biblia Reina-Valera 1960: https://www.biblegateway.com/passage/?search=G%C3%A9nesis+1&version=RVR1960
 * Plugin LaTeX para Visual Code: https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
+
+
+## Uso VS Code para cambios rápidos masivos
+
+### Adaptar ficheros de la Biblia
+
+Buscar ^... 
+Reemplazar: \par 
+
+Buscar: \\par ([0-9]*):([1]) 
+Reemplazar: \n\chapter{$1}\n\n\par $2
+
+Buscar: \\par ([0-9]*):([0-9]*) 
+Reemplazar: \par $2
