@@ -30,6 +30,7 @@
         {
             "section_index": 1,
             "section_ref": "165:1",
+            "section_title": "1. In het kamp bij Pella",
             "pars": [
                 {
                     "par_ref": "165:1.1",
@@ -51,6 +52,7 @@
         {
             "section_index": 2,
             "section_ref": "165:2",
+            "section_title": "2. De toespraak over de goede herder",
             "pars": [
                 {
                     "par_ref": "165:2.1",
@@ -117,6 +119,7 @@
         {
             "section_index": 3,
             "section_ref": "165:3",
+            "section_title": "3. De sabbatstoespraak in Pella",
             "pars": [
                 {
                     "par_ref": "165:3.1",
@@ -168,6 +171,7 @@
         {
             "section_index": 4,
             "section_ref": "165:4",
+            "section_title": "4. Het verdelen van de erfenis",
             "pars": [
                 {
                     "par_ref": "165:4.1",
@@ -244,6 +248,7 @@
         {
             "section_index": 5,
             "section_ref": "165:5",
+            "section_title": "5. Gesprekken met de apostelen over rijkdom",
             "pars": [
                 {
                     "par_ref": "165:5.1",
@@ -285,6 +290,7 @@
         {
             "section_index": 6,
             "section_ref": "165:6",
+            "section_title": "6. Het antwoord op de vraag van Petrus",
             "pars": [
                 {
                     "par_ref": "165:6.1",

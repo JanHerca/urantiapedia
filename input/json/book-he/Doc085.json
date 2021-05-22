@@ -30,7 +30,7 @@
         {
             "section_index": 1,
             "section_ref": "85:1",
-            "section_title": "1. פולחן האבנים והגבעות",
+            "section_title": "\t1. פולחן האבנים והגבעות",
             "pars": [
                 {
                     "par_ref": "85:1.1",
@@ -62,7 +62,7 @@
         {
             "section_index": 2,
             "section_ref": "85:2",
-            "section_title": "2. עבודת הצמחים והעצים",
+            "section_title": "\t2. עבודת הצמחים והעצים",
             "pars": [
                 {
                     "par_ref": "85:2.1",
@@ -99,7 +99,7 @@
         {
             "section_index": 3,
             "section_ref": "85:3",
-            "section_title": "3. עבודת בעלי החיים",
+            "section_title": "\t3. עבודת בעלי החיים",
             "pars": [
                 {
                     "par_ref": "85:3.1",
@@ -131,7 +131,7 @@
         {
             "section_index": 4,
             "section_ref": "85:4",
-            "section_title": "4. עבודת יסודות הטבע",
+            "section_title": "\t4. עבודת יסודות הטבע",
             "pars": [
                 {
                     "par_ref": "85:4.1",
@@ -158,7 +158,7 @@
         {
             "section_index": 5,
             "section_ref": "85:5",
-            "section_title": "5. עבודת גרמי השמיים",
+            "section_title": "\t5. עבודת גרמי השמיים",
             "pars": [
                 {
                     "par_ref": "85:5.1",
@@ -180,7 +180,7 @@
         {
             "section_index": 6,
             "section_ref": "85:6",
-            "section_title": "6. עבודת האדם",
+            "section_title": "\t6. עבודת האדם",
             "pars": [
                 {
                     "par_ref": "85:6.1",
@@ -212,7 +212,7 @@
         {
             "section_index": 7,
             "section_ref": "85:7",
-            "section_title": "7. סועדות הפולחן והבינה",
+            "section_title": "\t7. סועדות הפולחן והבינה",
             "pars": [
                 {
                     "par_ref": "85:7.1",

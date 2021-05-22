@@ -30,6 +30,7 @@
         {
             "section_index": 1,
             "section_ref": "149:1",
+            "section_title": "1. Placiai išplitęs garsas apie Jėzų",
             "pars": [
                 {
                     "par_ref": "149:1.1",
@@ -81,6 +82,7 @@
         {
             "section_index": 2,
             "section_ref": "149:2",
+            "section_title": "2. Žmonių požiūris",
             "pars": [
                 {
                     "par_ref": "149:2.1",
@@ -157,6 +159,7 @@
         {
             "section_index": 3,
             "section_ref": "149:3",
+            "section_title": "3. Religinių vadovų priešiškumas",
             "pars": [
                 {
                     "par_ref": "149:3.1",
@@ -178,6 +181,7 @@
         {
             "section_index": 4,
             "section_ref": "149:4",
+            "section_title": "4. Pamokslavimo kelionės vystymasis",
             "pars": [
                 {
                     "par_ref": "149:4.1",
@@ -214,6 +218,7 @@
         {
             "section_index": 5,
             "section_ref": "149:5",
+            "section_title": "5. Pamoka apie pasitenkinimą",
             "pars": [
                 {
                     "par_ref": "149:5.1",
@@ -245,6 +250,7 @@
         {
             "section_index": 6,
             "section_ref": "149:6",
+            "section_title": "6. “Viešpaties baimė”",
             "pars": [
                 {
                     "par_ref": "149:6.1",
@@ -311,6 +317,7 @@
         {
             "section_index": 7,
             "section_ref": "149:7",
+            "section_title": "7. Sugrįžimas į Betsaidą",
             "pars": [
                 {
                     "par_ref": "149:7.1",

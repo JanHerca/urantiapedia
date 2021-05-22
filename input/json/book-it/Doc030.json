@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "30:1",
+            "section_title": "1. La classificazione Paradisiaca degli esseri viventi",
             "pars": [
                 {
                     "par_ref": "30:1.1",
@@ -596,6 +597,7 @@
         {
             "section_index": 2,
             "section_ref": "30:2",
+            "section_title": "2. Il registro delle personalità di Uversa",
             "pars": [
                 {
                     "par_ref": "30:2.1",
@@ -1387,6 +1389,7 @@
         {
             "section_index": 3,
             "section_ref": "30:3",
+            "section_title": "3. Le colonie di cortesia",
             "pars": [
                 {
                     "par_ref": "30:3.1",
@@ -1458,6 +1461,7 @@
         {
             "section_index": 4,
             "section_ref": "30:4",
+            "section_title": "4. I mortali ascendenti",
             "pars": [
                 {
                     "par_ref": "30:4.1",

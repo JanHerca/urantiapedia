@@ -115,6 +115,7 @@
         {
             "section_index": 1,
             "section_ref": "44:1",
+            "section_title": "1. I musicisti celesti",
             "pars": [
                 {
                     "par_ref": "44:1.1",
@@ -196,6 +197,7 @@
         {
             "section_index": 2,
             "section_ref": "44:2",
+            "section_title": "2. I riproduttori celesti",
             "pars": [
                 {
                     "par_ref": "44:2.1",
@@ -257,6 +259,7 @@
         {
             "section_index": 3,
             "section_ref": "44:3",
+            "section_title": "3. I costruttori divini",
             "pars": [
                 {
                     "par_ref": "44:3.1",
@@ -308,6 +311,7 @@
         {
             "section_index": 4,
             "section_ref": "44:4",
+            "section_title": "4. I registratori del pensiero",
             "pars": [
                 {
                     "par_ref": "44:4.1",
@@ -374,6 +378,7 @@
         {
             "section_index": 5,
             "section_ref": "44:5",
+            "section_title": "5. I manipolatori dell’energia",
             "pars": [
                 {
                     "par_ref": "44:5.1",
@@ -430,6 +435,7 @@
         {
             "section_index": 6,
             "section_ref": "44:6",
+            "section_title": "6. I modellisti e gli abbellitori",
             "pars": [
                 {
                     "par_ref": "44:6.1",
@@ -481,6 +487,7 @@
         {
             "section_index": 7,
             "section_ref": "44:7",
+            "section_title": "7. Gli operatori dell’armonia",
             "pars": [
                 {
                     "par_ref": "44:7.1",
@@ -507,6 +514,7 @@
         {
             "section_index": 8,
             "section_ref": "44:8",
+            "section_title": "8. Aspirazioni mortali e compimenti morontiali",
             "pars": [
                 {
                     "par_ref": "44:8.1",

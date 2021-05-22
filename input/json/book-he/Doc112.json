@@ -90,7 +90,7 @@
         {
             "section_index": 1,
             "section_ref": "112:1",
-            "section_title": "1. אישיות ומציאות",
+            "section_title": "\t1. אישיות ומציאות",
             "pars": [
                 {
                     "par_ref": "112:1.1",
@@ -192,7 +192,7 @@
         {
             "section_index": 2,
             "section_ref": "112:2",
-            "section_title": "2. העצמי",
+            "section_title": "\t2. העצמי",
             "pars": [
                 {
                     "par_ref": "112:2.1",
@@ -299,7 +299,7 @@
         {
             "section_index": 3,
             "section_ref": "112:3",
-            "section_title": "3. תופעת המוות",
+            "section_title": "\t3. תופעת המוות",
             "pars": [
                 {
                     "par_ref": "112:3.1",
@@ -341,7 +341,7 @@
         {
             "section_index": 4,
             "section_ref": "112:4",
-            "section_title": "4. המכווננים לאחר המוות",
+            "section_title": "\t4. המכווננים לאחר המוות",
             "pars": [
                 {
                     "par_ref": "112:4.1",
@@ -413,7 +413,7 @@
         {
             "section_index": 5,
             "section_ref": "112:5",
-            "section_title": "5. הישרדות העצמי האנושי",
+            "section_title": "\t5. הישרדות העצמי האנושי",
             "pars": [
                 {
                     "par_ref": "112:5.1",
@@ -530,7 +530,7 @@
         {
             "section_index": 6,
             "section_ref": "112:6",
-            "section_title": "6. העצמי המורונטי",
+            "section_title": "\t6. העצמי המורונטי",
             "pars": [
                 {
                     "par_ref": "112:6.1",
@@ -587,7 +587,7 @@
         {
             "section_index": 7,
             "section_ref": "112:7",
-            "section_title": "7. היתוך עם המכוונן",
+            "section_title": "\t7. היתוך עם המכוונן",
             "pars": [
                 {
                     "par_ref": "112:7.1",

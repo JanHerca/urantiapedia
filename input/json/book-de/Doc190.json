@@ -35,6 +35,7 @@
         {
             "section_index": 1,
             "section_ref": "190:1",
+            "section_title": "1. Herolde der Auferstehung",
             "pars": [
                 {
                     "par_ref": "190:1.1",
@@ -91,6 +92,7 @@
         {
             "section_index": 2,
             "section_ref": "190:2",
+            "section_title": "2. Jesu Erscheinung in Bethanien",
             "pars": [
                 {
                     "par_ref": "190:2.1",
@@ -132,6 +134,7 @@
         {
             "section_index": 3,
             "section_ref": "190:3",
+            "section_title": "3. Im Hause des Joseph",
             "pars": [
                 {
                     "par_ref": "190:3.1",
@@ -153,6 +156,7 @@
         {
             "section_index": 4,
             "section_ref": "190:4",
+            "section_title": "4. Erscheinung vor den Griechen",
             "pars": [
                 {
                     "par_ref": "190:4.1",
@@ -169,6 +173,7 @@
         {
             "section_index": 5,
             "section_ref": "190:5",
+            "section_title": "5. Der Spaziergang mit zwei Brüdern",
             "pars": [
                 {
                     "par_ref": "190:5.1",

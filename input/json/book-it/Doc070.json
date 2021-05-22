@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "70:1",
+            "section_title": "1. La genesi della guerra",
             "pars": [
                 {
                     "par_ref": "70:1.1",
@@ -141,6 +142,7 @@
         {
             "section_index": 2,
             "section_ref": "70:2",
+            "section_title": "2. Il valore sociale della guerra",
             "pars": [
                 {
                     "par_ref": "70:2.1",
@@ -252,6 +254,7 @@
         {
             "section_index": 3,
             "section_ref": "70:3",
+            "section_title": "3. Le associazioni umane primitive",
             "pars": [
                 {
                     "par_ref": "70:3.1",
@@ -313,6 +316,7 @@
         {
             "section_index": 4,
             "section_ref": "70:4",
+            "section_title": "4. Clan e tribù",
             "pars": [
                 {
                     "par_ref": "70:4.1",
@@ -369,6 +373,7 @@
         {
             "section_index": 5,
             "section_ref": "70:5",
+            "section_title": "5. Gli inizi del governo",
             "pars": [
                 {
                     "par_ref": "70:5.1",
@@ -420,6 +425,7 @@
         {
             "section_index": 6,
             "section_ref": "70:6",
+            "section_title": "6. Il governo monarchico",
             "pars": [
                 {
                     "par_ref": "70:6.1",
@@ -456,6 +462,7 @@
         {
             "section_index": 7,
             "section_ref": "70:7",
+            "section_title": "7. I circoli primitivi e le società segrete",
             "pars": [
                 {
                     "par_ref": "70:7.1",
@@ -557,6 +564,7 @@
         {
             "section_index": 8,
             "section_ref": "70:8",
+            "section_title": "8. Le classi sociali",
             "pars": [
                 {
                     "par_ref": "70:8.1",
@@ -653,6 +661,7 @@
         {
             "section_index": 9,
             "section_ref": "70:9",
+            "section_title": "9. I diritti umani",
             "pars": [
                 {
                     "par_ref": "70:9.1",
@@ -744,6 +753,7 @@
         {
             "section_index": 10,
             "section_ref": "70:10",
+            "section_title": "10. L’evoluzione della giustizia",
             "pars": [
                 {
                     "par_ref": "70:10.1",
@@ -830,6 +840,7 @@
         {
             "section_index": 11,
             "section_ref": "70:11",
+            "section_title": "11. Leggi e tribunali",
             "pars": [
                 {
                     "par_ref": "70:11.1",
@@ -906,6 +917,7 @@
         {
             "section_index": 12,
             "section_ref": "70:12",
+            "section_title": "12. Le attribuzioni dell’autorità civile",
             "pars": [
                 {
                     "par_ref": "70:12.1",

@@ -20,6 +20,38 @@ class Book {
 	papers = [];
 	onProgressFn = null;
 	warnings = [];
+	HTMLconfigs = [
+		{
+			name: 'generic',
+			paperTitle: 'h1[id=U{paperIndex}_0_0]',
+			secs: 'h2',
+			pars: 'p',
+			languages: ['bg', 'cs', 'da', 'de', 'en', 'es', 'es-1993', 'et',
+				'fi', 'fr', 'hu', 'id', 'it', 'lt', 'nl', 'pl', 'pt', 'ro',
+				'ru', 'sv']
+		},
+		{
+			name: 'greek',
+			paperTitle: 'h3',
+			secs: 'h4',
+			pars: 'p',
+			languages: ['el']
+		},
+		{
+			name: 'farsi,korean',
+			paperTitle: 'h3',
+			secs: 'h4',
+			pars: 'p',
+			languages: ['fa', 'ko']
+		},
+		{
+			name: 'hebrew,japanese',
+			paperTitle: 'h1:last',
+			secs: 'h4',
+			pars: 'p',
+			languages: ['he', 'ja']
+		}
+	];
 
 	/**
 	 * Devuelve un array de tres valores [paper_id, section_id, par_id]
@@ -761,39 +793,8 @@ class Book {
 		const fname = baseName.replace(ext, '');
 		const language = path.basename(dirPath).replace('book-', '');
 		const paperIndex = parseInt(fname.substring(fname.length - 3));
-		const configs = [
-			{
-				name: 'generic',
-				paperTitle: 'h1[id=U{paperIndex}_0_0]',
-				secs: 'h2',
-				pars: 'p',
-				languages: ['bg', 'cs', 'da', 'de', 'en', 'es', 'es-1993', 'et',
-					'fi', 'fr', 'hu', 'id', 'it', 'lt', 'nl', 'pl', 'pt', 'ro',
-					'ru', 'sv']
-			},
-			{
-				name: 'greek',
-				paperTitle: 'h3',
-				secs: 'h4',
-				pars: 'p',
-				languages: ['el']
-			},
-			{
-				name: 'farsi',
-				paperTitle: 'h3',
-				secs: 'h4',
-				pars: 'p',
-				languages: ['fa']
-			},
-			{
-				name: 'other',
-				paperTitle: 'h1:last',
-				secs: 'h4',
-				pars: 'p',
-				languages: ['he', 'ja', 'ko']
-			}
-		];
-		const config = configs.find(c => c.languages.indexOf(language) != -1);
+		const config = this.HTMLconfigs
+			.find(c => c.languages.indexOf(language) != -1);
 
 		//Ignoramos archivos HTML que no tengan número de documento
 		if (isNaN(paperIndex)) {
@@ -835,11 +836,11 @@ class Book {
 					});
 					//Añadimos el resto de secciones
 					extendArray(paper.sections, 
-						this.getSectionsFromHTML(secs, config.name, paperIndex));
+						this.getSectionsFromHTML($, secs, config, paperIndex));
 					//Añadimos párrafos
 					for (i = 0; i < pars.length; i++) {
 						p = pars[i];
-						pdata = this.getParFromHTMLNode(p, config.name, paperIndex);
+						pdata = this.getParFromHTML($, p, config, paperIndex);
 						if (!pdata) {
 							continue;
 						}
@@ -851,11 +852,8 @@ class Book {
 							continue;
 						}
 						text = $(p).html();
-						if (config.name === 'greek') {
-							text = text.replace(`<sup>(${pdata.par_pageref})</sup>`,
-								'');
-							text = text.replace(`<sup>${pdata.par_ref}</sup>`, '');
-						}
+						text = text.replace(`<sup>(${pdata.par_pageref})</sup>`,'');
+						text = text.replace(`<sup>${pdata.par_ref}</sup>`, '');
 						removeErr = [];
 						text = this.modifyTagsInHTML(text, removeErr);
 						if (removeErr.length > 0) {
@@ -889,50 +887,31 @@ class Book {
 	/**
 	 * Devuelve un array de objetos de secciones a partir del HTML dado. La sección
 	 * cero no está incluida.
+	 * @param {Object} $ Object with the document as a jQuery object.
 	 * @param {NodeList} nodes Lista de nodos HTML a usar.
-	 * @param {string} name Nombre de la configuración a usar.
+	 * @param {Object} config Configuración a usar.
 	 * @param {int} paperIndex Índice del documento.
 	 * @return {Object[]}
 	 */
-	getSectionsFromHTML = (nodes, name, paperIndex) => {
+	getSectionsFromHTML = ($, nodes, config, paperIndex) => {
 		let i, node, c, a, result = [], id, title;
 		for (i = 0; i < nodes.length; i++) {
 			node = nodes[i];
 			c = node.children;
-			if (name === 'generic') {
+			if (config.name === 'generic') {
 				a = node.attribs;
 				id = parseInt(a.id.split('_')[1]);
 				title = c[0].data;
-			} else if (name === 'greek') {
-				if (c && c.length > 0 && c[0].type === 'tag' && c[0].name === 'a') {
-					a = c[0].attribs;
-					if (a.name) {
-						if (a.name.indexOf('_0_0') != -1) {
-							continue;
-						}
-						id = parseInt(a.name.split('_')[1]);
-					} else if (a.id) {
-						if (a.id.indexOf('_0_0') != -1) {
-							continue;
-						}
-						id = parseInt(a.id.split('_')[1]);
-					}
-					if (c.length === 1) {
-						title = (c[0].children[0].name === 'em' ?
-							'*' + c[0].children[0].children[0].data + '*' :
-							c[0].children[0].data.trim());
-					} else if (c.length >= 2) {
-						title = c.filter(n=>n.type =='text')
-							.map(n=>n.data.trim()).join(' ');
-					}
-				} else {
-					continue;
-				}
-			} else if (name === 'farsi' || name === 'other') {
+			} else {
 				id = i + 1;
-				title = c.filter(n=>n.type =='text')
-					.map(n=>n.data.trim()).join(' ');
+				title = $(node).html();
+				if (config.name === 'greek' || config.name === 'farsi,korean') {
+					title = removeHTMLTags(title, HSep.ANCHOR_START, HSep.ANCHOR_END, 
+						false, []);
+				}
 			}
+			title = replaceTags(title, HSep.ITALIC_START, HSep.ITALIC_END, 
+				'*', '*', []);
 			result.push({
 				section_index: id,
 				section_ref: `${paperIndex}:${id}`,
@@ -946,15 +925,16 @@ class Book {
 	/**
 	 * Devuelve datos de un párrafo a partir de un nodo HTML con el párrafo.
 	 * Devuelve null si no es un párrafo válido y debe ser ignorado.
+	 * @param {Object} $ Object with the document as a jQuery object.
 	 * @param {Node} node Un nodo HTML.
-	 * @param {string} name Nombre de la configuración a usar.
+	 * @param {Object} config Configuración a usar.
 	 * @param {int} paperIndex Índice del documento.
 	 * @return {Object}
 	 */
-	getParFromHTMLNode = (node, name, paperIndex) => {
+	getParFromHTML = ($, node, config, paperIndex) => {
 		const a = node.attribs, c = node.children;
-		let pId, sId, pindex = 0, ref, pref, prev, h4, anchor;
-		if (name === 'generic') {
+		let pId, sId, pindex = 0, ref, pref, n;
+		if (config.name === 'generic') {
 			if (!a || !a.id || a.id[0] != 'U' || c.length === 0 || 
 				c[0].type != 'tag' || c[0].name != 'small') {
 				return null;
@@ -963,44 +943,14 @@ class Book {
 			sId = pId[1];
 			pindex = pId[2];
 			pref = extractStr(c[0].children[0].data, '(', ')');
-		} else if (name === 'greek') {
-			prev = this.findAncestorInHTML(node, 'p', 'h4');
-			if (!prev) {
-				return null;
-			}
-			h4 = prev.node;
-			pindex = prev.count;
-			anchor = (h4.children ? h4.children.find(n=>n.name === 'a') : null);
-			sId = '0';
-			if (anchor && anchor.attribs) {
-				if (anchor.attribs.name) {
-					sId = anchor.attribs.name.split('_')[1];
-				} else if (anchor.attribs.id) {
-					sId = anchor.attribs.id.split('_')[1];
-				}
-			}
-			pindex += 1;
+		} else {
+			pindex = $(node).prevUntil('h4,div:has(h1,h3,h4)').length + 1;
+			sId = $(node).prevAll('h4,div:has(h4)').length;
 			pref = '';
-			if (c && c.length > 0 && c[0].type === 'tag' && 
-				c[0].name === 'sup' && c[0].children[0].data.indexOf('(') != -1) {
-				pref = extractStr(c[0].children[0].data, '(', ')');
+			n = $(node).find('sup').filter((i, e)=> $(e).text().indexOf('(')!=-1);
+			if (n.length > 0) {
+				pref = n.text().replace('(', '').replace(')', '');
 			}
-		} else if (name === 'farsi' || name === 'other') {
-			prev = this.findAncestorInHTML(node, 'p', 'h4');
-			if (!prev) {
-				prev = this.findAncestorInHTML(node, 'p', 
-					(name === 'farsi' ? 'h3' : 'h1'));
-				if (!prev) {
-					return null;
-				}
-				pindex = prev.count + 1;
-			} else {
-				pindex = prev.count + 1;
-			}
-			prev = this.findAncestorInHTML(node, 'h4', 
-				(name === 'farsi' ? 'h3' : 'h1'));
-			sId = (prev ? prev.count.toString() : '0');
-			pref = '';
 		}
 
 		ref = `${paperIndex}:${sId}.${pindex}`;
@@ -1008,35 +958,6 @@ class Book {
 			par_ref: ref,
 			par_pageref: pref
 		};
-	};
-
-	/**
-	 * Devuelve el nodo superior a uno dado que tenga el ancestorTag. También
-	 * obtiene el número de veces que encuentra un nodo con el nodeName.
-	 * @param {Node} node Nodo HTML.
-	 * @param {string} nodeName Nombre del tag a contar.
-	 * @param {string} ancestorTag Nombre del tag que se ha de buscar.
-	 * @return {Object} Objeto que tiene una propiedad 'count' y otra 'node'.
-	 */
-	findAncestorInHTML = (node, nodeName, ancestorTag) => {
-		let prev = node.prev, ancestor, pindex = 0;
-		while (prev) {
-			if (prev.name === nodeName || 
-				(prev.children && prev.children.find(n=>n.name === nodeName))) {
-				pindex++;
-			} else if (prev.name === ancestorTag) {
-				ancestor = prev;
-				break;
-			} else if (prev.children && prev.children.find(n=>n.name === ancestorTag)) {
-				ancestor = prev.children.find(n=>n.name === ancestorTag);
-				break;
-			}
-			prev = prev.prev;
-		}
-		if (!ancestor) {
-			return null;
-		}
-		return {count: pindex, node: ancestor};
 	};
 
 	/**

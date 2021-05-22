@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "157:1",
+            "section_title": "1. Der Tempelsteuer-Einnehmer",
             "pars": [
                 {
                     "par_ref": "157:1.1",
@@ -51,6 +52,7 @@
         {
             "section_index": 2,
             "section_ref": "157:2",
+            "section_title": "2. In Bethsaida-Julias",
             "pars": [
                 {
                     "par_ref": "157:2.1",
@@ -67,6 +69,7 @@
         {
             "section_index": 3,
             "section_ref": "157:3",
+            "section_title": "3. Das Bekenntnis des Petrus",
             "pars": [
                 {
                     "par_ref": "157:3.1",
@@ -108,6 +111,7 @@
         {
             "section_index": 4,
             "section_ref": "157:4",
+            "section_title": "4. Das Gespräch über das Königreich",
             "pars": [
                 {
                     "par_ref": "157:4.1",
@@ -154,6 +158,7 @@
         {
             "section_index": 5,
             "section_ref": "157:5",
+            "section_title": "5. Die neue Konzeption",
             "pars": [
                 {
                     "par_ref": "157:5.1",
@@ -175,6 +180,7 @@
         {
             "section_index": 6,
             "section_ref": "157:6",
+            "section_title": "6. Der nächste Nachmittag",
             "pars": [
                 {
                     "par_ref": "157:6.1",
@@ -256,6 +262,7 @@
         {
             "section_index": 7,
             "section_ref": "157:7",
+            "section_title": "7. Unterredung mit Andreas",
             "pars": [
                 {
                     "par_ref": "157:7.1",

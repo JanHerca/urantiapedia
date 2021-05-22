@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "108:1",
+            "section_title": "1. A kiválasztás és a feladat",
             "pars": [
                 {
                     "par_ref": "108:1.1",
@@ -71,6 +72,7 @@
         {
             "section_index": 2,
             "section_ref": "108:2",
+            "section_title": "2. Az Igazító adományozásának előfeltételei",
             "pars": [
                 {
                     "par_ref": "108:2.1",
@@ -132,6 +134,7 @@
         {
             "section_index": 3,
             "section_ref": "108:3",
+            "section_title": "3. Szervezés és igazgatás",
             "pars": [
                 {
                     "par_ref": "108:3.1",
@@ -188,6 +191,7 @@
         {
             "section_index": 4,
             "section_ref": "108:4",
+            "section_title": "4. Az egyéb szellemi hatásokhoz való viszony",
             "pars": [
                 {
                     "par_ref": "108:4.1",
@@ -219,6 +223,7 @@
         {
             "section_index": 5,
             "section_ref": "108:5",
+            "section_title": "5. Az Igazítók küldetése",
             "pars": [
                 {
                     "par_ref": "108:5.1",
@@ -275,6 +280,7 @@
         {
             "section_index": 6,
             "section_ref": "108:6",
+            "section_title": "6. Isten az emberben",
             "pars": [
                 {
                     "par_ref": "108:6.1",

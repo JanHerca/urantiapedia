@@ -70,6 +70,7 @@
         {
             "section_index": 1,
             "section_ref": "17:1",
+            "section_title": "1. Les Sept Agents Exécutifs Suprêmes",
             "pars": [
                 {
                     "par_ref": "17:1.1",
@@ -126,6 +127,7 @@
         {
             "section_index": 2,
             "section_ref": "17:2",
+            "section_title": "2. Majeston — le chef de la réflectivité",
             "pars": [
                 {
                     "par_ref": "17:2.1",
@@ -162,6 +164,7 @@
         {
             "section_index": 3,
             "section_ref": "17:3",
+            "section_title": "3. Les Esprits Réflectifs",
             "pars": [
                 {
                     "par_ref": "17:3.1",
@@ -223,6 +226,7 @@
         {
             "section_index": 4,
             "section_ref": "17:4",
+            "section_title": "4. Les Aides-Images Réflectifs",
             "pars": [
                 {
                     "par_ref": "17:4.1",
@@ -244,6 +248,7 @@
         {
             "section_index": 5,
             "section_ref": "17:5",
+            "section_title": "5. Les Sept Esprits des Circuits",
             "pars": [
                 {
                     "par_ref": "17:5.1",
@@ -275,6 +280,7 @@
         {
             "section_index": 6,
             "section_ref": "17:6",
+            "section_title": "6. Les Esprits Créatifs des univers locaux",
             "pars": [
                 {
                     "par_ref": "17:6.1",
@@ -331,6 +337,7 @@
         {
             "section_index": 7,
             "section_ref": "17:7",
+            "section_title": "7. Les esprits-mentaux adjuvats",
             "pars": [
                 {
                     "par_ref": "17:7.1",
@@ -342,6 +349,7 @@
         {
             "section_index": 8,
             "section_ref": "17:8",
+            "section_title": "8. Fonctions des Esprits Suprêmes",
             "pars": [
                 {
                     "par_ref": "17:8.1",

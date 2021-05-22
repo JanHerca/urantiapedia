@@ -35,6 +35,7 @@
         {
             "section_index": 1,
             "section_ref": "21:1",
+            "section_title": "1. Luoja-Poikien alkuperä ja olemus",
             "pars": [
                 {
                     "par_ref": "21:1.1",
@@ -61,6 +62,7 @@
         {
             "section_index": 2,
             "section_ref": "21:2",
+            "section_title": "2. Paikallisuniversumien Luojat",
             "pars": [
                 {
                     "par_ref": "21:2.1",
@@ -127,6 +129,7 @@
         {
             "section_index": 3,
             "section_ref": "21:3",
+            "section_title": "3. Paikallisuniversumisuvereenisuus",
             "pars": [
                 {
                     "par_ref": "21:3.1",
@@ -253,6 +256,7 @@
         {
             "section_index": 4,
             "section_ref": "21:4",
+            "section_title": "4. Mikaelien lahjoittautumiset",
             "pars": [
                 {
                     "par_ref": "21:4.1",
@@ -289,6 +293,7 @@
         {
             "section_index": 5,
             "section_ref": "21:5",
+            "section_title": "5. Mestari-Poikien suhde universumiin",
             "pars": [
                 {
                     "par_ref": "21:5.1",
@@ -345,6 +350,7 @@
         {
             "section_index": 6,
             "section_ref": "21:6",
+            "section_title": "6. Mestari-Mikaelien tulevaisuus",
             "pars": [
                 {
                     "par_ref": "21:6.1",

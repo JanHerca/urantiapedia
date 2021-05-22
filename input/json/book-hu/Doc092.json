@@ -35,6 +35,7 @@
         {
             "section_index": 1,
             "section_ref": "92:1",
+            "section_title": "1. A vallás evolúciós természete",
             "pars": [
                 {
                     "par_ref": "92:1.1",
@@ -66,6 +67,7 @@
         {
             "section_index": 2,
             "section_ref": "92:2",
+            "section_title": "2. A vallás és az erkölcsök",
             "pars": [
                 {
                     "par_ref": "92:2.1",
@@ -102,6 +104,7 @@
         {
             "section_index": 3,
             "section_ref": "92:3",
+            "section_title": "3. Az evolúciós vallás természete",
             "pars": [
                 {
                     "par_ref": "92:3.1",
@@ -158,6 +161,7 @@
         {
             "section_index": 4,
             "section_ref": "92:4",
+            "section_title": "4. A kinyilatkoztatás ajándéka",
             "pars": [
                 {
                     "par_ref": "92:4.1",
@@ -209,6 +213,7 @@
         {
             "section_index": 5,
             "section_ref": "92:5",
+            "section_title": "5. A nagy vallási vezetők",
             "pars": [
                 {
                     "par_ref": "92:5.1",
@@ -295,6 +300,7 @@
         {
             "section_index": 6,
             "section_ref": "92:6",
+            "section_title": "6. Az összetett vallások",
             "pars": [
                 {
                     "par_ref": "92:6.1",
@@ -401,6 +407,7 @@
         {
             "section_index": 7,
             "section_ref": "92:7",
+            "section_title": "7. A vallás továbbfejlődése",
             "pars": [
                 {
                     "par_ref": "92:7.1",

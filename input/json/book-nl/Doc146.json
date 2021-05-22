@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "146:1",
+            "section_title": "1. De prediking te Rimmon",
             "pars": [
                 {
                     "par_ref": "146:1.1",
@@ -46,6 +47,7 @@
         {
             "section_index": 2,
             "section_ref": "146:2",
+            "section_title": "2. In Jotbata",
             "pars": [
                 {
                     "par_ref": "146:2.1",
@@ -142,6 +144,7 @@
         {
             "section_index": 3,
             "section_ref": "146:3",
+            "section_title": "3. Het oponthoud te Rama",
             "pars": [
                 {
                     "par_ref": "146:3.1",
@@ -203,6 +206,7 @@
         {
             "section_index": 4,
             "section_ref": "146:4",
+            "section_title": "4. Het evangelie in Iron",
             "pars": [
                 {
                     "par_ref": "146:4.1",
@@ -239,6 +243,7 @@
         {
             "section_index": 5,
             "section_ref": "146:5",
+            "section_title": "5. Terug in Kana",
             "pars": [
                 {
                     "par_ref": "146:5.1",
@@ -260,6 +265,7 @@
         {
             "section_index": 6,
             "section_ref": "146:6",
+            "section_title": "6. Naïn en de zoon van de weduwe",
             "pars": [
                 {
                     "par_ref": "146:6.1",
@@ -286,6 +292,7 @@
         {
             "section_index": 7,
             "section_ref": "146:7",
+            "section_title": "7. In Endor",
             "pars": [
                 {
                     "par_ref": "146:7.1",

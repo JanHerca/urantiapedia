@@ -20,7 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "87:1",
-            "section_title": "1. הפחד מפני רוחות הרפאים",
+            "section_title": "\t1. הפחד מפני רוחות הרפאים",
             "pars": [
                 {
                     "par_ref": "87:1.1",
@@ -52,7 +52,7 @@
         {
             "section_index": 2,
             "section_ref": "87:2",
-            "section_title": "2. פיוס רוחות הרפאים",
+            "section_title": "\t2. פיוס רוחות הרפאים",
             "pars": [
                 {
                     "par_ref": "87:2.1",
@@ -109,7 +109,7 @@
         {
             "section_index": 3,
             "section_ref": "87:3",
-            "section_title": "3. עבודת האבות הקדמונים",
+            "section_title": "\t3. עבודת האבות הקדמונים",
             "pars": [
                 {
                     "par_ref": "87:3.1",
@@ -141,7 +141,7 @@
         {
             "section_index": 4,
             "section_ref": "87:4",
-            "section_title": "4. רוחות רפאים טובות ורעות",
+            "section_title": "\t4. רוחות רפאים טובות ורעות",
             "pars": [
                 {
                     "par_ref": "87:4.1",
@@ -183,7 +183,7 @@
         {
             "section_index": 5,
             "section_ref": "87:5",
-            "section_title": "5. כת עבודת רוחות הרפאים המתקדמת",
+            "section_title": "\t5. כת עבודת רוחות הרפאים המתקדמת",
             "pars": [
                 {
                     "par_ref": "87:5.1",
@@ -260,7 +260,7 @@
         {
             "section_index": 6,
             "section_ref": "87:6",
-            "section_title": "6. כפייה וגירוש שדים",
+            "section_title": "\t6. כפייה וגירוש שדים",
             "pars": [
                 {
                     "par_ref": "87:6.1",
@@ -352,7 +352,7 @@
         {
             "section_index": 7,
             "section_ref": "87:7",
-            "section_title": "7. טבע עבודת הכָּתות",
+            "section_title": "\t7. טבע עבודת הכָּתות",
             "pars": [
                 {
                     "par_ref": "87:7.1",

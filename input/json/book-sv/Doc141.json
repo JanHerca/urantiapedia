@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "141:1",
+            "section_title": "1. Avfärden från Galiléen",
             "pars": [
                 {
                     "par_ref": "141:1.1",
@@ -51,6 +52,7 @@
         {
             "section_index": 2,
             "section_ref": "141:2",
+            "section_title": "2. Guds lag och Faderns vilja",
             "pars": [
                 {
                     "par_ref": "141:2.1",
@@ -72,6 +74,7 @@
         {
             "section_index": 3,
             "section_ref": "141:3",
+            "section_title": "3. Vistelsen i Amathus",
             "pars": [
                 {
                     "par_ref": "141:3.1",
@@ -118,6 +121,7 @@
         {
             "section_index": 4,
             "section_ref": "141:4",
+            "section_title": "4. Undervisning om Fadern",
             "pars": [
                 {
                     "par_ref": "141:4.1",
@@ -169,6 +173,7 @@
         {
             "section_index": 5,
             "section_ref": "141:5",
+            "section_title": "5. Andlig enighet",
             "pars": [
                 {
                     "par_ref": "141:5.1",
@@ -195,6 +200,7 @@
         {
             "section_index": 6,
             "section_ref": "141:6",
+            "section_title": "6. Sista veckan i Amathus",
             "pars": [
                 {
                     "par_ref": "141:6.1",
@@ -226,6 +232,7 @@
         {
             "section_index": 7,
             "section_ref": "141:7",
+            "section_title": "7. I Betania bortom Jordan",
             "pars": [
                 {
                     "par_ref": "141:7.1",
@@ -307,6 +314,7 @@
         {
             "section_index": 8,
             "section_ref": "141:8",
+            "section_title": "8. Arbetet i Jeriko",
             "pars": [
                 {
                     "par_ref": "141:8.1",
@@ -328,6 +336,7 @@
         {
             "section_index": 9,
             "section_ref": "141:9",
+            "section_title": "9. Avfärden till Jerusalem",
             "pars": [
                 {
                     "par_ref": "141:9.1",

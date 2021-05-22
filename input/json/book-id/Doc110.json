@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "110:1",
+            "section_title": "1. Mendiami Batin Fana",
             "pars": [
                 {
                     "par_ref": "110:1.1",
@@ -56,6 +57,7 @@
         {
             "section_index": 2,
             "section_ref": "110:2",
+            "section_title": "2. Pelaras dan Kehendak Manusia",
             "pars": [
                 {
                     "par_ref": "110:2.1",
@@ -92,6 +94,7 @@
         {
             "section_index": 3,
             "section_ref": "110:3",
+            "section_title": "3. Kerjasama dengan Pelaras",
             "pars": [
                 {
                     "par_ref": "110:3.1",
@@ -148,6 +151,7 @@
         {
             "section_index": 4,
             "section_ref": "110:4",
+            "section_title": "4. Pekerjaan Pelaras dalam Batin",
             "pars": [
                 {
                     "par_ref": "110:4.1",
@@ -184,6 +188,7 @@
         {
             "section_index": 5,
             "section_ref": "110:5",
+            "section_title": "5. Konsep-konsep Keliru tentang Bimbingan Pelaras",
             "pars": [
                 {
                     "par_ref": "110:5.1",
@@ -225,6 +230,7 @@
         {
             "section_index": 6,
             "section_ref": "110:6",
+            "section_title": "6. Tujuh Lingkaran Psikis",
             "pars": [
                 {
                     "par_ref": "110:6.1",
@@ -341,6 +347,7 @@
         {
             "section_index": 7,
             "section_ref": "110:7",
+            "section_title": "7. Pencapaian Kebakaan",
             "pars": [
                 {
                     "par_ref": "110:7.1",

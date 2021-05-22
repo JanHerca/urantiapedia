@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "138:1",
+            "section_title": "1. Le istruzioni finali",
             "pars": [
                 {
                     "par_ref": "138:1.1",
@@ -51,6 +52,7 @@
         {
             "section_index": 2,
             "section_ref": "138:2",
+            "section_title": "2. La scelta dei sei",
             "pars": [
                 {
                     "par_ref": "138:2.1",
@@ -107,6 +109,7 @@
         {
             "section_index": 3,
             "section_ref": "138:3",
+            "section_title": "3. La chiamata di Matteo e Simone",
             "pars": [
                 {
                     "par_ref": "138:3.1",
@@ -153,6 +156,7 @@
         {
             "section_index": 4,
             "section_ref": "138:4",
+            "section_title": "4. La chiamata dei gemelli",
             "pars": [
                 {
                     "par_ref": "138:4.1",
@@ -179,6 +183,7 @@
         {
             "section_index": 5,
             "section_ref": "138:5",
+            "section_title": "5. La chiamata di Tommaso e Giuda",
             "pars": [
                 {
                     "par_ref": "138:5.1",
@@ -205,6 +210,7 @@
         {
             "section_index": 6,
             "section_ref": "138:6",
+            "section_title": "6. La settimana di preparazione intensiva",
             "pars": [
                 {
                     "par_ref": "138:6.1",
@@ -236,6 +242,7 @@
         {
             "section_index": 7,
             "section_ref": "138:7",
+            "section_title": "7. Una nuova delusione",
             "pars": [
                 {
                     "par_ref": "138:7.1",
@@ -277,6 +284,7 @@
         {
             "section_index": 8,
             "section_ref": "138:8",
+            "section_title": "8. Il primo lavoro dei dodici",
             "pars": [
                 {
                     "par_ref": "138:8.1",
@@ -338,6 +346,7 @@
         {
             "section_index": 9,
             "section_ref": "138:9",
+            "section_title": "9. I cinque mesi di prova",
             "pars": [
                 {
                     "par_ref": "138:9.1",
@@ -359,6 +368,7 @@
         {
             "section_index": 10,
             "section_ref": "138:10",
+            "section_title": "10. L’organizzazione dei dodici",
             "pars": [
                 {
                     "par_ref": "138:10.1",

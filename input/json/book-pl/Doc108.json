@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "108:1",
+            "section_title": "1. Wybór i przydział",
             "pars": [
                 {
                     "par_ref": "108:1.1",
@@ -71,6 +72,7 @@
         {
             "section_index": 2,
             "section_ref": "108:2",
+            "section_title": "2. Warunki wstępne zamieszkania przez Dostrajacza",
             "pars": [
                 {
                     "par_ref": "108:2.1",
@@ -132,6 +134,7 @@
         {
             "section_index": 3,
             "section_ref": "108:3",
+            "section_title": "3. Organizacja i administracja",
             "pars": [
                 {
                     "par_ref": "108:3.1",
@@ -188,6 +191,7 @@
         {
             "section_index": 4,
             "section_ref": "108:4",
+            "section_title": "4. Powiązania z innymi wpływami duchowymi",
             "pars": [
                 {
                     "par_ref": "108:4.1",
@@ -219,6 +223,7 @@
         {
             "section_index": 5,
             "section_ref": "108:5",
+            "section_title": "5. Misja Dostrajacza",
             "pars": [
                 {
                     "par_ref": "108:5.1",
@@ -275,6 +280,7 @@
         {
             "section_index": 6,
             "section_ref": "108:6",
+            "section_title": "6. Bóg w człowieku",
             "pars": [
                 {
                     "par_ref": "108:6.1",

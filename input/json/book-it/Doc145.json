@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "145:1",
+            "section_title": "1. La retata di pesce",
             "pars": [
                 {
                     "par_ref": "145:1.1",
@@ -46,6 +47,7 @@
         {
             "section_index": 2,
             "section_ref": "145:2",
+            "section_title": "2. Un pomeriggio alla sinagoga",
             "pars": [
                 {
                     "par_ref": "145:2.1",
@@ -137,6 +139,7 @@
         {
             "section_index": 3,
             "section_ref": "145:3",
+            "section_title": "3. La guarigione al tramonto del sole",
             "pars": [
                 {
                     "par_ref": "145:3.1",
@@ -218,6 +221,7 @@
         {
             "section_index": 4,
             "section_ref": "145:4",
+            "section_title": "4. La sera dopo",
             "pars": [
                 {
                     "par_ref": "145:4.1",
@@ -239,6 +243,7 @@
         {
             "section_index": 5,
             "section_ref": "145:5",
+            "section_title": "5. La domenica mattina presto",
             "pars": [
                 {
                     "par_ref": "145:5.1",

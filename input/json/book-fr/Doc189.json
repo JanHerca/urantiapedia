@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "189:1",
+            "section_title": "1. Le transit morontiel",
             "pars": [
                 {
                     "par_ref": "189:1.1",
@@ -96,6 +97,7 @@
         {
             "section_index": 2,
             "section_ref": "189:2",
+            "section_title": "2. Le corps matériel de Jésus",
             "pars": [
                 {
                     "par_ref": "189:2.1",
@@ -147,6 +149,7 @@
         {
             "section_index": 3,
             "section_ref": "189:3",
+            "section_title": "3. La résurrection dispensationnelle",
             "pars": [
                 {
                     "par_ref": "189:3.1",
@@ -178,6 +181,7 @@
         {
             "section_index": 4,
             "section_ref": "189:4",
+            "section_title": "4. La découverte du tombeau vide",
             "pars": [
                 {
                     "par_ref": "189:4.1",
@@ -254,6 +258,7 @@
         {
             "section_index": 5,
             "section_ref": "189:5",
+            "section_title": "5. Pierre et Jean au tombeau",
             "pars": [
                 {
                     "par_ref": "189:5.1",

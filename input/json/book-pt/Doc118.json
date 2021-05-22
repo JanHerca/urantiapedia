@@ -75,6 +75,7 @@
         {
             "section_index": 1,
             "section_ref": "118:1",
+            "section_title": "1. Tempo e Eternidade",
             "pars": [
                 {
                     "par_ref": "118:1.1",
@@ -131,6 +132,7 @@
         {
             "section_index": 2,
             "section_ref": "118:2",
+            "section_title": "2. Onipresença e Ubiqüidade",
             "pars": [
                 {
                     "par_ref": "118:2.1",
@@ -162,6 +164,7 @@
         {
             "section_index": 3,
             "section_ref": "118:3",
+            "section_title": "3. As Relações de Tempo e Espaço",
             "pars": [
                 {
                     "par_ref": "118:3.1",
@@ -203,6 +206,7 @@
         {
             "section_index": 4,
             "section_ref": "118:4",
+            "section_title": "4. Causação Primária e Secundária",
             "pars": [
                 {
                     "par_ref": "118:4.1",
@@ -244,6 +248,7 @@
         {
             "section_index": 5,
             "section_ref": "118:5",
+            "section_title": "5. Onipotência e Compossibilidade",
             "pars": [
                 {
                     "par_ref": "118:5.1",
@@ -265,6 +270,7 @@
         {
             "section_index": 6,
             "section_ref": "118:6",
+            "section_title": "6. Onipotência e Onificência",
             "pars": [
                 {
                     "par_ref": "118:6.1",
@@ -311,6 +317,7 @@
         {
             "section_index": 7,
             "section_ref": "118:7",
+            "section_title": "7. A Onisciência e a Predestinação",
             "pars": [
                 {
                     "par_ref": "118:7.1",
@@ -357,6 +364,7 @@
         {
             "section_index": 8,
             "section_ref": "118:8",
+            "section_title": "8. Controle e Supracontrole",
             "pars": [
                 {
                     "par_ref": "118:8.1",
@@ -418,6 +426,7 @@
         {
             "section_index": 9,
             "section_ref": "118:9",
+            "section_title": "9. Os Mecanismos do Universo",
             "pars": [
                 {
                     "par_ref": "118:9.1",
@@ -469,6 +478,7 @@
         {
             "section_index": 10,
             "section_ref": "118:10",
+            "section_title": "10. As Funções da Providência",
             "pars": [
                 {
                     "par_ref": "118:10.1",

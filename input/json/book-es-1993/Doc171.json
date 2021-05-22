@@ -45,6 +45,7 @@
         {
             "section_index": 1,
             "section_ref": "171:1",
+            "section_title": "1. La Partida de Pella",
             "pars": [
                 {
                     "par_ref": "171:1.1",
@@ -81,6 +82,7 @@
         {
             "section_index": 2,
             "section_ref": "171:2",
+            "section_title": "2. Sobre Cómo Calcular el Gasto",
             "pars": [
                 {
                     "par_ref": "171:2.1",
@@ -117,6 +119,7 @@
         {
             "section_index": 3,
             "section_ref": "171:3",
+            "section_title": "3. La Gira en Perea",
             "pars": [
                 {
                     "par_ref": "171:3.1",
@@ -148,6 +151,7 @@
         {
             "section_index": 4,
             "section_ref": "171:4",
+            "section_title": "4. La Enseñanza en Livias",
             "pars": [
                 {
                     "par_ref": "171:4.1",
@@ -199,6 +203,7 @@
         {
             "section_index": 5,
             "section_ref": "171:5",
+            "section_title": "5. El Ciego en Jericó",
             "pars": [
                 {
                     "par_ref": "171:5.1",
@@ -220,6 +225,7 @@
         {
             "section_index": 6,
             "section_ref": "171:6",
+            "section_title": "6. La Visita a Zaqueo",
             "pars": [
                 {
                     "par_ref": "171:6.1",
@@ -246,6 +252,7 @@
         {
             "section_index": 7,
             "section_ref": "171:7",
+            "section_title": "7. «Al Pasar Jesús»",
             "pars": [
                 {
                     "par_ref": "171:7.1",
@@ -302,6 +309,7 @@
         {
             "section_index": 8,
             "section_ref": "171:8",
+            "section_title": "8. La Parábola de las Minas",
             "pars": [
                 {
                     "par_ref": "171:8.1",

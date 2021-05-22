@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "129:1",
+            "section_title": "1. Det tjugosjunde året (21 e.Kr.)",
             "pars": [
                 {
                     "par_ref": "129:1.1",
@@ -106,6 +107,7 @@
         {
             "section_index": 2,
             "section_ref": "129:2",
+            "section_title": "2. Det tjugoåttonde året (22 e.Kr.)",
             "pars": [
                 {
                     "par_ref": "129:2.1",
@@ -167,6 +169,7 @@
         {
             "section_index": 3,
             "section_ref": "129:3",
+            "section_title": "3. Det tjugonionde året (23 e.Kr.)",
             "pars": [
                 {
                     "par_ref": "129:3.1",
@@ -218,6 +221,7 @@
         {
             "section_index": 4,
             "section_ref": "129:4",
+            "section_title": "4. Människan Jesus",
             "pars": [
                 {
                     "par_ref": "129:4.1",

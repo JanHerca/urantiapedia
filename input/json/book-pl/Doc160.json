@@ -15,6 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "160:1",
+            "section_title": "1. Grecka filozofia Rodana",
             "pars": [
                 {
                     "par_ref": "160:1.1",
@@ -96,6 +97,7 @@
         {
             "section_index": 2,
             "section_ref": "160:2",
+            "section_title": "2. Sztuka życia",
             "pars": [
                 {
                     "par_ref": "160:2.1",
@@ -152,6 +154,7 @@
         {
             "section_index": 3,
             "section_ref": "160:3",
+            "section_title": "3. Pokusy dojrzałości",
             "pars": [
                 {
                     "par_ref": "160:3.1",
@@ -183,6 +186,7 @@
         {
             "section_index": 4,
             "section_ref": "160:4",
+            "section_title": "4. Równowaga dojrzałości",
             "pars": [
                 {
                     "par_ref": "160:4.1",
@@ -269,6 +273,7 @@
         {
             "section_index": 5,
             "section_ref": "160:5",
+            "section_title": "5. Religia ideału",
             "pars": [
                 {
                     "par_ref": "160:5.1",

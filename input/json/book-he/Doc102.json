@@ -25,7 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "102:1",
-            "section_title": "1. ביטחונות של אמונה",
+            "section_title": "\t1. ביטחונות של אמונה",
             "pars": [
                 {
                     "par_ref": "102:1.1",
@@ -62,7 +62,7 @@
         {
             "section_index": 2,
             "section_ref": "102:2",
-            "section_title": "2. דת ומציאות",
+            "section_title": "\t2. דת ומציאות",
             "pars": [
                 {
                     "par_ref": "102:2.1",
@@ -114,7 +114,7 @@
         {
             "section_index": 3,
             "section_ref": "102:3",
-            "section_title": "3. ידע, חכמה ותובנה",
+            "section_title": "\t3. ידע, חכמה ותובנה",
             "pars": [
                 {
                     "par_ref": "102:3.1",
@@ -196,7 +196,7 @@
         {
             "section_index": 4,
             "section_ref": "102:4",
-            "section_title": "4. עובדת ההתנסות",
+            "section_title": "\t4. עובדת ההתנסות",
             "pars": [
                 {
                     "par_ref": "102:4.1",
@@ -233,7 +233,7 @@
         {
             "section_index": 5,
             "section_ref": "102:5",
-            "section_title": "5. עליונות הפוטנציאל התכליתי",
+            "section_title": "\t5. עליונות הפוטנציאל התכליתי",
             "pars": [
                 {
                     "par_ref": "102:5.1",
@@ -255,7 +255,7 @@
         {
             "section_index": 6,
             "section_ref": "102:6",
-            "section_title": "6. ודאותה של האמונה הדתית",
+            "section_title": "\t6. ודאותה של האמונה הדתית",
             "pars": [
                 {
                     "par_ref": "102:6.1",
@@ -312,7 +312,7 @@
         {
             "section_index": 7,
             "section_ref": "102:7",
-            "section_title": "7. ודאותו של האלוהי",
+            "section_title": "\t7. ודאותו של האלוהי",
             "pars": [
                 {
                     "par_ref": "102:7.1",
@@ -369,7 +369,7 @@
         {
             "section_index": 8,
             "section_ref": "102:8",
-            "section_title": "8. ההוכחות לדת",
+            "section_title": "\t8. ההוכחות לדת",
             "pars": [
                 {
                     "par_ref": "102:8.1",

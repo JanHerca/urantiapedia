@@ -45,7 +45,7 @@
         {
             "section_index": 1,
             "section_ref": "103:1",
-            "section_title": "1. הפילוסופיה של הדת",
+            "section_title": "\t1. הפילוסופיה של הדת",
             "pars": [
                 {
                     "par_ref": "103:1.1",
@@ -82,7 +82,7 @@
         {
             "section_index": 2,
             "section_ref": "103:2",
-            "section_title": "2. הדת והיחיד",
+            "section_title": "\t2. הדת והיחיד",
             "pars": [
                 {
                     "par_ref": "103:2.1",
@@ -139,7 +139,7 @@
         {
             "section_index": 3,
             "section_ref": "103:3",
-            "section_title": "3. דת והגזע האנושי",
+            "section_title": "\t3. דת והגזע האנושי",
             "pars": [
                 {
                     "par_ref": "103:3.1",
@@ -171,7 +171,7 @@
         {
             "section_index": 4,
             "section_ref": "103:4",
-            "section_title": "4. התייחדות רוחנית",
+            "section_title": "\t4. התייחדות רוחנית",
             "pars": [
                 {
                     "par_ref": "103:4.1",
@@ -203,7 +203,7 @@
         {
             "section_index": 5,
             "section_ref": "103:5",
-            "section_title": "5. מקור האידיאלים",
+            "section_title": "\t5. מקור האידיאלים",
             "pars": [
                 {
                     "par_ref": "103:5.1",
@@ -270,7 +270,7 @@
         {
             "section_index": 6,
             "section_ref": "103:6",
-            "section_title": "6. תיאום פילוסופי",
+            "section_title": "\t6. תיאום פילוסופי",
             "pars": [
                 {
                     "par_ref": "103:6.1",
@@ -352,7 +352,7 @@
         {
             "section_index": 7,
             "section_ref": "103:7",
-            "section_title": "7. מדע ודת",
+            "section_title": "\t7. מדע ודת",
             "pars": [
                 {
                     "par_ref": "103:7.1",
@@ -434,7 +434,7 @@
         {
             "section_index": 8,
             "section_ref": "103:8",
-            "section_title": "8. פילוסופיה ודת",
+            "section_title": "\t8. פילוסופיה ודת",
             "pars": [
                 {
                     "par_ref": "103:8.1",
@@ -471,7 +471,7 @@
         {
             "section_index": 9,
             "section_ref": "103:9",
-            "section_title": "9. מהות הדת",
+            "section_title": "\t9. מהות הדת",
             "pars": [
                 {
                     "par_ref": "103:9.1",

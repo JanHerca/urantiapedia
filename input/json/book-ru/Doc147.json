@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "147:1",
+            "section_title": "1. Слуга центуриона",
             "pars": [
                 {
                     "par_ref": "147:1.1",
@@ -46,6 +47,7 @@
         {
             "section_index": 2,
             "section_ref": "147:2",
+            "section_title": "2. Путешествие в Иерусалим",
             "pars": [
                 {
                     "par_ref": "147:2.1",
@@ -72,6 +74,7 @@
         {
             "section_index": 3,
             "section_ref": "147:3",
+            "section_title": "3. У купальни Вифезда",
             "pars": [
                 {
                     "par_ref": "147:3.1",
@@ -108,6 +111,7 @@
         {
             "section_index": 4,
             "section_ref": "147:4",
+            "section_title": "4. Правило жизни",
             "pars": [
                 {
                     "par_ref": "147:4.1",
@@ -164,6 +168,7 @@
         {
             "section_index": 5,
             "section_ref": "147:5",
+            "section_title": "5. В гостях у фарисея Симона",
             "pars": [
                 {
                     "par_ref": "147:5.1",
@@ -220,6 +225,7 @@
         {
             "section_index": 6,
             "section_ref": "147:6",
+            "section_title": "6. Возвращение в Капернаум",
             "pars": [
                 {
                     "par_ref": "147:6.1",
@@ -256,6 +262,7 @@
         {
             "section_index": 7,
             "section_ref": "147:7",
+            "section_title": "7. Снова в Капернауме",
             "pars": [
                 {
                     "par_ref": "147:7.1",
@@ -277,6 +284,7 @@
         {
             "section_index": 8,
             "section_ref": "147:8",
+            "section_title": "8. Праздник духовной благости",
             "pars": [
                 {
                     "par_ref": "147:8.1",

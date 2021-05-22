@@ -25,7 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "90:1",
-            "section_title": "1. השמאנים הראשונים – המרפאים",
+            "section_title": "\t1. השמאנים הראשונים – המרפאים",
             "pars": [
                 {
                     "par_ref": "90:1.1",
@@ -62,7 +62,7 @@
         {
             "section_index": 2,
             "section_ref": "90:2",
-            "section_title": "2. תִרגולים שמאניים",
+            "section_title": "\t2. תִרגולים שמאניים",
             "pars": [
                 {
                     "par_ref": "90:2.1",
@@ -134,7 +134,7 @@
         {
             "section_index": 3,
             "section_ref": "90:3",
-            "section_title": "3. התיאוריה השמאנית על אודות המחלות והמוות",
+            "section_title": "\t3. התיאוריה השמאנית על אודות המחלות והמוות",
             "pars": [
                 {
                     "par_ref": "90:3.1",
@@ -191,7 +191,7 @@
         {
             "section_index": 4,
             "section_ref": "90:4",
-            "section_title": "4. הרפואה תחת השמאנים",
+            "section_title": "\t4. הרפואה תחת השמאנים",
             "pars": [
                 {
                     "par_ref": "90:4.1",
@@ -243,7 +243,7 @@
         {
             "section_index": 5,
             "section_ref": "90:5",
-            "section_title": "5. כוהנים וטקסים",
+            "section_title": "\t5. כוהנים וטקסים",
             "pars": [
                 {
                     "par_ref": "90:5.1",

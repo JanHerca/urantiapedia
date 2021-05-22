@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "10:1",
+            "section_title": "1. Ensimmäisen Lähteen ja Keskuksen minuuden jakaminen",
             "pars": [
                 {
                     "par_ref": "10:1.1",
@@ -61,6 +62,7 @@
         {
             "section_index": 2,
             "section_ref": "10:2",
+            "section_title": "2. Jumaluuden personoituminen",
             "pars": [
                 {
                     "par_ref": "10:2.1",
@@ -107,6 +109,7 @@
         {
             "section_index": 3,
             "section_ref": "10:3",
+            "section_title": "3. Jumaluuden kolme persoonaa",
             "pars": [
                 {
                     "par_ref": "10:3.1",
@@ -208,6 +211,7 @@
         {
             "section_index": 4,
             "section_ref": "10:4",
+            "section_title": "4. Jumaluuden kolminaisuusunioni",
             "pars": [
                 {
                     "par_ref": "10:4.1",
@@ -249,6 +253,7 @@
         {
             "section_index": 5,
             "section_ref": "10:5",
+            "section_title": "5. Kolminaisuuden toiminnot",
             "pars": [
                 {
                     "par_ref": "10:5.1",
@@ -295,6 +300,7 @@
         {
             "section_index": 6,
             "section_ref": "10:6",
+            "section_title": "6. Kolminaisuuden Stationaariset Pojat",
             "pars": [
                 {
                     "par_ref": "10:6.1",
@@ -391,6 +397,7 @@
         {
             "section_index": 7,
             "section_ref": "10:7",
+            "section_title": "7. Korkeimmuuden harjoittama ylivalvonta",
             "pars": [
                 {
                     "par_ref": "10:7.1",
@@ -427,6 +434,7 @@
         {
             "section_index": 8,
             "section_ref": "10:8",
+            "section_title": "8. Finiittisen tuolla puolen vaikuttava kolminaisuus",
             "pars": [
                 {
                     "par_ref": "10:8.1",

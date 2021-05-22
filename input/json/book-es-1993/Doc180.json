@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "180:1",
+            "section_title": "1. El Nuevo Mandamiento",
             "pars": [
                 {
                     "par_ref": "180:1.1",
@@ -61,6 +62,7 @@
         {
             "section_index": 2,
             "section_ref": "180:2",
+            "section_title": "2. La Vid y las Ramas",
             "pars": [
                 {
                     "par_ref": "180:2.1",
@@ -102,6 +104,7 @@
         {
             "section_index": 3,
             "section_ref": "180:3",
+            "section_title": "3. La Enemistad del Mundo",
             "pars": [
                 {
                     "par_ref": "180:3.1",
@@ -158,6 +161,7 @@
         {
             "section_index": 4,
             "section_ref": "180:4",
+            "section_title": "4. El Ayudante Prometido",
             "pars": [
                 {
                     "par_ref": "180:4.1",
@@ -194,6 +198,7 @@
         {
             "section_index": 5,
             "section_ref": "180:5",
+            "section_title": "5. El Espíritu de la Verdad",
             "pars": [
                 {
                     "par_ref": "180:5.1",
@@ -260,6 +265,7 @@
         {
             "section_index": 6,
             "section_ref": "180:6",
+            "section_title": "6. La Necesidad de Partir",
             "pars": [
                 {
                     "par_ref": "180:6.1",

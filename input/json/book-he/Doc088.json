@@ -20,7 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "88:1",
-            "section_title": "1. האמונה בפטישים",
+            "section_title": "\t1. האמונה בפטישים",
             "pars": [
                 {
                     "par_ref": "88:1.1",
@@ -77,7 +77,7 @@
         {
             "section_index": 2,
             "section_ref": "88:2",
-            "section_title": "3. האבולוציה של הפטיש",
+            "section_title": "\t3. האבולוציה של הפטיש",
             "pars": [
                 {
                     "par_ref": "88:2.1",
@@ -134,7 +134,7 @@
         {
             "section_index": 3,
             "section_ref": "88:3",
-            "section_title": "3. טוֹטֶמִיזְם",
+            "section_title": "\t3. טוֹטֶמִיזְם",
             "pars": [
                 {
                     "par_ref": "88:3.1",
@@ -161,7 +161,7 @@
         {
             "section_index": 4,
             "section_ref": "88:4",
-            "section_title": "4. קסם",
+            "section_title": "\t4. קסם",
             "pars": [
                 {
                     "par_ref": "88:4.1",
@@ -208,7 +208,7 @@
         {
             "section_index": 5,
             "section_ref": "88:5",
-            "section_title": "5. קמיעות קסומים",
+            "section_title": "\t5. קמיעות קסומים",
             "pars": [
                 {
                     "par_ref": "88:5.1",
@@ -240,7 +240,7 @@
         {
             "section_index": 6,
             "section_ref": "88:6",
-            "section_title": "6. השימוש בקסם",
+            "section_title": "\t6. השימוש בקסם",
             "pars": [
                 {
                     "par_ref": "88:6.1",

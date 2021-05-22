@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "4:1",
+            "section_title": "1. Atitudinea Tatălui în univers",
             "pars": [
                 {
                     "par_ref": "4:1.1",
@@ -91,6 +92,7 @@
         {
             "section_index": 2,
             "section_ref": "4:2",
+            "section_title": "2. Dumnezeu şi natura",
             "pars": [
                 {
                     "par_ref": "4:2.1",
@@ -137,6 +139,7 @@
         {
             "section_index": 3,
             "section_ref": "4:3",
+            "section_title": "3. Caracterul neschimbător al lui Dumnezeu",
             "pars": [
                 {
                     "par_ref": "4:3.1",
@@ -178,6 +181,7 @@
         {
             "section_index": 4,
             "section_ref": "4:4",
+            "section_title": "4. Realizarea lui Dumnezeu",
             "pars": [
                 {
                     "par_ref": "4:4.1",
@@ -229,6 +233,7 @@
         {
             "section_index": 5,
             "section_ref": "4:5",
+            "section_title": "5. Idei greşite despre Dumnezeu",
             "pars": [
                 {
                     "par_ref": "4:5.1",

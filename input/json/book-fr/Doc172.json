@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "172:1",
+            "section_title": "1. Le sabbat à Béthanie",
             "pars": [
                 {
                     "par_ref": "172:1.1",
@@ -76,6 +77,7 @@
         {
             "section_index": 2,
             "section_ref": "172:2",
+            "section_title": "2. Le dimanche matin avec les apôtres",
             "pars": [
                 {
                     "par_ref": "172:2.1",
@@ -107,6 +109,7 @@
         {
             "section_index": 3,
             "section_ref": "172:3",
+            "section_title": "3. Le départ pour Jérusalem",
             "pars": [
                 {
                     "par_ref": "172:3.1",
@@ -193,6 +196,7 @@
         {
             "section_index": 4,
             "section_ref": "172:4",
+            "section_title": "4. La visite au temple",
             "pars": [
                 {
                     "par_ref": "172:4.1",
@@ -214,6 +218,7 @@
         {
             "section_index": 5,
             "section_ref": "172:5",
+            "section_title": "5. L’attitude des apôtres",
             "pars": [
                 {
                     "par_ref": "172:5.1",

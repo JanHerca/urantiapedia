@@ -35,7 +35,7 @@
         {
             "section_index": 1,
             "section_ref": "91:1",
-            "section_title": "1. תפילה פרימיטיבית",
+            "section_title": "\t1. תפילה פרימיטיבית",
             "pars": [
                 {
                     "par_ref": "91:1.1",
@@ -72,7 +72,7 @@
         {
             "section_index": 2,
             "section_ref": "91:2",
-            "section_title": "2. התפילה המתפתחת",
+            "section_title": "\t2. התפילה המתפתחת",
             "pars": [
                 {
                     "par_ref": "91:2.1",
@@ -119,7 +119,7 @@
         {
             "section_index": 3,
             "section_ref": "91:3",
-            "section_title": "3. תפילה והאַלְטֵר-אֶגוֹ",
+            "section_title": "\t3. תפילה והאַלְטֵר-אֶגוֹ",
             "pars": [
                 {
                     "par_ref": "91:3.1",
@@ -161,7 +161,7 @@
         {
             "section_index": 4,
             "section_ref": "91:4",
-            "section_title": "4. תפילה אֶתִית",
+            "section_title": "\t4. תפילה אֶתִית",
             "pars": [
                 {
                     "par_ref": "91:4.1",
@@ -193,7 +193,7 @@
         {
             "section_index": 5,
             "section_ref": "91:5",
-            "section_title": "5. השלכות חברתיות של התפילה",
+            "section_title": "\t5. השלכות חברתיות של התפילה",
             "pars": [
                 {
                     "par_ref": "91:5.1",
@@ -235,7 +235,7 @@
         {
             "section_index": 6,
             "section_ref": "91:6",
-            "section_title": "6. מחוזות התפילה",
+            "section_title": "\t6. מחוזות התפילה",
             "pars": [
                 {
                     "par_ref": "91:6.1",
@@ -277,7 +277,7 @@
         {
             "section_index": 7,
             "section_ref": "91:7",
-            "section_title": "7. המיסטיקה, האקסטזה וההשראה",
+            "section_title": "\t7. המיסטיקה, האקסטזה וההשראה",
             "pars": [
                 {
                     "par_ref": "91:7.1",
@@ -349,7 +349,7 @@
         {
             "section_index": 8,
             "section_ref": "91:8",
-            "section_title": "8. התפילה כהתנסות אישית",
+            "section_title": "\t8. התפילה כהתנסות אישית",
             "pars": [
                 {
                     "par_ref": "91:8.1",
@@ -421,7 +421,7 @@
         {
             "section_index": 9,
             "section_ref": "91:9",
-            "section_title": "9. התנאים לתפילה יעילה",
+            "section_title": "\t9. התנאים לתפילה יעילה",
             "pars": [
                 {
                     "par_ref": "91:9.1",

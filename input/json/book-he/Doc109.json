@@ -15,7 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "109:1",
-            "section_title": "1. התפתחות המכווננים",
+            "section_title": "\t1. התפתחות המכווננים",
             "pars": [
                 {
                     "par_ref": "109:1.1",
@@ -47,7 +47,7 @@
         {
             "section_index": 2,
             "section_ref": "109:2",
-            "section_title": "2. מכווננים הפועלים מעצמם",
+            "section_title": "\t2. מכווננים הפועלים מעצמם",
             "pars": [
                 {
                     "par_ref": "109:2.1",
@@ -109,7 +109,7 @@
         {
             "section_index": 3,
             "section_ref": "109:3",
-            "section_title": "3. יחסם של המכווננים לטיפוסים בני-תמותה",
+            "section_title": "\t3. יחסם של המכווננים לטיפוסים בני-תמותה",
             "pars": [
                 {
                     "par_ref": "109:3.1",
@@ -156,7 +156,7 @@
         {
             "section_index": 4,
             "section_ref": "109:4",
-            "section_title": "4. מכווננים ואישיות אנושית",
+            "section_title": "\t4. מכווננים ואישיות אנושית",
             "pars": [
                 {
                     "par_ref": "109:4.1",
@@ -193,7 +193,7 @@
         {
             "section_index": 5,
             "section_ref": "109:5",
-            "section_title": "5. מגבלות חומריות לשכינת מכווננים",
+            "section_title": "\t5. מגבלות חומריות לשכינת מכווננים",
             "pars": [
                 {
                     "par_ref": "109:5.1",
@@ -225,7 +225,7 @@
         {
             "section_index": 6,
             "section_ref": "109:6",
-            "section_title": "6. השתמרות ערכי אמת",
+            "section_title": "\t6. השתמרות ערכי אמת",
             "pars": [
                 {
                     "par_ref": "109:6.1",
@@ -267,7 +267,7 @@
         {
             "section_index": 7,
             "section_ref": "109:7",
-            "section_title": "7. ייעוד המכווננים האישיים",
+            "section_title": "\t7. ייעוד המכווננים האישיים",
             "pars": [
                 {
                     "par_ref": "109:7.1",

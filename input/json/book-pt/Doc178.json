@@ -15,6 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "178:1",
+            "section_title": "1. Discurso sobre Filiação e Cidadania",
             "pars": [
                 {
                     "par_ref": "178:1.1",
@@ -111,6 +112,7 @@
         {
             "section_index": 2,
             "section_ref": "178:2",
+            "section_title": "2. Após a Refeição do Meio-dia",
             "pars": [
                 {
                     "par_ref": "178:2.1",
@@ -177,6 +179,7 @@
         {
             "section_index": 3,
             "section_ref": "178:3",
+            "section_title": "3. A Caminho da Ceia",
             "pars": [
                 {
                     "par_ref": "178:3.1",

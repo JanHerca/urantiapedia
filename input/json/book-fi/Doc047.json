@@ -30,6 +30,7 @@
         {
             "section_index": 1,
             "section_ref": "47:1",
+            "section_title": "1. Finaliittien maailma",
             "pars": [
                 {
                     "par_ref": "47:1.1",
@@ -66,6 +67,7 @@
         {
             "section_index": 2,
             "section_ref": "47:2",
+            "section_title": "2. Lastenkoehoitola",
             "pars": [
                 {
                     "par_ref": "47:2.1",
@@ -112,6 +114,7 @@
         {
             "section_index": 3,
             "section_ref": "47:3",
+            "section_title": "3. Ensimmäinen mansiomaailma",
             "pars": [
                 {
                     "par_ref": "47:3.1",
@@ -178,6 +181,7 @@
         {
             "section_index": 4,
             "section_ref": "47:4",
+            "section_title": "4. Toinen mansiomaailma",
             "pars": [
                 {
                     "par_ref": "47:4.1",
@@ -224,6 +228,7 @@
         {
             "section_index": 5,
             "section_ref": "47:5",
+            "section_title": "5. Kolmas mansiomaailma",
             "pars": [
                 {
                     "par_ref": "47:5.1",
@@ -245,6 +250,7 @@
         {
             "section_index": 6,
             "section_ref": "47:6",
+            "section_title": "6. Neljäs mansiomaailma",
             "pars": [
                 {
                     "par_ref": "47:6.1",
@@ -271,6 +277,7 @@
         {
             "section_index": 7,
             "section_ref": "47:7",
+            "section_title": "7. Viides mansiomaailma",
             "pars": [
                 {
                     "par_ref": "47:7.1",
@@ -302,6 +309,7 @@
         {
             "section_index": 8,
             "section_ref": "47:8",
+            "section_title": "8. Kuudes mansiomaailma",
             "pars": [
                 {
                     "par_ref": "47:8.1",
@@ -343,6 +351,7 @@
         {
             "section_index": 9,
             "section_ref": "47:9",
+            "section_title": "9. Seitsemäs mansiomaailma",
             "pars": [
                 {
                     "par_ref": "47:9.1",
@@ -374,6 +383,7 @@
         {
             "section_index": 10,
             "section_ref": "47:10",
+            "section_title": "10. Jerusemin kansalaisuus",
             "pars": [
                 {
                     "par_ref": "47:10.1",

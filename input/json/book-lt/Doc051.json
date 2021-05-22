@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "51:1",
+            "section_title": "1. Dievo Materialiųjų Sūnų kilmė ir prigimtis",
             "pars": [
                 {
                     "par_ref": "51:1.1",
@@ -71,6 +72,7 @@
         {
             "section_index": 2,
             "section_ref": "51:2",
+            "section_title": "2. Planetų Adomų gabenimas",
             "pars": [
                 {
                     "par_ref": "51:2.1",
@@ -97,6 +99,7 @@
         {
             "section_index": 3,
             "section_ref": "51:3",
+            "section_title": "3. Adominės misijos",
             "pars": [
                 {
                     "par_ref": "51:3.1",
@@ -148,6 +151,7 @@
         {
             "section_index": 4,
             "section_ref": "51:4",
+            "section_title": "4. Šešios evoliucinės rasės",
             "pars": [
                 {
                     "par_ref": "51:4.1",
@@ -194,6 +198,7 @@
         {
             "section_index": 5,
             "section_ref": "51:5",
+            "section_title": "5. Rasinis susiliejimas —",
             "pars": [
                 {
                     "par_ref": "51:5.1",
@@ -235,6 +240,7 @@
         {
             "section_index": 6,
             "section_ref": "51:6",
+            "section_title": "6. Edeninis režimas",
             "pars": [
                 {
                     "par_ref": "51:6.1",
@@ -306,6 +312,7 @@
         {
             "section_index": 7,
             "section_ref": "51:7",
+            "section_title": "7. Suvienytas administravimas",
             "pars": [
                 {
                     "par_ref": "51:7.1",

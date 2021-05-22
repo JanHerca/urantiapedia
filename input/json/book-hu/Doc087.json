@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "87:1",
+            "section_title": "1. A kísértetfélés",
             "pars": [
                 {
                     "par_ref": "87:1.1",
@@ -51,6 +52,7 @@
         {
             "section_index": 2,
             "section_ref": "87:2",
+            "section_title": "2. A kísértetek kiengesztelése",
             "pars": [
                 {
                     "par_ref": "87:2.1",
@@ -107,6 +109,7 @@
         {
             "section_index": 3,
             "section_ref": "87:3",
+            "section_title": "3. Az ősök imádása",
             "pars": [
                 {
                     "par_ref": "87:3.1",
@@ -138,6 +141,7 @@
         {
             "section_index": 4,
             "section_ref": "87:4",
+            "section_title": "4. Jó és rossz szellemkísértetek",
             "pars": [
                 {
                     "par_ref": "87:4.1",
@@ -179,6 +183,7 @@
         {
             "section_index": 5,
             "section_ref": "87:5",
+            "section_title": "5. A fejlődő kísértettisztelet",
             "pars": [
                 {
                     "par_ref": "87:5.1",
@@ -255,6 +260,7 @@
         {
             "section_index": 6,
             "section_ref": "87:6",
+            "section_title": "6. Kikényszerítés és elűzés",
             "pars": [
                 {
                     "par_ref": "87:6.1",
@@ -346,6 +352,7 @@
         {
             "section_index": 7,
             "section_ref": "87:7",
+            "section_title": "7. A tiszteletközösség természete",
             "pars": [
                 {
                     "par_ref": "87:7.1",

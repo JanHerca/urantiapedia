@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "164:1",
+            "section_title": "1. Het verhaal van de barmhartige Samaritaan",
             "pars": [
                 {
                     "par_ref": "164:1.1",
@@ -46,6 +47,7 @@
         {
             "section_index": 2,
             "section_ref": "164:2",
+            "section_title": "2. In Jeruzalem",
             "pars": [
                 {
                     "par_ref": "164:2.1",
@@ -72,6 +74,7 @@
         {
             "section_index": 3,
             "section_ref": "164:3",
+            "section_title": "3. De genezing van de blinde bedelaar",
             "pars": [
                 {
                     "par_ref": "164:3.1",
@@ -158,6 +161,7 @@
         {
             "section_index": 4,
             "section_ref": "164:4",
+            "section_title": "4. Josias voor het Sanhedrin",
             "pars": [
                 {
                     "par_ref": "164:4.1",
@@ -224,6 +228,7 @@
         {
             "section_index": 5,
             "section_ref": "164:5",
+            "section_title": "5. Het onderricht in de zuilengang van Salomo",
             "pars": [
                 {
                     "par_ref": "164:5.1",

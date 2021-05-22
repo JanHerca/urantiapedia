@@ -65,6 +65,7 @@
         {
             "section_index": 1,
             "section_ref": "24:1",
+            "section_title": "1. Os Supervisores dos Circuitos do Universo",
             "pars": [
                 {
                     "par_ref": "24:1.1",
@@ -151,6 +152,7 @@
         {
             "section_index": 2,
             "section_ref": "24:2",
+            "section_title": "2. Os Diretores do Censo",
             "pars": [
                 {
                     "par_ref": "24:2.1",
@@ -202,6 +204,7 @@
         {
             "section_index": 3,
             "section_ref": "24:3",
+            "section_title": "3. Os Ajudantes Pessoais do Espírito Infinito",
             "pars": [
                 {
                     "par_ref": "24:3.1",
@@ -228,6 +231,7 @@
         {
             "section_index": 4,
             "section_ref": "24:4",
+            "section_title": "4. Os Inspetores Associados",
             "pars": [
                 {
                     "par_ref": "24:4.1",
@@ -249,6 +253,7 @@
         {
             "section_index": 5,
             "section_ref": "24:5",
+            "section_title": "5. As Sentinelas Designadas",
             "pars": [
                 {
                     "par_ref": "24:5.1",
@@ -280,6 +285,7 @@
         {
             "section_index": 6,
             "section_ref": "24:6",
+            "section_title": "6. Os Guias dos Graduados",
             "pars": [
                 {
                     "par_ref": "24:6.1",
@@ -331,6 +337,7 @@
         {
             "section_index": 7,
             "section_ref": "24:7",
+            "section_title": "7. A Origem dos Guias dos Graduados",
             "pars": [
                 {
                     "par_ref": "24:7.1",

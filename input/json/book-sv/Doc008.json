@@ -30,6 +30,7 @@
         {
             "section_index": 1,
             "section_ref": "8:1",
+            "section_title": "1. Handlingens Gud",
             "pars": [
                 {
                     "par_ref": "8:1.1",
@@ -91,6 +92,7 @@
         {
             "section_index": 2,
             "section_ref": "8:2",
+            "section_title": "2. Den Oändlige Andens väsen",
             "pars": [
                 {
                     "par_ref": "8:2.1",
@@ -137,6 +139,7 @@
         {
             "section_index": 3,
             "section_ref": "8:3",
+            "section_title": "3. Andens förhållande till Fadern och Sonen",
             "pars": [
                 {
                     "par_ref": "8:3.1",
@@ -188,6 +191,7 @@
         {
             "section_index": 4,
             "section_ref": "8:4",
+            "section_title": "4. Den gudomliga omvårdnadens ande",
             "pars": [
                 {
                     "par_ref": "8:4.1",
@@ -234,6 +238,7 @@
         {
             "section_index": 5,
             "section_ref": "8:5",
+            "section_title": "5. Guds närvaro",
             "pars": [
                 {
                     "par_ref": "8:5.1",
@@ -270,6 +275,7 @@
         {
             "section_index": 6,
             "section_ref": "8:6",
+            "section_title": "6. Den Oändlige Andens personlighet",
             "pars": [
                 {
                     "par_ref": "8:6.1",

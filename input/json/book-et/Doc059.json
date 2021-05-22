@@ -55,6 +55,7 @@
         {
             "section_index": 1,
             "section_ref": "59:1",
+            "section_title": "1. Varajane mereelu madalates meredes",
             "pars": [
                 {
                     "par_ref": "59:1.1",
@@ -161,6 +162,7 @@
         {
             "section_index": 2,
             "section_ref": "59:2",
+            "section_title": "2. Mandrite esimene üleujutus",
             "pars": [
                 {
                     "par_ref": "59:2.1",
@@ -232,6 +234,7 @@
         {
             "section_index": 3,
             "section_ref": "59:3",
+            "section_title": "3. Teine suur üleujutus",
             "pars": [
                 {
                     "par_ref": "59:3.1",
@@ -298,6 +301,7 @@
         {
             "section_index": 4,
             "section_ref": "59:4",
+            "section_title": "4. Suur mandrite teke",
             "pars": [
                 {
                     "par_ref": "59:4.1",
@@ -394,6 +398,7 @@
         {
             "section_index": 5,
             "section_ref": "59:5",
+            "section_title": "5. Maakoore liikumised",
             "pars": [
                 {
                     "par_ref": "59:5.1",
@@ -515,6 +520,7 @@
         {
             "section_index": 6,
             "section_ref": "59:6",
+            "section_title": "6. Kliima üleminekuetapp",
             "pars": [
                 {
                     "par_ref": "59:6.1",

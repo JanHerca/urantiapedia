@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "152:1",
+            "section_title": "1. Dans la maison de Jaïre",
             "pars": [
                 {
                     "par_ref": "152:1.1",
@@ -56,6 +57,7 @@
         {
             "section_index": 2,
             "section_ref": "152:2",
+            "section_title": "2. Le ravitaillement des cinq-mille",
             "pars": [
                 {
                     "par_ref": "152:2.1",
@@ -112,6 +114,7 @@
         {
             "section_index": 3,
             "section_ref": "152:3",
+            "section_title": "3. L’épisode de couronnement",
             "pars": [
                 {
                     "par_ref": "152:3.1",
@@ -133,6 +136,7 @@
         {
             "section_index": 4,
             "section_ref": "152:4",
+            "section_title": "4. La vision nocturne de Simon Pierre",
             "pars": [
                 {
                     "par_ref": "152:4.1",
@@ -159,6 +163,7 @@
         {
             "section_index": 5,
             "section_ref": "152:5",
+            "section_title": "5. De retour à Bethsaïde",
             "pars": [
                 {
                     "par_ref": "152:5.1",
@@ -195,6 +200,7 @@
         {
             "section_index": 6,
             "section_ref": "152:6",
+            "section_title": "6. À Gennésareth",
             "pars": [
                 {
                     "par_ref": "152:6.1",
@@ -231,6 +237,7 @@
         {
             "section_index": 7,
             "section_ref": "152:7",
+            "section_title": "7. À Jérusalem",
             "pars": [
                 {
                     "par_ref": "152:7.1",

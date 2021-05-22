@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "101:1",
+            "section_title": "1. La vera religione",
             "pars": [
                 {
                     "par_ref": "101:1.1",
@@ -66,6 +67,7 @@
         {
             "section_index": 2,
             "section_ref": "101:2",
+            "section_title": "2. Il fatto della religione",
             "pars": [
                 {
                     "par_ref": "101:2.1",
@@ -157,6 +159,7 @@
         {
             "section_index": 3,
             "section_ref": "101:3",
+            "section_title": "3. Le caratteristiche della religione",
             "pars": [
                 {
                     "par_ref": "101:3.1",
@@ -253,6 +256,7 @@
         {
             "section_index": 4,
             "section_ref": "101:4",
+            "section_title": "4. I limiti della rivelazione",
             "pars": [
                 {
                     "par_ref": "101:4.1",
@@ -309,6 +313,7 @@
         {
             "section_index": 5,
             "section_ref": "101:5",
+            "section_title": "5. L’espansione della religione mediante la rivelazione",
             "pars": [
                 {
                     "par_ref": "101:5.1",
@@ -385,6 +390,7 @@
         {
             "section_index": 6,
             "section_ref": "101:6",
+            "section_title": "6. L’esperienza religiosa progressiva",
             "pars": [
                 {
                     "par_ref": "101:6.1",
@@ -476,6 +482,7 @@
         {
             "section_index": 7,
             "section_ref": "101:7",
+            "section_title": "7. Una filosofia personale della religione",
             "pars": [
                 {
                     "par_ref": "101:7.1",
@@ -512,6 +519,7 @@
         {
             "section_index": 8,
             "section_ref": "101:8",
+            "section_title": "8. Fede e credenza",
             "pars": [
                 {
                     "par_ref": "101:8.1",
@@ -538,6 +546,7 @@
         {
             "section_index": 9,
             "section_ref": "101:9",
+            "section_title": "9. Religione e moralità",
             "pars": [
                 {
                     "par_ref": "101:9.1",
@@ -589,6 +598,7 @@
         {
             "section_index": 10,
             "section_ref": "101:10",
+            "section_title": "10. La religione quale liberatrice dell’uomo",
             "pars": [
                 {
                     "par_ref": "101:10.1",

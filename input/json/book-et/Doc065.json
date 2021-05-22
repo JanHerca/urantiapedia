@@ -45,6 +45,7 @@
         {
             "section_index": 1,
             "section_ref": "65:1",
+            "section_title": "1. Elukandjate ülesanded",
             "pars": [
                 {
                     "par_ref": "65:1.1",
@@ -96,6 +97,7 @@
         {
             "section_index": 2,
             "section_ref": "65:2",
+            "section_title": "2. Evolutsiooni panoraam",
             "pars": [
                 {
                     "par_ref": "65:2.1",
@@ -182,6 +184,7 @@
         {
             "section_index": 3,
             "section_ref": "65:3",
+            "section_title": "3. Evolutsiooni edendamine",
             "pars": [
                 {
                     "par_ref": "65:3.1",
@@ -223,6 +226,7 @@
         {
             "section_index": 4,
             "section_ref": "65:4",
+            "section_title": "4. Avastusretk Urantial",
             "pars": [
                 {
                     "par_ref": "65:4.1",
@@ -289,6 +293,7 @@
         {
             "section_index": 5,
             "section_ref": "65:5",
+            "section_title": "5. Elu arenguraskused",
             "pars": [
                 {
                     "par_ref": "65:5.1",
@@ -315,6 +320,7 @@
         {
             "section_index": 6,
             "section_ref": "65:6",
+            "section_title": "6. Elu arendamise meetodid",
             "pars": [
                 {
                     "par_ref": "65:6.1",
@@ -371,6 +377,7 @@
         {
             "section_index": 7,
             "section_ref": "65:7",
+            "section_title": "7. Areneva meele tasandid",
             "pars": [
                 {
                     "par_ref": "65:7.1",
@@ -417,6 +424,7 @@
         {
             "section_index": 8,
             "section_ref": "65:8",
+            "section_title": "8. Evolutsioon ajas ja ruumis",
             "pars": [
                 {
                     "par_ref": "65:8.1",

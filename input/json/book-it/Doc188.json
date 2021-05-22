@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "188:1",
+            "section_title": "1. La sepoltura di Gesù",
             "pars": [
                 {
                     "par_ref": "188:1.1",
@@ -71,6 +72,7 @@
         {
             "section_index": 2,
             "section_ref": "188:2",
+            "section_title": "2. La protezione della tomba",
             "pars": [
                 {
                     "par_ref": "188:2.1",
@@ -92,6 +94,7 @@
         {
             "section_index": 3,
             "section_ref": "188:3",
+            "section_title": "3. Durante il giorno di sabato",
             "pars": [
                 {
                     "par_ref": "188:3.1",
@@ -178,6 +181,7 @@
         {
             "section_index": 4,
             "section_ref": "188:4",
+            "section_title": "4. Il significato della morte sulla croce",
             "pars": [
                 {
                     "par_ref": "188:4.1",
@@ -249,6 +253,7 @@
         {
             "section_index": 5,
             "section_ref": "188:5",
+            "section_title": "5. Le lezioni della croce",
             "pars": [
                 {
                     "par_ref": "188:5.1",

@@ -15,6 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "94:1",
+            "section_title": "1. Saalemin opetukset vedalaisessa Intiassa",
             "pars": [
                 {
                     "par_ref": "94:1.1",
@@ -56,6 +57,7 @@
         {
             "section_index": 2,
             "section_ref": "94:2",
+            "section_title": "2. Brahmalaisuus",
             "pars": [
                 {
                     "par_ref": "94:2.1",
@@ -102,6 +104,7 @@
         {
             "section_index": 3,
             "section_ref": "94:3",
+            "section_title": "3. Brahmalainen filosofia",
             "pars": [
                 {
                     "par_ref": "94:3.1",
@@ -148,6 +151,7 @@
         {
             "section_index": 4,
             "section_ref": "94:4",
+            "section_title": "4. Hindulainen uskonto",
             "pars": [
                 {
                     "par_ref": "94:4.1",
@@ -204,6 +208,7 @@
         {
             "section_index": 5,
             "section_ref": "94:5",
+            "section_title": "5. Kiinassa käyty kamppailu totuuden puolesta",
             "pars": [
                 {
                     "par_ref": "94:5.1",
@@ -250,6 +255,7 @@
         {
             "section_index": 6,
             "section_ref": "94:6",
+            "section_title": "6. Lao-tse ja Konfutse",
             "pars": [
                 {
                     "par_ref": "94:6.1",
@@ -316,6 +322,7 @@
         {
             "section_index": 7,
             "section_ref": "94:7",
+            "section_title": "7. Gautama Siddhartha",
             "pars": [
                 {
                     "par_ref": "94:7.1",
@@ -362,6 +369,7 @@
         {
             "section_index": 8,
             "section_ref": "94:8",
+            "section_title": "8. Buddhalainen usko",
             "pars": [
                 {
                     "par_ref": "94:8.1",
@@ -463,6 +471,7 @@
         {
             "section_index": 9,
             "section_ref": "94:9",
+            "section_title": "9. Buddhalaisuuden leviäminen",
             "pars": [
                 {
                     "par_ref": "94:9.1",
@@ -499,6 +508,7 @@
         {
             "section_index": 10,
             "section_ref": "94:10",
+            "section_title": "10. Tiibetin uskonto",
             "pars": [
                 {
                     "par_ref": "94:10.1",
@@ -520,6 +530,7 @@
         {
             "section_index": 11,
             "section_ref": "94:11",
+            "section_title": "11. Buddhalainen filosofia",
             "pars": [
                 {
                     "par_ref": "94:11.1",
@@ -591,6 +602,7 @@
         {
             "section_index": 12,
             "section_ref": "94:12",
+            "section_title": "12. Buddhalaisuuden jumalakäsitys",
             "pars": [
                 {
                     "par_ref": "94:12.1",

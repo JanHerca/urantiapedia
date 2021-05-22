@@ -30,6 +30,7 @@
         {
             "section_index": 1,
             "section_ref": "126:1",
+            "section_title": "1. Hans fjortende år (8 e.kr.)",
             "pars": [
                 {
                     "par_ref": "126:1.1",
@@ -71,6 +72,7 @@
         {
             "section_index": 2,
             "section_ref": "126:2",
+            "section_title": "2. Josefs død",
             "pars": [
                 {
                     "par_ref": "126:2.1",
@@ -117,6 +119,7 @@
         {
             "section_index": 3,
             "section_ref": "126:3",
+            "section_title": "3. Det femtende år (9 e.kr.)",
             "pars": [
                 {
                     "par_ref": "126:3.1",
@@ -193,6 +196,7 @@
         {
             "section_index": 4,
             "section_ref": "126:4",
+            "section_title": "4. Den første prædiken i synagogen",
             "pars": [
                 {
                     "par_ref": "126:4.1",
@@ -244,6 +248,7 @@
         {
             "section_index": 5,
             "section_ref": "126:5",
+            "section_title": "5. Økonomiske bekymringer",
             "pars": [
                 {
                     "par_ref": "126:5.1",

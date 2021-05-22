@@ -15,6 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "33:1",
+            "section_title": "1. Михаил Небадонский",
             "pars": [
                 {
                     "par_ref": "33:1.1",
@@ -46,6 +47,7 @@
         {
             "section_index": 2,
             "section_ref": "33:2",
+            "section_title": "2. Властелин Небадона",
             "pars": [
                 {
                     "par_ref": "33:2.1",
@@ -77,6 +79,7 @@
         {
             "section_index": 3,
             "section_ref": "33:3",
+            "section_title": "3. Сын и Дух вселенной",
             "pars": [
                 {
                     "par_ref": "33:3.1",
@@ -123,6 +126,7 @@
         {
             "section_index": 4,
             "section_ref": "33:4",
+            "section_title": "4. Гавриил — глава исполнительной власти",
             "pars": [
                 {
                     "par_ref": "33:4.1",
@@ -169,6 +173,7 @@
         {
             "section_index": 5,
             "section_ref": "33:5",
+            "section_title": "5. Троичные послы",
             "pars": [
                 {
                     "par_ref": "33:5.1",
@@ -195,6 +200,7 @@
         {
             "section_index": 6,
             "section_ref": "33:6",
+            "section_title": "6. Общее управление",
             "pars": [
                 {
                     "par_ref": "33:6.1",
@@ -246,6 +252,7 @@
         {
             "section_index": 7,
             "section_ref": "33:7",
+            "section_title": "7. Суды Небадона",
             "pars": [
                 {
                     "par_ref": "33:7.1",
@@ -292,6 +299,7 @@
         {
             "section_index": 8,
             "section_ref": "33:8",
+            "section_title": "8. Законодательные и исполнительные функции",
             "pars": [
                 {
                     "par_ref": "33:8.1",

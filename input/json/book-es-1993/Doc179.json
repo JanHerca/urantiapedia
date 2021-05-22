@@ -35,6 +35,7 @@
         {
             "section_index": 1,
             "section_ref": "179:1",
+            "section_title": "1. El Anhelo de la Preferencia",
             "pars": [
                 {
                     "par_ref": "179:1.1",
@@ -81,6 +82,7 @@
         {
             "section_index": 2,
             "section_ref": "179:2",
+            "section_title": "2. El Comienzo de la Cena",
             "pars": [
                 {
                     "par_ref": "179:2.1",
@@ -102,6 +104,7 @@
         {
             "section_index": 3,
             "section_ref": "179:3",
+            "section_title": "3. El Lavado de los Pies de los Apóstoles",
             "pars": [
                 {
                     "par_ref": "179:3.1",
@@ -158,6 +161,7 @@
         {
             "section_index": 4,
             "section_ref": "179:4",
+            "section_title": "4. Las Últimas Palabras al Traidor",
             "pars": [
                 {
                     "par_ref": "179:4.1",
@@ -204,6 +208,7 @@
         {
             "section_index": 5,
             "section_ref": "179:5",
+            "section_title": "5. El Establecimiento de la Cena de Conmemoración",
             "pars": [
                 {
                     "par_ref": "179:5.1",

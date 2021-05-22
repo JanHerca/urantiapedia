@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "80:1",
+            "section_title": "1. Adamiidid jõuavad Euroopasse",
             "pars": [
                 {
                     "par_ref": "80:1.1",
@@ -66,6 +67,7 @@
         {
             "section_index": 2,
             "section_ref": "80:2",
+            "section_title": "2. Klimaatilised ja geoloogilised muutused",
             "pars": [
                 {
                     "par_ref": "80:2.1",
@@ -97,6 +99,7 @@
         {
             "section_index": 3,
             "section_ref": "80:3",
+            "section_title": "3. Kromanjooni sinine inimene",
             "pars": [
                 {
                     "par_ref": "80:3.1",
@@ -148,6 +151,7 @@
         {
             "section_index": 4,
             "section_ref": "80:4",
+            "section_title": "4. Andiitide sissetung Euroopasse",
             "pars": [
                 {
                     "par_ref": "80:4.1",
@@ -184,6 +188,7 @@
         {
             "section_index": 5,
             "section_ref": "80:5",
+            "section_title": "5. Andiidid vallutavad Põhja-Euroopa",
             "pars": [
                 {
                     "par_ref": "80:5.1",
@@ -230,6 +235,7 @@
         {
             "section_index": 6,
             "section_ref": "80:6",
+            "section_title": "6. Andiidid Niiluse ääres",
             "pars": [
                 {
                     "par_ref": "80:6.1",
@@ -261,6 +267,7 @@
         {
             "section_index": 7,
             "section_ref": "80:7",
+            "section_title": "7. Vahemere saarte andiidid",
             "pars": [
                 {
                     "par_ref": "80:7.1",
@@ -332,6 +339,7 @@
         {
             "section_index": 8,
             "section_ref": "80:8",
+            "section_title": "8. Doonau andoniidid",
             "pars": [
                 {
                     "par_ref": "80:8.1",
@@ -363,6 +371,7 @@
         {
             "section_index": 9,
             "section_ref": "80:9",
+            "section_title": "9. Kolm valget rahvast",
             "pars": [
                 {
                     "par_ref": "80:9.1",

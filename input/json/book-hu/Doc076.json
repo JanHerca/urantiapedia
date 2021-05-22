@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "76:1",
+            "section_title": "1. Az édeniek belépnek Mezopotámiába",
             "pars": [
                 {
                     "par_ref": "76:1.1",
@@ -46,6 +47,7 @@
         {
             "section_index": 2,
             "section_ref": "76:2",
+            "section_title": "2. Káin és Ábel",
             "pars": [
                 {
                     "par_ref": "76:2.1",
@@ -97,6 +99,7 @@
         {
             "section_index": 3,
             "section_ref": "76:3",
+            "section_title": "3. Élet Mezopotámiában",
             "pars": [
                 {
                     "par_ref": "76:3.1",
@@ -153,6 +156,7 @@
         {
             "section_index": 4,
             "section_ref": "76:4",
+            "section_title": "4. Az ibolyaszín emberfajta",
             "pars": [
                 {
                     "par_ref": "76:4.1",
@@ -199,6 +203,7 @@
         {
             "section_index": 5,
             "section_ref": "76:5",
+            "section_title": "5. Ádám és Éva halála",
             "pars": [
                 {
                     "par_ref": "76:5.1",
@@ -240,6 +245,7 @@
         {
             "section_index": 6,
             "section_ref": "76:6",
+            "section_title": "6. Ádám és Éva továbbélése",
             "pars": [
                 {
                     "par_ref": "76:6.1",

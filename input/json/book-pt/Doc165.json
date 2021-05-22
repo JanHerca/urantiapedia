@@ -30,6 +30,7 @@
         {
             "section_index": 1,
             "section_ref": "165:1",
+            "section_title": "1. No Acampamento em Pela",
             "pars": [
                 {
                     "par_ref": "165:1.1",
@@ -51,6 +52,7 @@
         {
             "section_index": 2,
             "section_ref": "165:2",
+            "section_title": "2. O Sermão sobre o Bom Pastor",
             "pars": [
                 {
                     "par_ref": "165:2.1",
@@ -117,6 +119,7 @@
         {
             "section_index": 3,
             "section_ref": "165:3",
+            "section_title": "3. O Sermão de Sábado em Pela",
             "pars": [
                 {
                     "par_ref": "165:3.1",
@@ -168,6 +171,7 @@
         {
             "section_index": 4,
             "section_ref": "165:4",
+            "section_title": "4. A Partilha da Herança",
             "pars": [
                 {
                     "par_ref": "165:4.1",
@@ -244,6 +248,7 @@
         {
             "section_index": 5,
             "section_ref": "165:5",
+            "section_title": "5. Conversas com os Apóstolos sobre a Riqueza",
             "pars": [
                 {
                     "par_ref": "165:5.1",
@@ -285,6 +290,7 @@
         {
             "section_index": 6,
             "section_ref": "165:6",
+            "section_title": "6. A Resposta à Pergunta de Pedro",
             "pars": [
                 {
                     "par_ref": "165:6.1",

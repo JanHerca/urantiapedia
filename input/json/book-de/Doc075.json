@@ -15,6 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "75:1",
+            "section_title": "1. Das Problem Urantias",
             "pars": [
                 {
                     "par_ref": "75:1.1",
@@ -51,6 +52,7 @@
         {
             "section_index": 2,
             "section_ref": "75:2",
+            "section_title": "2. Caligastias Komplott",
             "pars": [
                 {
                     "par_ref": "75:2.1",
@@ -82,6 +84,7 @@
         {
             "section_index": 3,
             "section_ref": "75:3",
+            "section_title": "3. Die Versuchung Evas",
             "pars": [
                 {
                     "par_ref": "75:3.1",
@@ -133,6 +136,7 @@
         {
             "section_index": 4,
             "section_ref": "75:4",
+            "section_title": "4. Das Gewahrwerden der Verfehlung",
             "pars": [
                 {
                     "par_ref": "75:4.1",
@@ -179,6 +183,7 @@
         {
             "section_index": 5,
             "section_ref": "75:5",
+            "section_title": "5. Auswirkungen der Verfehlung",
             "pars": [
                 {
                     "par_ref": "75:5.1",
@@ -230,6 +235,7 @@
         {
             "section_index": 6,
             "section_ref": "75:6",
+            "section_title": "6. Adam und Eva verlassen den Garten",
             "pars": [
                 {
                     "par_ref": "75:6.1",
@@ -256,6 +262,7 @@
         {
             "section_index": 7,
             "section_ref": "75:7",
+            "section_title": "7. Degradierung Adams und Evas",
             "pars": [
                 {
                     "par_ref": "75:7.1",
@@ -297,6 +304,7 @@
         {
             "section_index": 8,
             "section_ref": "75:8",
+            "section_title": "8. Der sogenannte Sündenfall",
             "pars": [
                 {
                     "par_ref": "75:8.1",

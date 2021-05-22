@@ -70,6 +70,7 @@
         {
             "section_index": 1,
             "section_ref": "55:1",
+            "section_title": "1. Morontiatempel",
             "pars": [
                 {
                     "par_ref": "55:1.1",
@@ -106,6 +107,7 @@
         {
             "section_index": 2,
             "section_ref": "55:2",
+            "section_title": "2. Surm ja ülesviimine",
             "pars": [
                 {
                     "par_ref": "55:2.1",
@@ -172,6 +174,7 @@
         {
             "section_index": 3,
             "section_ref": "55:3",
+            "section_title": "3. Kuldajastud",
             "pars": [
                 {
                     "par_ref": "55:3.1",
@@ -288,6 +291,7 @@
         {
             "section_index": 4,
             "section_ref": "55:4",
+            "section_title": "4. Haldusalased ümberkorraldused",
             "pars": [
                 {
                     "par_ref": "55:4.1",
@@ -449,6 +453,7 @@
         {
             "section_index": 5,
             "section_ref": "55:5",
+            "section_title": "5. Ainelise arengu tipp",
             "pars": [
                 {
                     "par_ref": "55:5.1",
@@ -485,6 +490,7 @@
         {
             "section_index": 6,
             "section_ref": "55:6",
+            "section_title": "6. Surelik indiviid",
             "pars": [
                 {
                     "par_ref": "55:6.1",
@@ -541,6 +547,7 @@
         {
             "section_index": 7,
             "section_ref": "55:7",
+            "section_title": "7. Esimene ehk planeedietapp",
             "pars": [
                 {
                     "par_ref": "55:7.1",
@@ -567,6 +574,7 @@
         {
             "section_index": 8,
             "section_ref": "55:8",
+            "section_title": "8. Teine ehk süsteemietapp",
             "pars": [
                 {
                     "par_ref": "55:8.1",
@@ -608,6 +616,7 @@
         {
             "section_index": 9,
             "section_ref": "55:9",
+            "section_title": "9. Kolmas ehk tähtkujuetapp",
             "pars": [
                 {
                     "par_ref": "55:9.1",
@@ -629,6 +638,7 @@
         {
             "section_index": 10,
             "section_ref": "55:10",
+            "section_title": "10. Neljas ehk kohaliku universumi etapp",
             "pars": [
                 {
                     "par_ref": "55:10.1",
@@ -690,6 +700,7 @@
         {
             "section_index": 11,
             "section_ref": "55:11",
+            "section_title": "11. Väike- ja suursektorite etapp",
             "pars": [
                 {
                     "par_ref": "55:11.1",
@@ -736,6 +747,7 @@
         {
             "section_index": 12,
             "section_ref": "55:12",
+            "section_title": "12. Seitsmes ehk superuniversumi etapp",
             "pars": [
                 {
                     "par_ref": "55:12.1",

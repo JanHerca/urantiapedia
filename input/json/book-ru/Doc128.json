@@ -35,6 +35,7 @@
         {
             "section_index": 1,
             "section_ref": "128:1",
+            "section_title": "1. Двадцать первый год (15 год н. э.)",
             "pars": [
                 {
                     "par_ref": "128:1.1",
@@ -116,6 +117,7 @@
         {
             "section_index": 2,
             "section_ref": "128:2",
+            "section_title": "2. Двадцать второй год (16 год н. э.)",
             "pars": [
                 {
                     "par_ref": "128:2.1",
@@ -157,6 +159,7 @@
         {
             "section_index": 3,
             "section_ref": "128:3",
+            "section_title": "3. Двадцать третий год (17 год н. э.)",
             "pars": [
                 {
                     "par_ref": "128:3.1",
@@ -208,6 +211,7 @@
         {
             "section_index": 4,
             "section_ref": "128:4",
+            "section_title": "4. Дамасский эпизод",
             "pars": [
                 {
                     "par_ref": "128:4.1",
@@ -259,6 +263,7 @@
         {
             "section_index": 5,
             "section_ref": "128:5",
+            "section_title": "5. Двадцать четвертый год (18 год н. э.)",
             "pars": [
                 {
                     "par_ref": "128:5.1",
@@ -310,6 +315,7 @@
         {
             "section_index": 6,
             "section_ref": "128:6",
+            "section_title": "6. Двадцать пятый год (19 год н. э.)",
             "pars": [
                 {
                     "par_ref": "128:6.1",
@@ -376,6 +382,7 @@
         {
             "section_index": 7,
             "section_ref": "128:7",
+            "section_title": "7. Двадцать шестой год (20 год н. э.)",
             "pars": [
                 {
                     "par_ref": "128:7.1",

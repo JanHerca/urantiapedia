@@ -15,7 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "62:1",
-            "section_title": "1. טיפוסי הלֶמוּר המוקדמים",
+            "section_title": "\t1. טיפוסי הלֶמוּר המוקדמים",
             "pars": [
                 {
                     "par_ref": "62:1.1",
@@ -37,7 +37,7 @@
         {
             "section_index": 2,
             "section_ref": "62:2",
-            "section_title": "2. היונקים המבשרים",
+            "section_title": "\t2. היונקים המבשרים",
             "pars": [
                 {
                     "par_ref": "62:2.1",
@@ -74,7 +74,7 @@
         {
             "section_index": 3,
             "section_ref": "62:3",
-            "section_title": "3. יונקי הביניים",
+            "section_title": "\t3. יונקי הביניים",
             "pars": [
                 {
                     "par_ref": "62:3.1",
@@ -146,7 +146,7 @@
         {
             "section_index": 4,
             "section_ref": "62:4",
-            "section_title": "4. הפְרִימַטִים",
+            "section_title": "\t4. הפְרִימַטִים",
             "pars": [
                 {
                     "par_ref": "62:4.1",
@@ -188,7 +188,7 @@
         {
             "section_index": 5,
             "section_ref": "62:5",
-            "section_title": "5. בני האדם הראשונים",
+            "section_title": "\t5. בני האדם הראשונים",
             "pars": [
                 {
                     "par_ref": "62:5.1",
@@ -250,7 +250,7 @@
         {
             "section_index": 6,
             "section_ref": "62:6",
-            "section_title": "6. האבולוציה של הדעת האנושית",
+            "section_title": "\t6. האבולוציה של הדעת האנושית",
             "pars": [
                 {
                     "par_ref": "62:6.1",
@@ -287,7 +287,7 @@
         {
             "section_index": 7,
             "section_ref": "62:7",
-            "section_title": "7. הכרה כעולם מיושב",
+            "section_title": "\t7. הכרה כעולם מיושב",
             "pars": [
                 {
                     "par_ref": "62:7.1",

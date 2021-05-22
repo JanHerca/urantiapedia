@@ -55,6 +55,7 @@
         {
             "section_index": 1,
             "section_ref": "59:1",
+            "section_title": "1. Early Marine Life in the Shallow Seas",
             "pars": [
                 {
                     "par_ref": "59:1.1",
@@ -161,6 +162,7 @@
         {
             "section_index": 2,
             "section_ref": "59:2",
+            "section_title": "2. The First Continental Flood Stage",
             "pars": [
                 {
                     "par_ref": "59:2.1",
@@ -232,6 +234,7 @@
         {
             "section_index": 3,
             "section_ref": "59:3",
+            "section_title": "3. The Second Great Flood Stage",
             "pars": [
                 {
                     "par_ref": "59:3.1",
@@ -298,6 +301,7 @@
         {
             "section_index": 4,
             "section_ref": "59:4",
+            "section_title": "4. The Great Land-Emergence Stage",
             "pars": [
                 {
                     "par_ref": "59:4.1",
@@ -394,6 +398,7 @@
         {
             "section_index": 5,
             "section_ref": "59:5",
+            "section_title": "5. The Crustal-Shifting Stage",
             "pars": [
                 {
                     "par_ref": "59:5.1",
@@ -515,6 +520,7 @@
         {
             "section_index": 6,
             "section_ref": "59:6",
+            "section_title": "6. The Climatic Transition Stage",
             "pars": [
                 {
                     "par_ref": "59:6.1",

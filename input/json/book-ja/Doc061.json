@@ -25,7 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "61:1",
-            "section_title": "1. 広大な陸地の新段階[初期の哺乳動物時代]",
+            "section_title": "1. 広大な陸地の新段階[初期の哺乳動物時代]<br>",
             "pars": [
                 {
                     "par_ref": "61:1.1",
@@ -102,7 +102,7 @@
         {
             "section_index": 2,
             "section_ref": "61:2",
-            "section_title": "2. 少し前に起きた洪水段階[進んだ哺乳動物時代]",
+            "section_title": "2. 少し前に起きた洪水段階[進んだ哺乳動物時代]<br>",
             "pars": [
                 {
                     "par_ref": "61:2.1",
@@ -174,7 +174,7 @@
         {
             "section_index": 3,
             "section_ref": "61:3",
-            "section_title": "3. 現代の山の段階[象と馬の時代]",
+            "section_title": "3. 現代の山の段階[象と馬の時代]<br>",
             "pars": [
                 {
                     "par_ref": "61:3.1",
@@ -256,7 +256,7 @@
         {
             "section_index": 4,
             "section_ref": "61:4",
-            "section_title": "4. 新たな大陸上昇段階[最後の哺乳類の大移動]",
+            "section_title": "4. 新たな大陸上昇段階[最後の哺乳類の大移動]<br>",
             "pars": [
                 {
                     "par_ref": "61:4.1",

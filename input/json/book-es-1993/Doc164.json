@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "164:1",
+            "section_title": "1. La Historia del Buen Samaritano",
             "pars": [
                 {
                     "par_ref": "164:1.1",
@@ -46,6 +47,7 @@
         {
             "section_index": 2,
             "section_ref": "164:2",
+            "section_title": "2. En Jerusalén",
             "pars": [
                 {
                     "par_ref": "164:2.1",
@@ -72,6 +74,7 @@
         {
             "section_index": 3,
             "section_ref": "164:3",
+            "section_title": "3. La Curación del Pordiosero Ciego",
             "pars": [
                 {
                     "par_ref": "164:3.1",
@@ -158,6 +161,7 @@
         {
             "section_index": 4,
             "section_ref": "164:4",
+            "section_title": "4. Josías Ante el Sanedrín",
             "pars": [
                 {
                     "par_ref": "164:4.1",
@@ -224,6 +228,7 @@
         {
             "section_index": 5,
             "section_ref": "164:5",
+            "section_title": "5. La Enseñanza en la Logia de Salomón",
             "pars": [
                 {
                     "par_ref": "164:5.1",

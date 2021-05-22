@@ -45,6 +45,7 @@
         {
             "section_index": 1,
             "section_ref": "107:1",
+            "section_title": "1. Ajatuksensuuntaajien alkuperä",
             "pars": [
                 {
                     "par_ref": "107:1.1",
@@ -86,6 +87,7 @@
         {
             "section_index": 2,
             "section_ref": "107:2",
+            "section_title": "2. Suuntaajien luokitus",
             "pars": [
                 {
                     "par_ref": "107:2.1",
@@ -137,6 +139,7 @@
         {
             "section_index": 3,
             "section_ref": "107:3",
+            "section_title": "3. Suuntaajien Diviningtonin koti",
             "pars": [
                 {
                     "par_ref": "107:3.1",
@@ -193,6 +196,7 @@
         {
             "section_index": 4,
             "section_ref": "107:4",
+            "section_title": "4. Suuntaajien olemus ja läsnäolo",
             "pars": [
                 {
                     "par_ref": "107:4.1",
@@ -234,6 +238,7 @@
         {
             "section_index": 5,
             "section_ref": "107:5",
+            "section_title": "5. Suuntaajien mielellisyys",
             "pars": [
                 {
                     "par_ref": "107:5.1",
@@ -270,6 +275,7 @@
         {
             "section_index": 6,
             "section_ref": "107:6",
+            "section_title": "6. Puhtaasti hengiksi ymmärretyt suuntaajat",
             "pars": [
                 {
                     "par_ref": "107:6.1",
@@ -311,6 +317,7 @@
         {
             "section_index": 7,
             "section_ref": "107:7",
+            "section_title": "7. Suuntaajat ja persoonallisuus",
             "pars": [
                 {
                     "par_ref": "107:7.1",

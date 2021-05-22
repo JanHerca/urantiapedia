@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "86:1",
+            "section_title": "1. Hazardul: şansa şi neşansa",
             "pars": [
                 {
                     "par_ref": "86:1.1",
@@ -56,6 +57,7 @@
         {
             "section_index": 2,
             "section_ref": "86:2",
+            "section_title": "2. Personificarea hazardului",
             "pars": [
                 {
                     "par_ref": "86:2.1",
@@ -97,6 +99,7 @@
         {
             "section_index": 3,
             "section_ref": "86:3",
+            "section_title": "3. Moartea — inexplicabilul",
             "pars": [
                 {
                     "par_ref": "86:3.1",
@@ -123,6 +126,7 @@
         {
             "section_index": 4,
             "section_ref": "86:4",
+            "section_title": "4. Conceptul de supravieţuire după moarte",
             "pars": [
                 {
                     "par_ref": "86:4.1",
@@ -169,6 +173,7 @@
         {
             "section_index": 5,
             "section_ref": "86:5",
+            "section_title": "5. Conceptul de suflet fantomă",
             "pars": [
                 {
                     "par_ref": "86:5.1",
@@ -260,6 +265,7 @@
         {
             "section_index": 6,
             "section_ref": "86:6",
+            "section_title": "6. Mediul spiritelor fantome",
             "pars": [
                 {
                     "par_ref": "86:6.1",
@@ -301,6 +307,7 @@
         {
             "section_index": 7,
             "section_ref": "86:7",
+            "section_title": "7. Funcţia religiei primitive",
             "pars": [
                 {
                     "par_ref": "86:7.1",

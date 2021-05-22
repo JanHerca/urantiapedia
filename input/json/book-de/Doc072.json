@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "72:1",
+            "section_title": "1. Die kontinentale Nation",
             "pars": [
                 {
                     "par_ref": "72:1.1",
@@ -56,6 +57,7 @@
         {
             "section_index": 2,
             "section_ref": "72:2",
+            "section_title": "2. Politische Organisation",
             "pars": [
                 {
                     "par_ref": "72:2.1",
@@ -147,6 +149,7 @@
         {
             "section_index": 3,
             "section_ref": "72:3",
+            "section_title": "3. Das Familienleben",
             "pars": [
                 {
                     "par_ref": "72:3.1",
@@ -198,6 +201,7 @@
         {
             "section_index": 4,
             "section_ref": "72:4",
+            "section_title": "4. Das Erziehungssystem",
             "pars": [
                 {
                     "par_ref": "72:4.1",
@@ -234,6 +238,7 @@
         {
             "section_index": 5,
             "section_ref": "72:5",
+            "section_title": "5. Industrielle Organisation",
             "pars": [
                 {
                     "par_ref": "72:5.1",
@@ -300,6 +305,7 @@
         {
             "section_index": 6,
             "section_ref": "72:6",
+            "section_title": "6. Altersversicherung",
             "pars": [
                 {
                     "par_ref": "72:6.1",
@@ -351,6 +357,7 @@
         {
             "section_index": 7,
             "section_ref": "72:7",
+            "section_title": "7. Besteuerung",
             "pars": [
                 {
                     "par_ref": "72:7.1",
@@ -427,6 +434,7 @@
         {
             "section_index": 8,
             "section_ref": "72:8",
+            "section_title": "8. Die Fachschulen",
             "pars": [
                 {
                     "par_ref": "72:8.1",
@@ -468,6 +476,7 @@
         {
             "section_index": 9,
             "section_ref": "72:9",
+            "section_title": "9. Der Plan des allgemeinen Wahlrechts",
             "pars": [
                 {
                     "par_ref": "72:9.1",
@@ -514,6 +523,7 @@
         {
             "section_index": 10,
             "section_ref": "72:10",
+            "section_title": "10. Umgang mit Verbrechen",
             "pars": [
                 {
                     "par_ref": "72:10.1",
@@ -535,6 +545,7 @@
         {
             "section_index": 11,
             "section_ref": "72:11",
+            "section_title": "11. Militärische Bereitschaft",
             "pars": [
                 {
                     "par_ref": "72:11.1",
@@ -566,6 +577,7 @@
         {
             "section_index": 12,
             "section_ref": "72:12",
+            "section_title": "12. Die übrigen Nationen",
             "pars": [
                 {
                     "par_ref": "72:12.1",

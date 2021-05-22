@@ -35,6 +35,7 @@
         {
             "section_index": 1,
             "section_ref": "116:1",
+            "section_title": "1. Det suprema sinnet",
             "pars": [
                 {
                     "par_ref": "116:1.1",
@@ -66,6 +67,7 @@
         {
             "section_index": 2,
             "section_ref": "116:2",
+            "section_title": "2. Den Allsmäktige och Gud den Sjufaldige",
             "pars": [
                 {
                     "par_ref": "116:2.1",
@@ -142,6 +144,7 @@
         {
             "section_index": 3,
             "section_ref": "116:3",
+            "section_title": "3. Den Allsmäktige och Paradisgudomen",
             "pars": [
                 {
                     "par_ref": "116:3.1",
@@ -178,6 +181,7 @@
         {
             "section_index": 4,
             "section_ref": "116:4",
+            "section_title": "4. Den Allsmäktige och de Suprema Skaparna",
             "pars": [
                 {
                     "par_ref": "116:4.1",
@@ -244,6 +248,7 @@
         {
             "section_index": 5,
             "section_ref": "116:5",
+            "section_title": "5. Den Allsmäktige och de Sjufaldiga Övervakarna",
             "pars": [
                 {
                     "par_ref": "116:5.1",
@@ -335,6 +340,7 @@
         {
             "section_index": 6,
             "section_ref": "116:6",
+            "section_title": "6. Andens dominans",
             "pars": [
                 {
                     "par_ref": "116:6.1",
@@ -381,6 +387,7 @@
         {
             "section_index": 7,
             "section_ref": "116:7",
+            "section_title": "7. Den levande organismen storuniversum",
             "pars": [
                 {
                     "par_ref": "116:7.1",

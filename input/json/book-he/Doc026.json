@@ -15,7 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "26:1",
-            "section_title": "1. הרוחות הסועדות",
+            "section_title": "\t1. הרוחות הסועדות",
             "pars": [
                 {
                     "par_ref": "26:1.1",
@@ -107,7 +107,7 @@
         {
             "section_index": 2,
             "section_ref": "26:2",
-            "section_title": "2. הסופרנאפים העוצמתיים",
+            "section_title": "\t2. הסופרנאפים העוצמתיים",
             "pars": [
                 {
                     "par_ref": "26:2.1",
@@ -149,7 +149,7 @@
         {
             "section_index": 3,
             "section_ref": "26:3",
-            "section_title": "3. סופרנאפים שלישוניים",
+            "section_title": "\t3. סופרנאפים שלישוניים",
             "pars": [
                 {
                     "par_ref": "26:3.1",
@@ -206,7 +206,7 @@
         {
             "section_index": 4,
             "section_ref": "26:4",
-            "section_title": "4. הסופרנאפים המשניים",
+            "section_title": "\t4. הסופרנאפים המשניים",
             "pars": [
                 {
                     "par_ref": "26:4.1",
@@ -288,7 +288,7 @@
         {
             "section_index": 5,
             "section_ref": "26:5",
-            "section_title": "5. הסייעים לעולי הרגל",
+            "section_title": "\t5. הסייעים לעולי הרגל",
             "pars": [
                 {
                     "par_ref": "26:5.1",
@@ -325,7 +325,7 @@
         {
             "section_index": 6,
             "section_ref": "26:6",
-            "section_title": "6. מדריכי העליונות",
+            "section_title": "\t6. מדריכי העליונות",
             "pars": [
                 {
                     "par_ref": "26:6.1",
@@ -352,7 +352,7 @@
         {
             "section_index": 7,
             "section_ref": "26:7",
-            "section_title": "7. מדריכי השילוש",
+            "section_title": "\t7. מדריכי השילוש",
             "pars": [
                 {
                     "par_ref": "26:7.1",
@@ -389,7 +389,7 @@
         {
             "section_index": 8,
             "section_ref": "26:8",
-            "section_title": "8. מוֹצְאֵי הבן",
+            "section_title": "\t8. מוֹצְאֵי הבן",
             "pars": [
                 {
                     "par_ref": "26:8.1",
@@ -421,7 +421,7 @@
         {
             "section_index": 9,
             "section_ref": "26:9",
-            "section_title": "9. מדריכי האב",
+            "section_title": "\t9. מדריכי האב",
             "pars": [
                 {
                     "par_ref": "26:9.1",
@@ -448,7 +448,7 @@
         {
             "section_index": 10,
             "section_ref": "26:10",
-            "section_title": "10. המנחים והיועצים",
+            "section_title": "\t10. המנחים והיועצים",
             "pars": [
                 {
                     "par_ref": "26:10.1",
@@ -490,7 +490,7 @@
         {
             "section_index": 11,
             "section_ref": "26:11",
-            "section_title": "11. משלימֵי המנוחה",
+            "section_title": "\t11. משלימֵי המנוחה",
             "pars": [
                 {
                     "par_ref": "26:11.1",

@@ -40,6 +40,7 @@
         {
             "section_index": 1,
             "section_ref": "0:1",
+            "section_title": "I. Jumalus ja jumalikkus",
             "pars": [
                 {
                     "par_ref": "0:1.1",
@@ -176,6 +177,7 @@
         {
             "section_index": 2,
             "section_ref": "0:2",
+            "section_title": "II. Jumal",
             "pars": [
                 {
                     "par_ref": "0:2.1",
@@ -272,6 +274,7 @@
         {
             "section_index": 3,
             "section_ref": "0:3",
+            "section_title": "III. Esimene Allikas ja Kese",
             "pars": [
                 {
                     "par_ref": "0:3.1",
@@ -403,6 +406,7 @@
         {
             "section_index": 4,
             "section_ref": "0:4",
+            "section_title": "IV. Universumi reaalsus",
             "pars": [
                 {
                     "par_ref": "0:4.1",
@@ -474,6 +478,7 @@
         {
             "section_index": 5,
             "section_ref": "0:5",
+            "section_title": "V. Isiksuste reaalsused",
             "pars": [
                 {
                     "par_ref": "0:5.1",
@@ -540,6 +545,7 @@
         {
             "section_index": 6,
             "section_ref": "0:6",
+            "section_title": "VI. Energia ja algkuju",
             "pars": [
                 {
                     "par_ref": "0:6.1",
@@ -611,6 +617,7 @@
         {
             "section_index": 7,
             "section_ref": "0:7",
+            "section_title": "VII. Ülim Olend",
             "pars": [
                 {
                     "par_ref": "0:7.1",
@@ -667,6 +674,7 @@
         {
             "section_index": 8,
             "section_ref": "0:8",
+            "section_title": "VIII. Seitsmekordne Jumal",
             "pars": [
                 {
                     "par_ref": "0:8.1",
@@ -733,6 +741,7 @@
         {
             "section_index": 9,
             "section_ref": "0:9",
+            "section_title": "IX. Viimane Jumal",
             "pars": [
                 {
                     "par_ref": "0:9.1",
@@ -764,6 +773,7 @@
         {
             "section_index": 10,
             "section_ref": "0:10",
+            "section_title": "X. Absoluutne Jumal",
             "pars": [
                 {
                     "par_ref": "0:10.1",
@@ -780,6 +790,7 @@
         {
             "section_index": 11,
             "section_ref": "0:11",
+            "section_title": "XI. Kolm Absoluuti",
             "pars": [
                 {
                     "par_ref": "0:11.1",
@@ -866,6 +877,7 @@
         {
             "section_index": 12,
             "section_ref": "0:12",
+            "section_title": "XII. Kolmsused",
             "pars": [
                 {
                     "par_ref": "0:12.1",

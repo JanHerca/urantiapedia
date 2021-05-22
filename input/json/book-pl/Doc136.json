@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "136:1",
+            "section_title": "1. Idee oczekiwanego Mesjasza",
             "pars": [
                 {
                     "par_ref": "136:1.1",
@@ -56,6 +57,7 @@
         {
             "section_index": 2,
             "section_ref": "136:2",
+            "section_title": "2. Chrzest Jezusa",
             "pars": [
                 {
                     "par_ref": "136:2.1",
@@ -102,6 +104,7 @@
         {
             "section_index": 3,
             "section_ref": "136:3",
+            "section_title": "3. Czterdzieści dni",
             "pars": [
                 {
                     "par_ref": "136:3.1",
@@ -143,6 +146,7 @@
         {
             "section_index": 4,
             "section_ref": "136:4",
+            "section_title": "4. Plany pracy publicznej",
             "pars": [
                 {
                     "par_ref": "136:4.1",
@@ -219,6 +223,7 @@
         {
             "section_index": 5,
             "section_ref": "136:5",
+            "section_title": "5. Pierwsza wielka decyzja",
             "pars": [
                 {
                     "par_ref": "136:5.1",
@@ -255,6 +260,7 @@
         {
             "section_index": 6,
             "section_ref": "136:6",
+            "section_title": "6. Druga decyzja",
             "pars": [
                 {
                     "par_ref": "136:6.1",
@@ -316,6 +322,7 @@
         {
             "section_index": 7,
             "section_ref": "136:7",
+            "section_title": "7. Trzecia decyzja",
             "pars": [
                 {
                     "par_ref": "136:7.1",
@@ -342,6 +349,7 @@
         {
             "section_index": 8,
             "section_ref": "136:8",
+            "section_title": "8. Czwarta decyzja",
             "pars": [
                 {
                     "par_ref": "136:8.1",
@@ -388,6 +396,7 @@
         {
             "section_index": 9,
             "section_ref": "136:9",
+            "section_title": "9. Piąta decyzja",
             "pars": [
                 {
                     "par_ref": "136:9.1",
@@ -459,6 +468,7 @@
         {
             "section_index": 10,
             "section_ref": "136:10",
+            "section_title": "10. Szósta decyzja",
             "pars": [
                 {
                     "par_ref": "136:10.1",

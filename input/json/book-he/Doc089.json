@@ -20,7 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "89:1",
-            "section_title": "1. הטאבוּ",
+            "section_title": "\t1. הטאבוּ",
             "pars": [
                 {
                     "par_ref": "89:1.1",
@@ -62,7 +62,7 @@
         {
             "section_index": 2,
             "section_ref": "89:2",
-            "section_title": "2. המושג של החטא",
+            "section_title": "\t2. המושג של החטא",
             "pars": [
                 {
                     "par_ref": "89:2.1",
@@ -94,7 +94,7 @@
         {
             "section_index": 3,
             "section_ref": "89:3",
-            "section_title": "3. התכחשות והשפלה",
+            "section_title": "\t3. התכחשות והשפלה",
             "pars": [
                 {
                     "par_ref": "89:3.1",
@@ -136,7 +136,7 @@
         {
             "section_index": 4,
             "section_ref": "89:4",
-            "section_title": "4. מקורות הקרבת הקורבנות",
+            "section_title": "\t4. מקורות הקרבת הקורבנות",
             "pars": [
                 {
                     "par_ref": "89:4.1",
@@ -193,7 +193,7 @@
         {
             "section_index": 5,
             "section_ref": "89:5",
-            "section_title": "5. קורבנות וקניבליזם",
+            "section_title": "\t5. קורבנות וקניבליזם",
             "pars": [
                 {
                     "par_ref": "89:5.1",
@@ -280,7 +280,7 @@
         {
             "section_index": 6,
             "section_ref": "89:6",
-            "section_title": "6. האבולוציה של קורבנות האדם",
+            "section_title": "\t6. האבולוציה של קורבנות האדם",
             "pars": [
                 {
                     "par_ref": "89:6.1",
@@ -327,7 +327,7 @@
         {
             "section_index": 7,
             "section_ref": "89:7",
-            "section_title": "7. שינויים בקורבנות האדם",
+            "section_title": "\t7. שינויים בקורבנות האדם",
             "pars": [
                 {
                     "par_ref": "89:7.1",
@@ -359,7 +359,7 @@
         {
             "section_index": 8,
             "section_ref": "89:8",
-            "section_title": "8. פדיון ובריתות",
+            "section_title": "\t8. פדיון ובריתות",
             "pars": [
                 {
                     "par_ref": "89:8.1",
@@ -406,7 +406,7 @@
         {
             "section_index": 9,
             "section_ref": "89:9",
-            "section_title": "9. קורבנות וסַקְרָמֶנְט",
+            "section_title": "\t9. קורבנות וסַקְרָמֶנְט",
             "pars": [
                 {
                     "par_ref": "89:9.1",
@@ -433,7 +433,7 @@
         {
             "section_index": 10,
             "section_ref": "89:10",
-            "section_title": "10. מחילה על חטא",
+            "section_title": "\t10. מחילה על חטא",
             "pars": [
                 {
                     "par_ref": "89:10.1",

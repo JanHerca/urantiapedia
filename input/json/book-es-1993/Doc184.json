@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "184:1",
+            "section_title": "1. El Interrogatorio de Anás",
             "pars": [
                 {
                     "par_ref": "184:1.1",
@@ -76,6 +77,7 @@
         {
             "section_index": 2,
             "section_ref": "184:2",
+            "section_title": "2. Pedro en el Patio",
             "pars": [
                 {
                     "par_ref": "184:2.1",
@@ -147,6 +149,7 @@
         {
             "section_index": 3,
             "section_ref": "184:3",
+            "section_title": "3. Ante el Tribunal de los Sanedristas",
             "pars": [
                 {
                     "par_ref": "184:3.1",
@@ -248,6 +251,7 @@
         {
             "section_index": 4,
             "section_ref": "184:4",
+            "section_title": "4. La Hora de la Humillación",
             "pars": [
                 {
                     "par_ref": "184:4.1",
@@ -284,6 +288,7 @@
         {
             "section_index": 5,
             "section_ref": "184:5",
+            "section_title": "5. La Segunda Reunión del Tribunal",
             "pars": [
                 {
                     "par_ref": "184:5.1",

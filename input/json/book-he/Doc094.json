@@ -15,7 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "94:1",
-            "section_title": "1. הלימוד של שָלֵם בהודו הוֶדִית",
+            "section_title": "\t1. הלימוד של שָלֵם בהודו הוֶדִית",
             "pars": [
                 {
                     "par_ref": "94:1.1",
@@ -57,7 +57,7 @@
         {
             "section_index": 2,
             "section_ref": "94:2",
-            "section_title": "2. ברהמהניזם",
+            "section_title": "\t2. ברהמהניזם",
             "pars": [
                 {
                     "par_ref": "94:2.1",
@@ -104,7 +104,7 @@
         {
             "section_index": 3,
             "section_ref": "94:3",
-            "section_title": "3. הפילוסופיה הברהמינית",
+            "section_title": "\t3. הפילוסופיה הברהמינית",
             "pars": [
                 {
                     "par_ref": "94:3.1",
@@ -151,7 +151,7 @@
         {
             "section_index": 4,
             "section_ref": "94:4",
-            "section_title": "4. הדת ההינדית",
+            "section_title": "\t4. הדת ההינדית",
             "pars": [
                 {
                     "par_ref": "94:4.1",
@@ -208,7 +208,7 @@
         {
             "section_index": 5,
             "section_ref": "94:5",
-            "section_title": "5. המאבק על האמת בסין",
+            "section_title": "\t5. המאבק על האמת בסין",
             "pars": [
                 {
                     "par_ref": "94:5.1",
@@ -255,7 +255,7 @@
         {
             "section_index": 6,
             "section_ref": "94:6",
-            "section_title": "6. לאו-טסה וקונפוציוס",
+            "section_title": "\t6. לאו-טסה וקונפוציוס",
             "pars": [
                 {
                     "par_ref": "94:6.1",
@@ -322,7 +322,7 @@
         {
             "section_index": 7,
             "section_ref": "94:7",
-            "section_title": "7. גאוּטמה סידהרתא",
+            "section_title": "\t7. גאוּטמה סידהרתא",
             "pars": [
                 {
                     "par_ref": "94:7.1",
@@ -369,7 +369,7 @@
         {
             "section_index": 8,
             "section_ref": "94:8",
-            "section_title": "8. האמונה הבודהיסטית",
+            "section_title": "\t8. האמונה הבודהיסטית",
             "pars": [
                 {
                     "par_ref": "94:8.1",
@@ -471,7 +471,7 @@
         {
             "section_index": 9,
             "section_ref": "94:9",
-            "section_title": "9. התפשטות הבודהיזם",
+            "section_title": "\t9. התפשטות הבודהיזם",
             "pars": [
                 {
                     "par_ref": "94:9.1",
@@ -508,7 +508,7 @@
         {
             "section_index": 10,
             "section_ref": "94:10",
-            "section_title": "10. הדת בטיבט",
+            "section_title": "\t10. הדת בטיבט",
             "pars": [
                 {
                     "par_ref": "94:10.1",
@@ -530,7 +530,7 @@
         {
             "section_index": 11,
             "section_ref": "94:11",
-            "section_title": "11. הפילוסופיה הבודהיסטית",
+            "section_title": "\t11. הפילוסופיה הבודהיסטית",
             "pars": [
                 {
                     "par_ref": "94:11.1",
@@ -602,7 +602,7 @@
         {
             "section_index": 12,
             "section_ref": "94:12",
-            "section_title": "12. מושג האל בבודהיזם",
+            "section_title": "\t12. מושג האל בבודהיזם",
             "pars": [
                 {
                     "par_ref": "94:12.1",

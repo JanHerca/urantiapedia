@@ -20,7 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "56:1",
-            "section_title": "1. ΦΥΣΙΚΟΣ ΣΥΝΤΟΝΙΣΜΟΣ",
+            "section_title": " 1. ΦΥΣΙΚΟΣ ΣΥΝΤΟΝΙΣΜΟΣ",
             "pars": [
                 {
                     "par_ref": "56:1.1",
@@ -57,7 +57,7 @@
         {
             "section_index": 2,
             "section_ref": "56:2",
-            "section_title": "2. ΔΙΑΝΟΗΤΙΚΗ ΕΝΟΤΗΤΑ",
+            "section_title": " 2. ΔΙΑΝΟΗΤΙΚΗ ΕΝΟΤΗΤΑ",
             "pars": [
                 {
                     "par_ref": "56:2.1",
@@ -79,7 +79,7 @@
         {
             "section_index": 3,
             "section_ref": "56:3",
-            "section_title": "3. ΠΝΕΥΜΑΤΙΚΗ ΕΝΟΠΟΙΗΣΗ",
+            "section_title": " 3. ΠΝΕΥΜΑΤΙΚΗ ΕΝΟΠΟΙΗΣΗ",
             "pars": [
                 {
                     "par_ref": "56:3.1",
@@ -116,7 +116,7 @@
         {
             "section_index": 4,
             "section_ref": "56:4",
-            "section_title": "4. ΕΝΟΠΟΙΗΣΗ ΤΗΣ ΠΡΟΣΩΠΙΚΟΤΗΤΑΣ",
+            "section_title": " 4. ΕΝΟΠΟΙΗΣΗ ΤΗΣ ΠΡΟΣΩΠΙΚΟΤΗΤΑΣ",
             "pars": [
                 {
                     "par_ref": "56:4.1",
@@ -148,7 +148,7 @@
         {
             "section_index": 5,
             "section_ref": "56:5",
-            "section_title": "5. Η ΕΝΟΤΗΤΑ ΤΟΥ ΘΕΙΟΥ",
+            "section_title": " 5. Η ΕΝΟΤΗΤΑ ΤΟΥ ΘΕΙΟΥ",
             "pars": [
                 {
                     "par_ref": "56:5.1",
@@ -175,7 +175,7 @@
         {
             "section_index": 6,
             "section_ref": "56:6",
-            "section_title": "6. Η ΕΝΟΠΟΙΗΣΗ ΤΗΣ ΕΞΕΛΙΚΤΙΚΗΣ ΘΕΟΤΗΤΑΣ",
+            "section_title": " 6. Η ΕΝΟΠΟΙΗΣΗ ΤΗΣ ΕΞΕΛΙΚΤΙΚΗΣ ΘΕΟΤΗΤΑΣ",
             "pars": [
                 {
                     "par_ref": "56:6.1",
@@ -207,7 +207,7 @@
         {
             "section_index": 7,
             "section_ref": "56:7",
-            "section_title": "7. ΟΙ ΕΞΕΛΙΚΤΙΚΕΣ ΕΠΙΠΤΩΣΕΙΣ ΣΤΟ ΣΥΜΠΑΝ",
+            "section_title": " 7. ΟΙ ΕΞΕΛΙΚΤΙΚΕΣ ΕΠΙΠΤΩΣΕΙΣ ΣΤΟ ΣΥΜΠΑΝ",
             "pars": [
                 {
                     "par_ref": "56:7.1",
@@ -259,7 +259,7 @@
         {
             "section_index": 8,
             "section_ref": "56:8",
-            "section_title": "8. Ο ΥΠΕΡΤΑΤΟΣ ΕΝΟΠΟΙΗΤΗΣ",
+            "section_title": " 8. Ο ΥΠΕΡΤΑΤΟΣ ΕΝΟΠΟΙΗΤΗΣ",
             "pars": [
                 {
                     "par_ref": "56:8.1",
@@ -286,7 +286,7 @@
         {
             "section_index": 9,
             "section_ref": "56:9",
-            "section_title": "9. Η ΕΝΟΤΗΤΑ ΤΟΥ ΣΥΜΠΑΝΤΙΚΟΥ ΑΠΟΛΥΤΟΥ",
+            "section_title": " 9. Η ΕΝΟΤΗΤΑ ΤΟΥ ΣΥΜΠΑΝΤΙΚΟΥ ΑΠΟΛΥΤΟΥ",
             "pars": [
                 {
                     "par_ref": "56:9.1",
@@ -363,7 +363,7 @@
         {
             "section_index": 10,
             "section_ref": "56:10",
-            "section_title": "10. ΑΛΗΘΕΙΑ, ΟΜΟΡΦΙΑ ΚΑΙ ΚΑΛΟΣΥΝΗ",
+            "section_title": " 10. ΑΛΗΘΕΙΑ, ΟΜΟΡΦΙΑ ΚΑΙ ΚΑΛΟΣΥΝΗ",
             "pars": [
                 {
                     "par_ref": "56:10.1",
@@ -480,7 +480,7 @@
         {
             "section_index": 11,
             "section_ref": "56:11",
-            "section_title": "******",
+            "section_title": " ******",
             "pars": [
                 {
                     "par_ref": "56:11.1",

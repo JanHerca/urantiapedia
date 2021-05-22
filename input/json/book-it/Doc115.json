@@ -15,6 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "115:1",
+            "section_title": "1. Relatività dei quadri concettuali",
             "pars": [
                 {
                     "par_ref": "115:1.1",
@@ -41,6 +42,7 @@
         {
             "section_index": 2,
             "section_ref": "115:2",
+            "section_title": "2. La base assoluta della Supremazia",
             "pars": [
                 {
                     "par_ref": "115:2.1",
@@ -67,6 +69,7 @@
         {
             "section_index": 3,
             "section_ref": "115:3",
+            "section_title": "3. L’originale, l’attuale ed il potenziale",
             "pars": [
                 {
                     "par_ref": "115:3.1",
@@ -168,6 +171,7 @@
         {
             "section_index": 4,
             "section_ref": "115:4",
+            "section_title": "4. Le fonti della realtà del supremo",
             "pars": [
                 {
                     "par_ref": "115:4.1",
@@ -209,6 +213,7 @@
         {
             "section_index": 5,
             "section_ref": "115:5",
+            "section_title": "5. Relazione del Supremo con la Trinità del Paradiso",
             "pars": [
                 {
                     "par_ref": "115:5.1",
@@ -225,6 +230,7 @@
         {
             "section_index": 6,
             "section_ref": "115:6",
+            "section_title": "6. Relazione del Supremo con le Triodità",
             "pars": [
                 {
                     "par_ref": "115:6.1",
@@ -271,6 +277,7 @@
         {
             "section_index": 7,
             "section_ref": "115:7",
+            "section_title": "7. La natura del Supremo",
             "pars": [
                 {
                     "par_ref": "115:7.1",

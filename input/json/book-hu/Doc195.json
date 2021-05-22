@@ -100,6 +100,7 @@
         {
             "section_index": 1,
             "section_ref": "195:1",
+            "section_title": "1. A görögök hatása",
             "pars": [
                 {
                     "par_ref": "195:1.1",
@@ -161,6 +162,7 @@
         {
             "section_index": 2,
             "section_ref": "195:2",
+            "section_title": "2. A római hatás",
             "pars": [
                 {
                     "par_ref": "195:2.1",
@@ -212,6 +214,7 @@
         {
             "section_index": 3,
             "section_ref": "195:3",
+            "section_title": "3. A római birodalom fennállása alatt",
             "pars": [
                 {
                     "par_ref": "195:3.1",
@@ -273,6 +276,7 @@
         {
             "section_index": 4,
             "section_ref": "195:4",
+            "section_title": "4. Az európai sötét korszakok",
             "pars": [
                 {
                     "par_ref": "195:4.1",
@@ -304,6 +308,7 @@
         {
             "section_index": 5,
             "section_ref": "195:5",
+            "section_title": "5. A mai kor kihívása",
             "pars": [
                 {
                     "par_ref": "195:5.1",
@@ -380,6 +385,7 @@
         {
             "section_index": 6,
             "section_ref": "195:6",
+            "section_title": "6. Az anyagelvű gondolkodás",
             "pars": [
                 {
                     "par_ref": "195:6.1",
@@ -471,6 +477,7 @@
         {
             "section_index": 7,
             "section_ref": "195:7",
+            "section_title": "7. Az anyagelvűség sérülékeny volta",
             "pars": [
                 {
                     "par_ref": "195:7.1",
@@ -592,6 +599,7 @@
         {
             "section_index": 8,
             "section_ref": "195:8",
+            "section_title": "8. Világi egyeduralom",
             "pars": [
                 {
                     "par_ref": "195:8.1",
@@ -663,6 +671,7 @@
         {
             "section_index": 9,
             "section_ref": "195:9",
+            "section_title": "9. A kereszténység előtt álló kihívás",
             "pars": [
                 {
                     "par_ref": "195:9.1",
@@ -724,6 +733,7 @@
         {
             "section_index": 10,
             "section_ref": "195:10",
+            "section_title": "10. A jövő",
             "pars": [
                 {
                     "par_ref": "195:10.1",

@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "68:1",
+            "section_title": "1. A védelmi közösségtudat",
             "pars": [
                 {
                     "par_ref": "68:1.1",
@@ -66,6 +67,7 @@
         {
             "section_index": 2,
             "section_ref": "68:2",
+            "section_title": "2. A társadalmi haladást meghatározó tényezők",
             "pars": [
                 {
                     "par_ref": "68:2.1",
@@ -127,6 +129,7 @@
         {
             "section_index": 3,
             "section_ref": "68:3",
+            "section_title": "3. A kísértetektől való félelem közösségszervező hatása",
             "pars": [
                 {
                     "par_ref": "68:3.1",
@@ -158,6 +161,7 @@
         {
             "section_index": 4,
             "section_ref": "68:4",
+            "section_title": "4. Az erkölcsök fejlődése",
             "pars": [
                 {
                     "par_ref": "68:4.1",
@@ -199,6 +203,7 @@
         {
             "section_index": 5,
             "section_ref": "68:5",
+            "section_title": "5. A földhasználati módszerek — az ember önfenntartási készségei",
             "pars": [
                 {
                     "par_ref": "68:5.1",
@@ -270,6 +275,7 @@
         {
             "section_index": 6,
             "section_ref": "68:6",
+            "section_title": "6. A műveltség kialakulása",
             "pars": [
                 {
                     "par_ref": "68:6.1",

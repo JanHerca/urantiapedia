@@ -35,6 +35,7 @@
         {
             "section_index": 1,
             "section_ref": "22:1",
+            "section_title": "1. Putra Dirangkul-Trinitas",
             "pars": [
                 {
                     "par_ref": "22:1.1",
@@ -116,6 +117,7 @@
         {
             "section_index": 2,
             "section_ref": "22:2",
+            "section_title": "2. Utusan Perkasa",
             "pars": [
                 {
                     "par_ref": "22:2.1",
@@ -167,6 +169,7 @@
         {
             "section_index": 3,
             "section_ref": "22:3",
+            "section_title": "3. Yang Tinggi dalam Otoritas",
             "pars": [
                 {
                     "par_ref": "22:3.1",
@@ -193,6 +196,7 @@
         {
             "section_index": 4,
             "section_ref": "22:4",
+            "section_title": "4. Yang Tanpa Nama dan Bilangan",
             "pars": [
                 {
                     "par_ref": "22:4.1",
@@ -234,6 +238,7 @@
         {
             "section_index": 5,
             "section_ref": "22:5",
+            "section_title": "5. Kustodian Ditrinitisasi",
             "pars": [
                 {
                     "par_ref": "22:5.1",
@@ -270,6 +275,7 @@
         {
             "section_index": 6,
             "section_ref": "22:6",
+            "section_title": "6. Duta Ditrinitisasi",
             "pars": [
                 {
                     "par_ref": "22:6.1",
@@ -291,6 +297,7 @@
         {
             "section_index": 7,
             "section_ref": "22:7",
+            "section_title": "7. Teknik Trinitisasi",
             "pars": [
                 {
                     "par_ref": "22:7.1",
@@ -367,6 +374,7 @@
         {
             "section_index": 8,
             "section_ref": "22:8",
+            "section_title": "8. Putra Ditrinitisasi-Makhluk",
             "pars": [
                 {
                     "par_ref": "22:8.1",
@@ -403,6 +411,7 @@
         {
             "section_index": 9,
             "section_ref": "22:9",
+            "section_title": "9. Garda Selestial",
             "pars": [
                 {
                     "par_ref": "22:9.1",
@@ -449,6 +458,7 @@
         {
             "section_index": 10,
             "section_ref": "22:10",
+            "section_title": "10. Asisten Putra Tinggi",
             "pars": [
                 {
                     "par_ref": "22:10.1",

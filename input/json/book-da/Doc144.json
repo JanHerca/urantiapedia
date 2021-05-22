@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "144:1",
+            "section_title": "1. Lejren ved gilboa",
             "pars": [
                 {
                     "par_ref": "144:1.1",
@@ -81,6 +82,7 @@
         {
             "section_index": 2,
             "section_ref": "144:2",
+            "section_title": "2. Forelæsningen om bøn",
             "pars": [
                 {
                     "par_ref": "144:2.1",
@@ -117,6 +119,7 @@
         {
             "section_index": 3,
             "section_ref": "144:3",
+            "section_title": "3. Den troendes bøn",
             "pars": [
                 {
                     "par_ref": "144:3.1",
@@ -238,6 +241,7 @@
         {
             "section_index": 4,
             "section_ref": "144:4",
+            "section_title": "4. Mere om bøn",
             "pars": [
                 {
                     "par_ref": "144:4.1",
@@ -299,6 +303,7 @@
         {
             "section_index": 5,
             "section_ref": "144:5",
+            "section_title": "5. Andre typer af bønner",
             "pars": [
                 {
                     "par_ref": "144:5.1",
@@ -815,6 +820,7 @@
         {
             "section_index": 6,
             "section_ref": "144:6",
+            "section_title": "6. Konferense med johannes apostle",
             "pars": [
                 {
                     "par_ref": "144:6.1",
@@ -886,6 +892,7 @@
         {
             "section_index": 7,
             "section_ref": "144:7",
+            "section_title": "7. I byerne i dekapolis",
             "pars": [
                 {
                     "par_ref": "144:7.1",
@@ -912,6 +919,7 @@
         {
             "section_index": 8,
             "section_ref": "144:8",
+            "section_title": "8. I lejren nær pella",
             "pars": [
                 {
                     "par_ref": "144:8.1",
@@ -958,6 +966,7 @@
         {
             "section_index": 9,
             "section_ref": "144:9",
+            "section_title": "9. Johannes døberens død",
             "pars": [
                 {
                     "par_ref": "144:9.1",

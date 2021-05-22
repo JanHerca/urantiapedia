@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "82:1",
+            "section_title": "1. The Mating Instinct",
             "pars": [
                 {
                     "par_ref": "82:1.1",
@@ -81,6 +82,7 @@
         {
             "section_index": 2,
             "section_ref": "82:2",
+            "section_title": "2. The Restrictive Taboos",
             "pars": [
                 {
                     "par_ref": "82:2.1",
@@ -112,6 +114,7 @@
         {
             "section_index": 3,
             "section_ref": "82:3",
+            "section_title": "3. Early Marriage Mores",
             "pars": [
                 {
                     "par_ref": "82:3.1",
@@ -193,6 +196,7 @@
         {
             "section_index": 4,
             "section_ref": "82:4",
+            "section_title": "4. Marriage Under the Property Mores",
             "pars": [
                 {
                     "par_ref": "82:4.1",
@@ -224,6 +228,7 @@
         {
             "section_index": 5,
             "section_ref": "82:5",
+            "section_title": "5. Endogamy and Exogamy",
             "pars": [
                 {
                     "par_ref": "82:5.1",
@@ -280,6 +285,7 @@
         {
             "section_index": 6,
             "section_ref": "82:6",
+            "section_title": "6. Racial Mixtures",
             "pars": [
                 {
                     "par_ref": "82:6.1",

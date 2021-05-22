@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "87:1",
+            "section_title": "1. La paura dei fantasmi",
             "pars": [
                 {
                     "par_ref": "87:1.1",
@@ -51,6 +52,7 @@
         {
             "section_index": 2,
             "section_ref": "87:2",
+            "section_title": "2. Il placamento dei fantasmi",
             "pars": [
                 {
                     "par_ref": "87:2.1",
@@ -107,6 +109,7 @@
         {
             "section_index": 3,
             "section_ref": "87:3",
+            "section_title": "3. L’adorazione degli antenati",
             "pars": [
                 {
                     "par_ref": "87:3.1",
@@ -138,6 +141,7 @@
         {
             "section_index": 4,
             "section_ref": "87:4",
+            "section_title": "4. Buoni e cattivi spiriti fantasma",
             "pars": [
                 {
                     "par_ref": "87:4.1",
@@ -179,6 +183,7 @@
         {
             "section_index": 5,
             "section_ref": "87:5",
+            "section_title": "5. Il progresso del culto dei fantasmi",
             "pars": [
                 {
                     "par_ref": "87:5.1",
@@ -255,6 +260,7 @@
         {
             "section_index": 6,
             "section_ref": "87:6",
+            "section_title": "6. Coercizione ed esorcismo",
             "pars": [
                 {
                     "par_ref": "87:6.1",
@@ -346,6 +352,7 @@
         {
             "section_index": 7,
             "section_ref": "87:7",
+            "section_title": "7. La natura del cultismo",
             "pars": [
                 {
                     "par_ref": "87:7.1",

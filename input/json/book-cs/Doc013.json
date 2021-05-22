@@ -45,6 +45,7 @@
         {
             "section_index": 1,
             "section_ref": "13:1",
+            "section_title": "1. Sedm posvátných světů Otce",
             "pars": [
                 {
                     "par_ref": "13:1.1",
@@ -166,6 +167,7 @@
         {
             "section_index": 2,
             "section_ref": "13:2",
+            "section_title": "2. Vztahy Otce ke světům",
             "pars": [
                 {
                     "par_ref": "13:2.1",
@@ -222,6 +224,7 @@
         {
             "section_index": 3,
             "section_ref": "13:3",
+            "section_title": "3. Posvátné světy Věčného Syna",
             "pars": [
                 {
                     "par_ref": "13:3.1",
@@ -243,6 +246,7 @@
         {
             "section_index": 4,
             "section_ref": "13:4",
+            "section_title": "4. Světy Nekonečného Ducha",
             "pars": [
                 {
                     "par_ref": "13:4.1",

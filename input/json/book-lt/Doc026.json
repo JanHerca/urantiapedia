@@ -15,6 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "26:1",
+            "section_title": "1. Tarnaujančiosios Dvasios",
             "pars": [
                 {
                     "par_ref": "26:1.1",
@@ -106,6 +107,7 @@
         {
             "section_index": 2,
             "section_ref": "26:2",
+            "section_title": "2. Galingieji Supernafimai",
             "pars": [
                 {
                     "par_ref": "26:2.1",
@@ -147,6 +149,7 @@
         {
             "section_index": 3,
             "section_ref": "26:3",
+            "section_title": "3. Tretiniai Supernafimai",
             "pars": [
                 {
                     "par_ref": "26:3.1",
@@ -203,6 +206,7 @@
         {
             "section_index": 4,
             "section_ref": "26:4",
+            "section_title": "4. Antriniai Supernafimai",
             "pars": [
                 {
                     "par_ref": "26:4.1",
@@ -284,6 +288,7 @@
         {
             "section_index": 5,
             "section_ref": "26:5",
+            "section_title": "5. Piligrimų Pagalbininkai",
             "pars": [
                 {
                     "par_ref": "26:5.1",
@@ -320,6 +325,7 @@
         {
             "section_index": 6,
             "section_ref": "26:6",
+            "section_title": "6. Aukštybės Vadovai",
             "pars": [
                 {
                     "par_ref": "26:6.1",
@@ -346,6 +352,7 @@
         {
             "section_index": 7,
             "section_ref": "26:7",
+            "section_title": "7. Trejybės Vadovai",
             "pars": [
                 {
                     "par_ref": "26:7.1",
@@ -382,6 +389,7 @@
         {
             "section_index": 8,
             "section_ref": "26:8",
+            "section_title": "8. Sūnaus Suradėjai",
             "pars": [
                 {
                     "par_ref": "26:8.1",
@@ -413,6 +421,7 @@
         {
             "section_index": 9,
             "section_ref": "26:9",
+            "section_title": "9. Tėvo Vadovai",
             "pars": [
                 {
                     "par_ref": "26:9.1",
@@ -439,6 +448,7 @@
         {
             "section_index": 10,
             "section_ref": "26:10",
+            "section_title": "10. Patarėjai ir Konsultantai",
             "pars": [
                 {
                     "par_ref": "26:10.1",
@@ -480,6 +490,7 @@
         {
             "section_index": 11,
             "section_ref": "26:11",
+            "section_title": "11. Poilsio Papildytojai",
             "pars": [
                 {
                     "par_ref": "26:11.1",

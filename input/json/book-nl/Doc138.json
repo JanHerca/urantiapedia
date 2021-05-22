@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "138:1",
+            "section_title": "1. De laatste instructies",
             "pars": [
                 {
                     "par_ref": "138:1.1",
@@ -51,6 +52,7 @@
         {
             "section_index": 2,
             "section_ref": "138:2",
+            "section_title": "2. Het uitkiezen van de zes",
             "pars": [
                 {
                     "par_ref": "138:2.1",
@@ -107,6 +109,7 @@
         {
             "section_index": 3,
             "section_ref": "138:3",
+            "section_title": "3. De roeping van Matteüs en Simon",
             "pars": [
                 {
                     "par_ref": "138:3.1",
@@ -153,6 +156,7 @@
         {
             "section_index": 4,
             "section_ref": "138:4",
+            "section_title": "4. De roeping van de tweelingbroers",
             "pars": [
                 {
                     "par_ref": "138:4.1",
@@ -179,6 +183,7 @@
         {
             "section_index": 5,
             "section_ref": "138:5",
+            "section_title": "5. De roeping van Tomas en Judas",
             "pars": [
                 {
                     "par_ref": "138:5.1",
@@ -205,6 +210,7 @@
         {
             "section_index": 6,
             "section_ref": "138:6",
+            "section_title": "6. Een week van intensieve training",
             "pars": [
                 {
                     "par_ref": "138:6.1",
@@ -236,6 +242,7 @@
         {
             "section_index": 7,
             "section_ref": "138:7",
+            "section_title": "7. Opnieuw teleurgesteld",
             "pars": [
                 {
                     "par_ref": "138:7.1",
@@ -277,6 +284,7 @@
         {
             "section_index": 8,
             "section_ref": "138:8",
+            "section_title": "8. Het eerste werk van de twaalf",
             "pars": [
                 {
                     "par_ref": "138:8.1",
@@ -338,6 +346,7 @@
         {
             "section_index": 9,
             "section_ref": "138:9",
+            "section_title": "9. Vijf maanden op de proef gesteld",
             "pars": [
                 {
                     "par_ref": "138:9.1",
@@ -359,6 +368,7 @@
         {
             "section_index": 10,
             "section_ref": "138:10",
+            "section_title": "10. De organisatie van de twaalf",
             "pars": [
                 {
                     "par_ref": "138:10.1",

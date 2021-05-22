@@ -15,6 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "121:1",
+            "section_title": "1. Vakarai pirmajame amžiuje po Kristaus",
             "pars": [
                 {
                     "par_ref": "121:1.1",
@@ -66,6 +67,7 @@
         {
             "section_index": 2,
             "section_ref": "121:2",
+            "section_title": "2. Žydų tauta",
             "pars": [
                 {
                     "par_ref": "121:2.1",
@@ -132,6 +134,7 @@
         {
             "section_index": 3,
             "section_ref": "121:3",
+            "section_title": "3. Tarp pagonių",
             "pars": [
                 {
                     "par_ref": "121:3.1",
@@ -188,6 +191,7 @@
         {
             "section_index": 4,
             "section_ref": "121:4",
+            "section_title": "4. Pagoniškoji filosofija",
             "pars": [
                 {
                     "par_ref": "121:4.1",
@@ -224,6 +228,7 @@
         {
             "section_index": 5,
             "section_ref": "121:5",
+            "section_title": "5. Pagonių religijos",
             "pars": [
                 {
                     "par_ref": "121:5.1",
@@ -320,6 +325,7 @@
         {
             "section_index": 6,
             "section_ref": "121:6",
+            "section_title": "6. Hebrajų religija",
             "pars": [
                 {
                     "par_ref": "121:6.1",
@@ -371,6 +377,7 @@
         {
             "section_index": 7,
             "section_ref": "121:7",
+            "section_title": "7. Žydai ir pagonys",
             "pars": [
                 {
                     "par_ref": "121:7.1",
@@ -437,6 +444,7 @@
         {
             "section_index": 8,
             "section_ref": "121:8",
+            "section_title": "8. Ankstesnieji parašyti dokumentai",
             "pars": [
                 {
                     "par_ref": "121:8.1",

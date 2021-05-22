@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "166:1",
+            "section_title": "1. Fariseukset Ragabassa",
             "pars": [
                 {
                     "par_ref": "166:1.1",
@@ -81,6 +82,7 @@
         {
             "section_index": 2,
             "section_ref": "166:2",
+            "section_title": "2. Kymmenen lepratautista",
             "pars": [
                 {
                     "par_ref": "166:2.1",
@@ -127,6 +129,7 @@
         {
             "section_index": 3,
             "section_ref": "166:3",
+            "section_title": "3. Saarna Gerasassa",
             "pars": [
                 {
                     "par_ref": "166:3.1",
@@ -173,6 +176,7 @@
         {
             "section_index": 4,
             "section_ref": "166:4",
+            "section_title": "4. Opetus onnettomuuksista",
             "pars": [
                 {
                     "par_ref": "166:4.1",
@@ -239,6 +243,7 @@
         {
             "section_index": 5,
             "section_ref": "166:5",
+            "section_title": "5. Filadelfian seurakunta",
             "pars": [
                 {
                     "par_ref": "166:5.1",

@@ -25,7 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "82:1",
-            "section_title": "1. אינסטינקט הזיווג",
+            "section_title": "\t1. אינסטינקט הזיווג",
             "pars": [
                 {
                     "par_ref": "82:1.1",
@@ -82,7 +82,7 @@
         {
             "section_index": 2,
             "section_ref": "82:2",
-            "section_title": "2. הטאבו המגבילים",
+            "section_title": "\t2. הטאבו המגבילים",
             "pars": [
                 {
                     "par_ref": "82:2.1",
@@ -114,7 +114,7 @@
         {
             "section_index": 3,
             "section_ref": "82:3",
-            "section_title": "3. מוסכמות הנישואין המוקדמות",
+            "section_title": "\t3. מוסכמות הנישואין המוקדמות",
             "pars": [
                 {
                     "par_ref": "82:3.1",
@@ -196,7 +196,7 @@
         {
             "section_index": 4,
             "section_ref": "82:4",
-            "section_title": "4. נישואין תחת מוסכמות הקניין",
+            "section_title": "\t4. נישואין תחת מוסכמות הקניין",
             "pars": [
                 {
                     "par_ref": "82:4.1",
@@ -228,7 +228,7 @@
         {
             "section_index": 5,
             "section_ref": "82:5",
-            "section_title": "5. אֶנְדּוֹגַמְיָה ואֶקְסוֹגַמְיָה",
+            "section_title": "\t5. אֶנְדּוֹגַמְיָה ואֶקְסוֹגַמְיָה",
             "pars": [
                 {
                     "par_ref": "82:5.1",
@@ -285,7 +285,7 @@
         {
             "section_index": 6,
             "section_ref": "82:6",
-            "section_title": "6. מזיגות גזעיות",
+            "section_title": "\t6. מזיגות גזעיות",
             "pars": [
                 {
                     "par_ref": "82:6.1",

@@ -35,6 +35,7 @@
         {
             "section_index": 1,
             "section_ref": "183:1",
+            "section_title": "1. A Vontade do Pai",
             "pars": [
                 {
                     "par_ref": "183:1.1",
@@ -51,6 +52,7 @@
         {
             "section_index": 2,
             "section_ref": "183:2",
+            "section_title": "2. Judas na Cidade",
             "pars": [
                 {
                     "par_ref": "183:2.1",
@@ -77,6 +79,7 @@
         {
             "section_index": 3,
             "section_ref": "183:3",
+            "section_title": "3. A Prisão do Mestre",
             "pars": [
                 {
                     "par_ref": "183:3.1",
@@ -133,6 +136,7 @@
         {
             "section_index": 4,
             "section_ref": "183:4",
+            "section_title": "4. A Discussão na Prensa de Olivas",
             "pars": [
                 {
                     "par_ref": "183:4.1",
@@ -179,6 +183,7 @@
         {
             "section_index": 5,
             "section_ref": "183:5",
+            "section_title": "5. A Caminho do Palácio do Sumo Sacerdote",
             "pars": [
                 {
                     "par_ref": "183:5.1",

@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "63:1",
+            "section_title": "1. Andon ja Fonta",
             "pars": [
                 {
                     "par_ref": "63:1.1",
@@ -51,6 +52,7 @@
         {
             "section_index": 2,
             "section_ref": "63:2",
+            "section_title": "2. Kaksikute põgenemine",
             "pars": [
                 {
                     "par_ref": "63:2.1",
@@ -92,6 +94,7 @@
         {
             "section_index": 3,
             "section_ref": "63:3",
+            "section_title": "3. Andoni perekond",
             "pars": [
                 {
                     "par_ref": "63:3.1",
@@ -128,6 +131,7 @@
         {
             "section_index": 4,
             "section_ref": "63:4",
+            "section_title": "4. Andoniitide suguvõsad",
             "pars": [
                 {
                     "par_ref": "63:4.1",
@@ -179,6 +183,7 @@
         {
             "section_index": 5,
             "section_ref": "63:5",
+            "section_title": "5. Andoniitide hajumine",
             "pars": [
                 {
                     "par_ref": "63:5.1",
@@ -220,6 +225,7 @@
         {
             "section_index": 6,
             "section_ref": "63:6",
+            "section_title": "6. Onagar — esimene tõeõpetaja",
             "pars": [
                 {
                     "par_ref": "63:6.1",
@@ -271,6 +277,7 @@
         {
             "section_index": 7,
             "section_ref": "63:7",
+            "section_title": "7. Andoni ja Fonta ellujäämine",
             "pars": [
                 {
                     "par_ref": "63:7.1",

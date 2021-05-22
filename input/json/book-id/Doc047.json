@@ -30,6 +30,7 @@
         {
             "section_index": 1,
             "section_ref": "47:1",
+            "section_title": "1. Dunianya para Finaliter",
             "pars": [
                 {
                     "par_ref": "47:1.1",
@@ -66,6 +67,7 @@
         {
             "section_index": 2,
             "section_ref": "47:2",
+            "section_title": "2. Tempat Perawatan Kanak-kanak Masa Percobaan",
             "pars": [
                 {
                     "par_ref": "47:2.1",
@@ -112,6 +114,7 @@
         {
             "section_index": 3,
             "section_ref": "47:3",
+            "section_title": "3. Dunia Mansion Pertama",
             "pars": [
                 {
                     "par_ref": "47:3.1",
@@ -178,6 +181,7 @@
         {
             "section_index": 4,
             "section_ref": "47:4",
+            "section_title": "4. Dunia Mansion Kedua",
             "pars": [
                 {
                     "par_ref": "47:4.1",
@@ -224,6 +228,7 @@
         {
             "section_index": 5,
             "section_ref": "47:5",
+            "section_title": "5. Dunia Mansion Ketiga",
             "pars": [
                 {
                     "par_ref": "47:5.1",
@@ -245,6 +250,7 @@
         {
             "section_index": 6,
             "section_ref": "47:6",
+            "section_title": "6. Dunia Mansion Keempat",
             "pars": [
                 {
                     "par_ref": "47:6.1",
@@ -271,6 +277,7 @@
         {
             "section_index": 7,
             "section_ref": "47:7",
+            "section_title": "7. Dunia Mansion Kelima",
             "pars": [
                 {
                     "par_ref": "47:7.1",
@@ -302,6 +309,7 @@
         {
             "section_index": 8,
             "section_ref": "47:8",
+            "section_title": "8. Dunia Mansion Keenam",
             "pars": [
                 {
                     "par_ref": "47:8.1",
@@ -343,6 +351,7 @@
         {
             "section_index": 9,
             "section_ref": "47:9",
+            "section_title": "9. Dunia Mansion Ketujuh",
             "pars": [
                 {
                     "par_ref": "47:9.1",
@@ -374,6 +383,7 @@
         {
             "section_index": 10,
             "section_ref": "47:10",
+            "section_title": "10. Kewargaan Yerusem",
             "pars": [
                 {
                     "par_ref": "47:10.1",

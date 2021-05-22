@@ -35,6 +35,7 @@
         {
             "section_index": 1,
             "section_ref": "128:1",
+            "section_title": "1. A huszonegyedik év (Kr.u. 15)",
             "pars": [
                 {
                     "par_ref": "128:1.1",
@@ -116,6 +117,7 @@
         {
             "section_index": 2,
             "section_ref": "128:2",
+            "section_title": "2. A huszonkettedik év (Kr.u. 16)",
             "pars": [
                 {
                     "par_ref": "128:2.1",
@@ -157,6 +159,7 @@
         {
             "section_index": 3,
             "section_ref": "128:3",
+            "section_title": "3. A huszonharmadik év (Kr.u. 17)",
             "pars": [
                 {
                     "par_ref": "128:3.1",
@@ -208,6 +211,7 @@
         {
             "section_index": 4,
             "section_ref": "128:4",
+            "section_title": "4. A damaszkuszi mellékesemény",
             "pars": [
                 {
                     "par_ref": "128:4.1",
@@ -259,6 +263,7 @@
         {
             "section_index": 5,
             "section_ref": "128:5",
+            "section_title": "5. A huszonnegyedik év (Kr.u. 18)",
             "pars": [
                 {
                     "par_ref": "128:5.1",
@@ -310,6 +315,7 @@
         {
             "section_index": 6,
             "section_ref": "128:6",
+            "section_title": "6. A huszonötödik év (Kr.u. 19)",
             "pars": [
                 {
                     "par_ref": "128:6.1",
@@ -376,6 +382,7 @@
         {
             "section_index": 7,
             "section_ref": "128:7",
+            "section_title": "7. A huszonhatodik év (Kr.u. 20)",
             "pars": [
                 {
                     "par_ref": "128:7.1",

@@ -15,6 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "121:1",
+            "section_title": "1. Západ v prvním století po Kristu",
             "pars": [
                 {
                     "par_ref": "121:1.1",
@@ -66,6 +67,7 @@
         {
             "section_index": 2,
             "section_ref": "121:2",
+            "section_title": "2. Židovský národ",
             "pars": [
                 {
                     "par_ref": "121:2.1",
@@ -132,6 +134,7 @@
         {
             "section_index": 3,
             "section_ref": "121:3",
+            "section_title": "3. Pohanský svět",
             "pars": [
                 {
                     "par_ref": "121:3.1",
@@ -188,6 +191,7 @@
         {
             "section_index": 4,
             "section_ref": "121:4",
+            "section_title": "4. Pohanská filozofie",
             "pars": [
                 {
                     "par_ref": "121:4.1",
@@ -224,6 +228,7 @@
         {
             "section_index": 5,
             "section_ref": "121:5",
+            "section_title": "5. Pohanská náboženství",
             "pars": [
                 {
                     "par_ref": "121:5.1",
@@ -320,6 +325,7 @@
         {
             "section_index": 6,
             "section_ref": "121:6",
+            "section_title": "6. Hebrejské náboženství",
             "pars": [
                 {
                     "par_ref": "121:6.1",
@@ -371,6 +377,7 @@
         {
             "section_index": 7,
             "section_ref": "121:7",
+            "section_title": "7. Židé a pohané",
             "pars": [
                 {
                     "par_ref": "121:7.1",
@@ -437,6 +444,7 @@
         {
             "section_index": 8,
             "section_ref": "121:8",
+            "section_title": "8. Předchozí písemná svědectví",
             "pars": [
                 {
                     "par_ref": "121:8.1",

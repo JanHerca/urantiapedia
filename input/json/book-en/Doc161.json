@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "161:1",
+            "section_title": "1. The Personality of God",
             "pars": [
                 {
                     "par_ref": "161:1.1",
@@ -81,6 +82,7 @@
         {
             "section_index": 2,
             "section_ref": "161:2",
+            "section_title": "2. The Divine Nature of Jesus",
             "pars": [
                 {
                     "par_ref": "161:2.1",
@@ -147,6 +149,7 @@
         {
             "section_index": 3,
             "section_ref": "161:3",
+            "section_title": "3. Jesus’ Human and Divine Minds",
             "pars": [
                 {
                     "par_ref": "161:3.1",

@@ -15,6 +15,7 @@
         {
             "section_index": 1,
             "section_ref": "115:1",
+            "section_title": "1. La Relatividad de los Marcos Conceptuales",
             "pars": [
                 {
                     "par_ref": "115:1.1",
@@ -41,6 +42,7 @@
         {
             "section_index": 2,
             "section_ref": "115:2",
+            "section_title": "2. La Base Absoluta para la Supremacía",
             "pars": [
                 {
                     "par_ref": "115:2.1",
@@ -67,6 +69,7 @@
         {
             "section_index": 3,
             "section_ref": "115:3",
+            "section_title": "3. Lo Original, lo Actual y lo Potencial",
             "pars": [
                 {
                     "par_ref": "115:3.1",
@@ -168,6 +171,7 @@
         {
             "section_index": 4,
             "section_ref": "115:4",
+            "section_title": "4. Las Fuentes de la Realidad Suprema",
             "pars": [
                 {
                     "par_ref": "115:4.1",
@@ -209,6 +213,7 @@
         {
             "section_index": 5,
             "section_ref": "115:5",
+            "section_title": "5. La Relación del Supremo con la Trinidad del Paraíso",
             "pars": [
                 {
                     "par_ref": "115:5.1",
@@ -225,6 +230,7 @@
         {
             "section_index": 6,
             "section_ref": "115:6",
+            "section_title": "6. La Relación del Supremo con las Triodidades",
             "pars": [
                 {
                     "par_ref": "115:6.1",
@@ -271,6 +277,7 @@
         {
             "section_index": 7,
             "section_ref": "115:7",
+            "section_title": "7. La Naturaleza del Supremo",
             "pars": [
                 {
                     "par_ref": "115:7.1",

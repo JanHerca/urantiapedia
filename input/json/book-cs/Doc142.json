@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "142:1",
+            "section_title": "1. Vyučování v chrámu",
             "pars": [
                 {
                     "par_ref": "142:1.1",
@@ -61,6 +62,7 @@
         {
             "section_index": 2,
             "section_ref": "142:2",
+            "section_title": "2. Boží hněv",
             "pars": [
                 {
                     "par_ref": "142:2.1",
@@ -92,6 +94,7 @@
         {
             "section_index": 3,
             "section_ref": "142:3",
+            "section_title": "3. Představa Boha",
             "pars": [
                 {
                     "par_ref": "142:3.1",
@@ -213,6 +216,7 @@
         {
             "section_index": 4,
             "section_ref": "142:4",
+            "section_title": "4. Flavius a řecká kultura",
             "pars": [
                 {
                     "par_ref": "142:4.1",
@@ -239,6 +243,7 @@
         {
             "section_index": 5,
             "section_ref": "142:5",
+            "section_title": "5. Rozprava o přesvědčení",
             "pars": [
                 {
                     "par_ref": "142:5.1",
@@ -270,6 +275,7 @@
         {
             "section_index": 6,
             "section_ref": "142:6",
+            "section_title": "6. Setkání s Nikodémem",
             "pars": [
                 {
                     "par_ref": "142:6.1",
@@ -321,6 +327,7 @@
         {
             "section_index": 7,
             "section_ref": "142:7",
+            "section_title": "7. LEKCE O RODINĚ",
             "pars": [
                 {
                     "par_ref": "142:7.1",
@@ -412,6 +419,7 @@
         {
             "section_index": 8,
             "section_ref": "142:8",
+            "section_title": "8. V jižní Judeji",
             "pars": [
                 {
                     "par_ref": "142:8.1",

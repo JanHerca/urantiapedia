@@ -65,6 +65,7 @@
         {
             "section_index": 1,
             "section_ref": "39:1",
+            "section_title": "1. Höchste Seraphim",
             "pars": [
                 {
                     "par_ref": "39:1.1",
@@ -161,6 +162,7 @@
         {
             "section_index": 2,
             "section_ref": "39:2",
+            "section_title": "2. Höhere Seraphim",
             "pars": [
                 {
                     "par_ref": "39:2.1",
@@ -257,6 +259,7 @@
         {
             "section_index": 3,
             "section_ref": "39:3",
+            "section_title": "3. Überwacher-Seraphim",
             "pars": [
                 {
                     "par_ref": "39:3.1",
@@ -318,6 +321,7 @@
         {
             "section_index": 4,
             "section_ref": "39:4",
+            "section_title": "4. Verwalterseraphim",
             "pars": [
                 {
                     "par_ref": "39:4.1",
@@ -414,6 +418,7 @@
         {
             "section_index": 5,
             "section_ref": "39:5",
+            "section_title": "5. Die planetarischen Helfer",
             "pars": [
                 {
                     "par_ref": "39:5.1",
@@ -505,6 +510,7 @@
         {
             "section_index": 6,
             "section_ref": "39:6",
+            "section_title": "6. Übergangs-Förderer",
             "pars": [
                 {
                     "par_ref": "39:6.1",
@@ -556,6 +562,7 @@
         {
             "section_index": 7,
             "section_ref": "39:7",
+            "section_title": "7. Seraphim der Zukunft",
             "pars": [
                 {
                     "par_ref": "39:7.1",
@@ -572,6 +579,7 @@
         {
             "section_index": 8,
             "section_ref": "39:8",
+            "section_title": "8. Seraphische Bestimmung",
             "pars": [
                 {
                     "par_ref": "39:8.1",
@@ -628,6 +636,7 @@
         {
             "section_index": 9,
             "section_ref": "39:9",
+            "section_title": "9. Das Korps der Seraphischen Vollendung",
             "pars": [
                 {
                     "par_ref": "39:9.1",

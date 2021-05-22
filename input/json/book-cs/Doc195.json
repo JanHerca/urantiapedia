@@ -100,6 +100,7 @@
         {
             "section_index": 1,
             "section_ref": "195:1",
+            "section_title": "1. Vliv Řeků",
             "pars": [
                 {
                     "par_ref": "195:1.1",
@@ -161,6 +162,7 @@
         {
             "section_index": 2,
             "section_ref": "195:2",
+            "section_title": "2. Vliv Římanů",
             "pars": [
                 {
                     "par_ref": "195:2.1",
@@ -212,6 +214,7 @@
         {
             "section_index": 3,
             "section_ref": "195:3",
+            "section_title": "3. Pod vládou římského impréria",
             "pars": [
                 {
                     "par_ref": "195:3.1",
@@ -273,6 +276,7 @@
         {
             "section_index": 4,
             "section_ref": "195:4",
+            "section_title": "4. Doba temna v Evropě",
             "pars": [
                 {
                     "par_ref": "195:4.1",
@@ -304,6 +308,7 @@
         {
             "section_index": 5,
             "section_ref": "195:5",
+            "section_title": "5. Problémy moderní doby",
             "pars": [
                 {
                     "par_ref": "195:5.1",
@@ -380,6 +385,7 @@
         {
             "section_index": 6,
             "section_ref": "195:6",
+            "section_title": "6. Materialismus",
             "pars": [
                 {
                     "par_ref": "195:6.1",
@@ -471,6 +477,7 @@
         {
             "section_index": 7,
             "section_ref": "195:7",
+            "section_title": "7. Zranitelnost materialismu",
             "pars": [
                 {
                     "par_ref": "195:7.1",
@@ -592,6 +599,7 @@
         {
             "section_index": 8,
             "section_ref": "195:8",
+            "section_title": "8. Sekulární totalitářství",
             "pars": [
                 {
                     "par_ref": "195:8.1",
@@ -663,6 +671,7 @@
         {
             "section_index": 9,
             "section_ref": "195:9",
+            "section_title": "9. Problémy křesťanství",
             "pars": [
                 {
                     "par_ref": "195:9.1",
@@ -724,6 +733,7 @@
         {
             "section_index": 10,
             "section_ref": "195:10",
+            "section_title": "10. Budoucnost",
             "pars": [
                 {
                     "par_ref": "195:10.1",

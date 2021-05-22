@@ -30,6 +30,7 @@
         {
             "section_index": 1,
             "section_ref": "8:1",
+            "section_title": "1. Tegutsev Jumal",
             "pars": [
                 {
                     "par_ref": "8:1.1",
@@ -91,6 +92,7 @@
         {
             "section_index": 2,
             "section_ref": "8:2",
+            "section_title": "2. Lõpmatu Vaimu olemus",
             "pars": [
                 {
                     "par_ref": "8:2.1",
@@ -137,6 +139,7 @@
         {
             "section_index": 3,
             "section_ref": "8:3",
+            "section_title": "3. Vaimu suhe Isa ja Pojaga",
             "pars": [
                 {
                     "par_ref": "8:3.1",
@@ -188,6 +191,7 @@
         {
             "section_index": 4,
             "section_ref": "8:4",
+            "section_title": "4. Jumaliku hoolitsuse Vaim",
             "pars": [
                 {
                     "par_ref": "8:4.1",
@@ -234,6 +238,7 @@
         {
             "section_index": 5,
             "section_ref": "8:5",
+            "section_title": "5. Jumala kohalolek",
             "pars": [
                 {
                     "par_ref": "8:5.1",
@@ -270,6 +275,7 @@
         {
             "section_index": 6,
             "section_ref": "8:6",
+            "section_title": "6. Lõpmatu Vaimu isiksus",
             "pars": [
                 {
                     "par_ref": "8:6.1",

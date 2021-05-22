@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "50:1",
+            "section_title": "1. De missie van de Vorsten",
             "pars": [
                 {
                     "par_ref": "50:1.1",
@@ -46,6 +47,7 @@
         {
             "section_index": 2,
             "section_ref": "50:2",
+            "section_title": "2. Het planetaire bestuur",
             "pars": [
                 {
                     "par_ref": "50:2.1",
@@ -87,6 +89,7 @@
         {
             "section_index": 3,
             "section_ref": "50:3",
+            "section_title": "3. De lichamelijke staf van de Vorst",
             "pars": [
                 {
                     "par_ref": "50:3.1",
@@ -123,6 +126,7 @@
         {
             "section_index": 4,
             "section_ref": "50:4",
+            "section_title": "4. Het planetaire hoofdkwartier en de scholen",
             "pars": [
                 {
                     "par_ref": "50:4.1",
@@ -194,6 +198,7 @@
         {
             "section_index": 5,
             "section_ref": "50:5",
+            "section_title": "5. Voortschrijdende civilisatie",
             "pars": [
                 {
                     "par_ref": "50:5.1",
@@ -255,6 +260,7 @@
         {
             "section_index": 6,
             "section_ref": "50:6",
+            "section_title": "6. De planetaire cultuur",
             "pars": [
                 {
                     "par_ref": "50:6.1",
@@ -286,6 +292,7 @@
         {
             "section_index": 7,
             "section_ref": "50:7",
+            "section_title": "7. De voordelen van het isolement",
             "pars": [
                 {
                     "par_ref": "50:7.1",

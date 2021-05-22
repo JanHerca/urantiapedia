@@ -45,7 +45,7 @@
         {
             "section_index": 1,
             "section_ref": "107:1",
-            "section_title": "1. מקורם של מכווני המחשבה",
+            "section_title": "\t1. מקורם של מכווני המחשבה",
             "pars": [
                 {
                     "par_ref": "107:1.1",
@@ -87,7 +87,7 @@
         {
             "section_index": 2,
             "section_ref": "107:2",
-            "section_title": "2. סיווג של מכווננים",
+            "section_title": "\t2. סיווג של מכווננים",
             "pars": [
                 {
                     "par_ref": "107:2.1",
@@ -139,7 +139,7 @@
         {
             "section_index": 3,
             "section_ref": "107:3",
-            "section_title": "3. ביתם של המכווננים בדִיוִינִינְגְטוֹן",
+            "section_title": "\t3. ביתם של המכווננים בדִיוִינִינְגְטוֹן",
             "pars": [
                 {
                     "par_ref": "107:3.1",
@@ -196,7 +196,7 @@
         {
             "section_index": 4,
             "section_ref": "107:4",
-            "section_title": "4. טיבם ונוכחותם של המכווננים",
+            "section_title": "\t4. טיבם ונוכחותם של המכווננים",
             "pars": [
                 {
                     "par_ref": "107:4.1",
@@ -238,7 +238,7 @@
         {
             "section_index": 5,
             "section_ref": "107:5",
-            "section_title": "5. דעתם של המכווננים",
+            "section_title": "\t5. דעתם של המכווננים",
             "pars": [
                 {
                     "par_ref": "107:5.1",
@@ -275,7 +275,7 @@
         {
             "section_index": 6,
             "section_ref": "107:6",
-            "section_title": "6. מכווננים כרוחות טהורות",
+            "section_title": "\t6. מכווננים כרוחות טהורות",
             "pars": [
                 {
                     "par_ref": "107:6.1",
@@ -317,7 +317,7 @@
         {
             "section_index": 7,
             "section_ref": "107:7",
-            "section_title": "7. מכווננים ואישיוּת",
+            "section_title": "\t7. מכווננים ואישיוּת",
             "pars": [
                 {
                     "par_ref": "107:7.1",

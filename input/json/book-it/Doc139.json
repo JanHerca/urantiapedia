@@ -30,6 +30,7 @@
         {
             "section_index": 1,
             "section_ref": "139:1",
+            "section_title": "1. Andrea, il primo scelto",
             "pars": [
                 {
                     "par_ref": "139:1.1",
@@ -96,6 +97,7 @@
         {
             "section_index": 2,
             "section_ref": "139:2",
+            "section_title": "2. Simon Pietro",
             "pars": [
                 {
                     "par_ref": "139:2.1",
@@ -177,6 +179,7 @@
         {
             "section_index": 3,
             "section_ref": "139:3",
+            "section_title": "3. Giacomo Zebedeo",
             "pars": [
                 {
                     "par_ref": "139:3.1",
@@ -228,6 +231,7 @@
         {
             "section_index": 4,
             "section_ref": "139:4",
+            "section_title": "4. Giovanni Zebedeo",
             "pars": [
                 {
                     "par_ref": "139:4.1",
@@ -309,6 +313,7 @@
         {
             "section_index": 5,
             "section_ref": "139:5",
+            "section_title": "5. Filippo il curioso",
             "pars": [
                 {
                     "par_ref": "139:5.1",
@@ -375,6 +380,7 @@
         {
             "section_index": 6,
             "section_ref": "139:6",
+            "section_title": "6. L’onesto Natanaele",
             "pars": [
                 {
                     "par_ref": "139:6.1",
@@ -426,6 +432,7 @@
         {
             "section_index": 7,
             "section_ref": "139:7",
+            "section_title": "7. Matteo Levi",
             "pars": [
                 {
                     "par_ref": "139:7.1",
@@ -482,6 +489,7 @@
         {
             "section_index": 8,
             "section_ref": "139:8",
+            "section_title": "8. Tommaso Didimo",
             "pars": [
                 {
                     "par_ref": "139:8.1",
@@ -553,6 +561,7 @@
         {
             "section_index": 10,
             "section_ref": "139:10",
+            "section_title": "9. e 10. Giacomo e Giuda Alfeo",
             "pars": [
                 {
                     "par_ref": "139:10.1",
@@ -614,6 +623,7 @@
         {
             "section_index": 11,
             "section_ref": "139:11",
+            "section_title": "11. Simone lo Zelota",
             "pars": [
                 {
                     "par_ref": "139:11.1",
@@ -675,6 +685,7 @@
         {
             "section_index": 12,
             "section_ref": "139:12",
+            "section_title": "12. Giuda Iscariota",
             "pars": [
                 {
                     "par_ref": "139:12.1",

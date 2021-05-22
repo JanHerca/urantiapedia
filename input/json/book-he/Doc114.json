@@ -65,7 +65,7 @@
         {
             "section_index": 1,
             "section_ref": "114:1",
-            "section_title": "1. ריבונותה של אורנטיה",
+            "section_title": "\t1. ריבונותה של אורנטיה",
             "pars": [
                 {
                     "par_ref": "114:1.1",
@@ -92,7 +92,7 @@
         {
             "section_index": 2,
             "section_ref": "114:2",
-            "section_title": "2. מועצת המנהלים של מפקחי הפלנטה",
+            "section_title": "\t2. מועצת המנהלים של מפקחי הפלנטה",
             "pars": [
                 {
                     "par_ref": "114:2.1",
@@ -129,7 +129,7 @@
         {
             "section_index": 3,
             "section_ref": "114:3",
-            "section_title": "3. המושל הכללי השוכן",
+            "section_title": "\t3. המושל הכללי השוכן",
             "pars": [
                 {
                     "par_ref": "114:3.1",
@@ -161,7 +161,7 @@
         {
             "section_index": 4,
             "section_ref": "114:4",
-            "section_title": "4. המשקיף הגבוה ביותר",
+            "section_title": "\t4. המשקיף הגבוה ביותר",
             "pars": [
                 {
                     "par_ref": "114:4.1",
@@ -193,7 +193,7 @@
         {
             "section_index": 5,
             "section_ref": "114:5",
-            "section_title": "5. הממשל הפלנטארי",
+            "section_title": "\t5. הממשל הפלנטארי",
             "pars": [
                 {
                     "par_ref": "114:5.1",
@@ -230,7 +230,7 @@
         {
             "section_index": 6,
             "section_ref": "114:6",
-            "section_title": "6. השרפים המאסטר של הפיקוח הפלנטארי",
+            "section_title": "\t6. השרפים המאסטר של הפיקוח הפלנטארי",
             "pars": [
                 {
                     "par_ref": "114:6.1",
@@ -337,7 +337,7 @@
         {
             "section_index": 7,
             "section_ref": "114:7",
-            "section_title": "7. סגל המילואים של גורל",
+            "section_title": "\t7. סגל המילואים של גורל",
             "pars": [
                 {
                     "par_ref": "114:7.1",

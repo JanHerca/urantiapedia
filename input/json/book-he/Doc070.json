@@ -25,7 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "70:1",
-            "section_title": "1. היווצרות המלחמה",
+            "section_title": "\t1. היווצרות המלחמה",
             "pars": [
                 {
                     "par_ref": "70:1.1",
@@ -142,7 +142,7 @@
         {
             "section_index": 2,
             "section_ref": "70:2",
-            "section_title": "2. ערכה החברתי של המלחמה",
+            "section_title": "\t2. ערכה החברתי של המלחמה",
             "pars": [
                 {
                     "par_ref": "70:2.1",
@@ -254,7 +254,7 @@
         {
             "section_index": 3,
             "section_ref": "70:3",
-            "section_title": "3. התאגדויות אנושיות מוקדמות",
+            "section_title": "\t3. התאגדויות אנושיות מוקדמות",
             "pars": [
                 {
                     "par_ref": "70:3.1",
@@ -316,7 +316,7 @@
         {
             "section_index": 4,
             "section_ref": "70:4",
-            "section_title": "4. חַמוּלוֹת ושבטים",
+            "section_title": "\t4. חַמוּלוֹת ושבטים",
             "pars": [
                 {
                     "par_ref": "70:4.1",
@@ -373,7 +373,7 @@
         {
             "section_index": 5,
             "section_ref": "70:5",
-            "section_title": "5. ההתחלות של הממשל",
+            "section_title": "\t5. ההתחלות של הממשל",
             "pars": [
                 {
                     "par_ref": "70:5.1",
@@ -425,7 +425,7 @@
         {
             "section_index": 6,
             "section_ref": "70:6",
-            "section_title": "6. ממשל מלוכני",
+            "section_title": "\t6. ממשל מלוכני",
             "pars": [
                 {
                     "par_ref": "70:6.1",
@@ -462,7 +462,7 @@
         {
             "section_index": 7,
             "section_ref": "70:7",
-            "section_title": "7. חברות סודיות ומועדונים פרימיטיביים",
+            "section_title": "\t7. חברות סודיות ומועדונים פרימיטיביים",
             "pars": [
                 {
                     "par_ref": "70:7.1",
@@ -564,7 +564,7 @@
         {
             "section_index": 8,
             "section_ref": "70:8",
-            "section_title": "8. מעמדות חברתיים",
+            "section_title": "\t8. מעמדות חברתיים",
             "pars": [
                 {
                     "par_ref": "70:8.1",
@@ -661,7 +661,7 @@
         {
             "section_index": 9,
             "section_ref": "70:9",
-            "section_title": "9. זכויות אדם",
+            "section_title": "\t9. זכויות אדם",
             "pars": [
                 {
                     "par_ref": "70:9.1",
@@ -753,7 +753,7 @@
         {
             "section_index": 10,
             "section_ref": "70:10",
-            "section_title": "10. האבולוציה של הצדק",
+            "section_title": "\t10. האבולוציה של הצדק",
             "pars": [
                 {
                     "par_ref": "70:10.1",
@@ -840,7 +840,7 @@
         {
             "section_index": 11,
             "section_ref": "70:11",
-            "section_title": "11. חוקים ובתי-משפט",
+            "section_title": "\t11. חוקים ובתי-משפט",
             "pars": [
                 {
                     "par_ref": "70:11.1",
@@ -917,7 +917,7 @@
         {
             "section_index": 12,
             "section_ref": "70:12",
-            "section_title": "12. הקצאת סמכות אזרחית",
+            "section_title": "\t12. הקצאת סמכות אזרחית",
             "pars": [
                 {
                     "par_ref": "70:12.1",

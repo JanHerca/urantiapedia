@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "42:1",
+            "section_title": "1. Paradisets krafter og energier",
             "pars": [
                 {
                     "par_ref": "42:1.1",
@@ -71,6 +72,7 @@
         {
             "section_index": 2,
             "section_ref": "42:2",
+            "section_title": "2. De universelle ikke-åndelige energisystemer",
             "pars": [
                 {
                     "par_ref": "42:2.1",
@@ -192,6 +194,7 @@
         {
             "section_index": 3,
             "section_ref": "42:3",
+            "section_title": "3. Klassificeringen af materie",
             "pars": [
                 {
                     "par_ref": "42:3.1",
@@ -263,6 +266,7 @@
         {
             "section_index": 4,
             "section_ref": "42:4",
+            "section_title": "4. Forvandlingerne af energi og materie",
             "pars": [
                 {
                     "par_ref": "42:4.1",
@@ -339,6 +343,7 @@
         {
             "section_index": 5,
             "section_ref": "42:5",
+            "section_title": "5. Den bølgeformede energis manifestationer",
             "pars": [
                 {
                     "par_ref": "42:5.1",
@@ -425,6 +430,7 @@
         {
             "section_index": 6,
             "section_ref": "42:6",
+            "section_title": "6. ultimatoner, elektroner og atomer",
             "pars": [
                 {
                     "par_ref": "42:6.1",
@@ -471,6 +477,7 @@
         {
             "section_index": 7,
             "section_ref": "42:7",
+            "section_title": "7. Atomisk materie",
             "pars": [
                 {
                     "par_ref": "42:7.1",
@@ -527,6 +534,7 @@
         {
             "section_index": 8,
             "section_ref": "42:8",
+            "section_title": "8. Atomets kohæsion",
             "pars": [
                 {
                     "par_ref": "42:8.1",
@@ -568,6 +576,7 @@
         {
             "section_index": 9,
             "section_ref": "42:9",
+            "section_title": "9. Naturfilosofi",
             "pars": [
                 {
                     "par_ref": "42:9.1",
@@ -599,6 +608,7 @@
         {
             "section_index": 10,
             "section_ref": "42:10",
+            "section_title": "10. Universelle ikke-åndelige energisystemer",
             "pars": [
                 {
                     "par_ref": "42:10.1",
@@ -640,6 +650,7 @@
         {
             "section_index": 11,
             "section_ref": "42:11",
+            "section_title": "11. Universets mekanismer",
             "pars": [
                 {
                     "par_ref": "42:11.1",
@@ -686,6 +697,7 @@
         {
             "section_index": 12,
             "section_ref": "42:12",
+            "section_title": "12. Mønster og form - sindets dominans",
             "pars": [
                 {
                     "par_ref": "42:12.1",

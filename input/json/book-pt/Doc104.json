@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "104:1",
+            "section_title": "1. Os Conceitos Urantianos de Trindade",
             "pars": [
                 {
                     "par_ref": "104:1.1",
@@ -96,6 +97,7 @@
         {
             "section_index": 2,
             "section_ref": "104:2",
+            "section_title": "2. A Unidade da Trindade e a Pluralidade da Deidade",
             "pars": [
                 {
                     "par_ref": "104:2.1",
@@ -132,6 +134,7 @@
         {
             "section_index": 3,
             "section_ref": "104:3",
+            "section_title": "3. Trindades e Triunidades",
             "pars": [
                 {
                     "par_ref": "104:3.1",
@@ -228,6 +231,7 @@
         {
             "section_index": 4,
             "section_ref": "104:4",
+            "section_title": "4. As Sete Triunidades",
             "pars": [
                 {
                     "par_ref": "104:4.1",
@@ -469,6 +473,7 @@
         {
             "section_index": 5,
             "section_ref": "104:5",
+            "section_title": "5. As Triodidades",
             "pars": [
                 {
                     "par_ref": "104:5.1",

@@ -25,7 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "83:1",
-            "section_title": "1. הנישואין כמוסד חברתי",
+            "section_title": "\t1. הנישואין כמוסד חברתי",
             "pars": [
                 {
                     "par_ref": "83:1.1",
@@ -57,7 +57,7 @@
         {
             "section_index": 2,
             "section_ref": "83:2",
-            "section_title": "2. חיזור ואירוסין",
+            "section_title": "\t2. חיזור ואירוסין",
             "pars": [
                 {
                     "par_ref": "83:2.1",
@@ -94,7 +94,7 @@
         {
             "section_index": 3,
             "section_ref": "83:3",
-            "section_title": "3. רכישה ונדוניה",
+            "section_title": "\t3. רכישה ונדוניה",
             "pars": [
                 {
                     "par_ref": "83:3.1",
@@ -121,7 +121,7 @@
         {
             "section_index": 4,
             "section_ref": "83:4",
-            "section_title": "4. טקס החתונה",
+            "section_title": "\t4. טקס החתונה",
             "pars": [
                 {
                     "par_ref": "83:4.1",
@@ -173,7 +173,7 @@
         {
             "section_index": 5,
             "section_ref": "83:5",
-            "section_title": "5. נישואין מרובים",
+            "section_title": "\t5. נישואין מרובים",
             "pars": [
                 {
                     "par_ref": "83:5.1",
@@ -255,7 +255,7 @@
         {
             "section_index": 6,
             "section_ref": "83:6",
-            "section_title": "6. מונוגמיה אמיתית – נישואין של זוג",
+            "section_title": "\t6. מונוגמיה אמיתית – נישואין של זוג",
             "pars": [
                 {
                     "par_ref": "83:6.1",
@@ -302,7 +302,7 @@
         {
             "section_index": 7,
             "section_ref": "83:7",
-            "section_title": "7. פירוק קשר הנישואין",
+            "section_title": "\t7. פירוק קשר הנישואין",
             "pars": [
                 {
                     "par_ref": "83:7.1",
@@ -354,7 +354,7 @@
         {
             "section_index": 8,
             "section_ref": "83:8",
-            "section_title": "8. האידאליזציה של הנישואין",
+            "section_title": "\t8. האידאליזציה של הנישואין",
             "pars": [
                 {
                     "par_ref": "83:8.1",

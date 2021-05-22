@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "189:1",
+            "section_title": "1. The Morontia Transit",
             "pars": [
                 {
                     "par_ref": "189:1.1",
@@ -96,6 +97,7 @@
         {
             "section_index": 2,
             "section_ref": "189:2",
+            "section_title": "2. The Material Body of Jesus",
             "pars": [
                 {
                     "par_ref": "189:2.1",
@@ -147,6 +149,7 @@
         {
             "section_index": 3,
             "section_ref": "189:3",
+            "section_title": "3. The Dispensational Resurrection",
             "pars": [
                 {
                     "par_ref": "189:3.1",
@@ -178,6 +181,7 @@
         {
             "section_index": 4,
             "section_ref": "189:4",
+            "section_title": "4. Discovery of the Empty Tomb",
             "pars": [
                 {
                     "par_ref": "189:4.1",
@@ -254,6 +258,7 @@
         {
             "section_index": 5,
             "section_ref": "189:5",
+            "section_title": "5. Peter and John at the Tomb",
             "pars": [
                 {
                     "par_ref": "189:5.1",

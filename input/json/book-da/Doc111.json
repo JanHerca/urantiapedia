@@ -45,6 +45,7 @@
         {
             "section_index": 1,
             "section_ref": "111:1",
+            "section_title": "1. Sindet - mødested for at vælge",
             "pars": [
                 {
                     "par_ref": "111:1.1",
@@ -96,6 +97,7 @@
         {
             "section_index": 2,
             "section_ref": "111:2",
+            "section_title": "2. Sjælens natur",
             "pars": [
                 {
                     "par_ref": "111:2.1",
@@ -152,6 +154,7 @@
         {
             "section_index": 3,
             "section_ref": "111:3",
+            "section_title": "3. Den udviklende sjæl",
             "pars": [
                 {
                     "par_ref": "111:3.1",
@@ -193,6 +196,7 @@
         {
             "section_index": 4,
             "section_ref": "111:4",
+            "section_title": "4. Det indre liv",
             "pars": [
                 {
                     "par_ref": "111:4.1",
@@ -259,6 +263,7 @@
         {
             "section_index": 5,
             "section_ref": "111:5",
+            "section_title": "5. Indvielsen af valg",
             "pars": [
                 {
                     "par_ref": "111:5.1",
@@ -295,6 +300,7 @@
         {
             "section_index": 6,
             "section_ref": "111:6",
+            "section_title": "6. Menneskets paradoks",
             "pars": [
                 {
                     "par_ref": "111:6.1",
@@ -351,6 +357,7 @@
         {
             "section_index": 7,
             "section_ref": "111:7",
+            "section_title": "7. Retterens problem",
             "pars": [
                 {
                     "par_ref": "111:7.1",

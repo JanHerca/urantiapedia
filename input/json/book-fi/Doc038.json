@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "38:1",
+            "section_title": "1. Serafien alkuperä",
             "pars": [
                 {
                     "par_ref": "38:1.1",
@@ -46,6 +47,7 @@
         {
             "section_index": 2,
             "section_ref": "38:2",
+            "section_title": "2. Enkelien olemus",
             "pars": [
                 {
                     "par_ref": "38:2.1",
@@ -82,6 +84,7 @@
         {
             "section_index": 3,
             "section_ref": "38:3",
+            "section_title": "3. Esittelemättä jäävät enkelit",
             "pars": [
                 {
                     "par_ref": "38:3.1",
@@ -93,6 +96,7 @@
         {
             "section_index": 4,
             "section_ref": "38:4",
+            "section_title": "4. Serafien maailmat",
             "pars": [
                 {
                     "par_ref": "38:4.1",
@@ -119,6 +123,7 @@
         {
             "section_index": 5,
             "section_ref": "38:5",
+            "section_title": "5. Serafien koulutus",
             "pars": [
                 {
                     "par_ref": "38:5.1",
@@ -145,6 +150,7 @@
         {
             "section_index": 6,
             "section_ref": "38:6",
+            "section_title": "6. Serafien organisaatio",
             "pars": [
                 {
                     "par_ref": "38:6.1",
@@ -166,6 +172,7 @@
         {
             "section_index": 7,
             "section_ref": "38:7",
+            "section_title": "7. Kerubit ja sanobit",
             "pars": [
                 {
                     "par_ref": "38:7.1",
@@ -207,6 +214,7 @@
         {
             "section_index": 8,
             "section_ref": "38:8",
+            "section_title": "8. Kerubien ja sanobien kehitys",
             "pars": [
                 {
                     "par_ref": "38:8.1",
@@ -243,6 +251,7 @@
         {
             "section_index": 9,
             "section_ref": "38:9",
+            "section_title": "9. Keskiväliolennot",
             "pars": [
                 {
                     "par_ref": "38:9.1",

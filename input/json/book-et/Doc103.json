@@ -45,6 +45,7 @@
         {
             "section_index": 1,
             "section_ref": "103:1",
+            "section_title": "1. Religioonifilosoofia",
             "pars": [
                 {
                     "par_ref": "103:1.1",
@@ -81,6 +82,7 @@
         {
             "section_index": 2,
             "section_ref": "103:2",
+            "section_title": "2. Religioon ja üksikisik",
             "pars": [
                 {
                     "par_ref": "103:2.1",
@@ -137,6 +139,7 @@
         {
             "section_index": 3,
             "section_ref": "103:3",
+            "section_title": "3. Religioon ja inimsugu",
             "pars": [
                 {
                     "par_ref": "103:3.1",
@@ -168,6 +171,7 @@
         {
             "section_index": 4,
             "section_ref": "103:4",
+            "section_title": "4. Vaimne osadus",
             "pars": [
                 {
                     "par_ref": "103:4.1",
@@ -199,6 +203,7 @@
         {
             "section_index": 5,
             "section_ref": "103:5",
+            "section_title": "5. Ideaalide päritolu",
             "pars": [
                 {
                     "par_ref": "103:5.1",
@@ -265,6 +270,7 @@
         {
             "section_index": 6,
             "section_ref": "103:6",
+            "section_title": "6. Filosoofiline kooskõlastamine",
             "pars": [
                 {
                     "par_ref": "103:6.1",
@@ -346,6 +352,7 @@
         {
             "section_index": 7,
             "section_ref": "103:7",
+            "section_title": "7. Teadus ja religioon",
             "pars": [
                 {
                     "par_ref": "103:7.1",
@@ -427,6 +434,7 @@
         {
             "section_index": 8,
             "section_ref": "103:8",
+            "section_title": "8. Filosoofia ja religioon",
             "pars": [
                 {
                     "par_ref": "103:8.1",
@@ -463,6 +471,7 @@
         {
             "section_index": 9,
             "section_ref": "103:9",
+            "section_title": "9. Religiooni põhiolemus",
             "pars": [
                 {
                     "par_ref": "103:9.1",

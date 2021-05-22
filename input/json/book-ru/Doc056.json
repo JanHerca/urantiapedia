@@ -20,6 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "56:1",
+            "section_title": "1. Физическая координация",
             "pars": [
                 {
                     "par_ref": "56:1.1",
@@ -56,6 +57,7 @@
         {
             "section_index": 2,
             "section_ref": "56:2",
+            "section_title": "2. Интеллектуальное единство",
             "pars": [
                 {
                     "par_ref": "56:2.1",
@@ -77,6 +79,7 @@
         {
             "section_index": 3,
             "section_ref": "56:3",
+            "section_title": "3. Духовное объединение",
             "pars": [
                 {
                     "par_ref": "56:3.1",
@@ -113,6 +116,7 @@
         {
             "section_index": 4,
             "section_ref": "56:4",
+            "section_title": "4. Личностное объединение",
             "pars": [
                 {
                     "par_ref": "56:4.1",
@@ -144,6 +148,7 @@
         {
             "section_index": 5,
             "section_ref": "56:5",
+            "section_title": "5. Единство Божества",
             "pars": [
                 {
                     "par_ref": "56:5.1",
@@ -170,6 +175,7 @@
         {
             "section_index": 6,
             "section_ref": "56:6",
+            "section_title": "6. Объединение эволюционного Божества",
             "pars": [
                 {
                     "par_ref": "56:6.1",
@@ -201,6 +207,7 @@
         {
             "section_index": 7,
             "section_ref": "56:7",
+            "section_title": "7. Всеобщие последствия эволюции",
             "pars": [
                 {
                     "par_ref": "56:7.1",
@@ -252,6 +259,7 @@
         {
             "section_index": 8,
             "section_ref": "56:8",
+            "section_title": "8. Верховный объединитель",
             "pars": [
                 {
                     "par_ref": "56:8.1",
@@ -278,6 +286,7 @@
         {
             "section_index": 9,
             "section_ref": "56:9",
+            "section_title": "9. Всеобщее абсолютное единство",
             "pars": [
                 {
                     "par_ref": "56:9.1",
@@ -354,6 +363,7 @@
         {
             "section_index": 10,
             "section_ref": "56:10",
+            "section_title": "10. Истина, красота и благость",
             "pars": [
                 {
                     "par_ref": "56:10.1",

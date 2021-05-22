@@ -45,6 +45,7 @@
         {
             "section_index": 1,
             "section_ref": "111:1",
+            "section_title": "1. Cadrul mental al alegerii",
             "pars": [
                 {
                     "par_ref": "111:1.1",
@@ -96,6 +97,7 @@
         {
             "section_index": 2,
             "section_ref": "111:2",
+            "section_title": "2. Natura sufletului",
             "pars": [
                 {
                     "par_ref": "111:2.1",
@@ -152,6 +154,7 @@
         {
             "section_index": 3,
             "section_ref": "111:3",
+            "section_title": "3. Sufletul în evoluţie",
             "pars": [
                 {
                     "par_ref": "111:3.1",
@@ -193,6 +196,7 @@
         {
             "section_index": 4,
             "section_ref": "111:4",
+            "section_title": "4. Viaţa interioară",
             "pars": [
                 {
                     "par_ref": "111:4.1",
@@ -259,6 +263,7 @@
         {
             "section_index": 5,
             "section_ref": "111:5",
+            "section_title": "5. Consacrarea alegerii",
             "pars": [
                 {
                     "par_ref": "111:5.1",
@@ -295,6 +300,7 @@
         {
             "section_index": 6,
             "section_ref": "111:6",
+            "section_title": "6. Paradoxul uman",
             "pars": [
                 {
                     "par_ref": "111:6.1",
@@ -351,6 +357,7 @@
         {
             "section_index": 7,
             "section_ref": "111:7",
+            "section_title": "7. Problema Ajustorului",
             "pars": [
                 {
                     "par_ref": "111:7.1",

@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "173:1",
+            "section_title": "1. Reinigung des Tempels",
             "pars": [
                 {
                     "par_ref": "173:1.1",
@@ -86,6 +87,7 @@
         {
             "section_index": 2,
             "section_ref": "173:2",
+            "section_title": "2. Anfechtung der Autorität des Meisters",
             "pars": [
                 {
                     "par_ref": "173:2.1",
@@ -132,6 +134,7 @@
         {
             "section_index": 3,
             "section_ref": "173:3",
+            "section_title": "3. Gleichnis von den beiden Söhnen",
             "pars": [
                 {
                     "par_ref": "173:3.1",
@@ -158,6 +161,7 @@
         {
             "section_index": 4,
             "section_ref": "173:4",
+            "section_title": "4. Gleichnis vom abwesenden Gutsbesitzer",
             "pars": [
                 {
                     "par_ref": "173:4.1",
@@ -189,6 +193,7 @@
         {
             "section_index": 5,
             "section_ref": "173:5",
+            "section_title": "5. Gleichnis vom Hochzeitsfest",
             "pars": [
                 {
                     "par_ref": "173:5.1",

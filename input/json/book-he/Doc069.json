@@ -25,7 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "69:1",
-            "section_title": "1. המוסדות האנושיים הבסיסיים",
+            "section_title": "\t1. המוסדות האנושיים הבסיסיים",
             "pars": [
                 {
                     "par_ref": "69:1.1",
@@ -62,7 +62,7 @@
         {
             "section_index": 2,
             "section_ref": "69:2",
-            "section_title": "2. שחר התעשייה",
+            "section_title": "\t2. שחר התעשייה",
             "pars": [
                 {
                     "par_ref": "69:2.1",
@@ -104,7 +104,7 @@
         {
             "section_index": 3,
             "section_ref": "69:3",
-            "section_title": "3. ההתמקצעות בעבודה",
+            "section_title": "\t3. ההתמקצעות בעבודה",
             "pars": [
                 {
                     "par_ref": "69:3.1",
@@ -166,7 +166,7 @@
         {
             "section_index": 4,
             "section_ref": "69:4",
-            "section_title": "4. תחילתו של הסחר",
+            "section_title": "\t4. תחילתו של הסחר",
             "pars": [
                 {
                     "par_ref": "69:4.1",
@@ -213,7 +213,7 @@
         {
             "section_index": 5,
             "section_ref": "69:5",
-            "section_title": "5. תחילתו של ההון",
+            "section_title": "\t5. תחילתו של ההון",
             "pars": [
                 {
                     "par_ref": "69:5.1",
@@ -295,7 +295,7 @@
         {
             "section_index": 6,
             "section_ref": "69:6",
-            "section_title": "6. האש ויחסה לציוויליזציה",
+            "section_title": "\t6. האש ויחסה לציוויליזציה",
             "pars": [
                 {
                     "par_ref": "69:6.1",
@@ -342,7 +342,7 @@
         {
             "section_index": 7,
             "section_ref": "69:7",
-            "section_title": "7. השימוש בבעלי-חיים",
+            "section_title": "\t7. השימוש בבעלי-חיים",
             "pars": [
                 {
                     "par_ref": "69:7.1",
@@ -374,7 +374,7 @@
         {
             "section_index": 8,
             "section_ref": "69:8",
-            "section_title": "8. העבדות כגורם בציוויליזציה",
+            "section_title": "\t8. העבדות כגורם בציוויליזציה",
             "pars": [
                 {
                     "par_ref": "69:8.1",
@@ -441,7 +441,7 @@
         {
             "section_index": 9,
             "section_ref": "69:9",
-            "section_title": "9. רכוש פרטי",
+            "section_title": "\t9. רכוש פרטי",
             "pars": [
                 {
                     "par_ref": "69:9.1",

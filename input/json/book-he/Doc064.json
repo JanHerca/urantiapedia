@@ -20,7 +20,7 @@
         {
             "section_index": 1,
             "section_ref": "64:1",
-            "section_title": "1. האבוריג'ינים האנדוניים",
+            "section_title": "\t1. האבוריג'ינים האנדוניים",
             "pars": [
                 {
                     "par_ref": "64:1.1",
@@ -67,7 +67,7 @@
         {
             "section_index": 2,
             "section_ref": "64:2",
-            "section_title": "2. העמים של פוֹקְסְהוֹל",
+            "section_title": "\t2. העמים של פוֹקְסְהוֹל",
             "pars": [
                 {
                     "par_ref": "64:2.1",
@@ -109,7 +109,7 @@
         {
             "section_index": 3,
             "section_ref": "64:3",
-            "section_title": "3. השבטים של בָּאדוֹנַאן",
+            "section_title": "\t3. השבטים של בָּאדוֹנַאן",
             "pars": [
                 {
                     "par_ref": "64:3.1",
@@ -141,7 +141,7 @@
         {
             "section_index": 4,
             "section_ref": "64:4",
-            "section_title": "4. הגזעים הניאנדרטליים",
+            "section_title": "\t4. הגזעים הניאנדרטליים",
             "pars": [
                 {
                     "par_ref": "64:4.1",
@@ -213,7 +213,7 @@
         {
             "section_index": 5,
             "section_ref": "64:5",
-            "section_title": "5. המקור של הגזעים הצבעוניים",
+            "section_title": "\t5. המקור של הגזעים הצבעוניים",
             "pars": [
                 {
                     "par_ref": "64:5.1",
@@ -240,7 +240,7 @@
         {
             "section_index": 6,
             "section_ref": "64:6",
-            "section_title": "6. ששת גזעי הסאנגיק של אורנטיה",
+            "section_title": "\t6. ששת גזעי הסאנגיק של אורנטיה",
             "pars": [
                 {
                     "par_ref": "64:6.1",
@@ -422,7 +422,7 @@
         {
             "section_index": 7,
             "section_ref": "64:7",
-            "section_title": "7. תפוצת הגזעים הצבעוניים",
+            "section_title": "\t7. תפוצת הגזעים הצבעוניים",
             "pars": [
                 {
                     "par_ref": "64:7.1",

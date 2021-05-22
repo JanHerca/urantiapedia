@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "69:1",
+            "section_title": "1. Ihmisen perusinstituutiot",
             "pars": [
                 {
                     "par_ref": "69:1.1",
@@ -61,6 +62,7 @@
         {
             "section_index": 2,
             "section_ref": "69:2",
+            "section_title": "2. Teollisuuden sarastus",
             "pars": [
                 {
                     "par_ref": "69:2.1",
@@ -102,6 +104,7 @@
         {
             "section_index": 3,
             "section_ref": "69:3",
+            "section_title": "3. Työvoiman erikoistuminen",
             "pars": [
                 {
                     "par_ref": "69:3.1",
@@ -163,6 +166,7 @@
         {
             "section_index": 4,
             "section_ref": "69:4",
+            "section_title": "4. Tavaranvaihdon alkuvaiheet",
             "pars": [
                 {
                     "par_ref": "69:4.1",
@@ -209,6 +213,7 @@
         {
             "section_index": 5,
             "section_ref": "69:5",
+            "section_title": "5. Pääoman syntyvaiheet",
             "pars": [
                 {
                     "par_ref": "69:5.1",
@@ -290,6 +295,7 @@
         {
             "section_index": 6,
             "section_ref": "69:6",
+            "section_title": "6. Tulen suhde sivilisaatioon",
             "pars": [
                 {
                     "par_ref": "69:6.1",
@@ -336,6 +342,7 @@
         {
             "section_index": 7,
             "section_ref": "69:7",
+            "section_title": "7. Eläinten hyötykäyttö",
             "pars": [
                 {
                     "par_ref": "69:7.1",
@@ -367,6 +374,7 @@
         {
             "section_index": 8,
             "section_ref": "69:8",
+            "section_title": "8. Orjuus sivilisaatioon vaikuttavana tekijänä",
             "pars": [
                 {
                     "par_ref": "69:8.1",
@@ -433,6 +441,7 @@
         {
             "section_index": 9,
             "section_ref": "69:9",
+            "section_title": "9. Yksityisomaisuus",
             "pars": [
                 {
                     "par_ref": "69:9.1",

@@ -25,6 +25,7 @@
         {
             "section_index": 1,
             "section_ref": "48:1",
+            "section_title": "1. Os Materiais Moronciais",
             "pars": [
                 {
                     "par_ref": "48:1.1",
@@ -66,6 +67,7 @@
         {
             "section_index": 2,
             "section_ref": "48:2",
+            "section_title": "2. Os Supervisores do Poder Moroncial",
             "pars": [
                 {
                     "par_ref": "48:2.1",
@@ -202,6 +204,7 @@
         {
             "section_index": 3,
             "section_ref": "48:3",
+            "section_title": "3. Os Companheiros Moronciais",
             "pars": [
                 {
                     "par_ref": "48:3.1",
@@ -298,6 +301,7 @@
         {
             "section_index": 4,
             "section_ref": "48:4",
+            "section_title": "4. Os Diretores de Retrospecção",
             "pars": [
                 {
                     "par_ref": "48:4.1",
@@ -404,6 +408,7 @@
         {
             "section_index": 5,
             "section_ref": "48:5",
+            "section_title": "5. Os Educadores dos Mundos das Mansões",
             "pars": [
                 {
                     "par_ref": "48:5.1",
@@ -460,6 +465,7 @@
         {
             "section_index": 6,
             "section_ref": "48:6",
+            "section_title": "6. Os Serafins dos Mundos Moronciais — Os Ministros de Transição",
             "pars": [
                 {
                     "par_ref": "48:6.1",
@@ -651,6 +657,7 @@
         {
             "section_index": 7,
             "section_ref": "48:7",
+            "section_title": "7. A Mota Moroncial",
             "pars": [
                 {
                     "par_ref": "48:7.1",
@@ -812,6 +819,7 @@
         {
             "section_index": 8,
             "section_ref": "48:8",
+            "section_title": "8. Os Progressores Moronciais",
             "pars": [
                 {
                     "par_ref": "48:8.1",
