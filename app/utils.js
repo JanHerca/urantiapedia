@@ -18,6 +18,20 @@ exports.extractStr = (content, start, end) => {
 };
 
 /**
+ * Obtiene todos los índices en los que se encuentra un caracter.
+ * @param {string} content Texto en el que buscar.
+ * @param {string} char Un caracter.
+ * @return {number[]}
+ */
+exports.getAllIndexes = (content, char) => {
+	let indexes = [], i = -1;
+	while ((i = content.indexOf(char, i+1)) != -1) {
+		indexes.push(i);
+	}
+	return indexes;
+}
+
+/**
  * Devuelve una nueva Promise usando la de entrada que siempre está establecida
  * y que siempre devuelve un valor de respuesta con un objeto que contiene uno
  * de dos valores : `value` si la promesa se resuelve y `error` si la promesa

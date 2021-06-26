@@ -25,6 +25,7 @@ const processControls = {
 	all: ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 'dirJTextbox', 'dirWTextbox',
 		'chkMerge', 'drpCategories', 'drpTopics'],
 	ttt: ['dirJTextbox', 'dirTTextbox'],
+	grj: ['dirJTextbox'],
 	chj: ['dirHTextbox', 'dirJTextbox'],
 	clj: ['dirLTextbox', 'dirJTextbox'],
 	clw: ['dirLTextbox', 'dirTTextbox', 'dirWTextbox', 'drpCategories'],
@@ -119,6 +120,12 @@ const handle_exeButtonClick = () => {
 		book.readFromJSON(jsonDir)
 			.then(() => bibleref.readFromTXT(txtDir))
 			.then(() => bibleref.translate(txtDir, book))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'grj') {
+		// Leemos LU (*.json) de una traducción que tenga Refs y los guardamos todos
+		book.readFromJSON(jsonDir)
+			.then(() => book.writeRefsToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'chj') {

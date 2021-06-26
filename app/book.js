@@ -10,6 +10,7 @@ const replaceTags = require('./utils').replaceTags;
 const removeHTMLTags = require('./utils').removeHTMLTags;
 const readFrom = require('./utils').readFrom;
 const replaceWords = require('./utils').replaceWords;
+const getAllIndexes = require('./utils').getAllIndexes;
 const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
@@ -764,6 +765,117 @@ class Book {
 				resolve(null);
 			});
 		});
+	};
+
+	/**
+	 * Escribe las referencias (notas al pie) en un archivo llamado 
+	 * `footnotes-book-xx.json` en la carpeta padre de la que se pasa como parámetro.
+	 * Además, guarda información de la posición de cada sub-referencia para poder
+	 * aplicarla a otras traducciones.
+	 * @param {string} dirPath Ruta de la carpeta.
+	 * @returns {Promise} Promesa que devuelve null en la función resolve o un 
+	 * array de errores en la función reject.
+	 */
+	writeRefsToJSON = (dirPath) => {
+		const baseName = path.basename(dirPath);
+		return new Promise((resolve, reject) => {
+			fs.access(dirPath, fs.constants.W_OK, (err) => {
+				if (err) {
+					reject([new Error(`El directorio ${baseName} no está accesible`)]);
+					return;
+				}
+				let dirName = path.dirname(dirPath);
+				let filePath = path.join(dirName, `footnotes-${baseName}.json`);
+				let result = {
+					content: []
+				};
+				let n, paper, paperFNs, footnotes, errors = [];
+				for (n = 0; n < 197; n++) {
+					paper = this.papers.find(p => p.paper_index === n);
+					if (!paper) {
+						continue;
+					}
+					footnotes = {
+						texts: [],
+						bible_refs: [],
+						locations: []
+					}
+					paperFNs = {
+						paperIndex: n,
+						footnotes: footnotes
+					};
+					result.content.push(paperFNs);
+					paper.sections.forEach(section => {
+						section.pars.forEach(par => {
+							try {
+								const ff = this.getFootnotes(par.par_ref);
+								ff.forEach(f => {
+									const sff = this.getSubFootnotes([f]);
+									if (sff.length > 0) {
+										let texts = [];
+										sff.forEach(sf => {
+											if (texts.indexOf(sf[0]) === -1) {
+												texts.push(sf[0]);
+											}
+										});
+										let bible_refs = texts.map(t => {
+											return sff
+												.filter(sf => sf[0] === t)
+												.map(sf => sf[1]).join('; ');
+										});
+										footnotes.texts.push(texts);
+										footnotes.bible_refs.push(bible_refs);
+									}
+								});
+								let locations = this.getRefsLocations(
+									par.par_content, paper.footnotes.length)
+									.map(loc => par.par_ref + '#' + loc);
+								extendArray(footnotes.locations, locations);
+							} catch (e) {
+								errors.push(e);
+							}
+						})
+					});
+				}
+				if (errors.length > 0) {
+					reject(errors);
+					return;
+				}
+				fs.writeFile(filePath, JSON.stringify(result, null, 4), 'utf-8', 
+					(err) => {
+					if (err) {
+						reject([err]);
+						return;
+					}
+					resolve(null);
+				});
+			});
+		});
+	};
+
+	/**
+	 * Devuelve un array con los índices de posición de las referencias en frases 
+	 * separadas por puntos seguidos dentro del párrafo.
+	 * @param {string} content Contenido del párrafo.
+	 * @param {number} length Número máximo de footnotes del documento, que representa
+	 * el máximo número a buscar para una referencia.
+	 * @return {number[]} Devuelve -1 cuando no se encuentren puntos seguidos.
+	 */
+	getRefsLocations = (content, length) => {
+		let indexes = [], index;
+		const ii = getAllIndexes(content, '.');
+		
+		for (let i = 0; i < length; i++) {
+			index = content.indexOf(`{${i}}`);
+			if (index != -1) {
+				if (ii.length === 0) {
+					indexes.push(-1);
+				} else {
+					indexes.push(ii.findIndex(e => e > index));
+				}
+			}
+		}
+		return indexes;
 	};
 
 	//***********************************************************************
