@@ -1,4 +1,6 @@
 const {dialog} = require('electron').remote;
+const path = require('path');
+const fs = require('fs');
 const Book = require('./book');
 const Bible = require('./bible');
 const BibleRef = require('./bibleref');
@@ -22,27 +24,31 @@ const controlIDs = [
 const controls = {};
 let collapsed = false;
 const processControls = {
-	all: ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 'dirJTextbox', 'dirWTextbox',
+	ALL: ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 'dirJTextbox', 'dirWTextbox',
 		'chkMerge', 'drpCategories', 'drpTopics'],
-	ttt: ['dirJTextbox', 'dirTTextbox'],
-	grj: ['dirJTextbox'],
-	chj: ['dirHTextbox', 'dirJTextbox'],
-	clj: ['dirLTextbox', 'dirJTextbox'],
-	clw: ['dirLTextbox', 'dirTTextbox', 'dirWTextbox', 'drpCategories'],
-	clx: ['dirLTextbox', 'dirWTextbox', 'chkMerge'],
-	cjl: ['dirJTextbox', 'dirLTextbox'],
-	cjw: ['dirJTextbox', 'dirTTextbox', 'dirWTextbox', 'drpCategories'],
-	cjx: ['dirJTextbox', 'dirWTextbox'],
-	cijw: ['dirJTextbox', 'dirWTextbox'],
-	cblw: ['dirTTextbox', 'dirLTextbox', 'dirWTextbox'],
-	cbi: ['dirLTextbox', 'dirWTextbox'],
-	cblx: ['dirLTextbox', 'dirWTextbox', 'chkMerge'],
-	ctiw: ['dirTTextbox', 'dirWTextbox', 'drpCategories'],
-	citw: ['dirTTextbox', 'dirWTextbox', 'drpCategories'],
-	rti: ['dirTTextbox', 'dirJTextbox', 'drpCategories', 'drpTopics'],
-	sti: ['dirTTextbox'],
-	nti: ['dirTTextbox'],
-	ctw: ['dirTTextbox', 'dirWTextbox']
+	BIBREF_TXT_LU_JSON_TO_TXT: ['dirJTextbox', 'dirTTextbox'],
+	LU_JSON_TO_BIBREF_JSON: ['dirJTextbox'],
+	LU_JSON_BIBLEREF_JSON_TO_JSON: ['dirJTextbox'],
+	LU_HTML_TO_JSON: ['dirHTextbox', 'dirJTextbox'],
+	LU_TEX_TO_JSON: ['dirLTextbox', 'dirJTextbox'],
+	LU_TEX_TOPIC_TXT_TO_WIKI: ['dirLTextbox', 'dirTTextbox', 'dirWTextbox', 
+		'drpCategories'],
+	LU_TEX_TO_XML: ['dirLTextbox', 'dirWTextbox', 'chkMerge'],
+	LU_JSON_TO_TEX: ['dirJTextbox', 'dirLTextbox'],
+	LU_JSON_TOPIC_TXT_TO_WIKI: ['dirJTextbox', 'dirTTextbox', 'dirWTextbox', 
+		'drpCategories'],
+	LU_JSON_TO_XML: ['dirJTextbox', 'dirWTextbox'],
+	LUINDEX_JSON_TO_WIKI: ['dirJTextbox', 'dirWTextbox'],
+	BIB_TEX_BIBREF_TXT_TO_WIKI: ['dirTTextbox', 'dirLTextbox', 'dirWTextbox'],
+	BIB_TEX_TO_BIBINDEX_WIKI: ['dirLTextbox', 'dirWTextbox'],
+	BIB_TEX_TO_XML: ['dirLTextbox', 'dirWTextbox', 'chkMerge'],
+	TOPIC_TXT_TO_WIKI: ['dirTTextbox', 'dirWTextbox', 'drpCategories'],
+	TOPICINDEX_TXT_TO_WIKI: ['dirTTextbox', 'dirWTextbox', 'drpCategories'],
+	REVIEW_TOPIC_TXT_LU_JSON: ['dirTTextbox', 'dirJTextbox', 'drpCategories', 
+		'drpTopics'],
+	SUM_TOPIC_TXT: ['dirTTextbox'],
+	NORM_TOPIC_TXT: ['dirTTextbox'],
+	ARTICLE_TXT_TO_WIKI: ['dirTTextbox', 'dirWTextbox']
 };
 
 const onLoad = () => {
@@ -90,7 +96,7 @@ const handle_collapseButtonClick = () => {
 const handle_drpProcessChange = (evt) => {
 	const process = controls.drpProcess.value;
 	const cnames = processControls[process];
-	processControls.all.forEach(c => {
+	processControls.ALL.forEach(c => {
 		const hide = (collapsed || cnames.indexOf(c) === -1);
 		controls[c].parentNode.parentNode.parentNode.classList.toggle('d-none',
 			hide);
@@ -115,32 +121,49 @@ const handle_exeButtonClick = () => {
 		return;
 	}
 
-	if (process ==='ttt') {
+	if (process ==='BIBREF_TXT_LU_JSON_TO_TXT') {
 		// Leemos LU (*.json) + Refs Biblia (*.txt) => escribimos traducción (*.txt)
 		book.readFromJSON(jsonDir)
 			.then(() => bibleref.readFromTXT(txtDir))
 			.then(() => bibleref.translate(txtDir, book))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'grj') {
-		// Leemos LU (*.json) de una traducción que tenga Refs y los guardamos todos
+	} else if (process === 'LU_JSON_TO_BIBREF_JSON') {
+		// Leemos LU (*.json) de una traducción con Refs Biblia => escribimos (*.json)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeRefsToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'chj') {
+	} else if (process === 'LU_JSON_BIBLEREF_JSON_TO_JSON') {
+		//Leemos LU (*.json) + Refs Biblia (*.json) => escribimos (*.json)
+		book.readFromJSON(jsonDir)
+			.then(() => book.readRefsFromJSON(jsonDir))
+			.then(() => book.updateRefs())
+			.then(() => {
+				const baseName = path.basename(jsonDir);
+				let parentPath = path.dirname(jsonDir);
+				let newjsonDir = path.join(parentPath, `${baseName}-footnotes`);
+				if (!fs.existsSync(newjsonDir)) {
+					return Promise.reject(
+						[new Error(`Es necesario crear la carpeta ${baseName}-footnotes`)]);
+				}
+				return book.writeToJSON(newjsonDir);
+			})
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'LU_HTML_TO_JSON') {
 		// Leemos LU (*.html) => escribimos (*.json)
 		book.readFromHTML(htmlDir)
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'clj') {
+	} else if (process === 'LU_TEX_TO_JSON') {
 		// Leemos LU (*.tex) => escribimos (*.json)
 		book.readFromLaTeX(latexDir)
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'clw') {
+	} else if (process === 'LU_TEX_TOPIC_TXT_TO_WIKI') {
 		// Leemos LU (*.tex) + Topic Index (*.txt) => escribimos (*.wiki)
 		book.readFromLaTeX(latexDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
@@ -148,19 +171,19 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeWarnings(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'clx') {
+	} else if (process === 'LU_TEX_TO_XML') {
 		// Leemos LU (*.tex) => escribimos Wiki (*.xml)
 		// book.readFromLaTeX(latexDir)
 		// 	.then(() => book.writeToWikiXML(wikiDir, merge))
 		// 	.then(() => onSuccess(okMsgs))
 		// 	.catch(onFail);
-	} else if (process === 'cjl') {
+	} else if (process === 'LU_JSON_TO_TEX') {
 		// Leemos LU (*.json) => escribimos (*.tex) 
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeToLaTeX(latexDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cjw') {
+	} else if (process === 'LU_JSON_TOPIC_TXT_TO_WIKI') {
 		// Leemos LU (*.json) + Topic Index (*.txt) => escribimos (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
@@ -168,50 +191,50 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeWarnings(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cjx') {
+	} else if (process === 'LU_JSON_TO_XML') {
 		// Leemos LU (*.json) => escribimos Wiki (*.xml)
 		// book.readFromJSON(jsonDir)
 		// 	.then(() => book.writeToWikiXML(wikiDir))
 		// 	.then(() => onSuccess(okMsgs))
 		// 	.catch(onFail);
-	} else if (process === 'cijw') {
+	} else if (process === 'LUINDEX_JSON_TO_WIKI') {
 		//Leemos LU (*.json) => escribimos Indices (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeIndexToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cblw') {
+	} else if (process === 'BIB_TEX_BIBREF_TXT_TO_WIKI') {
 		// Leemos Refs Biblia (*.txt) + leemos Biblia (*.tex) => escribimos (*.wiki)
 		bibleref.readFromTXT(txtDir)
 			.then(() => bible.readFromLaTeX(latexDir))
 			.then(() => bible.writeToWiki(wikiDir, bibleref))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cbi') {
+	} else if (process === 'BIB_TEX_TO_BIBINDEX_WIKI') {
 		// Leemos Biblia (*.tex) => escribimos índice (*.wiki)
 		bible.readFromLaTeX(latexDir)
 			.then(() => bible.writeIndexToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'cblx') {
+	} else if (process === 'BIB_TEX_TO_XML') {
 		// Leemos Biblia (*.tex) => escribimos Wiki (*.xml)
 		// bible.readFromLaTeX(latexDir)
 		// 	.then(() => bible.writeToWikiXML(wikiDir, merge))
 		// 	.then(() => onSuccess(okMsgs))
 		// 	.catch(onFail);
-	} else if (process === 'ctiw') {
+	} else if (process === 'TOPIC_TXT_TO_WIKI') {
 		// Leemos TopicIndex (*.txt) => escribimos en (*.wiki)
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => topicindex.writeToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'citw') {
+	} else if (process === 'TOPICINDEX_TXT_TO_WIKI') {
 		// Leemos Indice de TopicIndex (*.txt) => escribimos (*.wiki)
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => topicindex.writeIndexToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'rti') {
+	} else if (process === 'REVIEW_TOPIC_TXT_LU_JSON') {
 		// Leemos TopicIndex (*.txt) => luego leemos LU (*.json)
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => book.readFromJSON(jsonDir))
@@ -222,7 +245,7 @@ const handle_exeButtonClick = () => {
 				onSuccess(okMsgs);
 				showTopic(topicindex.topics[0].name);
 			}).catch(onFail);
-	} else if (process === 'sti') {
+	} else if (process === 'SUM_TOPIC_TXT') {
 		// Leemos TopicIndex (*.txt) => luego sacamos un resumen
 		topicindex.readFromTXT(txtDir, 'TODOS')
 			.then(() => {
@@ -230,13 +253,13 @@ const handle_exeButtonClick = () => {
 				onSuccess(okMsgs);
 				showTopicSummary(summary);
 			}).catch(onFail);
-	} else if (process === 'nti') {
+	} else if (process === 'NORM_TOPIC_TXT') {
 		// Leemos TopicIndex (*.txt) => volvemos a escribir igual
 		// pero modificando la primera línea de cada entrada
 		topicindex.normalize(txtDir)
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'ctw') {
+	} else if (process === 'ARTICLE_TXT_TO_WIKI') {
 		// Leemos carpeta con TXT => escribimos (*.wiki)
 		articles.readFromTXT(txtDir)
 			.then(() => articles.writeToWiki(wikiDir))

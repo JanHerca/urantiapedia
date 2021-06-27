@@ -53,6 +53,7 @@ class Book {
 			languages: ['he', 'ja']
 		}
 	];
+	footnotes = [];
 
 	/**
 	 * Devuelve un array de tres valores [paper_id, section_id, par_id]
@@ -768,6 +769,47 @@ class Book {
 	};
 
 	/**
+	 * Lee las referencias (notas al pie) de un archivo llamado 
+	 * `footnotes-book-xx.json` en la carpeta padre de la que pasa como parámetro
+	 * y guarda todo en un objeto footnotes.
+	 * @param {string} dirPath Ruta de la carpeta.
+	 * @returns {Promise} Promesa que devuelve null en la función resolve o un 
+	 * array de errores en la función reject.
+	 */
+	readRefsFromJSON = (dirPath) => {
+		const baseName = path.basename(dirPath);
+		return new Promise((resolve, reject) => {
+			fs.access(dirPath, fs.constants.W_OK, (err) => {
+				if (err) {
+					reject([new Error(`El directorio ${baseName} no está accesible`)]);
+					return;
+				}
+				let parentPath = path.dirname(dirPath);
+				let filePath = path.join(parentPath, `footnotes-${baseName}.json`);
+				if (!fs.existsSync(filePath)) {
+					reject([new Error(`El directorio ${filePath} no existe`)]);
+					return;
+				}
+				this.footnotes.length = 0;
+				fs.readFile(filePath, (errFile, buf) => {
+					if (errFile) {
+						reject([errFile]);
+						return;
+					}
+					const content = buf.toString();
+					try {
+						const obj = JSON.parse(content);
+						this.footnotes = obj.content;
+						resolve(null);
+					} catch (err) {
+						reject([err]);
+					}
+				});
+			});
+		});
+	};
+
+	/**
 	 * Escribe las referencias (notas al pie) en un archivo llamado 
 	 * `footnotes-book-xx.json` en la carpeta padre de la que se pasa como parámetro.
 	 * Además, guarda información de la posición de cada sub-referencia para poder
@@ -784,8 +826,8 @@ class Book {
 					reject([new Error(`El directorio ${baseName} no está accesible`)]);
 					return;
 				}
-				let dirName = path.dirname(dirPath);
-				let filePath = path.join(dirName, `footnotes-${baseName}.json`);
+				let parentPath = path.dirname(dirPath);
+				let filePath = path.join(parentPath, `footnotes-${baseName}.json`);
 				let result = {
 					content: []
 				};
@@ -876,6 +918,71 @@ class Book {
 			}
 		}
 		return indexes;
+	};
+
+	/**
+	 * Actualiza las referencias (notas al pie) usando las leídas mediante
+	 * `readRefsFromJSON` y que se encuentran en la variable footnotes.
+	 * @returns {Promise} Promesa que devuelve null en la función resolve o un
+	 * array de errores en la función reject.
+	 */
+	updateRefs = () => {
+		return new Promise((resolve, reject) => {
+			let errors = [];
+			//Bucle por cada documento
+			this.papers.forEach(paper => {
+				const index = paper.paper_index;
+				const paperFootnotes = this.footnotes
+					.find(f => f.paperIndex === index);
+				if (!paperFootnotes) {
+					return;
+				}
+				const texts = paperFootnotes.footnotes.texts;
+				const bible_refs = paperFootnotes.footnotes.bible_refs;
+				const locations = paperFootnotes.footnotes.locations;
+				if (texts.length != bible_refs.length || 
+					texts.length != locations.length) {
+					errors.push(
+						new Error(`Número de items no válido en doc ${index}`));
+					return;
+				}
+				paper.footnotes = texts.map((t, i) => {
+					return t
+						.map((title, j) => `*${title}*: ${bible_refs[i][j]}.`)
+						.join(' ');
+				});
+				locations.forEach((location, i) => {
+					const par_ref = location.split('#')[0];
+					const sentenceIndex = parseInt(location.split('#')[1]);
+					let par = null;
+					paper.sections.find(section => {
+						const p = section.pars.find(pp => pp.par_ref === par_ref);
+						if (p) {
+							par = p;
+						}
+						return (p != undefined);
+					});
+					if (!par) {
+						errors.push(
+							new Error(`Párrafo no encontrado ${par_ref} en doc ${index}`));
+						return;
+					}
+					const ii = getAllIndexes(par.par_content, '.');
+					if (sentenceIndex != -1 && ii.length >= sentenceIndex) {
+						const pos = ii[sentenceIndex];
+						par.par_content = par.par_content.substring(0, pos) +
+							`{${i}}` + par.par_content.substring(pos);
+					} else {
+						par.par_content = par.par_content + `{${i}}`;
+					}
+				});
+			});
+			if (errors.length > 0) {
+				reject(errors);
+				return;
+			}
+			resolve(null);
+		});
 	};
 
 	//***********************************************************************
