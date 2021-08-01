@@ -1,4 +1,4 @@
-# Cómo usar las referencias
+# Urantiapedia - Cómo usar las referencias
 
 ## Referencias a *El Libro de Urantia*
 

@@ -37,7 +37,7 @@ exports.HTMLSeparator = {
 // Macabeos I y II, Eclesiástico, Sabiduría, Historia de Bel y el Dragón,
 // Oración de Manasés, Tobit, Enoc, Asunción de Moisés
 
-exports.BibleAbb = {
+exports.BibleAbb_es = {
 	'Gn': 'Génesis',
 	'Ex': 'Éxodo',
 	'Lv': 'Levítico',
@@ -116,7 +116,7 @@ exports.BibleAbb = {
 	'AsMo': 'Asunción de Moisés'
 };
 
-exports.BibleAbbEn = {
+exports.BibleAbb_en = {
 	'Gn': 'Genesis',
 	'Ex': 'Exodus',
 	'Lv': 'Leviticus',

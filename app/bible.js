@@ -1,7 +1,8 @@
 //Reader/Writer para la Biblia en diferentes formatos (LaTeX/JSON/Wiki)
 
 const LaTeXSeparator = require('./enums').LaTeXSeparator;
-const BibleAbb = require('./enums').BibleAbb;
+//TODO: Esto solo funciona para español
+const BibleAbb_es = require('./enums').BibleAbb_es;
 const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
@@ -57,7 +58,8 @@ class Bible {
 		};
 		let currentChapter = null;
 		let currentSection = null;
-		const booknames = Object.values(BibleAbb);
+		//TODO: Esto solo funciona para español
+		const booknames = Object.values(BibleAbb_es);
 
 		lines.forEach((line, i) => {
 			if (line.startsWith(LaTeXSeparator.TITLE_START)) {
@@ -69,7 +71,8 @@ class Bible {
 				} else {
 					book.file = path.basename(baseName, '.tex');
 					book.title = extract;
-					book.abb = Object.keys(BibleAbb)[booknames.indexOf(book.title)];
+					//TODO: Esto solo funciona para español
+					book.abb = Object.keys(BibleAbb_es)[booknames.indexOf(book.title)];
 				}
 			} else if (line.startsWith(LaTeXSeparator.CHAPTER_START)) {
 				extract = extractStr(line, LaTeXSeparator.CHAPTER_START,
@@ -250,7 +253,8 @@ class Bible {
 			const filePath = path.join(dirPath, 'index.wiki');
 			let wiki = '';
 
-			Object.values(BibleAbb).forEach(name => {
+			//TODO: Esto solo funciona para español
+			Object.values(BibleAbb_es).forEach(name => {
 				wiki += `* ${name}: `;
 				const book = this.biblebooks.find(book => book.title === name);
 				if (book) {

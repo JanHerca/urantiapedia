@@ -1,7 +1,8 @@
 //Reader/Writer para pasar las refs de la Biblia de unos TXT en los *.wiki
 
 const LaTeXSeparator = require('./enums').LaTeXSeparator;
-const BibleAbb = require('./enums').BibleAbb;
+//TODO: Esto solo funciona para español
+const BibleAbb_es = require('./enums').BibleAbb_es;
 const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
@@ -61,8 +62,9 @@ class BibleRef {
 			file: path.basename(baseName, '.txt'),
 			chapters: []
 		};
-		const booknames = Object.values(BibleAbb).map(n => n.replace(/ /g,"_"));
-		book.abb = Object.keys(BibleAbb)[booknames.indexOf(book.file)];
+		//TODO: Esto solo funciona para español
+		const booknames = Object.values(BibleAbb_es).map(n => n.replace(/ /g,"_"));
+		book.abb = Object.keys(BibleAbb_es)[booknames.indexOf(book.file)];
 
 		lines.forEach((line, i) => {
 			let data = null, ref, data2, data3, bible_ref, chapter, vers;

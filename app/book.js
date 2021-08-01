@@ -2,7 +2,8 @@
 
 const LSep = require('./enums').LaTeXSeparator;
 const HSep = require('./enums').HTMLSeparator;
-const BibleAbb = require('./enums').BibleAbb;
+//TODO: Esto solo funciona para español
+const BibleAbb_es = require('./enums').BibleAbb_es;
 const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
@@ -1788,8 +1789,9 @@ class Book {
 	 * @return {string}
 	 */
 	findAbr = (content) => {
+		//TODO: Esto solo funciona para español
 		//Localiza cuál es la abreviatura
-		for (let ab in BibleAbb) {
+		for (let ab in BibleAbb_es) {
 			if (content.startsWith(ab)) {
 				return ab;
 			}

@@ -1,7 +1,8 @@
 //Reader/Writer para pasar los términos del Uversa Topic Index a *.wiki
 
 const LaTeXSeparator = require('./enums').LaTeXSeparator;
-const BibleAbb = require('./enums').BibleAbb;
+//TODO: Esto solo funciona para español
+const BibleAbb_es = require('./enums').BibleAbb_es;
 const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
