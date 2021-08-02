@@ -6,6 +6,12 @@
 
 ---
 
+## Acerca de Blue Fields
+
+*Blue Fields* (https://blue-fields.netlify.app/) es una web que ha sido creada para unir y organizar a lectores de *El Libro de Urantia* que desean participar en proyectos inteligentes, propositados y altruistas en todo el mundo.
+
+---
+
 ## Acerca de GitHub
 
 El proyecto *Urantiapedia* en GitHub (https://github.com/JanHerca/urantiapedia) es un proyecto creado para servir de procedimiento rápido de creación inicial de la *Urantiapedia*. Contiene unos archivos en ciertos formatos y un software que ayudan a automatizar la creación de un contenido inicial.
@@ -27,7 +33,7 @@ Los «editores GitHub» no necesitan estar registrados en la web *Urantiapedia* 
 
 ## Fases del proyecto Urantiapedia
 
-La *Urantiapedia* se va a crear en dos fase para cada uno de los idiomas que se incorporen:
+La *Urantiapedia* se va a crear en dos fases para cada uno de los idiomas que se incorporen:
 1. **Fase de preparación**: en esta fase la creación de contenido se realiza usando el proyecto de la *Urantiapedia* en GitHub. En esta fase la creación de usuarios estará bloqueada en la web *Urantiapedia* y los únicos usuarios capaces de realizar cambios en ella serán los usuarios «administradores». En esta fase los usuarios, denominados «editores GitHub», introducen cambios únicamente en el proyecto existente en GitHub.
 2. **Fase pública**: la página *Urantiapedia* se abre al público, de modo que cualquier usuario que lo desee y cumpla unos requisitos de seguridad, podrá crear su propia cuenta y añadir o modificar contenido desde la web. Estos usuarios, denominados «editores web», deberán cumplir ciertas políticas de privacidad y buenas prácticas que regirán el uso de la web *Urantiapedia*. Junto a los usuarios «administradores» existirán usuarios llamados «revisores» que velarán por el correcto uso de la web y podrán vetar usuarios que no cumplan las normas.
 
@@ -48,7 +54,7 @@ El proceso a seguir será el siguiente:
 
 ## Contenido planificado para la Urantiapedia
 
-Para cada idioma se buscará disponer del siguiente contenido:
+Para cada idioma se buscará disponer de contenido como el siguiente:
 
 Contenido | Modo de incorporación
 ---|---
@@ -61,13 +67,15 @@ Términos del libro | Una página por cada término
 Artículos, ayudas de estudio, diagramas, esquemas, mapas, etc. | Una página por cada artículo, ayuda, diagrama, etc.
 Imágenes, arte, animaciones, vídeos... | Estos son archivos de recursos. *MediaWiki* dispone de un sistema para añadirlos. Si son grandes como videos largos, se añadirían únicamente como enlaces.
 
+Durante la fase de preparación se procederá a crear una versión inicial de sólo tres contenidos de todo lo previsto: *El Libro de Urantia* con referencias bíblicas, *La Biblia* y los *Términos* del libro.
+
 > Cada página de *MediaWiki* admite una página de discusión, tal y como hace la *Wikipedia*. Esta página de discusión es muy útil y podría servir de zona de debate para páginas que abordaran determinadas temáticas. Estas páginas de discusión son parecidas a un foro o muro de mensajes donde quedan registrados los comentarios de todos los usuarios en orden cronológico y con indentación de respuestas, de modo que permiten ver conversaciones entre distintos participantes.
 
 ---
 
-## Creación de una copia del proyecto Urantiapedia
+## Crearse de una copia del proyecto Urantiapedia en GitHub
 
-Para realizar la instalación sigue estos pasos:
+Para realizar la copia sigue estos pasos:
 - Entra en https://github.com 
 - Si ya tienes una cuenta, haz clic en *Sign in* y valídate.
 - Si no tienes una cuenta, créate una haciendo clic en *Sign up*. Introduce un nombre de usuario, una dirección de correo, y una contraseña. Una vez tengas una cuenta, entra en GitHub con ella.
@@ -160,7 +168,7 @@ Para cualquier otro idioma se haría de manera similar. Es posible que parte de 
 Una vez tenemos el input en las carpetas correctas los pasos a dar son:
 1. Traducción del *Paramony* del inglés al idioma de destino.
 2. Traducción y revisión del *Índice de términos* del inglés al idioma de destino.
-3. Obtención de una traducción de La Biblia en el idioma destino.
+3. Obtención de una traducción de La Biblia en el idioma de destino.
 4. Conversión de *El Libro de Urantia* de HTML a JSON sin notas al pie.
 5. Adición de notas al pie a *El Libro de Urantia* en JSON.
 6. Conversión del *Índice de términos* de TXT a Wikitext.
@@ -331,9 +339,132 @@ El contenido de los términos se ha generado utilizando como partida un apéndic
 
 ---
 
-## Obtención de una traducción de La Biblia en el idioma destino.
+## Obtención de una traducción de *La Biblia* en el idioma de destino
 
-TODO
+Una buena fuente para obtener traducciones de *La Biblia* que además estén libres de derechos de autor es utilizar el software [e-Sword](https://www.e-sword.net/), una aplicación gratuita que permite descargar traducciones de *La Biblia* en diferentes idiomas y luego exportar o copiar su contenido a otros archivos.
+
+Cualquier otro modo de obtener una traducción de *La Biblia* libre de derechos de autor es válida siempre y cuando luego se copie el contenido a los archivos correctos. Estos archivos deben seguir estas reglas:
+- los archivos se crearán en la carpeta `input/tex/bible-xx`, donde `xx` es el código del idioma de *La Biblia*.
+- Cada fichero tendrá un nombre siguiendo este patrón: `xxx_nombre.tex` donde `xxx` será un número secuencial siempre con tres dígitos empezando en 1 (`001`, `002`, etc.) y `nombre` será el nombre del libro. Los nombres deberían estar en cada idioma aunque en su defecto podrían estar en inglés. Más abajo se ofrece un listado provisional de los libros a incluir, con su número. Conviene advertir que el orden de la numeración de los libros coloca primero los libros que son canónicos a todos credos antes que los libros que son canónicos sólo en algunos credos. Este orden no es esencial pero resulta útil para facilitar la identificación de cada libro simplemente por el número inicial, sobre todo cuando se usen los nombres de cada libro en cada idioma particular.
+- El contenido de cada libro tiene que venir en formato LaTeX. El formato sólo usará unos pocos comandos LaTeX (`\begin{document}`, `\end{document}`, `\title`, `\chapter`, `\section` y `\par`) como se detalla en el siguiente fragmento del evangelio de Mateo:
+
+```tex
+\begin{document}
+%\title{EL EVANGELIO SEGÚN SAN MATEO}
+\title{Evangelio de Mateo}
+
+\chapter{1}
+
+\section*{Genealogía de Jesucristo}
+
+\par 1 Libro de la genealogía de Jesucristo, hijo de David, hijo de Abraham.
+. . .
+
+\section*{Nacimiento de Jesucristo}
+
+\par 18 El nacimiento de Jesucristo fue así: Estando desposada María su madre con José, antes que se juntasen, se halló que había concebido del Espíritu Santo.
+. . .
+
+\chapter{2}
+
+\section*{La visita de los magos}
+
+\par 1 Cuando Jesús nació en Belén de Judea en días del rey Herodes, vinieron del oriente a Jerusalén unos magos,
+. . .
+
+\end{document}
+```
+
+Como se puede ver en el extracto anterior las reglas a seguir son:
+- Cada libro bíblico comenzará con una línea `\begin{document}` y terminará con una línea `\end{document}`.
+- Se pueden colocar comentarios, que serán ignorados, usando `%` delante de cada línea.
+- Cada libro tendrá su título dentro de un comando `\title{}` al principio del todo.
+- Cada capítulo tendrá una marca de inicio con el comando `\chapter{}` y dentro el número del capítulo empezando en 1.
+- Si hay secciones (unos subtítulos que a veces se ponen en algunas ediciones) se marcará su inicio con el comando `\section{}` y dentro el título de la sección.
+- Después del inicio de una sección o de un inicio de capítulo si no hay secciones irán los versículos, cada uno empezando con el comando `\par`, luego separado el número de versículo empezando siempre en 1 y luego separado el contenido. Cada versículo será una línea.
+- Para mejorar la legibilidiad se pueden poner líneas en blanco antes y después de los capítulos y secciones, que serán ignoradas.
+
+### Listado de libros bíblicos
+
+Núm. | Abr. | Nombre español | Nombre inglés
+---|---|---|---
+001 | Gn | Génesis | Genesis
+002 | Ex | Éxodo | Exodus
+003 | Lv | Levítico | Leviticus
+004 | Nm | Números | Numbers
+005 | Dt | Deuteronomio | Deuteronomy
+006 | Jos | Josué | Joshua
+007 | Jue | Jueces | Judges
+008 | Rt, Rth | Rut | Ruth
+009 | 1 Sam | I Samuel | 1 Samuel
+010 | 2 Sam | II Samuel | 2 Samuel
+011 | 1 Re, 1 Ki | I Reyes | 1 Kings
+012 | 2 Re, 2 Ki | II Reyes | 2 Kings
+013 | 1 Cr, 1 Ch | I Crónicas | 1 Chronicles
+014 | 2 Cr, 2 Ch | II Crónicas | 2 Chronicles
+015 | Esd, Ez | Esdras | Ezra
+016 | Neh | Nehemías | Nehemiah
+017 | Est | Ester | Esther
+018 | Job | Job | Job
+019 | Sal, Ps | Salmos | Psalms
+020 | Pr | Proverbios | Proverbs
+021 | Ec | Eclesiastés | Ecclesiastes
+022 | Cnt, Song | Cantar de los Cantares | Song of Solomon
+023 | Is | Isaías | Isaiah
+024 | Jer | Jeremías | Jeremiah
+025 | Lm, Lam | Lamentaciones de Jeremías | Lamentations
+026 | Ez, Ezk | Ezequiel | Ezekiel
+027 | Dn | Daniel | Daniel
+028 | Os, Ho | Oseas | Hosea
+029 | Jl | Joel | Joel
+030 | Am | Amós | Amos
+031 | Abd | Abdías | Obadiah
+032 | Jon | Jonás | Jonah
+033 | Miq, Mic | Miqueas | Micah
+034 | Nah | Nahum | Nahum
+035 | Hab | Habacuc | Habakkuk
+036 | Sof, Zep | Sofonías | Zephaniah
+037 | Hag | Hageo | Haggai
+038 | Zac, Zec | Zacarías | Zechariah
+039 | Mal | Malaquías | Malachi
+040 | Mt | Evangelio de Mateo | Gospel of Matthew
+041 | Mc, Mk | Evangelio de Marcos | Gospel of Mark
+042 | Lc, Lk | Evangelio de Lucas | Gospel of Luke
+043 | Jn | Evangelio de Juan | Gospel of John
+044 | Hch, Acts | Hechos de los Apóstoles | Acts of the Apostles
+045 | Ro | Epístola a los Romanos | Epistle to the Romans
+046 | 1 Co | Epístola a los Corintios I | First Epistle to the Corinthians
+047 | 2 Co | Epístola a los Corintios II | Second Epistle to the Corinthians
+048 | Gl, Ga | Epístola a los Gálatas | Epistle to the Galatians
+049 | Ef, Eph | Epístola a los Efesios | Epistle to the Ephesians
+050 | Flp, Phil | Epístola a los Filipenses | Epistle to the Philippians
+051 | Col | Epístola a los Colosenses | Epistle to the Colossians
+052 | 1 Ts, 1 Th | Epístola a los Tesalonicenses I | First Epistle to the Thessalonians
+053 | 2 Ts, 2 Th | Epístola a los Tesalonicenses II | Second Epistle to the Thessalonians
+054 | 1 Ti | Epístola a Timoteo I | First Epistle to Timothy
+055 | 2 Ti | Epístola a Timoteo II | Second Epistle to Timothy
+056 | Tit | Epístola a Tito | Epistle to Titus
+057 | Flm, Pm | Epístola a Filemón | Epistle to Philemon
+058 | Heb | Epístola a los Hebreos | Epistle to the Hebrews
+059 | Stg, Jm | Epístola de Santiago | Epistle of James
+060 | 1 P | Epístola de Pedro I | First Epistle of Peter
+061 | 2 P | Epístola de Pedro II | Second Epistle of Peter
+062 | 1 Jn | Epístola de Juan I | First Epistle of John
+063 | 2 Jn | Epístola de Juan II | Second Epistle of John
+064 | 3 Jn | Epístola de Juan III | Third Epistle of John
+065 | Jud | Epístola de Judas | Epistle of Jude
+066 | Ap, Rev | Apocalipsis de Juan | Revelation
+067 | Tb | Tobit | Tobit
+068 | Jdt | Judith | Judith
+069 | 1 Mac, 1 Macc | I Macabeos | First Book of Maccabees
+070 | 2 Mac, 2 Macc | II Macabeos | Second Book of Maccabees
+071 | Sab, Wis | Sabiduría | Book of Wisdom
+072 | Eclo, Sir | Eclesiástico | Ecclesiastes
+073 | Bar | Baruc | Baruch
+074 | Bel | Historia de Bel y el Dragón | Bel and the Dragon
+075 | Man | Oración de Manasés | Prayer of Manasseh
+076 | 1 Hen, 1 Eno | Enoc | Book of Enoch
+077 | AsMo | Asunción de Moisés | Assumption of Moses
 
 
 
