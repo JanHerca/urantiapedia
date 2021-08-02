@@ -194,42 +194,14 @@ La estructura del fichero JSON es una tabla de tres columnas. Para cada document
 
 Este modo de presentar los textos hace más simple copiar y pegarlos a un traductor como Google Translator para luego volver a pegar el resultado de la traducción.
 
-```
-{
-    "content": [
-        {
-            "paperIndex": <número de documento, desde 0 a 196. Si no existe uno no hay notas>,
-            "footnotes" {
-                "texts" : [
-                    [
-                        <array de textos dentro de una nota al pie>
-                    ],
-                    ...
-                ],
-                "bible_refs": [
-                    [
-                        <array de referencias, un array por texto de una nota al pie>
-                    ],
-                    ...
-                ],
-                "locations": [
-                    <array de referencia en el libro + numero de frase>
-                ]
-            }
-        },
-        ...
-    ]
-}
-```
-
 Ejemplo de un fragmento:
 
-```
+```json
 {
     "content": [
         {
             "paperIndex": 0,
-            "footnotes" {
+            "footnotes": {
                 "texts" : [
                     [
                         "Spirit light"
@@ -313,7 +285,7 @@ https://urantiapedia.site/index.php/Gemelos_Alfeo
 
 Para crear listas en el archivo de términos hay que usar el carácter (*) delante de cada línea. Por ejemplo, así se ha usado en el término relativo a Alejandro Magno:
 
-```
+```txt
 Alejandro el Grande; Alejandro | | | PERSONA | OK
 Hechos sobre Alejandro Magno mencionados en El Libro de Urantia
 	* su campaña en el Punjab introdujo herencia aria en la India (79:4.3)
