@@ -1,4 +1,4 @@
-# Urantiapedia - HOWTO para developers
+# Urantiapedia - Manual para «desarrolladores»
 
 ## Instalación de un servidor de pruebas
 
@@ -60,50 +60,6 @@ Esta extensión permite mostrar la Wiki de un modo más amigable en dispositivos
 wfLoadExtension( 'MobileFrontend' );
 ```
 5. Navegar a la página Special:Version para comprobar que la extensión se ha cargado.
-
----
-
-## Cargas masivas con el script de mantenimiento importTextFiles.php
-
-https://www.mediawiki.org/wiki/Manual:ImportTextFiles.php
-
-Ejecutar este comando en PuTTy:
-```
-cd public_html/maintenance
-php importTextFiles.php -u <user> -s "Adición de referencias" --rc --overwrite files_to_import/*.wiki
-```
-El comando anterior actualiza las páginas cuyos nombres coincidan con los nombres de archivo de los ficheros wiki que estén en la carpeta `files_to_import` dentro de la carpeta `maintenance`. En lugar de "Adición de referencias", poner el mensaje que se quiera dar a todas las actualizaciones.
-
----
-
-## Cargas masivas de páginas con la extensión DataTransfer (OBSOLETO)
-
-    Es preferible usar el sitema de importTextFiles.php. Es más rápido y fiable y el formato de entrada es simplemente formato wiki.
-    
-1. Descargar la extensión DataTransfer: https://www.mediawiki.org/wiki/Extension:Data_Transfer
-2. Copiar el fichero .gz comprimido de la extensión a la carpeta extensions.
-3. Descomprimir el fichero.
-4. Modificar LocalSettings.php añadiendo esta línea:
-```
-wfLoadExtension( 'DataTransfer' );
-```
-5. Añadir lo siguiente para permitir que el contenido del Free_Text no sea parseado:
-```
-$wgDataTransferViewXMLParseFreeText = false;
-```
-6. Ver un ejemplo de qué se debe cargar haciendo una descarga desde ?title=Special:ViewXML&titles=nombre_de_la_pagina
-7. Cargar mediante Special:ImportXML
-
-La carga no es inmediata. Usa el sistema de jobs de MediaWiki, lo cual significa que cada poco que se visitan páginas se lanzan un número de jobs.
-
-Para examinar la lista de jobs: https://urantiapedia.site/api.php?action=query&meta=siteinfo&siprop=statistics
-
-Cambiar el número de jobs que se ejecutan tras cada visita modificar el LocalSettings.php añadiendo:
-```
-$wgJobRunRate = 100;
-```
-Lo anterior eleva el número de jobs tras cada visita a 100, lo cual es mucho cuando la web está funcionando con muchos usuarios concurrentes. Conviene dejarlo en 1 o incluso 0.1 cuando la página ya está publicada y siendo masivamente accedida.
-
 
 ---
 

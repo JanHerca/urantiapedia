@@ -34,11 +34,11 @@ Puesto que está basada en *MediaWiki* (https://www.mediawiki.org/wiki/MediaWiki
 ## Contenido que podrán crear los «editores web»
 
 Durante la fase de apertura al público de Urantiapedia se podrán incorporar otros contenidos que no se hayan podido incluir durante la fase de preparación, así como modificar contenido existente. Esto incluye:
-- Libros religiosos extrabíblicos que aparezcan como referencias directas o indirectas de *El Libro de Urantia*, cada libro convertido en una página principal y varias páginas por cada capítulo, todas con enlaces a *El Libro de Urantia* y de éste a esas páginas.
-- Libros científicos y de humanidades que se hayan comprobado poder haber sido material usado por los reveladores para componer *El Libro de Urantia*, cada libro convertido en una página principal y varias páginas por cada capítulo, todas con enlaces a *El Libro de Urantia* y de éste a esas páginas.
-- Índices: de personas, de seres, de lugares, bíblicos, de referencias, de citas, cronologías, etc. Cada índice será una página y habrá una página principal de índices que listará los existentes. La creación de algunos de estos índices podrá automatizarse usando las *Urantiapedia Tools* por parte de los usuarios «administradores». Un ejemplo de un índice es éste: https://urantiapedia.site/index.php/Índice:Urantiapedia 
-- Artículos y estudios enlazados con el libro y las fuentes, con las referencias usadas apuntando a las páginas de la *Urantiapedia*. Aquí habrá que hacer un encomiable esfuerzo por modicar los artículos que se incorporen para que usen correctamente las referencias a *El Libro de Urantia* y no formas personales de referenciarlo. Por ejemplo, algunos autores escriben las referencias como `1002:3`, indicando el número de página de la edición inglesa estándar, o escriben cosas como `Doc. 109 sec. 2`. Todas estas formas de referenciar tanto *El Libro de Urantia* como *La Biblia* o cualquier otro libro disponible en la *Urantiapedia* estarán estandarizadas y armonizadas para que todo el contenido esté correctamente enlazado. Un ejemplo de un artículo correctamente incorporado a la *Urantiapedia* se puede ver aquí: https://urantiapedia.site/index.php?title=Artículo:Cómo_es_de_grande_Orvonton 
-- Arte urantiano, esquemas, fotos, animaciones, mapas, etc. Este contenido es lo que se conoce como *recursos*. Puede subirse este contenido utilizando la herramienta *Subir archivo* disponible en el panel *Herramientas wiki* en el lado izquierdo de la web, para usuarios registrados. Sin embargo, debido a potenciales problemas de espacio, estos recursos estarán limitados a un tamaño máximo por archivo y las animaciones y videos que ocupen mucho se incorporarán como enlaces a plataformas de video.
+- **Libros religiosos extrabíblicos** que aparezcan como referencias directas o indirectas de *El Libro de Urantia*, cada libro convertido en una página principal y varias páginas por cada capítulo, todas con enlaces a *El Libro de Urantia* y de éste a esas páginas.
+- **Libros científicos y de humanidades** que se hayan comprobado poder haber sido material usado por los reveladores para componer *El Libro de Urantia*, cada libro convertido en una página principal y varias páginas por cada capítulo, todas con enlaces a *El Libro de Urantia* y de éste a esas páginas.
+- **Índices**: de personas, de seres, de lugares, bíblicos, de referencias, de citas, cronologías, etc. Cada índice será una página y habrá una página principal de índices que listará los existentes. La creación de algunos de estos índices podrá automatizarse usando las *Urantiapedia Tools* por parte de los usuarios «administradores». Un ejemplo de un índice es éste: https://urantiapedia.site/index.php/Índice:Urantiapedia 
+- **Artículos y estudios** enlazados con el libro y las fuentes, con las referencias usadas apuntando a las páginas de la *Urantiapedia*. Aquí habrá que hacer un encomiable esfuerzo por modicar los artículos que se incorporen para que usen correctamente las referencias a *El Libro de Urantia* y no formas personales de referenciarlo. Por ejemplo, algunos autores escriben las referencias como `1002:3`, indicando el número de página de la edición inglesa estándar, o escriben cosas como `Doc. 109 sec. 2`. Todas estas formas de referenciar tanto *El Libro de Urantia* como *La Biblia* o cualquier otro libro disponible en la *Urantiapedia* estarán estandarizadas y armonizadas para que todo el contenido esté correctamente enlazado. Un ejemplo de un artículo correctamente incorporado a la *Urantiapedia* se puede ver aquí: https://urantiapedia.site/index.php?title=Artículo:Cómo_es_de_grande_Orvonton 
+- **Arte urantiano, esquemas, fotos, animaciones, mapas, etc.** Este contenido es lo que se conoce como *recursos*. Puede subirse este contenido utilizando la herramienta *Subir archivo* disponible en el panel *Herramientas wiki* en el lado izquierdo de la web, para usuarios registrados. Sin embargo, debido a potenciales problemas de espacio, estos recursos estarán limitados a un tamaño máximo por archivo y las animaciones y videos que ocupen mucho se incorporarán como enlaces a plataformas de video.
 
 ---
 
@@ -198,15 +198,19 @@ Texto citado | <blockquote>Texto citado</blockquote>
 No aparecen | <!--Esto es un comentario -->
 Texto sin ''formato'', literal | <pre>Texto sin ''formato'', literal</pre>
 
+---
+
 ### Secciones y listas
 
-Se debe escribir:
+Para obtener secciones se debe escribir:
 
+```
 == Nivel 2 ==
 
 === Nivel 3 ===
 
 ==== Nivel 4 ====
+```
 
 Se muestra:
 
@@ -217,29 +221,23 @@ Se muestra:
 ### Nivel 4
 
 
-Se debe escribir:
+Para obtener una línea horizontal se debe escribir:
 
+```
 Texto antes
-
 \---
-
 Texto después
+```
 
-Se muestra:
+Para obtener una lista no numerada se debe escribir:
 
-Texto antes
-
----
-
-Texto después
-
-Se debe escribir:
-
+```
 \* Lista con viñetas<br>
 \* Usan asteriscos<br>
 \*\* Dos y más asteriscos para subniveles<br>
 \*\* Otro más<br>
 \*\*\* Otro subnivel
+```
 
 Se muestra:
 
@@ -249,13 +247,15 @@ Se muestra:
   * Otro más
       * Otro subnivel
 
-Se debe escribir:
+Para obtener una lista numerada se debe escribir:
 
+```
 \# Lista numerada<br>
 \# Usa almohadillas<br>
 \#\# Dos y más almohadillas para subniveles<br>
 \#\# Otro más<br>
 \#\#\# Otro subnivel
+```
 
 Se muestra:
 
@@ -265,13 +265,15 @@ Se muestra:
     2. Otro más
         1. Otro subnivel
 
-Se debe escribir:
+Para obtener una lista mixta se debe escribir:
 
+```
 \# Lista mezclada<br>
 \# Usa asteriscos y almohadillas<br>
 \#\* Un subnivel sin número<br>
 \#\* Otro más<br>
 \# Otro
+```
 
 Se muestra:
 
@@ -281,49 +283,59 @@ Se muestra:
     * Otro más
 3. Otro
 
+---
+
 ### Hiperenlaces
 
-Enlaces a la propia *Urantiapedia*:
+Ejemplos de enlaces a la propia *Urantiapedia*:
 
-[[Página principal]]<br>
-[[Ayuda:Cómo crear un usuario]]<br>
-[[El Libro de Urantia Doc 156]]<br>
-[[Artículo:Cómo es de grande Orvonton]]<br>
-[[Andrés]]<br>
+```
+[[Página principal]]
+[[Ayuda:Cómo crear un usuario]]
+[[El Libro de Urantia Doc 156]]
+[[Artículo:Cómo es de grande Orvonton]]
+[[Andrés]]
+```
 
-Enlaces a la propia *Urantiapedia* con texto alternativo:
+Ejemplos de enlaces a la propia *Urantiapedia* con texto alternativo:
 
+```
 [[Andrés|el apóstol Andrés]]
+```
 
-Enlaces a la propia *Urantiapedia* con anclas:
+Ejemplos de enlaces a la propia *Urantiapedia* con anclas:
 
 A una sección del libro:
-
+```
 [[El Libro de Urantia Doc 156#LU_156_3]]
-
+```
 A un párrafo del libro:
-
+```
 [[El Libro de Urantia Doc156#LU_156_3_1]]
-
+```
 A otra página web (no es necesario formato):
-
+```
 https://www.urantia.org/es/fundacion-urantia
 
 [https://www.urantia.org/es/fundacion-urantia Fundación Urantia]
+```
+
+---
 
 ### Imágenes
 
 Para insertar una imagen se recomienda este formato en una línea aislada con una línea en blanco antes y después:
-
+```
 [[File:nombre_archivo|frame|leyenda]]
-
+```
 donde nombre_archivo es el nombre de un archivo que de tipo imagen se habrá incorporado a la *Urantiapedia*, frame indica que se mostrará la imagen rodeada por un marco y leyenda es el texto a mostrar como leyenda. De este modo la imagen se colocará en la posición más idónea relativa al texto.
 
 Por ejemplo, escribiendo:
-
+```
 [[File:Orvonton_ViaLactea.jpg|frame|¿Es Orvonton la Vía Láctea o algo mucho mayor?]]
 se obtiene una imagen grande y centrada.
-
+```
+---
 
 ### Tablas
 
@@ -360,15 +372,21 @@ Es decir:
 - Se empieza una fila de la tabla con |-.
 - Se empieza la primera celda de una fila con | y las siguientes celdas de la fila con ||.
 
+---
+
 ### Referencias
 
 Para insertar referencias dentro de una página la Urantiapedia dispone de un módulo llamado Lib que facilita la inclusión de estas. Consulta el manual sobre [Cómo usar las referencias](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_referencias.md).
+
+---
 
 ## Caracteres especiales
 
 - guión largo: —
 - espacio en blanco extra: &emsp;
 - comillas tipográficas: « »
+
+---
 
 ## Buscar y reemplazar en VS Code
 
@@ -380,6 +398,7 @@ En el texto de la Biblia:
 
 Ver [Regular expression Quisck start](http://www.regular-expressions.info/quickstart.html)
 
+---
 
 ## Enlaces
 

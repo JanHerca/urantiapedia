@@ -218,13 +218,14 @@ class TopicIndex {
 	};
 
 	/**
-	 * Obtiene un objeto que contiene una resumen con la cantidad de términos de
+	 * Obtiene un objeto que contiene un resumen con la cantidad de términos de
 	 * cada tipo y los totales, así como el número de redireccionamientos.
 	 * @return {Object}
 	 */
 	getSummary = () => {
 		const letters = '_abcdefghijklmnopqrstuvwxyz';
 		const types = ['PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION', 'OTRO'];
+		const etypes = ['PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 'OTHER']
 		let result = {};
 		letters.split('').forEach(letter => {
 			let obj = {};
@@ -233,8 +234,8 @@ class TopicIndex {
 			const tt = this.topics.filter(t => t.filename === letter + '.txt');
 			obj.TOTAL = tt.length;
 			//Categorías
-			types.forEach(type => {
-				const tf = tt.filter(t => t.type === type);
+			types.forEach((type, i) => {
+				const tf = tt.filter(t => t.type === type || t.type === etypes[i]);
 				let lines = 0;
 				tf.forEach(t => lines += t.lines.length);
 				obj[type] = tf.length;
