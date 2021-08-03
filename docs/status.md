@@ -12,30 +12,30 @@ La lista de tareas a realizar es esta:
 
 Relación de tareas e idiomas a soportar, con indicación del progreso actual:
 
-Idioma | Paramony | Términos | Biblia | LU sin<br>notas | LU con<br>notas | Términos<br>Wiki | LU<br>Wiki | Biblia<br>Wiki
----|---|---|---|---|---|---|---|---
-bg | WIP |     | OK | OK |    |     |     | 
-cs |     |     | OK | OK |    |     |     | 
-da |     |     |    | OK |    |     |     | 
-de |     |     |    | OK |    |     |     | 
-el |     |     |    | OK |    |     |     | 
-en | OK  | WIP | OK | OK | OK | WIP | WIP | WIP
-es | OK  | WIP | OK | OK | OK | WIP | WIP | WIP
-et |     |     |    | OK |    |     |     | 
-fa |     |     |    | OK |    |     |     | 
-fi |     |     |    | OK |    |     |     | 
-fr |     |     |    | OK |    |     |     | 
-he |     |     |    | OK |    |     |     | 
-hu |     |     |    | OK |    |     |     | 
-id |     |     |    | OK |    |     |     | 
-it |     |     |    | OK |    |     |     | 
-ja |     |     |    | OK |    |     |     | 
-ko |     |     |    | OK |    |     |     | 
-lt |     |     |    | OK |    |     |     | 
-nl |     |     |    | OK |    |     |     | 
-pl |     |     |    | OK |    |     |     | 
-pt |     |     |    | OK |    |     |     | 
-ro |     |     |    | OK |    |     |     | 
-ru |     |     |    | OK |    |     |     | 
-sv |     |     |    | OK |    |     |     | 
+Idioma | Código | Paramony | Términos | Biblia | LU sin<br>notas | LU con<br>notas | Términos<br>Wiki | LU<br>Wiki | Biblia<br>Wiki
+---|---|---|---|---|---|---|---|---|---
+Bulgarian  | bg | WIP |     | OK | OK |    |     |     | 
+Czech      | cs |     |     | OK | OK |    |     |     | 
+Danish     | da |     |     |    | OK |    |     |     | 
+German     | de |     |     |    | OK |    |     |     | 
+Greek      | el |     |     |    | OK |    |     |     | 
+English    | en | OK  | WIP | OK | OK | OK | WIP | WIP | WIP
+Spanish    | es | OK  | WIP | OK | OK | OK | WIP | WIP | WIP
+Estonian   | et |     |     |    | OK |    |     |     | 
+Farsi      | fa |     |     |    | OK |    |     |     | 
+Finnish    | fi |     |     |    | OK |    |     |     | 
+French     | fr |     |     |    | OK |    |     |     | 
+Hebrew     | he |     |     |    | OK |    |     |     | 
+Hungarian  | hu |     |     |    | OK |    |     |     | 
+Indonesian | id |     |     |    | OK |    |     |     | 
+Italian    | it |     |     |    | OK |    |     |     | 
+Japanese   | ja |     |     |    | OK |    |     |     | 
+Korean     | ko |     |     |    | OK |    |     |     | 
+Lithuanian | lt |     |     |    | OK |    |     |     | 
+Dutch      | nl |     |     |    | OK |    |     |     | 
+Polish     | pl |     |     |    | OK |    |     |     | 
+Portuguese | pt |     |     |    | OK |    |     |     | 
+Romanian   | ro |     |     |    | OK |    |     |     | 
+Russian    | ru |     |     |    | OK |    |     |     | 
+Swedish    | sv |     |     |    | OK |    |     |     | 
 
