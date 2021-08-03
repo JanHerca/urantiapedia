@@ -103,7 +103,7 @@ La *Urantiapedia* se va a crear en dos fases para cada uno de los idiomas que se
 
 En resumen, los tipos de usuarios del proyecto serán:
 - «desarrolladores», que pueden realizar cambios en la aplicación *Urantiapedia Tools* de este proyecto GitHub y en la aplicación MediaWiki. Estos usuarios deben consultar el [Manual para «desarrolladores»](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_developers.md).
-- «administradores», con capacidad para realizar cambios en la web *Urantiapedia* durante la fase de preparación. Estos usuarios deben consultar el [Manual para «administradores»](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_developers.md).
+- «administradores», con capacidad para realizar cambios en la web *Urantiapedia* durante la fase de preparación. Estos usuarios deben consultar el [Manual para «administradores»](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_administrators.md).
 - «editores GitHub», con capacidad, durante la fase de preparación, para realizar cambios en ciertos ficheros iniciales contenidos en este proyecto GitHub o crear estos archivos. Estos usuarios deben consultar el [Manual para «editores GitHub»](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_github_editors.md).
 - «editores web», con capacidad para realizar cambios directamente en la web *Urantiapedia* una vez entre en la fase pública. Estos usuarios deben consultar el [Manual para «editores web»](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_editors.md).
 - «revisores», unos usuarios por definir en la fase pública que velarán por un correcto contenido en la web.
