@@ -114,5 +114,12 @@ En resumen, los tipos de usuarios del proyecto serán:
 
 En caso de desear colaborar en este proyecto el mejor medio de contacto es registrarse en la web *Blue Fields* (https://blue-fields.netlify.app/), que es una web que ha sido creada para unir y organizar a lectores de *El Libro de Urantia* que desean participar en proyectos inteligentes, propositados y altruistas en todo el mundo. Una vez registrado el equipo del proyecto se pondrá en contacto contigo.
 
+---
+
+## Estado actual de progreso
+
+Para conocer el progreso actual del proyecto puedes consultarlo en:
+[Status - Progreso actual del proyecto](https://github.com/JanHerca/urantiapedia/blob/master/docs/status.md)
+
 
 
