@@ -188,15 +188,15 @@ En un equipo portátil que no dispone de teclado numérico este sistema se compl
 
 Se muestra | Se debe escribir
 ---|---
-Texto insertado | <ins>Texto insertado</ins>
-Texto subrayado | <u>Texto subrayado</u>
-Texto tachado | <s>Texto tachado</s>
-Texto borrado | <del>Texto borrado</del>
-Texto código fuente | <code>Texto código fuente</code>
-Texto citado | <blockquote>Texto citado</blockquote>
-“Cita” | <q>Cita</q>
-No aparecen | <!--Esto es un comentario -->
-Texto sin ''formato'', literal | <pre>Texto sin ''formato'', literal</pre>
+<ins>Texto insertado</ins> | `<ins>Texto insertado</ins>`
+<u>Texto subrayado</u> | `<u>Texto subrayado</u>`
+<s>Texto tachado</s> | `<s>Texto tachado</s>`
+<del>Texto borrado</del> | `<del>Texto borrado</del>`
+<code>Texto código fuente</code> | `<code>Texto código fuente</code>`
+Texto citado | `<blockquote>Texto citado</blockquote>`
+<q>Cita</q> | `<q>Cita</q>`
+ [vacío] | `<!--Esto es un comentario -->`
+Texto sin ''formato'', literal | `<pre>Texto sin ''formato'', literal</pre>`
 
 ---
 
@@ -225,7 +225,7 @@ Para obtener una línea horizontal se debe escribir:
 
 ```
 Texto antes
-\---
+---
 Texto después
 ```
 
@@ -239,7 +239,7 @@ Para obtener una lista no numerada se debe escribir:
 \*\*\* Otro subnivel
 ```
 
-Se muestra:
+Se mostrará:
 
 * Lista con viñetas
 * Usan asteriscos
@@ -257,7 +257,7 @@ Para obtener una lista numerada se debe escribir:
 \#\#\# Otro subnivel
 ```
 
-Se muestra:
+Se mostrará:
 
 1. Lista numerada
 2. Usa almohadillas
@@ -275,7 +275,7 @@ Para obtener una lista mixta se debe escribir:
 \# Otro
 ```
 
-Se muestra:
+Se mostrará:
 
 1. Lista mezclada
 2. Usa asteriscos y almohadillas
