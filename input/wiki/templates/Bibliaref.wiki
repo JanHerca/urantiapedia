@@ -17,7 +17,4 @@ Ejemplos:
 Hay que tener cuidado de que siempre requiere cuatro parámetros.
 
 </noinclude>
-
-[[ {{ bibliaab | {{{1}}} }}_{{{2}}}#{{{3}}} ]]
-
-[[ {{ bibliaab | {{{1}}} }}_{{{2}}}#{{{3}}} | {{{4}}} ]]
+{{ bibliaab | {{{1}}} }}_{{{2}}}#{{{3}}} | {{{1}}} {{{2}}}:{{{4}}}

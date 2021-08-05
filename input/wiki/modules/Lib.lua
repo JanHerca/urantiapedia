@@ -1,5 +1,5 @@
 local p = {}
-
+--TODO: Esta plantilla hay que rehacerla para que admita todos los idiomas
 function p.ref( frame )
     -- Basado en: https://en.wikipedia.org/wiki/Module:Bibleverse
     local targs = frame:getParent().args

@@ -18,9 +18,10 @@ Una Wiki es una página web que es mantenida y editada de forma colaborativa por
 
 ## ¿Cómo se organiza?
 
-Al estilo de la Wikipedia. En ella hay páginas, cada una con un título único y una URL única que puede incluir caracteres especiales como acentos. Por ejemplo, en un futuro la *Urantiapedia* dispondrá de páginas como éstas: 
-- https://es.urantiapedia.com/El_Libro_de_Urantia_Doc_156, que sería la página con el documento 156 de *El Libro de Urantia* en español;
-- https://en.urantiapedia.com/How_Big_Is_Orvonton, que sería la página de un artículo sobre Orvonton.
+Al estilo de la Wikipedia. En ella hay páginas, cada una con un título único y una URL única que puede incluir caracteres especiales como acentos. Por ejemplo, si introduces esta direcciones en el navegador:
+* https://urantiapedia.site/index.php?title=El_Libro_de_Urantia_Doc_156 accedes a la página con el documento 156 de ''El Libro de Urantia''.
+* https://urantiapedia.site/index.php?title=Artículo:Cómo_es_de_grande_Orvonton accedes a la página de un artículo sobre Orvonton.
+* https://urantiapedia.site/index.php?title=Andrés accedes a la página con información y referencias sobre el apóstol Andrés.
 
 Cada página puede ser un artículo completo sobre un tema, un capítulo de un libro, la página de inicio de un libro, un índice agrupando enlaces a otras páginas, etc. Lo que cada página contenga es algo a libertad de los creadores de contenido y puede ser modificado con el paso del tiempo según las necesidades cambien, aunque es muy recomendable que una vez creada una página, es decir una URL, esta permanezca siempre y se usen redireccionamientos si resulta necesario.
 
@@ -32,7 +33,7 @@ Las páginas se agrupan bajo las siguientes categorías básicas:
 * Índices
 * Imágenes
 
-En un futuro se podrían considerar otras categorías como Revistas, Vídeos, Mapaps, Modelos 3D y otros tipos de contenido según fuera surgiendo la necesidad.
+En un futuro se podrían considerar otras categorías como Revistas, Vídeos, Mapas, Modelos 3D y otros tipos de contenido según fuera surgiendo la necesidad.
 
 Todas las páginas que traigan texto se organizan al estilo de la Wikipedia, con secciones y con la posibilidad de tener tablas laterales (llamadas plantillas) con resúmenes o pequeños índices internos.
 
@@ -62,9 +63,9 @@ Cada uno será una página con secciones. Es muy recomendable que tenga al final
 
 ### Términos
 
-Aquí se incluyen un tipo especial de artículos relativos a un tema concreto relacionado con *El Libro de Urantia*. Por ejemplo, un concepto como la *absonidad*, o una persona como *Grandfanda*, o un tipo de ser como los *Ajustadores del Pensamiento*, o un lugar como *Nazaret*, un evento como *la llegada de Adán y Eva*, etc.
+Aquí se incluyen un tipo especial de artículos relativos a un tema concreto relacionado con *El Libro de Urantia*. Por ejemplo, un concepto como la *absonidad*, o una persona como *Grandfanda*, o un tipo de ser como los *Ajustadores del Pensamiento*, o un lugar como *Nazaret* u *Orvonton*, un evento como *la llegada de Adán y Eva*, etc.
 
-Cada término tendrá una sección de *Referencias* donde vendrá un listado de todos los párrafos del libro donde se menciona. También podrá tener una sección *Enlaces* con enlaces a otras parte de la *Urantiapedia* donde se profundiza o aclaran más cosas. Por ejemplo, la página sobre *Nazaret* contiene una explicación sucinta y básica sobre Nazaret (qué lugar es, porqué es importante, coordenadas geográficas con enlace a Google Maps, etc). Pero en la sección de *Enlaces* podría venir enlazado un artículo en el que un lector profundiza sobre la ciudad de Jesús, cómo era y qué hallazgos arqueológicos se han encontrado que parezcan corroborar o no afirmaciones del libro.
+Cada término tendrá una sección de *Referencias* donde vendrá un listado de todos los párrafos de *El Libro de Urantia* donde se menciona. También podrá tener una sección *Enlaces* con enlaces a otras parte de la *Urantiapedia* donde se profundiza o aclaran más cosas. Por ejemplo, la página sobre *Nazaret* contiene una explicación sucinta y básica sobre Nazaret (qué lugar es, porqué es importante, coordenadas geográficas con enlace a Google Maps, etc). Pero en la sección de *Enlaces* podría venir enlazado un artículo en el que un lector profundiza sobre la ciudad de Jesús, cómo era y qué hallazgos arqueológicos se han encontrado que parezcan corroborar o no afirmaciones del libro.
 
 ### Índices
 
@@ -88,7 +89,7 @@ Aquí se incluye todo contenido multimedia de interés relacionado con *El Libro
 
 * Arte urantiano. Dibujos o fotografías que evoquen algún concepto del libro.
 * Esquemas. Infografías o gráficos que expliquen y aclaren temas del libro.
-* Fotos. Imágenes libres de derechos de autor usados en cualquier parte de la Urantiapedia.
+* Fotos. Imágenes libres de derechos de autor usados en cualquier parte de la *Urantiapedia*.
 * Animaciones. Imágenes animadas que aclaren conceptos que impliquen una visualización animada.
 * Mapas. Mapas que permitan ubicar lugares mencionados en el libro o itinerarios y migraciones.
 * Modelos 3D. Animaciones o modelos fijos hechos en 3D y visualizables mediante WebGL.
@@ -116,7 +117,7 @@ En caso de desear colaborar en este proyecto el mejor medio de contacto es regis
 
 ---
 
-## Estado actual de progreso
+## Estado actual del progreso
 
 Para conocer el progreso actual del proyecto puedes consultarlo en:
 [Status - Progreso actual del proyecto](https://github.com/JanHerca/urantiapedia/blob/master/docs/status.md)

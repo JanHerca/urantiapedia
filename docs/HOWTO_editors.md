@@ -232,11 +232,11 @@ Texto después
 Para obtener una lista no numerada se debe escribir:
 
 ```
-\* Lista con viñetas<br>
-\* Usan asteriscos<br>
-\*\* Dos y más asteriscos para subniveles<br>
-\*\* Otro más<br>
-\*\*\* Otro subnivel
+* Lista con viñetas<br>
+* Usan asteriscos<br>
+** Dos y más asteriscos para subniveles<br>
+** Otro más<br>
+*** Otro subnivel
 ```
 
 Se mostrará:
@@ -250,11 +250,11 @@ Se mostrará:
 Para obtener una lista numerada se debe escribir:
 
 ```
-\# Lista numerada<br>
-\# Usa almohadillas<br>
-\#\# Dos y más almohadillas para subniveles<br>
-\#\# Otro más<br>
-\#\#\# Otro subnivel
+# Lista numerada<br>
+# Usa almohadillas<br>
+## Dos y más almohadillas para subniveles<br>
+## Otro más<br>
+### Otro subnivel
 ```
 
 Se mostrará:
@@ -268,11 +268,11 @@ Se mostrará:
 Para obtener una lista mixta se debe escribir:
 
 ```
-\# Lista mezclada<br>
-\# Usa asteriscos y almohadillas<br>
-\#\* Un subnivel sin número<br>
-\#\* Otro más<br>
-\# Otro
+# Lista mezclada<br>
+# Usa asteriscos y almohadillas<br>
+#* Un subnivel sin número<br>
+#* Otro más<br>
+# Otro
 ```
 
 Se mostrará:

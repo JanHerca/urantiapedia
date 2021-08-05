@@ -309,7 +309,7 @@ Cursiva | `\textit{<texto>}`
 ü | `\"u`
 — | `---`
 ‘ ’ | ` '
-Salto de línea \ `\bigbreak`
+Salto de línea | `\bigbreak`
 º | `{\textdegree}`
 º | `{\textordmasculine}`
 ª | `{\textordfeminine}`
