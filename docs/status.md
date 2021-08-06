@@ -14,8 +14,8 @@ Relación de tareas e idiomas a soportar, con indicación del progreso actual:
 
 Idioma | Código | Paramony | Términos | Biblia | LU sin<br>notas | LU con<br>notas | Términos<br>Wiki | LU<br>Wiki | Biblia<br>Wiki
 ---|---|---|---|---|---|---|---|---|---
-Bulgarian  | bg | WIP |     | OK | OK |    |     |     | 
-Czech      | cs |     |     | OK | OK |    |     |     | 
+Bulgarian  | bg | OK  |     | OK | OK |    |     |     | 
+Czech      | cs | OK  |     | OK | OK |    |     |     | 
 Danish     | da |     |     |    | OK |    |     |     | 
 German     | de |     |     |    | OK |    |     |     | 
 Greek      | el |     |     |    | OK |    |     |     | 

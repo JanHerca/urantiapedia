@@ -862,7 +862,6 @@ algas | (59:1.18) | | |
 antepasados ​​de los corales (59:2.11)
 fósiles (58:7.2)
 piedra depositada por secreción de cal (59:2.3,11)
-
 generó oxígeno libre para la atmósfera temprana (57:7.9)
 ascenso del hombre desde (65:2.1) (65:6.8)
 
@@ -1562,7 +1561,7 @@ osos hormigueros | (61:4.4) | | |
 antílopes | (61:4.3) | | | 
 
 antracita | | | | 
-	sujeta a más presión y calor que otros carbones (59:5.16)
+sujeta a más presión y calor que otros carbones (59:5.16)
 
 antropomorfismo | | | | 
 logro más elevado de la religión puramente evolutiva (5:4.9)
