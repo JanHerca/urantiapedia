@@ -273,7 +273,8 @@ const handle_drpTopicsChange = (evt) => {
 };
 
 const checkControls = (cnames) => {
-	if (cnames.map(c => controls[c]).find(cc => cc.value === '')) {
+	const ctrls = cnames.map(c => controls[c]);
+	if (ctrls.find(cc => cc.localName === 'input' && cc.value === '')) {
 		onFail([new Error('Falta uno de los directorios de entrada')]);
 		return false;
 	}
