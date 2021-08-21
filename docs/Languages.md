@@ -30,7 +30,7 @@ ru | Russian | Книга Урантии
 sv | Swedish | Urantiaboken
 
 # Quotation marks
-„“
+«»
 Code | Language | Standard primary & secondary | Alternative primary & secondary
 --- | --- | --- | --- 
 bg | Bulgarian | „...“ & ’...’ ‘...’ | «...» & ’...’ ‘...’
