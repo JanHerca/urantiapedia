@@ -21,8 +21,8 @@ German     | de | OK  |     |    | OK |    |     |     |
 Greek      | el | OK  |     |    | OK |    |     |     | 
 English    | en | OK  | WIP | OK | OK | OK | WIP | WIP | WIP
 Spanish    | es | OK  | WIP | OK | OK | OK | WIP | WIP | WIP
-Estonian   | et |     |     |    | OK |    |     |     | 
-Farsi      | fa |     |     |    | OK |    |     |     | 
+Estonian   | et | OK  |     |    | OK |    |     |     | 
+Farsi      | fa | OK  |     |    | OK |    |     |     | 
 Finnish    | fi |     |     |    | OK |    |     |     | 
 French     | fr |     |     |    | OK |    |     |     | 
 Hebrew     | he |     |     |    | OK |    |     |     | 
