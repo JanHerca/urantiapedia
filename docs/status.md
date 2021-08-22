@@ -23,8 +23,8 @@ English    | en | OK  | WIP | OK | OK | OK | WIP | WIP | WIP
 Spanish    | es | OK  | WIP | OK | OK | OK | WIP | WIP | WIP
 Estonian   | et | OK  |     |    | OK |    |     |     | 
 Farsi      | fa | OK  |     |    | OK |    |     |     | 
-Finnish    | fi |     |     |    | OK |    |     |     | 
-French     | fr |     |     |    | OK |    |     |     | 
+Finnish    | fi | OK  |     |    | OK |    |     |     | 
+French     | fr | OK  |     |    | OK |    |     |     | 
 Hebrew     | he |     |     |    | OK |    |     |     | 
 Hungarian  | hu |     |     |    | OK |    |     |     | 
 Indonesian | id |     |     |    | OK |    |     |     | 
