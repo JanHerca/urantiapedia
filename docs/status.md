@@ -25,10 +25,10 @@ Estonian   | et | OK  |     |    | OK |    |     |     |
 Farsi      | fa | OK  |     |    | OK |    |     |     | 
 Finnish    | fi | OK  |     |    | OK |    |     |     | 
 French     | fr | OK  |     |    | OK |    |     |     | 
-Hebrew     | he |     |     |    | OK |    |     |     | 
-Hungarian  | hu |     |     |    | OK |    |     |     | 
+Hebrew     | he | OK  |     |    | OK |    |     |     | 
+Hungarian  | hu | OK  |     |    | OK |    |     |     | 
 Indonesian | id |     |     |    | OK |    |     |     | 
-Italian    | it |     |     |    | OK |    |     |     | 
+Italian    | it | OK  |     |    | OK |    |     |     | 
 Japanese   | ja |     |     |    | OK |    |     |     | 
 Korean     | ko |     |     |    | OK |    |     |     | 
 Lithuanian | lt |     |     |    | OK |    |     |     | 
