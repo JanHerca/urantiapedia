@@ -10,7 +10,7 @@
 # Filtrar en VS: "\| [A-Z]+ \|" tienen tipo, "\| OK\r?$" revisadas, "\| [A-Z]+ \|.\r?$" tipo no revisadas
 ####################################################################################
 
-Caesarea (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3)
+Caesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | LUGAR | 
 Herod the Idumean built (121:2.11)
 home of Nathan, author of Gospel of John (121:8.10)
 Jesus’ experiences in C. on way to Rome (130:2sec)
@@ -18,13 +18,13 @@ Paul imprisoned at (130:2.5)
 Roman capital of Judea (130:2.1) (184:3.17)
 slaughter of 20,000 Jews at (130:2.5)
 
-Caesarea Philippi (Paper 157) (134:8.1,10) (155:3sec)
+Caesarea Philippi | (157) (134:8.1,10) (155:3) | | LUGAR | 
 also known as Dan (134:7.5)
 capital of Tetrarch Philip’s domain (157:3.1)
 Celsus from (157:3.7) (157:4.1) (157:6.1) (158:6.1)
 Veronica from (152:0.3)
 
-Caiaphas (186:1.1) (190:3.3). See also Sanhedrin
+Caiaphas | (186:1.1) (190:3.3) | See also Sanhedrin | PERSONA | OK
 Annas’s aggressive son-in-law (183:5.1) (184:0.2) (184:1.1)
 high priest (175:4.13) (184:0.2)
 asserted it better one die than community perish (168:3.6)
@@ -37,7 +37,7 @@ more prosecutor than unbiased judge (184:3.4)
 shook accusing finger at, smote Master in face (184:3.11,15)
 shook avenging finger in Pilate’s face (185:7.5)
 
-Cain (76:2sec)
+Cain | (76:2) | | PERSONA | 
 son of Eve and Cano; natural bellicose inheritance (76:2.4)
 born before Adamic caravan reached second garden (76:0.2)
 2 years older than Able; followed agriculture (76:2.1,5)
@@ -50,31 +50,31 @@ married Remona; first son was Enoch (76:2.9)
 avenged 7 times (159:1.7)
 tribal mark vital in days of (68:1.2)
 
-calamities. See accidents
+calamities | | See accidents | | 
 
-calcium. See also stone
+calcium | | See also stone | | 
 chief element of matter-permeation of space (41:6.2)
 defies gravity by juggling an electron (41:6.4-5)
 wanderer of space; rides light beams (41:6sec)
 
-Caleb
+Caleb | | | PERSONA | OK
 lived to enter promised land (166:3.2)
 
-Calebites
+Calebites | | | RAZA | 
 non-Hebrew nomadic Palestinians; joined David (97:9.7)
 
-Caledonian mountains (59:3.3)
+Caledonian mountains | (59:3.3) | | LUGAR | 
 
-calendar
+calendar | | | | 
 accurate Egyptian reform of c. 7000 years ago (77:2.11-12)
 present day c. used in Urantia Papers (57:0.1) (126:3.1)
 
-California (60:1.13)
+California | (60:1.13) | | LUGAR | 
 geology (59:4.5) (59:4.12) (59:5.19) (59:5.20) (60:1.8) (60:3.3,6) (61:3.3)
 oldest Amerindian culture (79:5.8)
 Onamonalonton’s headquarters among redwoods in (64:6.7)
 
-Caligastia (Paper 66). See also Caligastia one hundred; devil; Lanonandek Sons; Lucifer rebellion; Planetary Princes
+Caligastia | (66) | See also Caligastia one hundred; devil; Lanonandek Sons; Lucifer rebellion; Planetary Princes | PERSONA | OK
 titular Planetary Prince until deposed in times of Jesus (75:2.2)
 advocated cause of Lucifer on Urantia (49:5.23) (53:7.2)
 deposed Planetary Prince of Urantia; the devil; evil one (53:1.4) (75:2.3) (179:2.3) (189:3.3)
@@ -129,7 +129,7 @@ Jesus arrival
 	Michael offered mercy to (53:8.6) (53:9.1)
 	still free on Urantia (53:8.6-7)
 
-Caligastia one hundred. See also corporeal staffs of Planetary Princes
+Caligastia one hundred | | See also corporeal staffs of Planetary Princes | PERSONA | OK
 100 ex-mortals chosen by Caligastia of 785,000 Jerusem citizen
 volunteers (66:2.4)
 50 males and 50 females; served as couples; couples lived together (66:7.4-5) (77:1.3,5)
@@ -187,42 +187,42 @@ work of the Caligastia one hundred (66:5-7secs)
 	used natural means of race improvement (66:4.2) (66:5.16)
 	blue man profited most from teachings of (68:0.3)
 
-Caligula
+Caligula | | | PERSONA | OK
 Roman emperor; Selta attached to (176:2.8)
 
-Callirrhoe (165:0.1)
+Callirrhoe | (165:0.1) | | LUGAR | 
 Perea mission
 
-Cambrian (59:1.15,20). See also geologic ages
+Cambrian | (59:1.15,20) | See also geologic ages | | 
 marine-life era from 400 to 350 million years ago (59:1sec)
 
-camels. See also caravans
+camels | | See also caravans | | 
 appearance (61:2.9) (61:3.5,10) (61:4.3,4) (61:4.4) (61:5.7)
 domesticated by 5000 B.C. (81:2.12)
 straining out gnat while swallowing c. (156:2.8) (175:1.17)
 through eye of a needle (163:3.1)
 
-Cana (124:1.12) (138:9.3) (146:5sec)
+Cana | (124:1.12) (138:9.3) (146:5) | | LUGAR | 
 Joseph father of Jesus worked at (123:3.8)
 Nathaniel from (137:2.3) (139:6.2)
 wedding of Naomi and Johab at (137:4sec)
 
-Canaanites
+Canaanites | | | RAZA | 
 contaminated Hebrew religious practices (96:7.1)
 King David’s policy of compromise with (97:9.13)
 non-Hebrew nomadic Palestinians; joined David (97:9.7)
 
-Canada. See also Hudson Bay; Quebec
+Canada | | See also Hudson Bay; Quebec | LUGAR | 
 geology (58:7.4) (59:3.9) (59:4.6) (59:5.17) (61:7.9)
 
-candles
+candles | | | | 
 put not c. under a bushel (140:3.13)
 still burned in death chambers (87:1.4)
 use in religious services remnant of fire worship (85:4.4)
 
-canines. See dogs
+canines | | See dogs | | 
 
-cannibalism (89:5sec)
+cannibalism | (89:5) | | | 
 ancient social, economic, religious, military custom (89:5.1)
 commerce in women, children fattened for slaughter (89:5.7)
 ended by human sacrifice (89:5.15)
@@ -232,16 +232,16 @@ solemn ceremony of revenge (89:5.5-6)
 taste for human flesh grows (89:5.4)
 tribe ate every 5th child born (68:6.10)
 
-Cano
+Cano | | | PERSONA | OK
 brilliant and active Nodite leader (75:3.7)
 seducer of Eve; father of Cain (75:4.7) (75:5.3)
 assured Eve people with good motives could do no evil (75:4.5)
 influenced Eve by flattery, enthusiasm, personal persuasion (75:3.9)
 slain by Garden dwellers (75:5.3)
 
-Cape Horn (60:3.2) (60:3.12)
+Cape Horn | (60:3.2) (60:3.12) | | LUGAR | 
 
-Capernaum (Papers 145, 152–154) (134:7.5) (137:3,5secs) (138:1.1) (138:9.3) (147:7sec). See also Bethsaida
+Capernaum | (145) (152) (153) (154) (134:7.5) (137:3.5) (138:1.1) (138:9.3) (147:7) | See also Bethsaida | LUGAR | 
 Andrew from (139:1.1)
 Bethsaida was fishing harbor of (139:1.1)
 Jairus was ruler of synagogue (152:0.1)
@@ -265,9 +265,9 @@ woe upon light-rejecting inhabitants of (163:6.5)
 Zebedee family from (129:1.4) (139:3.1) (139:4.1)
 Zebedee’s boatbuilding shops south of (129:1.4)
 
-Capetown (66:5.30)
+Capetown | (66:5.30) | | LUGAR | 
 
-capital. See also competition; private property; profit
+capital | | See also competition; private property; profit | | 
 basis of modern industrial society (69:5.15)
 economic freedom secured through (81:5.5)
 gross abuses attendant upon misuse of (69:9.3)
@@ -277,28 +277,28 @@ misuses of c. by thoughtless and selfish custodians (69:5.15)
 pastoral living allowed man to live on interest of flocks (68:5.7)
 urges which led to accumulation of (69:5.3-11)
 
-capital punishment. See death penalty
+capital punishment | | See death penalty | | 
 
-capitalists
+capitalists | | | | 
 herders were the first (69:8.5)
 priests were chief among primitive (69:5.9)
 workers becoming shareholders on continental nation (72:5.1)
 
-Capitolias (165:0.1)
+Capitolias | (165:0.1) | | LUGAR | 
 Perea mission
 
-Capitolium
+Capitolium | | | LUGAR | 
 Roman temple dedicated to Jupiter, Juno, and Minerva (132:0.2)
 
-Cappadocia
+Cappadocia | | | LUGAR | 
 Matthew preached in (139:7.10)
 
-captain
+captain | | | | 
 human will is (111:1.9)
 
-Capua (130:0.2) (130:8.6)
+Capua | (130:0.2) (130:8.6) | | LUGAR | 
 
-caravans
+caravans | | | | 
 Jesus born in caravan stable (122:7.7)
 Jesus took c., led c. to the Caspian (133:9.1) (134:1.1,6) (134:2sec)
 Joseph’s caravan repair shop
@@ -311,23 +311,23 @@ Joseph’s caravan repair shop
 many c. passed through or near Nazareth (121:2.2)
 regular c. from India to Mesopotamia by 7000 B.C. (79:3.7)
 
-carbon
+carbon | | | | 
 dark shale or slate indicates presence of organic (58:7.10)
 early c. consumed by prolific plant life (57:7.8)
 in solar-energy reactions (41:8.1)
 
-carbon dioxide
+carbon dioxide | | | | 
 afforded speedy growth for primitive land varieties (58:1.8)
 atmospheric (57:8.5,17) (59:2.9) (59:5.2)
 origin (57:7.8)
 
-carbon monoxide
+carbon monoxide | | | | 
 in early atmosphere (57:7.6)
 
-Carboniferous. See also geologic ages
+Carboniferous | | See also geologic ages | | 
 age of ferns and frogs, 220 to 180 million years ago (59:5sec)
 
-careers. See also earning a living; labor
+careers | | See also earning a living; labor | | 
 acquire long-distance view of (156:5.8)
 Adjusters bring along ideal plans for our c. (110:2.1)
 Adjusters cannot stop or materially alter (111:7.2)
@@ -337,32 +337,32 @@ eternal destiny wholly compatible with honorable (110:3.4)
 Jesus deplored overspecialization (149:4.3,6) (155:1.4)
 life not real to one who cannot do one thing expertly (160:4.11)
 
-Caribbean region (59:1.5) (59:2.2)
+Caribbean region | (59:1.5) (59:2.2) | | LUGAR | 
 
-Carpathians (61:1.12)
+Carpathians | (61:1.12) | | LUGAR | 
 
-carpenter
+carpenter | | | | 
 Jesus was (126:1.1) (129:1.2-3)
 parable of the foolish (156:5.2)
 
-carpenter shop
+carpenter shop | | | | 
 Joseph added c.s. to Nazareth home (122:6.3)
 
-Carrara marble (60:1.4)
+Carrara marble | (60:1.4) | | | 
 
-carriage of life
+carriage of life | | | | 
 seraphic transport (39:5.14)
 
-carrier pigeons
+carrier pigeons | | | | 
 announced arrival of Adam and Eve (74:2.3)
 Prince’s staff first used (66:5.6)
 
-Carthage (130:0.2)
+Carthage | (130:0.2) | | LUGAR | 
 Andite settlement at (80:7.11)
 Carthaginians part of older race which included Jews (121:2.1)
 Jesus’ discourse on time and space at (130:7sec)
 
-Caspian Sea
+Caspian Sea | | | LUGAR | 
 expanded in ancient times (80:2.5)
 Jesus led caravan to (134:2sec)
 region
@@ -372,10 +372,10 @@ region
 	headquarters of Onagar (63:6.7)
 	Nerites erupted from (78:8.11)
 
-Caspin (165:0.1)
+Caspin | (165:0.1) | | LUGAR | 
 Perea mission
 
-caste systems. (68:6.7) See also Brahmanism; social classes
+caste systems | (68:6.7) See also Brahmanism; social classes | | | 
 based on color in India, Egypt (70:8.11)
 failed to save Aryan race (94:2.1,5)
 Gautama made determined fight against (94:7.2)
@@ -384,40 +384,40 @@ instituted by Aryans in India to save racial identity (79:2.6) (79:4.5-9)
 purchase stability but diminish personal initiative; prevent social cooperation (70:8.13)
 remnants of olden prohibitions (89:1.6)
 
-casting lots. See also superstitions
+casting lots | | See also superstitions | | 
 apostles selected Matthias by (193:6.3,6)
 does not disclose divine will (150:3.7,12)
 Greeks practiced government by (195:2.1)
 modern survival of shamanism (90:2.4)
 soldiers divided Jesus’ clothes by (187:2.8)
 
-castor oil
+castor oil | | | | 
 Sumerians used as medicine (90:4.9)
 
-castration. See also continence cult
+castration | | See also continence cult | | 
 early modification of human sacrifice (89:8.3)
 priests of mother cult submitted to (89:3.4)
 
-cataclysms. See accidents; disaster
+cataclysms | | See accidents; disaster | | 
 
-cataleptic fits
+cataleptic fits | | | | 
 shamanesses threw themselves into (90:1.3)
 
-catalyst
+catalyst | | | | 
 carbon is c. in hydrogen-helium reaction (41:8.1)
 
-catastrophes. See accidents; crisis; defeat; disaster
+catastrophes | | See accidents; crisis; defeat; disaster | | 
 
-caterpillars
+caterpillars | | | | 
 deny possibility of butterfly developing from (42:9.4)
 
-cats. See also panthers; saber-toothed tigers
+cats | | See also panthers; saber-toothed tigers | | 
 in ancient times (61:2.7) (61:3.4,10,13) (61:4.4) (61:5.7)
 black c. considered magical (88:5.4)
 
-Catskill Mountains (59:4.15)
+Catskill Mountains | (59:4.15) | | LUGAR | 
 
-cattle
+cattle | | | | 
 became fetish animals (88:1.5)
 domesticated by 5000 B.C. (81:2.12)
 early units of barter (69:4.5)
@@ -430,11 +430,11 @@ prodigal son given fatted calf (169:1.10)
 stealing c. universally punished by summary death (70:10.15)
 used in animal sacrifice (173:1.6-7)
 
-Caucasians. See also races; white race
+Caucasians | | See also races; white race | RAZA | 
 Andite inheritance gives Caucasoid homogeneity (78:4.4)
 race comprised of Andite, Andonic, primary and some secondary Sangik admixture (81:4.11)
 
-causation
+causation | | | | 
 antecedent causation
 	effects produced by definite causes (86:2.5)
 	Father freed us from fetters of (5:6.8-9)
@@ -451,7 +451,7 @@ only divine causes reveal final effects (19:1.11)
 primary c. and secondary c. (118:4sec)
 primitive mind assigned all phenomena to a person (70:10.3)
 
-caves
+caves | | | | 
 Andon’s family lived in (63:3.3-5)
 animal outlines drawn on walls of (63:6.3)
 believed passage to underworld (85:1.5)
@@ -461,10 +461,10 @@ northern white race never lived in (80:9.4)
 primitive man in Europe lived in (61:6.4)
 southern Cro-Magnons lived in (80:3.6) (80:9.4)
 
-Cedes
+Cedes | | | PERSONA | OK
 made record of Jesus’ life in A.D. 78 (121:8.9)
 
-celestial artisans (Paper 44) (30:3.6)
+celestial artisans | (44) (30:3.6) | | ORDEN | 
 all ascenders eligible to become (44:0.4)
 chief realm of activity is in constellations (44:0.1)
 co-operate with recorder-teacher transition seraphim (48:6.30)
@@ -492,9 +492,9 @@ univitatia are largest group associated with (43:7.4-5)
 utilize living materials to represent ideas (43:6.7)
 work under angels of progress on Urantia (44:8.1)
 
-celestial beings. See creatures
+celestial beings | | See creatures | ORDEN | 
 
-Celestial Guardians
+Celestial Guardians | | | ORDEN | 
 affectionate, loyal, humble, and supremely wise regarding concept they personify (22:10.8)
 apprehending agents of Ancients of Days (22:9.4)
 are personification of some single universal ideal (22:10.2)
@@ -512,18 +512,18 @@ present Spirit-fused mortals to Ancients of Days (40:10.9)
 Trinity-embraced finaliter and Paradise-Havoner trinitized sons (18:4.4) (22:1.12) (22:9.1)
 Trinity Teacher Sons assign (22:9.1)
 
-celestial influences. See spiritual influences
+celestial influences | | See spiritual influences | | 
 
-celestial musicians. See also celestial artisans
+celestial musicians | (44:1.1-15) | See also celestial artisans | ORDEN | 
 celestial artisans (44:1sec)
 
-Celestial Overseers (37:6sec)
+Celestial Overseers | (37:6) | | ORDEN | 
 in group Universe Aids (37:1.7)
 in Uversa personality register (30:2.146)
 most mortals will serve as (37:6.7)
 volunteer educators; number 3 million in Nebadon (37:6.1)
 
-Celestial Recorders (25:6sec)
+Celestial Recorders | (25:6) | | ORDEN | 
 Custodians of Records serve as Chiefs for (25:5.4) (25:6.1)
 in Uversa personality register (30:2.79)
 make original spirit records, semimaterial counterparts (25:6.1)
@@ -536,42 +536,42 @@ seraphim may attain Paradise through service as (39:8.3)
 sponsor superuniverse seraphic record-keeping (27:5.4)
 trained by Divine Counselors and Perfectors of Wisdom (25:6.1)
 
-celibate orders. See also castration
+celibate orders | | See also castration | | 
 maintained by individuals lacking normal sex urges (82:3.9)
 perceived baseness of woman was chief reason for (84:4.4)
 
-cells
+cells | | | | 
 healing secretions when injured (65:4.3-6)
 human c. akin to disease-producing organisms (76:4.7)
 protoplasmic cell is biologic unit of material life (49:1.2)
 
-Celsus
+Celsus | | | PERSONA | OK
 believer in Caesarea Philippi (157:3.7) (157:4.1) (157:6.1)
 apostles remained overnight with (158:6.1)
 
-Celta
+Celta | | | PERSONA | OK
 daughter of Roman centurion; in women’s corps (150:1.1)
 at Jesus’ 16th appearance (193:0sec)
 
-cemetery
+cemetery | | | | 
 crucifixion victims not buried in Jewish c. (188:1.2)
 Kheresa lunatic lived in (151:6.2)
 
-Cenozoic. See also geologic ages
+Cenozoic | | See also geologic ages | | 
 mammalian era, from 50 million years ago to present (59:0.6) (61:0.2) (61:7.19)
 
-censorship. See also disclosure
+censorship | | See also disclosure | | 
 14 mile erasure in Jerusem panorama (46:5.23)
 cf: all hidden will be revealed (150:4.2) (151:3.1) (165:3.2-3)
 cf: records of Celestial Recorders open to all (25:6.2)
 of broadcast material by celestial artisans (44:4.9)
 
-census
+census | | | | 
 ancients opposed taking (88:1.6)
 Caesar Augustus decreed c. in 8 B.C.; Jews against (122:7.1)
 Joseph registered at Bethlehem (122:4.3)
 
-Census Directors (24:2sec)
+Census Directors | (24:2) | | ORDEN | 
 1 stationed on capital of each local universe (24:2.4)
 1 stationed on each Havona circuit (24:2.3)
 are persons with recognizable spirit form (24:2.9)
@@ -586,27 +586,27 @@ Salsatia is Nebadon Census Director (24:2.7) (37:8.4)
 special completed creation of Infinite Spirit (24:2.2)
 Usatia is Orvonton chief of (24:2.5)
 
-centaurs
+centaurs | | | | 
 onetime objects of worship (85:3.2)
 
-Center of Centers. See Universal Father
+Center of Centers | | See Universal Father | PERSONA | 
 
-centipedes (65:2.5)
+centipedes | (65:2.5) | | | 
 
-Central America
+Central America | | | LUGAR | 
 amalgamated orange-blue race migrated to (64:7.5)
 predominantly red race but also yellow, orange, blue (79:5.8)
 
-central universe. See Havona
+central universe | | See Havona | LUGAR | 
 
-centurions. See Romans: named
+centurions | | Ver See Romans:named | | 
 
-cephalopods (59:2.11) (59:3.5,8) (60:1.13). See also mollusks
+cephalopods | (59:2.11) (59:3.5, 8) (60:1.13) | See also mollusks | | 
 
-cereals
+cereals | | | | 
 abundant in Cretaceous (60:3.19)
 
-ceremonies. See also cults; religion; traditions
+ceremonies | | See also cults; religion; traditions | | 
 what is ancient is supposedly sacred (92:2.2)
 	common people awed by ritual in ancient tongue (90:5.6)
 	gesture, older than speech, is more holy, magical (88:6.4)
@@ -643,7 +643,7 @@ purification ceremonies
 require social arena wherein to gratify vanity (68:2.10)
 ritual surrounded entire life of ancients (83:4.2)
 
-certainty. See also assurance; peace
+certainty | | See also assurance; peace | | 
 convictions of religious experience are unassailable (103:9.12)
 does not fear outward analysis (146:3.2)
 fetishmen believed to be infallible (88:1.10)
@@ -659,20 +659,20 @@ unattainable in mortal state (103:7.10)
 	nothing which human nature touches is infallible (159:4.8)
 we have right to be most certain about God (102:7.10)
 
-Ceylon
+Ceylon | | | LUGAR | 
 Asoka established Buddhism in (94:9.1)
 Hinayana Buddhism persisted in (94:9.4)
 least progressive Saharans emigrated to (80:2.2)
 
-Chaldeans
+Chaldeans | | | RAZA | 
 advanced eastern Semites (96:2.1)
 among first to abandon human sacrifice (89:6.2)
 favored monogamous marriage (83:6.3)
 star cultists; saw stars as cause of suffering (85:5.1-2) (90:3.8)
 
-chalk (60:3-4secs) (61:1.13)
+chalk | (60:3-4) (61:1.13) | | | 
 
-challenges. See also conflict; difficulties; opportunities; perspective; problem solving; suffering
+challenges | | See also conflict; difficulties; opportunities; perspective; problem solving; suffering | | 
 accept without complaint (48:6.35)
 apostles’ 5 months of testing (138:9sec)
 mortal life is short and intense test (14:5.1)
@@ -682,19 +682,19 @@ the great challenge
 	to construct new, appealing philosophy of living (2:7.10)
 	to make personal contribution to Supreme (117:4.10)
 
-chamber of hewn stone
+chamber of hewn stone | | | | 
 Sanhedrin meeting place (173:1.5) (184:3.2) (186:1.1)
 
-chance (86:1sec). See also gambling; luck
+chance | (86:1) | See also gambling; luck | | 
 50,000 facts prove evolution incompatible with c. (58:2.3-4)
 believed revelatory of will of spirits (90:2.4)
 personification of (86:2sec)
 signifies ignorance or indolence in determining causes (86:2.5)
 
-Chang
+Chang | | | PERSONA | OK
 Chinese merchant in Corinth (133:4.9)
 
-change. See also progress; transition
+change | | See also progress; transition | | 
 do not attempt great social or economic c. suddenly (71:1.22) (81:6.40)
 human life is endless c. (99:1.1) (112:5.20)
 leaders must keep pace with scientific developments (81:6.39)
@@ -702,10 +702,10 @@ more readjustment in 1 generation than in 2000 years (92:7.14)
 not always for the better (68:4.7)
 without growth is potential evil (100:3.5)
 
-chanting
+chanting | | | | 
 primitives treated disease by (90:4.4)
 
-character. See also spiritual growth
+character | | See also spiritual growth | | 
 acquirement
 	appreciation essential to development of (160:2.6)
 	by converting natural urges into higher longings (160:1.2)
@@ -735,13 +735,13 @@ secoraphic Discerners of Spirits and Solemnities of Trust reflect actual (28:5.1
 trust is true measure of (28:6.13)
 turning from wrong requires great (184:2.12)
 
-Charax (130:0.1,3)
+Charax | (130:0.1,3) | | LUGAR | 
 Jesus left Ganid at (133:9.4) (134:1.1)
 
-charcoal picture
+charcoal picture | | | | 
 Jesus’ drawing on synagogue floor (124:1.4-5)
 
-charity. See also altruism
+charity | | See also altruism | | 
 by government
 	he who will not work shall not eat (69:2.5)(140:8.2)(153:2.6)
 	improvident depend on taxpayers to take care of them (69:9.5)
@@ -762,7 +762,7 @@ by individuals
 	rich men endow great institutions of learning (69:5.13)
 	what is given is wisely saved (131:3.6)
 
-charms (88:5sec). See also fetishes; relics; superstitions
+charms | (88:5) | See also fetishes; relics; superstitions | | 
 all ancient objects considered magical (88:5.4)
 anything connected with body could become fetish (88:5.1)
 belief in c. destroyed personal initiative (69:2.7) (88:6.6)
@@ -773,11 +773,11 @@ items from which concocted (88:5.2-4)
 origin of ornaments (69:9.10)
 primitives rubbed on infections, then discarded (90:4.5)
 
-chastity. See also continence cult; virgins
+chastity | | See also continence cult; virgins | | 
 once a great hindrance to girl’s marriage (82:3.8,13)
 origin of taboo in property mores (82:4.5)
 
-chazan of Nazareth synagogue (123:5.9) (124:1.4) (124:2.2) (124:3.5) (127:2.7-8)
+chazan of Nazareth synagogue | (123:5.9) (124:1.4) (124:2.2) (124:3.5) (127:2.7-8) | | PERSONA | OK
 officer of synagogue (123:5.3)
 Jesus’ charcoal drawing of (124:1.4)
 interested in Jesus’ progress (123:5.9)(124:2.2)(124:3.5)(126:5.3)
@@ -786,19 +786,19 @@ inaugurated young men’s club (127:3.9)
 deceased at time of Jesus’ Nazareth rejection (150:7.4)
 Susanna was daughter of (150:1.1)
 
-Chedorlaomer
+Chedorlaomer | | | PERSONA | OK
 Abraham’s victory over (93:4.14)
 
-cheek
+cheek | | | | 
 smitten on one c., turn other (140:3.14) (159:5.9)
 
-cheese
+cheese | | | | 
 common in days of Prince’s staff (66:5.5)
 Jesus learned to make (123:5.15)
 
-chemism. See chemistry
+chemism | | See chemistry | | 
 
-chemistry. See also elements (chemical)
+chemistry | | See also elements (chemical) | | 
 chemical behavior depends on atom’s electrons (42:7.6)
 chemism is same thing as light, heat, electricity, magnetism, energy, and matter (42:4.1-2)
 could not have predicted water molecule (12:9.3)
@@ -808,10 +808,10 @@ reactions occurring in blood stream (65:6.6)
 reactions of c. not modified by education (65:6.8)
 truth, beauty, and goodness not inherent in (195:6.11)
 
-Chemosh
+Chemosh | | | PERSONA | OK
 god of the Amorites (96:1.14)
 
-cherubim and sanobim (38:7-8secs). See also angels; fourth creatures (cherubim)
+cherubim and sanobim | (38:7-8) | See also angels; fourth creatures (cherubim) | ORDEN | 
 500 million pairs on Urantia in 1934 (114:0.1)
 celestial artisans teach efficient energy intake to (44:5.10)
 chief advised Melchizedek receivers after rebellion (67:6.5)
@@ -840,49 +840,49 @@ types
 	positive or aggressive and negative or retiring (84:6.5)
 	sanobim is left-hand deflector, negatively charged angel, complement of being (38:7.2) (44:5.10)
 
-Chicago
+Chicago | | | LUGAR | 
 city of this visitation (113:2.7)
 utility bill for sunshine (58:2.1)
 
-chickens. See also poultry
+chickens | | See also poultry | | 
 shell of no worth after chick is born (48:6.32)
 
-chief of Mystery Monitors
+chief of Mystery Monitors | | | PERSONA | OK
 Master Spirit #1 is adviser to (16:3.2)
 
-chief of Nebadon archangels
+chief of Nebadon archangels | | | PERSONA | OK
 considered technique for restoration of Jesus (189:0.1)
 wrote Papers 33, 35 (33:8.7) (35:10.6)
 
-chief of Nebadon Voices
+chief of Nebadon Voices | | | PERSONA | OK
 primary seconaphim; reflects Michael to Ancients of Days (28:4.6-7)
 
-chief of Urantia cherubim
+chief of Urantia cherubim | | | PERSONA | OK
 advised Melchizedek receivers after rebellion 67:6.5
 
-chief of Urantia seraphim
+chief of Urantia seraphim | | | PERSONA | OK
 advised Melchizedek receivers after rebellion (67:6.5)
 conscious of reflective transference (28:4.11)
 periodically rotated; current chief is primary supernaphim (27:0.2)
 wrote Papers 82–84, 113, 114 (82:6.12) (83:8.10) (84:8.7) (113:7.9) (114:7.18)
 
-chief priests. See Sanhedrin
+chief priests | | See Sanhedrin | | 
 
-chief recorders
+chief recorders | | | | 
 tertiary supernaphim of Havona (26:3.5)
 
-chief seat
+chief seat | | | | 
 sit not in (167:1.5) ((179:1.3-5))
 
-chief supernaphim
+chief supernaphim | | | PERSONA | OK
 original pattern angel of Paradise (27:2.1)
 
-chiefs of assignment (27:2sec). See also supernaphim
+chiefs of assignment | (27:2) | See also supernaphim | ORDEN | 
 periodically disperse worshippers on Paradise (27:7.3)
 primary supernaphim (26:8.5) (27:0.2-9) (27:2.1)
 remand defeated pilgrims to superuniverses (26:8.5) (26:10.4)
 
-child-rearing. See also children; discipline; family; home; marriage; parents
+child-rearing | | See also children; discipline; family; home; marriage; parents | | 
 children
 	best if close in ages (55:3.10)
 	discipline favorable; love restrains unwise acts (66:7.5) (127:4.3) (142:2.4) (142:7.9) (143:1.4) (177:2.7) (188:4.10)
@@ -936,7 +936,7 @@ warnings
 	suicidal to shift responsibility to state or church (84:7.27)
 	do not force ready-made adult religious experience on child (100:1.3)
 
-childbirth. See also abortion; weaning
+childbirth | | See also abortion; weaning | | 
 believed to render woman dangerous, unclean (84:4.6)
 child in existence 9 months before it experiences birth (103:2.1)
 comparatively easy among unmixed tribes (76:4.2) (84:4.7)
@@ -944,7 +944,7 @@ mother forgets anguish in joy of (180:6.7)
 not painful to Fonta (63:4.2)
 purification ordinances (122:9.1) (122:10.2)
 
-children. See also child-rearing; family; home
+children | | See also child-rearing; family; home | | 
 20 was age of choice for children of Adam (75:6.3)
 Adjusterless c. reckoned still attached to parents (49:6.12)
 affectionate parents never called upon to forgive (174:1.2)
@@ -1003,13 +1003,13 @@ whoso receives c. receives Jesus (158:8.1)
 whosoever causes c. to stumble, better cast into sea (158:8.1)
 women naturally love babies more than men (69:3.2)
 
-chimpanzees (62:5.2). See also simians
+chimpanzees | (62:5.2) | See also simians | | 
 retarded mid-mammals were ancestors of (62:3.12)
 
-Ch’in Shih Huang Ti
+Ch’in Shih Huang Ti | | | PERSONA | OK
 combated Confucianism (94:6.11)
 
-China. See also Chinese; Honan; Kansu; Shensi; Ti Tao; Yangtze; yellow race; Yellow River
+China | | See also Chinese; Honan; Kansu; Shensi; Ti Tao; Yangtze; yellow race; Yellow River | LUGAR | 
 40,000 year old culture (79:8.16)
 Andites drove inferiors into southern C. (79:2.4)
 Andites entered (78:5.5-6) (79:1.1) (79:6.5) (79:7sec)
@@ -1034,10 +1034,10 @@ regrettable no Peter or Paul went into (130:2.3) (130:3.3)
 religious awakening of 600 B.C. (79:8.15)
 Salem missionaries in (93:7.2) (94:5sec)
 
-China Seas
+China Seas | | | LUGAR | 
 Buddhist missionaries braved dangers of (94:9.2)
 
-Chinese (79:5sec). See also China; yellow race
+Chinese | (79:5) | See also China; yellow race | RAZA | 
 live peaceably with fellows (64:6.14,16) (79:5.5) (79:6.8) (79:8.6)
 achieved high civilization apart from Andites (79:5.8)
 Andite cultural and spiritual legacy (79:7.4-5)
@@ -1070,18 +1070,18 @@ treated women better than most (84:5.6)
 unexcelled in family loyalty, group ethics, personal morality (79:8.9,16) (84:7.1)
 yin and yang teaching (111:0.4)
 
-chlorine (57:8.3)
+chlorine | (57:8.3) | | | 
 
-chlorophyll making
+chlorophyll making | | | | 
 most important step in plant evolution (65:6.3)
 
-choice. See free will
+choice | | See free will | | 
 
-Chorazin (138:9.3) (152:7.3)
+Chorazin | (138:9.3) (152:7.3) | | LUGAR | 
 general rejection of gospel at (146:4.6) (155:2sec)
 woe upon light-rejecting inhabitants of (163:6.5)
 
-chosen people
+chosen people | | | | 
 doctrine
 	Amos, Hosea attacked egoistic doctrine (97:4.2-6)
 	danger of institutional religion (99:6.3)
@@ -1097,13 +1097,13 @@ no such thing as (134:5.4)
 obedience to God was Moses’ condition of being (96:5.6)
 Samuel said Yahweh chiefly occupied with (97:1.7)
 
-Christ. See also Jesus; Michael of Nebadon
+Christ | | See also Jesus; Michael of Nebadon | PERSONA | OK
 divine Jesus became a religion (196:2.4)
 do not sacrifice human Jesus to concept of glorified Christ (196:1.2) (196:2.5)
 Michael of Nebadon referred to as Christ Michael (0:5.3) (20:4.4) (21:0.3) (21:6.4) (27:0.2) (30:4.11) (33:1.1) (33:2.3) (37:2.6) (37:5.1) (40:6.5) (40:7.2) (45:4.1) (50:6.5) (51:3.9) (52:5.5) (52:6.1) (53:0.2) (53:5.3) (75:2.2) (77:6.6) (77:7.5) (83:8.3) (92:4.8) (93:9.11) (93:10.5-8) (94:6.1) (98:7.2) (101:6.5) (102:3.14) (119:8.8-9) (120:0.9) (120:4.2-3) (121:1.1) (121:3.1) (136:5.4) (196:1.1)
 the anointed one (98:7.2)
 
-Christian church, early. See also Christianity; Roman Catholic Church
+Christian church, early | | See also Christianity; Roman Catholic Church | RELIGION | 
 3 paramount factors in rapid spread; reasons for triumph (132:0.5-8) (195:0.5-18) (195:1.2-4)
 Abner represented Babylonian view (166:5.2,4) (171:1.6)
 Abnerian church was centered at Philadelphia; lost in Islamic movement (171:1.6) (195:1.11)
@@ -1182,7 +1182,7 @@ Trinity concept (104:1.11-13) (161:1.6) (194:4.9)
 ultra-pacific (98:6.4)
 under Roman Empire (195:3sec)
 
-Christianity. See also Christian church, early; churches; fellowship of believers; religion; Roman Catholic Church
+Christianity | | See also Christian church, early; churches; fellowship of believers; religion; Roman Catholic Church | RELIGION | 
 church hibernated in European dark ages (195:4sec)
 church is larval stage of thwarted spiritual kingdom (170:5.21)
 futile to talk about revival of primitive C. (195:10.1)
@@ -1235,22 +1235,22 @@ weaknesses
 	teachings about women (149:2.9) (167:6.4)
 well adapted to mores of white races (94:4.1,10) (98:7.11)
 
-Christmas
+Christmas | | | | 
 Christians celebrate on festival day of Mithras (98:5.4)
 people revel in Christmas gifts (69:5.13)
 tree perpetuates ancient custom of tree worship (85:2.5)
 
-chromosomes. See also life: biological
+chromosomess | | See also life: biological | | 
 24 pattern units; 48 human trait determiners (36:2.11,16)
 of Prince’s staff reorganized by life circuits (77:2.2,5)
 
-chronoldeks See also frandalanks; Master Physical Controllers
+chronoldeks | | See also frandalanks; Master Physical Controllers | ORDEN | 
 frandalanks who also measure time (29:4.37)
 in Uversa personality register (30:2.107)
 system time broadcast by (46:1.2)
 type of Master Physical Controller (29:4.11)
 
-churches. See also Christian church, early; Christianity; fellowship of believers; Roman Catholic Church; temples; worship
+churches | | See also Christian church, early; Christianity; fellowship of believers; Roman Catholic Church; temples; worship | RELIGION | 
 authority derived from invocation of sacred books (88:2.10)
 avoid union of church and state (70:1.14) (70:12.6) (71:8.4) (72:3.6) (178:1.9)
 church buildings
@@ -1261,15 +1261,15 @@ primitive man’s response to illusory ghost environment (86:6.1)
 secret societies evolved into (70:7.19)
 true church is Jesus brotherhood; invisible, spiritual, characterized by unity, not uniformity (195:10.11)
 
-Chuza
+Chuza | | | PERSONA | OK
 steward of Herod Antipas, husband of Joanna (150:1.1) (154:0.2)
 
-Cicero (195:2.6)
+Cicero | (195:2.6) | | PERSONA | OK
 Famous roman writer
 
-Cincinnati Island (59:4.8)
+Cincinnati Island | (59:4.8) | | LUGAR | 
 
-circles
+circles | | | | 
 concentric. See concentric circles, three
 nonnative residential areas on Jerusem (46:4.2) (46:5sec)
 	of ascending mortals (46:5.27)
@@ -1284,14 +1284,14 @@ nonnative residential areas on Jerusem (continued)
 	walls of crystal gems (46:5.11)
 psychic circles. q.v.
 
-circuit regulators
+circuit regulators | | | ORDEN | 
 in Uversa personality register (30:2.109)
 millions required to energize mansion worlds (48:2.13)
 Morontia Power Supervisors; dynamos who transform everywhere energies of space (48:2.13-14)
 
-Circuit Supervisors. See Universe Circuit Supervisors
+Circuit Supervisors | | See Universe Circuit Supervisors | ORDEN | 
 
-circuits (34:4sec)
+circuits | (34:4) | | | 
 all lead back to God on Paradise (11:1.4)
 angels sustained by direct intake of spirit circuits (26:1.17)
 energy circuits. See energy: circuits
@@ -1311,7 +1311,7 @@ reflectivity independent of all subabsolute c. (17:3.10)
 seem automatic, but subject to intelligent supervision (23:1.1)
 superuniverse. See superuniverses, the seven: circuits
 
-circumcision
+circumcision | | | | 
 Abraham underwent c. to solemnize commitment (93:6.6)
 arose as partial human sacrifice (89:8.2) (92:1.1)
 initiation rite into secret fraternities (70:7.10)
@@ -1320,9 +1320,9 @@ John the Baptist circumcised (122:2.7)
 most Salem believers practiced (93:6.6)
 practiced by shamans (90:2.10)
 
-circumspection. See propriety
+circumspection | | See propriety | | 
 
-circumstances. See also environment; handicaps; providence
+circumstances | | See also environment; handicaps; providence | | 
 all things work together for good (4:1.4,11) (10:7.5-6) (48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
 divine dispensation working with children of God (140:8.3)
 Jesus
@@ -1331,10 +1331,10 @@ Jesus
 seraphim manipulate c. to influence human activity (113:3.5) (113:4.4) (114:6.18)
 souls seeking God with whole heart delivered from evil (130:1.2)
 
-citadel of the spirit
+citadel of the spirit | | | | 
 unassailable inner bastion (100:2.7)
 
-cities
+cities | | | | 
 cannot withstand siege unless united (153:4.3)
 culture thrives best in c.; multiply power for good or evil (68:6.5)
 he who rules self greater than he who captures city (143:2.3)
@@ -1352,24 +1352,24 @@ managed as commercial associations in advanced states (71:3.11)
 no power to tax or incur debt in continental nation (72:7.3)
 whose builder is God (178:3.4)
 
-citizenship See also cosmic citizenship
+citizenship | | See also cosmic citizenship | | 
 solemn consecration of Roman youths (98:3.4)
 
-citizenship registrars
+citizenship registrars | | | ORDEN | 
 of Jerusem assign suffrage qualifications (45:7.7)
 
-citron
+citron | | | | 
 forbidden fruit (162:4.4)
 
-City of David. See Bethlehem
+City of David | | See Bethlehem | LUGAR | 
 
-City of Judah
+City of Judah | | | LUGAR | 
 small village 4 miles west of Jerusalem; home of Elizabeth and Zacharias (122:2.6-7) (135:0.2)
 
-civil servants
+civil servants | | | | 
 if unbelievers qualify as superior c.s. (178:1.13)
 
-civilization. See also evolution: social evolution; government; social classes; standards of living
+civilization | | See also evolution: social evolution; government; social classes; standards of living | | 
 Adamic infusion accelerated (81:0.2)
 concerned with self-perpetuation, self-maintenance, and self-gratification (68:2.3)
 dangers
@@ -1502,9 +1502,9 @@ status determined by equity of courts (70:11.14)
 sum of man’s adjustment to life (68:5.1)
 unstable; not biologically innate (16:9.4-5) (68:0.2)
 
-clams (59:2.12)
+clams | (59:2.12) | | | 
 
-clans (70:4sec). See also tribes
+clans | (70:4) | See also tribes | | 
 Andonites’ loyalties limited to (63:4.3)
 blood-tie groups with common interests (70:3.3) (70:4.2-8) (70:5.2) (70:7.1)
 delayed growth of strong nations (70:4.10)
@@ -1517,42 +1517,42 @@ reappeared in dark ages (71:1.24)
 solidified by fear, hatred of foreign groups (50:5.5)
 territorial state had bitter struggle with (71:1.23) (134:5.8)
 
-classes, social. See social classes
+classes, social | | See social classes | | 
 
-Claudia Procula
+Claudia Procula | | | PERSONA | OK
 wife of Pontius Pilate; became prominently identified with gospel (185:1.7) (185:2.6)
 asked Pilate not to arrest Jesus (183:2.3)
 message to Pilate regarding Jesus (185:5.7-8)
 
-Claudius
+Claudius | | | PERSONA | OK
 Roman slaveholder with whom Jesus talked (132:4.5)
 
-Claudus
+Claudus | | | PERSONA | OK
 discouraged young man to whom Jesus spoke (130:8.1)
 
-claws
+claws | | | | 
 magical charms concocted from (88:5.2)
 
-clay (60:3.5)
+clay | (60:3.5) | | | 
 belief man created from (74:8.4,7)
 early people wrote on (66:5.9)
 Jesus put c. on Josiah’s eyes (164:3.8)
 sculpture of c. adorned Dalamatia (66:5.26)
 Sumerian c. tablets telling of Dilmun (77:4.8)
 
-cleansing the temple (173:1sec)
+cleansing the temple | (173:1) | | | 
 
-Clement
+Clement | | | PERSONA | OK
 taught by Pantaenus (195:3.10)
 
-Cleopas of Emmaus
+Cleopas of Emmaus | | | PERSONA | OK
 at Jesus’ 7th appearance (190:5sec)
 
-cleverness
+cleverness | | | | 
 do not coerce men into kingdom with (159:3.2)
 no substitute for character (48:7.3)
 
-climate. See also drought
+climate | | See also drought | | 
 attribute of troposphere (58:2.6)
 changes in c. changed civilization (78:8.11) (80:1.4) (80:2.1) (80:3.8) (80:9.6)
 chief factors causing fluctuations are land elevation, cosmic clouds, and oceans (57:8.22)
@@ -1560,40 +1560,40 @@ decisive factor in early civilization (81:1.1-5) (81:6.3-4)
 harsh continental weather in Permian (59:6sec) (60:0.1)
 parable of discerning the weather (157:2.1)
 
-Cloa
+Cloa | | | PERSONA | OK
 Mary mother of Jesus a descendant of (122:1.2)
 
-cloak
+cloak | | | | 
 Jesus wore (187:2.8)
 offer c. when coat taken (159:5.11)
 
-clock
+clock | | | | 
 most reliable c. is radium (57:7.3)
 
-Clopas
+Clopas | | | PERSONA | OK
 husband of Mary, sister of Jesus’ mother (187:3.2)
 
-close calls
+close calls | | | | 
 Andon and Fonta nearly lost their lives (62:5.6)
 narrow margins by which ancestors missed extinction (62:3.9)
 
-clothing
+clothing | | | | 
 70 evangelists sent out without extra (163:1.3)
 Andon and Fonta wore skins (63:2.5)
 Caligastia 100 taught treating skins, weaving (66:5.2)
 Jesus’ c. divided by soldiers before crucifixion (187:2.2,8-9)
 unshrunk cloth not sewed on old garment (147:7.2)
 
-clouds
+clouds | | | | 
 cosmic c. affect climate (57:8.22)
 feared and worshiped by primitive tribes (85:4.3)
 Neanderthalers deathly afraid of (64:4.12)
 
-clubs
+clubs | | | | 
 Jesus was member of young men’s (124:1.13) (127:3.9)
 primitive. See secret societies
 
-co-operation. See also groups; leadership
+co-operation | | See also groups; leadership | | 
 ability to effectively co-operate learned on Edentia (43:8.4-11)
 civilization dependent on enthusiastic and effective load-pulling spirit (81:6.34-37)
 few are the duties for the lone servant (28:5.14)
@@ -1609,18 +1609,18 @@ Prince’s staff taught teamwork (66:7.6)
 teamwork depends on leadership (81:6.37)
 teamwork is one of most important lessons (28:5.14)
 
-Co-ordinate Creator Sons. See Creator Sons
+Co-ordinate Creator Sons | | See Creator Sons | ORDEN | 
 
-Co-ordinate Ministering Daughters. See local universe Mother Spirits
+Co-ordinate Ministering Daughters | | See local universe Mother Spirits | ORDEN | 
 
-Co-ordinate Trinity-origin Beings. See Trinity-origin beings
+Co-ordinate Trinity-origin Beings | | See Trinity-origin beings | ORDEN | 
 
-co-ordinators and liaison directors
+co-ordinators and liaison directors | | | ORDEN | 
 Morontia Companions; instructors of social conduct (48:3.11)
 
-coabsolute level. See reality: levels of reality: coabsolute reality
+coabsolute level | | See reality: levels of reality: coabsolute reality | | 
 
-coal (59:5sec)
+coal | (59:5) | | | 
 beds often hold gas and oil (59:5.16)
 deposition (60:2.7) (60:3.9) (61:2.3)
 	between glacial layers (59:6.6)
@@ -1630,92 +1630,92 @@ layers alternate with shale, stone, and conglomerate (59:5.15)
 some coal-bearing strata are 18,000 feet thick (59:5.15)
 water-preserved, pressure-modified remains of rank swamp vegetation (59:5.14-17)
 
-coat
+coat | | | | 
 when c. taken, offer cloak (159:5.11)
+ 
+cock | | See poultry | | 
 
-cock. See poultry
+cockroaches | (59:5.7) | | | 
 
-cockroaches (59:5.7)
-
-cocoa
+cocoa | | | | 
 among earliest pharmaceutical discoveries (90:4.8)
 
-coercion (87:6sec). See also compulsion
+coercion | (87:6) | See also compulsion| | 
 domination of Spirit never tainted by (34:6.11)
 place in evolution of religious observances (90:0.1)
 ritual merges with avoidance, exorcism, propitiation (89:0.2)
 
-coinage
+coinage | | | | 
 right of c. carried right to tax (174:2.5)
 
-coins. See also denarii; pounds; shekels; talents; ten-cent piece
+coins | | See also denarii; pounds; shekels; talents; ten-cent piece | | 
 superstitious persons make holes in (85:1.4)
 
-cold. See also heat; temperature
+cold | | See also heat; temperature | | 
 of open lands stimulates invention and resourcefulness (64:1.3)
 organizes ultimatons into electrons; gravity prevents absolute zero (15:8.10) (42:4.5-9)
 
-collapse
+collapse | | | | 
 universal c. would occur should God retire as upholder (4:1.6)
 
-college of ethics, law, and Supremacy
+college of ethics, law, and Supremacy | | | | 
 Paradise training school for Technical Advisers (25:4.14)
 
-College of High Ethics
+College of High Ethics | | | | 
 highest course in universe administration (35:3.22)
 
-college of life planning
+college of life planning | | | | 
 on Life Carrier world #1 (36:2.10)
 
-college of revealed religion. See Caligastia one hundred
+college of revealed religion | | See Caligastia one hundred | | 
 
-college of self-evaluation
+college of self-evaluation | | | | 
 Melchizedek training school on Jerusem (45:7.3)
 
-College of Wisdom
+College of Wisdom | | | | 
 on Salvington (20:8.3)
 
-collisions
+collisions | | | | 
 none of space bodies in established circuits (15:5.12) (15:8.6)
 of dead giants produce rarest form of energy (15:8.6)
 of space bodies rare (57:6.4)
 
-colonization
+colonization | | | | 
 first-born sons exiled instead of sacrificed (89:7.3)
 
-color workers
+color workers | | | | 
 heavenly reproducers, celestial artisans (44:2.4)
 
-Colorado (60:2.5) (60:4.4) (61:2.4)
+Colorado (60:2.5) (60:4.4) (61:2.4) | | LUGAR | 
 
-Colorado River (58:7.5)
+Colorado River (58:7.5) | | LUGAR | 
 
-colored races. See races
+colored races | | See races | RAZA | 
 
-colors
+colors | | | | 
 7 in natural spectrum (42:9.3)
 celestial musicians make symphonies of color (44:1.6)
 
-coma
+coma | | | | 
 ancients believed soul left body during (86:5.4-8)
 Jairus’s daughter in (152:1.2)
 people often entombed when merely in (167:4.3)
 widow’s son at Nain was in (146:6.2-3)
 
-combined controllers
+combined controllers | | | ORDEN | 
 highly mechanical Morontia Power Supervisors; 1 is stationed on each morontia world (48:2.19)
 in Uversa personality register (30:2.112)
 
-comets. See also meteors; space bodies
+comets | | See also meteors; space bodies | | 
 became fetishes (88:1.1)
 being brought under control by mother sun (15:6.13)
 c. and meteors comprise enormous amounts of matter (15:6.12)
 some consist of meteor swarms (49:3.2)
 tail pointing away proves reality of light (15:6.13)
 
-Comforter. See Spirit of Truth
+Comforter | | See Spirit of Truth | PERSONA | OK
 
-commandments (110:3.6-10). See also golden rule
+commandments | (110:3.6-10) | See also golden rule | | 
 2 great (131:2.13) (131:10.2) (142:3.22) (163:4.8) (174:4sec)
 5 of Gautama (94:8.9-14)
 7 of Dalamatia and Eden were taboos (66:7.8-16) (89:1.4)
@@ -1734,9 +1734,9 @@ Sanhedrists deserted c. in favor of oral traditions (153:3.3-7)
 sovereignty of free will in choosing eternal life (5:6.8,12)
 the new commandment (180:1sec) (181:2.4)
 
-commendation. See praise
+commendation | | See praise | | 
 
-commerce. See also industry
+commerce | | See also industry | | 
 active in Mediterranean in 2500 B.C. (80:9.9)
 appeared ca. 8000 B.C. with appearance of traders (79:1.3-4)
 barter followed seizure by raids (69:4.1)
@@ -1754,12 +1754,12 @@ most potent influence in spread of civilization (69:4.8) (79:3.8) (81:3sec)
 trade, manufacturing, and banking taught by Prince’s staff (66:5.11-12)
 women were first traders (69:3.11)
 
-commission on industry and trade. See Caligastia one hundred
+commission on industry and trade | | See Caligastia one hundred | | 
 
-common sense
+common sense | | | | 
 all Jesus’ plans characterized by (100:7.3)
 
-communication. See also broadcasts (celestial); gravity: types: mind gravity; language; writing
+communication | | See also broadcasts (celestial); gravity:types:mind gravity; language; writing | | 
 Adjusters facilitate higher forms of (109:4.1-3)
 basis of civilization; makes knowledge and wisdom cumulative (81:6.23,25) (160:2.3)
 broadcasters of superior seraphim use ideographic technique; simultaneously transmit 144,000 messages (39:2.15)
@@ -1773,11 +1773,11 @@ personal messengers sometimes required (39:2.17)
 physical controllers adjust energies essential for (29:4.14)
 studied in Melchizedek University (35:3.20)
 
-communion (mass). See Remembrance Supper
+communion (mass) | | See Remembrance Supper | | 
 
-communion (spiritual). See spiritual communion
+communion (spiritual) | | See spiritual communion | | 
 
-communism. See also government; materialism; secularism; socialism
+communism | | See also government; materialism; secularism; socialism | | 
 co-operation better than primitive methods of (81:6.33)
 destroyed by progressive, successful individuals (69:9.6)
 discarded formula; do not experiment with (69:9.18)
@@ -1788,17 +1788,17 @@ struggle between nationalistic militarism, industrialism (70:2.11)
 suicidal to shift child-rearing responsibility to state (84:7.27)
 suicidal weakness that improvident lived off thrifty (69:9.5-6)
 
-comparisons
+comparisons | | | | 
 distances between nucleus, electrons vs. orbit of Mercury (42:7.2)
 mass and size of electrons and protons vs. earth and earth’s orbit around sun (42:6.8)
 stars in space vs. oranges (41:3.2)
 weight of cubic inch of dense star on Urantia (41:3.6)
 
-compass. See also direction
+compass | | See also direction | | 
 4 points inherent (34:4.13)
 responsive to solar influence (58:2.9)
 
-compensations
+compensations | | | | 
 Adjusters equalize tension of man’s removal from God (107:0.5)
 enhanced careers of ascenders in rebellion (50:7.1) (54:6.5)
 Father personally present in Paradise and Havona, but does not indwell minds of their residents (32:3.4)
@@ -1818,7 +1818,7 @@ experience (117:5.14)
 those starting farthest from God have greatest ascent (116:4.11)
 universe unfailingly applies equalizing techniques (55:2.12)
 
-competition. See also capital; private property; profit
+competition | | See also capital; private property; profit | | 
 angels make effective use of c. to inspire service (28:5.18)
 based on narrow self-interest ultimately destroys what it seeks to maintain (71:6.1)
 co-operation more efficient in advanced civilizations (71:5.3)
@@ -1831,7 +1831,7 @@ restrictions must not abrogate individual liberties (71:5.4)
 time and circumstance select the fitter for survival (68:4.7)
 wholesome rivalry to enter schools of Planetary Princes (50:4.9)
 
-complaining
+complaining | | | | 
 accept challenges without (48:6.35)
 after Michael’s incarnation, no c. by Material Sons (119:4.4)
 elders complained about Jesus to Joseph and Mary (124:1.4)
@@ -1844,34 +1844,34 @@ over petty harassments and fictitious grievances (188:5.10)
 prayer turns c. into patience (91:6.2)
 to suffer evil without c. is insufficient (159:5.11)
 
-complement of being
+complement of being | | | | 
 angel of opposite type (38:4.3)
 sanobim is complement to cherubim (38:7.2)
 seraphic recorder of guardian angel pair (113:2.9)
 
-complemental relationships
+complemental relationships | | | | 
 Creator Sons and local universe Mother Spirits (17:6.4)
 experience is cosmic complement to perfection (32:3.12)
 of angels may be transient (26:1.16)
 spirit polarity (26:1.16)
 
-complements of rest
+complements of rest | | | ORDEN | 
 enter terminal rest of time with pilgrims (26:11.7)
 insure confraternity of creature-trinitized sons (26:11.3)
 secondary supernaphim on Havona’s inner circle (26:11sec)
 
-completion seraphim (39:9sec). See also Corps of Seraphic Completion; seraphim
+completion seraphim | (39:9) | See also Corps of Seraphic Completion; seraphim | | 
 achievement far transcends mortals attaining survival (40:1.2)
 minister to worlds in light and life (39:9.1-2)
 most desire service with Paradise bestowal Sons (39:9.3)
 often direct seraphic organizations (39:2.1,5)
 
-compossibility and omnipotence (118:5sec)
+compossibility and omnipotence | (118:5) | | | 
 
-compound manipulators
+compound manipulators | | | ORDEN | 
 energy manipulator celestial artisans; seek to discover presence of Supreme (44:5.5)
 
-compromise
+compromise | | | | 
 becoming adept in human temporal c. while yielding spiritual allegiance to one master (109:5.4)
 in socialization of religion (144:6.11)
 Jesus
@@ -1884,7 +1884,7 @@ Jesus
 of spiritual ideals harmful to soul (133:7.12)
 taking first step along path of (184:2.12)
 
-compulsion. See also might; pressure
+compulsion | | See also might; pressure | | 
 believer always acts but never coerces (94:6.6)
 chief factor in early civilization was force exerted by wise social masters (81:6.14)
 domination of Spirit never compromised by (34:6.11)
@@ -1894,21 +1894,21 @@ never promote righteous cause by force (16:7.8) (152:6.3) (159:3.2) (178:1.2-3,6
 pleasure-seeking weaklings subjugated by strong truth-loving elements (50:5.6)
 state has right to employ force (71:4.7-8) (72:6.4,6) (133:1.5) (133:4.12) (140:8.4) (178:1.2)
 
-concentration
+concentration | | | | 
 heathen concentrate their energies (155:1.3)
 Jesus mobilized all powers of mind, soul, and body on one task in hand (127:3.15)
 
-concentric circles, three
+concentric circles, three | | | | 
 banner of Michael (53:5.4)
 emblematic of infinity, eternity, universality of Trinity (93:3.3)
 material emblem of Trinity government (53:5.4) (93:2.5)
 Melchizedek wore on his chest (93:2.5) (104:1.3)
 triads grew up based on Melchizedek’s insignia (95:1.4)
 
-concept recorders
+concept recorders | | | | 
 thought recorders, celestial artisans (44:4.5)
 
-concepts. See also doctrines; ideas; theories
+concepts | | See also doctrines; ideas; theories | | 
 beyond the Supreme are more creature’s projection (115:3.4)
 means of logical thought within frame of postulates; all erroneous to greater or lesser degree (115:1.1-2)
 static c. retard science, politics, and religion (130:4.15)
@@ -1916,7 +1916,7 @@ truth wedded to fact (118:3.3)
 Urantia Papers give preference to highest human (0:12.11)
 without divergencies, mind cannot formulate c. (115:3.2)
 
-conciliating commissions (25:2-3secs). See also Universal Conciliators
+conciliating commissions | (25:2-3) | See also Universal Conciliators | | 
 available no matter how trivial the misunderstanding, provided it is honest (25:3.8)
 decisions
 	are final and unanimous; no appeal (25:2.12) (25:3.4)
@@ -1941,33 +1941,33 @@ quartets of Universal Conciliators (25:2.5-9)
 travel at seraphic velocity (23:3.2) (25:2.11)
 traveling courts for minor misunderstanding (37:8.6) (39:4.5)
 
-conciliation (ceremony)
+conciliation (ceremony) | | | | 
 place in evolution of religious observances (90:0.1)
 replaced rites of avoidance, placation, and exorcism (89:4.4)
 
-Conciliators, Universal. See Universal Conciliators
+Conciliators, Universal | | See Universal Conciliators | ORDEN | 
 
-conclaves
+conclaves | | | | 
 150,000 Master Sons on Paradise (21:0.5)
 on Paradise satellites of Spirit (17:1.9)
 on worlds of Havona (18:2.2)
 Paradise Sons forgather every millennium for (7:6.1)
 up to 1000 simultaneously in session on Salvington (37:2.2)
 
-concubinage. See also adultery
+concubinage | | See also adultery | | 
 concubines were frequently wife’s handmaidens (83:5.12)
 steppingstone to monogamy (83:5.12)
 
-condemnation. See blame
+condemnation | | See blame | | 
 
-conduct. See action
+conduct | | See action | | 
 
-conductors of worship (27:7sec)
+conductors of worship | (27:7) | | ORDEN | 
 improve ascenders’ technique of worship (27:7.4)
 primary supernaphim (27:0.4)
 unable fully to accommodate worship of ascenders (27:7.6-7)
 
-confession. See also amends; forgiveness; repentance; sin
+confession | | See also amends; forgiveness; repentance; sin | | 
 essential to spiritual progress; does not mitigate consequences of disloyalty (89:10.5)
 finding oneself in wrong, do not hesitate to make (131:9.3)
 has led nations to mighty efforts of reform (91:5.2)
@@ -1979,11 +1979,11 @@ repudiation of disloyalty (89:10.5)
 sins forgiven after (131:5.5) (156:2.7)
 words of Job (130:8.2)
 
-confidence. See self-confidence
+confidence | | See self-confidence | | 
 
-confiding. See sharing
+confiding | | See sharing | | 
 
-conflict. See also anxiety; confusion; contention; difficulties; fighting
+conflict | | See also anxiety; confusion; contention; difficulties; fighting | | 
 caused by disharmony between moral and intellectual self-consciousness (133:6.6)
 escape from present duty causes (130:1.2)
 forewarn all believers regarding fringe of (159:3.7)
@@ -1995,13 +1995,13 @@ persists only in refusal to espouse higher values (100:4.1)
 prayer prevents (100:6.4) (196:0.10)
 unresolved c. terminates in mind disruption (133:7.12)
 
-Confucianism (92:6.6). See also Confucius
+Confucianism | (92:6.6) | See also Confucius | RELIGION | 
 cf: Platonism (94:6.10)
 Ganid’s abstract of (131:9sec)
 precepts inimical to Chinese spirit of investigation (94:6.11)
 religion of ethics (5:4.7)
 
-Confucius (94:6.9-11). See also Confucianism
+Confucius | (94:6.9-11) | See also Confucianism | PERSONA | OK
 compiled wise sayings of ancient philosophers (94:6.9)
 deified by followers (94:6.12)
 God concept subordinated to Way of Heaven (94:6.10)
@@ -2010,7 +2010,7 @@ not a religious teacher (92:5.12)
 put morality in place of magic (94:6.9)
 writings are basis of Chinese moral fabric (94:6.11)
 
-confusion. See also anxiety; conflict; misadaptation
+confusion | | See also anxiety; conflict; misadaptation | | 
 alone, can never prevent survival (110:3.5)
 does not necessarily signify resistance to Adjuster (110:3.5)
 goes before growth as well as destruction (99:6.1)
@@ -2024,26 +2024,26 @@ never appears on Paradise (27:4.3)
 religious perplexities are inevitable (100:4.2)
 Spirit of Truth will always show the way (34:7.8)
 
-conglomerates
+conglomerates | | | | 
 coal layers alternate with (59:5.15)
 sedimentation from ancient shores (58:7.9) (59:1.10) (60:1.1)
 
-conifers (60:2.7)
+conifers (60:2.7) | | | 
 
-conjectures. See speculations
+conjectures | | See speculations | | 
 
-Conjoint Actor. See Infinite Spirit
+Conjoint Actor | |  See Infinite Spirit | PERSONA | OK
 
-Conjoint Creator. See Infinite Spirit
+Conjoint Creator | | See Infinite Spirit | PERSONA | OK
 
-conjurers
+conjurers | | | | 
 practitioners of black arts called (90:2.2)
 
-Connecticut (60:1.7)
+Connecticut | (60:1.7) | | LUGAR | 
 
-conquest. See military; victory; war
+conquest | | See military; victory; war | | 
 
-conscience. See also morality
+conscience | | See also morality | | 
 admonishes us to do right (110:5.1)
 criticism by one’s own value-habits, ideals (92:2.6) (100:1.5)
 hazardous to differentiate from Adjusters’ registry (110:5.5)
@@ -2054,7 +2054,7 @@ responds to emotional appeal (154:6.8)
 Salem teachers proclaimed c. as mandate of God (95:3.5)
 self-criticism essential to religious growth (100:1.5)
 
-consciousness (16:9sec). See also mind; mortal mind
+consciousness | (16:9) | See also mind; mortal mind | | 
 cannot be explained by electronic association (112:2.10)
 embraces awareness of personality actuality; ability to recognize other personalities; freewill (16:8.6) (16:9.4)
 freedom to choose only exists within realm of one’s (34:3.8)
@@ -2072,11 +2072,11 @@ self-consciousness
 Supreme is living way to transcendence of c. (117:3.3)
 trust Adjusters for all matters beyond dead level of c. (110:4.4)
 
-conscription. See also military
+conscription | | See also military | | 
 no relationship to world peace (134:5.6)
 none in peacetime in continental nation (72:11.3)
 
-consecration of choice (111:5sec). See also decisions; faith; goals; spiritual rebirth; submission
+consecration of choice | (111:5) | See also decisions; faith; goals; spiritual rebirth; submission | | 
 choice to be like God is superfinite (118:6.7)
 consecreated mortal is already a finaliter to God (118:1.10)
 creativity of inner life can be haphazard or constructive (111:4.9)
@@ -2121,32 +2121,32 @@ we are so devoid of courageous decisions, consecrated co-operation (110:4.5)
 with Father effected through Jesus (180:2.4)
 work at what one finds to do with all one’s might (133:8.3)
 
-consequences
+consequences | | | | 
 c. of our actions belong to God (48:7.13) (95:4.3) (117:5.5-6)
 
-consideration. See also tenderness; tolerance
+consideration | | See also tenderness; tolerance | | 
 for subordinates is a divine injunction (107:3.5)
 
-consolation. See sympathy
+consolation | | See sympathy | | 
 
-conspiracy
+conspiracy | | | | 
 of spiritual forces deliver us from material bondage (34:6.9)
 
-Constantine
+Constantine | | | PERSONA | OK
 Roman emperor; won to Christianity (195:0.10)
 
-Constellation Centers. See also Supreme Power Centers
+Constellation Centers | | See also Supreme Power Centers | ORDEN | 
 10 assigned to each constellation (29:2.17) (41:1.4) (43:8.1)
 energize certain living creatures (29:2.17)
 in Uversa personality register (30:2.97)
 Supreme Power Centers; project energy to systems for communication, transport, and life maintenance (29:2.17)
 
-Constellation Father of Norlatiadek. See Most Highs of Norlatiadek
+Constellation Father of Norlatiadek | | See Most Highs of Norlatiadek | PERSONA | OK
 
-Constellation Fathers. See also Most Highs
+Constellation Fathers | | See also Most Highs | ORDEN | 
 reigning Most High is Constellation Father (35:6.1)
 
-constellations (Paper 43). See also Edentia; Norlatiadek
+constellations | (43) | See also Edentia; Norlatiadek | LUGAR | 
 10 Constellation Centers stationed in each (29:2.17) (41:1.4)
 10 mechanical controllers and 10 frandalanks stationed on capitals of each (41:1.4)
 ascenders have 71 morontia bodies in course of (48:1.5)
@@ -2174,26 +2174,26 @@ time, distance measured as in local universe (33:6.8) (43:0.3)
 translated souls exempt from passing through (55:2.9-10)
 work of conciliating commissions on (25:3.8)
 
-consuls (universe)
+consuls (universe) | | | ORDEN | 
 appointed by legislatures; represent constellations (33:6.4)
 Vorondadeks serve as (35:5.5)
 
-Consummator of Universe Destiny (30:1.105)
+Consummator of Universe Destiny | (30:1.105) | | ORDEN | 
 destiny is consummated by (106:7.3)
 member of 2nd experiential Trinity (106:5.1)
 unrevealed member of Trinity Absolute (0:12.7)
 
-contact personalities. See also reservists; Urantia Papers: contact personality for
+contact personalities | | See also reservists; Urantia Papers:contact personality for | ORDEN | 
 midway creatures serve as efficient contacts to (77:7.5) (77:8.8)
 reservists conscious of preparation for possible function; number less than 20 (114:7.8)
 
-contempt
+contempt | | | | 
 Adam and Eve absolved from charges of standing in (75:7.2)
 bred by familiarity (82:5.6)
 only 3 System Sovereigns in Nebadon ever found in c. (53:0.2)
 Van indicted Daligastia, Caligastia, and Lucifer for c. (67:2.2)
 
-contention. See also arguments; conflict
+contention | | See also arguments; conflict | | 
 be expert in ironing out minor disagreements (178:1.7)
 conciliating commissions settle (25:3sec)
 division results when not all in family believe gospel (165:6.3)
@@ -2203,16 +2203,16 @@ let controversy come only when forced upon you (178:1.16)
 misunderstandings arise due to power of choice (25:3.7)
 Thomas unconsciously assumed disagreement (191:5.1)
 
-contentment. See happiness
+contentment | | See happiness | | 
 
-continence cult. See also castration; chastity; sex: urge; virgins
+continence cult | | See also castration; chastity; sex: urge; virgins | | 
 normal urges not in conflict with spiritual attainment (34:7.7)
 ritual among soldiers prior to battle (89:3.6)
 tolerated marriage as lesser evil than fornication (89:3.6)
 
-continental drift. See continents: drift
+continental drift | | See continents:drift | | 
 
-continental nation (Paper 72). See also neighboring planet
+continental nation | (72) | See also neighboring planet | | 
 ambassadorial relations with inferior peoples (72:12.2)
 blue, yellow, and violet races (72:1.1)
 court systems (72:2.9-17) (72:5.4) (72:8.3)
@@ -2235,7 +2235,7 @@ transition to representative government (72:1.4-5)
 unique topography; size of Australia (72:1.1-2)
 universal hostility of neighbors (72:1.3)
 
-continents
+continents | | | | 
 continental drift (58:4.3-4) (58:5sec) (59:1.7) (59:4.1)
 	began 750 million years ago (57:8.23-25)
 	continents tend to creep into oceans (58:5.7)
@@ -2245,46 +2245,46 @@ first continent (57:8sec)
 kept above water by weight of sea bottoms (58:5.6-8)
 million-year cycle of rise and fall of (60:4.1)
 
-control and overcontrol (118:8sec)
+control and overcontrol | (118:8) | | | 
 
-controversies. See arguments
+controversies | | See arguments | | 
 
-conversion. See spiritual rebirth
+conversion | | See spiritual rebirth | | 
 
-convictions. See belief
+convictions | | See belief | | 
 
-cooking
+cooking | | | | 
 Jesus cooked fish (192:1.8)
 Onagar’s missionaries first taught (63:6.7)
 Prince’s staff taught c. to avoid sickness (66:5.18)
 reduced energy necessary for digestion (69:6.7)
 
-copper
+copper | | | | 
 brought up in lava (58:7.6)
 cuttlefish oxygenate blood with (65:6.4)
 much results from water deposition (58:7.10)
 used when mixed with tin to make bronze (81:3.4-5)
 
-coral (58:7.2) (59:3sec) (59:4.6) (59:5.8) (60:2.8) (60:4.5)
+coral | (58:7.2) (59:3) (59:4.6) (59:5.8) (60:2.8) (60:4.5) | | | 
 lime-secreting algae were ancestry of (59:2.11)
 
-cords, knotted
+cords, knotted | | | | 
 early writing (69:4.7)
 
-Corinth (130:0.3)
+Corinth | (130:0.3) | | LUGAR | 
 2nd city in Greece, 3rd in empire (133:3.4) (133:4.13)
 capital of Roman province of Achaia (133:2.5)
 Jesus’ personal work in (133:3-4secs)
 land track between harbors (133:4.14)
 Peter visited (139:2.11)
 
-Cornelius
+Cornelius | | | PERSONA | OK
 Roman centurion; converted by Peter (130:2.5)
 
-cornerstone
+cornerstone | | | | 
 stone builders rejected was made into (173:4.4)
 
-corporeal staffs of Planetary Princes (50:3-4secs) (66:2-7secs). See also Caligastia one hundred; Planetary Princes
+corporeal staffs of Planetary Princes | (50:3-4) (66:2-7) | See also Caligastia one hundred; Planetary Princes | ORDEN | 
 connecting link with world races (50:3.1)
 exempt from most diseases; subject to certain accidents (50:3.3)
 immortality sustained by tree of life (73:6.4)
@@ -2298,22 +2298,22 @@ unfused citizens of system capitals (50:3.2)
 unfused morontia progressors; Adjusters detached during service (50:3.2,6) (66:4.9) (67:4.5)
 usually removed from planet upon arrival of Adam (50:3.4-6)
 
-corporeality error
+corporeality error | | | | 
 in materialism and pantheism (1:5.12)
 
-Corps of Conjoint Trinitized Finaliters. See also Paradise Corps of the Finality; Trinitized Sons of God
+Corps of Conjoint Trinitized Finaliters | | See also Paradise Corps of the Finality; Trinitized Sons of God | ORDEN | 
 1 Havona native may enter each company (31:1.5)
 1 of 7 finaliter corps; based on Vicegerington (31:1.5) (31:10.5)
 in Uversa personality register (30:2.135)
 
-Corps of Havona Finaliters. See also Havona natives; Paradise Corps of the Finality
+Corps of Havona Finaliters | | See also Havona natives; Paradise Corps of the Finality | ORDEN | 
 1 of 7 finaliter corps (31:1.5) (31:10.6)
 in Uversa personality register (30:2.136)
 
-Corps of Light and Life
+Corps of Light and Life | | | ORDEN | 
 finaliters’ temporary service in (31:3.2)
 
-Corps of Mortal Finaliters (Paper 31). See also finaliters; Paradise Corps of the Finality
+Corps of Mortal Finaliters | (31) | See also finaliters; Paradise Corps of the Finality | ORDEN | 
 1 of 7 finaliter corps (31:10.2)
 agondonters functionally grouped in (50:7.2)
 allegiance only to Trinity (31:0.12)
@@ -2355,7 +2355,7 @@ self-governing (31:0.12)
 the primary finaliter corps (31:0.1) (31:2.1)
 Trinity Teacher Sons intimately connected with (20:9.4-5)
 
-Corps of Paradise Finaliters. (17:1.7) See also Paradise Citizens; Paradise Corps of the Finality
+Corps of Paradise Finaliters | (17:1.7) | See also Paradise Citizens; Paradise Corps of the Finality | ORDEN | 
 1 of 7 finaliter corps (31:10.3)
 in Uversa personality register (30:2.133)
 agelong mobilization on Paradise (31:10.17)
@@ -2372,10 +2372,10 @@ includes (30:2.131)
 overseen by senior Architect of Master Universe (31:10.1)
 Supreme Council of Destiny comprised of heads of each finaliter corps (31:10.9)
 
-Corps of Perfection
+Corps of Perfection | | | ORDEN | 
 local universe corps; destiny of Spirit-fused ascenders (37:5.3-4)
 
-corps of permanent citizens (30:2.116-128) (37:9.12)
+corps of permanent citizens | (30:2.116-128) (37:9.12) | | ORDEN | 
 members
 	# midwayers of evolutionary planets (Paper 77)(37:9.11)(48:2sec)
 	# Material Sons of local systems (Paper 51) (37:9.9-10) (45:5sec)
@@ -2390,44 +2390,44 @@ members
 	# Paradise Citizens (19:7sec)
 	# Adjuster-fused mortal citizens of Paradise (47:2.8)
 
-Corps of Seraphic Completion (39:8.10) (39:9sec). See also completion seraphim; seraphim; Seraphington
+Corps of Seraphic Completion | (39:8.10) (39:9) | See also completion seraphim; seraphim; Seraphington | ORDEN | 
 achievement far transcends mortals attaining survival (40:1.2)
 members achieved Paradise, embrace of Eternal Son (39:1.5)
 Seraphington graduates enter (39:1.12) (113:7.5)
 
-Corps of the Finality. See Paradise Corps of the Finality
+Corps of the Finality | | See Paradise Corps of the Finality | ORDEN | 
 
-Corps of Transcendental Finaliters. See also Paradise Corps of the Finality; Transcendentalers
+Corps of Transcendental Finaliters | | See also Paradise Corps of the Finality; Transcendentalers | ORDEN | 
 1 Havona native may enter each company (31:1.5)
 1 of 7 finaliter corps (31:10.7)
 based on Paradise (31:1.5)
 in Uversa personality register (30:2.133)
 
-Corps of Trinitized Finaliters. See also creature-trinitized sons; Paradise Corps of the Finality
+Corps of Trinitized Finaliters | | See also creature-trinitized sons; Paradise Corps of the Finality | ORDEN | 
 1 of 7 finaliter corps (31:10.4)
 destiny of creature-trinitized beings and certain Paradise Citizens (22:8.6) (26:11.2)
 in Uversa personality register (30:2.134)
 
-Corps of Unrevealed Sons of Destiny. See also Paradise Corps of the Finality
+Corps of Unrevealed Sons of Destiny | | See also Paradise Corps of the Finality | ORDEN | 
 1 of 7 finaliter corps (31:10.8)
 in Uversa personality register (30:2.138)
 
-correctional rest. See also discipline
+correctional rest | | See also discipline | | 
 errant Melchizedeks receive c.r., purging disharmony (35:2.8)
 
-cosmic citizenship
+cosmic citizenship | | | | 
 believers experience (184:4.6)
 recognition of progressive obligation to Supreme (110:3.10)
 responsibility and morality of (39:4.9)
 
-cosmic cloud
+cosmic cloud | | | | 
 great space blanket; chiefly consists of pulverized stone (41:6.2)
 
-cosmic consciousness. See God: consciousness of God
+cosmic consciousness | | See God: consciousness of God | | 
 
-cosmic force. See absoluta
+cosmic force | | See absoluta | | 
 
-cosmic mind (116:1.3). See also mind
+cosmic mind | (116:1.3) | See also mind | | 
 defined as
 	infinite mind ministering in time (16:6.1) (56:2.3)
 	intellectual potential of grand universe (16:6.1)
@@ -2454,64 +2454,64 @@ sublime traits of divinity co-ordinated in (8:2.8)
 survivors seize encircuited morontia phase of (112:5.20) (112:6.4)
 validity attaches to unification of c.m. responses (16:9.1-2)
 
-cosmic reserve corps. See reserve corps of destiny
+cosmic reserve corps | | See reserve corps of destiny | | 
 
-cosmology
+cosmology | | | | 
 approach from divine destiny, not human origins (19:1.5-12)
 danger when youth neglect to interest themselves in (111:4.4)
 leads to pursuit of God-consciousness (56:10.8)
 of Urantia Papers not inspired; destined to be quickly outgrown; limited by revelators’ authorization (101:4.1-10)
 
-cosmos. See universe
+consumados | | See universe | | 
 
-cosmos absolute. See cosmos-infinite
+cosmos absolute | | See cosmos-infinite | | 
 
-cosmos-infinite
+cosmos-infinite | | | | 
 4th triunity contains energy potential for (104:4.26)
 illimitable cosmos on beyond the master universe (106:6.3)
 is limitless, never-beginning, never-ending existence (115:3.1)
 
-council of elders
+council of elders | | | | 
 first governmental body (70:5.2-3)
 powers gradually concentrated in absolute monarch (70:12.2)
 
-Council of Equilibrium
+Council of Equilibrium | | | PERSONA | OK
 comprised of Associate Master Force Organizers dispatched by Seven Master Spirits (29:4.2)
 dispatched Force Organizer to Andronover (29:4.2) (57:1.4)
 interprets registrations of master frandalanks (29:4.2)
 
-council of perfection
+council of perfection | | | ORDEN | 
 Universal Conciliators translate to c.o.p. on Paradise (25:3.16)
 
-council of Planetary Princes
+council of Planetary Princes | | | ORDEN | 
 System Sovereign presides over (45:2.4)
 
-council of seven
+council of seven | | | PERSONA | OK
 tribal government of red race (70:5.4)
 
-council of seventy
+council of seventy | | | PERSONA | OK
 constellation group analogous to 24 counselors (50:2.2)
 
-council on food and material welfare. See Caligastia one hundred
+council on food and material welfare | | See Caligastia one hundred | PERSONA | OK
 
-counsel. See adjutant mind-spirits: #5–counsel; advice
+counsel | | See adjutant mind-spirits: #5–counsel; advice | | 
 
-counseling the rich man (132:5sec)
+counseling the rich man | (132:5) | | | 
 
-counselors and advisers
+counselors and advisers | | | ORDEN | 
 liaison with Discerners of Spirits (28:5.19)
 secondary supernaphim of 2nd Havona circle (26:10sec)
 
-counterirritants
+counterirritants | | | | 
 ancients treated disease with (90:4.8)
 
-counterpart
+counterpart | | | | 
 allow Adjusters to show spiritual c. to material efforts (111:7.3)
 Teacher Sons show spiritual c. to material wisdom (20:9.2)
 
-counting the cost (171:2sec)
+counting the cost | (171:2) | | | 
 
-courage. See also adjutant mind-spirits: #3–courage; self-confidence
+courage | | See also adjutant mind-spirits: #3–courage; self-confidence | | 
 defined as
 	confidence of thoroughgoing honesty (146:3.2) (160:1.7-8)
 	facing facts of life (132:3.4) (133:4.11)
@@ -2526,29 +2526,29 @@ Jesus’ c. born of faith, not blind presumption (100:7.15)
 laying down life alone requires profound (143:1.6-7)
 sometimes leads to recklessness, presumption, self-pride (111:6.2) (149:4.4)
 
-court advisers
+court advisers| | | ORDEN | 
 supreme seraphim; serve as defenders of mortals (39:1.7-9)
 
-court of gentiles
+court of gentiles | | | | 
 in Jerusalem temple (121:2.5)
 sacrificial animals sold in; money-changers plied their trade (125:1.1,4) (162:4.3)
 
-court of Israel
+court of Israel | | | | 
 in Jerusalem temple (162:4.3)
 
-court of priests
+court of priests | | | | 
 in Jerusalem temple beneath rock ledge (125:1.4) (162:4.4)
 
-court of women
+court of women | | | | 
 in Jerusalem temple (125:0.4) (135:2.1) (150:1.3) (160:4.2-9)
 
-courtesans. See prostitution
+courtesans | | See prostitution | | 
 
-courtesy
+courtesy | | | | 
 Jesus enjoined c. toward all (163:4.14)
 originally, c. was attempt to deceive envious spirits (87:5.7)
 
-courtesy colonies (30:2.149-157) (30:3sec)
+courtesy colonies | (30:2.149-157) (30:3) | | LUGAR | 
 found from local systems to superuniverse headquarters (30:2.157) (37:10.4) (46:5.30-31)
 groups working in courtesy colonies (30:2.150-156)
 	ascending pilgrims (30:3.13)
@@ -2561,7 +2561,7 @@ groups working in courtesy colonies (30:2.150-156)
 of Uversa served by seconaphim (28:7.1)
 omniaphim on Uversa reside in (28:2.1)
 
-courts. See also judges; judgment; justice; law; lawyers
+courts | | See also judges; judgment; justice; law; lawyers | | 
 accord justice with fairness according to needs (133:4.7)
 celestial. See justice: divine justice
 continental and planetary (71:8.13)
@@ -2572,14 +2572,14 @@ Jews ordinarily provided every safeguard of fairness (184:3.4) (184:4.1) (184:5.
 money and influence should not control (132:4.8)
 status of civilization determined by equity of (70:11.14)
 
-courtship. See romance
+courtship | | See romance | | 
 
-covenants (89:8sec). See also oaths; promises
+covenants | (89:8) | See also oaths; promises | | 
 gods conceived as entering into real agreements with man (89:8.4)
 
-covetousness. See envy
+covetousness | | See envy | | 
 
-cowardice
+cowardice | | | | 
 Abraham exhibited c. three times (93:9.3)
 cowards
 	high thinking not achieved by moral cowards (101:7.2)
@@ -2588,21 +2588,21 @@ cowards
 discretion carried too far leads to (149:4.4)
 revenge is mask for (145:3.4)
 
-coyotes
+coyotes | | | | 
 Indian tribes believed they originated from (74:8.5)
 
-Crab nebula
+Crab nebula | | | LUGAR | 
 collapsed 900 years ago (41:8.4)
 
-crabs (59:1.18) (60:2.9). See also crustaceans
+crabs | (59:1.18) (60:2.9) | See also crustaceans | | 
 
-cradle
+cradle | | | | 
 hand that rocks c. fraternizes with destiny (84:6.4)
 
-craftworkers of color
+craftworkers of color | | | ORDEN | 
 designers and embellishers of celestial artisans (44:6.3)
 
-creation. See also reality: genesis of reality
+creation | | See also reality: genesis of reality | | 
 first Paradise record is personification of Infinite Spirit (25:6.6)
 first Paradise record is trinitization of Ancients of Days (18:3.4)
 genesis of reality (105:1.5) (105:2.2-4) (105:4.1) (105:5.1-6) (105:7.18)
@@ -2612,16 +2612,16 @@ of Havona (8:1.4-6)
 of Infinite Spirit (8:0.2-4) (9:0.1)
 of Urantia (Paper 57)
 
-creationism
+creationism | | | | 
 predicated upon belief in retrogression, vengeful Deity (74:8.13)
 
-Creative Daughters. See local universe Mother Spirits
+Creative Daughters | | See local universe Mother Spirits | ORDEN | 
 
-Creative Mother Spirits. See local universe Mother Spirits
+Creative Mother Spirits | | See local universe Mother Spirits | ORDEN | 
 
-Creative Spirits. See local universe Mother Spirits
+Creative Spirits | | See local universe Mother Spirits | ORDEN | 
 
-creativity
+creativity | | | | 
 can be haphazard or directed and constructive (111:4.9)
 can be turned to destructivity (111:4.11)
 diminished by matings between inferior strata (82:6.5)
@@ -2631,7 +2631,7 @@ reflective of antecedent creator-spirit activities (56:8.4)
 Reflective Spirits were created upon Master Spirits’ attainment of perfect synchrony with Trinity (17:2.2)
 will aspiring to be Godlike (130:2.10)
 
-Creator Sons (Paper 21) (7:6sec). See also Jesus; Master Michaels; Michael of Nebadon; Michael (the original); Paradise Sons of God
+Creator Sons | (21) (7:6) | See also Jesus; Master Michaels; Michael of Nebadon; Michael (the original); Paradise Sons of God | ORDEN | 
 100 Constellation Fathers are advisory cabinet of (35:6.2)
 almost infinite variety characterizes plans of (21:2.10) (32:3.3)
 almost unlimited healing powers (149:1.6)
@@ -2776,10 +2776,10 @@ Universal Father
 	gives life to C.S. without measure (153:2.7)
 what Father wills and C.S. desire IS (145:3.11) (149:1.7)
 
-creatorship
+creatorship | | | | 
 aggregate of God’s acting nature (3:0.3)
 
-creature-trinitized sons (22:8sec). See also trinitization; Trinitized Sons of God
+creature-trinitized sons | (22:8) | See also trinitization; Trinitized Sons of God | ORDEN | 
 all endowed with personality by Father (26:8.1)
 apprentices of Trinity Teacher Sons (20:8.2) (22:1.12) (22:8.2-4) (22:9.1) (55:4.17)
 come to worlds in light and life (55:4.17) (55:12.2)
@@ -2809,7 +2809,7 @@ speculations concerning destiny (23:4.4)
 supernaphim facilitate confraternity between (26:11.3)
 value to superuniverse governments (22:10.2-7) (26:2.2)
 
-creatures. See also mortals; personality
+creatures | | See also mortals; personality | | 
 70 major divisions of celestial c. (43:1.9)
 all contactable c. in spirit world are friendly (25:7.3) (47:4.2)
 all have potentially final destiny absolute in value (106:7.4)
@@ -2834,18 +2834,18 @@ related in 12 groups of 7 major divisions each (49:5.30)
 spirit personalities travel by liaison with spirit energy (46:2.4)
 successive ages redistribute personality groupings (13:2.5)
 
-creeds. See doctrines
+creeds | | See doctrines | | 
 
-cremation
+cremation | | | | 
 Danubians practiced (80:8.5)
 encouraged as means of combating cannibalism (89:5.14)
 once universal throughout Scandinavia (80:9.4)
 used to prevent ghost trouble (87:6.8)
 
-Cretaceous. See also geologic ages
+Cretaceous | | See also geologic ages | | 
 era of birds and flowering plants, from 100 to 50 million years ago (60:3-4secs)
 
-Crete (130:0.2)
+Crete | (130:0.2) | | LUGAR | 
 brilliant Andites migrated to C. in 12,000 B.C. (80:7.2,7,12)
 home of Jacob, Jewish trader (142:2.1)
 Jesus’ experience on (130:5-6secs)
@@ -2853,9 +2853,9 @@ Philistines were political refugees from (74:8.9)
 Thomas preached in (139:8.13)
 vogue of mother cult in (80:7.7) (80:8.5)
 
-crickets (59:5.7)
+crickets | (59:5.7) | | | 
 
-crime. See also criminals; justice
+crime | | See also criminals; justice | | 
 dealing with c. in continental nation (72:6.9) (72:10sec)
 of honor. See lynch law
 primitives
@@ -2866,20 +2866,20 @@ primitives
 	shamans specialized in detecting c. (90:2.1)
 severity of punishment less deterrent to c. than its certainty and swiftness (70:10.15)
 
-criminals. See also crime; justice; thieves
+criminals | | See also crime; justice; thieves | | 
 in continental nation
 	potential criminals sentenced to life (72:10.2)
 	segregated into self-supporting colonies (72:10.1)
 	serious habitual criminals sentenced to death (72:10.1)
 Jesus’ talk with the condemned c. in Corinth (133:4.12)
 
-crinoids (59:3.11) (60:2.8) (60:4.5). See also stone lilies
+crinoids | (59:3.11) (60:2.8) (60:4.5) | See also stone lilies | | 
 secreted lime (59:5.8)
 
-cripples
+cripples | | | | 
 regarded as fetishes (88:1.9)
 
-crisis. See also disaster
+crisis | | See also disaster | | 
 Adjuster empowered Amadon to be loyal in rebellion (67:3.7)
 apostles’ c. began with Capernaum sermon (153:1.4)
 future phase of kingdom might appear in c. (170:4.15)
@@ -2894,10 +2894,10 @@ seraphim do not intrude into human drama except in emergencies (113:5.4-5)
 spiritual attainment sometimes secured by (100:2.8)
 woman did not function in emergencies (84:3.3)
 
-Crispus
+Crispus | | | PERSONA | OK
 chief ruler of synagogue in Corinth; supported Paul (133:3.1-4)
 
-criticism. See also self-analysis
+criticism | | See also self-analysis | | 
 Caligastia sympathetic with those expressing (66:8.1)
 conscience is c. of oneself (100:1.5)
 depth of intellect not required to raise objections (102:7.6)
@@ -2907,7 +2907,7 @@ overcome habit of c. by praying for person every day (91:5.3-5)
 religion needs constructive (5:5.12) (99:3.7)
 truth does not resent honest c. (146:3.2)
 
-Cro-Magnons (80:3sec). See also blue race
+Cro-Magnons | (80:3) | See also blue race | RAZA | 
 Andites destroyed (80:5.3-6)
 Andites from Mesopotamia absorbed (80:3.9) (80:4.6)
 biologic foundation for modern European races (80:5.7)
@@ -2917,29 +2917,29 @@ destroyed tribal inferiors; later, enslaved for agriculture (80:3.9)
 interbreeding with slaves deteriorated (80:3.9)
 progressive superior blue men blended with Adamites (80:1.7)
 
-crocodiles (60:1.9) (60:3.20) (61:2.6) (61:3.14)
+crocodiles | (60:1.9) (60:3.20) (61:2.6) (61:3.14) | | | 
 reversion from land reptiles (60:2.11)
 
-cross. See also atonement doctrine; crucifixion; Jesus: death; Jesus: events in life: crucifixion
+cross | | See also atonement doctrine; crucifixion; Jesus: death; Jesus: events in life: crucifixion | | 
 center of Christianity (143:6.3)
 meaning of Jesus’ death on (188:4-5secs)
 physical description of Jesus’ (187:1.1-2) (187:2.1)
 Simon of Cyrene bore Jesus’ (187:1.9-10)
 symbol of triumph of love over hate, sacred service (188:5.6,9)
 
-crossbreeding. See also eugenics; hybridization
+crossbreeding | | See also eugenics; hybridization | | 
 present-day prejudice against (82:6.3)
 would be disastrous under present circumstances (51:5.7)
 
-crossing fingers. See fingers
+crossing fingers | | See fingers | | 
 
-crossroad
+crossroad | | | | 
 Spirit of Truth will speak at every (34:7.8)
 
-crown of thorns
+crown of thorns | | | | 
 placed on Jesus’ head (185:6.2,4)
 
-crucifixion (Paper 187). See also atonement doctrine; cross; Jesus: death; Jesus: events in life: crucifixion
+crucifixion | (187) | See also atonement doctrine; cross; Jesus: death; Jesus: events in life: crucifixion | | 
 cruel and lingering punishment (187:2.3) (187:5.8)
 illegal to show friendly feelings for victims (187:1.7)
 individuals crucified
@@ -2951,34 +2951,34 @@ individuals crucified
 no burial in Jewish cemetery for victim of (188:1.2)
 not Jewish mode of punishment (187:1.5)
 
-cruelty
+cruelty | | | | 
 doctrinal fetish betrays man into (88:2.7)
 Jesus denounced (140:8.21)
 still lurks in half-civilized man (184:4.5)
 when subjected to c., rest in citadel of spirit (100:2.7)
 
-crumbs
+crumbs | | | | 
 Lazarus desired to be fed with Dives’ (169:3.2)
 Norana said not to deprive dogs of (156:1.5)
 
-crusader
+crusader | | | | 
 spirit of c. more than dangerous if not controlled (100:6.5)
 
-crust (earth’s). See Urantia: physical aspects: geology
+crust (earth’s) | | See Urantia: physical aspects: geology | | 
 
-crustaceans. See also crabs; lobsters; shrimps
+crustaceans | | See also crabs; lobsters; shrimps | | 
 amphibians developed from arthropods (59:5.5)
 ancestors of fish (59:4.10)
 appearance (59:1.18) (59:4.3,10) (60:2.9) (65:2.5)
 trilobites were ancestors of (59:2.10)
 
-crystals
+crystals | | | | 
 buildings on Jerusem constructed wholly of (46:5.11,25,31)
 
-cult of taking no life
+cult of taking no life | | | | 
 arose in age of despair and hopelessness (94:2.5)
 
-cults. See also ceremonies; doctrines; mystery cults; religion; traditions
+cults | | See also ceremonies; doctrines; mystery cults; religion; traditions | | 
 assimilable only if compatible with current status (92:2.4)
 atheistic c. claim salvation by man’s unaided efforts (94:2.5)
 Christian c. most appealing, enduring ever conceived (87:7.4)
@@ -3010,20 +3010,20 @@ strengths
 	provide symbolism to preserve religious loyalties (87:7.1)
 	religion rarely survives without institutions, as private practice of isolated individuals (97:10.7) (98:6.1)
 
-culture. See civilization
+culture | | See civilization | | 
 
-cumin
+cumin | | | | 
 tithing while disregarding weightier matters (175:1.17)
 
-cup
+cup | | | | 
 be prepared to drink (171:0.5) (171:2.5)
 if Father’s will, Jesus would drink (136:9.4) (182:3.2-9)
 scrupulously cleansing outside while inside filthy (166:1.4) (175:1.18)
 
-cup of remembrance
+cup of remembrance | | | | 
 emblem of Spirit of Truth (179:5.1-3)
 
-curiosity
+curiosity | | | | 
 disappears after last Havona world (14:5.7)
 do not try to satisfy all (195:5.10)
 hunger for harmony, thirst for beauty (56:10.6)
@@ -3033,21 +3033,21 @@ mind reaches out to explore remote situations (42:12.4)
 there are no arbitrary secrets (19:5.11)
 urge of investigation and discovery (14:5.11)
 
-cursing (150:3.12)
+cursing | (150:3.12) | | | 
 coercive practice to overawe minor spirits (87:6.13)
 modern c. is continuation of primitive ritual (87:6.17)
 oaths consisted in pronouncing curses upon oneself (70:11.3)
 Peter denied Jesus with (184:2.6)
 prostitution of ritualistic repetition of holy names (90:5.3)
 
-curvature
+curvature | | | | 
 of all relation concepts (103:6.14)
 
-custodians (Lanonandek) (35:8.13)
+custodians (Lanonandek) | (35:8.13) | | | 
 
-custodians (Life Carrier) (36:1.3) (36:2.16)
+custodians (Life Carrier) | (36:1.3) (36:2.16) | | | 
 
-custodians of knowledge (27:5sec)
+custodians of knowledge | (27:5) | | ORDEN | 
 accessible to local universes only by reflectivity (27:5.5)
 final living summaries of network of recording angels (27:5.3)
 impossible for untruth to gain lodgment in (27:5.1)
@@ -3057,7 +3057,7 @@ responsible for organization of their information (27:5.5)
 seekers presented with beings who are what they seek (27:5.2-3)
 Voices of Wisdom in perpetual liaison with (28:5.7)
 
-Custodians of Records (25:5sec)
+Custodians of Records | (25:5) | | ORDEN | 
 chief recorders of tertiary supernaphim transmit to (26:3.5)
 chosen from tertiary supernaphim in Havona (25:5.1,3)
 in Uversa personality register (30:2.78)
@@ -3065,37 +3065,37 @@ keep formal archives of Paradise (25:5.1)
 none ever transferred from order (25:5.4)
 serve as Chiefs of Records for Celestial Recorders (25:5.4)
 
-customs. See traditions
+customs | | See traditions | | 
 
-Cuthites
+Cuthites | | | RAZA | 
 Sargon installed C. in northern Israel (143:4.1)
 
-Cutites
+Cutites | | | RAZA | 
 occupied Garden of Eden after default (73:7.1)
 
-cuttlefish (60:2.8)
+cuttlefish | (60:2.8) | | | 
 descendant of cephalopods (59:2.11)
 oxygenate blood with copper (65:6.4)
 
-Cybele
+Cybele | | | PERSONA | OK
 mother of Attis in Phrygian mystery cult (98:4.2-8) (98:5.5)
 
-Cymboyton (134:3.4)
+Cymboyton | (134:3.4) | | PERSONA | OK
 wealthy merchant of Urmia, built temple of religion (134:3.2)
 exercised unchallengeable authority at Urmia (134:4.10)
 never revealed personal beliefs (134:3.3)
 trouble at Urmia after death of (134:6.14)
 
-cynicism (attitude). See ridicule
+cynicism (attitude) | | See ridicule | | 
 
-Cynicism (religion). See also Cynics
+Cynicism (religion) | | See also Cynics | RELIGION | 
 belief in simplicity, virtue, meeting death fearlessly (121:4.4)
 best preserved Salem doctrines (98:0.2) (131:1.1)
 characterized by wandering preachers; traced to Diogenes (121:4.4,6)
 Ganid’s abstract of (131:1sec)
 occidental religion languished until days of (98:6.2)
 
-Cynics. See also Cynicism
+Cynics | | See also Cynicism | RELIGION | 
 Claudus became preacher of (130:8.1)
 exhorted Romans to abandon wild religious rituals (98:3.9)
 Jesus mistaken for priest of (133:2.1)
@@ -3104,14 +3104,14 @@ later incorporated into Christian religion (98:0.2)
 Mardus was leader in Rome (132:2.1)
 preachers of faith and trust in God (98:0.2)
 
-Cyprus (130:0.3)
+Cyprus | (130:0.3) | | LUGAR | 
 Andites settled 5000 B.C.; barbarians invaded 3000 B.C. (80:7.10)
 Jesus’ discourse on mind at (133:7sec)
 Thomas preached in (139:8.13)
 
-Cyrene (130:0.2)
+Cyrene | (130:0.2) | | LUGAR | 
 Jesus aided Rufus at (130:6.6)
 Simon, Rufus, and Alexander from (187:1.9-10)
 
-Cyrus
+Cyrus | | | PERSONA | OK
 tradition of put-away child saved by divine intervention (89:7.3)
