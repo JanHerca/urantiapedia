@@ -1,0 +1,263 @@
+Aunque esto no pretende ser un manual completo del formato de una página wiki, comprende la mayor parte de las cosas que deben ser tenidas en cuenta al editar contenido en esta wiki. Para una comprensión más exhaustiva de cómo editar una wiki creada con WikiMedia, por favor, consulta los enlaces más abajo.
+
+== Formato básico del texto ==
+
+{| class="wikitable"
+|Se muestra ||Se debe escribir
+|-
+|''Texto en cursiva'' || <nowiki>''Texto en cursiva''</nowiki>
+|-
+|'''Texto en negrita''' || <nowiki>'''Texto en negrita'''</nowiki>
+|-
+|'''''Texto en negrita y cursiva''''' || <nowiki>'''''Texto en negrita y cursiva'''''</nowiki>
+|}
+
+Las comillas a usar son simples (la tecla a la derecha de la tecla 0). Para introducir entrecomillados use las comillas angulares, españolas o guillemetes (« »). No es recomendable usar las comillas inglesas (" ") ni (“ ”). En Windows la forma para introducir las comillas angulares es la siguiente:
+* Para la comilla de apertura («) utiliza la tecla Alt, manteniéndola pulsada, y luego marca 174 en el teclado numérico, y suelta Alt. También puedes escribir &amp;laquo;.
+* Para la comilla de cierre (») utiliza Alt + 175 y luego suelta la tecla Alt. Alternativamente puedes escribir &amp;raquo;.
+
+En un equipo portátil que no dispone de teclado numérico este sistema se complica algo más, pero existe un modo de crear las comillas angulares:
+* Activa el panel numérico utilizando Fn + NumLock. La tecla Fn suele estar junto a la tecla Ctrl izquierda. La tecla NumLock suele ser la F10 o alguna similar.
+* Con las teclas m, j, k, l, u, i, o, 7, 8, 9 asignadas para reemplazar los números del 0 al 9 en el panel numérico, utiliza el equivalente al número. Para la comilla de apertura teclea Alt + 174 (Alt + j + 7 + u) y la para las de cierre Alt + 175 (Alt j + 7 + o). Recuerda siempre de mantener Alt pulsado mientras se pulsan los números o sus teclas equivalentes y luego soltar Alt.
+* Recuerda desactivar el teclado numérico provisional con Fn + NumLock para poder seguir escribiendo con normalidad.
+
+== Formato extendido del texto ==
+
+{| class="wikitable"
+|Se muestra ||Se debe escribir
+|-
+|<ins>Texto insertado</ins> || &lt;ins&gt;Texto insertado&lt;/ins&gt;
+|-
+|<u>Texto subrayado</u> || &lt;u&gt;Texto subrayado&lt;/u&gt;
+|-
+|<s>Texto tachado</s> || &lt;s&gt;Texto tachado&lt;/s&gt;
+|-
+|<del>Texto borrado</del> || &lt;del&gt;Texto borrado&lt;/del&gt;
+|-
+|<code>Texto código fuente</code> || &lt;code&gt;Texto código fuente&lt;/code&gt;
+|-
+|<blockquote>Texto citado</blockquote> || &lt;blockquote&gt;Texto citado&lt;/blockquote&gt;
+|-
+|<q>Cita</q> || &lt;q&gt;Cita&lt;/q&gt;
+|-
+|No aparecen || &lt;!--Esto es un comentario --&gt;
+|-
+|<pre>Texto sin ''formato'', literal</pre> || &lt;pre&gt;Texto sin <nowiki>''formato''</nowiki>, literal&lt;/pre&gt;
+|}
+
+== Secciones y listas ==
+
+{| class="wikitable"
+|Se muestra ||Se debe escribir
+|-
+| <span style="font-size:180%;font-weight:bold;"> Nivel 2 </span> <br> <span style="font-size:120%;font-weight:bold;"> Nivel 3 </span> <br> <span style="font-size:110%;font-weight:bold;"> Nivel 4 </span> 
+|| 
+<pre>
+== Nivel 2 ==
+
+=== Nivel 3 ===
+
+==== Nivel 4 ====
+
+</pre>
+|-
+|
+Texto antes
+----
+Texto después 
+||
+<pre>
+Texto antes
+----
+Texto después
+</pre>
+|-
+|
+* Lista con viñetas
+* Usan asteriscos
+** Dos y más asteriscos para subniveles
+** Otro más
+*** Otro subnivel
+||
+<pre>
+* Lista con viñetas
+* Usan asteriscos
+** Dos y más asteriscos para subniveles
+** Otro más
+*** Otro subnivel 
+</pre>
+|-
+|
+# Lista numerada
+# Usa almohadillas
+## Dos y más almohadillas para subniveles
+## Otro más
+### Otro subnivel
+||
+<pre>
+# Lista numerada
+# Usa almohadillas
+## Dos y más almohadillas para subniveles
+## Otro más
+### Otro subnivel
+</pre>
+|-
+|
+# Lista mezclada
+# Usa asteriscos y almohadillas
+#* Un subnivel sin número
+#* Otro más
+# Otro
+||
+<pre>
+# Lista mezclada
+# Usa asteriscos y almohadillas
+#* Un subnivel sin número
+#* Otro más
+# Otro
+</pre>
+|}
+
+== Hiperenlaces ==
+
+{| class="wikitable"
+|Se muestra ||Se debe escribir
+|-
+|
+Enlaces a la propia Urantiapedia:
+
+[[Página principal]]
+
+[[Manual:Cómo crear un usuario]]
+
+[[El Libro de Urantia Doc 156]]
+
+[[Artículo:Cómo es de grande Orvonton]]
+
+[[Andrés]]
+|| 
+<pre>
+[[Página principal]]
+
+[[Manual:Cómo crear un usuario]]
+
+[[El Libro de Urantia Doc 156]]
+
+[[Artículo:Cómo es de grande Orvonton]]
+
+[[Andrés]]
+</pre>
+|-
+|
+Enlaces a la propia Urantiapedia
+
+con texto alternativo:
+
+[[Andrés|el apóstol Andrés]]
+|| 
+<pre>[[Andrés|el apóstol Andrés]]</pre>
+|-
+|
+Enlaces a la propia Urantiapedia con anclas:
+
+A una sección del libro:
+
+[[El Libro de Urantia Doc 156#LU_156_3]]
+
+A un párrafo del libro:
+
+[[El Libro de Urantia Doc 156#LU_156_3_1]]
+|| 
+<pre>
+[[El Libro de Urantia Doc 156#LU_156_3]]
+
+[[El Libro de Urantia Doc 156#LU_156_3_1]]
+</pre>
+|-
+|
+A otra página web (no es necesario formato):
+
+https://www.urantia.org/es/fundacion-urantia
+
+A otra página web (con texto alternativo):
+
+[https://www.urantia.org/es/fundacion-urantia Fundación Urantia]
+||
+<pre>
+https://www.urantia.org/es/fundacion-urantia
+
+[https://www.urantia.org/es/fundacion-urantia Fundación Urantia]
+</pre>
+|}
+
+== Imágenes ==
+
+Para insertar una imagen se recomienda este formato en una línea aislada con una línea en blanco antes y después:
+
+<pre>[[File:nombre_archivo|frame|leyenda]]</pre>
+
+donde ''nombre_archivo'' es el nombre de un archivo que de tipo imagen se habrá incorporado a la Urantiapedia, ''frame'' indica que se mostrará la imagen rodeada por un marco y ''leyenda'' es el texto a mostrar como leyenda. De este modo la imagen se colocará en la posición más idónea relativa al texto.
+
+Por ejemplo, escribiendo:
+
+<pre>[[File:Orvonton_ViaLactea.jpg|frame|¿Es Orvonton la Vía Láctea o algo mucho mayor?]]</pre>
+
+se obtiene algo como esto:
+
+[[File:Orvonton_ViaLactea.jpg|frame|center|¿Es Orvonton la Vía Láctea o algo mucho mayor?]]
+
+== Tablas ==
+
+Para obtener la siguiente tabla:
+
+{| class="wikitable"
+| División <br> administrativa || Nombre
+|-
+| Planeta habitado || Urantia
+|-
+| Sistema solar || Monmatia
+|-
+| Sistema local || Satania
+|-
+| Constelación || Norlatiadek
+|-
+| Universo local || Nebadon
+|}
+
+escribe esto:
+
+<pre>
+{| class="wikitable"
+| División <br> administrativa || Nombre
+|-
+| Planeta habitado || Urantia
+|-
+| Sistema solar || Monmatia
+|-
+| Sistema local || Satania
+|-
+| Constelación || Norlatiadek
+|-
+| Universo local || Nebadon
+|}
+</pre>
+
+Es decir:
+* Se empieza una tabla con <nowiki>{|</nowiki> y se termina con <nowiki>|}</nowiki>.
+* Se empieza una fila de la tabla con <nowiki>|-</nowiki>.
+* Se empieza la primera celda de una fila con <nowiki>|</nowiki> y las siguientes celdas de la fila con <nowiki>||</nowiki>.
+
+== Referencias ==
+
+Para insertar referencias dentro de una página la ''Urantiapedia'' dispone de un módulo llamado ''Lib'' que facilita la inclusión de estas. Consulta la página del manual que indica cómo usarlas: [[Manual:Cómo usar las referencias]].
+
+
+== Enlaces ==
+
+* https://www.mediawiki.org/wiki/Help:Formatting/es
+* https://www.mediawiki.org/wiki/Help:Lists/es
+* https://www.mediawiki.org/wiki/Help:Links/es
+* https://www.mediawiki.org/wiki/Help:Tables/es
+* https://www.mediawiki.org/wiki/Help:Images/es
+* https://es.wikipedia.org/wiki/Comillas
+* [[Manual:Cómo usar las referencias]]

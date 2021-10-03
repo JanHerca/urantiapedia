@@ -1,0 +1,45 @@
+__NOTOC__
+
+<table class="warning-message" cellspacing="0" cellpadding="0" border="0" style="box-sizing:border-box; border:1px #d33 solid; background: transparent; margin:0.5em 0;padding:0.5em;background-color: #fee7e6">
+    <tr>
+      <td nowrap="nowrap" valign="top">
+        <span style="position: relative; top: -2px;">[[File:240px-OOjs UI icon notice-destructive.svg.png|24x24px|left]]</span>
+      </td>
+      <td valign="top" style="padding-left:0.5em;">'''''Urantiapedia''''' se encuentra actualmente en fase de preparación. Por este motivo la creación de usuarios se encuentra bloqueada. Si deseas colaborar con el proyecto puedes contactar a través de la página [https://blue-fields.netlify.app Blue Fields] o en la página de [https://github.com/JanHerca/urantiapedia Github] del proyecto. Por el momento, '''''Urantiapedia''''' muestra un contenido parcial y con errores con la finalidad de mostrar su potencial y dar una idea del proyecto. Cuando la fase actual de preparación concluya, la página se abrirá al público para que cualquiera pueda participar en el proyecto. Puedes consultar más información sobre todo esto [[Manual:Cómo funciona esta wiki|aquí]].
+      </td>
+    </tr>
+</table>
+
+==Bienvenido a la Urantiapedia==
+[[File:El_Libro_de_Urantia_Edicion_Europea_HC_300.jpg|right]]
+'''''Urantiapedia''''' es una web donde publicar, compartir y colaborar en cualquier contenido relativo a '''''El Libro de Urantia'''''.
+
+'''''El Libro de Urantia''''', publicado en 1955 por la [https://www.urantia.org/es Fundación Urantia], nos presenta el origen, la historia y el destino de la humanidad. Responde a preguntas sobre Dios, la vida en el universo habitado, la historia y el futuro de este mundo, e incluye una inspiradora narración de la vida y las enseñanzas de Jesús.
+
+'''''El Libro de Urantia''''' expone nuestra relación con Dios Padre. Todos los seres humanos son hijos e hijas de un Dios amoroso y por lo tanto hermanos y hermanas de la familia de Dios. El libro proporciona una nueva verdad espiritual a los hombres y mujeres modernos, y el camino para tener una relación personal con Dios.
+
+A partir de la herencia religiosa del mundo, '''''El Libro de Urantia''''' describe un destino eterno para la humanidad y enseña que la fe viva es la clave para el progreso espiritual personal y la supervivencia eterna. También describe el plan de Dios para la evolución progresiva de los individuos, de la sociedad humana y del universo en su conjunto.
+
+Muchas personas de todo el mundo han dicho que leer '''''El Libro de Urantia''''' les ha inspirado profundamente para alcanzar niveles más hondos de crecimiento espiritual. Les ha dado un nuevo sentido a su vida y el deseo de servir a la humanidad.
+
+Te animamos a que lo leas y descubras por ti mismo su elevado mensaje. Esta Wiki puede ayudarte con su lectura por lo que te animamos también a que la utilices y colabores aportando nuevo contenido en ella.
+
+Si quieres saber más acerca del libro: [[El_Libro_de_Urantia|El Libro de Urantia]].
+
+== Leer El Libro de Urantia ==
+
+Si quieres leer '''''El Libro de Urantia''''', utiliza cualquiera de estos índices:
+* [[El_Libro_de_Urantia_Indice|El Libro de Urantia - Índice general]]
+* [[El_Libro_de_Urantia_Indice_extendido|El Libro de Urantia - Índice extendido]]
+
+== Consultar la Urantiapedia ==
+
+Si quieres ver un listado completo de todo el contenido actual de la '''''Urantiapedia''''' utiliza estos índices:
+* [[Índice:Urantiapedia|Índice completo de la Urantiapedia]]
+* [[Índice:Términos|Índice sólo de los términos]]
+
+== Colaborar con la Urantiapedia ==
+
+Si quieres contribuir a la '''''Urantiapedia''''' consulta el manual. En él se detalla cómo está planificada, las fases del proyecto, el modo de contactar, los tipos de usuarios que existen y el progreso actual:
+* [[Manual:Cómo funciona esta wiki]]
+

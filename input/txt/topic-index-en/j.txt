@@ -12,61 +12,61 @@
 ####################################################################################
 
 
-Jabbok
+Jabbok | | | LUGAR | 
 flows into Jordan river (124:6.6)
 
-Jacob (evangelist)
+Jacob (evangelist) | | | PERSONA | OK
 directed younger evangelists (150:5.1)
 
-Jacob (messenger)
+Jacob (messenger) | | | PERSONA | OK
 David’s most fleet and trustworthy messenger (182:2.5)
 
-Jacob of Crete
+Jacob of Crete | | | PERSONA | OK
 Jewish trader; inquired of God’s wrath (142:2sec)
 
-Jacob of Emmaus
+Jacob of Emmaus | | | PERSONA | OK
 at Jesus’ 7th appearance (190:5sec)
 > https://en.wikipedia.org/wiki/Road_to_Emmaus_appearance
 
-Jacob (Old Testament) (126:1.2)
+Jacob (Old Testament) | (126:1.2) | | PERSONA | OK
 had difficulty grasping Salem traditions (93:9.5)
 slept on stone because he venerated it (85:1.1)
 > https://en.wikipedia.org/wiki/Jacob
 
-Jacob the stone mason (father)
+Jacob the stone mason (father) | | | PERSONA | OK
 business associate of Joseph (124:2.4) (126:3.1)
 young Jesus asked advice of (123:6.9)
 laid to rest (128:7.12)
 
-Jacob the stone mason (son) (123:1.4) (124:2.4)
+Jacob the stone mason (son) | (123:1.4) (124:2.4) | | PERSONA | OK
 Jesus’ close boyhood friend and self-appointed defender (123:1.4) (124:2.4) (133:1.5)
 business associate of brothers of Jesus (128:2.2) (128:5.8)
 marriage to Miriam (128:5.8) (128:7.10,12)
 
-Jacob’s well (124:6.1) (127:3.3) (143:5.2-3) (193:1sec)
+Jacob’s well | (124:6.1) (127:3.3) (143:5.2-3) (193:1) | | LUGAR | 
 Jesus drank several times
 
-Jah
+Jah | | | PERSONA | OK
 Semite appellation of Deity (96:1.9)
 > https://en.wikipedia.org/wiki/Jah
 
-Jainism (92:6.10)
+Jainism | (92:6.10) | | RELIGION | 
 6th century B.C. religious movement (92:5.12)
 Ganid’s abstract of (131:6sec)
 influence on Hinduism (94:4.1)
 
-Jairus (152:0.1) (152:1sec)
+Jairus | (152:0.1) (152:1) | | PERSONA | OK
 presided in new Capernaum synagogue (152:0.1) (153:1.1)
 Jesus healed daughter of (152:0.1) (152:1.1-3)
 Jerusalem leaders labored to dissuade (153:1.7)
 resigned as chief ruler; aligned with Jesus (154:1.2)
 > https://en.wikipedia.org/wiki/Raising_of_Jairus%27_daughter
 
-James, Epistle of. See James (brother of Jesus): Epistle of
+James, Epistle of | | See James (brother of Jesus): Epistle of | | 
 
-James Alpheus. See Alpheus twins
+James Alpheus | | See Alpheus twins | PERSONA | OK
 
-James (brother of Jesus) (126:3.12) (126:4.9) (126:5.8) (127:2.11) (137:6.1,4) (154:5.1). See also Jesus: family
+James (brother of Jesus) | (126:3.12) (126:4.9) (126:5.8) (127:2.11) (137:6.1,4) (154:5.1) | See also Jesus: family | PERSONA | OK
 born April 2, 3 B.C.; second child (123:1.5)
 Jesus’ relations with (124:4.3)
 accompanied Mary upon Joseph’s accident (126:2.1)
@@ -100,11 +100,11 @@ attitude
 	learned to practice conciliation (139:4.13)
 > https://en.wikipedia.org/wiki/James,_brother_of_Jesus
 
-James of Safed
+James of Safed | | | PERSONA | OK
 son healed (158:4-5secs)
 “Lord I believe; help my unbelief” (158:5.2)
 
-James Zebedee (139:3sec) (141:7.13) (143:3.5) (144:1.7) (167:0.3) (167:4.4) (174:1.1) (191:0.5). See also apostles of Jesus
+James Zebedee | (139:3 s) (141:7.13) (143:3.5) (144:1.7) (167:0.3) (167:4.4) (174:1.1) (191:0.5) | See also apostles of Jesus | PERSONA | OK
 married; 4 children; from Capernaum; 30 in A.D. 26 (139:3.1)
 fishing partner of Andrew, Peter, and John (139:1.1) (139:3.1)
 baptized by John in A.D. 25 (135:8.1)
@@ -141,13 +141,13 @@ attitude
 	well-balanced thinker, planner; never in a hurry (139:3.7)
 > https://en.wikipedia.org/wiki/James_the_Great
 
-Jamnia (134:7.4)
+Jamnia | (134:7.4) | | LUGAR | 
 Jesus passed
 
-Jansad
+Jansad | | | PERSONA | OK
 son of Eveson, successor to Adam (76:3.3)
 
-Japan (60:3.6)
+Japan | (60:3.6) | | LUGAR | 
 Andite migration to (78:5.6)
 Asoka established Buddhism in (94:9.1) (94:11.1)
 hovering over precipice of watery grave (58:5.8)
@@ -156,21 +156,21 @@ library at Alexandria contained manuscripts from (130:3.4)
 Salem missionaries in (93:7.2)
 Shinto revered in (92:6.15)
 
-Japhia (149:0.1)
+Japhia | (149:0.1) | | LUGAR | 
 Jesus preached during second public tour through Galilee
 
-Jaram the Hittite
+Jaram the Hittite | | | PERSONA | OK
 Melchizedek sent J. to invite Abraham, Nahor to Salem (93:5.5)
 
-Java
+Java | | | LUGAR | 
 Andonic migration to (64:1.5)
 Asoka established Buddhism in (94:9.1)
 land bridge connected J. to Asia (64:1.6)
 
-Java man
+Java man | | | RAZA | 
 bones recently found; Andonite (64:1.6)
 
-jealousy. See also envy
+jealousy | | See also envy | | 
 can turn love into hate (177:4.11)
 God jealous for man, not of man (4:3.1)
 mental poison; interferes with spiritual progress (110:1.5)
@@ -179,41 +179,41 @@ Primates jealous of Andon’s tree house (63:2.1)
 sexual j. not innate (82:4.4)
 when attacked by j., rest in citadel of spirit (100:2.7)
 
-Jebus
+Jebus | | | LUGAR | 
 city of Salem, later Jerusalem (93:2.4) (97:9.11,17)
 King David married 6 women of J.; established capital at (97:9.10-11)
 strong-walled city between Judah and Israel (97:9.11)
 
-Jebusites
+Jebusites | | | RAZA | 
 non-Hebrew Palestinians; joined David’s new kingdom (97:9.7)
 
-Jehoash
+Jehoash | | | PERSONA | OK
 father of Jeroboam; delivered Israel from its enemies (97:9.20)
 > https://en.wikipedia.org/wiki/Jehoash_of_Israel
 
-Jehonadab
+Jehonadab | | | PERSONA | OK
 gypsy chieftain who helped Jehu destroy Samaritan prophets of Baal (97:9.19)
 > https://en.wikipedia.org/wiki/Jehonadab
 
-Jehovah
+Jehovah | | | PERSONA | OK
 completed concept of Yahweh; term first used in A.D. 1500 (96:1.10)
 spirit demon of Horeb (94:12.1)
 > https://en.wikipedia.org/wiki/Jehovah
 
-Jehu (124:6.3)
+Jehu (124:6.3) | | | PERSONA | OK
 landlord; joined forces with Jehonadab to destroy Samaritan prophets of Baal (97:9.19)
 > https://en.wikipedia.org/wiki/Jehu
 
-jellyfish (59:2.11) (65:2.5)
+jellyfish | (59:2.11) (65:2.5) | | | 
 
-Jephthah
+Jephthah | | | PERSONA | OK
 offered daughter as human sacrifice (89:6.3)
 > https://en.wikipedia.org/wiki/Jephthah
 
-Jeramy
+Jeramy | | | PERSONA | OK
 Greek Jewish proselyte of Nicopolis (133:2.5)
 
-Jeremiah
+Jeremiah | | | PERSONA | OK
 fearless prophet (97:6sec)
 asserted Yahweh was God of all nations (97:6.2)
 counseled surrendering Jerusalem to Nebuchadnezzar (97:6.4)
@@ -226,7 +226,7 @@ told of law written in men’s hearts (121:7.5)
 Jesus quoted (130:8.2) (145:2.5) (149:6.12) (153:2.2) (165:4.8)
 > https://en.wikipedia.org/wiki/Jeremiah
 
-Jericho (124:6.7) (125:3.2) (127:3.6) (128:3.2) (147:6.2)
+Jericho | (124:6.7) (125:3.2) (127:3.6) (128:3.2) (147:6.2) | | LUGAR | 
 ancient ford over which Joshua passed (135:6.1)
 human sacrifices in building walls (89:6.6)
 Jesus blessed little children at (167:5.2) (167:6.1-3)
@@ -238,11 +238,11 @@ restoration of sight to Bartimeus at (171:5sec)
 story of good Samaritan at (164:1sec)
 Zaccheus from (171:6sec)
 
-Jeroboam
+Jeroboam | | | PERSONA | OK
 son of Jehoash; delivered Israel from its enemies (97:9.20)
 > https://en.wikipedia.org/wiki/Jeroboam_II
 
-Jerusalem (Paper 147) (124:6sec) (129:2.6) (134:7.5) (134:9.2) (140:7.2) (141:9sec) (152:7sec). See also Jerusalem temple
+Jerusalem | (147) (124:6) (129:2.6) (134:7.5) (134:9.2) (140:7.2) (141:9) (152:7) | See also Jerusalem temple | LUGAR | 
 apostles connected destruction of J. with appearance of New Jerusalem (176:1.6)
 besieged in times of Jeremiah (97:6.4)
 city of Father’s house (171:4.7)
@@ -258,13 +258,13 @@ Jesus’ Passover at (Papers 125, 142)
 millions of dispersed Jews attended religious feasts (121:6.9) (162:4.1) (185:1.5) (188:3.1)
 Paul’s vision of the heavenly J. (47:10.3)
 persecution scattered early believers from (143:6.6)
-places in and around. See Asmonean palace; Damascus gate; fountain gate; Gehenna; Golgotha; Jerusalem temple; Kidron; Mount Olivet; Ophel; pool of Bethesda; Siloam; water gate
+places in and around | See Asmonean palace; Damascus gate; fountain gate; Gehenna; Golgotha; Jerusalem temple; Kidron; Mount Olivet; Ophel; pool of Bethesda; Siloam; water gate
 previously known as Jebus; Salem (93:2.4) (97:9.11)
 prophets perish in (171:4.7)
 situation in week before crucifixion (175:4sec)
 temple of Baal alongside temple of Yahweh (97:9.21)
 
-Jerusalem temple (125:1.5) (150:1.3) (172:4sec). See also Jerusalem; Jerusalem temple guards; Judaism; moneychangers; Sanhedrin
+Jerusalem temple | (125:1.5) (150:1.3) (172:4) | See also Jerusalem; Jerusalem temple guards; Judaism; moneychangers; Sanhedrin | LUGAR | 
 animal sacrifice (125:1.1,4) (125:2.1,3) (125:5.5) (173:1.1-2)
 desecrated by traffic in animals, money-changers (173:1sec)
 extensive banking system (173:1.3-4)
@@ -308,7 +308,7 @@ places in Jerusalem temple
 secret of Judaism’s survival was centralization of worship at (121:2.6)
 treasury might hold 10 million dollars (173:1.4)
 
-Jerusalem temple guards
+Jerusalem temple guards | | | PERSONA | OK
 type of soldiers from the temple
 in conference with Judas (182:2.13) (183:2.1)
 dispute with Roman soldiers over where to take Jesus (183:5.1)
@@ -318,7 +318,7 @@ bribed to say disciples took Jesus’ body (189:2.4)
 mocked, spit upon, buffeted Jesus (184:4.1)
 threw Jesus’ burial linen over nearby cliff (190:1.2)
 
-Jerusem (Paper 46). See also architectural spheres; mansion worlds; Satania
+Jerusem | (46) | See also architectural spheres; mansion worlds; Satania | LUGAR | 
 187,432,811 ascendant citizens; none lost in rebellion (53:7.12)
 activities on J. are work, progress, and play (46:5.29)
 Adam and Eve on (74:1sec)
@@ -384,7 +384,7 @@ universal suffrage; weighted by mota (45:7.6)
 weights and measures (46:1.2)
 World of Father is silent transition sphere circling (45:1.9)
 
-Jesus. See also Christ; Creator Sons; Michael of Nebadon; Thought Adjuster of Jesus; religion: explained
+Jesus | | See also Christ; Creator Sons; Michael of Nebadon; Thought Adjuster of Jesus; religion: explained | PERSONA | 
 apostles believed J. was the Eternal Son (157:5.1) (161:2.10)
 believers destined to attain perfection in (142:7.15)
 birthday text from Isaiah (97:5.3) (123:5.11) (126:5.2) (148:5.5) (150:8.9) (190:5.4)
@@ -405,7 +405,7 @@ he who rejects J. rejects Father (158:8.1) (163:1.4)
 hour striking for rediscovery of real life of J. (195:9.5) (195:10.1)
 human and divine minds of J. (154:6.10) (161:2-3secs) (167:4.2) (168:1.6-7)
 human mind can be exchanged for mind of J. (48:6.26)(128:1.6)
-Jesus brotherhood. See faith sons of God; fellowship of believers
+Jesus brotherhood | See faith sons of God; fellowship of believers
 let mind in Christ be also in us (102:4.1)
 lifted up, J. will draw all men to himself (157:6.10) (162:5.4) (174:5.13) (188:5.10) (195:10.1)
 lives anew in life of individual believer (194:2.6) (194:3.1)
@@ -531,7 +531,7 @@ events in Jesus’ life
 		years 30-31 (Papers 130–133) (134:1,7secs)
 		years 14 and 15 were great test, real temptation (126:0.1)
 		Mount Hermon marked end of J.’ purely human career (134:7.7)
-	baptism. See also baptism
+	baptism | See also baptism
 		40 days after (136:3sec)
 		did not use supernatural power until after (128:1.9)
 		ended J.’ purely human life (136:2.7)
@@ -555,7 +555,7 @@ events in Jesus’ life
 	transfiguration (158:0-3secs)
 		J. declined to be invested with full authority at (158:1.4)
 		memory of transfiguration sustained J. (171:4.9)
-	trial and crucifixion. See also atonement doctrine; Jesus: death
+	trial and crucifixion | See also atonement doctrine; Jesus: death
 		betrayal (Paper 183)
 		arrest (183:3sec)
 		spat upon (184:3.18) (185:6.2)
@@ -570,7 +570,7 @@ events in Jesus’ life
 		side pierced with spear (187:5.8)
 		those who witnessed (127:5.6) (187:3.1)
 		burial (188:1sec)
-	death. See also atonement doctrine; Jesus: events in life: crucifixion
+	death | See also atonement doctrine; Jesus: events in life: crucifixion
 		accomplished things by death he could not in life (171:4.9)
 		Christianity built up around J.’ death(143:5.11)
 		earth’s greatest tragedy (178:2.1)
@@ -584,41 +584,41 @@ events in Jesus’ life
 		J. in tomb from 3 PM Friday to 3 AM Sunday (188:0.1)
 		sealed by 2 stones; guarded (188:2.3) (189:4.2)
 		seals not broken when J. emerged (189:1.7)
-	resurrection (Paper 189) (196:1.11). See also resurrection
+	resurrection (Paper 189) (196:1.11) | See also resurrection
 		7 Paradise personalities deployed around tomb (189:1.5)
 		celestial beings dissolved J.’ mortal body (189:2.1,7-8)
 		Christian belief based on fact of empty tomb; not the gospel (189:2.6) (193:0.4) (193:2.2)
 		grave bandages apparently intact; thrown over cliff (189:4.6,9) (189:5.3) (190:1.2) (191:0.4)
 		greatest revelation of J.’ divinity (182:3.5)
-		heralds of resurrection (190:1sec) (191:6.4). See also messenger corps (David Zebedee’s)
+		heralds of resurrection (190:1sec) (191:6.4) | See also messenger corps (David Zebedee’s)
 		Jesus foretold (158:2.1) (158:6.5) (158:7.3,7) (165:2.10) (173:5.4) (180:6.7) (181:1.5) (182:2.5-6)
-		knowledge of J.’ resurrection avails nothing without spiritual rebirth (193:1.2)
+		knowledge of Jesus’ resurrection avails nothing without spiritual rebirth (193:1.2)
 		no creatures assisted (189:0sec) (189:1.13)
 		on third day (52:5.6)
 		physical body not raised (189:1.2,7) (189:2sec)
-		resurrected J. seen by almost 1000 people (189:2.9)
+		resurrected Jesus seen by almost 1000 people (189:2.9)
 		revelation of life overthrowing death (180:6.7)
 		inaugurated dispensational resurrection (189:3.1)
 	morontia appearances (Papers 189–193)
-		1st, to Mary Magdalene at tomb (189:4.10-12)
-		2nd, to Mary Magdalene at tomb (189:5.4)
-		3rd, to James, brother of Jesus in Bethany (190:2.2-5)
-		4th, to family and friends in Bethany (190:2.6)
-		5th, to women at Joseph of Arimathea’s home (190:3.1)
-		6th, to 40 Greeks at home of Flavius (190:4sec)
-		7th, to Cleopas and Jacob at Emmaus (190:5sec)
-		8th, to Peter at Mark home (191:1sec)
-		9th, to apostles at Mark home (191:2sec)
-		10th, to 150 at Philadelphia (191:4sec)
-		11th, to apostles at Mark home (191:5sec)
-		12th, to 80 in Alexandria (191:6sec)
-		13th, to apostles by Sea of Galilee (192:1sec)
-		14th, to apostles on mount of ordination (192:3sec)
-		15th, at Bethsaida (192:4.3)
-		16th, in courtyard of Nicodemus (193:0.1)
-		17th, at Sychar (193:1sec)
-		18th, at Tyre (193:2sec)
-		19th, in Jerusalem (193:3,5secs)
+		# to Mary Magdalene at tomb (189:4.10-12)
+		# to Mary Magdalene at tomb (189:5.4)
+		# to James, brother of Jesus in Bethany (190:2.2-5)
+		# to family and friends in Bethany (190:2.6)
+		# to women at Joseph of Arimathea’s home (190:3.1)
+		# to 40 Greeks at home of Flavius (190:4sec)
+		# to Cleopas and Jacob at Emmaus (190:5sec)
+		# to Peter at Mark home (191:1sec)
+		# to apostles at Mark home (191:2sec)
+		# to 150 at Philadelphia (191:4sec)
+		# to apostles at Mark home (191:5sec)
+		# to 80 in Alexandria (191:6sec)
+		# to apostles by Sea of Galilee (192:1sec)
+		# to apostles on mount of ordination (192:3sec)
+		# at Bethsaida (192:4.3)
+		# in courtyard of Nicodemus (193:0.1)
+		# at Sychar (193:1sec)
+		# at Tyre (193:2sec)
+		# in Jerusalem (193:3,5secs)
 		appeared through closed doors, in table (190:4.1) (191:2.1) (191:5.2)
 		broke bread and handed to John Mark (192:1.8)
 		Cleopas and Jacob unaware J. not a mortal (190:5sec)
@@ -628,7 +628,7 @@ events in Jesus’ life
 		no appearances to enemies (190:2.1)
 		no nail marks in hands (191:5.4)
 		ascension (193:5sec) (196:1.12)
-value of Jesus’ life. See also Paradise Sons of God: bestowals: purpose of bestowals
+value of Jesus’ life | See also Paradise Sons of God: bestowals: purpose of bestowals
 	apostles misunderstood J.’ teaching but grasped his life (140:7.8)
 	compensates for inability to grasp Eternal Son (6:8.6-7)
 	enlarged and amplified highest human visualization of Father (97:10.8)
@@ -654,7 +654,7 @@ value of Jesus’ life. See also Paradise Sons of God: bestowals: purpose of bes
 	most beautiful expression of divinity found in earth lives of bestowal Sons (116:2.3)
 	new and living way (101:6.17) (129:4.7) (136:6.11) (180:3.7) (196:2.4)
 	understand J.’ teachings by his life (140:8.19) (149:2.1)
-Jesus teachings. See also gospel: explained; kingdom of heaven; religion: explained; truth
+Jesus teachings | See also gospel: explained; kingdom of heaven; religion: explained; truth
 	be not ashamed of J.’ teachings (150:4.3)
 	be not dismayed by failure fully to grasp (181:2.25)
 	denounced pride, cruelty, oppression, hypocrisy (140:8.22)
@@ -668,343 +668,343 @@ Jesus teachings. See also gospel: explained; kingdom of heaven; religion: explai
 	untaught in learning of rabbis (162:2.1)
 	used term Elohim for God, not Yahweh (169:4.5)
 	discourses on
-		Jonah (130:1sec)
-		reality (130:4sec)
-		evil (130:4.11-15)
-		time and space (130:7sec)
-		true values (132:1sec)
-		good and evil (132:2sec)
-		truth and faith (132:3sec)
-		wealth (132:5sec)
-		mercy and justice (133:1sec)
-		science (133:5sec)
-		soul (133:6.4-7)
-		mind (133:7.5-12)
-		“The Kingdom” (137:8)
-		ordination sermon (140:3-6)
-		“The Will of the Father in Heaven” (145:2.1)
-		suffering; Job (148:6sec)
-		contentment (149:5sec)
-		fear of the Lord (149:6sec)
-		magic and superstition (150:3sec)
-		salvation (150:5sec)
-		“The Love of God,” “Dreams and Visions,” “Malice,” “Humility and Meekness,” “Courage and Loyalty,” “Music and Worship,” “Service and Obedience,” “Pride and Presumption,” “Forgiveness in Relation to Repentance,” “Peace and Perfection,” “Evil Speaking and Envy,” “Evil, Sin, and Temptation,” “Doubts and Unbelief,” “Wisdom and Worship.” (150:6.1)
-		epochal sermon (153:2sec)
-		true religion (155:5-6secs)
-		forgiveness (159:1.4-7)
-		light of the world (162:5sec)
-		water of life (162:6sec)
-		spiritual freedom (162:7sec)
-		wealth (163:3sec)
-		“Trust and Spiritual Preparedness.” (165:3sec)
-		wealth (165:5sec)
-		accidents (166:4sec)
-		marriage (167:5.2-8)
-		angels (167:7sec)
-		“kingdom of heaven” (170)
-		counting the cost (171:2sec)
-		“The Liberty of Sonship”, only named (173:2.2)
-		forgiveness (174:1sec)
-		last temple discourse (Paper 175)
-		second coming (176:2sec)
-		sonship and citizenship (178:1sec) (181:2.10)
-		Remembrance Supper (179:5sec)
-		new commandment (180:1sec)
-		vine and branches (180:2sec)
-		enmity of the world (180:3sec)
-	parables of Jesus. See also parables
-		sower (95:0.1) (151:1-2secs) (151:3.13,15) (152:6.3) (155:2.3)
-		seed in good soil (137:8.12) (151:3.15)
-		Pharisee and publican (140:5.7) (167:5.1-2)
-		mustard seed (140:8.27) (151:4.2) (178:1.15)
-		pearl of great price (140:8.28) (151:4.5)
-		three loaves (144:2.3)
-		persistent widow (144:2.5)
-		children playing in market place (144:8.7)
-		moneylender with 2 debtors (147:5.4)
-		fasting in bridechamber (147:7.2)
-		new wine into fresh wineskins (147:7.2) (176:1.7)
-		sewing unshrunk cloth on old garment (147:7.2)
-		Job (148:6sec)
-		The Lamp under a Bushel (151:3.1)
-		wheat and weeds (151:4.1)
-		leaven (151:4.3) (178:1.15)
-		treasure in field (151:4.4)
-		net cast into sea (151:4.6)
-		lily’s roots in muck (156:5.1)
-		foolish carpenter (156:5.2)
-		weather; signs of times (157:2.1)
-		lost sheep (159:1.2) (169:1.2-4,15)
-		ungrateful steward (159:1.4-5)
-		laborers in vineyard (163:3.5-7)
-		good Samaritan (164:1sec)
-		good shepherd (165:2sec) (169:1.2)
-		foolish rich man (165:4.2-3)
-		watchful servant (165:5.5)
-		watchful householder (165:5.6)
-		slothful servant (165:6.2-3)
-		fig tree (166:4.9)
-		choosing chief seat at marriage feast (167:1.5)
-		great supper (167:2sec)
-		lost coin (169:1.4,15)
-		prodigal son (169:1.5-16)
-		shrewd steward (169:2sec)
-		Lazarus and Dives (by Nazarites) (169:3sec)
-		king making war (171:2.3)
-		watchtower, building (171:2.3)
-		salt without savor (171:2.5)
-		pounds (171:8sec)
-		two sons (173:3sec)
-		absent landlord (173:4sec)
-		cornerstone (173:4.4)
-		marriage feast (173:5sec)
-		grain of wheat (174:5.8)
-		fig tree, branches of (176:2.6)
-		ten virgins (by Selta) (176:2.8)
-		talents (176:3.4)
-		seed of living being (178:1.15)
-		washing apostles’ feet (179:3sec)
-		Remembrance Supper (179:5sec)
-		vine and branches (180:2sec) (193:2.2)
+		* Jonah (130:1sec)
+		* reality (130:4sec)
+		* evil (130:4.11-15)
+		* time and space (130:7sec)
+		* true values (132:1sec)
+		* good and evil (132:2sec)
+		* truth and faith (132:3sec)
+		* wealth (132:5sec)
+		* mercy and justice (133:1sec)
+		* science (133:5sec)
+		* soul (133:6.4-7)
+		* mind (133:7.5-12)
+		* “The Kingdom” (137:8)
+		* ordination sermon (140:3-6)
+		* “The Will of the Father in Heaven” (145:2.1)
+		* suffering; Job (148:6sec)
+		* contentment (149:5sec)
+		* fear of the Lord (149:6sec)
+		* magic and superstition (150:3sec)
+		* salvation (150:5sec)
+		* “The Love of God,” “Dreams and Visions,” “Malice,” “Humility and Meekness,” “Courage and Loyalty,” “Music and Worship,” “Service and Obedience,” “Pride and Presumption,” “Forgiveness in Relation to Repentance,” “Peace and Perfection,” “Evil Speaking and Envy,” “Evil, Sin, and Temptation,” “Doubts and Unbelief,” “Wisdom and Worship.” (150:6.1)
+		* epochal sermon (153:2sec)
+		* true religion (155:5-6secs)
+		* forgiveness (159:1.4-7)
+		* light of the world (162:5sec)
+		* water of life (162:6sec)
+		* spiritual freedom (162:7sec)
+		* wealth (163:3sec)
+		* “Trust and Spiritual Preparedness.” (165:3sec)
+		* wealth (165:5sec)
+		* accidents (166:4sec)
+		* marriage (167:5.2-8)
+		* angels (167:7sec)
+		* “kingdom of heaven” (170)
+		* counting the cost (171:2sec)
+		* “The Liberty of Sonship”, only named (173:2.2)
+		* forgiveness (174:1sec)
+		* last temple discourse (Paper 175)
+		* second coming (176:2sec)
+		* sonship and citizenship (178:1sec) (181:2.10)
+		* Remembrance Supper (179:5sec)
+		* new commandment (180:1sec)
+		* vine and branches (180:2sec)
+		* enmity of the world (180:3sec)
+	parables of Jesus | See also parables
+		* sower (95:0.1) (151:1-2secs) (151:3.13,15) (152:6.3) (155:2.3)
+		* seed in good soil (137:8.12) (151:3.15)
+		* Pharisee and publican (140:5.7) (167:5.1-2)
+		* mustard seed (140:8.27) (151:4.2) (178:1.15)
+		* pearl of great price (140:8.28) (151:4.5)
+		* three loaves (144:2.3)
+		* persistent widow (144:2.5)
+		* children playing in market place (144:8.7)
+		* moneylender with 2 debtors (147:5.4)
+		* fasting in bridechamber (147:7.2)
+		* new wine into fresh wineskins (147:7.2) (176:1.7)
+		* sewing unshrunk cloth on old garment (147:7.2)
+		* Job (148:6sec)
+		* The Lamp under a Bushel (151:3.1)
+		* wheat and weeds (151:4.1)
+		* leaven (151:4.3) (178:1.15)
+		* treasure in field (151:4.4)
+		* net cast into sea (151:4.6)
+		* lily’s roots in muck (156:5.1)
+		* foolish carpenter (156:5.2)
+		* weather; signs of times (157:2.1)
+		* lost sheep (159:1.2) (169:1.2-4,15)
+		* ungrateful steward (159:1.4-5)
+		* laborers in vineyard (163:3.5-7)
+		* good Samaritan (164:1sec)
+		* good shepherd (165:2sec) (169:1.2)
+		* foolish rich man (165:4.2-3)
+		* watchful servant (165:5.5)
+		* watchful householder (165:5.6)
+		* slothful servant (165:6.2-3)
+		* fig tree (166:4.9)
+		* choosing chief seat at marriage feast (167:1.5)
+		* great supper (167:2sec)
+		* lost coin (169:1.4,15)
+		* prodigal son (169:1.5-16)
+		* shrewd steward (169:2sec)
+		* Lazarus and Dives (by Nazarites) (169:3sec)
+		* king making war (171:2.3)
+		* watchtower, building (171:2.3)
+		* salt without savor (171:2.5)
+		* pounds (171:8sec)
+		* two sons (173:3sec)
+		* absent landlord (173:4sec)
+		* cornerstone (173:4.4)
+		* marriage feast (173:5sec)
+		* grain of wheat (174:5.8)
+		* fig tree, branches of (176:2.6)
+		* ten virgins (by Selta) (176:2.8)
+		* talents (176:3.4)
+		* seed of living being (178:1.15)
+		* washing apostles’ feet (179:3sec)
+		* Remembrance Supper (179:5sec)
+		* vine and branches (180:2sec) (193:2.2)
 	quotations
-		I am the way, the truth, and the life (7:5.1) (21:6.4) (52:5.4) (141:7.4) (166:3.7) (180:3.7) (182:1.20)
-		it is finished! (21:4.5) (187:5.5-6)
-		well done, good and faithful servant (25:1.6)
-		it is more blessed to give than to receive (28:6.18) (100:7.10) (103:2.9) (140:8.18)
-		greatest is he who serves (28:6.18) (56:10.14) (137:8.11) (140:1.6) (158:6.3) (171:0.6) (179:3.9)
-		in Father’s house are many abodes (30:4.17) (178:3.4) (180:3.4) (180:6.3)
-		whosoever drinks of living water shall never thirst (34:6.8) (143:5.3)
-		get you behind me, Satan (53:8.4)
-		think not that I have come to bring peace (52:6.1) (150:4.3) (160:5.10) (165:6.3) (180:0.2) (180:6.1)
-		preach gospel to all the world (95:7.3) (100:7.6) (140:9.2) (163:4.2) (165:6.3) (182:1.5) (190:3.1) (190:4.1) (191:1.2) (191:4.4) (191:5.3) (191:6.3) (192:2.11-12) (193:0.5) (193:1.2) (193:2.2) (193:3.2) (193:5.2)
-		whosoever will, let him come (100:7.6)
-		who among you convicts me of sin (100:7.16)
-		be of good cheer (100:7.9) (153:5.4) (181:1.6)
-		freely you have received, freely give (100:7.10) (140:9.2) (159:1.5) (163:1.4) (176:3.10) (191:4.4) (193:0.5)
-		seek and you shall find (100:7.10) (144:2.3)
-		fear not (100:7.15) (140:8.20) (165:3.3) (166:3.5)
-		love your enemies (103:5.2) (140:3.15) (140:8.6) (174:0.2)
-		he who will save his life shall lose it (103:5.6) (140:5.19) (158:7.5) (160:5.10) (174:5.8)
-		if I be lifted up I will draw all men to myself (108:4.1) (157:6.10) (174:5.13) (195:10.1)
-		no man can serve two masters (109:5.4) (140:6.13) (163:3.1) (169:2.7)
-		not my will but yours be done (109:6.5) (111:5.6) (136:10.1) (160:1.11) (174:5.9) (182:3.4)
-		I am the living way (117:3.3)
-		it is my will that your will be done (118:8.11)
-		I am the bread of life (121:5.12) (153:2.8-12) (179:5.3) (182:1.10)
-		I am the living water (121:5.12) (143:5.4) (182:1.11)
-		none has done aught but what he thought best (125:6.8)
-		money cannot love (127:2.8) (127:5.3)
-		day by day we are strengthened by hope of better days (127:3.14)
-		let us who have seen the light no longer approach Father by darkness (127:6.6)
-		we cannot eat another’s bread as long as I have strong arms (128:5.4) (140:8.2)
-		be wise in your counsel and eloquent in your lives (128:7.4)
-		flight from duty is sacrifice of truth (130:1.2)
-		no man is stranger to one who knows God (130:2.6)
-		time alone ripens fruit on tree (130:5.3)
-		my tomorrow is in Father’s hands (130:5.3)
-		not with words but with longing looks did you ask (130:6.2)
-		all things possible with God (131:10.2) (163:3.2) (182:3.2)
-		you cannot reveal God to those who do not seek (132:7.2)
-		I do not believe any real harm can befall me (133:1.4)
-		you should not presume thus to speak to children of God (133:3.6)
-		work as for God (133:4.8) (192:2.13)
-		it behooves me to keep busy awaiting my hour (134:9.6)
-		suffer me also this, for it becomes us to fulfill all righteousness (135:11.4)
-		tell no man (136:8.1) (137:5.1) (138:8.2-5) (139:9.7) (144:1.6) (145:0.3) (146:4.4) (148:4.11) (149:1.2) (152:1.2) (156:1.7) (157:3.6) (157:4.5) (158:2.1,3) (159:4.2) (166:2.8) (177:1.5) (178:2.3)
-		be not mindful of things which foster anxiety (137:1.6)
-		follow me (137:2.5,7) (138:3.1,3) (138:4.1) (138:5.1) (139:5.1) (139:7.6) (196:1.3)
-		we must in all things wait upon Father’s will (137:4.8)
-		be patient (137:6.3,5) (137:7.3)
-		kingdom is not to come with noise and glamour (137:6.5) (140:1.5)
-		make yourselves ready for call of the kingdom (137:6.5)
-		only through much tribulation will many enter kingdom (137:6.5)
-		do not entertain false hope (137:6.5)
-		Father and I are one (137:6.6) (142:7.13) (153:2.11-12) (153:3.2) (157:6.13) (161:2.9) (164:5.2) (169:4.2) (180:2.1) (180:3.9) (180:4.3) (182:1.6) (184:4.6)
-		neither Jew nor gentile, rich nor poor, in kingdom (137:8.6) (138:4.2) (140:1.2) (143:1.5)
-		God is no respecter of persons (137:8.6)
-		kingdom is not of this world (137:8.7) (138:7.1) (138:8.7,9) (157:6.12) (158:6.2) (171:8.3) (172:3.6) (176:2.3) (185:3.3) (190:5.4)
-		unless you become as little children you cannot enter the kingdom (137:8.8) (196:0.12)
-		be you perfect as Father is perfect (137:8.13) (140:2.16) (140:5.3,15) (140:8.32) (140:10.1) (142:7.13) (161:1.10) (181:2.25)
-		kingdom is worth whatever it costs to enter (137:8.14)
-		I have come to call sinners, the lost (137:8.16) (138:3.6) (157:6.9)
-		seek sinners, find downtrodden, comfort anxious (138:6.4)
-		become fishers of men (138:7.6)
-		speak not hearsay (138:8.4)
-		come to me all you who labor (139:7.7) (141:3.7) (144:8.8) (163:6.7) (165:3.8)
-		peace on earth and good will to all men (140:1.3)
-		not every man who says, “Lord, Lord” shall enter kingdom (140:1.4)
-		seek first the kingdom (140:1.5) (140:6.13) (196:0.8)
-		kingdom is within you (140:1.5) (170:1.13) (170:2.9) (170:3.11) (195:10.4)
-		more is expected of teacher than pupil (140:3.1)
-		happy are the poor in spirit (140:3.3-11)
-		let your light so shine before men (140:3.13)
-		trust in the Father whose messengers you are (140:3.14)
-		if your neighbor smites you on your right cheek (140:3.14) (159:5.9)
-		what you believe that I would do, do you also (140:3.15)
-		you are commissioned to save men, not to judge them (140:3.17)
-		cast not your pearls before swine (140:3.18) (186:2.2)
-		tree is known by its fruit (140:3.19) (140:8.22) (142:5.2) (153:4.4)
-		my peace I leave with you (140:5.18) (181:1.5) (182:2.2) (191:4.4) (193:0.5) (193:2.2) (193:5.2)
-		let not your hearts be troubled (140:5.18) (180:3.4) (181:1.5,9) (182:2.1)
-		you must be born again (140:6.2) (142:6.4-5)
-		I have not come to destroy but to fulfill (140:6.2)
-		return good for evil (140:6.9)
-		let not left hand know what right hand does (140:6.11)
-		Father knows what you need even before you ask (140:6.11)
-		lay not up treasures on earth (140:6.11)
-		where your treasure is, your heart is also (140:6.11) (165:4.5) (165:5.4)
-		be not anxious for your lives (140:6.13)
-		sufficient for the day is trouble thereof (140:6.13)
-		render to Caesar the things that are Caesar’s (140:8.9) (156:5.16) (174:2.2) (178:1.3) (181:2.10)
-		judge not that you be not judged (140:8.12) (145:2.6)
-		be wise as serpents and harmless as doves (140:8.13) (140:9.3) (163:1.3) (178:1.7)
-		laborer is worthy of his hire (140:9.3) (163:1.3)
-		what shall it profit you to gain the world and lose your soul? (140:8.17) (158:7.5) (165:4.9)
-		be not concerned about what you should say (140:9.3) (165:3.7) (176:1.1)
-		I will go before you (140:9.3) (181:2.24,26) (193:2.2)
-		become as little children to enter kingdom (140:10.4)
-		my yoke is easy and burden is light (141:3.7) (159:3.7)
-		resist not evil (141:3.8)
-		do not strive with men – always be patient (141:6.4)
-		when did I teach that you should all see alike? (141:5.1)
-		it is not your kingdom; you are only ambassadors (141:6.4)
-		Spirit witnesses with your spirits that you are children of God (142:5.3)
-		truth shall make you free (141:7.6) (162:7.2)
-		my spirit shall go before you (142:7.17) (178:1.7)
-		unless you are born again, you shall not enter kingdom (142:6.4-5) (166:3.7)
-		he who rules his self is greater than he who captures city (143:2.3)
-		old things pass away; all things become new (143:2.3)
-		by the new way you are first transformed by Spirit of Truth (143:2.4)
-		doubt not Father’s love and mercy (143:2.7)
-		best method to solve some problems is to forsake them for a time (143:3.3)
-		God is spirit; worship him in spirit and in truth (143:5.6) (169:4.6,11)
-		I have meat to eat that you know not of (143:6.1)
-		fields are white for harvest (143:6.1)
-		prayer is breath of soul (144:2.3) (144:4.7)
-		ask and you shall be given (144:2.3) (165:5.3) (167:5.2) (168:4.13)
-		hate is shadow of fear (145:3.4)
-		Sabbath is made for man, not man for Sabbath (147:6.4)
-		do not attach new teachings to old (147:7.2) (176:1.7)
-		harvest is plenteous but laborers are few (150:4.1) (163:1.3)
-		disciple is not above his master (150:4.2) (157:6.8) (179:3.8) (180:3.1)
-		nothing hidden that shall not be revealed (150:4.2) (151:3.1) (165:3.2-3)
-		fear not those who can kill the body (150:4.2) (165:3.3)
-		no sparrow is forgotten in God’s sight (150:4.3)
-		hairs of your head are all numbered (150:4.3) (165:3.4)
-		he who loves parents, wife, husband, children more than gospel is not worthy (150:4.3) (163:3.4) (171:2.2)
-		to every one who has, more shall be given (151:1.4) (151:3.1) (171:8.7) (176:3.5)
-		many stand at parting of ways (153:1.2-3)(153:2.5)(153:4.4)
-		choose this day whom you will serve (153:2.5)
-		blind leading the blind (153:3.5) (175:1.15)
-		he who is not with me is against me (153:4.3) (159:2.2)
-		spirit quickens; the flesh is of little profit (153:5.4)
-		I have no mother (154:6.5)
-		disown the past (154:6.8)
-		inasmuch as you do it to the least, you do it to me (155:3.4) (176:3.5)
-		strain out the gnat and swallow the camel (156:2.8) (175:1.17) (185:0.4)
-		overcome evil with good (156:5.5)
-		who do men say that I am? (157:3.3)
-		before Abraham was, I am (157:6.11) (161:2.9) (162:7.6)
-		as Father sent me, so send I you (157:6.13) (178:3.2) (182:1.5) (191:5.3) (191:6.3) (193:3.2)
-		he who has seen me has seen Father (157:6.13) (169:4.2,9-13) (174:5.7) (180:3.9) (181:2.20)
-		all things are possible to him who believes (158:5.2)
-		be not ashamed of me and my words (158:7.5)
-		he who humbles himself shall be exalted (158:8.1)
-		he who receives me receives Him who sent me (158:8.1) (162:2.3)
-		where 2 or 3 are gathered together, there am I (159:1.3)
-		he who is not against us is for us (159:2.1)
-		I stand at door and knock (159:3.2)
-		he who wishes to be disciple must disregard himself and follow me (159:5.10)
-		I have come that you may have life (162:2.7) (165:2.8) (182:1.3)
-		I am the light of the world (162:5.2-3) (165:3.7) (174:5.7) (182:1.12)
-		he who deliberately rejects light shall die in sin (162:5.3)
-		he who rejects me rejects Him who sent me (163:1.4) (174:5.3) (180:3.1-2) (180:6.1)
-		let others bury the dead (163:2.2)
-		no man, having put hand to plough, can turn back (163:2.3)
-		first shall be last (163:3.4) (166:3.5)
-		many prophets desired to see what you see (163:6.4)
-		woe upon you (163:6.5) (166:1.4-5) (175:1sec) (175:4.2)
-		be not weary in well-doing (163:6.7) (174:0.2) (192:2.9)
-		I am the good shepherd (165:2.7) (182:1.16) (188:5.1)
-		I am the door to eternal life (165:2.7) (166:3.3,7)
-		life does not consist of possessions (165:4.1)
-		be not anxious about temporal things (165:5.2)
-		consider the lilies, how they grow (165:5.3)
-		seek the greater and lesser shall be found therein (165:5.3)
-		to whom much is given, much is required (165:6.3)
-		sit not in chief seat (167:1.5)
-		he who exalts himself shall be humbled (167:1.5) (167:5.1) (175:1.10)
-		suffer little children to come unto me (167:6.1)
-		I am the resurrection and the life (168:0.7) (168:2.7) (171:3.5) (182:1.18) (193:1.2)
-		children of world are wiser than children of light (169:2.1)
-		he who is faithful in little will be faithful in much (169:2.6)
-		you cannot serve God and mammon (169:2.7)
-		how often would I have gathered your children? (171:4.7)
-		poor you have always with you (172:1.6)
-		stone which builders rejected (173:4.4)
-		put not your trust in the arm of the flesh (174:0.2)
-		remain unshaken when you cannot see the way (174:0.2)
-		judge not by outward appearances (174:0.2)
-		walk by faith and not by sight (174:0.2)
-		cease to be attracted by unreal material shadows (174:0.2)
-		beware slippery paths of flattery (174:0.2)
-		love God with all your heart, soul, mind, and strength (174:4.2)
-		love glory of God, not men (174:5.3)
-		I came not to judge the world, but to offer salvation (174:5.7)
-		no peace between light and darkness, truth and error (175:1.2)
-		sin of rulers is saying what is good but doing it not (175:1.8) (184:1.5)
-		call no man Father in spiritual sense (175:1.10)
-		seek not self-glorification but glory of God (175:1.10)
-		take heed no man deceive you (176:1.1)
-		false teachers will arise and lead many astray (176:1.4)
-		I will return. See Jesus: second coming (176:2.3)
-		you cannot stand still in affairs of kingdom (176:3.5)
-		in faithfulness do what is intrusted to you (176:3.6)
-		love one another even as I have loved you (178:1.17) (180:1sec) (180:6.1) (181:2.26,30) (182:1.6) (193:3.2)
-		I am with you always (178:2.4) (191:3.1) (191:4.4) (191:6.3) (192:2.11) (193:0.5) (193:1.2)
-		be you all as brethren (179:5.7) (190:4.1)
-		as oft as you do this, do it in remembrance of me (179:5.9)
-		I am the real vine (180:2.1) (182:1.22)
-		abide in me, and I in you (180:2.1)
-		I am in you (180:4.2)
-		those who kill you think they do God service (180:6.1)
-		he who rejects you refuses to receive me (180:6.1)
-		Father himself loves you (180:6.8)
-		as many as receive spirit shall be enlightened, cleansed, comforted (181:1.4)
-		in this world you shall have tribulation (181:1.6)
-		they who fight with sword perish with sword (181:2.11) (183:3.7)
-		possess your soul in patience (181:2.15)
-		working with me, all things are sacred (181:2.19)
-		eye has not seen, nor ear heard (181:2.20)
-		be one in spirit (182:1.4)
-		I am the desire of all ages (182:1.13)
-		all things work together for glory of God and salvation of men (182:2.1)
-		spirit is willing but flesh is weak (182:3.4)
-		Father, forgive them, for they know not what they do (187:2.4) (188:5.6)
-		greater love has no man (188:5.7)
-		be not doubting; have courage to believe what you have seen and heard (189:5.4)
-		peace be upon you (190:3.1) (191:2.1) (191:4.3) (191:5.3) (191:6.2) (192:4.3) (193:0.2) (193:2.2) (193:3.2)
-		cease to think about yourself and the troubles of the hour (191:1.2)
-		love all men as I have loved you (191:4.3) (191:5.3) (191:6.2) (192:2.4) (193:0.5) (193:5.2)
-		serve all men as I have served you (191:4.3) (191:6.2) (192:2.2,10) (193:0.5) (193:1.2) (193:5.2)
-		stumble not into suspicion and intolerance (191:4.3)
-		fear not the resistance of evil (191:4.4)
-		reveal divine love not merely with words, but in life (191:5.3) (191:6.2)
-		love not the souls of men; love men (191:5.3)
-		let faith reveal your light to world (191:5.3)
-		I require of my disciples a life of loving service (191:5.3)
-		blessed are those who believe without seeing (191:5.5)
-		preach gospel without fear or favor (192:2.2,11-12)
-		be on guard at all times – watch and pray (192:2.3)
-		be not concerned what your brethren shall do (192:2.5)
-		weigh consequences of your sayings and doings (192:2.8)
-		lessen disappointment by expecting less of some (192:2.10)
-		proclaim whole gospel, not just part (193:0.4)
-		that which the world needs most to know is men are sons of God (193:0.4)
-		worship God in spirit and in truth (193:1.2)
-		my love overshadows you (193:5.2)
-		Father is living and loving spirit (195:10.4)
-		why do you call me good? (196:0.9) (196:2.2)
+		* I am the way, the truth, and the life (7:5.1) (21:6.4) (52:5.4) (141:7.4) (166:3.7) (180:3.7) (182:1.20)
+		* it is finished! (21:4.5) (187:5.5-6)
+		* well done, good and faithful servant (25:1.6)
+		* it is more blessed to give than to receive (28:6.18) (100:7.10) (103:2.9) (140:8.18)
+		* greatest is he who serves (28:6.18) (56:10.14) (137:8.11) (140:1.6) (158:6.3) (171:0.6) (179:3.9)
+		* in Father’s house are many abodes (30:4.17) (178:3.4) (180:3.4) (180:6.3)
+		* whosoever drinks of living water shall never thirst (34:6.8) (143:5.3)
+		* get you behind me, Satan (53:8.4)
+		* think not that I have come to bring peace (52:6.1) (150:4.3) (160:5.10) (165:6.3) (180:0.2) (180:6.1)
+		* preach gospel to all the world (95:7.3) (100:7.6) (140:9.2) (163:4.2) (165:6.3) (182:1.5) (190:3.1) (190:4.1) (191:1.2) (191:4.4) (191:5.3) (191:6.3) (192:2.11-12) (193:0.5) (193:1.2) (193:2.2) (193:3.2) (193:5.2)
+		* whosoever will, let him come (100:7.6)
+		* who among you convicts me of sin (100:7.16)
+		* be of good cheer (100:7.9) (153:5.4) (181:1.6)
+		* freely you have received, freely give (100:7.10) (140:9.2) (159:1.5) (163:1.4) (176:3.10) (191:4.4) (193:0.5)
+		* seek and you shall find (100:7.10) (144:2.3)
+		* fear not (100:7.15) (140:8.20) (165:3.3) (166:3.5)
+		* love your enemies (103:5.2) (140:3.15) (140:8.6) (174:0.2)
+		* he who will save his life shall lose it (103:5.6) (140:5.19) (158:7.5) (160:5.10) (174:5.8)
+		* if I be lifted up I will draw all men to myself (108:4.1) (157:6.10) (174:5.13) (195:10.1)
+		* no man can serve two masters (109:5.4) (140:6.13) (163:3.1) (169:2.7)
+		* not my will but yours be done (109:6.5) (111:5.6) (136:10.1) (160:1.11) (174:5.9) (182:3.4)
+		* I am the living way (117:3.3)
+		* it is my will that your will be done (118:8.11)
+		* I am the bread of life (121:5.12) (153:2.8-12) (179:5.3) (182:1.10)
+		* I am the living water (121:5.12) (143:5.4) (182:1.11)
+		* none has done aught but what he thought best (125:6.8)
+		* money cannot love (127:2.8) (127:5.3)
+		* day by day we are strengthened by hope of better days (127:3.14)
+		* let us who have seen the light no longer approach Father by darkness (127:6.6)
+		* we cannot eat another’s bread as long as I have strong arms (128:5.4) (140:8.2)
+		* be wise in your counsel and eloquent in your lives (128:7.4)
+		* flight from duty is sacrifice of truth (130:1.2)
+		* no man is stranger to one who knows God (130:2.6)
+		* time alone ripens fruit on tree (130:5.3)
+		* my tomorrow is in Father’s hands (130:5.3)
+		* not with words but with longing looks did you ask (130:6.2)
+		* all things possible with God (131:10.2) (163:3.2) (182:3.2)
+		* you cannot reveal God to those who do not seek (132:7.2)
+		* I do not believe any real harm can befall me (133:1.4)
+		* you should not presume thus to speak to children of God (133:3.6)
+		* work as for God (133:4.8) (192:2.13)
+		* it behooves me to keep busy awaiting my hour (134:9.6)
+		* suffer me also this, for it becomes us to fulfill all righteousness (135:11.4)
+		* tell no man (136:8.1) (137:5.1) (138:8.2-5) (139:9.7) (144:1.6) (145:0.3) (146:4.4) (148:4.11) (149:1.2) (152:1.2) (156:1.7) (157:3.6) (157:4.5) (158:2.1,3) (159:4.2) (166:2.8) (177:1.5) (178:2.3)
+		* be not mindful of things which foster anxiety (137:1.6)
+		* follow me (137:2.5,7) (138:3.1,3) (138:4.1) (138:5.1) (139:5.1) (139:7.6) (196:1.3)
+		* we must in all things wait upon Father’s will (137:4.8)
+		* be patient (137:6.3,5) (137:7.3)
+		* kingdom is not to come with noise and glamour (137:6.5) (140:1.5)
+		* make yourselves ready for call of the kingdom (137:6.5)
+		* only through much tribulation will many enter kingdom (137:6.5)
+		* do not entertain false hope (137:6.5)
+		* Father and I are one (137:6.6) (142:7.13) (153:2.11-12) (153:3.2) (157:6.13) (161:2.9) (164:5.2) (169:4.2) (180:2.1) (180:3.9) (180:4.3) (182:1.6) (184:4.6)
+		* neither Jew nor gentile, rich nor poor, in kingdom (137:8.6) (138:4.2) (140:1.2) (143:1.5)
+		* God is no respecter of persons (137:8.6)
+		* kingdom is not of this world (137:8.7) (138:7.1) (138:8.7,9) (157:6.12) (158:6.2) (171:8.3) (172:3.6) (176:2.3) (185:3.3) (190:5.4)
+		* unless you become as little children you cannot enter the kingdom (137:8.8) (196:0.12)
+		* be you perfect as Father is perfect (137:8.13) (140:2.16) (140:5.3,15) (140:8.32) (140:10.1) (142:7.13) (161:1.10) (181:2.25)
+		* kingdom is worth whatever it costs to enter (137:8.14)
+		* I have come to call sinners, the lost (137:8.16) (138:3.6) (157:6.9)
+		* seek sinners, find downtrodden, comfort anxious (138:6.4)
+		* become fishers of men (138:7.6)
+		* speak not hearsay (138:8.4)
+		* come to me all you who labor (139:7.7) (141:3.7) (144:8.8) (163:6.7) (165:3.8)
+		* peace on earth and good will to all men (140:1.3)
+		* not every man who says, “Lord, Lord” shall enter kingdom (140:1.4)
+		* seek first the kingdom (140:1.5) (140:6.13) (196:0.8)
+		* kingdom is within you (140:1.5) (170:1.13) (170:2.9) (170:3.11) (195:10.4)
+		* more is expected of teacher than pupil (140:3.1)
+		* happy are the poor in spirit (140:3.3-11)
+		* let your light so shine before men (140:3.13)
+		* trust in the Father whose messengers you are (140:3.14)
+		* if your neighbor smites you on your right cheek (140:3.14) (159:5.9)
+		* what you believe that I would do, do you also (140:3.15)
+		* you are commissioned to save men, not to judge them (140:3.17)
+		* cast not your pearls before swine (140:3.18) (186:2.2)
+		* tree is known by its fruit (140:3.19) (140:8.22) (142:5.2) (153:4.4)
+		* my peace I leave with you (140:5.18) (181:1.5) (182:2.2) (191:4.4) (193:0.5) (193:2.2) (193:5.2)
+		* let not your hearts be troubled (140:5.18) (180:3.4) (181:1.5,9) (182:2.1)
+		* you must be born again (140:6.2) (142:6.4-5)
+		* I have not come to destroy but to fulfill (140:6.2)
+		* return good for evil (140:6.9)
+		* let not left hand know what right hand does (140:6.11)
+		* Father knows what you need even before you ask (140:6.11)
+		* lay not up treasures on earth (140:6.11)
+		* where your treasure is, your heart is also (140:6.11) (165:4.5) (165:5.4)
+		* be not anxious for your lives (140:6.13)
+		* sufficient for the day is trouble thereof (140:6.13)
+		* render to Caesar the things that are Caesar’s (140:8.9) (156:5.16) (174:2.2) (178:1.3) (181:2.10)
+		* judge not that you be not judged (140:8.12) (145:2.6)
+		* be wise as serpents and harmless as doves (140:8.13) (140:9.3) (163:1.3) (178:1.7)
+		* laborer is worthy of his hire (140:9.3) (163:1.3)
+		* what shall it profit you to gain the world and lose your soul? (140:8.17) (158:7.5) (165:4.9)
+		* be not concerned about what you should say (140:9.3) (165:3.7) (176:1.1)
+		* I will go before you (140:9.3) (181:2.24,26) (193:2.2)
+		* become as little children to enter kingdom (140:10.4)
+		* my yoke is easy and burden is light (141:3.7) (159:3.7)
+		* resist not evil (141:3.8)
+		* do not strive with men – always be patient (141:6.4)
+		* when did I teach that you should all see alike? (141:5.1)
+		* it is not your kingdom; you are only ambassadors (141:6.4)
+		* Spirit witnesses with your spirits that you are children of God (142:5.3)
+		* truth shall make you free (141:7.6) (162:7.2)
+		* my spirit shall go before you (142:7.17) (178:1.7)
+		* unless you are born again, you shall not enter kingdom (142:6.4-5) (166:3.7)
+		* he who rules his self is greater than he who captures city (143:2.3)
+		* old things pass away; all things become new (143:2.3)
+		* by the new way you are first transformed by Spirit of Truth (143:2.4)
+		* doubt not Father’s love and mercy (143:2.7)
+		* best method to solve some problems is to forsake them for a time (143:3.3)
+		* God is spirit; worship him in spirit and in truth (143:5.6) (169:4.6,11)
+		* I have meat to eat that you know not of (143:6.1)
+		* fields are white for harvest (143:6.1)
+		* prayer is breath of soul (144:2.3) (144:4.7)
+		* ask and you shall be given (144:2.3) (165:5.3) (167:5.2) (168:4.13)
+		* hate is shadow of fear (145:3.4)
+		* Sabbath is made for man, not man for Sabbath (147:6.4)
+		* do not attach new teachings to old (147:7.2) (176:1.7)
+		* harvest is plenteous but laborers are few (150:4.1) (163:1.3)
+		* disciple is not above his master (150:4.2) (157:6.8) (179:3.8) (180:3.1)
+		* nothing hidden that shall not be revealed (150:4.2) (151:3.1) (165:3.2-3)
+		* fear not those who can kill the body (150:4.2) (165:3.3)
+		* no sparrow is forgotten in God’s sight (150:4.3)
+		* hairs of your head are all numbered (150:4.3) (165:3.4)
+		* he who loves parents, wife, husband, children more than gospel is not worthy (150:4.3) (163:3.4) (171:2.2)
+		* to every one who has, more shall be given (151:1.4) (151:3.1) (171:8.7) (176:3.5)
+		* many stand at parting of ways (153:1.2-3)(153:2.5)(153:4.4)
+		* choose this day whom you will serve (153:2.5)
+		* blind leading the blind (153:3.5) (175:1.15)
+		* he who is not with me is against me (153:4.3) (159:2.2)
+		* spirit quickens; the flesh is of little profit (153:5.4)
+		* I have no mother (154:6.5)
+		* disown the past (154:6.8)
+		* inasmuch as you do it to the least, you do it to me (155:3.4) (176:3.5)
+		* strain out the gnat and swallow the camel (156:2.8) (175:1.17) (185:0.4)
+		* overcome evil with good (156:5.5)
+		* who do men say that I am? (157:3.3)
+		* before Abraham was, I am (157:6.11) (161:2.9) (162:7.6)
+		* as Father sent me, so send I you (157:6.13) (178:3.2) (182:1.5) (191:5.3) (191:6.3) (193:3.2)
+		* he who has seen me has seen Father (157:6.13) (169:4.2,9-13) (174:5.7) (180:3.9) (181:2.20)
+		* all things are possible to him who believes (158:5.2)
+		* be not ashamed of me and my words (158:7.5)
+		* he who humbles himself shall be exalted (158:8.1)
+		* he who receives me receives Him who sent me (158:8.1) (162:2.3)
+		* where 2 or 3 are gathered together, there am I (159:1.3)
+		* he who is not against us is for us (159:2.1)
+		* I stand at door and knock (159:3.2)
+		* he who wishes to be disciple must disregard himself and follow me (159:5.10)
+		* I have come that you may have life (162:2.7) (165:2.8) (182:1.3)
+		* I am the light of the world (162:5.2-3) (165:3.7) (174:5.7) (182:1.12)
+		* he who deliberately rejects light shall die in sin (162:5.3)
+		* he who rejects me rejects Him who sent me (163:1.4) (174:5.3) (180:3.1-2) (180:6.1)
+		* let others bury the dead (163:2.2)
+		* no man, having put hand to plough, can turn back (163:2.3)
+		* first shall be last (163:3.4) (166:3.5)
+		* many prophets desired to see what you see (163:6.4)
+		* woe upon you (163:6.5) (166:1.4-5) (175:1sec) (175:4.2)
+		* be not weary in well-doing (163:6.7) (174:0.2) (192:2.9)
+		* I am the good shepherd (165:2.7) (182:1.16) (188:5.1)
+		* I am the door to eternal life (165:2.7) (166:3.3,7)
+		* life does not consist of possessions (165:4.1)
+		* be not anxious about temporal things (165:5.2)
+		* consider the lilies, how they grow (165:5.3)
+		* seek the greater and lesser shall be found therein (165:5.3)
+		* to whom much is given, much is required (165:6.3)
+		* sit not in chief seat (167:1.5)
+		* he who exalts himself shall be humbled (167:1.5) (167:5.1) (175:1.10)
+		* suffer little children to come unto me (167:6.1)
+		* I am the resurrection and the life (168:0.7) (168:2.7) (171:3.5) (182:1.18) (193:1.2)
+		* children of world are wiser than children of light (169:2.1)
+		* he who is faithful in little will be faithful in much (169:2.6)
+		* you cannot serve God and mammon (169:2.7)
+		* how often would I have gathered your children? (171:4.7)
+		* poor you have always with you (172:1.6)
+		* stone which builders rejected (173:4.4)
+		* put not your trust in the arm of the flesh (174:0.2)
+		* remain unshaken when you cannot see the way (174:0.2)
+		* judge not by outward appearances (174:0.2)
+		* walk by faith and not by sight (174:0.2)
+		* cease to be attracted by unreal material shadows (174:0.2)
+		* beware slippery paths of flattery (174:0.2)
+		* love God with all your heart, soul, mind, and strength (174:4.2)
+		* love glory of God, not men (174:5.3)
+		* I came not to judge the world, but to offer salvation (174:5.7)
+		* no peace between light and darkness, truth and error (175:1.2)
+		* sin of rulers is saying what is good but doing it not (175:1.8) (184:1.5)
+		* call no man Father in spiritual sense (175:1.10)
+		* seek not self-glorification but glory of God (175:1.10)
+		* take heed no man deceive you (176:1.1)
+		* false teachers will arise and lead many astray (176:1.4)
+		* I will return | See Jesus: second coming (176:2.3)
+		* you cannot stand still in affairs of kingdom (176:3.5)
+		* in faithfulness do what is intrusted to you (176:3.6)
+		* love one another even as I have loved you (178:1.17) (180:1sec) (180:6.1) (181:2.26,30) (182:1.6) (193:3.2)
+		* I am with you always (178:2.4) (191:3.1) (191:4.4) (191:6.3) (192:2.11) (193:0.5) (193:1.2)
+		* be you all as brethren (179:5.7) (190:4.1)
+		* as oft as you do this, do it in remembrance of me (179:5.9)
+		* I am the real vine (180:2.1) (182:1.22)
+		* abide in me, and I in you (180:2.1)
+		* I am in you (180:4.2)
+		* those who kill you think they do God service (180:6.1)
+		* he who rejects you refuses to receive me (180:6.1)
+		* Father himself loves you (180:6.8)
+		* as many as receive spirit shall be enlightened, cleansed, comforted (181:1.4)
+		* in this world you shall have tribulation (181:1.6)
+		* they who fight with sword perish with sword (181:2.11) (183:3.7)
+		* possess your soul in patience (181:2.15)
+		* working with me, all things are sacred (181:2.19)
+		* eye has not seen, nor ear heard (181:2.20)
+		* be one in spirit (182:1.4)
+		* I am the desire of all ages (182:1.13)
+		* all things work together for glory of God and salvation of men (182:2.1)
+		* spirit is willing but flesh is weak (182:3.4)
+		* Father, forgive them, for they know not what they do (187:2.4) (188:5.6)
+		* greater love has no man (188:5.7)
+		* be not doubting; have courage to believe what you have seen and heard (189:5.4)
+		* peace be upon you (190:3.1) (191:2.1) (191:4.3) (191:5.3) (191:6.2) (192:4.3) (193:0.2) (193:2.2) (193:3.2)
+		* cease to think about yourself and the troubles of the hour (191:1.2)
+		* love all men as I have loved you (191:4.3) (191:5.3) (191:6.2) (192:2.4) (193:0.5) (193:5.2)
+		* serve all men as I have served you (191:4.3) (191:6.2) (192:2.2,10) (193:0.5) (193:1.2) (193:5.2)
+		* stumble not into suspicion and intolerance (191:4.3)
+		* fear not the resistance of evil (191:4.4)
+		* reveal divine love not merely with words, but in life (191:5.3) (191:6.2)
+		* love not the souls of men; love men (191:5.3)
+		* let faith reveal your light to world (191:5.3)
+		* I require of my disciples a life of loving service (191:5.3)
+		* blessed are those who believe without seeing (191:5.5)
+		* preach gospel without fear or favor (192:2.2,11-12)
+		* be on guard at all times – watch and pray (192:2.3)
+		* be not concerned what your brethren shall do (192:2.5)
+		* weigh consequences of your sayings and doings (192:2.8)
+		* lessen disappointment by expecting less of some (192:2.10)
+		* proclaim whole gospel, not just part (193:0.4)
+		* that which the world needs most to know is men are sons of God (193:0.4)
+		* worship God in spirit and in truth (193:1.2)
+		* my love overshadows you (193:5.2)
+		* Father is living and loving spirit (195:10.4)
+		* why do you call me good? (196:0.9) (196:2.2)
 	application of teachings
 		do not literally apply to material affairs (140:6.8) (140:8.10) (140:10.2-4) (142:7.17) (147:4.2-3)
 		to individual, not state (140:8.5-11) (145:2.10)
@@ -1041,25 +1041,25 @@ family
 	J.’ abdication as head of Joseph’s house (128:7.13)
 	J.’ moral and spiritual training obtained from Joseph and Mary (123:5.8)
 	J.’ relations with siblings (124:4.3)
-	members of Jesus’ family. See Amos (brother of Jesus); James (brother of Jesus); Joseph (brother of Jesus); Joseph (father of Jesus); Jude; Martha (sister of Jesus); Mary (mother of Jesus); Miriam (sister of Jesus); Ruth (sister of Jesus)
+	members of Jesus’ family | See Amos (brother of Jesus); James (brother of Jesus); Joseph (brother of Jesus); Joseph (father of Jesus); Jude; Martha (sister of Jesus); Mary (mother of Jesus); Miriam (sister of Jesus); Ruth (sister of Jesus)
 	Nazareth home described (122:5.9) (122:6sec) (123:2.14) (126:5.11)
 	no penalty for violation of personal teachings (127:4.5)
 	residences after resurrection (190:1.10)
-miracles and healings. See also healing; miracles
+miracles and healings | See also healing; miracles
 	100 beneficiaries of unconscious healing by J. (149:1.2-8)
 	Adjuster unable to limit time manifestations (136:5.4-6)
 	apparent miracles and healings
-		Amatha, mother-in-law of Peter (145:2.15-17)
-		catching 153 fish in Sea of Galilee (192:1.3,7)
-		dissolution of J.’ mortal remains (189:2sec)
-		draught of fishes (145:1sec)
-		epileptic in Capernaum (145:2.12-14)
-		fish with shekel in mouth (157:1.4)
-		men at pool of Bethesda (147:3.4-5)
-		quieting storm on Sea of Galilee (151:5sec)
-		water into wine at Cana (137:4.13)
-		widow’s son at Nain (146:6.2-3)
-		woman with spirit of infirmity (167:3.1-2,5)
+		* Amatha, mother-in-law of Peter (145:2.15-17)
+		* catching 153 fish in Sea of Galilee (192:1.3,7)
+		* dissolution of J.’ mortal remains (189:2sec)
+		* draught of fishes (145:1sec)
+		* epileptic in Capernaum (145:2.12-14)
+		* fish with shekel in mouth (157:1.4)
+		* men at pool of Bethesda (147:3.4-5)
+		* quieting storm on Sea of Galilee (151:5sec)
+		* water into wine at Cana (137:4.13)
+		* widow’s son at Nain (146:6.2-3)
+		* woman with spirit of infirmity (167:3.1-2,5)
 	approach miracles through J., not J. through miracles (149:2.7)
 	Creator prerogatives inseparable from J.’ personal presence (120:2.9) (137:4.17)
 	Creator Sons have almost unlimited healing powers (149:1.6)
@@ -1073,36 +1073,36 @@ miracles and healings. See also healing; miracles
 	of mind and spirit occur in expectant faith-dominated persons (148:2.2) (149:1.1,8)
 	perception that living energy had gone forth (152:0.2)
 	real miracles and healings
-		Aaron the stone mason’s withered hand (148:7sec)
-		Amos, the Kheresa lunatic (151:6sec)
-		Bartimeus at Jericho (171:5sec)
-		centurion’s servant (147:1.1-4)
-		daughter of Norana (156:1sec)
-		epileptic son of James of Safed (158:4-5secs)
-		evil spirit cast out in Capernaum (153:4.1)
-		feeding the 5000 (152:2sec) (152:3.1) (152:5.2)
-		healing of 683 at sundown (145:3.10,13)
-		Jairus’s daughter (152:1.1-3)
-		Josiah’s sight restored (164:3sec)
-		leper at Iron ( J.’ first deliberate miracle) (146:4.3-5)
-		man with dropsy (167:1.5)
-		paralytic at Capernaum (148:9sec)
-		resurrection of himself (189:0-2secs)
-		resurrection of Lazarus (greatest miracle) (168:1.5,9)
-		ten lepers (166:2sec)
-		Titus’s son (146:5.1-3)
-		Veronica’s hemorrhage (152:0.2-3)
+		* Aaron the stone mason’s withered hand (148:7sec)
+		* Amos, the Kheresa lunatic (151:6sec)
+		* Bartimeus at Jericho (171:5sec)
+		* centurion’s servant (147:1.1-4)
+		* daughter of Norana (156:1sec)
+		* epileptic son of James of Safed (158:4-5secs)
+		* evil spirit cast out in Capernaum (153:4.1)
+		* feeding the 5000 (152:2sec) (152:3.1) (152:5.2)
+		* healing of 683 at sundown (145:3.10,13)
+		* Jairus’s daughter (152:1.1-3)
+		* Josiah’s sight restored (164:3sec)
+		* leper at Iron ( J.’ first deliberate miracle) (146:4.3-5)
+		* man with dropsy (167:1.5)
+		* paralytic at Capernaum (148:9sec)
+		* resurrection of himself (189:0-2secs)
+		* resurrection of Lazarus (greatest miracle) (168:1.5,9)
+		* ten lepers (166:2sec)
+		* Titus’s son (146:5.1-3)
+		* Veronica’s hemorrhage (152:0.2-3)
 	Sanhedrin said J. did miracles by power of devils (169:0.7)
 	situation can never again occur (136:9.3) (152:1.4-5)
 	used not to tempt people into kingdom, but to reveal Father to those already in (145:5.6-7) (167:1.5) (172:3.1)
 names or titles (128:1.10-11) (129:1.11) (134:7.2-3) (141:3.5) (149:2.12) (172:3.10,13) (172:4.1)
-	God’s Galilean (196:0.9)
-	Joshua ben Joseph (122:2.1) (122:3.1) (122:8.2) (128:1.2) (134:8.6)
-	king of the Jews (185:2.13) (185:3.1-4) (185:5.6,9) (185:6.2) (185:7.5) (185:8.1) (186:2.8) (187:1.2-3) (187:2.5) (187:3.3-4)
-	Planetary Prince of Urantia (45:4.16) (93:0.2) (93:9.11) (93:10.6) (136:3.1) (176:4.4)
-	priest after order of Melchizedek (93:3.7)
-	Prince of Peace (68:3.5) (137:8.7)
-	Son of Man and Son of God (40:7.2)
+	* God’s Galilean (196:0.9)
+	* Joshua ben Joseph (122:2.1) (122:3.1) (122:8.2) (128:1.2) (134:8.6)
+	* king of the Jews (185:2.13) (185:3.1-4) (185:5.6,9) (185:6.2) (185:7.5) (185:8.1) (186:2.8) (187:1.2-3) (187:2.5) (187:3.3-4)
+	* Planetary Prince of Urantia (45:4.16) (93:0.2) (93:9.11) (93:10.6) (136:3.1) (176:4.4)
+	* priest after order of Melchizedek (93:3.7)
+	* Prince of Peace (68:3.5) (137:8.7)
+	* Son of Man and Son of God (40:7.2)
 personality and nature (100:7sec)
 	author and finisher of our faith (196:2.1)
 	God incarnate in man (0:5.3) (2:1.7) (4:5.7) (6:1.4) (6:8.6) (7:7.6) (12:7.14) (32:0.3) (33:1.4) (98:7.2) (112:2.7) (117:3.4) (120:4.2-3) (124:4.4) (128:1.2,9-10) (129:4.6) (136:1.6) (137:4.2) (137:7.2) (138:5.2) (141:7.4) (156:2.4) (157:5sec) (182:1.9) (196:0.3) (196:1.1-2) (196:2.3,6)
@@ -1123,11 +1123,11 @@ personality and nature (100:7sec)
 	traits (Paper 196) (124:2.4-5) (126:2.7) (127:3.7) (127:4.4) (127:6.12-16) (129:1.9) (129:3.8) (129:4sec) (136:0.1) (137:4.2,4) (137:7.2) (138:8.9) (139:1.11) (139:2.5) (139:3.6) (139:4.6,9) (139:5.6) (139:6.8) (139:7.4) (139:8.7) (139:9.6-7) (139:11.5) (140:8.30) (141:3.4-6) (141:7.10-14) (142:7.15) (143:2.1) (149:2.6-14) (149:4.5) (151:0.2) (161:2sec) (171:7sec) (173:1.6) (181:1.8-9) (184:3.19) (184:4.5-6) (186:2sec) (186:4.3) (187:2.3-4) (194:3.3)
 	traits inherited from Joseph and Mary (122:5.3-4)
 	unreservedly dedicated to Father’s business (100:7.12)
-	Word made flesh. See word of God
+	Word made flesh | See word of God
 physical description (123:2.15) (127:1.2-3) (127:5.1) (128:6.2,11) (187:2.8)
 	pictures have been most unfortunate (141:3.6)
 	voice was musical, fascinating, authoritative (125:5.1) (127:1.2) (154:6.5) (162:6.2) (183:3.5) (190:2.3)
-purpose of life. See also Michael of Nebadon: bestowals: 7th (Urantia bestowal)
+purpose of life | See also Michael of Nebadon: bestowals: 7th (Urantia bestowal)
 	in human contacts (132:4.1)
 	that we have abundant life (157:6.2)
 	to be world’s deliverer (122:4.2)
@@ -1166,7 +1166,7 @@ skills of Jesus
 	storytelling (126:2.6) (130:7.1)
 	tentmaking (134:7.3)
 	yoke making (124:1.7) (126:1.1)
-Son of God. See Jesus: nature of Jesus: God incarnate in man
+Son of God | See Jesus: nature of Jesus: God incarnate in man
 Son of Man q.v.
 spiritual accomplishments
 	achieved all of sonship we will one day attain (142:7.13)
@@ -1183,19 +1183,19 @@ writings
 	on sand before husband of Hildana (162:3.5)
 	translation work for merchant of Damascus (128:4.2)
 
-Jethro
+Jethro | | | PERSONA | 
 Moses’ father-in-law (96:5.3)
 
-Jewelry. See ornamentation
+Jewelry | | See ornamentation | | 
 
-Jewish priesthood. See Levites; Sanhedrin
+Jewish priesthood | | See Levites; Sanhedrin | | 
 
-Jewish religion. See Judaism
+Jewish religion | | See Judaism | | 
 
-Jewish tutor
+Jewish tutor | | | | 
 Jesus known as the J.t. at Corinth (129:3.2)
 
-Jews. See also Hebrew language; Jews (ancient Hebrews)
+Jews | | See also Hebrew language; Jews (ancient Hebrews) | RAZA | 
 Judaism apocalyptists taught sufferings due to nation’s sins (135:5.2)
 attitudes
 	chosen people q.v.
@@ -1260,7 +1260,7 @@ political matters
 sorrows of a misunderstood despised people (121:6.7)(155:6.10)
 status of the individual Jew (175:2sec)
 
-Jews (ancient Hebrews). See also Babylonian captivity; Jews
+Jews (ancient Hebrews) | | See also Babylonian captivity; Jews | RAZA | 
 Abraham’s offspring formed nucleus of (96:2.3)
 adoption ceremony (70:3.8)
 beliefs and attitudes
@@ -1294,30 +1294,30 @@ nation was union of Israelites and Canaanites (97:9.1)
 national ego depressed by Babylonian captivity (93:9.9)
 part of older Semitic race which included Babylonians, Phoenicians, and Carthaginians (121:1.1) (121:2.1)
 religion was austere and tyrannical (98:3.2)
-scriptures of. See Old Testament
+scriptures of | See Old Testament
 
-Jezebel (124:6.3)
+Jezebel | (124:6.3) | | PERSONA | 
 Queen of jews from Phoenicia
 
-Jezreel (124:6.1,3) (149:0.1)
+Jezreel | (124:6.1,3) (149:0.1) | | LUGAR | 
 Jesus passed
 
-Joab
+Joab | | | PERSONA | 
 young evangelist; ringleader of plot to make Jesus king (152:2.5) (153:5.2)
 
-Joachim
+Joachim | | | PERSONA | 
 father of Mary mother of Jesus (122:3.3)
 
-Joanna
+Joanna | | | PERSONA | 
 arranged meeting in Herod’s new palace (150:3.1)
 at Jesus’ appearances (190:3.1) (193:0sec)
 discovered empty tomb (189:4.2-14)
 treasurer of women’s corps; wife of Chuza, steward of Herod (150:1.1-2) (154:0.2)
 
-Joash
+Joash | | | PERSONA | 
 boy king; crusaded for Yahweh (97:9.21)
 
-Job, Book of
+Job, Book of | | | | 
 discourse on Job (148:6sec)
 Job was granted a vision of God (148:6.3)
 Job longed for a human God (148:6.7)
@@ -1325,16 +1325,16 @@ protest against Egyptian concept of divine rewards for righteousness (97:8.2)
 reflects Salem school at Kish (95:1.10)
 written over 300 years (96:7.5)
 
-Jogbehah (165:0.1)
+Jogbehah | (165:0.1) | | LUGAR | 
 Perea mission
 
-Johab
+Johab | | | PERSONA | 
 groom of wedding at Cana (137:3.6)
 
-John Hyrcanus
+John Hyrcanus | | | PERSONA | 
 destroyed temple on Mount Gerizim (143:4.2)
 
-John Mark (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1)
+John Mark | (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1) | | PERSONA | 
 approached Jesus with small basket (177:0.4)
 associated with Peter; later, Paul (121:8.3)
 at Jesus’ appearances (192:1,2,4secs)
@@ -1364,8 +1364,8 @@ parents were Elijah and Mary Mark (182:0.1)
 rest day with Jesus (177:1-2secs)
 walked around lake with Jesus (152:5.1)
 
-John the Baptist (Paper 135)
-apostles of. See apostles of John the Baptist
+John the Baptist | (135) | | PERSONA | 
+apostles of | See apostles of John the Baptist
 at baptism of Jesus (135:8.6)
 baptized over 100,000 penitents in 15 months (135:6.4)
 beheaded by Herod (135:12.7)
@@ -1412,9 +1412,9 @@ sooner or later a greater J. is to arise (170:5.19)
 thundered parable of Lazarus and Dives (169:3sec)
 viewed as a prophet (135:6.2) (135:12.2) (173:2.4-5)
 
-John the Revelator. See John Zebedee
+John the Revelator | | See John Zebedee | PERSONA | 
 
-John Zebedee (129:1.12) (139:4sec) (141:7.14) (143:3.5) (143:5.12) (144:1.7) (178:2.6-8) (192:1.3) (192:4.7). See also apostles of Jesus
+John Zebedee | (129:1.12) (139:4) (141:7.14) (143:3.5) (143:5.12) (144:1.7) (178:2.6-8) (192:1.3) (192:4.7) | See also apostles of Jesus | PERSONA | 
 actions
 	baptized by John in December A.D. 25 (135:8.1)
 	became apostle (137:1.5-8)
@@ -1484,22 +1484,22 @@ visions of
 well known to Annas’s older servants (184:0.3)
 youngest apostle, unmarried, from Capernaum; 24 in A.D. 26 (139:4.1) (181:2.2)
 
-Jonah (159:4.4)
+Jonah | (159:4.4) | | PERSONA | 
 Jesus’ discourse on (130:1sec)
 
-Joppa (123:0.4) (128:3.2) (130:0.2) (130:1sec) (134:7.4) (152:7.3)
+Joppa | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | | LUGAR | 
 Jesus here several times
 
-Jordan River
-ford. See Bethany beyond Jordan
+Jordan River | | | LUGAR | 
+ford | See Bethany beyond Jordan
 Jesus’ baptism in (135:8sec)
 poured forth from an underground cave (157:3.1)
 valley was tropical (124:6.5)
 
-Jose
+Jose | | | PERSONA | 
 renowned liberal Nazareth teacher (124:4.8)
 
-Joseph (brother of Jesus) (138:1.4) (154:5.1). See also Jesus: family
+Joseph (brother of Jesus) | (138:1.4) (154:5.1) | See also Jesus: family | PERSONA | 
 apostles stayed with (137:2.9)
 at Jesus’ 4th appearance (190:2.6)
 born March 16, A.D. 1 (123:4.9)
@@ -1513,7 +1513,7 @@ moved into family home in A.D. 24 (134:1.6)
 permitted pride to interfere (154:6.1)
 tentative belief in Jesus (137:3.2)
 
-Joseph (father of Jesus) (122:1sec) (122:5sec). See also Jesus: family
+Joseph (father of Jesus) | (122:1) (122:5) | See also Jesus: family | PERSONA | 
 at Jesus’ first Passover (Paper 125)
 attitude
 	angry with Jesus about Scythopolis games (124:3.8)
@@ -1555,7 +1555,7 @@ work
 	employed as foreman in Alexandria (123:0.1)
 	in Sepphoris (124:5.5)
 
-Joseph of Arimathea (174:5.1) (188:3.3)
+Joseph of Arimathea | (174:5.1) (188:3.3) | | PERSONA | 
 accompanied Jesus to temple (175:0.1)
 believed Jesus would rise from tomb (188:1.2,8)
 boldly claimed body of Jesus from Pilate (142:6.9) (187:6.2) (188:0.3)
@@ -1565,27 +1565,27 @@ embalmed Jesus’ body with myrrh and aloes (188:1.4)
 former Sanhedrin member (188:1.2)
 helped bear body of Jesus to tomb (188:1.3)
 Jesus’ 5th appearance at home of (190:3.1)
-Jesus buried in tomb of. See Jesus: events in life: tomb
+Jesus buried in tomb of | See Jesus: events in life: tomb
 met with Jesus in home of Nicodemus (164:2.1)
 most outspoken disciple of Jesus in Jerusalem (188:1.2)
 visited empty tomb (190:1.2)
 women believers stayed at home of (188:1.7) (189:4.2) (192:0.3)
 
-Joseph of Tyre
+Joseph of Tyre | | | PERSONA | 
 Jesus stayed with (156:4.1-2) (156:6.1)
 
-Joseph (Old Testament)
+Joseph (Old Testament) | | | PERSONA | 
 great-grandson of Abraham; civil administrator in Egypt; firm
 believer in Melchizedek (93:9.5,8)
 political circumstances facilitated promotion of Salem teachings in Egypt (95:3.5)
 sold into Egyptian slavery at Dothan (126:1.2)
 
-Joshua ben Joseph. See Jesus
+Joshua ben Joseph | | See Jesus | PERSONA | 
 
-Joshua (Jesus) See also Jesus
+Joshua (Jesus) | | See also Jesus | PERSONA | 
 Gabriel instructed Mary to name her son (122:3.1) (122:8.2)
 
-Joshua (Old Testament) (124:6.7) (135:6.1) (135:9.5)
+Joshua (Old Testament) | (124:6.7) (135:6.1) (135:9.5) | | PERSONA | 
 came to Jerusalem through Jericho (135:6.1) (172:1.3)
 Jesus quoted (153:2.5)
 lived to enter promised land (166:3.2)
@@ -1593,10 +1593,10 @@ Moses turned over command of Hebrews to (96:5.9)
 preached stern gospel to a disbelieving people (96:6.1,3)
 set up 12 stones by the Jordan (135:6.7)
 
-Joshua the teacher
+Joshua the teacher | | | PERSONA | 
 chapter in Jesus’ life (133:9.6)
 
-Josiah (blind beggar)
+Josiah (blind beggar) | | | PERSONA | 
 became lifelong preacher of gospel (164:5.6)
 before the Sanhedrin (164:4sec)
 cast out of synagogue (164:4.11) (164:5.4-5)
@@ -1604,22 +1604,22 @@ healed by Jesus (164:3sec)
 neither dumb nor lacking in humor (164:4.9)
 parents were poor, fear-ridden souls (164:5.5-7)
 
-Josiah (disciple of Abner)
+Josiah (disciple of Abner) | | | PERSONA | 
 baptized Pharisee (174:4.4)
 
-Josiah (king)
+Josiah (king) | | | PERSONA | 
 destroyed Jerusalem ring of corrupt politicians (97:9.23)
 Egyptians defeated at Megiddo (126:1.2)
 intercepted Necho’s mighty army; was wiped out (97:9.24)
 
-Jotapata (138:9.3) (156:6.2)
+Jotapata | (138:9.3) (156:6.2) | | LUGAR | 
 Jesus’ discourse on prayer at (146:2sec)
 Mary Magdalene and Rebecca ordained at (150:2.3)
 
-Jove
+Jove | | | LUGAR | 
 persists only as exclamation (96:1.14)
 
-joy. See also happiness; peace: spiritual peace
+joy | | See also happiness; peace: spiritual peace | | 
 born of trust in divine word (143:2.7)
 cannot be experienced all by oneself (111:4.7)
 cannot put under microscope (196:3.18)
@@ -1634,22 +1634,22 @@ Spirit of Truth gives (194:0.1)
 spiritual growth yields lasting (100:4.3)
 to share Master’s j., share his love and service (180:1.5)
 
-Joys of Existence
+Joys of Existence | | | ORDEN | 
 collaborate with reversion directors (28:5.16)
 promote reactions of joy (28:5.16)
 reflective of superaphic harmony supervisors (28:5.16)
 secondary seconaphim, reflective associates of Divine Counselors (28:5.16)
 
-jubilee of jubilees
+jubilee of jubilees | | | | 
 enthronement of Creator Son as Master Son (33:3.5)
 
-jubilees
+jubilees | | | | 
 7 in ascendant career (27:7.8)
 upon settling of a local universe in light and life (17:3.11)
 
-Judah. See Judea
+Judah | | See Judea | LUGAR | 
 
-Judaism (97:10sec) (121:6sec). See also Abraham; apocrypha; ark of Yahweh; Babylonian captivity; El Elyon; El Shaddai; Elohim; Essenes; Jerusalem temple; Jews; Jews (ancient Hebrews); Levites; Moses; Nazarites; Old Testament; Pharisees; prophets; rabbis; Sadducees; Sanhedrin; scribes; Shema; Sheol; Yahweh
+Judaism | (97:10) (121:6) | See also Abraham; apocrypha; ark of Yahweh; Babylonian captivity; El Elyon; El Shaddai; Elohim; Essenes; Jerusalem temple; Jews; Jews (ancient Hebrews); Levites; Moses; Nazarites; Old Testament; Pharisees; prophets; rabbis; Sadducees; Sanhedrin; scribes; Shema; Sheol; Yahweh | RAZA | 
 advanced religion of ancient times (92:6.4,14)
 apostles at first imposed J. upon converts (194:3.9)
 beliefs
@@ -1705,7 +1705,7 @@ feasts (123:3.5) (125:1.5) (134:9.3)
 		smearing blood on doorposts was outgrowth of child sacrifice (89:7.2)
 		temple head tax payable at (173:1.3)
 		women seldom attended (125:0.2)
-	Pentecost (123:3.5) (125:1.5). See also Pentecost (bestowal of Spirit of Truth)
+	Pentecost (123:3.5) (125:1.5) | See also Pentecost (bestowal of Spirit of Truth)
 		7 weeks after Passover; established by Moses (125:1.5)
 		festival of baptism (194:1.5)
 	Purim
@@ -1746,7 +1746,7 @@ promised salvation from difficulties (5:4.5-8) (148:6.5)
 rapidly expanding in times of Jesus (121:1.6)
 religion of moral sublimity (196:3.19)
 renaissance dates from Greek translation of Scriptures (121:6.2)
-rituals. See also Judaism: feasts
+rituals | See also Judaism: feasts
 	Andonic animal sacrifice preserved in (63:6.4)
 	inconsistent and absurd; Jesus thought ceremonies pathetic (125:2.4) (134:9.3)
 	purification after childbirth (122:9.1) (122:10.2)
@@ -1757,9 +1757,9 @@ secret of survival was centralization of worship at Jerusalem (121:2.6)
 tolerated fringe of gentile believers (121:2.5)
 various Deity titles defined (96:1.2-10)
 
-Judas Alpheus. See Alpheus twins
+Judas Alpheus | | See Alpheus twins | PERSONA | 
 
-Judas Iscariot (Paper 183) (139:12sec) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4sec) (178:2.6) (193:4sec). See also apostles of Jesus
+Judas Iscariot | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | See also apostles of Jesus | PERSONA | 
 adversely affected by entry into Jerusalem (172:5.12-13)
 attempted to heal James of Safed’s son (158:4.6)
 betrayal
@@ -1817,13 +1817,13 @@ temple guards, centurion held in contempt (183:5.2-3)(186:1.2)
 turned over all apostolic funds to David (178:2.10)
 wondered how to break off from apostles (172:5.12-13) (173:0.2) (175:4.1) (177:4.2)
 
-Judas Maccabee. See also Maccabees
+Judas Maccabee | | See also Maccabees | PERSONA | 
 disappointment of reign (136:8.8)
 heroic exploits (121:2.7)
 Jews removed from Perea in times of (165:0.3)
 restoration of Mosaic services by (123:3.5)
 
-Jude (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3). See also Jesus: family
+Jude | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | See also Jesus: family | PERSONA | 
 active with Zealots; clashed with civil authorities (128:6.4-7)
 at Jesus’ 4th appearance (190:2.6)
 attitude
@@ -1847,7 +1847,7 @@ sister-in-law Rachel (150:1.1)
 trip with Jesus to Passover; taken to military prison (128:6.3-8)
 witnessed Jesus’ crucifixion (186:0.3)(187:2.7)(187:3.2)(187:5.1)
 
-Judea (142:8sec). See also Israel; Palestine
+Judea | (142:8) | See also Israel; Palestine | LUGAR | 
 Caesarea was Roman capital of (184:3.17)
 fall of Assyria and ascendancy of Egypt delivered (97:9.23)
 Jewish consciousness originated in southern clan of Judah (97:9.2)
@@ -1859,21 +1859,21 @@ most difficult Roman province to govern (185:1.2)
 mostly non-Hebrew (97:9.7,11)
 wars with Israel (97:9.18)
 
-Judge-Arbiters
+Judge-Arbiters | | | ORDEN | 
 of conciliating commissions (25:2.7)
 
-judges. (72:2.1) See also courts
+judges | (72:2.1) | See also courts | | 
 Jesus’ address to judge on behalf of poor man (132:4.8)
 Jesus’ comments to judge on behalf of Jude (128:6.7)
 Micah denounced rulers who judge for reward (97:5.5)
 
-Judges (Old Testament)
+Judges (Old Testament) | | | | 
 Hebrew tribal sheiks (96:6.1)
 
-judgment. See also conciliating commissions; courts; extinction; justice; law; nonsurvivors; resurrection; survival
+judgment | | See also conciliating commissions; courts; extinction; justice; law; nonsurvivors; resurrection; survival | | 
 by man
 	dangers and unfairness of sitting in personal j. (133:3.6) (146:2.6) (159:1.6)
-	do not prejudge fellows (38:2.4) (133:1.2). See also prejudice
+	do not prejudge fellows (38:2.4) (133:1.2) | See also prejudice
 	judge not by a single unfortunate human episode (156:5.9)
 	judge savages according to their enlightenment (101:9.2)
 	let others give account of themselves to God (139:6.5)
@@ -1922,19 +1922,19 @@ Universal Censors
 	are j. of Deity (19:4.1,4)
 	judges and censors decree mortal survival (108:6.6)
 
-Julias
+Julias | | | LUGAR | 
 Herod maintained Perean residence at (135:12.1) (150:3.1)
 
-Juno
+Juno | | | PERSONA | 
 Capitolium in Rome dedicated to (132:0.2)
 
-Jupiter (god)
+Jupiter (god) | | | PERSONA | 
 Capitolium in Rome dedicated to (132:0.2)
 reveler (69:2.5)
 Romans invoked by throwing stone in air (85:1.3)
 Zeus, transplanted from Greece to Rome (98:3.3)
 
-Jupiter (planet). See also Monmatia
+Jupiter (planet) | | See also Monmatia | LUGAR | 
 largely gaseous (57:5.10)
 might capture outer planets, become a sun (15:5.8)
 one moon near tidal disruption (57:6.5)
@@ -1942,24 +1942,24 @@ origin (41:10.1) (57:5.9-10)
 retrograde motion of certain satellites (57:5.9)
 secondary sun for short period (57:5.10)
 
-Jurassic. See also geologic ages
+Jurassic | | See also geologic ages | | 
 later reptilian age from 125 to 100 million years ago (60:2sec)
 
-jurors
+jurors | | | | 
 members of superuniverse assembly serve as (15:12.1)
 Those without Name and Number serve as (15:12.1) (22:4.3)
 
-just man
+just man | | | | 
 one who had discharged ritual obligations (89:8.7)
 shall live by faith (131:2.8)
 
-Justa
+Justa | | | PERSONA | 
 of Sidon, daughter of Bernice (156:2.2) (156:3.2)
 
-justice (2:3sec) (133:1sec). See also courts; crime; death penalty; karma; law
+justice | (2:3) (133:1) | See also courts; crime; death penalty; karma; law | | 
 conceived by man, means getting one’s rights (70:10.2)
 concept constitutive in spirit-endowed mind (70:10.2)
-divine justice. See also conciliating commissions; judgment:
+divine justice | See also conciliating commissions; judgment:
 divine judgment
 	collective thought of righteousness (10:6.18)
 	Creators provide for judicial systems to settle honest differences (25:3.7)
@@ -1996,14 +1996,14 @@ nature provides only conformity of results to causes (70:10.1)
 never a personal attitude (10:6.2)
 primitive idea was to dispose of contest (70:11.14)
 
-justice guides
+justice guides | | | ORDEN | 
 administrator seraphim; defend cases of doubtful survival (39:4.4)
 appear before courts for minor misunderstandings (39:4.5)
 may become Voices of Mercy (39:4.5)
 very few lost in Lucifer rebellion (39:4.6)
 
-Justus (believer)
+Justus (believer) | | | PERSONA | 
 suggested to fill Judas’s position (193:6.2)
 
-Justus (Jewish merchant of Corinth) (133:3.5-10)
+Justus (Jewish merchant of Corinth) | (133:3.5-10) | | PERSONA | 
 merchant that hosted Jesus

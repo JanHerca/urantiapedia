@@ -1,0 +1,186 @@
+== About Urantiapedia ==
+
+''Urantiapedia'' (https://urantiapedia.site) is a collaborative website based on [https://www.mediawiki.org/wiki/MediaWiki ''MediaWiki''] with the purpose of serving as a unified dissemination center of all knowledge relating to ''The Urantia Book.''
+
+== Who is this manual for? ==
+
+This manual is intended for users called "web editors", that is, those users who meet the following requirements:
+* They are registered users of this website, in the ''Urantiapedia''. This registration can only be made during the opening phase of the website to the general public.
+* are users with some knowledge of ''The Urantia Book'' in at least one language in which it is published.
+* wish to cooperate in a selfless way in the incorporation of information related to ''The Urantia Book'' in the ''Urantiapedia''.
+* wish to respect the privacy policies and good practices that govern the use of the ''Urantiapedia'' website.
+
+== Phases of the Urantiapedia project ==
+
+The ''Urantiapedia'' will be created in two phases for each of the languages ​​to be incorporated:
+# '''Preparation phase''': in this phase the content creation is done using the ''Urantiapedia'' project on GitHub. In this phase, user creation will be blocked on the ''Urantiapedia'' website and the only users capable of making changes to it will be the "administrator" users. In this phase, users, called "GitHub editors," make changes only to the existing project on GitHub.
+# '''Public phase''': the ''Urantiapedia'' page is open to the public, so that any user who wishes to do so and meets certain security requirements, can create their own account and add or modify content from the web. These users, called "web editors", must comply with certain privacy policies and good practices that will govern the use of the ''Urantiapedia'' website. Along with the "administrators" users, there will be users called "reviewers" who will ensure the correct use of the website and will be able to veto users who do not comply with the rules.
+
+== Components of Urantiapedia ==
+
+The ''Urantiapedia'' is based on the ''MediaWiki'' software, which is what makes the ''Wikipedia'', ''Wikisource'' and other similar pages work. This software is one of the most widespread in the world for the creation of wikis, that is, of collaborative web pages that are maintained by a wide community of users instead of being updated by small groups of people as in the case of blogs.
+
+Since it is based on [https://www.mediawiki.org/wiki/MediaWiki "MediaWiki"], the use of ''Urantiapedia'' by "web editors" will require some basic knowledge on how to use this software. Do not be afraid of this because the handling of ''MediaWiki'' is very simple and has been designed to make users able to edit content without knowing the internal details of its operation.
+
+== Content that can be created by "web editors" ==
+
+During the opening phase of Urantiapedia to the public, other content that could not have been included during the preparation phase may be incorporated, as well as modifying existing content. This includes:
+* '''Extra-biblical religious books''' appearing as direct or indirect references to ''The Urantia Book'', each book converted to a main page and several pages for each chapter, all with links to ''The Urantia Book'' and from there to those pages.
+* '''Science and humanities books''' that have been proven to have been material used by the developers to compose ''The Urantia Book'', each book converted to a main page and several pages for each chapter, all with links to ''The Urantia Book'' and from there to those pages.
+* '''Indexes''': of people, beings, places, biblical, references, citations, chronologies, etc. Each index will be one page and there will be a main index page that will list the existing ones. The creation of some of these indexes may be automated using the "Urantiapedia Tools" by the "administrator" users. An example of an index is this: [[Index: Urantiapedia]]
+* '''Articles and studies''' linked to the book and sources, with the references used pointing to the pages of the ''Urantiapedia''. Here a commendable effort will have to be made to modify the articles that are incorporated so that they correctly use the references to ''The Urantia Book'' and not personal ways of referring to it. For example, some authors write the references as <code>1002:3</code>, indicating the page number of the standard English edition, or write things like <code>Pap. 109 sec. 2</code>. All these ways of referencing both ''The Urantia Book'' and ''The Bible'' or any other book available on the ''Urantiapedia'' will be standardized and harmonized so that all the content is correctly linked. An example of an article correctly incorporated into the ''Urantiapedia'' can be seen here: [[Article:How Big Is Orvonton]]
+* '''Urantia art, diagrams, photos, animations, maps, etc.''' This content is what is known as ''resources''. This content can be uploaded using the ''Upload file'' tool available in the ''Wiki tools'' panel on the left side of the web, for registered users. However, due to potential space issues, these resources will be limited to a maximum size per file and large animations and videos will be incorporated as links to video platforms.
+
+== Basic management of Urantiapedia ==
+
+When entering this website (https://urantiapedia.site) the welcome page appears. This page contains several parts that are constant.
+* From a PC we have:
+** Header, which is fixed and contains, from left to right: the name ''Urantiapedia'', which is a link to the welcome page, the search box, and the user menu.
+** Left side panel with the ''Urantiapedia'' logo, the ''navigation'' menu and the menu called ''Wiki tools''.
+** Right side panel with several common options.
+** Central panel where the content of the open page appears. Any page of the ''Urantiapedia'' always has a title and then several buttons:
+*** Main Page: showing the page as it is.
+*** Discussion: showing the discussion page associated with each page. If the page has not yet created any content in the discussion section, the button will appear in red.
+*** Edit: it is a button on the right that puts the page in edit, going to the content editor.
+*** History: allows you to see the history of changes made to the page, with the author who made each change and the date it was made.
+** Footer, with the date of the last update of each page and useful links.
+* From a mobile we have a more compact version:
+** Header, which is not fixed and contains three menu buttons: the '' navigation '' menu (on the left), the ''Wiki tools'' menu and the ''user'' menu (on the right ). Below the name ''Urantiapedia'', which is a link to the welcome page, and below the search box.
+** A single central panel with the content of the open page, with its title and then the same buttons but in the form of icons that are in the PC version to access the Main Page, the discussion page, the edit mode and history.
+** Footer with the same content as on PC.
+
+== Create a user ==
+
+<blockquote>IMPORTANT: This operation can only be performed during the public phase of the project and not during the preparation phase.</blockquote>
+
+A "web editor" user must be registered on the web. You can consult any page without being registered, but to make changes to the web, you must be a registered "web editor" user. In the upper right corner of the ''Urantiapedia'' is the user menu with the options to create a new user or log in with an existing user. Follow these steps:
+# Select the option ''Create an account'' from the ''user'' menu. This option redirects to this page: [[Special:CreateAccount]].
+# Enter a short ''username'' and a ''password''. The ''username'' can be an alias and is the name that will appear when saving any edit.
+# Confirm your ''password'' and optionally offer an ''email'' and a ''real name'' if you want other users to be able to contact you.
+# Click on ''Create your account''.
+# Your account will be created and you will appear with it logged in.
+
+Once registered, to access your user account:
+# Select the ''Access'' option from the ''user'' menu.
+# Enter your ''username'' and your ''password''.
+# Check the box ''Keep me logged in'' if you do not want the application to remove you from the session after a certain time.
+# Click Sign in.
+
+If you have forgotten your password:
+# Select the ''Access'' option from the ''user'' menu.
+# Click on ''Have you forgotten your password?''
+# The password reset page opens. Provide your ''username'' and your ''email''.
+# Click on ''Reset Password''.
+
+Remember that as a "web editor" user you must access the page to be able to see all the options of a user with those permissions. For example, the button to put a page in edit will not be available to a user who has not logged in, and a ''View code'' button will be displayed that only allows viewing the page in Wikitext format but not modifying it.
+
+== Modify a page ==
+
+To modify an existing page, simply enter that page and click the '' Edit '' button on the upper right. The page appears in edit mode, with the following controls:
+* A large central text box, where the page will appear in Wikitext format. This is where you have to make changes. The Wikitext format may be a bit scary at first but it is very simple, and the ''Urantiapedia'' will only use a small subset of everything it supports. To learn more about this format, see below.
+* A text box to indicate a brief description about the changes you are introducing.
+* A box to indicate if the change that is made is small, such as a spelling correction, or a substantial change in the content.
+* A box to indicate if you want to receive notifications when the page is modified by others.
+* The buttons to save the changes, show a preview of the page with the changes, show the changes as a list or cancel.
+
+https://www.mediawiki.org/wiki/Help:Editing_pages/es
+
+<blockquote>IMPORTANT: During the preparation phase with a language, pages should not be modified manually because this process is automated with the ''Urantiapedia Tools'', and any manual edition could be overwritten when launching the automated processes. Modifying pages in a language should only be done by "web editors" once the preparation phase for a language has been completed.</blockquote>
+
+== Create a new page ==
+
+To create a page that doesn't exist yet, just follow these steps:
+* Type in the browser the URL of the future page, which will be something like this: <code>https://urantiapedia.site/index.php/title</code> where <code>title</code> will be the title of the page. The title supports special characters as accents, and blanks must be entered as _ (underscores). For example, the title for the ''Paradise Sons of God'' would be this: <code>https://urantiapedia.site/index.php/Paradise_Sons_of_God</code>
+* The page will appear, but blank. Click on the ''Create'' button that will appear instead of the ''Edit'' button.
+* The same page will open as for modifying a page, but with blank content. Enter the Wikitext content in the main box and use the rest of the options as when modifying an existing page.
+
+<blockquote>IMPORTANT: During the preparation phase with a language, pages should not be created manually because this process is automated with the ''Urantiapedia Tools'', and any manual edition could be overwritten when launching the automated processes. The creation of pages in a language should only be done by "web editors" once the preparation phase for a language has been passed.</blockquote>
+
+== Namespaces ==
+
+When creating a page manually during the public phase with a language, it must be taken into account that in the ''Urantiapedia'' there will be what is known as "namespaces", so to write the full title of a page should be taken into account.
+
+A "namespace" is a way of grouping and ordering content within ''Urantiapedia.'' Basically it is a prefix that is placed in front of the title of a page.
+
+There are a number of "namespaces" on every MediaWiki-based website that are already defined by default. Some of them are:
+* ''File'', the prefix to use for resources like images.
+* ''Special'', the prefix for some special pages that allow to know lists and statistics of the page itself.
+* ''User'', the prefix to be used for the pages of each user, since each user has their own personal pages with exclusive content about them.
+* ''Help'', the prefix for help pages.
+
+In addition to the default "namespace" in the ''Urantiapedia'' there will be the following:
+* ''Index'': for pages that are indexes that list other pages and connect with them.
+* ''Manual'': for pages with the user manual.
+* ''Article'': for pages that are articles by a reader, whether they are study aids or articles investigating a related topic.
+
+The basic pages with ''The Urantia Book'', ''The Bible'', other books, or the ''Topics'', none of them will be included in any "namespace".
+
+Any drawing, schema, photo, diagram, animation or any other graphic content that is basically a file and that is based on ''The Urantia Book'' will be placed, like any other image, in the "namespace" ''File'' using the default tools provided by MediaWiki.
+
+Taking all the above into account, the full title of a page always adopts this pattern:
+
+<code>https:/urantiapedia.site/index.php/namespace:title</code>
+
+* where <code>namespace</code> is the name of the "namespace", if it exists. If the separator of the colon does not exist, it is omitted. The "namespace" must be written in the corresponding language. For example, for a page in Spanish there will be a "namespace" ''Artículo'', but for an English page that "namespace" will be ''Article''.
+* where <code> title </code> is the title of the page itself.
+
+For example, there is this page already added to the articles:
+
+https://urantiapedia.site/index.php?Artículo:Cómo_es_de_grande_Orvonton 
+
+The page equivalent to the previous one, but in English, it would be something like this:
+
+https://urantiapedia.site/en/index.php?Article:How_big_is_Orvonton
+
+For more information on "namespaces" see here:
+
+https://www.mediawiki.org/wiki/Help:Namespaces/es
+
+== The Wikitext format ==
+
+To know the Wikitext format, consult the [[Manual:Basic edition guide]]. Although it is not intended to be a complete manual of the Wikitext format, it does encompass most of the things that should be kept in mind when editing content in the ''Urantiapedia''.
+
+== Special characters ==
+
+* long dash: —
+* extra white space: &emsp;
+* Typographical quotation marks: « »
+
+== Find and Replace in VS Code ==
+
+In the text of the Bible:
+* Chapters: Chapter (\d+)  >  \chapter{$ 1}
+* Sections: ^([^\n\\\d]+)\n\n  >  \section*{$1}\n\n
+* Remove chapter number at the beginning of the line: ^\d+:  >  nothing
+* Add paragraph mark: ^(\d+)  >  \par $1 and also ^([^\\])  >  \par $1
+
+See [http://www.regular-expressions.info/quickstart.html Regular expression Quisck start]
+
+== Links of interest ==
+
+''Urantiapedia'' user manual:
+* [[Manual:Manual_for_developers]]
+* [[Manual:Manual_for_administrators]]
+* [[Manual:Manual_for_GitHub_editors]]
+* [[Manual:Manual_for_web_editors]]
+** [[Manual:Basic edition guide]]
+*** [[Manual:How to use references]]
+* [[Manual:How to add content]]
+* [[Manual:How to send suggestions]]
+* [[Urantiapedia_Status|Current project progress]]
+
+''MediaWiki'' software:
+* [https://www.mediawiki.org/wiki/Manual:Contents Basic MediaWiki Guide]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Configuration settings]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ about MediaWiki]
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce Mailist news about MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Translation in MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Combating spam in Wiki]
+* [https://www.mediawiki.org/wiki/Help:Starting_a_new_page Create a new page]
+* [https://www.mediawiki.org/wiki/Help:Formatting Format]
+* [https://www.mediawiki.org/wiki/Help:Formatting Format]
+* [https://www.mediawiki.org/wiki/Help:Lists Listas]
+* [https://www.mediawiki.org/wiki/Help:Links Links]
+* [https://www.mediawiki.org/wiki/Help:Tables Tables]
+* [https://www.mediawiki.org/wiki/Help:Images Images]
+* [https://en.wikipedia.org/wiki/Quotation_mark Quotation marks]

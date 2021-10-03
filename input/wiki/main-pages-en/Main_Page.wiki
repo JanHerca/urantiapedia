@@ -1,0 +1,44 @@
+__NOTOC__
+
+<table class="warning-message" cellspacing="0" cellpadding="0" border="0" style="box-sizing:border-box; border:1px #d33 solid; background: transparent; margin:0.5em 0;padding:0.5em;background-color: #fee7e6">
+    <tr>
+      <td nowrap="nowrap" valign="top">
+        <span style="position: relative; top: -2px;">[[File:240px-OOjs UI icon notice-destructive.svg.png|24x24px|left]]</span>
+      </td>
+      <td valign="top" style="padding-left:0.5em;">'''''Urantiapedia''''' is now in its preparation steps. Due to this user creation is currently blocked. If you want to collaborate in the project you can contact through [https://blue-fields.netlify.app Blue Fields] page or [https://github.com/JanHerca/urantiapedia Github] page about the project. For the time being, '''''Urantiapedia''''' shows an uncompleted an error-prone content with the goal of showing the potential and give an idea of the project. When current preparation step end, the web page will be opened to the public so anybody can participate in the project. You can obtain more information about this [[Manual:How this wiki works|here]].
+      </td>
+    </tr>
+</table>
+
+==Wellcome to Urantiapedia==
+[[File:The_Urantia_Book.jpg|300px|right]]
+'''''Urantiapedia''''' is a web where publish, share and collaborate about any content related to '''''The Urantia Book'''''.
+
+'''''The Urantia Book''''', published in 1955 by [https://www.urantia.org/en Urantia Foundation], presents us with the origin, history and destiny of humanity. It answers questions about God, life in the inhabited universe, the history and future of this world, and it includes an uplifting narrative of the life and teachings of Jesus.
+
+'''''The Urantia Book''''' portrays our relationship with God the Fatherexpone nuestra relación con Dios Padre. All human beings are the sons and daughters of a loving God and therefore brothers and sisters in the family of God. The book provides new spiritual truth for modern men and women and a pathway to a personal relationship with God.
+
+Building on the world's religious heritage, '''''The Urantia Book''''' describes an endless destiny for humankind, teaching that living faith is the key to personal spiritual progress and eternal survival. It also describes God’s plan for the progressive evolution of individuals, human society, and the universe as a whole.
+
+Many people around the world have said that reading '''''The Urantia Book''''' has profoundly inspired them to reach deeper levels of spiritual growth. It has given them new meaning to life and the desire to be of service to humanity.
+
+We encourage you to read it and discover for yourself its ennobling message. This Wiki can help you with its reading so we also encourage you to use it and collaborate with it adding new content.
+
+If you want to know more about the book: [[The_Urantia_Book|The Urantia Book]].
+
+== Read The Urantia Book ==
+
+If you want to read '''''The Urantia Book''''', use any of these indexes:
+* [[The_Urantia_Book_Index|The Urantia Book - General Index]]
+* [[The_Urantia_Book_Index_extended|The Urantia Book - Extended Index]]
+
+== Browse Urantiapedia ==
+
+If you want to see a complete list of all current content in '''''Urantiapedia''''' use these indexes:
+* [[Index:Urantiapedia|Complete Index of Urantiapedia]]
+* [[Index:Topics|Topics Index]]
+
+== Collaborate with Urantiapedia ==
+
+If you want to contribute to '''''Urantiapedia''''' browse the user manual. In it you have details about how it is planned, project steps, how to contact, user types and current status:
+* [[Manual:How this wiki works]]

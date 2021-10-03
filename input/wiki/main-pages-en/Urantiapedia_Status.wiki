@@ -1,0 +1,63 @@
+The list of tasks to perform is this:
+# Translation of ''Paramony'' from English to the target language (<code>Paramony</code>).
+# Translation and revision of the ''Topic Index'' from English to the target language (<code>Topics</code>).
+# Obtain a translation of the Bible in the target language (<code>Bible</code>).
+# Converting ''The Urantia Book'' from HTML to JSON without footnotes (<code>UB</code>).
+# Adding footnotes to ''The Urantia Book'' in JSON (<code>UB footnotes</code>).
+# Conversion of ''Topic Index'' from TXT to Wikitext (<code>Topics Wiki</code>).
+# Conversion of ''The Urantia Book'' from JSON with footnotes to Wikitext including references to the terms (<code>UB Wiki</code>).
+# Converting ''The Bible'' from LaTeX to Wikitext with footnotes (<code>Bible Wiki</code>).
+
+List of tasks and languages to be supported, indicating current progress:
+
+{| class="wikitable"
+| Language || Code || Paramony || Topics || Bible || UB || UB<br>footnotes || Topics<br>Wiki || UB<br>Wiki || Bible<br>Wiki
+|-
+| Bulgarian  || bg || OK  ||     || OK || OK ||    ||     ||     || 
+|-
+| Czech      || cs || OK  ||     || OK || OK ||    ||     ||     || 
+|-
+| Danish     || da || OK  ||     ||    || OK ||    ||     ||     || 
+|-
+| German     || de || OK  ||     ||    || OK ||    ||     ||     || 
+|-
+| Greek      || el || OK  ||     ||    || OK ||    ||     ||     || 
+|-
+| English    || en || OK  || WIP || OK || OK || OK || WIP || WIP || WIP
+|-
+| Spanish    || es || OK  || WIP || OK || OK || OK || WIP || WIP || WIP
+|-
+| Estonian   || et || OK  ||     ||    || OK ||    ||     ||     || 
+|-
+| Farsi      || fa || OK  ||     ||    || OK ||    ||     ||     || 
+|-
+| Finnish    || fi || OK  ||     ||    || OK ||    ||     ||     || 
+|-
+| French     || fr || OK  ||     ||    || OK ||    ||     ||     || 
+|-
+| Hebrew     || he ||     ||     ||    || OK ||    ||     ||     || 
+|-
+| Hungarian  || hu ||     ||     ||    || OK ||    ||     ||     || 
+|-
+| Indonesian || id ||     ||     ||    || OK ||    ||     ||     || 
+|-
+| Italian    || it ||     ||     ||    || OK ||    ||     ||     || 
+|-
+| Japanese   || ja ||     ||     ||    || OK ||    ||     ||     || 
+|-
+| Korean     || ko ||     ||     ||    || OK ||    ||     ||     || 
+|-
+| Lithuanian || lt ||     ||     ||    || OK ||    ||     ||     || 
+|-
+| Dutch      || nl ||     ||     ||    || OK ||    ||     ||     || 
+|-
+| Polish     || pl ||     ||     ||    || OK ||    ||     ||     || 
+|-
+| Portuguese || pt ||     ||     ||    || OK ||    ||     ||     || 
+|-
+| Romanian   || ro ||     ||     ||    || OK ||    ||     ||     || 
+|-
+| Russian    || ru ||     ||     ||    || OK ||    ||     ||     || 
+|-
+| Swedish    || sv ||     ||     ||    || OK ||    ||     ||     || 
+|}

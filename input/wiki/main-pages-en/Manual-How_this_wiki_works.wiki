@@ -1,0 +1,133 @@
+== What is it? ==
+
+''Urantiapedia'' is a website where you can publish, share and collaborate on any content related to ''The Urantia Book''.
+
+== How does it work? ==
+
+It is based on [https://www.mediawiki.org/wiki/MediaWiki MediaWiki] which is the opensource software that makes the [https://en.wikipedia.org/wiki/Main_Page Wikipedia] work, the [https://en.wikisource.org/wiki/Main_Page Wikisource] and other similar projects. MediaWiki can be freely used by any organization to create their own Wiki.
+
+A Wiki is a web page that is maintained and edited collaboratively by a community of users. Any registered user with the appropriate permissions can add, modify or delete content. All the changes made are recorded in a permanent history (nothing is lost even in an accidental deletion). The information is stored in a Database so that it benefits from the classic operations that can be done in a Database: mass addition / editing, backup, quick searches, etc.
+
+== How is it organized? ==
+
+In the style of Wikipedia. In it are pages, each with a unique title and a unique URL that can include special characters as accents. For example, if you enter this address in the browser:
+* <code>https://urantiapedia.site/index.php?title=The_Urantia_Book_Doc_156 </code> you access the page with document 156 of ''The Urantia Book''.
+* <code>https://urantiapedia.site/index.php?title=Article:How_Great_Is_Orvonton</code> goes to an article page about Orvonton.
+* <code>https://urantiapedia.site/index.php?title=Andrew</code> access the page with information and references about the apostle Andrew.
+
+As you can see, the initial fragment of the URL <code>https://urantiapedia.site/index.php?title=</code> is a constant and the only thing that changes is the title of the page you want to access.
+
+Each page can be a complete article on a topic, a chapter in a book, the home page of a book, an index grouping links to other pages, etc. What each page contains is something at the discretion of the content creators and will be modified over time as needs change, although surely once a page is created, that is, a URL, it will always remain and redirects are used if necessary.
+
+Pages are grouped under the following basic categories:
+
+* Books
+* Articles
+* Topics
+* Indices
+* Images
+
+In the future, other categories such as Magazines, Videos, Maps, 3D Models and other types of content could be considered as the need arises.
+
+All the pages that bring text are organized in the style of Wikipedia, with sections and with the possibility of having side tables (called templates) with summaries or small internal indexes.
+
+=== Books ===
+
+Not only ''The Urantia Book'' is included here in any of its translations but also any public domain books suspected of being a source that revelators have used or books whose content may clarify aspects of ''The Book of Urantia''. You could also include books that are derivative works of ''The Urantia Book'' and whose authors want to offer them as a free license. All of this would constitute a kind of ''Urantian library'', something similar to the Wikisource but for Urantia-related topics.
+
+Regarding ''The Urantia Book'' there would be a [[The Urantia Book | main page]] where comes the title, copyright, year, etc. and then the index of the documents, with hyperlinks. Then there would be one page for each document.
+
+Each page of each document would have its content divided into sections together with some extra sections: ''References'', ''Links'' and ''External links''.
+
+The ''References'' are links from a quote or a supposed quote. In ''The Urantia Book'' the authors themselves indicate that they often act more as compilers than revelators, using existing human documentation. Sometimes what is a verbatim quote is implied because revelators use quotation marks. In others the quote is only subtle and difficult to detect. Many readers have found these quotes over time. Quotations often refer to a passage in ''The Bible'', or to a book on religion, philosophy, or science from the time the revelations were written or earlier. In this ''References'' section, as is done in Wikipedia, links will be placed pointing to the biblical passage or the book on which revelators are based. ''The Bible'' and other sources will also be within the ''Urantiapedia'', so that the sources of the revelators can be browsed while reading the book.
+
+''Links'' are links to any article, topic, index or image that is related to the document and serves to provide helpful content that clarifies the document.
+
+There may also be ''External links'' section with links to other websites that may have useful information related to the document.
+
+This final structure with ''References'', ''Links'' and ''External links'' is common to all the chapters of any book, article or term.
+
+Regarding any other book that is not ''The Urantia Book'', any book that is a source candidate, or from an author who wants to share the work, as with ''The Urantia Book'', there will be a main page of each book where the title, author, copyright, date, etc. will appear and then the index with links to each chapter, each one will be a page. It is important that if the books are old, both the scan of the original book is available in the form of a collection of images that will be in an ''Original'' section, as well as the digital version as accurate as possible, so that it can be linked precisely to a specific chapter or section. For example, ''Reina Valera 1950 Bible'' is available in digital form and has been incorporated so that each verse or chapter is linkable.
+
+=== Articles ===
+
+This includes any article, help material, opinion document, lecture, presentation or even dialogues between readers that may be of interest to the study and understanding of ''The Urantia Book''.
+
+Each will be a page with sections. It is highly recommended that they have the same typical ''References'', ''Links'' and ''External links'' sections at the end. The images that appear will be added so that they are linkable as entities by themselves, as Wikipedia does, so that many articles can share the same images without repeating themselves. The ''References'' is very important to take care of. Many readers of the book have written articles in which they do not correctly include a reference to a quote from the book or scientific information. Whenever possible, these articles should be amended to add these missing references. Without reference, the information is not true.
+
+=== Topics ===
+
+A special type of article is included here on a specific topic related to ''The Urantia Book''. For example, a concept like ''absonity'', or a person like ''Grandfanda'', or a type of being like ''Thought Adjusters'', or a place like ''Nazareth'' or ''Orvonton'', an event like ''the arrival of Adam and Eve'', etc.
+
+Each topic will have a ''References'' section where there will be a list of all the paragraphs of ''The Urantia Book'' where it is mentioned. It may also have a ''Links'' section with links to other parts of the ''Urantiapedia'' where more things are deepened or clarified. For example, the page on ''Nazareth'' contains a succinct and basic explanation about Nazareth (what place it is, why it is important, geographic coordinates with a link to Google Maps, etc). But in the ''Links'' section an article could be linked in which a reader delves into the city of Jesus, what it was like and what archaeological finds have been found that seem to corroborate or not the book's claims.
+
+=== Indices ===
+
+Different indexes are included here. If the number of elements obtained in the index is very high, you can consider making a main page where the main divisions would be, and then making secondary pages. Whenever possible it is preferable that each index is only one page, so that it is easier to locate something.
+
+These will be some of the indexes:
+
+* Index of topics, commonly known as Glossary, arranged alphabetically.
+* Index of People. A subset of the Glossary but only when looking for a proper name for a person or personality. Sorted alphabetically.
+* Index of Beings. A subset of the Glossary but only for the types of beings in the universe, arranged alphabetically. If a type of being receives different names (for example, Third Source and Center = Conjoint Actor), each entry will have next to it the list of the rest of equivalent terms.
+* Index of places. A subset of the Glossary but only for places, whether they are places in the universe (the Isle of Paradise, for example), or on Earth. Sorted alphabetically.
+* Biblical Index. For each book of the Bible, the links to ''The Urantia Book'' where a verse is relevant. By biblical order (Genesis, Exodus, etc.)
+* Index of References. For each document of ''The Urantia Book'', all references in other books, be it the Bible or others. Sorted by reading order in the book.
+* Index of citations. List of references in the book to emblematic phrases. Sorted by themes (God, the Universe, the Angels, Jesus, etc.)
+* Chronology of the Earth. Chronologies can be considered a type of event index. In this case it would be a chronology, ordered by date, of the events of the earth's evolutionary development. It could include the historical events mentioned in the book. Sorted chronologically.
+* Chronology of the life of Jesus. Description of main events and links to the book of all the events in the life of Jesus, ordered by year, month and day.
+
+=== Pictures ===
+
+All multimedia content of interest related to "The Urantia Book" is included here:
+
+* Urantia art. Drawings or photographs that evoke a concept from the book.
+* Schemes. Infographics or graphics that explain and clarify topics in the book.
+* Photos. Royalty-free images used anywhere on the ''Urantiapedia''.
+* Animations. Animated images that clarify concepts that involve an animated visualization.
+* Maps. Maps that allow locating places mentioned in the book or itineraries and migrations.
+* 3D models. Animations or still models made in 3D and viewable using WebGL.
+
+== Project steps and types of users ==
+
+The ''Urantiapedia'' will be created in two phases for each of the languages ​​to be incorporated:
+# '''Preparation phase''': in this phase the content creation is done using a project on GitHub. In this phase, user creation will be blocked on the ''Urantiapedia'' website and the only users capable of making changes to it will be ''administrator'' users. In this phase, users, called ''GitHub editors'', make changes only to the existing project on GitHub.
+# '''Public phase''': the ''Urantiapedia'' page is open to the public, so that any user who wishes to do so and meets certain security requirements, can create their own account and add or modify content from the web . These users, called ''web editors'', must comply with certain privacy policies and good practices that will govern the use of the ''Urantiapedia'' website. Along with ''admin'' users, there will be users called ''reviewers'' who will ensure the correct use of the website and will be able to ban users who do not comply with the rules.
+
+In summary, the types of users of the project will be:
+* ''Developers'', who can make changes to the ''Urantiapedia Tools'' application of ''Urantiapedia'' project on GitHub and in the MediaWiki application. These users should check the [[Manual: Manual_for_developers]].
+* ''Administrators'', with the ability to make changes to ''Urantiapedia'' website during the preparation phase. These users should check the [[Manual:Manual_for_administrators]].
+* ''GitHub editors'', with the ability, during the preparation phase, to make changes to certain initial files contained in ''Urantiapedia'' project on GitHub or to create these files. These users should check the [[Manual:Manual_for_GitHub_editors]].
+* ''Web editors'', with the ability to make changes directly to ''Urantiapedia'' once it enters the public phase. These users should check the [[Manual:Manual_for_web_editors]].
+* ''Reviewers'', some users to be defined in the public phase who will ensure correct content on the web.
+
+== How to collaborate? ==
+
+If you wish to collaborate in this project, the best way to contact is to register on the website [https://blue-fields.netlify.app/ Blue Fields], which is a website that has been created to join and organize readers of ''The Urantia Book'' who wish to participate in intelligent, purposeful and altruistic projects throughout the world. Once registered, the project team will contact you.
+
+== Current status of progress ==
+
+To know the current progress of the project you can check it at:
+[[Urantipedia_Status|Current project progress]]
+
+== Links of interest ==
+
+''Urantiapedia'' user manual:
+* [[Manual:Manual_for_developers]]
+* [[Manual:Manual_for_administrators]]
+* [[Manual:Manual_for_GitHub_editors]]
+* [[Manual:Manual_for_web_editors]]
+** [[Manual:Basic edition guide]]
+*** [[Manual:How to use references]]
+* [[Manual:How to add content]]
+* [[Manual:How to send suggestions]]
+* [[Urantiapedia_Status|Current project progress]]
+
+''MediaWiki'' software:
+* [https://www.mediawiki.org/wiki/Manual:Contents Basic MediaWiki Guide]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Configuration settings]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ about MediaWiki]
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce Mailist news about MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Translation in MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Combating spam in Wiki]
+

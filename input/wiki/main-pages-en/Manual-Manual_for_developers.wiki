@@ -1,0 +1,92 @@
+== Installing a test server ==
+
+# Install [https://www.apachefriends.org/es/index.html XAMPP]. It should be installed outside of Program Files, for example, in c:\xampp.
+# Start the XAMPP Control Manager that is at the root of the XAMPP installation.
+# Click first on the Apache Start button, then on the MySQL button.
+# To check that http://localhost/dashboard/works
+# Install the WikiMedia module with [https://bitnami.com/stack/xampp?utm_source=bitnami&utm_medium=installer&utm_campaign=XAMPP%2BInstaller Bitnami].
+# When installing, enter the MySQL password (by default it is pwdpwd) and create a user for the wiki.
+# The web will open at the end, something like: http://192.168.1.10/wiki/index.php/Main_Page or http://localhost/wiki/index.php/Main_Page according to localhost configured.
+# Login to check that the user created in 7 works.
+
+== Templates ==
+
+To import templates into Urantiapedia:
+
+# Make sure that the Scribunto extension is available at the root of the Mediawiki /extensions/Scribunto installation and that the following two lines are appended to LocalSettings.php (also the root): <code> wfLoadExtension( 'Scribunto' );</code> and <code>$wgScribuntoDefaultEngine = 'luastandalone';</code>.
+# Lua may not work if the Lua binary does not have execute permissions. Go to the extensions/Scribunto/includes/engines/LuaStandalone/binaries/*OS*/ folder and change the permissions to execution ( 7 5 5 ).
+# Export a template, for example, from Wikipedia, entering the export page: https://en.wikipedia.org/wiki/Special:Export
+# Manually add one or more template names, for example, Template:Anchor
+# Check all the boxes and export. An XML file is generated.
+# Go to /Special:Import from Urantiapedia and import the XML. As an interwiki prefix, use <code>en</code> or <code>es</code> according to the Wikipedia that we have used to export the template.
+
+More information in:
+
+https://www.mediawiki.org/wiki/Extension:Scribunto#Installation
+
+== Remove title to main page ==
+
+# You have to edit Common.css, which is actually a Wiki page. Go to the MediaWiki page:Commons.css. Editing that page is equivalent to editing a CSS that will be applied behind any skin in use.
+# Add this line:
+
+<pre>
+body.page-Main_Page.action-view h1.firstHeading, body.page-Main_Page.action-submit h1.firstHeading {display: none; }
+</pre>
+
+More information in:
+
+https://www.mediawiki.org/wiki/Manual:FAQ#How_do_I_hide_the_main_page_title?
+
+== Install the MobileFrontend extension ==
+
+This extension allows to display the Wiki in a more friendly way on mobile devices:
+
+# Download the extension from: https://www.mediawiki.org/wiki/Extension:MobileFrontend/es
+# Copy the compressed .gz file of the extension to the extensions folder.
+# Unzip the file.
+# Modify LocalSettings.php by adding this line: <code>wfLoadExtension('MobileFrontend');</code>
+# Navigate to the Special:Version page to check that the extension has been loaded.
+
+== Change permissions of a user ==
+
+It is done from the Special:UserRights page. It is accessible from <code>Special pages</code> in the main menu and then in the User Rights section.
+
+To change a user the permissions must be added or removed from a User Group. There are several groups created with different permissions.
+
+== Make backup copies ==
+
+=== From the entire website ===
+
+cPanel, the web management software, has a tool called AutoBackup, which creates periodic backups every week and even every day. Access the tool in cPanel, select the backup that you want to download, then select that you want to download as a tar.gz and click Get. The process takes a while and in the end you are notified that the resulting file can be downloaded.
+
+Then store the copy on a secure cloud disk.
+
+=== Only from Database ===
+
+# Open the XAMPP Control Panel and click the Shell button to open a command line
+# By default the folder will be the XAMPP installation folder
+# Launch the following command: <code>mysqldump --port = <port> --user = <user> --password = <password> <db_name> > dump.sql</code> where <code><port></code> is the MySql/MariaDB port which is usually 3306, <code><user></code> and <code><password></code> the username and password of the database administrator. If it is not known, look at the LocalSettings.php file in the mediawiki\htdocs folder. <code><db_name></code> is the name of the database with the wiki.
+# The backup is generated as a dump.sql file in the XAMPP installation folder. Put date in the name and save the file.
+
+== Links of interest ==
+
+''Urantiapedia'' user manual:
+* [[Manual:Manual_for_developers]]
+* [[Manual:Manual_for_administrators]]
+* [[Manual:Manual_for_GitHub_editors]]
+* [[Manual:Manual_for_web_editors]]
+** [[Manual:Basic edition guide]]
+*** [[Manual:How to use references]]
+* [[Manual:How to add content]]
+* [[Manual:How to send suggestions]]
+* [[Urantiapedia_Status|Current project progress]]
+
+''MediaWiki'' software:
+* [https://www.mediawiki.org/wiki/Manual:Contents Basic MediaWiki Guide]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Configuration settings]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ about MediaWiki]
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce Mailist news about MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Translation in MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Combating spam in Wiki]
+* [https://www.mediawiki.org/wiki/Manual:Installing_MediaWiki_on_XAMPP Install XAMPP]
+* [https://www.ryadel.com/en/how-to-add-wikipedia-mbox-templates-to-your-own-mediawiki/ Add templates]
