@@ -12,30 +12,21 @@
 	<body>
 		<form class="needs-validation p-2" novalidate="true">
 			<div class="form-group row p-0 mb-0">
-				<label class="col-sm-2 col-form-label-sm">Proceso:</label>
+				<label id="lblLanguage" class="col-sm-2 col-form-label-sm">Language:</label>
+				<div class="col-sm-10">
+					<div class="input-group">
+						<select id="drpLanguage" class="custom-select custom-select-sm">
+							<option value="en" selected>English</option>
+							<option value="es">Spanish</option>
+						</select>
+					</div>
+				</div>
+			</div>
+			<div class="form-group row p-0 mb-0">
+				<label id="lblProcess" class="col-sm-2 col-form-label-sm">Process:</label>
 				<div class="col-sm-10">
 					<div class="input-group">
 						<select id="drpProcess" class="custom-select custom-select-sm">
-							<option value="BIBREF_TXT_LU_JSON_TO_TXT">Traducir Refs Biblia (TXT) + LU (JSON) a TXT</option>
-							<option value="LU_JSON_TO_BIBREF_JSON">Guardar Refs Biblia en Libro de Urantia (JSON) en JSON</option>
-							<option value="LU_JSON_BIBLEREF_JSON_TO_JSON">Actualizar Refs Biblia en Libro de Urantia (JSON)</option>
-							<option value="LU_HTML_TO_JSON">Convertir Libro de Urantia (HTML) a JSON</option>
-							<option value="LU_TEX_TO_JSON">Convertir Libro de Urantia (LaTeX) a JSON</option>
-							<option value="LU_TEX_TOPIC_TXT_TO_WIKI">Convertir Libro de Urantia (LaTeX) + TopicIndex (TXT) a Wiki</option>
-							<!--<option value="LU_TEX_TO_XML">Convertir Libro de Urantia - LaTeX a WikiXML</option>-->
-							<option value="LU_JSON_TO_TEX">Convertir Libro de Urantia (JSON) a LaTeX</option>
-							<option value="LU_JSON_TOPIC_TXT_TO_WIKI">Convertir Libro de Urantia (JSON) + TopicIndex (TXT) a Wiki</option>
-							<!--<option value="LU_JSON_TO_XML">Convertir Libro de Urantia - JSON a WikiXML</option>-->
-							<option value="LUINDEX_JSON_TO_WIKI">Convertir Indice de Libro de Urantia (JSON) a Wiki</option>
-							<option value="BIB_TEX_BIBREF_TXT_TO_WIKI">Convertir Biblia (LaTeX) + Refs (TXT) a Wiki</option>
-							<option value="BIB_TEX_TO_BIBINDEX_WIKI"> Convertir Biblia (LaTeX) a índice Wiki</option>
-							<!--<option value="BIB_TEX_TO_XML">Convertir Biblia - LaTeX a WikiXML</option>-->
-							<option value="TOPIC_TXT_TO_WIKI">Convertir TopicIndex (TXT) a Wiki</option>
-							<option value="TOPICINDEX_TXT_TO_WIKI">Convertir Indice de TopicIndex (TXT) a Wiki</option>
-							<option value="REVIEW_TOPIC_TXT_LU_JSON">Revisar TopicIndex (TXT) + JSON (LU)</option>
-							<option value="SUM_TOPIC_TXT">Resumen actual del Topic Index (TXT)</option>
-							<option value="NORM_TOPIC_TXT">Normalizar entradas TopicIndex (TXT) a TXT</option>
-							<option value="ARTICLE_TXT_TO_WIKI">Convertir Artículos (TXT) a Wiki</option>
 						</select>
 						<div class="input-group-append">
 							<button id="exeButton" class="btn btn-sm btn-dark" 
@@ -45,71 +36,71 @@
 				</div>
 			</div>
 			<div class="form-group row p-0 mb-0">
-				<label class="col-sm-2 col-form-label-sm">Ficheros HTML:</label>
+				<label id="lblHTextbox" class="col-sm-2 col-form-label-sm">HTML files:</label>
 				<div class="col-sm-10">
 					<div class="input-group">
 						<input id="dirHTextbox" class="form-control form-control-sm" 
-							type="text" placeholder="Selecciona la ruta" 
+							type="text" placeholder="Browse path" 
 							readonly="readonly"/>
 						<div class="input-group-append">
 							<button id="dirHButton" class="btn btn-sm btn-dark" 
-								type="button">Seleccionar</button>
+								type="button">Browse</button>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="form-group row p-0 mb-0">
-				<label class="col-sm-2 col-form-label-sm">Ficheros TXT:</label>
+				<label id="lblTTextbox" class="col-sm-2 col-form-label-sm">TXT files:</label>
 				<div class="col-sm-10">
 					<div class="input-group">
 						<input id="dirTTextbox" class="form-control form-control-sm" 
-							type="text" placeholder="Selecciona la ruta" 
+							type="text" placeholder="Browse path" 
 							readonly="readonly"/>
 						<div class="input-group-append">
 							<button id="dirTButton" class="btn btn-sm btn-dark" 
-								type="button">Seleccionar</button>
+								type="button">Browse</button>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="form-group row p-0 mb-0">
-				<label class="col-sm-2 col-form-label-sm">Ficheros LaTeX:</label>
+				<label id="lblLTextbox" class="col-sm-2 col-form-label-sm">LaTeX files:</label>
 				<div class="col-sm-10">
 					<div class="input-group">
 						<input id="dirLTextbox" class="form-control form-control-sm" 
-							type="text" placeholder="Selecciona la ruta" 
+							type="text" placeholder="Browse path" 
 							readonly="readonly"/>
 						<div class="input-group-append">
 							<button id="dirLButton" class="btn btn-sm btn-dark" 
-								type="button">Seleccionar</button>
+								type="button">Browse</button>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="form-group row p-0 mb-0">
-				<label class="col-sm-2 col-form-label-sm">Ficheros JSON:</label>
+				<label id="lblJTextbox" class="col-sm-2 col-form-label-sm">JSON files:</label>
 				<div class="col-sm-10">
 					<div class="input-group">
 						<input id="dirJTextbox" class="form-control form-control-sm" 
-							type="text" placeholder="Selecciona la ruta" 
+							type="text" placeholder="Browse path" 
 							readonly="readonly"/>
 						<div class="input-group-append">
 							<button id="dirJButton" class="btn btn-sm btn-dark" 
-								type="button">Seleccionar</button>
+								type="button">Browse</button>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="form-group row p-0 mb-0">
-				<label class="col-sm-2 col-form-label-sm">Ficheros Wiki:</label>
+				<label id="lblWTextbox" class="col-sm-2 col-form-label-sm">Wiki files:</label>
 				<div class="col-sm-10">
 					<div class="input-group">
 						<input id="dirWTextbox" class="form-control form-control-sm" 
-							type="text" placeholder="Selecciona la ruta" 
+							type="text" placeholder="Browse path" 
 							readonly="readonly"/>
 						<div class="input-group-append">
 							<button id="dirWButton" class="btn btn-sm btn-dark" 
-								type="button">Seleccionar</button>
+								type="button">Browse</button>
 						</div>
 					</div>
 				</div>
@@ -119,14 +110,14 @@
 					<div class="form-check form-control-sm">
 						<input id="chkMerge" class="form-check-input" 
 							type="checkbox"/>
-						<label class="form-check-label" for="chkMerge">
-							Unir los ficheros de salida en uno
+						<label id="chkMergeLabel" class="form-check-label" for="chkMerge">
+							Join output files in one
 						</label>
 					</div>
 				</div>
 			</div>
 			<div class="form-group row p-0 mb-0">
-				<label class="col-sm-3 col-form-label-sm">Categorías de términos</label>
+				<label id="lblCategories" class="col-sm-3 col-form-label-sm">Topic categories</label>
 				<div class="col-sm-9">
 					<div class="input-group">
 						<select id="drpCategories" class="custom-select custom-select-sm">
@@ -135,7 +126,7 @@
 				</div>
 			</div>
 			<div class="form-group row p-0 mb-0">
-				<label class="col-sm-2 col-form-label-sm">Término</label>
+				<label id="lblTopics" class="col-sm-2 col-form-label-sm">Topic</label>
 				<div class="col-sm-10">
 					<div class="input-group">
 						<select id="drpTopics" class="custom-select custom-select-sm">

@@ -2,6 +2,20 @@ const fs = require('fs');
 const path = require('path');
 
 /**
+ * Formatea un string usando el patrón '{x}' donde x es un número 0..n.
+ * El primer argumento debe ser la cadena , y el resto los valores.
+ * @param {...string} params Strings.
+ * @return {string}
+ */
+exports.strformat = (...params) => {
+	const str = params[0];
+	return str.replace(/{(\d+)}/g, function(match, number) {
+		const n = (parseInt(number)+1).toString();
+		return typeof params[n] != 'undefined' ? params[n] : match;
+	});
+};
+
+/**
  * Extrae de un texto una porción delimitada por dos textos. Se extrae la primera 
  * aparición, las demás se ignoran.
  * @param {string} content Texto del que extraer.

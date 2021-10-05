@@ -1,0 +1,158 @@
+== Fases de construcción de esta wiki ==
+
+Esta wiki se va a construir en tres fases, en cada una de las cuales se va a tratar de alcanzar los objetivos que se detallan a continuación.
+
+=== Fase I: contenido básico ===
+
+Esta fase comprende la subida de estos contenidos:
+* ''El Libro de Urantia'' en español, cada documento en una página, con enlaces a la Biblia (versión Reina-Valera 1960) y a los Términos.
+* La Biblia (versión Reina-Valera 1960) en español, cada capítulo de cada libro en una página, con enlaces a ''El Libro de Urantia''.
+* Los Términos (los más importantes), una página cada término, con enlaces a ''El Libro de Urantia''.
+
+Esta fase se está realizando por un proceso semi-automático para agilizar la carga de páginas. Actualmente está completada la subida de ''El Libro de Urantia'' y de la mayor parte de la Biblia. Faltan algunos libros bíblicos y muchos de los Términos, así como los enlaces a esos libros bíblicos y a esos Términos allí donde corresponda.
+
+En este trabajo semi-automático se utiliza una aplicación llamada [https://github.com/JanHerca/urantiapedia Urantiapedia tools] desarrollada ''ad hoc'' para la conversión de unos formatos texto en el formato de la wiki. Se detalla más adelante cómo es esta aplicación y cómo se usa.
+
+Esta fase se espera que esté completada en agosto de 2021. Durante esta fase se desaconseja a ningún usuario modificar páginas existentes porque el proceso semi-automático revertiría los cambios cada vez que se ejecutara, algo que se realiza periódicamente cada pocos días. La intención es que una vez esta fase haya sido completada y el contenido básico haya sido incorporado, se abandone el proceso semi-automático de carga, y se proceda a un uso habitual como el que se describe a continuación.
+
+=== Fase II: contenido avanzado ===
+
+Esta fase, que empezará en agosto de 2021, iniciará el trabajo en modo normal con la ''Urantiapedia''. Aquí los usuarios registrados, según sus permisos, podrán hacer incorporaciones o realizar modificaciones a las páginas, ampliando el contenido o corrigiéndolo.
+
+Esta fase comprende estas aportaciones:
+
+* Revisión de todo el contenido básico de la Fase I, y su correción o mejora allí donde proceda.
+* Adición de la nueva traducción al español de ''El Libro de Urantia'' que va a estar disponible en 2021. Esta traducción pasará a ser la versión oficial de la página, a la que apuntarán los enlaces, pero seguirá la versión actual europea disponible. Esta adición se realizará usando los mismos procedimientos semi-automáticos usados en la Fase I.
+* Adición de la versión dual español-inglés de ''El Libro de Urantia'' a dos columnas, con todo el mismo contenido de enlaces y referencias que en la versión ya disponible en la Fase I. Esta versión dual es muy útil porque permite apreciar tanto la traducción al español como el original inglés. La versión en español de estas páginas duales será preferentemente la de la última traducción. Esta adición se realizará usando los mismos procedimientos semi-automáticos usados en la Fase I.
+* Modificación de la plantilla de referencias a ''El Libro de Urantia'', el [[Módulo:Lib|Módulo Lib]], para que los enlaces al libro se compongan de un enlace principal con el texto de la referencia más unos pequeños iconos que permitan enlazar con la versión en español europea y con la versión dual español-inglés. De este modo todos los enlaces que aparezcan en la wiki quedarán actualizados y permitirán enlazar bien con la traducción española europea, bien con la traducción española moderna, o bien con la versión dual.
+* Adición de otras fuentes de ''El Libro de Urantia'' aparte de la Biblia, ya bien sea usando sus originales en inglés si no está disponible una traducción, o bien usando tanto la versión original en inglés como una traducción al español que esté de dominio público. Estas fuentes seguirán el mismo sistema que la Biblia. Cada capítulo de un libro será una página y dispondrá de vínculos bidireccionales entre ''El Libro de Urantia'' y la fuente. Las incorporaciones de estas fuentes, debido a la variedad de formatos, seguramente no podrá realizarse por medios automáticos y requerirá un proceso manual desde la propia wiki.
+* Índices: de personas, de seres, de lugares, índices bíblicos, de referencias, de citas, cronologías, etc.
+
+=== Fase III : más allá ===
+
+Esta fase extiende la anterior con más contenido que podrá apoyarse de forma estable sobre una base sólida de versiones de ''El Libro de Urantia'', de fuentes del libro, y de Términos. Comprende estas adiciones:
+
+* Artículos y estudios enlazados con el libro y las fuentes, cuidando especialmente de indicar las referencias usadas si es que se citan trabajos científicos o de otra índole. Mucho de este contenido se encuentra ya disponible en páginas webs de Asociaciones de Urantia, pero se encuentran o bien en ficheros PDF o con un contenido que no dispone de enlaces. Incorporar todos esos trabajos a la Urantiapedia (y en español si requieren de una traducción) junto con sus enlaces permitirá disponer no sólo de un lugar centralizado a esos trabajos, sino además disponer de enlaces directos a los párrafos de ''El Libro de Urantia'' o de sus fuentes que sean citados.
+* Arte urantiano, esquemas, fotos, animaciones, mapas, y cualquier otro contenido gráfico que ayude en la comprensión del libro. Este contenido podría estar enlazado en la sección de Enlaces de cada documento del libro, o bien dentro de Artículos o de cualquier otra página.
+* Los mapas pueden ser llevados un paso más allá creando mapas interactivos que se puedan incrustar dentro de las páginas, de modo que dispongan de enlaces en los nombres de lugares que vinculen a una página de los Términos. Del mismo modo, para mapas que muestren itinerarios, los textos de esos mapas interactivos podrían ser enlaces a los párrafos de ''El Libro de Urantia'' donde se menciona ese paso del itinerario. Estos mapas serían especialmente útiles para mostrar migraciones de razas, movimientos globales de pueblos, o viajes de personas destacadas, como los viajes de Jesús de Nazaret. Para el desarrollo de estos mapas interactivos incrustados podría ser útil el uso del software y datos de [https://wiki.openstreetmap.org/ OpenStreetMap], que es el equivalente a la Wikipedia pero para mapas online.
+* Los vídeos, debido a las limitaciones de espacio que impone la wiki, que está sobre todo pensada para texto e imágenes, se podrían incorporar en forma de enlaces a otras plataformas de vídeo, usando algún modo de incrustación.
+
+Toda esta Fase III, junto a la Fase II anterior, supondría el uso manual de esta wiki para adicionar contenido, con la excepción de la adición de otras versiones de ''El Libro de Urantia''. En la Fase II y Fase III, el manejo de esta wiki se produciría como se detalla en las secciones siguientes.
+
+== Cómo colaborar en esta wiki (Fase I) ==
+
+En esta Fase la creación de páginas, aparte de estar reservada a usuarios Administradores, se realiza casi toda por un proceso semi-automático para agilizar la carga masiva de páginas o su actualización. Para ello se han desarrollado unas herramientas, las ''Urantiapedia Tools'', inicialmente en C# y después portadas a Javascript con Electron, que faciliten la conversión de unos formatos de tipo texto iniciales al formato propio de WikiMedia. Puedes averiguar más acerca de estas herramientas en esta web de Github: [https://github.com/JanHerca/urantiapedia Urantiapedia Tools].
+
+[[File:Uptools.png|frame|center|Aspecto de la versión Javascript de las Urantiapedia Tools]]
+
+Por resumir el proceso que se sigue para convertir contenido existente a la Urantiapedia, los pasos que se dan son estos:
+
+# El Paramony. El Paramony es un invaluable contenido disponible en la página de la [https://urantia-book.org/urantiabook/paramony/bible_refs_index.html Urantia Book Fellowship] creado por Duane Faw.
+#* Este Paramony se ha obtenido en su versión en inglés y se ha formateado en inglés en un formato TXT diseñado para ello.
+#* Luego se ha traducido el contenido al español.
+# El ''Topic Index''.
+#* Este ''Topic Index'' se ha obtenido en su versión en inglés del [https://www.urantia.org/urantia-foundations-first-index-urantia-book/urantia-foundations-first-index-urantia-book ''Topic Index'' de la Fundación Urantia].
+#* Luego se ha convertido a un formato TXT diseñado para ello. Este formato es una forma muy simplificada de escribir contenido para la Wiki por lo que resulta preferible como medio para introducir un gran número de páginas al tiempo.
+#* Luego se ha realizado una traducción automatizada usando Google Translator.
+#* Luego se ha chequeado usando un programa automático que verifica que las referencias a ''El Libro de Urantia'' existen, o que los términos mencionandos existen dentro del texto, colocando alias cuando es necesario para que los términos puedan ser detectados en el texto.
+#* El siguiente paso es usar los ficheros TXT del ''Topic Index'' en español para insertar hiperenlaces en ''El Libro de Urantia'' allí donde corresponda.
+#* Finalmente, el ''Topic Index'' se ha convertido del formato TXT a Wiki. Esto permite subir gran cantidad de páginas al tiempo a la ''Urantiapedia''.
+# ''El Libro de Urantia''.
+#* Se ha descargado la versión oficial europea en español de la página de la [https://www.urantia.org Fundación Urantia] y se ha convertido a un formato TEX diseñado específicamente para que los párrafos, secciones y documentos del libro tengan una disposición dada.
+#* En este formato se han añadido las referencias del Paramony usando el formato TXT diseñado para el Paramony.
+#* El resultado anterior se ha convertido a un formato JSON que sea más fácil de usar, aunque ambos el formato TEX y el formato JSON admiten el mismo contenido con las referencias del Paramony.
+#* Finalmente los ficheros JSON son convertidos al formato Wiki y en el proceso se incorporan los hiperenlaces al ''Topic Index''.
+# La Biblia
+#* Se ha descargado una versión libre de derechos de autor de la Biblia Reina-Valera de 1960.
+#* Se ha convertido a un formato TEX específicamente diseñado para que sea fácil de procesar. El proceso es similar al seguido con ''El Libro de Urantia''.
+#* Luego se ha creado un formato JSON para que sea más fácil de usar, aunque ambos el formato TEX y el JSON contienen lo mismo.
+#* Finalmente se han convertido los ficheros JSON a Wiki.
+
+[[File:formatos.png|frame|center|Proceso semi-automático usado para crear la Urantiapedia]]
+
+Consideraciones para la Fase I:
+
+* Para crear nuevas páginas en la ''Urantiapedia'' el mejor procedimiento es utilizar las ''Urantiapedia Tools'' con los formatos diseñados en ellas de modo que se puedan incorporar grandes cantidades de páginas de la forma más rápida posible. Después, esas páginas semi-automatizadas podrán ser revisadas, corregidas y ampliadas de un modo más individualizado por usuarios editores durante la Fase II y siguientes.
+* Se recomienda por tanto que para añadir términos no existentes a la Wiki se editen los ficheros TXT con los términos disponibles en Github para que luego mediante las herramientas se conviertan al formato Wiki en segundos.
+* Respecto a otros contenidos, como por ejemplo artículos u otros libros que sean fuentes de ''El Libro de Urantia'', no se dispone de ninguna herramienta actualmente para realizar la automatización de la carga en la Wiki, por lo que ese contenido por el momento deberá incorporarse de forma manual.
+
+=== Cómo usar la ''Urantiapedia Tools'' ===
+
+Los pasos se detallan en la página de GitHub, [https://github.com/JanHerca/urantiapedia Urantiapedia Tools], pero pueden resumirse así:
+
+* Regístrate gratuitamente como usuario en [https://github.com/ GitHub].
+* Inicia sesión en GitHub y ve a la página de las [https://github.com/JanHerca/urantiapedia Urantiapedia Tools].
+* Descarga el código.
+* Instala Node.js para poder ejecutar la aplicación.
+* Ejecuta npm install en la consola de Node para descargar las dependencias.
+* Ejecuta npm run start para iniciar la aplicación.
+* Los ficheros con los Términos son ficheros TXT se encuentran en input/txt/topic-index-es.
+* Edita esos ficheros en cualquier editor de textos y guarda cambios en el mismo formato TXT.
+* Ayúdate de las Urantiapedia tools para sacar un listado de todas los párrafos de ''El Libro de Urantia''  de un término.
+* Cuando hayas terminado con tus cambios súbelos como un pull request a GitHub.
+
+== Cómo colaborar en esta wiki (Fases II y III) ==
+
+Un '''''editor''''' es cualquier usuario registrado que modifica páginas existentes. Para ser editor basta con registrarse. No es necesario nada más. Un usuario registrado puede modificar páginas existentes, pero no puede crear nuevas páginas o eliminarlas. Sin embargo, un editor debería leer la sección más abajo sobre cómo modificar las páginas existentes para ser coherente con los procesos de esta wiki.
+
+Un '''''administrador''''' es cualquier usuario que ha sido registrado con permisos de administración por otro administrador. El grupo de usuarios administradores es limitado para evitar modificaciones no intencionadas que pudieran afectar al contenido de esta wiki. Para ser administrador debe contactar con uno de los usuarios administradores de la wiki. Este proceso se explica en la sección más abajo.
+
+== Cómo modificar páginas (editores) ==
+
+Cualquier usuario registrado que modifique una página existente se convierte desde la primera modificación en un usuario editor. Todas sus aportaciones pueden monitorizarse en la página especial [[Especial:Contribuciones]].
+
+Sin embargo, para mantener una coherencia de esta wiki, los usuarios que decidan colaborar siendo editores, deberían tratar de respetar estas directrices:
+
+* Páginas web que contienen los documentos de ''El Libro de Urantia'', ya sea en español o en cualquier otro idioma
+** Estás páginas se han creado utilizando como fuente las versiones y traducciones oficiales de la [https://www.urantia.org/es Fundación Urantia]. No se recomienda en absoluto la modificación del contenido de ''El Libro de Urantia'' incluso si se detecta alguna falta de ortografía o gramática. Es preferible utilizar la sección de ''Discusión'' que cada página contiene para indicar cualquier fallo en el contenido, para que el grupo de usuarios administradores apruebe, si procede, su modificación.
+** Lo anterior también se aplica a los hipervínculos y referencias que se encuentran en las páginas web que contienen los documentos de ''El Libro de Urantia''. Debido a los procesos automáticos con los que se han generado estos hipervínculos o referencias, es muy posible que algunos no estén correctos, o que a medida que se añaden nuevos términos se vayan añadiendo hipervínculos. Los editores deberían abstenerse de modificar estos hipervínculos y referencias. Es preferible que anoten cualquier error en la sección de ''Discusión'' para que los administradores lo tengan en cuenta en la regeneración masiva de esas páginas.
+* Páginas web que contienen la Biblia en español
+** Estas páginas se han creado usado la Biblia estándar Reina-Valera de 1960, que está libre de derechos de autor. No se recomienda en absoluto la modificación del contenido de la Biblia y se deberían seguir las mismas recomendaciones anteriores realizadas para ''El Libro de Urantia'' al caso de la Biblia.
+* Páginas web que contienen términos de ''El Libro de Urantia''
+** Estas páginas se han generado por un procedimiento semi-automatizado, utilizando unos ficheros de entrada. Durante la Fase I no se aconseja la edición de estas páginas mientras estos procesos semi-automáticos continúan. Por ello durante esta Fase I es preferible utilizar las secciones de ''Discusión'' para indicar fallos o sugerencias, o bien contactar con usuarios Administradores para coordinarse con ellos en el proceso semi-automático que se está siguiendo para la creación de estas páginas.
+** En la Fase II en adelante, prevista su inicio para agosto de 2021, cualquier usuario Editor es libre de hacer modificaciones a estas páginas, y se anima a ello. Una vez los procesos semi-automáticos finalicen, estas directrices serán revisadas y las páginas web de términos podrán ser modificadas por cualquier ususario Editor sin problemas.
+* Se anima a los editores a que sean respetuosos con cualquier contenido discutible que haya incorporado otro editor, y que preferentemente utilicen las páginas de ''Discusión'' de cada página para aportar su interpretación sobre un determinado contenido.
+* Existe una lista de prioridades disponible en una sección más abajo que explica cuáles son las páginas en las que hacer aportaciones primero.
+
+== Cómo ser registrado como administrador ==
+
+Para registrarse como administrador sigue estos pasos:
+
+# Dirígete a esta página especial: [[Especial:ListaUsuarios]]
+# En el selector Grupo selecciona Administradores.
+# Haz click en Mostrar.
+# Te aparecerá debajo una lista de usuarios administradores de la wiki. Haz click en cualquiera de las páginas de discusión que esté activa (con el hipervínculo en azul) de un usuario administrador.
+# Las páginas de discusión de cada usuario son páginas que cualquier usuario puede editar, y en las que se puede dejar una solicitud para ser incorporado en el grupo de usuarios administradores. Estas páginas suelen estar monitorizadas por los usuarios que las han creado por lo que cuando introduzcas un cambio será notificado y en normalmente respondido en breve.
+
+No todo usuario será admitido como usuario administrador para evitar potenciales problemas. Estos usuarios tienen permiso para modificar casi cualquier aspecto de la Urantiapedia, por lo que se mantendrá un número limitado de ellos. En cualquier caso, el usuario normal tiene permiso para poder modficar cualquier página existente, con lo que un usuario de tipo normal es más que suficiente para las necesidades de la gran mayoría de colaboradores.
+
+Está disponible un listado de tareas previstas para los usuarios administradores, que se detalla en una sección más abajo.
+
+== Lista de prioridades para editores ==
+
+Aquí se detalla un listado de aportaciones que pueden usar los editores como guía de acciones más prioritarias a realizar. Se recomienda encarecidamente que cualquier modificación que se considere que debería hacerse se notifique en la sección de ''Discusión'' de cada página en lugar de realizar la modificación directamente. Este modo de trabajar no será necesario en un futuro cercano cuando se termine la Fase I de creación semi-automatizada de las páginas.
+
+=== Prioridad 1 ===
+
+* Revisión de las páginas de términos. Estas páginas de términos se han generado por un proceso semi-automatizado a partir del ''Topic Index'' creado por [http://uversapress.com/ Uversa Press]. Debido a esto, el contenido en ocasiones no está muy bien redactado y resume demasiado la información. Existe una página con un índice de los términos, agrupados por categorías: [[Índice:Términos]]. Puedes usar esa página para ver qué páginas de términos hay ya creadas y empezar a revisar esas. Algunos aspectos que deberían revisarse:
+** Corrección del texto y su excesiva concisión en ocasiones
+** Faltan los enlaces externos a otras webs, como la Wikipedia.
+** Faltan hipervínculos internos a la propia Urantiapedia en el texto. Sí están las referencias a ''El Libro de Urantia''.
+** Faltan imágenes o dibujos que puedan mejorar las explicaciones del texto.
+
+Conviene reiterar que durante la Fase I cualquier aportación de las anteriores debería hacerse en la sección de ''Discusión'' para evitar que se pierda con los procesos automáticos. Una vez se complete la Fase I, las aportaciones anteriores revisando los términos podrán hacerse de un modo directo en la sección de ''Edición'' de cada página.
+
+=== Prioridad 2 ===
+
+* Revisión de hipervínculos en ''El Libro de Urantia''.
+* Revisión de referencias en ''El Libro de Urantia''. Las actuales referencias sólo contienen enlaces a pasajes bíblicos. En un futuro se añadirán también referencias a otras fuentes no bíblicas de ''El Libro de Urantia''.
+* Revisión de las referencias en la Biblia hacia el libro.
+
+De nuevo hay que indicar que en la Fase I cualquier fallo debería indicarse en la sección ''Discusión''.
+
+== Lista de tareas para administradores ==
+
+* Adición de todas las páginas de términos que faltan.
+* Adición de una página principal para la Biblia Reina-Valera.
+* Adición de otras fuentes de ''El Libro de Urantia'' no bíblicas, usando el espléndido trabajo de [https://urantiabooksources.com/ Matthew Block], y añadir estas fuentes como referencias en el libro.
+* Adición de artículos de lectores de ''El Libro de Urantia'', añadiendo las correspondientes referencias en los documentos del libro.

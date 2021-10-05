@@ -224,6 +224,19 @@ El comando anterior actualiza las páginas cuyos nombres coincidan con los nombr
 Más información sobre el comando aquí: https://www.mediawiki.org/wiki/Manual:ImportTextFiles.php
 
 
+== Gestión de usuarios (sobre todo en caso de vandalismo) ==
+
+Eliminar muchas páginas:
+
+Crear un archivo de texto con los nombres de páginas, uno por línea, sacados de [Special:AllPages].
+
+<pre>
+cd public_html/maintenance
+php deleteBatch.php files_to_import/pages_to_delete.txt
+</pre>`
+
+https://www.mediawiki.org/wiki/Manual:DeleteBatch.php
+
 == Apéndice <code>DEPRECATED</code>: Cargas masivas de páginas con la extensión DataTransfer ==
 
 Es preferible usar el método del comando <code>importTextFiles.php</code>. Es más rápido y fiable y el formato de entrada es simplemente formato wiki.

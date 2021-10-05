@@ -223,6 +223,18 @@ The above command updates the pages whose names match the file names of the wiki
 
 More information about the command here: https://www.mediawiki.org/wiki/Manual:ImportTextFiles.php
 
+== User management (specillay in vandalism) ==
+
+Delete a bunch of pages:
+
+Create a text file with page names, one per line, using [Special:AllPages].
+
+<pre>
+cd public_html/maintenance
+php deleteBatch.php files_to_import/pages_to_delete.txt
+</pre>
+
+https://www.mediawiki.org/wiki/Manual:DeleteBatch.php
 
 == Appendix <code>DEPRECATED</code>: Mass loading of pages with the DataTransfer extension ==
 

@@ -232,6 +232,22 @@ Más información sobre el comando aquí: https://www.mediawiki.org/wiki/Manual:
 
 ---
 
+## Gestión de usuarios (sobre todo en caso de vandalismo)
+
+Eliminar muchas páginas:
+
+Crear un archivo de texto con los nombres de páginas, uno por línea, sacados de [Special:AllPages].
+
+```
+cd public_html/maintenance
+php deleteBatch.php files_to_import/pages_to_delete.txt
+```
+
+https://www.mediawiki.org/wiki/Manual:DeleteBatch.php
+
+---
+
+
 ## Apéndice [`DEPRECATED`]: Cargas masivas de páginas con la extensión DataTransfer
 
 Es preferible usar el método del comando `importTextFiles.php`. Es más rápido y fiable y el formato de entrada es simplemente formato wiki.

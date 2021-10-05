@@ -1,4 +1,4 @@
-const {dialog} = require('electron').remote;
+const {dialog, app} = require('electron').remote;
 const path = require('path');
 const fs = require('fs');
 const Book = require('./book');
@@ -6,53 +6,58 @@ const Bible = require('./bible');
 const BibleRef = require('./bibleref');
 const TopicIndex = require('./topicindex');
 const Articles = require('./articles');
+const Processes = require('./processes');
+const Strings = require('./strings');
+const strformat = require('./utils').strformat;
 
 const book = new Book();
 const bible = new Bible();
 const bibleref = new BibleRef();
 const topicindex = new TopicIndex();
 const articles = new Articles();
-const controlIDs = [
-	'dirHButton', 'dirHTextbox',
-	'dirTButton', 'dirTTextbox',
-	'dirLButton', 'dirLTextbox', 
-	'dirJButton', 'dirJTextbox', 
-	'dirWButton', 'dirWTextbox', 
-	'drpProcess', 'exeButton', 'logArea', 'collapseButton',
-	'progress', 'chkMerge', 
-	'drpTopics', 'drpCategories'];
-const controls = {};
-let collapsed = false;
-const processControls = {
-	ALL: ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 'dirJTextbox', 'dirWTextbox',
-		'chkMerge', 'drpCategories', 'drpTopics'],
-	BIBREF_TXT_LU_JSON_TO_TXT: ['dirJTextbox', 'dirTTextbox'],
-	LU_JSON_TO_BIBREF_JSON: ['dirJTextbox'],
-	LU_JSON_BIBLEREF_JSON_TO_JSON: ['dirJTextbox'],
-	LU_HTML_TO_JSON: ['dirHTextbox', 'dirJTextbox'],
-	LU_TEX_TO_JSON: ['dirLTextbox', 'dirJTextbox'],
-	LU_TEX_TOPIC_TXT_TO_WIKI: ['dirLTextbox', 'dirTTextbox', 'dirWTextbox', 
-		'drpCategories'],
-	LU_TEX_TO_XML: ['dirLTextbox', 'dirWTextbox', 'chkMerge'],
-	LU_JSON_TO_TEX: ['dirJTextbox', 'dirLTextbox'],
-	LU_JSON_TOPIC_TXT_TO_WIKI: ['dirJTextbox', 'dirTTextbox', 'dirWTextbox', 
-		'drpCategories'],
-	LU_JSON_TO_XML: ['dirJTextbox', 'dirWTextbox'],
-	LUINDEX_JSON_TO_WIKI: ['dirJTextbox', 'dirWTextbox'],
-	BIB_TEX_BIBREF_TXT_TO_WIKI: ['dirTTextbox', 'dirLTextbox', 'dirWTextbox'],
-	BIB_TEX_TO_BIBINDEX_WIKI: ['dirLTextbox', 'dirWTextbox'],
-	BIB_TEX_TO_XML: ['dirLTextbox', 'dirWTextbox', 'chkMerge'],
-	TOPIC_TXT_TO_WIKI: ['dirTTextbox', 'dirWTextbox', 'drpCategories'],
-	TOPICINDEX_TXT_TO_WIKI: ['dirTTextbox', 'dirWTextbox', 'drpCategories'],
-	REVIEW_TOPIC_TXT_LU_JSON: ['dirTTextbox', 'dirJTextbox', 'drpCategories', 
-		'drpTopics'],
-	SUM_TOPIC_TXT: ['dirTTextbox'],
-	NORM_TOPIC_TXT: ['dirTTextbox'],
-	ARTICLE_TXT_TO_WIKI: ['dirTTextbox', 'dirWTextbox']
+
+const controls = {
+	dirHButton: null,
+	dirHTextbox: null,
+	lblHTextbox: null,
+	dirTButton: null,
+	dirTTextbox: null,
+	lblTTextbox: null,
+	dirLButton: null,
+	dirLTextbox: null,
+	lblLTextbox: null,
+	dirJButton: null,
+	dirJTextbox: null,
+	lblJTextbox: null,
+	dirWButton: null,
+	dirWTextbox: null,
+	lblWTextbox: null,
+	drpLanguage: null,
+	lblLanguage: null,
+	drpProcess: null,
+	lblProcess: null,
+	exeButton: null,
+	logArea: null,
+	collapseButton: null,
+	progress: null,
+	chkMerge: null,
+	chkMergeLabel: null,
+	drpTopics: null,
+	lblTopics: null,
+	drpCategories: null,
+	lblCategories: null
 };
+let collapsed = false;
+
+const collapsableControls = ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 
+	'dirJTextbox', 'dirWTextbox', 'chkMerge', 'drpCategories', 'drpTopics'];
+
+const topicTypes = ['TODOS', 'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION', 
+	'OTRO'];
 
 const onLoad = () => {
-	controlIDs.forEach(id => controls[id] = document.querySelector('#' + id));
+	Object.keys(controls).forEach(id => controls[id] = document.querySelector('#' + id));
+	updateUI();
 	controls.dirHButton.addEventListener('click', 
 		handle_dirButtonClick.bind(this, controls.dirHTextbox));
 	controls.dirTButton.addEventListener('click', 
@@ -65,6 +70,7 @@ const onLoad = () => {
 		handle_dirButtonClick.bind(this, controls.dirWTextbox));
 	controls.exeButton.addEventListener('click', handle_exeButtonClick);
 	controls.collapseButton.addEventListener('click', handle_collapseButtonClick);
+	controls.drpLanguage.addEventListener('change', handle_drpLanguageChange);
 	controls.drpProcess.addEventListener('change', handle_drpProcessChange);
 	controls.drpTopics.addEventListener('change', handle_drpTopicsChange);
 	book.onProgressFn = onProgress;
@@ -72,8 +78,36 @@ const onLoad = () => {
 	bibleref.onProgressFn = onProgress;
 	topicindex.onProgressFn = onProgress;
 	articles.onProgressFn = onProgress;
-	showCategoriesList();
+
+	handle_drpLanguageChange();
 	handle_drpProcessChange();
+};
+
+const updateUI = () => {
+	const lan = controls.drpLanguage.value;
+	const process = controls.drpProcess.value;
+
+	controls.drpProcess.innerHTML = Object.keys(Processes).map(key => {
+		const p = Processes[key];
+		const desc = p.desc[lan];
+		const sel = (process == key ? ' selected' : '');
+		return (p.active ? `<option value="${key}"${sel}>${desc}</option>` : '');
+	}).join('');
+
+	controls.drpCategories.innerHTML = topicTypes
+		.map(t => `<option value="${t}">${t}</option>`)
+		.join('');
+
+	Object.keys(controls).forEach(key => {
+		const control = controls[key];
+		const tagName = control.tagName.toUpperCase();
+		const text = (Strings[key] ? Strings[key][lan] : '');
+		if (tagName === 'LABEL' || tagName === 'BUTTON') {
+			control.innerHTML = text;
+		} else if (tagName === 'INPUT' && text != '') {
+			control.setAttribute('placeholder', text);
+		}
+	});
 };
 
 const handle_dirButtonClick = (textbox) => {
@@ -93,13 +127,31 @@ const handle_collapseButtonClick = () => {
 	handle_drpProcessChange();
 };
 
+const handle_drpLanguageChange = (evt) => {
+	updateUI();
+};
+
 const handle_drpProcessChange = (evt) => {
 	const process = controls.drpProcess.value;
-	const cnames = processControls[process];
-	processControls.ALL.forEach(c => {
+	if (!process || !Processes[process]) {
+		return;
+	}
+	const cnames = Processes[process].controls;
+	const paths = Processes[process].paths;
+	const lan = controls.drpLanguage.value;
+	const subpath = (Processes[process].subpath ? 
+		Processes[process].subpath[lan] : '');
+	collapsableControls.forEach(c => {
 		const hide = (collapsed || cnames.indexOf(c) === -1);
 		controls[c].parentNode.parentNode.parentNode.classList.toggle('d-none',
 			hide);
+	});
+	cnames.forEach((c,i) => {
+		if (paths && paths[i]) {
+			const folderpath = path.join(app.getAppPath(), 'input',
+				strformat(paths[i], lan, `/${subpath}`));
+			controls[c].value = folderpath;
+		}
 	});
 };
 
@@ -115,7 +167,7 @@ const handle_exeButtonClick = () => {
 	const wikiDir = controls.dirWTextbox.value;
 	const category = controls.drpCategories.value;
 	const merge = controls.chkMerge.checked;
-	const ctrls = processControls[process];
+	const ctrls = Processes[process].controls;
 
 	if (!checkControls(ctrls)) {
 		return;
@@ -417,14 +469,6 @@ const showTopicSummary = (obj) => {
 		`<tbody>${body2}<tr>${footer2}</tr></tbody></table>`;
 	
 	controls.logArea.innerHTML = html + html2;
-};
-
-const showCategoriesList = () => {
-	const topicTypes = [
-		'TODOS', 'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION', 'OTRO'];
-	controls.drpCategories.innerHTML = topicTypes
-		.map(t => `<option value="${t}">${t}</option>`)
-		.join('');
 };
 
 const onProgress = (baseName) => {
