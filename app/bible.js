@@ -1,18 +1,26 @@
-//Reader/Writer para la Biblia en diferentes formatos (LaTeX/JSON/Wiki)
+//Reader/Writer for Bible in different formats (LaTeX/JSON/Wiki)
 
 const LaTeXSeparator = require('./enums').LaTeXSeparator;
-//TODO: Esto solo funciona para español
-const BibleAbb_es = require('./enums').BibleAbb_es;
+//TODO: Books to add:
+// Macabeos I y II, Eclesiástico, Sabiduría, Historia de Bel y el Dragón,
+// Oración de Manasés, Tobit, Enoc, Asunción de Moisés
+const BibleAbbs = require('./abb');
 const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
 const readFrom = require('./utils').readFrom;
 const fs = require('fs');
 const path = require('path');
+const Strings = require('./strings');
 
 class Bible {
+	language = 'en';
 	biblebooks = [];
 	onProgressFn = null;
+
+	setLanguage = (language) => {
+		this.language = language;
+	};
 
 	//***********************************************************************
 	// LaTeX
@@ -58,28 +66,25 @@ class Bible {
 		};
 		let currentChapter = null;
 		let currentSection = null;
-		//TODO: Esto solo funciona para español
-		const booknames = Object.values(BibleAbb_es);
+		const booknames = Object.values(BibleAbbs[this.language]);
+		const bookabbs = Object.keys(BibleAbbs[this.language]);
 
 		lines.forEach((line, i) => {
 			if (line.startsWith(LaTeXSeparator.TITLE_START)) {
 				extract = extractStr(line, LaTeXSeparator.TITLE_START,
 					LaTeXSeparator.END);
 				if (!extract) {
-					errors.push(this.createError(baseName, i,
-						'No se pudo extraer el título del libro'));
+					errors.push(this.getError('bible_no_title', baseName, i));
 				} else {
 					book.file = path.basename(baseName, '.tex');
 					book.title = extract;
-					//TODO: Esto solo funciona para español
-					book.abb = Object.keys(BibleAbb_es)[booknames.indexOf(book.title)];
+					book.abb = bookabbs[booknames.indexOf(book.title)];
 				}
 			} else if (line.startsWith(LaTeXSeparator.CHAPTER_START)) {
 				extract = extractStr(line, LaTeXSeparator.CHAPTER_START,
 					LaTeXSeparator.END);
 				if (!extract) {
-					errors.push(this.createError(baseName, i,
-						'No se pudo extraer el capítulo'));
+					errors.push(this.getError('bible_no_chapter', baseName, i));
 				} else {
 					currentChapter = {
 						title: extract,
@@ -93,16 +98,14 @@ class Bible {
 				extract = extractStr(line, LaTeXSeparator.SECTION_START,
 					LaTeXSeparator.END);
 				if (!extract) {
-					errors.push(this.createError(baseName, i,
-						'No se pudo extraer la sección'));
+					errors.push(this.getError('bible_no_section', baseName, i));
 				} else {
 					currentSection = {
 						title: extract,
 						pars: []
 					};
 					if (!currentChapter) {
-						errors.push(this.createError(baseName, i,
-							'Sección antes de capítulo?'));
+						errors.push(this.getError('bible_section_order', baseName, i));
 					} else {
 						currentChapter.sections.push(currentSection);
 					}
@@ -133,7 +136,7 @@ class Bible {
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
 				if (err) {
-					reject([new Error(`El directorio ${baseName} no está accesible`)]);
+					reject([this.getError('dir_no_access', baseName)]);
 					return;
 				}
 				let files = [];
@@ -251,10 +254,10 @@ class Bible {
 	writeIndexToWiki = (dirPath) => {
 		return new Promise((resolve, reject) => {
 			const filePath = path.join(dirPath, 'index.wiki');
+			const booknames = Object.values(BibleAbbs[this.language]);
 			let wiki = '';
 
-			//TODO: Esto solo funciona para español
-			Object.values(BibleAbb_es).forEach(name => {
+			booknames.forEach(name => {
 				wiki += `* ${name}: `;
 				const book = this.biblebooks.find(book => book.title === name);
 				if (book) {
@@ -318,8 +321,15 @@ class Bible {
 	// Help functions
 	//***********************************************************************
 
-	createError = (file, linenum, msg) => {
-		return new Error(`${file}, línea ${linenum}: ${msg}`);
+	/**
+	 * Returns an error.
+	 * @param  {...any} params Params.
+	 * @returns {Error}
+	 */
+	 getError = (...params) => {
+		const msg = params[0];
+		return new Error(
+			strformat(Strings[msg][this.language], ...params.slice(1)));
 	};
 
 	writeTo = (dirPath, format, bibleref) => {
@@ -327,7 +337,7 @@ class Bible {
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
 				if (err) {
-					reject([new Error(`El directorio ${baseName} no está accesible`)]);
+					reject([this.getError('dir_no_access', baseName)]);
 					return;
 				}
 				let promises = [];

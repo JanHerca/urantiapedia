@@ -12,41 +12,41 @@
 
 
 
-Jaboc | | | LUGAR | 
+Jaboc | | | PLACE | 
 desemboca en el río Jordán (124:6.6)
 
-Jacobo (evangelista); Jacobo | | | PERSONA | OK
+Jacobo (evangelista); Jacobo | | | PERSON | OK
 Jacobo es un desconocido discípulo de Jesús que dirigió al grupo de evangelistas más jóvenes (150:5.1)
 
-Jacobo (mensajero); Jacobo | | | PERSONA | OK
+Jacobo (mensajero); Jacobo | | | PERSON | OK
 Jacobo era el mensajero más veloz y confiable de David Zebedeo, a quien Jesús encargó su último mensaje de despedida para Abner (182:2.5)
 
-Jacobo de Creta; Jacobo | | | PERSONA | OK
+Jacobo de Creta; Jacobo | | | PERSON | OK
 Jacobo era un judío rico de Creta dedicado al comercio. Durante un encuentro con Jesús en la Pascua del año 27 d.C.tuvieron una provechosa conversación sobre Dios el Padre y sobre la llamada «ira de Dios» (142:2)
 
-Jacobo de Emaús; Jacobo | | | PERSONA | OK
+Jacobo de Emaús; Jacobo | | | PERSON | OK
 Jacobo de Emaús, junto a su hermano mayor Cleofás, eran dos pastores, algo creyentes en Jesús, que fueron los afortunados testigos de la séptima aparición de Jesús, mientras iba de camino a Emaús. Curiosamente el nombre de Jacobo no aparece en los evangelios, aunque sí el de Cleofás (190:5)
 > https://es.wikipedia.org/wiki/Cena_de_Emaús
 
-Jacob (Antiguo Testamento) | (126:1.2) | | PERSONA | OK
+Jacob (Antiguo Testamento) | (126:1.2) | | PERSON | OK
 Jacob es un nieto de Abraham que tuvo dificultades para comprender las tradiciones de Salem (93:9.5)
 dormía sobre piedra porque la veneraba y la ungía (85:1.1)
 > https://es.wikipedia.org/wiki/Jacob
 
-Jacobo el albañil (padre); Jacobo | | | PERSONA | OK
+Jacobo el albañil (padre); Jacobo | | | PERSON | OK
 Jacobo era albañil y fue el socio comercial de José y con él tuvo varias casas en el pueblo en común; fue el vecino de la casa de al lado en Nazaret (124:2.4) (126:3.1)
 el joven Jesús pidió consejo a Jacobo sobre qué hacer cuando se presentó en Nazaret un rabino de Jerusalén con una oferta para la familia (123:6.9)
 Jacobo debió de fallecer hacia el año 20 d.C. o antes y su casa pasó a ser ocupada por su hijo Jacobo y Miriam, la hermana de Jesús (128:7.12)
 
-Jacobo el albañil (hijo); Jacobo | (123:1.4) (124:2.4) | | PERSONA | OK
+Jacobo el albañil (hijo); Jacobo | (123:1.4) (124:2.4) | | PERSON | OK
 Jacobo era el hijo de Jacobo el albañil, el socio de José; fue el amigo más íntimo de la infancia de Jesús y su defensor autoproclamado, quien evitaba que los abusones se aprovecharan de la docilidad de Jesús (123:1.4) (124:2.4) (133:1.5)
 fue albañil como su padre y fue socio comercial de los hermanos de Jesús (128:2.2) (128:5.8)
 se casó con Miriam, hermana de Jesús, en noviembre del año 20 d.C. (128:5.8) (128:7.10,12)
 
-pozo de Jacob | (124:6.1) (127:3.3) (143:5.2-3) (193:1) | | LUGAR | 
+pozo de Jacob | (124:6.1) (127:3.3) (143:5.2-3) (193:1) | | PLACE | 
 En este pozo bebió Jesús en varias ocasiones
 
-Jah | | | PERSONA | OK
+Jah | | | PERSON | OK
 Jah es una denominación semita de la Deidad, versión más breve de Yahvé para evitar pronunciar este nombre (96:1.9)
 > https://en.wikipedia.org/wiki/Jacob
 
@@ -55,7 +55,7 @@ Siglo VI a.C. movimiento religioso (92:5.12)
 Resumen de Ganid de (131:6)
 influencia en el hinduismo (94:4.1)
 
-Jairo | (152:0.1) (152:1) | | PERSONA | OK
+Jairo | (152:0.1) (152:1) | | PERSON | OK
 Jairo era uno de los jefes de la sinagoga nueva de Cafarnaúm (152:0.1) (153:1.1)
 Jesús sanó a la hija de Jairo de un coma, aunque la curación siempre fue considerada una resurrección por los testigos (152:0.1) (152:1.1-3)
 Los líderes de Jerusalén trabajaron para disuadir a Jairo de permitir a Jesús en la sinagoga (153:1.7)
@@ -64,9 +64,9 @@ dimitió como dirigente principal y se alineó abiertamente con Jesús (154:1.2)
 
 Epístola de Santiago | | Ver Santiago (hermano de Jesús):Epístola | | 
 
-Jacobo Alfeo | | Ver gemelos Alfeo | PERSONA | OK
+Jacobo Alfeo | | Ver gemelos Alfeo | PERSON | OK
 
-Santiago (hermano de Jesús); Santiago | (126:3.12) (126:4.9) (126:5.8) (127:2.11) (137:6.1,4) (154:5.1) | Ver Jesús:familia | PERSONA | OK
+Santiago (hermano de Jesús); Santiago | (126:3.12) (126:4.9) (126:5.8) (127:2.11) (137:6.1,4) (154:5.1) | Ver Jesús:familia | PERSON | OK
 Santiago es uno de los hermanos de Jesús. Nació el 2 de abril del año 3 a.C.; fue el segundo hijo de José y María (123:1.5)
 Santiago fue uno de los hermanos con que mejor se llevó Jesús (124:4.3)
 fue quien acompañó a María a Séforis cuando ocurrió el accidente que costó la vida de José (126:2.1)
@@ -100,11 +100,11 @@ el carácter de Santiago
 	aprendió a practicar una prudente conciliación cuando compareció antes los magistrados civiles (139:4.13)
 > https://es.wikipedia.org/wiki/Santiago_el_Justo
 
-Santiago de Safed; Santiago | | | PERSONA | OK
+Santiago de Safed; Santiago | | | PERSON | OK
 Santiago de Safed era un ciudadano de Tiberiades que tenía un hijo de catorce años aquejado de epilepsia, y además estaba poseído realmente por un ser intermedio malévolo. Jesús sanó al muchacho (158:4-5)
 Santiago es quien pronunció ante Jesús la famosa frase que reza «Señor, creo; ayuda a mi incredulidad» (158:5.2)
 
-Santiago Zebedeo; Santiago | (139:3 s) (141:7.13) (143:3.5) (144:1.7) (167:0.3) (167:4.4) (174:1.1) (191:0.5) | Ver apóstoles de Jesús | PERSONA | OK
+Santiago Zebedeo; Santiago | (139:3 s) (141:7.13) (143:3.5) (144:1.7) (167:0.3) (167:4.4) (174:1.1) (191:0.5) | Ver apóstoles de Jesús | PERSON | OK
 Santiago Zebedeo, apodado como su hermano Juan «Hijo del trueno», estaba casado cuando conoció a Jesús y tenía cuatro hijos; era de Cafarnaúm; tenía 30 años en el año 26 d.C.; sus padres eran Zebedeo y Salomé (139:3.1)
 fue compañero de pesca de Andrés, Pedro y su hermano Juan (139:1.1) (139:3.1)
 fue bautizado por Juan en el año 25 d.C. (135:8.1)
@@ -141,13 +141,13 @@ actitud
 	era un pensador equilibrado y planificador; nunca tenía prisa (139:3.7)
 > https://es.wikipedia.org/wiki/Santiago_el_Mayor
 
-Jamnia | (134:7.4) | | LUGAR | 
+Jamnia | (134:7.4) | | PLACE | 
 Jesús pasó por esta población
 
-Jansad | | | PERSONA | OK
+Jansad | | | PERSON | OK
 Jansad fue hijo de Evason, el segundo hijo de Adán, y por tanto nieto de éste; fue el sucesor de Adán como jefe de las tribus adamitas (76:3.3)
 
-Japón | (60:3.6) | | LUGAR | 
+Japón | (60:3.6) | | PLACE | 
 Migración andita a (78:5.6)
 Asoka estableció el budismo en (94:9.1) (94:11.1)
 flotando sobre el precipicio de una tumba acuosa (58:5.8)
@@ -156,18 +156,18 @@ biblioteca de Alejandría contenía manuscritos de (130:3.4)
 Misioneros de Salem en (93:7.2)
 Shinto venerado en (92:6.15)
 
-Jafia | (149:0.1) | | LUGAR | 
+Jafia | (149:0.1) | | PLACE | 
 Jesús visitó esta población durante la segunda gira de predicación pública en Galilea
 
-Yaram el Hitita | | | PERSONA | OK
+Yaram el Hitita | | | PERSON | OK
 Yaram el Hitita fue un estudiante de la escuela de Melquisedek que fue enviado por este para invitar a Abraham y su hermano Najor a Salem (93:5.5)
 
-Java | | | LUGAR | 
+Java | | | PLACE | 
 Migración andónica a (64:1.5)
 Asoka estableció el budismo en (94:9.1)
 puente terrestre que conecta a Java con Asia (64:1.6)
 
-hombre de Java | | | RAZA | 
+hombre de Java | | | RACE | 
 huesos encontrados recientemente; Andonita (64:1.6)
 
 celos | | Ver envidia | | 
@@ -179,41 +179,41 @@ Primates celosos de la casa del árbol de Andón (63:2.1)
 celos sexuales no innato (82:4.4)
 cuando es atacado por celos, descansa en la ciudadela del espíritu (100:2.7)
 
-Jebús | | | LUGAR | 
+Jebús | | | PLACE | 
 ciudad de Salem, más tarde Jerusalén (93:2.4) (97:9.11,17)
 El rey David se casó con 6 mujeres de Jebús; capital establecido en (97:9.10-11)
 ciudad de murallas fuertes entre Judá e Israel (97:9.11)
 
-jebuseos | | | RAZA | 
+jebuseos | | | RACE | 
 palestinos no hebreos; se unió al nuevo reino de David (97:9.7)
 
-Joás de Israel; Joás | | | PERSONA | OK
+Joás de Israel; Joás | | | PERSON | OK
 Joás fue un rey de Israel, padre de Jeroboam; liberó a Israel de sus enemigos (97:9.20)
 > https://es.wikipedia.org/wiki/Joás_de_Israel
 
-Yonadab | | | PERSONA | OK
+Yonadab | | | PERSON | OK
 Yonadab o Jonadab, hijo de Recab, fue un cacique gitano que ayudó a Jehú a destruir a los profetas samaritanos de Baal; su vida nómada se oponía a la vida sendentaria de las ciudades y a la compra de tierras, que consideraban pecaminosa (97:9.19)
 > https://es.wikipedia.org/wiki/Recabita
 
-Jehová | | | PERSONA | OK
+Jehová | | | PERSON | OK
 Jehová es un término que se ha empleado en tiempos recientes para designar el concepto definitivo de Yahvé, surgido de la larga experiencia de los hebreos; el término fue usado por primera vez hacia el 1500 d.C. (96:1.10)
 Originalmente Jehová era el espíritu demoníaco del monte Horeb (94:12.1)
 > https://es.wikipedia.org/wiki/Jehová
 
-Jehú | (124:6.3) | | PERSONA | OK
+Jehú | (124:6.3) | | PERSON | OK
 Jeshú es considerado el décimo rey de Israel aunque El Libro de Urantia lo denomina terratiente y no rey; unió fuerzas con Yonadab para destruir los profetas de Baal en Samaria (97:9.19)
 > https://es.wikipedia.org/wiki/Jehú
 
 medusas | (59:2.11) (65:2.5) | | | 
 
-Jefté | | | PERSONA | OK
+Jefté | | | PERSON | OK
 Jefté es un personaje bíblico, juez de Israel, que ofreció a su única hija como sacrificio humano para cumplir una promesa sagrada; un claro ejemplo de lo desgarradoras que podían ser las costumbres religiosas antiguas (89:6.3)
 > https://es.wikipedia.org/wiki/Jefté
 
-Jerami | | | PERSONA | OK
+Jerami | | | PERSON | OK
 Jerami fue un prosélito judío griego de Nicópolis que conoció a Jesús durante el viaje por el Mediterráneo de éste; posteriormente conocería a Pablo, durante el tercer viaje misionero del apóstol (133:2.5)
 
-Jeremías | | | PERSONA | OK
+Jeremías | | | PERSON | OK
 Jeremías fue un profeta intrépido (97:6)
 afirmó que Yahvé era el Dios de todas las naciones, no sólo de la nación hebrea (97:6.2)
 aconsejó rendir Jerusalén a Nabucodonosor, lo que le valió la prisión (97:6.4)
@@ -226,7 +226,7 @@ habló de la ley escrita en el corazón de los hombres (121:7.5)
 Jesús citó a Jeremías en numerosas ocasiones (130:8.2) (145:2.5) (149:6.12) (153:2.2) (165:4.8)
 > https://es.wikipedia.org/wiki/Jeremías_(profeta)
 
-Jericó | (124:6.7) (125:3.2) (127:3.6) (128:3.2) (147:6.2) | | LUGAR | 
+Jericó | (124:6.7) (125:3.2) (127:3.6) (128:3.2) (147:6.2) | | PLACE | 
 antiguo vado por el que pasó Josué (135:6.1)
 sacrificios humanos en la construcción de muros (89:6.6)
 Jesús bendijo a los niños pequeños en (167:5.2) (167:6.1-3)
@@ -238,11 +238,11 @@ restauración de la vista a Bartimeo en (171:5)
 historia del buen samaritano en (164:1)
 Zaqueo de (171:6)
 
-Jeroboam | | | PERSONA | OK
+Jeroboam | | | PERSON | OK
 Jeroboam, hijo de Joás, fue el decimotercer rey de Israel; liberó a Israel de sus enemigos (97:9.20)
 > https://es.wikipedia.org/wiki/Jeroboam_II
 
-Jerusalén | (147) (124:6) (129:2.6) (134:7.5) (134:9.2) (140:7.2) (141:9) (152:7) | Ver templo de Jerusalén | LUGAR | 
+Jerusalén | (147) (124:6) (129:2.6) (134:7.5) (134:9.2) (140:7.2) (141:9) (152:7) | Ver templo de Jerusalén | PLACE | 
 los apóstoles relacionaron la destrucción de Jerusalén con la aparición de la Nueva Jerusalén (176:1.6)
 sitiado en tiempos de Jeremías (97:6.4)
 ciudad de la casa del Padre (171:4.7)
@@ -264,7 +264,7 @@ los profetas perecen en (171:4.7)
 Situación en la semana antes de la crucifixión (175:4)
 templo de Baal junto al templo de Yahvé (97:9.21)
 
-templo de Jerusalén | (125:1.5) (150:1.3) (172:4) | Ver Jerusalén; guardias del templo de Jerusalén; judaísmo; cambistas; sanedrín | LUGAR | 
+templo de Jerusalén | (125:1.5) (150:1.3) (172:4) | Ver Jerusalén; guardias del templo de Jerusalén; judaísmo; cambistas; sanedrín | PLACE | 
 sacrificio de animales (125:1.1,4) (125:2.1,3) (125:5.5) (173:1.1-2)
 profanado por el tráfico de animales, cambistas (173:1)
 sistema bancario extenso (173:1.3-4)
@@ -308,7 +308,7 @@ lugares en el templo de Jerusalén
 El secreto de la supervivencia del judaísmo fue la centralización del culto en (121:2.6)
 la tesorería podría tener 10 millones de dólares (173:1.4)
 
-guardias del templo de Jerusalén | | | PERSONA | OK
+guardias del templo de Jerusalén | | | PERSON | OK
 son un tipo de soldados que trabajaban en el templo para mantener el orden
 Judas se reunió con el capitán de los guardias del templo para organizar la captura de Jesús (182:2.13) (183:2.1)
 el grupo de guardias del templo que prendió a Jesús tuvo una disputa con los soldados romanos sobre dónde llevar a Jesús, si a casa de Anás o de Caifás (183:5.1)
@@ -318,7 +318,7 @@ huyeron cuando vieron la piedra de la tumba de Jesús moverse sola (189:2.4)
 fueron sobornados para que dijeran que los discípulos se habían llevado el cuerpo de Jesús (189:2.4)
 el capitán de los guardias del templo fue quien extrajo los lienzos fúnebres de Jesús y los arrojó a un acantilado cercano (190:1.2)
 
-Jerusem | (46) | Ver esferas arquitectónicas; mundos de las mansiones; Satania | LUGAR | 
+Jerusem | (46) | Ver esferas arquitectónicas; mundos de las mansiones; Satania | PLACE | 
 187.432.811 ciudadanos ascendientes; ninguno perdido en rebelión (53:7.12)
 las actividades en Jerusem son trabajo, progreso y juego (46:5.29)
 Adán y Eva en adelante (74:1)
@@ -384,7 +384,7 @@ sufragio universal; ponderado por mota (45:7.6)
 pesos y medidas (46:1.2)
 El mundo del Padre es una esfera de transición silenciosa dando vueltas (45:1.9)
 
-Jesús | | Ver Cristo; Hijos Creadores; Miguel de Nebadon; Ajustador del Pensamiento de Jesús; apóstoles de Jesús; religión:explicado | PERSONA | 
+Jesús | | Ver Cristo; Hijos Creadores; Miguel de Nebadon; Ajustador del Pensamiento de Jesús; apóstoles de Jesús; religión:explicado | PERSON | 
 los apóstoles creían que Jesús era el Hijo Eterno, la segunda persona de la Trinidad del Paraíso (157:5.1) (161:2.10)
 Jesús era la perfección del hombre y los creyentes están destinados a alcanzar la perfección en él y a través de él (142:7.15)
 texto de cumpleaños de Isaías (97:5.3) (123:5.11) (126:5.2) (148:5.5) (150:8.9) (190:5.4)
@@ -1183,7 +1183,7 @@ escrituras
 	en la arena ante el marido de Hildana (162:3.5)
 	trabajo de traducción para comerciante de Damasco (128:4.2)
 
-Jetro | | | PERSONA | 
+Jetro | | | PERSON | 
 Suegro de Moisés (96:5.3)
 
 Joyería | | Ver ornamentación | | 
@@ -1195,7 +1195,7 @@ Religión judía | | Ver judaísmo | |
 preceptor judío | | | | 
 Jesús fue conocido como el preceptor judío en Corinto (129:3.2)
 
-judíos | | Ver lenguaje hebreo; judíos (hebreos antiguos) | RAZA | 
+judíos | | Ver lenguaje hebreo; judíos (hebreos antiguos) | RACE | 
 Los apocaliptistas del judaísmo enseñaron el sufrimiento debido a los pecados de la nación (135:5.2)
 actitudes
 	pueblo elegido
@@ -1260,7 +1260,7 @@ asuntos politicos
 dolores de un pueblo despreciado incomprendido (121:6.7) (155:6.10)
 estado del judío individual (175:2)
 
-judíos (hebreos antiguos) | | Ver cautiverio babilónico; judíos | RAZA | 
+judíos (hebreos antiguos) | | Ver cautiverio babilónico; judíos | RACE | 
 La descendencia de Abraham formó el núcleo de (96:2.3)
 ceremonia de adopción (70:3.8)
 creencias y actitudes
@@ -1296,25 +1296,25 @@ parte de una raza semítica más antigua que incluía a babilonios, fenicios y c
 la religión era austera y tiránica (98:3.2)
 escrituras de | Ver Antiguo Testamento
 
-Jezabel | (124:6.3) | | PERSONA | 
+Jezabel | (124:6.3) | | PERSON | 
 Reina judía de origen fenicio
 
-Jezreel | (124:6.1,3) (149:0.1) | | LUGAR | 
+Jezreel | (124:6.1,3) (149:0.1) | | PLACE | 
 Jesús pasó por esta población
 
-Joab | | | PERSONA | 
+Joab | | | PERSON | 
 joven evangelista; cabecilla del complot para hacer rey a Jesús (152:2.5) (153:5.2)
 
-Joaquín | | | PERSONA | 
+Joaquín | | | PERSON | 
 padre de María madre de Jesús (122:3.3)
 
-Juana | | | PERSONA | 
+Juana | | | PERSON | 
 reunión organizada en el nuevo palacio de Herodes (150:3.1)
 en las apariciones de Jesús (190:3.1) (193:0)
 tumba vacía descubierta (189:4.2-14)
 tesorera del cuerpo de mujeres; esposa de Chuza, mayordomo de Herodes (150:1.1-2) (154:0.2)
 
-Joás de Judá; Joás | | | PERSONA | 
+Joás de Judá; Joás | | | PERSON | 
 niño rey; cruzado por Yahvé (97:9.21)
 
 Job (libro) | | | | 
@@ -1325,16 +1325,16 @@ Protesta contra el concepto egipcio de recompensas divinas por la justicia (97:8
 refleja la escuela de Salem en Kish (95:1.10)
 escrito durante 300 años (96:7.5)
 
-Jogbeha | (165:0.1) | | LUGAR | 
+Jogbeha | (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
-Johab | | | PERSONA | 
+Johab | | | PERSON | 
 el novio de las bodas de Caná (137:3.6)
 
-Juan Hircano | | | PERSONA | 
+Juan Hircano | | | PERSON | 
 templo destruido en el monte Gerizim (143:4.2)
 
-Juan Marcos | (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1) | | PERSONA | 
+Juan Marcos | (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1) | | PERSON | 
 se acercó a Jesús con una canasta pequeña (177:0.4)
 asociado con Pedro; más tarde, Pablo (121:8.3)
 en las apariciones de Jesús (192:1.2,4)
@@ -1364,7 +1364,7 @@ los padres fueron Elías y María Marcos (182:0.1)
 día de descanso con Jesús (177:1-2)
 caminó alrededor del lago con Jesús (152:5.1)
 
-Juan el Bautista | (135) | | PERSONA | 
+Juan el Bautista | (135) | | PERSON | 
 apóstoles de | Ver apóstoles de Juan el Bautista
 en el bautismo de Jesús (135:8.6)
 bautizó a más de 100.000 penitentes en 15 meses (135:6.4)
@@ -1412,9 +1412,9 @@ Tarde o temprano surgirá una Juan el Bautista mayor (170:5.19)
 parábola atronadora de Lázaro y Dives (169:3)
 visto como un profeta (135:6.2) (135:12.2) (173:2.4-5)
 
-Juan el revelador | | Ver Juan Zebedeo | PERSONA | 
+Juan el revelador | | Ver Juan Zebedeo | PERSON | 
 
-Juan Zebedeo | (129:1.12) (139:4) (141:7.14) (143:3.5) (143:5.12) (144:1.7) (178:2.6-8) (192:1.3) (192:4.7) | Ver apóstoles de Jesús | PERSONA | 
+Juan Zebedeo | (129:1.12) (139:4) (141:7.14) (143:3.5) (143:5.12) (144:1.7) (178:2.6-8) (192:1.3) (192:4.7) | Ver apóstoles de Jesús | PERSON | 
 comportamiento
 	bautizado por Juan en diciembre del 25 d.C. (135:8.1)
 	se convirtió en apóstol (137:1.5-8)
@@ -1484,22 +1484,22 @@ visiones de
 bien conocido por los sirvientes mayores de Anás (184:0.3)
 el apóstol más joven, soltero, de Cafarnaúm; 24 en el año 26 d.C. (139:4.1) (181:2.2)
 
-Jonás | (159:4.4) | | PERSONA | 
+Jonás | (159:4.4) | | PERSON | 
 El discurso de Jesús sobre (130:1)
 
-Jope | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | | LUGAR | 
+Jope | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | | PLACE | 
 Aquí estuvo Jesús en varias ocasiones
 
-río Jordan | | | LUGAR | 
+río Jordan | | | PLACE | 
 vado | Ver Betania en el Jordán
 El bautismo de Jesús en (135:8)
 derramado de una cueva subterránea (157:3.1)
 el valle era tropical (124:6.5)
 
-José (maestro) | | | PERSONA | 
+José (maestro) | | | PERSON | 
 renombrado maestro liberal de Nazaret (124:4.8)
 
-José (hermano de Jesús) | (138:1.4) (154:5.1) | Ver Jesús:familia | PERSONA | 
+José (hermano de Jesús) | (138:1.4) (154:5.1) | Ver Jesús:familia | PERSON | 
 los apóstoles se quedaron (137:2.9)
 en la cuarta aparición de Jesús (190:2.6)
 nacido el 16 de marzo del 1 d.C. (123:4.9)
@@ -1513,7 +1513,7 @@ se mudó a la casa familiar en el año 24 d.C. (134:1.6)
 permitido que el orgullo interfiera (154:6.1)
 creencia tentativa en Jesús (137:3.2)
 
-José (padre de Jesús) | (122:1) (122:5) | Ver Jesús:familia | PERSONA | 
+José (padre de Jesús) | (122:1) (122:5) | Ver Jesús:familia | PERSON | 
 en la primera Pascua de Jesús (125)
 actitud
 	enojado con Jesús por los juegos de Escitópolis (124:3.8)
@@ -1555,7 +1555,7 @@ trabajo
 	empleado como capataz en Alejandría (123:0.1)
 	en Séforis (124:5.5)
 
-José de Arimatea | (174:5.1) (188:3.3) | | PERSONA | 
+José de Arimatea | (174:5.1) (188:3.3) | | PERSON | 
 acompañó a Jesús al templo (175:0.1)
 creía que Jesús se levantaría de la tumba (188:1.2,8)
 el cuerpo de Jesús reclamado audazmente de Pilato (142:6.9) (187:6.2) (188:0.3)
@@ -1571,21 +1571,21 @@ discípulo más franco de Jesús en Jerusalén (188:1.2)
 visitó la tumba vacía (190:1.2)
 las mujeres creyentes se quedaron en casa de (188:1.7) (189:4.2) (192:0.3)
 
-José de Tiro; José | | | PERSONA | 
+José de Tiro; José | | | PERSON | 
 Jesús se quedó con (156:4.1-2) (156:6.1)
 
-José (Antiguo Testamento) | | | PERSONA | 
+José (Antiguo Testamento) | | | PERSON | 
 bisnieto de Abraham; administrador civil en Egipto; firma
 creyente en Melquisedek (93:9.5,8)
 las circunstancias políticas facilitaron la promoción de las enseñanzas de Salem en Egipto (95:3.5)
 vendido como esclavo egipcio en Dotán (126:1.2)
 
-Josué ben José | | Ver Jesús | PERSONA | 
+Josué ben José | | Ver Jesús | PERSON | 
 
-Josué (Jesús) | | Ver Jesús | PERSONA | 
+Josué (Jesús) | | Ver Jesús | PERSON | 
 Gabriel le indicó a María que nombrara a su hijo (122:3.1) (122:8.2)
 
-Josué (Antiguo Testamento) | (124:6.7) (135:6.1) (135:9.5) | | PERSONA | 
+Josué (Antiguo Testamento) | (124:6.7) (135:6.1) (135:9.5) | | PERSON | 
 llegó a Jerusalén a través de Jericó (135:6.1) (172:1.3)
 Jesús citó (153:2.5)
 vivió para entrar en la tierra prometida (166:3.2)
@@ -1593,10 +1593,10 @@ Moisés entregó el mando de Hebreos a (96:5.9)
 Predicó el evangelio severo a un pueblo incrédulo (96:6.1,3)
 colocó 12 piedras junto al Jordán (135:6.7)
 
-Josué el educador | | | PERSONA | 
+Josué el educador | | | PERSON | 
 fue un capítulo en la vida de Jesús (133:9.6)
 
-Josías (mendigo ciego) | | | PERSONA | 
+Josías (mendigo ciego) | | | PERSON | 
 se convirtió en predicador del evangelio de por vida (164:5.6)
 ante el sanedrín (164:4)
 expulsado de la sinagoga (164:4.11) (164:5.4-5)
@@ -1604,19 +1604,19 @@ sanado por Jesús (164:3)
 ni tonto ni falto de humor (164:4.9)
 los padres eran almas pobres y llenas de miedo (164:4.7)
 
-Josías (discípulo de Abner) | | | PERSONA | 
+Josías (discípulo de Abner) | | | PERSON | 
 fariseo bautizado (174:4.4)
 
-Josías (rey) | | | PERSONA | 
+Josías (rey) | | | PERSON | 
 destruyó el anillo de políticos corruptos de Jerusalén (97:9.23)
 Egipcios derrotados en Meguido (126:1.2)
 interceptó al poderoso ejército de Necao; fue aniquilado (97:9.24)
 
-Jotapata | (138:9.3) (156:6.2) | | LUGAR | 
+Jotapata | (138:9.3) (156:6.2) | | PLACE | 
 El discurso de Jesús sobre la oración en (146:2)
 María Magdalena y Rebeca fueron ordenadas en (150:2.3)
 
-Júpiter | | | LUGAR | 
+Júpiter | | | PLACE | 
 persiste solo como exclamación (96:1.14)
 
 alegría | | Ver felicidad; paz:paz espiritual | | 
@@ -1634,7 +1634,7 @@ El Espíritu de la Verdad da (194:0.1)
 el crecimiento espiritual produce resultados duraderos (100:4.3)
 compartir el maestro alegría, compartir su amor y servicio (180:1.5)
 
-Alegría de la Existencia | | | ORDEN | 
+Alegría de la Existencia | | | ORDER | 
 colaborar con Directores de la reversión (28:5.16)
 promover reacciones de alegría (28:5.16)
 reflejo de los Supervisores seráficos de la Armonía (28:5.16)
@@ -1647,9 +1647,9 @@ jubileos | | | |
 7 en carrera ascendente (27:7.8)
 al establecerse un universo local en luz y vida (17:3.11)
 
-Judá | | Ver Judea | LUGAR | 
+Judá | | Ver Judea | PLACE | 
 
-judaísmo | (97:10) (121:6) | Ver Abraham (Antiguo Testamento); libros apócrifos; arca de Yahvé; cautiverio babilónico; El Elyón; El Shaddai; Elohim; Esenios; templo de Jerusalén; judíos; judíos (hebreos antiguos); levitas; Moisés; nazareos; Antiguo Testamento; fariseos; profetas; rabinos; saduceos; sanedrín; escribas; Semá; Sheol; Yahvé | RAZA | 
+judaísmo | (97:10) (121:6) | Ver Abraham (Antiguo Testamento); libros apócrifos; arca de Yahvé; cautiverio babilónico; El Elyón; El Shaddai; Elohim; Esenios; templo de Jerusalén; judíos; judíos (hebreos antiguos); levitas; Moisés; nazareos; Antiguo Testamento; fariseos; profetas; rabinos; saduceos; sanedrín; escribas; Semá; Sheol; Yahvé | RACE | 
 religión avanzada de la antigüedad (92:6.4,14)
 los apóstoles al principio impusieron el judaísmo a los conversos (194:3.9)
 creencias
@@ -1757,9 +1757,9 @@ El secreto de la supervivencia era la centralización del culto en Jerusalén (1
 margen tolerado de creyentes gentiles (121:2.5)
 varios títulos de Deidad definidos (96:1.2-10)
 
-Judas Alfeo | | Ver gemelos Alfeo | PERSONA | 
+Judas Alfeo | | Ver gemelos Alfeo | PERSON | 
 
-Judas Iscariote | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | Ver apóstoles de Jesús | PERSONA | 
+Judas Iscariote | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | Ver apóstoles de Jesús | PERSON | 
 afectado negativamente por la entrada a Jerusalén (172:5.12-13)
 intentó curar al hijo de Santiago de Safed (158:4.6)
 traición
@@ -1817,13 +1817,13 @@ guardias del templo, centurión despreciado (183:5.2-3) (186:1.2)
 entregó todos los fondos apostólicos a David (178:2.10)
 se preguntó cómo romper con los apóstoles (172:5.12-13) (173:0.2) (175:4.1) (177:4.2)
 
-Judas Macabeo | | Ver Macabeos | PERSONA | 
+Judas Macabeo | | Ver Macabeos | PERSON | 
 decepción del reinado (136:8.8)
 hazañas heroicas (121:2.7)
 Judíos removidos de Perea en tiempos de (165:0.3)
 restauración de los servicios de mosaico por (123:3.5)
 
-Judá (hermano de Jesús) | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | Ver Jesús:familia | PERSONA | 
+Judá (hermano de Jesús) | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | Ver Jesús:familia | PERSON | 
 activo con los fanáticos; chocó con las autoridades civiles (128:6.4-7)
 en la cuarta aparición de Jesús (190:2.6)
 actitud
@@ -1847,7 +1847,7 @@ la cuñada Rachel (150:1.1)
 viaje con Jesús a la Pascua; llevado a la prisión militar (128:6.3-8)
 presenció la crucifixión de Jesús (186:0.3) (187:2.7) (187:3.2) (187:5.1)
 
-Judea | (142:8) | Ver Israel; Palestina | LUGAR | 
+Judea | (142:8) | Ver Israel; Palestina | PLACE | 
 Cesarea fue la capital romana de (184:3.17)
 la caída de Asiria y la supremacía de Egipto liberada (97:9.23)
 La conciencia judía se originó en el clan sureño de Judá (97:9.2)
@@ -1859,7 +1859,7 @@ provincia romana más difícil de gobernar (185:1.2)
 en su mayoría no hebreos (97:9.7,11)
 guerras con Israel (97:9.18)
 
-Jueces-Árbitros; juez-árbitro | | | ORDEN | 
+Jueces-Árbitros; juez-árbitro | | | ORDER | 
 de comisiones conciliadoras (25:2.7)
 
 jueces | (72:2.1) | Ver tribunales | | 
@@ -1922,19 +1922,19 @@ Censores Universales
 	son juicio de la Deidad (19:4.1,4)
 	los jueces y censores decretan la supervivencia mortal (108:6.6)
 
-Julias | | | LUGAR | 
+Julias | | | PLACE | 
 Herodes mantuvo la residencia de Perea en (135:12.1) (150:3.1)
 
-Juno | | | PERSONA | 
+Juno | | | PERSON | 
 Capitolio en Roma dedicado a (132:0.2)
 
-Júpiter (dios) | | | PERSONA | 
+Júpiter (dios) | | | PERSON | 
 Capitolio en Roma dedicado a (132:0.2)
 juerguista (69:2.5)
 Se invoca a los romanos arrojando piedras al aire (85:1.3)
 Zeus, trasplantado de Grecia a Roma (98:3.3)
 
-Júpiter (planeta) | | Ver Monmatia | LUGAR | 
+Júpiter (planeta) | | Ver Monmatia | PLACE | 
 en gran parte gaseoso (57:5.10)
 podría capturar planetas exteriores, convertirse en un sol (15:5.8)
 una luna cerca de la interrupción de las mareas (57:6.5)
@@ -1953,7 +1953,7 @@ hombre justo | | | |
 uno que había cumplido con las obligaciones rituales (89:8.7)
 vivirá por la fe (131:2.8)
 
-Justa | | | PERSONA | 
+Justa | | | PERSON | 
 de Sidón, hija de Berenice (156:2.2) (156:3.2)
 
 justicia | (2:3) (133:1) | Ver tribunales; crimen; pena de muerte; karma; ley | | 
@@ -1996,14 +1996,14 @@ la naturaleza proporciona solo la conformidad de los resultados con las causas (
 nunca una actitud personal (10:6.2)
 La idea primitiva era deshacerse del concurso (70:11.14)
 
-Guías de la Justicia | | | ORDEN | 
+Guías de la Justicia | | | ORDER | 
 Serafines administradores; defender casos de supervivencia dudosa (39:4.4)
 comparecer ante los tribunales por malentendidos menores (39:4.5)
 pueden convertirse en Voces de la Misericordia (39:4.5)
 muy pocos perdidos en la rebelión de Lucifer (39:4.6)
 
-Justo (creyente) | | | PERSONA | 
+Justo (creyente) | | | PERSON | 
 sugirió ocupar el puesto de Judas (193:6.2)
 
-Justo (comerciante) | (133:3.5-10) | | PERSONA | 
+Justo (comerciante) | (133:3.5-10) | | PERSON | 
 comerciante judío de Corinto que alojó a Jesús

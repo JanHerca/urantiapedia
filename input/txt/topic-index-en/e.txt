@@ -12,7 +12,7 @@
 ####################################################################################
 
 
-Ea | | | PERSONA | OK
+Ea | | | PERSON | OK
 Mesopotamian god of the sea (95:1.4)
 
 eagles | (61:2.12) | | | 
@@ -55,21 +55,21 @@ accepting seraphic guidance rarely means life of (113:4.3)
 men do not progress in environment of (154:2.5)
 seeking e. is animal trait morontia career eradicates (48:5.8)
 
-East Indies | | | LUGAR | 
+East Indies | | | PLACE | 
 Andite migration to (78:5.6)
 Dravidian shipping to (79:3.7)
 
-Easter Island | | | LUGAR | 
+Easter Island | | | PLACE | 
 center of Andite-modified Polynesians (78:5.7)
 
-Eastern Ghats | (79:3.6) | | LUGAR | 
+Eastern Ghats | (79:3.6) | | PLACE | 
 
 eating | | See food | | 
 
-Ebal | (126:1.2) | | LUGAR | 
+Ebal | (126:1.2) | | PLACE | 
 mount visible from Nazareth
 
-Eber | | | PERSONA | OK
+Eber | | | PERSON | OK
 officer of Sanhedrin; sent to arrest Jesus (162:2.6-9)
 met with Jesus in home of Nicodemus (164:2.1)
 
@@ -96,16 +96,16 @@ genuine e. usually associated with outward calm (91:7.3)
 often outgrowth of purely emotional influences (91:7.3-4)
 practical validations (91:7.5-12)
 
-Eden, Garden of | | See Garden of Eden | LUGAR | 
+Eden, Garden of | | See Garden of Eden | PLACE | 
 
 Edenic league | | | | 
 Adam’s Garden federation (74:5.5)
 
 Edenic teachings | | See Garden of Eden: teachings | | 
 
-Edenites | | See Garden of Eden | RAZA | 
+Edenites | | See Garden of Eden | RACE | 
 
-Edentia | (43:1) | See also constellations; Most Highs of Norlatiadek | LUGAR | 
+Edentia | (43:1) | See also constellations; Most Highs of Norlatiadek | PLACE | 
 after Satania rebellion, archrebels continued to attend conclaves on (43:4.7)
 construction (32:2.3)
 description
@@ -137,11 +137,11 @@ no residue when morontia vegetation eaten (43:6.6)
 resurrection halls for mortals of 2nd modified order (43:1.5)
 seat of Constellation Fathers, Most Highs of Norlatiadek (43:0.2)
 
-Edomites | | | RAZA | 
+Edomites | | | RACE | 
 King David laid heavy tribute on (97:9.14)
 revolted against Amaziah; were defeated (97:9.22)
 
-Edrei | (159:0.2) (165:0.1) | | LUGAR | 
+Edrei | (159:0.2) (165:0.1) | | PLACE | 
 instruction for teachers and believers at (159:3sec)
 Perea mission
 
@@ -264,7 +264,7 @@ Jesus free of (100:7.3)
 
 egotism | | See selfishness | | 
 
-Egypt | | See also Alexandria; Luxor; Nile valley; Thebes | LUGAR | 
+Egypt | | See also Alexandria; Luxor; Nile valley; Thebes | PLACE | 
 accurate reform of calendar 7000 years ago (77:2.12)
 Andite Imhotep erected first pyramids (80:6.4)
 appearance of cities (79:1.4)
@@ -305,31 +305,31 @@ western end of cradle of civilization (81:1.1)
 Eightfold Path | | | | 
 of Buddhism (94:8.8)
 
-El | | | PERSONA | OK
+El | | | PERSON | OK
 composite Hebrew Deity (96:1.7)
 
-El Elyon | (96:7.2) | | PERSONA | OK
+El Elyon | (96:7.2) | | PERSON | OK
 Melchizedek’s Most High God (93:2.1,3) (93:3.2) (93:4.2) (96:1.4,12) (142:3.4)
 One God as taught by Ikhnaton (95:5.2)
 Kenites believed in (96:1.12)
 Moses became convinced his people would never fully comprehend (96:4.3)
 Moses’ father-in-law was Kenite worshiper of (96:4.2)
 
-El Shaddai | | | PERSONA | OK
+El Shaddai | | | PERSON | OK
 divine Providence; service rewarded with prosperity (96:1.5-6)
 Egyptian concept of God (142:3.5)
 Moses’ parents believed in (96:4.2)
 
-Elam | | | LUGAR | 
+Elam | | | PLACE | 
 eastern Nodite headquarters (73:1.5)
 Enoch was head of Nodites at (76:2.9)
 Nodites migrated into E., united with Sangiks (77:4.4)
 Sethite priests moved eastward through (78:6.3)
 
-Elamites | | | RAZA | 
+Elamites | | | RACE | 
 Nodite tribe from Elam (76:2.9)
 
-Elealah | (165:0.1) | | LUGAR | 
+Elealah | (165:0.1) | | PLACE | 
 Perea mission
 
 elections | | See government; suffrage | | 
@@ -396,10 +396,10 @@ would not reproduce in captivity (69:7.3)
 Eleusinian mysteries | | | | 
 Greek version of fertility worship (98:2.10)
 
-Elihu | | | PERSONA | OK
+Elihu | | | PERSON | OK
 prophet of Ur; preached cheering message of salvation (96:7.7)
 
-Elijah Mark | | | PERSONA | OK
+Elijah Mark | | | PERSON | OK
 father of John Mark; husband of Mary Mark (182:0.1)
 believers at home of (187:6.2) (188:3.2) (189:4.1,13)
 Last Supper in upper room of (179:1.2)
@@ -408,7 +408,7 @@ Jesus’ appearances at home of (191:1.1) (193:3.1)
 died suddenly on May 3, A.D. 30 (192:4.5-6)
 120 in upper room of E.M. at Pentecost (193:6.1) (194:0.1)
 
-Elijah (Prophet) | (135:6.3) | | PERSONA | 
+Elijah (Prophet) | (135:6.3) | | PERSON | 
 restored concept of God to northern kingdom (97:2.1)
 prophet of Mount Carmel (135:1.4)
 secluded himself (136:3.3)
@@ -426,13 +426,13 @@ John the Baptist
 	held back 2 years by expectation of return of (135:4.2-5)
 	Jesus referred to John as E. (158:2.2)
 
-Eliphaz | | | PERSONA | OK
+Eliphaz | | | PERSON | OK
 exhorted Job to exhibit fortitude (148:6.4,9)
 
-Elisha | (124:6.3) | | PERSONA | OK
+Elisha | (124:6.3) | | PERSON | OK
 faithful associate of Elijah (97:2.2)
 
-Elizabeth (mother of John the Baptist) | (135:0-4) | | PERSONA | OK
+Elizabeth (mother of John the Baptist) | (135:0-4) | | PERSON | OK
 distant cousin of Mary (122:2.1,6)
 descendant of daughters of Aaron (135:0.4)
 Gabriel’s appearance to (122:2sec)
@@ -443,11 +443,11 @@ kept John posted on world affairs (135:3.2)
 death of husband Zacharias (135:2sec)
 died on August 17, 22 A.D. (135:4sec)
 
-Elizabeth of Tiberias | | | PERSONA | OK
+Elizabeth of Tiberias | | | PERSON | OK
 daughter of wealthy Jew; member of women’s corps (150:1.1)
 at Jesus’ 16th appearance (193:0sec)
 
-Ellanora | | | PERSONA | OK
+Ellanora | | | PERSON | OK
 grasped leadership of Panoptia in Lucifer rebellion (53:7.1)
 
 ellipse | | | | 
@@ -455,14 +455,14 @@ every form of reality has swing of (11:8.2) (12:1.1)
 Paradise is ellipsoidal (11:2.2)
 superuniverses traverse (15:1.2) (41:9.2)
 
-Elman | | | PERSONA | OK
+Elman | | | PERSON | OK
 father of Nasanta (150:1.1)
 physician; supervised Bethsaida hospital (148:0.1) (148:2sec)
 
-Eloah | | See also Elohim | PERSONA | OK
+Eloah | | See also Elohim | PERSON | OK
 singular of Elohim (96:1.8)
 
-Elohim | | See also Eloah | PERSONA | OK
+Elohim | | See also Eloah | PERSON | OK
 God of gods (169:4.8)
 Jesus used term for God (169:4.5)
 northern kingdom returned to worship of (97:9.17)
@@ -477,15 +477,15 @@ Egyptian practice (95:2.4-5)
 
 emergencies | | See crisis | | 
 
-emergency council of Edentia | | | PERSONA | OK
+emergency council of Edentia | | | PERSON | OK
 personalities assigned because of Satania upheaval (43:5.14)
 
 emergent energy | | See ultimata | | 
 
-Emmaus | | | LUGAR | 
+Emmaus | | | PLACE | 
 home of Cleopas and Jacob; Jesus’ 7th appearance at (190:5.1)
 
-emotion designers | | | ORDEN | 
+emotion designers | | | ORDER | 
 designers and embellishers of celestial artisans (44:6.5)
 
 emotions | | See also sentiment | | 
@@ -519,7 +519,7 @@ emptiness | | | |
 emptiest space has 100 ultimatons per cubic inch (42:4.6)
 virtue is that it may be experientially filled (117:2.8)
 
-En-Gannim | (134:7.5) | | LUGAR | 
+En-Gannim | (134:7.5) | | PLACE | 
 Jesus passed
 
 enchanters | | See shamans | | 
@@ -537,12 +537,12 @@ for John the Baptist (135:4.3)
 in connection with appearance of Messiah (176:1.6) (176:4.2)
 of no concern to believers (176:3.2)
 
-Endantum | | | LUGAR | 
+Endantum | | | PLACE | 
 headquarters of constellation 5; site of Michael’s morontia mortal bestowal (119:6.3,6)
 
 endogamy | | See marriage | | 
 
-Endor | (123:4.6) (124:1.12) (134:7.5) (146:7) | | LUGAR | 
+Endor | (123:4.6) (124:1.12) (134:7.5) (146:7) | | PLACE | 
 Joseph father of Jesus worked at (123:3.8)
 King Saul and the witch of (146:7.1)
 
@@ -566,7 +566,7 @@ make merciful intercession for one’s e. (91:8.7)
 smitten by e., turn other cheek (159:5.9)
 wise man is friendly among (131:3.6)
 
-enemy, the | | See also Caligastia; devil; Lucifer | PERSONA | OK
+enemy, the | | See also Caligastia; devil; Lucifer | PERSON | OK
 would seek to draw apostles away (138:7.3)
 
 energy | (42:2) | See also light; material energy; matter | | 
@@ -701,7 +701,7 @@ types of energy
 
 energy controllers | See Master Physical Controllers; Universe Power Directors | | | | 
 
-energy manipulators | | See also celestial artisans | ORDEN | 
+energy manipulators | | See also celestial artisans | ORDER | 
 celestial artisans, types (44:5sec)
 	# physical-energy manipulators q.v.
 	# mind-energy manipulators q.v.
@@ -715,7 +715,7 @@ energy-matter | | See energy; material energy; physical energy | |
 
 energy shields | | See friction shields | | 
 
-energy transformers | | See also Master Physical Controllers; Universe Power Directors | ORDEN | 
+energy transformers | | See also Master Physical Controllers; Universe Power Directors | ORDER | 
 1 million in Satania; 100 per inhabited world (29:4.36)
 enabled
 	apostles to see transfiguration (158:1.8)
@@ -741,7 +741,7 @@ nature
 	semimaterial; somewhat personal (29:4.16-18)
 	type of Master Physical Controller (29:4.7)
 
-energy transmitters | | See also Master Physical Controllers; Universe Power Directors | ORDEN | 
+energy transmitters | | See also Master Physical Controllers; Universe Power Directors | ORDER | 
 functions
 	1000 enable seraphic departure (29:4.19) (39:5.14)
 	cannot initiate communication; ruling sustaining Van marooned in (67:2.2-6) (67:6.9)
@@ -756,22 +756,22 @@ nature
 	understand communications; powerless to respond (29:4.26)
 	wholly automatic and mechanical; nonpersonal (29:4.12,26)
 
-Engedi | | | LUGAR | 
+Engedi | | | PLACE | 
 Jesus and Abner visited Nazarite colony at (142:8.1)
 John the Baptist lived at E. for 2-1/2 years (135:4.3)
 southern headquarters of Nazarites and other ascetic herdsmen (135:1.1) (135:2.3) (165:0.1)
 
-England | | See also British Isles | LUGAR | 
+England | | See also British Isles | PLACE | 
 reposed sovereignty in United Kingdom (134:6.3)
 
-English Channel land bridge | (64:1.5-6) ​​(64:2.6) | | LUGAR | 
+English Channel land bridge | (64:1.5-6) ​​(64:2.6) | | PLACE | 
 
 English language | | | | 
 revelators instructed to use (0:0.1-3) (31:10.22) (56:10.23)
 
 enmity | | See hatred | | 
 
-Enoch | | | PERSONA | OK
+Enoch | | | PERSON | OK
 son of Cain and Remona, head of Elamite Nodites (76:2.9)
 first mortal to fuse in the flesh; one of 24 counselors (45:4.13)
 Book of
@@ -779,10 +779,10 @@ Book of
 	partially accredited apocalyptic book (126:3.8)
 	Son of God concept (136:1.6)
 
-Enos | | | PERSONA | 
+Enos | | | PERSON | 
 son of Seth, founded new order of worship (76:3.4)
 
-Ensa | | See also minor sectors; Uminor the third | LUGAR | 
+Ensa | | See also minor sectors; Uminor the third | PLACE | 
 has 7 satellites (15:7.8)
 minor sector 3 in major sector of Splandon (15:14.7) (18:5.5)
 our minor sector (29:4.18)
@@ -794,7 +794,7 @@ for long flight to Havona (112:7.5)
 
 enseraphimation | | See seraphic, secoraphic, and superaphic transport | | 
 
-Enta | | | PERSONA | OK
+Enta | | | PERSON | OK
 Mary mother of Jesus a descendant of (122:1.2)
 
 enthusiasm | | | | 
@@ -832,13 +832,13 @@ waxing rich by wariness and much pinching (165:4.8)
 Eocene | | See also geologic ages | | 
 early mammalian era from 50 to 35 million years ago (61:1sec)
 
-Ephesus | (130:0.3) | | LUGAR | 
+Ephesus | (130:0.3) | | PLACE | 
 Apostle John settled in (139:4.6,15)
 capital of Roman province of Asia (133:6.1)
 Jesus’ discourse on the soul at (133:6sec)
 Paul resided 2 years in E. making tents (133:6.3)
 
-Ephraim | (143:0.1) (162:9.6) | See also Israel; Palestine | LUGAR | 
+Ephraim | (143:0.1) (162:9.6) | See also Israel; Palestine | PLACE | 
 Ahab was king of (97:9.18-19)
 Canaanite city of Gibeon had peace treaty with (97:9.13)
 Israelitish consciousness took origin in E.; vanished (97:9.2,21)
@@ -862,7 +862,7 @@ primitives often worshiped (85:6.2)
 Epistle of First John | | | | 
 written as cover letter for Gospel of John (121:8.10)
 
-epochal angels | | See seraphim: types:master seraphim of planetary supervision | ORDEN | 
+epochal angels | | See seraphim: types:master seraphim of planetary supervision | ORDER | 
 
 epochal revelation | | See revelation | | 
 
@@ -884,7 +884,7 @@ one cannot supplicate a mathematical (102:7.3)
 equivocation | | | | 
 animal vestigial trait which morontia career eradicates (48:5.8)
 
-Erech | | | LUGAR | 
+Erech | | | PLACE | 
 Mesopotamia city state (78:8.9-10)
 near Noah’s home of Aram (78:7.5)
 
@@ -912,11 +912,11 @@ may markedly delay evolution of soul (111:3.1)
 memories of past life without spiritual meaning will perish with material brain (112:5.22) (156:5.8)
 suggestive of lack of intellectual keenness (67:1.4-5)
 
-Esdraelon | (158:1.4) | | LUGAR | 
+Esdraelon | (158:1.4) | | PLACE | 
 fertile plains of (123:5.13)
 King David marched to (97:9.5)
 
-Eskimos | | | RAZA | 
+Eskimos | | | RACE | 
 believe man comprised of body, soul, and name (86:5.17)
 believe soul stays with body 3 days after death (87:2.3)
 chance meeting with red tribe (64:7.19) (79:5.7,9)
@@ -937,11 +937,11 @@ held possessions in common (165:4.5)
 lived as brotherhood in monasteries (137:7.8)
 tolerated belief in reincarnation (164:3.4)
 
-Esta | | | PERSONA | OK
+Esta | | | PERSON | OK
 bolstered Mary’s courage (137:7.1)
 marriage to James brother of Jesus (128:5.7) (128:7.10-11)
 
-Esther | (150:3.1) | | PERSONA | OK
+Esther | (150:3.1) | | PERSON | OK
 Purim is feast of (123:3.5)
 
 eternal life | | See also death; fusion; heaven; judgment; life; nonsurvivors; resurrection; salvation; survival | | 
@@ -977,7 +977,7 @@ no misbehavior by others can ever jeopardize one’s eternal prospects (54:6.4)
 no one can be coerced into (5:6.8,12)
 what would a man give in exchange for e.l.? (158:7.5)
 
-Eternal Son | (6) (7) (10:1.4) | See also gravity: spirit gravity | PERSONA | OK
+Eternal Son | (6) (7) (10:1.4) | See also gravity: spirit gravity | PERSON | OK
 personality of E.S. is master pattern for all personality (0:6.13) (6:7sec) (6:8.5) (115:3.14)
 7 sacred worlds of E.S. (13:0.4) (13:3sec)
 active spirit gravity of E.S. calculated (12:3.9)
@@ -1070,7 +1070,7 @@ recognition of the Eternal Son (6:8sec)
 	Michael possesses all attributes of E.S., were E.S. in Nebadon (33:1.2)
 	Planetary Princes are nearest personal approach of E.S. (aside from incarnation) to man (50:1.1)
 
-Eternals of Days | (18:2) | See also Havona | ORDEN | 
+Eternals of Days | (18:2) | See also Havona | ORDER | 
 1 billion created by Trinity; one directs each Havona sphere (14:3.3) (14:5.6,9) (18:2.1)
 before Grandfanda, high Paradise Citizens assisted (26:11.2)
 divine equals of Ancients of Days (18:2.2)
@@ -1103,7 +1103,7 @@ influence of Unqualified Absolute not comparable to (0:11.9)
 name for energy activities in space; does not exist (42:5.14-16)
 theory is ingenious attempt to unify ignorance (42:9.4)
 
-ethical sensitizers | | | ORDEN | 
+ethical sensitizers | | | ORDER | 
 supervisor seraphim; promote morality of relationships (39:3.7)
 
 ethics | | See also morality | | 
@@ -1171,13 +1171,13 @@ sex slavery polluted biologic fitness of superior peoples (69:5.10)
 
 eunuchs | | See castration | | 
 
-Euphrates river | | See also Mesopotamia | LUGAR | 
+Euphrates river | | See also Mesopotamia | PLACE | 
 and Tigris were cradle of Occidental, Indian civilizations (78:1.3)
 drought drove Andites to valleys of (79:1.3) (80:1.1)
 second garden adjoined (76:0.1) (76:1.1-3) (76:3.8) (76:4.8)
 Sumerians lived at mouth of (77:4.6) (78:8sec)
 
-Europe | | See also British Isles; England; France; Germany; Ireland; Italy; Norway; Scotland; Spain; Wales | LUGAR | 
+Europe | | See also British Isles; England; France; Germany; Ireland; Italy; Norway; Scotland; Spain; Wales | PLACE | 
 Adamites, Andites entered (77:5.10) (78:3.2,5) (78:6.2) (80:1,4-5secs) (80:9.5)
 Africa once connected E. to South America (59:5.11)
 blue race invaded; drove Andonites from (64:7.3,8-10) (78:1.5)
@@ -1202,7 +1202,7 @@ demands transcendence of thing evaluated (112:2.12)
 
 evangelism | | See gospel: proclaiming | | 
 
-evangelists, the seventy | | See also disciples | PERSONA | OK
+evangelists, the seventy | | See also disciples | PERSON | OK
 a group of preachers ordinated by Jesus from the original evangelists
 trained by learning and doing (148:1.1)
 training at Bethsaida (Paper 148)
@@ -1217,13 +1217,13 @@ ordination (163:1sec)
 return to Pella (163:6sec)
 unseen messengers by sides of (175:1.8)
 
-evangels of destiny | | | ORDEN | 
+evangels of destiny | | | ORDER | 
 proclaim spiritual liberty and divine sonship (35:3.21)
 
-Evangels of Light | | | ORDEN | 
+Evangels of Light | | | ORDER | 
 celestial beings temporarily attached to mortal finaliter companies (31:7sec)
 
-Eve | | See also Adam; Material Sons of God | PERSONA | OK
+Eve | | See also Adam; Material Sons of God | PERSON | OK
 Eve is wife of Adan and bearer of violet race to Urantia
 Caligastia plot
 	Caligastia’s wily flank attack on (75:2.3)
@@ -1248,12 +1248,12 @@ after fault
 	Mary mother of Jesus a descendant of (122:1.2)
 	one of 24 counselors (45:4.12)
 
-Evening Stars | | See Brilliant Evening Stars | ORDEN | 
+Evening Stars | | See Brilliant Evening Stars | ORDER | 
 
-Eventod | | | PERSONA | OK
+Eventod | | | PERSON | OK
 Michael’s bestowal as a spirit mortal (119:5.2)
 
-eventuated transcendental beings | | See Transcendentalers | ORDEN | 
+eventuated transcendental beings | | See Transcendentalers | ORDER | 
 
 eventuation | | See also reality:levels of reality:absonite reality; Transcendentalers | | 
 process described (30:1.92-99) (31:8.3) (31:9.10)
@@ -1262,7 +1262,7 @@ eventuators | | See Transcendentalers | |
 
 everywhereness | | See omnipresence | | 
 
-Eveson | | | PERSONA | OK
+Eveson | | | PERSON | OK
 Adam’s second son; masterly leader (74:6.2) (76:3.3)
 
 evidence | | See also certainty | | 
@@ -1467,10 +1467,10 @@ excreta | | See also sanitation | |
 no residual waste on mansion worlds (47:4.6)
 primitives carefully buried e. from fear of magic (88:5.1)
 
-excursion and reversion supervisors | | | ORDEN | 
+excursion and reversion supervisors | | | ORDER | 
 Morontia Companions (25:7.1) (47:3.12) (48:3.14)
 
-executioners of Ancients of Days | | See divine executioners | ORDEN | 
+executioners of Ancients of Days | | See divine executioners | ORDER | 
 
 exhaustion | | See fatigue; rest | | 
 
@@ -1516,7 +1516,7 @@ subjective, except for validity of cosmic mind response (16:9.1)
 experientials | | See also reality: levels of reality: finite reality | | 
 earned power, demonstrated power (106:2.3)
 
-experts of communication | | | ORDEN | 
+experts of communication | | | ORDER | 
 energy manipulator celestial artisans; technicians of interplanetary communication; 12 serve on Urantia (44:5.7)
 
 exploitation | | | | 
@@ -1530,7 +1530,7 @@ Andites never stopped until globe explored (78:4.6)
 commerce and adventure led to (69:4.8)
 post-Adamic dispensation is age of great (52:3.6)
 
-extension-school instructors | | | ORDEN | 
+extension-school instructors | | | ORDER | 
 in Uversa personality register (30:2.153)
 teachers from next higher residential world (30:3.8)
 
@@ -1570,29 +1570,29 @@ if what you see with your e. gives offense, sacrifice cherished idols (158:8.1)
 react to octave of ordinary sunlight (42:5.13)
 windows of spirit-born soul (42:12.12)(86:5.14)(111:0.7)(140:6.12)
 
-Ezda | (135:4.1) | | PERSONA | OK
+Ezda | (135:4.1) | | PERSON | OK
 orphan lad of Beth-zur; John the Baptist adopted (135:3.1)
 
-Ezekiel | (145:2.7) (165:4.8) | | PERSONA | OK
+Ezekiel | (145:2.7) (165:4.8) | | PERSON | OK
 established observance of superior ritual (97:10.7)
 proclaimed deliverance through service of devotion (97:8.3)
 spoke of new spirit to live in man’s soul (121:7.5)
 unsilenced spiritual leader (97:10.3)
 
-Ezra (disciple of John) | | | PERSONA | OK
+Ezra (disciple of John) | | | PERSON | OK
 did not accept Jesus; split from John (137:2.2)
 
-Ezra of Alexandria | | | PERSONA | OK
+Ezra of Alexandria | | | PERSON | OK
 father of Susanna (189:4.4)
 
-Ezra of Nazareth | | | PERSONA | OK
+Ezra of Nazareth | | | PERSON | OK
 wealthy merchant, father of Rebecca (127:5.1,2,6)
 
-Ezra of Syracuse | | | PERSONA | OK
+Ezra of Syracuse | | | PERSON | OK
 backslidden Jew whom Jesus rehabilitated (130:8.2)
 
-Ezra (Prophet) | | | PERSONA | OK
+Ezra (Prophet) | | | PERSON | OK
 promised prosperity by adherence to law (97:8.3)
 
-Ezraeon | | | LUGAR | 
+Ezraeon | | | PLACE | 
 Joseph and Mary left Alexandria on boat of (123:0.4)

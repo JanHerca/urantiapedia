@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 
 /**
- * Formatea un string usando el patrón '{x}' donde x es un número 0..n.
- * El primer argumento debe ser la cadena , y el resto los valores.
+ * Formats a string using '{x}' pattern where x in a number 0..n.
+ * First arg must be the string, and the rest the values.
  * @param {...string} params Strings.
  * @return {string}
  */
@@ -16,11 +16,11 @@ exports.strformat = (...params) => {
 };
 
 /**
- * Extrae de un texto una porción delimitada por dos textos. Se extrae la primera 
- * aparición, las demás se ignoran.
- * @param {string} content Texto del que extraer.
- * @param {string} start Texto delante.
- * @param {string} end Texto detrás.
+ * Extracts part of a text enclosed in two other texts. It is extracted the 
+ * first appearance, the rest are ignored.
+ * @param {string} content Text from which extract.
+ * @param {string} start Starting text.
+ * @param {string} end Ending text.
  * @return {?string}
  */
 exports.extractStr = (content, start, end) => {
@@ -32,9 +32,9 @@ exports.extractStr = (content, start, end) => {
 };
 
 /**
- * Obtiene todos los índices en los que se encuentra un caracter.
- * @param {string} content Texto en el que buscar.
- * @param {string} char Un caracter.
+ * Returns all indexes in which a char is found.
+ * @param {string} content Text to search.
+ * @param {string} char A char.
  * @return {number[]}
  */
 exports.getAllIndexes = (content, char) => {
@@ -46,13 +46,12 @@ exports.getAllIndexes = (content, char) => {
 }
 
 /**
- * Devuelve una nueva Promise usando la de entrada que siempre está establecida
- * y que siempre devuelve un valor de respuesta con un objeto que contiene uno
- * de dos valores : `value` si la promesa se resuelve y `error` si la promesa
- * se rechaza.
- * Este nuevo tipo de promesa es útil para ejecutar una Promise.all the itera
- * por todas las promesas incluso si alguna se rechaza.
- * @param {Promise} promise Promesa a reflejar.
+ * Returns a new promise using the one passed that is always set and never
+ * rejects, returning an object with `value` if promise is resolved or 
+ * `error` if promise is rejected.
+ * This new type of promise is useful to execute a Promise.all that iterates
+ * through all promises even if some are rejected.
+ * @param {Promise} promise Promise to reflect.
  * @return {Promise}
  */
 exports.reflectPromise = (promise) => {
@@ -64,9 +63,9 @@ exports.reflectPromise = (promise) => {
 };
 
 /**
- * Extiende un array.
- * @param {Array.<VALUE>} arr El array a modificar.
- * @param {Array.<VALUE>|VALUE|undefined} data El array o valor a añadir.
+ * Extends an array.
+ * @param {Array.<VALUE>} arr Array to modify.
+ * @param {Array.<VALUE>|VALUE|undefined} data Array to add.
  * @template VALUE
  */
 exports.extendArray = function(arr, data) {
@@ -82,13 +81,13 @@ exports.extendArray = function(arr, data) {
 };
 
 /**
- * Reemplaza en una cadena un tag de inicio y de fin por otro tag de inicio y fin.
- * @param {string} content Cadena a reemplazar
- * @param {string} initTag Tag de inicio.
- * @param {string} endTag Tag de fin.
- * @param {string} initTag2 Tag por el que reemplazar el tag de inicio.
- * @param {string} endTag2 Tag por el que reemplazar el tag de fin.
- * @param {string[]} errors Array de mensajes de error en el que almacenar los errores.
+ * Replaces inside a string a start and end tag with other start and end text.
+ * @param {string} content String to replaceCadena a reemplazar
+ * @param {string} initTag Starting tag.
+ * @param {string} endTag Ending tag.
+ * @param {string} initTag2 Tag to use to replace starting tag.
+ * @param {string} endTag2 Tag to use to replace ending tag.
+ * @param {string[]} errors Array of messages for errors.
  * @return {string}
  */
 exports.replaceTags = function(content, initTag, endTag, initTag2, endTag2, errors) {
@@ -104,7 +103,7 @@ exports.replaceTags = function(content, initTag, endTag, initTag2, endTag2, erro
 		ii = index + initTag.length;
 		i = content.indexOf(endTag, ii);
 		if (i === -1) {
-			errors.push('No existe cadena de cierre correcto');
+			errors.push('book_tag_no_closing');
 			return content;
 		}
 		result += initTag2 + content.substring(ii, i) + endTag2;
@@ -114,22 +113,21 @@ exports.replaceTags = function(content, initTag, endTag, initTag2, endTag2, erro
 };
 
 /**
- * Elimina en una cadena todo el contenido entre un tag de inicio y de fin todas
- * las veces que aparezca o sólo los tags. Los tags de inicio y fin deben ser tags 
- * HTML. Se elimina no sólo el tag sino también si el tag lleva atributos también 
- * los atributos. Además elimina dobles espacios en blanco si quedan así al quitar
- * los tags.
+ * Removes inside a string all content between a starting and end tags in
+ * all occurrences or only tags. Starting and ending tags must be HTML tags. 
+ * Removes not only tags but also attributes. Also removes double blank
+ * spaces.
  * @example
- * const text = 'Este texto <span class="extra">con un tag</span> dentro';
+ * const text = 'This text <span class="extra">with a tag</span> inside';
  * const text2 = removeHTMLTags(text, '<span>', '</span>', false, []);
- * // returns 'Este texto con un tag dentro'
+ * // returns 'This text with a tag inside'
  * const text3 = removeHTMLTags(text, '<span>', '</span>', true, []);
- * // return 'Este texto dentro'
- * @param {string} content Cadena a reemplazar
- * @param {string} initTag Tag de inicio.
- * @param {string} endTag Tag de fin.
- * @param {boolean} removeContent Si eliminar el texto dentro de las etiquetas o no.
- * @param {string[]} errors Array de mensajes de error en el que almacenar los errores.
+ * // return 'This text inside dentro'
+ * @param {string} content String to replace.
+ * @param {string} initTag Starting tag.
+ * @param {string} endTag End tag.
+ * @param {boolean} removeContent If remove text inside tags or not.
+ * @param {string[]} errors Array to store errors.
  * @return {string}
  */
 exports.removeHTMLTags = function(content, initTag, endTag, removeContent, errors) {
@@ -146,7 +144,7 @@ exports.removeHTMLTags = function(content, initTag, endTag, removeContent, error
 		index = content.indexOf('>', ii);
 		i = content.indexOf(endTag, ii);
 		if (i === -1 || index === -1 || index >= content.length - 4 || index >= i) {
-			errors.push('No existe cadena de cierre correcta');
+			errors.push('book_tag_no_closing');
 			break;
 		}
 		if (!removeContent) {
@@ -158,17 +156,17 @@ exports.removeHTMLTags = function(content, initTag, endTag, removeContent, error
 };
 
 /**
- * Devuelve una promesa que lee una carpeta, busca ficheros de un formato y
- * ejecuta una funcion con cada uno. Si algun fichero llama a reject, entonces
- * toda la promesa llama a reject.
- * @param {string} dirPath Ruta de la carpeta.
- * @param {string} format Formato como '.txt' o '.tex'. Se pueden pasar varios
- * de este modo: '.html;.htm'
- * @param {Function} clearFunction Function para limpiar datos antes de leer. Debe
- * ser una function sin params que no devuelve nada.
- * @param {Function} readFunction Function para ejecutar con cada fichero. Debe
- * ser una function con un parámetro filePath y que devuelva una promesa.
- * @param {Object} thisObj Object que pasar como 'this'.
+ * Returns a promise that reads a folder, search files in a format and executes
+ * a given function with each file. If any file rejects, then all the promise
+ * rejects.
+ * @param {string} dirPath Folder path.
+ * @param {string} format Format as '.txt' or '.tex'. Several formats can be
+ * passed tis way: '.html;.htm'
+ * @param {Function} clearFunction Function to clear data before reading. It must
+ * be a function without params that returns nothing.
+ * @param {Function} readFunction Function to execute with each file. It must be
+ * a function with a filePath param that returns a promise.
+ * @param {Object} thisObj Object to pass as 'this'.
  * @return {Promise}
  */
 exports.readFrom = function(dirPath, format, clearFunction, readFunction, thisObj) {
@@ -183,6 +181,7 @@ exports.readFrom = function(dirPath, format, clearFunction, readFunction, thisOb
 				return (formats.indexOf(path.extname(file)) != -1);
 			});
 			if (ffiles.length === 0) {
+				//TODO: how to localize this string?
 				reject([new Error('No se han encontrado archivos ' + format)]);
 				return;
 			}
@@ -210,12 +209,12 @@ exports.readFrom = function(dirPath, format, clearFunction, readFunction, thisOb
 };
 
 /**
- * Testea un texto con un array de vocablos.
- * Esta funcion es necesaria porque RegExp tiene problemas para localizar vocablos
- * que sean palabras completas y empiecen o terminen en acento.
- * @param {Array.<string>} arItems Array de vocablos. Con que cualquiera de los 
- * vocablos aparezca una vez el test es válido.
- * @param {string} text Texto a testear.
+ * Checks a text with an array of components.
+ * This function is required because RegExp has problems to search components
+ * that are full words and start or end with spacial chars like accent.
+ * @param {Array.<string>} arItems Array of components. If any of them appear 
+ * then test is valid.
+ * @param {string} text Text to test.
  * @return {boolean}
  */
 exports.testWords = function(arItems, text) {
@@ -245,14 +244,14 @@ exports.testWords = function(arItems, text) {
 };
 
 /**
- * Reemplaza un texto con un array de vocablos por otro array de vocablos pero
- * sólo la primera ocurrencia de cada vocablo.
- * Esta funcion es necesaria porque RegExp tiene problemas para localizar vocablos
- * que sean palabras completas y empiecen o terminen en acento.
- * @param {Array.<string>} arItems Array de vocablos a localizar.
- * @param {Array.<string>} arReplaces Array de vocablos con los que reemplazar.
- * @param {string} text Texto a modificar.
- * @return {string} Texto modificado.
+ * Replaces a text with an array of components by other array of components but
+ * only first appearance of each component.
+ * This function is required because RegExp has problems searching components
+ * that are full words starting or ending with accent.
+ * @param {Array.<string>} arItems Array of components to search.
+ * @param {Array.<string>} arReplaces Array of components to replace.
+ * @param {string} text Text to modify.
+ * @return {string} Modified text.
  */
 exports.replaceWords = function(arItems, arReplaces, text) {
 	let result = text, ini = 0, fin = 0, j, testIni, testFin, part1, part2;

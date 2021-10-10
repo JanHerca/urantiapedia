@@ -10,7 +10,7 @@
 # Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
 ####################################################################################
 
-Cesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | LUGAR | 
+Cesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | PLACE | 
 Herodes el Idumea construyó (121:2.11)
 hogar de Natán, autor del Evangelio de Juan (121:8.10)
 Las experiencias de Jesús en Cesarea camino a Roma (130:2)
@@ -18,13 +18,13 @@ Pablo encarcelado en (130:2.5)
 Capital romana de Judea (130:2.1) (184:3.17)
 masacre de 20.000 judíos en (130:2.5)
 
-Cesarea de Filipo | (157) (134:8.1,10) (155:3) | | LUGAR | 
+Cesarea de Filipo | (157) (134:8.1,10) (155:3) | | PLACE | 
 también conocido como Dan (134:7.5)
 capital del dominio del tetrarca Felipe (157:3.1)
 Celso de (157:3.7) (157:4.1) (157:6.1) (158:6.1)
 Verónica de (152:0.3)
 
-Caifás | (186:1.1) (190:3.3) | Ver sanedrín | PERSONA | OK
+Caifás | (186:1.1) (190:3.3) | Ver sanedrín | PERSON | OK
 Caifás fue el agresivo yerno de Anás, el antiguo sumo sacerdote (183:5.1) (184:0.2) (184:1.1)
 en el momento de la captura de Jesús, Caifás era el sumo sacerdote en funciones (175:4.13) (184:0.2)
 afirmó que es mejor que muera un hombre que toda la comunidad perezca (168:3.6)
@@ -37,7 +37,7 @@ en el juicio a Jesús Caifás se comportó más como fiscal que como juez imparc
 durante el juicio sacudió un dedo acusador provocativamente y golpeó al Maestro en la cara (184:3.14,18)
 agitó un dedo vengativo en el rostro de Pilato cuando vio que el procurador estaba dispuesto a soltar a Jesús (185:7.5)
 
-Caín | (76:2) | | PERSONA | 
+Caín | (76:2) | | PERSON | 
 Caín era hijo de Eva y Cano, un hombre de raza nodita; tenía una herencia belicosa natural (76:2.4)
 nació antes de que la caravana adánica alcanzara el segundo jardín (76:0.2)
 era dos años mayor que Abel, quien fue el primer hijo de Adán y Eva en el segundo jardín. Caín eligió dedicarse a la agricultura (76:2.1,5)
@@ -57,24 +57,24 @@ elemento principal de la impregnación de materia del espacio (41:6.2)
 desafía la gravedad haciendo malabarismos con un electrón (41:6.4-5)
 vagabundo del espacio; monta haces de luz (41:6)
 
-Caleb | | | PERSONA | OK
+Caleb | | | PERSON | OK
 Caleb es uno de los exploradores de Moisés que vivió para entrar en la tierra prometida (166:3.2)
 
-calebitas | | | RAZA | 
+calebitas | | | RACE | 
 palestinos nómadas no hebreos; se unió a David (97:9.7)
 
-montañas de Caledonia | (59:3.3) | | LUGAR | 
+montañas de Caledonia | (59:3.3) | | PLACE | 
 
 calendario | | | | 
 precisa reforma egipcia del calendario Hace 7000 años (77:2.11-12)
 el calendario actual utilizado en los documentos de Urantia (57:0.1) (126:3.1)
 
-California | (60:1.13) | | LUGAR | 
+California | (60:1.13) | | PLACE | 
 geología (59:4.5) (59:4.12) (59:5.19) (59:5.20) (60:1.8) (60:3.3,6) (61:3.3)
 la cultura amerindia más antigua (79:5.8)
 La sede de Onamonalontón entre secuoyas en (64:6.7)
 
-Caligastia | (66) | Ver cien de Caligastia; diablo; Hijos Lanonandek; rebelión de Lucifer; Príncipes Planetarios | PERSONA | OK
+Caligastia | (66) | Ver cien de Caligastia; diablo; Hijos Lanonandek; rebelión de Lucifer; Príncipes Planetarios | PERSON | OK
 Caligastia es el Príncipe Planetario titular de Urantia hasta que fue depuesto en tiempos de Jesús (75:2.2)
 Caligastia abogó por la causa de Lucifer en Urantia (49:5.23) (53:7.2)
 ahora es el depuesto Príncipe Planetario de Urantia. Recibe diversos nombres como el diablo, el maligno (53:1.4) (75:2.3) (179:2.3) (189:3.3)
@@ -129,7 +129,7 @@ la venida de Jesús
 	el último acto de Miguel en Urantia fue ofrecer misericordia a Caligastia, pero éste la rechazó (53:8.6) (53:9.1)
 	Caligastia todavía sigue libre en Urantia (53:8.6-7)
 
-cien de Caligastia | | Ver Estado mayor corpóreo de los Príncipes Planetarios | PERSONA | OK
+cien de Caligastia | | Ver Estado mayor corpóreo de los Príncipes Planetarios | PERSON | OK
 eran un grupo de 100 ex-mortales elegidos por Caligastia de entre 785.000 ciudadanos de Jerusem para que lo acompañaran y asistieran en su misión como príncipe
 todos se ofrecieron como voluntarios (66:2.4)
 50 eran hombres y 50 mujeres; sirvieron en parejas y las parejas vivían juntas (66:7.4-5) (77:1.3,5)
@@ -187,10 +187,10 @@ obra de los cien de Caligastia (66:5-7)
 	usaron medios naturales para mejorar la raza (66:4.2) (66:5.16)
 	el hombre azul es el que se benefició más de las enseñanzas de los cien (68:0.3)
 
-Calígula | | | PERSONA | OK
+Calígula | | | PERSON | OK
 Emperador romano tras la muerte de Jesús. Selta, el escritor de un apocalipsis judío, estuvo unido a la corte de Calígula (176:2.8)
 
-Callirhue | (165:0.1) | | LUGAR | 
+Callirhue | (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
 Cámbrico | (59:1.15,20) | Ver edades geológicas | | 
@@ -202,17 +202,17 @@ domesticado por 5000 a.C. (81:2.12)
 colar el mosquito y tragar camellos (156:2.8) (175:1.17)
 a través del ojo de una aguja (163:3.1)
 
-Caná | (124:1.12) (138:9.3) (146:5) | | LUGAR | 
+Caná | (124:1.12) (138:9.3) (146:5) | | PLACE | 
 José, padre de Jesús, trabajó en (123:3.8)
 Natanael de (137:2.3) (139:6.2)
 boda de Noemí y Johab en (137:4)
 
-cananeos | | | RAZA | 
+cananeos | | | RACE | 
 prácticas religiosas hebreas contaminadas (96:7.1)
 La política de compromiso del rey David con (97:9.13)
 palestinos nómadas no hebreos; se unió a David (97:9.7)
 
-Canadá | | Ver bahía de Hudson; Quebec | LUGAR | 
+Canadá | | Ver bahía de Hudson; Quebec | PLACE | 
 geología (58:7.4) (59:3.9) (59:4.6) (59:5.17) (61:7.9)
 
 velas | | | | 
@@ -232,16 +232,16 @@ ceremonia solemne de venganza (89:5.5-6)
 el gusto por la carne humana crece (89:5.4)
 tribu se comió a cada quinto niño nacido (68:6.10)
 
-Cano | | | PERSONA | OK
+Cano | | | PERSON | OK
 Cano era un líder nodita brillante y activo (75:3.7)
 sedujo a Eva y el padre de Caín (75:4.7) (75:5.3)
 le aseguró a Eva que las personas con buenos motivos no podrían hacer el mal (75:4.5)
 Influyendo en Eva mediante la adulación, el entusiasmo, y la persuasión personal, ambos cometieron el acto sexual para procrear un descendiente al margen de los planes ya establecidos (75:3.9)
 le mataron los habitantes del Jardín en un ataque enfurecido contra la colonia nodita vecina, en represalia por lo sucedido a Eva (75:5.3)
 
-Cabo de Hornos | (60:3.2) (60:3.12) | | LUGAR | 
+Cabo de Hornos | (60:3.2) (60:3.12) | | PLACE | 
 
-Cafarnaúm | (145) (152) (153) (154) (134:7.5) (137:3.5) (138:1.1) (138:9.3) (147:7) | Ver Betsaida | LUGAR | 
+Cafarnaúm | (145) (152) (153) (154) (134:7.5) (137:3.5) (138:1.1) (138:9.3) (147:7) | Ver Betsaida | PLACE | 
 Andrés de (139:1.1)
 Betsaida era puerto pesquero de (139:1.1)
 Jairo era el gobernante de la sinagoga (152:0.1)
@@ -265,7 +265,7 @@ ay de los habitantes de (163:6.5) que rechazan la luz
 Familia Zebedeo de (129:1.4) (139:3.1) (139:4.1)
 Las tiendas de construcción de barcos de Zebedeo al sur de (129:1.4)
 
-Ciudad del Cabo | (66:5.30) | | LUGAR | 
+Ciudad del Cabo | (66:5.30) | | PLACE | 
 
 capital | | Ver competencia; propiedad privada; lucro | | 
 base de la sociedad industrial moderna (69:5.15)
@@ -284,19 +284,19 @@ los pastores fueron los primeros (69:8.5)
 los sacerdotes eran los principales entre los primitivos (69:5.9)
 trabajadores que se convierten en accionistas de la nación continental (72:5.1)
 
-Capitolias | (165:0.1) | | LUGAR | 
+Capitolias | (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
-Capitolio | | | LUGAR | 
+Capitolio | | | PLACE | 
 Templo romano dedicado a Júpiter, Juno y Minerva (132:0.2)
 
-Capadocia | | | LUGAR | 
+Capadocia | | | PLACE | 
 Mateo predicó en (139:7.10)
 
 capitán | | | | 
 la voluntad humana es (111:1.9)
 
-Capua | (130:0.2) (130:8.6) | | LUGAR | 
+Capua | (130:0.2) (130:8.6) | | PLACE | 
 
 caravanas | | | | 
 Jesús nació en el establo de la caravana (122:7.7)
@@ -337,9 +337,9 @@ destino eterno totalmente compatible con honorable (110:3.4)
 Jesús deploró la especialización excesiva (149:4.3,6) (155:1.4)
 la vida no es real para quien no puede hacer una cosa con pericia (160:4.11)
 
-Región del Caribe; región del Caribe | (59:1.5) (59:2.2) | | LUGAR | 
+Región del Caribe; región del Caribe | (59:1.5) (59:2.2) | | PLACE | 
 
-Cárpatos | (61:1.12) | | LUGAR | 
+Cárpatos | (61:1.12) | | PLACE | 
 
 carpintero | | | | 
 Jesús fue (126:1.1) (129:1.2-3)
@@ -357,12 +357,12 @@ palomas mensajeras | | | |
 llegada anunciada de Adán y Eva (74:2.3)
 El bastón del Príncipe se utilizó por primera vez (66:5.6)
 
-Cartago | (130:0.2) | | LUGAR | 
+Cartago | (130:0.2) | | PLACE | 
 Asentamiento andita en (80:7.11)
 Los cartagineses forman parte de una raza más antigua que incluía a los judíos (121:2.1)
 El discurso de Jesús sobre el tiempo y el espacio en (130:7)
 
-mar Caspio | | | LUGAR | 
+mar Caspio | | | PLACE | 
 expandido en la antigüedad (80:2.5)
 Jesús llevó la caravana a (134:2)
 región
@@ -372,7 +372,7 @@ región
 	sede de Onagar (63:6.7)
 	Los nervios brotaron de (78:8.11)
 
-Caspin | (165:0.1) | | LUGAR | 
+Caspin | (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
 sistemas de castas | (68:6.7) Ver brahmánismo; clases sociales | | | 
@@ -415,7 +415,7 @@ gatos | | Ver panteras; tigres de dientes de sable | |
 en la antigüedad (61:2.7) (61:3.4,10,13) (61:4.4) (61:5.7)
 C Negro. considerado mágico (88:5.4)
 
-montañas Catskill | (59:4.15) | | LUGAR | 
+montañas Catskill | (59:4.15) | | PLACE | 
 
 vacas | | | | 
 se convirtieron en animales fetiche (88:1.5)
@@ -430,7 +430,7 @@ al hijo pródigo se le dio ternero cebado (169:1.10)
 robar vacas fue universalmente castigado con muerte sumaria (70:10.15)
 utilizado en el sacrificio de animales (173:1.6-7)
 
-caucásicos | | Ver razas; raza blanca | RAZA | 
+caucásicos | | Ver razas; raza blanca | RACE | 
 La herencia andita le da homogeneidad al Caucasoide (78:4.4)
 raza compuesta de mezcla sangik andita, andónica, primaria y alguna secundaria (81:4.11)
 
@@ -461,10 +461,10 @@ la raza blanca del norte nunca vivió en (80:9.4)
 el hombre primitivo en Europa vivió en (61:6.4)
 Los cromagnones del sur vivieron en (80:3.6) (80:9.4)
 
-Cedes | | | PERSONA | OK
+Cedes | | | PERSON | OK
 Cedes hizo un registro de la vida de Jesús en el año 78 d.C. (121:8.9)
 
-Artesanos Celestiales | (44) (30:3.6) | | ORDEN | 
+Artesanos Celestiales | (44) (30:3.6) | | ORDER | 
 todos los ascendentes elegibles para convertirse (44:0.4)
 el ámbito principal de actividad está en las constelaciones (44:0.1)
 cooperar con Serafines de transición registrador-maestro (48:6.30)
@@ -492,9 +492,9 @@ Univitatia son el grupo más grande asociado con (43:7.4-5)
 utilizar materiales vivos para representar ideas (43:6.7)
 trabajar bajo los ángeles del progreso en Urantia (44:8.1)
 
-seres celestiales | | Ver criaturas | ORDEN | 
+seres celestiales | | Ver criaturas | ORDER | 
 
-Guardianes Celestiales | | | ORDEN | 
+Guardianes Celestiales | | | ORDER | 
 cariñosos, leales, humildes y sumamente sabios con respecto al concepto que personifican (22:10.8)
 aprehender agentes de Ancianos de los Días (22:9.4)
 son personificación de algún ideal universal único (22:10.2)
@@ -514,16 +514,16 @@ Los Hijos Instructores Trinitarios asignan (22:9.1)
 
 influencias celestiales | | Ver influencias espirituales | | 
 
-Músicos Celestiales; músicos celestiales | (44:1.1-15) | Ver Artesanos Celestiales | ORDEN | 
+Músicos Celestiales; músicos celestiales | (44:1.1-15) | Ver Artesanos Celestiales | ORDER | 
 Artesanos Celestiales (44:1.1-15)
 
-Supervisores Celestiales | (37:6) | | ORDEN | 
+Supervisores Celestiales | (37:6) | | ORDER | 
 en el grupo Ayudantes del Universo (37:1.7)
 en el registro de personalidad de Uversa (30:2.146)
 la mayoría de los mortales servirán como (37:6.7)
 educadores voluntarios; número 3 millones en Nebadon (37:6.1)
 
-Registradores Celestiales | (25:6) | | ORDEN | 
+Registradores Celestiales | (25:6) | | ORDER | 
 Los Custodios de los Registros sirven como jefes de (25:5.4) (25:6.1)
 en el registro de personalidad de Uversa (30:2.79)
 hacer registros espirituales originales, contrapartes semimateriales (25:6.1)
@@ -545,11 +545,11 @@ curación de secreciones cuando se lesiona (65:4.3-6)
 células humanas similar a los organismos productores de enfermedades (76:4.7)
 la célula protoplásmica es la unidad biológica de la vida material (49:1.2)
 
-Celsus | | | PERSONA | OK
+Celsus | | | PERSON | OK
 Celsus fue un creyente de Jesús en Cesarea de Filipo (157:3.7) (157:4.1) (157:6.1)
 los apóstoles pasaron la noche con Celsus en cierta ocasión (158:6.1)
 
-Celta | | | PERSONA | OK
+Celta | | | PERSON | OK
 Celta era hija de un centurión romano; formó parte del cuerpo de doce mujeres evangelistas (150:1.1)
 estuvo presente en la décimo sexta aparición de Jesús (193:0)
 
@@ -571,7 +571,7 @@ los antiguos se oponían a la toma (88:1.6)
 César Augusto decretó un censo en el 8 a.C.; los judíos en contra (122:7.1)
 José registrado en Belén (122:4.3)
 
-Directores del Censo | (24:2) | | ORDEN | 
+Directores del Censo | (24:2) | | ORDER | 
 1 estacionado en la capital de cada universo local (24:2.4)
 1 estacionado en cada circuito de Havona (24:2.3)
 son personas con forma espiritual reconocible (24:2.9)
@@ -589,15 +589,15 @@ Usatia es la jefa de Orvonton (24:2.5)
 centauros | | | | 
 antiguos objetos de adoración (85:3.2)
 
-Centro de Centros | | Ver Padre Universal | PERSONA | 
+Centro de Centros | | Ver Padre Universal | PERSON | 
 
 ciempiés | (65:2.5) | | | 
 
-Centroamérica; América Central | | | LUGAR | 
+Centroamérica; América Central | | | PLACE | 
 la raza naranja-azul amalgamada migró a (64:7.5)
 raza predominantemente roja pero también amarilla, naranja, azul (79:5.8)
 
-universo central | | Ver Havona | LUGAR | 
+universo central | | Ver Havona | PLACE | 
 
 centuriones | | Ver romanos:nombrado | | 
 
@@ -659,12 +659,12 @@ inalcanzable en estado mortal (103:7.10)
 	nada de lo que la naturaleza humana toca es infalible (159:4.8)
 tenemos derecho a estar más seguros acerca de Dios (102:7.10)
 
-Ceilán | | | LUGAR | 
+Ceilán | | | PLACE | 
 Asoka estableció el budismo en (94:9.1)
 El budismo Hinayana persistió en (94:9.4)
 los saharauis menos progresistas emigraron a (80:2.2)
 
-caldeos | | | RAZA | 
+caldeos | | | RACE | 
 Semitas orientales avanzados (96:2.1)
 entre los primeros en abandonar el sacrificio humano (89:6.2)
 matrimonio monógamo favorecido (83:6.3)
@@ -691,7 +691,7 @@ creído revelador de la voluntad de los espíritus (90:2.4)
 personificación de (86:2)
 significa ignorancia o indolencia al determinar las causas (86:2.5)
 
-Chang | | | PERSONA | OK
+Chang | | | PERSON | OK
 Chang fue un comerciante chino con el que Jesús tuvo una conversación en Corinto (133:4.9)
 
 cambio | | Ver progreso; transición | | 
@@ -735,7 +735,7 @@ Los discernidores secoráficos de espíritus y las Solemnidades de la Confianza 
 la confianza es la verdadera medida de (28:6.13)
 apartarse del mal requiere mucho (184:2.12)
 
-Charax | (130:0.1,3) | | LUGAR | 
+Charax | (130:0.1,3) | | PLACE | 
 Jesús dejó Ganid en (133:9.4) (134:1.1)
 
 imagen de carbón | | | | 
@@ -777,7 +777,7 @@ castidad | | Ver culto a la continencia; vírgenes | |
 una vez fue un gran obstáculo para el matrimonio de las niñas (82:3.8,13)
 origen del tabú en las costumbres de la propiedad (82:4.5)
 
-chazán de la sinagoga de Nazaret | (123:5.9) (124:1.4) (124:2.2) (124:3.5) (127:2.7-8) | | PERSONA | OK
+chazán de la sinagoga de Nazaret | (123:5.9) (124:1.4) (124:2.2) (124:3.5) (127:2.7-8) | | PERSON | OK
 el chazán o chazan era un empleado de la sinagoga que se encargaba de enseñar a los niños. El Libro de Urantia nos habla repetidas veces del chazán de Nazaret que conoció Jesús, pero sin darnos su nombre (123:5.3)
 este chazán es a quien Jesús dibujó al carboncillo, acto que le causó al joven Jesús un serio problema (124:1.4)
 siempre estuvo interesado en el progreso de Jesús (123:5.9) (124:2.2) (124:3.5) (126:5.3)
@@ -786,7 +786,7 @@ inauguró una tertulia para jóvenes (127:3.9)
 ya había fallecido en el momento del rechazo de Jesús en Nazaret (150:7.4)
 Susana, la jefa de las doce mujeres evangelistas, era hija de este chazán (150:1.1)
 
-Kedorlaomer | | | PERSONA | OK
+Kedorlaomer | | | PERSON | OK
 Kedorlaomer es un jefe tribal contra el que Abraham consiguió una victoria (93:4.14)
 
 mejilla | | | | 
@@ -808,10 +808,10 @@ reacciones que ocurren en el torrente sanguíneo (65:6.6)
 reacciones de química no modificado por la educación (65:6.8)
 verdad, belleza y bondad no inherentes a (195:6.11)
 
-Quemos | | | PERSONA | OK
+Quemos | | | PERSON | OK
 Quemos era el dios de los amorreos o amoritas, similar al Yahvé hebreo (96:1.14)
 
-Querubines y Sanobines; querubines y sanobines; los querubines y los sanobines; querubines; sanobines | (38:7-8) | Ver ángeles; cuartas criaturas (Querubines) | ORDEN | 
+Querubines y Sanobines; querubines y sanobines; los querubines y los sanobines; querubines; sanobines | (38:7-8) | Ver ángeles; cuartas criaturas (Querubines) | ORDER | 
 500 millones de parejas en Urantia en 1934 (114:0.1)
 los Artesanos Celestiales enseñan a ingerir energía eficientemente (44:5.10)
 El jefe aconsejó a los receptores de Melquisedek después de la rebelión (67:6.5)
@@ -840,27 +840,27 @@ tipos
 	positivo o agresivo y negativo o retraído (84:6.5)
 	sanobín es deflector izquierdo, ángel cargado negativamente, complemento del ser (38:7.2) (44:5.10)
 
-Chicago | | | LUGAR | 
+Chicago | | | PLACE | 
 ciudad de esta visitación (113:2.7)
 factura de servicios públicos por el sol (58:2.1)
 
 pollos | | Ver aves de corral | | 
 caparazón sin valor después de que nace el pollito (48:6.32)
 
-jefe de los Monitores de Misterio | | | PERSONA | OK
+jefe de los Monitores de Misterio | | | PERSON | OK
 El jefe de los Monitores de Misterio es el ser que preside el Colegio de los Ajustadores Personalizados en Divininton, y está asociado íntamente con el el Espíritu Maestro número 1 como consejero(16:3.2)
 
-jefe de los arcángeles de Nebadon; Jefe de los Arcángeles de Nebadon | | | PERSONA | OK
+jefe de los arcángeles de Nebadon; Jefe de los Arcángeles de Nebadon | | | PERSON | OK
 Este arcángel es quien consideró diferentes técnicas para la restauración del cuerpo fallecido de Jesús, llegando a la conclusión de que nada podían hacer (189:0.1)
 también es quien escribió los documento 33 y 35 (33:8.7) (35:10.6)
 
-jefe de las Voces de Nebadon | | | PERSONA | OK
+jefe de las Voces de Nebadon | | | PERSON | OK
 El jefe de las Voces de Nebadon forma parte de la orden de seconafines primarios; es capaz de reflejar la voz de Miguel a los Ancianos de los Días sin necesidad de que Miguel esté presente (28:4.6-7)
 
-jefe de los Querubines de Urantia | | | PERSONA | OK
+jefe de los Querubines de Urantia | | | PERSON | OK
 aconsejó a los síndicos Melquisedek después de la rebelión (67:6.5)
 
-jefe de los Serafines de Urantia | | | PERSONA | OK
+jefe de los Serafines de Urantia | | | PERSON | OK
 aconsejó a los síndicos Melquisedek después de la rebelión (67:6.5)
 no pasa un día sin que este jefe esté consciente de una transferencia reflectante, de que se recurre a él desde Uversa por alguna razón (28:4.11)
 se turnan periódicamente; el jefe actual de Urantia es el segundo de la orden de los supernafines primarios que está en este servicio (27:0.2)
@@ -874,10 +874,10 @@ Supernafines terciarios de Havona (26:3.5)
 asiento principal | | | | 
 no sentarse en (167:1.5) (179:1.3-5)
 
-jefe de los supernafines | | | PERSONA | OK
+jefe de los supernafines | | | PERSON | OK
 Este jefe es el ángel modelo original del Paraíso (27:2.1)
 
-Jefes de la Asignación; jefes de la asignación | (27:2) | Ver Supernafines | ORDEN | 
+Jefes de la Asignación; jefes de la asignación | (27:2) | Ver Supernafines | ORDER | 
 Periódicamente dispersa a los adoradores en el Paraíso (27:7.3)
 Supernafines primarios (26:8.5) (27:0.2-9) (27:2.1)
 enviar a los peregrinos derrotados a superuniversos (26:8.5) (26:10.4)
@@ -1006,10 +1006,10 @@ las mujeres aman naturalmente a los bebés más que los hombres (69:3.2)
 chimpancés | (62:5.2) | Ver simios | | 
 los mamíferos intermedios retrasados ​​eran antepasados ​​de (62:3.12)
 
-Tsin-Chi-Hoang-Ti | | | PERSONA | OK
+Tsin-Chi-Hoang-Ti | | | PERSON | OK
 fue uno de los maestros chinos que combatió sin éxito el confucianismo, proclamando una fraternidad basada en el amor y no en el deber ético (94:6.11)
 
-China | | Ver chinos; Honan; Kansu; Shensi; Ti Tao; río Yangtze; raza amarilla; río Amarillo | LUGAR | 
+China | | Ver chinos; Honan; Kansu; Shensi; Ti Tao; río Yangtze; raza amarilla; río Amarillo | PLACE | 
 Cultura de 40.000 años (79:8.16)
 Los anditas llevaron a los inferiores al sur de China (79:2.4)
 Anditas entraron (78:5.5-6) ​​(79:1.1) (79:6.5) (79:7)
@@ -1034,10 +1034,10 @@ lamentable que ningún Pedro o Pablo entraron (130:2.3) (130:3.3)
 despertar religioso del 600 a.C. (79:8.15)
 Misioneros de Salem en (93:7.2) (94:5)
 
-mares de China | | | LUGAR | 
+mares de China | | | PLACE | 
 Los misioneros budistas desafiaron los peligros de (94:9.2)
 
-chinos | (79:5) | Ver China; raza amarilla | RAZA | 
+chinos | (79:5) | Ver China; raza amarilla | RACE | 
 vivir en paz con sus compañeros (64:6.14,16) (79:5.5) (79:6.8) (79:8.6)
 logró una alta civilización aparte de los anditas (79:5.8)
 Legado cultural y espiritual andita (79:7.4-5)
@@ -1077,7 +1077,7 @@ paso más importante en la evolución de las plantas (65:6.3)
 
 elección | | Ver libre albedrío | | 
 
-Corazín | (138:9.3) (152:7.3) | | LUGAR | 
+Corazín | (138:9.3) (152:7.3) | | PLACE | 
 rechazo general del evangelio en (146:4.6) (155:2)
 ay de los habitantes de (163:6.5) que rechazan la luz
 
@@ -1097,7 +1097,7 @@ no hay tal cosa como (134:5.4)
 la obediencia a Dios era la condición de ser de Moisés (96:5.6)
 Samuel dijo que Yahvé se ocupó principalmente de (97:1.7)
 
-Cristo | | Ver Jesús; Miguel de Nebadon | PERSONA | OK
+Cristo | | Ver Jesús; Miguel de Nebadon | PERSON | OK
 El Jesús divino, a quien se denominó Cristo, se convirtió en una religión, el cristianismo (196:2.4)
 Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido concepto del Cristo glorificado, sino que debe ser presentado como el Jesús vivo, como el ideal de vida religiosa personal (196:1.2) (196:2.5)
 Miguel de Nebadon es llamado también Cristo Miguel (0:5.3) (20:4.4) (21:0.3) (21:6.4) (27:0.2) (30:4.11) (33:1.1) (33:2.3) (37:2.6) (37:5.1) (40:6.5) (40:7.2) (45:4.1) (50:6.5) (51:3.9) (52:5.5) (52:6.1) (53:0.2) (53:5.3) (75:2.2) (77:6.6) (77:7.5) (83:8.3) (92:4.8) (93:9.11) (93:10.5-8) (94:6.1) (98:7.2) (101:6.5) (102:3.14) (119:8.8-9) (120:0.9) (120:4.2-3) (121:1.1) (121:3.1) (136:5.4) (196:1.1)
@@ -1244,7 +1244,7 @@ cromosomas | | Ver vida:biológica | |
 24 unidades de patrón; 48 determinantes de rasgos humanos (36:2.11,16)
 del personal del Príncipe reorganizado por circuitos de vida (77:2.2,5)
 
-chronoldeks | | Ver frandalanks; Controladores Físicos Maestros | ORDEN | 
+chronoldeks | | Ver frandalanks; Controladores Físicos Maestros | ORDER | 
 frandalanks que también miden el tiempo (29:4.37)
 en el registro de personalidad de Uversa (30:2.107)
 hora del sistema transmitida por (46:1.2)
@@ -1261,13 +1261,13 @@ la respuesta del hombre primitivo al entorno fantasmal ilusorio (86:6.1)
 las sociedades secretas se convirtieron en (70:7.19)
 la verdadera iglesia es la hermandad de Jesús; invisible, espiritual, caracterizado por la unidad, no la uniformidad (195:10.11)
 
-Chuza | | | PERSONA | OK
+Chuza | | | PERSON | OK
 Chuza fue un mayordomo de Herodes Antipas, y esposo de Juana, una de las doce mujeres evangelistas (150:1.1) (154:0.2)
 
-Cicerón | (195:2.6) | | PERSONA | OK
+Cicerón | (195:2.6) | | PERSON | OK
 El famoso escritor y orador romano es puesto como ejemplo de la madurez para poder recibir el cristianismo
 
-Isla de Cincinnati | (59:4.8) | | LUGAR | 
+Isla de Cincinnati | (59:4.8) | | PLACE | 
 
 circulos | | | | 
 concéntrico | Ver círculos concéntricos, tres
@@ -1284,12 +1284,12 @@ concéntrico | Ver círculos concéntricos, tres
 	paredes de gemas de cristal (46:5.11)
 círculos psíquicos.
 
-reguladores de circuito | | | ORDEN | 
+reguladores de circuito | | | ORDER | 
 en el registro de personalidad de Uversa (30:2.109)
 millones necesarios para energizar los mundos de las mansiones (48:2.13)
 Supervisores del Poder Morontial; dínamos que transforman en todas partes las energías del espacio (48:2.13-14)
 
-Supervisores de circuito | | Ver Supervisores de los Circuitos Universales | ORDEN | 
+Supervisores de circuito | | Ver Supervisores de los Circuitos Universales | ORDER | 
 
 circuitos | (34:4) | | | 
 todos conducen de regreso a Dios en el Paraíso (11:1.4)
@@ -1355,15 +1355,15 @@ cuyo constructor es Dios (178:3.4)
 ciudadanía | | Ver ciudadanía cósmica | | 
 consagración solemne de los jóvenes romanos (98:3.4)
 
-registradores de ciudadanía | | | ORDEN | 
+registradores de ciudadanía | | | ORDER | 
 de Jerusem asignan calificaciones para el sufragio (45:7.7)
 
 cidra | | | | 
 fruta prohibida (162:4.4)
 
-Ciudad de David | | Ver Belén (Judea) | LUGAR | 
+Ciudad de David | | Ver Belén (Judea) | PLACE | 
 
-Ciudad de Judá | | | LUGAR | 
+Ciudad de Judá | | | PLACE | 
 un pequeño pueblo a 4 millas al oeste de Jerusalén; hogar de Isabel y Zacarías (122:2.6-7) (135:0.2)
 
 funcionarios | | | | 
@@ -1519,15 +1519,15 @@ Estado territorial tuvo una amarga lucha con (71:1.23) (134:5.8)
 
 clases, sociales | | Ver clases sociales | | 
 
-Claudia Prócula | | | PERSONA | OK
+Claudia Prócula | | | PERSON | OK
 esposa de Poncio Pilato; se identificó de manera prominente con el evangelio (185:1.7) (185:2.6)
 le pidió a Pilato que no arrestara a Jesús (183:2.3)
 envió un mensaje a Pilato sobre Jesús (185:5.7-8)
 
-Claudio | | | PERSONA | OK
+Claudio | | | PERSON | OK
 Claudio fue un rico propietario de esclavos romano con quien Jesús habló y tras cuya conversación liberó a 117 de ellos (132:4.5)
 
-Claudo | | | PERSONA | OK
+Claudo | | | PERSON | OK
 Claudo fue un joven desanimado a quien Jesús habló en la isla de Malta (130:8.1)
 
 garras | | | | 
@@ -1542,10 +1542,10 @@ Sumerio arcilla tabletas que hablan de Dilmun (77:4.8)
 
 limpiando el templo | (173:1) | | | 
 
-Clemente | | | PERSONA | OK
+Clemente | | | PERSON | OK
 Clemente fue un destacado maestro cristiano en Alejandría, discípulo de Pantaenos o Panteno. Clemente tuvo como discípulo a Orígenes (195:3.10)
 
-Cleofás de Emaús; Cleofás | | | PERSONA | OK
+Cleofás de Emaús; Cleofás | | | PERSON | OK
 Cleofás es uno de los dos hermanos de Emaús que fueron testigos de la séptima aparición de Jesús (190:5)
 
 astucia | | | | 
@@ -1560,7 +1560,7 @@ factor decisivo en la civilización temprana (81:1.1-5) (81:6.3-4)
 duro clima continental en Pérmico (59:6) (60:0.1)
 parábola de discernir el clima (157:2.1)
 
-Cloa | | | PERSONA | OK
+Cloa | | | PERSON | OK
 María, la madre de Jesús, era descendiente de Cloa (122:1.2)
 
 capa | | | | 
@@ -1570,7 +1570,7 @@ oferta capa cuando se toma el abrigo (159:5.11)
 reloj | | | | 
 más confiable reloj es radio (57:7.3)
 
-Clopas | | | PERSONA | OK
+Clopas | | | PERSON | OK
 Clopas era esposo de María, hermana de la madre de Jesús (187:3.2)
 
 llamadas cercanas | | | | 
@@ -1609,13 +1609,13 @@ El personal del Príncipe enseñó el trabajo en equipo (66:7.6)
 el trabajo en equipo depende del liderazgo (81:6.37)
 el trabajo en equipo es una de las lecciones más importantes (28:5.14)
 
-Hijos Creadores coordinados | | Ver Hijos Creadores | ORDEN | 
+Hijos Creadores coordinados | | Ver Hijos Creadores | ORDER | 
 
-Hijas Ministrantes Coordinadas | | Ver Espíritus Maternos de los universos locales | ORDEN | 
+Hijas Ministrantes Coordinadas | | Ver Espíritus Maternos de los universos locales | ORDER | 
 
-Seres Coordinados de Origen Trinitario | | Ver Seres de origen trinitario | ORDEN | 
+Seres Coordinados de Origen Trinitario | | Ver Seres de origen trinitario | ORDER | 
 
-Coordinadores y los Directores de Enlace | | | ORDEN | 
+Coordinadores y los Directores de Enlace | | | ORDER | 
 Compañeros Morontiales; instructores de conducta social (48:3.11)
 
 nivel coabsoluto | | Ver realidad:niveles de realidad:realidad coabsoluta | | 
@@ -1686,11 +1686,11 @@ hijos primogénitos exiliados en lugar de sacrificados (89:7.3)
 trabajadores de color | | | | 
 Reproductores Celestiales, Artesanos Celestiales (44:2.4)
 
-Colorado | (60:2.5) (60:4.4) (61:2.4) | | LUGAR | 
+Colorado | (60:2.5) (60:4.4) (61:2.4) | | PLACE | 
 
-río Colorado | (58:7.5) | | LUGAR | 
+río Colorado | (58:7.5) | | PLACE | 
 
-razas de colores | | Ver razas | RAZA | 
+razas de colores | | Ver razas | RACE | 
 
 colores | | | | 
 7 en espectro natural (42:9.3)
@@ -1702,7 +1702,7 @@ La hija de Jairo en (152:1.2)
 personas a menudo sepultadas cuando simplemente están en (167:4.3)
 estaba el hijo de la viuda en Naín (146:6.2-3)
 
-Controladores Combinados | | | ORDEN | 
+Controladores Combinados | | | ORDER | 
 Supervisores del Poder Morontial altamente mecánicos; 1 está estacionado en cada mundo morontial (48:2.19)
 en el registro de personalidad de Uversa (30:2.112)
 
@@ -1713,7 +1713,7 @@ C. y los meteoros comprenden enormes cantidades de materia (15:6.12)
 algunos consisten en enjambres de meteoritos (49:3.2)
 la cola apuntando hacia afuera prueba la realidad de la luz (15:6.13)
 
-Consolador | | Ver Espíritu de la Verdad | PERSONA | OK
+Consolador | | Ver Espíritu de la Verdad | PERSON | OK
 
 mandamientos | (110:3.6-10) | Ver regla de oro | | 
 2 genial (131:2.13) (131:10.2) (142:3.22) (163:4.8) (174:4)
@@ -1855,7 +1855,7 @@ la experiencia es el complemento cósmico de la perfección (32:3.12)
 de los ángeles puede ser transitorio (26:1.16)
 polaridad espiritual (26:1.16)
 
-Complementos del Descanso; complemento del descanso; complementos superáficos del descanso | | | ORDEN | 
+Complementos del Descanso; complemento del descanso; complementos superáficos del descanso | | | ORDER | 
 entrar en el resto del tiempo terminal con los peregrinos (26:11.7)
 asegurar la confraternidad de los hijos trinitizados por las criaturas (26:11.3)
 Supernafines secundarios en el círculo interno de Havona (26:11)
@@ -1868,7 +1868,7 @@ a menudo dirigen organizaciones seráficas (39:2.1,5)
 
 composibilidad y omnipotencia | (118:5) | | | 
 
-manipuladores combinados | | | ORDEN | 
+manipuladores combinados | | | ORDER | 
 Manipuladores de la Energía Artesanos Celestiales; busca descubrir la presencia del Supremo (44:5.5)
 
 compromiso | | | | 
@@ -1945,7 +1945,7 @@ conciliación (ceremonia) | | | |
 lugar en la evolución de las observancias religiosas (90:0.1)
 reemplazó los ritos de evitación, apaciguamiento y exorcismo (89:4.4)
 
-Conciliadores, Universal | | Ver Conciliadores Universales | ORDEN | 
+Conciliadores, Universal | | Ver Conciliadores Universales | ORDER | 
 
 cónclaves | | | | 
 150.000 Hijos Mayores en el Paraíso (21:0.5)
@@ -1962,7 +1962,7 @@ condenación | | Ver culpa | |
 
 conducta | | Ver acción | | 
 
-conductores de adoración | (27:7) | | ORDEN | 
+conductores de adoración | (27:7) | | ORDER | 
 mejorar la técnica de adoración de los ascendentes (27:7.4)
 Supernafines primarios (27:0.4)
 incapaz de adaptarse completamente a la adoración de los ascendentes (27:7.6-7)
@@ -2001,7 +2001,7 @@ Resumen de Ganid de (131:9)
 preceptos contrarios al espíritu de investigación chino (94:6.11)
 religión de la ética (5:4.7)
 
-Confucio | (94:6.9-11) | Ver confucianismo | PERSONA | OK
+Confucio | (94:6.9-11) | Ver confucianismo | PERSON | OK
 compilador de dichos sabios de filósofos antiguos del siglo VI a. C. (94:6.9)
 fue deificado por sus seguidores (94:6.12)
 tenía un concepto de Dios subordinado al Camino del Cielo, el arquetipo del cosmos (94:6.10)
@@ -2032,14 +2032,14 @@ coníferas | (60:2.7) | | |
 
 conjeturas | | Ver especulaciones | | 
 
-Actor Conjunto | | Ver Espíritu Infinito | PERSONA | OK
+Actor Conjunto | | Ver Espíritu Infinito | PERSON | OK
 
-Creador Conjunto | | Ver Espíritu Infinito | PERSONA | OK
+Creador Conjunto | | Ver Espíritu Infinito | PERSON | OK
 
 prestidigitadores | | | | 
 a los practicantes de artes negras eran llamdos prestidigitadores (90:2.2)
 
-Connecticut | (60:1.7) | | LUGAR | 
+Connecticut | (60:1.7) | | PLACE | 
 
 conquista | | Ver guerra | | 
 
@@ -2132,21 +2132,21 @@ consuelo | | Ver simpatía | |
 conspiración | | | | 
 de las fuerzas espirituales líbranos de la esclavitud material (34:6.9)
 
-Constantino | | | PERSONA | OK
+Constantino | | | PERSON | OK
 Emperador romano; ganó al cristianismo (195:0.10)
 
-Centros de las constelaciones | | Ver Centros Supremos del Poder | ORDEN | 
+Centros de las constelaciones | | Ver Centros Supremos del Poder | ORDER | 
 10 asignados a cada constelación (29:2.17) (41:1.4) (43:8.1)
 energizar a ciertas criaturas vivientes (29:2.17)
 en el registro de personalidad de Uversa (30:2.97)
 Centros Supremos del Poder; proyectar energía a los sistemas de comunicación, transporte y mantenimiento de la vida (29:2.17)
 
-Padre de la constelación de Norlatiadek | | Ver Altísimos de Norlatiadek | PERSONA | OK
+Padre de la constelación de Norlatiadek | | Ver Altísimos de Norlatiadek | PERSON | OK
 
-Padres de la Constelación; Padre de la Constelación | | Ver Altísimos | ORDEN | 
+Padres de la Constelación; Padre de la Constelación | | Ver Altísimos | ORDER | 
 El Altísimo reinante es el Padre de la Constelación (35:6.1)
 
-constelaciones | (43) | Ver Edentia; Norlatiadek | LUGAR | 
+constelaciones | (43) | Ver Edentia; Norlatiadek | PLACE | 
 10 Centros de Constelación estacionados en cada uno (29:2.17) (41:1.4)
 10 controladores maquinales y 10 frandalanks estacionados en capiteles de cada uno (41:1.4)
 los ascendentes tienen 71 cuerpos morontiales en el curso de (48:1.5)
@@ -2174,16 +2174,16 @@ tiempo, distancia medida como en el universo local (33:6.8) (43:0.3)
 almas trasladadas exentas de pasar (55:2.9-10)
 trabajo de las comisiones conciliadoras sobre (25:3.8)
 
-cónsules (universo) | | | ORDEN | 
+cónsules (universo) | | | ORDER | 
 designado por legislaturas; representar constelaciones (33:6.4)
 Vorondadeks sirven como (35:5.5)
 
-Consumador del Destino del Universo | (30:1.105) | | ORDEN | 
+Consumador del Destino del Universo | (30:1.105) | | ORDER | 
 el destino es consumado por (106:7.3)
 miembro de la segunda Trinidad experiencial (106:5.1)
 miembro no revelado de Trinidad Absoluta (0:12.7)
 
-personalidades de contacto | | Ver reservistas; Documentos de Urantia:personalidad de contacto para | ORDEN | 
+personalidades de contacto | | Ver reservistas; Documentos de Urantia:personalidad de contacto para | ORDER | 
 las criaturas intermedias sirven como contactos eficientes para (77:7.5) (77:8.8)
 reservistas conscientes de la preparación para una posible función; número menor que 20 (114:7.8)
 
@@ -2271,20 +2271,20 @@ Las algas secretoras de cal eran ancestros de (59:2.11)
 cuerdas, anudadas | | | | 
 escritura temprana (69:4.7)
 
-Corinto | (130:0.3) | | LUGAR | 
+Corinto | (130:0.3) | | PLACE | 
 Segunda ciudad de Grecia, tercera en el imperio (133:3.4) (133:4.13)
 capital de la provincia romana de Acaya (133:2.5)
 El trabajo personal de Jesús en (133:3-4)
 vía terrestre entre puertos (133:4.14)
 Pedro visitó (139:2.11)
 
-Cornelio | | | PERSONA | OK
+Cornelio | | | PERSON | OK
 Centurión romano que fue convertido por Pedro (130:2.5)
 
 piedra angular | | | | 
 los constructores de piedra rechazados se convirtieron en (173:4.4)
 
-Estado mayor corpóreo de los Príncipes Planetarios; cuerpo de cien ayudantes; estado mayor de Caligastia; estado mayor corpóreo del príncipe | (50:3-4) (66:2-7) | Ver cien de Caligastia; Príncipes Planetarios | ORDEN | 
+Estado mayor corpóreo de los Príncipes Planetarios; cuerpo de cien ayudantes; estado mayor de Caligastia; estado mayor corpóreo del príncipe | (50:3-4) (66:2-7) | Ver cien de Caligastia; Príncipes Planetarios | ORDER | 
 vínculo de conexión con las razas mundiales (50:3.1)
 exento de la mayoría de enfermedades; sujeto a ciertos accidentes (50:3.3)
 inmortalidad sostenida por el árbol de la vida (73:6.4)
@@ -2301,19 +2301,19 @@ generalmente retirado del planeta a la llegada de Adán (50:3.4-6)
 error de corporeidad | | | | 
 en materialismo y panteísmo (1:5.12)
 
-Cuerpo de los Finalitarios Trinitizados Conjuntos | | Ver Cuerpo Paradisiaco de la Finalidad; Hijos de Dios Trinitizados | ORDEN | 
+Cuerpo de los Finalitarios Trinitizados Conjuntos | | Ver Cuerpo Paradisiaco de la Finalidad; Hijos de Dios Trinitizados | ORDER | 
 1 nativo de Havona puede ingresar a cada compañía (31:1.5)
 1 de los 7 cuerpos de finalitarios; basado en Vicegerington (31:1.5) (31:10.5)
 en el registro de personalidad de Uversa (30:2.135)
 
-Cuerpo de los Finalitarios de Havona | | Ver Nativos de Havona; Cuerpo Paradisiaco de la Finalidad | ORDEN | 
+Cuerpo de los Finalitarios de Havona | | Ver Nativos de Havona; Cuerpo Paradisiaco de la Finalidad | ORDER | 
 1 de 7 cuerpos de finalitarios (31:1.5) (31:10.6)
 en el registro de personalidad de Uversa (30:2.136)
 
-Cuerpo de Luz y Vida; Cuerpo de Luz y de Vida | | | ORDEN | 
+Cuerpo de Luz y Vida; Cuerpo de Luz y de Vida | | | ORDER | 
 servicio temporal de finalitarios en (31:3.2)
 
-Cuerpo de los Finalitarios Mortales | (31) | Ver finalitarios; Cuerpo Paradisiaco de la Finalidad | ORDEN | 
+Cuerpo de los Finalitarios Mortales | (31) | Ver finalitarios; Cuerpo Paradisiaco de la Finalidad | ORDER | 
 1 de 7 cuerpos de finalitarios (31:10.2)
 agondontarios agrupados funcionalmente en (50:7.2)
 lealtad solo a la Trinidad (31:0.12)
@@ -2355,7 +2355,7 @@ autónomo (31:0.12)
 el cuerpos finalitarios primarios (31:0.1) (31:2.1)
 Hijos Instructores Trinitarios íntimamente conectados con (20:9.4-5)
 
-Cuerpo Paradisiaco de la Finalidad; Cuerpo de los Finalitarios del Paraíso; Cuerpo de los Finalitarios Paradisiacos; cuerpos finalitarios | (17:1.7) | Ver Ciudadanos del Paraíso | ORDEN | 
+Cuerpo Paradisiaco de la Finalidad; Cuerpo de los Finalitarios del Paraíso; Cuerpo de los Finalitarios Paradisiacos; cuerpos finalitarios | (17:1.7) | Ver Ciudadanos del Paraíso | ORDER | 
 1 de los 7 cuerpos de finalitarios (31:10.3)
 en el registro de personalidad de Uversa (30:2.133)
 movilización de toda la vida en el Paraíso (31:10.17)
@@ -2372,10 +2372,10 @@ incluye (30:2.131)
 supervisado por el Arquitecto Maestro del universo (31:10.1)
 Consejo Supremo del Destino compuesto por jefes de cada cuerpos finalitarios (31:10.9)
 
-Cuerpo de la Perfección | | | ORDEN | 
+Cuerpo de la Perfección | | | ORDER | 
 cuerpo del universo local; destino de los ascendentes fusionados con el Espíritu (37:5.3-4)
 
-Cuerpo de Ciudadanos Permanentes; CUERPO DE CIUDADANOS PERMANENTES; ciudadanos permanentes | (30:2.116-128) (37:9.12) | | ORDEN | 
+Cuerpo de Ciudadanos Permanentes; CUERPO DE CIUDADANOS PERMANENTES; ciudadanos permanentes | (30:2.116-128) (37:9.12) | | ORDER | 
 integrantes
 	# Los Intermedios Planetarios (77) (37:9.11) (48:2)
 	# Los Hijos Materiales de los sistemas locales (51) (37:9.9-10) (45:5)
@@ -2390,25 +2390,25 @@ integrantes
 	# Los Ciudadanos Creados del Paraíso (19:7)
 	# Los Ciudadanos Mortales del Paraíso Fusionados con el Ajustador (47:2.8)
 
-Cuerpo de la Finalización Seráfica | (39:8.10) (39:9) | Ver Serafines consumados; Serafines; Serafington | ORDEN | 
+Cuerpo de la Finalización Seráfica | (39:8.10) (39:9) | Ver Serafines consumados; Serafines; Serafington | ORDER | 
 El logro trasciende con creces a los mortales que logran la supervivencia (40:1.2)
 miembros lograron el Paraíso, abrazo del Hijo Eterno (39:1.5)
 Ingresan los graduados de Serafington (39:1.12) (113:7.5)
 
-Cuerpo de la Finalidad | | Ver Cuerpo Paradisiaco de la Finalidad | ORDEN | 
+Cuerpo de la Finalidad | | Ver Cuerpo Paradisiaco de la Finalidad | ORDER | 
 
-Cuerpo de los Finalitarios Trascendentales | | Ver Cuerpo Paradisiaco de la Finalidad; Trascendentales | ORDEN | 
+Cuerpo de los Finalitarios Trascendentales | | Ver Cuerpo Paradisiaco de la Finalidad; Trascendentales | ORDER | 
 1 nativo de Havona puede ingresar a cada compañía (31:1.5)
 1 de 7 cuerpos de finalitarios (31:10.7)
 basado en el Paraíso (31:1.5)
 en el registro de personalidad de Uversa (30:2.133)
 
-Cuerpo de los Finalitarios Trinitizados | | Ver hijos trinitizados por las criaturas; Cuerpo Paradisiaco de la Finalidad | ORDEN | 
+Cuerpo de los Finalitarios Trinitizados | | Ver hijos trinitizados por las criaturas; Cuerpo Paradisiaco de la Finalidad | ORDER | 
 1 de 7 cuerpos de finalitarios (31:10.4)
 destino de seres trinitizados por criaturas y ciertos Ciudadanos del Paraíso (22:8.6) (26:11.2)
 en el registro de personalidad de Uversa (30:2.134)
 
-Cuerpo de los Hijos del Destino No Revelados | | Ver Cuerpo Paradisiaco de la Finalidad | ORDEN | 
+Cuerpo de los Hijos del Destino No Revelados | | Ver Cuerpo Paradisiaco de la Finalidad | ORDER | 
 1 de 7 cuerpos de finalitarios (31:10.8)
 en el registro de personalidad de Uversa (30:2.138)
 
@@ -2475,30 +2475,30 @@ Consejo de Ancianos; consejo de ancianos; consejo primitivo de ancianos | | | |
 primer organismo gubernamental (70:5.2-3)
 poderes gradualmente concentrados en monarca absoluto (70:12.2)
 
-Consejo del Equilibrio | | | PERSONA | OK
+Consejo del Equilibrio | | | PERSON | OK
 este consejo está compuesto por Organizadores de la Fuerza Maestros Asociados enviados por los Siete Espíritus Maestros (29:4.2)
 un Organizador de la Fuerza fue enviado por este consejo a Andronover hace 900.000 millones de años (29:4.2) (57:1.4)
 están capacitados para interpretar los registros de los maestros frandalanks (29:4.2)
 
-consejo de perfección | | | ORDEN | 
+consejo de perfección | | | ORDER | 
 Conciliadores Universales se traducen al consejo de perfección en el Paraíso (25:3.16)
 
-consejo de Príncipes Planetarios | | | ORDEN | 
+consejo de Príncipes Planetarios | | | ORDER | 
 Soberano del Sistema preside (45:2.4)
 
-consejo de los siete | | | PERSONA | OK
+consejo de los siete | | | PERSON | OK
 un antiguo gobierno tribal de la raza roja (70:5.4)
 
-consejo de los setenta | | | PERSONA | OK
+consejo de los setenta | | | PERSON | OK
 un consejo de setenta miembros elegidos entre mortales, que aconsejan a los Príncipes Planetarios, y que es análogo al consejo de los 24 consejeros (50:2.2)
 
-consejo sobre la alimentación y el bienestar material | | Ver cien de Caligastia | PERSONA | OK
+consejo sobre la alimentación y el bienestar material | | Ver cien de Caligastia | PERSON | OK
 
 consejo (espíritu) | | Ver Espíritus Ayudantes de la Mente:5. Consejo | | 
 
 aconsejando al rico | (132:5) | | | 
 
-Consejeros y los Asesores; consejeros y los asesores; consejeros y los asesores | | | ORDEN | 
+Consejeros y los Asesores; consejeros y los asesores; consejeros y los asesores | | | ORDER | 
 enlace con los Discernidores de Espíritus (28:5.19)
 Supernafines secundarios del segundo círculo de Havona (26:10.1-7)
 
@@ -2526,7 +2526,7 @@ El valor de Jesús nacido de fe, no de presunción ciega (100:7.15)
 Dejar la vida solo requiere profundo (143:1.6-7)
 a veces conduce a la imprudencia, la presunción, el orgullo propio (111:6.2) (149:4.4)
 
-Asesores de los Tribunales | | | ORDEN | 
+Asesores de los Tribunales | | | ORDER | 
 Serafines supremos; sirven como defensores de los mortales (39:1.7-9)
 
 corte de gentiles | | | | 
@@ -2548,7 +2548,7 @@ cortesía | | | |
 Jesús ordenó cortesía hacia todos (163:4.14)
 originalmente, cortesía fue un intento de engañar a los espíritus envidiosos (87:5.7)
 
-colonias de cortesía | (30:2.149-157) (30:3) | | LUGAR | 
+colonias de cortesía | (30:2.149-157) (30:3) | | PLACE | 
 encontrado desde los sistemas locales hasta la sede del superuniverso (30:2.157) (37:10.4) (46:5.30-31)
 grupos que trabajan en colonias de cortesía (30:2.150-156)
 	Los Peregrinos Ascendentes (30:3.13)
@@ -2591,7 +2591,7 @@ la venganza es una máscara para (145:3.4)
 coyotes | | | | 
 Las tribus indias creían que se originaron en (74:8.5)
 
-Nebulosa del Cangrejo; nebulosa del Cangrejo | | | LUGAR | 
+Nebulosa del Cangrejo; nebulosa del Cangrejo | | | PLACE | 
 colapsó hace 900 años (41:8.4)
 
 cangrejos | (59:1.18) (60:2.9) | Ver crustáceos | | 
@@ -2599,7 +2599,7 @@ cangrejos | (59:1.18) (60:2.9) | Ver crustáceos | |
 cuna | | | | 
 mano que mece cuna confraterniza con el destino (84:6.4)
 
-artesanos de color | | | ORDEN | 
+artesanos de color | | | ORDER | 
 Diseñadores y los Embellecedores de Artesanos Celestiales (44:6.3)
 
 creación | | Ver realidad:génesis de la realidad | | 
@@ -2615,11 +2615,11 @@ de Urantia (57)
 creacionismo | | | | 
 basado en la creencia en el retroceso, Deidad vengativa (74:8.13)
 
-Hijas creativas | | Ver Espíritus Maternos de los universos locales | ORDEN | 
+Hijas creativas | | Ver Espíritus Maternos de los universos locales | ORDER | 
 
-Espíritus Maternos Creativos | | Ver Espíritus Maternos de los universos locales | ORDEN | 
+Espíritus Maternos Creativos | | Ver Espíritus Maternos de los universos locales | ORDER | 
 
-Espíritus creativos | | Ver Espíritus Maternos de los universos locales | ORDEN | 
+Espíritus creativos | | Ver Espíritus Maternos de los universos locales | ORDER | 
 
 creatividad | | | | 
 puede ser fortuito o dirigido y constructivo (111:4.9)
@@ -2631,7 +2631,7 @@ reflejo de actividades antecedentes del espíritu creador (56:8.4)
 Los Espíritus Reflectantes se crearon cuando los Espíritus Rectores lograron una perfecta sincronía con la Trinidad (17:2.2)
 voluntad aspirando a ser semejante a Dios (130:2.10)
 
-Hijos Creadores | (21) (7:6) | Ver Jesús; Migueles Maestros; Miguel de Nebadon; Miguel (original); Hijos Paradisíacos de Dios | ORDEN | 
+Hijos Creadores | (21) (7:6) | Ver Jesús; Migueles Maestros; Miguel de Nebadon; Miguel (original); Hijos Paradisíacos de Dios | ORDER | 
 100 Padres de la Constelación son gabinete asesor de (35:6.2)
 una variedad casi infinita caracteriza los planes de (21:2.10) (32:3.3)
 poderes curativos casi ilimitados (149:1.6)
@@ -2779,7 +2779,7 @@ lo que el Padre quiere y el deseo de los Hijos Creadores ES (145:3.11) (149:1.7)
 facultad de crear | | | | 
 agregado de la naturaleza actuante de Dios (3:0.3)
 
-hijos trinitizados por las criaturas | (22:8) | Ver trinitización; Hijos de Dios Trinitizados | ORDEN | 
+hijos trinitizados por las criaturas | (22:8) | Ver trinitización; Hijos de Dios Trinitizados | ORDER | 
 todos dotados de personalidad por el Padre (26:8.1)
 aprendices de Hijos Instructores Trinitarios (20:8.2) (22:1.12) (22:8.2-4) (22:9.1) (55:4.17)
 venir a los mundos en luz y vida (55:4.17) (55:12.2)
@@ -2845,7 +2845,7 @@ se usa para evitar problemas con los fantasmas (87:6.8)
 Cretáceo; cretáceo | | Ver edades geológicas | | 
 era de las aves y las plantas con flores, de hace 100 a 50 millones de años (60:3.1-22) (60:4.1-6)
 
-Creta | (130:0.2) | | LUGAR | 
+Creta | (130:0.2) | | PLACE | 
 los anditas brillantes emigraron a Creta en el 12.000 a.C. (80:7.2,7,12)
 hogar de Jacob, comerciante judío (142:2.1)
 La experiencia de Jesús en (130:5-6)
@@ -2894,7 +2894,7 @@ Los Serafines no se entrometen en el drama humano excepto en emergencias (113:5.
 logro espiritual a veces asegurado por (100:2.8)
 la mujer no funcionó en emergencias (84:3.3)
 
-Crispo | | | PERSONA | OK
+Crispo | | | PERSON | OK
 Crispo era el jefe de la sinagoga de Corinto; estaba casado y tenía cinco hijos; conoció a Jesús sin saberlo, y más tarde apoyó a Pablo en sus predicaciones (133:3.1-4)
 
 crítica | | Ver autoanálisis | | 
@@ -2907,7 +2907,7 @@ superar el hábito de la crítica orando por la persona todos los días (91:5.3-
 la religión necesita constructiva (5:5.12) (99:3.7)
 la verdad no se resiente con la crítica honesta (146:3.2)
 
-cromañones | (80:3) | Ver raza azul | RAZA | 
+cromañones | (80:3) | Ver raza azul | RACE | 
 Anditas destruidos (80:5.3-6)
 Anditas de Mesopotamia absorbidos (80:3.9) (80:4.6)
 base biológica de las razas europeas modernas (80:5.7)
@@ -3047,7 +3047,7 @@ custodios (Lanonandek) | (35:8.13) | | |
 
 custodios (Portador de vida) | (36:1.3) (36:2.16) | | | 
 
-Custodios del Conocimiento | (27:5) | | ORDEN | 
+Custodios del Conocimiento | (27:5) | | ORDER | 
 accesible a los universos locales solo por la reflectividad (27:5.5)
 resúmenes vivientes finales de la red de ángeles registradores (27:5.3)
 imposible que la falsedad se aloje en (27:5.1)
@@ -3057,7 +3057,7 @@ responsable de la organización de su información (27:5.5)
 buscadores presentados con seres que son lo que buscan (27:5.2-3)
 Voces de la Sabiduría en perpetuo enlace con (28:5.7)
 
-Custodios de los Registros | (25:5) | | ORDEN | 
+Custodios de los Registros | (25:5) | | ORDER | 
 Los Jefes Registradores de Supernafines terciarios transmiten a (26:3.5)
 elegido entre los Supernafines terciarios en Havona (25:5.1,3)
 en el registro de personalidad de Uversa (30:2.78)
@@ -3067,20 +3067,20 @@ sirven como Jefes de Registros de Registradores Celestiales (25:5.4)
 
 aduana | | Ver tradiciones | | 
 
-cutitas (descendientes) | | | RAZA | 
+cutitas (descendientes) | | | RACE | 
 Sargón instaló cutitas en el norte de Israel (143:4.1)
 
-cutitas (primitivos) | | | RAZA | 
+cutitas (primitivos) | | | RACE | 
 Jardín del Edén ocupado después del incumplimiento (73:7.1)
 
 sepias | (60:2.8) | | | 
 descendiente de cefalópodos (59:2.11)
 oxigenar sangre con cobre (65:6.4)
 
-Cibeles | | | PERSONA | OK
+Cibeles | | | PERSON | OK
 Cibeles es la madre de Atis en el culto de misterios frigio (98:4.2-8) (98:5.5)
 
-Cimboitón | (134:3.4) | | PERSONA | OK
+Cimboitón | (134:3.4) | | PERSON | OK
 Cimboitón fue un rico comerciante de Urmia que construyó un templo dedicado a la religión (134:3.2)
 ejerció una autoridad indiscutible en Urmia (134:4.10)
 vivió y murió sin revelar nunca sus creencias personales (134:3.3)
@@ -3104,14 +3104,14 @@ más tarde incorporado a la religión cristiana (98:0.2)
 Mardus era líder en Roma (132:2.1)
 predicadores de fe y confianza en Dios (98:0.2)
 
-Chipre | (130:0.3) | | LUGAR | 
+Chipre | (130:0.3) | | PLACE | 
 Los anditas se asentaron 5000 a.C.; los bárbaros invadieron 3000 a.C. (80:7.10)
 El discurso de Jesús sobre la mente en (133:7)
 Tomás predicó en (139:8.13)
 
-Cirene | (130:0.2) | | LUGAR | 
+Cirene | (130:0.2) | | PLACE | 
 Jesús ayudó a Rufo en (130:6.6)
 Simón, Rufo y Alejandro de (187:1.9-10)
 
-Ciro | | | PERSONA | OK
+Ciro | | | PERSON | OK
 Ciro es mencionado como ejemplo de la tradición del niño repudiado salvado por la intervención divina (89:7.3)

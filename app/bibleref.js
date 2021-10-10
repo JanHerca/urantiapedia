@@ -1,18 +1,21 @@
-//Reader/Writer para pasar las refs de la Biblia de unos TXT en los *.wiki
+//Reader/Writer to converts Bible refs from TXT to *.wiki
 
-const LaTeXSeparator = require('./enums').LaTeXSeparator;
-//TODO: Esto solo funciona para español
-const BibleAbb_es = require('./enums').BibleAbb_es;
-const extractStr = require('./utils').extractStr;
+const BibleAbbs = require('./abb');
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
 const readFrom = require('./utils').readFrom;
 const fs = require('fs');
 const path = require('path');
+const Strings = require('./strings');
 
 class BibleRef {
+	language = 'en';
 	biblebooks = [];
 	onProgressFn = null;
+
+	setLanguage = (language) => {
+		this.language = language;
+	};
 
 	//***********************************************************************
 	// TXT
@@ -62,27 +65,25 @@ class BibleRef {
 			file: path.basename(baseName, '.txt'),
 			chapters: []
 		};
-		//TODO: Esto solo funciona para español
-		const booknames = Object.values(BibleAbb_es).map(n => n.replace(/ /g,"_"));
-		book.abb = Object.keys(BibleAbb_es)[booknames.indexOf(book.file)];
+		const booknames = Object.values(BibleAbbs[this.language])
+			.map(n => n.replace(/ /g,"_"));
+		const bookabbs = Object.keys(BibleAbbs[this.language]);
+		book.abb = bookabbs[booknames.indexOf(book.file)];
 
 		lines.forEach((line, i) => {
 			let data = null, ref, data2, data3, bible_ref, chapter, vers;
 			if (line.trim() != '' && !line.startsWith('#') && !line.startsWith('Book')) {
 				data = line.split('\t');
 				if (data.length < 6) {
-					errors.push(this.createError(baseName, i,
-						'No hay suficientes datos en la referencia'));
+					errors.push(this.getError('bibleref_no_data', baseName, i));
 				} else {
 					bible_ref = data[1];
 					data2 = bible_ref.split(':');
 					data3 = data[3].split('/');
 					if (data2.length < 2) {
-						errors.push(this.createError(baseName, i,
-							'La referencia de la Biblia está mal'));
+						errors.push(this.getError('bibleref_bad_ref', baseName, i));
 					} else if (data3.length != 2) {
-						errors.push(this.createError(baseName, i,
-							'La referencia de El Libro de Urantia está mal'));
+						errors.push(this.getError('bibleref_bad_ub_ref', baseName, i));
 					} else {
 						chapter = parseInt(data2[0]);
 						vers = this.extractVers(data2[1]);
@@ -91,8 +92,7 @@ class BibleRef {
 							vers = 1;
 						}
 						if (chapter === 0 || vers === 0 || isNaN(chapter) || vers == null) {
-							errors.push(this.createError(baseName, i,
-								'El número de capítulo o versículo está mal'));
+							errors.push(this.getError('bibleref_bad_number', baseName, i));
 						} else {
 							if (!book.chapters[chapter - 1]) {
 								book.chapters[chapter - 1] = [];
@@ -225,8 +225,15 @@ class BibleRef {
 	// Help functions
 	//***********************************************************************
 
-	createError = (file, linenum, msg) => {
-		return new Error(`${file}, línea ${linenum}: ${msg}`);
+	/**
+	 * Returns an error.
+	 * @param  {...any} params Params.
+	 * @returns {Error}
+	 */
+	getError = (...params) => {
+		const msg = params[0];
+		return new Error(
+			strformat(Strings[msg][this.language], ...params.slice(1)));
 	};
 
 };

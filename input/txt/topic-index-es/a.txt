@@ -11,7 +11,7 @@
 ####################################################################################
 
 
-A-B-C el Primero;a-b-c el primero | (77:8.2) | | PERSONA | OK
+A-B-C el Primero;a-b-c el primero | (77:8.2) | | PERSON | OK
 es el nombre del primer intermedio secundario del primer subgrupo de los ocho subgrupos que existen. Cada subgrupo son 248 hermanos y hermanas hijos de unos mismos padres (77:6.4)
 
 suposiciones a priori | | Ver doctrinas | | 
@@ -19,33 +19,33 @@ las respuestas a la realidad de la mente cósmica son la causación, el deber y 
 
 hijas de Aaron | Ver hijas de Aaron | | |
 
-Aarón (Viejo Testamento); Aarón | | | PERSONA | OK
+Aarón (Viejo Testamento); Aarón | | | PERSON | OK
 Aarón era el hermano mayor de Moisés y quien protagonizó el suceso del becerro de oro, un ídolo con el que los israelitas decidieron representar a Yahvé. 
 Pedro utilizó esta historia en una de sus sermones (146:1.1)
 > https://es.wikipedia.org/wiki/Aarón
 
-Aarón el albañil; albañil; un hombre que tenía una mano seca | | | PERSONA | OK
+Aarón el albañil; albañil; un hombre que tenía una mano seca | | | PERSON | OK
 Aarón fue curado de una mano seca por Jesús (148:7)
 fue quien le habló al paralítico que se descolgó del techo acerca de Jesús (148:9.2)
 
-Abaddon | | | PERSONA | OK
+Abaddon | | | PERSON | OK
 Abaddon era el jefe del estado mayor de Caligastia; jefe de los rebeldes de Urantia (53:1.5)
 > https://es.wikipedia.org/wiki/Abadón
 
-abandontarios | | | ORDEN | 
+abandontarios | | | ORDER | 
 muy hábiles artísiticamente y adaptados socialmente (43:7.4)
 creados por agentes de los Ancianos de los Días y los Espíritus Reeflectantes (37:9.12)
 están en los registros de las personalidades (30:1.44) (30:2.122)
 ciudadanos residentes de Uversa (37:9.12)
 supervisados por los mortales fusionados con el Hijo (37:9.12)
 
-Abel | (76:2sec) | | PERSONA | OK
+Abel | (76:2sec) | | PERSON | OK
 Abel fue el primer hijo de Adán nacido en el segundo jardín. Se dedicó a ser pastor (76:2.1,4)
 Vivió grandemente influido por su entorno desfavorable (76:2.6)
 Abel se mofaba a menudo de su hermano mayor Caín y terminó asesinado por él (76:2.2-5)
 > https://es.wikipedia.org/wiki/Abel
 
-Abila | (138:9.3) (144:7.1) (159:4.1) | | LUGAR | 
+Abila | (138:9.3) (144:7.1) (159:4.1) | | PLACE | 
 Jesús predicó en este lugar
 
 capacidad | | | | OK
@@ -53,14 +53,14 @@ La capacidad para un ministerio celestial superior no implica necesariamente la 
 las capacidades inherentes no se pueden exceder (48:7.5)
 las tres fuentes de las capacidades humanas son la aptitud inherente o capacidad natural, el liderazgo del Ajustador, y la ayuda de los artesanos espirituales (44:8.2) (160:4.11)
 
-Abimélek | (126:1.2) | | PERSONA | OK
+Abimélek | (126:1.2) | | PERSON | OK
 Abraham hizo conversos entre la gente de Abimélek, pueblo que tenía muchas supersticiones y practicaban el sacrificio de los hijos primogénitos (93:9.4)
 > https://es.wikipedia.org/wiki/Abimelec_(rey_de_Gerar_con_Abraham)
 
-Abiram | | | PERSONA | OK
+Abiram | | | PERSON | OK
 fue el hijo de un rey que fue sacrificado en la construcción de muros de Jericó junto a su hermano (89:6.6)
 
-Abner | (147:5.10) (152:7.2) (162:9) (165:1.3) | | PERSONA | OK
+Abner | (147:5.10) (152:7.2) (162:9) (165:1.3) | | PERSON | OK
 Abner fue el jefe de los leales seguidores de Juan el Bautista (144:6.1-3)
 Había sido el jefe de la colonia nazarea de En-Gedi (135:2.4) (142:8.1) (165:0.1)
 tenía su residencia en Sebaste (144:9.1)
@@ -86,7 +86,7 @@ tras la muerte de Jesús
 moradas | | | | OK
 Jesús repitió en varias ocasiones a sus seguidores que existen en el universo del Padre otras muchas moradas o residencias, refiriéndose sin aclararlo a otros planetas habitados y a los mundos arquitectónicos (133:4.9) (178:3.4) (180:3.4) (180:6.3) (181:1.2)
 
-aborígenes (australianos) | | | RAZA | OK
+aborígenes (australianos) | | | RACE | OK
 Se nos dice que algunos de estos aborígenes no han progresado mucho desde la época antigua de la caza (68:5.4)
 estos aborígenes australianos de hoy perpetúan el miedo a los fantasmas, el temor a la oscuridad y la veneración de los antepasados, con una religión centrada en el clan (92:6.1) (103:3.1)
 en ellos se puede observar hoy los restos de antiguos pueblos antisociales (68:1.6)
@@ -95,7 +95,7 @@ nunca tuvieron esclavos (69:8.7)
 en algunas tribus de Australia las oraciones religiosas primitivas antecedieron a la creencia en los espíritus (91:0.3)
 en estas tribus sus supersticiones hacen que las mujeres no cacen y los hombres no se agachen para arrancar una raíz, pues se considera de mala suerte (84:3.6)
 
-aborígenes (hindúes) | | | RAZA | OK
+aborígenes (hindúes) | | | RACE | OK
 no son representativos de los pueblos primitivos que poblaron la India, sino que forman la franja del sureste de la India que no fue absorbida por anditas o arios (79:2.2)
 
 aborto | | Ver infanticidio | | OK
@@ -103,7 +103,7 @@ aborto | | Ver infanticidio | | OK
 el aborto ha sido una práctica muy común después del tabú sobre el parto entre los solteros (68:6.9)
 el embrión humano es una etapa parasitaria transitoria de la vida humana (112:5.4)
 
-Abraham (Antiguo Testamento) | (93:5) (126:1.2) | | PERSONA | OK
+Abraham (Antiguo Testamento) | (93:5) (126:1.2) | | PERSON | OK
 Su nombre original era Abram y se lo cambió por Abraham cuando su pacto con Melquisedek tomó un aspecto formal (93:6.5)
 Efectivamente se le aparecieron tres seres celestiales (93:6.7)
 Abraham fue un antepasado de José, el padre de Jesús (122:1.1)
@@ -148,15 +148,15 @@ menciones de Jesús y Juan a Abraham
 	Juan el Bautista decía a sus contemporáneos que «Dios puede levantar a los hijos de Abraham de las piedras», advitiéndoles contra creerse justificados ante Dios por su mera ascendencia (135:6.7)
 > https://es.wikipedia.org/wiki/Abraham
 
-Abraham el fariseo | | | PERSONA | OK
+Abraham el fariseo | | | PERSON | OK
 Abraham fue bautizado por Abner (148:8.1)
 entregó todos los bienes mundanos al tesoro apostólico (148:8.5)
 Fue un sanedrita influyente, pero abrazó las enseñanzas de Jesús (148:8.1)
 los líderes religiosos se sintieron desesperados tras la conversión de Abraham (149:3.2)
 
-Abram | | Ver Abraham (Antiguo Testamento) | PERSONA | OK
+Abram | | Ver Abraham (Antiguo Testamento) | PERSON | OK
 
-Absalón | | | PERSONA | OK
+Absalón | | | PERSON | OK
 Abasalón fue uno de los hijos del rey David. Se nos informa de que su madre era cananea y que hoy sería calificado de demagogo. Absalón fue aspirante al trono que finalmente ocupó Salomón (97:9.15)
 > https://es.wikipedia.org/wiki/Absalón
 
@@ -191,7 +191,7 @@ responde a la mente (9:4.5)
 Responde solo a la comprensión personal del Padre (42:2.5)
 Los ultimatones exhiben una resistencia mutua a (42:6.4)
 
-El Absoluto; «Absoluto» | | Ver Absolutos | PERSONA | OK
+El Absoluto; «Absoluto» | | Ver Absolutos | PERSON | OK
 esta persona es una evolución del concepto budista de Buda Eterno, la mejor aproximación que han tenido los budistas de un concepto divino (94:11.7-11)
 se muestra como una reacción impersonal y coordinada de la Trinidad hacia las situaciones espaciales y universales, pero no es válido verle como un antepasado de la Trinidad pues la Trinidad es infinita y eterna (56:9.4)
 en el infinito y existencialmente, hay un único Absoluto, aunque en los niveles subinfinitos hay tres Absolutos (56:9.1) (106:8.17)
@@ -200,17 +200,17 @@ es un término que nunca se usa en El Libro de Urantia como negación de algo ni
 
 Buda Absoluto | | Ver budismo:doctrinas | | 
 
-Deidad Absoluta | | Ver Absoluto de la Deidad | PERSONA | OK
+Deidad Absoluta | | Ver Absoluto de la Deidad | PERSON | OK
 
 nivel absoluto | | Ver realidad:niveles de realidad:realidad absoluta | | 
 
 mente absoluta (mente) | | Ver mente:tipos de mente | | 
 
-Mente Absoluta (persona) | | Ver Espíritu Infinito | PERSONA | OK
+Mente Absoluta (persona) | | Ver Espíritu Infinito | PERSON | OK
 
-Persona absoluta | | Ver Hijo Eterno | PERSONA | OK
+Persona absoluta | | Ver Hijo Eterno | PERSON | OK
 
-Absolutos | | Ver El Absoluto | ORDEN | 
+Absolutos | | Ver El Absoluto | ORDER | 
 de actualidad
 	compuesto de Hijo, Espíritu y Paraíso (104:5.2) (115:3.14)
 	los existentes del cosmos se centran en (115:3.14)
@@ -252,7 +252,7 @@ organización homogénea estacionaria de la potencia espacial que no se encuentr
 
 nivel absonito | | Ver realidad:niveles de realidad | | 
 
-absonitos | | Ver Trascendentales | ORDEN | 
+absonitos | | Ver Trascendentales | ORDER | 
 
 absonitas | | Ver realidad:niveles de realidad | | 
 
@@ -288,7 +288,7 @@ los primitivos no creían en (86:2.6)
 Redirigir cataclismos destruyen creaciones temporales preliminares para criar realidades más duraderas (100:2.8)
 para el creyente que conoce a Dios, no importa si todas las cosas terrenales se estrellan (100:2.7)
 
-Acaya | | Ver Grecia | LUGAR | OK
+Acaya | | Ver Grecia | PLACE | OK
 Andrés el apóstol fue crucificado en Acaya (139:1.12)
 Corinto era la capital de Acaya. Por aquí pasó Jesús durante su viaje por el Mediterráneo (133:2.5)
 Lucas escribió su evangelio en Acaya (121:8.8)
@@ -336,7 +336,7 @@ cuando el hombre y Dios se asocian, no se pueden poner límites a las posibilida
 agradecimientos | | Ver reconocimiento | | 
 por los autores de los documentos de Urantia (0:12.13-14) (121:0.1) (121:8.12-14)
 
-Acrópolis | (195:1.1) | | LUGAR | 
+Acrópolis | (195:1.1) | | PLACE | 
 
 acto de Dios | | | | 
 los hijos del Espíritu son (10:3.3)
@@ -371,7 +371,7 @@ los débiles se entregan a las resoluciones; acto fuerte (48:7.13)
 sopesar las consecuencias de (192:2.8)
 La religión de Zoroastro es una de acción (95:6.3)
 
-Actium | | | LUGAR | OK
+Actium | | | PLACE | OK
 Actium es el escenario de una sonada victoria del emperador Augusto en su batalla contra Marco Antonio. Para conmemorar este hecho Augusto fundó Nicópolis, que quiere decir «ciudad de la vistoria» (133:2.5)
 
 actores | | | | 
@@ -386,9 +386,9 @@ cosas inexplicables denominadas (85:0.4)
 real | | | | 
 versus fases potenciales de la realidad (0:4.7)
 
-Actual, el | | Ver Absolutos:de actualidad | PERSONA | 
+Actual, el | | Ver Absolutos:de actualidad | PERSON | 
 
-Adán | (74) (75) (165:0.1) | Ver Eva; Jardín del Edén; Hijos Materiales de Dios | PERSONA | 
+Adán | (74) (75) (165:0.1) | Ver Eva; Jardín del Edén; Hijos Materiales de Dios | PERSON | 
 Adán, junto a su consorte, Eva, son los Hijos Materiales de Jerusem encargados de actuar como los iniciadores de la raza adamita en Urantia, siguiendo con un plan que se efectúa así en todos los planetas habitados
 en Jerusem (74:1)
 	Adán y Eva eran directores de energía experimental para formas vivientes desde hacía 15.000 años, y anteriormente habían trabajado como instructores en las escuelas de ciudadanía (74:1.2)
@@ -484,19 +484,19 @@ El problema de Urantia para Adán y Eva (75:1)
 	tuvieron muchos problemas para establecer un sistema de ley y orden pues las ideas de libertad desenfrenada de Caligastia habían impregnado a las tribus atrasadas (74:5.4-7)
 > https://es.wikipedia.org/wiki/Adán
 
-Adán (original de Satania) | (51:0.1) | | PERSONA | OK
+Adán (original de Satania) | (51:0.1) | | PERSON | OK
 es el jefe supervisor de los Hijos Materiales de Satania (45:3.16)
 este Adán y su consorte Eva son los dos únicos en Satania que son inmortales por dotación inherente. Su descendencia requiere de un sincronismo mental con el Espíritu para poder ser inmortales (51:1.5)
 
-Adán (pueblo) | | | LUGAR | OK
+Adán (pueblo) | | | PLACE | OK
 en este pueblo al este del Jordán, también llamado Adam, es donde Juan el Bautista pronunció sus palabras de ataque contra Herodes Antipas (135:10.2)
 Juan el Bautista pasó por este pueblo cuando viajó hacia el norte siguiendo el río Jordán (135:7.2)
 
 Dispensación adánica | | Ver épocas planetarias | | 
 
-Hijos Adánicos | | Ver Hijos Materiales de Dios | ORDEN | 
+Hijos Adánicos | | Ver Hijos Materiales de Dios | ORDER | 
 
-adamitas | | Ver razas | RAZA | 
+adamitas | | Ver razas | RACE | 
 después de Adán (78)
 intentó divorciar lo matemático de lo volitivo (103:6.10)
 capacidad inherente aumentada en sangre de las razas (81:5.1)
@@ -538,7 +538,7 @@ raza violeta
 salieron como emisarios hace 25.000 años (78:1.12) (78:2.2)
 la raza blanca incorpora cepas de (80:0.1-2)
 
-Adanson | | | PERSONA | OK
+Adanson | | | PERSON | OK
 Adanson fue el primer hijo de Adán y Eva en Urantia (74:6.2) (76:3.3) (80:7.5)
 junto a una compañía de 27 familiares Adanson emigró hacia el norte desde el segundo Jardín (77:5.5)
 su primera esposa y sus 32 hijos se fueron a Edentia después de la falta de Adán y Eva (77:5.3)
@@ -552,28 +552,28 @@ Adanson y Ratta
 	Adanson y Ratta se casaron cuando Adanson tenía 120 años (77:5)
 	Sato era un descendiente directo de Adanson, y él y su pueblo de gente de alta estatura fueron los antepasados de los griegos (80:7.3)
 
-adansonitas | | | RAZA | OK
+adansonitas | | | RACE | OK
 los adansonitas fueron los descubridores del bronce (81:3.5)
 la sede adansonita se encontraba al este de la costa meridional del Mar Caspio, cerca de los montes Kopet (78:1.3)
 los adansonitas, liderados por Sato, un descendiente directo de Adansón y Ratta, se instalaron en Grecia en el 10.000 a.C., y formaron los antepasados de los griegos (80:7.3-4)
 los adansonitas son los descendientes de Adansón, hijo de Adán y Eva, y Ratta, una nodita superviviente. mantuvieron una cultura elevada durante 7.000 años. Se mezclaron con noditas y andonitas pero su cultura sobrevivió hasta formar parte de la civilización europea posterior (77:5.9)
 junto a los adamitas formaron la raza violeta, una de las nueve razas puras que han existido en la Tierra (78:1.3)
 
-Aden | | | PERSONA | OK
+Aden | | | PERSON | OK
 Aden es un predicador extraño del evangelio que fue convertido por Amós de Jeresa, el demente a quien supuestamente Jesús había curado de una posesión. El apóstol Juan le prohibió predicar, pero él hizo caso omiso y consiguió reunir a un grupo considerable de creyentes, continuando su predicación en Mesopotamia (159:2)
 
-montañas de Adirondack | (58:7.4) | | LUGAR | 
+montañas de Adirondack | (58:7.4) | | PLACE | 
 
 adjudicación | | Ver juicio | | 
 función más alta del gobierno (22:4.3)
 
 Expresión del ajustador | | Ver Ajustadores del pensamiento | | 
 
-Mortales fusionados con Ajustadores | | Ver mortales ascendentes | ORDEN | 
+Mortales fusionados con Ajustadores | | Ver mortales ascendentes | ORDER | 
 
 Fusión del ajustador | | Ver fusión:fusión del Ajustador | | 
 
-Espíritus Ayudantes de la Mente | (34:4.10) (36:5) (42:10.4) (65:7) | | ORDEN | 
+Espíritus Ayudantes de la Mente | (34:4.10) (36:5) (42:10.4) (65:7) | | ORDER | 
 1. Intuición (34:4.10)
 	ayudante de percepción rápida, reflejos; autoconservación (34:4.10) (36:5.6) (65:7.6)
 	ayuda a los seres de control direccional (34:4.12)
@@ -656,17 +656,17 @@ la mente mortal es dotación de (36:2.18)
 Los Espíritus Maternos se consideran personalidades (34:4.10) (36:5.4)
 no interesado en la evolución física (65:7.2)
 
-Ayudantes de los Circuitos de Havona; doce ayudantes; Ayudantes Dodécuples de los Circuitos de Havona | | | ORDEN | OK
+Ayudantes de los Circuitos de Havona; doce ayudantes; Ayudantes Dodécuples de los Circuitos de Havona | | | ORDER | OK
 cada Espíritu de los Circuitos tiene doce de estos ayudantes. Nosotros los mortales de Urantia algún día seremos llevados ante el séptimo Espíritu de los Circuitos, el de Orvonton, y antes su doce Ayudantes de los Circuitos. Allí tendremos que probar nuestro cumplimiento con los requisitos para avanzar hacia Havona (26:5.5)
 en la clasificación de seres se encuentran dentro de los llamados Espíritus Supremos que forman parte de los seres de origen único, descendientes de una única Deidad (30:1.59)
 
-Asistentes Administrativos | | Ver Serafines | ORDEN | OK
+Asistentes Administrativos | | Ver Serafines | ORDER | OK
 forman parte de la cuarta orden de Serafines, los Serafines administradores, que está destinada a las tareas administrativas de los sistemas locales. Sirven a los Soberanos de los Sistemas y a los Príncipes Planetarios. Actualmente mil de ellos sirven en Urantia (39:4.2-3)
 
-actores administrativos | | | ORDEN | OK
+actores administrativos | | | ORDER | OK
 son uno de los siete grupos de los seres llamados Reproductores Celestiales, que se dedican a reproducir cosas de valor supremo en el nivel morontial. Los actores administrativos son aquellos que que describen la importancia de la filosofía gubernamental y de la técnica administrativa, los dramaturgos celestiales de la soberanía (44:2.9)
 
-Serafines administradores; serafines administradores; administradores seráficos | (39:4) | Ver Serafines | ORDEN | OK
+Serafines administradores; serafines administradores; administradores seráficos | (39:4) | Ver Serafines | ORDER | OK
 el gobernante en funciones de Urantia está asistido por mil de ellos (39:4.3)
 forman la cuarta orden de los Serafines y están asignados a las tareas administrativas de los sistemas locales. Son nativos de las capitales de los sistemas pero también se encuentran en las esferas arquitectónicas y en los mundos habitados (39:4.1)
 se perdió a muchos de esta orden en la rebelión de Lucifer. Fue la orden más perjudicada. Manotia fue un ángel leal que logró salvar a dos tercios de ellos, pero un tercio se perdió. En Urantia la situación fue más desastrosa pues cerca de la mitad de los Serafines administradores apoyaron la causa de Lucifer (53:6.2,4) (53:7.6) (67:3.2)
@@ -681,11 +681,11 @@ tipología (39:4.2)
 	# Los Registradores (39:4.16)
 	# Las Reservas (39:4.17-18)
 
-Adonai | | | PERSONA | OK
+Adonai | | | PERSON | OK
 Era una de las denominaciones con las que los semitas evitaban el uso del nombre de su Deidad, nombre que consideraban tabú (96:1.9)
 > https://es.wikipedia.org/wiki/Adonai
 
-Adonia | | | LUGAR | OK
+Adonia | | | PLACE | OK
 fue la metrópolis comercial de Asia central cerca de Ashjabad. Este comercio fue impulsado por las tribus anditas, que preferían la manufactura al pastoreo (79:1.4)
 
 adopción | | | | 
@@ -736,10 +736,10 @@ afecto | | | |
 matrimonio duradero nunca fundado solo en el afecto (84:7.10)
 vínculo espiritual que mantiene unidas a las familias (160:2.4)
 
-Afganistán | | | LUGAR | OK
+Afganistán | | | PLACE | OK
 En las regiones montañosas de Afganistán es donde durante más de medio millón de años sobrevivió el más importante centro de la cultura primitiva, fundado por Badonán, un descendiente de los primeros seres humanos (79:0.1)
 
-África | | Ver bosquimanos; Ciudad del Cabo; Egipto; raza índiga; Libia; pigmeos; tribu Toda | LUGAR | OK
+África | | Ver bosquimanos; Ciudad del Cabo; Egipto; raza índiga; Libia; pigmeos; tribu Toda | PLACE | OK
 evolución geológica
 	Hace 800 millones de años se produjo la primera elevación terrestre de un único continente, surgido del oceáno Pacífico, que ya contenía la primigenia África (57:8.21)
 	Hace 500 millones de años África se desplazó al sur creando la cuenca del Mediterráneo (58:4.3)
@@ -774,16 +774,16 @@ el evangelio en África
 	Simón Zelotes murió en el corazón de África predicando por todo el Nilo (139:11.11)
 	Tomás predicó entre otros lugares en el norte de África (139:8.13)
 
-Agaman | | | PERSONA | OK
+Agaman | | | PERSON | OK
 Agaman era una viuda de Damasco que formó parte del cuerpo de mujeres que Jesús instrumentó en paralelo al de los doces apóstoles (150:1.1)
 estuvo presente en la décimosexta aparición morontial de Jesús (193:0)
 
-Agni; dios del fuego | | Ver hinduismo | PERSONA | OK
+Agni; dios del fuego | | Ver hinduismo | PERSON | OK
 Agni, el dios del fuego, fue una deidad antigua de los arios que a menudo era exaltada como cabeza del panteón védico (94:1.4) (94:4.6)
 Hacia el 16.000 a.C. la India casi fue conquistada a la idea de la Trinidad pero luego en cinco mil años degeneró en el símbolo trino del dios del fuego, Agni. En los principios del segundo milenio a.C. los dioses arios se organizaron bajo la dirección de Dyaus pitar, del cielo, Indra, del aire, y Agni, del fuego. Agni, el dios tricéfalo del fuego, fue durante mucho uno de los pocos remanentes de las ideas sobre la Trinidad que ya empezaron a diseminar en tiempos antiguos Adán y Eva y después Melquisedek (79:3.4) (94:1.3) (104:1.2)
 > https://es.wikipedia.org/wiki/Agni
 
-agondontario | | | ORDEN | OK
+agondontario | | | ORDER | OK
 los seres ascendentes, como los seres humanos, que viven un aislamiento planetario se conocen por el nombre de agondontarios, que significa criaturas volitivas evolutivas que pueden creer sin ver y perseverar cuando están aislados. Este el caso de nosotros, los habitantes de Urantia. Junto al resto de mundos aislados, en Jerusem se nos asigna un sector residencial propio y se les confía muy pronto tareas especiales que impliquen gran confianza. Tabamantia es un agondontario con estatus de finalitario que sobrevivió en una de las esferas en cuarentena implicadas en la primera rebelión que ha tenido lugar nunca (50:7.2)
 
 agricultura | | Ver plantas | | 
@@ -801,41 +801,41 @@ las instituciones de esclavitud y tierras privadas vinieron con (69:9.14) (81:1.
 universal en todos los mundos atmosféricos (49:4.5)
 la debilidad es la falta de emoción y aventura (68:5.11)
 
-Acab; Ajab | (124:6.3) | | PERSONA | OK
+Acab; Ajab | (124:6.3) | | PERSON | OK
 Rey de Efraín, también llamado Ajab; fue reprobado por el profeta Elías (123:5.12)
 asesinó a los Nabot para obtener su tierra (97:3.6) (97:9.19)
 Su esposa fenicia fue quien falsificó los papeles que ordenaban la confiscación de las tierras de los Nabot por acusación de blasfemia (97:9.19)
 resistió contra el rey Salmanasar III en Karkar en una batalla que terminó en empate (97:9.18)
 > https://es.wikipedia.org/wiki/Ajab
 
-Ahura-Mazda | | Ver zoroastrismo | PERSONA | OK
+Ahura-Mazda | | Ver zoroastrismo | PERSON | OK
 es el dios a la cabeza de la constelación de los siete dioses de Zoroastro (95:6.2)
 el dios Sol Invictus fue una degeneración de Ahura-Mazda (98:5.3)
 > https://es.wikipedia.org/wiki/Ahura_Mazda
 
-Hai | | | LUGAR | OK
+Hai | | | PLACE | OK
 el ataque a Hai, la ciudad que Josué aniquiló por completo con todos sus habitantes y su rey, es una muestra fiel de las matanzas bárbaras de tiempos antiguos, antes de que la esclavitud de los prisioneros de guerra hiciera progresar algo estas prácticas (69:8.3)
 
-Accad | | | LUGAR | OK
+Accad | | | PLACE | OK
 se trata de una de las ciudades estado de Mesopotamia que tuvo en algún momento la soberanía de la región (78:8.9-10)
 
-Alabama | (58:7.4) (59:5.17) | | LUGAR | 
+Alabama | (58:7.4) (59:5.17) | | PLACE | 
 
-Alaska | (58:7.4) (59:5.20) (60:3.2,12) | | LUGAR | OK
+Alaska | (58:7.4) (59:5.20) (60:3.2,12) | | PLACE | OK
 se nos dice que la raza roja llegó hasta Alaska (64:7.18)
 
 alquimia | | | | 
 convertido en química (81:2.9)
 
-Alejandro (hermano de Filón) | | | PERSONA | OK
+Alejandro (hermano de Filón) | | | PERSON | OK
 era un banquero judío de Alejandría, hermano del famoso filósofo Filón, con el cual tuvo negocios Gonod, el comerciante que contrató a Jesús durante su viaje por el Mediterráneo (130:3.9)
 > https://es.wikipedia.org/wiki/Alejandro_el_Alabarca
 
-Alejandro de Cirene; Alejandro | | | PERSONA | OK
+Alejandro de Cirene; Alejandro | | | PERSON | OK
 fue un maestro eficaz del evangelio en África, hijo de Simón de Cirene (187:1.10)
 > https://es.wikipedia.org/wiki/Simón_de_Cirene
 
-Alejandro el Grande; Alejandro | | | PERSONA | OK
+Alejandro el Grande; Alejandro | | | PERSON | OK
 Hechos sobre Alejandro Magno mencionados en El Libro de Urantia
 	* su campaña en el Punjab introdujo herencia aria en la India (79:4.3)
 	* su mausoleo real de Alejandría fue visitado por Jesús (130:3.4)
@@ -843,7 +843,7 @@ Hechos sobre Alejandro Magno mencionados en El Libro de Urantia
 	* Alejandro difundió la civilización helenística en Oriente Próximo (195:1.7-10)
 > https://es.wikipedia.org/wiki/Alejandro_Magno
 
-Alejandría | (130:0.2) (186:3.2-3) (190:1.8) | Ver Egipto | LUGAR | 
+Alejandría | (130:0.2) (186:3.2-3) (190:1.8) | Ver Egipto | PLACE | 
 70 ancianos gobernaron la sinagoga más grande del mundo (130:3.8)
 atracciones de esta ciudad de 1 millón (130:3.4,7-8)
 los primeros cristianos también discípulos de Filón (121:6.6)
@@ -865,7 +865,7 @@ piedra depositada por secreción de cal (59:2.3,11)
 generó oxígeno libre para la atmósfera temprana (57:7.9)
 ascenso del hombre desde (65:2.1) (65:6.8)
 
-Alá | | | PERSONA | OK
+Alá | | | PERSON | OK
 Alá es la sola y única Deidad del islam, concepto claro y bien definido en el cual ha residido la fuerza del islam (95:7.6)
 > https://es.wikipedia.org/wiki/Alá
 
@@ -875,9 +875,9 @@ Jesús desaconsejó el uso de (149:3.1) (151:2.1,7) (151:3.3)
 caimanes | | | | 
 descendiente de reptiles no progresivos (65:2.10)
 
-Todopoderoso | | Ver El Supremo | PERSONA | 
+Todopoderoso | | Ver El Supremo | PERSON | 
 
-Todopoderoso trascendental (el Omnipotente) | | | PERSONA | OK
+Todopoderoso trascendental (el Omnipotente) | | | PERSON | OK
 Se trata de una manifestación de Dios Último a los universos del tiempo que se postula que ocurrirá cuando Dios Último empiece a funcionar como supercontrol de los universos. En ese momento ejercerá el supercontrol del supertiempo y  del espacio trascendido sobre las funciones administrativas del Todopoderoso Supremo (118:2.4)
 
 Todopoderoso Supremo | | Ver El Supremo | | 
@@ -889,10 +889,10 @@ Alfa y Omega; el Alfa y la Omega | | | |
 Dios es el primero y el último (10:7.1)
 Jesús es (128:1.10)
 
-Alfeo | | Ver gemelos Alfeo | PERSONA | OK
+Alfeo | | Ver gemelos Alfeo | PERSON | OK
 Alfeo es el padre de los apóstoles Jacobo y Judas Alfeo (138:4.1)
 
-gemelos Alfeo | (143:3.5) | Ver apóstoles de Jesús | PERSONA | OK
+gemelos Alfeo | (143:3.5) | Ver apóstoles de Jesús | PERSON | OK
 Santiago y Judas Alfeo, también llamados los gemelos Alfeo, fueron dos de los apóstoles de Jesús
 su madre se llamaba María y su padre Alfeo (138:4.1) (189:4.4) (190:3.1)
 Santiago o Jacobo Alfeo o Tadeo
@@ -921,9 +921,9 @@ Tras la muerte de Jesús
 > https://es.wikipedia.org/wiki/Santiago_el_Menor
 > https://es.wikipedia.org/wiki/Judas_Tadeo
 
-Raza alpina | | Ver raza blanca:divisiones:central | RAZA | 
+Raza alpina | | Ver raza blanca:divisiones:central | RACE | 
 
-Alpes | (60:1.4) (61:1.12-13) (61:7.3) | | LUGAR | OK
+Alpes | (60:1.4) (61:1.12-13) (61:7.3) | | PLACE | OK
 Los Alpes es uno de los lugares por donde se diseminó la raza Heidelberg (64:2.3)
 muchas plantas y animales desplazados a causa de los glaciares se encuentran en lo alto de las montañas, como en el caso de los Alpes (61:7.16)
 Se produjeron grandes actividades volcánicas al sur de los Alpes durante el Cretácico (60:3.6)
@@ -958,10 +958,10 @@ desinterés
 	antinatural, aparte del instinto paterno (16:9.7)
 Es imprudente mostrar simpatía a inferiores insalvables (52:2.12)
 
-Alvoring | | | LUGAR | OK
+Alvoring | | | PLACE | OK
 Alvoring es un universo local vecino a Nebadon (32:2.12)
 
-Amadón | | | PERSONA | OK
+Amadón | | | PERSON | OK
 héroe humano destacado de la rebelión de Lucifer; era Andonita y asociado de Van, del séquito de Caligastia (67:3.8-9) (67:8)
 recibió el apoyo de 1-2-3 el primero, el decano de la orden primaria de seres intermedios de Urantia (77:9.5)
 Amadón es un claro ejemplo de lealtad potenciada por el Ajustador del Pensamiento (67:3.7)
@@ -969,21 +969,21 @@ permaneció en Urantia 150.000 años después de la rebelión, hasta la llegada 
 dio la bienvenida a Adán y Eva en su llegada (74:2.1,5)
 fue trasladado a Jerusem siete años después de la llegada de Adán y Eva (67:6.8) (74:5.2)
 
-amadonitas | | | RAZA | 
+amadonitas | | | RACE | 
 55 traducido a Jerusem; el resto se quedó (67:6.3)
 144 andonitas leales, incluido Amadón (67:6.3) (67:8.4)
 descendientes de andonitas que permanecieron leales a Van y Amadón; término más cultural que racial (73:1)
 se unió a los noditas para convertirse en vanitas (77:4.10)
 enemistad tradicional con los noditas (73:1.4)
 
-Amata | | | PERSONA | OK
+Amata | | | PERSON | OK
 Amata es la madre de Perpetua, la mujer de Simón Pedro. Padecía de malaria, enfermedad que suele cursar con fiebres cíclicas, motivo erróneo por el que se consideró que Jesús la curó de inmediato mientras la consolaba en su lecho. Sin embargo, Jesús sí la curó milagrosamente horas más tarde en el contexto de la curación multitudinaria que se produjo a la puesta de sol (145:2.15-16)
 
-Amatus | (128:1.14) (141:3-6) (147:6.3) (165:0.1) | | LUGAR | OK
+Amatus | (128:1.14) (141:3-6) (147:6.3) (165:0.1) | | PLACE | OK
 población de Perea, al oeste de Gérasa y al sur de Pella, cerca de Ragaba. Allí Jesús curó a diez leprosos para mostrar a sus apóstoles lo errados que estaban al considerar a algunos pueblos como incapaces de aceptar el evangelio (166:2)
 Una de las poblaciones recorridas en la misisón de Perea
 
-Amasías | | | PERSONA | OK
+Amasías | | | PERSON | OK
 Rey de Judá que fue asesinado después de la derrota militar en el ataque a sus vecinos del norte (97:9.22)
 > https://es.wikipedia.org/wiki/Amasías
 
@@ -1023,7 +1023,7 @@ los nacidos del espíritu son tranquilos mientras que los más cariñosos ambici
 virtualmente destruido por las doctrinas védicas (94:2.4)
 se terminará en la eternidad, si vale la pena terminar (111:3.7)
 
-Amdón | | | PERSONA | OK
+Amdón | | | PERSON | OK
 es el pastor caldeo de origen sumerio que fue el primer testigo en ver a Melquisedek cuando se encarnó en la Tierra (93:2.1-3)
 
 enmienda | | Ver confesión | | 
@@ -1031,7 +1031,7 @@ ser rápido en hacer enmienda (131:9.3)
 hacer enmienda por los pecados pasados ​​(131:3.3)
 restaurar la riqueza obtenida de manera fraudulenta (132:5.18,22)
 
-Amenemope | | | PERSONA | OK
+Amenemope | | | PERSON | OK
 Amenemope fue un gran profeta egipcio (92:5.11) (95:3.5)
 influyó en el concepto de El Shaddai, un concepto complejo sobre Dios inspirado en El Elyón (96:1.5)
 influyó grandemente en la fe religiosa de los hebreos y en la filosofía de los griegos (95:4.4)
@@ -1040,18 +1040,18 @@ ensalzó la conciencia hasta convertirla en el árbitro supremo entre el bien y 
 La religión mesopotámica entró en la literatura hebrea a través del trabajo de Amenemope (95:1.11)
 > https://es.wikipedia.org/wiki/Amenemope_(escriba)
 
-Amenjótep III | | | PERSONA | OK
+Amenjótep III | | | PERSON | OK
 En los muros de un templo de Luxor se muestra el nacimiento de Amenjótep representado junto a otro niño idéntico que simboliza la creencia egipcia en el ka, el espíritu protector que acompaña toda la vida a las personas distinguidas (111:0.5)
 > https://es.wikipedia.org/wiki/Amenofis_III
 
-Amerindios | | Ver raza roja | RAZA | 
+Amerindios | | Ver raza roja | RACE | 
 
 Buda Amida | | Ver budismo:tipos | | 
 
 Amidista; Amida | | Ver Buda Amida | | 
 creyente en el Buda Amida (94:12.3)
 
-ammonitas | | | RAZA | OK
+ammonitas | | | RACE | OK
 El rey David impuso un gran tributo a este pueblo (97:9.14)
 Saúl derrotó a los ammonitas cuando éstos quisieron atacar a los galaaditas. La victoria fue luego ensalzada y dio lugar a la pretenciosa historia hebrea (97:9.3-5)
 
@@ -1061,22 +1061,22 @@ ameba | | | |
 vida animal inicial (59:1.1)
 poco ha cambiado desde la antigüedad (65:2.4)
 
-amoritas | | | RAZA | OK
+amoritas | | | RACE | OK
 eran una confederación de clanes semitas, pero que estaban muy atrasados ​​y se estaban suicidando como nación a causa de sus prácticas insensatas. Melquisedek desaconsejó a Abraham combatirles pues le reveló que en un futuro serían un pueblo débil fácil de derrotar por sus descendientes (93:6.2)
 Quemos era dios de los amoritas, y los hebreos creyeron también por un tiempo en su existencia, aunque fuera subordinada a Yahvé (96:1.14)
 
-Amós (hermano de Jesús) | | Ver Jesús:familia | PERSONA | OK
+Amós (hermano de Jesús) | | Ver Jesús:familia | PERSON | OK
 Amós fue el séptimo hermano de Jesús. Nació la noche del domingo 9 de enero del 7 d.C. y murió la tarde del sábado 3 de diciembre del año 12 d.C., tras una semana enfermo con mucha fiebre. Este fallecimiento fue aún más doloroso si cabe para la familia porque el padre José, hacía poco que también había fallecido (124:5.2) (127:3.13)
 Jesús se llevaba especialmente bien con sus hermanos pequeños, Amós y Rut (124:4.3)
 
-Amós (amigo de Juan Marcos) | | | PERSONA | OK
+Amós (amigo de Juan Marcos) | | | PERSON | OK
 Amós es un amigo de Juan Marcos el evangelista, que fue sobreprotegido por sus padres negándole la posibilidad de unirse al movimiento de Jesús a no ser que escapara de su casa e hiriese los sentimientos de sus padres  (177:2.2-4)
 
-Amós (lunático de Jeresa) | (151:6) | | PERSONA | OK
+Amós (lunático de Jeresa) | (151:6) | | PERSON | OK
 Amós llevó a Adén a creer en Jesús y éste último se dedicó después a predicar (159:2.4)
 Era un lunático que vivía en unas cuevas y el cementario cerca de Jeresa. Solía estar encadenado pero había logrado desatarse y vagaba por allí cuando encontró a Jesús. Amós no tenía ninguna posesión demoníaca como él creía ni fue curado por Jesús sino que tenía una aflicción mental y cambió bruscamente de conducta al escuchar a Jesús. La historia que luego creyó, que los demonios que le atormentaban pasaron a morar en unos cerdos, ayudó a consolidar su restablecimiento. Todos los apóstoles excepto Tomás creyeron en la historia de los cerdos (151:6.6)
 
-Amós (profeta) | | | PERSONA | OK
+Amós (profeta) | | | PERSON | OK
 Amós fue un profeta que denunció la embriaguez y la inmoralidad de las tribus del norte (97:4.1-4)
 Jesús mencionó que el Padre habló ciertamente a través de profetas como Amós (155:6.2)
 Juan el Bautista vivió como un pastor al estilo de Amós (135:6.3)
@@ -1086,7 +1086,7 @@ Amós y otros profetas fueron quienes comenzaron las escrituras secretas que die
 fue apedreado hasta la muerte (97:4.4)
 > https://es.wikipedia.org/wiki/Amós_(profeta)
 
-Amosad | | | PERSONA | OK
+Amosad | | | PERSON | OK
 Amosad fue un líder que hacia el 15.000 a.C. logró una regeneración del decadente clero setita, renacimiento que logró la supervivencia de esa fe más tiempo que ninguna otra (78:5.1) (92:5.9)
 
 anfibios | (59:5.5) | | | 
@@ -1103,11 +1103,11 @@ anarquía | | | |
 aumenta la miseria (70:0.3)
 liderazgo proporcionado infaliblemente (181:2.16)
 
-Anaxágoras | | | PERSONA | OK
+Anaxágoras | | | PERSON | OK
 Anaxágoras era un mecanicista griego que reconoció una Causa Primera (98:2.6)
 > https://es.wikipedia.org/wiki/Anaxágoras
 
-Anaxando | | | PERSONA | OK
+Anaxando | | | PERSON | OK
 Anaxando es un joven griego con quien Jesús habló en Cesarea cuando estuvo viajando por el Mediterráneo (130:2.4-5)
 se convirtió en intendente del centurión romano llamado Cornelio, quien se hizo creyente por Pedro (130:2.5)
 se convirtió al cristianismo por el apóstol Felipe (130:2.5)
@@ -1130,7 +1130,7 @@ lamentablemente persiste en China, Japón e India (92:6.20)
 el ritual se convirtió en una pseudo sesión espiritual; aparecieron fantasmas (70:7.15)
 la veneración solar se convirtió en una especie de (95:2.7)
 
-Ancianos de los Días | (15:0.2) (15:2.8) (15:10.3) (18:3) | Ver Ancianos de los Días de Uversa | ORDEN | 
+Ancianos de los Días | (15:0.2) (15:2.8) (15:10.3) (18:3) | Ver Ancianos de los Días de Uversa | ORDER | 
 Denominación semita de la Deidad (96:1.9)
 segundo nivel de Dios Séptuple (55:4.13) (56:5.3) (116:2.6)
 3 gobiernan cada superuniverso (15:0.2) (15:2.8) (15:10.3) (18:3.3,5)
@@ -1181,7 +1181,7 @@ agencias creativas no reveladas de (30:1.108)
 uso de Ayudantes Reflectantes de Imágenes (17:4.2)
 utilizar Mensajeros Solitarios para comunicarse directa y personalmente con otros superuniversos (23:2.15)
 
-Ancianos de los Días de Uversa; Ancianos de los Días | | Ver Ancianos de los Días | PERSONA | OK
+Ancianos de los Días de Uversa; Ancianos de los Días | | Ver Ancianos de los Días | PERSON | OK
 se comunicaron con Miguel durante el tiempo que Miguel estuvo en la tumba (188:3.12)
 certificaron el tránsito mortal de Jesús (189:1.10)
 Los Documentos de Urantia fueron elaborados de acuerdo a un mandato de los Ancianos de los Días de Uversa (31:10.22)
@@ -1193,9 +1193,9 @@ los Ancianos y la rebelión de Lucifer
 	habrían decretado la extinción instantánea de los rebeldes si su rebelión hubiera ocurrido durante una donación de Miguel (54:4.5) (120:0.8) (120:1.5-6)
 	Aún faltan algunos asuntos de la rebelión de Lucifer por evaluar para que los Ancianos de los Días de Uversa se decidan a lanzar un veredicto (46:8.1) (67:4.7)
 
-cordillera de los Andes | (59:5.18) (60:2.6) (60:3.4) | | LUGAR | 
+cordillera de los Andes | (59:5.18) (60:2.6) (60:3.4) | | PLACE | 
 
-anditas | (78) (80) | Ver arios; razas | RAZA | 
+anditas | (78) (80) | Ver arios; razas | RACE | 
 antepasados ​​de las razas nórdicas (80:4.5) (80:9.2)
 la aridez obligó a los anditas a adoptar nuevos métodos (81:6.4)
 creía que los fantasmas regresaban a las tierras ancestrales (86:4.8)
@@ -1242,7 +1242,7 @@ factor unificador en la raza blanca es la herencia andita (81:4.11)
 salieron como misioneros, maestros y comerciantes (78:5.5)
 metales trabajados (81:3.4)
 
-Andón y Fonta; Andón | (63) (62.5) (136:4.5) | | PERSONA | OK
+Andón y Fonta; Andón | (63) (62.5) (136:4.5) | | PERSON | OK
 Andón y Fonta son los auténticos padres de toda la humanidad (61:6.2) (63:1.1)
 vivieron al comienzo de la tercera edad de hielo, en un ambiente difícil y estimulante (61:6.3)
 Ambos nacieron en lo que hoy es India (79:0.1)
@@ -1274,7 +1274,7 @@ muerte y estado actual
 	nunca han regresado a Urantia, aunque han tratado de enviar saludos a todos los urantianos en el momento de escribirse El Libro de Urantia (63:7.1-3)
 	ahora se encargan de dar la bienvenida a los peregrinos provenientes de Urantia en el primer mundo de las mansiones (63:7.3)
 
-andonitas | (63:4) | Ver mortales:mortales primitivos | RAZA | 
+andonitas | (63:4) | Ver mortales:mortales primitivos | RACE | 
 mejores cepas de primates asimiladas por (65:3.4)
 El idioma hebreo era claramente andonita (80:8.2)
 Los hititas provienen directamente de (80:8.2)
@@ -1334,11 +1334,11 @@ practicas
 retrocedió durante 500.000 años después de Andón (63:5.7) (63:6.1)
 inusual que los andonitas evolucionaran antes que las razas de color (64:6.2)
 
-Andovontia; supervisor terciario de los circuitos | | Ver Supervisores de los Circuitos Universales | PERSONA | OK
+Andovontia; supervisor terciario de los circuitos | | Ver Supervisores de los Circuitos Universales | PERSON | OK
 Es el Supervisor terciario de los Circuitos Universales estacionado en nuestro universo local. Él es quien puso en cuarentena a Urantia tras la traición de Caligastia (37:8.3)
 Andovontia es el nombre del Supervisor terciario de los Circuitos con el número 572.842 para Nebadon y su asignación es eterna. Es miembro del estado mayor personal de Miguel de Nebadon (24:1.11)
 
-Andrés | (139:1) (143:3.1,5) (144:1.4) (145:2.1) (167:0.1) (191:0.6) (192:1.11) (192:4.7) (194:1.2) | Ver apóstoles de Jesús | PERSONA | OK
+Andrés | (139:1) (143:3.1,5) (144:1.4) (145:2.1) (167:0.1) (191:0.6) (192:1.11) (192:4.7) (194:1.2) | Ver apóstoles de Jesús | PERSON | OK
 Andrés fue el primer apóstol de Jesús y jefe del grupo apóstolico mientras vivió Jesús
 tenía 33 años en 26 d.C., cuando fue aceptado por Jesús (139:1.2)
 tenía cierta tendencia a la sospecha y al sobreindividualismo (193:4.3)
@@ -1377,11 +1377,11 @@ el evangelio de Andrés
 	Lucas para componer su evangelio utilizó una copia muy mutilada de unas notas de Andrés (121:8.9)
 > https://es.wikipedia.org/wiki/Andrés_el_Apóstol
 
-Andrómeda (nebulosa) | | | LUGAR | OK
+Andrómeda (nebulosa) | | | PLACE | OK
 Andrómeda es una nebulosa formadora de soles que está fuera del superuniverso habitado y es muy activa. Es una nebulosa visible a simple vista y su luz tarda en llegar a nosotros un millón de años (15:4.7)
 en Andrómeda colapsó una nova gigante en 40 minutos (41:8.3)
 
-Andronover (nebulosa) | (57:1-4) | | LUGAR | 
+Andronover (nebulosa) | (57:1-4) | | PLACE | 
 1.013.628 soles de Orvonton se originaron en (57:2.2) (57:4.3,8)
 el sol de la tierra se originó en (15:3.6) (57:1.1)
 tiene una familia remanente de 165 mundos (57:4.9)
@@ -1392,19 +1392,19 @@ Nebadon parcialmente ensamblado de (41:0.3)
 nebulosa número 876.926 (57:1.6)
 gira alrededor de la nube de estrellas de Nebadon (15:3.10)
 
-Ang | | Ver cien de Caligastia | PERSONA | OK
+Ang | | Ver cien de Caligastia | PERSON | OK
 Ang y tres miembros de su consejo permanecieron leales y no se unieron a la rebelión (67:4.1)
 fue uno de los miembros corpóreos del estado mayor del Príncipe Planetario, que presidía el consejo de la alimentación y el bienestar material, y que enseñó irrigación, peletería y tejeduría a los hombres primitivos (66:5.2)
 
-Angamón | | | PERSONA | OK
+Angamón | | | PERSON | OK
 Angamón presentó a Jesús a un hombre rico de Roma que fue muy influido por sus enseñanzas (132:5.1)
 Angamón era el líder de la iglesia de los estoicos en Roma. Jesús tuvo una charla con él de la que se nos ofrece un resumen en El Libro de Urantia. Fue un gran amigo de Pablo de Tarso y un seguidor ferviente de la iglesia cristiana en Roma (132:1)
 
-mundo de los ángeles | | Ver Jerusem:mundos culturales de transición | LUGAR | OK
+mundo de los ángeles | | Ver Jerusem:mundos culturales de transición | PLACE | OK
 este mundo es el tercer mundo cultural de transición de Jerusem, la capital de Satania (45:1.5)
 al llegar a la tercera mansonia, el tercer satélite del mundo de transición número uno, se concede permiso para sivitar el mundo de los ángeles (47:5.2)
 
-ángeles | (26:1) | Ver Espíritu Infinito:familia de | ORDEN | 
+ángeles | (26:1) | Ver Espíritu Infinito:familia de | ORDER | 
 todos los grupos de ángeles tienen su propio cuerpo de transporte (39:2.8)
 término ángel restringido a Serafines que sirven a mortales (38:3.1)
 El supernafín principal es el ángel modelo original (27:2.1)
@@ -1441,10 +1441,10 @@ ira de Dios
 
 angiospermas | (61:2.2) (60:3.7,19) | | | 
 
-anglosajones | | | RAZA | 
+anglosajones | | | RACE | 
 descendientes de las razas andita y azul (80:4.5)
 
-Angona (sistema) | | | LUGAR | 
+Angona (sistema) | | | PLACE | 
 Aproximación hace 4.500 millones de años que nuestro sistema solar abandonó el sol (41:10.1) (57:5.4-14)
 gran nebulosa cuyo acercamiento distorsionó a Andronover (15:3.6)
 
@@ -1514,13 +1514,13 @@ los esclavos trajeron un. a Grecia (98:1.1)
 anís | | | | 
 pagar el diezmo del anís mientras se descuida asuntos más importantes (175:1.17)
 
-Ana (poetisa); Ana | | | PERSONA | OK
+Ana (poetisa); Ana | | | PERSON | OK
 Ana fue la poetisa que declamó un poema en la presentación en el templo de Jesús (122:9.2-27)
 
-Annán | | | PERSONA | OK
+Annán | | | PERSON | OK
 Annán fue la portavoz de la raza nodita que formó parte del comité de recepción de Adán y Eva (74:2.5)
 
-Anás | (190:3.3) | Ver sanedrín | PERSONA | OK
+Anás | (190:3.3) | Ver sanedrín | PERSON | OK
 Anás era el ex sumo sacerdote, el individuo más poderoso de todos los judíos, y suegro de Caifás, el sumo sacerdote durante la predicación de Jesús (129:1.5) (183:3.10) (183:5.1) (184:0.1-2) (184:1.1)
 Anás fue sumo sacerdotes y fue depuesto del cargo en el año 13 d.C. (129:1.5)
 era pariente lejano de Salomé (142:0.2) (184:0.3)
@@ -1539,21 +1539,21 @@ interrogatorio y juicio a Jesús
 	como vio que no conseguía nada de Jesús le envió atado a Caifás (184:1.9)
 > https://es.wikipedia.org/wiki/Anás
 
-Annon | | | PERSONA | OK
+Annon | | | PERSON | OK
 María, la madre de Jesús, era descendiente de Annon, una mujer desconocida cuyo nombre no aparece en la Biblia (122:1.2)
 
-Anova | | | LUGAR | 
+Anova | | | PLACE | 
 el mundo habitado más antiguo de Satania (49:0.5)
 
-Ansie | | | PERSONA | OK
+Ansie | | | PERSON | OK
 María, la madre de Jesús, era descendiente de Ansie, una mujer desconocida cuyo nombre no aparece en la Biblia (122:1.2)
 
-Antártida | (61:2.3) (61:5.3) | | LUGAR | 
+Antártida | (61:2.3) (61:5.3) | | PLACE | 
 derivó hacia el sur (58:4.3)
 surgió de las profundidades del Pacífico (57:8.21)
 Vastas capas de hielo comenzaron a formarse hace 100.000 años (61:7.11)
 
-Antares | | | LUGAR | 
+Antares | | | PLACE | 
 la estrella más grande del universo local (41:3.2)
 
 osos hormigueros | (61:4.4) | | | 
@@ -1586,7 +1586,7 @@ evita que la gravedad convierta toda la energía en materia (15:8.5-6,10)
 Las energías ultimatónicas a veces exhiben (42:4.10) (42:6.3)
 el peso de la energía depende de (15:8.3)
 
-Antioquía | (130:0.3) | | LUGAR | 
+Antioquía | (130:0.3) | | PLACE | 
 los creyentes en Antioquía enviaron fondos a Jerusalén (194:4.7)
 Cedes hizo un registro de la vida de Jesús en (121:8.9)
 estrecha conexión con Jerusalén (121:2.5)
@@ -1598,16 +1598,16 @@ notorio bosquecillo de Dafne en (133:8.1)
 Los discípulos de Pablo llamaron a los cristianos por primera vez en (121:2.5) (194:4.13)
 Pedro en (139:2.7)
 
-Antípatris | (127:6.4) (143:0.1) | | LUGAR | 
+Antípatris | (127:6.4) (143:0.1) | | PLACE | 
 
 antítesis | | | | 
 Jesús empleó (159:5.17)
 
-Antonia (fortaleza) | (183:2.3) | | LUGAR | 
+Antonia (fortaleza) | (183:2.3) | | PLACE | 
 El juicio de Jesús en el pretorio de (185:0.2)
 Castillo romano en Jerusalén (162:4.2) (189:2.4)
 
-Anu | | | PERSONA | OK
+Anu | | | PERSON | OK
 Dios mesopotámico del cielo (95:1.4)
 > https://es.wikipedia.org/wiki/Anu
 
@@ -1631,9 +1631,9 @@ sin sentido de muchas cosas que nos preocupan seriamente (48:4.6)
 suficiente para que el día sea un problema (140:6.13)
 frustra el trabajo del Ajustador (108:6.2)
 
-Apeninos | (61:1.12) | | LUGAR | 
+Apeninos | (61:1.12) | | PLACE | 
 
-Afrodita | | | PERSONA | OK
+Afrodita | | | PERSON | OK
 diosa de la belleza, la sensualidad y el amor
 Afrodita es el nombre que recibió la diosa Istar en Grecia (95:1.7)
 cuando el culto a Afrodita fue llevado a Roma, Afrodita se convirtió en Venus (98:3.3)
@@ -1646,11 +1646,11 @@ libros apócrifos | | | |
 Libro de Enoc (126:3.6-8) (136:1.6)
 Libro de la Sabiduría (95:4.3) (96:1.5)
 
-Apolo | | | PERSONA | OK
+Apolo | | | PERSON | OK
 Apolo, el dios de la música y las artes, tenía un templo ubicado en la colina Palatina en Roma (132:0.2)
 > https://es.wikipedia.org/wiki/Apolo
 
-apóstoles de Jesús | (138) (145:4.1) (150:4) (158:0.2) (158:2.5) (172:5) (173:5.6) (184:2.2) (193:3.2) | Ver apostolado | PERSONA | OK
+apóstoles de Jesús | (138) (145:4.1) (150:4) (158:0.2) (158:2.5) (172:5) (173:5.6) (184:2.2) (193:3.2) | Ver apostolado | PERSON | OK
 Los apóstoles fue el grupo de doce seguidores con los que Jesús inició su predicación
 sus nombres eran: Andrés; Simón Pedro; Santiago Zebedeo; Juan Zebedeo; Felipe; Natanael; Mateo Leví; Tomás Dídimo; Santiago Alfeo; Judas Alfeo; Simón Celotes; Judas Iscariote | Ver Andrés; Simón Pedro; Santiago Zebedeo; Juan Zebedeo; Felipe (apóstol); Natanael (apóstol); Mateo Leví; Tomás Dídimo; gemelos Alfeo; Simón Celotes; Judas Iscariote; Matías; Pablo
 El Libro de Urantia da descripciones personales detalladas de cada uno (139)
@@ -1752,7 +1752,7 @@ después de Pentecostés
 	pusieron al Imperio Romano patas arriba (195:6.9)
 > https://es.wikipedia.org/wiki/Apóstol
 
-apóstoles de Juan el Bautista | (135:9.1) | | PERSONA | OK
+apóstoles de Juan el Bautista | (135:9.1) | | PERSON | OK
 eran un grupo de 12 líderes designados como apóstoles por Juan (144:6.1)
 estos apóstoles recibieron primero su instrucción de Juan (135:6.8)
 la política y las preferencia egoístas provocaron muchas discusiones entre los discípulos de Juan (135:9.5)
@@ -1765,47 +1765,47 @@ nunca supieron por qué Jesús no evitó la muerte de Juan (141:1.4)
 apostolado | | Ver discípulos | | 
 requisitos (140:3.1) (140:6.9-13) (140:8.16) (142:7.2) (163:2.6,11) (163:3.3) (165:4.5) (165:5.2) (171:2)
 
-montañas Apalaches | (59:4.16) (59:5.20) (60:3.13) | | LUGAR | 
+montañas Apalaches | (59:4.16) (59:5.20) (60:3.13) | | PLACE | 
 casi completamente desgastado en el Cretácico (60:3.5)
 plantas y animales dislocados por glaciares encontrados en (61:7.16)
 
-vía Apia | (130:0.2) (130:8.6) (133:0.2) | | LUGAR | 
+vía Apia | (130:0.2) (130:8.6) (133:0.2) | | PLACE | 
 
 manzana | | | | 
 fruta prohibida para las primitivas (89:2.1)
 tabú entre los pueblos levantinos (88:1.3)
 
-Aquila | | | PERSONA | OK
+Aquila | | | PERSON | OK
 Cínico; fabricante de carpas; Jesús se puso en contacto con Aquila en Roma; Pablo vivió con Aquila en Corinto (133:3.12)
 > https://es.wikipedia.org/wiki/Priscila
 
-Arabia | (64:7.1) | Ver árabes | LUGAR | 
+Arabia | (64:7.1) | Ver árabes | PLACE | 
 Los saharauis emigraron a (80:2.2)
 Las enseñanzas de Salem fallaron en (95:7)
 serpiente venerada en (88:1.5)
 tribus de Arabia invadieron Egipto (80:6.5)
 
-mar de Arabia | | | LUGAR | 
+mar de Arabia | | | PLACE | 
 Envío de Dravidian al mar de Arabia en el 7000 a.C. (79:3.7)
 
-árabes | | Ver Arabia; beduinos | RAZA | 
+árabes | | Ver Arabia; beduinos | RACE | 
 ceremonia de adopción antigua (70:3.8)
 descendientes de razas azul, amarilla y adamita (64:7.11)
 pueblos pastores más recientes (68:5.6)
 
-Aram | | | LUGAR | 
+Aram | | | PLACE | 
 hogar de Noé el enólogo (78:7.5)
 
 arameo | | | | 
 Jesús habló (123:2.14) (123:5.1)
 hablado por la gente común en Palestina en tiempos de Jesús (121:6.2)
 
-Ararat | | Ver monte Ararat | LUGAR | 
+Ararat | | Ver monte Ararat | PLACE | 
 
-Arbela | (165:0.1) | | LUGAR | 
+Arbela | (165:0.1) | | PLACE | 
 Una de las poblaciones visitadas en la misión en Perea
 
-arcángeles | (37:3) | Ver circuito de los arcángeles; jefe de los arcángeles de Nebadon | ORDEN | 
+arcángeles | (37:3) | Ver circuito de los arcángeles; jefe de los arcángeles de Nebadon | ORDER | 
 100 asignados a Hijos Magistrales en misiones planetarias (20:2.9) (37:3.5-6)
 Absolver a los guardianes del destino si los sujetos no logran sobrevivir (113:6.3)
 actividades en Jerusem (37:3.3)
@@ -1839,10 +1839,10 @@ en Urantia
 	operado por primera vez después de la resurrección de Jesús (189:3.2)
 	mensajes espaciales para el uso de Urantia (44:5.7)
 
-Arquelais | (143:0.2) (143:1) (143:3.8) | | LUGAR | 
+Arquelais | (143:0.2) (143:1) (143:3.8) | | PLACE | 
 Jesús y los apóstoles predicaron en esta ciudad griega
 
-Arquelao | | Ver Herodes Arquelao | PERSONA | OK
+Arquelao | | Ver Herodes Arquelao | PERSON | OK
 
 arqueología | | | | 
 Edén bajo el extremo oriental del Mediterráneo (73:7.1-2) (78:7.7)
@@ -1857,10 +1857,10 @@ Arqueozoico | | Ver edades geológicas | |
 la última vez que la tierra estaba completamente cubierta por agua (78:7.4)
 era anterior a la vida, desde hace mil millones hasta 550 millones de años (59:0.2)
 
-Arquitectos del Ser | | | ORDEN | 
+Arquitectos del Ser | | | ORDER | 
 formular planes para la vida (36:0.1)
 
-Arquitectos del Universo Maestro | (31:9) | Ver Trascendentales | ORDEN | 
+Arquitectos del Universo Maestro | (31:9) | Ver Trascendentales | ORDER | 
 7 grupos que suman 28,011 personalidades (31:9.1-10)
 28.012° Maestro Arquitecto no pudo absonitizar (31:9.10)
 relación cercana con los Hijos Creadores (31:9.14)
@@ -1894,7 +1894,7 @@ Arquitecto principal
 	supervisa 7 cuerpos de finalitarios (31:10.1)
 Seres trascendentales (30:1.93) (105:7.7)
 
-esferas arquitectónicas | (15:7) | | LUGAR | 
+esferas arquitectónicas | (15:7) | | PLACE | 
 10 formas de vida material en (43:6.4,7) (46:2.5)
 500 mil millones en 7 superuniversos (15:7.12)
 647,591 en Nebadon (37:10.1)
@@ -1916,22 +1916,22 @@ mares de cristal que generalmente se encuentran en (43:1.10-11)
 cuidado de la espornagia para las esferas arquitectónicas en universos locales (37:10.3)
 inusualmente favorable para las observaciones astronómicas (30:3.2)
 
-océano Ártico | (60:3.5) | | LUGAR | 
+océano Ártico | (60:3.5) | | PLACE | 
 una vez conectado al Mediterráneo (61:1.12)
 
-regiones árticas | (59:3.10) (60:3.18) | | LUGAR | 
+regiones árticas | (59:3.10) (60:3.18) | | PLACE | 
 Andonitas en las regiones árticas alrededor del 15.000 a.C. (78:3.7)
 
-Ardnón | | | PERSONA | OK
+Ardnón | | | PERSON | OK
 Sacerdote caldeo que dirigió a los sacerdotes que visitaron a Jesús en el pesebre (119:7.6)
 
-Guardianes de las Superficies y de los Edificios | | | ORDEN | 
+Guardianes de las Superficies y de los Edificios | | | ORDER | 
 Compañeros Morontiales (48:3.15)
 
-Areópago | | | LUGAR | 
+Areópago | | | PLACE | 
 Pablo ante el concilio de (195:1.1)
 
-Areópolis | (165:0.1) | | LUGAR | 
+Areópolis | (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
 argumentos | | Ver contención | | 
@@ -1943,7 +1943,7 @@ no luche con los hombres (141:6.4) (178:1.17) (181:2.5)
 Jesús libre del deseo egoísta meramente de ganar (125:5.8)
 Jesús se negó a participar en los argumentos (169:2.8)
 
-Arimatea | (143:0.1) | | LUGAR | 
+Arimatea | (143:0.1) | | PLACE | 
 Jesús y los apóstoles pasaron aquí dos semanas
 
 aristocracia | | | | 
@@ -1952,12 +1952,12 @@ nobleza concedida por pago o servicio especial al rey (69:5.7)
 restricción de la influencia sobre los primeros reyes (70:6.6)
 los chamanes eran los originales (90:2.12)
 
-Aristóteles | | | PERSONA | OK
+Aristóteles | | | PERSON | OK
 Filósofo griego que enseñó que la virtud es el conocimiento (98:2.6)
 su filosofía fue venerada por los judíos helenizados (121:6.3)
 > https://es.wikipedia.org/wiki/Aristóteles
 
-Arrio | | | PERSONA | OK
+Arrio | | | PERSON | OK
 Arrio fue un sacerdote que en el concilio de Nicea defendió la idea de la subordinación del Hijo, de Jesús, al Padre, y de que las palabras de Jesús no se correspondían con palabras de Dios mismo. El Libro de Urantia indica que sus afirmaciones pusieron en peligro la verdad de la donación de Jesús (195:0.18)
 > https://es.wikipedia.org/wiki/Arrio
 
@@ -1970,13 +1970,13 @@ Moisés consintió en poner reliquias junto a la ley en (88:2.5)
 
 armadillos | (61:4.3-4) (61:7.15) | | | 
 
-Armagedón | | | LUGAR | 
+Armagedón | | | PLACE | 
 sede de la raza naranja (64:6.12)
 
-Armenia | | | LUGAR | 
+Armenia | | | PLACE | 
 Andrés proclamó el evangelio en (139:1.12)
 
-Aroer | (165:0.1) | | LUGAR | 
+Aroer | (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
 arte | | Ver belleza; escultura | | 
@@ -2011,7 +2011,7 @@ arte de vivir | | | |
 dominio de la resolución de problemas (160:1.7)
 Filosofía de Rodan (160:2)
 
-Artemisa | | | PERSONA | OK
+Artemisa | | | PERSON | OK
 Artemisa era la perpetuación de la diosa de la fertilidad en Anatolia. Tenía un templo en Éfeso (133:6.1)
 > https://es.wikipedia.org/wiki/Artemisa
 
@@ -2019,10 +2019,10 @@ artrópodos | | Ver crustáceos | |
 
 artificialidad | | Ver insinceridad | | 
 
-artistas del olor | | | ORDEN | 
+artistas del olor | | | ORDER | 
 Diseñadores y los Embellecedores de Artesanos Celestiales (44:6.6)
 
-arios | | Ver anditas | RAZA | 
+arios | | Ver anditas | RACE | 
 33 deidades (94:1.2-3)
 Conquistadores védicos anditas de la India ca. 2500 a.C.; de Turquestán (78:5.6) (79:4) (94:1.1)
 	poca impresión racial excepto en el norte de India (79:2.2) (79:4.3)
@@ -2037,7 +2037,7 @@ El idioma sumerio tenía mucho en común con el ario (77:4.7)
 
 hijos trinitizados ascendentes | | Ver hijos trinitizados por las criaturas | | 
 
-mortales ascendentes | | Ver fusión:fusión del Ajustador; mortales | ORDEN | 
+mortales ascendentes | | Ver fusión:fusión del Ajustador; mortales | ORDER | 
 6 etapas de existencia espiritual; séptima etapa postulada (31:3.3-6) (106:2.8) (117:5.3)
 7 etapas de carrera (30:4)
 7 jubileos de la carrera de ascensión (27:7.8)
@@ -2100,12 +2100,12 @@ triple dotación espiritual cuando se fusiona (56:3.5)
 entrenado para administrar universos (30:4.24,30) (31:3.2)
 entrenado hasta los límites de capacidad (31:3.7-8)
 
-peregrinos ascendentes | | Ver mortales ascendentes | ORDEN | 
+peregrinos ascendentes | | Ver mortales ascendentes | ORDER | 
 mortales sobrevivientes acreditados para el ascenso al Paraíso (30:3.1)
 
-hijos ascendentes de Dios | | Ver Hijos de Dios:órdenes | ORDEN | 
+hijos ascendentes de Dios | | Ver Hijos de Dios:órdenes | ORDER | 
 
-Ascendington | (13:1.21-23) | Ver esferas sagradas del Paraíso | LUGAR | 
+Ascendington | (13:1.21-23) | Ver esferas sagradas del Paraíso | PLACE | 
 seno del Padre, del Hijo y del Espíritu (13:1.21) (13:2.4)
 domicilio de los finalitarios (13:0.6) (13:1.21) (13:2.1-2)
 los mortales pueden visitar Ascendington al llegar a Havona (13:2.6)
@@ -2145,28 +2145,28 @@ evolución del concepto de sacrificio (89:4.1)
 Gautama se negó a buscar la salvación a través de (94:7.2)
 Jesús vino a destruir la noción de (136:3.3)
 
-Asdod | (134:7.4) | | LUGAR | 
+Asdod | (134:7.4) | | PLACE | 
 Población por la que pasó Jesús
 
-Ashjabad | | | LUGAR | 
+Ashjabad | | | PLACE | 
 antigua ciudad de Adonia ubicada cerca (79:1.4)
 
-Astarot | | | LUGAR | 
+Astarot | | | PLACE | 
 Adén predicó en (159:2.1)
 
-Astaroth | | | PERSONA | OK
+Astaroth | | | PERSON | OK
 Astaroth es el nombre de la diosa Istar en Palestina (95:1.7)
 > https://es.wikipedia.org/wiki/Astarté
 
-Asur | | | PERSONA | OK
+Asur | | | PERSON | OK
 Asur, o Ashur o Assur, era un dios asirio, el más destacado de su panteón (97:6.2)
 > https://es.wikipedia.org/wiki/Assur_(mitología)
 
-Asurbanipal | | | PERSONA | OK
+Asurbanipal | | | PERSON | OK
 Asurbanipal fue un rey de Asiria, que envió colonos a Samaria para que vivieran allí (143:4.1)
 > https://es.wikipedia.org/wiki/Asurbanipal
 
-Asia | | Ver Birmania; China; India; Indochina; Irán; Japón; Cachemira; Malasia; Mesopotamia; Mongolia; Nepal; Partia; Rusia; Siam; Siberia; Turquestán | LUGAR | 
+Asia | | Ver Birmania; China; India; Indochina; Irán; Japón; Cachemira; Malasia; Mesopotamia; Mongolia; Nepal; Partia; Rusia; Siam; Siberia; Turquestán | PLACE | 
 Andonitas en todo el centro de Asia en 15.000 a.C. (78:3.7) (79:1.6)
 columna vertebral de Asia alcanzó una altura de 9 millas (57:8.22)
 la costa este de Asia amenaza con deslizarse hacia una tumba de agua (58:5.8)
@@ -2179,14 +2179,14 @@ Los misioneros de Salem penetraron en las tribus más remotas de (94:0.1)
 la raza amarilla condujo la raza roja de (64:6.4,14) (64:7.4-5) (78:1.6)
 la raza amarilla expulsó a los andonitas de (64:7.7) (78:1.5-7)
 
-Asia Menor | | Ver Turquestán | LUGAR | 
+Asia Menor | | Ver Turquestán | PLACE | 
 
 Dinastía asmonea | | Ver Macabeos | | 
 
-palacio Asmoneo | | | LUGAR | 
+palacio Asmoneo | | | PLACE | 
 residencia de Herodes el Grande (125:1.5) (128:3.5) (185:4.1)
 
-Asoka | | | PERSONA | OK
+Asoka | | | PERSON | OK
 monarca de casta baja que abrazó el budismo; envió 17.000 misioneros budistas al mundo (94:9.1)
 > https://es.wikipedia.org/wiki/Aśoka
 
@@ -2204,11 +2204,11 @@ los hombres primitivos podían matar esposas si se les pagaba (70:10.11-12)
 asambleas del Paraíso | | | | 
 asisten ascendentes, en Edentia (43:9.1)
 
-Centinela Asignado de Satania; Centinela Designado de Satania | | Ver Centinelas Asignados | ORDEN | 
+Centinela Asignado de Satania; Centinela Designado de Satania | | Ver Centinelas Asignados | ORDER | 
 aconsejó a Gabriel en la rebelión de Lucifer (54:5.10)
 jefe ex officio de 24 consejeros (24:5.3) (114:2.3)
 
-Centinelas Asignados | (24:5) | Ver Centinela Asignado de Satania | ORDEN | 
+Centinelas Asignados | (24:5) | Ver Centinela Asignado de Satania | ORDER | 
 7 mil millones personalizados por Espíritu Infinito (24:5.1)
 actividades distintas de la administración de Ancianos de los Días (24:5.4)
 asesores de los sistemas locales en luz y vida (55:8.2) (55:10.3)
@@ -2219,34 +2219,34 @@ informar a los Inspectores Asociados (24:4.3) (24:5.2)
 representantes de los Ejecutivos Supremos del superuniverso ante los sistemas locales (24:0.10) (24:5.1-2) (37:8.5) (55:8.2)
 servir en rotación (24:5.3)
 
-Educadores Asistentes | | Ver Serafines | ORDEN | 
+Educadores Asistentes | | Ver Serafines | ORDER | 
 ayudantes y asociados de Serafines Consejeros Docentes (39:2.7)
 Serafines superiores; cuerpo fomenta la verdad en Urantia (39:2.7)
 
-Supervisores Asociados de los Circuitos | | | ORDEN | 
+Supervisores Asociados de los Circuitos | | | ORDER | 
 orden de los Supervisores de los Circuitos Universales; circuitos directos del superuniverso; número 7 (24:1.2-8)
 
-Inspectores Asociados | (24:4) | | ORDEN | 
+Inspectores Asociados | (24:4) | | ORDER | 
 700.000 creados por el Espíritu Infinito, Siete Espíritus Rectores (24:4.1)
 Centinelas Asignados directos en la luz y la vida del universo local (55:10.3)
 en registros de personalidad (30:1.75) (30:2.71)
 uno encarna la autoridad de los Ejecutivos Supremos en cada universo local (24:0.10) (24:4.1-2) (24:5.2) (37:8.5)
 recibir informes de los centinelas asignados (24:4.3) (24:5.2)
 
-Directores Asociados del Poder | | Ver Controladores Físicos Maestros | ORDEN | 
+Directores Asociados del Poder | | Ver Controladores Físicos Maestros | ORDER | 
 asignar y enviar Controladores Físicos Maestros (29:4.4,15)
 en el registro de personalidad de Uversa (30:2.101)
 mantener inspector en cada capital del sistema local (29:4.17)
 número 3 mil millones en cada superuniverso (29:4.16)
 enseñar la ciencia del control de la energía en sectores menores (29:4.16)
 
-Registradores Asociados | | | ORDEN | 
+Registradores Asociados | | | ORDER | 
 en el registro de personalidad de Uversa (30:2.115)
 Supervisores del Poder Morontial; registradores (48:2.25)
 
-Organizadores Asociados de la Fuerza Maestra Trascendental | | Ver Organizadores de la Fuerza Maestros:tipos | ORDEN | 
+Organizadores Asociados de la Fuerza Maestra Trascendental | | Ver Organizadores de la Fuerza Maestros:tipos | ORDER | 
 
-Assuntia | | | LUGAR | 
+Assuntia | | | PLACE | 
 sistema inmediatamente vecino a Satania (41:2.1)
 
 seguridad | | Ver certeza | | 
@@ -2264,13 +2264,13 @@ los valores temporales son vulnerables; las seguridades espirituales son inexpug
 La seguridad temporal es el principal regalo de la sociedad para el hombre (70:9.1).
 sin autoafirmación, exaltación egoísta (102:2.2)
 
-Asiria | (134:2.1) | Ver Siria | LUGAR | 
+Asiria | (134:2.1) | Ver Siria | PLACE | 
 Los asirios atacaban constantemente a las tribus de Palestina (93:5.6)
 la caída de Asiria trajo liberación a Judá (97:9.23)
 Israel conspiró con Egipto para rechazar el tributo (97:9.21-22)
 Nodita, antepasados ​​vanitas de los asirios (77:4.3,11)
 
-Astarté | | | PERSONA | OK
+Astarté | | | PERSON | OK
 El culto de Istar entre las tribus del norte se convirtió en el culto a la diosa Astarté (95:1.7)
 > https://es.wikipedia.org/wiki/Astarté
 
@@ -2296,7 +2296,7 @@ errores en la medición astronómica causados ​​por | Ver corrimiento al roj
 origen en la astrología (81:2.9) (88:6.5)
 lugares nombrados | Ver Andrómeda (nebulosa); Andronover (nebulosa); Angona (sistema); Antares; Nebulosa del Cangrejo; Júpiter (planeta); Nube de Magallanes; Marte (planeta); Mercurio (planeta); Vía Láctea; Monmatia; Luna (de Urantia); estrella polar; Sagitario; Saturno (planeta); Sol (de Urantia); Umayor la quinta; Umenor la tercera; Urantia; Urano; Venus (planeta)
 
-Atanasio | | | PERSONA | OK
+Atanasio | | | PERSON | OK
 fue un presbítero que de forma muy encendida defendió la idea de la naturaleza idéntica de Padre e Hijo en el concilio de Nicea, en contra de la ideas de Arrio (195:0.18)
 > https://es.wikipedia.org/wiki/Atanasio_de_Alejandría
 
@@ -2304,12 +2304,12 @@ ateísmo | | Ver materialismo; laicismo; incrédulos | |
 Creer que la salvación solo se puede lograr mediante los esfuerzos sin ayuda del hombre (94:2.5)
 maximización de la fealdad (56:10.4)
 
-Atenas | (130:0.3) | Ver Grecia | LUGAR | 
+Atenas | (130:0.3) | Ver Grecia | PLACE | 
 centro cultural del imperio de Alejandro (133:5.1,12)
 El discurso de Jesús sobre la ciencia en (133:5)
 La enseñanza de Pablo en (195:1.1,5)
 
-océano Atlántico | | | LUGAR | 
+océano Atlántico | | | PLACE | 
 apariencia (59:1.8) (60:3.4)
 
 atman | | Ver hinduismo | | 
@@ -2352,7 +2352,7 @@ la estabilidad depende del número de neutrones inactivos (42:7.6)
 sujeto a la gravedad (41:9.2)
 con más de 100 electrones interrumpidos instantáneamente (42:7.7)
 
-Atón | | | PERSONA | OK
+Atón | | | PERSON | OK
 Dios del sol; Akenatón basó su monoteísmo en Atón (95:5.6-7,11)
 > https://es.wikipedia.org/wiki/Atón
 
@@ -2384,11 +2384,11 @@ rescate pagado para comprar al hombre del diablo (194:2.8)
 sacrificio del Hijo inocente para aplacar la ira del Dios ofendido (149:2.3) (188:5.9,11)
 suplantar con el concepto de sintonía divina (39:5.6)
 
-Atis | | | PERSONA | OK
+Atis | | | PERSON | OK
 hijo de Cibeles en el culto de misterio frigio (98:4.2-8) (98:5.5)
 > https://es.wikipedia.org/wiki/Atis
 
-Augusto | | Ver Imperio Romano | PERSONA | OK
+Augusto | | Ver Imperio Romano | PERSON | OK
 Emperador de Roma durante una parte de la vida de Jesús y coemperador con Tiberio César; murió en el año 14 d.C. (136:2.8)
 decreró un censo en 8 a.C. (122:7.1)
 fundó Nicópolis (133:2.5)
@@ -2400,7 +2400,7 @@ creó una nueva religión estatal romana y proclamándose dios, no dudó en alen
 auroras | | | | 
 400 millas hacia arriba; producido por las manchas solares (58:2.6-8)
 
-Australia | | Ver aborígenes (australianos) | LUGAR | 
+Australia | | Ver aborígenes (australianos) | PLACE | 
 primer niño asesinado y devorado (89:5.4)
 geología (59:1.15,17) (59:2.3) (59:3.9) (59:4.5,7) (59:5.4) (60:1.4) (60:3.16)
 aislado; fauna peculiar; canguro deambulaba (61:1.9) (64:1.5)
@@ -2414,7 +2414,7 @@ Jesús enseñó con absoluto (100:7.5)
 sin división de la autoridad en el universo (32:4.3)
 consigna de todos los judíos (173:2.3)
 
-Avalon | | | LUGAR | 
+Avalon | | | PLACE | 
 Estrella de la tarde brillante de Avalon en Urantia después de la rebelión (67:6.5)
 universo vecino a Nebadon (32:2.12)
 seraphim from Avalon trained Nebadon seraphim (38:1.2) (38:5.1)
@@ -2424,12 +2424,12 @@ evitación | | Ver religión: religión primitiva | |
 lugar en la evolución de las observancias religiosas (90:0.1)
 el ritual se fusiona con el exorcismo, la coerción y la propiciación (89:0.2)
 
-Avonales (orden) | | Ver Hijos Magistrales | ORDEN | 
+Avonales (orden) | | Ver Hijos Magistrales | ORDER | 
 
 hachas | | | | 
 hacha puesta hasta la raíz (135:6.7)
 Los neandertales hicieron un. con pedernal (64:4.3)
 
-Azarías | | | PERSONA | OK
+Azarías | | | PERSON | OK
 hijo del rey Amasías; también conocido como Uzías (97:9.22)
 > https://es.wikipedia.org/wiki/Ozías

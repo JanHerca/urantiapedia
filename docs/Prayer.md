@@ -6,7 +6,7 @@
 Él es la realidad de la vida sin fin, nosotros los que confiamos con una sonrisa al partir.
 Él es el buen pastor, nosotros su fiel rebaño felices en su redil.
 Él es el sendero de la perfección infinita, nosotros los que caminamos sin descanso.
-Él es la resurrección y la vida, nosotros los vacilantes que ansían los imperecedero.
+Él es la resurrección y la vida, nosotros los vacilantes que ansían lo imperecedero.
 Él es el secreto de la supervivencia eterna, nosotros los buscadores de la verdad.
 Él es el camino, nosotros los que transitamos con esperanza por él.
 Él es la verdad, nosotros los que deseamos la sabiduría plena.

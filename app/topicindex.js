@@ -1,15 +1,14 @@
-//Reader/Writer para pasar los términos del Uversa Topic Index a *.wiki
+//Reader/Writer to convert Uverse Press topic index to *.wiki
 
-const LaTeXSeparator = require('./enums').LaTeXSeparator;
-//TODO: Esto solo funciona para español
-const BibleAbb_es = require('./enums').BibleAbb_es;
-const extractStr = require('./utils').extractStr;
+
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
 const readFrom = require('./utils').readFrom;
 const testWords = require('./utils').testWords;
+const strformat = require('./utils').strformat;
 const fs = require('fs');
 const path = require('path');
+const Strings = require('./strings');
 
 class TopicIndex {
 	/**
@@ -52,17 +51,21 @@ class TopicIndex {
 	 */
 	topics = [];
 	onProgressFn = null;
+	language = 'en';
+
+	setLanguage = (language) => {
+		this.language = language;
+	};
 
 	//***********************************************************************
 	// TXT
 	//***********************************************************************
 
 	/**
-	 * Lee todos los archivos del Topic Index en formato TXT de una carpeta.
-	 * @param {string} dirPath Carpeta de entrada.
-	 * @param {string} category La categoría de los términos del Topic Index
-	 * que deben ser leídos. Los que no entren dentro de la categoría serán
-	 * ignorados. Para leer todo usar 'TODOS'.
+	 * Reads Topic Index files in TXT format from a folder.
+	 * @param {string} dirPath Input folder.
+	 * @param {string} category Category of topics from Topic Index that must
+	 * be read. Those out the categy are ignored. To read all use 'TODOS' or 'ALL'.
 	 * @return {Promise}
 	 */
 	readFromTXT = (dirPath, category) => {
@@ -71,18 +74,18 @@ class TopicIndex {
 	};
 
 	/**
-	 * Limpia los objetos que almacenan el Topic Index.
+	 * Clears objects stores in the Topic Index.
 	 */
 	clear = () => {
 		this.topics = [];
 	};
 
 	/**
-	 * Lee un archivo TXT del Topic Index.
-	 * @param {string} category La categoría de los términos del Topic Index
-	 * que deben ser leídos. Los que no entren dentro de la categoría serán
-	 * ignorados. Para leer todo usar 'TODOS'.
-	 * @param {string} filePath Archivo TXT del Topic Index.
+	 * Reads a TXT file from Topic Index.
+	 * @param {string} category Category of topics from Topic Index that must
+	 * be read. Those out the category are ignored. To read all use 'ALL' and 
+	 * to read none 'NONE'.
+	 * @param {string} filePath TXT file path from Topic Index.
 	 * @return {Promise}
 	 */
 	readFileFromTXT = (category, filePath) => {
@@ -90,6 +93,11 @@ class TopicIndex {
 		return new Promise((resolve, reject) => {
 			if (this.onProgressFn) {
 				this.onProgressFn(baseName);
+			}
+
+			if (category === 'NONE') {
+				resolve(null);
+				return;
 			}
 
 			fs.readFile(filePath, (errFile, buf) => {
@@ -104,6 +112,7 @@ class TopicIndex {
 				lines.forEach((line, i) => {
 					let data, refs, seeAlso, level;
 					const tline = line.trim();
+					const err = this.getError('topic_err', baseName, i+1, tline);
 					if (line.startsWith('#')) {
 						return;
 					}
@@ -111,7 +120,7 @@ class TopicIndex {
 					data = tline.split('|').map(i => i.trim());
 					
 					if (current && tline === '') {
-						if (category === 'TODOS' || category === current.type) {
+						if (category === 'ALL' || category === current.type) {
 							this.topics.push(current);
 						}
 						current = null;
@@ -128,7 +137,7 @@ class TopicIndex {
 						};
 
 						if (data.length === 0) {
-							errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
+							errors.push(err);
 						} else if (data.length === 1) {
 							data = tline.split(/\([^)]*\)/g)
 								.filter(i => i.trim() != '')
@@ -136,10 +145,10 @@ class TopicIndex {
 							refs = this.extractRefs(tline);
 							
 							if (data.length === 0) {
-								errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
+								errors.push(err);
 							} else {
 								if (data[0].indexOf('Ver ') != -1) {
-									errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
+									errors.push(err);
 								} else {
 									topicline.text = data[0];
 									topicline.seeAlso = [];
@@ -160,7 +169,7 @@ class TopicIndex {
 							current.lines.push(topicline);
 						} else if (data.length === 3) {
 							if (!data[1].startsWith('Ver ')) {
-								errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
+								errors.push(err);
 							} else {
 								topicline.text = data[0];
 								topicline.seeAlso = data[1].substring(4).split(';')
@@ -169,11 +178,11 @@ class TopicIndex {
 								current.lines.push(topicline);
 							}
 						} else {
-							errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
+							errors.push(err);
 						}
 					} else if (!current && tline.length > 0) {
 						if (data.length === 0) {
-							errors.push(new Error(`${baseName}, línea ${i+1}: ${tline}`));
+							errors.push(err);
 						} else if (data.length === 5) {
 							if (data[1].startsWith('(') && data[1].endsWith(')')) {
 								refs = data[1].split(/[()]/g).filter(i => i.trim() != '' &&
@@ -186,7 +195,7 @@ class TopicIndex {
 								name: data[0].split(';')[0].trim(),
 								altnames: data[0].split(';').slice(1).map(a=>a.trim()),
 								lines: [],
-								type: (data[3] === '' ? 'OTRO' : data[3]),
+								type: (data[3] === '' ? 'OTHER' : data[3]),
 								revised: (data[4] === '' ? 'NO' : 'SI'),
 								sorting: baseName + ':' + (i + 1).toString().padStart(5, '0'),
 								filename: baseName,
@@ -201,7 +210,7 @@ class TopicIndex {
 					}
 
 					if (current && i === lines.length - 1) {
-						if (category === 'TODOS' || category === current.type) {
+						if (category === 'ALL' || category === current.type) {
 							this.topics.push(current);
 						}
 						current = null;
@@ -218,8 +227,8 @@ class TopicIndex {
 	};
 
 	/**
-	 * Obtiene un objeto que contiene un resumen con la cantidad de términos de
-	 * cada tipo y los totales, así como el número de redireccionamientos.
+	 * Gets an object containing a summary with the number of topics of each
+	 * type and totals, as well as redirects number.
 	 * @return {Object}
 	 */
 	getSummary = () => {
@@ -233,7 +242,7 @@ class TopicIndex {
 			let totalLines = 0;
 			const tt = this.topics.filter(t => t.filename === letter + '.txt');
 			obj.TOTAL = tt.length;
-			//Categorías
+			//Categories
 			types.forEach((type, i) => {
 				const tf = tt.filter(t => t.type === type || t.type === etypes[i]);
 				let lines = 0;
@@ -242,17 +251,17 @@ class TopicIndex {
 				objLines[type] = lines;
 				totalLines += lines;
 			});
-			//Redireccionamientos
+			//Redirects
 			obj.REDIREC = tt.filter(t => t.lines.length === 0).length;
 			objLines.REDIREC = obj.REDIREC;
 			totalLines += obj.REDIREC;
-			//Revisados
+			//Revised
 			let revLines = 0;
 			const tr = tt.filter(t => t.revised === 'SI');
 			tr.forEach(t => revLines += t.lines.length);
 			objLines.REVISADO = revLines;
 			obj.REVISADO = tr.length;
-			//Totales
+			//Totals
 			objLines.TOTAL = totalLines;
 			result[letter] = obj;
 			result[letter].lines = objLines;
@@ -261,8 +270,8 @@ class TopicIndex {
 	};
 
 	/**
-	 * Extrae las referencias de un texto.
-	 * @param {string} text Texto.
+	 * Extracts references from a text.
+	 * @param {string} text Text.
 	 * @return {Array.<string>}
 	 */
 	extractRefs = (text) => {
@@ -272,8 +281,8 @@ class TopicIndex {
 	};
 
 	/**
-	 * Escribe los errores en un fichero llamado 'errors.json'.
-	 * @param {string} dirPath Carpeta de salida.
+	 * Write errors in a file called 'errors.json'.
+	 * @param {string} dirPath Output folder.
 	 * @return {Promise}
 	 */
 	writeErrors = (dirPath) => {
@@ -301,32 +310,31 @@ class TopicIndex {
 	};
 
 	/**
-	 * Comprueba los términos, escribiendo los errores encontrados dentro
-	 * de los propios términos.
+	 * Checks topics, writing errors found inside topics.
 	 * @param {Book} book The Urantia Book object.
 	 */
 	check = (book) => {
 		return new Promise((resolve, reject) => {
 			this.topics.forEach(t => {
 				t.errors = [];
-				//Chequeo de duplicidades
+				//Checking duplicates
 				const other = this.topics.filter(tt => tt != t && tt.name === t.name);
 				if (other.length > 0) {
 					const errors = other.map(tt => 
 						`${tt.name}|${tt.filename}:${tt.fileline}`).join(' ');
 					t.errors.push({
-						desc: 'término duplicado en ' + errors,
+						desc: Strings['topic_duplicated'][this.language] + errors,
 						fileline: t.fileline
 					});
 				}
-				//Chequeo de redirects
+				//Checking redirects
 				if (t.isRedirect && t.seeAlso.length > 1) {
 					t.errors.push({
-						desc: 'demasiados seeAlso',
+						desc: Strings['topic_many_see'][this.language],
 						fileline: t.fileline
 					});
 				}
-				//Chequeo de que los nombres propios aparecen en los párrafos
+				//Checking own names in the paragraphs
 				const firstLetter = t.name.substring(0, 1);
 				const isUpperCase = (firstLetter === firstLetter.toUpperCase());
 				if (isUpperCase /*&& t.revised === 'NO'*/) {
@@ -361,18 +369,20 @@ class TopicIndex {
 					});
 					if (invalid.length > 0) {
 						t.errors.push({
-							desc: 'referencias inválidas: ' + invalid.join('|'),
+							desc: Strings['topic_invalid_refs'][this.language] + 
+								invalid.join('|'),
 							fileline: t.fileline
 						});
 					}
 					if (refs.length > 0 && notFound.length === refs.length) {
 						t.errors.push({
-							desc: `'${t.name}' en ninguna ref: ${notFound.join('|')}`,
+							desc: strformat(Strings['topic_not_in_ref'][this.language],
+								t.name, notFound.join('|')),
 							fileline: t.fileline
 						});
 					}
 				}
-				//Chequeo de enlaces a otros términos
+				//Checking links to other topics
 				this.checkSeeAlso(t.seeAlso, t.fileline, t.errors);
 				t.lines.forEach(line => {
 					this.checkSeeAlso(line.seeAlso, line.fileline, t.errors);
@@ -383,11 +393,11 @@ class TopicIndex {
 	};
 
 	/**
-	 * Comprueba un array de enlaces a otros términos y añade los errores en
-	 * un array de objetos de error (con desc y fileline).
-	 * @param {Array.<string>} seeAlso Array de enlaces a otros términos.
-	 * @param {number} fileline Número de línea.
-	 * @param {Array.<Object>} errors El array donde almacenar los errores.
+	 * Checks an array of links to other topics and add errors in an array
+	 * of error objects (with desc and fileline).
+	 * @param {Array.<string>} seeAlso Array of links to other topics.
+	 * @param {number} fileline Line number.
+	 * @param {Array.<Object>} errors Array for the errors.
 	 */
 	checkSeeAlso = (seeAlso, fileline, errors) => {
 		if (seeAlso && seeAlso.length > 0) {
@@ -404,10 +414,10 @@ class TopicIndex {
 	};
 
 	/**
-	 * Normaliza todos los archivos TXT del Topic Index en una carpeta.
-	 * La normalización básicamente coloca un separador '|' entre cada información
-	 * de cada entrada para fragmentar luego adecuamente los datos.
-	 * @param {string} dirPath Carpeta de entrada.
+	 * Normalizes every TXT file from Topic Index inside a folder.
+	 * Normalization basically adds a '|' separator between info in each entry
+	 * to slice later the data.
+	 * @param {string} dirPath Input folder.
 	 * @return {Promise}
 	 */
 	normalize = (dirPath) => {
@@ -415,8 +425,8 @@ class TopicIndex {
 	};
 
 	/**
-	 * Normaliza un archivo TXT del Topic Index.
-	 * @param {string} filePath Archivo TXT del Topic Index.
+	 * Normalizes a TXT file from Topic Index.
+	 * @param {string} filePath TXT file from Topic Index.
 	 * @return {Promise}
 	 */
 	normalizeFile = (filePath) => {
@@ -507,9 +517,9 @@ class TopicIndex {
 	//***********************************************************************
 
 	/**
-	 * Escribe todas las entradas del Topic Index en formato Wiki.
-	 * También crea un archivo 'Dónde_puedo_aportar_contenido.wiki' para poder
-	 * rellenar esta página del Manual más fácilmente.
+	 * Writes all entries in Topic Index in Wiki format.
+	 * Also creates an archive 'Dónde_puedo_aportar_contenido.wiki' to fill that
+	 * page easily.
 	 * @param {string} dirPath Carpeta de salida.
 	 * @return {Promise}
 	 */
@@ -543,9 +553,9 @@ class TopicIndex {
 	};
 
 	/**
-	 * Escribe una entrada del Topic Index a Wiki.
-	 * @param {string} filePath Archivo Wiki de salida.
-	 * @param {Object} topic Objeto con la entrada del Topic Index.
+	 * Writes an entry of Topic Index in Wiki text.
+	 * @param {string} filePath Output Wiki file.
+	 * @param {Object} topic Object with Topic Index entry.
 	 * @return {Promise}
 	 */
 	writeFileToWiki = (filePath, topic) => {
@@ -565,17 +575,18 @@ class TopicIndex {
 				}).join('');
 			};
 
-			//Resolvemos redireccionamientos
+			//Resolve redirects
 			if (topic.isRedirect && topic.seeAlso.length === 1) {
 				wiki = `#REDIRECT [[${topic.seeAlso[0]}]]`;
 			}
 
-			//Añadimos las Referencias a nivel del Topic arriba del todo
+			//Add references at Topic level on top
 			if (topic.refs && topic.refs.length > 0) {
-				wiki += 'Véase: ' + refsToTags(topic.refs) + end;
+				wiki += Strings['topic_see_also'][this.languge] + ': ' + 
+					refsToTags(topic.refs) + end;
 			}
 
-			//Añadimos el contenido de las líneas en headings junto a sus Referencias
+			//Add line content with headings and references
 			topic.lines.forEach((line, i) => {
 				let heading = '=';
 				const nextline = topic.lines[i + 1];
@@ -589,7 +600,8 @@ class TopicIndex {
 					heading += '='.repeat(line.level + 1);
 					wiki += `${end}${heading} ${anchor} ${content} ${heading}${end}`;
 					if (line.refs && line.refs.length > 0) {
-						wiki += 'Véase: ' + refsToTags(line.refs) + end;
+						wiki += Strings['topic_see_also'][this.languge] + ': ' + 
+							refsToTags(line.refs) + end;
 					}
 				} else {
 					const subcontent = content.replace(/^[#\*]*/g,'').trim();
@@ -618,9 +630,9 @@ class TopicIndex {
 				
 			});
 
-			//Añadimos los Enlaces
+			//Add Links
 			if (seeAlso && seeAlso.length > 0) {
-				wiki += `${end}== Enlaces ==${end}`;
+				wiki += `${end}== ${Strings['topic_links'][this.language]} ==${end}`;
 				seeAlso.forEach(also => {
 					let alsoLink = also.replace(/ /g, '_').replace(/:/, '#');
 					let alsoText = also.substring(0, 1).toUpperCase() + 
@@ -629,9 +641,9 @@ class TopicIndex {
 				});
 			}
 			
-			//Añadimos los Enlaces externos
-			if (topic.links && topic.links.length > 0){
-				wiki+= `${end}== Enlaces externos ==${end}`;
+			//Add External Links
+			if (topic.links && topic.links.length > 0) {
+				wiki+= `${end}== ${Strings['topic_external_links'][this.language]} ==${end}`;
 				topic.links.forEach(link => {
 					if (link.indexOf('wikipedia') != -1) {
 						let linkname = link.substring(link.lastIndexOf('/') + 1)
@@ -643,9 +655,10 @@ class TopicIndex {
 				});
 			}
 
-			//Añadimos las Referencias
+			//Add references
 			if (refs.length > 0) {
-				wiki += `${end}== Referencias ==${end}<references/>\r\n`;
+				wiki += `${end}== ${Strings['topic_references'][this.language]} ==` +
+					`${end}<references/>\r\n`;
 			}
 
 			fs.writeFile(filePath, wiki, 'utf-8', (err) => {
@@ -659,12 +672,13 @@ class TopicIndex {
 	};
 
 	/**
-	 * Convierte una referencia a formato Wiki.
-	 * @param {string} ref Referencia.
-	 * @param {number} i Indice de la referencia.
+	 * Converts a reference to Wiki format.
+	 * @param {string} ref Reference.
+	 * @param {number} i Reference index.
 	 * @return {string}
 	 */
 	refToWiki = (ref, i) => {
+		//TODO: Support 'LU' and 'UB' in Lua module
 		let wiki = '';
 		let data = ref.split(/[:.]/g);
 		wiki += `<ref name="n${i}">{{lib|LU|`;
@@ -680,8 +694,8 @@ class TopicIndex {
 	};
 
 	/**
-	 * Obtiene un número a partir de una referencia. Para luego poder ordenar.
-	 * @param {string} ref Referncia a El Libro de Urantia.
+	 * Gets a number from a reference to be able to sort them.
+	 * @param {string} ref Refernce to The Urantia Book.
 	 * @return {number}
 	 */
 	refToNumber = (ref) => {
@@ -697,9 +711,9 @@ class TopicIndex {
 	};
 
 	/**
-	 * Extrae todas las referencias diferentes de un topic (y las ordena por orden de
-	 * aparición en El Libro de Urantia). La ordenación ya no la hacemos.
-	 * @param {Object} topic El topic.
+	 * Extract all different references from a topic (and sort them by appearance
+	 * order in The Urantia Book). The sorting is now undone.
+	 * @param {Object} topic Topic.
 	 * @return {Array.<string>}
 	 */
 	sortUniqueRefs = (topic) => {
@@ -713,17 +727,16 @@ class TopicIndex {
 		addRefs(topic.refs);
 		topic.lines.forEach(line => addRefs(line.refs));
 		
-		//De momento no ordenamos las referencias porque WikiMedia por defecto
-		// las ordena por orden de aparición en la página y no se puede imponer
-		// un orden
+		//For now we are not sorting references because MediaWiki by default
+		// sort them by appearance order in the page and it is not possible
+		// to impose an order
 		// refs.sort((a, b) => this.refToNumber(a) - this.refToNumber(b));
 		return refs;
 	};
 
 	/**
-	 * Extrae todos los enlaces diferentes de un topic (y los ordena por orden)
-	 * alfabético.
-	 * @param {Object} topic El topic.
+	 * Extracts all different link from a topic (and sort them by alphabetic order).
+	 * @param {Object} topic Topic.
 	 * @return {Array.<string>}
 	 */
 	sortUniqueSeeAlso = (topic) => {
@@ -746,19 +759,21 @@ class TopicIndex {
 	};
 
 	/**
-	 * Escribe la página de índice de los términos del Topic Index en formato Wiki.
-	 * El nombre del fichero generado es '_indice.wiki' y su contenido debe ir
-	 * dentro de la página 'Manual:Dónde_puedo_aportar_contenido' porque allí se
-	 * explica con más detalle qué páginas existen en la Wiki y cuáles se deberían
-	 * revisar.
-	 * @param {string} dirPath Carpeta de salida.
+	 * Writes the index page with topics of Topic Index in Wiki format.
+	 * Name of created file is '_indice.wiki', '_index.wiki', etc. and its content
+	 * must go inside the 'Manual:Dónde_puedo_aportar_contenido' page because there
+	 * is explained with more detail what pages exists in Wiki and what must be
+	 * revised.
+	 * @param {string} dirPath Output folder.
 	 * @return {Promise}
 	 */
 	writeIndexToWiki = (dirPath) => {
 		return new Promise((resolve, reject) => {
 			const filePath = path.join(dirPath, '_indice.wiki');
+			//TODO: categories in spanish and english
 			const topicTypes = [
 				'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION'/*, 'OTRO'*/];
+			//TODO: categories names in spanish and english
 			const typeTitles = [
 				'Personalidades, personas, nombres de dioses, o grupos',
 				'Lugares, tanto en la Tierra como en el Universo',
@@ -809,23 +824,23 @@ class TopicIndex {
 	};
 
 	/**
-	 * Escribe todas las entradas del Topic Index en formato JSON de El Libro
-	 * de Urantia. Las entradas se guardan en una propriedad links que contiene
-	 * un array de objetos con la definición de cada enlace a crear. El guardado
-	 * se hace de forma incremental. No se elimina un array ya existente sino que
-	 * se actualiza con nuevas entradas si es necesario.
-	 * @param {Book} book El Libro de Urantia.
+	 * Writes all entries from Topic Index in JSON format from Urantia Book. 
+	 * Entries are stores in a property called `links` contains an array of
+	 * objects with the definition of each link to be created. Saving is done
+	 * incrementally. It is not removed an existing array but it is updated
+	 * with new entries if needed.
+	 * @param {Book} book The Urantia Book.
 	 */
 	writeToJSON = (book) => {
 		return new Promise((resolve, reject) => {
 			this.topics.forEach(topic => {
-				//Textos a buscar
+				//Texts to search
 				let names = [topic.name];
 				extendArray(names, topic.altnames);
-				//Lista de referencias en el libro donde buscar
+				//List of book references in which search
 				let refs = topic.refs.slice();
 				topic.lines.forEach(line => extendArray(refs, line.refs));
-				//Convertimos las referencias en un array de párrafos no repetidos
+				//Convert references in an array of distinct paragraphs
 				let pars = [];
 				let errors = [];
 				refs.forEach(ref => {
@@ -844,7 +859,7 @@ class TopicIndex {
 					reject(errors);
 					return;
 				}
-				//Bucle por todos los párrafos a buscar
+				//Loop through all paragraphs to search
 				pars.forEach(par => {
 					const parObj = book.getPar(par[0], par[1], par[2]);
 					names.forEach(name => {
@@ -853,6 +868,17 @@ class TopicIndex {
 				});
 			});
 		});
+	};
+
+	/**
+	 * Returns an error.
+	 * @param  {...any} params Params.
+	 * @returns {Error}
+	 */
+	getError = (...params) => {
+		const msg = params[0];
+		return new Error(
+			strformat(Strings[msg][this.language], ...params.slice(1)));
 	};
 };
 

@@ -12,41 +12,41 @@
 ####################################################################################
 
 
-Jabbok | | | LUGAR | 
+Jabbok | | | PLACE | 
 flows into Jordan river (124:6.6)
 
-Jacob (evangelist) | | | PERSONA | OK
+Jacob (evangelist) | | | PERSON | OK
 directed younger evangelists (150:5.1)
 
-Jacob (messenger) | | | PERSONA | OK
+Jacob (messenger) | | | PERSON | OK
 David’s most fleet and trustworthy messenger (182:2.5)
 
-Jacob of Crete | | | PERSONA | OK
+Jacob of Crete | | | PERSON | OK
 Jewish trader; inquired of God’s wrath (142:2sec)
 
-Jacob of Emmaus | | | PERSONA | OK
+Jacob of Emmaus | | | PERSON | OK
 at Jesus’ 7th appearance (190:5sec)
 > https://en.wikipedia.org/wiki/Road_to_Emmaus_appearance
 
-Jacob (Old Testament) | (126:1.2) | | PERSONA | OK
+Jacob (Old Testament) | (126:1.2) | | PERSON | OK
 had difficulty grasping Salem traditions (93:9.5)
 slept on stone because he venerated it (85:1.1)
 > https://en.wikipedia.org/wiki/Jacob
 
-Jacob the stone mason (father) | | | PERSONA | OK
+Jacob the stone mason (father) | | | PERSON | OK
 business associate of Joseph (124:2.4) (126:3.1)
 young Jesus asked advice of (123:6.9)
 laid to rest (128:7.12)
 
-Jacob the stone mason (son) | (123:1.4) (124:2.4) | | PERSONA | OK
+Jacob the stone mason (son) | (123:1.4) (124:2.4) | | PERSON | OK
 Jesus’ close boyhood friend and self-appointed defender (123:1.4) (124:2.4) (133:1.5)
 business associate of brothers of Jesus (128:2.2) (128:5.8)
 marriage to Miriam (128:5.8) (128:7.10,12)
 
-Jacob’s well | (124:6.1) (127:3.3) (143:5.2-3) (193:1) | | LUGAR | 
+Jacob’s well | (124:6.1) (127:3.3) (143:5.2-3) (193:1) | | PLACE | 
 Jesus drank several times
 
-Jah | | | PERSONA | OK
+Jah | | | PERSON | OK
 Semite appellation of Deity (96:1.9)
 > https://en.wikipedia.org/wiki/Jah
 
@@ -55,7 +55,7 @@ Jainism | (92:6.10) | | RELIGION |
 Ganid’s abstract of (131:6sec)
 influence on Hinduism (94:4.1)
 
-Jairus | (152:0.1) (152:1) | | PERSONA | OK
+Jairus | (152:0.1) (152:1) | | PERSON | OK
 presided in new Capernaum synagogue (152:0.1) (153:1.1)
 Jesus healed daughter of (152:0.1) (152:1.1-3)
 Jerusalem leaders labored to dissuade (153:1.7)
@@ -64,9 +64,9 @@ resigned as chief ruler; aligned with Jesus (154:1.2)
 
 James, Epistle of | | See James (brother of Jesus): Epistle of | | 
 
-James Alpheus | | See Alpheus twins | PERSONA | OK
+James Alpheus | | See Alpheus twins | PERSON | OK
 
-James (brother of Jesus) | (126:3.12) (126:4.9) (126:5.8) (127:2.11) (137:6.1,4) (154:5.1) | See also Jesus: family | PERSONA | OK
+James (brother of Jesus) | (126:3.12) (126:4.9) (126:5.8) (127:2.11) (137:6.1,4) (154:5.1) | See also Jesus: family | PERSON | OK
 born April 2, 3 B.C.; second child (123:1.5)
 Jesus’ relations with (124:4.3)
 accompanied Mary upon Joseph’s accident (126:2.1)
@@ -100,11 +100,11 @@ attitude
 	learned to practice conciliation (139:4.13)
 > https://en.wikipedia.org/wiki/James,_brother_of_Jesus
 
-James of Safed | | | PERSONA | OK
+James of Safed | | | PERSON | OK
 son healed (158:4-5secs)
 “Lord I believe; help my unbelief” (158:5.2)
 
-James Zebedee | (139:3 s) (141:7.13) (143:3.5) (144:1.7) (167:0.3) (167:4.4) (174:1.1) (191:0.5) | See also apostles of Jesus | PERSONA | OK
+James Zebedee | (139:3 s) (141:7.13) (143:3.5) (144:1.7) (167:0.3) (167:4.4) (174:1.1) (191:0.5) | See also apostles of Jesus | PERSON | OK
 married; 4 children; from Capernaum; 30 in A.D. 26 (139:3.1)
 fishing partner of Andrew, Peter, and John (139:1.1) (139:3.1)
 baptized by John in A.D. 25 (135:8.1)
@@ -141,13 +141,13 @@ attitude
 	well-balanced thinker, planner; never in a hurry (139:3.7)
 > https://en.wikipedia.org/wiki/James_the_Great
 
-Jamnia | (134:7.4) | | LUGAR | 
+Jamnia | (134:7.4) | | PLACE | 
 Jesus passed
 
-Jansad | | | PERSONA | OK
+Jansad | | | PERSON | OK
 son of Eveson, successor to Adam (76:3.3)
 
-Japan | (60:3.6) | | LUGAR | 
+Japan | (60:3.6) | | PLACE | 
 Andite migration to (78:5.6)
 Asoka established Buddhism in (94:9.1) (94:11.1)
 hovering over precipice of watery grave (58:5.8)
@@ -156,18 +156,18 @@ library at Alexandria contained manuscripts from (130:3.4)
 Salem missionaries in (93:7.2)
 Shinto revered in (92:6.15)
 
-Japhia | (149:0.1) | | LUGAR | 
+Japhia | (149:0.1) | | PLACE | 
 Jesus preached during second public tour through Galilee
 
-Jaram the Hittite | | | PERSONA | OK
+Jaram the Hittite | | | PERSON | OK
 Melchizedek sent J. to invite Abraham, Nahor to Salem (93:5.5)
 
-Java | | | LUGAR | 
+Java | | | PLACE | 
 Andonic migration to (64:1.5)
 Asoka established Buddhism in (94:9.1)
 land bridge connected J. to Asia (64:1.6)
 
-Java man | | | RAZA | 
+Java man | | | RACE | 
 bones recently found; Andonite (64:1.6)
 
 jealousy | | See also envy | | 
@@ -179,41 +179,41 @@ Primates jealous of Andon’s tree house (63:2.1)
 sexual j. not innate (82:4.4)
 when attacked by j., rest in citadel of spirit (100:2.7)
 
-Jebus | | | LUGAR | 
+Jebus | | | PLACE | 
 city of Salem, later Jerusalem (93:2.4) (97:9.11,17)
 King David married 6 women of J.; established capital at (97:9.10-11)
 strong-walled city between Judah and Israel (97:9.11)
 
-Jebusites | | | RAZA | 
+Jebusites | | | RACE | 
 non-Hebrew Palestinians; joined David’s new kingdom (97:9.7)
 
-Jehoash | | | PERSONA | OK
+Jehoash | | | PERSON | OK
 father of Jeroboam; delivered Israel from its enemies (97:9.20)
 > https://en.wikipedia.org/wiki/Jehoash_of_Israel
 
-Jehonadab | | | PERSONA | OK
+Jehonadab | | | PERSON | OK
 gypsy chieftain who helped Jehu destroy Samaritan prophets of Baal (97:9.19)
 > https://en.wikipedia.org/wiki/Jehonadab
 
-Jehovah | | | PERSONA | OK
+Jehovah | | | PERSON | OK
 completed concept of Yahweh; term first used in A.D. 1500 (96:1.10)
 spirit demon of Horeb (94:12.1)
 > https://en.wikipedia.org/wiki/Jehovah
 
-Jehu (124:6.3) | | | PERSONA | OK
+Jehu (124:6.3) | | | PERSON | OK
 landlord; joined forces with Jehonadab to destroy Samaritan prophets of Baal (97:9.19)
 > https://en.wikipedia.org/wiki/Jehu
 
 jellyfish | (59:2.11) (65:2.5) | | | 
 
-Jephthah | | | PERSONA | OK
+Jephthah | | | PERSON | OK
 offered daughter as human sacrifice (89:6.3)
 > https://en.wikipedia.org/wiki/Jephthah
 
-Jeramy | | | PERSONA | OK
+Jeramy | | | PERSON | OK
 Greek Jewish proselyte of Nicopolis (133:2.5)
 
-Jeremiah | | | PERSONA | OK
+Jeremiah | | | PERSON | OK
 fearless prophet (97:6sec)
 asserted Yahweh was God of all nations (97:6.2)
 counseled surrendering Jerusalem to Nebuchadnezzar (97:6.4)
@@ -226,7 +226,7 @@ told of law written in men’s hearts (121:7.5)
 Jesus quoted (130:8.2) (145:2.5) (149:6.12) (153:2.2) (165:4.8)
 > https://en.wikipedia.org/wiki/Jeremiah
 
-Jericho | (124:6.7) (125:3.2) (127:3.6) (128:3.2) (147:6.2) | | LUGAR | 
+Jericho | (124:6.7) (125:3.2) (127:3.6) (128:3.2) (147:6.2) | | PLACE | 
 ancient ford over which Joshua passed (135:6.1)
 human sacrifices in building walls (89:6.6)
 Jesus blessed little children at (167:5.2) (167:6.1-3)
@@ -238,11 +238,11 @@ restoration of sight to Bartimeus at (171:5sec)
 story of good Samaritan at (164:1sec)
 Zaccheus from (171:6sec)
 
-Jeroboam | | | PERSONA | OK
+Jeroboam | | | PERSON | OK
 son of Jehoash; delivered Israel from its enemies (97:9.20)
 > https://en.wikipedia.org/wiki/Jeroboam_II
 
-Jerusalem | (147) (124:6) (129:2.6) (134:7.5) (134:9.2) (140:7.2) (141:9) (152:7) | See also Jerusalem temple | LUGAR | 
+Jerusalem | (147) (124:6) (129:2.6) (134:7.5) (134:9.2) (140:7.2) (141:9) (152:7) | See also Jerusalem temple | PLACE | 
 apostles connected destruction of J. with appearance of New Jerusalem (176:1.6)
 besieged in times of Jeremiah (97:6.4)
 city of Father’s house (171:4.7)
@@ -264,7 +264,7 @@ prophets perish in (171:4.7)
 situation in week before crucifixion (175:4sec)
 temple of Baal alongside temple of Yahweh (97:9.21)
 
-Jerusalem temple | (125:1.5) (150:1.3) (172:4) | See also Jerusalem; Jerusalem temple guards; Judaism; moneychangers; Sanhedrin | LUGAR | 
+Jerusalem temple | (125:1.5) (150:1.3) (172:4) | See also Jerusalem; Jerusalem temple guards; Judaism; moneychangers; Sanhedrin | PLACE | 
 animal sacrifice (125:1.1,4) (125:2.1,3) (125:5.5) (173:1.1-2)
 desecrated by traffic in animals, money-changers (173:1sec)
 extensive banking system (173:1.3-4)
@@ -308,7 +308,7 @@ places in Jerusalem temple
 secret of Judaism’s survival was centralization of worship at (121:2.6)
 treasury might hold 10 million dollars (173:1.4)
 
-Jerusalem temple guards | | | PERSONA | OK
+Jerusalem temple guards | | | PERSON | OK
 type of soldiers from the temple
 in conference with Judas (182:2.13) (183:2.1)
 dispute with Roman soldiers over where to take Jesus (183:5.1)
@@ -318,7 +318,7 @@ bribed to say disciples took Jesus’ body (189:2.4)
 mocked, spit upon, buffeted Jesus (184:4.1)
 threw Jesus’ burial linen over nearby cliff (190:1.2)
 
-Jerusem | (46) | See also architectural spheres; mansion worlds; Satania | LUGAR | 
+Jerusem | (46) | See also architectural spheres; mansion worlds; Satania | PLACE | 
 187,432,811 ascendant citizens; none lost in rebellion (53:7.12)
 activities on J. are work, progress, and play (46:5.29)
 Adam and Eve on (74:1sec)
@@ -384,7 +384,7 @@ universal suffrage; weighted by mota (45:7.6)
 weights and measures (46:1.2)
 World of Father is silent transition sphere circling (45:1.9)
 
-Jesus | | See also Christ; Creator Sons; Michael of Nebadon; Thought Adjuster of Jesus; religion: explained | PERSONA | 
+Jesus | | See also Christ; Creator Sons; Michael of Nebadon; Thought Adjuster of Jesus; religion: explained | PERSON | 
 apostles believed J. was the Eternal Son (157:5.1) (161:2.10)
 believers destined to attain perfection in (142:7.15)
 birthday text from Isaiah (97:5.3) (123:5.11) (126:5.2) (148:5.5) (150:8.9) (190:5.4)
@@ -1183,7 +1183,7 @@ writings
 	on sand before husband of Hildana (162:3.5)
 	translation work for merchant of Damascus (128:4.2)
 
-Jethro | | | PERSONA | 
+Jethro | | | PERSON | 
 Moses’ father-in-law (96:5.3)
 
 Jewelry | | See ornamentation | | 
@@ -1195,7 +1195,7 @@ Jewish religion | | See Judaism | |
 Jewish tutor | | | | 
 Jesus known as the J.t. at Corinth (129:3.2)
 
-Jews | | See also Hebrew language; Jews (ancient Hebrews) | RAZA | 
+Jews | | See also Hebrew language; Jews (ancient Hebrews) | RACE | 
 Judaism apocalyptists taught sufferings due to nation’s sins (135:5.2)
 attitudes
 	chosen people q.v.
@@ -1260,7 +1260,7 @@ political matters
 sorrows of a misunderstood despised people (121:6.7)(155:6.10)
 status of the individual Jew (175:2sec)
 
-Jews (ancient Hebrews) | | See also Babylonian captivity; Jews | RAZA | 
+Jews (ancient Hebrews) | | See also Babylonian captivity; Jews | RACE | 
 Abraham’s offspring formed nucleus of (96:2.3)
 adoption ceremony (70:3.8)
 beliefs and attitudes
@@ -1296,25 +1296,25 @@ part of older Semitic race which included Babylonians, Phoenicians, and Carthagi
 religion was austere and tyrannical (98:3.2)
 scriptures of | See Old Testament
 
-Jezebel | (124:6.3) | | PERSONA | 
+Jezebel | (124:6.3) | | PERSON | 
 Queen of jews from Phoenicia
 
-Jezreel | (124:6.1,3) (149:0.1) | | LUGAR | 
+Jezreel | (124:6.1,3) (149:0.1) | | PLACE | 
 Jesus passed
 
-Joab | | | PERSONA | 
+Joab | | | PERSON | 
 young evangelist; ringleader of plot to make Jesus king (152:2.5) (153:5.2)
 
-Joachim | | | PERSONA | 
+Joachim | | | PERSON | 
 father of Mary mother of Jesus (122:3.3)
 
-Joanna | | | PERSONA | 
+Joanna | | | PERSON | 
 arranged meeting in Herod’s new palace (150:3.1)
 at Jesus’ appearances (190:3.1) (193:0sec)
 discovered empty tomb (189:4.2-14)
 treasurer of women’s corps; wife of Chuza, steward of Herod (150:1.1-2) (154:0.2)
 
-Joash | | | PERSONA | 
+Joash | | | PERSON | 
 boy king; crusaded for Yahweh (97:9.21)
 
 Job, Book of | | | | 
@@ -1325,16 +1325,16 @@ protest against Egyptian concept of divine rewards for righteousness (97:8.2)
 reflects Salem school at Kish (95:1.10)
 written over 300 years (96:7.5)
 
-Jogbehah | (165:0.1) | | LUGAR | 
+Jogbehah | (165:0.1) | | PLACE | 
 Perea mission
 
-Johab | | | PERSONA | 
+Johab | | | PERSON | 
 groom of wedding at Cana (137:3.6)
 
-John Hyrcanus | | | PERSONA | 
+John Hyrcanus | | | PERSON | 
 destroyed temple on Mount Gerizim (143:4.2)
 
-John Mark | (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1) | | PERSONA | 
+John Mark | (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1) | | PERSON | 
 approached Jesus with small basket (177:0.4)
 associated with Peter; later, Paul (121:8.3)
 at Jesus’ appearances (192:1,2,4secs)
@@ -1364,7 +1364,7 @@ parents were Elijah and Mary Mark (182:0.1)
 rest day with Jesus (177:1-2secs)
 walked around lake with Jesus (152:5.1)
 
-John the Baptist | (135) | | PERSONA | 
+John the Baptist | (135) | | PERSON | 
 apostles of | See apostles of John the Baptist
 at baptism of Jesus (135:8.6)
 baptized over 100,000 penitents in 15 months (135:6.4)
@@ -1412,9 +1412,9 @@ sooner or later a greater J. is to arise (170:5.19)
 thundered parable of Lazarus and Dives (169:3sec)
 viewed as a prophet (135:6.2) (135:12.2) (173:2.4-5)
 
-John the Revelator | | See John Zebedee | PERSONA | 
+John the Revelator | | See John Zebedee | PERSON | 
 
-John Zebedee | (129:1.12) (139:4) (141:7.14) (143:3.5) (143:5.12) (144:1.7) (178:2.6-8) (192:1.3) (192:4.7) | See also apostles of Jesus | PERSONA | 
+John Zebedee | (129:1.12) (139:4) (141:7.14) (143:3.5) (143:5.12) (144:1.7) (178:2.6-8) (192:1.3) (192:4.7) | See also apostles of Jesus | PERSON | 
 actions
 	baptized by John in December A.D. 25 (135:8.1)
 	became apostle (137:1.5-8)
@@ -1484,22 +1484,22 @@ visions of
 well known to Annas’s older servants (184:0.3)
 youngest apostle, unmarried, from Capernaum; 24 in A.D. 26 (139:4.1) (181:2.2)
 
-Jonah | (159:4.4) | | PERSONA | 
+Jonah | (159:4.4) | | PERSON | 
 Jesus’ discourse on (130:1sec)
 
-Joppa | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | | LUGAR | 
+Joppa | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | | PLACE | 
 Jesus here several times
 
-Jordan River | | | LUGAR | 
+Jordan River | | | PLACE | 
 ford | See Bethany beyond Jordan
 Jesus’ baptism in (135:8sec)
 poured forth from an underground cave (157:3.1)
 valley was tropical (124:6.5)
 
-Jose | | | PERSONA | 
+Jose | | | PERSON | 
 renowned liberal Nazareth teacher (124:4.8)
 
-Joseph (brother of Jesus) | (138:1.4) (154:5.1) | See also Jesus: family | PERSONA | 
+Joseph (brother of Jesus) | (138:1.4) (154:5.1) | See also Jesus: family | PERSON | 
 apostles stayed with (137:2.9)
 at Jesus’ 4th appearance (190:2.6)
 born March 16, A.D. 1 (123:4.9)
@@ -1513,7 +1513,7 @@ moved into family home in A.D. 24 (134:1.6)
 permitted pride to interfere (154:6.1)
 tentative belief in Jesus (137:3.2)
 
-Joseph (father of Jesus) | (122:1) (122:5) | See also Jesus: family | PERSONA | 
+Joseph (father of Jesus) | (122:1) (122:5) | See also Jesus: family | PERSON | 
 at Jesus’ first Passover (Paper 125)
 attitude
 	angry with Jesus about Scythopolis games (124:3.8)
@@ -1555,7 +1555,7 @@ work
 	employed as foreman in Alexandria (123:0.1)
 	in Sepphoris (124:5.5)
 
-Joseph of Arimathea | (174:5.1) (188:3.3) | | PERSONA | 
+Joseph of Arimathea | (174:5.1) (188:3.3) | | PERSON | 
 accompanied Jesus to temple (175:0.1)
 believed Jesus would rise from tomb (188:1.2,8)
 boldly claimed body of Jesus from Pilate (142:6.9) (187:6.2) (188:0.3)
@@ -1571,21 +1571,21 @@ most outspoken disciple of Jesus in Jerusalem (188:1.2)
 visited empty tomb (190:1.2)
 women believers stayed at home of (188:1.7) (189:4.2) (192:0.3)
 
-Joseph of Tyre | | | PERSONA | 
+Joseph of Tyre | | | PERSON | 
 Jesus stayed with (156:4.1-2) (156:6.1)
 
-Joseph (Old Testament) | | | PERSONA | 
+Joseph (Old Testament) | | | PERSON | 
 great-grandson of Abraham; civil administrator in Egypt; firm
 believer in Melchizedek (93:9.5,8)
 political circumstances facilitated promotion of Salem teachings in Egypt (95:3.5)
 sold into Egyptian slavery at Dothan (126:1.2)
 
-Joshua ben Joseph | | See Jesus | PERSONA | 
+Joshua ben Joseph | | See Jesus | PERSON | 
 
-Joshua (Jesus) | | See also Jesus | PERSONA | 
+Joshua (Jesus) | | See also Jesus | PERSON | 
 Gabriel instructed Mary to name her son (122:3.1) (122:8.2)
 
-Joshua (Old Testament) | (124:6.7) (135:6.1) (135:9.5) | | PERSONA | 
+Joshua (Old Testament) | (124:6.7) (135:6.1) (135:9.5) | | PERSON | 
 came to Jerusalem through Jericho (135:6.1) (172:1.3)
 Jesus quoted (153:2.5)
 lived to enter promised land (166:3.2)
@@ -1593,10 +1593,10 @@ Moses turned over command of Hebrews to (96:5.9)
 preached stern gospel to a disbelieving people (96:6.1,3)
 set up 12 stones by the Jordan (135:6.7)
 
-Joshua the teacher | | | PERSONA | 
+Joshua the teacher | | | PERSON | 
 chapter in Jesus’ life (133:9.6)
 
-Josiah (blind beggar) | | | PERSONA | 
+Josiah (blind beggar) | | | PERSON | 
 became lifelong preacher of gospel (164:5.6)
 before the Sanhedrin (164:4sec)
 cast out of synagogue (164:4.11) (164:5.4-5)
@@ -1604,19 +1604,19 @@ healed by Jesus (164:3sec)
 neither dumb nor lacking in humor (164:4.9)
 parents were poor, fear-ridden souls (164:5.5-7)
 
-Josiah (disciple of Abner) | | | PERSONA | 
+Josiah (disciple of Abner) | | | PERSON | 
 baptized Pharisee (174:4.4)
 
-Josiah (king) | | | PERSONA | 
+Josiah (king) | | | PERSON | 
 destroyed Jerusalem ring of corrupt politicians (97:9.23)
 Egyptians defeated at Megiddo (126:1.2)
 intercepted Necho’s mighty army; was wiped out (97:9.24)
 
-Jotapata | (138:9.3) (156:6.2) | | LUGAR | 
+Jotapata | (138:9.3) (156:6.2) | | PLACE | 
 Jesus’ discourse on prayer at (146:2sec)
 Mary Magdalene and Rebecca ordained at (150:2.3)
 
-Jove | | | LUGAR | 
+Jove | | | PLACE | 
 persists only as exclamation (96:1.14)
 
 joy | | See also happiness; peace: spiritual peace | | 
@@ -1634,7 +1634,7 @@ Spirit of Truth gives (194:0.1)
 spiritual growth yields lasting (100:4.3)
 to share Master’s j., share his love and service (180:1.5)
 
-Joys of Existence | | | ORDEN | 
+Joys of Existence | | | ORDER | 
 collaborate with reversion directors (28:5.16)
 promote reactions of joy (28:5.16)
 reflective of superaphic harmony supervisors (28:5.16)
@@ -1647,9 +1647,9 @@ jubilees | | | |
 7 in ascendant career (27:7.8)
 upon settling of a local universe in light and life (17:3.11)
 
-Judah | | See Judea | LUGAR | 
+Judah | | See Judea | PLACE | 
 
-Judaism | (97:10) (121:6) | See also Abraham; apocrypha; ark of Yahweh; Babylonian captivity; El Elyon; El Shaddai; Elohim; Essenes; Jerusalem temple; Jews; Jews (ancient Hebrews); Levites; Moses; Nazarites; Old Testament; Pharisees; prophets; rabbis; Sadducees; Sanhedrin; scribes; Shema; Sheol; Yahweh | RAZA | 
+Judaism | (97:10) (121:6) | See also Abraham; apocrypha; ark of Yahweh; Babylonian captivity; El Elyon; El Shaddai; Elohim; Essenes; Jerusalem temple; Jews; Jews (ancient Hebrews); Levites; Moses; Nazarites; Old Testament; Pharisees; prophets; rabbis; Sadducees; Sanhedrin; scribes; Shema; Sheol; Yahweh | RACE | 
 advanced religion of ancient times (92:6.4,14)
 apostles at first imposed J. upon converts (194:3.9)
 beliefs
@@ -1757,9 +1757,9 @@ secret of survival was centralization of worship at Jerusalem (121:2.6)
 tolerated fringe of gentile believers (121:2.5)
 various Deity titles defined (96:1.2-10)
 
-Judas Alpheus | | See Alpheus twins | PERSONA | 
+Judas Alpheus | | See Alpheus twins | PERSON | 
 
-Judas Iscariot | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | See also apostles of Jesus | PERSONA | 
+Judas Iscariot | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | See also apostles of Jesus | PERSON | 
 adversely affected by entry into Jerusalem (172:5.12-13)
 attempted to heal James of Safed’s son (158:4.6)
 betrayal
@@ -1817,13 +1817,13 @@ temple guards, centurion held in contempt (183:5.2-3)(186:1.2)
 turned over all apostolic funds to David (178:2.10)
 wondered how to break off from apostles (172:5.12-13) (173:0.2) (175:4.1) (177:4.2)
 
-Judas Maccabee | | See also Maccabees | PERSONA | 
+Judas Maccabee | | See also Maccabees | PERSON | 
 disappointment of reign (136:8.8)
 heroic exploits (121:2.7)
 Jews removed from Perea in times of (165:0.3)
 restoration of Mosaic services by (123:3.5)
 
-Jude | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | See also Jesus: family | PERSONA | 
+Jude | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | See also Jesus: family | PERSON | 
 active with Zealots; clashed with civil authorities (128:6.4-7)
 at Jesus’ 4th appearance (190:2.6)
 attitude
@@ -1847,7 +1847,7 @@ sister-in-law Rachel (150:1.1)
 trip with Jesus to Passover; taken to military prison (128:6.3-8)
 witnessed Jesus’ crucifixion (186:0.3)(187:2.7)(187:3.2)(187:5.1)
 
-Judea | (142:8) | See also Israel; Palestine | LUGAR | 
+Judea | (142:8) | See also Israel; Palestine | PLACE | 
 Caesarea was Roman capital of (184:3.17)
 fall of Assyria and ascendancy of Egypt delivered (97:9.23)
 Jewish consciousness originated in southern clan of Judah (97:9.2)
@@ -1859,7 +1859,7 @@ most difficult Roman province to govern (185:1.2)
 mostly non-Hebrew (97:9.7,11)
 wars with Israel (97:9.18)
 
-Judge-Arbiters | | | ORDEN | 
+Judge-Arbiters | | | ORDER | 
 of conciliating commissions (25:2.7)
 
 judges | (72:2.1) | See also courts | | 
@@ -1922,19 +1922,19 @@ Universal Censors
 	are j. of Deity (19:4.1,4)
 	judges and censors decree mortal survival (108:6.6)
 
-Julias | | | LUGAR | 
+Julias | | | PLACE | 
 Herod maintained Perean residence at (135:12.1) (150:3.1)
 
-Juno | | | PERSONA | 
+Juno | | | PERSON | 
 Capitolium in Rome dedicated to (132:0.2)
 
-Jupiter (god) | | | PERSONA | 
+Jupiter (god) | | | PERSON | 
 Capitolium in Rome dedicated to (132:0.2)
 reveler (69:2.5)
 Romans invoked by throwing stone in air (85:1.3)
 Zeus, transplanted from Greece to Rome (98:3.3)
 
-Jupiter (planet) | | See also Monmatia | LUGAR | 
+Jupiter (planet) | | See also Monmatia | PLACE | 
 largely gaseous (57:5.10)
 might capture outer planets, become a sun (15:5.8)
 one moon near tidal disruption (57:6.5)
@@ -1953,7 +1953,7 @@ just man | | | |
 one who had discharged ritual obligations (89:8.7)
 shall live by faith (131:2.8)
 
-Justa | | | PERSONA | 
+Justa | | | PERSON | 
 of Sidon, daughter of Bernice (156:2.2) (156:3.2)
 
 justice | (2:3) (133:1) | See also courts; crime; death penalty; karma; law | | 
@@ -1996,14 +1996,14 @@ nature provides only conformity of results to causes (70:10.1)
 never a personal attitude (10:6.2)
 primitive idea was to dispose of contest (70:11.14)
 
-justice guides | | | ORDEN | 
+justice guides | | | ORDER | 
 administrator seraphim; defend cases of doubtful survival (39:4.4)
 appear before courts for minor misunderstandings (39:4.5)
 may become Voices of Mercy (39:4.5)
 very few lost in Lucifer rebellion (39:4.6)
 
-Justus (believer) | | | PERSONA | 
+Justus (believer) | | | PERSON | 
 suggested to fill Judas’s position (193:6.2)
 
-Justus (Jewish merchant of Corinth) | (133:3.5-10) | | PERSONA | 
+Justus (Jewish merchant of Corinth) | (133:3.5-10) | | PERSON | 
 merchant that hosted Jesus

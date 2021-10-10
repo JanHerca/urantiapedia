@@ -21,11 +21,11 @@ Hades | | | |
 lugar para las almas anémicas (86:4.8)
 hombre rico atormentado en (169:3.2)
 
-Agar | | | PERSONA | OK
+Agar | | | PERSON | OK
 Agar era una concubina de Abraham (93:9.8)
 > https://es.wikipedia.org/wiki/Agar
 
-Ageo | | | PERSONA | OK
+Ageo | | | PERSON | OK
 Ageo fue un líder espiritual que no fue silenciado en Israel (97:10.3)
 > https://es.wikipedia.org/wiki/Hageo
 
@@ -52,7 +52,7 @@ lectura receptiva de los Salmos (162:6.2)
 aureola | | | | 
 Las emanaciones de Adán y Eva fueron el origen de (74:6.5)
 
-amatitas | | | RAZA | 
+amatitas | | | RACE | 
 Sargón instalado en el norte de Israel (143:4.1)
 
 martillos | | | | 
@@ -60,13 +60,13 @@ la civilización fue forjada por martillos de miedo (66:5.13)
 descubrimiento de martillos fue un gran paso adelante (68:5.4)
 de angustia forja un carácter fuerte (23:2.12)
 
-Hamurabi | (78:8.10) | | PERSONA | OK
+Hamurabi | (78:8.10) | | PERSON | OK
 Hamurabi, como otros jefes antiguos, admitió castigar algunos crímenes con la quema en la hoguera (70:10.14)
 > https://es.wikipedia.org/wiki/Hammurabi
 
 Imperio Han | | Ver China | | 
 
-Hanavard | | | PERSONA | OK
+Hanavard | | | PERSON | OK
 Hanavard es el Lanonandek primario número 67; es miembro del cuerpo superior de consejeros y coordinadores universales. Actúa como presidente en funciones del consejo ejecutivo de Satania. Hanavard es el duodécimo de esta orden que sirve así en Jerusem desde la rebelión de Lucifer (45:3.8) (45:3.10)
 
 palmo | | | | 
@@ -90,7 +90,7 @@ Jesús se lavó las manos solo para la limpieza (166:1.2) (167:1.3) (179:3.1)
 El uso de primates de manos aumento del poder cerebral (62:4.4)
 El personal del Príncipe sustituyó el intercambio de saliva o la ingesta de sangre por el apretón de manos (66:5.22)
 
-Ana (abuela de Jesús); Ana | | | PERSONA | OK
+Ana (abuela de Jesús); Ana | | | PERSON | OK
 Ana era la madre de María, la madre de Jesús (122:3.3)
 > https://es.wikipedia.org/wiki/Ana_(madre_de_María)
 
@@ -127,7 +127,7 @@ naturaleza de la felicidad
 felices terrenos de caza | | | | 
 Los anditas enviaron cautivos a felices terrenos de caza por inmersión letal (80:5.6)
 
-Jarán | | | LUGAR | 
+Jarán | | | PLACE | 
 camino a Salem, la familia de Abraham se quedó en (93:5.4)
 
 puertos | | | | 
@@ -177,7 +177,7 @@ Jesús nunca tiene prisa (100:7.14) (136:0.1) (171:7.5)
 el hombre moderno piensa que está demasiado ocupado para meditar (195:6.7)
 los primitivos no se apresurarían (69:2.4)
 
-Hatita | (165:0.1) | | LUGAR | 
+Hatita | (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
 odio | | Ver ira; miedo; venganza | | 
@@ -198,7 +198,7 @@ el autoengaño conduce a (143:2.5)
 sombra de miedo (145:3.4)
 cuando es atacado por odio, descansa en la inexpugnable ciudadela del espíritu (100:2.7)
 
-Havona | (14) | Ver Eternos de los Días; Nativos de Havona; Peregrinos en Havona; Siete Espíritus de los Circuitos de Havona | LUGAR | 
+Havona | (14) | Ver Eternos de los Días; Nativos de Havona; Peregrinos en Havona; Siete Espíritus de los Circuitos de Havona | PLACE | 
 1 El Centro Havona supervisa 1000 mundos (29:2.12)
 2 mil millones 70 Hijos de la Trinidad estacionarios sirven en (19:4.8)
 primer circuito de Havona
@@ -324,7 +324,7 @@ Los Siete Espíritus de los Circuitos de Havona impregnan; no es parte del origi
 universo de patrones (26:2.6)
 El Ser Supremo funciona en Havona como personalidad espiritual (116:0.5)
 
-Centros de Havona | | | ORDEN | 
+Centros de Havona | | | ORDER | 
 en el registro de personalidad de Uversa (30:2.94)
 no se requiere antes de la creación de superuniversos (29:2.12)
 Centros Supremos del Poder; uno supervisa 1000 mundos de Havona; 1 millón creado (29:2.12)
@@ -332,7 +332,7 @@ Centros Supremos del Poder; uno supervisa 1000 mundos de Havona; 1 millón cread
 método gráfico de Havona | | | | 
 cantidades prodigiosas de información asimiladas por; usado en el Paraíso (26:3.8) (27:6.4)
 
-Nativos de Havona | (14:4) (19:6) | | ORDEN | 
+Nativos de Havona | (14:4) (19:6) | | ORDER | 
 adquirir comprensión del Supremo (117:6.14)
 ganar experiencia a través del contacto con ascendentes (19:6.2)
 en registros de personalidad (30:1.21) (30:2.35) (30:2.124)
@@ -351,7 +351,7 @@ El objetivo supremo es ingresar al cuerpos finalitarios (19:6.3) (31:1)
 trinitización por (22:7.9-13) (30:2.35)
 destino futuro no revelado (19:6.3-4)
 
-Peregrinos en Havona; peregrino; peregrinos; peregrino ascendente; peregrinos del tiempo; peregrinos ascendentes | | Ver mortales ascendentes | ORDEN | 
+Peregrinos en Havona; peregrino; peregrinos; peregrino ascendente; peregrinos del tiempo; peregrinos ascendentes | | Ver mortales ascendentes | ORDER | 
 el logro es la prueba final para (26:5.5)
 llegar solo con perfección de propósito (26:4.12-15)
 La educación personal de los mortales ascendentes comienza como (30:4.26-30)
@@ -379,7 +379,7 @@ atravesar el espacio logrado sin ensupernafimación (14:5.5)
 la voluntad de creer es clave para Havona (26:4.15)
 trabajar para lograr el desarrollo espiritual para el Paraíso (14:4.16)
 
-Servitales de Havona | (25:1) | | ORDEN | 
+Servitales de Havona | (25:1) | | ORDER | 
 1/4 que logran el abrazo divino nunca regresan (24:7.3-6)
 7 Conciliadores Universales creados para cada Servital (25:2.1-2) (25:3.15)
 138 mil millones sirven en Uversa (25:1.7)
@@ -394,7 +394,7 @@ el número es prodigioso; más siendo creado (25:1.3)
 parecerse a los Espíritus Maestros individuales (25:1.7)
 permanecer con el mismo peregrino durante todo su ascenso (26:10.5)
 
-Habitantes de Havona | | Ver Nativos de Havona | ORDEN | 
+Habitantes de Havona | | Ver Nativos de Havona | ORDER | 
 
 cazadores de cabezas | | | | 
 permitió a las mujeres redimir vidas mediante la entrega sexual (89:7.4)
@@ -479,7 +479,7 @@ no descanso sin fin sino progresión incesante (181:1.2)
 sólo se supone que los ricos van directamente a (69:5.12)
 algunos sabios vieron en visión (48:6.23)
 
-Reproductores Celestiales; reproductores celestiales | | Ver Artesanos Celestiales | ORDEN | 
+Reproductores Celestiales; reproductores celestiales | | Ver Artesanos Celestiales | ORDER | 
 Artesanos Celestiales (44:2)
 tipos
 	# Los cantores
@@ -490,7 +490,7 @@ tipos
 	# Los narradores de biografías
 	# Los actores administrativos
 
-realizadores de los espectáculos históricos | | | ORDEN | 
+realizadores de los espectáculos históricos | | | ORDER | 
 Reproductores Celestiales, Artesanos Celestiales (44:2.6)
 
 lenguaje hebreo | | | | 
@@ -500,20 +500,20 @@ Jesús habló (123:2.14) (123:5.1,4)
 no era un idioma escrito en el momento del éxodo de Egipto (96:5.2)
 hablado por sacerdotes y rabinos en tiempos de Jesús (121:6.2)
 
-Hebreos | | Ver judíos (hebreos antiguos) | RAZA | 
+Hebreos | | Ver judíos (hebreos antiguos) | RACE | 
 
 Libro de los Hebreos | | | | 
 autor comprendió la misión de Melquisedek (93:9.11)
 retrata la vida religiosa de Jesús (196:2.1)
 
-Hebrón | (134:7.5) (142:8.1) (159:6.4) (186:3.2-3) | | LUGAR | 
+Hebrón | (134:7.5) (142:8.1) (159:6.4) (186:3.2-3) | | PLACE | 
 Capital militar de Abraham (93:5.11) (93:9.2,4)
 sede de Abner (150:0.1)
 Juan e Isabel se mudaron a (135:2.3)
 El rey David estableció su sede en la ciudad no hebrea de (97:9.7)
 la sinagoga de Hebrón negó la jurisdicción del sanedrín; destruido por el fuego (154:2.1)
 
-raza de Heidelberg | | | RAZA | 
+raza de Heidelberg | | | RACE | 
 Andonitas superiores y prolíficos (64:2.3)
 
 altura | | | | 
@@ -521,7 +521,7 @@ Adán y Eva de 8 pies de altura (74:1.1)
 la ansiedad no puede añadir amplitud a (165:5.2)
 gigantismo entre los pueblos verde y naranja (51:4.2)
 
-Heldua | (156:3.1) | | LUGAR | 
+Heldua | (156:3.1) | | PLACE | 
 Jesús visitó esta población en dirección a Fenicia
 
 helio | | | | 
@@ -534,7 +534,7 @@ Tradiciones judías derivadas del zoroastrismo (95:6.6)
 los primitivos no tenían ideas de (86:4.7)
 malvados destruidos por el fuego bajo el mitraísmo (98:5.4)
 
-Helenos | | Ver griegos | RAZA | 
+Helenos | | Ver griegos | RACE | 
 
 Imperio helenístico | | Ver Grecia | | 
 
@@ -546,13 +546,13 @@ hombre en el estanque de Betesda fue víctima de (147:3.5)
 borde del manto | | | | 
 Verónica tocó a Jesús (152:0.2-3)
 
-henoteísmo | | | RAZA | 
+henoteísmo | | | RACE | 
 exaltación de un dios sobre muchos (104:2.1)
 Los hebreos pasaron (96:1.2,14)
 
 gallinas | | Ver aves de corral | | 
 
-Henselon | | | LUGAR | 
+Henselon | | | PLACE | 
 perdió la mayoría de los Lanonandek en rebelión (35:9.8)
 universo vecino a Nebadon (32:2.12)
 
@@ -579,11 +579,11 @@ la herencia humana | Ver genética
 ermitaño | | | | 
 Gautama debería haber escuchado al ermitaño Godad (94:7.4)
 
-Herodes Agripa | | | PERSONA | OK
+Herodes Agripa | | | PERSON | OK
 Herodes Agripa temía a Santiago Zebedeo más que a ningún apóstol, y lo hizo ejecutar (139:3.8)
 > https://es.wikipedia.org/wiki/Herodes_Agripa_I
 
-Herodes Antipas | (152:6.5) (174:2.4) | | PERSONA | OK
+Herodes Antipas | (152:6.5) (174:2.4) | | PERSON | OK
 Herodes Antipas fue tetrarca de Perea y Galilea y tuvo un papel destacado en las muertes de Juan Bautista y Jesús
 mantuvo cierta animosidad con Pilatos (185:3.8)
 carácter
@@ -620,14 +620,14 @@ con respecto a Jesús
 	Pero Jesús se negó a hablar; sabía que no tendría ningún efecto (128:2.6) (185:4) (186:2.2)
 > https://es.wikipedia.org/wiki/Herodes_Antipas
 
-Herodes Arquelao; Arquelao | | | PERSONA | OK
+Herodes Arquelao; Arquelao | | | PERSON | OK
 Herodes Arquelao fue etnarca de Judea, Samaria e Idumea. Era hermano de Herodes Antipas. Fue depuesto por Augusto el 6 d.C. (124:6.2)
 José temía que Herodes Arquelao seguiría la política amenazadora de su padre (123:0.5)
 Arquelao tenía su palacio en Jericó (171:8.2)
 la parábola de las minas está basada en la experiencia de Arquelao y su inútil tentativa por conseguir el gobierno de Judea (171:8.2)
 > https://es.wikipedia.org/wiki/Herodes_Arquelao
 
-Herodes el Grande | | | PERSONA | OK
+Herodes el Grande | | | PERSON | OK
 Herodes el Grande fue rey de Judea, Galilea, Samaria e Idumea. Era el padre de Herodes Arquelao (123:0.5)
 era el padre de Herodes Antipas; construyó el puerto de Cesarea; murió el 4 a.C. (121:2.11)
 era oriundo de Idumea (121:2.9)
@@ -635,17 +635,17 @@ El palacio macabeo era la residencia habitual de la familia de Herodes el Grande
 gobernó Judea bajo la desconfianza de los judíos, pues Herodes no era judeo; de hecho aunque profesaba su lealtad al ceremonial hebreo, construyó muchos templos para dioses extranjeros (121:2.9-10)
 > https://es.wikipedia.org/wiki/Herodes_I_el_Grande
 
-Herodes el Idumeo | | Ver Herodes el Grande | PERSONA | OK
+Herodes el Idumeo | | Ver Herodes el Grande | PERSON | OK
 
 herodianos | | | | 
 abogó por la restauración de la dinastía herodiana (137:7.10)
 unidos en un esfuerzo por desacreditar a Jesús (174:2.1)
 
-Herodías | | | PERSONA | OK
+Herodías | | | PERSON | OK
 Herodías era la esposa ilegal de Herodes Antipas; odiaba intensamente a Juan el Bautista, y orquestó un plan que finalmente fue la causa de la muerte del profeta (135:12.2,5-6)
 > https://es.wikipedia.org/wiki/Herod%C3%ADas
 
-templo de Herodes | | Ver templo de Jerusalén | LUGAR | 
+templo de Herodes | | Ver templo de Jerusalén | PLACE | 
 
 héroes | | | | 
 ayudar a los niños a elegir (140:5.14)
@@ -656,14 +656,14 @@ garzas | (61:2.12) | | |
 
 ondas hertzianas | (42:5.12) | | | 
 
-Hesbón | (128:3.2) (159:0.2) (165:0.1) (171:3.2) | | LUGAR | 
+Hesbón | (128:3.2) (159:0.2) (165:0.1) (171:3.2) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
-Hestia | | | PERSONA | OK
+Hestia | | | PERSON | OK
 Diosa virgen griega del hogar; se convirtió en Vesta en Roma (98:3.3)
 > https://es.wikipedia.org/wiki/Hestia
 
-Ezequías | | | PERSONA | 
+Ezequías | | | PERSON | 
 Ezequías fue el décimo tercer rey de Judá. Los hebreos adoraron serpientes hasta los días de Ezequías (85:3.3)
 > https://es.wikipedia.org/wiki/Ezequías
 
@@ -674,13 +674,13 @@ todo será revelado (150:4.2) (151:3.1) (165:3.2-3)
 se esconde | | | | 
 los primeros escribieron sobre (66:5.9)
 
-Hierápolis | | | LUGAR | 
+Hierápolis | | | PLACE | 
 Lea profetisa de Hierápolis; Felipe crucificado en Hierápolis (139:5.11-12)
 
 jeroglíficos | | | | 
 escritura temprana (69:4.7)
 
-Altos Comisionados | | Ver Mortales fusionados con el Espíritu | ORDEN | 
+Altos Comisionados | | Ver Mortales fusionados con el Espíritu | ORDER | 
 acompañar a los Hijos Paraíso en misiones de donación (37:5.8)
 actuar como amigos de la corte; comisionados de las razas (37:5.5-7)
 en el grupo Ayudantes del Universo (37:1.6)
@@ -689,7 +689,7 @@ número 1.5 mil millones en Nebadon (37:5.6)
 Los mortales fusionados con el Espíritu pueden convertirse (37:5.1-10)
 trabajar con Serafines asesores de la corte para garantizar que los cargos contra los mortales se expresen de manera justa (39:1.7)
 
-Ayudantes de los Hijos Elevados | | Ver Hijos de la Perfección Trinitizados | ORDEN | 
+Ayudantes de los Hijos Elevados | | Ver Hijos de la Perfección Trinitizados | ORDER | 
 cariñosos, leales, humildes y sumamente sabios con respecto al concepto que personifican (22:10.8)
 son personificación de algún ideal universal único (22:10.2)
 realizar trabajos de rutina en los sectores mayor y menor (18:4.4-5)
@@ -702,9 +702,9 @@ de desempeño más distinguido que los Guardianes Celestiales (22:9.1) (22:10.1)
 secretarios privados de Hijos del superuniverso superior (22:10.1)
 Finalista abrazado por la Trinidad e hijos trinitizados por Paraíso-Havona (18:4.4) (22:1.12) (22:10)
 
-elevadas personalidades espirituales no reveladas que controlan los circuitos | (24:1.12) | | ORDEN | 
+elevadas personalidades espirituales no reveladas que controlan los circuitos | (24:1.12) | | ORDER | 
 
-Personalidades Superiores del Espíritu Infinito | (23) (24) | | ORDEN | 
+Personalidades Superiores del Espíritu Infinito | (23) (24) | | ORDER | 
 en el registro de personalidad (30:2.66-73)
 El Espíritu Maestro número 3 dirige a muchos (16:3.6)
 pedidos (24:0.2)
@@ -717,18 +717,18 @@ pedidos (24:0.2)
 	# Los Guías de los Graduados
 residencia en los círculos de Jerusem (46:5.21)
 
-Hildana | | | PERSONA | OK
+Hildana | | | PERSON | OK
 Hildana es el nombre de anónima mujer que aparece mencionada en el evangelio de Juan sorprendida en adulterio, y a quien se iba a proceder a lapidar; su marido era un degenerado de Nazaret, un hombre conocido de Jesús le había causado dificultades en su juventud (162:3)
 
 colinas | | Ver montañas | | 
 
-Himalaya | | | LUGAR | 
+Himalaya | | | PLACE | 
 geología (59:3.3) (60:1.12) (60:3.15) (61:1.13)
 
-Hindu-Kusch | | | LUGAR | 
+Hindu-Kusch | | | PLACE | 
 DEsde el Nilo hasta el Hindu-Kusch, la ocupación principal fue la agricultura con el suplemento del comercio (81:3.1)
 
-hinduismo | (94:4) | Ver Agni; Brahma; Brahmán; Brahmánas; brahmánismo; India; Indra; Rig-Veda; Soma; Trimurti; Upanishads; Vedas; Vichnú | RAZA | 
+hinduismo | (94:4) | Ver Agni; Brahma; Brahmán; Brahmánas; brahmánismo; India; Indra; Rig-Veda; Soma; Trimurti; Upanishads; Vedas; Vichnú | RACE | 
 budismo afectado (94:9.3)
 fuegos de altar encendidos con simulacros de fuego primitivos (92:2.2)
 creencias
@@ -749,19 +749,19 @@ Nanak incorporó al hinduismo al sijismo (92:5.15) (92:7.2)
 predica devoción (191:5.3)
 religión de la metafísica (5:4.7)
 
-Hindúes | | Ver India | RAZA | 
+Hindúes | | Ver India | RACE | 
 
-valle de Hinom | | | LUGAR | 
+valle de Hinom | | | PLACE | 
 Judas se ahorcó en (186:1.7)
 
 hipopótamos | (61:2.9) | | | 
 entró en Europa desde África; leones prácticamente exterminados (64:4.7)
 cazado por los neandertales (64:4.2)
 
-Hipos | (138:9.3) (149:0.1) (159:1.1) | | LUGAR | 
+Hipos | (138:9.3) (149:0.1) (159:1.1) | | PLACE | 
 Una las ciudades donde predicaron Jesús y los apóstoles
 
-Hiram | | | PERSONA | 
+Hiram | | | PERSON | 
 Hiram fue el rey de Tiro en la época de David y Salomón (156:4.1)
 > https://es.wikipedia.org/wiki/Hiram_I_de_Tiro
 
@@ -786,13 +786,13 @@ valor
 	la mente del hombre requiere un punto de partida (8:1.10)
 Los vorondadeks son historiadores de universos locales (35:5.7)
 
-hititas | | | RAZA | 
+hititas | | | RACE | 
 Culata de andonita (80:8.2)
 tribus constantemente atacadas de Palestina (93:5.6)
 organizado y muy civilizado (96:2.2)
 enseñó el culto de Salem a los descendientes de Adanson (93:7.2)
 
-Holdant | | | PERSONA | OK
+Holdant | | | PERSON | OK
 Holdant es el guardián del sistema, el vigilante y controlador de los espíritus internados que están por encima de los hombres. Es un Lanonandek Terciario, el número 19 de ese cuerpo, y actualmente es uno de los siete Lanonandeks que forman el gobierno provisional de Satania tras la rebelión de Lucifer (45:3.5)
 
 días de fiesta | | | | 
@@ -801,21 +801,21 @@ la oración evita que los días santos se vuelvan a (91:1.1)
 Holoceno | | Ver edades geológicas | | 
 período posglacial; comenzó hace 35.000 años (61:7.18)
 
-Área Santa; área Santísima | | | LUGAR | 
+Área Santa; área Santísima | | | PLACE | 
 área en el Paraíso superior (11:3.2-4)
 área residencial de 7 zonas (11:3.3-4)
 recuerdos de nuestros días materiales encontrados en (11:3.2)
 
-Ciudad santa | | Ver Jerusalén | LUGAR | 
+Ciudad santa | | Ver Jerusalén | PLACE | 
 
-Madre Sagrada | | Ver culto a la Madre de Dios | RAZA | 
+Madre Sagrada | | Ver culto a la Madre de Dios | RACE | 
 Los tibetanos rezan a una Madre Sagrada (94:10.2)
 
 santo de los santos | | | | 
 en el templo de Jerusalén; solo se permite la entrada a los sumos sacerdotes y nazareos (135:1.2)
 el joven Jesús se preguntó qué había detrás del velo de separación (125:2.5) (125:5.3)
 
-Espíritu Santo | | Ver Espíritu de la Verdad; renacimiento espiritual | PERSONA | OK
+Espíritu Santo | | Ver Espíritu de la Verdad; renacimiento espiritual | PERSON | OK
 El Espíritu Santo es el espíritu de la presencia personal de la Ministra Divina, el Espíritu Madre de un universo local. El trabajo de los Espíritus Ayudantes de la Mente es anterior al trabajo del Espíritu Santo, y es preparatorio para su llegada (36:5.16)
 Juan el Bautista reveló a sus discípulos que aunque él bautizaba con agua, Jesús les bautizaría con el Espíritu Santo (135:7.2) (135:9.4,7)
 Jesús instruyó a los apóstoles sobre la naturaleza del Espíritu Santo pero ellos no lograron comprender del todo (138:5.2)
@@ -885,7 +885,7 @@ civilización china avanzada (79:7.1,5)
 Asentamientos anditas (79:7.1)
 problemas hidráulicos de los agricultores en (79:8.6)
 
-Honen Shonin | | | PERSONA | OK
+Honen Shonin | | | PERSON | OK
 Honen fue un líder budista japonés que enseñó el doble concepto de Dios y del Absoluto a través de la creencia en Amida Buda. Enseñó que el alma puede llegar al Nirvana por medio de la fe sincera y pura (94:12.2-3)
 > https://es.wikipedia.org/wiki/Hōnen
 
@@ -928,7 +928,7 @@ la transformación de la fe engendra esperanza (101:10.8)
 horda | | | | 
 la sociedad más primitiva era (70:3.1)
 
-Horeb | | Ver monte Sinaí | LUGAR | 
+Horeb | | Ver monte Sinaí | PLACE | 
 
 hormonas | | | | 
 reacciones químicas resultantes de (65:6.6)
@@ -956,11 +956,11 @@ valor
 	ofreció a los bárbaros una tremenda ventaja militar (78:8.3)
 Vichnú mostrado con cabeza de caballo (85:3.4)
 
-Horus | | | PERSONA | OK
+Horus | | | PERSON | OK
 Horus era el dios egipcio del cielo, hijo de Osiris e Isis. En su batalla legendaria con Set pierde un ojo que luego es restablecido por el dios Thot escupiendo en su herida, lo cual repoducía una creencia antigua del poder sanador de la saliva  (95:2.6)
 > https://es.wikipedia.org/wiki/Horus
 
-Oseas | | | PERSONA | OK
+Oseas | | | PERSON | OK
 Oseas es un profeta hebreo que predicó la esperanza y el perdón a través del arrepentimiento en lugar de los sacrificios (97:4.5-6)
 la escritura secretas de Oseas y otros profetas dieron comienzo al Antiguo Testamento (97:9.20)
 Jesús dijo que el Padre había hablado en el pasado a través de profetas como Oseas (155:6.2)
@@ -989,11 +989,11 @@ proclamar el evangelio desde (150:4.2)
 proclividad a apiñarse | | | | 
 de ultimatones (42:7.10)
 
-bahía de Hudson | | | LUGAR | 
+bahía de Hudson | | | PLACE | 
 las elevaciones de granito pertenecen a edades preoceánicas (57:8.12)
 encuentro entre la tribu india y el grupo esquimal (64:7.19)
 
-río Hudson | (59:4.15) (60:1.3) | | LUGAR | 
+río Hudson | (59:4.15) (60:1.3) | | PLACE | 
 Grandes Lagos una vez vaciados (61:7.10)
 
 la naturaleza humana | | Ver mortales:naturaleza humana | | 

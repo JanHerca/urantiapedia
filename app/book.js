@@ -1,9 +1,8 @@
-//Reader/Writer para `El Libro de Urantia` en diferentes formatos (HTML/LaTeX/JSON/Wiki)
+//Reader/Writer for The Urantia Book in different formats (HTML/LaTeX/JSON/Wiki)
 
 const LSep = require('./enums').LaTeXSeparator;
 const HSep = require('./enums').HTMLSeparator;
-//TODO: Esto solo funciona para español
-const BibleAbb_es = require('./enums').BibleAbb_es;
+const BibleAbbs = require('./abb');
 const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
@@ -12,11 +11,14 @@ const removeHTMLTags = require('./utils').removeHTMLTags;
 const readFrom = require('./utils').readFrom;
 const replaceWords = require('./utils').replaceWords;
 const getAllIndexes = require('./utils').getAllIndexes;
+const strformat = require('./utils').strformat;
 const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
+const Strings = require('./strings');
 
 class Book {
+	language = 'en';
 	errorString = '{0}, línea {1}: {2}';
 	pars = [];
 	papers = [];
@@ -56,16 +58,20 @@ class Book {
 	];
 	footnotes = [];
 
+	setLanguage = (language) => {
+		this.language = language;
+	};
+
 	/**
-	 * Devuelve un array de tres valores [paper_id, section_id, par_id]
-	 * Por ejemplo: para '101:2.1' devuelve [101,2,1]
-	 * El input siempre debe tener los tres valores o lanzará una excepción.
-	 * @param {string} lu_ref Referencia al LU.
+	 * Returns an array with three values [paper_id, section_id, par_id]
+	 * For example: for '101:2.1' returns [101,2,1]
+	 * Input always must have three value or triggers an exception.
+	 * @param {string} lu_ref Reference to UB.
 	 * @return {Array}
 	 */
 	getRef = (lu_ref) => {
 		let data, data2, paper_id, section_id, par_id;
-		const err = new Error(`La referencia LU ${lu_ref} está mal o no existe`);
+		const err = this.getError('book_wrong_reference', lu_ref);
 		data = lu_ref.split(':');
 		if (data.length != 2) {
 			throw err;
@@ -87,18 +93,18 @@ class Book {
 	};
 
 	/**
-	 * Devuelve un array de arrays de tres valores [paper_id, section_id, par_id]
-	 * con todos los párrafos incluídos en la referencia.
-	 * Por ejemplo '101' devuelve un array con todos los párrafos del documento 101.
-	 * Por ejemplo '101:2.1,3-4' devuelve [[101,2,1], [101,2,3], [101,2,4]]
-	 * Comprueba si las referencias existen.
-	 * Si algo va mal lanza una excepción. 
-	 * @param {string} lu_ref Referencia al LU.
+	 * Returns an array of arrays with three values [paper_id, section_id, par_id]
+	 * with all paragraphs included in the reference.
+	 * For example '101' returns an array of all paragraphs of paper 101.
+	 * For example '101:2.1,3-4' returns [[101,2,1], [101,2,3], [101,2,4]]
+	 * Checks if references exist.
+	 * If anything goes wrong returns an exception.
+	 * @param {string} lu_ref UB reference.
 	 * @return {Array}
 	 */
 	getRefs = (lu_ref) => {
 		let data, data2, data3, dd, paper_id, section_id, paper, section, min, max;
-		const err = new Error(`La referencia LU ${lu_ref} está mal o no existe`);
+		const err = this.getError('book_wrong_reference', lu_ref);
 		data = lu_ref.split(':');
 		let result = [];
 		let fail = false;
@@ -111,7 +117,7 @@ class Book {
 			throw err;
 		}
 		if (data.length === 1) {
-			//Caso de sólo el documento
+			//Only paper case
 			paper.sections.forEach(s => {
 				s.pars.forEach(p => {
 					result.push(this.getRef(p.par_ref));
@@ -120,7 +126,7 @@ class Book {
 		} else if (data.length > 1) {
 			data2 = data[1].split('.');
 			if (data2.length === 1) {
-				//Caso de sólo documento y sección/secciones
+				//Case of only paper and section/sections
 				dd = data2[0].split('-');
 				min = parseInt(dd[0]);
 				max = (dd.length > 1 ? parseInt(dd[1]) : parseInt(dd[0]));
@@ -171,14 +177,14 @@ class Book {
 	};
 
 	/**
-	 * Devuelve true si la referencia en forma de texto contiene a la referencia
-	 * en forma numérica. Por ejemplo: '101:2.3,6-10' contiene a [101,2,3],
-	 * y [101,2,7] pero no a [101,2,4]. Funciona también dando como referencia
-	 * un documento entero o una sección entera.
-	 * @param {string} lu_ref Referencia al libro en forma de texto.
-	 * @param {number} paperIndex Índice de documento empezando en 0.
-	 * @param {number} sectionIndex Índice de la sección empezando en 0.
-	 * @param {number} parIndex Índice del párrafo empezando en 1.
+	 * Returns true if the reference in text form contains the reference in number
+	 * form. For example: '101:2.3,6-10' contains [101,2,3],
+	 * and [101,2,7] but not [101,2,4]. Works also giving the reference of a full
+	 * paper or a full section.
+	 * @param {string} lu_ref Book reference in text form.
+	 * @param {number} paperIndex Paper index starting in zero.
+	 * @param {number} sectionIndex Section index starting in zero.
+	 * @param {number} parIndex Paragraph index starting in 1.
 	 * @return {boolean}
 	 */
 	containsRef = (lu_ref, paperIndex, sectionIndex, parIndex) => {
@@ -211,14 +217,13 @@ class Book {
 	};
 
 	/**
-	 * Devolvemos las footnotes que contenga un determinado párrafo de `El Libro
-	 * de Urantia`.
-	 * @param {string} lu_ref Referencia a `El Libro de Urantia`.
+	 * Returns footnotes that contain a giving paragraph from `The Urantia Book`.
+	 * @param {string} lu_ref Reference to `The Urantia Book`.
 	 * @return {Array}
 	 */
 	getFootnotes = (lu_ref) => {
 		let paper, section, par_content, footnotes = [];
-		const err2 = new Error(`La referencia LU ${lu_ref} está mal o no existe`);
+		const err2 = this.getError('book_wrong_reference', lu_ref);
 		//
 		let ref;
 		try {
@@ -250,13 +255,13 @@ class Book {
 	};
 
 	/**
-	 * Devuelve un array con pares [texto, ref bíblica].
-	 * @param {Array} footnotes Array de footnotes.
+	 * Returns an arrat with pairs [text, biblical ref].
+	 * @param {Array} footnotes Array of footnotes.
 	 * @return {Array}
 	 */
 	getSubFootnotes = (footnotes) => {
 		const subfootnotes = [];
-		const err = new Error(`Error extrayendo subfootnotes`);
+		const err = this.getError('book_wrong_footnotes');
 		footnotes.forEach(f => {
 			let parts, text, text2, fs, ab;
 			parts = f.split('*').filter(n => n.trim() != '');
@@ -295,11 +300,11 @@ class Book {
 	};
 
 	/**
-	 * Devuelve un párrafo del libro usando una referencia.
-	 * Si la referencia no existe devuelve null.
-	 * @param {number} paperIndex Índice del documento empezando en 0.
-	 * @param {number} sectionIndex Índice de sección empezando en 0.
-	 * @param {number} parIndex Índice de párrafo empezando en 1.
+	 * Returns a paragraph from book using a reference.
+	 * If the reference does not exist returns null.
+	 * @param {number} paperIndex Paper index starting at zero.
+	 * @param {number} sectionIndex Section index starting at zero.
+	 * @param {number} parIndex Paragraph index starting at 1.
 	 * @return {Object}
 	 */
 	getPar = (paperIndex, sectionIndex, parIndex) => {
@@ -317,9 +322,9 @@ class Book {
 	};
 
 	/**
-	 * Devuelve un texto en formato LaTeX reemplazando caracteres especiales por
-	 * los mismos caracteres pero para que se vean bien en formato Wiki.
-	 * @param {string} content Contenido.
+	 * Returns a text in LaTeX format replacing special chars by the same chars
+	 * but adapted to Wiki format.
+	 * @param {string} content Content.
 	 * @returns {string}
 	 */
 	replaceSpecialChars = (content) => {
@@ -338,10 +343,9 @@ class Book {
 	};
 	
 	/**
-	 * Devuelve un texto en cualquier formato que no sea LaTeX reemplazando 
-	 * caracteres especiales por los mismos caracteres pero para que se vea
-	 * bien en formato LaTeX.
-	 * @param {string} content Contenido.
+	 * Returns a text in any format except LaTeX replacing special chars with  
+	 * the same chars but adapted to LaTeX format.
+	 * @param {string} content Content.
 	 * @returns {string}
 	 */
 	replaceInverseSpecialChars = (content) => {
@@ -358,7 +362,7 @@ class Book {
 	};
 
 	/**
-	 * Limpia cualquier contenido leído.
+	 * Clears any content read.
 	 */
 	clear = () => {
 		this.papers = [];
@@ -369,20 +373,20 @@ class Book {
 	//***********************************************************************
 
 	/**
-	 * Lee `El Libro de Urantia` de una carpeta con archivos en fomato LaTeX.
-	 * @param {string} dirPath Ruta de la carpeta.
-	 * @returns {Promise} Promesa que devuelve null en la función resolve o un 
-	 * array de errores en la función reject.
+	 * Reads `The Urantia Book` from a folder with files in LaTeX format.
+	 * @param {string} dirPath Folder path.
+	 * @returns {Promise} Promise that returns null in resolve function or an 
+	 * array of errors in reject function.
 	 */
 	readFromLaTeX = (dirPath) => {
 		return readFrom(dirPath, '.tex', this.clear, this.readFileFromLaTeX, this);
 	};
 
 	/**
-	 * Lee un documento de `El Libro de Urantia` de un archivo en formato LaTeX.
-	 * @param {string} filePath Ruta del archivo.
-	 * @returns {Promise} Promesa que devuelve un objeto con el contenido del 
-	 * documento en la función resolve o un array de errores en la función reject.
+	 * Reads a `The Urantia Book` paper from a file in LaTeX format.
+	 * @param {string} filePath File path.
+	 * @returns {Promise} Promise that returns an object with the paper content 
+	 * in resolve function or an array of errors in reject function.
 	 */
 	readFileFromLaTeX = (filePath) => {
 		const baseName = path.basename(filePath);
@@ -392,8 +396,7 @@ class Book {
 			}
 			const paperIndex = parseInt(extractStr(baseName, 'Doc', '.tex'));
 			if (isNaN(paperIndex)) {
-				reject([this.createError(baseName, 0, 
-					'El nombre de archivo no contiene el número de documento')]);
+				reject([this.getError('book_no_paper_index', baseName, 1)]);
 				return;
 			}
 			fs.readFile(filePath, (errFile, buf) => {
@@ -416,13 +419,13 @@ class Book {
 	};
 
 	/**
-	 * Lee y extrae el contenido de un documento de `El Libro de Urantia` a partir
-	 * de una array de líneas leídas de un archivo en formato LaTeX.
-	 * @param {string} baseName Nombre sin extensión del archivo.
-	 * @param {number} paperIndex Índice del documento.
-	 * @param {string[]} lines Array de líneas.
-	 * @param {Error[]} errors Array de errores en el que almacenar los errores.
-	 * @returns {Object} Objeto con el documento.
+	 * Reads and extracts the content of a `The Urantia Book` paper from an
+	 * array of lines read from a file in LaTeX format.
+	 * @param {string} baseName File name without extension.
+	 * @param {number} paperIndex Paper index.
+	 * @param {string[]} lines Array of lines.
+	 * @param {Error[]} errors Array to store errors.
+	 * @returns {Object} Paper object.
 	 */
 	extractPaperFromLaTex = (baseName, paperIndex, lines, errors) => {
 		let extract;
@@ -440,11 +443,10 @@ class Book {
 		lines.forEach((line, i) => {
 			let j = 0;
 			if (line.startsWith(LSep.CHAPTER_START)) {
-				//Si es un documento
+				//If it is a paper
 				extract = extractStr(line, LSep.CHAPTER_START, LSep.END);
 				if (!extract) {
-					errors.push(this.createError(baseName, i,
-						'No se pudo extraer el inicio del documento'));
+					errors.push(this.getError('book_no_paper_start', baseName, i + 1));
 				} else {
 					paper.paper_title = extract;
 					currentSectionIndex++;
@@ -456,14 +458,13 @@ class Book {
 					paper.sections.push(currentSection);
 				}
 			} else if (line.startsWith(LSep.SECTION_START)) {
-				//Si es una seccion
+				//If it is a section
 				extract = extractStr(line, LSep.SECTION_START, LSep.END);
 				if (!extract) {
-					errors.push(this.createError(baseName, i,
-						'No se pudo extraer el inicio de sección'));
+					errors.push(this.getError('book_no_section_start', baseName, i + 1));
 				} else {
 					extract = this.replaceSpecialChars(extract);
-					//Caso especial de la sección 139:9 (que no existe)
+					//Special case of section 139:9 (that do not exists)
 					if (extract.startsWith('9. y 10.')) {
 						currentSectionIndex += 2;
 					} else {
@@ -478,22 +479,20 @@ class Book {
 					paper.sections.push(currentSection);
 				}
 			} else if (line.startsWith(LSep.PAGEREF_START)) {
-				//Si es la línea con la antigua referencia
+				//If it is a line with old reference
 				linePrevious = line;
 				linePreviousPos = i;
 				extractPrevious = extractStr(line, LSep.PAGEREF_START,
 					LSep.PAGEREF_END);
 				if (!extractPrevious) {
-					errors.push(this.createError(baseName, i,
-						'No se pudo extraer la referencia tipo página'));
+					errors.push(this.getError('book_no_pageref', baseName, i + 1));
 				}
 			} else if (line.startsWith(LSep.TEXT_START)) {
-				//Si es un párrafo
+				//If it is a paragraph
 				if (linePreviousPos === i - 1) {
 					extract = extractStr(line, LSep.TEXT_START, LSep.END);
 					if (!extract) {
-						errors.push(this.createError(baseName, i,
-							'No se pudo extraer la referencia de párrafo'));
+						errors.push(this.getError('book_no_parref', baseName, i + 1));
 					} else if (extractPrevious) {
 						j = LSep.TEXT_START.length + extract.length + 
 							LSep.END.length;
@@ -507,13 +506,11 @@ class Book {
 						if (currentSection) {
 							currentSection.pars.push(currentPar);
 						} else {
-							errors.push(this.createError(baseName, i,
-								'No se pudo añadir párrafo sin una sección previa'));
+							errors.push(this.getError('book_no_add_par', baseName, i + 1));
 						}
 					}
 				} else {
-					errors.push(this.createError(baseName, i,
-						'No existe en línea previa la referencia tipo página'));
+					errors.push(this.getError('book_no_ref_previous', baseName, i + 1));
 				}
 			}
 		});
@@ -521,14 +518,14 @@ class Book {
 	};
 
 	/**
-	 * Lee y extrae el contenido de un párrafo de `El Libro de Urantia` a partir
-	 * de un contenido en formato LaTeX.
-	 * @param {string} baseName Nombre sin extensión del archivo.
-	 * @param {number} lnum Índice de la línea.
-	 * @param {string} content Contenido del párrafo en formato LaTeX.
-	 * @param {string[]} footnotes Array en el que almacenar las notas al pie.
-	 * @param {Error[]} errors Array de errores en el que almacenar los errores.
-	 * @returns {string} Contenido del párrafo extraído.
+	 * Reads and extracts the content a paragraph from `The Urantia Book` using a
+	 * content in LaTeX format.
+	 * @param {string} baseName File name without extension.
+	 * @param {number} lnum Line index.
+	 * @param {string} content Paragraph content in LaTeX format.
+	 * @param {string[]} footnotes Array to store footnotes.
+	 * @param {Error[]} errors Array to store errors.
+	 * @returns {string} Content of paragraph.
 	 */
 	extractParContentFromLaTeX = (baseName, lnum, content, footnotes, errors) => {
 		let extract = '', fi, i = 0, open = 0, index, c, footnoteExtract;
@@ -551,8 +548,7 @@ class Book {
 				i++;
 			}
 			if (open != 0) {
-				errors.push(this.createError(baseName, lnum,
-					'No existe cierre de footnote correcto'))
+				errors.push(this.getError('book_no_closing_footnote', baseName, lnum + 1))
 				return content;
 			}
 			extract += `{${footnotes.length}}`;
@@ -561,8 +557,8 @@ class Book {
 			footnoteExtract = replaceTags(footnoteExtract, LSep.ITALIC_START, 
 				LSep.END, '*', '*', replaceErr);
 			if (replaceErr.length > 0) {
-				extendArray(errors, replaceErr.map(e =>
-					this.createError(baseName, lnum, e)));
+				extendArray(errors, replaceErr.map(e => 
+					this.getError(e, baseName, lnum + 1)));
 			}
 			footnoteExtract = this.replaceSpecialChars(footnoteExtract);
 			footnotes.push(footnoteExtract);
@@ -572,45 +568,45 @@ class Book {
 			replaceErr);
 		if (replaceErr.length > 0) {
 			extendArray(errors, replaceErr.map(e => 
-				this.createError(baseName, lnum, e)));
+				this.getError(e, baseName, lnum + 1)));
 		}
 		extract = this.replaceSpecialChars(extract);
 		return extract;
 	};
 
 	/**
-	 * Escribe `El Libro de Urantia` en formato LaTeX.
-	 * @param {string} dirPath Ruta de la carpeta.
-	 * @returns {Promise} Promesa que devuelve null en la función resolve o un 
-	 * array de errores en la función reject.
+	 * Writes `The Urantia Book` in LaTeX format.
+	 * @param {string} dirPath Folder path.
+	 * @returns {Promise} Promise that returns null in resolve function or an 
+	 * array of errors in reject function.
 	 */
 	writeToLaTeX = (dirPath) => {
 		return this.writeTo(dirPath, 'tex');
 	};
 
 	/**
-	 * Escribe un documento de `El Libro de Urantia` en formato LaTeX.
-	 * @param {string} filePath Ruta del archivo.
-	 * @param {Object} paper Objeto con el documento.
-	 * @returns {Promise} Promesa que devuelve null en la función resolve o un 
-	 * error en la función reject.
+	 * Writes a paper of `The Urantia Book` in LaTeX format.
+	 * @param {string} filePath File path.
+	 * @param {Object} paper Paper object.
+	 * @returns {Promise} Promise that returns null in resolve function or an 
+	 * error in reject function.
 	 */
 	writeFileToLaTeX = (filePath, paper) => {
 		return new Promise((resolve, reject) => {
 			let latex = '', error;
 
 			if (!Array.isArray(paper.sections)) {
-				error = 'El documento no tiene secciones';
+				error = 'book_no_sections';
 			} else if (paper.sections.find(s => s.section_ref == null)) {
-				error = 'Una sección no tiene referencia';
+				error = 'book_section_no_reference';
 			} else if (paper.sections.find(s => !Array.isArray(s.pars))) {
-				error = 'Una sección no tiene párrafos';
+				error = 'book_section_no_pars';
 			} else if (!paper.paper_title) {
-				error = 'El documento no tiene título';
+				error = 'book_paper_no_title';
 			}
 
 			if (error) {
-				reject(new Error(`${filePath}: ${error}`));
+				reject(this.getError(error, filePath));
 				return;
 			}
 
@@ -631,7 +627,7 @@ class Book {
 				section.pars.forEach((par, j) => {
 					let pcontent, replaceErr = [], end;
 					if (!par.par_ref || !par.par_content || !par.par_pageref) {
-						error = 'Un párafo no tiene referencia o contenido';
+						error = 'book_par_no_refcontent';
 						return;
 					}
 					pcontent = replaceTags(par.par_content, '*', '*', 
@@ -656,7 +652,7 @@ class Book {
 			});
 
 			if (error) {
-				reject(new Error(`${filePath}: ${error}`));
+				reject(this.getError(error, filePath));
 				return;
 			}
 
@@ -671,10 +667,10 @@ class Book {
 	};
 
 	/**
-	 * Convierte un array de notas al pie en el texto de nota al pie para un
-	 * archivo en formato LaTeX. Las notas al pie incorrectamente codificadas
-	 * se devuelven como el texto FOOTNOTE ERROR.
-	 * @param {string[]} footnotes Array de notas al pie.
+	 * Converts an array of footnotes in text to be a footnote in a file
+	 * in LaTeX format. Footnotes not correctly coded are returned as the
+	 * text FOOTNOTE ERROR.
+	 * @param {string[]} footnotes Array of footnotes.
 	 * @returns {string}
 	 */
 	footnotesToLaTeX = (footnotes) => {
@@ -695,20 +691,20 @@ class Book {
 	//***********************************************************************
 
 	/**
-	 * Lee `El Libro de Urantia` de una carpeta con archivos en fomato JSON.
-	 * @param {string} dirPath Ruta de la carpeta.
-	 * @returns {Promise} Promesa que devuelve null en la función resolve o un 
-	 * array de errores en la función reject.
+	 * Reads `The Urantia Book` from a folder with files in JSON format.
+	 * @param {string} dirPath Folder path.
+	 * @returns {Promise} Promise that returns null in resolve function or an
+	 * array of errors in reject function.
 	 */
 	readFromJSON = (dirPath) => {
 		return readFrom(dirPath, '.json', this.clear, this.readFileFromJSON, this);
 	};
 
 	/**
-	 * Lee un documento de `El Libro de Urantia` de un archivo en formato JSON.
-	 * @param {string} filePath Ruta del archivo.
-	 * @returns {Promise} Promesa que devuelve un objeto con el contenido del 
-	 * documento en la función resolve o un array de errores en la función reject.
+	 * Reads a paper from `The Urantia Book` from a file in JSON format.
+	 * @param {string} filePath File path.
+	 * @returns {Promise} Promise that returns an object with paper content in 
+	 * resolve function or an array of errors in reject function.
 	 */
 	readFileFromJSON = (filePath) => {
 		const baseName = path.basename(filePath);
@@ -718,8 +714,7 @@ class Book {
 			}
 			const paperIndex = parseInt(extractStr(baseName, 'Doc', '.json'));
 			if (isNaN(paperIndex)) {
-				reject([this.createError(baseName, 0, 
-					'El nombre de archivo no contiene el número de documento')]);
+				reject([this.getError('book_no_paper_index', baseName, 1)]);
 				return;
 			}
 			fs.readFile(filePath, (errFile, buf) => {
@@ -740,21 +735,21 @@ class Book {
 	};
 
 	/**
-	 * Escribe `El Libro de Urantia` en formato JSON.
-	 * @param {string} dirPath Ruta de la carpeta.
-	 * @returns {Promise} Promesa que devuelve null en la función resolve o un 
-	 * array de errores en la función reject.
+	 * Writes `The Urantia Book` in JSON format.
+	 * @param {string} dirPath Folder path.
+	 * @returns {Promise} Promise that returns null in resolve function or an 
+	 * array of errors in reject function.
 	 */
 	writeToJSON = (dirPath) => {
 		return this.writeTo(dirPath, 'json');
 	};
 
 	/**
-	 * Escribe un documento de `El Libro de Urantia` en formato JSON.
-	 * @param {string} filePath Ruta del archivo.
-	 * @param {Object} paper Objeto con el documento.
-	 * @returns {Promise} Promesa que devuelve null en la función resolve o un 
-	 * error en la función reject.
+	 * Writes a paper of `The Urantia Book` in JSON format.
+	 * @param {string} filePath File path.
+	 * @param {Object} paper Paper object.
+	 * @returns {Promise} Promise that returns null in resolve function or an 
+	 * error in reject function.
 	 */
 	writeFileToJSON = (filePath, paper) => {
 		return new Promise((resolve, reject) => {
@@ -770,25 +765,25 @@ class Book {
 	};
 
 	/**
-	 * Lee las referencias (notas al pie) de un archivo llamado 
-	 * `footnotes-book-xx.json` en la carpeta padre de la que pasa como parámetro
-	 * y guarda todo en un objeto footnotes.
-	 * @param {string} dirPath Ruta de la carpeta.
-	 * @returns {Promise} Promesa que devuelve null en la función resolve o un 
-	 * array de errores en la función reject.
+	 * Reads references (footnotes) from a file called`footnotes-book-xx.json` 
+	 * in parent folder of the one passed in param and stores everything in a
+	 * footnotes object.
+	 * @param {string} dirPath Folder path.
+	 * @returns {Promise} Promise that returns null in resolve function or an 
+	 * array of errors in reject function.
 	 */
 	readRefsFromJSON = (dirPath) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
 				if (err) {
-					reject([new Error(`El directorio ${baseName} no está accesible`)]);
+					reject([this.getError('folder_no_access',  baseName)]);
 					return;
 				}
 				let parentPath = path.dirname(dirPath);
 				let filePath = path.join(parentPath, `footnotes-${baseName}.json`);
 				if (!fs.existsSync(filePath)) {
-					reject([new Error(`El directorio ${filePath} no existe`)]);
+					reject([this.getError('folder_not_exists', filePath)]);
 					return;
 				}
 				this.footnotes.length = 0;
@@ -811,20 +806,20 @@ class Book {
 	};
 
 	/**
-	 * Escribe las referencias (notas al pie) en un archivo llamado 
-	 * `footnotes-book-xx.json` en la carpeta padre de la que se pasa como parámetro.
-	 * Además, guarda información de la posición de cada sub-referencia para poder
-	 * aplicarla a otras traducciones.
-	 * @param {string} dirPath Ruta de la carpeta.
-	 * @returns {Promise} Promesa que devuelve null en la función resolve o un 
-	 * array de errores en la función reject.
+	 * Writes references (footnotes) in a file called `footnotes-book-xx.json` 
+	 * in the parent folder of the one passed by param.
+	 * Also saves info of position of eachsub-reference to be able to apply
+	 * to other translations.
+	 * @param {string} dirPath Folder path.
+	 * @returns {Promise} Promise that returns null in resolve function or an 
+	 * array of errors in reject function.
 	 */
 	writeRefsToJSON = (dirPath) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
 				if (err) {
-					reject([new Error(`El directorio ${baseName} no está accesible`)]);
+					reject([this.getError('folder_no_access',  baseName)]);
 					return;
 				}
 				let parentPath = path.dirname(dirPath);
@@ -897,12 +892,12 @@ class Book {
 	};
 
 	/**
-	 * Devuelve un array con los índices de posición de las referencias en frases 
-	 * separadas por puntos seguidos dentro del párrafo.
-	 * @param {string} content Contenido del párrafo.
-	 * @param {number} length Número máximo de footnotes del documento, que representa
-	 * el máximo número a buscar para una referencia.
-	 * @return {number[]} Devuelve -1 cuando no se encuentren puntos seguidos.
+	 * Returns an array with position indexes of the references in sentences
+	 * separated by periods inside the paragraph.
+	 * @param {string} content Paragraph content.
+	 * @param {number} length Max number of footnotes of the paper, that represents
+	 * the max number to search a reference.
+	 * @return {number[]} Returns -1 when periods are not found.
 	 */
 	getRefsLocations = (content, length) => {
 		let indexes = [], index;
@@ -922,15 +917,15 @@ class Book {
 	};
 
 	/**
-	 * Actualiza las referencias (notas al pie) usando las leídas mediante
-	 * `readRefsFromJSON` y que se encuentran en la variable footnotes.
-	 * @returns {Promise} Promesa que devuelve null en la función resolve o un
-	 * array de errores en la función reject.
+	 * Updates references (footnotes) using the read through `readRefsFromJSON` 
+	 * and that are in variable footnotes.
+	 * @returns {Promise} Promise that returns null in resolve function or an
+	 * array of errors in reject function.
 	 */
 	updateRefs = () => {
 		return new Promise((resolve, reject) => {
 			let errors = [];
-			//Bucle por cada documento
+			//Loop in each paper
 			this.papers.forEach(paper => {
 				const index = paper.paper_index;
 				const paperFootnotes = this.footnotes
@@ -943,8 +938,7 @@ class Book {
 				const locations = paperFootnotes.footnotes.locations;
 				if (texts.length != bible_refs.length || 
 					texts.length != locations.length) {
-					errors.push(
-						new Error(`Número de items no válido en doc ${index}`));
+					errors.push(this.getError('book_invalid_number', index));
 					return;
 				}
 				paper.footnotes = texts.map((t, i) => {
@@ -964,8 +958,7 @@ class Book {
 						return (p != undefined);
 					});
 					if (!par) {
-						errors.push(
-							new Error(`Párrafo no encontrado ${par_ref} en doc ${index}`));
+						errors.push(this.getError('book_par_not_found', par_ref, index));
 						return;
 					}
 					const ii = getAllIndexes(par.par_content, '.');
@@ -991,20 +984,20 @@ class Book {
 	//***********************************************************************
 
 	/**
-	 * Lee `El Libro de Urantia` de una carpeta con archivos en fomato HTML.
-	 * @param {string} dirPath Ruta de la carpeta.
-	 * @returns {Promise} Promesa que devuelve null en la función resolve o un 
-	 * array de errores en la función reject.
+	 * Reads `The Urantia Book` from a folder with files in HTML format.
+	 * @param {string} dirPath Folder path.
+	 * @returns {Promise} Promise that returns null in resolve function or an 
+	 * array of errors in reject function.
 	 */
 	readFromHTML = (dirPath) => {
 		return readFrom(dirPath, '.html;.htm', this.clear, this.readFileFromHTML, this);
 	};
 
 	/**
-	 * Lee un documento de `El Libro de Urantia` de un archivo en formato HTML.
-	 * @param {string} filePath Ruta del archivo.
-	 * @returns {Promise} Promesa que devuelve un objeto con el contenido del 
-	 * documento en la función resolve o un array de errores en la función reject.
+	 * Reads a paper from `The Urantia Book` from a file in HTML format.
+	 * @param {string} filePath File path.
+	 * @returns {Promise} Promise that returns an object with paper content 
+	 * in resolve function or an array of errors in reject function.
 	 */
 	readFileFromHTML = (filePath) => {
 		const baseName = path.basename(filePath);
@@ -1016,7 +1009,7 @@ class Book {
 		const config = this.HTMLconfigs
 			.find(c => c.languages.indexOf(language) != -1);
 
-		//Ignoramos archivos HTML que no tengan número de documento
+		//Ignore HTML files that do not have paper number
 		if (isNaN(paperIndex)) {
 			return Promise.resolve(null);
 		}
@@ -1048,16 +1041,16 @@ class Book {
 						paper_title: paperTitle
 					};
 					let i = 0, p, removeErr, text, pId, sec, pdata;
-					//Añadimos la sección 0 si es que la hay
+					//Add section 0 if it exists
 					paper.sections.push({
 						section_index: 0,
 						section_ref: `${paperIndex}:0`,
 						pars: []
 					});
-					//Añadimos el resto de secciones
+					//Add the rest of sections
 					extendArray(paper.sections, 
 						this.getSectionsFromHTML($, secs, config, paperIndex));
-					//Añadimos párrafos
+					//Add paragraphs
 					for (i = 0; i < pars.length; i++) {
 						p = pars[i];
 						pdata = this.getParFromHTML($, p, config, paperIndex);
@@ -1067,8 +1060,8 @@ class Book {
 						pId = this.getRef(pdata.par_ref);
 						sec = paper.sections.find(s => s.section_index === pId[1]);
 						if (!sec) {
-							extendArray(errors, this.createError(baseName, -999,
-								`Sección ${pId[1]} no encontrada.`));
+							extendArray(errors, 
+								this.getError('book_section_not_found', pId[1], -999));
 							continue;
 						}
 						text = $(p).html();
@@ -1078,7 +1071,7 @@ class Book {
 						text = this.modifyTagsInHTML(text, removeErr);
 						if (removeErr.length > 0) {
 							extendArray(errors, removeErr.map(e =>
-								this.createError(baseName, -999, e)));
+								this.getError(e, baseName, -999)));
 						}
 						pdata.par_content = text;
 						sec.pars.push(pdata);
@@ -1089,7 +1082,7 @@ class Book {
 						return;
 					}
 
-					//Quitamos la sección 0 si está vacía
+					//Remove section 0 if it is empty
 					sec = paper.sections.find(s => s.section_index === 0);
 					if (sec.pars.length === 0) {
 						paper.sections.splice(paper.sections.indexOf(sec), 1);
@@ -1105,12 +1098,12 @@ class Book {
 	};
 
 	/**
-	 * Devuelve un array de objetos de secciones a partir del HTML dado. La sección
-	 * cero no está incluida.
+	 * Returns an array of section objects from the given HTML. Section zero
+	 * is not included.
 	 * @param {Object} $ Object with the document as a jQuery object.
-	 * @param {NodeList} nodes Lista de nodos HTML a usar.
-	 * @param {Object} config Configuración a usar.
-	 * @param {int} paperIndex Índice del documento.
+	 * @param {NodeList} nodes List of HTML nodes to use.
+	 * @param {Object} config Config to use.
+	 * @param {int} paperIndex Paper index.
 	 * @return {Object[]}
 	 */
 	getSectionsFromHTML = ($, nodes, config, paperIndex) => {
@@ -1143,12 +1136,12 @@ class Book {
 	};
 
 	/**
-	 * Devuelve datos de un párrafo a partir de un nodo HTML con el párrafo.
-	 * Devuelve null si no es un párrafo válido y debe ser ignorado.
+	 * Returns data from a paragraph from an HTML node with the paragraph.
+	 * Returns null if it is not a valid paragraph and must be ignored.
 	 * @param {Object} $ Object with the document as a jQuery object.
-	 * @param {Node} node Un nodo HTML.
-	 * @param {Object} config Configuración a usar.
-	 * @param {int} paperIndex Índice del documento.
+	 * @param {Node} node HTML node.
+	 * @param {Object} config Config to use.
+	 * @param {int} paperIndex Paper index.
 	 * @return {Object}
 	 */
 	getParFromHTML = ($, node, config, paperIndex) => {
@@ -1181,9 +1174,9 @@ class Book {
 	};
 
 	/**
-	 * Modifica tags especiales en un contenido HTML.
-	 * @param {string} text Text con los tags HTML.
-	 * @param {string[]} errs Array donde almacenar los mensajes de error.
+	 * Modifies special tags in an HTML content.
+	 * @param {string} text Text with HTML tags.
+	 * @param {string[]} errs Array for error messages.
 	 * @return {string}
 	 */
 	modifyTagsInHTML = (text, errs) => {
@@ -1210,24 +1203,23 @@ class Book {
 	//***********************************************************************
 
 	/**
-	 * Escribe `El Libro de Urantia` en formato Wiki, cada documento en un archivo.
-	 * Requiere previamente haber leido el libro desde algun otro formato.
-	 * @param {string} dirPath Carpeta de salida.
-	 * @param {?TopicIndex} topicIndex Un Topic Index opcional.
-	 * @return {Promise} Promesa que devuelve null en la función resolve y un
-	 * array de errores en la función reject.
+	 * Writes `The Urantia Book` in Wiki format, each paper a file.
+	 * It requires reading previously from any format.
+	 * @param {string} dirPath Folder path.
+	 * @param {?TopicIndex} topicIndex An optional Topic Index.
+	 * @return {Promise} Promise that returns null in resolve function or an
+	 * array of errors in reject function.
 	 */
 	writeToWiki = (dirPath, topicIndex) => {
 		return this.writeTo(dirPath, 'wiki', topicIndex);
 	};
 
 	/**
-	 * Escribe en un fichero warnings.json un volcado de los warnings encontrados.
-	 * Los warnings no son errores sino cosas que potencialmente necesitan una
-	 * revisión.
-	 * @param {string} dirPath Carpeta de salida.
-	 * @return {Promise} Promesa que devuelve null en la función resolve y un
-	 * error en la función reject.
+	 * Writes in a file called `warnings.json` the found warnings.
+	 * Warnings are not errors but things that require a review.
+	 * @param {string} dirPath Folder path.
+	 * @return {Promise} Promise that returns null in resolve function or an
+	 * error in reject function.
 	 */
 	writeWarnings = (dirPath) => {
 		const baseName = path.basename(dirPath);
@@ -1235,7 +1227,7 @@ class Book {
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
 				if (err) {
-					reject([new Error(`El directorio ${baseName} no está accesible`)]);
+					reject([this.getError('folder_no_access', baseName)]);
 					return;
 				}
 
@@ -1252,18 +1244,27 @@ class Book {
 	};
 
 	/**
-	 * Escribe las páginas de índices de `El Libro de Urantia` en formato Wiki.
-	 * El nombre de los ficheros resultantes son `El_Libro_de_Urantia_Indice.wiki`
-	 * y `El_Libro_de_Urantia_Indice_extendido.wiki`
-	 * @param {*} dirPath Carpeta de salida.
-	 * @return {Promise} Promesa que devuelve null en la función resolve y un
-	 * error en la función reject.
+	 * Writes index pages of `The Urantia Book` in Wiki format.
+	 * The name of resulting files are `El_Libro_de_Urantia_Indice.wiki`
+	 * and `El_Libro_de_Urantia_Indice_extendido.wiki` or english equivalents.
+	 * @param {string} dirPath Folder path.
+	 * @return {Promise} Promise that returns null in resolve function or an
+	 * error in reject function.
 	 */
 	writeIndexToWiki = (dirPath) => {
 		return new Promise((resolve, reject) => {
-			const lu = 'El_Libro_de_Urantia';
-			const filePath1 = path.join(dirPath, `${lu}_Indice.wiki`);
-			const filePath2 = path.join(dirPath, `${lu}_Indice_extendido.wiki`);
+			const lu = Strings['bookName'][this.language].replace(/\s/g, '_');
+			const abb = Strings['bookAbb'][this.language];
+			const pabb = Strings['bookPaperAbb'][this.language];
+			const ind = Strings['bookIndexName'][this.language].replace(/\s/g, '_');
+			const eind = Strings['bookExtIndexName'][this.language].replace(/\s/g, '_');
+			const part0 = Strings['bookPart0'][this.language].toUpperCase();
+			const part1 = Strings['bookPart1'][this.language].toUpperCase();
+			const part2 = Strings['bookPart2'][this.language].toUpperCase();
+			const part3 = Strings['bookPart3'][this.language].toUpperCase();
+			const part4 = Strings['bookPart4'][this.language].toUpperCase();
+			const filePath1 = path.join(dirPath, `${lu}_${ind}.wiki`);
+			const filePath2 = path.join(dirPath, `${lu}_${eind}.wiki`);
 			let wiki1 = '__NOTOC__\r\n\r\n';
 			let wiki2 = '__NOTOC__\r\n\r\n';
 			let errs = [];
@@ -1277,15 +1278,15 @@ class Book {
 				let error = null;
 
 				if (!Array.isArray(paper.sections)) {
-					error = 'El documento no tiene secciones';
+					error = 'book_no_sections';
 				} else if (paper.sections.find(s => s.section_ref == null)) {
-					error = 'Una sección no tiene referencia';
+					error = 'book_section_no_reference';
 				} else if (!paper.paper_title) {
-					error = 'El documento no tiene título';
+					error = 'book_paper_no_title';
 				}
 
 				if (error) {
-					errs.push(new Error(`${filePath1}: ${error}`));
+					errs.push(this.getError(error, filePath1));
 					return;
 				}
 
@@ -1293,29 +1294,29 @@ class Book {
 				title = this.replaceSpecialChars(title);
 
 				if (i === 0) {
-					part = '== PRÓLOGO ==';
+					part = `== ${part0} ==`;
 				} else if (i === 1) {
-					part = '== PRIMERA PARTE - EL UNIVERSO CENTRAL Y LOS SUPERUNIVERSOS ==';
+					part = `== ${part1} ==`;
 				} else if (i === 32) {
-					part = '== SEGUNDA PARTE - EL UNIVERSO CENTRAL ==';
+					part = `== ${part2} ==`;
 				} else if (i === 57) {
-					part = '== TERCERA PARTE - LA HISTORIA DE URANTIA ==';
+					part = `== ${part3} ==`;
 				} else if (i === 120) {
-					part = '== CUARTA PARTE - LA VIDA Y LAS ENSEÑANZAS DE JESÚS ==';
+					part = `== ${part4} ==`;
 				}
 				if (part) {
 					wiki1 += `${part}\r\n\r\n`;
 					wiki2 += `${part}\r\n\r\n`;
 				}
 				
-				wiki1 += `* [[${lu}_Doc_${i}|${title}]]\r\n`;
+				wiki1 += `* [[${lu}_${pabb}_${i}|${title}]]\r\n`;
 				wiki2 += `=== ${title} ===\r\n\r\n`;
 
 				paper.sections.forEach((section, n) => {
 					const ref = section.section_ref.replace(':', '_');
 					if (section.section_title) {
 						const stitle = this.replaceSpecialChars(section.section_title);
-						wiki2 += `* [[${lu}_Doc_${i}#LU_${ref}|${stitle}]]\r\n`;
+						wiki2 += `* [[${lu}_${pabb}_${i}#${abb}_${ref}|${stitle}]]\r\n`;
 					}
 					if (n === paper.sections.length - 1) {
 						wiki2 += '\r\n';
@@ -1353,16 +1354,15 @@ class Book {
 	};
 
 	/**
-	 * Escribe `El Libro de Urantia` en formato XML de la extensión DataTransfer
-	 * para MediaWiki, cada documento en un archivo si merge es false y si no
-	 * se genera un único archivo `wiki_xml_import.xml`.
-	 * @deprecated No se aconseja usar DataTransfer y usar el formato wiki con
-	 * el script de mantenimiento importTextFiles.php.
-	 * @param {string} dirPath Carpeta de salida.
-	 * @param {?boolean} merge Si fusionar todos los archivos de salida en uno.
-	 * Por defecto es false.
-	 * @return {Promise} Promesa que devuelve null en la función resolve y un
-	 * array de errores en la función reject.
+	 * Writes `The Urantia Book` in XML format of DataTransfer extension for
+	 * MediaWiki, each paper in a file if merge is false or in one file
+	 * called `wiki_xml_import.xml` if not.
+	 * @deprecated It is not recommended to use DataTransfer and use Wiki format
+	 * with mantenaince script `importTextFiles.php`.
+	 * @param {string} dirPath Output folder.
+	 * @param {?boolean} merge If join all output files or not. Fase by default.
+	 * @return {Promise} Promise that returns null in resolve function and an
+	 * array of errors in reject function.
 	 */
 	writeToWikiXML = (dirPath, merge) => {
 		const baseName = path.basename(dirPath);
@@ -1370,7 +1370,7 @@ class Book {
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
 				if (err) {
-					reject([new Error(`El directorio ${baseName} no está accesible`)]);
+					reject([this.getError('folder_no_access', baseName)]);
 					return;
 				}
 				let files = [];
@@ -1409,42 +1409,46 @@ class Book {
 	};
 
 	/**
-	 * Escribe un documento de `El Libro de Urantia` en formato Wiki.
-	 * @param {string} filePath Archivo de salida.
-	 * @param {Object} paper Objeto JSON con el documento.
-	 * @param {?TopicIndex} topicIndex Un Topic Index opcional.
-	 * @return {Promise} Promesa que devuelve null en la función resolve y un
-	 * error en la función reject.
+	 * Writes a paper of `The Urantia Book` in Wiki format.
+	 * @param {string} filePath Output file.
+	 * @param {Object} paper JSON object with the paper.
+	 * @param {?TopicIndex} topicIndex An optional Topic Index.
+	 * @return {Promise} Promise that returns null in resolve function and an
+	 * error in reject function.
 	 */
 	writeFileToWiki = (filePath, paper, topicIndex) => {
 		return new Promise((resolve, reject) => {
-			let wiki = '', ptitle, error;
+			let wiki = '', ptitle, error, error_par_ref;
 			const end = '\r\n\r\n';
-			const eldu = 'El Libro de Urantia';
+			const eldu = Strings['bookName'][this.language];
+			const abb = Strings['bookAbb'][this.language];
+			const docAbb = Strings['bookPaperAbb'][this.language];
+			const indexName = Strings['bookIndexName'][this.language];
 			const prev = paper.paper_index - 1;
 			const next = paper.paper_index + 1;
 			let docPrev = (paper.paper_index === 0 ? null :
 				this.papers.find(p=>p.paper_index === prev).paper_title);
 			let docNext = (paper.paper_index === 196 ? ' ' :
 				this.papers.find(p=>p.paper_index === next).paper_title);
-			docPrev = (docPrev ? `[[${eldu} Doc ${prev}|${docPrev}]]` : ' ');
-			docNext = (docNext ? `[[${eldu} Doc ${next}|${docNext}]]` : ' ');
+			docPrev = (docPrev ? `[[${eldu} ${docAbb} ${prev}|${docPrev}]]` : ' ');
+			docNext = (docNext ? `[[${eldu} ${docAbb} ${next}|${docNext}]]` : ' ');
 
 			let header = '\r\n{| class="wikitable" style="width:100%;"\r\n' +
-				`| ${docPrev} || [[${eldu} Indice|Índice]] || ${docNext}\r\n|}${end}`;
+				`| ${docPrev} || [[${eldu} ${indexName}|${indexName}]] ||` +
+				` ${docNext}\r\n|}${end}`;
 
 			if (!Array.isArray(paper.sections)) {
-				error = 'El documento no tiene secciones';
+				error = 'book_no_sections';
 			} else if (paper.sections.find(s => s.section_ref == null)) {
-				error = 'Una sección no tiene referencia';
+				error = 'book_section_no_reference';
 			} else if (paper.sections.find(s => !Array.isArray(s.pars))) {
-				error = 'Una sección no tiene párrafos';
+				error = 'book_section_no_pars';
 			} else if (!paper.paper_title) {
-				error = 'El documento no tiene título';
+				error = 'book_paper_no_title';
 			}
 
 			if (error) {
-				reject(new Error(`${filePath}: ${error}`));
+				reject(this.getError(error, filePath));
 				return;
 			}
 
@@ -1464,7 +1468,8 @@ class Book {
 				}
 			});
 			if (wfnErr.length > 0) {
-				reject(new Error(`${filePath}: Error en footnotes: ${wfnErr.join(',')}`));
+				reject(this.getError('book_error_footnotes', filePath, 
+					wfnErr.join(',')));
 				return;
 			}
 			let footnoteIndex = 0;
@@ -1473,7 +1478,7 @@ class Book {
 			paper.sections.forEach(section => {
 				let ref, anchor, stitle;
 				ref = section.section_ref.replace(':', '_');
-				anchor = `{{anchor|LU_${ref}}}`;
+				anchor = `{{anchor|${abb}_${ref}}}`;
 				if (section.section_title) {
 					stitle = this.replaceSpecialChars(section.section_title);
 					stitle = stitle.toUpperCase();
@@ -1485,13 +1490,14 @@ class Book {
 				section.pars.forEach(par => {
 					let pref, supref, panchor, pcontent, aref, topics, di, si, pi;
 					if (!par.par_ref || !par.par_content) {
-						error = 'Un párafo no tiene referencia o contenido';
+						error = 'book_par_no_refcontent';
 						return;
 					}
 					try {
 						aref = this.getRef(par.par_ref);
 					} catch (err) {
-						error = 'La referencia no es válida en ' + par.par_ref;
+						error_par_ref = par.par_ref;
+						error = 'book_no_valid_reference';
 					}
 					if (!aref) {
 						return;
@@ -1501,7 +1507,7 @@ class Book {
 					pi = aref[2];
 					pref = par.par_ref.replace(/[:\.]/g,'_');
 					supref = `<sup><small>${par.par_ref}</small></sup>`;
-					panchor = `{{anchor|LU_${pref}}}`;
+					panchor = `{{anchor|${abb}_${pref}}}`;
 					pcontent = par.par_content.replace(/\*/g, '\'\'');
 					replaceErr = [];
 					pcontent = replaceTags(pcontent, '$', '$', 
@@ -1535,7 +1541,8 @@ class Book {
 							pcontent = replaceWords(names, links, pcontent);
 							if (previous === pcontent) {
 								this.warnings.push(
-									`${topic.name} no encontrado en ${par.par_ref}`);
+									strformat(Strings['book_item_no_found'][this.language],
+									topic.name, par.par_ref));
 							}
 						});
 					}
@@ -1554,12 +1561,13 @@ class Book {
 			wiki += header;
 
 			if (wfootnotes.length > 0) {
-				wiki += `== Referencias ==${end}<references>\r\n`;
+				wiki += `== ${Strings['topic_references'][this.language]} ==` +
+					`${end}<references>\r\n`;
 				wfootnotes.forEach(f => wiki += f);
 				wiki += '</references>';
 			}
 			if (error) {
-				reject(new Error(`${filePath}: ${error}`));
+				reject(this.getError(error, filePath, error_par_ref));
 				return;
 			}
 			fs.writeFile(filePath, wiki, 'utf-8', (err) => {
@@ -1573,37 +1581,43 @@ class Book {
 	};
 
 	/**
-	 * Escribe uno o varios documentos de `El Libro de Urantia` en formato XML de 
-	 * la extensión DataTransfer para MediaWiki.
-	 * @deprecated No se aconseja usar DataTransfer y usar el formato wiki con
-	 * el script de mantenimiento importTextFiles.php
-	 * @param {string} filePath Archivo de salida.
-	 * @param {Array.<Object>} papers Array de objetos JSON con los documentos.
-	 * @return {Promise} Promesa que devuelve null en la función resolve y un
-	 * error en la función reject.
+	 * Writes one or more papers of `The Urantia Book` in XML format for 
+	 * DataTransfer extension of MediaWiki.
+	 * @deprecated It is not recommended to use DataTransfer and use Wiki format
+	 * with the maintenance script `importTextFiles.php`.
+	 * @param {string} filePath Output file.
+	 * @param {Array.<Object>} papers Array of JSON objects with papers.
+	 * @return {Promise} Promise that returns null in resolve function or an
+	 * error in reject function.
 	 */
 	writeFileToWikiXML = (filePath, papers) => {
 		return new Promise((resolve, reject) => {
+			const abb = Strings['bookAbb'][this.language];
+			const lu = Strings['bookName'][this.language].replace(/\s/g, '_');
+			const pabb = Strings['bookPaperAbb'][this.language];
+
 			let xml = '<Pages>\r\n';
 			let error;
 
 			papers.forEach(paper => {
+				
+
 				if (!Array.isArray(paper.sections)) {
-					error = 'El documento no tiene secciones';
+					error = 'book_no_sections';
 				} else if (paper.sections.find(s => s.section_ref == null)) {
-					error = 'Una sección no tiene referencia';
+					error = 'book_section_no_reference';
 				} else if (paper.sections.find(s => !Array.isArray(s.pars))) {
-					error = 'Una sección no tiene párrafos';
+					error = 'book_section_no_pars';
 				} else if (!paper.paper_title) {
-					error = 'El documento no tiene título';
+					error = 'book_paper_no_title';
 				}
 
 				if (error) {
-					reject(new Error(`${filePath}: ${error}`));
+					reject(this.getError(error, filePath));
 					return;
 				}
 
-				xml += `<Page Title="El_Libro_de_Urantia_Doc_${paper.paper_index}">\r\n`;
+				xml += `<Page Title="${lu}_${pabb}_${paper.paper_index}">\r\n`;
 				
 				const section0 = paper.sections.find(s => s.section_index === 0);
 				const ptitle = paper.paper_title.toUpperCase();
@@ -1621,7 +1635,8 @@ class Book {
 					}
 				});
 				if (wfnErr.length > 0) {
-					reject(new Error(`${filePath}: Error en footnotes: ${wfnErr.join(',')}`));
+					reject(this.getError('book_error_footnotes', filePath, 
+						wfnErr.join(',')));
 					return;
 				}
 				let footnoteIndex = 0;
@@ -1630,7 +1645,7 @@ class Book {
 					let ref, anchor, stitle;
 					ref = section.section_ref.replace(':', '_');
 					anchor = '<Template Name="anchor">' +
-						`<Field Name="1">LU_${ref}</Field>` +
+						`<Field Name="1">${abb}_${ref}</Field>` +
 						'</Template>';
 					if (section.section_title) {
 						stitle = section.section_title.toUpperCase();
@@ -1644,12 +1659,12 @@ class Book {
 					section.pars.forEach(par => {
 						let pref, panchor, pcontent;
 						if (!par.par_ref || !par.par_content) {
-							error = 'Un párafo no tiene referencia o contenido';
+							error = 'book_par_no_refcontent';
 							return;
 						}
 						pref = par.par_ref.replace(/[:\.]/g,'_');
 						panchor = '<Template Name="anchor">' +
-							`<Field Name="1">LU_${pref}</Field>` +
+							`<Field Name="1">${abb}_${pref}</Field>` +
 							'</Template>';
 						pcontent = par.par_content.replace(/\*/g, '\'\'');
 						while (wfootnotes.length > 0 && 
@@ -1660,11 +1675,14 @@ class Book {
 							footnoteIndex++;
 						}
 
-						xml += `${panchor}<Free_Text>&lt;p&gt;${pcontent}&lt;/p&gt;</Free_Text>\r\n`;
+						xml += `${panchor}<Free_Text>&lt;p&gt;${pcontent}` +
+							`&lt;/p&gt;</Free_Text>\r\n`;
 					});
 				});
 				if (wfootnotes.length > 0) {
-					xml += `<Free_Text>== Referencias ==</Free_Text>\r\n`;
+					xml += `<Free_Text>== ` +
+						`${Strings['topic_references'][this.language]} ` +
+						`==</Free_Text>\r\n`;
 					xml += `<Free_Text>&lt;references&gt;</Free_Text>\r\n`;
 					wfootnotes.forEach(f => xml += f);
 					xml += '<Free_Text>&lt;/references&gt;</Free_Text>\r\n'
@@ -1675,7 +1693,7 @@ class Book {
 			xml += '</Pages>';
 
 			if (error) {
-				reject(new Error(`${filePath}: ${error}`));
+				reject(this.getError(error, filePath));
 				return;
 			}
 
@@ -1690,10 +1708,10 @@ class Book {
 	};
 
 	/**
-	 * Convierte el array de las notas a pie de página en formato Wiki o en
-	 * el formato XML de la extensión DataTransfer de MediaWiki si xml=true.
-	 * @param {Array.<Object>} footnotes Array de las notas al pie de página.
-	 * @param {boolean} xml Si true se convierte al formato XML, si no a Wiki.
+	 * Converts the array of footnotes in Wiki format or XML format (DataTransfer
+	 * extension) if xml=true.
+	 * @param {Array.<Object>} footnotes Array of footnotes.
+	 * @param {boolean} xml If true converts to XML, otherwise to Wiki.
 	 * @return {string}
 	 */
 	footnotesToWiki = (footnotes, xml) => {
@@ -1784,19 +1802,15 @@ class Book {
 	};
 
 	/**
-	 * Obtiene la abreviatura de la Biblia para una referencia.
-	 * @param {string} content Referencia de la Biblia.
-	 * @return {string}
+	 * Gets the Bible abbreviation for a reference or null if not found.
+	 * @param {string} content Bible reference.
+	 * @return {?string}
 	 */
 	findAbr = (content) => {
-		//TODO: Esto solo funciona para español
-		//Localiza cuál es la abreviatura
-		for (let ab in BibleAbb_es) {
-			if (content.startsWith(ab)) {
-				return ab;
-			}
-		}
-		return null;
+		const abbs = Object.keys(BibleAbbs[this.language]);
+		const abbs_filter = abbs.filter(ab => content.startsWith(ab));
+		return (abbs_filter.length === 0 ? null :
+			abbs_filter.reduce((a,b) => a.length > b.length ? a : b));
 	};
 
 
@@ -1805,35 +1819,37 @@ class Book {
 	//***********************************************************************
 
 	/**
-	 * Devuelve un error con los datos dados.
-	 * @param {string} file Archivo en el que se produce el error.
-	 * @param {number} linenum Línea con el error.
-	 * @param {string} msg Mensaje de error.
-	 * @return {Error}
+	 * Returns an error.
+	 * @param  {...any} params Params.
+	 * @returns {Error}
 	 */
-	createError = (file, linenum, msg) => {
-		return new Error(`${file}, línea ${linenum + 1}: ${msg}`);
+	getError = (...params) => {
+		const msg = params[0];
+		return new Error(
+			strformat(Strings[msg][this.language], ...params.slice(1)));
 	};
 
 	/**
-	 * Escribe `El Libro de Urantia` en el formato especificado, cada documento 
-	 * en un archivo.
-	 * Requiere previamente haber leido el libro desde algun otro formato.
-	 * @param {string} dirPath Carpeta de salida.
-	 * @param {string} format Formato de salida. Puede ser `json`, `tex` o `wiki`.
-	 * @param {?TopicIndex} topicIndex Un Topic Index opcional.
-	 * @return {Promise} Promesa que devuelve null en la función resolve y un
-	 * array de errores en la función reject.
+	 * Writes `The Urantia Book` in the giving format, each paper in a file.
+	 * Requires previously to read the book in any format.
+	 * @param {string} dirPath Folder path.
+	 * @param {string} format Output format. Can be `json`, `tex` o `wiki`.
+	 * @param {?TopicIndex} topicIndex An optional Topic Index.
+	 * @return {Promise} Promise that returns null in resolve function or
+	 * an array of errors in reject function.
 	 */
 	writeTo = (dirPath, format, topicIndex) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
 				if (err) {
-					reject([new Error(`El directorio ${baseName} no está accesible`)]);
+					reject([this.getError('folder_no_access', baseName)]);
 					return;
 				}
 				const promises = this.papers.map(paper => {
+					const bookName = Strings['bookName'][this.language]
+						.replace(/\s/g, '_');
+					const paperAbb = Strings['bookPaperAbb'][this.language];
 					const i = paper.paper_index;
 					const stri = (i > 99 ? `${i}` : (i > 9 ? `0${i}` : `00${i}`));
 					let filePath = path.join(dirPath, `Doc${stri}.${format}`);
@@ -1844,7 +1860,7 @@ class Book {
 						p = this.writeFileToLaTeX(filePath, paper);
 					} else if (format = 'wiki') {
 						filePath = path.join(dirPath, 
-							`El_Libro_de_Urantia_Doc_${i}.${format}`);
+							`${bookName}_${paperAbb}_${i}.${format}`);
 						p = this.writeFileToWiki(filePath, paper, topicIndex);
 					} else {
 						p = Promise.resolve(null);

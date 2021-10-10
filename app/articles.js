@@ -1,19 +1,24 @@
-//Reader/Writer para pasar artículos a *.wiki
+//Reader/Writer for converting articles to *.wiki
 
 const readFrom = require('./utils').readFrom;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
 const fs = require('fs');
 const path = require('path');
+const Strings = require('./strings');
 
 class Articles {
-
+	language = 'en';
 	docs = [];
 	onProgressFn = null;
+
+	setLanguage = (language) => {
+		this.language = language;
+	};
 	
 	/**
-	 * Lee todos los archivos TXT de una carpeta.
-	 * @param {string} dirPath Carpeta de entrada.
+	 * Reads all articles in TXT format in a folder.
+	 * @param {string} dirPath Input folder.
 	 * @returns {Promise}
 	 */
 	readFromTXT = (dirPath) => {
@@ -22,15 +27,15 @@ class Articles {
 	};
 
 	/**
-	 * Limpia los documentos almacenados en esta clase.
+	 * Clears articles previously read.
 	 */
 	clear = () => {
 		this.docs = [];
 	};
 
 	/**
-	 * Lee un artículo en formato TXT.
-	 * @param {string} filePath Archivo TXT.
+	 * Reads an article in TXT format.
+	 * @param {string} filePath TXT file.
 	 * @return {Promise}
 	 */
 	readFileFromTXT = (filePath) => {
@@ -83,7 +88,13 @@ class Articles {
 		});
 	};
 
+	/**
+	 * Replace some common strings wrongly typed.
+	 * @param {string} content Text to change.
+	 * @returns {string}
+	 */
 	replaceChars = (content) => {
+		//TODO: support english
 		return content
 			.replace(/  /g, ' ')
 			.replace(/del LU/g, 'de El Libro de Urantia')
@@ -95,8 +106,8 @@ class Articles {
 	};
 
 	/**
-	 * Escribe los artículos a formato Wiki.
-	 * @param {string} dirPath  Carpeta de salida.
+	 * Writes articles in Wiki format.
+	 * @param {string} dirPath Output folder.
 	 * @return {Promise}
 	 */
 	writeToWiki = (dirPath) => {
@@ -104,7 +115,7 @@ class Articles {
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
 				if (err) {
-					reject([new Error(`El directorio ${baseName} no está accesible`)]);
+					reject([this.getError('folder_no_access', baseName)]);
 					return;
 				}
 				const promises = this.docs.map(doc => {
@@ -128,9 +139,9 @@ class Articles {
 	};
 
 	/**
-	 * Escribe un artículo a Wiki.
-	 * @param {string} filePath Archivo Wiki de salida.
-	 * @param {Object} doc Objeto el artículo.
+	 * Writes an article to Wiki format.
+	 * @param {string} filePath Output file.
+	 * @param {Object} doc Article object.
 	 * @return {Promise}
 	 */
 	writeFileToWiki = (filePath, doc) => {
@@ -149,11 +160,11 @@ class Articles {
 				wiki += par + end;
 			});
 
-			//TODO: Corregir espacios en blanco por encima de 2 entre palabras
+			//TODO: Fix blank spaces if more than 2 between words
 
-			//TODO: Añadir blockquotes al detectar una cita del libro
+			//TODO: Add blockquotes when detecting a quote
 
-			//TODO: Añadir sección de referencias
+			//TODO: Add references section
 
 
 			fs.writeFile(filePath, wiki, 'utf-8', (err) => {
@@ -167,8 +178,8 @@ class Articles {
 	};
 
 	/**
-	 * Convierte una referencia a formato Wiki.
-	 * @param {string} ref Referencia.
+	 * Converts a reference to Wiki format.
+	 * @param {string} ref Reference.
 	 * @return {string}
 	 */
 	refToWiki = (ref) => {
@@ -186,7 +197,16 @@ class Articles {
 		return wiki;
 	};
 
-
+	/**
+	 * Returns an error.
+	 * @param  {...any} params Params.
+	 * @returns {Error}
+	 */
+	 getError = (...params) => {
+		const msg = params[0];
+		return new Error(
+			strformat(Strings[msg][this.language], ...params.slice(1)));
+	};
 
 };
 

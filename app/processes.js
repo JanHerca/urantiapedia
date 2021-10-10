@@ -15,7 +15,7 @@ const Processes = {
 			es: "Guardar Refs Biblia en Libro de Urantia (JSON) en JSON"
 		},
 		controls: ['dirJTextbox'],
-		paths: ['json/book-{0}']
+		paths: ['json/book-{0}-footnotes']
 	},
 	"LU_JSON_BIBLEREF_JSON_TO_JSON": {
 		active: true,
@@ -51,7 +51,7 @@ const Processes = {
 			es: "Convertir Libro de Urantia (LaTeX) + TopicIndex (TXT) a Wiki"
 		},
 		controls: ['dirLTextbox', 'dirTTextbox', 'dirWTextbox', 'drpCategories'],
-		paths: ['tex/book-{0}', 'txt/topic-index-{0}', 'wiki/book-{0}']
+		paths: ['tex/book-{0}-footnotes', 'txt/topic-index-{0}', 'wiki/book-{0}']
 	},
 	"LU_TEX_TO_XML": {
 		active: false,
@@ -69,7 +69,7 @@ const Processes = {
 			es: "Convertir Libro de Urantia (JSON) a LaTeX"
 		},
 		controls: ['dirJTextbox', 'dirLTextbox'],
-		paths: ['json/book-{0}', 'tex/book-{0}']
+		paths: ['json/book-{0}-footnotes', 'tex/book-{0}']
 	},
 	"LU_JSON_TOPIC_TXT_TO_WIKI": {
 		active: true,
@@ -78,7 +78,7 @@ const Processes = {
 			es: "Convertir Libro de Urantia (JSON) + TopicIndex (TXT) a Wiki"
 		},
 		controls: ['dirJTextbox', 'dirTTextbox', 'dirWTextbox', 'drpCategories'],
-		paths: ['json/book-{0}', 'txt/topic-index-{0}', 'wiki/book-{0}']
+		paths: ['json/book-{0}-footnotes', 'txt/topic-index-{0}', 'wiki/book-{0}']
 	},
 	"LU_JSON_TO_XML": {
 		active: false,
@@ -87,7 +87,7 @@ const Processes = {
 			es: "Convertir Libro de Urantia (JSON) a WikiXML"
 		},
 		controls: ['dirJTextbox', 'dirWTextbox'],
-		paths: ['json/book-{0}', 'xml/book-{0}']
+		paths: ['json/book-{0}-footnotes', 'xml/book-{0}']
 	},
 	"LUINDEX_JSON_TO_WIKI": {
 		active: true,
@@ -96,7 +96,7 @@ const Processes = {
 			es: "Convertir Indice de Libro de Urantia (JSON) a Wiki"
 		},
 		controls: ['dirJTextbox', 'dirWTextbox'],
-		paths: ['json/book-{0}', 'wiki/book-{0}']
+		paths: ['json/book-{0}-footnotes', 'wiki/book-{0}']
 	},
 	"BIB_TEX_BIBREF_TXT_TO_WIKI": {
 		active: true,
@@ -162,7 +162,7 @@ const Processes = {
 			es: "Revisar TopicIndex (TXT) + JSON (LU)"
 		},
 		controls: ['dirTTextbox', 'dirJTextbox', 'drpCategories', 'drpTopics'],
-		paths: ['txt/topic-index-{0}', 'json/book-{0}']
+		paths: ['txt/topic-index-{0}', 'json/book-{0}-footnotes']
 	},
 	"SUM_TOPIC_TXT": {
 		active: true,

@@ -9,12 +9,16 @@ const Articles = require('./articles');
 const Processes = require('./processes');
 const Strings = require('./strings');
 const strformat = require('./utils').strformat;
+const extendArray = require('./utils').extendArray;
 
 const book = new Book();
 const bible = new Bible();
 const bibleref = new BibleRef();
 const topicindex = new TopicIndex();
 const articles = new Articles();
+
+let lan = 'en';
+let uilan = 'en';
 
 const controls = {
 	dirHButton: null,
@@ -34,6 +38,8 @@ const controls = {
 	lblWTextbox: null,
 	drpLanguage: null,
 	lblLanguage: null,
+	drpUILanguage: null,
+	lblUILanguage: null,
 	drpProcess: null,
 	lblProcess: null,
 	exeButton: null,
@@ -52,12 +58,20 @@ let collapsed = false;
 const collapsableControls = ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 
 	'dirJTextbox', 'dirWTextbox', 'chkMerge', 'drpCategories', 'drpTopics'];
 
-const topicTypes = ['TODOS', 'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION', 
-	'OTRO'];
+const topicTypes = ['ALL', 'PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 
+	'OTHER', 'NONE'];
 
 const onLoad = () => {
 	Object.keys(controls).forEach(id => controls[id] = document.querySelector('#' + id));
-	updateUI();
+
+	//Fill Book language dropdown
+	controls.drpLanguage.innerHTML = Object.keys(Strings['bookLanguages']).map(key => {
+		const desc = Strings['bookLanguages'][key];
+		const sel = (lan == key ? ' selected' : '');
+		return `<option value="${key}"${sel}>${desc}</option>`;
+	}).join('');
+
+	//Set handlers
 	controls.dirHButton.addEventListener('click', 
 		handle_dirButtonClick.bind(this, controls.dirHTextbox));
 	controls.dirTButton.addEventListener('click', 
@@ -71,6 +85,7 @@ const onLoad = () => {
 	controls.exeButton.addEventListener('click', handle_exeButtonClick);
 	controls.collapseButton.addEventListener('click', handle_collapseButtonClick);
 	controls.drpLanguage.addEventListener('change', handle_drpLanguageChange);
+	controls.drpUILanguage.addEventListener('change', handle_drpUILanguageChange);
 	controls.drpProcess.addEventListener('change', handle_drpProcessChange);
 	controls.drpTopics.addEventListener('change', handle_drpTopicsChange);
 	book.onProgressFn = onProgress;
@@ -79,17 +94,17 @@ const onLoad = () => {
 	topicindex.onProgressFn = onProgress;
 	articles.onProgressFn = onProgress;
 
-	handle_drpLanguageChange();
+	//Update UI
+	handle_drpUILanguageChange();
 	handle_drpProcessChange();
 };
 
 const updateUI = () => {
-	const lan = controls.drpLanguage.value;
 	const process = controls.drpProcess.value;
 
 	controls.drpProcess.innerHTML = Object.keys(Processes).map(key => {
 		const p = Processes[key];
-		const desc = p.desc[lan];
+		const desc = p.desc[uilan];
 		const sel = (process == key ? ' selected' : '');
 		return (p.active ? `<option value="${key}"${sel}>${desc}</option>` : '');
 	}).join('');
@@ -101,11 +116,29 @@ const updateUI = () => {
 	Object.keys(controls).forEach(key => {
 		const control = controls[key];
 		const tagName = control.tagName.toUpperCase();
-		const text = (Strings[key] ? Strings[key][lan] : '');
+		const text = (Strings[key] ? Strings[key][uilan] : '');
 		if (tagName === 'LABEL' || tagName === 'BUTTON') {
 			control.innerHTML = text;
 		} else if (tagName === 'INPUT' && text != '') {
 			control.setAttribute('placeholder', text);
+		}
+	});
+};
+
+const updateDefaultPaths = () => {
+	const process = controls.drpProcess.value;
+	if (!process || !Processes[process]) {
+		return;
+	}
+	const cnames = Processes[process].controls;
+	const paths = Processes[process].paths;
+	const subpath = (Processes[process].subpath ? 
+		Processes[process].subpath[lan] : '');
+	cnames.forEach((c,i) => {
+		if (paths && paths[i]) {
+			const folderpath = path.join(app.getAppPath(), 'input',
+				strformat(paths[i], lan, `/${subpath}`));
+			controls[c].value = folderpath;
 		}
 	});
 };
@@ -128,6 +161,17 @@ const handle_collapseButtonClick = () => {
 };
 
 const handle_drpLanguageChange = (evt) => {
+	lan = controls.drpLanguage.value;
+	book.setLanguage(lan);
+	bible.setLanguage(lan);
+	bibleref.setLanguage(lan);
+	topicindex.setLanguage(lan);
+	articles.setLanguage(lan);
+	updateDefaultPaths();
+};
+
+const handle_drpUILanguageChange = (evt) => {
+	uilan = controls.drpUILanguage.value;
 	updateUI();
 };
 
@@ -137,36 +181,26 @@ const handle_drpProcessChange = (evt) => {
 		return;
 	}
 	const cnames = Processes[process].controls;
-	const paths = Processes[process].paths;
-	const lan = controls.drpLanguage.value;
-	const subpath = (Processes[process].subpath ? 
-		Processes[process].subpath[lan] : '');
 	collapsableControls.forEach(c => {
 		const hide = (collapsed || cnames.indexOf(c) === -1);
 		controls[c].parentNode.parentNode.parentNode.classList.toggle('d-none',
 			hide);
 	});
-	cnames.forEach((c,i) => {
-		if (paths && paths[i]) {
-			const folderpath = path.join(app.getAppPath(), 'input',
-				strformat(paths[i], lan, `/${subpath}`));
-			controls[c].value = folderpath;
-		}
-	});
+	updateDefaultPaths();
 };
 
 const handle_exeButtonClick = () => {
 	showProgress(true);
 	
 	const process = controls.drpProcess.value;
-	const okMsgs = ['Conversión realizada con éxito'];
+	const okMsgs = [Strings['success'][uilan]];
 	const htmlDir = controls.dirHTextbox.value;
 	const latexDir = controls.dirLTextbox.value;
 	const jsonDir = controls.dirJTextbox.value;
 	const txtDir = controls.dirTTextbox.value;
 	const wikiDir = controls.dirWTextbox.value;
 	const category = controls.drpCategories.value;
-	const merge = controls.chkMerge.checked;
+	// const merge = controls.chkMerge.checked;
 	const ctrls = Processes[process].controls;
 
 	if (!checkControls(ctrls)) {
@@ -174,20 +208,20 @@ const handle_exeButtonClick = () => {
 	}
 
 	if (process ==='BIBREF_TXT_LU_JSON_TO_TXT') {
-		// Leemos LU (*.json) + Refs Biblia (*.txt) => escribimos traducción (*.txt)
+		// Read UB (*.json) + Bible Refs (*.txt) => write translation (*.txt)
 		book.readFromJSON(jsonDir)
 			.then(() => bibleref.readFromTXT(txtDir))
 			.then(() => bibleref.translate(txtDir, book))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'LU_JSON_TO_BIBREF_JSON') {
-		// Leemos LU (*.json) de una traducción con Refs Biblia => escribimos (*.json)
+		// Read UB (*.json) from a translation with Bible Refs => write (*.json)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeRefsToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'LU_JSON_BIBLEREF_JSON_TO_JSON') {
-		//Leemos LU (*.json) + Refs Biblia (*.json) => escribimos (*.json)
+		//Read UB (*.json) + Bible Refs (*.json) => write (*.json)
 		book.readFromJSON(jsonDir)
 			.then(() => book.readRefsFromJSON(jsonDir))
 			.then(() => book.updateRefs())
@@ -196,27 +230,28 @@ const handle_exeButtonClick = () => {
 				let parentPath = path.dirname(jsonDir);
 				let newjsonDir = path.join(parentPath, `${baseName}-footnotes`);
 				if (!fs.existsSync(newjsonDir)) {
-					return Promise.reject(
-						[new Error(`Es necesario crear la carpeta ${baseName}-footnotes`)]);
+					return Promise.reject([new Error(
+						strformat(Strings['footnotes_folder_required'][uilan],
+						baseName))]);
 				}
 				return book.writeToJSON(newjsonDir);
 			})
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'LU_HTML_TO_JSON') {
-		// Leemos LU (*.html) => escribimos (*.json)
+		// Read UB (*.html) => write (*.json)
 		book.readFromHTML(htmlDir)
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'LU_TEX_TO_JSON') {
-		// Leemos LU (*.tex) => escribimos (*.json)
+		// Read UB (*.tex) => write (*.json)
 		book.readFromLaTeX(latexDir)
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'LU_TEX_TOPIC_TXT_TO_WIKI') {
-		// Leemos LU (*.tex) + Topic Index (*.txt) => escribimos (*.wiki)
+		// Read UB (*.tex) + Topic Index (*.txt) => write (*.wiki)
 		book.readFromLaTeX(latexDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
 			.then(() => book.writeToWiki(wikiDir, topicindex))
@@ -224,19 +259,19 @@ const handle_exeButtonClick = () => {
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'LU_TEX_TO_XML') {
-		// Leemos LU (*.tex) => escribimos Wiki (*.xml)
+		// Read UB (*.tex) => write Wiki (*.xml)
 		// book.readFromLaTeX(latexDir)
 		// 	.then(() => book.writeToWikiXML(wikiDir, merge))
 		// 	.then(() => onSuccess(okMsgs))
 		// 	.catch(onFail);
 	} else if (process === 'LU_JSON_TO_TEX') {
-		// Leemos LU (*.json) => escribimos (*.tex) 
+		// Read UB (*.json) => write (*.tex) 
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeToLaTeX(latexDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'LU_JSON_TOPIC_TXT_TO_WIKI') {
-		// Leemos LU (*.json) + Topic Index (*.txt) => escribimos (*.wiki)
+		// Read UB (*.json) + Topic Index (*.txt) => write (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
 			.then(() => book.writeToWiki(wikiDir, topicindex))
@@ -244,50 +279,50 @@ const handle_exeButtonClick = () => {
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'LU_JSON_TO_XML') {
-		// Leemos LU (*.json) => escribimos Wiki (*.xml)
+		// Read UB (*.json) => write Wiki (*.xml)
 		// book.readFromJSON(jsonDir)
 		// 	.then(() => book.writeToWikiXML(wikiDir))
 		// 	.then(() => onSuccess(okMsgs))
 		// 	.catch(onFail);
 	} else if (process === 'LUINDEX_JSON_TO_WIKI') {
-		//Leemos LU (*.json) => escribimos Indices (*.wiki)
+		//Read UB (*.json) => write Indexes (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeIndexToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIB_TEX_BIBREF_TXT_TO_WIKI') {
-		// Leemos Refs Biblia (*.txt) + leemos Biblia (*.tex) => escribimos (*.wiki)
+		// Read Bible Refs (*.txt) + read Bible (*.tex) => write (*.wiki)
 		bibleref.readFromTXT(txtDir)
 			.then(() => bible.readFromLaTeX(latexDir))
 			.then(() => bible.writeToWiki(wikiDir, bibleref))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIB_TEX_TO_BIBINDEX_WIKI') {
-		// Leemos Biblia (*.tex) => escribimos índice (*.wiki)
+		// Read Bible (*.tex) => write index (*.wiki)
 		bible.readFromLaTeX(latexDir)
 			.then(() => bible.writeIndexToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIB_TEX_TO_XML') {
-		// Leemos Biblia (*.tex) => escribimos Wiki (*.xml)
+		// Read Bible (*.tex) => write Wiki (*.xml)
 		// bible.readFromLaTeX(latexDir)
 		// 	.then(() => bible.writeToWikiXML(wikiDir, merge))
 		// 	.then(() => onSuccess(okMsgs))
 		// 	.catch(onFail);
 	} else if (process === 'TOPIC_TXT_TO_WIKI') {
-		// Leemos TopicIndex (*.txt) => escribimos en (*.wiki)
+		// Read TopicIndex (*.txt) => write (*.wiki)
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => topicindex.writeToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'TOPICINDEX_TXT_TO_WIKI') {
-		// Leemos Indice de TopicIndex (*.txt) => escribimos (*.wiki)
+		// Read TopicIndex index (*.txt) => write (*.wiki)
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => topicindex.writeIndexToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'REVIEW_TOPIC_TXT_LU_JSON') {
-		// Leemos TopicIndex (*.txt) => luego leemos LU (*.json)
+		// Read TopicIndex (*.txt) => Read UB (*.json) => check
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => book.readFromJSON(jsonDir))
 			.then(() => topicindex.check(book))
@@ -298,7 +333,7 @@ const handle_exeButtonClick = () => {
 				showTopic(topicindex.topics[0].name);
 			}).catch(onFail);
 	} else if (process === 'SUM_TOPIC_TXT') {
-		// Leemos TopicIndex (*.txt) => luego sacamos un resumen
+		// Read TopicIndex (*.txt) => summary
 		topicindex.readFromTXT(txtDir, 'TODOS')
 			.then(() => {
 				let summary = topicindex.getSummary();
@@ -306,13 +341,12 @@ const handle_exeButtonClick = () => {
 				showTopicSummary(summary);
 			}).catch(onFail);
 	} else if (process === 'NORM_TOPIC_TXT') {
-		// Leemos TopicIndex (*.txt) => volvemos a escribir igual
-		// pero modificando la primera línea de cada entrada
+		// Read TopicIndex (*.txt) => rewrite but modifying first entry line
 		topicindex.normalize(txtDir)
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'ARTICLE_TXT_TO_WIKI') {
-		// Leemos carpeta con TXT => escribimos (*.wiki)
+		// Read TXT folder => write (*.wiki)
 		articles.readFromTXT(txtDir)
 			.then(() => articles.writeToWiki(wikiDir))
 			.then(() => onSuccess(okMsgs))
@@ -327,7 +361,7 @@ const handle_drpTopicsChange = (evt) => {
 const checkControls = (cnames) => {
 	const ctrls = cnames.map(c => controls[c]);
 	if (ctrls.find(cc => cc.localName === 'input' && cc.value === '')) {
-		onFail([new Error('Falta uno de los directorios de entrada')]);
+		onFail([new Error(Strings['folder_required'][uilan])]);
 		return false;
 	}
 	return true;
@@ -349,7 +383,8 @@ const showProgress = (show) => {
 
 const showErrors = (errors) => {
 	controls.logArea.innerHTML = errors.map(err=> {
-		return `<p class="text-danger mb-1">${err.message}</p>`;
+		const stack = err.stack.split('at').slice(0, 2).join('at');
+		return `<p class="text-danger mb-1">${err.message} | ${stack}</p>`;
 	}).join('');
 };
 
@@ -360,9 +395,9 @@ const showInfos = (infos) => {
 };
 
 const showTopicList = () => {
-	// Rellenamos desplegable
+	// Fill dropdown
 	const topics = topicindex.topics
-		/*.filter(t => t.type != 'OTRO' && t.lines.length < 4)*/
+		/*.filter(t => t.type != 'OTHER' && t.lines.length < 4)*/
 		.sort((a, b) => {
 			if (a.sorting > b.sorting) return 1;
 			if (a.sorting < b.sorting) return -1;
@@ -426,9 +461,9 @@ const showTopic = (name) => {
 };
 
 const showTopicSummary = (obj) => {
-	var columns = ['#', 'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION', 'OTRO', 
-		'REDIREC', 'REVISADO', 'TOTAL'];
-	var columns2 = columns.slice(1);
+	const columns = ['#', 'PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 'OTHER', 
+		'REDIREC', 'REVISED', 'TOTAL'];
+	const columns2 = columns.slice(1);
 	let headers = columns.map(c => `<th scope="col">${c}</th>`).join('');
 	let header = `<thead class="thead-dark"><tr>${headers}</tr></thead>`;
 	let footerTh = '<th scope="row">TOTAL</th>';
@@ -456,13 +491,13 @@ const showTopicSummary = (obj) => {
 		}).join('');
 	};
 
-	//Tabla de número de términos
+	//Table of topic count
 	const body = buildTableBody(false);
 	const footer = buildTableFooter(false);
 	const html = `<table class="table table-striped">${header}` +
 		`<tbody>${body}<tr>${footer}</tr></tbody></table>`;
 
-	//Tabla de número de líneas
+	//Table of line count
 	const body2 = buildTableBody(true);
 	const footer2 = buildTableFooter(true);
 	const html2 = `<table class="table table-striped">${header}` +
@@ -472,7 +507,7 @@ const showTopicSummary = (obj) => {
 };
 
 const onProgress = (baseName) => {
-	showInfos(['Procesando documento ' + baseName]);
+	showInfos([strformat(Strings['proccessing'][lan], baseName)]);
 };
 
 document.addEventListener('DOMContentLoaded', onLoad);
