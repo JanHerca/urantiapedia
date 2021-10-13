@@ -417,7 +417,7 @@ children
 	education (74:6.7) (74:7.1-11)
 	on Edentia, deprived of procreative powers (55:7.3)
 	some day serve on Urantia? (55:7.3)
-default (Paper 75)
+default (75)
 	realization of default (75:4)
 	Adam defaulted, but did not become involved in Lucifer
 	rebellion (51:3.4) (75:7.1-2,7) (76:5.1)
@@ -497,7 +497,7 @@ Adamic dispensation | | See planetary epochs | |
 Adamic Sons | | See Material Sons of God | ORDER |
 
 Adamites | | See also races | RACE |
-after Adam (Paper 78)
+after Adam (78)
 attempted to divorce mathematical from volitional (103:6.10)
 blood augmented inherent ability of races (81:5.1)
 climatic changes diverted early migration to Europe (81:1.1-3)
@@ -1209,7 +1209,7 @@ first attempted to divorce mathematical from volitional (103:6.10)
 homogeneity referred to as Caucasoid or pre-Aryan (78:4.4)
 horse determined dominance of (80:2.8) (80:4.4)
 little contact with red race (79:5.7)
-migrations of Andites (Papers 79–80) (78:5-6)
+migrations of Andites (79) (80) (78:5-6)
 	132 Andites from Japan ancestry of Incan rulers (78:5.7) (79:5.9)
 	along the Nile (80:6)
 	best strains near mouths of Tigris, Euphrates (78:6.6) (78:8.1)
@@ -1217,8 +1217,8 @@ migrations of Andites (Papers 79–80) (78:5-6)
 	evacuated Mesopotamia by 6000 B.C. (78:6.7) (80:1.1)
 	from 25,000 B.C. to 6000 B.C. (78:3.9)
 	in Europe, Mediterranean region (80:4,5,7,9) (80:9.9)
-	in the Occident (Paper 80)
-	in the Orient (Paper 79)
+	in the Occident (80)
+	in the Orient (79)
 	in Turkestan (79:1)
 	military headquarters in Denmark (80:5.2)
 	Sumerians were the last (78:8.1)
@@ -1653,7 +1653,7 @@ temple located on Palatine hill in Rome (132:0.2)
 apostles of Jesus | (138) (145:4.1) (150:4) (158:0.2) (158:2.5) (172:5) (173:5.6) (184:2.2) (193:3.2) | See also apostleship | PERSON |
 the group of twelve followers that started with Jesus
 named | See Alpheus twins; Andrew; James Zebedee; John Zebedee; Judas Iscariot; Matthew Levi; Matthias; Nathaniel (Apostle); Paul; Philip (Apostle); Simon Peter; Simon Zelotes; Thomas Didymus
-personal descriptions (Paper 139)(144:6-7) (147:2.4) (162:9)
+personal descriptions (139)(144:6-7) (147:2.4) (162:9)
 most married, some had several children (138:9.3)
 all except Alpheus twins graduates of synagogue schools (139:0.3-4)
 not made alike by schooling (139:0.3-4)
@@ -1739,7 +1739,7 @@ Jesus
 	warned not to endanger their lives (176:1.3-4) (181:2.15) (183:4.2) (184:2.2) (191:0.5)
 	wished for unity among (137:6.6)
 ordination
-	on January 12, A.D. 27 (Paper 140)
+	on January 12, A.D. 27 (140)
 	consecration charge (140:9.2)
 	separate from all other men on earth (140:3.1)
 	Jesus reenacted in 14th appearance (192:3)
@@ -1958,7 +1958,7 @@ philosophy revered by Hellenized Jews (121:6.3)
 > https://en.wikipedia.org/wiki/Aristotle
 
 Arius | | | PERSON |
-at council of Nicaea (195:0.18)
+Arius was a priest who at the Council of Nicaea defended the idea of the subordination of the Son, of Jesus, to the Father, and that the words of Jesus did not correspond with the words of God himself. The Urantia Book indicates that his claims might put in danger the truth of Jesus' bestowal (195:0.18)
 > https://en.wikipedia.org/wiki/Arius
 
 ark of Noah | | See Noah | |
@@ -2060,7 +2060,7 @@ may become
 	celestial artisans (44:0.4)
 	Celestial Overseers (37:6.7)
 	evangels of destiny (35:3.21)
-	finaliters (Paper 31)
+	finaliters (31)
 	Mighty Messengers (15:10.12) (22:2)
 	Technical Advisers (temporary members) (25:4.2,11-12)
 	Those High in Authority (15:10.12) (22:3)
