@@ -79,7 +79,7 @@ subió o cayó (61:0.2) (61:1.12)
 Pandora | | | PERSON | 
 la leyenda sostenía que la mujer traía el mal sobre el hombre (84:4.4)
 
-Panoptia | | | PERSON | 
+Panoptia | | | PLACE | 
 Elanora asumió el liderazgo de (53:7.1)
 los mortales de Panoptia son cuidadores del séptimo mundo en transición (53:7.1)
 los mortales de Panoptia proclamaron misericordia a los rebeldes (53:9.1)
@@ -2095,7 +2095,7 @@ oración primitiva
 oración de identificación | | | | 
 diferencia el Espíritu Materno del universo local (17:6.5)
 
-pre-sumerios | | Ver sumerios | | 
+pre-sumerios | | Ver sumerios | RACE | 
 
 principios de predicación | | Ver evangelio:proclamar | | 
 
