@@ -17,6 +17,8 @@ const bibleref = new BibleRef();
 const topicindex = new TopicIndex();
 const articles = new Articles();
 
+const topicindexEdit = new TopicIndex();
+
 let lan = 'en';
 let uilan = 'en';
 
@@ -51,7 +53,14 @@ const controls = {
 	drpTopics: null,
 	lblTopics: null,
 	drpCategories: null,
-	lblCategories: null
+	lblCategories: null,
+	lblProccesses: null,
+	lblTopicIndex: null,
+	drpCategories2: null,
+	lblCategories2: null,
+	lbxTopics: null,
+	drpTopicLanguage1: null,
+	drpTopicLanguage2: null
 };
 let collapsed = false;
 
@@ -65,11 +74,14 @@ const onLoad = () => {
 	Object.keys(controls).forEach(id => controls[id] = document.querySelector('#' + id));
 
 	//Fill Book language dropdown
-	controls.drpLanguage.innerHTML = Object.keys(Strings['bookLanguages']).map(key => {
-		const desc = Strings['bookLanguages'][key];
-		const sel = (lan == key ? ' selected' : '');
-		return `<option value="${key}"${sel}>${desc}</option>`;
-	}).join('');
+	[controls.drpLanguage, controls.drpTopicLanguage1, controls.drpTopicLanguage2]
+		.forEach(c => {
+			c.innerHTML = Object.keys(Strings['bookLanguages']).map(key => {
+				const desc = Strings['bookLanguages'][key];
+				const sel = (lan == key ? ' selected' : '');
+				return `<option value="${key}"${sel}>${desc}</option>`;
+			}).join('');
+		});
 
 	//Set handlers
 	controls.dirHButton.addEventListener('click', 
@@ -88,11 +100,18 @@ const onLoad = () => {
 	controls.drpUILanguage.addEventListener('change', handle_drpUILanguageChange);
 	controls.drpProcess.addEventListener('change', handle_drpProcessChange);
 	controls.drpTopics.addEventListener('change', handle_drpTopicsChange);
+	controls.drpCategories2.addEventListener('change', handle_drpCategories2Change);
 	book.onProgressFn = onProgress;
 	bible.onProgressFn = onProgress;
 	bibleref.onProgressFn = onProgress;
 	topicindex.onProgressFn = onProgress;
 	articles.onProgressFn = onProgress;
+
+	//Update tabbable
+	$('#myTab a').on('click', function(e) {
+		e.preventDefault();
+		$(this).tab('show');
+	});
 
 	//Update UI
 	handle_drpUILanguageChange();
@@ -112,12 +131,15 @@ const updateUI = () => {
 	controls.drpCategories.innerHTML = topicTypes
 		.map(t => `<option value="${t}">${t}</option>`)
 		.join('');
+	controls.drpCategories2.innerHTML = topicTypes
+		.map(t => `<option value="${t}">${t}</option>`)
+		.join('');
 
 	Object.keys(controls).forEach(key => {
 		const control = controls[key];
 		const tagName = control.tagName.toUpperCase();
 		const text = (Strings[key] ? Strings[key][uilan] : '');
-		if (tagName === 'LABEL' || tagName === 'BUTTON') {
+		if (tagName === 'LABEL' || tagName === 'BUTTON' || tagName === 'SPAN') {
 			control.innerHTML = text;
 		} else if (tagName === 'INPUT' && text != '') {
 			control.setAttribute('placeholder', text);
@@ -182,11 +204,24 @@ const handle_drpProcessChange = (evt) => {
 	}
 	const cnames = Processes[process].controls;
 	collapsableControls.forEach(c => {
+		// const control = controls[c];
+		
+		// const tagName = control.tagName.toUpperCase();
 		const hide = (collapsed || cnames.indexOf(c) === -1);
-		controls[c].parentNode.parentNode.parentNode.classList.toggle('d-none',
-			hide);
+		$(controls[c]).closest('.form-group').toggleClass('d-none', hide);
+		// const parent = (tagName === 'INPUT' ? control.parentNode.parentNode :
+		// 	control.parentNode.parentNode.parentNode);
+		// parent.classList.toggle('d-none', hide);
 	});
 	updateDefaultPaths();
+};
+
+const handle_drpCategories2Change = () => {
+	const category = controls.drpCategories2.value;
+	const txtDir = path.join(app.getAppPath(), 'input', `txt/topic-index-${lan}`);
+	topicindexEdit.readFromTXT(txtDir, category)
+		.then(() => showTopicListEdit())
+		.catch(onFail);
 };
 
 const handle_exeButtonClick = () => {
@@ -411,6 +446,35 @@ const showTopicList = () => {
 			const style = t.errors && t.errors.length > 0 ? 
 				` style="background-color:#f8d7da"` : '';
 			return `<option value="${n}"${style}>${n} [${t.type}]${errs}</option>`;
+		})
+		.join('');
+};
+
+const showTopicListEdit = () => {
+	// Fill dropdown
+	const topics = topicindexEdit.topics
+		/*.filter(t => t.type != 'OTHER' && t.lines.length < 4)*/
+		.sort((a, b) => {
+			if (a.sorting > b.sorting) return 1;
+			if (a.sorting < b.sorting) return -1;
+			return 0;
+		});
+	controls.lbxTopics.innerHTML = topics
+		.map(t => {
+			const n = t.name;
+			const errs = t.errors && t.errors.length > 0 ? 
+				`  [Errors: ${t.errors.length}]` : '';
+			const style = t.errors && t.errors.length > 0 ? 
+				` style="background-color:#f8d7da"` : '';
+			return `<div class="list-group-item btn-sm list-group-item-action py-0 px-2 flex-column align-items-start">
+					<div class="d-flex w-100 justify-content-between pb-1">
+						<div>${n}</div>
+						<div>${t.type}</div>
+					</div>
+				</div>`;
+				// 'list-group-item btn-sm list-group-item-action px-0' + 
+				// ' flex-column align-items-start'
+			// return `<option value="${n}"${style}>${n} [${t.type}]${errs}</option>`;
 		})
 		.join('');
 };

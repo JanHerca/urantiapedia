@@ -5,154 +5,207 @@
 		<!--<meta http-equiv="Content-Security-Policy" content="script-src 'self';">-->
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<title>Urantiapedia Tools</title>
-		<link rel="stylesheet" href="bootstrap.css" />
+		<link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.css" />
 		<link rel="stylesheet" href="style.css" type="text/css" />
-		<script src="renderer.js" charset="utf-8"></script>
+		<script>window.jQuery = window.$ = require('jquery')</script>
+		<script src="../node_modules/bootstrap/dist/js/bootstrap.js"></script>
+		<script src="renderer.js"></script>
 	</head>
 	<body>
-		<form class="needs-validation p-2" novalidate="true">
-			<div class="form-group row p-0 mb-0">
-				<label id="lblLanguage" class="col-sm-3 col-form-label-sm">Book Language:</label>
-				<div class="col-sm-3">
-					<div class="input-group">
-						<select id="drpLanguage" class="custom-select custom-select-sm">
-						</select>
-					</div>
-				</div>
-				<label id="lblUILanguage" class="col-sm-3 col-form-label-sm">UI Language:</label>
-				<div class="col-sm-3">
-					<div class="input-group">
-						<select id="drpUILanguage" class="custom-select custom-select-sm">
-							<option value="en" selected>English</option>
-							<option value="es">Spanish</option>
-						</select>
-					</div>
-				</div>
+		<main>
+			<div class="d-flex flex-column flex-shrink-0 p-3 text-white bg-dark" style="width: 240px;">
+				<a href="" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none">
+					<img class="btn btn-light p-0" src="uplogo.svg" alt="Urantiapedia Tools">
+					<span class="px-2">Urantiapedia Tools</span>
+				</a>
+				<hr>
+				<ul class="nav nav-pills flex-column mb-auto" id="myTab" role="tablist">
+					<li class="nav-item" role="presentation">
+						<a href="#proccesses" class="nav-link text-white active" id="proccesses-tab" data-toggle="pill" role="tab" aria-controls="proccesses" aria-selected="true">
+							<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M22.61 18.99l-9.08-9.08c.93-2.34.45-5.1-1.44-7C9.79.61 6.21.4 3.66 2.26L7.5 6.11 6.08 7.52 2.25 3.69C.39 6.23.6 9.82 2.9 12.11c1.86 1.86 4.57 2.35 6.89 1.48l9.11 9.11c.39.39 1.02.39 1.41 0l2.3-2.3c.4-.38.4-1.01 0-1.41zm-3 1.6l-9.46-9.46c-.61.45-1.29.72-2 .82-1.36.2-2.79-.21-3.83-1.25C3.37 9.76 2.93 8.5 3 7.26l3.09 3.09 4.24-4.24-3.09-3.09c1.24-.07 2.49.37 3.44 1.31 1.08 1.08 1.49 2.57 1.24 3.96-.12.71-.42 1.37-.88 1.96l9.45 9.45-.88.89z" fill="white"/></svg>
+							<span id="lblProccesses">Processes</span>
+						</a>
+					</li>
+					<li class="nav-item" role="presentation">
+						<a href="#topicindex" class="nav-link text-white" id="topicindex-tab" data-toggle="pill" role="tab" aria-controls="topicindex" aria-selected="false">
+							<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M14.06 9.02l.92.92L5.92 19H5v-.92l9.06-9.06M17.66 3c-.25 0-.51.1-.7.29l-1.83 1.83 3.75 3.75 1.83-1.83c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.2-.2-.45-.29-.71-.29zm-3.6 3.19L3 17.25V21h3.75L17.81 9.94l-3.75-3.75z" fill="white"/></svg>
+							<span id="lblTopicIndex">Edit Topic Index</span>
+						</a>
+					</li>
+				</ul>
 			</div>
-			<div class="form-group row p-0 mb-0">
-				<label id="lblProcess" class="col-sm-2 col-form-label-sm">Process:</label>
-				<div class="col-sm-10">
-					<div class="input-group">
-						<select id="drpProcess" class="custom-select custom-select-sm">
-						</select>
-						<div class="input-group-append">
-							<button id="exeButton" class="btn btn-sm btn-dark" 
-								type="button">Ejecutar</button>
+			<div class="tab-content p-3 bg-light" id="tabContent">
+				<div class="tab-pane fade show active p-2" id="proccesses" role="tabpanel" aria-labelledby="proccesses-tab" style="height: 100%;">
+					<div class="d-flex flex-column" style="height: 100%;">
+						<div class="form-group row p-0 mb-2">
+							<div class="input-group input-group-sm col-sm-6">
+								<div class="input-group-prepend">
+									<span id="lblLanguage" class="input-group-text">Book Language:</span>
+								</div>
+								<select id="drpLanguage" class="custom-select"></select>
+							</div>
+							<div class="input-group input-group-sm col-sm-6">
+								<div class="input-group-prepend">
+									<span id="lblUILanguage" class="input-group-text">UI Language:</span>
+								</div>
+								<select id="drpUILanguage" class="custom-select">
+									<option value="en" selected>English</option>
+									<option value="es">Spanish</option>
+								</select>
+							</div>
+						</div>
+						<div class="form-group row p-0 mb-2">
+							<div class="input-group input-group-sm col-sm-12">
+								<div class="input-group-prepend">
+									<span id="lblProcess" class="input-group-text">Process:</span>
+								</div>
+								<select id="drpProcess" class="custom-select">
+								</select>
+								<div class="input-group-append">
+									<button id="exeButton" class="btn btn-dark" type="button">Ejecutar</button>
+								</div>
+							</div>
+						</div>
+						<div class="form-group row p-0 mb-2">
+							<div class="input-group input-group-sm col-sm-12">
+								<div class="input-group-prepend">
+									<span id="lblHTextbox" class="input-group-text">HTML files:</span>
+								</div>
+								<input id="dirHTextbox" class="form-control" type="text" placeholder="Browse path" 
+									readonly="readonly"/>
+								<div class="input-group-append">
+									<button id="dirHButton" class="btn btn-sm btn-dark" type="button">Browse</button>
+								</div>
+							</div>
+						</div>
+						<div class="form-group row p-0 mb-2">
+							<div class="input-group input-group-sm col-sm-12">
+								<div class="input-group-prepend">
+									<span id="lblTTextbox" class="input-group-text">TXT files:</span>
+								</div>
+								<input id="dirTTextbox" class="form-control" type="text" placeholder="Browse path" 
+									readonly="readonly"/>
+								<div class="input-group-append">
+									<button id="dirTButton" class="btn btn-sm btn-dark" type="button">Browse</button>
+								</div>
+							</div>
+						</div>
+						<div class="form-group row p-0 mb-2">
+							<div class="input-group input-group-sm col-sm-12">
+								<div class="input-group-prepend">
+									<span id="lblLTextbox" class="input-group-text">LaTeX files:</span>
+								</div>
+								<input id="dirLTextbox" class="form-control" type="text" placeholder="Browse path" 
+									readonly="readonly"/>
+								<div class="input-group-append">
+									<button id="dirLButton" class="btn btn-sm btn-dark" type="button">Browse</button>
+								</div>
+							</div>
+						</div>
+						<div class="form-group row p-0 mb-2">
+							<div class="input-group input-group-sm col-sm-12">
+								<div class="input-group-prepend">
+									<span id="lblJTextbox" class="input-group-text">JSON files:</span>
+								</div>
+								<input id="dirJTextbox" class="form-control" type="text" placeholder="Browse path" 
+									readonly="readonly"/>
+								<div class="input-group-append">
+									<button id="dirJButton" class="btn btn-sm btn-dark" type="button">Browse</button>
+								</div>
+							</div>
+						</div>
+						<div class="form-group row p-0 mb-2">
+							<div class="input-group input-group-sm col-sm-12">
+								<div class="input-group-prepend">
+									<span id="lblWTextbox" class="input-group-text">Wiki files:</span>
+								</div>
+								<input id="dirWTextbox" class="form-control" type="text" placeholder="Browse path" 
+									readonly="readonly"/>
+								<div class="input-group-append">
+									<button id="dirWButton" class="btn btn-sm btn-dark" type="button">Browse</button>
+								</div>
+							</div>
+						</div>
+						<div class="form-group row p-0 mb-0">
+							<div class="col-sm-12">
+								<div class="form-check form-control-sm">
+									<input id="chkMerge" class="form-check-input" 
+										type="checkbox"/>
+									<label id="chkMergeLabel" class="form-check-label" for="chkMerge">
+										Join output files in one
+									</label>
+								</div>
+							</div>
+						</div>
+						<div class="form-group row p-0 mb-2">
+							<div class="input-group input-group-sm col-sm-12">
+								<div class="input-group-prepend">
+									<span id="lblCategories" class="input-group-text">Topic categories</span>
+								</div>
+								<select id="drpCategories" class="custom-select"></select>
+							</div>
+						</div>
+						<div class="form-group row p-0 mb-0">
+							<label id="lblTopics" class="col-sm-2 col-form-label-sm">Topic</label>
+							<div class="col-sm-10">
+								<div class="input-group">
+									<select id="drpTopics" class="custom-select custom-select-sm">
+									</select>
+								</div>
+							</div>
+						</div>
+						<div class ="form-group row p-0 mb-0">
+							<div class="col-sm-12">
+								<button id="collapseButton" class="btn btn-sm btn-dark" type="button">Collapse</button>
+							</div>
+						</div>
+						<div class="form-group row p-0 mb-0 logContainer">
+							<div class="col-sm-12 col-form-label-sm alert alert-secondary mb-0">
+								<div id="logArea"></div>
+								<div class="spinner-border float-right d-none"
+									role="status" id="progress"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="tab-pane fade" id="topicindex" role="tabpanel" aria-labelledby="topicindex-tab" style="height: 100%;">
+					<div class="d-flex flex-row" style="height: inherit;">
+						<div class="d-flex flex-column mr-2" style="max-width: 300px; height: inherit;">
+							<div class="p-0 mb-2" style="flex-grow: 1;">
+								<div class="input-group input-group-sm">
+									<div class="input-group-prepend">
+										<span id="lblCategories2" class="input-group-text">Topic categories</span>
+									</div>
+									<select id="drpCategories2" class="custom-select"></select>
+								</div>
+							</div>
+							<div class="p-0 mb-2" style="flex-grow: 1; height: inherit; overflow: auto;" id="lbxTopicsCont">
+								<div class="list-group" id="lbxTopics" style="height: inherit;"></div>
+							</div>
+						</div>
+						<div class="d-flex flex-column" style="height: inherit;">
+							<div class="input-group input-group-sm">
+								<div class="input-group-prepend">
+									<button class="btn btn-dark py-0 px-1" type="button" id="btnAddTopic">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" fill="white"/></svg>
+									</button>
+									<button class="btn btn-dark py-0 px-1" type="button" id="btnRemoveTopic">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" fill="white"/></svg>
+									</button>
+									<button class="btn btn-dark py-0 px-1" type="button" id="btnRenameTopic">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12,20c-4.41,0-8-3.59-8-8s3.59-8,8-8s8,3.59,8,8 S16.41,20,12,20z M16.17,14.76l-1.1-1.1c0.71-1.33,0.53-3.01-0.59-4.13C13.79,8.84,12.9,8.5,12,8.5c-0.03,0-0.06,0.01-0.09,0.01 L13,9.6l-1.06,1.06L9.11,7.83L11.94,5L13,6.06l-0.96,0.96c1.27,0.01,2.53,0.48,3.5,1.44C17.24,10.17,17.45,12.82,16.17,14.76z M14.89,16.17L12.06,19L11,17.94l0.95-0.95c-1.26-0.01-2.52-0.5-3.48-1.46c-1.71-1.71-1.92-4.35-0.64-6.29l1.1,1.1 c-0.71,1.33-0.53,3.01,0.59,4.13c0.7,0.7,1.63,1.04,2.56,1.01L11,14.4l1.06-1.06L14.89,16.17z" fill="white"/></svg>
+									</button>
+									<button class="btn btn-dark py-0 px-1" type="button" id="btnRenameTopic">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M17 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V7l-4-4zm-5 16c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm3-10H5V5h10v4z" fill="white"/></svg>
+									</button>
+									<select id="drpTopicLanguage1" class="custom-select custom-select-sm"></select>
+								</div>
+								<select id="drpTopicLanguage2" class="custom-select custom-select-sm"></select>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-			<div class="form-group row p-0 mb-0">
-				<label id="lblHTextbox" class="col-sm-2 col-form-label-sm">HTML files:</label>
-				<div class="col-sm-10">
-					<div class="input-group">
-						<input id="dirHTextbox" class="form-control form-control-sm" 
-							type="text" placeholder="Browse path" 
-							readonly="readonly"/>
-						<div class="input-group-append">
-							<button id="dirHButton" class="btn btn-sm btn-dark" 
-								type="button">Browse</button>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="form-group row p-0 mb-0">
-				<label id="lblTTextbox" class="col-sm-2 col-form-label-sm">TXT files:</label>
-				<div class="col-sm-10">
-					<div class="input-group">
-						<input id="dirTTextbox" class="form-control form-control-sm" 
-							type="text" placeholder="Browse path" 
-							readonly="readonly"/>
-						<div class="input-group-append">
-							<button id="dirTButton" class="btn btn-sm btn-dark" 
-								type="button">Browse</button>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="form-group row p-0 mb-0">
-				<label id="lblLTextbox" class="col-sm-2 col-form-label-sm">LaTeX files:</label>
-				<div class="col-sm-10">
-					<div class="input-group">
-						<input id="dirLTextbox" class="form-control form-control-sm" 
-							type="text" placeholder="Browse path" 
-							readonly="readonly"/>
-						<div class="input-group-append">
-							<button id="dirLButton" class="btn btn-sm btn-dark" 
-								type="button">Browse</button>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="form-group row p-0 mb-0">
-				<label id="lblJTextbox" class="col-sm-2 col-form-label-sm">JSON files:</label>
-				<div class="col-sm-10">
-					<div class="input-group">
-						<input id="dirJTextbox" class="form-control form-control-sm" 
-							type="text" placeholder="Browse path" 
-							readonly="readonly"/>
-						<div class="input-group-append">
-							<button id="dirJButton" class="btn btn-sm btn-dark" 
-								type="button">Browse</button>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="form-group row p-0 mb-0">
-				<label id="lblWTextbox" class="col-sm-2 col-form-label-sm">Wiki files:</label>
-				<div class="col-sm-10">
-					<div class="input-group">
-						<input id="dirWTextbox" class="form-control form-control-sm" 
-							type="text" placeholder="Browse path" 
-							readonly="readonly"/>
-						<div class="input-group-append">
-							<button id="dirWButton" class="btn btn-sm btn-dark" 
-								type="button">Browse</button>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="form-group row p-0 mb-0">
-				<div class="col-sm-12">
-					<div class="form-check form-control-sm">
-						<input id="chkMerge" class="form-check-input" 
-							type="checkbox"/>
-						<label id="chkMergeLabel" class="form-check-label" for="chkMerge">
-							Join output files in one
-						</label>
-					</div>
-				</div>
-			</div>
-			<div class="form-group row p-0 mb-0">
-				<label id="lblCategories" class="col-sm-3 col-form-label-sm">Topic categories</label>
-				<div class="col-sm-9">
-					<div class="input-group">
-						<select id="drpCategories" class="custom-select custom-select-sm">
-						</select>
-					</div>
-				</div>
-			</div>
-			<div class="form-group row p-0 mb-0">
-				<label id="lblTopics" class="col-sm-2 col-form-label-sm">Topic</label>
-				<div class="col-sm-10">
-					<div class="input-group">
-						<select id="drpTopics" class="custom-select custom-select-sm">
-						</select>
-					</div>
-				</div>
-			</div>
-			<div class ="form-group row p-0 mb-0">
-				<div class="col-sm-12">
-					<button id="collapseButton" class="btn btn-sm btn-dark" type="button">Collapse</button>
-				</div>
-			</div>
-			<div class="form-group row p-0 mb-0 logContainer">
-				<div class="col-sm-12 col-form-label-sm alert alert-secondary">
-					<div id="logArea"></div>
-					<div class="spinner-border float-right d-none"
-						role="status" id="progress"></div>
-				</div>
-			</div>
-		</form>
+		</main>
 	</body>
 </html>

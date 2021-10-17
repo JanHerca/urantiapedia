@@ -16,7 +16,8 @@ app.once('ready', () => {
 		show: false,
 		webPreferences: {
 			nodeIntegration: true
-		}
+		},
+		icon: __dirname + '/favicon.ico'
 	});
 
 	// Load a URL in the window to the local index.html path

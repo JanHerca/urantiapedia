@@ -26,7 +26,9 @@
   "homepage": "https://github.com/JanHerca/urantiapedia#readme",
   "dependencies": {
     "bootstrap": "^4.5",
+    "cheerio": "^1.0.0-rc.9",
     "electron": "^9.0.5",
-    "cheerio": "^1.0.0-rc.9"
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
   }
 }

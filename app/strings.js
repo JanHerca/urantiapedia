@@ -329,6 +329,10 @@ const Strings = {
 		en: "Topic categories",
 		es: "Categorías de términos"
 	},
+	"lblCategories2": {
+		en: "Topic categories",
+		es: "Categorías de términos"
+	},
 	"lblTopics": {
 		en: "Topic",
 		es: "Término"
@@ -336,6 +340,14 @@ const Strings = {
 	"collapseButton": {
 		en: "Collapse",
 		es: "Colapsar"
+	},
+	"lblProccesses": {
+		en: "Proccesses",
+		es: "Procesos"
+	},
+	"lblTopicIndex": {
+		en: "Edit Topic Index",
+		es: "Editar Términos"
 	},
 	"book_wrong_reference": {
 		en: "UB reference {0} is wrong or not exists",

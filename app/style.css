@@ -4,23 +4,35 @@ html {
 *, *:before, *:after {
     box-sizing: inherit;
 }
-html, body, form {
+html, body {
     height: 100%;
     width: 100%;
     overflow: hidden;
-}
-form {
-    display: flex;
-    flex-flow: column;
 }
 body {
     margin: 0;
     padding: 0;
     position: absolute;
 }
+main {
+    display: flex;
+    flex-wrap: nowrap;
+    height: 100vh;
+    height: -webkit-fill-available;
+    max-height: 100vh;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
 .logContainer {
     flex: 1;
     margin-right: 0;
     margin-left: 0;
     overflow-y: auto;
+}
+#tabContent {
+    width: 100%;
+}
+#lbxTopicsCont {
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
 }
