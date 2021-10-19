@@ -8,10 +8,10 @@ let mainWindow = null;
 app.once('ready', () => {
 	// Create a new window
 	mainWindow = new BrowserWindow({
-		// Set the initial width to 400px
-		// width: 400,
-		// Set the initial height to 500px
-		// height: 500,
+		// Set the initial width to 1200px
+		// width: 1200,
+		// Set the initial height to 800px
+		// height: 800,
 		// Don't show the window until it ready, this prevents any white flickering
 		show: false,
 		webPreferences: {
@@ -29,6 +29,7 @@ app.once('ready', () => {
 
 	// Show window when page is ready
 	mainWindow.once('ready-to-show', () => {
+		mainWindow.maximize();
 		mainWindow.show()
 	});
 

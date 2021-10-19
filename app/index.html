@@ -8,7 +8,7 @@
 		<link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.css" />
 		<link rel="stylesheet" href="style.css" type="text/css" />
 		<script>window.jQuery = window.$ = require('jquery')</script>
-		<script src="../node_modules/bootstrap/dist/js/bootstrap.js"></script>
+		<script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
 		<script src="renderer.js"></script>
 	</head>
 	<body>
@@ -62,7 +62,7 @@
 								<select id="drpProcess" class="custom-select">
 								</select>
 								<div class="input-group-append">
-									<button id="exeButton" class="btn btn-dark" type="button">Ejecutar</button>
+									<button id="exeButton" class="btn btn-secondary" type="button">Ejecutar</button>
 								</div>
 							</div>
 						</div>
@@ -74,7 +74,7 @@
 								<input id="dirHTextbox" class="form-control" type="text" placeholder="Browse path" 
 									readonly="readonly"/>
 								<div class="input-group-append">
-									<button id="dirHButton" class="btn btn-sm btn-dark" type="button">Browse</button>
+									<button id="dirHButton" class="btn btn-sm btn-secondary" type="button">Browse</button>
 								</div>
 							</div>
 						</div>
@@ -86,7 +86,7 @@
 								<input id="dirTTextbox" class="form-control" type="text" placeholder="Browse path" 
 									readonly="readonly"/>
 								<div class="input-group-append">
-									<button id="dirTButton" class="btn btn-sm btn-dark" type="button">Browse</button>
+									<button id="dirTButton" class="btn btn-sm btn-secondary" type="button">Browse</button>
 								</div>
 							</div>
 						</div>
@@ -98,7 +98,7 @@
 								<input id="dirLTextbox" class="form-control" type="text" placeholder="Browse path" 
 									readonly="readonly"/>
 								<div class="input-group-append">
-									<button id="dirLButton" class="btn btn-sm btn-dark" type="button">Browse</button>
+									<button id="dirLButton" class="btn btn-sm btn-secondary" type="button">Browse</button>
 								</div>
 							</div>
 						</div>
@@ -110,7 +110,7 @@
 								<input id="dirJTextbox" class="form-control" type="text" placeholder="Browse path" 
 									readonly="readonly"/>
 								<div class="input-group-append">
-									<button id="dirJButton" class="btn btn-sm btn-dark" type="button">Browse</button>
+									<button id="dirJButton" class="btn btn-sm btn-secondary" type="button">Browse</button>
 								</div>
 							</div>
 						</div>
@@ -122,7 +122,7 @@
 								<input id="dirWTextbox" class="form-control" type="text" placeholder="Browse path" 
 									readonly="readonly"/>
 								<div class="input-group-append">
-									<button id="dirWButton" class="btn btn-sm btn-dark" type="button">Browse</button>
+									<button id="dirWButton" class="btn btn-sm btn-secondary" type="button">Browse</button>
 								</div>
 							</div>
 						</div>
@@ -156,7 +156,7 @@
 						</div>
 						<div class ="form-group row p-0 mb-0">
 							<div class="col-sm-12">
-								<button id="collapseButton" class="btn btn-sm btn-dark" type="button">Collapse</button>
+								<button id="collapseButton" class="btn btn-sm btn-secondary" type="button">Collapse</button>
 							</div>
 						</div>
 						<div class="form-group row p-0 mb-0 logContainer">
@@ -170,8 +170,8 @@
 				</div>
 				<div class="tab-pane fade" id="topicindex" role="tabpanel" aria-labelledby="topicindex-tab" style="height: 100%;">
 					<div class="d-flex flex-row" style="height: inherit;">
-						<div class="d-flex flex-column mr-2" style="max-width: 300px; height: inherit;">
-							<div class="p-0 mb-2" style="flex-grow: 1;">
+						<div class="d-flex flex-column flex-shrink-0 mr-2" style="width: 300px; height: inherit;">
+							<div class="p-0 mb-2 flex-grow-1">
 								<div class="input-group input-group-sm">
 									<div class="input-group-prepend">
 										<span id="lblCategories2" class="input-group-text">Topic categories</span>
@@ -179,28 +179,100 @@
 									<select id="drpCategories2" class="custom-select"></select>
 								</div>
 							</div>
-							<div class="p-0 mb-2" style="flex-grow: 1; height: inherit; overflow: auto;" id="lbxTopicsCont">
+							<div class="p-0 mb-2 flex-grow-1" style="height: inherit; overflow: auto;" id="lbxTopicsCont">
 								<div class="list-group" id="lbxTopics" style="height: inherit;"></div>
 							</div>
 						</div>
-						<div class="d-flex flex-column" style="height: inherit;">
-							<div class="input-group input-group-sm">
+						<div class="d-flex flex-column flex-grow-1" style="height: inherit;">
+							<div class="input-group input-group-sm mb-2">
 								<div class="input-group-prepend">
-									<button class="btn btn-dark py-0 px-1" type="button" id="btnAddTopic">
+									<button class="btn btn-secondary py-0 px-1" type="button" id="btnAddTopic" data-toggle="tooltip" data-placement="bottom" title="Add topic">
 										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" fill="white"/></svg>
 									</button>
-									<button class="btn btn-dark py-0 px-1" type="button" id="btnRemoveTopic">
+									<button class="btn btn-secondary py-0 px-1" type="button" id="btnRemoveTopic" data-toggle="tooltip" data-placement="bottom" title="Remove topic">
 										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" fill="white"/></svg>
 									</button>
-									<button class="btn btn-dark py-0 px-1" type="button" id="btnRenameTopic">
+									<button class="btn btn-secondary py-0 px-1" type="button" id="btnRenameTopic" data-toggle="tooltip" data-placement="bottom" title="Rename topic">
 										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12,20c-4.41,0-8-3.59-8-8s3.59-8,8-8s8,3.59,8,8 S16.41,20,12,20z M16.17,14.76l-1.1-1.1c0.71-1.33,0.53-3.01-0.59-4.13C13.79,8.84,12.9,8.5,12,8.5c-0.03,0-0.06,0.01-0.09,0.01 L13,9.6l-1.06,1.06L9.11,7.83L11.94,5L13,6.06l-0.96,0.96c1.27,0.01,2.53,0.48,3.5,1.44C17.24,10.17,17.45,12.82,16.17,14.76z M14.89,16.17L12.06,19L11,17.94l0.95-0.95c-1.26-0.01-2.52-0.5-3.48-1.46c-1.71-1.71-1.92-4.35-0.64-6.29l1.1,1.1 c-0.71,1.33-0.53,3.01,0.59,4.13c0.7,0.7,1.63,1.04,2.56,1.01L11,14.4l1.06-1.06L14.89,16.17z" fill="white"/></svg>
 									</button>
-									<button class="btn btn-dark py-0 px-1" type="button" id="btnRenameTopic">
+									<button class="btn btn-secondary py-0 px-1" type="button" id="btnSaveChanges" data-toggle="tooltip" data-placement="bottom" title="Save changes">
 										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M17 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V7l-4-4zm-5 16c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm3-10H5V5h10v4z" fill="white"/></svg>
 									</button>
-									<select id="drpTopicLanguage1" class="custom-select custom-select-sm"></select>
+								</div>
+								<div class="input-group-prepend">
+									<span id="lblLanguage1" class="input-group-text">Language 1</span>
+								</div>
+								<select id="drpTopicLanguage1" class="custom-select custom-select-sm"></select>
+								<div class="input-group-prepend">
+									<span id="lblLanguage2" class="input-group-text">Language 2</span>
 								</div>
 								<select id="drpTopicLanguage2" class="custom-select custom-select-sm"></select>
+							</div>
+							<div class="input-group input-group-sm mb-2">
+								<div class="input-group-prepend">
+									<span id="lblTopicName" class="input-group-text">Name</span>
+								</div>
+								<input id="txtTopicName" type="text" class="form-control" aria-label="Topic name">
+								<div class="input-group-prepend">
+									<span id="lblTopicAliases" class="input-group-text">Aliases</span>
+									<button class="btn btn-secondary py-0 px-1" type="button" id="btnAddAlias" data-toggle="tooltip" data-placement="bottom" title="Add topic alias">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" fill="white"/></svg>
+									</button>
+									<button class="btn btn-secondary py-0 px-1" type="button" id="btnRemoveAlias" data-toggle="tooltip" data-placement="bottom" title="Remove topic alias">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" fill="white"/></svg>
+									</button>
+								</div>
+								<select id="drpTopicAliases" class="custom-select custom-select-sm"></select>
+								<div class="input-group-prepend">
+									<span id="lblTopicRevised" class="input-group-text">Revised</span>
+								</div>
+								<div class="input-group-text">
+									<input id="chkTopicRevised" type="checkbox" aria-label="Is topic revised or not">
+								</div>
+							</div>
+							<div class="input-group input-group-sm mb-2">
+								<div class="input-group-prepend">
+									<span id="lblTopicRefs" class="input-group-text">Refs</span>
+									<button class="btn btn-secondary py-0 px-1" type="button" id="btnAddRef" data-toggle="tooltip" data-placement="bottom" title="Add topic reference">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" fill="white"/></svg>
+									</button>
+									<button class="btn btn-secondary py-0 px-1" type="button" id="btnRemoveRef" data-toggle="tooltip" data-placement="bottom" title="Remove topic reference">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" fill="white"/></svg>
+									</button>
+								</div>
+								<select id="drpTopicRefs" class="custom-select custom-select-sm"></select>
+								<div class="input-group-prepend">
+									<span id="lblTopicSeeAlso" class="input-group-text">See Also</span>
+									<button class="btn btn-secondary py-0 px-1" type="button" id="btnAddSeeAlso" data-toggle="tooltip" data-placement="bottom" title="Add topic See Also">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" fill="white"/></svg>
+									</button>
+									<button class="btn btn-secondary py-0 px-1" type="button" id="btnRemoveSeeAlso" data-toggle="tooltip" data-placement="bottom" title="Remove topic See Also">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" fill="white"/></svg>
+									</button>
+								</div>
+								<select id="drpTopicSeeAlso" class="custom-select custom-select-sm"></select>
+								<div class="input-group-prepend">
+									<span id="lblTopicLinks" class="input-group-text">Links</span>
+									<button class="btn btn-secondary py-0 px-1" type="button" id="btnAddLink" data-toggle="tooltip" data-placement="bottom" title="Add topic link">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" fill="white"/></svg>
+									</button>
+									<button class="btn btn-secondary py-0 px-1" type="button" id="btnRemoveLink" data-toggle="tooltip" data-placement="bottom" title="Remove topic link">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22"><path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" fill="white"/></svg>
+									</button>
+								</div>
+								<select id="drpTopicLinks" class="custom-select custom-select-sm"></select>
+								<div class="input-group-prepend">
+									<span id="lblTopicCategory" class="input-group-text">Category</span>
+								</div>
+								<select id="drpTopicCategories" class="custom-select"></select>
+							</div>
+							<div class="d-flex flex-row flex-grow-1" style="height: inherit;">
+								<div class="p-0 mb-2 flex-grow-1 w-50" style="height: inherit; overflow: auto;" id="lbxLinesCont">
+									<div class="list-group" id="lbxLines" style="height: inherit;"></div>
+								</div>
+								<div class="p-0 mb-2 flex-grow-1 w-50" style="height: inherit; overflow: auto;" id="lbxUBLinesCont">
+									<div class="list-group" id="lbxUBLines" style="height: inherit;"></div>
+								</div>
 							</div>
 						</div>
 					</div>

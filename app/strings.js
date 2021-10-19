@@ -349,6 +349,46 @@ const Strings = {
 		en: "Edit Topic Index",
 		es: "Editar Términos"
 	},
+	"lblTopicName": {
+		en: "Name",
+		es: "Nombre"
+	},
+	"lblLanguage1": {
+		en: "Language 1",
+		es: "Idioma 1"
+	},
+	"lblLanguage2": {
+		en: "Language 2",
+		es: "Idioma 2"
+	},
+	"lblTopicName": {
+		en: "Name",
+		es: "Nombre"
+	},
+	"lblTopicAliases": {
+		en: "Aliases",
+		es: "Aliases"
+	},
+	"lblTopicRevised": {
+		en: "Revised",
+		es: "Revisado"
+	},
+	"lblTopicRefs": {
+		en: "Refs",
+		es: "Refs"
+	},
+	"lblTopicSeeAlso": {
+		en: "See Also",
+		es: "Ver También"
+	},
+	"lblTopicLinks": {
+		en: "Links",
+		es: "Enlaces"
+	},
+	"lblTopicCategory": {
+		en: "Category",
+		es: "Categoría"
+	},
 	"book_wrong_reference": {
 		en: "UB reference {0} is wrong or not exists",
 		es: "La referencia LU {0} está mal o no existe"

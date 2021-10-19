@@ -18,6 +18,9 @@ const topicindex = new TopicIndex();
 const articles = new Articles();
 
 const topicindexEdit = new TopicIndex();
+const topicindexEdit2 = new TopicIndex();
+const bookEdit = new Book();
+const bookEdit2 = new Book();
 
 let lan = 'en';
 let uilan = 'en';
@@ -60,15 +63,35 @@ const controls = {
 	lblCategories2: null,
 	lbxTopics: null,
 	drpTopicLanguage1: null,
-	drpTopicLanguage2: null
+	drpTopicLanguage2: null,
+	lblLanguage1: null,
+	lblLanguage2: null,
+	lblTopicName: null,
+	lblTopicAliases: null,
+	lblTopicRevised: null,
+	lblTopicRefs: null,
+	lblTopicSeeAlso: null,
+	lblTopicLinks: null,
+	lblTopicCategory: null,
+	txtTopicName: null,
+	drpTopicAliases: null,
+	drpTopicRefs: null,
+	drpTopicSeeAlso: null,
+	drpTopicLinks: null,
+	drpTopicCategories: null,
+	lbxLines: null,
+	lbxUBLines: null
 };
 let collapsed = false;
+
+let topicEditing = null;
+let filelineEditing = null;
 
 const collapsableControls = ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 
 	'dirJTextbox', 'dirWTextbox', 'chkMerge', 'drpCategories', 'drpTopics'];
 
-const topicTypes = ['ALL', 'PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 
-	'OTHER', 'NONE'];
+const topicTypes = ['NONE', 'PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 
+	'OTHER', 'ALL'];
 
 const onLoad = () => {
 	Object.keys(controls).forEach(id => controls[id] = document.querySelector('#' + id));
@@ -101,6 +124,10 @@ const onLoad = () => {
 	controls.drpProcess.addEventListener('change', handle_drpProcessChange);
 	controls.drpTopics.addEventListener('change', handle_drpTopicsChange);
 	controls.drpCategories2.addEventListener('change', handle_drpCategories2Change);
+	controls.drpTopicLanguage1.addEventListener('change', handle_drpTopicLanguage1Change);
+	controls.drpTopicLanguage2.addEventListener('change', handle_drpTopicLanguage2Change);
+
+	//Set progress funcs
 	book.onProgressFn = onProgress;
 	bible.onProgressFn = onProgress;
 	bibleref.onProgressFn = onProgress;
@@ -112,6 +139,9 @@ const onLoad = () => {
 		e.preventDefault();
 		$(this).tab('show');
 	});
+
+	//Update tooltips
+	$('[data-toggle="tooltip"]').tooltip();
 
 	//Update UI
 	handle_drpUILanguageChange();
@@ -128,12 +158,12 @@ const updateUI = () => {
 		return (p.active ? `<option value="${key}"${sel}>${desc}</option>` : '');
 	}).join('');
 
-	controls.drpCategories.innerHTML = topicTypes
+	const topicOptions = topicTypes
 		.map(t => `<option value="${t}">${t}</option>`)
 		.join('');
-	controls.drpCategories2.innerHTML = topicTypes
-		.map(t => `<option value="${t}">${t}</option>`)
-		.join('');
+	controls.drpCategories.innerHTML = topicOptions;
+	controls.drpCategories2.innerHTML = topicOptions;
+	controls.drpTopicCategories.innerHTML = topicOptions;
 
 	Object.keys(controls).forEach(key => {
 		const control = controls[key];
@@ -163,6 +193,25 @@ const updateDefaultPaths = () => {
 			controls[c].value = folderpath;
 		}
 	});
+};
+
+const updateTopicIndexEdit = () => {
+	const category = controls.drpCategories2.value;
+	const lan1 = controls.drpTopicLanguage1.value;
+	const lan2 = controls.drpTopicLanguage2.value;
+	const dirTopics1 = path.join(app.getAppPath(), `input/txt/topic-index-${lan1}`);
+	const dirTopics2 = path.join(app.getAppPath(), `input/txt/topic-index-${lan2}`);
+	const dirBook1 = path.join(app.getAppPath(), `input/json/book-${lan1}-footnotes`);
+	const dirBook2 = path.join(app.getAppPath(), `input/json/book-${lan2}-footnotes`);
+	//TODO: use either with or without footnotes, whichever exists
+	const promises = [
+		topicindexEdit.readFromTXT(dirTopics1, category),
+		topicindexEdit2.readFromTXT(dirTopics2, category),
+		bookEdit.readFromJSON(dirBook1),
+		bookEdit2.readFromJSON(dirBook2)
+	];
+	//TODO: create onFail specific for the Topic index Edit
+	Promise.all(promises).then(showTopicListEdit, onFail);
 };
 
 const handle_dirButtonClick = (textbox) => {
@@ -204,24 +253,22 @@ const handle_drpProcessChange = (evt) => {
 	}
 	const cnames = Processes[process].controls;
 	collapsableControls.forEach(c => {
-		// const control = controls[c];
-		
-		// const tagName = control.tagName.toUpperCase();
 		const hide = (collapsed || cnames.indexOf(c) === -1);
 		$(controls[c]).closest('.form-group').toggleClass('d-none', hide);
-		// const parent = (tagName === 'INPUT' ? control.parentNode.parentNode :
-		// 	control.parentNode.parentNode.parentNode);
-		// parent.classList.toggle('d-none', hide);
 	});
 	updateDefaultPaths();
 };
 
-const handle_drpCategories2Change = () => {
-	const category = controls.drpCategories2.value;
-	const txtDir = path.join(app.getAppPath(), 'input', `txt/topic-index-${lan}`);
-	topicindexEdit.readFromTXT(txtDir, category)
-		.then(() => showTopicListEdit())
-		.catch(onFail);
+const handle_drpCategories2Change = (evt) => {
+	updateTopicIndexEdit();
+};
+
+const handle_drpTopicLanguage1Change = (evt) => {
+	updateTopicIndexEdit();
+};
+
+const handle_drpTopicLanguage2Change = (evt) => {
+	updateTopicIndexEdit();
 };
 
 const handle_exeButtonClick = () => {
@@ -450,35 +497,6 @@ const showTopicList = () => {
 		.join('');
 };
 
-const showTopicListEdit = () => {
-	// Fill dropdown
-	const topics = topicindexEdit.topics
-		/*.filter(t => t.type != 'OTHER' && t.lines.length < 4)*/
-		.sort((a, b) => {
-			if (a.sorting > b.sorting) return 1;
-			if (a.sorting < b.sorting) return -1;
-			return 0;
-		});
-	controls.lbxTopics.innerHTML = topics
-		.map(t => {
-			const n = t.name;
-			const errs = t.errors && t.errors.length > 0 ? 
-				`  [Errors: ${t.errors.length}]` : '';
-			const style = t.errors && t.errors.length > 0 ? 
-				` style="background-color:#f8d7da"` : '';
-			return `<div class="list-group-item btn-sm list-group-item-action py-0 px-2 flex-column align-items-start">
-					<div class="d-flex w-100 justify-content-between pb-1">
-						<div>${n}</div>
-						<div>${t.type}</div>
-					</div>
-				</div>`;
-				// 'list-group-item btn-sm list-group-item-action px-0' + 
-				// ' flex-column align-items-start'
-			// return `<option value="${n}"${style}>${n} [${t.type}]${errs}</option>`;
-		})
-		.join('');
-};
-
 const showTopic = (name) => {
 	let html = `<h2 class="mb-1">${name}</h2>`;
 	
@@ -522,6 +540,124 @@ const showTopic = (name) => {
 		}).join('');
 	}
 	controls.logArea.innerHTML = html;
+};
+
+const showTopicListEdit = () => {
+	//Unhandle
+	$(controls.lbxTopics).find('.list-group-item').off('click');
+	//Fill topic list
+	const topics = topicindexEdit.topics
+		.sort((a, b) => {
+			if (a.sorting > b.sorting) return 1;
+			if (a.sorting < b.sorting) return -1;
+			return 0;
+		});
+	controls.lbxTopics.innerHTML = topics
+		.map(t => {
+			const n = t.name;
+			const active = (n === topicEditing ? ' active' : '');
+			const errs = t.errors && t.errors.length > 0 ? 
+				`  [Errors: ${t.errors.length}]` : '';
+			const style = t.errors && t.errors.length > 0 ? 
+				` style="background-color:#f8d7da"` : '';
+			return `<div class="list-group-item btn-sm list-group-item-action 
+					py-0 px-2 flex-column align-items-start${active}">
+					<div class="d-flex w-100 justify-content-between pb-1">
+						<div>${n}</div>
+						<div>${t.type}</div>
+					</div>
+				</div>`;
+		})
+		.join('');
+	//Handle
+	$(controls.lbxTopics).find('.list-group-item').on('click', function() {
+		const name = $(this).find('div > div:first-child').text();
+		topicEditing = name;
+		$(controls.lbxTopics).find('.list-group-item').toggleClass('active', false);
+		$(this).toggleClass('active', true);
+		showTopicEdit();
+	});
+};
+
+const showTopicEdit = () => {
+	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
+	const sorting = topic.sorting;
+	const topic2 = topicindexEdit2.topics.find(t => t.sorting === sorting);
+	const aliases = (topic.altnames ? topic.altnames : []);
+	const refs = (topic.refs ? topic.refs : []);
+	const seeAlso = (topic.seeAlso ? topic.seeAlso : []);
+	const links = (topic.links ? topic.links : []);
+	const lines = (topic.lines ? topic.lines : []);
+	const lines2 = (topic2.lines ? topic2.lines : []);
+	const fillFn = a => `<option value="${a}">${a}</option>`;
+
+	controls.txtTopicName.value = topicEditing;
+	controls.drpTopicAliases.innerHTML = aliases.map(fillFn).join('');
+	controls.drpTopicRefs.innerHTML = refs.map(fillFn).join('');
+	controls.drpTopicSeeAlso.innerHTML = seeAlso.map(fillFn).join('');
+	controls.drpTopicLinks.innerHTML = links.map(fillFn).join('');
+
+	//Unhandle
+	$(controls.lbxLines).find('.list-group-item').off('click');
+
+	//Fill lines listbox
+	controls.lbxLines.innerHTML = lines
+		.map((line, i) => {
+			return `<div class="list-group-item btn-sm list-group-item-action 
+				py-0 px-2 flex-column align-items-start">
+				<div class="row">
+					<div class="d-none">${line.fileline}</div>
+					<div class="col-5">${line.text}</div>
+					<div class="col-5">${lines2[i].text}</div>
+					<div class="col-2">${line.refs.join(', ')}</div>
+				</div>
+			</div>`;
+		})
+		.join('');
+	//Handle
+	$(controls.lbxLines).find('.list-group-item').on('click', function() {
+		const fileline = $(this).find('div > div:first-child').text();
+		filelineEditing = parseInt(fileline);
+		$(controls.lbxLines).find('.list-group-item').toggleClass('active', false);
+		$(this).toggleClass('active', true);
+		showLinesUB();
+	});
+};
+
+const showLinesUB = () => {
+	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
+	const line = topic.lines.find(ln => ln.fileline === filelineEditing);
+	const fn = (r1, r2) => {
+		const par1 = (r1 ? bookEdit.getPar(r1[0], r1[1], r1[2]).par_content : 'Error');
+		const par2 = (r2 ? bookEdit2.getPar(r2[0], r2[1], r2[2]).par_content : 'Error');
+		const ercls = (r1 == null || r2 == null ? ' alert alert-danger' : '');
+		return `<div class="list-group-item btn-sm list-group-item-action 
+			py-0 px-2 flex-column align-items-start${ercls}">
+			<div class="row">
+				<div class="col-5">${par1}</div>
+				<div class="col-5">${par2}</div>
+				<div class="col-2">${r1[0]}:${r1[1]}.${r1[2]}|${r2[0]}:${r2[1]}.${r2[2]}</div>
+			</div>
+		</div>`;
+	};
+	controls.lbxUBLines.innerHTML = line.refs.map(ref => {
+		let arRefs1 = null;
+		let arRefs2 = null;
+		try {
+			arRefs1 = bookEdit.getRefs(ref);
+		} catch (er) {}
+		try {
+			arRefs2 = bookEdit2.getRefs(ref);
+		} catch (er) {}
+
+		if (!arRefs1 || !arRefs2 || arRefs1.length != arRefs2.length) {
+			arRefs1 = [null];
+			arRefs2 = [null];
+		}
+		return arRefs1.map((r, i) => {
+			return fn(arRefs1[i], arRefs2[i]);
+		}).join('');
+	}).join('');
 };
 
 const showTopicSummary = (obj) => {
