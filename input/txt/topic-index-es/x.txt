@@ -1,20 +1,14 @@
 ####################################################################################
 #
-#                    X
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+#                     X
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-
-
-
-
-rayos X | (41:5.1-5) | Ver radioactividad | | 
+rayos X | (41:5.1-5) | radioactividad | | 
 15 pies de superficie de densidad Urantia evitarían el escape solar de
 Rayos X que provocan una explosión (41:5.1)
 permitir que la luz escape de los soles (41:9.1)

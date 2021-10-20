@@ -1,16 +1,12 @@
 ####################################################################################
 #
-#                    Y
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+#                     Y
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
 
 Yahvé | (96) (97:3) | | PERSON | 
 Y antropomórfica de mayor valor religioso que un Absoluto remoto (94:11.12)
@@ -40,7 +36,7 @@ tribus árabes del sur o errantes (97:3.2)
 yaks | | | | 
 domesticado por 5000 a.C. (81:2.12)
 
-yang | | Ver yin y yang | | 
+yang | | yin y yang | | 
 
 río Yangtze | | | PLACE | 
 Cultura china en 18.000 a.C. a lo largo (79:6.5) (79:8.5)
@@ -51,10 +47,10 @@ creencia de que un fantasma maligno podría entrar en la boca durante (87:3.2)
 anhelo | | | | 
 ser culpable de crónico (155:1.3)
 
-años | | Ver tiempo:días y años | | 
+años | | tiempo:días y años | | 
 1000 años a los ojos de Dios (2:2.2)
 
-raza amarilla | (64:6.14-16) | Ver chinos; razas | RACE | 
+raza amarilla | (64:6.14-16) | chinos; razas | RACE | 
 consolidación de Asia central en 15.000 a.C. (78:1.7) (78:3.8)
 se hundió en la oscuridad después de la apostasía de Caligastia (64:6.15)
 expulsó a los andonitas de Asia (78:1.5) (79:6.1)

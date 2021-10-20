@@ -1,22 +1,17 @@
-##################################################################################
+####################################################################################
 #
 #                     B
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
-##################################################################################
-
-
-
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
+####################################################################################
 
 ba y ka | | | | 
 Enseñanza egipcia y africana del alma y el espíritu (111:0.4-6)
 
-Baal | | Ver baalitas | PERSON | OK
+Baal | | baalitas | PERSON | OK
 la palabra Baal significa propietario (97:3.3)
 fue un culto fundado en el derecho a comprar y vender tierras; Baal enviaba la lluvia (97:3.3) (97:9.24)
 se producía prostitución ritual en los templos (97:3.4)
@@ -27,9 +22,9 @@ hubo un templo en la colina en Nazaret 100 años atrás de la época de Jesús (
 Baal-Perazim | | | PLACE | 
 ciudad nombrada por el rey David (97:9.12)
 
-Baales | | Ver baalitas | | 
+Baales | | baalitas | | 
 
-baalitas | | Ver Baal | RACE | 
+baalitas | | Baal | RACE | 
 aristócratas habitantes de la ciudad, con casas propias, tierras, y esclavos (97:3.4)
 Elías defendió las antiguas costumbres de la tierra contra la venta de tierras (97:9.19)
 Cananeos del norte y más asentados (97:3.3)
@@ -43,14 +38,14 @@ torre de Babel (77:3)
 	tercer esfuerzo de construirla por parte de los anditas (78:8.4)
 	monumento a la grandeza racial nodita; contenciones (77:3)
 
-bebés | | Ver niños | | 
+bebés | | niños | | 
 
-Bablod | | Ver Babel | PLACE | 
+Bablod | | Babel | PLACE | 
 
 Bablot (arquitecto) | | | PERSON | OK
 Bablot fue el arquitecto y constructor de la torre de Babel (77:3.1-3)
 
-Bablot (ciudad) | | Ver Babel | PLACE | 
+Bablot (ciudad) | | Babel | PLACE | 
 
 babuinos | | | | 
 los mamíferos intermedios retrasados ​​eran antepasados ​​de los babuinos (62:3.12)
@@ -58,7 +53,7 @@ los mamíferos intermedios retrasados ​​eran antepasados ​​de los babuin
 lenguaje infantil | | | | 
 ilustra el origen de los dialectos (81:6.17)
 
-Babilonia | (130:0.3) (134:1.1) | Ver babilonios | PLACE | 
+Babilonia | (130:0.3) (134:1.1) | babilonios | PLACE | 
 el bautismo era un ceremonial religioso en Babilonia (85:4.1)
 caballería de Babilonia empujada hacia Mesopotamia (79:1.5)
 El judaísmo fue salvado del olvido por los maestros de Babilonia (121:6.8)
@@ -79,7 +74,7 @@ los sacerdotes destruyeron registros después (97:8.1)
 los sacerdotes inventaron leyendas durante (74:8.9-11) (78:7.3)
 Conmocionó al resto de Israel al monoteísmo (97:9.26)
 
-babilonios | | Ver Babilonia | RACE | 
+babilonios | | Babilonia | RACE | 
 contacto inmediato con restos de adanitas (74:8.6)
 parte de la raza semítica más antigua que incluía judíos (121:2.1)
 enseñó al hombre que descendía directamente de los dioses (74:8.6)
@@ -96,7 +91,7 @@ Andón y Fonta sucumbieron a sus miedos por un tiempo (63:2.1)
 el hombre puede abandonar repetidamente a Dios mientras permanece la elección (5:1.11)
 dar la vuelta después de poner la mano en el arado (163:2.3)
 
-bacterias | | Ver hongos | | 
+bacterias | | hongos | | 
 helechos destruidos en Devónico (59:4.13)
 Portadores de Vida decepcionados por la reversión del parásito (65:5.2)
 poco cambiado desde la antigüedad (65:2.3)
@@ -107,7 +102,7 @@ Badonán | | | PERSON |
 Badonán fue un tataranieto de Andón y Fonta, los primeros padres del género humano (64:3.1)
 fundó un centro de cultura en lo que actualmente es Afganistán (67:6.1) (79:0.1)
 
-tribus de Badonán | | Ver andonitas | RACE | 
+tribus de Badonán | | andonitas | RACE | 
 creía en 2 almas, el aliento y la sombra (86:5.17)
 temeroso del hielo, el agua (64:3.3)
 nunca practicó sacrificios humanos (64:3.1)
@@ -119,7 +114,7 @@ guerra de exterminio contra vecinos inferiores (64:3.5)
 tribus Baganda | | | RACE | 
 emergió del nivel de maná de oración (91:0.5)
 
-equilibrar | | Ver simetría | | 
+equilibrar | | simetría | | 
 en el judaísmo, la filosofía y la estética están completamente sumergidas en la religión y la moral (97:10.5) (98:2.7-9)
 falta de equilibrio entre el crecimiento intelectual y espiritual peligroso (98:1.6)
 falta de equilibrio en Grecia, donde la experiencia religiosa personal no pudo seguir el ritmo del intelecto (98:2.7-9)
@@ -143,7 +138,7 @@ Infiltración andita en (79:1.1) (79:2.4)
 banco (moral) | | | | 
 tiene vastos recursos espirituales (195:6.1)
 
-bancario | | Ver cambistas; usura | | 
+bancario | | cambistas; usura | | 
 la tasa de interés antigua era del 100% (69:5.6)
 crédito comercial practicado por primera vez en Dalamatia (66:5.12)
 los tribunales determinan las tasas de interés en la nación continental (72:5.5)
@@ -155,7 +150,7 @@ Judas depositó fondos (147:2.1) (163:2.11) (172:2.3)
 Moisés dijo que su pueblo prestaría pero no pediría prestado (96:5.4)
 el sirviente negligente debería haber obtenido interés (171:8.6) (176:3.4)
 
-estandarte de Miguel | | Ver círculos concéntricos, tres | | 
+estandarte de Miguel | | círculos concéntricos, tres | | 
 
 banquetes | | | | 
 Costumbre judía contra las mujeres sentadas en (172:1.2)
@@ -167,8 +162,8 @@ hadas malignas | | | |
 Los monoteístas en evolución mantienen a los dioses subordinados como (96:1.14)
 
 bautismo | | | | 
-bautismo de Jesús | Ver Jesús:eventos en la vida
-bautismo del espíritu | Ver renacimiento espiritual
+bautismo de Jesús | Jesús:eventos en la vida
+bautismo del espíritu | renacimiento espiritual
 evolución de la ceremonia (87:6.12)
 en la iglesia cristiana primitiva (194:4.9)
 Jesús nunca se opuso al rito de (170:5.13)
@@ -204,7 +199,7 @@ percebes | (59:4.3) | | |
 el rico tonto que derriba sus graneros (parábola) | | | | 
 el rico tonto derribado (165:4.2)
 
-esterilidad | | Ver fertilidad | | 
+esterilidad | | fertilidad | | 
 entre los antiguos, la esterilidad se atribuía a maquinaciones espirituales (83:4.4)
 los antiguos siempre culparon la esterilidad sobre la esposa (83:7.2)
 muñeca empleada por primera vez como talismán contra (88:6.4)
@@ -230,7 +225,7 @@ brutal incursión hebrea contra el rey de Basan (69:8.3)
 cestería | | | | 
 origen de la idea (81:2.17-18)
 
-vascos | | Ver raza blanca:divisiones:sur | RACE | 
+vascos | | raza blanca:divisiones:sur | RACE | 
 raza azul mezclada con saharauis (80:9.11)
 
 Batanea | (138:2.4) (154:7.4) (155:0.1) | | PLACE | 
@@ -270,7 +265,7 @@ fortalecer el carácter moral, crear felicidad (140:5.6-24)
 puerta Hermosa (Jerusalén) | | | | 
 en el templo de Jerusalén (162:4.3)
 
-belleza | | Ver arte; verdad, belleza y bondad | | 
+belleza | | arte; verdad, belleza y bondad | | 
 siempre triunfa sobre la fealdad (156:5.5)
 los antiguos creían que la belleza despertó la envidia de los espíritus (87:5.7)
 basar la vida en la conciencia más elevada de (110:3.7)
@@ -299,7 +294,7 @@ variedad esencial para (56:10.3-4)
 castores | (61:2.7) (61:5.7) | | | 
 Las tribus indias creían que se originaron en (74:8.5)
 
-beduinos | | Ver árabes | RACE | 
+beduinos | | árabes | RACE | 
 creía que el espíritu de la naturaleza producía remolinos de arena (85:4.2)
 
 hayas | (60:3.19) | | | 
@@ -321,9 +316,9 @@ carecía de capacidad para responder a la dirección espiritual (130:8.4)
 mendicidad | | | | 
 casi desconocido entre las tribus antiguas (69:9.1)
 
-comienzo de la realidad | | Ver realidad:génesis de la realidad | | 
+comienzo de la realidad | | realidad:génesis de la realidad | | 
 
-comportamiento | | Ver acción | | 
+comportamiento | | acción | | 
 
 ser | | | | 
 versus hacer (140:10.1)
@@ -347,7 +342,7 @@ hubo templos a Belo-Marduc en Babilonia (95:1.10)
 Bélgica | (61:4.2) | | PLACE | 
 asentamiento danubiano más al norte en Lieja en (80:8.4)
 
-creencia | | Ver fe | | 
+creencia | | fe | | 
 aceptación de la enseñanza como verdadera (101:8.1)
 siempre limita y vincula (101:8.2)
 y fe (102:6)
@@ -358,11 +353,11 @@ puede que no pueda resistir la duda y el miedo (102:6.7)
 Las religiones de autoridad requieren uniformidad en (155:6.9)
 tiempo requerido para efectuar un cambio radical en fundamental (152:6.1)
 
-creyentes | | Ver hijos de Dios por la fe | | 
+creyentes | | hijos de Dios por la fe | | 
 
-oración del creyente | | Ver oración del Señor | | 
+oración del creyente | | oración del Señor | | 
 
-beligerancia | | Ver odio | | 
+beligerancia | | odio | | 
 
 campanas | | | | 
 Doncella china sacrificada para mejorar el tono (89:6.4)
@@ -377,7 +372,7 @@ La bendición de Jesús a los apóstoles (193:5.2)
 Bengala | | | PLACE | 
 adoración del meteoro que cayó en 1880 d.C. (85:1.2)
 
-bereberes | | Ver raza blanca:divisiones:sur | RACE | 
+bereberes | | raza blanca:divisiones:sur | RACE | 
 raza azul mezclada con saharauis (80:9.11)
 
 puente terrestre de Bering | | | PLACE | 
@@ -388,9 +383,9 @@ subió o bajó (60:1.6,13) (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6)
 Berenice | | | PERSON | OK
 Berenice era la madre de Justa, en cuya casa Jesús se alojó cuando estuvo en Sidón (156:2.2)
 
-donación | | Ver Hijos Creadores:donaciones de criaturas | | 
+donación | | Hijos Creadores:donaciones de criaturas | | 
 
-Asistentes de las Donaciones | | Ver Serafines supremos | | 
+Asistentes de las Donaciones | | Serafines supremos | | 
 144 Serafines supremos que asisten a misiones avonales (39:1.4-6)
 
 Bet-Marión | | | PERSON | OK
@@ -411,7 +406,7 @@ antigua ciudad hebrea; más tarde Escitópolis (124:3.6-9)
 Bet-sur | | | PLACE | 
 hogar de Ezda (135:3.1)
 
-Betábara | | Ver Betania en el Jordán | PLACE | 
+Betábara | | Betania en el Jordán | PLACE | 
 
 Betania en el Jordán | | | PLACE | 
 También llamada Betábara, un vado en el río Jordán (171:2.1)
@@ -449,7 +444,7 @@ Betfagé | | | PLACE |
 aldea corta distancia al noroeste de Betania (168:3.7) (172:3.6)
 El burro del Domingo de Ramos de Jesús de (172:3.6)
 
-Betsaida | (129:1.2) (148:8) (152:5) (186:3.2-3) (192:3.3) | Ver Cafarnaúm | PLACE | 
+Betsaida | (129:1.2) (148:8) (152:5) (186:3.2-3) (192:3.3) | Cafarnaúm | PLACE | 
 campamento en (148)
 	500 a 1500 presentes; modelo de orden y saneamiento (148:0.1)
 	1000 mejoraron o curaron en el hospital (148:2.1)
@@ -471,7 +466,7 @@ Betsaida-Julias | (138:9.3) (149:0.1) (157:2) | | PLACE |
 hermoso parque Magadan al sur de (155:0.1) (157:2.1)
 ay de los habitantes de (163:6.5) que rechazan la luz
 
-traición | | Ver deserción | | 
+traición | | deserción | | 
 el mayor dolor es ser herido en casa de un amigo (149:6.12)
 Jesús (183)
 La ley judía prohibía el testimonio de traidores (184:3.6)
@@ -481,16 +476,16 @@ Las Solemnidades de la Confianza reflejan las posibilidades individuales de (28:
 primer crimen capital (70:10.15)
 castigo de traición en nación continental (72:6.9)
 
-traidor | | Ver Judas Iscariote | | 
+traidor | | Judas Iscariote | | 
 
-esponsales | | Ver matrimonio | | 
+esponsales | | matrimonio | | 
 
 hechicerías | | | | 
 Jesús denunció la creencia en (150:3.12)
 
-Biblia | | Ver libros sagrados | | 
+Biblia | | libros sagrados | | 
 
-bigamia | | Ver matrimonio:entre primitivos | | 
+bigamia | | matrimonio:entre primitivos | | 
 
 Bildad | | | PERSON | OK
 Bildad era uno de los amigos de Job que ante la desdicha de éste le ofreció una serie de consejos deprimentes para Job (148:6.5,9)
@@ -509,10 +504,10 @@ domesticado por 5000 a.C. (81:2.12)
 evolucionó a partir de dinosaurios saltarines de huesos huecos (60:2.12) (60:3.22)
 Los pájaros pre-pájaros tenían muy poco cerebro para el tamaño corporal (60:3.21)
 los primitivos creían que las aves eran la fuente del viento (85:3.4)
-tipos nombrados | Ver murciélagos; buitres; palomas mensajeras; palomas; patos; águilas; halcones; flamencos; gaviotas; garzas; avestruces; búhos; loros; aves pasajeras; palomas; aves de corral; codorniz; cuervos; gorriones
+tipos nombrados | murciélagos; buitres; palomas mensajeras; palomas; patos; águilas; halcones; flamencos; gaviotas; garzas; avestruces; búhos; loros; aves pasajeras; palomas; aves de corral; codorniz; cuervos; gorriones
 utilizado para el transporte en Jerusem (46:2.4)
 
-texto de cumpleaños | | Ver Jesús:texto de cumpleaños de Isaías | | 
+texto de cumpleaños | | Jesús:texto de cumpleaños de Isaías | | 
 
 marcas de nacimiento | | | | 
 creído causado por el mal de ojo (87:5.5)
@@ -527,7 +522,7 @@ montañas de la Selva Negra | (59:5.12) | | PLACE |
 Viernes Negro | | | | 
 conmemoró la muerte autoinfligida de Atis (98:4.7)
 
-raza negra | | Ver raza índiga | RACE | 
+raza negra | | raza índiga | RACE | 
 
 mar Negro | | | PLACE | 
 Los andonitas entraron en Europa a través de la región de (80:9.6)
@@ -560,7 +555,7 @@ Jesús le devolvió la vista a Josías (164:3)
 los rabinos enseñaron la ceguera causada por el pecado (164:3.3)
 a veces invitan a banquetes (167:1.5)
 
-sangre | | Ver doctrina de la expiación; beber sangre | | 
+sangre | | doctrina de la expiación; beber sangre | | 
 entre los primeros medicamentos (90:4.8)
 los antiguos creían sangre hijo creado (84:2.1)
 el «dinero de sangre» fue un sustituto de la venganza; Moisés lo abolió (70:10.12)
@@ -591,7 +586,7 @@ sello de amistad, aceptación en el clan (66:5.22) (70:3.7)
 camino sangriento | (182:2.11) | | | 
 Nombre dado al camino de Jerusalén a Jericó
 
-raza azul | (64:6.21-24) | Ver cromañones; razas | RACE | 
+raza azul | (64:6.21-24) | cromañones; razas | RACE | 
 Los adanitas preferidos; infiltrado por 15.000 a.C. (64:6.21) (78:3.5,7) (80:1.5-7) (80:8.1)
 mejor absorbido por los anditas; no apto exterminado (80:5.6) (80:9.11)
 base biológica de la raza blanca (80:0.1) (80:5.7) (80:9.2,5,10)
@@ -625,9 +620,9 @@ sobrevivió en vascos y bereberes (80:9.11)
 unidos con los adanitas, que exterminaron las cepas de los neandertales para producir cromagnones (80:1.5-8)
 generalmente somete a la raza índiga (51:4.6)
 
-consejo de la domesticación y utilización de los animales | | Ver cien de Caligastia | | 
+consejo de la domesticación y utilización de los animales | | cien de Caligastia | | 
 
-cuerpo de los veinticuatro supervisores planetarios | | Ver veinticuatro consejeros | | 
+cuerpo de los veinticuatro supervisores planetarios | | veinticuatro consejeros | | 
 
 barcos | | | | 
 Los marineros anditas se asentaron en Creta hacia el 12.000 a.C. (140:0.2) (157:1.2-3) (192:1.1,3)
@@ -651,7 +646,7 @@ La visión nocturna de Pedro en el mar de Galilea (152:4)
 comercio marítimo activo en 2500 a.C. (80:9.9)
 tráfico marítimo entre India y Mesopotamia (79:3.2)
 
-cuerpo humano | | Ver sangre; cerebros; eugenesia; ojos; carne; genética; personalidad:formas de personalidad; estructuras esqueléticas | | 
+cuerpo humano | | sangre; cerebros; eugenesia; ojos; carne; genética; personalidad:formas de personalidad; estructuras esqueléticas | | 
 después de la muerte, cuerpo humano se descarta la cubierta exterior (30:4.15) (39:2.13) (189:1.2)
 cuerpos creados para Caligastia 100 (66:2.7-8)
 no puede ser transportado por transporte seráfico (39:2.13)
@@ -668,7 +663,7 @@ el espíritu es arquitecto, la mente es constructora (42:12.12)
 templo de Dios (1:4.2) (34:6.7) (143:2.4) (160:4.9)
 cruel a sabiendas para profanar o contaminar (110:1.5)
 
-Bon | | Ver cien de Caligastia | PERSON | OK
+Bon | | cien de Caligastia | PERSON | OK
 Bon era miembro de los cien asistentes de Caligastia en Urantia; presidió el consejo de domesticación y utilización de animales (66:5.4)
 él y todo su consejo de diez miembros se perdió en la rebelión de Lucifer, pues se unieron a su causa (67:4.1)
 
@@ -682,20 +677,20 @@ Primates hechos espículas de (63:1.2)
 primitivos líderes venerados (88:2.1)
 
 Libros; libro de la vida | | | | 
-Hechos de los Apóstoles | Ver Hechos de los Apóstoles
-De los muertos | Ver Libro de los Muertos
-Deuteronomio | Ver Deuteronomio
+Hechos de los Apóstoles | Hechos de los Apóstoles
+De los muertos | Libro de los Muertos
+Deuteronomio | Deuteronomio
 Eclesiastés.
-Enoc | Ver Enoc:Libro
-Génesis | Ver Génesis
-Hebreos | Ver Hebreos
-Isaías | Ver Isaías (primero); Isaías (segundo)
+Enoc | Enoc:Libro
+Génesis | Génesis
+Hebreos | Hebreos
+Isaías | Isaías (primero); Isaías (segundo)
 Job.
 Libro de la vida. Los Custodios del Conocimiento son libros vivientes (27:5.1)
-Proverbios | Ver Proverbios (libro)
+Proverbios | Proverbios (libro)
 Salmos.
-Apocalipsis | Ver Apocalipsis
-Sabiduría | Ver Eclesiastés
+Apocalipsis | Apocalipsis
+Sabiduría | Eclesiastés
 
 contable | | | | 
 Dios no es un (141:4.1)
@@ -728,11 +723,11 @@ raza roja inventada (64:6.4)
 
 braquiópodos | (59:1.18) (59:2.12) (59:3) (59:4.3) | | | 
 
-Brahma | | Ver Brahmán; brahmánismo; hinduismo | PERSON | OK
+Brahma | | Brahmán; brahmánismo; hinduismo | PERSON | OK
 Brahma el el primer miembro de la trinidad hindú Trimurti; creado a partir de la infinidad, el Brahmán; se le identifica con el destino (94:4.4) (104:1.5)
 se le considera el principio védico de la deidad-padre (94:1.4)
 
-Brahmán | | Ver Brahma; brahmánismo; hinduismo | PERSON | OK
+Brahmán | | Brahma; brahmánismo; hinduismo | PERSON | OK
 Al Brahmán-Narayana se le concibió como el Absoluto, el infinito ELLO ES, la fuerza creativa primordial del cosmos potencial, el Yo Universal que existe en el estado estático y potencial durante toda la eternidad (94:3.3-4).
 fue una idea distante de Absoluto que todo lo abarca pero de tipo impersonal (94:2.6-7)
 se consideraba el principio de energía-divinidad que activa el panteón védico (94:1.4)
@@ -741,10 +736,10 @@ la India quedó desamparada por la hipótesis impersonal de un Brahmán (94:2.4,
 el Infinito, el ELLO ES; sin atributos de personalidad (94:3.2) (94:4.3)
 la superalma védica de toda la creación (94:2.4)
 
-Brahmánas; Brahmanas | | Ver brahmánismo; hinduismo | | 
+Brahmánas; Brahmanas | | brahmánismo; hinduismo | | 
 Escrituras posteriores de la fe hindú (94:2.6)
 
-brahmánismo | (94:2) (94:3) | Ver Brahma; Brahmán; Brahmánas; hinduismo; India | RELIGION | 
+brahmánismo | (94:2) (94:3) | Brahma; Brahmán; Brahmánas; hinduismo; India | RELIGION | 
 los dioses antiguos de los arios incluyen Agni, Indra y Soma (94:4.6)
 Los arios llevaron el brahmánismo a la India (94:1.1)
 no pudo diferenciar niveles de realidad, reconocer el alma (94:3.7-8)
@@ -767,7 +762,7 @@ cerebros | | | |
 Ajustadores
 	no es parte orgánica del cerebro humano (110:1.1)
 	liberado si el cerebro humano se destruye irreparablemente (112:3.3)
-cerebro | Ver mortales:tipos planetarios
+cerebro | mortales:tipos planetarios
 	Mortales de 1, 2 y 3 cerebros (49:5.13-18) (109:3.5-6)
 	Los Ajustadores obtienen un mejor contacto con los mortales de 3 cerebros (109:3.5)
 	diferencias eliminadas en los mundos de las mansiones (40:5.17)
@@ -788,7 +783,7 @@ ramas | | | |
 morir cuando se separa de la vid (180:2.1)
 Padre corta sin fruto (193:3.2)
 
-valentía | | Ver valor | | 
+valentía | | valor | | 
 
 pan | | | | 
 pan de vida
@@ -813,7 +808,7 @@ parábola de los 3 panes (144:2.3)
 
 árboles de pan | (60:3.7) | | | 
 
-amamantamiento | | Ver destete | | 
+amamantamiento | | destete | | 
 
 aliento | | | | 
 los hombres primitivos pensaban que las cualidades del alma impartidas por el aliento (86:5.13)
@@ -821,7 +816,7 @@ los hombres primitivos pensaban que las cualidades del alma impartidas por el al
 Dador del Aliento | | | | 
 Onagar ordenó a los andonitas que adoraran (45:4.3) (63:6.1) (64:1.7)
 
-aliento de vida | (28:5.21) | Ver vida; plasma vital | | 
+aliento de vida | (28:5.21) | vida; plasma vital | | 
 el hombre primitivo se consideraba diferenciador de los vivos de los muertos (86:4.3)
 Los Espíritus Maternos de los universos locales contribuyen (34:2.5) (36:6.4)
 
@@ -852,7 +847,7 @@ novio | | | |
 Johab de Caná (137:4)
 no ayunar mientras el novio permanece (147:7.2)
 
-novias | | Ver matrimonio; bodas | | 
+novias | | matrimonio; bodas | | 
 espectáculos nupciales
 	entre los antiguos había exposiciones para aumentar los precios (83:3.2)
 	fiestas de presentación temprana (70:7.13)
@@ -863,9 +858,9 @@ puentes | | | |
 Jesús quemó todos los puentes detrás de él (196:2.7)
 el mundo es solo un puente (156:2.1)
 
-bandidos | | Ver ladrones | | 
+bandidos | | ladrones | | 
 
-Radiantes Estrellas Matutinas | (33:4) | Ver Gabriel | ORDER | 
+Radiantes Estrellas Matutinas | (33:4) | Gabriel | ORDER | 
 administradores, no creadores (33:4.4)
 Los Ancianos de los Días delegan el juicio masivo y las resurrecciones dispensacionales a (33:4.6)
 seres de versatilidad y brillantez inimaginables (33:4.3)
@@ -881,7 +876,7 @@ como los Hijos Creadores, pero limitada en la creación (32:2.6) (33:4.2)
 Serafines supremos del ministro Hijo-Espíritu afiliado al servicio de inteligencia de (39:1.2)
 se convertirían en administradores principales del universo local si los Hijos Creadores se fueran a nuevos universos en el espacio exterior (55:10.10)
 
-Brillantes Estrellas Vespertinas | | Ver Brillantes Estrellas Vespertinas (jefe) | ORDER | 
+Brillantes Estrellas Vespertinas | | Brillantes Estrellas Vespertinas (jefe) | ORDER | 
 también conocidos como superangeles (55:4.14)
 fácilmente visible para los morontiales (37:2.5)
 funciones y acciones
@@ -917,7 +912,7 @@ Los Serafines pueden convertirse (37:2.4) (39:8.1)
 Sede del sistema en el cuarto mundo de transición (45:1.6) (47:6.1)
 Suelen trabajar en parejas, una creada y una ascendente (37:2.7)
 
-Brillantes Estrellas Vespertinas (jefe) | | Ver Brillantes Estrellas Vespertinas | ORDER | 
+Brillantes Estrellas Vespertinas (jefe) | | Brillantes Estrellas Vespertinas | ORDER | 
 encargado de todas las comunicaciones personales (39:2.17)
 Gavalia, primogénito, es el jefe de las Brillantes Estrellas Vespertinas ascendente en Nebadon (37:2.6) (46:5.25) (119:0.1)
 escribió el documento 119 (119:8.9)
@@ -935,7 +930,7 @@ Misioneros de Salem en (93:7.2)
 separado del continente (64:1.5) (80:2.4)
 raza blanca dominante en 5000 a.C. (80:5.8)
 
-Bretaña | | Ver Islas Británicas | PLACE | 
+Bretaña | | Islas Británicas | PLACE | 
 Los andonitas mayores retuvieron una apariencia de identidad en (80:4.6)
 las supersticiones de la adoración al sol aún persisten (80:9.14)
 
@@ -954,16 +949,16 @@ receptores de las transmisiones | | | ORDER |
 los transmisores de energía son invaluables para (29:4.29)
 Seconafines primarios, sirven a los Ancianos de los Días (28:4.12)
 
-transmisores (Serafines superiores) | | Ver transmisiones (celestiales) | ORDER | 
+transmisores (Serafines superiores) | | transmisiones (celestiales) | ORDER | 
 puede transmitir simultáneamente 144.000 mensajes (39:2.15)
 despachadores de registros, información esencial (39:2.15)
 mantener contacto con Coordinadores de la Información de Supernafines terciarios y Serafines de consumación (39:2.15)
 utilizar técnicas ideográficas superáficas (39:2.15)
 
-emisoras (Supernafines terciarios) | | Ver transmisiones (celestiales) | ORDER | 
+emisoras (Supernafines terciarios) | | transmisiones (celestiales) | ORDER | 
 directores de informes espaciales, Supernafines terciarios (26:3.6)
 
-transmisiones (celestiales) | (46:3) | Ver transmisores (Serafines superiores); emisoras (Supernafines terciarios) | ORDER | 
+transmisiones (celestiales) | (46:3) | transmisores (Serafines superiores); emisoras (Supernafines terciarios) | ORDER | 
 Los ajustadores reciben transmisiones continuamente a través de circuitos maestros (110:4.1) (110:7.6)
 el registro posterior asegura la recepción adecuada (44:4.10)
 extendido a todos los mundos excepto aquellos en cuarentena (33:6.5)
@@ -995,15 +990,15 @@ Edad del Bronce | | | |
 Hacia el 3.000 a.C. (80:9.13)
 no es un período distinto (81:3.4)
 
-cavilaciones | | Ver aislamiento | | 
+cavilaciones | | aislamiento | | 
 resistir cavilaciones ante el dolor (156:5.17)
 
 guardián de burdel en Jerusalén | | | | 
 mojar los pies de Jesús con lágrimas, secar con el pelo (147:5.3-4)
 
-burdeles | | Ver prostitución | | 
+burdeles | | prostitución | | 
 
-hermandad (actitud) | | Ver hermandad de los hombres; hermandad de creyentes; amistad; evangelio; amor; tolerancia; unidad | | 
+hermandad (actitud) | | hermandad de los hombres; hermandad de creyentes; amistad; evangelio; amor; tolerancia; unidad | | 
 lograr por
 	apelar al Ajustador (149:3.3)
 	acercarse a otras religiones por verdades en común (149:2.5)
@@ -1030,7 +1025,7 @@ Miqueas:vive cada uno según su entendimiento de Dios (97:5.5)
 el factor más poderoso y tenue de la civilización (118:8.10)
 a menos que sea religioso, la hermandad es una abstracción desprovista de amor (16:9.8)
 
-hermandad de los hombres | | Ver hermandad (actitud); evangelio | | 
+hermandad de los hombres | | hermandad (actitud); evangelio | | 
 civilización rodeada por el amor (100:4.6)
 deriva de la paternidad de Dios (12:7.8,10) (16:9.14) (52:6.7) (134:4.1) (159:5.7) (195:8.11)
 implica el ajuste del yo a otros yoes (99:5.1)
@@ -1044,11 +1039,11 @@ revelación esencial para la realización de (52:6.2)
 transformación espiritual la forma más rápida de realizar (52:6.7)
 la universalidad del amor de Dios crea (12:7.8,10)
 
-Hermandad de los Intermedios Unidos | | Ver intermedios | ORDER | 
+Hermandad de los Intermedios Unidos | | intermedios | ORDER | 
 
-hermandades | | Ver sociedades secretas | | 
+hermandades | | sociedades secretas | | 
 
-hombres cobrizos | | Ver razas | RACE | 
+hombres cobrizos | | razas | RACE | 
 razas rojas y amarillas mixtas; islas controladas frente a Asia (64:7.6,16)
 en las islas del Pacífico cercanas (78:3.8)
 Serapatatia era de los hombres cobrizos (75:3.1)
@@ -1056,18 +1051,18 @@ Serapatatia era de los hombres cobrizos (75:3.1)
 duendes | | | | 
 Los monoteístas en evolución mantienen a los dioses subordinados como (96:1.14)
 
-brutalidad | | Ver crueldad | | 
+brutalidad | | crueldad | | 
 
-Buda | | Ver budismo; Siddharta Gautama | PERSON | OK
+Buda | | budismo; Siddharta Gautama | PERSON | OK
 Fue el nombre que recibió el maestro Gautama, venerado como iluminado (92:5.12) (94:8.2) (94:9.1)
 Buda se convirtió en un devoto reflexivo del ocio (69:2.5)
 Jesús tuvo una charla con Gonod sobre Buda (132:7.3-5)
 el retorno de Buda es algo esperado en el Tíbet, China e India (92:5.6)
 
-Buda (Sakyamuni); Sakya-Muni Buda | | Ver Buda; budismo | PERSON | OK
+Buda (Sakyamuni); Sakya-Muni Buda | | Buda; budismo | PERSON | OK
 Los seguidores de Gautama lo llamaron también Sakya-Muni Buda (94:8.2)
 
-budismo | (94:8) | Ver Buda; Siddharta Gautama | RELIGION | 
+budismo | (94:8) | Buda; Siddharta Gautama | RELIGION | 
 adaptabilidad a las costumbres igualadas solo por el cristianismo (92:6.16)
 degenerado en ritual ajeno a Gautama (94:7.8) (94:9.3)
 no produjo una religión de servicio desinteresado (94:8.19)
@@ -1141,7 +1136,7 @@ raza inferior (68:1.6) (103:3.1)
 sin nombres individuales (88:5.5)
 todavía emplean líneas de recolección de alimentos (68:5.3)
 
-negocio | | Ver comercio | | 
+negocio | | comercio | | 
 
 mantequilla | | | | 
 se hizo común en los días del personal del Príncipe (66:5.5)

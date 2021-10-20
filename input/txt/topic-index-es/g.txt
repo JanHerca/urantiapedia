@@ -1,18 +1,14 @@
 ####################################################################################
 #
 #                     G
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-
-
-Gabriel | (33:4) (189:1.5,10) | Ver Radiantes Estrellas Matutinas | PERSON | OK
+Gabriel | (33:4) (189:1.5,10) | Radiantes Estrellas Matutinas | PERSON | OK
 las Brillantes Estrellas Vespertinas son los oficiales de enlace para Gabriel (37:2.1-3)
 los presidentes de los cien consejos de sanciones supremas componen el gabinete de trabajo de Gabriel (33:8.4)
 como Gabriel no puede estar en dos lugares al tiempo las Brillantes Estrellas Vespertinas compensan esa limitación (37:2.2)
@@ -87,10 +83,10 @@ ella es el jefe asociado de estos superángeles (46:5.25)
 Galacia | | | PLACE | 
 Mateo predicó en (139:7.10)
 
-galaxias | | Ver niveles de espacio; universo | PLACE | 
+galaxias | | niveles de espacio; universo | PLACE | 
 375 millones nuevas galaxias pronto serán observadas por los astrónomos urantianos (12:2.3)
 
-Galilea | (137) (146) (155) | Ver Palestina; mar de Galilea | PLACE | 
+Galilea | (137) (146) (155) | Palestina; mar de Galilea | PLACE | 
 mal visto por los líderes de Jerusalén; en gran parte gentil (121:2.12)
 conversión forzosa de la población gentil (139:0.2)
 Herodes reconstruyó ciudades en (121:2.11)
@@ -113,12 +109,12 @@ Gamaliel | | | PERSON |
 Gamaliel fue un renombrado maestro en Jerusalén (126:5.3)
 aconsejó al sanedrín en contra del encarcelamiento de los seguidores de Jesús (194:4.10)
 
-juegos de azar | | Ver azar; suerte | | 
+juegos de azar | | azar; suerte | | 
 personas civilizadas todavía predispuestas a (86:1.4)
 natural a primitivas; deseo de algo a cambio de nada (69:2.7)
 
 juegos | | | | 
-juegos de atletismo | Ver deportes
+juegos de atletismo | deportes
 una vez, la persona contada debe morir; ahora, solo «eso» (90:2.4)
 
 rayos gamma | | | | 
@@ -142,7 +138,7 @@ fue un digno sucesor de su eminente padre (133:9.5)
 jardín | | | | 
 Jesús alquiló un terreno cerca de la casa de Nazaret por (126:5.10)
 
-Jardín del Edén | (73) | Ver Adán; Jardines del Edén; segundo jardín | PLACE | 
+Jardín del Edén | (73) | Adán; Jardines del Edén; segundo jardín | PLACE | 
 3000 voluntarios preparados (73:2.3)
 Hace 37.000 años (51:6)
 Adán desanimó el sacrificio de animales en (76:2.3)
@@ -186,7 +182,7 @@ enseñanzas
 jardineros | | | ORDER | 
 espornagia son jardineros para Jerusem (46:7.2)
 
-Jardines del Edén | (51:6) | Ver Jardín del Edén | PLACE | 
+Jardines del Edén | (51:6) | Jardín del Edén | PLACE | 
 nombrado en honor a la capital de la constelación (43:6.2) (51:3.2) (73:4.1)
 segundos centros de la cultura mundial (51:6.2)
 generalmente aislado en una zona casi trópica (51:3.2)
@@ -208,7 +204,7 @@ en el templo de Jerusalén (162:4.3)
 Gat | | | PLACE | 
 Los filisteos ordenaron al rey David salir del campo en (97:9.5)
 
-Siddharta Gautama | (94:7) | Ver Buda; budismo | PERSON | OK
+Siddharta Gautama | (94:7) | Buda; budismo | PERSON | OK
 Siddartha fue un gran maestro del siglo VI a.C., hijo de un cacique sin importancia que gobernaba en un valle del Himalaya
 su conversión a sus nuevos ideales ocurrió de forma repentina (100:5.3)
 elaboró la doctrina trinitaria de Maestro, Ley y Fraternidad (104:1.6)
@@ -255,7 +251,7 @@ Hubo un consejo general de los seguidores de Jesús en Filadelfia (167:0.3) (167
 Génesis; historia de la creación | | | | 
 historia de Eva creada de la costilla de Adán (74:8.3)
 
-genética | | Ver eugenesia; discapacidades; hibridación; razas | | 
+genética | | eugenesia; discapacidades; hibridación; razas | | 
 el gen dominante normalmente mejora el híbrido (82:6.7)
 la evolución produjo muchas formas aparentemente inútiles de vida de transición (65:4.10-12)
 las desventajas genéticas no pueden invalidar la presencia del Ajustador (5:1.4-7) (5:5.13-14)
@@ -273,7 +269,7 @@ históricamente
 	la raza es un factor decisivo en la evolución de la cultura (81:6.4)
 	El deterioro racial contribuyó al declive romano (133:0.2) (195:3.8-9)
 	algunas pérdidas genéticas tempranas e irreparables debidas a guerras (63:4.8)
-	enormes ganancias de una pequeña cantidad de sangre violeta | Ver anditas | (48:4.13,17) (52:3.6) (74:7.23) 
+	enormes ganancias de una pequeña cantidad de sangre violeta | anditas | (48:4.13,17) (52:3.6) (74:7.23) 
 individuos que carecen de instinto parental eliminados de la corriente reproductiva (84:7.7)
 los impulsos heredados no pueden modificarse fundamentalmente; las respuestas pueden (140:4.8)
 guarda celosamente las cepas humanas superiores (49:1.7)
@@ -302,7 +298,7 @@ los primitivos miraron a los genio como poseído por un espíritu sabio (88:1.10
 Genesaret | (152:6) (156:6.3) | | PLACE | 
 Una región de Galilea donde estuvo Jesús
 
-gentiles | | Ver paganos | RACE | 
+gentiles | | paganos | RACE | 
 corte de los gentiles en el templo de Jerusalén (121:2.5)
 en tiempos de Jesús; religiones de (121:3.5)
 Judíos
@@ -313,7 +309,7 @@ Judíos
 dulzura | | | | 
 fruto del Espíritu (34:6.13)
 
-geografía | | Ver clima; continentes; montañas; océanos; ríos | | 
+geografía | | clima; continentes; montañas; océanos; ríos | | 
 China protegida por su geografía (79:6.12-13)
 India no logró la hegemonía debido a su topografía (79:2.5)
 influyente en la determinación de la paz o la guerra (81:6.5)
@@ -361,7 +357,7 @@ edades geológicas | (59:0.1-6) | | |
 	Holoceno (período posglacial)
 		Hace 35.000 años hasta el presente (61:7.18)
 
-geología | | Ver fósiles; edades geológicas; rocas y minerales | | 
+geología | | fósiles; edades geológicas; rocas y minerales | | 
 ciclo de millones de años de ascenso y caída de los continentes (60:4.1)
 capas de roca extensamente mezcladas (57:8.11) (58:7.1,6)
 libro de piedra (58:7)
@@ -372,9 +368,9 @@ después de la partida de Melquisedek, Abraham se mudó a (93:9.2-3)
 Gerasa | (128:3.2) (134:9.1) (138:9.3) (144:7.1) (152:7.1) (159:0.2) (165:0.1) (166:3) | | PLACE | 
 Una de las poblaciones de la Decápolis
 
-Gerizim | | Ver monte Gerizim | PLACE | 
+Gerizim | | monte Gerizim | PLACE | 
 
-germoplasma | | Ver plasma vital | | 
+germoplasma | | plasma vital | | 
 
 Alemania | (59:4.8) (60:1.4) (60:2.6) | | PLACE | 
 Grupos raciales nórdico-danés y danubiano-andonita (80:9.3)
@@ -482,14 +478,14 @@ Judas se ahorcó con (186:1.7)
 Giscala | (138:9.3) (146:4.6) (156:6.3) | | PLACE | 
 Lugar cercano al mar de Galilea donde predicó Jesús
 
-glaciares | | Ver edades de hielo | | 
+glaciares | | edades de hielo | | 
 aparición en Pérmico (59:6.6)
 discrepancias en el cálculo (64:1.4)
 en Siberia (64:4.5)
 la elevación de la tierra produce (57:8.22) (61:2.3) (61:5.1-2)
 resultados topográficos de (61:7.1)
 
-glándulas endocrinas | | Ver hormonas | | 
+glándulas endocrinas | | hormonas | | 
 Tipos planetarios de 1, 2 y 3 glándulas (49:5.19-20)
 reacciones químicas resultantes de (65:6.6)
 la química de la glándula influye en la imaginación, la receptividad espiritual (49:5.19)
@@ -507,7 +503,7 @@ mosquitos | | | |
 esforzarse en mosquitos (156:2.8) (185:0.4)
 esforzarse mosquitos mientras traga camello (175:1.17)
 
-metas | | Ver ambiciones; consagración de elección; destino; progreso; autorrealización; voluntad | | 
+metas | | ambiciones; consagración de elección; destino; progreso; autorrealización; voluntad | | 
 alcanzando objetivos
 	los ascendentes nunca negaron la satisfacción transitoria del logro de la meta (39:4.7) (44:8.3-5) (118:0.10,12)
 	asistencia para lograr metas proporcionado gratuitamente (4:3.5)
@@ -533,7 +529,7 @@ las personas pueden emitir juicios sobre la valía de metas (16:7.2-4)
 en lugar de los credos deberían unificar a los religiosos (99:5.7)
 destino espiritual condicionado por (156:5.9)
 metas supremos
-	logrando la perfección | Ver perfección:logro
+	logrando la perfección | perfección:logro
 	Ascendington es la esfera de estado suprema (13:0.6)
 	logro de supremo, luego último (0:7.10) (0:9.1)
 	sintonizando con la divinidad del Ajustador residente (110:3.4)
@@ -562,11 +558,11 @@ Noditas importados (80:1.2)
 Gobi | | | PLACE | 
 pastizales abiertos en los días anditas (79:1.2)
 
-Dios | (1) (2) (3) (4) (5) | Ver Deidad; YO SOY; El Infinito; La Trinidad del Paraíso; Padre Universal | PERSON | OK
+Dios | (1) (2) (3) (4) (5) | Deidad; YO SOY; El Infinito; La Trinidad del Paraíso; Padre Universal | PERSON | OK
 Dios no está personalmente presente ni en la naturaleza ni en ninguna de las fuerzas de la naturaleza (4:2.5) (131:1.5)
 la creación de la energía y la vida es prerrogativa de Dios; ambos fluyen hacia toda la creación (42:1.5)
 todos los hombres son hijos de Dios (2:5.4) (40:6) (99:5.5)
-Los Hijos Creadores son Dios en sus universos locales | Ver Miguel de Nebadon:descripción:Dios de nuestra creación | (33:1.4)
+Los Hijos Creadores son Dios en sus universos locales | Miguel de Nebadon:descripción:Dios de nuestra creación | (33:1.4)
 sólo está perceptiblemente presente en el Paraíso y en Havona (3:1.6)
 está literalmente presente en el Paraíso (11:1)
 las cualidades divinas están perfectamente unificadas en Dios (44:7.4)
@@ -574,7 +570,7 @@ Dios, como superpersona, existencia; como persona, crea; como prepersona, se fra
 El Libro de Urantia ofrece un documento, el 97, sobre la evolución del concepto de Dios (97) (5:4.9-13) (5:5.12) (142:3)
 en la relación de Dios con los universos locales parece que se retira de la actividad en favor de sus seres creados y Creadores, pero también hay por parte de Dios una participación real, literal y personal (32:4)
 Dios no sólo funciona en capacidades paternales, sino también en capacidades que no son del Padre como las relaciones del Dios de la fuerza, la energía, el poder, la causalidad, la reacción, la potencialidad, la actualidad, la gravedad, la tensión, el arquetipo, el principio y la unidad (104:2.6)
-Los fragmentos de Dios son los Ajustadores del pensamiento | Ver Ajustadores del pensamiento
+Los fragmentos de Dios son los Ajustadores del pensamiento | Ajustadores del pensamiento
 el término «Dios»
 	siempre denota personalidad (0:2)
 	para la persona religiosa significa el acercamiento a la realidad suprema (100:3.2)
@@ -582,7 +578,7 @@ el término «Dios»
 	La palabra Dios no se puede definir y representa el concepto infinito del Padre, pero como la palabra Padre se puede definir parcialmente, puede ser empleada para representar el concepto humano del Padre divino (0:2.9) (1:7.1) (169:4.7)
 	Dios está destinado a ser comprendido como la realidad de los valores, la sustancia de los significados y la vida de la verdad (5:4.2)
 	las definiciones teológicas sobre Dios deben cambiar con cada época (5:5.12)
-Otras denominaciones para Dios | Ver Deidad:también conocida como; Padre Universal:también conocido como
+Otras denominaciones para Dios | Deidad:también conocida como; Padre Universal:también conocido como
 	* Adonai (96:1.9)
 	* Alá (95:7.6)
 	* Anciano de los Días (96:1.9)
@@ -612,7 +608,7 @@ Otras denominaciones para Dios | Ver Deidad:también conocida como; Padre Univer
 	* Gobernantes Supremos (46:8.4) (50:1.2) (53:2.4) (54:1.9) (54:3.1) (54:4.5) (65:8.2)
 	* Desconocido (64:6.26)
 	* Dador de valor (16:8.14)
-la conciencia de Dios | Ver comunión espiritual | (0:2.2) (5:2) (8:5)
+la conciencia de Dios | comunión espiritual | (0:2.2) (5:2) (8:5)
 	la conciencia de Dios se descubre mejor en comunión con el Ajustador (5:2.3)
 	para Amenemope era el factor determinante en toda conducta (95:4.2)
 	La experiencia de la conciencia de Dios sigue siendo la misma de generación en generación (5:5.12)
@@ -638,12 +634,12 @@ la conciencia de Dios | Ver comunión espiritual | (0:2.2) (5:2) (8:5)
 		la conciencia de Dios es más real que la conciencia de que existe el prójimo (16:9.4)
 		La conciencia de Dios reside en el espíritu interior (196:3.23,25)
 		Un día veremos a Dios cara a cara (5:1.9)
-encontrar a Dios | Ver fe; crecimiento espiritual
+encontrar a Dios | fe; crecimiento espiritual
 	para acercarse al conocimiento de Dios, el hombre debe consagrar todos sus dones (1:6.5)
 	la incapaz del hombre para el acercamiento a Dios se debe a nuestra finitud, no a una actitud distante del Padre (5:1)
 	la carrera por comprender a Dios comienza reconociendo la divinidad del Hijo Creador (0:8.9)
 	se puede creer en Dios debido a la experiencia humana o la revelación de la verdad (101:2.6)
-	durante mucho tiempo, para una criatura que asciende sólo es posible localizar al Padre por medio de la fe | Ver fe | (32:3.6) (101:8.1) (102:6.5)
+	durante mucho tiempo, para una criatura que asciende sólo es posible localizar al Padre por medio de la fe | fe | (32:3.6) (101:8.1) (102:6.5)
 	todos seremos llevados hacia el Padre por el impulso de rebote de los Ajustadores del Pensamiento (56:4.1)
 	al reconocer la verdad, la belleza y la bondad, el hombre debe desarrollar el reconocimiento de un Dios de amor y luego progresar hasta la comprensión del Supremo (56:6.3)
 	no se puede encontrar a Dios a través de la ciencia (1:2.7) (42:1.3) (133:6.7)
@@ -655,7 +651,7 @@ encontrar a Dios | Ver fe; crecimiento espiritual
 	el fracaso en la aventura de la Deidad permanece en los universos; el segundo intento siempre tiene éxito (25:8.9) (26:8.3-5)
 	la fe revela a Dios en el alma (101:2.10)
 	son pocos los que han logrado encontrar a Dios en el Paraíso (11:1.3)
-	se puede encontrar a Dios por sumisión al espíritu | Ver sumisión
+	se puede encontrar a Dios por sumisión al espíritu | sumisión
 	no se puede revelar a Dios a quien no lo busca, es preciso que tenga hambre de la verdad como resultado de las experiencias de la vida o contacto con aquellos que conocen a Dios (132:7.2)
 	Dios como Padre tiene prioridad sobre todas las fases de la Deidad (4:4.5-6) ​​(54:6.2) (196:3.35)
 	Dios no puede ser plural para la personalidad, para quien adora a Dios, Dios es uno (56:4.4-5)
@@ -692,7 +688,7 @@ encontrar a Dios | Ver fe; crecimiento espiritual
 	para encontrar a Dios el hombre no tiene necesidad de ir más allá de su propia experiencia interior, basta con la contemplación del alma de la realidad espiritual interior (5:0.1)
 	conocemos a Dios porque confiamos en él (102:1.5)
 	cada logro en el progreso evolutivo de un mundo o grupo de mundos viene acompañado de un crecimiento de la comprensión de Dios hasta las etapas de luz y vida que culminan en la comprensión del Supremo (56:7.1-2,5) (142:2.2-4) (142:3) (159:4)
-La naturaleza de Dios | Ver belleza; bondad; justicia:justicia divina; misericordia; omnipotencia; omnisciencia; verdad | (2)
+La naturaleza de Dios | belleza; bondad; justicia:justicia divina; misericordia; omnipotencia; omnisciencia; verdad | (2)
 	todas las cosas consisten en Dios (0:3.11) (3:1.7) (3:5.4) (3:6) (9:0.4) (11:8.1) (16:9.14) (42:1.2,6) (56:1.5) (56:9.14) (104:4.46) (131:10.2,4)
 	todas las cosas son posibles para Dios (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
 	todo amor verdadero es de Dios (117:6.10)
@@ -704,7 +700,7 @@ La naturaleza de Dios | Ver belleza; bondad; justicia:justicia divina; misericor
 	Como fenómeno no espiritual Dios es energía, pero es difícil comprender su infinidad energética (3:2.3) (42:2.21)
 	Dios no adquiere experiencia como la del hombre pero disfruta de expansiones de autorrealización (1:5.14-16)
 	Dios da a sus hijos el espíritu y y unos dones y bendiciones apropiados (131:10.3) (144:2.4)
-	Dios es supremamente grande y bueno | Ver bondad:de Dios | (2:6) (28:6.21)
+	Dios es supremamente grande y bueno | bondad:de Dios | (2:6) (28:6.21)
 	Es un misterio cómo Dios guía y dirige al hombre, pero sin imponerse (131:8.3)
 	ha creado tensiones en las creaciones que rodean el Paraíso (117:4.14)
 	en él vivimos, nos movemos y tenemos nuestro ser (1:1.2) (1:5.16) (2:1.11) (3:1.2,4) (12:7.12) (16:9.14) (111:5.2) (141:2.1) (174:3.2)
@@ -713,7 +709,7 @@ La naturaleza de Dios | Ver belleza; bondad; justicia:justicia divina; misericor
 	Dios es un Padre (4:4.5) (54:6.2) (56:4.4) (141:4.1) (196:3.35)
 	Dios es amor (1:3.8) (2:5.1,10) (6:3) (8:4.2) (54:4.6) (56:10.20) (130:1.5) (134:4.1) (160:5.11)
 	Dios es justo y recto, y su justicia no hace acepción de personas ni aceptación de regalos (2:3)
-	sobre las leyes de Dios, conviene consultar la ley divina | Ver ley:divina
+	sobre las leyes de Dios, conviene consultar la ley divina | ley:divina
 	Dios ama a la humanidad y ayuda a los afligidos (12:7.8) (131:4.4) (131:5.3) (193:0.3)
 	Dios es perpetuamente misericordioso (2:4) (12:7.1)
 	Dios es la más ineludible de todas las presencias (102:7.10) (133:4.1)
@@ -723,14 +719,14 @@ La naturaleza de Dios | Ver belleza; bondad; justicia:justicia divina; misericor
 	no hace acepción de personas (1:4.6) (2:3.1) (3:1.12) (12:7.1,8) (40:10.5,13) (64:6.27) (112:0.12) (117:6.22) (133:0.3) (137:8.6) (138:8.2) (140:3.16) (143:1.5) (148:6.2) (155:6.2) (156:2.4) (166:4.11) (175:2.1-3) (181:2.14) (192:2.2)
 	nadie es bueno sino Dios (196:0.9) (196:2.2)
 	nada nos separa de su amor (100:6.6)
-	Dios es omnipotente | Ver omnipotencia
-	Dios es omnisciente | Ver omnisciencia
+	Dios es omnipotente | omnipotencia
+	Dios es omnisciente | omnisciencia
 	Dios es el único hecho autocausado en el universo (102:7.1-3)
 	Aunque Dios es más que una personalidad elevada, en nuestra experiencia no puede ser menos que una persona (102:1.6) (102:7.3) (103:1.6)
 	el concepto más elevado de Dios es como una personalidad primordial e infinita (2:0.1)
 	Dios es infinito, es una realidad espiritual infinita (1:3.1) (1:5.1) (1:7.7) (2:1)
 	Dios es primordial en relación con la realidad total, y es personal como Padre Universal (0:3.9-11)
-	Sobre el propósito de Dios, véase el plan divino | Ver plan divino
+	Sobre el propósito de Dios, véase el plan divino | plan divino
 	Dios es la fuente, la naturaleza y el destino de todas las mentes (102:4.3)
 	Dios es la fuente y destino de todo lo que es bueno, bello, y verdadero (130:2.7)
 	Dios es espíritu (1:3.1,8) (6:1.2) (6:2.6) (9:2.1) (12:8.1) (134:4.2,7) (143:5.6) (160:5.11) (169:4.2, 6)
@@ -764,7 +760,7 @@ conceptos erróneos sobre Dios (1:2.2) (4:5) (12:7.6) (102:6.3) (188:4.8) (188:5
 	para entender a Dios uno debe explorar los hechos universales (102:6.6)
 	Para la ciencia, Dios es una posibilidad; para la psicología, una cosa deseable; para la filosofía, una probabilidad; para la religión, una certeza (102:6.8)
 
-Dios de Acción | | Ver Espíritu Infinito | PERSON | OK
+Dios de Acción | | Espíritu Infinito | PERSON | OK
 
 Dios Absoluto; Absoluto | (0:10.1-2) | | PERSON | OK
 Dios Absoluto es el Absoluto de la Deidad existencial que se está volviendo experiencial, encontrando al Absoluto Incalificado, incidiendo en él y experimentando la identidad con él (0:2.18)
@@ -776,7 +772,7 @@ definido como
 	es el Dios de los valores superpersonales trascendidos, existencial como Absoluto de Deidad pero que se está volviendo experiencial (0:2.18)
 	la actualización de Dios Absoluto sería la consecuencia de la unificación de la Trinidad Absoluta, la realización experiencial de la divinidad absoluta (0:10.1) (106:8.16)
 
-Dios el Padre | | Ver Padre Universal | PERSON | OK
+Dios el Padre | | Padre Universal | PERSON | OK
 
 Dios Séptuple; Deidad Séptuple; El Séptuple | (0:8) (56:5.3) (56:6.1) (116:2) | | PERSON | OK
 Dios Séptuple es la divinidad compuesta por (56:5.3) (116:2.4-11)
@@ -802,13 +798,13 @@ funciones
 	los Siete Espíritus Maestros parecen coordinar las actividades de Dios Séptuple (17:8.3)
 	El Séptuple es, en todas las fases, la fuente de la unidad relativa de la realidad funcional del gran universo actual (106:1.4)
 
-Dios el Hijo | | Ver Hijo Eterno | PERSON | OK
+Dios el Hijo | | Hijo Eterno | PERSON | OK
 
-Dios el Espíritu | | Ver Espíritu Infinito | PERSON | OK
+Dios el Espíritu | | Espíritu Infinito | PERSON | OK
 
-Dios el Supremo | | Ver El Supremo | PERSON | OK
+Dios el Supremo | | El Supremo | PERSON | OK
 
-Dios Último; Último; El Último; Deidad Última | (0:9) | Ver realidad:niveles de realidad:realidad absonita | PERSON | OK
+Dios Último; Último; El Último; Deidad Última | (0:9) | realidad:niveles de realidad:realidad absonita | PERSON | OK
 Los tres Absolutos están coordinados en el Último (56:9.1)
 El Ajustador es el secreto del logro trascendental del Último (101:6.2)
 presagia el sobrecontrol trascendental en las etapas más tardías de la luz y la vida de un universo local (56:7.5)
@@ -846,13 +842,13 @@ futuro
 Godad | | | PERSON | OK
 Godad fue ermitaño salemita a quien Gautama debería haber escuchado para haber convrtido al budismo en una religión mejor (94:7.4)
 
-Deidades | | Ver Hijo Eterno; Espíritu Infinito; Padre Universal | PERSON | OK
+Deidades | | Hijo Eterno; Espíritu Infinito; Padre Universal | PERSON | OK
 Se refiere a
 	# El Padre Universal
 	# El Hijo Eterno
 	# El Espíritu Infinito
 
-semejanza a Dios | | Ver crecimiento espiritual | | 
+semejanza a Dios | | crecimiento espiritual | | 
 
 dioses y diosas | | | PERSON | OK
 evolución en la consideración de los dioses
@@ -863,7 +859,7 @@ evolución en la consideración de los dioses
 	las proyecciones del intelecto humano pueden originar dioses falsos a imagen del hombre (196:3.23)
 	el progreso de la ciencia aumenta la mortalidad de los falsos dioses (102:6.1)
 nombres de dioses
-	dioses nombrados en El Libro de Urantia | Ver Agni; Ahura-Mazda; Anu; Afrodita; Apolo; Artemisa; Astaroth; Asur; Astarté; Atón; Atis; Augusto; Baal; hadas malignas; Belo; Belo-Marduc; Brahma; Brahmán; duendes; Buda; centauros; Quemos; Cibeles; Dagón; Dafne; Devoradora; Dionisio; dragón; enanos; Dyaus pitar; Ea; El; El Shaddai; hadas; Destino; destinos; Gran culto a la Madre; Hestia; Horus; Indra; Istar; Isis; Jehová; Juno; Júpiter; Marduc; Marte (dios); sirenas; Minerva; Mitra; Nabu; Neptuno (dios); Nereidas; dios del Nilo; Nog; Osiris; Pandora; Prajapati; Prometeo; Ramán; Sakya-Muni Buda; Set (dios); Samas; Shang-ti; Sin (dios); Siva; Sol Invictus; Soma; Thor (dios); Thot; Trimurti; Venus (diosa); Vesta; Vichnú; Yahvé; Zeus
+	dioses nombrados en El Libro de Urantia | Agni; Ahura-Mazda; Anu; Afrodita; Apolo; Artemisa; Astaroth; Asur; Astarté; Atón; Atis; Augusto; Baal; hadas malignas; Belo; Belo-Marduc; Brahma; Brahmán; duendes; Buda; centauros; Quemos; Cibeles; Dagón; Dafne; Devoradora; Dionisio; dragón; enanos; Dyaus pitar; Ea; El; El Shaddai; hadas; Destino; destinos; Gran culto a la Madre; Hestia; Horus; Indra; Istar; Isis; Jehová; Juno; Júpiter; Marduc; Marte (dios); sirenas; Minerva; Mitra; Nabu; Neptuno (dios); Nereidas; dios del Nilo; Nog; Osiris; Pandora; Prajapati; Prometeo; Ramán; Sakya-Muni Buda; Set (dios); Samas; Shang-ti; Sin (dios); Siva; Sol Invictus; Soma; Thor (dios); Thot; Trimurti; Venus (diosa); Vesta; Vichnú; Yahvé; Zeus
 
 oro | | | | 
 primer metal buscado por el hombre (81:3.4-5)
@@ -872,7 +868,7 @@ producto de los flujos de lava en las Sierras (60:3.3)
 cuando me pruebe, saldré como (3:3.2)
 
 edad de oro | | | | 
-edades de luz y vida | Ver luz y vida
+edades de luz y vida | luz y vida
 creencia errónea en la existencia única de la edad de oro; creencia desalentadora (68:1.7) (74:8.13-14)
 terribles condiciones antisociales para los primitivos (81:5.4)
 los tiempos de Onagar fueron la edad de oro para el hombre primitivo (63:6.9)
@@ -882,7 +878,7 @@ becerro de oro | | | |
 antiguo símbolo de Yahvé plagó a Moisés (96:4.3)
 simboliza el concepto de los pastores beduinos del volcán Sinaí (96:1.12) (96:5.8)
 
-regla de oro | (52:5.8) (101:8.4) | Ver mandamientos | | 
+regla de oro | (52:5.8) (101:8.4) | mandamientos | | 
 los adherentes deben mantener una defensa adecuada (71:4.16-17)
 Se enseñó a los andonitas (70:1.2)
 basado en un valor infinito de finito (196:2.10)
@@ -916,9 +912,9 @@ Gonod | | | PERSON | OK
 Gonod es un hombre de negocios indio con quien Jesús viajó a Roma junto a él y su hijo Ganid (130) (132) (133) (129:2.9)
 realizó 3 viajes a China aparte del viaje que hizo junto a su hijo y Jesús (130:0.6)
 
-bueno | | Ver bondad | | 
+bueno | | bondad | | 
 
-buenas noticias | | Ver evangelio | | 
+buenas noticias | | evangelio | | 
 
 buen samaritano | | | | 
 parábola de (164:1)
@@ -927,8 +923,8 @@ buen Pastor | | | |
 Jesús fue (182:1.16)
 sermón sobre (165:1.2) (165:2)
 
-bondad | | Ver verdad, belleza y bondad | | 
-todas las cosas funcionan juntas para bien | Ver providencia | (4:1.4,11) (10:7.5-6) ​​(48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
+bondad | | verdad, belleza y bondad | | 
+todas las cosas funcionan juntas para bien | providencia | (4:1.4,11) (10:7.5-6) ​​(48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
 y el mal (4:2.6) (130:1.5-6) ​​(132:2) (159:5.10)
 intento de servicio de la bondad no sustituye a la experiencia religiosa (196:3.23)
 basar la vida en la conciencia más elevada de (110:3.7)
@@ -982,10 +978,10 @@ topos | (61:2.7) | | |
 Gofna | (143:0.1) | | PLACE | 
 Jesús predicó a gente de este lugar
 
-gorilas | (61:3.12) (62:5.2) | Ver simios | | 
+gorilas | (61:3.12) (62:5.2) | simios | | 
 los mamíferos intermedios retrasados ​​eran antepasados ​​de (62:3.12)
 
-evangelio | | Ver hijos de Dios por la fe; Jesús:enseñanzas; reino de los cielos; religión; verdad | RELIGION | 
+evangelio | | hijos de Dios por la fe; Jesús:enseñanzas; reino de los cielos; religión; verdad | RELIGION | 
 la aceptación del evangelio mejora inmediatamente la vida en el hogar (177:2.6)
 los creyentes deben amar el evangelio más que madre, padre, esposa, esposo, hijos o hermanos (150:4.3) (163:3.4) (171:2.2)
 creyentes no confiables a menos que el evangelio experimentado en el corazón (177:5.2)
@@ -995,16 +991,16 @@ difícil de perpetuar antes de la impresión (93:7.4)
 no intente encajar en las viejas formas de creencia religiosa (138:5.2) (140:6.2) (147:7.2-3)
 dominado por la convicción de la verdad (180:5.12)
 evidencia de creencia en el evangelio se muestra el amor unos a otros (182:1.6)
-explicado | Ver religión:explicado
+explicado | religión:explicado
 	se aplica al individuo, no al estado (140:8.5) (145:2.10)
 	por la fe todo mortal puede tener la salvación (140:10.9)
 	por la fe volviéndose consciente del espíritu de la filiación con Dios (140:10.4,7) (141:4.2) (142:3.8) (181:2.12,18) (186:5.4)
 	rasgos cardinales (170:4.8-13)
 		santidad del individuo (138:8.9) (140:8.11) (140:10.5) (144:6.3) (170:3.10-11) (170:4.9) (171:7.4) (194:3.7) (195:1.1 )
-		satisfacciones del servicio amoroso | Ver servicio | (170:4.12)
-		comunión espiritual con el Padre | Ver comunión espiritual; crecimiento espiritual; renacimiento espiritual | (170:4.11)
+		satisfacciones del servicio amoroso | servicio | (170:4.12)
+		comunión espiritual con el Padre | comunión espiritual; crecimiento espiritual; renacimiento espiritual | (170:4.11)
 		lo espiritual es trascendente sobre lo material (170:4.13).
-		voluntad como factor determinante | Ver consagración de elección; decisiones; voluntad | (170:4.10)
+		voluntad como factor determinante | consagración de elección; decisiones; voluntad | (170:4.10)
 	filiación divina, libertad espiritual, salvación eterna (152:5.6)
 	ayuno que no forma parte de (147:7.2)
 	paternidad de Dios, filiación-hermandad de los hombres (92:5.16) (94:4.10) (132:4.2) (142:7.4) (143:1.7) (143:6.6) (149:2.4) (191:4.4) (192:4.7) (193:0.4) (194:0.3-4) (195:10.21)
@@ -1031,9 +1027,9 @@ Jesús habita en todos los que creen en su evangelio (164:5.3)
 dejado como lo presentó Jesús, todas las religiones habrían aceptado (149:2.1)
 lealtad al evangelio depende de un entrenamiento temprano en casa sólido (177:2.2)
 Proclamados los receptores de Melquisedek evangelio a Adán (76:5.1)
-mensajeros | Ver apóstoles de Jesús; discípulos; setenta evangelistas; cuerpo de mensajeros (de David Zebedeo)
+mensajeros | apóstoles de Jesús; discípulos; setenta evangelistas; cuerpo de mensajeros (de David Zebedeo)
 debe mostrar una vitalidad creciente, profundidad de poder espiritual (178:1.15)
-proclamando el evangelio | Ver gobierno:relación de los creyentes con; reino de los cielos:establecimiento
+proclamando el evangelio | gobierno:relación de los creyentes con; reino de los cielos:establecimiento
 	otorgar un reconocimiento generoso (159:3.3)
 	toda Urantia esperando (94:12.7)
 	Permitir que los maestros apostólicos enseñen sus propios puntos de vista (148:1.2)
@@ -1101,18 +1097,18 @@ proclamando el evangelio | Ver gobierno:relación de los creyentes con; reino de
 	abrir el apetito de los asociados por la verdad (48:7.16)
 triunfará y será proclamado a todas las naciones (142:2.2) (143:1.4) (176:1.1)
 
-Evangelio de Juan | | Ver Juan Zebedeo:Evangelio de Juan | | 
+Evangelio de Juan | | Juan Zebedeo:Evangelio de Juan | | 
 
-Evangelio de Lucas | | Ver Lucas:Evangelio de Lucas | | 
+Evangelio de Lucas | | Lucas:Evangelio de Lucas | | 
 
-Evangelio de Marcos | | Ver Juan Marcos:Evangelio de Marcos | | 
+Evangelio de Marcos | | Juan Marcos:Evangelio de Marcos | | 
 
-Evangelio de Mateo | | Ver Mateo Leví:Evangelio de Mateo | | 
+Evangelio de Mateo | | Mateo Leví:Evangelio de Mateo | | 
 
 chisme | | | | 
 no hables de oídas (138:8.4)
 
-gobierno | | Ver civilización; nación continental; tribunales; instituciones; legislaturas; naciones; patriotismo; policía; regulación (gubernamental); soberanía; impuestos | | 
+gobierno | | civilización; nación continental; tribunales; instituciones; legislaturas; naciones; patriotismo; policía; regulación (gubernamental); soberanía; impuestos | | 
 Adán no pudo establecer gobierno fuera del Edén (74:5.5-7)
 la relación de los creyentes con
 	no permitirse tropiezos (157:1.2,4)
@@ -1127,7 +1123,7 @@ la relación de los creyentes con
 	responsabilidad y moralidad de la ciudadanía cósmica (39:4.9)
 	buscar ganar todas las partes; no ser de ninguno (137:7.5,12)
 	El espíritu les enseñará a los creyentes cómo responder a los jueces (176:1.1)
-gobierno celestial | Ver Urantia:gobierno celestial
+gobierno celestial | Urantia:gobierno celestial
 	asuntos de todos los mundos supervisados ​​divinamente (3:1.1)
 	El padre gobierna a través de sus hijos (3:5.1-2)
 	niveles de dominios especiales de responsabilidad asignados (33:6.3)
@@ -1138,7 +1134,7 @@ democracia
 	peligros de (71:2.1-6)
 	las elecciones son la forma correcta incluso de hacer cosas incorrectas (71:2.8)
 	fetiche hecho de (88:3.4)
-historia del gobierno | Ver civilización | (70) (71)
+historia del gobierno | civilización | (70) (71)
 	abolición de la esclavitud (71:8.5)
 	administraciones antiguas solo cambiadas por la guerra civil (70:7.17)
 	comienzos (70:5)
@@ -1160,7 +1156,7 @@ historia del gobierno | Ver civilización | (70) (71)
 los órdenes sociales inferiores ya no son políticamente indefensos (99:1.5)
 directores ejecutivos mortales en luz y vida (55:4.15)
 Los Altísimos gobiernan en reinos de hombres (3:5.2) (43:3.4) (43:9.4) (50:2.6) (52:3.11) (97:8.5) (134:5.4) (136:9.6) (175:1.8) (175:3.2)
-principios de gobierno | Ver competencia; tribunales; derechos humanos; industria; justicia; ley; militar; lucro; impuestos | (70) (72)
+principios de gobierno | competencia; tribunales; derechos humanos; industria; justicia; ley; militar; lucro; impuestos | (70) (72)
 	abolición de la esclavitud (71:2.10)
 	la adjudicación es la función más alta del gobierno (22:4.3)
 	el mejor gobierno es el equilibrio de poder entre los poderes ejecutivo, legislativo y judicial (70:12.1) (71:8.1)
@@ -1209,7 +1205,7 @@ principios de gobierno | Ver competencia; tribunales; derechos humanos; industri
 	igualdad de sexos (71:8.10)
 	debe fomentar la ciencia, vencer la enfermedad (71:8.9,11)
 	debe brindar oportunidades justas y pacíficas para todos (70:9.17)
-	programas de bienestar social | Ver caridad:por el gobierno
+	programas de bienestar social | caridad:por el gobierno
 	etapas de evolución de gobierno; libertades requeridas (71:2.9-19) (71:8.2-15)
 	El estado más fuerte tiene un lenguaje, costumbres e instituciones comunes (71:1.1)
 	El sistema sólo tiene valor si mejora el bienestar del individuo y la humanidad (134:5.2).
@@ -1230,7 +1226,7 @@ principios de gobierno | Ver competencia; tribunales; derechos humanos; industri
 		Los impuestos y la regulación opresivos interfieren con las libertades individuales (70:12.15) (134:6.10)
 		el secularismo vende al hombre a la esclavitud del totalitarismo (195:8.4)
 		Iglesia y estado separados (70:1.14) (70:12.17) (71:8.4) (72:3.6) (178:1.9)
-		el hombre subnormal debe mantenerse bajo el control de la sociedad | Ver eugenesia; inferiores | (68:6.11)
+		el hombre subnormal debe mantenerse bajo el control de la sociedad | eugenesia; inferiores | (68:6.11)
 		por qué declinó el Imperio Romano (71:1.22) (195:3.8-9)
 		la nación sabia sabe cuándo dejar de crecer (81:6.12)
 autogobierno
@@ -1247,11 +1243,11 @@ gobierno mundial
 	soberanía de la humanidad en su conjunto (134:5.2,5)
 	verdadera democracia bajo (134:6.11)
 
-gobernador general | | Ver gobernadores generales residentes | | 
+gobernador general | | gobernadores generales residentes | | 
 
-gobernadores de las relaciones tribales avanzadas | | Ver cien de Caligastia | | 
+gobernadores de las relaciones tribales avanzadas | | cien de Caligastia | | 
 
-gracia (la misericordia de Dios) | | Ver misericordia | | 
+gracia (la misericordia de Dios) | | misericordia | | 
 avance en todas las fases de la experiencia religiosa (102:2.4)
 y el esfuerzo individual logra la perfección (32:3.9)
 convertirse en hijos de Dios por (144:4.3) (144:5.13)
@@ -1298,7 +1294,7 @@ Gran Cañón | (58:7.5) | | PLACE |
 Gran Lama | | | | 
 Líder religioso tibetano (94:10.2)
 
-gran universo | | Ver universo maestro; superuniverso; universo | PLACE | 
+gran universo | | universo maestro; superuniverso; universo | PLACE | 
 7 superuniversos más Havona (0:0.6) (12:1.13) (15:2.9)
 Los Ancianos de los Días y los Siete Espíritus Rectores están eternamente fijados como administradores de (0:8.11)
 dependiente de los universos futuros del espacio exterior para la trascendencia finita (117:6.20)
@@ -1333,15 +1329,15 @@ Jeremías sobre agrio (145:2.5-6)
 hierba | (60:3.19) (61:3.2) | | | 
 Dios se viste (165:5.3)
 
-gratificación | | Ver autogratificación | | 
+gratificación | | autogratificación | | 
 
 grava | | | | 
 Depósitos carboníferos (59:5.10)
 
-enterramientos | | Ver tumbas | | 
+enterramientos | | tumbas | | 
 primeros títulos de propiedad concedidos para (69:9.14)
 
-gravita | | Ver energía; Directores del Poder Universal | | 
+gravita | | energía; Directores del Poder Universal | | 
 30 sistemas de energía comprenden (15:8.2) (29:2.13-15)
 también conocido como poder universal (0:6.7)
 constitución de organizaciones materiales en superuniversos (11:8.7) (42:5.6)
@@ -1351,7 +1347,7 @@ los centros de poder y los controladores físicos controlan parcialmente (15:8.2
 responde a la gravedad del Paraíso (0:6.7)
 energía de trabajo útil para los superuniversos (42:2.14-15)
 
-gravedad | | Ver antigravedad | | 
+gravedad | | antigravedad | | 
 caracteristicas
 	circuitos absolutos de personalidad, espíritu, mente y materia energética (12:3.1-4) (15:9.1-2)
 	Circuitos de presencia absoluta independientes del tiempo y el espacio (12:3.6) (42:11.4)
@@ -1429,7 +1425,7 @@ tipos de gravedad
 		oscilación del círculo eterno del universo (41:9.2)
 		ultimata no responde a (15:4.1)
 		ultimatones que responden a (41:9.2) (42:6.3)
-	gravedad de la personalidad | Ver circuito de personalidad
+	gravedad de la personalidad | circuito de personalidad
 	gravedad espiritual (3:1.6) (7:1) (12:3.9)
 		adecuado para un universo ilimitado (6:4.1)
 		tan real y absoluto como material gravedad (7:1.3) (12:8.4)
@@ -1452,7 +1448,7 @@ tipos de gravedad
 		La presencia espiritual del Hijo Eterno es el canal de toda comunión espiritual (194:2.12).
 		transmite oraciones genuinas (7:3.3)
 
-energía de la gravedad | | Ver energía; ultimata | | 
+energía de la gravedad | | energía; ultimata | | 
 Segunda fase de transmutación del segregado en poder universal (42:2.12)
 creado por Organizadores de la Fuerza Maestros Trascendentales Asociados (42:2.12)
 Energía paradisíaca que responde a la gravedad, antepasado de toda la materia; forma de ultimata (42:2.12)
@@ -1474,21 +1470,21 @@ sin forma visible (42:12.10)
 Gran Más Allá | | | RACE | 
 El concepto de Onagar del Más Allá (63:6.7)
 
-Gran Bretaña | | Ver Islas Británicas | PLACE | 
+Gran Bretaña | | Islas Británicas | PLACE | 
 
-gran mandamiento | (174:4) | Ver mandamientos | | 
+gran mandamiento | (174:4) | mandamientos | | 
 
 Grandes Lagos | | | PLACE | 
 creado en la edad de hielo (61:7.10)
 
-Gran culto a la Madre | | Ver culto a la Madre de Dios | RACE | 
+Gran culto a la Madre | | culto a la Madre de Dios | RACE | 
 
-Gran pirámide | | Ver pirámides | | 
+Gran pirámide | | pirámides | | 
 
 Gran Río | | | | 
 Los egipcios esperaban que el ka estuviera esperando al otro lado del Gran Río (111:0.6)
 
-Grandes Fuentes y Centros | | Ver Padre Universal; Hijo Eterno; Espíritu Infinito | | 
+Grandes Fuentes y Centros | | Padre Universal; Hijo Eterno; Espíritu Infinito | | 
 Se refiere a
 	El Padre Universal
 	El Hijo Eterno
@@ -1503,7 +1499,7 @@ parábola de la gran cena (167:2)
 lo grande | | | | 
 busca lo grande, y el menor se encontrará en él (165:5.3)
 
-Camino Mayor | | Ver budismo | | 
+Camino Mayor | | budismo | | 
 concepto budista dual de Dios y el Absoluto (94:12.2)
 budismo Mahayana; doctrina progresiva (94:9.4-5)
 
@@ -1522,7 +1518,7 @@ grandeza mundana
 	preferencia deseada por los apóstoles (138:7.1) (158:4.4) (158:6.2-3) (158:8.1) (171:0.6) (179:1) (179:3.9)
 	abstenerse de luchar por la grandeza (179:1) (179:5.7)
 
-Grecia | (98:1) | Ver Atenas; Corinto; griegos | PLACE | 
+Grecia | (98:1) | Atenas; Corinto; griegos | PLACE | 
 Historia griega
 	Andrés crucificado en Acaya (139:1.12)
 	el arte y el genio fueron el legado directo de Adanson y Ratta (77:5.10) (80:7.5)
@@ -1543,7 +1539,7 @@ lengua griega
 	hablado por mejores estratos de judíos en tiempos de Jesús (121:6.2)
 	traducción de escrituras hebreas al griego (123:0.3) (123:3.1) (126:5.6) (150:8.1)
 	generalizado en tiempos de Jesús (121:1.1,5)
-Religión griega | Ver cultos de misterio; platonismo | (98:1-2)
+Religión griega | cultos de misterio; platonismo | (98:1-2)
 	La ausencia de sacerdotes y de las Sagradas Escrituras liberó la mente (98:1.5) (98:2.7) (98:6.1)
 	sistema ético avanzado prácticamente sin Deidad (98:2.11)
 	baño ritual anual (85:4.1)
@@ -1576,7 +1572,7 @@ Religión griega | Ver cultos de misterio; platonismo | (98:1-2)
 	era trivial y venal (98:3.2)
 	la palabra clave era «conócete a ti mismo» (5:4.8)
 
-griegos | | Ver Grecia | RACE | 
+griegos | | Grecia | RACE | 
 columna vertebral de la iglesia cristiana primitiva (195:3.6)
 llevó el cristianismo a todo el Imperio Romano (195:0-1)
 en contraste con judíos y romanos (191:5.3)
@@ -1603,7 +1599,7 @@ trataron a las mujeres mejor que la mayoría (84:5.6)
 entendido el carácter evolutivo del progreso humano (74:8.5)
 dispuesto a tomar prestadas buenas ideas (195:1.3)
 
-raza verde | (64:6.17-20) | Ver razas | RACE | 
+raza verde | (64:6.17-20) | razas | RACE | 
 destruyó y absorbió los restos de la raza naranja hace 100.000 años (64:6.11,13,18) (64:7.14,16)
 destrucción
 	para el 15.000 a.C. (78:3.7)
@@ -1631,7 +1627,7 @@ marga de arenisca verde | (60:3.9) | | |
 Calendario Gregoriano; calendario | | | | 
 utilizado en los documentos de Urantia (57:0.1) (126:3.1)
 
-grupos | | Ver cooperación; familia; hermandad de creyentes; amistad; el individuo; partes y el todo | | 
+grupos | | cooperación; familia; hermandad de creyentes; amistad; el individuo; partes y el todo | | 
 3 personas son grupo mínimo (10:2.3) (39:3.6)
 participación celestial
 	El Hijo Creador gobierna en las relaciones entre grupos (32:4.3-4)
@@ -1643,7 +1639,7 @@ participación celestial
 	identidad en seres espirituales (23:4.1)
 	El Espíritu de la Verdad disminuye la autoafirmación de grupos (194:3.18)
 	transición de las fases del universo generalmente por clases (37:6.5)
-liderazgo | Ver liderazgo
+liderazgo | liderazgo
 	eficacia de grupos depende del liderazgo (81:6.37)
 	liderazgo proporcionado infaliblemente para grupos (181:2.16)
 autoridad legislativa y judicial conferida a (159:1.6)
@@ -1667,7 +1663,7 @@ valor de los grupos
 	crecimiento espiritual estimulado por la asociación íntima con otros religiosos (100:0.2)
 el valor del grupo es cuadrado el número involucrado (133:5.6)
 
-crecimiento | | Ver equilibrio; progreso; crecimiento espiritual | | 
+crecimiento | | equilibrio; progreso; crecimiento espiritual | | 
 crecimiento finito
 	la plenitud de la evolución agotará la capacidad de (117:5.14)
 	termina con la finalización de Supremo (117:2.2)
@@ -1702,9 +1698,9 @@ filosofía, religión y ciencia unidas por la sabiduría, la fe y la experiencia
 algunas personas están demasiado ocupadas para (100:1.2)
 unificación de la lógica matemática, la razón mental y la fe espiritual en la personalidad (16:6.10)
 
-rencores | | Ver venganza | | 
+rencores | | venganza | | 
 
-ángeles guardianes | (113:0-1) | Ver guardianes del destino; resurrección; Serafines | ORDER | 
+ángeles guardianes | (113:0-1) | guardianes del destino; resurrección; Serafines | ORDER | 
 después de la muerte de los sujetos
 	acompañar a los pupilos derrotados si se le ordena (25:8.10)
 	atender a los jóvenes en la guardería a prueba (47:2.6)
@@ -1737,7 +1733,7 @@ técnica de servicio
 	no hay comunicación con los Ajustadores residentes de los sujetos (113:4.5) (113:5.1)
 	los contactos físicos con la humanidad son muy inusuales (113:5.5)
 
-guardianes del destino | (113) (39:8.5-8) | Ver ángeles guardianes; resurrección; Serafines | ORDER | 
+guardianes del destino | (113) (39:8.5-8) | ángeles guardianes; resurrección; Serafines | ORDER | 
 después de la muerte de los sujetos
 	custodios de los patrones mentales y las realidades del alma entre la muerte y la resurrección (113:3.4) (113:6.1,5)
 	siempre en comunicación con antiguos pupilos (113:7.6)
@@ -1772,11 +1768,11 @@ técnica de servicio
 	ministerio más eficaz en luz y vida (55:4.2) (55:6.4)
 	declaración en la atenuación de las dificultades (111:7.4-5)
 
-guardianes de la salud y la vida | | Ver cien de Caligastia | PERSON | 
+guardianes de la salud y la vida | | cien de Caligastia | PERSON | 
 
-invitados | | Ver hospitalidad | | 
+invitados | | hospitalidad | | 
 
-culpa | | Ver perdón; vergüenza; pecado | | 
+culpa | | perdón; vergüenza; pecado | | 
 surge de
 	fracaso para resolver las contiendas del ego (103:5.4)
 	comunión espiritual interrumpida, rebajando los ideales morales (103:4.3)

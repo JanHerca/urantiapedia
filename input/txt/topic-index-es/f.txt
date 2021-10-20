@@ -1,21 +1,17 @@
 ####################################################################################
 #
 #                     F
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
 
 fábulas | | | | 
 no emplee fábulas en la proclamación del evangelio (151:2.5) (151:3.3)
 
-hechos | | Ver conocimiento; realidad; verdad | | 
+hechos | | conocimiento; realidad; verdad | | 
 corte a plena luz de la comprensión (90:4.9)
 el humor disminuye el impacto de lo inesperado (48:4.18)
 necesario para las exigencias prácticas despiadadamente de la vida (111:6.7)
@@ -23,15 +19,15 @@ nunca pelees con la fe real (195:7.1)
 buscar la verdad tanto como (48:6.32)
 lo correcto técnico puede ser incorrecto en verdad (48:6.33) (143:6.1) (189:2.6)
 
-Facultad de Difusión y Conservación del Conocimiento | | Ver cien de Caligastia | | 
+Facultad de Difusión y Conservación del Conocimiento | | cien de Caligastia | | 
 
-Fad | | Ver cien de Caligastia | | OK
+Fad | | cien de Caligastia | | OK
 Fad fue el director del cuerpo docente encargado de difundir y conservar el conocimiento, uno de los diez consejos del séquito de Caligastia en Urantia (66:5.9)
 Fad y 5 miembros de su consejo se mostraron opuestos a la rebelión (67:4.1)
 Fad formuló el primer alfabeto, de 25 caracteres, e introdujo un sistema de escritura (66:5.9)
 patrocinó un método de enseñanza por medio de la práctica (66:7.6)
 
-fracaso | | Ver derrota | | 
+fracaso | | derrota | | 
 
 desmayo | | | | 
 los antiguos creían que el alma abandonaba el cuerpo durante (86:5.5)
@@ -43,7 +39,7 @@ hadas | | | |
 Las mentes orientales se deleitan con los cuentos de hadas (122:8.7)
 algunos dioses subordinados mantenidos como (96:1.14)
 
-equidad | | Ver justicia; misericordia | | 
+equidad | | justicia; misericordia | | 
 ser justo es una condición previa para mostrar (28:6.8)
 considera motivos subyacentes, tendencias raciales (39:1.8)
 definido como
@@ -57,7 +53,7 @@ Las preguntas de Jesús en el templo evidenciaron el espíritu de justicia (125:
 Jesús se negó a aprovechar una ventaja injusta (125:5.8) (128:4.7)
 los primitivos asumieron que el poder se usaría egoístamente (70:11.14)
 
-fe | (102) (101:8) | Ver confianza | | 
+fe | (102) (101:8) | confianza | | 
 acepta la presencia del Ajustador residente (108:6.8)
 acción necesaria para la curación de Josías (164:3.14)
 Ajustador traduce el sentido del deber en (102:1.1)
@@ -205,7 +201,7 @@ advertencias sobre la fe
 	que fe no es (196:0.3-4)
 	obras de fe no salgas de la incredulidad (158:5.2)
 
-hijos de Dios por la fe | | Ver apostolado; discípulos; hermandad de creyentes; gobierno:relación de los creyentes con; reino de los cielos; filiación con Dios | | 
+hijos de Dios por la fe | | apostolado; discípulos; hermandad de creyentes; gobierno:relación de los creyentes con; reino de los cielos; filiación con Dios | | 
 respuesta segura a los incrédulos (102:6.5)
 caracteristicas
 	creer en el Dios de amor que fomenta la supervivencia (5:5.3)
@@ -279,7 +275,7 @@ advertencias
 	serán asesinados por aquellos que creen que hacen servicio a Dios (180:6.1)
 donde se reúnen 2 o 3 (159:1.3)
 
-Fiel de los Días de Edentia | | Ver Fieles de los Días | PERSON | OK
+Fiel de los Días de Edentia | | Fieles de los Días | PERSON | OK
 El Fiel de los Días es el representante de la Trinidad del Paraíso y de Emmanuel en Edentia
 el monte de la asamblea de Edentia es el lugar de residencia del Fiel de los Días (43:4.1)
 su residencia en Edentia es comparativamente modesta en relación a la de los gobernantes Vorondadeks (18:7.4) (43:4.4)
@@ -291,7 +287,7 @@ fidelidad | | | |
 base del veredicto eterno del Juez Supremo (25:1.6)
 en poco y en mucho (169:2.6) (171:8.11-13) (176:3.4)
 
-Fieles de los Días | (18:7) Ver Fieles de los Días de Edentia | | ORDER | 
+Fieles de los Días | (18:7) | Fieles de los Días de Edentia | | ORDER | 
 70 millones en existencia (18:7.1)
 en constante comunicación con su orden (18:7.3) (43:4.3)
 en registros de personalidad (30:1.14) (30:2.29)
@@ -309,12 +305,12 @@ Personalidades Trinitarias Supremas (18:0.8)
 
 halcones | (61:2.12) | | | 
 
-Caída del hombre | | Ver doctrina del pecado original | | 
+Caída del hombre | | doctrina del pecado original | | 
 
 falacia de la abstracción | | | | 
 el error más grave de los filósofos (2:7.5)
 
-falsedad | | Ver fraude; mentir; verdad | | 
+falsedad | | fraude; mentir; verdad | | 
 brinda la oportunidad de amar la verdad (3:5.10)
 sombra de cabello que se vuelve, premeditado con un propósito falso (48:6.33)
 
@@ -322,7 +318,7 @@ familiaridad | | | |
 genera desprecio (82:5.6)
 profetas honrados, salvo en su propio país (138:0.2) (150:9.1)
 
-familia | | Ver crianza de los hijos; niños; padres; grupos; hogar; matrimonio; madres | | 
+familia | | crianza de los hijos; niños; padres; grupos; hogar; matrimonio; madres | | 
 La adoración a los antepasados ​​creó familias fuertes (79:8.9-10)
 Las prácticas del consejo familiar andita mejoran la sociedad (84:7.29)
 temprano familia grupo de trabajo relacionado abrazado, esclavos (84:7.9)
@@ -389,7 +385,7 @@ la fe puede llevar a (196:0.6-7)
 prevenir los religiosos fanatismos por actitud mental científica (99:3.14)
 La revelación espiritual a veces precipita (110:4.5)
 
-fándores | | Ver aves pasajeras | | 
+fándores | | aves pasajeras | | 
 
 Fanoving | | | PLACE | 
 universo vecino a Nebadon (32:2.12)
@@ -415,7 +411,7 @@ moda; vestimenta | | | |
 institución de la autogratificación (69:1.5)
 domina indebidamente Urantia (66:6.2)
 
-ayuno | | Ver abnegación | | 
+ayuno | | abnegación | | 
 los ancianos trataron la enfermedad con (90:4.8)
 puede inducir un estado místico (100:5.10)
 práctica antigua común (89:3.1)
@@ -442,22 +438,22 @@ El concepto de la Suerte impidió la evolución de Zeus al monoteísmo en Grecia
 destinos | | | | 
 algunos dioses subordinados mantenidos como (96:1.14)
 
-Padre Absoluto | | Ver Padre Universal | PERSON | OK
+Padre Absoluto | | Padre Universal | PERSON | OK
 
-Brahma-Padre | | Ver Brahma; brahmánismo | PERSON | OK
+Brahma-Padre | | Brahma; brahmánismo | PERSON | OK
 Fuente védica de todos los dioses, un concepto védico muy similar al Dios único predicado en Salem (94:1.5)
 
-fragmentos del Padre | | Ver Ajustadores del pensamiento | ORDER | 
+fragmentos del Padre | | Ajustadores del pensamiento | ORDER | 
 
-Mortales fusionados con el Padre | | Ver mortales ascendentes | ORDER | 
+Mortales fusionados con el Padre | | mortales ascendentes | ORDER | 
 
 guías del Padre | | | ORDER | 
 Supernafines secundarios del tercer círculo de Havona (26:9)
 
-Infinito-Padre | | Ver Padre Universal | PERSON | OK
+Infinito-Padre | | Padre Universal | PERSON | OK
 concepto del Inifnito que denota la primacía de la Fuente-Centro Primera, la infinidad del libre albedrío absoluto y sin trabas del Padre Universal (0:3.24)
 
-Padre Melquisedek | (35:1) (189:1.10) | Ver Hijos Melquisedek | PERSON | OK
+Padre Melquisedek | (35:1) (189:1.10) | Hijos Melquisedek | PERSON | OK
 El Padre Melquisedek es el Hijo Melquisedek original o primogénito, y en Nebadon hay uno (33:6.2) (35:1.1)
 es el asociado ejecutivo de Gabriel y director ejecutivo de Gabriel
 El Padre Melquisedek es quien asume el puesto de Gabriel en su ausencia (33:6.2) (35:1.2)
@@ -472,15 +468,15 @@ representa a Miguel en las deliberaciones de los Portadores de Vida (36:2.12)
 existe un sencillo templo en la entrada de la casa del Padre Melquisedek con una inscripción que recuerda la primera encarnación de Miguel en forma de un Hijo Melquisedek (119:1.4)
 estuvo con Jesús y Gabriel en el monte de la transfiguración, y los apóstoles que lograron verlo le confundieron con Elías (158:1.6)
 
-paternidad de Dios | | Ver evangelio:explicado | | 
+paternidad de Dios | | evangelio:explicado | | 
 hermandad del hombre basada en (16:9.14) (52:6.7) (134:4.1) (159:5.7) (195:8.11)
 concepto humano más elevado de Dios (196:3.35)
 paradoja de la parte y el todo (12:7.8)
 real porque el Padre ha otorgado personalidad (16:9.14)
 
-semejanza paterna; semejanza | | Ver divinidad; crecimiento espiritual | | 
+semejanza paterna; semejanza | | divinidad; crecimiento espiritual | | 
 éxito en la búsqueda del Infinito proporcional al logro (106:9.11)
-padres | Ver crianza de los hijos; niños; familia
+padres | crianza de los hijos; niños; familia
 7 relaciones con los niños (142:7.5-12)
 No llames padre a ningún hombre en sentido espiritual (175:1.10)
 los niños necesitan semejanza paterna así como madres (47:1.6)
@@ -494,7 +490,7 @@ no como jueces, enemigos o acreedores (142:7.11)
 asuntos del Padre | | | | 
 tiempo para que Jesús esté cerca (124:6.15) (126:3.5) (135:8.3)
 
-Casa del Padre | | Ver templos | PLACE | 
+Casa del Padre | | templos | PLACE | 
 Templo de Jerusalén (125:1.1) (125:6.7) (171:4.7)
 Paraíso (11:3.3)
 universo (181:1.2)
@@ -506,9 +502,9 @@ Camino del Padre | | | |
 ideal de la vida de las criaturas (136:4.8)
 código moral de Dalamatia (66:7.8-16)
 
-El mundo del Padre | | Ver El mundo del Padre | PLACE | 
+El mundo del Padre | | El mundo del Padre | PLACE | 
 
-fatiga | | Ver descanso | | 
+fatiga | | descanso | | 
 puede inducir un estado místico (100:5.10)
 el elemento del yo se agota, no el esfuerzo por lograrlo (48:6.37)
 cambio de pensamiento, descansar, recuperar energías agotadas (48:4.9-10)
@@ -520,7 +516,7 @@ Dios ama a cada hijo por igual (40:10.5,13)
 Jesús rechazó todo favoritismo (124:3.2)
 El paternalismo fue una de las razones del declive romano (195:3.9)
 
-miedo | | Ver ira; odio; venganza; incertidumbre | | 
+miedo | | ira; odio; venganza; incertidumbre | | 
 curar por miedo
 	corazón limpio (131:1.8-9)
 	repudiar el miedo (131:3.2) (165:5.5)
@@ -552,7 +548,7 @@ históricamente
 	evolución a través de la angustia, el pavor, el asombro, la reverencia, el amor (149:6.3,6)
 	instinto fomentó instituciones de supervivencia (69:1.3)
 	las tendencias del hombre al miedo fecha de los antepasados ​​del lémur (62:2.4)
-	de fantasmas | Ver fantasmas | (68:2.4)
+	de fantasmas | fantasmas | (68:2.4)
 	Primates muy sujetos a (62:4.4)
 	la religión primitiva empujaba a los hombres hacia adelante por el miedo (5:4.1)
 	temperamento ardiente sometido del hombre primitivo (52:1.7)
@@ -569,27 +565,27 @@ Los Serafines no pueden entender la dominación por (113:2.5)
 motivación indigna para la vida religiosa (140:4.7)
 cuando se enfrenta a lo desconocido o inexplicable (90:0.3)
 
-festivales | | Ver banquetes; judaísmo:fiestas | | 
+festivales | | banquetes; judaísmo:fiestas | | 
 todas las ceremonias antiguas terminadas con banquetes (70:3.7)
 fiesta de la bondad espiritual (147:8)
 
-débiles mentales | | Ver inferiores | | 
+débiles mentales | | inferiores | | 
 
 alimentación de los 5000 | (152:2) (152:3.1) | | | 
 llevó la búsqueda de milagros a un punto crítico (152:5.6) (152:6.5)
 desafió las ideas del Mesías material (153:1.2)
 único milagro de la naturaleza que Jesús realizó conscientemente (152:2.10)
 
-sentimientos | | Ver emociones | | 
+sentimientos | | emociones | | 
 
 pies | | | | 
 Jesús lavó a los apóstoles '(179:1.2,8) (179:3)
 
-felinos | | Ver gatos | | 
+felinos | | gatos | | 
 
-compañerismo | | Ver amistad | | 
+compañerismo | | amistad | | 
 
-hermandad de creyentes | | Ver cristianismo; iglesias; hijos de Dios por la fe; grupos | | 
+hermandad de creyentes | | cristianismo; iglesias; hijos de Dios por la fe; grupos | | 
 se les dio autoridad a los apóstoles sobre las cosas temporales (157:4.5)
 el que no está contra nosotros, está por nosotros (159:2.2)
 invisible, espiritual, caracterizado por la unidad, no la uniformidad (195:10.11)
@@ -604,11 +600,11 @@ La gravedad espiritual crea cohesión entre las personas y los grupos creyentes 
 
 helechos | (59:4-5) (60:2.7) (60:4.5) | | | 
 
-fertilidad | | Ver esterilidad | | 
+fertilidad | | esterilidad | | 
 encantos y supersticiones entre los antiguos para asegurar (83:4.4-9)
 las mujeres primitivas que deseaban tener hijos abrazaron árboles (85:2.3)
 
-fetiches | (88:1-2) | Ver encantos; reliquias | | 
+fetiches | (88:1-2) | encantos; reliquias | | 
 La creencia en las reliquias es una consecuencia de (88:2.1-2)
 Confucio hizo que el fetiche fuera de orden (94:6.9)
 doctrina de posesión espiritual (88:0.1)
@@ -635,16 +631,16 @@ higuera | (60:3.7) | | |
 parábola de (166:4.9)
 parábola de las ramas de (176:2.6)
 
-lucha | | Ver militar; no resistencia; autodefensa | | 
+lucha | | militar; no resistencia; autodefensa | | 
 sustitutos competitivos del físico (74:7.10)
 Jesús no se involucró en (124:2.4) (133:1.3-5) (140:8.4)
 disfrutaba el hombre primitivo; primeros clanes comprometidos en anual (70:1.6)
 restringir al loco fue lo más cercano a lo que Jesús vino (130:5.4)
 para convencernos de que no tenemos miedo (160:3.4)
 
-cuerpos finalitarios | | Ver Cuerpo de los Finalitarios Mortales | ORDER | 
+cuerpos finalitarios | | Cuerpo de los Finalitarios Mortales | ORDER | 
 
-finalitarios | | Ver mortales ascendentes; Cuerpo de los Finalitarios Mortales | ORDER | 
+finalitarios | | mortales ascendentes; Cuerpo de los Finalitarios Mortales | ORDER | 
 jefe planetario interino de los finalitarios tiene asiento en el templo morontial (55:1.2)
 períodos alternos de servicio y servicio gratuito (31:0.11)
 antes de la visión espiritual, los finalitarios hecho visible a los sobrevivientes por transformadores de energía, Supervisores de Energía Morontia (45:1.2) (47:1.3)
@@ -711,14 +707,14 @@ Servicio
 Tabamantia es un veterano (49:5.12)
 templo de finalitarios invisible al material, visión morontial temprana (47:1.2-3)
 
-mundo de los finalitarios | | Ver Jerusem:mundos culturales de transición; mundos de las mansiones | PLACE | 
+mundo de los finalitarios | | Jerusem:mundos culturales de transición; mundos de las mansiones | PLACE | 
 7 mundos de las mansiones rodean (45:1.2)
 accesible a los habitantes de todos los mundos de las mansiones (45:1.2)
 la mitad del planeta es una guardería probatoria (45:6.6-9) (47:2.1)
 sede de finalitarios del sistema local; 100.000 empresas ubicadas en (45:1.2) (47:0.2)
 mundo de la cultura de transición número 1 (45:1.2) (47:1)
 
-Bellas Artes | | Ver arte | | 
+Bellas Artes | | arte | | 
 
 multas | | | | 
 porque la violación del tabú fue el primer ingreso público (70:10.12)
@@ -730,9 +726,9 @@ dedos | | | |
 cruzar dedos es la continuación del ritual primitivo (87:6.17)
 señalar con el dedo era una práctica peligrosa entre los antiguos (90:3.7)
 
-realidad finita | | Ver realidad:niveles de realidad:realidad finita | | 
+realidad finita | | realidad:niveles de realidad:realidad finita | | 
 
-finitos | | Ver realidad:niveles de realidad:realidad finita | | 
+finitos | | realidad:niveles de realidad:realidad finita | | 
 
 finlandeses | | | RACE | 
 se cree que los árboles están ocupados por espíritus bondadosos (85:2.4)
@@ -761,7 +757,7 @@ Tejerma no era una adorador del fuego (141:6.1,3)
 adoración de (85:4.4)
 El símbolo del espíritu de Zoroastro; adorado por sus seguidores (95:6.4)
 
-Dios del fuego | | Ver Agni | | 
+Dios del fuego | | Agni | | 
 
 El Primero; el primero | | | | 
 Soy el primero y el último (10:7.1) (97:7.6-9)
@@ -770,7 +766,7 @@ será el último (163:3.4) (166:3.5)
 primogénito | | | | 
 costumbre de sacrificar (89:6.6,8) (89:7.1,3)
 
-Primera causa; Causa Primera; causa primera; Causa sin causa | | Ver Dios; Padre Universal | PERSON | OK
+Primera causa; Causa Primera; causa primera; Causa sin causa | | Dios; Padre Universal | PERSON | OK
 Anaxágoras, el filósofo mecanicista, reconoció la existencia de una Causa Primera (98:2.6)
 la asignación de causas conduce a confesar que se ignoran los factores últimos y a una gran causa primera (195:6.5)
 la veradera religión convierte la Primera Causa Universal de la lógica en el Dios personal de la salvación humana (196:3.1)
@@ -780,13 +776,13 @@ la razón puede llevar hacia una Causa Primera pero se necesita la fe religiosa 
 Primera Epístola de Pedro | | | | 
 alterado por el discípulo de Pablo (139:2.12)
 
-primera Trinidad experiencial | | Ver Trinidad Última | PERSON | OK
+primera Trinidad experiencial | | Trinidad Última | PERSON | OK
 
-primer mundo de las mansiones | | Ver mundos de las mansiones:primer | PLACE | 
+primer mundo de las mansiones | | mundos de las mansiones:primer | PLACE | 
 
-Primera Persona de la Deidad | | Ver Padre Universal | PERSON | OK
+Primera Persona de la Deidad | | Padre Universal | PERSON | OK
 
-Fuente-Centro Primera | | Ver Padre Universal | PERSON | OK
+Fuente-Centro Primera | | Padre Universal | PERSON | OK
 
 pez | | | | 
 primeras unidades de trueque (69:4.5)
@@ -800,7 +796,7 @@ la redada de pences (145:1)
 Neandertales con lanza pez en las salidas de hielo (64:4.4)
 las serpientes marinas amenazaban con la destrucción de todos (60:2.9)
 aparición repentina (59:4) (59:5.8) (65:2.5-6)
-tipos nombrados | Ver vida marina
+tipos nombrados | vida marina
 
 pescadores | | | | 
 convertirse en pescadores de hombres (138:7.6)
@@ -810,12 +806,12 @@ Jesús era un experto (124:1.2) (124:2.7) (138:7.6) (192:1.7)
 Judá se escapó para convertirse (128:7.8)
 los apóstoles fueron (138:7.5) (139:1.1) (139:3.1) (139:9.2) (192:1)
 
-banderas | | Ver círculos concéntricos, tres; Lucifer:emblema de | | 
+banderas | | círculos concéntricos, tres; Lucifer:emblema de | | 
 evolución de los tótems (88:3.2-4)
 
 flamencos | (61:2.12) | | | 
 
-adulación | | Ver alabanza; reconocimiento | | 
+adulación | | alabanza; reconocimiento | | 
 cuidado con los caminos resbaladizos de (174:0.2)
 Cano influyó en Eva por (75:3.9)
 
@@ -823,10 +819,10 @@ Flavio | (142:4) | | PERSON | OK
 Flavio era un judío griego que tenía su hogar en Jerusalén ampliamente adornado obras de arte. Jesús estuvo repetidas veces en esta casa (142:0.1) (142:4.1)
 La sexta aparición de Jesús fue en casa de Flavio a unos 40 creyentes griegos (190:4)
 
-defectos | | Ver crítica | | 
+defectos | | crítica | | 
 no se requiere mucha profundidad para recoger (102:7.6)
 
-carne | (34:7) | Ver cuerpo humano; comida; instintos; mortales | | 
+carne | (34:7) | cuerpo humano; comida; instintos; mortales | | 
 todas las cosas terrenales son evanescentes (95:4.3)
 no te desanimes al descubrir que eres humano (156:5.8)
 concepto de mortificación de carne apegado al cristianismo (89:3.2-3)
@@ -845,7 +841,7 @@ naturaleza inherente derivada de razas de origen animal (34:7.1)
 es de poca ganancia (153:5.4)
 La fe de Jesús destruyó todo deseo conflictivo (196:0.5)
 No confíes en las incertidumbres de (171:4.2) (174:0.2)
-urge | Ver sexo:urgencia
+urge | sexo:urgencia
 	veleidad del impulso sexual (160:2.10)
 	las mayores pasiones son la lujuria, la ira, el orgullo, el engaño, la codicia (131:4.7) (131:6.2)
 	los impulsos heredados no se pueden modificar por completo (140:4.8)
@@ -889,15 +885,15 @@ yacimientos fósiles de Florissant | (61:2.4) | | |
 flautistas | | | | 
 de luto (152:1.1)
 
-atención | | Ver concentración | | 
+atención | | concentración | | 
 
 niebla | | | | 
 Los neandertales temen (64:4.12)
 de la incertidumbre mortal (108:6.8)
 
-Fonta | | Ver Andón y Fonta | PERSON | OK
+Fonta | | Andón y Fonta | PERSON | OK
 
-comida | | Ver carne | | 
+comida | | carne | | 
 Los adamitas suelen ser omnívoros (52:3.8-9)
 mejora de la dieta para agregar cereales, verduras a la carne (81:1.8)
 evangelistas para comer y beber lo que se les ponga delante (163:1.3)
@@ -912,7 +908,7 @@ comida primitiva líneas de recolección (68:5.3)
 hombre primitivo carnívoro (52:3.8-9)
 los primitivos ofrecían comida a fantasmas, dioses (87:2.9) (89:5.2)
 El personal del Príncipe enseñó la preservación de la comida (66:5.2-3)
-comida espiritual | Ver pan:pan de vida
+comida espiritual | pan:pan de vida
 	La carne de Jesús es hacer la voluntad de Dios (143:6.1)
 	servir comida espiritual en forma atractiva (133:4.2)
 
@@ -928,10 +924,10 @@ fruta prohibida | | | |
 cidra (162:4.4)
 cada tribu primitiva tenía (89:2.1)
 
-fuerza | | Ver compulsión; energía; no resistencia; autodefensa | | 
+fuerza | | compulsión; energía; no resistencia; autodefensa | | 
 toda la fuerza circula en el Paraíso (42:1.6)
 todas las formas están rodeadas (11:5.8)
-fuerza cósmica | Ver absoluta
+fuerza cósmica | absoluta
 definición
 	término que lo incluye todo aplicado al espíritu, la mente y la materia (0:6.2)
 	término denota etapas de pregravedad de la energía (11:8.5) (42:2.1)
@@ -939,11 +935,11 @@ viajes sujetos a la siempre presente atracción del Paraíso (12:8.3)
 uno con energía y materia (11:5.9) (42:4.1-2)
 usar fuerza espiritual para romper la resistencia del material (166:3.8)
 
-carga de fuerza del espacio | | Ver segregata | | 
+carga de fuerza del espacio | | segregata | | 
 
-fuerza-energía | | Ver energía | | 
+fuerza-energía | | energía | | 
 
-presciencia | | Ver omnisciencia | | 
+presciencia | | omnisciencia | | 
 
 prepucios | | | | 
 dote de 100 prepucios requerido por Saúl para Mical (70:1.18)
@@ -954,10 +950,10 @@ los hombres siempre se deterioran en (64:1.3)
 Prólogo | | | | 
 guía definitiva solo para los documentos 1 a 31 de los documentos de Urantia (0:0.4)
 
-olvido | | Ver memoria | | 
+olvido | | memoria | | 
 no temas (34:7.8)
 
-perdón | | Ver confesión; culpa; paciencia; arrepentimiento; pecado | | 
+perdón | | confesión; culpa; paciencia; arrepentimiento; pecado | | 
 perdón divino (89:10) (156:2.7)
 	El padre borra las transgresiones por su propio bien (97:7.10)
 	El corazón del padre nunca se cerró a las necesidades de sus hijos (5:1.11)
@@ -999,13 +995,13 @@ Los hijos de Zebedeo se disculparon con los apóstoles; fueron restaurados (171:
 Formosa | | | PLACE | 
 Migración andita a (78:5.6)
 
-formas | | Ver personalidad:formas de personalidad | | 
+formas | | personalidad:formas de personalidad | | 
 sin valor, cuando se aprenden lecciones (48:6.32)
 
 Fortant | | | PERSON | OK
 Fortant es uno de los siete Lanonandeks que administran en este momento Satania, y él es el director de la donación; es el Hijo Lanonandek secundario con número 319.847. Se encarga de todas las actividades que han sido trasladadas a Jerusem a raíz de la donación de Miguel (45:3.7)
 
-Fortunato | | Ver muchacho fugitivo en Corinto | PERSON | OK
+Fortunato | | muchacho fugitivo en Corinto | PERSON | OK
 Fortunato es un joven que tenía miedo y estaba abatido al que Jesús encontró mientras recorría las montañas de Creta (130:6)
 se convirtió en el líder de los cristianos en Creta (130:6.5)
 
@@ -1019,7 +1015,7 @@ después del bautismo de Jesús (136:3)
 foro | | | | 
 centro de la vida política, jurídica y comercial romana (132:0.2)
 
-fósiles | (58:7) (59:2.9) (59:3.10) (59:4.12) (59:5.10) (60:1.2,12) (60:2.5-6) ​​(61:0.3) (61:2.4) | Ver geología | | 
+fósiles | (58:7) (59:2.9) (59:3.10) (59:4.12) (59:5.10) (60:1.2,12) (60:2.5-6) ​​(61:0.3) (61:2.4) | geología | | 
 pocos organismos primitivos tenían caparazón; no se conserva como fósiles (59:0.8)
 Revelar las luchas de ajuste de los organismos primitivos (58:6.6)
 
@@ -1069,17 +1065,17 @@ miembros (45:4)
 cuatro nobles verdades | | | | 
 doctrina del sufrimiento; evangelio original de Gautama (94:8.3-7)
 
-cuartas criaturas (Querubines) | | Ver Querubines y Sanobines | ORDER | 
+cuartas criaturas (Querubines) | | Querubines y Sanobines | ORDER | 
 Querubines y Sanobines caracterizados por (38:7.6-7)
 no asciendas al estado seráfico (38:8.4)
 realizar tareas límite indispensables (38:7.6)
 similar a los intermedios (38:7.6)
 
-cuartas criaturas (Servitales de Havona) | | Ver Servitales de Havona | ORDER | 
+cuartas criaturas (Servitales de Havona) | | Servitales de Havona | ORDER | 
 discernir tanto el mundo espiritual como el material (44:0.17)
 semifísico (25:1.3) (38:7.6)
 
-Cuartas criaturas (Conciliadores Universales); cuartas criaturas | | Ver Conciliadores Universales | ORDER | 
+Cuartas criaturas (Conciliadores Universales); cuartas criaturas | | Conciliadores Universales | ORDER | 
 discernir el espíritu y el mundo material (25:2.8) (38:7.6) (44:0.17)
 Ejecutores Divinos (25:2.8)
 
@@ -1095,7 +1091,7 @@ fragmentación | | | |
 Los Ajustadores tipifican mejor las órdenes fragmentadas de la Deidad (30:17-19)
 naturaleza del Hijo Eterno incapaz de (6:5.5-6) ​​(7:5.3)
 
-Francia | (61:3.8) (61:4.2) (61:5.4) | Ver Bretaña; río Somme | PLACE | 
+Francia | (61:3.8) (61:4.2) (61:5.4) | Bretaña; río Somme | PLACE | 
 Andonitas en (63:5.2-3) (64:1.5-6) ​​(64:2.6)
 la raza azul persistió más tiempo en el sur (80:5.5)
 conectado a Inglaterra (64:1.5) (64:2.6)
@@ -1103,9 +1099,9 @@ Los neandertales se extendieron a (64:4.1)
 adoradores del sol en 3000 a.C. (80:9.13)
 raza blanca dominante en 5000 a.C. (80:5.8)
 
-franquicia | | Ver sufragio | | 
+franquicia | | sufragio | | 
 
-frandalanks | | Ver Controladores Físicos Maestros | ORDER | 
+frandalanks | | Controladores Físicos Maestros | ORDER | 
 10 en cada capital de constelación (41:1.4)
 presencia de energía automática, presión, medidores de velocidad (29:4.37)
 Los cronoldeks son frandalancos que también miden el tiempo (29:4.37)
@@ -1116,17 +1112,17 @@ estacionado en todos los mundos habitados (29:4.36)
 tipo de Controlador Físico Maestro (29:4.11)
 totalmente automático y mecánico (29:4.12,38)
 
-franqueza | | Ver honestidad | | 
+franqueza | | honestidad | | 
 
-fraude | | Ver maldad; falsedad; injusticia; mentir; robo | | 
+fraude | | maldad; falsedad; injusticia; mentir; robo | | 
 evitar las recompensas tentadoras de la deshonestidad (160:4.11)
 hacer trampas fuera de la tribu aceptable para los antiguos (69:4.3)
 El consejo de Jesús al hombre rico sobre la riqueza derivada de (132:5.10,18,22)
 el secreto es esencial para la práctica exitosa de (90:4.9)
 
-amor libre | | Ver sexo | | 
+amor libre | | sexo | | 
 
-libre albedrío | | Ver decisiones; metas; voluntad de Dios | | 
+libre albedrío | | decisiones; metas; voluntad de Dios | | 
 El Ajustador, el futuro finalista, el Padre y el Supremo dependen de nuestras decisiones (112:5.5)
 Los Ajustadores pueden morar en seres que tienen libre albedrío (52:1.6)
 no puede elegir más allá del rango elegible (118:6.5) (118:9.2)
@@ -1182,7 +1178,7 @@ considerado como desafortunado (88:1.6)
 amigos de los tribunales | | | | 
 Los altos comisionados actúan como (37:5.7)
 
-amistad | | Ver hermandad (actitud); grupos; relaciones; tolerancia | | 
+amistad | | hermandad (actitud); grupos; relaciones; tolerancia | | 
 todas las religiones vivas fomentan la amistad (99:6.2)
 los ascendentes nunca pierden el poder de reconocer a los antiguos asociados (44:0.18) (112:5.22)
 la traición y la deslealtad hacia los amigos es lo más destructivo del estado de la personalidad (67:1.3)
@@ -1271,7 +1267,7 @@ ocasiones de supremo gozo en la luz y la vida (55:2.5-6)
 buscando detener la descomposición de los muertos (86:4.8)
 desperdicio en tiempos antiguos y modernos (87:2.10)
 
-hongos | | Ver bacterias | | 
+hongos | | bacterias | | 
 plantas parásitas que han perdido la capacidad de producir clorofila; movimiento retrógrado en evolución (65:2.3)
 
 fusión | | | | 
@@ -1296,7 +1292,7 @@ Fusión del ajustador (30:1.100) (110:7) (112:7)
 		unidad tan perfecta que las identidades separadas del hombre y el Ajustador son irreconocibles (110:1.6) (112:7.8)
 		secreto de Ascendington (112:7.2)
 		unión del alma con el Ajustador (47:8.4)
-	fusión durante la vida mortal | Ver traslado | (49:6.18-21) (55:2)
+	fusión durante la vida mortal | traslado | (49:6.18-21) (55:2)
 		Elías se fusionó (45:4.15)
 		Enoc fue el primero en fusionarse (45:4.13)
 		elevación espiritual preliminar (136:2.3-6)
@@ -1309,8 +1305,8 @@ Fusión del ajustador (30:1.100) (110:7) (112:7)
 	algunos no logran fusionarse con el Ajustador; convertirse en Hijo fusionado (40:8.3)
 los espíritus de fusión ascienden al nivel de origen (40:10.1)
 sin superposición; La criatura está fusionada con el Ajustador, fusionada con el Hijo o fusionada con el Espíritu (37:5.1) (40:9.1)
-Son fusión | Ver Mortales fusionados con el Hijo
-Fusión espiritual | Ver Mortales fusionados con el Espíritu
+Son fusión | Mortales fusionados con el Hijo
+Fusión espiritual | Mortales fusionados con el Espíritu
 
 futuro | | | | 
 significa lucha, avance, esfuerzo, logro (48:4.12)

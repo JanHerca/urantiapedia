@@ -1,18 +1,12 @@
 ﻿####################################################################################
 #
-#                    Z
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+#                     Z
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
-
 
 Zaccheus | | | PERSON | 
 chief publican in Jericho (171:6.1)
@@ -37,7 +31,7 @@ adopted Joseph’s ancestor (122:4.3)
 Zaphon | (159:0.2) (165:0.1) | | PLACE | 
 Perea mission
 
-zeal | | See enthusiasm | | 
+zeal | | enthusiasm | | 
 
 Zealots | | | | 
 Jesus refused to join (127:2.1-10) (136:9.7)
@@ -59,13 +53,13 @@ owned fish-drying business (139:1.1)
 purchased Joseph’s equity in a Capernaum property (127:6.10)
 with wife Salome had 3 sons, 4 daughters (129:1.5)
 
-Zebedee, David | | See David Zebedee | PERSON | 
+Zebedee, David | | David Zebedee | PERSON | 
 
-Zebedee, James | | See James Zebedee | PERSON | 
+Zebedee, James | | James Zebedee | PERSON | 
 
-Zebedee, John | |  See John Zebedee | PERSON | 
+Zebedee, John | |  John Zebedee | PERSON | 
 
-Zebedee, Salome | | See Salome (wife of Zebedee) | PERSON | 
+Zebedee, Salome | | Salome (wife of Zebedee) | PERSON | 
 
 Zebulun | (146:3.10) (156:6.2) | | PLACE | 
 
@@ -87,13 +81,13 @@ on nether Paradise directly beneath Trinity (11:5.2-4)
 Zophar | | | PERSON | 
 looked for hidden purpose in Job’s miseries (148:6.8,9)
 
-Zoroaster | | See also Zoroastrianism | PERSON | 
+Zoroaster | | Zoroastrianism | PERSON | 
 flame symbolized Spirit (95:6.4)
 in direct contact with descendants of Salem missionaries (131:5.1)
 much affected by dual spiritism (92:5.12)
 outstanding religious teacher; appeared in Iran in 6th century B.C. (95:6.1) (121:6.4)
 
-Zoroastrianism | (92:6.8) | See also Ahura-Mazda; Zoroaster | RELIGION | 
+Zoroastrianism | (92:6.8) | Ahura-Mazda; Zoroaster | RELIGION | 
 Ganid’s abstract of (131:5)
 influence on Christianity (98:7.6)
 militantly opposed Mithraism (98:5.2)

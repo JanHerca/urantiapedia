@@ -1,19 +1,14 @@
 ####################################################################################
 #
 #                     I
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-
-
-
-YO SOY | (105:1) | Ver Dios; El Infinito; Padre Universal | PERSON | OK
+YO SOY | (105:1) | Dios; El Infinito; Padre Universal | PERSON | OK
 el concepto del YO SOY
 	el YO SOY es la hipótesis de todo lo que es incognoscible de Dios Padre, la Fuente-Centro Primera; incluso esta hipótesis seguramente está muy por debajo de su infinidad insondable (105:1.6)
 	es infinito original que se puede plantear como hipótesis en el momento de la eternodad, cuando aún no existía ninguna diferenciación en toda la infinidad (104:4.44-47) (105:1.3-5)
@@ -49,7 +44,7 @@ icebergs deslizándose hacia el océano (61:5.8)
 oración por la liberación de la maldición de (63:6.6)
 el joven Jesús contempló (124:1.8)
 
-edades de hielo | (59:1.17) (61:5-7) | Ver glaciares | | 
+edades de hielo | (59:1.17) (61:5-7) | glaciares | | 
 Primera edad de hielo:(61:5-7)
 Tercera edad de hielo:aparecieron andonitas en tiempos de; Hace 1.000.000 de años (61:6) (64:1.4)
 Cuarta edad de hielo:hace 750.000 a 600.000 años (61:7.2) (64:4.4-9)
@@ -68,17 +63,17 @@ Migración de andonita a (64:7.16-18) (78:1.5)
 puente de tierra (61:3.9) (61:4.6)
 Misioneros de Salem en (93:7.2)
 
-ictiosaurios | | Ver serpientes marinas | | 
+ictiosaurios | | serpientes marinas | | 
 
-idealismo | | Ver ideales | | 
+idealismo | | ideales | | 
 se acerca el concepto de lo divino (3:5.11)
 nunca podrá sobrevivir si los idealistas se dejan exterminar (71:4.16-17)
-Idealismo griego | Ver platonismo
+Idealismo griego | platonismo
 no meramente instinto de rebaño (103:5.8)
 Filosofía que se inclina hacia el nivel espiritual (103:6.14)
 el idealismo espiritual es la energía que hace avanzar la cultura humana (81:6.27)
 
-ideales | | Ver idealismo; valores | | 
+ideales | | idealismo; valores | | 
 todos los ideales captan algún simbolismo perpetuo (87:7.1)
 nacido solo en los reinos creativos del mundo interior (111:4.10)
 forjar un destino para la posteridad inmediata (81:6.26-27)
@@ -91,7 +86,7 @@ los más altos ideales no son necesariamente sinónimos de voluntad de Dios (103
 sólo alcanzable ideales residir en Dios (160:5.5,8)
 origen de (103:5)
 
-ideas | | Ver conceptos; doctrinas; mente mortal; teorías; pensamiento | | 
+ideas | | conceptos; doctrinas; mente mortal; teorías; pensamiento | | 
 gobierno efectivo solo cuando el poder se confiere a una persona, no a una idea (70:6.1)
 mantener las ideas prácticas al igual que los ideales altos (156:5.16)
 las ideas perfectas son arrastradas al circuito de la mente absoluta (9:6.2)
@@ -99,7 +94,7 @@ El poder no reside en la realidad o lo razonable, sino en la viveza y universali
 sensaciones más interpretaciones reflexivas (133:7.7)
 planes teóricos de acción (101:7.1)
 
-identidad | | Ver personalidad | | 
+identidad | | personalidad | | 
 puede asociarse con patrones de energía inertes (0:5.4)
 comprometido con el padre antes del sueño de transición (27:1.4)
 deriva de la presencia del Ajustador, custodio de identidad (12:9.6) (49:6.11) (112:5.18)
@@ -121,7 +116,7 @@ ideogramas | | | |
 los Artesanos Celestiales conservan el pensamiento con (44:4.6)
 la engorrosa naturaleza del chino (79:8.7)
 
-ociosidad | | Ver acción; indolencia | | 
+ociosidad | | acción; indolencia | | 
 destructivo del respeto por uno mismo (159:3.4)
 disgusto por la ociosidad en nación continental (72:5.12)
 males de la inacción (130:6.3)
@@ -151,7 +146,7 @@ Idumea | | | PLACE |
 Herodes el Grande de (121:2.9)
 Poncio Pilato fue procurador de (185:0.1)
 
-ignorancia | | Ver educación; conocimiento | | 
+ignorancia | | educación; conocimiento | | 
 por sí sólo, la ignorancia nunca puede prevenir la supervivencia (110:3.5)
 tenga paciencia con (178:1.14)
 genera sospecha (52:6.4)
@@ -176,7 +171,7 @@ Influencia
 	sus descendientes le dieron a Jesús una traducción griega de las Escrituras (123:0.3)
 > https://es.wikipedia.org/wiki/Akenatón
 
-ilegitimidad | | Ver adulterio | | 
+ilegitimidad | | adulterio | | 
 La función principal de los clubes antiguos era prevenir (70:7.8)
 temprano cayó en descrédito (82:4.4)
 
@@ -190,13 +185,13 @@ solo los ideales alcanzables residen en Dios (160:5.5-9)
 la ciencia ha destruido las ilusiones de los niños (195:6.4)
 los imprudentes prefieren optimistas ilusiones a la realidad (160:1.7) (160:4.13-14)
 
-Ayudantes de Imágenes | | Ver Ayudantes Reflectantes de Imágenes | | 
+Ayudantes de Imágenes | | Ayudantes Reflectantes de Imágenes | | 
 
 imagen de dios | | | | 
 hecho por el hombre en (1:3.1) (3:4.7) (6:5.7) (7.4.4) (10:3.1) (32:2.8) (92:5.1) (117:3.5)
 presencia espiritual del Padre en donación de Ajustadores (1:3.1) (10:3.1) (108:6.3)
 
-imágenes | | Ver arte | | 
+imágenes | | arte | | 
 Las imágenes conceptuales de los Artesanos Celestiales registradores de pensamientos transmiten una inmensa cantidad de información (44:4.5-6)
 más temprano imágenes hecho para preservar la memoria de ilustres muertos (88:2.4)
 Dibujo de Jesús en el suelo de la sinagoga (124:1.4-5)
@@ -226,7 +221,7 @@ Inmanencia del Incompleto Proyectado | | | |
 presencia viva del Ser Supremo (4:1.10)
 Supreme anticipa la evolución futura como (117:7.6)
 
-Emmanuel | (18:6) (33:5) | Ver Uniones de los Días | PERSON | OK
+Emmanuel | (18:6) (33:5) | Uniones de los Días | PERSON | OK
 Emmanuel es el Unión de los Días con número 611.121, asignado a Nebadon (33:5.1-3)
 Emmanuel es el hermano mayor de Miguel (53:5.1) (54:5.8) (128:1.11)
 Emmanuel significa Dios con nosotros, y es llamado así porque es el representante del Padre ante la corte de Miguel (33:5.1)
@@ -248,7 +243,7 @@ la soberanía de Miguel
 	habría dejado Nebadon si Miguel hubiera afirmado una soberanía prematura, pero eso es algo que no ocurrió, pues Miguel deseaba alcanzar su soberanía por medio de una experiencia (120:0.3)
 	Miguel le pidió que permaneciera para siempre en Nebadon una vez él ganó su soberanía (119:8.1)
 
-inmadurez | | Ver madurez | | 
+inmadurez | | madurez | | 
 despierta antagonismos (160:3.3)
 evidencia de desaliento, preocupación e indolencia (160:1.6)
 divorcios del presente de la relación con el pasado y el futuro (118:1.8)
@@ -258,9 +253,9 @@ negarse a crecer (156:5.18)
 buscar la satisfacción de los deseos presentes (160:1.3) (166:3.4)
 la falta de voluntad para perdonar es una medida de la inmadurez (174:1.5)
 
-inmortalidad | | Ver vida eterna | | 
+inmortalidad | | vida eterna | | 
 
-impaciencia | | Ver paciencia | | 
+impaciencia | | paciencia | | 
 deseo de poseer lo que uno anhela ahora, desafiando los derechos de los demás (54:4.4)
 permitirse una aventura barata y sórdida (195:5.10)
 lección de Adán y Eva (75:1.6)
@@ -268,14 +263,14 @@ Lucifer anhelaba poseer poder inmediato (54:4.4)
 veneno espiritual (48:7.20)
 querer ver resultados inmediatos, algo en nuestra vida (75:3.6)
 
-imperfección | | Ver maldad; perfección | | 
+imperfección | | maldad; perfección | | 
 El padre participa de nuestra experiencia con (2:2.6)
 inherente al crecimiento evolutivo (105:6.4)
 
 lo impersonal | | | | 
 siempre receptivo a la voluntad y los actos de la personalidad (107:7.4)
 
-derechos de entrada | | Ver impuestos | | 
+derechos de entrada | | impuestos | | 
 
 Importancias del Tiempo | | | ORDER | 
 asignado a Mensajeros Poderosos, Los Elevados en Autoridad y Los que no tienen Nombre ni Número (28:6.1)
@@ -287,17 +282,17 @@ Seconafines terciarios; debe demostrar que el acusado tuvo suficiente tiempo (28
 imposibilidades | | | | 
 ninguno con Dios (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
 
-imprevisión | | Ver autogratificación | | 
+imprevisión | | autogratificación | | 
 Jesús no tocó (165:4.7)
 
-inacción | | Ver ociosidad | | 
+inacción | | ociosidad | | 
 
 encantamientos | | | | 
 inútil (150:3.11)
 magia practicada con (88:6.1)
 combinaciones de palabras consideradas altamente mágicas (88:6.3)
 
-encarnación | | Ver Hijos Creadores:donaciones de criaturas; Jesús:personalidad y naturaleza:Dios encarnado en el hombre; Hijos Magistrales:misiones planetarias; Miguel de Nebadon:donaciones; Hijos Paradisíacos de Dios:donaciones | | 
+encarnación | | Hijos Creadores:donaciones de criaturas; Jesús:personalidad y naturaleza:Dios encarnado en el hombre; Hijos Magistrales:misiones planetarias; Miguel de Nebadon:donaciones; Hijos Paradisíacos de Dios:donaciones | | 
 El Espíritu Infinito no se encarna; más bien escalones en forma de ángeles (8:4.5-6)
 
 incas | | | RACE | 
@@ -310,7 +305,7 @@ mantuvo el fuego de buen humor (69:6.4)
 incesto | | | | 
 origen de la idea (82:3.11)
 
-ingresos | | Ver riqueza | | 
+ingresos | | riqueza | | 
 
 incompletitud | | | | 
 virtud de que hace posible el crecimiento evolutivo (117:2.8)
@@ -318,10 +313,10 @@ virtud de que hace posible el crecimiento evolutivo (117:2.8)
 inconstancia | | | | 
 no temas (34:7.8)
 
-indecisión | | Ver acción; decisiones; fe | | 
+indecisión | | acción; decisiones; fe | | 
 borrar el centro muerto de (91:9.5)
 
-India | | Ver brahmánismo; Decán; Ghates orientales; Ganges; hinduismo; Indo; Punjab; tribu Toda; Ghates occidentales | PLACE | 
+India | | brahmánismo; Decán; Ghates orientales; Ganges; hinduismo; Indo; Punjab; tribu Toda; Ghates occidentales | PLACE | 
 beneficiado por el paso del comercio chino-mesopotámico (79:7.6)
 lugar de nacimiento del hombre; Andón y Fonta nacidos en (61:6.1) (79:0.1)
 dinosaurios enterrados en (60:2.2)
@@ -387,9 +382,9 @@ Van se retiró a las tierras altas al oeste de (67:6.1)
 
 océano Índico | (60:3.4) (61:3.8) | | PLACE | 
 
-Indios (americanos) | | Ver raza roja | RACE | 
+Indios (americanos) | | raza roja | RACE | 
 
-raza índiga | (64:6.25-27) | Ver razas; saharauis | RACE | 
+raza índiga | (64:6.25-27) | razas; saharauis | RACE | 
 deteriorado en África (78:3.7)
 invadió Egipto, luego expulsado; tomó posesión de África (64:6.25) (64:7.14-16) (78:3.6-7) (80:2.2) (80:6.5)
 enseñado fácilmente a labrar la tierra; gran raza de esclavos (64:6.25) (69:8.5)
@@ -408,7 +403,7 @@ generalmente sometido por la raza azul (51:4.6)
 eliminó y absorbió los restos de razas verdes y naranjas (64:6.13) (64:7.14)
 esposas ganadas por concursos de acertijos (82:3.5)
 
-el individuo | | Ver individualismo; mortales; partes y el todo; personalidad; el yo | | 
+el individuo | | individualismo; mortales; partes y el todo; personalidad; el yo | | 
 un mundo mejor depende del progreso de (145:1.8)
 El padre trata a cada hijo ascendente como (117:6.22)
 Dios modifica sus acciones para contribuir a (4:2.1)
@@ -418,10 +413,10 @@ nada tan importante para Jesús como (138:8.9) (140:8.11) (140:10.5) (144:6.3) (
 el sobredesarrollo de las instituciones resta valor (69:1.1)
 El personal del Príncipe predicó la iniciativa individual (66:6.2)
 progreso del individuo aumentado a través del logro del grupo (100:0.1)
-relación con el grupo | Ver grupos
+relación con el grupo | grupos
 Los gobernantes del universo preferirían arriesgarse a la rebelión del sistema que privar a un mortal de la vida eterna (112:5.8)
 
-individualismo | | Ver el individuo; originalidad | | 
+individualismo | | el individuo; originalidad | | 
 Caligastia era ultraindividualista (66:8.1)
 el industrialismo debería promover (70:2.18)
 el progreso exige el desarrollo de la individualidad (48:7.29)
@@ -430,7 +425,7 @@ Indochina | | | PLACE |
 culturas de India y China mezcladas (79:6.2)
 El budismo Hinayana persistió en (94:9.4)
 
-indolencia | | Ver acción; facilidad; ociosidad; pasividad | | 
+indolencia | | acción; facilidad; ociosidad; pasividad | | 
 cesar el anhelo inútil (155:1.3)
 definido como
 	evidencia de inmadurez moral (160:1.6)
@@ -452,19 +447,19 @@ confiando supinamente en una Providencia ficticia (178:1.14)
 Indonesia; pueblos indonesios | | | PLACE | 
 Tipo mongoloide con Sangik secundario (81:4.12)
 
-Indra | | Ver hinduismo | PERSON | OK
+Indra | | hinduismo | PERSON | OK
 Indra fue un dios de los arios, pero que después ha sobrevivido como deidad hindú secundaria (94:4.6)
 el tempestuoso señor védico de la atmósfera (94:1.3)
 > https://es.wikipedia.org/wiki/Indra
 
-indulgencia | | Ver disciplina | | 
+indulgencia | | disciplina | | 
 
-Indo | | Ver India | PLACE | 
+Indo | | India | PLACE | 
 Los anditas emigraron al valle de (79:1.3) (79:2.4)
 delta es el trabajo de los últimos 50.000 años (79:2.1)
 Centros dravídicos a lo largo (79:3.6)
 
-industria | | Ver comercio; propiedad privada | | 
+industria | | comercio; propiedad privada | | 
 históricamente
 	Adán fomentó la fabricación y las relaciones comerciales con el exterior
 	mundo (74:5.3)
@@ -484,13 +479,13 @@ las herramientas determinan la supervivencia de los grupos contendientes (81:6.2
 los mundos en transición tienen la economía necesaria (44:3.3)
 debilidad de la industria es falta de emoción y aventura (68:5.11)
 
-desigualdades | | Ver igualdad | | 
+desigualdades | | igualdad | | 
 debido a la herencia, el medio ambiente, el grado de unificación espiritual (133:7.11)
 atribuido erróneamente a la injusticia social (86:7.4)
 ninguno en luz y vida (55:5.2)
 brindar oportunidades para el altruismo (3:5.7)
 
-inercia | | Ver indolencia | | 
+inercia | | indolencia | | 
 
 inevitabilidades | | | | 
 inevitabilidades absolutas
@@ -505,19 +500,19 @@ los miembros de la familia obtienen beneficios y sufren las consecuencias de las
 subabsoluta inevitabilidad es Siete Espíritus Rectores (16:1.1) (115:7.5)
 Absoluto universal (0:11.10)
 
-infalibilidad | | Ver libros sagrados | | 
+infalibilidad | | libros sagrados | | 
 
-infanticidio | | Ver aborto; niños | | 
+infanticidio | | aborto; niños | | 
 El cristianismo puso fin a (195:3.5)
 muchos clanes primitivos virtualmente exterminados por (68:6.9)
 las madres primitivas una vez mataron y comieron a los niños para renovar las fuerzas (89:5.4)
 El método favorito de los primitivos para matar a los niños no deseados era la exposición (68:6.8) (84:7.6)
 los primitivos mataron a niños deformados, prematuros o enfermizos; niñas antes de la compra de la esposa (68:6.8) (84:1.4)
 
-inferioridad | | Ver respeto por uno mismo | | 
+inferioridad | | respeto por uno mismo | | 
 Los sentimientos de Fortune de (130:6)
 
-inferiores | | Ver eugenesia; desafortunados | | 
+inferiores | | eugenesia; desafortunados | | 
 las deficiencias a menudo son el resultado de la propia indolencia (70:9.16)
 Posible posesión demoníaca con inferiores antes de Pentecostés (77:7.7)
 descalificación para la supervivencia debido a antepasados ​​inferiores (109:3.8)
@@ -537,9 +532,9 @@ la pobreza no puede eliminarse si los degenerados son sostenidos libremente y se
 los subnormales deben mantenerse bajo el control de la sociedad (68:6.11)
 multiplicación desenfrenada de inferiores destruye la civilización (72:9.8) (79:2.7)
 
-infidelidad | | Ver adulterio | | 
+infidelidad | | adulterio | | 
 
-El Infinito; Infinito; El Uno Infinito | | Ver Dios; YO SOY; Padre Universal | PERSON | OK
+El Infinito; Infinito; El Uno Infinito | | Dios; YO SOY; Padre Universal | PERSON | OK
 El Infinito es la fuente de la realidad universal (130:4.2)
 El Infinito denota la plenitud implícita en la primacía de la Fuente-Centro Primera (0:3.24)
 la personalidad del Infinito se revela bajo la forma de Padre Universal (10:1.3)
@@ -548,14 +543,14 @@ El hombre mortal finito nunca puede esperar comprender al Infinito, salvo cuando
 tarde o temprano todas las personalidades perciben que todo crecimiento y logro en la búsqueda del Infinito es proporcional al logro en la semejanza e identidad con el Padre (106:9.11)
 sólo la infinidad puede revelar al Infinito (3:1.2) (12:1.16)
 
-Capacidad Infinita | | Ver Absoluto Incalificado | | 
+Capacidad Infinita | | Absoluto Incalificado | | 
 YO SOY estático-reactivo, el Absoluto Incalificado (105:2.10)
 
-Mente Infinita; mente infinito | | Ver Espíritu Infinito | PERSON | OK
+Mente Infinita; mente infinito | | Espíritu Infinito | PERSON | OK
 La Mente Infinita es la función del Espíritu Infinito (116:1.3)
 existen muchas pruebas de la realidad de los circuitos de inteligencia del Espíritu Infinito, pero la reflectividad de los seconafines es suficiente para demostrar la presencia universal de la mente infinita del Actor Conjunto (28:3.2)
 
-Potencial Infinito | | Ver Absoluto de la Deidad | PERSON | OK
+Potencial Infinito | | Absoluto de la Deidad | PERSON | OK
 El Potencial Infinito, o YO SOY autocalificado, es la fase del YO SOY que se comprende como el Absoluto de la Deidad, la parte que atestigua que el YO SOY se ha limitado a sí mismo para poder expresarse y revelarse (105:2.9)
 
 Espíritu Infinito; Actor Conjunto; Creador Conjunto; Dios de Acción; Tercera Persona de la Deidad; Fuente-Centro Tercera; Inteligencia Universal; Manipulador Universal; Dios Espíritu; Mente Universal; Espíritu Omnipresente; Espíritu Universal; Guía Supremo; Ejecutivo Divino; Mente Infinita; Espíritu de los Espíritus; Espíritu Madre Paradisiaco; Coordinador Final; Inteligencia Absoluta; Acción Divina | (8) (9) | | PERSON | OK
@@ -673,7 +668,7 @@ funciones del Espíritu Infinito
 	las agencias del Espíritu Infinito manejan nuestros asuntos diarios prácticos, y cooperamos con ellas (5:3.5)
 	El Creador Conjunto es el antecesor de la mente cósmica, y la mente del hombre es un circuito individualizado, una porción impersonal, de esa mente cósmica (9:5.4) (9:7.3-4) (12:6.3) (16:9.15)
 	El Espíritu Infinito posee un poder único y asombroso —la antigravedad (9:1.7) (9:3.2-3)
-	el Espíritu Infinito otorga la personalidad de tipo de la Tercera Fuente, que es diferente de la personalidad otorgada por el Padre | Ver Personalidades de la Tercera Fuente | (9:8.6-12)
+	el Espíritu Infinito otorga la personalidad de tipo de la Tercera Fuente, que es diferente de la personalidad otorgada por el Padre | Personalidades de la Tercera Fuente | (9:8.6-12)
 	también puede actuar en nombre del Padre para conceder la personalidad del tipo de la Fuente Primera (9:8.10)
 	parece compensar la incompletitud de la Deidad evolutiva: el Supremo y el Último (9:1.6) (116:4.2)
 	hay que pensar en él como un correlacionador de toda la realidad actual (9:1.3) (104:4.43)
@@ -724,13 +719,13 @@ alcanzar al Espíritu Infinito
 	no todos los que alcanzan el Paraíso pueden discernir inmediatamente al Espíritu Infinito (16:2.1)
 	Los guías de la Trinidad ayudan a los peregrinos de Havona a encontrar al Espíritu Infinito (26:7.2)
 
-Sostén Infinito | | Ver Absoluto Universal | PERSON | OK
+Sostén Infinito | | Absoluto Universal | PERSON | OK
 El Sostén Infinito es el YO SOY autoasociativo, la asociación primordial de los aspectos estáticos y potenciales de la realidad; el Absoluto Universal, el unificador del Absoluto de la Deidad y del Absoluto Incalificado (105:2.8)
 
-La Infinitud | | Ver YO SOY; El Uno Infinito; La Infinidad | PERSON | OK
+La Infinitud | | YO SOY; El Uno Infinito; La Infinidad | PERSON | OK
 la Infinitud es un postulado que se hace para explicar el momento inicial teórico en el que se produce la primera volición del YO SOY y su repercusión, en la cual El Uno Infinito y la Infinitud se diferencian uno de otro, y a su vez del continuum eterno de La Infinidad (105:2.2)
 
-infinito | | Ver realidad:niveles de realidad:realidad absoluta | | 
+infinito | | realidad:niveles de realidad:realidad absoluta | | 
 Elipse casi ilimitada producida por una causa absoluta (105:0.1)
 unidad y diversidad (115:3.4)
 capaz de autolimitarse; posibilidad finita inherente a (105:1.8) (105:5.4) (108:0.2) (115:2.4) (115:4.3-4)
@@ -747,29 +742,29 @@ La estasis primordial requiere segmentación para la comprensión humana (115:3.
 Las criaturas espacio-temporales no pueden comprender (2:1.10) (116:2.3)
 las triunidades son el volante funcional de (104:4.46)
 
-La Infinidad | | Ver YO SOY; El Uno Infinito; La Infinitud | PERSON | OK
+La Infinidad | | YO SOY; El Uno Infinito; La Infinitud | PERSON | OK
 La Infinidad representa un continuum eterno del YO SOY que puede mantener una relación trina con El Uno Infinito y La Infinitud, esas existencias teóricas del YO SOY que dieron lugar a la primera volición y la primera repercusión (105:2.2)
 
-influencias (espiritual) | | Ver influencias espirituales | | 
+influencias (espiritual) | | influencias espirituales | | 
 
 rayos infrarrojos | | | | 
 la actividad electrónica se ralentizó cerca del calor (42:5.11)
 
 rayos infraultimatónicos | (42:5.3) | | | 
 
-herencia | | Ver dotaciones | | 
-biológico | Ver eugenesia; genética
+herencia | | dotaciones | | 
+biológico | eugenesia; genética
 dividiendo el (165:4)
 a los padres les gusta irse (142:7.12)
 El consejo de Jesús al hombre rico (132:5.3,15,23)
 obligación de transmitir riqueza legítima a las generaciones venideras (69:9.3) (132:5.15)
 primitivos contados herencia en línea femenina (84:2.1)
 hijo pródigo perdió la herencia en una vida desenfrenada (169:1.7)
-impuestos | Ver impuestos:impuesto sobre sucesiones
+impuestos | impuestos:impuesto sobre sucesiones
 
-inicuo | | Ver Lucifer | | 
+inicuo | | Lucifer | | 
 
-iniquidad | | Ver error; maldad; rebelión (espiritual); pecado | | 
+iniquidad | | error; maldad; rebelión (espiritual); pecado | | 
 definido como
 	locura cósmica; desafío a la realidad; indica la desaparición del control de la personalidad (2:3.5) (67:1.4-5)
 	destruir la conexión del alma con el espíritu (146:2.2)
@@ -786,9 +781,9 @@ los iniquistas nunca experimentan dolor ni aceptan el perdón por sus fechorías
 Jesús vio a la mayoría de los hombres más débiles que malvados (196:2.9)
 algunos abrazan la iniquidad (133:3.7)
 
-ceremonias de iniciación | | Ver sociedades secretas | | 
+ceremonias de iniciación | | sociedades secretas | | 
 
-iniciativa | | Ver logro; ganarse la vida; originalidad | | 
+iniciativa | | logro; ganarse la vida; originalidad | | 
 la creencia en los encantos destruida; la tradición sofoca (66:6.2) (88:6.6)
 directamente proporcional al grado de cumplimiento de la voluntad del Padre (195:6.16)
 el industrialismo debería promover (70:2.18)
@@ -799,9 +794,9 @@ Disminuye el sobredesarrollo de las instituciones (69:1.1)
 El personal del Príncipe predicó la iniciativa individual (66:6.2)
 bajo cultos fantasmas, el futuro no es el resultado del esfuerzo o el talento (87:5.8)
 
-mandatos judiciales | | Ver mandamientos | | 
+mandatos judiciales | | mandamientos | | 
 
-lesión | | Ver enfermedad; curación; salud; médicos | | 
+lesión | | enfermedad; curación; salud; médicos | | 
 productos químicos curativos (65:4.3-6)
 
 niño herido en Pella | (137:0.1) (137:1.1,4) | | | 
@@ -810,7 +805,7 @@ no resistir o combatir niño herido en Pella (140:3.14) (140:8.4)
 recompensa niño herido en Pella con bondad (131:8.4)
 abstenerse de despreciar los medios materiales de curación (164:3.15)
 
-injusticia | | Ver maldad; explotación; fraude; mentir; robo | | 
+injusticia | | maldad; explotación; fraude; mentir; robo | | 
 no resista a la fuerza (140:3.14) (140:8.4)
 la fe mantiene el equilibrio frente a (101:3.9) (194:3.12)
 Sócrates enseñó mejor a sufrir injusticia que ser culpable de ello (98:2.6)
@@ -821,7 +816,7 @@ es despreciable (131:3.3)
 estropea las mentes humanas (9:5.5-7)
 regocíjate en aquel que tiene poder para librarnos de todo (165:3.3)
 
-vida interior | (111:4) | Ver comunión espiritual; crecimiento espiritual | | 
+vida interior | (111:4) | comunión espiritual; crecimiento espiritual | | 
 solo es verdaderamente creativo (111:4.3)
 
 posadas | | | | 
@@ -848,23 +843,23 @@ primitivas
 	lunáticos a menudo adorados (85:6.2)
 asociaciones incontroladas y aleatorias de (133:7.9)
 
-insectos | (61:2.4) | Ver animales | | 
+insectos | (61:2.4) | animales | | 
 apariencia (59:5.7)
 nacido con educación completa (81:6.24)
 fósiles de insectos conservado en piedra litográfica (60:2.6)
 especies no progresivas (65:2.5)
 evolucionaron las etapas de reposo de la animación suspendida (59:6.7)
-tipos nombrados | Ver mariposas; orugas; ciempiés; cucarachas; grillos; libélulas; mosquitos; avispones; langostas; escorpiones; arañas
+tipos nombrados | mariposas; orugas; ciempiés; cucarachas; grillos; libélulas; mosquitos; avispones; langostas; escorpiones; arañas
 la adoración de insectos fue una mala interpretación de la regla de oro (85:3.4)
 
-inseguridad | | Ver ansiedad; miedo; incertidumbre | | 
+inseguridad | | ansiedad; miedo; incertidumbre | | 
 antídoto por la fe (143:7.3)
 brinda oportunidades para la esperanza (3:5.8)
 
 interioridad | | | | 
 de la experiencia humana es el punto de vista de la religión (103:6.3) (103:7.6)
 
-visión | | Ver percepción espiritual | | 
+visión | | percepción espiritual | | 
 conciencia de los significados de los significados (160:1.5)
 captar los significados eternos de las metas en actividades aparentemente insignificantes (43:8.10)
 el humor puede ayudar a lograr (48:4.18)
@@ -875,13 +870,13 @@ precede a la previsión (112:2.6)
 estrellas que se distinguen mejor del solitario aislamiento de las profundidades (48:7.15)
 conciencia indiscutible de la realidad cósmica (112:1.10)
 
-insinceridad | | Ver sinceridad | | 
+insinceridad | | sinceridad | | 
 rasgo vestigial animal que la carrera morontial erradica (48:5.8)
 La insinceridad de Lucifer evolucionó a pecado deliberado (53:2.5)
 estropea las mentes humanas (9:5.5-7)
 Los Serafines de Arquitectos Sociales buscan eliminar la artificialidad (39:3.4)
 
-inspiración | | Ver liderazgos; revelación:revelación personal; percepción espiritual | | 
+inspiración | | liderazgos; revelación:revelación personal; percepción espiritual | | 
 La vida de Jesús era inspiración en lugar de un ejemplo (120:2.7) (129:4.7) (136:0.1) (140:10.3) (181:1.3) (194:2.8) (196:1.5)
 
 Espíritus Inspirados Trinitarios | (19:5) | | ORDER | 
@@ -909,24 +904,24 @@ expresión superpersonal de la Trinidad del Paraíso (19:5.2) (108:3.9)
 Los seres de origen trinitario a veces pueden reconocer y emplear (19:5.3,10)
 sin forma visible (42:12.10)
 
-inestabilidad | | Ver confusión | | 
+inestabilidad | | confusión | | 
 demasiada simpatía puede degenerar en emocional (149:4.3)
 
-Instigadores del Descanso | (27:1) | Ver Supernafines | ORDER | 
+Instigadores del Descanso | (27:1) | Supernafines | ORDER | 
 encontrarse con los peregrinos en el círculo interior de Havona (26:11.6)
 Supernafines primarios (26:11.6) (27:0.10)
 
-instintos | | Ver carne; sexo:urgencia | | 
+instintos | | carne; sexo:urgencia | | 
 instinto gregario insuficiente para explicar la sociedad actual (68:2.4)
 impulsos innatos hacia el crecimiento y la función de autorrealización a menos que se inhiban (100:1.6)
 la técnica del hombre varía, pero su disposición permanece sin cambios (69:5.13) (84:5.13)
 la reducción del rendimiento de la tierra o el aumento de la población hacen que afloren los peores rasgos de la naturaleza humana (68:6.4)
 entrenamiento del intelecto anulado por el instinto (111:7.5)
 
-instituciones | | Ver civilización; gobierno | | 
+instituciones | | civilización; gobierno | | 
 costumbres acumuladas (69:0.3)
 todos ministran a alguna necesidad social (69:1.1)
-tipos básicos | Ver autogratificación; preservación; autoperpetuación | (69:1.3-5)
+tipos básicos | autogratificación; preservación; autoperpetuación | (69:1.3-5)
 el hombre se aseguró la libertad civil a través de (81:5.5)
 el hombre debe controlar su yo, no ser controlado por ellos (69:1.1)
 la mayoría ahorra trabajo; contribuir a la seguridad del grupo (69:0.2)
@@ -958,7 +953,7 @@ inversión inteligente de ganancias contra adversidades futuras (163:2.11)
 intelectualismo | | | | 
 El sobredesarrollo intelectual a veces obstaculiza y avergüenza a la religión (102:3.1)
 
-inteligencia | | Ver mente | | 
+inteligencia | | mente | | 
 
 Coordinadores de la Información (Cuerpo Seráfico de Finalización); coordinadores glorificados de la información del Cuerpo Seráfico de la Finalización | | | ORDER | 
 los transmisores de Serafines superiores se asocian con (39:2.15)
@@ -971,9 +966,9 @@ Supernafines terciarios; periódicos vivientes de Havona (26:3.8)
 Cuerpo de Información | | | | 
 Serafines superiores; informar a Gabriel (39:2.3)
 
-intenciones | | Ver motivos | | 
+intenciones | | motivos | | 
 
-mestizaje | | Ver hibridación | | 
+mestizaje | | hibridación | | 
 
 intercesores | | | | 
 la iluminación debe librar de la dependencia de (92:7.11)
@@ -1007,7 +1002,7 @@ restauración inexorable del desequilibrio entre la libertad y el autocontrol (1
 circuito interfilial | | | | 
 canal directo de comunicación entre el Hijo Eterno y los Hijos Paradisiacos (7:6.7) (15:9.7)
 
-intolerancia | | Ver prejuicios; tolerancia | | 
+intolerancia | | prejuicios; tolerancia | | 
 apareció con la religión revelada (92:7.2-3)
 provocó el despido sumario en Urmia (134:3.6)
 cubre dudas secretas (146:3.2)
@@ -1031,9 +1026,9 @@ Jesús rechazó las drogas en la crucifixión (187:2.3) (194:3.4)
 La religión de Jesús no es un opiáceo (194:3.3-4)
 Los sumerios usaban opio como medicina (90:4.9)
 
-introspección | | Ver autoanálisis | | 
+introspección | | autoanálisis | | 
 
-intuición | | Ver Espíritus Ayudantes de la Mente | | 
+intuición | | Espíritus Ayudantes de la Mente | | 
 
 invención | | | | 
 acelera el desarrollo cultural (81:6.9)
@@ -1101,7 +1096,7 @@ cerámica descubierta al observar una choza de arcilla quemada (81:2.18)
 Simón el Zelote siguió trabajando por la creencia de que Jesús regresaría pronto (192:2.5-6)
 momento de la inmersión del Edén (73:7.2)
 
-iroqueses | | Ver raza roja | RACE | 
+iroqueses | | raza roja | RACE | 
 la federación alcanzó la forma primitiva de estado (71:1.3-12)
 madre-familia una razón por la que nunca se logró la estadidad (84:2.2)
 residuos reformados en funerales (87:2.10)
@@ -1111,7 +1106,7 @@ Los adanitas trabajaron a lo largo de los ríos de Mesopotamia en (78:2.1)
 Caligastia 100 enseñado (66:5.2)
 Los sumerios usaban canales de riego para la defensa militar (78:8.5)
 
-irritación | | Ver quejumbroso | | 
+irritación | | quejumbroso | | 
 
 Isaac (prestamista de Nazaret) | | | PERSON | OK
 Isaac era un judío rico, prestamista de los gentiles, que se ofreció a apoyar económicamente a la familia de Jesús si se decidía a dirigir a los patriotas nacionalistas de Nazaret (127:2.5)
@@ -1153,7 +1148,7 @@ Isis era la madre de Osiris en el culto egipcio de misterio (98:4.2-8)
 Los trabajadores agrícolas egipcios adoraban a Isis (95:5.12)
 el culto a Isis en Egipto fue un equivalente del culo a Istar en Mesopotamia (95:1.7)
 
-Islam | | Ver Mahoma | RACE | 
+Islam | | Mahoma | RACE | 
 capítulo del Corán dedicado al mal de ojo (87:5.5)
 presentación clara de Alá como única Deidad (94:2.8) (95:7.6)
 falló en captar la idea de la Trinidad (92:6.19) (104:1.9)
@@ -1172,7 +1167,7 @@ tabú en la carne de cerdo (89:1.5)
 enseña la inferioridad de las mujeres (82:4.3) (84:5.6) (95:7.6)
 uso de la fuerza militar para promulgar (95:7.6)
 
-Isla del Paraíso | | Ver Paraíso | PLACE | 
+Isla del Paraíso | | Paraíso | PLACE | 
 
 Isla de Patmos | | | PLACE | 
 El apóstol Juan desterrado a (139:4.13-14)
@@ -1180,7 +1175,7 @@ El apóstol Juan desterrado a (139:4.13-14)
 ismos | | | | 
 muchos ismos surgieron de comunicaciones confusas del Ajustador (110:4.5)
 
-aislamiento | | Ver soledad | | 
+aislamiento | | soledad | | 
 efecto
 	divergencia de la personalidad de la tendencia del universo (130:4.8)
 	agota la carga de energía del alma (160:2.8-9)
@@ -1211,21 +1206,21 @@ la religión cura (101:10.7)
 la sociedad es el resultado de la aversión del hombre por (68:2.1)
 El Espíritu de la Verdad destruye los sentimientos de orfandad (194:2.2)
 
-mundos de aislamiento | | Ver mundos carcelarios | PLACE | 
+mundos de aislamiento | | mundos carcelarios | PLACE | 
 
-Israel | | Ver Efraín; Galilea; Judea; Palestina; Perea | PLACE | 
+Israel | | Efraín; Galilea; Judea; Palestina; Perea | PLACE | 
 hijos de Israel, así llamados después de los días de Abraham (96:2.3) (136:1.1)
 conspiró con Egipto para negarse a pagar tributo a Asiria; fue destruido (97:9.21)
 cayó bajo el gobierno de déspotas de la ciudad (97:9.18)
 guerras con Judá (97:9.18)
 
-israelitas | | Ver judíos | RACE | 
+israelitas | | judíos | RACE | 
 3 o 4 tribus asentadas en Palestina (97:9.1)
 La conciencia nacional se originó en Efraín (97:9.2)
 
-istmos | | Ver puentes terrestres | | 
+istmos | | puentes terrestres | | 
 
-Italia | | Ver vía Apia; Capua; Nápoles; Imperio Romano; Roma; Tarento | PLACE | 
+Italia | | vía Apia; Capua; Nápoles; Imperio Romano; Roma; Tarento | PLACE | 
 Anditas en (80:7.11)
 El viaje de Jesús a Roma (132) (130:8.3-6) (133:0-2)
 tribus habitaban en casas erigidas sobre pilotes sobre lagos de (80:8.3)

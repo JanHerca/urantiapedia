@@ -1,60 +1,56 @@
 ####################################################################################
 #
 #                     N
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-
-Nabal
+Nabal | | | PERSON | 
 rich Edomite; King David married widow of (97:9.10)
 
-Nabodad
+Nabodad | | | PERSON | 
 Salem leader of school at Kish (95:1.6)
 
-Nabon
+Nabon | | | PERSON | 
 Greek Jew, Mithraic high priest (132:3.1,11)
 
-Naboths
+Naboths | | | PERSON | 
 murdered by Ahab to get his land (97:3.6) (97:9.19)
 
-Nabu
+Nabu | | | PERSON | 
 one of chief Mesopotamian deities (95:1.4)
 
-Nahor (evangelist)
+Nahor (evangelist) | | | PERSON | 
 blundered at Nazareth rejection (150:9.3)
 
-Nahor (Old Testament)
+Nahor (Old Testament) | | | PERSON | 
 Abraham’s lukewarm brother (93:5.4-5) (93:9.4)
 Moses gathered descendants of (96:5.9)
 
-Nahor (rabbi)
+Nahor (rabbi) | | | PERSON | 
 came from Jerusalem to Nazareth to observe Jesus (123:6.8-9)
 
-nails
+nails | | | | 
 Thomas would not believe until seeing marks of (191:5.4)
 used in crucifixion (187:2.1)
 
-Nain (124:1.12) (137:2.8)
+Nain | (124:1.12) (137:2.8) | | PLACE | 
 hill of (122:6.1)
 Joseph father of Jesus worked at (123:3.8)
 widow’s son at (146:6)
 
-Nalda
+Nalda | | | PERSON | 
 at Jesus’ 17th appearance (193:1)
 Jesus’ first pronouncement of divine nature to (143:5.7-8)
 woman by the well; from Sychar (143:5)
 
-Nambia
+Nambia | | | PLACE | 
 first-born Life Carrier of Nebadon (36:1.2)
 
-names
+names | | | | 
 after fusion, mortals receive their real (47:8.5) (108:3.3)
 aristocracy based in part on name ownership (70:6.3)
 human subjects often known by numbers of their Adjusters (108:3.3)
@@ -62,34 +58,34 @@ parents’ name pride in children’s success (84:7.10,15)
 primitives regarded names as separate entities; could be pawned (88:5.5)
 revelators found it difficult to translate meaningfully (18:4.3)
 
-Nanak, Guru | See Guru Nanak
+Nanak, Guru | | Guru Nanak | PERSON | 
 
-Naomi
+Naomi | | | PERSON | 
 bride at wedding at Cana (137:3.6)
 
-Naples (130:0.2)
+Naples | (130:0.2) | | PLACE | 
 beggar at Naples lacked ability to respond (130:8.4)
 Claudus preached in (130:8.1)
 Jesus’ stop at (130:8.4-5)
 
-Nasanta
+Nasanta | | | PERSON | 
 at Jesus’ 16th appearance (193:0)
 daughter of Elman; member of women’s corps (150:1.1)
 
-Nathan of Busiris
+Nathan of Busiris | | | PERSON | 
 carried news of crucifixion to Alexandria (191:6.1)
 
-Nathan of Caesarea
+Nathan of Caesarea | | | PERSON | 
 Greek Jew; wrote Gospel of John (121:8.10) (139:4.4,15)
 
-Nathan of Cana
+Nathan of Cana | | | PERSON | 
 father of Johab, groom of wedding at Cana (137:3.6)
 shortage of wine (137:4.7)
 
 Nathan of Nazareth
 potter (123:5.15) (124:1.3)
 
-Nathaniel (Apostle) (139:6) (143:3.5) (144:1.7) (151:2.3) (164:0.1) (192:4.7) | See also apostles of Jesus
+Nathaniel (Apostle) | (139:6) (143:3.5) (144:1.7) (151:2.3) (164:0.1) (192:4.7) | apostles of Jesus | PERSON | 
 apostolic philosopher, dreamer (139:6.4) (147:4.10) (191:0.7)
 at Jesus’ appearances (191:2,5) (192:1-4) (193:0,3,5)
 attended session of Sanhedrin (164:5.3)
@@ -123,13 +119,13 @@ unmarried; from Cana; only support of infirm parents; 25 in A.D. 26 (137:2.3) (1
 watched over apostles’ families (138:10.5) (139:6.7)
 well educated (139:6.2)
 
-Nathaniel the Pharisee
+Nathaniel the Pharisee | | | PERSON | 
 invited Jesus to breakfast (166:1)
 
-National Council of Defense
+National Council of Defense | | | | 
 in continental nation (72:7.7,14) (72:11.1)
 
-nationalism | See also nations; patriotism
+nationalism | | nations; patriotism | | 
 age of Planetary Prince culminates in intense (52:2.5)
 delusion of national sovereignty is chief barrier to world peace (134:5.10) (134:6.6-7) (195:8.10)
 has been essential to social survival (71:3.2)
@@ -140,38 +136,38 @@ Rome overcame nationalism by imperial universalism (195:3.2)
 wanes upon race blending (52:3.10)
 war fostered and solidified (70:2.3-9)
 
-nations | See also government; nationalism
+nations | | government; nationalism | | 
 cannot rub elbows without conflict (134:5.7)
 failure to increase in population prevents full realization (81:6.11)
 Spirit of Truth lessens self-assertiveness (194:3.18)
 
-natural events | See circumstances
+natural events | | circumstances | | 
 
-natural law
+natural law | | | | 
 Jesus might accelerate, but would not violate (136:6.2) (136:7) (136:9.9)
 man reaps harvest of efforts to comply with (166:4.8)
 physical phenomena less predictable the farther one is from Paradise (15:8.8-9)
 transgression of natural law may be fatal in material realm without jeopardizing spiritual survival (67:7.4)
 
-natural philosophy (42:9)
+natural philosophy | (42:9) | | | 
 
-natural resources
+natural resources | | | | 
 administered as community property in light and life (55:3.7)
 early wars fought over deposits of natural resources (69:4.6)
 held as social trust in continental nation (72:6.7) (72:7.13)
 largely determine extent of material civilization (78:2.4) (81:6.3)
 share discoveries with largest number of fellows (132:5.16)
 
-natural rights | See human rights
+natural rights | | human rights | | 
 
-natural selection | See also genetics
+natural selection | | genetics | | 
 variety indispensable to (64:6.31)
 
-naturalism
+naturalism | | | | 
 philosophy leaning heavily toward world of matter (103:6.14)
 
-nature (4:2) (38:2)
-accidents of (166:4.7) | See also accidents
+nature | (4:2 seg.) (38:2 seg.) | | | 
+accidents of (166:4.7) | accidents
 confers no rights on man (70:9.1) (70:10.1)
 defined as
 	background of immutable laws modified by local conditions (4:2.2-4) (12:7.2)
@@ -195,10 +191,10 @@ worship of nature
 	improper (4:2.6,8) (5:5.4) (139:8.7)
 	led to belief in charms indwelt by some spirit (88:1.3)
 
-navels
+navels | | | | 
 shamans induced autohypnosis by staring at their (90:1.4)
 
-Nazareth (138:1.4)
+Nazareth | (138:1.4) | | PLACE | 
 can any good come out of N.? (123:5.7) (125:4.3) (137:2.2,6) (139:6.3) (187:2.5)
 center of liberal interpretation of Jewish law (123:5.7-12) (124:4.8)
 chazan of Nazareth synagogue q.v.
@@ -219,7 +215,7 @@ synagogue had complete copy of Hebrew scriptures (123:5.3)
 synagogue school; view from hill above (123:5)
 village spring was center of gossip (123:5.15)
 
-Nazarites
+Nazarites | | | RELIGION | 
 Abner onetime head of (165:0.1)
 ascetic and eccentric; majority refused to accept Jesus (142:8.1)
 believed in coming of Messiah (137:7.12)
@@ -232,7 +228,7 @@ permitted to enter holy of holies in temple (135:1.2)
 Samson and prophet Samuel were (135:1.2)
 vowed to abstain from intoxicants, let hair grow, not touch dead (135:1.1-2) (135:2.1)
 
-Neanderthalers (64:4)
+Neanderthalers | (64:4) | | RACE | 
 absorbed invading blue race (64:7.9)
 Adamites exterminated strains of Neanderthalers in blue race (80:1.7)
 blue race retarded by absorption of (78:1.8) (79:5.1)
@@ -243,16 +239,16 @@ greatly improved work in flint (64:4.3)
 of east Asia contaminated with debased animal strains (79:5.2)
 retrogressed; had no religion, only superstition (64:4.11-13)
 
-Nebadon (33) (41) | See also local universes; Salvington
+Nebadon | (33) (41) | local universes; Salvington | PLACE | 
 administration (33)
 being forged out between anvil of justice and hammer of suffering (9:1.8)
 celestial personalities in Nebadon
 	1 Associate Inspector (37:8.5)
-	1 Bright and Morning Star | See Gabriel
-	1 Creator Son | See Michael of Nebadon
-	1 directional control creature | See directional control creatures
-	1 Father Melchizedek | See Father Melchizedek
-	1 local universe Mother Spirit | See local universe Mother Spirit of Nebadon
+	1 Bright and Morning Star | Gabriel
+	1 Creator Son | Michael of Nebadon
+	1 directional control creature | directional control creatures
+	1 Father Melchizedek | Father Melchizedek
+	1 local universe Mother Spirit | local universe Mother Spirit of Nebadon
 	1 Universe Circuit Supervisor (Tertiary) (24:1.11) (37:8.3)
 	3 million Celestial Overseers (37:6.1)
 	70 billion Morontia Companions (37:8.9)
@@ -316,7 +312,7 @@ physical aspects (41)
 	physically assembled out of Andronover and other nebulae (41:0.3) (57:1.1) (57:3.8-9)
 	Salvington is at energy-mass center of (32:2.4)
 	spheres share minimum commonness of space motion (41:0.3)
-	time | See time: days and years
+	time | time: days and years
 	work begun on Nebadon 400 billion years ago (57:3.8-9)
 Salvington is capital of (15:7.7)
 some Mighty Messengers and Those High in Authority recently from (22:2.4) (22:3.2)
@@ -324,31 +320,31 @@ soul-identity of Jesus may be released for leadership of finaliters in (188:3.8)
 suffered 3 rebellions by System Sovereigns
 	1st by Lutentia (119:2.1-2)
 	2nd in system 87 of constellation 61 (119:3.1,3)
-	3rd | See Lucifer rebellion
+	3rd | Lucifer rebellion
 	lost more Lanonandeks to rebellion than any local universe in Orvonton, except Henselon (35:9.8)
 supreme council of Salvington (188:3.12)
 System Sovereigns intrusted with unusual personal prerogatives (45:2.1)
 that which is pervaded by our Mother Spirit is Nebadon (41:0.1) (45:1.8) (116:5.13)
 
-Nebadon Corps of Completion | See Nebadon Corps of Perfection
+Nebadon Corps of Completion | | Nebadon Corps of Perfection | ORDER | 
 
-Nebadon Corps of Perfection
+Nebadon Corps of Perfection | | | ORDER | 
 attained by Spirit-fused ascenders (37:5.4)
 members gain authoritative wisdom about Nebadon (40:10.6)
 
-Nebadon Corps of the Finality
+Nebadon Corps of the Finality | | | ORDER | 
 soul-identity of Jesus may be released for leadership of (188:3.8)
 
-Nebadon Power Centers | See local universe centers
+Nebadon Power Centers | | local universe centers | ORDER | 
 
-Nebadon Revelatory Corps
+Nebadon Revelatory Corps | | | ORDER | 
 directed creation of Part II of Urantia Papers (56:10.22-23)
 
-Nebuchadnezzar
+Nebuchadnezzar | | | PERSON | 
 Babylonian king who overthrew Necho; destroyed Jerusalem, carried population into captivity (97:9.25-26)
 Jeremiah counseled surrendering Jerusalem to (97:6.4)
 
-nebulae (15:4) (57:1-4)
+nebulae | (15:4) (57:1-4) | | PLACE | 
 critical centrifugal breakup stage (57:3.5)
 each can produce 100 million suns (15:4.5)
 forms are barred, concentric contraction rings, spiral, star clouds (15:3) (15:4.4-9) (15:5.3-5)
@@ -358,39 +354,39 @@ origin in force-charge of space (absoluta) (57:1.1)
 power centers, physical controllers direct evolution of (41:1.1)
 superuniverse boundaries never divide (12:1.12)
 
-necessities (economic)
+necessities (economic) | | | | 
 early civilization forged upon anvils of (66:5.13)
 primitive society founded on reciprocity of (68:1.3)
 tie man up with reality (99:7.5)
 
-Necho
+Necho | | | PERSON | 
 Egyptian who wiped out King Josiah (97:9.24)
 overthrown by Nebuchadnezzar (97:9.25)
 
-necklaces | See ornamentation
+necklaces | | ornamentation | | 
 
-necromancy | See also magic
+necromancy | | magic | | 
 practitioners of the black art called necromancers (90:2.2)
 
-needle
+needle | | | | 
 camel through eye of (163:3.1)
 
-needs
+needs | | | | 
 Father knows our needs before we ask (3:3.2) (140:6.11)
 society top-heavy with overgrowth of supposed (68:2.5)
 
-negativism
+negativism | | | | 
 major error of modern religions (140:4.7)
 often trained into children (103:2.5-6)
 
-Negroids | See also races
+Negroids | | races | RACE | 
 mixed race of orange, green, and indigo (81:4.13)
 
-neighbor
+neighbor | | | | 
 love as self (131:2.11,13) (159:5.4,9) (170:3.6) (180:1.1)
 who is my neighbor? (103:5.2) (140:8.11) (164:1.2)
 
-neighboring planet (72) | See also continental nation
+neighboring planet | (72) | continental nation | PLACE | 
 continental nation (72:1-11)
 no missions of Paradise Sons so far (72:12.4)
 not far-distant from Urantia (72:0.1)
@@ -398,48 +394,48 @@ other nations (72:12)
 Planetary Prince and Material Son defaulted (72:0.3)
 Urantia far better prepared for planetary government (72:12.5)
 
-Nepal
+Nepal | | | PLACE | 
 Gautama born in (94:7.1)
 
-Nephilim
+Nephilim | | | RACE | 
 Old Testament reference to Nodites (77:2.3)
 
-Neptune, god (130:3.4)
+Neptune, god | (130:3.4) | | PERSON | 
 Roman god of the sea and earthquakes
 
-Neptune
+Neptune | | | PLACE | 
 temple in Alexandria (130:3.4)
 
-Nereids
+Nereids | | | | 
 evolving monotheists keep subordinate gods as (96:1.14)
 
-Nerites
+Nerites | | | RACE | 
 final Andite eruption from Caspian region (78:8.11)
 
-net cast into sea
+net cast into sea | | | | 
 parable of (151:4.6)
 
-nether Paradise | See Paradise
+nether Paradise | | Paradise | | 
 
-neutrons | See also atoms; matter
+neutrons | | atoms; matter | | 
 atomic stability depends on number of neutrons in nucleus (42:7.6)
 held together by reciprocating mesotron (42:8.3)
 
-new commandment | See commandments
+new commandment | | commandments | | 
 
-New Guinea
+New Guinea | | | PLACE | 
 group believes itself descended from parrot (74:8.5)
 
-New Jerusalem | See also Messiah
+New Jerusalem | | Messiah | | 
 belief Messiah would appear to establish (176:1.6)
 in vision of John the Revelator (52:7.11)
 
-New Red Sandstone (60:1.4)
+New Red Sandstone | (60:1.4) | | | 
 
-New Stone Age
+New Stone Age | | | | 
 3000 B.C. in Europe (80:9.13-14)
 
-New Testament (180:1) | See also sacred books
+New Testament | (180:1) | sacred books | | 
 Abner not mentioned (166:5.3)
 authors
 	believed Jesus would soon return (170:2.10) (196:2.5)
@@ -447,16 +443,16 @@ authors
 	held stringent ideas on divorce (140:8.14)
 changed history for 2000 years (121:8.11)
 gospels, books, and epistles named
-	Book of Acts | See Acts, Book of
-	Book of Revelations | See Revelations, Book of
-	Epistle of James | See James (brother of Jesus): Epistle of
-	Epistle to the Hebrews | See Hebrews, Book of
-	First Epistle of John | See John Zebedee: First Epistle
-	First Epistle of Peter | See Simon Peter: First Epistle
-	Gospel of John | See John Zebedee: Gospel of John
-	Gospel of Luke | See Luke: Gospel of Luke
-	Gospel of Mark | See John Mark: Gospel of Mark
-	Gospel of Matthew | See Matthew Levi: Gospel of Matthew
+	Book of Acts | Acts, Book of
+	Book of Revelations | Revelations, Book of
+	Epistle of James | James (brother of Jesus): Epistle of
+	Epistle to the Hebrews | Hebrews, Book of
+	First Epistle of John | John Zebedee: First Epistle
+	First Epistle of Peter | Simon Peter: First Epistle
+	Gospel of John | John Zebedee: Gospel of John
+	Gospel of Luke | Luke: Gospel of Luke
+	Gospel of Mark | John Mark: Gospel of Mark
+	Gospel of Matthew | Matthew Levi: Gospel of Matthew
 gospels affected by Paul’s theology (121:8.11)
 Jesus’ avoidance of written records delayed writing (121:0.1)
 mostly devoted to Paul’s religious convictions; only meagerly
@@ -464,26 +460,26 @@ Jesusonian (196:2.1)
 symbolism intended for backward ages (134:8.6)
 written in Greek; origin (121:8.2-11) (195:2.7)
 
-new things
+new things | | | | 
 looked upon with disfavor by ancients (88:5.4)
 Master’s love makes world new (180:1.5)
 should not be embraced merely because they are new (81:6.39) (147:7.3)
 
-New Zealand
+New Zealand | | | PLACE | 
 tribe received revelations from Gabriel allowing loose sex (92:2.5)
 
-Newfoundland (58:7.4)
+Newfoundland | (58:7.4) | | PLACE | 
 
-newlyweds
+newlyweds | | | | 
 origin of pranks played upon (83:4.7)
 
-Niagara Falls (59:3.9)
+Niagara Falls | (59:3.9) | | PLACE | 
 Great Lakes emptied through Niagara Falls 37,000 years ago (61:7.10)
 
-Nicaea
+Nicaea | | | PLACE | 
 Athanasius’ defense at council of (195:0.18)
 
-Nicodemus (188:3.3)
+Nicodemus | (188:3.3) | | PERSON | 
 after the crucifixion
 	boldly asked Pilate for Jesus’ body (142:6.9) (187:6.2) (188:0.3)
 	embalmed Jesus’ body with myrrh and aloes (188:1.4)
@@ -497,17 +493,17 @@ feared to be seen openly with Jesus (142:6.1)
 Jesus’ followers met at home of (164:2.1) (174:5.5) (175:4.3) (183:4.4) (186:3.3) (189:4.2)
 Jesus’ visit with (142:6)
 
-Nicopolis (130:0.3)
+Nicopolis | (130:0.3) | | PLACE | 
 founded by Augustus to commemorate Actium (133:2.5)
 
-night police
+night police | | | | 
 secret societies functioned as (70:7.15)
 
-Nile god
+Nile god | | | | 
 Isis and Osiris cult built around legend of (98:4.8)
 picture at Luxor (111:0.5)
 
-Nile valley | See also Egypt
+Nile valley | | Egypt | PLACE | 
 Abraham and Lot journeyed to (93:5.7)
 Adamites and Andites journeyed to (78:3.2) (78:5.5) (78:6.8) (79:1.3)
 Andites enjoyed sheltered position of (80:6)
@@ -518,36 +514,36 @@ Semites enslaved in (96:2.2)
 struggles of green and orange races in (64:6.13)
 western end of cradle of civilization (81:1.1)
 
-Nineveh
+Nineveh | | | PLACE | 
 love of God for (159:4.4)
 
-Nirvana | See also Buddhism
+Nirvana | | Buddhism | | 
 Amida Buddha teaching of ultimate existence (94:12.3)
 cf: religion not a technique for attaining static and blissful peace of mind (100:3.1)
 enlightenment and bliss, release from material world (94:8.16)
 
-nitrogen
+nitrogen | | | | 
 no free nitrogen in early atmosphere (57:7.6)
 
-Noah (Garden dweller)
+Noah (Garden dweller) | | | PERSON | 
 son of architect and builder of Garden of Eden (74:2.5)
 
-Noah (wine maker of Aram)
+Noah (wine maker of Aram) | | | PERSON | 
 advocated houses be made like boats (78:7.5)
 cf: Mithraic flood legend (98:5.3)
 Mount Ararat and story of the flood (77:4.12) (78:7.3-5)
 
-Nod (land of)
+Nod (land of) | | | PLACE | 
 Cain departed for N.; east of second Eden (76:2.9)
 Cain found wife in (74:8.8) (148:4.7)
 Elamite Nodite settlement (67:4.2) (77:4.5)
 
-Nod (Prince’s corporeal staff) | See also Caligastia one hundred
+Nod (Prince’s corporeal staff) | | Caligastia one hundred | PERSON | 
 and entire council lost in rebellion (67:4.1)
 chairman of council on industry and trade (66:5.11) (73:1.3)
 leader of Prince’s staff rebels (67:4.2)
 
-Nodites (77:2) | See also races
+Nodites | (77:2) | races | RACE | 
 8th race to appear (73:1.3) (77:2.8)
 60 rebel members of Prince’s staff and 44 Andonic counterparts constituted 104 ancestors of (77:2.4,8)
 Adam impregnated 1,682 Nodites in second garden to found the Andite race (76:4.8)
@@ -562,7 +558,7 @@ far superior to Andonites and Sangiks (77:2.4)
 Garden dwellers destroyed nearby Nodites settlement upon learning of Eve’s default; Nodites retaliated; bitter warfare (75:5.3,9)
 gave valuable cooperation to Edenites (75:2.5) (75:3.5) (77:4.1)
 in Mesopotamia (78:1.4)
-individuals named | See Annan; Bon; Cano; Dan; Laotta; Lut; Nod; Ratta; Serapatatia; Tut
+individuals named | Annan; Bon; Cano; Dan; Laotta; Lut; Nod; Ratta; Serapatatia; Tut
 later some joined Van (73:1.6)
 long-headed (81:4.2-3)
 occupied Garden of Eden after default (73:7.1)
@@ -581,25 +577,25 @@ split into 3 groups after Dalamatia destroyed (73:1.5)
 still an able people in times of Adam (77:4.1)
 took tree of life after default; did them no good (73:6.7) (75:3.5)
 
-Nog
+Nog | | | PERSON | 
 false god of light and fire (67:5.5)
 
-noise
+noise | | | | 
 ghosts supposed to be frightened by (87:6.11)
 
-nomadism
+nomadism | | | | 
 progressive decline of (68:5.12)
 
-nonbreathers | See mortals: planetary types
+nonbreathers | | mortals: planetary types | | 
 
-nonconformists
+nonconformists | | | | 
 civilization visits heavy penalties on dissenters and (81:5.3)
 
-nonexistence | See nonsurvivors
+nonexistence | | nonsurvivors | | 
 
-nonreligionists | See unbelievers
+nonreligionists | | unbelievers | | 
 
-nonresistance | See also fighting; self-defense
+nonresistance | | fighting; self-defense | | 
 accusation that enfeebled specimens would soon perish (143:1.2)
 Jesus
 	cf: approved use of force to protect majority (173:1.11)
@@ -618,7 +614,7 @@ of selfish reaction to universe (180:5.9)
 resist not injury to feelings of personal dignity (141:3.8)
 violet race retained Edenic traditions of peacefulness for many millenniums (78:3.1) (78:4.5)
 
-nonsurvivors | See also death: spiritual death; extinction; judgment; resurrection; roll call: of justice; salvation; survival
+nonsurvivors | | death: spiritual death; extinction; judgment; resurrection; roll call: of justice; salvation; survival | | 
 Adjusters conserve realities born of love and service (16:9.3) (47:3.4) (196:3.35)
 are moving counter to stream of universe events (117:4.11)
 become as if they had never been (47:2.7)
@@ -632,17 +628,17 @@ possibility of cosmic self-destruction unavoidable if personality is to be free 
 wholehearted identification with evil is nonexistence (54:3.2)
 withdrawing from God, man approaches nonreality – cessation of existence (117:4.14)
 
-nonviolence | See nonresistance
+nonviolence | | nonresistance | | 
 
-Norana
+Norana | | | PERSON | 
 Syrian woman with afflicted daughter (156:1)
 
-Nordan the Kenite
+Nordan the Kenite | | | PERSON | 
 Melchizedek’s brilliant disciple (93:3.4)
 
-Nordic race | See white race: divisions
+Nordic race | | white race: divisions | RACE | 
 
-Norlatiadek (43) | See also constellations; Edentia; Most Highs of Norlatiadek
+Norlatiadek | (43) | constellations; Edentia; Most Highs of Norlatiadek | PLACE | 
 10 Constellation Centers stationed in (41:1.4)
 administered by 12 Vorondadek Sons (35:6.5)
 being cleansed of sin and rebels (43:4.9)
@@ -655,10 +651,10 @@ our constellation (41:1.4)
 power centers situated at physical core (41:1.4)
 Satania elects 10 to Norlatiadek legislature (45:3.22) (45:7.4)
 
-north
+north | | | | 
 absolute direction established by axis of Paradise (11:2.3)
 
-North America | See also Canada; Mexico; United States of North America
+North America | | Canada; Mexico; United States of North America | PLACE | 
 24 great floods (60:4.1)
 discovered by white races ca. A.D. 1000 (79:5.7)
 extensive fertile open hunting area (81:6.4)
@@ -673,25 +669,25 @@ rose out of Pacific depths (57:8.21)
 slow westward drift (58:4.3)
 yellow race drove red race from Asia to (64:6.4,14) (64:7.4-5)
 
-North Pole (59:3.7)
+North Pole | (59:3.7) | | PLACE | 
 vast ice sheets began to form 100,000 years ago (61:7.11)
 
-North Sea
+North Sea | | | PLACE | 
 waters once warm (63:5.2)
 
-northern lights
+northern lights | | | | 
 Urantia upper air belts concerned with (46:1.6)
 
-Norway (61:5.8) | See also Scandinavians
+Norway | (61:5.8) | Scandinavians | PLACE | 
 
-nostalgia
+nostalgia | | | | 
 mortals experience nostalgia on Salvington (39:1.10)
 
-numbers | See also 3; 7; 10; 12
+numbers | | 3; 7; 10; 12 | | 
 13 evil; 3, 4, and 7 lucky (88:1.6)
 
-numerology
+numerology | | | | 
 founded science of mathematics (88:6.5)
 pure unfounded superstition (150:3.8)
 
-nutrition | See food
+nutrition | | food | | 

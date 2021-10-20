@@ -1,23 +1,16 @@
 ####################################################################################
 #
-#                    Q
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+#                     Q
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
-
-
 
 codornices | (61:2.12) | | | 
 
-Qualified Absolute | | See Deity Absolute | PERSON | 
+Qualified Absolute | | Deity Absolute | PERSON | 
 
 Qualified Vicegerents of the Ultimate | (30:1.106) (106:4.3) (117:7.4) | | ORDER | 
 Reflective Image Aids represent (15:10.21)
@@ -32,7 +25,7 @@ energy only released in (42:4.13-14) (42:5.6)
 quantum behavior | | | | 
 confusion attending wave mechanics (42:4.14) (42:5.6)
 
-quarantine | | See also Lucifer rebellion; rebellion (spiritual) | | 
+quarantine | | Lucifer rebellion; rebellion (spiritual) | | 
 ancients isolated afflicted individuals (90:3.4)
 interplanetary communication by liaison of self-acting Adjusters during quarantine (108:4.4)
 of Satania by Norlatiadek (43:5) (46:8)
@@ -70,9 +63,9 @@ Quebec | (59:3.2) | | PLACE |
 Queensland | | | PLACE | 
 first child killed and devoured in (89:5.4)
 
-questionings | | See doubt | | 
+questionings | | doubt | | 
 
-quickeners of morality | | See also seraphim | ORDER | 
+quickeners of morality | | seraphim | ORDER | 
 administrator seraphim; teach interactions of liberty and loyalty (39:4.10-14)
 
 quinine | | | | 

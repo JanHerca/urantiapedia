@@ -1,21 +1,16 @@
 ####################################################################################
 #
 #                     O
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
-
 
 robles | (60:3.19) | | | 
 
-juramentos | | Ver promesas | | 
+juramentos | | promesas | | 
 Adán y Eva bajo juramento a los Altísimos y Miguel (74:1.4) (74:2.6) (75:4.2)
 por los Hijos Creadores no asumir la soberanía total hasta después de 7
 donaciones (21:3.12) (21:4.5)
@@ -36,13 +31,13 @@ juramentos primitivos
 avena | | | | 
 tonta idea de sembrar silvestres (70:7.12)
 
-Abdías | | | | 
+Abdías | | | PERSON | 
 confirmó el evangelio de Isaías; sistema de sacrificios atacado sin miedo (97:5.4)
 
 Obán | | | PLACE | 
 sede de Onagar en el Mediterráneo (63:6.7)
 
-obligaciones | | Ver deber | | 
+obligaciones | | deber | | 
 
 observador | | | | 
 no puede ser algo observado (112:2.12)
@@ -50,11 +45,11 @@ no puede ser algo observado (112:2.12)
 observadores (universo) | | | | 
 Comisión de Soberanos de los Sistemas; representar sistemas locales (33:6.4)
 
-océanos | | Ver lagos | | 
+océanos | | lagos | | 
 se volvió demasiado salado (59:3.10)
 los fondos se volvieron cada vez más pesados ​​por la acumulación de meteoritos; se hundió (57:8.20-21)
 las corrientes cambiaron en el Pleistoceno; poco ha cambiado en los últimos 15 millones de años (61:3.9) (61:5.2)
-nombrada | Ver mar de Arabia; océano Ártico; océano Atlántico; bahía de Bengala; mares de China; golfo de México; corriente del golfo; océano Índico; océano Pacífico; golfo Pérsico
+nombrada | mar de Arabia; océano Ártico; océano Atlántico; bahía de Bengala; mares de China; golfo de México; corriente del golfo; océano Índico; océano Pacífico; golfo Pérsico
 ninguno en Jerusem o Edentia (43:1.1) (46:2.2)
 no todos los planetas habitados tienen (49:2.24)
 originalmente fresco; alcanzó la salinidad necesaria (57:8.3,25)
@@ -71,7 +66,7 @@ Rey de Basán que sufrió la incursión hebrea brutal y eficaz (69:8.3)
 
 Ohio | (61:7.9) | | PLACE | 
 
-río Ohio | (59:4.6) (61:7.2) | | PLACE |
+río Ohio | (59:4.6) (61:7.2) | | PLACE | 
 
 aceite (petróleo) | | | | 
 deposición (59:3.4) (60:3.9)
@@ -91,9 +86,9 @@ María derramó nardo sobre la cabeza y los pies de Jesús (172:1.5-8)
 Okhbán | | | PERSON | 
 gran profeta egipcio; asesinado (95:3.5)
 
-Antiguo Testamento | | Ver profetas; libros sagrados | | 
+Antiguo Testamento | | profetas; libros sagrados | | 
 atribuye la responsabilidad de todo a Dios (148:5.4) (156:5.4)
-libros nombrados | Ver Deuteronomio; Eclesiastés; Enoc; Éxodo (libro); Ezequiel; Esdras (profeta); Isaías (primero); Isaías (segundo); Jeremías; Job (libro); Proverbios (libro); Salmos; Zacarías (profeta)
+libros nombrados | Deuteronomio; Eclesiastés; Enoc; Éxodo (libro); Ezequiel; Esdras (profeta); Isaías (primero); Isaías (segundo); Jeremías; Job (libro); Proverbios (libro); Salmos; Zacarías (profeta)
 La emigración de Caín a la tierra de Nod (74:8.8)
 conversaciones entre Abraham y Dios (93:9.7)
 edición
@@ -148,23 +143,23 @@ las antiguas cosas habrán desaparecido (27:1.5) (100:7.18) (143:2.3)
 no deben ser despreciados simplemente porque son viejos (81:6.39) (147:7.3) (195:9.1)
 lo que era antiguo y supuestamente sagrado (92:2.2)
 
-Oligoceno | | Ver edades geológicas | | 
+Oligoceno | | edades geológicas | | 
 era de hace 35 a 25 millones de años (61:2)
 
 prensa de aceitunas | | | | 
 discusión de los apóstoles en (183:4)
 cerca de la entrada a Getsemaní (183:0.3,5)
 
-Olivete | | Ver monte de los Olivos | | 
+Olivete | | monte de los Olivos | | 
 
-Religión olímpica | | Ver Grecia:religión griega | | 
+Religión olímpica | | Grecia:religión griega | | 
 
 presagios | | | | 
 se cree que revela la voluntad de los espíritus; los cultistas de fantasmas consideraban todo lo fuera de lo común como un presagio (87:5.9-14)
 los curanderos confían mucho en (90:2.5)
 pura superstición infundada (150:3.8)
 
-Omniafines | | Ver ángeles | ORDER | 
+Omniafines | | ángeles | ORDER | 
 acompañó a Miguel en el donación de Melquisedek (119:1.3,5)
 en registros de personalidad (30:1.84) (30:2.86)
 pueden convertirse en Asesores Técnicos; Compañeros Paradisiacos (25:4.6) (25:8.1,8)
@@ -238,12 +233,12 @@ libertador espiritual del hombre rojo; vivió hace 65.000 años; trajo
 paz universal (45:4.5) (64:6.7-8)
 enseñó la regla unánime del consejo de los siete (70:5.4)
 
-mortales de un solo cerebro | | Ver mortales | | 
+mortales de un solo cerebro | | mortales | | 
 
 El Dios Único | | | | 
 libro de Akenatón (95:5.7)
 
-Un alto en autoridad | | Ver Los Elevados en Autoridad | | 
+Un alto en autoridad | | Los Elevados en Autoridad | | 
 
 cien consejos de sanción suprema | | | | 
 presidentes de, constituyen el gabinete de trabajo de Gabriel (33:8.4-5)
@@ -251,9 +246,9 @@ presidentes de, constituyen el gabinete de trabajo de Gabriel (33:8.4-5)
 Verdad Única | | | | 
 Singlangtón proclamó a Dios a la raza amarilla como (64:6.15) (79:6.10) (79:8.4)
 
-ÚNICA SIN CAUSA | | Ver YO SOY | PERSON | 
+ÚNICA SIN CAUSA | | YO SOY | PERSON | 
 
-Uno que no tiene Nombre ni Número | | Ver Los que no tienen Nombre ni Número | PERSON | 
+Uno que no tiene Nombre ni Número | | Los que no tienen Nombre ni Número | PERSON | 
 
 rezumar | | | | 
 ascenso del hombre desde (65:2.1)
@@ -261,17 +256,17 @@ ascenso del hombre desde (65:2.1)
 Ofel | | | PLACE | 
 en Jerusalén (162:4.4)
 
-opiáceo | | Ver intoxicación | | 
+opiáceo | | intoxicación | | 
 la religión de Jesús no es una opiáceo (194:3.3-4)
 
-opiniones | | Ver creencia | | 
+opiniones | | creencia | | 
 
-opio | | Ver intoxicación | | 
+opio | | intoxicación | | 
 utilizado por los sumerios como medicina (90:4.9)
 
 zarigüeyas | (61:1.9) | | | 
 
-oportunidades | | Ver desafíos; resolución de problemas; servicio | | 
+oportunidades | | desafíos; resolución de problemas; servicio | | 
 Dios arrojará a los buscadores a tierra seca de frescura (130:1.2)
 el gobierno debe hacer cumplir la igualdad de oportunidades (81:5.6)
 apresúrate hacia donde esperan grandes cosas por hacer (130:6.3)
@@ -301,9 +296,9 @@ se cree que revela la voluntad de los espíritus (87:5.9)
 Los griegos creían en (90:2.8)
 Pueblos latinos consultados oráculos en crisis (98:3.4)
 
-ley oral | | Ver judaísmo | | 
+ley oral | | judaísmo | | 
 
-raza naranja | (64:6.10-13) | Ver razas | RACE | 
+raza naranja | (64:6.10-13) | razas | RACE | 
 creía en la transmigración y la reencarnación (86:4.6)
 destruido
 	absorbido por la raza verde (64:6.11,13) (64:7.16)
@@ -329,13 +324,13 @@ se cree que interpreta los mensajes espirituales (87:5.9)
 detección de delitos por veneno, fuego y dolor (70:10.5-7)
 Jesús denunció la creencia en (150:3.12)
 
-orden | | Ver disciplina; armonía; liderazgo | | 
+orden | | disciplina; armonía; liderazgo | | 
 detectable en el Paraíso (27:4.2)
 el compañerismo debe mantener el orden temporal (159:1.3,6)
 reino es reino de (181:2.16)
 los grupos sociales pueden mantener la disciplina (178:1.2)
 
-Ordovícico | | Ver edades geológicas | | 
+Ordovícico | | edades geológicas | | 
 era de la vida marina, de 350 a 300 millones de años (59:2)
 
 organismos | | | | 
@@ -347,7 +342,7 @@ los antiguos creían que el alma residía en (111:0.3)
 orientación | | | | 
 sentido direccional fijado en los seres vivos (34:4.12-13)
 
-origen | | Ver creación | | 
+origen | | creación | | 
 todas las relaciones y la ética surgen de origen; pregunta primordial
 con respecto al avance (28:6.2)
 
@@ -356,7 +351,7 @@ causa, luego equilibra, movimientos de la metamorfosis de la realidad (115:3.12)
 hace posible la coexistencia del hombre actual y el hombre eterno (115:3.15)
 manifestación fuente del YO SOY (115:3.6,11)
 
-Hijo-Madre Original | | Ver Hijo Eterno | PERSON | 
+Hijo-Madre Original | | Hijo Eterno | PERSON | 
 
 doctrina del pecado original | | | | 
 contabilizado por muerte; agarre debilitado de la magia (88:4.7)
@@ -371,7 +366,7 @@ la hipótesis requerida de una época dorada (74:8.13)
 alma considerada como nacida bajo pérdida (89:0.1) (89:4.6)
 superstición de que el hombre es hijo del diablo (194:2.1)
 
-originalidad | | Ver iniciativa; uniformidad | | 
+originalidad | | iniciativa; uniformidad | | 
 la sociedad debe fomentar (70:2.18)
 luchar por originalidad mientras evita la excentricidad (149:4.4)
 
@@ -397,7 +392,7 @@ maestro de raza índiga (64:6.26)
 Orvonton (satélite del Paraíso) | | | PLACE | 
 Satélite del Paraíso para el séptimo superuniverso (17:1.5)
 
-Orvonton (superuniverso) | (15:3) | Ver superuniverso; Uversa | PLACE | 
+Orvonton (superuniverso) | (15:3) | superuniverso; Uversa | PLACE | 
 Séptima galaxia (15:3.4)
 ¿Andrómeda en una parte deshabitada de Orvonton? (15:4.7)
 compuesto de
@@ -435,9 +430,9 @@ nutrias | (61:3.13) | | |
 oudah | | | | 
 creencias de los pigmeos (91:0.5)
 
-espacio exterior | | Ver niveles de espacio | | 
+espacio exterior | | niveles de espacio | | 
 
-peregrinos exteriores | | Ver niveles de espacio | | 
+peregrinos exteriores | | niveles de espacio | | 
 pueden convertirse en futuros ciudadanos de Havona (19:6.7)
 se acercará a Havona a través de 7 superuniversos (40:10.8) (55:12.2) (56:7.9)
 
@@ -449,16 +444,16 @@ universal (12:6)
 sobreplanificación | | | | 
 a veces se derrota a sí mismo (160:4.11)
 
-superpoblación | | Ver población | | 
+superpoblación | | población | | 
 
-sobreprotección | | Ver crianza de los hijos | | 
+sobreprotección | | crianza de los hijos | | 
 Juan Marcos permitió tener una experiencia original; no estaba sobreprotegido (177:2.2-4)
 
-sobrerevelación | | Ver revelación:sobre revelación | | 
+sobrerevelación | | revelación:sobre revelación | | 
 
-alma suprema de la creación | | Ver El Supremo | PERSON | 
+alma suprema de la creación | | El Supremo | PERSON | 
 
-sobreespecialización | | Ver carreras; ganarse la vida; labor | | 
+sobreespecialización | | carreras; ganarse la vida; labor | | 
 peligro de la monotonía (81:6.36)
 Jesús deploró (149:4.3,6) (155:1.4)
 

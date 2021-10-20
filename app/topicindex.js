@@ -110,7 +110,7 @@ class TopicIndex {
 				let current = null;
 				let topicline = null;
 				lines.forEach((line, i) => {
-					let data, refs, seeAlso, level;
+					let data, texts, refs, seeAlso, level;
 					const tline = line.trim();
 					const err = this.getError('topic_err', baseName, i+1, tline);
 					if (line.startsWith('#')) {
@@ -120,16 +120,19 @@ class TopicIndex {
 					data = tline.split('|').map(i => i.trim());
 					
 					if (current && tline === '') {
+						//End line of an entry
 						if (category === 'ALL' || category === current.type) {
 							this.topics.push(current);
 						}
 						current = null;
 					} else if (current && tline.length > 0 && tline.startsWith('>')) {
+						//Line of entry with a link
 						if (!current.links) {
 							current.links = [];
 						}
 						current.links.push(tline.substring(1).trim());
 					} else if (current && tline.length > 0) {
+						//Line of entry without a link (any other line)
 						topicline = {
 							text: '',
 							level: level,
@@ -139,35 +142,36 @@ class TopicIndex {
 						if (data.length === 0) {
 							errors.push(err);
 						} else if (data.length === 1) {
-							data = tline.split(/\([^)]*\)/g)
+							texts = tline.split(/\([^)]*\)/g)
 								.filter(i => i.trim() != '')
 								.map(i => i.trim().replace(/^\.|\.$/g, '').trim());
 							refs = this.extractRefs(tline);
 							
-							if (data.length === 0) {
+							if (texts.length === 0) {
 								errors.push(err);
 							} else {
-								if (data[0].indexOf('Ver ') != -1) {
-									errors.push(err);
-								} else {
-									topicline.text = data[0];
-									topicline.seeAlso = [];
-									topicline.refs = refs;
-									current.lines.push(topicline);
-								}
+								topicline.text = texts[0];
+								topicline.seeAlso = [];
+								topicline.refs = refs;
+								current.lines.push(topicline);
 							}
 						} else if (data.length === 2) {
-							topicline.text = data[0];
-							if (data[1].startsWith('Ver ')) {
-								topicline.seeAlso = data[1].substring(4).split(';')
-									.map(s => s.trim());
-								topicline.refs = [];
+							texts = data[0].split(/\([^)]*\)/g)
+								.filter(i => i.trim() != '')
+								.map(i => i.trim().replace(/^\.|\.$/g, '').trim());
+							refs = this.extractRefs(data[0]);
+							if (texts.length === 0) {
+								errors.push(err);
 							} else {
-								topicline.seeAlso = [];
-								topicline.refs = this.extractRefs(data[1]);
+								topicline.text = texts[0];
+								topicline.seeAlso = data[1].split(';')
+									.filter(i => i.trim() != '')
+									.map(s => s.trim());
+								topicline.refs = refs;
+								current.lines.push(topicline);
 							}
 							current.lines.push(topicline);
-						} else if (data.length === 3) {
+						} /*else if (data.length === 3) {
 							if (!data[1].startsWith('Ver ')) {
 								errors.push(err);
 							} else {
@@ -177,10 +181,11 @@ class TopicIndex {
 								topicline.refs = this.extractRefs(data[2]);
 								current.lines.push(topicline);
 							}
-						} else {
+						}*/ else {
 							errors.push(err);
 						}
 					} else if (!current && tline.length > 0) {
+						//First line of an entry
 						if (data.length === 0) {
 							errors.push(err);
 						} else if (data.length === 5) {
@@ -188,9 +193,9 @@ class TopicIndex {
 								refs = data[1].split(/[()]/g).filter(i => i.trim() != '' &&
 									i.trim().length > 2);
 							}
-							if (data[2].startsWith('Ver ')) {
-								seeAlso = data[2].substring(4).split(';').map(s => s.trim());
-							}
+							seeAlso = data[2].split(';')
+								.filter(i => i.trim() != '')
+								.map(s => s.trim());
 							current = {
 								name: data[0].split(';')[0].trim(),
 								altnames: data[0].split(';').slice(1).map(a=>a.trim()),
@@ -199,9 +204,9 @@ class TopicIndex {
 								revised: (data[4] === '' ? 'NO' : 'SI'),
 								sorting: baseName + ':' + (i + 1).toString().padStart(5, '0'),
 								filename: baseName,
-								fileline: i + 1
+								fileline: i + 1,
+								seeAlso : seeAlso
 							};
-							current.seeAlso = (seeAlso ? seeAlso : []);
 							current.refs = (refs ? refs : []);
 							current.isRedirect = ((!lines[i + 1] || 
 								lines[i + 1].trim().length === 0) && 

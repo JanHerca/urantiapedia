@@ -1,14 +1,11 @@
 ####################################################################################
 #
-#                    T
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+#                     T
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
 Taanach | | | PERSON | 
@@ -19,7 +16,7 @@ acknowledgment to chief of Urantia Adjusters (108:3.5-6)
 agondonter of finaliter status (50:7.2)
 veteran finaliter; sovereign supervisor of Nebadon decimal planets (49:5.12) (73:0.3) (108:3.5)
 
-tabernacles, feast of | | See Judaism: feasts | | 
+tabernacles, feast of | | Judaism: feasts | | 
 
 taboos | (89:1) | | | 
 7 commandments of Dalamatia and Eden were (89:1.4)
@@ -57,10 +54,10 @@ become frogs by living loyally as tadpoles (100:1.4)
 frogs’ young first exist as little fishes (59:5.6)
 
 talents | | | | 
-money | See also pounds
+money | pounds
 	parable of t.; intended for all disciples (171:8.2) (176:3.4)
 	ungrateful steward owed 10,000 talents (159:1.4)
-skills | See also achievement
+skills | achievement
 	chiefly devote to powers of mind and spirit (136:6.10)
 	Jesus refused to prostitute talents for political prestige (136:8.8)
 	man’s gift makes room for him (133:5.2)
@@ -73,7 +70,7 @@ king of Geshur; King David married daughter of (97:9.10)
 Tamar | | | PERSON | 
 Mary mother of Jesus a descendant of (122:1.2)
 
-Taoism (92:6.7) | | See also Lao-tse | RELIGION | 
+Taoism (92:6.7) | | Lao-tse | RELIGION | 
 affected Buddhism (94:9.3)
 arose in direct consequence of Salem teaching (94:5.2-6)
 Buddhism absorbed disintegrating ritual of (94:11.1)
@@ -93,7 +90,7 @@ fish merchants of (192:1.9)
 on west bank of Sea of Galilee at Jordan outflow (139:8.2)
 Thomas resided at (139:8.2)
 
-tariffs | | See taxation | | 
+tariffs | | taxation | | 
 
 Tarim basin | | | PLACE | 
 eastern outpost of Andite culture; in Sankiang (79:1.2,8)
@@ -115,7 +112,7 @@ tattoo | | | |
 ancient badge of tribal membership (70:7.10)
 artistic evolution of earlier crude scarring (89:8.3)
 
-tax collectors | | See also publicans; taxation; taxpayers | | 
+tax collectors | | publicans; taxation; taxpayers | | 
 early rulers used secret clubs as (70:7.18)
 extort no more than assigned (135:6.8)
 Jesus sold harp and gave away Greek Scriptures to avoid seizure by (126:5.5-6) (127:4.10)
@@ -123,7 +120,7 @@ Matthew Levi was a (138:3.1,4) (181:2.14)
 Peter paid (157:1)
 Zaccheus was a (171:6.1)
 
-taxation | | See also government: principles of government; tax collectors; taxpayers | | 
+taxation | | government: principles of government; tax collectors; taxpayers | | 
 avoid enslavement of citizenry by state (70:12.15)
 citizenry must control (71:8.6)
 excessive taxation interferes with individual liberties (134:6.10)
@@ -145,13 +142,13 @@ must support state without handicapping industry (71:5.2)
 tithing was early form of taxation (70:7.18)
 tithing in light and life (55:3.2)
 
-taxpayers | | See also tax collectors; taxation | | 
+taxpayers | | tax collectors; taxation | | 
 improvident expect to be fed by (69:9.5)
 receive extra votes in continental nation (72:9.5)
 
-Teacher Sons | | See Trinity Teacher Sons | ORDER | 
+Teacher Sons | | Trinity Teacher Sons | ORDER | 
 
-teachers | | See also education | | 
+teachers | | education | | 
 ascenders teach those just behind (30:3.9) (30:4.23) (100:2.1)
 false teachers will arise and lead many astray (176:1.4)
 instruction for kingdom’s teachers (159:3)
@@ -163,15 +160,15 @@ teachers of rest | | | ORDER |
 counsel seraphim regarding energy intake (44:5.10)
 energy manipulators, celestial artisans (44:5.8)
 
-teaching counselors | | See also seraphim | | 
+teaching counselors | | seraphim | | 
 assisted by assistant teacher seraphim (39:2.7)
 many were morontia counselor transition seraphim (48:6.28)
 Michael’s 4th bestowal was as (39:1.15)
 supreme seraphim; secretaries to all teachers, even mortals (39:1.13-14)
 
-teamwork | | See co-operation | | 
+teamwork | | co-operation | | 
 
-tears | | See also Jesus: events in life: wept | | 
+tears | | Jesus: events in life: wept | | 
 brothel keeper anointed Jesus’ feet with (147:5.3)
 God shall wipe away (27:1.5)
 
@@ -192,7 +189,7 @@ residence in Jerusem circles
 seraphim may attain Paradise through service as (39:8.3)
 training (25:4.11)
 
-technicians | (48:6.29) | See also seraphim | ORDER | 
+technicians | (48:6.29) | seraphim | ORDER | 
 5th order transition minister seraphim (39:6.1)
 liaisons between survivors and Morontia Power Supervisors and Master Physical Controllers (48:6.29)
 space traversers; help morontia progressors adjust (48:6.29)
@@ -208,11 +205,11 @@ not a fire worshiper (141:6.1-3)
 telepathy | | | | 
 Adam could send thought oscillations 50 miles (74:6.6)
 
-telescopes | | See also astronomy | | 
+telescopes | | astronomy | | 
 show red shift (12:4.14)
 will reveal 375 million new galaxies (12:2.2-3)
 
-temperament | | See also emotions | | 
+temperament | | emotions | | 
 inherent temperament influences religious philosophy, religious experience (100:1.6) (101:7.1)
 man’s technique varies, but his disposition remains unchanged (69:5.13)
 
@@ -220,7 +217,7 @@ temperance | | | |
 fruit of the Spirit (34:6.13)
 proportionate adjustment of life problems (149:4.3)
 
-temperatures | | See also cold; heat | | 
+temperatures | | cold; heat | | 
 at center of earth (58:5.1)
 gravity prevents absolute zero (42:4.6)
 in atmosphere (58:2.6)
@@ -230,7 +227,7 @@ second only to gravity in energy and matter evolution (42:2.7)
 Temple of New Life | | | PLACE | 
 resurrection halls radiate from, on 1st mansion world (47:3.5)
 
-temples | | See also churches | | 
+temples | | churches | | 
 all worlds of mortal ascent have (44:3.5)
 celestial temples
 	in circle of Sons on Jerusem (46:5.19)
@@ -251,15 +248,15 @@ first fetish places because dead buried in (88:2.3)
 of living spiritual fellowship (157:4.5,7)
 open-air arenas of worship in light and life (55:5.5)
 take men into temple before showing them its beauties (141:6.4)
-temple guards | See Jerusalem temple guards
+temple guards | Jerusalem temple guards
 temple of God
 	human body (1:4.2) (34:6.7) (143:2.4)
 	Jesus would raise up in 3 days (173:5.4)
 temple of philosophy on continental nation (72:3.5)
-temple prostitution | See prostitution
-temple sleep | See hypnosis
+temple prostitution | prostitution
+temple sleep | hypnosis
 temples on Urantia
-	at Jerusalem | See Jerusalem temple
+	at Jerusalem | Jerusalem temple
 	Father’s temple in Dalamatia (66:3.4-5) (66:4.13)
 	grove of Daphne, shrine of shame (133:8.1)
 	morontia temple q.v.
@@ -270,7 +267,7 @@ temples on Urantia
 value of beauty leading up to worship (167:6.5-6)
 virgins dedicated themselves to tending fires in (89:8.1)
 
-temptation | | See also flesh; sex: urge; sin | | 
+temptation | | flesh; sex: urge; sin | | 
 cannot surmount temptation through mere human will (156:5.5)
 Jesus’ great temptations
 	offer to found school in Damascus (128:4.1-4)
@@ -278,7 +275,7 @@ Jesus’ great temptations
 of Eve (75:3)
 transform temptation by redirecting energies into higher channels (34:7.6) (156:5.4)
 
-ten | | See 10 | | 
+ten | | 10 | | 
 
 ten-cent piece | (173:1.3) | | | 
 
@@ -297,7 +294,7 @@ great error to teach boys it is unmanly to show (140:5.16)
 indiscriminate kindness causes many social evils (140:8.13)
 mature human looks upon all others with (160:1.6)
 
-tension | | See anxiety | | 
+tension | | anxiety | | 
 
 Tenskwatawa | | | PERSON | 
 predicted eclipse of sun in 1808 (90:2.9)
@@ -312,9 +309,9 @@ father of Abraham (93:5.3-5)
 terminal rest of time | | | | 
 before residential status on Paradise (26:7.4)
 
-terrestrial escape | (49:6) (55:2) | See also resurrection; roll call; survival | | 
+terrestrial escape | (49:6) (55:2) | resurrection; roll call; survival | | 
 
-tertiaphim (28:1) | | See also angels | ORDER | 
+tertiaphim (28:1) | | angels | ORDER | 
 1000 tertiaphim accompany each Creator Son to his local universe; retire with appearance of native angels (28:1.2-3)
 accompanied Michael on Lanonandek bestowal (119:2.4)
 children of Infinite Spirit (26:1.13) (28:1.1)
@@ -324,29 +321,29 @@ may become Technical Advisers (25:4.5)
 retire from local universe when native angels appear (28:1.3)
 serve as Most High Assistants (37:4.2)
 
-Tertiary Circuit Supervisors | | See also Universe Circuit Supervisors | ORDER | 
+Tertiary Circuit Supervisors | | Universe Circuit Supervisors | ORDER | 
 cannot annul material currents (24:1.12)
 employ many beings, including high spirit personalities of circuit control (24:1.12)
 order of Universe Circuit Supervisors; 1 functions on each local universe capital; of continuous creation (24:1.6,10-11)
 Satania quarantined by action of (53:7.3)
 
-testimonies | | See also judgment | | 
+testimonies | | judgment | | 
 by Divine Counselor (1:3.8) (1:7.9) (6:8.8)
 unbiased testimonies secured by reflective seconaphim (28:4.11)
 
-tests | | See also examinations | | 
+tests | | examinations | | 
 great test is to refuse to use power selfishly (136:8.6)
 Jesus’ measurement of religion and society (126:2.5)
 
 Thaddeus | (179:2.2) | | PERSON | 
 James Alpheus also called (139:9.5)
 
-Thailand | | See Siam | PLACE | 
+Thailand | | Siam | PLACE | 
 
 Thamna | (143:0.1) | | PLACE | 
 Jesus passed
 
-thanksgiving | | See worship | | 
+thanksgiving | | worship | | 
 
 Thapsacus | (130:0.3) | | PLACE | 
 Jesus passed
@@ -354,12 +351,12 @@ Jesus passed
 Thebes | | | PLACE | 
 Tutankhamen returned capital to (95:5.10)
 
-theft | | See also fraud; injustice | | 
+theft | | fraud; injustice | | 
 among primitives, theft only committed outside group (69:9.9)
 commandments against (66:7.13) (93:4.11) (94:8.11) (131:2.12) (163:2.4)
 great crime among primitives (82:4.3-4)
 
-theology | | See also philosophy; religion | | 
+theology | | philosophy; religion | | 
 definitions of God must change with each epoch (5:5.12)
 does not produce religion (103:1.4)
 effort to define God, justify claims of religion (90:5.7) (103:9.6)
@@ -378,14 +375,14 @@ theologians
 	Jesus held dishonest theologians in contempt (126:0.3)
 	Jesus’ life should restrain formation of creeds by (195:10.2)
 
-theories | | See also concepts; doctrines; ideas | | 
+theories | | concepts; doctrines; ideas | | 
 dead; powerless to transform human character (34:6.6)
 experience always has advantage over (102:6.7)
 may quarrel with faith; facts do not (195:7.1)
 one cannot confide in a postulate (102:7.3)
 post-mortem salvage of imprisoned truth (180:5.2)
 
-thieves | | See also thieves crucified with Jesus | | 
+thieves | | thieves crucified with Jesus | | 
 good Samaritan helped man robbed and beaten by (164:1.3)
 killed rich man with full barns (165:4.3)
 
@@ -398,7 +395,7 @@ dispatched by Roman soldiers (188:0.1)
 one had often heard Jesus speak (186:4.4-5)
 penitent one’s robbery was patriotic protest (187:4.5)
 
-thing, meaning, and value | | See science, philosophy, and religion | | 
+thing, meaning, and value | | science, philosophy, and religion | | 
 
 third day | | | | 
 after death, bestowal Sons reappear on (20:6.6)
@@ -408,7 +405,7 @@ Jesus would rise on (171:4.2,8) (186:3.4) (188:1.8) (188:2.1,2) (189:5.1) (190:1
 Jewish expression signifying “presently” (171:4.8)
 Jews believed soul would not linger past (167:4.3)
 
-Third Person of Deity | | See Infinite Spirit | PERSON | 
+Third Person of Deity | | Infinite Spirit | PERSON | 
 
 Third Source and Center | |See Infinite Spirit | PERSON | 
 
@@ -423,7 +420,7 @@ Jesus thirsted on cross (187:3.5)
 none in Divine Presence (34:6.8) (48:6.11)
 those believing in Jesus will not experience spiritual (153:2.7-9)
 
-Thomas Didymus | (139:8) (143:3.5) (144:1.7) (151:2.5) (164:0.1) | See also apostles of Jesus | PERSON | 
+Thomas Didymus | (139:8) (143:3.5) (144:1.7) (151:2.5) (164:0.1) | apostles of Jesus | PERSON | 
 after Pentecost (193:6.4)
 at Jesus’ appearances (191:5) (192:1-4) (193:0,3,5)
 attempted to dissuade Norana (156:1.4)
@@ -471,7 +468,7 @@ thorns | | | |
 crown of thorns placed on Jesus’ head (185:6.2,4)
 some seed fell among (151:1.2) (151:2.2)
 
-Those High in Authority | (22:3) | See also Trinitized Sons of Attainment | ORDER | 
+Those High in Authority | (22:3) | Trinitized Sons of Attainment | ORDER | 
 Adjuster-fused mortals with superior administrative ability (22:3.1)
 executives of Ancients of Days (15:10.3-12) (22:3.3)
 finaliters embraced by Trinity (15:10.12)
@@ -487,7 +484,7 @@ Solemnities of Trust accompany (28:6.15)
 tertiary seconaphim are assigned to (28:3.1) (28:6.1)
 Trinitized Sons of Attainment (15:10.12) (15:12.1) (22:3.1) (28:6.1)
 
-Those without Name and Number | (22:4) | See also Trinitized Sons of Attainment | ORDER | 
+Those without Name and Number | (22:4) | Trinitized Sons of Attainment | ORDER | 
 finaliters embraced by Trinity (15:10.12)
 have transcendent concept of Father’s eternal purpose (22:4.1)
 High Son Assistants serve as clerks for (22:10.1)
@@ -505,7 +502,7 @@ Trinitized Sons of Attainment (15:10.12) (22:4.1) (28:6.1)
 Thoth | | | PERSON | 
 healed Set’s eye with spittle (95:2.6)
 
-thought | | See also ideas; leadings; mortal mind | | 
+thought | | ideas; leadings; mortal mind | | 
 abrupt presentations of thought are usually subconscious emanations (110:4.3)
 as a man thinks, so is he (131:2.8) (131:5.2)
 celestial beings record thoughtin pictures and ideographs (44:4.6)
@@ -524,7 +521,7 @@ thought, not feelings, lead us Godward (101:1.3)
 thought of God higher than thought of man (103:4.3) (131:2.3)
 technique of Havona thought unlike ours (14:5.2)
 
-Thought Adjuster of Jesus | | See also Personalized Adjusters; Thought Adjusters | PERSON | 
+Thought Adjuster of Jesus | | Personalized Adjusters; Thought Adjusters | PERSON | 
 advice regarding resurrection of Jesus (189:0.1-3)
 arrival (123:2.1) (196:1.7)
 at healing at sundown (145:3.10-11)
@@ -547,7 +544,7 @@ spoke
 	in Gethsemane (174:5.10)
 	on Mount Hermon (136:5.3-4)
 
-Thought Adjusters | (107) (108) (109) (110) (111) (112) | See also ascending mortals; Divinington; fusion: Adjuster fusion; Personalized Adjusters; Thought Adjuster of Jesus | ORDER | 
+Thought Adjusters | (107) (108) (109) (110) (111) (112) | ascending mortals; Divinington; fusion: Adjuster fusion; Personalized Adjusters; Thought Adjuster of Jesus | ORDER | 
 administered directly from Divinington (108:3.1)
 arrival (108:1-2)
 	Adjuster has full data respecting candidate prior to volunteering (108:1.2-7)
@@ -571,7 +568,7 @@ communicate with Father by prepersonal circuits; spirit-gravity
 circuits (5:3.2) (15:9.6)
 divine presence most fully discovered in communion with (5:2.3-4)
 do not leave during transit sleeps between mansion worlds (47:4.4)
-fusion with (112:7) | See also fusion: Adjuster fusion
+fusion with (112:7) | fusion: Adjuster fusion
 great days in individual careers (110:6.22)
 historically
 	Adjuster of human being through whom Urantia Papers given (110:5.7)
@@ -804,9 +801,9 @@ types of Adjusters (107:1.3) (107:2)
 	#* Monitors on detached assignments or with Father (107:2.5)
 	# liberated Adjusters
 	#* eternally liberated from service of time (107:1.3) (107:2.1,6)
-	# fused Adjusters (109:3.1) | See also fusion
+	# fused Adjusters (109:3.1) | fusion
 	#* have become one with ascending creatures (107:2.7)
-	# Personalized Adjusters | See also Personalized Adjusters
+	# Personalized Adjusters | Personalized Adjusters
 	#* have served with incarnated Paradise Sons or otherwise achieved distinction (40:4) (107:2.8)
 types of Adjusters, other classifications
 	detached Adjusters
@@ -825,16 +822,16 @@ types of Adjusters, other classifications
 		reservists have self-acting Thought Adjusters (114:7.2)
 		subjects achieved 3rd psychic circle; made supreme decision; are reservists (109:2.3-5) (110:6.22)
 
-Thought Changers | | See also Thought Adjusters | ORDER | 
+Thought Changers | | Thought Adjusters | ORDER | 
 Adjusters called, until subjects are age 20 (107:0.7)
 
-Thought Controllers | | See also Thought Adjusters | ORDER | 
+Thought Controllers | | Thought Adjusters | ORDER | 
 Adjusters called, when subjects older than 40 (107:0.7)
 
 thought preservers | | | ORDER | 
 thought recorders, celestial artisans; also preserve thought of great Urantia minds (44:4.2-4)
 
-thought recorders | | See also celestial artisans | ORDER | 
+thought recorders | | celestial artisans | ORDER | 
 celestial artisans (44:4)
 types
 	# thought preservers q.v.
@@ -852,11 +849,11 @@ Thrace | | | PLACE |
 Jews encompassed Matthew’s death in (139:7.10)
 Thracians believed in immortality (92:6.1)
 
-three | | See 3 | | 
+three | | 3 | | 
 
-three-brained mortals | (49:5.13-18) | See also brains; mortals: planetary types | | 
+three-brained mortals | (49:5.13-18) | brains; mortals: planetary types | | 
 
-three concentric circles | | See concentric circles, three | | 
+three concentric circles | | concentric circles, three | | 
 
 threefold fluctuation | | | | 
 light from Deity abode (27:7.7)
@@ -914,18 +911,18 @@ slows down planets’ revolutions (57:6.2-3)
 tidal wave | | | | 
 swept over Dalamatia (67:5.4)
 
-tigers | | See also saber-toothed tigers | | 
+tigers | | saber-toothed tigers | | 
 if unarmed man met a hungry (70:9.1)
 
 Tiglath | (158:0.1) | | PERSON | 
 Jesus’ helper on Mount Hermon; Jesus gave donkey to (134:8.1,2,10)
 
-Tigris river | | See also Mesopotamia | PLACE | 
+Tigris river | | Mesopotamia | PLACE | 
 and Euphrates area was cradle of Occidental and Indian civilizations (78:1.3)
 second garden adjoined (76:0.1) (76:1.1-3) (76:3.8)
 Sumerians lived at mouth of (77:4.6) (78.8)
 
-time | (12:5) (118:1) | See also eternity; patience | | 
+time | (12:5) (118:1) | eternity; patience | | 
 absolute of timeis eternity (12:5.2)
 alone ripens fruit on tree (130:5.3)
 animals possess no self-consciousness of (130:7.5) (133:7.8)
@@ -1033,7 +1030,7 @@ carried gospel into Mesopotamia (146:1.4)
 tokens | | | | 
 civilized races cursed with belief in (87:5.14)
 
-tolerance | | See also brotherhood (attitude); intolerance; spiritual unity | | 
+tolerance | | brotherhood (attitude); intolerance; spiritual unity | | 
 derives from understanding, ripens into love (100:4.4)
 differences in status essential to development of (64:6.34)
 education increases respect for opinions of others (25:3.12)
@@ -1063,7 +1060,7 @@ show tolerance in living with stubborn associates (156:5.18)
 tom-toms | | | | 
 once universal (90:4.6)
 
-tombs | | See also Jesus: events in life | | 
+tombs | | Jesus: events in life | | 
 custom to bury man’s belongings with him (69:9.4)
 delight in building tombs for the prophets (166:1.5)
 of Hiram (156:4.1)
@@ -1080,32 +1077,32 @@ tomorrow | | | |
 in hands of the Father (130:5.3)
 sufficient for the day is the trouble thereof (140:6.13)
 
-tongue | | See also language | | 
+tongue | | language | | 
 few men can tame (146:2.13)
 great man subdues his (28:6.20)
 
-tools | | See also machines | | 
+tools | | machines | | 
 Andonites developed (63:1.2-3) (63:5.6)
 animals were living tools (81:2.10)
 determine survival of contending groups (81:6.20)
 invention of weapons enabled man to become hunter (68:5.4)
 old men and cripples set to work making (69:3.4)
 
-torture | | See also scourging; stonings | | 
+torture | | scourging; stonings | | 
 in ancient initiation ceremonies (70:7.10)
 olden ideas of self-discipline embraced (89:3.4)
 
-Total Deity | | See I AM | | 
+Total Deity | | I AM | | 
 
-totalitarianism | (195:8) | See also communism; government | | 
+totalitarianism | (195:8) | communism; government | | 
 
 totems | (88:3) | | | 
 animals of supposed ancestry (74:8.5)
 symbols of group and their god (88:3.2)
 
-tower of Babel | | See Babel | PLACE | 
+tower of Babel | | Babel | PLACE | 
 
-traditions | | See also ceremonies; cults; Judaism: oral law; mores | | 
+traditions | | ceremonies; cults; Judaism: oral law; mores | | 
 compelling force of (51:6.5)
 custom establishes institutions of survival (69:1.3)
 Jesus disregarded superstitious traditions (149:2.10)
@@ -1121,7 +1118,7 @@ ritual sanctifies custom; creates and perpetuates myths (90:5.2)
 safe refuge for fearful, halfhearted souls (155:5.11) (191:5.3)
 sentimentally link past with present (66:6.2)
 
-traitors | | See betrayal | | 
+traitors | | betrayal | | 
 
 tranosta | | | | 
 transcendental energy on upper Paradise (42:2.18)
@@ -1130,15 +1127,15 @@ transcendence | | | |
 divine domination of universe (5:5.6)
 of God (12:7.12)
 
-transcendental energy | | See tranosta | | 
+transcendental energy | | tranosta | | 
 
-transcendental level | | See reality: levels of reality: absonite reality | | 
+transcendental level | | reality: levels of reality: absonite reality | | 
 
 Transcendental Recorders | | | ORDER | 
 personal gravity traversers; not available to local universe administrators (23:3.2)
 without discoverable form (42:12.10)
 
-Transcendentalers | | See also reality: levels of reality: absonite reality | | 
+Transcendentalers | | reality: levels of reality: absonite reality | | 
 1000 groups of supercitizens of Paradise (31:8.1-4)
 also known as absoniters (0:1.12) (55:4.7,19)
 attached to Corps of Mortal Finaliters (31:8)
@@ -1158,23 +1155,23 @@ relationship with Solitary Messengers and Inspired Trinity Spirits (31:9.13)
 senior Architect of Master Universe is chief of (31:8.4) (31:9.1)
 subject to God the Ultimate (31:8.3)
 
-transcription, celestial | | See records | | 
+transcription, celestial | | records | | 
 
-transfiguration | | See Jesus: events in life | | 
+transfiguration | | Jesus: events in life | | 
 
-transformation | | See also spiritual growth; spiritual rebirth | | 
+transformation | | spiritual growth; spiritual rebirth | | 
 by Spirit of Truth (143:2.4)
 occurs in expectant faith-dominated persons (148:2.2)
 service is byproduct of spiritual transformation (178:1.11)
 
-transformers | | See energy transformers | ORDER | 
+transformers | | energy transformers | ORDER | 
 
-transit sleep | | See rest: transition rest; seraphic, secoraphic, and superaphic transport | | 
+transit sleep | | rest: transition rest; seraphic, secoraphic, and superaphic transport | | 
 
 transit trio | | | | 
 assist Havona pilgrims (26:9.2)
 
-transition | | See also change; progress; translation | | 
+transition | | change; progress; translation | | 
 always accompanied by confusion (99:4.9)
 difficulties of religious transition (99:4)
 fringe of conflict must be traversed (159:3.7) (160:1.6)
@@ -1182,7 +1179,7 @@ great danger of breakdown during (81:6.40-41)
 religion should stabilize ideals during dangerous times of (99:1.3-4) (99:2.6)
 unemployment arising from laborsaving machinery (81:6.22)
 
-transition ministers | (39:6) (48:6) | See also seraphim | ORDER | 
+transition ministers | (39:6) (48:6) | seraphim | ORDER | 
 1/2 on Urantia joined Lucifer rebellion (67:3.2)
 6th order seraphim (48:6.1)
 10% lost in Lucifer rebellion (53:7.7)
@@ -1198,13 +1195,13 @@ orders of assignment (39:6.1) (48:6.4-37)
 	# ministering reserves q.v.
 residence in Jerusem circles (46:5.22)
 
-transition rest | | See rest: transition rest | | 
+transition rest | | rest: transition rest | | 
 
-transition world #1 | | See finaliters’ world | PLACE | 
+transition world #1 | | finaliters’ world | PLACE | 
 
-transitional culture worlds | | See Jerusem | PLACE | 
+transitional culture worlds | | Jerusem | PLACE | 
 
-translation | (112:7.3) | See also fusion: Adjuster fusion; language; rest: transition rest | | 
+translation | (112:7.3) | fusion: Adjuster fusion; language; rest: transition rest | | 
 archangel supervises translation in morontia temple (55:2.7)
 defined as
 	Son seizure from among the living (49:6.18-21) (55:2.9)
@@ -1227,7 +1224,7 @@ spiritual flames instantly consume material body (55:1.5) (55:2.4-5) (110:7.2)
 translated mortals exempt from passing through education of
 mansion worlds, system, or constellation (55:2.8-9)
 
-translation sleep | | See also rest: transition rest | | 
+translation sleep | | rest: transition rest | | 
 morontia progressors enter translation sleep between mansion worlds (47:3.10)
 
 translators | | | ORDER | 
@@ -1243,21 +1240,21 @@ transport advisers | | | ORDER |
 70 serve on Urantia (44:5.6)
 energy manipulator celestial artisans; technical advisers to transport seraphim; traffic supervisors (44:5.6)
 
-transport seraphim | | See seraphic, secoraphic, and superaphic transport; seraphim | ORDER | 
+transport seraphim | | seraphic, secoraphic, and superaphic transport; seraphim | ORDER | 
 
-transport supernaphim | | See seraphic, secoraphic, and superaphic transport; supernaphim | ORDER | 
+transport supernaphim | | seraphic, secoraphic, and superaphic transport; supernaphim | ORDER | 
 
-transportation | | See also seraphic, secoraphic, and superaphic transport; travel | ORDER | 
+transportation | | seraphic, secoraphic, and superaphic transport; travel | ORDER | 
 all space traversers require assistance to overcome gravity when departing a sphere (29:4.1)
 improved transportation facilitated commerce (70:3.4)
 on Jerusem by birds, vehicles (46:2.4)
 spirit personalities proceed by liaison with spirit energy (46:2.4)
 translated mortals traverse space freely before being clothed with morontia forms (49:6.19) (55:2.7)
 
-transportation personalities | | See also seconaphim; seraphic, secoraphic, and superaphic transport | ORDER | 
+transportation personalities | | seconaphim; seraphic, secoraphic, and superaphic transport | ORDER | 
 seconaphim who carry pilgrims between superuniverses and Havona (28:4.13)
 
-travel | | See also transportation | | 
+travel | | transportation | | 
 ascenders may visit any realm experientially attained (48:3.10)
 dead never return to native planet in same dispensation (39:4.15) (112:3.7) (146:7.2) (150:3.5)
 desire for travel will be satisfied (30:3.12)
@@ -1269,7 +1266,7 @@ is where heart is (140:6.11) (165:4.5) (165:5.4)
 lay up treasure where purses wax not old (165:5.4)
 parable of treasure in field (151:4.4)
 
-treaties | | See also peace | | 
+treaties | | peace | | 
 blood drinking, offerings of maidens commemorated (70:3.11)
 first treaty concerned salt deposit (69:4.6)
 world peace cannot be maintained by (134:6.9)
@@ -1291,12 +1288,12 @@ stored up space-energies antidotal to aging (73:6.4)
 transferred to Garden of Eden (73:3.2)
 useless to ordinary mortals (66:4.14) (73:6.4,7)
 
-trees | | See also tree of life | | 
+trees | | tree of life | | 
 7 feet in diameter, 125 feet high in Carboniferous (59:5.22)
 Andon taught dispute settlement by beating (70:1.3)
 indwelt by kindly or deceptive, cruel spirits (85:2.4)
 known by their fruit (140:3.19) (140:8.22) (142:5.2) (153:4.4)
-named | See apple; beeches; birches; breadfruit trees; citron; conifers; ferns; fig tree; magnolias; maples; oaks; palms; pines; redwoods; sequoias; sycamores; tulip trees; walnuts
+named | apple; beeches; birches; breadfruit trees; citron; conifers; ferns; fig tree; magnolias; maples; oaks; palms; pines; redwoods; sequoias; sycamores; tulip trees; walnuts
 not bringing forth good fruit hewn down (135:6.7) (166:4.9)
 worship of (85:2.3-5)
 
@@ -1307,10 +1304,10 @@ triangles | | | PLACE |
 Edentia administrative areas (43:1.7-9)
 Jerusem administrative areas (46:4.5) (46:8)
 
-Triassic | | See also geologic ages | | 
+Triassic | | geologic ages | | 
 early reptilian age from 150 to 125 million years ago (60:1)
 
-triata | | See also energy | | 
+triata | | energy | | 
 energy-matter responding to linear gravity in Havona (11:8.7)
 triune existential energy of Havona (14:3.6) (42:2.16-17)
 
@@ -1319,16 +1316,16 @@ Cain bore no (76:2.8)
 cut on boy as part of puberty initiation (70:7.10)
 lone man helpless without a tribal mark (68:1.2)
 
-tribes (70:4) | | See also clans; races | RACE | 
+tribes (70:4) | | clans; races | RACE | 
 often subverted sovereignty of territorial state (134:5.8)
 war chiefs established father line (70:4.10)
 originally a loose confederation of clans (70:4.9)
-tribes and racial groups named | See aborigines (Australian); aborigines (Indian); Adamites; Adamsonites; Amadonites; Ammonites; Amorites; Andites; Andonites; Anglo-Saxons; Arabs; Aryans; Assyrians; Babylonians; Badonan tribes; Baganda tribes; Basques; Bedouins; Berbers; Blackfoot Indians; blue race; Borneans; Bretons; brown race; Bushmen; Calebites; Canaanites; Caucasians; Chaldeans; Cro-Magnons; Cuthites; Cutites; Danubians; Dravidians; Dyaks; Edenites; Edomites; Elamites; Eskimos; Ezraeon; Finns; Foxhall people; Gad; Gibeonites; Gileadites; Greeks; green race; Guites; Hamathites; Heidelberg race; Hittites; Incas; India: racial groups; indigo race; Iroquois; Jebusites; Jews; Kateri; Kenites; Levites; Malaysians; Melanesians; Mesopotamians; Midianites; Moabites; Mongoloids; Moqui tribe; Neanderthalers; Negroids; Nerites; Nodites; orange race; Parsees; Patagonians; Persians; Philistines; Phoenicians; Polynesia; Pygmies; red race; Romans; Ruben, tribe of; Saharans; Samaritans; Sangiks; Scandinavians; Semites; Sepharvites; Sethites; Siberia; Suites; Sumerians; Suntites; Thrace; Toda tribe; Turanians; Vanites; white races; yellow race; Zulus
+tribes and racial groups named | aborigines (Australian); aborigines (Indian); Adamites; Adamsonites; Amadonites; Ammonites; Amorites; Andites; Andonites; Anglo-Saxons; Arabs; Aryans; Assyrians; Babylonians; Badonan tribes; Baganda tribes; Basques; Bedouins; Berbers; Blackfoot Indians; blue race; Borneans; Bretons; brown race; Bushmen; Calebites; Canaanites; Caucasians; Chaldeans; Cro-Magnons; Cuthites; Cutites; Danubians; Dravidians; Dyaks; Edenites; Edomites; Elamites; Eskimos; Ezraeon; Finns; Foxhall people; Gad; Gibeonites; Gileadites; Greeks; green race; Guites; Hamathites; Heidelberg race; Hittites; Incas; India: racial groups; indigo race; Iroquois; Jebusites; Jews; Kateri; Kenites; Levites; Malaysians; Melanesians; Mesopotamians; Midianites; Moabites; Mongoloids; Moqui tribe; Neanderthalers; Negroids; Nerites; Nodites; orange race; Parsees; Patagonians; Persians; Philistines; Phoenicians; Polynesia; Pygmies; red race; Romans; Ruben, tribe of; Saharans; Samaritans; Sangiks; Scandinavians; Semites; Sepharvites; Sethites; Siberia; Suites; Sumerians; Suntites; Thrace; Toda tribe; Turanians; Vanites; white races; yellow race; Zulus
 
 tribute money | | | | 
 render to Caesar (174:2.2)
 
-trifles | | See trivialities | | 
+trifles | | trivialities | | 
 
 trilobites | (59:1) | | | 
 mud eaters; sexed animals; some had aborted eyes (59:1.19)
@@ -1337,16 +1334,16 @@ predecessors of crustaceans; nearly disappeared (59:2.10) (59:3.5,11) (59:5.8)
 Trimurti | | | PERSON | 
 supreme trinity of Hinduism (94:4.4-5)
 
-Trinities | (0:12) | See also Paradise Trinity; Trinity of Trinities | ORDER | 
+Trinities | (0:12) | Paradise Trinity; Trinity of Trinities | ORDER | 
 deity reality, never personality reality (106:5.3-4)
 experiential Trinities
-	1st | See Trinity Ultimate
-	2nd | See Trinity Absolute
+	1st | Trinity Ultimate
+	2nd | Trinity Absolute
 	culminate in personalization of Deity Absolute (56:9.5)
 	embrace contributions of creature personalities (106:3.3)
 facts of co-ordinate Deity manifestation (0:12.4)
 
-trinitization | (22:7) | See also creature-trinitized sons; Trinitized Sons of God | | 
+trinitization | (22:7) | creature-trinitized sons; Trinitized Sons of God | | 
 accomplishes what otherwise is nonattainable (0:12.8)
 by creatures
 	Adamic-finaliter pairs very successful at trinitization (31:5.3)
@@ -1373,7 +1370,7 @@ in Uversa personality register (30:2.59)
 serve on Spirit- and Son-fusion worlds (22:6.2)
 Trinitized Sons of Selection (22:6.1)
 
-Trinitized Custodians | (22:5) | See also trinitization | | ORDER | 
+Trinitized Custodians | (22:5) | trinitization | | ORDER | 
 assisted by several billion seconaphim (22:5.5)
 deal with groups, not individuals (22:5.6)
 finaliter seraphim and translated midway creatures embraced by Trinity (18:4.5) (22:5.1-2)
@@ -1391,7 +1388,7 @@ highest order of Stationary Sons of Trinity (13:1.2)
 in personality registers (30:1.8) (30:2.23)
 Supreme Trinity Personalities, 70 in number (18:1.1)
 
-Trinitized Sons of Attainment | | See also Trinitized Sons of God | ORDER | 
+Trinitized Sons of Attainment | | Trinitized Sons of God | ORDER | 
 assigned to superuniverse service (15:10.12) (22:1.10)
 comprised of (15:10.12) (22:1.10) (22:2-4)
 	Mighty Messengers q.v.
@@ -1407,11 +1404,11 @@ Trinity embrace endows Trinitized Sons of Attainment with everything finaliters 
 Trinity-embraced Adjuster-fused ascendant mortals removed from Corps of Finality (15:10.12) (22:1.10)
 trio of Trinitized Sons of Attainment presents viewpoint of mortal creatures (22:4.6)
 
-trinitized sons of destiny | | See also trinitization | ORDER | 
+trinitized sons of destiny | | trinitization | ORDER | 
 beings produced by finaliters and Paradise-Havoners (22:7.14)
 in Uversa personality register (30:2.64,138)
 
-Trinitized Sons of God | (22) | See also creature-trinitized sons; trinitization | ORDER | 
+Trinitized Sons of God | (22) | creature-trinitized sons; trinitization | ORDER | 
 advised Melchizedek receivers after rebellion (67:6.5)
 completion seraphim attached to (39:9.1)
 constantly increasing in numbers (22:1.13)
@@ -1438,7 +1435,7 @@ types
 		1. Paradise-Havona trinitized Sons (22:7.9-13) (23:4.3) (30:2.63)
 		2. ascender-trinitized sons (22:0.1-5) (22:7.12) (22:8)
 
-Trinitized Sons of Perfection | (22:1.12) | See also trinitization; Trinitized Sons of God  | ORDER | 
+Trinitized Sons of Perfection | (22:1.12) | trinitization; Trinitized Sons of God  | ORDER | 
 affectionate, loyal, humble, and supremely wise regarding concept each personifies (22:10.6-7)
 capacity for experience inhibited (22:9.7)
 comprised of (22:9-10)
@@ -1454,7 +1451,7 @@ retrinitization may act solely on idea trinitized (22:9.5)
 train under Seven Supreme Executives and Trinity Teacher Sons (22:9.7)
 Trinity-embraced creature-trinitized sons; serve Ancients of Days (22:1.12) (22:8.4)
 
-Trinitized Sons of Selection | | See also trinitization; Trinitized Sons of God | ORDER | 
+Trinitized Sons of Selection | | trinitization; Trinitized Sons of God | ORDER | 
 assigned to courts of Ancients of Days (22:1.11)
 comprised of (22:5-6)
 	Trinitized Ambassadors q.v.
@@ -1463,7 +1460,7 @@ in Paradise classification (30:1.26)
 selected from ascendant seraphim, midway creatures, Spiritfused and Son-fused mortals (22:1.11)
 Trinity embrace endows with everything finaliters will achieve as 7th stage spirits (40:10.12)
 
-Trinity | | See Paradise Trinity | PERSON | 
+Trinity | | Paradise Trinity | PERSON | 
 
 Trinity Absolute | (0:12.7-8) (106:5-6) (117:7.10) | | PERSON | 
 2nd experiential Trinity (0:12.7)
@@ -1479,7 +1476,7 @@ comprised of (18:6-7)
 	Faithfuls of Days q.v.
 	Unions of Days q.v.
 
-Trinity-embraced Sons | | See Trinitized Sons of God | ORDER | 
+Trinity-embraced Sons | | Trinitized Sons of God | ORDER | 
 
 Trinity guides | | | ORDER | 
 help pilgrims find Infinite Spirit; each pilgrim enjoys undivided attention of one Trinity guides (26:7.2)
@@ -1494,7 +1491,7 @@ Master Spirit #7 helps ascenders grasp (16:3.18) (26:6.3-4)
 Paradise Trinity working in finite domain (0:8.10) (10:5.4) (106:8.9) (115:5.2)
 Supreme Being reflects attitude of (10:7.3-4)
 
-Trinity of Trinities | (106:8-9) (117:7.11) | See also Paradise Trinity; Trinities; Trinity Infinite | PERSON | 
+Trinity of Trinities | (106:8-9) (117:7.11) | Paradise Trinity; Trinities; Trinity Infinite | PERSON | 
 completes cycle of reality; unlimited integration of reality (106:8.12)
 conceive of Universal Absolute as constituting impersonal presence of (56:9.5)
 experiential infinite attains identity with existential infinite in (106:8.1)
@@ -1592,14 +1589,14 @@ growth of Supremacy derives from (115:4.7) (115:6)
 infinity is transmitively associated in (115:2.1)
 non-Father triune relationships (104:5)
 Supreme is channel through which creative infinity of triodities flows (115:6) (117:3.2)
-triodities of actuality | See also Absolutes: of actuality
+triodities of actuality | Absolutes: of actuality
 	comprised of Eternal Son, Infinite Spirit, and Paradise (104:5.2) (115:3.14)
 	existents of cosmos center in (115:3.14)
-triodities of potentiality | See also Absolutes: the three
+triodities of potentiality | Absolutes: the three
 	comprised of Deity Absolute, Universal Absolute, Unqualified Absolute (0:11.4-14) (104:5.7) (115:3.8)
 	integrates all latent energy reality (104:5.11)
 
-triumph | | See victory | | 
+triumph | | victory | | 
 
 triune-origin beings | | | ORDER | 
 beings created by all 3 Paradise Deities (30:1.2)
@@ -1671,7 +1668,7 @@ Father exercises personal control over infinity through (104:3.18) (115:2.1)
 Father is primal, unifying member of each (104:4.1,46)
 not known to function on nether Paradise (11:5.4)
 
-trivialities | | See also distractions | | 
+trivialities | | distractions | | 
 avoid loss of time through (163:4.5)
 Jesus wasted little time on (134:9.7)
 spending so much time and thought on (110:3.4)
@@ -1688,7 +1685,7 @@ trumpets | | | |
 mistake to call modern man with blasts of olden (195:6.10)
 Pharisees blew trumpets before giving alms (147:5.2)
 
-trust | | See also duty; faith; responsibility | | 
+trust | | duty; faith; responsibility | | 
 brought about by planetary helper seraphim (39:5.7)
 cardinal precept of Melchizedek teachings (92:4.7)
 childlike trust secures entrance into kingdom (102:1.1)
@@ -1701,9 +1698,9 @@ Judas refused to exercise trust (193:3.2)
 placing premature responsibility courts disaster (28:6.15)
 trustworthiness is true measure of self-mastery, character (28:6.13)
 
-trust funds | | See inheritance | | 
+trust funds | | inheritance | | 
 
-truth | (132:3) | See also gospel; honesty; lying; Spirit of Truth; truth, beauty, and goodness | | 
+truth | (132:3) | gospel; honesty; lying; Spirit of Truth; truth, beauty, and goodness | | 
 always has advantage over error (102:6.7)
 ascension plan characterized by giving truth to others as soon as it
 is acquired (30:3.9)
@@ -1774,7 +1771,7 @@ others (25:4.12) (94:6.6)
 purifies (182:1.5)
 seekers for truth rewarded now (140:5.7)
 sincere pursuit of truth leads to God (131:1.6) (195:6.17)
-Spirit of Truth | See also Spirit of Truth
+Spirit of Truth | Spirit of Truth
 	is personification of truth (34:4.5)
 	unerringly responds to truth (2:7.6) (103:7.8) (142:5.2)
 	will lead us into all truth (34:7.1)
@@ -1799,7 +1796,7 @@ warnings
 	truth is not boundary line of self-righteous exclusiveness (155:3.3)
 	truth not lived up to becomes darkness (139:12.8) (180:3.2)
 
-truth, beauty, and goodness | (2:7) (56:10) | See also beauty; goodness; science, philosophy, and religion; truth | | 
+truth, beauty, and goodness | (2:7) (56:10) | beauty; goodness; science, philosophy, and religion; truth | | 
 combine into one divine ideal (56:10.15)
 disclosed as love, mercy, and ministry (56:10.19)
 full revelation of divinity (56:10.20)
@@ -1852,16 +1849,16 @@ yellow race drove Andonites into (79:6.1)
 
 turtles | (60:2.13) (60:3.14,20) (61:2.6) (65:2.10) | | | 
 
-Tut | | See also Caligastia one hundred | PERSON | 
+Tut | | Caligastia one hundred | PERSON | 
 and entire council lost in rebellion (67:4.1)
 led governors of advanced tribal relations (66:5.28-30)
 
 Tutankhamen | | | PERSON | 
 son-in-law of Ikhnaton; reverted to old worship (95:5.10)
 
-twelve | | See 12 | | 
+twelve | | 12 | | 
 
-twelvefold adjutants of the Havona circuits | | See adjutants of Havona circuits | ORDER | 
+twelvefold adjutants of the Havona circuits | | adjutants of Havona circuits | ORDER | 
 
 twentieth century | | | | 
 psychologically unsettled times of (99:4.6)
@@ -1880,7 +1877,7 @@ two-and-two | | | |
 70 evangelists sent out (160:2.7) (163:1.3) (181:2.12)
 apostles sent out (138:1.1) (193:3.2)
 
-two-brained mortals | (49:5.13-18) | See also brains; mortals: planetary types | | 
+two-brained mortals | (49:5.13-18) | brains; mortals: planetary types | | 
 
 two sons | | | | 
 parable of (173:3)

@@ -1,26 +1,19 @@
 ####################################################################################
 #
 #                     M
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-
-
-
-
-Macad (165:0.1)
+Macad | (165:0.1) | | PLACE | 
 Perea mission
 
-Maccabee, Judas | See Judas Maccabee
+Maccabee, Judas | | Judas Maccabee | PERSON | 
 
-Maccabees | See also Judas Maccabee
+Maccabees | | Judas Maccabee | | 
 ancestors of Mary mother of Jesus identified with (122:5.10)
 Asmonean palace of the Maccabees (125:1.5) (128:3.5) (185:4.1)
 Essenes originated during revolt of (137:7.8)
@@ -28,44 +21,44 @@ Fourth Book of Maccabees exemplifies Stoicism (121:6.3)
 Jews coined silver money during Asmonean dynasty (173:1.3)
 Samaritan temple destroyed in time of (143:4.2)
 
-Macedonia (194:4.13)
+Macedonia | (194:4.13) | | PLACE | 
 Andrew proclaimed gospel in (139:1.12)
 
-Machaerus, fortress of
+Machaerus, fortress of | | | PLACE | 
 Herod Antipas maintained residence at (135:12.1,4)
 John imprisoned at (135:12.1) (144:8.6) (144:9.1)
 
-machines | See also tools
+machines | | tools | | 
 effectiveness of machines determines survival of contending groups (81:6.20)
 inestimable benefits of (81:2.14)
 no self-conscious evaluation (195:6.11,13) (195:7.3,8-14)
 unemployment arising from laborsaving machines (81:6.22)
 
-Madagascar (78:5.5)
+Madagascar | (78:5.5) | | PLACE | 
 some tribes of Madagascar destroy children born on unlucky days (68:6.10)
 
-madman at Fair Havens
+madman at Fair Havens | | | | 
 Jesus restrained assault by (130:5.4)
 
-madness | See insanity
+madness | | insanity | | 
 
-Madon (134:7.5) (146:4.6)
+Madon | (134:7.5) (146:4.6) | | PLACE | 
 Jesus passed
 
-Magadan Park (156:6.4) (159:0.1) (159:6.1-2) (162:9.6)
+Magadan Park | (156:6.4) (159:0.1) (159:6.1-2) (162:9.6) | | PLACE | 
 discussions with Rodan at (160) (161)
 ordination of the 70 at (163:0.1)
 south of Bethsaida-Julias (155:0.1) (157:2.1)
 
-Magdala (129:1.2) (134:7.5) (138:9.3) (150:2) (155:4.1)
+Magdala | (129:1.2) (134:7.5) (138:9.3) (150:2) (155:4.1) | | PLACE | 
 Jesus’ uncle was fisherman near (123:6.1) (124:3.1)
 Joseph father of Jesus worked at (123:3.8)
 Jude lived with relative at (128:7.8) (137:3.1)
 
-Magellanic Cloud
+Magellanic Cloud | | | PLACE | 
 in Milky Way galaxy (15:4.8)
 
-magic (88:4-6) | See also superstition; witchcraft
+magic | (88:4-6) | superstition; witchcraft | | 
 art of coercing involuntary spirit aid; securing insight into future (88:4.1-3)
 attempt to manipulate God or reality without affecting the ego of manipulator (91:2.2) (91:8.2,7)
 belief much sickness caused by (90:3.7)
@@ -94,13 +87,13 @@ slow to give way to foresight, self-denial, and industry (69:2.7)
 supposed efficacy of images (88:5.3)
 white magic ceremonials practiced by priests or shamans (90:2.2)
 
-Magisterial Sons (20:2-4)
+Magisterial Sons | (20:2-4) | | ORDER | 
 are
 	Avonal Sons, Paradise Sons of God (20:1.3) (20:2) (20:3.1) (52:4.2)
 	dispensational adjudicators (20:2.5) (20:3.1) (55:10.5)
 	judges of survival in creations of time and space (7:6.5) (20:2.1) (20:3.2)
 	personalizations of Eternal Son and Infinite Spirit (7:6.5) (20:1.11) (20:2.1) (20:10.3)
-bestowal missions | See also Paradise Sons of God: bestowals
+bestowal missions | Paradise Sons of God: bestowals
 	accompanied on bestowals by
 		2 Brilliant Evening Stars (20:2.9) (37:2.8)
 		12 Melchizedeks (20:2.9) (35:2.6)
@@ -142,20 +135,20 @@ service of Magisterial Sons
 	serve under Creator Sons in local universes (20:1.12) (20:2.2)
 Spirit of Truth is spirit of Creator Son and spirit of bestowal Son (20:6.8-9)
 
-magnetism (42:5.8)
+magnetism | (42:5.8) | | | 
 earth’s magnetic poles (57:8.18)
 same thing as light, heat, electricity, chemism, energy, and
 matter (42:4.1-2)
 sunspots function as enormous magnets (58:2.8-9)
 
-magnolias (60:3.7) (61:3.1)
+magnolias | (60:3.7) (61:3.1) | | | 
 
-maimed, the
+maimed, the | | | | 
 sometimes invite to banquets (167:1.5)
 
-Maine (59:3.2) (61:5.8)
+Maine | (59:3.2) (61:5.8) | | PLACE | 
 
-Majeston (30:1.109) | See also Reflective Spirits
+Majeston | (30:1.109) | Reflective Spirits | PERSON | 
 50th Reflective Spirit (17:2.1-2)
 actualized by Deity Absolute in response to Supreme Being (0:7.9) (17:2.1-5) (106:8.20)
 created by Trinity and Seven Master Spirits (17:2.1)
@@ -169,7 +162,7 @@ Reflectivator Liaisons (30:1.110)
 Reflective Image Aids represent (15:10.21)
 synthetic co-ordinator of all creature-Creator activities (0:7.9)
 
-major sectors | See also Splandon
+major sectors | | Splandon | PLACE | 
 10 in each superuniverse (15:13.1)
 70 study worlds rotate around (15:13.3)
 100 billion inhabitable worlds in each (15:2.23) (15:13.1)
@@ -188,89 +181,89 @@ star students work on capitals (30:3.5)
 work of conciliating commissions for (25:3.12)
 work relates chiefly to intellectual status (15:13.2-3) (18:4.8)
 
-Malach
+Malach | | | PERSON | 
 Syrian from Beirut (156:3.1)
 
-Malachi
+Malachi | | | PERSON | 
 prophecy regarding Elijah impressed John the Baptist (135:4.4)
 unsilenced spiritual leader (97:10.3)
 
-maladjustment | See misadaptation
+maladjustment | | misadaptation | | 
 
-malaria
+malaria | | | | 
 Amatha healed of (145:2.16)
 
-Malaysia
+Malaysia | | | PLACE | 
 Mongoloid type with secondary Sangik in (81:4.12)
 tribe believes itself descended from lemur (74:8.5)
 
-Malchus
+Malchus | | | PERSON | 
 Syrian bodyguard of high priest (183:3.7)
 
-Malta (130:0.2)
+Malta | (130:0.2) | | PLACE | 
 Jesus’ stop at (130:8.1)
 Thomas put to death on (139:8.13)
 
-Maltese cross
+Maltese cross | | | | 
 vertical cross section of space resembles (11:7.3-5)
 
-Malvorian
+Malvorian | | | PERSON | 
 first Graduate Guide; with Grandfanda; chief of his order (24:6.4-6)
 
-mammals (61) (59:0.6) See also animals
+mammals | (61) (59:0.6) | animals | | 
 first appearance failed (60:1.11)
 immense survival advantages (61:1.3)
 small, egg-laying reptilian mammal flourished 45 million years ago (61:1.9)
 sprang from agile little dinosaur (61:1.2) (61:2.2) (65:2.12)
 
-mammon
+mammon | | | | 
 cannot serve God and (140:6.13) (169:2.1,7)
 servility to materialistic mammon (163:2.10)
 
-mammoths (61:5.7) (61:7.13-14)
+mammoths | (61:5.7) (61:7.13-14) | | | 
 
-Mamre
+Mamre | | | PLACE | 
 celestial beings appeared to Abraham at (93:6.7)
 
-man | See mortals
+man | |  mortals | | 
 
-man of sorrows
+man of sorrows | | | | 
 do not portray Jesus as (159:3.10)
 
-man who attacked wife at Tarentum (133:2.1-2)
+man who attacked wife at Tarentum | (133:2.1-2) | | | 
 
-Manasseh
+Manasseh | | | PERSON | 
 boy king under whom Judah was undone (97:9.23)
 
-mandates | See commandments; law
+mandates | | commandments; law | | 
 
-mandrakes
+mandrakes | | | | 
 Jesus denounced belief in (150:3.12)
 
-manger
+manger | | | | 
 Jesus’ birth in caravan stables (122:7.7)
 
-Mangus
+Mangus | | | PERSON | 
 centurion commanding Capernaum garrison; built synagogue (129:1.7) (147:1.1)
 Jesus healed servant of (147:1)
 
-manitou superstitions (91:0.5)
+manitou superstitions | (91:0.5) | | | 
 
-manna
+manna | | | | 
 bread of earth, not heaven (153:2.8-12)
 Moses reputed to have fed Israelites with (136:6.6)
 practices of Melanesians, Baganda tribes (91:0.5)
 primitive belief in natural wonders and mysteries (103:3.2,5)
 
-Manotia
+Manotia | | | PERSON | 
 associate chief of seraphim on Urantia (39:0.9) (53:6.5-6)
 seraphic hero of Lucifer rebellion (53:6) (53:7.6)
 
-Mansant
+Mansant | | | PERSON | 
 great teacher of post-Planetary Prince days (45:4.4) (64:6.29)
 one of 24 counselors (45:4.4)
 
-mansion world students | See also ascending mortals; mansion worlds; morontia progressors
+mansion world students | | ascending mortals; mansion worlds; morontia progressors | ORDER | 
 1 Morontia Companion to 1000 survivors, initially (47:3.12)
 able to see lower spirit associates (9:8.13)
 acquire newly adjusted morontia body for each world (47:4.4)
@@ -310,7 +303,7 @@ become conscious of Adjuster (38:2.2,6) (113:7.1)
 very few children under 16 found on mansion worlds (47:2.5)
 will know and be known by mortal associates (112:5.22)
 
-Mansion World Teachers (37:7) (48:5)
+Mansion World Teachers | (37:7) (48:5) | | ORDER | 
 billions in Satania (48:5.3)
 commissioned by Melchizedeks; supervised by Morontia Companions (37:7.1) (47:2.2) (48:5.4)
 deserted cherubim and sanobim embraced by Mother Spirit (37:7.1) (38:8.5) (47:5.1) (48:5.1-2)
@@ -324,7 +317,7 @@ train children in probationary nursery (47:2.1-2)
 usually work in pairs (48:5.5)
 very near morontia level of existence (48:5.5)
 
-mansion worlds (47) | See also architectural spheres; Jerusem; mansion world students; morontia
+mansion worlds | (47) | architectural spheres; Jerusem; mansion world students; morontia | PLACE | 
 7 satellites of local system transition world #1, the finaliters’ sphere (30:4.16) (45:0.2) (45:1.2) (47:0.1) (48:1.2)
 1st mansion world (47:3)
 	10 days initial liberty on (47:3.6)
@@ -334,7 +327,7 @@ mansion worlds (47) | See also architectural spheres; Jerusem; mansion world stu
 	Gabriel sealed Michael Memorial on (188:3.11) (189:1.9)
 	heaven as conceived by most prophets (48:6.23)
 	Morontia Companions will welcome us to (48:3.3,8)
-	resurrection occurs on (47:3.2) (49:6.7) | See also resurrection; resurrection halls
+	resurrection occurs on (47:3.2) (49:6.7) | resurrection; resurrection halls
 	similar to progressive evolutionary spheres (47:3.1)
 	study of morontia mota begins (47:4.8)
 2nd mansion world (47:4)
@@ -380,61 +373,61 @@ resurrection halls q.v.
 transition minister seraphim serve on (39:6)
 translated souls from settled spheres do not pass through (55:2.8-10) (55:6.8)
 
-mansions
+mansions | | | PLACE | 
 in Father’s house are many (47:0.1) (133:4.9) (178:3.4) (180:3.4) (180:6.3) (181:1.2)
 
-mansonia worlds | See mansion worlds
+mansonia worlds | | mansion worlds | PLACE | 
 
-Mansurotia
+Mansurotia | | | PERSON | 
 first assistant System Sovereign; tertiary Lanonandek #17,841 (45:3.3)
 
-manufacturing | See industry
+manufacturing | | industry | | 
 
-maples (60:3.19)
+maples | (60:3.19) | | | 
 
-marble
+marble | | | | 
 Carrara (60:1.4)
 limestone changed into (59:1.16) (59:3.1)
 
-Marcus
+Marcus | | | PERSON | 
 orator; successor to Peter in Rome (132:4.7)
 
-Marduk
+Marduk | | | PERSON | 
 one of chief Mesopotamian deities (95:1.4)
 perpetuation of Adam legend in Babylon (92:5.6)
 
-Mardus
+Mardus | | | PERSON | 
 leader of Cynics of Rome (132:2.1)
 
-marine life (59) | See also animals; oceans
+marine life | (59) | animals; oceans | | 
 arose after oceans attained requisite saltiness (58:6.5)
 commingling Atlantic and Pacific marked beginning of rapid decline (59:5.3)
 cooling of oceans 170 million years ago destroyed most (59:6.9)
 early era was trilobite age (59:1)
 Paleozoic was era of (59:0.4)
-types named | See ammonites; amphibians; anthropods; barnacles; brachiopods; clams; coral; crabs; crinoids; crustaceans; cuttlefish; dolphins; echinoderms; fish; foraminifers; gastropods; jellyfish; lobsters; mollusks; octopuses; oysters; pearly nautilus; periwinkles; porpoises; Protozoa; scallops; sea cucumbers; sea lions; sea serpents; sea squirts; sea urchins; sea worms; seals; sharks; shrimps; sponges; squid; starfish; sturgeon; trilobites; turtles; watersnake; whales
+types named | ammonites; amphibians; anthropods; barnacles; brachiopods; clams; coral; crabs; crinoids; crustaceans; cuttlefish; dolphins; echinoderms; fish; foraminifers; gastropods; jellyfish; lobsters; mollusks; octopuses; oysters; pearly nautilus; periwinkles; porpoises; Protozoa; scallops; sea cucumbers; sea lions; sea serpents; sea squirts; sea urchins; sea worms; seals; sharks; shrimps; sponges; squid; starfish; sturgeon; trilobites; turtles; watersnake; whales
 
-marital guilt test
+marital guilt test | | | | 
 from Old Testament (70:10.6)
 
-Mark, Elijah | See Elijah Mark
+Mark, Elijah | | Elijah Mark | PERSON | 
 
-Mark, Gospel of | See John Mark: Gospel of Mark
+Mark, Gospel of | | John Mark: Gospel of Mark | | 
 
-Mark, John | See John Mark
+Mark, John | | John Mark | PERSON | 
 
-Mark, Mary | See Mary Mark
+Mark, Mary | | Mary Mark | PERSON | 
 
-mark of the beast
+mark of the beast | | | | 
 unfortunate heredity, bad environment (47:9.1) (47:10.2)
 
-market places
+market places | | | | 
 children playing in (144:8.7)
 fetishes stood guard over early (69:4.3)
 first cities of refuge (69:4.4)
 Pharisees craved flattering salutations in (166:1.4)
 
-marriage (82) (83) (84) | See also brides; child-rearing; children; divorce; dowries; family; home; matchmakers; romance; sex: urge; sexes, the; weddings
+marriage | (82) (83) (84) | brides; child-rearing; children; divorce; dowries; family; home; matchmakers; romance; sex: urge; sexes, the; weddings | | 
 always linked with property and religion (82:4.1-2) (82:5.3) (83:0.2) (83:1.1-3)
 among primitives
 	always planned by parents (83:2.1)
@@ -513,35 +506,35 @@ value of marriage
 	worth any sacrifice requisite for its possession (160:2.6)
 woman is the interested party in promoting marriage (84:7.2)
 
-marriage feast
+marriage feast | | | | 
 parable of (173:5)
 sit not in chief seat at (167:1.5) ((179:1.3-5))
 
-Mars (god)
+Mars (god) | | | PERSON | 
 Roman god of war (98:3.1)
 
-Mars (planet) | See also Monmatia
+Mars (planet) | | Monmatia | PLACE | 
 mortals living on Mars would be subbreathers (49:2.13)
 suitable for life? (15:6.15)
 
-martens (61:3.13)
+martens | (61:3.13) | | | 
 
-Martha (sister of Andrew and Peter) (139:2.1)
+Martha (sister of Andrew and Peter) | (139:2.1) | | PERSON | 
 at Jesus’ 16th appearance (193:0)
 converted Mary Magdalene (150:2.2)
 member of women’s corps (150:1.1)
 
-Martha (sister of Jesus) (126:4.9) | See also Jesus: family
+Martha (sister of Jesus) | (126:4.9) | Jesus: family | PERSON | 
 born September 13, A.D. 3 (124:1.7)
 expert weaver (128:3.1)
 Jesus’ relation with (124:4.3)
 slow in thought and action but dependable, efficient (127:4.8)
 wedding (129:1.6)
 
-Martha (sister of Jesus’ mother)
+Martha (sister of Jesus’ mother) | | | PERSON | 
 tarried by Jesus’ tomb (188:1.7)
 
-Martha (sister of Lazarus) (127:3.5) (141:9.2) (164:3.1) (186:0.1)
+Martha (sister of Lazarus) | (127:3.5) (141:9.2) (164:3.1) (186:0.1) | | PERSON | 
 at Jesus’ 4th appearance (190:2.6)
 at resurrection of Lazarus (168)
 disposed of possessions, joined Lazarus at Philadelphia (168:5.3) (190:1.9)
@@ -553,10 +546,10 @@ Martha loved Jesus like a brother (125:2.7)
 one year older than Jesus (127:6.5)
 wealthy; inherited extensive vineyards and olive orchards (168:0.4) (172:1.7)
 
-Martha (wife of Justus)
+Martha (wife of Justus) | | | PERSON | 
 visit of 2 courtesans (133:3.8-10)
 
-martyrs | See also stonings
+martyrs | | stonings | | 
 high devotion required for martyrdom (143:1.6-7)
 individuals martyred
 	Andrew crucified at Patrae (139:1.12)
@@ -579,7 +572,7 @@ Jesus did not seek to become a martyrs (156:2.5)
 prophets killed in Jerusalem (175:1.4,22-23)
 reveal gospel even in manner of death (181:2.15)
 
-Mary Magdalene
+Mary Magdalene | | | PERSON | 
 at Jesus’ appearances (189:4.10-12) (189:5.4) (190:2.6) (190:3.2) (193:0)
 chief spokesman for women’s corps; most effective teacher (150:1.1) (150:2.3) (190:0.5)
 discovered empty tomb (188:1.7) (189:4.2-14) (190:2.2)
@@ -587,13 +580,13 @@ wept when apostles refused to believe Jesus risen (189:5.3-5)
 witnessed Jesus’ crucifixion (187:3.2) (187:5.4)
 won for kingdom in nefarious resort by Martha sister of Andrew (150:2.2)
 
-Mary Mark
+Mary Mark | | | PERSON | 
 mother of John Mark; wife of Elijah (182:0.1)
 
-Mary (mother of Alpheus twins) (189:4.4)
+Mary (mother of Alpheus twins) | (189:4.4) | | PERSON | 
 at Jesus’ 5th appearance (190:3.1)
 
-Mary (mother of Jesus) (122:1) (137:6.1) (145:0.1) (154:5.1) (188:3.3) (192:0.3) | See also Jesus: family
+Mary (mother of Jesus) | (122:1) (137:6.1) (145:0.1) (154:5.1) (188:3.3) (192:0.3) | Jesus: family | PERSON | 
 attitudes
 	ambitious mother (137:4.8)
 	avoided Jesus (145:0.1)
@@ -644,7 +637,7 @@ present at
 returned to Bethsaida, lived with Salome Zebedee (190:1.10) (193:6.1)
 Sanhedrin met with M.; collapse in Zebedee’s garden (154:6)
 
-Mary (sister of Lazarus) (127:3.5)
+Mary (sister of Lazarus) | (127:3.5) | | PERSON | 
 2 years younger than Jesus (127:6.5)
 at Jesus’ 4th appearance (190:2.6)
 at resurrection of Lazarus (168)
@@ -658,28 +651,28 @@ Mary loved Jesus like a brother (125:2.7)
 poured ointment on Jesus’ head and feet; Judas resented waste (139:12.10) (172:1.5-8)
 wealthy; inherited extensive vineyards and olive orchards (168:0.4) (172:1.7)
 
-Mary (wife of Clopas)
+Mary (wife of Clopas) | | | PERSON | 
 sister of Jesus’ mother Mary (187:3.2)
 tarried by Jesus’ tomb (188:1.7)
 witnessed Jesus’ crucifixion (187:3.2)
 
-Mary (wife of Ezra) (127:5.3)
+Mary (wife of Ezra) | (127:5.3) | | PERSON | 
 Mother of Rebeca of Nazareth
 
-masks
+masks | | | | 
 revenge is mask of cowardice (145:3.4)
 secret society members wore masks to frighten away the curious (70:7.15)
 
-massage
+massage | | | | 
 rubbed evil spirits out of body (90:4.5)
 
-Master | See also Jesus
+Master | | Jesus | | 
 red-blooded Galilean fishermen called Jesus Master (100:7.17) (141:3.5) (149:2.12)
 Zebedee’s workers first called Jesus Master (129:1.11)
 
-Master Architects | See Architects of the Master Universe
+Master Architects | | Architects of the Master Universe | | 
 
-Master Force Organizers (29:5) | See also Universe Power Directors
+Master Force Organizers | (29:5) | Universe Power Directors | ORDER | 
 can affect motions of astronomic systems (15:3.15)
 can function in outer space (29:5.7)
 control universe making (15:8.10)
@@ -710,11 +703,11 @@ transcendental beings (30:1.97-98) (105:7.8)
 		transmute puissant energy to gravity-energy (29:5.5) (42:2.12)
 withstand unbelievable temperatures and conditions (29:5.7)
 
-master frandalanks | See frandalanks
+master frandalanks | | frandalanks | ORDER | 
 
-Master Mathematician (195:6.8)
+Master Mathematician | (195:6.8) | | | 
 
-Master Michaels | See also Creator Sons; Paradise Sons of God
+Master Michaels | | Creator Sons; Paradise Sons of God | ORDER | 
 after supreme sovereignty, may not create entirely new types of creatures (21:5.6) (21:6.2)
 also known as sevenfold Creator Sons (20:1.15)
 capacity for more-than-finite service (21:6.2-3)
@@ -728,7 +721,7 @@ subject to superuniverse tribunals only for matters voluntarily submitted (15:12
 supreme in their universes (15:12.2) (21:5)
 unknown destiny with their mortal children (21:6) (26:11.5)
 
-Master Physical Controllers (29:4) (41:2) (116:5.2) | See also Universe Power Directors
+Master Physical Controllers | (29:4) (41:2) (116:5.2) | Universe Power Directors | ORDER | 
 500,000 in Satania (41:2.4)
 directed by Council of Equilibrium (29:4.2)
 events involved in
@@ -791,7 +784,7 @@ types of Master Physical Controllers (29:4)
 	# frandalanks and chronoldeks q.v.
 utilize calculations of physicists (41:2.7)
 
-master seraphim of planetary supervision | See also seraphim
+master seraphim of planetary supervision | | seraphim | ORDER | 
 mobilize reserve corps of destiny (114:6.20)
 Seraphington graduates; serve in 12 corps (39:9.2) (114:6)
 types
@@ -823,27 +816,27 @@ types
 	# angels of superhuman ministry
 	#* minister to superhuman life (114:6.16)
 
-Master Sons | See Master Michaels
+Master Sons | | Master Michaels | ORDER | 
 
-Master Spirit #1 | See also Master Spirits, Seven
+Master Spirit #1 | | Master Spirits, Seven | PERSON | 
 represents Father; presides over superuniverse #1; advises chief of Mystery Monitors (16:3.2-3)
 
-Master Spirit #2 | See also Master Spirits, Seven
+Master Spirit #2 | | Master Spirits, Seven | PERSON | 
 represents Eternal Son; presides over superuniverse #2 (16:3.4-5)
 
-Master Spirit #3 | See also Master Spirits, Seven
+Master Spirit #3 | | Master Spirits, Seven | PERSON | 
 represents Infinite Spirit; directs high personalities of Infinite Spirit; presides over superuniverse #3 (16:3.6-7)
 
-Master Spirit #4 | See also Master Spirits, Seven
+Master Spirit #4 | | Master Spirits, Seven | PERSON | 
 represents Father-Son; presides over superuniverse #4 (16:3.8-9)
 
-Master Spirit #5 | See also Master Spirits, Seven
+Master Spirit #5 | | Master Spirits, Seven | PERSON | 
 represents Father-Spirit; advises power directors, physical controllers; presides over superuniverse #5 (16:3.10-11)
 
-Master Spirit #6 | See also Master Spirits, Seven
+Master Spirit #6 | | Master Spirits, Seven | PERSON | 
 represents Son-Spirit; presides over superuniverse #6 (16:3.12-13)
 
-Master Spirit #7 | See also Master Spirits, Seven
+Master Spirit #7 | | Master Spirits, Seven | PERSON | 
 adviser to all triune beings, pilgrims of Havona (16:3.14,18-19)
 functions personally for Supreme Being (16:1.2) (16:3.15-20) (26:6.3) (116:4.2)
 presiding head of Seven Master Spirits (16:3.15) (34:2.6)
@@ -851,7 +844,7 @@ represents Father-Son-Spirit; presides over superuniverse #7 (16:3.14)
 speaks in confirmation of Trinity attitudes (16:3.15-20)
 we will recognize M.S.#7 on 7th Havona circuit (14:5.4)
 
-Master Spirits, Seven (16) | See also Master Spirit #1 – #7
+Master Spirits, Seven | (16) | Master Spirit #1 – #7 | ORDER | 
 7 superuniverse Architects of Master Universe associate with (31:9.5)
 all creatures resemble Master Spirit of superuniverse nativity (16:5) (26:2.5)
 also known as Seven Spirits; Seven Paradise Spirits; Seven Center Supervisors (16:4.1) (16:5.2)
@@ -924,7 +917,7 @@ Reflective Spirits and seconaphim reflect Master Spirits to Ancients of Days (9:
 superuniverses know of mutual affairs only through (15:10.23)
 tradition of Master Spirits in Ur (95:6.2,7)
 
-master universe (12) | See also grand universe; space levels; universe
+master universe | (12) | grand universe; space levels; universe | PLACE | 
 6 concentric ellipses comprise (12:1.3)
 circles around Paradise (3:2.4)
 circular and delimited (12:0.2-3) (12:1.1,16) (105:3.7)
@@ -945,32 +938,32 @@ space levels constitute major divisions of pervaded (12:1)
 Transcendentalers concerned with superadministration of (31:8.2)
 unthinkable without the Trinity (10:0.3)
 
-masters
+masters | | | | 
 no man can serve two (140:6.13) (163:3.1) (169:2.7)
 on Urantia every man must serve two (109:5.4)
 
-masters of philosophy (27:6)
+masters of philosophy | (27:6) | | ORDER | 
 available only on Paradise (27:6.6)
 primary supernaphim (27:0.5)
 secoraphic souls of philosophy in focal synchrony with (28:5.11)
 
-mastodons (61:3.4) (61:4.4) (61:5.7)
+mastodons | (61:3.4) (61:4.4) (61:5.7) | | | 
 exterminated by red man in ice age (61:7.13-14)
 massiveness of passing Reptilia found echo in (65:2.10)
 
-Matadormus
+Matadormus | | | PERSON | 
 Alpheus twins proud Jesus refused to accept (139:9.9)
 became treasurer of Jerusalem church (163:2.7)
 met with Jesus in home of Nicodemus (164:2.1)
 rich young Pharisee, member of Jerusalem Sanhedrin (163:2.4-9) (163:3.3)
 
-matchmakers
+matchmakers | | | | 
 first were barbers; later, priests (83:2.1)
 negotiated marriages for deceased individuals (82:3.8)
 
-Material Daughters | See Material Sons of God
+Material Daughters | | Material Sons of God | ORDER | 
 
-material energy | See also energy; matter
+material energy | | energy; matter | | 
 all forms of phenomenal motion, action, and potential (0:6.3)
 circuits have origin on nether Paradise (11:5.1)
 controlled by Universe Power Directors (24:1.1)
@@ -981,7 +974,7 @@ gravity is sole control of energy-matter (0:6.11)
 Master Spirits involved in fluctuations of (16:4.11-12)
 requires 968 million years to encircle superuniverse (15:8.2)
 
-Material Sons of God (51) (45:5) | See also Adam; Eve
+Material Sons of God | (51) (45:5) | Adam; Eve | ORDER | 
 161,432,840 in Nebadon; constantly increasing (45:5.4)
 as ascending sons (40:2)
 bestowal of Michael as (119:3)
@@ -1055,7 +1048,7 @@ since Michael’s bestowal as a M.S., none have knowingly joined in rebellion (1
 transit of (51:2)
 upstepping by Material Sons prepares for Spirit of Truth (34:7.1)
 
-materialism (195:6-7) | See also communism; mechanism (theory); secularism
+materialism | (195:6-7) | communism; mechanism (theory); secularism | | 
 asserts man is an evolutionary accident (102:0.1)
 asserts universe is a purposeless energy phenomenon (195:6.6,8)
 effect
@@ -1074,7 +1067,7 @@ errors of
 maximation of ugliness (56:10.4)
 there, but not exclusive (195:6.14)
 
-mathematics
+mathematics | | | | 
 arithmetic regarding sheep shearing (133:5.5)
 could not have predicted water molecule (12:9.3)
 indispensable to discussion of material universe (12:9.3)
@@ -1083,13 +1076,13 @@ science fights for deliverance from slavery of (12:9.5)
 science teaches language of (81:6.10)
 young Jesus spent much time on (123:6.3)
 
-mathematics teacher of Damascus (123:6.3)
+mathematics teacher of Damascus | (123:6.3) | | | 
 
-mating instinct | See sex: urge
+mating instinct | | sex: urge | | 
 
-matriarchy | See family: matriarchal families
+matriarchy | | family: matriarchal families | | 
 
-matter | See also energy; material energy; matter, mind, and spirit
+matter | | energy; material energy; matter, mind, and spirit | | 
 100 elements exist (42:7.4)
 absolute of matter converges in Father (12:8.13)
 appearance of matter
@@ -1139,7 +1132,7 @@ modifications of matter
 	transmutations (42:4)
 of all suns and planets is identical (41:3.2) (42:3.1)
 of sacred spheres of Paradise is of unrevealed order (13:0.2)
-particles and units | See atoms; electrons; mesotrons; neutrons; protons; ultimatons
+particles and units | atoms; electrons; mesotrons; neutrons; protons; ultimatons
 relative integrity of matter assured because energy absorbed or released in quanta (42:4.13-14)
 spirit dominant over matter in personality (25:1.4)
 subject to absolute-gravity of Paradise (21:2.12) (42:4.2) (115:6.1)
@@ -1150,10 +1143,10 @@ units are stable yet efficiently flexible (42:9.5)
 vast amount of matter circulates in space (15:5.9)
 work which resting mattercan perform (42:4.11)
 
-matter, mind, and spirit (12:8) | See also science, philosophy, and religion
+matter, mind, and spirit | (12:8) | science, philosophy, and religion | | 
 distinct realms of cosmic reality (65:7.8)
 
-Matthew Levi (139:7)(143:3.5)(144:1.7) | See also apostles of Jesus
+Matthew Levi | (139:7)(143:3.5)(144:1.7) | apostles of Jesus | PERSON | 
 among 120 at Pentecost (194:1.2)
 apostolic fiscal agent, publicity spokesman (138:10.6) (139:7.2) (163:0.2)
 at Jesus’ appearances (191:2.5) (192:1-4) (193:0,3,5)
@@ -1192,10 +1185,10 @@ Ruth was eldest daughter of (150:1.1)
 turned customs office over to his brother (138:3.1)
 wife in women’s corps (163:7.3)
 
-Matthias
+Matthias | | | PERSON | 
 declared new apostle in Judas’s position (192:0.2) (193:6.2,3,6)
 
-maturity | See also immaturity
+maturity | | immaturity | | 
 brings past and future together to illuminate true meaning of present (118:1.3-8)
 enables more intense living in present while escaping its limitations (118:1.7)
 multiplies fruits of life efforts (160:3.3)
@@ -1203,24 +1196,24 @@ Rodan on (160:3-4)
 surrender of transient desires and personal pleasures for superior longings (100:1.1) (160:1.4,13)
 unit of time consciousness in any given intellect (118:1.3)
 
-maximums
+maximums | | | | 
 primary maximums are supremely constitutive perfect reality of Havona type (105:5.6-9)
 secondary maximums are supremely perfected evolutionary reality of superuniverse type (105:5.6-9)
 tertiary maximums are things, meanings, and values that are neither perfect nor perfected (105:5.10)
 
-May Day
+May Day | | | | 
 ancients suspended sex regulations on (82:2.4)
 suggestive appeal to sex passions of plant world (88:6.4)
 
-Maypole
+Maypole | | | | 
 perpetuates ancient custom of tree worship (85:2.5)
 
-Maza
+Maza | | | PLACE | 
 willow branches cut at (162:4.4)
 
-meals | See food
+meals | | food | | 
 
-meanings | See also science, philosophy, and religion; values
+meanings | | science, philosophy, and religion; values | | 
 appreciative consciousness of values (100:3.4)
 can be augmented even in relations of infinite Deity (115:2.2)
 derived from recognition and understanding (111:4.2)
@@ -1228,17 +1221,17 @@ new meanings only emerge amid conflict (100:4.1)
 religion discovers new meanings in facts already well known (101:1.4)
 require unraveling and correlation in mind (102:2.5)
 
-means versus ends | See ends versus means
+means versus ends | | ends versus means | | 
 
-measures | See also light-years; time: days and years; weights
+measures | | light-years; time: days and years; weights | | 
 constellations use same measures as local universes (43:0.3)
 mile on Jerusem equals 7 Urantia miles (46:1.2)
 paradoxes of simultaneous measurement (65:6.1)
 
-Mecca
+Mecca | | | | 
 Kaaba stone fetish at (95:7.5)
 
-mechanical controllers | See also Master Physical Controllers
+mechanical controllers | | Master Physical Controllers | ORDER | 
 10 now stationed on Urantia (29:4.19)
 10 stationed on the capital of each constellation (41:1.4)
 directionize energy into specialized circuits; equalize pressures of interplanetary circuits (29:4.20)
@@ -1251,7 +1244,7 @@ number in trillions (29:4.18)
 possess antigravity in excess of all other beings (29:4.19)
 type of Master Physical Controller (29:4.6)
 
-mechanism (theory) | See also materialism; secularism
+mechanism (theory) | | materialism; secularism | | 
 50,000 facts of physics and chemistry incompatible with accidental creation (58:2.2-5)
 does not account for differing mind interpretations (195:6.11)
 pays unintended homage to God (3:6.4-5)
@@ -1261,7 +1254,7 @@ sophistries of (102:0.2)
 understanding water molecule should have prevented (12:9.3-5)
 vulnerable; takes no account of consciousness (195:6-7)
 
-mechanisms (42:11)
+mechanisms | (42:11) | | | 
 amazing phenomenon of apparently self-maintaining universe (42:11.6)
 conceal creative mind behind; fixity nonexistent (42:11.6-8) (42:12.1)
 crystallizations of Creator thought (118:9.5-6)
@@ -1274,14 +1267,14 @@ phase of eternal Deity expression (118:9.6)
 there, but not unqualified (195:6.14)
 universe is not simply a mechanism (75:8.7)
 
-Medeba (165:0.1)
+Medeba | (165:0.1) | | PLACE | 
 Perea mission
 
-Media (134:2.1)
+Media | (134:2.1) | | PLACE | 
 
-mediators | See intercessors
+mediators | | intercessors | | 
 
-medicine | See also disease; health; injury; physicians; sick, the
+medicine | | disease; health; injury; physicians; sick, the | | 
 among primitives
 	belief disease spirits driven out by foul-smelling and bad-tasting medicine (90:4.8)
 	belief in plant remedies (90:4.7)
@@ -1293,12 +1286,12 @@ government refrains from interfering with medicine in continental nation (72:7.2
 merry heart does good like medicine (149:5.2)
 refrain from despising material means of healing (164:3.15)
 
-medicine bag
+medicine bag | | | | 
 pouch containing ghost-impregnated articles (88:3.3)
 
-medicine men | See shamans
+medicine men | | shamans | | 
 
-mediocrity
+mediocrity | | | | 
 dangers of overconservative mediocrity (149:4.3)
 dominance of mediocrity spells downfall of any nation (72:9.8)
 flight of genius neutralized by gravity of (111:7.5)
@@ -1307,7 +1300,7 @@ religious living transforms the mediocre into persons of idealistic power (100:0
 seeks perpetuation in standardization (48:7.29)
 stalemate of dominance of (70:12.10)
 
-meditation | See also prayer; spiritual communion; worship
+meditation | | prayer; spiritual communion; worship | | 
 after prayer, remain in silent receptivity (146:2.17)
 always successful even if superconscious (133:4.10)
 brings deliverance from illusions of evil (131:4.7)
@@ -1323,9 +1316,9 @@ practice difficult, time-consuming at first (133:4.10) (160:3.2)
 prolonged isolation of personality most undesirable (100:5.8)
 value in problem solving (160:1.10-12)
 
-Mediterranean-Indian Ocean land bridge (64:7.13)
+Mediterranean-Indian Ocean land bridge | (64:7.13) | | | 
 
-Mediterranean region | See also harbors; Mediterranean Sea
+Mediterranean region | | harbors; Mediterranean Sea | PLACE | 
 Andites moved to islands of (78:6.8) (80:7)
 area of highly blended races (78:1.11)
 civilization disrupted by flood in 15,000 B.C. (78:3.7)
@@ -1333,9 +1326,9 @@ geology (59:3.6) (60:1.12) (60:2.7) (61:1.12) (61:3.8) (61:4.2) (62:1.2) (64:1.1
 land trade nearly suspended during nomadic invasions ca. 2500 B.C.; sea commerce in full swing (80:9.9)
 Onagar’s headquarters (63:6.7)
 protected by Gibraltar isthmus and Sicilian land bridge in early days of violet race; floods upon their collapse (80:1.1) (80:2.4-5)
-race of | See white race: divisions: southern
+race of | white race: divisions: southern
 
-Mediterranean Sea | See also Mediterranean region
+Mediterranean Sea | | Mediterranean region | PLACE | 
 Black Sea once was an extension of (64:4.10)
 collapse of Gibraltar isthmus (80:2.4-5)
 creation (58:4.3) (64:6.11)
@@ -1344,37 +1337,37 @@ few good seaports in eastern (121:2.2)
 greatly expanded in 15,000 B.C. (81:1.2)
 marine life evolved in (59:6.9)
 
-medium-heads | See also skulls
+medium-heads | | skulls | | 
 Sangik races were (81:4.2)
 
-mediumship | See spiritualism
+mediumship | | spiritualism | | 
 
-meekness | See also humility; submission
+meekness | | humility; submission | | 
 fruit of the Spirit (34:6.13)
 God is near the brokenhearted (131:2.10)
 man co-operating with God (140:5.11)
 meek shall inherit the earth (131:2.9) (140:3.5) (140:5.11)
 not self-deceptive display of self-righteous superiority (149:6.11)
 
-Meganta
+Meganta | | | PLACE | 
 Rodan taught philosophy in school of (161:2.12)
 
-Megiddo (149:0.1)
+Megiddo | (149:0.1) | | PLACE | 
 international battlefield of Palestine (126:1.2) (127:6.4)
 
-Mek | See also Caligastia one hundred
+Mek | | Caligastia one hundred | PERSON | 
 and entire council loyal in rebellion (67:4.1)
 led planetary council on art and science (66:5.23)
 
-Melanesians
+Melanesians | | | RACE | 
 prereligious prayer; mana practices (91:0.5)
 
-melanin
+melanin | | | | 
 original Andonic skin pigment, like that of Eskimos (63:4.1)
 
-Melchizedek, Father | See Father Melchizedek
+Melchizedek, Father | | Father Melchizedek | PERSON | 
 
-Melchizedek, Machiventa (93) | See also Melchizedek Sons; missionaries: Salem missionaries
+Melchizedek, Machiventa | (93) | Melchizedek Sons; missionaries: Salem missionaries | PERSON | 
 appearance and departure unannounced (93:8.1) (93:10.2)
 appeared at Salem to contact children of Terah (35:4.5) (93:5.3)
 co-authored Paper 56 (56:10.22)
@@ -1407,7 +1400,7 @@ since his incarnation
 	present status (93:10)
 	vicegerent Planetary Prince of Urantia (45:4.16) (93:10.5) (114:0.11) (114:1.2-4)
 	will follow Urantia mortals to Corps of Finality (93:10.9)
-teachings | See also Salem teachings
+teachings | Salem teachings
 	cardinal precepts were trust and faith (92:4.7)
 	covenant with Abraham whereby God does everything and
 	man believes (93:6)
@@ -1419,28 +1412,28 @@ teachings | See also Salem teachings
 	taught advent of another Son of God (93:3.7)
 	were the 3rd epochal revelation (92:4.7)
 
-Melchizedek, Malavatia | See also Melchizedek Sons
+Melchizedek, Malavatia | | Melchizedek Sons | PERSON | 
 sponsored Paper 43 (43:9.6)
 
-Melchizedek, Manovandet | See also Melchizedek Sons
+Melchizedek, Manovandet | | Melchizedek Sons | PERSON | 
 author of Paper 53 (53:9.9)
 
-Melchizedek, Mantutia | See also Melchizedek Sons
+Melchizedek, Mantutia | | Melchizedek Sons | PERSON | 
 directed creation of Parts II and III (56:10.23) (119:8.9)
 wrote Paper 120 (120:0.1)
 
-Melchizedek brotherhood | See also missionaries: Salem missionaries
+Melchizedek brotherhood | | missionaries: Salem missionaries | | 
 members promised to proclaim good news to all men (93:4.4)
 nearly disappeared after Melchizedek’s departure (93:9.1)
 over 100,000 tithe payers on clay-tablet rolls (93:4.1) (93:6.8)
 
-Melchizedek College of Administration
+Melchizedek College of Administration | | | | 
 on Jerusem (45:7.4-5)
 
-Melchizedek College of Spiritual Endowment
+Melchizedek College of Spiritual Endowment | | | | 
 evangels of destiny trained in (35:3.21)
 
-Melchizedek receivers | See also Melchizedek Sons
+Melchizedek receivers | | Melchizedek Sons | ORDER | 
 12 administered Urantia after rebellion (67:6.5-6)
 activity on Urantia (93:0.2)
 delivered planetary custody to Adam (74:2.6)
@@ -1456,7 +1449,7 @@ selected Adam and Eve (74:1.3-4)
 thrown completely on their own resources (93:1.3)
 warned Adam and Eve concerning dangers (51:3.4)
 
-Melchizedek Sons (35:2,4) | See also Father Melchizedek; Melchizedek, Machiventa; Melchizedek receivers
+Melchizedek Sons | (35:2,4) | Father Melchizedek; Melchizedek, Machiventa; Melchizedek receivers | ORDER | 
 all created in same millennium (35:1.3)
 are
 	by nature unprejudiced observers (35:2.3)
@@ -1512,40 +1505,40 @@ Technical Advisers aid (25:4.18)
 use seraphic transport (74:5.2)
 wrote Papers 38, 39, 43, 45, 49, 53, 56, 66–72, 90, 92–106, 120 (38:9.14) (39:9.4) (43:9.6) (45:7.9) (49:6.22) (53:9.9) (56:10.23) (66:8.8) (67:8.6) (68:6.12) (69:9.19) (70:12.21) (71:8.16) (72:12.16) (90:5.9) (92:7.16) (93:10.12) (94:12.8) (95:7.7) (96:7.9) (97:10.9) (98:7.13) (99:7.6) (100:7.19) (101:10.10) (102:8.8) (103:9.13) (104:5.13) (105:7.19) (106:9.13) (120:0.1)
 
-Melchizedek sphere
+Melchizedek sphere | | | PLACE | 
 Michael’s 1st bestowal took place on (119:1.3)
 pilot world of Salvington circuit (35:2.2) (35:3.1,11-12,20)
 resurrection halls for modified orders of ascension (43:1.5)
 to ascenders, most interesting sphere in Nebadon (35:3.11)
 
-Melchizedek University
+Melchizedek University | | | PLACE | 
 490 spheres encircling Salvington; mortals pass through each (35:3.1,21-22) (36:4.7)
 100,000 Trinity Teacher Sons on staff (20:8.2)
 attended by ascending mortals just before superuniverse translation (49:0.1)
 Material Sons not eligible for admission (45:5.7)
 numerous restricted zones (36:4.7)
 
-Melchizedek worlds
+Melchizedek worlds | | | PLACE | 
 7 spheres circling Salvington (35:3)
 
-Melkarth temple
+Melkarth temple | | | PLACE | 
 in Tyre; became site of Christian church (156:4.2)
 
-melodies | See music
+melodies | | music | | 
 
-memorials
+memorials | | | | 
 619 planetary memorials on Jerusem (46:5.27,31)
 Michael Memorial on Jerusem, circles of Sons (46:5.19)
 on Jerusem circle of finaliters, sealed by Gabriel (46:5.32)
 
-Memories of Mercy
+Memories of Mercy | | | ORDER | 
 assigned to Mighty Messengers, Those High in Authority, and Those without Name and Number (28:6.1)
 disclose individuals’ and races’ moral and spiritual liabilities (28:6.5-6)
 must show saving credit was fully paid out (28:6.7)
 teach mercy (28:6.8)
 tertiary seconaphim, living records of extended mercy (28:6.5-8)
 
-memory
+memory | | | | 
 ascenders possess memories of all former existences (48:4.20)
 build up reserve galleries of beauty (160:4.12)
 Adam’s children fortunate to have forgotten first garden (76:3.2)
@@ -1560,22 +1553,22 @@ on mansion worlds we remember our associates (112:5.22)
 personality recognition is independent of memory (40:9.8)
 subsequent to survival, only experiences of spiritual value are remembered (40:9.4-9) (47:4.5) (112:5.22)
 
-menstruation
+menstruation | | | | 
 grievous sin to be detected in; complete quarantine (84:4.8-9)
 suggested blood as creator of child (84:2.1)
 
-mental illness | See insanity
+mental illness | | insanity | | 
 
-merchant of Damascus
+merchant of Damascus | | | | 
 asked Jesus to enter his import business (128:3.3)
 asked Jesus to establish school in Damascus (128:4.1-4)
 Jesus translated Greek into Indian language for (130:0.4)
 
-Mercury | See also Monmatia
+Mercury | | Monmatia | PLACE | 
 orbit compared to inner election of atom (42:7.2)
 rotation ceased due to tidal friction (57:6.2)
 
-mercy | See also fairness; grace (God’s mercy)
+mercy | | fairness; grace (God’s mercy) | | 
 and justice (133:1)
 bear with erring brother (54:5.5)
 creature’s need wholly sufficient to insure God’s full mercy (2:4.2,4)
@@ -1607,10 +1600,10 @@ spiritual growth favored by refusal to presume on divine mercy (100:1.8)
 time lag of mercy; wisdom of delay (2:3.5) (54:4,5) (131:3.5)
 when mercy exhausted, justice prevails (21:5.7) (28:6.7)
 
-mermaids
+mermaids | | | | 
 onetime objects of worship (85:3.2)
 
-Mesopotamia (130:0.3) | See also Euphrates River; second garden; Sumerians; Tigris River
+Mesopotamia | (130:0.3) | Euphrates River; second garden; Sumerians; Tigris River | PLACE | 
 5% of superior Andites refused to leave (78:6.6)
 Andites driven from (78:6.7) (79:1.7)
 appearance of cities (79:1.4)
@@ -1645,21 +1638,21 @@ second garden located in (76.3) (78:0.1-2)
 strange teacher from Mesopotamia had dream of Jesus’ birth (122:8.6)
 Todan carried gospel into (146:1.4)
 
-mesotrons | See also atoms; matter
+mesotrons | | atoms; matter | | 
 180 times heavier than electrons (42:8.3)
 atomic nuclei held together by reciprocation of (42:8.3-7)
 disintegrate into electrons (42:8.5)
 many in space rays (42:8.7)
 
-Mesozoic | See also geologic ages
+Mesozoic | | geologic ages | | 
 early land-life era, from 150 to 50 million years ago (59:0.5) (60:4.6)
 
-message stick
+message stick | | | | 
 early writing (69:4.7)
 
-messages | See communication
+messages | | communication | | 
 
-messenger corps (David Zebedee’s) (157:0.2) (163:5.2-3)
+messenger corps (David Zebedee’s) | (157:0.2) (163:5.2-3) | | PERSON | 
 25 sentinels posted about Zebedee house (154:6.7)
 26 sent forth as heralds of resurrection (190:1.3-8) (191:6.4)
 Bethlehem was Judean headquarters (159:6.4)
@@ -1680,10 +1673,10 @@ spread report of Jesus’ triumphal entry into Jerusalem (172:3.7)
 unseen messenger ran by side of Jacob (182:2.5)
 would not heed words of doubt over resurrection (190:1.6)
 
-messenger corps (Lanonandek) (35:8.12)
+messenger corps (Lanonandek) | (35:8.12) | | ORDER | 
 group inside Lanonandek Sons
 
-Messenger Hosts of Space (25)
+Messenger Hosts of Space | (25) | | ORDER | 
 orders in Uversa personality register (30:2.74)
 	# Havona Servitals q.v.
 	# Universal Conciliators q.v.
@@ -1694,10 +1687,10 @@ orders in Uversa personality register (30:2.74)
 	# Paradise Companions q.v.
 personalities of Infinite Spirit (30:2.65)
 
-messengers (tertiary supernaphim) (26:3.7)
+messengers (tertiary supernaphim) | (26:3.7) | | ORDER | 
 group inside Tertiary supernaphim
 
-Messiah | See also Deliverer
+Messiah | | Deliverer | | 
 anointed one (136:1.1)
 apostles’ long-nourished ideas of (140:8.1) (152:6.1) (157:4.1) (158:4.4) (180:6.9)
 false Messiah at Mount Gerizim (185:1.6)
@@ -1730,10 +1723,10 @@ Messiah of kingdom became Redeemer of church (170:5.3-6)
 prophecy of Book of Zechariah (172:3.4)
 Scriptures invoked to support contending views of Messiah (136:1.1) (172:3.4)
 
-Messina (130:0.2)
+Messina | (130:0.2) | | PLACE | 
 Jesus’ stop at (130:8.3)
 
-metalworking
+metalworking | | | | 
 Cretan Andites practiced metalworking ca. 12,000 B.C. (80:7.2)
 early commerce in metals (79:1.4)
 early wars fought over deposits of metals (69:4.6)
@@ -1747,13 +1740,13 @@ Prince’s staff taught (66:5.25)
 Sumerians practiced (77:4.7)
 Syria was center of (80:1.2)
 
-metaphysics
+metaphysics | | | | 
 approaches universe from inside (103:6.2)
 confusion of (101:2.7) (101:3.1)
 futile attempt to compensate for absence of mota (103:6.7-15) (103:7.8-9)
 Greeks vainly sought solace in (98:2.2-3)
 
-meteors | See also comets; space bodies
+meteors | | comets; space bodies | | 
 atmospheric oxygen exhausted by combustion of (57:7.6,9)
 awesome to early man (85:1.2)
 bombard nonbreathing worlds (49:3.2-3)
@@ -1771,33 +1764,33 @@ primitive atmosphere afforded little protection against (57:7.10)
 solar matter (57:5.8)
 some comets consist of swarms of (49:3.2)
 
-Methuselah
+Methuselah | | | PERSON | 
 Scriptural confusion regarding life span (77:2.11)
 
-Mexico (58:7.4) (59:2.4,7) (60:3.2-6)
+Mexico | (58:7.4) (59:2.4,7) (60:3.2-6) | | PLACE | 
 Mother of God cult (89:9.2)
 predominantly red race but also yellow, orange, and blue (64:7.5) (79:5.8)
 
-Micah
+Micah | | | PERSON | 
 confirmed Isaiah’s soul-satisfying gospel; fearlessly attacked sacrificial system (97:5.4)
 
-Micaiah
+Micaiah | | | PERSON | 
 invaluably assisted Elisha (97:2.2)
 
-mice (49:1.6) (61:2.7)
+mice | (49:1.6) (61:2.7) | | | 
 
-Michael, order of | See also Creator Sons
+Michael, order of | | Creator Sons | ORDER | 
 named for original Michael Son (21:0.3-5)
 
-Michael memorial (on 1st mansion world)
+Michael memorial (on 1st mansion world) | | | PLACE | 
 sealed by Gabriel (188:3.11) (189:1.9)
 
-Michael memorial (on Jerusem) | See also Michael of Nebadon
+Michael memorial (on Jerusem) | | Michael of Nebadon | PLACE | 
 in circles of Sons of God; staff of over 1 million (46:5.19)
 
-Michael of Nebadon (119) (33:1-2) | See also Christ; Creator Sons; Jesus; Master Michaels
+Michael of Nebadon | (119) (33:1-2) | Christ; Creator Sons; Jesus; Master Michaels | PERSON | 
 began organization of Nebadon 400 billion years ago; staff arrived 300 billion years ago (57:3.8) (119:0.7)
-bestowals | See also Creator Sons: creature bestowals; Paradise Sons of God: bestowals
+bestowals | Creator Sons: creature bestowals; Paradise Sons of God: bestowals
 	1st bestowal
 		as Melchizedek (119:1)
 		manifested will of the Father, Son, and Spirit (119:8.4)
@@ -1840,7 +1833,7 @@ bestowals | See also Creator Sons: creature bestowals; Paradise Sons of God: bes
 			to complete required experience; subordinate himself to will of Father (120:0.4) (189:1.10)
 			to gain creature experience, universe sovereignty, settle Lucifer rebellion, reveal God, lead men to become son-conscious (120) (120:4.4) (128:0.2-4) (128:1.1) (128:7.6) (129:3.5-8) (129:4.7) (185:3.4) (189:1.10) (193:0.3)
 		Son of God became Son of Man (13:1.8)
-		Word made flesh (20:5.1) | See also Jesus: personality and nature: God incarnate in man
+		Word made flesh (20:5.1) | Jesus: personality and nature: God incarnate in man
 	began 1 billion years ago; occurred at 150 million year intervals (119:0.7) (119:8.2)
 	could rule as representative of Trinity only after all 7 bestowals, acquiring thereby supreme sovereignty (21:3) (120:0.4)
 	created possibility for sovereignty of Supreme in Nebadon (119:8.5-7)
@@ -1864,7 +1857,7 @@ established 24 counselors, who represent him concerning roll calls of Satania (4
 Gabriel is regent when Michael is away (33:2.5) (33:4.7) (33:6.1)
 headquarters is threefold mansion of light (33:1.1)
 his creative fatherhood has made our lives possible (112:7.8)
-Lucifer rebellion | See also Lucifer rebellion
+Lucifer rebellion | Lucifer rebellion
 	7th bestowal terminated rebellion except on planets with apostate Planetary Princes, and in 2 other systems (53:8.3-4)
 	Michael knew of Lucifer’s disaffection 500 years before rebellion (53:2.3)
 	Michael offered rebels forgiveness, some form of reinstatement (53:9.1) (54:4.5)
@@ -1879,8 +1872,8 @@ no man goes to Father except through (0:8.11) (180:3.7)
 not involved in judicial work (33:7.1)
 personally grants mortals’ credentials to proceed upon superuniverse career (112:7.8)
 possesses unlimited capacity to experience Supreme (101:6.5)
-referred to as Christ Michael | See Christ
-return to Urantia | See Jesus: second coming
+referred to as Christ Michael | Christ
+return to Urantia | Jesus: second coming
 sometimes sends messages on archangels’ circuit (46:3.4)
 sovereignty
 	could have asserted personal sovereignty at any moment (21:3.2-3) (120:0.3-4) (120:1.6)
@@ -1895,21 +1888,21 @@ Spirit of Truth is spirit of (15:9.12)
 Trinity fully approved plans for Nebadon (32:0.3)
 will serve in outer space in next universe age (119:8.7)
 
-Michael Sons | See Creator Sons
+Michael Sons | | Creator Sons | ORDER | 
 
-Michael (the original) | See also Creator Sons; Paradise Sons of God
+Michael (the original) | | Creator Sons; Paradise Sons of God | PERSON | 
 passed through 7 circuits of Havona (7:5.8-9) (8:4.3) (21:0.4)
 presiding head of primary Paradise Sons (21:0.5)
 
-Michal
+Michal | | | PERSON | 
 wife of King David, daughter of Saul (70:1.18)
 
-Michigan (58:7.4)
+Michigan | (58:7.4) | | PLACE | 
 
-mid-breathers
+mid-breathers | | | | 
 type of atmospheric mortal like Urantians; account for 91% in Satania (49:2.12-13)
 
-mid-mammals (62:3)
+mid-mammals | (62:3) | | | 
 ancestors of Primates, simians (61:6.1) (62:3.10-11) (62:4.1)
 instincts of disgust, hoarding; propensity to construct (62:3.6-7)
 internecine battles nearly destroyed species (62:3.8)
@@ -1917,19 +1910,19 @@ killed off dawn mammals (62:3.4)
 subdued their corner of creation (62:3.5)
 sudden appearance from dawn mammals (61:6.1) (62:3.1)
 
-mid-mind | See soul
+mid-mind | | soul | | 
 
-Middle Ages | See dark ages
+Middle Ages | | dark ages | | 
 
-Midianites
+Midianites | | | RACE | 
 Hebrew raid on Midianites illustrates cruelty of ancient war (70:1.15)
 in days of Gideon (124:6.6)
 
-midsonite world | See also midsoniters
+midsonite world | | midsoniters | ORDER | 
 circles Salvington (36:4.4-5)
 Material Sons and Daughters receive Adjusters on (55:4.27)
 
-midsoniters (30:1.111) (36:4.5-6) (45:6.9) | See also midsonite world
+midsoniters | (30:1.111) (36:4.5-6) (45:6.9) | midsonite world | ORDER | 
 1 world in each local system is for (36:4.1)
 come to local systems in light and life (55:8.4)
 help at system probationary nursery (45:6.9)
@@ -1940,7 +1933,7 @@ progeny of Melchizedek Life Carriers and Material Daughters (35:1.3) (36:4.1-2)
 reproducing beings until removed after 1,000 years (36:4.3)
 wards of finaliters (36:4.8)
 
-midspace zones | See also space
+midspace zones | | space | PLACE | 
 400,000 light-years wide between 7 superuniverses and 1st outer space level (12:1.14)
 50,000,000 light-years wide between 1st and 2nd outer space levels (12:1.15)
 free from star dust, cosmic fog (12:1.14)
@@ -1951,10 +1944,10 @@ separate space levels, though less now than previously (11:5.6) (11:7.2,7-8) (12
 transition zones from time to eternity (12:5.4)
 zones between Paradise and superuniverses (11:7.1) (14:1.2)
 
-midway messengers | See also midwayers
+midway messengers | | midwayers | ORDER | 
 small group of midwayers who deliver messages (77:8.6)
 
-midwayers (77) (38:9) (45:3.20) See also midwayers, primary; midwayers, secondary
+midwayers | (77) (38:9) (45:3.20) | midwayers, primary; midwayers, secondary | | ORDER | 
 Adam and Eve could see (76:4.5)
 always found on decimal planets (38:9.2)
 classification (38:9.1)
@@ -2015,20 +2008,20 @@ types
 		direct animal life on Jerusem (46:7.2)
 		pass through parenthood experience in association with Material Sons (45:6.5)
 		translated midwayers (30:1.53) (30:2.52)
-	primary midwayers | See midwayers, primary
-	rebel midwayers (77:7) | See also demon possession
+	primary midwayers | midwayers, primary
+	rebel midwayers (77:7) | demon possession
 		all now interned (51:3.7) (77:7.8)
 		many midwayers lost on rebel worlds (53:7.8)
-	secondary midwayers | See midwayers, secondary
+	secondary midwayers | midwayers, secondary
 United Midwayers of Urantia (77:8)
 	loyal primary and secondary midwayers united on Pentecost to form (38:9.10) (51:3.8) (77:8.1)
 	motto of United Midwayers (77:9.3)
 	number 10,992 (77:6.6) (77:8.1)
 
-midwayers, chief of Urantia (74:2.5) (91:9.9)
+midwayers, chief of Urantia | (74:2.5) (91:9.9) | | PERSON | 
 wrote Paper 91 (91:9.9)
 
-midwayers, primary (77:1) | See also midwayers
+midwayers, primary | (77:1) | midwayers | ORDER | 
 50,000 per planet brought into being over 500 years (38:9.3-4) (66:4.10) (77:1.4-5)
 destiny is to join a Paradise finaliter corps (31:6.2) (40:3.1)
 energized by angelic technique (38:9.6-7)
@@ -2049,7 +2042,7 @@ resemble angels (38:9.8)
 uniform in intellectual status (38:9.6)
 work with celestial visitors (77:8.10)
 
-midwayers, secondary (77:6) | See also midwayers
+midwayers, secondary | (77:6) | midwayers | ORDER | 
 all who survive receive Adjusters and eventually join Corps of Mortal Finaliters (31:6.2) (40:3.1)
 can work with Master Physical Controllers (38:9.8)
 derived from Adams and Eves or their immediate progeny (38:9.4) (51:3.6) (77:0.2)
@@ -2081,16 +2074,16 @@ subject insubordinate minorities (51:3.6)
 vary physically, intellectually, and spiritually (38:9.7)
 visible to humans in light and life (55:4.8)
 
-midwifery | See also pregnancy
+midwifery | pregnancy
 origin (84:4.6)
 shamanesses became adept at (90:4.4)
 
-might | See also compulsion
+might | | compulsion | | 
 enforces commonly recognized rights (81:5.6)
 makes what is and what has been (81:6.15)
 was right among ancients (70:11.13) (70:12.2)
 
-Mighty Messengers (22:2) | See also Trinitized Sons of Attainment
+Mighty Messengers | (22:2) | Trinitized Sons of Attainment | ORDER | 
 endowed with everything finaliters one day achieve (40:10.12)
 first came up with Grandfanda (15:10.11)
 fully conscious of ascendant careers (22:2.9)
@@ -2115,20 +2108,20 @@ survivors can communicate freely with (22:2.9)
 tertiary seconaphim are assigned to (28:3.1) (28:6.1)
 Trinitized Sons of Attainment (15:10.12) (22:2) (28:6.1)
 
-Milcha
+Milcha | | | PERSON | 
 at Jesus’ 16th appearance (193:0)
 cousin of Apostle Thomas; member of women’s corps (150:1.1)
 
-mile
+mile | | | | 
 on Jerusem equals 7 Urantia miles (46:1.2)
 second mile of free service and devotion (195:10.5)
 
-militarism | See also military
+militarism | | military | | 
 autocratic and cruel; disintegrates vanquished (70:2.18)
 nationalistic militarism in conflict with industrialism (70:2.11)
 woman’s social position varied inversely with degree of (84:5.3)
 
-military | See also militarism; self-defense
+military | | militarism; self-defense | | 
 accumulation of group wealth led to (69:5.2)
 avoid offensive operations for gain or aggrandizement (71:4.17)
 government may employ force (133:1.5) (133:4.12) (140:8.4)
@@ -2138,23 +2131,23 @@ security through preparedness (70:9.4) (71:4.16-17)
 training associated with professional training in continental nation (72:8.7) (72:11.2)
 uniforms stir feminine emotions (84:3.4)
 
-milk
+milk | | | | 
 Miriam sister of Jesus sold (126:3.12) (128:3.1)
 of black cow highly magical (88:5.4)
 use of cows’ and goats’ milk reduced infant mortality (84:3.9)
 
-Milky Way galaxy
+Milky Way galaxy | | | PLACE | 
 composed of vast numbers of nebulae (15:4.8)
 physical center of Orvonton in dense diameter of (32:2.11)
 represents central nucleus of Orvonton (15:3.1-3) (42:5.5)
 
-miller in Corinth
+miller in Corinth | | | | 
 Jesus’ teaching to (133:4.2)
 
-millstone
+millstone | | | | 
 about neck of one causing child to stumble (158:8.1)
 
-mind (9:5) (42:10) | See also consciousness; cosmic mind; mortal mind
+mind | (9:5) (42:10) | consciousness; cosmic mind; mortal mind | | 
 Absolutes seem to transcend mind (4:1.8)
 God’s bestowal of mind does not lessen his mind (3:4.3)
 Infinite Spirit
@@ -2164,7 +2157,7 @@ Infinite Spirit
 	mind originates exclusively in, and converges in, the Infinite Spirit (0:3.14) (9:1.1) (9:5.2) (21:2.7) (56:2.2)
 	ministry to mind (8:4.1) (12:6.2-3)
 	pure mind subject only to gravity grasp of Infinite Spirit (9:6.6)
-mind gravity | See gravity: types
+mind gravity | gravity: types
 nature of mind
 	ability to know and be known (6:6.2)
 	always competent to produce suitable body (42:12.9-15)
@@ -2243,53 +2236,53 @@ types of mind
 	nonteachable levels of mind (pre-adjutant mind)
 		contacted by adjutant mind-spirit of intuition (36:5.6)
 		domain of Master Physical Controllers and Supreme Power Centers (9:5.3) (29:2.9) (36:5.14-15) (41:2.6) (42:10.3) (65:0.6) (65:7.5)
-	Paradise Mind | See mind: types of mind: absolute mind
+	Paradise Mind | mind: types of mind: absolute mind
 	spirit mind of Eternal Son (6:6)
 
-mind-energy manipulators
+mind-energy manipulators | | | ORDER | 
 energy manipulator celestial artisans (44:5.3)
 promote intercommunication between morontia and other beings (44:5.3)
 
-mind personalities
+mind personalities | | | ORDER | 
 unrevealed (30:1.113)
 
-mind planners (48:6.24-26)
+mind planners | (48:6.24-26) | | ORDER | 
 3rd order transition minister seraphim (39:6.1)
 most had previous experience as guardian angels (48:6.24)
 seraphim who group and organize teamwork of morontia beings (48:6.24)
 teach on Urantia (48:6.26)
 
-mindal- and physical-energy personalities
+mindal and physical energy personalities | | | ORDER | 
 nonresponsive to spirit gravity (30:1.113)
 
-minerals | See rocks and minerals
+minerals | | rocks and minerals | | 
 
-Minerva
+Minerva | | | PERSON | 
 Capitolium in Rome dedicated to (132:0.2)
 
-mines
+mines | | | | 
 compulsory laborers in mines in continental nation (72:5.11)
 Jesus worked in mines at Iron (146:4)
 
-Ming dynasty
+Ming dynasty | | | | 
 political evolution of (134:5.9)
 
-ministering reserves
+ministering reserves | | | | 
 7th order transition seraphim (48:6.34)
 headquartered on 1st mansion world (48:6.34)
 
-ministering-spirit quartettes
+ministering-spirit quartettes | | | | 
 attached to mortal chief executive in light and life (55:4.15,16)
 
-ministering spirits (26:1) | See also angels; Infinite Spirit: family
+ministering spirits | (26:1) | angels; Infinite Spirit: family | ORDER | 
 
-ministers | See priests
+ministers | | priests | | 
 
-ministry | See service
+ministry | | service | | 
 
-Minnesota (58:7.4)
+Minnesota | (58:7.4) | | PLACE | 
 
-minor sectors | See also Ensa
+minor sectors | | Ensa | PLACE | 
 7 satellites revolve around (18:4.8)
 ascenders are 1st stage spirits on (31:3.4)
 ascenders go through only one (18:5.5)
@@ -2307,19 +2300,19 @@ star students on capitals (30:3.5)
 Trinitized Ambassadors serve on (22:6.3)
 work of conciliating commissions for (25:3.11)
 
-minorities
+minorities | | | | 
 avoid domination by vicious minorities (70:12.11)
 secondary midwayers subject insubordinate (51:3.6)
 smaller, contrary-minded asocial associations (81:6.34)
 well-organized and superior minorities have ruled world (81:6.14)
 
-mint
+mint | | | | 
 tithing minorities while disregarding weightier matters (175:1.17)
 
-Miocene | See also geologic ages
+Miocene | | geologic ages | | 
 age from 25 to 10 million years ago (61:3:15)
 
-miracles | See also Jesus: miracles and healings
+miracles | | Jesus: miracles and healings | | 
 believed commonplace in times of Jesus (121:7.12) (136:6.6-8) (136:8.1) (137:6.5) (145:2.17)
 believed performed by recognized gods, not by magic (90:2.3)
 defined as
@@ -2345,9 +2338,9 @@ primitive belief in natural wonders, impersonal mana (103:3.2)
 quest for miracles harks back to magic (102:8.7)
 refrain from teaching the sick to expect (163:4.3)
 
-Miriam (Old Testament) (150:3.1)
+Miriam (Old Testament) | (150:3.1) | | PERSON | 
 
-Miriam (sister of Jesus) | See also Jesus: family
+Miriam (sister of Jesus) | | Jesus: family | PERSON | 
 at Jesus’ 4th appearance (190:2.6)
 born July 11, 2 B.C. (123:2.3)
 idealized Jesus; his relation with Miriam (124:4.3) (127:6.2)
@@ -2356,7 +2349,7 @@ Rebecca confided to Miriam she loved Jesus (127:5.1)
 sold milk and butter in Nazareth (126:3.12) (128:3.1)
 well-balanced beauty; noble and spiritual (127:4.8)
 
-mirrors
+mirrors | | | | 
 Confucius believed true patterns of civilization mirror eternal heavenly order (94:6.10)
 defeat is true mirror in which to view your real self (156:5.17)
 each superuniverse mirrors presiding Master Spirit (25:2.4)
@@ -2366,23 +2359,23 @@ primitives regarded mirrors with superstitious awe (86:5.14)
 soul with clean heart reflects truth like a mirror (131:7.3)
 Souls of Philosophy mirror wisdom of divinity (28:5.11)
 
-misadaptation | See also confusion; difficulties
+misadaptation | | confusion; difficulties | | 
 disharmony exists because God permits free will (75:8.6-7)
 future will exhaust possibilities for (117:7.13)
 inherent in evolutionary growth (105:6.4)
 
-misery | See also difficulties; suffering
+misery | | difficulties; suffering | | 
 avoid mere fellowship in (159:3.11)
 
-misfortune | See difficulties
+misfortune | | difficulties | | 
 
-Mispeh (165:0.1)
+Mispeh | (165:0.1) | | PLACE | 
 Perea mission
 
-missing links
+missing links | | | | 
 of evolution never existed (58:6.2-3)
 
-missionaries
+missionaries | | | | 
 Adamites went forth from Mesopotamia (78:2.2) (78:3.1)
 Christian missionaries were austere and unyielding in Arabia; should have been more gracious, less stringent in social requirements (95:7.3)
 Christian missionaries wrought confusion in Africa (66:6.7)
@@ -2402,33 +2395,33 @@ Salem missionaries (93:6.8) (93:7)
 should not require God-conscious men to reject historic leadership (99:5.11)
 zeal of early Christian, Sethites, Salemites, Buddhists (98:7.2)
 
-Mississippi River (59:3.9) (59:5.20) (61:7.2)
+Mississippi River | (59:3.9) (59:5.20) (61:7.2) | | PLACE | 
 Great Lakes once emptied through (61:7.10)
 
-Missouri (61:7.9)
+Missouri | (61:7.9) | | PLACE | 
 
-mistakes | See also error
+mistakes | | error | | 
 forgotten in eternity (156:5.8)
 God makes no mistakes (2:1.2) (4:3.5)
 memories of past life without spiritual meaning will perish with material brain (112:5.22)
 
-misunderstandings | See also evil
+misunderstandings | | evil | | 
 avoid all unnecessary (156:5.18)
 be expert in ironing out minor (178:1.7)
 inevitable result of ignorance and power of choice (25:3.7,12)
 Jesus seldom paused to correct (141:7.12)
 revelators used existing terminology even at cost of (0:0.2)
 
-mites
+mites | | | | 
 widow contributed all (172:4.2)
 
-Mithraic priest from Persia (130:7.3)
+Mithraic priest from Persia | (130:7.3) | | PERSON | 
 Jesus talked him
 
-Mithraic priest in Corinth (133:4.4)
+Mithraic priest in Corinth | (133:4.4) | | PERSON | 
 Jesus talked him
 
-Mithraism | See also Mithras; mystery cults
+Mithraism | | Mithras; mystery cults | RELIGION | 
 and Christianity (98:6) (98:7.7)
 	Christian leaders compromised with Mithraism(195:0.9,11)
 	Mithraism similar in appearance and ritual to early Christianity (98:6.3)
@@ -2447,48 +2440,48 @@ Sol Invictus was sun-god of (98:5.3)
 sun worship gave rise to Mithraism in Iran (85:5.2)
 supplanted Phrygian and Egyptian mysteries (98:5.1)
 
-Mithras | See also Mithraism
+Mithras | | Mithraism | PERSON | 
 champion of sun-god in struggle with god of darkness (98:5.3)
 
-mixed commission of twelve
+mixed commission of twelve | | | | 
 Jerusem group approving planetary life initiation plans (57:8.9)
 
-Mo Ti
+Mo Ti | | | PERSON | 
 combated Confucianism, proclaimed brotherhood founded on love of God (94:6.11)
 
-Moab, hills of (123:5.12)
+Moab, hills of | (123:5.12) | | PLACE | 
 
-Moabites
+Moabites | | | RACE | 
 King David laid heavy tribute on (97:9.14)
 
-mob | See populace
+mob | | populace | | 
 
-moderation
+moderation | | | | 
 eventuates in charm (48:7.11)
 restraint in all things is good (131:3.6)
 
-modern civilization
+modern civilization | | | | 
 spiritual stagnation and philosophic chaos (99:4.6)
 
-modesty
+modesty | | | | 
 among ancients was attempt to deceive envious spirits (87:5.7)
 arose from fear of being observed at menstrual period (84:4.8)
 
-Mogul dynasty
+Mogul dynasty | | | | 
 political evolution (134:5.9)
 
-Mohammed | See also Islam
+Mohammed | | Islam | PERSON | 
 great religious teacher; founded Islam; protested foreigners, incoherent religious life of his people (92:5.14)
 return looked for in Islam (92:5.6)
 
-mollusks (59:3.5,11) | See also cephalopods
+mollusks | (59:3.5,11) | cephalopods | | 
 nonprogressive species – oysters, octopuses, snails (65:2.5)
 
-monastic orders
+monastic orders | | | | 
 in dark ages (195:4.1)
 maintained by individuals lacking normal sex urges (82:3.9)
 
-money | See also denarii; earning a living; mites; pounds; shekels; talents: money; ten-cent piece; wealth
+money | | denarii; earning a living; mites; pounds; shekels; talents: money; ten-cent piece; wealth | | 
 apostles and evangelists advised to take m., not take money (140:9.3) (163:1.3) (180:0.2)
 cannot love (127:2.8)
 earliest was fish, goats, or cows (69:4.5)
@@ -2501,31 +2494,31 @@ render tribute money to Caesar (174:2.2)
 universal language of trade (70:3.5)
 widow’s mites (172:4.2)
 
-money-changers | See also banking; usury
+money-changers | | banking; usury | | 
 in court of gentiles (125:1.1)
 Jesus cleansed from temple (173:1)
 licensed to exchange currency for shekel (173:1.3) (173:2.3)
 
-moneylenders
+moneylenders | | | | 
 early creditors controlled body after death (69:5.8)
 never employ money-power to gain unfair advantage (132:5.19)
 parable of 2 debtors (147:5.4)
 
-Mongolia
+Mongolia | | | PLACE | 
 influential river cult (85:4.1)
 
-Mongolian merchant
+Mongolian merchant | | | | 
 talked with Jesus in Caesarea (130:2.2)
 
-Mongoloids | See also races
+Mongoloids | | races | RACE | 
 race comprised of red, yellow, and blue Sangiks (81:4.12)
 
-monkeys | See also simians
+monkeys | | simians | | 
 appearance (61:1.9) (61:3.12) (61:4.4)
 became fetish animals (88:1.5)
 retarded mid-mammals were ancestors of (62:3.12)
 
-Monmatia (57:5) | See also sun (Urantia’s)
+Monmatia | (57:5) | sun (Urantia’s) | PLACE | 
 3 Angona tributaries have retrograde motion (Venus and Uranus are 2) (57:5.13-14)
 3 planets suited for life (15:6.15)
 5th planet fragmentized into asteroids (57:6.5)
@@ -2538,14 +2531,14 @@ registered 3 billion years ago (57:6.9)
 revolves around former Andronover nebula (15:3.6-9)
 Urantia’s solar system (57:2.1) (57:5)
 
-monogamy | See marriage
+monogamy | | marriage | | 
 
-monota | See also reality: levels of reality: absolute reality
+monota | | reality: levels of reality: absolute reality | | 
 indistinguishable from spirit except by name (116:6.7)
 living nonspirit energy of Paradise (42:2.19)
 reveals nonspiritual realities of First Source; absolute (42:10.1)
 
-monotheism | See also religion
+monotheism | | religion | | 
 breakup of Mogol empire handicapped growth of (79:1.9)
 Egyptian political factors favored (95:2.2)
 Egyptian priests combined and hyphenated their gods (95:5.11)
@@ -2553,17 +2546,17 @@ enabled man to see Father as creator and controller (1:0.1)
 evolution of (96:0.1) (96:1.14) (104:2.1)
 pure monotheism reduces God to status of pantheistic Absolute (104:2.2)
 
-monotony | See also drudgery; variety
+monotony | | drudgery; variety | | 
 indicates immaturity of creative imagination (14:5.8)
 multiplies perplexities and difficulties (143:3.7)
 never encountered in universal economy (28:6.18)
 wears and exhausts (48:6.37)
 
-Montana (60:2.5)
+Montana | (60:2.5) | | PLACE | 
 
-Montreal (59:4.16)
+Montreal | (59:4.16) | | PLACE | 
 
-moon (Urantia’s)
+moon (Urantia’s) | | | PLACE | 
 full on April 4, A.D. 30 (176:0.2)
 lost atmosphere to earth (57:7.4)
 mortals living on moon would be nonbreathers (49:2.13)
@@ -2574,12 +2567,12 @@ weddings once celebrated when moon full (83:4.5)
 will eventually shatter from tidal gravity (57:6.3-4)
 worshiped during hunting era (85:5.2)
 
-Moqui tribe | See also red race
+Moqui tribe | | red race | RACE | 
 snake revered in dance of (88:1.5)
 
-moraines (61:7.1)
+moraines | (61:7.1) | | | 
 
-morality | See also conscience; ethics
+morality | | conscience; ethics | | 
 always antecedent to religion (5:5.4)
 among gentiles, not necessarily related to religion (121:5.17)
 ancient secret societies aimed to improve morals (70:7.11)
@@ -2624,7 +2617,7 @@ soil in which revealed religion germinates (103:2.3)
 usually acquired among primitives with appearance of language (52:1.6)
 well-ordered society nurtures (34:7.4)
 
-mores (68:4) | See also traditions
+mores | (68:4) | traditions | | 
 ancient man was helpless victim of (68:4.4)
 crystallized by belief the dead would punish those who disdain rules by which they had lived (68:4.3)
 dependent on land-man ratio (68:5.1) (68:6.1)
@@ -2639,7 +2632,7 @@ origin of mores always unconscious and unintentional (68:4.2)
 Prince’s staff did not impose mores upon tribes (66:6.5)
 safety brake against too rapid advancement (68:4.5-6)
 
-morontia (48) | See also mansion worlds; mind: types of mind: morontia mind; morontia progressors; morontia worlds
+morontia | (48) | mansion worlds; mind: types of mind: morontia mind; morontia progressors; morontia worlds | | 
 art is mortal morontia (195:7.15-16)
 celestial beings enabled humans to see morontia Jesus (189:4.11)
 creatures of morontia respirate morontia gas (43:1.3)
@@ -2652,7 +2645,7 @@ defined as
 forms can be made indifferent to ordinary matter or contactable (189:2.3-4)
 good we do here contributes directly to morontia life (103:5.7)
 invisible to human vision (44:3.2)
-Jesus in m | See Jesus: events in life: morontia appearances
+Jesus in m | Jesus: events in life: morontia appearances
 known since early days of Planetary Prince (48:1.1)
 life in morontia entails real contact with real energies (48:6.29)
 morontia life initiated at conception of soul (48:6.2)
@@ -2668,9 +2661,9 @@ plant life modified on each ascending sphere (48:2.8,22)
 slowed down, becomes morontia material (48:2.20)
 substance and mind created by Morontia Power Supervisors (16:4.5) (42:2.4) (48:1.3) (48:2.18)
 
-morontia cherubim | See cherubim and sanobim
+morontia cherubim | | cherubim and sanobim | ORDER | 
 
-Morontia Companions (25:7) (48:3)
+Morontia Companions | (25:7) (48:3) | | ORDER | 
 almost wholly self-governing (48:3.3)
 at first, 1 for each 1000 survivors (47:3.12)
 beautiful, versatile, and companionable guides (47:3.12)
@@ -2700,20 +2693,20 @@ aggressive and retiring types (48:3.4)
 very close kin to humans (48:3.4)
 will always be Morontia Companions (48:3.16)
 
-morontia counselors (48:6.27-28)
+morontia counselors | (48:6.27-28) | | ORDER | 
 4th order transition minister seraphim (39:6.1)
 teach mota to morontia progressors (48:6.27-28)
 
-morontia life | See morontia; morontia progressors
+morontia life | | morontia; morontia progressors | | 
 
-morontia mind | See mind: types of mind: morontia mind
+morontia mind | | mind: types of mind: morontia mind | | 
 
-morontia mota | See mota
+morontia mota | | mota | | 
 
-morontia planners
+morontia planners | | | ORDER | 
 divine builders, celestial artisans (44:3.7)
 
-Morontia Power Supervisors (48:2) | See also Universe Power Directors
+Morontia Power Supervisors | (48:2) | Universe Power Directors | ORDER | 
 absent from occasions of rejoicing (47:10.1)
 always serve in native local universe (48:2.11)
 build morontia temple (55:1.3)
@@ -2743,7 +2736,7 @@ types (30:1.91) (30:2.108) (48:2)
 	# selective assorters q.v.
 	# associate registrars q.v.
 
-morontia progressors (48:8) (112:6) | See also ascending mortals; mansion world students; mansion worlds; morontia
+morontia progressors | (48:8) (112:6) | ascending mortals; mansion world students; mansion worlds; morontia | ORDER | 
 assurance of truth replaces assurance of faith for (101:5.14)
 do not retain self-consciousness without Adjuster (112:6.7)
 life after death no different in essentials than mortal existence (103:5.7)
@@ -2778,13 +2771,13 @@ translated souls do not pass through mansion worlds (55:2.8-10) (55:6.8)
 use material and semimaterial means of atmospheric passage (43:1.2)
 wards of the local universe (30:4.19)
 
-morontia recorders
+morontia recorders | | | ORDER | 
 thought recorders of celestial artisans (44:4.12)
 
-morontia synthesizers
+morontia synthesizers | | | ORDER | 
 designers and embellishers of celestial artisans (44:6.9)
 
-morontia temple | See also light and life; morontia
+morontia temple | | light and life; morontia | PLACE | 
 appears when planet enters light and life (40:3.1) (55:1)
 built by Morontia Power Supervisors and Master Physical Controllers; seats about 300,000 (55:1.3-4)
 devoted to special ceremonies, not for worship, play, or receiving broadcasts (55:1.4)
@@ -2795,12 +2788,12 @@ translation of living mortals takes place in (55:1.5) (55:2.3-5)
 translation temple is composed of morontia materials (55:1.5)
 Trinity Teacher Sons inaugurate (55:1.1) (55:7.1)
 
-morontia world | See also Jerusem: transitional culture worlds
+morontia world | | Jerusem: transitional culture worlds | PLACE | 
 transitional culture world #2, headquarters of supervisors of morontia life (45:1.3-4)
 
-morontia world transition ministers | See transition ministers
+morontia world transition ministers | | transition ministers | ORDER | 
 
-morontia worlds
+morontia worlds | | | PLACE | 
 3-gas mixture adapted to respiration of morontia beings (43:1.3) (46:2.2-3)
 10 forms of material life (43:6.4-8)
 56 transition worlds circling local system headquarters planet plus spheres of constellation and local universe headquarters worlds (48:1.2)
@@ -2814,13 +2807,13 @@ necessary economy, division of labor (44:3.3)
 social order based on appreciation and mutual service (47:6.3)
 univitatia administer constellation morontia worlds (43:7.2) (55:9.2)
 
-morontians | See mansion world students; morontia progressors
+morontians | | mansion world students; morontia progressors | ORDER | 
 
-Morrison beds (60:2.5)
+Morrison beds | (60:2.5) | | | 
 
-Mortal Corps of the Finality | See Corps of Mortal Finaliters
+Mortal Corps of the Finality | | Corps of Mortal Finaliters | ORDER | 
 
-mortal mind | See also adjutant mind-spirits; ideas; leadings; logic; mind; thought
+mortal mind | | adjutant mind-spirits; ideas; leadings; logic; mind; thought | | 
 Adjusters
 	depend on mortal mind for expression, self-realization (103:6.6)
 	find it next to impossible to communicate directly with subjects (110:4.5)
@@ -2918,7 +2911,7 @@ superconscious mind
 	spiritual truths resident in (110:6.4)
 	unconscious spiritual growth proves existence of (100:1.9)
 
-mortals | See also ascending mortals; body, human; children; creatures; mortal mind; personality; planetary epochs; races; self; sexes, the; soul; spiritual influences; women
+mortals | | ascending mortals; body, human; children; creatures; mortal mind; personality; planetary epochs; races; self; sexes, the; soul; spiritual influences; women | ORDER | 
 7 higher spirit influences (194:2.12)
 Adjusters assigned just prior to 6th birthday (108:2.1)
 after death
@@ -2927,7 +2920,7 @@ after death
 	denominated “faith sons” prior to fusion (40:6.1) (40:7.2)
 	do not return to planet of nativity in same dispensation (39:4.15) (112:3.7) (146:7.2) (150:3.5)
 	stages of existence (30:4) (31:3.4)
-		1. planetary mortals | See mortals
+		1. planetary mortals | mortals
 		2. sleeping survivors q.v.
 		3. mansion world students q.v.
 		4. morontia progressors q.v.
@@ -2967,7 +2960,7 @@ from normal worlds do not experience constant warfare between flesh and spirit (
 gland chemistry influences imagination, spiritual receptivity (49:5.19)
 God-identification makes real (118:7.5)
 God is no respecter of persons (1:4.6) (2:3.1) (12:7.1,8) (40:10.13) (112:0.12) (117:6.22) (133:0.3) (137:8.6) (138:8.2) (140:3.16) (143:1.5) (148:6.2) (155:6.2) (156:2.4) (166:4.11) (175:2.1-3) (181:2.14) (192:2.2) (193:0.3)
-human nature | See also flesh
+human nature | flesh
 	almost wholly material (11:3.1)
 	be not discouraged by discovery you are human (156:5.8)
 	cosmic mind inalienables of moral intuition, scientific curiosity, and spiritual insight (16:7.1)
@@ -2994,7 +2987,7 @@ nothing infallible which humans have touched (159:4.8)
 only distinction between mortals in God’s eyes is whether desire exists to do his will (133:0.3)
 pass through short and intense test (14:5.1)(48:7.13)(112:7.4)
 personalities are in unbroken contact with Father through personality circuit (56:4.2)
-planetary-mortal epochs | See planetary epochs
+planetary-mortal epochs | planetary epochs
 planetary types (15:6.16) (49:2-5)
 	# atmospheric types (49:2.10-14)
 	## subbreathers
@@ -3026,11 +3019,11 @@ planetary types (15:6.16) (49:2-5)
 	life-spans from 25 to 500 years (49:4.6)
 	planetary series
 		# adjustment to planetary environment (49:5.10-12)
-		# brain-type series (40:5.17) (49:4.2-3) (49:5.13-18) | See also brains: brainedness
+		# brain-type series (40:5.17) (49:4.2-3) (49:5.13-18) | brains: brainedness
 		# Spirit-reception series (49:5.19-20)
-		# planetary mortal epochs (49:5.21-28) | See also planetary epochs
+		# planetary mortal epochs (49:5.21-28) | planetary epochs
 		# creature-kinship series (49:5.29-30)
-		# Adjuster-fusion series (40:5.4-18) (49:5.31) (109:3) | See also fusion
+		# Adjuster-fusion series (40:5.4-18) (49:5.31) (109:3) | fusion
 		# techniques of terrestrial escape (49:5.32)
 	series 1 mortals
 		Adjusters loaned to (40:5.8-11) (109:3.2)
@@ -3053,7 +3046,7 @@ planetary types (15:6.16) (49:2-5)
 		Adjuster-fusion potential (40:5.17) (109:3.4)
 		Adjusters gain far more contact with 3-brained (109:3.5)
 		Urantians are 2-brained (49:5.13-18) (109:3.4)
-primitive mortals | See also planetary epochs: 1st–pre-Planetary Prince era; religion: primitive religion
+primitive mortals | planetary epochs: 1st–pre-Planetary Prince era; religion: primitive religion
 	Adjusters loaned to (40:5.8-10)
 	always deteriorated in forests, tropics; progressed only in open, in higher latitudes (64:1.3) (81:6.7)
 	ancestry is lemurs, dawn mammals, mid-mammals,
@@ -3094,19 +3087,19 @@ primitive mortals | See also planetary epochs: 1st–pre-Planetary Prince era; r
 	wholly tribal government (52:1.3)
 	would burn up accumulated wealth to create impression (69:5.13)
 received so little of Adam’s life plasm (76:4.6)
-role of adjutant mind-spirits | See adjutant mind-spirits
+role of adjutant mind-spirits | adjutant mind-spirits
 selfhood of (112:2)
 some lack capacity for intelligent worship of Deity (113:1.3)
-Son-fused mortals | See Son-fused mortals
+Son-fused mortals | Son-fused mortals
 sons of God (2:5.4) (40:6) (99:5.5)
-Spirit-fused mortals | See Spirit-fused mortals
-spiritual influences impinging upon | See spiritual influences
+Spirit-fused mortals | Spirit-fused mortals
+spiritual influences impinging upon | spiritual influences
 spiritually equal before God (134:4.7)
 those with no capacity for sonship reckoned with animals (130:8.4) (133:0.3)
 time and space enable mortals to coexist with the Infinite (118:9.1)
 virgin Adjusters seldom assigned to persons of unquestioned survival capacity (109:3.6)
 
-Moses (96:3-5)
+Moses | (96:3-5) | | PERSON | 
 among 24 counselors (45:4.14)
 believer in Providence (96:5.4)
 descendant of Katro (93:3.5)
@@ -3125,7 +3118,7 @@ no man so successful with such large numbers (92:5.11)
 passage to mansion worlds contested by Caligastia (52:5.5)
 Peter believed he saw Moses at transfiguration (158:1.8)
 reputed to have brought water from a rock, manna in wilderness (136:6.6) (153:2.8,10)
-seat of Moses | See Sanhedrin
+seat of Moses | Sanhedrin
 secluded himself (136:3.3)
 spectacular night flight out of Egypt (96:3.5)
 teachings (74:8.8) (96:5)
@@ -3146,11 +3139,11 @@ teachings (74:8.8) (96:5)
 	taught righteousness was rewarded by prosperity and power (135:5.1)
 turned over command to Joshua (96:5.9)
 
-Most High | See also Most Highs
+Most High | | Most Highs | PERSON | 
 he who dwells in secret place of (4:1.4)
 Semite appellation of Deity (96:1.9)
 
-Most High Assistants
+Most High Assistants | | | ORDER | 
 assist Nebadon Paradise personalities (37:4.5)
 high celestial volunteers from outside Nebadon (37:4)
 in group Universe Aids (37:1.5)
@@ -3160,16 +3153,16 @@ not directly attached to system or planetary governments (37:4.4)
 number in millions (37:4.1)
 supervised by Union of Days (37:4.3)
 
-Most High observer of Urantia | See also Most High observers; Most Highs; Vorondadek Sons
+Most High observer of Urantia | | Most High observers; Most Highs; Vorondadek Sons | PERSON | 
 recently assumed emergency authority on Urantia (109:7.7)
 trustee of Urantia sovereignty (43:5.8,16-17) (114:4)
 
-Most High observers | See also Most High observer of Urantia; Most Highs; Vorondadek Sons
+Most High observers | | Most High observer of Urantia; Most Highs; Vorondadek Sons  | ORDER | 
 empowered to exercise absolute and arbitrary authority over every celestial being on planet, seize planetary government in times of crisis (35:5.5-6) (114:4.4)
 instrumentality of Most Highs’ rule in kingdoms of men (43:5.16-17)
 Vorondadek Sons (35:5.5-6)
 
-Most Highs (35:6) (43:3) | See also Most Highs of Norlatiadek; Vorondadek Sons
+Most Highs | (35:6) (43:3) | Most Highs of Norlatiadek; Vorondadek Sons | ORDER | 
 are Vorondadek Sons (15:2.4) (20:1.10) (35:5.1) (35:6.1)(43:3.1-2)
 at least 3 rule each constellation; each serves 150,000 years; reigns for 50,000 years (15:2.4) (35:6.1) (43:3.1-2)
 Constellation Fathers
@@ -3193,7 +3186,7 @@ rule in kingdoms of men (3:5.2) (43:3.4) (43:9.4) (50:2.6) (52:3.11) (97:8.5) (1
 	rule through reservists (114:7.9)
 	rule through Vorondadek observer (43:5.17)
 
-Most Highs of Norlatiadek | See also Most Highs
+Most Highs of Norlatiadek | Most Highs
 actions
 	appearance to Jesus (136:3.5)
 	approved members of Van’s supreme court in advance (66:5.31)
@@ -3222,13 +3215,13 @@ residence in Jerusem circles (46:5.15)
 rotation suspended at time of Lucifer rebellion (43:5.1)
 supervision over Satania (45:2.2,4)
 
-Most Holy Sphere See also Paradise
+Most Holy Sphere | | Paradise | PLACE | 
 area on upper Paradise (11:3.1-2)
 no physical materializations on (11:3.2)
 reserved for worship, trinitization, and high spiritual attainment (11:3.1)
 Trinitized Sons of God have homes near (13:2.4)
 
-mota (48:7)
+mota | (48:7) | | | 
 absence of mota prevents man from discerning goodness, love, and truth in material world (103:6.13)
 defined
 	experiential connection between material and spiritual (102:3.2)
@@ -3252,21 +3245,21 @@ revelation is only substitute for (4:2.7) (101:2.2,8) (102:3.5) (103:6.8,12-13)
 stereoscopic effect on meanings and values (48:6.28)
 study on mansion worlds (47:5.3)
 
-mote
+mote | | | | 
 pluck not mote from brother’s eye (140:3.17) (143:5.6)
 
-mother cult
+mother cult | | | RELIGION | 
 Danubians led Nordics into (80:9.4)
 greatest vogue in Crete (80:7.7)
 included cremating dead in stone huts (80:8.5)
 Mediterranean world largely dominated by (98:1.3)
 priests submitted to castration (89:3.4)
 
-Mother Eves | See Material Sons of God
+Mother Eves | | Material Sons of God | | 
 
-mother force of space | See absoluta
+mother force of space | | absoluta | | 
 
-Mother of God cult
+Mother of God cult | | | RELIGION | 
 Great Mother cult absorbed Salem gospel (93:7.3)
 greatest of devastating Roman mystery cults (98:3.5)
 influence on Christianity (98:7.7)
@@ -3275,11 +3268,11 @@ Mithraic Great Mother ritual for women (98:5.5)
 sacrament of cakes and wine (89:9.2)
 Tibetans pray to Holy Mother (94:10.2)
 
-Mother-Son | See Eternal Son
+Mother-Son | | Eternal Son | PERSON | 
 
-Mother Spirits | See local universe Mother Spirits
+Mother Spirits | | local universe Mother Spirits | ORDER | 
 
-mothers | See also child-rearing; children; home; marriage; women
+mothers | | child-rearing; children; home; marriage; women | | 
 believers must love gospel more than (150:4.3) (163:3.4) (171:2.2)
 children derive first impressions of universe from (177:2.5)
 females of all higher animals have devoted mother love (68:2.6)
@@ -3287,7 +3280,7 @@ forget anguish of childbirth (180:6.7)
 love of children is handicapping emotion for women (84:1.6-7)
 whoever does Father’s will is Jesus’ mother (154:6.5)
 
-motion
+motion | | | | 
 absolute motion is motion in relation to Paradise (12:4.10)
 all units of cosmic energy in motion except Paradise (12:4.1)
 can attenuate action of gravity on mass (42:11.5)
@@ -3297,9 +3290,9 @@ Infinite Spirit is apparent ancestor of (9:1.1)
 opinions concerning origin of (12:4.2-6)
 progress possible because of inherent motion (28:6.18)
 
-motivation | See motives
+motivation | | motives | | 
 
-motives | See also prejudice; sincerity
+motives | | prejudice; sincerity | | 
 Caligastia and Lucifer judged their advisers as being actuated by their own reprehensible (66:8.2)
 Cano assured Eve persons with good motives could do no evil (75:4.5)
 do not prejudge others’ motives (38:2.4) (133:1.2)
@@ -3313,28 +3306,28 @@ to understand others, fathom their (100:4.4-5)
 Universal Censors rule as to motives (28:5.9)
 what one believes, not what one knows, determines conduct (99:4.5)
 
-mottos | See slogans
+mottos | | slogans | | 
 
-Mount Ararat
+Mount Ararat | | | PLACE | 
 cf: Mount Sinai (77:4.11-12)
 sacred Vanite mountain in northern Mesopotamia (77:4.11-12)
 
-Mount Assembly
+Mount Assembly | | | PLACE | 
 dwelling place of Faithful of Days (43:4)
 morontia mortals assemble on (43:4.5)
 
-Mount Carmel (123:5.12) (128:3.2)
+Mount Carmel | (123:5.12) (128:3.2) | | PLACE | 
 Elijah was prophet of (135:1.4)
 
-Mount Gerizim (126:1.2)
+Mount Gerizim | (126:1.2) | | PLACE | 
 false Messiah led troops to (185:1.6)
 Jesus and apostles camped on (143:6.2-6)
 Samaritans worshiped Yahweh on (143:4.2) (143:5.5)
 worship not on Mount Gerizim (193:1.2)
 
-Mount Gilboa | See Gilboa
+Mount Gilboa | | Gilboa | PLACE | 
 
-Mount Hermon
+Mount Hermon | | | PLACE | 
 glistened with perpetual snow (123:5.12) (124:6.5)
 Jesus
 	Adjuster led him to (134:7:6-7)
@@ -3344,17 +3337,17 @@ Jesus
 	inaugurated 4th phase of ministry on (157:7.5)
 visible from Caesarea Philippi (157:3.1-2)
 
-Mount Hood (61:4.2)
+Mount Hood | (61:4.2) | | PLACE | 
 
-Mount Horeb | See Mount Sinai
+Mount Horeb | | Mount Sinai | PLACE | 
 
-Mount Lebanon (155:4.1)
+Mount Lebanon | (155:4.1) | | PLACE | 
 
-Mount of Olives | See Mount Olivet
+Mount of Olives | | Mount Olivet | PLACE | 
 
-mount of transfiguration | See Jesus: events in life: transfiguration; Mount Hermon
+mount of transfiguration | | Jesus: events in life: transfiguration; Mount Hermon | PLACE | 
 
-Mount Olivet (127:3.5) (164:2.3) (171:8.1) (174:0.3) (182:1.2)
+Mount Olivet | (127:3.5) (164:2.3) (171:8.1) (174:0.3) (182:1.2) | | PLACE | 
 Gethsemane on (142:8.4)
 Jesus
 	as youth, Jesus vowed to return and cleanse temple on (125:4.2) (125:6.9)
@@ -3367,24 +3360,24 @@ palace of Annas on (184:0.3)
 sacrificial animals purchased from (173:1.1)
 Tuesday evening on (176)
 
-Mount Olympus
+Mount Olympus | | | PLACE | 
 home of happy-go-lucky Greek gods (98:1.4)
 
-Mount Rainier (61:4.2)
+Mount Rainier | (61:4.2) | | PLACE | 
 
-Mount Royal (59:4.16)
+Mount Royal | (59:4.16) | | PLACE | 
 
-Mount Sartaba (122:7.6)
+Mount Sartaba (122:7.6) | (122:7.6) | | PLACE | 
 3 day vacation on (143:3.1)
 Alexandrian fortress where Herod imprisoned wife (124:6.6)
 highest mountain overlooking Jordan valley (124:6.6)
 
-Mount Seraph
+Mount Seraph | | | PLACE | 
 at 15,000 ft., highest elevation on Jerusem; departure point for transport seraphim (46:2.8)
 
-Mount Shasta (61:4.2)
+Mount Shasta | (61:4.2) | | PLACE | 
 
-Mount Sinai
+Mount Sinai | | | PLACE | 
 cf: Mount Ararat (77:4.11-12)
 Egyptians worked iron ores from (80:6.3)
 erupted during Moses’ sojourn (96:4.5)
@@ -3392,21 +3385,21 @@ intermittently active volcano to 2000 B.C. (96:1.11)
 Jehovah, spirit of Horeb volcano, became god of Hebrew Semites (94:12.1) (96:1.3,11)
 Ten Commandments promulgated at (96:4.4)
 
-Mount Tabor (122:6.1)
+Mount Tabor | (122:6.1) | | PLACE | 
 Jesus and father Joseph climbed to summit (124:1.6)
 
-mountains
+mountains | | | | 
 chief factor in location is pre-existent trough filled with lighter erosion materials (60:4.2)
 faith removes (144:2.6)
 formed by upheaval at end of continental drift (60:3.11)
 locations of oldest (60:4.3)
 modern mountains built in Cretaceous (60:3.3)
-named | See Adirondack Mountains; Alps; Andes mountains; Apennines; Appalachian Mountains; Black Forest mountains; Brenner Pass; Caledonian mountains; Carpathians; Catskill Mountains; Dakota Black Hills; Eastern Ghats; Himalayas; Kopet Dagh; Longs Peak; Moab, hills of; Mount Ararat; Mount Carmel; Mount Gerizim; Mount Hermon; Mount Hood; Mount Lebanon; Mount Olivet; Mount Olympus; Mount Rainier; Mount Royal; Mount Sartaba; Mount Shasta; Mount Sinai; Mount Tabor; Pikes Peak; Pyrenees; Rocky Mountains; Siwalik Hills; Ural mountains; Vosges mountains; Western Ghats
+named | Adirondack Mountains; Alps; Andes mountains; Apennines; Appalachian Mountains; Black Forest mountains; Brenner Pass; Caledonian mountains; Carpathians; Catskill Mountains; Dakota Black Hills; Eastern Ghats; Himalayas; Kopet Dagh; Longs Peak; Moab, hills of; Mount Ararat; Mount Carmel; Mount Gerizim; Mount Hermon; Mount Hood; Mount Lebanon; Mount Olivet; Mount Olympus; Mount Rainier; Mount Royal; Mount Sartaba; Mount Shasta; Mount Sinai; Mount Tabor; Pikes Peak; Pyrenees; Rocky Mountains; Siwalik Hills; Ural mountains; Vosges mountains; Western Ghats
 no rugged ranges on Jerusem or Edentia (43:1.1) (46:2.1)
 result of rain, gravity, and erosion (57:8.14)
 worship of hills (85:1.5)
 
-mourning
+mourning | | | | 
 costumes originally designed to disguise survivors (87:1.5)
 flute played at (152:1.1)
 great obstacle to civilization’s advancement (87:2.4-5)
@@ -3416,15 +3409,15 @@ professional mourners (87:2.5)
 prolonged mourning for ancient widows (82:3.12)
 self-torture was common form of (87:2.4)
 
-mouth
+mouth | | | | 
 speaks from abundance of heart (153:4.4)
 what proceeds out of mouth spiritually defiles (153:3.5)
 
-multilingualism | See language: common language
+multilingualism | | language: common language | | 
 
-multitude, the | See populace
+multitude, the | | populace | | 
 
-music
+music | | | | 
 among primitives
 	barbarous, monotonous (44:1.12)
 	earlier types of music appeal to immature or spiritually indolent individuals (44:1.13)
@@ -3452,18 +3445,18 @@ majority react to music with material muscles (44:1.12)
 military trained in music in continental nation (72:11.3)
 real musician could change course of a nation (44:1.8)
 
-musk oxen (61:5.7) (61:7.13)
+musk oxen | (61:5.7) (61:7.13) | | | 
 
-mussels (59:2.12)
+mussels | (59:2.12) | | | 
 
-mustard seed
+mustard seed | | | | 
 kingdom of heaven is like (140:8.27) (178:1.15)
 parable of (151:4.2)
 
-myrrh
+myrrh | | | | 
 Jesus embalmed with (188:1.4)
 
-mysteries | See also paradox
+mysteries | | paradox | | 
 always stimulate religious feelings (92:1.4)
 conciliating commissions evolve into explainers of (25:3.12)
 gather information from 1001 different sources (107:3.8)
@@ -3513,7 +3506,7 @@ secrecy confers power (70:7.7,15)
 tendency to prostrate oneself before mysteries (89:4.1)
 there will always be a thousand (27:6.1)
 
-mystery cults (98:4) (121:5) | See also Mithraism; paganism
+mystery cults | (98:4) (121:5) | Mithraism; paganism | | 
 Augustus tried to destroy (98:3.6)
 contended with Stoicism (195:3.3)
 influenced Christianity (98:7.7)
@@ -3528,9 +3521,9 @@ plunged Greece into intellectual stagnation, moral depravity, spiritual poverty 
 prepared way for Jesus, Christianity (121:5.6,12)
 secret rites were sometimes gruesome (121:5.10)
 
-Mystery Monitors | See Thought Adjusters
+Mystery Monitors | | Thought Adjusters | | 
 
-mysticism (100:5) | See also leadings; revelation: personal revelation; spiritual insight
+mysticism | (100:5) | leadings; revelation: personal revelation; spiritual insight | | 
 be not passive mystics (178:1.14)
 Christian mysticism bordered on unreality; philosophically akin to pantheism (195:4.1)
 factors which induce mystic state (100:5.10)
@@ -3542,7 +3535,7 @@ practice of presence of God is altogether praiseworthy (91:7.1)
 product of mortal intellect indistinguishable from that of Adjuster (91:7.1-4) (100:5.6) (110:4.1-6) (159:3.6)
 reprehensible when leads to isolation or fanaticism (91:7.1)
 
-myths
+myths | | | | 
 ancients always sought supernatural explanations (81:2.9)
 creation of Eve from Adam’s rib (74:8.3)
 from garbled legends regarding Prince’s staff (66:2.8) (66:4.1) (67:4.3-4) (77:2.3)

@@ -1,18 +1,14 @@
 ####################################################################################
 #
 #                     G
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-
-Gabriel | (33:4) (189:1.5,10) | See also Bright and Morning Stars | PERSON | OK
+Gabriel | (33:4) (189:1.5,10) | Bright and Morning Stars | PERSON | OK
 Brilliant Evening Stars are liaison officers for (37:2.1-3)
 cabinet of (33:8.4)
 cannot be 2 places at same time (37:2.2)
@@ -87,10 +83,10 @@ associate head of superangels (46:5.25)
 Galatia | | | PLACE | 
 Matthew preached in (139:7.10)
 
-galaxies | | See also space levels; universe | PLACE | 
+galaxies | | space levels; universe | PLACE | 
 375 million new galaxies will soon be observable by Urantian astronomers (12:2.3)
 
-Galilee | (137) (146) (155) | See also Palestine; Sea of Galilee | PLACE | 
+Galilee | (137) (146) (155) | Palestine; Sea of Galilee | PLACE | 
 badly regarded by Jerusalem leaders; largely gentile (121:2.12)
 forcible conversion of gentile population (139:0.2)
 Herod rebuilt cities in (121:2.11)
@@ -113,12 +109,12 @@ Gamaliel | | | PERSON |
 renowned teacher at Jerusalem (126:5.3)
 counseled against jailing followers of Jesus (194:4.10)
 
-gambling | | See also chance; luck | | 
+gambling | | chance; luck | | 
 civilized people still predisposed to (86:1.4)
 natural to primitives; desire for something for nothing (69:2.7)
 
 games | | | | 
-athletic games | See sports
+athletic games | sports
 once, person counted out must die; now, only “it” (90:2.4)
 
 gamma rays | | | | 
@@ -142,7 +138,7 @@ worthy successor to eminent father (133:9.5)
 garden | | | | 
 Jesus rented land near Nazareth home for (126:5.10)
 
-Garden of Eden | (73) | See also Adam; Gardens of Eden; second garden | PLACE | 
+Garden of Eden | (73) | Adam; Gardens of Eden; second garden | PLACE | 
 3000 volunteers prepared (73:2.3)
 37,000 years ago (51:6)
 Adam discouraged animal sacrifice in (76:2.3)
@@ -186,7 +182,7 @@ teachings
 gardeners | | | ORDER | 
 spornagia are gardeners for Jerusem (46:7.2)
 
-Gardens of Eden | (51:6) | See also Garden of Eden | PLACE | 
+Gardens of Eden | (51:6) | Garden of Eden | PLACE | 
 named to honor constellation capital (43:6.2) (51:3.2) (73:4.1)
 second centers of world culture (51:6.2)
 usually secluded in near-tropic zone (51:3.2)
@@ -208,7 +204,7 @@ in Jerusalem temple (162:4.3)
 Gath | | | PLACE | 
 Philistines ordered King David off field at (97:9.5)
 
-Gautama Siddhartha (94:7) | (94:7) | See also Buddha; Buddhism | PERSON | OK
+Gautama Siddhartha (94:7) | (94:7) | Buddha; Buddhism | PERSON | OK
 master and son of a chieftain ruling a mountain valley
 sudden conversion (100:5.3)
 doctrine of Teacher, Law, and Brotherhood (104:1.6)
@@ -255,7 +251,7 @@ of kingdom called in Philadelphia (167:0.3) (167:2.3)
 Genesis, Book of | | | | 
 story of Eve created out of Adam’s rib (74:8.3)
 
-genetics | | See also eugenics; handicaps; hybridization; races | | 
+genetics | | eugenics; handicaps; hybridization; races | | 
 dominant gene normally improves hybrid (82:6.7)
 evolution produced many apparently useless forms of transition life (65:4.10-12)
 genetic handicaps cannot invalidate presence of Adjuster (5:1.4-7) (5:5.13-14)
@@ -273,7 +269,7 @@ historically
 	race is decisive factor in evolution of culture (81:6.4)
 	racial deterioration contributed to Roman decline (133:0.2) (195:3.8-9)
 	some early irreparable genetic losses due to wars (63:4.8)
-	tremendous gains from small amount of violet blood (48:4.13,17) (52:3.6) (74:7.23) | See also Andites
+	tremendous gains from small amount of violet blood (48:4.13,17) (52:3.6) (74:7.23) | Andites
 individuals lacking parental instinct eliminated from reproductive stream (84:7.7)
 inherited urges cannot be fundamentally modified; responses can (140:4.8)
 jealously guard superior human strains (49:1.7)
@@ -302,7 +298,7 @@ primitives looked upon genius as possessed by wise spirit (88:1.10)
 Gennesaret | (152:6) (156:6.3) | | PLACE | 
 A Galilee region Jesus was there
 
-gentiles | | See also heathen | RACE | 
+gentiles | | heathen | RACE | 
 court of gentiles in Jerusalem temple (121:2.5)
 in times of Jesus; religions of (121:3,5)
 Jews
@@ -313,7 +309,7 @@ Jews
 gentleness | | | | 
 fruit of the Spirit (34:6.13)
 
-geography | | See also climate; continents; mountains; oceans; rivers | | 
+geography | | climate; continents; mountains; oceans; rivers | | 
 China protected by its geography (79:6.12-13)
 India did not achieve hegemony due to its topography (79:2.5)
 influential in determining peace or war (81:6.5)
@@ -361,7 +357,7 @@ geologic ages | (59:0.1-6) | | |
 	Holocene (post-glacial period)
 		35,000 years ago to the present (61:7.18)
 
-geology | | See also fossils; geologic ages; rocks and minerals | | 
+geology | | fossils; geologic ages; rocks and minerals | | 
 million-year cycle of rise and fall of continents (60:4.1)
 rock layers extensively commingled (57:8.11) (58:7.1,6)
 stone book (58:7)
@@ -372,9 +368,9 @@ after Melchizedek’s departure, Abraham moved to (93:9.2-3)
 Gerasa | (128:3.2) (134:9.1) (138:9.3) (144:7.1) (152:7.1) (159:0.2) (165:0.1) (166:3) | | PLACE | 
 City in the Galilee sea shore, laso known as 
 
-Gerizim | | See Mount Gerizim | PLACE | 
+Gerizim | | Mount Gerizim | PLACE | 
 
-germ plasm | | See life plasm | | 
+germ plasm | | life plasm | | 
 
 Germany | (59:4.8) (60:1.4) (60:2.6) | | PLACE | 
 Nordic-Danish, and Danubian-Andonite racial groups (80:9.3)
@@ -482,14 +478,14 @@ Judas hung himself with (186:1.7)
 Gischala | (138:9.3) (146:4.6) (156:6.3) | | PLACE | 
 Place near Galilee sea where Jesus preached
 
-glaciers | | See also ice ages | | 
+glaciers | | ice ages | | 
 appearance in Permian (59:6.6)
 discrepancies in reckoning (64:1.4)
 in Siberia (64:4.5)
 land elevation produces (57:8.22) (61:2.3) (61:5.1-2)
 topographic results of (61:7.1)
 
-glands, ductless | | See also hormones | | 
+glands, ductless | | hormones | | 
 1-, 2-, and 3-gland planetary types (49:5.19-20)
 chemical reactions resulting from (65:6.6)
 gland chemistry influences imagination, spiritual receptivity (49:5.19)
@@ -507,7 +503,7 @@ gnats | | | |
 straining at gnats (156:2.8) (185:0.4)
 straining out gnats while swallowing camel (175:1.17)
 
-goals | | See also ambitions; consecration of choice; destiny; progress; self-realization; will | | 
+goals | | ambitions; consecration of choice; destiny; progress; self-realization; will | | 
 achieving goals
 	ascenders never denied transient satisfaction of goal attainment (39:4.7) (44:8.3-5) (118:0.10,12)
 	assistance to achieve goals freely provided (4:3.5)
@@ -533,7 +529,7 @@ persons can pass judgment on worth-whileness of goals (16:7.2-4)
 rather than creeds should unify religionists (99:5.7)
 spiritual destiny conditioned by (156:5.9)
 supreme goals
-	achieving perfection | See perfection: attainment
+	achieving perfection | perfection: attainment
 	Ascendington is ultimate status sphere (13:0.6)
 	attainment of supreme, then ultimate (0:7.10) (0:9.1)
 	attuning to divinity of indwelling Adjuster (110:3.4)
@@ -562,11 +558,11 @@ Nodites imported (80:1.2)
 Gobi | | | PLACE | 
 open grassland in Andite days (79:1.2)
 
-God | (1) (2) (3) (4) (5) | See also Deity; I AM; Infinite; Paradise Trinity; Universal Father | PERSON | OK
+God | (1) (2) (3) (4) (5) | Deity; I AM; Infinite; Paradise Trinity; Universal Father | PERSON | OK
 and nature (4:2.5) (131:1.5)
 creation of energy and life is prerogative of God; both flow out to all creation (42:1.5)
 all men are children of God (2:5.4) (40:6) (99:5.5)
-Creator Sons are God in their local universes (33:1.4) | See also Michael of Nebadon: description: God of our creation
+Creator Sons are God in their local universes (33:1.4) | Michael of Nebadon: description: God of our creation
 discernably present only on Paradise and in Havona (3:1.6)
 literally present on Paradise (11:1)
 divine qualities perfectly unified in (44:7.4)
@@ -574,7 +570,7 @@ eventuates as a superperson, creates as a person, and fragments as a preperson (
 evolution of God concept (97) (5:4.9-13) (5:5.12)(142:3)
 relation to local universes (32:4)
 functions in non-Father capacities as force, energy, power, causation, reaction, potentiality, actuality, gravity, tension, pattern, principle, and unity (104:2.6)
-God fragments | See Thought Adjusters
+God fragments | Thought Adjusters
 term “God”
 	always denotes personality (0:2)
 	approach to supreme reality (100:3.2)
@@ -582,7 +578,7 @@ term “God”
 	infinite concept of Father (0:2.9) (1:7.1) (169:4.7)
 	reality of values, substance of meanings, life of truth (5:4.2)
 	theologic definitions must change with each epoch (5:5.12)
-also known as | See also Deity: also known as; Universal Father: also known as
+also known as | Deity: also known as; Universal Father: also known as
 	* Adonai (96:1.9)
 	* Allah (95:7.6)
 	* Ancient of Days (96:1.9)
@@ -612,7 +608,7 @@ also known as | See also Deity: also known as; Universal Father: also known as
 	* Supreme Rulers (46:8.4) (50:1.2) (53:2.4) (54:1.9) (54:3.1) (54:4.5) (65:8.2)
 	* Unknown (64:6.26)
 	* Value-Giver (16:8.14)
-consciousness of God (0:2.2) (5:2) (8:5) | See also spiritual communion
+consciousness of God (0:2.2) (5:2) (8:5) | spiritual communion
 	best discovered in communion with Adjuster (5:2.3)
 	determining factor in all conduct (95:4.2)
 	experience remains the same over generations (5:5.12)
@@ -638,12 +634,12 @@ consciousness of God (0:2.2) (5:2) (8:5) | See also spiritual communion
 		more real than fellow beings (16:9.4)
 		resident in Adjuster (196:3.23,25)
 		we shall one day see God face to face (5:1.9)
-finding God | See also faith; spiritual growth
+finding God | faith; spiritual growth
 	all man’s endowments must be consecrated to (1:6.5)
 	approach to God (5:1)
 	begins by recognizing divinity of Creator Son (0:8.9)
 	believe in God because of human experience or revelation of truth (101:2.6)
-	by faith alone (32:3.6) (101:8.1) (102:6.5) | See also faith
+	by faith alone (32:3.6) (101:8.1) (102:6.5) | faith
 	by rebound momentum of Thought Adjusters (56:4.1)
 	by recognizing truth, beauty, goodness, God of love, comprehension of Supreme (56:6.3)
 	cannot find God through science (1:2.7) (42:1.3) (133:6.7)
@@ -655,7 +651,7 @@ finding God | See also faith; spiritual growth
 	failure in Deity adventure remands to universes; second attempt always successful (25:8.9) (26:8.3-5)
 	faith reveals God in the soul (101:2.10)
 	few have found God on Paradise (11:1.3)
-	finding God by submission to spirit | See submission
+	finding God by submission to spirit | submission
 	from experiences of living or contact with those who know God (132:7.2)
 	God as Father takes precedence over all phases of Deity (4:4.5-6) (54:6.2) (196:3.35)
 	God cannot be plural to personality (56:4.4-5)
@@ -692,7 +688,7 @@ finding God | See also faith; spiritual growth
 	through soul’s contemplation of inner spiritual reality (5:0.1)
 	we know God because we trust him (102:1.5)
 	growth of God comprehension in light and life (56:7.1-2,5) (142:2.2-4) (142:3) (159:4)
-God’s nature (2) | See also beauty; goodness; justice: divine justice; mercy; omnipotence; omniscience; truth
+God’s nature (2) | beauty; goodness; justice: divine justice; mercy; omnipotence; omniscience; truth
 	all things consist in God (0:3.11) (3:1.7) (3:5.4) (3:6) (9:0.4) (11:8.1) (16:9.14) (42:1.2,6) (56:1.5) (56:9.14) (104:4.46) (131:10.2,4)
 	all things are possible with God (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
 	all true love is from God (117:6.10)
@@ -704,7 +700,7 @@ God’s nature (2) | See also beauty; goodness; justice: divine justice; mercy; 
 	energy infinity (3:2.3) (42:2.21)
 	enjoys expansions of self-realization (1:5.14-16)
 	gives his children spirit and blessings (131:10.3) (144:2.4)
-	good (2:6) (28:6.21) | See also goodness: of God
+	good (2:6) (28:6.21) | goodness: of God
 	guides man without self-assertion (131:8.3)
 	has set up tensions in creations circling Paradise (117:4.14)
 	in him we live and move and have our being (1:1.2) (1:5.16) (2:1.11) (3:1.2,4) (12:7.12) (16:9.14) (111:5.2) (141:2.1) (174:3.2)
@@ -713,7 +709,7 @@ God’s nature (2) | See also beauty; goodness; justice: divine justice; mercy; 
 	is Father (4:4.5) (54:6.2) (56:4.4) (141:4.1) (196:3.35)
 	is love (1:3.8) (2:5.1,10) (6:3) (8:4.2) (54:4.6) (56:10.20) (130:1.5) (134:4.1) (160:5.11)
 	just and righteous (2:3)
-	laws of | See law: divine
+	laws of | law: divine
 	lover of mankind, helper of the distressed (12:7.8) (131:4.4) (131:5.3) (193:0.3)
 	merciful (2:4) (12:7.1)
 	most inescapable of all presences (102:7.10) (133:4.1)
@@ -723,14 +719,14 @@ God’s nature (2) | See also beauty; goodness; justice: divine justice; mercy; 
 	no respecter of persons (1:4.6) (2:3.1) (3:1.12) (12:7.1,8) (40:10.5,13) (64:6.27) (112:0.12) (117:6.22) (133:0.3) (137:8.6) (138:8.2) (140:3.16) (143:1.5) (148:6.2) (155:6.2) (156:2.4) (166:4.11) (175:2.1-3) (181:2.14) (192:2.2)
 	none is good but God (196:0.9) (196:2.2)
 	nothing separates us from love of (100:6.6)
-	omnipotence of God | See omnipotence
-	omniscience of God | See omniscience
+	omnipotence of God | omnipotence
+	omniscience of God | omniscience
 	one and only self-caused fact in universe (102:7.1-3)
 	personal (102:1.6) (102:7.3) (103:1.6)
 	primal, personal as Father (0:3.9-11)
 	highest concept is as primal and infinite personality (2:0.1)
 	infinite (1:3.1) (1:5.1) (1:7.7) (2:1)
-	purpose of God | See divine plan
+	purpose of God | divine plan
 	source, nature, and destiny of other-mindness (102:4.3)
 	source, destiny of all that is good, beautiful, true (130:2.7)
 	spirit (1:3.1,8) (6:1.2) (6:2.6) (9:2.1) (12:8.1) (134:4.2,7) (143:5.6) (160:5.11) (169:4.2,6)
@@ -764,7 +760,7 @@ misconceptions about God (1:2.2) (4:5) (12:7.6) (102:6.3) (188:4.8) (188:5.1,11)
 	to understand God one must explore facts (102:6.6)
 	what God is to science, philosophy, and religion (102:6.8)
 
-God of Action | | See Infinite Spirit | PERSON | OK
+God of Action | | Infinite Spirit | PERSON | OK
 
 God the Absolute | (0:10.1-2) | | PERSON | OK
 Deity Absolute experiences identity with Unqualified Absolute in (0:2.18)
@@ -776,7 +772,7 @@ defined as
 	experientializing God of transcended superpersonal values, existential as Deity Absolute (0:2.18)
 	personality consequence of final function of Trinity Absolute (0:10.1) (106:8.16)
 
-God the Father | | See Universal Father | PERSON | OK
+God the Father | | Universal Father | PERSON | OK
 
 God the Sevenfold | (0:8) (56:5.3) (56:6.1) (116:2) | | PERSON | OK
 comprised of (56:5.3) (116:2.4-11)
@@ -802,13 +798,13 @@ function
 	Seven Master Spirits co-ordinate activities of (17:8.3)
 	source of universe’s relative unity (106:1.4)
 
-God the Son | | See Eternal Son | PERSON | OK
+God the Son | | Eternal Son | PERSON | OK
 
-God the Spirit | | See Infinite Spirit | PERSON | OK
+God the Spirit | | Infinite Spirit | PERSON | OK
 
-God the Supreme | | See Supreme, the | PERSON | OK
+God the Supreme | | Supreme, the | PERSON | OK
 
-God the Ultimate | (0:9) | See also reality: levels of reality: absonite reality | PERSON | OK
+God the Ultimate | (0:9) | reality: levels of reality: absonite reality | PERSON | OK
 3 Absolutes are co-ordinated in (56:9.1)
 Adjuster is secret of personal realization of (101:6.2)
 foreshadows transcendental overcontrol in later stage of universe light and life (56:7.5)
@@ -846,13 +842,13 @@ future
 Godad | | | PERSON | OK
 hermit to whom Gautama should have listened (94:7.4)
 
-Godheads | | See Eternal Son; Infinite Spirit; Universal Father | PERSON | OK
+Godheads | | Eternal Son; Infinite Spirit; Universal Father | PERSON | OK
 Refers to
 	# Universal Father
 	# Eternal Son
 	# Infinite Spirit
 
-Godlikeness | | See spiritual growth | | 
+Godlikeness | | spiritual growth | | 
 
 gods and goddesses | | | PERSON | OK
 evolution
@@ -863,7 +859,7 @@ evolution
 	false gods in man’s image (196:3.23)
 	progress of science adds to mortality of false (102:6.1)
 names
-	named | See Agni; Ahura-Mazda; Anu; Aphrodite; Apollo; Artemis; Ashtoreth; Ashur; Astarte; Aton; Attis; Augustus (Emperor); Baal; banshees; Bel; Bel-Marduk; Brahma; Brahman; brownies; Buddha; centaurs; Chemosh; Cybele; Dagon; Daphne; Devouress; Dionysus; dragon; dwarfs; Dyaus pitar; Ea; El; El Shaddai; fairies; Fate; fates; Great Mother cult; Hestia; Horus; Indra; Ishtar; Isis; Jehovah; Juno; Jupiter; Marduk; Mars; mermaids; Minerva; Mithras; Nabu; Neptune; Nereids; Nile god; Nog; Osiris; Pandora; Prajapati; Prometheus; Ramman; Sakyamuni Buddha; Set; Shamash; Shang-ti; Sin (god); Siva; Sol Invictus; Soma; Thor; Thoth; Trimurti; Venus; Vesta; Vishnu; Yahweh; Zeus
+	named | Agni; Ahura-Mazda; Anu; Aphrodite; Apollo; Artemis; Ashtoreth; Ashur; Astarte; Aton; Attis; Augustus (Emperor); Baal; banshees; Bel; Bel-Marduk; Brahma; Brahman; brownies; Buddha; centaurs; Chemosh; Cybele; Dagon; Daphne; Devouress; Dionysus; dragon; dwarfs; Dyaus pitar; Ea; El; El Shaddai; fairies; Fate; fates; Great Mother cult; Hestia; Horus; Indra; Ishtar; Isis; Jehovah; Juno; Jupiter; Marduk; Mars; mermaids; Minerva; Mithras; Nabu; Neptune; Nereids; Nile god; Nog; Osiris; Pandora; Prajapati; Prometheus; Ramman; Sakyamuni Buddha; Set; Shamash; Shang-ti; Sin (god); Siva; Sol Invictus; Soma; Thor; Thoth; Trimurti; Venus; Vesta; Vishnu; Yahweh; Zeus
 
 gold | | | | 
 first metal sought by man (81:3.4-5)
@@ -872,7 +868,7 @@ product of lava flows in Sierras (60:3.3)
 when he tries me, I shall come forth as (3:3.2)
 
 golden age | | | | 
-ages of light and life | See light and life
+ages of light and life | light and life
 erroneous belief in onetime existence of g.a.; discouraging belief (68:1.7) (74:8.13-14)
 terrible antisocial conditions for primitives (81:5.4)
 times of Onagar were golden age for primitive man (63:6.9)
@@ -882,7 +878,7 @@ golden calves | | | |
 olden symbol of Yahweh plagued Moses (96:4.3)
 symbolized Bedouin herders’ concept of Sinai volcano (96:1.12) (96:5.8)
 
-golden rule | (52:5.8) (101:8.4) | See also commandments | | 
+golden rule | (52:5.8) (101:8.4) | commandments | | 
 adherents must maintain adequate defense (71:4.16-17)
 Andonites were taught (70:1.2)
 based on infinite worth of finite (196:2.10)
@@ -916,9 +912,9 @@ Gonod | | | PERSON | OK
 Indian businessman with whom Jesus journeyed to Rome (130) (132) (133) (129:2.9)
 3 trips to China (130:0.6)
 
-good | | See goodness | | 
+good | | goodness | | 
 
-good news | | See gospel | | 
+good news | | gospel | | 
 
 good Samaritan | | | | 
 parable of (164:1)
@@ -927,8 +923,8 @@ good shepherd | | | |
 Jesus was (182:1.16)
 sermon on (165:1.2) (165:2)
 
-goodness | | See also truth, beauty, and goodness | | 
-all things work together for good (4:1.4,11) (10:7.5-6) (48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1) | See also providence
+goodness | | truth, beauty, and goodness | | 
+all things work together for good (4:1.4,11) (10:7.5-6) (48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1) | providence
 and evil (4:2.6) (130:1.5-6) (132:2) (159:5.10)
 attempted service of goodness no substitute for religious experience (196:3.23)
 basing life on highest consciousness of (110:3.7)
@@ -982,10 +978,10 @@ gophers | (61:2.7) | | |
 Gophna | (143:0.1) | | PLACE | 
 Jesus prechead to this people
 
-gorillas | (61:3.12) (62:5.2) | See also simians | | 
+gorillas | (61:3.12) (62:5.2) | simians | | 
 retarded mid-mammals were ancestors of (62:3.12)
 
-gospel | | See also faith sons of God; Jesus: teachings; kingdom of heaven; religion; truth | RELIGION | 
+gospel | | faith sons of God; Jesus: teachings; kingdom of heaven; religion; truth | RELIGION | 
 acceptance of gospel immediately improves home life (177:2.6)
 believers must love gospel more than mother, father, wife, husband, children, or siblings (150:4.3) (163:3.4) (171:2.2)
 believers undependable unless gospel experienced in heart (177:5.2)
@@ -995,16 +991,16 @@ difficult to perpetuate prior to printing (93:7.4)
 do not try to fit into old forms of religious belief (138:5.2) (140:6.2) (147:7.2-3)
 dominated by truth conviction (180:5.12)
 evidence of belief in gospel is love shown to one another (182:1.6)
-explained | See also religion: explained
+explained | religion: explained
 	applies to individual, not state (140:8.5) (145:2.10)
 	by faith every mortal may have salvation (140:10.9)
 	by faith becoming spirit-conscious of sonship with God (140:10.4,7)(141:4.2)(142:3.8)(181:2.12,18)(186:5.4)
 	cardinal features (170:4.8-13)
 		sacredness of the individual (138:8.9) (140:8.11) (140:10.5) (144:6.3) (170:3.10-11) (170:4.9) (171:7.4) (194:3.7) (195:1.1)
-		satisfactions of loving service (170:4.12) | See also service
-		spiritual fellowship with Father (170:4.11) | See also spiritual communion; spiritual growth; spiritual rebirth
+		satisfactions of loving service (170:4.12) | service
+		spiritual fellowship with Father (170:4.11) | spiritual communion; spiritual growth; spiritual rebirth
 		spiritual is transcendent over the material (170:4.13).
-		will as determining factor (170:4.10) | See also consecration of choice; decisions; will
+		will as determining factor (170:4.10) | consecration of choice; decisions; will
 	divine sonship, spiritual liberty, eternal salvation (152:5.6)
 	fasting not part of (147:7.2)
 	fatherhood of God, sonship-brotherhood of men (92:5.16) (94:4.10) (132:4.2) (142:7.4) (143:1.7) (143:6.6) (149:2.4) (191:4.4) (192:4.7) (193:0.4) (194:0.3-4) (195:10.21)
@@ -1031,9 +1027,9 @@ Jesus dwells in all who believe his gospel (164:5.3)
 left as Jesus presented, all religions would have accepted (149:2.1)
 loyalty to gospel dependent on sound early home training (177:2.2)
 Melchizedek receivers proclaimed gospel to Adam (76:5.1)
-messengers | See apostles of Jesus; disciples; evangelists, the seventy; messenger corps (David Zebedee’s)
+messengers | apostles of Jesus; disciples; evangelists, the seventy; messenger corps (David Zebedee’s)
 must show increasing vitality, depth of spiritual power (178:1.15)
-proclaiming the gospel | See also government: believers’ relation to; kingdom of heaven: establishment
+proclaiming the gospel | government: believers’ relation to; kingdom of heaven: establishment
 	accord generous recognition (159:3.3)
 	all Urantia waiting for (94:12.7)
 	allow apostolic teachers to teach own views (148:1.2)
@@ -1101,18 +1097,18 @@ proclaiming the gospel | See also government: believers’ relation to; kingdom 
 	whet appetites of associates for truth (48:7.16)
 will triumph and be proclaimed to all nations (142:2.2) (143:1.4) (176:1.1)
 
-Gospel of John | | See John Zebedee: Gospel of John | | 
+Gospel of John | | John Zebedee: Gospel of John | | 
 
-Gospel of Luke | | See Luke: Gospel of Luke | | 
+Gospel of Luke | | Luke: Gospel of Luke | | 
 
-Gospel of Mark | | See John Mark: Gospel of Mark | | 
+Gospel of Mark | | John Mark: Gospel of Mark | | 
 
-Gospel of Matthew | | See Matthew Levi: Gospel of Matthew | | 
+Gospel of Matthew | | Matthew Levi: Gospel of Matthew | | 
 
 gossip | | | | 
 speak not hearsay (138:8.4)
 
-government | | See also civilization; continental nation; courts; institutions; legislatures; nations; patriotism; police; regulation (governmental); sovereignty; taxation | | 
+government | | civilization; continental nation; courts; institutions; legislatures; nations; patriotism; police; regulation (governmental); sovereignty; taxation | | 
 Adam failed to establish government outside Eden (74:5.5-7)
 believers’ relation to
 	afford no stumbling block (157:1.2,4)
@@ -1127,7 +1123,7 @@ believers’ relation to
 	responsibility and morality of cosmic citizenship (39:4.9)
 	seek to win all parties; not be of any (137:7.5,12)
 	spirit will teach believers how to answer judges (176:1.1)
-celestial government | See also Urantia: celestial government
+celestial government | Urantia: celestial government
 	affairs of all worlds divinely supervised (3:1.1)
 	Father rules through his Sons (3:5.1-2)
 	levels of, assigned special domains of responsibility (33:6.3)
@@ -1138,7 +1134,7 @@ democracy
 	dangers of (71:2.1-6)
 	elections are right way even to do wrong thing (71:2.8)
 	fetish made of (88:3.4)
-history of government (70) (71) | See also civilization
+history of government (70) (71) | civilization
 	abolition of slavery (71:8.5)
 	ancient administrations only changed by civil war (70:7.17)
 	beginnings (70:5)
@@ -1160,7 +1156,7 @@ history of government (70) (71) | See also civilization
 lower social orders no longer politically helpless (99:1.5)
 mortal chief executives in light and life (55:4.15)
 Most Highs rule in kingdoms of men (3:5.2) (43:3.4) (43:9.4) (50:2.6) (52:3.11) (97:8.5) (134:5.4) (136:9.6) (175:1.8) (175:3.2)
-principles of government (70) (71) (72) | See also competition; courts; human rights; industry; justice; law; military; profit; taxation
+principles of government (70) (71) (72) | competition; courts; human rights; industry; justice; law; military; profit; taxation
 	abolition of slavery (71:2.10)
 	adjudication is highest function of government (22:4.3)
 	best government is balance of power between executive, legislative, and judicial branches (70:12.1) (71:8.1)
@@ -1209,7 +1205,7 @@ principles of government (70) (71) (72) | See also competition; courts; human ri
 	sex equality (71:8.10)
 	should foster science, vanquish disease (71:8.9,11)
 	should provide fair, peaceful opportunities to all (70:9.17)
-	social welfare programs | See charity: by government
+	social welfare programs | charity: by government
 	stages to evolution of government; freedoms required (71:2.9-19) (71:8.2-15)
 	strongest state has common language, mores, and institutions (71:1.1)
 	system is of value only if it enhances welfare of individual and mankind (134:5.2)
@@ -1230,7 +1226,7 @@ principles of government (70) (71) (72) | See also competition; courts; human ri
 		oppressive taxation and regulation interferes with individual liberties (70:12.15) (134:6.10)
 		secularism sells man into bondage to totalitarianism (195:8.4)
 		separate church and state (70:1.14) (70:12.17) (71:8.4) (72:3.6) (178:1.9)
-		subnormal man should be kept under society’s control (68:6.11) | See also eugenics; inferiors
+		subnormal man should be kept under society’s control (68:6.11) | eugenics; inferiors
 		why Roman Empire declined (71:1.22) (195:3.8-9)
 		wise nation knows when to cease growing (81:6.12)
 self-government
@@ -1247,11 +1243,11 @@ world government
 	sovereignty of mankind as a whole (134:5.2,5)
 	true democracy under (134:6.11)
 
-governor general | | See resident governors general | | 
+governor general | | resident governors general | | 
 
-governors of advanced tribal relations | | See Caligastia one hundred | | 
+governors of advanced tribal relations | | Caligastia one hundred | | 
 
-grace (God’s mercy) | | See also mercy | | 
+grace (God’s mercy) | | mercy | | 
 advancement in all phases of religious experience (102:2.4)
 and individual effort achieve perfection (32:3.9)
 become God’s sons by (144:4.3) (144:5.13)
@@ -1298,7 +1294,7 @@ Grand Canyon | (58:7.5) | | PLACE |
 Grand Lama | | | | 
 Tibetan religious leader (94:10.2)
 
-grand universe | | See also master universe; superuniverses, the seven; universe | PLACE | 
+grand universe | | master universe; superuniverses, the seven; universe | PLACE | 
 7 superuniverses plus Havona (0:0.6) (12:1.13) (15:2.9)
 Ancients of Days and Seven Master Spirits are eternally fixed as administrators of (0:8.11)
 dependent on future universes of outer space for finite transcendence (117:6.20)
@@ -1333,15 +1329,15 @@ Jeremiah on sour (145:2.5-6)
 grass | (60:3.19) (61:3.2) | | | 
 God clothes (165:5.3)
 
-gratification | | See self-gratification | | 
+gratification | | self-gratification | | 
 
 gravel | | | | 
 Carboniferous deposits (59:5.10)
 
-graves | | See also tombs | | 
+graves | | tombs | | 
 first land titles granted for (69:9.14)
 
-gravita | | See also energy; Universe Power Directors | | 
+gravita | | energy; Universe Power Directors | | 
 30 energy systems comprise (15:8.2) (29:2.13-15)
 also known as universe power (0:6.7)
 constitution of material organizations in superuniverses (11:8.7) (42:5.6)
@@ -1351,7 +1347,7 @@ power centers and physical controllers partially control (15:8.2) (29:2.13-15)
 responds to Paradise gravity (0:6.7)
 working energy useful to superuniverses (42:2.14-15)
 
-gravity | | See also antigravity | | 
+gravity | | antigravity | | 
 characteristics
 	absolute circuits of personality, spirit, mind, and energymatter (12:3.1-4) (15:9.1-2)
 	absolute presence circuits independent of time and space (12:3.6) (42:11.4)
@@ -1429,7 +1425,7 @@ types of gravity
 		swing of eternal circle of universe (41:9.2)
 		ultimata not responsive to (15:4.1)
 		ultimatons responsive to (41:9.2) (42:6.3)
-	personality gravity | See personality circuit
+	personality gravity | personality circuit
 	spirit gravity (3:1.6) (7:1) (12:3.9)
 		adequate for an unlimited universe (6:4.1)
 		as real and absolute as material gravity (7:1.3) (12:8.4)
@@ -1452,7 +1448,7 @@ types of gravity
 		spirit presence of Eternal Son is channel of all spirit communion (194:2.12)
 		transmits genuine prayers (7:3.3)
 
-gravity energy | | See also energy; ultimata | | 
+gravity energy | | energy; ultimata | | 
 2nd phase of transmutation of segregata into universe power (42:2.12)
 brought into being by Associate Transcendental Master Force Organizers (42:2.12)
 Paradise gravity-responding energy, ancestor of all matter; form of ultimata (42:2.12)
@@ -1474,21 +1470,21 @@ without discoverable form (42:12.10)
 Great Beyond | | | RACE | 
 Onagar’s concept of the hereafter (63:6.7)
 
-Great Britain | | See British Isles | PLACE | 
+Great Britain | | British Isles | PLACE | 
 
-great commandment | (174:4) | See also commandments | | 
+great commandment | (174:4) | commandments | | 
 
 Great Lakes | | | PLACE | 
 created in ice age (61:7.10)
 
-Great Mother cult | | See Mother of God cult | RACE | 
+Great Mother cult | | Mother of God cult | RACE | 
 
-Great Pyramid | | See pyramids | | 
+Great Pyramid | | pyramids | | 
 
 Great River | | | | 
 Egyptians expected ka would be waiting on other side (111:0.6)
 
-Great Sources and Centers | | See Eternal Son; Infinite Spirit; Universal Father | | 
+Great Sources and Centers | | Eternal Son; Infinite Spirit; Universal Father | | 
 Refers to
 	Universal Father
 	Eternal Son
@@ -1503,7 +1499,7 @@ parable of (167:2)
 greater, the | | | | 
 seek the g., and the lesser will be found therein (165:5.3)
 
-Greater Road | | See also Buddhism | | 
+Greater Road | | Buddhism | | 
 dual Buddhist concept of God and the Absolute (94:12.2)
 Mahayana Buddhism; progressive doctrine (94:9.4-5)
 
@@ -1522,7 +1518,7 @@ worldly greatness
 	apostles desired preference (138:7.1) (158:4.4) (158:6.2-3) (158:8.1) (171:0.6) (179:1) (179:3.9)
 	refrain from contending for greatness (179:1) (179:5.7)
 
-Greece | (98:1) | See also Athens; Corinth; Greeks | PLACE | 
+Greece | (98:1) | Athens; Corinth; Greeks | PLACE | 
 Greek history
 	Andrew crucified in Achaia (139:1.12)
 	art and genius was direct legacy of Adamson and Ratta (77:5.10) (80:7.5)
@@ -1543,7 +1539,7 @@ Greek language
 	spoken by better strata of Jews in times of Jesus (121:6.2)
 	translation of Hebrew scriptures into Greek (123:0.3) (123:3.1) (126:5.6) (150:8.1)
 	widespread in times of Jesus (121:1.1,5)
-Greek religion (98:1-2) | See also mystery cults; Platonism
+Greek religion (98:1-2) | mystery cults; Platonism
 	absence of priests and sacred scriptures freed minds (98:1.5) (98:2.7) (98:6.1)
 	advanced ethical system practically without Deity (98:2.11)
 	annual ritual bathing (85:4.1)
@@ -1576,7 +1572,7 @@ Greek religion (98:1-2) | See also mystery cults; Platonism
 	was trivial and venal (98:3.2)
 	watchword was “know yourself” (5:4.8)
 
-Greeks | | See also Greece | RACE | 
+Greeks | | Greece | RACE | 
 backbone of early Christian church (195:3.6)
 carried Christianity to whole Roman Empire (195:0-1)
 contrasted with Jews and Romans (191:5.3)
@@ -1603,7 +1599,7 @@ treated women better than most (84:5.6)
 understood evolutionary character of human progress (74:8.5)
 willing to borrow good ideas (195:1.3)
 
-green race | (64:6.17-20) | See also races | RACE | 
+green race | (64:6.17-20) | races | RACE | 
 destroyed and absorbed remnants of orange race 100,000 years ago (64:6.11,13,18) (64:7.14,16)
 destruction
 	by 15,000 B.C. (78:3.7)
@@ -1631,7 +1627,7 @@ greensand marl | (60:3.9) | | |
 Gregorian calendar | | | | 
 used in Urantia Papers (57:0.1) (126:3.1)
 
-groups | | See also co-operation; family; fellowship of believers; friendship; individual, the; parts and the whole | | 
+groups | | co-operation; family; fellowship of believers; friendship; individual, the; parts and the whole | | 
 3 persons are minimum group (10:2.3) (39:3.6)
 celestial involvement
 	Creator Son rules in relations between groups (32:4.3-4)
@@ -1643,7 +1639,7 @@ celestial involvement
 	identity in spirit beings (23:4.1)
 	Spirit of Truth lessens self-assertiveness of groups (194:3.18)
 	transition from universe phases usually by classes (37:6.5)
-leadership | See also leadership
+leadership | leadership
 	effectiveness of groups depends upon leadership (81:6.37)
 	leadership unfailingly provided for groups (181:2.16)
 legislative and judicial authority vested in (159:1.6)
@@ -1667,7 +1663,7 @@ value of groups
 	spiritual growth stimulated by intimate association with other religionists (100:0.2)
 value of group is square the number involved (133:5.6)
 
-growth | | See also balance; progress; spiritual growth | | 
+growth | | balance; progress; spiritual growth | | 
 finite growth
 	fullness of evolution will exhaust capacity for (117:5.14)
 	terminates with completion of Supreme (117:2.2)
@@ -1702,9 +1698,9 @@ philosophy, religion, and science welded together by wisdom, faith, and experien
 some persons too busy for (100:1.2)
 unification of mathematic logic, mind-reason, and spirit-faith in personality (16:6.10)
 
-grudges | | See revenge | | 
+grudges | | revenge | | 
 
-guardian angels | (113:0-1) | See also guardians of destiny; resurrection; seraphim | ORDER | 
+guardian angels | (113:0-1) | guardians of destiny; resurrection; seraphim | ORDER | 
 after subjects’ death
 	accompany defeated wards if remanded (25:8.10)
 	attend youths in probationary nursery (47:2.6)
@@ -1737,7 +1733,7 @@ technique of service
 	no communication with subjects’ indwelling Adjusters (113:4.5) (113:5.1)
 	physical contacts with mankind are very unusual (113:5.5)
 
-guardians of destiny | (113) (39:8.5-8) | See also guardian angels; resurrection; seraphim | ORDER | 
+guardians of destiny | (113) (39:8.5-8) | guardian angels; resurrection; seraphim | ORDER | 
 after subjects’ death
 	custodians of mind patterns and soul realities between death and resurrection (113:3.4) (113:6.1,5)
 	forever in communication with former wards (113:7.6)
@@ -1772,11 +1768,11 @@ technique of service
 	ministry more effective in light and life (55:4.2) (55:6.4)
 	statement in extenuation of difficulties (111:7.4-5)
 
-guardians of health and life | | See Caligastia one hundred | PERSON | 
+guardians of health and life | | Caligastia one hundred | PERSON | 
 
-guests | | See hospitality | | 
+guests | | hospitality | | 
 
-guilt | | See also forgiveness; shame; sin | | 
+guilt | | forgiveness; shame; sin | | 
 arises from
 	failure to resolve ego contentions (103:5.4)
 	interrupted spiritual communion, lowering moral ideals (103:4.3)

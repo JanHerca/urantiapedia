@@ -92,6 +92,11 @@ mysqldump --port=<puerto> --user=<user> --password=<password> <nombre_bd> > dump
 
 ---
 
+## Filtros comunes en VS Code
+
+\| [A-Z]+ \| tienen tipo
+\| OK\r?$ revisadas
+\| [A-Z]+ \|.\r?$ tipo no revisadas
 
 ## Referencias
 

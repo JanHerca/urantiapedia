@@ -1,16 +1,12 @@
 ####################################################################################
 #
 #                     E
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
 
 Ea | | | PERSON | OK
 Dios mesopotámico del mar (95:1.4)
@@ -19,7 +15,7 @@ Dios mesopotámico del mar (95:1.4)
 descendiente de enormes reptiles antiguos (65:2.9)
 se levantarán con alas como (97:7.8)
 
-ganarse la vida | | Ver logro; carreras; iniciativa; labor; sobreespecialización; pobreza; desempleo; riqueza | | 
+ganarse la vida | | logro; carreras; iniciativa; labor; sobreespecialización; pobreza; desempleo; riqueza | | 
 apóstoles organizados para proporcionar todo lo necesario (138:7.4) (138:8.6)
 estar contento con el salario (135:6.8)
 las necesidades económicas atan al hombre con la realidad (99:7.5)
@@ -36,7 +32,7 @@ los salarios cayeron a 25 ¢ / día en Nazaret (126:5.5)
 trabajar persistentemente para mejorar la vida (148:5.3) (149:5.3)
 salarios de los trabajadores en la nación continental (72:5.8-9)
 
-La Tierra | | Ver Urantia | | 
+La Tierra | | Urantia | | 
 
 terremotos | (59:3.6) | | | 
 edad de terremotos fue de mil millones a 650 millones de años (57:8)
@@ -50,7 +46,7 @@ todavía promedian 15 diarios (57:8.15)
 
 lombrices de tierra | (65:2.5) | | | 
 
-facilidad | | Ver ociosidad; indolencia; ocio; relajación | | 
+facilidad | | ociosidad; indolencia; ocio; relajación | | 
 aceptar la guía seráfica rara vez significa la vida de (113:4.3)
 los hombres no progresan en un entorno de (154:2.5)
 buscar facilidad es el rasgo animal que la carrera morontial erradica (48:5.8)
@@ -64,7 +60,7 @@ centro de polinesios anditas modificados (78:5.7)
 
 Ghates orientales | (79:3.6) | | PLACE | 
 
-comiendo | | Ver comida | | 
+comiendo | | comida | | 
 
 Ebal | (126:1.2) | | PLACE | 
 monte visible desde Nazaret
@@ -82,7 +78,7 @@ ejemplifica el platonismo y el estoicismo (121:6.3)
 reacción francamente pesimista a la creencia en la Providencia (97:8.2)
 la carrera no es para los veloces (86:1.6)
 
-eclesiástico | | Ver sacerdotes | | 
+eclesiástico | | sacerdotes | | 
 incompatible con la fe viva (195:10.8)
 
 equinodermos | (59:3.11) (59:5.8) | | | 
@@ -91,21 +87,21 @@ eclipses | | | |
 Los nórdicos creían que era causado por el lobo (85:3.4)
 Tenskwatawa predijo un eclipse en 1808 (90:2.9)
 
-éxtasis (religioso) | | Ver emociones; alegría | | 
+éxtasis (religioso) | | emociones; alegría | | 
 genuino éxtasis generalmente asociado con la calma exterior (91:7.3)
 a menudo consecuencia de influencias puramente emocionales (91:7.3-4)
 validaciones prácticas (91:7.5-12)
 
-Edén (jardín) | | Ver Jardín del Edén | PLACE | 
+Edén (jardín) | | Jardín del Edén | PLACE | 
 
 liga edénica | | | | 
 Federación de Adán en el Jardín (74:5.5)
 
-Enseñanzas edénicas | | Ver Jardín del Edén:enseñanzas | | 
+Enseñanzas edénicas | | Jardín del Edén:enseñanzas | | 
 
-edenitas | | Ver Jardín del Edén | RACE | 
+edenitas | | Jardín del Edén | RACE | 
 
-Edentia | (43:1) | Ver constelaciones; Altísimos de Norlatiadek | PLACE | 
+Edentia | (43:1) | constelaciones; Altísimos de Norlatiadek | PLACE | 
 después de la rebelión de Satania, los archirrebeldes continuaron asistiendo a los cónclaves el (43:4.7)
 construcción (32:2.3)
 descripción
@@ -145,7 +141,7 @@ Edrei | (159:0.2) (165:0.1) | | PLACE |
 instrucción para maestros y creyentes en (159:3)
 Una de las poblaciones recorridas en la misisón de Perea
 
-educación | (71:7) | Ver ignorancia; conocimiento; profesores | | 
+educación | (71:7) | ignorancia; conocimiento; profesores | | 
 apóstoles no iguales por la escolarización (139:0.3-4)
 los apóstoles estudiaron 3 horas todas las noches (137:6.5) (137:7.14)
 crecimiento indicado por la mejora de ideales, valores (100:1.3)
@@ -237,7 +233,7 @@ advertencias
 Constructores de edificios educativos; constructores de edificios educativos | | | | 
 Constructores Divinos, Artesanos Celestiales (44:3.6)
 
-efectos | | Ver causalidad | | 
+efectos | | causalidad | | 
 
 eficiencia | | | | 
 Deidades no dadas a la duplicación inútil del ministerio (6:4.2)
@@ -245,7 +241,7 @@ la eficiencia mental surge de la unificación de la mente y el espíritu (100:4.
 
 efigies | (88:5.3) | | | 
 
-esfuerzo | | Ver acción | | 
+esfuerzo | | acción | | 
 los ascendentes aprenden un esfuerzo mental real en Havona (26:7.1)
 esencial para la adquisición de valores de supervivencia (50:6.3)
 lealtades no ejercidas para bien sin una lucha (100:4.2)
@@ -256,15 +252,15 @@ reconocimiento indicativo de esfuerzo concedido a todos (20:8.3)
 sigue la recompensa (50:7.3)
 el elemento del yo se agota, no el esfuerzo por lograrlo (48:6.37)
 
-ego | | Ver el yo | | 
+ego | | el yo | | 
 
-egocentrismo | | Ver egoísmo | | 
+egocentrismo | | egoísmo | | 
 la exposición a muchas otras religiones evita (103:1.3)
 Jesús libre de (100:7.3)
 
-egotismo | | Ver egoísmo | | 
+egotismo | | egoísmo | | 
 
-Egipto | | Ver Alejandría; Luxor; Nilo (valle); Tebas | PLACE | 
+Egipto | | Alejandría; Luxor; Nilo (valle); Tebas | PLACE | 
 reforma precisa del calendario hace 7000 años (77:2.12)
 Andita Imhotep erigió las primeras pirámides (80:6.4)
 apariencia de las ciudades (79:1.4)
@@ -272,7 +268,7 @@ en el nivel cultural más bajo hace 15.000 años (80:1.3)
 Niño Jesús llevado a (122:10.4) (123:0.3,6)
 sistemas de castas basados ​​en el color (70:8.11)
 cultura derivada de la región del Éufrates (80:6.2) (80:7.5)
-Egipcios nombrados | Ver Amenemope; Amenjótep III; Esraeon; Akenatón; Moisés; Okhbán; Filón de Alejandría
+Egipcios nombrados | Amenemope; Amenjótep III; Esraeon; Akenatón; Moisés; Okhbán; Filón de Alejandría
 crecimiento del comercio (81:3.1)
 en 15.000 a.C. (78:3.6)
 influencia en el judaísmo (97:8.2)
@@ -332,7 +328,7 @@ Tribu nodita de Elam (76:2.9)
 Eleale | (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
-elecciones | | Ver gobierno | | 
+elecciones | | gobierno | | 
 
 electricidad | | | | 
 el movimiento electrónico da lugar a (42:5.8)
@@ -340,13 +336,13 @@ no es una energía básica del espacio (41:1.2)
 lo mismo que la luz, el calor, el magnetismo, la química, la energía y la materia (42:4.1-2)
 la ciencia nunca puede decir qué electricidad en realidad es (133:5.4)
 
-electrón | (42:3.5) | Ver átomo; materia | | 
+electrón | (42:3.5) | átomo; materia | | 
 10 formas modificadas causadas por pérdidas de ultimatones (42:6.5)
 100 ultimatones en cada electrón (42:3.3) (42:4.6) (42:6.4-5)
 roto a 35,000,000 ° F; fuente de energía solar (41:7.4,12,13)
 comportamiento químico dependiente de que gire libremente electrón (42:7.6-10)
 condensación electrónica de la presión en estrellas densas (41:3.6)
-energía electrónica | Ver gravita
+energía electrónica | gravita
 energía almacenada cuando los ultimatones se agregan en electrones (42:5.4)
 abandona una partícula de energía luminosa al chocar (42:5.6)
 el calor es una medida de actividad de (42:4.5)
@@ -365,14 +361,14 @@ Los Centros Supremos del Poder transmutan ultimatones en electrones (42:4.3)
 tardan 500.000 años en llegar a la superficie del sol (41:5.4)
 La revolución axial ultimatónica determina reacciones negativas o positivas (42:6.6)
 
-elementos (químicos) | | Ver átomo; tabla periódica | | 
+elementos (químicos) | | átomo; tabla periódica | | 
 100 existen en universos locales; 1000 en Havona (14:2.3) (42:7.4-7)
 arriba número 27 son menos predecibles (42:7.10)
 por encima del número 90, los electrones pueden escapar (42:7.9)
 las esferas arquitectónicas tienen 100, como planetas evolucionados, más 100 formas morontiales (48:1.3)
 abundan los mundos arquitectónicos en los llamados preciosos elementos (46:5.31)
 más pesado elemento no se encuentra en la superficie de muchos mundos (42:7.5)
-nombrada | Ver calcio; carbón; cloro; cobre; oro; helio; hidrógeno; hierro (metal); dirigir; nitrógeno; oxígeno; platino; radio; sodio; estaño; uranio; vanadio; zinc
+nombrada | calcio; carbón; cloro; cobre; oro; helio; hidrógeno; hierro (metal); dirigir; nitrógeno; oxígeno; platino; radio; sodio; estaño; uranio; vanadio; zinc
 las propiedades se repiten en grupos de 7 (42:9.2-3)
 elementos radiactivos traído por meteoros (57:7.3)
 transmutación de elementos es fuente de energía solar (41:7.5) (41:8.1)
@@ -459,10 +455,10 @@ Elman | | | PERSON | OK
 Elman era el padre de Nasanta, una de las doce mujeres del cuerpo de mujeres evangelistas de Jesús (150:1.1)
 era médico; y supervisó el hospital de campaña que instalaron los discípulos en Betsaida (148:0.1) (148:2)
 
-Eloah | | Ver Elohim | PERSON | OK
+Eloah | | Elohim | PERSON | OK
 Eloah es el singular de Elohim, que es un plural que significa el «Dios de dioses» (96:1.8)
 
-Elohim | | Ver Eloah | PERSON | OK
+Elohim | | Eloah | PERSON | OK
 Elohim significa para los judíos el «Dios de dioses» (169:4.8)
 Jesús usaba este término cuando quería referirse a la Deidad como Dios, nunca Yahvé (169:4.5)
 el reino judío del norte volvió a la adoración de Elohim, mientras que el del sur lo hizo a Yahvé (97:9.17)
@@ -475,12 +471,12 @@ transición del matrimonio por captura (83:2.2-4)
 embalsamamiento | | | | 
 Práctica egipcia (95:2.4-5)
 
-emergencias | | Ver crisis | | 
+emergencias | | crisis | | 
 
 consejo de emergencia de Edentia | | | PERSON | OK
 este consejo está formado por todas las personalidades que dueron asignadas a Norlatiadek debido a la sublevación de Satania, y está dirigido por el director Altísimo (43:5.14)
 
-energía emergente | | Ver ultimata | | 
+energía emergente | | ultimata | | 
 
 Emaús | | | PLACE | 
 hogar de Cleofás y Jacob; La séptima aparición de Jesús en (190:5.1)
@@ -488,7 +484,7 @@ hogar de Cleofás y Jacob; La séptima aparición de Jesús en (190:5.1)
 diseñadores de las emociones | | | ORDER | 
 Diseñadores y los Embellecedores de Artesanos Celestiales (44:6.5)
 
-emociones | | Ver sentimiento | | 
+emociones | | sentimiento | | 
 despertar emociones en acercamiento a la adoración (167:6.6)
 no apele a las emociones en la proclamación del evangelio (152:6.3) (159:3.2) (160:3.1)
 la vida de los sueños testifica la presión de lo inexpresado (110:5.4)
@@ -505,15 +501,15 @@ los sentimientos materiales conducen directamente a actos materiales egoístas (
 los mamíferos intermedios mostraron miedo, disgusto, superstición (62:3.6,9)
 no es equivalente a la conducción espiritual (159:3.6)
 del hombre primitivo (62:5.4-6)
-emociones particulares | Ver aventura; afectación; afecto; enfado; ansiedad; seguridad; culpa; aburrimiento; cavilaciones; hermandad (actitud); certeza; caridad; quejumbroso; confusión; contención; valor; cortesía; cobardía; curiosidad; derrota; depresión; desesperación; decepción; desánimo; ánimo; entusiasmo; envidia; equívoco; honor; esperanzas; hipocresía; histeria; inmadurez; impaciencia; indolencia; inferioridad; inseguridad; insubordinación; intolerancia; aislamiento; celos; alegría; longanimidad; soledad; amor; lealtad; lujuria; mansedumbre; moderación; modestia; parálisis; paciencia; persistencia; pesimismo; piedad; equilibrio; orgullo; dilación; propiedad; resentimiento; venganza; ridículo; auto-humillación; autoconfianza; autoengaño; abnegación; autogratificación; importancia personal; autocompasión; respeto por uno mismo; egoísmo; vergüenza; dolor; sospecha; simpatía; sensibilidad; tolerancia; infelicidad; vanidad; celo
+emociones particulares | aventura; afectación; afecto; enfado; ansiedad; seguridad; culpa; aburrimiento; cavilaciones; hermandad (actitud); certeza; caridad; quejumbroso; confusión; contención; valor; cortesía; cobardía; curiosidad; derrota; depresión; desesperación; decepción; desánimo; ánimo; entusiasmo; envidia; equívoco; honor; esperanzas; hipocresía; histeria; inmadurez; impaciencia; indolencia; inferioridad; inseguridad; insubordinación; intolerancia; aislamiento; celos; alegría; longanimidad; soledad; amor; lealtad; lujuria; mansedumbre; moderación; modestia; parálisis; paciencia; persistencia; pesimismo; piedad; equilibrio; orgullo; dilación; propiedad; resentimiento; venganza; ridículo; auto-humillación; autoconfianza; autoengaño; abnegación; autogratificación; importancia personal; autocompasión; respeto por uno mismo; egoísmo; vergüenza; dolor; sospecha; simpatía; sensibilidad; tolerancia; infelicidad; vanidad; celo
 la reducción del rendimiento de la tierra o el aumento de la población hacen que afloren los peores rasgos de la naturaleza humana (68:6.4)
 
-adoración al emperador | | Ver Imperio Romano | | 
+adoración al emperador | | Imperio Romano | | 
 deificación del hombre como símbolo del estado; resentido por los judíos (121:5.4)
 las religiones nacionales son una reversión a (92:6.20)
 La promoción fallida de Pilato de (185:1.3-4)
 
-empleo | | Ver labor | | 
+empleo | | labor | | 
 
 vacío | | | | 
 el espacio más vacío tiene 100 ultimatones por pulgada cúbica (42:4.6)
@@ -522,7 +518,7 @@ La virtud es que puede estar lleno de experiencia (117:2.8).
 En-Ganim | (134:7.5) | | PLACE | 
 Un lugar por donde pasó Jesús
 
-encantadores | | Ver chamanes | | 
+encantadores | | chamanes | | 
 
 ánimo | | | | 
 El espíritu es fuente de continuo ánimo (34:6.5)
@@ -540,13 +536,13 @@ sin importancia para los creyentes (176:3.2)
 Endantun | | | PLACE | 
 sede de la constelación 5; sitio del donación mortal morontial de Miguel (119:6.3,6)
 
-endogamia | | Ver matrimonio | | 
+endogamia | | matrimonio | | 
 
 Endor | (123:4.6) (124:1.12) (134:7.5) (146:7) | | PLACE | 
 José, padre de Jesús, trabajó en (123:3.8)
 El rey Saúl y la bruja de (146:7.1)
 
-dotaciones | | Ver herencia | | 
+dotaciones | | herencia | | 
 El Espíritu de la Verdad nos otorga poder para hacer la voluntad de Dios (143:2.4)
 el tiempo es la única dotación universal (28:6.9)
 
@@ -566,23 +562,23 @@ hacer intercesión misericordiosa por la propia enemigos (91:8.7)
 herido por enemigos, poner otra mejilla (159:5.9)
 el sabio es amistoso entre (131:3.6)
 
-el Enemigo | | Ver Caligastia; diablo; Lucifer | PERSON | OK
+el Enemigo | | Caligastia; diablo; Lucifer | PERSON | OK
 Esta es una denominación que alguna vez usó Jesús para Caligastia; advirtió a los apóstoles que intentaría separarlos entre sí (138:7.3)
 
-energía | (42:2) | Ver luz; energía material; materia | | 
+energía | (42:2) | luz; energía material; materia | | 
 circuitos de energia
 	Los carriles de comunicación son circuitos directos entre centros de poder o controladores físicos (29:2.16) (44:4.10)
 	localizado energía movimientos, como Gulf Stream (29:2.15)
 	nunca posesiones permanentes de ascendentes (117:5.7-8)
 	del superuniverso requieren 968 millones de años para completar el circuito (15:8.2)
 	solo los soles en canales directos brillarán para siempre (41:7.14)
-	los soles se transforman y envían energía de los circuitos espaciales | Ver Directores del Poder Universal:trabajo | (15:6.9)
+	los soles se transforman y envían energía de los circuitos espaciales | Directores del Poder Universal:trabajo | (15:6.9)
 	superuniverso energía circuitos (15:9.10)
 	transportar Serafines viajar a lo largo energía circuitos (39:5.14)
 definición
 	3 fases originales de divino energía son energía física, mental y espiritual (44:5.5)
 	término de todo incluido aplicado a los reinos espiritual, mental y material (0:6.2)
-carga de energía | Ver absoluta
+carga de energía | absoluta
 	en un espacio organizado (29:3.10)
 	del superuniverso registrado por los maestros frandalancos (29:4.2)
 manipulación de energía por agencias celestes
@@ -594,11 +590,11 @@ manipulación de energía por agencias celestes
 	los manipuladores de la energía son uno de los tipos de Artesanos Celestiales (44:5)
 	la energía procedente de las Presencias del Paraíso nunca ha expirado (42:0.1)
 	los transformadores de la energía cambian la forma física de las energías del espacio (29:4.25)
-	los organizadores de la fuerza modifican la fuerza espacial en energía | Ver Organizadores de la Fuerza Maestros | (42:1.5)
+	los organizadores de la fuerza modifican la fuerza espacial en energía | Organizadores de la Fuerza Maestros | (42:1.5)
 	El Espíritu Infinito coordina todo energía; puede ralentizar energía a la materialización (9:0.2) (9:3.4)
 	controlado inteligentemente por agentes del Espíritu Infinito (24:1.1) (104:4.13) (106:2.3)
 	la vida tiene una capacidad inherente para la transmutación de energía (41:2.5)
-	directores de poder por su presencia causa energía segmentar o ensamblar en materia | Ver Directores del Poder Universal | (15:8.4) (42:1.5) (42:2.22)
+	directores de poder por su presencia causa energía segmentar o ensamblar en materia | Directores del Poder Universal | (15:8.4) (42:1.5) (42:2.22)
 	los directores de poder mantienen el equilibrio entre energía y materia (15:8.4)
 	reguladores enumerados (29:0.1)
 	liberado del Absoluto Incalificado según las necesidades de las Deidades experienciales (104:4.27)
@@ -670,38 +666,38 @@ energía física
 		energía ondulado extensión de electrones cerca del núcleo (42:7.8)
 tipos de energia
 	absoluta
-	fuerza cósmica | Ver absoluta
-	energía electrónica | Ver gravita
-	energía emergente | Ver ultimata
+	fuerza cósmica | absoluta
+	energía electrónica | gravita
+	energía emergente | ultimata
 	fuerza
-	fuerza de carga del espacio | Ver absoluta
+	fuerza de carga del espacio | absoluta
 	fuerza-energía (11:5.4)
 	gravita
 	energía de la gravedad (29:2.11) (42:2.12)
-	Energía de Havona | Ver triata
+	Energía de Havona | triata
 	energía material
 	monota
-	energía morontial | Ver morontia:energía morontial
-	fuerza madre del espacio | Ver absoluta
-	Energía del Paraíso | Ver monota
-	fuerza primordial | Ver segregata
+	energía morontial | morontia:energía morontial
+	fuerza madre del espacio | absoluta
+	Energía del Paraíso | monota
+	fuerza primordial | segregata
 	energía poderosa
-	energía pura | Ver segregata
+	energía pura | segregata
 	segregata
 	energía solar
-	energía espacial | Ver absoluta
-	fuerza espacial | Ver absoluta
-	potencia espacial | Ver absoluta
-	energia espiritual | Ver espíritu:energía espiritual
+	energía espacial | absoluta
+	fuerza espacial | absoluta
+	potencia espacial | absoluta
+	energia espiritual | espíritu:energía espiritual
 	tranosta
-	energía trascendental | Ver tranosta
+	energía trascendental | tranosta
 	triata
 	ultimata
-	poder del universo | Ver gravita
+	poder del universo | gravita
 
-controladores energéticos | | Ver Controladores Físicos Maestros; Directores del Poder Universal | 
+controladores energéticos | | Controladores Físicos Maestros; Directores del Poder Universal | 
 
-Manipuladores de la Energía; manipuladores de la energía | | Ver Artesanos Celestiales | ORDER | 
+Manipuladores de la Energía; manipuladores de la energía | | Artesanos Celestiales | ORDER | 
 Artesanos Celestiales, tipos (44:5.1-10)
 	# Los Manipuladores de la Energía física
 	# Los Manipuladores de la Energía mental
@@ -711,11 +707,11 @@ Artesanos Celestiales, tipos (44:5.1-10)
 	# Los Expertos en las comunicaciones
 	# Los Profesores del descanso
 
-energía-materia | | Ver energía | | 
+energía-materia | | energía | | 
 
-escudos de energía | | Ver escudos de fricción | | 
+escudos de energía | | escudos de fricción | | 
 
-transformadores de energía | | Ver Controladores Físicos Maestros; Directores del Poder Universal | ORDER | 
+transformadores de energía | | Controladores Físicos Maestros; Directores del Poder Universal | ORDER | 
 1 millón en Satania; 100 por mundo habitado (29:4.36)
 habilitado
 	apóstoles para ver transfiguración (158:1.8)
@@ -741,7 +737,7 @@ naturaleza
 	semimaterial; algo personal (29:4.16-18)
 	tipo de Controlador Físico Maestro (29:4.7)
 
-transmisores de energía | | Ver Controladores Físicos Maestros; Directores del Poder Universal | ORDER | 
+transmisores de energía | | Controladores Físicos Maestros; Directores del Poder Universal | ORDER | 
 funciones
 	1000 habilita la salida seráfica (29:4.19) (39:5.14)
 	no puede iniciar la comunicación; fallo que sostiene a Van abandonado en (67:2.2-6) (67:6.9)
@@ -761,7 +757,7 @@ Jesús y Abner visitaron la colonia nazarea en (142:8.1)
 Juan el Bautista vivió en En-Gedi por 2-1 / 2 años (135:4.3)
 cuartel general del sur de los nazareos y otros pastores ascéticos (135:1.1) (135:2.3) (165:0.1)
 
-Inglaterra | | Ver Islas Británicas | PLACE | 
+Inglaterra | | Islas Británicas | PLACE | 
 reposo soberanía en el Reino Unido (134:6.3)
 
 Puente terrestre del Canal de la Mancha; puente terrestre | (64:1.5-6) ​​(64:2.6) | | PLACE | 
@@ -769,7 +765,7 @@ Puente terrestre del Canal de la Mancha; puente terrestre | (64:1.5-6) ​​(64
 idioma inglés | | | | 
 reveladores instruidos para usar (0:0.1-3) (31:10.23) (56:10.23)
 
-enemistad | | Ver odio | | 
+enemistad | | odio | | 
 
 Enoc | | | PERSON | OK
 Enoc fue un hijo de Caín y Remona, y se convirtió en el jefe de los noditas elamitas (76:2.9)
@@ -782,17 +778,17 @@ Libro de Enoc
 Enós | | | PERSON | 
 Enós, un hijo de Set y nieto de Adán y Eva, fundó un nuevo orden de adoración (76:3.4)
 
-Ensa | | Ver sectores menores; Umenor la tercera | PLACE | 
+Ensa | | sectores menores; Umenor la tercera | PLACE | 
 tiene 7 satélites (15:7.8)
 sector menor 3 en el sector mayor de Splandon (15:14.7) (18:5.5)
 nuestro sector menor (29:4.18)
 gira alrededor de la nube de estrellas de Sagitario (15:3.5-11)
 Umenor la tercera es capital de (15:7.8)
 
-enseconafinación | | Ver transporte seráfico, secoráfico y superáfico | | 
+enseconafinación | | transporte seráfico, secoráfico y superáfico | | 
 para un vuelo largo a Havona (112:7.5)
 
-enserafinación | | Ver transporte seráfico, secoráfico y superáfico | | 
+enserafinación | | transporte seráfico, secoráfico y superáfico | | 
 
 Enta | | | PERSON | OK
 María la madre de Jesús era descendiente de Enta (122:1.2)
@@ -806,7 +802,7 @@ El entusiasmo de Pedro encomiable pero peligroso (137:1.3)
 trabajar en lo que uno encuentra que hacer con todas sus fuerzas (133:8.3)
 celo mostrado en una actividad religiosa no reconocida (99:3.7)
 
-ambiente | | Ver circunstancias; discapacidades | | 
+ambiente | | circunstancias; discapacidades | | 
 un ambiente malo no puede frustrar el logro de un mortal individual (55:11.7)
 almas divinamente regadas casi independientemente del material (34:6.8)
 Portadores de Vida manipulan el ambiente para eliminar las cepas prehumanas inferiores (65:2.14-15)
@@ -816,7 +812,7 @@ Los Serafines, los Controladores Físicos Maestros y los intermedios manipulan e
 algunos son excepcionalmente favorables al progreso moral (5:1.4)
 progreso espiritual abierto a todos independientemente de (5:1.4-7)
 
-envidia | | Ver celos; resentimiento | | 
+envidia | | celos; resentimiento | | 
 admisión de (160:1.7)
 rasgo humano profundamente arraigado (87:5.6)
 males de la nacional envidia, celos raciales (52:6.5)
@@ -829,7 +825,7 @@ Las almas interiores de los fariseos llenas de codicia (166:1.4)
 impedido por el contacto íntimo con otros (160:2.7)
 enriquecerse con la cautela y muchos pellizcos (165:4.8)
 
-Eoceno | | Ver edades geológicas | | 
+Eoceno | | edades geológicas | | 
 era temprana de los mamíferos hace 50 a 35 millones de años (61:1)
 
 Éfeso | (130:0.3) | | PLACE | 
@@ -838,7 +834,7 @@ capital de la provincia romana de Asia (133:6.1)
 El discurso de Jesús sobre el alma en (133:6)
 Pablo residió 2 años en Éfeso haciendo tiendas (133:6.3)
 
-Efraín | (143:0.1) (162:9.6) | Ver Israel; Palestina | PLACE | 
+Efraín | (143:0.1) (162:9.6) | Israel; Palestina | PLACE | 
 Acab era rey de (97:9.18-19)
 La ciudad cananea de Gibeón tenía un tratado de paz con (97:9.13)
 La conciencia israelita se originó en Efraín; desapareció (97:9.2,21)
@@ -862,13 +858,13 @@ los primitivos a menudo adorados (85:6.2)
 Primera Epístola de Juan; La primera de Juan | | | | 
 escrito como carta de presentación para el Evangelio de Juan (121:8.10)
 
-ángeles de la época | | Ver Serafines:tipos:Serafines maestros de supervisión planetaria | ORDER | 
+ángeles de la época | | Serafines:tipos:Serafines maestros de supervisión planetaria | ORDER | 
 
-revelación de época | | Ver revelación | | 
+revelación de época | | revelación | | 
 
-épocas | | Ver épocas planetarias | | 
+épocas | | épocas planetarias | | 
 
-igualdad | | Ver desigualdades | | 
+igualdad | | desigualdades | | 
 creencia errónea (5:1.4) (69:3.8) (70:8.1) (70:9.15)
 en espíritu todos los hombres son iguales (92:7.4)
 los inferiores siempre han luchado por la igualdad de derechos (70:9.16)
@@ -876,7 +872,7 @@ nunca trae paz excepto en reconocimiento de la supereranía (134:4.9-10)
 de hombres y mujeres (125:0.4) (125:5.4) (127:1.5) (138:8.11) (149:2.8-9) (150:1.3) (167:5.4) (167:6.4) (194:3.14 )
 mente defendida por Lucifer (53:4.2)
 
-ecualizaciones | | Ver compensaciones | | 
+ecualizaciones | | compensaciones | | 
 
 ecuación | | | | 
 uno no puede suplicar un matemático (102:7.3)
@@ -888,7 +884,7 @@ Erec | | | PLACE |
 Ciudad estado de Mesopotamia (78:8.9-10)
 cerca de la casa de Noé de Aram (78:7.5)
 
-error | | Ver maldad; iniquidad; errores; pecado | | 
+error | | maldad; iniquidad; errores; pecado | | 
 capacidad para entretener error perdido en los niveles de burbuja finales (132:2.6)
 El defecto de Adán y Eva fue el error, no la rebelión (76:5.1)
 Causa dolor porque no se puede realizar (2:7.6)
@@ -932,7 +928,7 @@ origen
 pena por el delito decretado y administrado por la familia agraviada (70:10.11)
 raras veces caníbales excepto en el hambre (89:5.4)
 
-Esenios; esenios | | Ver judaísmo | RELIGION | 
+Esenios; esenios | | judaísmo | RELIGION | 
 poseía posesiones en común (165:4.5)
 vivió como hermandad en los monasterios (137:7.8)
 Tolerar la creencia en la reencarnación (164:3.4)
@@ -944,7 +940,7 @@ reforzó el ánimo de María cuando flojeó al contemplar que Jesús no pretend�
 Esther | (150:3.1) | | PERSON | OK
 En honor de esta mujer y la liberación que ella trajo se celebraba la fiesta judía de Purim (123:3.5)
 
-vida eterna | | Ver muerte; fusión; cielo; juicio; vida; no supervivientes; resurrección; salvación; supervivencia (de la muerte mortal) | | 
+vida eterna | | muerte; fusión; cielo; juicio; vida; no supervivientes; resurrección; salvación; supervivencia (de la muerte mortal) | | 
 de acuerdo a
 	budismo (131:3.7)
 	Confucianismo (131:9.4)
@@ -977,7 +973,7 @@ ningún mal comportamiento de los demás puede poner en peligro las perspectivas
 nadie puede ser coaccionado (5:6.8,12)
 ¿Qué daría un hombre a cambio de la vida eterna? (158:7.5)
 
-Hijo Eterno | (6) (7) (10:1.4) | Ver gravedad:gravedad espiritual | PERSON | OK
+Hijo Eterno | (6) (7) (10:1.4) | gravedad:gravedad espiritual | PERSON | OK
 la personalidad del Hijo Eterno es el arquetipo para toda personalidad (0:6.13) (6:7) (6:8.5) (115:3.14)
 en los siete mundos sagrados del Hijo Eterno se irradian las energías impersonales de la luminosidad espiritual (13:0.4) (13:3)
 la estimación de la gravedad espiritual activa total del Hijo Eterno es la misma en el gran universo que en la totalidad existente (12:3.9)
@@ -1070,7 +1066,7 @@ la comprensión del Hijo Eterno (6:8)
 	Miguel posee todos los atributos del Hijo Eterno, si el Hijo Eterno estuviera en Nebadon (33:1.2)
 	Los Príncipes Planetarios son el mayor acercamiento personal, aparte de la encarnación, que puede hacer el Hijo Eterno al hombre (50:1.1)
 
-Eternos de los Días | (18:2) | Ver Havona | ORDER | 
+Eternos de los Días | (18:2) | Havona | ORDER | 
 Mil millones creados por Trinidad; uno dirige cada esfera de Havona (14:3.3) (14:5.6,9) (18:2.1)
 antes de Grandfanda, los ciudadanos del alto Paraíso asistieron (26:11.2)
 iguales divinos de Ancianos de los Días (18:2.2)
@@ -1083,7 +1079,7 @@ Personalidades Trinitarias Supremas (18:0.3) (18:2.1)
 Un Hijo Instructor Trinitario lo reemplaza cuando está ausente (18:2.2)
 visible para todos los habitantes de sus mundos (18:2.2)
 
-eternidad | (118:1) | Ver vida eterna; realidad:niveles de realidad:realidad absoluta | | 
+eternidad | (118:1) | vida eterna; realidad:niveles de realidad:realidad absoluta | | 
 el logro del Padre es pasaporte a la eternidad (26:9.2)
 concepción de la eternidad
 	Simultaneidad circular, no secuencia lineal (130:7.5)
@@ -1106,7 +1102,7 @@ La teoría es un intento ingenioso de unificar la ignorancia (42:9.4)
 Sensibilizadores Éticos | | | ORDER | 
 Serafines supervisores; promover la moralidad de las relaciones (39:3.7)
 
-ética | | Ver moralidad | | 
+ética | | moralidad | | 
 toda ética surge de hechos de origen (28:6.2)
 apenas superanimal a menos que sea dinámico y progresivo (12:5.10)
 nacimiento de (86:6.7)
@@ -1141,7 +1137,7 @@ Los Asesores Técnicos enseñan la mejor y más correcta manera de hacer las cos
 clero etrusco | | | RELIGION | 
 organizado en la religión estatal romana (98:3.2)
 
-eugenesia | (82:6) | Ver genética; discapacidades; razas | | 
+eugenesia | (82:6) | genética; discapacidades; razas | | 
 La edad adánica generalmente presencia la eliminación de los no aptos (52:3.4)
 Adamitas, anditas exterminados inferiores (64:3.5) (80:1.7) (80:5.5-6)
 todas las tribus primitivas mataron a niños deformados y enfermizos (68:6.8)
@@ -1169,20 +1165,20 @@ acciones sociales recomendadas
 	Los no aptos deben eliminarse antes de la mezcla racial (51:4.8).
 la esclavitud sexual contaminó la aptitud biológica de los pueblos superiores (69:5.10)
 
-eunucos | | Ver castración | | 
+eunucos | | castración | | 
 
-río Éufrates | | Ver Mesopotamia | PLACE | 
+río Éufrates | | Mesopotamia | PLACE | 
 y Tigris fueron la cuna de las civilizaciones indias occidentales (78:1.3)
 la sequía llevó a los anditas a los valles de (79:1.3) (80:1.1)
 segundo jardín contiguo (76:0.1) (76:1.1-3) (76:3.8) (76:4.8)
 Los sumerios vivían en la boca de (77:4.6) (78:8)
 
-Europa | | Ver Islas Británicas; Inglaterra; Francia; Alemania; Irlanda; Italia; Noruega; Escocia; España; Gales | PLACE | 
+Europa | | Islas Británicas; Inglaterra; Francia; Alemania; Irlanda; Italia; Noruega; Escocia; España; Gales | PLACE | 
 Adanitas, anditas entraron (77:5.10) (78:3.2,5) (78:6.2) (80:1.4-5) (80:9.5)
 África una vez conectó Europa con América del Sur (59:5.11)
 la raza azul invadida; expulsó a los andonitas de (64:7.3,8-10) (78:1.5)
 La raza azul era la más aventurera de las razas de colores en Europa (78:1.8)
-edades oscuras de | Ver edades de tinieblas
+edades oscuras de | edades de tinieblas
 dinosaurios enterrados en (60:2.2)
 la sequía llevó a los andonitas a Europa hacia el 2500 a.C. (80:9.6-7)
 naciones siempre en guerra de Europa (134:6.5)
@@ -1200,9 +1196,9 @@ unificado en tiempos de Jesús (121:1.3-7)
 evaluación | | | | 
 exige la trascendencia de lo evaluado (112:2.12)
 
-evangelización | | Ver evangelio:proclamar | | 
+evangelización | | evangelio:proclamar | | 
 
-setenta evangelistas | | Ver discípulos | PERSON | OK
+setenta evangelistas | | discípulos | PERSON | OK
 son un grupo de predicadores ordenados por Jesús y formado sobre todo a partir del grupo original de evangelistas
 el comité de selección de los evangelistas originales estuvo compuesto de Pedro, Santiago y Andrés; el método de la escuela de evangelistas consistía en aprender y practicar (148:1.1)
 el período de preparación de los evangelistas originales tuvo lugar en Betsaida (148)
@@ -1223,7 +1219,7 @@ proclamar la libertad espiritual y la filiación divina (35:3.21)
 Evángeles de Luz | | | ORDER | 
 Seres celestiales vinculados temporalmente a compañías finalitarios mortales (31:7)
 
-Eva | | Ver Adán; Hijos Materiales de Dios | PERSON | OK
+Eva | | Adán; Hijos Materiales de Dios | PERSON | OK
 Eva es la Hija Material consorte de Adán que aceptó la misión de traer la raza violeta a Urantia
 la trama de Caligastia
 	Caligastia renunció a convencer a Adán, y decidió intentar un astuto ataque indirecto contra Eva (75:2.3)
@@ -1248,28 +1244,28 @@ tras la falta
 	María, la madre de Jesús, era descendiente de Eva (122:1.2)
 	actualmente es uno de los 24 consejeros de Jerusem, la número 10 (45:4.12)
 
-Estrellas Vespertinas | | Ver Brillantes Estrellas Vespertinas | ORDER | 
+Estrellas Vespertinas | | Brillantes Estrellas Vespertinas | ORDER | 
 
 Eventod | | | PERSON | OK
 Eventod es el nombre que adoptó Miguel cuando realizó su primera donación como un espíritu mortal ascendente en Uversa (119:5.2)
 
-Seres trascendentales existenciados | | Ver Trascendentales | ORDER | 
+Seres trascendentales existenciados | | Trascendentales | ORDER | 
 
-existenciación | | Ver realidad:niveles de realidad:realidad absonita; Trascendentales | | 
+existenciación | | realidad:niveles de realidad:realidad absonita; Trascendentales | | 
 proceso descrito (30:1.92-99) (31:8.3) (31:9.10)
 
-existenciados | | Ver Trascendentales | | 
+existenciados | | Trascendentales | | 
 
-en todas partes | | Ver omnipresencia | | 
+en todas partes | | omnipresencia | | 
 
 Evason | | | PERSON | OK
 Evason es el segundo hijo de Adán; se convirtió en un líder magistral. Falleció antes que Adán (74:6.2) (76:3.3)
 
-evidencia | | Ver certeza | | 
+evidencia | | certeza | | 
 base de la equidad (10:6.3)
 en tribunales dictados por personalidades del Espíritu Infinito (10:6.3-4)
 
-maldad | (130:1.5-6) ​​(132:2) | Ver error; evolución:principio de evolución; iniquidad; errores; malentendidos; rebelión (espiritual); pecado | | 
+maldad | (130:1.5-6) ​​(132:2) | error; evolución:principio de evolución; iniquidad; errores; malentendidos; rebelión (espiritual); pecado | | 
 Los Ajustadores alejan a los mortales conscientes de Dios de (110:1.2)
 casi todos los seres humanos tienen una mascota maldad (163:2.7)
 siempre resulta cuando las evaluaciones personales se elevan a absolutos (19:1.4) (100:1.1)
@@ -1346,12 +1342,12 @@ los primitivos temían cobardemente la malevolencia de (111:0.7)
 los primitivos pensaban que muchas enfermedades eran causadas por (90:3.7)
 algunos dioses subordinados mantenidos como (96:1.14)
 
-maligno | | Ver Caligastia | | 
+maligno | | Caligastia | | 
 
-Espíritus malignos | | Ver posesión demoníaca | | 
+Espíritus malignos | | posesión demoníaca | | 
 
-evolución | | Ver plan divino; progreso | | 
-evolución biológica | Ver genética; vida:biológica | (65)
+evolución | | plan divino; progreso | | 
+evolución biológica | genética; vida:biológica | (65)
 	2 características únicas en Urantia fueron la aparición de la raza andónica antes que los pueblos de color; aparición en una sola familia (64:6.1-2) (65:4.7)
 	50.000 hechos prueban evolución no accidental (58:2.3-5)
 	Contribución significativa de Adán (51:0.3) (75:8.1-2) (78:1.1)
@@ -1420,7 +1416,7 @@ principio de evolución
 	resumen del ciclo (56:9.12-13)
 	adaptaciones superfísicas (65:6.7)
 	la idea evolutiva (32:3)
-evolución social | Ver plan de ascensión; civilización
+evolución social | plan de ascensión; civilización
 	acelerar la evolución aplicando presión espiritual desde arriba (52:6.7)
 	mejor reformar que destruir el ritual religioso (97:10.7)
 	por educación de la juventud (81:6.23-24)
@@ -1441,9 +1437,9 @@ evolución social | Ver plan de ascensión; civilización
 	sin ayuda de la evolución no puede lograr la paz en mundos aislados (52:6.2)
 	produce progreso; la revolución no lo hace (66:6.3-6) (99:2.5)
 
-razas evolutivas | | Ver razas | | 
+razas evolutivas | | razas | | 
 
-exaltación del yo | | Ver importancia personal | | 
+exaltación del yo | | importancia personal | | 
 
 exámenes | | | | 
 por Clasificadores Selectivos (48:2.23)
@@ -1457,37 +1453,37 @@ ejemplo | | | |
 La vida de Jesús es una inspiración, no un ejemplo (120:2.7) (129:4.7) (136:0.1) (140:10.3) (181:1.3) (194:2.8) (196:1.5)
 no tiene una influencia duradera para los niños (100:1.4)
 
-emoción | | Ver emociones | | 
+emoción | | emociones | | 
 
 excomunión | | | | 
 seguidores de Jesús expulsados ​​de las sinagogas; derechos negados y
 privilegios (164:4.6,11) (164:5.4-5) (190:3.3) (190:5.1)
 
-excremento | | Ver saneamiento | | 
+excremento | | saneamiento | | 
 sin residuos residuales en los mundos de las mansiones (47:4.6)
 primitivos cuidadosamente enterraban excrementos por miedo a la magia (88:5.1)
 
 Supervisores de las Excursiones y de la Reversión | | | ORDER | 
 Compañeros Morontiales (25:7.1) (47:3.12) (48:3.14)
 
-ejecutores de los Ancianos de los Días | | Ver Ejecutores Divinos | ORDER | 
+ejecutores de los Ancianos de los Días | | Ejecutores Divinos | ORDER | 
 
-agotamiento | | Ver fatiga | | 
+agotamiento | | fatiga | | 
 
-realidad existencial | | Ver realidad:niveles de realidad:realidad existencial | | 
+realidad existencial | | realidad:niveles de realidad:realidad existencial | | 
 
 Éxodo (libro) | (145:2.2) | | | 
 
-exogamia | | Ver matrimonio | | 
+exogamia | | matrimonio | | 
 
 exorcismo | (87:6) | | | 
 empleo de un espíritu para controlar o desterrar a otro (87:6.13)
 lugar en la evolución de las observancias religiosas (90:0.1)
 el ritual se fusiona con la evitación, la coerción, la propiciación (89:0.2)
 
-Expectativas | | Ver esperanzas | | 
+Expectativas | | esperanzas | | 
 
-expectoración | | Ver saliva | | 
+expectoración | | saliva | | 
 
 experiencia | | | | 
 la edad a menudo representa (181:2.5)
@@ -1513,7 +1509,7 @@ nada ocupa el lugar de (22:9.6-8) (108:0.2) (109:1.3) (181:2.5,24)
 los espaciadores exteriores carecerán de finitos experiencia (31:10.11)
 subjetivo, excepto por la validez de la respuesta de la mente cósmica (16:9.1)
 
-experienciales | | Ver realidad:niveles de realidad:realidad finita | | 
+experienciales | | realidad:niveles de realidad:realidad finita | | 
 poder ganado, poder demostrado (106:2.3)
 
 expertos en las comunicaciones | | | ORDER | 
@@ -1534,7 +1530,7 @@ Instructores de las Facultades Anexas | | | ORDER |
 en el registro de personalidad de Uversa (30:2.153)
 profesores del siguiente mundo residencial superior (30:3.8)
 
-extinción | | Ver muerte:muerte espiritual; Ejecutores Divinos; iniquidad; juicio:juicio divino; pecado; supervivencia (de la muerte mortal) | | 
+extinción | | muerte:muerte espiritual; Ejecutores Divinos; iniquidad; juicio:juicio divino; pecado; supervivencia (de la muerte mortal) | | 
 Ancianos de los Días
 	solo puede decretar extinción (2:3.3) (15:12.2) (18:3.7) (20:3.2) (33:2.1)
 	ejecutores de los Ancianos de los Días (2:3.6) (53:3.5)

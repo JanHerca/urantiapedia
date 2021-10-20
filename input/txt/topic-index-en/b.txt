@@ -1,22 +1,17 @@
 ####################################################################################
 #
 #                     B
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
 
 ba and ka | | | | 
 Egyptian and African teaching of soul and spirit (111:0.4-6)
 
-Baal | | See also Baalites | PERSON | OK
+Baal | | Baalites | PERSON | OK
 word Baal means owner (97:3.3)
 cult founded on right to buy and sell land; Baal sending rain (97:3.3) (97:9.24)
 ritual prostitution in temples (97:3.4)
@@ -27,9 +22,9 @@ temple on hill in Nazareth 100 years earlier (126:1.2)
 Baal-Perazim | | | PLACE | 
 city named by King David (97:9.12)
 
-Baalim | | See Baalites | | 
+Baalim | | Baalites | | 
 
-Baalites | | See also Baal | RACE | 
+Baalites | | Baal | RACE | 
 city-dwelling aristocrats, owned houses, lands, slaves (97:3.4)
 Elijah defended old land mores against land-selling of (97:9.19)
 northern and more settled Canaanites (97:3.3)
@@ -43,14 +38,14 @@ tower of Babel (77:3)
 	3rd effort to build by Andites (78:8.4)
 	memorial to Nodite racial greatness; contentions (77:3)
 
-babies | | See children | | 
+babies | | children | | 
 
-Bablod | | See Babel | PLACE | 
+Bablod | | Babel | PLACE | 
 
 Bablot (architect) | | | PERSON | OK
 architect and builder of tower of Babel (77:3.1-3)
 
-Bablot (city) | | See Babel | PLACE | 
+Bablot (city) | | Babel | PLACE | 
 
 baboons | | | | 
 retarded mid-mammals were ancestors of (62:3.12)
@@ -58,7 +53,7 @@ retarded mid-mammals were ancestors of (62:3.12)
 baby talk | | | | 
 illustrates origin of dialects (81:6.17)
 
-Babylon | (130:0.3) (134:1.1) | See also Babylonians | PLACE | 
+Babylon | (130:0.3) (134:1.1) | Babylonians | PLACE | 
 baptism was religious ceremonial in (85:4.1)
 cavalry from Babylon pushed into Mesopotamia (79:1.5)
 Judaism saved from oblivion by teachers from (121:6.8)
@@ -79,7 +74,7 @@ priests destroyed records after (97:8.1)
 priests invented legends during (74:8.9-11) (78:7.3)
 shocked remnant of Israel into monotheism (97:9.26)
 
-Babylonians | | See also Babylon | RACE | 
+Babylonians | | Babylon | RACE | 
 immediate contact with remnants of Adamites (74:8.6)
 part of older Semitic race which included Jews (121:2.1)
 taught man descended directly from gods (74:8.6)
@@ -96,7 +91,7 @@ Andon and Fonta succumbed to their fears for a time (63:2.1)
 man may repeatedly forsake God while choice remains (5:1.11)
 turning back after putting hand to plough (163:2.3)
 
-bacteria | | See also fungi | | 
+bacteria | | fungi | | 
 destroyed ferns in Devonian (59:4.13)
 Life Carriers disappointed by reversion of parasitic (65:5.2)
 little changed from ancient times (65:2.3)
@@ -107,7 +102,7 @@ Badonan | | | PERSON |
 great-great-grandson of Andon (64:3.1)
 founded center of culture in Afghanistan (67:6.1) (79:0.1)
 
-Badonan tribes | | See also Andonites | RACE | 
+Badonan tribes | | Andonites | RACE | 
 believed in 2 souls, the breath and the shadow (86:5.17)
 fearful of ice, water (64:3.3)
 never practiced human sacrifice (64:3.1)
@@ -119,7 +114,7 @@ warfare of extermination against inferior neighbors (64:3.5)
 Baganda tribes | | | RACE | 
 emerged from mana level of prayer (91:0.5)
 
-balance | | See also symmetry | | 
+balance | | symmetry | | 
 in Judaism, philosophy and aesthetics entirely submerged in religion and morality (97:10.5) (98:2.7-9)
 lack of balance between intellectual and spiritual growth hazardous (98:1.6)
 lack of balance in Greece, where personal religious experience failed to keep pace with intellect (98:2.7-9)
@@ -143,7 +138,7 @@ Andite infiltration into (79:1.1) (79:2.4)
 bank (moral) | | | | 
 has vast spiritual resources (195:6.1)
 
-banking | | See also money-changers; usury | | 
+banking | | money-changers; usury | | 
 ancient interest rate was 100% (69:5.6)
 commercial credit first practiced at Dalamatia (66:5.12)
 courts determine interest rates in continental nation (72:5.5)
@@ -155,7 +150,7 @@ Judas deposited funds (147:2.1) (163:2.11) (172:2.3)
 Moses said his people would lend but not borrow (96:5.4)
 negligent servant should have obtained interest (171:8.6) (176:3.4)
 
-banner of Michael | | See concentric circles, three | | 
+banner of Michael | | concentric circles, three | | 
 
 banquets | | | | 
 Jewish custom against women sitting at (172:1.2)
@@ -167,8 +162,8 @@ banshees | | | |
 evolving monotheists keep subordinate gods as (96:1.14)
 
 baptism | | | | 
-baptism of Jesus | See Jesus: events in life
-baptism of the spirit | See spiritual rebirth
+baptism of Jesus | Jesus: events in life
+baptism of the spirit | spiritual rebirth
 evolution of ceremony (87:6.12)
 in early Christian church (194:4.9)
 Jesus never opposed rite of (170:5.13)
@@ -204,7 +199,7 @@ barnacles | (59:4.3) | | |
 barns (parable) | | | | 
 foolish rich man pulled down (165:4.2)
 
-barrenness | | See also fertility | | 
+barrenness | | fertility | | 
 among ancients, barrenness attributed to spirit machinations (83:4.4)
 ancients always blamed barrenness on wife (83:7.2)
 doll first employed as talisman against (88:6.4)
@@ -230,7 +225,7 @@ brutal Hebrew raid upon king of (69:8.3)
 basket weaving | | | | 
 origination of idea (81:2.17-18)
 
-Basques | | See also white race:divisions:southern | RACE | 
+Basques | | white race:divisions:southern | RACE | 
 blue race admixed with Saharans (80:9.11)
 
 Batanea | (138:2.4) (154:7.4) (155:0.1) | | PLACE | 
@@ -270,7 +265,7 @@ strengthen moral character, create happiness (140:5.6-24)
 beautiful gate (Jerusalem) | | | | 
 in Jerusalem temple (162:4.3)
 
-beauty | | See also art; truth, beauty, and goodness | | 
+beauty | | art; truth, beauty, and goodness | | 
 always triumphs over ugliness (156:5.5)
 ancients believed beauty aroused envy of spirits (87:5.7)
 base life on highest consciousness of (110:3.7)
@@ -299,7 +294,7 @@ variety essential to (56:10.3-4)
 beavers | (61:2.7) (61:5.7) | | | 
 Indian tribes believed they originated from (74:8.5)
 
-Bedouins | | See also Arabs | RACE | 
+Bedouins | | Arabs | RACE | 
 believed nature spirit produced sand whirls (85:4.2)
 
 beeches | (60:3.19) | | | 
@@ -321,9 +316,9 @@ lacked ability to respond to spirit leading (130:8.4)
 begging | | | | 
 almost unknown among ancient tribes (69:9.1)
 
-beginning of reality | | See reality:genesis of reality | | 
+beginning of reality | | reality:genesis of reality | | 
 
-behavior | | See action | | 
+behavior | | action | | 
 
 being | | | | 
 being versus doing (140:10.1)
@@ -347,7 +342,7 @@ temples in Babylon (95:1.10)
 Belgium | (61:4.2) | | PLACE | 
 most northerly Danubian settlement at Liege in (80:8.4)
 
-belief | | See also faith | | 
+belief | | faith | | 
 acceptance of teaching as true (101:8.1)
 always limits and binds (101:8.2)
 and faith (102:6)
@@ -358,11 +353,11 @@ may not be able to resist doubt and withstand fear (102:6.7)
 religions of authority require uniformity in (155:6.9)
 time required to effect radical change in fundamental (152:6.1)
 
-believers | | See faith sons of God | | 
+believers | | faith sons of God | | 
 
-believer’s prayer | | See Lord’s Prayer | | 
+believer’s prayer | | Lord’s Prayer | | 
 
-belligerence | | See hatred | | 
+belligerence | | hatred | | 
 
 bells | | | | 
 Chinese sacrificed maiden to improve tone (89:6.4)
@@ -377,7 +372,7 @@ Jesus’ benediction to apostles (193:5.2)
 Bengal | | | PLACE | 
 worship of meteor which fell in A.D. 1880 (85:1.2)
 
-Berbers | | See also white race: divisions:southern | RACE | 
+Berbers | | white race: divisions:southern | RACE | 
 blue race admixed with Saharans (80:9.11)
 
 Bering Strait land bridge | | | PLACE | 
@@ -388,9 +383,9 @@ rose or fell (60:1.6,13) (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6)
 Bernice | | | PERSON | OK
 mother of Justa (156:2.2)
 
-bestowal | | See Creator Sons:creature bestowals; Paradise Sons of God:bestowals | | 
+bestowal | | Creator Sons:creature bestowals; Paradise Sons of God:bestowals | | 
 
-bestowal attendants | | See also supreme seraphim | | 
+bestowal attendants | | supreme seraphim | | 
 144 supreme seraphim who attend Avonal missions (39:1.4-6)
 
 Beth-Marion | | | PERSON | OK
@@ -411,7 +406,7 @@ ancient Hebrew city; later Scythopolis (124:3.6-9)
 Beth-zur | | | PLACE | 
 home of Ezda (135:3.1)
 
-Bethabara | | See Bethany beyond Jordan | PLACE | 
+Bethabara | | Bethany beyond Jordan | PLACE | 
 
 Bethany beyond Jordan | | | PLACE | 
 Bethany ford of river Jordan (171:2.1)
@@ -449,7 +444,7 @@ Bethphage | | | PLACE |
 hamlet short distance northwest of Bethany (168:3.7) (172:3.6)
 Jesus’ Palm Sunday donkey from (172:3.6)
 
-Bethsaida | (129:1.2) (148:8) (152:5) (186:3.2-3) (192:3.3) | See also Capernaum | PLACE | 
+Bethsaida | (129:1.2) (148:8) (152:5) (186:3.2-3) (192:3.3) | Capernaum | PLACE | 
 encampment at (148)
 	500 to 1500 present; model of order and sanitation (148:0.1)
 	1000 improved or cured at hospital (148:2.1)
@@ -471,7 +466,7 @@ Bethsaida-Julias | (138:9.3) (149:0.1) (157:2) | | PLACE |
 beautiful Magadan Park south of (155:0.1) (157:2.1)
 woe upon light-rejecting inhabitants of (163:6.5)
 
-betrayal | | See also desertion | | 
+betrayal | | desertion | | 
 greatest sorrow is to be wounded in house of friend (149:6.12)
 Jesus’ (183)
 Jewish law forbade testimony of traitors (184:3.6)
@@ -481,16 +476,16 @@ Solemnities of Trust reflect individual’s possibilities of (28:6.14)
 first capital crime (70:10.15)
 punishment of betrayal in continental nation (72:6.9)
 
-betrayer | | See Judas Iscariot | | 
+betrayer | | Judas Iscariot | | 
 
-betrothal | | See marriage | | 
+betrothal | | marriage | | 
 
 bewitching | | | | 
 Jesus denounced belief in (150:3.12)
 
-Bible | | See New Testament; Old Testament; sacred books | | 
+Bible | | New Testament; Old Testament; sacred books | | 
 
-bigamy | | See marriage: among primitives | | 
+bigamy | | marriage: among primitives | | 
 
 Bildad | | | PERSON | OK
 offered Job depressing counsel (148:6.5,9)
@@ -509,10 +504,10 @@ domesticated by 5000 B.C. (81:2.12)
 evolved from hollow-boned leaping dinosaurs (60:2.12) (60:3.22)
 prebirds had too little brain for body size (60:3.21)
 primitives believed birds to be source of wind (85:3.4)
-types named | See bats; buzzards; carrier pigeons; doves; ducks; eagles; falcons; flamingoes; gulls; herons; ostriches; owls; parrots; passenger birds; pigeons; poultry; quail; ravens; sparrows
+types named | bats; buzzards; carrier pigeons; doves; ducks; eagles; falcons; flamingoes; gulls; herons; ostriches; owls; parrots; passenger birds; pigeons; poultry; quail; ravens; sparrows
 used for transport on Jerusem (46:2.4)
 
-birthday text | | See Jesus: birthday text from Isaiah | | 
+birthday text | | Jesus: birthday text from Isaiah | | 
 
 birthmarks | | | | 
 believed caused by evil eye (87:5.5)
@@ -527,7 +522,7 @@ Black Forest mountains | (59:5.12) | | PLACE |
 Black Friday | | | | 
 commemorated self-inflicted death of Attis (98:4.7)
 
-black race | | See indigo race | RACE | 
+black race | | indigo race | RACE | 
 
 Black Sea | | | PLACE | 
 Andonites entered Europe via region of (80:9.6)
@@ -560,7 +555,7 @@ Jesus restored sight to Josiah (164:3)
 rabbis taught blindness caused by sin (164:3.3)
 sometimes invite to banquets (167:1.5)
 
-blood | | See also atonement doctrine; blood drinking | | 
+blood | | atonement doctrine; blood drinking | | 
 among earliest medicines (90:4.8)
 ancients believed blood created child (84:2.1)
 blood money substituted for vengeance; Moses abolished (70:10.12)
@@ -591,7 +586,7 @@ seal of friendship, acceptance into clan (66:5.22) (70:3.7)
 bloody way | (182:2.11) | | | 
 way from Jerusalen to Jericho
 
-blue race | (64:6.21-24) | See also Cro-Magnons; races | RACE | 
+blue race | (64:6.21-24) | Cro-Magnons; races | RACE | 
 Adamites preferred; infiltrated by 15,000 B.C. (64:6.21) (78:3.5,7) (80:1.5-7) (80:8.1)
 best absorbed by Andites; unfit exterminated (80:5.6) (80:9.11)
 biologic basis of white race (80:0.1) (80:5.7) (80:9.2,5,10)
@@ -625,9 +620,9 @@ survived in Basques and Berbers (80:9.11)
 united with Adamites, who exterminated Neanderthal strains to produce Cro-Magnons (80:1.5-8)
 usually subdues indigo race (51:4.6)
 
-board of animal domestication | | See Caligastia one hundred | | 
+board of animal domestication | | Caligastia one hundred | | 
 
-board of planetary supervisors | | See four and twenty counselors | | 
+board of planetary supervisors | | four and twenty counselors | | 
 
 boats | | | | 
 Andite mariners settled Crete ca. 12,000 B.C. (140:0.2) (157:1.2-3) (192:1.1,3)
@@ -651,7 +646,7 @@ Peter’s night vision on Sea of Galilee (152:4)
 sea commerce active in 2500 B.C. (80:9.9)
 sea traffic between Indian and Mesopotamia (79:3.2)
 
-body, human | | See also blood; brains; eugenics; eyes; flesh; genetics; mortals; personality: forms; skeletal structures | | 
+body, human | | blood; brains; eugenics; eyes; flesh; genetics; mortals; personality: forms; skeletal structures | | 
 after death, body is discarded outer covering (30:4.15)(39:2.13)(189:1.2)
 bodies created for the Caligastia 100 (66:2.7-8)
 cannot be carried by seraphic transport (39:2.13)
@@ -668,7 +663,7 @@ spirit is architect, mind is builder (42:12.12)
 temple of God (1:4.2) (34:6.7) (143:2.4) (160:4.9)
 unkind knowingly to defile or pollute (110:1.5)
 
-Bon | | See also Caligastia one hundred | PERSON | OK
+Bon | | Caligastia one hundred | PERSON | OK
 led board of animal domestication and utilization (66:5.4)
 and entire council lost in rebellion (67:4.1)
 
@@ -682,20 +677,20 @@ Primates made spicules of (63:1.2)
 primitives revered leaders’ (88:2.1)
 
 Books | | | | 
-Acts | See Acts, Book of
-Dead | See Dead, Book of the
-Deuteronomy | See Deuteronomy, Book of
+Acts | Acts, Book of
+Dead | Dead, Book of the
+Deuteronomy | Deuteronomy, Book of
 Ecclesiastes. q.v.
-Enoch | See Enoch: Book of
-Genesis | See Genesis, Book of
-Hebrews | See Hebrews, Book of
-Isaiah | See Isaiah (first); Isaiah (second)
+Enoch | Enoch: Book of
+Genesis | Genesis, Book of
+Hebrews | Hebrews, Book of
+Isaiah | Isaiah (first); Isaiah (second)
 Job. q.v.
 life. custodians of knowledge are living books (27:5.1)
-Proverbs | See Proverbs, Book of
+Proverbs | Proverbs, Book of
 Psalms. q.v.
-Revelations | See Revelations, Book of
-Wisdom | See Ecclesiastes
+Revelations | Revelations, Book of
+Wisdom | Ecclesiastes
 
 bookkeeper | | | | 
 God is not a (141:4.1)
@@ -728,11 +723,11 @@ red race invented (64:6.4)
 
 brachiopods | (59:1.18) (59:2.12) (59:3) (59:4.3) | | | 
 
-Brahma | | See also Brahman; Brahmanism; Hinduism | PERSON | OK
+Brahma | | Brahman; Brahmanism; Hinduism | PERSON | OK
 member of Hindu trinity; identified with fate (94:4.4) (104:1.5)
 Vedic deity-father principle (94:1.4)
 
-Brahman | | See also Brahma; Brahmanism; Hinduism | PERSON | OK
+Brahman | | Brahma; Brahmanism; Hinduism | PERSON | OK
 Brahman-Narayana is Universal Self existing static and potential throughout all eternity (94:3.3-4)
 distant idea of all-encompassing Absolute (94:2.6-7)
 energy-divinity principle activating Vedic pantheon (94:1.4)
@@ -741,10 +736,10 @@ India left helpless by impersonal hypothesis of (94:2.4,7)
 Infinite One, IT IS; no personality attributes (94:3.2) (94:4.3)
 Vedic oversoul of all creation (94:2.4)
 
-Brahmanas | | See also Brahmanism; Hinduism | | 
+Brahmanas | | Brahmanism; Hinduism | | 
 later scriptures of Hindu faith (94:2.6)
 
-Brahmanism | (94:2) (94:3) | See also Brahma; Brahman; Brahmanas; Hinduism; India | RELIGION | 
+Brahmanism | (94:2) (94:3) | Brahma; Brahman; Brahmanas; Hinduism; India | RELIGION | 
 ancient gods of Aryans include Agni, Indra, and Soma (94:4.6)
 Aryans brought Brahmanism to India (94:1.1)
 failed to differentiate levels of reality, recognize soul (94:3.7-8)
@@ -767,7 +762,7 @@ brains | | | |
 Adjusters
 	not organic part of human brain (110:1.1)
 	released if human brain irreparably destroyed (112:3.3)
-brainedness | See also mortals: planetary types
+brainedness | mortals: planetary types
 	1-, 2-, and 3-brained mortals (49:5.13-18) (109:3.5-6)
 	Adjusters gain better contact with 3-brained mortals (109:3.5)
 	differences eliminated on mansion worlds (40:5.17)
@@ -788,7 +783,7 @@ branches | | | |
 die when separated from vine (180:2.1)
 Father cuts off unfruitful (193:3.2)
 
-bravery | | See courage | | 
+bravery | | courage | | 
 
 bread | | | | 
 bread of life
@@ -815,13 +810,13 @@ breadfruit trees | (60:3.7) | | |
 
 breast-feeding | | Ver weaning | | 
 
-breath | | See also respiration | | 
+breath | | respiration | | 
 primitive men thought soul’s qualities imparted by (86:5.13)
 
 Breath Giver | | | | 
 Onagar directed Andonites to worship (45:4.3) (63:6.1) (64:1.7)
 
-breath of life | (28:5.21) | See also life; life plasm | | 
+breath of life | (28:5.21) | life; life plasm | | 
 early man regarded as differentiating living from dead (86:4.3)
 local universe Mother Spirits contribute (34:2.5) (36:6.4)
 
@@ -852,7 +847,7 @@ bridegroom | | | |
 Johab of Cana (137:4)
 no fasting while bridegroom remains (147:7.2)
 
-brides | | See also marriage; weddings | | 
+brides | | marriage; weddings | | 
 bridal shows
 	among ancients were exhibitions to increase prices (83:3.2)
 	early coming-out parties (70:7.13)
@@ -863,9 +858,9 @@ bridges | | | |
 Jesus burned all bridges behind him (196:2.7)
 world is only a bridge (156:2.1)
 
-brigands | | See thieves | | 
+brigands | | thieves | | 
 
-Bright and Morning Stars | (33:4) | See also Gabriel | ORDER | 
+Bright and Morning Stars | (33:4) | Gabriel | ORDER | 
 administrators, not creators (33:4.4)
 Ancients of Days delegate mass judgment and dispensational resurrections to (33:4.6)
 beings of unimagined versatility and brilliance (33:4.3)
@@ -881,7 +876,7 @@ like Creator Sons, but limited in creatorship (32:2.6) (33:4.2)
 Son-Spirit minister supreme seraphim affiliated with intelligence service of (39:1.2)
 would become chief local universe administrators if Creator Sons left for new universes in outer space (55:10.10)
 
-Brilliant Evening Stars | | See also Brilliant Evening Stars, chief of | ORDER | 
+Brilliant Evening Stars | | Brilliant Evening Stars, chief of | ORDER | 
 also known as superangels (55:4.14)
 easily visible to morontians (37:2.5)
 functions and actions
@@ -917,7 +912,7 @@ seraphim may become (37:2.4) (39:8.1)
 system headquarters on 4th transition world (45:1.6) (47:6.1)
 usually work in pairs, one created and one ascendant (37:2.7)
 
-Brilliant Evening Stars, Chief of | | See also Brilliant Evening Stars | ORDER | 
+Brilliant Evening Stars, Chief of | | Brilliant Evening Stars | ORDER | 
 entrusted with all personal communications (39:2.17)
 Gavalia, first born, is chief of ascendant Brilliant Evening Stars in Nebadon (37:2.6) (46:5.25) (119:0.1)
 wrote Paper 119 (119:8.9)
@@ -935,7 +930,7 @@ Salem missionaries in (93:7.2)
 separated from continent (64:1.5) (80:2.4)
 white race dominant by 5000 B.C. (80:5.8)
 
-Brittany | | See British Isles | PLACE | 
+Brittany | | British Isles | PLACE | 
 older Andonites retained semblance of identity in (80:4.6)
 superstitions of sun worship still persist (80:9.14)
 
@@ -954,16 +949,16 @@ broadcast receivers | | | ORDER |
 energy transmitters are invaluable to (29:4.29)
 primary seconaphim, serve Ancients of Days (28:4.12)
 
-broadcasters (superior seraphim) | | See also broadcasts (celestial) | ORDER | 
+broadcasters (superior seraphim) | | broadcasts (celestial) | ORDER | 
 can simultaneously transmit 144,000 messages (39:2.15)
 dispatchers of records, essential information (39:2.15)
 maintain contact with intelligence coordinators of tertiary supernaphim and completion seraphim (39:2.15)
 use superaphic ideographic techniques (39:2.15)
 
-broadcasters (tertiary supernaphim) | | See also broadcasts (celestial) | ORDER | 
+broadcasters (tertiary supernaphim) | | broadcasts (celestial) | ORDER | 
 space report directors, tertiary supernaphim (26:3.6)
 
-broadcasts (celestial) | (46:3) | See also broadcasters (superior seraphim); broadcasters (tertiary supernaphim) | ORDER | 
+broadcasts (celestial) | (46:3) | broadcasters (superior seraphim); broadcasters (tertiary supernaphim) | ORDER | 
 Adjusters receive broadcasts continuously via master circuits (110:4.1) (110:7.6)
 back registry insures proper reception (44:4.10)
 extended to all worlds except for those quarantined (33:6.5)
@@ -995,15 +990,15 @@ Bronze Age | | | |
 ca. 3000 B.C. (80:9.13)
 not a distinct period (81:3.4)
 
-brooding | | See also isolation | | 
+brooding | | isolation | | 
 withstand brooding in face of sorrow (156:5.17)
 
 brothel keeper in Jerusalem | | | | 
 wet Jesus’ feet with tears, wiped with hair (147:5.3-4)
 
-brothels | | See prostitution | | 
+brothels | | prostitution | | 
 
-brotherhood (attitude) | | See also brotherhood of man; fellowship of believers; friendship; gospel; love; tolerance; unity | | 
+brotherhood (attitude) | | brotherhood of man; fellowship of believers; friendship; gospel; love; tolerance; unity | | 
 achieve by
 	appeal to Adjuster (149:3.3)
 	approaching other religions by truths in common (149:2.5)
@@ -1030,7 +1025,7 @@ Micah: live each according to his understanding of God (97:5.5)
 most powerful, most tenuous factor of civilization (118:8.10)
 unless religious, brotherhood is an abstraction devoid of love (16:9.8)
 
-brotherhood of man | | See also brotherhood (attitude); gospel | | 
+brotherhood of man | | brotherhood (attitude); gospel | | 
 civilization encompassed by love (100:4.6)
 derives from fatherhood of God (12:7.8,10) (16:9.14) (52:6.7) (134:4.1) (159:5.7) (195:8.11)
 entails adjustment of the self to other selves (99:5.1)
@@ -1044,11 +1039,11 @@ revelation essential to realization of (52:6.2)
 spiritual transformation quickest way to realize (52:6.7)
 universality of God’s love creates (12:7.8,10)
 
-Brotherhood of United Midwayers | | See midwayers | ORDER | 
+Brotherhood of United Midwayers | | midwayers | ORDER | 
 
-brotherhoods | | See secret societies | | 
+brotherhoods | | secret societies | | 
 
-brown race | | See also races | RACE | 
+brown race | | races | RACE | 
 mixed yellow and red races; held islands off Asia (64:7.6,16)
 on nearby Pacific islands (78:3.8)
 Serapatatia was of brown race (75:3.1)
@@ -1056,18 +1051,18 @@ Serapatatia was of brown race (75:3.1)
 brownies | | | | 
 evolving monotheists keep subordinate gods as (96:1.14)
 
-brutality | | See cruelty | | 
+brutality | | cruelty | | 
 
-Buddha | | See also Buddhism; Gautama Siddhartha | PERSON | OK
+Buddha | | Buddhism; Gautama Siddhartha | PERSON | OK
 Gautama revered as enlightened one (92:5.12) (94:8.2) (94:9.1)
 became reflective devotee of leisure (69:2.5)
 Jesus’ talk with Gonod regarding (132:7.3-5)
 return of Buddha looked for in Tibet, China, and India (92:5.6)
 
-Buddha, Sakyamuni | | See also Buddha; Buddhism | PERSON | OK
+Buddha, Sakyamuni | | Buddha; Buddhism | PERSON | OK
 Gautama’s followers called him (94:8.2)
 
-Buddhism | (94:8) | See also Buddha; Gautama Siddhartha | RELIGION | 
+Buddhism | (94:8) | Buddha; Gautama Siddhartha | RELIGION | 
 adaptability to mores equaled only by Christianity (92:6.16)
 degenerated into ritual alien to Gautama (94:7.8) (94:9.3)
 did not produce religion of unselfish service (94:8.19)
@@ -1141,7 +1136,7 @@ inferior race (68:1.6) (103:3.1)
 no individual names (88:5.5)
 still employ food-gathering lines (68:5.3)
 
-business | | See commerce; earning a living; industry | | 
+business | | commerce; earning a living; industry | | 
 
 butter | | | | 
 became common in days of Prince’s staff (66:5.5)

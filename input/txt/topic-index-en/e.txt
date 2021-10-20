@@ -1,16 +1,12 @@
 ####################################################################################
 #
 #                     E
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
 
 Ea | | | PERSON | OK
 Mesopotamian god of the sea (95:1.4)
@@ -19,7 +15,7 @@ eagles | (61:2.12) | | |
 descended from enormous ancient reptiles (65:2.9)
 they shall mount up with wings as (97:7.8)
 
-earning a living | | See also achievement; careers; initiative; labor; overspecialization; poverty; unemployment; wealth | | 
+earning a living | | achievement; careers; initiative; labor; overspecialization; poverty; unemployment; wealth | | 
 apostles organized to provide everything needful (138:7.4) (138:8.6)
 be content with wages (135:6.8)
 economic necessities tie man up with reality (99:7.5)
@@ -36,7 +32,7 @@ wages fell to 25¢/day in Nazareth (126:5.5)
 work persistently to better one’s life (148:5.3) (149:5.3)
 workers’ salaries in continental nation (72:5.8-9)
 
-earth | | See Urantia | | 
+earth | | Urantia | | 
 
 earthquakes | (59:3.6) | | | 
 age of earthquakes was from 1 billion to 650 million years ago (57:8)
@@ -50,7 +46,7 @@ still average 15 daily (57:8.15)
 
 earthworms | (65:2.5) | | | 
 
-ease | | See also idleness; indolence; leisure; relaxation | | 
+ease | | idleness; indolence; leisure; relaxation | | 
 accepting seraphic guidance rarely means life of (113:4.3)
 men do not progress in environment of (154:2.5)
 seeking ease is animal trait morontia career eradicates (48:5.8)
@@ -64,7 +60,7 @@ center of Andite-modified Polynesians (78:5.7)
 
 Eastern Ghats | (79:3.6) | | PLACE | 
 
-eating | | See food | | 
+eating | | food | | 
 
 Ebal | (126:1.2) | | PLACE | 
 mount visible from Nazareth
@@ -82,7 +78,7 @@ exemplifies Platonism and Stoicism (121:6.3)
 frankly pessimistic reaction to belief in Providence (97:8.2)
 race is not to the swift (86:1.6)
 
-ecclesiasticism | | See also priests | | 
+ecclesiasticism | | priests | | 
 incompatible with living faith (195:10.8)
 
 echinoderms | (59:3.11) (59:5.8) | | | 
@@ -91,21 +87,21 @@ eclipses | | | |
 Nordics believed caused by wolf (85:3.4)
 Tenskwatawa predicted eclipse in 1808 (90:2.9)
 
-ecstasy | | See also emotions; joy | | 
+ecstasy | | emotions; joy | | 
 genuine ecstasy usually associated with outward calm (91:7.3)
 often outgrowth of purely emotional influences (91:7.3-4)
 practical validations (91:7.5-12)
 
-Eden, Garden of | | See Garden of Eden | PLACE | 
+Eden, Garden of | | Garden of Eden | PLACE | 
 
 Edenic league | | | | 
 Adam’s Garden federation (74:5.5)
 
-Edenic teachings | | See Garden of Eden: teachings | | 
+Edenic teachings | | Garden of Eden: teachings | | 
 
-Edenites | | See Garden of Eden | RACE | 
+Edenites | | Garden of Eden | RACE | 
 
-Edentia | (43:1) | See also constellations; Most Highs of Norlatiadek | PLACE | 
+Edentia | (43:1) | constellations; Most Highs of Norlatiadek | PLACE | 
 after Satania rebellion, archrebels continued to attend conclaves on (43:4.7)
 construction (32:2.3)
 description
@@ -145,7 +141,7 @@ Edrei | (159:0.2) (165:0.1) | | PLACE |
 instruction for teachers and believers at (159:3)
 Perea mission
 
-education | (71:7) | See also ignorance; knowledge; teachers | | 
+education | (71:7) | ignorance; knowledge; teachers | | 
 apostles not made alike by schooling (139:0.3-4)
 apostles studied 3 hours every evening (137:6.5) (137:7.14)
 growth indicated by enhancement of ideals, values (100:1.3)
@@ -237,7 +233,7 @@ warnings
 education builders | | | | 
 divine builders, celestial artisans (44:3.6)
 
-effects | | See causation | | 
+effects | | causation | | 
 
 efficiency | | | | 
 Deities not given to useless duplication of ministry (6:4.2)
@@ -245,7 +241,7 @@ mental efficiency arises from unification of mind and spirit (100:4.3)
 
 effigies | (88:5.3) | | | 
 
-effort | | See also action | | 
+effort | | action | | 
 ascenders learn real mental effort in Havona (26:7.1)
 essential to acquirement of survival values (50:6.3)
 loyalties not exercised for good without a struggle (100:4.2)
@@ -256,15 +252,15 @@ recognition indicative of effort granted to all (20:8.3)
 reward follows (50:7.3)
 self element exhausts, not effort to achieve (48:6.37)
 
-ego | | See self | | 
+ego | | self | | 
 
-egocentricity | | See also selfishness | | 
+egocentricity | | selfishness | | 
 exposure to many other religions prevents (103:1.3)
 Jesus free of (100:7.3)
 
-egotism | | See selfishness | | 
+egotism | | selfishness | | 
 
-Egypt | | See also Alexandria; Luxor; Nile valley; Thebes | PLACE | 
+Egypt | | Alexandria; Luxor; Nile valley; Thebes | PLACE | 
 accurate reform of calendar 7000 years ago (77:2.12)
 Andite Imhotep erected first pyramids (80:6.4)
 appearance of cities (79:1.4)
@@ -272,7 +268,7 @@ at lowest cultural level 15,000 years ago (80:1.3)
 baby Jesus taken to (122:10.4) (123:0.3,6)
 caste systems based on color (70:8.11)
 culture derived from Euphrates region (80:6.2) (80:7.5)
-Egyptians named | See Amenemope; Amenhotep III; Ezraeon; Ikhnaton; Moses; Okhban; Philo
+Egyptians named | Amenemope; Amenhotep III; Ezraeon; Ikhnaton; Moses; Okhban; Philo
 growth of commerce (81:3.1)
 in 15,000 B.C. (78:3.6)
 influence on Judaism (97:8.2)
@@ -332,7 +328,7 @@ Nodite tribe from Elam (76:2.9)
 Elealah | (165:0.1) | | PLACE | 
 Perea mission
 
-elections | | See government; suffrage | | 
+elections | | government; suffrage | | 
 
 electricity | | | | 
 electronic movement gives rise to (42:5.8)
@@ -340,13 +336,13 @@ not a basic energy of space (41:1.2)
 same thing as light, heat, magnetism, chemism, energy, and matter (42:4.1-2)
 science can never say what electricity actually is (133:5.4)
 
-electrons | (42:3.5) | See also atoms; matter | | 
+electrons | (42:3.5) | atoms; matter | | 
 10 modified forms caused by losses of ultimatons (42:6.5)
 100 ultimatons in each electron (42:3.3) (42:4.6) (42:6.4-5)
 broken up at 35,000,000°F; source of solar energy (41:7.4,12,13)
 chemical behavior dependent on freely revolving electrons (42:7.6-10)
 electronic condensation from pressure in dense stars (41:3.6)
-electronic energy | See gravita
+electronic energy | gravita
 energy stored when ultimatons aggregate into electrons (42:5.4)
 gives up particle of light-energy upon collision (42:5.6)
 heat is measure of activity of (42:4.5)
@@ -365,14 +361,14 @@ Supreme Power Centers transmute ultimatons into electrons (42:4.3)
 take 500,000 years to reach sun’s surface (41:5.4)
 ultimatonic axial revolution determines negative or positive reactions (42:6.6)
 
-elements (chemical) | | See also atoms; periodic table | | 
+elements (chemical) | | atoms; periodic table | | 
 100 exist in local universes; 1000 in Havona (14:2.3) (42:7.4-7)
 above #27 are less predictable (42:7.10)
 above #90, electrons may escape (42:7.9)
 architectural spheres have 100, like evolved planets, plus 100 morontia forms (48:1.3)
 architectural worlds abound in so-called precious elements (46:5.31)
 heavier elements not found on surface of many worlds (42:7.5)
-named | See calcium; carbon; chlorine; copper; gold; helium; hydrogen; iron (metal); lead; nitrogen; oxygen; platinum; radium; sodium; tin; uranium; vanadium; zinc
+named | calcium; carbon; chlorine; copper; gold; helium; hydrogen; iron (metal); lead; nitrogen; oxygen; platinum; radium; sodium; tin; uranium; vanadium; zinc
 properties recur in groups of 7 (42:9.2-3)
 radioactive elements brought in by meteors (57:7.3)
 transmutation of elements is source of solar energy (41:7.5) (41:8.1)
@@ -459,10 +455,10 @@ Elman | | | PERSON | OK
 father of Nasanta (150:1.1)
 physician; supervised Bethsaida hospital (148:0.1) (148:2)
 
-Eloah | | See also Elohim | PERSON | OK
+Eloah | | Elohim | PERSON | OK
 singular of Elohim (96:1.8)
 
-Elohim | | See also Eloah | PERSON | OK
+Elohim | | Eloah | PERSON | OK
 God of gods (169:4.8)
 Jesus used term for God (169:4.5)
 northern kingdom returned to worship of Elohim (97:9.17)
@@ -475,12 +471,12 @@ transition from marriage by capture (83:2.2-4)
 embalming | | | | 
 Egyptian practice (95:2.4-5)
 
-emergencies | | See crisis | | 
+emergencies | | crisis | | 
 
 emergency council of Edentia | | | PERSON | OK
 personalities assigned because of Satania upheaval (43:5.14)
 
-emergent energy | | See ultimata | | 
+emergent energy | | ultimata | | 
 
 Emmaus | | | PLACE | 
 home of Cleopas and Jacob; Jesus’ 7th appearance at (190:5.1)
@@ -488,7 +484,7 @@ home of Cleopas and Jacob; Jesus’ 7th appearance at (190:5.1)
 emotion designers | | | ORDER | 
 designers and embellishers of celestial artisans (44:6.5)
 
-emotions | | See also sentiment | | 
+emotions | | sentiment | | 
 arouse emotions in approach to worship (167:6.6)
 do not appeal to emotions in proclaiming gospel (152:6.3) (159:3.2) (160:3.1)
 dream life testifies to pressure of unexpressed (110:5.4)
@@ -505,15 +501,15 @@ material feelings lead directly to material, selfish acts (102:3.3)
 mid-mammals showed fear, disgust, superstition (62:3.6,9)
 not equivalent to spiritual leadings (159:3.6)
 of early man (62:5.4-6)
-particular emotions | See adventure; affectation; affection; anger; anxiety; assurance; blame; boredom; brooding; brotherhood (attitude); certainty; charity; complaining; confusion; contention; courage; courtesy; cowardice; curiosity; defeat; depression; despair; disappointment; discouragement; encouragement; enthusiasm; envy; equivocation; honor; hopes; hypocrisy; hysteria; immaturity; impatience; indolence; inferiority; insecurity; insubordination; intolerance; isolation; jealousy; joy; kindness; long-suffering; loneliness; love; loyalty; lust; meekness; moderation; modesty; paralysis; patience; persistence; pessimism; piety; poise; pride; procrastination; propriety; recklessness; resentment; revenge; ridicule; self-abasement; self-confidence; self-deception; self-denial; self-gratification; self-importance; self-pity; self-respect; selfishness; shame; sorrow; suspicion; sympathy; tenderness; tolerance; unhappiness; vanity; zeal
+particular emotions | adventure; affectation; affection; anger; anxiety; assurance; blame; boredom; brooding; brotherhood (attitude); certainty; charity; complaining; confusion; contention; courage; courtesy; cowardice; curiosity; defeat; depression; despair; disappointment; discouragement; encouragement; enthusiasm; envy; equivocation; honor; hopes; hypocrisy; hysteria; immaturity; impatience; indolence; inferiority; insecurity; insubordination; intolerance; isolation; jealousy; joy; kindness; long-suffering; loneliness; love; loyalty; lust; meekness; moderation; modesty; paralysis; patience; persistence; pessimism; piety; poise; pride; procrastination; propriety; recklessness; resentment; revenge; ridicule; self-abasement; self-confidence; self-deception; self-denial; self-gratification; self-importance; self-pity; self-respect; selfishness; shame; sorrow; suspicion; sympathy; tenderness; tolerance; unhappiness; vanity; zeal
 reduced land yield or increased population brings worst traits of human nature to surface (68:6.4)
 
-emperor worship | | See also Roman Empire | | 
+emperor worship | | Roman Empire | | 
 deification of man as symbol of state; resented by Jews (121:5.4)
 national religions are reversion to (92:6.20)
 Pilate’s abortive promotion of (185:1.3-4)
 
-employment | | See labor | | 
+employment | | labor | | 
 
 emptiness | | | | 
 emptiest space has 100 ultimatons per cubic inch (42:4.6)
@@ -522,7 +518,7 @@ virtue is that it may be experientially filled (117:2.8)
 En-Gannim | (134:7.5) | | PLACE | 
 Jesus passed
 
-enchanters | | See shamans | | 
+enchanters | | shamans | | 
 
 encouragement | | | | 
 Spirit is source of continual encouragement (34:6.5)
@@ -540,13 +536,13 @@ of no concern to believers (176:3.2)
 Endantum | | | PLACE | 
 headquarters of constellation 5; site of Michael’s morontia mortal bestowal (119:6.3,6)
 
-endogamy | | See marriage | | 
+endogamy | | marriage | | 
 
 Endor | (123:4.6) (124:1.12) (134:7.5) (146:7) | | PLACE | 
 Joseph father of Jesus worked at (123:3.8)
 King Saul and the witch of (146:7.1)
 
-endowments | | See also inheritance | | 
+endowments | | inheritance | | 
 Spirit of Truth endows us with power to do God’s will (143:2.4)
 time is the one universal endowment (28:6.9)
 
@@ -566,23 +562,23 @@ make merciful intercession for one’s enemies (91:8.7)
 smitten by e., turn other cheek (159:5.9)
 wise man is friendly among (131:3.6)
 
-enemy, the | | See also Caligastia; devil; Lucifer | PERSON | OK
+enemy, the | | Caligastia; devil; Lucifer | PERSON | OK
 would seek to draw apostles away (138:7.3)
 
-energy | (42:2) | See also light; material energy; matter | | 
+energy | (42:2) | light; material energy; matter | | 
 circuits of energy
 	communication lanes are direct circuits between power centers or physical controllers (29:2.16) (44:4.10)
 	localized energy movements, like Gulf Stream (29:2.15)
 	never permanent possessions of ascenders (117:5.7-8)
 	of superuniverse require 968 million years to complete circuit (15:8.2)
 	only suns in direct channels will shine on forever (41:7.14)
-	suns transform and send forth energy from space circuits (15:6.9) | See also Universe Power Directors: work
+	suns transform and send forth energy from space circuits (15:6.9) | Universe Power Directors: work
 	superuniverse energy circuits (15:9.10)
 	transport seraphim travel along energy circuits (39:5.14)
 definition
 	3 original phases of divine energy are physical, mindal, and spiritual energy (44:5.5)
 	all-inclusive term applied to spiritual, mindal, and material realms (0:6.2)
-energy charge | See also absoluta
+energy charge | absoluta
 	in organized space (29:3.10)
 	of superuniverse registered by master frandalanks (29:4.2)
 manipulation of energy by celestial agencies
@@ -594,11 +590,11 @@ manipulation of energy by celestial agencies
 	energy manipulators oare one of celestial artisans (44:5)
 	energy proceeding from Paradise Presences has never lapsed (42:0.1)
 	energy transformers change physical form of energies of space (29:4.25)
-	force organizers modify space-force into energy (42:1.5) | See also Master Force Organizers
+	force organizers modify space-force into energy (42:1.5) | Master Force Organizers
 	Infinite Spirit co-ordinates all energy; can slow down energy to materialization (9:0.2) (9:3.4)
 	intelligently controlled by agents of Infinite Spirit (24:1.1) (104:4.13) (106:2.3)
 	life has inherent capacity for transmutation of energy (41:2.5)
-	power directors by their presence cause energy to segment or assemble into matter (15:8.4) (42:1.5) (42:2.22) | See also Universe Power Directors
+	power directors by their presence cause energy to segment or assemble into matter (15:8.4) (42:1.5) (42:2.22) | Universe Power Directors
 	power directors maintain equilibrium between energy and matter (15:8.4)
 	regulators listed (29:0.1)
 	released from Unqualified Absolute according to needs of experiential Deities (104:4.27)
@@ -670,38 +666,38 @@ physical energy
 		wavelike energy extension of electrons near nucleus (42:7.8)
 types of energy
 	absoluta q.v.
-	cosmic force | See absoluta
-	electronic energy | See gravita
-	emergent energy | See ultimata
+	cosmic force | absoluta
+	electronic energy | gravita
+	emergent energy | ultimata
 	force q.v.
-	force charge of space | See absoluta
+	force charge of space | absoluta
 	force-energy (11:5.4)
 	gravita q.v.
 	gravity energy (29:2.11) (42:2.12)
-	Havona energy | See triata
+	Havona energy | triata
 	material energy q.v.
 	monota q.v.
-	morontia energy | See morontia: morontia energy
-	mother force of space | See absoluta
-	Paradise energy | See monota
-	primordial force | See segregata
+	morontia energy | morontia: morontia energy
+	mother force of space | absoluta
+	Paradise energy | monota
+	primordial force | segregata
 	puissant energy q.v.
-	pure energy | See segregata
+	pure energy | segregata
 	segregata q.v.
 	solar energy q.v.
-	space energy | See absoluta
-	space-force | See absoluta
-	space potency | See absoluta
-	spirit energy | See spirit: spirit energy
+	space energy | absoluta
+	space-force | absoluta
+	space potency | absoluta
+	spirit energy | spirit: spirit energy
 	tranosta q.v.
-	transcendental energy | See tranosta
+	transcendental energy | tranosta
 	triata q.v.
 	ultimata q.v.
-	universe power | See gravita
+	universe power | gravita
 
-energy controllers | See Master Physical Controllers; Universe Power Directors | | | | 
+energy controllers | Master Physical Controllers; Universe Power Directors | | | | 
 
-energy manipulators | | See also celestial artisans | ORDER | 
+energy manipulators | | celestial artisans | ORDER | 
 celestial artisans, types (44:5)
 	# physical-energy manipulators q.v.
 	# mind-energy manipulators q.v.
@@ -711,11 +707,11 @@ celestial artisans, types (44:5)
 	# experts of communication q.v.
 	# teachers of rest q.v.
 
-energy-matter | | See energy; material energy; physical energy | | 
+energy-matter | | energy; material energy; physical energy | | 
 
-energy shields | | See friction shields | | 
+energy shields | | friction shields | | 
 
-energy transformers | | See also Master Physical Controllers; Universe Power Directors | ORDER | 
+energy transformers | | Master Physical Controllers; Universe Power Directors | ORDER | 
 1 million in Satania; 100 per inhabited world (29:4.36)
 enabled
 	apostles to see transfiguration (158:1.8)
@@ -741,7 +737,7 @@ nature
 	semimaterial; somewhat personal (29:4.16-18)
 	type of Master Physical Controller (29:4.7)
 
-energy transmitters | | See also Master Physical Controllers; Universe Power Directors | ORDER | 
+energy transmitters | | Master Physical Controllers; Universe Power Directors | ORDER | 
 functions
 	1000 enable seraphic departure (29:4.19) (39:5.14)
 	cannot initiate communication; ruling sustaining Van marooned in (67:2.2-6) (67:6.9)
@@ -761,7 +757,7 @@ Jesus and Abner visited Nazarite colony at (142:8.1)
 John the Baptist lived at Engedi for 2-1/2 years (135:4.3)
 southern headquarters of Nazarites and other ascetic herdsmen (135:1.1) (135:2.3) (165:0.1)
 
-England | | See also British Isles | PLACE | 
+England | | British Isles | PLACE | 
 reposed sovereignty in United Kingdom (134:6.3)
 
 English Channel land bridge | (64:1.5-6) ​​(64:2.6) | | PLACE | 
@@ -769,7 +765,7 @@ English Channel land bridge | (64:1.5-6) ​​(64:2.6) | | PLACE |
 English language | | | | 
 revelators instructed to use (0:0.1-3) (31:10.22) (56:10.23)
 
-enmity | | See hatred | | 
+enmity | | hatred | | 
 
 Enoch | | | PERSON | OK
 son of Cain and Remona, head of Elamite Nodites (76:2.9)
@@ -782,17 +778,17 @@ Book of
 Enos | | | PERSON | 
 son of Seth, founded new order of worship (76:3.4)
 
-Ensa | | See also minor sectors; Uminor the third | PLACE | 
+Ensa | | minor sectors; Uminor the third | PLACE | 
 has 7 satellites (15:7.8)
 minor sector 3 in major sector of Splandon (15:14.7) (18:5.5)
 our minor sector (29:4.18)
 rotates around star cloud of Sagittarius (15:3.5-11)
 Uminor the third is capital of (15:7.8)
 
-enseconaphimation | | See also seraphic, secoraphic, and superaphic transport | | 
+enseconaphimation | | seraphic, secoraphic, and superaphic transport | | 
 for long flight to Havona (112:7.5)
 
-enseraphimation | | See seraphic, secoraphic, and superaphic transport | | 
+enseraphimation | | seraphic, secoraphic, and superaphic transport | | 
 
 Enta | | | PERSON | OK
 Mary mother of Jesus a descendant of (122:1.2)
@@ -806,7 +802,7 @@ Peter’s enthusiasm commendable but dangerous (137:1.3)
 work at what one finds to do with all one’s might (133:8.3)
 zeal shown in unrecognized religious activity (99:3.7)
 
-environment | See also circumstances; handicaps
+environment | circumstances; handicaps
 bad environment cannot thwart attainment of individual mortal (55:11.7)
 divinely watered souls all but independent of material (34:6.8)
 Life Carriers manipulated environment to eliminate inferior prehuman strains (65:2.14-15)
@@ -816,7 +812,7 @@ seraphim, Master Physical Controllers, and midwayers manipulate environment (113
 some are exceptionally favorable to moral progress (5:1.4)
 spiritual progress open to all regardless of (5:1.4-7)
 
-envy | | See also jealousy; resentment | | 
+envy | | jealousy; resentment | | 
 admission of (160:1.7)
 deep-seated human trait (87:5.6)
 evils of national envy, racial jealousy (52:6.5)
@@ -829,7 +825,7 @@ Pharisees’ inner souls filled with covetousness (166:1.4)
 prevented by intimate contact with others (160:2.7)
 waxing rich by wariness and much pinching (165:4.8)
 
-Eocene | | See also geologic ages | | 
+Eocene | | geologic ages | | 
 early mammalian era from 50 to 35 million years ago (61:1)
 
 Ephesus | (130:0.3) | | PLACE | 
@@ -838,7 +834,7 @@ capital of Roman province of Asia (133:6.1)
 Jesus’ discourse on the soul at (133:6)
 Paul resided 2 years in Ephesus making tents (133:6.3)
 
-Ephraim | (143:0.1) (162:9.6) | See also Israel; Palestine | PLACE | 
+Ephraim | (143:0.1) (162:9.6) | Israel; Palestine | PLACE | 
 Ahab was king of (97:9.18-19)
 Canaanite city of Gibeon had peace treaty with (97:9.13)
 Israelitish consciousness took origin in E.; vanished (97:9.2,21)
@@ -862,13 +858,13 @@ primitives often worshiped (85:6.2)
 Epistle of First John | | | | 
 written as cover letter for Gospel of John (121:8.10)
 
-epochal angels | | See seraphim: types:master seraphim of planetary supervision | ORDER | 
+epochal angels | | seraphim: types:master seraphim of planetary supervision | ORDER | 
 
-epochal revelation | | See revelation | | 
+epochal revelation | | revelation | | 
 
-epochs | | See planetary epochs | | 
+epochs | | planetary epochs | | 
 
-equality | | See also inequalities | | 
+equality | | inequalities | | 
 erroneous belief (5:1.4) (69:3.8) (70:8.1) (70:9.15)
 in spirit all men are equal (92:7.4)
 inferiors have always contended for equal rights (70:9.16)
@@ -876,7 +872,7 @@ never brings peace except in recognition of supersovereignty (134:4.9-10)
 of men and women (125:0.4) (125:5.4) (127:1.5) (138:8.11) (149:2.8-9) (150:1.3) (167:5.4) (167:6.4) (194:3.14)
 of mind advocated by Lucifer (53:4.2)
 
-equalizations | | See compensations | | 
+equalizations | | compensations | | 
 
 equation | | | | 
 one cannot supplicate a mathematical (102:7.3)
@@ -888,7 +884,7 @@ Erech | | | PLACE |
 Mesopotamia city state (78:8.9-10)
 near Noah’s home of Aram (78:7.5)
 
-error | | See also evil; iniquity; mistakes; sin | | 
+error | | evil; iniquity; mistakes; sin | | 
 ability to entertain error lost on final spirit levels (132:2.6)
 Adam and Eve’s default was error, not rebellion (76:5.1)
 causes sorrow because it cannot be realized (2:7.6)
@@ -932,7 +928,7 @@ origin
 penalty for crime decreed and administered by family wronged (70:10.11)
 seldom cannibalistic except in famine (89:5.4)
 
-Essenes | | See also Judaism | RELIGION | 
+Essenes | | Judaism | RELIGION | 
 held possessions in common (165:4.5)
 lived as brotherhood in monasteries (137:7.8)
 tolerated belief in reincarnation (164:3.4)
@@ -944,7 +940,7 @@ marriage to James brother of Jesus (128:5.7) (128:7.10-11)
 Esther | (150:3.1) | | PERSON | OK
 Purim is feast of (123:3.5)
 
-eternal life | | See also death; fusion; heaven; judgment; life; nonsurvivors; resurrection; salvation; survival | | 
+eternal life | | death; fusion; heaven; judgment; life; nonsurvivors; resurrection; salvation; survival | | 
 according to
 	Buddhism (131:3.7)
 	Confucianism (131:9.4)
@@ -977,7 +973,7 @@ no misbehavior by others can ever jeopardize one’s eternal prospects (54:6.4)
 no one can be coerced into (5:6.8,12)
 what would a man give in exchange for e.l.? (158:7.5)
 
-Eternal Son | (6) (7) (10:1.4) | See also gravity: spirit gravity | PERSON | OK
+Eternal Son | (6) (7) (10:1.4) | gravity: spirit gravity | PERSON | OK
 personality of Eternal Son is master pattern for all personality (0:6.13) (6:7) (6:8.5) (115:3.14)
 7 sacred worlds of Eternal Son (13:0.4) (13:3)
 active spirit gravity of Eternal Son calculated (12:3.9)
@@ -1070,7 +1066,7 @@ recognition of the Eternal Son (6:8)
 	Michael possesses all attributes of Eternal Son, were Eternal Son in Nebadon (33:1.2)
 	Planetary Princes are nearest personal approach of Eternal Son (aside from incarnation) to man (50:1.1)
 
-Eternals of Days | (18:2) | See also Havona | ORDER | 
+Eternals of Days | (18:2) | Havona | ORDER | 
 1 billion created by Trinity; one directs each Havona sphere (14:3.3) (14:5.6,9) (18:2.1)
 before Grandfanda, high Paradise Citizens assisted (26:11.2)
 divine equals of Ancients of Days (18:2.2)
@@ -1083,7 +1079,7 @@ Supreme Trinity Personalities (18:0.3) (18:2.1)
 Trinity Teacher Son replaces when absent (18:2.2)
 visible to all inhabitants of their worlds (18:2.2)
 
-eternity | (118:1) | See also eternal life; reality: levels of reality: absolute reality | | 
+eternity | (118:1) | eternal life; reality: levels of reality: absolute reality | | 
 attainment of Father is passport to eternity (26:9.2)
 conception of eternity
 	circular simultaneity, not linear sequence (130:7.5)
@@ -1106,7 +1102,7 @@ theory is ingenious attempt to unify ignorance (42:9.4)
 ethical sensitizers | | | ORDER | 
 supervisor seraphim; promote morality of relationships (39:3.7)
 
-ethics | | See also morality | | 
+ethics | | morality | | 
 all ethics grows out of facts of origin (28:6.2)
 barely superanimal unless dynamic and progressive (12:5.10)
 birth of (86:6.7)
@@ -1141,7 +1137,7 @@ Technical Advisors teach best and right way to do things (25:4.17)
 Etruscan priesthood | | | RELIGION | 
 organized into Roman state religion (98:3.2)
 
-eugenics | (82:6) | See also genetics; handicaps; races | | 
+eugenics | (82:6) | genetics; handicaps; races | | 
 Adamic age usually witnesses elimination of unfit (52:3.4)
 Adamites, Andites exterminated inferiors (64:3.5) (80:1.7) (80:5.5-6)
 all primitive tribes killed deformed and sickly children (68:6.8)
@@ -1169,20 +1165,20 @@ recommended societal actions
 	unfit should be eliminated before racial blending (51:4.8)
 sex slavery polluted biologic fitness of superior peoples (69:5.10)
 
-eunuchs | | See castration | | 
+eunuchs | | castration | | 
 
-Euphrates river | | See also Mesopotamia | PLACE | 
+Euphrates river | | Mesopotamia | PLACE | 
 and Tigris were cradle of Occidental, Indian civilizations (78:1.3)
 drought drove Andites to valleys of (79:1.3) (80:1.1)
 second garden adjoined (76:0.1) (76:1.1-3) (76:3.8) (76:4.8)
 Sumerians lived at mouth of (77:4.6) (78:8)
 
-Europe | | See also British Isles; England; France; Germany; Ireland; Italy; Norway; Scotland; Spain; Wales | PLACE | 
+Europe | | British Isles; England; France; Germany; Ireland; Italy; Norway; Scotland; Spain; Wales | PLACE | 
 Adamites, Andites entered (77:5.10) (78:3.2,5) (78:6.2) (80:1,4-5) (80:9.5)
 Africa once connected Europe to South America (59:5.11)
 blue race invaded; drove Andonites from (64:7.3,8-10) (78:1.5)
 blue race was most adventurous of colored races in Europe (78:1.8)
-dark ages of | See dark ages
+dark ages of | dark ages
 dinosaurs buried in (60:2.2)
 drought drove Andonites into Europe ca. 2500 B.C. (80:9.6-7)
 ever-warring nations of Europe (134:6.5)
@@ -1200,9 +1196,9 @@ unified in times of Jesus (121:1.3-7)
 evaluation | | | | 
 demands transcendence of thing evaluated (112:2.12)
 
-evangelism | | See gospel: proclaiming | | 
+evangelism | | gospel: proclaiming | | 
 
-evangelists, the seventy | | See also disciples | PERSON | OK
+evangelists, the seventy | | disciples | PERSON | OK
 a group of preachers ordinated by Jesus from the original evangelists
 trained by learning and doing (148:1.1)
 training at Bethsaida (148)
@@ -1223,7 +1219,7 @@ proclaim spiritual liberty and divine sonship (35:3.21)
 Evangels of Light | | | ORDER | 
 celestial beings temporarily attached to mortal finaliter companies (31:7)
 
-Eve | | See also Adam; Material Sons of God | PERSON | OK
+Eve | | Adam; Material Sons of God | PERSON | OK
 Eve is wife of Adan and bearer of violet race to Urantia
 Caligastia plot
 	Caligastia’s wily flank attack on (75:2.3)
@@ -1248,28 +1244,28 @@ after fault
 	Mary mother of Jesus a descendant of (122:1.2)
 	one of 24 counselors (45:4.12)
 
-Evening Stars | | See Brilliant Evening Stars | ORDER | 
+Evening Stars | | Brilliant Evening Stars | ORDER | 
 
 Eventod | | | PERSON | OK
 Michael’s bestowal as a spirit mortal (119:5.2)
 
-eventuated transcendental beings | | See Transcendentalers | ORDER | 
+eventuated transcendental beings | | Transcendentalers | ORDER | 
 
-eventuation | | See also reality:levels of reality:absonite reality; Transcendentalers | | 
+eventuation | | reality:levels of reality:absonite reality; Transcendentalers | | 
 process described (30:1.92-99) (31:8.3) (31:9.10)
 
-eventuators | | See Transcendentalers | | 
+eventuators | | Transcendentalers | | 
 
-everywhereness | | See omnipresence | | 
+everywhereness | | omnipresence | | 
 
 Eveson | | | PERSON | OK
 Adam’s second son; masterly leader (74:6.2) (76:3.3)
 
-evidence | | See also certainty | | 
+evidence | | certainty | | 
 basis of fairness (10:6.3)
 in tribunals given by personalities of Infinite Spirit (10:6.3-4)
 
-evil | (130:1.5-6) ​​(132:2) | See also error; evolution: principle of evolution; iniquity; mistakes; misunderstandings; rebellion (spiritual); sin | | 
+evil | (130:1.5-6) ​​(132:2) | error; evolution: principle of evolution; iniquity; mistakes; misunderstandings; rebellion (spiritual); sin | | 
 Adjusters pilot God-conscious mortals away from (110:1.2)
 almost every human being has a pet evil (163:2.7)
 always results when personal evaluations are elevated to absolutes (19:1.4) (100:1.1)
@@ -1346,12 +1342,12 @@ primitives cravenly feared malevolence of (111:0.7)
 primitives thought much sickness caused by (90:3.7)
 some subordinate gods kept as (96:1.14)
 
-evil one | | See Caligastia | | 
+evil one | | Caligastia | | 
 
-evil spirits | | See demon possession | | 
+evil spirits | | demon possession | | 
 
-evolution | | See also divine plan; progress | | 
-biologic evolution (65) | See also genetics; life: biological
+evolution | | divine plan; progress | | 
+biologic evolution (65) | genetics; life: biological
 	2 unique features on Urantia were appearance of Andonic race prior to colored peoples; appearance in a single family (64:6.1-2) (65:4.7)
 	50,000 facts prove evolution nonaccidental (58:2.3-5)
 	Adam’s significant contribution (51:0.3) (75:8.1-2) (78:1.1)
@@ -1420,7 +1416,7 @@ principle of evolution
 	summary of cycle (56:9.12-13)
 	superphysical adaptations (65:6.7)
 	the evolutionary idea (32:3)
-social evolution | See also ascension plan; civilization
+social evolution | ascension plan; civilization
 	accelerate evolution by applying spiritual pressure from above (52:6.7)
 	better to reform than destroy religious ritual (97:10.7)
 	by education of youth (81:6.23-24)
@@ -1441,9 +1437,9 @@ social evolution | See also ascension plan; civilization
 	unaided evolution cannot achieve peace on isolated worlds (52:6.2)
 	yields progress; revolution does not (66:6.3-6) (99:2.5)
 
-evolutionary races | | See races | | 
+evolutionary races | | races | | 
 
-exaltation, self | | See self-importance | | 
+exaltation, self | | self-importance | | 
 
 examinations | | | | 
 by selective assorters (48:2.23)
@@ -1457,37 +1453,37 @@ example | | | |
 Jesus’ life an inspiration, not an example (120:2.7) (129:4.7) (136:0.1) (140:10.3) (181:1.3) (194:2.8) (196:1.5)
 not lastingly influential to children (100:1.4)
 
-excitement | | See emotions | | 
+excitement | | emotions | | 
 
 excommunication | | | | 
 followers of Jesus cast out of synagogues; denied rights and
 privileges (164:4.6,11) (164:5.4-5) (190:3.3) (190:5.1)
 
-excreta | | See also sanitation | | 
+excreta | | sanitation | | 
 no residual waste on mansion worlds (47:4.6)
 primitives carefully buried excreta from fear of magic (88:5.1)
 
 excursion and reversion supervisors | | | ORDER | 
 Morontia Companions (25:7.1) (47:3.12) (48:3.14)
 
-executioners of Ancients of Days | | See divine executioners | ORDER | 
+executioners of Ancients of Days | | divine executioners | ORDER | 
 
-exhaustion | | See fatigue; rest | | 
+exhaustion | | fatigue; rest | | 
 
-existential reality | | See reality:levels of reality:existential reality | | 
+existential reality | | reality:levels of reality:existential reality | | 
 
 Exodus, Book of | (145:2.2) | | | 
 
-exogamy | | See marriage | | 
+exogamy | | marriage | | 
 
 exorcism | (87:6) | | | 
 employment of one spirit to control or banish another (87:6.13)
 place in evolution of religious observances (90:0.1)
 ritual merges with avoidance, coercion, propitiation (89:0.2)
 
-expectations | | See hopes | | 
+expectations | | hopes | | 
 
-expectoration | | See spittle | | 
+expectoration | | spittle | | 
 
 experience | | | | 
 age oftentimes represents (181:2.5)
@@ -1513,7 +1509,7 @@ nothing takes the place of (22:9.6-8) (108:0.2) (109:1.3) (181:2.5,24)
 outer spacers will lack finite experience (31:10.11)
 subjective, except for validity of cosmic mind response (16:9.1)
 
-experientials | | See also reality: levels of reality: finite reality | | 
+experientials | | reality: levels of reality: finite reality | | 
 earned power, demonstrated power (106:2.3)
 
 experts of communication | | | ORDER | 
@@ -1534,7 +1530,7 @@ extension-school instructors | | | ORDER |
 in Uversa personality register (30:2.153)
 teachers from next higher residential world (30:3.8)
 
-extinction | | See also death: spiritual death; divine executioners; iniquity; judgment:divine judgment; sin; survival | | 
+extinction | | death: spiritual death; divine executioners; iniquity; judgment:divine judgment; sin; survival | | 
 Ancients of Days
 	alone may decree extinction (2:3.3) (15:12.2) (18:3.7) (20:3.2)(33:2.1)
 	executioners of Ancients of Days (2:3.6) (53:3.5)

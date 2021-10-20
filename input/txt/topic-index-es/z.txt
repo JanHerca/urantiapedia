@@ -1,18 +1,12 @@
 ####################################################################################
 #
-#                    Z
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+#                     Z
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
-
-
 
 Zaqueo | | | PERSON | 
 publicano jefe en Jericó (171:6.1)
@@ -37,7 +31,7 @@ adoptó al antepasado de José (122:4.3)
 Zafón | (159:0.2) (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
-celo | | Ver entusiasmo | | 
+celo | | entusiasmo | | 
 
 zelotes | | | | 
 Jesús se negó a unirse (127:2.1-10) (136:9.7)
@@ -59,13 +53,13 @@ negocio propio de secado de pescado (139:1.1)
 compró el capital de José en una propiedad de Cafarnaúm (127:6.10)
 con su esposa Salomé tuvo 3 hijos, 4 hijas (129:1.5)
 
-Zebedeo (David) | | Ver David Zebedeo | PERSON | 
+Zebedeo (David) | | David Zebedeo | PERSON | 
 
-Zebedeo (Santiago) | | Ver Santiago Zebedeo | PERSON | 
+Zebedeo (Santiago) | | Santiago Zebedeo | PERSON | 
 
-Zebede (Juan) | | Ver Juan Zebedeo | PERSON | 
+Zebede (Juan) | | Juan Zebedeo | PERSON | 
 
-Zebedeo (Salomé) | | Ver Salomé (esposa de Zebedeo) | PERSON | 
+Zebedeo (Salomé) | | Salomé (esposa de Zebedeo) | PERSON | 
 
 Zabulón | (146:3.10) (156:6.2) | | PLACE | 
 
@@ -87,13 +81,13 @@ en el Paraíso inferior directamente debajo de la Trinidad (11:5.2-4)
 Zofar | | | PERSON | 
 buscó un propósito oculto en las miserias de Job (148:6.8,9)
 
-Zoroastro | | Ver zoroastrismo | PERSON | 
+Zoroastro | | zoroastrismo | PERSON | 
 Llama simbolizada por el Espíritu (95:6.4)
 en contacto directo con los descendientes de misioneros de Salem (131:5.1)
 muy afectado por el espiritismo dual (92:5.12)
 destacado maestro religioso; apareció en Irán en el siglo VI a.C. (95:6.1) (121:6.4)
 
-zoroastrismo | (92:6.8) | Ver Ahura-Mazda; Zoroastro | RELIGION | 
+zoroastrismo | (92:6.8) | Ahura-Mazda; Zoroastro | RELIGION | 
 Resumen de Ganid de (131:5)
 influencia en el cristianismo (98:7.6)
 se opuso militantemente al mitraísmo (98:5.2)

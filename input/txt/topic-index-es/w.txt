@@ -1,24 +1,17 @@
 ####################################################################################
 #
-#                    W
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+#                     W
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
-
-
-
 
 se despierta por muerto | | | | 
 origen en cultos fantasma (87:6.11)
 
-Gales | | Ver Islas Británicas | PLACE | 
+Gales | | Islas Británicas | PLACE | 
 reposo soberanía en el Reino Unido (134:6.3)
 
 muros | | | | 
@@ -32,7 +25,7 @@ escritura temprana (69:4.7)
 varitas | | | | 
 magia practicada con (88:6.1)
 
-guerra | | Ver militar; paz:paz social; autodefensa | | 
+guerra | | militar; paz:paz social; autodefensa | | 
 siempre he sido un hacedor de reyes (70:5.5)
 beneficios de la guerra temprana (70:2)
 	Badonán supervivientes de guerra eran los más inteligentes y deseables de todos los que vivían (64:5.1)
@@ -83,14 +76,14 @@ religión prostituida en propaganda militar durante (99:3.8)
 sofisma sentimental de la planificación de la paz visionaria (70:3.4)
 La esclavitud fue una característica de las primeras conquistas militares (69:3.7) (69:8.1-4) (70:1.20) (70:8.5) (121:3.7)
 
-advertencias | | Ver religión:advertencias | | 
+advertencias | | religión:advertencias | | 
 Adán y Eva advirtieron repetidamente que no se apartaran del plan divino (75:7.4)
 Lucifer y Caligastia malinterpretaron a advertencias como una interferencia injustificada con las libertades personales (66:8.2)
 Los mundos carcelarios de Satania son una advertencia solemne (45:1.11)
 generalmente dispara la determinación del mal una vez que el amor está muerto (179:4.8)
 usualmente inútil con la naturaleza humana amargada (139:12.11)
 
-lavado | | Ver saneamiento | | 
+lavado | | saneamiento | | 
 Jesús lavó los pies de los apóstoles (179:1.2,8) (179:3)
 Jesús se lavó solo para la limpieza (166:1.2) (167:1.3) (179:3.1)
 
@@ -98,7 +91,7 @@ nidos de avispas | | | |
 los primeros escribieron sobre (66:5.9)
 
 residuos | | | | 
-humano | Ver excremento
+humano | excremento
 imprevisión
 
 amo de casa vigilante (parábola) | | | | 
@@ -110,7 +103,7 @@ parábola de (165:5.5)
 torre de vigilancia | | | | 
 parábola del edificio (171:2.3)
 
-agua | | Ver agua de vida | | 
+agua | | agua de vida | | 
 copa dada a un alma sedienta (159:2.1)
 Jesús nunca caminó (136:7.3)
 Jesús convirtió agua en vino (137:4.10-13) (138:8.5)
@@ -152,7 +145,7 @@ Jesús pasó por aquí
 serpientes de agua | | | | 
 si su hijo pide un (144:2.4)
 
-Fenómenos ondulatorios | | Ver energía:tipos de energía:energía de las olas | | 
+Fenómenos ondulatorios | | energía:tipos de energía:energía de las olas | | 
 
 enlace de tablero de cera | | | | 
 deudas registradas en (169:2.4)
@@ -180,7 +173,7 @@ el camino a la vida eterna es recto y angosto (166:3.3,6)
 Camino del Cielo | | | | 
 enseñanza de Confucio (94:6.10)
 
-débil, el | | Ver desafortunados | | 
+débil, el | | desafortunados | | 
 «¿Te pareces a los debiluchos?» (143:1.5)
 Dios da poder al débil (97:7.8)
 siempre he luchado por la igualdad de derechos (70:9.16)
@@ -190,7 +183,7 @@ ministrar a (192:2.2)
 sólo la hermandad impide que los fuertes opriman los débiles (71:4.17)
 no se debe permitir que se aproveche de los «gobernantes de oro» (71:4.16)
 
-riqueza | | Ver logro; ganarse la vida; dinero; posesiones; propiedad privada | | 
+riqueza | | logro; ganarse la vida; dinero; posesiones; propiedad privada | | 
 adquisidor
 	10 métodos de acumulación (132:5.2-12)
 	la fidelidad no asegurará recompensas de (160:4.10)
@@ -247,7 +240,7 @@ María no destetó a Jesús hasta Alejandría (123:0.1)
 afecto materno demasiado fuerte para el infanticidio después (68:6.9)
 el uso de leche de vaca y cabra redujo la mortalidad infantil (84:3.9)
 
-armas | | Ver espadas | | 
+armas | | espadas | | 
 metal armas de Tubal-Caín (159:1.7)
 ancianos y tullidos se pusieron a trabajar haciendo (69:3.4)
 
@@ -260,7 +253,7 @@ Caligastia 100 enseñado (66:5.2)
 Jesús se convirtió en un experto tejedor (123:5.15)
 practicado en Edén, segundo jardín (74:2.7) (76:3.8)
 
-bodas | | Ver novias; matrimonio | | 
+bodas | | novias; matrimonio | | 
 en Caná (137:3.6) (137:4)
 encantos y supersticiones entre los antiguos (83:4.4-9)
 bodas antiguas celebradas debajo de árboles (85:2.3)
@@ -281,12 +274,12 @@ semana | | | |
 la semana de 7 días surgió del hecho de que 7 era 1/4 de 28 (66:7.17)
 origen incidental a sanción sagrada durante 7 días semana (74:8.1)
 
-pesos | | Ver medidas | | 
+pesos | | medidas | | 
 primero fueron los granos de trigo (69:4.5)
 Jerusem gradant equivale a 10 onzas de Urantia (46:1.2)
 de electrones y átomos (42:6.7-8)
 
-bienestar (gobierno) | | Ver caridad:por el gobierno | | 
+bienestar (gobierno) | | caridad:por el gobierno | | 
 
 bien hecho | | | | 
 no se canse en (163:6.7) (174:0.2) (192:2.9)
@@ -327,7 +320,7 @@ torbellino | | | |
 El padre no se revela a sí mismo en torbellino (148:6.10)
 los que siembran viento segarán torbellino (131:2.9)
 
-raza blanca | (80:9) | Ver caucásicos; razas | RACE | 
+raza blanca | (80:9) | caucásicos; razas | RACE | 
 375 Adansonitas que se establecieron en Grecia llevaron las cepas más valiosas hacia el 10.000 a.C. (80:7.4)
 culto a los antepasados ​​después de la caída de la civilización romana (79:8.3)
 Cristianismo bien adaptado a las costumbres actuales de (98:7.11)
@@ -356,11 +349,11 @@ desarrollo social más avanzado en Urantia (68:0.3)
 curiosidad exploratoria e inquieta debido a la herencia andita (79:7.3)
 factor unificador es la herencia andita (81:4.11)
 
-herreros blancos | | Ver magia | | 
+herreros blancos | | magia | | 
 
-todo | | Ver partes y el todo | | 
+todo | | partes y el todo | | 
 
-malicia | | Ver pecado | | 
+malicia | | pecado | | 
 
 viudas | | | | 
 se suicidó habitualmente en las tumbas de sus maridos (87:2.7)
@@ -374,9 +367,9 @@ la viudez es muy temida bajo ciertas costumbres (82:3.12)
 desierto de Judea | | | PLACE | 
 Juan el Bautista cuidaba ovejas en (135:2.3)
 
-voluntad | | Ver libre albedrío | | 
+voluntad | | libre albedrío | | 
 
-voluntad de Dios | | Ver plan divino; sumisión | | 
+voluntad de Dios | | plan divino; sumisión | | 
 sumisión activa a (2:5.5) (5:1.12) (110:3.2) (117:5.2) (128:1.6,12) (130:2.2) (131:2.8) (133:7.10) (135:11.3) (136:4.4) (136:6.4) (138:7.1) (140:8.3) (142:6.8) (144:5.95) (146:3.5-7) (149:5.3) (168:0.11) (171:4.7) (171:8.14) (178:3.3) (180:2.2) (181:2.11,15) (182:2.1-2) (186:2.3)
 La mejor y correcta forma de hacer las cosas siempre existe (25:4.17) (39:4.14)
 compromiso con voluntad de Dios traído al Ajustador antes del Espíritu de la Verdad (108:2.10)
@@ -457,7 +450,7 @@ origen de la idea que tienen los ángeles (39:5.11-14)
 
 Wisconsin | (58:7.4) (58:7.7) | | PLACE | 
 
-sabiduría | (85:7.3) | Ver Espíritus Ayudantes de la Mente:número 7 – sabiduría | | 
+sabiduría | (85:7.3) | Espíritus Ayudantes de la Mente:número 7 – sabiduría | | 
 70 divisiones de (27:6.3)
 niveles ascendentes de (71:7.2,5-13)
 pedirle a Dios sabiduría para resolver problemas (91:6.5) (91:9.7)
@@ -507,7 +500,7 @@ copiado en el Libro de Proverbios (95:4.5)
 influyó en el concepto de El Shaddai (96:1.5)
 Filón poseía copia (95:4.3)
 
-Sabiduría de Salomón | | Ver Eclesiastés | | 
+Sabiduría de Salomón | | Eclesiastés | | 
 
 sabios (magos) | | | | 
 encontró al niño Jesús y dejó regalos (122:8.6)
@@ -520,7 +513,7 @@ Los apóstoles interpretaron las palabras del Maestro para justificar sus intens
 los valores morales no surgen de (100:3.2)
 prefiriendo ilusiones optimistas a la realidad (160:1.7) (160:4.13-14)
 
-brujería | | Ver magia | | 
+brujería | | magia | | 
 magia realizada por espíritus irregulares (90:2.2-3)
 los primitivos atribuyeron muertes a (90:3.7)
 los chamanes reprimían a los rivales llamándolos brujas (90:2.12)
@@ -536,13 +529,13 @@ hombre con (148:7)
 testigos | | | | 
 La ley judía requiere que 2 deben estar de acuerdo (184:3.6)
 
-esposas | | Ver matrimonio; sexos; mujer | | 
+esposas | | matrimonio; sexos; mujer | | 
 siempre sujeto a tabúes más restrictivos que los maridos (82:2.5) (82:4.4)
 dejando esposas por el bien del reino (150:4.3) (163:3.4) (167:2.2) (171:2.2)
 una vez calificado por su capacidad para trabajar duro, tener hijos (82:3.7)
 los hombres primitivos podían matar a esposas si se paga (70:10.11)
 
-magos | | Ver magia; brujería | | 
+magos | | magia; brujería | | 
 practicantes del arte negro llamados (90:2.2)
 
 Wolvering | | | PLACE | 
@@ -551,7 +544,7 @@ universo vecino a Nebadon (32:2.12)
 lobos | (61:3.13) | | | 
 cazado por los neandertales (64:4.2)
 
-mujer | | Ver mortales; sexos; esposas | | 
+mujer | | mortales; sexos; esposas | | 
 entre los administradores de Adán y Eva (74:3.5)
 entre los primeros cristianos
 	admitido en la comunión plena de la iglesia primitiva (98:6.4)
@@ -632,7 +625,7 @@ predicado en burdeles (150:2.2)
 se hizo cargo del cuidado de los enfermos (165:0.2)
 capacitó a 50 mujeres (163:7.3)
 
-atrio de las mujeres | | Ver templo de Jerusalén | | 
+atrio de las mujeres | | templo de Jerusalén | | 
 
 madera | | | | 
 comercio temprano en (79:1.4)
@@ -649,47 +642,47 @@ los Hijos divinos son (10:3.3)
 El Hijo Eterno es (6:0.1) (6:1.3) (6:2.2) (6:8.3) (14:6.15) (20:5.1)
 es pan de vida (179:5.3)
 es verdad, misericordia, vida eterna (174:5.7)
-Jesús fue | Ver Jesús:personalidad y naturaleza:Dios encarnado en el hombre
+Jesús fue | Jesús:personalidad y naturaleza:Dios encarnado en el hombre
 Pablo poco soñó que sus cartas serían consideradas como (98:7.9)
 rechazar las escrituras tradicionales consideradas (155:6.2)
 
-palabras | | Ver idioma | | 
+palabras | | idioma | | 
 
 hechura | | | | 
 Jesús perdió poco tiempo en nimiedades (134:9.7)
 
-trabajos | | Ver acción; salvación | | 
+trabajos | | acción; salvación | | 
 no puede comprar el favor de Dios (167:5.1)
 salvación no lograda por (143:2.5)
 
-mundo (tierra) | | Ver Urantia | | 
+mundo (tierra) | | Urantia | | 
 
-gobierno mundial | | Ver gobierno:gobierno mundial | | 
+gobierno mundial | | gobierno:gobierno mundial | | 
 
 mundo de la cruz | | | | 
 Urantia conocida como (20:6.6) (57:8.6) (119:8.8) (188:4.1)
 
-mundo del Padre | | Ver Jerusem:mundos culturales de transición | PLACE | 
+mundo del Padre | | Jerusem:mundos culturales de transición | PLACE | 
 7 mundos circulares son esferas de detención (45:1.10)
 Satélite Jerusem, esfera silenciosa; mundo de la cultura de transición número 7 (45:1.9) (53:7.1)
 Los panoptianos son cuidadores (53:7.1)
 rebeldes retenidos (53:9.1)
 
-mundo de los Hijos | | Ver Jerusem:mundos culturales de transición | PLACE | 
+mundo de los Hijos | | Jerusem:mundos culturales de transición | PLACE | 
 mundo de la cultura de transición número 5 (45:1.7)
 
-mundo del Espíritu | | Ver Jerusem:mundos culturales de transición | PLACE | 
+mundo del Espíritu | | Jerusem:mundos culturales de transición | PLACE | 
 mundo de la cultura de transición número 6 (45:1.8)
 
 Primera Guerra Mundial; Guerra Mundial | | | | 
 Desafortunadamente, grupos políticos sumergidos restablecidos (134:5.9)
 
-mundos | | Ver cuerpos espaciales | | 
+mundos | | cuerpos espaciales | | 
 
 gusano del polvo | | | | 
 el hombre es, por naturaleza, pero es divino en destino (149:6.9)
 
-adoración | (85) (5:3) (27:7) | Ver Espíritus Ayudantes de la Mente:6. Adoración; iglesias; meditación; oración; comunión espiritual; templos | | 
+adoración | (85) (5:3) (27:7) | Espíritus Ayudantes de la Mente:6. Adoración; iglesias; meditación; oración; comunión espiritual; templos | | 
 Adán se negó a aceptar (74:4.4-5)
 adoración de la belleza abstracta, la exaltación de la naturaleza no es adoración (5:5.4)
 alternar con el servicio (143:7.3)
@@ -755,7 +748,7 @@ primitivos adorados
 	plantas y árboles (85:2)
 	gobernantes políticos en el Imperio Romano (98:3.7-8)
 	piedras y colinas (85:1)
-	el Sol | Ver Sol (de Urantia):adoración al sol
+	el Sol | Sol (de Urantia):adoración al sol
 	los 4 elementos (85:4)
 	lo que temían (85:7.2)
 calidad de adoración determinado por la profundidad de la percepción (5:4.8) (27:7.1)
@@ -771,9 +764,9 @@ Constructores Divinos, Artesanos Celestiales (44:3.5)
 heridas | | | | 
 tratado con aceite y vino (90:4.9) (164:1.3)
 
-ira | | Ver ira | | 
+ira | | ira | | 
 
-escritura | | Ver comunicación; idioma; bastón mensajero; impresión; registros; señales de humo; cinturones de cuentas de concha | | 
+escritura | | comunicación; idioma; bastón mensajero; impresión; registros; señales de humo; cinturones de cuentas de concha | | 
 alfabetos
 	48 símbolos en el alfabeto de Nebadon (44:4.4)
 	70 símbolos en el alfabeto de Uversa; Mil millones de símbolos conceptuales (44:4.4)

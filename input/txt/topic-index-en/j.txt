@@ -1,16 +1,12 @@
 ####################################################################################
 #
 #                     J
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
 
 Jabbok | | | PLACE | 
 flows into Jordan river (124:6.6)
@@ -62,11 +58,11 @@ Jerusalem leaders labored to dissuade (153:1.7)
 resigned as chief ruler; aligned with Jesus (154:1.2)
 > https://en.wikipedia.org/wiki/Raising_of_Jairus%27_daughter
 
-James, Epistle of | | See James (brother of Jesus): Epistle of | | 
+James, Epistle of | | James (brother of Jesus): Epistle of | | 
 
-James Alpheus | | See Alpheus twins | PERSON | OK
+James Alpheus | | Alpheus twins | PERSON | OK
 
-James (brother of Jesus) | (126:3.12) (126:4.9) (126:5.8) (127:2.11) (137:6.1,4) (154:5.1) | See also Jesus: family | PERSON | OK
+James (brother of Jesus) | (126:3.12) (126:4.9) (126:5.8) (127:2.11) (137:6.1,4) (154:5.1) | Jesus: family | PERSON | OK
 born April 2, 3 B.C.; second child (123:1.5)
 Jesus’ relations with (124:4.3)
 accompanied Mary upon Joseph’s accident (126:2.1)
@@ -104,7 +100,7 @@ James of Safed | | | PERSON | OK
 son healed (158:4-5)
 “Lord I believe; help my unbelief” (158:5.2)
 
-James Zebedee | (139:3 s) (141:7.13) (143:3.5) (144:1.7) (167:0.3) (167:4.4) (174:1.1) (191:0.5) | See also apostles of Jesus | PERSON | OK
+James Zebedee | (139:3 s) (141:7.13) (143:3.5) (144:1.7) (167:0.3) (167:4.4) (174:1.1) (191:0.5) | apostles of Jesus | PERSON | OK
 married; 4 children; from Capernaum; 30 in A.D. 26 (139:3.1)
 fishing partner of Andrew, Peter, and John (139:1.1) (139:3.1)
 baptized by John in A.D. 25 (135:8.1)
@@ -170,7 +166,7 @@ land bridge connected Java to Asia (64:1.6)
 Java man | | | RACE | 
 bones recently found; Andonite (64:1.6)
 
-jealousy | | See also envy | | 
+jealousy | | envy | | 
 can turn love into hate (177:4.11)
 God jealous for man, not of man (4:3.1)
 mental poison; interferes with spiritual progress (110:1.5)
@@ -242,7 +238,7 @@ Jeroboam | | | PERSON | OK
 son of Jehoash; delivered Israel from its enemies (97:9.20)
 > https://en.wikipedia.org/wiki/Jeroboam_II
 
-Jerusalem | (147) (124:6) (129:2.6) (134:7.5) (134:9.2) (140:7.2) (141:9) (152:7) | See also Jerusalem temple | PLACE | 
+Jerusalem | (147) (124:6) (129:2.6) (134:7.5) (134:9.2) (140:7.2) (141:9) (152:7) | Jerusalem temple | PLACE | 
 apostles connected destruction of Jerusalem with appearance of New Jerusalem (176:1.6)
 besieged in times of Jeremiah (97:6.4)
 city of Father’s house (171:4.7)
@@ -258,13 +254,13 @@ Jesus’ Passover at (125) (142)
 millions of dispersed Jews attended religious feasts (121:6.9) (162:4.1) (185:1.5) (188:3.1)
 Paul’s vision of the heavenly Jerusalem (47:10.3)
 persecution scattered early believers from (143:6.6)
-places in and around | See Asmonean palace; Damascus gate; fountain gate; Gehenna; Golgotha; Jerusalem temple; Kidron; Mount Olivet; Ophel; pool of Bethesda; Siloam; water gate
+places in and around | Asmonean palace; Damascus gate; fountain gate; Gehenna; Golgotha; Jerusalem temple; Kidron; Mount Olivet; Ophel; pool of Bethesda; Siloam; water gate
 previously known as Jebus; Salem (93:2.4) (97:9.11)
 prophets perish in (171:4.7)
 situation in week before crucifixion (175:4)
 temple of Baal alongside temple of Yahweh (97:9.21)
 
-Jerusalem temple | (125:1.5) (150:1.3) (172:4) | See also Jerusalem; Jerusalem temple guards; Judaism; moneychangers; Sanhedrin | PLACE | 
+Jerusalem temple | (125:1.5) (150:1.3) (172:4) | Jerusalem; Jerusalem temple guards; Judaism; moneychangers; Sanhedrin | PLACE | 
 animal sacrifice (125:1.1,4) (125:2.1,3) (125:5.5) (173:1.1-2)
 desecrated by traffic in animals, money-changers (173:1)
 extensive banking system (173:1.3-4)
@@ -318,7 +314,7 @@ bribed to say disciples took Jesus’ body (189:2.4)
 mocked, spit upon, buffeted Jesus (184:4.1)
 threw Jesus’ burial linen over nearby cliff (190:1.2)
 
-Jerusem | (46) | See also architectural spheres; mansion worlds; Satania | PLACE | 
+Jerusem | (46) | architectural spheres; mansion worlds; Satania | PLACE | 
 187,432,811 ascendant citizens; none lost in rebellion (53:7.12)
 activities on Jerusem are work, progress, and play (46:5.29)
 Adam and Eve on Jerusem (74:1)
@@ -384,7 +380,7 @@ universal suffrage; weighted by mota (45:7.6)
 weights and measures (46:1.2)
 World of Father is silent transition sphere circling (45:1.9)
 
-Jesus | | See also Christ; Creator Sons; Michael of Nebadon; Thought Adjuster of Jesus; religion: explained | PERSON | 
+Jesus | | Christ; Creator Sons; Michael of Nebadon; Thought Adjuster of Jesus; religion: explained | PERSON | 
 apostles believed Jesus was the Eternal Son (157:5.1) (161:2.10)
 believers destined to attain perfection in (142:7.15)
 birthday text from Isaiah (97:5.3) (123:5.11) (126:5.2) (148:5.5) (150:8.9) (190:5.4)
@@ -405,7 +401,7 @@ he who rejects Jesus rejects Father (158:8.1) (163:1.4)
 hour striking for rediscovery of real life of Jesus (195:9.5) (195:10.1)
 human and divine minds of Jesus (154:6.10) (161:2-3) (167:4.2) (168:1.6-7)
 human mind can be exchanged for mind of Jesus (48:6.26)(128:1.6)
-Jesus brotherhood | See faith sons of God; fellowship of believers
+Jesus brotherhood | faith sons of God; fellowship of believers
 let mind in Christ be also in us (102:4.1)
 lifted up, Jesus will draw all men to himself (157:6.10) (162:5.4) (174:5.13) (188:5.10) (195:10.1)
 lives anew in life of individual believer (194:2.6) (194:3.1)
@@ -531,7 +527,7 @@ events in Jesus’ life
 		years 30-31 (130) (131) (132) (133) (134:1,7)
 		years 14 and 15 were great test, real temptation (126:0.1)
 		Mount Hermon marked end of J.’ purely human career (134:7.7)
-	baptism | See also baptism
+	baptism | baptism
 		40 days after baptism (136:3)
 		did not use supernatural power until after baptism (128:1.9)
 		ended Jesus’ purely human life (136:2.7)
@@ -555,7 +551,7 @@ events in Jesus’ life
 	transfiguration (158:0-3)
 		Jesus declined to be invested with full authority at transfiguration (158:1.4)
 		memory of transfiguration sustained Jesus (171:4.9)
-	trial and crucifixion | See also atonement doctrine; Jesus: death
+	trial and crucifixion | atonement doctrine; Jesus: death
 		betrayal (183)
 		arrest (183:3)
 		spat upon (184:3.18) (185:6.2)
@@ -570,7 +566,7 @@ events in Jesus’ life
 		side pierced with spear (187:5.8)
 		those who witnessed (127:5.6) (187:3.1)
 		burial (188:1)
-	death | See also atonement doctrine; Jesus: events in life: crucifixion
+	death | atonement doctrine; Jesus: events in life: crucifixion
 		accomplished things by death he could not in life (171:4.9)
 		Christianity built up around Jesus’ death(143:5.11)
 		earth’s greatest tragedy (178:2.1)
@@ -584,13 +580,13 @@ events in Jesus’ life
 		Jesus in tomb from 3 PM Friday to 3 AM Sunday (188:0.1)
 		sealed by 2 stones; guarded (188:2.3) (189:4.2)
 		seals not broken when Jesus emerged (189:1.7)
-	resurrection (189) (196:1.11) | See also resurrection
+	resurrection (189) (196:1.11) | resurrection
 		7 Paradise personalities deployed around tomb (189:1.5)
 		celestial beings dissolved Jesus’ mortal body (189:2.1,7-8)
 		Christian belief based on fact of empty tomb; not the gospel (189:2.6) (193:0.4) (193:2.2)
 		grave bandages apparently intact; thrown over cliff (189:4.6,9) (189:5.3) (190:1.2) (191:0.4)
 		greatest revelation of Jesus’ divinity (182:3.5)
-		heralds of resurrection (190:1) (191:6.4) | See also messenger corps (David Zebedee’s)
+		heralds of resurrection (190:1) (191:6.4) | messenger corps (David Zebedee’s)
 		Jesus foretold (158:2.1) (158:6.5) (158:7.3,7) (165:2.10) (173:5.4) (180:6.7) (181:1.5) (182:2.5-6)
 		knowledge of Jesus’ resurrection avails nothing without spiritual rebirth (193:1.2)
 		no creatures assisted (189:0) (189:1.13)
@@ -628,7 +624,7 @@ events in Jesus’ life
 		no appearances to enemies (190:2.1)
 		no nail marks in hands (191:5.4)
 		ascension (193:5) (196:1.12)
-value of Jesus’ life | See also Paradise Sons of God: bestowals: purpose of bestowals
+value of Jesus’ life | Paradise Sons of God: bestowals: purpose of bestowals
 	apostles misunderstood Jesus’ teaching but grasped his life (140:7.8)
 	compensates for inability to grasp Eternal Son (6:8.6-7)
 	enlarged and amplified highest human visualization of Father (97:10.8)
@@ -654,7 +650,7 @@ value of Jesus’ life | See also Paradise Sons of God: bestowals: purpose of be
 	most beautiful expression of divinity found in earth lives of bestowal Sons (116:2.3)
 	new and living way (101:6.17) (129:4.7) (136:6.11) (180:3.7) (196:2.4)
 	understand Jesus’ teachings by his life (140:8.19) (149:2.1)
-Jesus teachings | See also gospel: explained; kingdom of heaven; religion: explained; truth
+Jesus teachings | gospel: explained; kingdom of heaven; religion: explained; truth
 	be not ashamed of Jesus’ teachings (150:4.3)
 	be not dismayed by failure fully to grasp (181:2.25)
 	denounced pride, cruelty, oppression, hypocrisy (140:8.22)
@@ -712,7 +708,7 @@ Jesus teachings | See also gospel: explained; kingdom of heaven; religion: expla
 		* new commandment (180:1)
 		* vine and branches (180:2)
 		* enmity of the world (180:3)
-	parables of Jesus | See also parables
+	parables of Jesus | parables
 		* sower (95:0.1) (151:1-2) (151:3.13,15) (152:6.3) (155:2.3)
 		* seed in good soil (137:8.12) (151:3.15)
 		* Pharisee and publican (140:5.7) (167:5.1-2)
@@ -957,7 +953,7 @@ Jesus teachings | See also gospel: explained; kingdom of heaven; religion: expla
 		* seek not self-glorification but glory of God (175:1.10)
 		* take heed no man deceive you (176:1.1)
 		* false teachers will arise and lead many astray (176:1.4)
-		* I will return | See Jesus: second coming (176:2.3)
+		* I will return | Jesus: second coming (176:2.3)
 		* you cannot stand still in affairs of kingdom (176:3.5)
 		* in faithfulness do what is intrusted to you (176:3.6)
 		* love one another even as I have loved you (178:1.17) (180:1) (180:6.1) (181:2.26,30) (182:1.6) (193:3.2)
@@ -1041,11 +1037,11 @@ family
 	Jesus’ abdication as head of Joseph’s house (128:7.13)
 	Jesus’ moral and spiritual training obtained from Joseph and Mary (123:5.8)
 	Jesus’ relations with siblings (124:4.3)
-	members of Jesus’ family | See Amos (brother of Jesus); James (brother of Jesus); Joseph (brother of Jesus); Joseph (father of Jesus); Jude; Martha (sister of Jesus); Mary (mother of Jesus); Miriam (sister of Jesus); Ruth (sister of Jesus)
+	members of Jesus’ family | Amos (brother of Jesus); James (brother of Jesus); Joseph (brother of Jesus); Joseph (father of Jesus); Jude; Martha (sister of Jesus); Mary (mother of Jesus); Miriam (sister of Jesus); Ruth (sister of Jesus)
 	Nazareth home described (122:5.9) (122:6) (123:2.14) (126:5.11)
 	no penalty for violation of personal teachings (127:4.5)
 	residences after resurrection (190:1.10)
-miracles and healings | See also healing; miracles
+miracles and healings | healing; miracles
 	100 beneficiaries of unconscious healing by Jesus (149:1.2-8)
 	Adjuster unable to limit time manifestations (136:5.4-6)
 	apparent miracles and healings
@@ -1123,11 +1119,11 @@ personality and nature (100:7)
 	traits (196) (124:2.4-5) (126:2.7) (127:3.7) (127:4.4) (127:6.12-16) (129:1.9) (129:3.8) (129:4) (136:0.1) (137:4.2,4) (137:7.2) (138:8.9) (139:1.11) (139:2.5) (139:3.6) (139:4.6,9) (139:5.6) (139:6.8) (139:7.4) (139:8.7) (139:9.6-7) (139:11.5) (140:8.30) (141:3.4-6) (141:7.10-14) (142:7.15) (143:2.1) (149:2.6-14) (149:4.5) (151:0.2) (161:2) (171:7) (173:1.6) (181:1.8-9) (184:3.19) (184:4.5-6) (186:2) (186:4.3) (187:2.3-4) (194:3.3)
 	traits inherited from Joseph and Mary (122:5.3-4)
 	unreservedly dedicated to Father’s business (100:7.12)
-	Word made flesh | See word of God
+	Word made flesh | word of God
 physical description (123:2.15) (127:1.2-3) (127:5.1) (128:6.2,11) (187:2.8)
 	pictures have been most unfortunate (141:3.6)
 	voice was musical, fascinating, authoritative (125:5.1) (127:1.2) (154:6.5) (162:6.2) (183:3.5) (190:2.3)
-purpose of life | See also Michael of Nebadon: bestowals: 7th (Urantia bestowal)
+purpose of life | Michael of Nebadon: bestowals: 7th (Urantia bestowal)
 	in human contacts (132:4.1)
 	that we have abundant life (157:6.2)
 	to be world’s deliverer (122:4.2)
@@ -1166,7 +1162,7 @@ skills of Jesus
 	storytelling (126:2.6) (130:7.1)
 	tentmaking (134:7.3)
 	yoke making (124:1.7) (126:1.1)
-Son of God | See Jesus: nature of Jesus: God incarnate in man
+Son of God | Jesus: nature of Jesus: God incarnate in man
 Son of Man q.v.
 spiritual accomplishments
 	achieved all of sonship we will one day attain (142:7.13)
@@ -1186,16 +1182,16 @@ writings
 Jethro | | | PERSON | 
 Moses’ father-in-law (96:5.3)
 
-Jewelry | | See ornamentation | | 
+Jewelry | | ornamentation | | 
 
-Jewish priesthood | | See Levites; Sanhedrin | | 
+Jewish priesthood | | Levites; Sanhedrin | | 
 
-Jewish religion | | See Judaism | | 
+Jewish religion | | Judaism | | 
 
 Jewish tutor | | | | 
 Jesus known as the Jewish tutor at Corinth (129:3.2)
 
-Jews | | See also Hebrew language; Jews (ancient Hebrews) | RACE | 
+Jews | | Hebrew language; Jews (ancient Hebrews) | RACE | 
 Judaism apocalyptists taught sufferings due to nation’s sins (135:5.2)
 attitudes
 	chosen people q.v.
@@ -1260,7 +1256,7 @@ political matters
 sorrows of a misunderstood despised people (121:6.7)(155:6.10)
 status of the individual Jew (175:2)
 
-Jews (ancient Hebrews) | | See also Babylonian captivity; Jews | RACE | 
+Jews (ancient Hebrews) | | Babylonian captivity; Jews | RACE | 
 Abraham’s offspring formed nucleus of (96:2.3)
 adoption ceremony (70:3.8)
 beliefs and attitudes
@@ -1294,7 +1290,7 @@ nation was union of Israelites and Canaanites (97:9.1)
 national ego depressed by Babylonian captivity (93:9.9)
 part of older Semitic race which included Babylonians, Phoenicians, and Carthaginians (121:1.1) (121:2.1)
 religion was austere and tyrannical (98:3.2)
-scriptures of | See Old Testament
+scriptures of | Old Testament
 
 Jezebel | (124:6.3) | | PERSON | 
 Queen of jews from Phoenicia
@@ -1365,7 +1361,7 @@ rest day with Jesus (177:1-2)
 walked around lake with Jesus (152:5.1)
 
 John the Baptist | (135) | | PERSON | 
-apostles of | See apostles of John the Baptist
+apostles of | apostles of John the Baptist
 at baptism of Jesus (135:8.6)
 baptized over 100,000 penitents in 15 months (135:6.4)
 beheaded by Herod (135:12.7)
@@ -1412,9 +1408,9 @@ sooner or later a greater John is to arise (170:5.19)
 thundered parable of Lazarus and Dives (169:3)
 viewed as a prophet (135:6.2) (135:12.2) (173:2.4-5)
 
-John the Revelator | | See John Zebedee | PERSON | 
+John the Revelator | | John Zebedee | PERSON | 
 
-John Zebedee | (129:1.12) (139:4) (141:7.14) (143:3.5) (143:5.12) (144:1.7) (178:2.6-8) (192:1.3) (192:4.7) | See also apostles of Jesus | PERSON | 
+John Zebedee | (129:1.12) (139:4) (141:7.14) (143:3.5) (143:5.12) (144:1.7) (178:2.6-8) (192:1.3) (192:4.7) | apostles of Jesus | PERSON | 
 actions
 	baptized by John in December A.D. 25 (135:8.1)
 	became apostle (137:1.5-8)
@@ -1491,7 +1487,7 @@ Joppa | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | | PLACE |
 Jesus here several times
 
 Jordan River | | | PLACE | 
-ford | See Bethany beyond Jordan
+ford | Bethany beyond Jordan
 Jesus’ baptism in (135:8)
 poured forth from an underground cave (157:3.1)
 valley was tropical (124:6.5)
@@ -1499,7 +1495,7 @@ valley was tropical (124:6.5)
 Jose | | | PERSON | 
 renowned liberal Nazareth teacher (124:4.8)
 
-Joseph (brother of Jesus) | (138:1.4) (154:5.1) | See also Jesus: family | PERSON | 
+Joseph (brother of Jesus) | (138:1.4) (154:5.1) | Jesus: family | PERSON | 
 apostles stayed with (137:2.9)
 at Jesus’ 4th appearance (190:2.6)
 born March 16, A.D. 1 (123:4.9)
@@ -1513,7 +1509,7 @@ moved into family home in A.D. 24 (134:1.6)
 permitted pride to interfere (154:6.1)
 tentative belief in Jesus (137:3.2)
 
-Joseph (father of Jesus) | (122:1) (122:5) | See also Jesus: family | PERSON | 
+Joseph (father of Jesus) | (122:1) (122:5) | Jesus: family | PERSON | 
 at Jesus’ first Passover (125)
 attitude
 	angry with Jesus about Scythopolis games (124:3.8)
@@ -1565,7 +1561,7 @@ embalmed Jesus’ body with myrrh and aloes (188:1.4)
 former Sanhedrin member (188:1.2)
 helped bear body of Jesus to tomb (188:1.3)
 Jesus’ 5th appearance at home of (190:3.1)
-Jesus buried in tomb of | See Jesus: events in life: tomb
+Jesus buried in tomb of | Jesus: events in life: tomb
 met with Jesus in home of Nicodemus (164:2.1)
 most outspoken disciple of Jesus in Jerusalem (188:1.2)
 visited empty tomb (190:1.2)
@@ -1580,9 +1576,9 @@ believer in Melchizedek (93:9.5,8)
 political circumstances facilitated promotion of Salem teachings in Egypt (95:3.5)
 sold into Egyptian slavery at Dothan (126:1.2)
 
-Joshua ben Joseph | | See Jesus | PERSON | 
+Joshua ben Joseph | | Jesus | PERSON | 
 
-Joshua (Jesus) | | See also Jesus | PERSON | 
+Joshua (Jesus) | | Jesus | PERSON | 
 Gabriel instructed Mary to name her son (122:3.1) (122:8.2)
 
 Joshua (Old Testament) | (124:6.7) (135:6.1) (135:9.5) | | PERSON | 
@@ -1619,7 +1615,7 @@ Mary Magdalene and Rebecca ordained at (150:2.3)
 Jove | | | PLACE | 
 persists only as exclamation (96:1.14)
 
-joy | | See also happiness; peace: spiritual peace | | 
+joy | | happiness; peace: spiritual peace | | 
 born of trust in divine word (143:2.7)
 cannot be experienced all by oneself (111:4.7)
 cannot put under microscope (196:3.18)
@@ -1647,9 +1643,9 @@ jubilees | | | |
 7 in ascendant career (27:7.8)
 upon settling of a local universe in light and life (17:3.11)
 
-Judah | | See Judea | PLACE | 
+Judah | | Judea | PLACE | 
 
-Judaism | (97:10) (121:6) | See also Abraham; apocrypha; ark of Yahweh; Babylonian captivity; El Elyon; El Shaddai; Elohim; Essenes; Jerusalem temple; Jews; Jews (ancient Hebrews); Levites; Moses; Nazarites; Old Testament; Pharisees; prophets; rabbis; Sadducees; Sanhedrin; scribes; Shema; Sheol; Yahweh | RACE | 
+Judaism | (97:10) (121:6) | Abraham; apocrypha; ark of Yahweh; Babylonian captivity; El Elyon; El Shaddai; Elohim; Essenes; Jerusalem temple; Jews; Jews (ancient Hebrews); Levites; Moses; Nazarites; Old Testament; Pharisees; prophets; rabbis; Sadducees; Sanhedrin; scribes; Shema; Sheol; Yahweh | RACE | 
 advanced religion of ancient times (92:6.4,14)
 apostles at first imposed Judaism upon converts (194:3.9)
 beliefs
@@ -1705,7 +1701,7 @@ feasts (123:3.5) (125:1.5) (134:9.3)
 		smearing blood on doorposts was outgrowth of child sacrifice (89:7.2)
 		temple head tax payable at (173:1.3)
 		women seldom attended (125:0.2)
-	Pentecost (123:3.5) (125:1.5) | See also Pentecost (bestowal of Spirit of Truth)
+	Pentecost (123:3.5) (125:1.5) | Pentecost (bestowal of Spirit of Truth)
 		7 weeks after Passover; established by Moses (125:1.5)
 		festival of baptism (194:1.5)
 	Purim
@@ -1746,7 +1742,7 @@ promised salvation from difficulties (5:4.5-8) (148:6.5)
 rapidly expanding in times of Jesus (121:1.6)
 religion of moral sublimity (196:3.19)
 renaissance dates from Greek translation of Scriptures (121:6.2)
-rituals | See also Judaism: feasts
+rituals | Judaism: feasts
 	Andonic animal sacrifice preserved in (63:6.4)
 	inconsistent and absurd; Jesus thought ceremonies pathetic (125:2.4) (134:9.3)
 	purification after childbirth (122:9.1) (122:10.2)
@@ -1757,9 +1753,9 @@ secret of survival was centralization of worship at Jerusalem (121:2.6)
 tolerated fringe of gentile believers (121:2.5)
 various Deity titles defined (96:1.2-10)
 
-Judas Alpheus | | See Alpheus twins | PERSON | 
+Judas Alpheus | | Alpheus twins | PERSON | 
 
-Judas Iscariot | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | See also apostles of Jesus | PERSON | 
+Judas Iscariot | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | apostles of Jesus | PERSON | 
 adversely affected by entry into Jerusalem (172:5.12-13)
 attempted to heal James of Safed’s son (158:4.6)
 betrayal
@@ -1817,13 +1813,13 @@ temple guards, centurion held in contempt (183:5.2-3)(186:1.2)
 turned over all apostolic funds to David (178:2.10)
 wondered how to break off from apostles (172:5.12-13) (173:0.2) (175:4.1) (177:4.2)
 
-Judas Maccabee | | See also Maccabees | PERSON | 
+Judas Maccabee | | Maccabees | PERSON | 
 disappointment of reign (136:8.8)
 heroic exploits (121:2.7)
 Jews removed from Perea in times of (165:0.3)
 restoration of Mosaic services by (123:3.5)
 
-Jude | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | See also Jesus: family | PERSON | 
+Jude | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | Jesus: family | PERSON | 
 active with Zealots; clashed with civil authorities (128:6.4-7)
 at Jesus’ 4th appearance (190:2.6)
 attitude
@@ -1847,7 +1843,7 @@ sister-in-law Rachel (150:1.1)
 trip with Jesus to Passover; taken to military prison (128:6.3-8)
 witnessed Jesus’ crucifixion (186:0.3)(187:2.7)(187:3.2)(187:5.1)
 
-Judea | (142:8) | See also Israel; Palestine | PLACE | 
+Judea | (142:8) | Israel; Palestine | PLACE | 
 Caesarea was Roman capital of (184:3.17)
 fall of Assyria and ascendancy of Egypt delivered (97:9.23)
 Jewish consciousness originated in southern clan of Judah (97:9.2)
@@ -1862,7 +1858,7 @@ wars with Israel (97:9.18)
 Judge-Arbiters | | | ORDER | 
 of conciliating commissions (25:2.7)
 
-judges | (72:2.1) | See also courts | | 
+judges | (72:2.1) | courts | | 
 Jesus’ address to judge on behalf of poor man (132:4.8)
 Jesus’ comments to judge on behalf of Jude (128:6.7)
 Micah denounced rulers who judge for reward (97:5.5)
@@ -1870,10 +1866,10 @@ Micah denounced rulers who judge for reward (97:5.5)
 Judges (Old Testament) | | | | 
 Hebrew tribal sheiks (96:6.1)
 
-judgment | | See also conciliating commissions; courts; extinction; justice; law; nonsurvivors; resurrection; survival | | 
+judgment | | conciliating commissions; courts; extinction; justice; law; nonsurvivors; resurrection; survival | | 
 by man
 	dangers and unfairness of sitting in personal judgment (133:3.6) (146:2.6) (159:1.6)
-	do not prejudge fellows (38:2.4) (133:1.2) | See also prejudice
+	do not prejudge fellows (38:2.4) (133:1.2) | prejudice
 	judge not by a single unfortunate human episode (156:5.9)
 	judge savages according to their enlightenment (101:9.2)
 	let others give account of themselves to God (139:6.5)
@@ -1934,7 +1930,7 @@ reveler (69:2.5)
 Romans invoked by throwing stone in air (85:1.3)
 Zeus, transplanted from Greece to Rome (98:3.3)
 
-Jupiter (planet) | | See also Monmatia | PLACE | 
+Jupiter (planet) | | Monmatia | PLACE | 
 largely gaseous (57:5.10)
 might capture outer planets, become a sun (15:5.8)
 one moon near tidal disruption (57:6.5)
@@ -1942,7 +1938,7 @@ origin (41:10.1) (57:5.9-10)
 retrograde motion of certain satellites (57:5.9)
 secondary sun for short period (57:5.10)
 
-Jurassic | | See also geologic ages | | 
+Jurassic | | geologic ages | | 
 later reptilian age from 125 to 100 million years ago (60:2)
 
 jurors | | | | 
@@ -1956,10 +1952,10 @@ shall live by faith (131:2.8)
 Justa | | | PERSON | 
 of Sidon, daughter of Bernice (156:2.2) (156:3.2)
 
-justice | (2:3) (133:1) | See also courts; crime; death penalty; karma; law | | 
+justice | (2:3) (133:1) | courts; crime; death penalty; karma; law | | 
 conceived by man, means getting one’s rights (70:10.2)
 concept constitutive in spirit-endowed mind (70:10.2)
-divine justice | See also conciliating commissions; judgment:
+divine justice | conciliating commissions; judgment:
 divine judgment
 	collective thought of righteousness (10:6.18)
 	Creators provide for judicial systems to settle honest differences (25:3.7)

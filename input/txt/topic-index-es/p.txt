@@ -1,18 +1,12 @@
 ####################################################################################
 #
 #                     P
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
-
-
 
 océano Pacífico | | | PLACE | 
 950 millones de años; originalmente no salado (57:8.3-5)
@@ -20,7 +14,7 @@ cubrió 9/10 de la superficie terrestre (57:8.20)
 geología de las islas pacíficas (60:1.12)
 pueblos isleños mejorados por los anditas (79:1.6)
 
-pacifismo | | Ver no resistencia | | 
+pacifismo | | no resistencia | | 
 
 carga | | | | 
 llevar la carga una segunda milla (159:5.15)
@@ -28,7 +22,7 @@ llevar la carga una segunda milla (159:5.15)
 remo | | | | 
 Jesús ayudó a construir un remo de dirección (130:2.1,4)
 
-paganismo | | Ver mitraísmo; cultos de misterio | | 
+paganismo | | mitraísmo; cultos de misterio | | 
 compuesto de mitología, patriotismo y tradición helénica y latina (121:5.3)
 Jesús ignoró al pagano irreflexivo (132:7.1-2)
 
@@ -47,10 +41,10 @@ la residencia del emperador romano estaba ubicada en el monte Palatino, y Jesús
 palabrerías | | | | 
 rara vez útil (70:5.5)
 
-Paleozoico; Paleozoica | | Ver edades geológicas | | 
+Paleozoico; Paleozoica | | edades geológicas | | 
 era de la vida marina, desde hace 400 a 150 millones de años (59:0.4) (59:6.11)
 
-Palestina | | Ver Decápolis; Efraín; Galilea; Israel; Judea; Perea; Samaria | PLACE | 
+Palestina | | Decápolis; Efraín; Galilea; Israel; Judea; Perea; Samaria | PLACE | 
 Los semitas árabes se abrieron paso (96:2.2)
 Se habla arameo, hebreo y griego (121:6.2)
 elegido para la misión de Jesús (134:0.1-2)
@@ -107,7 +101,7 @@ Jesús pasó por aquí en su viaje por el Mediterráneo
 oraciones de parábola | | | | 
 enseñado por Jesús (144:5.1)
 
-parábolas | | Ver Jesús:parábolas de Jesús | | 
+parábolas | | Jesús:parábolas de Jesús | | 
 buen samaritano, hijo pródigo eran los favoritos de Jesús (169:1.16)
 Jesús rara vez enseñaba misas excepto por (151:4.7)
 Jesús a veces no comentaba (151:3.16) (167:2.4) (169:3.3) (171:8.8)
@@ -248,7 +242,7 @@ Los Supernafines primarios son ángeles de (26:1.12) (26:2.2) (27:0.1)
 los niños de la guardería en probatoria constituyen ascendientes permanentes
 ciudadanía de (47:2.8)
 la reflectividad se centra en (9:7.1)
-resto de | Ver descanso:descanso de transición
+resto de | descanso:descanso de transición
 revela el Potencial Infinito del yo no personal del Padre (11:9.3)
 esferas sagradas del Paraíso
 El primer Arquitecto existenciado del Universo Maestro coordina todos los niveles inferiores a la Deidad (31:9.3)
@@ -260,12 +254,12 @@ valores y realidades de (189:1.3) (195:7.4)
 manzana del Paraíso | | | | 
 cidra; fruta prohibida (162:4.4)
 
-Los que llegan al Paraíso | | Ver mortales ascendentes | | 
+Los que llegan al Paraíso | | mortales ascendentes | | 
 mortales ascendentes con estatus residencial (30:4.31-33)
 estudiar la divinidad y la absonidad (30:4.31)
 emociones de adoración de Los que llegan al Paraíso ángeles asombrados (27:7.6)
 
-resplandor central del Paraíso | | Ver Padre Universal | PERSON | 
+resplandor central del Paraíso | | Padre Universal | PERSON | 
 
 Ciudadanos del Paraíso | (19:7) | | ORDER | 
 adquirir capacidad para la Supremacía (117:6.12)
@@ -301,7 +295,7 @@ Servicio
 	nada especial que lograr; simplemente brinde compañía (25:8.3)
 estudiar los antecedentes de los ascendentes antes de la llegada (25:8.6)
 
-Hijos Creadores Paradisiacos | | Ver Hijos Creadores | ORDER | 
+Hijos Creadores Paradisiacos | | Hijos Creadores | ORDER | 
 
 Deidades del Paraíso; DEIDADES DEL PARAÍSO | | | ORDER | 
 en registro de personalidad (30:2.10-13)
@@ -310,16 +304,16 @@ nombrada
 	# El Hijo Eterno
 	# El Espíritu Infinito
 
-Energía del Paraíso | | Ver monota | | 
+Energía del Paraíso | | monota | | 
 
-Organizadores de la fuerza del Paraíso | | Ver Organizadores de la Fuerza Maestros | ORDER | 
+Organizadores de la fuerza del Paraíso | | Organizadores de la Fuerza Maestros | ORDER | 
 
-Gravedad del Paraíso | | Ver gravedad:tipos | | 
+Gravedad del Paraíso | | gravedad:tipos | | 
 
-Sistema Paraíso-Havona; sistema Paraíso-Havona | | Ver Havona; Paraíso | PLACE | 
+Sistema Paraíso-Havona; sistema Paraíso-Havona | | Havona; Paraíso | PLACE | 
 núcleo eterno del universo maestro (12:1.11)
 
-Hijos Trinitizados del Paraíso-Havona; hijos trinitizados; descendientes trinitizados | | Ver trinitización | ORDER | 
+Hijos Trinitizados del Paraíso-Havona; hijos trinitizados; descendientes trinitizados | | trinitización | ORDER | 
 creado por los ciudadanos del Paraíso y los habitantes de Havona (22:7.9-13)
 en el registro de personalidad de Uversa (30:2.63)
 pueden servir como Evángeles de Luz adjuntos a compañías finalitarios mortales (31:7.2)
@@ -327,9 +321,9 @@ pueden servir como Evángeles de Luz adjuntos a compañías finalitarios mortale
 comisión de encarnación del Paraíso | | | | 
 se desplegó alrededor de la tumba de Jesús (189:1.1,5)
 
-Espíritus Maestros del Paraíso | | Ver Siete Espíritus Maestros | ORDER | 
+Espíritus Maestros del Paraíso | | Siete Espíritus Maestros | ORDER | 
 
-Hijos Paradisíacos de Dios; Hijos Paradisiacos; Hijos Paradisíacos | (20) (7:6) | Ver Hijos Creadores; Hijos Magistrales; Hijos Instructores Trinitarios | ORDER | 
+Hijos Paradisíacos de Dios; Hijos Paradisiacos; Hijos Paradisíacos | (20) (7:6) | Hijos Creadores; Hijos Magistrales; Hijos Instructores Trinitarios | ORDER | 
 todos están unidos en una asociación espiritual casi absoluta (7:6.7)
 todo conocimiento del Padre proviene del Hijo Eterno, Hijos Paradisíacos de Dios (7:7.1-4)
 son
@@ -339,7 +333,7 @@ son
 	revelaciones del Hijo Eterno (10:1.6) (16:2.1)
 	Palabra de Dios (10:3.3)
 autorrejuvenecedores automáticos; incapaz de agotarse (48:4.11)
-donaciones | Ver Hijos Creadores:donaciones de criaturas; Hijos Magistrales:misiones planetarias | (20:5) (119:0.2)
+donaciones | Hijos Creadores:donaciones de criaturas; Hijos Magistrales:misiones planetarias | (20:5) (119:0.2)
 	lograr una perfecta sintonía con los Ajustadores residentes (20:6.4)
 	Los Ajustadores que participan en donaciones se vuelven Personalizados (20:4.3) (107:2.8) (109:6.3)
 	siempre nació como un niño (20:6.2)
@@ -362,7 +356,7 @@ donaciones | Ver Hijos Creadores:donaciones de criaturas; Hijos Magistrales:misi
 	ninguna misión ha fallado nunca (20:5.7)
 	solo una Hijos Paradisíacos de Dios se otorga a sí mismo en cada planeta (20:5.4)
 	PD aumentar su naturaleza divina por (116:3.3,5)
-	propósito de las donaciones | Ver Jesús:vida de:valor
+	propósito de las donaciones | Jesús:vida de:valor
 		La misión principal es liberar el Espíritu de la Verdad (20:6.8) (49:5.25)
 		establecer un camino nuevo y vivo (52:5.4)
 		dedicado exclusivamente a la iluminación espiritual (20:6.4)
@@ -390,7 +384,7 @@ tipos
 	Hijos Instructores Trinitarios
 la obra de cada uno es como si fuera el primer y único Hijo de Dios; idéntica en calidad (20:1.11) (20:10.1)
 
-Fuente y Centro del Paraíso | | Ver Padre Universal | PERSON | 
+Fuente y Centro del Paraíso | | Padre Universal | PERSON | 
 
 La Trinidad del Paraíso | (10) (104) (0:12.1-5) | | PERSON | 
 creencias sobre
@@ -442,7 +436,7 @@ erupción primaria tras la personalización del universo local
 Espíritu Materno (34:1.1)
 Observadores de la Trinidad estacionados desde constelaciones hasta la sede del superuniverso (15:13.6)
 
-paradoja | | Ver misterios | | 
+paradoja | | misterios | | 
 La inmanencia y trascendencia de Dios (5:5.6)
 infinito es el máximo paradoja (115:3.4)
 de mediciones simultáneas (65:6.1)
@@ -464,7 +458,7 @@ comisión parental | | | |
 12 padres recién llegados sirven en (47:1.4)
 todos los supervivientes deben aprobar los requisitos de (47:1.4,6)
 
-padres | | Ver crianza de los hijos; niños; familia; padres; madres | | 
+padres | | crianza de los hijos; niños; familia; padres; madres | | 
 cariñoso padres nunca llamado a perdonar a los niños (174:1.2)
 niños ordenados a honrar padres (131:2.12) (153:3.3) (163:2.4)
 Revelar a los niños el amor de Paraíso Parent (84:7.30)
@@ -493,13 +487,13 @@ Partia | (134:2.1) | | PLACE |
 biblioteca de Alejandría contenía manuscritos de (130:3.4)
 potencia en ascenso; guerras con Roma (121:1.9) (121:2.8)
 
-parcialidad | | Ver favoritismo | | 
+parcialidad | | favoritismo | | 
 
-camaradería | | Ver grupos; matrimonio | | 
+camaradería | | grupos; matrimonio | | 
 cuadriplica las posibilidades de logro (43:8.11)
 cuando el hombre entra en camaradería con Dios, suceden grandes cosas (107:4.7) (118:5.2) (132:7.9)
 
-partes y el todo | (12:7) (12:9.3) (131:8.4) | Ver grupos; el individuo | | 
+partes y el todo | (12:7) (12:9.3) (131:8.4) | grupos; el individuo | | 
 como es con las partes, así es con el todo (12:7.11) (116:6.6)
 La evolución de las partes es un reflejo segmentado del crecimiento intencional del todo (116:6.6).
 desde el punto de vista de la eternidad, el bienestar de parte y el todo son indistinguibles (3:2.8)
@@ -522,11 +516,11 @@ podría volar 2 hombres sin escalas 500 millas (52:1.5)
 usado en el Edén; Adán inspeccionó Garden de (74:3.4) (74:4.4)
 pájaro parecido a un avestruz era antepasado de (61:1.9)
 
-pasividad | | Ver indolencia; iniciativa | | 
+pasividad | | indolencia; iniciativa | | 
 Los discípulos de Jesús deben ser siempre activos y positivos (194:3.11)
 la justicia no viene de (159:5.9-15)
 
-Pascua | | Ver judaísmo:fiestas | | 
+Pascua | | judaísmo:fiestas | | 
 
 pasaporte | | | | 
 a la eternidad es el logro del Padre (26:9.2)
@@ -538,7 +532,7 @@ debe ser olvidado, repudiado (154:6.8) (156:2.6)
 relajante para contemplar; sabores de cosas ya dominadas (48:4.10-20)
 efecto debilitador de la reverencia excesiva para (79:6.9)
 
-vida pastoral | | Ver pastores | | 
+vida pastoral | | pastores | | 
 
 patagones | | | RACE | 
 adoradores de árboles (85:2.4)
@@ -546,9 +540,9 @@ adoradores de árboles (85:2.4)
 patentes | | | | 
 ganancias en la patentes gravado al 50% en la nación continental (72:7.10)
 
-paternalismo | | Ver favoritismo | | 
+paternalismo | | favoritismo | | 
 
-paciencia | | Ver perdón; impaciencia; sumisión; tiempo | | 
+paciencia | | perdón; impaciencia; sumisión; tiempo | | 
 Adán y Eva habrían tenido éxito si hubieran hecho más ejercicio (75:1.6) (75:8.4)
 soportar al hermano descarriado (54:5.5)
 ser justo y equitativo son condiciones previas para mostrar paciencia (28:6.8)
@@ -586,9 +580,9 @@ El apóstol Juan desterrado a (139:4.13-14)
 Patras | | | PLACE | 
 El apóstol Andrés crucificado en (139:1.12)
 
-patriarcado | | Ver familia:familias patriarcales | | 
+patriarcado | | familia:familias patriarcales | | 
 
-patriotismo | | Ver nacionalismo | | 
+patriotismo | | nacionalismo | | 
 todas las naciones se desintegran sin (81:6.35)
 tema difícil para los líderes espirituales (127:2.6)
 Romano formal y sin emociones patriotismo condenado al colapso (98:3.5)
@@ -664,7 +658,7 @@ fabricante de tiendas (89:3.6)
 
 paz | | | | 
 paz social
-	entre los religiosos | Ver unidad espiritual; tolerancia
+	entre los religiosos | unidad espiritual; tolerancia
 		no puede existir entre la luz y las tinieblas, la verdad y el error (175:1.2)
 		la división y la confusión resultan cuando los hombres rechazan el evangelio (150:4.3) (165:6.3) (180:0.2) (180:6.1)
 		choque inevitable entre religión de espíritu y de autoridad (173:3.3)
@@ -682,7 +676,7 @@ paz social
 	vendrá una vez que el hombre esté convencido de que es lo mejor para su bienestar material (70:2.20)
 	sin Dios, nada conduce a (195:8.12)
 	sin sacrificio de personalidad libre, originalidad espiritual (141:5.1)
-paz espiritual | Ver felicidad; alegría
+paz espiritual | felicidad; alegría
 	a cualquier precio no fomenta la supervivencia (133:7.12)
 	alcanzado
 		como fruto del Espíritu (34:6.13) (56:10.20) (193:2.2)
@@ -741,14 +735,14 @@ Jesús entregó al niño herido a sus padres en (137:0.1) (137:1.1,4)
 Juan bautizó a Jesús en (135:8.3)
 La llegada de Juan el Bautista a (134:9.8)
 
-penitencia | | Ver arrepentimiento | | 
+penitencia | | arrepentimiento | | 
 forma negativa de ritual de renuncia (89:3.3)
 
 Pensilvania | (58:7.4) (59:5.17) (61:7.2,9) | | PLACE | 
 
-pensiones | | Ver jubilación | | 
+pensiones | | jubilación | | 
 
-Pentecostés (donación del Espíritu de la Verdad) | | Ver judaísmo:fiestas; Espíritu de la Verdad | | 
+Pentecostés (donación del Espíritu de la Verdad) | | judaísmo:fiestas; Espíritu de la Verdad | | 
 acto de autoentrega inteligente, consagración (194:3.16)
 Se han otorgado Ajustadores a todas las mentes normales desde entonces (108:2.3) (146:3.6)
 todos los intermedios rebeldes internados el día de (77:7.2,8)
@@ -834,20 +828,20 @@ Voces de la Sabiduría, Almas de Filosofía y Uniones de las Almas son asociados
 con asociados, son la fuente más alta de verdad en los planetas evolutivos (19:2.6)
 escribió los documentos 11-14, 20, 21, 26, 27 (11:9.9) (12:9.7) (13:4.8) (14:6.42) (20:10.5) (21:6.5) (26:11.9) (27:7.11)
 
-perfume | | Ver ungüento | | 
+perfume | | ungüento | | 
 
-tabla periódica | | Ver elementos (químicos) | | 
+tabla periódica | | elementos (químicos) | | 
 las propiedades se repiten en grupos de 7 (42:9.2-3)
 
 bígaros | (59:2.12) | | | 
 
-perjuros | | Ver mentir | | 
+perjuros | | mentir | | 
 soldados y guardias sobornados para decir que los discípulos se llevaron el cuerpo de Jesús (189:2.4)
 El testimonio contra Jesús cayó en sus propios enredos (184:3.8)
 
-ciudadanos permanentes | | Ver Cuerpo de Ciudadanos Permanentes | ORDER | 
+ciudadanos permanentes | | Cuerpo de Ciudadanos Permanentes | ORDER | 
 
-Pérmico | | Ver edades geológicas | | 
+Pérmico | | edades geológicas | | 
 edad de tribulación biológica; de 170 a 150 millones de años (59:6)
 
 Perpetua | (145:3.5) | | PERSON | 
@@ -871,9 +865,9 @@ poder en la forma en que los primeros cristianos murieron (195:3.4)
 Progreso siempre cosecha final de (140:5.21)
 El mundo no tratará a los creyentes mejor que a Jesús (157:6.8)
 
-perseverancia | | Ver persistencia | | 
+perseverancia | | persistencia | | 
 
-Persia | | Ver Irán | PLACE | 
+Persia | | Irán | PLACE | 
 
 golfo Pérsico | | | PLACE | 
 Envío dravídico en (79:3.7)
@@ -881,7 +875,7 @@ isla en el golfo Pérsico propuesto para el Jardín del Edén (73:3.1)
 Ur ubicado en (78:8.2)
 existen vestigios de Dalamatia bajo aguas de (78:7.7)
 
-persas | | Ver Irán | RACE | 
+persas | | Irán | RACE | 
 liberó a los judíos de Babilonia (97:10.2)
 dioses de la tríada (104:0.3)
 
@@ -908,12 +902,12 @@ Seres de origen paradisíaco conscientes de la presencia de (24:3.3)
 atraviesa el espacio como Mensajeros Solitarios (24:3.2)
 tremenda dotación de antigravedad (24:0.10)
 
-personalidad | (112) (1:6) (16:8) | Ver criaturas; identidad; mortales; circuito de personalidad; el yo; Personalidades de la Tercera Fuente | | 
+personalidad | (112) (1:6) (16:8) | criaturas; identidad; mortales; circuito de personalidad; el yo; Personalidades de la Tercera Fuente | | 
 respetar siempre (159:3.2)
 y realidad (112:1)
 Yahvé antropomórfico de mayor valor religioso que el Absoluto remoto (94:11.12)
 los ascendentes nunca pierden el poder de reconocer a antiguos asociados (44:0.18)
-la asociación produce un cuadrado de personalidades involucradas | Ver grupos | (10:5.2) (68:1.4) (133:5.1)
+la asociación produce un cuadrado de personalidades involucradas | grupos | (10:5.2) (68:1.4) (133:5.1)
 traición y deslealtad a los amigos confiados, lo más destructivo del estado de la personalidad (67:1.3)
 características (9:8.12)
 	14 cosas conocidas sobre la personalidad (112:0.2-16)
@@ -1014,7 +1008,7 @@ personalidad mortal
 misterio (5:6.2) (9:8.10)
 inexistente si los hombres fueran máquinas (195:6.13)
 no totalmente movilizado, realizado y unificado hasta que se le dé autorización para Edentia (47:10.6)
-de Dios | Ver Dios; Padre Universal
+de Dios | Dios; Padre Universal
 	enseñado claramente en Salem (97:0.2)
 	consiste en espíritu; se manifiesta como amor (4:4.6)
 	captado solo por la intuición espiritual (1:5) (1:6.4)
@@ -1035,8 +1029,8 @@ formas de personalidad
 	las formas espirituales se aproximan a la identificación completa con la persona interior (42:12.11) (112:6.3)
 	formas espirituales tan reales y discernibles como los cuerpos morontiales (30:4.20) (42:12.10)
 	forma morontial inicial del sobreviviente patrocinada por Serafines guardianes y supervisores del poder morontial (30:4.15) (42:12.11)
-gravedad de la personalidad | Ver circuito de personalidad
-entidades prepersonales | Ver Ajustadores del pensamiento:naturaleza de los Ajustadores
+gravedad de la personalidad | circuito de personalidad
+entidades prepersonales | Ajustadores del pensamiento:naturaleza de los Ajustadores
 privacidad de personalidad respetado por los Creadores (18:1.4-6)
 registros (30:1-2)
 relaciones entre personalidades son fines en sí mismos (112:2.8) (112:5.22)
@@ -1055,7 +1049,7 @@ al unirse con El Supremo hombre no sumerge su (117:5.5)
 de la sinceridad del libre albedrío mortal depende el Ajustador (112:5.5)
 Van logró la máxima realización de la personalidad (67:3.9)
 
-circuito de personalidad | | Ver personalidad | | 
+circuito de personalidad | | personalidad | | 
 seno del Padre (5:2.2)
 centrado en el Padre (5:6.11) (11:1.4)
 envía adoración al Padre (5:3.2) (5:6.11)
@@ -1067,7 +1061,7 @@ la gravedad de la personalidad no es computable (12:3.12)
 la personalidad responde a (0:6.1) (9:8.8) (12:3.1) (16:8.19) (16:9.14) (30:1.113) (112:0.8)
 Los seres de personalidad de la Tercera Fuente no están en el circuito de personalidad del Padre (9:8.6-12)
 
-Ajustadores personalizados | (40:4) (109:6-7) (109:7) | Ver Ajustador del Pensamiento de Jesús; Ajustadores del pensamiento | ORDER | 
+Ajustadores personalizados | (40:4) (109:6-7) (109:7) | Ajustador del Pensamiento de Jesús; Ajustadores del pensamiento | ORDER | 
 3 muy activo en Urantia; uno certifica el plan para cada ser humano (109:7.7) (110:2.1)
 asignado a los mundos después del donación del Hijo del Paraíso (108:3.4)
 jefes de su especie (20:4.3)
@@ -1089,7 +1083,7 @@ estabilizadores soberanos no asignados y compensadores de universos (109:7.2)
 los valores de los sujetos humanos no sobrevivientes se vuelven posesión de (109:6.2)
 visible para los seres que han alcanzado al Padre (107:4.5)
 
-personas | | Ver criaturas; mortales; personalidad | | 
+personas | | criaturas; mortales; personalidad | | 
 Dios no hace acepción de (1:4.6) (2:3.1) (12:7.1,8) (40:10.13) (133:0.3) (137:8.6) (138:8.2) (140:3.16) (143:1.5 ) (148:6.2) (155:6.2) (156:2.4) (166:4.11) (175:2.1-3) (181:2.14) (192:2.2)
 
 perspectiva | (118:10.13) | | | 
@@ -1127,16 +1121,16 @@ emplear persuasión cambiar de opinión, no compulsión (178:1.12)
 Perú | | | PLACE | 
 se alcanzaron rastros de sangre andita (79:5.9)
 
-espacio impregnado | | Ver espacio:espacio invadido | | 
+espacio impregnado | | espacio:espacio invadido | | 
 
-pesimismo | | Ver optimismo | | 
+pesimismo | | optimismo | | 
 prueba que el universo no es totalmente material (195:7.8)
 la búsqueda del mero conocimiento conduce a (195:6.3)
 
 mal favorito | | | | 
 casi todos los seres humanos tienen un (163:2.7)
 
-Pedro | | Ver Simón Pedro | PERSON | 
+Pedro | | Simón Pedro | PERSON | 
 
 petición | | | | 
 privilegio de petición inherente a la ciudadanía libre (71:2.15-16)
@@ -1149,7 +1143,7 @@ defensa contra el mal de ojo (87:5.5)
 parábola del fariseo y el publicano; historia del fariseo y del publicano | | | | 
 parábola del fariseo y el publicano (140:5.7) (167:5.1-2)
 
-fariseos | | Ver judaísmo; rabinos; sanedrín; escribas | RELIGION | 
+fariseos | | judaísmo; rabinos; sanedrín; escribas | RELIGION | 
 3 renunció durante el juicio de Jesús (184:5.8)
 casi todos los sanedristas que desposaron a Jesús fueron (184:1.1) (184:3.5)
 preguntó a Juan el Bautista si era Elías (135:9.4)
@@ -1208,9 +1202,9 @@ Lázaro era tesorero de la iglesia en (168:5.3) (171:1.5) (172:2.4)
 Natanael vivió en Filadelfia durante 1 año (193:6.4)
 sinagoga nunca sujeta a Jerusalén (166:5.1)
 
-filantropía | | Ver caridad | | 
+filantropía | | caridad | | 
 
-Felipe (apóstol) | (141:3.2) (143:3.5) (144:1.7) (178:2.6-8) (191:0.9) (192:4.7) | Ver apóstoles de Jesús | PERSON | 
+Felipe (apóstol) | (141:3.2) (143:3.5) (144:1.7) (178:2.6-8) (191:0.9) (192:4.7) | apóstoles de Jesús | PERSON | 
 logros
 	convirtió a Anaxando en Cesarea (130:2.5)
 	fracasó como mayordomo solo unas pocas veces (181:2.20)
@@ -1274,8 +1268,8 @@ filósofo en Éfeso | (133:6.4-7) | | |
 piedra filosofal | | | | 
 la creencia en la piedra filosofal condujo al dominio de los metales (88:6.5)
 
-filosofía | (103:6-9) | Ver maestros de la filosofía; ciencia, filosofía y religión | | 
-y religión | Ver teología | (101:7.4) (103:1.5)
+filosofía | (103:6-9) | maestros de la filosofía; ciencia, filosofía y religión | | 
+y religión | teología | (101:7.4) (103:1.5)
 asume la realidad del cuerpo, la mente y el alma (101:5.5-8)
 basado en intuiciones de la mente cósmica (16:6.10)
 error para simplificar demasiado la realidad; acercarse más alto desde más bajo (19:1.5-12)
@@ -1289,7 +1283,7 @@ más alto alcanzable filosofía basado en ciencia, fe y revelación (103:6.15)
 es a la religión como la concepción es a la acción (98:2.12)
 los planos inferiores de mota se unen a niveles superiores de (48:7.1)
 Nalda esquivó el tema de la salvación con (143:5.5-7)
-filosofías nombradas | Ver ascetismo; ateísmo; comunismo; creacionismo; cinismo (religión); determinismo; epicureísmo; fatalismo; humanismo; idealismo; internacionalismo; materialismo; mecanicismo (teoría); metafísica; militarismo; nacionalismo; filosofía natural; negativismo; no resistencia; doctrina del pecado original; patriotismo; filosofía; platonismo; racionalismo; laicismo; escepticismo (religión); estoicismo (religión)
+filosofías nombradas | ascetismo; ateísmo; comunismo; creacionismo; cinismo (religión); determinismo; epicureísmo; fatalismo; humanismo; idealismo; internacionalismo; materialismo; mecanicismo (teoría); metafísica; militarismo; nacionalismo; filosofía natural; negativismo; no resistencia; doctrina del pecado original; patriotismo; filosofía; platonismo; racionalismo; laicismo; escepticismo (religión); estoicismo (religión)
 postula un Dios de unidad universal (5:5.3)
 relevar por la poesía (143:7.3)
 la religión es madre de (5:5.5)
@@ -1333,18 +1327,18 @@ solo han aparecido 14 (65:2.11)
 filacterias | | | | 
 ampliando (175:1.9)
 
-controladores físicos | | Ver Controladores Físicos Maestros | | 
+controladores físicos | | Controladores Físicos Maestros | | 
 
-energía física | | Ver energía material | | 
+energía física | | energía material | | 
 
 Manipuladores de la energía física; manipuladores de la energía física | | | | 
 Manipuladores de la Energía Artesanos Celestiales; ayudan a los Supervisores del Poder Morontial (44:5.2)
 
-materia física | | Ver materia | | 
+materia física | | materia | | 
 
-naturaleza física | | Ver carne | | 
+naturaleza física | | carne | | 
 
-médicos | | Ver enfermedad; lesión; medicamento | | 
+médicos | | enfermedad; lesión; medicamento | | 
 Elman, hospital supervisado de Betsaida (148:0.1) (148:2)
 Lucas (121:8.8)
 abstenerse de despreciar los medios materiales de curación (164:3.15)
@@ -1365,7 +1359,7 @@ José ofreció dos como sacrificio en el templo (122:10.2)
 
 pico Pikes | (60:4.4) | | PLACE | 
 
-Pilato (Poncio) | | Ver Poncio Pilato | PERSON | 
+Pilato (Poncio) | | Poncio Pilato | PERSON | 
 
 Guardianes de los Peregrinos | | | ORDER | 
 Compañeros Morontiales; coordinadores de todos los ministros morontiales (48:3.7)
@@ -1402,20 +1396,20 @@ Pisidia | (121:8.8) | | PLACE |
 experimento de Pitcairn | | | | 
 combinación exitosa de razas (82:6.9)
 
-glándulas pituitarias | | Ver hormonas | | 
+glándulas pituitarias | | hormonas | | 
 imaginación y receptividad espiritual influenciadas por (49:5.19)
 
-lástima | | Ver simpatía | | 
+lástima | | simpatía | | 
 
 aplacamiento | | | | 
 de fantasmas precedió a la coerción, la súplica, la conciliación y la propiciación (87:2.1) (89:4.4) (90:0.1)
 
-Adanes planetarios | | Ver Hijos Materiales de Dios | ORDER | 
+Adanes planetarios | | Hijos Materiales de Dios | ORDER | 
 
 comisión planetaria de los setenta | | | | 
 El grupo Edentia aprueba los planes planetarios de iniciación a la vida (57:8.9)
 
-consejo planetario de arte y ciencia | | Ver cien de Caligastia | PERSON | 
+consejo planetario de arte y ciencia | | cien de Caligastia | PERSON | 
 
 Guardianes Planetarios | | | ORDER | 
 70 a cargo de cada esfera morontial (48:2.18)
@@ -1423,7 +1417,7 @@ en el registro de personalidad de Uversa (30:2.111)
 Supervisores del Poder Morontial; conceder formas morontiales a todos los progresores morontiales (48:2.18)
 
 épocas planetarias | (52) (49:5.21-28) | | | 
-primera - era pre-Príncipe Planetario | Ver mortales:mortales primitivos | (52:1)
+primera - era pre-Príncipe Planetario | mortales:mortales primitivos | (52:1)
 	Aparecen 6 razas de colores; el lenguaje se desarrolla (52:1.1-2)
 	emergencia desde el nivel animal; dura de 150.000 a 1.000.000 de años (52:1.1)
 	capítulo largo, oscuro y sangriento (52:1.4)
@@ -1472,7 +1466,7 @@ quinta - era posterior al Hijo donador (52:5-6)
 	El donación de Miguel en Urantia (52:5.2)
 	en Urantia (52:6)
 	búsqueda mundial de la cultura moral, la verdad espiritual (52:5.3)
-sexta - era posterior al Hijo Instructor | Ver luz y vida | (52:7)
+sexta - era posterior al Hijo Instructor | luz y vida | (52:7)
 	Cuarta Mansonia comparable a (47:6.4)
 	La conclusión de las misiones de los Hijos Maestros marca la entrada a la luz y la vida (52:7.10,14)
 	el gobierno desaparece (52:7.5)
@@ -1497,13 +1491,13 @@ cada época planetaria proporciona un destino inmediato para todas las etapas pr
 	sexta - esfuerzo espiritual (50:5.9)
 	séptima - luz y vida (50:5.10)
 El padre enviará otro donación al final de la dispensación (176:2.5)
-luz y vida | Ver luz y vida
+luz y vida | luz y vida
 sin límites de tiempo arbitrarios con respecto (52:5.8)
 practicar para enviar grupos avanzados para preparar el camino para las épocas posteriores (56:7.5)
 los sobrevivientes dormidos entran en ascenso eterno al final de cada dispensación (30:4.11) (193:0.5)
 La secuencia normal de Urantia trastornada por la encarnación de Miguel (20:4.4-5)
 
-Serafines Ayudantes Planetarios; ayudantes angélicos planetarios; ayudantes planetarios; serafines planetarios | (39:5) | Ver Serafines | ORDER | 
+Serafines Ayudantes Planetarios; ayudantes angélicos planetarios; ayudantes planetarios; serafines planetarios | (39:5) | Serafines | ORDER | 
 1/3 perdido en la rebelión de Lucifer (53:7.7)
 Serafines de quinto orden (51:3.5)
 acompañen siempre a los Adanes Planetarios; normalmente el número 100.000 (39:5) (51:3.5)
@@ -1519,16 +1513,16 @@ tipos
 	6. Los Registradores (39:5.16)
 	7. Las Reservas (39:5.17)
 
-tipos físicos planetarios | | Ver mortales:tipos planetarios | | 
+tipos físicos planetarios | | mortales:tipos planetarios | | 
 
-Príncipe Planetario de Urantia | | Ver Príncipes Planetarios | PERSON | 
+Príncipe Planetario de Urantia | | Príncipes Planetarios | PERSON | 
 Caligastia era; depuesto (66) (179:2.3) (189:3.3)
 La comisión de Emmanuel de que Miguel regrese como (120:2.2-3)
 llegada tardía (65:4.8-9)
 Maquiventa Melquisedek es vicegerente (45:4.16) (55:7.3) (93:10.5-6) ​​(114:1.2-4)
 Miguel es (45:4.16) (114:0.8) (114:1.1) (136:3.1) (176:4.4)
 
-Príncipes Planetarios | (50) (35:9) (134:8.6) (136:3.1) (189:3.3) | Ver Estado mayor corpóreo de los Príncipes Planetarios; Hijos Lanonandek; Príncipe Planetario de Urantia; Soberanos Planetarios | ORDER | 
+Príncipes Planetarios | (50) (35:9) (134:8.6) (136:3.1) (189:3.3) | Estado mayor corpóreo de los Príncipes Planetarios; Hijos Lanonandek; Príncipe Planetario de Urantia; Soberanos Planetarios | ORDER | 
 37 se separó en la rebelión de Lucifer (53:7.1)
 administraciones (50:2-4)
 llegada
@@ -1555,7 +1549,7 @@ acercamiento personal más cercano del Hijo Eterno aparte de la encarnación (50
 ninguna confianza alta considerada más sagrada que la depositada en (67:1.3)
 unido permanentemente a los planetas de asignación original (50:5.1)
 los Príncipes Planetarios en el planeta vecino bajo la falta (72:0.3)
-rebelión de los Príncipes Planetarios en Nebadon | Ver rebelión (espiritual) | (35:9.6-10) (50:1.3)
+rebelión de los Príncipes Planetarios en Nebadon | rebelión (espiritual) | (35:9.6-10) (50:1.3)
 rebelión de los Príncipes Planetarios aísla instantáneamente el planeta (35:9.9)
 los regímenes son idénticos (49:5.18)
 Lanonandek secundarios; número 10,234,601 en Nebadon (35:8.5)
@@ -1571,13 +1565,13 @@ administraciones unidas con Planetary Adanes (51:7.2)
 centinelas planetarios | | | | 
 intermedios que patrullan el reino espiritual del planeta (77:8.7)
 
-Soberanos Planetarios | | Ver Príncipes Planetarios | ORDER | 
+Soberanos Planetarios | | Príncipes Planetarios | ORDER | 
 convertirse en miembros del cónclave del sistema en luz y vida del sistema (55:8.1)
 El Hijo de donación proclama a los Príncipes Planetarios como Soberanos Planetarios a la luz y
 vida (50:5.11) (51:7.2) (52:7.10) (55:1.1) (55:7.1)
 invisible para los mortales excepto en el templo morontial (55:7.2)
 
-planetas | | Ver Monmatia; cuerpos espaciales | PLACE | 
+planetas | | Monmatia; cuerpos espaciales | PLACE | 
 todas las criaturas habitan moradas materiales (11:0.1) (12:8.1) (14:2.1) (14:4.11)
 todos los planetas habitados por mortales son evolutivos (32:3.2) (49:0.1)
 Los planetas de acumulación fría en buena relación con el sol son los mejores para la vida (15:6.14)
@@ -1604,7 +1598,7 @@ orígenes (41:10) (57:5-7)
 	acercamiento cercano de gran masa a un sol (15:5.5) (41:10.1) (57:5)
 	El movimiento retrógrado siempre es el resultado de cuerpos extraños en el espacio (57:5.14).
 	fisión solar (15:5.7)
-series uno, dos y tres | Ver mortales:tipos planetarios
+series uno, dos y tres | mortales:tipos planetarios
 idoneidad para la vida
 	todo los planetas hecho para ser finalmente habitado (1:0.2)
 	no 1 de cada 40 apto para habitación (15:6.14-16)
@@ -1616,35 +1610,35 @@ Los Centros de los sistemas envían energía a los habitados (29:2.18)
 planes | | | | 
 comenzado en el tiempo se terminará en la eternidad, si vale la pena terminar (111:3.7)
 la cooperación es planificar con otros seres más sabios (39:4.10)
-El plan de Dios | Ver plan divino; voluntad de Dios
+El plan de Dios | plan divino; voluntad de Dios
 implementación en ideas, estereotipos y decisiones (101:7.1)
 la sobreplanificación puede derrotarse a sí misma (160:4.11)
 sufrir menos haciendo menos personal planes concerniente a otros (48:6.36)
 frustrado por la conspiración de los acontecimientos (154:6.10)
 
-plantas | | Ver agricultura | | 
+plantas | | agricultura | | 
 asociación con plantas infunde paciencia, tranquilidad, paz (68:5.9,11)
 evolución de plantas portadoras de esporas en semillas (59:5.22) (65:6.3)
 la evolución requirió la aparición de muchas formas aparentemente inútiles; destinado a pasar (36:2.17)
 floración plantas apareció de repente en el Cretácico (60:3.)
 formas inferiores totalmente sensibles al entorno físico, químico y eléctrico (65:6.7)
 El paso más importante en la evolución fue la producción de clorofila (65:6.3)
-nombrada | Ver algas; áloes; angiospermas; anís; manzana; bacterias; cebada; hayas; abedules; árboles de pan; cereales; cidra; cacao; coníferas; comino; helechos; higuera; hongos; uvas; hierba; hidra; magnolias; arces; menta; semilla de mostaza; mirra; robles; avena; palmas; pinos; secuoyas; arroz; algas; semillas; secuoyas; limo; lirios de mar; sicomoros; tulipanes; virus; volvox; nueces; malas hierbas; trigo
+nombrada | algas; áloes; angiospermas; anís; manzana; bacterias; cebada; hayas; abedules; árboles de pan; cereales; cidra; cacao; coníferas; comino; helechos; higuera; hongos; uvas; hierba; hidra; magnolias; arces; menta; semilla de mostaza; mirra; robles; avena; palmas; pinos; secuoyas; arroz; algas; semillas; secuoyas; limo; lirios de mar; sicomoros; tulipanes; virus; volvox; nueces; malas hierbas; trigo
 vieja superstición de que las mujeres podrían criar mejor (84:3.6)
 una vez fetiches, tabú como comida (88:1.3)
 crecimiento de energía pura en mundos morontiales (43:6.6)
 Plantas portadoras de esporas casi extintas después del Pérmico (60:0.2)
 adoración de (85:2.1-2)
 
-plasma | | Ver plasma vital | | 
+plasma | | plasma vital | | 
 
 platino | (63:5.6) | | | 
 
-Platón | | Ver platonismo | PERSON | 
+Platón | | platonismo | PERSON | 
 Griego; enseñó que la virtud es conocimiento; sufrir en lugar de ser culpable de la injusticia (98:2.6)
 no es un maestro religioso (92:5.12)
 
-platonismo | | Ver Grecia:religión griega; Platón | RELIGION | 
+platonismo | | Grecia:religión griega; Platón | RELIGION | 
 4 grandes filosofías derivadas de (121:4.1)
 El cuarto libro de los Macabeos ejemplifica (121:6.3)
 adaptado al cristianismo (146:1.3)
@@ -1654,12 +1648,12 @@ Los comentarios de Jesús sobre (130:4.1) (133:5.2)
 natural es la sombra irreal de las realidades espirituales (151:3.3) (170:5.2)
 Tolerar la creencia en la reencarnación (164:3.4)
 
-jugar | | Ver recreación | | 
+jugar | | recreación | | 
 
 constructores de edificios recreativos | | | | 
 Constructores Divinos, Artesanos Celestiales (44:3.4)
 
-placeres | | Ver recreación; autogratificación | | 
+placeres | | recreación; autogratificación | | 
 vencimiento sustituye significados más altos para (100:1.1)
 El mundo morontial tiene miles de realidades espirituales en contrapartida a los placeres materiales (44:3.1)
 placeres físicos
@@ -1675,16 +1669,16 @@ placeres físicos
 recordar experiencias pasadas proporciona placeres (48:4.10,20)
 satisfacciones de la felicidad (3:5.14)
 
-Pleistoceno | | Ver edades geológicas | | 
+Pleistoceno | | edades geológicas | | 
 era de Hielo; Hace 2 millones a 100.000 años (61:5-7)
 
-Plioceno | | Ver edades geológicas | | 
+Plioceno | | edades geológicas | | 
 era de la migración de mamíferos; Hace 10 a 1 millón de años (61:4)
 
 arado | | | | 
 habiendo puesto la mano en el arado, no puede volver atrás (163:2.3)
 
-plomería | | Ver saneamiento | | 
+plomería | | saneamiento | | 
 Los anditas cretenses usaron plomería hacia el 12.000 a.C. (80:7.2)
 
 poesía | | | | 
@@ -1718,7 +1712,7 @@ relaciones complementarias de espíritus ministrantes (26:1.16)
 estrella polar | | | | 
 entrada inclinada de la gran pirámide apuntada (95:2.7)
 
-polos magnéticos | | Ver magnetismo | | 
+polos magnéticos | | magnetismo | | 
 
 polos de comunicación espacial | | | PLACE | 
 Los Ancianos de los Días ocupan un punto de polaridad espiritual en Uversa (18:3.6)
@@ -1726,7 +1720,7 @@ sobre Urantia (62:7.2) (189:3.2)
 El enfoque reflexivo en Uversa no es lo mismo que el enfoque espiritual (17:3.1)
 informes espaciales recibidos en; los transportes seráficos parten de (39:5.13-15)
 
-policía | | Ver gobierno; regulación (gubernamental) | | 
+policía | | gobierno; regulación (gubernamental) | | 
 algunas policía puede contener a una turba (68:1.4)
 son solteros en una nación continental (72:7.5)
 policía internacional la fuerza puede prevenir guerras menores (134:5.10)
@@ -1736,20 +1730,20 @@ la religión ha sido moral policía fuerza de todos los tiempos (92:3.9)
 las sociedades secretas funcionaban como secretas (70:7.15-16)
 los chamanes fueron los primeros oficiales de la ley (70:10.5)
 
-política | | Ver gobierno | | 
+política | | gobierno | | 
 
-poliandria | | Ver matrimonio:entre primitivos | | 
+poliandria | | matrimonio:entre primitivos | | 
 
-poligamia | | Ver matrimonio:entre primitivos | | 
+poligamia | | matrimonio:entre primitivos | | 
 
-poliginia | | Ver matrimonio:entre primitivos | | 
+poliginia | | matrimonio:entre primitivos | | 
 
 Polinesia | | | PLACE | 
 Marineros anditas biológicamente modificados (78:5.7)
 islas más numerosas y más grandes en los días de los anditas (78:5.7)
 composición racial (79:6.3)
 
-politeísmo | | Ver religión | | 
+politeísmo | | religión | | 
 mandamiento en Dalamatia contra (66:7.9)
 monoteísmo en formación (5:4.2,9)
 
@@ -1797,11 +1791,11 @@ un mayor número recibe el evangelio (143:1.5) (166:4.3)
 Jesús bendijo a los pobres porque generalmente es sincero y piadoso (196:2.8)
 ministrar, compartir con los pobres (147:8.3) (167:1.5) (192:2.2)
 
-pobre de espíritu | | Ver humildad | | 
+pobre de espíritu | | humildad | | 
 
 pobre hombre acusado falsamente | (132:4.8) | | | 
 
-populacho | | Ver opinión pública | | 
+populacho | | opinión pública | | 
 unos pocos policías pueden contener a una multitud enojada (68:1.4)
 cuidado con la inconstancia de (185:5.5)
 clamó por la liberación de Barrabás (185:5.4-11)
@@ -1848,34 +1842,34 @@ universo vecino a Nebadon (32:2.12)
 porteadores | | | | 
 El gobernante de la raza azul tuvo una vez 100.000 (81:2.12)
 
-posición | | Ver estado | | 
+posición | | estado | | 
 
-positivo | | Ver optimismo | | 
+positivo | | optimismo | | 
 siempre tiene ventaja sobre lo negativo (102:6.7)
 La religión de Jesús fue (159:5)
 
-posesión | | Ver posesión demoníaca | | 
+posesión | | posesión demoníaca | | 
 
-posesiones | | Ver propiedad privada; riqueza | | 
+posesiones | | propiedad privada; riqueza | | 
 Los discípulos debían dedicar todo lo que tenían (171:2.4).
 mantenido en común por la iglesia primitiva; condujo al desastre (194:4.2,7)
 la vida del hombre no consiste en abundancia (165:4.1)
 muchos antiguos consideraban posesiones como impedimento espiritual (89:3.2)
 cuando el hombre le da a Dios todo lo que tiene, Dios lo hace más de lo que es (117:4.14)
 
-era post-adánica | | Ver épocas planetarias | | 
+era post-adánica | | épocas planetarias | | 
 
-era posterior al Hijo donador | | Ver épocas planetarias | | 
+era posterior al Hijo donador | | épocas planetarias | | 
 
-era posterior al Hijo Magisterial | | Ver épocas planetarias | | 
+era posterior al Hijo Magisterial | | épocas planetarias | | 
 
-era posterior al Príncipe Planetario | | Ver épocas planetarias | | 
+era posterior al Príncipe Planetario | | épocas planetarias | | 
 
-era posterior al Hijo Instructor | | Ver épocas planetarias | | 
+era posterior al Hijo Instructor | | épocas planetarias | | 
 
-postulados | | Ver teorías | | 
+postulados | | teorías | | 
 
-lo Potencial | | Ver Absolutos:los tres | | 
+lo Potencial | | Absolutos:los tres | | 
 lo que se está convirtiendo (115:3.11)
 
 potenciales | | | | 
@@ -1887,11 +1881,11 @@ lo que ha de ser son los mandatos intencionales de la Deidad (102:5.1)
 
 marmitas de gigante | (61:7.1) | | | 
 
-alfareros | | Ver cerámica | | 
+alfareros | | cerámica | | 
 los especialistas del primer grupo fueron (69:3.10)
 Natán de Nazaret fue; Jesús deseaba convertirse (123:5.15)
 
-cerámica | | Ver alfareros | | 
+cerámica | | alfareros | | 
 Los anditas cretenses hicieron cerámica hacia el 12.000 a.C. (80:7.2)
 Danubianos (80:8.4)
 comercio temprano en (79:1.4) (80:1.2)
@@ -1906,13 +1900,13 @@ origen del culto fantasma del gallo en la veleta (87:6.11)
 ilegal mantener aves de corral dentro de Jerusalén (184:2.10)
 Jesús reunía pollos como gallinas (171:4.7) (175:1.23)
 
-libras | | Ver dinero | | 
+libras | | dinero | | 
 parábola de la libras hablado exclusivamente a los apóstoles (171:8)
 
-pobreza | | Ver riqueza | | 
+pobreza | | riqueza | | 
 aborrecido por los antiguos (69:5.12)
 explica la ausencia de ideales en los líderes nacionales (111:4.10)
-evitando | Ver logro; ganarse la vida
+evitando | logro; ganarse la vida
 la cultura nunca se desarrolla en condiciones de (81:6.6)
 imprevistos dependen del estado (contribuyentes ahorrativos) (69:9.5)
 muchos de los que buscan riqueza en canales aislados (160:4.10)
@@ -1920,17 +1914,17 @@ estado natural del hombre (69:2.2)
 ninguno en luz y vida (55:5.2)
 parte del ritual de mortificación de la carne (89:3.2-3)
 no debe tolerarse (71:3.8)
-pobreza espiritual | Ver humildad
+pobreza espiritual | humildad
 generalizado en tiempos de Jesús (121:1.8)
 
 poder | | | | 
 siempre estimula los sentimientos religiosos (92:1.4)
 el conocimiento es poder (81:6.9)
 nuestro poder es a través de la renovación del Espíritu (34:6.5)
-poder físico | Ver energía
+poder físico | energía
 	designa el nivel electrónico de materia sensible a la gravedad lineal (0:6.2)
 	término denota etapas de energía posteriores a la gravedad (29:2.15) (42:2.1)
-	poder del universo | Ver gravita
+	poder del universo | gravita
 posición
 	todo poder dado a Jesús (138:7.1)
 	experiencial poder se gana poder, eternidad poder no es (106:2.3)
@@ -1942,21 +1936,21 @@ tendencia a inclinarse ante el poder (89:4.1)
 no hay poder sino de Dios (3:2.1)
 los que esperan en el Señor renovarán sus fuerzas (97:7.8) (131:2.6)
 
-centros de poder | | Ver Centros Supremos del Poder | ORDER | 
+centros de poder | | Centros Supremos del Poder | ORDER | 
 
-supervisores de poder | | Ver Supervisores del Poder Morontial | ORDER | 
+supervisores de poder | | Supervisores del Poder Morontial | ORDER | 
 
-transformadores de poder | | Ver transformadores de energía | ORDER | 
+transformadores de poder | | transformadores de energía | ORDER | 
 
-Poderes del Paraíso | | Ver Deidad | ORDER | 
+Poderes del Paraíso | | Deidad | ORDER | 
 
-practicidades | | Ver circunstancias | | 
+practicidades | | circunstancias | | 
 de la vida diaria administrada por agencias del Espíritu Infinito (5:3.5)
 
 pretorio | | | | 
 además de la fortaleza de Antonia; El juicio de Jesús en (185:0.2) (185:5.1) (186:4.1) (187:0.4)
 
-alabanza | | Ver adulación; reconocimiento; adoración | | 
+alabanza | | adulación; reconocimiento; adoración | | 
 aliento por juicioso (139:1.10)
 Jesús no es influenciado por (141:7.12)
 busca solo lo que te pertenece (156:5.19)
@@ -1964,7 +1958,7 @@ busca solo lo que te pertenece (156:5.19)
 Prajapati | | | | 
 Principio védico de deidad-padre (94:1.4)
 
-oración | (143:7) (144:2) (168:4) | Ver meditación; comunión espiritual; adoración | | 
+oración | (143:7) (144:2) (168:4) | meditación; comunión espiritual; adoración | | 
 definido como
 	pedirle a Dios sabiduría y fortaleza mientras ataca los problemas que tiene entre manos (91:6.5)
 	la mejor técnica para contactar con Dios (91:6.7)
@@ -2095,18 +2089,18 @@ oración primitiva
 oración de identificación | | | | 
 diferencia el Espíritu Materno del universo local (17:6.5)
 
-pre-sumerios | | Ver sumerios | RACE | 
+pre-sumerios | | sumerios | RACE | 
 
-principios de predicación | | Ver evangelio:proclamar | | 
+principios de predicación | | evangelio:proclamar | | 
 
-precedente | | Ver ley | | 
+precedente | | ley | | 
 adapta las leyes escritas a las condiciones cambiantes (70:11.7)
 
 precipicio | | | | 
 mercenarios dispuestos a empujar a Jesús (150:9.3)
 Jesús podría haberse desechado a sí mismo sin sufrir daño (136:7.1)
 
-predestinación | (118:7) | Ver omnisciencia; voluntad | | 
+predestinación | (118:7) | omnisciencia; voluntad | | 
 el ciclo está preordenado; la participación del hombre es opcional (112:5.2)
 los mortales son sujetos de la predestinación, pero pueden rechazar cualquier parte (110:2.1)
 correlación suprema de toda elección pasada, presente y futura; no invalida el libre albedrío (118:7.2)
@@ -2121,10 +2115,10 @@ preferencia | | | |
 El deseo de los apóstoles por (138:7.1) (158:4.4) (158:6.2-3) (158:8.1) (171:0.6) (171:3.9) (179:1)
 abstenerse de buscar preferencia entre grupos (179:5.7)
 
-embarazo | | Ver partería | | 
+embarazo | | partería | | 
 los primitivos creían embarazo resultado de la entrada del espíritu en la mujer (84:1.3)
 
-prejuicios | | Ver intolerancia; juicio:por el hombre | | 
+prejuicios | | intolerancia; juicio:por el hombre | | 
 abandonar (160:1.7) (170:2.21)
 ciega, sella las almas (157:2.2) (162:7.3)
 gobierno celestial uniformemente libre de (49:5.18)
@@ -2139,29 +2133,29 @@ el prejuicio inhibe
 	imaginación creativa (111:4.9)
 	crecimiento (100:1.2)
 
-era anterior a la vida | | Ver edades geológicas | | 
+era anterior a la vida | | edades geológicas | | 
 Arqueozoico, desde hace 1000 millones hasta 550 millones de años (59:0.2) (78:7.4)
 
-entidades prepersonales | | Ver Ajustadores del pensamiento:naturaleza de los Ajustadores | | 
+entidades prepersonales | | Ajustadores del pensamiento:naturaleza de los Ajustadores | | 
 
-circuitos de presencia | | Ver circuitos | | 
+circuitos de presencia | | circuitos | | 
 
 embellecedores de las presencias | | | | 
 Diseñadores y los Embellecedores de Artesanos Celestiales; dramatizar el significado de la relación (44:6.7)
 
-presencia de Dios | | Ver Dios:conciencia de Dios | | 
+presencia de Dios | | Dios:conciencia de Dios | | 
 
-presente | | Ver perspectiva | | 
+presente | | perspectiva | | 
 interpretar a la luz del pasado y el futuro correlacionados (19:1.11)
 trivial cuando se divorcia del pasado y del futuro (160:2.9)
 
-presentimientos | | Ver liderazgos | | 
+presentimientos | | liderazgos | | 
 
-presionar | | Ver compulsión | | 
+presionar | | compulsión | | 
 las presiones no salvan, ni ennoblecen al hombre, ni estimulan el crecimiento (103:5.11)
 debe desarrollar estabilidad y certeza (48:6.35)
 
-prestigio | | Ver honor | | 
+prestigio | | honor | | 
 
 presunción | | | | 
 el coraje y la fe pueden llevar a los hombres irreflexivos a la imprudencia (149:4.4)
@@ -2170,12 +2164,12 @@ La fe de Jesús totalmente libre de (196:0.14)
 La presunción de Pedro causó problemas (139:2.3) (181:2.27)
 imprudencia de los ciegos presunción (100:7.15)
 
-pretensión | | Ver afectación | | 
+pretensión | | afectación | | 
 
 detención preventiva | | | | 
 en la nación continental (72:10.2)
 
-orgullo | | Ver honor; importancia personal; respeto por uno mismo | | 
+orgullo | | honor; importancia personal; respeto por uno mismo | | 
 la arrogancia puede convertirse en pecado (111:6.2)
 encomiable en familia, reputación y nación si no se lleva demasiado lejos (139:6.3)
 contemplando a Dios, la auto-glorificación es ridícula (48:4.15)
@@ -2196,7 +2190,7 @@ no resistir el daño a los sentimientos de dignidad personal (141:3.8)
 sutilezas de lo espiritual orgullo (163:6.6)
 sabiduría de reconocer la insignificancia de uno (131:8.6)
 
-sacerdotes | (90:5.4-8) | Ver religión | | 
+sacerdotes | (90:5.4-8) | religión | | 
 asombrar a la gente común al realizar rituales en una lengua antigua (90:5.6)
 No llames Padre a nadie en sentido espiritual (175:1.10)
 célibe debido a la bajeza de la mujer (84:4.4)
@@ -2218,7 +2212,7 @@ mujeres con derecho a realizar servicios religiosos (194:3.14)
 título del sacerdote | | | | 
 puso la tierra bajo la protección de los tabúes (69:9.13)
 
-Asociadores Primarios | | Ver Controladores Físicos Maestros; Directores del Poder Universal | ORDER | 
+Asociadores Primarios | | Controladores Físicos Maestros; Directores del Poder Universal | ORDER | 
 primer grupo en aparecer en la organización de esferas materiales (29:4.34)
 en el registro de personalidad de Uversa (30:2.105)
 agentes catalíticos vivos; actuar por su presencia (29:4.32)
@@ -2230,7 +2224,7 @@ tipo de Controlador Físico Maestro (29:4.9)
 erupción primaria | | | | 
 personalización del Espíritu Materno del universo local (17:6.7) (34:1.1)
 
-Organizadores de la Fuerza Maestros Eventuados Primarios | | Ver Organizadores de la Fuerza Maestros | ORDER | 
+Organizadores de la Fuerza Maestros Eventuados Primarios | | Organizadores de la Fuerza Maestros | ORDER | 
 
 Primates | (62:4) | | RACE | 
 Los andonitas asimilaron mejores cepas de (65:3.4)
@@ -2244,28 +2238,28 @@ esqueletos muy similares a los humanos primitivos (62:4.4)
 arrojó piedras; mazas usadas, espículas de pedernal, hueso (63:1.2)
 caminó erguido, vida arbórea en gran parte abandonada; lenguaje desarrollado (62:4.1-4)
 
-mortales primitivos | | Ver mortales:mortales primitivos | RACE | 
+mortales primitivos | | mortales:mortales primitivos | RACE | 
 
-fuerza primordial | | Ver segregata | | 
+fuerza primordial | | segregata | | 
 
 príncipe de las tinieblas | | | PERSON | 
 Caligastia (179:2.3)
 
-príncipe de los demonios | | Ver diablo | PERSON | 
+príncipe de los demonios | | diablo | PERSON | 
 
 Príncipe de la Paz | | | PERSON | 
 Hijo de donación (52:6.1)
 Jesús (68:3.5) (93:10.7) (136:9.7) (137:8.7)
 Los judíos creían que el Mesías reinaría sobre ellos como (97:10.1)
 
-Príncipe de Salem | | Ver Maquiventa Melquisedek | PERSON | 
+Príncipe de Salem | | Maquiventa Melquisedek | PERSON | 
 Melquisedek que vivió en Urantia (35:4.5)
 
-Príncipe de este mundo | | Ver Caligastia | PERSON | 
+Príncipe de este mundo | | Caligastia | PERSON | 
 
-personal corpóreo del Príncipe | | Ver cien de Caligastia | PERSON | 
+personal corpóreo del Príncipe | | cien de Caligastia | PERSON | 
 
-impresión | | Ver escritura | | 
+impresión | | escritura | | 
 aparición temprana en China (79:8.7)
 La enseñanza del Maestro se malinterpreta porque no se recuerdan las palabras exactas (180:2.4)
 avance lento antes de la imprenta (81:6.9,44)
@@ -2293,7 +2287,7 @@ intimidad | | | |
 Los creadores respetan intimidad incluso de criaturas humildes (18:1.4-6)
 ninguno en la vida primitiva (70:10.4)
 
-propiedad privada | (69:9) | Ver capital; competencia; posesiones; riqueza | | 
+propiedad privada | (69:9) | capital; competencia; posesiones; riqueza | | 
 entre primitivos
 	trajo mayor libertad y estabilidad (69:9.16)
 	primera propiedad privada consistía en cosas tocadas personalmente (69:9.8)
@@ -2336,7 +2330,7 @@ supervisado por 1000 parejas de hijos e hijas materiales (45:6.9)
 los sobrevivientes deficientes en la experiencia de los padres deben calificar en la guardería probatoria, posiblemente con sus propios hijos (45:6.6-8) (47:1.4-5)
 visitación de padres mortales (47:1.4-5)
 
-resolución de problemas | | Ver desafíos; decisiones; dificultades; oportunidades | | 
+resolución de problemas | | desafíos; decisiones; dificultades; oportunidades | | 
 la franja del conflicto debe ser atravesada (159:3.7) (160:1.6)
 la religión ordena, evalúa y ajusta todos los problemas (196:3.1)
 técnica
@@ -2366,7 +2360,7 @@ hijo pródigo | | | |
 ilustra cómo un padre amoroso puede esperar durante mucho tiempo el arrepentimiento de su hijo descarriado (54:4.2)
 parábola de (169:1.5-16)
 
-lucro | | Ver capital; competencia; propiedad privada | | 
+lucro | | capital; competencia; propiedad privada | | 
 la primera clase de comerciantes cobraba comisión por los servicios (69:3.11)
 Jesús detestaba la especulación (173:1.11)
 hombres con derecho a justicia y legitimidad lucro (132:5.17)
@@ -2377,7 +2371,7 @@ fines de lucro (71:6)
 	no debe retirarse hasta que sea innecesario (71:6.3)
 	egoísta; incompatible con las enseñanzas de Jesús (71:6.1-3)
 
-progreso | | Ver logro; cambio; evolución; metas; crecimiento; crecimiento espiritual; transición | | 
+progreso | | logro; cambio; evolución; metas; crecimiento; crecimiento espiritual; transición | | 
 caracterizado por una libertad creciente (132:3.10)
 exige el desarrollo de la individualidad (48:7.29)
 efectuada por la evolución reveladora (196:3.15)
@@ -2408,30 +2402,30 @@ las condiciones estáticas indican descomposición (71:4.1)
 sin valor sin crecimiento (100:3.6)
 consigna del universo (4:1.2) (9:1.3)
 
-ángeles del progreso | | Ver Serafines maestros de la supervisión planetaria | ORDER | 
+ángeles del progreso | | Serafines maestros de la supervisión planetaria | ORDER | 
 
 ayudantes del progreso | | | ORDER | 
 intermedios espirituales que ayudan a los Serafines planetarios (77:8.9)
 
-proletariado | | Ver población | | 
+proletariado | | población | | 
 
 Prometeo | | | PERSON | 
 robó fuego del cielo (81:2.9)
 
-Tierra prometida | | Ver Palestina | | 
+Tierra prometida | | Palestina | | 
 
-promesas | | Ver deber; juramentos; resoluciones | | 
+promesas | | deber; juramentos; resoluciones | | 
 antiguos desconfiaban promesas con respecto al matrimonio; garantía tangible solicitada (83:3.1)
 debe mantenerse (157:1.2)
 
 promotores de la oratoria | | | | 
 registradores de pensamientos, Artesanos Celestiales (44:4.7)
 
-profecías | | Ver profetas; especulaciones; visiones | | 
+profecías | | profetas; especulaciones; visiones | | 
 Las Importancias del Tiempo son el secreto de la profecía (28:6.11)
 Juan el Bautista pronunció una profecía (135:11.3)
 Melquisedek le dijo a Abraham de la futura ocupación de Canaán por su descendencia después de Egipto (93:6.3)
-Mesiánico | Ver Mesías
+Mesiánico | Mesías
 de los documentos de Urantia
 	mayor Gautama puede surgir para liderar la India (79:4.8)
 	Aún está por llegar una destrucción más terrible del secularismo (195:8.13)
@@ -2440,13 +2434,13 @@ de los documentos de Urantia
 artistas proféticos | | | | 
 Reproductores Celestiales, Artesanos Celestiales (44:2.7)
 
-profetas | | Ver profecías | | 
+profetas | | profecías | | 
 volverse vivo (147:8.5) (155:6.7)
 sangre de los profetas requerido de esta generación perversa (166:1.5)
 los Artesanos Celestiales retratan el mundo espiritual a los videntes (44:2.11)
 deseaba contemplar lo que vieron 70 evangelistas (163:6.4)
 falso profeta con piel de oveja (140:3.19)
-profetas individuales | Ver Amós (profeta); Daniel; Elías (profeta); Eliseo; Ezequiel; Esdras (profeta); Ageo; Oseas; Isaías (primero); Isaías (segundo); Jeremías; Juan el Bautista; Juan Zebedeo; Malaquías; Moisés; Samuel
+profetas individuales | Amós (profeta); Daniel; Elías (profeta); Eliseo; Ezequiel; Esdras (profeta); Ageo; Oseas; Isaías (primero); Isaías (segundo); Jeremías; Juan el Bautista; Juan Zebedeo; Malaquías; Moisés; Samuel
 Juan el Bautista fue el más grande de la antigüedad (136:0.1)
 asesinado en Jerusalén (175:1.22-23)
 nueva escuela de (148:1)
@@ -2462,14 +2456,14 @@ obra de los profetas
 	enseñó la voluntad de Dios; proclamó la justicia y la misericordia de Dios (135:5.6) (138:8.8) (166:1.5)
 adorado por los primitivos (85:6.2)
 
-propiciación | | Ver doctrina de la expiación; sacrificio | | 
+propiciación | | doctrina de la expiación; sacrificio | | 
 Intentos de sobornar la mala suerte (87:6.2) (89:0.2)
 idea bárbara y errónea (4:5.4) (188:4.1)
 incluía elogios, halagos e incluso entretenimiento (89:4.7)
 vida hecha miserable por ceremonias de (87:5.8)
 reemplazó los ritos de sacrificio de evitación, apaciguamiento y exorcismo (89:0.2) (89:4.4) (90:0.1)
 
-dimensiones | | Ver comparaciones | | 
+dimensiones | | comparaciones | | 
 
 propiedad | | | | 
 El extraordinario sentido de Jesús (100:7.3)
@@ -2479,7 +2473,7 @@ prosélito | | | |
 de la puerta era judío incircunciso y no bautizado (142:4.1)
 Los fariseos abarcan la tierra y el mar para hacer uno (175:1.13)
 
-prostitución | | Ver sexo:urgencia | | 
+prostitución | | sexo:urgencia | | 
 en Séforis (125:1.2)
 en el templo de Jerusalén (125:1.2)
 burdel era un lugar de negocios nefasto (147:5.3) (150:2.2)
@@ -2504,14 +2498,14 @@ hijo pródigo despilfarró sustancia con rameras (169:1.12)
 los esclavos sexuales son una desgracia (69:5.10)
 el cuerpo de mujeres predicaba en casas de (150:2.2)
 
-Proterozoico; era proterozoica; Proterozoica | | Ver edades geológicas | | 
+Proterozoico; era proterozoica; Proterozoica | | edades geológicas | | 
 Era de los albores de la vida, hace 550 a 400 millones de años (58:7.1) (59:0.3)
 
 reforma Protestante | | | | 
 interrumpió la unidad del cristianismo (92:5.15)
 La inelasticidad de la iglesia hizo que el crecimiento adicional fuera incompatible con la unidad (92:5.15).
 
-protón | (42:3.5) | Ver átomo; materia | | 
+protón | (42:3.5) | átomo; materia | | 
 emitido por un átomo de carbono en una reacción solar (41:8.1)
 mantenido en el núcleo por mesotrón recíproco (42:8.3-4)
 más de 100 electrones en un átomo interrumpen instantáneamente el protón central (42:7.7)
@@ -2526,7 +2520,7 @@ protozoos; protozoario; protozoarios | (58:7.2) (65:2.4) | | |
 Proverbios (libro) | | | | 
 filosofía de Amenemope (95:4.3-5)
 
-providencia | (76:6.4) (118:10) | Ver accidentes; circunstancias; destino; libre albedrío; influencias espirituales | | 
+providencia | (76:6.4) (118:10) | accidentes; circunstancias; destino; libre albedrío; influencias espirituales | | 
 todas las cosas funcionan juntas para bien (4:1.4,11) (10:7.5-6) ​​(48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
 dominio del Espíritu Infinito y el Ser Supremo (4:1.10) (9:1.3)
 Dios muchas veces mete la mano de un Padre en los asuntos humanos (97:8.5) (118:10.6)
@@ -2619,7 +2613,7 @@ no antepasados ​​de aves (60:2.12)
 Tolemaida | (128:3.2) (149:0.1) (152:7.3) (156:6.1) | | PLACE | 
 Jesús pasó por aquí
 
-Ptolomeos | | Ver Egipto | | 
+Ptolomeos | | Egipto | | 
 
 Ptolomeo | | | PERSON | 
 Rey griego de Egipto; tradujo las escrituras hebreas al griego (74:8.12)
@@ -2637,7 +2631,7 @@ Jesús se negó a entrar (132:4.5) (133:3.6)
 constructores de edificios públicos | | | | 
 Constructores Divinos, Artesanos Celestiales (44:3.8-9)
 
-opinión pública | | Ver población | | 
+opinión pública | | población | | 
 educación de la opinión pública es la única forma segura de acelerar la civilización (71:2.7)
 exaltación de las ideas colectivas del hombre común (88:3.4)
 inconstancia de la aclamación popular (152:6.2) (174:0.2) (177:5.2)
@@ -2645,7 +2639,7 @@ siempre ha retrasado a la sociedad; debe ser no violento (71:2.7-8)
 Jesús fue indiferente a la opinión pública (141:7.12) (161:2.8)
 la ley está codificada la opinión pública (70:11.6) (70:12.3)
 
-mujeres públicas | | Ver prostitución | | 
+mujeres públicas | | prostitución | | 
 
 trabajo público | | | | 
 los apóstoles comienzan (141)
@@ -2662,7 +2656,7 @@ Los fariseos se referían a los empresarios y recaudadores de impuestos como (13
 
 Puget Sound | (61:5.8) | | PLACE | 
 
-poderosa energía | | Ver energía; ultimata | | 
+poderosa energía | | energía; ultimata | | 
 Los Organizadores Maestros Asociados de la Fuerza y ​​los Directores de Poder Universo transmutan poderosa energía a la etapa de energía de gravedad, ultimatones (29:5.5) (42:6.3)
 energía que se transmuta del dominio exclusivo del Absoluto Incalificado al dominio gravitacional del Paraíso (29:5.5)
 primera fase de transmutación del segregado en poder universal (42:2.10-11)
@@ -2671,7 +2665,7 @@ gravedad; forma de ultimata (42:2.11,13)
 puesto en marcha por los Organizadores de la Fuerza Maestros Primarios (42:2.11)
 Los ultimatones no pueden desindividualizar de forma independiente y volver a poderosa energía (42:4.8) (42:6.3)
 
-castigo | | Ver disciplina | | 
+castigo | | disciplina | | 
 El padre cariñoso nunca se precipita en la visita (54:5.4)
 afecto correctivo (142:2.4)
 el castigo divino es en realidad una consecuencia inevitable (2:3.2)
@@ -2682,11 +2676,11 @@ la justicia debe estar alojada en el grupo social (10:6.2) (70:10.13) (104:2.5) 
 no hay dos personas que estén de acuerdo (133:1.2)
 la severidad es menos disuasoria que la certeza y la rapidez (70:10.15)
 
-Punjab | | Ver India | PLACE | 
+Punjab | | India | PLACE | 
 Infiltración andita en (79:1.1)
 infiltración de arios en (79:4.3)
 
-energía pura | | Ver segregata | | 
+energía pura | | segregata | | 
 
 puro de corazón | | | | 
 verá a Dios (140:3.6) (140:5.12)
@@ -2694,11 +2688,11 @@ verá a Dios (140:3.6) (140:5.12)
 purga | | | | 
 tratamiento médico antiguo (90:4.8)
 
-ceremonias de purificación | | Ver ceremonias:ceremonias de purificación | | 
+ceremonias de purificación | | ceremonias:ceremonias de purificación | | 
 
-Purim | | Ver judaísmo:fiestas | | 
+Purim | | judaísmo:fiestas | | 
 
-bolso | | Ver dinero | | 
+bolso | | dinero | | 
 
 pigmeos | | | RACE | 
 miserables restos de antiguos pueblos no sociales (68:1.6)

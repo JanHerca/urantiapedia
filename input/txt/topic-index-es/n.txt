@@ -1,16 +1,12 @@
-##################################################################################
+####################################################################################
 #
 #                     N
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
-##################################################################################
-
-
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
+####################################################################################
 
 Nabal | | | PERSON | 
 rico edomita; El rey David se casó con la viuda de (97:9.10)
@@ -62,7 +58,7 @@ el nombre de los padres se enorgullece del éxito de los niños (84:7.10,15)
 primitivos considerados nombres como entidades separadas; podría ser empeñado (88:5.5)
 a los reveladores les resultó difícil traducir de manera significativa (18:4.3)
 
-Nanek (Gurú) | | Ver Gurú Nanek | PERSON | 
+Nanek (Gurú) | | Gurú Nanek | PERSON | 
 
 Noemí | | | PERSON | 
 novia en las bodas de Caná (137:3.6)
@@ -89,7 +85,7 @@ escasez de vino (137:4.7)
 Natán de Nazaret; Natán | | | PERSON | 
 alfarero (123:5.15) (124:1.3)
 
-Natanael (apóstol) | (139:6) (143:3.5) (144:1.7) (151:2.3) (164:0.1) (192:4.7) | Ver apóstoles de Jesús | PERSON | 
+Natanael (apóstol) | (139:6) (143:3.5) (144:1.7) (151:2.3) (164:0.1) (192:4.7) | apóstoles de Jesús | PERSON | 
 filósofo apostólico, soñador (139:6.4) (147:4.10) (191:0.7)
 en las apariciones de Jesús (191:5.2) (192:1-4) (193:0.3,5)
 asistió a la sesión del sanedrín (164:5.3)
@@ -129,7 +125,7 @@ invitó a Jesús a desayunar (166:1)
 Consejo de la Defensa Nacional | | | | 
 en la nación continental (72:7.7,14) (72:11.1)
 
-nacionalismo | | Ver naciones; patriotismo | | 
+nacionalismo | | naciones; patriotismo | | 
 La era del Príncipe Planetario culmina en una intensa (52:2.5)
 El engaño de la soberanía nacional es la principal barrera para la paz mundial (134:5.10) (134:6.6-7) (195:8.10)
 ha sido esencial para la supervivencia social (71:3.2)
@@ -140,12 +136,12 @@ Roma venció el nacionalismo por el universalismo imperial (195:3.2)
 disminuye con la mezcla de razas (52:3.10)
 guerra fomentada y solidificada (70:2.3-9)
 
-naciones | | Ver gobierno; nacionalismo | | 
+naciones | | gobierno; nacionalismo | | 
 no puede codearse sin conflicto (134:5.7)
 el hecho de no aumentar la población impide la plena realización (81:6.11)
 El Espíritu de la Verdad disminuye la autoafirmación (194:3.18)
 
-eventos naturales | | Ver circunstancias | | 
+eventos naturales | | circunstancias | | 
 
 la Ley natural | | | | 
 Jesús podría acelerar, pero no violaría (136:6.2) (136:7) (136:9.9)
@@ -162,16 +158,16 @@ mantenido como confianza social en la nación continental (72:6.7) (72:7.13)
 determinan en gran medida el alcance de la civilización material (78:2.4) (81:6.3)
 compartir descubrimientos con el mayor número de becarios (132:5.16)
 
-derechos naturales | | Ver derechos humanos | | 
+derechos naturales | | derechos humanos | | 
 
-selección natural | | Ver genética | | 
+selección natural | | genética | | 
 variedad indispensable para (64:6.31)
 
 naturalismo | | | | 
 la filosofía se inclina fuertemente hacia el mundo de la materia (103:6.14)
 
 naturaleza | (4:2 seg.) (38:2 seg.) | | | 
-accidentes de | Ver accidentes | (166:4.7)
+accidentes de | accidentes | (166:4.7)
 no confiere derechos al hombre (70:9.1) (70:10.1)
 definido como
 	trasfondo de leyes inmutables modificadas por condiciones locales (4:2.2-4) (12:7.2)
@@ -243,16 +239,16 @@ trabajo muy mejorado en pedernal (64:4.3)
 de Asia oriental contaminada con cepas animales degradadas (79:5.2)
 retrocedido no tenía religión, solo superstición (64:4.11-13)
 
-Nebadon | (33) (41) | Ver universos locales; Salvington | PLACE | 
+Nebadon | (33) (41) | universos locales; Salvington | PLACE | 
 administración (33)
 siendo forjado entre el yunque de la justicia y el martillo del sufrimiento (9:1.8)
 personalidades celestiales en Nebadon
 	1 inspector asociado (37:8.5)
-	1 Radiante Estrella Matutina | Ver Gabriel
-	1 Hijo Creador | Ver Miguel de Nebadon
-	1 criatura de control direccional | Ver criaturas del control direccional
-	1 Padre Melquisedek | Ver Padre Melquisedek
-	1 Espíritu Materno del universo local | Ver universos locales; Espíritu Materno del universo local de Nebadon
+	1 Radiante Estrella Matutina | Gabriel
+	1 Hijo Creador | Miguel de Nebadon
+	1 criatura de control direccional | criaturas del control direccional
+	1 Padre Melquisedek | Padre Melquisedek
+	1 Espíritu Materno del universo local | universos locales; Espíritu Materno del universo local de Nebadon
 	1 supervisor del circuito del universo, terciario (24:1.11) (37:8.3)
 	3 millones de Supervisores Celestiales (37:6.1)
 	70 mil millones de Compañeros Morontiales (37:8.9)
@@ -316,7 +312,7 @@ aspectos físicos (41)
 	ensamblado físicamente a partir de Andronover y otras nebulosas (41:0.3) (57:1.1) (57:3.8-9)
 	Salvington está en el centro de masa de energía de (32:2.4)
 	las esferas comparten el mínimo común de movimiento espacial (41:0.3)
-	hora | Ver tiempo:días y años
+	hora | tiempo:días y años
 	trabajo comenzado en Nebadon 400 mil millones de años (57:3.8-9)
 Salvington es la capital de (15:7.7)
 algunos Mensajeros Poderosos y Aquellos Elevados en Autoridad recientemente de (22:2.4) (22:3.2)
@@ -324,13 +320,13 @@ la identidad del alma de Jesús puede ser liberada para el liderazgo de los fina
 sufrió 3 rebeliones por parte de los Soberanos de los Sistemas
 	1o por Lutentia (119:2.1-2)
 	segundo en el sistema 87 de la constelación 61 (119:3.1,3)
-	tercera | Ver rebelión de Lucifer
+	tercera | rebelión de Lucifer
 	perdió más Lanonandek por la rebelión que cualquier universo local en Orvonton, excepto Henselon (35:9.8)
 consejo supremo de Salvington (188:3.12)
 Soberanos de los Sistemas a quienes se les confían prerrogativas personales inusuales (45:2.1)
 lo que está impregnado de nuestro Espíritu Materno es Nebadon (41:0.1) (45:1.8) (116:5.13)
 
-Cuerpo de la Finalización de Nebadon | | Ver Cuerpo de la Perfección de Nebadon | ORDER | 
+Cuerpo de la Finalización de Nebadon | | Cuerpo de la Perfección de Nebadon | ORDER | 
 
 Cuerpo de la Perfección de Nebadon | | | ORDER | 
 alcanzado por los ascendentes fusionados con el Espíritu (37:5.4)
@@ -339,7 +335,7 @@ los miembros adquieren sabiduría autorizada sobre Nebadon (40:10.6)
 Cuerpo de la Finalidad de Nebadon | | | ORDER | 
 la identidad del alma de Jesús puede ser liberada para el liderazgo de (188:3.8)
 
-Centros de energía de Nebadon | | Ver Centros de los universos locales | ORDER | 
+Centros de energía de Nebadon | | Centros de los universos locales | ORDER | 
 
 Cuerpo Revelador de Nebadon | | | ORDER | 
 creación dirigida de la Parte II de los documentos de Urantia (56:10.22-23)
@@ -367,9 +363,9 @@ Nekó | | | PERSON |
 Egipcio que acabó con el rey Josías (97:9.24)
 derrocado por Nabucodonosor (97:9.25)
 
-collares | | Ver ornamentación | | 
+collares | | ornamentación | | 
 
-nigromancia | | Ver magia | | 
+nigromancia | | magia | | 
 practicantes del arte negro llamados nigromantes (90:2.2)
 
 aguja | | | | 
@@ -383,14 +379,14 @@ negativismo | | | |
 error mayor de las religiones modernas (140:4.7)
 a menudo entrenado en niños (103:2.5-6)
 
-negroides | | Ver razas | RACE | 
+negroides | | razas | RACE | 
 raza mixta de naranja, verde e índigo (81:4.13)
 
 prójimo | | | | 
 amor como yo (131:2.11,13) (159:5.4,9) (170:3.6) (180:1.1)
 quien es mi prójimo (103:5.2) (140:8.11) (164:1.2)
 
-planeta vecino | (72) | Ver nación continental | PLACE | 
+planeta vecino | (72) | nación continental | PLACE | 
 nación continental (72:1-11)
 ninguna misión de los Hijos Paraíso hasta ahora (72:12.4)
 no muy lejos de Urantia (72:0.1)
@@ -419,18 +415,18 @@ erupción andita final de la región del Caspio (78:8.11)
 red arrojada al mar | | | | 
 parábola de (151:4.6)
 
-el bajo Paraíso | | Ver Paraíso | | 
+el bajo Paraíso | | Paraíso | | 
 
-neutrón | | Ver átomo; materia | | 
+neutrón | | átomo; materia | | 
 la estabilidad atómica depende del número de neutrones en el núcleo (42:7.6)
 unidos por mesotrón recíproco (42:8.3)
 
-mandamiento nuevo | | Ver mandamientos | | 
+mandamiento nuevo | | mandamientos | | 
 
 Nueva Guinea | | | PLACE | 
 el grupo se cree descendiente del loro (74:8.5)
 
-Nueva Jerusalén | | Ver Mesías | | 
+Nueva Jerusalén | | Mesías | | 
 creencia que el Mesías parecería establecer (176:1.6)
 en visión de Juan el Revelador (52:7.11)
 
@@ -439,7 +435,7 @@ nueva arenisca roja | (60:1.4) | | |
 Neolítico | | | | 
 3.000 a.C. en Europa (80:9.13-14)
 
-Nuevo Testamento | (180:1) | Ver libros sagrados | | 
+Nuevo Testamento | (180:1) | libros sagrados | | 
 Abner no mencionado (166:5.3)
 autores
 	creía que Jesús regresaría pronto (170:2.10) (196:2.5)
@@ -447,16 +443,16 @@ autores
 	sostenía ideas estrictas sobre el divorcio (140:8.14)
 cambió la historia durante 2000 años (121:8.11)
 evangelios, libros y epístolas nombrados
-	Libro de los Hechos de los Apóstoles | Ver Hechos de los Apóstoles
-	Libro del Apocalipsis | Ver Apocalipsis
-	Epístola de Santiago | Ver Santiago (hermano de Jesús):Epístola de
-	Epístola a los Hebreos | Ver Libro de los Hebreos
-	Primera epístola de Juan | Ver Juan Zebedeo:Primera Epístola
-	Primera Epístola de Pedro | Ver Simón Pedro:Primera Epístola
-	Evangelio de Juan | Ver Juan Zebedeo:Evangelio de Juan
-	Evangelio de Lucas | Ver Lucas:Evangelio de Lucas
-	Evangelio de Marcos | Ver Juan Marcos:Evangelio de Marcos
-	Evangelio de Mateo | Ver Mateo Leví:Evangelio de Mateo
+	Libro de los Hechos de los Apóstoles | Hechos de los Apóstoles
+	Libro del Apocalipsis | Apocalipsis
+	Epístola de Santiago | Santiago (hermano de Jesús):Epístola de
+	Epístola a los Hebreos | Libro de los Hebreos
+	Primera epístola de Juan | Juan Zebedeo:Primera Epístola
+	Primera Epístola de Pedro | Simón Pedro:Primera Epístola
+	Evangelio de Juan | Juan Zebedeo:Evangelio de Juan
+	Evangelio de Lucas | Lucas:Evangelio de Lucas
+	Evangelio de Marcos | Juan Marcos:Evangelio de Marcos
+	Evangelio de Mateo | Mateo Leví:Evangelio de Mateo
 evangelios afectados por la teología de Pablo (121:8.11)
 El hecho de que Jesús evitara los registros escritos retrasó la escritura (121:0.1)
 mayoritariamente dedicado a las convicciones religiosas de Pablo; solo escasamente
@@ -507,7 +503,7 @@ dios del Nilo | | | |
 El culto a Isis y Osiris se basa en la leyenda de (98:4.8)
 imagen en Luxor (111:0.5)
 
-Nilo (valle) | | Ver Egipto | PLACE | 
+Nilo (valle) | | Egipto | PLACE | 
 Abraham y Lot viajaron a (93:5.7)
 Adamitas y anditas viajaron a (78:3.2) (78:5.5) (78:6.8) (79:1.3)
 Los anditas disfrutaron de una posición protegida de (80:6)
@@ -521,7 +517,7 @@ extremo occidental de la cuna de la civilización (81:1.1)
 Nínive | | | PLACE | 
 amor de Dios por (159:4.4)
 
-Nirvana | | Ver budismo | | 
+Nirvana | | budismo | | 
 La enseñanza del Buda Amida de la existencia última (94:12.3)
 la religión no es una técnica para lograr una paz mental estática y dichosa (100:3.1)
 iluminación y dicha, liberación del mundo material (94:8.16)
@@ -542,12 +538,12 @@ Caín partió hacia Nod; al este del segundo Edén (76:2.9)
 Caín encontró esposa en (74:8.8) (148:4.7)
 Asentamiento elamita nodita (67:4.2) (77:4.5)
 
-Nod (estado mayor del Príncipe) | | Ver cien de Caligastia | PERSON | 
+Nod (estado mayor del Príncipe) | | cien de Caligastia | PERSON | 
 y todo el concilio perdido en rebelión (67:4.1)
 presidente del consejo de industria y comercio (66:5.11) (73:1.3)
 líder de los rebeldes del personal del Príncipe (67:4.2)
 
-noditas | (77:2) | Ver razas | RACE | 
+noditas | (77:2) | razas | RACE | 
 octava raza en aparecer (73:1.3) (77:2.8)
 60 miembros rebeldes del personal del Príncipe y 44 homólogos andónicos constituían 104 antepasados ​​de (77:2.4,8)
 Adán impregnó 1.682 noditas en el segundo jardín para fundar la raza andita (76:4.8)
@@ -562,7 +558,7 @@ muy superior a los andonitas y sangiks (77:2.4)
 Los habitantes del jardín destruyeron el asentamiento cercano de los noditas al enterarse del incumplimiento de Eve; los noditas tomaron represalias; guerra amarga (75:5.3,9)
 brindó una valiosa cooperación a los edenitas (75:2.5) (75:3.5) (77:4.1)
 en Mesopotamia (78:1.4)
-individuos nombrados | Ver Annán; Bon; Cano; Dan (personal del Príncipe); Laotta; Lut; Nod (estado mayor del Príncipe); Ratta; Serapatatia; Tut
+individuos nombrados | Annán; Bon; Cano; Dan (personal del Príncipe); Laotta; Lut; Nod (estado mayor del Príncipe); Ratta; Serapatatia; Tut
 más tarde algunos se unieron a Van (73:1.6)
 de cabeza larga (81:4.2-3)
 Jardín del Edén ocupado después del incumplimiento (73:7.1)
@@ -590,16 +586,16 @@ fantasmas supuestamente asustados por (87:6.11)
 nomadismo | | | | 
 disminución progresiva de (68:5.12)
 
-no respiradores | | Ver mortales:tipos planetarios | | 
+no respiradores | | mortales:tipos planetarios | | 
 
 inconformistas | | | | 
 la civilización impone fuertes sanciones a los disidentes y (81:5.3)
 
-no existencia | | Ver no supervivientes | | 
+no existencia | | no supervivientes | | 
 
-no religiosos | | Ver incrédulos | | 
+no religiosos | | incrédulos | | 
 
-no resistencia | | Ver lucha; autodefensa | | 
+no resistencia | | lucha; autodefensa | | 
 acusación de que los especímenes debilitados perecerían pronto (143:1.2)
 Jesús
 	uso aprobado de la fuerza para proteger a la mayoría (173:1.11)
@@ -618,7 +614,7 @@ de reacción egoísta al universo (180:5.9)
 no resistir el daño a los sentimientos de dignidad personal (141:3.8)
 La raza violeta retuvo las tradiciones edénicas de paz durante muchos milenios (78:3.1) (78:4.5)
 
-no supervivientes | | Ver muerte:muerte espiritual; extinción; juicio; resurrección; llamamiento:de justicia; salvación; supervivencia (de la muerte mortal) | | 
+no supervivientes | | muerte:muerte espiritual; extinción; juicio; resurrección; llamamiento:de justicia; salvación; supervivencia (de la muerte mortal) | | 
 Los Ajustadores conservan las realidades nacidas del amor y el servicio (16:9.3) (47:3.4) (196:3.35)
 se mueven en contra de la corriente de eventos del universo (117:4.11)
 se vuelven como si nunca hubieran sido (47:2.7)
@@ -632,7 +628,7 @@ La posibilidad de autodestrucción cósmica es inevitable si la personalidad ha 
 La identificación incondicional con el mal es inexistencia (54:3.2)
 alejándose de Dios, el hombre se acerca a la no realidad:cese de la existencia (117:4.14)
 
-no violencia | | Ver no resistencia | | 
+no violencia | | no resistencia | | 
 
 Norana | | | PERSON | 
 Mujer siria con hija afligida (156:1)
@@ -640,9 +636,9 @@ Mujer siria con hija afligida (156:1)
 Nordán el Kenita | | | PERSON | 
 El brillante discípulo de Melquisedek (93:3.4)
 
-Raza nórdica | | Ver raza blanca:divisiones | RACE | 
+Raza nórdica | | raza blanca:divisiones | RACE | 
 
-Norlatiadek | (43) | Ver constelaciones; Edentia; Altísimos de Norlatiadek | PLACE | 
+Norlatiadek | (43) | constelaciones; Edentia; Altísimos de Norlatiadek | PLACE | 
 10 centros de constelación estacionados en (41:1.4)
 administrado por 12 Hijos Vorondadek (35:6.5)
 ser limpiado de pecado y rebeldes (43:4.9)
@@ -658,7 +654,7 @@ Satania elige 10 a Norlatiadek legislatura (45:3.22) (45:7.4)
 norte | | | | 
 dirección absoluta establecida por el eje del Paraíso (11:2.3)
 
-Norteamérica | | Ver Canadá; Méjico; Estados Unidos de Norteamérica | PLACE | 
+Norteamérica | | Canadá; Méjico; Estados Unidos de Norteamérica | PLACE | 
 24 grandes inundaciones (60:4.1)
 descubierto por razas blancas hacia el 1000 d.C. (79:5.7)
 extensa zona de caza abierta y fértil (81:6.4)
@@ -682,16 +678,16 @@ aguas una vez calientes (63:5.2)
 auroras boreales | | | | 
 Cinturones de aire superiores de Urantia relacionados con (46:1.6)
 
-Noruega; fiordos noruegos | (61:5.8) | Ver escandinavos | PLACE | 
+Noruega; fiordos noruegos | (61:5.8) | escandinavos | PLACE | 
 
 nostalgia | | | | 
 los mortales experimentan nostalgia en Salvington (39:1.10)
 
-números | | Ver 3; 7; 10; 12 | | 
+números | | 3; 7; 10; 12 | | 
 13 mal; 3, 4 y 7 afortunados (88:1.6)
 
 numerología | | | | 
 fundó la ciencia de las matemáticas (88:6.5)
 pura superstición infundada (150:3.8)
 
-nutrición | | Ver comida | | 
+nutrición | | comida | | 

@@ -1,16 +1,12 @@
 ####################################################################################
 #
 #                     D
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
 
 Dabaritta | (149:0.1) | | PLACE | 
 Second Galilee tour
@@ -21,7 +17,7 @@ Philistine god (97:6.2)
 Dakota Black Hills | | | PLACE | 
 Pacific extended to (60:2.4)
 
-Dalamatia | | See also Caligastia; Caligastia one hundred | PLACE | 
+Dalamatia | | Caligastia; Caligastia one hundred | PLACE | 
 40 foot wall surrounded (66:3.3) (66:4.10)
 attacked by hordes of semisavages after rebellion (67:5.2)
 buildings neat and simple; built of brick (66:3.5-6) (66:7.1-3)
@@ -44,7 +40,7 @@ teachings
 tidal wave swept over 200,000 years ago; vestiges exist under Persian Gulf (67:5.2,4) (77:4.7) (78:7.7)
 warring races lived together in harmony near (64:6.28)
 
-Daligastia | | See also Caligastia; Lanonandek Sons | PERSON | OK
+Daligastia | | Caligastia; Lanonandek Sons | PERSON | OK
 secondary Lanonandek #319,407 (66:2.2)
 Dalamatia named in honor of (66:3.3)
 presided over 10 councils of Caligastia 100 (66:5.1)
@@ -59,7 +55,7 @@ never able to oppress or coerce normal individuals against their wills (66:8.6) 
 since Pentecost, servile before Adjusters, Spirit of Truth (53:8.7)
 still free on Urantia (53:8.6-7)
 
-Damascus | (130:0.3) (133:8.4) (134:1.1) (134:2.5) (140:7.2) (186:3.2-3) (190:1.8) | See also Syria | PLACE | 
+Damascus | (130:0.3) (133:8.4) (134:1.1) (134:2.5) (140:7.2) (186:3.2-3) (190:1.8) | Syria | PLACE | 
 Jesus met teacher of mathematics from (123:6.3)
 merchant of Damascus q.v.
 Paul’s experience with Jesus on road to (100:5.3) (196:2.1)
@@ -71,7 +67,7 @@ panic-stricken soldiers fled through (189:4.5,7)
 Dan (city) | | | PLACE | 
 also known as Caesarea Philippi (134:7.5)
 
-Dan (Prince’s staff) | | See also Caligastia one hundred | PERSON | OK
+Dan (Prince’s staff) | | Caligastia one hundred | PERSON | OK
 led advisers regarding conquest of predatory animals (66:5.7)
 and entire council lost in rebellion (67:4.1)
 
@@ -85,7 +81,7 @@ among primitives
 crude and grotesque attempt to approach celestial harmony of being placement (44:1.10)
 wild dance can induce mystic state (100:5.10)
 
-danger | | See also self-defense | | 
+danger | | self-defense | | 
 Jesus exercised normal watchcare when confronted by (136:7.1)
 not needlessly exposing oneself to (178:3.3)
 remain unmoved in face of (194:3.12)
@@ -110,7 +106,7 @@ Greeks imported Danubians as slaves (80:7.6)
 most northerly settlement at Liege, Belgium (80:8.4)
 mother worshippers (80:8.5)
 
-Daphne | (133:8.1) | See Daphne, grove of | PERSON | OK
+Daphne | (133:8.1) | Daphne, grove of | PERSON | OK
 Naiad, daughter of river god Ladon
 
 Daphne, grove of | | | PLACE | 
@@ -125,7 +121,7 @@ European dark ages
 	slavery virtually disappeared during (69:8.7)
 inexorable restoration of imbalance between self-liberty and self-control (118:8.6)
 
-dark giants of space | | See dark islands of space | | 
+dark giants of space | | dark islands of space | | 
 
 dark gravity bodies | | | PLACE | 
 complement Paradise gravity (11:8.2)
@@ -183,7 +179,7 @@ stories regarding
 	Messiah not son of David (174:4.6)
 	Messiah would be successor of (135:5.4,7) (136:1.1,6)
 
-David Zebedee | (156:6.3-4) (157:6.1) (158:8.1) (176:2.9) (177:5.1,3) (182:2.5) (187:6.1) (188:3.3) | See also messenger corps (David Zebedee’s) | PERSON | OK
+David Zebedee | (156:6.3-4) (157:6.1) (158:8.1) (176:2.9) (177:5.1,3) (182:2.5) (187:6.1) (188:3.3) | messenger corps (David Zebedee’s) | PERSON | OK
 the dependable David Zebedee (186:3)
 respected Jesus as mechanic, but took little stock in his religious views (129:1.12)
 father Zebedee went to live with (138:5.4)
@@ -223,15 +219,15 @@ shared instincts with primitive man (62:2.3)
 sudden appearance 1 million years ago (61:6.1) (62:2.1)
 tribal spirit; pugnacious when disturbed (62:2.5)
 
-day of atonement | | See Judaism:feasts | | 
+day of atonement | | Judaism:feasts | | 
 
 daydreaming | | | | 
 danger of habitual religious daydreaming (100:5.8)
 
-Daynals, order of | | See Trinity Teacher Sons | ORDER | 
+Daynals, order of | | Trinity Teacher Sons | ORDER | 
 universal educators (20:7.3) (20:8.4) (20:9.4) (20:10.4) (46:5.13)
 
-days | | See time: days and years | | 
+days | | time: days and years | | 
 
 deaconesses | | | | 
 early Christian church women teachers called (150:1.3)
@@ -239,13 +235,13 @@ early Christian church women teachers called (150:1.3)
 Dead, Book of the | | | | 
 assortment of Egyptian magical texts (95:2.5)
 
-dead, the | | See also death | | 
+dead, the | | death | | 
 ancients never spoke names of (87:2.6)
 Jews buried on day of their demise (167:4.3)
 let others bury (163:2.2)
 Nazarite vow forbade contact with (135:2.1)
 
-dead giants of space | | See dark islands of space | | 
+dead giants of space | | dark islands of space | | 
 
 Dead Sea | (124:6.8) (135:1.1) (135:2.3) | | PLACE | 
 Jordan flowed down toward (124:6.5)
@@ -254,7 +250,7 @@ deadland | | | |
 belief ghost desired to proceed undisturbed to (87:2.2)
 home of ghosts (87:1.1) (87:2.4,8) (87:4.2)
 
-death | | See also dead, the; death penalty; eternal life; judgment; murder | | 
+death | | dead, the; death penalty; eternal life; judgment; murder | | 
 among primitives
 	death believed to be penalty of sin (89:2.2)
 	feared d., which liberated another ghost (86:5.2) (87:1.1)
@@ -280,7 +276,7 @@ physical death (49:6) (55:2)
 		part of mortal life (20:6.7) (188:4.2)
 		precipitates events which lead to Jesus (176:4.7)
 		technique of escape from material life (32:5.4) (47:10.7) (49:6)
-spiritual death | See also extinction; nonsurvivors; roll call: of justice
+spiritual death | extinction; nonsurvivors; roll call: of justice
 	Adjuster, seraphim must concur in, Censors verify (112:3.2)
 	Adjuster proceeds to bosom of Father upon (39:2.13)
 	Adjuster released after rejection of survival; seraphim stays (112:3.2) (130:4.8)
@@ -289,7 +285,7 @@ spiritual death | See also extinction; nonsurvivors; roll call: of justice
 	Jesus warned of spiritual doom (153:2.3)
 	not sealed until power lost to choose Father’s will (5:1.11)
 
-death penalty | | See also justice | | 
+death penalty | | justice | | 
 ancients put 10 innocents to death for supposed responsibility for 1 natural death (88:4.7)
 burning at stake under Hammurabi, Moses (70:10.14)
 for stealing cattle, horses (70:10.15)
@@ -314,11 +310,11 @@ parable of shrewd steward (169:2)
 recorded on wax board bond (169:2.4)
 secret societies employed by merchants to collect (70:7.18)
 
-Decapolis | (144) (159) (128:3.2) | See also Scythopolis | PLACE | 
+Decapolis | (144) (159) (128:3.2) | Scythopolis | PLACE | 
 Amos the Kheresa lunatic evangelized in (151:6.8)
 Greco-Roman cities of (123:5.12) (124:3.6-9)
 
-Deccan | | See also India | PLACE | 
+Deccan | | India | PLACE | 
 Andites migrated into (79:2.4-5)
 Aryans left little racial impression in (79:4.3)
 debasing, debilitating cults and creeds from (79:4.7) (94:2.5-6)
@@ -337,7 +333,7 @@ small dark planets suited to life experiments (23:2.20) (49:5.11)
 Tabamantia is inspector for decimal planets in Satania (49:5.12)
 Urantia is 60th decimal planets in Satania; unique features (36:2.15) (49:5.11) (57:8.7-10) (58:0.1) (65:4.7-9)
 
-decisions | | See also consecration of choice; problem solving; spiritual rebirth; will | | 
+decisions | | consecration of choice; problem solving; spiritual rebirth; will | | 
 Adjusters make life difficult to stimulate and multiply (108:5.5)
 consummated in action (101:7.1) (117:5.13)
 essential to acquirement of survival values (50:6.3)
@@ -365,20 +361,20 @@ Supreme Being depends for actuality on mortals’ decisions (112:5.5)
 tarrying in valley of decisions (165:3.8)
 we chart our own course; angels make best possible use of that course (113:5.4)
 
-Declaration of Liberty | | See Lucifer rebellion: Lucifer manifesto | | 
+Declaration of Liberty | | Lucifer rebellion: Lucifer manifesto | | 
 
-dedication, feast of | | See Judaism:feasts | | 
+dedication, feast of | | Judaism:feasts | | 
 
-dedication, spiritual | | See consecration of choice; spiritual rebirth | | 
+dedication, spiritual | | consecration of choice; spiritual rebirth | | 
 
-deduction | | See logic | | 
+deduction | | logic | | 
 
 deer | (61:3.5) (61:5.7) | | | 
 hunted by Neanderthalers (64:4.2)
 
-default | | See betrayal; sin | | 
+default | | betrayal; sin | | 
 
-defeat | | See also depression; disappointment; disaster; fear; sorrow | | 
+defeat | | depression; disappointment; disaster; fear; sorrow | | 
 after failures, will we rise to try anew? (48:6.35)
 blaming others for our own (176:3.9) (193:4.7)
 defeat remands Havona pilgrim to universes with seraphic guardian or Paradise Companion (25:8.9-11) (26:3.9)
@@ -400,9 +396,9 @@ true mirror in which to view one’s real self (156:5.17)
 trust in God’s goodness despite bitter (101:3.6)
 wrest victory from jaws of (127:6.12)
 
-defectives | | See inferiors | | 
+defectives | | inferiors | | 
 
-defilement | | See also ceremonies: purification ceremonies | | 
+defilement | | ceremonies: purification ceremonies | | 
 by contact with the dead (135:1.1) (135:2.1)
 by entering gentile building before Passover (185:0.3-4)
 caused by evil originating within heart (153:3.5)
@@ -412,9 +408,9 @@ purification after childbirth (84:4.6) (122:9.1) (122:10.2)
 degeneracy | | | | 
 great handicap confronting Urantia (55:3.21)
 
-degenerates | | See inferiors | | 
+degenerates | | inferiors | | 
 
-Deity | | See also Eternal Son; God; Infinite Spirit; Universal Father | | 
+Deity | | Eternal Son; God; Infinite Spirit; Universal Father | | 
 7 levels of function (0:1.3-10,14)
 7 Master Spirits portray sevenfold Deity (16:1.1-2)
 and reality (105)
@@ -428,7 +424,7 @@ described
 	source of all that is divine (0:1.15)
 	Supreme is maximum of Deity that creatures can understand (56:6.3) (56:8.1)
 	truth, beauty, and goodness are revelation of (56:10.2,9)
-deities of primitive religions | See gods and goddesses
+deities of primitive religions | gods and goddesses
 existential Deities
 	3 persons of Deity are Universal Father, Eternal Son, and Infinite Spirit (3:6.8) (10:3) (56:5.1) (56:7.3)
 	is unity, totality of function, in Trinity (0:7.1-6) (10:3.7,8,16) (117:3.9)
@@ -450,7 +446,7 @@ fragmented Deity entities in Paradise classification (30:1.100-102)
 God as Father takes precedence over all phases of Deity (54:6.2)
 infinite goal of eternal attainment (56:10.16)
 mind is indigenous to (6:6.2)
-nature | See beauty; goodness; justice: divine justice; love: divine love; mercy; omnipotence; omniscience; truth
+nature | beauty; goodness; justice: divine justice; love: divine love; mercy; omnipotence; omniscience; truth
 Paradise is not Deity (11:9.4)
 personalization of (10:2-4)
 realities of Deity seek realization in personalization (0:12.4)
@@ -459,7 +455,7 @@ threefold personalization was absolute inevitability (16:1.1)
 Trinity functions as total Deity (10:8.3-4)
 unrevealed beings in Paradise classification (30:1.23,24,63)
 
-Deity Absolute | (0:4.5) (56:9.7) | See also Absolutes: the three; God the Absolute | | 
+Deity Absolute | (0:4.5) (56:9.7) | Absolutes: the three; God the Absolute | | 
 defined as
 	Absolute of potentiality; activator of static potentials (115:3.8,10) (118:4.3-5)
 	destiny inceptor; 1 of 7 Absolutes of Infinity (105:3.6)
@@ -485,18 +481,18 @@ spirit emerges from potentials of (6:5.2) (7:1.10-11) (7:2.1)
 triunity membership (104:4.16,34)
 unification of Trinity Absolute experientializes (0:12.7) (106:5.1)
 
-Deity-trinitized Sons | | See also Trinitized Sons of God | ORDER | 
+Deity-trinitized Sons | | Trinitized Sons of God | ORDER | 
 unrevealed (22:0.5)
 
-Deity Ultimate | | See God the Ultimate | PERSON | OK
+Deity Ultimate | | God the Ultimate | PERSON | OK
 
-delay | | See also patience | | 
+delay | | patience | | 
 mortals should be slow to criticize universe delays (54:6.8)
 never looked on as defeat on Paradise (26:8.3-4)
 postponement is not avoidance (48:5.8)
 wisdom of (54:4-5)
 
-delegation | | See also sharing | | 
+delegation | | sharing | | 
 Father
 	freely distributes himself; is not self-centered (2:2.5) (7:0.2)
 	reserves only powers impossible to delegate (5:0.2) (8:3.2) (10:1) (10:3.6) (32:4.1-2,10-12)
@@ -504,17 +500,17 @@ Father
 Jesus did not do what others could acceptably perform (141:1.3) (148:0.3) (149:0.2)
 Jesus installed brothers as heads of Joseph’s house (128:2.4)
 
-delinquency | | See also child-rearing; discipline | | 
+delinquency | | child-rearing; discipline | | 
 overindulgent parents encompass moral undoing of their thoughtless children (147:5.9) (177:2.2)
 
-Deliverer | | See also Messiah | | 
+Deliverer | | Messiah | | 
 after baptism, John knew Jesus was the Deliverer (135:8.7)
 bestowal Paradise Sons accredited as Deliverers (27:0.2)
 Jesus acknowledged to Nalda that he was the Deliverer (143:5.7-8)
 many false deliverers will come and lead astray (176:1.1)
 Peter acknowledged Jesus to be the Deliverer (157:3.5)
 
-dematerialization | | See also seraphic, secoraphic, and superaphic transport | | 
+dematerialization | | seraphic, secoraphic, and superaphic transport | | 
 by transport seraphim on Jerusem (46:5.26)
 if entire planet must be emptied (51:2.3)
 of Adam and Eve (74:0.1) (74:1.5)
@@ -524,9 +520,9 @@ of Melchizedek (93:8.1)
 demigods | | | | 
 entities in Hindu theology (94:4.7)
 
-democracy | | See government: democracy | | 
+democracy | | government: democracy | | 
 
-demon possession | (138:4.3) | See also midwayers | | 
+demon possession | (138:4.3) | midwayers | | 
 Apostle John did not mention (145:2.13)
 casting out demons by evangelists (163:6.2)
 existed after Caligastic rebellion (87:4.7)
@@ -544,10 +540,10 @@ rebel midwayers now interned (51:3.7) (77:7.8)
 spirits supposedly entered swine (151:6.6)
 universal belief sickness caused by (121:7.12) (148:2.3)
 
-demons | | See also demon possession | | 
+demons | | demon possession | | 
 evolving monotheists keep subordinate gods as (96:1.14)
 
-denarii | | See also money | | 
+denarii | | money | | 
 200 denarii would not buy bread for 5000 (152:2.6)
 Caesar’s image on (174:2.2)
 laborers in vineyard each given a denarius (163:3.6)
@@ -559,7 +555,7 @@ arose from the sea (80:2.4)
 military headquarters of northern Andites (80:5.2)
 
 density | | | | 
-of suns | See sun (Urantia’s); suns
+of suns | sun (Urantia’s); suns
 
 denunciations | | | | 
 Jesus denounced scribes, Pharisees, and hypocrites (163:6.5) (166:1.4-5) (175:1) (175:4.2)
@@ -569,22 +565,22 @@ John the Baptist denounced Herod, religious leaders (135:10.2)
 depositions | | | | 
 Melchizedeks travel to take (35:2.4)
 
-depravity | | See iniquity; original sin doctrine | | 
+depravity | | iniquity; original sin doctrine | | 
 
-depression | | See also defeat; disappointment; sorrow | | 
+depression | | defeat; disappointment; sorrow | | 
 faith sons immune to (156:5.13)
 shake off (181:2.11)
 story of Fortune (130:6)
 Thomas afflicted by d.; unwisely avoided Jesus when depressed (139:8.10-11)
 
-descending Sons of God | | See Sons of God: orders | ORDER | 
+descending Sons of God | | Sons of God: orders | ORDER | 
 
-desertion | | See also betrayal | | 
+desertion | | betrayal | | 
 of Garden workers (73:4.5)
 of Jesus’ followers after King-making episode (152:3)
 possibility of desertion provides opportunity for loyalty (3:5.12)
 
-designers and embellishers | | See also celestial artisans celestial artisans, types | ORDER | 
+designers and embellishers | | celestial artisans celestial artisans, types | ORDER | 
 1. craftworkers of color (44:6.3)
 2. sound designers (44:6.4)
 3. emotion designers (44:6.5)
@@ -596,13 +592,13 @@ designers and embellishers | | See also celestial artisans celestial artisans, t
 desire of all ages | | | | 
 Jesus is (182:1.13)
 
-desires | | See goals | | 
+desires | | goals | | 
 
-despair | | See also anxiety; defeat; depression; fear; sorrow | | 
+despair | | anxiety; defeat; depression; fear; sorrow | | 
 materialists’ only reward for life of toil (102:0.1-2)
 story of Fortune (130:6)
 
-destiny | (40:10) | See also goals; providence | | 
+destiny | (40:10) | goals; providence | | 
 inadequately revealed by history (19:1.11)
 mortal destiny
 	be inspired by Adjuster’s picturizations of (110:6.5) (111:7.2)
@@ -631,32 +627,32 @@ universe destiny
 	reuniting the 7 absolute phases of Father-I AM (106:7.10)
 	subjugation of energy-matter by mind, co-ordination with spirit, by personality (116:5.15) (116:6.1,4) (117:2.1)
 
-destiny reservists | | See reservists | ORDER | 
+destiny reservists | | reservists | ORDER | 
 
 destruction | | | | 
 way to destruction is broad (166:3.3)
 
-details | | See distractions | | 
+details | | distractions | | 
 
 detention | | | | 
 preventive detention in continental nation (72:10.2)
 
-detention planets | | See mansion worlds | | 
+detention planets | | mansion worlds | | 
 
-detention spheres | | See prison worlds | | 
+detention spheres | | prison worlds | | 
 
 deterioration | | | | 
 having put one’s hand to plough, cannot turn back (163:2.3)
 repugnant to divine nature to suffer deterioration (12:7.3)
 
-determinism | | See also free will; materialism; mechanism (theory) | | 
+determinism | | free will; materialism; mechanism (theory) | | 
 there, but not alone (195:6.14-15)
 
 Deuteronomy, Book of | | | | 
 Jesus read from (150:8.8) (153:2.1)
 portrayed Great Choice between good and evil (97:8.3)
 
-devil | | See also Caligastia; demon possession; Lucifer; Satan | | 
+devil | | Caligastia; demon possession; Lucifer; Satan | | 
 atonement doctrine describes man’s ransom from (194:2.8)
 foundation of doctrine in Caligastia (53:1.4) (66:8.6) (179:2.3)
 given credit for evil he has not caused (53:8.9)
@@ -666,33 +662,33 @@ man never property of (145:3.4) (188:4.3) (194:2.1)
 Sanhedrin attributed Jesus’ works to power of (162:7.4-5) (164:4.11) (168:3.4) (169:0.7) (173:2.4)
 superstition that God afflicts man at behest of (148:6.11)
 
-Devonian | | See also geologic ages | | 
+Devonian | | geologic ages | | 
 age of fishes 270-220 million years ago (59:4)
 
-devotion | | See loyalty | | 
+devotion | | loyalty | | 
 
 Devouress | | | PERSON | OK
 Egyptian religion consigned deficient souls to (95:2.9)
 
 dew point | (46:2.2) | | | 
 
-dialects | | See also language | | 
+dialects | | language | | 
 different dialects spoken every 40 miles among primitives (68:1.6)
 origin illustrated by baby talk in family (81:6.17-18)
 
 diamonds | (63:5.6) | | | 
 
-dictation | | See records | | 
+dictation | | records | | 
 
-dictators | | See also government: believers’ relation to | | 
+dictators | | government: believers’ relation to | | 
 avoid control by ambitious and clever would-be dictators (70:12.12)
 when governments act as dictators over religions (178:1.9)
 won in struggle between division of authority and unity of command (70:12.2)
 
-diet | | See also food | | 
+diet | | food | | 
 ancients treated disease with (90:4.8)
 
-difficulties | (4:1.7-9) | See also challenges; compensations; conflict; confusion; misadaptation; opportunities; perspective; problem solving; suffering | | 
+difficulties | (4:1.7-9) | challenges; compensations; conflict; confusion; misadaptation; opportunities; perspective; problem solving; suffering | | 
 arising out of relationships require wisdom (28:5.13)
 believers
 	allow Adjusters to strengthen while wrestling with (111:7.3)
@@ -745,9 +741,9 @@ testing reveals man’s soul (165:6.2)
 digestion | | | | 
 cooking reduced energy necessary for (69:6.7)
 
-dignity | | See self-respect | | 
+dignity | | self-respect | | 
 
-diligence | | See action | | 
+diligence | | action | | 
 
 Dilmat | | | PLACE | 
 Sumerian city referred to by Egyptians (77:4.8)
@@ -776,10 +772,10 @@ Perea mission
 Dionysus | | | PERSON | OK
 nature worship of Dionysus flourished in Greece (98:2.10)
 
-diplomacy | | See also tact; tactics | | 
+diplomacy | | tact; tactics | | 
 Jesus would not employ diplomacy to further ministry (136:8.4)
 
-direction | | See also compass | | 
+direction | | compass | | 
 4 points of compass inherent (34:4.13)
 absolute direction established by axis of Paradise (11:2.3)
 positions of superuniverses relative to Paradise (15:4.5)
@@ -787,7 +783,7 @@ positions of superuniverses relative to Paradise (15:4.5)
 directional control creatures | | | | 
 living compasses of universe headquarters (34:4.12-13)
 
-directors of assignment | | See also seraphim | ORDER | 
+directors of assignment | | seraphim | ORDER | 
 supreme seraphim; highest angelic council (39:1.16)
 
 directors of conduct | (27:4) | | ORDER | 
@@ -796,7 +792,7 @@ instruct Paradise arrivals in accepted usages (27:4.1)
 primary supernaphim (27:0.7)
 Satisfactions of Service are reflective of (28:5.17)
 
-disappointment | | See also defeat; depression; discouragement; sorrow | | 
+disappointment | | defeat; depression; discouragement; sorrow | | 
 Adjusters subject to (110:7.10)
 an inevitability; commonplace feature of human existence (3:5.6) (193:4.7)
 attendant upon selfish pursuits (195:9.7)
@@ -820,7 +816,7 @@ worst disappointment sometimes becomes greatest blessing (48:6.36)
 disarmament | | | | 
 does not lead to peace (134:6.6)
 
-disaster | | See also accidents; crisis; defeat | | 
+disaster | | accidents; crisis; defeat | | 
 always works out for welfare and progress (10:7.5-6)
 Caligastia betrayal and Adamic default was (34:7.6)
 collisions revivify burned-out suns (15:5.11)
@@ -836,7 +832,7 @@ reflect knowledge of Mother Spirit (28:5.22)
 reflect presence of Adjusters (28:5.22)
 secondary seconaphim, reflective associates of Universal Censors (28:5.19-22)
 
-disciples | | See also apostleship; faith sons of God | | 
+disciples | | apostleship; faith sons of God | | 
 Jesus requires life of his disciples (191:5.3)
 Jesus subjected disciples to repeated disappointment (153:1.3)
 may return home to minister to loved ones (163:2.2)
@@ -847,7 +843,7 @@ only 3 men refused Jesus’ invitation to become (149:2.12)
 disciples versus apostles (140:6.9-13)
 we are Jesus’ disciples if we do Father’s will, love one another (102:6.7) (162:7.2) (180:1.1) (180:2.1) (191:4.3)
 
-discipline | | See also child-rearing; punishment | | 
+discipline | | child-rearing; punishment | | 
 early war enforced (70:2.4)
 errant Melchizedeks purged with correctional rest (35:2.8)
 family members must sometimes share in (3:2.9)
@@ -871,10 +867,10 @@ tempt not angels to lead you in troublous ways (178:1.10)
 Van’s loyalty resulted from disciplined character (67:3.6)
 whom the Lord loves he corrects (148:5.5)
 
-disclosure | | See also secrecy; censorship | | 
+disclosure | | secrecy; censorship | | 
 work for full and unlimited sin-expression as quickest final cure (54:5.9-12)
 
-discouragement | | See also disappointment | | 
+discouragement | | disappointment | | 
 be not discouraged; evolution still in process (196:3.33)
 be not discouraged by discovery you are human (156:5.8)
 does not necessarily signify resistance to Adjuster (110:3.5)
@@ -886,14 +882,14 @@ discoveries | | | |
 commerce and adventure led to (69:4.8)
 Jesus’ counsel on wealth derived from (132:5.16,20)
 
-discretion | | See also propriety | | 
+discretion | | propriety | | 
 carried too far, leads to cowardice and failure (149:4.4)
 Jesus concealed what made him look different (124:4.1) (126:3.14)
 wisdom embraces discretion as well as sincerity (181:2.15,21,27)
 
-discrimination | | See intolerance | | 
+discrimination | | intolerance | | 
 
-disease | | See also healing; health; injury; medicine; sick, the | | 
+disease | | healing; health; injury; medicine; sick, the | | 
 Adamites far more resistant to (76:4.7)
 always works out for welfare and progress (10:7.5-6)
 biological aspects
@@ -922,29 +918,29 @@ primitives believed disease
 on patient (90:4.4-5)
 results from natural causes (90:3.9)
 sick segregated at Bethsaida hospital (148:0.1)
-types named | See coma; dropsy; epileptics; lepers; malaria
+types named | coma; dropsy; epileptics; lepers; malaria
 woman with spirit of infirmity (167:3.1-2)
 
-disharmony | | See misadaptation | | 
+disharmony | | misadaptation | | 
 
-dishonesty | | See falsehood | | 
+dishonesty | | falsehood | | 
 
-disloyalty | | See also loyalty | | 
+disloyalty | | loyalty | | 
 through indecision, indifference, devotion to godless ideals (89:10.2)
 to confiding friends is most destructive of personality status (67:1.3)
 
-dispensations | | See planetary epochs; revelation: epochal revelation | | 
+dispensations | | planetary epochs; revelation: epochal revelation | | 
 
-disputation | | See arguments; contention | | 
+disputation | | arguments; contention | | 
 
-dissenters | | See nonconformists | | 
+dissenters | | nonconformists | | 
 
 dissociation, psychic | | | | 
 can induce mystic state (100:5.10)
 
-dissolution | | See extinction | | 
+dissolution | | extinction | | 
 
-distances (astronomic) | | See light-years | | 
+distances (astronomic) | | light-years | | 
 
 distractions | | | | 
 avoid loss of time through trivialities (163:4.5)
@@ -955,12 +951,12 @@ Jesus
 	refused to have attention diverted by (140:8.9)
 	wasted little time on trifles (134:9.7)
 
-distress | | See sorrow | | 
+distress | | sorrow | | 
 
 Dium | (159:0.2) | | PLACE | 
 Place visited in Decapolis tour
 
-diversity | | See also spiritual unity; tolerance | | 
+diversity | | spiritual unity; tolerance | | 
 differences between men and women highly beneficial (84:6.5-6)
 from operation of differentials, variables, modifiers, attenuators, qualifiers, and diminishers (104:3.4)
 infinity is diversity without end or limit (115:3.4)
@@ -988,7 +984,7 @@ divining rod is relic of ancient tree cults (85:2.5)
 interpreted spirit messages (87:5.9)
 superstition of ignorant minds (150:3.8)
 
-divine builders | | See also celestial artisans | ORDER | 
+divine builders | | celestial artisans | ORDER | 
 celestial artisans
 types (44:3)
 	# home designers and builders
@@ -1023,7 +1019,7 @@ Trinity-origin beings; are counsel of Deity to superuniverses (15:10.11) (19:3.1
 with associates, are highest source of truth on evolutionary planets (1:7.9) (19:2.6)
 with associates, form highest mobile advisory body (19:2.4) (19:3.4-7)
 
-divine executioners | | See also conciliating commissions; extinction; Universal Conciliators | ORDER | 
+divine executioners | | conciliating commissions; extinction; Universal Conciliators | ORDER | 
 almost visible to mortals (25:2.8)
 assume role of mercy-justice interpreter from minor sectors on; become commissions’ physical voices (25:3.11-13)
 cf: Solitary Messengers may function as divine executioners for high tribunals (23:2.17)
@@ -1034,9 +1030,9 @@ Master Physical Controllers subject to (29:4.15)
 quasi-physical members of conciliating commissions (25:2.8)
 strange doings sometimes difficult to explain (25:3.5)
 
-Divine Ministers | | See local universe Mother Spirits | ORDER | 
+Divine Ministers | | local universe Mother Spirits | ORDER | 
 
-divine plan | (7:4) (32:5) (105:4.9) | See also ascension plan; evolution: theory of evolution; will of God | | 
+divine plan | (7:4) (32:5) (105:4.9) | ascension plan; evolution: theory of evolution; will of God | | 
 6 divine purposes do not pertain to mortal ascent (106:0.14)
 Adjusters bring along ideal life plan (110:2.1)
 almost infinite variety characterizes Creator Sons’ plans for their universes (32:3.3)
@@ -1083,17 +1079,17 @@ that mortals be upstepped by Adamic blood was divine plan (34:7.5)
 that some divine Sons lapsed from integrity does not indicate fault in creatorship (35:9.7–8)
 Those without Name and Number have transcendent concept of (22:4.1)
 
-divine rest | | See rest:divine rest | | 
+divine rest | | rest:divine rest | | 
 
-divine sonship | | See sonship with God | | 
+divine sonship | | sonship with God | | 
 
-divine voice | | See Thought Adjusters | | 
+divine voice | | Thought Adjusters | | 
 
-divine will | | See divine plan; will of God | | 
+divine will | | divine plan; will of God | | 
 
-divining rod | | See divination | | 
+divining rod | | divination | | 
 
-Divinington | (13:1.5-6) ​​(107:3) | See also sacred spheres of Paradise; Thought Adjusters | PLACE | 
+Divinington | (13:1.5-6) ​​(107:3) | sacred spheres of Paradise; Thought Adjusters | PLACE | 
 	administered from Divinington (108:3.7)
 	return to Divinington after death of subject (20:4.3) (40:4.1) (40:9.2)
 	transit time to Urantia from Divinington is 117 hours (108:1.9)
@@ -1102,7 +1098,7 @@ landings on Divinington forbidden (13:1.2) (13:2.7-8) (107:3.1,3-8)
 Paradise rendezvous of Adjusters, Gravity Messengers, and other Father fragments only (13:0.6) (13:1.4-6) (107:3)
 secrets include mission of Adjusters, Father fragments (13:1.5-6)
 
-divinity | | See also spirit | | 
+divinity | | spirit | | 
 attained by conforming to will of Creator (130:4.3)
 cohesive qualities (106:2.4)
 comprehended as truth, beauty, goodness; love, mercy, ministry; justice, power, sovereignty (0:1.17) (44:7.4) (56:10.20)
@@ -1126,7 +1122,7 @@ spirit gravity is qualitative measure of (12:8.5)
 stability always proportional to (12:6.1)
 unifying and co-ordinating quality of Deity (0:1.2,16-18)
 
-divorce | (83:7) | See also marriage | | 
+divorce | (83:7) | marriage | | 
 absence of ideals of national leaders explains (111:4.10)
 divorce is safety valve preventing still worse situations (83:7.8)
 disgraceful laxity of Pharisaic interpretations (167:5.2-4)
@@ -1142,9 +1138,9 @@ premarital education reduces (83:7.7-8)
 property penalty did much to lessen (83:7.3)
 woman’s greater economic liberty contributes to (83:7.7) (83:8.9)
 
-doctors | | See physicians | | 
+doctors | | physicians | | 
 
-doctrines | | See also concepts; ideas; spiritual unity; theories; tolerance | | 
+doctrines | | concepts; ideas; spiritual unity; theories; tolerance | | 
 avoid attitude of finality in (182:1.8)
 believers should reply to dogmatism with more farseeing dogmatism (102:7.7-9)
 cosmic mind response negates a priori assumptions (16:6.4)
@@ -1162,9 +1158,9 @@ religions can agree on values while maintaining belief in conflicting creeds (10
 religious groups should remove all creedal pressure (103:5.12)
 uniformity unattainable in creeds (92:7.4)
 
-dogmatism | | Ver See doctrines | | 
+dogmatism | | doctrines | | 
 
-dogs | | See also foxes; wolves | | 
+dogs | | foxes; wolves | | 
 at first only howled; later barked (69:7.4)
 brought Abel’s flocks home without their master (76:2.7)
 cannot know God (130:2.8)
@@ -1181,7 +1177,7 @@ present not what is holy to (140:3.18)
 sacred animal of Parsees (88:1.4)
 watchdogs made it possible to sleep at night (69:7.4) (84:3.10)
 
-doing versus being | | See being | | 
+doing versus being | | being | | 
 
 Doings of Kings of Israel | | | | 
 accurate record of Hebrew history; destroyed by priests (97:8.1)
@@ -1196,7 +1192,7 @@ dollars (U.S.) | | | |
 Chicago’s sunlight bill would be $100 million/day (58:2.1)
 sunlight would be economical at $1 million/pound (41:5.2)
 
-dolomite limestone | | See limestone | | 
+dolomite limestone | | limestone | | 
 
 dolphins | | | | 
 placental mammal that returned to sea (61:2.11)
@@ -1211,7 +1207,7 @@ Joseph owned (125:3.2)
 kings on mission of peace rode upon (172:5.5,8)
 Mary rode to Bethlehem on (122:7.4,7)
 
-doom | | See death:spiritual death | | 
+doom | | death:spiritual death | | 
 
 door | | | | 
 Jesus stands at door and knocks (1:4.2) (159:3.2) (166:3.7)
@@ -1227,7 +1223,7 @@ Gadiah and Peter argued in home of (130:1.3)
 Dothan | | | PLACE | 
 Joseph’s brethren sold him into Egyptian slavery at (126:1.2)
 
-doubt | | See also anxiety; uncertainty | | 
+doubt | | anxiety; uncertainty | | 
 alone, can never prevent survival (110:3.5)
 believers’ certain reply to (102:6.5) (102:7.6-9)
 believers’ only battle is against (159:3.8) (165:5.5)
@@ -1246,7 +1242,7 @@ spiritual rebirth gives power to overcome all (142:5.3)
 temptation to doubt vanishes on 3rd circuit of Havona (26:9.3)
 Thomas afflicted by (139:8.10) (181:2.26)
 
-doubters | | See unbelievers | | 
+doubters | | unbelievers | | 
 
 doves | | | | 
 be harmless as (140:8.13) (140:9.3) (163:1.3) (178:1.7)
@@ -1283,13 +1279,13 @@ Andite conquerors of India blended with natives (78:5.6)(79:3.1)
 centers in river valleys (79:3.6)
 founded superior civilization 12,000 years ago (79:3.1,8)
 
-drawings | | See images | | 
+drawings | | images | | 
 
 dreamers | | | | 
 men are naturally (99:7.5)
 supinely trusting in a fictitious Providence (178:1.14)
 
-dreams | | See also sleep | | 
+dreams | | sleep | | 
 absurdities of dreams testify to pressure of unexpressed emotions (110:5.4)
 celestials seldom use dreams to communicate (86:5.11)
 disordered, disconnected parade of uncoordinated sleeping mind (44:4.7) (110:5.2-5)
@@ -1313,17 +1309,17 @@ primitives believed dreams as real as waking experience (86:5.10)
 	ghost dream was greatest factor in societal evolution (68:3) (87:5.14)
 	primitives convinced of afterlife by dreams (63:3.5) (86:4.1-2)
 
-drifters | | See also indolence | | 
+drifters | | indolence | | 
 supinely trusting in a fictitious Providence (178:1.14)
 
 drills | (59:2.12) | | | 
 
-drives, innate | | See instincts | | 
+drives, innate | | instincts | | 
 
 dropsy | | | | 
 Jesus healed man with (167:1.5)
 
-drought | | See also climate | | 
+drought | | climate | | 
 caused Andite exodus from Caspian region (79:1.3-6)
 caused highland tribes to invade Euphrates valley (78:8.3)
 disrupted Sahara civilization (80:1.4) (80:2.1)
@@ -1331,19 +1327,19 @@ drove Andites to Egypt (79:1.2-3)
 drove Andonites from Asia to Europe (80:9.6)
 severe drought meant death to early agriculturists (90:2.6)
 
-drudgery | | See also monotony | | 
+drudgery | | monotony | | 
 benumbing (70:2.17)
 men left routine drought to women (69:3.3)
 no such thing as menial labor in spiritual worlds (25:1.1)
 religion ennobles commonplace work; work as for God (100:0.2) (133:4.8) (181:2.19) (192:2.13)
 
-drugs | | See intoxication | | 
+drugs | | intoxication | | 
 
 drumlins | (61:7.1) | | | 
 
-drunkenness | | See intoxication | | 
+drunkenness | | intoxication | | 
 
-dual-origin beings | | See also Sons of God | ORDER | 
+dual-origin beings | | Sons of God | ORDER | 
 beings of direct or indirect origin in any two of the Paradise Deities (30:1.29)
 creation of Havona Servitals is pattern for (25:1.2)
 in Paradise classification (30:1.29-54)
@@ -1371,7 +1367,7 @@ orders
 		1. ascending mortals q.v.
 		2. Son-fused mortals q.v.
 		3. Spirit-fused mortals q.v.
-		4. translated midwayers | See midwayers
+		4. translated midwayers | midwayers
 		5. unrevealed ascenders (30:1.54)
 
 dual spiritism | | | | 
@@ -1405,7 +1401,7 @@ Deities not given to useless (6:4.2)
 dust | | | | 
 dust we are, and to dust we shall return (1:4.3) (68:6.1)
 
-duty | | See also responsibility; trust | | 
+duty | | responsibility; trust | | 
 according to Hinduism (131:4.6)
 Adjuster translates duty into faith in revelation (102:1.1)
 devotion to commonplace social obligations (91:7.9) (100:6.5) (126:5.4) (178:1.8)
@@ -1423,7 +1419,7 @@ perform duty faithfully, then accept one’s lot (48:6.36)
 performing earthly assignments in human faithfulness (34:6.13)
 promises should be kept (157:1.2)
 summary of mortal duty
-	attainment of perfection (1:0.4) See also perfection: attainment
+	attainment of perfection (1:0.4) | perfection: attainment
 	believers’ duty is to man, God, and fellowship; to preach gospel (178:1.5,11)
 	bringing children into the world is supreme duty (84:7.25-26)
 	deal justly, love mercy, walk humbly with God (97:5.6) (126:4.5)
@@ -1445,4 +1441,4 @@ primitive religious practices of (92:6.1)
 Dyaus pitar | | | PERSON | OK
 Vedic lord of heaven (94:1.3)
 
-Dyaus-Zeus | | See Zeus | PERSON | OK
+Dyaus-Zeus | | Zeus | PERSON | OK

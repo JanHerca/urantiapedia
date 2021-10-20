@@ -1,23 +1,16 @@
 ####################################################################################
 #
-#                    Q
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+#                     Q
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
-
-
-
 
 codorniz | (61:2.12) | | | 
 
-Absoluto Cualificado | | Ver Absoluto de la Deidad | PERSON | 
+Absoluto Cualificado | | Absoluto de la Deidad | PERSON | 
 
 Vicegerentes Calificados del Último | (30:1.106) (106:4.3) (117:7.4) | | ORDER | 
 Las ayudas de imagen reflectante representan (15:10.21)
@@ -32,7 +25,7 @@ energía solo liberada en (42:4.13-14) (42:5.6)
 comportamiento cuántico | | | | 
 confusión que acompaña a la mecánica ondulatoria (42:4.14) (42:5.6)
 
-cuarentena | | Ver rebelión de Lucifer; rebelión (espiritual) | | 
+cuarentena | | rebelión de Lucifer; rebelión (espiritual) | | 
 Antiguos individuos afectados aislados (90:3.4)
 comunicación interplanetaria por enlace de Ajustadores autoactivos durante cuarentena (108:4.4)
 de Satania por Norlatiadek (43:5) (46:8)
@@ -70,9 +63,9 @@ Quebec | (59:3.2) | | PLACE |
 Queensland | | | PLACE | 
 primer niño asesinado y devorado (89:5.4)
 
-cuestionamientos | | Ver duda | | 
+cuestionamientos | | duda | | 
 
-Estimuladores de la Moralidad | | Ver Serafines | ORDER | 
+Estimuladores de la Moralidad | | Serafines | ORDER | 
 Serafines administradores; enseñar interacciones de libertad y lealtad (39:4.10-14)
 
 quinina | | | | 

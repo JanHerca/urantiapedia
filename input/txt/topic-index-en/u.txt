@@ -1,20 +1,14 @@
 ####################################################################################
 #
-#                    U
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+#                     U
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-
-
-
-ubiquity | | See omnipresence | | 
+ubiquity | | omnipresence | | 
 
 ugliness | | | | 
 materialism and atheism are maximation of (56:10.4)
@@ -23,10 +17,10 @@ stimulates reach for better things (3:5.11)
 Ukraine | | | PLACE | 
 Andonites entered Europe via (80:9.6)
 
-ultimacy | | See also reality: levels of reality: absonite reality | | 
+ultimacy | | reality: levels of reality: absonite reality | | 
 finaliters may someday eventuate the ultimacy of God (5:5.11)
 
-ultimata | | See also energy | | 
+ultimata | | energy | | 
 also known as emergent energy (0:6.6) (11:7.8) (16:4.12) (42:2.10-13)
 becomes responsive to linear gravity, Universe Power Directors
 when liberated from Unqualified Absolute (16:4.12)
@@ -37,13 +31,13 @@ infraultimatonic and ultimatonic rays (42:5.3-4)
 originally neutral but later exhibits positive and negative qualities (11:8.6)
 pre-electronic energies unresponsive to linear gravity (0:6.6)
 
-Ultimate | | See God the Ultimate | PERSON | 
+Ultimate | | God the Ultimate | PERSON | 
 
-Ultimate Deity | | See God the Ultimate | PERSON | 
+Ultimate Deity | | God the Ultimate | PERSON | 
 
-ultimate level | | See reality: levels of reality: absonite reality | | 
+ultimate level | | reality: levels of reality: absonite reality | | 
 
-ultimatons (42:6.2-6) | | See also atoms; matter | | 
+ultimatons (42:6.2-6) | | atoms; matter | | 
 100 in an electron, held together by mutual attraction (42:3.3) (42:4.6) (42:6.4)
 Associate Master Force Organizers and Universe Power Directors can speed up ultimatons to return to puissant energy (42:6.3)
 cold organizes ultimatons into electrons (42:4.5,7)
@@ -65,23 +59,23 @@ solar heat and pressure cannot convert ultimatons back into puissant energy (41:
 spread or cluster in accordance with axial revolutionary velocities; do not orbit (42:6.4,6) (42:7.3,10)
 Supreme Power Centers transmute into electrons (42:4.3)
 
-ultraspecialization | | See overspecialization | | 
+ultraspecialization | | overspecialization | | 
 
 ultraviolet rays | (42:5.9) | | | 
 
-Umajor the fifth | | See also major sectors; Splandon | PLACE | 
+Umajor the fifth | | major sectors; Splandon | PLACE | 
 70 study worlds rotate around (15:13.3)
 headquarters of Splandon, our major sector (15:7.9) (15:13.3) (15:14.7)
 
 umbilical cord | | | | 
 prized fetish (88:1.8)
 
-Uminor the third | | See also Ensa; minor sectors | PLACE | 
+Uminor the third | | Ensa; minor sectors | PLACE | 
 headquarters of Ensa, our minor sector (15:7.8) (15:14.7)
 
-unanimity | | See unity | | 
+unanimity | | unity | | 
 
-unbelievers | | See also atheism; materialism; secularism | | 
+unbelievers | | atheism; materialism; secularism | | 
 apparently religious traits can grow out of nonreligious roots (102:7.4)
 believers’ certain reply to (102:6.5) (102:7.6-9)
 can be morally good, loyal, filial, honest, idealistic (102:7.4)
@@ -90,7 +84,7 @@ may show religious loyalty to espoused cause (100:6.1)
 only peace for unbelievers is based on optimism or fatalism (181:1.7)
 ordinarily far better to placate wrath of (181:2.15)
 
-uncertainty | | See also anxiety; doubt; fear | | 
+uncertainty | | anxiety; doubt; fear | | 
 23rd Psalm reference (48:6.12)
 alone, uncertainty can never prevent survival (110:3.5)
 early man lived in (86:1.4)
@@ -110,36 +104,36 @@ remedied by consolation and stabilization of sound religion (99:4.6)
 secret of contented continuity (39:5.9)
 with security is essence of Paradise adventure (111:7.1)
 
-Unclassified Centers | | See also Supreme Power Centers | | 
+Unclassified Centers | | Supreme Power Centers | | 
 in Uversa personality register (30:2.99)
 Supreme Power Centers; act as balance wheels on spheres of extraordinary energy relationships (29:2.19)
 
 Uncle Joshua | | | PERSON | 
 children referred to Jesus as (128:6.11)
 
-unclean spirits | | See demon possession | | 
+unclean spirits | | demon possession | | 
 
 undershepherds | | | | 
 of Father’s flock (165:2.6)
 
-understanding | | See adjutant mind-spirits: #2–understanding; knowledge; sympathy; tolerance; wisdom | | 
+understanding | | adjutant mind-spirits: #2–understanding; knowledge; sympathy; tolerance; wisdom | | 
 
-unemployment | | See also earning a living; labor | | 
+unemployment | | earning a living; labor | | 
 civilizations cannot survive large-scale, long-time unemployment (81:6.32)
 in continental nation (72:5.11)
 productivity improvements good despite job losses (81:6.21-22)
 
-unfortunates | | See also inferiors; weak, the | | 
+unfortunates | | inferiors; weak, the | | 
 always suffer that majority might advance (83:6.5)
 church, from overmuch false sentiment, has long ministered to (99:3.5)
 mercy towards weak and needy is divine trait (26:11.5)
 weaker makes disproportionate gains in evolution (84:5.9)
 
-unhappiness | | See also happiness; sorrow | | 
+unhappiness | | happiness; sorrow | | 
 deficient unification engenders (140:4.8,9)
 presence of divine Spirit prevents discontent (34:6.8)
 
-uniformity | | See also spiritual unity; unity; originality | | 
+uniformity | | spiritual unity; unity; originality | | 
 each apostle taught his own view of gospel (148:1.2)
 Jesus does not desire u., rather unity (182:1.8)
 not basis for security of religious group; rather unity (103:5.12)
@@ -150,7 +144,7 @@ standardization
 	mediocrity seeks perpetuation in (48:7.29)
 	reason for Roman decline (195:3.9)
 
-Unions of Days | (18:6) (33:5) | See also Immanuel | ORDER | 
+Unions of Days | (18:6) (33:5) | Immanuel | ORDER | 
 700,000 in existence; no more being created (18:6.2) (21:1.4)
 act only upon request of local authorities (18:6.5)
 always in touch with each other (18:6.4)
@@ -178,16 +172,16 @@ foster and promote teamwork (28:5.14)
 in synchrony with interpreters of ethics on Paradise (28:5.13)
 secondary seconaphim, reflective associates of Perfectors of Wisdom (28:5.13-14)
 
-United Kingdom | | See British Isles | PLACE | 
+United Kingdom | | British Isles | PLACE | 
 
-United Midwayers of Urantia | | See midwayers | PERSON | 
+United Midwayers of Urantia | | midwayers | PERSON | 
 
 United States of North America | (39:5.8) | | PLACE | 
 creative potential (82:6.5)
 hero-venerating nationalism in (92:6.20)
 states surrendered sovereignty to federal government (134:5.13-15) (134:6.5)
 
-unity (56) | | See also brotherhood (attitude); spiritual unity; tolerance; uniformity | | 
+unity (56) | | brotherhood (attitude); spiritual unity; tolerance; uniformity | | 
 Deity unity is fact of Paradise and in Havona; in universes is an achievement (8:6.6-7) (56:5)
 disclosed in superuniverses by Seven Master Spirits (17:8.9)
 Father is explanation of (56:0.1-2) (56:9.11) (133:5.8)
@@ -215,7 +209,7 @@ Supreme is basis of unity (4:1.10)
 universal absolute unity (56:9)
 universe unity existential in Paradise Trinity (106:9.1)
 
-Universal Absolute | (0:11.10-14) (56:9.7) (118:4.3-5) | See also Absolutes: the three | PERSON | 
+Universal Absolute | (0:11.10-14) (56:9.7) (118:4.3-5) | Absolutes: the three | PERSON | 
 defined as
 	an Absolute of potentiality (115:3.8,10)
 	an inevitability (0:11.10)
@@ -274,7 +268,7 @@ service
 	wrote Papers 10, 15, 16, 29 (10:8.10) (15:14.10) (16:9.16) (29:5.8)
 testimony of (10:2.8)
 
-Universal Conciliators | (25:2-3) | See also conciliating commissions | ORDER | 
+Universal Conciliators | (25:2-3) | conciliating commissions | ORDER | 
 7 reflectively created for each Havona Servital (25:2.1-2) (25:3.15)
 acquire unique grasp of Supreme Being (25:3.16)
 created in 7 orders by Seven Master Spirits and Reflective Spirits (25:2.2)
@@ -295,11 +289,11 @@ I AM cause of Paradise (105:2.6)
 Universal Creator | | | PERSON | 
 I AM one with Eternal Son, Creator of Infinite Spirit and Havona (105:2.7)
 
-Universal Father | (1) (2) (3) (4) (5) (0:3) | See also God; I AM; Infinite, the; personality circuit; Thought Adjusters | PERSON | 
+Universal Father | (1) (2) (3) (4) (5) (0:3) | God; I AM; Infinite, the; personality circuit; Thought Adjusters | PERSON | 
 7 sacred worlds of (13:0.3) (13:1-2)
 absolutum is original nonspiritual expression of (11:2.9)
 all goodness takes origin in (8:2.7)
-also known as | See also Deity; God: also known as
+also known as | Deity; God: also known as
 	Center of Centers (15:1.4)
 	Creator (1:1.1)
 	Creator, Controller, Upholder, First Person of Deity (0:2.12)
@@ -310,7 +304,7 @@ also known as | See also Deity; God: also known as
 	I AM q.v.
 	other titles (1:1) (24:7.2) (104:4.1)
 	Paradise Father (54:6.2)
-	the Infinite | See Infinite, the
+	the Infinite | Infinite, the
 attainment of Universal Father is passport to eternity (26:9.2)
 attitude
 	always one of divine affection (2:5.1) (4:3.5) (4:4.5)
@@ -342,7 +336,7 @@ attitude
 	sin does not alienate affections of (3:1.12) (13:4.4)
 	yearns for our association (5:1.2)
 bestows life through his Sons (3:0.1)
-consciousness of (5:5) | See also God: consciousness of God
+consciousness of (5:5) | God: consciousness of God
 Creator Sons compensate for invisibility of (3:0.2)
 delegation of power
 	Father has distributed himself to his 6 absolute co-ordinates (5:0.2) (8:3.2)
@@ -408,7 +402,7 @@ described (3:6.7) (4:4.1-6) (105:3.2)
 	Jesus revealed the Father, but taught little about him (120:1.2,4) (141:4) (169:4) (182:1.9-26)
 	law of Universal Father and will of Universal Father (141:2)
 	limited only by volition (0:3.9) (8:5.2)
-	located by faith | See faith
+	located by faith | faith
 	maintains personal relations with all his creatures (1:5.9)
 	man cannot see Universal Father until Paradise (1:5.5) (153:2.11) (180:6.8)
 	manifests himself in the usual, normal way (120:4.6)
@@ -440,7 +434,7 @@ described (3:6.7) (4:4.1-6) (105:3.2)
 	what Universal Father is not (1:2.2) (3:2.6-10) (4:5) (12:7.6) (102:6.3)
 direct worship to Father alone (5:3.1) (74:4.5) (131:1.3)
 final destiny of all personalities is final knowing of (106:8.22)
-finding | See God: finding God
+finding | God: finding God
 functions
 	acts through Creator Sons in local universes (32:3.4) (32:4.3,10) (33:0.1)
 	as absolute Deity, only in Trinity (10:4.1)
@@ -468,7 +462,7 @@ God the Sevenfold provides progressive approach to (56:7.8)
 idea of Universal Father’s personality brought by revelation (1:5.10)
 in Uversa personality register (30:2.11)
 Lucifer charged Universal Father did not exist (53:3.2)
-mandate to achieve perfection | See commandments
+mandate to achieve perfection | commandments
 methods of contact with man (1:2.10) (2:1.7-8) (5:0.2)
 name stands for degree of enthronement in heart (1:1.3,6)
 no argument concerning his reality would ever be convincing (101:2.16) (102:1.5)
@@ -483,9 +477,9 @@ whosoever receives Jesus, receives Universal Father (158:8.1) (162:2.3)
 words and acts of subordinates attributed to (51:3.5)
 worship U.F., first because he is (2:5.7) (16:9.14) (149:6.5)
 
-Universal Intelligence | | See Infinite Spirit | PERSON | 
+Universal Intelligence | | Infinite Spirit | PERSON | 
 
-Universal Mind | | See Infinite Spirit | PERSON | 
+Universal Mind | | Infinite Spirit | PERSON | 
 
 Universal Mother | | | PERSON | 
 Eternal Son is (6:8.1)
@@ -497,7 +491,7 @@ I AM as I AM, the Universal Father (105:2.11)
 Universal Oversoul | | | PERSON | 
 Brahmanic doctrine; very close to truth of Supreme (94:3.4-7)
 
-universe | | See also grand universe; local universes; master universe; reality; space | PLACE | 
+universe | | grand universe; local universes; master universe; reality; space | PLACE | 
 administered by Father, Son, and Spirit as one (8:6.6)
 Architects of Master Universe embody Deity concept of (118:4.6)
 destiny (105:7.18) (106:0.18)
@@ -530,7 +524,7 @@ physical aspects
 	emanated from Paradise through Unqualified Absolute (42:2.3) (56:1.1)
 	endless, limitless, and all-inclusive – timeless, spaceless, and unqualified (102:3.10)
 	established circuits continually jeopardized by appearance of new energy and mass (116:5.16-17)
-	expanding | See red shift; space: space respiration foundation of universe is material (42:0.1) (42:1.1)
+	expanding | red shift; space: space respiration foundation of universe is material (42:0.1) (42:1.1)
 	gravity control of Paradise adequate for an infinite universe (3:4.2) (8:4.1)
 	is delimited; moves in vast elongated plane around Paradise (15:0.1) (32:5.5) (42:1.9) (56:1.1)
 	is stable; does not run down (4:1.5) (15:8.10)
@@ -576,12 +570,12 @@ subject to Seven Supreme Power Directors (24:1.14)
 Universe Co-ordinators and Constellation Counselors | | | ORDER | 
 classification of Lanonandek Sons (35:8.9)
 
-universe of universes | | See master universe | PLACE | 
+universe of universes | | master universe | PLACE | 
 
-universe orientators | | See also seraphim | ORDER | 
+universe orientators | | seraphim | ORDER | 
 supreme seraphim; facilitate ascenders’ passage from attained to unattained (39:1.10-11)
 
-universe power | | See gravita | | 
+universe power | | gravita | | 
 
 Universe Power Directors | (29) | | ORDER | 
 always thoroughly businesslike (48:4.11)
@@ -620,9 +614,9 @@ work
 	transmute puissant energy into ultimatons and back into puissant energy (42:6.3)
 	Universe Circuit Supervisors subject to (24:1.14)
 
-Universe Sons | | See Creator Sons | ORDER | 
+Universe Sons | | Creator Sons | ORDER | 
 
-Universe Spirits | | See local universe Mother Spirits | ORDER | 
+Universe Spirits | | local universe Mother Spirits | ORDER | 
 
 univitatia | (43:7) | | ORDER | 
 administer constellation morontia worlds (43:7.2) (55:9.2)
@@ -644,9 +638,9 @@ unknown | | | |
 man is afraid of (132:3.3)
 Paul on the Unknown God (195:1.1)
 
-unpervaded space | | See space: unpervaded space | PLACE | 
+unpervaded space | | space: unpervaded space | PLACE | 
 
-Unqualified Absolute | (0:4.5) (0:11.7-9) (12:2) (56:9.7) | See also Absolutes: the three | PERSON | 
+Unqualified Absolute | (0:4.5) (0:11.7-9) (12:2) (56:9.7) | Absolutes: the three | PERSON | 
 3 of 10 forms of energy dominated by (29:3.11)
 defined as
 	a positive reality (0:11.8)
@@ -685,9 +679,9 @@ exercise sovereignty of supremacy in universes settled in light and life (55:12.
 personalization of time-space supremacy (55:12.4)
 Reflective Image Aids represent (15:10.21)
 
-unreality | | See illusions | | 
+unreality | | illusions | | 
 
-unwritten law | | See lynch law | | 
+unwritten law | | lynch law | | 
 
 Upanishads | | | RELIGION | 
 distant metaphysical idea of an all-encompassing Absolute (94:2.6-7)
@@ -713,7 +707,7 @@ uranium | | | |
 lead produced by disintegration of (42:4.12)
 spontaneously disrupts (42:7.9)
 
-Urantia | | See also Monmatia | PLACE | 
+Urantia | | Monmatia | PLACE | 
 celestial government (114)
 	adjutant mind-spirits relatively isolated (65:7.3-4)
 	celestial administration
@@ -759,9 +753,9 @@ celestial government (114)
 		Most High observer is trustee of sovereignty (109:7.7) (114:3.5) (114:4)
 		Most Highs exercise special care over (43:3.6-8) (43:5.11,16)
 		resident governor general supervises as representative of 24 counselors (45:4.16) (114:1.1) (114:2.4-5)
-history | See also geologic ages; planetary epochs
+history | geologic ages; planetary epochs
 	brief history of mortal epochs (49:5.21-28)
-	Caligastia default | See Lucifer rebellion: on Urantia
+	Caligastia default | Lucifer rebellion: on Urantia
 	definitely modified by Lucifer rebellion and Adamic default (66:8.3) (67:0.1)
 	early history taken from archives of Jerusem (57:0.1)
 	Michael personally chose Urantia for final bestowal (119:7.2) (122:0.2)
@@ -772,7 +766,7 @@ history | See also geologic ages; planetary epochs
 	struggled long in barbarism (52:2.1)
 	times of Michael’s bestowal (121)
 	unusual co-ordination of spiritual agencies in 6th century B.C. (94:6.1)
-mortals of Urantia (49:2) | See also mortals
+mortals of Urantia (49:2) | mortals
 	are 2-brained (40:5.17) (49:5.13) (109:3.5)
 	have Adjuster-fusion destiny, not Son- or Spirit-fusion (30:4.9)
 	never return to Urantia in same dispensation (39:4.15) (112:3.7) (146:7.2) (150:3.5)
@@ -784,7 +778,7 @@ physical aspects (57)
 	belongs to relatively recent universe (15:1.3)
 	geology
 		continental drift (58:4.3-4) (58:5)
-		eras | See geologic ages
+		eras | geologic ages
 		heat, pressure, and heavy elements at core; density of iron (41:4.3) (57:7.1) (57:8.16) (58:5.2,5-7)
 		metals found near surface are from ancient volcanoes, meteoric deposits (58:5.2)
 		molten basalt equalizes shifting pressures (58:5.3)
@@ -792,9 +786,9 @@ physical aspects (57)
 		outer 1000 miles principally rock (58:5.2)
 		stabilization of crust (57:8)
 	in lines of tremendous energies (41:2.8)
-	life establishment | See life: biological
+	life establishment | life: biological
 	location in universe (0:0.5) (15:1.5-6) (15:14.5-8) (41:10.5)
-	moon | See moon (Urantia’s)
+	moon | moon (Urantia’s)
 	origin (57)
 		1/10 its present mass 2-1/2 billion years ago (57:6.10)
 		age estimates too short (57:7.3)
@@ -828,10 +822,10 @@ status
 	Jesus hardly regarded Urantia as vale of tears (40:7.5) (149:5.5) (196:2.9)
 	last adjudication was at resurrection of Jesus (77:8.1)
 	life on Urantia markedly different from sister spheres in Satania (49:5.11)
-	series 3 planet (109:3.4) | See also mortals: planetary types
+	series 3 planet (109:3.4) | mortals: planetary types
 	sin-darkened, unfortunate, disordered, backward, disturbed (20:5.6) (37:3.4) (48:6.22) (49:5.23) (50:6.2,5) (51:3.9) (51:5.1) (52:6.2,8) (55:2.10) (55:5.1) (55:6.9) (75:8.4) (76:5.7) (114:7.16-17) (116:0.2) (120:1.1) (145:5.1) (176:2.3) (184:4.4)
 	such a life on such a planet! (111:7.5)
-	under quarantine | See quarantine
+	under quarantine | quarantine
 	unique (114:0.3-10)
 	waiting for proclamation of message of Michael (94:12.7)
 	World of the Cross; sentimental shrine of all Nebadon (20:5.5)(20:6.6)(57:8.6)(119:8.8)(176:4.1)(188:4.1)
@@ -839,18 +833,18 @@ the future
 	gospel will someday rule (77:9.10) (142:2.2) (143:1.4) (176:1.1) (196:3.33)
 	great hope lies in new revelation of Jesus (195:9.2) (195:10.16)
 	Machiventa Melchizedek may become Planetary Sovereign (55:7.3) (93:10.6-8)
-	Michael will return | See Jesus: second coming
+	Michael will return | Jesus: second coming
 	one real musician could forever change course of (44:1.15)
 	quivering on brink of spiritual enlightenment (195:9.2)
 	restoration to system circuits (46:8.2-4)
 	some ascendant activities will be concentrated on (37:3.4)
 	will of God invariably prevails with the total (3:5.3) (12:7.1,7) (115:3.13)
 
-Urantia advisory council | | See four and twenty counselors | PERSON | 
+Urantia advisory council | | four and twenty counselors | PERSON | 
 
-Urantia Brotherhood of Urantia Midwayers | | See midwayers | PERSON | 
+Urantia Brotherhood of Urantia Midwayers | | midwayers | PERSON | 
 
-Urantia Papers | | See also language: limitations of human language; revelation | RELIGION | 
+Urantia Papers | | language: limitations of human language; revelation | RELIGION | 
 authors
 	acknowledgments by (0:12.13-14) (56:10.22-23) (121:0.1) (121:8.12-14)
 	book is composite presentation by many beings (92:4.9)
@@ -859,7 +853,7 @@ authors
 	Divine Counselors are highest source on evolutionary worlds (1:7.9)
 	mandated by Ancients of Days (31:10.22)
 	midwayers contributed story of Jesus’ life (77:9.9)
-	named | See Urantia Book, Table of Contents
+	named | Urantia Book, Table of Contents
 	Orvonton commission (0:0.4)
 	Part I sponsored by a Uversa revelatory corps (Foreword, prematter)
 	Parts II and III sponsored by Nebadon revelatory corps (32) (57) (56:10.22-23)
@@ -901,7 +895,7 @@ value of the Urantia Papers
 	recital of events by those who saw what occurred (189:3.5)
 	reveal truth about God and our Creator Son (4:5.7)
 
-Uranus | | See also Monmatia | PLACE | 
+Uranus | | Monmatia | PLACE | 
 retrograde motion proves Uranus was originally satellite of Angona (57:5.13-14)
 
 Uriah the Hittite | | | PERSON | 
@@ -927,10 +921,10 @@ Usatia | | | PERSON |
 chief of Orvonton Census Directors (24:2.5)
 totaling personality attuned to his subordinates (24:2.5)
 
-usury | | See also banking; moneylenders | | 
+usury | | banking; moneylenders | | 
 never employ money-power to gain unfair advantage (132:5.19)
 
-Uversa | | See also Orvonton; superuniverses, the seven: each superuniverse | PLACE | 
+Uversa | | Orvonton; superuniverses, the seven: each superuniverse | PLACE | 
 administrative center for 1 trillion inhabitable worlds (15:7.11)
 Ancients of Days occupy point of spiritual polarity (18:3.6)
 capital of Orvonton, our superuniverse (0:0.5)(15:7.10-11)

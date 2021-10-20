@@ -1,18 +1,12 @@
 ####################################################################################
 #
 #                     P
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
-
 
 Pacific Ocean | | | PLACE | 
 950 million years old; originally not salty (57:8.3-5)
@@ -20,7 +14,7 @@ covered 9/10 of earth’s surface (57:8.20)
 geology of Pacific Ocean islands (60:1.12)
 island peoples improved by Andites (79:1.6)
 
-pacifism | | See nonresistance | | 
+pacifism | | nonresistance | | 
 
 pack | | | | 
 carry pack the second mile (159:5.15)
@@ -28,7 +22,7 @@ carry pack the second mile (159:5.15)
 paddle | | | | 
 Jesus helped build a steering (130:2.1,4)
 
-paganism | | See also Mithraism; mystery cults | | 
+paganism | | Mithraism; mystery cults | | 
 comprised of Hellenic and Latin mythology, patriotism, and tradition (121:5.3)
 Jesus ignored thoughtless pagan (132:7.1-2)
 
@@ -47,10 +41,10 @@ Roman emperor’s residence located on (132:0.2)
 palavers | | | | 
 seldom useful (70:5.5)
 
-Paleozoic | | See also geologic ages | | 
+Paleozoic | | geologic ages | | 
 marine-life era, from 400 to 150 million years ago (59:0.4) (59:6.11)
 
-Palestine | | See also Decapolis; Ephraim; Galilee; Israel; Judea; Perea; Samaria | PLACE | 
+Palestine | | Decapolis; Ephraim; Galilee; Israel; Judea; Perea; Samaria | PLACE | 
 Arabian Semites fought their way into (96:2.2)
 Aramaic, Hebrew, and Greek spoken (121:6.2)
 chosen for Jesus’ mission (134:0.1-2)
@@ -107,7 +101,7 @@ Jesus passed
 parable prayers | | | | 
 taught by Jesus (144:5.1)
 
-parables | | See also Jesus: parables of Jesus | | 
+parables | | Jesus: parables of Jesus | | 
 good Samaritan, prodigal son were Jesus’ favorites (169:1.16)
 Jesus seldom taught masses except by (151:4.7)
 Jesus sometimes would not comment on (151:3.16) (167:2.4) (169:3.3) (171:8.8)
@@ -248,7 +242,7 @@ primary supernaphim are angels of (26:1.12) (26:2.2) (27:0.1)
 probationary nursery children constitute permanent ascendant
 citizenship of (47:2.8)
 reflectivity focuses on (9:7.1)
-rest of | See rest: transition rest
+rest of | rest: transition rest
 reveals infinity potential of Father’s nonpersonal self (11:9.3)
 sacred spheres of Paradise q.v.
 senior Architect of Master Universe co-ordinates all below level of Deity (31:9.3)
@@ -260,12 +254,12 @@ values and realities of (189:1.3) (195:7.4)
 paradise apple | | | | 
 citron; forbidden fruit (162:4.4)
 
-Paradise arrivals | | See also ascending mortals | | 
+Paradise arrivals | | ascending mortals | | 
 ascendant mortals with residential status (30:4.31-33)
 study divinity and absonity (30:4.31)
 worshipful emotions of Paradise arrivals astound angels (27:7.6)
 
-Paradise Central Shining | | See Universal Father | PERSON | 
+Paradise Central Shining | | Universal Father | PERSON | 
 
 Paradise Citizens | (19:7) | | ORDER | 
 acquire capacity for Supremacy (117:6.12)
@@ -301,7 +295,7 @@ service
 	nothing especial to accomplish; simply provide companionship (25:8.3)
 study ascenders’ backgrounds before arrival (25:8.6)
 
-Paradise Creator Sons | | See Creator Sons | ORDER | 
+Paradise Creator Sons | | Creator Sons | ORDER | 
 
 Paradise Deities | | | ORDER | 
 in personality register (30:2.10-13)
@@ -310,16 +304,16 @@ named
 	# Eternal Son q.v.
 	# Infinite Spirit q.v.
 
-Paradise energy | | See monota | | 
+Paradise energy | | monota | | 
 
-Paradise force organizers | | See Master Force Organizers | ORDER | 
+Paradise force organizers | | Master Force Organizers | ORDER | 
 
-Paradise gravity | | See gravity: types | | 
+Paradise gravity | | gravity: types | | 
 
-Paradise-Havona system | | See also Havona; Paradise | PLACE | 
+Paradise-Havona system | | Havona; Paradise | PLACE | 
 eternal nucleus of master universe (12:1.11)
 
-Paradise-Havona-trinitized Sons | | See also trinitization | ORDER | 
+Paradise-Havona-trinitized Sons | | trinitization | ORDER | 
 created by Paradise Citizens and Havoners (22:7.9-13)
 in Uversa personality register (30:2.63)
 may serve as Evangels of Light attached to mortal finaliter companies (31:7.2)
@@ -327,9 +321,9 @@ may serve as Evangels of Light attached to mortal finaliter companies (31:7.2)
 Paradise incarnation commission | | | | 
 deployed about Jesus’ tomb (189:1.1,5)
 
-Paradise Master Spirits | | See Master Spirits, Seven | ORDER | 
+Paradise Master Spirits | | Master Spirits, Seven | ORDER | 
 
-Paradise Sons of God | (20) (7:6) | See also Creator Sons; Magisterial Sons; Trinity Teacher Sons | ORDER | 
+Paradise Sons of God | (20) (7:6) | Creator Sons; Magisterial Sons; Trinity Teacher Sons | ORDER | 
 all are united in near-absolute spiritual association (7:6.7)
 all knowledge of Father comes from Eternal Son, Paradise Sons (7:7.1-4)
 are
@@ -339,7 +333,7 @@ are
 	revelations of Eternal Son (10:1.6) (16:2.1)
 	Word of God (10:3.3)
 automatic self-rejuvenators; incapable of depletion (48:4.11)
-bestowals (20:5) (119:0.2) | See also Creator Sons: creature bestowals; Magisterial Sons: planetary missions
+bestowals (20:5) (119:0.2) | Creator Sons: creature bestowals; Magisterial Sons: planetary missions
 	achieve perfect attunement with indwelling Adjusters (20:6.4)
 	Adjusters participating in bestowals become Personalized (20:4.3) (107:2.8) (109:6.3)
 	always born as male child (20:6.2)
@@ -362,7 +356,7 @@ bestowals (20:5) (119:0.2) | See also Creator Sons: creature bestowals; Magister
 	no mission has ever failed (20:5.7)
 	only one Paradise Sons bestows himself on each planet (20:5.4)
 	Paradise Sons augment their divine natures by (116:3.3,5)
-	purpose of bestowals | See also Jesus: life of: value
+	purpose of bestowals | Jesus: life of: value
 		chief mission is to release Spirit of Truth (20:6.8) (49:5.25)
 		establish new and living way (52:5.4)
 		exclusively devoted to spiritual enlightenment (20:6.4)
@@ -390,7 +384,7 @@ types
 	Trinity Teacher Sons q.v.
 work of each is as if he were the first and only Son of God; identical in quality (20:1.11) (20:10.1)
 
-Paradise Source and Center | | See Universal Father | PERSON | 
+Paradise Source and Center | | Universal Father | PERSON | 
 
 Paradise Trinity | (10) (104) (0:12.1-5) | | PERSON | 
 beliefs regarding
@@ -442,7 +436,7 @@ primary eruption upon personalization of local universe
 Mother Spirit (34:1.1)
 Trinity observers stationed from constellations to superuniverse headquarters (15:13.6)
 
-paradox | | See also mysteries | | 
+paradox | | mysteries | | 
 God’s immanence and transcendence (5:5.6)
 infinity is the maximum paradox (115:3.4)
 of simultaneous measurements (65:6.1)
@@ -464,7 +458,7 @@ parental commission | | | |
 12 recently arrived parents serve on (47:1.4)
 all survivors must pass requirements of (47:1.4,6)
 
-parents | | See also child-rearing; children; family; fathers; mothers | | 
+parents | | child-rearing; children; family; fathers; mothers | | 
 affectionate parents never called upon to forgive children (174:1.2)
 children commanded to honor parents (131:2.12) (153:3.3)(163:2.4)
 disclose to children the love of Paradise Parent (84:7.30)
@@ -493,13 +487,13 @@ Parthia | (134:2.1) | | PLACE |
 library at Alexandria contained manuscripts from (130:3.4)
 rising power; wars with Rome (121:1.9) (121:2.8)
 
-partiality | See favoritism
+partiality | favoritism
 
-partnership | | See also groups; marriage | | 
+partnership | | groups; marriage | | 
 quadruples achievement possibilities (43:8.11)
 when man goes into partnership with God, great things happen (107:4.7) (118:5.2) (132:7.9)
 
-parts and the whole | (12:7) (12:9.3) (131:8.4) | See also groups; individual, the | | 
+parts and the whole | (12:7) (12:9.3) (131:8.4) | groups; individual, the | | 
 as it is with the parts, so it is with the whole (12:7.11) (116:6.6)
 evolution of parts is segmented reflection of purposive growth of whole (116:6.6)
 from standpoint of eternity, welfare of part and whole indistinguishable (3:2.8)
@@ -522,11 +516,11 @@ could fly 2 men nonstop 500 miles (52:1.5)
 used in Eden; Adam inspected Garden from (74:3.4) (74:4.4)
 ostrichlike bird was ancestor of (61:1.9)
 
-passivity | | See also indolence; initiative | | 
+passivity | | indolence; initiative | | 
 Jesus’ disciples should always be active, positive (194:3.11)
 righteousness comes not from (159:5.9-15)
 
-Passover | | See Judaism: feasts | | 
+Passover | | Judaism: feasts | | 
 
 passport | | | | 
 to eternity is attainment of Father (26:9.2)
@@ -538,7 +532,7 @@ must be forgotten, disowned (154:6.8) (156:2.6)
 restful to contemplate; savors of things already mastered (48:4.10-20)
 weakening effect of overreverence for (79:6.9)
 
-pastoral living | | See herders | | 
+pastoral living | | herders | | 
 
 Patagonians | | | RACE | 
 worshiped trees (85:2.4)
@@ -546,9 +540,9 @@ worshiped trees (85:2.4)
 patents | | | | 
 profits on patents taxed at 50% in continental nation (72:7.10)
 
-paternalism | | See favoritism | | 
+paternalism | | favoritism | | 
 
-patience | | See also forgiveness; impatience; submission; time | | 
+patience | | forgiveness; impatience; submission; time | | 
 Adam and Eve would have met with success had they exercised more (75:1.6) (75:8.4)
 bear with erring brother (54:5.5)
 being just and fair are preconditions to showing patience (28:6.8)
@@ -586,9 +580,9 @@ Apostle John banished to (139:4.13-14)
 Patrae | | | PLACE | 
 Apostle Andrew crucified in (139:1.12)
 
-patriarchy | | See family: patriarchal families | | 
+patriarchy | | family: patriarchal families | | 
 
-patriotism | | See also nationalism | | 
+patriotism | | nationalism | | 
 all nations disintegrate without (81:6.35)
 difficult issue for spiritual leaders (127:2.6)
 formal, unemotional Roman patriotism doomed to collapse (98:3.5)
@@ -664,7 +658,7 @@ tentmaker (89:3.6)
 
 peace | | | | 
 social peace
-	among religionists | See also spiritual unity; tolerance
+	among religionists | spiritual unity; tolerance
 		cf: cannot exist between light and darkness, truth and error (175:1.2)
 		cf: division and turmoil result when men reject gospel (150:4.3) (165:6.3) (180:0.2) (180:6.1)
 		cf: inevitable clash between religion of spirit and of authority (173:3.3)
@@ -682,7 +676,7 @@ social peace
 	will come once man is convinced it is best for his material welfare (70:2.20)
 	without God, nothing leads to (195:8.12)
 	without sacrifice of free personality, spiritual originality (141:5.1)
-spiritual peace | See also happiness; joy
+spiritual peace | happiness; joy
 	at any price does not foster survival (133:7.12)
 	attained
 		as fruit of the Spirit (34:6.13) (56:10.20) (193:2.2)
@@ -741,14 +735,14 @@ Jesus delivered injured boy to parents in (137:0.1) (137:1.1,4)
 John baptized Jesus at (135:8.3)
 John the Baptist’s arrival at (134:9.8)
 
-penance | | See also repentance | | 
+penance | | repentance | | 
 negative form of ritual of renunciation (89:3.3)
 
 Pennsylvania | (58:7.4) (59:5.17) (61:7.2,9) | | PLACE | 
 
-pensions | | See retirement | | 
+pensions | | retirement | | 
 
-Pentecost (bestowal of Spirit of Truth) | | See also Judaism: feasts; Spirit of Truth | | 
+Pentecost (bestowal of Spirit of Truth) | | Judaism: feasts; Spirit of Truth | | 
 act of intelligent self-surrender, consecration (194:3.16)
 Adjusters have been bestowed upon all normal minds ever since (108:2.3) (146:3.6)
 all rebel midwayers interned on day of (77:7.2,8)
@@ -834,20 +828,20 @@ Voices of Wisdom, Souls of Philosophy, and Unions of Souls are reflective associ
 with associates, are highest source of truth on evolutionary planets (19:2.6)
 wrote Papers 11–14, 20, 21, 26, 27 (11:9.9) (12:9.7) (13:4.8) (14:6.42) (20:10.5) (21:6.5) (26:11.9) (27:7.11)
 
-perfume | | See ointment | | 
+perfume | | ointment | | 
 
-periodic table | | See also elements (chemical) | | 
+periodic table | | elements (chemical) | | 
 properties recur in groups of 7 (42:9.2-3)
 
 periwinkles | (59:2.12) | | | 
 
-perjurers | | See also lying | | 
+perjurers | | lying | | 
 soldiers and guards bribed to say disciples took Jesus’ body (189:2.4)
 testimony against Jesus fell in own entanglements (184:3.8)
 
-permanent citizens | | See corps of permanent citizens | ORDER | 
+permanent citizens | | corps of permanent citizens | ORDER | 
 
-Permian | | See also geologic ages | | 
+Permian | | geologic ages | | 
 age of biological tribulation; from 170 to 150 million years ago (59:6)
 
 Perpetua | (145:3.5) | | PERSON | 
@@ -871,9 +865,9 @@ power in way early Christians died from (195:3.4)
 progress always final harvest of (140:5.21)
 world will not treat believers better than it did Jesus (157:6.8)
 
-perseverance | | See persistence | | 
+perseverance | | persistence | | 
 
-Persia | | See Iran; Persians | PLACE | 
+Persia | | Iran; Persians | PLACE | 
 
 Persian Gulf | | | PLACE | 
 Dravidian shipping on (79:3.7)
@@ -881,7 +875,7 @@ island in Persian Gulf proposed for Garden of Eden (73:3.1)
 Ur located on (78:8.2)
 vestiges of Dalamatia exist under waters of (78:7.7)
 
-Persians | | See also Iran | RACE | 
+Persians | | Iran | RACE | 
 freed Jews from Babylon (97:10.2)
 triad gods (104:0.3)
 
@@ -908,12 +902,12 @@ Paradise-origin beings aware of presence of (24:3.3)
 traverse space like Solitary Messengers (24:3.2)
 tremendous endowment of antigravity (24:0.10)
 
-personality | (112) (1:6) (16:8) | See also creatures; identity; mortals; personality circuit; self; Third Source personalities | | 
+personality | (112) (1:6) (16:8) | creatures; identity; mortals; personality circuit; self; Third Source personalities | | 
 always respect (159:3.2)
 and reality (112:1)
 anthropomorphic Yahweh of greater religious value than remote Absolute (94:11.12)
 ascenders never lose power to recognize former associates (44:0.18)
-association yields square of personalities involved (10:5.2) (68:1.4) (133:5.1) | See also groups
+association yields square of personalities involved (10:5.2) (68:1.4) (133:5.1) | groups
 betrayal and disloyalty to confiding friends most destructive of personality status (67:1.3)
 characteristics (9:8.12)
 	14 things known about personality (112:0.2-16)
@@ -1014,7 +1008,7 @@ mortal personality
 mystery (5:6.2) (9:8.10)
 nonexistent if men were machines (195:6.13)
 not fully mobilized, realized, and unified until given clearance given for Edentia (47:10.6)
-of God | See also God; Universal Father
+of God | God; Universal Father
 	clearly taught at Salem (97:0.2)
 	consists in spirit; manifests as love (4:4.6)
 	grasped only by spiritual insight (1:5) (1:6.4)
@@ -1035,8 +1029,8 @@ personality forms
 	spirit forms approximate complete identification with inner person (42:12.11) (112:6.3)
 	spirit forms as real and discernible as morontia bodies (30:4.20) (42:12.10)
 	survivor’s initial morontia form sponsored by guardian seraphim and Morontia Power Supervisors (30:4.15) (42:12.11)
-personality gravity | See personality circuit
-prepersonal entities | See Thought Adjusters: nature of Adjusters
+personality gravity | personality circuit
+prepersonal entities | Thought Adjusters: nature of Adjusters
 privacy of personality respected by Creators (18:1.4-6)
 registers (30:1-2)
 relationships between personality are ends in themselves (112:2.8) (112:5.22)
@@ -1055,7 +1049,7 @@ uniting with Supreme, man does not submerge his (117:5.5)
 upon sincerity of mortal free will Adjuster depends for (112:5.5)
 Van achieved highest personality realization (67:3.9)
 
-personality circuit | | See also personality | | 
+personality circuit | | personality | | 
 bosom of Father (5:2.2)
 centered in Father (5:6.11) (11:1.4)
 dispatches worship to Father (5:3.2) (5:6.11)
@@ -1067,7 +1061,7 @@ personality gravity is noncomputable (12:3.12)
 personality responds to (0:6.1) (9:8.8) (12:3.1) (16:8.19) (16:9.14) (30:1.113) (112:0.8)
 Third Source personality beings are not in Father’s personality circuit (9:8.6-12)
 
-Personalized Adjusters | (40:4) (109:6-7) (109:7) | See also Thought Adjuster of Jesus; Thought Adjusters | ORDER | 
+Personalized Adjusters | (40:4) (109:6-7) (109:7) | Thought Adjuster of Jesus; Thought Adjusters | ORDER | 
 3 very active on Urantia; one certifies plan for each human being (109:7.7) (110:2.1)
 assigned to worlds following bestowal of Paradise Son (108:3.4)
 chiefs of their kind (20:4.3)
@@ -1089,7 +1083,7 @@ unassigned sovereign stabilizers and compensators of universes (109:7.2)
 values of nonsurviving human subjects become possession of (109:6.2)
 visible to beings who have attained Father (107:4.5)
 
-persons | | See also creatures; mortals; personality | | 
+persons | | creatures; mortals; personality | | 
 God no respecter of (1:4.6) (2:3.1) (12:7.1,8) (40:10.13) (133:0.3) (137:8.6) (138:8.2) (140:3.16) (143:1.5) (148:6.2) (155:6.2) (156:2.4) (166:4.11) (175:2.1-3) (181:2.14) (192:2.2)
 
 perspective | (118:10.13) | | | 
@@ -1127,16 +1121,16 @@ employ persuasion to change minds, not compulsion (178:1.12)
 Peru | | | PLACE | 
 traces of Andite blood reached (79:5.9)
 
-pervaded space | | See space: pervaded space | | 
+pervaded space | | space: pervaded space | | 
 
-pessimism | | See also optimism | | 
+pessimism | | optimism | | 
 proves universe not wholly material (195:7.8)
 pursuit of mere knowledge leads to (195:6.3)
 
 pet evil | | | | 
 almost every human being has a (163:2.7)
 
-Peter | | See Simon Peter | PERSON | 
+Peter | | Simon Peter | PERSON | 
 
 petition | | | | 
 privilege of petition inherent in free citizenship (71:2.15-16)
@@ -1149,7 +1143,7 @@ defense against evil eye (87:5.5)
 Pharisee and publican | | | | 
 parable of (140:5.7) (167:5.1-2)
 
-Pharisees | | See also Judaism; rabbis; Sanhedrin; scribes | RELIGION | 
+Pharisees | | Judaism; rabbis; Sanhedrin; scribes | RELIGION | 
 3 resigned during trial of Jesus (184:5.8)
 almost all Sanhedrists espousing Jesus were (184:1.1) (184:3.5)
 asked John the Baptist if he were Elijah (135:9.4)
@@ -1208,9 +1202,9 @@ Lazarus was treasurer of church at (168:5.3) (171:1.5) (172:2.4)
 Nathaniel lived at Philadelphia for 1 year (193:6.4)
 synagogue never subject to Jerusalem (166:5.1)
 
-philanthropy | | See charity | | 
+philanthropy | | charity | | 
 
-Philip (Apostle) | (141:3.2) (143:3.5) (144:1.7) (178:2.6-8) (191:0.9) (192:4.7) | See also apostles of Jesus | PERSON | 
+Philip (Apostle) | (141:3.2) (143:3.5) (144:1.7) (178:2.6-8) (191:0.9) (192:4.7) | apostles of Jesus | PERSON | 
 accomplishments
 	converted Anaxand in Caesarea (130:2.5)
 	failed as steward only a few times (181:2.20)
@@ -1274,8 +1268,8 @@ philosopher in Ephesus | (133:6.4-7) | | |
 philosopher’s stone | | | | 
 belief led to mastery of metals (88:6.5)
 
-philosophy | (103:6-9) | See also masters of philosophy; science, philosophy, and religion | | 
-and religion (101:7.4) (103:1.5) | See also theology
+philosophy | (103:6-9) | masters of philosophy; science, philosophy, and religion | | 
+and religion (101:7.4) (103:1.5) | theology
 assumes reality of body, mind and soul (101:5.5-8)
 base on insights of cosmic mind (16:6.10)
 blunder to oversimplify reality; approach higher from lower (19:1.5-12)
@@ -1289,7 +1283,7 @@ highest attainable philosophy based on science, faith, and revelation (103:6.15)
 is to religion as conception is to action (98:2.12)
 lower planes of mota join higher levels of (48:7.1)
 Nalda dodged issue of salvation with (143:5.5-7)
-named philosophies | See asceticism; atheism; communism; creationism; Cynicism; determinism; Epicureanism; fatalism; humanism; idealism; internationalism; materialism; mechanism (theory); metaphysics; militarism; nationalism; natural philosophy; negativism; nonresistance; original sin doctrine; patriotism; philosophy; Platonism; rationalism; secularism; skepticism; stoicism
+named philosophies | asceticism; atheism; communism; creationism; Cynicism; determinism; Epicureanism; fatalism; humanism; idealism; internationalism; materialism; mechanism (theory); metaphysics; militarism; nationalism; natural philosophy; negativism; nonresistance; original sin doctrine; patriotism; philosophy; Platonism; rationalism; secularism; skepticism; stoicism
 posits a God of universal unity (5:5.3)
 relieve by poetry (143:7.3)
 religion is mother of (5:5.5)
@@ -1333,18 +1327,18 @@ only 14 have appeared (65:2.11)
 phylacteries | | | | 
 making broad (175:1.9)
 
-physical controllers | | See Master Physical Controllers | | 
+physical controllers | | Master Physical Controllers | | 
 
-physical energy | | See material energy | | 
+physical energy | | material energy | | 
 
 physical-energy manipulators | | | | 
 energy manipulator celestial artisans; assist Morontia Power Supervisors (44:5.2)
 
-physical matter | | See matter | | 
+physical matter | | matter | | 
 
-physical nature | | See flesh | | 
+physical nature | | flesh | | 
 
-physicians | | See also disease; injury; medicine | | 
+physicians | | disease; injury; medicine | | 
 Elman, supervised Bethsaida hospital (148:0.1) (148:2)
 Luke (121:8.8)
 refrain from despising material means of healing (164:3.15)
@@ -1365,7 +1359,7 @@ Joseph offered 2 for temple sacrifice (122:10.2)
 
 Pikes Peak | (60:4.4) | | PLACE | 
 
-Pilate, Pontius | | See Pontius Pilate | PERSON | 
+Pilate, Pontius | | Pontius Pilate | PERSON | 
 
 pilgrim guardians | | | ORDER | 
 Morontia Companions; co-ordinators of all morontia ministers (48:3.7)
@@ -1402,20 +1396,20 @@ Pisidia | (121:8.8) | | PLACE |
 Pitcairn experiment | | | | 
 successful race blending (82:6.9)
 
-pituitary glands | | See also hormones | | 
+pituitary glands | | hormones | | 
 imagination and spiritual receptivity influenced by (49:5.19)
 
-pity | | See sympathy | | 
+pity | | sympathy | | 
 
 placation | | | | 
 of ghosts preceded coercion, supplication, conciliation, and propitiation (87:2.1) (89:4.4) (90:0.1)
 
-Planetary Adams | | See Adam; Material Sons of God | ORDER | 
+Planetary Adams | | Adam; Material Sons of God | ORDER | 
 
 planetary commission of seventy | | | | 
 Edentia group approving planetary life-initiation plans (57:8.9)
 
-planetary council on art and science | | See Caligastia one hundred | PERSON | 
+planetary council on art and science | | Caligastia one hundred | PERSON | 
 
 planetary custodians | | | ORDER | 
 70 in charge of each morontia sphere (48:2.18)
@@ -1423,7 +1417,7 @@ in Uversa personality register (30:2.111)
 Morontia Power Supervisors; grant morontia forms to all morontia progressors (48:2.18)
 
 planetary epochs | (52) (49:5.21-28) | | | 
-1st – pre-Planetary Prince era (52:1) | See also mortals: primitive mortals
+1st – pre-Planetary Prince era (52:1) | mortals: primitive mortals
 	6 colored races appear; language develops (52:1.1-2)
 	emergence from animal level; lasts from 150,000 to 1,000,000 years (52:1.1)
 	long, dark, and bloody chapter (52:1.4)
@@ -1472,7 +1466,7 @@ planetary epochs | (52) (49:5.21-28) | | |
 	Michael’s bestowal on Urantia (52:5.2)
 	on Urantia (52:6)
 	world-wide pursuit of moral culture, spiritual truth (52:5.3)
-6th – post-Teacher Son era (52:7) | See also light and life
+6th – post-Teacher Son era (52:7) | light and life
 	4th mansonia comparable to (47:6.4)
 	conclusion of Teacher Sons’ missions mark entrance upon light and life (52:7.10,14)
 	government vanishes (52:7.5)
@@ -1497,13 +1491,13 @@ epochs of planetary development (50:5.3-11)
 	6th – spiritual striving (50:5.9)
 	7th – light and life (50:5.10)
 Father will send another bestowal at end of dispensation (176:2.5)
-light and life | See light and life
+light and life | light and life
 no arbitrary time limits regarding (52:5.8)
 practice to send forth advance groups to prepare way for subsequent epochs (56:7.5)
 sleeping survivors enter upon eternal ascent at end of each dispensation (30:4.11) (193:0.5)
 Urantia’s normal sequence deranged by Michael’s incarnation (20:4.4-5)
 
-planetary helper seraphim | (39:5) | See also seraphim | ORDER | 
+planetary helper seraphim | (39:5) | seraphim | ORDER | 
 1/3 lost in Lucifer rebellion (53:7.7)
 5th order seraphim (51:3.5)
 always accompany Planetary Adams; usually number 100,000 (39:5) (51:3.5)
@@ -1519,16 +1513,16 @@ types
 	# recorders (39:5.16)
 	# reserves (39:5.17)
 
-planetary physical types | | See mortals: planetary types | | 
+planetary physical types | | mortals: planetary types | | 
 
-Planetary Prince of Urantia | | See also Planetary Princes | PERSON | 
+Planetary Prince of Urantia | | Planetary Princes | PERSON | 
 Caligastia was; deposed (66) (179:2.3) (189:3.3)
 Immanuel’s commission that Michael return as (120:2.2-3)
 late arrival (65:4.8-9)
 Machiventa Melchizedek is vicegerent (45:4.16) (55:7.3) (93:10.5-6) (114:1.2-4)
 Michael is (45:4.16) (114:0.8) (114:1.1) (136:3.1) (176:4.4)
 
-Planetary Princes | (50) (35:9) (134:8.6) (136:3.1) (189:3.3) | See also corporeal staffs of Planetary Princes; Lanonandek Sons; Planetary Prince of Urantia; Planetary Sovereigns | ORDER | 
+Planetary Princes | (50) (35:9) (134:8.6) (136:3.1) (189:3.3) | corporeal staffs of Planetary Princes; Lanonandek Sons; Planetary Prince of Urantia; Planetary Sovereigns | ORDER | 
 37 seceded in Lucifer rebellion (53:7.1)
 administrations (50:2-4)
 arrival
@@ -1555,7 +1549,7 @@ nearest personal approach of Eternal Son aside from incarnation (50:1.1)
 no high trust deemed more sacred than that reposed in (67:1.3)
 permanently attached to planets of original assignment (50:5.1)
 Planetary Princes on neighboring planet defaulted (72:0.3)
-rebellion by Planetary Princes in Nebadon (35:9.6-10) (50:1.3) | See also rebellion (spiritual)
+rebellion by Planetary Princes in Nebadon (35:9.6-10) (50:1.3) | rebellion (spiritual)
 rebellion by Planetary Princes instantly isolates planet (35:9.9)
 regimes are identical (49:5.18)
 secondary Lanonandeks; number 10,234,601 in Nebadon (35:8.5)
@@ -1571,13 +1565,13 @@ united administrations with Planetary Adams (51:7.2)
 planetary sentinels | | | | 
 midwayers who patrol the spirit realm of the planet (77:8.7)
 
-Planetary Sovereigns | | See also Planetary Princes | ORDER | 
+Planetary Sovereigns | | Planetary Princes | ORDER | 
 become members of system conclave in system light and life (55:8.1)
 bestowal Son proclaims Planetary Princes as Planetary Sovereigns in light and
 life (50:5.11) (51:7.2) (52:7.10) (55:1.1) (55:7.1)
 invisible to mortals except in morontia temple (55:7.2)
 
-planets | | See also Monmatia; space bodies | PLACE | 
+planets | | Monmatia; space bodies | PLACE | 
 all creatures inhabit material abodes (11:0.1) (12:8.1) (14:2.1) (14:4.11)
 all mortal-inhabited planets are evolutionary (32:3.2) (49:0.1)
 cold accretion planets in good relationship to a sun are best for life (15:6.14)
@@ -1604,7 +1598,7 @@ origins (41:10) (57:5-7)
 	near approach of great mass to a sun (15:5.5) (41:10.1) (57:5)
 	retrograde motion always result of foreign space bodies (57:5.14)
 	sun fission (15:5.7)
-series one, two, and three | See mortals: planetary types
+series one, two, and three | mortals: planetary types
 suitability for life
 	all planets made to be eventually inhabited (1:0.2)
 	not 1 in 40 suitable for habitation (15:6.14-16)
@@ -1616,35 +1610,35 @@ System Centers dispatch power to inhabited (29:2.18)
 plans | | | | 
 begun in time will be finished in eternity – if worth finishing (111:3.7)
 cooperation is planning with other and wiser beings (39:4.10)
-God’s plan | See divine plan; will of God
+God’s plan | divine plan; will of God
 implementation in ideas, stereotypes, and decisions (101:7.1)
 overplanning can defeat itself (160:4.11)
 suffer less by making fewer personal plans concerning others (48:6.36)
 thwarted by conspiracy of events (154:6.10)
 
-plants | | See also agriculture | | 
+plants | | agriculture | | 
 association with plants instills patience, quiet, peace (68:5.9,11)
 evolution of spore-bearing plants into seeds (59:5.22) (65:6.3)
 evolution required appearance of many apparently useless forms; destined to pass (36:2.17)
 flowering plants suddenly appeared in Cretaceous (60:3.)
 lower forms wholly responsive to physical, chemical, and electrical environment (65:6.7)
 most important step in evolution was chlorophyll making (65:6.3)
-named | See algae; aloes; angiosperms; anise; apple; bacteria; barley; beeches; birches; breadfruit trees; cereals; citron; cocoa; conifers; cumin; ferns; fig tree; fungi; grapes; grass; Hydra; magnolias; maples; mint; mustard seed; myrrh; oaks; oats; oranges; palms; pines; redwoods; rice; seaweed; seeds; sequoias; slime; stone lilies; sycamores; tulip trees; viruses; Volvox; walnuts; weeds; wheat
+named | algae; aloes; angiosperms; anise; apple; bacteria; barley; beeches; birches; breadfruit trees; cereals; citron; cocoa; conifers; cumin; ferns; fig tree; fungi; grapes; grass; Hydra; magnolias; maples; mint; mustard seed; myrrh; oaks; oats; oranges; palms; pines; redwoods; rice; seaweed; seeds; sequoias; slime; stone lilies; sycamores; tulip trees; viruses; Volvox; walnuts; weeds; wheat
 old superstition that women could raise better (84:3.6)
 once fetishes, taboo as food (88:1.3)
 pure energy growth on morontia worlds (43:6.6)
 spore-bearing plants nearly extinct after Permian (60:0.2)
 worship of (85:2.1-2)
 
-plasm | | See life plasm | | 
+plasm | | life plasm | | 
 
 platinum | (63:5.6) | | | 
 
-Plato | | See also Platonism | PERSON | 
+Plato | | Platonism | PERSON | 
 Greek; taught that virtue is knowledge; suffer rather than be guilty of injustice (98:2.6)
 not a religious teacher (92:5.12)
 
-Platonism | | See also Greece: Greek religion; Plato | RELIGION | 
+Platonism | | Greece: Greek religion; Plato | RELIGION | 
 4 great philosophies derived from (121:4.1)
 4th Book of Maccabees exemplifies (121:6.3)
 adapted into Christianity (146:1.3)
@@ -1654,12 +1648,12 @@ Jesus’ comments on (130:4.1) (133:5.2)
 natural is unreal shadow of spirit realities (151:3.3) (170:5.2)
 tolerated belief in reincarnation (164:3.4)
 
-play | | See recreation | | 
+play | | recreation | | 
 
 play builders | | | | 
 divine builders, celestial artisans (44:3.4)
 
-pleasures | | See also recreation; self-gratification | | 
+pleasures | | recreation; self-gratification | | 
 maturity substitutes higher meanings for (100:1.1)
 morontia world has thousands of spirit realities in counterpart to material pleasures (44:3.1)
 physical pleasures
@@ -1675,16 +1669,16 @@ physical pleasures
 recalling past experiences provides pleasures (48:4.10,20)
 satisfactions of happiness (3:5.14)
 
-Pleistocene | | See also geologic ages | | 
+Pleistocene | | geologic ages | | 
 ice age; 2 million to 100,000 years ago (61:5-7)
 
-Pliocene | | See also geologic ages | | 
+Pliocene | | geologic ages | | 
 mammal migration era; 10 to 1 million years ago (61:4)
 
 plough | | | | 
 having put one’s hand to p., cannot turn back (163:2.3)
 
-plumbing | | See also sanitation | | 
+plumbing | | sanitation | | 
 Cretan Andites used plumbing ca. 12,000 B.C. (80:7.2)
 
 poetry | | | | 
@@ -1718,7 +1712,7 @@ complemental relationships of ministering spirits (26:1.16)
 Pole Star | | | | 
 sloping entrance of great pyramid pointed to (95:2.7)
 
-poles, magnetic | | See magnetism | | 
+poles, magnetic | | magnetism | | 
 
 poles of space communication | | | PLACE | 
 Ancients of Days occupy point of spiritual polarity on Uversa (18:3.6)
@@ -1726,7 +1720,7 @@ on Urantia (62:7.2) (189:3.2)
 reflective focus on Uversa not same as spiritual focus (17:3.1)
 space reports received at; seraphic transports depart from (39:5.13-15)
 
-police | | See also government; regulation (governmental) | | 
+police | | government; regulation (governmental) | | 
 a few police can restrain a mob (68:1.4)
 are bachelors in continental nation (72:7.5)
 international police force may prevent minor wars (134:5.10)
@@ -1736,20 +1730,20 @@ religion has been moral police force of all time (92:3.9)
 secret societies functioned as secret (70:7.15-16)
 shamans were first officers of the law (70:10.5)
 
-politics | |  See government | | 
+politics | |  government | | 
 
-polyandry | | See marriage: among primitives | | 
+polyandry | | marriage: among primitives | | 
 
-polygamy | | See marriage: among primitives | | 
+polygamy | | marriage: among primitives | | 
 
-polygyny | | See marriage: among primitives | | 
+polygyny | | marriage: among primitives | | 
 
 Polynesia | | | PLACE | 
 Andite sailors biologically modified (78:5.7)
 islands more numerous and larger in days of Andites (78:5.7)
 racial composition (79:6.3)
 
-polytheism | | See also religion | | 
+polytheism | | religion | | 
 commandment in Dalamatia against (66:7.9)
 monotheism in the making (5:4.2,9)
 
@@ -1797,11 +1791,11 @@ greater numbers receive gospel (143:1.5) (166:4.3)
 Jesus blessed poor because usually sincere and pious (196:2.8)
 minister to, share with, the poor (147:8.3) (167:1.5) (192:2.2)
 
-poor in spirit | | See humility | | 
+poor in spirit | | humility | | 
 
 poor man falsely accused | (132:4.8) | | | 
 
-populace | | See also public opinion | | 
+populace | | public opinion | | 
 a few police can restrain an angry mob (68:1.4)
 beware of fickleness of (185:5.5)
 clamored for release of Barabbas (185:5.4-11)
@@ -1827,7 +1821,7 @@ overpopulation
 stationary in light and life (55:6.3)
 varies inversely with given standard of living (68:6.3)
 
-pork | | See swine | | 
+pork | | swine | | 
 
 Porogia | | | PLACE | 
 system immediately neighboring Satania (41:2.1)
@@ -1848,34 +1842,34 @@ neighboring universe to Nebadon (32:2.12)
 porters | | | | 
 ruler of blue race once had 100,000 (81:2.12)
 
-position | See status
+position | status
 
-positive | | See also optimism | | 
+positive | | optimism | | 
 always has advantage over negative (102:6.7)
 Jesus’ religion was (159:5)
 
-possession | | See demon possession | | 
+possession | | demon possession | | 
 
-possessions | | See also private property; wealth | | 
+possessions | | private property; wealth | | 
 disciples required to dedicate all they had (171:2.4)
 held in common by early church; led to disaster (194:4.2,7)
 man’s life consists not in abundance of (165:4.1)
 many ancients regarded possessions as spiritual handicap (89:3.2)
 when man gives God all that he has, God makes him more than he is (117:4.14)
 
-post-Adamic era | | See planetary epochs | | 
+post-Adamic era | | planetary epochs | | 
 
-post-Bestowal Son era | | See planetary epochs | | 
+post-Bestowal Son era | | planetary epochs | | 
 
-post-Magisterial Son era | | See planetary epochs | | 
+post-Magisterial Son era | | planetary epochs | | 
 
-post-Planetary Prince era | | See planetary epochs | | 
+post-Planetary Prince era | | planetary epochs | | 
 
-post-Teacher Son era | | See planetary epochs
+post-Teacher Son era | | planetary epochs
 
-postulates | | See theories | | 
+postulates | | theories | | 
 
-Potential, the | | See also Absolutes: the three | | 
+Potential, the | | Absolutes: the three | | 
 that which is becoming (115:3.11)
 
 potentials | | | | 
@@ -1887,11 +1881,11 @@ what is to be are the purposive mandates of Deity (102:5.1)
 
 potholes | (61:7.1) | | | 
 
-potters | | See also pottery | | 
+potters | | pottery | | 
 first group specialists were (69:3.10)
 Nathan of Nazareth was; Jesus wished to become (123:5.15)
 
-pottery | | See also potters | | 
+pottery | | potters | | 
 Cretan Andites made pottery ca. 12,000 B.C. (80:7.2)
 Danubians (80:8.4)
 early commerce in (79:1.4) (80:1.2)
@@ -1906,13 +1900,13 @@ ghost cult origin of rooster on weather vane (87:6.11)
 illegal to keep poultry inside Jerusalem (184:2.10)
 Jesus would gather brood like a hen (171:4.7) (175:1.23)
 
-pounds | | See also money | | 
+pounds | | money | | 
 parable of pounds spoken exclusively to apostles (171:8)
 
-poverty | | See also wealth | | 
+poverty | | wealth | | 
 abhorred by ancients (69:5.12)
 absence of ideals in national leaders explains (111:4.10)
-avoiding | See achievement; earning a living
+avoiding | achievement; earning a living
 culture never develops under conditions of (81:6.6)
 improvident depend on the state (thrifty taxpayers) (69:9.5)
 lot of those who seek wealth in isolated channels (160:4.10)
@@ -1920,17 +1914,17 @@ man’s natural estate (69:2.2)
 none in light and life (55:5.2)
 part of ritual of mortification of flesh (89:3.2-3)
 should not be tolerated (71:3.8)
-spiritual poverty | See humility
+spiritual poverty | humility
 widespread in times of Jesus (121:1.8)
 
 power | | | | 
 always stimulates religious feelings (92:1.4)
 knowledge is power (81:6.9)
 our power is through renewing of Spirit (34:6.5)
-physical power | See also energy
+physical power | energy
 	designates electronic level of linear-gravity responsive matter (0:6.2)
 	term denotes postgravity stages of energy (29:2.15) (42:2.1)
-	universe power | See gravita
+	universe power | gravita
 position
 	all power given to Jesus (138:7.1)
 	experiential power is earned power, eternity power is not (106:2.3)
@@ -1942,21 +1936,21 @@ tendency to bow down before power (89:4.1)
 there is no power but of God (3:2.1)
 they who wait upon the Lord shall renew their strength (97:7.8) (131:2.6)
 
-power centers | | See Supreme Power Centers | ORDER | 
+power centers | | Supreme Power Centers | ORDER | 
 
-power supervisors | | See Morontia Power Supervisors | ORDER | 
+power supervisors | | Morontia Power Supervisors | ORDER | 
 
-power transformers | | See energy transformers | ORDER | 
+power transformers | | energy transformers | ORDER | 
 
-Powers of Paradise | | See Deity | ORDER | 
+Powers of Paradise | | Deity | ORDER | 
 
-practicalities | | See also circumstances | | 
+practicalities | | circumstances | | 
 of daily life managed by agencies of Infinite Spirit (5:3.5)
 
 praetorium | | | | 
 addition to fortress of Antonia; Jesus’ trial in (185:0.2) (185:5.1) (186:4.1) (187:0.4)
 
-praise | | See also flattery; recognition; worship | | 
+praise | | flattery; recognition; worship | | 
 encouragement by judicious (139:1.10)
 Jesus uninfluenced by (141:7.12)
 seek only what belongs to you (156:5.19)
@@ -1964,7 +1958,7 @@ seek only what belongs to you (156:5.19)
 Prajapati | | | | 
 Vedic deity-father principle (94:1.4)
 
-prayer | (143:7) (144:2) (168:4) | See also meditation; spiritual communion; worship | | 
+prayer | (143:7) (144:2) (168:4) | meditation; spiritual communion; worship | | 
 defined as
 	asking God for wisdom and strength while attacking problems at hand (91:6.5)
 	best technique to contact God (91:6.7)
@@ -2095,18 +2089,18 @@ primitive prayer
 prayer of identification | | | | 
 differentiates local universe Mother Spirit (17:6.5)
 
-pre-Sumerians | | See Sumerians | RACE | 
+pre-Sumerians | | Sumerians | RACE | 
 
-preaching principles | | See gospel: proclaiming | | 
+preaching principles | | gospel: proclaiming | | 
 
-precedent | | See also law | | 
+precedent | | law | | 
 adapts written laws to changing conditions (70:11.7)
 
 precipice | | | | 
 hirelings minded to shove Jesus off (150:9.3)
 Jesus could have cast himself off without harm (136:7.1)
 
-predestination | (118:7) | See also omniscience; will | | 
+predestination | (118:7) | omniscience; will | | 
 cycle is foreordained; man’s participation is optional (112:5.2)
 mortals are subjects of p., but may reject any part (110:2.1)
 supreme correlation of all past, present, and future choice; does not invalidate free will (118:7.2)
@@ -2121,10 +2115,10 @@ preference | | | |
 apostles’ desire for (138:7.1) (158:4.4) (158:6.2-3) (158:8.1) (171:0.6) (171:3.9) (179:1)
 refrain from seeking preference between groups (179:5.7)
 
-pregnancy | | See also midwifery | | 
+pregnancy | | midwifery | | 
 primitives believed preference resulted from spirit entering woman (84:1.3)
 
-prejudice | | See also intolerance; judgment: by man | | 
+prejudice | | intolerance; judgment: by man | | 
 abandon (160:1.7) (170:2.21)
 blinds, seals souls (157:2.2) (162:7.3)
 celestial government uniformly free from (49:5.18)
@@ -2139,29 +2133,29 @@ prejudice inhibits
 	creative imagination (111:4.9)
 	growth (100:1.2)
 
-prelife era | | See also geologic ages | | 
+prelife era | | geologic ages | | 
 Archeozoic, from 1 billion to 550 million years ago (59:0.2) (78:7.4)
 
-prepersonal entities | | See Thought Adjusters: nature of Adjusters | | 
+prepersonal entities | | Thought Adjusters: nature of Adjusters | | 
 
-presence circuits | | See circuits | | 
+presence circuits | | circuits | | 
 
 presence embellishers | | | | 
 designers and embellishers of celestial artisans; dramatize significance of relationship (44:6.7)
 
-presence of God | | See God: consciousness of God | | 
+presence of God | | God: consciousness of God | | 
 
-present | | See also perspective | | 
+present | | perspective | | 
 interpret in light of correlated past and future (19:1.11)
 trivial when divorced from past and future (160:2.9)
 
-presentiments | | See leadings | | 
+presentiments | | leadings | | 
 
-pressure | | See also compulsion | | 
+pressure | | compulsion | | 
 does not save, ennoble, or stimulate growth (103:5.11)
 should develop stability and certainty (48:6.35)
 
-prestige | | See honor | | 
+prestige | | honor | | 
 
 presumption | | | | 
 courage and faith can lead unthinking men to recklessness (149:4.4)
@@ -2170,12 +2164,12 @@ Jesus’ faith wholly free of (196:0.14)
 Peter’s presumption caused trouble (139:2.3) (181:2.27)
 recklessness of blind presumption (100:7.15)
 
-pretense | | See affectation | | 
+pretense | | affectation | | 
 
 preventive detention | | | | 
 in continental nation (72:10.2)
 
-pride | | See also honor; self-importance; self-respect | | 
+pride | | honor; self-importance; self-respect | | 
 arrogance may evolve into sin (111:6.2)
 commendable in family, reputation, and nation if not carried too far (139:6.3)
 contemplating God, self-glorification is ridiculous (48:4.15)
@@ -2196,7 +2190,7 @@ resist not injury to feelings of personal dignity (141:3.8)
 subtleties of spiritual pride (163:6.6)
 wisdom of recognizing one’s insignificance (131:8.6)
 
-priests | (90:5.4-8) | See also religion | | 
+priests | (90:5.4-8) | religion | | 
 awe common people by conducting ritual in ancient tongue (90:5.6)
 call no man Father in spiritual sense (175:1.10)
 celibate due to baseness of woman (84:4.4)
@@ -2218,7 +2212,7 @@ women entitled to perform religious service (194:3.14)
 priest’s title | | | | 
 placed land under protection of taboos (69:9.13)
 
-primary associators | | See also Master Physical Controllers; Universe Power Directors | ORDER | 
+primary associators | | Master Physical Controllers; Universe Power Directors | ORDER | 
 first group to appear on organizing material spheres (29:4.34)
 in Uversa personality register (30:2.105)
 living catalytic agents; act by their presence (29:4.32)
@@ -2230,7 +2224,7 @@ type of Master Physical Controller (29:4.9)
 primary eruption | | | | 
 personalization of local universe Mother Spirit (17:6.7) (34:1.1)
 
-Primary Eventuated Master Force Organizers | | See Master Force Organizers | ORDER | 
+Primary Eventuated Master Force Organizers | | Master Force Organizers | ORDER | 
 
 Primates | (62:4) | | RACE | 
 Andonites assimilated better strains of (65:3.4)
@@ -2244,28 +2238,28 @@ skeletons very similar to primitive humans (62:4.4)
 threw stones; used clubs, spicules of flint, bone (63:1.2)
 walked upright, largely abandoned tree life; developed language (62:4.1-4)
 
-primitive mortals | | See mortals: primitive mortals | RACE | 
+primitive mortals | | mortals: primitive mortals | RACE | 
 
-primordial force | | See segregata | | 
+primordial force | | segregata | | 
 
 prince of darkness | | | PERSON | 
 Caligastia (179:2.3)
 
-prince of devils | | See devil | PERSON | 
+prince of devils | | devil | PERSON | 
 
 Prince of Peace | | | PERSON | 
 bestowal Son (52:6.1)
 Jesus (68:3.5) (93:10.7) (136:9.7) (137:8.7)
 Jews believed Messiah would reign over them as (97:10.1)
 
-Prince of Salem | | See also Melchizedek, Machiventa
+Prince of Salem | | Melchizedek, Machiventa
 Melchizedek who lived on Urantia (35:4.5)
 
-Prince of this world | | See Caligastia | PERSON | 
+Prince of this world | | Caligastia | PERSON | 
 
-Prince’s corporeal staff | | See Caligastia one hundred; corporeal staffs of Planetary Princes | PERSON | 
+Prince’s corporeal staff | | Caligastia one hundred; corporeal staffs of Planetary Princes | PERSON | 
 
-printing | | See also writing | | 
+printing | | writing | | 
 early appearance in China (79:8.7)
 Master’s teaching misinterpreted since exact words not remembered (180:2.4)
 progress slow before printing press (81:6.9,44)
@@ -2293,7 +2287,7 @@ privacy | | | |
 Creators respect privacy even of lowly creatures (18:1.4-6)
 none in primitive life (70:10.4)
 
-private property | (69:9) | See also capital; competition; possessions; wealth | | 
+private property | (69:9) | capital; competition; possessions; wealth | | 
 among primitives
 	brought increased liberty and stability (69:9.16)
 	first private property consisted of things personally touched (69:9.8)
@@ -2336,7 +2330,7 @@ supervised by 1000 Material Son and Daughter couples (45:6.9)
 survivors deficient in parental experience must qualify in probationary nursery, possibly with own children (45:6.6-8) (47:1.4-5)
 visitation by mortal parents (47:1.4-5)
 
-problem solving | | See also challenges; decisions; difficulties; opportunities | | 
+problem solving | | challenges; decisions; difficulties; opportunities | | 
 fringe of conflict must be traversed (159:3.7) (160:1.6)
 religion sorts, evaluates, and adjusts all problems (196:3.1)
 technique
@@ -2366,7 +2360,7 @@ prodigal son | | | |
 illustrates how loving father can long wait for repentance of erring child (54:4.2)
 parable of (169:1.5-16)
 
-profit | | See also capital; competition; private property | | 
+profit | | capital; competition; private property | | 
 early merchant class charged commission for services (69:3.11)
 Jesus detested profiteering (173:1.11)
 men entitled to fair and legitimate profit (132:5.17)
@@ -2377,7 +2371,7 @@ profit motive (71:6)
 	must not be taken away until unnecessary (71:6.3)
 	self-serving; incompatible with teachings of Jesus (71:6.1-3)
 
-progress | | See also achievement; change; evolution; goals; growth; spiritual growth; transition | | 
+progress | | achievement; change; evolution; goals; growth; spiritual growth; transition | | 
 characterized by increasing freedom (132:3.10)
 demands development of individuality (48:7.29)
 effected by revelational evolution (196:3.15)
@@ -2408,30 +2402,30 @@ static conditions indicate decay (71:4.1)
 valueless without growth (100:3.6)
 watchword of universe (4:1.2) (9:1.3)
 
-progress angels | | See master seraphim of planetary supervision | ORDER | 
+progress angels | | master seraphim of planetary supervision | ORDER | 
 
 progress helpers | | | ORDER | 
 spiritual midwayers who assist planetary seraphim (77:8.9)
 
-proletariat | | See populace | | 
+proletariat | | populace | | 
 
 Prometheus | | | PERSON | 
 stole fire from heaven (81:2.9)
 
-Promised Land | | See Palestine | | 
+Promised Land | | Palestine | | 
 
-promises | | See also duty; oaths; resolutions | | 
+promises | | duty; oaths; resolutions | | 
 ancients mistrusted promises regarding marriage; sought tangible guarantee (83:3.1)
 should be kept (157:1.2)
 
 promoters of oratory | | | | 
 thought recorders, celestial artisans (44:4.7)
 
-prophecies | | See also prophets; speculations; visions | | 
+prophecies | | prophets; speculations; visions | | 
 Imports of Time are secret of prophecy (28:6.11)
 John the Baptist uttered a prophecy (135:11.3)
 Melchizedek told Abraham of future occupation of Canaan by his offspring after Egypt (93:6.3)
-Messianic | See Messiah
+Messianic | Messiah
 of Urantia Papers
 	greater Gautama may arise to lead India (79:4.8)
 	more terrible destruction of secularism is yet to come (195:8.13)
@@ -2440,13 +2434,13 @@ of Urantia Papers
 prophetic artists | | | | 
 heavenly reproducers, celestial artisans (44:2.7)
 
-prophets | | See also prophecies | | 
+prophets | | prophecies | | 
 become living (147:8.5) (155:6.7)
 blood of prophets required of this perverse generation (166:1.5)
 celestial artisans portray spirit world to seers (44:2.11)
 desired to behold what 70 evangelists saw (163:6.4)
 false prophets in sheep’s clothing (140:3.19)
-individual prophets | See Amos; Daniel; Elijah; Elisha; Ezekiel; Ezra; Haggai; Hosea; Isaiah (first); Isaiah (second); Jeremiah; John the Baptist; John Zebedee; Malachi; Moses; Samuel
+individual prophets | Amos; Daniel; Elijah; Elisha; Ezekiel; Ezra; Haggai; Hosea; Isaiah (first); Isaiah (second); Jeremiah; John the Baptist; John Zebedee; Malachi; Moses; Samuel
 John the Baptist was greatest of old order (136:0.1)
 killed in Jerusalem (175:1.22-23)
 new school of (148:1)
@@ -2462,14 +2456,14 @@ work of prophets
 	taught God’s will; proclaimed righteousness and mercy of God (135:5.6) (138:8.8) (166:1.5)
 worshiped by primitives (85:6.2)
 
-propitiation | | See also atonement doctrine; sacrifice | | 
+propitiation | | atonement doctrine; sacrifice | | 
 attempts to buy off ill luck by bribery (87:6.2) (89:0.2)
 barbarous, erroneous idea (4:5.4) (188:4.1)
 included praise, flattery, even entertainment (89:4.7)
 life rendered miserable by ceremonies of (87:5.8)
 replaced sacrificial rites of avoidance, placation, and exorcism (89:0.2) (89:4.4) (90:0.1)
 
-proportions | | See comparisons | | 
+proportions | | comparisons | | 
 
 propriety | | | | 
 Jesus’ extraordinary sense of (100:7.3)
@@ -2479,7 +2473,7 @@ proselyte | | | |
 of the gate was uncircumcised, unbaptized Jew (142:4.1)
 Pharisees encompass land and sea to make one (175:1.13)
 
-prostitution | | See also sex: urge | | 
+prostitution | | sex: urge | | 
 at Sepphoris (125:1.2)
 at temple at Jerusalem (125:1.2)
 brothel was nefarious place of business (147:5.3) (150:2.2)
@@ -2504,14 +2498,14 @@ prodigal son squandered substance with harlots (169:1.12)
 sex slaves are disgrace (69:5.10)
 women’s corps preached in houses of (150:2.2)
 
-Proterozoic | | See also geologic ages | | 
+Proterozoic | | geologic ages | | 
 life-dawn era, 550 to 400 million years ago (58:7.1) (59:0.3)
 
 Protestant Reformation | | | | 
 disrupted unity of Christianity (92:5.15)
 inelasticity of church rendered further growth incompatible with unity (92:5.15)
 
-protons | (42:3.5) | See also atoms; matter | | 
+protons | (42:3.5) | atoms; matter | | 
 emitted from carbon atom in solar reaction (41:8.1)
 held in nucleus by reciprocating mesotron (42:8.3-4)
 more than 100 electrons in atom instantaneously disrupt the central protons (42:7.7)
@@ -2526,7 +2520,7 @@ Protozoa | (58:7.2) (65:2.4) | | |
 Proverbs, Book of | | | | 
 philosophy of Amenemope (95:4.3-5)
 
-providence | (76:6.4) (118:10) | See also accidents; circumstances; destiny; free will; spiritual influences | | 
+providence | (76:6.4) (118:10) | accidents; circumstances; destiny; free will; spiritual influences | | 
 all things work together for good (4:1.4,11) (10:7.5-6) (48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
 domain of Infinite Spirit and Supreme Being (4:1.10) (9:1.3)
 God many times thrusts a Father’s hand into human affairs (97:8.5) (118:10.6)
@@ -2619,7 +2613,7 @@ not ancestors of birds (60:2.12)
 Ptolemais | (128:3.2) (149:0.1) (152:7.3) (156:6.1) | | PLACE | 
 Jesus passed
 
-Ptolemies | | See Egypt | | 
+Ptolemies | | Egypt | | 
 
 Ptolemy | | | | 
 Greek King of Egypt; translated Hebrew scriptures into Greek (74:8.12)
@@ -2637,7 +2631,7 @@ Jesus refused to enter (132:4.5) (133:3.6)
 public builders | | | | 
 divine builders, celestial artisans (44:3.8-9)
 
-public opinion | | See also populace | | 
+public opinion | | populace | | 
 education of public opinion is only safe way to accelerate civilization (71:2.7)
 exaltation of common man’s collective ideas (88:3.4)
 fickleness of popular acclaim (152:6.2) (174:0.2) (177:5.2)
@@ -2645,7 +2639,7 @@ has always delayed society; must be nonviolent (71:2.7-8)
 Jesus was indifferent to public opinion (141:7.12) (161:2.8)
 law is codified public opinion (70:11.6) (70:12.3)
 
-public women | | See prostitution | | 
+public women | | prostitution | | 
 
 public work | | | | 
 apostles begin (141)
@@ -2662,7 +2656,7 @@ Pharisees referred to businessmen and tax gatherers as (138:3.4)
 
 Puget Sound | (61:5.8) | | PLACE | 
 
-puissant energy | | See also energy; ultimata | | 
+puissant energy | | energy; ultimata | | 
 Associate Master Force Organizers and Universe Power Directors transmute puissant energy to gravity-energy stage, ultimatons (29:5.5) (42:6.3)
 energy transmuting from exclusive grasp of Unqualified Absolute to gravity grasp of Paradise (29:5.5)
 first phase of transmutation of segregata into universe power (42:2.10-11)
@@ -2671,7 +2665,7 @@ gravity; form of ultimata (42:2.11,13)
 set in motion by Primary Master Force Organizers (42:2.11)
 ultimatons cannot independently deindividualize and return to puissant energy (42:4.8) (42:6.3)
 
-punishment | | See also discipline | | 
+punishment | | discipline | | 
 affectionate father never precipitate in visiting (54:5.4)
 corrective affection (142:2.4)
 divine punishment is in reality inevitable consequence (2:3.2)
@@ -2682,11 +2676,11 @@ justice must be lodged in social group (10:6.2) (70:10.13) (104:2.5) (159:1.6)
 no two persons likely to agree on (133:1.2)
 severity less a deterrent than certainty and swiftness (70:10.15)
 
-Punjab | | See also India | PLACE | 
+Punjab | | India | PLACE | 
 Andite infiltration into (79:1.1)
 infiltration of Aryans into (79:4.3)
 
-pure energy | | See segregata | | 
+pure energy | | segregata | | 
 
 pure in heart | | | | 
 shall see God (140:3.6) (140:5.12)
@@ -2694,11 +2688,11 @@ shall see God (140:3.6) (140:5.12)
 purging | | | | 
 ancient medical treatment (90:4.8)
 
-purification ceremonies | | See ceremonies: purification ceremonies | | 
+purification ceremonies | | ceremonies: purification ceremonies | | 
 
-Purim | | See Judaism: feasts | | 
+Purim | | Judaism: feasts | | 
 
-purse | | See money | | 
+purse | | money | | 
 
 Pygmies | | | RACE | 
 miserable remnants of ancient nonsocial peoples (68:1.6)

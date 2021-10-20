@@ -1,16 +1,12 @@
 ####################################################################################
 #
 #                     J
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
 
 Jaboc | | | PLACE | 
 desemboca en el río Jordán (124:6.6)
@@ -62,11 +58,11 @@ Los líderes de Jerusalén trabajaron para disuadir a Jairo de permitir a Jesús
 dimitió como dirigente principal y se alineó abiertamente con Jesús (154:1.2)
 > https://es.wikipedia.org/wiki/Jairo_(bíblico)
 
-Epístola de Santiago | | Ver Santiago (hermano de Jesús):Epístola | | 
+Epístola de Santiago | | Santiago (hermano de Jesús):Epístola | | 
 
-Jacobo Alfeo | | Ver gemelos Alfeo | PERSON | OK
+Jacobo Alfeo | | gemelos Alfeo | PERSON | OK
 
-Santiago (hermano de Jesús); Santiago | (126:3.12) (126:4.9) (126:5.8) (127:2.11) (137:6.1,4) (154:5.1) | Ver Jesús:familia | PERSON | OK
+Santiago (hermano de Jesús); Santiago | (126:3.12) (126:4.9) (126:5.8) (127:2.11) (137:6.1,4) (154:5.1) | Jesús:familia | PERSON | OK
 Santiago es uno de los hermanos de Jesús. Nació el 2 de abril del año 3 a.C.; fue el segundo hijo de José y María (123:1.5)
 Santiago fue uno de los hermanos con que mejor se llevó Jesús (124:4.3)
 fue quien acompañó a María a Séforis cuando ocurrió el accidente que costó la vida de José (126:2.1)
@@ -104,7 +100,7 @@ Santiago de Safed; Santiago | | | PERSON | OK
 Santiago de Safed era un ciudadano de Tiberiades que tenía un hijo de catorce años aquejado de epilepsia, y además estaba poseído realmente por un ser intermedio malévolo. Jesús sanó al muchacho (158:4-5)
 Santiago es quien pronunció ante Jesús la famosa frase que reza «Señor, creo; ayuda a mi incredulidad» (158:5.2)
 
-Santiago Zebedeo; Santiago | (139:3 s) (141:7.13) (143:3.5) (144:1.7) (167:0.3) (167:4.4) (174:1.1) (191:0.5) | Ver apóstoles de Jesús | PERSON | OK
+Santiago Zebedeo; Santiago | (139:3 s) (141:7.13) (143:3.5) (144:1.7) (167:0.3) (167:4.4) (174:1.1) (191:0.5) | apóstoles de Jesús | PERSON | OK
 Santiago Zebedeo, apodado como su hermano Juan «Hijo del trueno», estaba casado cuando conoció a Jesús y tenía cuatro hijos; era de Cafarnaúm; tenía 30 años en el año 26 d.C.; sus padres eran Zebedeo y Salomé (139:3.1)
 fue compañero de pesca de Andrés, Pedro y su hermano Juan (139:1.1) (139:3.1)
 fue bautizado por Juan en el año 25 d.C. (135:8.1)
@@ -170,7 +166,7 @@ puente terrestre que conecta a Java con Asia (64:1.6)
 hombre de Java | | | RACE | 
 huesos encontrados recientemente; Andonita (64:1.6)
 
-celos | | Ver envidia | | 
+celos | | envidia | | 
 puede convertir el amor en odio (177:4.11)
 Dios celoso del hombre, no del hombre (4:3.1)
 veneno mental; interfiere con el progreso espiritual (110:1.5)
@@ -242,7 +238,7 @@ Jeroboam | | | PERSON | OK
 Jeroboam, hijo de Joás, fue el decimotercer rey de Israel; liberó a Israel de sus enemigos (97:9.20)
 > https://es.wikipedia.org/wiki/Jeroboam_II
 
-Jerusalén | (147) (124:6) (129:2.6) (134:7.5) (134:9.2) (140:7.2) (141:9) (152:7) | Ver templo de Jerusalén | PLACE | 
+Jerusalén | (147) (124:6) (129:2.6) (134:7.5) (134:9.2) (140:7.2) (141:9) (152:7) | templo de Jerusalén | PLACE | 
 los apóstoles relacionaron la destrucción de Jerusalén con la aparición de la Nueva Jerusalén (176:1.6)
 sitiado en tiempos de Jeremías (97:6.4)
 ciudad de la casa del Padre (171:4.7)
@@ -258,13 +254,13 @@ La Pascua de Jesús en (125) (142)
 millones de judíos dispersos asistieron a fiestas religiosas (121:6.9) (162:4.1) (185:1.5) (188:3.1)
 La visión de Pablo del Jerusalén celestial (47:10.3)
 la persecución dispersó a los primeros creyentes de (143:6.6)
-lugares en y alrededor | Ver palacio Asmoneo; puerta de Damasco; puerta de la fuente; Gehena; Gólgota; templo de Jerusalén; Cedrón; monte de los Olivos; Ofel; piscina de Betesda; Siloé (piscina); puerta del agua (Jerusalén)
+lugares en y alrededor | palacio Asmoneo; puerta de Damasco; puerta de la fuente; Gehena; Gólgota; templo de Jerusalén; Cedrón; monte de los Olivos; Ofel; piscina de Betesda; Siloé (piscina); puerta del agua (Jerusalén)
 anteriormente conocido como Jebús; Salem (93:2.4) (97:9.11)
 los profetas perecen en (171:4.7)
 Situación en la semana antes de la crucifixión (175:4)
 templo de Baal junto al templo de Yahvé (97:9.21)
 
-templo de Jerusalén | (125:1.5) (150:1.3) (172:4) | Ver Jerusalén; guardias del templo de Jerusalén; judaísmo; cambistas; sanedrín | PLACE | 
+templo de Jerusalén | (125:1.5) (150:1.3) (172:4) | Jerusalén; guardias del templo de Jerusalén; judaísmo; cambistas; sanedrín | PLACE | 
 sacrificio de animales (125:1.1,4) (125:2.1,3) (125:5.5) (173:1.1-2)
 profanado por el tráfico de animales, cambistas (173:1)
 sistema bancario extenso (173:1.3-4)
@@ -318,7 +314,7 @@ huyeron cuando vieron la piedra de la tumba de Jesús moverse sola (189:2.4)
 fueron sobornados para que dijeran que los discípulos se habían llevado el cuerpo de Jesús (189:2.4)
 el capitán de los guardias del templo fue quien extrajo los lienzos fúnebres de Jesús y los arrojó a un acantilado cercano (190:1.2)
 
-Jerusem | (46) | Ver esferas arquitectónicas; mundos de las mansiones; Satania | PLACE | 
+Jerusem | (46) | esferas arquitectónicas; mundos de las mansiones; Satania | PLACE | 
 187.432.811 ciudadanos ascendientes; ninguno perdido en rebelión (53:7.12)
 las actividades en Jerusem son trabajo, progreso y juego (46:5.29)
 Adán y Eva en adelante (74:1)
@@ -384,7 +380,7 @@ sufragio universal; ponderado por mota (45:7.6)
 pesos y medidas (46:1.2)
 El mundo del Padre es una esfera de transición silenciosa dando vueltas (45:1.9)
 
-Jesús | | Ver Cristo; Hijos Creadores; Miguel de Nebadon; Ajustador del Pensamiento de Jesús; apóstoles de Jesús; religión:explicado | PERSON | 
+Jesús | | Cristo; Hijos Creadores; Miguel de Nebadon; Ajustador del Pensamiento de Jesús; apóstoles de Jesús; religión:explicado | PERSON | 
 los apóstoles creían que Jesús era el Hijo Eterno, la segunda persona de la Trinidad del Paraíso (157:5.1) (161:2.10)
 Jesús era la perfección del hombre y los creyentes están destinados a alcanzar la perfección en él y a través de él (142:7.15)
 texto de cumpleaños de Isaías (97:5.3) (123:5.11) (126:5.2) (148:5.5) (150:8.9) (190:5.4)
@@ -405,7 +401,7 @@ el que rechaza a Jesús rechaza al Padre (158:8.1) (163:1.4)
 sonando la hora para el redescubrimiento de la vida real de Jesús (195:9.5) (195:10.1)
 mentes humanas y divinas de Jesús (154:6.10) (161:2-3) (167:4.2) (168:1.6-7)
 la mente humana se puede cambiar por la mente de Jesús (48:6.26) (128:1.6)
-Hermandad de Jesús | Ver hijos de Dios por la fe; hermandad de creyentes
+Hermandad de Jesús | hijos de Dios por la fe; hermandad de creyentes
 Dejemos que la mente en Cristo esté también en nosotros (102:4.1)
 levantado, Jesús atraerá a todos los hombres hacia él (157:6.10) (162:5.4) (174:5.13) (188:5.10) (195:10.1)
 vive de nuevo en la vida del creyente individual (194:2.6) (194:3.1)
@@ -531,7 +527,7 @@ eventos en la vida de Jesús
 		años 30-31 (130) (131) (132) (133) (134:1.7)
 		Los años 14 y 15 fueron una gran prueba, una verdadera tentación (126:0.1)
 		El monte Hermón marcó el final de la carrera puramente humana de Jesús (134:7.7)
-	bautismo | Ver bautismo
+	bautismo | bautismo
 		40 días después (136:3)
 		no usó poder sobrenatural hasta después (128:1.9)
 		terminó la vida puramente humana de Jesús (136:2.7)
@@ -555,7 +551,7 @@ eventos en la vida de Jesús
 	la transfiguración (158:0-3)
 		Jesús se negó a ser investido con plena autoridad en la transfiguración (158:1.4)
 		memoria de la transfiguración sostenida Jesús (171:4.9)
-	juicio y crucifixión | Ver doctrina de la expiación; Jesús:muerte
+	juicio y crucifixión | doctrina de la expiación; Jesús:muerte
 		traición (183)
 		arresto (183:3)
 		escupido sobre (184:3.18) (185:6.2)
@@ -570,7 +566,7 @@ eventos en la vida de Jesús
 		costado perforado con lanza (187:5.8)
 		los que presenciaron (127:5.6) (187:3.1)
 		entierro (188:1)
-	muerte | Ver doctrina de la expiación; Jesús:acontecimientos de la vida:crucifixión
+	muerte | doctrina de la expiación; Jesús:acontecimientos de la vida:crucifixión
 		logró cosas con la muerte que no pudo en vida (171:4.9)
 		El cristianismo se construyó alrededor de la muerte de Jesús (143:5.11)
 		la mayor tragedia de la tierra (178:2.1)
@@ -584,13 +580,13 @@ eventos en la vida de Jesús
 		Jesús en la tumba desde las 3:00 p.m. del viernes hasta las 3:00 a.m. del domingo (188:0.1)
 		sellado por 2 piedras; vigilado (188:2.3) (189:4.2)
 		sellos no rotos cuando Jesús emergió (189:1.7)
-	resurrección | Ver resurrección | (189) (196:1.11)
+	resurrección | resurrección | (189) (196:1.11)
 		7 personalidades del Paraíso desplegadas alrededor de la tumba (189:1.5)
 		los seres celestiales disolvieron el cuerpo mortal de Jesús (189:2.1,7-8)
 		Creencia cristiana basada en el hecho de la tumba vacía; no el evangelio (189:2.6) (193:0.4) (193:2.2)
 		vendas graves aparentemente intactas; arrojado por un acantilado (189:4.6,9) (189:5.3) (190:1.2) (191:0.4)
 		la mayor revelación de la divinidad de Jesús (182:3.5)
-		heraldos de la resurrección | Ver cuerpo de mensajeros (de David Zebedeo) | (190:1) (191:6.4)
+		heraldos de la resurrección | cuerpo de mensajeros (de David Zebedeo) | (190:1) (191:6.4)
 		Jesús predijo (158:2.1) (158:6.5) (158:7.3,7) (165:2.10) (173:5.4) (180:6.7) (181:1.5) (182:2.5-6)
 		el conocimiento de la resurrección de Jesús no sirve de nada sin el renacimiento espiritual (193:1.2)
 		ninguna criatura asistida (189:0) (189:1.13)
@@ -628,7 +624,7 @@ eventos en la vida de Jesús
 		sin apariciones a los enemigos (190:2.1)
 		sin marcas de uñas en las manos (191:5.4)
 		ascensión (193:5) (196:1.12)
-valor de la vida de Jesús | Ver Hijos Paradisíacos de Dios:donaciones:propósito de los donaciones
+valor de la vida de Jesús | Hijos Paradisíacos de Dios:donaciones:propósito de los donaciones
 	los apóstoles malinterpretaron la enseñanza de Jesús pero comprendieron su vida (140:7.8)
 	compensa la incapacidad de agarrar al Hijo Eterno (6:8.6-7)
 	visualización humana más alta ampliada y amplificada del Padre (97:10.8)
@@ -654,7 +650,7 @@ valor de la vida de Jesús | Ver Hijos Paradisíacos de Dios:donaciones:propósi
 	la expresión más hermosa de la divinidad que se encuentra en las vidas terrestres de los Hijos autootorgadores (116:2.3)
 	camino nuevo y vivo (101:6.17) (129:4.7) (136:6.11) (180:3.7) (196:2.4)
 	entender las enseñanzas de Jesús por su vida (140:8.19) (149:2.1)
-enseñanzas de Jesús | Ver evangelio:explicado; reino de los cielos; religión:explicada; verdad
+enseñanzas de Jesús | evangelio:explicado; reino de los cielos; religión:explicada; verdad
 	Jesús pidió a sus discípulos que no se avergonzaran de sus enseñanzas (150:4.3)
 	no deberíamos desanimarnos por no poder captar completamente el significado del evangelio (181:2.25)
 	Jesús denunció el orgullo, la crueldad, la opresión y la hipocresía (140:8.22)
@@ -712,7 +708,7 @@ enseñanzas de Jesús | Ver evangelio:explicado; reino de los cielos; religión:
 		* el discurso sobre el mandamiento nuevo (180:1)
 		* el discurso sobre la vid y los sarmientos (180:2)
 		* el discurso sobre la enemistad del mundo (180:3)
-	parábolas de Jesús | Ver parábolas
+	parábolas de Jesús | parábolas
 		* parábola del sembrador (95:0.1) (151:1-2) (151:3.13,15) (152:6.3) (155:2.3)
 		* segunda parábola del sembrador, o párabola de la semilla en buena tierra (137:8.12) (151:3.15)
 		* parábola del fariseo y el publicano (140:5.7) (167:5.1-2)
@@ -957,7 +953,7 @@ enseñanzas de Jesús | Ver evangelio:explicado; reino de los cielos; religión:
 		* «No busquéis vuestra propia glorificación, sino la gloria de Dios.» (175:1.10)
 		* «Tened cuidado de que nadie os engañe, porque muchos vendrán como liberadores y conducirán a mucha gente por el camino equivocado.» (176:1.1)
 		* «Surgirán muchos falsos educadores y descarriarán a mucha gente» (176:1.4)
-		* «Volveré algún día» | Ver Jesús:segunda venida | (176:2.3)
+		* «Volveré algún día» | Jesús:segunda venida | (176:2.3)
 		* «No podéis permanecer inmóviles en los asuntos del reino eterno. Mi Padre exige que todos sus hijos crezcan en la gracia y en el conocimiento de la verdad.» (176:3.5)
 		* «Haced fielmente lo que se os ha confiado» (176:3.6)
 		* «Amaos unos a otros como yo os he amado» (178:1.17) (180:1) (180:6.1) (181:2.26,30) (182:1.6) (193:3.2)
@@ -1041,11 +1037,11 @@ familia
 	La abdicación de Jesús como cabeza de la casa de José (128:7.13)
 	La formación moral y espiritual de Jesús obtenida de José y María (123:5.8)
 	Las relaciones de Jesús con los hermanos (124:4.3)
-	miembros de la familia de Jesús | Ver Amós (hermano de Jesús); Santiago (hermano de Jesús); José (hermano de Jesús); José (padre de Jesús); Judá (hermano de Jesús); Marta (hermana de Jesús); María (madre de Jesús); Miriam (hermana de Jesús); Rut (hermana de Jesús)
+	miembros de la familia de Jesús | Amós (hermano de Jesús); Santiago (hermano de Jesús); José (hermano de Jesús); José (padre de Jesús); Judá (hermano de Jesús); Marta (hermana de Jesús); María (madre de Jesús); Miriam (hermana de Jesús); Rut (hermana de Jesús)
 	Descripción de la casa de Nazaret (122:5.9) (122:6) (123:2.14) (126:5.11)
 	no hay pena por la violación de las enseñanzas personales (127:4.5)
 	residencias después de la resurrección (190:1.10)
-milagros y curaciones | Ver curación; milagros
+milagros y curaciones | curación; milagros
 	100 beneficiarios de la curación inconsciente por Jesús (149:1.2-8)
 	Ajustador incapaz de limitar las manifestaciones temporales (136:5.4-6)
 	aparentes milagros y curaciones
@@ -1123,11 +1119,11 @@ personalidad y naturaleza (100:7)
 	rasgos (196) (124:2.4-5) (126:2.7) (127:3.7) (127:4.4) (127:6.12-16) (129:1.9) (129:3.8) (129:4) (136:0.1) (137:4.2,4) (137:7.2) (138:8.9) (139:1.11) (139:2.5) (139:3.6) (139:4.6,9) (139:5.6) (139:6.8) (139:7.4) (139:8.7) (139:10.6-7) (139:11.5) (140:8.30) (141:3.4-6) (141:7.10-14) (142:7.15) (143:2.1) (149:2.6-14) (149:4.5) (151:0.2) (161:2) (171:7) (173:1.6) (181:1.8-9) (184:3.19) (184:4.5-6) ​​(186:2) (186:4.3) (187:2.3-4) (194:3.3)
 	rasgos heredados de José y María (122:5.3-4)
 	dedicado sin reservas a los asuntos de mi padre (100:7.12)
-	Verbo hecho carne | Ver Palabra de Dios
+	Verbo hecho carne | Palabra de Dios
 descripción física (123:2.15) (127:1.2-3) (127:5.1) (128:6.2,11) (187:2.8)
 	las imágenes han sido muy desafortunadas (141:3.6)
 	La voz era musical, fascinante, autoritaria (125:5.1) (127:1.2) (154:6.5) (162:6.2) (183:3.5) (190:2.3)
-propósito de la vida | Ver Miguel de Nebadon:autodonaciones:séptimo (donación de Urantia)
+propósito de la vida | Miguel de Nebadon:autodonaciones:séptimo (donación de Urantia)
 	en contactos humanos (132:4.1)
 	que tenemos vida abundante (157:6.2)
 	ser el libertador del mundo (122:4.2)
@@ -1166,7 +1162,7 @@ habilidades de Jesús
 	narración (126:2.6) (130:7.1)
 	fabricación de tiendas (134:7.3)
 	fabricación de yugo (124:1.7) (126:1.1)
-Hijo de Dios | Ver Jesús:naturaleza de Jesús:Dios encarnado en el hombre
+Hijo de Dios | Jesús:naturaleza de Jesús:Dios encarnado en el hombre
 Hijo del Hombre
 logros espirituales
 	logrado toda la filiación que un día lograremos (142:7.13)
@@ -1186,16 +1182,16 @@ escrituras
 Jetro | | | PERSON | 
 Suegro de Moisés (96:5.3)
 
-Joyería | | Ver ornamentación | | 
+Joyería | | ornamentación | | 
 
-Sacerdocio judío | | Ver sanedrín | | 
+Sacerdocio judío | | sanedrín | | 
 
-Religión judía | | Ver judaísmo | | 
+Religión judía | | judaísmo | | 
 
 preceptor judío | | | | 
 Jesús fue conocido como el preceptor judío en Corinto (129:3.2)
 
-judíos | | Ver lenguaje hebreo; judíos (hebreos antiguos) | RACE | 
+judíos | | lenguaje hebreo; judíos (hebreos antiguos) | RACE | 
 Los apocaliptistas del judaísmo enseñaron el sufrimiento debido a los pecados de la nación (135:5.2)
 actitudes
 	pueblo elegido
@@ -1260,7 +1256,7 @@ asuntos politicos
 dolores de un pueblo despreciado incomprendido (121:6.7) (155:6.10)
 estado del judío individual (175:2)
 
-judíos (hebreos antiguos) | | Ver cautiverio babilónico; judíos | RACE | 
+judíos (hebreos antiguos) | | cautiverio babilónico; judíos | RACE | 
 La descendencia de Abraham formó el núcleo de (96:2.3)
 ceremonia de adopción (70:3.8)
 creencias y actitudes
@@ -1294,7 +1290,7 @@ nación era la unión de israelitas y cananeos (97:9.1)
 ego nacional deprimido por el cautiverio babilónico (93:9.9)
 parte de una raza semítica más antigua que incluía a babilonios, fenicios y cartagineses (121:1.1) (121:2.1)
 la religión era austera y tiránica (98:3.2)
-escrituras de | Ver Antiguo Testamento
+escrituras de | Antiguo Testamento
 
 Jezabel | (124:6.3) | | PERSON | 
 Reina judía de origen fenicio
@@ -1365,7 +1361,7 @@ día de descanso con Jesús (177:1-2)
 caminó alrededor del lago con Jesús (152:5.1)
 
 Juan el Bautista | (135) | | PERSON | 
-apóstoles de | Ver apóstoles de Juan el Bautista
+apóstoles de | apóstoles de Juan el Bautista
 en el bautismo de Jesús (135:8.6)
 bautizó a más de 100.000 penitentes en 15 meses (135:6.4)
 decapitado por Herodes (135:12.7)
@@ -1412,9 +1408,9 @@ Tarde o temprano surgirá una Juan el Bautista mayor (170:5.19)
 parábola atronadora de Lázaro y Dives (169:3)
 visto como un profeta (135:6.2) (135:12.2) (173:2.4-5)
 
-Juan el revelador | | Ver Juan Zebedeo | PERSON | 
+Juan el revelador | | Juan Zebedeo | PERSON | 
 
-Juan Zebedeo | (129:1.12) (139:4) (141:7.14) (143:3.5) (143:5.12) (144:1.7) (178:2.6-8) (192:1.3) (192:4.7) | Ver apóstoles de Jesús | PERSON | 
+Juan Zebedeo | (129:1.12) (139:4) (141:7.14) (143:3.5) (143:5.12) (144:1.7) (178:2.6-8) (192:1.3) (192:4.7) | apóstoles de Jesús | PERSON | 
 comportamiento
 	bautizado por Juan en diciembre del 25 d.C. (135:8.1)
 	se convirtió en apóstol (137:1.5-8)
@@ -1491,7 +1487,7 @@ Jope | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | | PLACE |
 Aquí estuvo Jesús en varias ocasiones
 
 río Jordan | | | PLACE | 
-vado | Ver Betania en el Jordán
+vado | Betania en el Jordán
 El bautismo de Jesús en (135:8)
 derramado de una cueva subterránea (157:3.1)
 el valle era tropical (124:6.5)
@@ -1499,7 +1495,7 @@ el valle era tropical (124:6.5)
 José (maestro) | | | PERSON | 
 renombrado maestro liberal de Nazaret (124:4.8)
 
-José (hermano de Jesús) | (138:1.4) (154:5.1) | Ver Jesús:familia | PERSON | 
+José (hermano de Jesús) | (138:1.4) (154:5.1) | Jesús:familia | PERSON | 
 los apóstoles se quedaron (137:2.9)
 en la cuarta aparición de Jesús (190:2.6)
 nacido el 16 de marzo del 1 d.C. (123:4.9)
@@ -1513,7 +1509,7 @@ se mudó a la casa familiar en el año 24 d.C. (134:1.6)
 permitido que el orgullo interfiera (154:6.1)
 creencia tentativa en Jesús (137:3.2)
 
-José (padre de Jesús) | (122:1) (122:5) | Ver Jesús:familia | PERSON | 
+José (padre de Jesús) | (122:1) (122:5) | Jesús:familia | PERSON | 
 en la primera Pascua de Jesús (125)
 actitud
 	enojado con Jesús por los juegos de Escitópolis (124:3.8)
@@ -1565,7 +1561,7 @@ embalsamado el cuerpo de Jesús con mirra y áloes (188:1.4)
 ex miembro del sanedrín (188:1.2)
 ayudó a llevar el cuerpo de Jesús a la tumba (188:1.3)
 Quinta aparición de Jesús en casa de (190:3.1)
-Jesús enterrado en la tumba de | Ver Jesús:eventos en la vida:tumba
+Jesús enterrado en la tumba de | Jesús:eventos en la vida:tumba
 se reunió con Jesús en la casa de Nicodemo (164:2.1)
 discípulo más franco de Jesús en Jerusalén (188:1.2)
 visitó la tumba vacía (190:1.2)
@@ -1580,9 +1576,9 @@ creyente en Melquisedek (93:9.5,8)
 las circunstancias políticas facilitaron la promoción de las enseñanzas de Salem en Egipto (95:3.5)
 vendido como esclavo egipcio en Dotán (126:1.2)
 
-Josué ben José | | Ver Jesús | PERSON | 
+Josué ben José | | Jesús | PERSON | 
 
-Josué (Jesús) | | Ver Jesús | PERSON | 
+Josué (Jesús) | | Jesús | PERSON | 
 Gabriel le indicó a María que nombrara a su hijo (122:3.1) (122:8.2)
 
 Josué (Antiguo Testamento) | (124:6.7) (135:6.1) (135:9.5) | | PERSON | 
@@ -1619,7 +1615,7 @@ María Magdalena y Rebeca fueron ordenadas en (150:2.3)
 Júpiter | | | PLACE | 
 persiste solo como exclamación (96:1.14)
 
-alegría | | Ver felicidad; paz:paz espiritual | | 
+alegría | | felicidad; paz:paz espiritual | | 
 nacido de la confianza en la palabra divina (143:2.7)
 no puede ser experimentado por uno mismo (111:4.7)
 no se puede poner bajo el microscopio (196:3.18)
@@ -1647,9 +1643,9 @@ jubileos | | | |
 7 en carrera ascendente (27:7.8)
 al establecerse un universo local en luz y vida (17:3.11)
 
-Judá | | Ver Judea | PLACE | 
+Judá | | Judea | PLACE | 
 
-judaísmo | (97:10) (121:6) | Ver Abraham (Antiguo Testamento); libros apócrifos; arca de Yahvé; cautiverio babilónico; El Elyón; El Shaddai; Elohim; Esenios; templo de Jerusalén; judíos; judíos (hebreos antiguos); levitas; Moisés; nazareos; Antiguo Testamento; fariseos; profetas; rabinos; saduceos; sanedrín; escribas; Semá; Sheol; Yahvé | RACE | 
+judaísmo | (97:10) (121:6) | Abraham (Antiguo Testamento); libros apócrifos; arca de Yahvé; cautiverio babilónico; El Elyón; El Shaddai; Elohim; Esenios; templo de Jerusalén; judíos; judíos (hebreos antiguos); levitas; Moisés; nazareos; Antiguo Testamento; fariseos; profetas; rabinos; saduceos; sanedrín; escribas; Semá; Sheol; Yahvé | RACE | 
 religión avanzada de la antigüedad (92:6.4,14)
 los apóstoles al principio impusieron el judaísmo a los conversos (194:3.9)
 creencias
@@ -1705,7 +1701,7 @@ fiestas (123:3.5) (125:1.5) (134:9.3)
 		untar sangre en los postes de las puertas era consecuencia del sacrificio de niños (89:7.2)
 		impuesto sobre el templo pagadero en (173:1.3)
 		las mujeres rara vez asistían (125:0.2)
-	Pentecostés | Ver Pentecostés (donación del Espíritu de la Verdad) | (123:3.5) (125:1.5)
+	Pentecostés | Pentecostés (donación del Espíritu de la Verdad) | (123:3.5) (125:1.5)
 		7 semanas después de la Pascua; establecido por Moisés (125:1.5)
 		fiesta del bautismo (194:1.5)
 	Purim
@@ -1746,7 +1742,7 @@ prometió la salvación de las dificultades (5:4.5-8) (148:6.5)
 expandiéndose rápidamente en tiempos de Jesús (121:1.6)
 religión de la sublimidad moral (196:3.19)
 el renacimiento data de la traducción griega de las Escrituras (121:6.2)
-rituales | Ver judaísmo:fiestas
+rituales | judaísmo:fiestas
 	Sacrificio de animales andónico conservado en (63:6.4)
 	inconsistente y absurdo; Jesús pensó que las ceremonias eran patéticas (125:2.4) (134:9.3)
 	purificación después del parto (122:9.1) (122:10.2)
@@ -1757,9 +1753,9 @@ El secreto de la supervivencia era la centralización del culto en Jerusalén (1
 margen tolerado de creyentes gentiles (121:2.5)
 varios títulos de Deidad definidos (96:1.2-10)
 
-Judas Alfeo | | Ver gemelos Alfeo | PERSON | 
+Judas Alfeo | | gemelos Alfeo | PERSON | 
 
-Judas Iscariote | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | Ver apóstoles de Jesús | PERSON | 
+Judas Iscariote | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | apóstoles de Jesús | PERSON | 
 afectado negativamente por la entrada a Jerusalén (172:5.12-13)
 intentó curar al hijo de Santiago de Safed (158:4.6)
 traición
@@ -1817,13 +1813,13 @@ guardias del templo, centurión despreciado (183:5.2-3) (186:1.2)
 entregó todos los fondos apostólicos a David (178:2.10)
 se preguntó cómo romper con los apóstoles (172:5.12-13) (173:0.2) (175:4.1) (177:4.2)
 
-Judas Macabeo | | Ver Macabeos | PERSON | 
+Judas Macabeo | | Macabeos | PERSON | 
 decepción del reinado (136:8.8)
 hazañas heroicas (121:2.7)
 Judíos removidos de Perea en tiempos de (165:0.3)
 restauración de los servicios de mosaico por (123:3.5)
 
-Judá (hermano de Jesús) | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | Ver Jesús:familia | PERSON | 
+Judá (hermano de Jesús) | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | Jesús:familia | PERSON | 
 activo con los fanáticos; chocó con las autoridades civiles (128:6.4-7)
 en la cuarta aparición de Jesús (190:2.6)
 actitud
@@ -1847,7 +1843,7 @@ la cuñada Rachel (150:1.1)
 viaje con Jesús a la Pascua; llevado a la prisión militar (128:6.3-8)
 presenció la crucifixión de Jesús (186:0.3) (187:2.7) (187:3.2) (187:5.1)
 
-Judea | (142:8) | Ver Israel; Palestina | PLACE | 
+Judea | (142:8) | Israel; Palestina | PLACE | 
 Cesarea fue la capital romana de (184:3.17)
 la caída de Asiria y la supremacía de Egipto liberada (97:9.23)
 La conciencia judía se originó en el clan sureño de Judá (97:9.2)
@@ -1862,7 +1858,7 @@ guerras con Israel (97:9.18)
 Jueces-Árbitros; juez-árbitro | | | ORDER | 
 de comisiones conciliadoras (25:2.7)
 
-jueces | (72:2.1) | Ver tribunales | | 
+jueces | (72:2.1) | tribunales | | 
 Discurso de Jesús para juzgar en nombre del pobre (132:4.8)
 Los comentarios de Jesús para juzgar en nombre de Judá (128:6.7)
 Miqueas denunció a los gobernantes que juzgan por recompensa (97:5.5)
@@ -1870,10 +1866,10 @@ Miqueas denunció a los gobernantes que juzgan por recompensa (97:5.5)
 Jueces (Antiguo Testamento) | | | | 
 Jeques tribales hebreos (96:6.1)
 
-juicio | | Ver comisiones conciliadoras; tribunales; extinción; justicia; ley; no supervivientes; resurrección; supervivencia (de la muerte mortal) | | 
+juicio | | comisiones conciliadoras; tribunales; extinción; justicia; ley; no supervivientes; resurrección; supervivencia (de la muerte mortal) | | 
 por el hombre
 	peligros e injusticia de sentarse en persona juicio (133:3.6) (146:2.6) (159:1.6)
-	no prejuzgue a los compañeros | Ver prejuicios | (38:2.4) (133:1.2)
+	no prejuzgue a los compañeros | prejuicios | (38:2.4) (133:1.2)
 	no juzgues por un solo episodio humano desafortunado (156:5.9)
 	juzgar a los salvajes según su iluminación (101:9.2)
 	dejar que otros den cuenta de sí mismos a Dios (139:6.5)
@@ -1934,7 +1930,7 @@ juerguista (69:2.5)
 Se invoca a los romanos arrojando piedras al aire (85:1.3)
 Zeus, trasplantado de Grecia a Roma (98:3.3)
 
-Júpiter (planeta) | | Ver Monmatia | PLACE | 
+Júpiter (planeta) | | Monmatia | PLACE | 
 en gran parte gaseoso (57:5.10)
 podría capturar planetas exteriores, convertirse en un sol (15:5.8)
 una luna cerca de la interrupción de las mareas (57:6.5)
@@ -1942,7 +1938,7 @@ origen (41:10.1) (57:5.9-10)
 movimiento retrógrado de ciertos satélites (57:5.9)
 sol secundario por un período corto (57:5.10)
 
-Jurásico | | Ver edades geológicas | | 
+Jurásico | | edades geológicas | | 
 posterior edad reptil desde hace 125 a 100 millones de años (60:2)
 
 jurados | | | | 
@@ -1956,10 +1952,10 @@ vivirá por la fe (131:2.8)
 Justa | | | PERSON | 
 de Sidón, hija de Berenice (156:2.2) (156:3.2)
 
-justicia | (2:3) (133:1) | Ver tribunales; crimen; pena de muerte; karma; ley | | 
+justicia | (2:3) (133:1) | tribunales; crimen; pena de muerte; karma; ley | | 
 concebido por el hombre, significa obtener los derechos de uno (70:10.2)
 concepto constitutivo en la mente dotada de espíritu (70:10.2)
-Justicia divina | Ver comisiones conciliadoras; juicio:
+Justicia divina | comisiones conciliadoras; juicio:
 juicio divino
 	pensamiento colectivo de justicia (10:6.18)
 	Los creadores proporcionan sistemas judiciales para resolver diferencias honestas (25:3.7)

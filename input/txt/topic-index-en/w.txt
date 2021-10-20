@@ -1,24 +1,17 @@
 ####################################################################################
 #
-#                    W
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+#                     W
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
-
-
 
 wakes for dead | | | | 
 origin in ghost cults (87:6.11)
 
-Wales | | See also British Isles | PLACE | 
+Wales | | British Isles | PLACE | 
 reposed sovereignty in United Kingdom (134:6.3)
 
 walls | | | | 
@@ -32,7 +25,7 @@ early writing (69:4.7)
 wands | | | | 
 magic practiced with (88:6.1)
 
-war | | See also military; peace: social peace; self-defense | | 
+war | | military; peace: social peace; self-defense | | 
 always been a kingmaker (70:5.5)
 benefits of early war (70:2)
 	Badonan survivors of war were most intelligent and desirable of all then living (64:5.1)
@@ -83,14 +76,14 @@ religion prostituted into military propaganda during (99:3.8)
 sentimental sophistry of visionary peace planning (70:3.4)
 slavery was feature of early military conquest (69:3.7) (69:8.1-4) (70:1.20) (70:8.5) (121:3.7)
 
-warnings | | See also religion: warnings | | 
+warnings | | religion: warnings | | 
 Adam and Eve repeatedly warned not to depart from divine plan (75:7.4)
 Lucifer and Caligastia misconstrued warnings as unjustified interference with personal liberties (66:8.2)
 Satania prison worlds are solemn warning (45:1.11)
 usually fire evil determination once love is dead (179:4.8)
 usually useless with embittered human nature (139:12.11)
 
-washing | | See also sanitation | | 
+washing | | sanitation | | 
 Jesus washed apostles’ feet (179:1.2,8) (179:3)
 Jesus washed only for cleanliness (166:1.2) (167:1.3) (179:3.1)
 
@@ -98,7 +91,7 @@ wasps’ nests | | | |
 early people wrote on (66:5.9)
 
 waste | | | | 
-human | See excreta
+human | excreta
 improvidence q.v.
 
 watchful householder | | | | 
@@ -110,7 +103,7 @@ parable of (165:5.5)
 watchtower | | | | 
 parable of building (171:2.3)
 
-water | | See also water of life | | 
+water | | water of life | | 
 cup given to a thirsty soul (159:2.1)
 Jesus never walked on (136:7.3)
 Jesus turned water into wine (137:4.10-13) (138:8.5)
@@ -152,7 +145,7 @@ Jesus passed
 watersnake | | | | 
 if your child asks for a (144:2.4)
 
-wave phenomena | | See energy: types of energy: wave energy | | 
+wave phenomena | | energy: types of energy: wave energy | | 
 
 wax board bond | | | | 
 debts recorded on (169:2.4)
@@ -180,7 +173,7 @@ way to eternal life is straight and narrow (166:3.3,6)
 Way of Heaven | | | | 
 teaching of Confucius (94:6.10)
 
-weak, the | | See also unfortunates | | 
+weak, the | | unfortunates | | 
 “do you resemble weaklings?” (143:1.5)
 God gives power to the faint (97:7.8)
 have always contended for equal rights (70:9.16)
@@ -190,7 +183,7 @@ minister to (192:2.2)
 only brotherhood prevents strong from oppressing the weak (71:4.17)
 should not be allowed to take advantage of “golden rulers” (71:4.16)
 
-wealth | | See also achievement; earning a living; money; possessions; private property | | 
+wealth | | achievement; earning a living; money; possessions; private property | | 
 acquiring
 	10 methods of amassing (132:5.2-12)
 	faithfulness will not insure rewards of (160:4.10)
@@ -247,7 +240,7 @@ Mary did not wean Jesus until Alexandria (123:0.1)
 maternal affection too strong for infanticide after (68:6.9)
 use of cow and goat milk reduced infant mortality (84:3.9)
 
-weapons | | See also swords | | 
+weapons | | swords | | 
 metal weapons of Tubal-Cain (159:1.7)
 old men and cripples set to work making (69:3.4)
 
@@ -260,7 +253,7 @@ Caligastia 100 taught (66:5.2)
 Jesus became an expert weaver (123:5.15)
 practiced in Eden, second garden (74:2.7) (76:3.8)
 
-weddings | | See also brides; marriage | | 
+weddings | | brides; marriage | | 
 at Cana (137:3.6) (137:4)
 charms and superstitions among ancients (83:4.4-9)
 early weddings held under trees (85:2.3)
@@ -281,12 +274,12 @@ week | | | |
 7-day week grew out of fact that 7 was 1/4 of 28 (66:7.17)
 incidental origin to sacred sanction for 7-day week (74:8.1)
 
-weights | | See also measures | | 
+weights | | measures | | 
 first were grains of wheat (69:4.5)
 Jerusem gradant equals 10 Urantia ounces (46:1.2)
 of electrons and atoms (42:6.7-8)
 
-welfare (government) | | See charity: by government | | 
+welfare (government) | | charity: by government | | 
 
 well-doing | | | | 
 be not weary in (163:6.7) (174:0.2) (192:2.9)
@@ -327,7 +320,7 @@ whirlwind | | | |
 Father does not reveal himself in whirlwind (148:6.10)
 those who sow wind shall reap whirlwind (131:2.9)
 
-white race | (80:9) | See also Caucasians; races | RACE | 
+white race | (80:9) | Caucasians; races | RACE | 
 375 Adamsonites who settled Greece carried most valuable strains ca. 10,000 B.C. (80:7.4)
 ancestor worship after fall of Roman civilization (79:8.3)
 Christianity well adapted to current mores of (98:7.11)
@@ -356,11 +349,11 @@ most advanced social development on Urantia (68:0.3)
 restless, exploratory curiosity due to Andite inheritance (79:7.3)
 unifying factor is Andite inheritance (81:4.11)
 
-white smiths | | See black smiths; magic; witchcraft | | 
+white smiths | | black smiths; magic; witchcraft | | 
 
-whole | | See parts and the whole | | 
+whole | | parts and the whole | | 
 
-wickedness | | See iniquity; sin; sinners | | 
+wickedness | | iniquity; sin; sinners | | 
 
 widows | | | | 
 customarily committed suicide on husbands’ graves (87:2.7)
@@ -374,9 +367,9 @@ widow’s mites (172:4.2)
 wilderness of Judea | | | PLACE | 
 John the Baptist tended sheep in (135:2.3)
 
-will | | See free will | | 
+will | | free will | | 
 
-will of God | | See also divine plan; submission | | 
+will of God | | divine plan; submission | | 
 active submission to (2:5.5) (5:1.12) (110:3.2) (117:5.2) (128:1.6,12) (130:2.2) (131:2.8) (133:7.10) (135:11.3) (136:4.4) (136:6.4) (138:7.1) (140:8.3) (142:6.8) (144:5.95) (146:3.5-7) (149:5.3) (168:0.11) (171:4.7) (171:8.14) (178:3.3) (180:2.2) (181:2.11,15) (182:2.1-2) (186:2.3)
 best and right way to do things always exists (25:4.17) (39:4.14)
 commitment to will of God brought Adjuster prior to Spirit of Truth (108:2.10)
@@ -457,7 +450,7 @@ origin of idea that angels have (39:5.11-14)
 
 Wisconsin | (58:7.4) (58:7.7) | | PLACE | 
 
-wisdom | (85:7.3) | See also adjutant mind-spirits: #7–wisdom | | 
+wisdom | (85:7.3) | adjutant mind-spirits: #7–wisdom | | 
 70 divisions of (27:6.3)
 ascending levels of (71:7.2,5-13)
 ask God for wisdom to solve problems (91:6.5) (91:9.7)
@@ -507,7 +500,7 @@ copied into Book of Proverbs (95:4.5)
 influenced El Shaddai concept (96:1.5)
 Philo possessed copy (95:4.3)
 
-Wisdom of Solomon | | See Ecclesiastes | | 
+Wisdom of Solomon | | Ecclesiastes | | 
 
 wise men (Magi) | | | | 
 found baby Jesus and left gifts (122:8.6)
@@ -520,7 +513,7 @@ apostles interpreted Master’s words to justify their intense longings (181:0.1
 moral values do not grow out of (100:3.2)
 preferring optimistic illusions to reality (160:1.7) (160:4.13-14)
 
-witchcraft | | See also magic | | 
+witchcraft | | magic | | 
 magic performed by irregular spirits (90:2.2-3)
 primitives attributed deaths to (90:3.7)
 shamans suppressed rivals by calling them witches (90:2.12)
@@ -536,13 +529,13 @@ man with (148:7)
 witnesses | | | | 
 Jewish law required 2 must agree (184:3.6)
 
-wives | | See also marriage; sexes, the; women | | 
+wives | | marriage; sexes, the; women | | 
 always subject to more restrictive taboos than husbands (82:2.5) (82:4.4)
 leaving wives for sake of kingdom (150:4.3) (163:3.4) (167:2.2) (171:2.2)
 once qualified by ability to work hard, bear children (82:3.7)
 primitive men could kill wives if paid for (70:10.11)
 
-wizards | | See also magic; witchcraft | | 
+wizards | | magic; witchcraft | | 
 practitioners of the black art called (90:2.2)
 
 Wolvering | | | PLACE | 
@@ -551,7 +544,7 @@ neighboring universe to Nebadon (32:2.12)
 wolves | (61:3.13) | | | 
 hunted by Neanderthalers (64:4.2)
 
-women | | See also mortals; sexes, the; wives | | 
+women | | mortals; sexes, the; wives | | 
 among Adam and Eve’s administrators (74:3.5)
 among early Christians
 	admitted into full fellowship of early church (98:6.4)
@@ -632,7 +625,7 @@ preached in brothels (150:2.2)
 took over ministration to sick (165:0.2)
 trained 50 women (163:7.3)
 
-women’s gallery | | See Jerusalem temple | | 
+women’s gallery | | Jerusalem temple | | 
 
 wood | | | | 
 early commerce in (79:1.4)
@@ -649,47 +642,47 @@ divine Sons are (10:3.3)
 Eternal Son is (6:0.1) (6:1.3) (6:2.2) (6:8.3) (14:6.15) (20:5.1)
 is bread of life (179:5.3)
 is truth, mercy, eternal life (174:5.7)
-Jesus was | See Jesus: personality and nature: God incarnate in man
+Jesus was | Jesus: personality and nature: God incarnate in man
 Paul little dreamed his letters would be regarded as (98:7.9)
 reject traditional scriptures regarded as (155:6.2)
 
-words | | See language | | 
+words | | language | | 
 
 workmanship | | | | 
 Jesus wasted little time upon trifles (134:9.7)
 
-works | | See also action; salvation | | 
+works | | action; salvation | | 
 cannot buy favor of God (167:5.1)
 salvation not achieved by (143:2.5)
 
-world (earth) | | See Urantia | | 
+world (earth) | | Urantia | | 
 
-world government | | See government: world government | | 
+world government | | government: world government | | 
 
 world of the cross | | | | 
 Urantia known as (20:6.6) (57:8.6) (119:8.8) (188:4.1)
 
-world of the Father | | See also Jerusem: transitional culture worlds | PLACE | 
+world of the Father | | Jerusem: transitional culture worlds | PLACE | 
 7 circling worlds are detention spheres (45:1.10)
 Jerusem satellite, silent sphere; transitional culture world #7 (45:1.9) (53:7.1)
 Panoptians are caretakers (53:7.1)
 rebels held on (53:9.1)
 
-world of the Sons | | See also Jerusem: transitional culture worlds | PLACE | 
+world of the Sons | | Jerusem: transitional culture worlds | PLACE | 
 transitional culture world #5 (45:1.7)
 
-world of the Spirit | | See also Jerusem: transitional culture worlds | PLACE | 
+world of the Spirit | | Jerusem: transitional culture worlds | PLACE | 
 transitional culture world #6 (45:1.8)
 
 World War I | | | | 
 unfortunately re-established submerged political groups (134:5.9)
 
-worlds | | See architectural spheres; planets; sacred spheres of Paradise; space bodies | | 
+worlds | | architectural spheres; planets; sacred spheres of Paradise; space bodies | | 
 
 worm of the dust | | | | 
 man is, by nature, but is divine in destiny (149:6.9)
 
-worship | (85) (5:3) (27:7) | See also adjutant mindspirits: #6–worship; churches; meditation; prayer; spiritual communion; temple | | 
+worship | (85) (5:3) (27:7) | adjutant mindspirits: #6–worship; churches; meditation; prayer; spiritual communion; temple | | 
 Adam refused to accept (74:4.4-5)
 adoration of abstract beautiful, exaltation of nature is not worship (5:5.4)
 alternate with service (143:7.3)
@@ -755,7 +748,7 @@ primitives worshiped
 	plants and trees (85:2)
 	political rulers in Roman Empire (98:3.7-8)
 	stones and hills (85:1)
-	sun | See sun (Urantia’s): sun worship
+	sun | sun (Urantia’s): sun worship
 	the 4 elements (85:4)
 	what they feared (85:7.2)
 quality of worship determined by depth of perception (5:4.8) (27:7.1)
@@ -771,9 +764,9 @@ divine builders, celestial artisans (44:3.5)
 wounds | | | | 
 treated with oil and wine (90:4.9) (164:1.3)
 
-wrath | | See anger | | 
+wrath | | anger | | 
 
-writing | | See also communication; language; message stick; printing; records; smoke signals; wampum belts | | 
+writing | | communication; language; message stick; printing; records; smoke signals; wampum belts | | 
 alphabets
 	48 symbols in alphabet of Nebadon (44:4.4)
 	70 symbols in alphabet of Uversa; 1 billion concept symbols (44:4.4)

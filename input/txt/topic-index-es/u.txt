@@ -1,20 +1,14 @@
 ####################################################################################
 #
-#                    U
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+#                     U
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-
-
-
-
-ubicuidad | | Ver omnipresencia | | 
+ubicuidad | | omnipresencia | | 
 
 fealdad | | | | 
 el materialismo y el ateísmo son maximización de (56:10.4)
@@ -23,10 +17,10 @@ estimula el alcance de cosas mejores (3:5.11)
 Ucrania | | | PLACE | 
 Los andonitas entraron en Europa a través de (80:9.6)
 
-ultimidad | | Ver realidad:niveles de realidad:realidad absonita | | 
+ultimidad | | realidad:niveles de realidad:realidad absonita | | 
 Los finalitarios pueden algún día eventualizar la ultimidad de Dios (5:5.11)
 
-ultimata | | Ver energía | | 
+ultimata | | energía | | 
 también conocida como energía emergente (0:6.6) (11:7.8) (16:4.12) (42:2.10-13)
 se vuelve sensible a la gravedad lineal, Directores del Poder Universal
 cuando se libera del Absoluto Incalificado (16:4.12)
@@ -37,13 +31,13 @@ rayos infraultimatónicos y ultimatónicos (42:5.3-4)
 originalmente neutral pero luego exhibe cualidades positivas y negativas (11:8.6)
 energías preelectrónicas que no responden a la gravedad lineal (0:6.6)
 
-Último | | Ver Dios Último | PERSON | 
+Último | | Dios Último | PERSON | 
 
-Deidad suprema | | Ver Dios Último | PERSON | 
+Deidad suprema | | Dios Último | PERSON | 
 
-último nivel | | Ver realidad:niveles de realidad:realidad absonita | | 
+último nivel | | realidad:niveles de realidad:realidad absonita | | 
 
-ultimatón | (42:6.2-6) | Ver átomo; materia | | 
+ultimatón | (42:6.2-6) | átomo; materia | | 
 100 en un electrón, unidos por atracción mutua (42:3.3) (42:4.6) (42:6.4)
 Los Organizadores de la Fuerza Maestros Asociados y los Directores del Poder Universal pueden acelerar ultimatón para volver a la energía poderosa (42:6.3)
 el frío te organiza en electrones (42:4.5,7)
@@ -65,23 +59,23 @@ el calor y la presión solares no pueden convertir ultimatón de vuelta a la ene
 propagarse o agruparse de acuerdo con velocidades axiales revolucionarias; no orbitar (42:6.4,6) (42:7.3,10)
 Los Centros Supremos del Poder se transmutan en electrones (42:4.3)
 
-ultraespecialización | | Ver sobreespecialización | | 
+ultraespecialización | | sobreespecialización | | 
 
 rayos ultravioleta | (42:5.9) | | | 
 
-Umayor la quinta | | Ver sectores mayores; Splandon | PLACE | 
+Umayor la quinta | | sectores mayores; Splandon | PLACE | 
 70 mundos de estudio giran (15:13.3)
 sede de Splandon, nuestro sector mayor (15:7.9) (15:13.3) (15:14.7)
 
 cordón umbilical | | | | 
 fetiche preciado (88:1.8)
 
-Umenor la tercera | | Ver Ensa; sectores menores | PLACE | 
+Umenor la tercera | | Ensa; sectores menores | PLACE | 
 sede de Ensa, nuestro sector menor (15:7.8) (15:14.7)
 
-unanimidad | | Ver unidad | | 
+unanimidad | | unidad | | 
 
-incrédulos | | Ver ateísmo; materialismo; laicismo | | 
+incrédulos | | ateísmo; materialismo; laicismo | | 
 Los rasgos aparentemente religiosos pueden surgir de raíces no religiosas (102:7.4)
 respuesta segura de los creyentes a (102:6.5) (102:7.6-9)
 puede ser moralmente bueno, leal, filial, honesto, idealista (102:7.4)
@@ -90,7 +84,7 @@ puede mostrar lealtad religiosa a la causa propugnada (100:6.1)
 solo paz para los incrédulos se basa en el optimismo o el fatalismo (181:1.7)
 normalmente mucho mejor para aplacar la ira de (181:2.15)
 
-incertidumbre | | Ver ansiedad; duda; miedo | | 
+incertidumbre | | ansiedad; duda; miedo | | 
 Referencia del Salmo 23 (48:6.12)
 solo, incertidumbre nunca puede evitar la supervivencia (110:3.5)
 vivió el hombre primitivo (86:1.4)
@@ -110,36 +104,36 @@ remediados por el consuelo y la estabilización de una religión sólida (99:4.6
 secreto de continuidad contenta (39:5.9)
 con seguridad es la esencia de la aventura del Paraíso (111:7.1)
 
-Centros No Clasificados | | Ver Centros Supremos del Poder | | 
+Centros No Clasificados | | Centros Supremos del Poder | | 
 en el registro de personalidad de Uversa (30:2.99)
 Centros Supremos del Poder; actuar como ruedas de equilibrio en esferas de relaciones energéticas extraordinarias (29:2.19)
 
 tío Josué | | | PERSON | 
 los niños se refirieron a Jesús como (128:6.11)
 
-espíritus inmundos | | Ver posesión demoníaca | | 
+espíritus inmundos | | posesión demoníaca | | 
 
 pastores ayudantes | | | | 
 Ser los pastores ayudantes del rebaño del Padre (165:2.6)
 
-comprensión | | Ver Espíritus Ayudantes de la Mente | | 
+comprensión | | Espíritus Ayudantes de la Mente | | 
 
-desempleo | | Ver ganarse la vida; labor | | 
+desempleo | | ganarse la vida; labor | | 
 las civilizaciones no pueden sobrevivir a gran escala y durante mucho tiempo (81:6.32)
 en la nación continental (72:5.11)
 Mejoras en la productividad buenas a pesar de la pérdida de puestos de trabajo (81:6.21-22)
 
-desafortunados | | Ver inferiores; débil, el | | 
+desafortunados | | inferiores; débil, el | | 
 sufrir siempre que la mayoría pueda avanzar (83:6.5)
 la iglesia, debido a un sentimiento demasiado falso, ha ministrado durante mucho tiempo a (99:3.5)
 la misericordia hacia los débiles y necesitados es un rasgo divino (26:11.5)
 más débil genera ganancias desproporcionadas en la evolución (84:5.9)
 
-infelicidad | | Ver felicidad; dolor | | 
+infelicidad | | felicidad; dolor | | 
 engendra una unificación deficiente (140:4.8,9)
 la presencia del Espíritu divino previene el descontento (34:6.8)
 
-uniformidad | | Ver unidad espiritual; unidad; originalidad | | 
+uniformidad | | unidad espiritual; unidad; originalidad | | 
 cada apóstol enseñó su propia visión del evangelio (148:1.2)
 Jesús no te desea, sino unidad (182:1.8)
 no es una base para la seguridad del grupo religioso; más bien unidad (103:5.12)
@@ -150,7 +144,7 @@ uniformidad o estandarización
 	la mediocridad busca perpetuarse en (48:7.29)
 	razón de la decadencia romana (195:3.9)
 
-Uniones de los Días | (18:6) (33:5) | Ver Emmanuel | ORDER | 
+Uniones de los Días | (18:6) (33:5) | Emmanuel | ORDER | 
 700.000 en existencia; no más ser creado (18:6.2) (21:1.4)
 actuar solo a petición de las autoridades locales (18:6.5)
 siempre en contacto unos con otros (18:6.4)
@@ -178,16 +172,16 @@ fomentar y promover el trabajo en equipo (28:5.14)
 en sincronía con los intérpretes de la ética en el Paraíso (28:5.13)
 Seconafines secundarios, asociados reflexivos de los Perfeccionadores de la Sabiduría (28:5.13-14)
 
-Reino Unido | | Ver Islas Británicas | PLACE | 
+Reino Unido | | Islas Británicas | PLACE | 
 
-Intermedios unidos de Urantia | | Ver intermedios | PERSON | 
+Intermedios unidos de Urantia | | intermedios | PERSON | 
 
 Estados Unidos de Norteamérica; Estados Unidos de América del Norte; Estados de la Unión Federal Americana; cuarenta y ocho Estados; Unión Federal Americana | (39:5.8) | | PLACE | 
 potencial creativo (82:6.5)
 Nacionalismo venerador de héroes en (92:6.20)
 los estados entregaron la soberanía al gobierno federal (134:5.13-15) (134:6.5)
 
-unidad | (56) | Ver hermandad (actitud); unidad espiritual; tolerancia; uniformidad | | 
+unidad | (56) | hermandad (actitud); unidad espiritual; tolerancia; uniformidad | | 
 La unidad de la Deidad es un hecho del Paraíso y de Havona; en los universos es un logro (8:6.6-7) (56:5)
 revelado en superuniversos por Siete Espíritus Rectores (17:8.9)
 Padre es explicación de (56:0.1-2) (56:9.11) (133:5.8)
@@ -215,7 +209,7 @@ Supremo es la base de (4:1.10)
 universal absoluto unidad (56:9)
 universo unidad existencial en la Trinidad del Paraíso (106:9.1)
 
-Absoluto Universal | (0:11.10-14) (56:9.7) (118:4.3-5) | Ver Absolutos:los tres | PERSON | 
+Absoluto Universal | (0:11.10-14) (56:9.7) (118:4.3-5) | Absolutos:los tres | PERSON | 
 definido como
 	un Absoluto de potencialidad (115:3.8,10)
 	una inevitabilidad (0:11.10)
@@ -274,7 +268,7 @@ Servicio
 	escribió los artículos 10, 15, 16, 29 (10:8.10) (15:14.10) (16:9.16) (29:5.8)
 testimonio de (10:2.8)
 
-Conciliadores Universales | (25:2-3) | Ver comisiones conciliadoras | ORDER | 
+Conciliadores Universales | (25:2-3) | comisiones conciliadoras | ORDER | 
 7 creados reflexivamente para cada Servital de Havona (25:2.1-2) (25:3.15)
 Adquirir una comprensión única del Ser Supremo (25:3.16)
 creado en 7 órdenes por Siete Espíritus Maestros y Espíritus Reflectantes (25:2.2)
@@ -295,11 +289,11 @@ YO SOY causa del Paraíso (105:2.6)
 Creador Universal | | | PERSON | 
 YO SOY uno con el Hijo Eterno, Creador del Espíritu Infinito y Havona (105:2.7)
 
-Padre Universal | (1) (2) (3) (4) (5) (0:3) | Ver Dios; YO SOY; El Infinito; circuito de personalidad; Ajustadores del pensamiento | PERSON | 
+Padre Universal | (1) (2) (3) (4) (5) (0:3) | Dios; YO SOY; El Infinito; circuito de personalidad; Ajustadores del pensamiento | PERSON | 
 7 mundos sagrados de (13:0.3) (13:1-2)
 absolutum es la expresión original no espiritual de (11:2.9)
 toda bondad tiene su origen en (8:2.7)
-también conocido como | Ver Deidad; Dios:también conocido como
+también conocido como | Deidad; Dios:también conocido como
 	Centro de centros (15:1.4)
 	Creador (1:1.1)
 	Creador, controlador, defensor, primera persona de la Deidad (0:2.12)
@@ -310,7 +304,7 @@ también conocido como | Ver Deidad; Dios:también conocido como
 	YO SOY
 	otros títulos (1:1) (24:7.2) (104:4.1)
 	Padre del Paraíso (54:6.2)
-	el infinito | Ver El Infinito
+	el infinito | El Infinito
 logro del Padre Universal es pasaporte a la eternidad (26:9.2)
 actitud
 	siempre uno de afecto divino (2:5.1) (4:3.5) (4:4.5)
@@ -342,7 +336,7 @@ actitud
 	el pecado no aliena los afectos de (3:1.12) (13:4.4)
 	anhela nuestra asociación (5:1.2)
 da vida a través de sus Hijos (3:0.1)
-conciencia de | Ver Dios:conciencia de Dios | (5:5)
+conciencia de | Dios:conciencia de Dios | (5:5)
 Los Hijos Creadores compensan la invisibilidad de (3:0.2)
 delegación de poder
 	El padre se ha distribuido a sí mismo en sus 6 coordenadas absolutas (5:0.2) (8:3.2)
@@ -408,7 +402,7 @@ descrito (3:6.7) (4:4.1-6) (105:3.2)
 	Jesús reveló al Padre, pero enseñó poco sobre él (120:1.2,4) (141:4) (169:4) (182:1.9-26)
 	ley del Padre Universal y voluntad del Padre Universal (141:2)
 	limitado solo por la voluntad (0:3.9) (8:5.2)
-	ubicado por fe | Ver fe
+	ubicado por fe | fe
 	mantiene relaciones personales con todas sus criaturas (1:5.9)
 	el hombre no puede ver al Padre Universal hasta el Paraíso (1:5.5) (153:2.11) (180:6.8)
 	se manifiesta de la manera habitual y normal (120:4.6)
@@ -440,7 +434,7 @@ descrito (3:6.7) (4:4.1-6) (105:3.2)
 	lo que el Padre Universal no es (1:2.2) (3:2.6-10) (4:5) (12:7.6) (102:6.3)
 adoración directa solo al Padre (5:3.1) (74:4.5) (131:1.3)
 el destino final de todas las personalidades es el conocimiento final de (106:8.22)
-hallazgo | Ver Dios:encontrar a Dios
+hallazgo | Dios:encontrar a Dios
 funciones
 	actúa a través de Hijos Creadores en universos locales (32:3.4) (32:4.3,10) (33:0.1)
 	como Deidad absoluta, solo en la Trinidad (10:4.1)
@@ -468,7 +462,7 @@ Dios Séptuple proporciona un acercamiento progresivo a (56:7.8)
 idea de la personalidad del Padre Universal traída por revelación (1:5.10)
 en el registro de personalidad de Uversa (30:2.11)
 Lucifer cargó al Padre Universal no existía (53:3.2)
-mandato para alcanzar la perfección | Ver mandamientos
+mandato para alcanzar la perfección | mandamientos
 métodos de contacto con el hombre (1:2.10) (2:1.7-8) (5:0.2)
 nombre significa grado de entronización en el corazón (1:1.3,6)
 ningún argumento sobre su realidad sería convincente (101:2.16) (102:1.5)
@@ -483,9 +477,9 @@ quien recibe a Jesús, recibe Padre Universal (158:8.1) (162:2.3)
 palabras y actos de subordinados atribuidos a (51:3.5)
 adorar al Padre Universal, primero porque él es (2:5.7) (16:9.14) (149:6.5)
 
-Inteligencia Universal | | Ver Espíritu Infinito | PERSON | 
+Inteligencia Universal | | Espíritu Infinito | PERSON | 
 
-Mente universal | | Ver Espíritu Infinito | PERSON | 
+Mente universal | | Espíritu Infinito | PERSON | 
 
 Madre Universal | | | PERSON | 
 El Hijo Eterno es (6:8.1)
@@ -497,7 +491,7 @@ YO SOY como YO SOY, el Padre Universal (105:2.11)
 Única Superalma Universal | | | PERSON | 
 Doctrina brahmánica; muy cerca de la verdad del Supremo (94:3.4-7)
 
-universo | | Ver gran universo; universos locales; universo maestro; realidad; espacio | PLACE | 
+universo | | gran universo; universos locales; universo maestro; realidad; espacio | PLACE | 
 administrado por el Padre, el Hijo y el Espíritu como uno solo (8:6.6)
 Los arquitectos del Universo Maestro encarnan el concepto de la Deidad de (118:4.6)
 destino (105:7.18) (106:0.18)
@@ -530,7 +524,7 @@ aspectos físicos
 	emanó del Paraíso a través del Absoluto Incalificado (42:2.3) (56:1.1)
 	sin fin, sin límites y todo incluido:atemporal, sin espacio y sin reservas (102:3.10)
 	circuitos establecidos continuamente comprometidos por la aparición de nueva energía y masa (116:5.16-17)
-	en expansión | Ver corrimiento al rojo; espacio:cimiento de respiración espacial del universo es material (42:0.1) (42:1.1)
+	en expansión | corrimiento al rojo; espacio:cimiento de respiración espacial del universo es material (42:0.1) (42:1.1)
 	control de la gravedad del Paraíso adecuado para un infinito universo (3:4.2) (8:4.1)
 	está delimitado; se mueve en un vasto plano alargado alrededor del Paraíso (15:0.1) (32:5.5) (42:1.9) (56:1.1)
 	es estable; no se agota (4:1.5) (15:8.10)
@@ -576,12 +570,12 @@ sujeto a Siete Directores Supremos del Poder (24:1.14)
 Coordinadores del Universo y Consejeros de las Constelaciones | | | ORDER | 
 clasificación de los Hijos Lanonandek (35:8.9)
 
-universo de universos | | Ver universo maestro | PLACE | 
+universo de universos | | universo maestro | PLACE | 
 
-Orientadores Universales | | Ver Serafines | ORDER | 
+Orientadores Universales | | Serafines | ORDER | 
 Serafines supremos; Facilitar el paso de los ascendentes de alcanzado a no alcanzado (39:1.10-11)
 
-poder del universo | | Ver gravita | | 
+poder del universo | | gravita | | 
 
 Directores del Poder Universal | (29) | | ORDER | 
 siempre completamente serio (48:4.11)
@@ -620,9 +614,9 @@ trabajo
 	transmutar energía poderosa en ultimatones y de nuevo en energía poderosa (42:6.3)
 	Supervisores de los Circuitos Universales sujetos a (24:1.14)
 
-Hijos del Universo | | Ver Hijos Creadores | ORDER | 
+Hijos del Universo | | Hijos Creadores | ORDER | 
 
-Espíritus del Universo | | Ver Espíritus Maternos de los universos locales | ORDER | 
+Espíritus del Universo | | Espíritus Maternos de los universos locales | ORDER | 
 
 Univitatia; univitatias; univitatia | (43:7) | | ORDER | 
 administrar mundos morontiales de constelaciones (43:7.2) (55:9.2)
@@ -644,9 +638,9 @@ desconocido | | | |
 el hombre tiene miedo (132:3.3)
 Pablo sobre el Dios desconocido (195:1.1)
 
-espacio no ocupado | | Ver espacio:espacio no ocupado | PLACE | 
+espacio no ocupado | | espacio:espacio no ocupado | PLACE | 
 
-Absoluto Incalificado | (0:4.5) (0:11.7-9) (12:2) (56:9.7) | Ver Absolutos:los tres | PERSON | 
+Absoluto Incalificado | (0:4.5) (0:11.7-9) (12:2) (56:9.7) | Absolutos:los tres | PERSON | 
 3 de 10 formas de energía dominadas por (29:3.11)
 definido como
 	una realidad positiva (0:11.8)
@@ -685,9 +679,9 @@ ejercer la soberanía de la supremacía en universos asentados en la luz y la vi
 personalización de la supremacía espacio-temporal (55:12.4)
 Las ayudas de imagen reflectante representan (15:10.21)
 
-irrealidad | | Ver ilusiones | | 
+irrealidad | | ilusiones | | 
 
-ley no escrita | | Ver linchamientos | | 
+ley no escrita | | linchamientos | | 
 
 Upanishads | | | RELIGION | 
 idea metafísica distante de un Absoluto que todo lo abarca (94:2.6-7)
@@ -713,7 +707,7 @@ uranio | | | |
 plomo producido por la desintegración de (42:4.12)
 interrumpe espontáneamente (42:7.9)
 
-Urantia | | Ver Monmatia | PLACE | 
+Urantia | | Monmatia | PLACE | 
 gobierno celestial (114)
 	Espíritus Ayudantes de la Mente relativamente aislados (65:7.3-4)
 	administración celestial
@@ -759,9 +753,9 @@ gobierno celestial (114)
 		El observador más alto es el fideicomisario de la soberanía (109:7.7) (114:3.5) (114:4)
 		los Altísimos ejercen especial cuidado sobre (43:3.6-8) (43:5.11,16)
 		El gobernador general residente supervisa como representante de 24 consejeros (45:4.16) (114:1.1) (114:2.4-5)
-historia | Ver edades geológicas; épocas planetarias | (57) (114) (121)
+historia | edades geológicas; épocas planetarias | (57) (114) (121)
 	breve historia de las épocas mortales (49:5.21-28)
-	Caligastia por defecto | Ver rebelión de Lucifer:en Urantia
+	Caligastia por defecto | rebelión de Lucifer:en Urantia
 	Definitivamente modificado por la rebelión de Lucifer y el defecto adámico (66:8.3) (67:0.1)
 	Historia temprana tomada de los archivos de Jerusem (57:0.1)
 	Miguel eligió personalmente a Urantia para el donación final (119:7.2) (122:0.2)
@@ -772,7 +766,7 @@ historia | Ver edades geológicas; épocas planetarias | (57) (114) (121)
 	luchó durante mucho tiempo en la barbarie (52:2.1)
 	tiempos del donación de Miguel (121)
 	coordinación inusual de agencias espirituales en el siglo VI a.C. (94:6.1)
-mortales de Urantia | Ver mortales | (49:2)
+mortales de Urantia | mortales | (49:2)
 	tienen dos cerebros (40:5.17) (49:5.13) (109:3.5)
 	tienen destino de fusión con el Ajustador, no fusión con el Hijo o el Espíritu (30:4.9)
 	nunca regrese a Urantia en la misma dispensación (39:4.15) (112:3.7) (146:7.2) (150:3.5)
@@ -784,7 +778,7 @@ aspectos físicos (57)
 	pertenece a un universo relativamente reciente (15:1.3)
 	geología
 		deriva continental (58:4.3-4) (58:5)
-		eras | Ver edades geológicas
+		eras | edades geológicas
 		calor, presión y elementos pesados ​​en el núcleo; densidad del hierro (41:4.3) (57:7.1) (57:8.16) (58:5.2,5-7)
 		Los metales que se encuentran cerca de la superficie son de volcanes antiguos, depósitos meteóricos (58:5.2).
 		el basalto fundido iguala las presiones cambiantes (58:5.3)
@@ -792,9 +786,9 @@ aspectos físicos (57)
 		1000 millas exteriores principalmente roca (58:5.2)
 		estabilización de la corteza (57:8)
 	en líneas de tremendas energías (41:2.8)
-	establecimiento de vida | Ver vida:biológica
+	establecimiento de vida | vida:biológica
 	ubicación en el universo (0:0.5) (15:1.5-6) ​​(15:14.5-8) (41:10.5)
-	Luna | Ver Luna (de Urantia)
+	Luna | Luna (de Urantia)
 	origen (57)
 		1/10 de su masa actual hace 2-1 / 2 mil millones de años (57:6.10)
 		estimaciones de edad demasiado cortas (57:7.3)
@@ -828,10 +822,10 @@ estado
 	Jesús no consideraba a Urantia como un valle de lágrimas (40:7.5) (149:5.5) (196:2.9)
 	La última adjudicación fue en la resurrección de Jesús (77:8.1)
 	la vida en Urantia marcadamente diferente de las esferas hermanas en Satania (49:5.11)
-	planeta serie 3 | Ver mortales:tipos planetarios | (109:3.4)
+	planeta serie 3 | mortales:tipos planetarios | (109:3.4)
 	oscurecido por el pecado, desafortunado, desordenado, atrasado, perturbado (20:5.6) (37:3.4) (48:6.22) (49:5.23) (50:6.2,5) (51:3.9) (51:5.1) (52:6.2,8) (55:2.10) (55:5.1) (55:6.9) (75:8.4) (76:5.7) (114:7.16-17) (116:0.2) (120:1.1) (145:5.1) (176:2.3) (184:4.4)
 	¡Qué vida en un planeta así! (111:7.5)
-	en cuarentena | Ver cuarentena
+	en cuarentena | cuarentena
 	único (114:0.3-10)
 	esperando la proclamación del mensaje de Miguel (94:12.7)
 	Mundo de la Cruz; santuario sentimental de todo Nebadon (20:5.5) (20:6.6) (57:8.6) (119:8.8) (176:4.1) (188:4.1)
@@ -839,18 +833,18 @@ el futuro
 	algún día el evangelio reinará (77:9.10) (142:2.2) (143:1.4) (176:1.1) (196:3.33)
 	gran esperanza reside en la nueva revelación de Jesús (195:9.2) (195:10.16)
 	Maquiventa Melquisedek puede convertirse en Soberano Planetario (55:7.3) (93:10.6-8)
-	Miguel volverá | Ver Jesús:segunda venida
+	Miguel volverá | Jesús:segunda venida
 	un músico real podría cambiar para siempre el curso de (44:1.15)
 	temblando al borde de la iluminación espiritual (195:9.2)
 	restauración a los circuitos del sistema (46:8.2-4)
 	algunas actividades ascendentes se concentrarán en (37:3.4)
 	la voluntad de Dios prevalece invariablemente con el total (3:5.3) (12:7.1,7) (115:3.13)
 
-Consejo asesor de Urantia | | Ver veinticuatro consejeros | PERSON | 
+Consejo asesor de Urantia | | veinticuatro consejeros | PERSON | 
 
-Intermedios de la Hermandad Unida de Urantia | | Ver intermedios | PERSON | 
+Intermedios de la Hermandad Unida de Urantia | | intermedios | PERSON | 
 
-Documentos de Urantia; documentos; documento; narraciones; narración; memorando; relato; exposición; resumen; adaptación | | Ver idioma:limitaciones del lenguaje humano; revelación | RELIGION | 
+Documentos de Urantia; documentos; documento; narraciones; narración; memorando; relato; exposición; resumen; adaptación | | idioma:limitaciones del lenguaje humano; revelación | RELIGION | 
 autores
 	reconocimientos por (0:12.13-14) (56:10.22,23) (121:0.1) (121:8.12-14)
 	El libro es una presentación compuesta por muchos seres (92:4.9)
@@ -901,7 +895,7 @@ valor de los documentos de Urantia
 	relato de eventos por aquellos que vieron lo que ocurrió (189:3.5)
 	Revelar la verdad sobre Dios y nuestro Hijo Creador (4:5.7)
 
-Urano; tres de los planetas mayores; tres tributarios | | Ver Monmatia | PLACE | 
+Urano; tres de los planetas mayores; tres tributarios | | Monmatia | PLACE | 
 El movimiento retrógrado prueba que Urano fue originalmente satélite de Angona (57:5.13-14)
 
 Urías el hitita; Urías; hitita | | | PERSON | 
@@ -927,10 +921,10 @@ Usatia | | | PERSON |
 jefe de Directores del Censo de Orvonton (24:2.5)
 personalidad total en sintonía con sus subordinados (24:2.5)
 
-usura | | Ver bancario; prestamistas | | 
+usura | | bancario; prestamistas | | 
 nunca emplee el poder del dinero para obtener una ventaja injusta (132:5.19)
 
-Uversa | | Ver Orvonton (superuniverso); superuniverso:cada superuniverso | PLACE | 
+Uversa | | Orvonton (superuniverso); superuniverso:cada superuniverso | PLACE | 
 centro administrativo para 1 billón de mundos habitables (15:7.11)
 Los Ancianos de los Días ocupan un punto de polaridad espiritual (18:3.6)
 capital de Orvonton, nuestro superuniverso (0:0.5) (15:7.10-11)

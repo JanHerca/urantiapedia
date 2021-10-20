@@ -1,21 +1,14 @@
 ####################################################################################
 #
-#                    V
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+#                     V
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-
-
-
-
-vacations | | See also recreation | | 
+vacations | | recreation | | 
 3-day vacations on Mount Sartaba (143:3.1)
 feast of tabernacles was annual Jewish holiday (134:9.4)
 in continental nation (72:4.3) (72:5.9)
@@ -23,7 +16,7 @@ in continental nation (72:4.3) (72:5.9)
 vale of tears | | | | 
 Jesus hardly regarded this world as (40:7.5) (149:5.5) (196:2.9)
 
-values | | See also ideals; meanings; science, philosophy, and religion | | 
+values | | ideals; meanings; science, philosophy, and religion | | 
 all spiritual values registered in duplicate (17:3.5)
 easier to agree on values than beliefs or creeds (103:1.4)
 Eternal Son grasps all true values (7:1.1)
@@ -52,9 +45,9 @@ warnings
 	values can never be static (100:3.5)
 	values must not become disproportionate (143:6.3)
 
-Van (lake) | | See Lake Van | PLACE | 
+Van (lake) | | Lake Van | PLACE | 
 
-Van (Prince’s staff) | (67:6) | See also Caligastia one hundred | PERSON | 
+Van (Prince’s staff) | (67:6) | Caligastia one hundred | PERSON | 
 1-2-3 the first supported (77:9.5)
 and entire council loyal in rebellion (67:4.1)
 could communicate with midwayers (74:4.3)
@@ -85,7 +78,7 @@ sea squirt oxygenates blood with (65:6.4)
 Vanites | | | RACE | 
 Amadonites and Nodites who forsook Nod for Van (77:4.10)
 
-vanity | | See also self-importance | | 
+vanity | | self-importance | | 
 drove man into society (68:2.4,6)
 early cause of war (70:1.10)
 early humans exhibited considerable (62:5.4)
@@ -95,16 +88,16 @@ refrain from (147:8.4)
 secrecy appeals to (70:7.7)
 threatens to swamp present-day civilization (68:2.11)
 
-variety | | See also monotony | | 
+variety | | monotony | | 
 essential to concept of beauty (56:10.3)
 indispensable for natural selection (64:6.31)
 is restful (48:6.37)
 
-Vedas | | See Rig-Veda | | 
+Vedas | | Rig-Veda | | 
 
-Vedic priesthood | | See Brahmanism | | 
+Vedic priesthood | | Brahmanism | | 
 
-vegetables | | See plants | | 
+vegetables | | plants | | 
 
 vegetarianism | | | | 
 Adam and Eve and their first generation children practiced (74:6.3) (76:3.7) (76:4.4)
@@ -143,12 +136,12 @@ employed by shamans (90:1.4)
 Venus (god) | | | PERSON | 
 Aphrodite, transplanted to Rome (98:3.3)
 
-Venus (planet) | | See also Monmatia | PLACE | 
+Venus (planet) | | Monmatia | PLACE | 
 mortals living on Venus would be superbreathers (49:2.13)
 retrograde motion proves Venus was originally satellite of Angona (57:5.13-14)
 suitable for life? (15:6.15)
 
-verdict | | See also judgment | | 
+verdict | | judgment | | 
 eternal verdict is, “Well done, good and faithful servant.” (25:1.6)
 
 Vergil | (195:2.6) | | PERSON | 
@@ -156,7 +149,7 @@ Vergil | (195:2.6) | | PERSON |
 Veronica of Caesarea Philippi | | | PERSON | 
 touched hem of Jesus’ garment (152:0.2-3) (171:7.8)
 
-vertebrates | | See animals | | 
+vertebrates | | animals | | 
 
 Vesta | | | PERSON | 
 Roman goddess of the home; Hestia in Greece (98:3.3)
@@ -169,7 +162,7 @@ over Urantia’s planetary government exercised by Most High observer (114:5.1)
 Vevona | | | PERSON | 
 planetary helper seraphim; chief of souls of peace; proclaimed Jesus’ birth (39:5.5)
 
-Vicegerington | (13:1.11-14) | See also sacred spheres of Paradise | PLACE | 
+Vicegerington | (13:1.11-14) | sacred spheres of Paradise | PLACE | 
 bosom of Father and Son (13:1.11)
 Corps of Conjoint Trinitized Finaliters based on (31:1.5)
 creature-trinitized beings held in reserve on (22:7.10) (23:4.3)
@@ -177,11 +170,11 @@ home of beings of origin in Father and Eternal Son (13:1.11)
 Solitary Messengers accompany creature-trinitized sons to V.; never leave (23:4.3)
 trinitization is secret of (13:1.12) (22:7.1)
 
-vices | | See also evil; self-gratification; sin | | 
+vices | | evil; self-gratification; sin | | 
 Jesus had little to say about (140:8.21)
 virtue carried to extremes may become vice (149:4.3)
 
-vicissitudes | | See accidents | | 
+vicissitudes | | accidents | | 
 
 victory | | | | 
 certain victory crowns efforts of all who run race of faith (32:5.8)
@@ -189,7 +182,7 @@ conquest by sacrifice of pride and selfishness (141:3.8)
 faith maintains trust in ultimate victory regardless (101:3.10)
 which overcomes world is faith (4:4.9)
 
-viewpoints | | See belief | | 
+viewpoints | | belief | | 
 
 Vilton | | | PERSON | 
 local system recorder; tertiary Lanonandek #374 (45:3.6)
@@ -203,16 +196,16 @@ sour wine (187:5.3)
 vineyard | | | | 
 parable of laborers in (163:3.5-7)
 
-violence | | See also nonresistance; self-defense | | 
+violence | | nonresistance; self-defense | | 
 law of nature (70:1.1)
 man secured freedom from violence by police regulation (81:5.5)
 outlawed as procedure in adjusting differences (72:5.3)
 religion opposes violence in social evolution (99:0.2) (99:2.5)
 unregulated competition breeds (71:5.1)
 
-violet race | | See Adamites | RACE | 
+violet race | | Adamites | RACE | 
 
-vipers | | See also snakes | | 
+vipers | | snakes | | 
 religious leaders called offspring of (175:1.21)
 
 virgin birth doctrine | | | | 
@@ -221,7 +214,7 @@ Jesus was conceived and born just like all other babies (119:7.5,6) (122:8.2) (1
 religious leaders believed born of virgins (92:5.6)
 sun god supposed to be father of virgin-born sons (85:5.3)
 
-virgins | | See also chastity | | 
+virgins | | chastity | | 
 bearing child before marriage increased girl’s desirability among primitives (82:3.13)
 custom for priests to have initial intercourse with (84:4.5)
 dedicated to tending sacred temple fires (85:4.4) (89:8.1)
@@ -229,18 +222,18 @@ primitives restricted bathing practices of (84:1.3-4)
 religious leaders conceived as being born of (92:5.6)
 virgin daughters were commercial asset to fathers (82:4.5)
 
-virtue | | See also greatness; righteousness | | 
+virtue | | greatness; righteousness | | 
 cardinal virtues of Socrates were wisdom, courage, temperance, and justice (98:2.6)
 carried to extreme, virtue may become vice (149:4.3)
 is righteousness; conformity with the cosmos (16:7.6-7)
 is volitional (21:3.14)
-morality is virtue (16:7.1) | See also morality
+morality is virtue (16:7.1) | morality
 not truly acquired until acts make one worthy of it (48:7.19)
 proportion required in exercise of (16:7.7)
 realized by consistent choosing of good over evil (16:7.6)
 supreme virtue is wholeheartedly to do Father’s will (16:7.10)
 
-viruses | | See also bacteria | | 
+viruses | | bacteria | | 
 most are renegade parasitic fungi (65:2.3)
 
 Vishnu | | | PERSON | 
@@ -257,9 +250,9 @@ range of material and spiritual (44:0.16-18)
 short-range; extended in light and life (29:1.1) (55:4.8) (55:6.3)
 we would be unable to see morontia temples if there, as we are (44:3.9)
 
-visions | | See also dreams; leadings; voices | | 
+visions | | dreams; leadings; voices | | 
 allow Adjuster constantly to bring forth pictures of eternal purposes of uphill struggle (111:7.2-3)
-dangers | See also mysticism
+dangers | mysticism
 regarding visions as divine communications (100:5.6)
 shamanesses threw themselves into trances (90:1.3)
 under no circumstances cultivate state of visionary consciousness (100:5.8)
@@ -290,38 +283,38 @@ evangelists to avoid overmuch social visiting (163:4.5)
 vitamins | | | | 
 role of sunlight (58:2.2)
 
-vocabulary | | See also language | | 
+vocabulary | | language | | 
 mere enlargement of vocabulary is not character development (100:1.3)
 
 vocation builders | | | | 
 divine builders, celestial artisans (44:3.3)
 
-voices | | See also leadings; visions | | 
+voices | | leadings; visions | | 
 Jesus did not indulge in hearing religious voices (196:0.10)
 Jesus’ voice was musical, fascinating, authoritative (125:5.1) (127:1.2) (154:6.5) (162:6.2) (183:3.5) (190:2.3)
 
-Voices of Angelic Hosts | | See also seconaphim | ORDER | 
+Voices of Angelic Hosts | | seconaphim | ORDER | 
 primary seconaphim (28:4.11)
 
-Voices of Conjoint Actor | | See also seconaphim | ORDER | 
+Voices of Conjoint Actor | | seconaphim | ORDER | 
 primary seconaphim (28:4.4)
 
-Voices of Creator Sons | | See also seconaphim | ORDER | 
+Voices of Creator Sons | | seconaphim | ORDER | 
 children of Reflective Spirits (40:10.2)
 primary seconaphim (28:4.6-10)
 
-Voices of Mercy | | See also seraphim | ORDER | 
+Voices of Mercy | | seraphim | ORDER | 
 justice guides may become (39:4.5)
 superior seraphim; foster holier emotions of men and angels (39:2.5)
 
-Voices of Seven Master Spirits | | See also seconaphim | ORDER | 
+Voices of Seven Master Spirits | | seconaphim | ORDER | 
 primary seconaphim (28:4.5)
 
-voices of the Garden | | See also seraphim; Solonia | ORDER | 
+voices of the Garden | | seraphim; Solonia | ORDER | 
 planetary helpers, personal seraphim of Adam and Eve (39:5.3)
 Solonia reproved Adam and Eve for disobedience (51:3.5) (73:7.5) (74:8.15) (75:4.2,8) (75:8.8) (76:6.5)
 
-Voices of Wisdom | | See also seconaphim | ORDER | 
+Voices of Wisdom | | seconaphim | ORDER | 
 secondary seconaphim, reflective associates of Perfectors of Wisdom; in liaison with living libraries of Paradise (28:5.7-10)
 
 volcanoes | (60:3.16) (61:1.11-12) (61:2.3) (61:3.7) | | | 
@@ -345,10 +338,10 @@ seraphim always serve as (113:2.3,7)
 
 Volvox | (65:2.5) | | | 
 
-voodoo doctors | | See also shamans | | 
+voodoo doctors | | shamans | | 
 typical of magicians of old (88:6.1)
 
-Vorondadek Sons | (35:5-6) | See also Most Highs | ORDER | 
+Vorondadek Sons | (35:5-6) | Most Highs | ORDER | 
 1 functions on Urantia as Most High observer (109:7.7) (114:3.5) (114:4)
 12 administer Norlatiadek (35:6.5) (43:5.2-15)
 12 sit en banc as high court of review (35:5.7)
@@ -377,7 +370,7 @@ ascenders educated in universe legislation on (35:7.1-2)
 
 Vosges mountains | (59:5.12) | | PLACE | 
 
-voting | | See suffrage | | 
+voting | | suffrage | | 
 
 vows | | | | 
 addiction to making foolish (89:6.3)

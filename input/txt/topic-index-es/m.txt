@@ -1,26 +1,19 @@
 ####################################################################################
 #
 #                     M
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
-
-
-
 
 Macad | (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
-Macabeo (Judas) | | Ver Judas Macabeo | PERSON | 
+Macabeo (Judas) | | Judas Macabeo | PERSON | 
 
-Macabeos | | Ver Judas Macabeo | | 
+Macabeos | | Judas Macabeo | | 
 antepasados ​​de María madre de Jesús identificados con (122:5.10)
 Palacio asmoneo de los Macabeos (125:1.5) (128:3.5) (185:4.1)
 Los esenios se originaron durante la revuelta de (137:7.8)
@@ -35,7 +28,7 @@ Macaerus (fortaleza) | | | PLACE |
 Herodes Antipas mantuvo su residencia en (135:12.1,4)
 Juan encarcelado en (135:12.1) (144:8.6) (144:9.1)
 
-máquinas | | Ver herramientas | | 
+máquinas | | herramientas | | 
 eficacia de las máquinas determina la supervivencia de los grupos contendientes (81:6.20)
 beneficios inestimables de (81:2.14)
 sin evaluación autoconsciente (195:6.11,13) (195:7.3,8-14)
@@ -47,7 +40,7 @@ algunas tribus de Madagascar destruyen a los niños nacidos en días de mala sue
 loco en Buenos Puertos | | | | 
 Jesús refrenó el asalto (130:5.4)
 
-Locura | | Ver locura | | 
+Locura | | locura | | 
 
 Madón | (134:7.5) (146:4.6) | | PLACE | 
 Población por la que pasó Jesús
@@ -65,7 +58,7 @@ Judá vivía con un pariente en (128:7.8) (137:3.1)
 Nube de Magallanes | | | PLACE | 
 en la Vía Láctea (15:4.8)
 
-magia | (88:4-6) | Ver supersticiones; brujería | | 
+magia | (88:4-6) | supersticiones; brujería | | 
 arte de coaccionar la ayuda espiritual involuntaria; asegurando una visión del futuro (88:4.1-3)
 intentar manipular a Dios o la realidad sin afectar el ego del manipulador (91:2.2) (91:8.2,7)
 creencia mucha enfermedad causada por (90:3.7)
@@ -100,7 +93,7 @@ quienes son
 	adjudicadores dispensacionales (20:2.5) (20:3.1) (55:10.5)
 	jueces de supervivencia en creaciones de tiempo y espacio (7:6.5) (20:2.1) (20:3.2)
 	personalizaciones del Hijo Eterno y el Espíritu Infinito (7:6.5) (20:1.11) (20:2.1) (20:10.3)
-misiones de donación | Ver Hijos Paradisíacos de Dios:donaciones
+misiones de donación | Hijos Paradisíacos de Dios:donaciones
 	acompañado de donaciones por
 		* 2 Brillantes Estrellas Vespertinas (20:2.9) (37:2.8)
 		* 12 Melquisedek (20:2.9) (35:2.6)
@@ -155,7 +148,7 @@ a veces invitan a banquetes (167:1.5)
 
 Maine | (59:3.2) (61:5.8) | | PLACE | 
 
-Majeston | (30:1.109) | Ver Espíritus Reflectantes | PERSON | 
+Majeston | (30:1.109) | Espíritus Reflectantes | PERSON | 
 50° Espíritu Reflectante (17:2.1-2)
 actualizado por la Deidad Absoluta en respuesta al Ser Supremo (0:7.9) (17:2.1-5) (106:8.20)
 creado por la Trinidad y los Siete Espíritus Rectores (17:2.1)
@@ -169,7 +162,7 @@ Enlaces reflectantes (30:1.110)
 Las ayudas de imagen reflectante representan (15:10.21)
 coordinador sintético de todas las actividades del Creador de criaturas (0:7.9)
 
-sectores mayores | | Ver Splandon | PLACE | 
+sectores mayores | | Splandon | PLACE | 
 10 en cada superuniverso (15:13.1)
 70 mundos de estudio giran (15:13.3)
 100 mil millones de mundos habitables en cada uno (15:2.23) (15:13.1)
@@ -195,7 +188,7 @@ Malaquías | | | PERSON |
 La profecía sobre Elías impresionó a Juan el Bautista (135:4.4)
 líder espiritual sin silencio (97:10.3)
 
-inadaptación | | Ver mala adaptación | | 
+inadaptación | | mala adaptación | | 
 
 malaria | | | | 
 Amata sana de (145:2.16)
@@ -217,7 +210,7 @@ la sección transversal vertical del espacio se asemeja (11:7.3-5)
 Malvorian | | | PERSON | 
 primera Guía de los Graduados; con Grandfanda; jefe de su orden (24:6.4-6)
 
-mamíferos | (61) (59:0.6) | Ver animales | | 
+mamíferos | (61) (59:0.6) | animales | | 
 la primera aparición falló (60:1.11)
 inmensas ventajas de supervivencia (61:1.3)
 pequeño mamífero reptil que pone huevos floreció hace 45 millones de años (61:1.9)
@@ -232,7 +225,7 @@ mamuts | (61:5.7) (61:7.13-14) | | |
 Mambré | | | PLACE | 
 Los seres celestiales se le aparecieron a Abraham en (93:6.7)
 
-hombre | | Ver mortales | | 
+hombre | | mortales | | 
 
 hombre de tristezas | | | | 
 no retraten a Jesús como (159:3.10)
@@ -242,7 +235,7 @@ hombre que atacó a su esposa en Tarento | (133:2.1-2) | | |
 Manasés | | | PERSON | 
 niño rey bajo el cual Judá fue destruido (97:9.23)
 
-mandatos | | Ver mandamientos | | 
+mandatos | | mandamientos | | 
 
 mandrágoras | | | | 
 Jesús denunció la creencia en (150:3.12)
@@ -270,7 +263,7 @@ Mansant | | | PERSON |
 gran maestro de los días posteriores al Príncipe Planetario (45:4.4) (64:6.29)
 uno de los 24 consejeros (45:4.4)
 
-Estudiantes de los Mundos de las Mansiones | | Ver mortales ascendentes; mundos de las mansiones; progresores morontiales | ORDER | 
+Estudiantes de los Mundos de las Mansiones | | mortales ascendentes; mundos de las mansiones; progresores morontiales | ORDER | 
 1 Compañero Morontial por cada 1000 supervivientes, inicialmente (47:3.12)
 capaz de ver asociados espirituales inferiores (9:8.13)
 Adquirir un cuerpo morontial recién ajustado para cada mundo (47:4.4)
@@ -324,7 +317,7 @@ capacitar a los niños en la guardería a prueba (47:2.1-2)
 normalmente trabajan en parejas (48:5.5)
 muy cerca del nivel morontial de existencia (48:5.5)
 
-mundos de las mansiones | (47) | Ver esferas arquitectónicas; Jerusem; Estudiantes de los Mundos de las Mansiones; morontia | PLACE | 
+mundos de las mansiones | (47) | esferas arquitectónicas; Jerusem; Estudiantes de los Mundos de las Mansiones; morontia | PLACE | 
 7 satélites del mundo de transición del sistema local número 1, la esfera de los finalitarios (30:4.16) (45:0.2) (45:1.2) (47:0.1) (48:1.2)
 primer mundo de las mansiones (47:3)
 	10 días de libertad inicial en (47:3.6)
@@ -334,7 +327,7 @@ primer mundo de las mansiones (47:3)
 	Gabriel selló el Memorial de Miguel el (188:3.11) (189:1.9)
 	el cielo como lo conciben la mayoría de los profetas (48:6.23)
 	Los Compañeros Morontiales nos darán la bienvenida (48:3.3,8)
-	la resurrección ocurre el | Ver resurrección; salas de resurrección | (47:3.2) (49:6.7)
+	la resurrección ocurre el | resurrección; salas de resurrección | (47:3.2) (49:6.7)
 	similar a las esferas evolutivas progresivas (47:3.1)
 	comienza el estudio de la mota morontial (47:4.8)
 segundo mundo de las mansiones (47:4)
@@ -383,12 +376,12 @@ las almas trasladadas de esferas establecidas no pasan (55:2.8-10) (55:6.8)
 mansiones | | | PLACE | 
 en la casa del Padre hay muchas (47:0.1) (133:4.9) (178:3.4) (180:3.4) (180:6.3) (181:1.2)
 
-Mundos de Mansonia | | Ver mundos de las mansiones | PLACE | 
+Mundos de Mansonia | | mundos de las mansiones | PLACE | 
 
 Mansurotia | | | PERSON | 
 primer asistente del Sistema Soberano; Terciario Lanonandek número 17,841 (45:3.3)
 
-fabricación | | Ver industria | | 
+fabricación | | industria | | 
 
 arces | (60:3.19) | | | 
 
@@ -406,24 +399,24 @@ perpetuación de la leyenda de Adán en Babilonia (92:5.6)
 Mardus | | | PERSON | 
 líder de los cínicos de Roma (132:2.1)
 
-vida marina | (59) | Ver animales; océanos | | 
+vida marina | (59) | animales; océanos | | 
 surgió después de que los océanos alcanzaran la salinidad necesaria (58:6.5)
 la mezcla del Atlántico y el Pacífico marcó el comienzo de un rápido declive (59:5.3)
 el enfriamiento de los océanos hace 170 millones de años destruyó la mayoría (59:6.9)
 la era temprana fue la edad de los trilobites (59:1)
 El paleozoico fue la era de (59:0.4)
-tipos nombrados | Ver amonitas; anfibios; artrópodos; percebes; braquiópodos; almejas; coral; cangrejos; crinoideos; crustáceos; calamares; delfines; equinodermos; pez; foraminíferos; gasterópodos; medusas; langostas; moluscos; pulpos; ostras; nautilo; bígaros; marsopas; protozoos; vieiras; pepinos de mar; leones marinos; serpientes marinas; chorros de mar; erizos de mar; gusanos de mar; focas; tiburones; camarones; esponjas; calamares; estrella de mar; esturión; trilobites; tortugas; serpientes de agua; ballenas
+tipos nombrados | amonitas; anfibios; artrópodos; percebes; braquiópodos; almejas; coral; cangrejos; crinoideos; crustáceos; calamares; delfines; equinodermos; pez; foraminíferos; gasterópodos; medusas; langostas; moluscos; pulpos; ostras; nautilo; bígaros; marsopas; protozoos; vieiras; pepinos de mar; leones marinos; serpientes marinas; chorros de mar; erizos de mar; gusanos de mar; focas; tiburones; camarones; esponjas; calamares; estrella de mar; esturión; trilobites; tortugas; serpientes de agua; ballenas
 
 prueba de culpa conyugal | | | | 
 del Antiguo Testamento (70:10.6)
 
-Marcos (Elías) | | Ver Elías Marcos | PERSON | 
+Marcos (Elías) | | Elías Marcos | PERSON | 
 
-Marcos (Evangelio) | | Ver Juan Marcos:Evangelio de Marcos | | 
+Marcos (Evangelio) | | Juan Marcos:Evangelio de Marcos | | 
 
-Marcos (Juan) | | Ver Juan Marcos | PERSON | 
+Marcos (Juan) | | Juan Marcos | PERSON | 
 
-Marcos (María) | | Ver María Marcos | PERSON | 
+Marcos (María) | | María Marcos | PERSON | 
 
 marca de la bestia | | | | 
 herencia desafortunada, mal ambiente (47:9.1) (47:10.2)
@@ -434,7 +427,7 @@ los fetiches vigilaban desde el principio (69:4.3)
 primeras ciudades de refugio (69:4.4)
 Los fariseos ansiaban saludos lisonjeros en (166:1.4)
 
-matrimonio | (82) (83) (84) | Ver novias; crianza de los hijos; niños; divorcio; dotes; familia; hogar; casamenteros; romance; sexo:impulso; sexos; bodas | | 
+matrimonio | (82) (83) (84) | novias; crianza de los hijos; niños; divorcio; dotes; familia; hogar; casamenteros; romance; sexo:impulso; sexos; bodas | | 
 siempre vinculado con la propiedad y la religión (82:4.1-2) (82:5.3) (83:0.2) (83:1.1-3)
 entre primitivos
 	siempre planeado por los padres (83:2.1)
@@ -520,7 +513,7 @@ no sentarse en el asiento principal en (167:1.5) (179:1.3-5)
 Marte (dios) | | | PERSON | 
 Dios romano de la guerra (98:3.1)
 
-Marte (planeta) | | Ver Monmatia | PLACE | 
+Marte (planeta) | | Monmatia | PLACE | 
 los mortales que viven en Marte serían subrespiradores (49:2.13)
 apto para la vida? (15:6.15)
 
@@ -531,7 +524,7 @@ en la décimo sexta aparición de Jesús (193:0)
 convirtió a María Magdalena (150:2.2)
 miembro del cuerpo de mujeres (150:1.1)
 
-Marta (hermana de Jesús) | (126:4.9) | Ver Jesús:familia | PERSON | 
+Marta (hermana de Jesús) | (126:4.9) | Jesús:familia | PERSON | 
 nacido el 13 de septiembre del año 3 d.C. (124:1.7)
 tejedor experto (128:3.1)
 La relación de Jesús con (124:4.3)
@@ -556,7 +549,7 @@ rico; heredó extensos viñedos y olivares (168:0.4) (172:1.7)
 Marta (esposa de Justo) | | | PERSON | 
 visita de 2 cortesanas (133:3.8-10)
 
-mártires | | Ver apedreados | | 
+mártires | | apedreados | | 
 alta devoción requerida para el martirio (143:1.6-7)
 individuos martirizados
 	Andrés crucificado en Patras (139:1.12)
@@ -593,7 +586,7 @@ madre de Juan Marcos; esposa de Elías (182:0.1)
 María (madre de los gemelos Alfeo) | (189:4.4) | | PERSON | 
 en la quinta aparición de Jesús (190:3.1)
 
-María (madre de Jesús) | (122:1) (137:6.1) (145:0.1) (154:5.1) (188:3.3) (192:0.3) | Ver Jesús:familia | PERSON | 
+María (madre de Jesús) | (122:1) (137:6.1) (145:0.1) (154:5.1) (188:3.3) (192:0.3) | Jesús:familia | PERSON | 
 actitudes
 	madre ambiciosa (137:4.8)
 	evitó a Jesús (145:0.1)
@@ -673,13 +666,13 @@ los miembros de la sociedad secreta usaban máscaras para asustar a los curiosos
 masaje | | | | 
 borró los malos espíritus del cuerpo (90:4.5)
 
-Maestro | | Ver Jesús | | 
+Maestro | | Jesús | | 
 pescadores galileos de sangre roja llamados Jesús Maestro (100:7.17) (141:3.5) (149:2.12)
 Los obreros de Zebedeo primero llamaron a Jesús Maestro (129:1.11)
 
-Maestros Arquitectos | | Ver Arquitectos del Universo Maestro | | 
+Maestros Arquitectos | | Arquitectos del Universo Maestro | | 
 
-Organizadores de la Fuerza Maestros; organizadores de fuerza del Paraíso | (29:5) | Ver Directores del Poder Universal | ORDER | 
+Organizadores de la Fuerza Maestros; organizadores de fuerza del Paraíso | (29:5) | Directores del Poder Universal | ORDER | 
 puede afectar los movimientos de los sistemas astronómicos (15:3.15)
 puede funcionar en el espacio exterior (29:5.7)
 controlar la creación del universo (15:8.10)
@@ -710,11 +703,11 @@ Seres trascendentales (30:1.97-98) (105:7.8)
 	#* transmutar energía potente en energía de gravedad (29:5.5) (42:2.12)
 soportar temperaturas y condiciones increíbles (29:5.7)
 
-maestro frandalancos | | Ver frandalanks | ORDER | 
+maestro frandalancos | | frandalanks | ORDER | 
 
 Maestro Matemático | (195:6.8) | | | 
 
-Migueles Maestros | | Ver Hijos Creadores; Hijos Paradisíacos de Dios | ORDER | 
+Migueles Maestros | | Hijos Creadores; Hijos Paradisíacos de Dios | ORDER | 
 después de la soberanía suprema, no puede crear tipos de criaturas completamente nuevos (21:5.6) (21:6.2)
 también conocidos como Hijos Creadores séptuples (20:1.15)
 capacidad para un servicio más que finito (21:6.2-3)
@@ -728,7 +721,7 @@ sujeto a tribunales superuniversales solo para asuntos sometidos voluntariamente
 supremo en sus universos (15:12.2) (21:5)
 destino desconocido con sus hijos mortales (21:6) (26:11.5)
 
-Controladores Físicos Maestros | (29:4) (41:2) (116:5.2) | Ver Directores del Poder Universal | ORDER | 
+Controladores Físicos Maestros | (29:4) (41:2) (116:5.2) | Directores del Poder Universal | ORDER | 
 500.000 en Satania (41:2.4)
 dirigido por Council of Equilibrium (29:4.2)
 eventos involucrados en
@@ -791,7 +784,7 @@ tipos de Controladores Físicos Maestros (29:4)
 	# frandalanks y chronoldeks
 utilizar cálculos de físicos (41:2.7)
 
-Serafines maestros de la supervisión planetaria; serafines maestros; serafines maestros de la supervisión planetaria | | Ver Serafines | ORDER | 
+Serafines maestros de la supervisión planetaria; serafines maestros; serafines maestros de la supervisión planetaria | | Serafines | ORDER | 
 movilizar cuerpos de reserva del destino (114:6.20)
 Graduados de Serafington; servir en 12 cuerpos (39:9.2) (114:6)
 tipos
@@ -823,27 +816,27 @@ tipos
 	# ángeles del ministerio sobrehumano
 	#* ministrar a la vida sobrehumana (114:6.16)
 
-Hijos Maestros | | Ver Migueles Maestros | ORDER | 
+Hijos Maestros | | Migueles Maestros | ORDER | 
 
-Espíritu Maestro Número Uno | | Ver Siete Espíritus Maestros | PERSON | 
+Espíritu Maestro Número Uno | | Siete Espíritus Maestros | PERSON | 
 representa al padre; preside el superuniverso número 1; aconseja al jefe de Monitores Misteriosos (16:3.2-3)
 
-Espíritu Maestro Número Dos | | Ver Siete Espíritus Maestros | PERSON | 
+Espíritu Maestro Número Dos | | Siete Espíritus Maestros | PERSON | 
 representa al Hijo Eterno; preside el superuniverso número 2 (16:3.4-5)
 
-Espíritu Maestro Número Tres | | Ver Siete Espíritus Maestros | | 
+Espíritu Maestro Número Tres | | Siete Espíritus Maestros | PERSON | 
 representa el Espíritu Infinito; dirige altas personalidades del Espíritu Infinito; preside el superuniverso número 3 (16:3.6-7)
 
-Espíritu Maestro Número Cuatro | | Ver Siete Espíritus Maestros | PERSON | 
+Espíritu Maestro Número Cuatro | | Siete Espíritus Maestros | PERSON | 
 representa Padre-Hijo; preside el superuniverso número 4 (16:3.8-9)
 
-Espíritu Maestro Número Cinco | | Ver Siete Espíritus Maestros | PERSON | 
+Espíritu Maestro Número Cinco | | Siete Espíritus Maestros | PERSON | 
 representa al Padre-Espíritu; asesora a directores de poder, controladores físicos; preside el superuniverso número 5 (16:3.10-11)
 
-Espíritu Maestro Número Seis | | Ver Siete Espíritus Maestros | PERSON | 
+Espíritu Maestro Número Seis | | Siete Espíritus Maestros | PERSON | 
 representa Hijo-Espíritu; preside el superuniverso número 6 (16:3.12-13)
 
-Espíritu Maestro Número Siete | | Ver Siete Espíritus Maestros | PERSON | 
+Espíritu Maestro Número Siete | | Siete Espíritus Maestros | PERSON | 
 consejero de todos los seres trinos, peregrinos de Havona (16:3.14,18-19)
 funciona personalmente para el Ser Supremo (16:1.2) (16:3.15-20) (26:6.3) (116:4.2)
 cabeza que preside los Siete Espíritus Rectores (16:3.15) (34:2.6)
@@ -851,7 +844,7 @@ representa Padre-Hijo-Espíritu; preside el superuniverso número 7 (16:3.14)
 habla en confirmación de las actitudes de la Trinidad (16:3.15-20)
 reconoceremos Espíritu Maestro número 7 en el séptimo circuito de Havona (14:5.4)
 
-Siete Espíritus Maestros | (16) | Ver Espíritu Maestro Número Uno; Espíritu Maestro Número Dos; Espíritu Maestro Número Tres; Espíritu Maestro Número Cuatro; Espíritu Maestro Número Cinco; Espíritu Maestro Número Seis; Espíritu Maestro Número Siete | ORDER | 
+Siete Espíritus Maestros | (16) | Espíritu Maestro Número Uno; Espíritu Maestro Número Dos; Espíritu Maestro Número Tres; Espíritu Maestro Número Cuatro; Espíritu Maestro Número Cinco; Espíritu Maestro Número Seis; Espíritu Maestro Número Siete | ORDER | 
 7 Arquitectos superuniversos del Universo Maestro asociados con (31:9.5)
 todas las criaturas se parecen al Espíritu Maestro de la natividad del superuniverso (16:5) (26:2.5)
 también conocido como Seven Spirits; Siete Espíritus del Paraíso; Siete supervisores de centro (16:4.1) (16:5.2)
@@ -924,7 +917,7 @@ Los espíritus reflectantes y los Seconafines reflejan a los Espíritus Maestros
 los superuniversos conocen los asuntos mutuos sólo a través de (15:10.23)
 tradición de los Espíritus Maestros en Ur (95:6.2,7)
 
-universo maestro | (12) | Ver gran universo; niveles de espacio; universo | PLACE | 
+universo maestro | (12) | gran universo; niveles de espacio; universo | PLACE | 
 6 elipses concéntricas comprenden (12:1.3)
 círculos alrededor del Paraíso (3:2.4)
 circular y delimitado (12:0.2-3) (12:1.1,16) (105:3.7)
@@ -968,9 +961,9 @@ casamenteros | | | |
 primero fueron barberos; luego, sacerdotes (83:2.1)
 matrimonios negociados para personas fallecidas (82:3.8)
 
-Hijas materiales | | Ver Hijos Materiales de Dios | ORDER | 
+Hijas materiales | | Hijos Materiales de Dios | ORDER | 
 
-energía material | | Ver energía; materia | | 
+energía material | | energía; materia | | 
 todas las formas de movimiento, acción y potencial fenoménicos (0:6.3)
 Los circuitos tienen origen en el Paraíso inferior (11:5.1)
 controlado por los directores de poder universal (24:1.1)
@@ -981,7 +974,7 @@ la gravedad es el único control de la energía-materia (0:6.11)
 Espíritus Maestros involucrados en las fluctuaciones de (16:4.11-12)
 requiere 968 millones de años para rodear el superuniverso (15:8.2)
 
-Hijos Materiales de Dios | (51) (45:5) | Ver Adán; Eva | ORDER | 
+Hijos Materiales de Dios | (51) (45:5) | Adán; Eva | ORDER | 
 161.432.840 en Nebadon; en constante aumento (45:5.4)
 como hijos ascendentes (40:2)
 donación de Miguel como (119:3)
@@ -1055,7 +1048,7 @@ desde el donación de Miguel como Hijo Material, nadie se ha unido a sabiendas e
 tránsito de (51:2)
 subiendo por Hijos Materiales se prepara para el Espíritu de la Verdad (34:7.1)
 
-materialismo | (195:6-7) | Ver comunismo; mecanicismo (teoría); laicismo | | 
+materialismo | (195:6-7) | comunismo; mecanicismo (teoría); laicismo | | 
 afirma que el hombre es un accidente evolutivo (102:0.1)
 afirma que el universo es un fenómeno energético sin propósito (195:6.6,8)
 efecto
@@ -1085,11 +1078,11 @@ el joven Jesús pasó mucho tiempo en (123:6.3)
 
 profesor de matemáticas de Damasco | (123:6.3) | | | 
 
-instinto de apareamiento | | Ver sexo:impulso | | 
+instinto de apareamiento | | sexo:impulso | | 
 
-matriarcado | | Ver familia:familias matriarcales | | 
+matriarcado | | familia:familias matriarcales | | 
 
-materia | | Ver energía; energía material; materia, mente y espíritu | | 
+materia | | energía; energía material; materia, mente y espíritu | | 
 Existen 100 elementos (42:7.4)
 absoluto de materia converge en el Padre (12:8.13)
 apariencia de materia
@@ -1139,7 +1132,7 @@ modificaciones de materia
 	transmutaciones (42:4)
 de todos los soles y planetas es idéntico (41:3.2) (42:3.1)
 de las esferas sagradas del Paraíso es de orden no revelado (13:0.2)
-partículas y unidades | Ver átomo; electrón; mesotrón; neutrón; protón; ultimatón
+partículas y unidades | átomo; electrón; mesotrón; neutrón; protón; ultimatón
 integridad relativa de materia asegurado porque la energía se absorbe o se libera en cuantos (42:4.13-14)
 espíritu dominante sobre materia en personalidad (25:1.4)
 sujeto a la gravedad absoluta del Paraíso (21:2.12) (42:4.2) (115:6.1)
@@ -1150,10 +1143,10 @@ las unidades son estables pero eficientemente flexibles (42:9.5)
 gran cantidad de materia circula en el espacio (15:5.9)
 trabajo que descansa materia puede realizar (42:4.11)
 
-materia, mente y espíritu | (12:8) | Ver ciencia, filosofía y religión | | 
+materia, mente y espíritu | (12:8) | ciencia, filosofía y religión | | 
 distintos reinos de la realidad cósmica (65:7.8)
 
-Mateo Leví | (139:7) (143:3.5) (144:1.7) | Ver apóstoles de Jesús | PERSON | 
+Mateo Leví | (139:7) (143:3.5) (144:1.7) | apóstoles de Jesús | PERSON | 
 entre 120 en Pentecostés (194:1.2)
 agente fiscal apostólico, portavoz de publicidad (138:10.6) (139:7.2) (163:0.2)
 en las apariciones de Jesús (191:2.1) (192:1-4) (193:0.3,5)
@@ -1195,7 +1188,7 @@ esposa en el cuerpo de mujeres (163:7.3)
 Matías | | | PERSON | 
 declarado nuevo apóstol en la posición de Judas (192:0.2) (193:6.2,3,6)
 
-madurez | | Ver inmadurez | | 
+madurez | | inmadurez | | 
 une el pasado y el futuro para iluminar el verdadero significado del presente (118:1.3-8)
 permite una vida más intensa en el presente mientras se escapa de sus limitaciones (118:1.7)
 multiplica los frutos de los esfuerzos de la vida (160:3.3)
@@ -1218,9 +1211,9 @@ perpetúa la antigua costumbre de adorar a los árboles (85:2.5)
 Maza | | | PLACE | 
 ramas de sauce cortadas en (162:4.4)
 
-comidas | | Ver comida | | 
+comidas | | comida | | 
 
-significados | | Ver ciencia, filosofía y religión; valores | | 
+significados | | ciencia, filosofía y religión; valores | | 
 conciencia apreciativa de los valores (100:3.4)
 puede aumentarse incluso en relaciones de Deidad infinita (115:2.2)
 derivado del reconocimiento y la comprensión (111:4.2)
@@ -1228,9 +1221,9 @@ nuevos significados solo emergen en medio de un conflicto (100:4.1)
 la religión descubre nuevos significados en hechos ya bien conocidos (101:1.4)
 requieren desenmarañamiento y correlación en mente (102:2.5)
 
-medios versus fines | | Ver fines versus medios | | 
+medios versus fines | | fines versus medios | | 
 
-medidas | | Ver años luz; tiempo:días y años; pesos | | 
+medidas | | años luz; tiempo:días y años; pesos | | 
 las constelaciones usan la misma medida como universos locales (43:0.3)
 milla en Jerusem es igual a 7 millas de Urantia (46:1.2)
 paradojas de la medición simultánea (65:6.1)
@@ -1238,7 +1231,7 @@ paradojas de la medición simultánea (65:6.1)
 la Meca | | | | 
 Fetiche de piedra de la Kaaba en (95:7.5)
 
-controladores maquinales | | Ver Controladores Físicos Maestros | ORDER | 
+controladores maquinales | | Controladores Físicos Maestros | ORDER | 
 10 ahora estacionados en Urantia (29:4.19)
 10 estacionados en la capital de cada constelación (41:1.4)
 direccionar la energía en circuitos especializados; ecualizar las presiones de los circuitos interplanetarios (29:4.20)
@@ -1251,7 +1244,7 @@ número en billones (29:4.18)
 poseen antigravedad en exceso de todos los demás seres (29:4.19)
 tipo de Controlador Físico Maestro (29:4.6)
 
-mecanicismo (teoría) | | Ver materialismo; laicismo | | 
+mecanicismo (teoría) | | materialismo; laicismo | | 
 50.000 hechos de la física y la química incompatibles con la creación accidental (58:2.2-5)
 no tiene en cuenta las diferentes interpretaciones de la mente (195:6.11)
 rinde homenaje involuntario a Dios (3:6.4-5)
@@ -1279,9 +1272,9 @@ Una de las poblaciones recorridas en la misisón de Perea
 
 Media | (134:2.1) | | PLACE | 
 
-mediadores | | Ver intercesores | | 
+mediadores | | intercesores | | 
 
-medicamento | | Ver enfermedad; salud; lesión; médicos; enfermo | | 
+medicamento | | enfermedad; salud; lesión; médicos; enfermo | | 
 entre primitivos
 	creencias espíritus de enfermedades expulsados ​​por mal olor y mal sabor medicamento (90:4.8)
 	creencia en los remedios vegetales (90:4.7)
@@ -1296,7 +1289,7 @@ abstenerse de despreciar los medios materiales de curación (164:3.15)
 bolsa de medicina | | | | 
 bolsa que contiene artículos impregnados de fantasmas (88:3.3)
 
-curanderos | | Ver chamanes | | 
+curanderos | | chamanes | | 
 
 mediocridad | | | | 
 peligros de la sobreconservación mediocridad (149:4.3)
@@ -1307,7 +1300,7 @@ la vida religiosa transforma a los mediocres en personas de poder idealista (100
 busca la perpetuación en la estandarización (48:7.29)
 estancamiento del dominio de (70:12.10)
 
-meditación | | Ver oración; comunión espiritual; adoración | | 
+meditación | | oración; comunión espiritual; adoración | | 
 después de la oración, permanezca en receptividad silenciosa (146:2.17)
 siempre exitoso incluso si es superconsciente (133:4.10)
 trae liberación de las ilusiones del mal (131:4.7)
@@ -1325,7 +1318,7 @@ valor en la resolución de problemas (160:1.10-12)
 
 Puente terrestre Mediterráneo-océano Índico; puente terrestre | (64:7.13) | | | 
 
-región mediterránea | | Ver puertos; mar Mediterráneo | PLACE | 
+región mediterránea | | puertos; mar Mediterráneo | PLACE | 
 Los anditas se trasladaron a las islas de (78:6.8) (80:7)
 área de razas altamente mezcladas (78:1.11)
 civilización interrumpida por las inundaciones en el año 15.000 a.C. (78:3.7)
@@ -1333,9 +1326,9 @@ geología (59:3.6) (60:1.12) (60:2.7) (61:1.12) (61:3.8) (61:4.2) (62:1.2) (64:1
 comercio de tierras casi suspendido durante las invasiones nómadas hacia el 2500 a.C.; comercio marítimo en pleno apogeo (80:9.9)
 Sede de Onagar (63:6.7)
 protegido por el istmo de Gibraltar y el puente terrestre de Sicilia en los primeros días de la raza violeta; inundaciones tras su colapso (80:1.1) (80:2.4-5)
-raza de | Ver raza blanca:divisiones:sur
+raza de | raza blanca:divisiones:sur
 
-mar Mediterráneo | | Ver región mediterránea | PLACE | 
+mar Mediterráneo | | región mediterránea | PLACE | 
 El Mar Negro una vez fue una extensión de (64:4.10)
 colapso del istmo de Gibraltar (80:2.4-5)
 creación (58:4.3) (64:6.11)
@@ -1344,12 +1337,12 @@ pocos buenos puertos marítimos en el este (121:2.2)
 se expandió enormemente en 15.000 a.C. (81:1.2)
 la vida marina evolucionó en (59:6.9)
 
-cabezas medianas | | Ver calaveras | | 
+cabezas medianas | | calaveras | | 
 Las razas de Sangik fueron (81:4.2)
 
-mediumnidad | | Ver espiritismo | | 
+mediumnidad | | espiritismo | | 
 
-mansedumbre | | Ver humildad; sumisión | | 
+mansedumbre | | humildad; sumisión | | 
 fruto del Espíritu (34:6.13)
 Dios está cerca de los quebrantados de corazón (131:2.10)
 hombre cooperando con Dios (140:5.11)
@@ -1362,7 +1355,7 @@ Rodan enseñó filosofía en la escuela de (161:2.12)
 Meguido | (149:0.1) | | PLACE | 
 campo de batalla internacional de Palestina (126:1.2) (127:6.4)
 
-Mek | | Ver cien de Caligastia | PERSON | 
+Mek | | cien de Caligastia | PERSON | 
 y todo el consejo leal en rebelión (67:4.1)
 consejo planetario dirigido sobre arte y ciencia (66:5.23)
 
@@ -1372,9 +1365,9 @@ oración prereligiosa; prácticas de maná (91:0.5)
 melanina | | | | 
 pigmento de piel andónico original, como el de los esquimales (63:4.1)
 
-Melquisedek (Padre) | | Ver Padre Melquisedek | PERSON | 
+Melquisedek (Padre) | | Padre Melquisedek | PERSON | 
 
-Maquiventa Melquisedek | (93) | Ver Hijos Melquisedek; misioneros:misioneros de Salem | PERSON | 
+Maquiventa Melquisedek | (93) | Hijos Melquisedek; misioneros:misioneros de Salem | PERSON | 
 aparición y partida sin previo aviso (93:8.1) (93:10.2)
 apareció en Salem para contactar a los niños de Taré (35:4.5) (93:5.3)
 Coautor del documento 56 (56:10.22)
@@ -1407,7 +1400,7 @@ desde su encarnación
 	estado actual (93:10)
 	Vicegerente Príncipe Planetario de Urantia (45:4.16) (93:10.5) (114:0.11) (114:1.2-4)
 	Seguirá a los mortales de Urantia hasta el Cuerpo de Finalidad (93:10.9)
-enseñanzas | Ver enseñanzas de Salem
+enseñanzas | enseñanzas de Salem
 	los preceptos cardinales eran la confianza y la fe (92:4.7)
 	pacto con Abraham por el cual Dios hace todo y
 	el hombre cree (93:6)
@@ -1419,17 +1412,17 @@ enseñanzas | Ver enseñanzas de Salem
 	enseñó el advenimiento de otro Hijo de Dios (93:3.7)
 	fueron la tercera revelación de época (92:4.7)
 
-Malavatia Melquisedek | | Ver Hijos Melquisedek | PERSON | 
+Malavatia Melquisedek | | Hijos Melquisedek | PERSON | 
 Patrocinador del documento 43 (43:9.6)
 
-Manovandet Melquisedek | | Ver Hijos Melquisedek | PERSON | 
+Manovandet Melquisedek | | Hijos Melquisedek | PERSON | 
 autor del documento 53 (53:9.9)
 
-Mantutia Melquisedek | | Ver Hijos Melquisedek | PERSON | 
+Mantutia Melquisedek | | Hijos Melquisedek | PERSON | 
 creación dirigida de las Partes II y III (56:10.23) (119:8.9)
 escribió el artículo 120 (120:0.1)
 
-Hermandad de Melquisedek; fraternidad de Melquisedek; culto de Salem | | Ver misioneros:misioneros de Salem | | 
+Hermandad de Melquisedek; fraternidad de Melquisedek; culto de Salem | | misioneros:misioneros de Salem | | 
 los miembros prometieron proclamar buenas nuevas a todos los hombres (93:4.4)
 casi desapareció después de la partida de Melquisedek (93:9.1)
 más de 100.000 pagadores de diezmos en rollos de tablillas de arcilla (93:4.1) (93:6.8)
@@ -1440,7 +1433,7 @@ sobre Jerusem (45:7.4-5)
 Facultad Melquisedek de Dotación Espiritual | | | | 
 evangelizadores del destino entrenados en (35:3.21)
 
-Síndicos Melquisedek; síndicos planetarios; síndicos Melquisedeks | | Ver Hijos Melquisedek | ORDER | 
+Síndicos Melquisedek; síndicos planetarios; síndicos Melquisedeks | | Hijos Melquisedek | ORDER | 
 12 administraron Urantia después de la rebelión (67:6.5-6)
 actividad en Urantia (93:0.2)
 entregó la custodia planetaria a Adán (74:2.6)
@@ -1456,7 +1449,7 @@ seleccionaron a Adán y Eva (74:1.3-4)
 arrojados completamente por sus propios recursos (93:1.3)
 advirtió a Adán y Eva acerca de los peligros (51:3.4)
 
-Hijos Melquisedek; Melquisedeks | (35:2.4) | Ver Padre Melquisedek; Maquiventa Melquisedek; Síndicos Melquisedek | ORDER | 
+Hijos Melquisedek; Melquisedeks | (35:2.4) | Padre Melquisedek; Maquiventa Melquisedek; Síndicos Melquisedek | ORDER | 
 todos creados en el mismo milenio (35:1.3)
 quiénes son
 	por naturaleza observadores sin prejuicios (35:2.3)
@@ -1531,7 +1524,7 @@ Mundos de los Melquisedek; mundos | | | PLACE |
 templo de Melcart | | | PLACE | 
 en Tiro; se convirtió en el sitio de la iglesia cristiana (156:4.2)
 
-melodías | | Ver música | | 
+melodías | | música | | 
 
 memoriales | | | | 
 619 memoriales planetarios sobre Jerusem (46:5.27,31)
@@ -1564,18 +1557,18 @@ menstruación | | | |
 pecado grave en el que ser detectado; cuarentena completa (84:4.8-9)
 sangre sugerida como creadora del niño (84:2.1)
 
-enfermedad mental | | Ver locura | | 
+enfermedad mental | | locura | | 
 
 mercader de damasco | | | | 
 le pidió a Jesús que entrara en su negocio de importación (128:3.3)
 pidió a Jesús que estableciera una escuela en Damasco (128:4.1-4)
 Jesús tradujo el griego al idioma indio para (130:0.4)
 
-Mercurio (planeta) | | Ver Monmatia | PLACE | 
+Mercurio (planeta) | | Monmatia | PLACE | 
 órbita comparada con la elección interna del átomo (42:7.2)
 la rotación cesó debido a la fricción de las mareas (57:6.2)
 
-misericordia | | Ver equidad; gracia (la misericordia de Dios) | | 
+misericordia | | equidad; gracia (la misericordia de Dios) | | 
 y justicia (133:1)
 soportar al hermano descarriado (54:5.5)
 la necesidad de la criatura es totalmente suficiente para asegurar la plena misericordia (2:4.2,4)
@@ -1610,7 +1603,7 @@ cuando la misericordia se agota, la justicia prevalece (21:5.7) (28:6.7)
 sirenas | | | | 
 antiguos objetos de adoración (85:3.2)
 
-Mesopotamia | (130:0.3) | Ver río Éufrates; segundo jardín; sumerios; río Tigris | PLACE | 
+Mesopotamia | (130:0.3) | río Éufrates; segundo jardín; sumerios; río Tigris | PLACE | 
 5% de los anditas superiores se negaron a irse (78:6.6)
 Anditas expulsados ​​de (78:6.7) (79:1.7)
 apariencia de las ciudades (79:1.4)
@@ -1645,19 +1638,19 @@ segundo jardín ubicado en (76.3) (78:0.1-2)
 maestro extraño de Mesopotamia soñó con el nacimiento de Jesús (122:8.6)
 Todán llevó el evangelio a (146:1.4)
 
-mesotrón | | Ver átomo; materia | | 
+mesotrón | | átomo; materia | | 
 180 veces más pesado que los electrones (42:8.3)
 núcleos atómicos unidos por reciprocidad de (42:8.3-7)
 desintegrarse en electrones (42:8.5)
 muchos rayos en el espacio (42:8.7)
 
-Mesozoico; Mesozoica | | Ver edades geológicas | | 
+Mesozoico; Mesozoica | | edades geológicas | | 
 era de la vida terrestre temprana, desde hace 150 a 50 millones de años (59:0.5) (60:4.6)
 
 bastón mensajero | | | | 
 escritura temprana (69:4.7)
 
-mensajes | | Ver comunicación | | 
+mensajes | | comunicación | | 
 
 cuerpo de mensajeros (de David Zebedeo) | (157:0.2) (163:5.2-3) | | PERSON | 
 25 centinelas publicados sobre la casa de Zebedeo (154:6.7)
@@ -1697,7 +1690,7 @@ personalidades del Espíritu Infinito (30:2.65)
 mensajeros (Supernafines terciarios) | (26:3.7) | | ORDER | 
 grupo dentro de los Supernafines terciarios
 
-Mesías | | Ver Libertador | | 
+Mesías | | Libertador | | 
 el ungido (136:1.1)
 las ideas alimentadas durante mucho tiempo por los apóstoles sobre (140:8.1) (152:6.1) (157:4.1) (158:4.4) (180:6.9)
 falso Mesías en el monte Gerizim (185:1.6)
@@ -1753,7 +1746,7 @@ confusión de (101:2.7) (101:3.1)
 intento inútil de compensar la ausencia de mota (103:6.7-15) (103:7.8-9)
 Los griegos buscaron en vano consuelo en (98:2.2-3)
 
-meteoritos | | Ver cometas; cuerpos espaciales | | 
+meteoritos | | cometas; cuerpos espaciales | | 
 oxígeno atmosférico agotado por la combustión de (57:7.6,9)
 impresionante para el hombre primitivo (85:1.2)
 bombardear mundos que no respiran (49:3.2-3)
@@ -1786,18 +1779,18 @@ Ayudó invaluablemente a Eliseo (97:2.2)
 
 ratones | (49:1.6) (61:2.7) | | | 
 
-Migueles (orden) | | Ver Hijos Creadores | ORDER | 
+Migueles (orden) | | Hijos Creadores | ORDER | 
 llamado así por el Hijo Miguel original (21:0.3-5)
 
 Memorial de Miguel (en el primer mundo de las mansiones); Monumento conmemorativo de Miguel; monumento conmemorativo a Miguel | | | PLACE | 
 sellado por Gabriel (188:3.11) (189:1.9)
 
-Memorial de Miguel (en Jerusem); monumento conmemorativo a Miguel | | Ver Miguel de Nebadon | PLACE | 
+Memorial de Miguel (en Jerusem); monumento conmemorativo a Miguel | | Miguel de Nebadon | PLACE | 
 en círculos de los Hijos de Dios; personal de más de 1 millón (46:5.19)
 
-Miguel de Nebadon | (119) (33:1-2) | Ver Cristo; Hijos Creadores; Jesús; Migueles Maestros | PERSON | 
+Miguel de Nebadon | (119) (33:1-2) | Cristo; Hijos Creadores; Jesús; Migueles Maestros | PERSON | 
 comenzó la organización de Nebadon hace 400 mil millones de años; El personal llegó hace 300 mil millones de años (57:3.8) (119:0.7)
-donaciones | Ver Hijos Creadores:donaciones de criaturas; Hijos Paradisíacos de Dios:donaciones
+donaciones | Hijos Creadores:donaciones de criaturas; Hijos Paradisíacos de Dios:donaciones
 	primer donación
 		como Melquisedek (119:1)
 		Voluntad manifestada del Padre, el Hijo y el Espíritu (119:8.4)
@@ -1840,7 +1833,7 @@ donaciones | Ver Hijos Creadores:donaciones de criaturas; Hijos Paradisíacos de
 			para completar la experiencia requerida; subordinarse a la voluntad del Padre (120:0.4) (189:1.10)
 			ganar experiencia en las criaturas, la soberanía del universo, resolver la rebelión de Lucifer, revelar a Dios, llevar a los hombres a ser conscientes del hijo (120) (120:4.4) (128:0.2-4) (128:1.1) (128:7.6) (129:3.5-8) (129:4.7) (185:3.4) (189:1.10) (193:0.3)
 		El Hijo de Dios se hizo Hijo del Hombre (13:1.8)
-		Verbo hecho carne | Ver Jesús:personalidad y naturaleza:Dios encarnado en el hombre | (20:5.1)
+		Verbo hecho carne | Jesús:personalidad y naturaleza:Dios encarnado en el hombre | (20:5.1)
 	comenzó hace mil millones de años; ocurrió a intervalos de 150 millones de años (119:0.7) (119:8.2)
 	podría gobernar como representante de la Trinidad solo después de los 7 donaciones, adquiriendo así la soberanía suprema (21:3) (120:0.4)
 	creó la posibilidad de soberanía del Supremo en Nebadon (119:8.5-7)
@@ -1864,7 +1857,7 @@ estableció 24 consejeros, que lo representan con respecto a los pases de lista 
 Gabriel es regente cuando Miguel está ausente (33:2.5) (33:4.7) (33:6.1)
 la sede es triple mansión de luz (33:1.1)
 su paternidad creativa ha hecho posible nuestra vida (112:7.8)
-Rebelión de Lucifer | Ver rebelión de Lucifer
+Rebelión de Lucifer | rebelión de Lucifer
 	El séptimo donación puso fin a la rebelión excepto en planetas con Príncipes Planetarios apóstatas y en otros 2 sistemas (53:8.3-4)
 	Miguel supo del desafecto de Lucifer 500 años antes de la rebelión (53:2.3)
 	Miguel ofreció a los rebeldes perdón, alguna forma de reinstalación (53:9.1) (54:4.5)
@@ -1879,8 +1872,8 @@ nadie va al Padre excepto a través de (0:8.11) (180:3.7)
 no involucrado en trabajo judicial (33:7.1)
 otorga personalmente las credenciales de los mortales para continuar con la carrera del superuniverso (112:7.8)
 posee capacidad ilimitada para experimentar Supremo (101:6.5)
-referido como Cristo Miguel | Ver Cristo
-regreso a Urantia | Ver Jesús:segunda venida
+referido como Cristo Miguel | Cristo
+regreso a Urantia | Jesús:segunda venida
 a veces envía mensajes en el circuito de los arcángeles (46:3.4)
 soberanía
 	podría haber afirmado la soberanía personal en cualquier momento (21:3.2-3) (120:0.3-4) (120:1.6)
@@ -1895,9 +1888,9 @@ El Espíritu de la Verdad es el espíritu de (15:9.12)
 Trinidad planes totalmente aprobados para Nebadon (32:0.3)
 servirá en el espacio exterior en la próxima era del universo (119:8.7)
 
-Hijo Miguel | | Ver Hijos Creadores | ORDER | 
+Hijo Miguel | | Hijos Creadores | ORDER | 
 
-Miguel (original) | | Ver Hijos Creadores; Hijos Paradisíacos de Dios | PERSON | 
+Miguel (original) | | Hijos Creadores; Hijos Paradisíacos de Dios | PERSON | 
 pasó por 7 circuitos de Havona (7:5.8-9) (8:4.3) (21:0.4)
 presidente que preside los Hijos Paradisiacos primarios (21:0.5)
 
@@ -1917,19 +1910,19 @@ mató a los mamíferos precursores (62:3.4)
 sometió su rincón de la creación (62:3.5)
 aparición repentina de los mamíferos precursores (61:6.1) (62:3.1)
 
-mitad de la mente | | Ver alma | | 
+mitad de la mente | | alma | | 
 
-Edad Media | | Ver edades de tinieblas | | 
+Edad Media | | edades de tinieblas | | 
 
 madianitas | | | RACE | 
 La incursión hebrea en madianitas ilustra la crueldad de la guerra antigua (70:1.15)
 en los días de Gedeón (124:6.6)
 
-mundo midsonita | | Ver midsonitarios | ORDER | 
+mundo midsonita | | midsonitarios | ORDER | 
 círculos de Salvington (36:4.4-5)
 Los Hijos e Hijas Materiales reciben Ajustadores en (55:4.27)
 
-midsonitarios | (30:1.111) (36:4.5-6) ​​(45:6.9) | Ver mundo midsonita | ORDER | 
+midsonitarios | (30:1.111) (36:4.5-6) ​​(45:6.9) | mundo midsonita | ORDER | 
 1 mundo en cada sistema local es para (36:4.1)
 llegar a los sistemas locales en luz y vida (55:8.4)
 ayuda en la guardería probatoria del sistema (45:6.9)
@@ -1940,7 +1933,7 @@ progenie de Melquisedek Portadores de Vida e Hijas Materiales (35:1.3) (36:4.1-2
 seres reproductores hasta que se eliminan después de 1000 años (36:4.3)
 barrios de finalitarios (36:4.8)
 
-zonas del espacio intermedio | | Ver espacio | PLACE | 
+zonas del espacio intermedio | | espacio | PLACE | 
 400.000 años luz de ancho entre 7 superuniversos y el primer nivel del espacio exterior (12:1.14)
 50.000.000 de años luz de ancho entre el primer y el segundo nivel del espacio exterior (12:1.15)
 libre de polvo de estrellas, niebla cósmica (12:1.14)
@@ -1951,10 +1944,10 @@ niveles de espacio separados, aunque menos ahora que antes (11:5.6) (11:7.2,7-8)
 zonas de transición del tiempo a la eternidad (12:5.4)
 zonas entre el Paraíso y los superuniversos (11:7.1) (14:1.2)
 
-mensajeros intermedios | | Ver intermedios | ORDER | 
+mensajeros intermedios | | intermedios | ORDER | 
 pequeño grupo de intermedios que entregan mensajes (77:8.6)
 
-intermedios | (77) (38:9) (45:3.20) Ver intermedios primarios; intermedios secundarios | | ORDER | 
+intermedios | (77) (38:9) (45:3.20) | intermedios primarios; intermedios secundarios | | ORDER | 
 Adán y Eva pudieron ver (76:4.5)
 siempre se encuentra en planetas decimales (38:9.2)
 clasificación (38:9.1)
@@ -2015,11 +2008,11 @@ tipos
 		vida animal directa en Jerusem (46:7.2)
 		pasar por la experiencia de la paternidad en asociación con Hijos Materiales (45:6.5)
 		intermedios traducidos (30:1.53) (30:2.52)
-	intermedios primarios | Ver intermedios primarios
-	intermedios rebeldes | Ver posesión demoníaca | (77:7)
+	intermedios primarios | intermedios primarios
+	intermedios rebeldes | posesión demoníaca | (77:7)
 		todos ahora internos (51:3.7) (77:7.8)
 		muchos intermedios perdidos en mundos rebeldes (53:7.8)
-	intermedios secundarios | Ver intermedios secundarios
+	intermedios secundarios | intermedios secundarios
 Intermedios unidos de Urantia (77:8)
 intermedios primarios y secundarios leales se unieron en Pentecostés para formar (38:9.10) (51:3.8) (77:8.1)
 lema de los Intermedios Unidos (77:9.3)
@@ -2028,7 +2021,7 @@ número 10.992 (77:6.6) (77:8.1)
 intermedios (jefe de Urantia) | (74:2.5) (91:9.9) | | PERSON | 
 escribió el documento 91 (91:9.9)
 
-intermedios primarios | (77:1) | Ver intermedios | ORDER | 
+intermedios primarios | (77:1) | intermedios | ORDER | 
 50.000 por planeta creado durante 500 años (38:9.3-4) (66:4.10) (77:1.4-5)
 el destino es unirse a un cuerpos finalitarios del Paraíso (31:6.2) (40:3.1)
 energizado por la técnica angelical (38:9.6-7)
@@ -2049,7 +2042,7 @@ parecerse a los ángeles (38:9.8)
 uniforme en el estado intelectual (38:9.6)
 trabajar con visitantes celestiales (77:8.10)
 
-intermedios secundarios | (77:6) | Ver intermedios | ORDER | 
+intermedios secundarios | (77:6) | intermedios | ORDER | 
 todos los que sobreviven reciben Ajustadores y eventualmente se unen al cuerpos finalitarios Mortales (31:6.2) (40:3.1)
 puede trabajar con Controladores Físicos Maestros (38:9.8)
 derivado de Adanes y Evas o su progenie inmediata (38:9.4) (51:3.6) (77:0.2)
@@ -2081,16 +2074,16 @@ minorías insubordinadas de sujetos (51:3.6)
 varían física, intelectual y espiritualmente (38:9.7)
 visible para los humanos en luz y vida (55:4.8)
 
-partería | | Ver embarazo | | 
+partería | | embarazo | | 
 origen (84:4.6)
 las vergüenzas se volvieron adeptas a (90:4.4)
 
-fuerza bruta | | Ver compulsión | | 
+fuerza bruta | | compulsión | | 
 hace cumplir los derechos comúnmente reconocidos (81:5.6)
 hace lo que es y lo que ha sido (81:6.15)
 era la ley entre los antiguos (70:11.13) (70:12.2)
 
-Mensajeros Poderosos | (22:2) | Ver Hijos de la Consecución Trinitizados | ORDER | 
+Mensajeros Poderosos | (22:2) | Hijos de la Consecución Trinitizados | ORDER | 
 dotado de todo lo que un día logran los finalitarios (40:10.12)
 se le ocurrió por primera vez a Grandfanda (15:10.11)
 plenamente consciente de las carreras ascendentes (22:2.9)
@@ -2123,12 +2116,12 @@ milla | | | |
 en Jerusem equivale a 7 millas de Urantia (46:1.2)
 segunda milla de servicio y devoción gratuitos (195:10.5)
 
-militarismo | | Ver militar | | 
+militarismo | | militar | | 
 autocrático y cruel; se desintegra vencido (70:2.18)
 militarismo nacionalista en conflicto con el industrialismo (70:2.11)
 la posición social de la mujer variaba inversamente con el grado de (84:5.3)
 
-militar | | Ver militarismo; autodefensa | | 
+militar | | militarismo; autodefensa | | 
 la acumulación de riqueza grupal condujo a (69:5.2)
 evitar operaciones ofensivas para obtener ganancias o engrandecimiento (71:4.17)
 el gobierno puede emplear la fuerza (133:1.5) (133:4.12) (140:8.4)
@@ -2154,7 +2147,7 @@ La enseñanza de Jesús a (133:4.2)
 piedra de molino | | | | 
 sobre el cuello de uno que hace que el niño tropiece (158:8.1)
 
-mente | (9:5 seg.) (42:10 seg.) | Ver conciencia; mente cósmica; mente mortal | | 
+mente | (9:5 seg.) (42:10 seg.) | conciencia; mente cósmica; mente mortal | | 
 Los absolutos parecen trascender la mente (4:1.8)
 El donación de Dios de la mente no disminuye su mente (3:4.3)
 Espíritu Infinito
@@ -2164,7 +2157,7 @@ Espíritu Infinito
 	la mente se origina exclusivamente en, y converge en, el Espíritu Infinito (0:3.14) (9:1.1) (9:5.2) (21:2.7) (56:2.2)
 	ministerio a la mente (8:4.1) (12:6.2-3)
 	pura mente sujeto solo al agarre de la gravedad del Espíritu Infinito (9:6.6)
-gravedad mental | Ver gravedad:tipos
+gravedad mental | gravedad:tipos
 naturaleza de la mente
 	capacidad de conocer y ser conocido (6:6.2)
 	siempre competente para producir un cuerpo adecuado (42:12.9-15)
@@ -2243,7 +2236,7 @@ tipos de mente
 	Niveles mentales que no se pueden enseñar (mente pre-ayudante)
 		contactado por ayudante mente-espíritu de intuición (36:5.6)
 		dominio de los Controladores Físicos Maestros y los Centros Supremos del Poder (9:5.3) (29:2.9) (36:5.14-15) (41:2.6) (42:10.3) (65:0.6) (65:7.5)
-	Mente del Paraíso | Ver mente:tipos de mente:mente absoluta
+	Mente del Paraíso | mente:tipos de mente:mente absoluta
 	espíritu mente del Hijo Eterno (6:6)
 
 Manipuladores de la Energía mental; manipuladores de la energía mental | | | ORDER | 
@@ -2262,7 +2255,7 @@ enseñar sobre Urantia (48:6.26)
 personalidades de energía mental y física | | | ORDER | 
 no responde a la gravedad espiritual (30:1.113)
 
-minerales | | Ver rocas y minerales | | 
+minerales | | rocas y minerales | | 
 
 Minerva | | | PERSON | 
 Capitolio en Roma dedicado a (132:0.2)
@@ -2281,15 +2274,15 @@ con sede en el primer mundo de las mansiones (48:6.34)
 cuarteto de espíritus ministrantes | | | | 
 apegado al jefe ejecutivo mortal en luz y vida (55:4.15,16)
 
-espíritus ministrantes | (26:1) | Ver ángeles; Espíritu Infinito:familia | ORDER | 
+espíritus ministrantes | (26:1) | ángeles; Espíritu Infinito:familia | ORDER | 
 
-ministros | | Ver sacerdotes | | 
+ministros | | sacerdotes | | 
 
-ministerio | | Ver servicio | | 
+ministerio | | servicio | | 
 
 Minesota | (58:7.4) | | PLACE | 
 
-sectores menores | | Ver Ensa | PLACE | 
+sectores menores | | Ensa | PLACE | 
 7 satélites giran alrededor (18:4.8)
 los ascendentes son espíritus de primera etapa en (31:3.4)
 los ascendentes solo pasan por uno (18:5.5)
@@ -2316,10 +2309,10 @@ bien organizado y superior minorías han gobernado el mundo (81:6.14)
 menta | | | | 
 diezmar menta sin tener en cuenta los asuntos más importantes (175:1.17)
 
-Mioceno | | Ver edades geológicas | | 
+Mioceno | | edades geológicas | | 
 edad de 25 a 10 millones de años (61:3:15)
 
-milagros | | Ver Jesús:milagros y curaciones | | 
+milagros | | Jesús:milagros y curaciones | | 
 se creía un lugar común en tiempos de Jesús (121:7.12) (136:6.6-8) (136:8.1) (137:6.5) (145:2.17)
 se cree realizado por dioses reconocidos, no por magia (90:2.3)
 definido como
@@ -2347,7 +2340,7 @@ abstenerse de enseñar a los enfermos a esperar (163:4.3)
 
 Miriam (Antiguo Testamento) | (150:3.1) | | PERSON | 
 
-Miriam (hermana de Jesús) | | Ver Jesús:familia | PERSON | 
+Miriam (hermana de Jesús) | | Jesús:familia | PERSON | 
 en la cuarta aparición de Jesús (190:2.6)
 nacido el 11 de julio del 2 a.C. (123:2.3)
 Jesús idealizado; su relación con Miriam (124:4.3) (127:6.2)
@@ -2366,15 +2359,15 @@ primitivos considerados espejos con temor supersticioso (86:5.14)
 el alma con corazón limpio refleja la verdad como un espejo (131:7.3)
 Las Almas de la Filosofía reflejan la sabiduría de la divinidad (28:5.11)
 
-mala adaptación | | Ver confusión; dificultades | | 
+mala adaptación | | confusión; dificultades | | 
 La falta de armonía existe porque Dios permite el libre albedrío (75:8.6-7).
 el futuro agotará las posibilidades de (117:7.13)
 inherente al crecimiento evolutivo (105:6.4)
 
-miseria | | Ver dificultades; sufrimiento | | 
+miseria | | dificultades; sufrimiento | | 
 evitar la mera comunión en (159:3.11)
 
-desgracia | | Ver dificultades | | 
+desgracia | | dificultades | | 
 
 Mispé | (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
@@ -2407,12 +2400,12 @@ Grandes Lagos una vez vaciados (61:7.10)
 
 Missouri | (61:7.9) | | PLACE | 
 
-errores | | Ver error | | 
+errores | | error | | 
 olvidado en la eternidad (156:5.8)
 Dios no comete errores (2:1.2) (4:3.5)
 los recuerdos de vidas pasadas sin significado espiritual perecerán con el cerebro material (112:5.22)
 
-malentendidos | | Ver maldad | | 
+malentendidos | | maldad | | 
 evitar todo lo innecesario (156:5.18)
 ser experto en planchar menores (178:1.7)
 resultado inevitable de la ignorancia y el poder de elección (25:3.7,12)
@@ -2428,7 +2421,7 @@ Jesús tuvo una conversación con él
 sacerdote mitríaco en Corinto; jefe sincero del culto mitríaco | (133:4.4) | | PERSON | 
 Jesús tuvo una conversación con él
 
-mitraísmo | | Ver Mitra; cultos de misterio | RELIGION | 
+mitraísmo | | Mitra; cultos de misterio | RELIGION | 
 y cristianismo (98:6) (98:7.7)
 	Los líderes cristianos comprometidos con el mitraísmo (195:0.9,11)
 	el mitraísmo era similar en apariencia y ritual al cristianismo primitivo (98:6.3)
@@ -2447,7 +2440,7 @@ Sol Invictus era el dios sol de (98:5.3)
 La adoración al sol dio origen al mitraísmo en Irán (85:5.2)
 suplantó los misterios frigios y egipcios (98:5.1)
 
-Mitra | | Ver mitraísmo | PERSON | 
+Mitra | | mitraísmo | PERSON | 
 campeón del dios sol en lucha con el dios de las tinieblas (98:5.3)
 
 comisión mixta de los doce en Jerusem | | | | 
@@ -2461,7 +2454,7 @@ colinas de Moab | (123:5.12) | | PLACE |
 moabitas | | | RACE | 
 El rey David impuso un gran tributo (97:9.14)
 
-multitud | | Ver población | | 
+multitud | | población | | 
 
 moderación | | | | 
 eventua en encanto (48:7.11)
@@ -2477,18 +2470,18 @@ surgió por temor a ser observado durante el período menstrual (84:4.8)
 Dinastía Mogol; Mogol | | | | 
 evolución política ininterrumpida desde la autodeterminación a la soberanía (134:5.9)
 
-Mahoma | | Ver Islam | PERSON | 
+Mahoma | | Islam | PERSON | 
 gran maestro religioso; fundó el Islam; extranjeros protestados, vida religiosa incoherente de su pueblo (92:5.14)
 retorno buscado en el Islam (92:5.6)
 
-moluscos | (59:3.5,11) | Ver cefalópodos | | 
+moluscos | (59:3.5,11) | cefalópodos | | 
 especies no progresivas:ostras, pulpos, caracoles (65:2.5)
 
 órdenes monásticas | | | | 
 en la edad oscura (195:4.1)
 mantenido por individuos que carecen de impulsos sexuales normales (82:3.9)
 
-dinero | | Ver denarios; ganarse la vida; ébolos; libras; siclos; talentos:dinero; pieza de diez centavos; riqueza | | 
+dinero | | denarios; ganarse la vida; ébolos; libras; siclos; talentos:dinero; pieza de diez centavos; riqueza | | 
 los apóstoles y evangelistas aconsejaron tomar dinero, no tomar dinero (140:9.3) (163:1.3) (180:0.2)
 no puedo amar (127:2.8)
 el primero fue el pescado, las cabras o las vacas (69:4.5)
@@ -2501,7 +2494,7 @@ rendir tributo dinero a César (174:2.2)
 lenguaje universal del comercio (70:3.5)
 ácaros de la viuda (172:4.2)
 
-cambistas | | Ver bancario; usura | | 
+cambistas | | bancario; usura | | 
 en la corte de los gentiles (125:1.1)
 Jesús limpiado del templo (173:1)
 con licencia para cambiar moneda por shekel (173:1.3) (173:2.3)
@@ -2517,15 +2510,15 @@ influyente culto fluvial (85:4.1)
 mercader de Mongolia | | | | 
 habló con Jesús en Cesarea (130:2.2)
 
-mongoloides | | Ver razas | RACE | 
+mongoloides | | razas | RACE | 
 raza compuesta por sangiks rojos, amarillos y azules (81:4.12)
 
-monos | | Ver simios | | 
+monos | | simios | | 
 apariencia (61:1.9) (61:3.12) (61:4.4)
 se convirtieron en animales fetiche (88:1.5)
 los mamíferos intermedios retrasados ​​eran antepasados ​​de (62:3.12)
 
-Monmatia | (57:5) | Ver Sol (de Urantia) | PLACE | 
+Monmatia | (57:5) | Sol (de Urantia) | PLACE | 
 3 planetas de Angona tenían movimiento retrógrado, como Venus y Urano (57:5.13-14)
 3 planetas adecuados para la vida (15:6.15)
 Quinto planeta fragmentado en asteroides (57:6.5)
@@ -2538,14 +2531,14 @@ registrado hace 3000 millones de años (57:6.9)
 gira en torno a la antigua nebulosa de Andronover (15:3.6-9)
 El sistema solar de Urantia (57:2.1) (57:5)
 
-monogamia | | Ver matrimonio | | 
+monogamia | | matrimonio | | 
 
-monota | | Ver realidad:niveles de realidad:realidad absoluta | | 
+monota | | realidad:niveles de realidad:realidad absoluta | | 
 indistinguible del espíritu excepto por el nombre (116:6.7)
 energía viviente no espiritual del Paraíso (42:2.19)
 revela realidades no espirituales de la Primera Fuente; absoluto (42:10.1)
 
-monoteísmo | | Ver religión | | 
+monoteísmo | | religión | | 
 La desintegración del imperio Mogol impidió el crecimiento de (79:1.9)
 Factores políticos egipcios favorecidos (95:2.2)
 Los sacerdotes egipcios combinaron y dividieron con guiones a sus dioses (95:5.11)
@@ -2553,7 +2546,7 @@ permitió al hombre ver al Padre como creador y controlador (1:0.1)
 evolución de (96:0.1) (96:1.14) (104:2.1)
 puro monoteísmo reduce a Dios al estado de Absoluto panteísta (104:2.2)
 
-monotonía | | Ver trabajo penoso; variedad | | 
+monotonía | | trabajo penoso; variedad | | 
 indica inmadurez de la imaginación creativa (14:5.8)
 multiplica perplejidades y dificultades (143:3.7)
 nunca encontrado en la economía universal (28:6.18)
@@ -2574,12 +2567,12 @@ bodas una vez celebradas cuando la Luna completo (83:4.5)
 eventualmente se romperá por la gravedad de las mareas (57:6.3-4)
 adorado durante la era de la caza (85:5.2)
 
-tribu Moqui; tribu moqui | | Ver raza roja | RACE | 
+tribu Moqui; tribu moqui | | raza roja | RACE | 
 serpiente venerada en la danza de (88:1.5)
 
 morrenas | (61:7.1) | | | 
 
-moralidad | | Ver conciencia; ética | | 
+moralidad | | conciencia; ética | | 
 siempre antecedente de la religión (5:5.4)
 entre los gentiles, no necesariamente relacionado con la religión (121:5.17)
 antiguas sociedades secretas destinadas a mejorar la moral (70:7.11)
@@ -2624,7 +2617,7 @@ suelo en el que germina la religión revelada (103:2.3)
 generalmente adquirido entre primitivos con apariencia de lenguaje (52:1.6)
 la sociedad bien ordenada nutre (34:7.4)
 
-costumbres | (68:4) | Ver tradiciones | | 
+costumbres | (68:4) | tradiciones | | 
 el hombre antiguo fue víctima indefensa de (68:4.4)
 cristalizado por la creencia de que los muertos castigarían a quienes despreciaran las reglas por las que habían vivido (68:4.3)
 dependiente de la relación tierra-hombre (68:5.1) (68:6.1)
@@ -2639,7 +2632,7 @@ origen de las costumbres siempre inconsciente y no intencional (68:4.2)
 El personal del Príncipe no impuso las costumbres sobre tribus (66:6.5)
 freno de seguridad contra un avance demasiado rápido (68:4.5-6)
 
-morontia | (48) | Ver mundos de las mansiones; mente:tipos de mente:mente morontial; progresores morontiales; mundos morontiales | | 
+morontia | (48) | mundos de las mansiones; mente:tipos de mente:mente morontial; progresores morontiales; mundos morontiales | | 
 el arte es mortal morontia (195:7.15-16)
 los seres celestiales permitieron a los humanos ver al Jesús morontial (189:4.11)
 criaturas de morontia respirar gas morontial (43:1.3)
@@ -2652,7 +2645,7 @@ definido como
 las formas pueden volverse indiferentes a la materia ordinaria o contactables (189:2.3-4)
 el bien que hacemos aquí contribuye directamente a la vida morontial (103:5.7)
 invisible a la visión humana (44:3.2)
-Jesús en morontia | Ver Jesús:eventos en la vida:apariciones morontiales
+Jesús en morontia | Jesús:eventos en la vida:apariciones morontiales
 conocido desde los primeros días del Príncipe Planetario (48:1.1)
 vida en morontia implica un contacto real con energías reales (48:6.29)
 la vida morontial iniciada en la concepción del alma (48:6.2)
@@ -2668,7 +2661,7 @@ vida vegetal modificada en cada esfera ascendente (48:2.8,22)
 ralentizado, se convierte en material morontial (48:2.20)
 Sustancia y mente creadas por los Supervisores del Poder Morontial (16:4.5) (42:2.4) (48:1.3) (48:2.18)
 
-Querubines morontiales | | Ver Querubines y Sanobines | ORDER | 
+Querubines morontiales | | Querubines y Sanobines | ORDER | 
 
 Compañeros Morontiales | (25:7) (48:3) | | ORDER | 
 casi totalmente autónomo (48:3.3)
@@ -2704,16 +2697,16 @@ Consejeros Morontiales | (48:6.27-28) | | ORDER |
 Serafines de ministro de transición de cuarto orden (39:6.1)
 enseñar mota a los progresores morontiales (48:6.27-28)
 
-vida morontial | | Ver morontia | | 
+vida morontial | | morontia | | 
 
-mente morontial | | Ver mente:tipos de mente:mente morontial | | 
+mente morontial | | mente:tipos de mente:mente morontial | | 
 
-mota morontia | | Ver mota | | 
+mota morontia | | mota | | 
 
 planificadores morontiales | | | ORDER | 
 Constructores Divinos, Artesanos Celestiales (44:3.7)
 
-Supervisores del Poder Morontial | (48:2) | Ver Directores del Poder Universal | ORDER | 
+Supervisores del Poder Morontial | (48:2) | Directores del Poder Universal | ORDER | 
 ausente de ocasiones de regocijo (47:10.1)
 servir siempre en el universo local nativo (48:2.11)
 construir un templo morontial (55:1.3)
@@ -2743,7 +2736,7 @@ tipos (30:1.91) (30:2.108) (48:2)
 	# Los Clasificadores Selectivos
 	# Los Registradores Asociados
 
-progresores morontiales | (48:8) (112:6) | Ver mortales ascendentes; Estudiantes de los Mundos de las Mansiones; mundos de las mansiones; morontia | ORDER | 
+progresores morontiales | (48:8) (112:6) | mortales ascendentes; Estudiantes de los Mundos de las Mansiones; mundos de las mansiones; morontia | ORDER | 
 la seguridad de la verdad reemplaza la seguridad de la fe para (101:5.14)
 no retienes la autoconciencia sin un Ajustador (112:6.7)
 la vida después de la muerte no es diferente en lo esencial a la existencia mortal (103:5.7)
@@ -2784,7 +2777,7 @@ registradores de pensamientos de Artesanos Celestiales (44:4.12)
 sintetizadores morontiales | | | ORDER | 
 Diseñadores y los Embellecedores de Artesanos Celestiales (44:6.9)
 
-templo morontial | | Ver luz y vida; morontia | PLACE | 
+templo morontial | | luz y vida; morontia | PLACE | 
 aparece cuando el planeta entra en luz y vida (40:3.1) (55:1)
 construido por Supervisores de Poder Morontia y Controladores Físicos Maestros; asientos alrededor de 300.000 (55:1.3-4)
 dedicado a ceremonias especiales, no para adorar, jugar o recibir transmisiones (55:1.4)
@@ -2795,10 +2788,10 @@ el traslado de los mortales vivientes tiene lugar en (55:1.5) (55:2.3-5)
 El templo de traslado está compuesto de materiales morontiales (55:1.5)
 Inauguran los Hijos Instructores Trinitarios (55:1.1) (55:7.1)
 
-mundo morontial | | Ver Jerusem:mundos culturales de transición | PLACE | 
+mundo morontial | | Jerusem:mundos culturales de transición | PLACE | 
 mundo de la cultura de transición número 2, sede de los supervisores de la vida morontial (45:1.3-4)
 
-ministros morontiales de transición mundial | | Ver ministros de transición | ORDER | 
+ministros morontiales de transición mundial | | ministros de transición | ORDER | 
 
 mundos morontiales | | | PLACE | 
 Mezcla de 3 gases adaptada a la respiración de seres morontiales (43:1.3) (46:2.2-3)
@@ -2814,13 +2807,13 @@ economía necesaria, división del trabajo (44:3.3)
 orden social basado en el aprecio y el servicio mutuo (47:6.3)
 Univitatia administrar la constelación de mundos morontiales (43:7.2) (55:9.2)
 
-morontianos | | Ver progresores morontiales | ORDER | 
+morontianos | | progresores morontiales | ORDER | 
 
 yacimientos Morrison | (60:2.5) | | | 
 
-Cuerpo Mortal de la Finalidad | | Ver Cuerpo de los Finalitarios Mortales | ORDER | 
+Cuerpo Mortal de la Finalidad | | Cuerpo de los Finalitarios Mortales | ORDER | 
 
-mente mortal | | Ver Espíritus Ayudantes de la Mente; ideas; liderazgos; lógica; mente; pensamiento | | 
+mente mortal | | Espíritus Ayudantes de la Mente; ideas; liderazgos; lógica; mente; pensamiento | | 
 Ajustadores
 	depende de la mente mortal para la expresión, la autorrealización (103:6.6)
 	les resulta casi imposible comunicarse directamente con los sujetos (110:4.5)
@@ -2918,7 +2911,7 @@ mente superconsciente
 	verdades espirituales residentes en (110:6.4)
 	El crecimiento espiritual inconsciente prueba la existencia de (100:1.9)
 
-mortales | | Ver mortales ascendentes; cuerpo humano; niños; criaturas; mente mortal; personalidad; épocas planetarias; razas; el yo; sexos; alma; influencias espirituales; mujer | ORDER | 
+mortales | | mortales ascendentes; cuerpo humano; niños; criaturas; mente mortal; personalidad; épocas planetarias; razas; el yo; sexos; alma; influencias espirituales; mujer | ORDER | 
 7 influencias espirituales superiores (194:2.12)
 Ajustadores asignados justo antes del sexto cumpleaños (108:2.1)
 después de la muerte
@@ -2927,7 +2920,7 @@ después de la muerte
 	denominados «hijos de la fe» antes de la fusión (40:6.1) (40:7.2)
 	no regrese al planeta de la natividad en la misma dispensación (39:4.15) (112:3.7) (146:7.2) (150:3.5)
 	etapas de existencia (30:4) (31:3.4)
-		1. mortales planetarios | Ver mortales
+		1. mortales planetarios | mortales
 		2. supervivientes dormidos
 		3. Estudiantes de los Mundos de las Mansiones
 		4. progresores morontiales
@@ -2967,7 +2960,7 @@ de los mundos normales no experimentan una guerra constante entre la carne y el 
 la química de la glándula influye en la imaginación, la receptividad espiritual (49:5.19)
 La identificación con Dios se hace real (118:7.5)
 Dios no hace acepción de personas (1:4.6) (2:3.1) (12:7.1,8) (40:10.13) (112:0.12) (117:6.22) (133:0.3) (137:8.6) (138:8.2) (140:3.16) (143:1.5) (148:6.2) (155:6.2) (156:2.4) (166:4.11) (175:2.1-3) (181:2.14) (192:2.2) (193:0.3)
-la naturaleza humana | Ver carne
+la naturaleza humana | carne
 	casi totalmente material (11:3.1)
 	no te desanimes al descubrir que eres humano (156:5.8)
 	Mente cósmica inalienables de intuición moral, curiosidad científica e intuición espiritual (16:7.1)
@@ -2994,7 +2987,7 @@ nada infalible que los humanos hayan tocado (159:4.8)
 única distinción entre mortales a los ojos de Dios es si existe el deseo de hacer su voluntad (133:0.3)
 pasar por una prueba corta e intensa (14:5.1) (48:7.13) (112:7.4)
 las personalidades están en contacto ininterrumpido con el Padre a través del circuito de la personalidad (56:4.2)
-épocas planetario-mortales | Ver épocas planetarias
+épocas planetario-mortales | épocas planetarias
 tipos planetarios (15:6.16) (49:2-5)
 	# tipos atmosféricos (49:2.10-14)
 	## subrespiradores
@@ -3026,11 +3019,11 @@ tipos planetarios (15:6.16) (49:2-5)
 	Esperanza de vida de 25 a 500 años (49:4.6)
 	serie planetaria
 		# ajuste al entorno planetario (49:5.10-12)
-		# Serie de tipo cerebral | Ver cerebros:inteligencia | (40:5.17) (49:4.2-3) (49:5.13-18)
+		# Serie de tipo cerebral | cerebros:inteligencia | (40:5.17) (49:4.2-3) (49:5.13-18)
 		# Serie de recepción del espíritu (49:5.19-20)
-		# Épocas mortales planetarias | Ver épocas planetarias | (49:5.21-28)
+		# Épocas mortales planetarias | épocas planetarias | (49:5.21-28)
 		# Serie de parentesco entre criaturas (49:5.29-30)
-		# Serie de fusión de ajustadores | Ver fusión | (40:5.4-18) (49:5.31) (109:3)
+		# Serie de fusión de ajustadores | fusión | (40:5.4-18) (49:5.31) (109:3)
 		# técnicas de escape terrestre (49:5.32)
 	serie 1 mortales
 		Ajustadores prestados a (40:5.8-11) (109:3.2)
@@ -3053,7 +3046,7 @@ tipos planetarios (15:6.16) (49:2-5)
 		Potencial de fusión del ajustador (40:5.17) (109:3.4)
 		Los ajustadores obtienen mucho más contacto con los de tres cerebros (109:3.5)
 		Los urantianos tienen dos cerebros (49:5.13-18) (109:3.4)
-mortales primitivos | Ver épocas planetarias:era del primer príncipe preplanetario; religión:religión primitiva
+mortales primitivos | épocas planetarias:era del primer príncipe preplanetario; religión:religión primitiva
 	Ajustadores prestados a (40:5.8-10)
 	siempre deteriorado en bosques, trópicos; progresó solo en abierto, en latitudes más altas (64:1.3) (81:6.7)
 	ascendencia es lémures, mamíferos precursores, mamíferos intermedios,
@@ -3094,13 +3087,13 @@ mortales primitivos | Ver épocas planetarias:era del primer príncipe preplanet
 	gobierno totalmente tribal (52:1.3)
 	quemaría la riqueza acumulada para crear impresión (69:5.13)
 recibió tan poco del plasma vital de Adán (76:4.6)
-papel de los Espíritus Ayudantes de la Mente | Ver Espíritus Ayudantes de la Mente
+papel de los Espíritus Ayudantes de la Mente | Espíritus Ayudantes de la Mente
 egoísmo de (112:2)
 algunos carecen de capacidad para la adoración inteligente de la Deidad (113:1.3)
-Mortales fusionados con el Hijo | Ver Mortales fusionados con el Hijo
+Mortales fusionados con el Hijo | Mortales fusionados con el Hijo
 hijos de Dios (2:5.4) (40:6) (99:5.5)
-Mortales fusionados con el Espíritu | Ver Mortales fusionados con el Espíritu
-influencias espirituales incidiendo | Ver influencias espirituales
+Mortales fusionados con el Espíritu | Mortales fusionados con el Espíritu
+influencias espirituales incidiendo | influencias espirituales
 espiritualmente iguales ante Dios (134:4.7)
 aquellos sin capacidad de filiación contabilizados con animales (130:8.4) (133:0.3)
 el tiempo y el espacio permiten a los mortales coexistir con el Infinito (118:9.1)
@@ -3125,7 +3118,7 @@ ningún hombre tan exitoso con un número tan grande (92:5.11)
 pasaje a mundos de estancia impugnado por Caligastia (52:5.5)
 Pedro creyó haber visto a Moisés en la transfiguración (158:1.8)
 se dice que trajo agua de una roca, maná en el desierto (136:6.6) (153:2.8,10)
-sede de Moisés | Ver sanedrín
+sede de Moisés | sanedrín
 se recluyó (136:3.3)
 espectacular vuelo nocturno fuera de Egipto (96:3.5)
 enseñanzas (74:8.8) (96:5)
@@ -3146,7 +3139,7 @@ enseñanzas (74:8.8) (96:5)
 	la justicia enseñada fue recompensada con prosperidad y poder (135:5.1)
 entregó el mando a Josué (96:5.9)
 
-Altísimo | | Ver Altísimos | PERSON | 
+Altísimo | | Altísimos | PERSON | 
 el que habita en lugar secreto de (4:1.4)
 Denominación semita de la Deidad (96:1.9)
 
@@ -3160,16 +3153,16 @@ no está directamente vinculado a los gobiernos del sistema o planetarios (37:4.
 número en millones (37:4.1)
 supervisado por Union of Days (37:4.3)
 
-jefe Altísimo de los observadores de Urantia | | Ver Altísimos observadores; Altísimos; Hijos Vorondadek | PERSON | 
+jefe Altísimo de los observadores de Urantia | | Altísimos observadores; Altísimos; Hijos Vorondadek | PERSON | 
 autoridad de emergencia asumida recientemente en Urantia (109:7.7)
 fideicomisario de la soberanía de Urantia (43:5.8,16-17) (114:4)
 
-Altísimos observadores; Vorondadeks; observador Altísimo; Altísimo; Hijo Vorondadek; observador Vorondadek | | Ver jefe Altísimo de los observadores de Urantia; Altísimos; Hijos Vorondadek | ORDER | 
+Altísimos observadores; Vorondadeks; observador Altísimo; Altísimo; Hijo Vorondadek; observador Vorondadek | | jefe Altísimo de los observadores de Urantia; Altísimos; Hijos Vorondadek | ORDER | 
 facultado para ejercer autoridad absoluta y arbitraria sobre cada ser celestial en el planeta, apoderarse del gobierno planetario en tiempos de crisis (35:5.5-6) ​​(114:4.4)
 Instrumentalidad del gobierno de Altísimos en reinos de hombres (43:5.16-17)
 Hijos Vorondadek (35:5.5-6)
 
-Altísimos | (35:6) (43:3) | Ver Altísimos de Norlatiadek; Hijos Vorondadek | ORDER | 
+Altísimos | (35:6) (43:3) | Altísimos de Norlatiadek; Hijos Vorondadek | ORDER | 
 son Hijos Vorondadek (15:2.4) (20:1.10) (35:5.1) (35:6.1) (43:3.1-2)
 al menos 3 gobiernan cada constelación; cada uno sirve 150.000 años; reina durante 50.000 años (15:2.4) (35:6.1) (43:3.1-2)
 Padres de la Constelación
@@ -3193,7 +3186,7 @@ gobernar en reinos de hombres (3:5.2) (43:3.4) (43:9.4) (50:2.6) (52:3.11) (97:8
 	gobernar a través de reservistas (114:7.9)
 	gobernar a través del observador Vorondadek (43:5.17)
 
-Altísimos de Norlatiadek | | Ver Altísimos | ORDER | 
+Altísimos de Norlatiadek | | Altísimos | ORDER | 
 comportamiento
 	aparición a Jesús (136:3.5)
 	miembros aprobados de la corte suprema de Van por adelantado (66:5.31)
@@ -3222,7 +3215,7 @@ residencia en los círculos de Jerusem (46:5.15)
 rotación suspendida en el momento de la rebelión de Lucifer (43:5.1)
 supervisión sobre Satania (45:2.2,4)
 
-Esfera Santísima | | Ver Paraíso | PLACE | 
+Esfera Santísima | | Paraíso | PLACE | 
 área en el Paraíso superior (11:3.1-2)
 sin materializaciones físicas en (11:3.2)
 reservado para la adoración, la trinidización y el alto logro espiritual (11:3.1)
@@ -3262,9 +3255,9 @@ incluía incinerar muertos en chozas de piedra (80:8.5)
 Mundo mediterráneo dominado en gran parte por (98:1.3)
 sacerdotes sometidos a la castración (89:3.4)
 
-Madres Evas | | Ver Hijos Materiales de Dios | | 
+Madres Evas | | Hijos Materiales de Dios | | 
 
-fuerza madre del espacio | | Ver absoluta | | 
+fuerza madre del espacio | | absoluta | | 
 
 culto a la Madre de Dios | | | RELIGION | 
 El culto de la Gran Madre absorbió el evangelio de Salem (93:7.3)
@@ -3275,11 +3268,11 @@ Ritual de la Gran Madre Mitraica para mujeres (98:5.5)
 sacramento de tortas y vino (89:9.2)
 Los tibetanos rezan a la Santa Madre (94:10.2)
 
-Madre hijo | | Ver Hijo Eterno | PERSON | 
+Madre hijo | | Hijo Eterno | PERSON | 
 
-Espíritus Maternos | | Ver Espíritus Maternos de los universos locales | ORDER | 
+Espíritus Maternos | | Espíritus Maternos de los universos locales | ORDER | 
 
-madres | | Ver crianza de los hijos; niños; hogar; matrimonio; mujer | | 
+madres | | crianza de los hijos; niños; hogar; matrimonio; mujer | | 
 los creyentes deben amar el evangelio más que (150:4.3) (163:3.4) (171:2.2)
 los niños obtienen las primeras impresiones del universo de (177:2.5)
 las hembras de todos los animales superiores tienen amor materno devoto (68:2.6)
@@ -3297,9 +3290,9 @@ El Espíritu Infinito es el antepasado aparente de (9:1.1)
 opiniones sobre el origen de (12:4.2-6)
 progreso posible debido al movimiento (28:6.18)
 
-motivación | | Ver motivos | | 
+motivación | | motivos | | 
 
-motivos | | Ver prejuicios; sinceridad | | 
+motivos | | prejuicios; sinceridad | | 
 Caligastia y Lucifer juzgaron a sus consejeros como impulsados ​​por sus propios reprensibles (66:8.2)
 Cano aseguró a Eva personas con buenos motivos no podía hacer ningún mal (75:4.5)
 no prejuzgue los motivos de los demás (38:2.4) (133:1.2)
@@ -3313,7 +3306,7 @@ comprender a los demás, sondear sus (100:4.4-5)
 La censura universal dictamina sobre los motivos (28:5.9)
 lo que uno cree, no lo que uno sabe, determina la conducta (99:4.5)
 
-lemas | | Ver lemas | | 
+lemas | | lemas | | 
 
 monte Ararat | | | PLACE | 
 monte Sinaí (77:4.11-12)
@@ -3332,7 +3325,7 @@ Jesús y los apóstoles acamparon (143:6.2-6)
 Los samaritanos adoraron a Yahvé en (143:4.2) (143:5.5)
 adorar no en el monte Gerizim (193:1.2)
 
-monte Gilboa | | Ver Gilboa | PLACE | 
+monte Gilboa | | Gilboa | PLACE | 
 
 monte Hermón | | | PLACE | 
 brillaba con nieve perpetua (123:5.12) (124:6.5)
@@ -3346,13 +3339,13 @@ visible desde Cesarea de Filipo (157:3.1-2)
 
 monte Hood | (61:4.2) | | PLACE | 
 
-monte Horeb | | Ver monte Sinaí | PLACE | 
+monte Horeb | | monte Sinaí | PLACE | 
 
 monte Líbano | (155:4.1) | | PLACE | 
 
-monte Olivete | | Ver monte de los Olivos | PLACE | 
+monte Olivete | | monte de los Olivos | PLACE | 
 
-monte de la transfiguración | | Ver monte Hermón | PLACE | 
+monte de la transfiguración | | monte Hermón | PLACE | 
 
 monte de los Olivos | (127:3.5) (164:2.3) (171:8.1) (174:0.3) (182:1.2) | | PLACE | 
 Getsemaní en (142:8.4)
@@ -3401,7 +3394,7 @@ la fe quita (144:2.6)
 formado por la agitación al final de la deriva continental (60:3.11)
 ubicaciones de las más antiguas (60:4.3)
 las modernas montañas construidas en el Cretácico (60:3.3)
-nombrada | Ver montañas de Adirondack; Alpes; cordillera de los Andes; Apeninos; montañas Apalaches; montañas de la Selva Negra; Paso del Brenner; montañas de Caledonia; Cárpatos; montañas Catskill; Dakota Black Hills; Ghates orientales; Himalaya; Kopet Dagh; pico Longs; colinas de Moab; monte Ararat; monte Carmelo; monte Gerizim; monte Hermón; monte Hood; monte Líbano; monte de los Olivos; monte Olimpo; monte Rainier; monte Real; monte Sartaba; monte Shasta; monte Sinaí; monte Tabor; pico Pikes; Pirineos; montañas Rocosas; colinas Siwalik; montes Urales; montañas de los Vosgos; Ghates occidentales
+nombrada | montañas de Adirondack; Alpes; cordillera de los Andes; Apeninos; montañas Apalaches; montañas de la Selva Negra; Paso del Brenner; montañas de Caledonia; Cárpatos; montañas Catskill; Dakota Black Hills; Ghates orientales; Himalaya; Kopet Dagh; pico Longs; colinas de Moab; monte Ararat; monte Carmelo; monte Gerizim; monte Hermón; monte Hood; monte Líbano; monte de los Olivos; monte Olimpo; monte Rainier; monte Real; monte Sartaba; monte Shasta; monte Sinaí; monte Tabor; pico Pikes; Pirineos; montañas Rocosas; colinas Siwalik; montes Urales; montañas de los Vosgos; Ghates occidentales
 sin rangos accidentados en Jerusem o Edentia (43:1.1) (46:2.1)
 resultado de la lluvia, la gravedad y la erosión (57:8.14)
 adoración de las colinas (85:1.5)
@@ -3420,9 +3413,9 @@ boca | | | |
 habla con abundancia de corazón (153:4.4)
 lo que procede de la boca contamina espiritualmente (153:3.5)
 
-multilingüismo | | Ver idioma:idioma común | | 
+multilingüismo | | idioma:idioma común | | 
 
-multitud, el | | Ver población | | 
+multitud, el | | población | | 
 
 música | | | | 
 entre primitivos
@@ -3463,7 +3456,7 @@ parábola de (151:4.2)
 mirra | | | | 
 Jesús embalsamado con (188:1.4)
 
-misterios | | Ver paradoja | | 
+misterios | | paradoja | | 
 estimular siempre los sentimientos religiosos (92:1.4)
 las comisiones conciliadoras se convierten en explicadoras de (25:3.12)
 recopilar información de 1001 fuentes diferentes (107:3.8)
@@ -3513,7 +3506,7 @@ el secreto confiere poder (70:7.7,15)
 tendencia a postrarse ante los misterios (89:4.1)
 siempre habrá mil (27:6.1)
 
-cultos de misterio | (98:4) (121:5) | Ver mitraísmo; paganismo | | 
+cultos de misterio | (98:4) (121:5) | mitraísmo; paganismo | | 
 Augusto trató de destruirlos (98:3.6)
 contendió con el estoicismo (195:3.3)
 influyó en el cristianismo (98:7.7)
@@ -3528,9 +3521,9 @@ hundió a Grecia en el estancamiento intelectual, la depravación moral, la pobr
 camino preparado para Jesús, el cristianismo (121:5.6,12)
 Los ritos secretos a veces eran espantosos (121:5.10)
 
-Monitores misteriosos | | Ver Ajustadores del pensamiento | ORDER | 
+Monitores misteriosos | | Ajustadores del pensamiento | ORDER | 
 
-misticismo | (100:5) | Ver liderazgo; revelación:revelación personal; percepción espiritual | | 
+misticismo | (100:5) | liderazgo; revelación:revelación personal; percepción espiritual | | 
 no sean místicos pasivos (178:1.14)
 el misticismo cristiano bordeado por la irrealidad; filosóficamente afín al panteísmo (195:4.1)
 factores que inducen el estado místico (100:5.10)

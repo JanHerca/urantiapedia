@@ -1,18 +1,14 @@
 ####################################################################################
 #
 #                     L
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-
-
-labor | | Ver logro; carreras; trabajo penoso; ganarse la vida; obreros; monotonía | | 
+labor | | logro; carreras; trabajo penoso; ganarse la vida; obreros; monotonía | | 
 vida ascendente dividida equitativamente entre trabajo y juego (48:4.1)
 civilización enormemente avanzada por la temprana división de labor; andonitas empleados (63:4.2) (81:6.29)
 obligar a todas las personas sanas a participar en (69:8.11) (71:3.7-8) (71:4.8)
@@ -54,7 +50,7 @@ capital de Sumeria (78:8.10)
 
 lago Superior | (58:7.5) | | PLACE | 
 
-lago Urmia | | Ver Urmia | PLACE | 
+lago Urmia | | Urmia | PLACE | 
 
 lago Van | | | PLACE | 
 descendientes de Adanson escucharon el evangelio de Salem en (93:7.2)
@@ -63,7 +59,7 @@ Noditas mezclados con amadonitas en (73:1.6)
 
 lagos | | | | 
 producto glacial (61:7.1)
-lagos y mares nombrados | Ver Báltico; bahía de Bengala; mar Negro; mar Caspio; mares de China; mar Muerto; Grandes Lagos; golfo de México; bahía de Hudson; lago Superior; lago Van; mar Mediterráneo; mar del Norte; golfo Pérsico; Puget Sound; mar de Galilea; Aguas de Merom
+lagos y mares nombrados | Báltico; bahía de Bengala; mar Negro; mar Caspio; mares de China; mar Muerto; Grandes Lagos; golfo de México; bahía de Hudson; lago Superior; lago Van; mar Mediterráneo; mar del Norte; golfo Pérsico; Puget Sound; mar de Galilea; Aguas de Merom
 muchos en Jerusem (46:2.2)
 miles en Edentia (43:1.1)
 
@@ -83,7 +79,7 @@ lámpara | | | |
 del cuerpo es ojo (140:6.12)
 poner un soporte donde todos puedan contemplar (151:3.1)
 
-Lanaforge | | Ver Hijos Lanonandek; Soberanos de los Sistemas | PERSON | 
+Lanaforge | | Hijos Lanonandek; Soberanos de los Sistemas | PERSON | 
 visitante frecuente en Urantia (45:2.4)
 dio permiso para el 72 (72:0.1) (72:12.3)
 instalado como Sistema Soberano 10 años después de la rebelión de Lucifer (45:2.2-4) (45:3.2) (53:7.12,13) ​​(93:3.2) (114:2.4)
@@ -121,7 +117,7 @@ Siciliano (64:1.5) (64:4.7) (73:7.1) (80:1.1) (80:2.4)
 era de la vida terrestre primitiva | (60) | | | 
 Mesozoico fue la era de (59:0.5)
 
-idioma | | Ver comunicación; traductores; escritura | | 
+idioma | | comunicación; traductores; escritura | | 
 1000 años de comunicación mortal transmitidos en un encuentro casual en el Paraíso (44:4.3)
 más allá de Supremo, los conceptos son designaciones menos verdaderas de la realidad (115:3.4)
 lenguas celestiales
@@ -159,7 +155,7 @@ desarrollo del lenguaje
 	similitud de lenguas occidentales llamadas arias (78:5.3)
 	la lengua de los adanitas finalmente domina (52:3.10)
 Jesús invirtió el significado de muchas palabras; el lenguaje florido evitado (159:5.17)
-idiomas nombrados | Ver arameo; idioma inglés; Grecia:lengua griega; lenguaje hebreo; latín; Nebadon:idioma de; Satania:lenguaje de; Uversa:lengua de
+idiomas nombrados | arameo; idioma inglés; Grecia:lengua griega; lenguaje hebreo; latín; Nebadon:idioma de; Satania:lenguaje de; Uversa:lengua de
 limitaciones del lenguaje humano (0:0.1-4) (0:3.20) (0:6.2) (0:12.13) (2:0.3) (2:5.11) (6:0.2,4) (10:5.8) (18:4.3) (24:6.2) (33:8.6) (35:7.3) (42:2.1) (44:0.20-21) (44:2.1) (44:4.8) (44:5.8) (44:6) (44:7.1) (46:2.6) (46:4.9) (94:12.1) (105:0.3) (105:3.10) (106:0.11) (112:5.11) (147:4.3) (196:3.28)
 la multiplicación de multilingüistas promueve la hermandad (52:6.3)
 naturaleza del lenguaje
@@ -178,7 +174,7 @@ sopesar las consecuencias de las palabras (192:2.8)
 las palabras no tienen valor en la oración; pensamiento bastante motivador (7:3.7)
 las palabras no pueden emocionarse como ver (195:9.8)
 
-Hijos Lanonandek; Hijos Lanonandeks; Lanonandeks; Príncipe Planetario; Príncipes Planetarios | (35:8-9) | Ver Príncipes Planetarios; Soberanos de los Sistemas | ORDER | 
+Hijos Lanonandek; Hijos Lanonandeks; Lanonandeks; Príncipe Planetario; Príncipes Planetarios | (35:8-9) | Príncipes Planetarios; Soberanos de los Sistemas | ORDER | 
 ayudar a los Príncipes Planetarios (50:2.3)
 más conocidos como Soberanos de los Sistemas, Príncipes Planetarios (35:8.1)
 creado por el Hijo Creador y el Espíritu Madre (20:1.5-10) (35:8.1)
@@ -197,14 +193,14 @@ residencia en los círculos de Jerusem (46:5.16)
 número estacionario de 12 millones en Nebadon (35:8.3,7)
 entrenado por Melquisedek (35:8.2)
 tipos
-	primario | Ver Hanavard; Lanaforge; Lucifer; Lutentia; Satán
+	primario | Hanavard; Lanaforge; Lucifer; Lutentia; Satán
 		donación de Miguel como los Hijos Lanonandek (119:2)
 		Soberanos de los Sistemas; número 709,841 (35:8.4)
-	secundario | Ver Caligastia; Daligastia; Fortant
+	secundario | Caligastia; Daligastia; Fortant
 	número 10.234.601 (35:8.5)
 	Los Príncipes Planetarios son (35:8.5) (50:0.1)
 	escribió los artículos 50, 51 (50:7.4) (51:7.6)
-	terciario | Ver Holdant; Mansurotia; Sadib; Vilton
+	terciario | Holdant; Mansurotia; Sadib; Vilton
 		número 1.055.558 (35:8.6)
 		asistentes subordinados (35:8.3)
 
@@ -229,7 +225,7 @@ puerto en Creta por donde pasó Jesús (130:0.2) (130:4.12)
 el último | | | | 
 a menudo será el primero (41:10.5) (163:3.4) (166:3.5)
 
-Última Cena | | Ver Cena del Recuerdo | | 
+Última Cena | | Cena del Recuerdo | | 
 
 latín | | | | 
 no hay palabra para altruismo (195:3.3)
@@ -237,9 +233,9 @@ no hay palabra para altruismo (195:3.3)
 Lausana | | | PLACE | 
 Pilato se retiró a Lausana, se suicidó en Lausana (185:1.6)
 
-lava | | Ver volcanes | | 
+lava | | volcanes | | 
 
-ley | | Ver mandamientos; tribunales; juicio; justicia; abogados | | 
+ley | | mandamientos; tribunales; juicio; justicia; abogados | | 
 primero negativa y prohibitiva, después directiva (70:11.2)
 pero una ley para obedecer:proclamar el evangelio (192:2.11)
 registro codificado de la experiencia humana (70:11.6)
@@ -268,7 +264,7 @@ históricamente
 	la ley judía visto como dado por Moisés (121:7.3)
 	métodos para manejar disputas tempranas de propiedad (70:11.8-12)
 	de los sumerios (77:4.7)
-	ley no escrita | Ver linchamientos
+	ley no escrita | linchamientos
 el estado ideal tiene pocas leyes (71:3.7)
 fundamento intelectual de la justicia (39:3.3)
 la ley es la vida misma, no las reglas de su conducta (48:6.33)
@@ -285,7 +281,7 @@ Pronosticadores de la Ley | | | ORDER |
 hablar por aquellos que no pueden hablar por sí mismos (39:3.3)
 Serafines supervisores; efecto previsto de las leyes propuestas (39:3.3)
 
-abogados | | Ver tribunales; ley | | 
+abogados | | tribunales; ley | | 
 han tomado la clave del conocimiento de la gente común (166:1.5)
 abogado deseaba conocer el mayor mandamiento (174:4.2-4)
 Los romanos eran abogados por naturaleza y entrenamiento (195:2.4-6)
@@ -317,14 +313,14 @@ rico; heredó extensos viñedos y olivares (168:0.4) (172:1.7)
 Lázaro (de la parábola nazarea) | | | | 
 parábola de Lázaro y Dives (169:3)
 
-pereza | | Ver indolencia | | 
+pereza | | indolencia | | 
 
 dirigir | | | | 
 2 pesos atómicos (42:4.12)
 criado en lava (58:7.6)
 Depósitos de silúrico (59:3.4) (59:5.9)
 
-liderazgo | | Ver cooperación; grupos; orden | | 
+liderazgo | | cooperación; grupos; orden | | 
 depende de la capacidad natural, la discreción, la determinación (156:5.7)
 el destino de los grupos religiosos depende de (99:5.1)
 el éxito depende del tacto y el encanto que gana la cooperación (160:1.9)
@@ -333,9 +329,9 @@ proporcionado infaliblemente para todos los grupos (181:2.16)
 vital para el progreso (81:6.42)
 el sabio liderazgo nunca ha superado el 1% de la población (81:6.42)
 
-liderazgos | | Ver mente mortal; misticismo; revelación:personal | | 
+liderazgos | | mente mortal; misticismo; revelación:personal | | 
 revelación; percepción espiritual; espiritismo
-Conducciones del ajustador | Ver sumisión
+Conducciones del ajustador | sumisión
 	Los Ajustadores hablan directamente con los primeros círculos psíquicos (110:6.15)
 	Los Ajustadores se comunican constantemente con sujetos humanos (101:4.3) (108:6.7) (110:1.1)
 	la autorrevelación es obra del Ajustador (101:4.3)
@@ -372,7 +368,7 @@ lugar la levadura de la nueva verdad en las viejas creencias (178:1.16)
 casa del Líbano | | | PLACE | 
 Salomón construyó (97:9.16)
 
-Lebeo | | Ver gemelos Alfeo | PERSON | 
+Lebeo | | gemelos Alfeo | PERSON | 
 Judas Alfeo también llamado (139:10.5)
 
 Lebona | (134:7.5) | | PLACE | 
@@ -380,17 +376,17 @@ Jesús pasó por este lugar
 
 sanguijuelas | (65:2.5) | | | 
 
-legalismo | | Ver judaísmo:ley oral | | 
+legalismo | | judaísmo:ley oral | | 
 Judíos en terrible esclavitud de (121:7.3)
 
-legislaturas | | Ver gobierno | | 
+legislaturas | | gobierno | | 
 Sistema de 3 casas en nación continental (72:2.4-7)
 marcado gran avance social (70:12.2-3)
 de Nebadon ubicado en constelaciones (33:8.1) (39:3.3) (43:2)
 el crecimiento social no puede garantizarse mediante la legislación (100:3.7)
 asamblea deliberativa del superuniverso (15:11) (28:7.1)
 
-ocio | | Ver facilidad; relajación | | 
+ocio | | facilidad; relajación | | 
 llegadas a Havona (30:4.28,32)
 llegadas al mundo de las mansiones (47:3.6)
 los ángeles promueven la utilización rentable de ocio (114:6.15)
@@ -415,14 +411,14 @@ prohibido asistir a la sinagoga (146:4.3)
 curación en Hierro (146:4.3-5)
 curando el 10 (166:2)
 
-Camino Menor | | Ver budismo | | 
+Camino Menor | | budismo | | 
 budismo Hinayana; doctrina asocial (94:9.4-5)
 
 Levante | | | PLACE | 
 Caucasoide y negroide se han mezclado en (81:4.14)
 patria de creencias del mundo occidental (95:0.1)
 
-levitas | | Ver templo de Jerusalén; judaísmo; sanedrín | | 
+levitas | | templo de Jerusalén; judaísmo; sanedrín | | 
 ofició en el templo de Jerusalén (162:4.2-4)
 envió delegación a Juan el Bautista (135:6.6)
 
@@ -430,7 +426,7 @@ Estabilizadores de las Conexiones | | | |
 en el registro de personalidad de Uversa (30:2.113)
 Supervisores del Poder Morontial; ralentizar las revoluciones de energía morontial para la fisicalización (48:2.20)
 
-libertad | | Ver libre albedrío | | 
+libertad | | libre albedrío | | 
 logro
 	como consecuencia de un mayor autocontrol (54:1.5-6) ​​(71:3.7)
 	los finalitarios experimentan la finalidad de (39:4.11)
@@ -477,14 +473,14 @@ casa de Fad en Dalamatia (66:5.9)
 Libia; libia | | | PLACE | 
 guerra contra Egipto (96:3.5)
 
-licencia | | Ver libertad:falsa libertad | | 
+licencia | | libertad:falsa libertad | | 
 disfrutar de la libertad sin (48:7.8) (89:3.7)
 precursor de la esclavitud (54:1.5)
 
 Lieja | | | | 
 asentamiento danubiano más al norte (80:8.4)
 
-vida | | Ver vida eterna; vivir | | 
+vida | | vida eterna; vivir | | 
 biológico
 	Diez órdenes de vida en esferas arquitectónicas (43:6.4,7)
 	abundante evidencia de planificación inteligente (65:4.3)
@@ -494,7 +490,7 @@ biológico
 	cromosomas
 		24 unidades de patrón; 48 determinantes de rasgos humanos (36:2.11,16)
 		del personal del Príncipe reorganizado por circuitos de vida (77:2.2-5)
-	creación de vida | Ver Portadores de Vida; plasma vital
+	creación de vida | Portadores de Vida; plasma vital
 		Ancianos de los Días involucrados en (36:6.7)
 		los atributos son la mente, la capacidad de reproducirse (36:6.3,7)
 		Proclamación del Hijo Creador para la proyección de (34:1.1)
@@ -531,7 +527,7 @@ biológico
 existencia
 	6 elementos esenciales (160:4.2-8)
 	animación de energía configurada por patrón (36:6.6)
-	pan de vida | Ver pan:pan de vida
+	pan de vida | pan:pan de vida
 	surge por la acción de la Mente Universal (130:4.7)
 	dominio caracterizado por los números 3, 7 y 12 (36:2.11)
 	la esencia es espíritu (42:1.1)
@@ -550,7 +546,7 @@ existencia
 	proceso que tiene lugar entre el organismo y su entorno (32:3.9) (112:1.13-14)
 	equilibrio desequilibrado de energías e intelecto (112:2.20)
 	El valor es la capacidad de progresión hacia la conciencia de Dios (130:4.7)
-	agua de | Ver agua de vida
+	agua de | agua de vida
 vida mortal
 	siempre asistido por la lucha (50:6.3)
 	aumentar la fracción de la vida reduciendo el denominador de las demandas personales (89:3.3)
@@ -567,10 +563,10 @@ vida mortal
 	larga vida útil de los primeros descendientes del personal del Príncipe; adamitas (76:4.3) (77:2.10)
 	mayor vida los problemas son ganarse la vida, sobrevivir (160:4.1)
 	no lo que aprendemos, sino la experiencia de vivir (39:4.13)
-	de Jesús | Ver Jesús:vida de
+	de Jesús | Jesús:vida de
 	nuestra verdadera vida comienza después de vida mortal (112:0.1)
 	los primitivos urantianos lucharon por la existencia (86:1.2)
-	propósito de la vida | Ver metas
+	propósito de la vida | metas
 	refrescantemente simple en luz y vida (55:5.6)
 	corto e intenso; día de trabajo, hazlo bien (1:4.3) (14:5.1) (48:7.13) (112:7.4)
 	experiencia suprema de la vida está aprendiendo a amar (130:2.6)
@@ -602,7 +598,7 @@ humanizar a los intermedios en luz y vida (55:4.9)
 impartir el donación total de energías vivientes a la raza roja (51:4.2)
 a cargo del cuarto circuito de Salvington (36:2)
 en registros de personalidad (30:1.40) (30:2.45)
-instituir nuevos patrones en planetas decimales | Ver planetas decimales
+instituir nuevos patrones en planetas decimales | planetas decimales
 Hijos de Dios de los universos locales (20:1.9)
 manipular el entorno vital antes de que surja la voluntad (36:3.7-8) (65:0.6) (65:1.8) (65:2.13-15)
 Los espíritus maestros involucrados con los Portadores de Vida en la iniciación de la vida (16:4.9)
@@ -662,14 +658,14 @@ escribió los artículos 57-65 (57:8.27) (58:7.13) (59:6.13) (60:4.7) (61:7.20) 
 Era de los albores de la vida; era | (58:4) | | | 
 Era proterozoica (58:7.1) (59:0.3)
 
-planetas en los que se experimenta con la vida | | Ver planetas decimales | | 
+planetas en los que se experimenta con la vida | | planetas decimales | | 
 
 destello de vida | | | | 
 energías liberadas en el traslado (55:2.3-5)
 
-planetas donde se ha modificado la vida | | Ver planetas decimales | | 
+planetas donde se ha modificado la vida | | planetas decimales | | 
 
-plasma vital | | Ver Portadores de Vida | | 
+plasma vital | | Portadores de Vida | | 
 Las razas de 1, 2 y 3 cerebros tienen el mismo tipo del plasma vital (49:5.17)
 el plasma vital de los andonitas trasplantado a Caligastia 100 (66:2.5-6) ​​(66:4.4)
 otorgado a través de Portadores de Vida (36:3.3-5)
@@ -683,7 +679,7 @@ Narradores de biografías; narradores de biografías | | | |
 Reproductores Celestiales, Artesanos Celestiales (44:2.8)
 
 luz | | | | 
-luz material | Ver energía; Sol (de Urantia); soles | (0:6.8-9)
+luz material | energía; Sol (de Urantia); soles | (0:6.8-9)
 	el calcio monta haces de luz (41:6.3)
 	puede penetrar océanos hasta 600 pies (58:1.7)
 	la cola del cometa apuntando hacia afuera demuestra que la luz tiene peso (15:6.13)
@@ -723,7 +719,7 @@ luz espiritual
 	triple luz del Paraíso y Havona (13:3.1)
 	los tipos son percepción intelectual, luminosidad espiritual (0:6.8-9)
 
-luz y vida | (55) | Ver épocas planetarias | | 
+luz y vida | (55) | épocas planetarias | | 
 La quinta mansonia corresponde a la temprana (47:7.1)
 Sexta mansonia comparable a avanzar (47:8.7)
 7 etapas (55:0.4-11) (55:4.4-30) (56:10.1)
@@ -808,7 +804,7 @@ Los primates reabastecieron el fuego encendido por (63:2.7)
 Thor era el maestro de (85:6.4)
 piedras de trueno que se cree que protegen contra (80:9.14)
 
-lignito | (60:3.9) | Ver carbón | | 
+lignito | (60:3.9) | carbón | | 
 
 lirios | | | | 
 ni trabajar ni girar (165:5.3)
@@ -830,7 +826,7 @@ escuchar | | | |
 Jesús era un oyente encantador (171:7.5)
 a los que Jesús enseñó más, dijo menos (132:4.2)
 
-literalidad | | Ver libros sagrados | | 
+literalidad | | libros sagrados | | 
 error al interpretar las enseñanzas de Jesús en (140:6.8) (140:8.10) (140:10.2-4) (142:7.17) (147:4.2-3)
 
 literatura | | | | 
@@ -847,12 +843,12 @@ algunos antiguos creían que el alma residía en (86:5.15)
 Livias | (165:0.1) (171:4) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
-vivir | | Ver vida | | 
+vivir | | vida | | 
 arte de vivir
 Las 613 reglas de los fariseos (163:4.8)
-agua | Ver agua de vida
+agua | agua de vida
 
-bibliotecas vivientes del Paraíso | | Ver Custodios del Conocimiento | | 
+bibliotecas vivientes del Paraíso | | Custodios del Conocimiento | | 
 
 periódicos vivientes de Havona | | | | 
 Supernafines terciarios; Coordinadores de la Información (26:3.8)
@@ -862,13 +858,13 @@ descendiente de reptiles no progresivos (65:2.10)
 
 llamas | (61:2.9) (61:4.4) (61:7.15) | | | 
 
-panes | | Ver pan | | 
+panes | | pan | | 
 
-langostas | (59:1.18) (60:2.9) | Ver crustáceos | | 
+langostas | (59:1.18) (60:2.9) | crustáceos | | 
 las langostas aparecieron junto al resto de insectos (59:5.7)
 Juan el Bautista comió langostas (135:3.1)
 
-Centros de los sistemas locales; Centros de los sistemas | | Ver Centros Supremos del Poder; Directores del Poder Universal | ORDER | 
+Centros de los sistemas locales; Centros de los sistemas | | Centros Supremos del Poder; Directores del Poder Universal | ORDER | 
 1 funciones en cada sistema local (29:2.18) (41:1.5)
 Centros Supremos del Poder de sexto orden; enviar poder a los controladores físicos en mundos habitados (29:2.18) (41:1.5)
 en el registro de personalidad de Uversa (30:2.98)
@@ -877,7 +873,7 @@ iluminar, calentar y energizar la sede del sistema local (45:0.3)
 cónclave del sistema local | | | | 
 Los Soberanos Planetarios en el sistema de luz y vida comprenden (55:8.1)
 
-sistemas locales | | Ver Jerusem; Satania; Soberanos de los Sistemas | PLACE | 
+sistemas locales | | Jerusem; Satania; Soberanos de los Sistemas | PLACE | 
 10.000 en cada universo local (15:2.16-19) (53:1.1)
 circuitos establecidos en la era del Príncipe Planetario (52:2.2)
 Las comisiones conciliadoras resuelven disputas entre órdenes de seres sobre (25:3.6-7)
@@ -910,7 +906,7 @@ Sobrevivientes más materiales que espirituales (43:9.2)
 sistemas vecinos de Satania (41:2.1)
 mundos de cada sistema local revelar un parentesco físico inconfundible (15:6.16) (49:1.3)
 
-Centros de los universos locales | | Ver Centros Supremos del Poder; Directores del Poder Universal | ORDER | 
+Centros de los universos locales | | Centros Supremos del Poder; Directores del Poder Universal | ORDER | 
 Centros Supremos del Poder de cuarto orden; poder del superuniverso descendente para constelaciones y sistemas (29:2.16) (41:1.2)
 100 en cada capital del universo local (29:2.16) (32:2.2) (41:1)
 ayudar a los Hijos Creadores en la organización del universo (29:2.16) (29:3.3) (41:1.1)
@@ -918,7 +914,7 @@ jefe de Centros de los universos locales de Nebadon colaboró ​​en la redacc
 en el registro de personalidad de Uversa (30:2.96)
 proporcionar carriles de energía para la comunicación interplanetaria (29:2.16)
 
-Espíritu Materno del universo local de Nebadon; Espíritu del Universo; Espíritu Madre del Universo; espíritu del Hijo Creador; Espíritu Madre de Salvington; Espíritus Madres de los universos locales | (34) | Ver Espíritus Maternos de los universos locales | PERSON | 
+Espíritu Materno del universo local de Nebadon; Espíritu del Universo; Espíritu Madre del Universo; espíritu del Hijo Creador; Espíritu Madre de Salvington; Espíritus Madres de los universos locales | (34) | Espíritus Maternos de los universos locales | PERSON | 
 igualdad de autoridad con, subordinación a, Miguel (33:3.3-5)
 El Espíritu Santo es el espíritu personal de (15:9.13) (34:4.7)
 está en todas partes en Nebadon (45:1.8)
@@ -926,7 +922,7 @@ nos conoce completamente (28:5.22)
 mandato de no suprimir la rebelión de Lucifer (54:5.11)
 número 611.121 (33:3.2)
 
-Espíritus Maternos de los universos locales; Espíritus Creativos de los Universos Locales; Hija Creativa del Espíritu Infinito; Ministra Divina; Espíritu Madre del nuevo universo local; Espíritu Madre Creativo del universo local; Creadora Madre de un Universo; Madre Creadora | (34) (9:8.4-5) (17:6) | Ver Espíritu Materno del universo local de Nebadon | ORDER | 
+Espíritus Maternos de los universos locales; Espíritus Creativos de los Universos Locales; Hija Creativa del Espíritu Infinito; Ministra Divina; Espíritu Madre del nuevo universo local; Espíritu Madre Creativo del universo local; Creadora Madre de un Universo; Madre Creadora | (34) (9:8.4-5) (17:6) | Espíritu Materno del universo local de Nebadon | ORDER | 
 Sexto grupo de Espíritus Supremos del Espíritu Infinito (9:8.18) (33:3.2)
 también conocido como
 	Coordinar a las Hijas Ministrantes (14:6.32)
@@ -981,7 +977,7 @@ funciones
 	función temprana (32:2.6)
 	dotar de vida (34:5.2)
 	funcionan como madres (33:3.4,7) (33:5.1)
-	ministro ayudante espíritus de la mente | Ver Espíritus Ayudantes de la Mente
+	ministro ayudante espíritus de la mente | Espíritus Ayudantes de la Mente
 	ministros y ayudantes de Hijo Miguel (8:4.4) (21:2.2)
 	nominar Compañeros Paradisiacos (25:8.2)
 	producir y mantener la vida (34:2.4)
@@ -1011,12 +1007,12 @@ prometer la subordinación eterna a los Hijos Mayores entronizados (33:3.6)
 Los mortales fusionados con el Espíritu logran la vida eterna mediante (40:5.10)
 nunca regresará al Paraíso (14:6.36)
 
-Centros de poder de los universos locales | | Ver Centros de los universos locales | ORDER | 
+Centros de poder de los universos locales | | Centros de los universos locales | ORDER | 
 
-Hijos de Dios de los universos locales; Hijo de Dios del Universo Local | (35) | Ver Hijos Lanonandek; Portadores de Vida; Hijos Melquisedek; Hijos Vorondadek | ORDER | 
+Hijos de Dios de los universos locales; Hijo de Dios del Universo Local | (35) | Hijos Lanonandek; Portadores de Vida; Hijos Melquisedek; Hijos Vorondadek | ORDER | 
 incumplimiento nunca adjudicado en el universo local (33:7.5)
 
-universos locales | (32) (33) | Ver Nebadon | PLACE | 
+universos locales | (32) (33) | Nebadon | PLACE | 
 1 Inspector Asociado encarna la autoridad de Siete Ejecutivos Supremos para cada uno (24:4.1-2) (24:5.2) (37:8.5)
 1 supervisor de circuito terciario estacionado en cada uno (24:1.10)
 10 millones de mundos habitables en (6:8.3) (15:2.5,21) (35:4.2)
@@ -1026,7 +1022,7 @@ los embajadores representan (33:6.4)
 ángeles de los universos locales son Serafines, Querubines y intermedios (26:1.14)
 unidades creativas básicas de superuniversos (21:2.1)
 Bright y Morning Stars son directores ejecutivos de (21:2.11) (32:2.6) (33:0.1)
-circuitos de universos locales | Ver sistemas locales:circuitos de vida
+circuitos de universos locales | sistemas locales:circuitos de vida
 	circuito de arcángeles
 	Los circuitos de energía y los carriles eléctricos se unen (41:1.1)
 	energía dirigida desde las capitales de los superuniversos (15:8.1)
@@ -1080,7 +1076,7 @@ trabajo de las comisiones conciliadoras para (25:3.9-10)
 ubicación | | | | 
 imposible determinar simultáneamente la ubicación exacta y la velocidad del objeto en movimiento (65:6.1)
 
-lógica | | Ver argumentos; mente mortal | | 
+lógica | | argumentos; mente mortal | | 
 La ausencia de pensamiento razonado en presencia de perplejidad explica grandes inconsistencias (86:5.3)
 El niño se relaciona mejor con la realidad al dominar primero la relación padre-hijo y luego ampliarla (8:1.11)
 fundada en el reconocimiento innato de cosas, significados y valores (103:7.13)
@@ -1096,7 +1092,7 @@ puede llevar de regreso a la Primera Causa (101:2.3)
 método de filosofía, ciencia (101:2.2,8) (103:7.6)
 tolera el concepto de verdad junto con la observación de hechos (102:6.9)
 
-soledad | | Ver aislamiento | | 
+soledad | | aislamiento | | 
 Referencia del Salmo 23 (48:6.13)
 El padre siempre está con nosotros (181:1.6)
 La humanidad de Jesús no es insensible a (182:3.10)
@@ -1105,13 +1101,13 @@ no es bueno estar solo (25:8.4)
 la religión cura (101:10.7)
 cuanto más alto ascendemos, más solos estamos sin nuestros compañeros (28:5.14)
 
-cabezas largas | | Ver calaveras | | 
+cabezas largas | | calaveras | | 
 Adamitas y noditas eran (81:4.2)
 Los sangiks secundarios eran algo (81:4.2)
 los saharauis superiores eran (80:2.2)
 los primeros nórdicos típicos eran (80:9.2)
 
-longanimidad | | Ver paciencia | | 
+longanimidad | | paciencia | | 
 
 pico Longs | (60:4.4) | | PLACE | 
 
@@ -1123,9 +1119,9 @@ adopción por los apóstoles de Juan y Jesús (144:6.5)
 Jesús formuló a los 15 años (126:3.3-4)
 Jesús recitó en el bautismo (136:2.4)
 
-Cena del Señor | | Ver Cena del Recuerdo | | 
+Cena del Señor | | Cena del Recuerdo | | 
 
-perder | | Ver derrota | | 
+perder | | derrota | | 
 
 el perdido | | | | 
 Padre e Hijo buscan (169:1.4)
@@ -1143,13 +1139,13 @@ Sobrino de Abraham; fue a Salem (93:5.5-9,12)
 Moisés reunió descendientes de (96:5.9)
 fue a Sodoma para dedicarse al comercio, la cría de animales (93:5.9)
 
-loción | | Ver ungüento | | 
+loción | | ungüento | | 
 
-suerte (echar) | | Ver echando suertes | | 
+suerte (echar) | | echando suertes | | 
 
 Louisville | (59:4.6) | | PLACE | 
 
-amor | | Ver hermandad (actitud) | | 
+amor | | hermandad (actitud) | | 
 los antiguos desconfiaban del amor, buscaban garantías tangibles con respecto al matrimonio (83:3.1)
 ser purificado a través (182:1.5)
 puede convertirse en odio a través de la decepción, los celos, el resentimiento (177:4.11)
@@ -1277,7 +1273,7 @@ no ejercido en nombre del bien sin lucha (100:4.2)
 prevenir la rebelión es más valioso que resistir (22:2.3)
 rendimiento lealtad a los más altos dictados de la conciencia espiritual (101:9.3)
 
-Lucifer | (53) | Ver Hijos Lanonandek; rebelión de Lucifer; Soberanos de los Sistemas | PERSON | 
+Lucifer | (53) | Hijos Lanonandek; rebelión de Lucifer; Soberanos de los Sistemas | PERSON | 
 aceptación del trabajo de Portadores de Vidas en Urantia (62:7.5)
 adjudicación
 	llevado a juicio en 2-1 / 2 segundos tiempo de Uversa (46:8.1-4) (54:5.13) (67:4.7)
@@ -1315,7 +1311,7 @@ quién es
 Lanaforge fue el sucesor de (53:7.12)
 último presente en Urantia por asalto a Jesús (53:8.1) (53:9.2)
 el hombre no es hijo del maligno (148:4.2,6)
-manifiesto | Ver rebelión de Lucifer:manifiesto de Lucifer
+manifiesto | rebelión de Lucifer:manifiesto de Lucifer
 no existía ningún tribunal del universo local para detener a Lucifer (53:7.14)
 soberanía original de Urantia mantenida en fideicomiso por (114:1.1)
 advertido pacientemente sobre el orgullo, las tendencias críticas (66:8.2)
@@ -1330,7 +1326,7 @@ mientras Lucifer viva
 	Norlatiadek los Altísimos a cargo de los mundos caídos (43:3.7)
 	Satania no puede ser readmitido en la constelación (46:8)
 
-rebelión de Lucifer | (53) | Ver Caligastia; Lucifer; cuarentena; rebelión (espiritual) | | 
+rebelión de Lucifer | (53) | Caligastia; Lucifer; cuarentena; rebelión (espiritual) | | 
 adjudicación
 	la adjudicación de Gabriel contra Lucifer comenzó recientemente; no completo (46:8.1-4) (53:8.4) (53:9) (54:4.8) (54:5.13) (67:4.7)
 	termina en mundos caídos tan rápido como llegan los Hijos divinos (53:9.7)
@@ -1422,7 +1418,7 @@ Satanás informó a Caligastia de la rebelión por adelantado (67:1.2)
 se extendió a todos los mundos del sistema (67:3.1)
 agitación en Jerusem debido a las fuerzas de enlace (53:6.3)
 
-suerte | (86:1) | Ver azar; suerte | | 
+suerte | (86:1) | azar; suerte | | 
 intenta comprar la mala suerte por soborno (87:6.2)
 mal suerte más memorable que buena suerte (86:1.3)
 Los pactos eran un nuevo dispositivo para asegurarse contra la mala suerte (89:8.6)
@@ -1450,17 +1446,17 @@ Evangelio de Lucas
 médico de Antioquía; gentil convertido de Pablo; escribió el Evangelio de Lucas y los Hechos de los Apóstoles; murió en el año 90 d.C. (121:8.8-9)
 creyente firme en la igualdad social (140:8.16)
 
-Personas luminosas | | Ver Deidad | | 
+Personas luminosas | | Deidad | | 
 
-lunáticos | | Ver locura | | 
+lunáticos | | locura | | 
 
 pulmones | | | | 
 Las vejigas natatorias de los artrópodos evolucionaron a (59:5.5)
 
-lujuria | | Ver carne; sexo:urgencia | | 
+lujuria | | carne; sexo:urgencia | | 
 adulterio en el corazón (140:6.5)
 
-Lut | | Ver cien de Caligastia | PERSON | 
+Lut | | cien de Caligastia | PERSON | 
 y todo el concilio perdido en rebelión (67:4.1)
 guardianes dirigidos de la salud y la vida (66:5.17)
 Serapatatia descendiente de (75:3.1)
@@ -1483,7 +1479,7 @@ Jesús pasó por aquí en su viaje a Fenicia
 Lida | (123:0.6) (127:6.4) (128:3.2) | | PLACE | 
 Población por la que pasó Jesús
 
-mentir | | Ver fraude; honestidad; verdad | | 
+mentir | | fraude; honestidad; verdad | | 
 mandamientos contra (66:7.11) (93:4.9) (94:8.13) (131:2.12) (163:2.4)
 equivocarse siempre francamente al decir lo que uno piensa (180:5.5) (181:2.21)
 Pedro justificó su (184:2.11)

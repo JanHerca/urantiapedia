@@ -1,19 +1,14 @@
 ####################################################################################
 #
 #                     I
-#
-#
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-#
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-
-
-I AM | (105:1) | See also God; Infinite, the; Universal Father | PERSON | OK
+I AM | (105:1) | God; Infinite, the; Universal Father | PERSON | OK
 concept of I AM
 	hypothesis of all that is unknowable of God (105:1.6)
 	hypothetical undifferentiated stasis of original infinity (104:4.44-47) (105:1.3-5)
@@ -49,7 +44,7 @@ icebergs sliding off into ocean (61:5.8)
 prayer for delivery from curse of (63:6.6)
 young Jesus contemplated (124:1.8)
 
-ice ages | (59:1.17) (61:5-7) | See also glaciers | | 
+ice ages | (59:1.17) (61:5-7) | glaciers | | 
 1st ice age: (61:5-7)
 3rd ice age: Andonites appeared in times of; 1,000,000 years ago (61:6) (64:1.4)
 4th ice age: 750,000 to 600,000 years ago (61:7.2) (64:4.4-9)
@@ -68,17 +63,17 @@ Andonite migration to (64:7.16-18) (78:1.5)
 land bridge (61:3.9) (61:4.6)
 Salem missionaries in (93:7.2)
 
-ichthyosaurs | | See sea serpents | | 
+ichthyosaurs | | sea serpents | | 
 
-idealism | | See also ideals | | 
+idealism | | ideals | | 
 approaching concept of the divine (3:5.11)
 can never survive if idealists permit themselves to be exterminated (71:4.16-17)
-Greek idealism | See Platonism
+Greek idealism | Platonism
 not merely herd instinct (103:5.8)
 philosophy which inclines toward spiritual level (103:6.14)
 spiritual idealism is energy which advances human culture (81:6.27)
 
-ideals | | See also idealism; values | | 
+ideals | | idealism; values | | 
 all ideals grasp for some perpetuating symbolism (87:7.1)
 born only in creative realms of inner world (111:4.10)
 carve out destiny for immediate posterity (81:6.26-27)
@@ -91,7 +86,7 @@ one’s highest ideals not necessarily synonymous with will of God (103:4.3)
 only attainable ideals reside in God (160:5.5,8)
 origin of (103:5)
 
-ideas | | See also concepts; doctrines; mortal mind; theories; thought | | 
+ideas | | concepts; doctrines; mortal mind; theories; thought | | 
 government effective only when power conferred on a person, not an idea (70:6.1)
 keep ideas practical while ideals high (156:5.16)
 perfect ideas are drawn into circuit of absolute mind (9:6.2)
@@ -99,7 +94,7 @@ power lies not in reality or reasonableness but in vividness and universality of
 sensations plus reflective interpretations (133:7.7)
 theoretical plans for action (101:7.1)
 
-identity | | See also personality | | 
+identity | | personality | | 
 can be associated with nonliving energy patterns (0:5.4)
 committed to Father before transition sleep (27:1.4)
 derives from presence of Adjuster, custodian of identity (12:9.6) (49:6.11) (112:5.18)
@@ -121,7 +116,7 @@ ideographs | | | |
 celestial artisans preserve thought with (44:4.6)
 cumbersome nature of Chinese (79:8.7)
 
-idleness | | See also action; indolence | | 
+idleness | | action; indolence | | 
 destructive of self-respect (159:3.4)
 disgust for idleness in continental nation (72:5.12)
 evils of inaction (130:6.3)
@@ -151,7 +146,7 @@ Idumea | | | PLACE |
 Herod the Great from (121:2.9)
 Pontius Pilate was procurator of (185:0.1)
 
-ignorance | | See also education; knowledge | | 
+ignorance | | education; knowledge | | 
 alone, ignorance can never prevent survival (110:3.5)
 be patient with (178:1.14)
 breeds suspicion (52:6.4)
@@ -176,7 +171,7 @@ influence
 	descendants gave Jesus Greek translation of Scriptures (123:0.3)
 > https://en.wikipedia.org/wiki/Akhenaten
 
-illegitimacy | | See also adultery | | 
+illegitimacy | | adultery | | 
 chief function of ancient clubs was to prevent (70:7.8)
 early fell into disrepute (82:4.4)
 
@@ -190,13 +185,13 @@ only attainable ideals reside in God (160:5.5-9)
 science has destroyed childlike illusions (195:6.4)
 the unwise prefer optimistic illusions to reality (160:1.7) (160:4.13-14)
 
-Image Aids | | See Reflective Image Aids | | 
+Image Aids | | Reflective Image Aids | | 
 
 image of God | | | | 
 man made in (1:3.1) (3:4.7) (6:5.7) (7.4.4) (10:3.1) (32:2.8) (92:5.1) (117:3.5)
 spirit presence of Father in bestowal of Adjusters (1:3.1) (10:3.1) (108:6.3)
 
-images | | See also art | | 
+images | | art | | 
 concept pictures of thought recorder celestial artisans convey immense quantity of information (44:4.5-6)
 earliest images made to preserve memory of illustrious dead (88:2.4)
 Jesus’ drawing on synagogue floor (124:1.4-5)
@@ -226,7 +221,7 @@ Immanence of the Projected Incomplete | | | |
 living presence of Supreme Being (4:1.10)
 Supreme anticipates future evolution as (117:7.6)
 
-Immanuel | (18:6) (33:5) | See also Unions of Days | PERSON | OK
+Immanuel | (18:6) (33:5) | Unions of Days | PERSON | OK
 Union of Days number 611,121 assigned to Nebadon (33:5.1-3)
 Michael’s elder brother (53:5.1)(54:5.8)(128:1.11)
 so named because representative of Father (33:5.1)
@@ -248,7 +243,7 @@ Michael sovereignty
 	would have left Nebadon had Michael asserted premature sovereignty (120:0.3)
 	Michael requested Immanuel forever to remain in Nebadon (119:8.1)
 
-immaturity | | See also maturity | | 
+immaturity | | maturity | | 
 arouses antagonisms (160:3.3)
 discouragement, worry, and indolence evidence of (160:1.6)
 divorces present of relationship to past and future (118:1.8)
@@ -258,9 +253,9 @@ refusing to grow up (156:5.18)
 seeking satisfaction of present desires (160:1.3) (166:3.4)
 unwillingness to forgive is measure of immaturity (174:1.5)
 
-immortality | | See eternal life; survival | | 
+immortality | | eternal life; survival | | 
 
-impatience | | See also patience | | 
+impatience | | patience | | 
 desire to possess what one craves now, in defiance of others’ rights (54:4.4)
 indulging in cheap and sordid adventure (195:5.10)
 lesson of Adam and Eve (75:1.6)
@@ -268,14 +263,14 @@ Lucifer craved to possess immediate power (54:4.4)
 spirit poison (48:7.20)
 wanting to see immediate results – something in our lifetime (75:3.6)
 
-imperfection | | See also evil; perfection | | 
+imperfection | | evil; perfection | | 
 Father participates in our experience with (2:2.6)
 inherent in evolutionary growth (105:6.4)
 
 impersonal, the | | | | 
 ever responsive to will and acts of personality (107:7.4)
 
-import duties | | See taxation | | 
+import duties | | taxation | | 
 
 Imports of Time | | | ORDER | 
 assigned to Mighty Messengers, Those High in Authority, and Those without Name and Number (28:6.1)
@@ -287,17 +282,17 @@ tertiary seconaphim; must show defendant had ample time (28:6.9-12)
 impossibilities | | | | 
 none with God (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
 
-improvidence | | See also self-gratification | | 
+improvidence | | self-gratification | | 
 Jesus did not countenance (165:4.7)
 
-inaction | | See idleness; indolence | | 
+inaction | | idleness; indolence | | 
 
 incantations | | | | 
 futile (150:3.11)
 magic practiced with (88:6.1)
 word combinations believed highly magical (88:6.3)
 
-incarnation | | See also Creator Sons: creature bestowals; Jesus: personality and nature: God incarnate in man; Magisterial Sons: planetary missions; Michael of Nebadon: bestowals; Paradise Sons of God: bestowals | | 
+incarnation | | Creator Sons: creature bestowals; Jesus: personality and nature: God incarnate in man; Magisterial Sons: planetary missions; Michael of Nebadon: bestowals; Paradise Sons of God: bestowals | | 
 Infinite Spirit does not incarnate; rather downsteps in form of angels (8:4.5-6)
 
 Incas | | | RACE | 
@@ -310,7 +305,7 @@ kept fire in good humor (69:6.4)
 incest | | | | 
 origin of idea (82:3.11)
 
-income | | See earning a living; wealth | | 
+income | | earning a living; wealth | | 
 
 incompleteness | | | | 
 virtue that it makes possible evolutionary growth (117:2.8)
@@ -318,10 +313,10 @@ virtue that it makes possible evolutionary growth (117:2.8)
 inconstancy | | | | 
 do not fear (34:7.8)
 
-indecision | See also action; decisions; faith
+indecision | action; decisions; faith
 obliterate dead center of (91:9.5)
 
-India | | See also Brahmanism; Deccan; Eastern Ghats; Ganges; Hinduism; Indus; Punjab; Toda tribe; Western Ghats | PLACE | 
+India | | Brahmanism; Deccan; Eastern Ghats; Ganges; Hinduism; Indus; Punjab; Toda tribe; Western Ghats | PLACE | 
 benefited by passage of Chinese-Mesopotamian trade (79:7.6)
 birthplace of man; Andon and Fonta born in (61:6.1) (79:0.1)
 dinosaurs buried in (60:2.2)
@@ -387,9 +382,9 @@ Van withdrew to highlands west of (67:6.1)
 
 Indian Ocean | (60:3.4) (61:3.8) | | PLACE | 
 
-Indians (American) | | See red race | RACE | 
+Indians (American) | | red race | RACE | 
 
-indigo race | (64:6.25-27) | See also races; Saharans | RACE | 
+indigo race | (64:6.25-27) | races; Saharans | RACE | 
 deteriorated in Africa (78:3.7)
 overran Egypt, then driven out; took possession of Africa (64:6.25) (64:7.14-16) (78:3.6-7) (80:2.2) (80:6.5)
 easily taught to till soil; great slave race (64:6.25) (69:8.5)
@@ -408,7 +403,7 @@ usually subdued by blue race (51:4.6)
 wiped out and absorbed remnants of green, orange races (64:6.13) (64:7.14)
 wives won by riddle contests (82:3.5)
 
-individual, the | | See also individualism; mortals; parts and the whole; personality; self | | 
+individual, the | | individualism; mortals; parts and the whole; personality; self | | 
 better world depends on progress of (145:1.8)
 Father treats each ascending son as (117:6.22)
 God modifies his actions to contribute to (4:2.1)
@@ -418,10 +413,10 @@ nothing so important to Jesus as (138:8.9) (140:8.11) (140:10.5) (144:6.3) (170:
 overdevelopment of institutions detracts from (69:1.1)
 Prince’s staff preached individual initiative (66:6.2)
 progress of individual augmented through group’s achievement (100:0.1)
-relation to group | See groups
+relation to group | groups
 universe rulers would rather risk system rebellion than deprive one mortal of eternal life (112:5.8)
 
-individualism | | See also individual, the; originality | | 
+individualism | | individual, the; originality | | 
 Caligastia was ultraindividualistic (66:8.1)
 industrialism should promote (70:2.18)
 progress demands development of individuality (48:7.29)
@@ -430,7 +425,7 @@ Indo-China | | | PLACE |
 cultures of India and China mixed in (79:6.2)
 Hinayana Buddhism persisted in (94:9.4)
 
-indolence | | See also action; ease; idleness; passivity | | 
+indolence | | action; ease; idleness; passivity | | 
 cease useless yearning (155:1.3)
 defined as
 	evidence of moral immaturity (160:1.6)
@@ -452,19 +447,19 @@ supinely trusting in a fictitious Providence (178:1.14)
 Indonesia | | | PLACE | 
 Mongoloid type with secondary Sangik (81:4.12)
 
-Indra | | See also Hinduism | PERSON | OK
+Indra | | Hinduism | PERSON | OK
 secondary Hindu deity (94:4.6)
 tempestuous Vedic lord of atmosphere (94:1.3)
 > https://en.wikipedia.org/wiki/Indra
 
-indulgence | | See child-rearing; discipline; self-gratification | | 
+indulgence | | child-rearing; discipline; self-gratification | | 
 
-Indus | | See also India | PLACE | 
+Indus | | India | PLACE | 
 Andites migrated into valley of (79:1.3) (79:2.4)
 delta is work of last 50,000 years (79:2.1)
 Dravidian centers along (79:3.6)
 
-industry | | See also commerce; private property | | 
+industry | | commerce; private property | | 
 historically
 	Adam fostered manufacturing, trade relations with outside
 	world (74:5.3)
@@ -484,13 +479,13 @@ tools determine survival of contending groups (81:6.20)
 transition worlds have necessary economy (44:3.3)
 weakness of industry is lack of excitement and adventure (68:5.11)
 
-inequalities | | See also equality | | 
+inequalities | | equality | | 
 due to heredity, environment, degree of spiritual unification (133:7.11)
 mistakenly attributed to social injustice (86:7.4)
 none in light and life (55:5.2)
 provide opportunity for altruism (3:5.7)
 
-inertia | | See indolence | | 
+inertia | | indolence | | 
 
 inevitabilitiess | | | | 
 absolute inevitabilities
@@ -505,19 +500,19 @@ family members reap benefits and suffer consequences of others’ actions (54:6.
 subabsolute inevitabilitiess is Seven Master Spirits (16:1.1) (115:7.5)
 Universal Absolute (0:11.10)
 
-infallibility | | See certainty; sacred books | | 
+infallibility | | certainty; sacred books | | 
 
-infanticide | | See also abortion; children | | 
+infanticide | | abortion; children | | 
 Christianity put end to (195:3.5)
 many primitive clans virtually exterminated by (68:6.9)
 primitive mothers once killed and ate children to renew strength (89:5.4)
 primitives’ favorite method to kill unwanted children was exposure (68:6.8) (84:7.6)
 primitives killed deformed, premature, or sickly children; girls before times of wife purchase (68:6.8) (84:1.4)
 
-inferiority | | See also self-respect | | 
+inferiority | | self-respect | | 
 Fortune’s feelings of (130:6)
 
-inferiors | | See also eugenics; unfortunates | | 
+inferiors | | eugenics; unfortunates | | 
 deficiencies often result of own indolence (70:9.16)
 demon possession possible with inferiors prior to Pentecost (77:7.7)
 disqualification for survival due to inferior ancestors (109:3.8)
@@ -537,9 +532,9 @@ poverty cannot be eliminated if degenerates are freely supported and reproduce w
 subnormals should be kept under society’s control (68:6.11)
 unrestrained multiplication of inferiors destroys civilization (72:9.8) (79:2.7)
 
-infidelity | | See adultery | | 
+infidelity | | adultery | | 
 
-Infinite, the | | See also God; I AM; Universal Father | PERSON | OK
+Infinite, the | | God; I AM; Universal Father | PERSON | OK
 source of universe reality (130:4.2)
 denotes primacy of First Source and Center (0:3.24)
 personality of the Infinite disclosed in Father (10:1.3)
@@ -548,14 +543,14 @@ focalized in human life of Jesus (169:4.3)
 attainment proportional to achieving Fatherlikeness (106:9.11)
 can be revealed only in infinity (3:1.2) (12:1.16)
 
-Infinite Capacity | | See also Unqualified Absolute | | 
+Infinite Capacity | | Unqualified Absolute | | 
 I AM static-reactive, the Unqualified Absolute (105:2.10)
 
-Infinite Mind | | See also Infinite Spirit | PERSON | OK
+Infinite Mind | | Infinite Spirit | PERSON | OK
 function of Infinite Spirit (116:1.3)
 reflectivity proves universe presence of (28:3.2)
 
-Infinite Potential | | See also Deity Absolute | PERSON | OK
+Infinite Potential | | Deity Absolute | PERSON | OK
 I AM self-qualified, the Deity Absolute (105:2.9)
 
 Infinite Spirit | (8) (9) | | PERSON | OK
@@ -673,7 +668,7 @@ functions of Infinite Spirit
 	agencies of Infinite Spirit handle our practical daily affairs (5:3.5)
 	ancestor of cosmic mind (9:5.4) (9:7.3-4) (12:6.3) (16:9.15)
 	antigravity (9:1.7) (9:3.2-3)
-	bestows Third Source personality (9:8.6-12) | See also Third	Source personalities
+	bestows Third Source personality (9:8.6-12) | Third	Source personalities
 	can act for Father in bestowal of personality (9:8.10)
 	compensates for incompleteness of evolutionary Deity – the	Supreme and the Ultimate (9:1.6) (116:4.2)
 	correlator of all actual reality (9:1.3) (104:4.43)
@@ -724,13 +719,13 @@ find Infinite Spirit
 	not all who attain Paradise can immediately discern (16:2.1)
 	Trinity Guides help Havona pilgrims find (26:7.2)
 
-Infinite Upholder | | See also Universal Absolute | PERSON | OK
+Infinite Upholder | | Universal Absolute | PERSON | OK
 I AM self-associative, the Universal Absolute (105:2.8)
 
-Infinitude, The | | See also I AM | PERSON | OK
+Infinitude, The | | I AM | PERSON | OK
 self-differentiation of The Infinite One from (105:2.2)
 
-infinity | | See also reality: levels of reality: absolute reality | | 
+infinity | | reality: levels of reality: absolute reality | | 
 almost limitless ellipse produced by one absolute cause (105:0.1)
 both unity and diversity (115:3.4)
 capable of self-limitation; finite possibility inherent in (105:1.8) (105:5.4) (108:0.2) (115:2.4) (115:4.3-4)
@@ -747,29 +742,29 @@ primordial stasis requires segmentation for human comprehension (115:3.2-4)
 time-space creatures cannot comprehend (2:1.10) (116:2.3)
 triunities are functional balance wheel of (104:4.46)
 
-Infinity, The | | See also I AM | PERSON | OK
+Infinity, The | | I AM | PERSON | OK
 I AM; the eternal continuum (105:2.2)
 
-influences (spiritual) | | See spiritual influences | | 
+influences (spiritual) | | spiritual influences | | 
 
 infrared rays | | | | 
 electronic activity slowed down near to heat (42:5.11)
 
 infraultimatonic rays | (42:5.3) | | | 
 
-inheritance | | See also endowments | | 
-biologic | See eugenics; genetics
+inheritance | | endowments | | 
+biologic | eugenics; genetics
 dividing the (165:4)
 fathers like to leave (142:7.12)
 Jesus’ advice to rich man (132:5.3,15,23)
 obligation to transmit legitimate wealth to succeeding generations (69:9.3) (132:5.15)
 primitives reckoned inheritance in female line (84:2.1)
 prodigal son wasted inheritance in riotous living (169:1.7)
-taxes | See taxation: inheritance tax
+taxes | taxation: inheritance tax
 
-iniquitous one | | See Lucifer | | 
+iniquitous one | | Lucifer | | 
 
-iniquity | | See also error; evil; rebellion (spiritual); sin | | 
+iniquity | | error; evil; rebellion (spiritual); sin | | 
 defined as
 	cosmic insanity; defiance of reality; indicates vanishing personality control (2:3.5) (67:1.4-5)
 	destroying connection of soul with spirit (146:2.2)
@@ -786,9 +781,9 @@ iniquiters never experience sorrow or accept forgiveness for misdeeds (67:1.6)
 Jesus saw most men as weak rather than wicked (196:2.9)
 some embrace iniquity (133:3.7)
 
-initiation ceremonies | | See secret societies | | 
+initiation ceremonies | | secret societies | | 
 
-initiative | | See also achievement; earning a living; originality | | 
+initiative | | achievement; earning a living; originality | | 
 belief in charms destroyed; tradition stifles (66:6.2) (88:6.6)
 directly proportional to degree of doing Father’s will (195:6.16)
 industrialism should promote (70:2.18)
@@ -799,9 +794,9 @@ overdevelopment of institutions diminishes (69:1.1)
 Prince’s staff preached individual initiative (66:6.2)
 under ghost cults, future not result of effort or talent (87:5.8)
 
-injunctions | | See commandments | | 
+injunctions | | commandments | | 
 
-injury | | See also disease; healing; health; physicians | | 
+injury | | disease; healing; health; physicians | | 
 healing chemicals (65:4.3-6)
 
 injured boy at Pella | (137:0.1) (137:1.1,4) | | | 
@@ -810,7 +805,7 @@ not resisting or combating injuring (140:3.14) (140:8.4)
 recompense injuring with kindness (131:8.4)
 refrain from despising material means of healing (164:3.15)
 
-injustice | | See also evil; exploitation; fraud; lying; theft | | 
+injustice | | evil; exploitation; fraud; lying; theft | | 
 do not forcibly resist (140:3.14) (140:8.4)
 faith maintains poise in face of (101:3.9) (194:3.12)
 Socrates taught better to suffer injustice than be guilty of it (98:2.6)
@@ -821,7 +816,7 @@ is contemptible (131:3.3)
 mars human minds (9:5.5-7)
 rejoice in him who has power to deliver us from all injustice (165:3.3)
 
-inner life | (111:4) | See also spiritual communion; spiritual growth | | 
+inner life | (111:4) | spiritual communion; spiritual growth | | 
 alone is truly creative (111:4.3)
 
 inns | | | | 
@@ -848,23 +843,23 @@ primitives
 	often worshiped lunatics (85:6.2)
 uncontrolled and random associations of (133:7.9)
 
-insects | (61:2.4) | See also animals | | 
+insects | (61:2.4) | animals | | 
 appearance (59:5.7)
 born fully educated (81:6.24)
 fossils of insects preserved in lithographic stone (60:2.6)
 nonprogressive species (65:2.5)
 resting stages of suspended animation evolved (59:6.7)
-types named | See butterflies; caterpillars; centipedes; cockroaches; crickets; dragon flies; gnats; hornets; locusts; scorpions; spiders
+types named | butterflies; caterpillars; centipedes; cockroaches; crickets; dragon flies; gnats; hornets; locusts; scorpions; spiders
 worship of insects was misinterpretation of golden rule (85:3.4)
 
-insecurity | | See also anxiety; fear; uncertainty | | 
+insecurity | | anxiety; fear; uncertainty | | 
 antidoted by faith (143:7.3)
 provides opportunity for hope (3:5.8)
 
 insideness | | | | 
 of human experience is viewpoint of religion (103:6.3) (103:7.6)
 
-insight | | See also spiritual insight | | 
+insight | | spiritual insight | | 
 consciousness of meanings of meanings (160:1.5)
 grasping eternal goal-meanings in seemingly insignificant activities (43:8.10)
 humor can help achieve (48:4.18)
@@ -875,13 +870,13 @@ precedes foresight (112:2.6)
 stars best discerned from lonely isolation of depths (48:7.15)
 unchallengeable consciousness of cosmic reality (112:1.10)
 
-insincerity | | See also sincerity | | 
+insincerity | | sincerity | | 
 animal vestigial trait which morontia career eradicates (48:5.8)
 Lucifer’s insincerity evolved into deliberate sin (53:2.5)
 mars human minds (9:5.5-7)
 social architect seraphim seek to eliminate artificiality (39:3.4)
 
-inspiration | | See also leadings; revelation: personal revelation; spiritual insight | | 
+inspiration | | leadings; revelation: personal revelation; spiritual insight | | 
 Jesus’ life was inspiration rather than an example (120:2.7) (129:4.7) (136:0.1) (140:10.3) (181:1.3) (194:2.8) (196:1.5)
 
 Inspired Trinity Spirits | (19:5) | | ORDER | 
@@ -909,24 +904,24 @@ superpersonal expression of Paradise Trinity (19:5.2) (108:3.9)
 Trinity-origin beings can sometimes recognize and employ (19:5.3,10)
 without discoverable form (42:12.10)
 
-instability | | See also confusion | | 
+instability | | confusion | | 
 overmuch sympathy may degenerate into emotional (149:4.3)
 
-instigators of rest | (27:1) | See also supernaphim | ORDER | 
+instigators of rest | (27:1) | supernaphim | ORDER | 
 meet pilgrims on inner Havona circle (26:11.6)
 primary supernaphim (26:11.6) (27:0.10)
 
-instincts | | See also flesh; sex: urge | | 
+instincts | | flesh; sex: urge | | 
 herd instinct insufficient to account for present society (68:2.4)
 innate drives toward growth and self-realization function unless inhibited (100:1.6)
 man’s technique varies, but his disposition remains unchanged (69:5.13) (84:5.13)
 reduced land yield or increased population brings worst traits of human nature to surface (68:6.4)
 training of intellect annulled by instinct (111:7.5)
 
-institutions | | See also civilization; government | | 
+institutions | | civilization; government | | 
 accumulated mores (69:0.3)
 all minister to some social need (69:1.1)
-basic types (69:1.3-5) | See also self-gratification; self-maintenance; self-perpetuation
+basic types (69:1.3-5) | self-gratification; self-maintenance; self-perpetuation
 man secured civil freedom through (81:5.5)
 man should control his i., not be controlled by them (69:1.1)
 most are laborsaving; contribute to group security (69:0.2)
@@ -958,7 +953,7 @@ wise investment of earnings against future adversity (163:2.11)
 intellectualism | | | | 
 intellectual overdevelopment sometimes handicaps and embarrasses religion (102:3.1)
 
-intelligence | | See mind | | 
+intelligence | | mind | | 
 
 intelligence co-ordinators (Seraphic Corps of Completion) | | | ORDER | 
 broadcasters of superior seraphim associate with (39:2.15)
@@ -971,9 +966,9 @@ tertiary supernaphim; living newspapers of Havona (26:3.8)
 intelligence corps | | | | 
 superior seraphim; report to Gabriel (39:2.3)
 
-intentions | | See motives | | 
+intentions | | motives | | 
 
-interbreeding | | See crossbreeding; eugenics; hybridization | | 
+interbreeding | | crossbreeding; eugenics; hybridization | | 
 
 intercessors | | | | 
 enlightenment should deliver from dependence on (92:7.11)
@@ -1007,7 +1002,7 @@ inexorable restoration of imbalance between self-liberty and self-control (118:8
 intersonship circuit | | | | 
 direct channel of communication between Eternal Son and Paradise Sons (7:6.7) (15:9.7)
 
-intolerance | | See also prejudice; tolerance | | 
+intolerance | | prejudice; tolerance | | 
 appeared with revealed religion (92:7.2-3)
 caused summary dismissal at Urmia (134:3.6)
 covers secret doubts (146:3.2)
@@ -1031,9 +1026,9 @@ Jesus refused drugs at crucifixion (187:2.3) (194:3.4)
 religion of Jesus not an opiate (194:3.3-4)
 Sumerians used opium as medicine (90:4.9)
 
-introspection | | See self-analysis | | 
+introspection | | self-analysis | | 
 
-intuition | | See adjutant mind-spirits: #1–intuition; leadings; spiritual insight | | 
+intuition | | adjutant mind-spirits: #1–intuition; leadings; spiritual insight | | 
 
 invention | | | | 
 accelerates cultural development (81:6.9)
@@ -1101,7 +1096,7 @@ pottery discovered by observing burned clay hut (81:2.18)
 Simon Zelotes kept at work by belief Jesus would soon return (192:2.5-6)
 timing of submergence of Eden (73:7.2)
 
-Iroquois | | See also red race | RACE | 
+Iroquois | | red race | RACE | 
 federation achieved primitive form of state (71:1.3-12)
 mother-family one reason statehood never achieved (84:2.2)
 reformed waste in funerals (87:2.10)
@@ -1111,7 +1106,7 @@ Adamites labored along rivers of Mesopotamia on (78:2.1)
 Caligastia 100 taught (66:5.2)
 Sumerians used irrigation canals for military defense (78:8.5)
 
-irritation | | See complaining | | 
+irritation | | complaining | | 
 
 Isaac (Nazareth moneylender) | | | PERSON | OK
 offered to support Jesus’ family if he joined Zealots (127:2.5)
@@ -1153,7 +1148,7 @@ Egyptian agricultural workers worshiped (95:5.12)
 Ishtar cult in Egypt (95:1.7)
 mother of Osiris in Egyptian mystery cult (98:4.2-8)
 
-Islam | | See also Mohammed | RACE | 
+Islam | | Mohammed | RACE | 
 chapter of Koran devoted to evil eye (87:5.5)
 clear-cut presentation of Allah as only Deity (94:2.8) (95:7.6)
 failed to grasp idea of Trinity (92:6.19) (104:1.9)
@@ -1172,7 +1167,7 @@ taboo on pork (89:1.5)
 teaches inferiority of women (82:4.3) (84:5.6) (95:7.6)
 use of military force to promulgate (95:7.6)
 
-Isle of Paradise | | See Paradise | PLACE | 
+Isle of Paradise | | Paradise | PLACE | 
 
 Isle of Patmos | | | PLACE | 
 Apostle John banished to (139:4.13-14)
@@ -1180,7 +1175,7 @@ Apostle John banished to (139:4.13-14)
 isms | | | | 
 many isms arose from garbled Adjuster communications (110:4.5)
 
-isolation | | See also loneliness | | 
+isolation | | loneliness | | 
 effect
 	divergence of personality from trend of universe (130:4.8)
 	exhausts energy charge of soul (160:2.8-9)
@@ -1211,21 +1206,21 @@ religion cures (101:10.7)
 society is result of man’s dislike of (68:2.1)
 Spirit of Truth destroys feelings of orphanhood (194:2.2)
 
-isolation worlds | | See prison worlds | PLACE | 
+isolation worlds | | prison worlds | PLACE | 
 
-Israel | | See also Ephraim; Galilee; Judea; Palestine; Perea | PLACE | 
+Israel | | Ephraim; Galilee; Judea; Palestine; Perea | PLACE | 
 children of Israel so called after days of Abraham (96:2.3) (136:1.1)
 conspired with Egypt to refuse to pay tribute to Assyria; was destroyed (97:9.21)
 fell under rule of city despots (97:9.18)
 wars with Judah (97:9.18)
 
-Israelites | | See also Jews | RACE | 
+Israelites | | Jews | RACE | 
 3 or 4 tribes settled in Palestine (97:9.1)
 national consciousness took origin in Ephraim (97:9.2)
 
-isthmuses | | See land bridges | | 
+isthmuses | | land bridges | | 
 
-Italy | | See also Appian Way; Capua; Naples; Roman Empire; Rome; Tarentum | PLACE | 
+Italy | | Appian Way; Capua; Naples; Roman Empire; Rome; Tarentum | PLACE | 
 Andites in (80:7.11)
 Jesus’ trip to Rome (132) (130:8.3-6) (133:0-2)
 tribes dwelt in houses erected on piles over lakes of (80:8.3)

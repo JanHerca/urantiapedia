@@ -1,20 +1,14 @@
 ####################################################################################
 #
-#                    R
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+#                     R
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-
-
-
-
-rabinos | | Ver judaísmo | | 
+rabinos | | judaísmo | | 
 deseando ser llamado rabino (175:1.9)
 Jesús se refirió como Rabí (137:7.2) (142:2.1,5) (142:6.3)
 calificados para actuar como jueces (173:2.3)
@@ -30,7 +24,7 @@ interpretar el punto de vista de razas enteras (37:5.5) (48:6.22)
 muy activo en Urantia (114:4.2)
 trabajo apoyado por Serafines Intérpretes Raciales (48:6.22)
 
-razas | (64) (51:4) | Ver eugenesia; genética; tribus | RACE | 
+razas | (64) (51:4) | eugenesia; genética; tribus | RACE | 
 24 consejeros reclutados de las ocho razas (45:4.2)
 La sangre adánica se prepara mejor para el Espíritu de la Verdad (34:7.1)
 todos son beligerantes (70:1.2)
@@ -48,7 +42,7 @@ apariencia
 base de agrupaciones nacionales primitivas (52:2.5)
 tendencias sociales definidas, perspectivas mentales, caracterizan a cada raza (48:6.22) (155:6.8)
 dispersión (64:7)
-mestizaje | Ver hibridación
+mestizaje | hibridación
 	temprano (51:4.5)
 	problemas principales de los mestizos debido al prejuicio (82:6.8)
 	la homogeneidad no es deseable hasta niveles espirituales elevados
@@ -87,10 +81,10 @@ Las salas de resurrección tienen un ala separada para cada raza (47:3.5)
 segregación favorecida por muchos idiomas (52:2.5)
 rara vez avanzado en los trópicos (81:6.7)
 Semitas entre los más mezclados (96:2.1)
-espiritualmente iguales ante Dios | Ver Dios:la naturaleza de Dios:no hace acepción de personas | (64:6.27) (134:4.7)
+espiritualmente iguales ante Dios | Dios:la naturaleza de Dios:no hace acepción de personas | (64:6.27) (134:4.7)
 razas superiores buscaba climas templados o del norte (64:7.13)
 probado por las dificultades de la edad glacial (64:7.1)
-tipos | Ver adamitas; andonitas; raza azul; hombres cobrizos; raza verde; raza índiga; noditas; raza naranja; raza roja; sangiks; raza blanca; raza amarilla
+tipos | adamitas; andonitas; raza azul; hombres cobrizos; raza verde; raza índiga; noditas; raza naranja; raza roja; sangiks; raza blanca; raza amarilla
 	3 razas actuales son Caucasoide, Mongoloide y Negroide (81:4.10-14)
 	carreras primarias de Sangik
 		son rojos, amarillos, azules (49:4.2) (51:4.3) (64:7.3)
@@ -108,7 +102,7 @@ convirtió a María Magdalena (150:2.2)
 miembro del cuerpo de mujeres (150:1.1)
 cuestión de (150:5.1)
 
-Intérpretes Raciales | (48:6.22-23) | Ver Serafines | ORDER | 
+Intérpretes Raciales | (48:6.22-23) | Serafines | ORDER | 
 Serafines de segundo orden de ministro de transición (39:6.1)
 Serafines que armonizan diversos puntos de vista de las razas (48:6.22)
 
@@ -117,7 +111,7 @@ Ondas hertzianas utilizadas para (42:5.12)
 papel de los cinturones de aire superiores (46:1.6) (58:2.10)
 posición de octava de energía de las olas (42:5.1,12)
 
-radioactividad | | Ver rayos X | | 
+radioactividad | | rayos X | | 
 tendencia a la desorganización de elementos más pesados ​​(42:3.11)
 exceso derivado de la ruptura del mesotrón (42:8.5)
 elementos radiactivos traídos por meteoros (57:7.3)
@@ -132,9 +126,9 @@ Desintegración de uranio por emisiones de (42:4.12)
 Ragaba | (165:0.1) (166:1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
-rabia | | Ver ira | | 
+rabia | | ira | | 
 
-lluvia | | Ver sequía | | 
+lluvia | | sequía | | 
 parece descender en oleadas, pero en realidad es en gotas separadas (41:5.7)
 comenzó cuando la atmósfera se enfrió; duró miles de años (57:7.7)
 cae sobre justos e injustos por igual (2:5.1) (131:10.4) (140:3.16) (166:4.4)
@@ -154,7 +148,7 @@ Una de las poblaciones recorridas en la misisón de Perea
 Ramán | | | PERSON | 
 Dios babilónico del aire (146:1.1)
 
-doctrina de rescate | | Ver doctrina de la expiación | | 
+doctrina de rescate | | doctrina de la expiación | | 
 
 Rantowoc | | | PERSON | 
 primer mortal en asegurar el guardián personal del destino (113:2.2)
@@ -169,7 +163,7 @@ racionalismo | | | |
 la filosofía se inclina fuertemente hacia el mundo de la materia (103:6.14)
 Se equivoca al suponer que las creencias primitivas son seguidas por la búsqueda de valores (103:1.4)
 
-racionalización | | Ver autoengaño | | 
+racionalización | | autoengaño | | 
 
 Ratta | | | PERSON | 
 Nodita sobrehumano de 20 años; Segunda esposa de Adanson, con quien tuvo 67 hijos (77:5.5-6)
@@ -182,7 +176,7 @@ El padre proporciona alimento a todo el que busca (165:5.2)
 comedores crudos | | | | 
 término de burla (69:6.7)
 
-realidad | (0:4) | Ver energía; materia; mente; morontia; personalidad; espacio; espíritu | | 
+realidad | (0:4) | energía; materia; mente; morontia; personalidad; espacio; espíritu | | 
 todo se adhiere y consiste en Dios (3:1.7)
 finalización del ciclo de realidad (106:812)
 comprendido solo por experiencia personal en la voluntad de Dios (1:7.5)
@@ -236,10 +230,10 @@ niveles de realidad (105) (106) (0:4.9)
 		integración suprema secundaria (106:2)
 		sensibilidad a la realidad constitutivo en la mente del hombre (103:7.11)
 		espíritu más real que la materia (44:0.15-16)
-		Supremo es unificador y correlacionador de toda realidad finito | Ver El Supremo
+		Supremo es unificador y correlacionador de toda realidad finito | El Supremo
 		la realidad suprema es la soberanía de la verdad, la belleza, la bondad (99:4.4)
 		finitos terciarios no revelados (106:1.1)
-	realidad absonita | Ver absonidad; Trascendentales
+	realidad absonita | absonidad; Trascendentales
 		7 niveles (30:1.93)
 		Los Arquitectos del Universo Maestro, los Trascendentales, los Organizadores Maestros de la Fuerza son seres absonitos (30:1.94)
 		Los Arquitectos del Universo Maestro existen en 7 niveles absonitos; tener absonitos celestiales (31:9.1-9)
@@ -255,7 +249,7 @@ niveles de realidad (105) (106) (0:4.9)
 		asociación terciaria trascendental (106:3)
 		Los trascendentales son subinfinitos y subabsolutos pero superfinitos y supercreaturales (105:7.1-2)
 		los trascendentales precedieron y sucedieron finitos (105:5.3) (106:0.5)
-		realidad Última | Ver Dios Último
+		realidad Última | Dios Último
 			Los finalitarios pueden algún día eventualizar la ultimidad de Dios (5:5.11)
 			nivel de significación del universo maestro (106:0.6)
 			gran parte del Paraíso-Havona es (106:0.6)
@@ -266,7 +260,7 @@ niveles de realidad (105) (106) (0:4.9)
 			integración cuaternaria final (106:4)
 			unificador y correlacionador de toda la realidad absonita (0:1.10)
 		sin principios ni finales, trascendiendo el tiempo y el espacio (0:1.12) (0:4.8)
-	realidad absoluta | Ver eternidad; infinito; monota | (0:4.8) (106:0.8)
+	realidad absoluta | eternidad; infinito; monota | (0:4.8) (106:0.8)
 		Integración de la sexta fase (106:6)
 		sin principio, sin fin, sin tiempo, sin espacio, sin límites; incondicionalmente eterno - verdaderamente existencial (0:1.13) (106:9.3) (115:1.3) (115:3.1)
 		coabsolute realidad es el nivel del universo supermaestro de la quinta fase
@@ -289,7 +283,7 @@ niveles de realidad (105) (106) (0:4.9)
 		la realidad tan significativo como el realidad real (118:1.9-10)
 		el espacio se acerca más a todas las cosas no absolutas a ser absoluto (118:3.5)
 	otras categorizaciones de la realidad
-		3 elementos de realidad son hecho, idea y relación | Ver ciencia, filosofía y religión | (196:3.2)
+		3 elementos de realidad son hecho, idea y relación | ciencia, filosofía y religión | (196:3.2)
 		Las 3 fases originales de la energía divina son la energía física, mental y espiritual (44:5.5)
 		3 fases son origen, historia y destino (19:1.6)
 		3 fases de la existencia son material, morontial y espiritual (46:4.8)
@@ -331,7 +325,7 @@ en la décimo sexta aparición de Jesús (193:0)
 miembro del cuerpo de mujeres (150:1.1)
 relacionó la resurrección a José, Nicodemo y David (190:1.2)
 
-rebelión (espiritual) | (128:7.6) (134:8.9) (136:3.4-5) (136:4.5-6) ​​(148:4.2,6) (148:5.2) (158:0.1) (158:1.7) (159:3.9) | Ver maldad; iniquidad; rebelión de Lucifer; cuarentena; pecado | | 
+rebelión (espiritual) | (128:7.6) (134:8.9) (136:3.4-5) (136:4.5-6) ​​(148:4.2,6) (148:5.2) (158:0.1) (158:1.7) (159:3.9) | maldad; iniquidad; rebelión de Lucifer; cuarentena; pecado | | 
 acción que previene la rebelión es de mayor valor (22:2.3)
 después de la rebelión, los rebeldes arrepentidos no funcionan en las posiciones originales (35:9.10) (35:10.4) (53:9.1) (169:1.15)
 edades requeridas para recuperar handicaps de la rebelión (50:6.5) (52:6.8)
@@ -343,7 +337,7 @@ no indica falta en la creación (35:9.7)
 en Nebadon
 	la primera rebelión fue por Lutentia de Palonia en el sistema 11 de la constelación 37 (119:2.1-2)
 	la segunda rebelión estaba en el sistema 87 de la constelación 61 (119:3.1,3)
-	la tercera rebelión fue por Lucifer en Satania | Ver rebelión de Lucifer
+	la tercera rebelión fue por Lucifer en Satania | rebelión de Lucifer
 	Los Ancianos de los Días ordenaron la extinción instantánea de nuevos rebeldes durante el donación de Miguel (54:4.5) (120:1.5-6)
 	El donación de Miguel liquidado las disensiones pendientes; los desafíos futuros no pueden repetirse (53:8.4) (120:2.2) (134:8.9) (136:3.5)
 	ocurrió 3 veces por Lanonandeks; más de 700 involucrados (35:9.5-6) ​​(45:2.1) (50:1.3) (120:1.6)
@@ -353,7 +347,7 @@ observar un planeta normal revelaría lo que ha perdido Urantia (51:7.5) (52:2.1
 Supernafines primarios ordenan a ángeles anfitriones en mundos aislados por (27:0.2)
 Los supervisores de circuitos terciarios aíslan mundos en (24:1.12)
 los gobiernos del universo prefieren arriesgar rebelión que privar a un mortal de una carrera ascendente (112:5.7-8)
-mundos aislados por | Ver cuarentena:mundos sujetos a
+mundos aislados por | cuarentena:mundos sujetos a
 
 Recientes de los Días | (18:5) | | ORDER | 
 3 presiden cada sector menor (15:10.15) (15:13.4) (18:5.1)
@@ -365,9 +359,9 @@ los mortales ascendentes residentes sirven (18:5.2)
 Personalidades Trinitarias Supremas (18:0.6)
 Los Custodios Trinidizados son funcionarios de tribunales de (18:4.5)
 
-recesión de las galaxias | | Ver corrimiento al rojo | | 
+recesión de las galaxias | | corrimiento al rojo | | 
 
-reconocimiento | | Ver adulación; conocimiento; alabanza | | 
+reconocimiento | | adulación; conocimiento; alabanza | | 
 acuerdo generoso reconocimiento por cosas dignas de alabanza (100:1.8) (159:3.3)
 votos adicionales otorgados en la nación continental como (72:9.3)
 reservistas del destino dispuestos a servir sin (114:7.5)
@@ -382,11 +376,11 @@ Jesús
 	Verdad reconocida en las enseñanzas de otros (100:7.5)
 no busque reconocimiento no merecido (156:5.19)
 
-Educadores-Registradores | (48:6.30-33) | Ver Serafines | ORDER | 
+Educadores-Registradores | (48:6.30-33) | Serafines | ORDER | 
 Serafines de ministro de transición de sexto orden (39:6.1)
 Serafines que registran transacciones morontiales (48:6.30)
 
-registradores | | Ver registros | ORDER | 
+registradores | | registros | ORDER | 
 comunicación constante entre muchos órdenes (39:2.16)
 creadores y Custodios de los Registros
 	Serafines administradores (39:4.16)
@@ -403,7 +397,7 @@ creadores y Custodios de los Registros
 	Serafines supervisores (39:3.10)
 	Serafines supremos (39:1.17)
 
-registros | | Ver registradores; escritura | | 
+registros | | registradores; escritura | | 
 arte en el ensamblaje inteligente de datos relacionados (48:6.30)
 grabación celestial a una velocidad de 500.000 palabras por minuto (44:4.4)
 registros celestes sujetos a inspección dual (25:6.3)
@@ -423,7 +417,7 @@ conservado por triplicado en la sala de archivos de Jerusem (46:5.22)
 Registros espirituales (en vivo) reunidos por reflectividad y conservados en la mente (17:3.5-6)
 sistema seráfico triple (39:4.16)
 
-recreación | | Ver placeres; relajación; Directores de la reversión | | 
+recreación | | placeres; relajación; Directores de la reversión | | 
 diversión y relajación en el monte Sartaba (143:3)
 La primera causa de la guerra fue el deseo de (70:1.13)
 ecos de una mirada hacia atrás (48:4.19)
@@ -446,7 +440,7 @@ la reversión se disfruta en todas partes menos en el Paraíso (48:4.11,16)
 rectángulos (Jerusem) | | | PLACE | 
 áreas para la vida nativa inferior en Jerusem (46:4)
 
-raza roja | (64:6.3-9) (79:5) | Ver razas | RACE | 
+raza roja | (64:6.3-9) (79:5) | razas | RACE | 
 logró una alta civilización aparte de los anditas (79:5.8)
 siempre monógamo (64:6.3) (82:1.2)
 La danza del búfalo aseguró el éxito de la caza (88:6.4)
@@ -512,7 +506,7 @@ corrimiento al rojo | | | |
 la interposición de influencias y ángulos de observación introduce error (12:4.12-15)
 la respiración espacial está en fase de expansión (11:6.4)
 
-redención | (89:8) | Ver doctrina de la expiación | | 
+redención | (89:8) | doctrina de la expiación | | 
 rehabilitación eterna (188:5.2)
 modificación del sacrificio humano (89:8.1)
 lugar en la evolución de las observancias religiosas (90:0.1)
@@ -538,9 +532,9 @@ representan seres elevados que no están completamente activos (15:10.21)
 los Seconafines son ayudantes (17:4.3)
 Los Conciliadores Universales sirven bajo (25:3.14)
 
-Espíritus maternos reflexivos | | Ver Espíritus Reflectantes | ORDER | 
+Espíritus maternos reflexivos | | Espíritus Reflectantes | ORDER | 
 
-Espíritus Reflectantes | (17:3) | Ver Majeston | ORDER | 
+Espíritus Reflectantes | (17:3) | Majeston | ORDER | 
 7 en la sede de cada superuniverso (15:10.2) (17:3.1) (17:4.1) (25:2.2) (28:4.5)
 49, más Majeston, creado por Espíritu Maestros y Trinidad (17:2.1) (17:3.1) (116:4.3-4)
 los 49 actúan al unísono en ocasiones especiales (17:3.11)
@@ -608,7 +602,7 @@ interrumpió la unidad del cristianismo (92:5.15)
 el Refugio | | | | 
 declaración de fe budista (94:8.1)
 
-regulación (gubernamental) | | Ver gobierno; policía | | 
+regulación (gubernamental) | | gobierno; policía | | 
 la coordinación funciona mejor (81:6.33)
 opresivo regulación interfiere con las libertades individuales (134:6.10)
 la propensión sexual debe regularse (81:5.6)
@@ -620,7 +614,7 @@ Los Hijos Creadores se comprometieron a recuperar la creación personal (21:3.14
 la salvación es eterna rehabilitación (188:5.2)
 lo que la misericordia no puede rehabilitar, la justicia aniquilará (21:5.7)
 
-reencarnación | | Ver karma | | 
+reencarnación | | karma | | 
 La creencia asiática en el regreso del hombre como animal (85:3.1)
 Los judíos mayores, Platón, Filón, los esenios toleraron la creencia en (164:3.4)
 única experiencia de espornagia (46:7.5)
@@ -631,7 +625,7 @@ creencia embrutecedora en vidas cansadas y monótonas (94:2.3-6)
 reno | (61:7.13) | | | 
 perseguido por los neandertales (64:4.3)
 
-relaciones | | Ver amistad; grupos | | 
+relaciones | | amistad; grupos | | 
 2 seres están en sociedad; 3 o más crean un grupo (39:3.6) (112:1.17)
 3 grandes clases de relaciones primordial (105:4.3-8)
 las compañerismos celestiales son invariablemente mutuas (27:3.4)
@@ -651,18 +645,18 @@ no se deje engañar por el concepto de (130:4.15)
 fórmula que equipara energía y materia (42:4.11)
 la materia y la energía son manifestaciones del mismo fenómeno (42:1.2)
 
-relajación | | Ver facilidad; recreación; Directores de la reversión | | 
+relajación | | facilidad; recreación; Directores de la reversión | | 
 3 días en el monte Sartaba (143:3)
 determina la capacidad de receptividad espiritual (160:3.1)
 ecos de una mirada hacia atrás (48:4.12,19)
 
-reliquias | | Ver encantos; fetiches | | 
+reliquias | | encantos; fetiches | | 
 creencia en reliquias es una consecuencia del culto fetiche (88:2.1-2)
 impotente; superstición burda (150:3.6)
 Los guardias del sanedrín arrojaron la ropa de entierro de Jesús por el acantilado (190:1.2)
 bueno que los soldados se llevaron la ropa de Jesús (187:2.9)
 
-religión | (99) (100) (101) (102) (103) (196) (5:4) (101:1) | Ver Iglesia cristiana inicial; cristianismo; iglesias; fe; hijos de Dios por la fe; hermandad de creyentes; evangelio; Jesús:enseñanzas; reino de los cielos; revelación; crecimiento espiritual | RELIGION | 
+religión | (99) (100) (101) (102) (103) (196) (5:4) (101:1) | Iglesia cristiana inicial; cristianismo; iglesias; fe; hijos de Dios por la fe; hermandad de creyentes; evangelio; Jesús:enseñanzas; reino de los cielos; revelación; crecimiento espiritual | RELIGION | 
 toda Urantia esperando religión sin trabas de Jesús (94:12.7)
 acercarse a otros reconociendo verdades comunes (149:2.5)
 Equilibrio mediante el humor (143:7.3)
@@ -710,8 +704,8 @@ definido como
 	devoción incondicional a los valores supremos (92:7.5) (100:6.1-2) (101:5.2) (195:7.16)
 	sabia reacción espiritual al universo (100:2.3)
 	adoración a Dios y servicio al hombre (72:3.5) (100:3.1) (103:3.2) (159:5.7) (196:3.19)
-religión evolutiva | Ver religión:historia de la religión; religión:religión institucional
-explicado | Ver evangelio:explicado | (94:4.10)
+religión evolutiva | religión:historia de la religión; religión:religión institucional
+explicado | evangelio:explicado | (94:4.10)
 	500 definiciones de teólogos (103:1.1)
 	cumbre de, marcas de, vida religiosa (100:6-7)
 	la activación es superemocional (99:4.5)
@@ -765,7 +759,7 @@ explicado | Ver evangelio:explicado | (94:4.10)
 	paga cualquier precio esencial (100:3.1)
 	persiste a pesar de los cambios revolucionarios en las creencias (103:1.4)
 	persiste en ausencia de aprendizaje (101:3.1)
-	filosofía y religión | Ver ciencia, filosofía y religión
+	filosofía y religión | ciencia, filosofía y religión
 	espíritu de expresión equilibrado, sin autoafirmación o exaltación egoísta (102:2.2)
 	naturaleza positiva de la religión de Jesús (159:5)
 	impotente aparte de la herencia normal (70:8.18)
@@ -850,7 +844,7 @@ religión institucional (99)
 	ideas cardinales (92:3.2)
 	preocupado por la ética y la moral, el sentido del deber (101:5.10)
 	La copa del recuerdo es el emblema del surgimiento de la esclavitud de (179:5.2)
-	peligros | Ver religión:advertencias
+	peligros | religión:advertencias
 	no prevé su corrección progresiva (92:3.4)
 	bueno en la medida en que lleva al hombre a Dios y de Dios al hombre (92:7.3)
 	pierde gradualmente el mensaje de ahorro (99:6.3)
@@ -864,7 +858,7 @@ religión institucional (99)
 	El precio de la adherencia es la pérdida de libertad espiritual (155:6.5)
 	requiere uniformidad de creencias (155:6.9)
 	la revelación reconoce las exigencias del deber de (101:9.1)
-	sacramentos de | Ver sacramentos
+	sacramentos de | sacramentos
 	la ciencia purifica la religión destruyendo la superstición (81:6.10)
 	las almas espiritualmente indolentes anhelan religión antiguos y autoritarios (102:2.7-8) (195:10.14)
 	estatus mejor juzgado por estándares morales y éticos (102:5.3) (102:8.2)
@@ -893,7 +887,7 @@ religión primitiva (85) (86) (87) (88) (89) (90) (91)
 	anhela la extinción en un sueño y descanso sin fin (194:3.2-3)
 	erróneo en concepto; completamente ilógico (86:7.5)
 	El padre honra las supersticiones de los hombres primitivos (155:6.17)
-	dioses de | Ver dioses y diosas
+	dioses de | dioses y diosas
 		concebido a semejanza del hombre (1:5.11) (85:6.3) (92:5.1)
 		infligir disgusto por el hambre y las inundaciones (4:5.3) (148:6.4)
 		ídolos autoengañosos; fantasía deseosa (160:5.9)
@@ -933,8 +927,8 @@ religión primitiva (85) (86) (87) (88) (89) (90) (91)
 	tiende a hacer a Dios semejante al hombre (102:3.14)
 propósitos de las actividades de grupo (99:6.2)
 reliquias
-religiones, nombradas | Ver adoración a los antepasados; animismo; Baal; brahmánismo; budismo; cristianismo; confucianismo; culto de no quitar la vida; cinismo (religión); Dionisio; espiritismo dual; misterios eleusinos; adoración al emperador; epicureísmo; Grecia:religión griega; henoteísmo; hinduismo; Islam; jainismo; judaísmo; mitraísmo; monoteísmo; culto a la madre; culto a la Madre de Dios; cultos de misterio; misticismo; hermandad órfica; paganismo; Panteísmo; parsis; culto fálico; cultos de misterio frigios; politeísmo; Iglesia católica romana; sintoísmo; sijismo; escepticismo (religión); estoicismo (religión); yoga; zoroastrismo
-experiencia religiosa, crecimiento | Ver crecimiento espiritual
+religiones, nombradas | adoración a los antepasados; animismo; Baal; brahmánismo; budismo; cristianismo; confucianismo; culto de no quitar la vida; cinismo (religión); Dionisio; espiritismo dual; misterios eleusinos; adoración al emperador; epicureísmo; Grecia:religión griega; henoteísmo; hinduismo; Islam; jainismo; judaísmo; mitraísmo; monoteísmo; culto a la madre; culto a la Madre de Dios; cultos de misterio; misticismo; hermandad órfica; paganismo; Panteísmo; parsis; culto fálico; cultos de misterio frigios; politeísmo; Iglesia católica romana; sintoísmo; sijismo; escepticismo (religión); estoicismo (religión); yoga; zoroastrismo
+experiencia religiosa, crecimiento | crecimiento espiritual
 resultado de la religión
 	creyente limpiado de todo pensamiento malo y acto pecaminoso (131:5.5)
 	trae paz y progreso (157:2.2)
@@ -967,9 +961,9 @@ resultado de la religión
 	transforma al individuo mediocre en una personalidad de
 	poder idealista (100:0.1)
 	produce felicidad (101:2.8)
-religión reveladora | Ver revelación
-rituales | Ver ceremonias; cultos; tradiciones
-ciencia y religión | Ver ciencia, filosofía y religión | (103:7)
+religión reveladora | revelación
+rituales | ceremonias; cultos; tradiciones
+ciencia y religión | ciencia, filosofía y religión | (103:7)
 Los reconstruccionistas sociales muestran una motivación religiosa no reconocida (99:3.6-7)
 tabúes
 descongelar formas congeladas de religión (155:3.8)
@@ -989,7 +983,7 @@ advertencias
 		ser algo aparte de la experiencia humana (5:5.12)
 		comercialización (125:1.1) (125:5.6) (149:6.12) (173:1.11)
 		defensa de sistemas obsoletos (195:10.8)
-		finalidad doctrinal | Ver doctrinas | (182:1.8)
+		finalidad doctrinal | doctrinas | (182:1.8)
 		discriminación maligna de las castas religiosas (99:6.3)
 		no hacer interpretaciones actualizadas (99:6.3)
 		falsas ideas de santidad (99:6.3) (155:3.5) (159:4.9)
@@ -1037,14 +1031,14 @@ advertencias
 	Iglesia y estado separados (70:1.14) (70:12.17) (71:8.4) (72:3.6) (178:1.9)
 el mundo necesita más de primera mano religión (195:9.8)
 
-religiosos | | Ver hijos de Dios por la fe | | 
+religiosos | | hijos de Dios por la fe | | 
 
-guardianes religiosos | | Ver Serafines maestros de la supervisión planetaria | ORDER | 
+guardianes religiosos | | Serafines maestros de la supervisión planetaria | ORDER | 
 
 líderes religiosos en Roma | | | | 
 Jesús se preparó para los subsiguientes misioneros cristianos (132:0.4-9)
 
-líderes religiosos (Jerusalén) | | Ver sanedrín | | 
+líderes religiosos (Jerusalén) | | sanedrín | | 
 
 Cena del Recuerdo; cena del recuerdo; cena común en recuerdo; Cena del Señor | (179) | | | 
 origen antiguo de la comida sagrada (89:4.10)
@@ -1066,7 +1060,7 @@ renuncia | | | |
 forma negativa de propiciación (89:4.7)
 conceptos primitivos de (89:3)
 
-arrepentimiento | | Ver enmienda; confesión; perdón; pecado | | 
+arrepentimiento | | enmienda; confesión; perdón; pecado | | 
 Adán y Eva se arrepintieron, recibieron Ajustadores (76:5.1-2)
 Caín se arrepintió; Ajustador recibido (76:2.8)
 El Padre busca a los pecadores antes de que piensen en arrepentimiento (159:1.2) (169:1.3)
@@ -1086,18 +1080,18 @@ reconocimiento del mal de los caminos de uno (131:8.5) (167:5.2)
 restricción nacida de (131:3.3)
 ladrón en la cruz arrepentido (187:4)
 
-repersonalización | | Ver resurrección | | 
+repersonalización | | resurrección | | 
 
-represión | | Ver compulsión | | 
+represión | | compulsión | | 
 
-reptiles | (60:1-2) (60:3.14) | Ver cocodrilos; dinosaurios; pterosaurios; serpientes marinas; serpientes; tortugas | | 
+reptiles | (60:1-2) (60:3.14) | cocodrilos; dinosaurios; pterosaurios; serpientes marinas; serpientes; tortugas | | 
 pájaros descendientes de (65:2.8-9)
 sobreviven serpientes, lagartos, caimanes y tortugas (65:2.10)
 surgió de las ranas (59:6.8) (65:2.8,10)
 
-investigación | | Ver educación | | 
+investigación | | educación | | 
 
-resentimiento | | Ver envidia | | 
+resentimiento | | envidia | | 
 puede convertir el amor en odio (177:4.11)
 imaginación creativa inhibida por (111:4.9)
 Judas víctima de (139:12.9)
@@ -1114,14 +1108,14 @@ no están inactivos (39:3.11)
 	Hijos abrazados por la Trinidad (22:3.2) (22:6.3)
 	Hijos Instructores Trinitarios (19:1.3)
 
-cuerpo de reserva del destino | (114:7) | Ver reservistas | ORDER | 
+cuerpo de reserva del destino | (114:7) | reservistas | ORDER | 
 12 cuerpos, uno para cada grupo de supervisión seráfica (114:7.7)
 la función principal es asegurar contra la ruptura del progreso (114:6.20)
 constaba de 962 personas en 1934 (114:7.8,13)
 cuerpo de reserva cósmico de ciudadanos conscientes del universo (114:7.13)
 consejos permanentes (114:7.11)
 
-reservistas | (114:7) | Ver personalidades de contacto; cuerpo de reserva del destino | ORDER | 
+reservistas | (114:7) | personalidades de contacto; cuerpo de reserva del destino | ORDER | 
 realizar alguna tarea específica, generalmente en unas pocas horas (114:7.11)
 Ajustadores de reservistas
 	son de extraordinaria versatilidad y experiencia (114:7.6)
@@ -1156,14 +1150,14 @@ Los Serafines y los intermedios ejecutan mandatos de (114:0.2)
 El soberano del sistema preside el consejo de (45:2.4)
 Vevona adjunto al personal de (39:5.5)
 
-resistencia | | Ver dificultades; no resistencia | | 
+resistencia | | dificultades; no resistencia | | 
 La especialización del trabajo surgió al seguir el camino de la resistencia disminuida (69:2.3)
 dar el primer paso a lo largo del camino mínimo (184:2.12)
 
-resoluciones | | Ver juramentos; promesas | | 
+resoluciones | | juramentos; promesas | | 
 los débiles se entregan a resoluciones; el acto fuerte (48:7.13)
 
-respeto | | Ver respeto por uno mismo | | 
+respeto | | respeto por uno mismo | | 
 mostrar siempre respeto para la personalidad del hombre (159:3.2)
 la educación aumenta respeto para conocer la experiencia y las opiniones de los demás (25:3.12)
 para los superiores un mandato divino (107:3.4)
@@ -1172,14 +1166,14 @@ los seres espirituales superiores no menosprecian a los inferiores (25:1.1)
 Jesús desaprobó las demostraciones externas de (157:4.3)
 Jesús tenía un profundo respeto por cada persona que conoció (138:8.9)
 
-respiración | | Ver mortales:tipos planetarios:1. tipos atmosféricos | | 
+respiración | | mortales:tipos planetarios:1. tipos atmosféricos | | 
 los morontianos respiran una mezcla de 3 gases (43:1.3) (46:2.2-3)
 
-responsabilidad | | Ver deber; confiar | | 
+responsabilidad | | deber; confiar | | 
 colocando responsabilidad prematura desastre de los tribunales (28:6.15)
 el poder de elección es el supremo cósmico del hombre (112:5.5)
 
-descanso | | Ver facilidad; recreación; relajación | | 
+descanso | | facilidad; recreación; relajación | | 
 Hay 7 tipos:sueño, juego, descubrimiento, adoración, ingesta de energía, sueño de transición y logro del Paraíso (27:1.2)
 siempre hay tiempo para (25:7.2)
 todos los seres celestiales disfrutan (84:8.5)
@@ -1202,7 +1196,7 @@ descanso terminal del tiempo alcanzado antes del estatus de residencia en Paraí
 tránsito a través del espacio medio hacia el Paraíso (12:5.4)
 traslado del sueño de los progresores morontiales (47:3.10)
 
-resurrección | | Ver vida eterna; Jesús:acontecimientos de la vida; épocas planetarias; salas de resurrección; supervivientes dormidos; supervivencia (de la muerte mortal) | | 
+resurrección | | vida eterna; Jesús:acontecimientos de la vida; épocas planetarias; salas de resurrección; supervivientes dormidos; supervivencia (de la muerte mortal) | | 
 tercer día después de la muerte para los mortales con guardianes seráficos personales (30:4.11) (49:6.8-9) (112:4.2-12)
 7 veces en mundos de las mansiones (47:10.5) (48:2.17)
 después de la resurrección, la vida mortal al principio parece un sueño vago (112:5.21)
@@ -1219,7 +1213,7 @@ creencias sobre la resurrección
 efectuada por la reasociación del alma en custodia del guardián del destino y el Ajustador (30:4.15) (47:3.3) (49:6.5) (112:3.5) (113:6.6)
 implica la fabricación de una forma adecuada, el regreso del Ajustador y el donación del alma del guardián seráfico (112:5.16-19)
 ángeles guardianes presentes para (47:3.2) (189:3.2)
-heraldos de resurrección | Ver cuerpo de mensajeros (de David Zebedeo)
+heraldos de resurrección | cuerpo de mensajeros (de David Zebedeo)
 juicio basado en la versión del Ajustador del carácter humano fallecido, registros seráficos (112:4.2,12)
 tribunal del arcángel presidente (45:4.1)
 La resurrección de Lázaro fue el único ejemplo de resurrección física (168:2)
@@ -1231,7 +1225,7 @@ cuerpo nuevo en forma morontial (39:2.13)
 no literal resurrección desde Jerusem hasta salir de Nebadon (47:10.4-5)
 ocurre en mundos de estancia (30:4.11)
 el cuerpo físico permanece en el planeta (39:2.13)
-la resurrección de los injustos | Ver llamamiento:de la justicia
+la resurrección de los injustos | llamamiento:de la justicia
 la reaparición de la personalidad es un misterio (30:4.15)
 reensamblaje de memoria, percepción y conciencia - identidad (112:5.19)
 salas de resurrección
@@ -1242,12 +1236,12 @@ resurrecciones especiales
 	en el momento de la llegada de Adán (76:6.2)
 	de supervivientes dormidos ocurren al menos cada milenio del tiempo planetario (49:6.2)
 
-salas de resurrección | | Ver resurrección | PLACE | 
+salas de resurrección | | resurrección | PLACE | 
 las cámaras de ensamblaje de vida proporcionan una relación de energía universal que reconscientiza a los sobrevivientes dormidos (112:5.16-19)
 encuentro de guardianes seráficos, Ajustadores, Portadores de Vida y Arcángeles de la resurrección (47:3.2)
 asamblea del templo de la personalidad en el primer mundo de las mansiones (47:3.2,5)
 
-represalias | | Ver venganza | | 
+represalias | | venganza | | 
 
 jubilación | | | | 
 a los 65 años en la nación continental (72:6.1-2) (72:9.4)
@@ -1257,7 +1251,7 @@ movimiento retrógrado | | | |
 siempre resultado de cuerpos extraños en el espacio (57:5.14)
 de Venus y Urano prueba que fueron originalmente satélites de Angona (57:5.13-14)
 
-revelación | | Ver religión; Documentos de Urantia | | 
+revelación | | religión; Documentos de Urantia | | 
 siempre llega en tiempos de grandes pruebas o derrotas (195:9.3)
 siempre es difícil inducir a los hombres a aceptar de repente (92:6.19)
 garantía de revelación basado en la fe más la experiencia en revelación (101:2.1,8) (101:5.12-13)
@@ -1317,7 +1311,7 @@ sobrerevelación (30:0.2)
 	solo los egipcios educados podían comprender las enseñanzas de Akenatón (95:5.12-13)
 	despoja a la humanidad de sus avances mediante la confusión y la consternación (66:6.6)
 	sofoca la imaginación (30:0.2)
-revelación personal | Ver liderazgo; misticismo; profecías; percepción espiritual
+revelación personal | liderazgo; misticismo; profecías; percepción espiritual
 	Salmo 23 susurrado al pastorcillo (48:6.20)
 	El Ajustador se comunica constantemente (101:4.3) (108:6.7) (110:1.1)
 	La voz directa del Ajustador se puede escuchar en una decisión suprema (109:5.2) (110:7.9)
@@ -1342,11 +1336,11 @@ no debe ser despreciado si va acompañado de errores, ideas obsoletas (101:4.1) 
 a veces error tan grande que la rectificación por revelación sería fatal para las verdades que emergen lentamente (48:6.32)
 sin ayuda celestial, la sociedad se derrumba (68:3.4-5)
 
-Apocalipsis | | Ver Juan Zebedeo | | 
+Apocalipsis | | Juan Zebedeo | | 
 visión confusa (34:4.11-12)
 fragmentos sobrevivientes de una gran revelación al apóstol Juan (139:4.14)
 
-venganza | | Ver ira; miedo; odio | | 
+venganza | | ira; miedo; odio | | 
 canibalismo parte de la ceremonia solemne de venganza (89:5.5-6)
 el carácter se mide por la capacidad de resistir guardar rencor (140:8.5) (156:5.17)
 imaginación creativa inhibida por (111:4.9)
@@ -1368,7 +1362,7 @@ venganza
 	Las huelgas de hambre suicidas eran formas antiguas de represalia (70:10.10)
 cuando el enemigo te golpea, pon la otra mejilla (159:5.9-15)
 
-reversión | | Ver recreación | | 
+reversión | | recreación | | 
 
 Directores de la reversión; directores de la reversión | (48:4) | | ORDER | 
 todos los seres celestiales disfrutan (84:8.5)
@@ -1394,10 +1388,10 @@ casi fatal para emprender un cambio total de costumbres por (68:4.6)
 ningún gran cambio social o económico debería efectuarse de repente (81:6.40)
 técnica de Caligastia (136:9.2)
 
-revolución (movimiento) | | Ver elipse | | 
+revolución (movimiento) | | elipse | | 
 todas las unidades de energía cósmica están en (12:4.1)
 
-recompensa | | Ver logro; karma; lucro | | 
+recompensa | | logro; karma; lucro | | 
 diferido recompensa inherente al servicio desinteresado (28:5.17)
 extender ayuda sin pensar en (131:8.5)
 sigue el esfuerzo (50:7.3)
@@ -1416,7 +1410,7 @@ rinocerontes | (61:1.9) (61:2.9) (61:3.4-5) (61:4.3) (64:4.7) | | |
 Rodas | (130:0.3) (133:7.1) | | PLACE | 
 Jesús pasó por aquí en su viaje por el Mediterráneo
 
-ritmo | | Ver música | | 
+ritmo | | música | | 
 aumenta la eficiencia, aumenta el placer (44:4.11)
 practicado para influir en los espíritus (90:4.6)
 
@@ -1427,7 +1421,7 @@ arroz | | | |
 Los adanitas comieron (81:1.8)
 arrojado a los recién casados ​​para asegurar la fecundidad (83:4.5)
 
-el rico | | Ver riqueza:personas que poseen riqueza | | 
+el rico | | riqueza:personas que poseen riqueza | | 
 
 rico y mendigo | | | | 
 Parábola nazarea (169:3)
@@ -1439,7 +1433,7 @@ Jesús a menudo aconsejaba de manera similar a los discípulos acomodados (163:2
 rica viuda de Tiro | | | | 
 buscó comprar curación (149:1.9)
 
-gobernante joven rico | | Ver Matadormo | | 
+gobernante joven rico | | Matadormo | | 
 
 ridículo | | | | 
 cuidado con los dardos venenosos de (174:0.2)
@@ -1448,14 +1442,14 @@ Judas influenciado por los amigos saduceos (172:5.13)
 Pedro se marchitó antes (139:2.6) (184:2.8)
 influencia fulminante de (174:3.5)
 
-Rig-Veda | | Ver hinduismo | RELIGION | 
+Rig-Veda | | hinduismo | RELIGION | 
 Los Brahmánes seleccionaron escrituras sagradas para crear Rig-Veda a fin de que
 combatir a los maestros de Salem (94:1.7)
 distinción entre mente y corazón (111:0.7)
 El sistema de teología más variado jamás desarrollado (94:1.7)
 retrató una espiritualidad de dioses hindúes (96:0.1)
 
-derecho | | Ver justicia | | 
+derecho | | justicia | | 
 todos los derechos asociados con los deberes (81:5.6)
 para los antiguos, el poder era (70:11.13) (70:12.2)
 para los cultistas de fantasmas, la cooperación de los espíritus (87:5.12)
@@ -1467,7 +1461,7 @@ poder de dios (194:4.4)
 presencia de Dios (5:2.2)
 repetidamente estaremos en (13:2.7) (137:8.16)
 
-rectitud | (2:3) | Ver justicia; misericordia; virtud | | 
+rectitud | (2:3) | justicia; misericordia; virtud | | 
 4 pasos de interior (170:3.2-3)
 Ajustador crea hambre y sed de (101:2.14)
 eres mejor justicia recomendador? (156:5.15)
@@ -1508,7 +1502,7 @@ los rabinos enseñaron que los ignorantes no podían disfrutar (138:8.7)
 reconocido por Dios (48:7.12)
 requiere el contraste del mal potencial (3:5.13)
 
-derechos | | Ver derechos humanos | | 
+derechos | | derechos humanos | | 
 
 Rimón | (146:1) | | PLACE | 
 Jesús predicó en este lugar
@@ -1517,14 +1511,14 @@ anillo | | | |
 mujeres casadas apartadas por (82:2.5)
 el anillo del hijo dado al hijo pródigo (169:1.9)
 
-rivalidad | | Ver competencia | | 
+rivalidad | | competencia | | 
 
 lecho del río | | | | 
 no es el río (100:5.1)
 
 ríos | | | | 
 las primeras culturas surgieron a lo largo (68:5.2)
-nombrada | Ver río Colorado; Danubio; Don; río Éufrates; Ganges; río Hudson; Indo; Jaboc; río Jordan; río Misisipí; Cataratas del Niágara; Nilo (valle); río Ohio; río Rin; río Somme; río San Lorenzo; río Susquehanna; cuenca de Tarim; río Tigris; Volga; río Yangtze; río Amarillo
+nombrada | río Colorado; Danubio; Don; río Éufrates; Ganges; río Hudson; Indo; Jaboc; río Jordan; río Misisipí; Cataratas del Niágara; Nilo (valle); río Ohio; río Rin; río Somme; río San Lorenzo; río Susquehanna; cuenca de Tarim; río Tigris; Volga; río Yangtze; río Amarillo
 no furioso ríos sobre Jerusem o Edentia (43:1.1) (46:2.2)
 
 camino de ladrones | | | | 
@@ -1541,11 +1535,11 @@ ropajes | | | |
 deleite en llevar mucho tiempo (166:1.5) (175:1.9)
 vestirse de hijo pródigo (169:1.9)
 
-rocas y minerales | | Ver elementos (químicos) | | 
+rocas y minerales | | elementos (químicos) | | 
 cantos rodados (61:7.1)
 Derrocamiento del Cámbrico Cretácico en Columbia Británica (60:3.14)
 El culto mitraico representaba a un dios militante que se originaba en una gran roca (98:5.3)
-nombrada | Ver ámbar; antracita; basalto; tiza; arcilla; carbón; conglomerados; cristales; pedernal; granito; marga de arenisca verde; yeso; lava; lignito; caliza; mármol; cuarzo; sal; arenisca; esquisto; pizarra; piedra
+nombrada | ámbar; antracita; basalto; tiza; arcilla; carbón; conglomerados; cristales; pedernal; granito; marga de arenisca verde; yeso; lava; lignito; caliza; mármol; cuarzo; sal; arenisca; esquisto; pizarra; piedra
 las capas más viejas a menudo se mezclan con las más jóvenes (57:8.11) (58:7.1,6)
 la harina de roca es un producto glacial (61:7.1)
 
@@ -1566,14 +1560,14 @@ alumnos de Rodán convertidos Esteban y Bernabé (194:4.11)
 roedores | (49:1.6) (61:2.7) | | | 
 
 llamamiento | | | | 
-de Justicia | Ver muerte:muerte espiritual; extinción; no supervivientes
+de Justicia | muerte:muerte espiritual; extinción; no supervivientes
 todos los seres morados por el Ajustador están encendidos (49:6.11)
 los ángeles guardianes responden al llamamiento; Los Ajustadores no responden (113:6.8)
-de misericordia | Ver resurrección
+de misericordia | resurrección
 resurrección de sobrevivientes dormidos (113:6.8)
 Regocíjate que tus nombres estén escritos en rollos del cielo (163:6.2)
 
-Iglesia católica romana; una gran religión mundial; cristianismo; iglesia cristiana | | Ver Iglesia cristiana inicial; cristianismo | RELIGION | 
+Iglesia católica romana; una gran religión mundial; cristianismo; iglesia cristiana | | Iglesia cristiana inicial; cristianismo | RELIGION | 
 El antiguo culto de continencia fomentó el sacerdocio célibe (89:3.6)
 autoridad sobre las cosas temporales, asuntos del reino, dada a los apóstoles y sucesores Jesús no instituyó una religión, sino una fraternidad basada en el espíritu (140:2.2-3) (157:4.5-6)
 No llames padre a ningún hombre en sentido espiritual (175:1.10)
@@ -1599,7 +1593,7 @@ estaba a horcajadas sobre el cuerpo del Maestro con la espada desenvainada (188:
 le contó a Lucas la historia del ladrón en la cruz (187:4.3)
 llevó a Jesús a Anás por acuerdo previo (183:5.1) (184:0.1)
 
-Imperio Romano | (98:3) | Ver romanos; Roma | | 
+Imperio Romano | (98:3) | romanos; Roma | | 
 atributos del estado romano (71:1.13-21)
 exigió lealtad (191:5.3)
 la política exterior
@@ -1664,10 +1658,10 @@ Contribución de Andita (83:2.5)
 del noviazgo en gran parte responsable del aumento del divorcio (83:7.7)
 El personal del Príncipe fomentó el noviazgo (66:5.29)
 
-romanos | | Ver Imperio Romano; Roma | | 
-nombrada | Ver Augusto; Calígula; Cicerón; Claudia Prócula; Claudio; Constantino; Cornelio; Mangus; Marcos; Poncio Pilato; líderes religiosos en Roma; centurión romano en Corinto; centurión romano de Jerusalén; juez romano en Corinto; magistrado romano en Roma; senador romano; soldado romano en Roma; soldados romanos en Jerusalén; Tiberio; Tito (Emperador); Virgilio; viudas:viuda en Roma
+romanos | | Imperio Romano; Roma | | 
+nombrada | Augusto; Calígula; Cicerón; Claudia Prócula; Claudio; Constantino; Cornelio; Mangus; Marcos; Poncio Pilato; líderes religiosos en Roma; centurión romano en Corinto; centurión romano de Jerusalén; juez romano en Corinto; magistrado romano en Roma; senador romano; soldado romano en Roma; soldados romanos en Jerusalén; Tiberio; Tito (Emperador); Virgilio; viudas:viuda en Roma
 
-Roma | (130:0.3) (194:4.13) | Ver Imperio Romano; romanos | PLACE | 
+Roma | (130:0.3) (194:4.13) | Imperio Romano; romanos | PLACE | 
 ciudad de 2 millones (132:0.2)
 Claudio predicó en (130:8.1)
 El viaje de Jesús a (130) (131) (132) (133)
@@ -1684,7 +1678,7 @@ la mayoría de las estructuras del mundo de las mansiones sin techo (48:3.15)
 dormitorio de verano en la casa de los padres para el joven Jesús (123:2.14)
 tejas quitadas al paralítico inferior (148:9.2)
 
-gallos | | Ver aves de corral | | 
+gallos | | aves de corral | | 
 
 cabezas redondas | | | | 
 Los andonitas eran (80:5.8)
@@ -1701,18 +1695,18 @@ Rufo | | | PERSON |
 maestro eficaz del evangelio; hijo de Simón de Cirene (187:1.10)
 Jesús ayudó a Rufo cuando fue herido por una carreta (130:6.6)
 
-regla de vida | | Ver regla de oro | | 
+regla de vida | | regla de oro | | 
 La vieja manera es la supresión y conformidad con (143:2.4)
 
-reglas | | Ver ley | | 
+reglas | | ley | | 
 
 rumiantes | | | | 
 incluyen ciervos, bueyes, camellos, bisontes, rinocerontes (61:3.5)
 
-muchacho fugitivo en Corinto | | Ver Fortunato | | 
+muchacho fugitivo en Corinto | | Fortunato | | 
 La charla de Jesús con (133:4.11)
 
-Rusia | (59:4.7) (60:1.4) (60:2.6) (60:3.6) (78:3.5) | Ver Siberia | PLACE | 
+Rusia | (59:4.7) (60:1.4) (60:2.6) (60:3.6) (78:3.5) | Siberia | PLACE | 
 La raza azul absorbió una cantidad considerable de sangre andonita en (80:3.2)
 espíritus de los árboles considerados crueles en (85:2.4)
 
@@ -1723,7 +1717,7 @@ miembro del cuerpo de mujeres (150:1.1)
 Rut (Antiguo Testamento) | | | PERSON | 
 María madre de Jesús descendiente de (122:1.2)
 
-Rut (hermana de Jesús) | (154:5.1) (188:3.3) | Ver Jesús:familia | PERSON | 
+Rut (hermana de Jesús) | (154:5.1) (188:3.3) | Jesús:familia | PERSON | 
 en la cuarta aparición de Jesús (190:2.6)
 en la crucifixión de Jesús (186:0.3) (187:2.7) (187:3.2) (187:5.4)
 nacido el 17 de abril del 9 d.C. (126:3.2)

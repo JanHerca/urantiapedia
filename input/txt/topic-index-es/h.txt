@@ -1,16 +1,12 @@
 ####################################################################################
 #
 #                     H
-# The Urantia Book Uversa Press Topical index
-# Esto es una conversion en forma de fichero de texto del Topical index de la Uversa Press
-# Cada entrada viene precedida de una línea en blanco 
-# Entrada = Nombre | Referencias | Véase tambien | Tipo | OK (= revisado)
-# Una entrada puede tener una o varias sub-entradas. Son todas las líneas tras la entrada
-# Una sub-entrada puede tener sub-sub-entradas. Cada una lleva una tabulación.
-# Filtrar en VS: \| [A-Z]+ \| tienen tipo, \| OK\r?$ revisadas, \| [A-Z]+ \|.\r?$ tipo no revisadas
+# Urantia Book Uversa Press Topical index converted to text file
+# Each entry has a previous blank line
+# Entry = Name | Refs | See also | Category | OK (= revised)
+# An entry can have one or several sub-entries (= the lines after entry)
+# A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
-
-
 
 hábitos | | | | 
 favorecer el crecimiento religioso (100:1.8)
@@ -64,7 +60,7 @@ Hamurabi | (78:8.10) | | PERSON | OK
 Hamurabi, como otros jefes antiguos, admitió castigar algunos crímenes con la quema en la hoguera (70:10.14)
 > https://es.wikipedia.org/wiki/Hammurabi
 
-Imperio Han | | Ver China | | 
+Imperio Han | | China | | 
 
 Hanavard | | | PERSON | OK
 Hanavard es el Lanonandek primario número 67; es miembro del cuerpo superior de consejeros y coordinadores universales. Actúa como presidente en funciones del consejo ejecutivo de Satania. Hanavard es el duodécimo de esta orden que sirve así en Jerusem desde la rebelión de Lucifer (45:3.8) (45:3.10)
@@ -72,7 +68,7 @@ Hanavard es el Lanonandek primario número 67; es miembro del cuerpo superior de
 palmo | | | | 
 la ansiedad no puede agregar un palmo a la altura (165:5.2)
 
-discapacidades | | Ver circunstancias; ambiente; eugenesia | | 
+discapacidades | | circunstancias; ambiente; eugenesia | | 
 no puede
 	derrotar la elección de voluntad de toda el alma (65:8.5)
 	invalidar la presencia del espíritu divino (5:5.13)
@@ -94,12 +90,12 @@ Ana (abuela de Jesús); Ana | | | PERSON | OK
 Ana era la madre de María, la madre de Jesús (122:3.3)
 > https://es.wikipedia.org/wiki/Ana_(madre_de_María)
 
-Hap | | Ver cien de Caligastia | | 
+Hap | | cien de Caligastia | | 
 y todo el consejo leal en rebelión (67:4.1)
 colegio dirigido de religión revelada (66:5.13)
 presentó El Camino del Padre (66:7.8-16)
 
-felicidad | | Ver alegría; paz:paz espiritual; infelicidad | | 
+felicidad | | alegría; paz:paz espiritual; infelicidad | | 
 logrando la felicidad
 	depende de la voluntad de ser dirigido por el Ajustador (149:5.2)
 	la fe aumenta la felicidad (159:3.12)
@@ -132,19 +128,19 @@ camino a Salem, la familia de Abraham se quedó en (93:5.4)
 
 puertos | | | | 
 pocos buenos puertos en el este del Mediterráneo (121:2.2)
-nombrada | Ver Alejandría; Antioquía; Atenas; Cesarea; Cartago; Charax; Corinto; Cirene; Éfeso; Jope; Lasea; Malta; Mesina; Nápoles; Nicópolis; Pafos; Salamina; Siracusa; Tarento; Troade
+nombrada | Alejandría; Antioquía; Atenas; Cesarea; Cartago; Charax; Corinto; Cirene; Éfeso; Jope; Lasea; Malta; Mesina; Nápoles; Nicópolis; Pafos; Salamina; Siracusa; Tarento; Troade
 
 harén | | | | 
 aumento de los parientes sanguíneos para sostener el trono (83:5.15)
 
-daño | | Ver lesión | | 
+daño | | lesión | | 
 
 armonía | | | | 
-concordia | Ver orden; unidad espiritual
+concordia | orden; unidad espiritual
 	evolucionar fuera del caos (117:7.17)
 	nota clave de Havona (27:4.2)
 	sin sacrificar la originalidad de la personalidad libre (141:5.1)
-música | Ver música
+música | música
 	discurso de Havona (44:1.15)
 	código universal de comunicación espiritual (44:1.11)
 
@@ -167,7 +163,7 @@ Adán podía enviar y recibir pensamientos con sus hijos a 50 millas (74:6.6)
 dispositivos morontiales para la recepción de comunicaciones (47:10.2)
 
 cosecha | | | | 
-fiesta de la recolección | Ver judaísmo:fiestas:tabernáculos
+fiesta de la recolección | judaísmo:fiestas:tabernáculos
 campos blancos para (143:6.1)
 abundantes, pero pocos trabajadores (150:4.1) (163:1.3)
 
@@ -180,7 +176,7 @@ los primitivos no se apresurarían (69:2.4)
 Hatita | (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
-odio | | Ver ira; miedo; venganza | | 
+odio | | ira; miedo; venganza | | 
 explica la ausencia de ideales de los líderes nacionales (111:4.10)
 la reacción de los creyentes al odio
 	enemistad del mundo (180:3)
@@ -198,7 +194,7 @@ el autoengaño conduce a (143:2.5)
 sombra de miedo (145:3.4)
 cuando es atacado por odio, descansa en la inexpugnable ciudadela del espíritu (100:2.7)
 
-Havona | (14) | Ver Eternos de los Días; Nativos de Havona; Peregrinos en Havona; Siete Espíritus de los Circuitos de Havona | PLACE | 
+Havona | (14) | Eternos de los Días; Nativos de Havona; Peregrinos en Havona; Siete Espíritus de los Circuitos de Havona | PLACE | 
 1 El Centro Havona supervisa 1000 mundos (29:2.12)
 2 mil millones 70 Hijos de la Trinidad estacionarios sirven en (19:4.8)
 primer circuito de Havona
@@ -303,7 +299,7 @@ naturaleza y constitución
 	Los sistemas de energía son trinos (11:8.7) (14:2.2) (42:2.16)
 	desde el punto de vista finito, la realidad comienza con la aparición de Havona (8:1.9) (105:2.7)
 	Havona es y siempre ha sido; es existencial (116:0.3)
-	Energía de Havona | Ver triata
+	Energía de Havona | triata
 	las esferas habitadas más grandes del gran universo (14:3.6)
 	materia y espíritu en armonía innata (116:6.7)
 	sin deterioro o muerte celular en (14:4.9)
@@ -351,7 +347,7 @@ El objetivo supremo es ingresar al cuerpos finalitarios (19:6.3) (31:1)
 trinitización por (22:7.9-13) (30:2.35)
 destino futuro no revelado (19:6.3-4)
 
-Peregrinos en Havona; peregrino; peregrinos; peregrino ascendente; peregrinos del tiempo; peregrinos ascendentes | | Ver mortales ascendentes | ORDER | 
+Peregrinos en Havona; peregrino; peregrinos; peregrino ascendente; peregrinos del tiempo; peregrinos ascendentes | | mortales ascendentes | ORDER | 
 el logro es la prueba final para (26:5.5)
 llegar solo con perfección de propósito (26:4.12-15)
 La educación personal de los mortales ascendentes comienza como (30:4.26-30)
@@ -394,7 +390,7 @@ el número es prodigioso; más siendo creado (25:1.3)
 parecerse a los Espíritus Maestros individuales (25:1.7)
 permanecer con el mismo peregrino durante todo su ascenso (26:10.5)
 
-Habitantes de Havona | | Ver Nativos de Havona | ORDER | 
+Habitantes de Havona | | Nativos de Havona | ORDER | 
 
 cazadores de cabezas | | | | 
 permitió a las mujeres redimir vidas mediante la entrega sexual (89:7.4)
@@ -407,7 +403,7 @@ juventud de cazadores de cabezas no se puede casar hasta que se posea una cabeza
 dolores de cabeza | | | | 
 curanderos trepados cráneos para curar (90:4.4)
 
-curación | | Ver salud; Jesús:milagros y curaciones | | 
+curación | | salud; Jesús:milagros y curaciones | | 
 tratamiento material y espiritual en el hospital de Betsaida (148:2.1)
 sanación espiritual
 	imposible excepto de acuerdo con la voluntad del Padre (158:6.4)
@@ -415,13 +411,13 @@ sanación espiritual
 	el reino no puede ser edificado (145:5.4)
 	las obras de fe no proceden de la incredulidad (158:5.2)
 
-curación al atardecer | (145:3) | Ver Jesús:milagros y curaciones | | 
+curación al atardecer | (145:3) | Jesús:milagros y curaciones | | 
 683 curados (145:3.10)
 la mayoría no se beneficia espiritualmente de forma permanente (145:3.14)
 solo 7 de los 683 matriculados en la escuela para evangelistas (148:1.4)
 no intencionado por Jesús (145:3.13)
 
-salud | | Ver enfermedad; curación; lesión; medicamento | | 
+salud | | enfermedad; curación; lesión; medicamento | | 
 surge de la integración de la verdad, la belleza y la bondad (2:7.11)
 surge de la unificación de la mente y el espíritu (100:4.3)
 primera atención prestada a la salud en la industria de la nación continental (72:7.2)
@@ -452,7 +448,7 @@ reflejo de los Coordinadores de la Información superáfica (28:5.15)
 Seconafines secundarios, asociados reflexivos de los Consejeros Divinos
 reflejar selectivamente el consejo de todos los seres (28:5.15)
 
-calor | | Ver frío; temperaturas | | 
+calor | | frío; temperaturas | | 
 altera la materia y disipa la energía (15:8.10) (42:4.7)
 en soles (41:7.1-13) (41:9.1)
 medida de la actividad electrónica (42:4.5,7)
@@ -461,10 +457,10 @@ alivia el dolor (90:4.6)
 lo mismo que la luz, la electricidad, el magnetismo, la química, la energía y la materia (42:4.1-2)
 algunos soles brillan sin calor (15:6.8)
 
-paganos | | Ver gentiles | | 
+paganos | | gentiles | | 
 por qué los paganos rabia; perspectiva estrecha concentra energías (155:1)
 
-cielo | | Ver vida eterna; infierno; resurrección; supervivencia (de la muerte mortal) | | 
+cielo | | vida eterna; infierno; resurrección; supervivencia (de la muerte mortal) | | 
 también conocido como Great Beyond (63:6.6-7)
 concebido como
 	primer mundo de las mansiones por la mayoría de los profetas (48:6.23)
@@ -479,7 +475,7 @@ no descanso sin fin sino progresión incesante (181:1.2)
 sólo se supone que los ricos van directamente a (69:5.12)
 algunos sabios vieron en visión (48:6.23)
 
-Reproductores Celestiales; reproductores celestiales | | Ver Artesanos Celestiales | ORDER | 
+Reproductores Celestiales; reproductores celestiales | | Artesanos Celestiales | ORDER | 
 Artesanos Celestiales (44:2)
 tipos
 	# Los cantores
@@ -500,7 +496,7 @@ Jesús habló (123:2.14) (123:5.1,4)
 no era un idioma escrito en el momento del éxodo de Egipto (96:5.2)
 hablado por sacerdotes y rabinos en tiempos de Jesús (121:6.2)
 
-Hebreos | | Ver judíos (hebreos antiguos) | RACE | 
+Hebreos | | judíos (hebreos antiguos) | RACE | 
 
 Libro de los Hebreos | | | | 
 autor comprendió la misión de Melquisedek (93:9.11)
@@ -527,16 +523,16 @@ Jesús visitó esta población en dirección a Fenicia
 helio | | | | 
 en reacciones de energía solar (41:8.1)
 
-infierno | | Ver vida eterna; cielo | | 
+infierno | | vida eterna; cielo | | 
 en la religión egipcia (95:2.9)
 inventado para castigar a los violadores de tabú (89:2.4)
 Tradiciones judías derivadas del zoroastrismo (95:6.6)
 los primitivos no tenían ideas de (86:4.7)
 malvados destruidos por el fuego bajo el mitraísmo (98:5.4)
 
-Helenos | | Ver griegos | RACE | 
+Helenos | | griegos | RACE | 
 
-Imperio helenístico | | Ver Grecia | | 
+Imperio helenístico | | Grecia | | 
 
 impotencia | (147:3.5) | | | 
 consecuencia del aislamiento de la personalidad (184:4.6)
@@ -550,13 +546,13 @@ henoteísmo | | | RACE |
 exaltación de un dios sobre muchos (104:2.1)
 Los hebreos pasaron (96:1.2,14)
 
-gallinas | | Ver aves de corral | | 
+gallinas | | aves de corral | | 
 
 Henselon | | | PLACE | 
 perdió la mayoría de los Lanonandek en rebelión (35:9.8)
 universo vecino a Nebadon (32:2.12)
 
-heraldos de la resurrección | | Ver cuerpo de mensajeros (de David Zebedeo) | | 
+heraldos de la resurrección | | cuerpo de mensajeros (de David Zebedeo) | | 
 
 pastores | | | | 
 Able era un pastor; Caín era un granjero (76:2.2)
@@ -574,7 +570,7 @@ mujeres reducidas a la esclavitud social en la era pastoral (68:5.8) (69:7.5)
 
 herencia divina | | | | 
 la herencia divina a veces revela atributos no discernibles en el Creador (17:3.3)
-la herencia humana | Ver genética
+la herencia humana | genética
 
 ermitaño | | | | 
 Gautama debería haber escuchado al ermitaño Godad (94:7.4)
@@ -635,7 +631,7 @@ El palacio macabeo era la residencia habitual de la familia de Herodes el Grande
 gobernó Judea bajo la desconfianza de los judíos, pues Herodes no era judeo; de hecho aunque profesaba su lealtad al ceremonial hebreo, construyó muchos templos para dioses extranjeros (121:2.9-10)
 > https://es.wikipedia.org/wiki/Herodes_I_el_Grande
 
-Herodes el Idumeo | | Ver Herodes el Grande | PERSON | OK
+Herodes el Idumeo | | Herodes el Grande | PERSON | OK
 
 herodianos | | | | 
 abogó por la restauración de la dinastía herodiana (137:7.10)
@@ -645,7 +641,7 @@ Herodías | | | PERSON | OK
 Herodías era la esposa ilegal de Herodes Antipas; odiaba intensamente a Juan el Bautista, y orquestó un plan que finalmente fue la causa de la muerte del profeta (135:12.2,5-6)
 > https://es.wikipedia.org/wiki/Herod%C3%ADas
 
-templo de Herodes | | Ver templo de Jerusalén | PLACE | 
+templo de Herodes | | templo de Jerusalén | PLACE | 
 
 héroes | | | | 
 ayudar a los niños a elegir (140:5.14)
@@ -680,7 +676,7 @@ Lea profetisa de Hierápolis; Felipe crucificado en Hierápolis (139:5.11-12)
 jeroglíficos | | | | 
 escritura temprana (69:4.7)
 
-Altos Comisionados | | Ver Mortales fusionados con el Espíritu | ORDER | 
+Altos Comisionados | | Mortales fusionados con el Espíritu | ORDER | 
 acompañar a los Hijos Paraíso en misiones de donación (37:5.8)
 actuar como amigos de la corte; comisionados de las razas (37:5.5-7)
 en el grupo Ayudantes del Universo (37:1.6)
@@ -689,7 +685,7 @@ número 1.5 mil millones en Nebadon (37:5.6)
 Los mortales fusionados con el Espíritu pueden convertirse (37:5.1-10)
 trabajar con Serafines asesores de la corte para garantizar que los cargos contra los mortales se expresen de manera justa (39:1.7)
 
-Ayudantes de los Hijos Elevados | | Ver Hijos de la Perfección Trinitizados | ORDER | 
+Ayudantes de los Hijos Elevados | | Hijos de la Perfección Trinitizados | ORDER | 
 cariñosos, leales, humildes y sumamente sabios con respecto al concepto que personifican (22:10.8)
 son personificación de algún ideal universal único (22:10.2)
 realizar trabajos de rutina en los sectores mayor y menor (18:4.4-5)
@@ -720,7 +716,7 @@ residencia en los círculos de Jerusem (46:5.21)
 Hildana | | | PERSON | OK
 Hildana es el nombre de anónima mujer que aparece mencionada en el evangelio de Juan sorprendida en adulterio, y a quien se iba a proceder a lapidar; su marido era un degenerado de Nazaret, un hombre conocido de Jesús le había causado dificultades en su juventud (162:3)
 
-colinas | | Ver montañas | | 
+colinas | | montañas | | 
 
 Himalaya | | | PLACE | 
 geología (59:3.3) (60:1.12) (60:3.15) (61:1.13)
@@ -728,7 +724,7 @@ geología (59:3.3) (60:1.12) (60:3.15) (61:1.13)
 Hindu-Kusch | | | PLACE | 
 DEsde el Nilo hasta el Hindu-Kusch, la ocupación principal fue la agricultura con el suplemento del comercio (81:3.1)
 
-hinduismo | (94:4) | Ver Agni; Brahma; Brahmán; Brahmánas; brahmánismo; India; Indra; Rig-Veda; Soma; Trimurti; Upanishads; Vedas; Vichnú | RACE | 
+hinduismo | (94:4) | Agni; Brahma; Brahmán; Brahmánas; brahmánismo; India; Indra; Rig-Veda; Soma; Trimurti; Upanishads; Vedas; Vichnú | RACE | 
 budismo afectado (94:9.3)
 fuegos de altar encendidos con simulacros de fuego primitivos (92:2.2)
 creencias
@@ -749,7 +745,7 @@ Nanak incorporó al hinduismo al sijismo (92:5.15) (92:7.2)
 predica devoción (191:5.3)
 religión de la metafísica (5:4.7)
 
-Hindúes | | Ver India | RACE | 
+Hindúes | | India | RACE | 
 
 valle de Hinom | | | PLACE | 
 Judas se ahorcó en (186:1.7)
@@ -769,9 +765,9 @@ mercenarios | | | |
 en el rechazo de Nazaret (150:7.3) (150:8.11) (150:9.3)
 huir cuando surja el peligro (165:2.8)
 
-historia | | Ver arqueología; registros | | 
+historia | | arqueología; registros | | 
 enactores administrativos, dramaturgos de la soberanía (44:2.9)
-comienzos del universo | Ver creación
+comienzos del universo | creación
 comienza con la creación de Havona (8:1.9)
 Los judíos son vistos como providencia de Dios (121:7.7)
 de Urantia (57) (121) (195) (104:1) (194:4)
@@ -798,7 +794,7 @@ Holdant es el guardián del sistema, el vigilante y controlador de los espíritu
 días de fiesta | | | | 
 la oración evita que los días santos se vuelvan a (91:1.1)
 
-Holoceno | | Ver edades geológicas | | 
+Holoceno | | edades geológicas | | 
 período posglacial; comenzó hace 35.000 años (61:7.18)
 
 Área Santa; área Santísima | | | PLACE | 
@@ -806,16 +802,16 @@ período posglacial; comenzó hace 35.000 años (61:7.18)
 área residencial de 7 zonas (11:3.3-4)
 recuerdos de nuestros días materiales encontrados en (11:3.2)
 
-Ciudad santa | | Ver Jerusalén | PLACE | 
+Ciudad santa | | Jerusalén | PLACE | 
 
-Madre Sagrada | | Ver culto a la Madre de Dios | RACE | 
+Madre Sagrada | | culto a la Madre de Dios | RACE | 
 Los tibetanos rezan a una Madre Sagrada (94:10.2)
 
 santo de los santos | | | | 
 en el templo de Jerusalén; solo se permite la entrada a los sumos sacerdotes y nazareos (135:1.2)
 el joven Jesús se preguntó qué había detrás del velo de separación (125:2.5) (125:5.3)
 
-Espíritu Santo | | Ver Espíritu de la Verdad; renacimiento espiritual | PERSON | OK
+Espíritu Santo | | Espíritu de la Verdad; renacimiento espiritual | PERSON | OK
 El Espíritu Santo es el espíritu de la presencia personal de la Ministra Divina, el Espíritu Madre de un universo local. El trabajo de los Espíritus Ayudantes de la Mente es anterior al trabajo del Espíritu Santo, y es preparatorio para su llegada (36:5.16)
 Juan el Bautista reveló a sus discípulos que aunque él bautizaba con agua, Jesús les bautizaría con el Espíritu Santo (135:7.2) (135:9.4,7)
 Jesús instruyó a los apóstoles sobre la naturaleza del Espíritu Santo pero ellos no lograron comprender del todo (138:5.2)
@@ -842,7 +838,7 @@ rociado sobre el recién nacido para evitar la interferencia de fantasmas (84:4.
 utilizado en rituales mitraicos y cristianos (98:6.4)
 los sacerdotes del agua solían lavar los pies; la mejor protección contra fantasmas (87:6.12)
 
-hogar | (84) | Ver crianza de los hijos; familia; casas; matrimonio | | 
+hogar | (84) | crianza de los hijos; familia; casas; matrimonio | | 
 la aceptación del evangelio mejora inmediatamente la vida hogareña (177:2.6)
 evangelistas a permanecer en el mismo hogar en una ciudad (163:4.6) (163:4.14)
 pocos hogares modernos tan buenos como el de Jesús, Juan Marcos (177:2.6-7)
@@ -889,7 +885,7 @@ Honen Shonin | | | PERSON | OK
 Honen fue un líder budista japonés que enseñó el doble concepto de Dios y del Absoluto a través de la creencia en Amida Buda. Enseñó que el alma puede llegar al Nirvana por medio de la fe sincera y pura (94:12.2-3)
 > https://es.wikipedia.org/wiki/Hōnen
 
-honestidad | | Ver fraude; mentir; verdad | | 
+honestidad | | fraude; mentir; verdad | | 
 basar la vida en la verdad más elevada (110:3.7)
 error siempre en decir lo que uno piensa (180:5.5) (181:2.21)
 los primeros comerciantes consideraban lícito engañar a extraños (69:4.3)
@@ -901,7 +897,7 @@ con respecto a la propiedad, la honestidad originalmente se basaba en la superst
 la verdad hace al hombre libre (52:5.4) (101:6.10) (141:7.6) (143:1.4) (162:7.2) (194:2.2) (194:3.5)
 la verdad debe golpear el corazón con raíces vivas (151:2.2) (177:5.2)
 
-honor | | Ver gloria; orgullo; respeto; respeto por uno mismo | | 
+honor | | gloria; orgullo; respeto; respeto por uno mismo | | 
 inútil sin una audiencia para desfilar antes (68:2.10)
 históricamente
 	primitivas deseadas (69:5.7)
@@ -928,7 +924,7 @@ la transformación de la fe engendra esperanza (101:10.8)
 horda | | | | 
 la sociedad más primitiva era (70:3.1)
 
-Horeb | | Ver monte Sinaí | PLACE | 
+Horeb | | monte Sinaí | PLACE | 
 
 hormonas | | | | 
 reacciones químicas resultantes de (65:6.6)
@@ -966,11 +962,11 @@ la escritura secretas de Oseas y otros profetas dieron comienzo al Antiguo Testa
 Jesús dijo que el Padre había hablado en el pasado a través de profetas como Oseas (155:6.2)
 > https://es.wikipedia.org/wiki/Oseas_(profeta)
 
-hospitalidad | | Ver amistad | | 
+hospitalidad | | amistad | | 
 la amistad con los huéspedes era una hospitalidad temporal (70:3.9)
 ministrar como quien recibe a los hijos del Altísimo (133:4.8)
 
-hostilidad | | Ver odio | | 
+hostilidad | | odio | | 
 
 Anfitriones de los Visitantes Celestiales | | | | 
 Compañeros Morontiales; entretener a grupos sobrehumanos (48:3.10)
@@ -978,7 +974,7 @@ Compañeros Morontiales; entretener a grupos sobrehumanos (48:3.10)
 casa de Fad | | | | 
 biblioteca de Dalamatia (66:5.9)
 
-casas | | Ver hogar | | 
+casas | | hogar | | 
 casa dividida pronto llevada a la desolación (153:4.3)
 visitas de casa en casa (141:8.1) (142:8.1) (146:3.9) (151:0.2) (163:7.3)
 no te muevas de casa en casa (163:1.3)
@@ -996,9 +992,9 @@ encuentro entre la tribu india y el grupo esquimal (64:7.19)
 río Hudson | (59:4.15) (60:1.3) | | PLACE | 
 Grandes Lagos una vez vaciados (61:7.10)
 
-la naturaleza humana | | Ver mortales:naturaleza humana | | 
+la naturaleza humana | | mortales:naturaleza humana | | 
 
-derechos humanos | (70:9) | Ver gobierno:principios de gobierno | | 
+derechos humanos | (70:9) | gobierno:principios de gobierno | | 
 asociado con deberes sociales (81:5.4,6)
 subvenciones para reducir a todos los demás (70:11.2)
 los derechos de los hombres no son los derechos de las mujeres (84:5.11-12)
@@ -1007,11 +1003,11 @@ no más que las reglas del juego (70:9.13)
 la sociedad debería administrar justamente (70:9.17)
 la mujer obtuvo derechos cuando llegó el momento (84:5.4)
 
-sacrificio humano | | Ver sacrificio:sacrificio humano | | 
+sacrificio humano | | sacrificio:sacrificio humano | | 
 
-humanismo | | Ver laicismo | | 
+humanismo | | laicismo | | 
 
-humanos | | Ver mortales | | 
+humanos | | mortales | | 
 
 humillación | | | | 
 todas las reacciones tribales surgieron del esfuerzo por evitar (68:4.2)
@@ -1021,7 +1017,7 @@ los salvajes creían que los espíritus obtenían satisfacción de (89:0.2)
 sirviendo con Jesús en (182:1.6)
 la suprema desgracia tribal fue no aprobar las pruebas de pubertad (70:7.7)
 
-humildad | | Ver mansedumbre; sumisión | | 
+humildad | | mansedumbre; sumisión | | 
 ante Dios es apropiado (149:6.10)
 hace que uno sea exaltado (175:1.10)
 infantil cuando es consciente de sí mismo y ansía atención (149:6.9-10)
@@ -1093,7 +1089,7 @@ en la era andita, solo había extensas áreas de caza en América del Norte, al 
 Los neandertales eran geniales (64:4.2)
 Las recompensas sexuales mejoraron las habilidades de los neandertales (64:4.12)
 
-hibridación | | Ver genética | | 
+hibridación | | genética | | 
 de cepas diferentes superiores produce cepas vigorosas (82:6.5-11)
 Las razas mejores y más fuertes resultan del cruzamiento de aquellas con una herencia superior (64:6.32)
 
@@ -1110,7 +1106,7 @@ hienas | | | |
 Las tribus africanas enseñan que descienden de (74:8.5)
 entró en Europa desde África (64:4.7)
 
-higiene | | Ver saneamiento | | 
+higiene | | saneamiento | | 
 
 hipnosis | | | | 
 autohipnosis inducida por la mirada fija en el ombligo (90:1.4)
@@ -1123,7 +1119,7 @@ levadura de los fariseos (165:3.2)
 sanedrín desleal a las verdades que profesaban (178:1.16)
 el pecado de los gobernantes es decir lo que es bueno pero no hacerlo (175:1.8)
 
-hipótesis | | Ver teorías | | 
+hipótesis | | teorías | | 
 
 histeria | | | | 
 creencia confirmada en la brujería (88:1.9)
