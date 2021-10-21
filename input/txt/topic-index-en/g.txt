@@ -204,7 +204,7 @@ in Jerusalem temple (162:4.3)
 Gath | | | PLACE | 
 Philistines ordered King David off field at (97:9.5)
 
-Gautama Siddhartha (94:7) | (94:7) | Buddha; Buddhism | PERSON | OK
+Gautama Siddhartha | (94:7) | Buddha; Buddhism | PERSON | OK
 master and son of a chieftain ruling a mountain valley
 sudden conversion (100:5.3)
 doctrine of Teacher, Law, and Brotherhood (104:1.6)
@@ -802,7 +802,7 @@ God the Son | | Eternal Son | PERSON | OK
 
 God the Spirit | | Infinite Spirit | PERSON | OK
 
-God the Supreme | | Supreme, the | PERSON | OK
+God the Supreme | | Supreme | PERSON | OK
 
 God the Ultimate | (0:9) | reality: levels of reality: absonite reality | PERSON | OK
 3 Absolutes are co-ordinated in (56:9.1)
@@ -859,7 +859,7 @@ evolution
 	false gods in man’s image (196:3.23)
 	progress of science adds to mortality of false (102:6.1)
 names
-	named | Agni; Ahura-Mazda; Anu; Aphrodite; Apollo; Artemis; Ashtoreth; Ashur; Astarte; Aton; Attis; Augustus (Emperor); Baal; banshees; Bel; Bel-Marduk; Brahma; Brahman; brownies; Buddha; centaurs; Chemosh; Cybele; Dagon; Daphne; Devouress; Dionysus; dragon; dwarfs; Dyaus pitar; Ea; El; El Shaddai; fairies; Fate; fates; Great Mother cult; Hestia; Horus; Indra; Ishtar; Isis; Jehovah; Juno; Jupiter; Marduk; Mars; mermaids; Minerva; Mithras; Nabu; Neptune; Nereids; Nile god; Nog; Osiris; Pandora; Prajapati; Prometheus; Ramman; Sakyamuni Buddha; Set; Shamash; Shang-ti; Sin (god); Siva; Sol Invictus; Soma; Thor; Thoth; Trimurti; Venus; Vesta; Vishnu; Yahweh; Zeus
+	named | Agni; Ahura-Mazda; Anu; Aphrodite; Apollo; Artemis; Ashtoreth; Ashur; Astarte; Aton; Attis; Augustus (Emperor); Baal; banshees; Bel; Bel-Marduk; Brahma; Brahman; brownies; Buddha; centaurs; Chemosh; Cybele; Dagon; Daphne; Devouress; Dionysus; dragon; dwarfs; Dyaus pitar; Ea; El; El Shaddai; fairies; Fate; fates; Great Mother cult; Hestia; Horus; Indra; Ishtar; Isis; Jehovah; Juno; Jupiter (god); Marduk; Mars (god); mermaids; Minerva; Mithras; Nabu; Neptune; Nereids; Nile god; Nog; Osiris; Pandora; Prajapati; Prometheus; Ramman; Sakyamuni Buddha; Set; Shamash; Shang-ti; Sin (god); Siva; Sol Invictus; Soma; Thor (god); Thoth; Trimurti; Venus (god); Vesta; Vishnu; Yahweh; Zeus
 
 gold | | | | 
 first metal sought by man (81:3.4-5)
@@ -1027,7 +1027,7 @@ Jesus dwells in all who believe his gospel (164:5.3)
 left as Jesus presented, all religions would have accepted (149:2.1)
 loyalty to gospel dependent on sound early home training (177:2.2)
 Melchizedek receivers proclaimed gospel to Adam (76:5.1)
-messengers | apostles of Jesus; disciples; evangelists, the seventy; messenger corps (David Zebedee’s)
+messengers | apostles of Jesus; disciples; evangelists; messenger corps (David Zebedee’s)
 must show increasing vitality, depth of spiritual power (178:1.15)
 proclaiming the gospel | government: believers’ relation to; kingdom of heaven: establishment
 	accord generous recognition (159:3.3)
@@ -1294,7 +1294,7 @@ Grand Canyon | (58:7.5) | | PLACE |
 Grand Lama | | | | 
 Tibetan religious leader (94:10.2)
 
-grand universe | | master universe; superuniverses, the seven; universe | PLACE | 
+grand universe | | master universe; superuniverses; universe | PLACE | 
 7 superuniverses plus Havona (0:0.6) (12:1.13) (15:2.9)
 Ancients of Days and Seven Master Spirits are eternally fixed as administrators of (0:8.11)
 dependent on future universes of outer space for finite transcendence (117:6.20)
@@ -1496,7 +1496,7 @@ Onamonalonton referred to God as (45:4.5?) (64:6.7)
 great supper | | | | 
 parable of (167:2)
 
-greater, the | | | | 
+greater | | | | 
 seek the g., and the lesser will be found therein (165:5.3)
 
 Greater Road | | Buddhism | | 
@@ -1627,7 +1627,7 @@ greensand marl | (60:3.9) | | |
 Gregorian calendar | | | | 
 used in Urantia Papers (57:0.1) (126:3.1)
 
-groups | | co-operation; family; fellowship of believers; friendship; individual, the; parts and the whole | | 
+groups | | co-operation; family; fellowship of believers; friendship; individual; parts and the whole | | 
 3 persons are minimum group (10:2.3) (39:3.6)
 celestial involvement
 	Creator Son rules in relations between groups (32:4.3-4)

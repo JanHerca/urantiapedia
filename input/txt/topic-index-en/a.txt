@@ -8,7 +8,7 @@
 # A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-A-B-C the First | (77:8.2) | | PERSON | 
+A-B-C the First; A-B-C the first | (77:8.2) | | PERSON | 
 secondary midwayer (77:6.4)
 
 a priori assumptions | | doctrines | | 
@@ -188,7 +188,7 @@ responds to mind (9:4.5)
 responsive only to personal grasp of Father (42:2.5)
 ultimatons exhibit mutual resistance to (42:6.4)
 
-Absolute, the | | Absolutes | PERSON |
+Absolute | | Absolutes | PERSON |
 evolution of Buddhist concept of (94:11.7-11)
 impersonal and co-ordinate reaction of Trinity (56:9.4)
 in infinity and existentially, there is one the Absolute (56:9.1) (106:8.17)
@@ -207,7 +207,7 @@ Absolute Mind (person) | | Infinite Spirit | |
 
 Absolute Person | | Eternal Son | PERSON |
 
-Absolutes | | Absolute, the | ORDER | 
+Absolutes | | Absolute | ORDER | 
 of actuality
 	comprised of Son, Spirit, and Paradise (104:5.2) (115:3.14)
 	existents of cosmos center in (115:3.14)
@@ -383,9 +383,9 @@ inexplicable things termed (85:0.4)
 actual | | | |
 actual versus potential phases of reality (0:4.7)
 
-Actual, the | | Absolutes: of actuality | PERSON |
+Actual | | Absolutes: of actuality | PERSON |
 
-Adam | (74) (75) (165:0.1) | Eve; Garden of Eden; Material Sons of God | PERSON |
+Adam | (74) (75) (165:0.1) | Eve; Garden of Eden; Material Sons | PERSON |
 He and his wife Eve were the Material Sons of Jerusem that started the adamic race in Urantia
 on Jerusem (74:1)
 	directors of experimental energy for living forms (74:1.2)
@@ -491,7 +491,7 @@ on river Jordan (135:7.2)
 
 Adamic dispensation | | planetary epochs | |
 
-Adamic Sons | | Material Sons of God | ORDER |
+Adamic Sons | | Material Sons | ORDER |
 
 Adamites | | races | RACE |
 after Adam (78)
@@ -872,12 +872,9 @@ Jesus advised against use of (149:3.1) (151:2.1,7) (151:3.3)
 alligators | | | |
 descended from nonprogressive reptiles (65:2.10)
 
-Almighty | | Supreme, the | PERSON |
+Almighty | | Supreme | PERSON |
 
-Almighty, the transcendental | | | PERSON |
-God the Ultimate manifest to universes of time (118:2.4)
-
-Almighty Supreme | | Supreme, the | |
+Almighty Supreme | | Supreme | |
 
 aloes | | | |
 Jesus embalmed with (188:1.4)
@@ -889,7 +886,7 @@ Jesus is (128:1.10)
 Alpheus | | Alpheus twins | PERSON |
 father of James and Judas Alpheus (138:4.1)
 
-Alpheus twins | (143:3.5) | | apostles of Jesus | PERSON |
+Alpheus twins | (143:3.5) | apostles of Jesus | PERSON |
 James and Judas Alpheus or Alpheus twins were two apostles of Jesus
 mother Mary, father Alpheus (138:4.1) (189:4.4) (190:3.1)
 James Alpheus
@@ -1045,7 +1042,7 @@ Amerinds | | red race | RACE |
 
 Amida Buddha | | Buddhism: types | |
 
-Amidist | | Amida Buddha | |
+Amidist; Amidists | | Amida Buddha | |
 believer in Amida Buddha (94:12.3)
 
 Ammonites | | | RACE |
@@ -1190,7 +1187,7 @@ Ancients and Lucifer's rebellion
 	decreed instantaneous extinction of rebels during Michael’s bestowal (54:4.5) (120:0.8) (120:1.5-6)
 	few rulings adjudicating Lucifer rebellion (46:8.1) (67:4.7)
 
-Andes mountains | (59:5.18) (60:2.6) (60:3.4) | | PLACE | 
+Andes mountains; Andes; Andes Mountains | (59:5.18) (60:2.6) (60:3.4) | | PLACE | 
 
 Andites | (78) (80) | Aryans; races | RACE |
 ancestors of Nordic races (80:4.5) (80:9.2)
@@ -1204,7 +1201,7 @@ drove Andonites out of Europe (80:9.6-7)
 family-council practices (84:7.29)
 first attempted to divorce mathematical from volitional (103:6.10)
 homogeneity referred to as Caucasoid or pre-Aryan (78:4.4)
-horse determined dominance of (80:2.8) (80:4.4)
+horse determined dominance of (80:4.4) (81:2.12)
 little contact with red race (79:5.7)
 migrations of Andites (79) (80) (78:5-6)
 	132 Andites from Japan ancestry of Incan rulers (78:5.7) (79:5.9)
@@ -1221,7 +1218,7 @@ migrations of Andites (79) (80) (78:5-6)
 	Sumerians were the last (78:8.1)
 mingled with blue races and Saharans (80:8.1) (80:9.8)
 more imaginative and adventurous youths require more training and discipline (84:7.21)
-named | Amosad; Genghis Khan; Imhotep; Thor
+named | Amosad; Genghis Khan; Imhotep; Thor (god)
 origin
 	1/8 to 1/6 Adamic blood (78:4.1)
 	absorbed best of blue man and ruthlessly exterminated worst (80:4.5) (80:5.5-6) (80:8.1) (80:9.11)
@@ -1372,11 +1369,11 @@ gospel of Andrew
 	Luke had mutilated copy of A.’s notes (121:8.9)
 > https://en.wikipedia.org/wiki/Andrew_the_Apostle
 
-Andromeda (nebula) | | | PLACE |
+Andromeda | | | PLACE |
 1 million light-years distant; active nebula outside inhabited superuniverse (15:4.7)
 collapsed in 40 minutes (41:8.3)
 
-Andronover (nebula) | (57:1-4) | | PLACE | 
+Andronover | (57:1-4) | | PLACE | 
 1,013,628 Orvonton suns took origin in (57:2.2) (57:4.3,8)
 earth’s sun originated in (15:3.6) (57:1.1)
 has remnant family of 165 worlds (57:4.9)
@@ -1395,7 +1392,7 @@ Angamon | | | PERSON |
 introduced rich man to Jesus (132:5.1)
 Stoic leader in Rome; Jesus’ talk with (132:1)
 
-Angelic World, The | | Jerusem: transitional culture worlds | PLACE |
+Angelic World | | Jerusem: transitional culture worlds | PLACE |
 transitional culture world #3 (45:1.5)
 permission to visit transitional world #3 (47:5.2)
 
@@ -1439,7 +1436,7 @@ angiosperms | (61:2.2) (60:3.7,19) | | |
 Anglo-Saxons | | | RACE |
 descendants of Andite and blue races (80:4.5)
 
-Angona (system) | | | PLACE |
+Angona | | | PLACE |
 approach 4.5 billion years ago disgorged our solar system from sun (41:10.1) (57:5.4-14)
 large nebula whose approach distorted Andronover (15:3.6)
 
@@ -1492,7 +1489,7 @@ sacrificial | sacrifice: animal sacrifice
 spornagia utilize animals in culture of soil (46:7.2)
 sudden appearance of land (59:5.5)
 thousands of marine species perished in Permian (59:6.2)
-types named | alligators; ammonites; amphibians; anteaters; antelopes; apes; armadillos; arthropods; baboons; barnacles; bats; bears; beavers; birds; bison; brachiopods; bulls; butterflies; buzzards; camels; carrier pigeons; caterpillars; cats; cattle; centipedes; chimpanzees; clams; cockroaches; coons; coral; coyotes; crabs; crickets; crinoids; crocodiles; crustaceans; cuttlefish; dawn mammals; deer; dinosaurs; dogs; dolphins; donkeys; doves; dragon flies; drills; ducks; eagles; earthworms; echinoderms; elephants; falcons; fish; flamingoes; foraminifers; foxes; frogs; gastropods; gibbons; giraffes; gnats; goats; gophers; gorillas; gulls; herons; hippopotamuses; horses; hyenas; jellyfish; kangaroos; lambs; leeches; lemurs; lions; lizards; llamas; lobsters; locusts; mammals; mammoths; marine life; martens; mastadons; mice; mid-mammals; mollusks; monkeys; musk oxen; octopuses; opossums; ostriches; owls; oxen; oysters; panthers; parrots; passenger birds; pearly nautilus; peccaries; periwinkles; pigeons; porpoises; poultry; Primates; Protozoa; pterosaurs; quail; rabbits; raccoons; ravens; reindeer; reptilians; rhinoceroses; rodents; ruminants; saber-toothed tigers; salamanders; scallops; scorpions; sea cucumbers; sea lions; sea serpents; sea squirts; sea urchins; sea worms; seals; sharks; sheep; shrimps; simians; sloths; snails; snakes; sparrows; spiders; sponges; squid; squirrels; starfish; sturgeon; swine; tadpoles; tapirs; tigers; trilobites; turtles; vipers; water hogs; watersnakes; weasels; whales; wolves; yaks
+types named | alligators; ammonites; amphibians; anteaters; antelopes; armadillos; arthropods; baboons; barnacles; bats; bears; beavers; birds; bison; brachiopods; bulls; butterflies; buzzards; camels; carrier pigeons; caterpillars; cats; cattle; centipedes; chimpanzees; clams; cockroaches; coral; coyotes; crabs; crickets; crinoids; crocodiles; crustaceans; cuttlefish; dawn mammals; deer; dinosaurs; dogs; dolphins; donkeys; doves; dragon flies; drills; ducks; eagles; earthworms; echinoderms; elephants; falcons; fish; flamingoes; foraminifers; foxes; frogs; gastropods; gibbons; giraffes; gnats; goats; gophers; gorillas; gulls; herons; hippopotamuses; horses; hyenas; jellyfish; kangaroos; lambs; leeches; lemurs; lions; lizards; llamas; lobsters; mammals; mammoths; marine life; martens; mice; mid-mammals; mollusks; monkeys; musk oxen; octopuses; ostriches; owls; oxen; oysters; panthers; parrots; passenger birds; pearly nautilus; peccaries; periwinkles; pigeons; porpoises; poultry; Primates; Protozoa; pterosaurs; rabbits; raccoons; ravens; reindeer; reptilians; rhinoceroses; rodents; ruminants; saber-toothed tigers; salamanders; scallops; scorpions; sea cucumbers; sea lions; sea serpents; sea squirts; sea urchins; sea worms; seals; sharks; sheep; shrimps; simians; sloths; snails; snakes; sparrows; spiders; sponges; squid; squirrels; starfish; sturgeon; swine; tadpoles; tapirs; tigers; trilobites; turtles; vipers; water hogs; weasels; whales; wolves; yaks
 utilization of animals (69:7)
 vertebrates
 	crustaceans were ancestors of first vertebrates (59:4.10)
@@ -1956,7 +1953,7 @@ Arius | | | PERSON |
 Arius was a priest who at the Council of Nicaea defended the idea of the subordination of the Son, of Jesus, to the Father, and that the words of Jesus did not correspond with the words of God himself. The Urantia Book indicates that his claims might put in danger the truth of Jesus' bestowal (195:0.18)
 > https://en.wikipedia.org/wiki/Arius
 
-ark of Noah | | Noah | |
+ark of Noah | | Noah (wine maker of Aram) | |
 
 ark of Yahweh | | | |
 chest containing sacred writings in synagogue (150:8.6,8)
@@ -2289,7 +2286,7 @@ errors in astronomic measurement caused by | red shift
 	opposite clockwise procession of 1st outer space level (12:4.15)
 	space respiration (12:4.12-14)
 origin in astrology (81:2.9) (88:6.5)
-places named | Andromeda nebula; Andronover nebula; Angona system; Antares; Crab nebula; Jupiter (planet); Magellanic Cloud; Mars (planet); Mercury; Milky Way galaxy; Monmatia; moon (Urantia’s); Pole Star; Sagittarius; Saturn; sun; Umajor the fifth; Uminor the third; Urantia; Uranus; Venus (planet)
+places named | Andromeda; Andronover; Angona; Antares; Crab nebula; Jupiter (planet); Magellanic Cloud; Mars (planet); Mercury; Milky Way galaxy; Monmatia; moon (Urantia’s); Pole Star; Sagittarius; Saturn; sun (Urantia’s); Umajor the fifth; Uminor the third; Urantia; Uranus; Venus (planet)
 
 Athanasius | | | PERSON|
 at council of Nicaea (195:0.18)

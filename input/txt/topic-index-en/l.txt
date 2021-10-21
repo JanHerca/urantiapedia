@@ -69,7 +69,7 @@ Jesus told Peter to feed his (192:2.2)
 served at Passover (179:0.3)
 typical sacrificial animal (85:3.4)
 
-lame, the | | | | 
+lame | | | | 
 sometimes invite to banquets (167:1.5)
 
 Lamech | | | PERSON | 
@@ -222,7 +222,7 @@ Jesus passed
 Lasea | | | PLACE | 
 harbor in Crete, Jesus passed (130:0.2) (130:4.12)
 
-last, the | | | | 
+last | | | | 
 will often be first (41:10.5) (163:3.4) (166:3.5)
 
 Last Supper | | Remembrance Supper | | 
@@ -357,7 +357,7 @@ daughter of Philip; prophetess of Hierapolis (139:5.11)
 leaping | | | | 
 learn from looking as well as from (16:7.3)
 
-least, the | | | | 
+least | | | | 
 sometimes becomes greatest (41:10.5)
 
 leaven | | | | 
@@ -1123,7 +1123,7 @@ Lord’s Supper | | Remembrance Supper | |
 
 losing | | defeat | | 
 
-lost, the | | | | 
+lost | | | | 
 Father and Son search for (169:1.4)
 God goes in search of lost sheep (159:5.16)
 Jesus and Ganid restored lost child (132:6.1)
@@ -1273,7 +1273,7 @@ not exercised in behalf of good without a struggle (100:4.2)
 preventing rebellion is of higher value than resisting (22:2.3)
 yield loyalty to highest dictates of spiritual consciousness (101:9.3)
 
-Lucifer (53) | Lanonandek Sons; Lucifer rebellion; System Sovereigns
+Lucifer | (53) | Lanonandek Sons; Lucifer rebellion; System Sovereigns | PERSON | 
 acceptance of Life Carriers’ work on Urantia (62:7.5)
 adjudication
 	brought to trial in 2-1/2 seconds Uversa time (46:8.1-4) (54:5.13) (67:4.7)
@@ -1326,7 +1326,7 @@ while Lucifer lives
 	Norlatiadek Most Highs in charge of fallen worlds (43:3.7)
 	Satania cannot be readmitted to constellation (46:8)
 
-Lucifer rebellion (53) | Caligastia; Lucifer; quarantine; rebellion (spiritual)
+Lucifer rebellion | (53) | Caligastia; Lucifer; quarantine; rebellion (spiritual) | | 
 adjudication
 	adjudication of Gabriel versus Lucifer recently begun; not complete (46:8.1-4) (53:8.4) (53:9) (54:4.8) (54:5.13) (67:4.7)
 	ends on fallen worlds as fast as divine Sons arrive (53:9.7)

@@ -268,7 +268,7 @@ at lowest cultural level 15,000 years ago (80:1.3)
 baby Jesus taken to (122:10.4) (123:0.3,6)
 caste systems based on color (70:8.11)
 culture derived from Euphrates region (80:6.2) (80:7.5)
-Egyptians named | Amenemope; Amenhotep III; Ezraeon; Ikhnaton; Moses; Okhban; Philo
+Egyptians named | Amenemope; Amenhotep III; Ezraeon; Ikhnaton; Moses; Okhban; Philo of Alexandria
 growth of commerce (81:3.1)
 in 15,000 B.C. (78:3.6)
 influence on Judaism (97:8.2)
@@ -562,7 +562,7 @@ make merciful intercession for one’s enemies (91:8.7)
 smitten by e., turn other cheek (159:5.9)
 wise man is friendly among (131:3.6)
 
-enemy, the | | Caligastia; devil; Lucifer | PERSON | OK
+enemy | | Caligastia; devil; Lucifer | PERSON | OK
 would seek to draw apostles away (138:7.3)
 
 energy | (42:2) | light; material energy; matter | | 
@@ -802,7 +802,7 @@ Peter’s enthusiasm commendable but dangerous (137:1.3)
 work at what one finds to do with all one’s might (133:8.3)
 zeal shown in unrecognized religious activity (99:3.7)
 
-environment | circumstances; handicaps
+environment | | circumstances; handicaps | | 
 bad environment cannot thwart attainment of individual mortal (55:11.7)
 divinely watered souls all but independent of material (34:6.8)
 Life Carriers manipulated environment to eliminate inferior prehuman strains (65:2.14-15)
@@ -1167,7 +1167,7 @@ sex slavery polluted biologic fitness of superior peoples (69:5.10)
 
 eunuchs | | castration | | 
 
-Euphrates river | | Mesopotamia | PLACE | 
+Euphrates River | | Mesopotamia | PLACE | 
 and Tigris were cradle of Occidental, Indian civilizations (78:1.3)
 drought drove Andites to valleys of (79:1.3) (80:1.1)
 second garden adjoined (76:0.1) (76:1.1-3) (76:3.8) (76:4.8)
@@ -1198,7 +1198,7 @@ demands transcendence of thing evaluated (112:2.12)
 
 evangelism | | gospel: proclaiming | | 
 
-evangelists, the seventy | | disciples | PERSON | OK
+evangelists | | disciples | PERSON | OK
 a group of preachers ordinated by Jesus from the original evangelists
 trained by learning and doing (148:1.1)
 training at Bethsaida (148)
@@ -1219,7 +1219,7 @@ proclaim spiritual liberty and divine sonship (35:3.21)
 Evangels of Light | | | ORDER | 
 celestial beings temporarily attached to mortal finaliter companies (31:7)
 
-Eve | | Adam; Material Sons of God | PERSON | OK
+Eve | | Adam; Material Sons | PERSON | OK
 Eve is wife of Adan and bearer of violet race to Urantia
 Caligastia plot
 	Caligastia’s wily flank attack on (75:2.3)
@@ -1472,7 +1472,7 @@ exhaustion | | fatigue; rest | |
 
 existential reality | | reality:levels of reality:existential reality | | 
 
-Exodus, Book of | (145:2.2) | | | 
+Exodus | (145:2.2) | | | 
 
 exogamy | | marriage | | 
 

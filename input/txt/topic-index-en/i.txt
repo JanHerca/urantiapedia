@@ -8,7 +8,7 @@
 # A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-I AM | (105:1) | God; Infinite, the; Universal Father | PERSON | OK
+I AM | (105:1) | God; Infinite; Universal Father | PERSON | OK
 concept of I AM
 	hypothesis of all that is unknowable of God (105:1.6)
 	hypothetical undifferentiated stasis of original infinity (104:4.44-47) (105:1.3-5)
@@ -253,7 +253,7 @@ refusing to grow up (156:5.18)
 seeking satisfaction of present desires (160:1.3) (166:3.4)
 unwillingness to forgive is measure of immaturity (174:1.5)
 
-immortality | | eternal life; survival | | 
+immortality | | eternal life; survival (of mortal death) | | 
 
 impatience | | patience | | 
 desire to possess what one craves now, in defiance of others’ rights (54:4.4)
@@ -267,7 +267,7 @@ imperfection | | evil; perfection | |
 Father participates in our experience with (2:2.6)
 inherent in evolutionary growth (105:6.4)
 
-impersonal, the | | | | 
+impersonal | | | | 
 ever responsive to will and acts of personality (107:7.4)
 
 import duties | | taxation | | 
@@ -403,7 +403,7 @@ usually subdued by blue race (51:4.6)
 wiped out and absorbed remnants of green, orange races (64:6.13) (64:7.14)
 wives won by riddle contests (82:3.5)
 
-individual, the | | individualism; mortals; parts and the whole; personality; self | | 
+individual | | individualism; mortals; parts and the whole; personality; self | | 
 better world depends on progress of (145:1.8)
 Father treats each ascending son as (117:6.22)
 God modifies his actions to contribute to (4:2.1)
@@ -416,7 +416,7 @@ progress of individual augmented through group’s achievement (100:0.1)
 relation to group | groups
 universe rulers would rather risk system rebellion than deprive one mortal of eternal life (112:5.8)
 
-individualism | | individual, the; originality | | 
+individualism | | individual; originality | | 
 Caligastia was ultraindividualistic (66:8.1)
 industrialism should promote (70:2.18)
 progress demands development of individuality (48:7.29)
@@ -534,7 +534,7 @@ unrestrained multiplication of inferiors destroys civilization (72:9.8) (79:2.7)
 
 infidelity | | adultery | | 
 
-Infinite, the | | God; I AM; Universal Father | PERSON | OK
+Infinite | | God; I AM; Universal Father | PERSON | OK
 source of universe reality (130:4.2)
 denotes primacy of First Source and Center (0:3.24)
 personality of the Infinite disclosed in Father (10:1.3)
@@ -668,7 +668,7 @@ functions of Infinite Spirit
 	agencies of Infinite Spirit handle our practical daily affairs (5:3.5)
 	ancestor of cosmic mind (9:5.4) (9:7.3-4) (12:6.3) (16:9.15)
 	antigravity (9:1.7) (9:3.2-3)
-	bestows Third Source personality (9:8.6-12) | Third	Source personalities
+	bestows Third Source personality (9:8.6-12) | Third Source personalities
 	can act for Father in bestowal of personality (9:8.10)
 	compensates for incompleteness of evolutionary Deity – the	Supreme and the Ultimate (9:1.6) (116:4.2)
 	correlator of all actual reality (9:1.3) (104:4.43)
@@ -722,7 +722,7 @@ find Infinite Spirit
 Infinite Upholder | | Universal Absolute | PERSON | OK
 I AM self-associative, the Universal Absolute (105:2.8)
 
-Infinitude, The | | I AM | PERSON | OK
+Infinitude | | I AM | PERSON | OK
 self-differentiation of The Infinite One from (105:2.2)
 
 infinity | | reality: levels of reality: absolute reality | | 
@@ -742,7 +742,7 @@ primordial stasis requires segmentation for human comprehension (115:3.2-4)
 time-space creatures cannot comprehend (2:1.10) (116:2.3)
 triunities are functional balance wheel of (104:4.46)
 
-Infinity, The | | I AM | PERSON | OK
+Infinity | | I AM | PERSON | OK
 I AM; the eternal continuum (105:2.2)
 
 influences (spiritual) | | spiritual influences | | 
@@ -849,7 +849,7 @@ born fully educated (81:6.24)
 fossils of insects preserved in lithographic stone (60:2.6)
 nonprogressive species (65:2.5)
 resting stages of suspended animation evolved (59:6.7)
-types named | butterflies; caterpillars; centipedes; cockroaches; crickets; dragon flies; gnats; hornets; locusts; scorpions; spiders
+types named | butterflies; caterpillars; centipedes; cockroaches; crickets; dragon flies; gnats; hornets; scorpions; spiders
 worship of insects was misinterpretation of golden rule (85:3.4)
 
 insecurity | | anxiety; fear; uncertainty | | 
@@ -1036,7 +1036,7 @@ economic freedom secured through (81:5.5)
 inestimable benefits of (81:2.14)
 post-Adamic dispensation is age of great (52:3.6)
 
-invisible, the | | | | 
+invisible | | | | 
 motion of the invisible sometimes discernable by effects on visible (115:6.7)
 
 ionization | | | | 

@@ -373,7 +373,7 @@ region
 Caspin | (165:0.1) | | PLACE | 
 Perea mission
 
-caste systems | (68:6.7) | Brahmanism; social classes | | | 
+caste systems | (68:6.7) | Brahmanism; social classes | | 
 based on color in India, Egypt (70:8.11)
 failed to save Aryan race (94:2.1,5)
 Gautama made determined fight against (94:7.2)
@@ -382,7 +382,7 @@ instituted by Aryans in India to save racial identity (79:2.6) (79:4.5-9)
 purchase stability but diminish personal initiative; prevent social cooperation (70:8.13)
 remnants of olden prohibitions (89:1.6)
 
-casting lots | | superstitions | | 
+casting lots | | superstition | | 
 apostles selected Matthias by (193:6.3,6)
 does not disclose divine will (150:3.7,12)
 Greeks practiced government by (195:2.1)
@@ -760,7 +760,7 @@ by individuals
 	rich men endow great institutions of learning (69:5.13)
 	what is given is wisely saved (131:3.6)
 
-charms | (88:5) | fetishes; relics; superstitions | | 
+charms | (88:5) | fetishes; relics; superstition | | 
 all ancient objects considered magical (88:5.4)
 anything connected with body could become fetish (88:5.1)
 belief in charms destroyed personal initiative (69:2.7) (88:6.6)
@@ -1007,7 +1007,7 @@ retarded mid-mammals were ancestors of (62:3.12)
 Ch’in Shih Huang Ti | | | PERSON | OK
 combated Confucianism (94:6.11)
 
-China | | Chinese; Honan; Kansu; Shensi; Ti Tao; Yangtze; yellow race; Yellow River | PLACE | 
+China | | Chinese; Honan; Kansu; Shensi; Ti Tao; Yangtze River; yellow race; Yellow River | PLACE | 
 40,000 year old culture (79:8.16)
 Andites drove inferiors into southern China (79:2.4)
 Andites entered (78:5.5-6) (79:1.1) (79:6.5) (79:7)
@@ -1307,7 +1307,7 @@ presence circuits of Paradise (15:9.1)
 	spirit | gravity: types: spirit gravity
 reflectivity independent of all subabsolute circuits (17:3.10)
 seem automatic, but subject to intelligent supervision (23:1.1)
-superuniverse | superuniverses, the seven: circuits
+superuniverse | superuniverses: circuits
 
 circumcision | | | | 
 Abraham underwent circumcision to solemnize commitment (93:6.6)
@@ -1359,7 +1359,7 @@ of Jerusem assign suffrage qualifications (45:7.7)
 citron | | | | 
 forbidden fruit (162:4.4)
 
-City of David | | Bethlehem | PLACE | 
+City of David | | Bethlehem (Judea) | PLACE | 
 
 City of Judah | | | PLACE | 
 small village 4 miles west of Jerusalem; home of Elizabeth and Zacharias (122:2.6-7) (135:0.2)
@@ -1684,9 +1684,9 @@ first-born sons exiled instead of sacrificed (89:7.3)
 color workers | | | | 
 heavenly reproducers, celestial artisans (44:2.4)
 
-Colorado (60:2.5) (60:4.4) (61:2.4) | | PLACE | 
+Colorado | (60:2.5) (60:4.4) (61:2.4) | | PLACE | 
 
-Colorado River (58:7.5) | | PLACE | 
+Colorado River | (58:7.5) | | PLACE | 
 
 colored races | | races | RACE | 
 
@@ -2026,7 +2026,7 @@ conglomerates | | | |
 coal layers alternate with (59:5.15)
 sedimentation from ancient shores (58:7.9) (59:1.10) (60:1.1)
 
-conifers (60:2.7) | | | 
+conifers | (60:2.7) | | | 
 
 conjectures | | speculations | | 
 
@@ -3093,7 +3093,7 @@ characterized by wandering preachers; traced to Diogenes (121:4.4,6)
 Ganid’s abstract of (131:1)
 occidental religion languished until days of (98:6.2)
 
-Cynics | | Cynicism | RELIGION | 
+Cynics | | Cynicism (religion) | RELIGION | 
 Claudus became preacher of (130:8.1)
 exhorted Romans to abandon wild religious rituals (98:3.9)
 Jesus mistaken for priest of (133:2.1)
