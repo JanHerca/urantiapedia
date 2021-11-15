@@ -29,6 +29,10 @@ Los formatos de entrada para la Urantiapedia son los siguientes:
 
 ### Adaptar ficheros de la Biblia
 
+Usar eSword "Copiar versos" usando la opción que deja cada versículo estilo: Gen 1:1 En el principio Dios creó...
+
+Luego en este orden reemplazar en VS Code:
+
 Buscar ^... 
 Reemplazar: \par 
 

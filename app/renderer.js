@@ -61,6 +61,7 @@ const controls = {
 	lblTopicIndex: null,
 	drpCategories2: null,
 	lblCategories2: null,
+	spinCategories2: null,
 	lbxTopics: null,
 	drpTopicLanguage1: null,
 	drpTopicLanguage2: null,
@@ -204,6 +205,7 @@ const updateTopicIndexEdit = () => {
 	const dirBook1 = path.join(app.getAppPath(), `input/json/book-${lan1}-footnotes`);
 	const dirBook2 = path.join(app.getAppPath(), `input/json/book-${lan2}-footnotes`);
 	//TODO: use either with or without footnotes, whichever exists
+	$(controls.spinCategories2).toggleClass('d-none', false);
 	const promises = [
 		topicindexEdit.readFromTXT(dirTopics1, category),
 		topicindexEdit2.readFromTXT(dirTopics2, category),
@@ -455,6 +457,7 @@ const onSuccess = (infos) => {
 };
 
 const onFail = (errors) => {
+	$(controls.spinCategories2).toggleClass('d-none', false);
 	showErrors(errors);
 	showProgress(false);
 };
@@ -543,6 +546,7 @@ const showTopic = (name) => {
 };
 
 const showTopicListEdit = () => {
+	$(controls.spinCategories2).toggleClass('d-none', true);
 	//Unhandle
 	$(controls.lbxTopics).find('.list-group-item').off('click');
 	//Fill topic list
@@ -607,16 +611,18 @@ const showTopicEdit = () => {
 				py-0 px-2 flex-column align-items-start">
 				<div class="row">
 					<div class="d-none">${line.fileline}</div>
-					<div class="col-5">${line.text}</div>
-					<div class="col-5">${lines2[i].text}</div>
-					<div class="col-2">${line.refs.join(', ')}</div>
+					<div class="col-6">${line.text}</div>
+					<div class="col-6">${lines2[i].text}</div>
+				</div>
+				<div class="row">
+					<div class="col-12 text-right">${line.refs.join(', ')}</div>
 				</div>
 			</div>`;
 		})
 		.join('');
 	//Handle
 	$(controls.lbxLines).find('.list-group-item').on('click', function() {
-		const fileline = $(this).find('div > div:first-child').text();
+		const fileline = $(this).find('div:first-child > div:first-child').text();
 		filelineEditing = parseInt(fileline);
 		$(controls.lbxLines).find('.list-group-item').toggleClass('active', false);
 		$(this).toggleClass('active', true);
@@ -628,15 +634,18 @@ const showLinesUB = () => {
 	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
 	const line = topic.lines.find(ln => ln.fileline === filelineEditing);
 	const fn = (r1, r2) => {
-		const par1 = (r1 ? bookEdit.getPar(r1[0], r1[1], r1[2]).par_content : 'Error');
-		const par2 = (r2 ? bookEdit2.getPar(r2[0], r2[1], r2[2]).par_content : 'Error');
+		const par1 = (r1 ? 
+			bookEdit.getPar(r1[0], r1[1], r1[2]).par_content : 'Error') + 
+			` [${r1[0]}:${r1[1]}.${r1[2]}]`;
+		const par2 = (r2 ? 
+			bookEdit2.getPar(r2[0], r2[1], r2[2]).par_content : 'Error') +
+			` [${r2[0]}:${r2[1]}.${r2[2]}]`;
 		const ercls = (r1 == null || r2 == null ? ' alert alert-danger' : '');
 		return `<div class="list-group-item btn-sm list-group-item-action 
 			py-0 px-2 flex-column align-items-start${ercls}">
 			<div class="row">
-				<div class="col-5">${par1}</div>
-				<div class="col-5">${par2}</div>
-				<div class="col-2">${r1[0]}:${r1[1]}.${r1[2]}|${r2[0]}:${r2[1]}.${r2[2]}</div>
+				<div class="col-6">${par1}</div>
+				<div class="col-6">${par2}</div>
 			</div>
 		</div>`;
 	};

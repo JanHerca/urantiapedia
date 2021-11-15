@@ -16,8 +16,8 @@ Idioma | Código | Paramony | Términos | Biblia | LU sin<br>notas | LU con<br>n
 ---|---|---|---|---|---|---|---|---|---
 Bulgarian  | bg | OK  |     | OK | OK |    |     |     | 
 Czech      | cs | OK  |     | OK | OK |    |     |     | 
-Danish     | da | OK  |     |    | OK |    |     |     | 
-German     | de | OK  |     |    | OK |    |     |     | 
+Danish     | da | OK  |     | OK | OK |    |     |     | 
+German     | de | OK  |     | OK | OK |    |     |     | 
 Greek      | el | OK  |     |    | OK |    |     |     | 
 English    | en | OK  | WIP | OK | OK | OK | WIP | WIP | WIP
 Spanish    | es | OK  | WIP | OK | OK | OK | WIP | WIP | WIP
