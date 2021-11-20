@@ -22,7 +22,7 @@ Greek      | el | OK  |     |    | OK |    |     |     |
 English    | en | OK  | WIP | OK | OK | OK | WIP | WIP | WIP
 Spanish    | es | OK  | WIP | OK | OK | OK | WIP | WIP | WIP
 Estonian   | et | OK  |     |    | OK |    |     |     | 
-Farsi      | fa | OK  |     |    | OK |    |     |     | 
+Farsi      | fa | OK  |     | OK | OK |    |     |     | 
 Finnish    | fi | OK  |     |    | OK |    |     |     | 
 French     | fr | OK  |     |    | OK |    |     |     | 
 Hebrew     | he | OK  |     |    | OK |    |     |     | 
