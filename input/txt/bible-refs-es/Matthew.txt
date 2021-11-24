@@ -1,0 +1,1944 @@
+Matthew	1:1	#	136:1.1/#	Hijo de David	R	#
+Matthew	1:1,6-17	#	121:8.4/#	Linaje de David	R	#
+Matthew	1:1-16	#	122:4.3/#	José no descendía de la línea davídica	C	#
+Matthew	1:1-16	#	122:4.4/#	Equivocación de las genealogías	S	#
+Matthew	1:1-16	#	122:1.1/#	Linaje de José	S	#
+Matthew	1:14-15	#	191:6.3/#	El evangelio del reino	C	#
+Matthew	1:14-15	#	196:2.6/#	El evangelio del reino	C	#
+Matthew	1:14-16	#	122:4.3/#	Antepasado adoptado	C	#
+Matthew	1:16-21,24-25	#	122:1.3/#	Los padres de Jesús	S	#
+Matthew	1:18-21,24-25	#	122:5.9/#	La boda de los padres de Jesús	S	#
+Matthew	1:20	#	86:5.7/#	Dios «habla» en sueños	C	#
+Matthew	1:20,24	#	37:2.3/#	El ángel del Señor	R	#
+Matthew	1:20-21,24	#	122:4.1/#	El sueño de José	S	#
+Matthew	1:21	#	190:5.4/#	Nos salvará de los pecados	C	#
+Matthew	1:21,25	#	122:3.1/#	El nombre de Jesús	S	#
+Matthew	1:22-23	#	121:8.4/#	Citas de profecías Is 7:14	R	#
+Matthew	1:22-23	#	122:4.4/#	Nacimiento no virginal	C	#
+Matthew	1:22-23	#	122:4.4/#	Profecía mesiánica: Is 7:14	R	#
+Matthew	1:23	#	128:1.10/#	Dios con nosotros	C	#
+Matthew	1:24	#	122:7.1/#	José y María se casan	S	#
+Matthew	1:25b	#	122:8.1/#	Nacimiento de Jesús	S	#
+Matthew	2:1	#	51:3.9/#	Cristo Miguel	C	#
+Matthew	2:1	#	121:2.9/#	El rey Herodes	S	#
+Matthew	2:1-2	#	150:3.2/#	Supersticiones con las estrellas	C	#
+Matthew	2:1-2,11	#	122:8.5/#	Visita de los hombres sabios	S	#
+Matthew	2:1-3,	#	122:10.1/#	Herodes ordena que se presenten los sabios	S	#
+Matthew	2:1-12	#	119:7.5/#	Visita de los magos	C	#
+Matthew	2:1-12	#	122:8.6/#	Visita de los hombres sabios	S	#
+Matthew	2:2	#	90:2.7/#	La buena estrella	C	#
+Matthew	2:2,7,9-10	#	122:8.7/#	No hubo estrella en Belén	S	#
+Matthew	2:5-6	#	122:4.4/#	Profecía mesiánica: Mi 5:2	R	#
+Matthew	2:5-6	#	121:8.4/#	Citas de profecías Mi 5:2	R	#
+Matthew	2:7,9-10	#	90:2.5/#	Astrología	C	#
+Matthew	2:7-9a	#	122:10.1/#	Herodes envía a los sabios a buscar al niño	S	#
+Matthew	2:11	#	122:1.3/#	Los padres de Jesús	S	#
+Matthew	2:13	#	122:10.4/#	El aviso	S	#
+Matthew	2:13,19	#	37:2.3/#	El ángel del Señor	R	#
+Matthew	2:14	#	122:10.4/#	Huida a Egipto	S	#
+Matthew	2:14	#	95:5.2/#	Jesús en Egipto	C	#
+Matthew	2:15	#	121:8.4/#	Citas de profecías Ho 11:1	R	#
+Matthew	2:15	#	122:4.4/#	Profecía mesiánica: Ho 11:1	R	#
+Matthew	2:15a,19-21	#	122:10.4/#	Longitud de la estancia	S	#
+Matthew	2:16	#	122:10.3/#	Asesinato de los bebés varones	S	#
+Matthew	2:16a	#	122:10.1/#	Enfado de Herodes	S	#
+Matthew	2:17-18	#	121:8.4/#	Citas de profecías Je 31:15	R	#
+Matthew	2:17-18	#	122:4.4/#	Profecía mesiánica: Je 31:15	R	#
+Matthew	2:21	#	123:0.3/#	Retraso en el regreso	C	#
+Matthew	2:22-23	#	123:0.5/#	Elección de Nazaret como hogar	S	#
+Matthew	2:23	#	121:8.4/#	Citas de profecías Jg 13:5	R	#
+Matthew	2:23	#	122:4.4/#	Profecía mesiánica: Jg 13:5	R	#
+Matthew	3:1	#	135:2.3/#	«Desierto» de Judea	C	#
+Matthew	3:1	#	135:6.1/#	Juan comienza a predicar	S	#
+Matthew	3:1-2	#	170:1.3/#	El concepto de Juan el Bautista	S	#
+Matthew	3:1-2	#	169:4.6/#	Proclamación de Juan	S	#
+Matthew	3:1-2,5-6	#	134:9.8/#	Predicación de Juan	C	#
+Matthew	3:2	#	135:5.7/#	Juan predica el arrepentimiento	S	#
+Matthew	3:2	#	140:1.6/#	El reino está cerca	C	#
+Matthew	3:2	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	3:2	#	163:1.4/#	El reino de Dios/los cielos está cerca	S	#
+Matthew	3:2	#	34:6.13/#	Reino del cielo	C	#
+Matthew	3:2	#	137:7.13/#	Predicar buenas noticias	R	#
+Matthew	3:2	#	95:4.3/#	Apartarse de las palabras y actuar	R	#
+Matthew	3:2	#	170:5.19/#	El reino de Dios está cerca	R	#
+Matthew	3:2	#	136:1.5/#	Arrepentíos y bautizaos	R	#
+Matthew	3:2	#	135:6.2/#	El reino de los cielos está cerca	R	#
+Matthew	3:2	#	142:1.1/#	El reino del Cielo está a las puertas	C	#
+Matthew	3:2	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	3:2	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	3:2	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	3:2	#	134:9.8/#	El reino está cerca, arrepentíos	R	#
+Matthew	3:2	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	3:2	#	141:2.1/#	El reino de Dios ya está aquí	C	#
+Matthew	3:2	#	136:2.1/#	El reino de Dios está cerca	R	#
+Matthew	3:2	#	135:6.8/#	Lección para todos	S	#
+Matthew	3:2	#	153:2.4/#	El reino del Cielo	C	#
+Matthew	3:2	#	140:10.1/#	Juan os dió un bautismo de arrepentimiento	C	#
+Matthew	3:2	#	171:0.1/#	El reino de los cielos	C	#
+Matthew	3:2,7	#	138:8.8/#	El arrepentimiento, huir de la ira venidera	R	#
+Matthew	3:3	#	135:6.6/#	Respuesta de Juan	R	#
+Matthew	3:3	#	135:5.8/#	Anuncio de Juan	S	#
+Matthew	3:4	#	135:3.1/#	La dieta de Juan	S	#
+Matthew	3:4a	#	135:1.4/#	La forma de vestir de Juan	S	#
+Matthew	3:5-6	#	135:6.4/#	Bautizo para remisión de los pecados	R	#
+Matthew	3:6	#	156:2.7/#	Si confesáis vuestros pecados, están perdonados	C	#
+Matthew	3:6,11	#	85:4.1/#	Bautismo	C	#
+Matthew	3:6,11	#	87:6.5/#	Bautismo de agua	C	#
+Matthew	3:7	#	135:5.8/#	Huir de la ira venidera	R	#
+Matthew	3:7-10	#	135:6.7/#	El mensaje sin tacto de Juan	R	#
+Matthew	3:10	#	140:3.19/#	Requerimientos para dar buenos frutos	C	#
+Matthew	3:10	#	140:4.7/#	Necesidad de dar buen fruto	C	#
+Matthew	3:10	#	193:2.2/#	Se pide que produzcáis muchos frutos	S	#
+Matthew	3:11	#	135:7.2/#	Juan niega ser el Mesías	S	#
+Matthew	3:11	#	137:8.10/#	Bautismo de Juan en señal de arrepentimiento	S	#
+Matthew	3:11	#	144:6.9/#	El significado del bautismo	C	#
+Matthew	3:11	#	141:6.5/#	Bautismo con el espíritu	C	#
+Matthew	3:11	#	194:2.10/#	Bautismo del espíritu	C	#
+Matthew	3:11-12	#	135:7.2/#	Juan como precursor del Mesías	R	#
+Matthew	3:13-17	#	136:2.1/#	El bautismo de Jesús	S	#
+Matthew	3:14-15	#	135:8.5/#	Objeciones de Juan	S	#
+Matthew	3:16	#	136:2.4/#	Se abrieron los cielos	R	#
+Matthew	3:16	#	85:3.4/#	Paloma de la paz	C	#
+Matthew	3:16-17	#	135:8.6/#	Bautismo de Jesús y voz divina	S	#
+Matthew	3:16-17	#	135:9.7/#	Descenso del espíritu y voz	S	#
+Matthew	3:16-17	#	136:2.3/#	Ajustador Personalizado	S	#
+Matthew	3:17	#	136:2.3/#	Éste es mi Hijo amado	R	#
+Matthew	3:17	#	47:8.4/#	Éste es un hijo amado	R	#
+Matthew	3:17	#	136:2.5/#	Voz del Ajustador Personalizado	S	#
+Matthew	4:1	#	134:7.6/#	El ajustador conduce a Jesús a la montaña	S	#
+Matthew	4:1	#	136:4.8/#	Toma de decisiones	S	#
+Matthew	4:1-11	#	135:8.6/#	Cuarenta días solo	S	#
+Matthew	4:1-11	#	136:3.1/#	Los «cuarenta días»	S	#
+Matthew	4:1-11	#	120:2.2/#	Finalización de la rebelión	C	#
+Matthew	4:1-11	#	53:1.4/#	El demonio	C	#
+Matthew	4:1-11	#	53:8.3/#	Fin de la rebelión	C	#
+Matthew	4:1-11	#	136:4.5/#	Razón de la idea de los «cuarenta días»	C	#
+Matthew	4:2	#	136:4.3/#	Jesús no ayunó	C	#
+Matthew	4:2	#	134:8.3/#	¿Jesus ayunó o comió?	S	#
+Matthew	4:3	#	130:2.3/#	Evangelio del reino	C	#
+Matthew	4:3	#	136:6.1/#	La «tentación» para obtener comida	S	#
+Matthew	4:3-4	#	136:6.4/#	No sólo de pan vivirá el hombre	R	#
+Matthew	4:3-11	#	136:4.3/#	Las «tentaciones» ocurrieron anteriormente	C	#
+Matthew	4:3-11	#	134:8.6-8/#	Tentaciones de Jesús	S	#
+Matthew	4:4	#	160:3.1/#	No sólo de pan vive el hombre	R	#
+Matthew	4:5-6	#	136:8.5/#	Decide no caminar en el aire desde el templo	C	#
+Matthew	4:5-6	#	136:7.1/#	La «tentación» de saltar al vacío	S	#
+Matthew	4:6,11	#	167:7.4/#	Espíritus ministrantes	S	#
+Matthew	4:8	#	136:9.6/#	«Tentación» para controlar los reinos	S	#
+Matthew	4:10	#	53:1.4/#	Satanás	C	#
+Matthew	4:10	#	136:9.3/#	Servir sólo al Señor Dios	R	#
+Matthew	4:10	#	53:8.4/#	Ve detrás de mí, Satanás	R	#
+Matthew	4:10	#	133:4.9/#	Adora sólo a Dios	C	#
+Matthew	4:12,17	#	137:8.2/#	Jesús oye que Juan está en prisión	S	#
+Matthew	4:14-16	#	122:4.4/#	Profecía mesiánica: Is 9:1-2	R	#
+Matthew	4:14-16	#	121:8.4/#	Citas de profecías Is 9:1-2	R	#
+Matthew	4:16	#	107:4.5/#	Luminosidad espiritual	C	#
+Matthew	4:16	#	162:5.2/#	Jesús es la luz del mundo	S	#
+Matthew	4:16	#	40:5.16/#	Luz verdadera	C	#
+Matthew	4:16	#	155:6.3/#	De las tinieblas a la luz	C	#
+Matthew	4:16	#	149:2.6/#	Revelación de la luz de la vida	C	#
+Matthew	4:16	#	0:6.9/#	Luz espiritual	C	#
+Matthew	4:16	#	52:1.7/#	Iluminados por la verdadera luz	R	#
+Matthew	4:16	#	191:4.3/#	Luz en las tinieblas espirituales	S	#
+Matthew	4:16	#	162:5.3/#	Muchos prefieren permanecer en las tinieblas	S	#
+Matthew	4:17	#	163:1.4/#	El reino de Dios/los cielos está cerca	S	#
+Matthew	4:17	#	140:1.6/#	El reino está cerca	C	#
+Matthew	4:17	#	137:8.15/#	El reino está cerca	S	#
+Matthew	4:17	#	95:4.3/#	Apartarse de las palabras y actuar	R	#
+Matthew	4:17	#	34:6.13/#	Reino del cielo	C	#
+Matthew	4:17	#	142:1.1/#	El reino del Cielo está a las puertas	C	#
+Matthew	4:17	#	171:0.1/#	El reino de los cielos	C	#
+Matthew	4:17,23	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	4:17,23	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	4:17,23	#	170:1.4/#	Jesús enseñó ambos puntos de vista	S	#
+Matthew	4:17,23	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	4:17,23	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	4:17,23	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	4:17,23	#	141:2.1/#	El reino de Dios ya está aquí	C	#
+Matthew	4:17,23	#	153:2.4/#	El reino del Cielo	C	#
+Matthew	4:18	#	145:1.1/#	Simón y David	C	#
+Matthew	4:18	#	139:1.1/#	Andrés	S	#
+Matthew	4:18-19	#	139:1.4/#	Andrés lleva a Jesús a su hermano Simón	S	#
+Matthew	4:18-20	#	137:1.1/#	Selección de Andrés	S	#
+Matthew	4:18-20	#	139:2.1/#	Simón se une a los apóstoles	C	#
+Matthew	4:18-20	#	137:1.3/#	Selección de Simón Pedro	S	#
+Matthew	4:18-20	#	132:0.5/#	Selección de Pedro	C	#
+Matthew	4:19	#	196:0.13/#	La exigencia suprema: «Sígueme»	S	#
+Matthew	4:19	#	138:7.6/#	Los apóstoles como pescadores de hombres	C	#
+Matthew	4:19-20	#	145:1.2/#	Pescadores de hombres	C	#
+Matthew	4:21-22	#	139:4.1/#	Juan Zebedeo	S	#
+Matthew	4:21-22	#	139:3.1/#	Santiago Zebedeo	S	#
+Matthew	4:21-22	#	137:1.6/#	Selección de Santiago y Juan	S	#
+Matthew	4:23	#	196:2.6/#	El evangelio del reino	C	#
+Matthew	4:23	#	34:6.13/#	Reino	C	#
+Matthew	4:23	#	186:5.4/#	El evangelio del reino	C	#
+Matthew	4:23	#	176:1.1/#	Evangelio del reino	C	#
+Matthew	4:23	#	170:1.10/#	Evangelio del reino	R	#
+Matthew	4:23	#	160:3.5/#	Evangelio del reino	R	#
+Matthew	4:23	#	146:4.4/#	El evangelio del reino	S	#
+Matthew	4:23	#	137:8.2/#	Evangelio del reino	S	#
+Matthew	4:23	#	145:5.8/#	Comienzo de la primera gira de predicación	S	#
+Matthew	4:23	#	150:5.2/#	Evangelio del reino	C	#
+Matthew	4:23	#	191:6.3/#	El evangelio del reino	C	#
+Matthew	4:23	#	138:6.3/#	El evangelio del reino	C	#
+Matthew	4:23	#	139:7.6/#	Evangelio del reino	C	#
+Matthew	4:23	#	140:0.1/#	El evangelio del reino	C	#
+Matthew	4:23	#	194:0.1/#	El evangelio del reino	C	#
+Matthew	4:23	#	137:2.2/#	Jesús en Galilea	S	#
+Matthew	4:23	#	141:2.2/#	Evangelio del reino	C	#
+Matthew	4:23	#	100:7.12/#	Evangelio del reino	C	#
+Matthew	4:24	#	77:7.6/#	Le trajeron enfermos	R	#
+Matthew	5:1	#	140:0.1/#	Sermón de la ordenación	S	#
+Matthew	5:2	#	140:3.1/#	Jesús comienza el sermón de la ordenación	S	#
+Matthew	5:3	#	140:3.3/#	Bienaventurados los pobres de espíritu	S	#
+Matthew	5:3	#	140:5.7/#	Los pobres de espíritu, los humildes	S	#
+Matthew	5:3	#	196:2.8/#	Bienaventurados los pobres	S	#
+Matthew	5:3,10,19-20	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	5:3,10,19-20	#	171:0.1/#	El reino de los cielos	C	#
+Matthew	5:3,10,19-20	#	34:6.13/#	Reino del cielo	C	#
+Matthew	5:3,10,19-20	#	153:2.4/#	El reino del Cielo	C	#
+Matthew	5:3,10,19-20	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	5:3,10,19-20	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	5:3,10,19-20	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	5:3,10,19-20	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	5:3-7:23	#	170:2.4/#	Una nueva vara ética	S	#
+Matthew	5:4	#	140:3.8/#	Bienaventurados los afligidos	S	#
+Matthew	5:4	#	190:5.4/#	Él consolará a los afligidos	C	#
+Matthew	5:4	#	140:5.16/#	Los afligidos serán confortados	C	#
+Matthew	5:4	#	160:2.9/#	Bienaventurados los que están de luto	R	#
+Matthew	5:5	#	140:5.11/#	Los mansos heredarán la Tierra	S	#
+Matthew	5:5	#	140:3.5/#	Bienaventurados los mansos	S	#
+Matthew	5:6	#	190:5.4/#	Sed de rectitud	S	#
+Matthew	5:6	#	170:5.13/#	Hambre y sed de rectitud	S	#
+Matthew	5:6	#	110:3.7/#	Escogiendo la guía divina	C	#
+Matthew	5:6	#	156:5.7/#	Hambre de rectitud	C	#
+Matthew	5:6	#	140:3.4/#	Bienaventurados los que tienen hambre y sed de rectitud	S	#
+Matthew	5:6	#	140:5.8/#	Los hambrientos y sedientos de rectitud	S	#
+Matthew	5:6	#	170:2.18/#	Hambre de la verdad	S	#
+Matthew	5:6	#	193:2.2/#	Hambrientos y sedientos (de Dios)	S	#
+Matthew	5:6,20,33	#	170:3.2/#	También se necesita la rectitud	S	#
+Matthew	5:7	#	159:1.5/#	Dios es misericordioso con los que tienen misericordia	C	#
+Matthew	5:7	#	140:3.9/#	Bienaventurados los misericordiosos	S	#
+Matthew	5:7	#	140:5.17/#	Los misericordiosos obtendrán misericordia	C	#
+Matthew	5:8	#	140:5.12/#	Los puros de corazón	S	#
+Matthew	5:8	#	140:3.6/#	Bienaventurados los limpios de corazón	S	#
+Matthew	5:9	#	140:3.10/#	Bienaventurados los pacificadores	S	#
+Matthew	5:9	#	140:5.18/#	Los pacificadores serán llamados hijos de Dios	C	#
+Matthew	5:9,16,16,45	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
+Matthew	5:9,16,45	#	181:2.12/#	Los creyentes, hijos de Dios	C	#
+Matthew	5:9,16,45	#	140:1.6/#	Hijos del Dios viviente	C	#
+Matthew	5:9,16,45	#	140:3.16/#	Hijos del Dios viviente	C	#
+Matthew	5:9,16,45	#	149:2.10/#	Hijos del Dios viviente	C	#
+Matthew	5:9,16,45	#	196:0.2/#	Cada criatura mortal es un hijo de Dios	C	#
+Matthew	5:9,16,45	#	131:10.2/#	Somos los hijos de Dios	C	#
+Matthew	5:9,16,45	#	153:2.4/#	Fraternidad de los hijos de Dios	C	#
+Matthew	5:9,16,45	#	181:2.14/#	Los creyentes son hijos de Dios	C	#
+Matthew	5:9,16,45	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
+Matthew	5:9,16,45	#	170:2.8/#	Los hijos salvados de Dios	S	#
+Matthew	5:9,16,45	#	2:5.4/#	Somos hijos de Dios	C	#
+Matthew	5:9,16,45	#	141:2.2/#	Hijos de Dios por la fe	C	#
+Matthew	5:9,16,45	#	131:10.6/#	Relación entre padre e hijo	C	#
+Matthew	5:9,16,45	#	142:5.2/#	Hijos de Dios	C	#
+Matthew	5:9,16,45	#	8:6.4/#	Hijos de Dios	C	#
+Matthew	5:9,16,45	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
+Matthew	5:9,16,45	#	1:3.1/#	Progenie de Dios	C	#
+Matthew	5:9,16,45	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
+Matthew	5:9,16,45	#	190:3.1/#	El evangelio de la filiación	C	#
+Matthew	5:9,16,45	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
+Matthew	5:9,16,45	#	193:1.2/#	Todos los hombres son hijos de Dios	C	#
+Matthew	5:9,16,45	#	34:6.10/#	Hijos de Dios	C	#
+Matthew	5:9,16,45	#	149:6.8/#	Nosotros somos sus hijos	C	#
+Matthew	5:9,16,45	#	131:10.8/#	La relación de padre e hijo	C	#
+Matthew	5:9,16,45	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
+Matthew	5:9,16,45	#	5:4.8/#	Somos hijos de Dios	C	#
+Matthew	5:9,16,45	#	143:2.7/#	Los hijos liberados de Dios	C	#
+Matthew	5:9,16,45	#	170:2.20/#	Hijos de Dios liberados	C	#
+Matthew	5:9,16,45	#	170:2.20/#	Hijos de Dios	S	#
+Matthew	5:9,16,45	#	40:6.1/#	Hijos de Dios por la fe	C	#
+Matthew	5:9,16,45	#	141:4.2/#	Somos los hijos de Dios	C	#
+Matthew	5:9,16,45,48	#	149:6.8/#	Dios es nuestro Padre	C	#
+Matthew	5:9,16,45,48	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
+Matthew	5:9,16,45,48	#	142:3.8/#	El Padre que está en los Cielos	C	#
+Matthew	5:9,16,45,48	#	131:10.5/#	Dios es «mi» padre	C	#
+Matthew	5:10	#	143:1.6/#	Exigencia de un servicio valiente	C	#
+Matthew	5:10-12	#	140:3.11/#	Bienaventurados los perseguidos	S	#
+Matthew	5:10-12a	#	140:5.20/#	Los perseguidos por su rectitud	C	#
+Matthew	5:10-16	#	170:2.7/#	La recompensa de la honradez	S	#
+Matthew	5:12	#	100:7.13/#	Regocijaos y estad llenos de alegría	R	#
+Matthew	5:13	#	140:3.12/#	Sois la sal de la Tierra	S	#
+Matthew	5:13	#	140:4.2/#	Vosotros sois la sal de la Tierra	S	#
+Matthew	5:13	#	171:2.5/#	Sal que ha perdido su sabor	S	#
+Matthew	5:14-16	#	140:4.4/#	Vosotros sois la luz del mundo	S	#
+Matthew	5:14-16	#	107:4.5/#	Luminosidad espiritual	C	#
+Matthew	5:14-16	#	140:3.13/#	Vosotros sois la luz del mundo	S	#
+Matthew	5:14-16	#	0:6.9/#	Luz espiritual	C	#
+Matthew	5:15-16a	#	151:3.1/#	Dejad que la luz brille con discreción	C	#
+Matthew	5:16,16,45,48	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
+Matthew	5:16,45	#	96:1.9/#	Padre que está en los Cielos	C	#
+Matthew	5:16,45,48	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
+Matthew	5:16,45,48	#	100:7.16/#	Padre nuestro que estás en los cielos	C	#
+Matthew	5:16,45,48	#	141:4.2/#	Dios es nuestro Padre	C	#
+Matthew	5:16,45,48	#	196:0.2/#	El Padre del cielo	C	#
+Matthew	5:17	#	140:6.2/#	No vengo a transgredir la ley, sino a completarla	C	#
+Matthew	5:20	#	140:6.3/#	Una rectitud mayor	C	#
+Matthew	5:20	#	170:3.1/#	Rectitud por la fe	S	#
+Matthew	5:21	#	140:6.4/#	Habéis oído «No matarás»	R	#
+Matthew	5:21	#	162:2.1/#	No matarás	R	#
+Matthew	5:21-22	#	140:6.4/#	Un nuevo mandamiento	S	#
+Matthew	5:27-28	#	140:6.5/#	Pero yo os digo «La lujuria es adulterio»	C	#
+Matthew	5:31-32	#	140:6.6/#	Respecto al divorcio	C	#
+Matthew	5:38	#	140:8.5/#	Ojo por ojo y diente por diente	S	#
+Matthew	5:38	#	70:10.9/#	Ojo por ojo	C	#
+Matthew	5:38	#	140:6.9/#	Ojo por ojo y diente por diente	S	#
+Matthew	5:38-41	#	195:10.5/#	La segunda legua	S	#
+Matthew	5:38-42	#	140:6.9/#	Devolver el bien por el mal	S	#
+Matthew	5:38-45	#	131:10.5/#	Haz a otros como Dios haría	C	#
+Matthew	5:38-48	#	159:5.13/#	Forma positiva de la regla de oro	S	#
+Matthew	5:39	#	140:3.14/#	Estad dispuestos a la injusticia	S	#
+Matthew	5:39	#	159:5.9/#	Poner la otra mejilla	R	#
+Matthew	5:39	#	188:5.2/#	Destruir el mal con la bondad	S	#
+Matthew	5:39-42	#	140:8.7/#	Futilidad de devolver mal con mal	S	#
+Matthew	5:39-42	#	141:3.8/#	No resistáis al mal	R	#
+Matthew	5:40	#	159:5.11/#	Dar el manto	S	#
+Matthew	5:41	#	159:5.12/#	Recorrer la segunda milla	S	#
+Matthew	5:43,44	#	191:4.3/#	Amarse unos a otros	S	#
+Matthew	5:43-44	#	178:1.17/#	Amaros los unos a los otros	C	#
+Matthew	5:43-44	#	140:8.6/#	Amad a vuestros enemigos	S	#
+Matthew	5:43-44	#	174:4.2/#	Ama a tu prójimo como a ti	S	#
+Matthew	5:43-44	#	110:3.9/#	Amando a los hombres	C	#
+Matthew	5:43-44	#	142:3.22/#	Amar a Dios y al prójimo	C	#
+Matthew	5:43-44	#	159:5.4/#	Ama a tu prójimo como a ti	R	#
+Matthew	5:43-44	#	142:4.2/#	Amar a Dios y al prójimo	C	#
+Matthew	5:43-44	#	103:5.2/#	Amar al prójimo como a sí mismo	C	#
+Matthew	5:43-44	#	170:3.6/#	Amar al prójimo	S	#
+Matthew	5:43-44	#	163:4.8/#	Ama a tu prójimo como a ti mismo	S	#
+Matthew	5:43-44	#	180:5.7/#	Amar al prójimo como a uno mismo	S	#
+Matthew	5:43-44	#	159:5.9/#	Ama a tu prójimo como a ti mismo	R	#
+Matthew	5:43-44	#	131:2.11/#	Ama a tu prójimo como a ti mismo	R	#
+Matthew	5:43-44	#	131:10.2/#	Amar al prójimo como a uno mismo	C	#
+Matthew	5:43-44	#	131:2.13/#	Ama a tu prójimo como a ti mismo	R	#
+Matthew	5:43-44	#	142:1.1/#	Amar al prójimo como a sí mismo	C	#
+Matthew	5:43-44:	#	181:2.4/#	Amarse uno a otro	S	#
+Matthew	5:43-45	#	195:10.4/#	Dios es un espíritu amoroso	C	#
+Matthew	5:43-45a	#	194:3.11/#	Vencer el odio con el amor	S	#
+Matthew	5:43-48	#	143:1.4/#	Dios gobierna mediante el amor	C	#
+Matthew	5:43-48	#	156:5.11/#	El amor divino	C	#
+Matthew	5:43-48	#	143:1.6/#	Dios de amor	C	#
+Matthew	5:44	#	103:5.2/#	Amar a los enemigos	C	#
+Matthew	5:44	#	131:10.8/#	Ama a tus enemigos	C	#
+Matthew	5:44	#	178:1.17/#	Tened misericordia con los abusones maliciosos	S	#
+Matthew	5:44	#	174:0.2/#	Ama a tus enemigos	S	#
+Matthew	5:44	#	140:3.15/#	Ama a tus enemigos	S	#
+Matthew	5:44	#	146:2.11/#	Orad por vuestros enemigos	S	#
+Matthew	5:45	#	140:3.16/#	El Padre trae el sol y la lluvia	S	#
+Matthew	5:45	#	2:5.1/#	Hace salir el sol sobre buenos y malos	R	#
+Matthew	5:45,48	#	120:2.8/#	Jesús dedicado a revelar a Dios a la humanidad	C	#
+Matthew	5:45,48	#	153:2.4/#	Jesús ha venido para revelar al Padre	C	#
+Matthew	5:45-48	#	169:4.2/#	El Padre revelado por el Hijo	S	#
+Matthew	5:45-48	#	16:9.6/#	Jesús reveló Dios al hombre	C	#
+Matthew	5:45-48	#	165:3.8/#	He venido a revelaros al Padre	C	#
+Matthew	5:45-48	#	20:10.3/#	Los Hijos Creadores revelan al Padre	C	#
+Matthew	5:45b	#	166:4.4/#	El sol brilla sobre todos	S	#
+Matthew	5:48	#	140:10.1/#	Sed perfectos	C	#
+Matthew	5:48	#	26:4.5/#	Sed perfectos	R	#
+Matthew	5:48	#	56:0.1/#	Sed perfectos como yo soy	R	#
+Matthew	5:48	#	140:5.15/#	Sed perfectos	R	#
+Matthew	5:48	#	161:1.10/#	Sed perfectos	C	#
+Matthew	5:48	#	142:7.13/#	Sed perfectos	C	#
+Matthew	5:48	#	26:9.3/#	Sed perfectos	R	#
+Matthew	5:48	#	26:11.4/#	Sed perfectos	R	#
+Matthew	5:48	#	181:1.2/#	Convertirse en perfectos espiritualmente	C	#
+Matthew	5:48	#	140:3.16/#	Sed perfectos	C	#
+Matthew	5:48	#	40:7.4/#	Sed perfectos	R	#
+Matthew	5:48	#	137:8.13/#	Sed perfectos	S	#
+Matthew	5:48	#	181:2.25/#	Perfecionarse espiritualmente	C	#
+Matthew	5:48	#	107:0.3/#	Sed perfectos	C	#
+Matthew	5:48	#	140:4.11/#	Sed perfectos	C	#
+Matthew	5:48	#	31:3.6/#	Sed perfectos	R	#
+Matthew	5:48	#	13:2.8/#	Ser perfectos	C	#
+Matthew	5:48	#	131:2.6/#	Sé perfecto	R	#
+Matthew	5:48	#	37:5.3/#	Sed perfectos	R	#
+Matthew	5:48	#	7:4.7/#	Sed perfectos	R	#
+Matthew	5:48	#	143:2.6/#	Buscad la perfección	C	#
+Matthew	5:48	#	1:0.3/#	Sed perfectos	C	#
+Matthew	5:48	#	106:2.6/#	Sed perfectos	C	#
+Matthew	5:48	#	1:0.6/#	Sed perfectos	C	#
+Matthew	5:48	#	99:5.3/#	Sed perfectos	C	#
+Matthew	5:48	#	7:5.1/#	Sed perfectos	R	#
+Matthew	5:48	#	140:8.32/#	Sed perfectos	C	#
+Matthew	6:1,4,6	#	16:9.6/#	Jesús reveló Dios al hombre	C	#
+Matthew	6:1,4,6	#	165:3.8/#	He venido a revelaros al Padre	C	#
+Matthew	6:1,4,6	#	153:2.4/#	Jesús ha venido para revelar al Padre	C	#
+Matthew	6:1,4,6	#	169:4.2/#	El Padre revelado por el Hijo	S	#
+Matthew	6:1,4,6	#	120:2.8/#	Jesús dedicado a revelar a Dios a la humanidad	C	#
+Matthew	6:1,4,6	#	20:10.3/#	Los Hijos Creadores revelan al Padre	C	#
+Matthew	6:1,9,14	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
+Matthew	6:1,9,14	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
+Matthew	6:1,9,14	#	131:10.6/#	Relación entre padre e hijo	C	#
+Matthew	6:1,9,14	#	141:4.2/#	Dios es nuestro Padre	C	#
+Matthew	6:1,9,14	#	142:3.8/#	El Padre que está en los Cielos	C	#
+Matthew	6:1,9,14	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
+Matthew	6:1,9,14	#	149:6.8/#	Dios es nuestro Padre	C	#
+Matthew	6:1,9,14	#	131:10.8/#	La relación de padre e hijo	C	#
+Matthew	6:1,9,14	#	131:10.5/#	Dios es «mi» padre	C	#
+Matthew	6:1,9,14,	#	196:0.2/#	El Padre del cielo	C	#
+Matthew	6:1,14,26,32	#	100:7.16/#	Nuestro Padre del Cielo	C	#
+Matthew	6:1-3	#	140:8.26/#	La verdadera bondad es inconsciente	C	#
+Matthew	6:1-4	#	140:6.11/#	Haced buenas acciones en secreto	S	#
+Matthew	6:1-4	#	131:10.8/#	Haz el bien en secreto	C	#
+Matthew	6:5-6	#	131:10.8/#	Ora cuando estés solo	C	#
+Matthew	6:5-7	#	140:6.11/#	Orad a solas	S	#
+Matthew	6:6	#	144:3.5/#	Orad en secreto	S	#
+Matthew	6:6	#	146:2.12/#	Orad en secreto	S	#
+Matthew	6:7-8a	#	146:2.15/#	Oraciones elocuentes y adornadas	S	#
+Matthew	6:8	#	3:3.2/#	Sabe lo que necesitáis antes de que lo pidáis	R	#
+Matthew	6:9	#	1:1.5/#	Llamar a Dios «nuestro Padre»	R	#
+Matthew	6:9	#	100:7.16/#	Nuestro Padre del Cielo	R	#
+Matthew	6:9	#	177:2.7/#	Orad así «Padre nuestro...»	S	#
+Matthew	6:9	#	1:1.1/#	Llamar a Dios «Padre»	C	#
+Matthew	6:9-10	#	136:2.4/#	La oración de Jesús	R	#
+Matthew	6:9-13	#	144:3.3/#	La oración del Señor	S	#
+Matthew	6:9-13	#	126:3.3/#	Oración del Padrenuestro	R	#
+Matthew	6:9-13	#	91:8.6/#	Oración personal	C	#
+Matthew	6:9a	#	144:3.2/#	Jesús responde	S	#
+Matthew	6:10	#	196:0.8/#	La voluntad de Dios	R	#
+Matthew	6:10	#	170:2.11/#	Que venga tu reino; que se haga tu voluntad	S	#
+Matthew	6:10	#	118:8.11/#	Es mi voluntad que se haga tu voluntad	R	#
+Matthew	6:10	#	117:0.1/#	Hacer la voluntad de Dios	C	#
+Matthew	6:10	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
+Matthew	6:10	#	131:10.2/#	Viviendo su voluntad podemos revelarlo	C	#
+Matthew	6:10	#	141:2.2/#	Cuando la voluntad del Padre se convierta en vuestra voluntad	C	#
+Matthew	6:10	#	135:5.2/#	El Mesías gobierna cielo y tierra	R	#
+Matthew	6:10	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
+Matthew	6:10	#	140:5.11/#	Hágase tu voluntad	R	#
+Matthew	6:10	#	196:0.2/#	Hacer la voluntad del Padre de los cielos	R	#
+Matthew	6:10	#	195:6.16/#	Hacer la voluntad del Padre	R	#
+Matthew	6:10	#	160:1.11/#	«Que no se haga mi voluntad, sino la tuya»	R	#
+Matthew	6:10	#	0:5.10/#	Hacer la voluntad del Padre	R	#
+Matthew	6:10	#	196:0.8/#	La voluntad de Dios	R	#
+Matthew	6:10	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
+Matthew	6:10	#	140:8.20/#	Haced voluntariamente la «voluntad» de Dios	C	#
+Matthew	6:12,14-15	#	170:3.4/#	Somos perdonados en tanto perdonamos	S	#
+Matthew	6:12,14-15	#	133:4.7/#	Justicia, equidad, misericordia	C	#
+Matthew	6:12,14-15	#	188:4.13/#	Perdona nuestras deudas, como nosotros perdonamos a nuestros deudores	R	#
+Matthew	6:12,14-15	#	146:2.4/#	El perdón	C	#
+Matthew	6:13	#	121:5.11/#	Liberación del mal	C	#
+Matthew	6:13	#	87:5.4/#	Líbranos del mal de ojo	R	#
+Matthew	6:13a	#	156:5.3/#	No nos dejes caer en la tentación	R	#
+Matthew	6:13b	#	144:3.6/#	Adición de tuyo es el poder y la gloria	R	#
+Matthew	6:14	#	139:2.5/#	Ternura, misericordia	S	#
+Matthew	6:14-15	#	159:1.5/#	Dios es misericordioso con los que tienen misericordia	C	#
+Matthew	6:16-18	#	140:6.11/#	No ayunéis con aspecto triste	S	#
+Matthew	6:19-20	#	48:1.7/#	Una mejor sustancia en el cielo	R	#
+Matthew	6:19-20	#	133:4.6/#	Lo temporal contra lo espiritual	C	#
+Matthew	6:19-21	#	140:6.11/#	Guardad tesoros en el cielo	S	#
+Matthew	6:19-21	#	169:2.2/#	Sabios espiritualmente	S	#
+Matthew	6:19-21	#	165:5.4/#	Que donde esté vuestro tesoro esté vuestro corazón	S	#
+Matthew	6:19-21	#	170:2.5/#	Lo espiritual sobre lo físico	S	#
+Matthew	6:19-21	#	170:2.6/#	Logro espiritual	S	#
+Matthew	6:19-21	#	165:4.5/#	Un tesoro en el Cielo	S	#
+Matthew	6:22-23	#	140:6.12/#	El ojo es la lámpara del cuerpo	S	#
+Matthew	6:22-23	#	86:5.11/#	Los ojos son las ventanas del alma	C	#
+Matthew	6:24	#	140:6.13/#	Ningún hombre puede servir a dos señores	S	#
+Matthew	6:24	#	163:2.10/#	El amor a la riqueza	S	#
+Matthew	6:24	#	169:2.7/#	Nadie puede servir a dos maestros	S	#
+Matthew	6:24	#	109:5.4/#	No se puede servir a dos señores	C	#
+Matthew	6:25,31-32	#	140:6.13/#	No os angustiéis por el mañana	S	#
+Matthew	6:25-27	#	165:5.2/#	Dios provee	S	#
+Matthew	6:25-34	#	140:8.8/#	Tened fe	S	#
+Matthew	6:25-34	#	100:2.7/#	Para un creyente que conoce a Dios	R	#
+Matthew	6:26,32	#	142:3.8/#	El Padre que está en los Cielos	C	#
+Matthew	6:26,32	#	131:10.8/#	La relación de padre e hijo	C	#
+Matthew	6:26,32	#	149:6.8/#	Dios es nuestro Padre	C	#
+Matthew	6:26,32	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
+Matthew	6:26,32	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
+Matthew	6:26,32	#	131:10.5/#	Dios es «mi» padre	C	#
+Matthew	6:26,32	#	131:10.6/#	Relación entre padre e hijo	C	#
+Matthew	6:26,32	#	196:0.2/#	El Padre del cielo	C	#
+Matthew	6:26,32	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
+Matthew	6:26:32	#	141:4.2/#	Dios es nuestro Padre	C	#
+Matthew	6:28-30	#	165:5.3/#	Oh, hombres de poca fe	S	#
+Matthew	6:31	#	165:5.2/#	No estéis ansiosos por las cosas	S	#
+Matthew	6:31-32	#	165:5.3/#	El Padre provee de las necesidades	S	#
+Matthew	6:32	#	140:6.11/#	Dios sabe lo que necesitamos antes de pedírselo	S	#
+Matthew	6:33	#	137:8.8/#	Buscar primero el reino	S	#
+Matthew	6:33	#	174:0.2/#	Busca las verdaderas realidades del espíritu	S	#
+Matthew	6:33	#	141:2.1/#	El reino de Dios ya está aquí	C	#
+Matthew	6:33	#	195:5.1/#	Buscar el reino de Dios	S	#
+Matthew	6:33	#	169:4.6/#	El reino de Dios	S	#
+Matthew	6:33	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	6:33	#	34:6.13/#	El reino de Dios	C	#
+Matthew	6:33	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	6:33	#	110:3.7/#	Escogiendo la guía divina	C	#
+Matthew	6:33	#	153:2.4/#	Reino de Dios	C	#
+Matthew	6:33	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	6:33	#	196:0.8/#	Buscad primero el reino de los cielos	R	#
+Matthew	6:33	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	6:33	#	140:1.5/#	Buscad primero el reino	S	#
+Matthew	6:33-34	#	140:6.13/#	Buscad primero el reino	S	#
+Matthew	6:33-34	#	165:5.3/#	Las necesidades reales serán satisfechas	S	#
+Matthew	7:1	#	140:8.12/#	No juzguéis, para no ser juzgados	R	#
+Matthew	7:1-2	#	140:3.17/#	Salvad a los hombres, no los juzguéis	S	#
+Matthew	7:1-2	#	131:10.8/#	No juzgues	C	#
+Matthew	7:1-2	#	146:2.6/#	No juzguéis, para no ser juzgados	S	#
+Matthew	7:2	#	133:4.7/#	Judga justamente	C	#
+Matthew	7:3-5	#	140:3.17/#	La mota en el ojo ajeno y la viga en el propio	S	#
+Matthew	7:6	#	186:2.2/#	No había que echar perlas a los cerdos	S	#
+Matthew	7:6	#	140:3.18/#	No arrojéis vuestras perlas a los cerdos	S	#
+Matthew	7:6	#	140:10.4/#	Arrojar nuestras perlas a los cerdos	S	#
+Matthew	7:7	#	131:10.5/#	Pide y se te dará	C	#
+Matthew	7:7-8	#	144:2.3/#	El que pide, recibe	S	#
+Matthew	7:7-8	#	168:4.13/#	Pedid y recibiréis	S	#
+Matthew	7:7-8	#	130:8.2/#	Busca y encontrarás	C	#
+Matthew	7:7-8	#	167:5.2/#	Pedid y recibiréis; buscad y encontraréis	S	#
+Matthew	7:7-11	#	146:2.7/#	Cuándo son contestadas las súplicas	C	#
+Matthew	7:8	#	100:7.10/#	Pues todo aquel que busca, recibirá	R	#
+Matthew	7:9-11	#	144:2.4/#	Regalos apropiados para un hijo	S	#
+Matthew	7:11	#	131:10.6/#	Relación entre padre e hijo	C	#
+Matthew	7:11	#	131:10.3/#	Si los padres terrenales aman, cuánto más Dios	C	#
+Matthew	7:11	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
+Matthew	7:11	#	131:10.8/#	La relación de padre e hijo	C	#
+Matthew	7:11	#	149:6.8/#	Dios es nuestro Padre	C	#
+Matthew	7:11	#	170:2.20/#	La hermandad de la familia de Dios	C	#
+Matthew	7:11	#	141:4.2/#	Dios es nuestro Padre	C	#
+Matthew	7:11	#	131:10.5/#	Dios es «mi» padre	C	#
+Matthew	7:11,21	#	196:0.2/#	El Padre del cielo	C	#
+Matthew	7:11,21	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
+Matthew	7:11,21	#	142:3.8/#	El Padre que está en los Cielos	C	#
+Matthew	7:11,21	#	100:7.16/#	Padre nuestro que estás en los cielos	C	#
+Matthew	7:11,21	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
+Matthew	7:12	#	180:5.5/#	La regla de oro	S	#
+Matthew	7:12	#	103:5.1/#	La Regla de Oro procedente del Ajustador	C	#
+Matthew	7:12	#	178:1.12/#	La regla de oro	S	#
+Matthew	7:12	#	140:3.15/#	La regla de oro	S	#
+Matthew	7:12	#	140:10.5/#	La regla de oro de Jesús, en modo positivo	S	#
+Matthew	7:12	#	159:5.13/#	Forma positiva de la regla de oro	S	#
+Matthew	7:12	#	147:4.3/#	La regla de oro	S	#
+Matthew	7:12	#	131:10.7/#	La regla de oro	C	#
+Matthew	7:12	#	147:4.1/#	La regla de oro	S	#
+Matthew	7:12	#	132:5.10/#	La regla de oro	C	#
+Matthew	7:13-14	#	166:3.3/#	El camino ancho y el estrecho	S	#
+Matthew	7:15	#	163:1.3/#	Os envío como corderos entre lobos	S	#
+Matthew	7:15,22-23	#	140:10.4/#	Los falsos profetas	S	#
+Matthew	7:15,22-23	#	140:3.19/#	Advertencia contra los falsos profetas	S	#
+Matthew	7:15-19	#	142:5.2/#	Judgad por los frutos del espíritu	C	#
+Matthew	7:16-20	#	5:2.4/#	Por sus frutos los conoceréis	R	#
+Matthew	7:16-20	#	193:2.2/#	Se pide que produzcáis muchos frutos	S	#
+Matthew	7:16-20	#	153:4.4/#	El árbol bueno se conoce por sus frutos	S	#
+Matthew	7:16-20	#	135:6.7/#	Dar buen fruto	R	#
+Matthew	7:16-20	#	140:4.7/#	Por sus frutos los conoceréis	S	#
+Matthew	7:16-20	#	140:3.19/#	Por sus frutos los conoceréis	S	#
+Matthew	7:19	#	140:4.7/#	El árbol estéril será talado	S	#
+Matthew	7:20-21	#	159:5.8/#	Jesús enseña la acción positiva	C	#
+Matthew	7:21	#	196:0.8/#	La voluntad de Dios	R	#
+Matthew	7:21	#	140:8.20/#	Haced voluntariamente la «voluntad» de Dios	C	#
+Matthew	7:21	#	131:10.2/#	Viviendo su voluntad podemos revelarlo	C	#
+Matthew	7:21	#	117:0.1/#	Hacer la voluntad de Dios	C	#
+Matthew	7:21	#	0:5.10/#	Hacer la voluntad del Padre	R	#
+Matthew	7:21	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
+Matthew	7:21	#	196:0.2/#	Hacer la voluntad del Padre de los cielos	R	#
+Matthew	7:21	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	7:21	#	118:8.11/#	Es mi voluntad que se haga tu voluntad	R	#
+Matthew	7:21	#	34:6.13/#	Reino del cielo	C	#
+Matthew	7:21	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	7:21	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	7:21	#	195:6.16/#	Hacer la voluntad del Padre	R	#
+Matthew	7:21	#	140:1.4/#	El que hace la voluntad de mi Padre	S	#
+Matthew	7:21	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	7:21	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
+Matthew	7:21	#	171:0.1/#	El reino de los cielos	C	#
+Matthew	7:21	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	7:21	#	141:2.2/#	Cuando la voluntad del Padre se convierta en vuestra voluntad	C	#
+Matthew	7:21	#	153:2.4/#	El reino del Cielo	C	#
+Matthew	7:21	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
+Matthew	7:21-23	#	166:3.4/#	No hay entrada para los descreídos	S	#
+Matthew	7:22-23	#	140:3.20/#	Falsas presunciones de fe	S	#
+Matthew	7:24	#	165:3.8/#	Quienquiera puede venir	C	#
+Matthew	7:24	#	100:7.6/#	Quienquiera que lo desee, puede venir	C	#
+Matthew	7:24	#	32:5.8/#	Quien lo quiera puede participar	C	#
+Matthew	7:24	#	2:5.2/#	Quienquiera puede venir	C	#
+Matthew	7:24	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
+Matthew	7:24	#	131:10.7/#	Quien lo desee será salvado	C	#
+Matthew	7:24	#	139:12.7/#	Todo el que quiera puede venir	C	#
+Matthew	7:24	#	140:3.20/#	Recompensa de los creyentes	S	#
+Matthew	7:24-27	#	156:5.2/#	Contruir en buenos cimientos	C	#
+Matthew	7:28-29	#	145:2.11/#	Jesús enseñó con autoridad	S	#
+Matthew	7:28-29	#	140:3.21/#	Jesús hablaba con autoridad	S	#
+Matthew	8:1-3	#	146:4.3/#	Curación del leproso	S	#
+Matthew	8:4	#	146:4.4/#	«No hables de tu curación»	S	#
+Matthew	8:4	#	149:1.2/#	No se lo digáis a nadie	S	#
+Matthew	8:4	#	136:8.1/#	Que no contaran nada sobre el acortamiento del tiempo	S	#
+Matthew	8:5-6	#	147:1.1/#	El sirviente del centurión	S	#
+Matthew	8:5-10,13	#	175:1.1/#	Curados por la fe	C	#
+Matthew	8:5-13	#	129:1.7/#	Oficial romano, un hombre piadoso	C	#
+Matthew	8:6b	#	145:3.10/#	La curación a la puesta de sol	S	#
+Matthew	8:7-9	#	147:1.2/#	La fe del centurión	S	#
+Matthew	8:10	#	147:1.3/#	Jesús se maravilla de la fe	S	#
+Matthew	8:11	#	171:0.1/#	El reino de los cielos	C	#
+Matthew	8:11	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	8:11	#	34:6.13/#	Reino del cielo	C	#
+Matthew	8:11	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	8:11	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	8:11	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	8:11	#	153:2.4/#	El reino del Cielo	C	#
+Matthew	8:11	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	8:11-12	#	140:1.2/#	Muchos vendrán	S	#
+Matthew	8:11-12	#	166:3.5/#	Los perdedores verán a otros comer juntos	S	#
+Matthew	8:13	#	147:1.3/#	La curación del sirviente	S	#
+Matthew	8:14	#	139:2.1/#	La mujer de Simón y su suegra	S	#
+Matthew	8:14-15	#	145:2.15/#	La suegra de Pedro, enferma	S	#
+Matthew	8:16	#	145:3.2/#	La multitud a la puesta de sol	S	#
+Matthew	8:17	#	122:4.4/#	Profecía mesiánica: Is 53:4	R	#
+Matthew	8:17	#	121:8.4/#	Citas de profecías Is 53:4	R	#
+Matthew	8:18	#	151:5.1/#	Cruzando al otro lado del lago	S	#
+Matthew	8:18-22	#	149:2.12/#	Tres hombres rehusaron la llamada	S	#
+Matthew	8:19	#	129:1.11/#	El Maestro	R	#
+Matthew	8:19	#	149:2.12/#	La gente le llamaba maestro	C	#
+Matthew	8:19-22	#	163:2.2/#	Enterrar al padre antes que seguir a Jesús	S	#
+Matthew	8:20	#	128:1.2/#	Hijo del Hombre	C	#
+Matthew	8:20	#	126:3.6/#	Hijo del Hombre	R	#
+Matthew	8:20	#	154:7.2/#	Ningún lugar donde reposar la cabeza	C	#
+Matthew	8:20	#	135:5.7/#	El Hijo del Hombre	R	#
+Matthew	8:20	#	157:6.12/#	Los zorros tienen guaridas	S	#
+Matthew	8:20	#	136:1.1/#	El Hijo del Hombre	R	#
+Matthew	8:21-22	#	171:2.4/#	Compromiso total	S	#
+Matthew	8:22	#	196:0.13/#	La exigencia suprema: «Sígueme»	S	#
+Matthew	8:23-24a	#	151:5.2/#	La violenta tempestad	S	#
+Matthew	8:24-25	#	151:5.4/#	Jesús duerme y es despertado	S	#
+Matthew	8:26	#	165:5.3/#	Oh, hombres de poca fe	C	#
+Matthew	8:26-27	#	151:5.5/#	Tranquiliza a los apóstoles, la tormenta cesa	S	#
+Matthew	8:28-32	#	159:2.4/#	El origen del evangelio del predicador	C	#
+Matthew	8:28a	#	151:6.1/#	Llegada a Jeresa (Gadara)	S	#
+Matthew	8:28b	#	151:6.2/#	El lunático les aborda	S	#
+Matthew	8:29	#	151:6.4/#	El lunático reconoce a Jesús	S	#
+Matthew	8:29	#	157:5.1/#	Jesús, el Hijo de Dios	C	#
+Matthew	8:29	#	141:3.5/#	Evangelio del Hijo divino de Dios	C	#
+Matthew	8:29	#	136:1.1/#	Jesús, Hijo de Dios	R	#
+Matthew	8:30-33	#	151:6.6/#	La leyenda acerca de los cerdos poseídos	S	#
+Matthew	8:32a	#	151:6.5/#	Jesús «cura» al lunático	S	#
+Matthew	8:34	#	151:6.7/#	La reacción de los lugareños	S	#
+Matthew	9:2	#	148:9.2/#	Curación del paralítico	S	#
+Matthew	9:2	#	100:7.9/#	Tened buen ánimo	R	#
+Matthew	9:3	#	148:9.2/#	Provocación de los fariseos	S	#
+Matthew	9:4-8	#	148:9.3/#	Jesús responde con la curación	S	#
+Matthew	9:9	#	196:0.13/#	La exigencia suprema: «Sígueme»	S	#
+Matthew	9:9	#	139:7.1/#	Mateo Leví, publicano	C	#
+Matthew	9:9	#	139:7.6/#	Ejemplo para hombres de negocios	C	#
+Matthew	9:9	#	181:2.13/#	Muchos cambios desde que respondiste a la «llamada»	S	#
+Matthew	9:9	#	138:3.1/#	Selección de Mateo	S	#
+Matthew	9:10	#	138:3.4/#	El banquete de Mateo	S	#
+Matthew	9:10-11	#	138:3.4/#	Publicanos y pecadores	R	#
+Matthew	9:10-11	#	169:1.2/#	Amigo de publicanos y pecadores	S	#
+Matthew	9:10-11	#	169:0.4/#	Come con publicanos y pecadores	S	#
+Matthew	9:11-13	#	138:3.6/#	Los sanos no necesitan médico	S	#
+Matthew	9:13	#	192:2.11/#	Dios quiere obediencia, no sacrificios	C	#
+Matthew	9:13	#	137:8.16/#	Jesús vino a llamar a los pecadores	S	#
+Matthew	9:13b	#	157:6.9/#	Jesús vino a llamar a los pecadores	S	#
+Matthew	9:14	#	89:3.1/#	Ayuno ritual	C	#
+Matthew	9:14	#	143:2.3/#	El antiguo orden era ayuno y oración	C	#
+Matthew	9:14-17	#	147:7.2/#	Discurso sobre el ayuno	S	#
+Matthew	9:16-17	#	143:2.3/#	El orden antiguo y el nuevo	C	#
+Matthew	9:18-19	#	152:0.1/#	La petición de Jairo: curación de su hija	S	#
+Matthew	9:20-21	#	152:0.2/#	Curación de la mujer hemorroísa	S	#
+Matthew	9:20-22	#	171:7.8/#	La fe de la mujer la curó	S	#
+Matthew	9:22	#	152:0.3/#	La fe la había curado	S	#
+Matthew	9:23-25	#	152:1.1/#	Curación de la hija de Jairo	S	#
+Matthew	9:26	#	152:1.3/#	La reputación como sanador de Jesús	S	#
+Matthew	9:27	#	121:8.4/#	Linaje de David	R	#
+Matthew	9:27	#	152:1.3/#	Los ciegos pidiendo curación	S	#
+Matthew	9:27-29	#	175:1.1/#	Curados por la fe	C	#
+Matthew	9:30	#	136:8.1/#	Que no contaran nada sobre el acortamiento del tiempo	S	#
+Matthew	9:30	#	149:1.2/#	No se lo digáis a nadie	S	#
+Matthew	9:32-33a	#	153:4.1/#	Curación de un endemoniado	S	#
+Matthew	9:33b-34	#	153:4.2/#	Un fariseo dice que Belcebú lo curó	S	#
+Matthew	9:34	#	177:4.3/#	Príncipe de los demonios	C	#
+Matthew	9:35	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	9:35	#	141:2.2/#	Evangelio del reino	C	#
+Matthew	9:35	#	141:2.1/#	El reino de Dios ya está aquí	C	#
+Matthew	9:35	#	186:5.4/#	El evangelio del reino	C	#
+Matthew	9:35	#	100:7.12/#	Evangelio del reino	C	#
+Matthew	9:35	#	137:8.2/#	Evangelio del reino	S	#
+Matthew	9:35	#	34:6.13/#	Reino	C	#
+Matthew	9:35	#	191:6.3/#	El evangelio del reino	C	#
+Matthew	9:35	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	9:35	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	9:35	#	139:7.6/#	Evangelio del reino	C	#
+Matthew	9:35	#	140:0.1/#	El evangelio del reino	C	#
+Matthew	9:35	#	138:6.3/#	El evangelio del reino	C	#
+Matthew	9:35	#	176:1.1/#	Evangelio del reino	C	#
+Matthew	9:35	#	146:4.4/#	El evangelio del reino	S	#
+Matthew	9:35	#	196:2.6/#	El evangelio del reino	C	#
+Matthew	9:35	#	150:0.4/#	Tercera gira de predicación	S	#
+Matthew	9:35	#	153:2.4/#	Reino espiritual	C	#
+Matthew	9:35	#	169:4.6/#	Reino	S	#
+Matthew	9:35	#	150:5.2/#	Evangelio del reino	C	#
+Matthew	9:35	#	160:3.5/#	Evangelio del reino	R	#
+Matthew	9:35	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	9:35	#	170:1.10/#	Evangelio del reino	R	#
+Matthew	9:35	#	130:2.3/#	Evangelio del reino	C	#
+Matthew	9:35	#	194:0.1/#	El evangelio del reino	C	#
+Matthew	9:35b	#	145:5.8/#	Comienzo de la primera gira de predicación	S	#
+Matthew	9:37	#	163:1.3/#	La cosecha es abundante, pero los trabajadores pocos	S	#
+Matthew	9:37-38	#	150:4.1/#	La cosecha es abundante, pero los obreros pocos	S	#
+Matthew	10:1	#	140:9.2/#	Consagración y comisión	S	#
+Matthew	10:1	#	150:4.1/#	Los apóstoles se reúnen	S	#
+Matthew	10:1,8	#	141:4.4/#	La misión de los doce	R	#
+Matthew	10:1,8	#	163:1.4/#	Ayudad a los enfermos	S	#
+Matthew	10:2	#	139:2.2/#	Segundo apóstol	S	#
+Matthew	10:2-4	#	150:4.1/#	Los apóstoles son nominados	S	#
+Matthew	10:2-4	#	139:0.1/#	Los doce apóstoles	S	#
+Matthew	10:2-4	#	138:2.2/#	Nombres bíblicos de los apóstoles	S	#
+Matthew	10:3	#	139:8.1/#	Tomás Dídimo	C	#
+Matthew	10:3	#	139:10.1/#	Los gemelos Alfeo, Santiago y Judas	C	#
+Matthew	10:3	#	139:6.9/#	Natanael Bartolomé	C	#
+Matthew	10:3	#	139:10.5/#	También llamados Tadeo y Lebeo	C	#
+Matthew	10:3	#	139:7.1/#	Mateo Leví, publicano	C	#
+Matthew	10:4	#	139:11.1/#	La admisión de Simón Celotes	C	#
+Matthew	10:4	#	139:12.1/#	La elección de Judas Iscariote	C	#
+Matthew	10:5-7	#	150:4.2/#	Predicad a la casa de Israel	S	#
+Matthew	10:7	#	140:1.6/#	El reino está cerca	C	#
+Matthew	10:7	#	141:2.1/#	El reino de Dios ya está aquí	C	#
+Matthew	10:7	#	171:0.1/#	El reino de los cielos	C	#
+Matthew	10:7	#	163:1.4/#	El reino de Dios/los cielos está cerca	S	#
+Matthew	10:7	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	10:7	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	10:7	#	142:1.1/#	El reino del Cielo está a las puertas	R	#
+Matthew	10:7	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	10:7	#	137:8.15/#	El reino está cerca	S	#
+Matthew	10:7	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	10:7	#	34:6.13/#	Reino del cielo	C	#
+Matthew	10:7	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	10:7	#	153:2.4/#	El reino del Cielo	C	#
+Matthew	10:7	#	170:5.19/#	El reino de Dios está cerca	R	#
+Matthew	10:8	#	100:7.10/#	Habéis recibido gratuitamente, dad gratuitamente	R	#
+Matthew	10:8	#	191:4.4/#	Habéis recibido gratuitamente, dad gratuitamente	S	#
+Matthew	10:8	#	140:9.2/#	Habéis recibido gratuitamente, dad gratuitamente	S	#
+Matthew	10:8	#	141:8.1/#	Los apóstoles ayudando a los enfermos	S	#
+Matthew	10:8	#	193:0.5/#	Habéis recibido gratuitamente, dad gratuitamente	S	#
+Matthew	10:8b	#	176:3.10/#	Habéis recibido gratuitamente, dad gratuitamente	S	#
+Matthew	10:8b	#	163:1.4/#	Habéis recibido gratuitamente, dad gratuitamente	S	#
+Matthew	10:8b	#	156:5.19/#	Habéis recibido gratuitamente, dad y amad gratuitamente	S	#
+Matthew	10:8b	#	159:1.5/#	Habéis recibido generosamente cosas buenas, dad pues con generosidad	S	#
+Matthew	10:9-10	#	140:9.3/#	No llevéis dinero ni ropa adicional	S	#
+Matthew	10:9-10a	#	163:1.3/#	No llevéis bolsa ni ropa de más	S	#
+Matthew	10:11-13	#	163:1.3/#	Quedaos en el mismo lugar	S	#
+Matthew	10:11-14	#	163:1.4/#	Planes para la aceptación y el rechazo	S	#
+Matthew	10:16	#	191:4.4/#	Elegid vuestro método sabiamente	C	#
+Matthew	10:16	#	163:1.3/#	Prudentes como serpientes, pero inofensivos	S	#
+Matthew	10:16	#	140:9.3/#	Sed sabios como serpientes	S	#
+Matthew	10:16	#	178:1.7/#	Prudentes como serpientes, etc.	S	#
+Matthew	10:16	#	85:3.4/#	Paloma de la paz	C	#
+Matthew	10:16-20	#	165:3.7/#	El espíritu os dará respuestas	S	#
+Matthew	10:16a	#	163:1.3/#	Os envío como corderos entre lobos	S	#
+Matthew	10:16b	#	140:8.13/#	Sed sabios como serpientes	R	#
+Matthew	10:17-20	#	176:1.1/#	Persecuciones y peligros	S	#
+Matthew	10:17-21	#	140:9.3/#	Os criticarán en las sinagogas	C	#
+Matthew	10:19-20	#	140:9.3/#	Testimonio del espíritu interior	C	#
+Matthew	10:20	#	12:7.12/#	Dios vive en nosotros	C	#
+Matthew	10:20	#	3:1.4/#	Vive en nosotros	R	#
+Matthew	10:20	#	134:4.7/#	El espíritu interior	C	#
+Matthew	10:20	#	103:1.6/#	El espíritu en el hombre (Ajustador del Pensamiento)	C	#
+Matthew	10:20	#	141:2.1/#	El espíritu de Dios dentro de nosotros	C	#
+Matthew	10:20	#	146:3.5/#	Espíritu viviente del Padre	C	#
+Matthew	10:20	#	148:6.10/#	Dios habita dentro de ti	C	#
+Matthew	10:20	#	131:10.2/#	El espíritu de Dios habita en nuestra alma	C	#
+Matthew	10:20	#	133:4.4/#	Dios habita en tu alma	C	#
+Matthew	10:20	#	170:1.8/#	El reino dentro de ti	S	#
+Matthew	10:20	#	170:2.20/#	El Reino de Dios dentro de nosotros	C	#
+Matthew	10:20	#	16:9.4/#	El espíritu de Dios vive en nosotros	C	#
+Matthew	10:20	#	195:10.4/#	El reino de Dios está dentro de vosotros	S	#
+Matthew	10:20	#	5:2.3/#	El espíritu viviendo dentro	C	#
+Matthew	10:20	#	2:5.6/#	Su espíritu vive en nosotros	C	#
+Matthew	10:20	#	133:4.5/#	El espíritu de Dios vive en nosotros	C	#
+Matthew	10:20	#	131:10.4/#	El espíritu de Dios está en el corazón del hombre	C	#
+Matthew	10:20	#	3:1.4/#	Vive en nosotros	R	#
+Matthew	10:20	#	107:4.7/#	El Ajustador, espíritu interior	C	#
+Matthew	10:20	#	167:7.4/#	El espíritu de Dios vive en vosotros	S	#
+Matthew	10:20	#	34:6.7/#	Espíritu de Dios en el hombre	C	#
+Matthew	10:21,36	#	180:6.1/#	Enemigos incluso en la propia familia	S	#
+Matthew	10:21,37	#	171:2.2/#	Charla sobre calcular el coste	S	#
+Matthew	10:21-22	#	176:1.1/#	Traicionados por los parientes	S	#
+Matthew	10:24	#	179:3.8/#	Discurso del maestro y el servidor	S	#
+Matthew	10:24-25a	#	150:4.2/#	Relación de maestro y sirviente	S	#
+Matthew	10:25	#	77:7.4/#	Belcebú	C	#
+Matthew	10:25	#	177:4.3/#	Príncipe de los demonios	C	#
+Matthew	10:25b	#	150:4.2/#	Belcebú	S	#
+Matthew	10:26-27	#	151:3.1/#	Nada oculto, todo será manifiesto	S	#
+Matthew	10:26-27	#	165:3.2/#	Pronto nada estará oculto	S	#
+Matthew	10:26-28	#	150:4.2/#	No hay nada oculto que no será revelado	S	#
+Matthew	10:28	#	165:3.3/#	No temáis a los que pueden matar el cuerpo	S	#
+Matthew	10:28	#	100:2.7/#	Para un creyente que conoce a Dios	R	#
+Matthew	10:28,31	#	100:7.15/#	No temáis	R	#
+Matthew	10:28,31	#	140:8.20/#	Jesús decía «No temáis»	R	#
+Matthew	10:29	#	140:1.5/#	El reino es Dios dentro de vosotros	S	#
+Matthew	10:29	#	3:3.1/#	Los gorriones no caen sin que Dios lo sepa	R	#
+Matthew	10:29-31	#	150:4.3/#	Los gorriones no valen nada; los cabellos de vuestra cabeza están contados	S	#
+Matthew	10:29-31	#	165:3.4/#	Los gorriones caen, los cabellos están contados	S	#
+Matthew	10:30	#	38:2.3/#	Los cabellos de la cabeza están contados	R	#
+Matthew	10:30	#	3:3.1/#	Vuestros cabellos están contados	R	#
+Matthew	10:32-33	#	141:4.2/#	Dios es nuestro Padre	C	#
+Matthew	10:32-33	#	196:0.2/#	El Padre del cielo	C	#
+Matthew	10:32-33	#	2:5.2/#	Quienquiera puede venir	C	#
+Matthew	10:32-33	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
+Matthew	10:32-33	#	100:7.16/#	Padre nuestro que estás en los cielos	C	#
+Matthew	10:32-33	#	142:3.8/#	El Padre que está en los Cielos	C	#
+Matthew	10:32-33	#	32:5.8/#	Quien lo quiera puede participar	C	#
+Matthew	10:32-33	#	131:10.7/#	Quien lo desee será salvado	C	#
+Matthew	10:32-33	#	165:3.5/#	Confesar delante de los hombres	S	#
+Matthew	10:32-33	#	100:7.6/#	Quienquiera que lo desee, puede venir	C	#
+Matthew	10:32-33	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
+Matthew	10:32-33	#	165:3.8/#	Quienquiera puede venir	C	#
+Matthew	10:32-33	#	139:12.7/#	Todo el que quiera puede venir	C	#
+Matthew	10:32-33	#	131:10.5/#	Dios es «mi» padre	C	#
+Matthew	10:32-33	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
+Matthew	10:34	#	52:6.1/#	No penséis que he venido a traer la paz	R	#
+Matthew	10:34	#	160:5.10/#	No he venido a traer paz	S	#
+Matthew	10:34-37a	#	150:4.3/#	No hay paz, sino tristeza sobre la Tierra	S	#
+Matthew	10:35-36	#	154:6.9/#	Los enemigos pueden ser los de la propia casa	S	#
+Matthew	10:38	#	158:7.5/#	Que tome sus responsabilidades y me siga	S	#
+Matthew	10:38	#	171:2.3/#	Los que me seguís debéis pagar el precio	S	#
+Matthew	10:38	#	159:5.10/#	Que tome sus responsabilidades y me siga	S	#
+Matthew	10:39	#	103:5.6/#	Quien salve la vida la perderá	R	#
+Matthew	10:39	#	160:5.10/#	Quien quiera salvar su vida la perderá	S	#
+Matthew	10:39	#	140:5.19/#	Quien quiera salvar su vida, la perderá	R	#
+Matthew	10:39	#	158:7.5/#	El que salve su vida egoístamente, la perderá	S	#
+Matthew	10:40	#	158:8.1/#	El que recibe a un niño me recibe a mí	S	#
+Matthew	10:40	#	163:1.4/#	El que os escucha, me escucha, y escucha al que me envía a mí	S	#
+Matthew	10:42	#	159:2.1/#	Una copa de agua fría a un alma sedienta	S	#
+Matthew	11:1	#	141:7.10/#	Instructor venido del cielo	C	#
+Matthew	11:2-3	#	144:8.2/#	¿Eres tú el Libertador?	S	#
+Matthew	11:2-6	#	135:11.4/#	Más preguntas de Juan	S	#
+Matthew	11:4-5	#	144:8.3/#	La buena nueva se predica a los pobres	S	#
+Matthew	11:4-5	#	143:1.5/#	El evangelio predicado a los pobres	S	#
+Matthew	11:5	#	170:2.3/#	Consuelo para todos	S	#
+Matthew	11:5	#	141:7.8/#	Empezar su trabajo con los pobres	S	#
+Matthew	11:7-9	#	143:1.5/#	¿Acaso Juan era un débil?	S	#
+Matthew	11:7-10	#	144:8.3/#	Jesús habla sobre Juan Bautista	S	#
+Matthew	11:11	#	144:8.4/#	Juan el más grande	S	#
+Matthew	11:11	#	136:0.1/#	Juan, el mayor profeta	C	#
+Matthew	11:11-12	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	11:11-12	#	34:6.13/#	Reino del cielo	C	#
+Matthew	11:11-12	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	11:11-12	#	153:2.4/#	El reino del Cielo	C	#
+Matthew	11:11-12	#	171:0.1/#	El reino de los cielos	C	#
+Matthew	11:11-12	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	11:11-12	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	11:11-12	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	11:13	#	155:6.2/#	Dios habló a través de los profetas	S	#
+Matthew	11:16-19	#	144:8.7/#	Comentarios de Jesús	S	#
+Matthew	11:19	#	138:3.4/#	Publicanos y pecadores	R	#
+Matthew	11:19a	#	169:0.4/#	Come con publicanos y pecadores	S	#
+Matthew	11:19a	#	169:1.2/#	Amigo de publicanos y pecadores	S	#
+Matthew	11:20-23a	#	163:6.5/#	Pena por las ciudades incrédulas	S	#
+Matthew	11:21	#	163:6.5/#	Saco y cenizas	C	#
+Matthew	11:21	#	155:2.2/#	Enseñanzas en Corazín	S	#
+Matthew	11:25	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
+Matthew	11:25	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
+Matthew	11:25	#	196:0.2/#	El Padre del cielo	C	#
+Matthew	11:25	#	142:3.8/#	El Padre que está en los Cielos	C	#
+Matthew	11:25	#	100:7.16/#	Padre nuestro que estás en los cielos	C	#
+Matthew	11:25-26	#	163:6.3/#	Gracias al Padre	S	#
+Matthew	11:25-26	#	144:8.8/#	Verdades ocultas reveladas a los niños	S	#
+Matthew	11:25-27	#	16:9.6/#	Jesús reveló Dios al hombre	C	#
+Matthew	11:25-27	#	153:2.4/#	Jesús ha venido para revelar al Padre	C	#
+Matthew	11:25-27	#	165:3.8/#	He venido a revelaros al Padre	C	#
+Matthew	11:25-27	#	169:4.2/#	El Padre revelado por el Hijo	S	#
+Matthew	11:25-27	#	20:10.3/#	Los Hijos Creadores revelan al Padre	C	#
+Matthew	11:25-27	#	120:2.8/#	Jesús dedicado a revelar a Dios a la humanidad	C	#
+Matthew	11:27	#	180:3.8/#	«Muéstranos al Padre»	S	#
+Matthew	11:27	#	120:4.4/#	Realzar la revelación de Dios	C	#
+Matthew	11:27	#	169:4.2/#	Sólo el Hijo conoce al Padre	S	#
+Matthew	11:27	#	8:3.7/#	El Hijo: el único camino	C	#
+Matthew	11:27	#	153:2.11/#	El Padre enseña al hijo	C	#
+Matthew	11:27	#	161:2.9/#	Asociación con el Padre	C	#
+Matthew	11:27	#	10:1.6/#	Hijos Paradisíacos	C	#
+Matthew	11:27	#	1:5.5/#	Buscar al Padre a través del Hijo	C	#
+Matthew	11:27	#	157:6.10/#	Ningún hombre ve ahora al Padre	S	#
+Matthew	11:27a	#	120:0.5/#	Todas las cosas entregadas en manos de Miguel	C	#
+Matthew	11:28	#	141:3.7/#	Venid y os daré descanso	R	#
+Matthew	11:28-29	#	144:8.8/#	Venid todos los que os afanáis	S	#
+Matthew	11:28-29	#	163:6.7/#	Venid a mi todos los que trabajáis	S	#
+Matthew	11:28-30	#	170:5.13/#	Admisión por la fe	S	#
+Matthew	11:29-30	#	141:3.7/#	El yugo es ligero	S	#
+Matthew	11:30	#	159:3.7/#	Mi yugo es cómodo y su carga ligera	S	#
+Matthew	12:1-2	#	169:0.6/#	Recoge grano en sábado	S	#
+Matthew	12:1-2	#	147:6.4/#	Los apóstoles trituran grano en sábado	S	#
+Matthew	12:3-8	#	147:6.4/#	Jesús señor del sábado	S	#
+Matthew	12:7	#	192:2.11/#	Dios quiere obediencia, no sacrificios	C	#
+Matthew	12:9-13a	#	148:7.2/#	El hombre con una mano seca	S	#
+Matthew	12:9-14	#	169:0.6/#	Cura en sábado	S	#
+Matthew	12:13b-14	#	148:7.3/#	La mano queda curada	S	#
+Matthew	12:16	#	149:1.2/#	No se lo digáis a nadie	S	#
+Matthew	12:16	#	136:8.1/#	Que no contaran nada sobre el acortamiento del tiempo	S	#
+Matthew	12:17-21	#	122:4.4/#	Profecía mesiánica: Is 42:1-4	R	#
+Matthew	12:17-21	#	121:8.4/#	Citas de profecías Is 42:1-4	R	#
+Matthew	12:19	#	178:1.17/#	No luchéis contra los hombres	S	#
+Matthew	12:22	#	153:4.1/#	Curación de un endemoniado	S	#
+Matthew	12:22-28	#	169:0.7/#	Aliado con los demonios	S	#
+Matthew	12:23	#	121:8.4/#	Linaje de David	R	#
+Matthew	12:23-24	#	153:4.2/#	Un fariseo dice que Belcebú lo curó	S	#
+Matthew	12:24,27	#	177:4.3/#	Príncipe de los demonios	C	#
+Matthew	12:24,27	#	53:1.5/#	Belcebú: ser intermedio rebelde	C	#
+Matthew	12:24,27	#	77:7.4/#	Belcebú	C	#
+Matthew	12:25	#	195:10.11/#	Una casa dividida	R	#
+Matthew	12:25-32	#	153:4.3/#	Una casa dividida no puede prevalecer	S	#
+Matthew	12:28	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	12:28	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	12:28	#	153:2.4/#	Reino de Dios	C	#
+Matthew	12:28	#	169:4.6/#	El reino de Dios	S	#
+Matthew	12:28	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	12:28	#	34:6.13/#	El reino de Dios	C	#
+Matthew	12:28	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	12:30a	#	159:2.2/#	Quien no está conmigo está contra mí	R	#
+Matthew	12:31-32	#	165:3.6/#	El pecado imperdonable	S	#
+Matthew	12:33	#	140:4.7/#	Necesidad de dar buen fruto	C	#
+Matthew	12:33	#	193:2.2/#	Se pide que produzcáis muchos frutos	S	#
+Matthew	12:33	#	142:5.2/#	Judgad por los frutos del espíritu	C	#
+Matthew	12:33	#	140:8.22/#	Empezad sanando el árbol	R	#
+Matthew	12:33	#	140:3.19/#	Requerimientos para dar buenos frutos	C	#
+Matthew	12:33-34	#	135:6.7/#	Dar buen fruto	R	#
+Matthew	12:33-36	#	153:4.4/#	Elegir entre el bien o el mal	S	#
+Matthew	12:33-37	#	153:3.5/#	La contaminación procede del corazón	C	#
+Matthew	12:38	#	136:7.4/#	Ningún signo sobrenatural	C	#
+Matthew	12:38-39	#	153:4.5/#	Los fariseos piden un signo	S	#
+Matthew	12:38-39	#	136:8.1/#	Jesús rehusó mostrar signos	R	#
+Matthew	12:43-45	#	141:6.2/#	No quitéis creencias de los corazones	C	#
+Matthew	12:46	#	154:6.1/#	Llega la familia de Jesús	S	#
+Matthew	12:47	#	154:6.4/#	Le dicen a Jesús que su familia está esperando	S	#
+Matthew	12:48-50	#	154:6.5/#	¿Quién es mi familia?	S	#
+Matthew	12:48-50	#	170:2.20/#	Jesús usó «la familia de Dios»	S	#
+Matthew	12:50	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
+Matthew	12:50	#	32:5.8/#	Quien lo quiera puede participar	C	#
+Matthew	12:50	#	142:3.8/#	El Padre que está en los Cielos	C	#
+Matthew	12:50	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
+Matthew	12:50	#	2:5.2/#	Quienquiera puede venir	C	#
+Matthew	12:50	#	196:0.2/#	El Padre del cielo	C	#
+Matthew	12:50	#	100:7.6/#	Quienquiera que lo desee, puede venir	C	#
+Matthew	12:50	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
+Matthew	12:50	#	165:3.8/#	Quienquiera puede venir	C	#
+Matthew	12:50	#	141:2.2/#	Cuando la voluntad del Padre se convierta en vuestra voluntad	C	#
+Matthew	12:50	#	196:0.2/#	El Padre del cielo	R	#
+Matthew	12:50	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
+Matthew	12:50	#	170:5.17/#	El hermano mayor de los creyentes	S	#
+Matthew	12:50	#	117:0.1/#	Hacer la voluntad de Dios	C	#
+Matthew	12:50	#	131:10.7/#	Hermandad espiritual	C	#
+Matthew	12:50	#	139:12.7/#	Todo el que quiera puede venir	C	#
+Matthew	12:50	#	0:5.10/#	Hacer la voluntad del Padre	R	#
+Matthew	12:50	#	195:6.16/#	Hacer la voluntad del Padre	R	#
+Matthew	12:50	#	131:10.7/#	Hermandad espiritual	C	#
+Matthew	12:50	#	159:5.8/#	Jesús enseña la acción positiva	C	#
+Matthew	12:50	#	118:8.11/#	Es mi voluntad que se haga tu voluntad	R	#
+Matthew	12:50	#	140:8.20/#	Haced voluntariamente la «voluntad» de Dios	C	#
+Matthew	12:50	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
+Matthew	12:50	#	100:7.16/#	Padre nuestro que estás en los cielos	C	#
+Matthew	12:50	#	196:0.8/#	La voluntad de Dios	R	#
+Matthew	12:50	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
+Matthew	12:50	#	140:10.1/#	La hermandad de los hijos de Dios	C	#
+Matthew	12:50	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
+Matthew	13:1-3	#	151:1.1/#	La multitud alrededor de la barca	S	#
+Matthew	13:3-9,18-53	#	171:0.1/#	Sermón del reino	S	#
+Matthew	13:3b-9	#	151:1.2/#	Parábola del sembrador	S	#
+Matthew	13:8,23	#	137:8.12/#	El reino como una semilla	C	#
+Matthew	13:10	#	151:1.3/#	Los discípulos preguntan el significado	S	#
+Matthew	13:11,14,31-52	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	13:11,24,31-52	#	153:2.4/#	El reino del Cielo	C	#
+Matthew	13:11,24,31-52	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	13:11,24,31-52	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	13:11,24,31-52	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	13:11,24,31-52	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	13:11,24,31-52	#	171:0.1/#	El reino de los cielos	R	#
+Matthew	13:11,24,31-52	#	34:6.13/#	Reino del cielo	C	#
+Matthew	13:11-15	#	151:1.4/#	Jesús explica el motivo de las parábolas	S	#
+Matthew	13:12	#	176:3.5/#	Al que tiene se le dará; al que no se le quitará	S	#
+Matthew	13:12	#	151:3.1/#	Al que tiene se le dará más	S	#
+Matthew	13:12	#	169:2.6/#	Fieles en lo pequeño, también en lo grande	S	#
+Matthew	13:12	#	151:1.4/#	Al que tiene más se le da más, y al que menos se le quita	S	#
+Matthew	13:12	#	109:4.5/#	A quien tiene se le dará, pero al que no tiene	C	#
+Matthew	13:14	#	121:8.4/#	Citas de profecías Is 6:9-10	R	#
+Matthew	13:14	#	122:4.4/#	Profecía mesiánica: Is 6:9-10	R	#
+Matthew	13:16-17	#	163:6.4/#	Evaluación de la misión	S	#
+Matthew	13:18-23	#	151:2.2/#	La interpretación de Pedro	S	#
+Matthew	13:18-23	#	151:2.3/#	La interpretación de Natanael	C	#
+Matthew	13:24-30	#	151:4.1/#	Tercera parábola del sembrador, el trigo bueno y la cizaña	S	#
+Matthew	13:24-30	#	130:1.6/#	El trigo y la cizaña	C	#
+Matthew	13:31	#	178:1.15/#	La semilla de mostaza	S	#
+Matthew	13:31-32	#	151:4.2/#	Parábola de la semilla de mostaza	S	#
+Matthew	13:31-32	#	170:2.14/#	La semilla de mostaza	S	#
+Matthew	13:31-32	#	140:8.27/#	Crecimiento del carácter	C	#
+Matthew	13:33	#	151:4.3/#	Parábola de la levadura	S	#
+Matthew	13:33	#	178:1.15/#	La levadura en la masa	S	#
+Matthew	13:33	#	170:2.14/#	La levadura en la masa	S	#
+Matthew	13:35	#	122:4.4/#	Profecía mesiánica: Ps 78:2	R	#
+Matthew	13:35	#	121:8.4/#	Citas de profecías Ps 78:2	R	#
+Matthew	13:39	#	53:1.4/#	El demonio	C	#
+Matthew	13:44	#	151:4.4/#	Parábola del tesoro escondido	S	#
+Matthew	13:45-46	#	151:4.5/#	Parábola de la perla de gran valor	S	#
+Matthew	13:45-46	#	140:8.28/#	La perla de gran precio	C	#
+Matthew	13:47-48	#	151:4.6/#	Parábola de la red barredera y los peces	S	#
+Matthew	13:54a	#	150:8.1/#	Multitud en la sinagoga	S	#
+Matthew	13:54b	#	150:8.10/#	La gente se quedó atónita	S	#
+Matthew	13:55	#	123:6.7/#	Simón, hermano de Jesús	C	#
+Matthew	13:55	#	123:4.9/#	José, el hermano de Jesús	C	#
+Matthew	13:55	#	122:1.3/#	Los padres de Jesús	S	#
+Matthew	13:55	#	123:1.5/#	Santiago, el hermano de Jesús	C	#
+Matthew	13:55	#	124:3.4/#	Judá, el hermano de Jesús	C	#
+Matthew	13:55	#	95:7.3/#	El hijo del carpintero	C	#
+Matthew	13:55-56	#	153:2.10/#	¿No eres el hijo del carpintero?	C	#
+Matthew	13:55-57	#	150:9.1/#	La oposición crece	S	#
+Matthew	13:56	#	124:1.7/#	Marta, la hermana de Jesús	C	#
+Matthew	13:56	#	123:2.3/#	Miriam, la hermana de Jesús	C	#
+Matthew	13:56	#	126:3.2/#	Nacimiento de la hermana, Ruth	C	#
+Matthew	13:57	#	138:0.2/#	No hay profeta sin honra excepto en su casa	C	#
+Matthew	13:58	#	150:9.2/#	Sin milagros	S	#
+Matthew	14:1-2	#	154:0.2/#	Los temores de Herodes	S	#
+Matthew	14:3	#	135:10.3/#	Juan encarcelado	S	#
+Matthew	14:3-5	#	135:12.2/#	Herodes y Juan	S	#
+Matthew	14:3b-4	#	135:10.2/#	Juan ataca a Herodes	S	#
+Matthew	14:3b-4	#	135:10.2/#	Juan ataca a Herodes	S	#
+Matthew	14:6a	#	135:12.5/#	Fiesta de cumpleaños de Herodes	S	#
+Matthew	14:9-12	#	144:9.1/#	Juan Bautista ejecutado y enterrado	S	#
+Matthew	14:13a	#	152:2.1/#	La partida de Jesús	S	#
+Matthew	14:13b-14	#	152:2.2/#	La gente les sigue	S	#
+Matthew	14:15-16	#	152:2.6/#	No hay comida para la multitud	S	#
+Matthew	14:17	#	152:2.7/#	Cinco panes y dos peces	S	#
+Matthew	14:18-19a	#	152:2.8/#	Traed la comida y sentad a la multitud	S	#
+Matthew	14:19b-21	#	152:2.9/#	Alimentación de 5.000	S	#
+Matthew	14:22	#	152:4.1/#	Los discípulos suben a la barca	S	#
+Matthew	14:23	#	152:3.3/#	La multitud marcha, Jesús reza	S	#
+Matthew	14:24-31	#	152:4.2/#	Jesús «camina sobre el agua»	S	#
+Matthew	14:25-27	#	136:7.3/#	Jesús nunca caminó sobre las aguas	C	#
+Matthew	14:27	#	100:7.9/#	Tened buen ánimo	R	#
+Matthew	14:27	#	100:7.15/#	No temáis	R	#
+Matthew	14:27	#	140:8.20/#	Jesús decía «No temáis»	R	#
+Matthew	14:31	#	165:5.3/#	Oh, hombres de poca fe	C	#
+Matthew	14:33	#	136:1.1/#	Jesús, Hijo de Dios	R	#
+Matthew	14:33	#	141:3.5/#	Evangelio del Hijo divino de Dios	C	#
+Matthew	14:33	#	157:5.1/#	Jesús, el Hijo de Dios	C	#
+Matthew	14:34	#	152:5.1/#	Llegan a la orilla	S	#
+Matthew	15:1-2	#	169:0.6/#	Los apóstoles no se lavaban las manos	S	#
+Matthew	15:1-9	#	153:3.3/#	Ceremonial de lavarse las manos	S	#
+Matthew	15:10-20	#	149:2.11/#	Corazones puros	C	#
+Matthew	15:10-20	#	153:3.5/#	La contaminación procede del corazón	S	#
+Matthew	15:13	#	100:7.16/#	Padre nuestro que estás en los cielos	C	#
+Matthew	15:13	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
+Matthew	15:13	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
+Matthew	15:13	#	142:3.8/#	El Padre que está en los Cielos	C	#
+Matthew	15:13	#	196:0.2/#	El Padre del cielo	C	#
+Matthew	15:14	#	159:5.14/#	Ciegos dirigiendo ciegos	R	#
+Matthew	15:14	#	175:1.15/#	Ciegos dirigiendo ciegos	S	#
+Matthew	15:14	#	140:3.18/#	Si el ciego conduce al ciego	S	#
+Matthew	15:14b	#	153:3.5/#	Si un ciego guía a un ciego, ambos caen al precipicio	S	#
+Matthew	15:21	#	156:0.1/#	Llegada al área de Sidón	S	#
+Matthew	15:22	#	121:8.4/#	Linaje de David	R	#
+Matthew	15:22-28	#	175:1.1/#	Curados por la fe	C	#
+Matthew	15:22a	#	156:1.1/#	La mujer siria	S	#
+Matthew	15:22b-23	#	156:1.3/#	Ella pide la curación de su hija	S	#
+Matthew	15:24-27	#	156:1.5/#	Incluso los perros comen las migajas	S	#
+Matthew	15:26-27	#	164:1.2/#	Perros gentiles	R	#
+Matthew	15:28	#	156:1.7/#	La hija es curada	S	#
+Matthew	15:32-38	#	152:2.9/#	Alimentación de 4.000	C	#
+Matthew	16:1	#	136:7.4/#	Ningún signo sobrenatural	C	#
+Matthew	16:1-4	#	136:8.1/#	Jesús rehusó mostrar signos	R	#
+Matthew	16:1-4	#	153:4.5/#	Los fariseos piden un signo	C	#
+Matthew	16:1-4a	#	157:2.1/#	Jesús desafiado	S	#
+Matthew	16:6	#	157:2.2/#	Cuidado con la levadura de los fariseos	S	#
+Matthew	16:6,11-12	#	157:7.4/#	Tened cuidado con la levadura de los fariseos	S	#
+Matthew	16:6,11-12	#	165:3.2/#	Cuidaos de la levadura de los fariseos	S	#
+Matthew	16:8	#	165:5.3/#	Oh, hombres de poca fe	C	#
+Matthew	16:13a	#	157:3.1/#	Jesús y los doce en Cesarea de Filipo	S	#
+Matthew	16:13b	#	157:3.3/#	«¿Quién dicen los hombres que soy?»	S	#
+Matthew	16:14	#	157:3.5/#	Jesús comparado con varios profetas	S	#
+Matthew	16:14	#	196:0.13/#	La exigencia suprema: «Sígueme»	S	#
+Matthew	16:15	#	157:3.5/#	«¿Quién decís vosotros que soy yo?»	S	#
+Matthew	16:15-16	#	141:3.5/#	Evangelio del Hijo divino de Dios	C	#
+Matthew	16:15-16	#	157:5.1/#	Jesús, el Hijo de Dios	C	#
+Matthew	16:15-16	#	136:1.1/#	Jesús, Hijo de Dios	R	#
+Matthew	16:15-16	#	179:3.2/#	Pedro el primer «creyente»	S	#
+Matthew	16:16	#	195:10.4/#	El Padre es un espíritu vivo	C	#
+Matthew	16:16	#	157:3.5/#	«Tú eres el Cristo»	S	#
+Matthew	16:16	#	157:5.1/#	Divinidad incuestionable	S	#
+Matthew	16:16-17	#	1:7.1/#	El Dios vivo	R	#
+Matthew	16:17	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
+Matthew	16:17	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
+Matthew	16:17	#	196:0.2/#	El Padre del cielo	C	#
+Matthew	16:17	#	100:7.16/#	Padre nuestro que estás en los cielos	C	#
+Matthew	16:17	#	142:3.8/#	El Padre que está en los Cielos	C	#
+Matthew	16:17	#	157:3.6/#	Esto ha sido revelado por el Padre	S	#
+Matthew	16:18	#	174:0.2/#	Fundamentos de roca	S	#
+Matthew	16:18	#	139:2.2/#	Nuevo significado	S	#
+Matthew	16:18-20	#	157:4.5/#	Las llaves del reino exterior	S	#
+Matthew	16:19	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	16:19	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	16:19	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	16:19	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	16:19	#	158:4.6/#	«Las llaves del reino»	R	#
+Matthew	16:19	#	39:4.14/#	Llaves del reino	C	#
+Matthew	16:19	#	34:6.13/#	Reino del cielo	C	#
+Matthew	16:19	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	16:19	#	153:2.4/#	El reino del Cielo	C	#
+Matthew	16:19	#	171:0.1/#	El reino de los cielos	C	#
+Matthew	16:19	#	90:5.5/#	Poseer las llaves del reino	R	#
+Matthew	16:20	#	149:1.2/#	No se lo digáis a nadie	S	#
+Matthew	16:20	#	157:3.6/#	No se lo contéis a nadie	S	#
+Matthew	16:21	#	190:5.4/#	Predicción de la muerte y resurrección	S	#
+Matthew	16:21	#	186:3.4/#	Resucitar al tercer día	C	#
+Matthew	16:21	#	193:0.2/#	Predicción de la muerte y resurrección	S	#
+Matthew	16:21	#	181:2.30/#	Promesa: resucitaré al tercer día	C	#
+Matthew	16:21	#	158:6.5/#	Anticipación de la pasión	S	#
+Matthew	16:21	#	181:1.5/#	Moriré pero resucitaré	C	#
+Matthew	16:21	#	171:4.8/#	Resucitar al tercer día	C	#
+Matthew	16:21	#	180:6.7/#	Debo morir pero resucitaré	S	#
+Matthew	16:21	#	171:4.2/#	Advertencia sobre la crucifixión y la resurrección	S	#
+Matthew	16:21	#	158:7.3/#	Los apóstoles oyen otra vez de la pasión	S	#
+Matthew	16:22	#	158:7.3/#	La protesta de Pedro	S	#
+Matthew	16:23	#	53:8.4/#	Ve detrás de mí, Satanás	R	#
+Matthew	16:23	#	158:7.4/#	Jesús reprende a Pedro	S	#
+Matthew	16:24	#	171:2.3/#	Los que me seguís debéis pagar el precio	S	#
+Matthew	16:24	#	140:6.11/#	Asumid vuestras responsabilidades y seguidme	S	#
+Matthew	16:24	#	159:5.10/#	Que tome sus responsabilidades y me siga	S	#
+Matthew	16:24	#	158:7.5/#	Que tome sus responsabilidades y me siga	S	#
+Matthew	16:24-25	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
+Matthew	16:24-25	#	32:5.8/#	Quien lo quiera puede participar	C	#
+Matthew	16:24-25	#	131:10.7/#	Quien lo desee será salvado	R	#
+Matthew	16:24-25	#	165:3.8/#	Quienquiera puede venir	C	#
+Matthew	16:24-25	#	2:5.2/#	Quienquiera puede venir	C	#
+Matthew	16:24-25	#	139:12.7/#	Todo el que quiera puede venir	R	#
+Matthew	16:24-25	#	100:7.6/#	Quienquiera que lo desee, puede venir	C	#
+Matthew	16:24-25	#	157:6.8/#	Si quiere ser mi discípulo, que me siga	S	#
+Matthew	16:24-28	#	158:7.5/#	El coste de ser dscípulo	S	#
+Matthew	16:25	#	158:7.5/#	El que salve su vida egoístamente, la perderá	S	#
+Matthew	16:25	#	103:5.6/#	Quien salve la vida la perderá	R	#
+Matthew	16:25	#	160:5.10/#	Quien quiera salvar su vida la perderá	S	#
+Matthew	16:25	#	140:5.19/#	Quien quiera salvar su vida, la perderá	R	#
+Matthew	16:26	#	140:8.17/#	¿De qué le sirve al hombre ganar el mundo entero?	R	#
+Matthew	16:26	#	165:4.9/#	¿De qué sirve ganar el mundo si pierdes el alma?	S	#
+Matthew	16:27	#	196:2.5/#	Creencia en el retorno inmediato del Señor	C	#
+Matthew	16:27	#	176:2.4/#	Segunda venida con poder	S	#
+Matthew	16:27	#	176:3.3/#	Regreso del Hijo del Hombre	S	#
+Matthew	16:27	#	52:5.7/#	Cubierto de gloria con los ángeles	R	#
+Matthew	17:1	#	158:0.2/#	Los tres que compartieron la experiencia	S	#
+Matthew	17:2-3	#	158:1.8/#	La transfiguración	S	#
+Matthew	17:4	#	158:1.9/#	La sugerencia de Pedro	S	#
+Matthew	17:5	#	158:3.4/#	«Éste es mi hijo amado»	S	#
+Matthew	17:5	#	47:8.4/#	Éste es un hijo amado	R	#
+Matthew	17:5-8	#	158:1.10/#	Una nube y una voz	S	#
+Matthew	17:7	#	140:8.20/#	Jesús decía «No temáis»	R	#
+Matthew	17:7	#	100:7.15/#	No temáis	R	#
+Matthew	17:9	#	158:2.1/#	No le contéis a nadie	S	#
+Matthew	17:10-13	#	158:2.2/#	Elías ha de venir	S	#
+Matthew	17:14-16	#	158:5.1/#	El epiléptico endemoniado	S	#
+Matthew	17:15	#	158:5.1/#	Lo arroja al agua y al fuego	S	#
+Matthew	17:16	#	158:4.6/#	Los apóstoles fracasan en su exorcismo	R	#
+Matthew	17:17	#	158:5.2/#	Oh generación incrédula y perversa	S	#
+Matthew	17:18	#	158:5.3/#	El niño es curado	S	#
+Matthew	17:19	#	158:6.1/#	Los discípulos preguntan por su fracaso	S	#
+Matthew	17:20	#	144:2.6/#	Orad con fe	C	#
+Matthew	17:20	#	138:8.8/#	La fe es la puerta abierta	C	#
+Matthew	17:20a	#	158:6.2/#	Fe pequeña	S	#
+Matthew	17:22-23a	#	158:7.3/#	Los apóstoles oyen otra vez de la pasión	C	#
+Matthew	17:22-23a	#	171:4.2/#	Advertencia sobre la crucifixión y la resurrección	S	#
+Matthew	17:22-23a	#	180:6.7/#	Debo morir pero resucitaré	S	#
+Matthew	17:22-23a	#	181:1.5/#	Moriré pero resucitaré	C	#
+Matthew	17:22-23a	#	193:0.2/#	Predicción de la muerte y resurrección	S	#
+Matthew	17:22-23a	#	158:6.5/#	Anticipación de la pasión	S	#
+Matthew	17:22-23a	#	190:5.4/#	Predicción de la muerte y resurrección	S	#
+Matthew	17:23a	#	181:2.30/#	Promesa: resucitaré al tercer día	C	#
+Matthew	17:23a	#	171:4.8/#	Resucitar al tercer día	C	#
+Matthew	17:23a	#	186:3.4/#	Resucitar al tercer día	C	#
+Matthew	17:23b	#	158:6.6/#	Los discípulos apenados	S	#
+Matthew	17:24-25a	#	157:1.1/#	Los recaudadores de impuestos del templo	S	#
+Matthew	17:26-27	#	157:1.2/#	Conseguir dinero y pagar el impuesto	S	#
+Matthew	18:1-4	#	167:1.5/#	El exaltado será humillado y el humillado exaltado	S	#
+Matthew	18:1-4	#	175:1.10/#	Los humillados serán exaltados	S	#
+Matthew	18:1-4	#	167:5.1/#	Quien se humilla será ensalzado	S	#
+Matthew	18:1-4	#	41:10.5/#	Quién será el más grande	C	#
+Matthew	18:1-4	#	158:8.1/#	El que se humille a sí mismo	S	#
+Matthew	18:1-4,23	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	18:1-4,23	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	18:1-4,23	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	18:1-4,23	#	34:6.13/#	Reino del cielo	C	#
+Matthew	18:1-4,23	#	153:2.4/#	El reino del Cielo	C	#
+Matthew	18:1-4,23	#	171:0.1/#	El reino de los cielos	C	#
+Matthew	18:1-4,23	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	18:1-4,23	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	18:2-4	#	149:6.11/#	Fe como la de un niño	C	#
+Matthew	18:2-4	#	140:10.4/#	Volverse como un niño	S	#
+Matthew	18:2-4	#	137:8.8/#	La fe confiada de un niño	S	#
+Matthew	18:2-4	#	155:6.12/#	Fe como la de un niño, la simplicidad espiritual	S	#
+Matthew	18:2-4	#	140:6.2/#	Comenzar como niños pequeños	C	#
+Matthew	18:2-4	#	158:8.1/#	Entrar como un niño	S	#
+Matthew	18:2-4	#	144:4.3/#	La filiación se recibe al igual que un niño	C	#
+Matthew	18:2-5	#	158:8.1/#	Quién es el más grande	S	#
+Matthew	18:2-5	#	195:3.5/#	La enseñanza relativa a los niños	C	#
+Matthew	18:2-5	#	193:2.2/#	Entrar en el reino como un niño	S	#
+Matthew	18:2-6	#	170:3.2/#	La fe simple de un niño	S	#
+Matthew	18:2-6	#	196:0.12/#	Ser como un niño	R	#
+Matthew	18:2-6	#	170:2.18/#	Fe como un niño pequeño	S	#
+Matthew	18:2-6	#	196:0.11/#	Fe confiada y sin sospecha como la de un niño	C	#
+Matthew	18:3	#	102:1.1/#	Tener la confianza de un niño	C	#
+Matthew	18:3	#	181:2.20/#	Ser un niño en el espíritu	S	#
+Matthew	18:6	#	158:8.1/#	Atarse una piedra de molino al cuello	S	#
+Matthew	18:10	#	113:1.1/#	Cuidado de no menospreciar a estos pequeños	R	#
+Matthew	18:10,14,19,35	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
+Matthew	18:10,14,19,35	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
+Matthew	18:10,14,19,35	#	100:7.16/#	Padre nuestro que estás en los cielos	C	#
+Matthew	18:10,14,19,35	#	142:3.8/#	El Padre que está en los Cielos	C	#
+Matthew	18:10,14,19,35	#	196:0.2/#	El Padre del cielo	C	#
+Matthew	18:11	#	169:1.3/#	Jesús ha venido a buscar y salvar	S	#
+Matthew	18:11	#	157:6.9/#	Jesús vino para buscar y salvar a los perdidos	S	#
+Matthew	18:11	#	190:5.4/#	Buscará y salvará a los que están perdidos	S	#
+Matthew	18:11	#	131:10.4/#	Dios ama incluso a los perversos	C	#
+Matthew	18:11-14	#	159:5.13/#	Dios busca a los pecadores	S	#
+Matthew	18:12-13	#	169:1.15/#	Parábola de la oveja perdida	S	#
+Matthew	18:12-14	#	169:1.2/#	Parábola de la oveja perdida	S	#
+Matthew	18:12-14	#	159:1.2/#	La parábola de la oveja perdida	S	#
+Matthew	18:14	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
+Matthew	18:14	#	131:10.8/#	La relación de padre e hijo	C	#
+Matthew	18:14	#	131:10.6/#	Relación entre padre e hijo	C	#
+Matthew	18:14	#	149:6.8/#	Dios es nuestro Padre	C	#
+Matthew	18:14	#	131:10.5/#	Dios es «mi» padre	C	#
+Matthew	18:14	#	141:4.2/#	Dios es nuestro Padre	C	#
+Matthew	18:14	#	131:10.4/#	No perecerá ninguno que desee encontrar a Dios	C	#
+Matthew	18:15-17	#	159:1.3/#	El proceso de la reconciliación	S	#
+Matthew	18:18	#	157:4.5/#	Las llaves del reino exterior	C	#
+Matthew	18:18	#	159:1.3/#	La autoridad secular	S	#
+Matthew	18:19-20	#	159:1.3/#	Obtención de las peticiones si hay acuerdo	S	#
+Matthew	18:21-22	#	159:1.4/#	Perdonar setenta veces más siete	S	#
+Matthew	18:21-22	#	139:2.5/#	Ternura, misericordia	S	#
+Matthew	18:21-27	#	188:4.13/#	Perdona nuestras deudas, como nosotros perdonamos a nuestros deudores	R	#
+Matthew	18:21-35	#	170:3.4/#	Somos perdonados en tanto perdonamos	S	#
+Matthew	18:21-35	#	146:2.4/#	El perdón	C	#
+Matthew	18:22	#	40:8.2/#	Setenta veces siete	R	#
+Matthew	18:23-27	#	159:1.4/#	Parábola del deudor	S	#
+Matthew	18:28-34	#	159:1.5/#	Parábola del deudor (continuación)	S	#
+Matthew	18:35	#	159:1.5/#	Dios es misericordioso con los que tienen misericordia	S	#
+Matthew	19:3	#	167:5.2/#	Pregunta sobre el divorcio	S	#
+Matthew	19:3-9	#	140:6.6/#	Respecto al divorcio	C	#
+Matthew	19:3-12	#	167:5.3/#	Sobre el matrimonio y el divorcio	S	#
+Matthew	19:4	#	167:5.7/#	Creación del hombre y la mujer	S	#
+Matthew	19:5	#	167:5.7/#	Se volverán como uno solo	S	#
+Matthew	19:9b	#	174:4.2/#	Ama a tu prójimo como a ti	S	#
+Matthew	19:13	#	167:6.1/#	Las madres llevan a su hijos	S	#
+Matthew	19:13-14	#	181:2.20/#	Ser un niño en el espíritu	S	#
+Matthew	19:13-14	#	170:3.2/#	La fe simple de un niño	S	#
+Matthew	19:13-14	#	196:0.12/#	Ser como un niño	R	#
+Matthew	19:13-14	#	196:0.11/#	Fe confiada y sin sospecha como la de un niño	C	#
+Matthew	19:13-14	#	149:6.11/#	Fe como la de un niño	C	#
+Matthew	19:13-14	#	158:8.1/#	Entrar como un niño	S	#
+Matthew	19:13-14	#	193:2.2/#	Entrar en el reino como un niño	S	#
+Matthew	19:13-14	#	144:4.3/#	La filiación se recibe al igual que un niño	C	#
+Matthew	19:13-14	#	140:10.4/#	Volverse como un niño	S	#
+Matthew	19:13-14	#	195:3.5/#	La enseñanza relativa a los niños	C	#
+Matthew	19:13-14	#	137:8.8/#	La fe confiada de un niño	S	#
+Matthew	19:13-14	#	140:6.2/#	Comenzar como niños pequeños	C	#
+Matthew	19:13-14	#	170:2.18/#	Fe como un niño pequeño	S	#
+Matthew	19:13-15	#	155:6.12/#	Fe como la de un niño, la simplicidad espiritual	S	#
+Matthew	19:14	#	167:6.1/#	Jesús atiende a los niños	S	#
+Matthew	19:14,23	#	153:2.4/#	El reino del Cielo	C	#
+Matthew	19:14,23	#	34:6.13/#	Reino del cielo	C	#
+Matthew	19:14,23	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	19:14,23	#	171:0.1/#	El reino de los cielos	C	#
+Matthew	19:14,23-24	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	19:14,23-24	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	19:14,23-24	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	19:14,23-24	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	19:15	#	167:6.2/#	Jesús bendice a los niños	S	#
+Matthew	19:16,29	#	170:2.20/#	Vida eterna / sin fin	C	#
+Matthew	19:16,29	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
+Matthew	19:16,29	#	3:0.1/#	Vida eterna	C	#
+Matthew	19:16,29	#	101:6.8/#	Vida eterna	C	#
+Matthew	19:16,29	#	162:2.7/#	Vida eterna	C	#
+Matthew	19:16,29	#	170:2.2/#	La esperanza de la vida eterna	S	#
+Matthew	19:16,29	#	121:5.11/#	Vida después de la muerte	C	#
+Matthew	19:16,29	#	162:7.5/#	Los creyentes nunca morirán	C	#
+Matthew	19:16,29	#	153:2.11/#	Los que creen tienen vida eterna	C	#
+Matthew	19:16,29	#	146:3.7/#	La vida eterna	C	#
+Matthew	19:16,29	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
+Matthew	19:16,29	#	2:2.1/#	Vida eterna	C	#
+Matthew	19:16,29	#	27:1.5/#	Vida eterna	C	#
+Matthew	19:16,29	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
+Matthew	19:16,29	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
+Matthew	19:16,29	#	181:2.11/#	La vida eterna en el reino venidero	C	#
+Matthew	19:16,29	#	128:1.10/#	Dador de la vida eterna	C	#
+Matthew	19:16-17	#	196:0.9/#	¿Por qué me llamas bueno?	R	#
+Matthew	19:16-17	#	196:2.2/#	¿Por qué me llamáis bueno?	R	#
+Matthew	19:16-20a	#	163:2.4/#	Joven rico sanedrita	S	#
+Matthew	19:16-22	#	149:2.12/#	Tres hombres rehusaron la llamada	S	#
+Matthew	19:17	#	143:2.7/#	La bondad de Dios	C	#
+Matthew	19:19	#	103:5.2/#	Amar al prójimo como a sí mismo	C	#
+Matthew	19:19	#	142:4.2/#	Amar a Dios y al prójimo	C	#
+Matthew	19:19	#	142:3.22/#	Amar a Dios y al prójimo	C	#
+Matthew	19:19	#	142:1.1/#	Amar al prójimo como a sí mismo	C	#
+Matthew	19:19b	#	110:3.9/#	Amando a los hombres	C	#
+Matthew	19:19b	#	191:4.3/#	Amarse unos a otros	S	#
+Matthew	19:19b	#	163:4.8/#	Ama a tu prójimo como a ti mismo	S	#
+Matthew	19:19b	#	159:5.4/#	Ama a tu prójimo como a ti	R	#
+Matthew	19:19b	#	181:2.4/#	Amarse uno a otro	S	#
+Matthew	19:19b	#	170:3.6/#	Amar al prójimo	S	#
+Matthew	19:19b	#	131:10.2/#	Amar al prójimo como a uno mismo	C	#
+Matthew	19:19b	#	178:1.17/#	Amaros los unos a los otros	C	#
+Matthew	19:19b	#	159:5.9/#	Ama a tu prójimo como a ti mismo	R	#
+Matthew	19:19b	#	131:2.13/#	Ama a tu prójimo como a ti mismo	R	#
+Matthew	19:19b	#	180:5.7/#	Amar al prójimo como a uno mismo	S	#
+Matthew	19:19b	#	131:2.11/#	Ama a tu prójimo como a ti mismo	R	#
+Matthew	19:20b-21	#	163:2.5/#	Un impedimento: el amor a las riquezas	S	#
+Matthew	19:21	#	196:0.13/#	La exigencia suprema: «Sígueme»	S	#
+Matthew	19:21-22	#	171:2.4/#	Compromiso total	S	#
+Matthew	19:21-22	#	139:10.9/#	Jesús rechazó a un hombre rico	S	#
+Matthew	19:22	#	163:2.6/#	La elección (la riqueza)	S	#
+Matthew	19:23-24	#	163:3.1/#	Un camello por el ojo de la aguja	S	#
+Matthew	19:23-24	#	165:4.5/#	Los peligros de las riquezas	S	#
+Matthew	19:23-24	#	196:2.8/#	Jesús condenaba a los ricos	C	#
+Matthew	19:24	#	169:4.6/#	El reino de Dios	S	#
+Matthew	19:24	#	153:2.4/#	Reino de Dios	C	#
+Matthew	19:24	#	34:6.13/#	El reino de Dios	C	#
+Matthew	19:24	#	163:2.10/#	El amor a la riqueza	S	#
+Matthew	19:26	#	131:10.2/#	Con Dios, todas las cosas son posibles	C	#
+Matthew	19:26	#	2:1.2/#	Todas las cosas son posibles	R	#
+Matthew	19:26	#	26:5.3/#	Con Dios nada es imposible	R	#
+Matthew	19:26	#	163:3.2/#	Con Dios, nada es imposible	S	#
+Matthew	19:26	#	158:5.2/#	Todas las cosas son posibles para el que cree	C	#
+Matthew	19:26	#	3:2.2/#	Con Él todo es posible	R	#
+Matthew	19:27-29	#	163:3.4/#	Recompensa por el servicio	S	#
+Matthew	19:29	#	137:8.14/#	El reino merece el coste	S	#
+Matthew	19:30	#	166:3.5/#	Muchos primeros serán últimos, y últimos los primeros	S	#
+Matthew	19:30	#	41:10.5/#	El último se convierte en el primero	C	#
+Matthew	19:30	#	163:3.4/#	Muchos que son los primeros serán los últimos	S	#
+Matthew	20:1	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	20:1	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	20:1	#	153:2.4/#	El reino del Cielo	C	#
+Matthew	20:1	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	20:1	#	171:0.1/#	El reino de los cielos	C	#
+Matthew	20:1	#	34:6.13/#	Reino del cielo	C	#
+Matthew	20:1	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	20:1	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	20:1-7	#	163:3.5/#	Parábola del propietario	S	#
+Matthew	20:8-12	#	163:3.6/#	Parábola del propietario (cont.)	S	#
+Matthew	20:13-15	#	163:3.7/#	Parable of householder (cont.)	S	#
+Matthew	20:16	#	166:3.5/#	Muchos primeros serán últimos, y últimos los primeros	S	#
+Matthew	20:16	#	163:3.4/#	Muchos que son los primeros serán los últimos	S	#
+Matthew	20:16	#	41:10.5/#	El último se convierte en el primero	C	#
+Matthew	20:17-19	#	158:6.5/#	Anticipación de la pasión	S	#
+Matthew	20:17-19	#	181:1.5/#	Moriré pero resucitaré	C	#
+Matthew	20:17-19	#	193:0.2/#	Predicción de la muerte y resurrección	S	#
+Matthew	20:17-19	#	171:4.2/#	Advertencia sobre la crucifixión y la resurrección	S	#
+Matthew	20:17-19	#	158:7.3/#	Los apóstoles oyen otra vez de la pasión	S	#
+Matthew	20:17-19	#	190:5.4/#	Predicción de la muerte y resurrección	S	#
+Matthew	20:17-19	#	180:6.7/#	Debo morir pero resucitaré	S	#
+Matthew	20:19	#	181:2.30/#	Promesa: resucitaré al tercer día	C	#
+Matthew	20:19	#	171:4.8/#	Resucitar al tercer día	C	#
+Matthew	20:19b	#	186:3.4/#	Resucitar al tercer día	C	#
+Matthew	20:20-21	#	171:0.4/#	La madre solicita los puestos de honor	S	#
+Matthew	20:20-21,23	#	139:3.8/#	La petición de la madre	S	#
+Matthew	20:20-22	#	181:2.15/#	¿Serás capaz de beber mi copa?	S	#
+Matthew	20:22-23	#	20:6.7/#	Beber la copa	R	#
+Matthew	20:22-23	#	139:3.8/#	Preparado para beber la copa	S	#
+Matthew	20:22-23	#	171:0.5/#	Jesús deniega la petición	S	#
+Matthew	20:22-23	#	136:9.4/#	Beber el cáliz amargo	C	#
+Matthew	20:24	#	181:2.15/#	Enfadaste a tus hermanos	S	#
+Matthew	20:24-28	#	171:0.6/#	Jesús calma a los apóstoles	S	#
+Matthew	20:26	#	158:6.3/#	El más grande debe ser el más servicial	C	#
+Matthew	20:26	#	140:9.2/#	Ayudad a los afligios	S	#
+Matthew	20:26-27	#	41:10.5/#	Quién será el más grande	C	#
+Matthew	20:26-27	#	158:8.1/#	Quién es el más grande	S	#
+Matthew	20:26-27	#	137:8.11/#	El grande es el servidor de todos	S	#
+Matthew	20:26-27	#	158:8.1/#	Quién es el más grande	S	#
+Matthew	20:26-27	#	175:1.10/#	Quién es más grande: el servidor	S	#
+Matthew	20:26-27	#	56:10.14/#	Quien quiera ser el más grande, que sea el servidor	R	#
+Matthew	20:26-27	#	140:1.6/#	Ser grande por el ministerio	S	#
+Matthew	20:26-27	#	28:6.18/#	El más grande sea el más servicial	R	#
+Matthew	20:26-27	#	170:3.8/#	Un servicio amoroso	S	#
+Matthew	20:28	#	157:6.9/#	Jesús vino para servir	S	#
+Matthew	20:28	#	186:5.7/#	Contra la idea de la expiación del pecado	C	#
+Matthew	20:29	#	171:5.1/#	Los seguidores llegan a Jericó	S	#
+Matthew	20:30	#	171:7.9/#	Mientras pasaba	R	#
+Matthew	20:30	#	171:7.5/#	Mientras pasaba	R	#
+Matthew	20:30-31	#	171:5.2/#	El hombre ciego es reprendido	S	#
+Matthew	20:30-31	#	121:8.4/#	Linaje de David	R	#
+Matthew	20:30-34	#	175:1.1/#	Curados por la fe	C	#
+Matthew	20:32-34	#	171:5.3/#	La vista restaurada por la fe	S	#
+Matthew	21:1-3	#	172:3.6/#	Los apóstoles son enviados a por el asno	S	#
+Matthew	21:4-5	#	172:3.4/#	Planificando la entrada en Jerusalén	S	#
+Matthew	21:4-5	#	122:4.4/#	Profecía mesiánica: Zc 9:9	R	#
+Matthew	21:4-5	#	121:8.4/#	Citas de profecías Zc 9:9	R	#
+Matthew	21:6-7a	#	172:3.6/#	Los apóstoles se hacen con el asno	S	#
+Matthew	21:7b-9	#	172:3.9/#	Entrada triunfal en Jerusalén	S	#
+Matthew	21:8-9	#	127:5.6/#	Entrada triunfal	S	#
+Matthew	21:9,15	#	121:8.4/#	Linaje de David	R	#
+Matthew	21:10-11a	#	172:3.16/#	Muchos preguntan «¿quién es Jesús?»	S	#
+Matthew	21:11	#	138:8.8/#	La fe es la puerta abierta	C	#
+Matthew	21:12-13	#	125:1.1/#	La casa de su Padre	R	#
+Matthew	21:12-13	#	173:1.7/#	Jesús limpia el templo	S	#
+Matthew	21:12-13	#	175:4.6/#	La limpieza del templo	S	#
+Matthew	21:12a	#	173:0.3/#	Llegada al templo	S	#
+Matthew	21:12a	#	173:1.1/#	Venta de animales sin defectos	S	#
+Matthew	21:12b	#	173:1.3/#	Los cambistas	S	#
+Matthew	21:15-16	#	173:1.8/#	Himnos de alabanza	S	#
+Matthew	21:21	#	144:2.6/#	Orad con fe	C	#
+Matthew	21:21	#	156:5.12/#	Una fe implícita	C	#
+Matthew	21:21-22	#	168:4.10/#	Alimentada por la fe	C	#
+Matthew	21:22	#	146:2.7/#	Cuándo son contestadas las súplicas	C	#
+Matthew	21:22	#	167:5.2/#	Pedid y recibiréis	S	#
+Matthew	21:22	#	144:2.3/#	Pedid, buscad, llamad	S	#
+Matthew	21:22	#	168:4.13/#	Pedid y recibiréis	S	#
+Matthew	21:23	#	173:2.2/#	«¿Con qué autoridad haces estas cosas?»	S	#
+Matthew	21:24-25a	#	173:2.4/#	Jesús pregunta a su vez	S	#
+Matthew	21:25b-27	#	173:2.5/#	Sin respuesta	S	#
+Matthew	21:28-31a	#	173:3.1/#	Parábola de los dos hijos (parte 1)	S	#
+Matthew	21:31,43	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	21:31,43	#	153:2.4/#	Reino de Dios	C	#
+Matthew	21:31,43	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	21:31,43	#	34:6.13/#	El reino de Dios	C	#
+Matthew	21:31,43	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	21:31,43	#	169:4.6/#	El reino de Dios	S	#
+Matthew	21:31,43	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	21:31b-32	#	173:3.2/#	Parábola de los dos hijos (parte 2)	S	#
+Matthew	21:33-40	#	173:4.2/#	Parábola del propietario ausente (parte 1)	S	#
+Matthew	21:41	#	173:4.3/#	Parábola del propietario ausente (parte 2)	S	#
+Matthew	21:42-44	#	173:4.4/#	Parábola de la piedra angular	S	#
+Matthew	21:45-46	#	173:4.5/#	Los fariseos temían a la multitud	S	#
+Matthew	22:1	#	173:5.1/#	Jesús habla en parábolas	S	#
+Matthew	22:1-10	#	167:2.2/#	Parábola de la gran cena	S	#
+Matthew	22:2	#	34:6.13/#	Reino del cielo	C	#
+Matthew	22:2	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	22:2	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	22:2	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	22:2	#	153:2.4/#	El reino del Cielo	C	#
+Matthew	22:2	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	22:2	#	171:0.1/#	El reino de los cielos	C	#
+Matthew	22:2	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	22:2-4	#	173:5.2/#	Parábola del festín de bodas (parte 1)	S	#
+Matthew	22:5-7	#	173:5.2/#	Parábola del festín de bodas (parte 2)	S	#
+Matthew	22:8-10	#	173:5.3/#	Parábola del festín de bodas (parte 3)	S	#
+Matthew	22:11-14	#	173:5.3/#	Sin vestido nupcial	S	#
+Matthew	22:15	#	174:2.1/#	Los líderes religiosos planean desacreditarle	S	#
+Matthew	22:16	#	139:10.9/#	Jesús no hacía acepción de personas	R	#
+Matthew	22:16	#	174:2.2/#	Jesús no hace acepción de personas	S	#
+Matthew	22:16	#	181:2.14/#	El Padre y el Hijo no hacen acepción de personas	C	#
+Matthew	22:16	#	141:7.10/#	Instructor venido del cielo	C	#
+Matthew	22:16-21	#	174:2.2/#	Jesús interrogado por estudiantes	S	#
+Matthew	22:17-21	#	174:2.2/#	Dad al César lo del César y a Dios lo de Dios	S	#
+Matthew	22:21	#	156:5.16/#	Dad al César lo que es del César	C	#
+Matthew	22:21	#	185:3.1/#	La postura de Jesús sobre el tributo	S	#
+Matthew	22:21	#	140:8.9/#	Dad al César lo que es del César y a Dios lo que es de Dios	R	#
+Matthew	22:21	#	101:7.5/#	Separar las cosas del César de las de Dios	C	#
+Matthew	22:21	#	178:1.3/#	Dar al César y a Dios lo suyo	S	#
+Matthew	22:21	#	133:4.3/#	Da al César lo que es del César y a Dios lo que es de Dios	R	#
+Matthew	22:21	#	181:2.10/#	Al César lo del César y a Dios lo de Dios	S	#
+Matthew	22:22	#	174:2.3/#	Los desafiantes se retiran	S	#
+Matthew	22:23	#	174:3.3/#	La gente maravillada	S	#
+Matthew	22:23-28	#	174:3.1/#	Pregunta sobre la resurrección	S	#
+Matthew	22:24	#	82:5.5/#	Matrimonio del levirato	C	#
+Matthew	22:24	#	83:5.4/#	Matrimonio del levirato	C	#
+Matthew	22:29-32	#	174:3.2/#	Respuesta de Jesús	S	#
+Matthew	22:30	#	43:9.2/#	Sois como los ángeles	R	#
+Matthew	22:30	#	38:2.2/#	Los ángeles no se casan	R	#
+Matthew	22:30-33	#	121:5.11/#	Supervivencia a la muerte	C	#
+Matthew	22:34	#	174:4.1/#	Complot para enredar a Jesús	S	#
+Matthew	22:34-40	#	164:1.1/#	¿Cuál es el mayor mandamiento?	S	#
+Matthew	22:35	#	191:4.3/#	Amarse unos a otros	S	#
+Matthew	22:35-40	#	174:4.2/#	El mandamiento más grande	S	#
+Matthew	22:36-39	#	142:1.1/#	Amar a Dios y al prójimo como a sí mismo	C	#
+Matthew	22:36-40	#	142:3.22/#	Amar a Dios y al prójimo	C	#
+Matthew	22:36-40	#	142:4.2/#	Amar a Dios y al prójimo	C	#
+Matthew	22:37	#	131:2.2/#	Amarás al Señor tu Dios con todo tu corazón	C	#
+Matthew	22:37	#	163:4.8/#	Ama a Dios con todo tu corazón	S	#
+Matthew	22:37	#	131:10.2/#	Deberíais amarlo con toda la mente y corazón	C	#
+Matthew	22:37	#	110:3.8/#	Amando a Dios	C	#
+Matthew	22:37-40	#	143:1.4/#	Dios gobierna mediante el amor	C	#
+Matthew	22:37-40	#	195:10.4/#	Dios es un espíritu amoroso	C	#
+Matthew	22:37-40	#	156:5.11/#	El amor divino	C	#
+Matthew	22:37-40	#	196:3.16/#	Una religión de AMOR	C	#
+Matthew	22:37-40	#	143:1.6/#	Dios de amor	C	#
+Matthew	22:39	#	174:4.2/#	Ama a tu prójimo como a ti	S	#
+Matthew	22:39	#	103:5.2/#	Amar al prójimo como a sí mismo	C	#
+Matthew	22:39	#	131:2.13/#	Ama a tu prójimo como a ti mismo	R	#
+Matthew	22:39	#	131:2.11/#	Ama a tu prójimo como a ti mismo	R	#
+Matthew	22:39	#	131:10.2/#	Amar al prójimo como a uno mismo	C	#
+Matthew	22:39	#	159:5.4/#	Ama a tu prójimo como a ti	R	#
+Matthew	22:39	#	178:1.17/#	Amaros los unos a los otros	C	#
+Matthew	22:39	#	181:2.4/#	Amarse uno a otro	S	#
+Matthew	22:39	#	180:5.7/#	Amar al prójimo como a uno mismo	S	#
+Matthew	22:39	#	163:4.8/#	Ama a tu prójimo como a ti mismo	S	#
+Matthew	22:39	#	170:3.6/#	Amar al prójimo	S	#
+Matthew	22:39	#	110:3.9/#	Amando a los hombres	C	#
+Matthew	22:39	#	159:5.9/#	Ama a tu prójimo como a ti mismo	R	#
+Matthew	22:41-46	#	122:4.4/#	Jesús no era del linaje de David	C	#
+Matthew	22:41-46	#	174:4.6/#	Jesús el «Señor» de David	S	#
+Matthew	22:42	#	121:8.4/#	Linaje de David	R	#
+Matthew	22:43-44	#	13:2.7/#	Diestra del Padre	C	#
+Matthew	22:43-44	#	21:4.4/#	La derecha del Padre	R	#
+Matthew	22:43-44	#	38:0.1/#	Derecha de Dios	C	#
+Matthew	22:43-44	#	5:2.2/#	A la derecha del Padre	R	#
+Matthew	23:1	#	174:0.1/#	Último discurso de Jesús en el templo	S	#
+Matthew	23:1-39	#	149:2.10/#	Error de las ceremonias sin sentido	S	#
+Matthew	23:1-39	#	175:4.12/#	El Sanedrín, irritado por el discurso de despedida	S	#
+Matthew	23:2	#	177:3.7/#	Sentados en la cátedra de Moisés	R	#
+Matthew	23:3-4	#	175:1.8/#	Obedeced incluso a los líderes deshonestos	S	#
+Matthew	23:5-7	#	175:1.9/#	Los líderes anhelan honores	S	#
+Matthew	23:6-7	#	166:1.4/#	Lamento por los que buscan los honores	S	#
+Matthew	23:8	#	134:4.7/#	Todos somos hermanos	C	#
+Matthew	23:9	#	141:4.2/#	Dios es nuestro Padre	C	#
+Matthew	23:9	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
+Matthew	23:9	#	131:10.6/#	Relación entre padre e hijo	C	#
+Matthew	23:9	#	131:10.5/#	Dios es «mi» padre	C	#
+Matthew	23:9	#	196:0.2/#	El Padre del cielo	C	#
+Matthew	23:9	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
+Matthew	23:9	#	131:10.8/#	La relación de padre e hijo	C	#
+Matthew	23:9	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
+Matthew	23:9	#	142:3.8/#	El Padre que está en los Cielos	C	#
+Matthew	23:9	#	149:6.8/#	Dios es nuestro Padre	C	#
+Matthew	23:9	#	170:2.20/#	La hermandad de la familia de Dios	C	#
+Matthew	23:9	#	175:1.10/#	No debéis llamar «padre espiritual»	S	#
+Matthew	23:9	#	100:7.16/#	Padre nuestro que estás en los cielos	C	#
+Matthew	23:11	#	140:1.6/#	Ser grande por el ministerio	S	#
+Matthew	23:11	#	175:1.10/#	Quién es más grande: el servidor	S	#
+Matthew	23:11	#	170:3.8/#	Un servicio amoroso	S	#
+Matthew	23:11-12	#	41:10.5/#	Quién será el más grande	C	#
+Matthew	23:11-12	#	158:8.1/#	El que se humille a sí mismo	S	#
+Matthew	23:11-12	#	56:10.14/#	Quien quiera ser el más grande, que sea el servidor	R	#
+Matthew	23:11-12	#	137:8.11/#	El grande es el servidor de todos	S	#
+Matthew	23:11-12	#	158:6.3/#	El más grande debe ser el más servicial	C	#
+Matthew	23:11-12	#	158:8.1/#	El que se humille a sí mismo	S	#
+Matthew	23:11-12	#	28:6.18/#	El más grande sea el más servicial	R	#
+Matthew	23:11-12	#	158:8.1/#	El que se humille a sí mismo	S	#
+Matthew	23:12	#	167:1.5/#	El exaltado será humillado y el humillado exaltado	S	#
+Matthew	23:12	#	167:5.1/#	Quien se humilla será ensalzado	S	#
+Matthew	23:12	#	175:1.10/#	Los humillados serán exaltados	S	#
+Matthew	23:13	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	23:13	#	34:6.13/#	Reino del cielo	C	#
+Matthew	23:13	#	153:2.4/#	El reino del Cielo	C	#
+Matthew	23:13	#	171:0.1/#	El reino de los cielos	C	#
+Matthew	23:13	#	166:1.5/#	Juristas que esconden el conocimiento	S	#
+Matthew	23:13	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	23:13	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	23:13	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	23:13	#	175:1.12/#	Primera lamentación	S	#
+Matthew	23:13	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	23:14	#	175:1.9/#	Los líderes anhelan honores	S	#
+Matthew	23:14	#	175:1.14/#	Tercera lamentación	S	#
+Matthew	23:15	#	175:1.13/#	Segunda lamentación	S	#
+Matthew	23:16a	#	175:1.15/#	Cuarta lamentación	S	#
+Matthew	23:16b-19	#	175:1.16/#	Quinta lamentación	S	#
+Matthew	23:23	#	166:1.4/#	Dar limosnas no es suficente	S	#
+Matthew	23:23-24	#	175:1.17/#	Sexta lamentación	S	#
+Matthew	23:24	#	156:2.8/#	Filtran los mosquitos y se tragan los camellos	C	#
+Matthew	23:25	#	166:1.4/#	Limpiáis el exterior pero el interior está sucio	S	#
+Matthew	23:25-26	#	175:1.18/#	Séptima lamentación	S	#
+Matthew	23:27-28	#	166:1.5/#	Sepulcros blanqueados	S	#
+Matthew	23:27-28	#	175:1.19/#	Octava lamentación	S	#
+Matthew	23:28	#	166:1.4/#	Malvados, presuntuosos	S	#
+Matthew	23:29-31	#	166:1.5/#	Tumbas para los profetas	S	#
+Matthew	23:29-32	#	175:1.20/#	Novena lamentación	S	#
+Matthew	23:33	#	175:1.21/#	Décima lamentación	S	#
+Matthew	23:34-36	#	175:1.22/#	Ofrecimiento de perdón	S	#
+Matthew	23:37	#	175:1.23/#	Lamento por Jerusalén	S	#
+Matthew	23:37-39a	#	171:4.7/#	Jesús se lamenta por Jerusalén	S	#
+Matthew	23:38	#	177:3.7/#	Os dejo vuestra casa desolada	R	#
+Matthew	23:38-39	#	175:1.24/#	La triste despedida	S	#
+Matthew	24:1	#	175:1.25/#	Dejan el templo	S	#
+Matthew	24:1-2	#	128:5.3/#	El templo será demolido	C	#
+Matthew	24:1-2	#	176:0.1/#	Predicción de la destrucción del templo	S	#
+Matthew	24:1-2	#	178:3.3/#	Predicción de la destrucción del templo	S	#
+Matthew	24:3	#	176:1.6/#	Los apóstoles confunden los acontecimientos	S	#
+Matthew	24:3-42	#	20:4.5/#	Promesa de regresar	C	#
+Matthew	24:3a	#	176:0.2/#	Jesús y los apóstoles conversan	S	#
+Matthew	24:3b	#	176:0.1/#	Confusión con el fin del mundo	S	#
+Matthew	24:4-14	#	176:1.1/#	Destrucción de Jerusalén	S	#
+Matthew	24:6-7	#	134:6.3/#	Guerras y rumores de guerras	C	#
+Matthew	24:6-7	#	52:6.1/#	Guerras y rumores de guerras	R	#
+Matthew	24:9	#	140:9.3/#	Seréis vilipendiados y ejecutados	C	#
+Matthew	24:11	#	140:10.4/#	Los falsos profetas	S	#
+Matthew	24:11,24	#	140:3.19/#	Advertencia contra los falsos profetas	S	#
+Matthew	24:14	#	153:2.4/#	Reino espiritual	C	#
+Matthew	24:14	#	193:1.2/#	Enseñad el amor de Dios al mundo	S	#
+Matthew	24:14	#	194:0.1/#	El evangelio del reino	C	#
+Matthew	24:14	#	190:3.1/#	La gran asignación	S	#
+Matthew	24:14	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	24:14	#	34:6.13/#	Reino	C	#
+Matthew	24:14	#	193:5.2/#	Proclamación del nuevo evangelio	S	#
+Matthew	24:14	#	186:5.4/#	El evangelio del reino	C	#
+Matthew	24:14	#	170:1.10/#	Evangelio del reino	R	#
+Matthew	24:14	#	165:6.3/#	El gran encargo	C	#
+Matthew	24:14	#	176:1.1/#	Evangelio del reino	C	#
+Matthew	24:14	#	193:0.4/#	Salir a predicar el amor de Dios	C	#
+Matthew	24:14	#	193:1.2/#	Enseñad el amor de Dios al mundo	C	#
+Matthew	24:14	#	193:0.5/#	Id por todo el mundo predicando este evangelio	C	#
+Matthew	24:14	#	138:6.3/#	El evangelio del reino	C	#
+Matthew	24:14	#	100:7.12/#	Evangelio del reino	C	#
+Matthew	24:14	#	178:1.14/#	El gran encargo	S	#
+Matthew	24:14	#	130:2.3/#	Evangelio del reino	C	#
+Matthew	24:14	#	191:6.3/#	La gran asignación	C	#
+Matthew	24:14	#	139:7.6/#	Evangelio del reino	C	#
+Matthew	24:14	#	140:9.2/#	Encargo de predicar por el mundo	S	#
+Matthew	24:14	#	146:4.4/#	El evangelio del reino	S	#
+Matthew	24:14	#	141:2.2/#	Evangelio del reino	C	#
+Matthew	24:14	#	143:1.5/#	Id predicad el evangelio a todos	C	#
+Matthew	24:14	#	95:7.3/#	El gran mandato	R	#
+Matthew	24:14	#	141:2.1/#	El reino de Dios ya está aquí	C	#
+Matthew	24:14	#	137:8.2/#	Evangelio del reino	S	#
+Matthew	24:14	#	193:0.4/#	Salir a predicar el amor de Dios	S	#
+Matthew	24:14	#	193:2.2/#	La gran asignación	C	#
+Matthew	24:14	#	191:6.3/#	La gran asignación	C	#
+Matthew	24:14	#	160:3.5/#	Evangelio del reino	R	#
+Matthew	24:14	#	191:5.3/#	La gran asignación	C	#
+Matthew	24:14	#	190:4.1/#	La gran asignación	S	#
+Matthew	24:14	#	191:4.4/#	La gran asignación	C	#
+Matthew	24:14	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	24:14	#	181:2.12/#	Proclamar el evangelio al mundo	S	#
+Matthew	24:14	#	150:5.2/#	Evangelio del reino	C	#
+Matthew	24:14	#	196:2.6/#	El evangelio del reino	C	#
+Matthew	24:14	#	176:2.3/#	El evangelio por todo el mundo	C	#
+Matthew	24:14	#	169:4.6/#	Reino	S	#
+Matthew	24:14	#	140:0.1/#	El evangelio del reino	C	#
+Matthew	24:14	#	143:1.5/#	Id predicad el evangelio a todos	C	#
+Matthew	24:15-18	#	176:1.4/#	¡Salvad vuestras vidas!	S	#
+Matthew	24:15-21	#	178:3.3/#	Los apóstoles advertidos para huir	S	#
+Matthew	24:15-44	#	176:2.8/#	Confusión sobre las advertencias	S	#
+Matthew	24:21a	#	176:1.4/#	Gran tribulación	S	#
+Matthew	24:23	#	137:8.9/#	No os dejéis engañar	S	#
+Matthew	24:23-25	#	176:1.4/#	Cuidado con los falsos mesías	S	#
+Matthew	24:27,37,42	#	37:3.4/#	Regresaré de nuevo	R	#
+Matthew	24:27-30	#	170:2.10/#	La creencia en un reino inminente	S	#
+Matthew	24:29-31	#	170:4.6/#	El fin de los tiempos	C	#
+Matthew	24:29-31	#	170:2.14/#	Creencia en un final súbito y espectacular	C	#
+Matthew	24:30	#	52:5.7/#	Cubierto de gloria con los ángeles	R	#
+Matthew	24:30	#	196:2.5/#	Creencia en el retorno inmediato del Señor	C	#
+Matthew	24:30-31	#	140:1.5/#	No con una demostración indecorosa	C	#
+Matthew	24:30-31	#	141:4.5/#	El reino vendrá en poder y gloria	C	#
+Matthew	24:30b	#	176:2.4/#	Segunda venida con poder	S	#
+Matthew	24:30b	#	176:3.3/#	Regreso del Hijo del Hombre	S	#
+Matthew	24:31	#	49:6.5/#	Los ángeles reunirán a los elegidos	R	#
+Matthew	24:31	#	113:6.7/#	Enviará a sus ángeles y reunirá a sus escogidos	R	#
+Matthew	24:32-33	#	176:2.6/#	Ser sabios en la maduración de una era	S	#
+Matthew	24:34	#	176:2.6/#	Las tribulaciones de Jerusalén	S	#
+Matthew	24:35	#	156:2.5/#	Las palabras de la verdad no desaparecerán	R	#
+Matthew	24:35	#	176:1.6/#	Todas las cosas se desvanecerán	S	#
+Matthew	24:36	#	176:2.5/#	Sólo Dios sabe cuándo	S	#
+Matthew	24:36	#	20:4.5/#	Ni siquiera los ángeles conocen el momento	R	#
+Matthew	24:42	#	165:5.6/#	Parábola: regreso de la boda	S	#
+Matthew	24:42-44	#	176:2.7/#	¿Qué diferencia supone para vosotros?	S	#
+Matthew	24:43-44	#	165:5.7/#	Cuando menos lo esperéis	S	#
+Matthew	24:45-47	#	165:6.2/#	El criado puesto a prueba	S	#
+Matthew	24:48-51	#	165:6.3/#	El criado perezoso	S	#
+Matthew	25:1,14	#	190:5.4/#	El evangelio del reino	S	#
+Matthew	25:1,14	#	193:0.4/#	Evangelio del reino	C	#
+Matthew	25:1,14	#	153:2.4/#	Reino espiritual	C	#
+Matthew	25:1,14	#	143:1.5/#	El evangelio del reino	C	#
+Matthew	25:1,14	#	153:2.4/#	Reino espiritual	C	#
+Matthew	25:1,14	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Matthew	25:1,14	#	34:6.13/#	Reino del cielo	C	#
+Matthew	25:1,14	#	171:0.1/#	El reino de los cielos	C	#
+Matthew	25:1,14	#	169:4.6/#	El reino de los cielos	S	#
+Matthew	25:1-13	#	176:2.8/#	Parábola de las diez vírgenes	C	#
+Matthew	25:11-13	#	166:3.4/#	No hay entrada para los descreídos	S	#
+Matthew	25:13	#	37:3.4/#	Regresaré de nuevo	R	#
+Matthew	25:14-18	#	176:3.4/#	Parábola de los talentos	S	#
+Matthew	25:14-28	#	28:6.9/#	El tiempo es un «talento» de todos	R	#
+Matthew	25:19-27	#	171:8.6/#	Parábola de las minas, cont.	S	#
+Matthew	25:19-28	#	176:3.4/#	Parábola de los talentos, cont.	S	#
+Matthew	25:21,23	#	25:1.6/#	Bien hecho, buen y fiel servidor	R	#
+Matthew	25:21,23	#	174:0.2/#	Te he confiado muchas cosas	S	#
+Matthew	25:21,23,29	#	169:2.6/#	Fieles en lo pequeño, también en lo grande	S	#
+Matthew	25:21b, 23b	#	176:3.7/#	Entrar en la alegría del Señor	S	#
+Matthew	25:24-26	#	176:3.7/#	Aquí está la verdad que nos diste	S	#
+Matthew	25:28-29	#	171:8.7/#	Parábola de las minas, concluded	S	#
+Matthew	25:29	#	151:3.1/#	Al que tiene se le dará más	C	#
+Matthew	25:29	#	109:4.5/#	A quien tiene se le dará, pero al que no tiene	C	#
+Matthew	25:29	#	176:3.5/#	Parábola de los talentos, final	S	#
+Matthew	25:29	#	151:1.4/#	Al que tiene más se le da más, y al que menos se le quita	S	#
+Matthew	25:29	#	176:3.5/#	Parábola de los talentos, final	S	#
+Matthew	25:31	#	176:3.3/#	Regreso del Hijo del Hombre	S	#
+Matthew	25:31	#	176:2.4/#	Segunda venida con poder	S	#
+Matthew	25:31	#	52:5.7/#	Cubierto de gloria con los ángeles	R	#
+Matthew	25:31	#	196:2.5/#	Creencia en el retorno inmediato del Señor	C	#
+Matthew	25:31-34	#	170:2.10/#	La creencia en un reino inminente	S	#
+Matthew	25:33-34	#	137:8.16/#	Alcanzarán la diestra de su gloria	S	#
+Matthew	25:40	#	155:3.3/#	Servir a la hermandad	S	#
+Matthew	25:40	#	176:3.5/#	Lo que ayudéis a los demás, me ayudáis a mi	S	#
+Matthew	25:41	#	53:1.4/#	El demonio	C	#
+Matthew	25:46	#	153:2.11/#	Los que creen tienen vida eterna	C	#
+Matthew	25:46	#	162:7.5/#	Los creyentes nunca morirán	C	#
+Matthew	25:46	#	27:1.5/#	Vida eterna	C	#
+Matthew	25:46	#	170:2.20/#	Vida eterna / sin fin	C	#
+Matthew	25:46	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
+Matthew	25:46	#	170:2.2/#	La esperanza de la vida eterna	S	#
+Matthew	25:46	#	181:2.11/#	La vida eterna en el reino venidero	C	#
+Matthew	25:46	#	121:5.11/#	Vida después de la muerte	C	#
+Matthew	25:46	#	101:6.8/#	Vida eterna	C	#
+Matthew	25:46	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
+Matthew	25:46	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
+Matthew	25:46	#	2:2.1/#	Vida eterna	C	#
+Matthew	25:46	#	146:3.7/#	La vida eterna	C	#
+Matthew	25:46	#	162:2.7/#	Vida eterna	S	#
+Matthew	25:46	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
+Matthew	25:46	#	3:0.1/#	Vida eterna	C	#
+Matthew	25:46	#	128:1.10/#	Dador de la vida eterna	C	#
+Matthew	26:3-4	#	177:4.1/#	Reunión del Sanedrín en la casa de Caifás	S	#
+Matthew	26:3-5	#	175:4.13/#	Los planes del Sanedrín	S	#
+Matthew	26:5	#	177:4.6/#	Temor a las multitudes	S	#
+Matthew	26:6	#	172:1.2/#	El banquete	S	#
+Matthew	26:6-7	#	139:12.10/#	Frasco de incienso	C	#
+Matthew	26:7	#	172:1.7/#	El precio del ungüento	S	#
+Matthew	26:7-9	#	172:1.5/#	La unción de Jesús por una mujer	S	#
+Matthew	26:10-13	#	172:1.6/#	Jesús defiende a María	S	#
+Matthew	26:14	#	177:4.1/#	Judas va a la casa de Caifás	S	#
+Matthew	26:14-16	#	172:1.7/#	Judas se decide a la traición	S	#
+Matthew	26:14-16,47-49	#	139:12.12/#	La traición de Judas	C	#
+Matthew	26:15	#	186:1.2/#	Treinta monedas de plata	S	#
+Matthew	26:15a	#	177:4.7/#	Judas pregunta «¿Por cuánto?»	S	#
+Matthew	26:16	#	177:4.8/#	«Recompensa» por la traición a Jesús	S	#
+Matthew	26:17	#	178:2.5/#	¿Dónde comeremos la Pascua?	S	#
+Matthew	26:18	#	178:2.7/#	Seguiréis a un hombre con una cántara	S	#
+Matthew	26:19	#	178:2.8/#	La habitación de arriba	S	#
+Matthew	26:20	#	179:1.7/#	Jesús entra y se sienta	S	#
+Matthew	26:21	#	179:4.1/#	Anuncio de la inminente traición	S	#
+Matthew	26:22	#	179:4.2/#	«¿Soy yo?»	S	#
+Matthew	26:23	#	179:4.2/#	Traicionado por un amigo	S	#
+Matthew	26:24	#	179:4.2/#	No era necesario un traidor	S	#
+Matthew	26:25	#	179:4.3/#	Jesús da pan untado a Judas	S	#
+Matthew	26:26	#	179:5.3/#	El pan de la vida	S	#
+Matthew	26:27-29	#	179:5.1/#	La copa de la bendición	S	#
+Matthew	26:29	#	179:2.2/#	La segunda copa	S	#
+Matthew	26:30a	#	179:5.10/#	Final con un canto (Salmo 118)	S	#
+Matthew	26:31	#	183:4.6/#	El pastor es golpeado y las ovejas se dispersan	C	#
+Matthew	26:31-32	#	181:2.27/#	Última advertencia de una lección	S	#
+Matthew	26:32	#	191:5.6/#	Id a Galilea	S	#
+Matthew	26:33,35	#	181:2.28/#	La presunción de Pedro	S	#
+Matthew	26:34	#	184:2.8/#	Las palabras de advertencia	S	#
+Matthew	26:34	#	181:2.29/#	Predicción de la negación de Pedro	S	#
+Matthew	26:36-39	#	182:3.1/#	La primera oración de Getsemaní	S	#
+Matthew	26:37	#	182:2.2/#	Tres discípulos escogidos	S	#
+Matthew	26:39	#	20:6.7/#	Beber la copa	R	#
+Matthew	26:39,42	#	136:9.4/#	Beber el cáliz amargo	C	#
+Matthew	26:39,42,44	#	183:1.1/#	Jesús hizo la voluntad del Padre	C	#
+Matthew	26:39,42,44	#	196:0.14/#	Jesús hizo la voluntad del Padre	C	#
+Matthew	26:39,42,44	#	118:8.11/#	Es mi voluntad que se haga tu voluntad	R	#
+Matthew	26:39,42,44	#	120:2.1/#	Jesús vive sometido a la voluntad del Padre	C	#
+Matthew	26:39,42,44	#	120:0.4/#	Revelar la voluntad del Padre Universal	C	#
+Matthew	26:39,42,44	#	140:5.11/#	Hágase tu voluntad	C	#
+Matthew	26:39,42,44	#	141:7.11/#	Jesús vivió la voluntad del Padre	C	#
+Matthew	26:39,42,44	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
+Matthew	26:39,42,44	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
+Matthew	26:39,42,44	#	131:10.2/#	Viviendo su voluntad podemos revelarlo	C	#
+Matthew	26:39,42,44	#	120:4.1/#	Vivir sometido a la voluntad del Padre	R	#
+Matthew	26:39,42,44	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
+Matthew	26:39,42,44	#	180:3.9/#	He hecho la vountad del Padre	C	#
+Matthew	26:39,42,44	#	119:8.4/#	Jesús vivió la voluntad del Padre	C	#
+Matthew	26:39,42,44	#	128:7.2/#	Sometido a la voluntad de mi Padre	R	#
+Matthew	26:39,42,44	#	117:0.1/#	Hacer la voluntad de Dios	C	#
+Matthew	26:39,42,44	#	120:2.8/#	Jesús dedicado a vivir la voluntad del Padre	C	#
+Matthew	26:39,42,44	#	196:0.10/#	Jesús hizo la voluntad del Padre	C	#
+Matthew	26:39,42,44	#	136:4.4/#	Que no se haga mi voluntad sino la tuya	R	#
+Matthew	26:39,42,44	#	136:10.1/#	Someterse a la voluntad del Padre	R	#
+Matthew	26:39,42,44	#	143:1.4/#	Jesús vino a hacer la voluntad de Dios	R	#
+Matthew	26:39,42,44	#	136:8.3/#	Jesús decide vivir la voluntad del Padre	C	#
+Matthew	26:39,42,44	#	160:1.11/#	«Que no se haga mi voluntad, sino la tuya»	R	#
+Matthew	26:39,42,44	#	109:6.5/#	Que no se haga mi voluntad, sino la tuya	R	#
+Matthew	26:40	#	182:3.2/#	Primera vez que los apóstoles duermen	S	#
+Matthew	26:41b	#	182:3.4/#	El espíritu está dispuesto, pero la carne es débil	S	#
+Matthew	26:42	#	182:3.2/#	La segunda oración en Getsemaní	S	#
+Matthew	26:43	#	182:3.3/#	La segunda vez que los apóstoles duermen	S	#
+Matthew	26:44-46	#	182:3.4/#	Tercera oración y tercer sueño de los apóstoles	S	#
+Matthew	26:47	#	183:2.4/#	Judas conduce a la tropa armada	S	#
+Matthew	26:48	#	183:3.3/#	El plan	S	#
+Matthew	26:49-50a	#	183:3.5/#	Jesús traicionado con un beso	S	#
+Matthew	26:51	#	183:3.7/#	El ataque a Malco	S	#
+Matthew	26:52	#	183:3.7/#	Jesús reprende a Pedro	S	#
+Matthew	26:52	#	181:2.11/#	Los que combaten con la espada perecen por la espada	S	#
+Matthew	26:53	#	38:6.1/#	Doce legiones de ángeles	R	#
+Matthew	26:53	#	178:3.3/#	Jesús no neceista la protección de ningún hombre	S	#
+Matthew	26:53	#	136:5.1/#	Doce legiones de ángeles y otros	S	#
+Matthew	26:53	#	182:3.8/#	Los ejércitos de los cielos a mano	S	#
+Matthew	26:53	#	183:3.7/#	Ejércitos celestiales	S	#
+Matthew	26:53	#	167:7.4/#	Espíritus ministrantes	S	#
+Matthew	26:55	#	183:3.8/#	¿Por qué me capturáis aquí?	S	#
+Matthew	26:56b	#	183:3.9/#	Los seguidores huyen	S	#
+Matthew	26:57	#	184:1.9/#	Jesús llevado ante Caifás	S	#
+Matthew	26:58	#	183:3.10/#	Pedro los sigue en la distancia	S	#
+Matthew	26:58	#	184:2.1/#	Pedro entra en el patio	S	#
+Matthew	26:58	#	139:2.9/#	Siguiendo de lejos	R	#
+Matthew	26:59-60a	#	184:3.6/#	Dos testigos de acuerdo	S	#
+Matthew	26:60-62a	#	186:2.2/#	Jesús rehusó defenderse	S	#
+Matthew	26:60b-61	#	184:3.7/#	El acuerdo de los testigos	S	#
+Matthew	26:61	#	184:3.7/#	Destruid este templo, y lo reconstruiré	S	#
+Matthew	26:62-63a	#	184:3.8/#	Jesús no se defiende	S	#
+Matthew	26:63b-64	#	184:3.11/#	Jesús confiesa, soy el Libertador	S	#
+Matthew	26:63b-64	#	184:1.8/#	Conversación con Anás	C	#
+Matthew	26:63b-64a	#	186:2.2/#	Jesús respondió sobre su divinidad	S	#
+Matthew	26:65-66	#	184:3.12/#	La respuesta del sumo sacerdote	S	#
+Matthew	26:67	#	184:3.15/#	Desorden en el tribunal	S	#
+Matthew	26:67-68	#	184:4.1/#	Ultrajes contra Jesús	S	#
+Matthew	26:67-68	#	186:2.10/#	Jesús nunca se irritaba	S	#
+Matthew	26:69-70	#	184:2.4/#	Primera negación	S	#
+Matthew	26:69-75	#	139:2.6/#	Negación de Pedro	S	#
+Matthew	26:69-75	#	139:2.5/#	Negación de Pedro	S	#
+Matthew	26:71-72	#	184:2.6/#	Segunda negación	S	#
+Matthew	26:73-74a	#	184:2.7/#	Tercera negación	S	#
+Matthew	26:74b	#	184:2.8/#	El gallo cantó	S	#
+Matthew	26:75a	#	184:2.8/#	Pedro recuerda	S	#
+Matthew	26:75b	#	184:2.9/#	Pedro llora amargamente	S	#
+Matthew	27:1	#	184:5.1/#	Segunda reunión del tribunal	S	#
+Matthew	27:2	#	184:5.8/#	Jesús conducido ante Pilato	S	#
+Matthew	27:3-5	#	139:12.13/#	El suicidio de Judas	R	#
+Matthew	27:3a	#	186:1.2/#	Los remordimientos de Judas	S	#
+Matthew	27:3b-4a	#	186:1.4/#	Judas regresa al sanedrín	S	#
+Matthew	27:4b	#	186:1.5/#	Judas rechazado	S	#
+Matthew	27:5a	#	186:1.6/#	Judas devuelve la plata	S	#
+Matthew	27:5b	#	186:1.7/#	El suicidio de Judas	S	#
+Matthew	27:9-10	#	122:4.4/#	Profecía mesiánica: Zc 11:12	R	#
+Matthew	27:9-10	#	121:8.4/#	Citas de profecías Zc 11:12	R	#
+Matthew	27:11	#	186:2.2/#	Jesús respondió sobre su divinidad	S	#
+Matthew	27:11a	#	185:3.2/#	¿Eres el rey de los judíos?	S	#
+Matthew	27:11b	#	185:3.4/#	El reconocimiento del «reino»	S	#
+Matthew	27:12a	#	185:2.10/#	Cargos contra Jesús	S	#
+Matthew	27:15	#	185:5.2/#	La costumbre de liberar a un prisionero	S	#
+Matthew	27:16	#	185:5.3/#	Barrabás era un asesino	S	#
+Matthew	27:17	#	185:5.4/#	¿A qué prisionero queréis que os suelte?	S	#
+Matthew	27:18	#	185:5.6/#	Jesús y Barrabás	S	#
+Matthew	27:19a	#	185:5.7/#	El mensaje a Pilatos de su mujer	S	#
+Matthew	27:19b	#	185:5.8/#	Contenido del mensaje	S	#
+Matthew	27:20	#	185:5.8/#	El retraso ayuda a los enemigos	S	#
+Matthew	27:22	#	185:5.9/#	¿Qué hacemos con Jesús? ¡Crucifícalo!	S	#
+Matthew	27:23	#	185:5.10/#	¿Por qué queréis crucificar a Jesús?	S	#
+Matthew	27:24	#	186:4.1/#	Pilatos se lava las manos	S	#
+Matthew	27:24-25	#	185:8.2/#	Pilatos se lava las manos	S	#
+Matthew	27:26a	#	185:8.2/#	Liberación de Barrabás	S	#
+Matthew	27:26b	#	185:6.2/#	Jesús azotado	S	#
+Matthew	27:26b,31b	#	186:1.1/#	Jesús entregado para ser cricificado	S	#
+Matthew	27:26c	#	186:4.1/#	Pilatos: crucificadle inmediatamente	S	#
+Matthew	27:27-31a	#	185:6.2/#	La flagelación	S	#
+Matthew	27:31ab	#	186:4.1/#	Se burlan de Jesús pero no lo castigan más	S	#
+Matthew	27:31c	#	186:4.2/#	La hora de partir	S	#
+Matthew	27:32	#	130:6.6/#	Simón el portador de la cruz	C	#
+Matthew	27:32	#	187:1.9/#	Portar la cruz de Jesús	S	#
+Matthew	27:33	#	187:1.11/#	Lugar de la crucifixión	S	#
+Matthew	27:34	#	187:2.3/#	Jesús rehúsa los narcóticos	S	#
+Matthew	27:35	#	122:4.4/#	Profecía mesiánica: Ps 22:18	R	#
+Matthew	27:35	#	121:8.4/#	Citas de profecías Ps 22:18	R	#
+Matthew	27:35a	#	187:2.1/#	La crucifixión	S	#
+Matthew	27:35b	#	187:2.8/#	Se reparten sus ropas	S	#
+Matthew	27:36	#	187:3.4/#	Los soldados se sientan y observan	S	#
+Matthew	27:37	#	187:1.2/#	El letrero: el rey de los judíos	S	#
+Matthew	27:37	#	187:2.5/#	El letrero: el rey de los judíos	S	#
+Matthew	27:38	#	187:0.2/#	Jesús crucificado con dos ladrones	S	#
+Matthew	27:38	#	187:2.4/#	Los dos bandidos	S	#
+Matthew	27:38	#	186:4.3/#	Los dos bandidos	S	#
+Matthew	27:39-44	#	187:3.3/#	Burlas y reproches crueles	S	#
+Matthew	27:39-44	#	136:7.4/#	Incluso cuando quienes le veían le provocaron	S	#
+Matthew	27:39-44,49	#	194:3.2/#	Las mofas a Jesús en la cruz	S	#
+Matthew	27:40	#	184:3.7/#	Destruid este templo, y lo reconstruiré	C	#
+Matthew	27:42a	#	136:6.5/#	Salvó a otros pero no a sí mismo	R	#
+Matthew	27:43	#	100:7.7/#	Confiaba en Dios	R	#
+Matthew	27:45	#	187:5.1/#	La oscuridad, una tormenta de arena	S	#
+Matthew	27:45	#	187:6.1/#	La oscuridad de la tormenta de arena	S	#
+Matthew	27:46	#	187:5.2/#	Jesús recita pasajes de las escrituras	S	#
+Matthew	27:48	#	187:5.3/#	De nuevo «Tengo sed»	S	#
+Matthew	27:50	#	187:5.5/#	Jesús muere en la cruz	S	#
+Matthew	27:52	#	30:4.4/#	Condujo una gran multitud	R	#
+Matthew	27:52-53	#	47:3.3/#	Cambios de la resurrección	C	#
+Matthew	27:52-53	#	193:0.5/#	Resurrección dispensacional	S	#
+Matthew	27:52-53	#	37:3.6/#	Arcángel de Miguel	R	#
+Matthew	27:52-53	#	189:3.1/#	La resurrección dispensacional	S	#
+Matthew	27:52-53	#	120:2.4/#	Juicio dispensacional	C	#
+Matthew	27:52-53	#	120:2.4/#	Juicio dispensacional	C	#
+Matthew	27:52-53	#	49:6.3/#	Resurrecciones especiales	C	#
+Matthew	27:52-53	#	121:5.11/#	Supervivencia a la muerte	C	#
+Matthew	27:54	#	157:5.1/#	Jesús, el Hijo de Dios	C	#
+Matthew	27:54	#	141:3.5/#	Evangelio del Hijo divino de Dios	C	#
+Matthew	27:54	#	136:1.1/#	Jesús, Hijo de Dios	R	#
+Matthew	27:54	#	187:5.5/#	Un verdadero Hijo de Dios	S	#
+Matthew	27:55	#	149:2.8/#	Las mujeres discípulas	S	#
+Matthew	27:55-56	#	127:5.6/#	María y las otras mujeres testigos de la crucifixión	R	#
+Matthew	27:55-56	#	187:3.2/#	Los que permanecieron en la cruz	S	#
+Matthew	27:55-56,61	#	150:2.3/#	La fidelidad de las mujeres	S	#
+Matthew	27:56	#	187:2.7/#	Llega la familia de Jesús	S	#
+Matthew	27:56	#	123:4.9/#	José, el hermano de Jesús	C	#
+Matthew	27:56	#	122:1.3/#	Los padres de Jesús	S	#
+Matthew	27:56	#	123:1.5/#	Santiago, el hermano de Jesús	C	#
+Matthew	27:57-58	#	188:0.3/#	Los amigos recuperan el cuerpo	S	#
+Matthew	27:59a,60	#	188:1.2/#	Enterrado en una tumba nueva	S	#
+Matthew	27:59b,61	#	188:1.3/#	La comitiva hacia el enterramiento	S	#
+Matthew	27:61	#	188:1.7/#	Las mujeres	S	#
+Matthew	27:62-64	#	188:2.2/#	El sanedrín preocupado	S	#
+Matthew	27:63	#	158:6.5/#	Anticipación de la pasión	S	#
+Matthew	27:63	#	171:4.8/#	Resucitar al tercer día	S	#
+Matthew	27:63	#	158:7.3/#	Los apóstoles oyen otra vez de la pasión	S	#
+Matthew	27:63	#	193:0.2/#	Predicción de la muerte y resurrección	S	#
+Matthew	27:63	#	171:4.2/#	Advertencia sobre la crucifixión y la resurrección	S	#
+Matthew	27:63	#	180:6.7/#	Debo morir pero resucitaré	S	#
+Matthew	27:63	#	181:1.5/#	Moriré pero resucitaré	C	#
+Matthew	27:63	#	186:3.4/#	Resucitar al tercer día	C	#
+Matthew	27:63	#	190:5.4/#	Predicción de la muerte y resurrección	C	#
+Matthew	27:63	#	181:2.30/#	Promesa: resucitaré al tercer día	C	#
+Matthew	27:65-66	#	188:2.3/#	Pilatos proporciona una guardia	S	#
+Matthew	28:1	#	189:4.3/#	Las mujeres se acercan a la tumba	S	#
+Matthew	28:1-6,9	#	189:4.10/#	Aparición a las mujeres	S	#
+Matthew	28:2	#	167:7.4/#	Espíritus ministrantes	S	#
+Matthew	28:2	#	189:4.6/#	Sorprendidas de que la piedra estuviera rodada	S	#
+Matthew	28:2-4	#	189:2.4/#	La piedra es hecha rodar	S	#
+Matthew	28:5,10	#	100:7.15/#	No temáis	R	#
+Matthew	28:6	#	189:2.7/#	La tumba vacía	S	#
+Matthew	28:6	#	189:4.6/#	Encuentran la tumba vacía	S	#
+Matthew	28:7,10	#	181:2.27/#	Iré a Galilea	S	#
+Matthew	28:7,10	#	189:5.4/#	Cristo ha resucitado, id a Galilea	S	#
+Matthew	28:7,10	#	191:5.6/#	Id a Galilea	S	#
+Matthew	28:7-8,10	#	189:4.12/#	Id y decidle a los apóstoles, y a Pedro	S	#
+Matthew	28:8	#	189:4.13/#	Las mujeres lo cuentan	S	#
+Matthew	28:10	#	140:8.20/#	Jesús decía «No temáis»	R	#
+Matthew	28:11	#	189:2.4/#	Pánico de los guardias	S	#
+Matthew	28:11b-15	#	192:0.1/#	La historia de los guardias sobornados	S	#
+Matthew	28:12-15	#	189:2.5/#	El soborno de los guardias	S	#
+Matthew	28:16-17	#	192:3.1/#	Otra aparición	S	#
+Matthew	28:18	#	192:3.2/#	Todo poder depositado en Jesús	S	#
+Matthew	28:18	#	176:4.3/#	Todo el poder en el Cielo y la Tierra	S	#
+Matthew	28:18	#	131:10.6/#	El Poder	C	#
+Matthew	28:18	#	33:2.3/#	Todo poder en el cielo y en la Tierra	R	#
+Matthew	28:18	#	34:1.4/#	Todo poder en el cielo y en la Tierra	R	#
+Matthew	28:18	#	21:4.5/#	Todo poder en el cielo y la Tierra	R	#
+Matthew	28:18	#	33:3.5/#	Todo poder en el cielo y en la Tierra	R	#
+Matthew	28:18	#	131:10.3/#	Dios es todopoderoso	C	#
+Matthew	28:18	#	1:1.4/#	El poder de Dios	C	#
+Matthew	28:18	#	53:5.2/#	Todos los poderes en el cielo y en la Tierra	R	#
+Matthew	28:18	#	128:1.10/#	La Omnipotencia	C	#
+Matthew	28:18	#	142:3.7/#	Todopoderoso	C	#
+Matthew	28:19	#	104:1.12/#	Concepto posterior de la Trinidad	C	#
+Matthew	28:19	#	10:0.2/#	La Trinidad del Paraíso	C	#
+Matthew	28:19	#	0:12.2/#	La Trinidad del Paraíso	C	#
+Matthew	28:19	#	118:10.2/#	La Trinidad	C	#
+Matthew	28:19	#	56:5.1/#	La Trinidad	C	#
+Matthew	28:19	#	141:6.5/#	Bautismo con el espíritu	C	#
+Matthew	28:19	#	194:4.9/#	La Trinidad	R	#
+Matthew	28:19	#	194:2.11/#	Tres espíritus santos	S	#
+Matthew	28:19	#	194:2.10/#	Bautismo del espíritu	C	#
+Matthew	28:19	#	79:3.4/#	Trinidad del Paraíso	C	#
+Matthew	28:19	#	21:2.8/#	Personalidades de la Trinidad	C	#
+Matthew	28:19,20a	#	191:6.3/#	La gran asignación	S	#
+Matthew	28:19-20	#	194:3.9/#	Universalidad de la religión de Jesús	S	#
+Matthew	28:19-20a	#	143:1.5/#	Id predicad el evangelio a todos	C	#
+Matthew	28:19-20a	#	193:0.5/#	Id por todo el mundo predicando este evangelio	S	#
+Matthew	28:19-20a	#	193:1.2/#	Enseñad el amor de Dios al mundo	S	#
+Matthew	28:19-20a	#	176:2.3/#	El evangelio por todo el mundo	C	#
+Matthew	28:19-20a	#	178:1.14/#	El gran encargo	C	#
+Matthew	28:19-20a	#	95:7.3/#	El gran mandato	R	#
+Matthew	28:19-20a	#	193:0.4/#	Salir a predicar el amor de Dios	C	#
+Matthew	28:19-20a	#	193:2.2/#	La gran asignación	S	#
+Matthew	28:19-20a	#	193:1.2/#	Enseñad el amor de Dios al mundo	C	#
+Matthew	28:19-20a	#	181:2.12/#	Proclamar el evangelio al mundo	S	#
+Matthew	28:19-20a	#	193:5.2/#	Proclamación del nuevo evangelio	S	#
+Matthew	28:19-20a	#	165:6.3/#	El gran encargo	C	#
+Matthew	28:19-20a	#	191:5.3/#	La gran asignación	S	#
+Matthew	28:19-20a	#	191:4.4/#	La gran asignación	S	#
+Matthew	28:19-20a	#	190:3.1/#	La gran asignación	S	#
+Matthew	28:19-20a	#	190:4.1/#	La gran asignación	S	#
+Matthew	28:19-20a	#	140:9.2/#	Encargo de predicar por el mundo	S	#
+Matthew	28:19a	#	178:3.2/#	Os envío igual que me han enviado	S	#
+Matthew	28:20	#	191:4.4/#	Estaré con vosotros siempre	S	#
+Matthew	28:20	#	181:2.11/#	Estaré contigo siempre	S	#
+Matthew	28:20	#	193:0.5/#	Estaré siempre con vosotros	S	#
+Matthew	28:20	#	190:3.1/#	La gran promesa	S	#
+Matthew	28:20	#	3:1.4/#	Dios siempre presente	R	#
+Matthew	28:20	#	3:1.4/#	Dios siempre presente	R	#
+Matthew	28:20	#	193:1.2/#	Estaré siempre con vosotros	S	#
+Matthew	28:20b	#	191:6.3/#	Estaré con vosotros siempre	S	#
+Matthew	212:21	#	195:9.8/#	La fe expectante	C	#

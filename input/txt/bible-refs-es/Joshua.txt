@@ -1,0 +1,42 @@
+Joshua	1:5	#	96:6.3/#	Al igual que estuve con Moisés	R	#
+Joshua	2:10	#	69:8.3/#	Los hebreos «destruían por completo»	C	#
+Joshua	2:11	#	3:1.1/#	Arriba en el Cielo y abajo en la Tierra	R	#
+Joshua	2:11	#	79:1.9/#	Un solo Dios en el cielo	C	#
+Joshua	3:11,13	#	128:1.10/#	Señor Dios de toda la creación	C	#
+Joshua	3:11,13	#	96:1.9/#	Adonai	C	#
+Joshua	4:1-3	#	156:5.4/#	«Dios me ha dicho»	C	#
+Joshua	4:1-9	#	135:6.7/#	Doce piedras conmemorativas	C	#
+Joshua	6:17-21	#	159:4.5/#	Dios no dice «matad a todos los enemigos»	C	#
+Joshua	6:20	#	172:1.3/#	Las murallas de Jericó	C	#
+Joshua	6:26	#	89:6.4/#	Sacrificio fundacional	C	#
+Joshua	7:1	#	4:3.2/#	La visión de Dios como colérico o airado	C	#
+Joshua	8:1-29	#	69:8.3/#	Emboscada de Hai	C	#
+Joshua	12:4	#	77:2.3/#	Tierra de gigantes	R	#
+Joshua	12:7-24	#	135:9.5/#	Invasión de Josué	C	#
+Joshua	17:18	#	97:9.1/#	Los cananeos nunca fueron destruidos	C	#
+Joshua	20:2	#	69:4.4/#	Ciudades de refugio	R	#
+Joshua	20:3-9	#	70:10.9/#	Venganza de sangre	C	#
+Joshua	21:13,21,27	#	69:4.4/#	Ciudades de refugio	R	#
+Joshua	21:32,38	#	69:4.4/#	Ciudades de refugio	R	#
+Joshua	22:5	#	163:4.8/#	Ama a Dios con todo tu corazón	C	#
+Joshua	22:5	#	131:10.2/#	Deberíais amarlo con toda la mente y corazón	C	#
+Joshua	22:5	#	174:4.2/#	El mandamiento más grande	S	#
+Joshua	22:5	#	131:2.2/#	Amarás al Señor tu Dios con todo tu corazón	C	#
+Joshua	22:5	#	110:3.8/#	Amando a Dios	C	#
+Joshua	22:5	#	131:2.13/#	Los que aman al Señor sobre todas las cosas	R	#
+Joshua	22:22	#	45:4.10/#	Dios de los Dioses	R	#
+Joshua	22:22	#	0:2.12/#	Dios el Supremo	C	#
+Joshua	23:11	#	110:3.8/#	Amando a Dios	C	#
+Joshua	23:11	#	131:2.13/#	Los que aman al Señor sobre todas las cosas	R	#
+Joshua	23:11	#	163:4.8/#	Ama a Dios con todo tu corazón	C	#
+Joshua	23:11	#	131:10.2/#	Deberíais amarlo con toda la mente y corazón	C	#
+Joshua	23:11	#	174:4.2/#	El mandamiento más grande	S	#
+Joshua	23:11	#	131:2.2/#	Amarás al Señor tu Dios con todo tu corazón	C	#
+Joshua	24:15	#	153:2.5/#	Escoged en este día a quién servir	R	#
+Joshua	24:19	#	142:2.1/#	Moisés dijo que Dios es celoso	C	#
+Joshua	24:19	#	4:3.1/#	Dios celoso `del' hombre	C	#
+Joshua	24:19	#	96:6.4/#	Los perversos no pueden servir a Dios	R	#
+Joshua	24:19	#	96:4.6/#	Celoso de ...	R	#
+Joshua	24:19	#	96:6.3/#	Yahvé es santo, celoso, Dios	R	#
+Joshua	24:25	#	153:4.4/#	Elegir entre el bien o el mal	C	#
+Joshua	24:27	#	85:1.3/#	Una piedra como testigo	C	#

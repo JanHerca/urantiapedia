@@ -1,0 +1,469 @@
+Acts of the Apostles	1:1	#	141:7.10/#	Instructor venido del cielo	C	#
+Acts of the Apostles	1:4	#	193:5.2/#	Permanecer en Jerusalén	S	#
+Acts of the Apostles	1:4	#	193:0.5/#	Permaneced en Jerusalén	S	#
+Acts of the Apostles	1:4,6	#	193:3.1/#	Aparición final de Jesús	S	#
+Acts of the Apostles	1:5	#	191:5.3/#	Bautizados con el Espíritu de la Verdad	S	#
+Acts of the Apostles	1:5	#	141:6.5/#	Bautismo con el espíritu	C	#
+Acts of the Apostles	1:5	#	85:4.1/#	Bautismo	C	#
+Acts of the Apostles	1:5	#	137:8.10/#	Bautismo de Juan en señal de arrepentimiento	S	#
+Acts of the Apostles	1:5	#	87:6.5/#	Bautismo de agua	C	#
+Acts of the Apostles	1:5,8a	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
+Acts of the Apostles	1:5,8a	#	180:6.3/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	1:5,8a	#	34:7.1/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	1:5,8a	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
+Acts of the Apostles	1:5,8a	#	20:6.8/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	1:5,8a	#	181:2.14/#	Seguid al nuevo instructor en vuestros corazones	C	#
+Acts of the Apostles	1:5,8a	#	121:7.5/#	Nuevo espiritu que vive en el corazón de los hombres	C	#
+Acts of the Apostles	1:5,8a	#	34:5.5/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	1:5,8a	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
+Acts of the Apostles	1:5,8a	#	21:5.7/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	1:5,8a	#	193:5.2/#	Envío del Espíritu de la Verdad	S	#
+Acts of the Apostles	1:5,8a	#	34:4.1/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	1:5,8a	#	181:1.4/#	Derramaré mi espíritu sobre toda la carne	C	#
+Acts of the Apostles	1:5,8a	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
+Acts of the Apostles	1:5,8a	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
+Acts of the Apostles	1:5,8a	#	191:6.3/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	1:5,8a	#	32:5.8/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	1:5,8a	#	141:4.5/#	Jesús envió Su Espíritu	C	#
+Acts of the Apostles	1:5,8a	#	180:4.5/#	Os enviaré mi «espíritu»	C	#
+Acts of the Apostles	1:5,8a	#	120:2.4/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	1:5,8a	#	120:2.6/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	1:5,8a	#	137:8.7/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	1:5,8a	#	180:3.3/#	Promesa del confortador	C	#
+Acts of the Apostles	1:5,8a	#	146:3.6/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	1:5,8a	#	194:2.10/#	Bautismo del espíritu	C	#
+Acts of the Apostles	1:5,8a	#	194:3.1/#	El Espíritu de la Verdad en los corazones muestra al Hijo	C	#
+Acts of the Apostles	1:5,8a	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
+Acts of the Apostles	1:6	#	135:6.2/#	La restauración del reino	R	#
+Acts of the Apostles	1:6-8	#	193:3.2/#	Falsa idea sobre el Espíritu de la Verdad	S	#
+Acts of the Apostles	1:7-8	#	141:4.5/#	El reino vendrá en poder y gloria	C	#
+Acts of the Apostles	1:7-8	#	140:1.5/#	No con una demostración indecorosa	C	#
+Acts of the Apostles	1:8	#	181:2.26/#	Los rincones más alejados de la Tierra	S	#
+Acts of the Apostles	1:8	#	108:2.3/#	Ajustadores después de Pentecostés	C	#
+Acts of the Apostles	1:8a	#	52:5.6/#	Espíritu derramado sobre toda carne	R	#
+Acts of the Apostles	1:8b	#	193:1.2/#	Enseñad el amor de Dios al mundo	C	#
+Acts of the Apostles	1:8b	#	191:5.3/#	La gran asignación	C	#
+Acts of the Apostles	1:8b	#	181:2.12/#	Proclamar el evangelio al mundo	S	#
+Acts of the Apostles	1:8b	#	191:6.3/#	La gran asignación	C	#
+Acts of the Apostles	1:8b	#	191:4.4/#	La gran asignación	C	#
+Acts of the Apostles	1:8b	#	193:5.2/#	Proclamación del nuevo evangelio	S	#
+Acts of the Apostles	1:8b	#	178:1.14/#	El gran encargo	C	#
+Acts of the Apostles	1:8b	#	165:6.3/#	El gran encargo	C	#
+Acts of the Apostles	1:8b	#	193:0.4/#	Salir a predicar el amor de Dios	C	#
+Acts of the Apostles	1:8b	#	193:0.5/#	Id por todo el mundo predicando este evangelio	C	#
+Acts of the Apostles	1:8b	#	193:2.2/#	La gran asignación	C	#
+Acts of the Apostles	1:8b	#	95:7.3/#	El gran mandato	R	#
+Acts of the Apostles	1:8b	#	193:1.2/#	Enseñad el amor de Dios al mundo	C	#
+Acts of the Apostles	1:8b	#	140:9.2/#	Encargo de predicar por el mundo	S	#
+Acts of the Apostles	1:8b	#	176:2.3/#	El evangelio por todo el mundo	C	#
+Acts of the Apostles	1:8b	#	143:1.5/#	Id predicad el evangelio a todos	C	#
+Acts of the Apostles	1:8b	#	190:3.1/#	La gran asignación	S	#
+Acts of the Apostles	1:8b	#	190:4.1/#	La gran asignación	S	#
+Acts of the Apostles	1:9	#	193:5.3/#	La ascensión	S	#
+Acts of the Apostles	1:12-14	#	193:6.1/#	Primera reunión de los apóstoles	S	#
+Acts of the Apostles	1:13	#	139:6.9/#	Natanael Bartolomé	C	#
+Acts of the Apostles	1:13	#	138:2.2/#	Nombres bíblicos de los apóstoles	S	#
+Acts of the Apostles	1:13	#	139:8.1/#	Tomás Dídimo	C	#
+Acts of the Apostles	1:13	#	139:11.1/#	La admisión de Simón Celotes	C	#
+Acts of the Apostles	1:13	#	139:10.1/#	Los gemelos Alfeo, Santiago y Judas	C	#
+Acts of the Apostles	1:13	#	150:4.1/#	Los apóstoles son nominados	S	#
+Acts of the Apostles	1:13	#	139:0.1/#	Los doce apóstoles	S	#
+Acts of the Apostles	1:14	#	149:2.8/#	Las mujeres discípulas	S	#
+Acts of the Apostles	1:14	#	122:1.3/#	Los padres de Jesús	S	#
+Acts of the Apostles	1:15-23	#	193:6.2/#	La reunión	S	#
+Acts of the Apostles	1:16-18	#	186:1.7/#	El suicidio de Judas	S	#
+Acts of the Apostles	1:18	#	139:12.13/#	El suicidio de Judas	C	#
+Acts of the Apostles	1:24	#	140:3.19/#	Dios juzga el corazón	C	#
+Acts of the Apostles	1:24-26	#	193:6.3/#	La elección de Matías	S	#
+Acts of the Apostles	1:26	#	192:0.2/#	Matías como tesorero	S	#
+Acts of the Apostles	2:1,42	#	194:3.9/#	Universalidad de la religión de Jesús	S	#
+Acts of the Apostles	2:1-3	#	194:0.1/#	La llegada del Espíritu de la Verdad	S	#
+Acts of the Apostles	2:1-4	#	140:1.6/#	El reino de Dios con gran poder	R	#
+Acts of the Apostles	2:1-4	#	191:5.3/#	Cuando venga el espíritu	S	#
+Acts of the Apostles	2:1-4,16-18	#	146:3.6/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	2:1-4,16-18	#	191:6.3/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	2:1-4,16-18	#	52:5.6/#	Espíritu derramado sobre toda carne	R	#
+Acts of the Apostles	2:1-4,16-18	#	181:1.4/#	Derramaré mi espíritu sobre toda la carne	C	#
+Acts of the Apostles	2:1-4,16-18	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
+Acts of the Apostles	2:1-4,16-18	#	193:5.2/#	Envío del Espíritu de la Verdad	S	#
+Acts of the Apostles	2:1-4,16-18	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
+Acts of the Apostles	2:1-4,16-18	#	141:4.5/#	Jesús envió Su Espíritu	C	#
+Acts of the Apostles	2:1-4,16-18	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
+Acts of the Apostles	2:1-4,16-18	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
+Acts of the Apostles	2:1-4,16-18	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
+Acts of the Apostles	2:1-4,16-18	#	20:6.8/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	2:1-4,16-18	#	34:4.1/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	2:1-4,16-18	#	21:5.7/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	2:1-4,16-18	#	180:4.5/#	Os enviaré mi «espíritu»	C	#
+Acts of the Apostles	2:1-4,16-18	#	180:6.3/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	2:1-4,16-18	#	120:2.6/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	2:1-4,16-18	#	32:5.8/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	2:1-4,16-18	#	34:7.1/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	2:1-4,16-18	#	120:2.4/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	2:1-4,16-18	#	34:5.5/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	2:1-4,16-18	#	137:8.7/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	2:1-4,16-18	#	180:3.3/#	Promesa del confortador	C	#
+Acts of the Apostles	2:1-4,16-18	#	181:2.14/#	Seguid al nuevo instructor en vuestros corazones	C	#
+Acts of the Apostles	2:1-4,16-18	#	121:7.5/#	Nuevo espiritu que vive en el corazón de los hombres	C	#
+Acts of the Apostles	2:1-4,17-18	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
+Acts of the Apostles	2:1-4,38	#	194:2.10/#	Bautismo del espíritu	C	#
+Acts of the Apostles	2:1-4,38	#	141:6.5/#	Bautismo con el espíritu	C	#
+Acts of the Apostles	2:1-21	#	108:2.3/#	Ajustadores después de Pentecostés	C	#
+Acts of the Apostles	2:1-40	#	176:4.3/#	El día de Pentecostés	S	#
+Acts of the Apostles	2:1a,5	#	194:1.1/#	Pentecostés, mucha gente en Jerusalén	S	#
+Acts of the Apostles	2:4	#	3:1.4/#	Su espíritu habla desde el interior	R	#
+Acts of the Apostles	2:4a	#	194:0.6/#	Llenos del espíritu	S	#
+Acts of the Apostles	2:4b-12	#	194:1.2/#	Hablando en otras lenguas	S	#
+Acts of the Apostles	2:14-41	#	194:1.2/#	El sermón de Pedro	S	#
+Acts of the Apostles	2:16-18	#	21:5.7/#	Derramará el Espíritu de la Verdad	R	#
+Acts of the Apostles	2:19-20	#	170:2.14/#	Creencia en un final súbito y espectacular	C	#
+Acts of the Apostles	2:21	#	139:12.7/#	Todo el que quiera puede venir	C	#
+Acts of the Apostles	2:21	#	131:10.7/#	Quien lo desee será salvado	C	#
+Acts of the Apostles	2:21	#	2:5.2/#	Quienquiera puede venir	C	#
+Acts of the Apostles	2:21	#	2:4.1/#	Quien recurra a Él será salvado	R	#
+Acts of the Apostles	2:21	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
+Acts of the Apostles	2:21	#	100:7.6/#	Quienquiera que lo desee, puede venir	C	#
+Acts of the Apostles	2:21	#	165:3.8/#	Quienquiera puede venir	C	#
+Acts of the Apostles	2:21	#	32:5.8/#	Quien lo quiera puede participar	C	#
+Acts of the Apostles	2:22-23	#	194:4.4/#	Segunda parte: Todos estaban llenos del espíritu	R	#
+Acts of the Apostles	2:29-36	#	196:2.5/#	Exaltación del Cristo resucitado	C	#
+Acts of the Apostles	2:32-33	#	79:3.4/#	Trinidad del Paraíso	C	#
+Acts of the Apostles	2:32-33	#	194:4.9/#	La Trinidad	C	#
+Acts of the Apostles	2:32-33	#	0:12.2/#	La Trinidad del Paraíso	C	#
+Acts of the Apostles	2:32-33	#	10:0.2/#	La Trinidad del Paraíso	C	#
+Acts of the Apostles	2:32-33	#	118:10.2/#	La Trinidad	C	#
+Acts of the Apostles	2:32-33	#	104:1.12/#	Concepto posterior de la Trinidad	C	#
+Acts of the Apostles	2:32-33	#	56:5.1/#	La Trinidad	C	#
+Acts of the Apostles	2:32-33	#	194:4.4/#	Segunda parte: Todos estaban llenos del espíritu	R	#
+Acts of the Apostles	2:32-33	#	21:2.8/#	Personalidades de la Trinidad	C	#
+Acts of the Apostles	2:33	#	34:5.5/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	2:33	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
+Acts of the Apostles	2:33	#	34:4.1/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	2:33	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
+Acts of the Apostles	2:33	#	191:6.3/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	2:33	#	193:5.2/#	Envío del Espíritu de la Verdad	S	#
+Acts of the Apostles	2:33	#	32:5.8/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	2:33	#	120:2.6/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	2:33	#	180:4.5/#	Os enviaré mi «espíritu»	C	#
+Acts of the Apostles	2:33	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
+Acts of the Apostles	2:33	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
+Acts of the Apostles	2:33	#	20:6.8/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	2:33	#	137:8.7/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	2:33	#	34:7.1/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	2:33	#	120:2.4/#	Espíritu de la Verdad	C	#
+Acts of the Apostles	2:33	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
+Acts of the Apostles	2:33	#	181:1.4/#	Derramaré mi espíritu sobre toda la carne	C	#
+Acts of the Apostles	2:33	#	146:3.6/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	2:33	#	181:2.14/#	Seguid al nuevo instructor en vuestros corazones	C	#
+Acts of the Apostles	2:33	#	21:5.7/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	2:33	#	180:6.3/#	El Espíritu de la Verdad	C	#
+Acts of the Apostles	2:33	#	141:4.5/#	Jesús envió Su Espíritu	C	#
+Acts of the Apostles	2:33	#	180:3.3/#	Promesa del confortador	C	#
+Acts of the Apostles	2:33	#	121:7.5/#	Nuevo espiritu que vive en el corazón de los hombres	C	#
+Acts of the Apostles	2:33	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
+Acts of the Apostles	2:33	#	52:5.6/#	Espíritu derramado sobre toda carne	R	#
+Acts of the Apostles	2:36	#	194:4.4/#	Segunda parte: Todos estaban llenos del espíritu	R	#
+Acts of the Apostles	2:38,41	#	170:5.13/#	El bautismo, rito de admisión en el orden social	C	#
+Acts of the Apostles	2:38-39	#	181:1.4/#	A todos cuantos le recibieron	C	#
+Acts of the Apostles	2:41	#	139:1.6/#	Dos miles almas añadidas al reino	S	#
+Acts of the Apostles	2:41	#	194:1.4/#	Bautizar a los convertidos	S	#
+Acts of the Apostles	2:41-42	#	194:4.7/#	Era una comunidad de vida	R	#
+Acts of the Apostles	2:42	#	170:2.20/#	La hermandad de los creyentes	S	#
+Acts of the Apostles	2:42	#	140:10.1/#	La hermandad de los hijos de Dios	C	#
+Acts of the Apostles	2:44	#	194:4.7/#	Compartían sus bienes	S	#
+Acts of the Apostles	2:44-45	#	89:3.2/#	La propiedad vista como un peligro espiritual	C	#
+Acts of the Apostles	2:45	#	194:4.7/#	Vendieron sus propiedades	S	#
+Acts of the Apostles	2:46	#	139:6.5/#	He venido a traer alegría	C	#
+Acts of the Apostles	2:46-47a	#	194:4.3/#	Primera parte: tomaban su comida alegremente	R	#
+Acts of the Apostles	3:2,10	#	125:1.5/#	La Puerta Hermosa	R	#
+Acts of the Apostles	3:16	#	156:5.12/#	Una fe implícita	C	#
+Acts of the Apostles	3:18	#	194:4.4/#	Segunda parte: Todos estaban llenos del espíritu	R	#
+Acts of the Apostles	3:19-21a	#	194:4.4/#	Segunda parte: Todos estaban llenos del espíritu	R	#
+Acts of the Apostles	3:24	#	97:1.1/#	Samuel, el primer profeta hebreo	C	#
+Acts of the Apostles	3:25	#	136:1.1/#	Semilla de Abraham	R	#
+Acts of the Apostles	4:10-12	#	195:0.2/#	Proclamación del evangelio	C	#
+Acts of the Apostles	4:10-12	#	190:0.4/#	La fe en la resurrección	C	#
+Acts of the Apostles	4:12	#	190:5.4/#	Evangelio de salvación de Dios	C	#
+Acts of the Apostles	4:12	#	190:4.1/#	Evangelio de salvación	C	#
+Acts of the Apostles	4:13	#	195:6.9/#	Unos galileos ignorantes	S	#
+Acts of the Apostles	4:13	#	139:0.4/#	Hombres ignorantes e iletrados	R	#
+Acts of the Apostles	4:20	#	138:8.4/#	Decid lo que habéis oído; no rumores	S	#
+Acts of the Apostles	4:24	#	2:1.2/#	Creador fiel y divino	C	#
+Acts of the Apostles	4:24	#	0:2.9/#	Dios como creador de todo	C	#
+Acts of the Apostles	4:24	#	6:1.3/#	Dios ha hecho todo	C	#
+Acts of the Apostles	4:24	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
+Acts of the Apostles	4:24	#	131:2.2/#	Dios creó todo	C	#
+Acts of the Apostles	4:24	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Acts of the Apostles	4:24	#	95:5.9/#	Dios como creador de todo	R	#
+Acts of the Apostles	4:24	#	131:10.6/#	El Creador	C	#
+Acts of the Apostles	4:24	#	142:3.7/#	Creador Universal	C	#
+Acts of the Apostles	4:24	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
+Acts of the Apostles	4:24	#	128:1.10/#	Creador de los cielos y de la Tierra	C	#
+Acts of the Apostles	4:25	#	155:1.3/#	¿Por qué están furiosos los paganos?	C	#
+Acts of the Apostles	4:25-26	#	155:1.1/#	¿Por qué están furiosos los paganos?	R	#
+Acts of the Apostles	4:31b-32	#	194:4.3/#	Segunda parte: Todos estaban llenos del espíritu	R	#
+Acts of the Apostles	4:32	#	194:3.17/#	El espíritu unifica	R	#
+Acts of the Apostles	4:33	#	181:2.11/#	Predicar el evangelio con gran energía	S	#
+Acts of the Apostles	5:1-10	#	4:5.3/#	Idea de que fulmina hombres con su ira	C	#
+Acts of the Apostles	5:14	#	149:2.8/#	Las mujeres discípulas	S	#
+Acts of the Apostles	5:17-18	#	194:4.10/#	Los líderes encarcelados	S	#
+Acts of the Apostles	5:19	#	77:8.12/#	Un ángel abre las puertas de la prisión	R	#
+Acts of the Apostles	5:29-32	#	195:0.2/#	Proclamación del evangelio	C	#
+Acts of the Apostles	5:34,38-39	#	194:4.10/#	El consejo de Gamaliel	S	#
+Acts of the Apostles	5:40	#	194:4.10/#	Los saduceos siguen el consejo	S	#
+Acts of the Apostles	6:8-7:60	#	128:3.6/#	Apedreamiento de Esteban	S	#
+Acts of the Apostles	6:8-7:60	#	132:0.5/#	El apedreamiento de Esteban	C	#
+Acts of the Apostles	7:30	#	85:4.2/#	Ángeles del fuego	C	#
+Acts of the Apostles	7:32	#	174:3.4/#	El Dios de los vivos	C	#
+Acts of the Apostles	7:32	#	174:3.2/#	El poder viviente de Dios	C	#
+Acts of the Apostles	7:48	#	93:3.2/#	El Altísimo	C	#
+Acts of the Apostles	7:48	#	43:3.1/#	Altísimos	C	#
+Acts of the Apostles	7:48	#	93:2.3/#	El Altísimo	C	#
+Acts of the Apostles	7:51-60	#	194:4.11/#	Lapidación de Esteban	S	#
+Acts of the Apostles	7:53	#	113:0.1/#	Recibidos por el ministerio de los ángeles	R	#
+Acts of the Apostles	7:55-56	#	5:2.2/#	A la derecha del Padre	R	#
+Acts of the Apostles	7:55-56	#	38:0.1/#	Derecha de Dios	C	#
+Acts of the Apostles	7:55-56	#	13:2.7/#	Diestra del Padre	R	#
+Acts of the Apostles	7:55-56	#	21:4.4/#	La derecha del Padre	R	#
+Acts of the Apostles	7:58	#	128:3.6/#	Saulo de Tarso	S	#
+Acts of the Apostles	7:60	#	188:5.6/#	No les tengas en cuenta este pecado	R	#
+Acts of the Apostles	8:1b	#	194:4.13/#	Nuevas persecuciones	S	#
+Acts of the Apostles	8:5	#	192:2.11/#	Predica a los gentiles	S	#
+Acts of the Apostles	8:5-6,12-16	#	139:5.9/#	Felipe no imponía las manos	S	#
+Acts of the Apostles	8:5-8	#	143:6.6/#	La obra de Felipe	S	#
+Acts of the Apostles	8:12	#	170:5.13/#	El bautismo, rito de admisión en el orden social	C	#
+Acts of the Apostles	8:14-17	#	139:5.9/#	Imposición de Pedro y Juan	S	#
+Acts of the Apostles	8:14-25	#	139:2.7/#	Defensa de Pedro de extender la predicación a los gentiles	C	#
+Acts of the Apostles	8:32	#	183:5.5/#	Jesús silencioso todo el camino	S	#
+Acts of the Apostles	8:37	#	157:5.1/#	Jesús, el Hijo de Dios	C	#
+Acts of the Apostles	8:37	#	136:1.1/#	Jesús, Hijo de Dios	R	#
+Acts of the Apostles	8:37	#	110:2.2/#	Consentimiento cooperativo	C	#
+Acts of the Apostles	8:37	#	141:3.5/#	Evangelio del Hijo divino de Dios	C	#
+Acts of the Apostles	8:40	#	130:2.5/#	Predicación de Felipe	C	#
+Acts of the Apostles	9:1-9,20	#	100:5.3/#	La conversión de Pablo	C	#
+Acts of the Apostles	9:1-20	#	196:2.1/#	El cristianismo paulino	C	#
+Acts of the Apostles	9:17	#	194:4.7/#	Se llamaban unos a otros hermanos y hermanas	C	#
+Acts of the Apostles	9:36-42	#	130:1.3/#	Casa de Dorcas en Jope	C	#
+Acts of the Apostles	9:43	#	130:1.3/#	Conversión de Simón el curtidor	S	#
+Acts of the Apostles	10:1-48	#	130:2.5/#	Conversión de Cornelio	S	#
+Acts of the Apostles	10:2,22	#	121:2.5/#	Gentiles «temerosos de Dios»	S	#
+Acts of the Apostles	10:5-6	#	130:1.1/#	Gadía y Simón	C	#
+Acts of the Apostles	10:7	#	121:2.5/#	Gentiles «devotos»	S	#
+Acts of the Apostles	10:9-16	#	153:3.6/#	El sueño vívido de Pedro	S	#
+Acts of the Apostles	10:24	#	112:0.10/#	Dios no hace acepción de personas	C	#
+Acts of the Apostles	10:34	#	143:1.5/#	Mi padre no hace acepción de personas	C	#
+Acts of the Apostles	10:34	#	138:4.2/#	Igualdad de todos los que buscan a Dios	C	#
+Acts of the Apostles	10:34	#	181:2.14/#	El Padre y el Hijo no hacen acepción de personas	C	#
+Acts of the Apostles	10:34	#	137:8.11/#	No habrá judíos ni gentiles	C	#
+Acts of the Apostles	10:34	#	139:10.9/#	Jesús no hacía acepción de personas	C	#
+Acts of the Apostles	10:34	#	192:2.2/#	Dios no hace acepción de personas	C	#
+Acts of the Apostles	10:34	#	174:2.2/#	Jesús no hace acepción de personas	C	#
+Acts of the Apostles	10:34	#	166:4.11/#	El Padre no hace acepción de personas	C	#
+Acts of the Apostles	10:34	#	1:4.6/#	Dios no hace acepción de personas	C	#
+Acts of the Apostles	10:34	#	133:0.3/#	Dios no hace acepción de personas	C	#
+Acts of the Apostles	10:34	#	40:10.13/#	Dios no hace acepción de personas	C	#
+Acts of the Apostles	10:34	#	12:7.8/#	Dios no hace acepción de personas	C	#
+Acts of the Apostles	10:34	#	175:2.3/#	Dios no hace acepción de personas	C	#
+Acts of the Apostles	10:34	#	3:1.12/#	No hace acepción de personas	C	#
+Acts of the Apostles	10:34	#	155:6.2/#	Dios no hace acepción de razas	C	#
+Acts of the Apostles	10:34	#	2:3.1/#	No hace acepción de personas	C	#
+Acts of the Apostles	10:34	#	140:1.2/#	No es el Dios de los judíos o de los gentiles	S	#
+Acts of the Apostles	10:34	#	134:4.7/#	Espiritualmente, todos los hombres son iguales	C	#
+Acts of the Apostles	10:34	#	148:6.2/#	No hace acepción de personas	C	#
+Acts of the Apostles	10:34	#	117:6.22/#	No hace acepción de personas	C	#
+Acts of the Apostles	10:34	#	156:2.4/#	No existen favoritismos con Dios	C	#
+Acts of the Apostles	10:34	#	150:1.3/#	Igualdad de todos los seres humanos	C	#
+Acts of the Apostles	10:34	#	190:3.1/#	En el reino no habrá diferencias	C	#
+Acts of the Apostles	10:34	#	190:4.1/#	Ni judíos ni gentiles	S	#
+Acts of the Apostles	10:34	#	137:8.6/#	No hace acepción de personas	C	#
+Acts of the Apostles	10:35	#	170:3.2/#	También se necesita la rectitud	S	#
+Acts of the Apostles	10:36	#	128:1.10/#	Señor Dios de toda la creación	C	#
+Acts of the Apostles	10:38	#	53:1.4/#	El demonio	C	#
+Acts of the Apostles	10:38	#	100:7.8/#	Iba de un sitio para otro haciendo el bien	R	#
+Acts of the Apostles	10:38	#	141:3.6/#	Jesús pasó haciendo el bien	S	#
+Acts of the Apostles	10:38	#	171:7.9/#	Jesús iba haciendo el bien	R	#
+Acts of the Apostles	10:38	#	159:5.10/#	Jesús pasó haciendo el bien	C	#
+Acts of the Apostles	10:38	#	136:1.1/#	El Ungido	R	#
+Acts of the Apostles	10:38	#	161:2.9/#	Jesús pasó haciendo el bien	C	#
+Acts of the Apostles	10:41	#	190:2.1/#	Jesús se apareció a creyentes	S	#
+Acts of the Apostles	10:42-43	#	165:3.8/#	Quienquiera puede venir	C	#
+Acts of the Apostles	10:42-43	#	2:5.2/#	Quienquiera puede venir	C	#
+Acts of the Apostles	10:42-43	#	32:5.8/#	Quien lo quiera puede participar	C	#
+Acts of the Apostles	10:43	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
+Acts of the Apostles	10:43	#	131:10.7/#	Quien lo desee será salvado	C	#
+Acts of the Apostles	10:43	#	139:12.7/#	Todo el que quiera puede venir	C	#
+Acts of the Apostles	10:43	#	100:7.6/#	Quienquiera que lo desee, puede venir	C	#
+Acts of the Apostles	10:47	#	141:6.5/#	Bautismo con el espíritu	C	#
+Acts of the Apostles	10:47	#	194:2.10/#	Bautismo del espíritu	C	#
+Acts of the Apostles	11:16	#	141:6.5/#	Bautismo con el espíritu	C	#
+Acts of the Apostles	11:16	#	194:2.10/#	Bautismo del espíritu	C	#
+Acts of the Apostles	11:16	#	137:8.10/#	Bautismo de Juan en señal de arrepentimiento	S	#
+Acts of the Apostles	11:23	#	121:8.8/#	La gracia del Señor Jesucristo	R	#
+Acts of the Apostles	11:25-26	#	134:7.3/#	Pablo en Antioquía	S	#
+Acts of the Apostles	11:26	#	121:2.5/#	En Antioquía se les llama por primera vez «cristianos»	S	#
+Acts of the Apostles	11:26b	#	194:4.13/#	Llamados «cristianos» por primera vez en Antioquía	S	#
+Acts of the Apostles	11:29-30	#	194:4.7/#	La colecta de Antioquía para Jerusalén	S	#
+Acts of the Apostles	12:1-2	#	192:2.8/#	Fe cuando seas sacrificado	C	#
+Acts of the Apostles	12:1-2	#	181:2.15/#	Santiago «beberá la copa»	S	#
+Acts of the Apostles	12:1-2	#	139:3.8/#	El martirio de Santiago	S	#
+Acts of the Apostles	12:7-10	#	77:8.12/#	Liberación de Pedro	C	#
+Acts of the Apostles	13:24	#	140:10.1/#	Juan os dió un bautismo de arrepentimiento	C	#
+Acts of the Apostles	13:26	#	165:3.8/#	Quienquiera puede venir	C	#
+Acts of the Apostles	13:26	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
+Acts of the Apostles	13:26	#	131:10.7/#	Quien lo desee será salvado	C	#
+Acts of the Apostles	13:26	#	32:5.8/#	Quien lo quiera puede participar	C	#
+Acts of the Apostles	13:26	#	2:5.2/#	Quienquiera puede venir	C	#
+Acts of the Apostles	13:26	#	100:7.6/#	Quienquiera que lo desee, puede venir	C	#
+Acts of the Apostles	13:26	#	139:12.7/#	Todo el que quiera puede venir	C	#
+Acts of the Apostles	13:26-39	#	195:0.2/#	Proclamación del evangelio	C	#
+Acts of the Apostles	13:33	#	20:10.1/#	Hijo unigénito	C	#
+Acts of the Apostles	13:33	#	136:9.7/#	Tú eres mi Hijo; te he engendrado hoy	R	#
+Acts of the Apostles	13:33	#	21:0.1/#	Hijo unigénito	R	#
+Acts of the Apostles	13:33	#	21:1.2/#	Hijos unigénitos de Dios	C	#
+Acts of the Apostles	13:33	#	33:1.1/#	Hijo unigénito	C	#
+Acts of the Apostles	13:39	#	150:5.3/#	Salvados por la fe	S	#
+Acts of the Apostles	13:43	#	121:8.8/#	La gracia del Señor Jesucristo	R	#
+Acts of the Apostles	13:46-48	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
+Acts of the Apostles	13:46-48	#	101:6.8/#	Vida eterna	C	#
+Acts of the Apostles	13:46-48	#	128:1.10/#	Dador de la vida eterna	C	#
+Acts of the Apostles	13:46-48	#	153:2.11/#	Los que creen tienen vida eterna	C	#
+Acts of the Apostles	13:46-48	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
+Acts of the Apostles	13:46-48	#	2:2.1/#	Vida eterna	C	#
+Acts of the Apostles	13:46-48	#	121:5.11/#	Vida después de la muerte	C	#
+Acts of the Apostles	13:46-48	#	27:1.5/#	Vivirán para siempre	C	#
+Acts of the Apostles	13:46-48	#	3:0.1/#	Vida eterna	C	#
+Acts of the Apostles	13:46-48	#	170:2.20/#	Vida eterna / sin fin	C	#
+Acts of the Apostles	13:46-48	#	162:7.5/#	Los creyentes nunca morirán	C	#
+Acts of the Apostles	13:46-48	#	162:2.7/#	Vida eterna	C	#
+Acts of the Apostles	13:46-48	#	181:2.11/#	La vida eterna en el reino venidero	C	#
+Acts of the Apostles	13:46-48	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
+Acts of the Apostles	13:46-48	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
+Acts of the Apostles	13:46-48	#	170:2.2/#	La esperanza de la vida eterna	S	#
+Acts of the Apostles	13:46-48	#	146:3.7/#	La vida eterna	C	#
+Acts of the Apostles	13:47	#	190:5.4/#	Evangelio de salvación de Dios	C	#
+Acts of the Apostles	13:47	#	190:4.1/#	Evangelio de salvación	C	#
+Acts of the Apostles	14:3,26	#	121:8.8/#	La gracia del Señor Jesucristo	R	#
+Acts of the Apostles	14:15	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Acts of the Apostles	14:15	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
+Acts of the Apostles	14:15	#	142:3.7/#	Creador Universal	C	#
+Acts of the Apostles	14:15	#	6:1.3/#	Dios ha hecho todo	C	#
+Acts of the Apostles	14:15	#	0:2.9/#	Dios como creador de todo	C	#
+Acts of the Apostles	14:15	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
+Acts of the Apostles	14:15	#	0:2.9/#	Dios como controlador	C	#
+Acts of the Apostles	14:15	#	2:1.2/#	Creador fiel y divino	C	#
+Acts of the Apostles	14:15	#	95:5.9/#	Dios como creador de todo	C	#
+Acts of the Apostles	14:15	#	131:10.6/#	El Creador	C	#
+Acts of the Apostles	14:15	#	128:1.10/#	Creador de los cielos y de la Tierra	C	#
+Acts of the Apostles	14:15	#	131:2.2/#	Dios creó todo	C	#
+Acts of the Apostles	14:17	#	139:6.5/#	He venido a traer alegría	C	#
+Acts of the Apostles	14:22	#	136:8.6/#	Entrar al reino a través de muchas tribulaciones	R	#
+Acts of the Apostles	14:22	#	137:6.5/#	El reino de la tribulación y la alegría	C	#
+Acts of the Apostles	14:22b	#	178:3.4/#	Pasar por muchas tribulaciones	C	#
+Acts of the Apostles	14:27	#	195:9.8/#	La fe expectante	C	#
+Acts of the Apostles	14:27	#	138:8.8/#	La fe es la puerta abierta	C	#
+Acts of the Apostles	15:5-12	#	139:2.7/#	Defensa de Pedro de extender la predicación a los gentiles	C	#
+Acts of the Apostles	15:11,40	#	121:8.8/#	La gracia del Señor Jesucristo	R	#
+Acts of the Apostles	16:17	#	93:3.2/#	El Altísimo	C	#
+Acts of the Apostles	16:17	#	43:3.1/#	Altísimos	C	#
+Acts of the Apostles	16:17	#	190:5.4/#	Evangelio de salvación de Dios	C	#
+Acts of the Apostles	16:17	#	93:2.3/#	El Altísimo	C	#
+Acts of the Apostles	16:17	#	190:4.1/#	Evangelio de salvación	C	#
+Acts of the Apostles	16:30-31,33	#	170:5.13/#	Admisión por la fe	S	#
+Acts of the Apostles	16:31	#	110:2.2/#	Consentimiento cooperativo	C	#
+Acts of the Apostles	16:37-39	#	121:1.2/#	Pablo era ciudadano romano	S	#
+Acts of the Apostles	17:2-3	#	196:2.5/#	Exaltación del Cristo resucitado	C	#
+Acts of the Apostles	17:4,17	#	121:2.5/#	Gentiles «devotos»	S	#
+Acts of the Apostles	17:6	#	195:6.9/#	Pusieron del revés el mundo	S	#
+Acts of the Apostles	17:22-23	#	195:1.1/#	Comienzo de la helenización del cristianismo	S	#
+Acts of the Apostles	17:22-23	#	87:5.1/#	Dioses desconocidos	R	#
+Acts of the Apostles	17:22-25,28	#	11:8.1/#	En Dios todas las cosas consisten	C	#
+Acts of the Apostles	17:24,28	#	11:8.1/#	Dios es todas las cosas	C	#
+Acts of the Apostles	17:24-31	#	195:1.1/#	La versión del evangelio de Pablo	S	#
+Acts of the Apostles	17:25	#	36:6.1/#	La vida, tanto material como espiritual	C	#
+Acts of the Apostles	17:25	#	45:4.3/#	Dador del Aliento	R	#
+Acts of the Apostles	17:25	#	1:1.4/#	Don de la Vida	C	#
+Acts of the Apostles	17:25	#	2:2.1/#	Da a todos la vida	R	#
+Acts of the Apostles	17:26	#	52:3.7/#	Todas las naciones de una sola sangre	R	#
+Acts of the Apostles	17:27	#	12:7.12/#	Dios no está lejos	C	#
+Acts of the Apostles	17:28	#	2:1.11/#	En Él vivimos y nos movemos	R	#
+Acts of the Apostles	17:28	#	105:2.11/#	Vivimos, nos movemos y tenemos nuestra existencia	C	#
+Acts of the Apostles	17:28	#	117:3.12/#	Vivimos, nos movemos y existimos	C	#
+Acts of the Apostles	17:28	#	3:1.2/#	Es todo en todo	C	#
+Acts of the Apostles	17:28	#	12:7.12/#	En Dios nos movemos y existimos	C	#
+Acts of the Apostles	17:28	#	42:1.2/#	Todas las cosas radican en él	C	#
+Acts of the Apostles	17:28	#	1:5.16/#	En Él vivimos y nos movemos	R	#
+Acts of the Apostles	17:28	#	174:3.2/#	En Él vivimos y nos movemos	S	#
+Acts of the Apostles	17:28	#	9:0.4/#	En Dios todas las cosas consisten	C	#
+Acts of the Apostles	17:28	#	56:9.14/#	Dios es todo y está en todo	C	#
+Acts of the Apostles	17:28	#	56:1.5/#	Dualidad de la realidad	C	#
+Acts of the Apostles	17:28-29	#	5:4.8/#	Somos hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	1:3.1/#	Progenie de Dios	R	#
+Acts of the Apostles	17:28-29	#	181:2.12/#	Los creyentes, hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	34:6.10/#	Hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	131:10.2/#	Somos los hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	40:6.1/#	Hijos de Dios por la fe	C	#
+Acts of the Apostles	17:28-29	#	8:6.4/#	Hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	2:5.4/#	Somos hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	131:10.6/#	Relación entre padre e hijo	C	#
+Acts of the Apostles	17:28-29	#	149:2.10/#	Hijos del Dios viviente	C	#
+Acts of the Apostles	17:28-29	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
+Acts of the Apostles	17:28-29	#	131:10.8/#	La relación de padre e hijo	C	#
+Acts of the Apostles	17:28-29	#	142:5.2/#	Hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	170:2.20/#	Hijos de Dios liberados	C	#
+Acts of the Apostles	17:28-29	#	141:4.2/#	Somos los hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	190:3.1/#	El evangelio de la filiación	C	#
+Acts of the Apostles	17:28-29	#	196:0.2/#	Cada criatura mortal es un hijo de Dios	C	#
+Acts of the Apostles	17:28-29	#	153:2.4/#	Fraternidad de los hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	141:2.2/#	Hijos de Dios por la fe	C	#
+Acts of the Apostles	17:28-29	#	170:2.20/#	Hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
+Acts of the Apostles	17:28-29	#	121:4.3/#	La enseñanza estoica de ser los «descendientes de Dios»	R	#
+Acts of the Apostles	17:28-29	#	193:1.2/#	Todos los hombres son hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	140:1.6/#	Hijos del Dios viviente	C	#
+Acts of the Apostles	17:28-29	#	181:2.14/#	Los creyentes son hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	143:2.7/#	Los hijos liberados de Dios	C	#
+Acts of the Apostles	17:28-29	#	170:2.8/#	Los hijos salvados de Dios	S	#
+Acts of the Apostles	17:28-29	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
+Acts of the Apostles	17:28-29	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
+Acts of the Apostles	17:28-29	#	149:6.8/#	Nosotros somos sus hijos	R	#
+Acts of the Apostles	17:28-29	#	140:3.16/#	Hijos del Dios viviente	C	#
+Acts of the Apostles	17:28a	#	1:1.2/#	En Dios el hombre vive, se mueve	R	#
+Acts of the Apostles	18:2,18,26	#	133:3.12/#	Aquila y Priscila	C	#
+Acts of the Apostles	18:5	#	133:3.3/#	Silas y Timoteo	C	#
+Acts of the Apostles	18:7	#	133:3.5/#	Justo	C	#
+Acts of the Apostles	18:8	#	133:3.1/#	Crispo	C	#
+Acts of the Apostles	18:10	#	117:6.27/#	Dios está con nosotros	C	#
+Acts of the Apostles	18:27	#	121:8.8/#	La gracia del Señor Jesucristo	R	#
+Acts of the Apostles	19:1-10	#	133:6.3/#	Comienzos del cristianismo en Éfeso	C	#
+Acts of the Apostles	19:18	#	156:2.7/#	Si confesáis vuestros pecados, están perdonados	C	#
+Acts of the Apostles	19:20	#	96:1.9/#	Kyrios	C	#
+Acts of the Apostles	19:29	#	133:3.11/#	Gayo	C	#
+Acts of the Apostles	20:4	#	133:3.11/#	Gayo	C	#
+Acts of the Apostles	20:24,32	#	121:8.8/#	La gracia del Señor Jesucristo	R	#
+Acts of the Apostles	20:28	#	170:5.6/#	Jesús el Redentor de la Iglesia	C	#
+Acts of the Apostles	20:32	#	165:3.8/#	Herencia espiritual	C	#
+Acts of the Apostles	20:35	#	100:7.10/#	Es más bienaventurado dar que recibir	R	#
+Acts of the Apostles	20:35	#	103:2.9/#	Más bienaventurado dar que recibir	R	#
+Acts of the Apostles	20:35	#	28:6.18/#	Es más noble dar que recibir	R	#
+Acts of the Apostles	20:35	#	140:8.18/#	Es más bienaventurado dar que recibir	R	#
+Acts of the Apostles	20:37	#	140:5.16/#	La ternura es varonil	C	#
+Acts of the Apostles	21:19	#	195:9.8/#	La fe expectante	C	#
+Acts of the Apostles	21:37-40	#	121:1.2/#	Pablo habla en lengua griega	S	#
+Acts of the Apostles	22:2-3	#	121:1.2/#	Pablo habla en lengua griega	S	#
+Acts of the Apostles	22:3	#	126:2.3/#	No estuvo sentado a los pies de nadie	R	#
+Acts of the Apostles	22:13	#	194:4.7/#	Se llamaban unos a otros hermanos y hermanas	C	#
+Acts of the Apostles	22:24-29	#	121:1.2/#	Pablo era ciudadano romano	S	#
+Acts of the Apostles	23:11	#	100:7.9/#	Tened buen ánimo	R	#
+Acts of the Apostles	23:31-24:27	#	130:2.5/#	Encarcelamiento de Pablo	S	#
+Acts of the Apostles	24:15	#	113:6.8/#	Resurrección de los injustos	R	#
+Acts of the Apostles	24:16	#	156:2.7/#	Mantener una conciencia desprovista de faltas	C	#
+Acts of the Apostles	26:18	#	191:4.3/#	Luz en las tinieblas espirituales	C	#
+Acts of the Apostles	26:18	#	165:3.8/#	Herencia espiritual	C	#
+Acts of the Apostles	26:20	#	159:5.8/#	Jesús enseña la acción positiva	C	#
+Acts of the Apostles	27:8	#	130:5.4/#	Buenos Puertos	S	#
+Acts of the Apostles	28:26-27	#	151:1.4/#	Verán sin ver, etc.	S	#
+Acts of the Apostles	28:28	#	190:4.1/#	Evangelio de salvación	C	#
+Acts of the Apostles	28:28	#	190:5.4/#	Evangelio de salvación de Dios	C	#
+Acts of the Apostles	28:31	#	170:1.4/#	Jesús enseñó ambos puntos de vista	S	#

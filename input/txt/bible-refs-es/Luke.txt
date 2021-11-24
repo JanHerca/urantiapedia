@@ -1,0 +1,1648 @@
+Luke	1:5	#	135:0.3/#	Educación de los padres	C	#
+Luke	1:5-7	#	122:2.1/#	Los padres de Juan	S	#
+Luke	1:5a	#	121:2.9/#	El rey Herodes	S	#
+Luke	1:8-10	#	122:2.3/#	Ministerio de Zacarías	S	#
+Luke	1:11-12	#	122:2.2/#	Aparición de Gabriel	S	#
+Luke	1:11-19,24-25	#	135:8.7/#	Visita de Gabriel a Isabel	C	#
+Luke	1:11-23	#	135:0.1/#	El sueño de Zacarías	S	#
+Luke	1:13-17	#	122:2.3/#	Mensaje de Gabriel a Zacarías	C	#
+Luke	1:14	#	100:6.6/#	Paz perfecta	C	#
+Luke	1:15	#	135:1.1/#	Juan se convierte en nazareo	C	#
+Luke	1:17	#	135:6.3/#	El espíritu y el poder de Elías	R	#
+Luke	1:18	#	122:2.5/#	Dudas de Zacarías	C	#
+Luke	1:24	#	135:0.1/#	El secreto de Isabel	S	#
+Luke	1:24-25	#	122:2.5/#	El secreto de Isabel	S	#
+Luke	1:26	#	122:5.9/#	Vivieron en Nazaret	C	#
+Luke	1:26-27	#	122:2.6/#	Aparición de Gabriel ante María	S	#
+Luke	1:26-27	#	122:3.1/#	Aparición de Gabriel ante María	S	#
+Luke	1:26-38	#	122:3.4/#	Único acto sobrenatural	S	#
+Luke	1:26-38	#	135:9.1/#	Visita de Gabriel a María	S	#
+Luke	1:26-56	#	122:1.3/#	Los padres de Jesús	S	#
+Luke	1:27	#	122:4.3/#	José no descendía de la línea davídica	C	#
+Luke	1:28-37	#	122:3.1/#	La anunciación	S	#
+Luke	1:30-33	#	119:7.5/#	Encarnación de Miguel	C	#
+Luke	1:31	#	122:3.1/#	El nombre de Jesús	S	#
+Luke	1:32	#	141:2.1/#	El trono del rey David	C	#
+Luke	1:32	#	170:1.3/#	El reino como una esperanza futura	S	#
+Luke	1:32-33	#	122:4.2/#	Inexactitudes en la Biblia	C	#
+Luke	1:33	#	140:1.2/#	El reino eterno	S	#
+Luke	1:35	#	136:1.1/#	Jesús, Hijo de Dios	R	#
+Luke	1:35	#	141:3.5/#	Evangelio del Hijo divino de Dios	C	#
+Luke	1:35	#	157:5.1/#	Jesús, el Hijo de Dios	C	#
+Luke	1:37	#	131:10.2/#	Con Dios, todas las cosas son posibles	C	#
+Luke	1:37	#	158:5.2/#	Todas las cosas son posibles para el que cree	C	#
+Luke	1:37	#	163:3.2/#	Con Dios, nada es imposible	S	#
+Luke	1:37	#	3:2.2/#	Con Él todo es posible	R	#
+Luke	1:37	#	2:1.2/#	Todas las cosas son posibles	R	#
+Luke	1:37	#	26:5.3/#	Con Dios nada es imposible	R	#
+Luke	1:39-40	#	122:2.6/#	María visita a Isabel	S	#
+Luke	1:52	#	167:1.5/#	El exaltado será humillado y el humillado exaltado	C	#
+Luke	1:52	#	175:1.10/#	Los humillados serán exaltados	S	#
+Luke	1:53	#	196:2.8/#	Jesús condenaba a los ricos	C	#
+Luke	1:56	#	122:2.6/#	Longitud de la visita	S	#
+Luke	1:57	#	135:0.1/#	Nacimiento de Juan el Bautista	S	#
+Luke	1:57-63	#	122:2.7/#	Nacimiento e infancia de Juan	S	#
+Luke	1:59	#	135:0.2/#	La circuncisión de Juan	S	#
+Luke	1:67	#	122:9.4/#	Poema de Ana	S	#
+Luke	1:68-79	#	122:9.5/#	Himno de redención	S	#
+Luke	1:69,77	#	190:4.1/#	Evangelio de salvación	C	#
+Luke	1:69,77	#	190:5.4/#	Evangelio de salvación de Dios	C	#
+Luke	1:78-79	#	162:5.2/#	Jesús es la luz del mundo	S	#
+Luke	1:79	#	5:4.2/#	Paz duradera	C	#
+Luke	1:79	#	40:5.16/#	Luz verdadera	C	#
+Luke	1:79	#	52:1.7/#	Iluminados por la verdadera luz	R	#
+Luke	1:79	#	107:4.5/#	Luminosidad espiritual	C	#
+Luke	1:79	#	107:4.5/#	Luminosidad espiritual	C	#
+Luke	1:79	#	191:4.3/#	Luz en las tinieblas espirituales	S	#
+Luke	1:79	#	155:6.3/#	De las tinieblas a la luz	C	#
+Luke	1:79	#	0:6.9/#	Luz espiritual	C	#
+Luke	1:80	#	135:1.4/#	La forma de vestir de Juan	S	#
+Luke	1:80	#	122:2.8/#	Juventud de Juan	S	#
+Luke	2:1,3	#	122:7.1/#	«Contar al pueblo» para los tributos	S	#
+Luke	2:4	#	122:4.3/#	José no descendía de la línea davídica	C	#
+Luke	2:4	#	122:4.3/#	José no descendía de la línea davídica	C	#
+Luke	2:4-5	#	122:7.3/#	María va a Belén	S	#
+Luke	2:4-5	#	122:5.9/#	Vivieron en Nazaret	C	#
+Luke	2:4-5,16,19	#	122:1.3/#	Los padres de Jesús	S	#
+Luke	2:4-7	#	119:7.5/#	Encarnación de Miguel	C	#
+Luke	2:4-7,11	#	51:3.9/#	Cristo Miguel	C	#
+Luke	2:6-7	#	122:8.1/#	Nacimiento de Jesús	S	#
+Luke	2:6-14	#	119:7.3/#	Nacimiento de Jesús	C	#
+Luke	2:7b	#	122:7.7/#	Alojamiento en el establo	S	#
+Luke	2:8-18, 20	#	122:8.5/#	Ángeles, no pastores	S	#
+Luke	2:14	#	5:4.2/#	Paz duradera	C	#
+Luke	2:14	#	134:6.13/#	Para conseguir paz, la buena voluntad	C	#
+Luke	2:14	#	39:5.5/#	Gloria a Dios en Havona	R	#
+Luke	2:14	#	39:5.5/#	Gloria a Dios en Havona	R	#
+Luke	2:14	#	52:6.1/#	Paz en la Tierra y buena voluntad	R	#
+Luke	2:14	#	139:11.6/#	Predicar la paz y la buena voluntad	R	#
+Luke	2:14	#	100:6.6/#	Paz perfecta	C	#
+Luke	2:14	#	160:2.10/#	Paz en la Tierra y buena voluntad	R	#
+Luke	2:14	#	140:1.3/#	Paz en la Tierra	S	#
+Luke	2:14b	#	163:1.3/#	Proclamad la paz, la buena voluntad entre los hombres	S	#
+Luke	2:21	#	122:8.2/#	Circuncisión y dedicación	S	#
+Luke	2:21-24	#	122:9.1/#	Dos ritos	S	#
+Luke	2:22-24	#	84:4.6/#	«Impureza» de la mujer puérpera	C	#
+Luke	2:22-24	#	122:10.2/#	«Pobreza» de José	S	#
+Luke	2:22-24	#	122:9.1/#	Redención	C	#
+Luke	2:22-24	#	122:9.1/#	Redención	C	#
+Luke	2:25	#	135:6.2/#	El consuelo de Israel	R	#
+Luke	2:25	#	122:9.2/#	Simeón	S	#
+Luke	2:26	#	122:9.2/#	Ambos veían a Jesús como el Mesías	S	#
+Luke	2:27a	#	122:9.3/#	Los dos estaban en el Templo	S	#
+Luke	2:28	#	122:9.4/#	Poema de Ana	S	#
+Luke	2:29-32	#	122:9.5/#	Himno de redención	S	#
+Luke	2:32	#	162:5.2/#	Jesús es la luz del mundo	S	#
+Luke	2:32	#	0:6.9/#	Luz espiritual	C	#
+Luke	2:32	#	40:5.16/#	Luz verdadera	C	#
+Luke	2:32	#	52:1.7/#	Iluminados por la verdadera luz	R	#
+Luke	2:32	#	107:4.5/#	Luminosidad espiritual	C	#
+Luke	2:33	#	122:9.6/#	Los padres se maravillan	S	#
+Luke	2:33-34,43	#	122:1.3/#	Los padres de Jesús	S	#
+Luke	2:36-38	#	122:9.2/#	Ana	S	#
+Luke	2:39	#	123:0.6/#	Viaje a Nazaret	S	#
+Luke	2:39	#	123:1.1/#	Llegada a Nazaret	C	#
+Luke	2:40	#	121:8.8/#	La gracia del Señor Jesucristo	R	#
+Luke	2:40	#	123:1.2/#	Salud de Jesús	C	#
+Luke	2:40	#	36:5.12/#	Espíritu de sabiduría	C	#
+Luke	2:42	#	124:6.1/#	Viaje a Jerusalén	S	#
+Luke	2:43	#	125:3.1/#	Los padres marchan sin Jesús	S	#
+Luke	2:44	#	125:3.2/#	Los padres descubren que Jesús no está	S	#
+Luke	2:45	#	125:4.2/#	Los padres regresan y le buscan	S	#
+Luke	2:46	#	125:6.4/#	Encuentran a Jesús	S	#
+Luke	2:46	#	125:5.1/#	El tercer día en el templo	S	#
+Luke	2:47	#	125:5.2-7/#	Provocando preguntas	S	#
+Luke	2:47	#	125:5.8/#	Maravillados con su inteligencia	S	#
+Luke	2:48	#	125:6.5/#	La regañina de María	R	#
+Luke	2:49	#	119:6.5/#	Los asuntos de mi Padre	C	#
+Luke	2:49	#	100:7.12/#	Los asuntos del Padre	R	#
+Luke	2:49	#	144:6.3/#	Los asuntos de mi Padre, otros reinos	C	#
+Luke	2:49	#	124:6.15/#	Ha llegado la hora	R	#
+Luke	2:49	#	126:3.10/#	Los asuntos de su Padre	R	#
+Luke	2:49	#	127:5.4/#	Relacionada con los asuntos de su Padre	R	#
+Luke	2:49	#	125:6.7/#	Respuesta de Jesús	R	#
+Luke	2:49	#	126:3.5/#	Los asuntos de su Padre	R	#
+Luke	2:50-51	#	125:6.10/#	Regreso a Galilea	S	#
+Luke	2:52	#	126:1.7/#	Jesús creció en el favor de los hombres y de Dios	R	#
+Luke	3:1	#	136:2.8/#	Cronología de eventos	C	#
+Luke	3:2	#	135:2.3/#	«Desierto» de Judea	C	#
+Luke	3:2-3	#	135:6.1/#	Juan comienza a predicar	S	#
+Luke	3:2-6	#	135:5.8/#	Anuncio de Juan	S	#
+Luke	3:3	#	140:10.1/#	Juan os dió un bautismo de arrepentimiento	C	#
+Luke	3:3	#	134:9.8/#	El reino está cerca, arrepentíos	R	#
+Luke	3:3	#	135:6.4/#	Bautizo para remisión de los pecados	R	#
+Luke	3:3	#	135:7.3/#	Arrepentíos y bautizaos	R	#
+Luke	3:3,7	#	138:8.8/#	El arrepentimiento, huir de la ira venidera	R	#
+Luke	3:3,7,16	#	85:4.1/#	Bautismo	C	#
+Luke	3:3,7,16	#	87:6.5/#	Bautismo de agua	C	#
+Luke	3:3,16	#	144:6.9/#	El significado del bautismo	C	#
+Luke	3:4-5	#	135:6.6/#	Respuesta de Juan	R	#
+Luke	3:6	#	190:4.1/#	Evangelio de salvación	C	#
+Luke	3:6	#	190:5.4/#	Evangelio de salvación de Dios	C	#
+Luke	3:7	#	135:5.8/#	Huir de la ira venidera	R	#
+Luke	3:7-9	#	135:6.7/#	El mensaje sin tacto de Juan	R	#
+Luke	3:9	#	140:3.19/#	Requerimientos para dar buenos frutos	C	#
+Luke	3:9	#	193:2.2/#	Se pide que produzcáis muchos frutos	S	#
+Luke	3:9	#	142:5.2/#	Judgad por los frutos del espíritu	C	#
+Luke	3:9	#	140:4.7/#	Necesidad de dar buen fruto	C	#
+Luke	3:9-10	#	135:6.7/#	Dar buen fruto	R	#
+Luke	3:10-11	#	135:6.8/#	Juan daba clases a sus discípulos	S	#
+Luke	3:12	#	129:1.11/#	El Maestro	R	#
+Luke	3:12	#	149:2.12/#	La gente le llamaba maestro	C	#
+Luke	3:12-13	#	135:6.8/#	Lección para los recaudadores	S	#
+Luke	3:14	#	135:6.8/#	Lección para los soldados	S	#
+Luke	3:15	#	136:0.1/#	El pueblo expectante del Mesías	C	#
+Luke	3:15	#	121:2.7/#	La mayor parte de los judíos esperaban el Mesías	S	#
+Luke	3:15-17	#	135:7.2/#	Juan niega ser el Mesías	S	#
+Luke	3:16	#	141:6.5/#	Bautismo con el espíritu	C	#
+Luke	3:16	#	194:2.10/#	Bautismo del espíritu	C	#
+Luke	3:16	#	137:8.10/#	Bautismo de Juan en señal de arrepentimiento	S	#
+Luke	3:16-17	#	135:7.2/#	Juan como precursor del Mesías	R	#
+Luke	3:19	#	135:10.3/#	Juan encarcelado	S	#
+Luke	3:19	#	135:10.2/#	Juan ataca a Herodes	S	#
+Luke	3:19	#	135:10.2/#	Juan ataca a Herodes	S	#
+Luke	3:21	#	135:8.3/#	Jesús viaja a Pella	S	#
+Luke	3:21	#	136:2.1/#	El bautismo de Jesús	S	#
+Luke	3:21	#	136:2.4/#	Se abrieron los cielos	R	#
+Luke	3:21-22	#	135:9.7/#	Descenso del espíritu y voz	S	#
+Luke	3:22	#	136:2.3/#	Ajustador Personalizado	R	#
+Luke	3:22	#	135:8.6/#	Bautismo de Jesús y voz divina	S	#
+Luke	3:22	#	136:2.3/#	Ajustador Personalizado	S	#
+Luke	3:22	#	85:3.4/#	Paloma de la paz	C	#
+Luke	3:22	#	136:2.5/#	Voz del Ajustador Personalizado	S	#
+Luke	3:22	#	47:8.4/#	Éste es un hijo amado	R	#
+Luke	3:23	#	95:7.3/#	El hijo del carpintero	C	#
+Luke	3:23	#	122:1.3/#	Los padres de Jesús	S	#
+Luke	3:23-24	#	122:4.3/#	Antepasado adoptado	C	#
+Luke	3:23-37	#	122:4.4/#	Equivocación de las genealogías	S	#
+Luke	3:23-38	#	122:1.1/#	Linaje de José	S	#
+Luke	4:1	#	34:4.1/#	El Espíritu Santo	C	#
+Luke	4:1	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
+Luke	4:1	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
+Luke	4:1	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
+Luke	4:1	#	134:7.6/#	El ajustador conduce a Jesús a la montaña	S	#
+Luke	4:1-2	#	136:4.8/#	Toma de decisiones	S	#
+Luke	4:1-13	#	136:4.5/#	Razón de la idea de los «cuarenta días»	C	#
+Luke	4:1-13	#	135:8.6/#	Cuarenta días solo	S	#
+Luke	4:1-13	#	136:3.1/#	Los «cuarenta días»	S	#
+Luke	4:1-14	#	120:2.2/#	Finalización de la rebelión	C	#
+Luke	4:2	#	119:4.4/#	Ha sido probado y comprobado en todos los aspectos	R	#
+Luke	4:2	#	136:4.3/#	Jesús no ayunó	C	#
+Luke	4:2	#	134:8.3/#	¿Jesus ayunó o comió?	S	#
+Luke	4:2	#	119:3.7/#	Ha sido probado y comprobado en todos los aspectos	R	#
+Luke	4:2	#	119:5.2/#	Ha sido probado y comprobado en todos los aspectos	R	#
+Luke	4:2-6,13	#	53:1.4/#	El demonio	C	#
+Luke	4:2-13	#	134:8.6-8/#	Tentaciones de Jesús	S	#
+Luke	4:3	#	136:6.1/#	La «tentación» para obtener comida	S	#
+Luke	4:3-4	#	136:6.4/#	No sólo de pan vivirá el hombre	R	#
+Luke	4:4	#	160:3.1/#	No sólo de pan vive el hombre	R	#
+Luke	4:5	#	136:9.6/#	«Tentación» para controlar los reinos	S	#
+Luke	4:8	#	53:8.4/#	Ve detrás de mí, Satanás	R	#
+Luke	4:8	#	136:9.3/#	Servir sólo al Señor Dios	R	#
+Luke	4:9-11	#	136:8.5/#	Decide no caminar en el aire desde el templo	C	#
+Luke	4:9-11	#	136:7.1/#	La «tentación» de saltar al vacío	S	#
+Luke	4:13	#	136:4.3/#	Las «tentaciones» ocurrieron anteriormente	C	#
+Luke	4:14	#	137:2.2/#	Jesús en Galilea	S	#
+Luke	4:14	#	135:9.9/#	Jesús vuelve a Galilea	S	#
+Luke	4:16-20	#	126:4.1/#	Primer servicio de Jesús en la sinagoga	S	#
+Luke	4:16a	#	150:6.3/#	Regreso a Nazaret	S	#
+Luke	4:16b	#	150:8.1/#	Multitud en la sinagoga	S	#
+Luke	4:17-19	#	150:8.9/#	Jesús lee a los profetas	S	#
+Luke	4:17a	#	150:8.8/#	Jesús tomó el rollo	S	#
+Luke	4:18	#	136:1.1/#	El Ungido	R	#
+Luke	4:18	#	144:8.3/#	La buena nueva se predica a los pobres	C	#
+Luke	4:18	#	140:3.2/#	Liberar a los cautivos espirituales	C	#
+Luke	4:18	#	120:2.6/#	Libertad a los cautivos espirituales	C	#
+Luke	4:18	#	140:9.2/#	Liberad a los cautivos espirituales	S	#
+Luke	4:18	#	141:7.8/#	Empezar su trabajo con los pobres	S	#
+Luke	4:20-22a	#	150:8.10/#	El agrado de la gente	S	#
+Luke	4:21	#	150:8.10/#	Hoy estas escrituras se han cumplido	R	#
+Luke	4:22	#	153:2.10/#	¿No eres el hijo del carpintero?	C	#
+Luke	4:22	#	95:7.3/#	El hijo del carpintero	C	#
+Luke	4:22b-24	#	150:9.1/#	La oposición crece	S	#
+Luke	4:24	#	138:0.2/#	No hay profeta sin honra excepto en su casa	C	#
+Luke	4:28-30	#	150:9.3/#	Jesús escapa de los rufianes	S	#
+Luke	4:31	#	150:9.4/#	Regreso a Cafarnaúm	S	#
+Luke	4:31	#	145:2.1/#	Jesús predica en la sinagoga	S	#
+Luke	4:31	#	145:0.1/#	Jesús y sus apóstoles en Cafarnaúm	S	#
+Luke	4:31-32	#	145:2.11/#	Jesús enseñó con autoridad	S	#
+Luke	4:33-35	#	145:2.12/#	Curación del epiléptico	S	#
+Luke	4:36-37	#	145:2.14/#	Noticias de la curación	S	#
+Luke	4:38	#	139:2.1/#	La mujer de Simón y su suegra	S	#
+Luke	4:38-39	#	145:2.15/#	La suegra de Pedro, enferma	S	#
+Luke	4:40	#	145:3.2/#	La multitud a la puesta de sol	S	#
+Luke	4:40-41	#	145:3.10/#	La curación a la puesta de sol	S	#
+Luke	4:41	#	136:1.1/#	Jesús, Hijo de Dios	R	#
+Luke	4:41	#	157:5.1/#	Jesús, el Hijo de Dios	C	#
+Luke	4:41	#	141:3.5/#	Evangelio del Hijo divino de Dios	C	#
+Luke	4:42a	#	145:5.1/#	El retiro de Jesús	S	#
+Luke	4:42b	#	145:5.5/#	La multitud busca a Jesús para curarse	S	#
+Luke	4:43	#	169:4.6/#	El reino de Dios	S	#
+Luke	4:43	#	153:2.4/#	Reino de Dios	C	#
+Luke	4:43	#	143:1.5/#	El evangelio del reino	C	#
+Luke	4:43	#	141:2.1/#	El reino de Dios ya está aquí	C	#
+Luke	4:43	#	34:6.13/#	El reino de Dios	C	#
+Luke	4:43	#	190:5.4/#	El evangelio del reino	S	#
+Luke	4:43	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	4:43	#	145:5.7/#	Jesús viene a predicar, no a curar	S	#
+Luke	4:43	#	193:0.4/#	Evangelio del reino	C	#
+Luke	4:44	#	145:5.8/#	Comienzo de la primera gira de predicación	S	#
+Luke	5:1-3	#	145:1.1/#	Jesús habla desde una barca	S	#
+Luke	5:1-9	#	137:1.3/#	Selección de Simón Pedro	S	#
+Luke	5:1-11	#	139:2.1/#	Simón se une a los apóstoles	C	#
+Luke	5:4-11	#	145:1.2/#	La redada de peces	S	#
+Luke	5:5	#	141:3.5/#	Le llamaban «Maestro»	S	#
+Luke	5:10	#	100:7.15/#	No temáis	R	#
+Luke	5:10	#	139:3.1/#	Santiago Zebedeo	S	#
+Luke	5:10	#	140:8.20/#	Jesús decía «No temáis»	R	#
+Luke	5:10	#	139:2.1/#	Socios en la pesca	S	#
+Luke	5:10-11	#	137:1.6/#	Selección de Santiago y Juan	S	#
+Luke	5:10-11	#	139:4.1/#	Juan Zebedeo	S	#
+Luke	5:10b	#	138:7.6/#	Los apóstoles como pescadores de hombres	C	#
+Luke	5:12-13	#	146:4.3/#	Curación del leproso	S	#
+Luke	5:14	#	149:1.2/#	No se lo digáis a nadie	S	#
+Luke	5:14	#	136:8.1/#	Que no contaran nada sobre el acortamiento del tiempo	S	#
+Luke	5:14-15	#	146:4.4/#	El leproso habla	S	#
+Luke	5:17	#	148:9.1/#	Predicando en Galilea	S	#
+Luke	5:18-20	#	148:9.2/#	Curación del paralítico	S	#
+Luke	5:21	#	148:9.2/#	Provocación de los fariseos	S	#
+Luke	5:22-26	#	148:9.3/#	Jesús responde con la curación	S	#
+Luke	5:24	#	128:1.2/#	Hijo del Hombre	C	#
+Luke	5:24	#	135:5.7/#	El Hijo del Hombre	R	#
+Luke	5:24	#	136:1.1/#	El Hijo del Hombre	R	#
+Luke	5:24	#	126:3.6/#	Hijo del Hombre	R	#
+Luke	5:27	#	196:0.13/#	La exigencia suprema: «Sígueme»	S	#
+Luke	5:27-28	#	139:7.1/#	Mateo Leví, publicano	C	#
+Luke	5:27-28	#	181:2.13/#	Muchos cambios desde que respondiste a la «llamada»	S	#
+Luke	5:27-28	#	139:7.6/#	Ejemplo para hombres de negocios	C	#
+Luke	5:27-28	#	138:3.1/#	Selección de Mateo	S	#
+Luke	5:29	#	138:3.4/#	El banquete de Mateo	S	#
+Luke	5:29-30	#	121:8.8/#	Amigo de publicanos y pecadores	R	#
+Luke	5:30	#	169:0.4/#	Come con publicanos y pecadores	S	#
+Luke	5:30	#	138:3.4/#	Publicanos y pecadores	R	#
+Luke	5:30	#	169:1.2/#	Amigo de publicanos y pecadores	S	#
+Luke	5:30-32	#	138:3.6/#	Los sanos no necesitan médico	S	#
+Luke	5:32	#	157:6.9/#	Jesús vino a llamar a los pecadores	S	#
+Luke	5:32	#	137:8.16/#	Jesús vino a llamar a los pecadores	S	#
+Luke	5:33	#	143:2.3/#	El antiguo orden era ayuno y oración	C	#
+Luke	5:33	#	89:3.1/#	Ayuno ritual	C	#
+Luke	5:33-38	#	147:7.2/#	Discurso sobre el ayuno	S	#
+Luke	5:36-38	#	143:2.3/#	El orden antiguo y el nuevo	C	#
+Luke	5:39	#	147:7.3/#	El vino viejo y el nuevo	C	#
+Luke	6:1-2	#	147:6.4/#	Los apóstoles trituran grano en sábado	S	#
+Luke	6:1-2	#	169:0.6/#	Recoge grano en sábado	S	#
+Luke	6:3-5	#	147:6.4/#	Jesús señor del sábado	S	#
+Luke	6:6-10a	#	148:7.2/#	El hombre con una mano seca	S	#
+Luke	6:6-11	#	169:0.6/#	Cura en sábado	S	#
+Luke	6:10b-11	#	148:7.3/#	La mano queda curada	S	#
+Luke	6:14	#	139:6.9/#	Natanael Bartolomé	C	#
+Luke	6:14	#	139:2.2/#	Simón renombrado como Pedro	S	#
+Luke	6:14	#	139:1.7/#	El hermano de Pedro	R	#
+Luke	6:14-16	#	139:0.1/#	Los doce apóstoles	S	#
+Luke	6:14-16	#	138:2.2/#	Nombres bíblicos de los apóstoles	S	#
+Luke	6:14-16	#	150:4.1/#	Los apóstoles son nominados	S	#
+Luke	6:15	#	139:8.1/#	Tomás Dídimo	C	#
+Luke	6:15	#	139:11.1/#	La admisión de Simón Celotes	C	#
+Luke	6:15	#	139:7.1/#	Mateo Leví, publicano	C	#
+Luke	6:15-16	#	139:10.1/#	Los gemelos Alfeo, Santiago y Judas	C	#
+Luke	6:16	#	139:12.1/#	La elección de Judas Iscariote	C	#
+Luke	6:17	#	140:0.1/#	Sermón de la ordenación	S	#
+Luke	6:19	#	149:1.3/#	El poder ha salido de mí	S	#
+Luke	6:20	#	169:4.6/#	El reino de Dios	S	#
+Luke	6:20	#	143:1.5/#	El evangelio del reino	C	#
+Luke	6:20	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	6:20	#	193:0.4/#	Evangelio del reino	C	#
+Luke	6:20	#	34:6.13/#	El reino de Dios	C	#
+Luke	6:20	#	196:2.8/#	Bienaventurados los pobres	S	#
+Luke	6:20	#	190:5.4/#	El evangelio del reino	S	#
+Luke	6:20	#	140:3.1/#	Jesús comienza el sermón de la ordenación	S	#
+Luke	6:20-38	#	170:2.4/#	Una nueva vara ética	S	#
+Luke	6:20b	#	140:5.7/#	Los pobres de espíritu, los humildes	S	#
+Luke	6:20b	#	140:3.3/#	Bienaventurados los pobres de espíritu	S	#
+Luke	6:21	#	170:5.13/#	Hambre y sed de rectitud	S	#
+Luke	6:21	#	156:5.7/#	Hambre de rectitud	C	#
+Luke	6:21a	#	140:3.4/#	Bienaventurados los que tienen hambre y sed de rectitud	S	#
+Luke	6:21a	#	140:5.8/#	Los hambrientos y sedientos de rectitud	S	#
+Luke	6:21b	#	140:5.16/#	Los afligidos serán confortados	C	#
+Luke	6:21b	#	140:3.8/#	Bienaventurados los que lloran	S	#
+Luke	6:21b	#	160:2.9/#	Bienaventurados los que están de luto	R	#
+Luke	6:22-23a	#	140:5.20/#	Los perseguidos por su rectitud	C	#
+Luke	6:22-23a	#	140:3.11/#	Bienaventurados los perseguidos	S	#
+Luke	6:22-30,35	#	170:2.7/#	La recompensa de la honradez	S	#
+Luke	6:24	#	196:2.8/#	Jesús condenaba a los ricos	C	#
+Luke	6:27,35	#	103:5.2/#	Amar a los enemigos	C	#
+Luke	6:27,35	#	174:0.2/#	Ama a tus enemigos	S	#
+Luke	6:27,35	#	140:8.6/#	Amad a vuestros enemigos	S	#
+Luke	6:27,35	#	131:10.8/#	Ama a tus enemigos	C	#
+Luke	6:27-28	#	194:3.11/#	Vencer el odio con el amor	S	#
+Luke	6:27-28	#	140:3.15/#	Ama a tus enemigos	S	#
+Luke	6:27-31	#	131:10.5/#	Haz a otros como Dios haría	C	#
+Luke	6:27-38	#	159:5.13/#	Forma positiva de la regla de oro	S	#
+Luke	6:28	#	178:1.17/#	Tened misericordia con los abusones maliciosos	S	#
+Luke	6:28	#	146:2.11/#	Orad por vuestros enemigos	S	#
+Luke	6:28-31	#	141:3.8/#	No resistáis al mal	R	#
+Luke	6:29	#	140:3.14/#	Estad dispuestos a la injusticia	S	#
+Luke	6:29	#	159:5.11/#	Dar el manto	S	#
+Luke	6:29a	#	159:5.9/#	Poner la otra mejilla	R	#
+Luke	6:31	#	147:4.3/#	La regla de oro	S	#
+Luke	6:31	#	131:10.7/#	La regla de oro	C	#
+Luke	6:31	#	103:5.1/#	La Regla de Oro procedente del Ajustador	C	#
+Luke	6:31	#	147:4.1/#	La regla de oro	S	#
+Luke	6:31	#	178:1.12/#	La regla de oro	S	#
+Luke	6:31	#	180:5.5/#	La regla de oro	S	#
+Luke	6:31	#	132:5.10/#	La regla de oro	C	#
+Luke	6:31	#	140:10.5/#	La regla de oro de Jesús, en modo positivo	S	#
+Luke	6:31	#	140:3.15/#	La regla de oro	S	#
+Luke	6:35-36	#	169:4.2/#	El Padre revelado por el Hijo	S	#
+Luke	6:35-36	#	120:2.8/#	Jesús dedicado a revelar a Dios a la humanidad	C	#
+Luke	6:35-36	#	165:3.8/#	He venido a revelaros al Padre	C	#
+Luke	6:35-36	#	16:9.6/#	Jesús reveló Dios al hombre	C	#
+Luke	6:35-36	#	20:10.3/#	Los Hijos Creadores revelan al Padre	C	#
+Luke	6:36	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
+Luke	6:36	#	159:1.5/#	Dios es misericordioso con los que tienen misericordia	C	#
+Luke	6:36	#	131:10.8/#	La relación de padre e hijo	C	#
+Luke	6:36	#	131:10.6/#	Relación entre padre e hijo	C	#
+Luke	6:36	#	140:3.16/#	Sed misericordiosos como Dios lo es	S	#
+Luke	6:36	#	153:2.4/#	Jesús ha venido para revelar al Padre	C	#
+Luke	6:36	#	141:4.2/#	Dios es nuestro Padre	C	#
+Luke	6:36	#	149:6.8/#	Dios es nuestro Padre	C	#
+Luke	6:36	#	131:10.5/#	Dios es «mi» padre	C	#
+Luke	6:36-38	#	133:4.7/#	Justicia, equidad, misericordia	C	#
+Luke	6:37	#	140:8.12/#	No juzguéis, para no ser juzgados	R	#
+Luke	6:37	#	140:3.17/#	Salvad a los hombres, no los juzguéis	S	#
+Luke	6:37	#	131:10.8/#	No juzgues	C	#
+Luke	6:37	#	188:4.13/#	Perdona nuestras deudas, como nosotros perdonamos a nuestros deudores	R	#
+Luke	6:37b	#	170:3.4/#	Somos perdonados en tanto perdonamos	S	#
+Luke	6:37b	#	146:2.4/#	El perdón	C	#
+Luke	6:38	#	133:4.7/#	Judga justamente	C	#
+Luke	6:39	#	159:5.14/#	Un ciego conduciendo a otro ciego	R	#
+Luke	6:39	#	153:3.5/#	Si un ciego guía a un ciego, ambos caen al precipicio	S	#
+Luke	6:39	#	175:1.15/#	Ciegos dirigiendo ciegos	S	#
+Luke	6:39	#	140:3.18/#	Si el ciego conduce al ciego	S	#
+Luke	6:40	#	150:4.2/#	Relación de maestro y sirviente	C	#
+Luke	6:41-42	#	140:3.17/#	La mota en el ojo ajeno y la viga en el propio	S	#
+Luke	6:43-44	#	140:3.19/#	Por sus frutos los conoceréis	S	#
+Luke	6:43-44	#	193:2.2/#	Se pide que produzcáis muchos frutos	S	#
+Luke	6:43-44	#	140:3.19/#	Por sus frutos los conoceréis	C	#
+Luke	6:43-44	#	135:6.7/#	Dar buen fruto	R	#
+Luke	6:43-44	#	5:2.4/#	Por sus frutos los conoceréis	R	#
+Luke	6:43-44	#	140:4.7/#	Por sus frutos los conoceréis	S	#
+Luke	6:43-44	#	140:4.7/#	Por sus frutos los conoceréis	C	#
+Luke	6:43-45	#	153:4.4/#	El árbol bueno se conoce por sus frutos	S	#
+Luke	6:43-45	#	142:5.2/#	Judgad por los frutos del espíritu	C	#
+Luke	6:47	#	131:10.7/#	Quien lo desee será salvado	C	#
+Luke	6:47	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
+Luke	6:47	#	32:5.8/#	Quien lo quiera puede participar	C	#
+Luke	6:47	#	2:5.2/#	Quienquiera puede venir	C	#
+Luke	6:47	#	140:3.20/#	Recompensa de los creyentes	S	#
+Luke	6:47	#	139:12.7/#	Todo el que quiera puede venir	C	#
+Luke	6:47	#	165:3.8/#	Quienquiera puede venir	C	#
+Luke	6:47	#	100:7.6/#	Quienquiera que lo desee, puede venir	C	#
+Luke	6:47-49	#	156:5.2/#	Contruir en buenos cimientos	C	#
+Luke	7:1-5	#	147:1.1/#	El sirviente del centurión	S	#
+Luke	7:1-10	#	129:1.7/#	Oficial romano, un hombre piadoso	C	#
+Luke	7:6-8	#	147:1.2/#	La fe del centurión	S	#
+Luke	7:9-10	#	147:1.3/#	Jesús maravillado de la fe	S	#
+Luke	7:11-15	#	146:6.2/#	El hijo de la viuda	S	#
+Luke	7:16	#	146:6.3/#	La gente asombrada	S	#
+Luke	7:17	#	146:6.4/#	Un supuesto milagro	S	#
+Luke	7:19-20	#	144:8.2/#	¿Eres tú el Libertador?	S	#
+Luke	7:19-23	#	135:11.4/#	Más preguntas de Juan	S	#
+Luke	7:21-22	#	144:8.3/#	La buena nueva se predica a los pobres	S	#
+Luke	7:22	#	143:1.5/#	El evangelio predicado a los pobres	S	#
+Luke	7:22	#	170:2.3/#	Consuelo para todos	S	#
+Luke	7:22	#	141:7.8/#	Empezar su trabajo con los pobres	S	#
+Luke	7:24-26	#	143:1.5/#	¿Acaso Juan era un débil?	S	#
+Luke	7:24-27	#	144:8.3/#	Jesús habla sobre Juan Bautista	S	#
+Luke	7:28	#	143:1.5/#	El evangelio del reino	C	#
+Luke	7:28	#	193:0.4/#	Evangelio del reino	C	#
+Luke	7:28	#	169:4.6/#	El reino de Dios	S	#
+Luke	7:28	#	34:6.13/#	El reino de Dios	C	#
+Luke	7:28	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	7:28	#	190:5.4/#	El evangelio del reino	S	#
+Luke	7:28	#	153:2.4/#	Reino de Dios	C	#
+Luke	7:28	#	136:0.1/#	Juan, el mayor profeta	C	#
+Luke	7:28	#	144:8.4/#	Juan el más grande	S	#
+Luke	7:29	#	144:8.5/#	Muchos creyeron	S	#
+Luke	7:29,34	#	121:8.8/#	Amigo de publicanos y pecadores	R	#
+Luke	7:31-35	#	144:8.7/#	Comentarios de Jesús	S	#
+Luke	7:32	#	140:5.16/#	La ternura es varonil	C	#
+Luke	7:34	#	138:3.4/#	Publicanos y pecadores	R	#
+Luke	7:34	#	169:1.2/#	Amigo de publicanos y pecadores	S	#
+Luke	7:34	#	169:0.4/#	Come con publicanos y pecadores	S	#
+Luke	7:36a	#	147:5.1/#	Simón el fariseo	S	#
+Luke	7:36b-38	#	147:5.3/#	Jesús ungido por una antigua prostituta	S	#
+Luke	7:37-38	#	139:12.10/#	Frasco de incienso	C	#
+Luke	7:39-48	#	147:5.4/#	Parábola de los dos deudores	S	#
+Luke	7:49-50	#	147:5.5/#	Fe y perdón de los pecados	S	#
+Luke	8:1	#	137:8.14/#	Jesús predicó buenas nuevas	S	#
+Luke	8:1	#	150:0.4/#	Tercera gira de predicación	S	#
+Luke	8:1	#	137:7.13/#	Predicar buenas noticias	R	#
+Luke	8:1	#	136:0.2/#	El mensaje del evangelio	C	#
+Luke	8:1,10	#	190:5.4/#	El evangelio del reino	S	#
+Luke	8:1,10	#	169:4.6/#	El reino de Dios	S	#
+Luke	8:1,10	#	34:6.13/#	El reino de Dios	C	#
+Luke	8:1,10	#	153:2.4/#	Reino de Dios	C	#
+Luke	8:1,10	#	143:1.5/#	El evangelio del reino	C	#
+Luke	8:1,10	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	8:1,10	#	193:0.4/#	Evangelio del reino	C	#
+Luke	8:1-3	#	149:2.8/#	Las mujeres discípulas	S	#
+Luke	8:2-3	#	150:1.1/#	El cuerpo de mujeres	S	#
+Luke	8:2-3	#	150:2.3/#	La fidelidad de las mujeres	S	#
+Luke	8:3	#	150:3.1/#	Juana, mujer de Chuza	S	#
+Luke	8:3b	#	150:1.2/#	Financiación de las mujeres	S	#
+Luke	8:4	#	151:1.1/#	La multitud alrededor de la barca	S	#
+Luke	8:5-8	#	151:1.2/#	Parábola del sembrador	S	#
+Luke	8:8,15	#	137:8.12/#	El reino como una semilla	S	#
+Luke	8:9	#	151:1.3/#	Los discípulos preguntan el significado	S	#
+Luke	8:10	#	151:1.4/#	Jesús explica el motivo de las parábolas	S	#
+Luke	8:11-15	#	151:2.3/#	La interpretación de Natanael	S	#
+Luke	8:11-15	#	151:2.2/#	La interpretación de Pedro	S	#
+Luke	8:12,29	#	53:1.4/#	El demonio	C	#
+Luke	8:16	#	151:3.1/#	Dejad que la luz brille con discreción	S	#
+Luke	8:16	#	140:3.13/#	Vosotros sois la luz del mundo	S	#
+Luke	8:16	#	140:4.4/#	Vosotros sois la luz del mundo	S	#
+Luke	8:17	#	151:3.1/#	Nada oculto, todo será manifiesto	S	#
+Luke	8:18	#	169:2.6/#	Fieles en lo pequeño, también en lo grande	S	#
+Luke	8:18	#	109:4.5/#	A quien tiene se le dará, pero al que no tiene	C	#
+Luke	8:18	#	176:3.5/#	Al que tiene se le dará; al que no se le quitará	S	#
+Luke	8:19	#	154:6.1/#	Llega la familia de Jesús	S	#
+Luke	8:20	#	154:6.4/#	Le dicen a Jesús que su familia está esperando	S	#
+Luke	8:20-21	#	170:2.20/#	La hermandad de la familia de Dios	C	#
+Luke	8:20-21	#	170:2.20/#	Jesús usó «la familia de Dios»	S	#
+Luke	8:21	#	140:8.20/#	Haced voluntariamente la «voluntad» de Dios	C	#
+Luke	8:21	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
+Luke	8:21	#	131:10.7/#	Hermandad espiritual	C	#
+Luke	8:21	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
+Luke	8:21	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
+Luke	8:21	#	159:5.8/#	Jesús enseña la acción positiva	C	#
+Luke	8:21	#	117:0.1/#	Hacer la voluntad de Dios	C	#
+Luke	8:21	#	0:5.10/#	Hacer la voluntad del Padre	R	#
+Luke	8:21	#	118:8.11/#	Es mi voluntad que se haga tu voluntad	R	#
+Luke	8:21	#	196:0.2/#	Hacer la voluntad del Padre de los cielos	R	#
+Luke	8:21	#	196:0.8/#	La voluntad de Dios	R	#
+Luke	8:21	#	195:6.16/#	Hacer la voluntad del Padre	R	#
+Luke	8:21	#	170:5.17/#	El hermano mayor de los creyentes	S	#
+Luke	8:21	#	154:6.5/#	¿Quién es mi familia?	S	#
+Luke	8:21	#	131:10.2/#	Viviendo su voluntad podemos revelarlo	C	#
+Luke	8:21	#	141:2.2/#	Cuando la voluntad del Padre se convierta en vuestra voluntad	C	#
+Luke	8:21	#	140:10.1/#	La hermandad de los hijos de Dios	C	#
+Luke	8:22a	#	151:5.1/#	Cruzando al otro lado del lago	S	#
+Luke	8:23-24a	#	151:5.4/#	Jesús duerme y es despertado	S	#
+Luke	8:23b	#	151:5.2/#	La violenta tempestad	S	#
+Luke	8:24b-25	#	151:5.5/#	Tranquiliza a los apóstoles, la tormenta cesa	S	#
+Luke	8:26	#	151:6.1/#	Llegada a Jeresa (Gadara)	S	#
+Luke	8:26-33	#	159:2.4/#	El origen del evangelio del predicador	C	#
+Luke	8:27	#	151:6.2/#	El lunático les aborda	S	#
+Luke	8:28	#	43:3.1/#	Altísimos	C	#
+Luke	8:28	#	151:6.4/#	El lunático reconoce a Jesús	S	#
+Luke	8:28	#	93:3.2/#	El Altísimo	C	#
+Luke	8:28	#	93:2.3/#	El Altísimo	C	#
+Luke	8:29a	#	151:6.5/#	Jesús «cura» al lunático	S	#
+Luke	8:29b	#	151:6.2/#	El lunático había roto sus cadenas	S	#
+Luke	8:33-34	#	151:6.6/#	La leyenda acerca de los cerdos poseídos	S	#
+Luke	8:35	#	151:6.5/#	El lunático curado	S	#
+Luke	8:36-37	#	151:6.7/#	La reacción de los lugareños	S	#
+Luke	8:38-39	#	151:6.8/#	Lo que fue del lunático	S	#
+Luke	8:40-42a	#	152:0.1/#	La petición de Jairo: curación de su hija	S	#
+Luke	8:43-47	#	152:0.2/#	Curación de la mujer hemorroísa	S	#
+Luke	8:43-48	#	171:7.8/#	La fe de la mujer la curó	S	#
+Luke	8:43-48	#	175:1.1/#	Curados por la fe	C	#
+Luke	8:46	#	149:1.3/#	El poder ha salido de mí	S	#
+Luke	8:48	#	152:0.3/#	La fe la había curado	S	#
+Luke	8:49-55	#	152:1.1/#	Curación de la hija de Jairo	S	#
+Luke	8:50	#	100:7.15/#	No temáis	R	#
+Luke	8:50	#	140:8.20/#	Jesús decía «No temáis»	R	#
+Luke	8:56	#	136:8.1/#	Que no contaran nada sobre el acortamiento del tiempo	S	#
+Luke	8:56	#	152:1.2/#	No se lo digáis a nadie	S	#
+Luke	8:56	#	149:1.2/#	No se lo digáis a nadie	S	#
+Luke	9:1-2	#	150:4.1/#	Los apóstoles se reúnen	S	#
+Luke	9:1-2	#	140:9.2/#	Consagración y comisión	S	#
+Luke	9:2	#	141:4.4/#	La misión de los doce	R	#
+Luke	9:2	#	170:1.4/#	Jesús enseñó ambos puntos de vista	S	#
+Luke	9:2	#	163:1.4/#	Ayudad a los enfermos	S	#
+Luke	9:2,11,27	#	193:0.4/#	Evangelio del reino	C	#
+Luke	9:2,11,27	#	143:1.5/#	El evangelio del reino	C	#
+Luke	9:2,11,27	#	190:5.4/#	El evangelio del reino	S	#
+Luke	9:2,11,27	#	153:2.4/#	Reino de Dios	C	#
+Luke	9:2,11,27	#	169:4.6/#	El reino de Dios	S	#
+Luke	9:2,11,27	#	34:6.13/#	El reino de Dios	C	#
+Luke	9:2,11,27	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	9:3	#	163:1.3/#	No llevéis bolsa ni ropa de más	S	#
+Luke	9:3	#	140:9.3/#	No llevéis dinero ni ropa adicional	S	#
+Luke	9:4	#	163:1.3/#	Quedaos en el mismo lugar	S	#
+Luke	9:5	#	163:1.4/#	Planes para la aceptación y el rechazo	S	#
+Luke	9:6	#	150:4.4/#	Los apóstoles se marchan a predicar	S	#
+Luke	9:7	#	154:0.2/#	Actitud de Herodes hacia Jesús	C	#
+Luke	9:7-9	#	154:0.2/#	Los temores de Herodes	S	#
+Luke	9:10b	#	152:2.1/#	La partida de Jesús	S	#
+Luke	9:11	#	152:2.2/#	La gente les sigue	S	#
+Luke	9:12	#	152:2.6/#	No hay comida para la multitud	S	#
+Luke	9:13	#	152:2.7/#	Cinco panes y dos peces	S	#
+Luke	9:14-15	#	152:2.8/#	Traed la comida y sentad a la multitud	S	#
+Luke	9:16-17	#	152:2.9/#	Alimentación de 5.000	S	#
+Luke	9:18b	#	157:3.3/#	«¿Quién dicen los hombres que soy?»	S	#
+Luke	9:19	#	157:3.5/#	Jesús comparado con varios profetas	S	#
+Luke	9:20	#	179:3.2/#	Pedro el primer «creyente»	S	#
+Luke	9:20a	#	157:3.5/#	«¿Quién decís vosotros que soy yo?»	S	#
+Luke	9:20b	#	157:3.5/#	«Tú eres el Cristo»	S	#
+Luke	9:20b	#	157:5.1/#	Divinidad incuestionable	S	#
+Luke	9:21	#	149:1.2/#	No se lo digáis a nadie	S	#
+Luke	9:21	#	157:3.6/#	No se lo contéis a nadie	S	#
+Luke	9:22	#	171:4.8/#	Resucitar al tercer día	C	#
+Luke	9:22	#	186:3.4/#	Resucitar al tercer día	C	#
+Luke	9:22	#	181:2.30/#	Promesa: resucitaré al tercer día	C	#
+Luke	9:22,31,43b-44	#	171:4.2/#	Advertencia sobre la crucifixión y la resurrección	S	#
+Luke	9:22,31,43b-44	#	181:1.5/#	Moriré pero resucitaré	C	#
+Luke	9:22,31,43b-44	#	158:7.3/#	Los apóstoles oyen otra vez de la pasión	C	#
+Luke	9:22,31,43b-44	#	193:0.2/#	Predicción de la muerte y resurrección	S	#
+Luke	9:22,31,43b-44	#	180:6.7/#	Debo morir pero resucitaré	S	#
+Luke	9:22,31,43b-44	#	158:6.5/#	Anticipación de la pasión	S	#
+Luke	9:22,31,43b-44	#	190:5.4/#	Predicción de la muerte y resurrección	S	#
+Luke	9:23	#	140:6.11/#	Asumid vuestras responsabilidades y seguidme	S	#
+Luke	9:23	#	171:2.3/#	Los que me seguís debéis pagar el precio	S	#
+Luke	9:23,59	#	196:0.13/#	La exigencia suprema: «Sígueme»	S	#
+Luke	9:23-24	#	131:10.7/#	Quien lo desee será salvado	C	#
+Luke	9:23-24	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
+Luke	9:23-24	#	32:5.8/#	Quien lo quiera puede participar	C	#
+Luke	9:23-24	#	100:7.6/#	Quienquiera que lo desee, puede venir	C	#
+Luke	9:23-24	#	139:12.7/#	Todo el que quiera puede venir	C	#
+Luke	9:23-24	#	157:6.8/#	Si quiere ser mi discípulo, que me siga	S	#
+Luke	9:23-24	#	165:3.8/#	Quienquiera puede venir	C	#
+Luke	9:23-24	#	2:5.2/#	Quienquiera puede venir	C	#
+Luke	9:23-26	#	159:5.10/#	Que tome sus responsabilidades y me siga	S	#
+Luke	9:23-26	#	158:7.5/#	Que tome sus responsabilidades y me siga	S	#
+Luke	9:23-27	#	158:7.5/#	El coste de ser dscípulo	S	#
+Luke	9:24	#	160:5.10/#	Quien quiera salvar su vida la perderá	S	#
+Luke	9:24	#	103:5.6/#	Quien salve la vida la perderá	R	#
+Luke	9:24	#	140:5.19/#	El que salve su vida, la perderá	R	#
+Luke	9:24	#	158:7.5/#	El que salve su vida egoístamente, la perderá	S	#
+Luke	9:25	#	140:8.17/#	¿De qué le sirve al hombre ganar el mundo entero?	R	#
+Luke	9:25	#	165:4.9/#	¿De qué sirve ganar el mundo si pierdes el alma?	S	#
+Luke	9:26	#	196:2.5/#	Creencia en el retorno inmediato del Señor	C	#
+Luke	9:26	#	52:5.7/#	Cubierto de gloria con los ángeles	R	#
+Luke	9:28	#	158:0.2/#	Los tres que compartieron la experiencia	S	#
+Luke	9:29-31	#	158:1.8/#	La transfiguración	S	#
+Luke	9:32	#	158:1.8/#	Los tres dormidos y despertados	S	#
+Luke	9:33	#	158:1.9/#	La sugerencia de Pedro	S	#
+Luke	9:34-36a	#	158:1.10/#	Una nube y una voz	S	#
+Luke	9:35	#	158:3.4/#	«Éste es mi hijo amado»	S	#
+Luke	9:36b	#	158:2.3/#	Los apóstoles guardaron silencio	S	#
+Luke	9:36b	#	158:2.1/#	No le contéis a nadie	S	#
+Luke	9:37	#	158:4.1/#	Una multitud reunida	S	#
+Luke	9:38-40	#	158:5.1/#	El epiléptico endemoniado	S	#
+Luke	9:40	#	158:4.6/#	Los apóstoles fracasan en su exorcismo	R	#
+Luke	9:41	#	158:5.2/#	Oh generación incrédula y perversa	S	#
+Luke	9:42a	#	158:5.2/#	El joven sufre convulsiones	S	#
+Luke	9:42b-43a	#	158:5.3/#	El niño es curado	S	#
+Luke	9:45	#	158:6.6/#	Los discípulos no comprenden el significado	S	#
+Luke	9:45	#	171:4.3/#	Los apóstoles no lo entienden	S	#
+Luke	9:46	#	179:1.4/#	Los apóstoles se disputan los asientos	S	#
+Luke	9:46-47	#	158:8.1/#	Quién es el más grande	S	#
+Luke	9:46-48	#	196:0.11/#	Fe confiada y sin sospecha como la de un niño	C	#
+Luke	9:46-48	#	196:0.12/#	Ser como un niño	R	#
+Luke	9:46-48	#	41:10.5/#	Quién será el más grande	C	#
+Luke	9:46-48	#	149:6.11/#	Fe como la de un niño	C	#
+Luke	9:46-48	#	195:3.5/#	La enseñanza relativa a los niños	C	#
+Luke	9:46-48	#	193:2.2/#	Entrar en el reino como un niño	S	#
+Luke	9:47-48	#	170:3.2/#	La fe simple de un niño	S	#
+Luke	9:47-48	#	137:8.8/#	La fe confiada de un niño	S	#
+Luke	9:47-48	#	158:8.1/#	Entrar como un niño	S	#
+Luke	9:47-48	#	155:6.12/#	Fe como la de un niño, la simplicidad espiritual	S	#
+Luke	9:47-48	#	144:4.3/#	La filiación se recibe al igual que un niño	C	#
+Luke	9:47-48	#	140:6.2/#	Comenzar como niños pequeños	C	#
+Luke	9:47-48	#	140:10.4/#	Volverse como un niño	S	#
+Luke	9:47-48	#	170:2.18/#	Fe como la de un niño pequeño	S	#
+Luke	9:48	#	158:8.1/#	El que recibe a un niño me recibe a mí	S	#
+Luke	9:48	#	181:2.20/#	Volverse un niño en espíritu	S	#
+Luke	9:49	#	139:4.8/#	Juan prohibió predicar a un extraño	S	#
+Luke	9:49-50	#	159:2.1/#	El extraño predicador	S	#
+Luke	9:50	#	159:2.1/#	Quien no está contra nosotros está con nosotros	R	#
+Luke	9:51-53	#	162:0.1/#	Se niega cobijo a los apóstoles	S	#
+Luke	9:54	#	181:2.4/#	Querías que bajara fuego	S	#
+Luke	9:54	#	139:3.5/#	Caer fuego del cielo sobre los samaritanos	S	#
+Luke	9:54	#	139:4.8/#	Juan pide caer fuego sobre los samaritanos	S	#
+Luke	9:54-55	#	162:0.2/#	Jesús reprende a los apóstoles	S	#
+Luke	9:55	#	28:5.9/#	Qué clase de espíritu	R	#
+Luke	9:55	#	28:5.21/#	Qué clase de espíritu	R	#
+Luke	9:56	#	162:0.3/#	Utilizan otra ciudad	S	#
+Luke	9:57-60	#	163:2.2/#	Enterrar al padre antes que seguir a Jesús	S	#
+Luke	9:57-62	#	149:2.12/#	Tres hombres rehusaron la llamada	S	#
+Luke	9:58	#	157:6.12/#	Los zorros tienen guaridas	S	#
+Luke	9:58	#	154:7.2/#	Ningún lugar donde reposar la cabeza	C	#
+Luke	9:59-62	#	171:2.4/#	Compromiso total	S	#
+Luke	9:60,62	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	9:60,62	#	169:4.6/#	El reino de Dios	S	#
+Luke	9:60,62	#	143:1.5/#	El evangelio del reino	C	#
+Luke	9:60,62	#	34:6.13/#	El reino de Dios	C	#
+Luke	9:60,62	#	153:2.4/#	Reino de Dios	C	#
+Luke	9:60,62	#	193:0.4/#	Evangelio del reino	C	#
+Luke	9:60,62	#	190:5.4/#	El evangelio del reino	S	#
+Luke	9:61-62	#	163:2.3/#	Confortar a la familia antes que seguir a Jesús	S	#
+Luke	10:1	#	150:4.1/#	Envía a los apóstoles de dos en dos	S	#
+Luke	10:1	#	163:1.6/#	Envío y regreso de los setenta	S	#
+Luke	10:1	#	193:3.2/#	Enviados de dos en dos	S	#
+Luke	10:1a	#	163:0.1/#	La instrucción de los setenta	S	#
+Luke	10:1b-7	#	163:1.3/#	Instrucciones para los setenta	S	#
+Luke	10:2	#	150:4.1/#	La cosecha es abundante, pero los obreros pocos	S	#
+Luke	10:3	#	140:9.3/#	Os envío como ovejas entre lobos	S	#
+Luke	10:4	#	163:4.13/#	No saludéis a nadie por el camino	R	#
+Luke	10:4	#	140:9.3/#	No llevéis dinero ni ropa adicional	S	#
+Luke	10:4	#	180:0.2/#	Cambio en las instrucciones previas	S	#
+Luke	10:7	#	140:9.3/#	El obrero merece su salario	S	#
+Luke	10:9	#	141:4.4/#	La misión de los doce	R	#
+Luke	10:9	#	141:8.1/#	Los apóstoles ayudando a los enfermos	S	#
+Luke	10:9,11	#	142:1.1/#	El Reino de Dios está a las puertas	C	#
+Luke	10:9,11	#	141:2.1/#	El reino de Dios ya está aquí	C	#
+Luke	10:9-11	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	10:9-11	#	140:1.6/#	El reino está cerca	C	#
+Luke	10:9-11	#	169:4.6/#	El reino de Dios	S	#
+Luke	10:9-11	#	153:2.4/#	Reino de Dios	C	#
+Luke	10:9-11	#	193:0.4/#	Evangelio del reino	C	#
+Luke	10:9-11	#	143:1.5/#	El evangelio del reino	C	#
+Luke	10:9-11	#	34:6.13/#	El reino de Dios	C	#
+Luke	10:9-11	#	190:5.4/#	El evangelio del reino	S	#
+Luke	10:13	#	163:6.5/#	Saco y cenizas	C	#
+Luke	10:13	#	155:2.2/#	Enseñanzas en Corazín	S	#
+Luke	10:13-15	#	163:6.5/#	Pena por las ciudades incrédulas	S	#
+Luke	10:16	#	163:1.4/#	El que os escucha, me escucha, y escucha al que me envía a mí	S	#
+Luke	10:17a	#	163:6.1/#	Regreso de los setenta	S	#
+Luke	10:17b-18,20	#	163:6.2/#	Los demonios se les sometían	S	#
+Luke	10:18	#	53:8.3/#	Vi caer a Satanás como un rayo	R	#
+Luke	10:18	#	120:2.2/#	Finalización de la rebelión	C	#
+Luke	10:18	#	53:1.4/#	Satanás	C	#
+Luke	10:18	#	43:4.9/#	Vio caer a Satán	R	#
+Luke	10:21	#	196:0.2/#	El Padre del cielo	C	#
+Luke	10:21	#	144:8.8/#	Verdades ocultas reveladas a los niños	S	#
+Luke	10:21	#	142:3.8/#	El Padre que está en los Cielos	C	#
+Luke	10:21	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
+Luke	10:21	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
+Luke	10:21-22	#	163:6.3/#	Gracias al Padre	S	#
+Luke	10:22	#	180:3.8/#	«Muéstranos al Padre»	S	#
+Luke	10:22	#	16:9.6/#	Jesús reveló Dios al hombre	C	#
+Luke	10:22	#	120:2.8/#	Jesús dedicado a revelar a Dios a la humanidad	C	#
+Luke	10:22	#	161:2.9/#	Asociación con el Padre	C	#
+Luke	10:22	#	1:5.5/#	Buscar al Padre a través del Hijo	C	#
+Luke	10:22	#	169:4.2/#	El Padre y el Hijo conocen todas las cosas	S	#
+Luke	10:22	#	153:2.11/#	El Padre enseña al hijo	C	#
+Luke	10:22	#	20:10.3/#	Los Hijos Creadores revelan al Padre	C	#
+Luke	10:22	#	165:3.8/#	He venido a revelaros al Padre	C	#
+Luke	10:22	#	157:6.10/#	Ningún hombre ve ahora al Padre	S	#
+Luke	10:22	#	8:3.7/#	El Hijo: el único camino	C	#
+Luke	10:22	#	169:4.2/#	El Padre y el Hijo conocen todas las cosas	S	#
+Luke	10:22	#	153:2.4/#	Jesús ha venido para revelar al Padre	C	#
+Luke	10:22	#	169:4.2/#	El Padre y el Hijo conocen todas las cosas	S	#
+Luke	10:22	#	120:4.4/#	Realzar la revelación de Dios	C	#
+Luke	10:22	#	10:1.6/#	Hijos Paradisíacos	C	#
+Luke	10:22a	#	120:0.5/#	Todas las cosas entregadas en manos de Miguel	C	#
+Luke	10:23-24	#	163:6.4/#	Evaluación de la misión	S	#
+Luke	10:25	#	146:3.7/#	La vida eterna	C	#
+Luke	10:25	#	162:7.5/#	Los creyentes nunca morirán	C	#
+Luke	10:25	#	128:1.10/#	Dador de la vida eterna	C	#
+Luke	10:25	#	3:0.1/#	Vida eterna	C	#
+Luke	10:25	#	162:2.7/#	Vida eterna	C	#
+Luke	10:25	#	101:6.8/#	Vida eterna	C	#
+Luke	10:25	#	121:5.11/#	Vida después de la muerte	C	#
+Luke	10:25	#	2:2.1/#	Vida eterna	C	#
+Luke	10:25	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
+Luke	10:25	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
+Luke	10:25	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
+Luke	10:25	#	27:1.5/#	Vida eterna	C	#
+Luke	10:25	#	170:2.2/#	La esperanza de la vida eterna	S	#
+Luke	10:25	#	153:2.11/#	Los que creen tienen vida eterna	C	#
+Luke	10:25	#	170:2.20/#	Vida eterna / sin fin	C	#
+Luke	10:25	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
+Luke	10:25	#	181:2.11/#	La vida eterna en el reino venidero	C	#
+Luke	10:25-27	#	142:1.1/#	Amar a Dios y al prójimo como a sí mismo	C	#
+Luke	10:25-27	#	142:3.22/#	Amar a Dios y al prójimo	C	#
+Luke	10:25-27	#	142:4.2/#	Amar a Dios y al prójimo	C	#
+Luke	10:25-27	#	174:4.2/#	El mandamiento más grande	S	#
+Luke	10:25-28	#	174:4.3/#	El jurista está de acuerdo con Jesús	C	#
+Luke	10:25-28	#	164:1.1/#	¿Qué debo hacer para heredar la vida eterna?	S	#
+Luke	10:27	#	195:10.4/#	Dios es un espíritu amoroso	C	#
+Luke	10:27	#	156:5.11/#	El amor divino	C	#
+Luke	10:27	#	170:3.6/#	Amar al prójimo	S	#
+Luke	10:27	#	131:10.2/#	Deberíais amarlo con toda la mente y corazón	C	#
+Luke	10:27	#	159:5.9/#	Ama a tu prójimo como a ti mismo	R	#
+Luke	10:27	#	163:4.8/#	Ama a Dios con todo tu corazón	S	#
+Luke	10:27	#	178:1.17/#	Amaros los unos a los otros	S	#
+Luke	10:27	#	131:10.2/#	Deberíais amarlo con toda la mente y corazón	C	#
+Luke	10:27	#	196:3.16/#	Una religión de AMOR	C	#
+Luke	10:27	#	174:4.2/#	Ama a tu prójimo como a ti	S	#
+Luke	10:27	#	131:2.2/#	Amarás al Señor tu Dios con todo tu corazón	C	#
+Luke	10:27	#	110:3.8/#	Amando a Dios	C	#
+Luke	10:27	#	131:2.13/#	Los que aman al Señor sobre todas las cosas	R	#
+Luke	10:27	#	163:4.8/#	Ama a Dios con todo tu corazón	S	#
+Luke	10:27	#	181:2.4/#	Amarse uno a otro	S	#
+Luke	10:27	#	191:4.3/#	Amarse unos a otros	S	#
+Luke	10:27	#	180:5.7/#	Amar al prójimo como a uno mismo	S	#
+Luke	10:27	#	103:5.2/#	Amar al prójimo como a sí mismo	C	#
+Luke	10:27	#	131:2.13/#	Los que aman al Señor sobre todas las cosas	R	#
+Luke	10:27	#	143:1.4/#	Dios gobierna mediante el amor	C	#
+Luke	10:27	#	110:3.9/#	Amando a los hombres	C	#
+Luke	10:27	#	159:5.4/#	Ama a tu prójimo como a ti	R	#
+Luke	10:27	#	131:2.11/#	Ama a tu prójimo como a ti mismo	R	#
+Luke	10:27	#	143:1.6/#	Dios de amor	C	#
+Luke	10:29	#	164:1.2/#	¿Quién es mi prójimo?	S	#
+Luke	10:29-37	#	140:8.11/#	¿Quién es mi prójimo?	S	#
+Luke	10:30-37	#	164:1.3/#	El buen samaritano	S	#
+Luke	10:38-39a	#	162:8.1/#	Jesús permanece con Lázaro	S	#
+Luke	10:39b	#	162:8.2/#	María escucha a Jesús	S	#
+Luke	10:40-42	#	162:8.3/#	Marta sirve la mesa pero se queja	S	#
+Luke	11:1	#	144:1.6/#	Enséñanos a orar	R	#
+Luke	11:1	#	144:3.1/#	La petición de los apóstoles de una oración	S	#
+Luke	11:1b	#	144:1.7/#	La oración de los discípulos de Juan	S	#
+Luke	11:2	#	196:0.2/#	Hacer la voluntad del Padre de los cielos	R	#
+Luke	11:2	#	140:5.11/#	Hágase tu voluntad	R	#
+Luke	11:2	#	96:1.9/#	Padre que está en los Cielos	C	#
+Luke	11:2	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
+Luke	11:2	#	141:2.2/#	Cuando la voluntad del Padre se convierta en vuestra voluntad	C	#
+Luke	11:2	#	196:0.8/#	La voluntad de Dios	R	#
+Luke	11:2	#	117:0.1/#	Hacer la voluntad de Dios	C	#
+Luke	11:2	#	140:8.20/#	Haced voluntariamente la «voluntad» de Dios	C	#
+Luke	11:2	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
+Luke	11:2	#	1:1.5/#	Llamar a Dios «nuestro Padre»	R	#
+Luke	11:2	#	135:5.2/#	El Mesías gobierna cielo y tierra	R	#
+Luke	11:2	#	160:1.11/#	«Que no se haga mi voluntad, sino la tuya»	R	#
+Luke	11:2	#	118:8.11/#	Es mi voluntad que se haga tu voluntad	R	#
+Luke	11:2	#	136:2.4/#	La oración de Jesús	R	#
+Luke	11:2	#	177:2.7/#	La oración «Padre Nuestro»	S	#
+Luke	11:2	#	131:10.2/#	Viviendo su voluntad podemos revelarlo	C	#
+Luke	11:2	#	1:1.1/#	Llamar a Dios «Padre»	C	#
+Luke	11:2	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
+Luke	11:2	#	195:6.16/#	Hacer la voluntad del Padre	R	#
+Luke	11:2	#	170:2.11/#	Que venga tu reino; que se haga tu voluntad	S	#
+Luke	11:2	#	196:0.8/#	La voluntad de Dios	R	#
+Luke	11:2	#	0:5.10/#	Hacer la voluntad del Padre	R	#
+Luke	11:2,13	#	196:0.2/#	El Padre del cielo	C	#
+Luke	11:2,13	#	131:10.8/#	La relación de padre e hijo	C	#
+Luke	11:2,13	#	149:6.8/#	Dios es nuestro Padre	C	#
+Luke	11:2,13	#	193:0.3/#	Revelar a mi Padre que está en los cielos	S	#
+Luke	11:2,13	#	131:10.2/#	Dios es nuestro Padre celestial	C	#
+Luke	11:2,13	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
+Luke	11:2,13	#	131:10.5/#	Dios es «mi» padre	C	#
+Luke	11:2,13	#	131:10.6/#	Relación entre padre e hijo	C	#
+Luke	11:2,13	#	141:4.2/#	Dios es nuestro Padre	C	#
+Luke	11:2,13	#	142:3.8/#	El Padre que está en los Cielos	C	#
+Luke	11:2-4	#	144:3.3/#	La oración del Señor	S	#
+Luke	11:2-4	#	126:3.3/#	Oración del Padrenuestro	R	#
+Luke	11:2.13	#	100:7.16/#	Padre nuestro que estás en los cielos	R	#
+Luke	11:2a	#	144:3.2/#	Jesús responde	S	#
+Luke	11:3-4	#	91:8.6/#	Oración personal	C	#
+Luke	11:4	#	188:4.13/#	Perdona nuestras deudas, como nosotros perdonamos a nuestros deudores	R	#
+Luke	11:4	#	121:5.11/#	Liberación del mal	C	#
+Luke	11:4	#	87:5.4/#	Líbranos del mal de ojo	R	#
+Luke	11:4	#	133:4.7/#	Justicia, equidad, misericordia	C	#
+Luke	11:4a	#	146:2.4/#	El perdón	C	#
+Luke	11:4a	#	170:3.4/#	Somos perdonados en tanto perdonamos	S	#
+Luke	11:4b	#	156:5.3/#	No nos dejes caer en la tentación	R	#
+Luke	11:5-8	#	144:2.3/#	Parábola del vecino y los panes	S	#
+Luke	11:5-10	#	144:2.3/#	Pedid, buscad, llamad	S	#
+Luke	11:9	#	131:10.5/#	Pide y se te dará	C	#
+Luke	11:9-10	#	130:8.2/#	Busca y encontrarás	C	#
+Luke	11:9-10	#	168:4.13/#	Pedid y recibiréis	S	#
+Luke	11:9-10	#	167:5.2/#	Pedid y recibiréis; buscad y encontraréis	S	#
+Luke	11:9-13	#	146:2.7/#	Cuándo son contestadas las súplicas	C	#
+Luke	11:10	#	100:7.10/#	Pues todo aquel que busca, recibirá	R	#
+Luke	11:11-13	#	144:2.4/#	Regalos apropiados para un hijo	S	#
+Luke	11:13	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
+Luke	11:13	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
+Luke	11:13	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
+Luke	11:13	#	34:4.1/#	El Espíritu Santo	C	#
+Luke	11:13	#	131:10.3/#	Si los padres terrenales aman, cuánto más Dios	C	#
+Luke	11:14	#	153:4.1/#	Curación de un endemoniado	S	#
+Luke	11:14-20	#	169:0.7/#	Aliado con los demonios	S	#
+Luke	11:15	#	153:4.2/#	Un fariseo dice que Belcebú lo curó	S	#
+Luke	11:15,18-19	#	177:4.3/#	Príncipe de los demonios	C	#
+Luke	11:15,18-19	#	77:7.4/#	Belcebú	C	#
+Luke	11:15-19	#	53:1.5/#	Belcebú: ser intermedio rebelde	C	#
+Luke	11:16,29-30	#	153:4.5/#	Los fariseos piden un signo	C	#
+Luke	11:16,29-30	#	136:8.1/#	Jesús rehusó mostrar signos	R	#
+Luke	11:17	#	195:10.11/#	Una casa dividida	R	#
+Luke	11:17-23	#	153:4.3/#	Una casa dividida no puede prevalecer	S	#
+Luke	11:20	#	143:1.5/#	El evangelio del reino	C	#
+Luke	11:20	#	193:0.4/#	Evangelio del reino	C	#
+Luke	11:20	#	169:4.6/#	El reino de Dios	S	#
+Luke	11:20	#	153:2.4/#	Reino de Dios	C	#
+Luke	11:20	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	11:20	#	34:6.13/#	El reino de Dios	C	#
+Luke	11:20	#	190:5.4/#	El evangelio del reino	S	#
+Luke	11:23a	#	159:2.2/#	Quien no está conmigo está contra mí	R	#
+Luke	11:24-26	#	141:6.2/#	No quitéis creencias de los corazones	C	#
+Luke	11:27-28	#	154:6.7/#	Bendito sea el vientre que te gestó	S	#
+Luke	11:28	#	159:5.8/#	Jesús enseña la acción positiva	C	#
+Luke	11:33	#	140:4.4/#	Vosotros sois la luz del mundo	S	#
+Luke	11:33	#	140:3.13/#	Vosotros sois la luz del mundo	S	#
+Luke	11:33	#	151:3.1/#	Dejad que la luz brille con discreción	C	#
+Luke	11:34	#	86:5.11/#	Los ojos son las ventanas del alma	C	#
+Luke	11:34-36	#	140:6.12/#	El ojo es la lámpara del cuerpo	S	#
+Luke	11:35-36	#	155:6.3/#	De las tinieblas a la luz	C	#
+Luke	11:37	#	166:1.1/#	Los fariseos invitan a Jesús	S	#
+Luke	11:37-41	#	169:0.6/#	Los apóstoles no se lavaban las manos	S	#
+Luke	11:38	#	166:1.2/#	Jesús no se lava las manos	S	#
+Luke	11:39	#	166:1.4/#	Limpiáis el exterior pero el interior está sucio	S	#
+Luke	11:39-40	#	175:1.18/#	Séptima lamentación	S	#
+Luke	11:39-53	#	175:4.12/#	El Sanedrín, irritado por el discurso de despedida	S	#
+Luke	11:40	#	117:6.1/#	Él es el interior y el exterior	C	#
+Luke	11:40-41	#	166:1.4/#	Dios mira tanto el exterior como el interior	S	#
+Luke	11:42	#	166:1.4/#	Dar limosnas no es suficente	S	#
+Luke	11:42	#	175:1.17/#	Sexta lamentación	S	#
+Luke	11:43	#	175:1.9/#	Los líderes anhelan honores	S	#
+Luke	11:43	#	166:1.4/#	Lamento por los que buscan los honores	S	#
+Luke	11:45-50	#	166:1.5/#	Más «lamentaciones»	S	#
+Luke	11:46	#	175:1.8/#	Pesadas cargas	S	#
+Luke	11:47-48	#	175:1.20/#	Novena lamentación	S	#
+Luke	11:49-51	#	175:1.22/#	Ofrecimiento de perdón	S	#
+Luke	11:52	#	175:1.12/#	Primera lamentación	S	#
+Luke	11:52	#	166:1.5/#	Juristas que esconden el conocimiento	S	#
+Luke	11:53-54	#	166:1.6/#	Los fariseos esperan para «atrapar» a Jesús	S	#
+Luke	12:1	#	165:3.2/#	Cuidaos de la levadura de los fariseos	S	#
+Luke	12:1	#	157:2.2/#	Cuidado con la levadura de los fariseos	S	#
+Luke	12:1	#	157:7.4/#	Tened cuidado con la levadura de los fariseos	S	#
+Luke	12:1a	#	165:3.1/#	Las multitudes	S	#
+Luke	12:1b-2	#	165:3.2/#	La levadura de los fariseos	S	#
+Luke	12:2-3	#	151:3.1/#	Nada oculto, todo será manifiesto	S	#
+Luke	12:2-5	#	150:4.2/#	No hay nada oculto que no será revelado	S	#
+Luke	12:3	#	165:3.3/#	Proclamad desde los tejados	S	#
+Luke	12:4	#	100:2.7/#	Para un creyente que conoce a Dios	R	#
+Luke	12:4,4,7,32	#	140:8.20/#	Jesús decía «No temáis»	R	#
+Luke	12:4-5	#	165:3.3/#	No temáis a los que pueden matar el cuerpo	S	#
+Luke	12:4-7,,32	#	100:7.15/#	No temáis	R	#
+Luke	12:6	#	3:3.1/#	Los gorriones no caen sin que Dios lo sepa	R	#
+Luke	12:6-7	#	150:4.3/#	Los gorriones no valen nada; los cabellos de vuestra cabeza están contados	S	#
+Luke	12:6-7	#	165:3.4/#	Los gorriones caen, los cabellos están contados	S	#
+Luke	12:7	#	38:2.3/#	Los cabellos de la cabeza están contados	R	#
+Luke	12:7	#	3:3.1/#	Vuestros cabellos están contados	R	#
+Luke	12:8	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
+Luke	12:8	#	100:7.6/#	Quienquiera que lo desee, puede venir	C	#
+Luke	12:8	#	139:12.7/#	Todo el que quiera puede venir	C	#
+Luke	12:8	#	165:3.8/#	Quienquiera puede venir	C	#
+Luke	12:8	#	131:10.7/#	Quien lo desee será salvado	C	#
+Luke	12:8	#	32:5.8/#	Quien lo quiera puede participar	C	#
+Luke	12:8	#	2:5.2/#	Quienquiera puede venir	C	#
+Luke	12:8-9	#	165:3.5/#	Confesar delante de los hombres	S	#
+Luke	12:10	#	165:3.6/#	El pecado imperdonable	S	#
+Luke	12:11-12	#	140:9.3/#	Testimonio del espíritu interior	C	#
+Luke	12:11-12	#	165:3.7/#	El espíritu os dará respuestas	S	#
+Luke	12:11-12	#	176:1.1/#	Persecuciones y peligros	S	#
+Luke	12:13-15	#	165:4.1/#	El apego a las cosas materiales	S	#
+Luke	12:15	#	140:8.17/#	La felicidad no consiste en posesiones	R	#
+Luke	12:16-19	#	165:4.2/#	Parábola del hombre rico	S	#
+Luke	12:19	#	172:3.14/#	Los fariseos llevan sus informes al Sanedrín	S	#
+Luke	12:20-21	#	165:4.3/#	No hay ricos en el Cielo	S	#
+Luke	12:21	#	133:4.6/#	Lo temporal contra lo espiritual	C	#
+Luke	12:21,31-34	#	170:2.5/#	Lo espiritual sobre lo físico	S	#
+Luke	12:22-23	#	140:6.13/#	No os angustiéis por el mañana	S	#
+Luke	12:22-26	#	165:5.2/#	Dios provee	S	#
+Luke	12:22-32	#	140:8.8/#	Tened fe	S	#
+Luke	12:27-28	#	165:5.3/#	Oh, hombres de poca fe	S	#
+Luke	12:29-30	#	165:5.3/#	El Padre provee de las necesidades	S	#
+Luke	12:31	#	174:0.2/#	Busca las verdaderas realidades del espíritu	S	#
+Luke	12:31	#	137:8.8/#	Buscar primero el reino	S	#
+Luke	12:31	#	195:5.1/#	Buscar el reino de Dios	S	#
+Luke	12:31	#	165:5.3/#	Las necesidades reales serán satisfechas	S	#
+Luke	12:31	#	140:1.5/#	Buscad primero el reino	S	#
+Luke	12:31	#	110:3.7/#	Escogiendo la guía divina	C	#
+Luke	12:31	#	196:0.8/#	Buscad primero el reino de los cielos	R	#
+Luke	12:31-32	#	153:2.4/#	Reino de Dios	C	#
+Luke	12:31-32	#	193:0.4/#	Evangelio del reino	C	#
+Luke	12:31-32	#	190:5.4/#	El evangelio del reino	S	#
+Luke	12:31-32	#	169:4.6/#	El reino de Dios	S	#
+Luke	12:31-32	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	12:31-32	#	143:1.5/#	El evangelio del reino	C	#
+Luke	12:31-32	#	34:6.13/#	El reino de Dios	C	#
+Luke	12:32-34	#	165:5.4/#	Que donde esté vuestro tesoro esté vuestro corazón	S	#
+Luke	12:33-34	#	165:4.5/#	Un tesoro en el Cielo	S	#
+Luke	12:33-34	#	140:6.11/#	Guardad tesoros en el cielo	S	#
+Luke	12:33-34	#	169:2.2/#	Sabios espiritualmente	S	#
+Luke	12:35-38	#	165:5.6/#	Parábola: regreso de la boda	S	#
+Luke	12:39-40	#	165:5.7/#	Cuando menos lo esperéis	S	#
+Luke	12:41	#	165:6.1/#	¿Para quién es la parábola?	S	#
+Luke	12:42-44	#	165:6.2/#	El criado puesto a prueba	S	#
+Luke	12:45-46	#	165:6.3/#	El criado perezoso	S	#
+Luke	12:48	#	140:3.1/#	Se te pedirá más	C	#
+Luke	12:48a-53	#	165:6.3/#	No habrá paz	S	#
+Luke	12:51	#	160:5.10/#	No he venido a traer paz	S	#
+Luke	12:51	#	52:6.1/#	No penséis que he venido a traer la paz	R	#
+Luke	12:51-53	#	150:4.3/#	No hay paz, sino tristeza sobre la Tierra	S	#
+Luke	12:52-53	#	154:6.9/#	Los enemigos pueden ser los de la propia casa	S	#
+Luke	12:54-56	#	157:2.1/#	Señales naturales	S	#
+Luke	13:1-5	#	149:2.10/#	Las catástrofes no son azotes divinos	S	#
+Luke	13:1-5	#	166:4.4/#	Víctimas inocentes del tiempo	S	#
+Luke	13:6,9	#	140:3.19/#	Requerimientos para dar buenos frutos	C	#
+Luke	13:6-9	#	193:2.2/#	Se pide que produzcáis muchos frutos	S	#
+Luke	13:6-9	#	166:4.9/#	La párabola de la higuera estéril	S	#
+Luke	13:6-9	#	140:4.7/#	Necesidad de dar buen fruto	C	#
+Luke	13:10-13	#	167:3.1/#	Curación en sábado	S	#
+Luke	13:10-16	#	169:0.6/#	Cura en sábado	S	#
+Luke	13:14	#	167:3.2/#	El jefe principal critica la curación	S	#
+Luke	13:15-17	#	167:3.3/#	La respuesta de Jesús	S	#
+Luke	13:18,20,28,29	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	13:18,20,28,29	#	34:6.13/#	El reino de Dios	C	#
+Luke	13:18,20,28,29	#	193:0.4/#	Evangelio del reino	C	#
+Luke	13:18,20,28,29	#	143:1.5/#	El evangelio del reino	C	#
+Luke	13:18,20,28-29	#	190:5.4/#	El evangelio del reino	S	#
+Luke	13:18,20,28-29	#	153:2.4/#	Reino de Dios	C	#
+Luke	13:18,20,28-29	#	169:4.6/#	El reino de Dios	S	#
+Luke	13:18-19	#	140:8.27/#	Crecimiento del carácter	C	#
+Luke	13:18-19	#	151:4.2/#	Parábola de la semilla de mostaza	S	#
+Luke	13:19	#	178:1.15/#	La semilla de mostaza	S	#
+Luke	13:19	#	170:2.14/#	La semilla de mostaza	S	#
+Luke	13:20-21	#	151:4.3/#	Parábola de la levadura	S	#
+Luke	13:21	#	170:2.14/#	La levadura en la masa	S	#
+Luke	13:21	#	178:1.15/#	La levadura en la masa	S	#
+Luke	13:22-23	#	166:3.1/#	¿Se salvarán muchos?	S	#
+Luke	13:24	#	166:3.3/#	Todos podrán entrar por la puerta	S	#
+Luke	13:25-27	#	166:3.4/#	Aquellos que despreciaron el reino	S	#
+Luke	13:28-29	#	140:1.2/#	Muchos vendrán	S	#
+Luke	13:28-30	#	166:3.5/#	Los perdedores verán a otros comer juntos	S	#
+Luke	13:30	#	163:3.4/#	Muchos que son los primeros serán los últimos	S	#
+Luke	13:30	#	166:3.5/#	Muchos primeros serán últimos, y últimos los primeros	S	#
+Luke	13:30	#	41:10.5/#	El último se convierte en el primero	C	#
+Luke	13:31	#	171:4.4/#	Jesús es advertido del complot para matarle	S	#
+Luke	13:32	#	126:5.7/#	Herodes, «ese zorro»	R	#
+Luke	13:32	#	171:4.6/#	Mensaje de Jesús a Herodes	S	#
+Luke	13:33-35a	#	171:4.7/#	Habla a los apóstoles	S	#
+Luke	13:34	#	175:1.23/#	Lamento por Jerusalén	S	#
+Luke	13:35	#	175:1.24/#	La triste despedida	S	#
+Luke	13:35	#	177:3.7/#	Os dejo vuestra casa desolada	R	#
+Luke	14:1-4	#	169:0.6/#	Cura en sábado	S	#
+Luke	14:1a	#	167:1.1/#	El desayuno con el fariseo	S	#
+Luke	14:1b	#	167:1.3/#	Los fariseos vigilan	S	#
+Luke	14:2	#	167:1.4/#	El hombre con hidropesía	S	#
+Luke	14:3-4a	#	167:1.4/#	Jesús pregunta, no hay respuesta	S	#
+Luke	14:4b	#	167:1.5/#	Jesús cura al hombre con hidropesía	S	#
+Luke	14:5-14	#	167:1.5/#	Habla con los fariseos	S	#
+Luke	14:7a	#	167:1.2/#	El asiento de honor	S	#
+Luke	14:11	#	175:1.10/#	Los humillados serán exaltados	S	#
+Luke	14:11	#	158:8.1/#	El que se humille a sí mismo	S	#
+Luke	14:11	#	167:5.1/#	Quien se humilla será ensalzado	S	#
+Luke	14:11	#	167:1.5/#	El exaltado será humillado y el humillado exaltado	S	#
+Luke	14:12-14	#	140:8.12/#	Convidar a los pobres	S	#
+Luke	14:13	#	141:7.8/#	Empezar su trabajo con los pobres	S	#
+Luke	14:14	#	121:5.11/#	Supervivencia a la muerte	C	#
+Luke	14:14	#	47:3.3/#	Cambios de la resurrección	C	#
+Luke	14:15	#	34:6.13/#	El reino de Dios	C	#
+Luke	14:15	#	193:0.4/#	Evangelio del reino	C	#
+Luke	14:15	#	169:4.6/#	El reino de Dios	S	#
+Luke	14:15	#	167:2.1/#	Un dicho judío	S	#
+Luke	14:15	#	143:1.5/#	El evangelio del reino	C	#
+Luke	14:15	#	153:2.4/#	Reino de Dios	C	#
+Luke	14:15	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	14:15	#	190:5.4/#	El evangelio del reino	S	#
+Luke	14:16-20	#	173:5.2/#	Parábola del festín de bodas (parte 1)	S	#
+Luke	14:16-24	#	167:2.2/#	Parábola de la gran cena	S	#
+Luke	14:21-24	#	173:5.3/#	Parábola del festín de bodas (parte 3)	S	#
+Luke	14:25	#	171:2.1/#	Jesús se dirige a la multitud	S	#
+Luke	14:25-72	#	140:6.9/#	Mayor exigencia a los apóstoles	S	#
+Luke	14:26	#	150:4.3/#	Amad el evangelio por encima de a la familia	S	#
+Luke	14:26	#	171:2.2/#	Charla sobre calcular el coste	S	#
+Luke	14:27	#	171:2.3/#	Los que me seguís debéis pagar el precio	S	#
+Luke	14:27	#	158:7.5/#	Que tome sus responsabilidades y me siga	S	#
+Luke	14:27	#	159:5.10/#	Que tome sus responsabilidades y me siga	S	#
+Luke	14:28-30	#	171:2.3/#	El coste de una torre de vigía	S	#
+Luke	14:31-32	#	171:2.3/#	El coste de la guerra	S	#
+Luke	14:33	#	171:2.4/#	Compromiso total	S	#
+Luke	14:33-35	#	171:2.5/#	Motivos improcedentes	S	#
+Luke	14:34-35	#	171:2.5/#	Sal que ha perdido su sabor	S	#
+Luke	14:34-35	#	140:4.2/#	Vosotros sois la sal de la Tierra	S	#
+Luke	14:34-35	#	140:3.12/#	Sois la sal de la Tierra	S	#
+Luke	15:1	#	138:3.4/#	Publicanos y pecadores	R	#
+Luke	15:1-2	#	169:0.4/#	Come con publicanos y pecadores	S	#
+Luke	15:1-2	#	121:8.8/#	Amigo de publicanos y pecadores	R	#
+Luke	15:1-2	#	169:1.2/#	Amigo de publicanos y pecadores	S	#
+Luke	15:3-7	#	169:1.2/#	Parábola de la oveja perdida	S	#
+Luke	15:3-7	#	159:1.2/#	La parábola de la oveja perdida	S	#
+Luke	15:3-7	#	169:1.15/#	Parábola de la oveja perdida	S	#
+Luke	15:3-10	#	159:5.13/#	Dios busca a los pecadores	S	#
+Luke	15:7,10	#	167:7.5/#	La alegría seráfica	S	#
+Luke	15:7,10	#	169:1.4/#	Los ángeles se regocijan con un salvado	S	#
+Luke	15:8-9	#	169:1.4/#	La moneda perdida	S	#
+Luke	15:8-10	#	169:1.15/#	Parábola de la moneda perdida	S	#
+Luke	15:11-12	#	169:1.6/#	El padre que dividió la herencia entre los hijos	S	#
+Luke	15:11-32	#	169:1.15/#	Parábola del hijo perdido	S	#
+Luke	15:11-32	#	54:4.2/#	El hijo pródigo	C	#
+Luke	15:11-32	#	159:5.13/#	Se regocija con su regreso	S	#
+Luke	15:13-16	#	169:1.7/#	El hijo malgastó todo en una vida disipada	S	#
+Luke	15:17-20a	#	169:1.8/#	El hijo decide regresar	S	#
+Luke	15:20b-22	#	169:1.9/#	La bienvenida del Padre	S	#
+Luke	15:23-24	#	169:1.10/#	La celebración	S	#
+Luke	15:25-27	#	169:1.11/#	El hermano mayor escucha el alboroto	S	#
+Luke	15:28-30	#	169:1.12/#	Las objecciones del hermano	S	#
+Luke	15:31-32	#	169:1.13/#	El regocijo del Padre	S	#
+Luke	16:1-2	#	169:2.3/#	Parábola del mayordomo astuto	S	#
+Luke	16:3-8a	#	169:2.4/#	Cuidarse de uno mismo	S	#
+Luke	16:8	#	181:1.2/#	Hijos de la luz	C	#
+Luke	16:8	#	120:2.2/#	«Hijos de la luz»	C	#
+Luke	16:8	#	147:7.2/#	Hijos de la luz	C	#
+Luke	16:8	#	193:0.3/#	Hijos de la luz	C	#
+Luke	16:8	#	178:3.4/#	Los hijos de la luz	S	#
+Luke	16:8	#	191:4.3/#	Hijos de la luz	C	#
+Luke	16:8	#	180:4.5/#	Hijos de la luz	S	#
+Luke	16:8-9	#	169:2.1/#	La pregunta de Simón Celotes	S	#
+Luke	16:8b-9	#	169:2.5/#	Haced espiritualmente lo que los hijos de este mundo hacen con las riquezas	S	#
+Luke	16:10	#	169:2.6/#	Fieles en lo pequeño, también en lo grande	S	#
+Luke	16:10-12	#	169:2.6/#	Ser unos buenos administradores	S	#
+Luke	16:13	#	169:2.7/#	Nadie puede servir a dos maestros	S	#
+Luke	16:13	#	109:5.4/#	No se puede servir a dos señores	C	#
+Luke	16:13	#	140:6.13/#	Ningún hombre puede servir a dos señores	S	#
+Luke	16:14	#	169:2.8/#	Los fariseos se burlan	S	#
+Luke	16:15	#	166:1.4/#	Dios mira los móviles	S	#
+Luke	16:15	#	140:3.19/#	Dios juzga el corazón	S	#
+Luke	16:16	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	16:16	#	153:2.4/#	Reino de Dios	C	#
+Luke	16:16	#	34:6.13/#	El reino de Dios	C	#
+Luke	16:16	#	143:1.5/#	El evangelio del reino	C	#
+Luke	16:16	#	193:0.4/#	Evangelio del reino	C	#
+Luke	16:16	#	169:4.6/#	El reino de Dios	S	#
+Luke	16:16	#	190:5.4/#	El evangelio del reino	S	#
+Luke	16:17-26	#	86:4.8/#	Sheol	C	#
+Luke	16:18	#	140:6.6/#	Respecto al divorcio	C	#
+Luke	16:19-21	#	169:3.2/#	Parábola del hombre rico y el mendigo	S	#
+Luke	16:22-31	#	169:3.2/#	La genete no creerá	S	#
+Luke	16:26	#	2:5.6/#	Un gran espacio entre Dios y nosotros	C	#
+Luke	17:2	#	158:8.1/#	Atarse una piedra de molino al cuello	S	#
+Luke	17:3-4	#	146:2.4/#	El perdón	C	#
+Luke	17:3-4	#	40:8.2/#	Setenta veces siete	R	#
+Luke	17:3-4	#	188:4.13/#	Perdona nuestras deudas, como nosotros perdonamos a nuestros deudores	R	#
+Luke	17:3-4	#	170:3.4/#	Somos perdonados en tanto perdonamos	S	#
+Luke	17:3-4	#	159:1.4/#	Perdonar setenta veces más siete	C	#
+Luke	17:4	#	139:2.5/#	Ternura, misericordia	S	#
+Luke	17:5-6	#	156:5.12/#	Una fe implícita	C	#
+Luke	17:6	#	195:9.8/#	La fe expectante	C	#
+Luke	17:6	#	138:8.8/#	La fe es la puerta abierta	C	#
+Luke	17:11-13	#	166:2.1/#	Diez leprosos curados	S	#
+Luke	17:14-16	#	166:2.4/#	El samaritano da gracias	S	#
+Luke	17:17-19	#	166:2.5/#	¿Dónde están los otros nueve?	S	#
+Luke	17:20-21	#	143:1.5/#	El evangelio del reino	C	#
+Luke	17:20-21	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	17:20-21	#	137:6.5/#	El reino no llegará con estruendo, sino en los corazones	C	#
+Luke	17:20-21	#	193:0.4/#	Evangelio del reino	C	#
+Luke	17:20-21	#	34:6.13/#	El reino de Dios	C	#
+Luke	17:20-21	#	190:5.4/#	El evangelio del reino	S	#
+Luke	17:20-21	#	141:2.1/#	El espíritu de Dios dentro de nosotros	C	#
+Luke	17:20-21	#	142:1.1/#	El reino del Cielo está a las puertas	C	#
+Luke	17:20-21	#	140:1.6/#	El reino está cerca	C	#
+Luke	17:20-21	#	153:2.4/#	Reino de Dios	C	#
+Luke	17:20-21	#	169:4.6/#	El reino de Dios	S	#
+Luke	17:20-21	#	158:6.2/#	Mi reino no es de este mundo	S	#
+Luke	17:20-21	#	157:6.12/#	Mi reino no es de este mundo	C	#
+Luke	17:21	#	34:6.7/#	Sois el templo de Dios, y os habita el espíritu	C	#
+Luke	17:21	#	103:1.6/#	El espíritu en el hombre (Ajustador del Pensamiento)	C	#
+Luke	17:21	#	170:1.8/#	El reino dentro de ti	S	#
+Luke	17:21	#	140:1.5/#	El reino es Dios dentro de vosotros	S	#
+Luke	17:21	#	195:10.4/#	El reino de Dios está dentro de vosotros	S	#
+Luke	17:21	#	34:6.7/#	Sois el templo de Dios, y os habita el espíritu	C	#
+Luke	17:21	#	12:7.12/#	Dios vive en nosotros	C	#
+Luke	17:21	#	170:3.11/#	Nueva visión: el reino es interior	S	#
+Luke	17:21	#	2:5.6/#	Su espíritu vive en nosotros	C	#
+Luke	17:21	#	141:2.1/#	El reino de Dios ya está aquí	C	#
+Luke	17:21	#	170:5.8/#	El reino en los corazones se extenderá	S	#
+Luke	17:21	#	3:1.4/#	Vive en nosotros	R	#
+Luke	17:21	#	108:6.2/#	Reino de los cielos dentro de vosotros	R	#
+Luke	17:21	#	110:1.5/#	El cuerpo es el tabernáculo	C	#
+Luke	17:21	#	107:4.7/#	El Ajustador, espíritu interior	C	#
+Luke	17:21	#	133:4.5/#	El espíritu de Dios vive en nosotros	C	#
+Luke	17:21	#	5:2.3/#	El espíritu viviendo dentro	C	#
+Luke	17:21	#	16:9.4/#	El espíritu de Dios vive en nosotros	C	#
+Luke	17:21	#	131:10.2/#	El espíritu de Dios habita en nuestra alma	C	#
+Luke	17:21	#	3:1.4/#	Vive en nosotros	R	#
+Luke	17:21	#	143:2.4/#	Seréis los templos de Dios	C	#
+Luke	17:21	#	131:10.4/#	El espíritu de Dios está en el corazón del hombre	C	#
+Luke	17:21	#	134:4.7/#	El espíritu interior	C	#
+Luke	17:21	#	133:4.4/#	Dios habita en tu alma	C	#
+Luke	17:21	#	148:6.10/#	Dios habita dentro de ti	C	#
+Luke	17:21	#	170:1.8/#	El reino dentro de ti	S	#
+Luke	17:21	#	167:7.4/#	El espíritu de Dios vive en vosotros	S	#
+Luke	17:21	#	1:4.2/#	El cuerpo es el templo de Dios	C	#
+Luke	17:21	#	171:0.3/#	El reino dentro de vosotros	R	#
+Luke	17:21	#	118:10.17/#	El reino de Dios está en el corazón	C	#
+Luke	17:21	#	170:2.20/#	El Reino de Dios dentro de nosotros	C	#
+Luke	17:21	#	146:3.5/#	Espíritu viviente del Padre	C	#
+Luke	17:23	#	137:8.9/#	No os dejéis engañar	S	#
+Luke	17:33	#	103:5.6/#	Quien salve la vida la perderá	R	#
+Luke	17:33	#	158:7.5/#	El que salve su vida egoístamente, la perderá	S	#
+Luke	17:33	#	140:5.19/#	Quien quiera salvar su vida, la perderá	R	#
+Luke	17:33	#	160:5.10/#	Quien quiera salvar su vida la perderá	S	#
+Luke	18:1-5	#	144:2.5/#	Parábola del juez altivo	S	#
+Luke	18:6-8	#	144:2.5/#	La perseverancia da frutos	S	#
+Luke	18:9-14	#	167:5.1/#	Parábola de los dos orantes	S	#
+Luke	18:10-14	#	140:5.7/#	La oración del publicano	S	#
+Luke	18:14	#	158:8.1/#	El que se humille a sí mismo	S	#
+Luke	18:14	#	167:1.5/#	El exaltado será humillado y el humillado exaltado	S	#
+Luke	18:14	#	175:1.10/#	Los humillados serán exaltados	S	#
+Luke	18:14	#	167:5.1/#	Quien se humilla será ensalzado	S	#
+Luke	18:15	#	167:6.1/#	Las madres llevan a su hijos	S	#
+Luke	18:15-17	#	149:6.11/#	Fe como la de un niño	C	#
+Luke	18:15-17	#	196:0.12/#	Ser como un niño	R	#
+Luke	18:15-17	#	196:0.11/#	Fe confiada y sin sospecha como la de un niño	C	#
+Luke	18:15-17	#	170:2.18/#	Fe como un niño pequeño	S	#
+Luke	18:16-17	#	140:6.2/#	Comenzar como niños pequeños	C	#
+Luke	18:16-17	#	195:3.5/#	La enseñanza relativa a los niños	C	#
+Luke	18:16-17	#	167:6.1/#	Jesús atiende a los niños	S	#
+Luke	18:16-17	#	144:4.3/#	La filiación se recibe al igual que un niño	C	#
+Luke	18:16-17	#	155:6.12/#	Fe como la de un niño, la simplicidad espiritual	S	#
+Luke	18:16-17	#	158:8.1/#	Entrar como un niño	S	#
+Luke	18:16-17	#	193:2.2/#	Entrar en el reino como un niño	S	#
+Luke	18:16-17	#	170:3.2/#	La fe simple de un niño	S	#
+Luke	18:16-17	#	140:10.4/#	Volverse como un niño	S	#
+Luke	18:16-17,24-25	#	143:1.5/#	El evangelio del reino	C	#
+Luke	18:16-17,24-25	#	153:2.4/#	Reino de Dios	C	#
+Luke	18:16-17,24-25	#	193:0.4/#	Evangelio del reino	C	#
+Luke	18:16-17,24-25	#	169:4.6/#	El reino de Dios	S	#
+Luke	18:16-17,24-25	#	190:5.4/#	El evangelio del reino	S	#
+Luke	18:16-17,24-25	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	18:16-17,24-25	#	34:6.13/#	El reino de Dios	R	#
+Luke	18:17	#	102:1.1/#	Tener la confianza de un niño	C	#
+Luke	18:17	#	137:8.8/#	La fe confiada de un niño	S	#
+Luke	18:17	#	181:2.20/#	Ser un niño en el espíritu	S	#
+Luke	18:18,20-21	#	163:2.4/#	Joven rico sanedrita	S	#
+Luke	18:18,30	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
+Luke	18:18,30	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
+Luke	18:18,30	#	170:2.2/#	La esperanza de la vida eterna	S	#
+Luke	18:18,30	#	162:2.7/#	Vida eterna	C	#
+Luke	18:18,30	#	162:7.5/#	Los creyentes nunca morirán	C	#
+Luke	18:18,30	#	181:2.11/#	La vida eterna en el reino venidero	C	#
+Luke	18:18,30	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
+Luke	18:18,30	#	121:5.11/#	Vida después de la muerte	C	#
+Luke	18:18,30	#	128:1.10/#	Dador de la vida eterna	C	#
+Luke	18:18,30	#	146:3.7/#	La vida eterna	C	#
+Luke	18:18,30	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
+Luke	18:18,30	#	101:6.8/#	Vida eterna	C	#
+Luke	18:18,30	#	170:2.20/#	Vida eterna / sin fin	C	#
+Luke	18:18,30	#	27:1.5/#	Vida eterna	C	#
+Luke	18:18,30	#	3:0.1/#	Vida eterna	C	#
+Luke	18:18,30	#	2:2.1/#	Vida eterna	C	#
+Luke	18:18,30	#	153:2.11/#	Los que creen tienen vida eterna	C	#
+Luke	18:18-19	#	196:0.9/#	¿Por qué me llamas bueno?	R	#
+Luke	18:18-19	#	196:2.2/#	¿Por qué me llamáis bueno?	R	#
+Luke	18:18-23	#	149:2.12/#	Tres hombres rehusaron la llamada	S	#
+Luke	18:19	#	143:2.7/#	La bondad de Dios	C	#
+Luke	18:20	#	162:2.1/#	No matarás	R	#
+Luke	18:22	#	196:0.13/#	La exigencia suprema: «Sígueme»	S	#
+Luke	18:22	#	163:2.5/#	Un impedimento: el amor a las riquezas	S	#
+Luke	18:22-23	#	139:10.9/#	Jesús rechazó a un hombre rico	S	#
+Luke	18:22-23	#	171:2.4/#	Compromiso total	S	#
+Luke	18:23	#	163:2.6/#	La elección (la riqueza)	S	#
+Luke	18:23-25	#	196:2.8/#	Jesús condenaba a los ricos	C	#
+Luke	18:24-25	#	165:4.5/#	Los peligros de las riquezas	S	#
+Luke	18:24-25	#	163:3.1/#	Un camello por el ojo de la aguja	S	#
+Luke	18:25	#	163:2.10/#	El amor a la riqueza	S	#
+Luke	18:27	#	26:5.3/#	Con Dios nada es imposible	R	#
+Luke	18:27	#	2:1.2/#	Todas las cosas son posibles	R	#
+Luke	18:27	#	163:3.2/#	Con Dios, nada es imposible	S	#
+Luke	18:27	#	158:5.2/#	Todas las cosas son posibles para el que cree	C	#
+Luke	18:27	#	131:10.2/#	Con Dios, todas las cosas son posibles	C	#
+Luke	18:27	#	3:2.2/#	Con Él todo es posible	R	#
+Luke	18:28-30	#	163:3.4/#	Recompensa por el servicio	S	#
+Luke	18:31-33	#	181:1.5/#	Moriré pero resucitaré	C	#
+Luke	18:31-33	#	180:6.7/#	Debo morir pero resucitaré	S	#
+Luke	18:31-33	#	190:5.4/#	Predicción de la muerte y resurrección	S	#
+Luke	18:31-33	#	193:0.2/#	Predicción de la muerte y resurrección	S	#
+Luke	18:31-33	#	158:6.5/#	Anticipación de la pasión	S	#
+Luke	18:31-33	#	171:4.2/#	Advertencia sobre la crucifixión y la resurrección	S	#
+Luke	18:31-33	#	158:7.3/#	Los apóstoles oyen otra vez de la pasión	S	#
+Luke	18:33	#	186:3.4/#	Resucitar al tercer día	C	#
+Luke	18:33	#	181:2.30/#	Promesa: resucitaré al tercer día	C	#
+Luke	18:33	#	171:4.8/#	Resucitar al tercer día	S	#
+Luke	18:34	#	171:4.3/#	Los apóstoles no lo entienden	S	#
+Luke	18:35	#	171:5.1/#	Hombre ciego de nacimiento	S	#
+Luke	18:36-39	#	171:5.2/#	El hombre ciego es reprendido	S	#
+Luke	18:40-43	#	171:5.3/#	La vista restaurada por la fe	S	#
+Luke	18:40-43	#	175:1.1/#	Curados por la fe	C	#
+Luke	19:1-4	#	171:6.1/#	Zaqueo sobre un árbol	S	#
+Luke	19:2-6	#	121:8.8/#	Amigo de publicanos y pecadores	R	#
+Luke	19:5-6	#	171:6.1/#	Jesús se autoinvita en casa de Zaqueo	S	#
+Luke	19:7-8	#	171:6.2/#	La conversión de Zaqueo	S	#
+Luke	19:9-10	#	171:6.3/#	Jesús ha venido a salvar lo perdido	S	#
+Luke	19:10	#	159:5.13/#	Dios busca a los pecadores	S	#
+Luke	19:10	#	131:10.4/#	Dios ama incluso a los perversos	C	#
+Luke	19:10	#	157:6.9/#	Jesús vino para buscar y salvar a los perdidos	S	#
+Luke	19:10	#	169:1.3/#	Jesús ha venido a buscar y salvar	S	#
+Luke	19:10	#	190:5.4/#	Buscará y salvará a los que están perdidos	S	#
+Luke	19:11	#	143:1.5/#	El evangelio del reino	C	#
+Luke	19:11	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	19:11	#	193:0.4/#	Evangelio del reino	C	#
+Luke	19:11	#	34:6.13/#	El reino de Dios	C	#
+Luke	19:11	#	153:2.4/#	Reino de Dios	C	#
+Luke	19:11	#	169:4.6/#	El reino de Dios	S	#
+Luke	19:11	#	190:5.4/#	El evangelio del reino	S	#
+Luke	19:11-12,14	#	171:8.3/#	Parábola de las minas	S	#
+Luke	19:12-21	#	28:6.9/#	El tiempo es un «talento» de todos	R	#
+Luke	19:13	#	171:8.4/#	Parábola de las minas, cont.	S	#
+Luke	19:15a	#	171:8.5/#	Parábola de las minas, cont.	S	#
+Luke	19:15b-23	#	171:8.6/#	Parábola de las minas, cont.	S	#
+Luke	19:16-19,26	#	169:2.6/#	Fieles en lo pequeño, también en lo grande	S	#
+Luke	19:17	#	25:1.6/#	Bien hecho, buen y fiel servidor	R	#
+Luke	19:24	#	163:2.10/#	El amor a la riqueza	S	#
+Luke	19:24-26	#	171:8.7/#	Parábola de las minas, concluded	S	#
+Luke	19:26	#	151:1.4/#	Al que tiene más se le da más, y al que menos se le quita	S	#
+Luke	19:26	#	109:4.5/#	A quien tiene se le dará, pero al que no tiene	C	#
+Luke	19:26	#	151:3.1/#	Al que tiene se le dará más	C	#
+Luke	19:26	#	176:3.5/#	Al que tiene se le dará; al que no se le quitará	S	#
+Luke	19:28	#	171:8.15/#	Resumen del viaje	S	#
+Luke	19:29-31	#	172:3.6/#	Los apóstoles son enviados a por el asno	S	#
+Luke	19:32-35a	#	172:3.6/#	Los apóstoles se hacen con el asno	S	#
+Luke	19:35b-38	#	172:3.9/#	Entrada triunfal en Jerusalén	S	#
+Luke	19:36-38	#	127:5.6/#	Entrada triunfal	S	#
+Luke	19:39-40	#	172:3.13/#	Jesús defiende a sus acompañantes	S	#
+Luke	19:41	#	140:5.16/#	La ternura es varonil	C	#
+Luke	19:41-44	#	172:3.10/#	Lamento de Jesús por Jerusalén	S	#
+Luke	19:43-44	#	128:5.3/#	El templo será demolido	C	#
+Luke	19:45-46	#	125:1.1/#	La casa de su Padre	R	#
+Luke	19:45-46	#	175:4.6/#	La limpieza del templo	S	#
+Luke	19:45-46	#	173:1.7/#	Jesús limpia el templo	S	#
+Luke	19:45a	#	173:0.3/#	Llegada al templo	S	#
+Luke	19:45b	#	173:1.1/#	Venta de animales sin defectos	S	#
+Luke	19:45b	#	173:1.3/#	Los cambistas	S	#
+Luke	19:47b-48	#	173:1.9/#	Los principales furiosos y decididos a dar muerte a Jesús	S	#
+Luke	20:1-2	#	173:2.2/#	«¿Con qué autoridad haces estas cosas?»	S	#
+Luke	20:3-4	#	173:2.4/#	Jesús pregunta a su vez	S	#
+Luke	20:5-8	#	173:2.5/#	Sin respuesta	S	#
+Luke	20:9-16a	#	173:4.2/#	Parábola del propietario ausente (parte 1)	S	#
+Luke	20:16b	#	173:4.3/#	Parábola del propietario ausente (parte 3)	S	#
+Luke	20:17-18	#	173:4.4/#	Parábola de la piedra angular	S	#
+Luke	20:20	#	174:2.1/#	Los líderes religiosos planean desacreditarle	S	#
+Luke	20:21	#	174:2.2/#	Jesús no hace acepción de personas	S	#
+Luke	20:21	#	181:2.14/#	El Padre y el Hijo no hacen acepción de personas	C	#
+Luke	20:21	#	139:10.9/#	Jesús no hacía acepción de personas	R	#
+Luke	20:21-25	#	174:2.2/#	Jesús interrogado por estudiantes	S	#
+Luke	20:22-25	#	174:2.2/#	Dad al César lo del César y a Dios lo de Dios	S	#
+Luke	20:25	#	140:8.9/#	Dad al César lo que es del César y a Dios lo que es de Dios	R	#
+Luke	20:25	#	181:2.10/#	Al César lo del César y a Dios lo de Dios	S	#
+Luke	20:25	#	178:1.3/#	Dar al César y a Dios lo suyo	S	#
+Luke	20:25	#	156:5.16/#	Dad al César lo que es del César	S	#
+Luke	20:25	#	185:3.1/#	La postura de Jesús sobre el tributo	S	#
+Luke	20:25	#	101:7.5/#	Separar las cosas del César de las de Dios	C	#
+Luke	20:26	#	174:2.3/#	Los desafiantes se retiran	S	#
+Luke	20:27-33	#	174:3.1/#	Pregunta sobre la resurrección	S	#
+Luke	20:28	#	83:5.4/#	Matrimonio del levirato	C	#
+Luke	20:28	#	82:5.5/#	Matrimonio del levirato	C	#
+Luke	20:34-38	#	174:3.2/#	Respuesta de Jesús	S	#
+Luke	20:35-36	#	47:3.3/#	Cambios de la resurrección	C	#
+Luke	20:35-36	#	38:2.2/#	Ángeles en los mundos mansiones	R	#
+Luke	20:35-38	#	121:5.11/#	Supervivencia a la muerte	C	#
+Luke	20:36	#	181:2.12/#	Los creyentes, hijos de Dios	S	#
+Luke	20:36	#	131:10.8/#	La relación de padre e hijo	C	#
+Luke	20:36	#	153:2.4/#	Fraternidad de los hijos de Dios	C	#
+Luke	20:36	#	131:10.2/#	Somos los hijos de Dios	C	#
+Luke	20:36	#	141:4.2/#	Somos los hijos de Dios	C	#
+Luke	20:36	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
+Luke	20:36	#	170:2.20/#	Hijos de Dios	S	#
+Luke	20:36	#	181:2.14/#	Los creyentes son hijos de Dios	C	#
+Luke	20:36	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
+Luke	20:36	#	196:0.2/#	Cada criatura mortal es un hijo de Dios	C	#
+Luke	20:36	#	170:2.8/#	Los hijos salvados de Dios	S	#
+Luke	20:36	#	149:2.10/#	Hijos del Dios viviente	C	#
+Luke	20:36	#	43:9.2/#	Sois como los ángeles	R	#
+Luke	20:36	#	40:6.1/#	Hijos de Dios por la fe	C	#
+Luke	20:36	#	149:6.8/#	Nosotros somos sus hijos	C	#
+Luke	20:36	#	34:6.10/#	Hijos de Dios	C	#
+Luke	20:36	#	170:2.20/#	Hijos de Dios liberados	C	#
+Luke	20:36	#	8:6.4/#	Hijos de Dios	C	#
+Luke	20:36	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
+Luke	20:36	#	140:3.16/#	Hijos del Dios viviente	C	#
+Luke	20:36	#	2:5.4/#	Somos hijos de Dios	C	#
+Luke	20:36	#	131:10.6/#	Relación entre padre e hijo	C	#
+Luke	20:36	#	143:2.7/#	Los hijos liberados de Dios	C	#
+Luke	20:36	#	5:4.8/#	Somos hijos de Dios	C	#
+Luke	20:36	#	142:5.2/#	Hijos de Dios	C	#
+Luke	20:36	#	190:3.1/#	El evangelio de la filiación	C	#
+Luke	20:36	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
+Luke	20:36	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
+Luke	20:36	#	140:1.6/#	Hijos del Dios viviente	C	#
+Luke	20:36	#	1:3.1/#	Progenie de Dios	C	#
+Luke	20:36	#	141:2.2/#	Hijos de Dios por la fe	C	#
+Luke	20:36	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
+Luke	20:36	#	193:1.2/#	Todos los hombres son hijos de Dios	C	#
+Luke	20:38	#	195:10.4/#	El Padre es un espíritu vivo	C	#
+Luke	20:39-40	#	174:3.3/#	Los enemigos silenciados	S	#
+Luke	20:41-44	#	122:4.4/#	Jesús no era del linaje de David	C	#
+Luke	20:41-44	#	174:4.6/#	Jesús el «Señor» de David	S	#
+Luke	20:42	#	21:4.4/#	La derecha del Padre	R	#
+Luke	20:42	#	38:0.1/#	Derecha de Dios	C	#
+Luke	20:42	#	5:2.2/#	A la derecha del Padre	R	#
+Luke	20:42	#	13:2.7/#	Diestra del Padre	C	#
+Luke	20:46-47a	#	175:1.9/#	Los líderes anhelan honores	S	#
+Luke	21:1-4	#	172:4.2/#	Los ébolos de la viuda	S	#
+Luke	21:5-6	#	178:3.3/#	Predicción de la destrucción del templo	S	#
+Luke	21:5-6	#	176:0.1/#	Predicción de la destrucción del templo	S	#
+Luke	21:5-6	#	128:5.3/#	El templo será demolido	C	#
+Luke	21:7	#	176:0.2/#	Jesús y los apóstoles conversan	S	#
+Luke	21:7-27	#	20:4.5/#	Promesa de regresar	C	#
+Luke	21:8	#	137:8.9/#	No os dejéis engañar	S	#
+Luke	21:8-17	#	176:1.1/#	Destrucción de Jerusalén	S	#
+Luke	21:9-10	#	52:6.1/#	Guerras y rumores de guerras	R	#
+Luke	21:9-10	#	134:6.3/#	Guerras y rumores de guerras	C	#
+Luke	21:11,25-27	#	170:2.14/#	Creencia en un final súbito y espectacular	C	#
+Luke	21:12	#	140:9.3/#	Os llevarán ante los consejos	C	#
+Luke	21:12,16-17	#	143:1.6/#	Exigencia de un servicio valiente	C	#
+Luke	21:13-15	#	165:3.7/#	El espíritu os dará respuestas	S	#
+Luke	21:13-15	#	140:9.3/#	Testimonio del espíritu interior	C	#
+Luke	21:16	#	180:6.1/#	Enemigos incluso en la propia familia	S	#
+Luke	21:19	#	173:4.5/#	Los fariseos temían a la multitud	S	#
+Luke	21:19	#	181:2.15/#	Domina tu alma con paciencia	S	#
+Luke	21:20-21	#	176:1.4/#	¡Salvad vuestras vidas!	S	#
+Luke	21:20-24	#	178:3.3/#	Los apóstoles advertidos para huir	S	#
+Luke	21:20-36	#	176:2.8/#	Confusión sobre las advertencias	S	#
+Luke	21:20-36	#	176:2.8/#	Confusión sobre las advertencias	C	#
+Luke	21:21-27	#	140:1.5/#	No con una demostración indecorosa	C	#
+Luke	21:22-24	#	176:1.4/#	Gran tribulación	S	#
+Luke	21:25-28	#	170:4.6/#	El fin de los tiempos	C	#
+Luke	21:27	#	176:3.3/#	Regreso del Hijo del Hombre	S	#
+Luke	21:27	#	52:5.7/#	Cubierto de gloria con los ángeles	R	#
+Luke	21:27	#	170:2.10/#	La creencia en un reino inminente	S	#
+Luke	21:27	#	141:4.5/#	El reino vendrá en poder y gloria	C	#
+Luke	21:27	#	196:2.5/#	Creencia en el retorno inmediato del Señor	C	#
+Luke	21:27	#	176:2.4/#	Segunda venida con poder	S	#
+Luke	21:29-31	#	176:2.6/#	Ser sabios en la maduración de una era	S	#
+Luke	21:29-32	#	153:2.4/#	Reino de Dios	C	#
+Luke	21:29-32	#	141:2.1/#	El reino de Dios ya está aquí	C	#
+Luke	21:31	#	140:1.6/#	El reino está cerca	C	#
+Luke	21:31	#	163:1.4/#	El reino de Dios/los cielos está cerca	S	#
+Luke	21:31	#	143:1.5/#	El evangelio del reino	C	#
+Luke	21:31	#	169:4.6/#	El reino de Dios	S	#
+Luke	21:31	#	193:0.4/#	Evangelio del reino	C	#
+Luke	21:31	#	190:5.4/#	El evangelio del reino	S	#
+Luke	21:31	#	137:8.15/#	El reino está cerca	S	#
+Luke	21:31	#	170:5.19/#	El reino de Dios está cerca	R	#
+Luke	21:31	#	142:1.1/#	El Reino de Dios está a las puertas	C	#
+Luke	21:31	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	21:31	#	34:6.13/#	El reino de Dios	C	#
+Luke	21:32	#	176:2.6/#	Las tribulaciones de Jerusalén	S	#
+Luke	21:33	#	176:1.6/#	Todas las cosas se desvanecerán	S	#
+Luke	21:33	#	156:2.5/#	Las palabras de la verdad no desaparecerán	R	#
+Luke	21:37b	#	173:5.5/#	Jesús regresa a Betania por la noche	S	#
+Luke	22:2	#	177:4.1/#	Reunión del Sanedrín en la casa de Caifás	S	#
+Luke	22:2b	#	177:4.6/#	Temor a las multitudes	S	#
+Luke	22:3-5,47-48	#	139:12.12/#	La traición de Judas	C	#
+Luke	22:3-6	#	172:1.7/#	Judas se decide a la traición	S	#
+Luke	22:4-6	#	177:4.8/#	«Recompensa» por la traición a Jesús	S	#
+Luke	22:4a	#	177:4.1/#	Judas va a la casa de Caifás	S	#
+Luke	22:8-9	#	178:2.5/#	¿Dónde comeremos la Pascua?	S	#
+Luke	22:10-12	#	178:2.7/#	Seguiréis a un hombre con una cántara	S	#
+Luke	22:13	#	178:2.8/#	La habitación de arriba	S	#
+Luke	22:14	#	179:1.7/#	Jesús entra y se sienta	S	#
+Luke	22:15-16	#	179:2.1/#	Jesús les habla sobre el fin	S	#
+Luke	22:16,18	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	22:16,18	#	193:0.4/#	Evangelio del reino	C	#
+Luke	22:16,18	#	153:2.4/#	Reino de Dios	C	#
+Luke	22:16,18	#	169:4.6/#	El reino de Dios	S	#
+Luke	22:16,18	#	143:1.5/#	El evangelio del reino	C	#
+Luke	22:16-18	#	34:6.13/#	El reino de Dios	C	#
+Luke	22:16-18	#	190:5.4/#	El evangelio del reino	S	#
+Luke	22:17-18	#	179:2.2/#	La primera copa	S	#
+Luke	22:19	#	179:5.3/#	El pan de la vida	S	#
+Luke	22:19c	#	179:5.7/#	Recuerdos de la vida de Jesús	S	#
+Luke	22:19c	#	179:5.9/#	La cena del recuerdo	S	#
+Luke	22:20	#	179:5.1/#	La copa de la bendición	S	#
+Luke	22:20	#	179:2.2/#	La segunda copa	S	#
+Luke	22:21-22	#	179:4.2/#	No era necesario un traidor	S	#
+Luke	22:23	#	179:4.2/#	«¿Soy yo?»	S	#
+Luke	22:24	#	179:1.4/#	Los apóstoles se disputan los asientos	S	#
+Luke	22:24	#	179:3.9/#	Jesus sabía de la disputa sobre los honores	S	#
+Luke	22:25-27	#	179:3.9/#	Importancia del servicio	S	#
+Luke	22:26	#	56:10.14/#	Quien quiera ser el más grande, que sea el servidor	R	#
+Luke	22:26	#	140:1.6/#	Ser grande por el ministerio	S	#
+Luke	22:26	#	41:10.5/#	Quién será el más grande	C	#
+Luke	22:26	#	137:8.11/#	El grande es el servidor de todos	S	#
+Luke	22:26	#	28:6.18/#	El más grande sea el más servicial	R	#
+Luke	22:26	#	170:3.8/#	Un servicio amoroso	S	#
+Luke	22:26	#	175:1.10/#	Quién es más grande: el servidor	S	#
+Luke	22:26	#	158:8.1/#	Quién es el más grande	S	#
+Luke	22:26	#	158:6.3/#	El más grande debe ser el más servicial	C	#
+Luke	22:26-27	#	158:8.1/#	Para ser el primero, ayudad a los demás	S	#
+Luke	22:27a	#	179:3.8/#	Discurso del maestro y el servidor	S	#
+Luke	22:28	#	119:5.2/#	Ha sido probado y comprobado en todos los aspectos	R	#
+Luke	22:28	#	119:4.4/#	Ha sido probado y comprobado en todos los aspectos	R	#
+Luke	22:28	#	119:3.7/#	Ha sido probado y comprobado en todos los aspectos	R	#
+Luke	22:28-30	#	179:3.9/#	Recompensa por el servicio	S	#
+Luke	22:31	#	183:0.4/#	El deseo de Satanás	C	#
+Luke	22:31-32	#	191:1.2/#	Lo que Jesús le dijo a Pedro	S	#
+Luke	22:32	#	156:5.12/#	Una fe implícita	C	#
+Luke	22:32a	#	181:2.30/#	Suplicaré que os fortalezca	S	#
+Luke	22:32b	#	181:2.29/#	Fortalecer a tus hermanos	S	#
+Luke	22:33	#	181:2.28/#	La presunción de Pedro	S	#
+Luke	22:34	#	181:2.29/#	Predicción de la negación de Pedro	S	#
+Luke	22:34	#	184:2.8/#	Las palabras de advertencia	S	#
+Luke	22:35-36	#	180:0.2/#	Haced preparativos para el trabajo	S	#
+Luke	22:41-42	#	182:3.1/#	La primera oración de Getsemaní	S	#
+Luke	22:42	#	170:2.20/#	Jesús enseñó «la voluntad del Padre»	C	#
+Luke	22:42	#	136:8.3/#	Jesús decide vivir la voluntad del Padre	C	#
+Luke	22:42	#	120:2.1/#	Jesús vive sometido a la voluntad del Padre	C	#
+Luke	22:42	#	131:10.2/#	Viviendo su voluntad podemos revelarlo	C	#
+Luke	22:42	#	183:1.1/#	Jesús hizo la voluntad del Padre	C	#
+Luke	22:42	#	136:4.4/#	Que no se haga mi voluntad sino la tuya	R	#
+Luke	22:42	#	120:2.8/#	Jesús dedicado a vivir la voluntad del Padre	C	#
+Luke	22:42	#	160:1.11/#	«Que no se haga mi voluntad, sino la tuya»	R	#
+Luke	22:42	#	196:0.14/#	Jesús hizo la voluntad del Padre	C	#
+Luke	22:42	#	120:0.4/#	Revelar la voluntad del Padre Universal	C	#
+Luke	22:42	#	20:6.7/#	Beber la copa	R	#
+Luke	22:42	#	119:8.4/#	Jesús vivió la voluntad del Padre	C	#
+Luke	22:42	#	196:0.10/#	Jesús hizo la voluntad del Padre	C	#
+Luke	22:42	#	109:6.5/#	Que no se haga mi voluntad, sino la tuya	R	#
+Luke	22:42	#	140:5.11/#	Hágase tu voluntad	C	#
+Luke	22:42	#	136:9.4/#	Beber el cáliz amargo	C	#
+Luke	22:42	#	1:2.3/#	Deseo de hacer la voluntad del Padre	C	#
+Luke	22:42	#	128:7.2/#	Sometido a la voluntad de mi Padre	R	#
+Luke	22:42	#	118:8.11/#	Es mi voluntad que se haga tu voluntad	R	#
+Luke	22:42	#	117:0.1/#	Hacer la voluntad de Dios	C	#
+Luke	22:42	#	143:1.4/#	Jesús vino a hacer la voluntad de Dios	R	#
+Luke	22:42	#	141:7.11/#	Jesús vivió la voluntad del Padre	C	#
+Luke	22:42	#	136:10.1/#	Someterse a la voluntad del Padre	R	#
+Luke	22:42	#	180:3.9/#	He hecho la vountad del Padre	C	#
+Luke	22:42	#	111:5.6/#	Que no se haga mi voluntad sino la de Dios	C	#
+Luke	22:42	#	120:4.1/#	Vivir sometido a la voluntad del Padre	R	#
+Luke	22:43	#	167:7.4/#	Espíritus ministrantes	S	#
+Luke	22:43	#	182:3.2/#	Un ángel poderoso lo confortó	S	#
+Luke	22:43	#	182:3.6/#	Palabras del ángel	S	#
+Luke	22:44	#	182:3.7/#	Agonía de Jesús	S	#
+Luke	22:44-46	#	182:3.4/#	Tercera oración y tercer sueño de los apóstoles	S	#
+Luke	22:45-46	#	182:3.3/#	Los apóstoles duermen	S	#
+Luke	22:47	#	183:3.1/#	Judas se prepara para traicionar a Jesús	S	#
+Luke	22:47b-48	#	183:3.5/#	Jesús traicionado con un beso	S	#
+Luke	22:49-51	#	183:3.7/#	El ataque a Malco	S	#
+Luke	22:52-53	#	183:3.8/#	¿Por qué me capturáis aquí?	S	#
+Luke	22:54	#	183:3.10/#	Pedro los sigue en la distancia	S	#
+Luke	22:54	#	184:1.9/#	Jesús llevado ante Caifás	S	#
+Luke	22:54	#	184:2.1/#	Pedro entra en el patio	S	#
+Luke	22:54	#	139:2.9/#	Siguiendo de lejos	R	#
+Luke	22:55	#	184:2.2/#	Pedro calentándose	S	#
+Luke	22:55-62	#	139:2.6/#	Negación de Pedro	S	#
+Luke	22:55-62	#	139:2.5/#	Negación de Pedro	S	#
+Luke	22:56-57	#	184:2.4/#	Primera negación	S	#
+Luke	22:58	#	184:2.5/#	Segunda negación	S	#
+Luke	22:59-60a	#	184:2.7/#	Tercera negación	S	#
+Luke	22:60b	#	184:2.8/#	El gallo cantó	S	#
+Luke	22:61a	#	184:2.8/#	Jesús mira a Pedro	S	#
+Luke	22:61b	#	184:2.8/#	Pedro recuerda	S	#
+Luke	22:62	#	140:5.16/#	La ternura es varonil	C	#
+Luke	22:62	#	184:2.9/#	Pedro llora amargamente	S	#
+Luke	22:63	#	184:3.15/#	Desorden en el tribunal	S	#
+Luke	22:63-65	#	186:2.10/#	Jesús nunca se irritaba	S	#
+Luke	22:63-65	#	184:4.1/#	Ultrajes contra Jesús	S	#
+Luke	22:66a	#	184:3.1/#	El Sanedrín se reúne	S	#
+Luke	22:66b	#	184:3.5/#	Jesús es llevado dentro	S	#
+Luke	22:67,69-70	#	184:3.11/#	Jesús confiesa, yo soy el Libertador	S	#
+Luke	22:67-68	#	184:5.7/#	Preguntas de los «curiosos»	S	#
+Luke	22:67-68,70	#	184:1.8/#	Conversación con Anás	C	#
+Luke	22:67-70	#	186:2.2/#	Jesús respondió sobre su divinidad	S	#
+Luke	22:71	#	184:3.12/#	La respuesta del sumo sacerdote	S	#
+Luke	23:1	#	184:5.8/#	Jesús conducido ante Pilato	S	#
+Luke	23:2	#	185:2.10/#	Cargos contra Jesús	S	#
+Luke	23:3	#	186:2.2/#	Jesús respondió sobre su divinidad	S	#
+Luke	23:3a	#	185:3.2/#	¿Eres el rey de los judíos?	S	#
+Luke	23:3b	#	185:3.4/#	El reconocimiento del «reino»	S	#
+Luke	23:4	#	185:3.7/#	Pilatos: No encuentro falta en él	S	#
+Luke	23:4,22	#	185:8.2/#	«No he encontrado ninguna culpa en él»	S	#
+Luke	23:5	#	185:3.7/#	Los judíos se encolerizan	S	#
+Luke	23:6	#	185:3.8/#	Los galileos están bajo gobierno de Herodes	S	#
+Luke	23:7	#	185:3.9/#	Pilatos envía a Jesús ante Herodes	S	#
+Luke	23:8	#	185:4.1/#	Los sentimientos de Herodes	S	#
+Luke	23:9	#	186:2.2/#	No respondió ante Herodes	S	#
+Luke	23:9	#	185:4.2/#	Jesús en silencio ante Herodes	S	#
+Luke	23:10-11	#	185:4.3/#	Jesús vestido y devuelto a Pilatos	S	#
+Luke	23:12	#	185:3.8/#	Aceptar la jurisdicción de Herodes	S	#
+Luke	23:13-16	#	185:5.1/#	No encuentro falta en él	R	#
+Luke	23:16	#	185:6.2/#	Jesús azotado	S	#
+Luke	23:17	#	185:5.2/#	La costumbre de liberar a un prisionero	S	#
+Luke	23:18	#	185:5.4/#	«Libera a Barrabás»	S	#
+Luke	23:18-19	#	185:5.3/#	Barrabás era un asesino	S	#
+Luke	23:20-21	#	185:5.9/#	¿Qué hacemos con Jesús? ¡Crucifícalo!	S	#
+Luke	23:22-23	#	185:5.10/#	¿Por qué queréis crucificar a Jesús?	S	#
+Luke	23:23a	#	185:6.5/#	¡Crucifícalo!	S	#
+Luke	23:24-25a	#	185:8.2/#	Liberación de Barrabás	S	#
+Luke	23:25b	#	186:1.1/#	Jesús entregado para ser cricificado	S	#
+Luke	23:26	#	187:1.9/#	Portar la cruz de Jesús	S	#
+Luke	23:26	#	130:6.6/#	Simón el portador de la cruz	C	#
+Luke	23:27	#	187:0.4/#	Los que presenciaron la crucifixión	S	#
+Luke	23:27,49,55	#	149:2.8/#	Las mujeres discípulas	S	#
+Luke	23:27-30	#	187:1.6/#	Hijas, llorad por vosotras	S	#
+Luke	23:32	#	187:0.2/#	Jesús crucificado con dos ladrones	S	#
+Luke	23:32	#	187:2.4/#	Los dos bandidos	S	#
+Luke	23:32	#	186:4.3/#	Los dos bandidos	S	#
+Luke	23:33a	#	187:1.11/#	Lugar de la crucifixión	S	#
+Luke	23:33b	#	187:2.1/#	La crucifixión	S	#
+Luke	23:34	#	188:5.6/#	Padre, perdónalos	S	#
+Luke	23:34a	#	187:2.4/#	Padre, perdónalos	S	#
+Luke	23:34b	#	187:2.8/#	Se reparten sus ropas	S	#
+Luke	23:35-37	#	136:7.4/#	Incluso cuando quienes le veían le provocaron	S	#
+Luke	23:35-37,39	#	187:3.3/#	Burlas y reproches crueles	S	#
+Luke	23:35-37,39	#	194:3.2/#	Las mofas a Jesús en la cruz	S	#
+Luke	23:35a	#	136:6.5/#	Salvó a otros pero no a sí mismo	R	#
+Luke	23:36	#	187:3.5/#	Jesús: «Tengo sed»	S	#
+Luke	23:38	#	187:2.5/#	El letrero: el rey de los judíos	S	#
+Luke	23:38	#	187:1.2/#	El letrero: el rey de los judíos	S	#
+Luke	23:39	#	187:4.1/#	El primer bandido recrimina a Jesús	S	#
+Luke	23:40-42	#	187:4.1/#	El segundo bandido defiende a Jesús	S	#
+Luke	23:43	#	187:4.1/#	La respuesta de salvación de Jesús	S	#
+Luke	23:43	#	0:4.11/#	El Paraíso	C	#
+Luke	23:43	#	19:7.1/#	Paraíso	C	#
+Luke	23:44-45a	#	187:5.1/#	La oscuridad, una tormenta de arena	S	#
+Luke	23:44-45a	#	187:6.1/#	La oscuridad de la tormenta de arena	S	#
+Luke	23:46	#	187:5.5/#	Jesús muere en la cruz	S	#
+Luke	23:46	#	188:3.4/#	En tus manos encomiendo mi espíritu	R	#
+Luke	23:46	#	27:1.4/#	Identidad durante la muerte	C	#
+Luke	23:47	#	187:5.5/#	Un verdadero Hijo de Dios	S	#
+Luke	23:48-49	#	187:3.2/#	Los que permanecieron en la cruz	S	#
+Luke	23:49	#	187:5.4/#	Los que vieron morir a Jesús	S	#
+Luke	23:49	#	150:2.3/#	La fidelidad de las mujeres	S	#
+Luke	23:49	#	127:5.6/#	María y las otras mujeres testigos de la crucifixión	R	#
+Luke	23:50-53a	#	188:0.3/#	Los amigos recuperan el cuerpo	S	#
+Luke	23:51	#	190:5.4/#	El evangelio del reino	S	#
+Luke	23:51	#	193:0.4/#	Evangelio del reino	C	#
+Luke	23:51	#	143:1.5/#	El evangelio del reino	C	#
+Luke	23:51	#	34:6.13/#	El reino de Dios	C	#
+Luke	23:51	#	153:2.4/#	Reino de Dios	C	#
+Luke	23:51	#	169:4.6/#	El reino de Dios	S	#
+Luke	23:51	#	137:8.6/#	Proclamar el establecimiento del reino del Padre	C	#
+Luke	23:53	#	188:1.2/#	Enterrado en una tumba nueva	S	#
+Luke	23:53a,55	#	188:1.3/#	La comitiva hacia el enterramiento	S	#
+Luke	23:54	#	187:5.7/#	Día de la preparación	S	#
+Luke	23:55	#	188:1.7/#	Las mujeres	S	#
+Luke	24:1	#	189:4.3/#	Las mujeres se acercan a la tumba	S	#
+Luke	24:1-10	#	189:4.10/#	Aparición a las mujeres	S	#
+Luke	24:2	#	189:4.6/#	Sorprendidas de que la piedra estuviera rodada	S	#
+Luke	24:3	#	189:2.7/#	La tumba vacía	S	#
+Luke	24:3a	#	189:4.6/#	Entró en el sepulcro	S	#
+Luke	24:3b	#	189:4.6/#	Encuentran la tumba vacía	S	#
+Luke	24:7,36	#	181:2.30/#	Promesa: resucitaré al tercer día	S	#
+Luke	24:7,46	#	171:4.8/#	Resucitar al tercer día	C	#
+Luke	24:7,46	#	171:4.2/#	Advertencia sobre la crucifixión y la resurrección	S	#
+Luke	24:7,46	#	158:6.5/#	Anticipación de la pasión	S	#
+Luke	24:7,46	#	180:6.7/#	Debo morir pero resucitaré	S	#
+Luke	24:7,46	#	181:1.5/#	Moriré pero resucitaré	C	#
+Luke	24:7,46	#	158:7.3/#	Los apóstoles oyen otra vez de la pasión	S	#
+Luke	24:7,46	#	186:3.4/#	Resucitar al tercer día	C	#
+Luke	24:7,46	#	190:5.4/#	Predicción de la muerte y resurrección	S	#
+Luke	24:7,46	#	193:0.2/#	Predicción de la muerte y resurrección	S	#
+Luke	24:9-11	#	189:4.13/#	Las mujeres lo cuentan, pero no las creen	S	#
+Luke	24:10	#	189:4.12/#	Id y decile a los apóstoles	C	#
+Luke	24:10,22,24	#	149:2.8/#	Las mujeres discípulas	S	#
+Luke	24:10-11	#	150:2.3/#	La fidelidad de las mujeres	S	#
+Luke	24:12	#	189:4.13/#	Pedro entra en la tumba	S	#
+Luke	24:12b	#	189:5.2/#	La tumba vacía	S	#
+Luke	24:13-16	#	190:5.2/#	La carretera a Emaús	S	#
+Luke	24:17-24	#	190:5.3/#	Hablaban sobre Jesús	S	#
+Luke	24:19	#	194:4.1/#	Un profeta poderoso en obras	R	#
+Luke	24:25-27	#	190:5.4/#	Los hombres son lentos en comprender la verdad	S	#
+Luke	24:27	#	190:5.4/#	El discurso de Jesús	S	#
+Luke	24:28-31	#	190:5.5/#	Llegada y reconocimiento	S	#
+Luke	24:32	#	190:5.6/#	No extraña que nos ardiera el corazón	S	#
+Luke	24:33	#	190:5.7/#	Regreso a Jerusalén	S	#
+Luke	24:34	#	191:1.1/#	Jesús se aparece a Pedro	S	#
+Luke	24:34-35	#	190:5.8/#	Buenas noticias, el Señor ha resucitado	S	#
+Luke	24:36	#	191:2.1/#	Primera aparición a los apóstoles	S	#
+Luke	24:37-38,44-46	#	191:2.1/#	Jesús reprende a los apóstoles	S	#
+Luke	24:44-48	#	193:0.2/#	Discurso de Jesús a los líderes	S	#
+Luke	24:47	#	143:1.5/#	Id predicad el evangelio a todos	C	#
+Luke	24:47	#	191:5.3/#	La gran asignación	C	#
+Luke	24:47	#	140:9.2/#	Encargo de predicar por el mundo	S	#
+Luke	24:47	#	193:0.4/#	Salir a predicar el amor de Dios	C	#
+Luke	24:47	#	193:1.2/#	Enseñad el amor de Dios al mundo	C	#
+Luke	24:47	#	181:2.12/#	Proclamar el evangelio al mundo	S	#
+Luke	24:47	#	193:0.5/#	Id por todo el mundo predicando este evangelio	C	#
+Luke	24:47	#	176:2.3/#	El evangelio por todo el mundo	C	#
+Luke	24:47	#	95:7.3/#	El gran mandato	R	#
+Luke	24:47	#	190:3.1/#	La gran asignación	S	#
+Luke	24:47	#	193:1.2/#	Enseñad el amor de Dios al mundo	C	#
+Luke	24:47	#	193:5.2/#	Proclamación del nuevo evangelio	S	#
+Luke	24:47	#	178:1.14/#	El gran encargo	C	#
+Luke	24:47	#	165:6.3/#	El gran encargo	C	#
+Luke	24:47	#	193:2.2/#	La gran asignación	C	#
+Luke	24:47	#	190:4.1/#	La gran asignación	S	#
+Luke	24:47	#	191:4.4/#	La gran asignación	C	#
+Luke	24:47	#	191:6.3/#	La gran asignación	C	#
+Luke	24:49	#	20:6.8/#	Espíritu de la Verdad	C	#
+Luke	24:49	#	193:5.2/#	Permanecer en Jerusalén	C	#
+Luke	24:49	#	21:5.7/#	El Espíritu de la Verdad	C	#
+Luke	24:49	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
+Luke	24:49	#	191:5.3/#	Permaneced aquí	S	#
+Luke	24:49	#	180:3.3/#	Promesa del confortador	C	#
+Luke	24:49	#	32:5.8/#	Espíritu de la Verdad	C	#
+Luke	24:49	#	180:6.3/#	El Espíritu de la Verdad	C	#
+Luke	24:49	#	180:4.5/#	Os enviaré mi «espíritu»	C	#
+Luke	24:49	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
+Luke	24:49	#	193:0.5/#	Permaneced en Jerusalén	S	#
+Luke	24:49	#	181:2.14/#	Seguid al nuevo instructor en vuestros corazones	C	#
+Luke	24:49	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
+Luke	24:49	#	52:5.6/#	Espíritu derramado sobre toda carne	R	#
+Luke	24:49	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
+Luke	24:49	#	146:3.6/#	El Espíritu de la Verdad	C	#
+Luke	24:49	#	120:2.4/#	Espíritu de la Verdad	C	#
+Luke	24:49	#	141:4.5/#	Jesús envió Su Espíritu	C	#
+Luke	24:49	#	34:4.1/#	El Espíritu de la Verdad	C	#
+Luke	24:49	#	34:5.5/#	Espíritu de la Verdad	C	#
+Luke	24:49	#	34:7.1/#	Espíritu de la Verdad	C	#
+Luke	24:49	#	181:1.4/#	Derramaré mi espíritu sobre toda la carne	C	#
+Luke	24:49	#	191:6.3/#	El Espíritu de la Verdad	C	#
+Luke	24:49	#	193:5.2/#	Permanecer en Jerusalén	S	#
+Luke	24:49	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
+Luke	24:49	#	193:3.2/#	Permanecer en Jerusalén	S	#
+Luke	24:49	#	121:7.5/#	Nuevo espiritu que vive en el corazón de los hombres	C	#
+Luke	24:49	#	120:2.6/#	El Espíritu de la Verdad	C	#
+Luke	24:49	#	137:8.7/#	Espíritu de la Verdad	C	#
+Luke	24:49	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
+Luke	24:50a	#	193:5.1/#	Ascensión a la montaña	S	#
+Luke	24:50b-51a	#	193:5.2/#	Deseos finales	S	#
+Luke	24:51b	#	193:5.3/#	La ascensión	S	#

@@ -481,6 +481,10 @@ const Strings = {
 		en: "{0}, line {1}: Cannot extract book title",
 		es: "{0}, línea {1}: No se pudo extraer el título del libro"
 	},
+	"bible_title_invalid": {
+		en: "{0}, line {1}: Book title is not valid",
+		es: "{0}, línea {1}: El título del libro no es válido"
+	},
 	"bible_no_chapter": {
 		en: "{0}, line {1}: Cannot extract chapter",
 		es: "{0}, línea {1}: No se pudo extraer el capítulo"
@@ -489,6 +493,10 @@ const Strings = {
 		en: "{0}, line {1}: Cannot extract section",
 		es: "{0}, línea {1}: No se pudo extraer la sección"
 	},
+	"bible_section_not_number": {
+		en: "{0}, chapter {1}: Chapter is not a number",
+		es: "{0}, capítulo {1}: El capítulo no es un número"
+	},
 	"bible_section_order": {
 		en: "{0}, line {1}: Section before chapter?",
 		es: "{0}, línea {1}: Sección antes de capítulo?"
@@ -496,6 +504,10 @@ const Strings = {
 	"dir_no_access": {
 		en: "{0}, line {1}: Folder {0} not accessible",
 		es: "{0}, línea {1}: El directorio {0} no está accesible"
+	},
+	"bibleref_bookname_invalid": {
+		en: "{0}, line {1}: Book name is no valid",
+		es: "{0}, línea {1}: Nombre del libro no es válido"
 	},
 	"bibleref_no_data": {
 		en: "{0}, line {1}: There is no enough data in reference",

@@ -1,0 +1,320 @@
+Revelation	1:4	#	36:5.2/#	Espíritus ayudantes de la mente	C	#
+Revelation	1:4	#	116:2.1/#	Siete espíritus de Dios	C	#
+Revelation	1:4	#	16:4.1/#	Siete espíritus de Dios	C	#
+Revelation	1:4	#	36:5.1/#	Espíritus ayudantes de la mente	C	#
+Revelation	1:4	#	16:0.1/#	Siete espíritus maestros	C	#
+Revelation	1:7	#	170:2.10/#	La creencia en un reino inminente	S	#
+Revelation	1:8	#	2:1.2/#	Existente por sí mismo	C	#
+Revelation	1:8,11	#	10:7.1/#	El alpha y el omega	C	#
+Revelation	1:8,11,17	#	128:1.10/#	Yo soy el Alfa y la Omega	R	#
+Revelation	1:8,11,17	#	97:7.6/#	Yo soy el primero y el último	C	#
+Revelation	1:8,11,17	#	2:1.5/#	Él es el principio y el fin	C	#
+Revelation	1:8,11,17	#	2:1.2/#	Fuente y destino	C	#
+Revelation	1:8,11,17	#	2:1.2/#	Fuente y destino	C	#
+Revelation	1:9	#	139:4.13/#	Desterrado a Patmos	S	#
+Revelation	1:13	#	126:3.6/#	Hijo del Hombre	R	#
+Revelation	1:13	#	128:1.2/#	Hijo del Hombre	C	#
+Revelation	1:13	#	135:5.7/#	El Hijo del Hombre	R	#
+Revelation	1:13	#	136:1.1/#	El Hijo del Hombre	R	#
+Revelation	1:17	#	10:7.1/#	El primero, el último, y el único Dios	R	#
+Revelation	1:20	#	114:6.7/#	Ángeles de las iglesias	R	#
+Revelation	2:1,8,12,18	#	114:6.7/#	Ángel de la Iglesia	C	#
+Revelation	2:7	#	73:6.3/#	El árbol de la vida	R	#
+Revelation	2:7	#	85:2.4/#	Árbol de la vida	C	#
+Revelation	2:7	#	0:4.11/#	El Paraíso	C	#
+Revelation	2:7	#	19:7.1/#	Paraíso	C	#
+Revelation	2:7	#	73:6.1/#	Árbol de la vida	C	#
+Revelation	2:7,11,17,29	#	8:6.4/#	Quien tenga oídos que oiga al Espíritu	R	#
+Revelation	2:8	#	128:1.10/#	El primero y el último	R	#
+Revelation	2:8	#	2:1.5/#	Él es el principio y el fin	C	#
+Revelation	2:8	#	10:7.1/#	El primero, el último, y el único Dios	R	#
+Revelation	2:8	#	97:7.6/#	Yo soy el primero y el último	R	#
+Revelation	2:8	#	2:1.2/#	Es el principio y el fin	C	#
+Revelation	2:9	#	155:1.2/#	El hijo los quebrará con barra de hierro	R	#
+Revelation	2:10	#	131:10.6/#	Corona de la vida eterna	C	#
+Revelation	2:17	#	108:5.5/#	Nuevo nombre	C	#
+Revelation	2:17	#	108:3.3/#	Nuevo nombre	C	#
+Revelation	2:17	#	194:2.19/#	El espíritu con un nuevo nombre	C	#
+Revelation	2:17	#	47:8.5/#	Nuevo nombre	C	#
+Revelation	3:1	#	36:5.2/#	Espíritus ayudantes de la mente	C	#
+Revelation	3:1	#	116:2.1/#	Siete espíritus de Dios	C	#
+Revelation	3:1	#	16:4.1/#	Siete espíritus de Dios	C	#
+Revelation	3:1	#	16:0.1/#	Siete espíritus maestros	C	#
+Revelation	3:1	#	36:5.1/#	Espíritus ayudantes de la mente	C	#
+Revelation	3:1,7,14	#	114:6.7/#	Ángel de la Iglesia	C	#
+Revelation	3:5	#	27:5.1/#	Libro de la vida	R	#
+Revelation	3:6,13,22	#	8:6.4/#	Quien tenga oídos que oiga al Espíritu	R	#
+Revelation	3:8	#	147:5.6/#	La puerta abierta para entrar por la fe	C	#
+Revelation	3:12	#	55:1.3/#	Descendiendo del Cielo	R	#
+Revelation	3:12	#	108:3.3/#	Nuevo nombre	C	#
+Revelation	3:12	#	121:5.11/#	Reinos de la felicidad	C	#
+Revelation	3:12	#	176:1.6/#	Nueva Jerusalén	C	#
+Revelation	3:12	#	194:2.19/#	El espíritu con un nuevo nombre	C	#
+Revelation	3:12	#	55:1.1/#	Templo sagrado construido en la Tierra	R	#
+Revelation	3:12	#	47:8.5/#	Nuevo nombre	C	#
+Revelation	3:12	#	108:5.5/#	Nuevo nombre	C	#
+Revelation	3:16	#	153:5.3/#	Esas multitudes tibias	C	#
+Revelation	3:19	#	54:4.7/#	Todas las cosas trabajan para el bien	C	#
+Revelation	3:20	#	159:3.2/#	Jesús llama y el hombre abre	R	#
+Revelation	3:20	#	1:4.2/#	Está a la puerta y llama	R	#
+Revelation	3:20	#	166:3.4/#	Permanecer en la puerta y llamar	S	#
+Revelation	3:20-21	#	166:3.7/#	Jesús llama	S	#
+Revelation	3:21	#	178:3.4/#	Recompensa por la fidelidad	C	#
+Revelation	4:2	#	45:4.1/#	Trono del juicio	C	#
+Revelation	4:4	#	114:1.1/#	La comisión de Jerusem	C	#
+Revelation	4:4	#	45:4.1/#	Veinticuatro ancianos	R	#
+Revelation	4:4,10	#	34:4.8/#	24 vigilantes / ancianos	C	#
+Revelation	4:4,10	#	114:2.1/#	Gobierno de Urantia	C	#
+Revelation	4:4,10	#	77:9.5/#	Consejo de los veinticuatro	C	#
+Revelation	4:5	#	36:5.1/#	Espíritus ayudantes de la mente	C	#
+Revelation	4:5	#	34:4.8/#	Siete espíritus de Dios -- como lámparas	R	#
+Revelation	4:5	#	46:3.4/#	Emisora de Jerusem	C	#
+Revelation	4:5	#	116:2.1/#	Siete espíritus de Dios	C	#
+Revelation	4:5	#	36:5.2/#	Espíritus ayudantes de la mente	C	#
+Revelation	4:5	#	16:0.1/#	Siete espíritus maestros	C	#
+Revelation	4:5	#	16:4.1/#	Siete espíritus de Dios	C	#
+Revelation	4:5-6a	#	34:4.9/#	Fuera del trono, luces	R	#
+Revelation	4:6	#	43:1.7/#	Mar de cristal	C	#
+Revelation	4:6	#	43:1.10/#	Mar de cristal	C	#
+Revelation	4:6	#	46:2.9/#	Mar de cristal	C	#
+Revelation	4:6	#	47:10.2/#	Mar de cristal y fuego	R	#
+Revelation	4:6	#	47:4.3/#	Mar de cristal	C	#
+Revelation	4:6b-9	#	34:4.9/#	Cuatro «bestias»	C	#
+Revelation	4:11	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
+Revelation	4:11	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Revelation	4:11	#	131:10.6/#	El Creador	C	#
+Revelation	4:11	#	21:0.1/#	Los hijos Creadores	C	#
+Revelation	4:11	#	95:5.9/#	Dios como creador de todo	C	#
+Revelation	4:11	#	57:3.8/#	La creación de Miguel	C	#
+Revelation	4:11	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
+Revelation	4:11	#	21:2.1/#	Los Hijos Creadores crean	C	#
+Revelation	4:11	#	131:2.2/#	Dios creó todo	C	#
+Revelation	4:11	#	2:1.2/#	Creador fiel y divino	C	#
+Revelation	4:11	#	142:3.7/#	Creador Universal	C	#
+Revelation	4:11	#	0:2.9/#	Dios como creador de todo	C	#
+Revelation	4:11	#	6:1.3/#	Dios ha hecho todo	C	#
+Revelation	5:4	#	140:5.16/#	La ternura es varonil	C	#
+Revelation	5:6	#	36:5.1/#	Espíritus ayudantes de la mente	C	#
+Revelation	5:6	#	116:2.1/#	Siete espíritus de Dios	C	#
+Revelation	5:6	#	16:0.1/#	Siete espíritus maestros	C	#
+Revelation	5:6	#	36:5.2/#	Espíritus ayudantes de la mente	C	#
+Revelation	5:6	#	16:4.1/#	Siete espíritus de Dios	R	#
+Revelation	5:6	#	16:6.2/#	Espíritus ayudantes de la mente	C	#
+Revelation	5:8	#	47:10.2/#	Arpa de Dios	R	#
+Revelation	5:8,14	#	34:4.9/#	Cuatro «bestias»	C	#
+Revelation	5:8,14	#	77:9.5/#	Consejo de los veinticuatro	C	#
+Revelation	5:8,14	#	114:2.1/#	Gobierno de Urantia	C	#
+Revelation	7:1	#	88:2.7/#	Libros sagrados como fetiches	C	#
+Revelation	7:2-3	#	52:1.6/#	Confirmación de los arcángeles para la resurrección	C	#
+Revelation	7:11	#	114:2.1/#	Gobierno de Urantia	C	#
+Revelation	7:11	#	77:9.5/#	Consejo de los veinticuatro	C	#
+Revelation	7:14	#	47:8.7/#	A base de grandes tribulaciones	R	#
+Revelation	7:14	#	137:6.5/#	El reino de la tribulación y la alegría	C	#
+Revelation	7:17	#	27:1.5/#	Enjugará todas las lágrimas	R	#
+Revelation	7:17	#	181:1.4/#	El Espíritu de la Verdad, fuente del agua viva	C	#
+Revelation	8:2,6	#	114:6.8/#	Ángeles de las trompetas	R	#
+Revelation	9:11	#	53:1.5/#	Abaddon, jefe de los rebeldes	C	#
+Revelation	10:1	#	38:6.3/#	Sus ángeles poderosos	R	#
+Revelation	10:6	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
+Revelation	10:6	#	6:1.3/#	Dios ha hecho todo	C	#
+Revelation	10:6	#	95:5.9/#	Dios como creador de todo	C	#
+Revelation	10:6	#	128:1.10/#	Creador de los cielos y de la Tierra	C	#
+Revelation	10:6	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Revelation	10:6	#	131:10.6/#	El Creador	C	#
+Revelation	10:6	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
+Revelation	10:6	#	131:2.2/#	Dios creó todo	C	#
+Revelation	10:6	#	2:1.2/#	Creador fiel y divino	C	#
+Revelation	10:6	#	0:2.9/#	Dios como creador de todo	C	#
+Revelation	10:6	#	142:3.7/#	Creador Universal	C	#
+Revelation	11:16	#	114:2.1/#	Gobierno de Urantia	C	#
+Revelation	11:16	#	77:9.5/#	Consejo de los veinticuatro	C	#
+Revelation	11:16	#	114:1.1/#	La comisión de Jerusem	C	#
+Revelation	11:19	#	46:3.3/#	Receptores de Jerusem	C	#
+Revelation	11:19	#	85:4.3/#	El granizo	C	#
+Revelation	12:3-4	#	53:7.7/#	Una tercera parte de las estrellas	R	#
+Revelation	12:7	#	67:3.1/#	Guerra en el cielo	R	#
+Revelation	12:7	#	53:7.12/#	Después de dos años de guerra en el cielo	R	#
+Revelation	12:7	#	53:4.1/#	La rebelión	C	#
+Revelation	12:7-8	#	53:7.15/#	Lucifer fracasa	C	#
+Revelation	12:7-8	#	53:5.6/#	Guerra en el cielo	R	#
+Revelation	12:7-9	#	120:2.2/#	Finalización de la rebelión	C	#
+Revelation	12:7-10	#	43:4.9/#	Derrota de Satán	C	#
+Revelation	12:7-11	#	53:9.2/#	Estado de Lucifer	C	#
+Revelation	12:8	#	53:9.7/#	Sitios no encontrados más	C	#
+Revelation	12:8	#	53:7.12/#	Ningún ciudadano de Jerusem perdido	R	#
+Revelation	12:8	#	53:7.13/#	Su lugar ya no se encontró más	R	#
+Revelation	12:9	#	53:1.4/#	El demonio	C	#
+Revelation	12:9	#	53:9.5/#	Estado de los rebeldes	C	#
+Revelation	12:9	#	53:9.3/#	Estado de los rebeldes	C	#
+Revelation	13:8	#	27:5.1/#	Libro de la vida	R	#
+Revelation	13:15-17	#	47:9.1/#	Eliminar la marca de la bestia	R	#
+Revelation	14:2	#	47:10.2/#	Arpa de Dios	R	#
+Revelation	14:3	#	114:2.1/#	Gobierno de Urantia	C	#
+Revelation	14:3	#	77:9.5/#	Consejo de los veinticuatro	C	#
+Revelation	14:7	#	131:2.2/#	Dios creó el Cielo y la Tierra	C	#
+Revelation	14:7	#	131:10.2/#	Dios creó todas las cosas y seres	C	#
+Revelation	14:7	#	0:2.9/#	Dios como Creador del Cielo y la Tierra	C	#
+Revelation	14:7	#	95:5.9/#	Dios como creador de todo	C	#
+Revelation	14:7	#	131:10.6/#	El Creador	C	#
+Revelation	14:7	#	128:1.10/#	Creador de los cielos y de la Tierra	C	#
+Revelation	14:7	#	6:1.3/#	Dios ha hecho todo	C	#
+Revelation	14:7	#	2:1.2/#	Creador fiel y divino	C	#
+Revelation	14:7	#	142:3.7/#	Creador Universal	C	#
+Revelation	14:7	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
+Revelation	14:9-11	#	47:9.1/#	Eliminar la marca de la bestia	R	#
+Revelation	14:12	#	101:6.9/#	La fe de Jesús	C	#
+Revelation	14:14	#	128:1.2/#	Hijo del Hombre	C	#
+Revelation	14:14	#	135:5.7/#	El Hijo del Hombre	R	#
+Revelation	14:14	#	136:1.1/#	El Hijo del Hombre	R	#
+Revelation	14:14	#	126:3.6/#	Hijo del Hombre	R	#
+Revelation	15:2	#	46:2.9/#	Mar de cristal	C	#
+Revelation	15:2	#	43:1.7/#	Mar de cristal	C	#
+Revelation	15:2	#	43:1.10/#	Mar de cristal	C	#
+Revelation	15:2	#	47:10.2/#	Arpa de Dios	R	#
+Revelation	15:2	#	47:4.3/#	Mar de cristal	C	#
+Revelation	15:2-3	#	47:10.2/#	Mar de cristal y fuego	R	#
+Revelation	15:3	#	119:2.6/#	Miguel es justo y misericordioso	R	#
+Revelation	16:2	#	47:9.1/#	Eliminar la marca de la bestia	R	#
+Revelation	17:8	#	27:5.1/#	Libro de la vida	R	#
+Revelation	17:14	#	21:4.5/#	Rey de Reyes	R	#
+Revelation	18:21	#	38:6.3/#	Sus ángeles poderosos	R	#
+Revelation	19:4	#	114:2.1/#	Gobierno de Urantia	C	#
+Revelation	19:4	#	77:9.5/#	Consejo de los veinticuatro	C	#
+Revelation	19:6	#	3:2.1/#	Omnipotente reina	R	#
+Revelation	19:10	#	38:2.5/#	No adoréis a los ángeles	R	#
+Revelation	19:14	#	38:6.2/#	Comandante supremo	R	#
+Revelation	19:14	#	33:4.6/#	Los ejércitos celestiales	R	#
+Revelation	19:16	#	21:4.5/#	Rey de Reyes	R	#
+Revelation	19:20	#	47:9.1/#	Eliminar la marca de la bestia	R	#
+Revelation	20:1-2	#	53:1.6/#	Gabriel ató a los jefes rebeldes	R	#
+Revelation	20:1-13	#	53:9.3/#	Estado de los rebeldes	C	#
+Revelation	20:2	#	53:1.4/#	El demonio	C	#
+Revelation	20:4	#	47:9.1/#	Eliminar la marca de la bestia	R	#
+Revelation	20:12	#	6:8.4/#	En presencia de Dios	C	#
+Revelation	20:12,15	#	27:5.1/#	Libro de la vida	R	#
+Revelation	21:1	#	15:7.1/#	Nuevo cielo	C	#
+Revelation	21:1	#	135:5.4/#	Un nuevo cielo y una nueva Tierra	R	#
+Revelation	21:1	#	176:1.6/#	Nuevos cielos y nueva tierra	C	#
+Revelation	21:1-2	#	55:1.1/#	Templo sagrado construido en la Tierra	R	#
+Revelation	21:1-2	#	52:7.11/#	Nuevo cielo y nueva tierra	R	#
+Revelation	21:1-4	#	55:6.4/#	La cosas viejas se hacen nuevas	R	#
+Revelation	21:2	#	176:1.6/#	Nueva Jerusalén	C	#
+Revelation	21:2	#	55:1.3/#	Descendiendo del Cielo	R	#
+Revelation	21:2 ff	#	15:7.5/#	Jerusem (capital del sistema)	C	#
+Revelation	21:2,10-11	#	46:4.5/#	La belleza de Jerusem	C	#
+Revelation	21:2-4	#	121:5.11/#	Reinos de la felicidad	C	#
+Revelation	21:3	#	146:3.5/#	Espíritu viviente del Padre	C	#
+Revelation	21:3	#	133:4.4/#	Dios habita en tu alma	C	#
+Revelation	21:3	#	133:4.5/#	El espíritu de Dios vive en nosotros	C	#
+Revelation	21:3	#	195:10.4/#	El reino de Dios está dentro de vosotros	S	#
+Revelation	21:3	#	107:4.7/#	El Ajustador, espíritu interior	C	#
+Revelation	21:3	#	148:6.10/#	Dios habita dentro de ti	C	#
+Revelation	21:3	#	134:4.7/#	El espíritu interior	C	#
+Revelation	21:3	#	140:1.5/#	El reino es Dios dentro de vosotros	C	#
+Revelation	21:3	#	34:6.7/#	Sois el templo de Dios, y os habita el espíritu	C	#
+Revelation	21:3	#	3:1.4/#	Vive en nosotros	R	#
+Revelation	21:3	#	131:10.4/#	El espíritu de Dios está en el corazón del hombre	C	#
+Revelation	21:3	#	12:7.12/#	Dios vive en nosotros	C	#
+Revelation	21:3	#	143:2.4/#	Seréis los templos de Dios	C	#
+Revelation	21:3	#	16:9.4/#	El espíritu de Dios vive en nosotros	C	#
+Revelation	21:3	#	170:2.20/#	El Reino de Dios dentro de nosotros	C	#
+Revelation	21:3	#	34:6.7/#	Sois el templo de Dios, y os habita el espíritu	C	#
+Revelation	21:3	#	131:10.2/#	El espíritu de Dios habita en nuestra alma	C	#
+Revelation	21:3	#	170:1.8/#	El reino dentro de ti	S	#
+Revelation	21:3	#	1:4.2/#	El cuerpo es el templo de Dios	C	#
+Revelation	21:3	#	2:5.6/#	Su espíritu vive en nosotros	C	#
+Revelation	21:3	#	110:1.5/#	El cuerpo es el tabernáculo	C	#
+Revelation	21:3	#	103:1.6/#	El espíritu en el hombre (Ajustador del Pensamiento)	C	#
+Revelation	21:3	#	167:7.4/#	El espíritu de Dios vive en vosotros	C	#
+Revelation	21:3	#	5:2.3/#	El espíritu viviendo dentro	C	#
+Revelation	21:3	#	141:2.1/#	El espíritu de Dios dentro de nosotros	C	#
+Revelation	21:3	#	108:6.2/#	Reino de los cielos dentro de vosotros	C	#
+Revelation	21:4	#	27:1.5/#	Enjugará todas las lágrimas	R	#
+Revelation	21:6	#	10:7.1/#	El alpha y el omega	C	#
+Revelation	21:6	#	128:1.10/#	Yo soy el Alfa y la Omega	R	#
+Revelation	21:6	#	2:1.5/#	Él es el principio y el fin	C	#
+Revelation	21:6	#	97:7.6/#	Yo soy el primero y el último	C	#
+Revelation	21:6	#	2:1.2/#	Fuente y destino	C	#
+Revelation	21:6	#	34:6.8/#	Nunca tener sed, agua espiritual	R	#
+Revelation	21:6	#	2:1.2/#	Fuente y destino	C	#
+Revelation	21:7	#	40:6.1/#	Hijos de Dios por la fe	C	#
+Revelation	21:7	#	34:6.10/#	Hijos de Dios	C	#
+Revelation	21:7	#	181:2.14/#	Los creyentes son hijos de Dios	C	#
+Revelation	21:7	#	170:2.20/#	Hijos de Dios	C	#
+Revelation	21:7	#	181:2.12/#	Los creyentes, hijos de Dios	C	#
+Revelation	21:7	#	196:0.2/#	Cada criatura mortal es un hijo de Dios	C	#
+Revelation	21:7	#	131:10.8/#	La relación de padre e hijo	C	#
+Revelation	21:7	#	170:2.8/#	Los hijos salvados de Dios	S	#
+Revelation	21:7	#	141:2.2/#	Hijos de Dios por la fe	C	#
+Revelation	21:7	#	142:5.2/#	Hijos de Dios	C	#
+Revelation	21:7	#	140:1.6/#	Hijos del Dios viviente	C	#
+Revelation	21:7	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
+Revelation	21:7	#	170:2.20/#	Hijos de Dios liberados	C	#
+Revelation	21:7	#	190:3.1/#	El evangelio de la filiación	C	#
+Revelation	21:7	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
+Revelation	21:7	#	149:6.8/#	Nosotros somos sus hijos	C	#
+Revelation	21:7	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
+Revelation	21:7	#	8:6.4/#	Hijos de Dios	C	#
+Revelation	21:7	#	140:3.16/#	Hijos del Dios viviente	C	#
+Revelation	21:7	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
+Revelation	21:7	#	131:10.6/#	Relación entre padre e hijo	C	#
+Revelation	21:7	#	5:4.8/#	Somos hijos de Dios	C	#
+Revelation	21:7	#	141:4.2/#	Somos los hijos de Dios	C	#
+Revelation	21:7	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
+Revelation	21:7	#	131:10.2/#	Somos los hijos de Dios	C	#
+Revelation	21:7	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
+Revelation	21:7	#	1:3.1/#	Progenie de Dios	C	#
+Revelation	21:7	#	149:2.10/#	Hijos del Dios viviente	C	#
+Revelation	21:7	#	153:2.4/#	Fraternidad de los hijos de Dios	C	#
+Revelation	21:7	#	193:1.2/#	Todos los hombres son hijos de Dios	C	#
+Revelation	21:7	#	143:2.7/#	Los hijos liberados de Dios	C	#
+Revelation	21:7	#	2:5.4/#	Somos hijos de Dios	C	#
+Revelation	21:8	#	46:8.4/#	La paga del pecado es la muerte	R	#
+Revelation	21:18-21	#	46:4.5/#	La belleza de Jerusem	C	#
+Revelation	21:23	#	46:1.4/#	Sistema de iluminación de Jerusem	C	#
+Revelation	21:27	#	27:5.1/#	Libro de la vida	R	#
+Revelation	22:2	#	73:6.1/#	Hojas para curar a las naciones	R	#
+Revelation	22:2,14	#	73:6.1/#	Árbol de la vida	C	#
+Revelation	22:2,14	#	85:2.4/#	Árbol de la vida	C	#
+Revelation	22:2,14	#	73:6.3/#	El árbol de la vida	R	#
+Revelation	22:3-5	#	27:1.5/#	Ya no habrá más noche	R	#
+Revelation	22:5	#	153:2.11/#	Los que creen tienen vida eterna	C	#
+Revelation	22:5	#	128:1.10/#	Dador de la vida eterna	C	#
+Revelation	22:5	#	168:0.7/#	Quien crea en mí nunca morirá	C	#
+Revelation	22:5	#	190:5.4/#	Los que creen en Él vivirán eternamente	C	#
+Revelation	22:5	#	46:1.4/#	Sistema de iluminación de Jerusem	C	#
+Revelation	22:5	#	2:2.1/#	Vida eterna	C	#
+Revelation	22:5	#	170:2.2/#	La esperanza de la vida eterna	S	#
+Revelation	22:5	#	181:2.11/#	La vida eterna en el reino venidero	C	#
+Revelation	22:5	#	157:6.10/#	Si crees en la verdad, tendrás vida eterna	C	#
+Revelation	22:5	#	162:7.5/#	Los creyentes nunca morirán	C	#
+Revelation	22:5	#	146:3.7/#	La vida eterna	C	#
+Revelation	22:5	#	121:5.11/#	Vida después de la muerte	C	#
+Revelation	22:5	#	162:2.7/#	Vida eterna	C	#
+Revelation	22:5	#	101:6.8/#	Vida eterna	C	#
+Revelation	22:5	#	3:0.1/#	Vida eterna	C	#
+Revelation	22:5	#	193:1.2/#	Los hijos de la fe no morirán nunca	C	#
+Revelation	22:5	#	27:1.5/#	Vida eterna	R	#
+Revelation	22:5	#	170:2.20/#	Vida eterna / sin fin	C	#
+Revelation	22:8-9	#	38:2.5/#	No adoréis a los ángeles	R	#
+Revelation	22:13	#	10:7.1/#	El alpha y el omega	C	#
+Revelation	22:13	#	2:1.5/#	Él es el principio y el fin	C	#
+Revelation	22:13	#	97:7.6/#	Yo soy el primero y el último	C	#
+Revelation	22:13	#	128:1.10/#	Yo soy el Alfa y la Omega	R	#
+Revelation	22:13	#	2:1.2/#	Fuente y destino	C	#
+Revelation	22:13	#	2:1.2/#	Fuente y destino	C	#
+Revelation	22:16	#	34:2.5/#	Radiante Estrella Matutina	C	#
+Revelation	22:16	#	21:2.11/#	Radiante Estrella Matutina	C	#
+Revelation	22:16	#	37:1.2/#	Radiante Estrella Matutina	C	#
+Revelation	22:16	#	28:1.3/#	Radiante Estrella Matutina	R	#
+Revelation	22:17	#	110:2.2/#	Consentimiento cooperativo	C	#
+Revelation	22:17	#	34:6.8/#	Nunca tener sed, agua espiritual	R	#
+Revelation	22:17b	#	32:5.8/#	Quien lo quiera puede participar	C	#
+Revelation	22:17b	#	131:10.7/#	Quien lo desee será salvado	C	#
+Revelation	22:17b	#	100:7.6/#	Quienquiera que lo desee, puede venir	C	#
+Revelation	22:17b	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
+Revelation	22:17b	#	139:12.7/#	Todo el que quiera puede venir	C	#
+Revelation	22:17b	#	165:3.8/#	Quienquiera puede venir	C	#
+Revelation	22:17b	#	2:5.2/#	Quienquiera puede venir	R	#
+Revelation	22:18-19	#	159:4.6/#	En contra de la infalibilidad de las escrituras	C	#
+Revelation	22:19	#	27:5.1/#	Libro de la vida	R	#

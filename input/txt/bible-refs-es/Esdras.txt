@@ -1,9 +1,0 @@
-Esdras	1:2	#	79:1.9/#	Un solo Dios en el cielo	C	#
-Esdras	3:11	#	2:5.7/#	Dios es misericordioso	C	#
-Esdras	3:11	#	6:3.2/#	Ministro de la misericordia	C	#
-Esdras	3:11	#	131:10.6/#	La Misericordia	C	#
-Esdras	3:11	#	142:3.7/#	Totalmente misericordioso	C	#
-Esdras	3:11	#	143:1.6/#	Dios se deleita en la misericordia	C	#
-Esdras	5:11-12	#	79:1.9/#	Un solo Dios en el cielo	C	#
-Esdras	7:10	#	97:8.3/#	Esdras y la observancia de la ley	C	#
-Esdras	8:22	#	96:6.3/#	Dios de poder	C	#

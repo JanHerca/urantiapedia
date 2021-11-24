@@ -1,0 +1,92 @@
+1 Peter	1:3	#	194:3.11/#	Padre del Señor Jesucristo	C	#
+1 Peter	1:3	#	194:4.6/#	Padre del Señor Jesucristo	R	#
+1 Peter	1:3-4	#	165:3.8/#	Herencia espiritual	C	#
+1 Peter	1:4	#	101:6.10/#	Herencia divina	C	#
+1 Peter	1:8	#	131:10.6/#	Llena de alegría y felicidad	C	#
+1 Peter	1:9	#	137:8.17/#	La fe es el precio para entrar	C	#
+1 Peter	1:16	#	99:5.3/#	Sed perfectos	C	#
+1 Peter	1:16	#	140:8.32/#	Sed perfectos	C	#
+1 Peter	1:16	#	13:2.8/#	Ser perfectos	C	#
+1 Peter	1:16	#	140:4.11/#	Sed perfectos	C	#
+1 Peter	1:16	#	181:1.2/#	Convertirse en perfectos espiritualmente	C	#
+1 Peter	1:16	#	140:3.16/#	Sed perfectos	C	#
+1 Peter	1:16	#	137:8.13/#	Sed perfectos	C	#
+1 Peter	1:16	#	142:7.13/#	Sed perfectos	C	#
+1 Peter	1:16	#	140:10.1/#	Sed perfectos	C	#
+1 Peter	1:16	#	56:0.1/#	Sed perfectos como yo soy	R	#
+1 Peter	1:16	#	26:4.5/#	Sed perfectos	R	#
+1 Peter	1:16	#	1:0.6/#	Sed perfectos	C	#
+1 Peter	1:16	#	31:3.6/#	Sed perfectos	R	#
+1 Peter	1:16	#	7:5.1/#	Sed perfectos	R	#
+1 Peter	1:16	#	26:11.4/#	Sed perfectos	C	#
+1 Peter	1:16	#	140:5.15/#	Sed perfectos	R	#
+1 Peter	1:16	#	26:9.3/#	Sed perfectos	C	#
+1 Peter	1:16	#	181:2.25/#	Perfecionarse espiritualmente	C	#
+1 Peter	1:16	#	107:0.3/#	Sed perfectos	C	#
+1 Peter	1:16	#	1:0.3/#	Sed perfectos	C	#
+1 Peter	1:16	#	40:7.4/#	Sed perfectos	R	#
+1 Peter	1:16	#	37:5.3/#	Sed perfectos	R	#
+1 Peter	1:16	#	106:2.6/#	Sed perfectos	C	#
+1 Peter	1:16	#	131:2.6/#	Sé perfecto	R	#
+1 Peter	1:16	#	143:2.6/#	Buscad la perfección	C	#
+1 Peter	1:16	#	161:1.10/#	Sed perfectos	C	#
+1 Peter	1:16	#	7:4.7/#	Sed perfectos	R	#
+1 Peter	1:18-19	#	89:9.3/#	Jesús visto como sacrificio humano	C	#
+1 Peter	1:18-19	#	170:5.6/#	Jesús el Redentor de la Iglesia	C	#
+1 Peter	1:19	#	89:4.8/#	Sacrificio de los mejor de todo	C	#
+1 Peter	1:21	#	190:0.4/#	La fe en la resurrección	C	#
+1 Peter	1:22	#	110:3.9/#	Amando a los hombres	C	#
+1 Peter	1:22	#	181:2.4/#	Amarse uno a otro	C	#
+1 Peter	1:22	#	103:5.2/#	Amarse unos a otros	C	#
+1 Peter	1:22	#	191:4.3/#	Amarse unos a otros	C	#
+1 Peter	1:22	#	193:3.2/#	Amaos unos a otros	C	#
+1 Peter	1:22	#	131:10.4/#	Todos los hombres son hermanos	C	#
+1 Peter	1:22	#	178:1.17/#	Amaros los unos a los otros	C	#
+1 Peter	1:22-23	#	111:2.10/#	Nacimiento del alma	C	#
+1 Peter	1:23	#	166:3.7/#	Debéis nacer de nuevo del espíritu	S	#
+1 Peter	1:23	#	70:7.11/#	Sociedad renacida	R	#
+1 Peter	1:23	#	155:6.3/#	La llamada de Jesús a nacer del espíritu	C	#
+1 Peter	1:23	#	140:6.2/#	Tenéis que renacer	C	#
+1 Peter	2:2	#	133:4.2/#	La leche de la verdad espiritual	R	#
+1 Peter	2:2	#	156:2.6/#	No continuar siendo niños en evangelio	C	#
+1 Peter	2:2	#	193:2.2/#	Crecer en el espíritu	S	#
+1 Peter	2:9	#	52:7.13/#	Una generación elegida	R	#
+1 Peter	2:13	#	0:2.12/#	Dios el Supremo	C	#
+1 Peter	2:15-16	#	54:1.1/#	La verdadera y la falsa libertad	C	#
+1 Peter	2:17	#	170:2.20/#	Hermandad de los hombres	S	#
+1 Peter	2:21-23	#	196:2.1/#	Los relatos de Pedro sobre la vida de Jesús	S	#
+1 Peter	2:23-24	#	143:2.1/#	El dominio de sí mismo de Jesús	C	#
+1 Peter	3:1-6	#	150:1.3/#	Visión de Pablo de las mujeres	C	#
+1 Peter	3:8	#	16:6.3/#	Mentes afine	C	#
+1 Peter	3:9-12	#	140:8.7/#	Futilidad de devolver mal con mal	S	#
+1 Peter	3:12	#	8:4.8/#	Los ojos del Señor están sobre los justos	R	#
+1 Peter	3:12	#	4:1.4/#	Los ojos del Sñor sobre los justos	R	#
+1 Peter	3:12	#	3:3.1/#	Los ojos del Señor en todas partes	R	#
+1 Peter	3:12	#	8:4.8/#	Los ojos del Señor están sobre los justos	R	#
+1 Peter	3:14	#	165:3.3/#	No temáis a los que pueden matar el cuerpo	C	#
+1 Peter	3:19-20	#	53:9.1/#	Estado presente de la rebelión	C	#
+1 Peter	3:22	#	5:2.2/#	A la derecha del Padre	R	#
+1 Peter	3:22	#	13:2.7/#	Diestra del Padre	C	#
+1 Peter	3:22	#	21:4.4/#	La derecha del Padre	R	#
+1 Peter	3:22	#	38:0.1/#	Derecha de Dios	R	#
+1 Peter	3:22	#	119:8.1/#	Estado actual de Miguel	C	#
+1 Peter	4:1	#	16:6.3/#	Mentes afine	C	#
+1 Peter	4:12-14	#	143:1.6/#	Exigencia de un servicio valiente	C	#
+1 Peter	4:19	#	6:1.3/#	Dios ha hecho todo	C	#
+1 Peter	4:19	#	2:1.2/#	Creador Fiel	C	#
+1 Peter	4:19	#	142:3.7/#	Creador Universal	C	#
+1 Peter	4:19	#	131:10.6/#	El Creador	C	#
+1 Peter	4:19	#	0:2.9/#	Dios como creador de todo	C	#
+1 Peter	4:19	#	2:1.2/#	Creador Fiel	R	#
+1 Peter	4:19	#	131:10.2/#	Deberíamos aprender a confiarle nuestra alma	C	#
+1 Peter	4:19	#	95:5.9/#	Dios como creador de todo	C	#
+1 Peter	4:19	#	131:2.2/#	Dios creó todo	C	#
+1 Peter	4:19	#	4:1.3/#	Creador fiel	R	#
+1 Peter	4:19	#	131:10.6/#	El Creador	C	#
+1 Peter	4:19	#	131:10.2/#	Deberíamos aprender a confiarle nuestra alma	C	#
+1 Peter	5:4	#	131:10.6/#	Corona de la vida eterna	C	#
+1 Peter	5:4	#	45:4.6/#	El Jefe Supremo	R	#
+1 Peter	5:8-9	#	174:0.2/#	Permanece firme	C	#
+1 Peter	5:12	#	194:4.7/#	Se llamaban unos a otros hermanos y hermanas	C	#
+1 Peter	5:13	#	132:4.7/#	Marcos	C	#
+1 Peter	5:14	#	194:4.7/#	Se besaban con un beso puro	C	#

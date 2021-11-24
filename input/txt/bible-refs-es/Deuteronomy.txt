@@ -1,0 +1,280 @@
+Deuteronomy	1:17	#	96:6.3/#	Dios del juicio	C	#
+Deuteronomy	1:31	#	196:0.2/#	Concepto como padre	C	#
+Deuteronomy	2:1-7	#	156:5.4/#	«Dios me ha dicho»	C	#
+Deuteronomy	2:20	#	77:2.3/#	Tierra de gigantes	R	#
+Deuteronomy	3:1-7	#	69:8.3/#	Ataque por sorpresa a Og	C	#
+Deuteronomy	3:13	#	77:2.3/#	Tierra de gigantes	R	#
+Deuteronomy	3:24	#	3:1.1/#	Arriba en el Cielo y abajo en la Tierra	R	#
+Deuteronomy	4:2	#	159:4.6/#	En contra de la infalibilidad de las escrituras	C	#
+Deuteronomy	4:11	#	2:1.1/#	Residir en espesas tinieblas	R	#
+Deuteronomy	4:12	#	85:4.2/#	Ángeles del fuego	C	#
+Deuteronomy	4:15	#	96:5.5/#	No visteis ninguna imagen el día	R	#
+Deuteronomy	4:24	#	96:4.6/#	Celoso de ...	R	#
+Deuteronomy	4:24	#	4:3.1/#	Dios celoso `del' hombre	C	#
+Deuteronomy	4:24	#	96:1.7/#	El	C	#
+Deuteronomy	4:25	#	4:3.2/#	La visión de Dios como colérico o airado	C	#
+Deuteronomy	4:31	#	131:10.6/#	La Misericordia	C	#
+Deuteronomy	4:31	#	2:5.7/#	Dios es misericordioso	C	#
+Deuteronomy	4:31	#	3:1.4/#	Nunca nos abandona	C	#
+Deuteronomy	4:31	#	6:3.2/#	Ministro de la misericordia	C	#
+Deuteronomy	4:31	#	142:3.7/#	Totalmente misericordioso	C	#
+Deuteronomy	4:31	#	96:4.6/#	Dios no os abandonará ni os destruirá	R	#
+Deuteronomy	4:32	#	74:0.1/#	Creación del hombre	C	#
+Deuteronomy	4:35,39	#	1:7.6/#	Dios es uno solo	R	#
+Deuteronomy	4:35,39	#	45:4.8/#	Dios único	C	#
+Deuteronomy	4:35,39	#	92:6.6/#	Un único Dios	C	#
+Deuteronomy	4:35,39	#	1:0.1/#	No hay Dios aparte de ti	C	#
+Deuteronomy	4:35,39	#	92:5.8/#	Dios es nuestro Señor, no hay nadie aparte de Él	R	#
+Deuteronomy	4:35,39	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
+Deuteronomy	4:35,39	#	131:10.2/#	Un único Dios	R	#
+Deuteronomy	4:35,39	#	92:5.8/#	Un único Dios	C	#
+Deuteronomy	4:35,39	#	56:4.4/#	Dios es uno	C	#
+Deuteronomy	4:35,39	#	131:2.2/#	No hay nadie más que él	R	#
+Deuteronomy	4:35,39	#	96:5.5/#	No hay ninguno aparte de él	R	#
+Deuteronomy	4:39	#	3:1.1/#	Arriba en el Cielo y abajo en la Tierra	R	#
+Deuteronomy	4:39	#	79:1.9/#	Un solo Dios en el cielo	R	#
+Deuteronomy	5:4-5	#	142:3.21/#	El monte Sinaí	C	#
+Deuteronomy	5:6-21	#	142:3.21/#	Los diez mandamientos	C	#
+Deuteronomy	5:7	#	66:7.9/#	Servirás sólo a Dios Padre	C	#
+Deuteronomy	5:7	#	160:5.9/#	Un único Dios y los dioses falsos	C	#
+Deuteronomy	5:7	#	142:3.11/#	No adorarás a ningún otro dios	S	#
+Deuteronomy	5:7	#	133:4.9/#	Adora sólo a Dios	C	#
+Deuteronomy	5:7-9a	#	136:9.3/#	Servir sólo al Señor Dios	R	#
+Deuteronomy	5:7-21	#	89:1.4/#	Los diez mandamientos como tabúes	C	#
+Deuteronomy	5:7-21	#	163:2.4/#	Cumplir los mandamientos	S	#
+Deuteronomy	5:7-21	#	131:2.12/#	Diez mandamientos	R	#
+Deuteronomy	5:8	#	142:4.2/#	Moisés combatió la idolatría	C	#
+Deuteronomy	5:8	#	88:2.5/#	Ninguna imagen tallada de nada	R	#
+Deuteronomy	5:8	#	89:2.1/#	«No harás»	C	#
+Deuteronomy	5:8	#	142:3.12/#	No fundiréis imágenes de los dioses	S	#
+Deuteronomy	5:9	#	96:4.6/#	Celoso de ...	R	#
+Deuteronomy	5:9	#	4:3.1/#	Dios celoso `del' hombre	C	#
+Deuteronomy	5:10	#	143:1.6/#	Dios se deleita en la misericordia	C	#
+Deuteronomy	5:10	#	143:1.6/#	Dios se deleita en la misericordia	C	#
+Deuteronomy	5:10	#	131:10.6/#	La Misericordia	C	#
+Deuteronomy	5:10	#	2:5.7/#	Dios es misericordioso	C	#
+Deuteronomy	5:10	#	142:3.7/#	Totalmente misericordioso	C	#
+Deuteronomy	5:10	#	6:3.2/#	Ministro de la misericordia	C	#
+Deuteronomy	5:11	#	66:7.10/#	Respetarás/obedecerás a tus dioses	C	#
+Deuteronomy	5:11	#	88:5.5/#	Nombres como fetiches	C	#
+Deuteronomy	5:12-15	#	95:1.2/#	Costumbre de guardar el sábado	C	#
+Deuteronomy	5:12-15	#	74:4.6/#	Tradición del sábado	C	#
+Deuteronomy	5:12-15	#	142:3.15/#	El séptimo día descansaréis	S	#
+Deuteronomy	5:14	#	27:4.3/#	Extraños que están puertas adentro	R	#
+Deuteronomy	5:15	#	142:3.21/#	Salida de Egipto	C	#
+Deuteronomy	5:16	#	153:3.3/#	Respeto por los padres	R	#
+Deuteronomy	5:16	#	66:7.15/#	Respetarás a tus padres y ancianos	C	#
+Deuteronomy	5:17	#	70:11.2/#	No matarás	R	#
+Deuteronomy	5:17	#	66:7.12/#	No matarás	C	#
+Deuteronomy	5:17	#	140:6.4/#	Habéis oído «No matarás»	R	#
+Deuteronomy	5:17	#	162:2.1/#	No matarás	R	#
+Deuteronomy	5:18	#	140:6.5/#	No cometáis adulterio	R	#
+Deuteronomy	5:19	#	66:7.13/#	No robarás	C	#
+Deuteronomy	5:20	#	66:7.11/#	No mentirás ante los jueces	C	#
+Deuteronomy	5:21	#	165:4.8/#	No codiciarás	R	#
+Deuteronomy	5:21	#	66:7.14/#	No tocarás a la esposa de tu amigo	C	#
+Deuteronomy	5:22	#	85:4.3/#	El trueno	C	#
+Deuteronomy	5:22-23	#	2:1.1/#	Residir en espesas tinieblas	R	#
+Deuteronomy	5:26	#	195:10.4/#	El Padre es un espíritu vivo	C	#
+Deuteronomy	6:4	#	92:5.8/#	Escucha oh, Israel, un único Dios	R	#
+Deuteronomy	6:4	#	1:7.6/#	Dios es uno solo	R	#
+Deuteronomy	6:4	#	96:5.5/#	El Señor vuestro Dios es un Dios único	R	#
+Deuteronomy	6:4	#	92:6.6/#	Un único Dios	C	#
+Deuteronomy	6:4	#	1:0.1/#	No hay Dios aparte de ti	C	#
+Deuteronomy	6:4	#	131:10.2/#	Un único Dios	C	#
+Deuteronomy	6:4	#	56:4.4/#	Dios es uno	C	#
+Deuteronomy	6:4	#	45:4.8/#	Dios único	C	#
+Deuteronomy	6:4	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	R	#
+Deuteronomy	6:4-5	#	131:2.13/#	Los que aman al Señor sobre todas las cosas	R	#
+Deuteronomy	6:4-5	#	131:2.2/#	Amarás al Señor tu Dios con todo tu corazón	R	#
+Deuteronomy	6:4-5	#	163:4.8/#	Ama a Dios con todo tu corazón	C	#
+Deuteronomy	6:4-5	#	110:3.8/#	Amando a Dios	C	#
+Deuteronomy	6:4-5	#	131:10.2/#	Deberíais amarlo con toda la mente y corazón	C	#
+Deuteronomy	6:4-5	#	174:4.2/#	El mandamiento más grande	S	#
+Deuteronomy	6:4-5	#	174:4.2/#	El mandamiento más grande	C	#
+Deuteronomy	6:6-9	#	124:4.7/#	Jesús cuestiona las costumbres	C	#
+Deuteronomy	6:13-14	#	136:9.3/#	Servir sólo al Señor Dios	R	#
+Deuteronomy	6:15	#	96:4.6/#	Dios celoso	R	#
+Deuteronomy	6:15	#	4:3.1/#	Dios celoso `del' hombre	C	#
+Deuteronomy	6:15	#	142:2.1/#	Moisés dijo que Dios es celoso	C	#
+Deuteronomy	7:6	#	93:5.1/#	Pueblo elegido	R	#
+Deuteronomy	7:6	#	97:4.2/#	Pueblo elegido	C	#
+Deuteronomy	7:6	#	96:5.6/#	Pueblo elegido de Dios	C	#
+Deuteronomy	7:6	#	121:2.8/#	Pueblo elegido	R	#
+Deuteronomy	7:6	#	97:10.1/#	Pueblo elegido	C	#
+Deuteronomy	7:6	#	96:2.3/#	Pueblo elegido	C	#
+Deuteronomy	7:6-15	#	97:8.3/#	La promesa de Dios al pueblo elegido	C	#
+Deuteronomy	7:8	#	96:4.6/#	No olvida la alianza	R	#
+Deuteronomy	7:9	#	131:2.8/#	El Señor es fiel	R	#
+Deuteronomy	7:9	#	4:1.3/#	Dios es fiel	R	#
+Deuteronomy	7:11	#	96:5.6/#	Guardar todos sus mandamientos	R	#
+Deuteronomy	7:13-15	#	96:5.4/#	Os amará, os bendecirá	R	#
+Deuteronomy	7:16-24	#	70:1.15/#	En nombre del Señor Dios de Israel	R	#
+Deuteronomy	7:21	#	96:4.5/#	Poderoso, terrible	R	#
+Deuteronomy	7:21-23	#	89:6.3/#	Dios de las batallas	R	#
+Deuteronomy	7:21-23	#	70:1.15/#	Dios de las batallas	R	#
+Deuteronomy	8:3	#	136:6.4/#	No sólo de pan vivirá el hombre	R	#
+Deuteronomy	8:3	#	160:3.1/#	No sólo de pan vive el hombre	R	#
+Deuteronomy	8:5	#	196:0.2/#	Concepto como padre	C	#
+Deuteronomy	8:18	#	96:5.4/#	Recordad al Señor vuestro Dios	R	#
+Deuteronomy	8:19	#	160:5.9/#	Un único Dios y los dioses falsos	C	#
+Deuteronomy	9:7-8,22	#	142:2.1/#	Un Dios de gran ira e intenso furor	C	#
+Deuteronomy	9:16-21	#	146:1.1/#	Aarón y el becerro de oro	C	#
+Deuteronomy	9:29	#	142:3.7/#	Todopoderoso	C	#
+Deuteronomy	9:29	#	131:10.3/#	Dios es todopoderoso	C	#
+Deuteronomy	9:29	#	131:10.6/#	El Poder	C	#
+Deuteronomy	9:29	#	96:6.3/#	Dios de poder	C	#
+Deuteronomy	9:29	#	1:1.4/#	El poder de Dios	C	#
+Deuteronomy	10:1-5	#	88:2.5/#	Nuevos fetiches	C	#
+Deuteronomy	10:12	#	174:4.2/#	El mandamiento más grande	S	#
+Deuteronomy	10:12	#	110:3.8/#	Amando a Dios	C	#
+Deuteronomy	10:12	#	131:2.2/#	Amarás al Señor tu Dios con todo tu corazón	C	#
+Deuteronomy	10:12	#	163:4.8/#	Ama a Dios con todo tu corazón	C	#
+Deuteronomy	10:12	#	131:2.13/#	Los que aman al Señor sobre todas las cosas	R	#
+Deuteronomy	10:12	#	131:10.2/#	Deberíais amarlo con toda la mente y corazón	C	#
+Deuteronomy	10:12-13	#	96:5.6/#	Guardar todos sus mandamientos	R	#
+Deuteronomy	10:14	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
+Deuteronomy	10:14	#	3:1.2/#	El cielo de los cielos	C	#
+Deuteronomy	10:14	#	181:1.2/#	Cielo de los cielos	C	#
+Deuteronomy	10:14	#	2:1.1/#	El cielo de los cielos	R	#
+Deuteronomy	10:14	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
+Deuteronomy	10:15	#	1:5.4/#	Se deleita en sus hijos	R	#
+Deuteronomy	10:17	#	45:4.10/#	Dios de los Dioses	R	#
+Deuteronomy	10:17	#	96:4.5/#	Poderoso, terrible	R	#
+Deuteronomy	10:17	#	96:5.6/#	Dios de los Dioses, el Señor de los Señores	R	#
+Deuteronomy	10:17	#	0:2.12/#	Dios el Supremo	C	#
+Deuteronomy	10:20	#	136:9.3/#	Servir sólo al Señor Dios	R	#
+Deuteronomy	11:1,13,22	#	131:2.2/#	Amarás al Señor tu Dios con todo tu corazón	C	#
+Deuteronomy	11:1,13,22	#	110:3.8/#	Amando a Dios	C	#
+Deuteronomy	11:1,13,22	#	131:2.13/#	Los que aman al Señor sobre todas las cosas	R	#
+Deuteronomy	11:1,13,22	#	131:10.2/#	Deberíais amarlo con toda la mente y corazón	C	#
+Deuteronomy	11:1,13,22	#	163:4.8/#	Ama a Dios con todo tu corazón	C	#
+Deuteronomy	11:1,13,22	#	174:4.2/#	El mandamiento más grande	S	#
+Deuteronomy	11:26-28	#	97:8.3/#	La Gran Elección	C	#
+Deuteronomy	11:29	#	85:1.5/#	Montañas sagradas	C	#
+Deuteronomy	12:2	#	69:8.3/#	Los hebreos «destruían por completo»	C	#
+Deuteronomy	12:25,28,32	#	96:5.6/#	Guardar todos sus mandamientos	R	#
+Deuteronomy	12:32	#	159:4.6/#	En contra de la infalibilidad de las escrituras	C	#
+Deuteronomy	13:1-5	#	86:5.7/#	Mandato de Moisés sobre los sueños	C	#
+Deuteronomy	13:3	#	131:2.13/#	Los que aman al Señor sobre todas las cosas	R	#
+Deuteronomy	13:3	#	174:4.2/#	El mandamiento más grande	S	#
+Deuteronomy	13:3	#	163:4.8/#	Ama a Dios con todo tu corazón	C	#
+Deuteronomy	13:3	#	131:2.2/#	Amarás al Señor tu Dios con todo tu corazón	C	#
+Deuteronomy	13:3	#	110:3.8/#	Amando a Dios	C	#
+Deuteronomy	13:3	#	131:10.2/#	Deberíais amarlo con toda la mente y corazón	C	#
+Deuteronomy	13:15-17	#	159:4.5/#	Dios no dice «matad a todos los enemigos»	C	#
+Deuteronomy	13:18	#	96:5.6/#	Guardar todos sus mandamientos	R	#
+Deuteronomy	14:2	#	93:5.1/#	Pueblo elegido	R	#
+Deuteronomy	14:2	#	96:5.6/#	Pueblo elegido de Dios	C	#
+Deuteronomy	14:2	#	97:10.1/#	Pueblo elegido	C	#
+Deuteronomy	14:2	#	121:2.8/#	Pueblo elegido	R	#
+Deuteronomy	14:2	#	96:2.3/#	Pueblo elegido	C	#
+Deuteronomy	14:2	#	97:4.2/#	Pueblo elegido	C	#
+Deuteronomy	14:21	#	142:3.20/#	No herviréis un cabrito en la leche de su madre	S	#
+Deuteronomy	15:6	#	96:5.4/#	Prestaréis a muchas naciones	R	#
+Deuteronomy	15:9	#	87:5.4/#	Mal de ojo	C	#
+Deuteronomy	16:1-4	#	142:3.13/#	Guardaréis la fiesta de los ácimos	S	#
+Deuteronomy	16:21	#	85:2.4/#	Arboledas sagradas	C	#
+Deuteronomy	18:10-12	#	90:2.3/#	Brujería	C	#
+Deuteronomy	18:13	#	181:2.25/#	Perfecionarse espiritualmente	C	#
+Deuteronomy	18:13	#	161:1.10/#	Sed perfectos	C	#
+Deuteronomy	18:13	#	137:8.13/#	Sed perfectos	C	#
+Deuteronomy	18:13	#	26:4.5/#	Sed perfectos	R	#
+Deuteronomy	18:13	#	7:4.7/#	Sed perfectos	R	#
+Deuteronomy	18:13	#	140:5.15/#	Sed perfectos	R	#
+Deuteronomy	18:13	#	26:11.4/#	Sed perfectos	R	#
+Deuteronomy	18:13	#	140:8.32/#	Sed perfectos	C	#
+Deuteronomy	18:13	#	142:7.13/#	Sed perfectos	C	#
+Deuteronomy	18:13	#	140:4.11/#	Sed perfectos	C	#
+Deuteronomy	18:13	#	26:9.3/#	Sed perfectos	R	#
+Deuteronomy	18:13	#	143:2.6/#	Buscad la perfección	C	#
+Deuteronomy	18:13	#	99:5.3/#	Sed perfectos	C	#
+Deuteronomy	18:13	#	140:3.16/#	Sed perfectos	C	#
+Deuteronomy	18:13	#	140:10.1/#	Sed perfectos	C	#
+Deuteronomy	18:13	#	107:0.3/#	Sed perfectos	C	#
+Deuteronomy	18:13	#	131:2.6/#	Sé perfecto	R	#
+Deuteronomy	18:13	#	37:5.3/#	Sed perfectos	R	#
+Deuteronomy	18:13	#	106:2.6/#	Sed perfectos	C	#
+Deuteronomy	18:13	#	1:0.6/#	Sed perfectos	C	#
+Deuteronomy	18:13	#	131:2.13/#	Sed como yo y vivid conmigo	R	#
+Deuteronomy	18:13	#	40:7.4/#	Sed perfectos	R	#
+Deuteronomy	18:13	#	181:1.2/#	Convertirse en perfectos espiritualmente	C	#
+Deuteronomy	18:13	#	7:5.1/#	Sed perfectos	R	#
+Deuteronomy	18:13	#	1:0.3/#	Sed perfectos	C	#
+Deuteronomy	18:13	#	13:2.8/#	Ser perfectos	C	#
+Deuteronomy	18:13	#	56:0.1/#	Sed perfectos como yo soy	R	#
+Deuteronomy	18:13	#	31:3.6/#	Sed perfectos	R	#
+Deuteronomy	19:6,12	#	70:10.9/#	Venganza de sangre	C	#
+Deuteronomy	19:9	#	131:2.2/#	Amarás al Señor tu Dios con todo tu corazón	C	#
+Deuteronomy	19:9	#	131:2.13/#	Los que aman al Señor sobre todas las cosas	R	#
+Deuteronomy	19:9	#	163:4.8/#	Ama a Dios con todo tu corazón	C	#
+Deuteronomy	19:9	#	174:4.2/#	El mandamiento más grande	S	#
+Deuteronomy	19:9	#	131:10.2/#	Deberíais amarlo con toda la mente y corazón	C	#
+Deuteronomy	19:9	#	110:3.8/#	Amando a Dios	C	#
+Deuteronomy	19:14	#	69:9.13/#	Respeto por las marcas territoriales	C	#
+Deuteronomy	19:21	#	140:6.9/#	Ojo por ojo y diente por diente	R	#
+Deuteronomy	19:21	#	140:8.5/#	Ojo por ojo y diente por diente	S	#
+Deuteronomy	19:21	#	159:5.11/#	Ojo por ojo	C	#
+Deuteronomy	19:21	#	70:10.9/#	Ojo por ojo	C	#
+Deuteronomy	20:1	#	70:1.15/#	En nombre del Señor Dios de Israel	R	#
+Deuteronomy	20:1-4	#	70:1.15/#	Dios de las batallas	R	#
+Deuteronomy	20:1-4	#	89:6.3/#	Dios de las batallas	R	#
+Deuteronomy	20:14	#	69:8.4/#	Capturar mujeres	C	#
+Deuteronomy	20:16-18	#	159:4.5/#	Dios no dice «matad a todos los enemigos»	C	#
+Deuteronomy	20:17	#	69:8.3/#	Los hebreos «destruían por completo»	C	#
+Deuteronomy	21:10-14	#	69:8.4/#	Reglas para esposas cautivas	C	#
+Deuteronomy	23:14	#	96:5.7/#	Camina en medio del campamento	R	#
+Deuteronomy	24:1	#	83:5.1/#	Divorcio para el hombre	C	#
+Deuteronomy	25:5-6	#	82:5.5/#	Matrimonio del levirato	C	#
+Deuteronomy	25:5-6	#	83:5.4/#	Matrimonio del levirato	C	#
+Deuteronomy	25:5-6	#	174:3.1/#	La enseñanza de Moisés sobre el levirato	S	#
+Deuteronomy	27:5-6	#	92:2.2/#	Altar de piedra no labrada	R	#
+Deuteronomy	27:17	#	69:9.13/#	Maldiciones si se destruían marcas territoriales	R	#
+Deuteronomy	28:1-8	#	148:6.2/#	Dios bendice al fiel	C	#
+Deuteronomy	28:1	#	96:5.6/#	Dios mata cuando desobedecéis	R	#
+Deuteronomy	28:15	#	152:2.1/#	Si no escuchas a Dios, caerán sobre ti maldiciones	R	#
+Deuteronomy	28:25	#	152:2.1/#	Derrotado por tus enemigos	R	#
+Deuteronomy	28:36-37	#	152:2.1/#	Servirás de refrán	R	#
+Deuteronomy	28:41	#	153:2.1/#	Tus hijos e hijas serán llevados cautivos	R	#
+Deuteronomy	28:43	#	153:2.1/#	Los extranjeros se alzarán en autoridad	R	#
+Deuteronomy	28:45-50	#	153:2.1/#	Sobre tu descendencia, por no escuchar al Señor	R	#
+Deuteronomy	28:52-53	#	153:2.1/#	Predicción de la degradación del pueblo judío	R	#
+Deuteronomy	28:54,56	#	87:5.4/#	Mal de ojo	C	#
+Deuteronomy	28:58	#	96:4.5/#	Terrible	R	#
+Deuteronomy	29:12-15	#	87:6.9/#	Votos y juramentos sagrados	C	#
+Deuteronomy	30:2-3	#	159:5.13/#	Arrepentimiento para el perdón (AT)	C	#
+Deuteronomy	30:6,16,20	#	174:4.2/#	El mandamiento más grande	S	#
+Deuteronomy	30:6,16,20	#	110:3.8/#	Amando a Dios	C	#
+Deuteronomy	30:6,16,20	#	163:4.8/#	Ama a Dios con todo tu corazón	C	#
+Deuteronomy	30:6,16,20	#	131:2.2/#	Amarás al Señor tu Dios con todo tu corazón	C	#
+Deuteronomy	30:6,16,20	#	131:2.13/#	Los que aman al Señor sobre todas las cosas	R	#
+Deuteronomy	30:6.16.20	#	131:10.2/#	Deberíais amarlo con toda la mente y corazón	C	#
+Deuteronomy	30:7	#	96:5.7/#	Maldecido a sus enemigos	R	#
+Deuteronomy	30:11-14	#	150:8.8/#	Este mandamiento no está oculto	R	#
+Deuteronomy	30:15-19	#	166:3.3/#	El camino ancho y el estrecho	S	#
+Deuteronomy	31:6	#	157:6.13/#	Dios nunca dejará a Jesús solo	R	#
+Deuteronomy	31:6,8	#	3:1.4/#	Nunca nos abandona	C	#
+Deuteronomy	31:12	#	27:4.3/#	Extraños que están puertas adentro	R	#
+Deuteronomy	31:20	#	165:4.8/#	Han comido y engordado	R	#
+Deuteronomy	32:1-43	#	97:10.2/#	Discurso de despedida de Moisés	C	#
+Deuteronomy	32:4	#	96:4.7/#	Dios de la verdad y sin iniquidad	R	#
+Deuteronomy	32:4	#	96:6.3/#	Dios del juicio	C	#
+Deuteronomy	32:4	#	119:2.6/#	Miguel es justo y misericordioso	R	#
+Deuteronomy	32:8	#	93:2.3/#	El Altísimo	C	#
+Deuteronomy	32:8	#	43:3.1/#	Altísimos	C	#
+Deuteronomy	32:8	#	43:5.16/#	Los Altísimos dividieron las naciones	R	#
+Deuteronomy	32:8	#	93:3.2/#	El Altísimo	C	#
+Deuteronomy	32:15-17	#	165:4.8/#	Han comido y engordado	R	#
+Deuteronomy	32:16,21	#	142:2.1/#	Moisés dijo que Dios es celoso	C	#
+Deuteronomy	32:35	#	140:8.5/#	Advertencia contra la venganza	S	#
+Deuteronomy	32:35,41,43	#	70:10.9/#	La venganza es de Dios	R	#
+Deuteronomy	32:35,41,43	#	142:2.1/#	Que se venga de los pecadores	C	#
+Deuteronomy	32:39	#	96:5.6/#	Dios mata cuando desobedecéis	R	#
+Deuteronomy	33:21	#	96:6.3/#	Dios de justicia	C	#
+Deuteronomy	33:27	#	131:2.10/#	Nos sostienen sus brazos eternos	R	#
+Deuteronomy	33:27	#	4:1.4/#	El Dios eterno es nuestro refugio	R	#
+Deuteronomy	33:27	#	0:3.2/#	Dios eterno	C	#
+Deuteronomy	33:27	#	96:4.6/#	El Dios eterno es mi refugio	R	#
+Deuteronomy	33:27	#	2:6.3/#	Es nuestro refugio	R	#
+Deuteronomy	33:27	#	148:5.5/#	Dios es mi refugio	R	#
+Deuteronomy	33:29	#	85:1.5/#	Lugares elevados	C	#

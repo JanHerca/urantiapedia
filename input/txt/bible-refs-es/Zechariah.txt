@@ -1,0 +1,33 @@
+Zechariah	1:4	#	194:3.11/#	No más el Señor de los Ejércitos	C	#
+Zechariah	1:14	#	96:4.6/#	Celo	R	#
+Zechariah	1:14	#	4:3.1/#	Dios celoso `por' el hombre	C	#
+Zechariah	3:1-2	#	53:1.4/#	Satanás	C	#
+Zechariah	3:4	#	150:5.2/#	Vestid a mi hijo con la túnica divina	R	#
+Zechariah	3:8	#	180:2.3/#	Un tallo que surgiría de la vid	C	#
+Zechariah	3:10	#	141:5.1/#	Armonía apostólica	C	#
+Zechariah	4:6	#	34:6.6/#	No sólo en palabras, sino en poder	R	#
+Zechariah	6:5	#	128:1.10/#	Señor Dios de toda la creación	C	#
+Zechariah	6:12	#	180:2.3/#	Un tallo que surgiría de la vid	C	#
+Zechariah	7:11-13	#	146:2.3/#	Endurecieron su corazón	R	#
+Zechariah	8:2	#	4:3.1/#	Dios celoso `por' el hombre	C	#
+Zechariah	8:2	#	96:4.6/#	Celo	R	#
+Zechariah	8:14	#	2:2.2/#	No se arrepiente (por elección)	C	#
+Zechariah	8:14	#	4:3.4/#	Dios no se arrepiente (por elección)	C	#
+Zechariah	9:9	#	172:5.8/#	La profecía de Zacarías cumplida	S	#
+Zechariah	9:9	#	172:3.4/#	Entrada sobre un asno	R	#
+Zechariah	9:9	#	172:5.5/#	La profecía de Zacarías	R	#
+Zechariah	9:17	#	131:10.4/#	Si más pudieran enterarse de la bondad de Dios	C	#
+Zechariah	13:6	#	149:6.12/#	Herido por un fiel amigo	R	#
+Zechariah	13:7	#	181:2.27/#	Se dispersarán las ovejas	R	#
+Zechariah	13:7	#	183:4.6/#	El pastor es golpeado y las ovejas se dispersan	C	#
+Zechariah	13:9	#	166:3.7/#	Cualquiera que lo desee puede entrar	C	#
+Zechariah	13:9	#	165:3.8/#	Quienquiera puede venir	C	#
+Zechariah	13:9	#	2:5.2/#	Quienquiera puede venir	C	#
+Zechariah	13:9	#	139:12.7/#	Todo el que quiera puede venir	C	#
+Zechariah	13:9	#	2:4.1/#	Quien recurra a Él será salvado	R	#
+Zechariah	13:9	#	32:5.8/#	Quien lo quiera puede participar	C	#
+Zechariah	13:9	#	100:7.6/#	Quienquiera que lo desee, puede venir	C	#
+Zechariah	13:9	#	131:10.7/#	Quien lo desee será salvado	C	#
+Zechariah	14:7	#	141:4.1/#	Dios como rey por encima de todo	C	#
+Zechariah	14:7	#	170:1.5/#	Puntos de vista de Jesús de origen sobrenatural	C	#
+Zechariah	14:8	#	162:6.1/#	Ríos de agua viva	R	#

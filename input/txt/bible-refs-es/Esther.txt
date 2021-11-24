@@ -1,0 +1,4 @@
+Esther	1:2	#	133:9.2/#	Historias de Ester y Susa	C	#
+Esther	4:1,3	#	163:6.5/#	Saco y cenizas	C	#
+Esther	4:1-4	#	89:3.3/#	Pobreza y penitencia	C	#
+Esther	9:17-32	#	125:1.5/#	Fiesta de Purim	C	#

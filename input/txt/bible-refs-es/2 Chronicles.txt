@@ -1,0 +1,94 @@
+2 Chronicles	2:6	#	181:1.2/#	Cielo de los cielos	C	#
+2 Chronicles	2:6	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
+2 Chronicles	2:6	#	3:1.2/#	El cielo de los cielos	R	#
+2 Chronicles	2:6	#	2:1.1/#	El cielo de los cielos	R	#
+2 Chronicles	2:6	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
+2 Chronicles	2:12	#	0:2.9/#	Dios como Creador del Cielo y la Tierra	C	#
+2 Chronicles	2:12	#	142:3.7/#	Creador Universal	C	#
+2 Chronicles	2:12	#	6:1.3/#	Dios ha hecho todo	C	#
+2 Chronicles	2:12	#	2:1.2/#	Creador fiel y divino	C	#
+2 Chronicles	2:12	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
+2 Chronicles	2:12	#	95:5.9/#	Dios como creador de todo	C	#
+2 Chronicles	2:12	#	131:10.6/#	El Creador	C	#
+2 Chronicles	2:12	#	131:2.2/#	Dios creó el Cielo y la Tierra	C	#
+2 Chronicles	2:12	#	128:1.10/#	Creador de los cielos y de la Tierra	C	#
+2 Chronicles	2:12	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+2 Chronicles	2:12	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
+2 Chronicles	5:13	#	6:3.2/#	Ministro de la misericordia	C	#
+2 Chronicles	5:13	#	2:5.7/#	Dios es misericordioso	C	#
+2 Chronicles	5:13	#	142:3.7/#	Totalmente misericordioso	C	#
+2 Chronicles	5:13	#	2:4.1/#	Su misericordia dura eternamente	R	#
+2 Chronicles	5:13	#	143:1.6/#	Dios se deleita en la misericordia	C	#
+2 Chronicles	5:13	#	131:10.6/#	La Misericordia	C	#
+2 Chronicles	6:1	#	14:1.7/#	Cuerpos oscuros de gravedad	C	#
+2 Chronicles	6:1	#	2:1.1/#	Residir en espesas tinieblas	R	#
+2 Chronicles	6:18	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
+2 Chronicles	6:18	#	3:1.2/#	El cielo de los cielos	R	#
+2 Chronicles	6:18	#	181:1.2/#	Cielo de los cielos	C	#
+2 Chronicles	6:18	#	2:1.1/#	El cielo de los cielos	R	#
+2 Chronicles	6:18	#	48:6.12/#	El Cielo y el Cielo de los cielos	R	#
+2 Chronicles	6:30	#	32:4.8/#	El Señor conoce a sus hijos	R	#
+2 Chronicles	6:38-39	#	159:5.13/#	Arrepentimiento para el perdón (AT)	C	#
+2 Chronicles	7:1-3	#	85:4.2/#	Ángeles del fuego	C	#
+2 Chronicles	7:3,6	#	131:10.6/#	La Misericordia	C	#
+2 Chronicles	7:3,6	#	2:5.7/#	Dios es misericordioso	C	#
+2 Chronicles	7:3,6	#	142:3.7/#	Totalmente misericordioso	C	#
+2 Chronicles	7:3,6	#	2:4.1/#	Su misericordia dura eternamente	R	#
+2 Chronicles	7:3,6	#	6:3.2/#	Ministro de la misericordia	C	#
+2 Chronicles	7:3,6	#	143:1.6/#	Dios se deleita en la misericordia	C	#
+2 Chronicles	15:12-15	#	87:6.9/#	Votos y juramentos sagrados	C	#
+2 Chronicles	18:6-8	#	97:2.2/#	Miqueas	C	#
+2 Chronicles	19:3	#	1:2.3/#	Buscar a Dios	C	#
+2 Chronicles	19:7	#	137:8.11/#	No habrá judíos ni gentiles	C	#
+2 Chronicles	19:7	#	140:1.2/#	No es el Dios de los judíos o de los gentiles	S	#
+2 Chronicles	19:7	#	155:6.2/#	Dios no hace acepción de razas	C	#
+2 Chronicles	19:7	#	137:8.6/#	No hace acepción de personas	C	#
+2 Chronicles	19:7	#	190:4.1/#	Ni judíos ni gentiles	S	#
+2 Chronicles	19:7	#	156:2.4/#	No existen favoritismos con Dios	C	#
+2 Chronicles	19:7	#	138:4.2/#	Igualdad de todos los que buscan a Dios	C	#
+2 Chronicles	19:7	#	190:3.1/#	En el reino no habrá diferencias	C	#
+2 Chronicles	19:7	#	139:10.9/#	Jesús no hacía acepción de personas	C	#
+2 Chronicles	19:7	#	2:3.1/#	No hay iniquidad en Él	R	#
+2 Chronicles	19:7	#	2:3.1/#	No hay iniquidad en Él	R	#
+2 Chronicles	19:7	#	12:7.8/#	Dios no hace acepción de personas	C	#
+2 Chronicles	19:7	#	166:4.11/#	El Padre no hace acepción de personas	C	#
+2 Chronicles	19:7	#	192:2.2/#	Dios no hace acepción de personas	C	#
+2 Chronicles	19:7	#	3:1.12/#	No hace acepción de personas	C	#
+2 Chronicles	19:7	#	181:2.14/#	El Padre y el Hijo no hacen acepción de personas	C	#
+2 Chronicles	19:7	#	174:2.2/#	Jesús no hace acepción de personas	C	#
+2 Chronicles	19:7	#	175:2.3/#	Dios no hace acepción de personas	C	#
+2 Chronicles	19:7	#	150:1.3/#	Igualdad de todos los seres humanos	C	#
+2 Chronicles	19:7	#	1:4.6/#	Dios no hace acepción de personas	C	#
+2 Chronicles	19:7	#	143:1.5/#	Mi padre no hace acepción de personas	C	#
+2 Chronicles	19:7	#	148:6.2/#	No hace acepción de personas	C	#
+2 Chronicles	19:7	#	40:10.13/#	Dios no hace acepción de personas	C	#
+2 Chronicles	19:7	#	112:0.10/#	Dios no hace acepción de personas	C	#
+2 Chronicles	19:7	#	133:0.3/#	Dios no hace acepción de personas	C	#
+2 Chronicles	19:7	#	117:6.22/#	No hace acepción de personas	C	#
+2 Chronicles	19:7	#	134:4.7/#	Espiritualmente, todos los hombres son iguales	C	#
+2 Chronicles	20:6	#	79:1.9/#	Un solo Dios en el cielo	C	#
+2 Chronicles	20:7	#	1:5.8/#	La amistad de Dios	C	#
+2 Chronicles	20:15	#	70:1.15/#	Dios de las batallas	R	#
+2 Chronicles	20:15	#	89:6.3/#	Dios de las batallas	R	#
+2 Chronicles	23:11,16-20	#	97:9.21/#	Revuelta del rey niño Joás	C	#
+2 Chronicles	25:27	#	97:9.22/#	Amasías derrotado	C	#
+2 Chronicles	26:1	#	97:9.22/#	Ozías hecho rey	C	#
+2 Chronicles	30:9	#	142:3.7/#	Totalmente misericordioso	C	#
+2 Chronicles	30:9	#	131:10.6/#	La Misericordia	C	#
+2 Chronicles	30:9	#	6:3.2/#	Ministro de la misericordia	C	#
+2 Chronicles	30:9	#	2:5.7/#	Dios es misericordioso	C	#
+2 Chronicles	30:9	#	143:1.6/#	Dios se deleita en la misericordia	C	#
+2 Chronicles	30:18-19	#	1:2.3/#	Buscar a Dios	C	#
+2 Chronicles	30:27	#	89:8.7/#	Oración del hombre justo	C	#
+2 Chronicles	31:5-6,12	#	93:3.1/#	Sistema del diezmo	C	#
+2 Chronicles	32:8	#	70:1.15/#	Dios de las batallas	R	#
+2 Chronicles	32:8	#	174:0.2/#	No confíes en la fuerza de tu brazo	C	#
+2 Chronicles	32:8	#	89:6.3/#	Dios de las batallas	R	#
+2 Chronicles	33:1-3	#	97:9.23/#	El rey niño Manasés	C	#
+2 Chronicles	33:6	#	85:4.4/#	Reverencia al fuego	C	#
+2 Chronicles	33:19	#	85:2.4/#	Arboledas sagradas	C	#
+2 Chronicles	34:9	#	97:9.21/#	El resto de Israel	R	#
+2 Chronicles	34:13-19	#	74:8.11/#	El «descubrimiento» de la Ley	C	#
+2 Chronicles	35:20-24	#	97:9.24/#	El atrevimiento de Josías	C	#
+2 Chronicles	35:20-24	#	126:1.2/#	Josías derrotado	C	#
+2 Chronicles	36:23	#	79:1.9/#	Un solo Dios en el cielo	C	#

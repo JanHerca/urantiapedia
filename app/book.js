@@ -1550,17 +1550,17 @@ class Book {
 	 * @param {?number} paper_index Optional paper index.
 	 * @param {?number} section_index Optional section index.
 	 * @param {?number} par_index Optional paragraph index.
-	 * 
 	 * @return {string}
 	 */
 	getWikiHTMLLink = (text, paper_index, section_index, par_index) => {
 		par_index = (par_index != undefined ? par_index : 1);
 		const bookNameEN = Strings['bookName'].en.replace(/\s/g, '_');
 		// const paperAbbEN = Strings['bookPaperAbb'].en;
-		const indexName = Strings['bookIndexName'].en;
+		const indexName = Strings['bookIndexName'][this.language];
+		const indexNameEN = Strings['bookIndexName'].en;
 		let href = `/${this.language}/${bookNameEN}/`;
 		if (text == 'bookIndexName' || paper_index == undefined) {
-			href += `${indexName}`;
+			href += `${indexNameEN}`;
 			return `<a href="${href}">${indexName}</a>`;
 		}
 		const stri = (paper_index > 99 ? `${paper_index}` : 
@@ -1578,7 +1578,7 @@ class Book {
 	//***********************************************************************
 
 	/**
-	 * Writes `The Urantia Book` in Wiki format, each paper a file.
+	 * Writes `The Urantia Book` in Wiki Text format, each paper a file.
 	 * It requires reading previously from any format.
 	 * @param {string} dirPath Folder path.
 	 * @param {?TopicIndex} topicIndex An optional Topic Index.
@@ -1590,7 +1590,7 @@ class Book {
 	};
 
 	/**
-	 * Writes a paper of `The Urantia Book` in Wiki format.
+	 * Writes a paper of `The Urantia Book` in Wiki Text format.
 	 * @param {string} filePath Output file.
 	 * @param {Object} paper JSON object with the paper.
 	 * @param {?TopicIndex} topicIndex An optional Topic Index.
@@ -1760,7 +1760,7 @@ class Book {
 	};
 
 	/**
-	 * Writes index pages of `The Urantia Book` in Wiki format.
+	 * Writes index pages of `The Urantia Book` in Wiki Text format.
 	 * The name of resulting files are `El_Libro_de_Urantia_Indice.wiki`
 	 * and `El_Libro_de_Urantia_Indice_extendido.wiki` or english equivalents.
 	 * @param {string} dirPath Folder path.
@@ -1870,7 +1870,7 @@ class Book {
 	};
 
 	/**
-	 * Converts the array of footnotes to Wiki text.
+	 * Converts the array of footnotes to Wiki Text.
 	 * @param {Array.<string>} footnotes Array of footnotes.
 	 * @return {Array.<string>}
 	 */

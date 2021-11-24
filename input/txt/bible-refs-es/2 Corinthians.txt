@@ -1,0 +1,192 @@
+2 Corinthians	1:1	#	194:4.7/#	Se llamaban unos a otros hermanos y hermanas	C	#
+2 Corinthians	1:2	#	131:10.8/#	La relación de padre e hijo	C	#
+2 Corinthians	1:2	#	131:10.5/#	Dios es «mi» padre	C	#
+2 Corinthians	1:2	#	141:4.2/#	Dios es nuestro Padre	C	#
+2 Corinthians	1:2	#	131:10.6/#	Relación entre padre e hijo	C	#
+2 Corinthians	1:2	#	149:6.8/#	Dios es nuestro Padre	C	#
+2 Corinthians	1:2	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
+2 Corinthians	1:3	#	194:4.6/#	Padre del Señor Jesucristo	R	#
+2 Corinthians	1:3	#	194:3.11/#	Padre del Señor Jesucristo	C	#
+2 Corinthians	1:3	#	2:4.1/#	Padre de las misericordias	R	#
+2 Corinthians	1:3-4	#	140:9.2/#	Confortad a los oprimidos	S	#
+2 Corinthians	2:13	#	194:4.7/#	Se llamaban unos a otros hermanos y hermanas	C	#
+2 Corinthians	2:14	#	1:5.16/#	Dios triunfa con nosotros	R	#
+2 Corinthians	2:15	#	89:4.3/#	Aroma agradable para el olfato de Dios	C	#
+2 Corinthians	3:1-3	#	27:5.1/#	Epístolas vivientes	R	#
+2 Corinthians	3:6	#	34:6.5/#	El Espíritu da la vida	R	#
+2 Corinthians	3:16-17	#	169:4.2/#	Dios es espíritu	R	#
+2 Corinthians	3:16-17	#	169:4.6/#	Dios es espíritu	R	#
+2 Corinthians	3:16-17	#	169:4.13/#	Dios es espíritu	S	#
+2 Corinthians	3:17	#	103:5.11/#	Donde está el espíritu del Señor, hay libertad	R	#
+2 Corinthians	3:17	#	170:2.2/#	El evangelio libera a los hombres	C	#
+2 Corinthians	3:17	#	194:3.14/#	El espíritu es libertad	R	#
+2 Corinthians	3:17	#	143:2.4/#	Hijos liberados del Espíritu	C	#
+2 Corinthians	3:17	#	160:5.11/#	Dios es espíritu	C	#
+2 Corinthians	3:17	#	45:4.5/#	El Gran Espíritu	R	#
+2 Corinthians	3:17	#	194:3.5/#	El espíritu es libertad	R	#
+2 Corinthians	3:18	#	181:1.2/#	De gloria en gloria	C	#
+2 Corinthians	4:4	#	67:2.4/#	Dios de este mundo	R	#
+2 Corinthians	4:4	#	53:8.5/#	Dios de Urantia	R	#
+2 Corinthians	4:4	#	51:3.9/#	Antiguo Príncipe Planetario	C	#
+2 Corinthians	5:1	#	48:1.7/#	Ciudad cuyo constructor es Dios	R	#
+2 Corinthians	5:1	#	44:3.1/#	Cuyo constructor y hacedor es Dios	R	#
+2 Corinthians	5:7	#	174:0.2/#	Camina por la fe y no por la vista	C	#
+2 Corinthians	5:17-19	#	143:2.4/#	Transformación	C	#
+2 Corinthians	5:17	#	143:2.3/#	El orden antiguo y el nuevo	C	#
+2 Corinthians	5:17	#	100:7.18/#	Si un hombre tiene a Cristo Jesús dentro de él	R	#
+2 Corinthians	5:17	#	156:5.5/#	Lo viejo será superado por lo nuevo	C	#
+2 Corinthians	5:17	#	55:6.4/#	La cosas viejas se hacen nuevas	R	#
+2 Corinthians	5:18-21	#	1:5.4/#	El amor de Dios por el mundo	C	#
+2 Corinthians	5:19	#	98:7.1/#	Reconciliación de Cristo	R	#
+2 Corinthians	5:20	#	174:0.2/#	Asignación como embajadores	C	#
+2 Corinthians	5:20	#	140:3.1/#	Sois embajadores	C	#
+2 Corinthians	5:20	#	140:3.14/#	Embajadores del reino	S	#
+2 Corinthians	5:21	#	186:5.7/#	Contra la idea de la expiación del pecado	C	#
+2 Corinthians	6:3-10	#	143:1.6/#	Exigencia de un servicio valiente	C	#
+2 Corinthians	6:16	#	134:4.7/#	El espíritu interior	C	#
+2 Corinthians	6:16	#	110:1.5/#	El cuerpo es el tabernáculo	C	#
+2 Corinthians	6:16	#	167:7.4/#	El espíritu de Dios vive en vosotros	C	#
+2 Corinthians	6:16	#	133:4.4/#	Dios habita en tu alma	C	#
+2 Corinthians	6:16	#	108:6.2/#	Reino de los cielos dentro de vosotros	C	#
+2 Corinthians	6:16	#	107:4.7/#	El Ajustador, espíritu interior	C	#
+2 Corinthians	6:16	#	3:1.4/#	Vive en nosotros	R	#
+2 Corinthians	6:16	#	143:2.4/#	Seréis los templos de Dios	C	#
+2 Corinthians	6:16	#	131:10.4/#	El espíritu de Dios está en el corazón del hombre	C	#
+2 Corinthians	6:16	#	2:5.6/#	Su espíritu vive en nosotros	C	#
+2 Corinthians	6:16	#	170:2.20/#	El Reino de Dios dentro de nosotros	C	#
+2 Corinthians	6:16	#	5:2.3/#	El espíritu viviendo dentro	C	#
+2 Corinthians	6:16	#	12:7.12/#	Dios vive en nosotros	C	#
+2 Corinthians	6:16	#	140:1.5/#	El reino es Dios dentro de vosotros	C	#
+2 Corinthians	6:16	#	195:10.4/#	El reino de Dios está dentro de vosotros	S	#
+2 Corinthians	6:16	#	103:1.6/#	El espíritu en el hombre (Ajustador del Pensamiento)	C	#
+2 Corinthians	6:16	#	16:9.4/#	El espíritu de Dios vive en nosotros	C	#
+2 Corinthians	6:16	#	170:1.8/#	El reino dentro de ti	S	#
+2 Corinthians	6:16	#	34:6.7/#	Sois el templo de Dios, y os habita el espíritu	C	#
+2 Corinthians	6:16	#	141:2.1/#	El espíritu de Dios dentro de nosotros	C	#
+2 Corinthians	6:16	#	1:4.2/#	El cuerpo es el templo de Dios	R	#
+2 Corinthians	6:16	#	34:6.7/#	Sois el templo de Dios, y os habita el espíritu	R	#
+2 Corinthians	6:16	#	146:3.5/#	Espíritu viviente del Padre	C	#
+2 Corinthians	6:16	#	133:4.5/#	El espíritu de Dios vive en nosotros	C	#
+2 Corinthians	6:16	#	148:6.10/#	Dios habita dentro de ti	C	#
+2 Corinthians	6:16	#	131:10.2/#	El espíritu de Dios habita en nuestra alma	C	#
+2 Corinthians	6:18	#	5:4.8/#	Somos hijos de Dios	C	#
+2 Corinthians	6:18	#	131:10.5/#	Dios es «mi» padre	C	#
+2 Corinthians	6:18	#	170:2.8/#	Los hijos salvados de Dios	S	#
+2 Corinthians	6:18	#	2:5.4/#	Somos hijos de Dios	C	#
+2 Corinthians	6:18	#	170:2.20/#	Hijos de Dios liberados	C	#
+2 Corinthians	6:18	#	131:10.6/#	Relación entre padre e hijo	C	#
+2 Corinthians	6:18	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
+2 Corinthians	6:18	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
+2 Corinthians	6:18	#	141:4.2/#	Dios es nuestro Padre	C	#
+2 Corinthians	6:18	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
+2 Corinthians	6:18	#	131:10.8/#	La relación de padre e hijo	C	#
+2 Corinthians	6:18	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
+2 Corinthians	6:18	#	190:3.1/#	El evangelio de la filiación	C	#
+2 Corinthians	6:18	#	196:0.2/#	Cada criatura mortal es un hijo de Dios	C	#
+2 Corinthians	6:18	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
+2 Corinthians	6:18	#	8:6.4/#	Hijos de Dios	C	#
+2 Corinthians	6:18	#	170:2.20/#	Hijos de Dios	C	#
+2 Corinthians	6:18	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
+2 Corinthians	6:18	#	181:2.12/#	Los creyentes, hijos de Dios	C	#
+2 Corinthians	6:18	#	181:2.14/#	Los creyentes son hijos de Dios	C	#
+2 Corinthians	6:18	#	193:1.2/#	Todos los hombres son hijos de Dios	C	#
+2 Corinthians	6:18	#	149:6.8/#	Dios es nuestro Padre	C	#
+2 Corinthians	6:18	#	153:2.4/#	Fraternidad de los hijos de Dios	C	#
+2 Corinthians	6:18	#	140:1.6/#	Hijos del Dios viviente	C	#
+2 Corinthians	6:18	#	40:6.1/#	Hijos de Dios por la fe	C	#
+2 Corinthians	6:18	#	149:6.8/#	Dios es nuestro Padre	C	#
+2 Corinthians	6:18	#	140:3.16/#	Hijos del Dios viviente	C	#
+2 Corinthians	6:18	#	131:10.2/#	Somos los hijos de Dios	C	#
+2 Corinthians	6:18	#	141:4.2/#	Somos los hijos de Dios	C	#
+2 Corinthians	6:18	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
+2 Corinthians	6:18	#	143:2.7/#	Los hijos liberados de Dios	C	#
+2 Corinthians	6:18	#	142:5.2/#	Hijos de Dios	C	#
+2 Corinthians	6:18	#	34:6.10/#	Hijos de Dios	C	#
+2 Corinthians	6:18	#	141:2.2/#	Hijos de Dios por la fe	C	#
+2 Corinthians	6:18	#	1:3.1/#	Progenie de Dios	C	#
+2 Corinthians	6:18	#	149:2.10/#	Hijos del Dios viviente	C	#
+2 Corinthians	7:1	#	143:2.6/#	Purificarse	C	#
+2 Corinthians	8:18,22	#	194:4.7/#	Se llamaban unos a otros hermanos y hermanas	C	#
+2 Corinthians	9:6	#	192:2.8/#	Se cosecha lo que se siembra	C	#
+2 Corinthians	9:10	#	85:2.2/#	Lecciones espirituales	C	#
+2 Corinthians	9:15	#	110:2.2/#	La supervivencia es un don	C	#
+2 Corinthians	9:15	#	3:1.4/#	El don del Padre	C	#
+2 Corinthians	9:15	#	131:10.6/#	Dar gracias a Dios por sus dones	C	#
+2 Corinthians	10:7	#	174:0.2/#	Ignora las apariencias exteriores	C	#
+2 Corinthians	11:14	#	31:7.1/#	Evángel de Luz	C	#
+2 Corinthians	11:14	#	67:1.1/#	Satanás, brillante criatura	R	#
+2 Corinthians	11:22	#	121:1.2/#	Pablo, hebreo entre los hebreos	S	#
+2 Corinthians	11:31	#	194:3.11/#	Padre del Señor Jesucristo	C	#
+2 Corinthians	11:31	#	194:4.6/#	Padre del Señor Jesucristo	R	#
+2 Corinthians	12:2	#	48:6.12/#	Elevado al tercer cielo	R	#
+2 Corinthians	12:4	#	19:7.1/#	Paraíso	C	#
+2 Corinthians	12:4	#	0:4.11/#	El Paraíso	C	#
+2 Corinthians	12:7	#	48:4.14/#	Desenaltecerse	C	#
+2 Corinthians	12:18	#	194:4.7/#	Se llamaban unos a otros hermanos y hermanas	C	#
+2 Corinthians	13:5	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
+2 Corinthians	13:5	#	34:4.1/#	El Espíritu de la Verdad	C	#
+2 Corinthians	13:5	#	32:5.8/#	Espíritu de la Verdad	C	#
+2 Corinthians	13:5	#	180:6.3/#	El Espíritu de la Verdad	C	#
+2 Corinthians	13:5	#	180:3.3/#	Promesa del confortador	C	#
+2 Corinthians	13:5	#	180:4.5/#	Os enviaré mi «espíritu»	C	#
+2 Corinthians	13:5	#	181:1.4/#	Derramaré mi espíritu sobre toda la carne	C	#
+2 Corinthians	13:5	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
+2 Corinthians	13:5	#	191:6.3/#	El Espíritu de la Verdad	C	#
+2 Corinthians	13:5	#	121:7.5/#	Nuevo espiritu que vive en el corazón de los hombres	C	#
+2 Corinthians	13:5	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
+2 Corinthians	13:5	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
+2 Corinthians	13:5	#	193:5.2/#	Envío del Espíritu de la Verdad	C	#
+2 Corinthians	13:5	#	21:5.7/#	El Espíritu de la Verdad	C	#
+2 Corinthians	13:5	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
+2 Corinthians	13:5	#	20:6.8/#	Espíritu de la Verdad	C	#
+2 Corinthians	13:5	#	181:2.14/#	Seguid al nuevo instructor en vuestros corazones	C	#
+2 Corinthians	13:5	#	20:1.6/#	El Hijo vertió el espíritu sobre la carne	C	#
+2 Corinthians	13:5	#	34:7.1/#	Espíritu de la Verdad	C	#
+2 Corinthians	13:5	#	137:8.7/#	Espíritu de la Verdad	C	#
+2 Corinthians	13:5	#	120:2.6/#	El Espíritu de la Verdad	C	#
+2 Corinthians	13:5	#	120:2.4/#	Espíritu de la Verdad	C	#
+2 Corinthians	13:5	#	146:3.6/#	El Espíritu de la Verdad	C	#
+2 Corinthians	13:5	#	141:4.5/#	Jesús envió a Su Espíritu	C	#
+2 Corinthians	13:5	#	52:5.6/#	Espíritu derramado sobre toda carne	R	#
+2 Corinthians	13:5	#	34:5.5/#	Espíritu de la Verdad	C	#
+2 Corinthians	13:11	#	106:2.6/#	Sed perfectos	C	#
+2 Corinthians	13:11	#	107:0.3/#	Sed perfectos	C	#
+2 Corinthians	13:11	#	143:1.6/#	Dios de amor	C	#
+2 Corinthians	13:11	#	143:1.4/#	Dios gobierna mediante el amor	C	#
+2 Corinthians	13:11	#	31:3.6/#	Sed perfectos	R	#
+2 Corinthians	13:11	#	181:1.2/#	Convertirse en perfectos espiritualmente	C	#
+2 Corinthians	13:11	#	181:2.25/#	Perfecionarse espiritualmente	C	#
+2 Corinthians	13:11	#	156:5.11/#	El amor divino	C	#
+2 Corinthians	13:11	#	13:2.8/#	Ser perfectos	C	#
+2 Corinthians	13:11	#	143:2.6/#	Buscad la perfección	C	#
+2 Corinthians	13:11	#	196:3.16/#	Una religión de AMOR	C	#
+2 Corinthians	13:11	#	195:10.4/#	Dios es un espíritu amoroso	C	#
+2 Corinthians	13:11	#	7:5.1/#	Sed perfectos	R	#
+2 Corinthians	13:11	#	7:4.7/#	Sed perfectos	R	#
+2 Corinthians	13:11	#	99:5.3/#	Sed perfectos	C	#
+2 Corinthians	13:11	#	26:11.4/#	Sed perfectos	R	#
+2 Corinthians	13:11	#	26:9.3/#	Sed perfectos	R	#
+2 Corinthians	13:11	#	26:4.5/#	Sed perfectos	R	#
+2 Corinthians	13:11	#	161:1.10/#	Sed perfectos	C	#
+2 Corinthians	13:11	#	140:10.1/#	Sed perfectos	C	#
+2 Corinthians	13:11	#	142:7.13/#	Sed perfectos	C	#
+2 Corinthians	13:11	#	140:8.32/#	Sed perfectos	C	#
+2 Corinthians	13:11	#	37:5.3/#	Sed perfectos	R	#
+2 Corinthians	13:11	#	140:5.15/#	Sed perfectos	R	#
+2 Corinthians	13:11	#	1:0.3/#	Sed perfectos	C	#
+2 Corinthians	13:11	#	40:7.4/#	Sed perfectos	R	#
+2 Corinthians	13:11	#	131:2.6/#	Sé perfecto	R	#
+2 Corinthians	13:11	#	1:0.6/#	Sed perfectos	C	#
+2 Corinthians	13:11	#	137:8.13/#	Sed perfectos	C	#
+2 Corinthians	13:11	#	140:3.16/#	Sed perfectos	C	#
+2 Corinthians	13:11	#	140:4.11/#	Sed perfectos	C	#
+2 Corinthians	13:11	#	56:0.1/#	Sed perfectos como yo soy	R	#
+2 Corinthians	13:12	#	194:4.7/#	Se besaban con un beso puro	C	#
+2 Corinthians	13:14	#	104:1.12/#	Concepto posterior de la Trinidad	C	#
+2 Corinthians	13:14	#	118:10.2/#	La Trinidad	C	#
+2 Corinthians	13:14	#	10:0.2/#	La Trinidad del Paraíso	C	#
+2 Corinthians	13:14	#	194:4.9/#	La Trinidad (visión posterior de Pablo)	C	#
+2 Corinthians	13:14	#	21:2.8/#	Personalidades de la Trinidad	C	#
+2 Corinthians	13:14	#	0:12.2/#	La Trinidad del Paraíso	C	#
+2 Corinthians	13:14	#	56:5.1/#	La Trinidad	C	#
+2 Corinthians	13:14	#	79:3.4/#	Trinidad del Paraíso	C	#

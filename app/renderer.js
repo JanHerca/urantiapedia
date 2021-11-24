@@ -304,20 +304,20 @@ const handle_exeButtonClick = () => {
 		return;
 	}
 
-	if (process ==='BIBREF_TXT_LU_JSON_TO_TXT') {
+	if (process ==='BIBLEREF_TXT_BOOK_JSON_TO_TXT') {
 		// Read UB (*.json) + Bible Refs (*.txt) => write translation (*.txt)
 		book.readFromJSON(jsonDir)
 			.then(() => bibleref.readFromTXT(txtDir))
 			.then(() => bibleref.translate(txtDir, book))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'LU_JSON_TO_BIBREF_JSON') {
+	} else if (process === 'BOOK_JSON_TO_BIBLEREF_JSON') {
 		// Read UB (*.json) from a translation with Bible Refs => write (*.json)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeRefsToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'LU_JSON_BIBLEREF_JSON_TO_JSON') {
+	} else if (process === 'BOOK_JSON_BIBLEREF_JSON_TO_JSON') {
 		//Read UB (*.json) + Bible Refs (*.json) => write (*.json)
 		book.readFromJSON(jsonDir)
 			.then(() => book.readRefsFromJSON(jsonDir))
@@ -335,19 +335,19 @@ const handle_exeButtonClick = () => {
 			})
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'LU_HTML_TO_JSON') {
+	} else if (process === 'BOOK_HTML_TO_JSON') {
 		// Read UB (*.html) => write (*.json)
 		book.readFromHTML(htmlDir)
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'LU_TEX_TO_JSON') {
+	} else if (process === 'BOOK_TEX_TO_JSON') {
 		// Read UB (*.tex) => write (*.json)
 		book.readFromLaTeX(latexDir)
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'LU_TEX_TOPIC_TXT_TO_WIKITEXT') {
+	} else if (process === 'BOOK_TEX_TOPIC_TXT_TO_WIKITEXT') {
 		// Read UB (*.tex) + Topic Index (*.txt) => write (*.wiki)
 		book.readFromLaTeX(latexDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
@@ -355,7 +355,7 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeWarnings(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'LU_JSON_TOPIC_TXT_TO_WIKIHTML') {
+	} else if (process === 'BOOK_JSON_TOPIC_TXT_TO_WIKIHTML') {
 		book.readFromJSON(jsonDir)
 			.then(() => topicindex.readFromTXT(txtDir, 'ALL'))
 			.then(() => {
@@ -366,19 +366,19 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeToWikiHTML(htmlDir, topicindex, topicindexEN))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'LU_TEX_TO_XML') {
+	} else if (process === 'BOOK_TEX_TO_XML') {
 		// Read UB (*.tex) => write Wiki (*.xml)
 		// book.readFromLaTeX(latexDir)
 		// 	.then(() => book.writeToWikiXML(wikiDir, merge))
 		// 	.then(() => onSuccess(okMsgs))
 		// 	.catch(onFail);
-	} else if (process === 'LU_JSON_TO_TEX') {
+	} else if (process === 'BOOK_JSON_TO_TEX') {
 		// Read UB (*.json) => write (*.tex) 
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeToLaTeX(latexDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'LU_JSON_TOPIC_TXT_TO_WIKITEXT') {
+	} else if (process === 'BOOK_JSON_TOPIC_TXT_TO_WIKITEXT') {
 		// Read UB (*.json) + Topic Index (*.txt) => write (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
@@ -386,44 +386,51 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeWarnings(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'LU_JSON_TO_XML') {
+	} else if (process === 'BOOK_JSON_TO_XML') {
 		// Read UB (*.json) => write Wiki (*.xml)
 		// book.readFromJSON(jsonDir)
 		// 	.then(() => book.writeToWikiXML(wikiDir))
 		// 	.then(() => onSuccess(okMsgs))
 		// 	.catch(onFail);
-	} else if (process === 'LUINDEX_JSON_TO_WIKI') {
+	} else if (process === 'BOOKINDEX_JSON_TO_WIKITEXT') {
 		//Read UB (*.json) => write Indexes (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeIndexToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BIB_TEX_BIBREF_TXT_TO_WIKI') {
+	} else if (process === 'BIBLE_TEX_BIBLEREF_TXT_TO_WIKITEXT') {
 		// Read Bible Refs (*.txt) + read Bible (*.tex) => write (*.wiki)
 		bibleref.readFromTXT(txtDir)
 			.then(() => bible.readFromLaTeX(latexDir))
 			.then(() => bible.writeToWikiText(wikiDir, bibleref))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BIB_TEX_TO_BIBINDEX_WIKI') {
+	} else if (process === 'BIBLE_TEX_BIBLEREF_TXT_TO_WIKIHTML') {
+		// Read Bible Refs (*.txt) + read Bible (*.tex) => write (*.html)
+		bibleref.readFromTXT(txtDir)
+			.then(() => bible.readFromLaTeX(latexDir))
+			.then(() => bible.writeToWikiHTML(htmlDir, bibleref))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'BIBLE_TEX_TO_BIBLEINDEX_WIKITEXT') {
 		// Read Bible (*.tex) => write index (*.wiki)
 		bible.readFromLaTeX(latexDir)
 			.then(() => bible.writeIndexToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BIB_TEX_TO_XML') {
+	} else if (process === 'BIBLE_TEX_TO_XML') {
 		// Read Bible (*.tex) => write Wiki (*.xml)
 		// bible.readFromLaTeX(latexDir)
 		// 	.then(() => bible.writeToWikiXML(wikiDir, merge))
 		// 	.then(() => onSuccess(okMsgs))
 		// 	.catch(onFail);
-	} else if (process === 'TOPIC_TXT_TO_WIKI') {
+	} else if (process === 'TOPIC_TXT_TO_WIKITEXT') {
 		// Read TopicIndex (*.txt) => write (*.wiki)
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => topicindex.writeToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'TOPICINDEX_TXT_TO_WIKI') {
+	} else if (process === 'TOPICINDEX_TXT_TO_WIKITEXT') {
 		// Read TopicIndex index (*.txt) => write (*.wiki)
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => topicindex.writeIndexToWikiText(wikiDir))
@@ -453,7 +460,7 @@ const handle_exeButtonClick = () => {
 		topicindex.normalize(txtDir)
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'ARTICLE_TXT_TO_WIKI') {
+	} else if (process === 'ARTICLE_TXT_TO_WIKITEXT') {
 		// Read TXT folder => write (*.wiki)
 		articles.readFromTXT(txtDir)
 			.then(() => articles.writeToWikiText(wikiDir))

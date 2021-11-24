@@ -10,6 +10,29 @@ const Strings = require('./strings');
 
 class BibleRef {
 	language = 'en';
+	/**
+	 * @example
+	 * 
+	 * biblebooks = [
+	 *   {
+	 *     titleEN: '1 Chronicles',
+	 *     title: 'I Crónicas',
+	 *     file: '1 Chronicles.txt',
+	 *     abb: '1 Cr',
+	 *     refs: [
+	 *       {
+	 *         bible_ref: '10:1-5',
+	 *         bible_chapter: 10,
+	 *         bible_vers: 1,
+	 *         lu_ref: '134:9.5',
+	 *         text: 'Gilboa, donde murió Saúl',
+	 *         type: 'C'
+	 *       },
+	 *       ...
+	 *     ]
+	 *   }
+	 * ];
+	 */
 	biblebooks = [];
 	onProgressFn = null;
 
@@ -60,15 +83,22 @@ class BibleRef {
 	};
 
 	extractFromTXT = (baseName, lines, errors) => {
-		const book = {
-			name: baseName,
-			file: path.basename(baseName, '.txt'),
-			chapters: []
-		};
-		const booknames = Object.values(BibleAbbs[this.language])
-			.map(e => e[0]).map(n => n.replace(/ /g,"_"));
+		const booknameEN = path.basename(baseName, '.txt');
+		const booknamesEN = Object.values(BibleAbbs.en).map(e => e[0]);
+		const booknames = Object.values(BibleAbbs[this.language]).map(e => e[0]);
 		const bookabbs = Object.keys(BibleAbbs[this.language]);
-		book.abb = bookabbs[booknames.indexOf(book.file)];
+		const bookIndex = booknamesEN.indexOf(booknameEN);
+		if (bookIndex === -1) {
+			errors.push(this.getError('bibleref_bookname_invalid', baseName, 0));
+			return {};
+		}
+		const book = {
+			titleEN: booknameEN,
+			title: booknames[bookIndex],
+			abb: bookabbs[bookIndex],
+			file: baseName,
+			refs: []
+		};
 
 		lines.forEach((line, i) => {
 			let data = null, ref, data2, data3, bible_ref, chapter, vers;
@@ -94,13 +124,6 @@ class BibleRef {
 						if (chapter === 0 || vers === 0 || isNaN(chapter) || vers == null) {
 							errors.push(this.getError('bibleref_bad_number', baseName, i));
 						} else {
-							if (!book.chapters[chapter - 1]) {
-								book.chapters[chapter - 1] = [];
-							}
-							if (!book.chapters[chapter - 1][vers - 1]) {
-								book.chapters[chapter - 1][vers - 1] = [];
-							}
-							
 							ref = {
 								bible_ref: bible_ref,
 								bible_chapter: chapter,
@@ -109,7 +132,7 @@ class BibleRef {
 								text: data[4],
 								type: data[5].trim()
 							};
-							book.chapters[chapter - 1][vers - 1].push(ref);
+							book.refs.push(ref);
 						}
 					}
 				}

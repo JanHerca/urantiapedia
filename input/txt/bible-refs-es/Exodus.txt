@@ -1,0 +1,240 @@
+Exodus	2:1-10	#	89:7.3/#	Niños abandonados en ríos (Moisés)	C	#
+Exodus	2:1-10	#	96:3.1/#	Padres de Moisés	C	#
+Exodus	2:16	#	90:1.1/#	Chamán sacerdote	C	#
+Exodus	2:16-21	#	82:5.6/#	Exogamia	C	#
+Exodus	3:1,12	#	85:1.5/#	Montañas sagradas	C	#
+Exodus	3:2	#	37:2.3/#	El ángel del Señor	R	#
+Exodus	3:2	#	85:4.2/#	Ángeles del fuego	C	#
+Exodus	3:2	#	85:5.3/#	Bebés abandonados en botes	C	#
+Exodus	3:4-17	#	156:5.4/#	«Dios me ha dicho»	C	#
+Exodus	3:6	#	174:3.2/#	El poder viviente de Dios	C	#
+Exodus	3:6	#	174:3.4/#	El Dios de los vivos	C	#
+Exodus	3:6	#	1:1.6/#	Llamar a Dios «Dios»	C	#
+Exodus	3:6	#	182:1.9/#	YO SOY	C	#
+Exodus	3:7	#	148:5.5/#	Conozco vuestros pesares	R	#
+Exodus	3:7	#	3:3.2/#	Conozco sus penas	R	#
+Exodus	3:8,17	#	96:2.2/#	Abundaba en leche y miel	R	#
+Exodus	3:13-14	#	103:7.12/#	YO SOY	C	#
+Exodus	3:13-14	#	0:3.16/#	YO SOY	C	#
+Exodus	3:13-14	#	105:1.1/#	YO SOY	C	#
+Exodus	3:13-14	#	106:3.5/#	YO SOY	C	#
+Exodus	3:13-14	#	102:3.10/#	El Infinito YO SOY	C	#
+Exodus	3:14	#	118:1.9/#	YO SOY	C	#
+Exodus	3:14	#	2:1.5/#	YO SOY	C	#
+Exodus	3:14	#	182:1.9/#	YO SOY el que SOY	C	#
+Exodus	3:16-18	#	70:5.2/#	Consejo de ancianos	C	#
+Exodus	4:2-4	#	88:1.5/#	Veneración de las serpientes	C	#
+Exodus	4:2-4	#	85:3.3/#	Adoración de las serpientes	C	#
+Exodus	4:14	#	4:3.2/#	La visión de Dios como colérico o airado	C	#
+Exodus	4:21	#	156:5.4/#	Endureció el corazón del faraón	R	#
+Exodus	5:1	#	96:1.9/#	Señor Dios de Israel	C	#
+Exodus	5:1	#	45:4.14/#	El Dios de Israel	R	#
+Exodus	6:2	#	142:3.6/#	Elohim (los Dioses) crearon	R	#
+Exodus	6:2	#	96:1.8/#	Elohim	C	#
+Exodus	6:3	#	96:1.10/#	Jehová	C	#
+Exodus	6:3	#	96:1.5/#	El Shaddai	C	#
+Exodus	6:3	#	142:3.5/#	El Shaddai, Deidad creadora	S	#
+Exodus	6:3	#	131:10.6/#	El Todopoderoso	C	#
+Exodus	6:3	#	142:3.3/#	Yahvé, el dios de los clanes del Sinaí	S	#
+Exodus	6:3	#	96:1.3/#	Yahvé	C	#
+Exodus	7:3	#	156:5.4/#	Endureció el corazón del faraón	R	#
+Exodus	7:9-12	#	88:1.5/#	Veneración de las serpientes	C	#
+Exodus	7:9-12	#	85:3.3/#	Adoración de las serpientes	C	#
+Exodus	7:13	#	96:5.7/#	Endurecido el corazón del faraón	R	#
+Exodus	9:15	#	96:6.3/#	Dios de poder	C	#
+Exodus	9:16	#	131:10.6/#	El Poder	C	#
+Exodus	9:16	#	131:10.3/#	Dios es todopoderoso	C	#
+Exodus	9:16	#	142:3.7/#	Todopoderoso	C	#
+Exodus	9:16	#	1:1.4/#	El poder de Dios	C	#
+Exodus	9:18-26	#	85:4.3/#	El granizo	C	#
+Exodus	9:23	#	85:4.3/#	El trueno	C	#
+Exodus	12:1-28	#	127:6.7/#	Comer la Pascua según la «ley de Moisés»	R	#
+Exodus	12:3-5	#	85:3.4/#	Cordero sacrificial	C	#
+Exodus	12:5	#	89:4.8/#	Sacrificio de los mejor de todo	C	#
+Exodus	12:6-11	#	142:3.13/#	Guardaréis la fiesta de los ácimos	S	#
+Exodus	12:7,12-13	#	89:7.2/#	Sacrificio de niños	C	#
+Exodus	12:8	#	92:2.2/#	Carne asada y pan	R	#
+Exodus	12:16	#	128:6.6/#	Santa asamblea	R	#
+Exodus	13:1-2	#	122:9.1/#	Rendención de los primogénitos	C	#
+Exodus	13:2	#	90:5.3/#	de los niños primogénitos	C	#
+Exodus	13:2,12	#	142:3.14/#	Todos los machos primogénitos son del Señor	S	#
+Exodus	13:12-13	#	89:7.1/#	Dios acepta el rescate	C	#
+Exodus	13:15	#	122:9.1/#	Redención	C	#
+Exodus	13:21-22	#	69:6.4/#	El fetiche del fuego	C	#
+Exodus	13:21-22	#	85:4.2/#	Ángeles del fuego	C	#
+Exodus	14:4,17	#	156:5.4/#	Endureció el corazón del faraón	R	#
+Exodus	14:8-29	#	96:3.5/#	El éxodo	C	#
+Exodus	14:13	#	152:5.3/#	No temáis, permaneced tranquilos y ved la salvación	R	#
+Exodus	15:2	#	2:6.3/#	Dios de salvación	C	#
+Exodus	15:3	#	96:5.7/#	El Señor es un guerrero	R	#
+Exodus	15:6	#	1:1.4/#	El poder de Dios	C	#
+Exodus	15:6	#	131:10.3/#	Dios es todopoderoso	C	#
+Exodus	15:6	#	142:3.7/#	Todopoderoso	C	#
+Exodus	15:6	#	96:5.7/#	Con un poder glorioso	R	#
+Exodus	15:6	#	96:5.7/#	Con un poder glorioso	R	#
+Exodus	15:6	#	131:10.6/#	El Poder	C	#
+Exodus	15:7	#	20:6.7/#	«Cólera divina»	C	#
+Exodus	15:11	#	96:5.5/#	Quién es como nuestro Dios entre todos	R	#
+Exodus	15:11	#	97:1.7/#	¿Quién puede ser comparado?	R	#
+Exodus	16:10	#	85:4.3/#	Nubes amenazadoras	C	#
+Exodus	16:14-15	#	153:2.8/#	El maná en el desierto	R	#
+Exodus	16:23-26	#	95:1.2/#	Costumbre de guardar el sábado	C	#
+Exodus	18:9	#	131:10.4/#	Si más pudieran enterarse de la bondad de Dios	C	#
+Exodus	19:3,11-23	#	85:1.5/#	Montañas sagradas	C	#
+Exodus	19:6	#	137:8.4/#	Un pueblo santo	R	#
+Exodus	19:9,16	#	85:4.3/#	Nubes amenazadoras	C	#
+Exodus	19:10,14	#	90:5.3/#	de las personas	C	#
+Exodus	19:16-18	#	142:3.21/#	El monte Sinaí	C	#
+Exodus	19:18	#	96:4.5/#	La montaña de Yahvé se consumía en el fuego	R	#
+Exodus	19:18	#	85:4.2/#	Ángeles del fuego	C	#
+Exodus	20:1-17	#	142:3.21/#	Los diez mandamientos	C	#
+Exodus	20:3	#	160:5.9/#	Un único Dios y los dioses falsos	C	#
+Exodus	20:3	#	142:3.11/#	No adorarás a ningún otro dios	S	#
+Exodus	20:3	#	66:7.9/#	Servirás sólo a Dios Padre	C	#
+Exodus	20:3	#	133:4.9/#	Adora sólo a Dios	C	#
+Exodus	20:3-5a	#	136:9.3/#	Servir sólo al Señor Dios	R	#
+Exodus	20:3-17	#	89:1.4/#	Los diez mandamientos como tabúes	C	#
+Exodus	20:3-17	#	163:2.4/#	Cumplir los mandamientos	S	#
+Exodus	20:3-17	#	131:2.12/#	Diez mandamientos	R	#
+Exodus	20:4	#	88:2.5/#	Ninguna imagen tallada de nada	R	#
+Exodus	20:4	#	142:4.2/#	Moisés combatió la idolatría	C	#
+Exodus	20:4	#	142:3.12/#	No fundiréis imágenes de los dioses	S	#
+Exodus	20:4	#	89:2.1/#	«No harás»	C	#
+Exodus	20:5	#	142:2.1/#	Moisés dijo que Dios es celoso	C	#
+Exodus	20:5	#	96:4.6/#	Dios celoso	R	#
+Exodus	20:5	#	4:3.1/#	Dios celoso `del' hombre	C	#
+Exodus	20:6	#	6:3.2/#	Ministro de la misericordia	C	#
+Exodus	20:6	#	2:5.7/#	Dios es misericordioso	C	#
+Exodus	20:6	#	143:1.6/#	Dios se deleita en la misericordia	C	#
+Exodus	20:6	#	142:3.7/#	Totalmente misericordioso	C	#
+Exodus	20:6	#	66:7.10/#	Respetarás/obedecerás a tus dioses	C	#
+Exodus	20:6	#	131:10.6/#	La Misericordia	C	#
+Exodus	20:7	#	88:5.5/#	Nombres como fetiches	C	#
+Exodus	20:8-11	#	74:4.6/#	Tradición del sábado	C	#
+Exodus	20:8-11	#	142:3.15/#	El séptimo día descansaréis	S	#
+Exodus	20:8-11	#	95:1.2/#	Costumbre de guardar el sábado	C	#
+Exodus	20:9-11	#	74:8.1/#	Tradición del sábado	C	#
+Exodus	20:10	#	27:4.3/#	Extraños que están puertas adentro	R	#
+Exodus	20:11	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Exodus	20:11	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
+Exodus	20:11	#	142:3.7/#	Creador Universal	C	#
+Exodus	20:11	#	128:1.10/#	Creador de los cielos y de la Tierra	C	#
+Exodus	20:11	#	131:2.2/#	Dios creó todo	C	#
+Exodus	20:11	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
+Exodus	20:11	#	95:5.9/#	Dios como creador de todo	C	#
+Exodus	20:11	#	0:2.9/#	Dios como creador de todo	C	#
+Exodus	20:11	#	44:5.8/#	Descanso divino y físico	C	#
+Exodus	20:11	#	2:1.2/#	Creador fiel y divino	C	#
+Exodus	20:11	#	74:8.1/#	Tradición de la creación	C	#
+Exodus	20:11	#	131:10.6/#	El Creador	C	#
+Exodus	20:11	#	142:3.21/#	Creación en seis días	C	#
+Exodus	20:11	#	6:1.3/#	Dios ha hecho todo	C	#
+Exodus	20:12	#	66:7.15/#	Respetarás a tus padres y ancianos	C	#
+Exodus	20:12	#	124:4.9/#	Honra a tu padre y a tu madre	R	#
+Exodus	20:12	#	153:3.3/#	Respeto por los padres	R	#
+Exodus	20:13	#	140:6.4/#	Habéis oído «No matarás»	R	#
+Exodus	20:13	#	70:11.2/#	No matarás	R	#
+Exodus	20:13	#	162:2.1/#	No matarás	R	#
+Exodus	20:13	#	66:7.12/#	No matarás	C	#
+Exodus	20:14	#	140:6.5/#	No cometáis adulterio	R	#
+Exodus	20:15	#	66:7.13/#	No robarás	C	#
+Exodus	20:16	#	66:7.11/#	No mentirás ante los jueces	C	#
+Exodus	20:17	#	66:7.14/#	No tocarás a la esposa de tu amigo	C	#
+Exodus	20:17	#	165:4.8/#	No codiciarás	R	#
+Exodus	20:21	#	2:1.1/#	Residir en espesas tinieblas	R	#
+Exodus	20:24	#	63:6.4/#	Sacrificios de sangre	C	#
+Exodus	20:25	#	92:2.2/#	Altar de piedra no labrada	R	#
+Exodus	21:23	#	89:6.7/#	Una vida por una vida	R	#
+Exodus	21:23	#	70:10.9/#	Vida por vida	C	#
+Exodus	21:23-24	#	70:10.9/#	Ojo por ojo	C	#
+Exodus	21:24	#	140:6.9/#	Ojo por ojo y diente por diente	R	#
+Exodus	21:24	#	159:5.11/#	Ojo por ojo	C	#
+Exodus	21:24	#	140:8.5/#	Ojo por ojo y diente por diente	S	#
+Exodus	21:28	#	70:10.12/#	Dinero compensatorio	C	#
+Exodus	21:30	#	89:7.1/#	Sustitutos y rescate	C	#
+Exodus	22:11	#	87:6.9/#	Votos y juramentos sagrados	C	#
+Exodus	22:18	#	90:2.3/#	Brujería	C	#
+Exodus	22:24	#	142:2.1/#	Un Dios de gran ira e intenso furor	C	#
+Exodus	22:29-30	#	122:9.1/#	Rendención de los primogénitos	C	#
+Exodus	23:15	#	142:3.13/#	Guardaréis la fiesta de los ácimos	S	#
+Exodus	23:16	#	142:3.16/#	Celebraréis dos fiestas	S	#
+Exodus	23:16,19a	#	142:3.19/#	Llevaréis las primicias de los frutos	S	#
+Exodus	23:18a	#	142:3.17/#	No sacrificaréis con pan fermentado	S	#
+Exodus	23:18b	#	142:3.18/#	No dejáreis comida pascual para el día siguiente	S	#
+Exodus	23:19b	#	142:3.20/#	No herviréis un cabrito en la leche de su madre	C	#
+Exodus	23:25	#	145:2.2/#	Servirás al Señor, tu Dios	R	#
+Exodus	24:12-18	#	85:1.5/#	Montañas sagradas	C	#
+Exodus	24:17	#	96:4.5/#	Fuego devorador	R	#
+Exodus	25:8-10	#	88:2.3/#	Cabaña fetiche elevada por Moisés	C	#
+Exodus	25:10-16	#	88:2.5/#	Nuevos fetiches	C	#
+Exodus	25:20	#	39:5.12/#	Alas de los ángeles	C	#
+Exodus	25:40	#	27:2.1/#	Modelo original	R	#
+Exodus	28:1-43	#	90:1.1/#	Chamán sacerdote	C	#
+Exodus	29:1	#	89:4.8/#	Sacrificio de los mejor de todo	C	#
+Exodus	29:4	#	90:5.3/#	de las vestiduras sacerdotales	C	#
+Exodus	29:4-9,29	#	90:1.1/#	Chamán sacerdote	C	#
+Exodus	29:18,25,41	#	89:4.3/#	Aroma agradable para el olfato de Dios	C	#
+Exodus	29:29	#	90:5.4/#	Sacerdocio hereditario	C	#
+Exodus	29:41-44	#	90:5.3/#	del tabernáculo	C	#
+Exodus	29:41-44	#	90:5.3/#	del tabernáculo	C	#
+Exodus	30:12-16	#	88:1.6/#	Contar al pueblo	R	#
+Exodus	30:23-30	#	28:5.13/#	Óleo de la reconciliación	R	#
+Exodus	31:3	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
+Exodus	31:3	#	36:5.9/#	Espíritu de conocimiento	C	#
+Exodus	31:3	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
+Exodus	31:3	#	36:5.7/#	Espíritu de comprensión	C	#
+Exodus	31:3	#	34:4.1/#	El Espíritu Santo	C	#
+Exodus	31:3	#	36:5.12/#	Espíritu de sabiduría	C	#
+Exodus	31:3	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
+Exodus	31:14-17	#	95:1.2/#	Costumbre de guardar el sábado	C	#
+Exodus	31:17	#	92:6.6/#	Dios creó el Cielo y la Tierra	C	#
+Exodus	31:17	#	1:0.1/#	Dios creó los cielos y la Tierra	C	#
+Exodus	31:17	#	142:3.7/#	Creador Universal	C	#
+Exodus	31:17	#	131:10.6/#	El Creador	C	#
+Exodus	31:17	#	131:2.2/#	Dios creó el Cielo y la Tierra	C	#
+Exodus	31:17	#	128:1.10/#	Creador de los cielos y de la Tierra	C	#
+Exodus	31:17	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Exodus	31:17	#	0:2.9/#	Dios como Creador del Cielo y la Tierra	C	#
+Exodus	31:17	#	6:1.3/#	Dios ha hecho todo	C	#
+Exodus	31:17	#	95:5.9/#	Dios como creador de todo	C	#
+Exodus	31:17	#	131:2.2/#	Dios creó el Cielo y la Tierra	R	#
+Exodus	31:17	#	2:1.2/#	Creador fiel y divino	C	#
+Exodus	32:1-35	#	146:1.1/#	Aarón y el becerro de oro	C	#
+Exodus	32:14	#	2:2.2/#	Se ha dicho que Dios se arrepiente, pero no lo hace	C	#
+Exodus	32:14	#	4:3.4/#	La visión de Dios arrepintiéndose	C	#
+Exodus	33:7-10	#	88:2.3/#	Cabaña fetiche elevada por Moisés	C	#
+Exodus	33:20	#	1:5.5/#	El hombre no puede ver a Dios	C	#
+Exodus	33:20	#	1:3.3/#	No puedes ver mi rostro	R	#
+Exodus	34:6	#	2:6.3/#	Bondad de Dios	C	#
+Exodus	34:6	#	2:5.7/#	Dios es bondadoso	C	#
+Exodus	34:6	#	131:2.3/#	El Señor es misericordioso y clemente	R	#
+Exodus	34:6	#	2:6.3/#	Bondad de Dios	R	#
+Exodus	34:14	#	142:3.11/#	No adorarás a ningún otro dios	S	#
+Exodus	34:14	#	142:2.1/#	Moisés dijo que Dios es celoso	C	#
+Exodus	34:14	#	4:3.1/#	Dios celoso `del' hombre	C	#
+Exodus	34:14	#	160:5.9/#	Un único Dios y los dioses falsos	C	#
+Exodus	34:14	#	96:4.6/#	Celoso de ...	R	#
+Exodus	34:17	#	88:2.5/#	Ninguna imagen tallada de nada	R	#
+Exodus	34:17	#	142:3.12/#	No fundiréis imágenes de los dioses	S	#
+Exodus	34:18	#	142:3.13/#	Guardaréis la fiesta de los ácimos	S	#
+Exodus	34:19-20	#	142:3.14/#	Todos los machos primogénitos son del Señor	S	#
+Exodus	34:20	#	85:3.4/#	Cordero sacrificial	C	#
+Exodus	34:20	#	122:9.1/#	Redención	C	#
+Exodus	34:21	#	142:3.15/#	El séptimo día descansaréis	S	#
+Exodus	34:22	#	142:3.16/#	Celebraréis dos fiestas	S	#
+Exodus	34:22,26a	#	142:3.19/#	Llevaréis las primicias de los frutos	S	#
+Exodus	34:25a	#	142:3.17/#	No sacrificaréis con pan fermentado	S	#
+Exodus	34:25b	#	142:3.18/#	No dejáreis comida pascual para el día siguiente	S	#
+Exodus	34:26b	#	142:3.20/#	No herviréis un cabrito en la leche de su madre	S	#
+Exodus	35:2-3	#	95:1.2/#	Costumbre de guardar el sábado	C	#
+Exodus	35:31	#	8:5.5/#	Espíritu de Dios (Espíritu Santo)	C	#
+Exodus	35:31	#	36:5.9/#	Espíritu de conocimiento	C	#
+Exodus	35:31	#	34:4.1/#	El Espíritu Santo	C	#
+Exodus	35:31	#	36:5.7/#	Espíritu de comprensión	C	#
+Exodus	35:31	#	103:1.6/#	El espíritu en el hombre (Espíritu Santo)	C	#
+Exodus	35:31	#	8:5.3/#	Espíritu de Dios (Espíritu Santo)	C	#
+Exodus	35:31	#	36:5.12/#	Espíritu de sabiduría	C	#
+Exodus	37:1-9	#	88:2.5/#	Nuevos fetiches	C	#
+Exodus	40:1-8	#	88:2.3/#	Cabaña fetiche elevada por Moisés	C	#
+Exodus	40:9-11	#	90:5.3/#	Sanctificación por unción	C	#
+Exodus	40:20	#	88:2.5/#	Nuevos fetiches	C	#

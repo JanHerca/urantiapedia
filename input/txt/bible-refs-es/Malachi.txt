@@ -1,0 +1,23 @@
+Malachi	1:6	#	196:0.2/#	Concepto como padre	C	#
+Malachi	1:8	#	194:3.11/#	No más el Señor de los Ejércitos	C	#
+Malachi	1:14	#	141:4.1/#	Dios como rey por encima de todo	C	#
+Malachi	2:10	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Malachi	2:10	#	131:2.2/#	Dios creó al hombre	C	#
+Malachi	2:10	#	95:5.9/#	Dios como creador de todo	C	#
+Malachi	2:10	#	2:1.2/#	Un Dios, el Padre	R	#
+Malachi	2:10	#	0:2.9/#	Dios como creador del hombre	C	#
+Malachi	2:10	#	2:1.2/#	Un Dios, el Padre	C	#
+Malachi	2:10	#	6:1.3/#	Dios ha hecho todo	C	#
+Malachi	2:10	#	74:0.1/#	Creación del hombre	C	#
+Malachi	2:10	#	142:3.7/#	Creador Universal	C	#
+Malachi	2:11	#	131:10.6/#	El Creador	C	#
+Malachi	3:1	#	144:8.3/#	Enviado a preparar el camino	R	#
+Malachi	3:6	#	12:7.5/#	Dios no cambia	C	#
+Malachi	3:6	#	2:2.1/#	Yo soy el Señor, yo no cambio	C	#
+Malachi	3:6	#	2:2.1/#	Yo soy el Señor, yo no cambio	R	#
+Malachi	3:6	#	4:4.2/#	Dios no cambia	R	#
+Malachi	3:8-10	#	93:3.1/#	Sistema del diezmo	C	#
+Malachi	3:12	#	190:5.4/#	Las naciones lo llamarán bendito	R	#
+Malachi	4:2	#	190:5.4/#	El Hijo, sol de recitud	R	#
+Malachi	4:5-6	#	158:2.2/#	Profecía	S	#
+Malachi	4:5-6	#	135:4.4/#	Envío previo de Elías	R	#

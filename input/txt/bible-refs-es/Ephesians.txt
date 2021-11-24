@@ -1,0 +1,238 @@
+Ephesians	1:2	#	149:6.8/#	Dios es nuestro Padre	C	#
+Ephesians	1:2	#	194:4.6/#	Dios el Padre de todos los hombres	C	#
+Ephesians	1:2	#	131:10.5/#	Dios es «mi» padre	C	#
+Ephesians	1:2	#	141:4.2/#	Dios es nuestro Padre	C	#
+Ephesians	1:2,5	#	131:10.6/#	Relación entre padre e hijo	C	#
+Ephesians	1:3	#	194:3.11/#	Padre del Señor Jesucristo	C	#
+Ephesians	1:3	#	194:4.6/#	Padre del Señor Jesucristo	R	#
+Ephesians	1:3	#	2:1.2/#	Se da a sí mismo	C	#
+Ephesians	1:5	#	193:0.3/#	Sois los hijos de Dios en la Tierra	C	#
+Ephesians	1:5	#	180:1.6/#	Los creyentes son hijos de Dios	C	#
+Ephesians	1:5	#	140:1.6/#	Hijos del Dios viviente	C	#
+Ephesians	1:5	#	193:0.5/#	Somos los hijos de Dios en la Tierra	C	#
+Ephesians	1:5	#	170:2.8/#	Los hijos salvados de Dios	S	#
+Ephesians	1:5	#	149:2.10/#	Hijos del Dios viviente	C	#
+Ephesians	1:5	#	5:4.8/#	Somos hijos de Dios	C	#
+Ephesians	1:5	#	190:5.4/#	Todos los hombres son hijos de Dios	C	#
+Ephesians	1:5	#	149:6.8/#	Nosotros somos sus hijos	C	#
+Ephesians	1:5	#	141:2.2/#	Hijos de Dios por la fe	C	#
+Ephesians	1:5	#	131:10.2/#	Somos los hijos de Dios	C	#
+Ephesians	1:5	#	142:1.1/#	Hijos por la fe en el Dios viviente	C	#
+Ephesians	1:5	#	131:10.8/#	La relación de padre e hijo	C	#
+Ephesians	1:5	#	140:3.16/#	Hijos del Dios viviente	C	#
+Ephesians	1:5	#	40:6.1/#	Hijos de Dios por la fe	C	#
+Ephesians	1:5	#	153:2.4/#	Fraternidad de los hijos de Dios	C	#
+Ephesians	1:5	#	193:1.2/#	Todos los hombres son hijos de Dios	C	#
+Ephesians	1:5	#	170:2.20/#	Hijos de Dios	C	#
+Ephesians	1:5	#	170:2.20/#	Hijos de Dios liberados	C	#
+Ephesians	1:5	#	181:2.14/#	Los creyentes son hijos de Dios	C	#
+Ephesians	1:5	#	2:5.4/#	Somos hijos de Dios	C	#
+Ephesians	1:5	#	143:2.7/#	Los hijos liberados de Dios	C	#
+Ephesians	1:5	#	99:5.5/#	Todos los hombres son hijos de Dios	C	#
+Ephesians	1:5	#	141:4.2/#	Somos los hijos de Dios	C	#
+Ephesians	1:5	#	142:5.2/#	Hijos de Dios	C	#
+Ephesians	1:5	#	181:2.12/#	Los creyentes, hijos de Dios	C	#
+Ephesians	1:5	#	190:3.1/#	El evangelio de la filiación	C	#
+Ephesians	1:5	#	8:6.4/#	Hijos de Dios	C	#
+Ephesians	1:5	#	34:6.10/#	Hijos de Dios	C	#
+Ephesians	1:5	#	1:3.1/#	Progenie de Dios	C	#
+Ephesians	1:5	#	196:0.2/#	Cada criatura mortal es un hijo de Dios	C	#
+Ephesians	1:7,20-22	#	170:5.6/#	Jesús el Redentor de la Iglesia	C	#
+Ephesians	1:13	#	141:4.5/#	Jesús envió Su Espíritu	C	#
+Ephesians	1:13	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
+Ephesians	1:13	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
+Ephesians	1:13	#	120:2.6/#	El Espíritu de la Verdad	C	#
+Ephesians	1:13	#	20:6.8/#	Espíritu de la Verdad	C	#
+Ephesians	1:13	#	52:5.6/#	Espíritu derramado sobre toda carne	R	#
+Ephesians	1:13	#	180:4.5/#	Os enviaré mi «espíritu»	C	#
+Ephesians	1:13	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
+Ephesians	1:13	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
+Ephesians	1:13	#	120:2.4/#	Espíritu de la Verdad	C	#
+Ephesians	1:13	#	191:6.3/#	El Espíritu de la Verdad	C	#
+Ephesians	1:13	#	34:5.5/#	Espíritu de la Verdad	C	#
+Ephesians	1:13	#	137:8.7/#	Espíritu de la Verdad	C	#
+Ephesians	1:13	#	181:2.14/#	Seguid al nuevo instructor en vuestros corazones	C	#
+Ephesians	1:13	#	180:3.3/#	Promesa del confortador	C	#
+Ephesians	1:13	#	121:7.5/#	Nuevo espiritu que vive en el corazón de los hombres	C	#
+Ephesians	1:13	#	34:4.1/#	El Espíritu de la Verdad	C	#
+Ephesians	1:13	#	181:1.4/#	Derramaré mi espíritu sobre toda la carne	C	#
+Ephesians	1:13	#	180:6.3/#	El Espíritu de la Verdad	C	#
+Ephesians	1:13	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
+Ephesians	1:13	#	146:3.6/#	El Espíritu de la Verdad	C	#
+Ephesians	1:13	#	21:5.7/#	El Espíritu de la Verdad	C	#
+Ephesians	1:13	#	32:5.8/#	Espíritu de la Verdad	C	#
+Ephesians	1:13	#	34:7.1/#	Espíritu de la Verdad	C	#
+Ephesians	1:13	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
+Ephesians	1:13	#	193:5.2/#	Envío del Espíritu de la Verdad	C	#
+Ephesians	1:13-14	#	190:4.1/#	Evangelio de salvación	C	#
+Ephesians	1:13-14	#	190:5.4/#	Evangelio de salvación de Dios	C	#
+Ephesians	1:17	#	36:5.12/#	Espíritu de sabiduría	C	#
+Ephesians	1:17	#	36:5.9/#	Espíritu de conocimiento	C	#
+Ephesians	1:20-23	#	119:8.1/#	Estado actual de Miguel	C	#
+Ephesians	1:23	#	34:6.10/#	Llenos de la plenitud de Dios	R	#
+Ephesians	1:23	#	3:1.2/#	Es todo en todo	R	#
+Ephesians	1:23	#	128:1.10/#	Plenitud de Aquel que llena todas las cosas	C	#
+Ephesians	1:23	#	3:1.2/#	Es todo en todo	C	#
+Ephesians	1:23	#	174:3.2/#	La relación de Dios con todas las cosas	C	#
+Ephesians	1:23	#	56:9.14/#	Dios es todo y está en todo	C	#
+Ephesians	2:2	#	85:4.2/#	Ángeles del aire	C	#
+Ephesians	2:2	#	53:8.5/#	Príncipe de este mundo	C	#
+Ephesians	2:2	#	66:1.1/#	El Príncipe Caligastia	C	#
+Ephesians	2:2	#	53:1.4/#	El demonio, antiguo Príncipe de este mundo	C	#
+Ephesians	2:2-3	#	51:3.9/#	Antiguo Príncipe Planetario	C	#
+Ephesians	2:4	#	137:8.6/#	Su amor y su misericordia son para todos	C	#
+Ephesians	2:8	#	110:2.2/#	La supervivencia es un don	C	#
+Ephesians	2:8	#	140:1.4/#	Sólo la fe os atravesará la puerta	S	#
+Ephesians	2:8	#	137:8.17/#	La fe es el precio para entrar	C	#
+Ephesians	2:8	#	150:5.3/#	La salvación, el don del Padre revelado por los Hijos	S	#
+Ephesians	2:8	#	143:2.7/#	La fe es un regalo de Dios	C	#
+Ephesians	2:10	#	57:3.8/#	La creación de Miguel	C	#
+Ephesians	2:10	#	21:0.1/#	Los hijos Creadores	C	#
+Ephesians	2:10	#	21:2.1/#	Los Hijos Creadores crean	C	#
+Ephesians	2:12	#	128:5.9/#	Ciudadanía de Israel	C	#
+Ephesians	2:12	#	128:3.4/#	Comunidad de Israel	C	#
+Ephesians	3:9	#	21:0.1/#	Los hijos Creadores	C	#
+Ephesians	3:9	#	131:10.6/#	El Creador	C	#
+Ephesians	3:9	#	6:1.3/#	Dios ha hecho todo	C	#
+Ephesians	3:9	#	57:3.8/#	La creación de Miguel	C	#
+Ephesians	3:9	#	2:1.2/#	Creador fiel y divino	C	#
+Ephesians	3:9	#	142:3.7/#	Creador Universal	C	#
+Ephesians	3:9	#	0:2.9/#	Dios como creador de todo	C	#
+Ephesians	3:9	#	21:2.1/#	Los Hijos Creadores crean	C	#
+Ephesians	3:9	#	95:5.9/#	Dios como creador de todo	C	#
+Ephesians	3:9	#	140:10.1/#	La hermandad de los hijos de Dios	C	#
+Ephesians	3:9	#	131:2.2/#	Dios creó todo	C	#
+Ephesians	3:9	#	131:10.2/#	Es el Creador de todas las cosas	C	#
+Ephesians	3:11	#	2:2.1/#	Propósito eterno	R	#
+Ephesians	3:12	#	5:4.2/#	Seguridad profunda	C	#
+Ephesians	3:14	#	194:3.11/#	Padre del Señor Jesucristo	C	#
+Ephesians	3:14	#	194:4.6/#	Padre del Señor Jesucristo	R	#
+Ephesians	3:14-15	#	170:2.20/#	Pablo usó «la familia de Dios»	C	#
+Ephesians	3:16	#	34:6.10/#	Fortalecidos por el poder	R	#
+Ephesians	3:19	#	34:6.10/#	Llenos de la plenitud de Dios	R	#
+Ephesians	4:3-6,11-13	#	134:4.6/#	Unidad, no uniformidad	C	#
+Ephesians	4:3-12	#	141:5.1/#	Se requiere unidad espiritual	C	#
+Ephesians	4:6	#	45:4.8/#	Dios único	C	#
+Ephesians	4:6	#	2:1.2/#	Un Dios, el Padre	R	#
+Ephesians	4:6	#	56:4.4/#	Dios es uno	C	#
+Ephesians	4:6	#	174:3.2/#	La relación de Dios con todas las cosas	C	#
+Ephesians	4:6	#	10:7.1/#	El Señor nuestro Dios es un solo Dios	C	#
+Ephesians	4:6	#	92:6.6/#	Un único Dios	C	#
+Ephesians	4:6	#	1:0.1/#	No hay Dios aparte de ti	C	#
+Ephesians	4:6	#	3:5.4/#	Es antes que todo y en todo	R	#
+Ephesians	4:6	#	1:7.6/#	Dios es uno solo	R	#
+Ephesians	4:6	#	92:5.8/#	Un único Dios	C	#
+Ephesians	4:6	#	3:1.2/#	Es todo en todo	C	#
+Ephesians	4:6	#	56:9.14/#	Dios es todo y está en todo	C	#
+Ephesians	4:6	#	96:5.5/#	El Señor es un único Dios	C	#
+Ephesians	4:6	#	131:10.2/#	Un único Dios	C	#
+Ephesians	4:8	#	30:4.4/#	Condujo una gran multitud	R	#
+Ephesians	4:10	#	11:8.1/#	Dios llena todas las cosas	C	#
+Ephesians	4:10	#	3:1.2/#	Lo llena todo en todo	R	#
+Ephesians	4:10	#	11:8.1/#	Dios llena todas las cosas	C	#
+Ephesians	4:13-16	#	141:5.1/#	Armonía apostólica	C	#
+Ephesians	4:14-15	#	193:2.2/#	Crecer en el espíritu	S	#
+Ephesians	4:22-24	#	156:5.5/#	Lo viejo será superado por lo nuevo	C	#
+Ephesians	4:22-24	#	103:2.9/#	Naturaleza superior e inferior	R	#
+Ephesians	4:23	#	9:5.4/#	La mente del Espíritu	C	#
+Ephesians	4:23	#	107:5.3/#	Mente espiritual	C	#
+Ephesians	4:23	#	6:6.4/#	Mente del espíritu	R	#
+Ephesians	4:23	#	110:2.5/#	Las mentes se volverán una sola	C	#
+Ephesians	4:23-24	#	108:6.3/#	Renovaran en el espíritu de su mente	C	#
+Ephesians	4:25	#	54:6.3/#	Impacto social del mal	C	#
+Ephesians	4:30	#	191:6.3/#	El Espíritu de la Verdad	C	#
+Ephesians	4:30	#	181:2.14/#	Seguid al nuevo instructor en vuestros corazones	C	#
+Ephesians	4:30	#	190:5.4/#	Derramará su espíritu sobre toda la carne	C	#
+Ephesians	4:30	#	141:4.5/#	Jesús envió Su Espíritu	C	#
+Ephesians	4:30	#	194:3.6/#	El Espíritu de la Verdad derramado a todos	C	#
+Ephesians	4:30	#	120:2.4/#	Espíritu de la Verdad	C	#
+Ephesians	4:30	#	120:2.6/#	El Espíritu de la Verdad	C	#
+Ephesians	4:30	#	193:5.2/#	Envío del Espíritu de la Verdad	C	#
+Ephesians	4:30	#	137:8.7/#	Espíritu de la Verdad	C	#
+Ephesians	4:30	#	176:4.3/#	Otro instructor, el Espíritu de la Verdad	S	#
+Ephesians	4:30	#	181:2.24/#	El Espíritu de la Verdad estará contigo	C	#
+Ephesians	4:30	#	180:4.5/#	Os enviaré mi «espíritu»	C	#
+Ephesians	4:30	#	52:5.6/#	Espíritu derramado sobre toda carne	R	#
+Ephesians	4:30	#	34:5.5/#	Espíritu de la Verdad	C	#
+Ephesians	4:30	#	146:3.6/#	El Espíritu de la Verdad	C	#
+Ephesians	4:30	#	181:1.4/#	Derramaré mi espíritu sobre toda la carne	C	#
+Ephesians	4:30	#	34:7.1/#	Espíritu de la Verdad	C	#
+Ephesians	4:30	#	121:7.5/#	Nuevo espiritu que vive en el corazón de los hombres	C	#
+Ephesians	4:30	#	21:5.7/#	El Espíritu de la Verdad	C	#
+Ephesians	4:30	#	20:6.8/#	Espíritu de la Verdad	C	#
+Ephesians	4:30	#	180:6.3/#	El Espíritu de la Verdad	C	#
+Ephesians	4:30	#	8:6.4/#	No aflijáis al Espíritu de Dios	R	#
+Ephesians	4:30	#	32:5.8/#	Espíritu de la Verdad	C	#
+Ephesians	4:30	#	180:3.3/#	Promesa del confortador	C	#
+Ephesians	4:30	#	20:1.6/#	El Hijo envió su espíritu sobre la carne	C	#
+Ephesians	4:30	#	103:1.6/#	El espíritu en el hombre (Espíritu de la Verdad)	C	#
+Ephesians	4:30	#	34:4.1/#	El Espíritu de la Verdad	C	#
+Ephesians	4:30-32	#	149:4.2/#	La ira es una manifestación material	C	#
+Ephesians	4:32	#	170:3.4/#	Somos perdonados en tanto perdonamos	S	#
+Ephesians	4:32	#	146:2.4/#	El perdón	C	#
+Ephesians	5:2	#	89:4.3/#	Aroma agradable para el olfato de Dios	C	#
+Ephesians	5:2	#	89:9.3/#	Jesús visto como sacrificio humano	C	#
+Ephesians	5:8	#	191:4.3/#	Hijos de la luz	C	#
+Ephesians	5:8	#	147:7.2/#	Hijos de la luz	C	#
+Ephesians	5:8	#	181:1.2/#	Hijos de la luz	C	#
+Ephesians	5:8	#	180:4.5/#	Hijos de la luz	C	#
+Ephesians	5:8	#	120:2.2/#	«Hijos de la luz»	C	#
+Ephesians	5:8	#	178:3.4/#	Los hijos de la luz	C	#
+Ephesians	5:8	#	193:0.3/#	Hijos de la luz	C	#
+Ephesians	5:9	#	140:3.19/#	Frutos del espíritu	C	#
+Ephesians	5:9	#	99:5.6/#	Frutos del espíritu	R	#
+Ephesians	5:9	#	102:7.5/#	Frutos sociales del espíritu	C	#
+Ephesians	5:9	#	34:6.13/#	Frutos del espíritu	R	#
+Ephesians	5:9	#	143:2.8/#	Los frutos del espíritu	C	#
+Ephesians	5:9	#	156:5.2/#	Los frutos del espíritu	C	#
+Ephesians	5:9	#	181:2.26/#	Los frutos del espíritu	C	#
+Ephesians	5:9	#	180:2.5/#	Los frutos del espíritu	C	#
+Ephesians	5:9	#	140:1.4/#	Producir los frutos del espíritu para continuar	C	#
+Ephesians	5:9	#	142:1.1/#	Los frutos del espíritu	C	#
+Ephesians	5:9	#	194:3.1/#	Los frutos del espíritu	R	#
+Ephesians	5:9	#	193:2.2/#	Los frutos del espíritu	S	#
+Ephesians	5:9	#	153:4.4/#	El árbol bueno se conoce por sus frutos	S	#
+Ephesians	5:9	#	5:2.4/#	Por sus frutos los conoceréis	R	#
+Ephesians	5:9	#	142:5.2/#	Judgad por los frutos del espíritu	C	#
+Ephesians	5:9	#	34:7.1/#	Frutos del Espíritu	C	#
+Ephesians	5:9	#	193:1.2/#	Los frutos del espíritu	S	#
+Ephesians	5:9	#	176:3.5/#	Frutos del espíritu	S	#
+Ephesians	5:9	#	140:4.7/#	Frutos del espíritu	C	#
+Ephesians	5:21-32	#	170:5.7/#	La iglesia institucionalizada de Pablo	C	#
+Ephesians	5:23-24	#	170:5.17/#	Cristo se convirtió en la «cabeza de la iglesia»	S	#
+Ephesians	5:31	#	167:5.7/#	Se volverán como uno solo	C	#
+Ephesians	6:9	#	190:4.1/#	Ni judíos ni gentiles	S	#
+Ephesians	6:9	#	117:6.22/#	No hace acepción de personas	C	#
+Ephesians	6:9	#	156:2.4/#	No existen favoritismos con Dios	C	#
+Ephesians	6:9	#	1:4.6/#	Dios no hace acepción de personas	C	#
+Ephesians	6:9	#	133:0.3/#	Dios no hace acepción de personas	C	#
+Ephesians	6:9	#	137:8.6/#	No hace acepción de personas	C	#
+Ephesians	6:9	#	140:1.2/#	No es el Dios de los judíos o de los gentiles	S	#
+Ephesians	6:9	#	174:2.2/#	Jesús no hace acepción de personas	C	#
+Ephesians	6:9	#	139:10.9/#	Jesús no hacía acepción de personas	C	#
+Ephesians	6:9	#	175:2.3/#	Dios no hace acepción de personas	C	#
+Ephesians	6:9	#	192:2.2/#	Dios no hace acepción de personas	C	#
+Ephesians	6:9	#	181:2.14/#	El Padre y el Hijo no hacen acepción de personas	C	#
+Ephesians	6:9	#	150:1.3/#	Igualdad de todos los seres humanos	C	#
+Ephesians	6:9	#	155:6.2/#	Dios no hace acepción de razas	C	#
+Ephesians	6:9	#	143:1.5/#	Mi padre no hace acepción de personas	C	#
+Ephesians	6:9	#	148:6.2/#	No hace acepción de personas	C	#
+Ephesians	6:9	#	40:10.13/#	Dios no hace acepción de personas	C	#
+Ephesians	6:9	#	12:7.8/#	Dios no hace acepción de personas	C	#
+Ephesians	6:9	#	190:3.1/#	En el reino no habrá diferencias	C	#
+Ephesians	6:9	#	137:8.11/#	No habrá judíos ni gentiles	C	#
+Ephesians	6:9	#	112:0.10/#	Dios no hace acepción de personas	C	#
+Ephesians	6:9	#	134:4.7/#	Espiritualmente, todos los hombres son iguales	C	#
+Ephesians	6:9	#	2:3.1/#	No hace acepción de personas	C	#
+Ephesians	6:9	#	166:4.11/#	El Padre no hace acepción de personas	C	#
+Ephesians	6:9	#	138:4.2/#	Igualdad de todos los que buscan a Dios	C	#
+Ephesians	6:9	#	3:1.12/#	No hace acepción de personas	C	#
+Ephesians	6:11-17	#	194:3.11/#	Armas espirituales	C	#
+Ephesians	6:12	#	53:8.5/#	Príncipe de este mundo	C	#
+Ephesians	6:12	#	53:1.4/#	El demonio, antiguo Príncipe de este mundo	C	#
+Ephesians	6:12	#	66:1.1/#	El Príncipe Caligastia	C	#
+Ephesians	6:12	#	53:9.2/#	Hueste espiritual de maldad	R	#
+Ephesians	6:12	#	179:2.3/#	La traición agradaba a los malignos	C	#
+Ephesians	6:16	#	53:8.8/#	La fe, armadura contra el pecado	C	#
+Ephesians	6:18	#	168:4.9/#	Orar en el espíritu	C	#
+Ephesians	6:21	#	194:4.7/#	Se llamaban unos a otros hermanos y hermanas	C	#
