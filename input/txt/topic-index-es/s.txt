@@ -3638,11 +3638,11 @@ Los Portadores de Vida conspiraron para llevar a Andón y Fonta al norte, una ve
 listado (9:2.3-5) (92:0.2-5) (113:4.6)
 	mente cósmica
 	Espíritu Santo
-	circuito de gravedad mental del Espíritu Infinito | gravedad:tipos | (9:2.3)
+	circuito de gravedad mental del Espíritu Infinito (9:2.3) | gravedad:tipos
 	Trinidad del Paraíso (34:6.1)
 	circuito de personalidad
 	Serafines
-	la gravedad espiritual del Hijo Eterno nos envuelve | Hijo Eterno; gravedad:tipos | (6:5.7)
+	la gravedad espiritual del Hijo Eterno nos envuelve (6:5.7) | Hijo Eterno; gravedad:tipos
 	Espíritu de la Verdad
 	Espíritu Rector del superuniverso, a través del Espíritu Materno del universo local (16:5.3) (16:6.2)
 	Ser Supremo | El Supremo
@@ -4344,7 +4344,7 @@ pedidos
 		descendiente de los Siete Espíritus de los Circuitos de Havona (17:5.3) (17:8.2) (26:1.12) (26:2.7)
 		siervos de los Siete Espíritus Rectores (26:3.1)
 		convocar Serafines a Serafington (39:8.4)
-		los transportadores operan entre los circuitos de Havona; aterrizar en el Paraíso periférico | transporte seráfico, secoráfico y superáfico | (11:4.1) (14:5.5)
+		los transportadores operan entre los circuitos de Havona; aterrizar en el Paraíso periférico (11:4.1) (14:5.5) | transporte seráfico, secoráfico y superáfico
 		tipos
 			1. Los Supervisores de la Armonía
 			2. Los Jefes Registradores
@@ -4405,7 +4405,7 @@ superuniverso | (15) | gran universo; universo maestro; Orvonton (superuniverso)
 la era del primer nivel del espacio exterior liberará a los superuniversos de las limitaciones del destino de la era actual (106:0.18)
 todos son finitos y evolutivos (32:3.1-2)
 los límites nunca dividen una familia nebular (12:1.12)
-circuitos | circuitos | (15:9)
+circuitos (15:9) | circuitos
 	transmisiones de Paraíso y Havona (15:9.9)
 	circuito mental cósmico del Espíritu Maestro (15:9.4)
 	circuitos de energía de los centros de poder y controladores físicos (15:9.10) (29:2.14)
@@ -4423,7 +4423,7 @@ destino de los superuniversos (15:14)
 	los superuniversos requieren Havona para un desarrollo completo (32:3.14-15)
 	llegar a ser, dentro de sus potenciales, perfectos como Havona (117:7.13)
 doble constitución (56:1.1)
-sistemas físicos duales movilizados por los Directores del Poder Universal | gravita | (11:8.7)
+sistemas físicos duales movilizados por los Directores del Poder Universal (11:8.7) | gravita
 cada superuniverso (15:2)
 	1000 sectores menores (15:2.6,13)
 	capitales

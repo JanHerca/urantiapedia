@@ -15,6 +15,7 @@ const book = new Book();
 const bible = new Bible();
 const bibleref = new BibleRef();
 const topicindex = new TopicIndex();
+const topicindexEN = new TopicIndex();
 const articles = new Articles();
 
 const topicindexEdit = new TopicIndex();
@@ -87,6 +88,7 @@ let collapsed = false;
 
 let topicEditing = null;
 let filelineEditing = null;
+const logInfos = [];
 
 const collapsableControls = ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 
 	'dirJTextbox', 'dirWTextbox', 'chkMerge', 'drpCategories', 'drpTopics'];
@@ -118,15 +120,24 @@ const onLoad = () => {
 		handle_dirButtonClick.bind(this, controls.dirJTextbox));
 	controls.dirWButton.addEventListener('click', 
 		handle_dirButtonClick.bind(this, controls.dirWTextbox));
-	controls.exeButton.addEventListener('click', handle_exeButtonClick);
-	controls.collapseButton.addEventListener('click', handle_collapseButtonClick);
-	controls.drpLanguage.addEventListener('change', handle_drpLanguageChange);
-	controls.drpUILanguage.addEventListener('change', handle_drpUILanguageChange);
-	controls.drpProcess.addEventListener('change', handle_drpProcessChange);
-	controls.drpTopics.addEventListener('change', handle_drpTopicsChange);
-	controls.drpCategories2.addEventListener('change', handle_drpCategories2Change);
-	controls.drpTopicLanguage1.addEventListener('change', handle_drpTopicLanguage1Change);
-	controls.drpTopicLanguage2.addEventListener('change', handle_drpTopicLanguage2Change);
+	controls.exeButton.addEventListener('click', 
+		handle_exeButtonClick);
+	controls.collapseButton.addEventListener('click', 
+		handle_collapseButtonClick);
+	controls.drpLanguage.addEventListener('change', 
+		handle_drpLanguageChange);
+	controls.drpUILanguage.addEventListener('change', 
+		handle_drpUILanguageChange);
+	controls.drpProcess.addEventListener('change', 
+		handle_drpProcessChange);
+	controls.drpTopics.addEventListener('change', 
+		handle_drpTopicsChange);
+	controls.drpCategories2.addEventListener('change', 
+		handle_drpCategories2Change);
+	controls.drpTopicLanguage1.addEventListener('change', 
+		handle_drpTopicLanguage1Change);
+	controls.drpTopicLanguage2.addEventListener('change', 
+		handle_drpTopicLanguage2Change);
 
 	//Set progress funcs
 	book.onProgressFn = onProgress;
@@ -274,6 +285,8 @@ const handle_drpTopicLanguage2Change = (evt) => {
 };
 
 const handle_exeButtonClick = () => {
+	logInfos.length = 0;
+	showInfos(logInfos);
 	showProgress(true);
 	
 	const process = controls.drpProcess.value;
@@ -334,12 +347,23 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'LU_TEX_TOPIC_TXT_TO_WIKI') {
+	} else if (process === 'LU_TEX_TOPIC_TXT_TO_WIKITEXT') {
 		// Read UB (*.tex) + Topic Index (*.txt) => write (*.wiki)
 		book.readFromLaTeX(latexDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
-			.then(() => book.writeToWiki(wikiDir, topicindex))
+			.then(() => book.writeToWikiText(wikiDir, topicindex))
 			.then(() => book.writeWarnings(wikiDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'LU_JSON_TOPIC_TXT_TO_WIKIHTML') {
+		book.readFromJSON(jsonDir)
+			.then(() => topicindex.readFromTXT(txtDir, 'ALL'))
+			.then(() => {
+				const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
+				return (lan === 'en' ? Promise.resolve(null) : 
+					topicindexEN.readFromTXT(ti, 'ALL'));
+			})
+			.then(() => book.writeToWikiHTML(htmlDir, topicindex, topicindexEN))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'LU_TEX_TO_XML') {
@@ -354,11 +378,11 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeToLaTeX(latexDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'LU_JSON_TOPIC_TXT_TO_WIKI') {
+	} else if (process === 'LU_JSON_TOPIC_TXT_TO_WIKITEXT') {
 		// Read UB (*.json) + Topic Index (*.txt) => write (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
-			.then(() => book.writeToWiki(wikiDir, topicindex))
+			.then(() => book.writeToWikiText(wikiDir, topicindex))
 			.then(() => book.writeWarnings(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
@@ -371,20 +395,20 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'LUINDEX_JSON_TO_WIKI') {
 		//Read UB (*.json) => write Indexes (*.wiki)
 		book.readFromJSON(jsonDir)
-			.then(() => book.writeIndexToWiki(wikiDir))
+			.then(() => book.writeIndexToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIB_TEX_BIBREF_TXT_TO_WIKI') {
 		// Read Bible Refs (*.txt) + read Bible (*.tex) => write (*.wiki)
 		bibleref.readFromTXT(txtDir)
 			.then(() => bible.readFromLaTeX(latexDir))
-			.then(() => bible.writeToWiki(wikiDir, bibleref))
+			.then(() => bible.writeToWikiText(wikiDir, bibleref))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIB_TEX_TO_BIBINDEX_WIKI') {
 		// Read Bible (*.tex) => write index (*.wiki)
 		bible.readFromLaTeX(latexDir)
-			.then(() => bible.writeIndexToWiki(wikiDir))
+			.then(() => bible.writeIndexToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIB_TEX_TO_XML') {
@@ -396,13 +420,13 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'TOPIC_TXT_TO_WIKI') {
 		// Read TopicIndex (*.txt) => write (*.wiki)
 		topicindex.readFromTXT(txtDir, category)
-			.then(() => topicindex.writeToWiki(wikiDir))
+			.then(() => topicindex.writeToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'TOPICINDEX_TXT_TO_WIKI') {
 		// Read TopicIndex index (*.txt) => write (*.wiki)
 		topicindex.readFromTXT(txtDir, category)
-			.then(() => topicindex.writeIndexToWiki(wikiDir))
+			.then(() => topicindex.writeIndexToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'REVIEW_TOPIC_TXT_LU_JSON') {
@@ -418,7 +442,7 @@ const handle_exeButtonClick = () => {
 			}).catch(onFail);
 	} else if (process === 'SUM_TOPIC_TXT') {
 		// Read TopicIndex (*.txt) => summary
-		topicindex.readFromTXT(txtDir, 'TODOS')
+		topicindex.readFromTXT(txtDir, 'ALL')
 			.then(() => {
 				let summary = topicindex.getSummary();
 				onSuccess(okMsgs);
@@ -432,7 +456,28 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'ARTICLE_TXT_TO_WIKI') {
 		// Read TXT folder => write (*.wiki)
 		articles.readFromTXT(txtDir)
-			.then(() => articles.writeToWiki(wikiDir))
+			.then(() => articles.writeToWikiText(wikiDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'TEST') {
+		book.readFromJSON(jsonDir)
+			.then(() => topicindex.readFromTXT(txtDir, 'ALL'))
+			.then(() => {
+				const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
+				return (lan === 'en' ? Promise.resolve(null) : 
+					topicindexEN.readFromTXT(ti, 'ALL'));
+			})
+			.then(() => {
+				const i = 0;
+				const paper = book.papers.find(p => p.paper_index === i);
+				const bookNameEN = Strings['bookName'].en.replace(/\s/g, '_');
+				const paperAbbEN = Strings['bookPaperAbb'].en;
+				const stri = (i > 99 ? `${i}` : (i > 9 ? `0${i}` : `00${i}`));
+				const filePath = path.join(htmlDir,
+					`${bookNameEN}_${paperAbbEN}_${stri}.html`);
+				return book.writeFileToWikiHTML(filePath, paper, topicindex,
+					topicindexEN);
+			})
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	}
@@ -716,7 +761,8 @@ const showTopicSummary = (obj) => {
 };
 
 const onProgress = (baseName) => {
-	showInfos([strformat(Strings['proccessing'][lan], baseName)]);
+	logInfos.splice(0, 0, strformat(Strings['proccessing'][uilan], baseName));
+	showInfos(logInfos);
 };
 
 document.addEventListener('DOMContentLoaded', onLoad);

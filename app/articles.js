@@ -110,7 +110,7 @@ class Articles {
 	 * @param {string} dirPath Output folder.
 	 * @return {Promise}
 	 */
-	writeToWiki = (dirPath) => {
+	writeToWikiText = (dirPath) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
@@ -121,7 +121,7 @@ class Articles {
 				const promises = this.docs.map(doc => {
 					let filename = doc.filename.replace('.txt', '');
 					let filePath = path.join(dirPath, `${filename}.wiki`);
-					let p = this.writeFileToWiki(filePath, doc);
+					let p = this.writeFileToWikiText(filePath, doc);
 					return reflectPromise(p);
 				});
 				Promise.all(promises)
@@ -144,7 +144,7 @@ class Articles {
 	 * @param {Object} doc Article object.
 	 * @return {Promise}
 	 */
-	writeFileToWiki = (filePath, doc) => {
+	writeFileToWikiText = (filePath, doc) => {
 		return new Promise((resolve, reject) => {
 			let wiki = '';
 			const end = '\r\n\r\n';

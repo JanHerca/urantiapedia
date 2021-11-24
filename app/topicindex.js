@@ -528,7 +528,7 @@ class TopicIndex {
 	 * @param {string} dirPath Carpeta de salida.
 	 * @return {Promise}
 	 */
-	writeToWiki = (dirPath) => {
+	writeToWikiText = (dirPath) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
@@ -540,7 +540,7 @@ class TopicIndex {
 					const name = topic.name.substring(0, 1).toUpperCase() +
 						topic.name.substring(1);
 					let filePath = path.join(dirPath, `${name}.wiki`);
-					let p = this.writeFileToWiki(filePath, topic);
+					let p = this.writeFileToWikiText(filePath, topic);
 					return reflectPromise(p);
 				});
 				Promise.all(promises)
@@ -563,7 +563,7 @@ class TopicIndex {
 	 * @param {Object} topic Object with Topic Index entry.
 	 * @return {Promise}
 	 */
-	writeFileToWiki = (filePath, topic) => {
+	writeFileToWikiText = (filePath, topic) => {
 		return new Promise((resolve, reject) => {
 			let wiki = '';
 			const end = '\r\n\r\n';
@@ -772,7 +772,7 @@ class TopicIndex {
 	 * @param {string} dirPath Output folder.
 	 * @return {Promise}
 	 */
-	writeIndexToWiki = (dirPath) => {
+	writeIndexToWikiText = (dirPath) => {
 		return new Promise((resolve, reject) => {
 			const filePath = path.join(dirPath, '_indice.wiki');
 			//TODO: categories in spanish and english

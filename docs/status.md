@@ -32,7 +32,7 @@ Italian    | it | OK  |     |    | OK |    |     |     |
 Japanese   | ja |     |     |    | OK |    |     |     | 
 Korean     | ko |     |     |    | OK |    |     |     | 
 Lithuanian | lt |     |     |    | OK |    |     |     | 
-Dutch      | nl |     |     |    | OK |    |     |     | 
+Dutch      | nl |     |     | OK | OK |    |     |     | 
 Polish     | pl |     |     |    | OK |    |     |     | 
 Portuguese | pt |     |     |    | OK |    |     |     | 
 Romanian   | ro |     |     |    | OK |    |     |     | 

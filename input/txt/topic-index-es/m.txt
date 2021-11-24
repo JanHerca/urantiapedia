@@ -327,7 +327,7 @@ primer mundo de las mansiones (47:3)
 	Gabriel selló el Memorial de Miguel el (188:3.11) (189:1.9)
 	el cielo como lo conciben la mayoría de los profetas (48:6.23)
 	Los Compañeros Morontiales nos darán la bienvenida (48:3.3,8)
-	la resurrección ocurre el | resurrección; salas de resurrección | (47:3.2) (49:6.7)
+	la resurrección ocurre el (47:3.2) (49:6.7) | resurrección; salas de resurrección
 	similar a las esferas evolutivas progresivas (47:3.1)
 	comienza el estudio de la mota morontial (47:4.8)
 segundo mundo de las mansiones (47:4)
@@ -1833,7 +1833,7 @@ donaciones | Hijos Creadores:donaciones de criaturas; Hijos Paradisíacos de Dio
 			para completar la experiencia requerida; subordinarse a la voluntad del Padre (120:0.4) (189:1.10)
 			ganar experiencia en las criaturas, la soberanía del universo, resolver la rebelión de Lucifer, revelar a Dios, llevar a los hombres a ser conscientes del hijo (120) (120:4.4) (128:0.2-4) (128:1.1) (128:7.6) (129:3.5-8) (129:4.7) (185:3.4) (189:1.10) (193:0.3)
 		El Hijo de Dios se hizo Hijo del Hombre (13:1.8)
-		Verbo hecho carne | Jesús:personalidad y naturaleza:Dios encarnado en el hombre | (20:5.1)
+		Verbo hecho carne (20:5.1) | Jesús:personalidad y naturaleza:Dios encarnado en el hombre
 	comenzó hace mil millones de años; ocurrió a intervalos de 150 millones de años (119:0.7) (119:8.2)
 	podría gobernar como representante de la Trinidad solo después de los 7 donaciones, adquiriendo así la soberanía suprema (21:3) (120:0.4)
 	creó la posibilidad de soberanía del Supremo en Nebadon (119:8.5-7)
@@ -3019,11 +3019,11 @@ tipos planetarios (15:6.16) (49:2-5)
 	Esperanza de vida de 25 a 500 años (49:4.6)
 	serie planetaria
 		# ajuste al entorno planetario (49:5.10-12)
-		# Serie de tipo cerebral | cerebros:inteligencia | (40:5.17) (49:4.2-3) (49:5.13-18)
+		# Serie de tipo cerebral (40:5.17) (49:4.2-3) (49:5.13-18) | cerebros:inteligencia
 		# Serie de recepción del espíritu (49:5.19-20)
-		# Épocas mortales planetarias | épocas planetarias | (49:5.21-28)
+		# Épocas mortales planetarias (49:5.21-28) | épocas planetarias
 		# Serie de parentesco entre criaturas (49:5.29-30)
-		# Serie de fusión de ajustadores | fusión | (40:5.4-18) (49:5.31) (109:3)
+		# Serie de fusión de ajustadores (40:5.4-18) (49:5.31) (109:3) | fusión
 		# técnicas de escape terrestre (49:5.32)
 	serie 1 mortales
 		Ajustadores prestados a (40:5.8-11) (109:3.2)

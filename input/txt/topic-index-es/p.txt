@@ -335,7 +335,7 @@ son
 	revelaciones del Hijo Eterno (10:1.6) (16:2.1)
 	Palabra de Dios (10:3.3)
 autorrejuvenecedores automáticos; incapaz de agotarse (48:4.11)
-donaciones | Hijos Creadores:donaciones de criaturas; Hijos Magistrales:misiones planetarias | (20:5) (119:0.2)
+donaciones (20:5) (119:0.2) | Hijos Creadores:donaciones de criaturas; Hijos Magistrales:misiones planetarias
 	lograr una perfecta sintonía con los Ajustadores residentes (20:6.4)
 	Los Ajustadores que participan en donaciones se vuelven Personalizados (20:4.3) (107:2.8) (109:6.3)
 	siempre nació como un niño (20:6.2)
@@ -909,7 +909,7 @@ respetar siempre (159:3.2)
 y realidad (112:1)
 Yahvé antropomórfico de mayor valor religioso que el Absoluto remoto (94:11.12)
 los ascendentes nunca pierden el poder de reconocer a antiguos asociados (44:0.18)
-la asociación produce un cuadrado de personalidades involucradas | grupos | (10:5.2) (68:1.4) (133:5.1)
+la asociación produce un cuadrado de personalidades involucradas (10:5.2) (68:1.4) (133:5.1) | grupos
 traición y deslealtad a los amigos confiados, lo más destructivo del estado de la personalidad (67:1.3)
 características (9:8.12)
 	14 cosas conocidas sobre la personalidad (112:0.2-16)
@@ -1271,7 +1271,7 @@ piedra filosofal | | | |
 la creencia en la piedra filosofal condujo al dominio de los metales (88:6.5)
 
 filosofía | (103:6-9) | maestros de la filosofía; ciencia, filosofía y religión | | 
-y religión | teología | (101:7.4) (103:1.5)
+y religión (101:7.4) (103:1.5) | teología
 asume la realidad del cuerpo, la mente y el alma (101:5.5-8)
 basado en intuiciones de la mente cósmica (16:6.10)
 error para simplificar demasiado la realidad; acercarse más alto desde más bajo (19:1.5-12)
@@ -1419,7 +1419,7 @@ en el registro de personalidad de Uversa (30:2.111)
 Supervisores del Poder Morontial; conceder formas morontiales a todos los progresores morontiales (48:2.18)
 
 épocas planetarias | (52) (49:5.21-28) | | | 
-primera - era pre-Príncipe Planetario | mortales:mortales primitivos | (52:1)
+primera - era pre-Príncipe Planetario (52:1) | mortales:mortales primitivos
 	Aparecen 6 razas de colores; el lenguaje se desarrolla (52:1.1-2)
 	emergencia desde el nivel animal; dura de 150.000 a 1.000.000 de años (52:1.1)
 	capítulo largo, oscuro y sangriento (52:1.4)
@@ -1468,7 +1468,7 @@ quinta - era posterior al Hijo donador (52:5-6)
 	El donación de Miguel en Urantia (52:5.2)
 	en Urantia (52:6)
 	búsqueda mundial de la cultura moral, la verdad espiritual (52:5.3)
-sexta - era posterior al Hijo Instructor | luz y vida | (52:7)
+sexta - era posterior al Hijo Instructor (52:7) | luz y vida
 	Cuarta Mansonia comparable a (47:6.4)
 	La conclusión de las misiones de los Hijos Maestros marca la entrada a la luz y la vida (52:7.10,14)
 	el gobierno desaparece (52:7.5)
@@ -1551,7 +1551,7 @@ acercamiento personal más cercano del Hijo Eterno aparte de la encarnación (50
 ninguna confianza alta considerada más sagrada que la depositada en (67:1.3)
 unido permanentemente a los planetas de asignación original (50:5.1)
 los Príncipes Planetarios en el planeta vecino bajo la falta (72:0.3)
-rebelión de los Príncipes Planetarios en Nebadon | rebelión (espiritual) | (35:9.6-10) (50:1.3)
+rebelión de los Príncipes Planetarios en Nebadon (35:9.6-10) (50:1.3) | rebelión (espiritual)
 rebelión de los Príncipes Planetarios aísla instantáneamente el planeta (35:9.9)
 los regímenes son idénticos (49:5.18)
 Lanonandek secundarios; número 10,234,601 en Nebadon (35:8.5)
@@ -2272,7 +2272,7 @@ esposa de Aquila (133:3.12)
 
 mundos carcelarios | | | PLACE | 
 Responsable de los internos (45:3.5)
-en Satania hay 7 mundos que giran alrededor dEl mundo del Padre (45:1.10-11) (53:9.8)
+en Satania hay 7 mundos que giran alrededor del mundo del Padre (45:1.10-11) (53:9.8)
 progresores morontiales autorizados a visitar (45:1.11)
 advertencia solemne a todo Nebadon (53:9.8)
 

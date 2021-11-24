@@ -66,7 +66,7 @@ class BibleRef {
 			chapters: []
 		};
 		const booknames = Object.values(BibleAbbs[this.language])
-			.map(n => n.replace(/ /g,"_"));
+			.map(e => e[0]).map(n => n.replace(/ /g,"_"));
 		const bookabbs = Object.keys(BibleAbbs[this.language]);
 		book.abb = bookabbs[booknames.indexOf(book.file)];
 

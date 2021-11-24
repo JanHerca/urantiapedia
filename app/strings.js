@@ -246,8 +246,8 @@ const Strings = {
 		sv: "Swedish"
 	},
 	"lblLanguage": {
-		en: "Book Language:",
-		es: "Idioma del libro:"
+		en: "Wiki Language:",
+		es: "Idioma de la Wiki:"
 	},
 	"lblUILanguage": {
 		en: "UI Language:",
@@ -338,8 +338,8 @@ const Strings = {
 		es: "Término"
 	},
 	"collapseButton": {
-		en: "Collapse",
-		es: "Colapsar"
+		en: "Show/hide controls",
+		es: "Mostrar/ocultar controles"
 	},
 	"lblProccesses": {
 		en: "Proccesses",
@@ -532,6 +532,10 @@ const Strings = {
 	"topic_not_in_ref": {
 		en: "'{0}' in no ref: {1}",
 		es: "'{0}' en ninguna ref: {1}"
+	},
+	"topic_EN_not_found": {
+		en: "'{0}' not found in english",
+		es: "'{0}' no encontrado en inglés"
 	},
 	"topic_see_also": {
 		en: "See also",

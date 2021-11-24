@@ -66,7 +66,7 @@ class Bible {
 		};
 		let currentChapter = null;
 		let currentSection = null;
-		const booknames = Object.values(BibleAbbs[this.language]);
+		const booknames = Object.values(BibleAbbs[this.language]).map(e => e[0]);
 		const bookabbs = Object.keys(BibleAbbs[this.language]);
 
 		lines.forEach((line, i) => {
@@ -126,7 +126,7 @@ class Bible {
 	// Wiki
 	//***********************************************************************
 
-	writeToWiki = (dirPath, bibleref) => {
+	writeToWikiText = (dirPath, bibleref) => {
 		return this.writeTo(dirPath, 'wiki', bibleref);
 	};
 
@@ -174,7 +174,7 @@ class Bible {
 		});
 	};
 
-	writeFileToWiki = (filePath, book_abb, chapter, chapter_bibleref) => {
+	writeFileToWikiText = (filePath, book_abb, chapter, chapter_bibleref) => {
 		return new Promise((resolve, reject) => {
 			let wiki = '';
 			const end = '\r\n\r\n';
@@ -251,10 +251,10 @@ class Bible {
 		});
 	};
 
-	writeIndexToWiki = (dirPath) => {
+	writeIndexToWikiText = (dirPath) => {
 		return new Promise((resolve, reject) => {
 			const filePath = path.join(dirPath, 'index.wiki');
-			const booknames = Object.values(BibleAbbs[this.language]);
+			const booknames = Object.values(BibleAbbs[this.language]).map(e => e[0]);
 			let wiki = '';
 
 			booknames.forEach(name => {
@@ -355,7 +355,7 @@ class Bible {
 							}
 						}
 						if (format = 'wiki') {
-							p = this.writeFileToWiki(filePath, book.abb, chapter, 
+							p = this.writeFileToWikiText(filePath, book.abb, chapter, 
 								chapter_bibleref);
 							promises.push(reflectPromise(p));
 						}

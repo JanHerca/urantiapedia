@@ -44,8 +44,8 @@ const Processes = {
 		controls: ['dirLTextbox', 'dirJTextbox'],
 		paths: ['tex/book-{0}', 'json/book-{0}']
 	},
-	"LU_TEX_TOPIC_TXT_TO_WIKI": {
-		active: true,
+	"LU_TEX_TOPIC_TXT_TO_WIKITEXT": {
+		active: false,
 		desc: {
 			en: "Convert Urantia Book (LaTeX) + TopicIndex (TXT) to Wiki",
 			es: "Convertir Libro de Urantia (LaTeX) + TopicIndex (TXT) a Wiki"
@@ -63,7 +63,7 @@ const Processes = {
 		paths: ['text/book-{0}', 'xml/book-{0}']
 	},
 	"LU_JSON_TO_TEX": {
-		active: true,
+		active: false,
 		desc: {
 			en: "Convert Urantia Book (JSON) to LaTeX",
 			es: "Convertir Libro de Urantia (JSON) a LaTeX"
@@ -71,26 +71,35 @@ const Processes = {
 		controls: ['dirJTextbox', 'dirLTextbox'],
 		paths: ['json/book-{0}-footnotes', 'tex/book-{0}']
 	},
-	"LU_JSON_TOPIC_TXT_TO_WIKI": {
-		active: true,
+	"LU_JSON_TOPIC_TXT_TO_WIKITEXT": {
+		active: false,
 		desc: {
-			en: "Convert Urantia Book (JSON) + TopicIndex (TXT) to Wiki",
-			es: "Convertir Libro de Urantia (JSON) + TopicIndex (TXT) a Wiki"
+			en: "Convert Urantia Book (JSON) + TopicIndex (TXT) to Wiki Text",
+			es: "Convertir Libro de Urantia (JSON) + TopicIndex (TXT) a Wiki Text"
 		},
 		controls: ['dirJTextbox', 'dirTTextbox', 'dirWTextbox', 'drpCategories'],
 		paths: ['json/book-{0}-footnotes', 'txt/topic-index-{0}', 'wiki/book-{0}']
 	},
+	"LU_JSON_TOPIC_TXT_TO_WIKIHTML": {
+		active: true,
+		desc: {
+			en: "Convert Urantia Book (JSON) + TopicIndex (TXT) to Wiki HTML",
+			es: "Convertir Libro de Urantia (JSON) + TopicIndex (TXT) a Wiki HTML"
+		},
+		controls: ['dirTTextbox', 'dirJTextbox', 'dirHTextbox'],
+		paths: ['txt/topic-index-{0}','json/book-{0}-footnotes', 'wikihtml/{0}/The_Urantia_Book']
+	},
 	"LU_JSON_TO_XML": {
 		active: false,
 		desc: {
-			en: "Convert Urantia Book (JSON) to WikiXML",
-			es: "Convertir Libro de Urantia (JSON) a WikiXML"
+			en: "Convert Urantia Book (JSON) to Wiki XML",
+			es: "Convertir Libro de Urantia (JSON) a Wiki XML"
 		},
 		controls: ['dirJTextbox', 'dirWTextbox'],
 		paths: ['json/book-{0}-footnotes', 'xml/book-{0}']
 	},
 	"LUINDEX_JSON_TO_WIKI": {
-		active: true,
+		active: false,
 		desc: {
 			en: "Convert Urantia Book Index (JSON) to Wiki",
 			es: "Convertir Indice de Libro de Urantia (JSON) a Wiki"
@@ -99,7 +108,7 @@ const Processes = {
 		paths: ['json/book-{0}-footnotes', 'wiki/book-{0}']
 	},
 	"BIB_TEX_BIBREF_TXT_TO_WIKI": {
-		active: true,
+		active: false,
 		desc: {
 			en: "Convert Bible (LaTeX) + Refs (TXT) to Wiki",
 			es: "Convertir Biblia (LaTeX) + Refs (TXT) a Wiki"
@@ -112,7 +121,7 @@ const Processes = {
 		}
 	},
 	"BIB_TEX_TO_BIBINDEX_WIKI": {
-		active: true,
+		active: false,
 		desc: {
 			en: "Convert Bible (LaTeX) to index Wiki",
 			es: "Convertir Biblia (LaTeX) a índice Wiki"
@@ -138,7 +147,7 @@ const Processes = {
 		}
 	},
 	"TOPIC_TXT_TO_WIKI": {
-		active: true,
+		active: false,
 		desc: {
 			en: "Convert TopicIndex (TXT) to Wiki",
 			es: "Convertir TopicIndex (TXT) a Wiki"
@@ -147,7 +156,7 @@ const Processes = {
 		paths: ['txt/topic-index-{0}', 'wiki/topic-index-{0}']
 	},
 	"TOPICINDEX_TXT_TO_WIKI": {
-		active: true,
+		active: false,
 		desc: {
 			en: "Convert index of TopicIndex (TXT) to Wiki",
 			es: "Convertir Indice de TopicIndex (TXT) a Wiki"
@@ -183,13 +192,22 @@ const Processes = {
 		paths: ['txt/topic-index-{0}']
 	},
 	"ARTICLE_TXT_TO_WIKI": {
-		active: true,
+		active: false,
 		desc: {
 			en: "Convert Articles (TXT) to Wiki",
 			es: "Convertir Artículos (TXT) a Wiki"
 		},
 		controls: ['dirTTextbox', 'dirWTextbox'],
 		paths: ['txt/articles-{0}', 'wiki/articles-{0}']
+	},
+	"TEST": {
+		active: true,
+		desc: {
+			en: "Execute a testing process",
+			es: "Ejecutar un proceso de prueba"
+		},
+		controls: ['dirTTextbox', 'dirJTextbox', 'dirHTextbox'],
+		paths: ['txt/topic-index-{0}','json/book-{0}-footnotes', 'html/test']
 	}
 };
 

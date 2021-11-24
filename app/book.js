@@ -322,8 +322,8 @@ class Book {
 	};
 
 	/**
-	 * Returns a text in LaTeX format replacing special chars by the same chars
-	 * but adapted to Wiki format.
+	 * Converts a text in LaTeX format to HTML format, replacing special chars 
+	 * with same chars but adapted to Wiki formats.
 	 * @param {string} content Content.
 	 * @returns {string}
 	 */
@@ -892,6 +892,35 @@ class Book {
 	};
 
 	/**
+	 * Writes in a file called `warnings.json` the found warnings.
+	 * Warnings are not errors but things that require a review.
+	 * @param {string} dirPath Folder path.
+	 * @return {Promise} Promise that returns null in resolve function or an
+	 * error in reject function.
+	 */
+	writeWarnings = (dirPath) => {
+		const baseName = path.basename(dirPath);
+		const filePath = path.join(dirPath, 'warnings.json');
+		return new Promise((resolve, reject) => {
+			fs.access(dirPath, fs.constants.W_OK, (err) => {
+				if (err) {
+					reject([this.getError('folder_no_access', baseName)]);
+					return;
+				}
+
+				fs.writeFile(filePath, JSON.stringify(this.warnings, null, 4), 'utf-8', 
+					(err) => {
+						if (err) {
+							reject(err);
+							return;
+						}
+						resolve(null);
+					});
+			});
+		});
+	};
+
+	/**
 	 * Returns an array with position indexes of the references in sentences
 	 * separated by periods inside the paragraph.
 	 * @param {string} content Paragraph content.
@@ -1199,7 +1228,353 @@ class Book {
 	};
 
 	//***********************************************************************
-	// Wiki
+	// Wiki HTML
+	//***********************************************************************
+
+	/**
+	 * Writes `The Urantia Book` in HTML format that can be imported in Wiki.js, 
+	 * each paper a file. It requires reading previously from any format.
+	 * @param {string} dirPath Folder path.
+	 * @param {?TopicIndex} topicIndex An optional Topic Index.
+	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
+	 * previous param is english then this is not required. If it is not english
+	 * then this param is required.
+	 * @return {Promise} Promise that returns null in resolve function or an
+	 * array of errors in reject function.
+	 */
+	writeToWikiHTML = (dirPath, topicIndex, topicIndexEN) => {
+		return this.writeTo(dirPath, 'html', topicIndex, topicIndexEN);
+	};
+
+	/**
+	 * Writes a paper of `The Urantia Book` in HTML format that can be imported 
+	 * in Wiki.js.
+	 * @param {string} filePath Output file.
+	 * @param {Object} paper JSON object with the paper.
+	 * @param {?TopicIndex} topicIndex An optional Topic Index.
+	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
+	 * previous param is english then this is not required. If it is not english
+	 * then this param is required.
+	 * @return {Promise} Promise that returns null in resolve function and an
+	 * error in reject function.
+	 */
+	writeFileToWikiHTML = (filePath, paper, topicIndex, topicIndexEN) => {
+		return new Promise((resolve, reject) => {
+			//Checks
+			let error = null;
+			const wfootnotes = (Array.isArray(paper.footnotes) &&
+				paper.footnotes.length > 0 ?
+				this.footnotesToWikiHTML(paper.footnotes) : []);
+			const wfnErr = wfootnotes
+				.map((wf,i) => wf === 'FOOTNOTE ERROR' ? i : null)
+				.filter(i => i != null);
+			if (!Array.isArray(paper.sections)) {
+				error = this.getError('book_no_sections', filePath);
+			} else if (paper.sections.find(s => s.section_ref == null)) {
+				error = this.getError('book_section_no_reference', filePath);
+			} else if (paper.sections.find(s => !Array.isArray(s.pars))) {
+				error = this.getError('book_section_no_pars', filePath);
+			} else if (!paper.paper_title) {
+				error = this.getError('book_paper_no_title', filePath);
+			} else if (wfnErr.length > 0) {
+				error = this.getError('book_error_footnotes', filePath, 
+					wfnErr.join(','));
+			}
+			if (error) {
+				reject(error);
+				return;
+			}
+
+			//Header
+			let html = '', error_par_ref;
+			const prev = paper.paper_index - 1;
+			const next = paper.paper_index + 1;
+			const prevPaper = this.papers.find(p=>p.paper_index === prev);
+			const nextPaper = this.papers.find(p=>p.paper_index === next);
+			const prevLink = this.getWikiHTMLLink(this.getTitle(prevPaper), prev);
+			const nextLink = this.getWikiHTMLLink(this.getTitle(nextPaper), next);
+			const indexLink = this.getWikiHTMLLink('bookIndexName');
+			const tpath = `/${this.language}/topic/`;
+			const tiOK = (topicIndex && (this.language === 'en' ||
+				(this.language != 'en' && topicIndexEN)));
+			const tiEN = (this.language === 'en' ? topicIndex : topicIndexEN);
+
+			const title = this.getTitle(paper, true);
+			const date = new Date();
+			const datestr = 
+				`${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}` +
+				`T${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}Z`;
+			const colorBg = 'rgb(255, 255, 255);';
+			const borderB = '0.2em solid rgb(200, 204, 209);';
+			const borderO = '1px solid rgb(200, 204, 209);';
+			const styleTable = `background-color:${colorBg}` +
+				`border-bottom:${borderB}` +
+				`border-left:${borderO}` +
+				`border-right:${borderO}` +
+				`border-top:${borderO}` +
+				`width: 100%;`;
+			const styleCell = `padding:0.4em 0.5em;` +
+				`border:${borderO}`;
+
+			const comment = `<!--\r\n` +
+				`title: ${title}\r\n` +
+				`description: \r\n` +
+				`published: true\r\n` +
+				`date: ${datestr}\r\n` +
+				`tags: \r\n` +
+				`editor: ckeditor\r\n` +
+				`dateCreated: ${datestr}\r\n` +
+				`-->\r\n`;
+			const header = 
+				`<figure class="table">\r\n` +
+				`  <table style="${styleTable}">\r\n` +
+				`    <tbody>\r\n` +
+				`      <tr>\r\n` +
+				`        <td style="${styleCell}">${prevLink}</td>\r\n` +
+				`        <td style="${styleCell}">${indexLink}</td>\r\n` +
+				`        <td style="${styleCell}text-align: right;">${nextLink}</td>\r\n` +
+				`      </tr>\r\n` +
+				`    </tbody>\r\n` +
+				`  </table>\r\n` +
+				`</figure>\r\n`;
+
+			html += comment;
+			html += '\r\n';
+			html += header;
+			html += `<h1>${title}</h1>\r\n`;
+
+			//Sections & paragraphs
+			let footnoteIndex = 0, fni;
+			let replaceErr = [];
+			let topicErr = [];
+			paper.sections.forEach(section => {
+				let stitle;
+				if (section.section_title) {
+					stitle = this.replaceSpecialChars(section.section_title)
+						.toUpperCase();
+					html += `<h2 id="p${section.section_index}"> ${stitle} </h2>\r\n`;
+				} else {
+					html += `<span id="p${section.section_index}"></span>\r\n`;
+				}
+
+				section.pars.forEach(par => {
+					let pcontent, aref, topics, di, si, pi;
+					const all_items = [];
+					if (!par.par_ref || !par.par_content) {
+						error = 'book_par_no_refcontent';
+						return;
+					}
+					try {
+						aref = this.getRef(par.par_ref);
+					} catch (err) {
+						error_par_ref = par.par_ref;
+						error = 'book_no_valid_reference';
+					}
+					if (!aref) {
+						return;
+					}
+					di = aref[0];
+					si = aref[1];
+					pi = aref[2];
+					html += `<p id="p${si}_${pi}">`;
+					html += `<sup><small>${par.par_ref}</small></sup>  `;
+
+					replaceErr = [];
+					pcontent = replaceTags(par.par_content, '*', '*', 
+						'<i>', '</i>', replaceErr);
+					pcontent = replaceTags(pcontent, '$', '$', 
+						'<span style="font-variant: small-caps;">', '</span>',
+						replaceErr);
+					if (replaceErr.length > 0) {
+						error = replaceErr[0];
+					}
+					if (tiOK) {
+						topics = topicIndex.topics.filter(topic => {
+							let contains = (topic.refs.find(r => 
+								this.containsRef(r, di, si, pi)) != null);
+							if (!contains) {
+								topic.lines.forEach(line => {
+									if (line.refs.find(r => 
+										this.containsRef(r, di, si, pi))) {
+										contains = true;
+									}
+								});
+							}
+							return contains;
+						});
+						topics.forEach(topic => {
+							const topicEN = tiEN.topics.find(t => {
+								return (t.filename === topic.filename &&
+									t.fileline === topic.fileline);
+							});
+							if (!topicEN) {
+								topicErr.push(this.getError('topic_EN_not_found',
+									topic.name));
+								return;
+							}
+							const tnameEN = topicEN.name.replace(/\s/g, '_');
+							let names = [topic.name.split('(')[0].trim()];
+							extendArray(names, topic.altnames);
+							const links = names.map(name => {
+								return `<a href="${tpath}${tnameEN}">${name}</a>`;
+							});
+							extendArray(all_items, names.map((n,i) => {
+								return {
+									name: n,
+									link: links[i]
+								}
+							}));
+							const modified = replaceWords(names, links, pcontent);
+							if (pcontent === modified) {
+								this.addWarning('book_item_no_found',
+									topic.name, par.par_ref);
+							}
+						});
+						if (all_items.length > 0) {
+							//Order using longest topic names before
+							all_items.sort((a,b) => b.name.length - a.name.length);
+							pcontent = replaceWords(all_items.map(i=>i.name),
+								all_items.map(i=>i.link), pcontent);
+						}
+					}
+					while (wfootnotes.length > 0 && 
+						footnoteIndex < wfootnotes.length &&
+						pcontent.indexOf(`{${footnoteIndex}}`) != -1) {
+						fni = footnoteIndex + 1;
+						pcontent = pcontent.replace(`{${footnoteIndex}}`,
+							`<sup id="cite${fni}">` +
+							`<a href="#fn${fni}">[${fni}]</a>` +
+							`</sup>`);
+						footnoteIndex++;
+					}
+					html += `${pcontent}</p>\r\n`;
+				});
+			});
+
+			//Footer
+			html += '<br/>\r\n'
+			html += header;
+
+			//References section
+			if (wfootnotes.length > 0) {
+				html += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
+				html += '<div style="column-width: 30em;">\r\n<ol>\r\n';
+				wfootnotes.forEach(f => html += '  ' + f);
+				html += '</ol>\r\n</div>\r\n';
+			}
+			
+			if (error) {
+				reject(this.getError(error, filePath, error_par_ref));
+				return;
+			} else if (topicErr.length > 0) {
+				reject(new Error(topicErr.map(e => e.message).join(', ')));
+				return;
+			}
+			fs.writeFile(filePath, html, 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
+			});
+		});
+	};
+
+	/**
+	 * Converts the array of footnotes to Wiki HTML, the format for Wiki.js.
+	 * @param {Array.<string>} footnotes Array of footnotes.
+	 * @return {Array.<string>}
+	 */
+	footnotesToWikiHTML = (footnotes) => {
+		return footnotes.map((f, n) => {
+			let html, parts, text, text2, fs, ab;
+			parts = f.split('*').filter(n => n.trim() != '');
+			if (parts.length === 0 || parts.length % 2 != 0) {
+				return 'FOOTNOTE ERROR';
+			}
+			html = `<li id="fn${n+1}"><a href="#cite${n+1}">↑</a>`;
+			for (let p = 0; p < parts.length; p = p + 2) {
+				text = parts[p];
+				html += ` <i>${text}</i>: `;
+
+				text2 = parts[p + 1];
+				if (text2[0] === ':') {
+					text2 = text2.substring(1).trim();
+					if (text2[text2.length - 1] === '.') {
+						text2 = text2.substring(0, text2.length - 1);
+					}
+				}
+				fs = text2.split(';');
+
+				fs.forEach((fss, i) => {
+					fss = fss.trim();
+					let chapter = null, vers = null, ver = null, ref = null, 
+						path = null;
+					let ab2 = this.findAbr(fss);
+					if (ab2) {
+						ab = ab2;
+						ref = fss.substring(ab.length).trim();
+					} else {
+						ref = fss;
+					}
+					if (ab && ref) {
+						path = BibleAbbs[this.language][ab][1];
+						if (ref.indexOf(':')) {
+							chapter = ref.substring(0, ref.indexOf(':'));
+							vers = ref.substring(ref.indexOf(':') + 1);
+							ver = vers.replace(/[-/,]/g, '|').split('|')[0];
+							if (ver === '') {
+								ver = '1';
+							}
+						}
+						html += (chapter && vers && ver ?
+							`<a href="${path}/${chapter}#v${ver}">` +
+								`${ab} ${chapter}:${vers}` +
+							`</a>` : 
+							`<a href="${path}/1">` +
+								`${ab} 1` +
+							`</a>`);
+						html += (i != fs.length - 1 ? '; ' : '. ');
+					}
+				});
+			}
+			html += '</li>\r\n';
+			return html;
+		});
+	};
+
+	/**
+	 * Returns the HTML fragment with a link to a document/section/paragraph
+	 * in a Wiki.js. If text = 'bookIndexName' returns the link to generic index.
+	 * @param {string} text Text for the link.
+	 * @param {?number} paper_index Optional paper index.
+	 * @param {?number} section_index Optional section index.
+	 * @param {?number} par_index Optional paragraph index.
+	 * 
+	 * @return {string}
+	 */
+	getWikiHTMLLink = (text, paper_index, section_index, par_index) => {
+		par_index = (par_index != undefined ? par_index : 1);
+		const bookNameEN = Strings['bookName'].en.replace(/\s/g, '_');
+		// const paperAbbEN = Strings['bookPaperAbb'].en;
+		const indexName = Strings['bookIndexName'].en;
+		let href = `/${this.language}/${bookNameEN}/`;
+		if (text == 'bookIndexName' || paper_index == undefined) {
+			href += `${indexName}`;
+			return `<a href="${href}">${indexName}</a>`;
+		}
+		const stri = (paper_index > 99 ? `${paper_index}` : 
+			(paper_index > 9 ? `0${paper_index}` : `00${paper_index}`));
+		// href += `${paperAbbEN}_${stri}`;
+		href += `${stri}`;
+		if (section_index != undefined) {
+			href += `#p${section_index}_${par_index}`;
+		}
+		return `<a href="${href}">${text}</a>`;
+	};
+
+	//***********************************************************************
+	// Wiki Text
 	//***********************************************************************
 
 	/**
@@ -1210,35 +1585,176 @@ class Book {
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * array of errors in reject function.
 	 */
-	writeToWiki = (dirPath, topicIndex) => {
+	writeToWikiText = (dirPath, topicIndex) => {
 		return this.writeTo(dirPath, 'wiki', topicIndex);
 	};
 
 	/**
-	 * Writes in a file called `warnings.json` the found warnings.
-	 * Warnings are not errors but things that require a review.
-	 * @param {string} dirPath Folder path.
-	 * @return {Promise} Promise that returns null in resolve function or an
+	 * Writes a paper of `The Urantia Book` in Wiki format.
+	 * @param {string} filePath Output file.
+	 * @param {Object} paper JSON object with the paper.
+	 * @param {?TopicIndex} topicIndex An optional Topic Index.
+	 * @return {Promise} Promise that returns null in resolve function and an
 	 * error in reject function.
 	 */
-	writeWarnings = (dirPath) => {
-		const baseName = path.basename(dirPath);
-		const filePath = path.join(dirPath, 'warnings.json');
+	writeFileToWikiText = (filePath, paper, topicIndex) => {
 		return new Promise((resolve, reject) => {
-			fs.access(dirPath, fs.constants.W_OK, (err) => {
-				if (err) {
-					reject([this.getError('folder_no_access', baseName)]);
-					return;
+			//Checks
+			let error = null;
+			const wfootnotes = (Array.isArray(paper.footnotes) &&
+				paper.footnotes.length > 0 ?
+				this.footnotesToWikiText(paper.footnotes) : []);
+			const wfnErr = wfootnotes
+				.map((wf,i) => wf === 'FOOTNOTE ERROR' ? i : null)
+				.filter(i => i != null);
+			if (!Array.isArray(paper.sections)) {
+				error = this.getError('book_no_sections', filePath);
+			} else if (paper.sections.find(s => s.section_ref == null)) {
+				error = this.getError('book_section_no_reference', filePath);
+			} else if (paper.sections.find(s => !Array.isArray(s.pars))) {
+				error = this.getError('book_section_no_pars', filePath);
+			} else if (!paper.paper_title) {
+				error = this.getError('book_paper_no_title', filePath);
+			} else if (wfnErr.length > 0) {
+				error = this.getError('book_error_footnotes', filePath, 
+					wfnErr.join(','));
+			}
+			if (error) {
+				reject(error);
+				return;
+			}
+
+			//Header
+			let wiki = '', ptitle, error_par_ref;
+			const end = '\r\n\r\n';
+			const eldu = Strings['bookName'][this.language];
+			const abb = Strings['bookAbb'][this.language];
+			const docAbb = Strings['bookPaperAbb'][this.language];
+			const indexName = Strings['bookIndexName'][this.language];
+			const prev = paper.paper_index - 1;
+			const next = paper.paper_index + 1;
+			let docPrev = (paper.paper_index === 0 ? null :
+				this.papers.find(p=>p.paper_index === prev).paper_title);
+			let docNext = (paper.paper_index === 196 ? ' ' :
+				this.papers.find(p=>p.paper_index === next).paper_title);
+			docPrev = (docPrev ? `[[${eldu} ${docAbb} ${prev}|${docPrev}]]` : ' ');
+			docNext = (docNext ? `[[${eldu} ${docAbb} ${next}|${docNext}]]` : ' ');
+
+			let header = '\r\n{| class="wikitable" style="width:100%;"\r\n' +
+				`| ${docPrev} || [[${eldu} ${indexName}|${indexName}]] ||` +
+				` ${docNext}\r\n|}${end}`;
+
+			ptitle = this.replaceSpecialChars(paper.paper_title);
+			ptitle = ptitle.toUpperCase();
+			wiki += '<div class="noautonum">__TOC__</div>\r\n';
+			wiki += header;
+			wiki += `== ${ptitle} ==${end}`;
+			
+			//Sections & paragraphs
+			let footnoteIndex = 0;
+			let replaceErr = [];
+			paper.sections.forEach(section => {
+				let ref, anchor, stitle;
+				ref = section.section_ref.replace(':', '_');
+				anchor = `{{anchor|${abb}_${ref}}}`;
+				if (section.section_title) {
+					stitle = this.replaceSpecialChars(section.section_title);
+					stitle = stitle.toUpperCase();
+					wiki += `== ${anchor} ${stitle} ==${end}`;
+				} else {
+					wiki += `${anchor}${end}`;
 				}
 
-				fs.writeFile(filePath, JSON.stringify(this.warnings, null, 4), 'utf-8', 
-					(err) => {
-						if (err) {
-							reject(err);
-							return;
-						}
-						resolve(null);
-					});
+				section.pars.forEach(par => {
+					let pref, supref, panchor, pcontent, aref, topics, di, si, pi;
+					if (!par.par_ref || !par.par_content) {
+						error = 'book_par_no_refcontent';
+						return;
+					}
+					try {
+						aref = this.getRef(par.par_ref);
+					} catch (err) {
+						error_par_ref = par.par_ref;
+						error = 'book_no_valid_reference';
+					}
+					if (!aref) {
+						return;
+					}
+					di = aref[0];
+					si = aref[1];
+					pi = aref[2];
+					pref = par.par_ref.replace(/[:\.]/g,'_');
+					supref = `<sup><small>${par.par_ref}</small></sup>`;
+					panchor = `{{anchor|${abb}_${pref}}}`;
+					pcontent = par.par_content.replace(/\*/g, '\'\'');
+					replaceErr = [];
+					pcontent = replaceTags(pcontent, '$', '$', 
+						'<span style="font-variant: small-caps;">', '</span>',
+						replaceErr);
+					if (replaceErr.length > 0) {
+						error = replaceErr[0];
+					}
+					if (topicIndex) {
+						topics = topicIndex.topics.filter(topic => {
+							let contains = (topic.refs.find(r => 
+								this.containsRef(r, di, si, pi)) != null);
+							if (!contains) {
+								topic.lines.forEach(line => {
+									if (line.refs.find(r => 
+										this.containsRef(r, di, si, pi))) {
+										contains = true;
+									}
+								});
+							}
+							return contains;
+						});
+						topics.forEach(topic => {
+							let names = [topic.name.split('(')[0].trim()];
+							extendArray(names, topic.altnames);
+							const links = names.map((name, i) => {
+								return (i === 0 && topic.name.indexOf('(') != -1 ?
+									`[[${topic.name}|${name}]]` : `[[${name}]]`);
+							});
+							const previous = pcontent;
+							pcontent = replaceWords(names, links, pcontent);
+							if (previous === pcontent) {
+								this.addWarning('book_item_no_found',
+									topic.name, par.par_ref);
+							}
+						});
+					}
+					while (wfootnotes.length > 0 && 
+						footnoteIndex < wfootnotes.length &&
+						pcontent.indexOf(`{${footnoteIndex}}`) != -1) {
+						pcontent = pcontent.replace(`{${footnoteIndex}}`,
+							`<ref name="n${footnoteIndex}"/>`);
+						footnoteIndex++;
+					}
+					// pcontent = `<p class="p-book">${pcontent}</p>`;
+					wiki += `${panchor} ${supref} ${pcontent}${end}`;
+				});
+			});
+
+			//Footer
+			wiki += header;
+
+			//References section
+			if (wfootnotes.length > 0) {
+				wiki += `== ${Strings['topic_references'][this.language]} ==` +
+					`${end}<references>\r\n`;
+				wfootnotes.forEach(f => wiki += f);
+				wiki += '</references>';
+			}
+			if (error) {
+				reject(this.getError(error, filePath, error_par_ref));
+				return;
+			}
+			fs.writeFile(filePath, wiki, 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
 			});
 		});
 	};
@@ -1251,7 +1767,7 @@ class Book {
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * error in reject function.
 	 */
-	writeIndexToWiki = (dirPath) => {
+	writeIndexToWikiText = (dirPath) => {
 		return new Promise((resolve, reject) => {
 			const lu = Strings['bookName'][this.language].replace(/\s/g, '_');
 			const abb = Strings['bookAbb'][this.language];
@@ -1354,6 +1870,63 @@ class Book {
 	};
 
 	/**
+	 * Converts the array of footnotes to Wiki text.
+	 * @param {Array.<string>} footnotes Array of footnotes.
+	 * @return {Array.<string>}
+	 */
+	footnotesToWikiText = (footnotes) => {
+		return footnotes.map((f, n) => {
+			let wiki, parts, text, text2, fs, ab;
+			parts = f.split('*').filter(n => n.trim() != '');
+			if (parts.length === 0 || parts.length % 2 != 0) {
+				return 'FOOTNOTE ERROR';
+			}
+			wiki = `<ref name="n${n}">`;
+			for (let p = 0; p < parts.length; p = p + 2) {
+				text = parts[p];
+				wiki += `''${text}'':`;
+
+				text2 = parts[p + 1];
+				if (text2[0] === ':') {
+					text2 = text2.substring(1).trim();
+					if (text2[text2.length - 1] === '.') {
+						text2 = text2.substring(0, text2.length - 1);
+					}
+				}
+				fs = text2.split(';');
+
+				fs.forEach((fss, i) => {
+					fss = fss.trim();
+					let chapter = null, vers = null, ref = null;
+					let ab2 = this.findAbr(fss);
+					if (ab2) {
+						ab = ab2;
+						ref = fss.substring(ab.length).trim();
+					} else {
+						ref = fss;
+					}
+					if (ab && ref) {
+						if (ref.indexOf(':')) {
+							chapter = ref.substring(0, ref.indexOf(':'));
+							vers = ref.substring(ref.indexOf(':') + 1);
+						}
+						wiki += (chapter && vers ? 
+							` {{lib|${ab}|${chapter}|${vers}}}` : 
+							` {{lib|${ab}|1}}`);
+						wiki += (i != fs.length - 1 ? ';' : '. ');
+					}
+				});
+			}
+			wiki += '</ref>\r\n';
+			return wiki;
+		});
+	};
+
+	//***********************************************************************
+	// Wiki XML
+	//***********************************************************************
+
+	/**
 	 * Writes `The Urantia Book` in XML format of DataTransfer extension for
 	 * MediaWiki, each paper in a file if merge is false or in one file
 	 * called `wiki_xml_import.xml` if not.
@@ -1409,178 +1982,6 @@ class Book {
 	};
 
 	/**
-	 * Writes a paper of `The Urantia Book` in Wiki format.
-	 * @param {string} filePath Output file.
-	 * @param {Object} paper JSON object with the paper.
-	 * @param {?TopicIndex} topicIndex An optional Topic Index.
-	 * @return {Promise} Promise that returns null in resolve function and an
-	 * error in reject function.
-	 */
-	writeFileToWiki = (filePath, paper, topicIndex) => {
-		return new Promise((resolve, reject) => {
-			let wiki = '', ptitle, error, error_par_ref;
-			const end = '\r\n\r\n';
-			const eldu = Strings['bookName'][this.language];
-			const abb = Strings['bookAbb'][this.language];
-			const docAbb = Strings['bookPaperAbb'][this.language];
-			const indexName = Strings['bookIndexName'][this.language];
-			const prev = paper.paper_index - 1;
-			const next = paper.paper_index + 1;
-			let docPrev = (paper.paper_index === 0 ? null :
-				this.papers.find(p=>p.paper_index === prev).paper_title);
-			let docNext = (paper.paper_index === 196 ? ' ' :
-				this.papers.find(p=>p.paper_index === next).paper_title);
-			docPrev = (docPrev ? `[[${eldu} ${docAbb} ${prev}|${docPrev}]]` : ' ');
-			docNext = (docNext ? `[[${eldu} ${docAbb} ${next}|${docNext}]]` : ' ');
-
-			let header = '\r\n{| class="wikitable" style="width:100%;"\r\n' +
-				`| ${docPrev} || [[${eldu} ${indexName}|${indexName}]] ||` +
-				` ${docNext}\r\n|}${end}`;
-
-			if (!Array.isArray(paper.sections)) {
-				error = 'book_no_sections';
-			} else if (paper.sections.find(s => s.section_ref == null)) {
-				error = 'book_section_no_reference';
-			} else if (paper.sections.find(s => !Array.isArray(s.pars))) {
-				error = 'book_section_no_pars';
-			} else if (!paper.paper_title) {
-				error = 'book_paper_no_title';
-			}
-
-			if (error) {
-				reject(this.getError(error, filePath));
-				return;
-			}
-
-			ptitle = this.replaceSpecialChars(paper.paper_title);
-			ptitle = ptitle.toUpperCase();
-			wiki += '<div class="noautonum">__TOC__</div>\r\n';
-			wiki += header;
-			wiki += `== ${ptitle} ==${end}`;
-
-			const wfootnotes = (Array.isArray(paper.footnotes) &&
-				paper.footnotes.length > 0 ?
-				this.footnotesToWiki(paper.footnotes) : []);
-			const wfnErr = [];
-			wfootnotes.forEach((wf, i) => {
-				if (wf === 'FOOTNOTE ERROR') {
-					wfnErr.push(i);
-				}
-			});
-			if (wfnErr.length > 0) {
-				reject(this.getError('book_error_footnotes', filePath, 
-					wfnErr.join(',')));
-				return;
-			}
-			let footnoteIndex = 0;
-			let replaceErr = [];
-
-			paper.sections.forEach(section => {
-				let ref, anchor, stitle;
-				ref = section.section_ref.replace(':', '_');
-				anchor = `{{anchor|${abb}_${ref}}}`;
-				if (section.section_title) {
-					stitle = this.replaceSpecialChars(section.section_title);
-					stitle = stitle.toUpperCase();
-					wiki += `== ${anchor} ${stitle} ==${end}`;
-				} else {
-					wiki += `${anchor}${end}`;
-				}
-
-				section.pars.forEach(par => {
-					let pref, supref, panchor, pcontent, aref, topics, di, si, pi;
-					if (!par.par_ref || !par.par_content) {
-						error = 'book_par_no_refcontent';
-						return;
-					}
-					try {
-						aref = this.getRef(par.par_ref);
-					} catch (err) {
-						error_par_ref = par.par_ref;
-						error = 'book_no_valid_reference';
-					}
-					if (!aref) {
-						return;
-					}
-					di = aref[0];
-					si = aref[1];
-					pi = aref[2];
-					pref = par.par_ref.replace(/[:\.]/g,'_');
-					supref = `<sup><small>${par.par_ref}</small></sup>`;
-					panchor = `{{anchor|${abb}_${pref}}}`;
-					pcontent = par.par_content.replace(/\*/g, '\'\'');
-					replaceErr = [];
-					pcontent = replaceTags(pcontent, '$', '$', 
-						'<span style="font-variant: small-caps;">', '</span>',
-						replaceErr);
-					if (replaceErr.length > 0) {
-						error = replaceErr[0];
-					}
-					if (topicIndex) {
-						topics = topicIndex.topics.filter(topic => {
-							let contains = (topic.refs.find(r => 
-								this.containsRef(r, di, si, pi)) != null);
-							if (!contains) {
-								topic.lines.forEach(line => {
-									if (line.refs.find(r => 
-										this.containsRef(r, di, si, pi))) {
-										contains = true;
-									}
-								});
-							}
-							return contains;
-						});
-						topics.forEach(topic => {
-							let names = [topic.name.split('(')[0].trim()];
-							extendArray(names, topic.altnames);
-							const links = names.map((name, i) => {
-								return (i === 0 && topic.name.indexOf('(') != -1 ?
-									`[[${topic.name}|${name}]]` : `[[${name}]]`);
-							});
-							const previous = pcontent;
-							pcontent = replaceWords(names, links, pcontent);
-							if (previous === pcontent) {
-								this.warnings.push(
-									strformat(Strings['book_item_no_found'][this.language],
-									topic.name, par.par_ref));
-							}
-						});
-					}
-					while (wfootnotes.length > 0 && 
-						footnoteIndex < wfootnotes.length &&
-						pcontent.indexOf(`{${footnoteIndex}}`) != -1) {
-						pcontent = pcontent.replace(`{${footnoteIndex}}`,
-							`<ref name="n${footnoteIndex}"/>`);
-						footnoteIndex++;
-					}
-					// pcontent = `<p class="p-book">${pcontent}</p>`;
-					wiki += `${panchor} ${supref} ${pcontent}${end}`;
-				});
-			});
-
-			wiki += header;
-
-			if (wfootnotes.length > 0) {
-				wiki += `== ${Strings['topic_references'][this.language]} ==` +
-					`${end}<references>\r\n`;
-				wfootnotes.forEach(f => wiki += f);
-				wiki += '</references>';
-			}
-			if (error) {
-				reject(this.getError(error, filePath, error_par_ref));
-				return;
-			}
-			fs.writeFile(filePath, wiki, 'utf-8', (err) => {
-				if (err) {
-					reject(err);
-					return;
-				}
-				resolve(null);
-			});
-		});
-	};
-
-	/**
 	 * Writes one or more papers of `The Urantia Book` in XML format for 
 	 * DataTransfer extension of MediaWiki.
 	 * @deprecated It is not recommended to use DataTransfer and use Wiki format
@@ -1627,7 +2028,7 @@ class Book {
 
 				const wfootnotes = (Array.isArray(paper.footnotes) &&
 					paper.footnotes.length > 0 ?
-					this.footnotesToWiki(paper.footnotes, true) : []);
+					this.footnotesToWikiXML(paper.footnotes, true) : []);
 				const wfnErr = [];
 				wfootnotes.forEach((wf, i) => {
 					if (wf === 'FOOTNOTE ERROR') {
@@ -1708,32 +2109,23 @@ class Book {
 	};
 
 	/**
-	 * Converts the array of footnotes in Wiki format or XML format (DataTransfer
-	 * extension) if xml=true.
+	 * Converts the array of footnotes in Wiki XML format for MediaWiki DataTransfer
+	 * extension.
 	 * @param {Array.<Object>} footnotes Array of footnotes.
-	 * @param {boolean} xml If true converts to XML, otherwise to Wiki.
 	 * @return {string}
 	 */
-	footnotesToWiki = (footnotes, xml) => {
+	footnotesToWikiXML = (footnotes) => {
 		return footnotes.map((f, n) => {
 			let wiki, parts, text, text2, fs, ab;
 			parts = f.split('*').filter(n => n.trim() != '');
 			if (parts.length === 0 || parts.length % 2 != 0) {
 				return 'FOOTNOTE ERROR';
 			}
-			if (xml) {
-				wiki = `<Free_Text>&lt;ref name="n${n}"&gt;</Free_Text>`;
-			} else {
-				wiki = `<ref name="n${n}">`;
-			}
+			wiki = `<Free_Text>&lt;ref name="n${n}"&gt;</Free_Text>`;
 			
 			for (let p = 0; p < parts.length; p = p + 2) {
 				text = parts[p];
-				if (xml) {
-					wiki += `<Free_Text>''${text}'':</Free_Text>`
-				} else {
-					wiki += `''${text}'':`;
-				}
+				wiki += `<Free_Text>''${text}'':</Free_Text>`;
 
 				text2 = parts[p + 1];
 				if (text2[0] === ':') {
@@ -1761,44 +2153,47 @@ class Book {
 							chapter = ref.substring(0, ref.indexOf(':'));
 							vers = ref.substring(ref.indexOf(':') + 1);
 						}
-						if (chapter && vers) {
-							if (xml) {
-								wiki += ' <Template Name="lib">' +
-									`<Field Name="1">${ab}</Field>` +
-									`<Field Name="2">${chapter}</Field>` +
-									`<Field Name="3">${vers}</Field>` +
-									'</Template>';
-							} else {
-								wiki += ` {{lib|${ab}|${chapter}|${vers}}}`;
-							}
-						} else {
-							if (xml) {
-								wiki += ' <Template Name="lib">' +
-									`<Field Name="1">${ab}</Field>` +
-									`<Field Name="2">1</Field>` +
-									'</Template>';
-							} else {
-								wiki += ` {{lib|${ab}|1}}`;
-							}
-						}
-						if (xml) {
-							wiki += '<Free_Text>' + 
-								(i != fs.length - 1 ? ';' : '. ') +
-								'</Free_Text>';
-						} else {
-							wiki += (i != fs.length - 1 ? ';' : '. ');
-						}
+						wiki += ' <Template Name="lib">' +
+							`<Field Name="1">${ab}</Field>`;
+						wiki += (chapter && vers ?
+							`<Field Name="2">${chapter}</Field>` +
+							`<Field Name="3">${vers}</Field>` +
+							'</Template>' :
+							`<Field Name="2">1</Field>` +
+							'</Template>');
+						wiki += '<Free_Text>' + 
+							(i != fs.length - 1 ? ';' : '. ') +
+							'</Free_Text>';
 					}
 				});
 			}
-			if (xml) {
-				wiki += '<Free_Text>&lt;/ref&gt;</Free_Text>\r\n';
-			} else {
-				wiki += '</ref>\r\n';
-			}
-			
+			wiki += '<Free_Text>&lt;/ref&gt;</Free_Text>\r\n';
 			return wiki;
 		});
+	};
+
+
+	//***********************************************************************
+	// Help functions
+	//***********************************************************************
+
+	/**
+	 * Returns the title of a paper.
+	 * @param {?Object} paper Paper.
+	 * @param {?boolean} upper If return in upper case or not.
+	 * @returns {string}
+	 */
+	getTitle = (paper, upper) => {
+		upper = (upper != undefined ? upper : false);
+		if (!paper) {
+			return ' ';
+		}
+		const paperWord = Strings['bookPaper'][this.language].toUpperCase();
+		const t = paper.paper_title;
+		const i = paper.paper_index;
+		const tu = t.toUpperCase();
+		return (tu.startsWith(paperWord) ? (upper ? tu : t) : 
+			`${paperWord} ${i}. ${(upper ? tu : t)}`);
 	};
 
 	/**
@@ -1813,14 +2208,10 @@ class Book {
 			abbs_filter.reduce((a,b) => a.length > b.length ? a : b));
 	};
 
-
-	//***********************************************************************
-	// Help functions
-	//***********************************************************************
-
 	/**
 	 * Returns an error.
-	 * @param  {...any} params Params.
+	 * @param  {...any} params Params. First param must be a string or a template
+	 * for the rest of the params.
 	 * @returns {Error}
 	 */
 	getError = (...params) => {
@@ -1830,15 +2221,30 @@ class Book {
 	};
 
 	/**
+	 * Adds a warning to internal lst of warnings.
+	 * @param  {...any} params Params. First param must be a string or a template
+	 * for the rest of the params.
+	 * @returns {Error}
+	 */
+	addWarning = (...params) => {
+		const msg = params[0];
+		this.warnings.push(
+			strformat(Strings[msg][this.language], ...params.slice(1)));
+	};
+
+	/**
 	 * Writes `The Urantia Book` in the giving format, each paper in a file.
 	 * Requires previously to read the book in any format.
 	 * @param {string} dirPath Folder path.
-	 * @param {string} format Output format. Can be `json`, `tex` o `wiki`.
+	 * @param {string} format Output format: `json`, `tex`, `wiki`, `html`.
 	 * @param {?TopicIndex} topicIndex An optional Topic Index.
+	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
+	 * previous param is english then this is not required. If it is not english
+	 * then this param is required.
 	 * @return {Promise} Promise that returns null in resolve function or
 	 * an array of errors in reject function.
 	 */
-	writeTo = (dirPath, format, topicIndex) => {
+	writeTo = (dirPath, format, topicIndex, topicIndexEN) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
@@ -1858,10 +2264,14 @@ class Book {
 						p = this.writeFileToJSON(filePath, paper);
 					} else if (format === 'tex') {
 						p = this.writeFileToLaTeX(filePath, paper);
-					} else if (format = 'wiki') {
+					} else if (format === 'wiki') {
 						filePath = path.join(dirPath, 
 							`${bookName}_${paperAbb}_${i}.${format}`);
-						p = this.writeFileToWiki(filePath, paper, topicIndex);
+						p = this.writeFileToWikiText(filePath, paper, topicIndex);
+					} else if (format === 'html') {
+						filePath = path.join(dirPath, `${stri}.${format}`);
+						p = this.writeFileToWikiHTML(filePath, paper, topicIndex,
+							topicIndexEN);
 					} else {
 						p = Promise.resolve(null);
 					}
