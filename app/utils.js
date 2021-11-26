@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const Strings = require('./strings');
 
 /**
  * Formats a string using '{x}' pattern where x in a number 0..n.
@@ -283,4 +284,118 @@ exports.replaceWords = function(arItems, arReplaces, text) {
 		result = result.replace(new RegExp(`#${j}#`, 'g'), arReplaces[j]);
 	}
 	return result;
+};
+
+exports.getWikijsHeader = function(title) {
+	const date = new Date();
+	const datestr = 
+		`${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}` +
+		`T${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}Z`;
+	return `<!--\r\n` +
+		`title: ${title}\r\n` +
+		`description: \r\n` +
+		`published: true\r\n` +
+		`date: ${datestr}\r\n` +
+		`tags: \r\n` +
+		`editor: ckeditor\r\n` +
+		`dateCreated: ${datestr}\r\n` +
+		`-->\r\n`;
+};
+
+exports.getWikijsLinks = function(prevLink, indexLink, nextLink) {
+	const colorBg = 'rgb(255, 255, 255);';
+	const borderB = '0.2em solid rgb(200, 204, 209);';
+	const borderO = '1px solid rgb(200, 204, 209);';
+	const styleTable = `background-color:${colorBg}` +
+		`border-bottom:${borderB}` +
+		`border-left:${borderO}` +
+		`border-right:${borderO}` +
+		`border-top:${borderO}` +
+		`width: 100%;`;
+	const styleCell = `padding:0.4em 0.5em;border:${borderO}`;
+	const links =
+		`<figure class="table">\r\n` +
+		`  <table style="${styleTable}">\r\n` +
+		`    <tbody>\r\n` +
+		`      <tr>\r\n` +
+		`        <td style="${styleCell}">${prevLink}</td>\r\n` +
+		`        <td style="${styleCell}">${indexLink}</td>\r\n` +
+		`        <td style="${styleCell}text-align: right;">${nextLink}</td>\r\n` +
+		`      </tr>\r\n` +
+		`    </tbody>\r\n` +
+		`  </table>\r\n` +
+		`</figure>\r\n`;
+	return links;
+};
+
+/**
+ * Gets the HTML fragment in Wiki.js for a reference to The Urantia Book.
+ * @param {string} book_ref Book ref.
+ * @param {string} language Language code.
+ * @returns {string}
+ */
+exports.getWikijsBookRefLink = (book_ref, language) => {
+	const bookAbb = Strings.bookAbb[language];
+	const bookName = Strings.bookName.en.replace(/ /g,"_");
+	const path = `/${language}/${bookName}`;
+	const text = `${bookAbb} ${book_ref}`;
+	let link = '';
+	let ref = book_ref.replace(/[:.,-]/g,"|");
+	let data = ref.split('|');
+	if (data.length >= 3) {
+		link = `<a href="${path}/${data[0]}#p${data[1]}_${data[2]}">${text}</a>`;
+	} else if (data.length === 2) {
+		link = `<a href="${path}/${data[0]}#p${data[1]}">${text}</a>`;
+	} else if (data.length === 1) {
+		link = `<a href="${path}/${data[0]}">${text}</a>`;
+	}
+	return link;
+};
+
+/**
+ * Gets the HTML fragment in Wiki.js for a paper of The Urantia Book.
+ * If paper = 'index' returns the Index page link.
+ * @param {(Object|string)} paper Paper object or 'index'.
+ * @param {string} language Language code.
+ * @return {string}
+ */
+exports.getWikijsBookLink = (paper, language) => {
+	if (!paper) {
+		return ' ';
+	}
+	const bookName = Strings.bookName.en.replace(/ /g,"_");
+	const path = `/${language}/${bookName}`;
+	const indexName = Strings['bookIndexName'][language];
+	const indexNameEN = Strings['bookIndexName'].en;
+	if (paper === 'index') {
+		return `<a href="${path}/${indexNameEN}">${indexName}</a>`;
+	}
+	const i = paper.paper_index;
+	const text = exports.getBookTitle(paper, language);
+	return `<a href="${path}/${i}">${text}</a>`;
+};
+
+/**
+ * Returns the title of a paper from The Urantia Book.
+ * @param {?Object} paper Paper.
+ * @param {string} language Language code.
+ * @param {?boolean} upper If return in upper case or not.
+ * @returns {string}
+ */
+exports.getBookTitle = (paper, language, upper) => {
+	upper = (upper != undefined ? upper : false);
+	if (!paper) {
+		return ' ';
+	}
+	const paperWord = Strings['bookPaper'][language];
+	const t = paper.paper_title;
+	const i = paper.paper_index;
+	const tu = t.toUpperCase();
+	const tt = (upper ? tu : t);
+	if (i === 0) {
+		//Prologue
+		return tt;
+	}
+	return (tu.startsWith(paperWord.toUpperCase()) ? tt : 
+		`${(upper ? paperWord.toUpperCase() : paperWord)} ${i}. ${tt}`);
 };

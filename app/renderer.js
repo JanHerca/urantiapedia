@@ -347,7 +347,7 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BOOK_TEX_TOPIC_TXT_TO_WIKITEXT') {
+	} else if (process === 'BOOK_TEX_TOPICS_TXT_TO_WIKITEXT') {
 		// Read UB (*.tex) + Topic Index (*.txt) => write (*.wiki)
 		book.readFromLaTeX(latexDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
@@ -366,19 +366,19 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeToWikiHTML(htmlDir, topicindex, topicindexEN))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BOOK_TEX_TO_XML') {
+	} else if (process === 'BOOK_TEX_TO_WIKIXML') {
 		// Read UB (*.tex) => write Wiki (*.xml)
-		// book.readFromLaTeX(latexDir)
-		// 	.then(() => book.writeToWikiXML(wikiDir, merge))
-		// 	.then(() => onSuccess(okMsgs))
-		// 	.catch(onFail);
+		book.readFromLaTeX(latexDir)
+			.then(() => book.writeToWikiXML(wikiDir, merge))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TO_TEX') {
 		// Read UB (*.json) => write (*.tex) 
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeToLaTeX(latexDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BOOK_JSON_TOPIC_TXT_TO_WIKITEXT') {
+	} else if (process === 'BOOK_JSON_TOPICS_TXT_TO_WIKITEXT') {
 		// Read UB (*.json) + Topic Index (*.txt) => write (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
@@ -386,13 +386,13 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeWarnings(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BOOK_JSON_TO_XML') {
+	} else if (process === 'BOOK_JSON_TO_WIKIXML') {
 		// Read UB (*.json) => write Wiki (*.xml)
-		// book.readFromJSON(jsonDir)
-		// 	.then(() => book.writeToWikiXML(wikiDir))
-		// 	.then(() => onSuccess(okMsgs))
-		// 	.catch(onFail);
-	} else if (process === 'BOOKINDEX_JSON_TO_WIKITEXT') {
+		book.readFromJSON(jsonDir)
+			.then(() => book.writeToWikiXML(wikiDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'BOOK_INDEX_JSON_TO_WIKITEXT') {
 		//Read UB (*.json) => write Indexes (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeIndexToWikiText(wikiDir))
@@ -418,19 +418,34 @@ const handle_exeButtonClick = () => {
 			.then(() => bible.writeIndexToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BIBLE_TEX_TO_XML') {
+	} else if (process === 'BIBLE_TEX_TO_WIKIXML') {
 		// Read Bible (*.tex) => write Wiki (*.xml)
-		// bible.readFromLaTeX(latexDir)
-		// 	.then(() => bible.writeToWikiXML(wikiDir, merge))
-		// 	.then(() => onSuccess(okMsgs))
-		// 	.catch(onFail);
-	} else if (process === 'TOPIC_TXT_TO_WIKITEXT') {
+		bible.readFromLaTeX(latexDir)
+			.then(() => bible.writeToWikiXML(wikiDir, merge))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'TOPICS_TXT_TO_WIKITEXT') {
 		// Read TopicIndex (*.txt) => write (*.wiki)
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => topicindex.writeToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'TOPICINDEX_TXT_TO_WIKITEXT') {
+	} else if (process === 'TOPICS_TXT_TO_WIKIHTML') {
+		// Read TopicIndex (*.txt) => write (*.html)
+		if (lan === 'en') {
+			topicindex.readFromTXT(txtDir, category)
+				.then(() => topicindex.writeToWikiHTML(htmlDir))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		} else {
+			const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
+			topicindex.readFromTXT(txtDir, category)
+				.then(() => topicindexEN.readFromTXT(ti, category))
+				.then(() => topicindex.writeToWikiHTML(htmlDir, topicindexEN))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		}
+	} else if (process === 'TOPICS_INDEX_TXT_TO_WIKITEXT') {
 		// Read TopicIndex index (*.txt) => write (*.wiki)
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => topicindex.writeIndexToWikiText(wikiDir))

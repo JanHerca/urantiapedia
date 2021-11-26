@@ -179,7 +179,7 @@ const Strings = {
 		ko: "제 {0} 편",
 		lt: "Dokumentas",
 		nl: "Verhandeling",
-		ol: "Przekaz",
+		pl: "Przekaz",
 		pt: "Documento",
 		ro: "Capitolul",
 		ru: "Документ",
@@ -205,19 +205,63 @@ const Strings = {
 		ko: "",
 		lt: "",
 		nl: "",
-		ol: "",
+		pl: "",
 		pt: "Doc",
 		ro: "",
 		ru: "",
 		sv: "Kap"
 	},
 	"bookIndexName": {
+		bg: "",
+		cs: "",
+		da: "",
+		de: "",
+		el: "",
 		en: "Index",
-		es: "Indice"
+		es: "Indice",
+		et: "",
+		fa: "",
+		fi: "",
+		fr: "Indice",
+		he: "",
+		hu: "",
+		id: "",
+		it: "",
+		ja: "",
+		ko: "",
+		lt: "",
+		nl: "",
+		pl: "Indeks",
+		pt: "Índice",
+		ro: "",
+		ru: "",
+		sv: ""
 	},
 	"bookExtIndexName": {
+		bg: "Съдържание на книгата",
+		cs: "Obsah knihy",
+		da: "Indholdet af bogen",
+		de: "Ausführliches Inhaltsverzeichnis",
+		el: "",
 		en: "Index extended",
-		es: "Indice extendido"
+		es: "Indice extendido",
+		et: "Raamatu sisukord",
+		fa: "",
+		fi: "Sisällysluettelo",
+		fr: "Table des matières détaillée",
+		he: "",
+		hu: "A könyv tartalomjegyzéke",
+		id: "Isi Buku",
+		it: "Contenuto del Libro",
+		ja: "",
+		ko: "목차",
+		lt: "Knygos turinys",
+		nl: "Inhoudsopgave",
+		pl: "Spis treści książki",
+		pt: "Índice Detalhado",
+		ro: "Conţinutul Cărţii",
+		ru: "Содержание книги",
+		sv: "Innehållsförteckning"
 	},
 	"bookLanguages": {
 		bg: "Bulgarian",
@@ -525,6 +569,10 @@ const Strings = {
 		en: "{0}, line {1}: Chapter or verse number is bad",
 		es: "{0}, línea {1}: El número de capítulo o versículo está mal"
 	},
+	"topic_en_required": {
+		en: "{0}: Topic Index in english must be provided",
+		es: "{0}: El Índide de Términos en inglés debe proporcionarse"
+	},
 	"topic_err": {
 		en: "{0}, line {1}: {2}",
 		es: "{0}, línea {1}: {2}"
@@ -545,7 +593,7 @@ const Strings = {
 		en: "'{0}' in no ref: {1}",
 		es: "'{0}' en ninguna ref: {1}"
 	},
-	"topic_EN_not_found": {
+	"topic_en_not_found": {
 		en: "'{0}' not found in english",
 		es: "'{0}' no encontrado en inglés"
 	},

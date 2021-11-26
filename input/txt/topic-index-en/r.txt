@@ -1678,7 +1678,7 @@ most mansion world structures roofless (48:3.15)
 summer bedroom in parents’ home for young Jesus (123:2.14)
 tiles removed to lower paralytic (148:9.2)
 
-roosters | poultry
+roosters | | poultry | | 
 
 round-heads | | | | 
 Andonites were (80:5.8)

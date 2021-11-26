@@ -489,7 +489,7 @@ Parthia | (134:2.1) | | PLACE |
 library at Alexandria contained manuscripts from (130:3.4)
 rising power; wars with Rome (121:1.9) (121:2.8)
 
-partiality | favoritism
+partiality | | favoritism | | 
 
 partnership | | groups; marriage | | 
 quadruples achievement possibilities (43:8.11)
@@ -1844,7 +1844,7 @@ neighboring universe to Nebadon (32:2.12)
 porters | | | | 
 ruler of blue race once had 100,000 (81:2.12)
 
-position | status
+position | | status | | 
 
 positive | | optimism | | 
 always has advantage over negative (102:6.7)
@@ -1867,7 +1867,7 @@ post-Magisterial Son era | | planetary epochs | |
 
 post-Planetary Prince era | | planetary epochs | | 
 
-post-Teacher Son era | | planetary epochs
+post-Teacher Son era | | planetary epochs | | 
 
 postulates | | theories | | 
 

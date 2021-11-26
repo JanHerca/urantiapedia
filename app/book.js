@@ -12,6 +12,10 @@ const readFrom = require('./utils').readFrom;
 const replaceWords = require('./utils').replaceWords;
 const getAllIndexes = require('./utils').getAllIndexes;
 const strformat = require('./utils').strformat;
+const getWikijsHeader = require('./utils').getWikijsHeader;
+const getWikijsLinks = require('./utils').getWikijsLinks;
+const getWikijsBookLink = require('./utils').getWikijsBookLink;
+const getBookTitle = require('./utils').getBookTitle;
 const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
@@ -1291,56 +1295,19 @@ class Book {
 			const next = paper.paper_index + 1;
 			const prevPaper = this.papers.find(p=>p.paper_index === prev);
 			const nextPaper = this.papers.find(p=>p.paper_index === next);
-			const prevLink = this.getWikiHTMLLink(this.getTitle(prevPaper), prev);
-			const nextLink = this.getWikiHTMLLink(this.getTitle(nextPaper), next);
-			const indexLink = this.getWikiHTMLLink('bookIndexName');
+			const prevLink = getWikijsBookLink(prevPaper, this.language);
+			const nextLink = getWikijsBookLink(nextPaper, this.language);
+			const indexLink = getWikijsBookLink('index', this.language);
 			const tpath = `/${this.language}/topic/`;
 			const tiOK = (topicIndex && (this.language === 'en' ||
 				(this.language != 'en' && topicIndexEN)));
 			const tiEN = (this.language === 'en' ? topicIndex : topicIndexEN);
 
-			const title = this.getTitle(paper, true);
-			const date = new Date();
-			const datestr = 
-				`${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}` +
-				`T${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}Z`;
-			const colorBg = 'rgb(255, 255, 255);';
-			const borderB = '0.2em solid rgb(200, 204, 209);';
-			const borderO = '1px solid rgb(200, 204, 209);';
-			const styleTable = `background-color:${colorBg}` +
-				`border-bottom:${borderB}` +
-				`border-left:${borderO}` +
-				`border-right:${borderO}` +
-				`border-top:${borderO}` +
-				`width: 100%;`;
-			const styleCell = `padding:0.4em 0.5em;` +
-				`border:${borderO}`;
+			const title = getBookTitle(paper, this.language, true);
 
-			const comment = `<!--\r\n` +
-				`title: ${title}\r\n` +
-				`description: \r\n` +
-				`published: true\r\n` +
-				`date: ${datestr}\r\n` +
-				`tags: \r\n` +
-				`editor: ckeditor\r\n` +
-				`dateCreated: ${datestr}\r\n` +
-				`-->\r\n`;
-			const header = 
-				`<figure class="table">\r\n` +
-				`  <table style="${styleTable}">\r\n` +
-				`    <tbody>\r\n` +
-				`      <tr>\r\n` +
-				`        <td style="${styleCell}">${prevLink}</td>\r\n` +
-				`        <td style="${styleCell}">${indexLink}</td>\r\n` +
-				`        <td style="${styleCell}text-align: right;">${nextLink}</td>\r\n` +
-				`      </tr>\r\n` +
-				`    </tbody>\r\n` +
-				`  </table>\r\n` +
-				`</figure>\r\n`;
-
-			html += comment;
+			html += getWikijsHeader(title);
 			html += '\r\n';
-			html += header;
+			html += getWikijsLinks(prevLink, indexLink, nextLink);
 			html += `<h1>${title}</h1>\r\n`;
 
 			//Sections & paragraphs
@@ -1408,7 +1375,7 @@ class Book {
 									t.fileline === topic.fileline);
 							});
 							if (!topicEN) {
-								topicErr.push(this.getError('topic_EN_not_found',
+								topicErr.push(this.getError('topic_en_not_found',
 									topic.name));
 								return;
 							}
@@ -1452,8 +1419,8 @@ class Book {
 			});
 
 			//Footer
-			html += '<br/>\r\n'
-			html += header;
+			html += '<br/>\r\n';
+			html += getWikijsLinks(prevLink, indexLink, nextLink);
 
 			//References section
 			if (wfootnotes.length > 0) {
@@ -1541,36 +1508,6 @@ class Book {
 			html += '</li>\r\n';
 			return html;
 		});
-	};
-
-	/**
-	 * Returns the HTML fragment with a link to a document/section/paragraph
-	 * in a Wiki.js. If text = 'bookIndexName' returns the link to generic index.
-	 * @param {string} text Text for the link.
-	 * @param {?number} paper_index Optional paper index.
-	 * @param {?number} section_index Optional section index.
-	 * @param {?number} par_index Optional paragraph index.
-	 * @return {string}
-	 */
-	getWikiHTMLLink = (text, paper_index, section_index, par_index) => {
-		par_index = (par_index != undefined ? par_index : 1);
-		const bookNameEN = Strings['bookName'].en.replace(/\s/g, '_');
-		// const paperAbbEN = Strings['bookPaperAbb'].en;
-		const indexName = Strings['bookIndexName'][this.language];
-		const indexNameEN = Strings['bookIndexName'].en;
-		let href = `/${this.language}/${bookNameEN}/`;
-		if (text == 'bookIndexName' || paper_index == undefined) {
-			href += `${indexNameEN}`;
-			return `<a href="${href}">${indexName}</a>`;
-		}
-		const stri = (paper_index > 99 ? `${paper_index}` : 
-			(paper_index > 9 ? `0${paper_index}` : `00${paper_index}`));
-		// href += `${paperAbbEN}_${stri}`;
-		href += `${stri}`;
-		if (section_index != undefined) {
-			href += `#p${section_index}_${par_index}`;
-		}
-		return `<a href="${href}">${text}</a>`;
 	};
 
 	//***********************************************************************
@@ -2178,25 +2115,6 @@ class Book {
 	//***********************************************************************
 
 	/**
-	 * Returns the title of a paper.
-	 * @param {?Object} paper Paper.
-	 * @param {?boolean} upper If return in upper case or not.
-	 * @returns {string}
-	 */
-	getTitle = (paper, upper) => {
-		upper = (upper != undefined ? upper : false);
-		if (!paper) {
-			return ' ';
-		}
-		const paperWord = Strings['bookPaper'][this.language].toUpperCase();
-		const t = paper.paper_title;
-		const i = paper.paper_index;
-		const tu = t.toUpperCase();
-		return (tu.startsWith(paperWord) ? (upper ? tu : t) : 
-			`${paperWord} ${i}. ${(upper ? tu : t)}`);
-	};
-
-	/**
 	 * Gets the Bible abbreviation for a reference or null if not found.
 	 * @param {string} content Bible reference.
 	 * @return {?string}
@@ -2269,7 +2187,7 @@ class Book {
 							`${bookName}_${paperAbb}_${i}.${format}`);
 						p = this.writeFileToWikiText(filePath, paper, topicIndex);
 					} else if (format === 'html') {
-						filePath = path.join(dirPath, `${stri}.${format}`);
+						filePath = path.join(dirPath, `${i}.${format}`);
 						p = this.writeFileToWikiHTML(filePath, paper, topicIndex,
 							topicIndexEN);
 					} else {

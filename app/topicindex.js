@@ -6,6 +6,8 @@ const extendArray = require('./utils').extendArray;
 const readFrom = require('./utils').readFrom;
 const testWords = require('./utils').testWords;
 const strformat = require('./utils').strformat;
+const getWikijsHeader = require('./utils').getWikijsHeader;
+const getWikijsBookRefLink = require('./utils').getWikijsBookRefLink;
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -518,11 +520,221 @@ class TopicIndex {
 	};
 
 	//***********************************************************************
-	// Wiki
+	// Wiki HTML
 	//***********************************************************************
 
 	/**
-	 * Writes all entries in Topic Index in Wiki format.
+	 * Writes all entries in Topic Index in Wiki HTML format for Wiki.js.
+	 * @param {string} dirPath Carpeta de salida.
+	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
+	 * current language is english then this is not required. If it is not english
+	 * then this param is required.
+	 * @return {Promise}
+	 */
+	writeToWikiHTML = (dirPath, topicIndexEN) => {
+		const baseName = path.basename(dirPath);
+		return new Promise((resolve, reject) => {
+			fs.access(dirPath, fs.constants.W_OK, (err) => {
+				if (err) {
+					reject([this.getError('dir_no_access', baseName)]);
+					return;
+				}
+				const tiOK = (this.language === 'en' || 
+					(this.language != 'en' && topicIndexEN));
+				const tiEN = (this.language === 'en' ? this : topicIndexEN);
+				if (!tiOK) {
+					reject([this.getError('topic_en_required', baseName)]);
+					return;
+				}
+				const topicErr = [];
+				const promises = this.topics.map(topic => {
+					const topicEN = (this.language === 'en' ? topic :
+						tiEN.topics.find(t => {
+							return (t.filename === topic.filename &&
+								t.fileline === topic.fileline);
+						}));
+					if (!topicEN) {
+						topicErr.push(this.getError('topic_en_not_found',
+							topic.name));
+						return;
+					}
+					const fileName = topicEN.name.replace(/ /g, '_');
+					const filePath = path.join(dirPath, `${fileName}.html`);
+					const p = this.writeFileToWikiHTML(filePath, topic, topicEN);
+					return reflectPromise(p);
+				});
+				if (topicErr.length > 0) {
+					reject(topicErr);
+					return;
+				}
+				Promise.all(promises)
+					.then((results) => {
+						const errors = [];
+						results.forEach(r => extendArray(errors, r.error));
+						if (errors.length === 0) {
+							resolve(null);
+						} else {
+							reject(errors);
+						}
+					});
+			});
+		});
+	};
+
+	/**
+	 * Writes an entry of Topic Index in Wiki HTML for Wiki.js.
+	 * @param {string} filePath Output Wiki file.
+	 * @param {Object} topic Object with Topic Index entry.
+	 * @param {Object} topicEN Object with topic Index entry in english. If 
+	 * current language is english this object is the same than topic.
+	 * @return {Promise}
+	 */
+	writeFileToWikiHTML = (filePath, topic, topicEN) => {
+		return new Promise((resolve, reject) => {
+			let html = '';
+			const tpath = `/${this.language}/topic`;
+			const title = topic.name.substring(0, 1).toUpperCase() +
+						topic.name.substring(1);
+			const seeAlsoTxt = Strings['topic_see_also'][this.language];
+			const lineRefs = [];
+			const writeRefs = (refs) => {
+				if (refs && refs.length > 0) {
+					html += `<p>${seeAlsoTxt}: `;
+					html += refs
+						.map(r => getWikijsBookRefLink(r, this.language))
+						.join('; ');
+					html += '.</p>\r\n';
+				}
+			};
+
+			html += getWikijsHeader(title);
+			html += '\r\n';
+			html += `<h1>${title}</h1>\r\n`;
+
+			// const end = '\r\n\r\n';
+			// const refs = this.sortUniqueRefs(topic);
+			// let refsUsed = refs.map(ru => false);
+			const seeAlso = this.sortUniqueSeeAlso(topic);
+
+			//Resolve redirects
+			// if (topic.isRedirect && topic.seeAlso.length === 1) {
+			// 	html = `#REDIRECT [[${topic.seeAlso[0]}]]`;
+			// }
+
+			//Add references at Topic level on top
+			writeRefs(topic.refs);
+
+			//Add line content with headings and references
+			topic.lines.forEach((line, i, lines) => {
+				const prevline = lines[i - 1];
+				const nextline = lines[i + 1];
+				const nextline2 = lines[i + 2];
+				let content = line.text;
+				content = content.substring(0, 1).toUpperCase() + 
+					content.substring(1);
+				
+				if (nextline && line.level < nextline.level) {
+					const h = `h${line.level + 2}`;
+					html += `<${h}> ${content} </${h}>\r\n`;
+					writeRefs(line.refs);
+				} else {
+					const subcontent = content.replace(/^[#\*]*/g,'').trim();
+					const isub = content.indexOf(subcontent);
+					if (content.startsWith('#') || content.startsWith('*')) {
+						content = content.substring(0, isub) + 
+							content.substring(isub, isub+1).toUpperCase() + 
+							content.substring(isub+1);
+					}
+
+					if (!content.startsWith('#') && !content.endsWith('.')) {
+						content += '.';
+					}
+					if (i === 0 || (prevline && line.level != prevline.level)) {
+						html += '<p>';
+					}
+					//TODO: links to other topics inside content
+					html += content + ' ';
+
+					if (line.refs && line.refs.length > 0) {
+						const j = lineRefs.length + 1;
+						lineRefs.push(
+							`<li id="fn${j}"><a href="#cite${j}">↑</a>` +
+							line.refs
+								.map(r => getWikijsBookRefLink(r, this.language))
+								.join('; ') +
+							'</li>\r\n');
+						html += `<sup id="cite${j}">` +
+							`<a href="#fn${j}">[${j}]</a>` +
+							`</sup>`;
+					}
+
+					//TODO: Lists
+					// if (content.startsWith('#') || content.startsWith('*')) {
+					// 	html += '\r\n';
+					// }
+					if (i === lines.length - 1 || 
+						(nextline && line.level != nextline.level) ||
+						(nextline2 && nextline.level < nextline2.level)) {
+						html += '</p>\r\n';
+					}
+				}
+				
+			});
+
+			//Add Links
+			if (seeAlso && seeAlso.length > 0) {
+				html += `<h2>${Strings['topic_links'][this.language]}</h2>\r\n`;
+				html += '<div>\r\n<ol>\r\n';
+				seeAlso.forEach(also => {
+					const alsoLink = also.replace(/ /g, '_').replace(/:/, '#');
+					const alsoText = also.substring(0, 1).toUpperCase() + 
+						also.substring(1);
+					html += `<li><a href="${tpath}/${alsoLink}">${alsoText}</a></li>\r\n`;
+				});
+				html += '</ol>\r\n</div>\r\n';
+			}
+			
+			//Add External Links
+			if (topic.links && topic.links.length > 0) {
+				html+= `<h2>${Strings['topic_external_links'][this.language]}</h2>\r\n`;
+				html += '<div>\r\n<ol>\r\n';
+				topic.links.forEach(link => {
+					if (link.indexOf('wikipedia') != -1) {
+						let linkname = link.substring(link.lastIndexOf('/') + 1)
+							.replace(/_/g, ' ');
+						html += `<li><a href="${link}">Wikipedia: ${linkname}</a></li>\r\n`;
+					} else {
+						html += `<li><a href="${link}">${link}</a></li>\r\n`;
+					}
+				});
+				html += '</ol>\r\n</div>\r\n';
+			}
+
+			//Add references
+			if (lineRefs.length > 0) {
+				html += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
+				html += '<div style="column-width: 30em;">\r\n<ol>\r\n';
+				lineRefs.forEach(f => html += '  ' + f);
+				html += '</ol>\r\n</div>\r\n';
+			}
+
+			fs.writeFile(filePath, html, 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
+			});
+		});
+	};
+
+
+	//***********************************************************************
+	// Wiki Text
+	//***********************************************************************
+
+	/**
+	 * Writes all entries in Topic Index in Wiki Text format.
 	 * Also creates an archive 'Dónde_puedo_aportar_contenido.wiki' to fill that
 	 * page easily.
 	 * @param {string} dirPath Carpeta de salida.
@@ -533,7 +745,7 @@ class TopicIndex {
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
 				if (err) {
-					reject([new Error(`El directorio ${baseName} no está accesible`)]);
+					reject([this.getError('dir_no_access', baseName)]);
 					return;
 				}
 				const promises = this.topics.map(topic => {

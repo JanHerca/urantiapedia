@@ -9,6 +9,9 @@ const extractStr = require('./utils').extractStr;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
 const readFrom = require('./utils').readFrom;
+const getWikijsHeader = require('./utils').getWikijsHeader;
+const getWikijsLinks = require('./utils').getWikijsLinks;
+const getWikijsBookRefLink = require('./utils').getWikijsBookRefLink;
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -209,47 +212,10 @@ class Bible {
 				`${Strings['bookIndexName'][this.language]}</a>`;
 
 			const title = `${book.title} - ${chapter.title}`;
-			const date = new Date();
-			const datestr = 
-				`${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}` +
-				`T${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}Z`;
-			const colorBg = 'rgb(255, 255, 255);';
-			const borderB = '0.2em solid rgb(200, 204, 209);';
-			const borderO = '1px solid rgb(200, 204, 209);';
-			const styleTable = `background-color:${colorBg}` +
-				`border-bottom:${borderB}` +
-				`border-left:${borderO}` +
-				`border-right:${borderO}` +
-				`border-top:${borderO}` +
-				`width: 100%;`;
-			const styleCell = `padding:0.4em 0.5em;` +
-				`border:${borderO}`;
 
-			const comment = `<!--\r\n` +
-				`title: ${book.title} - ${chapter.title}\r\n` +
-				`description: \r\n` +
-				`published: true\r\n` +
-				`date: ${datestr}\r\n` +
-				`tags: \r\n` +
-				`editor: ckeditor\r\n` +
-				`dateCreated: ${datestr}\r\n` +
-				`-->\r\n`;
-			const header = 
-				`<figure class="table">\r\n` +
-				`  <table style="${styleTable}">\r\n` +
-				`    <tbody>\r\n` +
-				`      <tr>\r\n` +
-				`        <td style="${styleCell}">${prevLink}</td>\r\n` +
-				`        <td style="${styleCell}">${indexLink}</td>\r\n` +
-				`        <td style="${styleCell}text-align: right;">${nextLink}</td>\r\n` +
-				`      </tr>\r\n` +
-				`    </tbody>\r\n` +
-				`  </table>\r\n` +
-				`</figure>\r\n`;
-
-			html += comment;
+			html += getWikijsHeader(`${book.title} - ${chapter.title}`);
 			html += '\r\n';
-			html += header;
+			html += getWikijsLinks(prevLink, indexLink, nextLink);
 			html += `<h1>${title}</h1>\r\n`;
 
 			const writePar = (par) => {
@@ -302,7 +268,7 @@ class Bible {
 	 */
 	footnotesToWikiHTML = (refs) => {
 		return refs.reduce((ac, cur) => {
-			const link = this.getBookLinkHTML(cur.lu_ref);
+			const link = getWikijsBookRefLink(cur.lu_ref, this.language);
 			const html = `<i>${cur.text}</i>: ${link}. `;
 			const index = ac.findIndex(i => i.bible_ref === cur.bible_ref);
 			if (index === -1) {
@@ -327,29 +293,6 @@ class Bible {
 				cite: i + 1
 			};
 		});
-	};
-
-	/**
-	 * Converts a The Urantia Book reference to a HTML fragment in Wiki.js.
-	 * @param {string} book_ref Book ref.
-	 * @returns {string}
-	 */
-	getBookLinkHTML = (book_ref) => {
-		const bookAbb = Strings.bookAbb[this.language];
-		const bookName = Strings.bookName.en.replace(/ /g,"_");
-		const path = `/${this.language}/${bookName}`;
-		const text = `${bookAbb} ${book_ref}`;
-		let link = '';
-		let ref = book_ref.replace(/[:.,-]/g,"|");
-		let data = ref.split('|');
-		if (data.length >= 3) {
-			link = `<a href="${path}/${data[0]}/#p${data[1]}_${data[2]}">${text}</a>`;
-		} else if (data.length === 2) {
-			link = `<a href="${path}/${data[0]}/#p${data[1]}">${text}</a>`;
-		} else if (data.length === 1) {
-			link = `<a href="${path}/${data[0]}">${text}</a>`;
-		}
-		return link;
 	};
 
 	//***********************************************************************
