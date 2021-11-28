@@ -1,0 +1,285 @@
+# Urantiapedia content
+
+Here is a detailed explanation of all types of content expected for *Urantiapedia*, how is accessed, organized, and who can change it.
+
+## How content is organized
+
+As in any Wiki in [Urantiapedia](https://urantiapedia.site) there are pages, each one with a unique title and URL. For example:
+* https://urantiapedia.org/en/The_Urantia_Book/156 is the URL for a page with the paper 156 of Urantia Book in english.
+* https://urantiapedia.org/es/article/How_big_is_Orvonton is the URL for a page with an article about Orvonton in spanish.
+* https://urantiapedia.org/ko/topic/Andrew is the URL for a page about the apostle Andrew in korean.
+
+Each page can be an article, a chapter of a book, the index page of a book, an index grouping links to other pages, and so on. What pages comprise is up to the creativity of users and can be modified at any time as needs change, although once a page is created it is recommended to make it permanent and use redirections if it is needed.
+
+---
+
+## User groups
+
+The table summarizes the user groups inside the web:
+
+Type | Description
+--- | ---
+ADMIN | User that can do everything
+EDITOR | User that after a request has been validated and authorized an ADMIN user
+USER | Any new created user only can see pages. To do changes must do a request to be added to EDITOR group through a validation process.
+
+---
+
+## Page types
+
+The table summarizes the types of pages. Table shows the minimum user group required to edit the type of page. ADMIN users can do everything so when table says EDITOR it implies also ADMIN.
+
+The table shows the path to add to [Urantiapedia](https://urantiapedia.site) domain to obtain the URL for english. Replace language code with the one desired for other languages. For example, the URL to obtain the index of *The Urantia Book* is:
+- in english: https://urantiapedia.org/en/The_Urantia_Book/Index
+- in spanish: https://urantiapedia.org/es/The_Urantia_Book/Index
+
+More on URLs in section below.
+
+Type | Description | Creation | Modif. | Removal | URL
+--- | --- | --- | --- | --- | ---
+WEPPAGE | Pages of Wiki itself like start page, help pages, roadmap | ADMIN |  ADMIN | ADMIN | /en/help/
+BOOK_UB | The Urantia Book | ADMIN | ADMIN (1) | ADMIN | /en/The_Urantia_Book/
+BOOK_BIBLE | The Bible | ADMIN | ADMIN (1) | ADMIN | /en/Bible/
+BOOK_AUTH | Book from an author, either who uploads the book or someone else | EDITOR | EDITOR (2) | EDITOR (2) | /en/book/[book title]
+BOOK_PUBLIC | Book that anyone can edit | EDITOR | EDITOR | EDITOR | /en/book/[book title]
+TOPIC | Pages with explanations for a term, topic or concept related to The Urantia Book | ADMIN | EDITOR | ADMIN | /en/topic/[topic name]
+INDEX | Pages with collections of links | EDITOR | EDITOR | EDITOR | /en/index/[index name]
+ARTICLE_AUTH | Article from an author, either who uploads the article or someone else | EDITOR | EDITOR (2) | EDITOR (2) | /en/article/[article title]
+ARTICLE_PUBLIC | Article that can be edited by anyone | EDITOR | EDITOR | EDITOR | /en/article/[article title]
+SLIDES_AUTH | Slides from an author, either who uploads the slides or someone else | EDITOR | EDITOR (2) | EDITOR (2) | /en/slides/[slides title]
+SLIDES_PUBLIC | Slides that can be edited by anyone | EDITOR | EDITOR | EDITOR | /en/slides/[slides title]
+MAPS_AUTH | Map (3) from an author, either who uploads the slides or someone else | EDITOR | EDITOR (2) | EDITOR (2) | /en/map/[map title]
+MAPS_PUBLIC | Map (3) that can be edited by anyone | EDITOR | EDITOR | EDITOR | /en/map/[map title]
+IMAGE | An image, either a drawing or a graph schema or illustration | EDITOR | EDITOR | EDITOR (4) | /en/image/[image name]
+3DMODEL | A 3D model | EDITOR | EDITOR | EDITOR (5) | /en/3dmodel/[3dmodel name]
+
+(1) Indirectly changes in TOPIC pages produce changes also in BOOK pages for The Urantia Book.
+
+(2) The EDITOR user that created the page. The page will be linked to this user.
+
+(3) Maps can be in 2D or 3D an can contain:
+- Point marks with a popup showing locations. Popups can have links to Wiki or external.
+- Paths: several pathpoints with popups in each showing a traveling of a person or people. This paths can be shown as animations.
+- Areas: polygons showing location of something without a specific location like empires or nations.
+
+(4) An image only can be removed if there is no other page that links to it. The page of the image, the page that allows to update the image, must allow to know the list of pages that uses the image. Images only could be upload in certain formats and max sizes.
+
+(5) A 3D model only can be removed if there is no other page that links to it. The page of the 3D model, the page that allows to update the 3D model, must allow to know the list of pages that uses the 3D model. 3D models only could be upload in certain format (preferably glTF) and max sizes.
+
+---
+
+## Help pages
+
+These are pages with content about *Urantiapedia* itself, like user manuals, recommendations, policy documents, progress status and the like. These pages have this URL pattern: `https://urantiapedia.org/[lan]/help/[title]`
+
+---
+
+## Books
+
+Inside books not only *The Urantia Book* is included in all its translations but also the Bible and any public-domain book that is assumed to be a source used by revelators or with content that can explain topics of *The Urantia Book*. Also can be included books that are derivative works from *The Urantia Book* whose authors want to offer with an open license. All this could comprise a kind of *urantian library*, something like Wikisource but everything related with Urantia Book.
+
+### The Urantia Book
+
+Regarding *The Urantia Book* there is a main page for each translation with the title, copyright, year, etc, one page for the index of the papers, one page for the extended version of the index, and finally one page for each paper. For english, some examples of these pages:
+- https://urantiapedia.org/en/The_Urantia_Book
+- https://urantiapedia.org/en/The_Urantia_Book/Index
+- https://urantiapedia.org/en/The_Urantia_Book/Index_Extended
+- https://urantiapedia.org/en/The_Urantia_Book/147
+
+Other content as the *Publishing mandate* also can be included under the same path.
+
+Each paper page has, apart from the content itself with sections, some extra sections:
+- *References* contain links for quotes or supposed quotes. In *The Urantia Book* the authors themselves indicate that they often act more as compilers than revelators, using existing human documentation. Sometimes what is a verbatim quote is implied because developers use quotation marks. In others the quote is only subtle and difficult to detect. Many readers have found these quotes over time. Quotations often refer to a passage in *The Bible*, or to a book on religion, philosophy, or science from the time the revelations were written or earlier. In this *References* section is where links will be placed to the biblical passage or to any other book used by revelators. *The Bible* and other sources will also be within the *Urantiapedia* as long as the books are in public domain, so that possible sources of revelators can be read while reading the book.
+- *Links* are links to any article, topic, index or image that is related to the paper and provides helpful content that clarifies the paper.
+- There could also be an *External Links* section with links to other websites that could have useful information related to the paper.
+
+This sections with *References*, *Links* and *External links* will be a common pattern in most of *Urantiapedia* pages.
+
+### The Bible
+
+Regarding *The Bible*, as it is a main book massively quoted from *The Urantia Book* authors, it has a short path to it. Each book of the Bible has one page, and each chapter one page for it. For example, these are links for books and chapters of Genesis an gospel of John:
+- https://urantiapedia.org/en/Bible/Genesis
+- https://urantiapedia.org/en/Bible/Genesis/Index
+- https://urantiapedia.org/en/Bible/Genesis/2
+- https://urantiapedia.org/en/Bible/John
+- https://urantiapedia.org/en/Bible/John/Index
+- https://urantiapedia.org/en/Bible/John/2
+
+Valid book names to use in the URL:
+
+ | | | | |
+ --- | --- | --- | ---
+Genesis | Exodus | Leviticus | Numbers 
+Deuteronomy | Joshua | Judges | Ruth
+1_Samuel | 2_Samuel | 1_Kings | 2_Kings
+1_Chronicles | 2_Chronicles | Ezra | Nehemiah
+Esther | 1_Maccabees | 2_Maccabees | Job
+Psalms | Proverbs | Ecclesiastes | Song_of_Solomon
+Sirach | Wisdom_of_Solomon | Isaiah | Jeremiah
+Lamentations | Baruch | Ezekiel | Daniel
+Hosea | Joel | Amos | Obadiah | Jonah
+Micah | Nahum | Habakkuk | Zephaniah
+Haggai | Zechariah | Malachi | Matthew
+Mark | Luke | John | Acts
+Romans | 1_Corinthians | 2_Corinthians | Galatians
+Ephesians | Philippians | Colossians | 1_Thessalonians
+2_Thessalonians | 1_Timothy | 2_Timothy | Titus
+Philemon | Hebrews | James | 1_Peter
+2_Peter | 1_John | 2_John | 3_John
+Jude | Revelation | Bel_and_the_Dragon | Prayer_of_Manesseh
+Tobit | Judith | Enoch | Assumption_of_Moses
+
+Other book related with Bible as non canonical books can be placed under the same path if they are related to *The Urantia Book* in some way. One good example is the book of Enoch, that is mentioned explicitly.
+
+### Other books supposed to be sources
+
+Regarding any other book apart from Bible that is a possible source of *The Urantia Book*, they can be added in a `book` path, with one page for book title, author, copyright and date, one for the index, and one for each chapter. It is important that if books are old and have been scanned, both the scanned images and the text be made available. Images can be added as a collection of images linked in an *Original* section at the bottom of each chapter text.
+
+For example, Matthew Block is a reader that has done a great work finding source material of *The Urantia Book*, as explained in https://urantiabooksources.com/. One of the books he has identified as a possible source of revelators is *The Universe Around Us*, from sir James Jeans, published in 1930. As this book has entered public domain, it can be added to *Urantiapedia*, and links to this book can be like this:
+- https://urantiapedia.org/en/book/The_Universe_Around_Us
+- https://urantiapedia.org/en/book/The_Universe_Around_Us/Index
+- https://urantiapedia.org/en/book/The_Universe_Around_Us/3
+
+### Other books from readers
+
+Readers can also add to *Urantipedia* their own written books if they want to share as a public license. They way to add them is as with any other book, in the `book` path, with one page for title, author, copyright notice and date, one page for index, and one page per chapter. Books, of course, must have a relation with *The Urantia Book* and provide some kind of help in the understanding of the book, not be novels or any inspired work with few relations to the book.
+
+The URL pattern for these books is like this: `https://urantiapedia.org/en/book/[book_title]`. Be aware that book title in URL is recommended to be in english even if the original language in which the book is written is not english. Check more about this in a section below.
+
+---
+
+## Articles
+
+This includes any article, help material and opinion document that may be interesting for studying and understanding *The Urantia Book*.
+
+Each will be a page with sections. It is highly recommended to have the common sections *References*, *Links* and *External links*. Images will be added so that they are linkable as entities by themselves, so that many articles can share the same images without repeating them. *References* are important. Many readers have written articles in which they do not correctly include the reference to a quote from Urantia book or from any scientific paper. Whenever possible, these articles should be amended to add these missing references. Without references, the information is not true.
+
+The URL pattern for an article should follow this: `https://urantiapedia.org/en/article/[article_title]`. Be aware that although articles has a title in the original language in which they were written by its author, it is a good practice to use a translated name in english. This way URL may have a consistent pattern.
+
+Let's put an example. Imagine a spanish reader has created an article titled *Nazaret en tiempos de Jesús*, that we can translate to *Nazareth in Jesus times*. The better choice for URL would be
+
+https://urantiapedia.org/es/article/Nazareth_in_Jesus_times
+
+instead of
+
+https://urantiapedia.org/es/article/Nazaret_en_tiempos_de_Jesús
+
+Be aware that the purpose of *Urantipedia* is allow a multi-language content for everybody, and any page uploaded to it is expected to be translated to all supported languages at some point in future. English titles provide a unified common way to identify URLs. This do no affects the title of the page, that is always a different value from the URL. More on this in a section below.
+
+---
+
+## Topics
+
+These are a type of article related to a specific topic of *The Urantia Book*. For example, a concept like *absonity*, or a person like *Grandfanda*, or a type of being like *Thought Adjusters*, or a place like *Nazareth* or *Orvonton*, an event like *the arrival of Adam and Eve*, and so on.
+
+Each topic will have the common sections *References* with links to *The Urantia Book*, *Links* with links to other pages in *Urantiapedia*. For example, the page about *Nazareth* can contain a brief and basic explanation about Nazareth (where it is, why it is important, geographic coordinates with links to maps), but the *Links* section can have a link to an article in which a reader delves into the city of Jesus, what it was like in Jesus time and what archaeological finds have been found that seem to corroborate or not the book's claims. Finally each page can contain an *External links* section for more links outside the page.
+
+The URL pattern for a topic is: `https://urantiapedia.org/en/topic/[topic_name]`. Topic names are always in english although the title in the page will be in each given language.
+
+---
+
+## Indexes
+
+Different indexes are included here. If the number of elements obtained in the index is very high, there can be a main page with main sections and then secondary pages. Whenever possible it is preferable that each index is only one page, so that it is easier to locate something.
+
+These could be some of the indexes:
+
+Index | Description | Sorted | Path
+--- | --- | --- | ---
+Index of topics | Known as Glossary | Alphabetically | /en/index/topics
+Index of people | Subset of Glossary for proper names for persons or personalities | Alphabetically | /en/index/people
+Index of beings | Subset of Glossary for types of beings in the universe (1) | Alphabetically | /en/index/beings
+Index of places | Subset of Glossary for places, in the universe or on Earth | Alphabetically | /en/index/places
+Biblical Index | For each book of Bible, links to *The Urantia Book* where a verse is relevant | By biblical order (Genesis, Exodus, etc.) | /en/index/biblical
+Index of References | For each document of *The Urantia Book*, all references in other books, either Bible or others | By book paper | /en/index/references
+Index of quotes | List of references in the book to emblematic sentences | By themes (God, the Universe, the Angels, Jesus, etc.) | /en/index/quotes
+Chronology of the Earth | Events in Earth (2) | Chronologically | /en/index/earth_timeline
+Chronology of the life of Jesus | Description of main Jesus events and links to the book | By year, month and day | /en/index/Jesus_timeline
+
+(1) If a type of being receives different names (for example, *Third Source and Center* = *Conjoint Actor*), each entry will have next to it the list of the rest of equivalent terms.
+
+(2) Chronologies can be considered a type of event index. In this case it would be a chronology, ordered by date, of the events of the earth's evolutionary development. It could include the historical events mentioned in the book.
+
+---
+
+## Images
+
+Images for all the webpage:
+
+* Urantia art. Drawings or photographs that evoke a concept from the book.
+* Schemes. Infographics or graphics that explain and clarify topics in the book.
+* Photos. Royalty-free images used anywhere on the *Urantiapedia*.
+* Animations. Animated images that clarify concepts that involve an animated visualization.
+
+---
+
+## Slides
+
+TODO
+
+---
+
+## Maps
+
+TODO
+
+---
+
+## 3D models
+
+TODO
+
+---
+
+
+## URLs
+
+Each page in *Urantiapedia* has both a title and an URL. Titles can be repeated throughout the site if needed, but each URL must be unique. To achieve this URLs must follow this generic pattern:
+
+`https://urantiapedia.org/[lan]/[path]/[page name]`
+
+- `[lan]` is the code of any language supported, that are the languages with a translation for *The Urantia Book*. Check [Languages](https://github.com/JanHerca/urantiapedia/blob/master/docs/Languages.md).
+- `[path]` is the path depending in the type of page:
+	- Page of the site: `help`
+	- *The Urantia Book*: `The_Urantia_Book`
+	- *The Bible*: `Bible`
+	- Other books: `book/[book title]`
+	- Topic: `topic`
+	- Index: `index`
+	- Article: `article`
+	- Image: `image`
+	- Presentation: `slides`
+	- Map: `map`
+	- 3D model: `3dmodel`
+- `[page name]` is the name that appears in URL, that must have underscores instad of white spaces. For books each page is a chapter, so `[page name]` must just a number, the one of the chapter. If the book contains a preface that chapter is numbered zero.
+
+`[book title]` and `[page name]` should have short names whenever possible and preferably in english. English is the default language of the site. The reason for this is *The Urantia Book* was written in english and today is a universal language used everywhere. Having different page_names for different languages make it harder to switch between languages and should require a system to connect sibling pages. By using a unique page name for all translations it is easier to know how to reach any page in any language once the english page is known.
+
+Examples of URLs:
+- https://urantiapedia.org/de/help/references
+- https://urantiapedia.org/ja/The_Urantia_Book
+- https://urantiapedia.org/hu/The_Urantia_Book/Index
+- https://urantiapedia.org/it/The_Urantia_Book/Index_Extended
+- https://urantiapedia.org/en/The_Urantia_Book/147
+- https://urantiapedia.org/bg/Bible/Genesis
+- https://urantiapedia.org/es/Bible/Genesis/Index
+- https://urantiapedia.org/id/Bible/Genesis/2
+- https://urantiapedia.org/lt/Bible/John
+- https://urantiapedia.org/ro/Bible/John/Index
+- https://urantiapedia.org/en/Bible/John/2
+- https://urantiapedia.org/en/book/The_Universe_Around_Us
+- https://urantiapedia.org/en/book/The_Universe_Around_Us/Index
+- https://urantiapedia.org/en/book/The_Universe_Around_Us/3
+- https://urantiapedia.org/ko/topic/Andrew
+- https://urantiapedia.org/es/article/Nazareth_in_Jesus_times
+- https://urantiapedia.org/en/article/How_big_is_Orvonton
+- https://urantiapedia.org/en/index/topics
+- https://urantiapedia.org/en/index/people
+- https://urantiapedia.org/ru/image/Master_Universe
+- https://urantiapedia.org/pt/slides/Part_II_Introduction
+- https://urantiapedia.org/cs/map/Jesus_Second_Preaching_Tour
+- https://urantiapedia.org/es/3dmodel/Isle_of_Paradise
+
+It is a good idea to mantain these conventions so URL have a consistent way of being constructed and this way are easier to remember.
+
+---

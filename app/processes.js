@@ -107,6 +107,15 @@ const Processes = {
 		controls: ['dirJTextbox', 'dirWTextbox'],
 		paths: ['json/book-{0}-footnotes', 'wiki/book-{0}']
 	},
+	"BOOK_INDEX_JSON_TO_WIKIHTML": {
+		active: true,
+		desc: {
+			en: "Convert Urantia Book Index (JSON) to Wiki HTML",
+			es: "Convertir Indice de Libro de Urantia (JSON) a Wiki HTML"
+		},
+		controls: ['dirJTextbox', 'dirHTextbox'],
+		paths: ['json/book-{0}-footnotes', 'wikihtml/{0}/The_Urantia_Book']
+	},
 	"BIBLE_TEX_BIBLEREF_TXT_TO_WIKITEXT": {
 		active: false,
 		desc: {
@@ -185,6 +194,15 @@ const Processes = {
 		},
 		controls: ['dirTTextbox', 'dirWTextbox', 'drpCategories'],
 		paths: ['txt/topic-index-{0}', 'wiki/topic-index-{0}']
+	},
+	"TOPICS_INDEX_TXT_TO_WIKIHTML": {
+		active: true,
+		desc: {
+			en: "Convert index of Topic Index (TXT) to Wiki HTML",
+			es: "Convertir Indice de Topic Index (TXT) a Wiki HTML"
+		},
+		controls: ['dirTTextbox', 'dirHTextbox', 'drpCategories'],
+		paths: ['txt/topic-index-{0}', 'wikihtml/{0}/topic']
 	},
 	"REVIEW_TOPIC_TXT_LU_JSON": {
 		active: true,

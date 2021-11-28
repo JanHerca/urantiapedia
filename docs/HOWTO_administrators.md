@@ -1,94 +1,94 @@
-# Urantiapedia - Manual para «administradores»
+# Urantiapedia - Handbook for "administrators"
 
-## Acerca de la Urantiapedia
+## About Urantiapedia
 
-*Urantiapedia* (https://urantiapedia.site) es una web colaborativa basada en [*MediaWiki*](https://www.mediawiki.org/wiki/MediaWiki) con el propósito de servir de centro unificado de difusión de todo el conocimiento relativo a *El Libro de Urantia*.
-
----
-
-## Acerca de Blue Fields
-
-*Blue Fields* (https://blue-fields.netlify.app/) es una web que ha sido creada para unir y organizar a lectores de *El Libro de Urantia* que desean participar en proyectos inteligentes, propositados y altruistas en todo el mundo.
+* Urantiapedia * (https://urantiapedia.site) is a collaborative website based on [* MediaWiki *] (https://www.mediawiki.org/wiki/MediaWiki) with the purpose of serving as a unified center for the dissemination of all knowledge regarding * The Urantia Book *.
 
 ---
 
-## Acerca de GitHub
+## About Blue Fields
 
-El proyecto *Urantiapedia* en GitHub (https://github.com/JanHerca/urantiapedia) es un proyecto creado para servir de procedimiento rápido de creación inicial de la *Urantiapedia*. Contiene unos archivos en ciertos formatos y un software que ayudan a automatizar la creación de un contenido inicial.
-
----
-
-## A quién va dirigido este manual
-
-Este manual va dirigido a los usuarios denominados «administradores», es decir, aquellos usuarios que cumplen los siguientes requisitos:
-- son usuarios registrados con una cuenta en [Blue Fields](https://blue-fields.netlify.app/) y en [GitHub](https://github.com/).
-- son usuarios que han sido autorizados como administradores del proyecto por el equipo que dirige el proyecto en la plataforma [Blue Fields](https://blue-fields.netlify.app/).
-- son usuarios registrados con una cuenta en la página *Urantiapedia* (https://urantiapedia.site). Durante la fase de preparación del proyecto este registro sólo lo podrán hacer otros usuarios «administradores» ya existentes con una cuenta en *Urantiapedia*.
-- son usuarios con amplios conocimientos de manejo de GitHub y *MediaWiki*.
-- son usuarios con amplio conocimiento de *El Libro de Urantia* al menos en un idioma en los que está publicado, y preferiblemente con un buen nivel de la versión en inglés.
-- desean colaborar de forma desinteresada en la incorporación de información relativa a *El Libro de Urantia* en la *Urantiapedia*.
-
-Los «administradores» de la web son los únicos encargados de subir cambios a la web *Urantiapedia* para comprobar el resultado del trabajo durante la fase de preparación.
+* Blue Fields * (https://blue-fields.netlify.app/) is a website that has been created to unite and organize readers of * The Urantia Book * who wish to participate in intelligent, purposeful and altruistic projects in all the world.
 
 ---
 
-## Flujo de trabajo
+## About GitHub
 
-Sobre las fases del proyecto, el procedimiento de trabajo, el contenido planificado para el proyecto y cómo está organizado consultar el [Manual para «editores GitHub»](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_github_editors.md)
-
-La lista de tareas a realizar es la siguiente:
-1. Traducción del *Paramony* del inglés al idioma de destino.
-2. Traducción y revisión del *Índice de términos* del inglés al idioma de destino.
-3. Obtención de una traducción de *La Biblia* en el idioma de destino.
-4. Conversión de *El Libro de Urantia* de HTML a JSON sin notas al pie.
-5. Adición de notas al pie a *El Libro de Urantia* en JSON.
-6. Conversión del *Índice de términos* de TXT a Wikitext.
-7. Conversión de *El Libro de Urantia* de JSON con notas al pie a Wikitext incluyendo referencias a los términos.
-8. Conversión de *La Biblia* de LaTeX a Wikitext con notas al pie.
-
-Los «editores GitHub» realizarán las tareas 1 a 3. Los «administradores» se encargan de las tareas 4 a 8. Pasamos a detallar cada tarea de los «administradores» en las secciones siguientes.
+The * Urantiapedia * project on GitHub (https://github.com/JanHerca/urantiapedia) is a project created to serve as a quick start-up procedure for * Urantiapedia *. It contains files in certain formats and software that help automate the creation of initial content.
 
 ---
 
-## Conversión de *El Libro de Urantia* de HTML a JSON sin notas al pie
+## Who is this manual for?
 
-Los ficheros de entrada en formato HTML deberán estar en las carpetas `input/html/book-xx`, donde `xx` son las dos letras del idioma (`es` = español, `en` = inglés, etc.)
+This manual is intended for users called "administrators", that is, those users who meet the following requirements:
+- are registered users with an account on [Blue Fields] (https://blue-fields.netlify.app/) and on [GitHub] (https://github.com/).
+- are users who have been authorized as project administrators by the team that runs the project on the [Blue Fields] platform (https://blue-fields.netlify.app/).
+- they are registered users with an account on the * Urantiapedia * page (https://urantiapedia.site). During the project preparation phase, this registration can only be made by other existing "administrator" users with an account on * Urantiapedia *.
+- They are users with extensive knowledge of GitHub and * MediaWiki *.
+- are users with extensive knowledge of * The Urantia Book * in at least one language in which it is published, and preferably with a good level of the English version.
+- they wish to collaborate in a selfless way in the incorporation of information related to * The Urantia Book * in the * Urantiapedia *.
 
-> IMPORTANTE: Los ficheros HTML tal cual descargados de la web oficial de la [Fundación Urantia](https://www.urantia.org/urantia-book/download-text-urantia-book) pueden tener algunos problemas para ser procesados tal cual y resulte necesario introducir pequeñas modificaciones para ayudar en el proceso de conversión al formato JSON.
+The website "administrators" are the only ones in charge of uploading changes to the * Urantiapedia * website to check the results of the work during the preparation phase.
 
-Una vez descargados los archivos de la web de la *Fundación Urantia* debería existir un archivo (*.html) por cada documento de *El Libro de Urantia*, en total 197 archivos. El nombre de cada archivo con cada documento debe cumplir el patrón de que los últimos tres caracteres del nombre sean el número del documento, desde 000 a 196 para que la conversión luego funcione. Por ejemplo, en francés el fichero con el documento 1 se llama `06-Fascicule001.html`; el mismo fichero en búlgaro se llama `06-Документ001.html`.
+---
 
-Puesto que en formato HTML *El Libro de Urantia* puede adoptar diferentes etiquetas HTML para lo que se considera el título del documento, el título de una sección, etc., en el programa que realiza la conversión quizá sea necesario incluir algunas modificaciones cuando se incorpore un nuevo idioma. Este trabajo correrá a cargo de los usuarios «desarrolladores», que son los usuarios que están a cargo del desarrollo de las *Urantiapedia Tools*. Este software está desarrollado en Javascript y el código se encuentra en la carpeta `app` del proyecto.
+## Workflow
 
-Actualmente están disponibles los archivos para 24 idiomas: búlgaro (`book-bg`), checo (`book-cs`), danés (`book-da`), alemán (`book-de`), griego (`book-el`), inglés (`book-en`), español (`book-es`, `book-es-1993` y en breve `book-es-2021`), estonio (`book-et`), farsi (`book-fa`), finlandés (`book-fi`), francés (`book-fr`), hebreo (`book-he`), húngaro (`book-hu`), indonesio (`book-id`), italiano (`book-it`), japonés (`book-ja`), coreano (`book-ko`), lituano (`book-lt`), holandés (`book-nl`), polaco (`book-pl`), portugués (`book-pt`), rumano (`book-ro`), ruso (`book-ru`) y sueco (`book-sv`). Estos archivos ya han sido modificados y procesados para que el programa de conversión a JSON funcione correctamente con ellos, y también están disponibles los ficheros JSON resultantes.
+For the phases of the project, the working procedure, the content planned for the project and how it is organized, consult the [Manual for "GitHub editors"] (https://github.com/JanHerca/urantiapedia/blob/master/docs/ HOWTO_github_editors.md)
 
-La traducción al farsi está actualmente en proceso y no se encuentran todos los documentos disponibles.
+The list of tasks to be carried out is as follows:
+1. Translation of * Paramony * from English to the target language.
+2. Translation and revision of the * Index of terms * from English to the target language.
+3. Obtain a translation of * The Bible * in the target language.
+4. Converting * The Urantia Book * from HTML to JSON without footnotes.
+5. Adding footnotes to * The Urantia Book * in JSON.
+6. Conversion of the * Term Index * from TXT to Wikitext.
+7. Conversion of * The Urantia Book * from JSON with footnotes to Wikitext including references to terms.
+8. Converting * The Bible * from LaTeX to Wikitext with footnotes.
 
-Conviene tener presente que en el idioma español existen actualmente tres traducciones. Las tres traducciones van a estar disponibles en la *Urantiapedia*. Por esa razón habrá estas carpetas:
-- `book-es`, con la traducción denominada Europea, hecha en 2009; 
-- `book-es-1993`, con la primera traducción al español hecha en 1993; 
-- `book-es-2021`, con la nueva traducción hecha en 2021.
+The "GitHub editors" perform tasks 1-3. The "administrators" perform tasks 4-8. We detail each "administrators" task in the following sections.
+
+---
+
+## Conversion of * The Urantia Book * from HTML to JSON without footnotes
+
+The input files in HTML format must be in the `input / html / book-xx` folders, where` xx` are the two letters of the language (`es` = Spanish,` en` = English, etc.)
+
+> IMPORTANT: HTML files as is downloaded from the [Urantia Foundation] official website (https://www.urantia.org/urantia-book/download-text-urantia-book) may have some problems to be processed as which and it is necessary to introduce small modifications to help in the process of conversion to JSON format.
+
+Once the files have been downloaded from the * Urantia Foundation * website, there should be one file (* .html) for each document of * The Urantia Book *, a total of 197 files. The name of each file with each document must meet the pattern that the last three characters of the name are the document number, from 000 to 196 for the conversion to work later. For example, in French the file with document 1 is called `06-Fascicule001.html`; the same file in Bulgarian is called `06-Документ001.html`.
+
+Since in HTML format * The Urantia Book * can adopt different HTML tags for what is considered the title of the document, the title of a section, etc., in the program that performs the conversion it may be necessary to include some modifications when add a new language. This work will be done by the "developer" users, who are the users who are in charge of the development of the * Urantiapedia Tools *. This software is developed in Javascript and the code is in the `app` folder of the project.
+
+Files for 24 languages ​​are currently available: Bulgarian (`book-bg`), Czech (` book-cs`), Danish (`book-da`), German (` book-de`), Greek (`book- el`), English (`book-en`), Spanish (` book-es`, `book-es-1993` and soon` book-es-2021`), Estonian (`book-et`), Farsi (`book-fa`), Finnish (` book-fi`), French (`book-fr`), Hebrew (` book-he`), Hungarian (`book-hu`), Indonesian (` book-id `), Italian (` book-it`), Japanese (`book-ja`), Korean (` book-ko`), Lithuanian (`book-lt`), Dutch (` book-nl`), Polish ( `book-pl`), Portuguese (` book-pt`), Romanian (`book-ro`), Russian (` book-ru`), and Swedish (`book-sv`). These files have already been modified and processed so that the JSON conversion program works correctly with them, and the resulting JSON files are also available.
+
+The Farsi translation is currently in process and not all documents are available.
+
+It should be borne in mind that there are currently three translations in the Spanish language. All three translations are going to be available on * Urantiapedia *. For that reason there will be these folders:
+- `book-es`, with the so-called European translation, made in 2009;
+- `book-es-1993`, with the first Spanish translation made in 1993;
+- `book-es-2021`, with the new translation made in 2021.
 
 
-Para convertir los ficheros de HTML a JSON sin las notas al pie hay que seguir estos pasos:
-- Abrir las *Urantiapedia Tools*.
-- En *Proceso* seleccionar: convertir Libro de Urantia (HTML) a JSON.
-- Seleccionar como carpeta de entrada (*Ficheros HTML*) una de `input/html/`, como por ejemplo `input/html/book-fr` para el francés.
-- Seleccionar como carpeta de salida (*Ficheros JSON*) una con idéntico nombre pero en `input/json`, por ejemplo `input/json/book-fr` para el francés.
-- Click en *Ejecutar*.
-- Si todo está correcto aparecerá *Conversión realizada con éxito*. En caso de errores aparecerá el listado de errores. En este caso conviene avisar a alguno de los usuarios «desarrolladores» por si existe algún problema con el software.
+To convert files from HTML to JSON without footnotes, follow these steps:
+- Open the * Urantiapedia Tools *.
+- In * Process * select: convert Urantia Book (HTML) to JSON.
+- Select as input folder (* HTML Files *) one of `input / html /`, such as `input / html / book-fr` for French.
+- Select as output folder (* JSON files *) one with the same name but in `input / json`, for example` input / json / book-fr` for French.
+- Click on * Run *.
+- If everything is correct, * Conversion successful * will appear. In case of errors, the list of errors will appear. In this case, it is advisable to notify one of the "developer" users in case there is a problem with the software.
 
-![](upt_html_json.png)
+! [] (upt_html_json.png)
 
-Los ficheros resultantes en formato JSON deberán guardarse en las carpetas `input/json/book-xx`, donde `xx` son las dos letras del idioma (`es` = español, `en` = inglés, etc.)
+The resulting files in JSON format should be saved in the `input / json / book-xx` folders, where` xx` are the two letters of the language (`es` = Spanish,` en` = English, etc.)
 
-> IMPORTANTE: Estos ficheros no los deben generar ni editar los usuarios de forma manual. Siempre deben crearse por conversión del formato HTML.
+> IMPORTANT: These files should not be generated or edited by users manually. They should always be created by conversion from the HTML format.
 
-Existirá un archivo por cada documento de *El Libro de Urantia*, en total 197 archivos. Los archivos se denominan `DocXXX.json`, donde `XXX` es el número de documento desde `000` a `196`.
+There will be one file for each * The Urantia Book * document, a total of 197 files. The files are named `DocXXX.json`, where` XXX` is the document number from `000` to` 196`.
 
-El formato de estos archivos es JSON (https://es.wikipedia.org/wiki/JSON). Existe un conversor en las *Urantiapedia Tools* que luego convierte este formato JSON al formato Wikitext final.
+The format of these files is JSON (https://es.wikipedia.org/wiki/JSON). There is a converter in the * Urantiapedia Tools * that then converts this JSON format to the final Wikitext format.
 
-La estructura de los ficheros JSON es ésta:
+The structure of the JSON files is this:
 
 ```json
 {
@@ -119,221 +119,98 @@ La estructura de los ficheros JSON es ésta:
     "paper_title": "<título del documento, sin poner Documento X, sólo el título>"
 }
 ```
-En los archivos JSON resultantes de esta tarea la sección `footnotes` se encontrará vacía. Para completarla hay que ejecutar la tarea siguiente.
+In the JSON files resulting from this task, the `footnotes` section will be empty. To complete it, the following task must be executed.
 
-Para formatear el texto del párrafo con algunos caracteres extraños que aparecen en *El Libro de Urantia* en los ficheros JSON se usan estos equivalentes:
+To format the text of the paragraph with some strange characters that appear in * The Urantia Book * in the JSON files these equivalents are used:
 
-Tipo de caracter | Cómo se escriben
----|---
-Cursiva | * * (entre asteriscos)
-Versalitas | $ $ (entre signos de dólar)
-Subrayado (para idiomas que no incluyen opción de cursiva) | \| \| (entre plecas)
+Character type | How they are written
+--- | ---
+Italic | * * (between asterisks)
+Small caps | $ $ (between dollar signs)
+Underline (for languages ​​that do not include italic option) | \ | \ | (between plecas)
 
 
 ---
 
-## Adición de notas al pie a *El Libro de Urantia* en JSON
+## Adding footnotes to * The Urantia Book * in JSON
 
-La adición de notas al pie a *El Libro de Urantia* requiere haber realizado previamente las siguientes tareas:
-- Traducción del *Paramony* del inglés al idioma de destino. El resultado de esta tarea es un archivo para cada idioma (`input/json/footnotes-book-xx.json`).
-- Conversión de *El Libro de Urantia* de HTML a JSON sin notas al pie. El resultado de esta tarea es un conjunto de 197 archivos en una carpeta para cada idioma (`input/json/book-xx`).
+Adding footnotes to * The Urantia Book * requires that you have previously completed the following tasks:
+- Translation of * Paramony * from English to the target language. The result of this task is a file for each language (`input / json / footnotes-book-xx.json`).
+- Converting * The Urantia Book * from HTML to JSON without footnotes. The result of this task is a set of 197 files in a folder for each language (`input / json / book-xx`).
 
-Para añadir las notas al pie en los archivos JSON hay que seguir estos pasos:
-- Abrir las *Urantiapedia Tools*.
-- En *Proceso* seleccionar: Actualizar Refs Biblia en Libro de Urantia (JSON).
-- Seleccionar como carpeta de entrada (*Ficheros JSON*) una de `input/json/`, como por ejemplo `input/json/book-fr` para el francés.
-- Click en *Ejecutar*.
-- Si todo está correcto aparecerá *Conversión realizada con éxito*. En caso de errores aparecerá el listado de errores. En este caso conviene avisar a alguno de los usuarios «desarrolladores» por si existe algún problema con el software.
+To add footnotes to JSON files, follow these steps:
+- Open the * Urantiapedia Tools *.
+- In * Process * select: Update Urantia Book Bible Refs (JSON).
+- Select as input folder (* JSON files *) one of `input / json /`, such as `input / json / book-fr` for French.
+- Click on * Run *.
+- If everything is correct, * Conversion successful * will appear. In case of errors, the list of errors will appear. In this case, it is advisable to notify one of the "developer" users in case there is a problem with the software.
 
-![](upt_json_json.png)
+! [] (upt_json_json.png)
 
-Los ficheros de salida son diferentes a los de entrada para evitar que si hay cualquier problema queden inservibles. La salida se guarda en carpetas `input/json/book-xx-footnotes`, donde `xx` es el código de idioma idéntico al usado como carpeta de entrada.
-
----
-
-## Conversión del *Índice de términos* de TXT a Wikitext
-
-Los ficheros del *Índice de términos* en formato TXT son creados y revisados por los «editores GitHub». Estos archivos deben dejarse en carpetas como `input/txt/topic-index-xx` donde `xx` es el código del idioma de destino.
-
-Para convertir estos ficheros TXT a formato Wikitext hay que seguir estos pasos:
-- Abrir las *Urantiapedia Tools*.
-- En *Proceso* seleccionar: Convertir TopicIndex (TXT) a Wiki.
-- Seleccionar como carpeta de entrada (*Ficheros TXT*) una de `input/txt/topic-index-xx`.
-- Seleccionar como carpeta de salida (*Ficheros Wiki*) una de `input/wiki/topic-index-xx`. Si en la carpeta de salida ya existen ficheros Wikitext se sobreescribirán los existentes.
-- En *Categorías de términos* seleccionar `TODOS` para procesar todos los términos de todas las categorías, o alternativamente, seleccionar sólo una categoría si se desea generar sólo los términos que pertenecen a esa categoría.
-- Click en *Ejecutar*.
-- Si todo está correcto aparecerá *Conversión realizada con éxito*. En caso de errores aparecerá el listado de errores. En este caso conviene avisar a alguno de los usuarios «desarrolladores» por si existe algún problema con el software.
-
-![](upt_txt_wiki.png)
-
-Los ficheros de salida tienen formato Wikitext y extensión `*.wiki`. Se generará un archivo por cada término, cada uno dentro de una carpeta con el mismo nombre (`_`, `A`, `B`, etc.) que tienen los archivos `*.txt` de entrada.
-
-Los ficheros de salida ya tienen el formato que permite subirlos directamente a la *Urantiapedia* usando el comando `importTextFiles.php`.
+The output files are different from the input files to avoid that if there is any problem they are unusable. The output is saved in `input / json / book-xx-footnotes` folders, where` xx` is the language code identical to the one used as the input folder.
 
 ---
 
-## Conversión de *El Libro de Urantia* de JSON con notas al pie a Wikitext incluyendo referencias a los términos
+## Conversion of * Term Index * from TXT to Wikitext
 
-Los ficheros de *El Libro de Urantia* en formato JSON con las notas al pie se generan con la herramienta *Actualizar Refs Biblia en Libro de Urantia (JSON)*, como ya hemos visto, y los ficheros resultantes se guardan en carpetas `input/json/book-xx-footnotes`.
+The * Term Index * files in TXT format are created and reviewed by "GitHub editors". These files should be left in folders like `input / txt / topic-index-xx` where` xx` is the code of the target language.
 
-Para convertir estos ficheros JSON a formato Wikitext hay que seguir estos pasos:
-- Abrir las *Urantiapedia Tools*.
-- En *Proceso* seleccionar: Convertir Libro de Urantia (JSON) + TopicIndex (TXT) a Wiki.
-- Seleccionar como carpeta de entrada (*Ficheros TXT*) una de `input/txt/topic-index-xx`.
-- Seleccionar como carpeta de entrada (*Ficheros JSON*) una de `input/json/book-xx-footnotes`.
-- Seleccionar como carpeta de salida (*Ficheros Wiki*) una de `input/wiki/book-xx`. Si en la carpeta de salida ya existen ficheros Wikitext se sobreescribirán los existentes.
-- En *Categorías de términos* seleccionar `TODOS` para que al realizar el proceso de conversión se utilicen todos los términos de todas las categorías y se añadan enlaces en *El Libro de Urantia* a todos los términos, o alternativamente, seleccionar sólo una categoría si se desea generar sólo enlaces a los términos que pertenecen a esa categoría.
-- Click en *Ejecutar*.
-- Si todo está correcto aparecerá *Conversión realizada con éxito*. En caso de errores aparecerá el listado de errores. En este caso conviene avisar a alguno de los usuarios «desarrolladores» por si existe algún problema con el software.
+To convert these TXT files to Wikitext format, follow these steps:
+- Open the * Urantiapedia Tools *.
+- In * Process * select: Convert TopicIndex (TXT) to Wiki.
+- Select as input folder (* TXT files *) one of `input / txt / topic-index-xx`.
+- Select as output folder (* Wiki Files *) one of `input / wiki / topic-index-xx`. If there are already Wikitext files in the output folder, the existing ones will be overwritten.
+- In * Categories of terms * select `ALL` to process all the terms of all the categories, or alternatively, select only one category if you want to generate only the terms that belong to that category.
+- Click on * Run *.
+- If everything is correct, * Conversion successful * will appear. In case of errors, the list of errors will appear. In this case, it is advisable to notify one of the "developer" users in case there is a problem with the software.
 
-![](upt_json_wiki.png)
+! [] (upt_txt_wiki.png)
 
-Los ficheros de salida tienen formato Wikitext y extensión `*.wiki`. Se generarán 197 archivos, uno por cada documento de *El Libro de Urantia*.
+The output files have a Wikitext format and a `* .wiki` extension. A file will be generated for each term, each one inside a folder with the same name (`_`,` A`, `B`, etc.) that the input` * .txt` files have.
 
-Los ficheros de salida ya tienen el formato que permite subirlos directamente a la *Urantiapedia* usando el comando `importTextFiles.php`.
-
----
-
-## Conversión de *La Biblia* de LaTeX a Wikitext con notas al pie
-
-Los ficheros de *La Biblia* en formato LaTeX se deberán haber creado en carpetas como `input/text/bible-xx` donde `xx` es el código del idioma de destino.
-
-Para convertir estos ficheros LaTeX a formato Wikitext hay que seguir estos pasos:
-- Abrir las *Urantiapedia Tools*.
-- En *Proceso* seleccionar: Convertir Biblia (LaTeX) + Refs (TXT) a Wiki.
-- Seleccionar como carpeta de entrada (*Ficheros TXT*) una de `input/txt/bible-refs-es`.
-- Seleccionar como carpeta de entrada (*Ficheros LaTeX*) una de `input/tex/bible-xx`.
-- Seleccionar como carpeta de salida (*Ficheros Wiki*) una de `input/wiki/bible-xx`. Si en la carpeta de salida ya existen ficheros Wikitext se sobreescribirán los existentes.
-- Click en *Ejecutar*.
-- Si todo está correcto aparecerá *Conversión realizada con éxito*. En caso de errores aparecerá el listado de errores. En este caso conviene avisar a alguno de los usuarios «desarrolladores» por si existe algún problema con el software.
-
-![](upt_tex_wiki.png)
-
-Los ficheros de salida tienen formato Wikitext y extensión `*.wiki`. Se generará un archivo por cada capítulo de la Biblia, y el nombre de archivos seguirá el patrón `nombrelibro_n.wiki`, donde `nombrelibro` es el nombre del libro de la Biblia y `n` el número de capítulo. Por ejemplo, se genera un archivo `Abdías_1.wiki`, `Abdías_2.wiki`, etc.
-
-Los ficheros de salida ya tienen el formato que permite subirlos directamente a la *Urantiapedia* usando el comando `importTextFiles.php`.
+The output files are already in the format that allows uploading directly to * Urantiapedia * using the `importTextFiles.php` command.
 
 ---
 
-## Cargas masivas con el script de mantenimiento importTextFiles.php
+## Conversion of * The Urantia Book * from JSON with footnotes to Wikitext including references to terms
 
-Para cargar un número grande de archivos Wikitext a la *Urantiapedia* el método recomendado es usar el comando `importTextFiles.php` de *MEdiaWiki.
+The * The Urantia Book * files in JSON format with the footnotes are generated with the * Update Bible Refs in Urantia Book (JSON) * tool, as we have already seen, and the resulting files are saved in `input folders / json / book-xx-footnotes`.
 
-Para ejecutar este comando en PuTTy:
+To convert these JSON files to Wikitext format, follow these steps:
+- Open the * Urantiapedia Tools *.
+- In * Process * select: Convert Urantia Book (JSON) + TopicIndex (TXT) to Wiki.
+- Select as input folder (* TXT files *) one of `input / txt / topic-index-xx`.
+- Select as input folder (* JSON files *) one of `input / json / book-xx-footnotes`.
+- Select as output folder (* Wiki Files *) one of `input / wiki / book-xx`. If there are already Wikitext files in the output folder, the existing ones will be overwritten.
+- In * Categories of terms * select `ALL` so that when performing the conversion process all the terms of all the categories are used and links in * The Urantia Book * are added to all the terms, or alternatively, select only one category if you want to generate only links to the terms that belong to that category.
+- Click on * Run *.
+- If everything is correct, * Conversion successful * will appear. In case of errors, the list of errors will appear. In this case, it is advisable to notify one of the "developer" users in case there is a problem with the software.
 
-```
-cd public_html/maintenance
-php importTextFiles.php -u <user> -s "Adición de referencias" --rc --overwrite files_to_import/*.wiki
-```
+! [] (upt_json_wiki.png)
 
-El comando anterior actualiza las páginas cuyos nombres coincidan con los nombres de archivo de los ficheros wiki que estén en la carpeta `files_to_import` dentro de la carpeta `maintenance`. En lugar de "Adición de referencias", poner el mensaje que se quiera dar a todas las actualizaciones. En `<user>` poner el nombre de usuario del «editor GitHub» que se haya encargado de los cambios que se suben. De este modo en el historial de cada página aparecerán los usuarios apropiados como autores.
+The output files have a Wikitext format and a `* .wiki` extension. 197 files will be generated, one for each * The Urantia Book * document.
 
-Más información sobre el comando aquí: https://www.mediawiki.org/wiki/Manual:ImportTextFiles.php
-
----
-
-## Gestión de usuarios (sobre todo en caso de vandalismo)
-
-Eliminar muchas páginas:
-
-Crear un archivo de texto con los nombres de páginas, uno por línea, sacados de [Special:AllPages].
-
-```
-cd public_html/maintenance
-php deleteBatch.php files_to_import/pages_to_delete.txt
-```
-
-https://www.mediawiki.org/wiki/Manual:DeleteBatch.php
+The output files are already in the format that allows uploading directly to * Urantiapedia * using the `importTextFiles.php` command.
 
 ---
 
+## Conversion of * The Bible * from LaTeX to Wikitext with footnotes
 
-## Apéndice [`DEPRECATED`]: Cargas masivas de páginas con la extensión DataTransfer
+* The Bible * files in LaTeX format must have been created in folders such as `input / text / bible-xx` where` xx` is the code of the target language.
 
-Es preferible usar el método del comando `importTextFiles.php`. Es más rápido y fiable y el formato de entrada es simplemente formato wiki.
+To convert these LaTeX files to Wikitext format, follow these steps:
+- Open the * Urantiapedia Tools *.
+- In * Process * select: Convert Bible (LaTeX) + Refs (TXT) to Wiki.
+- Select as input folder (* TXT files *) one of `input / txt / bible-refs-es`.
+- Select as input folder (* LaTeX Files *) one of `input / tex / bible-xx`.
+- Select as output folder (* Wiki Files *) one of `input / wiki / bible-xx`. If there are already Wikitext files in the output folder, the existing ones will be overwritten.
+- Click on * Run *.
+- If everything is correct, * Conversion successful * will appear. In case of errors, the list of errors will appear. In this case, it is advisable to notify one of the "developer" users in case there is a problem with the software.
 
-Con este otro método, para importar contenido habría que seguir estos pasos:
-1. Descargar la extensión DataTransfer: https://www.mediawiki.org/wiki/Extension:Data_Transfer
-2. Copiar el fichero .gz comprimido de la extensión a la carpeta extensions.
-3. Descomprimir el fichero.
-4. Modificar LocalSettings.php añadiendo esta línea:
-```
-wfLoadExtension( 'DataTransfer' );
-```
-5. Añadir lo siguiente para permitir que el contenido del Free_Text no sea parseado:
-```
-$wgDataTransferViewXMLParseFreeText = false;
-```
-6. Ver un ejemplo de qué se debe cargar haciendo una descarga desde ?title=Special:ViewXML&titles=nombre_de_la_pagina
-7. Cargar mediante Special:ImportXML
+! [] (upt_tex_wiki.png)
 
-La carga no es inmediata. Usa el sistema de jobs de MediaWiki, lo cual significa que cada poco que se visitan páginas se lanzan un número de jobs.
+The output files have a Wikitext format and a `* .wiki` extension. A file will be generated for each chapter of the Bible, and the file names will follow the pattern `bookname_n.wiki`, where` bookname` is the name of the Bible book and `n` is the chapter number. For example, a file `Obadiah_1.wiki`,` Obadiah_2.wiki`, etc. is generated.
 
-Para examinar la lista de jobs: https://urantiapedia.site/api.php?action=query&meta=siteinfo&siprop=statistics
-
-Cambiar el número de jobs que se ejecutan tras cada visita modificar el LocalSettings.php añadiendo:
-```
-$wgJobRunRate = 100;
-```
-Lo anterior eleva el número de jobs tras cada visita a 100, lo cual es mucho cuando la web está funcionando con muchos usuarios concurrentes. Conviene dejarlo en 1 o incluso 0.1 cuando la página ya está publicada y siendo masivamente accedida.
+The output files are already in the format that allows uploading directly to * Urantiapedia * using the `importTextFiles.php` command.
 
 ---
-
-## Apéndice [`DEPRECATED`]: Conversión de *El Libro de Urantia* a formato LaTeX
-
-Los ficheros de *El Libro de Urantia* con formato LaTeX ya no resultan necesarios más en el proyecto, aunque se describen aquí para mayor claridad. Estos ficheros fueron inicialmente el formato preferido para guardar *El Libro de Urantia* en el proyecto, pero han sido sustituidos por el uso de ficheros JSON, que son más fáciles de procesar usando software escrito en Javascript, como es el caso de las *Urantiapedia Tools*. 
-
-Los fichero con este formato, si existen, están en las carpetas `input/tex/book-xx`, donde `xx` son las dos letras del idioma (`es` = español, `en` = inglés, etc.)
-
-> IMPORTANTE: Estos ficheros no los deben generar ni editar los usuarios. Se creaba por conversión del formato HTML.
-
-En las carpetas debería existir un archivo por cada documento de *El Libro de Urantia*, en total 197 archivos. Los archivos se denominan `DocXXX.tex`, donde `XXX` es el número de documento desde `000` a `196`.
-
-El formato de estos archivos es LaTeX (https://es.wikipedia.org/wiki/LaTeX). Aunque anteriormente tanto este formato como el formato JSON eran formatos válidos para *El Libro de Urantia*, actualmente este formato LaTeX ya no resulta necesario y es preferible usar el formato JSON, más manejable, organizado y fácil de comprender, así como menos propenso a cometer errores al editarlo, sobre todo si se usa un software que admite chequeo de ficheros JSON (por ejemplo, VS Code).
-
-La estructura de los ficheros es ésta:
-
-```tex
-\chapter{<título del documento, sin poner Documento X>}
-\par
-%\textsuperscript{(<Referencia del párrafo según página, p.e. “1.1”>)}
-\textsuperscript{<Referencia del párrafo, p.e. “0:0.1”>} <Contenido del párrafo. Ver abajo sobre formateo>
-...
-
-\section*{<título de sección>}
-\par
-%\textsuperscript{(<Referencia del párrafo según página, p.e. “1.1”>)}
-\textsuperscript{<Referencia del párrafo, p.e. “0:0.1”>} <Contenido del párrafo. Ver abajo sobre formateo>
-...
-```
-
-Como puede verse este formato es muy sencillo porque simplemente usa las etiquetas `\chapter`, `\section` y `\par` para marcar el inicio de documento, sección y párrafo respectivamente.
-
-Para incluir notas al pie (referencias a *La Biblia*) se indica dentro del contenido de un párrafo, como sigue:
-```tex
-\textsuperscript{<Ref. del párrafo>} <texto>\footnote{<contenido de la nota}<texto>
-```
-Por ejemplo:
-```tex
-\textsuperscript{0:2.15} 4. \textit{Dios Supremo}\footnote{\textit{Dios Supremo}: Sal 136:2-3; Dn 2:47; 10:17; Jos 22:22; 1 P 2:13.} ---el Dios del tiempo y del espacio en proceso de actualización o evolución.
-```
-Para el formateo del texto del párrafo con algunos caracteres extraños que aparecen en *El Libro de Urantia* los equivalentes en LaTeX que pueden usarse son estos:
-
-Tipo de caracter | Modo de escribirse
----|---
-Cursiva | `\textit{<texto>}`
-ü | `\"u`
-— | `---`
-‘ ’ | ` '
-Salto de línea | `\bigbreak`
-º | `{\textdegree}`
-º | `{\textordmasculine}`
-ª | `{\textordfeminine}`
-superíndice (elevado a 27) | `\textsuperscript\{27\}`
-superíndice (elevado al cubo) | `\textsuperscript\{3\}`
-un cuarto | `{\\textonequarter}`
-
-
-
-
-

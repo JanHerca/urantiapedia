@@ -1510,6 +1510,115 @@ class Book {
 		});
 	};
 
+	/**
+	 * Writes index pages of `The Urantia Book` in Wiki HTML format.
+	 * The name of resulting files are `Index.html` and `Index_Extended.html`.
+	 * @param {string} dirPath Folder path.
+	 * @return {Promise} Promise that returns null in resolve function or an
+	 * error in reject function.
+	 */
+	writeIndexToWikiHTML = (dirPath) => {
+		return new Promise((resolve, reject) => {
+			const ub = Strings['bookName'].en.replace(/\s/g, '_');
+			const part0 = Strings['bookPart0'][this.language].toUpperCase();
+			const part1 = Strings['bookPart1'][this.language].toUpperCase();
+			const part2 = Strings['bookPart2'][this.language].toUpperCase();
+			const part3 = Strings['bookPart3'][this.language].toUpperCase();
+			const part4 = Strings['bookPart4'][this.language].toUpperCase();
+			const filePath1 = path.join(dirPath, 'Index.html');
+			const filePath2 = path.join(dirPath, 'Index_Extended.html');
+			let html1 = '';
+			let html2 = '';
+			let errs = [];
+
+			let papers = this.papers.slice().sort((a, b) => 
+				a.paper_index - b.paper_index);
+
+			papers.forEach(paper => {
+				const i = paper.paper_index;
+				let title = paper.paper_title;
+				const path = `/${this.language}/${ub}/${i}`;
+				let error = null;
+
+				if (!Array.isArray(paper.sections)) {
+					error = 'book_no_sections';
+				} else if (paper.sections.find(s => s.section_ref == null)) {
+					error = 'book_section_no_reference';
+				} else if (!paper.paper_title) {
+					error = 'book_paper_no_title';
+				}
+
+				if (error) {
+					errs.push(this.getError(error, filePath1));
+					return;
+				}
+
+				let part = null;
+				title = getBookTitle(paper, this.language, false);
+				title = this.replaceSpecialChars(title);
+
+				if (i === 0) {
+					part = `<h2> ${part0} </h2>`;
+				} else if (i === 1) {
+					part = `<h2> ${part1} </h2>`;
+				} else if (i === 32) {
+					part = `<h2> ${part2} </h2>`;
+				} else if (i === 57) {
+					part = `<h2> ${part3} </h2>`;
+				} else if (i === 120) {
+					part = `<h2> ${part4} </h2>`;
+				}
+				if (part) {
+					html1 += `${part}\r\n`;
+					html1 += '<ul>\r\n';
+					html2 += `${part}\r\n`;
+				}
+
+				html1 += `  <li><a href="${path}">${title}</a></li>\r\n`;
+				if (i === 0 || i === 31 || i === 56 || i === 119 || i === 196) {
+					html1 += '</ul>\r\n';
+				}
+				html2 += `<h3> ${title} </h3>\r\n`;
+				html2 += '<ul>\r\n';
+				paper.sections.forEach(section => {
+					const j = section.section_index;
+					if (section.section_title) {
+						const stitle = this.replaceSpecialChars(section.section_title);
+						html2 += `  <li><a href="${path}#p${j}">${stitle}</a></li>\r\n`;
+					}
+				});
+				html2 += '</ul>\r\n';
+			});
+
+			if (errs.length > 0) {
+				reject(errs);
+				return;
+			}
+
+			const p1 = new Promise((resolve1, reject1) => {
+				fs.writeFile(filePath1, html1, 'utf-8', (err) => {
+					resolve1(err ? {error: err} : {value: null});
+				});
+			});
+			const p2 = new Promise((resolve2, reject2) => {
+				fs.writeFile(filePath2, html2, 'utf-8', (err) => {
+					resolve2(err ? {error: err} : {value: null});
+				});
+			});
+
+			Promise.all([p1,p2])
+				.then((results) => {
+					const errors = [];
+					results.forEach(r => extendArray(errors, r.error));
+					if (errors.length === 0) {
+						resolve(null);
+					} else {
+						reject(errors);
+					}
+				});
+		});
+	};
+
 	//***********************************************************************
 	// Wiki Text
 	//***********************************************************************
