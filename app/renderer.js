@@ -194,14 +194,21 @@ const updateDefaultPaths = () => {
 	if (!process || !Processes[process]) {
 		return;
 	}
-	const cnames = Processes[process].controls;
-	const paths = Processes[process].paths;
-	const subpath = (Processes[process].subpath ? 
-		Processes[process].subpath[lan] : '');
+	const prc = Processes[process];
+	const cnames = prc.controls;
+	const paths = prc.paths;
+	const extraPath = (prc.extraPath ? prc.extraPath[lan] : null);
+	const emptyLan = prc.emptyLan;
 	cnames.forEach((c,i) => {
+		const lan2 = (emptyLan && emptyLan[i] === lan ? '' : lan);
 		if (paths && paths[i]) {
-			const folderpath = path.join(app.getAppPath(), 'input',
-				strformat(paths[i], lan, `/${subpath}`));
+			const folders = paths[i].map(p => {
+				if (extraPath && p === '{extraPath}') {
+					return extraPath;
+				}
+				return strformat(p, lan2);
+			}).filter(p => p != '');
+			const folderpath = path.join(app.getAppPath(), ...folders);
 			controls[c].value = folderpath;
 		}
 	});
@@ -347,7 +354,7 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BOOK_TEX_TOPICS_TXT_TO_WIKITEXT') {
+	} else if (process === 'BOOK_TEX_TOPICS_TXT_TO_MEDIAWIKI') {
 		// Read UB (*.tex) + Topic Index (*.txt) => write (*.wiki)
 		book.readFromLaTeX(latexDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
@@ -355,7 +362,7 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeWarnings(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BOOK_JSON_TOPIC_TXT_TO_WIKIHTML') {
+	} else if (process === 'BOOK_JSON_TOPIC_TXT_TO_WIKIJS') {
 		book.readFromJSON(jsonDir)
 			.then(() => topicindex.readFromTXT(txtDir, 'ALL'))
 			.then(() => {
@@ -372,7 +379,7 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeToLaTeX(latexDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BOOK_JSON_TOPICS_TXT_TO_WIKITEXT') {
+	} else if (process === 'BOOK_JSON_TOPICS_TXT_TO_MEDIAWIKI') {
 		// Read UB (*.json) + Topic Index (*.txt) => write (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
@@ -380,33 +387,33 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeWarnings(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BOOK_INDEX_JSON_TO_WIKITEXT') {
+	} else if (process === 'BOOK_INDEX_JSON_TO_MEDIAWIKI') {
 		//Read UB (*.json) => write Indexes (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeIndexToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BOOK_INDEX_JSON_TO_WIKIHTML') {
+	} else if (process === 'BOOK_INDEX_JSON_TO_WIKIJS') {
 		//Read UB (*.json) => write Indexes (*.html)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeIndexToWikiHTML(htmlDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	}else if (process === 'BIBLE_TEX_BIBLEREF_TXT_TO_WIKITEXT') {
+	}else if (process === 'BIBLE_TEX_BIBLEREF_TXT_TO_MEDIAWIKI') {
 		// Read Bible Refs (*.txt) + read Bible (*.tex) => write (*.wiki)
 		bibleref.readFromTXT(txtDir)
 			.then(() => bible.readFromLaTeX(latexDir))
 			.then(() => bible.writeToWikiText(wikiDir, bibleref))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BIBLE_TEX_BIBLEREF_TXT_TO_WIKIHTML') {
+	} else if (process === 'BIBLE_TEX_BIBLEREF_TXT_TO_WIKIJS') {
 		// Read Bible Refs (*.txt) + read Bible (*.tex) => write (*.html)
 		bibleref.readFromTXT(txtDir)
 			.then(() => bible.readFromLaTeX(latexDir))
 			.then(() => bible.writeToWikiHTML(htmlDir, bibleref))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BIBLE_TEX_TO_BIBLEINDEX_WIKITEXT') {
+	} else if (process === 'BIBLE_TEX_TO_BIBLEINDEX_MEDIAWIKI') {
 		// Read Bible (*.tex) => write index (*.wiki)
 		bible.readFromLaTeX(latexDir)
 			.then(() => bible.writeIndexToWikiText(wikiDir))
@@ -418,13 +425,13 @@ const handle_exeButtonClick = () => {
 			.then(() => bible.writeToWikiXML(wikiDir, merge))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'TOPICS_TXT_TO_WIKITEXT') {
+	} else if (process === 'TOPICS_TXT_TO_MEDIAWIKI') {
 		// Read TopicIndex (*.txt) => write (*.wiki)
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => topicindex.writeToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'TOPICS_TXT_TO_WIKIHTML') {
+	} else if (process === 'TOPICS_TXT_TO_WIKIJS') {
 		// Read TopicIndex (*.txt) => write (*.html)
 		if (lan === 'en') {
 			topicindex.readFromTXT(txtDir, category)
@@ -439,7 +446,7 @@ const handle_exeButtonClick = () => {
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
 		}
-	} else if (process === 'TOPICS_INDEX_TXT_TO_WIKITEXT') {
+	} else if (process === 'TOPICS_INDEX_TXT_TO_MEDIAWIKI') {
 		// Read TopicIndex index (*.txt) => write (*.wiki)
 		topicindex.readFromTXT(txtDir, category)
 			.then(() => topicindex.writeIndexToWikiText(wikiDir))
@@ -469,7 +476,7 @@ const handle_exeButtonClick = () => {
 		topicindex.normalize(txtDir)
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'ARTICLE_TXT_TO_WIKITEXT') {
+	} else if (process === 'ARTICLE_TXT_TO_MEDIAWIKI') {
 		// Read TXT folder => write (*.wiki)
 		articles.readFromTXT(txtDir)
 			.then(() => articles.writeToWikiText(wikiDir))
@@ -513,7 +520,7 @@ const checkControls = (cnames) => {
 };
 
 const onSuccess = (infos) => {
-	showInfos(infos);
+	showInfos(infos, true);
 	showProgress(false);
 };
 
@@ -534,9 +541,10 @@ const showErrors = (errors) => {
 	}).join('');
 };
 
-const showInfos = (infos) => {
+const showInfos = (infos, success) => {
+	const cls = (success === true ? ' text-success' : '');
 	controls.logArea.innerHTML = infos.map(info=> {
-		return `<p class="mb-1">${info}</p>`;
+		return `<p class="mb-1${cls}">${info}</p>`;
 	}).join('');
 };
 

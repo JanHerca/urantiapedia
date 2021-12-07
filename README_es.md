@@ -5,7 +5,7 @@
 
 ## ¿Qué es?
 
-[Urantiapedia](https://urantiapedia.site) es una web donde publicar, compartir y colaborar en cualquier contenido relativo a [El Libro de Urantia](https://www.urantia.org/).
+[Urantiapedia](https://urantiapedia.org) es una web donde publicar, compartir y colaborar en cualquier contenido relativo a [El Libro de Urantia](https://www.urantia.org/).
 
 ---
 
@@ -35,14 +35,14 @@ Para obtener más información sobre el contenido: [Contenido](https://github.co
 
 ## Fases del proyecto y tipos de usuarios
 
-[Urantiapedia](https://urantiapedia.site) se va a crear en dos fases:
-1. **Fase de preparación**: en esta fase la creación de contenido se realiza usando este proyecto de GitHub. En esta fase [Urantiapedia](https://urantiapedia.site) está bloqueada a cambios. Sólo los administradores de la web pueden añadir cambios. Para cualquiera que desee colaborar en el proyecto los cambios deben hacerse en este proyecto de Github como usuarios de Github.
-2. **Fase pública**: [Urantiapedia](https://urantiapedia.site) se abre al público para un idioma dado que haya recibido el contenido inicial en la fase anterior. Ahora cualquier usuario, tras pasar algunas validaciones y cumpliendo ciertas políticas de privacidad y buenas prácticas, podrá editar la página. Algunos usuarios llamados revisores velarán por el correcto uso de la web y podrán vetar usuarios que no cumplan las normas.
+[Urantiapedia](https://urantiapedia.org) se va a crear en dos fases:
+1. **Fase de preparación**: en esta fase la creación de contenido se realiza usando este proyecto de GitHub. En esta fase [Urantiapedia](https://urantiapedia.org) está bloqueada a cambios. Sólo los administradores de la web pueden añadir cambios. Para cualquiera que desee colaborar en el proyecto los cambios deben hacerse en este proyecto de Github como usuarios de Github.
+2. **Fase pública**: [Urantiapedia](https://urantiapedia.org) se abre al público para un idioma dado que haya recibido el contenido inicial en la fase anterior. Ahora cualquier usuario, tras pasar algunas validaciones y cumpliendo ciertas políticas de privacidad y buenas prácticas, podrá editar la página. Algunos usuarios llamados revisores velarán por el correcto uso de la web y podrán vetar usuarios que no cumplan las normas.
 
 Actualmente el proyecto se encuentra en la fase de preparación para los idiomas inglés y español. Para conocer más sobre el progreso del proyecto: [Status](https://github.com/JanHerca/urantiapedia/blob/master/docs/status.md)
 
 En resumen, los tipos de usuarios del proyecto son:
-- **Administradores**, los únicos usuarios  que pueden hacer cambios a [Urantiapedia](https://urantiapedia.site) durante la fase de preparación. Leer más aquí: [Manual para administradores](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_administrators_es.md).
+- **Administradores**, los únicos usuarios  que pueden hacer cambios a [Urantiapedia](https://urantiapedia.org) durante la fase de preparación. Leer más aquí: [Manual para administradores](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_administrators_es.md).
 - **Desarrolladores**, usuarios que pueden hacer cambios a la aplicación llamada *Urantiapedia Tools*, localizada en la carpeta `app` de este proyecto GitHub. Consultar: [Manual para desarrolladores](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_developers_es.md).
 - **Editores GitHub**, usuarios que pueden añadir cambios al contenido en la fase de preparación. Este contenido está en la carpeta `input` de este proyecto Github. Consultar: [Manual para editores GitHub](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_github_editors_es.md).
 - **Editores**, usuarios correctamente validados que pueden hacer cambios en la fase pública. Consultar: [Manual para editores](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_editors_es.md).

@@ -1232,7 +1232,7 @@ class Book {
 	};
 
 	//***********************************************************************
-	// Wiki HTML
+	// Wiki.js
 	//***********************************************************************
 
 	/**
@@ -1448,7 +1448,7 @@ class Book {
 	};
 
 	/**
-	 * Converts the array of footnotes to Wiki HTML, the format for Wiki.js.
+	 * Converts the array of footnotes to Wiki.js, the format for Wiki.js.
 	 * @param {Array.<string>} footnotes Array of footnotes.
 	 * @return {Array.<string>}
 	 */
@@ -1511,7 +1511,7 @@ class Book {
 	};
 
 	/**
-	 * Writes index pages of `The Urantia Book` in Wiki HTML format.
+	 * Writes index pages of `The Urantia Book` in Wiki.js format.
 	 * The name of resulting files are `Index.html` and `Index_Extended.html`.
 	 * @param {string} dirPath Folder path.
 	 * @return {Promise} Promise that returns null in resolve function or an
@@ -1620,11 +1620,11 @@ class Book {
 	};
 
 	//***********************************************************************
-	// Wiki Text
+	// MediaWiki
 	//***********************************************************************
 
 	/**
-	 * Writes `The Urantia Book` in Wiki Text format, each paper a file.
+	 * Writes `The Urantia Book` in MediaWiki format, each paper a file.
 	 * It requires reading previously from any format.
 	 * @param {string} dirPath Folder path.
 	 * @param {?TopicIndex} topicIndex An optional Topic Index.
@@ -1636,7 +1636,7 @@ class Book {
 	};
 
 	/**
-	 * Writes a paper of `The Urantia Book` in Wiki Text format.
+	 * Writes a paper of `The Urantia Book` in MediaWiki format.
 	 * @param {string} filePath Output file.
 	 * @param {Object} paper JSON object with the paper.
 	 * @param {?TopicIndex} topicIndex An optional Topic Index.
@@ -1806,7 +1806,7 @@ class Book {
 	};
 
 	/**
-	 * Writes index pages of `The Urantia Book` in Wiki Text format.
+	 * Writes index pages of `The Urantia Book` in MediaWiki format.
 	 * The name of resulting files are `El_Libro_de_Urantia_Indice.wiki`
 	 * and `El_Libro_de_Urantia_Indice_extendido.wiki` or english equivalents.
 	 * @param {string} dirPath Folder path.
@@ -1916,7 +1916,7 @@ class Book {
 	};
 
 	/**
-	 * Converts the array of footnotes to Wiki Text.
+	 * Converts the array of footnotes to MediaWiki.
 	 * @param {Array.<string>} footnotes Array of footnotes.
 	 * @return {Array.<string>}
 	 */

@@ -4,7 +4,7 @@
 
 ## What is?
 
-[Urantiapedia](https://urantiapedia.site) is a web for publishing, sharing and collaborate in any content related to [The Urantia Book](https://www.urantia.org/).
+[Urantiapedia](https://urantiapedia.org) is a web for publishing, sharing and collaborate in any content related to [The Urantia Book](https://www.urantia.org/).
 
 ---
 
@@ -34,15 +34,15 @@ For more information on the content check here: [Content](https://github.com/Jan
 
 ## Phases of the project and user profiles
 
-[Urantiapedia](https://urantiapedia.site) is being developed in two phases:
+[Urantiapedia](https://urantiapedia.org) is being developed in two phases:
 
-1. **Preparation stage**: here content creation is done using this Github project. During this stage [Urantiapedia](https://urantiapedia.site) is blocked for changes. Only web administrators can add changes. For anybody that wants to collaborate in the project changes must be done to this Github project as Github users.
-2. **Public stage**: [Urantiapedia](https://urantiapedia.site) is opened publicly for a given language that has received a starting content in previous stage. Now any user, after passing some validations, and complying with privacy and good practice policies, can edit the web. Some users called reviewers will ensure the correct use of the website and may ban users who do not comply with the rules.
+1. **Preparation stage**: here content creation is done using this Github project. During this stage [Urantiapedia](https://urantiapedia.org) is blocked for changes. Only web administrators can add changes. For anybody that wants to collaborate in the project changes must be done to this Github project as Github users.
+2. **Public stage**: [Urantiapedia](https://urantiapedia.org) is opened publicly for a given language that has received a starting content in previous stage. Now any user, after passing some validations, and complying with privacy and good practice policies, can edit the web. Some users called reviewers will ensure the correct use of the website and may ban users who do not comply with the rules.
 
 Currently the project is in preparation stage for english and spanish languages. To know more about the current progress of the project check here: [Status](https://github.com/JanHerca/urantiapedia/blob/master/docs/status.md)
 
 In short, user profiles are as follows:
-- **Administrators**, the only users that can do changes to [Urantiapedia](https://urantiapedia.site) in preparation stage. Check more in [Admin help](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_administrators.md).
+- **Administrators**, the only users that can do changes to [Urantiapedia](https://urantiapedia.org) in preparation stage. Check more in [Admin help](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_administrators.md).
 - **Developers**, users that add changes to the app called *Urantiapedia Tools*, located in the `app` folder of this Github project. Check [Dev help](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_developers.md)
 - **Github editors**, users that can add changes to content in preparation stage. This content is located in `input` folder of this Github project. Check [Github editors help](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_github_editors.md)
 - **Editors**, users that are correctly validated and can add changes in the public stage. Check [Editors help](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_editors.md).

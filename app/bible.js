@@ -159,7 +159,7 @@ class Bible {
 	};
 
 	//***********************************************************************
-	// Wiki HTML
+	// Wiki.js
 	//***********************************************************************
 
 	/**
@@ -262,7 +262,7 @@ class Bible {
 	};
 
 	/**
-	 * Converts the array of references to Wiki HTML, the format for Wiki.js.
+	 * Converts the array of references to Wiki.js, the format for Wiki.js.
 	 * @param {Array.<Object>} refs References.
 	 * @return {Array.<string>}
 	 */
@@ -296,11 +296,11 @@ class Bible {
 	};
 
 	//***********************************************************************
-	// Wiki Text
+	// MediaWiki
 	//***********************************************************************
 
 	/**
-	 * Writes `Bible` in Wiki Text format, each chapter a file.
+	 * Writes `Bible` in MediaWiki format, each chapter a file.
 	 * It requires reading previously from any format.
 	 * @param {string} dirPath Folder path.
 	 * @param {?BibleRef} bibleref An optional Bible Reference.
@@ -312,7 +312,7 @@ class Bible {
 	};
 
 	/**
-	 * Writes a chapter of `Bible` in Wiki Text format.
+	 * Writes a chapter of `Bible` in MediaWiki format.
 	 * @param {string} filePath Output file.
 	 * @param {string} book_abb Book abbreviation.
 	 * @param {Object} chapter Object with chapter data.
@@ -364,7 +364,7 @@ class Bible {
 	};
 
 	/**
-	 * Writes an index of `Bible` in Wiki Text format.
+	 * Writes an index of `Bible` in MediaWiki format.
 	 * It requires reading previously from any format.
 	 * @param {string} dirPath Folder path.
 	 * @return {Promise} Promise that returns null in resolve function or an

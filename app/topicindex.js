@@ -520,11 +520,11 @@ class TopicIndex {
 	};
 
 	//***********************************************************************
-	// Wiki HTML
+	// Wiki.js
 	//***********************************************************************
 
 	/**
-	 * Writes all entries in Topic Index in Wiki HTML format for Wiki.js.
+	 * Writes all entries in Topic Index in Wiki.js format for Wiki.js.
 	 * @param {string} dirPath Carpeta de salida.
 	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
 	 * current language is english then this is not required. If it is not english
@@ -582,7 +582,7 @@ class TopicIndex {
 	};
 
 	/**
-	 * Writes an entry of Topic Index in Wiki HTML for Wiki.js.
+	 * Writes an entry of Topic Index in Wiki.js for Wiki.js.
 	 * @param {string} filePath Output Wiki file.
 	 * @param {Object} topic Object with Topic Index entry.
 	 * @param {Object} topicEN Object with topic Index entry in english. If 
@@ -730,11 +730,11 @@ class TopicIndex {
 
 
 	//***********************************************************************
-	// Wiki Text
+	// MediaWiki
 	//***********************************************************************
 
 	/**
-	 * Writes all entries in Topic Index in Wiki Text format.
+	 * Writes all entries in Topic Index in MediaWiki format.
 	 * Also creates an archive 'Dónde_puedo_aportar_contenido.wiki' to fill that
 	 * page easily.
 	 * @param {string} dirPath Carpeta de salida.

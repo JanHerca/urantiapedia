@@ -378,8 +378,8 @@ const Strings = {
 		es: "Categorías de términos"
 	},
 	"lblTopics": {
-		en: "Topic",
-		es: "Término"
+		en: "Topic (execute to fill)",
+		es: "Término (ejecuta para rellenar)"
 	},
 	"collapseButton": {
 		en: "Show/hide controls",
