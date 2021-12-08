@@ -1,17 +1,24 @@
-# Contenido de la Urantiapedia
+---
+title: Contenido de la Urantiapedia
+description: 
+published: true
+date: 2021-11-28T14:09:29.761Z
+tags: 
+editor: markdown
+dateCreated: 2021-11-28T14:09:29.761Z
+---
 
 Aquí se ofrece una explicación detallada de todos los tipos de contenido esperados en la *Urantiapedia*, cómo se acceden, cómo están organizados y quién puede modificarlos.
 
 ## Cómo se organiza el contenido
 
-Como en toda Wiki en [Urantiapedia](https://urantiapedia.site) hay páginas, cada una con un título y una URL únicas. Por ejemplo:
+Como en toda Wiki en [Urantiapedia](https://urantiapedia.org) hay páginas, cada una con un título y una URL únicas. Por ejemplo:
 * https://urantiapedia.org/en/The_Urantia_Book/156 es la URL de una página con el documento 156 de *El Libro de Urantia* en inglés.
 * https://urantiapedia.org/es/article/How_big_is_Orvonton es la URL de una página con un artículo sobre Orvonton en español.
 * https://urantiapedia.org/ko/topic/Andrew es la URL de una página acerca del apóstol Andrés en coreano.
 
 Cada página puede ser un artículo, un capítulo de un libro, la página de índice de un libro, un índice agrupando enlaces a otras páginas, etc. Lo que cada página contenga es algo a libertad de los usuarios y puede ser modificado con el paso del tiempo según las necesidades cambien, aunque es muy recomendable que una vez creada una página esta permanezca siempre y se usen redireccionamientos si resulta necesario.
 
----
 
 ## Grupos de usuarios
 
@@ -20,16 +27,15 @@ La tabla resume los grupos de usuarios en la página web:
 Tipo | Descripción
 --- | ---
 ADMIN | Usuario que puede hacerlo todo
-EDITOR | Usuario que tras una petición ha sido validado y autorizado por un usuario ADMIN
+EDITOR | Usuario que tras una petición ha sido validado y autorizado por un usuario ADMIN para realizar modificaciones
 USER | Cualquier nuevo usuario creado sólo puede ver las páginas. Para hacer modificaciones necesita hacer una petición para ser añadido al grupo EDITOR a través de un proceso de validación.
 
----
 
 ## Tipos de páginas
 
 La tabla resume los tipos de páginas. Muestra el usuario mínimo necesario para editar cada tipo de página. Los usuarios ADMIN pueden hacerlo todo por lo que si la tabla indica EITOR eso implica también ADMIN.
 
-La tabla muestra la ruta a añadir al dominio de [Urantiapedia](https://urantiapedia.site) para obtener la URL en inglés. Hay que reemplazar el código de idioma para obtener páginas en cada idioma. Por ejemplo, la URL para obtener el índice de *El Libro de Urantia* es:
+La tabla muestra la ruta a añadir al dominio de [https://urantiapedia.org](https://urantiapedia.org) para obtener la URL en inglés. Hay que reemplazar el código de idioma para obtener páginas en cada idioma. Por ejemplo, la URL para obtener el índice de *El Libro de Urantia* es:
 - en inglés: https://urantiapedia.org/en/The_Urantia_Book/Index
 - en español: https://urantiapedia.org/es/The_Urantia_Book/Index
 
@@ -66,13 +72,11 @@ IMAGE | Una imagen, bien un dibujo o esquema o ilustración | EDITOR | EDITOR | 
 
 (5) Un modelo 3D solo se puede eliminar si no hay otra página que lo vincule. La página del modelo 3D, la página que permite actualizar el modelo 3D, debe permitir conocer la lista de páginas que utiliza el modelo 3D. Los modelos 3D solo se pueden cargar en cierto formato (preferiblemente glTF) y tamaños máximos.
 
----
 
 ## Páginas de la web
 
 Estas son páginas con contenido sobre la propia *Urantiapedia*, como manuales de usuario, recomendaciones, documentos de políticas, estado de progreso y similares. Estas páginas tienen este patrón de URL: `https://urantiapedia.org/[lan]/help/[title]`
 
----
 
 ## Libros
 
@@ -146,7 +150,6 @@ Los lectores también pueden agregar a la *Urantipedia* sus propios libros escri
 
 El patrón de URL de estos libros es así: `https://urantiapedia.org/en/book/[book_title]`. Ten en cuenta que el título del libro en la URL se recomiena que esté en inglés incluso si si el idioma original en el que está escrito el libro no es inglés. Más acerca de esto en una sección posterior.
 
----
 
 ## Artículos
 
@@ -166,7 +169,6 @@ https://urantiapedia.org/es/article/Nazaret_en_tiempos_de_Jesús
 
 Ten en cuenta que el propósito de la *Urantipedia* es permitir un contenido en varios idiomas para todos, y se espera que cualquier página cargada en ella se traduzca a todos los idiomas soportados en algún momento en el futuro. Los títulos en inglés proporcionan una forma común unificada de identificar la URL. Esto no afecta al título de la página que siempre es un valor diferente al de la URL. Más sobre esto en una sección posterior.
 
----
 
 ## Términos
 
@@ -176,7 +178,6 @@ Cada término tendrá las secciones habituales de *Referencias* con enlaces a *E
 
 El patrón de la URL para un términos es: `https://urantiapedia.org/en/topic/[topic_name]`. Los nombres de los términos son siempre en inglés aunque el título de la página estará en cada idioma dado.
 
----
 
 ## Índices
 
@@ -200,7 +201,6 @@ Cronología de la vida de Jesús | Descripción de eventos principales de la vid
 
 (2) Las cronologías se pueden considerar un tipo de índice de eventos. En este caso sería una cronología, ordenada por fecha, de los sucesos del desarrollo evolutivo terrestre. Podría incluir los eventos históricos mencionados en el libro.
 
----
 
 ## Imágenes
 
@@ -211,25 +211,21 @@ Imágenes para todo el sitio web:
 * Fotos. Imágenes libres de derechos de autor usados en cualquier parte de la *Urantiapedia*.
 * Animaciones. Imágenes animadas que aclaren conceptos que impliquen una visualización animada.
 
----
 
 ## Presentaciones
 
 TODO
 
----
 
 ## Mapas
 
 TODO
 
----
 
 ## Modelos 3D
 
 TODO
 
----
 
 ## URLs
 
@@ -281,4 +277,3 @@ Ejemplos de URLs:
 
 Es una buena idea mantener estas convenciones de modo que las URL mantengan una consistencia en la forma de construirse y sea más fácil recordarlas.
 
----

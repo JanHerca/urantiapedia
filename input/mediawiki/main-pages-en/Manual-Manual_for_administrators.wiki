@@ -4,7 +4,7 @@
 
 == About Blue Fields ==
 
-[https://blue-fields.netlify.app/ Blue Fields] is a website that has been created to unite and organize readers of ''The Urantia Book'' who wish to participate in intelligent, purposeful and altruistic projects in all the world.
+[https://blue-fields.netlify.app/ Blue Fields] is a website that has been created to join and organize readers of ''The Urantia Book'' who wish to collaborate in smart, purposeful and altruistic projects all over the world.
 
 == About GitHub ==
 

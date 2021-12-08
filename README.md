@@ -12,7 +12,7 @@
 
 It is based in [Wiki.js](https://js.wiki/), a powerful and extensible open source Wiki software that is build on top of modern technologies like [Node.js](https://nodejs.org/) and [Vue.js](https://vuejs.org/). Wiki.js can be used freely by any org to create any type of Wiki.
 
-A Wiki is webpage maintained and edited collaboratively by a user community. Any registered user, after some validations, can add, modify or delete content, and all changes are saved in a permament historical, so nothing is lost in an accidental removal. Information is stored in a database so it can do the classic actions as massive additions/removals, backups or searches.
+A Wiki is a webpage maintained and edited collaboratively by a user community. Any registered user, after some validations, can add, modify or delete content, and all changes are saved in a permament historical, so nothing is lost in an accidental removal. Information is stored in a database so it can do the classic actions as massive additions/removals, backups or searches.
 
 ---
 
@@ -28,7 +28,7 @@ As in any Wiki the content are pages, each one with a unique URL and a title. Th
 * Interactive maps, either in 2D or 3D, showing locations or voyages described in the Urantia revelations. Each map is one page. Maps can be static or contain animations to create flyovers.
 * 3D models, each in a page, that can be static or interactive as in maps.
 
-For more information on the content check here: [Content](https://github.com/JanHerca/urantiapedia/blob/master/docs/content.md)
+For more information on the content check here: [Content](https://urantiapedia.org/en/help/content.md)
 
 ---
 
@@ -39,13 +39,13 @@ For more information on the content check here: [Content](https://github.com/Jan
 1. **Preparation stage**: here content creation is done using this Github project. During this stage [Urantiapedia](https://urantiapedia.org) is blocked for changes. Only web administrators can add changes. For anybody that wants to collaborate in the project changes must be done to this Github project as Github users.
 2. **Public stage**: [Urantiapedia](https://urantiapedia.org) is opened publicly for a given language that has received a starting content in previous stage. Now any user, after passing some validations, and complying with privacy and good practice policies, can edit the web. Some users called reviewers will ensure the correct use of the website and may ban users who do not comply with the rules.
 
-Currently the project is in preparation stage for english and spanish languages. To know more about the current progress of the project check here: [Status](https://github.com/JanHerca/urantiapedia/blob/master/docs/status.md)
+Currently the project is in preparation stage for english and spanish languages. To know more about the current progress of the project check here: [Status](https://urantiapedia.org/en/help/status.md)
 
 In short, user profiles are as follows:
-- **Administrators**, the only users that can do changes to [Urantiapedia](https://urantiapedia.org) in preparation stage. Check more in [Admin help](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_administrators.md).
-- **Developers**, users that add changes to the app called *Urantiapedia Tools*, located in the `app` folder of this Github project. Check [Dev help](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_developers.md)
-- **Github editors**, users that can add changes to content in preparation stage. This content is located in `input` folder of this Github project. Check [Github editors help](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_github_editors.md)
-- **Editors**, users that are correctly validated and can add changes in the public stage. Check [Editors help](https://github.com/JanHerca/urantiapedia/blob/master/docs/HOWTO_editors.md).
+- **Administrators**, the only users that can do changes to [Urantiapedia](https://urantiapedia.org) in preparation stage. Check more in [Admin help](https://urantiapedia.org/en/help/admin.md).
+- **Developers**, users that add changes to the app called *Urantiapedia Tools*, located in the `app` folder of this Github project. Check [Dev help](https://urantiapedia.org/en/help/devs.md)
+- **Github editors**, users that can add changes to content in preparation stage. This content is located in `input` folder of this Github project. Check [Github editors help](https://urantiapedia.org/en/help/github.md)
+- **Editors**, users that are correctly validated and can add changes in the public stage. Check [Editors help](https://urantiapedia.org/en/help/editors.md).
 - **Reviewers**, users that ensure that the content of the website is correct and comply with rules.
 
 ---

@@ -1,17 +1,24 @@
-# Urantiapedia content
+---
+title: Urantiapedia content
+description: 
+published: true
+date: 2021-11-28T14:02:03.086Z
+tags: 
+editor: markdown
+dateCreated: 2021-11-28T14:02:03.086Z
+---
 
 Here is a detailed explanation of all types of content expected for *Urantiapedia*, how is accessed, organized, and who can change it.
 
 ## How content is organized
 
-As in any Wiki in [Urantiapedia](https://urantiapedia.site) there are pages, each one with a unique title and URL. For example:
+As in any Wiki in [Urantiapedia](https://urantiapedia.org) there are pages, each one with a unique title and URL. For example:
 * https://urantiapedia.org/en/The_Urantia_Book/156 is the URL for a page with the paper 156 of Urantia Book in english.
 * https://urantiapedia.org/es/article/How_big_is_Orvonton is the URL for a page with an article about Orvonton in spanish.
 * https://urantiapedia.org/ko/topic/Andrew is the URL for a page about the apostle Andrew in korean.
 
 Each page can be an article, a chapter of a book, the index page of a book, an index grouping links to other pages, and so on. What pages comprise is up to the creativity of users and can be modified at any time as needs change, although once a page is created it is recommended to make it permanent and use redirections if it is needed.
 
----
 
 ## User groups
 
@@ -20,16 +27,15 @@ The table summarizes the user groups inside the web:
 Type | Description
 --- | ---
 ADMIN | User that can do everything
-EDITOR | User that after a request has been validated and authorized an ADMIN user
+EDITOR | User that after a request has been validated and authorized by an ADMIN user to do some changes
 USER | Any new created user only can see pages. To do changes must do a request to be added to EDITOR group through a validation process.
 
----
 
 ## Page types
 
 The table summarizes the types of pages. Table shows the minimum user group required to edit the type of page. ADMIN users can do everything so when table says EDITOR it implies also ADMIN.
 
-The table shows the path to add to [Urantiapedia](https://urantiapedia.site) domain to obtain the URL for english. Replace language code with the one desired for other languages. For example, the URL to obtain the index of *The Urantia Book* is:
+The table shows the URL path to add to [https://urantiapedia.org](https://urantiapedia.org) domain to obtain the URL for english. Replace language code with the one desired for other languages. For example, the URL to obtain the index of *The Urantia Book* is:
 - in english: https://urantiapedia.org/en/The_Urantia_Book/Index
 - in spanish: https://urantiapedia.org/es/The_Urantia_Book/Index
 
@@ -66,17 +72,15 @@ IMAGE | An image, either a drawing or a graph schema or illustration | EDITOR | 
 
 (5) A 3D model only can be removed if there is no other page that links to it. The page of the 3D model, the page that allows to update the 3D model, must allow to know the list of pages that uses the 3D model. 3D models only could be upload in certain format (preferably glTF) and max sizes.
 
----
 
 ## Help pages
 
 These are pages with content about *Urantiapedia* itself, like user manuals, recommendations, policy documents, progress status and the like. These pages have this URL pattern: `https://urantiapedia.org/[lan]/help/[title]`
 
----
 
 ## Books
 
-Inside books not only *The Urantia Book* is included in all its translations but also the Bible and any public-domain book that is assumed to be a source used by revelators or with content that can explain topics of *The Urantia Book*. Also can be included books that are derivative works from *The Urantia Book* whose authors want to offer with an open license. All this could comprise a kind of *urantian library*, something like Wikisource but everything related with Urantia Book.
+This includes not only *The Urantia Book* in all its translations but also the Bible and any public-domain book that is assumed to be a source used by revelators or with content that can explain topics of *The Urantia Book*. Also can be included books that are derivative works from *The Urantia Book* whose authors want to offer with an open license. All this could comprise a kind of *urantian library*, something like Wikisource but everything related with Urantia Book.
 
 ### The Urantia Book
 
@@ -146,7 +150,6 @@ Readers can also add to *Urantipedia* their own written books if they want to sh
 
 The URL pattern for these books is like this: `https://urantiapedia.org/en/book/[book_title]`. Be aware that book title in URL is recommended to be in english even if the original language in which the book is written is not english. Check more about this in a section below.
 
----
 
 ## Articles
 
@@ -166,7 +169,6 @@ https://urantiapedia.org/es/article/Nazaret_en_tiempos_de_Jesús
 
 Be aware that the purpose of *Urantipedia* is allow a multi-language content for everybody, and any page uploaded to it is expected to be translated to all supported languages at some point in future. English titles provide a unified common way to identify URLs. This do no affects the title of the page, that is always a different value from the URL. More on this in a section below.
 
----
 
 ## Topics
 
@@ -176,7 +178,6 @@ Each topic will have the common sections *References* with links to *The Urantia
 
 The URL pattern for a topic is: `https://urantiapedia.org/en/topic/[topic_name]`. Topic names are always in english although the title in the page will be in each given language.
 
----
 
 ## Indexes
 
@@ -200,7 +201,6 @@ Chronology of the life of Jesus | Description of main Jesus events and links to 
 
 (2) Chronologies can be considered a type of event index. In this case it would be a chronology, ordered by date, of the events of the earth's evolutionary development. It could include the historical events mentioned in the book.
 
----
 
 ## Images
 
@@ -211,25 +211,21 @@ Images for all the webpage:
 * Photos. Royalty-free images used anywhere on the *Urantiapedia*.
 * Animations. Animated images that clarify concepts that involve an animated visualization.
 
----
 
 ## Slides
 
 TODO
 
----
 
 ## Maps
 
 TODO
 
----
 
 ## 3D models
 
 TODO
 
----
 
 
 ## URLs
@@ -282,4 +278,3 @@ Examples of URLs:
 
 It is a good idea to mantain these conventions so URL have a consistent way of being constructed and this way are easier to remember.
 
----

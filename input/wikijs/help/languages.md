@@ -1,6 +1,16 @@
-# Languages to support
+---
+title: Urantiapedia - Languages supported
+description: 
+published: true
+date: 2021-11-28T14:02:03.086Z
+tags: 
+editor: markdown
+dateCreated: 2021-11-28T14:02:03.086Z
+---
 
-The Urantia Book is available in this languages:
+## Languages supported
+
+*The Urantia Book* is available in this languages:
 
 Code | Language | Title
 --- | --- | ---
@@ -29,8 +39,12 @@ ro | Romanian | Cartea Urantia
 ru | Russian | Книга Урантии
 sv | Swedish | Urantiaboken
 
-# Quotation marks
-«»
+The language codes must follow the ISO 639-1 standard with two letters for each language. https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+
+## Quotation marks
+
+These are the correct quotation marks to use in each language:
+
 Code | Language | Standard primary & secondary | Alternative primary & secondary
 --- | --- | --- | --- 
 bg | Bulgarian | „...“ & ’...’ ‘...’ | «...» & ’...’ ‘...’
@@ -61,11 +75,11 @@ sv | Swedish | ”...” & ’...’ | »...» »...« & ’...’
 
 https://en.wikipedia.org/wiki/Quotation_mark
 
-# Biblical abbreviatures
+## Biblical abbreviatures
 
-See app / enums.js
+Biblical abbreviatures must be registered in *Urantiapedia Tools* to be used in the conversion processes. See [Abbreviatures](https://github.com/JanHerca/urantiapedia/blob/master/app/abb.js). The code shows a JavaScript object that contains for each language a list of abbreviations, the title of each Biblical book, and the path in Urantiapedia for the book.
 
-# Translators
+## Translators online
 
 https://translate.google.es/
 
