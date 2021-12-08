@@ -35,7 +35,7 @@ class TopicIndex {
 	 *      links: [https://es.wikipedia.org/wiki/Ángeles],
 	 *      refs: ['26:1'],
 	 *      type: 'ORDEN',
-	 *      revised: 'NO',
+	 *      revised: false,
 	 *      sorting: 'a.txt:01294',
 	 *      filename: 'a.txt',
 	 *      fileline: 1294,
@@ -203,7 +203,7 @@ class TopicIndex {
 								altnames: data[0].split(';').slice(1).map(a=>a.trim()),
 								lines: [],
 								type: (data[3] === '' ? 'OTHER' : data[3]),
-								revised: (data[4] === '' ? 'NO' : 'SI'),
+								revised: (data[4] === '' ? false : true),
 								sorting: baseName + ':' + (i + 1).toString().padStart(5, '0'),
 								filename: baseName,
 								fileline: i + 1,
@@ -264,7 +264,7 @@ class TopicIndex {
 			totalLines += obj.REDIREC;
 			//Revised
 			let revLines = 0;
-			const tr = tt.filter(t => t.revised === 'SI');
+			const tr = tt.filter(t => t.revised);
 			tr.forEach(t => revLines += t.lines.length);
 			objLines.REVISADO = revLines;
 			obj.REVISADO = tr.length;
@@ -344,7 +344,7 @@ class TopicIndex {
 				//Checking own names in the paragraphs
 				const firstLetter = t.name.substring(0, 1);
 				const isUpperCase = (firstLetter === firstLetter.toUpperCase());
-				if (isUpperCase /*&& t.revised === 'NO'*/) {
+				if (isUpperCase /*&& !t.revised*/) {
 					let names = [t.name.split('(')[0].trim()];
 					extendArray(names, t.altnames);
 					// const exps = names.map(n => 
@@ -728,6 +728,125 @@ class TopicIndex {
 		});
 	};
 
+	/**
+	 * Writes the index page with topics of Topic Index in Wiki.js format.
+	 * Name of created file is 'topics.html'.
+	 * @param {string} dirPath Output folder.
+	 * @param {string} category Category of topics from Topic Index that must
+	 * be write. Those out the category are ignored. To write all use 'ALL'.
+	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
+	 * current language is english then this is not required. If it is not english
+	 * then this param is required.
+	 * @return {Promise}
+	 */
+	writeIndexToWikiHTML = (dirPath, category, topicIndexEN) => {
+		let filename = null;
+		const baseName = path.basename(dirPath);
+		if (category === 'ALL') {
+			filename = 'topics.html';
+		} else if (category === 'PERSON') {
+			filename = 'people.html';
+		} else if (category === 'PLACE') {
+			filename = 'places.html';
+		} else if (category === 'ORDER') {
+			filename = 'beings.html';
+		} else if (category === 'RACE') {
+			filename = 'races.html';
+		} else if (category === 'RELIGION') {
+			filename = 'religions.html';
+		} else {
+			return Promise.reject([new Error('Invalid topic category.')]);
+		}
+		return new Promise((resolve, reject) => {
+			const filePath = path.join(dirPath, filename);
+			const title = Strings[`topicIndexTitle_${category}`][this.language];
+			let html = '';
+			let curLetter = null;
+
+			const tiOK = (this.language === 'en' || 
+				(this.language != 'en' && topicIndexEN));
+			const tiEN = (this.language === 'en' ? this : topicIndexEN);
+			if (!tiOK) {
+				reject([this.getError('topic_en_required', baseName)]);
+				return;
+			}
+
+			html += getWikijsHeader(title);
+			html += '\r\n';
+
+			const topics = this.topics
+				.filter(t => category === 'ALL' || t.type === category)
+				.sort((a, b) => {
+					//Normalization to remove accents when sorting
+					const a2 = a.name.toLowerCase()
+						.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+					const b2 = b.name.toLowerCase()
+						.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+					if (a2 > b2) {
+						return 1;
+					}
+					if (a2 < b2) {
+						return -1;
+					}
+					return 0;
+				});
+			
+			const topicErr = [];
+			topics.forEach((topic, i) => {
+				const topicEN = (this.language === 'en' ? topic :
+					tiEN.topics.find(t => {
+						return (t.filename === topic.filename &&
+							t.fileline === topic.fileline);
+					}));
+				if (!topicEN) {
+					topicErr.push(this.getError('topic_en_not_found',
+						topic.name));
+					return;
+				}
+				const fileLetter = topic.name.substring(0, 1).toUpperCase()
+					.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+				const newLetter = (isNaN(parseInt(fileLetter)) ? fileLetter : null);
+				if (i === 0 || newLetter != curLetter) {
+					//Closing previous
+					if (newLetter != curLetter) {
+						html += '\t</ul>\r\n</div>\r\n';
+					}
+					if (newLetter) {
+						html += `<h2>${newLetter}</h2>\r\n`;
+					}
+					html += '<div style="column-count:4;-moz-column-count:4;' +
+						'-webkit-column-count:4">\r\n';
+					html += '\t<ul>\r\n';
+					if (newLetter) {
+						curLetter = newLetter;
+					}
+				}
+				const pagename = topicEN.name.replace(/ /g, '_');
+				const revised = (topic.revised ? '  &diams;' : '');
+				const lan = (this.language === 'en' ? '' : '/' + this.language);
+				const href = `${lan}/topic/${pagename}`;
+				html += `\t\t<li><a href="${href}">${topic.name}</a>${revised}</li>\r\n`;
+				if (i === topics.length - 1) {
+					html += '\t</ul>\r\n</div>\r\n';
+				}
+			});
+			
+			if (topicErr.length > 0) {
+				reject(topicErr);
+				return;
+			}
+
+			fs.writeFile(filePath, html, 'utf-8', (err) => {
+				if (err) {
+					reject([err]);
+					return;
+				}
+				resolve(null);
+			});
+
+		});
+	};
+
 
 	//***********************************************************************
 	// MediaWiki
@@ -1023,7 +1142,7 @@ class TopicIndex {
 						curLetter = first;
 					}
 					const name = first + topic.name.substring(1);
-					const revised = (topic.revised === 'NO' ? '' : '  &diams;');
+					const revised = (topic.revised ? '  &diams;' : '');
 					wiki += `* [[${name}]]${revised}\r\n`;
 				});
 				wiki += '</div>\r\n';

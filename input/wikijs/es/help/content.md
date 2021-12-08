@@ -2,7 +2,7 @@
 title: Contenido de la Urantiapedia
 description: 
 published: true
-date: 2021-11-28T14:09:29.761Z
+date: 2021-12-08T14:09:29.761Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-28T14:09:29.761Z
@@ -187,6 +187,7 @@ Estos podrían ser algunos de los índices:
 
 Index | Description | Sorted | Path
 --- | --- | --- | ---
+Lista de índices | Listado de todos los índices | Como esta tabla | /es/index/index
 Índice de términos | Conocido como Glosario | Alfabéticamente | /en/index/topics
 Índice de personas | subconjunto del Glosario para nombres propios de personas o personalidades | Alfabéticamente | /en/index/people
 Índice de seres | Subconjunto del Glosario para tipos de seres en el universo (1) | Alfabéticamente | /en/index/beings

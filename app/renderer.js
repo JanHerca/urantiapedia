@@ -439,9 +439,11 @@ const handle_exeButtonClick = () => {
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
 		} else {
-			const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
 			topicindex.readFromTXT(txtDir, category)
-				.then(() => topicindexEN.readFromTXT(ti, category))
+				.then(() => {
+					const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
+					return topicindexEN.readFromTXT(ti, category);
+				})
 				.then(() => topicindex.writeToWikiHTML(htmlDir, topicindexEN))
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
@@ -452,6 +454,24 @@ const handle_exeButtonClick = () => {
 			.then(() => topicindex.writeIndexToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
+	} else if (process === 'TOPICS_INDEX_TXT_TO_WIKIJS') {
+		// Read TopicIndex index (*.txt) => write (*.html)
+		if (lan === 'en') {
+			topicindex.readFromTXT(txtDir, category)
+				.then(() => topicindex.writeIndexToWikiHTML(htmlDir, category))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		} else {
+			topicindex.readFromTXT(txtDir, category)
+				.then(() => {
+					const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
+					return topicindexEN.readFromTXT(ti, category);
+				})
+				.then(() => topicindex.writeIndexToWikiHTML(htmlDir, category, 
+					topicindexEN))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		}
 	} else if (process === 'REVIEW_TOPIC_TXT_LU_JSON') {
 		// Read TopicIndex (*.txt) => Read UB (*.json) => check
 		topicindex.readFromTXT(txtDir, category)

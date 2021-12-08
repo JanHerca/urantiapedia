@@ -227,8 +227,8 @@ const Processes = {
 	"TOPICS_INDEX_TXT_TO_MEDIAWIKI": {
 		active: false,
 		desc: {
-			en: "Convert index of Topic Index (TXT) to MediaWiki",
-			es: "Convertir Indice de Topic Index (TXT) a MediaWiki"
+			en: "Create index of Topic Index (TXT) to MediaWiki",
+			es: "Crear Indice de Topic Index (TXT) a MediaWiki"
 		},
 		controls: ['dirTTextbox', 'dirWTextbox', 'drpCategories'],
 		paths: [['input', 'txt', 'topic-index-{0}'], 
@@ -237,12 +237,12 @@ const Processes = {
 	"TOPICS_INDEX_TXT_TO_WIKIJS": {
 		active: true,
 		desc: {
-			en: "Convert index of Topic Index (TXT) to Wiki.js",
-			es: "Convertir Indice de Topic Index (TXT) a Wiki.js"
+			en: "Create index of Topic Index (TXT) to Wiki.js",
+			es: "Crear Indice de Topic Index (TXT) a Wiki.js"
 		},
 		controls: ['dirTTextbox', 'dirHTextbox', 'drpCategories'],
 		paths: [['input', 'txt', 'topic-index-{0}'], 
-			['input', 'wikijs', '{0}', 'topic']],
+			['output', 'wikijs', '{0}', 'index']],
 		emptyLan: [null, 'en']
 	},
 	"REVIEW_TOPIC_TXT_LU_JSON": {

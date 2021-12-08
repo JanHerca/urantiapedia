@@ -8,8 +8,6 @@
 # A sub-entry can have sub-sub-entries with tabs and so on
 ####################################################################################
 
-codorniz | (61:2.12) | | | 
-
 Absoluto Cualificado | | Absoluto de la Deidad | PERSON | 
 
 Vicegerentes Calificados del Último | (30:1.106) (106:4.3) (117:7.4) | | ORDER | 

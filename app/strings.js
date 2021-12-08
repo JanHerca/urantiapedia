@@ -289,6 +289,30 @@ const Strings = {
 		ru: "Russian",
 		sv: "Swedish"
 	},
+	"topicIndexTitle_ALL": {
+		en: "Index of all topics",
+		es: "Índice de todos términos"
+	},
+	"topicIndexTitle_PERSON": {
+		en: "Index of personalities, people individuals or groups and old gods",
+		es: "Índice de personalidades, personas individuales or colectivos y antiguos dioses"
+	},
+	"topicIndexTitle_PLACE": {
+		en: "Index of places, either on Earth or on the Universe",
+		es: "Índice de lugares, tanto en la Tierra como en el Universo"
+	},
+	"topicIndexTitle_ORDER": {
+		en: "Index of orders and types of beings",
+		es: "Índice de órdenes y tipologías de seres"
+	},
+	"topicIndexTitle_RACE": {
+		en: "Index of races, tribes or peoples",
+		es: "Índice de razas, tribus o pueblos"
+	},
+	"topicIndexTitle_RELIGION": {
+		en: "Index of religions, cults, beliefs",
+		es: "Índice de religiones, cultos, creencias"
+	},
 	"lblLanguage": {
 		en: "Wiki Language:",
 		es: "Idioma de la Wiki:"

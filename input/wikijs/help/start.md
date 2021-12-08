@@ -2,13 +2,13 @@
 title: Start with Urantiapedia
 description: 
 published: true
-date: 2021-11-28T13:48:47.532Z
+date: 2021-12-08T13:48:47.532Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-28T13:46:33.162Z
 ---
 
-<img src="image/uplogo_opt_whiteback.svg" alt="Urantiapedia" width="150"/>
+<img src="/image/uplogo_opt_whiteback.svg" alt="Urantiapedia" width="150"/>
 
 ## What is?
 
