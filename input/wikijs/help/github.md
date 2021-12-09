@@ -246,7 +246,6 @@ Example (file `a.txt`, line 889):
 Alpheus twins | (143:3.5) | apostles of Jesus | PERSON |
 James and Judas Alpheus or Alpheus twins were two apostles of Jesus
 mother Mary, father Alpheus (138:4.1) (189:4.4) (190:3.1)
-Santiago o Jacobo Alfeo o Tadeo
 James Alpheus
     fisherman, farmer of Kheresa, selected by James (138:2.6)
     married with 3 children; also called Thaddeus (139:9.1,5)

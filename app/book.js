@@ -1298,7 +1298,8 @@ class Book {
 			const prevLink = getWikijsBookLink(prevPaper, this.language);
 			const nextLink = getWikijsBookLink(nextPaper, this.language);
 			const indexLink = getWikijsBookLink('index', this.language);
-			const tpath = `/${this.language}/topic/`;
+			const lan = (this.language === 'en' ? '' : '/' + this.language);
+			const tpath = `${lan}/topic/`;
 			const tiOK = (topicIndex && (this.language === 'en' ||
 				(this.language != 'en' && topicIndexEN)));
 			const tiEN = (this.language === 'en' ? topicIndex : topicIndexEN);
@@ -1308,7 +1309,7 @@ class Book {
 			html += getWikijsHeader(title);
 			html += '\r\n';
 			html += getWikijsLinks(prevLink, indexLink, nextLink);
-			html += `<h1>${title}</h1>\r\n`;
+			// html += `<h1>${title}</h1>\r\n`;
 
 			//Sections & paragraphs
 			let footnoteIndex = 0, fni;

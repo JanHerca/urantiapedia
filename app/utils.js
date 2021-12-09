@@ -303,23 +303,24 @@ exports.getWikijsHeader = function(title) {
 };
 
 exports.getWikijsLinks = function(prevLink, indexLink, nextLink) {
-	const colorBg = 'rgb(255, 255, 255);';
-	const borderB = '0.2em solid rgb(200, 204, 209);';
-	const borderO = '1px solid rgb(200, 204, 209);';
-	const styleTable = `background-color:${colorBg}` +
+	// const colorBg = '#ffffff;';
+	const borderB = '0.2em solid #c8ccd1;';
+	const borderO = '1px solid #c8ccd1;';
+	const styleTable = /*`background-color:${colorBg}` +*/
 		`border-bottom:${borderB}` +
 		`border-left:${borderO}` +
 		`border-right:${borderO}` +
 		`border-top:${borderO}` +
-		`width: 100%;`;
-	const styleCell = `padding:0.4em 0.5em;border:${borderO}`;
+		`table-layout: fixed; width: 100%;`;
+		/*`width: 100%;`;*/
+	const styleCell = `padding:0.4em 0.5em;border:${borderO};width:33%;`;
 	const links =
 		`<figure class="table">\r\n` +
 		`  <table style="${styleTable}">\r\n` +
 		`    <tbody>\r\n` +
 		`      <tr>\r\n` +
 		`        <td style="${styleCell}">${prevLink}</td>\r\n` +
-		`        <td style="${styleCell}">${indexLink}</td>\r\n` +
+		`        <td style="${styleCell}text-align: center;">${indexLink}</td>\r\n` +
 		`        <td style="${styleCell}text-align: right;">${nextLink}</td>\r\n` +
 		`      </tr>\r\n` +
 		`    </tbody>\r\n` +
@@ -364,7 +365,8 @@ exports.getWikijsBookLink = (paper, language) => {
 		return ' ';
 	}
 	const bookName = Strings.bookName.en.replace(/ /g,"_");
-	const path = `/${language}/${bookName}`;
+	const lan = (language === 'en' ? '' : '/' + language);
+	const path = `${lan}/${bookName}`;
 	const indexName = Strings['bookIndexName'][language];
 	const indexNameEN = Strings['bookIndexName'].en;
 	if (paper === 'index') {
