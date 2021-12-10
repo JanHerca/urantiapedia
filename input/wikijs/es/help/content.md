@@ -24,16 +24,26 @@ Cada página puede ser un artículo, un capítulo de un libro, la página de ín
 
 La tabla resume los grupos de usuarios en la página web:
 
-Tipo | Descripción
+Grupo | Descripción de los usuarios del grupo
 --- | ---
 ADMIN | Usuario que puede hacerlo todo
-EDITOR | Usuario que tras una petición ha sido validado y autorizado por un usuario ADMIN para realizar modificaciones
+EDITOR | Usuario que tras una petición ha sido validado y autorizado por un usuario ADMIN para editar libros, artículos, presentaciones, mapas y modelos 3D (1)
+AUTHOR_NAMED (2) | Usuario dentro de un grupo con su nombre que actúa como EDITOR pero sólo para un número restringido de libros, artículos, presentaciones, mapas y modelos 3D de los cuales es el autor
 USER | Cualquier nuevo usuario creado sólo puede ver las páginas. Para hacer modificaciones necesita hacer una petición para ser añadido al grupo EDITOR a través de un proceso de validación.
+
+(1) Los términos del *Índice de términos* por ahora solo se editan usando las *Urantiapedia Tools* por usuarios llamados *Editores GitHub*, pero fuera de la web *Urantiapedia*. En un futuro, cuando finalice la preparación actual de los términos, los usuarios del grupo EDITOR podrán editarlos.
+
+(2) AUTHOR_NAMED significa que habrá varios grupos de tipo AUTHOR_NAMED, cada uno con usuarios que son los autores (o autorizados por los autores) para determinadas páginas. Por ejemplo, si hay dos usuarios llamados Han Solo y Obi Wan que quieren ser autores, habrá un par de grupos llamados HANSOLO y OBIWAN, el primero con el usuario Han Solo, el segundo con el usuario Obi Wan. El primero será el único que podrá editar páginas en rutas como `/en/ article/hansolo/` (y en cualquier otro idioma además del inglés), `/en/slides/hansolo`, y así sucesivamente. Por otro lado, el usuario de Obi Wan podría editar páginas en rutas como `/en/article/obiwan/`, `/en/slides/obiwan/` y así sucesivamente. De esta forma, algunos usuarios serán los únicos editores de determinadas páginas.
+
+Ten en cuenta que los únicos usuarios que pueden crear o eliminar páginas son los usuarios ADMIN para asegurarse de que las URL de las páginas se creen correctamente. Así pues, el proceso para crear una página es:
+1. El usuario EDITOR o AUTHOR_NAMED solicita la creación a un usuario ADMIN.
+2. El usuario ADMIN crea aquellas páginas con la mejor URL y el contenido vacío.
+3. El usuario EDITOR y AUTHOR_NAMED podrán agregar contenido a esas páginas.
 
 
 ## Tipos de páginas
 
-La tabla resume los tipos de páginas. Muestra el usuario mínimo necesario para editar cada tipo de página. Los usuarios ADMIN pueden hacerlo todo por lo que si la tabla indica EITOR eso implica también ADMIN.
+La tabla resume los tipos de páginas. Muestra el usuario mínimo necesario para editar cada tipo de página. Los usuarios ADMIN pueden hacerlo todo por lo que si la tabla indica EDITOR o AUTHOR_NAMED eso implica también ADMIN.
 
 La tabla muestra la ruta a añadir al dominio de [https://urantiapedia.org](https://urantiapedia.org) para obtener la URL en inglés. Hay que reemplazar el código de idioma para obtener páginas en cada idioma. Por ejemplo, la URL para obtener el índice de *El Libro de Urantia* es:
 - en inglés: https://urantiapedia.org/en/The_Urantia_Book/Index
@@ -46,31 +56,27 @@ Tipo | Descripción | Creación | Modif. | Borrado | URL
 WEPPAGE | Páginas de la propia Wiki como la página de inicio, páginas de ayuda, hoja de ruta | ADMIN |  ADMIN | ADMIN | /en/help/
 BOOK_UB | El Libro de Urantia | ADMIN | ADMIN (1) | ADMIN | /en/The_Urantia_Book/
 BOOK_BIBLE | La Biblia | ADMIN | ADMIN (1) | ADMIN | /en/Bible/
-BOOK_AUTH | Libro de un autor, bien quien sube el libro u otro | EDITOR | EDITOR (2) | EDITOR (2) | /en/book/[book title]
-BOOK_PUBLIC | Libro que cualquier puede editar | EDITOR | EDITOR | EDITOR | /en/book/[book title]
-TOPIC | Páginas con explicaciones sobre un término, vocablo o concepto relacionado con *El Libro de Urantia* | ADMIN | EDITOR | ADMIN | /en/topic/[topic name]
-INDEX | Páginas con colecciones de enlaces | EDITOR | EDITOR | EDITOR | /en/index/[index name]
-ARTICLE_AUTH | Artículo de un autor, bien que sube el artículo u otro | EDITOR | EDITOR (2) | EDITOR (2) | /en/article/[article title]
-ARTICLE_PUBLIC | Artículo que cualquiera puede editar | EDITOR | EDITOR | EDITOR | /en/article/[article title]
-SLIDES_AUTH | Presentación de un autor, bien quien la sube u otro | EDITOR | EDITOR (2) | EDITOR (2) | /en/slides/[slides title]
-SLIDES_PUBLIC | Presentación que cualquiera puede editar | EDITOR | EDITOR | EDITOR | /en/slides/[slides title]
-MAPS_AUTH | Mapa (3) de un autor, bien quien sube el mapa u otro | EDITOR | EDITOR (2) | EDITOR (2) | /en/map/[map title]
-MAPS_PUBLIC | Mapa (3) que puede ser editado por cualquiera | EDITOR | EDITOR | EDITOR | /en/map/[map title]
-IMAGE | Una imagen, bien un dibujo o esquema o ilustración | EDITOR | EDITOR | EDITOR (4) | /en/image/[image name]
-3DMODEL | Un modelo 3D | EDITOR | EDITOR | EDITOR (5) | /en/3dmodel/[3dmodel name]
+BOOK_AUTH | Libro de un autor, bien quien sube el libro u otro | ADMIN | AUTHOR_NAMED (1) | ADMIN | /en/book/user_name/book_title
+BOOK_PUBLIC | Libro que cualquier puede editar | ADMIN | EDITOR | ADMIN | /en/book/book_title
+TOPIC | Páginas con explicaciones sobre un término, vocablo o concepto relacionado con *El Libro de Urantia* | ADMIN | EDITOR | ADMIN | /en/topic/topic_name
+INDEX | Páginas con colecciones de enlaces | ADMIN | EDITOR | ADMIN | /en/index/index_name
+ARTICLE_AUTH | Artículo de un autor, bien que sube el artículo u otro | ADMIN | AUTHOR_NAMED (1) | ADMIN | /en/article/user_name/article_title
+ARTICLE_PUBLIC | Artículo que cualquiera puede editar | ADMIN | EDITOR | ADMIN | /en/article/article_title
+SLIDES_AUTH | Presentación de un autor, bien quien la sube u otro | ADMIN | AUTHOR_NAMED (1) | ADMIN | /en/slides/user_name/slides_title
+SLIDES_PUBLIC | Presentación que cualquiera puede editar | ADMIN | EDITOR | ADMIN | /en/slides/slides_title
+MAPS_AUTH | Mapa (3) de un autor, bien quien sube el mapa u otro | ADMIN | AUTHOR_NAMED (1) | ADMIN | /en/map/user_name/map_title
+MAPS_PUBLIC | Mapa (3) que puede ser editado por cualquiera | ADMIN | EDITOR | ADMIN | /en/map/map_title
+3DMODEL_AUTH | Un modelo 3D de un autor, bien quien lo sube u otro | ADMIN | AUTHOR_NAMED (1) | ADMIN | /en/3dmodel/user_name/3dmodel_name
+3DMODEL_PUBLIC | Un modelo 3D | ADMIN | EDITOR | ADMIN (3) | /en/3dmodel/3dmodel_name
+IMAGE | Una imagen, bien un dibujo o esquema o ilustración | EDITOR | EDITOR | EDITOR (4) | /en/image/image_name
 
-(1) Cambios en las páginas TOPIC producen cambios indirectos en las páginas BOOK_UB.
-
-(2) El usuario EDITOR que creó la página. La página estará vinculada a ese usuario.
-
-(3) Los mapas pueden ser 2D o 3D y pueen contener:
-- Marcas puntuales con mensajes emergentes mostrando localizaciones. Los mensajes pueden tener enlaces a la Wiki o externos.
-- Itinerarios: varios puntos de paso con mensajes emergentes en cada uno mostrando el viaje de una persona o un pueblo. Estos itinerarios se pueden mostrar como animaciones.
-- Áreas: polígonos mostrando localizaciones de algo sin una localización específica como imperios o naciones.
-
-(4) Una imagen sólo puede ser eliminada is no hay otras páginas que enlacen con ella. La página de la imagen, la página que permite actualizar la imagen, debe mostrar la lista de páginas que usan esa imagen. Las imágenes sólo se pueden subir en ciertos formatos y tamaños máximos.
-
-(5) Un modelo 3D solo se puede eliminar si no hay otra página que lo vincule. La página del modelo 3D, la página que permite actualizar el modelo 3D, debe permitir conocer la lista de páginas que utiliza el modelo 3D. Los modelos 3D solo se pueden cargar en cierto formato (preferiblemente glTF) y tamaños máximos.
+1. El usuario AUTHOR_NAMED que es quien controla la página. La página estará vinculada a ese usuario.
+2. Los mapas pueden ser 2D o 3D y pueen contener:
+   - Marcas puntuales con mensajes emergentes mostrando localizaciones. Los mensajes pueden tener enlaces a la Wiki o externos.
+   - Itinerarios: varios puntos de paso con mensajes emergentes en cada uno mostrando el viaje de una persona o un pueblo. Estos itinerarios se pueden mostrar como animaciones.
+   - Áreas: polígonos mostrando localizaciones de algo sin una localización específica como imperios o naciones.
+3. Una imagen sólo puede ser eliminada is no hay otras páginas que enlacen con ella. La página de la imagen, la página que permite actualizar la imagen, debe mostrar la lista de páginas que usan esa imagen. Las imágenes sólo se pueden subir en ciertos formatos y tamaños máximos.
+4. Un modelo 3D solo se puede eliminar si no hay otra página que lo vincule. La página del modelo 3D, la página que permite actualizar el modelo 3D, debe permitir conocer la lista de páginas que utiliza el modelo 3D. Los modelos 3D solo se pueden cargar en cierto formato (preferiblemente glTF) y tamaños máximos.
 
 
 ## Páginas de la web
@@ -278,3 +284,20 @@ Ejemplos de URLs:
 
 Es una buena idea mantener estas convenciones de modo que las URL mantengan una consistencia en la forma de construirse y sea más fácil recordarlas.
 
+## Links
+
+- [Empezar con la Urantiapedia](/es/help/start)
+- [Contenido de la Urantiapedia](/es/help/content)
+- [Urantiapedia - Idiomas soportados](/es/help/languages)
+- [Manual para administradores](/es/help/admin)
+- [Manual para desarrolladores](/es/help/devs)
+- [Manual para editores GitHub](/es/help/github)
+- [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
+
+## External links
+
+- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
+- [Fundación Urantia](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)

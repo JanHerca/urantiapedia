@@ -1,5 +1,5 @@
 ---
-title: Start with Urantiapedia
+title: Starting with Urantiapedia
 description: 
 published: true
 date: 2021-12-08T13:48:47.532Z
@@ -57,4 +57,22 @@ In short, user profiles are as follows:
 ## How to collaborate
 
 To collaborate with the project best way is sign up in *Blue Fields* (https://blue-fields.netlify.app/) webpage, that is a site created to join and organize *Urantia Book* readers worldwide that want to participate in smart projects, with a good purpose and altruism. Once registered the project team will contact you.
+
+## Links
+
+- [Starting with Urantiapedia](/en/help/start)
+- [Urantiapedia Content](/en/help/content)
+- [Urantiapedia - Languages supported](/en/help/languages)
+- [Admin help](/en/help/admin)
+- [Dev help](/en/help/devs)
+- [Github editors help](/en/help/github)
+- [Urantiapedia status - Current progress of the project](/en/help/status)
+
+## External links
+
+- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
+- [Urantia Foundation](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
 

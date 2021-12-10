@@ -84,3 +84,21 @@ Biblical abbreviatures must be registered in *Urantiapedia Tools* to be used in 
 https://translate.google.es/
 
 https://www.deepl.com/translator
+
+## Links
+
+- [Starting with Urantiapedia](/en/help/start)
+- [Urantiapedia Content](/en/help/content)
+- [Urantiapedia - Languages supported](/en/help/languages)
+- [Admin help](/en/help/admin)
+- [Dev help](/en/help/devs)
+- [Github editors help](/en/help/github)
+- [Urantiapedia status - Current progress of the project](/en/help/status)
+
+## External links
+
+- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
+- [Urantia Foundation](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
