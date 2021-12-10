@@ -190,6 +190,8 @@ class Bible {
 			const refs = (book_bibleref && !isNaN(chIndex) ? 
 				book_bibleref.refs.filter(r=> r.bible_chapter === chIndex) : []);
 			const wfootnotes = this.footnotesToWikiHTML(refs);
+			const fnStyle = (wfootnotes.length > 10 ? 
+				' style="column-width: 30em;"' : '');
 			if (isNaN(chIndex)) {
 				reject(this.getError('bible_section_not_number', filePath, 
 					chapter.title));
@@ -197,26 +199,26 @@ class Bible {
 			}
 
 			//Header
+			const chapterText = Strings['bookChapter'][this.language];
 			const prevChapter = book.chapters
 				.find(c=>c.title === (chIndex - 1).toString());
 			const nextChapter = book.chapters
 				.find(c=>c.title === (chIndex + 1).toString());
 			const prevLink = (prevChapter ? 
 				`<a href="${book.path}/${chIndex - 1}">` +
-				`${book.title} - ${chIndex - 1}</a>` : ' ');
+				`${book.title} - ${chapterText} ${chIndex - 1}</a>` : ' ');
 			const nextLink = (nextChapter ? 
 				`<a href="${book.path}/${chIndex + 1}">` +
-				`${book.title} - ${chIndex + 1}</a>` : ' ');
+				`${book.title} - ${chapterText} ${chIndex + 1}</a>` : ' ');
 			const indexLink = 
 				`<a href="${book.path}/${Strings['bookIndexName'].en}">` +
 				`${Strings['bookIndexName'][this.language]}</a>`;
+			const title = `${book.title} - ${chapterText} ${chapter.title}`;
 
-			const title = `${book.title} - ${chapter.title}`;
-
-			html += getWikijsHeader(`${book.title} - ${chapter.title}`);
+			html += getWikijsHeader(title);
 			html += '\r\n';
 			html += getWikijsLinks(prevLink, indexLink, nextLink);
-			html += `<h1>${title}</h1>\r\n`;
+			// html += `<h1>${title}</h1>\r\n`;
 
 			const writePar = (par) => {
 				const v = par.substring(0, par.indexOf(' '));
@@ -246,7 +248,7 @@ class Bible {
 			//References section
 			if (wfootnotes.length > 0) {
 				html += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
-				html += '<div style="column-width: 30em;">\r\n<ol>\r\n';
+				html += `<div${fnStyle}>\r\n<ol>\r\n`;
 				wfootnotes.forEach(f => html += '  ' + f.html);
 				html += '</ol>\r\n</div>\r\n';
 			}

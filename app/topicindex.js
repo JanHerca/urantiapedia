@@ -592,7 +592,8 @@ class TopicIndex {
 	writeFileToWikiHTML = (filePath, topic, topicEN) => {
 		return new Promise((resolve, reject) => {
 			let html = '';
-			const tpath = `/${this.language}/topic`;
+			const tpath = (this.language === 'en' ? '/topic' : 
+				`/${this.language}/topic`);
 			const title = topic.name.substring(0, 1).toUpperCase() +
 						topic.name.substring(1);
 			const seeAlsoTxt = Strings['topic_see_also'][this.language];
@@ -609,12 +610,19 @@ class TopicIndex {
 
 			html += getWikijsHeader(title);
 			html += '\r\n';
-			html += `<h1>${title}</h1>\r\n`;
+			// html += `<h1>${title}</h1>\r\n`;
 
 			// const end = '\r\n\r\n';
 			// const refs = this.sortUniqueRefs(topic);
 			// let refsUsed = refs.map(ru => false);
-			const seeAlso = this.sortUniqueSeeAlso(topic);
+			const seeAlsoErr = [];
+			const seeAlsoObjs = this.sortUniqueSeeAlsoWikiHTML(topic, topicEN, 
+				seeAlsoErr);
+			if (seeAlsoErr.length > 0) {
+				reject(new Error(seeAlsoErr.map(e => e.message).join(', ')));
+				return;
+			}
+
 
 			//Resolve redirects
 			// if (topic.isRedirect && topic.seeAlso.length === 1) {
@@ -682,22 +690,24 @@ class TopicIndex {
 			});
 
 			//Add Links
-			if (seeAlso && seeAlso.length > 0) {
+			if (seeAlsoObjs && seeAlsoObjs.length > 0) {
 				html += `<h2>${Strings['topic_links'][this.language]}</h2>\r\n`;
-				html += '<div>\r\n<ol>\r\n';
-				seeAlso.forEach(also => {
-					const alsoLink = also.replace(/ /g, '_').replace(/:/, '#');
-					const alsoText = also.substring(0, 1).toUpperCase() + 
-						also.substring(1);
+				html += '<div>\r\n<ul>\r\n';
+				seeAlsoObjs.forEach(alsoObj => {
+					const alsoName = alsoObj.seeAlso;
+					const alsoNameEN = alsoObj.seeAlsoEN;
+					const alsoLink = alsoNameEN.replace(/ /g, '_').replace(/:/, '#');
+					const alsoText = alsoName.substring(0, 1).toUpperCase() + 
+						alsoName.substring(1);
 					html += `<li><a href="${tpath}/${alsoLink}">${alsoText}</a></li>\r\n`;
 				});
-				html += '</ol>\r\n</div>\r\n';
+				html += '</ul>\r\n</div>\r\n';
 			}
 			
 			//Add External Links
 			if (topic.links && topic.links.length > 0) {
 				html+= `<h2>${Strings['topic_external_links'][this.language]}</h2>\r\n`;
-				html += '<div>\r\n<ol>\r\n';
+				html += '<div>\r\n<ul>\r\n';
 				topic.links.forEach(link => {
 					if (link.indexOf('wikipedia') != -1) {
 						let linkname = link.substring(link.lastIndexOf('/') + 1)
@@ -707,13 +717,15 @@ class TopicIndex {
 						html += `<li><a href="${link}">${link}</a></li>\r\n`;
 					}
 				});
-				html += '</ol>\r\n</div>\r\n';
+				html += '</ul>\r\n</div>\r\n';
 			}
 
 			//Add references
 			if (lineRefs.length > 0) {
+				const fnStyle = (lineRefs.length > 10 ? 
+					' style="column-width: 30em;"' : '');
 				html += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
-				html += '<div style="column-width: 30em;">\r\n<ol>\r\n';
+				html += `<div${fnStyle}>\r\n<ol>\r\n`;
 				lineRefs.forEach(f => html += '  ' + f);
 				html += '</ol>\r\n</div>\r\n';
 			}
@@ -845,6 +857,50 @@ class TopicIndex {
 			});
 
 		});
+	};
+
+	/**
+	 * Extracts all different link from a topic (and sort them by alphabetic order).
+	 * @param {Object} topic Topic.
+	 * @param {Object} topicEN Topic in english.
+	 * @param {Array.<Error>} err Array of errors.
+	 * @return {Array.<Object>}
+	 */
+	sortUniqueSeeAlsoWikiHTML = (topic, topicEN, err) => {
+		let seeAlso = [];
+		let seeAlsoObj = [];
+
+		if (topic.lines.length != topicEN.lines.length) {
+			err.push(this.getError('topic_invalid_see', topic.name));
+			return seeAlsoObj;
+		}
+
+		const addSeeAlso = (sa, saEN) => {
+			if ((sa && !saEN) || (!sa && saEN) ||
+				(sa && saEN && sa.length != saEN.length)) {
+				err.push(this.getError('topic_invalid_see', topic.name));
+				return;
+			}
+			if (sa && sa.length > 0) {
+				sa.forEach((s, i) => {
+					if (seeAlso.indexOf(s) === -1) {
+						seeAlso.push(s);
+						seeAlsoObj.push({seeAlso: s, seeAlsoEN: saEN[i]});
+					}
+				});
+			}
+		};
+
+		addSeeAlso(topic.seeAlso, topicEN.seeAlso);
+		topic.lines.forEach((line, i) => {
+			addSeeAlso(line.seeAlso, topicEN.lines[i].seeAlso);
+		});
+
+		seeAlsoObj.sort((a,b) => {
+			return a.seeAlso.toLowerCase().localeCompare(b.seeAlso.toLowerCase());
+		});
+
+		return seeAlsoObj;
 	};
 
 

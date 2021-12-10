@@ -211,6 +211,10 @@ const Strings = {
 		ru: "",
 		sv: "Kap"
 	},
+	"bookChapter": {
+		en: "Chapter",
+		es: "Capítulo"
+	},
 	"bookIndexName": {
 		bg: "",
 		cs: "",
@@ -616,6 +620,10 @@ const Strings = {
 	"topic_not_in_ref": {
 		en: "'{0}' in no ref: {1}",
 		es: "'{0}' en ninguna ref: {1}"
+	},
+	"topic_invalid_see": {
+		en: "'{0}': topic has different seeAlso in english",
+		es: "'{0}': el término tiene diferentes seeAlso en inglés"
 	},
 	"topic_en_not_found": {
 		en: "'{0}' not found in english",

@@ -338,7 +338,8 @@ exports.getWikijsLinks = function(prevLink, indexLink, nextLink) {
 exports.getWikijsBookRefLink = (book_ref, language) => {
 	const bookAbb = Strings.bookAbb[language];
 	const bookName = Strings.bookName.en.replace(/ /g,"_");
-	const path = `/${language}/${bookName}`;
+	const lan = (language === 'en' ? '' : '/' + language);
+	const path = `${lan}/${bookName}`;
 	const text = `${bookAbb} ${book_ref}`;
 	let link = '';
 	let ref = book_ref.replace(/[:.,-]/g,"|");
