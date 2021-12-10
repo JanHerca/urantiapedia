@@ -836,34 +836,34 @@ A. primary seconaphim (28:3.1) (28:4)
 	transport ascenders to Havona (28:4.13) (30:4.28)
 	transporters can traverse from Uversa past dark gravity bodies to Havona (26:4.1) (39:2.9)
 	types
-		1. voices of Conjoint Actor q.v.
-		2. voices of Seven Master Spirits q.v.
-		3. voices of Creator Sons q.v.
-		4. voices of angelic hosts q.v.
-		5. broadcast receivers q.v.
-		6. transport personalities (28:4.12)
-		7. reserve corps (28:4.14)
+		# voices of Conjoint Actor q.v.
+		# voices of Seven Master Spirits q.v.
+		# voices of Creator Sons q.v.
+		# voices of angelic hosts q.v.
+		# broadcast receivers q.v.
+		# transport personalities (28:4.12)
+		# reserve corps (28:4.14)
 B. secondary seconaphim (28:5)
 assigned to Divine Counselors, Perfectors of Wisdom, and Universal Censors (28:3.1) (28:5.2-6)
 	types
-		1. Voices of Wisdom q.v.
-		2. Souls of Philosophy q.v.
-		3. Union of Souls q.v.
-		4. Hearts of Counsel q.v.
-		5. Joys of Existence q.v.
-		6. Satisfactions of Service q.v.
-		7. Discerners of Spirits q.v.
+		# Voices of Wisdom q.v.
+		# Souls of Philosophy q.v.
+		# Union of Souls q.v.
+		# Hearts of Counsel q.v.
+		# Joys of Existence q.v.
+		# Satisfactions of Service q.v.
+		# Discerners of Spirits q.v.
 C. tertiary seconaphim (28:6)
 assigned to Mighty Messengers, Those High in Authority, and Those without Name and Number (22:5.5) (28:3.1) (28:6)
 guide ascenders in perplexity, uncertainty, and emergencies (28:7.2-3)
 	types
-		1. Significances of Origins q.v.
-		2. Memories of Mercy q.v.
-		3. Imports of Time q.v.
-		4. Solemnities of Trust q.v.
-		5. Sanctities of Service q.v.
-		6. Secrets of Greatness
-		7. Souls of Goodness q.v.
+		# Significances of Origins q.v.
+		# Memories of Mercy q.v.
+		# Imports of Time q.v.
+		# Solemnities of Trust q.v.
+		# Sanctities of Service q.v.
+		# Secrets of Greatness
+		# Souls of Goodness q.v.
 
 second coming | | Jesus: second coming | | 
 groups always expect return of leaders (92:5.6)
@@ -1458,73 +1458,73 @@ nature
 	usually retain original complement of being (38:4.3)
 only good results from efforts to understand and love (38:2.1)
 orders of seraphim (38:6)
-	1st. order, supreme seraphim (39:1)
-		1. Son-Spirit ministers q.v.
-		1a. bestowal attendants q.v.
-		2. court advisors q.v.
-		3. universe orientators q.v.
-		4. teaching counselors q.v.
-		5. directors of assignment q.v.
-		6. recorders (39:1.17)
-		7. unattached ministers (39:1.18)
-	2nd. order, superior seraphim (39:2)
-		1. intelligence corps q.v.
-		2. voices of mercy q.v.
-		3. spirit co-ordinators q.v.
-		4. assistant teachers q.v.
-		5. transporters (39:2.8-13)
-		6. recorders (39:2.14)
-		6a. broadcasters (39:2.15-16)
-		7. reserves (39:2.17-18)
-	3rd. order, supervisor seraphim (39:3)
-		1. supervising assistants q.v.
-		2. law forecasters q.v.
-		3. social architects q.v.
-		4. ethical sensitizers q.v.
-		5. transporters (39:3.8-9)
-		6. recorders (39:3.10)
-		7. reserves (39:3.11)
-	4th. order, administrator seraphim (39:4)
-		1. administrative assistants q.v.
-		2. justice guides q.v.
-		3. interpreters of cosmic citizenship q.v.
-		4. quickeners of morality q.v.
-		5. transporters (39:4.15)
-		6. recorders (39:4.16)
-		7. reserves (39:4.17-18)
-	5th. order, planetary helper seraphim (39:5)
-		1. voices of the Garden q.v.
-		2. spirits of brotherhood q.v.
-		3. souls of peace q.v.
-		4. spirits of trust q.v.
-		5. transporters (39:5.10-15)
-		6. recorders (39:5.16)
-		7. reserves (39:5.17)
-	6th. order, morontia world transition ministers (39:6) (48:6)
-		1. seraphic evangels q.v.
-		2. racial interpreters q.v.
-		3. mind planners q.v.
-		4. morontia counselors q.v.
-		5. technicians (48:6.29)
-		6. recorder-teachers (48:6.30-33)
-		7. reserves (48:6.34-37)
-	7th. order, seraphim of the future (39:7)
+	# 1st. order, supreme seraphim (39:1)
+	## Son-Spirit ministers q.v.
+	##* 1a. bestowal attendants q.v.
+	## court advisors q.v.
+	## universe orientators q.v.
+	## teaching counselors q.v.
+	## directors of assignment q.v.
+	## recorders (39:1.17)
+	## unattached ministers (39:1.18)
+	# 2nd. order, superior seraphim (39:2)
+	## intelligence corps q.v.
+	## voices of mercy q.v.
+	## spirit co-ordinators q.v.
+	## assistant teachers q.v.
+	## transporters (39:2.8-13)
+	## recorders (39:2.14)
+	##* 6a. broadcasters (39:2.15-16)
+	## reserves (39:2.17-18)
+	# 3rd. order, supervisor seraphim (39:3)
+	## supervising assistants q.v.
+	## law forecasters q.v.
+	## social architects q.v.
+	## ethical sensitizers q.v.
+	## transporters (39:3.8-9)
+	## recorders (39:3.10)
+	## reserves (39:3.11)
+	# 4th. order, administrator seraphim (39:4)
+	## administrative assistants q.v.
+	## justice guides q.v.
+	## interpreters of cosmic citizenship q.v.
+	## quickeners of morality q.v.
+	## transporters (39:4.15)
+	## recorders (39:4.16)
+	## reserves (39:4.17-18)
+	# 5th. order, planetary helper seraphim (39:5)
+	## voices of the Garden q.v.
+	## spirits of brotherhood q.v.
+	## souls of peace q.v.
+	## spirits of trust q.v.
+	## transporters (39:5.10-15)
+	## recorders (39:5.16)
+	## reserves (39:5.17)
+	# 6th. order, morontia world transition ministers (39:6) (48:6)
+	## seraphic evangels q.v.
+	## racial interpreters q.v.
+	## mind planners q.v.
+	## morontia counselors q.v.
+	## technicians (48:6.29)
+	## recorder-teachers (48:6.30-33)
+	## reserves (48:6.34-37)
+	# 7th. order, seraphim of the future (39:7)
 other classifications
 	ascending seraphim (30:2.50) (40:1) (45:6.5)
 	completion seraphim (39:8-9)
 	master seraphim of planetary supervision (114:6)
-		1. angels of the epochs q.v.
-		2. angels of progress q.v.
-		3. angels of the churches q.v.
-		4. angels of nation life q.v.
-		5. angels of the races q.v.
-		6. angels of the future q.v.
-		7. angels of enlightenment q.v.
-		8. angels of health q.v.
-		9. angels of the home q.v.
-		10. angels of industry q.v.
-		11. angels of diversion q.v.
-		12. angels of superhuman ministry q.v.
+		# angels of the epochs q.v.
+		# angels of progress q.v.
+		# angels of the churches q.v.
+		# angels of nation life q.v.
+		# angels of the races q.v.
+		# angels of the future q.v.
+		# angels of enlightenment q.v.
+		# angels of health q.v.
+		# angels of the home q.v.
+		# angels of industry q.v.
+		# angels of diversion q.v.
+		# angels of superhuman ministry q.v.
 	unrevealed seraphim (38:3)
 part with ascendant mortals during Havona sojourn (26:4.11)
 particular actions
@@ -2398,14 +2398,14 @@ single-origin beings | | | |
 beings of direct or indirect descent from one of the Paradise Deities (30:1.55)
 in Paradise classification (30:1.55-91)
 orders
-	A. Supreme Spirits q.v.
-	B. ascending orders
-		1. Personalized Adjusters q.v.
-		2. ascending Material Sons | Material Sons
-		3. evolutionary seraphim | seraphim
-		4. evolutionary cherubim | cherubim and sanobim
-		5. unrevealed ascenders (30:1.54)
-	C. family of Infinite Spirit | Infinite Spirit: family of
+	* A. Supreme Spirits q.v.
+	* B. ascending orders
+	*# Personalized Adjusters q.v.
+	*# ascending Material Sons | Material Sons
+	*# evolutionary seraphim | seraphim
+	*# evolutionary cherubim | cherubim and sanobim
+	*# unrevealed ascenders (30:1.54)
+	* C. family of Infinite Spirit | Infinite Spirit: family of
 
 Sinkiang | | | PLACE | 
 Andite culture dominant in 15,000 B.C. (78:5.2,6) (78:6.4)
@@ -2780,13 +2780,13 @@ orders of Sons of God
 	A. descending orders (20:1)
 		of direct and divine creation (20:0.5) (20:1.1)
 		types (30:1.30-42) (30:2.38-45) (35:0)
-			1. Creator Sons q.v.
-			2. Magisterial Sons q.v.
-			3. Trinity Teacher Sons q.v.
-			4. Melchizedeks q.v.
-			5. Vorondadek Sons q.v.
-			6. Lanonandek Sons q.v.
-			7. Life Carriers q.v.
+			# Creator Sons q.v.
+			# Magisterial Sons q.v.
+			# Trinity Teacher Sons q.v.
+			# Melchizedeks q.v.
+			# Vorondadek Sons q.v.
+			# Lanonandek Sons q.v.
+			# Life Carriers q.v.
 			archangels q.v.
 			Bright and Morning Stars q.v.
 			Brilliant Evening Stars q.v.
@@ -2796,34 +2796,34 @@ orders of Sons of God
 		achieve status by experiential participation (20:0.5)
 		mortals are known as ascending sons after fusion (40:6.1) (40:7.2)
 		types (30:2.46-53) (40:0.1)
-			1. Adjuster-fused mortals q.v.
-			2. Son-fused mortals q.v.
-			3. Spirit-fused mortals q.v.
-			4. evolutionary seraphim | seraphim: destiny
-			5. ascending Material Sons | Material Sons
-			6. translated midwayers (38:9.1) (40:3)
-			7. Personalized Adjusters q.v.
+			# Adjuster-fused mortals q.v.
+			# Son-fused mortals q.v.
+			# Spirit-fused mortals q.v.
+			# evolutionary seraphim | seraphim: destiny
+			# ascending Material Sons | Material Sons
+			# translated midwayers (38:9.1) (40:3)
+			# Personalized Adjusters q.v.
 			unrevealed ascenders (30:1.54)
 	C. stationary orders (dual origin)
 		types (30:1.43-48)
-			1. abandonters q.v.
-			2. susatia q.v.
-			3. univitatia q.v.
-			4. spironga q.v.
-			5. unrevealed orders (30:1.48)
+			# abandonters q.v.
+			# susatia q.v.
+			# univitatia q.v.
+			# spironga q.v.
+			# unrevealed orders (30:1.48)
 	D. trinitized orders
 		includes all beings embraced by Trinity (20:0.1-5)
 		types
-			1. Mighty Messengers q.v.
-			2. Those High in Authority q.v.
-			3. Those without Name and Number q.v.
-			4. Trinitized Custodians q.v.
-			5. Trinitized Ambassadors q.v.
-			6. Celestial Guardians q.v.
-			7. High Son Assistants q.v.
-			8. creature-trinitized Sons q.v.
-			9. Paradise-Havona-trinitized Sons q.v.
-			10. Trinitized Sons of Destiny q.v.
+			# Mighty Messengers q.v.
+			# Those High in Authority q.v.
+			# Those without Name and Number q.v.
+			# Trinitized Custodians q.v.
+			# Trinitized Ambassadors q.v.
+			# Celestial Guardians q.v.
+			# High Son Assistants q.v.
+			# creature-trinitized Sons q.v.
+			# Paradise-Havona-trinitized Sons q.v.
+			# Trinitized Sons of Destiny q.v.
 Sonarington is Paradise headquarters of (13:1.7)
 
 sons of thunder | | | PERSON | 
@@ -4317,12 +4317,12 @@ orders
 		perfect beings, but not absonite or absolute (27:0.1)
 		planetary chief of seraphim on Urantia is a primary supernaphim (37:8.10) (114:6.3)
 		types (27:0.3)
-			1. conductors of worship q.v.
-			3. custodians of knowledge q.v.
-			4. directors of conduct q.v.
-			5. interpreters of ethics q.v.
-			6. chiefs of assignment q.v.
-			7. instigators of rest q.v.
+			# conductors of worship q.v.
+			# custodians of knowledge q.v.
+			# directors of conduct q.v.
+			# interpreters of ethics q.v.
+			# chiefs of assignment q.v.
+			# instigators of rest q.v.
 		types work interchangeably (27:0.1)
 	B. secondary supernaphim (26:4)
 		angels of Havona (26:1.12) (26:2.4-5) (28:0.1)
@@ -4331,13 +4331,13 @@ orders
 		not created until arrival of Grandfanda (26:2.7)
 		offspring of individual Master Spirits (17:8.2) (26:1.12)
 		types (26:4.2)
-			1. pilgrim helpers q.v.
-			2. supremacy guides q.v.
-			3. Trinity guides q.v.
-			4. Son finders q.v.
-			5. Father guides q.v.
-			6. counselors and advisors q.v.
-			7. complements of rest q.v.
+			# pilgrim helpers q.v.
+			# supremacy guides q.v.
+			# Trinity guides q.v.
+			# Son finders q.v.
+			# Father guides q.v.
+			# counselors and advisors q.v.
+			# complements of rest q.v.
 	C. tertiary supernaphim (26:1.12) (26:3)
 		creation indicative of God the Supreme (24:7.9)
 		Custodians of Records chosen from (25:5.1)
@@ -4346,13 +4346,13 @@ orders
 		summon seraphim to Seraphington (39:8.4)
 		transporters operate among Havona circuits; land on peripheral Paradise (11:4.1) (14:5.5) | seraphic, secoraphic, and superaphic transport
 		types
-			1. harmony supervisors q.v.
-			2. chief recorders q.v.
-			3. broadcasters q.v.
-			4. messengers q.v.
-			5. intelligence co-ordinators q.v.
-			6. transport personalities (26:3.9)
-			7. reserve corps (26:3.10)
+			# harmony supervisors q.v.
+			# chief recorders q.v.
+			# broadcasters q.v.
+			# messengers q.v.
+			# intelligence co-ordinators q.v.
+			# transport personalities (26:3.9)
+			# reserve corps (26:3.10)
 original pattern angel is chief of (27:2.1)
 self-governing (27:2.1)
 service of supernaphim, generally

@@ -1,15 +1,6 @@
 'aves': , 'aves':  | Error: 'aves': , 'aves':  
-'cuerpo humano':  | Error: 'cuerpo humano':  
-'aliento':  | Error: 'aliento':  
-'negocio':  | Error: 'negocio':  
 'Espíritus Ayudantes de la Mente':  | Error: 'Espíritus Ayudantes de la Mente':  
 'animales': , 'animales':  | Error: 'animales': , 'animales':  
-'hijos trinitizados ascendentes':  | Error: 'hijos trinitizados ascendentes':  
-'cataclismos':  | Error: 'cataclismos': 
-'catástrofes':  | Error: 'catástrofes': 
-'confesión':  | Error: 'confesión':  
-'conquista':  | Error: 'conquista':  
-'Cuerpo Paradisiaco de la Finalidad':  | Error: 'Cuerpo Paradisiaco de la Finalidad':  
 'consejo (espíritu)':  | Error: 'consejo (espíritu)':  
 'dedicación espiritual':  | Error: 'dedicación espiritual':  
 'defecto':  | Error: 'defecto':  

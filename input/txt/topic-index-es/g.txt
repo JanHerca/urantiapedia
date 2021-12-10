@@ -316,46 +316,46 @@ influyente en la determinación de la paz o la guerra (81:6.5)
 la protección de América del Norte por los océanos permitió un desarrollo sin molestias (81:6.5)
 
 edades geológicas | (59:0.1-6) | | | 
-1. Arqueozoico (era anterior a la vida)
-	Hace de mil millones a 550 millones de años (59:0.2) (78:7.4)
-2. Proterozoico (era del amanecer de la vida)
-	Hace 550 a 400 millones de años (58:7.1) (59:0.3)
-3. Paleozoico (era de la vida marina)
-	Hace 400 a 150 millones de años (59:0.4) (59:6.11)
-	Cámbrico (edad de los trilobites)
-		Hace 400 a 350 millones de años (59:1)
-	Ordovícico (edad de los animales invertebrados)
-		Hace 350 a 300 millones de años (59:2)
-	Silúrico (edad de coral y braquiópodo)
-		Hace 300 a 275 millones de años (59:3)
-	Devónico (edad de la vida vegetal, peces)
-		Hace 270 a 220 millones de años (59:4)
-	Carbonífero (edad de los bosques de helechos, ranas)
-		Hace 220 a 180 millones de años (59:5)
-	Pérmico (edad semilla-planta; tribulación biológica)
-		Hace 170 a 150 millones de años (59:6)
-4. Mesozoico (era temprana de la vida terrestre)
-	Hace 150 a 50 millones de años (59:0.5) (60:4.6)
-	Triásico (edad reptiliana temprana)
-		Hace 150 a 125 millones de años (60:1)
-	Jurásico (era posterior a los reptiles)
-		Hace 125 a 100 millones de años (60:2)
-	Cretácico (edad de las plantas con flores, pájaros)
-	Hace 100 a 50 millones de años (60:3-4)
-5. Cenozoico (era de los mamíferos)
-	Hace 50 millones de años hasta el presente (61:0)
-	Eoceno (edad de los primeros mamíferos)
-		Hace 50 a 35 millones de años (61:1)
-	Oligoceno (edad avanzada de los mamíferos)
-		Hace 35 a 25 millones de años (61:2)
-	Mioceno (edad del elefante y el caballo)
-		Hace 25 a 10 millones de años (61:3.15)
-	Plioceno (etapa de migración de mamíferos)
-		Hace 10 a 1 millón de años (61:4)
-	Pleistoceno (edad de hielo)
-		Hace 2 millones a 100.000 años (61:5-7)
-	Holoceno (período posglacial)
-		Hace 35.000 años hasta el presente (61:7.18)
+# Arqueozoico (era anterior a la vida)
+#* Hace de mil millones a 550 millones de años (59:0.2) (78:7.4)
+# Proterozoico (era del amanecer de la vida)
+#* Hace 550 a 400 millones de años (58:7.1) (59:0.3)
+#Paleozoico (era de la vida marina)
+#* Hace 400 a 150 millones de años (59:0.4) (59:6.11)
+#* Cámbrico (edad de los trilobites)
+#** Hace 400 a 350 millones de años (59:1)
+#* Ordovícico (edad de los animales invertebrados)
+#** Hace 350 a 300 millones de años (59:2)
+#* Silúrico (edad de coral y braquiópodo)
+#** Hace 300 a 275 millones de años (59:3)
+#* Devónico (edad de la vida vegetal, peces)
+#** Hace 270 a 220 millones de años (59:4)
+#* Carbonífero (edad de los bosques de helechos, ranas)
+#** Hace 220 a 180 millones de años (59:5)
+#* Pérmico (edad semilla-planta; tribulación biológica)
+#** Hace 170 a 150 millones de años (59:6)
+# Mesozoico (era temprana de la vida terrestre)
+#* Hace 150 a 50 millones de años (59:0.5) (60:4.6)
+#* Triásico (edad reptiliana temprana)
+#** Hace 150 a 125 millones de años (60:1)
+#* Jurásico (era posterior a los reptiles)
+#** Hace 125 a 100 millones de años (60:2)
+#* Cretácico (edad de las plantas con flores, pájaros)
+#* Hace 100 a 50 millones de años (60:3-4)
+# Cenozoico (era de los mamíferos)
+#* Hace 50 millones de años hasta el presente (61:0)
+#* Eoceno (edad de los primeros mamíferos)
+#** Hace 50 a 35 millones de años (61:1)
+#* Oligoceno (edad avanzada de los mamíferos)
+#** Hace 35 a 25 millones de años (61:2)
+#* Mioceno (edad del elefante y el caballo)
+#** Hace 25 a 10 millones de años (61:3.15)
+#* Plioceno (etapa de migración de mamíferos)
+#** Hace 10 a 1 millón de años (61:4)
+#* Pleistoceno (edad de hielo)
+#** Hace 2 millones a 100.000 años (61:5-7)
+#* Holoceno (período posglacial)
+#** Hace 35.000 años hasta el presente (61:7.18)
 
 geología | | fósiles; edades geológicas; rocas y minerales | | 
 ciclo de millones de años de ascenso y caída de los continentes (60:4.1)
@@ -776,13 +776,13 @@ Dios el Padre | | Padre Universal | PERSON | OK
 
 Dios Séptuple; Deidad Séptuple; El Séptuple | (0:8) (56:5.3) (56:6.1) (116:2) | | PERSON | OK
 Dios Séptuple es la divinidad compuesta por (56:5.3) (116:2.4-11)
-	* Los Hijos Creadores y los Espíritus Maternos de los universos locales
-	* Los Ancianos de los Días
-	* Los Siete Espíritus Maestros
-	* Ser Supremo
-	* El Espíritu Infinito
-	* El Hijo Eterno
-	* El Padre Universal
+	# Los Hijos Creadores y los Espíritus Maternos de los universos locales
+	# Los Ancianos de los Días
+	# Los Siete Espíritus Maestros
+	# Ser Supremo
+	# El Espíritu Infinito
+	# El Hijo Eterno
+	# El Padre Universal
 Los Hijos Creadores son las focalizaciones finales del poder y de la personalidad de los poderosos atributos espacio-temporales de Dios Séptuple (33:1.3)
 Dios Séptuble es la personalidad de la Deidad funcionando en cualquier parte del espacio-tiempo (0:2.16)
 Los tres primeros niveles, los Espíritus Maternos, los Ancianos de los Días y los Espíritus Maestros, son conocidos como Creadores Supremos del tiempo y el espacio (31:9.14) (36:6.7) (56:6.1-2) (106:3.2) (106:5.2) (115:4.7) (116:2) (116:4.2) (117:1.2) (117:3.7) (118:0.9) (118:4.7)

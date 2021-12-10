@@ -95,10 +95,10 @@ are
 	personalizations of Eternal Son and Infinite Spirit (7:6.5) (20:1.11) (20:2.1) (20:10.3)
 bestowal missions | Paradise Sons of God: bestowals
 	accompanied on bestowals by
-		2 Brilliant Evening Stars (20:2.9) (37:2.8)
-		12 Melchizedeks (20:2.9) (35:2.6)
-		100 archangels (20:2.9) (37:3.5-6)
-		supreme seraphim (39:1.3-5)
+		* 2 Brilliant Evening Stars (20:2.9) (37:2.8)
+		* 12 Melchizedeks (20:2.9) (35:2.6)
+		* 100 archangels (20:2.9) (37:3.5-6)
+		* supreme seraphim (39:1.3-5)
 	7 creature bestowals is usually the limit (20:2.8)
 	appear as male adults (20:2.6) (20:4.1-2) (52:4.3)
 	are born of woman (20:2.3,7) (21:4.2)
@@ -114,10 +114,10 @@ in personality registers (30:1.32) (30:2.40)
 non-bestowal planetary missions
 	arrive when intellectual and ethical progress has reached limits of evolutionary development (49:5.25)
 	judicial actions (20:3)
-		accompany Trinity Teacher Sons to terminate dispensations (20:9.2) (55:0.2)
-		may close dispensations on same world hundreds of times (20:2.5) (20:3.1) (20:4.2) (55:10.5)
-		no incarnation if visit is solely to terminate dispensation (20:3.3)
-		the same or other Avonals may visit a planet (20:4.2)
+		* accompany Trinity Teacher Sons to terminate dispensations (20:9.2) (55:0.2)
+		* may close dispensations on same world hundreds of times (20:2.5) (20:3.1) (20:4.2) (55:10.5)
+		* no incarnation if visit is solely to terminate dispensation (20:3.3)
+		* the same or other Avonals may visit a planet (20:4.2)
 	world-wide peace indicates ripeness for (52:3.11-12)
 none have visited Urantia on magisterial missions (20:4.4-5)
 number about 1 billion; 1062 in Nebadon (20:2.2) (35:0.1)
@@ -687,20 +687,20 @@ supervise superuniverse energy before days of Universe Power Directors (15:4.2) 
 transcendental beings (30:1.97-98) (105:7.8)
 	types of Master Force Organizers
 	# Primary Eventuated (29:0.2)
-		bring energy to level of initial response to Paradise gravity (42:2.11)
-		inaugurated energy whirl of Andronover then withdrew at right angels (57:1)
-		modify absoluta into segregata by their passive presence (42:2.5-10)
-		nebulae creators (12:4.6) (15:4.4) (29:5.5) (41:1.1) (57:1)
-		transmute segregata into puissant energy (29:5.5)
+	#* bring energy to level of initial response to Paradise gravity (42:2.11)
+	#* inaugurated energy whirl of Andronover then withdrew at right angels (57:1)
+	#* modify absoluta into segregata by their passive presence (42:2.5-10)
+	#* nebulae creators (12:4.6) (15:4.4) (29:5.5) (41:1.1) (57:1)
+	#* transmute segregata into puissant energy (29:5.5)
 	# Associate Transcendental (29:0.3)
-		comprise Council of Equilibrium (29:4.2)
-		leave local universe when Creator Son arrives (29:5.6)
-		make force-charge of space gravity responsive (11:8.6) (15:4.2-4) (56:9.12)
-		metamorphose cosmic force in outer space (12:2.4)
-		retire upon appearance of linear gravity response in favor of Universe Power Directors (42:2.12)
-		take over from Primary Eventuated Master Force Organizers when energy begins to respond to Paradise gravity (42:2.11)
-		transmute puissant energy into ultimatons and back to puissant energy (42:6.3)
-		transmute puissant energy to gravity-energy (29:5.5) (42:2.12)
+	#* comprise Council of Equilibrium (29:4.2)
+	#* leave local universe when Creator Son arrives (29:5.6)
+	#* make force-charge of space gravity responsive (11:8.6) (15:4.2-4) (56:9.12)
+	#* metamorphose cosmic force in outer space (12:2.4)
+	#* retire upon appearance of linear gravity response in favor of Universe Power Directors (42:2.12)
+	#* take over from Primary Eventuated Master Force Organizers when energy begins to respond to Paradise gravity (42:2.11)
+	#* transmute puissant energy into ultimatons and back to puissant energy (42:6.3)
+	#* transmute puissant energy to gravity-energy (29:5.5) (42:2.12)
 withstand unbelievable temperatures and conditions (29:5.7)
 
 master frandalanks | | frandalanks | ORDER | 
@@ -2920,14 +2920,14 @@ after death
 	denominated “faith sons” prior to fusion (40:6.1) (40:7.2)
 	do not return to planet of nativity in same dispensation (39:4.15) (112:3.7) (146:7.2) (150:3.5)
 	stages of existence (30:4) (31:3.4)
-		1. planetary mortals | mortals
-		2. sleeping survivors q.v.
-		3. mansion world students q.v.
-		4. morontia progressors q.v.
-		5. superuniverse wards q.v.
-		6. Havona pilgrims q.v.
-		7. Paradise arrivals q.v.
-		8. finaliters q.v.
+		# planetary mortals | mortals
+		# sleeping survivors q.v.
+		# mansion world students q.v.
+		# morontia progressors q.v.
+		# superuniverse wards q.v.
+		# Havona pilgrims q.v.
+		# Paradise arrivals q.v.
+		# finaliters q.v.
 	summary of ascension career (43:8.4) (48:8.4) (113:7.4-8)
 	survival (112:5)
 	those with personal guardians may be repersonalized independent of dispensational adjudications (49:6.8)

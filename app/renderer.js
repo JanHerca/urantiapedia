@@ -503,23 +503,14 @@ const handle_exeButtonClick = () => {
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'TEST') {
-		book.readFromJSON(jsonDir)
-			.then(() => topicindex.readFromTXT(txtDir, 'ALL'))
+		const htmlDir2 = path.join(htmlDir, 'test.html');
+		topicindex.readFromTXT(txtDir, 'ALL')
 			.then(() => {
-				const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
-				return (lan === 'en' ? Promise.resolve(null) : 
-					topicindexEN.readFromTXT(ti, 'ALL'));
-			})
-			.then(() => {
-				const i = 0;
-				const paper = book.papers.find(p => p.paper_index === i);
-				const bookNameEN = Strings['bookName'].en.replace(/\s/g, '_');
-				const paperAbbEN = Strings['bookPaperAbb'].en;
-				const stri = (i > 99 ? `${i}` : (i > 9 ? `0${i}` : `00${i}`));
-				const filePath = path.join(htmlDir,
-					`${bookNameEN}_${paperAbbEN}_${stri}.html`);
-				return book.writeFileToWikiHTML(filePath, paper, topicindex,
-					topicindexEN);
+				const topic = topicindex.topics.find(t => t.name === 'triune-origin beings');
+				return new Promise((resolve, reject) => {
+					topicindex.writeFileToWikiHTML(htmlDir2, topic, topic)
+						.then(resolve).catch(err => reject([err]));
+				});
 			})
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);

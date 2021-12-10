@@ -367,13 +367,13 @@ seen in visions by John, Paul (34:4.11) (47:10.2-3)
 system #24 of constellation Norlatiadek (15:14.6)
 transitional culture worlds
 	7 worlds 10 times size of Urantia which swing around J., each with 7 satellites, named (15:7.5) (45:0-1)
-		1. finaliters’ world q.v.
-		2. morontia world q.v.
-		3. angelic world q.v.
-		4. superangel world q.v.
-		5. world of the Sons (45:1.7)
-		6. world of the Spirit (45:1.8)
-		7. world of the Father q.v.
+		# finaliters’ world q.v.
+		# morontia world q.v.
+		# angelic world q.v.
+		# superangel world q.v.
+		# world of the Sons (45:1.7)
+		# world of the Spirit (45:1.8)
+		# world of the Father q.v.
 	mansion worlds swing around world #1 (15:7.5) (47:0.1-2)
 transportation system (46:2.4)
 universal suffrage; weighted by mota (45:7.6)

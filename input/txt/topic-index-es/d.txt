@@ -581,13 +581,13 @@ de los seguidores de Jesús después del episodio de hacer reyes (152:3)
 posibilidad de deserción brinda oportunidad de lealtad (3:5.12)
 
 Diseñadores y los Embellecedores; artesanos | | Artesanos Celestiales | ORDER | 
-1. Los artesanos de color (44:6.3)
-2. Los diseñadores de los sonido (44:6.4)
-3. Los diseñadores de las emociones (44:6.5)
-4. Los artistas del olor (44:6.6)
-5. Los embellecedores de las presencias (44:6.7)
-6. Los diseñadores del gusto (44:6.8)
-7. Los sintetizadores morontiales (44:6.9)
+# Los artesanos de color (44:6.3)
+# Los diseñadores de los sonido (44:6.4)
+# Los diseñadores de las emociones (44:6.5)
+# Los artistas del olor (44:6.6)
+# Los embellecedores de las presencias (44:6.7)
+# Los diseñadores del gusto (44:6.8)
+# Los sintetizadores morontiales (44:6.9)
 
 deseo de todas las edades | | | | 
 Jesús es (182:1.13)
@@ -1344,31 +1344,31 @@ seres de origen directo o indirecto en dos de las Deidades del Paraíso (30:1.29
 La creación de Servitales de Havona es un patrón para (25:1.2)
 en la clasificación del Paraíso (30:1.29-54)
 pedidos
-	A. Las Órdenes Descendentes
-		1. Los Hijos Creadores
-		2. Los Hijos Magistrales
-		3. Las Radiantes Estrellas Matutinas
-		4. Los Padres Melquisedeks
-		5. Los Melquisedeks
-		6. Los Vorondadeks
-		7. Los Lanonandeks
-		8. Las Brillantes Estrellas Vespertinas
-		9. Los Arcángeles
-		10. Los Portadores de Vida
-		11. Los Ayudantes Universales No Revelados (30:1.41)
-		12. Los Hijos de Dios No Revelados (30:1.42)
-	B. Las Órdenes Estacionarias
-		1. Los Abandontarios
-		2. Los Susatias
-		3. Los Univitatia
-		4. Los Espirongas
-		5. Los Seres de Origen Doble No Revelados (30:1.48)
-	C. Las Órdenes Ascendentes
-		1. Los Mortales Fusionados con el Ajustador
-		2. Los Mortales fusionados con el Hijo
-		3. Los Mortales fusionados con el Espíritu
-		4. Los Intermedios Trasladados | intermedios
-		5. Los Ascendentes No Revelados (30:1.54)
+	* A. Las Órdenes Descendentes
+	*# Los Hijos Creadores
+	*# Los Hijos Magistrales
+	*# Las Radiantes Estrellas Matutinas
+	*# Los Padres Melquisedeks
+	*# Los Melquisedeks
+	*# Los Vorondadeks
+	*# Los Lanonandeks
+	*# Las Brillantes Estrellas Vespertinas
+	*# Los Arcángeles
+	*# Los Portadores de Vida
+	*# Los Ayudantes Universales No Revelados (30:1.41)
+	*# Los Hijos de Dios No Revelados (30:1.42)
+	* B. Las Órdenes Estacionarias
+	*# Los Abandontarios
+	*# Los Susatias
+	*# Los Univitatia
+	*# Los Espirongas
+	*# Los Seres de Origen Doble No Revelados (30:1.48)
+	* C. Las Órdenes Ascendentes
+	*# Los Mortales Fusionados con el Ajustador
+	*# Los Mortales fusionados con el Hijo
+	*# Los Mortales fusionados con el Espíritu
+	*# Los Intermedios Trasladados | intermedios
+	*# Los Ascendentes No Revelados (30:1.54)
 
 espiritismo dual | | | | 
 2 tipos de fantasmas (87:4.3-7)

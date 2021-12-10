@@ -581,13 +581,13 @@ of Jesus’ followers after King-making episode (152:3)
 possibility of desertion provides opportunity for loyalty (3:5.12)
 
 designers and embellishers | | celestial artisans | ORDER | 
-1. craftworkers of color (44:6.3)
-2. sound designers (44:6.4)
-3. emotion designers (44:6.5)
-4. artists of color (44:6.6)
-5. presence embellishers (44:6.7)
-6. taste designers (44:6.8)
-7. morontia synthesizers (44:6.9)
+# craftworkers of color (44:6.3)
+# sound designers (44:6.4)
+# emotion designers (44:6.5)
+# artists of color (44:6.6)
+# presence embellishers (44:6.7)
+# taste designers (44:6.8)
+# morontia synthesizers (44:6.9)
 
 desire of all ages | | | | 
 Jesus is (182:1.13)
@@ -1344,31 +1344,31 @@ beings of direct or indirect origin in any two of the Paradise Deities (30:1.29)
 creation of Havona Servitals is pattern for (25:1.2)
 in Paradise classification (30:1.29-54)
 orders
-	A. descending orders
-		1. Creator Sons q.v.
-		2. Magisterial Sons q.v.
-		3. Bright and Morning Stars q.v.
-		4. Father Melchizedeks q.v.
-		5. Melchizedek Sons q.v.
-		6. Vorondadek Sons q.v.
-		7. Lanonandek Sons q.v.
-		8. Brilliant Evening Stars q.v.
-		9. Archangels q.v.
-		10. Life Carriers q.v.
-		11. Unrevealed Universe Aids (30:1.41)
-		12. Unrevealed Sons of God (30:1.42)
-	B. stationary orders
-		1. abandonters q.v.
-		2. susatia q.v.
-		3. univitatia q.v.
-		4. spironga q.v.
-		5. unrevealed (30:1.48)
-	C. ascending orders
-		1. ascending mortals q.v.
-		2. Son-fused mortals q.v.
-		3. Spirit-fused mortals q.v.
-		4. translated midwayers | midwayers
-		5. unrevealed ascenders (30:1.54)
+	* A. descending orders
+	*# Creator Sons q.v.
+	*# Magisterial Sons q.v.
+	*# Bright and Morning Stars q.v.
+	*# Father Melchizedeks q.v.
+	*# Melchizedek Sons q.v.
+	*# Vorondadek Sons q.v.
+	*# Lanonandek Sons q.v.
+	*# Brilliant Evening Stars q.v.
+	*# Archangels q.v.
+	*# Life Carriers q.v.
+	*# Unrevealed Universe Aids (30:1.41)
+	*# Unrevealed Sons of God (30:1.42)
+	* B. stationary orders
+	*# abandonters q.v.
+	*# susatia q.v.
+	*# univitatia q.v.
+	*# spironga q.v.
+	*# unrevealed (30:1.48)
+	* C. ascending orders
+	*# ascending mortals q.v.
+	*# Son-fused mortals q.v.
+	*# Spirit-fused mortals q.v.
+	*# translated midwayers | midwayers
+	*# unrevealed ascenders (30:1.54)
 
 dual spiritism | | | | 
 2 kinds of ghosts (87:4.3-7)

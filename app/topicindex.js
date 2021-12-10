@@ -618,10 +618,11 @@ class TopicIndex {
 			const seeAlsoErr = [];
 			const seeAlsoObjs = this.sortUniqueSeeAlsoWikiHTML(topic, topicEN, 
 				seeAlsoErr);
-			if (seeAlsoErr.length > 0) {
-				reject(new Error(seeAlsoErr.map(e => e.message).join(', ')));
-				return;
-			}
+			//TODO: Uncomment for get errors
+			// if (seeAlsoErr.length > 0) {
+			// 	reject(new Error(seeAlsoErr.map(e => e.message).join(', ')));
+			// 	return;
+			// }
 
 
 			//Resolve redirects
@@ -634,35 +635,49 @@ class TopicIndex {
 
 			//Add line content with headings and references
 			topic.lines.forEach((line, i, lines) => {
+				const content = line.text;
 				const prevline = lines[i - 1];
 				const nextline = lines[i + 1];
 				const nextline2 = lines[i + 2];
-				let content = line.text;
-				content = content.substring(0, 1).toUpperCase() + 
-					content.substring(1);
+				const marks = content.match(/^[#|\*]*/g)[0];
+				const prevMarks = (prevline ? 
+					prevline.text.match(/^[#|\*]*/g)[0] : "");
+				const nextMarks = (nextline ?
+					nextline.text.match(/^[#|\*]*/g)[0] : "");
+				
+				let subcontent = content.replace(/^[#|\*]*/g,'').trim();
+				subcontent = subcontent.substring(0, 1).toUpperCase() + 
+						subcontent.substring(1);
 				
 				if (nextline && line.level < nextline.level) {
 					const h = `h${line.level + 2}`;
-					html += `<${h}> ${content} </${h}>\r\n`;
+					html += `<${h}> ${subcontent} </${h}>\r\n`;
 					writeRefs(line.refs);
 				} else {
-					const subcontent = content.replace(/^[#\*]*/g,'').trim();
-					const isub = content.indexOf(subcontent);
-					if (content.startsWith('#') || content.startsWith('*')) {
-						content = content.substring(0, isub) + 
-							content.substring(isub, isub+1).toUpperCase() + 
-							content.substring(isub+1);
+					if (marks.length === 0 && !subcontent.endsWith('.')) {
+						subcontent += '.';
 					}
-
-					if (!content.startsWith('#') && !content.endsWith('.')) {
-						content += '.';
-					}
-					if (i === 0 || (prevline && line.level != prevline.level)) {
+					if (marks.length > 0) {
+						if (prevMarks.length < marks.length) {
+							//Add start of list
+							html += (marks[marks.length - 1] === '#' ? '<ol>': 
+								'<ul>') + '\r\n';
+						}
+					} else if (i === 0 || (prevline && line.level != prevline.level)) {
+						//Add start of paragraph
 						html += '<p>';
 					}
-					//TODO: links to other topics inside content
-					html += content + ' ';
 
+					//TODO: add links to other topics inside content
+
+					//Add start list item
+					html += (marks.length > 0 ? '<li>' : '');
+					//Add subcontent
+					html += subcontent + ' ';
+					html += (marks.length > 0 &&
+						marks.length < nextMarks.length ? '\r\n' : '');
+
+					//Add refs
 					if (line.refs && line.refs.length > 0) {
 						const j = lineRefs.length + 1;
 						lineRefs.push(
@@ -673,20 +688,30 @@ class TopicIndex {
 							'</li>\r\n');
 						html += `<sup id="cite${j}">` +
 							`<a href="#fn${j}">[${j}]</a>` +
-							`</sup>`;
+							`</sup> `;
 					}
 
-					//TODO: Lists
-					// if (content.startsWith('#') || content.startsWith('*')) {
-					// 	html += '\r\n';
-					// }
-					if (i === lines.length - 1 || 
+					if (marks.length > 0) {
+						if (marks.length === nextMarks.length) {
+							//Add end list item
+							html += '</li>\r\n';
+						} else if (marks.length > nextMarks.length) {
+							//Add end list item
+							html += '</li>\r\n';
+							//Add end of list
+							for (let n = 1; n <= marks.length - nextMarks.length; n++) {
+								html += (marks[marks.length - n] === '#' ? '</ol>': 
+									'</ul>') + '\r\n';
+								html += (marks.length - n > 0 ? '</li>\r\n' : '');
+							}
+						}
+					} else if (i === lines.length - 1 || 
 						(nextline && line.level != nextline.level) ||
 						(nextline2 && nextline.level < nextline2.level)) {
+						//Add end of paragraph
 						html += '</p>\r\n';
 					}
 				}
-				
 			});
 
 			//Add Links

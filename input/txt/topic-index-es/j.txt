@@ -367,13 +367,13 @@ visto en visiones por Juan, Pablo (34:4.11) (47:10.2-3)
 sistema número 24 de la constelación Norlatiadek (15:14.6)
 mundos culturales de transición
 	7 mundos 10 veces el tamaño de Urantia que giran alrededor de Jerusem, cada uno con 7 satélites, llamado (15:7.5) (45:1.1)
-		1. El mundo de los finalitarios
-		2. El mundo de la morontia
-		3. El mundo de los ángeles
-		4. El mundo de los superángeles
-		5. El mundo de los Hijos (45:1.7)
-		6. El mundo del Espíritu (45:1.8)
-		7. El mundo del Padre
+		# El mundo de los finalitarios
+		# El mundo de la morontia
+		# El mundo de los ángeles
+		# El mundo de los superángeles
+		# El mundo de los Hijos (45:1.7)
+		# El mundo del Espíritu (45:1.8)
+		# El mundo del Padre
 	los mundos de las mansiones giran alrededor del mundo número 1 (15:7.5) (47:0.1-2)
 sistema de transporte (46:2.4)
 sufragio universal; ponderado por mota (45:7.6)
