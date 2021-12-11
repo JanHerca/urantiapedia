@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     K
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     K
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 ka and ba | | | | 
 Egyptian and African teaching of spirit and soul (111:0.4-6)
@@ -29,10 +30,10 @@ Andite settlements in (79:7.1)
 Karahta | (134:7.5) | | PLACE | 
 Jesus passed
 
-Karbar | | | PLACE | 
+Karbar; Karkar | | | PLACE | 
 Ahab resisted Shalmaneser at (97:9.18)
 
-karma | | justice: divine justice; reincarnation | | 
+karma | | justice:divine justice; reincarnation | | 
 every act shall receive its reward (131:3.5)
 men reap what they sow (2:3.2) (131:2.8-9) (131:9.4) (148:6.3) (192:2.8)
 principle close to truth of Supreme (94:3.5)
@@ -75,7 +76,7 @@ authority over things temporal given to apostles and successors (140:2.2-3) (157
 sincerity, more sincerity, and more sincerity (39:4.14)
 
 Kheresa | (138:1.1) (151:5-6) (154:7.3) (155:0.1) (156:6.4) | | PLACE | 
-Alpheus twins from (138:2.6-7) (138:4.1) (139:9.1)
+Alpheus twins from (138:2.6-7) (138:4.1) (139:10.1)
 lunatic | Amos (Kheresa lunatic)
 
 Kidron | (176:0.2) (178:3.1) (182:0.1) (182:2.10) | | PLACE | 
@@ -101,7 +102,7 @@ believers | faith sons of God
 divided against itself cannot stand (153:4.3)
 of God | kingdom of heaven
 
-kingdom of heaven | (170) (137:8) | faith sons of God; gospel; Jesus: teachings; religion; salvation; sonship with God; spiritual rebirth | | 
+kingdom of heaven | (170) (137:8) | faith sons of God; gospel; Jesus:teachings; religion; salvation; sonship with God; spiritual rebirth | | 
 apostles
 	desire for preference in (138:7.1) (158:4.4) (158:6.2-3) (158:8.1) (179:1.6)
 	given authority over things temporal in (140:2.2,3) (157:4.5,6)
@@ -180,7 +181,7 @@ entrance
 	truth hunger essential to (170:2.18)
 	whatever thing or person that comes between oneself and kingdom must be surrendered (163:3.3)
 	worth whatever it costs (137:8.14)
-establishment | gospel: proclaiming
+establishment | gospel:proclaiming
 	by natural, ordinary, difficult, and trying methods (136:8.6)
 	call to building kingdom should thrill all believers (195:10.6)
 	carry on work of kingdom regardless of consequences (154:5.2)
@@ -226,7 +227,7 @@ restrained by ever-present fear of assassination (70:6.6)
 war has always been a kingmaker (70:5.5)
 worshiped by primitives (85:6.2)
 
-Kirmeth of Bagdad | | | PERSON | 
+Kirmeth of Bagdad; Kirmeth | | | PERSON | 
 trance prophet from Bagdad, self-deceived pretender (148:8.3)
 
 Kish | | | PLACE | 
@@ -244,7 +245,7 @@ continuation of primitive ritual (87:6.17)
 knotted cords | | | | 
 Jesus denounced belief in (150:3.12)
 
-knowledge | | adjutant mind-spirits: #4–knowledge; education; facts; ignorance; science, philosophy, and religion | | 
+knowledge | | adjutant mind-spirits:4 – Knowledge; education; facts; ignorance; science, philosophy, and religion | | 
 a little knowledge is dangerous, disconcerting (2:7.4) (131:8.4) (195:6.3)
 cumulative, because knowledge can be communicated to succeeding generations (160:2.3)
 cumulative, because knowledge enables man to stand on shoulders of those preceding him (81:6.23)

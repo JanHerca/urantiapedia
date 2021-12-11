@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     H
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     H
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 habits | | | | 
 favoring religious growth (100:1.8)
@@ -181,7 +182,6 @@ absence of ideals of national leaders explains (111:4.10)
 believers’ reaction to hatred
 	enmity of the world (180:3)
 	give authorities no occasion for offense (157:1.2)
-	believers’ reaction to hatred (continued)
 	hatred by men for Jesus’ sake (176:1.1)
 	Spirit of Truth endows with power to overcome (194:3.12)
 	vanquish by benevolence, love (131:4.6) (194:3.11-12)
@@ -347,7 +347,7 @@ supreme goal is to enter finaliter corps (19:6.3) (31:1)
 trinitization by (22:7.9-13) (30:2.35)
 unrevealed future destiny (19:6.3-4)
 
-Havona pilgrims | | ascending mortals | ORDER | 
+Havona pilgrims; Havona Pilgrims | | ascending mortals | ORDER | 
 achievement is final test for (26:5.5)
 arrive with only perfection of purpose (26:4.12-15)
 ascendant mortals’ personal education begins as (30:4.26-30)
@@ -498,7 +498,7 @@ spoken by priests and rabbis in times of Jesus (121:6.2)
 
 Hebrews | | Jews (ancient Hebrews); Judaism | RACE | 
 
-Hebrews, Book of | | | | 
+Hebrews, Book of; Book of Hebrews | | | | 
 author understood mission of Melchizedek (93:9.11)
 portrays religious life of Jesus (196:2.1)
 
@@ -596,7 +596,7 @@ position
 residences
 	rebuilt Sepphoris and cities of Galilee (121:2.11) (185:4.1)
 	at Julias, Machaerus, Sepphoris, Tiberias (135:12.1-2) (150:3.1)
-	Jerusalem home was Asmonean (Maccabean) palace (125:1.5) (128:3.5) (185:4.1)
+	Jerusalem home was Asmonean or Maccabean palace (125:1.5) (128:3.5) (185:4.1)
 regarding John the Baptist
 	imprisoned, beheaded John (135:10.2-3) (135:12.7) (144:0.2) (144:9.1) (175:1.4)
 	talked with John about kingdom of heaven (135:12.3)
@@ -616,7 +616,7 @@ regarding Jesus
 	Jesus refused to speak to; would not work for (128:2.6) (185:4) (186:2.2)
 > https://en.wikipedia.org/wiki/Herod_Antipas
 
-Herod Archelaus | | | PERSON | OK
+Herod Archelaus; Archelaus | | | PERSON | OK
 deposed by A.D. 7 (124:6.2)
 Joseph feared Herod Archelaus would pursue policies of his father (123:0.5)
 palace in Jericho (171:8.2)
@@ -747,7 +747,7 @@ religion of metaphysics (5:4.7)
 
 Hindus | | Hinduism; India | RACE | 
 
-Hinnom, valley of | | | PLACE | 
+Hinnom, valley of; valley of Hinnom | | | PLACE | 
 Judas hanged himself in (186:1.7)
 
 hippopotamuses | (61:2.9) | | | 

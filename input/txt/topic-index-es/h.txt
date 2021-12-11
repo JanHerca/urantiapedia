@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     H
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     H
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 hábitos | | | | 
 favorecer el crecimiento religioso (100:1.8)
@@ -181,7 +182,6 @@ explica la ausencia de ideales de los líderes nacionales (111:4.10)
 la reacción de los creyentes al odio
 	enemistad del mundo (180:3)
 	no dar a las autoridades ocasión para ofender (157:1.2)
-	la reacción de los creyentes al odio (continuación)
 	el odio por los hombres por amor a Jesús (176:1.1)
 	El Espíritu de la Verdad otorga poder para vencer (194:3.12)
 	vencer por la benevolencia, el amor (131:4.6) (194:3.11-12)
@@ -825,7 +825,7 @@ naturaleza del Espíritu Santo
 	no habita en las mentes individuales como una entidad aislada (34:5.6)
 	El Espíritu Santo es cada vez más eficaz cuando los mortales obedecen la guía divina (34:5.5)
 	Es la donación supermental inicial; se otorga universalmente (92:0.4) (103:0.1)
-	Este Espíritu permite a su poseedor ser capaz de elegir (conscientemente o no) la presencia del Ajustador (34:5.4) (108:2.2)
+	Este Espíritu permite a su poseedor ser capaz de elegir, conscientemente o no, la presencia del Ajustador (34:5.4) (108:2.2)
 	su ministerio es más eficaz en las etapas de luz y vida; en la cuarta etapa los mortales avanzados logran un contacto consciente con el Espíritu Santo (55:6.4)
 ceremonias asociadas
 	Juan Bautista predicó un bautismo con agua, pero Jesús anunció un bautismo con el Espíritu Santo (137:8.10)

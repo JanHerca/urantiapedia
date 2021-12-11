@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     B
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     B
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 ba and ka | | | | 
 Egyptian and African teaching of soul and spirit (111:0.4-6)
@@ -33,7 +34,7 @@ political party returned to power in Jerusalem (97:9.24)
 Babel | | | PLACE | 
 city also known as Bablod, Bablot (77:3.3,6)
 tower of Babel (77:3)
-	1st tower built 50,000 years after death of Nod (i.e., about 150,000 years ago) (77:3.1)
+	1st tower built 50,000 years after death of Nod, i.e., about 150,000 years ago (77:3.1)
 	2nd attempt to rebuild by Andites failed (77:3.9)
 	3rd effort to build by Andites (78:8.4)
 	memorial to Nodite racial greatness; contentions (77:3)
@@ -162,7 +163,7 @@ banshees | | | |
 evolving monotheists keep subordinate gods as (96:1.14)
 
 baptism | | | | 
-baptism of Jesus | Jesus: events in life
+baptism of Jesus | Jesus:events in life
 baptism of the spirit | spiritual rebirth
 evolution of ceremony (87:6.12)
 in early Christian church (194:4.9)
@@ -372,7 +373,7 @@ Jesus’ benediction to apostles (193:5.2)
 Bengal | | | PLACE | 
 worship of meteor which fell in A.D. 1880 (85:1.2)
 
-Berbers | | white race: divisions:southern | RACE | 
+Berbers | | white race:divisions | RACE | 
 blue race admixed with Saharans (80:9.11)
 
 Bering Strait land bridge | | | PLACE | 
@@ -440,7 +441,7 @@ Mary wanted Jesus to grow up in (123:0.5)
 Bethlehem (Galilee) | (138:9.3) | | PLACE | 
 Joseph father of Jesus worked at (123:3.8)
 
-Bethphage | | | PLACE | 
+Bethphage; Bethpage | | | PLACE | 
 hamlet short distance northwest of Bethany (168:3.7) (172:3.6)
 Jesus’ Palm Sunday donkey from (172:3.6)
 
@@ -485,7 +486,7 @@ Jesus denounced belief in (150:3.12)
 
 Bible | | New Testament; Old Testament; sacred books | | 
 
-bigamy | | marriage: among primitives | | 
+bigamy | | marriage:among primitives | | 
 
 Bildad | | | PERSON | OK
 offered Job depressing counsel (148:6.5,9)
@@ -507,7 +508,7 @@ primitives believed birds to be source of wind (85:3.4)
 types named | bats; buzzards; carrier pigeons; doves; ducks; eagles; falcons; flamingoes; gulls; herons; ostriches; owls; parrots; passenger birds; pigeons; poultry; ravens; sparrows
 used for transport on Jerusem (46:2.4)
 
-birthday text | | Jesus: birthday text from Isaiah | | 
+birthday text | | Jesus:birthday text from Isaiah | | 
 
 birthmarks | | | | 
 believed caused by evil eye (87:5.5)
@@ -517,7 +518,7 @@ bison | (61:3.5) (61:5.7) (61:7.13-14) (69:7.2) | | |
 Bithynia | | | PLACE | 
 Matthew preached in (139:7.10)
 
-Black Forest mountains | (59:5.12) | | PLACE | 
+Black Forest mountains; Black Forest | (59:5.12) | | PLACE | 
 
 Black Friday | | | | 
 commemorated self-inflicted death of Attis (98:4.7)
@@ -646,7 +647,7 @@ Peter’s night vision on Sea of Galilee (152:4)
 sea commerce active in 2500 B.C. (80:9.9)
 sea traffic between Indian and Mesopotamia (79:3.2)
 
-body, human | | blood; brains; eugenics; eyes; flesh; genetics; mortals; personality: forms; skeletal structures | | 
+body, human | | blood; brains; eugenics; eyes; flesh; genetics; mortals; personality:forms; skeletal structures | | 
 after death, body is discarded outer covering (30:4.15)(39:2.13)(189:1.2)
 bodies created for the Caligastia 100 (66:2.7-8)
 cannot be carried by seraphic transport (39:2.13)
@@ -676,12 +677,12 @@ of dead believed very magical (88:5.2)
 Primates made spicules of (63:1.2)
 primitives revered leaders’ (88:2.1)
 
-Books | | | | 
+Books; books | | | | 
 Acts | Acts, Book of
 Dead | Dead, Book of the
 Deuteronomy | Deuteronomy
 Ecclesiastes. q.v.
-Enoch | Enoch: Book of
+Enoch | Enoch:Book of
 Genesis | Genesis, Book of
 Hebrews | Hebrews, Book of
 Isaiah | Isaiah (first); Isaiah (second)
@@ -762,7 +763,7 @@ brains | | | |
 Adjusters
 	not organic part of human brain (110:1.1)
 	released if human brain irreparably destroyed (112:3.3)
-brainedness | mortals: planetary types
+brainedness | mortals:planetary types
 	1-, 2-, and 3-brained mortals (49:5.13-18) (109:3.5-6)
 	Adjusters gain better contact with 3-brained mortals (109:3.5)
 	differences eliminated on mansion worlds (40:5.17)
@@ -1059,7 +1060,7 @@ became reflective devotee of leisure (69:2.5)
 Jesus’ talk with Gonod regarding (132:7.3-5)
 return of Buddha looked for in Tibet, China, and India (92:5.6)
 
-Buddha, Sakyamuni | | Buddha; Buddhism | PERSON | OK
+Buddha, Sakyamuni; Sakyamuni Buddha | | Buddha; Buddhism | PERSON | OK
 Gautama’s followers called him (94:8.2)
 
 Buddhism | (94:8) | Buddha; Gautama Siddhartha | RELIGION | 

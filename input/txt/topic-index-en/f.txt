@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     F
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     F
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 fables | | | | 
 do not employ fables in proclaiming gospel (151:2.5) (151:3.3)
@@ -201,7 +202,7 @@ warnings regarding faith
 	what faith isn’t (196:0.3-4)
 	works of faith come not forth from unbelief (158:5.2)
 
-faith sons of God | | apostleship; disciples; fellowship of believers; government: believers’ relation to; kingdom of heaven; sonship with God | | 
+faith sons of God | | apostleship; disciples; fellowship of believers; government:believers’ relation to; kingdom of heaven; sonship with God | | 
 certain reply to unbelievers (102:6.5)
 characteristics
 	believe in God of love who fosters survival (5:5.3)
@@ -491,7 +492,7 @@ not like judges, enemies, or creditors (142:7.11)
 Father’s business | | | | 
 time for Jesus to be about (124:6.15) (126:3.5) (135:8.3)
 
-Father’s house | | temples | PLACE | 
+Father’s house | | temple | PLACE | 
 Jerusalem temple (125:1.1) (125:6.7) (171:4.7)
 Paradise (11:3.3)
 universe (181:1.2)
@@ -708,7 +709,7 @@ service
 Tabamantia is a veteran (49:5.12)
 temple of finaliters invisible to material, early morontia vision (47:1.2-3)
 
-finaliters’ world | | Jerusem: transitional culture worlds; mansion worlds | PLACE | 
+finaliters’ world | | Jerusem:transitional culture worlds; mansion worlds | PLACE | 
 7 mansion worlds surround (45:1.2)
 accessible to inhabitants of all mansion worlds (45:1.2)
 half of planet is probationary nursery (45:6.6-9) (47:2.1)
@@ -727,9 +728,9 @@ fingers | | | |
 crossing fingers is continuation of primitive ritual (87:6.17)
 pointing fingers was dangerous practice among ancients (90:3.7)
 
-finite reality | | reality: levels of reality: finite reality | | 
+finite reality | | reality:levels of reality | | 
 
-finites | | reality: levels of reality: finite reality | | 
+finites | | reality:levels of reality | | 
 
 Finns | | | RACE | 
 believed trees occupied by kind spirits (85:2.4)
@@ -779,7 +780,7 @@ altered by disciple of Paul (139:2.12)
 
 first experiential Trinity | | Trinity Ultimate | PERSON | OK
 
-first mansion world | | mansion worlds: 1st | PLACE | 
+first mansion world | | mansion worlds:1st | PLACE | 
 
 First Person of Deity | | Universal Father | PERSON | OK
 
@@ -805,9 +806,9 @@ blue men fenced rivers, dried surplus catch (68:5.5)
 Jesus’ uncle in Magdala was (123:6.1) (124:3.1)
 Jesus was expert (124:1.2) (124:2.7) (138:7.6) (192:1.7)
 Jude ran away to become (128:7.8)
-apostles were (138:7.5) (139:1.1) (139:3.1) (139:9.2) (192:1)
+apostles were (138:7.5) (139:1.1) (139:3.1) (139:10.2) (192:1)
 
-flags | | concentric circles, three; Lucifer: emblem of | | 
+flags | | concentric circles, three; Lucifer:emblem of | | 
 evolution of totems (88:3.2-4)
 
 flamingoes | (61:2.12) | | | 
@@ -842,7 +843,7 @@ inherent nature derived from animal-origin races (34:7.1)
 is of little profit (153:5.4)
 Jesus’ faith destroyed every conflicting desire (196:0.5)
 put not trust in uncertainties of (171:4.2) (174:0.2)
-urges | sex: urge
+urges | sex:urge
 	fickleness of sex urge (160:2.10)
 	greatest passions are lust, anger, pride, deceit, greed (131:4.7) (131:6.2)
 	inherited urges cannot be altogether modified (140:4.8)
@@ -909,7 +910,7 @@ primitive food gathering lines (68:5.3)
 primitive man carnivorous (52:3.8-9)
 primitives offered food to ghosts, gods (87:2.9) (89:5.2)
 Prince’s staff taught food preservation (66:5.2-3)
-spiritual food | bread: bread of life
+spiritual food | bread:bread of life
 	Jesus’ meat is to do will of God (143:6.1)
 	serve spiritual food in attractive form (133:4.2)
 
@@ -996,7 +997,7 @@ Zebedee sons apologized to apostles; were restored (171:0.6)
 Formosa | | | PLACE | 
 Andite migration to (78:5.6)
 
-forms | | personality: personality forms | | 
+forms | | personality:personality forms | | 
 valueless, when lessons are learned (48:6.32)
 
 Fortant | | | PERSON | OK
@@ -1028,7 +1029,7 @@ near pool of Siloam in Jerusalem (162:4.4)
 
 four and twenty counselors | (45:4) (114:2) | | PERSON | OK
 advisory supervisors of rebellion-isolated worlds (114:2.4-5)
-all were real leaders on Urantia; all Jerusem citizens (except Machiventa) (50:2.2) (114:2.1)
+all were real leaders on Urantia; all Jerusem citizens, except Machiventa (50:2.2) (114:2.1)
 also known as Urantia advisory council (45:4.1) (76:6.3)
 approve morontia progressors’ plans for future course (48:6.5)
 Assigned Sentinels are ex officio heads of (24:5.3)
@@ -1061,7 +1062,7 @@ members (45:4)
 	# Machiventa Melchizedek (45:4.16) (93:10.5,9)
 	# John the Baptist q.v.
 	# 1-2-3 the First (45:4.18) (77:9.5)
-	# to 24. seats are only temporarily filled (45:4.20-21) exempt from ascension regime (45:4.19)
+	# to 24. Seats are only temporarily filled. Exempt from ascension regime (45:4.19) (45:4.20-21)
 
 four noble truths | | | | 
 doctrine of suffering; original gospel of Gautama (94:8.3-7)
@@ -1173,7 +1174,7 @@ that creature can do wrong establishes fact of free will (54:4.3)
 friction shields | | | | 
 energy insulators on transport seraphim (39:5.12-14)
 
-Fridays | | | | 
+Fridays; Friday | | | | 
 regarded as unlucky (88:1.6)
 
 friends of the court | | | | 

@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     B
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     B
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 ba y ka | | | | 
 Enseñanza egipcia y africana del alma y el espíritu (111:0.4-6)
@@ -372,7 +373,7 @@ La bendición de Jesús a los apóstoles (193:5.2)
 Bengala | | | PLACE | 
 adoración del meteoro que cayó en 1880 d.C. (85:1.2)
 
-bereberes | | raza blanca:divisiones:sur | RACE | 
+bereberes | | raza blanca:divisiones | RACE | 
 raza azul mezclada con saharauis (80:9.11)
 
 puente terrestre de Bering | | | PLACE | 

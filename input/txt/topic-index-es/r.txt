@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     R
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     R
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 rabinos | | judaísmo | | 
 deseando ser llamado rabino (175:1.9)
@@ -81,7 +82,7 @@ Las salas de resurrección tienen un ala separada para cada raza (47:3.5)
 segregación favorecida por muchos idiomas (52:2.5)
 rara vez avanzado en los trópicos (81:6.7)
 Semitas entre los más mezclados (96:2.1)
-espiritualmente iguales ante Dios (64:6.27) (134:4.7) | Dios:la naturaleza de Dios:no hace acepción de personas
+espiritualmente iguales ante Dios (64:6.27) (134:4.7) | Dios:la naturaleza de Dios
 razas superiores buscaba climas templados o del norte (64:7.13)
 probado por las dificultades de la edad glacial (64:7.1)
 tipos | adamitas; andonitas; raza azul; hombres cobrizos; raza verde; raza índiga; noditas; raza naranja; raza roja; sangiks; raza blanca; raza amarilla
@@ -402,7 +403,7 @@ arte en el ensamblaje inteligente de datos relacionados (48:6.30)
 grabación celestial a una velocidad de 500.000 palabras por minuto (44:4.4)
 registros celestes sujetos a inspección dual (25:6.3)
 esencial para la conducción de universos (28:4.1)
-registros formales (muertos) enviados por registradores angelicales (17:3.6) (28:6.6)
+registros formales, muertos, enviados por registradores angelicales (17:3.6) (28:6.6)
 la historia comienza con la creación de Havona (8:1.9)
 registros de vida humana
 	guardado por un par de Querubines (113:2.9)
@@ -414,7 +415,7 @@ abierto a consulta (25:6.2)
 Registros del Paraíso guardados desde la personificación del Espíritu Infinito, trinidización de los Ancianos de los Días (18:3.4) (25:6.6)
 los ángeles registradores planetarios son la fuente de todo (25:5.2)
 conservado por triplicado en la sala de archivos de Jerusem (46:5.22)
-Registros espirituales (en vivo) reunidos por reflectividad y conservados en la mente (17:3.5-6)
+Registros espirituales, en vivo, reunidos por reflectividad y conservados en la mente (17:3.5-6)
 sistema seráfico triple (39:4.16)
 
 recreación | | placeres; relajación; Directores de la reversión | | 
@@ -802,8 +803,8 @@ historia de la religión
 			* Siddharta Gautama o Buda (94:7) (121:6.4)
 			* Oseas (97:4.5-6)
 			* Akenatón (95:3.5)
-			* Isaías (primero) (97:5)
-			* Isaías (segundo) (97:7)
+			* Isaías el primero (97:5)
+			* Isaías el segundo (97:7)
 			* Jeremías (97:6)
 			* Jesús (120-196)
 			* Juan el Bautista (136:0.1) (144:8.4)
@@ -1166,7 +1167,7 @@ los seres espirituales superiores no menosprecian a los inferiores (25:1.1)
 Jesús desaprobó las demostraciones externas de (157:4.3)
 Jesús tenía un profundo respeto por cada persona que conoció (138:8.9)
 
-respiración | | mortales:tipos planetarios:1. tipos atmosféricos | | 
+respiración | | mortales:tipos planetarios | | 
 los morontianos respiran una mezcla de 3 gases (43:1.3) (46:2.2-3)
 
 responsabilidad | | deber; confiar | | 

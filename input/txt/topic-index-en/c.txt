@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     C
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     C
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 Caesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | PLACE | 
 Herod the Idumean built (121:2.11)
@@ -16,7 +17,7 @@ Paul imprisoned at (130:2.5)
 Roman capital of Judea (130:2.1) (184:3.17)
 slaughter of 20,000 Jews at (130:2.5)
 
-Caesarea Philippi | (157) (134:8.1,10) (155:3) | | PLACE | 
+Caesarea Philippi; Caesarea-Philippi | (157) (134:8.1,10) (155:3) | | PLACE | 
 also known as Dan (134:7.5)
 capital of Tetrarch Philip’s domain (157:3.1)
 Celsus from (157:3.7) (157:4.1) (157:6.1) (158:6.1)
@@ -61,7 +62,7 @@ lived to enter promised land (166:3.2)
 Calebites | | | RACE | 
 non-Hebrew nomadic Palestinians; joined David (97:9.7)
 
-Caledonian mountains | (59:3.3) | | PLACE | 
+Caledonian mountains; Caledonian Mountains | (59:3.3) | | PLACE | 
 
 calendar | | | | 
 accurate Egyptian reform of calendar 7000 years ago (77:2.11-12)
@@ -148,7 +149,7 @@ parents of 50,000 primary midwayers; each couple produced 1000 (66:4.10) (77:1.2
 	# supreme court. Van led; members previously approved by Most Highs; all loyal (66:5.31) (67:2.2) (67:4.1)
 Andonite counterparts
 	56 loyal against rebellion; 44 rebelled (67:3.5) (77:2.7)
-	55 loyalists (all except Amadon) translated to Jerusem upon Melchizedek receivers’ arrival (67:4.5) (67:6.3)
+	55 loyalists, all except Amadon, translated to Jerusem upon Melchizedek receivers’ arrival (67:4.5) (67:6.3)
 	had complement of system circuits introduced into bodies; used tree of life (66:4.15-16) (77:2.7)
 	tree of life indefinitely extended mortal existence (73:6.4)
 physical aspects
@@ -428,7 +429,7 @@ prodigal son given fatted calf (169:1.10)
 stealing cattle universally punished by summary death (70:10.15)
 used in animal sacrifice (173:1.6-7)
 
-Caucasians | | races; white race | RACE | 
+Caucasians; Caucasoid | | races; white race | RACE | 
 Andite inheritance gives Caucasoid homogeneity (78:4.4)
 race comprised of Andite, Andonic, primary and some secondary Sangik admixture (81:4.11)
 
@@ -870,7 +871,7 @@ chief recorders | | | |
 tertiary supernaphim of Havona (26:3.5)
 
 chief seat | | | | 
-sit not in (167:1.5) ((179:1.3-5))
+sit not in (167:1.5) (179:1.3-5)
 
 chief supernaphim | | | PERSON | OK
 original pattern angel of Paradise (27:2.1)
@@ -1101,7 +1102,7 @@ do not sacrifice human Jesus to concept of glorified Christ (196:1.2) (196:2.5)
 Michael of Nebadon referred to as Christ Michael (0:5.3) (20:4.4) (21:0.3) (21:6.4) (27:0.2) (30:4.11) (33:1.1) (33:2.3) (37:2.6) (37:5.1) (40:6.5) (40:7.2) (45:4.1) (50:6.5) (51:3.9) (52:5.5) (52:6.1) (53:0.2) (53:5.3) (75:2.2) (77:6.6) (77:7.5) (83:8.3) (92:4.8) (93:9.11) (93:10.5-8) (94:6.1) (98:7.2) (101:6.5) (102:3.14) (119:8.8-9) (120:0.9) (120:4.2-3) (121:1.1) (121:3.1) (136:5.4) (196:1.1)
 the anointed one (98:7.2)
 
-Christian church, early | | Christianity; Roman Catholic Church | RELIGION | 
+Christian church, early; first Christian church; early Christian church | | Christianity; Roman Catholic Church | RELIGION | 
 3 paramount factors in rapid spread; reasons for triumph (132:0.5-8) (195:0.5-18) (195:1.2-4)
 Abner represented Babylonian view (166:5.2,4) (171:1.6)
 Abnerian church was centered at Philadelphia; lost in Islamic movement (171:1.6) (195:1.11)
@@ -1161,7 +1162,7 @@ persecution in Jerusalem scattered believers (143:6.6)
 persecution resulted from term “kingdom” (170:2.24-25)
 preached God as Father of Lord Jesus Christ, believer-fellowship with risen Christ (5:4.8) (194:0.4)
 Remembrance Supper originated in Passover ceremony (89:9.2)
-second coming deemed near at hand (170:2.1,10) (170:5.14-15) (194:4.5,7) (196:2.5) | Jesus: second coming
+second coming deemed near at hand (170:2.1,10) (170:5.14-15) (194:4.5,7) (196:2.5) | Jesus:second coming
 sect within Judaism at beginning (194:1.5) (194:4.10)
 similar to Mithraism in 3rd century A.D. (98:6.3)
 strengths
@@ -1238,7 +1239,7 @@ Christians celebrate on festival day of Mithras (98:5.4)
 people revel in Christmas gifts (69:5.13)
 tree perpetuates ancient custom of tree worship (85:2.5)
 
-chromosomess | | life: biological | | 
+chromosomess | | life:biological | | 
 24 pattern units; 48 human trait determiners (36:2.11,16)
 of Prince’s staff reorganized by life circuits (77:2.2,5)
 
@@ -1248,7 +1249,7 @@ in Uversa personality register (30:2.107)
 system time broadcast by (46:1.2)
 type of Master Physical Controller (29:4.11)
 
-churches | | Christian church, early; Christianity; fellowship of believers; Roman Catholic Church; temples; worship | RELIGION | 
+churches | | Christian church, early; Christianity; fellowship of believers; Roman Catholic Church; temple; worship | RELIGION | 
 authority derived from invocation of sacred books (88:2.10)
 avoid union of church and state (70:1.14) (70:12.6) (71:8.4) (72:3.6) (178:1.9)
 church buildings
@@ -1275,7 +1276,6 @@ nonnative residential areas on Jerusem (46:4.2) (46:5)
 	of finaliters (46:5.32)
 	of Master Physical Controllers (46:5.26)
 	of the angels (46:5.20)
-nonnative residential areas on Jerusem (continued)
 	of the Sons of God (46:5.10-19)
 	of Universe Aids (46:5.25)
 	surrounded by 35,000 mile exhibit panorama (46:5.23)
@@ -1292,22 +1292,22 @@ Circuit Supervisors | | Universe Circuit Supervisors | ORDER |
 circuits | (34:4) | | | 
 all lead back to God on Paradise (11:1.4)
 angels sustained by direct intake of spirit circuits (26:1.17)
-energy circuits | energy: circuits
+energy circuits | energy:circuits
 gravity q.v.
-Havona | Havona: circuits
-local system (29:2.16) | local systems: life circuits
-local universe | local universes: circuits
+Havona | Havona:circuits
+local system (29:2.16) | local systems:life circuits
+local universe | local universes:circuits
 not always possible to distinguish between (3:1.6)
 pervade the superuniverses (15:9)
 presence circuits of Paradise (15:9.1)
 	derived from personality presences of Deities (34:4.5)
-	matter | gravity: types: material gravity
-	mind | gravity: types: mind gravity
-	personality | personality: personality circuit
-	spirit | gravity: types: spirit gravity
+	matter | gravity:types
+	mind | gravity:types
+	personality | personality:personality circuit
+	spirit | gravity:types
 reflectivity independent of all subabsolute circuits (17:3.10)
 seem automatic, but subject to intelligent supervision (23:1.1)
-superuniverse | superuniverses: circuits
+superuniverse | superuniverses:circuits
 
 circumcision | | | | 
 Abraham underwent circumcision to solemnize commitment (93:6.6)
@@ -1367,7 +1367,7 @@ small village 4 miles west of Jerusalem; home of Elizabeth and Zacharias (122:2.
 civil servants | | | | 
 if unbelievers qualify as superior civil servants (178:1.13)
 
-civilization | | evolution: social evolution; government; social classes; standards of living | | 
+civilization | | evolution:social evolution; government; social classes; standards of living | | 
 Adamic infusion accelerated (81:0.2)
 concerned with self-perpetuation, self-maintenance, and self-gratification (68:2.3)
 dangers
@@ -1543,7 +1543,7 @@ cleansing the temple | (173:1) | | |
 Clement | | | PERSON | OK
 taught by Pantaenus (195:3.10)
 
-Cleopas of Emmaus | | | PERSON | OK
+Cleopas of Emmaus; Cleopas | | | PERSON | OK
 at Jesus’ 7th appearance (190:5)
 
 cleverness | | | | 
@@ -1616,7 +1616,7 @@ Co-ordinate Trinity-origin Beings | | Trinity-origin beings | ORDER |
 co-ordinators and liaison directors | | | ORDER | 
 Morontia Companions; instructors of social conduct (48:3.11)
 
-coabsolute level | | reality: levels of reality: coabsolute reality | | 
+coabsolute level | | reality:levels of reality | | 
 
 coal | (59:5) | | | 
 beds often hold gas and oil (59:5.16)
@@ -2037,7 +2037,7 @@ Conjoint Creator | | Infinite Spirit | PERSON | OK
 conjurers | | | | 
 practitioners of black arts called (90:2.2)
 
-Connecticut | (60:1.7) | | PLACE | 
+Connecticut; eastern-Connecticut | (60:1.7) | | PLACE | 
 
 conquest | | military; victory; war | | 
 
@@ -2141,7 +2141,7 @@ Supreme Power Centers; project energy to systems for communication, transport, a
 
 Constellation Father of Norlatiadek | | Most Highs of Norlatiadek | PERSON | OK
 
-Constellation Fathers | | Most Highs | ORDER | 
+Constellation Fathers; Constellation Father | | Most Highs | ORDER | 
 reigning Most High is Constellation Father (35:6.1)
 
 constellations | (43) | Edentia; Norlatiadek | PLACE | 
@@ -2203,7 +2203,7 @@ Thomas unconsciously assumed disagreement (191:5.1)
 
 contentment | | happiness | | 
 
-continence cult | | castration; chastity; sex: urge; virgins | | 
+continence cult | | castration; chastity; sex:urge; virgins | | 
 normal urges not in conflict with spiritual attainment (34:7.7)
 ritual among soldiers prior to battle (89:3.6)
 tolerated marriage as lesser evil than fornication (89:3.6)
@@ -2323,12 +2323,12 @@ companies
 	ascendant associates stay together in (31:0.9)
 	initially serve in superuniverses not of origin (31:0.10)
 	members of each finaliter company
-		# 1 Havona native (always) (31:0.2) (31:1.1)
-		# 1 Gravity Messenger (always) (31:0.3) (31:2.1)
+		# 1 Havona native, always (31:0.2) (31:1.1)
+		# 1 Gravity Messenger, always (31:0.3) (31:2.1)
 		# ascending mortals q.v.
 		# ascendant seraphim (31:0.5) (31:4.1) (113:7.5,8)
-		# Material Sons (sometimes) (31:0.6) (31:5)
-		# secondary midwayer (sometimes) (31:0.7) (31:6)
+		# Material Sons, sometimes (31:0.6) (31:5)
+		# secondary midwayer, sometimes (31:0.7) (31:6)
 		# vacant place in company transiently occupied by chief of attached Evangels of Light (31:7.1)
 		all received in equality regardless of type (31:0.9)
 		all surviving secondary midwayers join (40:3.1)
@@ -2421,7 +2421,7 @@ responsibility and morality of (39:4.9)
 cosmic cloud | | | | 
 great space blanket; chiefly consists of pulverized stone (41:6.2)
 
-cosmic consciousness | | God: consciousness of God | | 
+cosmic consciousness | | God:consciousness of God | | 
 
 cosmic force | | absoluta | | 
 
@@ -2492,7 +2492,7 @@ constellation group analogous to 24 counselors (50:2.2)
 
 council on food and material welfare | | Caligastia one hundred | PERSON | OK
 
-counsel | | adjutant mind-spirits: #5–counsel; advice | | 
+counsel | | adjutant mind-spirits:5 – Counsel; advice | | 
 
 counseling the rich man | (132:5) | | | 
 
@@ -2509,7 +2509,7 @@ Teacher Sons show spiritual counterpart to material wisdom (20:9.2)
 
 counting the cost | (171:2) | | | 
 
-courage | | adjutant mind-spirits: #3–courage; self-confidence | | 
+courage | | adjutant mind-spirits:3 – Courage; self-confidence | | 
 defined as
 	confidence of thoroughgoing honesty (146:3.2) (160:1.7-8)
 	facing facts of life (132:3.4) (133:4.11)
@@ -2561,7 +2561,7 @@ omniaphim on Uversa reside in (28:2.1)
 
 courts | | judges; judgment; justice; law; lawyers | | 
 accord justice with fairness according to needs (133:4.7)
-celestial | justice: divine justice
+celestial | justice:divine justice
 continental and planetary (71:8.13)
 do not go to law among yourselves (140:3.14)
 first courts were regulated fistic encounters (70:11.13)
@@ -2600,7 +2600,7 @@ hand that rocks cradle fraternizes with destiny (84:6.4)
 craftworkers of color | | | ORDER | 
 designers and embellishers of celestial artisans (44:6.3)
 
-creation | | reality: genesis of reality | | 
+creation | | reality:genesis of reality | | 
 first Paradise record is personification of Infinite Spirit (25:6.6)
 first Paradise record is trinitization of Ancients of Days (18:3.4)
 genesis of reality (105:1.5) (105:2.2-4) (105:4.1) (105:5.1-6) (105:7.18)
@@ -2669,7 +2669,7 @@ Bright and Morning Stars
 	direct universes in absence of Creator Sons (21:2.11)
 can and do suffer (3:6.6)
 close relationship to Architects of Master Universe (31:9.14)
-creature bestowals (7:4.5) (23:4) | Michael of Nebadon: bestowals; Paradise Sons of God: bestowals
+creature bestowals (7:4.5) (23:4) | Michael of Nebadon:bestowals; Paradise Sons of God:bestowals
 	Adjusters sent universally after mortal bestowal (52:5.6) (146:3.6)
 	are miracles, mysteries (119:3.6)(119:7.5)(120:4.5)(124:6.17)
 	bestowal worlds subject to rulings of Creator Sons (20:4.5) (21:5.9-10)
@@ -2688,7 +2688,7 @@ creature bestowals (7:4.5) (23:4) | Michael of Nebadon: bestowals; Paradise Sons
 	qualify Creator Sons to portray Supreme (33:2.4)
 	requirements (158:1.4)
 	secret of Sonarington (7:5.4)
-	value of bestowals | Jesus: life of: value; Paradise Sons of God: bestowals: purpose of bestowals
+	value of bestowals | Jesus:life of; Paradise Sons of God:bestowals
 domains very diverse (21:2.10)(32:3.3) | local universes
 draw all men to themselves (1:4.2)
 each aspires to duplicate Havona in his own local universe (14:0.2) (14:6.27-31) (54:2.1)
@@ -2918,7 +2918,7 @@ progressive superior blue men blended with Adamites (80:1.7)
 crocodiles | (60:1.9) (60:3.20) (61:2.6) (61:3.14) | | | 
 reversion from land reptiles (60:2.11)
 
-cross | | atonement doctrine; crucifixion; Jesus: death; Jesus: events in life: crucifixion | | 
+cross | | atonement doctrine; crucifixion; Jesus:death; Jesus:events in life | | 
 center of Christianity (143:6.3)
 meaning of Jesus’ death on (188:4-5)
 physical description of Jesus’ (187:1.1-2) (187:2.1)
@@ -2937,7 +2937,7 @@ Spirit of Truth will speak at every (34:7.8)
 crown of thorns | | | | 
 placed on Jesus’ head (185:6.2,4)
 
-crucifixion | (187) | atonement doctrine; cross; Jesus: death; Jesus: events in life: crucifixion | | 
+crucifixion | (187) | atonement doctrine; cross; Jesus:death; Jesus:events in life | | 
 cruel and lingering punishment (187:2.3) (187:5.8)
 illegal to show friendly feelings for victims (187:1.7)
 individuals crucified
@@ -2962,7 +2962,7 @@ Norana said not to deprive dogs of (156:1.5)
 crusader | | | | 
 spirit of crusader more than dangerous if not controlled (100:6.5)
 
-crust (earth’s) | | Urantia: physical aspects: geology | | 
+crust (earth’s) | | Urantia:physical aspects | | 
 
 crustaceans | | crabs; lobsters; shrimps | | 
 amphibians developed from arthropods (59:5.5)

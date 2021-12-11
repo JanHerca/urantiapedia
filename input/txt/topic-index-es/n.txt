@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     N
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     N
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 Nabal | | | PERSON | 
 rico edomita; El rey David se casó con la viuda de (97:9.10)
@@ -350,7 +351,7 @@ cada uno puede producir 100 millones de soles (15:4.5)
 las formas son barradas, anillos de contracción concéntricos, espirales, nubes de estrellas (15:3) (15:4.4-9) (15:5.3-5)
 iniciado por los organizadores de la fuerza del Paraíso (12:4.6) (15:4.4) (29:4.3) (41:1.1) (57:1)
 ciclo de vida (57:2-4)
-origen en la carga de fuerza del espacio (absoluta) (57:1.1)
+origen en la carga de fuerza del espacio, absoluta (57:1.1)
 centros de poder, controladores físicos evolución directa de (41:1.1)
 los límites del superuniverso nunca se dividen (12:1.12)
 

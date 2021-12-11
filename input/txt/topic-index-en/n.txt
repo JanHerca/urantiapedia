@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     N
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     N
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 Nabal | | | PERSON | 
 rich Edomite; King David married widow of (97:9.10)
@@ -249,7 +250,7 @@ celestial personalities in Nebadon
 	1 directional control creature | directional control creatures
 	1 Father Melchizedek | Father Melchizedek
 	1 local universe Mother Spirit | local universe Mother Spirit of Nebadon
-	1 Universe Circuit Supervisor (Tertiary) (24:1.11) (37:8.3)
+	1 Universe Circuit Supervisor, Tertiary (24:1.11) (37:8.3)
 	3 million Celestial Overseers (37:6.1)
 	70 billion Morontia Companions (37:8.9)
 	75 Celestial Recorders (37:8.8)
@@ -312,7 +313,7 @@ physical aspects (41)
 	physically assembled out of Andronover and other nebulae (41:0.3) (57:1.1) (57:3.8-9)
 	Salvington is at energy-mass center of (32:2.4)
 	spheres share minimum commonness of space motion (41:0.3)
-	time | time: days and years
+	time | time:days and years
 	work begun on Nebadon 400 billion years ago (57:3.8-9)
 Salvington is capital of (15:7.7)
 some Mighty Messengers and Those High in Authority recently from (22:2.4) (22:3.2)
@@ -350,7 +351,7 @@ each can produce 100 million suns (15:4.5)
 forms are barred, concentric contraction rings, spiral, star clouds (15:3) (15:4.4-9) (15:5.3-5)
 initiated by Paradise force organizers (12:4.6) (15:4.4) (29:4.3) (41:1.1) (57:1)
 life cycle (57:2-4)
-origin in force-charge of space (absoluta) (57:1.1)
+origin in force-charge of space, absoluta (57:1.1)
 power centers, physical controllers direct evolution of (41:1.1)
 superuniverse boundaries never divide (12:1.12)
 
@@ -445,14 +446,14 @@ changed history for 2000 years (121:8.11)
 gospels, books, and epistles named
 	Book of Acts | Acts, Book of
 	Book of Revelations | Revelations, Book of
-	Epistle of James | James (brother of Jesus): Epistle of
+	Epistle of James | James (brother of Jesus):Epistle of
 	Epistle to the Hebrews | Hebrews, Book of
-	First Epistle of John | John Zebedee: First Epistle
-	First Epistle of Peter | Simon Peter: First Epistle
-	Gospel of John | John Zebedee: Gospel of John
-	Gospel of Luke | Luke: Gospel of Luke
-	Gospel of Mark | John Mark: Gospel of Mark
-	Gospel of Matthew | Matthew Levi: Gospel of Matthew
+	First Epistle of John | John Zebedee:First Epistle
+	First Epistle of Peter | Simon Peter:First Epistle
+	Gospel of John | John Zebedee:Gospel of John
+	Gospel of Luke | Luke:Gospel of Luke
+	Gospel of Mark | John Mark:Gospel of Mark
+	Gospel of Matthew | Matthew Levi:Gospel of Matthew
 gospels affected by Paul’s theology (121:8.11)
 Jesus’ avoidance of written records delayed writing (121:0.1)
 mostly devoted to Paul’s religious convictions; only meagerly
@@ -586,7 +587,7 @@ ghosts supposed to be frightened by (87:6.11)
 nomadism | | | | 
 progressive decline of (68:5.12)
 
-nonbreathers | | mortals: planetary types | | 
+nonbreathers | | mortals:planetary types | | 
 
 nonconformists | | | | 
 civilization visits heavy penalties on dissenters and (81:5.3)
@@ -614,7 +615,7 @@ of selfish reaction to universe (180:5.9)
 resist not injury to feelings of personal dignity (141:3.8)
 violet race retained Edenic traditions of peacefulness for many millenniums (78:3.1) (78:4.5)
 
-nonsurvivors | | death: spiritual death; extinction; judgment; resurrection; roll call: of justice; salvation; survival | | 
+nonsurvivors | | death:spiritual death; extinction; judgment; resurrection; roll call:of justice; salvation; survival | | 
 Adjusters conserve realities born of love and service (16:9.3) (47:3.4) (196:3.35)
 are moving counter to stream of universe events (117:4.11)
 become as if they had never been (47:2.7)
@@ -636,7 +637,7 @@ Syrian woman with afflicted daughter (156:1)
 Nordan the Kenite | | | PERSON | 
 Melchizedek’s brilliant disciple (93:3.4)
 
-Nordic race | | white race: divisions | RACE | 
+Nordic race | | white race:divisions | RACE | 
 
 Norlatiadek | (43) | constellations; Edentia; Most Highs of Norlatiadek | PLACE | 
 10 Constellation Centers stationed in (41:1.4)

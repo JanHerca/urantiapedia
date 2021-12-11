@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     F
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     F
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 fábulas | | | | 
 no emplee fábulas en la proclamación del evangelio (151:2.5) (151:3.3)
@@ -727,9 +728,9 @@ dedos | | | |
 cruzar dedos es la continuación del ritual primitivo (87:6.17)
 señalar con el dedo era una práctica peligrosa entre los antiguos (90:3.7)
 
-realidad finita | | realidad:niveles de realidad:realidad finita | | 
+realidad finita | | realidad:niveles de realidad | | 
 
-finitos | | realidad:niveles de realidad:realidad finita | | 
+finitos | | realidad:niveles de realidad | | 
 
 finlandeses | | | RACE | 
 se cree que los árboles están ocupados por espíritus bondadosos (85:2.4)
@@ -805,7 +806,7 @@ los hombres azules vallaron los ríos, la captura excedente seca (68:5.5)
 El tío de Jesús en Magdala fue (123:6.1) (124:3.1)
 Jesús era un experto (124:1.2) (124:2.7) (138:7.6) (192:1.7)
 Judá se escapó para convertirse (128:7.8)
-los apóstoles fueron (138:7.5) (139:1.1) (139:3.1) (139:9.2) (192:1)
+los apóstoles fueron (138:7.5) (139:1.1) (139:3.1) (139:10.2) (192:1)
 
 banderas | | círculos concéntricos, tres; Lucifer:emblema de | | 
 evolución de los tótems (88:3.2-4)
@@ -1028,7 +1029,7 @@ cerca del estanque de Siloé en Jerusalén (162:4.4)
 
 veinticuatro consejeros | (45:4) (114:2) | | PERSON | OK
 actúan también como supervisores asesores de otros 36 mundos aislados por la rebelión (114:2.4-5)
-todos eran verdaderos líderes en Urantia; todos ciudadanos de Jerusem (excepto Maquiventa) (50:2.2) (114:2.1)
+todos eran verdaderos líderes en Urantia; todos ciudadanos de Jerusem, excepto Maquiventa (50:2.2) (114:2.1)
 también son conocidos como el consejo asesor de Urantia (45:4.1) (76:6.3)
 aprueban los planes de los progresores morontiales para el curso futuro de los ascendentes (48:6.5)
 Los Centinelas Asignados son jefes ex officio de los veincuatro (24:5.3)
@@ -1061,7 +1062,7 @@ miembros (45:4)
 	# Maquiventa Melquisedek (45:4.16) (93:10.5,9)
 	# Juan el Bautista
 	# 1-2-3 el Primero (45:4.18) (77:9.5)
-	# Hasta el 24. Los asientos sólo se llenan temporalmente (45:4.20-21)
+	# Hasta el 24. Los asientos sólo se llenan temporalmente. Exentos del régimen de ascensión (45:4.19) (45:4.20-21)
 
 cuatro nobles verdades | | | | 
 doctrina del sufrimiento; evangelio original de Gautama (94:8.3-7)

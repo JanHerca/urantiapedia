@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     C
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     C
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 Cesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | PLACE | 
 Herodes el Idumea construyó (121:2.11)
@@ -148,7 +149,7 @@ fueron los padres de 50.000 intermedios primarios; cada pareja produjo 1.000 de 
 	# el tribunal supremo de coordinación tribal. Conducido por Van. Formado por miembros previamente aprobados por los Altísimos; todos permacieron leales (66:5.31) (67:2.2) (67:4.1)
 Contrapartes andonitas
 	56 de estos andonitas permanecieron leales contra la rebelión; 44 se rebelaron (67:3.5) (77:2.7)
-	los 55 leales (todos excepto Amadón) fueron trasladados a Jerusem a la llegada de los síndicos Melquisedek (67:4.5) (67:6.3)
+	los 55 leales, todos excepto Amadón, fueron trasladados a Jerusem a la llegada de los síndicos Melquisedek (67:4.5) (67:6.3)
 	se introdujeron en sus cuerpos un complemento de los circuitos del sistema y usaron el árbol de la vida (66:4.15-16) (77:2.7)
 	los cien andonitas habían recibido un complemento de vida que les permitía alimentarse del árbol de la vida y prolongar indefinidamente su existencia mortal (73:6.4)
 aspectos físicos
@@ -1275,7 +1276,6 @@ concéntrico | círculos concéntricos, tres
 	de finalitarios (46:5.32)
 	de los Controladores Físicos Maestros (46:5.26)
 	de los ángeles (46:5.20)
-áreas residenciales no nativas en Jerusem (continuación)
 	de los Hijos de Dios (46:5.10-19)
 	de las Ayudantes Universales (46:5.25)
 	rodeado por un panorama de exhibición de 35,000 millas (46:5.23)
@@ -1301,10 +1301,10 @@ no siempre es posible distinguir entre (3:1.6)
 impregnar los superuniversos (15:9)
 circuitos de presencia del Paraíso (15:9.1)
 	derivado de las presencias de personalidad de las Deidades (34:4.5)
-	materia | gravedad:tipos:gravedad material
-	mente | gravedad:tipos:gravedad mental
+	materia | gravedad:tipos
+	mente | gravedad:tipos
 	personalidad | personalidad:circuito de personalidad
-	espíritu | gravedad:tipos:gravedad espiritual
+	espíritu | gravedad:tipos
 reflectividad independiente de todo circuito subabsoluto (17:3.10)
 parecen automáticos, pero sujetos a una supervisión inteligente (23:1.1)
 superuniverso | superuniverso:circuitos
@@ -1616,7 +1616,7 @@ Seres Coordinados de Origen Trinitario | | Seres de origen trinitario | ORDER |
 Coordinadores y los Directores de Enlace | | | ORDER | 
 Compañeros Morontiales; instructores de conducta social (48:3.11)
 
-nivel coabsoluto | | realidad:niveles de realidad:realidad coabsoluta | | 
+nivel coabsoluto | | realidad:niveles de realidad | | 
 
 carbón | (59:5) | | | 
 las camas suelen contener gas y petróleo (59:5.16)
@@ -2688,7 +2688,7 @@ donaciones de criaturas (7:4.5) (23:4) | Miguel de Nebadon:donaciones; Hijos Par
 	calificar a los Hijos Creadores para retratar a Supremo (33:2.4)
 	requisitos (158:1.4)
 	secreto de Sonarington (7:5.4)
-	valor de las donaciones | Jesús:vida de:valor; Hijos Paradisíacos de Dios:autodonaciones:propósito de los autodonaciones
+	valor de las donaciones | Jesús:vida de; Hijos Paradisíacos de Dios:autodonaciones
 dominios muy diversos (21:2.10) (32:3.3) | universos locales
 atraer a todos los hombres hacia sí mismos (1:4.2)
 cada uno aspira a duplicar a Havona en su propio universo local (14:0.2) (14:6.27-31) (54:2.1)
@@ -2918,7 +2918,7 @@ hombres azules superiores progresivos mezclados con adanitas (80:1.7)
 cocodrilos | (60:1.9) (60:3.20) (61:2.6) (61:3.14) | | | 
 reversión de los reptiles terrestres (60:2.11)
 
-cruz | | doctrina de la expiación; crucifixión; Jesús:muerte; Jesús:acontecimientos de la vida:crucifixión | | 
+cruz | | doctrina de la expiación; crucifixión; Jesús:muerte; Jesús:acontecimientos de la vida | | 
 centro del cristianismo (143:6.3)
 significado de la muerte de Jesús en (188:4-5)
 descripción física de Jesús (187:1.1-2) (187:2.1)
@@ -2937,7 +2937,7 @@ El Espíritu de la Verdad hablará en cada (34:7.8)
 corona de espinas | | | | 
 colocado sobre la cabeza de Jesús (185:6.2,4)
 
-crucifixión | (187) | doctrina de la expiación; cruz; Jesús:muerte; Jesús:acontecimientos de la vida:crucifixión | | 
+crucifixión | (187) | doctrina de la expiación; cruz; Jesús:muerte; Jesús:acontecimientos de la vida | | 
 Castigo cruel y prolongado (187:2.3) (187:5.8)
 ilegal mostrar sentimientos amistosos por las víctimas (187:1.7)
 individuos crucificados
@@ -2962,13 +2962,13 @@ Norana dijo que no prive a los perros de (156:1.5)
 cruzado | | | | 
 espíritu de cruzado más que peligroso si no se controla (100:6.5)
 
-corteza (de la tierra) | | Urantia:aspectos físicos:geología | | 
+corteza (de la tierra) | | Urantia:aspectos físicos | | 
 
 crustáceos | | cangrejos; langostas; camarones | | 
 anfibios desarrollados a partir de artrópodos (59:5.5)
-antepasados ​​de los peces (59:4.10)
+antepasados de los peces (59:4.10)
 apariencia (59:1.18) (59:4.3,10) (60:2.9) (65:2.5)
-los trilobites eran antepasados ​​de (59:2.10)
+los trilobites eran antepasados de los crustáceos (59:2.10)
 
 cristales | | | | 
 edificios en Jerusem construidos en su totalidad de (46:5.11,25,31)

@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     S
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     S
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 Sábado; sábado | | | | 
 La elección coincidente de Adán del séptimo día para la adoración (74:3.9) (74:4.6) (74:8.1)
@@ -2131,7 +2132,7 @@ en la presentación de Jesús (122:9.2-27)
 
 simios | (88:1.5) | simios; chimpancés; gorilas; monos | RACE | 
 descendientes de lémures (62:1.3)
-los mamíferos intermedios retrasados ​​eran antepasados; hombre no descendiente de (61:6.1) (62:1.1) (62:3.11-13)
+los mamíferos intermedios retrasados eran antepasados; hombre no descendiente de (61:6.1) (62:1.1) (62:3.11-13)
 algunos andonitas se aparearon con (63:1.4)
 hombre no descendiente de (62:1.1) (62:3.11-13)
 
@@ -2734,7 +2735,7 @@ hijo del mandamiento | | | |
 ciudadano de la Commonwealth de Israel (123:5.2) (125:2.6)
 al graduarse, Jesús se convirtió (124:5.4) (125:4.3)
 
-Hijo de Dios | | Jesús:naturaleza de Jesús:Dios encarnado en el hombre | ORDER | 
+Hijo de Dios | | Jesús:naturaleza de Jesús | ORDER | 
 El concepto judío del Príncipe celestial que gobierna la tierra es renovado (135:5.7) (136:1.1)
 
 Hijo del Hombre; hijo del hombre | | | PERSON | 
@@ -3066,7 +3067,7 @@ sin barrera para la Deidad (3:1.6)
 personalidades del Espíritu Infinito en gran parte independientes de (34:3.2)
 espacio invadido
 	6 niveles espaciales constituyen las principales divisiones de (12:1.2-9)
-	potencia espacial ancestral de los rellenos Absolutos No Cualificados (absoluta) (11:7.4) (12:5.2) (42:5.14-16)
+	potencia espacial ancestral de los rellenos Absolutos No Cualificados, absoluta (11:7.4) (12:5.2) (42:5.14-16)
 	ejerce influencia antigravedad sobre la gravedad lineal (11:8.3)
 	ahora en fase de expansión (11:6.4)
 	Plano en forma de V en ángulo recto con el Paraíso periférico (11:6.1-2) (11:7.5)
@@ -3092,7 +3093,7 @@ espacio no ocupado
 	el espacio no penetrado por fuerzas, energías y presencias existentes en
 	espacio penetrado (11:6.3)
 	con forma de reloj de arena por encima y por debajo del Paraíso (11:6.1)
-	espacio vertical (depósito) es el equilibrio de espacio horizontal (universo) (11:6.1,3) (11:7.1-2)
+	espacio vertical o depósito es el equilibrio de espacio horizontal o universo (11:6.1,3) (11:7.1-2)
 una gran cantidad de materia circula en (15:5.9)
 
 cuerpos espaciales | (15:6) | | | 
@@ -3261,9 +3262,9 @@ cruse del nardo cuestan los ingresos anuales del hombre; María se derramó sobr
 
 espíritu | | divinidad; comunión espiritual; crecimiento espiritual; influencias espirituales; percepción espiritual; renacimiento espiritual; unidad espiritual | | 
 Los absolutos parecen sobrevenir (4:1.8)
-circuitos | gravedad:tipos:gravedad espiritual
+circuitos | gravedad:tipos
 El Hijo Eterno tiene un poder de atracción infinito (6:4.1)
-gravedad | gravedad:tipos:gravedad espiritual
+gravedad | gravedad:tipos
 en el hombre (34:6)
 	El Ajustador puede hablar directa e inmediatamente con el primer círculo psíquico (110:6.15)
 	Los Ajustadores se comunican constantemente con sujetos humanos (101:4.3) (108:6.7) (110:1.1)
@@ -4893,7 +4894,7 @@ garantía de supervivencia
 alcanzado por
 	aceptación de la filiación (26:4.15)
 	aceptar la participación en la aventura de la eternidad (117:4.11)
-	logrado (en espíritu) ahora haciendo la voluntad del Padre (40:5.4) (111:5.4)
+	logrado, en espíritu, ahora haciendo la voluntad del Padre (40:5.4) (111:5.4)
 	elegir valores seleccionados por el Ajustador (132:2.2-3) (196:3.17)
 	esfuerzo y decisión (50:6.3)
 	fe solamente (139:12.7) (140:10.1) (141:7.6) (150:5.2) (157:2.2) (163:2.4) (170:2.20-22) (170:5.13)

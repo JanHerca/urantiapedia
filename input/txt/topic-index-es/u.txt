@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     U
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     U
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 ubicuidad | | omnipresencia | | 
 
@@ -17,7 +18,7 @@ estimula el alcance de cosas mejores (3:5.11)
 Ucrania | | | PLACE | 
 Los andonitas entraron en Europa a través de (80:9.6)
 
-ultimidad | | realidad:niveles de realidad:realidad absonita | | 
+ultimidad | | realidad:niveles de realidad | | 
 Los finalitarios pueden algún día eventualizar la ultimidad de Dios (5:5.11)
 
 ultimata | | energía | | 
@@ -35,7 +36,7 @@ energías preelectrónicas que no responden a la gravedad lineal (0:6.6)
 
 Deidad suprema | | Dios Último | PERSON | 
 
-último nivel | | realidad:niveles de realidad:realidad absonita | | 
+último nivel | | realidad:niveles de realidad | | 
 
 ultimatón | (42:6.2-6) | átomo; materia | | 
 100 en un electrón, unidos por atracción mutua (42:3.3) (42:4.6) (42:6.4)
@@ -524,7 +525,7 @@ aspectos físicos
 	emanó del Paraíso a través del Absoluto Incalificado (42:2.3) (56:1.1)
 	sin fin, sin límites y todo incluido:atemporal, sin espacio y sin reservas (102:3.10)
 	circuitos establecidos continuamente comprometidos por la aparición de nueva energía y masa (116:5.16-17)
-	en expansión | corrimiento al rojo; espacio:cimiento de respiración espacial del universo es material (42:0.1) (42:1.1)
+	en expansión | corrimiento al rojo; espacio:respiración espacial (42:0.1) (42:1.1)
 	control de la gravedad del Paraíso adecuado para un infinito universo (3:4.2) (8:4.1)
 	está delimitado; se mueve en un vasto plano alargado alrededor del Paraíso (15:0.1) (32:5.5) (42:1.9) (56:1.1)
 	es estable; no se agota (4:1.5) (15:8.10)
@@ -779,7 +780,7 @@ aspectos físicos (57)
 	geología
 		deriva continental (58:4.3-4) (58:5)
 		eras | edades geológicas
-		calor, presión y elementos pesados ​​en el núcleo; densidad del hierro (41:4.3) (57:7.1) (57:8.16) (58:5.2,5-7)
+		calor, presión y elementos pesados en el núcleo; densidad del hierro (41:4.3) (57:7.1) (57:8.16) (58:5.2,5-7)
 		Los metales que se encuentran cerca de la superficie son de volcanes antiguos, depósitos meteóricos (58:5.2).
 		el basalto fundido iguala las presiones cambiantes (58:5.3)
 		corteza original toda mezclada (57:8.11) (58:7.1,6)
@@ -787,7 +788,7 @@ aspectos físicos (57)
 		estabilización de la corteza (57:8)
 	en líneas de tremendas energías (41:2.8)
 	establecimiento de vida | vida:biológica
-	ubicación en el universo (0:0.5) (15:1.5-6) ​​(15:14.5-8) (41:10.5)
+	ubicación en el universo (0:0.5) (15:1.5-6) (15:14.5-8) (41:10.5)
 	Luna | Luna (de Urantia)
 	origen (57)
 		1/10 de su masa actual hace 2-1 / 2 mil millones de años (57:6.10)

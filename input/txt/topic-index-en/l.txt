@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     L
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     L
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 labor | | achievement; careers; drudgery; earning a living; laborers; monotony | | 
 ascendant life equally divided between work and play (48:4.1)
@@ -155,7 +156,7 @@ development of language
 	similarity of Occidental tongues called Aryan (78:5.3)
 	tongue of Adamites eventually dominates (52:3.10)
 Jesus reversed meaning of many words; shunned flowery language (159:5.17)
-languages named | Aramaic; English language; Greece: Greek language; Hebrew language; Latin; Nebadon: language of; Satania: language of; Uversa: language of
+languages named | Aramaic; English language; GreeceGreek language; Hebrew language; Latin; Nebadon:language of; Satania:language of; Uversa:language of
 limitations of human language (0:0.1-4) (0:3.20) (0:6.2) (0:12.13) (2:0.3) (2:5.11) (6:0.2,4) (10:5.8) (18:4.3) (24:6.2) (33:8.6) (35:7.3) (42:2.1) (44:0.20-21) (44:2.1) (44:4.8) (44:5.8) (44:6) (44:7.1) (46:2.6) (46:4.9) (94:12.1) (105:0.3) (105:3.10) (106:0.11) (112:5.11) (147:4.3) (196:3.28)
 multiplication of multilinguists furthers brotherhood (52:6.3)
 nature of language
@@ -227,7 +228,7 @@ will often be first (41:10.5) (163:3.4) (166:3.5)
 
 Last Supper | | Remembrance Supper | | 
 
-Latin | | | | 
+Latin; language | | | | 
 no word for unselfishness (195:3.3)
 
 Lausanne | | | PLACE | 
@@ -329,7 +330,7 @@ unfailingly provided for all groups (181:2.16)
 vital to progress (81:6.42)
 wise leadership has never exceeded 1% of population (81:6.42)
 
-leadings | | mortal mind; mysticism; revelation: personal | | 
+leadings | | mortal mind; mysticism; revelation:personal | | 
 revelation; spiritual insight; spiritualism
 Adjuster leadings | submission
 	Adjusters speak directly with 1st psychic circlers (110:6.15)
@@ -365,18 +366,18 @@ beware of leaven of Pharisees, which is hypocrisy (157:2.2) (165:3.2)
 parable of (151:4.3) (178:1.15)
 place leaven of new truth in old beliefs (178:1.16)
 
-Lebanon, house of | | | PLACE | 
+Lebanon, house of; house of Lebanon | | | PLACE | 
 Solomon built (97:9.16)
 
 Lebbeus | | Alpheus twins | PERSON | 
-Judas Alpheus also called (139:9.5)
+Judas Alpheus also called (139:10.5)
 
 Lebonah | (134:7.5) | | PLACE | 
 Jesus passed
 
 leeches | (65:2.5) | | | 
 
-legalism | | Judaism: oral law | | 
+legalism | | Judaism:oral law | | 
 Jews in terrible bondage of (121:7.3)
 
 legislatures | | government | | 
@@ -470,10 +471,10 @@ custodians of knowledge are living (25:5.1) (27:5.1)
 Greek and Latin libraries in Rome (132:0.2)
 house of Fad in Dalamatia (66:5.9)
 
-Libya | | | PLACE | 
+Libya; Libyan | | | PLACE | 
 war against Egypt (96:3.5)
 
-license | | liberty: false liberty | | 
+license | | liberty:false liberty | | 
 enjoy liberty without (48:7.8) (89:3.7)
 forerunner of bondage (54:1.5)
 
@@ -527,7 +528,7 @@ biological
 existence
 	6 essentials (160:4.2-8)
 	animation of pattern-configured energy (36:6.6)
-	bread of life | bread: bread of life
+	bread of life | bread:bread of life
 	comes into being by action of Universal Mind (130:4.7)
 	domain characterized by numbers 3, 7, and 12 (36:2.11)
 	essence is spirit (42:1.1)
@@ -563,7 +564,7 @@ mortal life
 	long lifespan of early descendants of Prince’s staff; Adamites (76:4.3) (77:2.10)
 	major life problems are earning a living, surviving (160:4.1)
 	not what we learn, but the experience of living (39:4.13)
-	of Jesus | Jesus: life of
+	of Jesus | Jesus:life of
 	our real life begins after mortal life (112:0.1)
 	primitive Urantians struggled for existence (86:1.2)
 	purpose of l | goals
@@ -575,7 +576,7 @@ mortal life
 	uncertain (49:6.11)
 	victorious life born of faith that challenges limitations (4:4.9)
 
-Life Carrier worlds | | | PLACE | 
+Life Carrier worlds; worlds of the Life Carriers | | | PLACE | 
 4th Salvington circuit (36:2)
 central emplacement of adjutant mind-spirits on (36:2.10)
 
@@ -749,7 +750,7 @@ individual planet or mortal never retarded by status of larger unit (55:0.12) (5
 Jesus achieved light and life on Urantia (55:11.7)
 mortal life in light and life (55:5-6)
 	acme of material development (55:5)
-	daily work to sustain oneself is 1 hour ((52:4.5)) (52:7.6)
+	daily work to sustain oneself is 1 hour (52:4.5) (52:7.6)
 	descent of morontia temple signalizes inauguration of (40:3.1) (55:1)
 	description of life on planets in (118:10.14-18)
 	divisions of mankind largely effaced (70:8.1)
@@ -835,7 +836,7 @@ international exchange of literature contributes to brotherhood (52:6.4)
 lithographic stone | (60:2.6) | | | 
 
 littleness | | | | 
-Jesus does not look down upon (139:9.8)
+Jesus does not look down upon (139:10.8)
 
 liver | | | | 
 some ancients believed soul resided in (86:5.15)
@@ -1022,7 +1023,7 @@ ambassadors represent (33:6.4)
 angels of local universes are seraphim, cherubim, and midwayers (26:1.14)
 basic creative units of superuniverses (21:2.1)
 Bright and Morning Stars are chief executives of (21:2.11) (32:2.6) (33:0.1)
-circuits of local universes | local systems: life circuits
+circuits of local universes | local systems:life circuits
 	archangels’ circuit q.v.
 	energy circuits and power lanes bind together (41:1.1)
 	energy directionized from superuniverse capitals (15:8.1)
@@ -1311,7 +1312,7 @@ is
 Lanaforge was successor to (53:7.12)
 last present on Urantia for assault on Jesus (53:8.1) (53:9.2)
 man not child of evil one (148:4.2,6)
-manifesto | Lucifer rebellion: Lucifer manifesto
+manifesto | Lucifer rebellion:Lucifer manifesto
 no local universe tribunal existed to detain Lucifer (53:7.14)
 original sovereignty of Urantia held in trust by (114:1.1)
 patiently warned regarding pride, critical tendencies (66:8.2)
@@ -1453,7 +1454,7 @@ lunatics | | insanity | |
 lungs | | | | 
 arthropods’ swim bladders evolved into (59:5.5)
 
-lust | | flesh; sex: urge | | 
+lust | | flesh; sex:urge | | 
 adultery in the heart (140:6.5)
 
 Lut | | Caligastia one hundred | PERSON | 

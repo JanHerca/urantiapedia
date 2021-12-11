@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     T
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     T
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 Taanach | | | PERSON | 
 Deborah and Barak defeated Sisera at (126:1.2)
@@ -16,7 +17,7 @@ acknowledgment to chief of Urantia Adjusters (108:3.5-6)
 agondonter of finaliter status (50:7.2)
 veteran finaliter; sovereign supervisor of Nebadon decimal planets (49:5.12) (73:0.3) (108:3.5)
 
-tabernacles, feast of | | Judaism: feasts | | 
+tabernacles, feast of | | Judaism:feasts | | 
 
 taboos | (89:1) | | | 
 7 commandments of Dalamatia and Eden were (89:1.4)
@@ -120,7 +121,7 @@ Matthew Levi was a (138:3.1,4) (181:2.14)
 Peter paid (157:1)
 Zaccheus was a (171:6.1)
 
-taxation | | government: principles of government; tax collectors; taxpayers | | 
+taxation | | government:principles of government; tax collectors; taxpayers | | 
 avoid enslavement of citizenry by state (70:12.15)
 citizenry must control (71:8.6)
 excessive taxation interferes with individual liberties (134:6.10)
@@ -168,7 +169,7 @@ supreme seraphim; secretaries to all teachers, even mortals (39:1.13-14)
 
 teamwork | | co-operation | | 
 
-tears | | Jesus: events in life: wept | | 
+tears | | Jesus:events in life | | 
 brothel keeper anointed Jesus’ feet with (147:5.3)
 God shall wipe away (27:1.5)
 
@@ -267,7 +268,7 @@ temples on Urantia
 value of beauty leading up to worship (167:6.5-6)
 virgins dedicated themselves to tending fires in (89:8.1)
 
-temptation | | flesh; sex: urge; sin | | 
+temptation | | flesh; sex:urge; sin | | 
 cannot surmount temptation through mere human will (156:5.5)
 Jesus’ great temptations
 	offer to found school in Damascus (128:4.1-4)
@@ -288,7 +289,7 @@ recorded by Ganid (131:2.12)
 ten virgins | | | | 
 parable by Selta (176:2.8)
 
-tenderness | | | | 
+tenderness; kindness | | | | 
 evidence that man is indwelt by God (26:11.5)
 great error to teach boys it is unmanly to show (140:5.16)
 indiscriminate kindness causes many social evils (140:8.13)
@@ -336,7 +337,7 @@ great test is to refuse to use power selfishly (136:8.6)
 Jesus’ measurement of religion and society (126:2.5)
 
 Thaddeus | (179:2.2) | | PERSON | 
-James Alpheus also called (139:9.5)
+James Alpheus also called (139:10.5)
 
 Thailand | | Siam | PLACE | 
 
@@ -544,7 +545,7 @@ spoke
 	in Gethsemane (174:5.10)
 	on Mount Hermon (136:5.3-4)
 
-Thought Adjusters | (107) (108) (109) (110) (111) (112) | ascending mortals; Divinington; fusion: Adjuster fusion; Personalized Adjusters; Thought Adjuster of Jesus | ORDER | 
+Thought Adjusters | (107) (108) (109) (110) (111) (112) | ascending mortals; Divinington; fusion:Adjuster fusion; Personalized Adjusters; Thought Adjuster of Jesus | ORDER | 
 administered directly from Divinington (108:3.1)
 arrival (108:1-2)
 	Adjuster has full data respecting candidate prior to volunteering (108:1.2-7)
@@ -568,7 +569,7 @@ communicate with Father by prepersonal circuits; spirit-gravity
 circuits (5:3.2) (15:9.6)
 divine presence most fully discovered in communion with (5:2.3-4)
 do not leave during transit sleeps between mansion worlds (47:4.4)
-fusion with (112:7) | fusion: Adjuster fusion
+fusion with (112:7) | fusion:Adjuster fusion
 great days in individual careers (110:6.22)
 historically
 	Adjuster of human being through whom Urantia Papers given (110:5.7)
@@ -851,7 +852,7 @@ Thracians believed in immortality (92:6.1)
 
 three | | 3 | | 
 
-three-brained mortals | (49:5.13-18) | brains; mortals: planetary types | | 
+three-brained mortals | (49:5.13-18) | brains; mortals:planetary types | | 
 
 three concentric circles | | concentric circles, three | | 
 
@@ -1060,7 +1061,7 @@ show tolerance in living with stubborn associates (156:5.18)
 tom-toms | | | | 
 once universal (90:4.6)
 
-tombs | | Jesus: events in life | | 
+tombs | | Jesus:events in life | | 
 custom to bury man’s belongings with him (69:9.4)
 delight in building tombs for the prophets (166:1.5)
 of Hiram (156:4.1)
@@ -1102,7 +1103,7 @@ symbols of group and their god (88:3.2)
 
 tower of Babel | | Babel | PLACE | 
 
-traditions | | ceremonies; cults; Judaism: oral law; mores | | 
+traditions | | ceremonies; cults; Judaism:oral law; mores | | 
 compelling force of (51:6.5)
 custom establishes institutions of survival (69:1.3)
 Jesus disregarded superstitious traditions (149:2.10)
@@ -1132,13 +1133,13 @@ God the Ultimate manifest to universes of time (118:2.4)
 
 transcendental energy | | tranosta | | 
 
-transcendental level | | reality: levels of reality: absonite reality | | 
+transcendental level | | reality:levels of reality | | 
 
 Transcendental Recorders | | | ORDER | 
 personal gravity traversers; not available to local universe administrators (23:3.2)
 without discoverable form (42:12.10)
 
-Transcendentalers | | reality: levels of reality: absonite reality | | 
+Transcendentalers | | reality:levels of reality | | 
 1000 groups of supercitizens of Paradise (31:8.1-4)
 also known as absoniters (0:1.12) (55:4.7,19)
 attached to Corps of Mortal Finaliters (31:8)
@@ -1160,7 +1161,7 @@ subject to God the Ultimate (31:8.3)
 
 transcription, celestial | | records | | 
 
-transfiguration | | Jesus: events in life | | 
+transfiguration | | Jesus:events in life | | 
 
 transformation | | spiritual growth; spiritual rebirth | | 
 by Spirit of Truth (143:2.4)
@@ -1169,7 +1170,7 @@ service is byproduct of spiritual transformation (178:1.11)
 
 transformers | | energy transformers | ORDER | 
 
-transit sleep | | rest: transition rest; seraphic, secoraphic, and superaphic transport | | 
+transit sleep | | rest:transition rest; seraphic, secoraphic, and superaphic transport | | 
 
 transit trio | | | | 
 assist Havona pilgrims (26:9.2)
@@ -1198,13 +1199,13 @@ orders of assignment (39:6.1) (48:6.4-37)
 	# ministering reserves q.v.
 residence in Jerusem circles (46:5.22)
 
-transition rest | | rest: transition rest | | 
+transition rest | | rest:transition rest | | 
 
 transition world #1 | | finaliters’ world | PLACE | 
 
 transitional culture worlds | | Jerusem | PLACE | 
 
-translation | (112:7.3) | fusion: Adjuster fusion; language; rest: transition rest | | 
+translation | (112:7.3) | fusion:Adjuster fusion; language; rest:transition rest | | 
 archangel supervises translation in morontia temple (55:2.7)
 defined as
 	Son seizure from among the living (49:6.18-21) (55:2.9)
@@ -1227,7 +1228,7 @@ spiritual flames instantly consume material body (55:1.5) (55:2.4-5) (110:7.2)
 translated mortals exempt from passing through education of
 mansion worlds, system, or constellation (55:2.8-9)
 
-translation sleep | | rest: transition rest | | 
+translation sleep | | rest:transition rest | | 
 morontia progressors enter translation sleep between mansion worlds (47:3.10)
 
 translators | | | ORDER | 
@@ -1323,7 +1324,7 @@ tribes | (70:4) | clans; races | RACE |
 often subverted sovereignty of territorial state (134:5.8)
 war chiefs established father line (70:4.10)
 originally a loose confederation of clans (70:4.9)
-tribes and racial groups named | aborigines (Australian); aborigines (Indian); Adamites; Adamsonites; Amadonites; Ammonites; Amorites; Andites; Andonites; Anglo-Saxons; Arabs; Aryans; Assyria; Babylonians; Badonan tribes; Baganda tribes; Basques; Bedouins; Berbers; Blackfoot Indians; blue race; Borneans; Bretons; brown race; Bushmen; Calebites; Canaanites; Caucasians; Chaldeans; Cro-Magnons; Cuthites; Cutites; Danubians; Dravidians; Dyaks; Edenites; Edomites; Elamites; Eskimos; Ezraeon; Finns; Foxhall peoples; Gad; Gibeonites; Gileadites; Greeks; green race; Guites; Hamathites; Heidelberg race; Hittites; Incas; India: racial groups; indigo race; Iroquois; Jebusites; Jews; Kateri; Kenites; Levites; Malaysia; Melanesians; Mesopotamia; Midianites; Moabites; Mongoloids; Moqui tribe; Neanderthalers; Negroids; Nerites; Nodites; orange race; Parsees; Patagonians; Persians; Philistines; Phoenicians; Polynesia; Pygmies; red race; Romans; Ruben; Saharans; Samaritans; Sangiks; Scandinavians; Semites; Sepharvites; Sethites; Siberia; Suites; Sumerians; Suntites; Thrace; Toda tribe; Turanians; Vanites; white race; yellow race; Zulus
+tribes and racial groups named | aborigines (Australian); aborigines (Indian); Adamites; Adamsonites; Amadonites; Ammonites; Amorites; Andites; Andonites; Anglo-Saxons; Arabs; Aryans; Assyria; Babylonians; Badonan tribes; Baganda tribes; Basques; Bedouins; Berbers; Blackfoot Indians; blue race; Borneans; Bretons; brown race; Bushmen; Calebites; Canaanites; Caucasians; Chaldeans; Cro-Magnons; Cuthites; Cutites; Danubians; Dravidians; Dyaks; Edenites; Edomites; Elamites; Eskimos; Ezraeon; Finns; Foxhall peoples; Gad; Gibeonites; Gileadites; Greeks; green race; Guites; Hamathites; Heidelberg race; Hittites; Incas; India:racial groups; indigo race; Iroquois; Jebusites; Jews; Kateri; Kenites; Levites; Malaysia; Melanesians; Mesopotamia; Midianites; Moabites; Mongoloids; Moqui tribe; Neanderthalers; Negroids; Nerites; Nodites; orange race; Parsees; Patagonians; Persians; Philistines; Phoenicians; Polynesia; Pygmies; red race; Romans; Ruben; Saharans; Samaritans; Sangiks; Scandinavians; Semites; Sepharvites; Sethites; Siberia; Suites; Sumerians; Suntites; Thrace; Toda tribe; Turanians; Vanites; white race; yellow race; Zulus
 
 tribute money | | | | 
 render to Caesar (174:2.2)
@@ -1422,7 +1423,7 @@ none have ever gone astray (22:1.13) (53:7.4)
 serve as Most High Assistants (37:4.2)
 serve on commissions approving Havona pilgrims circuit advancement (26:7.3)
 types
-	* A. Deity-trinitized Sons (unrevealed) (22:0)
+	* A. Deity-trinitized Sons, unrevealed (22:0)
 	* B. Trinity-embraced Sons (22:0.1-5) (22:1)
 	*# Trinitized Sons of Attainment q.v.
 	*#* Mighty Messengers q.v.
@@ -1592,10 +1593,10 @@ growth of Supremacy derives from (115:4.7) (115:6)
 infinity is transmitively associated in (115:2.1)
 non-Father triune relationships (104:5)
 Supreme is channel through which creative infinity of triodities flows (115:6) (117:3.2)
-triodities of actuality | Absolutes: of actuality
+triodities of actuality | Absolutes:of actuality
 	comprised of Eternal Son, Infinite Spirit, and Paradise (104:5.2) (115:3.14)
 	existents of cosmos center in (115:3.14)
-triodities of potentiality | Absolutes: the three
+triodities of potentiality | Absolutes:the three
 	comprised of Deity Absolute, Universal Absolute, Unqualified Absolute (0:11.4-14) (104:5.7) (115:3.8)
 	integrates all latent energy reality (104:5.11)
 
@@ -1880,7 +1881,7 @@ two-and-two | | | |
 70 evangelists sent out (160:2.7) (163:1.3) (181:2.12)
 apostles sent out (138:1.1) (193:3.2)
 
-two-brained mortals | (49:5.13-18) | brains; mortals: planetary types | | 
+two-brained mortals | (49:5.13-18) | brains; mortals:planetary types | | 
 
 two sons | | | | 
 parable of (173:3)

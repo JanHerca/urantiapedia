@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     M
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     M
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 Macad | (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
@@ -14,7 +15,7 @@ Una de las poblaciones recorridas en la misisón de Perea
 Macabeo (Judas) | | Judas Macabeo | PERSON | 
 
 Macabeos | | Judas Macabeo | | 
-antepasados ​​de María madre de Jesús identificados con (122:5.10)
+antepasados de María madre de Jesús identificados con (122:5.10)
 Palacio asmoneo de los Macabeos (125:1.5) (128:3.5) (185:4.1)
 Los esenios se originaron durante la revuelta de (137:7.8)
 El cuarto libro de los Macabeos ejemplifica el estoicismo (121:6.3)
@@ -1326,7 +1327,7 @@ geología (59:3.6) (60:1.12) (60:2.7) (61:1.12) (61:3.8) (61:4.2) (62:1.2) (64:1
 comercio de tierras casi suspendido durante las invasiones nómadas hacia el 2500 a.C.; comercio marítimo en pleno apogeo (80:9.9)
 Sede de Onagar (63:6.7)
 protegido por el istmo de Gibraltar y el puente terrestre de Sicilia en los primeros días de la raza violeta; inundaciones tras su colapso (80:1.1) (80:2.4-5)
-raza de | raza blanca:divisiones:sur
+raza de | raza blanca:divisiones
 
 mar Mediterráneo | | región mediterránea | PLACE | 
 El Mar Negro una vez fue una extensión de (64:4.10)
@@ -1833,7 +1834,7 @@ donaciones | Hijos Creadores:donaciones de criaturas; Hijos Paradisíacos de Dio
 			para completar la experiencia requerida; subordinarse a la voluntad del Padre (120:0.4) (189:1.10)
 			ganar experiencia en las criaturas, la soberanía del universo, resolver la rebelión de Lucifer, revelar a Dios, llevar a los hombres a ser conscientes del hijo (120) (120:4.4) (128:0.2-4) (128:1.1) (128:7.6) (129:3.5-8) (129:4.7) (185:3.4) (189:1.10) (193:0.3)
 		El Hijo de Dios se hizo Hijo del Hombre (13:1.8)
-		Verbo hecho carne (20:5.1) | Jesús:personalidad y naturaleza:Dios encarnado en el hombre
+		Verbo hecho carne (20:5.1) | Jesús:personalidad y naturaleza
 	comenzó hace mil millones de años; ocurrió a intervalos de 150 millones de años (119:0.7) (119:8.2)
 	podría gobernar como representante de la Trinidad solo después de los 7 donaciones, adquiriendo así la soberanía suprema (21:3) (120:0.4)
 	creó la posibilidad de soberanía del Supremo en Nebadon (119:8.5-7)
@@ -1954,7 +1955,7 @@ clasificación (38:9.1)
 estado futuro
 	finalitarios (31:6) (40:3.1)
 	recibir Ajustadores y comenzar el ascenso al Paraíso en luz y vida (30:1.53) (55:3.17) (55:4.5,6,23) (77:9.4)
-	Asesores Técnicos (miembros temporales) (25:4.2,11-12)
+	Asesores Técnicos, miembros temporales (25:4.2,11-12)
 	Custodios trinitizados (22:5.2)
 	Hijos de la Elección Trinitizados (22:1.11)
 Los Servitales de Havona son como intermedios en Havona (25:1.1)
@@ -2233,10 +2234,10 @@ tipos de mente
 		individualiza la forma morontial para los supervivientes (42:12.11)
 	mente mortal
 	órdenes no morontiales (42:10.5)
-	Niveles mentales que no se pueden enseñar (mente pre-ayudante)
+	Niveles mentales que no se pueden enseñar, mente pre-ayudante
 		contactado por ayudante mente-espíritu de intuición (36:5.6)
 		dominio de los Controladores Físicos Maestros y los Centros Supremos del Poder (9:5.3) (29:2.9) (36:5.14-15) (41:2.6) (42:10.3) (65:0.6) (65:7.5)
-	Mente del Paraíso | mente:tipos de mente:mente absoluta
+	Mente del Paraíso | mente:tipos de mente
 	espíritu mente del Hijo Eterno (6:6)
 
 Manipuladores de la Energía mental; manipuladores de la energía mental | | | ORDER | 
@@ -2516,7 +2517,7 @@ raza compuesta por sangiks rojos, amarillos y azules (81:4.12)
 monos | | simios | | 
 apariencia (61:1.9) (61:3.12) (61:4.4)
 se convirtieron en animales fetiche (88:1.5)
-los mamíferos intermedios retrasados ​​eran antepasados ​​de (62:3.12)
+los mamíferos intermedios retrasados eran antepasados de los monos (62:3.12)
 
 Monmatia | (57:5) | Sol (de Urantia) | PLACE | 
 3 planetas de Angona tenían movimiento retrógrado, como Venus y Urano (57:5.13-14)
@@ -2533,7 +2534,7 @@ El sistema solar de Urantia (57:2.1) (57:5)
 
 monogamia | | matrimonio | | 
 
-monota | | realidad:niveles de realidad:realidad absoluta | | 
+monota | | realidad:niveles de realidad | | 
 indistinguible del espíritu excepto por el nombre (116:6.7)
 energía viviente no espiritual del Paraíso (42:2.19)
 revela realidades no espirituales de la Primera Fuente; absoluto (42:10.1)
@@ -2632,7 +2633,7 @@ origen de las costumbres siempre inconsciente y no intencional (68:4.2)
 El personal del Príncipe no impuso las costumbres sobre tribus (66:6.5)
 freno de seguridad contra un avance demasiado rápido (68:4.5-6)
 
-morontia | (48) | mundos de las mansiones; mente:tipos de mente:mente morontial; progresores morontiales; mundos morontiales | | 
+morontia | (48) | mundos de las mansiones; mente:tipos de mente; progresores morontiales; mundos morontiales | | 
 el arte es mortal morontia (195:7.15-16)
 los seres celestiales permitieron a los humanos ver al Jesús morontial (189:4.11)
 criaturas de morontia respirar gas morontial (43:1.3)
@@ -2645,7 +2646,7 @@ definido como
 las formas pueden volverse indiferentes a la materia ordinaria o contactables (189:2.3-4)
 el bien que hacemos aquí contribuye directamente a la vida morontial (103:5.7)
 invisible a la visión humana (44:3.2)
-Jesús en morontia | Jesús:eventos en la vida:apariciones morontiales
+Jesús en morontia | Jesús:eventos en la vida
 conocido desde los primeros días del Príncipe Planetario (48:1.1)
 vida en morontia implica un contacto real con energías reales (48:6.29)
 la vida morontial iniciada en la concepción del alma (48:6.2)
@@ -2699,7 +2700,7 @@ enseñar mota a los progresores morontiales (48:6.27-28)
 
 vida morontial | | morontia | | 
 
-mente morontial | | mente:tipos de mente:mente morontial | | 
+mente morontial | | mente:tipos de mente | | 
 
 mota morontia | | mota | | 
 
@@ -2847,7 +2848,7 @@ naturaleza de la mente mortal
 	correlaciona las experiencias humanas internas y externas (103:6.6)
 	telar cósmico en el que el Ajustador enhebra patrones espirituales (111:1.1) (111:2.2)
 	Dotación de la mente cósmica de reconocimiento innato de cosas, significados y valores (16:6.4-11) (16:9.1) (103:7.11-13)
-	anhela (erróneamente) abordar la cosmología de lo simple a lo complejo (19:1.5-12)
+	anhela, erróneamente, abordar la cosmología de lo simple a lo complejo (19:1.5-12)
 	no soporta bien el conflicto de doble lealtad (133:7.12)
 	morada del espíritu de Dios (160:4.9)
 	Dotado del Espíritu Santo tiene la capacidad de elegir Ajustador (34:5.4)
@@ -2859,7 +2860,7 @@ naturaleza de la mente mortal
 	identidad (12:8.16)
 	incapaz de captar el significado de las actividades semispirituales (44:0.20) (44:1.1,14-15)
 	circuito individualizado de la mente cósmica (9:5.4)
-	limitaciones (0:3.20,23) (0:10.1) (2:0.3) (3:2.7,10) (3:3.5) (3:4.5-6) ​​(4:3.6) (5:5.6) (6:8.8) (8:1.10) (11:0.2) (12:7.2) (14:0.1) (14:3.8) (30:1.113) (31:8.2) (56:0.2) (105:0.3) (105:1.2,5) (106:0.12) (106:6.6) (106:8.2) (106:9.2,5-7) (115:3.1-4) (116:2.3)
+	limitaciones (0:3.20,23) (0:10.1) (2:0.3) (3:2.7,10) (3:3.5) (3:4.5-6) (4:3.6) (5:5.6) (6:8.8) (8:1.10) (11:0.2) (12:7.2) (14:0.1) (14:3.8) (30:1.113) (31:8.2) (56:0.2) (105:0.3) (105:1.2,5) (106:0.12) (106:6.6) (106:8.2) (106:9.2,5-7) (115:3.1-4) (116:2.3)
 	relación viva de mente y espíritu personal (12:9.6)
 	prestado para su uso durante la vida útil del material (111:1.5)
 	pierde la respuesta de gravedad en proporción a la identificación del espíritu (12:8.5) (42:11.4)
@@ -3345,7 +3346,7 @@ monte Líbano | (155:4.1) | | PLACE |
 
 monte Olivete | | monte de los Olivos | PLACE | 
 
-monte de la transfiguración | | monte Hermón | PLACE | 
+monte de la transfiguración | | Jesús:eventos en la vida de Jesús; monte Hermón | PLACE | 
 
 monte de los Olivos | (127:3.5) (164:2.3) (171:8.1) (174:0.3) (182:1.2) | | PLACE | 
 Getsemaní en (142:8.4)

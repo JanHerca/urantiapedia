@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     A
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     A
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 A-B-C the First; A-B-C the first | (77:8.2) | | PERSON | 
 secondary midwayer (77:6.4)
@@ -157,7 +158,7 @@ Absalom | | | PERSON |
 demagogue; mother was Canaanite (97:9.15)
 > https://en.wikipedia.org/wiki/Absalom
 
-absent landlord (parable) | | Jesus: parables of Jesus | |
+absent landlord (parable) | | Jesus:parables of Jesus | |
 parable of Jesus (173:4)
 
 absoluta | | | |
@@ -178,7 +179,7 @@ flows into and out of nether Paradise (11:1.4) (11:5.1,4,5) (12:8.2) (15:4.1)
 follows paths of less resistance to motion (11:7.8) (15:4.1)
 form unknown on Urantia (58:3.1)
 matter for making untold universes circulates in supergravity presence of (12:8.2)
-nonresponsive to Paradise gravity or any form of gravitation (0:6.5) ((11:5.5)) (11:8.8) (15:4.1)
+nonresponsive to Paradise gravity or any form of gravitation (0:6.5) (11:5.5) (11:8.8) (15:4.1)
 Paradise origin (15:4.1)
 passage of energy particles through absoluta creates wave appearance (42:5.14-15)
 permeates all space; factor in atomic cohesion (42:8.1-2)
@@ -195,13 +196,13 @@ in infinity and existentially, there is one the Absolute (56:9.1) (106:8.17)
 science suggests existence of (101:2.7)
 term never used as negation (0:11.16)
 
-Absolute Buddha | | Buddhism: doctrines | |
+Absolute Buddha | | Buddhism:doctrines | |
 
 Absolute Deity | | Deity Absolute | PERSON |
 
-absolute level | | reality: levels of reality: absolute reality | |
+absolute level | | reality:levels of reality | |
 
-absolute mind (mind) | | mind: types of mind | |
+absolute mind (mind) | | mind:types of mind | |
 
 Absolute Mind (person) | | Infinite Spirit | PERSON |
 
@@ -213,7 +214,7 @@ of actuality
 	existents of cosmos center in (115:3.14)
 	that which was and is (115:3.11)
 	triodity of actuality (115:3.7)
-of potentiality | Absolutes: the three
+of potentiality | Absolutes:the three
 the seven Absolutes (105:3)
 	Absolutes of Infinity (56:4.2)
 	encompass circle of infinity (104:3.13)
@@ -247,13 +248,13 @@ absolutum | | | |
 substance of Paradise; nonspiritual expression of Father (11:2.9)
 stationary homogeneous organization of space potency not found outside Paradise (11:2.9)
 
-absonite level | | reality: levels of reality | |
+absonite level | | reality:levels of reality | |
 
 absoniters | | Transcendentalers | ORDER |
 
-absonites | | reality: levels of reality | |
+absonites | | reality:levels of reality | |
 
-absonity | | reality: levels of reality | |
+absonity | | reality:levels of reality | |
 absonitized beings (30:1.114) (31:2.1)
 God the Ultimate may endow midsoniters with spirit of (36:4.8)
 limit reached in 28,012th Master Architect (31:9.10)
@@ -321,7 +322,7 @@ real test of Havona (26:5.5)
 recognition indicative of achievement granted to all (20:8.3)
 self element exhausts, not effort toward (48:6.37)
 sometimes ignorance is essential to (13:1.6) (39:5.9) (138:7.1)
-teamwork | groups: value of
+teamwork | groups:value of
 	accomplish more permanent things by working with brethren (181:2.22)
 	depends on wisdom, charm that wins co-operation (160:1.9)
 	partnership technique quadruples possibilities (43:8.11)
@@ -374,7 +375,7 @@ Augustus’s victory at battle of (133:2.5)
 actors | | | |
 heavenly reproducers, celestial artisans are (44:2.6-10)
 
-Acts, Book of | | | |
+Acts, Book of; Acts of the Apostles | | | |
 written by Luke (121:8.8-9)
 
 acts of God | | | |
@@ -383,7 +384,7 @@ inexplicable things termed (85:0.4)
 actual | | | |
 actual versus potential phases of reality (0:4.7)
 
-Actual | | Absolutes: of actuality | PERSON |
+Actual | | Absolutes:of actuality | PERSON |
 
 Adam | (74) (75) (165:0.1) | Eve; Garden of Eden; Material Sons | PERSON |
 He and his wife Eve were the Material Sons of Jerusem that started the adamic race in Urantia
@@ -464,7 +465,7 @@ physical nature of Adam and Eve
 	8 feet tall; bodies shimmered (74:1.1) (74:6.5)
 	able to see midwayers, angels, Melchizedeks, Caligastia (76:4.5)
 	imbibed light and energy from space (74:6.4) (76:4.3)
-	circulatory system from physical nature and tree of life (75:6.1,6) (75:7.6)
+	circulatory system from physical nature and tree of life (75:7.6)
 	never ate meat in regular diet; no cooking in household (74:6.3-4) (76:3.7) (76:4.4)
 	did not take milk from animals (74:6.3)
 teachings about Adam and Eve
@@ -568,7 +569,7 @@ Adjuster-expression | | Thought Adjusters | |
 
 Adjuster-fused mortals | | ascending mortals | ORDER |
 
-Adjuster fusion | | fusion: Adjuster fusion | |
+Adjuster fusion | | fusion:Adjuster fusion | |
 
 adjutant mind-spirits | (34:4.10) (36:5) (42:10.4) (65:7) | | ORDER | 
 1 – Intuition (34:4.10)
@@ -718,7 +719,7 @@ Prince’s staff never sent emissaries except upon request (66:6.5)
 
 advisers regarding conquest of predatory animals | | Caligastia one hundred | |
 
-Advisory Commission on Ethics and Self-government | | | |
+Advisory Commission on Ethics and Self-government; Advisory Commission of Interuniverse Ethics and Self-government | | | |
 reserves of Faithfuls of Days function as (18:7.1)
 
 aesthetics | | | |
@@ -828,11 +829,11 @@ Alexander (brother of Philo) | | | PERSON |
 Jewish banker (130:3.9)
 > https://en.wikipedia.org/wiki/Alexander_the_Alabarch
 
-Alexander of Cyrene | | | PERSON |
+Alexander of Cyrene; Alexander | | | PERSON |
 effective teacher of gospel; son of Simon of Cyrene (187:1.10)
 > https://en.wikipedia.org/wiki/Simon_of_Cyrene
 
-Alexander the Great | | | PERSON |
+Alexander the Great; Alexander | | | PERSON |
 Acts of Alexander
 	* campaign into Punjab (79:4.3)
 	* royal mausoleum of (130:3.4)
@@ -891,16 +892,16 @@ James and Judas Alpheus or Alpheus twins were two apostles of Jesus
 mother Mary, father Alpheus (138:4.1) (189:4.4) (190:3.1)
 James Alpheus
 	fisherman, farmer of Kheresa, selected by James (138:2.6)
-	married with 3 children; also called Thaddeus (139:9.1,5)
+	married with 3 children; also called Thaddeus (139:10.1,5)
 Judas Alpheus
 	fisherman of Kheresa, selected by John Zebedee (138:2.7)
-	married with 2 children; also called Lebbeus (139:9.1,5)
-	questions of (139:9.10) (180:4.4-6)
+	married with 2 children; also called Lebbeus (139:10.1,5)
+	questions of (139:10.10) (180:4.4-6)
 Time with Jesus
 	call of (138:4)
 	assigned to manage the multitudes (138:10.8) (141:3.2)
-	fishermen from Kheresa; age 26 in A.D. 26 (139:9.1)
-	good-natured, simple-minded; servants of apostles (139:9.3-8)
+	fishermen from Kheresa; age 26 in A.D. 26 (139:10.1)
+	good-natured, simple-minded; servants of apostles (139:10.3-8)
 	asleep by the fire (140:6.14)
 	blissfully ignorant of controversy (144:1.7)
 	attempted to dissuade Norana (156:1.3)
@@ -915,7 +916,7 @@ After Jesus death
 > https://en.wikipedia.org/wiki/James_the_Less
 > https://en.wikipedia.org/wiki/Jude_the_Apostle
 
-Alpine race | | white race: divisions: central | RACE |
+Alpine race | | white race:divisions | RACE |
 
 Alps | (60:1.4) (61:1.12-13) (61:7.3) | | PLACE| 
 Heidelberg migration to (64:2.3)
@@ -1040,7 +1041,7 @@ depiction of birth at Luxor (111:0.5)
 
 Amerinds | | red race | RACE |
 
-Amida Buddha | | Buddhism: types | |
+Amida Buddha | | Buddhism:types | |
 
 Amidist; Amidists | | Amida Buddha | |
 believer in Amida Buddha (94:12.3)
@@ -1059,7 +1060,7 @@ Amorites | | | RACE |
 backward clans who were committing suicide (93:6.2)
 Chemosh was god of (96:1.14)
 
-Amos (brother of Jesus) | | Jesus: family | PERSON |
+Amos (brother of Jesus) | | Jesus:family | PERSON |
 born Jan. 9, A.D. 7; died Dec. 3, A.D. 12 (124:5.2) (127:3.13)
 Jesus got along well with (124:4.3)
 
@@ -1266,7 +1267,7 @@ death and present
 	never returned to Urantia; sought to send greetings (63:7.1-3)
 	welcome pilgrims on 1st mansion world (63:7.3)
 
-Andonites | (63:4) | mortals: primitive mortals | RACE |
+Andonites | (63:4) | mortals:primitive mortals | RACE |
 better Primate strains assimilated by (65:3.4)
 Hebrew language was distinctly Andonite (80:8.2)
 Hittites stemmed directly from (80:8.2)
@@ -1392,11 +1393,11 @@ Angamon | | | PERSON |
 introduced rich man to Jesus (132:5.1)
 Stoic leader in Rome; Jesus’ talk with (132:1)
 
-Angelic World | | Jerusem: transitional culture worlds | PLACE |
+Angelic World | | Jerusem:transitional culture worlds | PLACE |
 transitional culture world #3 (45:1.5)
 permission to visit transitional world #3 (47:5.2)
 
-angels | (26:1) | Infinite Spirit: family of | ORDER |
+angels | (26:1) | Infinite Spirit:family of | ORDER |
 all groups of angels have own transport corps (39:2.8)
 cf: term angel restricted to seraphim serving mortals (38:3.1)
 chief supernaphim is original pattern angel (27:2.1)
@@ -1433,7 +1434,7 @@ wrath of God
 
 angiosperms | (61:2.2) (60:3.7,19) | | | 
 
-Anglo-Saxons | | | RACE |
+Anglo-Saxons; Anglo-Saxon | | | RACE |
 descendants of Andite and blue races (80:4.5)
 
 Angona | | | PLACE |
@@ -1485,7 +1486,7 @@ primitive tribes believed they were descendants of (74:8.5)
 primitives diagnosed disease by examining entrails of (90:4.3)
 Prince’s staff taught protection against predatory (66:5.4-8)
 radically different on nonbreathing worlds (49:3.5)
-sacrificial | sacrifice: animal sacrifice
+sacrificial | sacrifice:animal sacrifice
 spornagia utilize animals in culture of soil (46:7.2)
 sudden appearance of land (59:5.5)
 thousands of marine species perished in Permian (59:6.2)
@@ -1661,7 +1662,7 @@ organization
 	Thomas managed itinerary (139:8.5)
 	Matthew was fund-raiser (139:7.2)
 	Simon in charge of diversion and relaxation (139:11.2)
-	Alpheus twins were errand-boys; managed multitudes (139:9.3)
+	Alpheus twins were errand-boys; managed multitudes (139:10.3)
 	Judas Iscariot was treasurer (139:12.3)
 	Matthias chosen to take place of Judas (192:0.2)
 life with Jesus
@@ -2029,7 +2030,7 @@ Sumerian language had much in common with Aryan (77:4.7)
 
 ascender-trinitized sons | | creature-trinitized sons; trinitization | |
 
-ascending mortals | | fusion: Adjuster fusion; mortals | ORDER |
+ascending mortals | | fusion:Adjuster fusion; mortals | ORDER |
 6 stages of spirit existence; postulated 7th stage (31:3.3-6) (106:2.8) (117:5.3)
 7 career stages (30:4)
 7 jubilees of ascension career (27:7.8)
@@ -2054,7 +2055,7 @@ may become
 	evangels of destiny (35:3.21)
 	finaliters (31)
 	Mighty Messengers (15:10.12) (22:2)
-	Technical Advisers (temporary members) (25:4.2,11-12)
+	Technical Advisers, temporary members (25:4.2,11-12)
 	Those High in Authority (15:10.12) (22:3)
 	Those without Name or Number (15:10.12) (22:4)
 may someday attain God as absolute (107:1.6)
@@ -2095,7 +2096,7 @@ trained to limits of capacity (31:3.7-8)
 ascending pilgrims | | ascending mortals | ORDER |
 surviving mortals accredited for Paradise ascent (30:3.1)
 
-ascending sons of God | | Sons of God: orders | ORDER |
+ascending sons of God | | Sons of God:orders | ORDER |
 
 Ascendington | (13:1.21-23) | sacred spheres of Paradise | PLACE |
 bosom of Father, Son, and Spirit (13:1.21) (13:2.4)
@@ -2182,7 +2183,7 @@ Asoka | | | PERSON |
 low-caste monarch who espoused Buddhism; sent forth 17,000 missionaries (94:9.1)
 > https://en.wikipedia.org/wiki/Ashoka
 
-assassination | | death penalty | |
+assassination; murder | | death penalty | |
 ancient rich men distributed fortunes from fear of assassination (69:5.14)
 early kings restrained by ever-present fear of assassination (70:6.6)
 Cain slew Abel (76:2.5)
@@ -2236,7 +2237,7 @@ associate registrars | | | ORDER |
 in Uversa personality register (30:2.115)
 Morontia Power Supervisors; recorders (48:2.25)
 
-Associate Transcendental Master Force Organizers | | Master Force Organizers: types | ORDER |
+Associate Transcendental Master Force Organizers | | Master Force Organizers:types | ORDER |
 
 Assuntia | | | PLACE |
 system immediately neighboring Satania (41:2.1)
@@ -2319,7 +2320,7 @@ present on all evolutionary planets if not too small (41:10.3)
 shades into average space 3000 miles out (42:4.6)
 slowly evolving 1-1/2 billion years ago (57:7)
 
-atmospheric mortals | | mortals: planetary types | | 
+atmospheric mortals | | mortals:planetary types | | 
 nonbreathers, and sub-, mid-, and superbreathers (49:2.10-14)
 
 atoms | | electrons; elements (chemical); mesotrons; neutrons; protons; ultimatons | | 
@@ -2348,9 +2349,9 @@ Aton | | | PERSON |
 sun-god; Ikhnaton based monotheism upon (95:5.6-7,11)
 > https://en.wikipedia.org/wiki/Aten
 
-atonement, feast of | | Judaism: feasts | | 
+atonement, feast of | | Judaism:feasts | | 
 
-atonement doctrine | (186:5) | crucifixion; devil; forgiveness; Jesus: death; redemption | | 
+atonement doctrine | (186:5) | crucifixion; devil; forgiveness; Jesus:death; redemption | | 
 childish scheme of substituting innocent sufferer for guilty offender (188:4.11)
 erroneous teaching (20:6.6-7) (148:4.7-10) (188:4-5)
 Father had nothing to do with Jesus’ torture (183:1.1-2) (186:5.2)
@@ -2412,7 +2413,7 @@ neighboring universe to Nebadon (32:2.12)
 seraphim from Avalon trained Nebadon seraphim (38:1.2) (38:5.1)
 surgeons from Avalon transferred plasm to Prince’s staff (66:2.7) (77:2.6)
 
-avoidance | |  religion: primitive religion | | 
+avoidance | |  religion:primitive religion | | 
 place in evolution of religious observances (90:0.1)
 ritual merges with exorcism, coercion, and propitiation (89:0.2)
 

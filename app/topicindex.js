@@ -115,7 +115,7 @@ class TopicIndex {
 					let data, texts, refs, seeAlso, level;
 					const tline = line.trim();
 					const err = this.getError('topic_err', baseName, i+1, tline);
-					if (line.startsWith('#')) {
+					if (line.startsWith('<')) {
 						return;
 					}
 					level = line.split(/\t/g).findIndex(a => a != '');
@@ -173,17 +173,7 @@ class TopicIndex {
 								current.lines.push(topicline);
 							}
 							current.lines.push(topicline);
-						} /*else if (data.length === 3) {
-							if (!data[1].startsWith('Ver ')) {
-								errors.push(err);
-							} else {
-								topicline.text = data[0];
-								topicline.seeAlso = data[1].substring(4).split(';')
-									.map(s => s.trim());
-								topicline.refs = this.extractRefs(data[2]);
-								current.lines.push(topicline);
-							}
-						}*/ else {
+						} else {
 							errors.push(err);
 						}
 					} else if (!current && tline.length > 0) {
@@ -334,23 +324,12 @@ class TopicIndex {
 						fileline: t.fileline
 					});
 				}
-				//Checking redirects
-				if (t.isRedirect && t.seeAlso.length > 1) {
-					t.errors.push({
-						desc: Strings['topic_many_see'][this.language],
-						fileline: t.fileline
-					});
-				}
 				//Checking own names in the paragraphs
 				const firstLetter = t.name.substring(0, 1);
 				const isUpperCase = (firstLetter === firstLetter.toUpperCase());
-				if (isUpperCase /*&& !t.revised*/) {
+				if (isUpperCase) {
 					let names = [t.name.split('(')[0].trim()];
 					extendArray(names, t.altnames);
-					// const exps = names.map(n => 
-					// 	'\\b' + n.replace(/^[áéíóú]/i,'.').replace(/[áéíóú]$/i, '.') + '\\b'
-					// ).join('|');
-					// const regex = new RegExp(exps, 'g');
 					let refs = t.refs.slice();
 					let invalid = [];
 					t.lines.forEach(line => extendArray(refs, line.refs));
@@ -368,8 +347,8 @@ class TopicIndex {
 								if (!par) {
 									invalid.push(ref);
 								}
-								// return (par && regex.test(par.par_content));
-								return (par && testWords(names, par.par_content));
+								return (par != null && 
+									testWords(names, par.par_content));
 							}) != null);
 						}
 						return !founded;
@@ -416,6 +395,7 @@ class TopicIndex {
 						fileline: fileline
 					});
 				}
+				//TODO: check if seeAlso anchors point to topic 1st level headers
 			});
 		}
 	};

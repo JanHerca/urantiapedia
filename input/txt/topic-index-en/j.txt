@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     J
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     J
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 Jabbok | | | PLACE | 
 flows into Jordan river (124:6.6)
@@ -17,10 +18,10 @@ directed younger evangelists (150:5.1)
 Jacob (messenger) | | | PERSON | OK
 David’s most fleet and trustworthy messenger (182:2.5)
 
-Jacob of Crete | | | PERSON | OK
+Jacob of Crete; Jacob | | | PERSON | OK
 Jewish trader; inquired of God’s wrath (142:2)
 
-Jacob of Emmaus | | | PERSON | OK
+Jacob of Emmaus; Jacob | | | PERSON | OK
 at Jesus’ 7th appearance (190:5)
 > https://en.wikipedia.org/wiki/Road_to_Emmaus_appearance
 
@@ -58,11 +59,11 @@ Jerusalem leaders labored to dissuade (153:1.7)
 resigned as chief ruler; aligned with Jesus (154:1.2)
 > https://en.wikipedia.org/wiki/Raising_of_Jairus%27_daughter
 
-James, Epistle of | | James (brother of Jesus): Epistle of | | 
+James, Epistle of | | James (brother of Jesus):Epistle of | | 
 
 James Alpheus | | Alpheus twins | PERSON | OK
 
-James (brother of Jesus) | (126:3.12) (126:4.9) (126:5.8) (127:2.11) (137:6.1,4) (154:5.1) | Jesus: family | PERSON | OK
+James (brother of Jesus) | (126:3.12) (126:4.9) (126:5.8) (127:2.11) (137:6.1,4) (154:5.1) | Jesus:family | PERSON | OK
 born April 2, 3 B.C.; second child (123:1.5)
 Jesus’ relations with (124:4.3)
 accompanied Mary upon Joseph’s accident (126:2.1)
@@ -260,7 +261,7 @@ prophets perish in (171:4.7)
 situation in week before crucifixion (175:4)
 temple of Baal alongside temple of Yahweh (97:9.21)
 
-Jerusalem temple | (125:1.5) (150:1.3) (172:4) | Jerusalem; Jerusalem temple guards; Judaism; moneychangers; Sanhedrin | PLACE | 
+Jerusalem temple; temple | (125:1.5) (150:1.3) (172:4) | Jerusalem; Jerusalem temple guards; Judaism; moneychangers; Sanhedrin | PLACE | 
 animal sacrifice (125:1.1,4) (125:2.1,3) (125:5.5) (173:1.1-2)
 desecrated by traffic in animals, money-changers (173:1)
 extensive banking system (173:1.3-4)
@@ -380,7 +381,7 @@ universal suffrage; weighted by mota (45:7.6)
 weights and measures (46:1.2)
 World of Father is silent transition sphere circling (45:1.9)
 
-Jesus | | Christ; Creator Sons; Michael of Nebadon; Thought Adjuster of Jesus; religion: explained | PERSON | 
+Jesus | | Christ; Creator Sons; Michael of Nebadon; Thought Adjuster of Jesus; religion:explained | PERSON | 
 apostles believed Jesus was the Eternal Son (157:5.1) (161:2.10)
 believers destined to attain perfection in (142:7.15)
 birthday text from Isaiah (97:5.3) (123:5.11) (126:5.2) (148:5.5) (150:8.9) (190:5.4)
@@ -419,7 +420,7 @@ attitudes of Jesus
 	loved men so much because he placed such a high value upon them (100:4.4)
 	loved the sinner, hated the sin (100:7.11)
 	never premeditated anything dramatic (172:3.11)
-	no respecter of persons (139:9.9) (139:12.7) (179:3.9)
+	no respecter of persons (139:10.9) (139:12.7) (179:3.9)
 	offered mercy to Caligastia and Daligastia (53:8.6)
 	rare good humor; not man of sorrows (129:4.4) (159:3.10) (181:1.8)
 	regular in work habits (135:8.2)
@@ -551,7 +552,7 @@ events in Jesus’ life
 	transfiguration (158:0-3)
 		Jesus declined to be invested with full authority at transfiguration (158:1.4)
 		memory of transfiguration sustained Jesus (171:4.9)
-	trial and crucifixion | atonement doctrine; Jesus: death
+	trial and crucifixion | atonement doctrine; Jesus:death
 		betrayal (183)
 		arrest (183:3)
 		spat upon (184:3.18) (185:6.2)
@@ -566,7 +567,7 @@ events in Jesus’ life
 		side pierced with spear (187:5.8)
 		those who witnessed (127:5.6) (187:3.1)
 		burial (188:1)
-	death | atonement doctrine; Jesus: events in life: crucifixion
+	death | atonement doctrine; Jesus:events in life
 		accomplished things by death he could not in life (171:4.9)
 		Christianity built up around Jesus’ death(143:5.11)
 		earth’s greatest tragedy (178:2.1)
@@ -624,7 +625,7 @@ events in Jesus’ life
 		no appearances to enemies (190:2.1)
 		no nail marks in hands (191:5.4)
 		ascension (193:5) (196:1.12)
-value of Jesus’ life | Paradise Sons of God: bestowals: purpose of bestowals
+value of Jesus’ life | Paradise Sons of God:bestowals
 	apostles misunderstood Jesus’ teaching but grasped his life (140:7.8)
 	compensates for inability to grasp Eternal Son (6:8.6-7)
 	enlarged and amplified highest human visualization of Father (97:10.8)
@@ -650,7 +651,7 @@ value of Jesus’ life | Paradise Sons of God: bestowals: purpose of bestowals
 	most beautiful expression of divinity found in earth lives of bestowal Sons (116:2.3)
 	new and living way (101:6.17) (129:4.7) (136:6.11) (180:3.7) (196:2.4)
 	understand Jesus’ teachings by his life (140:8.19) (149:2.1)
-Jesus teachings | gospel: explained; kingdom of heaven; religion: explained; truth
+Jesus teachings | gospel:explained; kingdom of heaven; religion:explained; truth
 	be not ashamed of Jesus’ teachings (150:4.3)
 	be not dismayed by failure fully to grasp (181:2.25)
 	denounced pride, cruelty, oppression, hypocrisy (140:8.22)
@@ -745,7 +746,7 @@ Jesus teachings | gospel: explained; kingdom of heaven; religion: explained; tru
 		* lost coin (169:1.4,15)
 		* prodigal son (169:1.5-16)
 		* shrewd steward (169:2)
-		* Lazarus and Dives (by Nazarites) (169:3)
+		* Lazarus and Dives, by Nazarites (169:3)
 		* king making war (171:2.3)
 		* watchtower, building (171:2.3)
 		* salt without savor (171:2.5)
@@ -756,7 +757,7 @@ Jesus teachings | gospel: explained; kingdom of heaven; religion: explained; tru
 		* marriage feast (173:5)
 		* grain of wheat (174:5.8)
 		* fig tree, branches of (176:2.6)
-		* ten virgins (by Selta) (176:2.8)
+		* ten virgins, by Selta (176:2.8)
 		* talents (176:3.4)
 		* seed of living being (178:1.15)
 		* washing apostles’ feet (179:3)
@@ -806,7 +807,7 @@ Jesus teachings | gospel: explained; kingdom of heaven; religion: explained; tru
 		* work as for God (133:4.8) (192:2.13)
 		* it behooves me to keep busy awaiting my hour (134:9.6)
 		* suffer me also this, for it becomes us to fulfill all righteousness (135:11.4)
-		* tell no man (136:8.1) (137:5.1) (138:8.2-5) (139:9.7) (144:1.6) (145:0.3) (146:4.4) (148:4.11) (149:1.2) (152:1.2) (156:1.7) (157:3.6) (157:4.5) (158:2.1,3) (159:4.2) (166:2.8) (177:1.5) (178:2.3)
+		* tell no man (136:8.1) (137:5.1) (138:8.2-5) (139:10.7) (144:1.6) (145:0.3) (146:4.4) (148:4.11) (149:1.2) (152:1.2) (156:1.7) (157:3.6) (157:4.5) (158:2.1,3) (159:4.2) (166:2.8) (177:1.5) (178:2.3)
 		* be not mindful of things which foster anxiety (137:1.6)
 		* follow me (137:2.5,7) (138:3.1,3) (138:4.1) (138:5.1) (139:5.1) (139:7.6) (196:1.3)
 		* we must in all things wait upon Father’s will (137:4.8)
@@ -953,7 +954,7 @@ Jesus teachings | gospel: explained; kingdom of heaven; religion: explained; tru
 		* seek not self-glorification but glory of God (175:1.10)
 		* take heed no man deceive you (176:1.1)
 		* false teachers will arise and lead many astray (176:1.4)
-		* I will return | Jesus: second coming (176:2.3)
+		* I will return | Jesus:second coming (176:2.3)
 		* you cannot stand still in affairs of kingdom (176:3.5)
 		* in faithfulness do what is intrusted to you (176:3.6)
 		* love one another even as I have loved you (178:1.17) (180:1) (180:6.1) (181:2.26,30) (182:1.6) (193:3.2)
@@ -1116,14 +1117,14 @@ personality and nature (100:7)
 	spiritual lens which makes visible Him who is invisible (169:4.13)
 	teacher, not a preacher (141:7.10)
 	think of righteousness rather than sinlessness (5:4.15)
-	traits (196) (124:2.4-5) (126:2.7) (127:3.7) (127:4.4) (127:6.12-16) (129:1.9) (129:3.8) (129:4) (136:0.1) (137:4.2,4) (137:7.2) (138:8.9) (139:1.11) (139:2.5) (139:3.6) (139:4.6,9) (139:5.6) (139:6.8) (139:7.4) (139:8.7) (139:9.6-7) (139:11.5) (140:8.30) (141:3.4-6) (141:7.10-14) (142:7.15) (143:2.1) (149:2.6-14) (149:4.5) (151:0.2) (161:2) (171:7) (173:1.6) (181:1.8-9) (184:3.19) (184:4.5-6) (186:2) (186:4.3) (187:2.3-4) (194:3.3)
+	traits (196) (124:2.4-5) (126:2.7) (127:3.7) (127:4.4) (127:6.12-16) (129:1.9) (129:3.8) (129:4) (136:0.1) (137:4.2,4) (137:7.2) (138:8.9) (139:1.11) (139:2.5) (139:3.6) (139:4.6,9) (139:5.6) (139:6.8) (139:7.4) (139:8.7) (139:10.6-7) (139:11.5) (140:8.30) (141:3.4-6) (141:7.10-14) (142:7.15) (143:2.1) (149:2.6-14) (149:4.5) (151:0.2) (161:2) (171:7) (173:1.6) (181:1.8-9) (184:3.19) (184:4.5-6) (186:2) (186:4.3) (187:2.3-4) (194:3.3)
 	traits inherited from Joseph and Mary (122:5.3-4)
 	unreservedly dedicated to Father’s business (100:7.12)
 	Word made flesh | word of God
 physical description (123:2.15) (127:1.2-3) (127:5.1) (128:6.2,11) (187:2.8)
 	pictures have been most unfortunate (141:3.6)
 	voice was musical, fascinating, authoritative (125:5.1) (127:1.2) (154:6.5) (162:6.2) (183:3.5) (190:2.3)
-purpose of life | Michael of Nebadon: bestowals: 7th (Urantia bestowal)
+purpose of life | Michael of Nebadon:bestowals
 	in human contacts (132:4.1)
 	that we have abundant life (157:6.2)
 	to be world’s deliverer (122:4.2)
@@ -1162,7 +1163,7 @@ skills of Jesus
 	storytelling (126:2.6) (130:7.1)
 	tentmaking (134:7.3)
 	yoke making (124:1.7) (126:1.1)
-Son of God | Jesus: nature of Jesus: God incarnate in man
+Son of God | Jesus:nature of Jesus
 Son of Man q.v.
 spiritual accomplishments
 	achieved all of sonship we will one day attain (142:7.13)
@@ -1458,7 +1459,7 @@ present
 	among 120 at Pentecost (194:1.2)
 	as designated observer at Jewish court (183:5.3-4) (184:3.2)
 	asleep in Gethsemane (182:3.1-4)
-	at crucifixion (only apostle) (139:4.10) (183:4.5) (187:2.7) (187:3.2) (187:5.1,4)
+	at crucifixion, only apostle (139:4.10) (183:4.5) (187:2.7) (187:3.2) (187:5.1,4)
 	at empty tomb (189:5)
 	at Jesus’ appearances (191:2,5)(192:1-4)(193:0,3,5)
 	at Jesus’ examination by Pilate (185:3.1)
@@ -1486,7 +1487,7 @@ Jesus’ discourse on (130:1)
 Joppa | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | | PLACE | 
 Jesus here several times
 
-Jordan River | | | PLACE | 
+Jordan River; Jordan | | | PLACE | 
 ford | Bethany beyond Jordan
 Jesus’ baptism in (135:8)
 poured forth from an underground cave (157:3.1)
@@ -1495,7 +1496,7 @@ valley was tropical (124:6.5)
 Jose | | | PERSON | 
 renowned liberal Nazareth teacher (124:4.8)
 
-Joseph (brother of Jesus) | (138:1.4) (154:5.1) | Jesus: family | PERSON | 
+Joseph (brother of Jesus) | (138:1.4) (154:5.1) | Jesus:family | PERSON | 
 apostles stayed with (137:2.9)
 at Jesus’ 4th appearance (190:2.6)
 born March 16, A.D. 1 (123:4.9)
@@ -1509,7 +1510,7 @@ moved into family home in A.D. 24 (134:1.6)
 permitted pride to interfere (154:6.1)
 tentative belief in Jesus (137:3.2)
 
-Joseph (father of Jesus) | (122:1) (122:5) | Jesus: family | PERSON | 
+Joseph (father of Jesus) | (122:1) (122:5) | Jesus:family | PERSON | 
 at Jesus’ first Passover (125)
 attitude
 	angry with Jesus about Scythopolis games (124:3.8)
@@ -1561,13 +1562,13 @@ embalmed Jesus’ body with myrrh and aloes (188:1.4)
 former Sanhedrin member (188:1.2)
 helped bear body of Jesus to tomb (188:1.3)
 Jesus’ 5th appearance at home of (190:3.1)
-Jesus buried in tomb of | Jesus: events in life: tomb
+Jesus buried in tomb of | Jesus:events in life
 met with Jesus in home of Nicodemus (164:2.1)
 most outspoken disciple of Jesus in Jerusalem (188:1.2)
 visited empty tomb (190:1.2)
 women believers stayed at home of (188:1.7) (189:4.2) (192:0.3)
 
-Joseph of Tyre | | | PERSON | 
+Joseph of Tyre; Joseph | | | PERSON | 
 Jesus stayed with (156:4.1-2) (156:6.1)
 
 Joseph (Old Testament) | | | PERSON | 
@@ -1615,7 +1616,7 @@ Mary Magdalene and Rebecca ordained at (150:2.3)
 Jove | | | PLACE | 
 persists only as exclamation (96:1.14)
 
-joy | | happiness; peace: spiritual peace | | 
+joy | | happiness; peace:spiritual peace | | 
 born of trust in divine word (143:2.7)
 cannot be experienced all by oneself (111:4.7)
 cannot put under microscope (196:3.18)
@@ -1630,7 +1631,7 @@ Spirit of Truth gives (194:0.1)
 spiritual growth yields lasting (100:4.3)
 to share Master’s j., share his love and service (180:1.5)
 
-Joys of Existence | | | ORDER | 
+Joys of Existence; The Joy of Existence | | | ORDER | 
 collaborate with reversion directors (28:5.16)
 promote reactions of joy (28:5.16)
 reflective of superaphic harmony supervisors (28:5.16)
@@ -1742,7 +1743,7 @@ promised salvation from difficulties (5:4.5-8) (148:6.5)
 rapidly expanding in times of Jesus (121:1.6)
 religion of moral sublimity (196:3.19)
 renaissance dates from Greek translation of Scriptures (121:6.2)
-rituals | Judaism: feasts
+rituals | Judaism:feasts
 	Andonic animal sacrifice preserved in (63:6.4)
 	inconsistent and absurd; Jesus thought ceremonies pathetic (125:2.4) (134:9.3)
 	purification after childbirth (122:9.1) (122:10.2)
@@ -1819,7 +1820,7 @@ heroic exploits (121:2.7)
 Jews removed from Perea in times of (165:0.3)
 restoration of Mosaic services by (123:3.5)
 
-Jude | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | Jesus: family | PERSON | 
+Jude | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | Jesusfamily | PERSON | 
 active with Zealots; clashed with civil authorities (128:6.4-7)
 at Jesus’ 4th appearance (190:2.6)
 attitude
@@ -1855,7 +1856,7 @@ most difficult Roman province to govern (185:1.2)
 mostly non-Hebrew (97:9.7,11)
 wars with Israel (97:9.18)
 
-Judge-Arbiters | | | ORDER | 
+Judge-Arbiters; judge-arbiter | | | ORDER | 
 of conciliating commissions (25:2.7)
 
 judges | (72:2.1) | courts | | 

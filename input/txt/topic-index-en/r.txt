@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     R
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     R
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 rabbis | | Judaism | | 
 desiring to be called rabbi (175:1.9)
@@ -81,7 +82,7 @@ resurrection halls have separate wing for each races (47:3.5)
 segregation favored by many languages (52:2.5)
 seldom advanced in tropics (81:6.7)
 Semites among most blended (96:2.1)
-spiritually equal before God (64:6.27) (134:4.7) | God: God’s nature: no respecter of persons
+spiritually equal before God (64:6.27) (134:4.7) | God:God’s nature
 superior races sought northern or temperate climes (64:7.13)
 tested by hardships of glacial age (64:7.1)
 types | Adamites; Andonites; blue race; brown race; green race; indigo race; Nodites; orange race; red race; Sangiks; white race; yellow race
@@ -327,7 +328,7 @@ related resurrection to Joseph, Nicodemus, and David (190:1.2)
 
 rebellion (spiritual) | (128:7.6) (134:8.9) (136:3.4-5) (136:4.5-6) (148:4.2,6) (148:5.2) (158:0.1) (158:1.7) (159:3.9) | evil; iniquity; Lucifer rebellion; quarantine; sin | | 
 action preventing rebellion is of greatest value (22:2.3)
-after rebellion, repentant rebels do not function in original positions (35:9.10) (35:10.4) (53:9.1) ((169:1.15))
+after rebellion, repentant rebels do not function in original positions (35:9.10) (35:10.4) (53:9.1) (169:1.15)
 ages required to retrieve handicaps of rebellion (50:6.5) (52:6.8)
 ascension plan is surest defense against (53:7.10,12)
 by Planetary Prince isolates his planet; successors not immediately installed (35:9.9)
@@ -347,7 +348,7 @@ observing normal planet would disclose what Urantia has lost through (51:7.5) (5
 primary supernaphim command angel hosts on worlds isolated by (27:0.2)
 Tertiary Circuit Supervisors isolate worlds in (24:1.12)
 universe governments would rather risk rebellion than deprive one mortal of ascending career (112:5.7-8)
-worlds isolated by | quarantine: worlds subject to
+worlds isolated by | quarantine:worlds subject to
 
 Recents of Days | (18:5) | | ORDER | 
 3 preside over each minor sector (15:10.15) (15:13.4) (18:5.1)
@@ -402,7 +403,7 @@ artistry in intelligent assembly of related data (48:6.30)
 celestial recording at rate of 500,000 words per minute (44:4.4)
 celestial records subjected to dual inspection (25:6.3)
 essential to conduct of universes (28:4.1)
-formal (dead) records forwarded by angelic recorders (17:3.6) (28:6.6)
+formal, dead, records forwarded by angelic recorders (17:3.6) (28:6.6)
 history begins with creation of Havona (8:1.9)
 human life records
 	kept by pair of cherubim (113:2.9)
@@ -414,7 +415,7 @@ open for consultation (25:6.2)
 Paradise records kept since personification of Infinite Spirit, trinitization of Ancients of Days (18:3.4) (25:6.6)
 planetary recording angels are source of all (25:5.2)
 preserved in triplicate in Jerusem hall of archives (46:5.22)
-spiritual (live) records assembled by reflectivity and preserved in minds (17:3.5-6)
+spiritual, live, records assembled by reflectivity and preserved in minds (17:3.5-6)
 threefold seraphic system (39:4.16)
 
 recreation | | pleasures; relaxation; reversion directors | | 
@@ -656,7 +657,7 @@ impotent; gross superstition (150:3.6)
 Sanhedrin guards threw Jesus’ burial linen over cliff (190:1.2)
 well that soldiers took Jesus’ clothes (187:2.9)
 
-religion | (99) (100) (101) (102) (103) (196) (5:4) (101:1) | Christian church, early; Christianity; churches; faith; faith sons of God; fellowship of believers; gospel; Jesus: teachings; kingdom of heaven; revelation; spiritual growth | RELIGION | 
+religion | (99) (100) (101) (102) (103) (196) (5:4) (101:1) | Christian church, early; Christianity; churches; faith; faith sons of God; fellowship of believers; gospel; Jesus:teachings; kingdom of heaven; revelation; spiritual growth | RELIGION | 
 all Urantia waiting for unencumbered religion of Jesus (94:12.7)
 approach others with recognition of common truths (149:2.5)
 balance by humor (143:7.3)
@@ -704,8 +705,8 @@ defined as
 	wholehearted devotion to supreme values (92:7.5) (100:6.1-2) (101:5.2) (195:7.16)
 	wise spiritual reaction to universe (100:2.3)
 	worship of God and service of man (72:3.5) (100:3.1) (103:3.2) (159:5.7) (196:3.19)
-evolutionary religion | religion: history of religion; religion: institutional religion
-explained (94:4.10) | gospel: explained
+evolutionary religion | religion:history of religion; religion:institutional religion
+explained (94:4.10) | gospel:explained
 	500 definitions by theologians (103:1.1)
 	acme of, marks of, religious living (100:6-7)
 	activation is superemotional (99:4.5)
@@ -802,8 +803,8 @@ history of religion
 			* Gautama Siddhartha (94:7) (121:6.4)
 			* Hosea (97:4.5-6)
 			* Ikhnaton (95:3.5)
-			* Isaiah (first) (97:5)
-			* Isaiah (second) (97:7)
+			* Isaiah the first (97:5)
+			* Isaiah the second (97:7)
 			* Jeremiah (97:6)
 			* Jesus (120)
 			* John the Baptist (136:0.1) (144:8.4)
@@ -844,7 +845,7 @@ institutional religion (99)
 	cardinal ideas (92:3.2)
 	concerned with ethics and morals, sense of duty (101:5.10)
 	cup of remembrance is emblem of emergence from bondage of (179:5.2)
-	dangers | religion: warnings
+	dangers | religion:warnings
 	does not provide for its progressive correction (92:3.4)
 	good to extent it brings man to God and God to man (92:7.3)
 	gradually loses saving message (99:6.3)
@@ -927,7 +928,7 @@ primitive religion (85) (86) (87) (88) (89) (90) (91)
 	tends to make God manlike (102:3.14)
 purposes of group activities (99:6.2)
 relics q.v.
-religions, named | ancestor worship; animism; Baal; Brahmanism; Buddhism; Christianity; Confucianism; cult of taking no life; Cynicism (religion); Dionysus; dual spiritism; Eleusinian mysteries; emperor worship; Epicureanism; Greece: Greek religion; henotheism; Hinduism; Islam; Jainism; Judaism; Mithraism; monotheism; mother cult; Mother of God cult; mystery cults; mysticism; Orphic brotherhood; paganism; Pantheism; Parsees; phallic cult; Phrygian mystery cults; polytheism; Roman Catholic Church; Shinto; Sikhism; Skepticism (religion); Stoicism (religion); Yoga; Zoroastrianism
+religions, named | ancestor worship; animism; Baal; Brahmanism; Buddhism; Christianity; Confucianism; cult of taking no life; Cynicism (religion); Dionysus; dual spiritism; Eleusinian mysteries; emperor worship; Epicureanism; Greece:Greek religion; henotheism; Hinduism; Islam; Jainism; Judaism; Mithraism; monotheism; mother cult; Mother of God cult; mystery cults; mysticism; Orphic brotherhood; paganism; Pantheism; Parsees; phallic cult; Phrygian mystery cults; polytheism; Roman Catholic Church; Shinto; Sikhism; Skepticism (religion); Stoicism (religion); Yoga; Zoroastrianism
 religious experience, growth | spiritual growth
 result of religion
 	believer cleansed from every evil thought and sinful deed (131:5.5)
@@ -1166,7 +1167,7 @@ higher spiritual beings do not look down on lower (25:1.1)
 Jesus disapproved of outward shows of (157:4.3)
 Jesus had profound respect for every person he met (138:8.9)
 
-respiration | | mortals: planetary types: 1. atmospheric types | | 
+respiration | | mortals:planetary types | | 
 morontians breathe 3-gas mixture (43:1.3) (46:2.2-3)
 
 responsibility | | duty; trust | | 
@@ -1196,7 +1197,7 @@ transition rest
 	transit through midspace to Paradise (12:5.4)
 	translation sleep of morontia progressors (47:3.10)
 
-resurrection | | eternal life; Jesus: events in life; planetary epochs; resurrection halls; sleeping survivors; survival | | 
+resurrection | | eternal life; Jesus:events in life; planetary epochs; resurrection halls; sleeping survivors; survival | | 
 3rd day after death for mortals with personal seraphic guardians (30:4.11) (49:6.8-9) (112:4.2-12)
 7 times on mansion worlds (47:10.5) (48:2.17)
 after resurrection, mortal life at first seems a vague dream (112:5.21)
@@ -1213,7 +1214,7 @@ beliefs regarding resurrection
 effected by reassociation of soul in custody of destiny guardian and the Adjuster (30:4.15) (47:3.3) (49:6.5) (112:3.5) (113:6.6)
 entails fabrication of suitable form, return of Adjuster, and seraphic guardian’s bestowal of soul (112:5.16-19)
 guardian angels present for (47:3.2) (189:3.2)
-heralds of r | messenger corps (David Zebedee’s)
+heralds of resurrection | messenger corps (David Zebedee’s)
 judgment based on Adjuster’s version of deceased human’s character, seraphic records (112:4.2,12)
 judgment seat of presiding archangel (45:4.1)
 Lazarus’s resurrection was only instance of physical resurrection (168:2)
@@ -1225,7 +1226,7 @@ new body in morontia form (39:2.13)
 no literal resurrection from Jerusem until leaving Nebadon (47:10.4-5)
 occurs on mansion worlds (30:4.11)
 physical body remains on planet (39:2.13)
-resurrection of unjust | roll call: of justice
+resurrection of unjust | roll call:of justice
 reappearance of personality is a mystery (30:4.15)
 reassembly of memory, insight, and consciousness – identity (112:5.19)
 resurrection halls q.v.
@@ -1344,7 +1345,7 @@ rice | | | |
 Adamites ate (81:1.8)
 thrown on newlyweds to ensure fecundity (83:4.5)
 
-rich | | wealth: persons possessing wealth | | 
+rich | | wealth:persons possessing wealth | | 
 
 rich man and beggar | | | | 
 Nazarite parable (169:3)
@@ -1483,7 +1484,7 @@ pupils of Rodan converted Stephen and Barnabas (194:4.11)
 rodents | (49:1.6) (61:2.7) | | | 
 
 roll call | | | | 
-of justice | death: spiritual death; extinction; nonsurvivors
+of justice | death:spiritual death; extinction; nonsurvivors
 all Adjuster-indwelt beings are on (49:6.11)
 guardian angels respond to roll call; Adjusters make no answer (113:6.8)
 of mercy | resurrection
@@ -1582,7 +1583,7 @@ of courtship largely responsible for increasing divorce (83:7.7)
 Prince’s staff fostered courtship (66:5.29)
 
 Romans | | Roman Empire; Rome | | 
-named | Augustus; Caligula; Cicero; Claudia Procula; Claudius; Constantine; Cornelius; Mangus; Marcus; Pontius Pilate; religious leaders in Rome; Roman centurion in Corinth; Roman centurion of Jerusalem; Roman judge in Corinth; Roman magistrate in Rome; Roman senator; Roman soldier in Rome; Roman soldiers in Jerusalem; Tiberius; Titus (Emperor); Vergil; widows: widow in Rome
+named | Augustus; Caligula; Cicero; Claudia Procula; Claudius; Constantine; Cornelius; Mangus; Marcus; Pontius Pilate; religious leaders in Rome; Roman centurion in Corinth; Roman centurion of Jerusalem; Roman judge in Corinth; Roman magistrate in Rome; Roman senator; Roman soldier in Rome; Roman soldiers in Jerusalem; Tiberius; Titus (Emperor); Vergil; widows:widow in Rome
 
 Rome | (130:0.3) (194:4.13) | Roman Empire; Romans | PLACE | 
 city of 2 million (132:0.2)

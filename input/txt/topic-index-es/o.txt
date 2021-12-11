@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     O
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     O
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 robles | (60:3.19) | | | 
 
@@ -47,7 +48,7 @@ Comisión de Soberanos de los Sistemas; representar sistemas locales (33:6.4)
 
 océanos | | lagos | | 
 se volvió demasiado salado (59:3.10)
-los fondos se volvieron cada vez más pesados ​​por la acumulación de meteoritos; se hundió (57:8.20-21)
+los fondos se volvieron cada vez más pesados por la acumulación de meteoritos; se hundió (57:8.20-21)
 las corrientes cambiaron en el Pleistoceno; poco ha cambiado en los últimos 15 millones de años (61:3.9) (61:5.2)
 nombrada | mar de Arabia; océano Ártico; océano Atlántico; bahía de Bengala; mares de China; golfo de México; corriente del golfo; océano Índico; océano Pacífico; golfo Pérsico
 ninguno en Jerusem o Edentia (43:1.1) (46:2.2)

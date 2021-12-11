@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     M
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     M
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 Macad | (165:0.1) | | PLACE | 
 Perea mission
@@ -93,7 +94,7 @@ are
 	dispensational adjudicators (20:2.5) (20:3.1) (55:10.5)
 	judges of survival in creations of time and space (7:6.5) (20:2.1) (20:3.2)
 	personalizations of Eternal Son and Infinite Spirit (7:6.5) (20:1.11) (20:2.1) (20:10.3)
-bestowal missions | Paradise Sons of God: bestowals
+bestowal missions | Paradise Sons of God:bestowals
 	accompanied on bestowals by
 		* 2 Brilliant Evening Stars (20:2.9) (37:2.8)
 		* 12 Melchizedeks (20:2.9) (35:2.6)
@@ -412,7 +413,7 @@ from Old Testament (70:10.6)
 
 Mark, Elijah | | Elijah Mark | PERSON | 
 
-Mark, Gospel of | | John Mark: Gospel of Mark | | 
+Mark, Gospel of | | John Mark:Gospel of Mark | | 
 
 Mark, John | | John Mark | PERSON | 
 
@@ -427,7 +428,7 @@ fetishes stood guard over early (69:4.3)
 first cities of refuge (69:4.4)
 Pharisees craved flattering salutations in (166:1.4)
 
-marriage | (82) (83) (84) | brides; child-rearing; children; divorce; dowries; family; home; matchmakers; romance; sex: urge; sexes; weddings | | 
+marriage | (82) (83) (84) | brides; child-rearing; children; divorce; dowries; family; home; matchmakers; romance; sex:urge; sexes; weddings | | 
 always linked with property and religion (82:4.1-2) (82:5.3) (83:0.2) (83:1.1-3)
 among primitives
 	always planned by parents (83:2.1)
@@ -508,7 +509,7 @@ woman is the interested party in promoting marriage (84:7.2)
 
 marriage feast | | | | 
 parable of (173:5)
-sit not in chief seat at (167:1.5) ((179:1.3-5))
+sit not in chief seat at (167:1.5) (179:1.3-5)
 
 Mars (god) | | | PERSON | 
 Roman god of war (98:3.1)
@@ -524,7 +525,7 @@ at Jesus’ 16th appearance (193:0)
 converted Mary Magdalene (150:2.2)
 member of women’s corps (150:1.1)
 
-Martha (sister of Jesus) | (126:4.9) | Jesus: family | PERSON | 
+Martha (sister of Jesus) | (126:4.9) | Jesus:family | PERSON | 
 born September 13, A.D. 3 (124:1.7)
 expert weaver (128:3.1)
 Jesus’ relation with (124:4.3)
@@ -586,7 +587,7 @@ mother of John Mark; wife of Elijah (182:0.1)
 Mary (mother of Alpheus twins) | (189:4.4) | | PERSON | 
 at Jesus’ 5th appearance (190:3.1)
 
-Mary (mother of Jesus) | (122:1) (137:6.1) (145:0.1) (154:5.1) (188:3.3) (192:0.3) | Jesus: family | PERSON | 
+Mary (mother of Jesus) | (122:1) (137:6.1) (145:0.1) (154:5.1) (188:3.3) (192:0.3) | Jesus:family | PERSON | 
 attitudes
 	ambitious mother (137:4.8)
 	avoided Jesus (145:0.1)
@@ -952,7 +953,7 @@ exterminated by red man in ice age (61:7.13-14)
 massiveness of passing Reptilia found echo in (65:2.10)
 
 Matadormus | | | PERSON | 
-Alpheus twins proud Jesus refused to accept (139:9.9)
+Alpheus twins proud Jesus refused to accept (139:10.9)
 became treasurer of Jerusalem church (163:2.7)
 met with Jesus in home of Nicodemus (164:2.1)
 rich young Pharisee, member of Jerusalem Sanhedrin (163:2.4-9) (163:3.3)
@@ -980,7 +981,7 @@ as ascending sons (40:2)
 bestowal of Michael as (119:3)
 Creator Sons incarnate in group with most Adamic inheritance (21:4.3)
 defaulting Material Sons
-	681,227 (or 681,217) lost in rebellion in Satania, 95% in Lucifer rebellion (51:1.5) (53:7.8)
+	681,227, or 681,217, lost in rebellion in Satania, 95% in Lucifer rebellion (51:1.5) (53:7.8)
 	become mortal upon failure or default (51:1.4)
 	default on neighboring planet (72:0.3)
 	hundreds involved in Lucifer rebellion have been rehabilitated (53:9.1)
@@ -1078,9 +1079,9 @@ young Jesus spent much time on (123:6.3)
 
 mathematics teacher of Damascus | (123:6.3) | | | 
 
-mating instinct | | sex: urge | | 
+mating instinct | | sex:urge | | 
 
-matriarchy | | family: matriarchal families | | 
+matriarchy | | family:matriarchal families | | 
 
 matter | | energy; material energy; matter, mind, and spirit | | 
 100 elements exist (42:7.4)
@@ -1223,7 +1224,7 @@ require unraveling and correlation in mind (102:2.5)
 
 means versus ends | | ends versus means | | 
 
-measures | | light-years; time: days and years; weights | | 
+measures | | light-years; time:days and years; weights | | 
 constellations use same measures as local universes (43:0.3)
 mile on Jerusem equals 7 Urantia miles (46:1.2)
 paradoxes of simultaneous measurement (65:6.1)
@@ -1326,7 +1327,7 @@ geology (59:3.6) (60:1.12) (60:2.7) (61:1.12) (61:3.8) (61:4.2) (62:1.2) (64:1.1
 land trade nearly suspended during nomadic invasions ca. 2500 B.C.; sea commerce in full swing (80:9.9)
 Onagar’s headquarters (63:6.7)
 protected by Gibraltar isthmus and Sicilian land bridge in early days of violet race; floods upon their collapse (80:1.1) (80:2.4-5)
-race of | white race: divisions: southern
+race of | white race:divisions
 
 Mediterranean Sea | | Mediterranean region | PLACE | 
 Black Sea once was an extension of (64:4.10)
@@ -1367,7 +1368,7 @@ original Andonic skin pigment, like that of Eskimos (63:4.1)
 
 Melchizedek, Father | | Father Melchizedek | PERSON | 
 
-Melchizedek, Machiventa | (93) | Melchizedek Sons; missionaries: Salem missionaries | PERSON | 
+Melchizedek, Machiventa | (93) | Melchizedek Sons; missionaries:Salem missionaries | PERSON | 
 appearance and departure unannounced (93:8.1) (93:10.2)
 appeared at Salem to contact children of Terah (35:4.5) (93:5.3)
 co-authored Paper 56 (56:10.22)
@@ -1422,7 +1423,7 @@ Melchizedek, Mantutia | | Melchizedek Sons | PERSON |
 directed creation of Parts II and III (56:10.23) (119:8.9)
 wrote Paper 120 (120:0.1)
 
-Melchizedek brotherhood | | missionaries: Salem missionaries | | 
+Melchizedek brotherhood | | missionaries:Salem missionaries | | 
 members promised to proclaim good news to all men (93:4.4)
 nearly disappeared after Melchizedek’s departure (93:9.1)
 over 100,000 tithe payers on clay-tablet rolls (93:4.1) (93:6.8)
@@ -1790,7 +1791,7 @@ in circles of Sons of God; staff of over 1 million (46:5.19)
 
 Michael of Nebadon | (119) (33:1-2) | Christ; Creator Sons; Jesus; Master Michaels | PERSON | 
 began organization of Nebadon 400 billion years ago; staff arrived 300 billion years ago (57:3.8) (119:0.7)
-bestowals | Creator Sons: creature bestowals; Paradise Sons of God: bestowals
+bestowals | Creator Sons:creature bestowals; Paradise Sons of God:bestowals
 	1st bestowal
 		as Melchizedek (119:1)
 		manifested will of the Father, Son, and Spirit (119:8.4)
@@ -1809,7 +1810,7 @@ bestowals | Creator Sons: creature bestowals; Paradise Sons of God: bestowals
 	6th bestowal
 		as morontia mortal on Endantum (119:6)
 		revealed will of Eternal Son (119:8.4)
-	7th (Urantia bestowal)
+	7th Urantia bestowal
 		announced after default of Adam and Eve (119:7.2)
 		as Jesus of Nazareth (32:0.3) (52:5.1-2) (119:7) (120:0.9)
 		born of woman (20:2.7)
@@ -1833,7 +1834,7 @@ bestowals | Creator Sons: creature bestowals; Paradise Sons of God: bestowals
 			to complete required experience; subordinate himself to will of Father (120:0.4) (189:1.10)
 			to gain creature experience, universe sovereignty, settle Lucifer rebellion, reveal God, lead men to become son-conscious (120) (120:4.4) (128:0.2-4) (128:1.1) (128:7.6) (129:3.5-8) (129:4.7) (185:3.4) (189:1.10) (193:0.3)
 		Son of God became Son of Man (13:1.8)
-		Word made flesh (20:5.1) | Jesus: personality and nature: God incarnate in man
+		Word made flesh (20:5.1) | Jesus:personality and nature
 	began 1 billion years ago; occurred at 150 million year intervals (119:0.7) (119:8.2)
 	could rule as representative of Trinity only after all 7 bestowals, acquiring thereby supreme sovereignty (21:3) (120:0.4)
 	created possibility for sovereignty of Supreme in Nebadon (119:8.5-7)
@@ -1873,7 +1874,7 @@ not involved in judicial work (33:7.1)
 personally grants mortals’ credentials to proceed upon superuniverse career (112:7.8)
 possesses unlimited capacity to experience Supreme (101:6.5)
 referred to as Christ Michael | Christ
-return to Urantia | Jesus: second coming
+return to Urantia | Jesus:second coming
 sometimes sends messages on archangels’ circuit (46:3.4)
 sovereignty
 	could have asserted personal sovereignty at any moment (21:3.2-3) (120:0.3-4) (120:1.6)
@@ -1954,7 +1955,7 @@ classification (38:9.1)
 future status
 	finaliters (31:6) (40:3.1)
 	receive Adjusters and begin Paradise ascent in light and life (30:1.53) (55:3.17) (55:4.5,6,23) (77:9.4)
-	Technical Advisers (tempoRary members) (25:4.2,11-12)
+	Technical Advisers, temporary members (25:4.2,11-12)
 	Trinitized Custodians (22:5.2)
 	Trinitized Sons of Selection (22:1.11)
 Havona Servitals are like midwayers in Havona (25:1.1)
@@ -1980,7 +1981,7 @@ service of primary and secondary types
 	custodians of planets (37:9.11)
 	elevate mortal bodies into atmosphere for fusion (55:1.6)
 	essential order of planetary ministry (38:9.5) (77:0.1) (77:9.11)
-	service of primary and secondary types (continued)
+	service of primary and secondary types, continued
 	execute mandates of resident governor general (114:0.2)
 	function midway between mortals and angels (77:0.1)
 	in connection with Jesus’ bestowal
@@ -2157,7 +2158,7 @@ Infinite Spirit
 	mind originates exclusively in, and converges in, the Infinite Spirit (0:3.14) (9:1.1) (9:5.2) (21:2.7) (56:2.2)
 	ministry to mind (8:4.1) (12:6.2-3)
 	pure mind subject only to gravity grasp of Infinite Spirit (9:6.6)
-mind gravity | gravity: types
+mind gravity | gravity:types
 nature of mind
 	ability to know and be known (6:6.2)
 	always competent to produce suitable body (42:12.9-15)
@@ -2233,10 +2234,10 @@ types of mind
 		individualizes morontia form for survivors (42:12.11)
 	mortal mind q.v.
 	nonmorontia orders (42:10.5)
-	nonteachable levels of mind (pre-adjutant mind)
+	nonteachable levels of mind, pre-adjutant mind
 		contacted by adjutant mind-spirit of intuition (36:5.6)
 		domain of Master Physical Controllers and Supreme Power Centers (9:5.3) (29:2.9) (36:5.14-15) (41:2.6) (42:10.3) (65:0.6) (65:7.5)
-	Paradise Mind | mind: types of mind: absolute mind
+	Paradise Mind | mind:types of mind
 	spirit mind of Eternal Son (6:6)
 
 mind-energy manipulators | | | ORDER | 
@@ -2274,7 +2275,7 @@ headquartered on 1st mansion world (48:6.34)
 ministering-spirit quartettes | | | | 
 attached to mortal chief executive in light and life (55:4.15,16)
 
-ministering spirits | (26:1) | angels; Infinite Spirit: family | ORDER | 
+ministering spirits | (26:1) | angels; Infinite Spirit:family | ORDER | 
 
 ministers | | priests | | 
 
@@ -2312,7 +2313,7 @@ tithing minorities while disregarding weightier matters (175:1.17)
 Miocene | | geologic ages | | 
 age from 25 to 10 million years ago (61:3:15)
 
-miracles | | Jesus: miracles and healings | | 
+miracles | | Jesus:miracles and healings | | 
 believed commonplace in times of Jesus (121:7.12) (136:6.6-8) (136:8.1) (137:6.5) (145:2.17)
 believed performed by recognized gods, not by magic (90:2.3)
 defined as
@@ -2340,7 +2341,7 @@ refrain from teaching the sick to expect (163:4.3)
 
 Miriam (Old Testament) | (150:3.1) | | PERSON | 
 
-Miriam (sister of Jesus) | | Jesus: family | PERSON | 
+Miriam (sister of Jesus) | | Jesus:family | PERSON | 
 at Jesus’ 4th appearance (190:2.6)
 born July 11, 2 B.C. (123:2.3)
 idealized Jesus; his relation with Miriam (124:4.3) (127:6.2)
@@ -2481,7 +2482,7 @@ monastic orders | | | |
 in dark ages (195:4.1)
 maintained by individuals lacking normal sex urges (82:3.9)
 
-money | | denarii; earning a living; mites; pounds; shekels; talents: money; ten-cent piece; wealth | | 
+money | | denarii; earning a living; mites; pounds; shekels; talents:money; ten-cent piece; wealth | | 
 apostles and evangelists advised to take m., not take money (140:9.3) (163:1.3) (180:0.2)
 cannot love (127:2.8)
 earliest was fish, goats, or cows (69:4.5)
@@ -2519,7 +2520,7 @@ became fetish animals (88:1.5)
 retarded mid-mammals were ancestors of (62:3.12)
 
 Monmatia | (57:5) | sun (Urantia’s) | PLACE | 
-3 Angona tributaries have retrograde motion (Venus and Uranus are 2) (57:5.13-14)
+3 Angona tributaries have retrograde motion. Venus and Uranus are 2 (57:5.13-14)
 3 planets suited for life (15:6.15)
 5th planet fragmentized into asteroids (57:6.5)
 12 planets (57:5.7)
@@ -2533,7 +2534,7 @@ Urantia’s solar system (57:2.1) (57:5)
 
 monogamy | | marriage | | 
 
-monota | | reality: levels of reality: absolute reality | | 
+monota | | reality:levels of reality | | 
 indistinguishable from spirit except by name (116:6.7)
 living nonspirit energy of Paradise (42:2.19)
 reveals nonspiritual realities of First Source; absolute (42:10.1)
@@ -2632,7 +2633,7 @@ origin of mores always unconscious and unintentional (68:4.2)
 Prince’s staff did not impose mores upon tribes (66:6.5)
 safety brake against too rapid advancement (68:4.5-6)
 
-morontia | (48) | mansion worlds; mind: types of mind: morontia mind; morontia progressors; morontia worlds | | 
+morontia | (48) | mansion worlds; mind:types of mind; morontia progressors; morontia worlds | | 
 art is mortal morontia (195:7.15-16)
 celestial beings enabled humans to see morontia Jesus (189:4.11)
 creatures of morontia respirate morontia gas (43:1.3)
@@ -2645,7 +2646,7 @@ defined as
 forms can be made indifferent to ordinary matter or contactable (189:2.3-4)
 good we do here contributes directly to morontia life (103:5.7)
 invisible to human vision (44:3.2)
-Jesus in m | Jesus: events in life: morontia appearances
+Jesus in m | Jesus:events in life
 known since early days of Planetary Prince (48:1.1)
 life in morontia entails real contact with real energies (48:6.29)
 morontia life initiated at conception of soul (48:6.2)
@@ -2699,7 +2700,7 @@ teach mota to morontia progressors (48:6.27-28)
 
 morontia life | | morontia; morontia progressors | | 
 
-morontia mind | | mind: types of mind: morontia mind | | 
+morontia mind | | mind:types of mind | | 
 
 morontia mota | | mota | | 
 
@@ -2754,7 +2755,7 @@ morontia bodies
 	require food and drink; no residual waste (43:6.6) (47:4.6)
 	retain same form until becoming first-stage spirits (47:10.4)
 	subject to certain accidents (50:3.3)
-mortals denominated morontia progressors after mansion worlds until attainment of spirit status at end of local universe sojourn (30:4.18-21,26) ((47:7.1)) (48:0.2) (48:8.1)
+mortals denominated morontia progressors after mansion worlds until attainment of spirit status at end of local universe sojourn (30:4.18-21,26) (47:7.1) (48:0.2) (48:8.1)
 no Jerusem citizens fell in Lucifer rebellion (53:7.10-12)
 no marriage between (174:3.2)
 opportunity to visit any realm experientially attained (48:3.10)
@@ -2788,7 +2789,7 @@ translation of living mortals takes place in (55:1.5) (55:2.3-5)
 translation temple is composed of morontia materials (55:1.5)
 Trinity Teacher Sons inaugurate (55:1.1) (55:7.1)
 
-morontia world | | Jerusem: transitional culture worlds | PLACE | 
+morontia world | | Jerusem:transitional culture worlds | PLACE | 
 transitional culture world #2, headquarters of supervisors of morontia life (45:1.3-4)
 
 morontia world transition ministers | | transition ministers | ORDER | 
@@ -3019,7 +3020,7 @@ planetary types (15:6.16) (49:2-5)
 	life-spans from 25 to 500 years (49:4.6)
 	planetary series
 		# adjustment to planetary environment (49:5.10-12)
-		# brain-type series (40:5.17) (49:4.2-3) (49:5.13-18) | brains: brainedness
+		# brain-type series (40:5.17) (49:4.2-3) (49:5.13-18) | brains:brainedness
 		# Spirit-reception series (49:5.19-20)
 		# planetary mortal epochs (49:5.21-28) | planetary epochs
 		# creature-kinship series (49:5.29-30)
@@ -3046,7 +3047,7 @@ planetary types (15:6.16) (49:2-5)
 		Adjuster-fusion potential (40:5.17) (109:3.4)
 		Adjusters gain far more contact with 3-brained (109:3.5)
 		Urantians are 2-brained (49:5.13-18) (109:3.4)
-primitive mortals | planetary epochs: 1st–pre-Planetary Prince era; religion: primitive religion
+primitive mortals | planetary epochs:1st–pre-Planetary Prince era; religion:primitive religion
 	Adjusters loaned to (40:5.8-10)
 	always deteriorated in forests, tropics; progressed only in open, in higher latitudes (64:1.3) (81:6.7)
 	ancestry is lemurs, dawn mammals, mid-mammals,
@@ -3345,7 +3346,7 @@ Mount Lebanon | (155:4.1) | | PLACE |
 
 Mount of Olives | | Mount Olivet | PLACE | 
 
-mount of transfiguration | | Jesus: events in life: transfiguration; Mount Hermon | PLACE | 
+mount of transfiguration | | Jesus:events in life; Mount Hermon | PLACE | 
 
 Mount Olivet | (127:3.5) (164:2.3) (171:8.1) (174:0.3) (182:1.2) | | PLACE | 
 Gethsemane on (142:8.4)
@@ -3413,7 +3414,7 @@ mouth | | | |
 speaks from abundance of heart (153:4.4)
 what proceeds out of mouth spiritually defiles (153:3.5)
 
-multilingualism | | language: common language | | 
+multilingualism | | language:common language | | 
 
 multitude | | populace | | 
 
@@ -3523,7 +3524,7 @@ secret rites were sometimes gruesome (121:5.10)
 
 Mystery Monitors | | Thought Adjusters | ORDER | 
 
-mysticism | (100:5) | leadings; revelation: personal revelation; spiritual insight | | 
+mysticism | (100:5) | leadings; revelation:personal revelation; spiritual insight | | 
 be not passive mystics (178:1.14)
 Christian mysticism bordered on unreality; philosophically akin to pantheism (195:4.1)
 factors which induce mystic state (100:5.10)

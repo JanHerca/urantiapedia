@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     G
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     G
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 Gabriel | (33:4) (189:1.5,10) | Bright and Morning Stars | PERSON | OK
 Brilliant Evening Stars are liaison officers for (37:2.1-3)
@@ -248,7 +249,7 @@ Significances of Origin are living (28:6.2-4)
 general council | | | | 
 of kingdom called in Philadelphia (167:0.3) (167:2.3)
 
-Genesis, Book of | | | | 
+Genesis, Book of; story | | | | 
 story of Eve created out of Adam’s rib (74:8.3)
 
 genetics | | eugenics; handicaps; hybridization; races | | 
@@ -316,45 +317,45 @@ influential in determining peace or war (81:6.5)
 protection of North America by oceans allowed unmolested development (81:6.5)
 
 geologic ages | (59:0.1-6) | | | 
-# Archeozoic (prelife era)
+# Archeozoic, prelife era
 #* 1 billion to 550 million years ago (59:0.2) (78:7.4)
-# Proterozoic (life-dawn era)
+# Proterozoic, life-dawn era
 #* 550 to 400 million years ago (58:7.1) (59:0.3)
-# Paleozoic (marine-life era)
+# Paleozoic, marine-life era
 #* 400 to 150 million years ago (59:0.4) (59:6.11)
-#* Cambrian (trilobite age)
+#* Cambrian, trilobite age
 #** 400 to 350 million years ago (59:1)
-#* Ordovician (invertebrate-animal age)
+#* Ordovician, invertebrate-animal age
 #** 350 to 300 million years ago (59:2)
-#* Silurian (coral and brachiopod age)
+#* Silurian, coral and brachiopod age
 #** 300 to 275 million years ago (59:3)
-#* Devonian (age of plant life, fishes)
+#* Devonian, age of plant life and fishes
 #** 270 to 220 million years ago (59:4)
-#* Carboniferous (age of fern forests, frogs)
+#* Carboniferous, age of fern forests and frogs
 #** 220 to 180 million years ago (59:5)
-#* Permian (seed-plant age; biologic tribulation)
+#* Permian, seed-plant age and biologic tribulation
 #** 170 to 150 million years ago (59:6)
-# Mesozoic (early land-life era)
+# Mesozoic, early land-life era
 #* 150 to 50 million years ago (59:0.5) (60:4.6)
-#* Triassic (early-reptilian age)
+#* Triassic, early-reptilian age
 #** 150 to 125 million years ago (60:1)
-#* Jurassic (later-reptilian age)
+#* Jurassic, later-reptilian age
 #** 125 to 100 million years ago (60:2)
-#* Cretaceous (age of flowering plants, birds)
+#* Cretaceous, age of flowering plants and birds
 #** 100 to 50 million years ago (60:3-4)
-# Cenozoic (mammalian era)
+# Cenozoic, mammalian era
 #* 50 million years ago to the present (61:0)
-#* Eocene (early-mammal age)
+#* Eocene, early-mammal age
 #** 50 to 35 million years ago (61:1)
-#* Oligocene (advanced mammal age)
+#* Oligocene, advanced mammal age
 #** 35 to 25 million years ago (61:2)
-#* Miocene (age of elephant and horse)
+#* Miocene, age of elephant and horse
 #** 25 to 10 million years ago (61:3.15)
-#* Pliocene (mammalian migration stage)
+#* Pliocene, mammalian migration stage
 #** 10 to 1 million years ago (61:4)
-#* Pleistocene (ice age)
+#* Pleistocene, ice age
 #** 2 million to 100,000 years ago (61:5-7)
-#* Holocene (post-glacial period)
+#* Holocene, post-glacial period
 #** 35,000 years ago to the present (61:7.18)
 
 geology | | fossils; geologic ages; rocks and minerals | | 
@@ -529,7 +530,7 @@ persons can pass judgment on worth-whileness of goals (16:7.2-4)
 rather than creeds should unify religionists (99:5.7)
 spiritual destiny conditioned by (156:5.9)
 supreme goals
-	achieving perfection | perfection: attainment
+	achieving perfection | perfectionattainment
 	Ascendington is ultimate status sphere (13:0.6)
 	attainment of supreme, then ultimate (0:7.10) (0:9.1)
 	attuning to divinity of indwelling Adjuster (110:3.4)
@@ -545,7 +546,7 @@ supreme goals
 	perfection of faith and service (34:6.10)
 	service (28:6.17)
 	spirit (12:8.13) (16:4.6)
-	trinitization (for some) (13:1.13)
+	trinitization, for some (13:1.13)
 	unification, divine coherence (2:7.7)
 	wisdom of mental and moral existence (36:5.12)
 transfer goals from time to eternity (160:1.14)
@@ -562,7 +563,7 @@ God | (1) (2) (3) (4) (5) | Deity; I AM; Infinite; Paradise Trinity; Universal F
 and nature (4:2.5) (131:1.5)
 creation of energy and life is prerogative of God; both flow out to all creation (42:1.5)
 all men are children of God (2:5.4) (40:6) (99:5.5)
-Creator Sons are God in their local universes (33:1.4) | Michael of Nebadon: description: God of our creation
+Creator Sons are God in their local universes (33:1.4) | Michael of Nebadon:description
 discernably present only on Paradise and in Havona (3:1.6)
 literally present on Paradise (11:1)
 divine qualities perfectly unified in (44:7.4)
@@ -578,7 +579,7 @@ term “God”
 	infinite concept of Father (0:2.9) (1:7.1) (169:4.7)
 	reality of values, substance of meanings, life of truth (5:4.2)
 	theologic definitions must change with each epoch (5:5.12)
-also known as | Deity: also known as; Universal Father: also known as
+also known as | Deity:also known as; Universal Father:also known as
 	* Adonai (96:1.9)
 	* Allah (95:7.6)
 	* Ancient of Days (96:1.9)
@@ -688,7 +689,7 @@ finding God | faith; spiritual growth
 	through soul’s contemplation of inner spiritual reality (5:0.1)
 	we know God because we trust him (102:1.5)
 	growth of God comprehension in light and life (56:7.1-2,5) (142:2.2-4) (142:3) (159:4)
-God’s nature (2) | beauty; goodness; justice: divine justice; mercy; omnipotence; omniscience; truth
+God’s nature (2) | beauty; goodness; justice:divine justice; mercy; omnipotence; omniscience; truth
 	all things consist in God (0:3.11) (3:1.7) (3:5.4) (3:6) (9:0.4) (11:8.1) (16:9.14) (42:1.2,6) (56:1.5) (56:9.14) (104:4.46) (131:10.2,4)
 	all things are possible with God (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
 	all true love is from God (117:6.10)
@@ -700,7 +701,7 @@ God’s nature (2) | beauty; goodness; justice: divine justice; mercy; omnipoten
 	energy infinity (3:2.3) (42:2.21)
 	enjoys expansions of self-realization (1:5.14-16)
 	gives his children spirit and blessings (131:10.3) (144:2.4)
-	good (2:6) (28:6.21) | goodness: of God
+	good (2:6) (28:6.21) | goodness:of God
 	guides man without self-assertion (131:8.3)
 	has set up tensions in creations circling Paradise (117:4.14)
 	in him we live and move and have our being (1:1.2) (1:5.16) (2:1.11) (3:1.2,4) (12:7.12) (16:9.14) (111:5.2) (141:2.1) (174:3.2)
@@ -709,7 +710,7 @@ God’s nature (2) | beauty; goodness; justice: divine justice; mercy; omnipoten
 	is Father (4:4.5) (54:6.2) (56:4.4) (141:4.1) (196:3.35)
 	is love (1:3.8) (2:5.1,10) (6:3) (8:4.2) (54:4.6) (56:10.20) (130:1.5) (134:4.1) (160:5.11)
 	just and righteous (2:3)
-	laws of | law: divine
+	laws of | law:divine
 	lover of mankind, helper of the distressed (12:7.8) (131:4.4) (131:5.3) (193:0.3)
 	merciful (2:4) (12:7.1)
 	most inescapable of all presences (102:7.10) (133:4.1)
@@ -804,7 +805,7 @@ God the Spirit | | Infinite Spirit | PERSON | OK
 
 God the Supreme | | Supreme | PERSON | OK
 
-God the Ultimate | (0:9) | reality: levels of reality: absonite reality | PERSON | OK
+God the Ultimate | (0:9) | reality:levels of reality | PERSON | OK
 3 Absolutes are co-ordinated in (56:9.1)
 Adjuster is secret of personal realization of (101:6.2)
 foreshadows transcendental overcontrol in later stage of universe light and life (56:7.5)
@@ -981,7 +982,7 @@ Jesus prechead to this people
 gorillas | (61:3.12) (62:5.2) | simians | | 
 retarded mid-mammals were ancestors of (62:3.12)
 
-gospel | | faith sons of God; Jesus: teachings; kingdom of heaven; religion; truth | RELIGION | 
+gospel | | faith sons of God; Jesus:teachings; kingdom of heaven; religion; truth | RELIGION | 
 acceptance of gospel immediately improves home life (177:2.6)
 believers must love gospel more than mother, father, wife, husband, children, or siblings (150:4.3) (163:3.4) (171:2.2)
 believers undependable unless gospel experienced in heart (177:5.2)
@@ -991,7 +992,7 @@ difficult to perpetuate prior to printing (93:7.4)
 do not try to fit into old forms of religious belief (138:5.2) (140:6.2) (147:7.2-3)
 dominated by truth conviction (180:5.12)
 evidence of belief in gospel is love shown to one another (182:1.6)
-explained | religion: explained
+explained | religion:explained
 	applies to individual, not state (140:8.5) (145:2.10)
 	by faith every mortal may have salvation (140:10.9)
 	by faith becoming spirit-conscious of sonship with God (140:10.4,7)(141:4.2)(142:3.8)(181:2.12,18)(186:5.4)
@@ -1029,7 +1030,7 @@ loyalty to gospel dependent on sound early home training (177:2.2)
 Melchizedek receivers proclaimed gospel to Adam (76:5.1)
 messengers | apostles of Jesus; disciples; evangelists; messenger corps (David Zebedee’s)
 must show increasing vitality, depth of spiritual power (178:1.15)
-proclaiming the gospel | government: believers’ relation to; kingdom of heaven: establishment
+proclaiming the gospel | government:believers’ relation to; kingdom of heaven:establishment
 	accord generous recognition (159:3.3)
 	all Urantia waiting for (94:12.7)
 	allow apostolic teachers to teach own views (148:1.2)
@@ -1079,7 +1080,7 @@ proclaiming the gospel | government: believers’ relation to; kingdom of heaven
 	only law to obey is command to preach gospel (192:2.11)
 	persistent preaching will result in unbelievable liberation (178:1.9)
 	personal experience with God is only positive proof (1:2.8)
-	preach to all without fear or favor ((102:7.6)) (143:1.5) (192:2.2)
+	preach to all without fear or favor 102:7.6) (143:1.5) (192:2.2)
 	proclaim kingdom not just with words but in life (140:1.7)
 	proclaim whole truth, not just part (193:0.4)
 	promulgate gospel only by power of spirit (152:6.2-4) (159:3.2,5) (178:1.2)
@@ -1097,13 +1098,13 @@ proclaiming the gospel | government: believers’ relation to; kingdom of heaven
 	whet appetites of associates for truth (48:7.16)
 will triumph and be proclaimed to all nations (142:2.2) (143:1.4) (176:1.1)
 
-Gospel of John | | John Zebedee: Gospel of John | | 
+Gospel of John | | John Zebedee:Gospel of John | | 
 
-Gospel of Luke | | Luke: Gospel of Luke | | 
+Gospel of Luke | | Luke:Gospel of Luke | | 
 
-Gospel of Mark | | John Mark: Gospel of Mark | | 
+Gospel of Mark | | John Mark:Gospel of Mark | | 
 
-Gospel of Matthew | | Matthew Levi: Gospel of Matthew | | 
+Gospel of Matthew | | Matthew Levi:Gospel of Matthew | | 
 
 gossip | | | | 
 speak not hearsay (138:8.4)
@@ -1123,7 +1124,7 @@ believers’ relation to
 	responsibility and morality of cosmic citizenship (39:4.9)
 	seek to win all parties; not be of any (137:7.5,12)
 	spirit will teach believers how to answer judges (176:1.1)
-celestial government | Urantia: celestial government
+celestial government | Urantia:celestial government
 	affairs of all worlds divinely supervised (3:1.1)
 	Father rules through his Sons (3:5.1-2)
 	levels of, assigned special domains of responsibility (33:6.3)
@@ -1205,7 +1206,7 @@ principles of government (70) (71) (72) | competition; courts; human rights; ind
 	sex equality (71:8.10)
 	should foster science, vanquish disease (71:8.9,11)
 	should provide fair, peaceful opportunities to all (70:9.17)
-	social welfare programs | charity: by government
+	social welfare programs | charity:by government
 	stages to evolution of government; freedoms required (71:2.9-19) (71:8.2-15)
 	strongest state has common language, mores, and institutions (71:1.1)
 	system is of value only if it enhances welfare of individual and mankind (134:5.2)
@@ -1377,7 +1378,7 @@ types of gravity
 		highly predictable (12:6.5)
 		independent of time (42:11.4)
 		less on Jerusem than Urantia (45:0.1)
-		linear (local) gravity
+		linear or local gravity
 			computable in terms of Paradise gravity (12:3.8)
 			Force Organizers retire in favor of Power Directors upon appearance of linear gravity (42:2.12)
 			not fully operative below level of atomic matter electrons (42:4.3)
@@ -1624,7 +1625,7 @@ slow westward drift (58:4.3)
 
 greensand marl | (60:3.9) | | | 
 
-Gregorian calendar | | | | 
+Gregorian calendar; leap-year calendar; twentieth-century calendar | | | | 
 used in Urantia Papers (57:0.1) (126:3.1)
 
 groups | | co-operation; family; fellowship of believers; friendship; individual; parts and the whole | | 

@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     W
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     W
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 wakes for dead | | | | 
 origin in ghost cults (87:6.11)
@@ -25,7 +26,7 @@ early writing (69:4.7)
 wands | | | | 
 magic practiced with (88:6.1)
 
-war | | military; peace: social peace; self-defense | | 
+war | | military; peace:social peace; self-defense | | 
 always been a kingmaker (70:5.5)
 benefits of early war (70:2)
 	Badonan survivors of war were most intelligent and desirable of all then living (64:5.1)
@@ -76,7 +77,7 @@ religion prostituted into military propaganda during (99:3.8)
 sentimental sophistry of visionary peace planning (70:3.4)
 slavery was feature of early military conquest (69:3.7) (69:8.1-4) (70:1.20) (70:8.5) (121:3.7)
 
-warnings | | religion: warnings | | 
+warnings | | religion:warnings | | 
 Adam and Eve repeatedly warned not to depart from divine plan (75:7.4)
 Lucifer and Caligastia misconstrued warnings as unjustified interference with personal liberties (66:8.2)
 Satania prison worlds are solemn warning (45:1.11)
@@ -145,7 +146,7 @@ Jesus passed
 watersnake | | | | 
 if your child asks for a (144:2.4)
 
-wave phenomena | | energy: types of energy: wave energy | | 
+wave phenomena | | energy:types of energy | | 
 
 wax board bond | | | | 
 debts recorded on (169:2.4)
@@ -279,7 +280,7 @@ first were grains of wheat (69:4.5)
 Jerusem gradant equals 10 Urantia ounces (46:1.2)
 of electrons and atoms (42:6.7-8)
 
-welfare (government) | | charity: by government | | 
+welfare (government) | | charity:by government | | 
 
 well-doing | | | | 
 be not weary in (163:6.7) (174:0.2) (192:2.9)
@@ -450,7 +451,7 @@ origin of idea that angels have (39:5.11-14)
 
 Wisconsin | (58:7.4) (58:7.7) | | PLACE | 
 
-wisdom | (85:7.3) | adjutant mind-spirits: #7–wisdom | | 
+wisdom | (85:7.3) | adjutant mind-spirits:7 – Wisdom | | 
 70 divisions of (27:6.3)
 ascending levels of (71:7.2,5-13)
 ask God for wisdom to solve problems (91:6.5) (91:9.7)
@@ -642,7 +643,7 @@ divine Sons are (10:3.3)
 Eternal Son is (6:0.1) (6:1.3) (6:2.2) (6:8.3) (14:6.15) (20:5.1)
 is bread of life (179:5.3)
 is truth, mercy, eternal life (174:5.7)
-Jesus was | Jesus: personality and nature: God incarnate in man
+Jesus was | Jesus:personality and nature
 Paul little dreamed his letters would be regarded as (98:7.9)
 reject traditional scriptures regarded as (155:6.2)
 
@@ -657,21 +658,21 @@ salvation not achieved by (143:2.5)
 
 world (earth) | | Urantia | | 
 
-world government | | government: world government | | 
+world government | | government:world government | | 
 
 world of the cross | | | | 
 Urantia known as (20:6.6) (57:8.6) (119:8.8) (188:4.1)
 
-world of the Father | | Jerusem: transitional culture worlds | PLACE | 
+world of the Father | | Jerusem:transitional culture worlds | PLACE | 
 7 circling worlds are detention spheres (45:1.10)
 Jerusem satellite, silent sphere; transitional culture world #7 (45:1.9) (53:7.1)
 Panoptians are caretakers (53:7.1)
 rebels held on (53:9.1)
 
-world of the Sons | | Jerusem: transitional culture worlds | PLACE | 
+world of the Sons | | Jerusem:transitional culture worlds | PLACE | 
 transitional culture world #5 (45:1.7)
 
-world of the Spirit | | Jerusem: transitional culture worlds | PLACE | 
+world of the Spirit | | Jerusem:transitional culture worlds | PLACE | 
 transitional culture world #6 (45:1.8)
 
 World War I | | | | 
@@ -682,7 +683,7 @@ worlds | | architectural spheres; planets; sacred spheres of Paradise; space bod
 worm of the dust | | | | 
 man is, by nature, but is divine in destiny (149:6.9)
 
-worship | (85) (5:3) (27:7) | adjutant mindspirits: #6–worship; churches; meditation; prayer; spiritual communion; temple | | 
+worship | (85) (5:3) (27:7) | adjutant mindspirits:6 - Worship; churches; meditation; prayer; spiritual communion; temple | | 
 Adam refused to accept (74:4.4-5)
 adoration of abstract beautiful, exaltation of nature is not worship (5:5.4)
 alternate with service (143:7.3)
@@ -748,7 +749,7 @@ primitives worshiped
 	plants and trees (85:2)
 	political rulers in Roman Empire (98:3.7-8)
 	stones and hills (85:1)
-	sun | sun (Urantia’s): sun worship
+	sun | sun (Urantia’s):sun worship
 	the 4 elements (85:4)
 	what they feared (85:7.2)
 quality of worship determined by depth of perception (5:4.8) (27:7.1)

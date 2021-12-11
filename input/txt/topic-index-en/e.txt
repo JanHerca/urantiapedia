@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     E
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     E
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 Ea | | | PERSON | OK
 Mesopotamian god of the sea (95:1.4)
@@ -97,7 +98,7 @@ Eden, Garden of | | Garden of Eden | PLACE |
 Edenic league | | | | 
 Adam’s Garden federation (74:5.5)
 
-Edenic teachings | | Garden of Eden: teachings | | 
+Edenic teachings | | Garden of Eden:teachings | | 
 
 Edenites | | Garden of Eden | RACE | 
 
@@ -439,7 +440,7 @@ kept John posted on world affairs (135:3.2)
 death of husband Zacharias (135:2)
 died on August 17, 22 A.D. (135:4)
 
-Elizabeth of Tiberias | | | PERSON | OK
+Elizabeth of Tiberias; Elizabeth | | | PERSON | OK
 daughter of wealthy Jew; member of women’s corps (150:1.1)
 at Jesus’ 16th appearance (193:0)
 
@@ -501,7 +502,7 @@ material feelings lead directly to material, selfish acts (102:3.3)
 mid-mammals showed fear, disgust, superstition (62:3.6,9)
 not equivalent to spiritual leadings (159:3.6)
 of early man (62:5.4-6)
-particular emotions | adventure; affectation; affection; anger; anxiety; assurance; blame; boredom; brooding; brotherhood (attitude); certainty; charity; complaining; confusion; contention; courage; courtesy; cowardice; curiosity; defeat; depression; despair; disappointment; discouragement; encouragement; enthusiasm; envy; equivocation; honor; hopes; hypocrisy; hysteria; immaturity; impatience; indolence; inferiority; insecurity; insubordination; intolerance; isolation; jealousy; joy; kindness; long-suffering; loneliness; love; loyalty; lust; meekness; moderation; modesty; paralysis; patience; persistence; pessimism; piety; poise; pride; procrastination; propriety; recklessness; resentment; revenge; ridicule; self-abasement; self-confidence; self-deception; self-denial; self-gratification; self-importance; self-pity; self-respect; selfishness; shame; sorrow; suspicion; sympathy; tenderness; tolerance; unhappiness; vanity; zeal
+particular emotions | adventure; affectation; affection; anger; anxiety; assurance; blame; boredom; brooding; brotherhood (attitude); certainty; charity; complaining; confusion; contention; courage; courtesy; cowardice; curiosity; defeat; depression; despair; disappointment; discouragement; encouragement; enthusiasm; envy; equivocation; honor; hopes; hypocrisy; hysteria; immaturity; impatience; indolence; inferiority; insecurity; insubordination; intolerance; isolation; jealousy; joy; long-suffering; loneliness; love; loyalty; lust; meekness; moderation; modesty; paralysis; patience; persistence; pessimism; piety; poise; pride; procrastination; propriety; recklessness; resentment; revenge; ridicule; self-abasement; self-confidence; self-deception; self-denial; self-gratification; self-importance; self-pity; self-respect; selfishness; shame; sorrow; suspicion; sympathy; tenderness; tolerance; unhappiness; vanity; zeal
 reduced land yield or increased population brings worst traits of human nature to surface (68:6.4)
 
 emperor worship | | Roman Empire | | 
@@ -572,7 +573,7 @@ circuits of energy
 	never permanent possessions of ascenders (117:5.7-8)
 	of superuniverse require 968 million years to complete circuit (15:8.2)
 	only suns in direct channels will shine on forever (41:7.14)
-	suns transform and send forth energy from space circuits (15:6.9) | Universe Power Directors: work
+	suns transform and send forth energy from space circuits (15:6.9) | Universe Power Directors:work
 	superuniverse energy circuits (15:9.10)
 	transport seraphim travel along energy circuits (39:5.14)
 definition
@@ -677,7 +678,7 @@ types of energy
 	Havona energy | triata
 	material energy q.v.
 	monota q.v.
-	morontia energy | morontia: morontia energy
+	morontia energy | morontia:morontia energy
 	mother force of space | absoluta
 	Paradise energy | monota
 	primordial force | segregata
@@ -688,7 +689,7 @@ types of energy
 	space energy | absoluta
 	space-force | absoluta
 	space potency | absoluta
-	spirit energy | spirit: spirit energy
+	spirit energy | spirit:spirit energy
 	tranosta q.v.
 	transcendental energy | tranosta
 	triata q.v.
@@ -760,7 +761,7 @@ southern headquarters of Nazarites and other ascetic herdsmen (135:1.1) (135:2.3
 England | | British Isles | PLACE | 
 reposed sovereignty in United Kingdom (134:6.3)
 
-English Channel land bridge | (64:1.5-6) ​​(64:2.6) | | PLACE | 
+English Channel land bridge; land path from England; land bridge | (64:1.5-6) (64:2.6) | | PLACE | 
 
 English language | | | | 
 revelators instructed to use (0:0.1-3) (31:10.22) (56:10.23)
@@ -841,10 +842,10 @@ Israelitish consciousness took origin in E.; vanished (97:9.2,21)
 Judahites always defamed Ephraimites (97:9.2)
 oppressed elders of Ephraim anointed David king of Israel (97:9.11)
 
-Epicurean teacher in Corinth | | | | 
+Epicurean teacher in Corinth; Epicurean teacher | | | | 
 Jesus’ talk with (133:4.5)
 
-Epicureanism | | | RELIGION | 
+Epicureanism; Epicureans | | | RELIGION | 
 dedicated to pursuit of happiness; combated superstition (121:4.2)
 Occidental religion languished until days of (98:6.2)
 
@@ -855,10 +856,10 @@ Jesus healed James of Safed’s son (158:4.2) (158:5.6)
 priests and medicine men often were (88:1.9) (90:1.2)
 primitives often worshiped (85:6.2)
 
-Epistle of First John | | | | 
+Epistle of First John; First John | | | | 
 written as cover letter for Gospel of John (121:8.10)
 
-epochal angels | | seraphim: types:master seraphim of planetary supervision | ORDER | 
+epochal angels | | seraphim:types | ORDER | 
 
 epochal revelation | | revelation | | 
 
@@ -1017,7 +1018,7 @@ marriage to James brother of Jesus (128:5.7) (128:7.10-11)
 Esther | (150:3.1) | | PERSON | OK
 Purim is feast of (123:3.5)
 
-eternal life | | death; fusion; heaven; judgment; life; nonsurvivors; resurrection; salvation; survival | | 
+eternal life | | death; fusion; heaven; judgment; life; nonsurvivors; resurrection; salvation; survival (of mortal death) | | 
 according to
 	Buddhism (131:3.7)
 	Confucianism (131:9.4)
@@ -1050,7 +1051,7 @@ no misbehavior by others can ever jeopardize one’s eternal prospects (54:6.4)
 no one can be coerced into (5:6.8,12)
 what would a man give in exchange for e.l.? (158:7.5)
 
-Eternal Son | (6) (7) (10:1.4) | gravity: spirit gravity | PERSON | OK
+Eternal Son | (6) (7) (10:1.4) | gravity:spirit gravity | PERSON | OK
 personality of Eternal Son is master pattern for all personality (0:6.13) (6:7) (6:8.5) (115:3.14)
 7 sacred worlds of Eternal Son (13:0.4) (13:3)
 active spirit gravity of Eternal Son calculated (12:3.9)
@@ -1141,7 +1142,7 @@ recognition of the Eternal Son (6:8)
 	ascenders recognize Eternal Son on 4th circuit of Havona (26:8.1-2)
 	easier to approach than Father (7:7.5)
 	Michael possesses all attributes of Eternal Son, were Eternal Son in Nebadon (33:1.2)
-	Planetary Princes are nearest personal approach of Eternal Son (aside from incarnation) to man (50:1.1)
+	Planetary Princes are nearest personal approach of Eternal Son, aside from incarnation, to man (50:1.1)
 
 Eternals of Days | (18:2) | Havona | ORDER | 
 1 billion created by Trinity; one directs each Havona sphere (14:3.3) (14:5.6,9) (18:2.1)
@@ -1156,7 +1157,7 @@ Supreme Trinity Personalities (18:0.3) (18:2.1)
 Trinity Teacher Son replaces when absent (18:2.2)
 visible to all inhabitants of their worlds (18:2.2)
 
-eternity | (118:1) | eternal life; reality: levels of reality: absolute reality | | 
+eternity | (118:1) | eternal life; reality:levels of reality | | 
 attainment of Father is passport to eternity (26:9.2)
 conception of eternity
 	circular simultaneity, not linear sequence (130:7.5)
@@ -1273,7 +1274,7 @@ unified in times of Jesus (121:1.3-7)
 evaluation | | | | 
 demands transcendence of thing evaluated (112:2.12)
 
-evangelism | | gospel: proclaiming | | 
+evangelism | | gospel:proclaiming | | 
 
 evangelists | | disciples | PERSON | OK
 a group of preachers ordinated by Jesus from the original evangelists
@@ -1342,7 +1343,7 @@ evidence | | certainty | |
 basis of fairness (10:6.3)
 in tribunals given by personalities of Infinite Spirit (10:6.3-4)
 
-evil | (130:1.5-6) ​​(132:2) | error; evolution: principle of evolution; iniquity; mistakes; misunderstandings; rebellion (spiritual); sin | | 
+evil | (130:1.5-6) (132:2) | error; evolution:principle of evolution; iniquity; mistakes; misunderstandings; rebellion (spiritual); sin | | 
 Adjusters pilot God-conscious mortals away from (110:1.2)
 almost every human being has a pet evil (163:2.7)
 always results when personal evaluations are elevated to absolutes (19:1.4) (100:1.1)
@@ -1424,7 +1425,7 @@ evil one | | Caligastia | |
 evil spirits | | demon possession | | 
 
 evolution | | divine plan; progress | | 
-biologic evolution (65) | genetics; life: biological
+biologic evolution (65) | genetics; life:biological
 	2 unique features on Urantia were appearance of Andonic race prior to colored peoples; appearance in a single family (64:6.1-2) (65:4.7)
 	50,000 facts prove evolution nonaccidental (58:2.3-5)
 	Adam’s significant contribution (51:0.3) (75:8.1-2) (78:1.1)
@@ -1586,7 +1587,7 @@ nothing takes the place of (22:9.6-8) (108:0.2) (109:1.3) (181:2.5,24)
 outer spacers will lack finite experience (31:10.11)
 subjective, except for validity of cosmic mind response (16:9.1)
 
-experientials | | reality: levels of reality: finite reality | | 
+experientials | | reality:levels of reality | | 
 earned power, demonstrated power (106:2.3)
 
 experts of communication | | | ORDER | 
@@ -1607,7 +1608,7 @@ extension-school instructors | | | ORDER |
 in Uversa personality register (30:2.153)
 teachers from next higher residential world (30:3.8)
 
-extinction | | death: spiritual death; divine executioners; iniquity; judgment:divine judgment; sin; survival | | 
+extinction | | death:spiritual death; divine executioners; iniquity; judgment:divine judgment; sin; survival (of mortal death) | | 
 Ancients of Days
 	alone may decree extinction (2:3.3) (15:12.2) (18:3.7) (20:3.2)(33:2.1)
 	executioners of Ancients of Days (2:3.6) (53:3.5)
@@ -1658,10 +1659,10 @@ did not accept Jesus; split from John (137:2.2)
 Ezra of Alexandria | | | PERSON | OK
 father of Susanna (189:4.4)
 
-Ezra of Nazareth | | | PERSON | OK
+Ezra of Nazareth; Ezra | | | PERSON | OK
 wealthy merchant, father of Rebecca (127:5.1,2,6)
 
-Ezra of Syracuse | | | PERSON | OK
+Ezra of Syracuse; Ezra | | | PERSON | OK
 backslidden Jew whom Jesus rehabilitated (130:8.2)
 
 Ezra (Prophet) | | | PERSON | OK

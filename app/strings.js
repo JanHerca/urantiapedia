@@ -609,10 +609,6 @@ const Strings = {
 		en: "topic duplicated in ",
 		es: "término duplicado en "
 	},
-	"topic_many_see": {
-		en: "many seeAlso",
-		es: "demasiados seeAlso"
-	},
 	"topic_invalid_refs": {
 		en: "invalid references: ",
 		es: "referencias inválidas: "

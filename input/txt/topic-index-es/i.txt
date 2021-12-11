@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     I
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     I
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 YO SOY | (105:1) | Dios; El Infinito; Padre Universal | PERSON | OK
 el concepto del YO SOY
@@ -45,14 +46,14 @@ oración por la liberación de la maldición de (63:6.6)
 el joven Jesús contempló (124:1.8)
 
 edades de hielo | (59:1.17) (61:5-7) | glaciares | | 
-Primera edad de hielo:(61:5-7)
-Tercera edad de hielo:aparecieron andonitas en tiempos de; Hace 1.000.000 de años (61:6) (64:1.4)
-Cuarta edad de hielo:hace 750.000 a 600.000 años (61:7.2) (64:4.4-9)
-Quinta edad de hielo:(61:7.4) (64:7.1) (64:7.8)
-	empujó a los tipos infrahumanos hacia el sur (79:5.2)
-Sexta edad de hielo:(64:7.17)
-	más grande de América del Norte (61:7.6-12)
-	retirada del hielo en Europa vientos desplazados (80:2.1)
+* Primera edad de hielo:(61:5-7)
+* Tercera edad de hielo:aparecieron andonitas en tiempos de; Hace 1.000.000 de años (61:6) (64:1.4)
+* Cuarta edad de hielo:hace 750.000 a 600.000 años (61:7.2) (64:4.4-9)
+* Quinta edad de hielo:(61:7.4) (64:7.1) (64:7.8)
+** empujó a los tipos infrahumanos hacia el sur (79:5.2)
+* Sexta edad de hielo:(64:7.17)
+** más grande de América del Norte (61:7.6-12)
+** retirada del hielo en Europa vientos desplazados (80:2.1)
 6 invasiones separadas (61:5.4)
 Ciclo de 200.000 años (61:7.12)
 otra edad de hielo no puede ocurrir mientras las regiones polares estén cubiertas de hielo (61:7.11)
@@ -292,7 +293,7 @@ inútil (150:3.11)
 magia practicada con (88:6.1)
 combinaciones de palabras consideradas altamente mágicas (88:6.3)
 
-encarnación | | Hijos Creadores:donaciones de criaturas; Jesús:personalidad y naturaleza:Dios encarnado en el hombre; Hijos Magistrales:misiones planetarias; Miguel de Nebadon:donaciones; Hijos Paradisíacos de Dios:donaciones | | 
+encarnación | | Hijos Creadores:donaciones de criaturas; Jesús:personalidad y naturaleza; Hijos Magistrales:misiones planetarias; Miguel de Nebadon:donaciones; Hijos Paradisíacos de Dios:donaciones | | 
 El Espíritu Infinito no se encarna; más bien escalones en forma de ángeles (8:4.5-6)
 
 incas | | | RACE | 
@@ -561,7 +562,7 @@ aceptó el donación de Miguel en el monte de la transfiguración por medio de u
 Como Dios de Acción es el antepasado aparente del movimiento, del cambio y de las relaciones (9:1.1)
 el Padre trata al Espíritu Infinito como igual (133:2.2)
 uno de los circuitos energéticos de los superuniversos es la presencia instantánea del Espíritu Infinito (15:9.8)
-La mente pura es la pariente más cercana de la mente infinita, y la mente infinita (la coordinada teórica de los absolutos del espíritu y de la energía) es aparentemente una ley en sí misma (9:6.6)
+La mente pura es la pariente más cercana de la mente infinita, y la mente infinita, la coordinada teórica de los absolutos del espíritu y de la energía, es aparentemente una ley en sí misma (9:6.6)
 La mente de la Fuente-Centro Tercera es infinita y es adecuada para dotar de mente a un número ilimitado de criaturas (9:5.1)
 los Ajustadores se encuentran completamente fuera de los circuitos mentales del Espíritu Infinito, aunque tienen premente, y algo como el pensamiento (6:6.3)
 junto a los Ajustadores o fragmentaciones del Padre existen las fragmentaciones del espíritu premental de la Fuente-Centro Tercera, aunque unos y otros son muy distintos (30:1.101)
@@ -725,7 +726,7 @@ El Sostén Infinito es el YO SOY autoasociativo, la asociación primordial de lo
 La Infinitud | | YO SOY; El Uno Infinito; La Infinidad | PERSON | OK
 la Infinitud es un postulado que se hace para explicar el momento inicial teórico en el que se produce la primera volición del YO SOY y su repercusión, en la cual El Uno Infinito y la Infinitud se diferencian uno de otro, y a su vez del continuum eterno de La Infinidad (105:2.2)
 
-infinito | | realidad:niveles de realidad:realidad absoluta | | 
+infinito | | realidad:niveles de realidad | | 
 Elipse casi ilimitada producida por una causa absoluta (105:0.1)
 unidad y diversidad (115:3.4)
 capaz de autolimitarse; posibilidad finita inherente a (105:1.8) (105:5.4) (108:0.2) (115:2.4) (115:4.3-4)
@@ -1043,7 +1044,7 @@ ionización | | | |
 provoca variación de la brújula (58:2.9)
 el calor en la estratosfera ioniza el oxígeno (58:2.6)
 produce manifestaciones auditivas en la atmósfera (58:2.8)
-despojar átomos de electrones externos (químicamente activos) (42:3.8)
+despojar átomos de electrones externos, químicamente activos (42:3.8)
 
 ionosfera | | | | 
 rango de temperatura; tormentas en (58:2.6,10)

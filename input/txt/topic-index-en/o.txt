@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     O
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     O
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 oaks | (60:3.19) | | | 
 
@@ -152,7 +153,7 @@ near entrance to Gethsemane (183:0.3,5)
 
 Olivet | | Mount Olivet | | 
 
-Olympian religion | | Greece: Greek religion | | 
+Olympian religion | | Greece:Greek religion | | 
 
 omens | | | | 
 believed to reveal will of spirits; ghost cultists considered everything out of ordinary as omen (87:5.9-14)
@@ -233,7 +234,7 @@ spiritual deliverer of red man; lived 65,000 years ago; brought
 universal peace (45:4.5) (64:6.7-8)
 taught unanimous rule of council of seven (70:5.4)
 
-one-brained mortals | | brains; mortals: planetary types | | 
+one-brained mortals | | brains; mortals:planetary types | | 
 
 One God | | | | 
 book by Ikhnaton (95:5.7)
@@ -296,7 +297,7 @@ believed to reveal will of spirits (87:5.9)
 Greeks believed in (90:2.8)
 Latin peoples consulted optimism in crisis (98:3.4)
 
-oral law | | Judaism: oral law; traditions | | 
+oral law | | Judaism:oral law; traditions | | 
 
 orange race | (64:6.10-13) | races | RACE | 
 believed in transmigration and reincarnation (86:4.6)
@@ -449,7 +450,7 @@ overpopulation | | population | |
 overprotection | | child-rearing | | 
 John Mark permitted to have original experience; was not overprotected (177:2.2-4)
 
-overrevelation | | revelation: overrevelation | | 
+overrevelation | | revelation:overrevelation | | 
 
 oversoul of creation | | Supreme | PERSON | 
 

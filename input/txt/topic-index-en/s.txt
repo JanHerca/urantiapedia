@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     S
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     S
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 Sabbath | | | | 
 Adam’s coincidental choosing of 7th day for worship (74:3.9) (74:4.6) (74:8.1)
@@ -238,7 +239,7 @@ Salem | | | PLACE |
 called Jerusalem after disappearance of Melchizedek (93:2.4)
 over 100,000 tithe payers on rolls of (93:6.8)
 
-Salem teachings | (93:4) | Melchizedek, Machiventa; missionaries: Salem missionaries | RELIGION | 
+Salem teachings | (93:4) | Melchizedek, Machiventa; missionaries:Salem missionaries | RELIGION | 
 among the Hebrews (96) (97)
 based exclusively on creative power (96:0.1)
 basic factor in all religions of last 4000 years (98:7.4)
@@ -589,7 +590,7 @@ Satania | (45) (46) | Jerusem; local systems; Lucifer rebellion | PLACE |
 500,000 physical controllers in (41:2.4)
 administration (45)
 	Ancients of Days sustained Most Highs in seizure of Satania government (43:3.7) (53:7.14)
-	by 7 Lanonandeks (named) (45:3.1)
+	by 7 Lanonandeks, named (45:3.1)
 	Jerusem headquarters (46) (15:7.5) (15:14.6)
 	Lanaforge is System Sovereign (93:3.2)
 	no changes in technique as result of rebellion (45:2.2)
@@ -865,7 +866,7 @@ guide ascenders in perplexity, uncertainty, and emergencies (28:7.2-3)
 		# Secrets of Greatness
 		# Souls of Goodness q.v.
 
-second coming | | Jesus: second coming | | 
+second coming | | Jesus:second coming | | 
 groups always expect return of leaders (92:5.6)
 
 second experiential Trinity | | Trinity Absolute | PERSON | 
@@ -1026,7 +1027,7 @@ work is important, self is not (48:6.37)
 self-abasement | | | | 
 co-operation with Adjuster does not entail ostentatious self-abasement (110:3.4)
 
-self-acting Adjusters | | Thought Adjusters: types of Adjusters | ORDER |
+self-acting Adjusters | | Thought Adjusters:types of Adjusters | ORDER |
 
 self-admiration | | self-importance | | 
 
@@ -1146,7 +1147,7 @@ instead of self-sacrifice (180:5.12)
 
 self-government | | government; self-control | | 
 
-self-gratification | | flesh; pleasures; sex: urge | | 
+self-gratification | | flesh; pleasures; sex:urge | | 
 attained by food satisfaction, play, humor, sex indulgence (84:0.2-3) (84:8.2-3)
 dangers (84:8)
 	excessive self-gratification destroys civilization (68:2.2,11)
@@ -1319,7 +1320,7 @@ Tiberias succeeded Sepphoris as capital of Galilee (129:1.1-2) (135:12.1)
 
 sepulchres | | tombs | | 
 
-sequentiality | | time: nature of time | | 
+sequentiality | | time:nature of time | | 
 
 Serapatatia | (75:3-5) | | PERSON | 
 brown-tinted leader of Nodite Syrian confederation (75:3.1)
@@ -1406,7 +1407,7 @@ destiny
 		celestial artisans (39:8.3)
 		Celestial Recorders (25:6.1) (37:8.8) (39:8.3)
 		completion seraphim (39:8.10) (39:9)
-		finaliters (are Father-indwelt before admission to Corps of Mortal Finaliters) (31:4.1) (40:1.2)(55:4.31)
+		finaliters are Father-indwelt before admission to Corps of Mortal Finaliters (31:4.1) (40:1.2) (55:4.31)
 		Paradise Companions (25:8.1) (39:8.3)
 		Technical Advisers (25:4.7) (39:8.3)
 		Trinitized Custodians (22:5.2)
@@ -1700,7 +1701,7 @@ Trinity concept of (79:3.4) (104:1.2)
 
 seven | | 7 | | 
 
-Seven Absolutes of Infinity | | Absolutes: the seven | PERSON | 
+Seven Absolutes of Infinity | | Absolutes:the seven | PERSON | 
 
 Seven Central Supervisors | | Master Spirits, Seven | PERSON | 
 
@@ -2061,7 +2062,7 @@ Sicily | | | PLACE |
 marine life evolved in bay of (59:6.9)
 Thomas preached in (139:8.13)
 
-sick | | disease; healing; health; injury; Jesus: miracles and healings; medicine | | 
+sick | | disease; healing; health; injury; Jesus:miracles and healings; medicine | | 
 apostles, women’s corps visited every house to minister to (141:8.1) (142:8.1) (146:3.9) (151:0.2) (163:7.3)
 avoided and neglected for long ages (90:4.3)
 do everything in power to alleviate or cure (163:4.15)
@@ -2359,7 +2360,7 @@ torments indwelling gift of God (3:1.5)
 wages of sin is death (46:8.4) (53:9.8)
 way of transgressor is hard (53:9.8) (75:6.4)
 examples (153:3.5)
-forgiveness of sin | forgiveness: divine forgiveness
+forgiveness of sin | forgiveness:divine forgiveness
 glamour, fascination, and intoxication of committing (186:1.6)
 has never occurred in Havona (14:2.9)
 if false shepherd were blind, he would have no (165:2.3)
@@ -2405,7 +2406,7 @@ orders
 	*# evolutionary seraphim | seraphim
 	*# evolutionary cherubim | cherubim and sanobim
 	*# unrevealed ascenders (30:1.54)
-	* C. family of Infinite Spirit | Infinite Spirit: family of
+	* C. family of Infinite Spirit | Infinite Spirit:family of
 
 Sinkiang | | | PLACE | 
 Andite culture dominant in 15,000 B.C. (78:5.2,6) (78:6.4)
@@ -2734,7 +2735,7 @@ son of commandment | | | |
 citizen of commonwealth of Israel (123:5.2) (125:2.6)
 upon graduation Jesus became (124:5.4) (125:4.3)
 
-Son of God | | Jesus: nature of Jesus: God incarnate in man | ORDER | 
+Son of God | | Jesus:nature of Jesus | ORDER | 
 Jewish concept of heavenly Prince ruling earth made new (135:5.7) (136:1.1)
 
 Son of Man | | | PERSON | 
@@ -2799,12 +2800,12 @@ orders of Sons of God
 			# Adjuster-fused mortals q.v.
 			# Son-fused mortals q.v.
 			# Spirit-fused mortals q.v.
-			# evolutionary seraphim | seraphim: destiny
+			# evolutionary seraphim | seraphim:destiny
 			# ascending Material Sons | Material Sons
 			# translated midwayers (38:9.1) (40:3)
 			# Personalized Adjusters q.v.
 			unrevealed ascenders (30:1.54)
-	C. stationary orders (dual origin)
+	C. stationary orders, dual origin
 		types (30:1.43-48)
 			# abandonters q.v.
 			# susatia q.v.
@@ -2971,7 +2972,7 @@ nature of the soul (111:2)
 prayer is breath of the soul (144:2.3)
 soul conflict is disharmony between moral and intellectual self-consciousness (133:6.6)
 saving or losing of the soul (133:6.6)
-winning souls | gospel: proclaiming
+winning souls | gospel:proclaiming
 world filled with lost souls (100:5.1)
 
 Souls of Goodness | | seconaphim | ORDER | 
@@ -3009,7 +3010,7 @@ Sovereign Sons | | Master Michaels | ORDER |
 sovereignty | | | | 
 because Ancients of Days did not earn right to rule, they will be superseded by Supreme (18:3.8-9)
 control of spiritual gravity by Eternal Son is spiritual sovereignty (7:1.1)
-local universe s | Creator Sons: local universe sovereignty
+local universe s | Creator Sons:local universe sovereignty
 	Creator Sons earn (18:3.9) (21:3) (120:0.1,4)
 	Jesus achieved completion of (21:4.5) (136:3.4-5)
 political sovereignty | nationalism
@@ -3066,7 +3067,7 @@ no barrier to Deity (3:1.6)
 personalities of Infinite Spirit largely independent of (34:3.2)
 pervaded space
 	6 space levels constitute major divisions of (12:1.2-9)
-	ancestral space potency of Unqualified Absolute (absoluta) fills (11:7.4) (12:5.2) (42:5.14-16)
+	ancestral space potency of Unqualified Absolute, absoluta, fills (11:7.4) (12:5.2) (42:5.14-16)
 	exerts antigravity influence upon linear gravity (11:8.3)
 	now in expansion phase (11:6.4)
 	V-shaped plane at right angles to peripheral Paradise (11:6.1-2) (11:7.5)
@@ -3092,7 +3093,7 @@ unpervaded space
 	space unpervaded by forces, energies, and presences existing in
 	pervaded space (11:6.3)
 	shaped like an hourglass above and below Paradise (11:6.1)
-	vertical (reservoir) space is equipoise of horizontal (universe) space (11:6.1,3) (11:7.1-2)
+	vertical or reservoir space is equipoise of horizontal or universe space (11:6.1,3) (11:7.1-2)
 vast amount of matter circulates in (15:5.9)
 
 space bodies | (15:6) | | | 
@@ -3252,7 +3253,7 @@ Primates, Andonites developed (63:1.2-3) (63:5.6)
 
 spiders | (59:5.7) (65:2.5) | | |
 
-spies | | Sanhedrin: Sanhedrin spies | | 
+spies | | Sanhedrin:Sanhedrin spies | | 
 secret societies were first (70:7.16)
 women employed as (69:3.11)
 
@@ -3261,9 +3262,9 @@ cruse of spikenard cost man’s annual income; Mary poured onto Jesus (172:1.5-8
 
 spirit | | divinity; spiritual communion; spiritual growth; spiritual influences; spiritual insight; spiritual rebirth; spiritual unity | | 
 Absolutes seem to supervene (4:1.8)
-circuits | gravity: types: spirit gravity
+circuits | gravity:types
 Eternal Son has infinite drawing power over (6:4.1)
-gravity | gravity: types: spirit gravity
+gravity | gravity:types
 in man (34:6)
 	Adjuster can speak directly and immediately with 1st psychic circler (110:6.15)
 	Adjusters constantly communicate with human subjects (101:4.3) (108:6.7) (110:1.1)
@@ -3355,7 +3356,7 @@ superior seraphim serving ascenders on Salvington (39:2.6)
 spirit conjuring | | | | 
 shamans utilized (90:2.1)
 
-Spirit-fused mortals | (37:5.1-4) (40:9) | fusion; mortals: planetary types | ORDER | 
+Spirit-fused mortals | (37:5.1-4) (40:9) | fusion; mortals:planetary types | ORDER | 
 associated with Celestial Guardians on Uversa (22:9.4) (40:10.9)
 depend on seraphic associates, records, for immediate reconstruction of human memory (40:9.4-9) (112:6.8)
 destiny
@@ -3495,7 +3496,7 @@ spiritual assurance | | assurance | |
 
 spiritual attainment | | spiritual growth | | 
 
-spiritual communion | (103:4) | God: consciousness of God; meditation; prayer; spiritual growth; worship | | 
+spiritual communion | (103:4) | God:consciousness of God; meditation; prayer; spiritual growth; worship | | 
 effect of spiritual communion
 	assurance of spiritual communion gradually develops (34:6.12)
 	divine presence most fully discovered in (5:2.3)
@@ -3528,7 +3529,7 @@ spiritual consecration | | consecration of choice | |
 spiritual-energy manipulators | | | ORDER | 
 energy manipulator celestial artisans (44:5.4)
 
-spiritual growth | (103) (100:1-2) (101:6) | God: consciousness of God; God: finding God; growth; religion; spiritual communion; spiritual rebirth; submission | | 
+spiritual growth | (103) (100:1-2) (101:6) | God:consciousness of God; God:finding God; growth; religion; spiritual communion; spiritual rebirth; submission | | 
 achievement
 	by elimination of selfish qualities of love (100:2.4)
 	by faith and revelation (19:5.12)
@@ -3638,11 +3639,11 @@ Life Carriers conspired to lead Andon and Fonta north, once they decided to flee
 listed (9:2.3-5) (92:0.2-5) (113:4.6)
 	cosmic mind q.v.
 	Holy Spirit q.v.
-	mind-gravity circuit of Infinite Spirit (9:2.3) | gravity: types
+	mind-gravity circuit of Infinite Spirit (9:2.3) | gravity:types
 	Paradise Trinity (34:6.1)
 	personality circuit q.v.
 	seraphim q.v.
-	spirit-gravity of Eternal Son envelopes us (6:5.7) | Eternal Son; gravity: types
+	spirit-gravity of Eternal Son envelopes us (6:5.7) | Eternal Son; gravity:types
 	Spirit of Truth q.v.
 	superuniverse Master Spirit, through local universe Mother Spirit (16:5.3) (16:6.2)
 	Supreme Being | Supreme
@@ -3654,7 +3655,7 @@ relationship to free will | free will
 spirit world is real (28:5.21)
 transitions of spirit co-operation always gradual (65:7.7)
 
-spiritual insight | | leadings; mysticism; revelation: personal revelation | | 
+spiritual insight | | leadings; mysticism; revelation:personal revelation | | 
 accrues as consequence of God-revealing Adjuster in hungry mortal mind (101:1.5)
 achieved independent of sociomoral differentials (5:1.4)
 Adjuster attaches feeling of reality to (102:3.12)
@@ -3675,9 +3676,9 @@ social leadership transformed by (99:4.2)
 transcends and supervenes mind consciousness (9:4.2)
 turns defeat into higher determinations (196:3.29)
 
-spiritual peace | | peace: spiritual peace | | 
+spiritual peace | | peace:spiritual peace | | 
 
-spiritual presence | | God: consciousness of God | | 
+spiritual presence | | God:consciousness of God | | 
 
 spiritual progress | | spiritual growth | | 
 
@@ -3775,7 +3776,7 @@ prayer may be a spontaneous outburst of God-consciousness (91:8.5,10) (144:2.2)
 spontaneous friendliness of spirit-born sons (180:5.12)
 true worship is spontaneous (5:5.3) (27:4.2) (27:7.2) (47:7.5)
 
-spore-bearing plants | | plants: spore-bearing plants | | 
+spore-bearing plants | | plants:spore-bearing plants | | 
 
 spornagia | (46:7) | | ORDER | 
 animal caretakers of architectural spheres (37:10.3) (45:0.3)
@@ -3832,7 +3833,7 @@ burning at stake once commonplace for sexual offenses (70:10.14)
 
 stamina | | persistence | | 
 
-standard time | | time: days and years | | 
+standard time | | time:days and years | | 
 local universe time (33:6.9)
 
 standards of living | | | | 
@@ -3865,7 +3866,7 @@ in their courses do battle for faith sons (101:10.9)
 new star signified birth of a great man (150:3.2-3)
 seen as glorified souls of great men departed (85:5.1) (95:2.7)
 
-stationary orders (dual origin) | | Sons of God: orders | ORDER | 
+stationary orders (dual origin) | | Sons of God:orders | ORDER | 
 
 Stationary Sons of the Trinity | (10:6) (33:5) | | | 
 2 billion and 70 serve in Havona; 5 billion in each superuniverse (19:4.8)
@@ -4034,7 +4035,7 @@ study | | education | |
 
 sturgeon | (60:2.9) | | | 
 
-subbreathers | | mortals: planetary types | | 
+subbreathers | | mortals:planetary types | | 
 type of atmospheric mortal; 2-1/2% in Satania; beings on Mars would be (49:2.12-13)
 
 subconscious mind | | mortal mind | | 
@@ -4187,7 +4188,7 @@ sun worship
 	Mithraic Sol Invictus (98:5.3)
 	persists in Brittany (80:9.14)
 	sun honored by naming of Sunday (85:5.2)
-sunlight | light: material light; suns: sunlight
+sunlight | light:material light; suns:sunlight
 	health-giving and disease-destroying properties (66:5.20)
 	ionizes upper atmosphere (58:2.6-10)
 	ozone layer filters out extreme ultraviolet rays (58:2.2)
@@ -4212,7 +4213,7 @@ cannot degrade ultimatons (41:7.12) (42:4.8) (42:6.3)
 collapse of Andromeda and Crab nebulas (41:8.2,3)
 convert matter into energy (42:4.9)
 cooling stars have lost free ultimatonic energy (41:4.3)
-creation of planets | planets: origins
+creation of planets | planets:origins
 density (41:3.6) (41:4)
 energy from suns moves straight forward in particles, not waves (41:5.6-8)
 exist in 1000 states and stages (15:6.8)
@@ -4225,7 +4226,7 @@ local accelerators of energy circulation (15:6.9)
 majority have planets (57:4.2)
 most born by being thrown off spinning nebula (57:3.6)
 most not very dense; some immensely dense (41:3.6) (41:5.1)
-named | astronomy: places named
+named | astronomy:places named
 nuclear reactions in (41:8)
 number in master universe (41:3.2)
 origin (15:4-5)
@@ -4242,7 +4243,7 @@ spectral analysis only shows surface conditions (41:6.7)
 stability dependent on gravity-heat equilibrium (41:9)
 stable internal temperature of 35,000,000°F; heat given off (15:6.9) (41:4.7) (41:7.1-13) (41:9.1)
 subatomic matter in interiors of (42:3.6)
-sunlight | light: material light; sun (Urantia’s): sunlight
+sunlight | light:material light; sun (Urantia’s):sunlight
 	consists of electrons agitated by X rays (41:5.4-5)
 	octave of wave energy (42:5.1,10)
 sunspots
@@ -4271,12 +4272,12 @@ sunspots | | suns | |
 Suntites | | | RACE | 
 occupied Garden of Eden after default (73:7.1)
 
-superangel world | | Jerusem: transitional culture worlds | PLACE | 
+superangel world | | Jerusem:transitional culture worlds | PLACE | 
 transitional culture world #4 (45:1.6)
 
 superangels | | Brilliant Evening Stars | ORDER | 
 
-superbreathers | | mortals: planetary types | | 
+superbreathers | | mortals:planetary types | | 
 type of atmospheric mortal; 5% in Satania; beings on Venus would be (49:2.12-13)
 
 superconscious mind | | mortal mind | | 
@@ -4508,7 +4509,7 @@ types
 	# recorders (39:3.10)
 	# reserves (39:3.11)
 
-suppression | | sin: dealing with | | 
+suppression | | sin:dealing with | | 
 summary suppression of Lucifer rebellion would have tripled number led astray (54:5.12)
 
 Supremacy | | Supreme | | 
@@ -4740,7 +4741,7 @@ Trinity Teacher Sons assigned to, in light and life (55:10.6)
 supreme court of tribal co-ordination and racial co-operation | | Caligastia one hundred | PERSON | 
 
 Supreme Creators | | God the Sevenfold | ORDER | 
-1st 3 levels of God the Sevenfold: Creator Sons, local universe Mother Spirits, Ancients of Days, and Seven Master Spirits (31:9.14) (36:6.7) (56:5.3) (56:6.1-2) (106:3.2) (106:5.2) (115:4.7) (116:2) (116:4.2) (117:1.2) (117:3.7) (118:0.9) (118:4.7)
+1st 3 levels of God the Sevenfold:Creator Sons, local universe Mother Spirits, Ancients of Days, and Seven Master Spirits (31:9.14) (36:6.7) (56:5.3) (56:6.1-2) (106:3.2) (106:5.2) (115:4.7) (116:2) (116:4.2) (117:1.2) (117:3.7) (118:0.9) (118:4.7)
 date from organization of 7 superuniverses (0:8.12)
 descended from Paradise to evolve creatures with Paradise attainment capacity (0:2.16) (117:1.2)
 experiential Deity (116:2.13) (116:4)
@@ -4832,7 +4833,7 @@ types (39:1)
 supreme service | | | | 
 only degree granted in morontia temple (55:3.8,19)
 
-Supreme Spirits | (17) (9:8.15) | Infinite Spirit: family | ORDER | 
+Supreme Spirits | (17) (9:8.15) | Infinite Spirit:family | ORDER | 
 administrative directors of grand universe (17:0.1-12) (17:8.3)
 all ministering spirits spring from (17:8.2)
 groups comprising, in personality registers (30:1.3,56) (30:2.14)
@@ -4871,7 +4872,7 @@ surprise | | | |
 to God, no event comes as (2:1.5) (3:2.6-7) (3:3.4)
 
 survival (of mortal death) | (112) | eternal life; nonsurvivors; probationary nursery; resurrection; salvation | | 
-adjudication of survival | judgment: divine judgment
+adjudication of survival | judgment:divine judgment
 	all must experience one true opportunity to make an undoubted, final choice (112:5.9)
 	Creator Sons may decree survival (15:12.2)
 	in doubt, universe governments invariably rule in personal interests of individual (112:5.7-9) (139:12.7)
@@ -4893,7 +4894,7 @@ assurance of survival
 attained by
 	acceptance of sonship (26:4.15)
 	accepting participation in adventure of eternity (117:4.11)
-	achieved (in spirit) now in doing Father’s will (40:5.4) (111:5.4)
+	achieved, in spirit, now in doing Father’s will (40:5.4) (111:5.4)
 	choosing values selected by Adjuster (132:2.2-3) (196:3.17)
 	effort and decision (50:6.3)
 	faith only (139:12.7) (140:10.1) (141:7.6) (150:5.2) (157:2.2) (163:2.4) (170:2.20-22) (170:5.13)

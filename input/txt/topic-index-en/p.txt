@@ -1,12 +1,13 @@
-####################################################################################
-#
-#                     P
-# Urantia Book Uversa Press Topical index converted to text file
-# Each entry has a previous blank line
-# Entry = Name | Refs | See also | Category | OK (= revised)
-# An entry can have one or several sub-entries (= the lines after entry)
-# A sub-entry can have sub-sub-entries with tabs and so on
-####################################################################################
+<__________________________________________________________________________________
+<
+<                     P
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+<__________________________________________________________________________________
 
 Pacific Ocean | | | PLACE | 
 950 million years old; originally not salty (57:8.3-5)
@@ -101,7 +102,7 @@ Jesus passed
 parable prayers | | | | 
 taught by Jesus (144:5.1)
 
-parables | | Jesus: parables of Jesus | | 
+parables | | Jesus:parables of Jesus | | 
 good Samaritan, prodigal son were Jesus’ favorites (169:1.16)
 Jesus seldom taught masses except by (151:4.7)
 Jesus sometimes would not comment on (151:3.16) (167:2.4) (169:3.3) (171:8.8)
@@ -242,7 +243,7 @@ primary supernaphim are angels of (26:1.12) (26:2.2) (27:0.1)
 probationary nursery children constitute permanent ascendant
 citizenship of (47:2.8)
 reflectivity focuses on (9:7.1)
-rest of | rest: transition rest
+rest of | rest:transition rest
 reveals infinity potential of Father’s nonpersonal self (11:9.3)
 sacred spheres of Paradise q.v.
 senior Architect of Master Universe co-ordinates all below level of Deity (31:9.3)
@@ -310,7 +311,7 @@ Paradise energy | | monota | |
 
 Paradise force organizers | | Master Force Organizers | ORDER | 
 
-Paradise gravity | | gravity: types | | 
+Paradise gravity | | gravity:types | | 
 
 Paradise-Havona system | | Havona; Paradise | PLACE | 
 eternal nucleus of master universe (12:1.11)
@@ -335,7 +336,7 @@ are
 	revelations of Eternal Son (10:1.6) (16:2.1)
 	Word of God (10:3.3)
 automatic self-rejuvenators; incapable of depletion (48:4.11)
-bestowals (20:5) (119:0.2) | Creator Sons: creature bestowals; Magisterial Sons: planetary missions
+bestowals (20:5) (119:0.2) | Creator Sons:creature bestowals; Magisterial Sons:planetary missions
 	achieve perfect attunement with indwelling Adjusters (20:6.4)
 	Adjusters participating in bestowals become Personalized (20:4.3) (107:2.8) (109:6.3)
 	always born as male child (20:6.2)
@@ -358,7 +359,7 @@ bestowals (20:5) (119:0.2) | Creator Sons: creature bestowals; Magisterial Sons:
 	no mission has ever failed (20:5.7)
 	only one Paradise Sons bestows himself on each planet (20:5.4)
 	Paradise Sons augment their divine natures by (116:3.3,5)
-	purpose of bestowals | Jesus: life of: value
+	purpose of bestowals | Jesus:life of
 		chief mission is to release Spirit of Truth (20:6.8) (49:5.25)
 		establish new and living way (52:5.4)
 		exclusively devoted to spiritual enlightenment (20:6.4)
@@ -412,7 +413,7 @@ functions
 	justice administration, cosmic overcontrol (10:5.1)
 	liberates Father from personality absolutism (10:0.1)
 	manifests regard for welfare of the whole, not the part (3:2.8) (10:7.2) (118:10.11)
-	on all (total) levels, including level of Supremacy (115:5.2)
+	on all total levels, including level of Supremacy (115:5.2)
 	source of the Supreme (115:4.1,2,7)
 	spirit, mind, and energy proceed from (99:4.13)
 	unique, original, not wholly predictable (104:2.4)
@@ -522,7 +523,7 @@ passivity | | indolence; initiative | |
 Jesus’ disciples should always be active, positive (194:3.11)
 righteousness comes not from (159:5.9-15)
 
-Passover | | Judaism: feasts | | 
+Passover | | Judaism:feasts | | 
 
 passport | | | | 
 to eternity is attainment of Father (26:9.2)
@@ -582,7 +583,7 @@ Apostle John banished to (139:4.13-14)
 Patrae | | | PLACE | 
 Apostle Andrew crucified in (139:1.12)
 
-patriarchy | | family: patriarchal families | | 
+patriarchy | | family:patriarchal families | | 
 
 patriotism | | nationalism | | 
 all nations disintegrate without (81:6.35)
@@ -744,7 +745,7 @@ Pennsylvania | (58:7.4) (59:5.17) (61:7.2,9) | | PLACE |
 
 pensions | | retirement | | 
 
-Pentecost (bestowal of Spirit of Truth) | | Judaism: feasts; Spirit of Truth | | 
+Pentecost (bestowal of Spirit of Truth) | | Judaism:feasts; Spirit of Truth | | 
 act of intelligent self-surrender, consecration (194:3.16)
 Adjusters have been bestowed upon all normal minds ever since (108:2.3) (146:3.6)
 all rebel midwayers interned on day of (77:7.2,8)
@@ -781,7 +782,7 @@ perfection | | | |
 	divine plan for (7:4) (48:8.1)
 	every facility and all power provided to insure (40:10.14)
 	Father’s supreme invitation-command (1:0.3-6) (7:4.7) (7:5.1) (9:5.6) (13:2.8) (26:4.12) (26:9.3) (26:11.4) (37:5.3) (40:7.4) (56:0.1) (94:3.1) (99:5.3) (107:0.3) (131:9.4) (137:8.13) (140:2.16) (140:5.15) (140:8.32) (140:10.1) (143:2.6) (161:1.10) (181:2.25)
-	imitation of God is key to (111:5.2) (in spirit) now in doing Father’s will (1:3.6) (111:5.4)
+	imitation of God is key to perfection; in spirit, now in doing Father’s will (111:5.2) (1:3.6) (111:5.4)
 	not by passivity (117:4.7)
 	on 3rd circuit of Havona (26:9.3-4)
 	progressive, except in Havona (32:3.3)
@@ -1032,7 +1033,7 @@ personality forms
 	spirit forms as real and discernible as morontia bodies (30:4.20) (42:12.10)
 	survivor’s initial morontia form sponsored by guardian seraphim and Morontia Power Supervisors (30:4.15) (42:12.11)
 personality gravity | personality circuit
-prepersonal entities | Thought Adjusters: nature of Adjusters
+prepersonal entities | Thought Adjusters:nature of Adjusters
 privacy of personality respected by Creators (18:1.4-6)
 registers (30:1-2)
 relationships between personality are ends in themselves (112:2.8) (112:5.22)
@@ -1419,7 +1420,7 @@ in Uversa personality register (30:2.111)
 Morontia Power Supervisors; grant morontia forms to all morontia progressors (48:2.18)
 
 planetary epochs | (52) (49:5.21-28) | | | 
-1st – pre-Planetary Prince era (52:1) | mortals: primitive mortals
+1st – pre-Planetary Prince era (52:1) | mortals:primitive mortals
 	6 colored races appear; language develops (52:1.1-2)
 	emergence from animal level; lasts from 150,000 to 1,000,000 years (52:1.1)
 	long, dark, and bloody chapter (52:1.4)
@@ -1515,7 +1516,7 @@ types
 	# recorders (39:5.16)
 	# reserves (39:5.17)
 
-planetary physical types | | mortals: planetary types | | 
+planetary physical types | | mortals:planetary types | | 
 
 Planetary Prince of Urantia | | Planetary Princes | PERSON | 
 Caligastia was; deposed (66) (179:2.3) (189:3.3)
@@ -1600,7 +1601,7 @@ origins (41:10) (57:5-7)
 	near approach of great mass to a sun (15:5.5) (41:10.1) (57:5)
 	retrograde motion always result of foreign space bodies (57:5.14)
 	sun fission (15:5.7)
-series one, two, and three | mortals: planetary types
+series one, two, and three | mortals:planetary types
 suitability for life
 	all planets made to be eventually inhabited (1:0.2)
 	not 1 in 40 suitable for habitation (15:6.14-16)
@@ -1640,7 +1641,7 @@ Plato | | Platonism | PERSON |
 Greek; taught that virtue is knowledge; suffer rather than be guilty of injustice (98:2.6)
 not a religious teacher (92:5.12)
 
-Platonism | | Greece: Greek religion; Plato | RELIGION | 
+Platonism | | Greece:Greek religion; Plato | RELIGION | 
 4 great philosophies derived from (121:4.1)
 4th Book of Maccabees exemplifies (121:6.3)
 adapted into Christianity (146:1.3)
@@ -1734,11 +1735,11 @@ shamans were first officers of the law (70:10.5)
 
 politics | |  government | | 
 
-polyandry | | marriage: among primitives | | 
+polyandry | | marriage:among primitives | | 
 
-polygamy | | marriage: among primitives | | 
+polygamy | | marriage:among primitives | | 
 
-polygyny | | marriage: among primitives | | 
+polygyny | | marriage:among primitives | | 
 
 Polynesia | | | PLACE | 
 Andite sailors biologically modified (78:5.7)
@@ -1871,7 +1872,7 @@ post-Teacher Son era | | planetary epochs | |
 
 postulates | | theories | | 
 
-Potential | | Absolutes: the three | | 
+Potential | | Absolutes:the three | | 
 that which is becoming (115:3.11)
 
 potentials | | | | 
@@ -1910,7 +1911,7 @@ abhorred by ancients (69:5.12)
 absence of ideals in national leaders explains (111:4.10)
 avoiding | achievement; earning a living
 culture never develops under conditions of (81:6.6)
-improvident depend on the state (thrifty taxpayers) (69:9.5)
+improvident depend on the state, thrifty taxpayers (69:9.5)
 lot of those who seek wealth in isolated channels (160:4.10)
 man’s natural estate (69:2.2)
 none in light and life (55:5.2)
@@ -2093,7 +2094,7 @@ differentiates local universe Mother Spirit (17:6.5)
 
 pre-Sumerians | | Sumerians | RACE | 
 
-preaching principles | | gospel: proclaiming | | 
+preaching principles | | gospel:proclaiming | | 
 
 precedent | | law | | 
 adapts written laws to changing conditions (70:11.7)
@@ -2120,7 +2121,7 @@ refrain from seeking preference between groups (179:5.7)
 pregnancy | | midwifery | | 
 primitives believed preference resulted from spirit entering woman (84:1.3)
 
-prejudice | | intolerance; judgment: by man | | 
+prejudice | | intolerance; judgment:by man | | 
 abandon (160:1.7) (170:2.21)
 blinds, seals souls (157:2.2) (162:7.3)
 celestial government uniformly free from (49:5.18)
@@ -2138,14 +2139,14 @@ prejudice inhibits
 prelife era | | geologic ages | | 
 Archeozoic, from 1 billion to 550 million years ago (59:0.2) (78:7.4)
 
-prepersonal entities | | Thought Adjusters: nature of Adjusters | | 
+prepersonal entities | | Thought Adjusters:nature of Adjusters | | 
 
 presence circuits | | circuits | | 
 
 presence embellishers | | | | 
 designers and embellishers of celestial artisans; dramatize significance of relationship (44:6.7)
 
-presence of God | | God: consciousness of God | | 
+presence of God | | God:consciousness of God | | 
 
 present | | perspective | | 
 interpret in light of correlated past and future (19:1.11)
@@ -2240,7 +2241,7 @@ skeletons very similar to primitive humans (62:4.4)
 threw stones; used clubs, spicules of flint, bone (63:1.2)
 walked upright, largely abandoned tree life; developed language (62:4.1-4)
 
-primitive mortals | | mortals: primitive mortals | RACE | 
+primitive mortals | | mortals:primitive mortals | RACE | 
 
 primordial force | | segregata | | 
 
@@ -2475,7 +2476,7 @@ proselyte | | | |
 of the gate was uncircumcised, unbaptized Jew (142:4.1)
 Pharisees encompass land and sea to make one (175:1.13)
 
-prostitution | | sex: urge | | 
+prostitution | | sex:urge | | 
 at Sepphoris (125:1.2)
 at temple at Jerusalem (125:1.2)
 brothel was nefarious place of business (147:5.3) (150:2.2)
@@ -2690,9 +2691,9 @@ shall see God (140:3.6) (140:5.12)
 purging | | | | 
 ancient medical treatment (90:4.8)
 
-purification ceremonies | | ceremonies: purification ceremonies | | 
+purification ceremonies | | ceremonies:purification ceremonies | | 
 
-Purim | | Judaism: feasts | | 
+Purim | | Judaism:feasts | | 
 
 purse | | money | | 
 
