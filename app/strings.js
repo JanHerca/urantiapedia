@@ -625,6 +625,10 @@ const Strings = {
 		en: "'{0}' not found in english",
 		es: "'{0}' no encontrado en inglés"
 	},
+	"topic_seealso_not_found": {
+		en: "seeAlso '{0}' not found",
+		es: "seeAlso '{0}' no encontrado"
+	},
 	"topic_see_also": {
 		en: "See also",
 		es: "Véase"

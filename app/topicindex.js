@@ -288,7 +288,10 @@ class TopicIndex {
 			let errors = [];
 
 			this.topics.forEach(t => {
-				const errs = t.errors.map(e => `${t.filename}:${e.fileline} > ${e.desc}`);
+				const errs = t.errors.map(e => {
+					const fileline = e.fileline.toString().padStart(4, '0');
+					return `${t.filename}:${fileline} > '${t.name}': ${e.desc}`
+				});
 				if (errs.length > 0) {
 					extendArray(errors, errs);
 				}
@@ -391,7 +394,8 @@ class TopicIndex {
 				const term = sa.split(':')[0];
 				if (!this.topics.find(t => t.name === term)) {
 					errors.push({
-						desc: `seeAlso '${sa}' no encontrado`,
+						desc: strformat(
+							Strings['topic_seealso_not_found'][this.language], sa),
 						fileline: fileline
 					});
 				}

@@ -76,10 +76,10 @@ daughter of Elman; member of women’s corps (150:1.1)
 Nathan of Busiris | | | PERSON | 
 carried news of crucifixion to Alexandria (191:6.1)
 
-Nathan of Caesarea | | | PERSON | 
+Nathan of Caesarea; Nathan | | | PERSON | 
 Greek Jew; wrote Gospel of John (121:8.10) (139:4.4,15)
 
-Nathan of Cana | | | PERSON | 
+Nathan of Cana; Nathan | | | PERSON | 
 father of Johab, groom of wedding at Cana (137:3.6)
 shortage of wine (137:4.7)
 
@@ -120,7 +120,7 @@ unmarried; from Cana; only support of infirm parents; 25 in A.D. 26 (137:2.3) (1
 watched over apostles’ families (138:10.5) (139:6.7)
 well educated (139:6.2)
 
-Nathaniel the Pharisee | | | PERSON | 
+Nathaniel the Pharisee; Nathaniel | | | PERSON | 
 invited Jesus to breakfast (166:1)
 
 National Council of Defense | | | | 
@@ -380,7 +380,7 @@ negativism | | | |
 major error of modern religions (140:4.7)
 often trained into children (103:2.5-6)
 
-Negroids | | races | RACE | 
+Negroids; Negroid | | races | RACE | 
 mixed race of orange, green, and indigo (81:4.13)
 
 neighbor | | | | 
@@ -401,10 +401,10 @@ Gautama born in (94:7.1)
 Nephilim | | | RACE | 
 Old Testament reference to Nodites (77:2.3)
 
-Neptune, god | (130:3.4) | | PERSON | 
+Neptune, god; Neptune | (130:3.4) | | PERSON | 
 Roman god of the sea and earthquakes
 
-Neptune | | | PLACE | 
+Neptune; temple of Neptune | | | PLACE | 
 temple in Alexandria (130:3.4)
 
 Nereids | | | | 

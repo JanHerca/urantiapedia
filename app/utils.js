@@ -220,7 +220,7 @@ exports.readFrom = function(dirPath, format, clearFunction, readFunction, thisOb
  */
 exports.testWords = function(arItems, text) {
 	let ini = 0, fin = 0, j, testIni, testFin;
-	const regex = /[a-z0-9áéíóúü\-]/i;
+	const regex = /[a-z0-9áéíóúü]/i;
 	const len = text.length;
 	for (j = 0; j < arItems.length; j++) {
 		ini = 0;
@@ -256,7 +256,7 @@ exports.testWords = function(arItems, text) {
  */
 exports.replaceWords = function(arItems, arReplaces, text) {
 	let result = text, ini = 0, fin = 0, j, testIni, testFin, part1, part2;
-	const regex = /[a-z0-9áéíóúü\-]/i;
+	const regex = /[a-z0-9áéíóúü]/i;
 	const len = text.length;
 	for (j = 0; j < arItems.length; j++) {
 		ini = 0;
