@@ -11,6 +11,7 @@ const getWikijsBookRefLink = require('./utils').getWikijsBookRefLink;
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
+const topicTypes = ['PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 'OTHER'];
 
 class TopicIndex {
 	/**
@@ -146,7 +147,8 @@ class TopicIndex {
 						} else if (data.length === 1) {
 							texts = tline.split(/\([^)]*\)/g)
 								.filter(i => i.trim() != '')
-								.map(i => i.trim().replace(/^\.|\.$/g, '').trim());
+								.map(i => i.trim());
+								// .map(i => i.trim().replace(/^\.|\.$/g, '').trim());
 							refs = this.extractRefs(tline);
 							
 							if (texts.length === 0) {
@@ -155,12 +157,13 @@ class TopicIndex {
 								topicline.text = texts[0];
 								topicline.seeAlso = [];
 								topicline.refs = refs;
-								current.lines.push(topicline);
 							}
+							current.lines.push(topicline);
 						} else if (data.length === 2) {
 							texts = data[0].split(/\([^)]*\)/g)
 								.filter(i => i.trim() != '')
-								.map(i => i.trim().replace(/^\.|\.$/g, '').trim());
+								.map(i => i.trim());
+								// .map(i => i.trim().replace(/^\.|\.$/g, '').trim());
 							refs = this.extractRefs(data[0]);
 							if (texts.length === 0) {
 								errors.push(err);
@@ -170,7 +173,6 @@ class TopicIndex {
 									.filter(i => i.trim() != '')
 									.map(s => s.trim());
 								topicline.refs = refs;
-								current.lines.push(topicline);
 							}
 							current.lines.push(topicline);
 						} else {
@@ -182,8 +184,8 @@ class TopicIndex {
 							errors.push(err);
 						} else if (data.length === 5) {
 							if (data[1].startsWith('(') && data[1].endsWith(')')) {
-								refs = data[1].split(/[()]/g).filter(i => i.trim() != '' &&
-									i.trim().length > 2);
+								refs = data[1].split(/[()]/g)
+									.filter(i => i.replace(/\s+/, '') != '');
 							}
 							seeAlso = data[2].split(';')
 								.filter(i => i.trim() != '')
@@ -224,14 +226,120 @@ class TopicIndex {
 	};
 
 	/**
+	 * Writes all entries in Topic Index in TXT format.
+	 * @param {string} dirPath Output folder.
+	 * @return {Promise}
+	 */
+	writeToTXT = (dirPath) => {
+		const letters = '_abcdefghijklmnopqrstuvwxyz';
+		const promises = letters.split('').map(letter => 
+			this.writeFileToTXT(dirPath, letter));
+		return Promise.all(promises);
+	};
+
+	/**
+	 * Writes all entries in a letter in Topic Index in TXT format.
+	 * @param {string} dirPath Output folder.
+	 * @param {string} letter Letter.
+	 * @returns {Promise}
+	 */
+	writeFileToTXT = (dirPath, letter) => {
+		const letters = '_abcdefghijklmnopqrstuvwxyz';
+		if (letter == undefined || letter.length != 1 ||
+			letters.indexOf(letter) === -1) {
+			return Promise.reject(this.getError('topic_err_writing', 
+				'Invalid letter ' + letter));
+		}
+		return new Promise((resolve, reject) => {
+			const fileName = `${letter}.txt`;
+			const filePath = path.join(dirPath, fileName);
+
+			if (this.onProgressFn) {
+				this.onProgressFn(filePath);
+			}
+
+			let txt = '';
+
+			// Write header
+			txt += [
+				'<' + '_'.repeat(82),
+				'<',
+				'<' + ' '.repeat(21) + (letter === '_' ? 'NUMBER' : letter.toUpperCase()),
+				'< Urantia Book Uversa Press Topical index converted to text file',
+				'< Each entry has a previous blank line',
+				'< Entry = Name | Refs | See also | Category | OK (= revised)',
+				'< An entry can have one or several sub-entries (= the lines after entry)',
+				'< A sub-entry can have sub-sub-entries with tabs and so on',
+				'< Help: https://urantiapedia.org/en/help/github#translation-and-' +
+					'review-of-the-topic-index-from-english-to-target-language',
+				'<' + '_'.repeat(82)
+			].join('\r\n') + '\r\n\r\n';
+			//Search for topics and loop through them
+			const topics = this.topics
+				.filter(t => t.filename === fileName)
+				.sort((a, b) => {
+					if (a.sorting > b.sorting) return 1;
+					if (a.sorting < b.sorting) return -1;
+					return 0;
+				});;
+			if (topics.length === 0) {
+				reject(this.getError('topic_err_writing', 
+					'No topics with letter ' + letter));
+				return;
+			}
+
+			topics.forEach((topic, n) => {
+				const lastTopic = (n === topics.length - 1);
+				//Write topic data
+				const tdata = [
+					[topic.name, ...topic.altnames].join('; '), 
+					topic.refs.map(r => `(${r})`).join(' '), 
+					topic.seeAlso.join('; '), 
+					(topic.type === 'OTHER' ? '' : topic.type), 
+					(topic.revised ? 'OK': '')
+				];
+				txt += tdata.map((td, i) => {
+						return (td === '' ? ' ' : `${(i === 0 ? '' : ' ')}${td} `);
+					}).join('|');
+				txt += (lastTopic && topic.lines.length === 0 ? '' : '\r\n');
+				topic.lines.forEach((line, j) => {
+					const lastLine = (j === topic.lines.length - 1 &&
+						(topic.links == undefined || topic.links.length === 0));
+					const linedata = [
+						line.text, 
+						line.refs.map(r => `(${r})`).join(' '),
+						(line.seeAlso.length > 0 ? '| ' : '') + line.seeAlso.join('; ')
+					].filter(ld => ld != '');
+					txt += '\t'.repeat(line.level) + linedata.join(' ');
+					txt += (lastTopic && lastLine ? '' : '\r\n');
+				});
+				if (topic.links) {
+					topic.links.forEach((link, j) => {
+						const lastLink = (j === topic.links.length - 1);
+						txt += '> ' + link + (lastTopic && lastLink ? '' : '\r\n');
+					});
+				}
+				txt += (lastTopic ? '' : '\r\n');
+			});
+
+			//Write
+			fs.writeFile(filePath, txt, 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
+			});
+		});
+	};
+
+	/**
 	 * Gets an object containing a summary with the number of topics of each
 	 * type and totals, as well as redirects number.
 	 * @return {Object}
 	 */
 	getSummary = () => {
 		const letters = '_abcdefghijklmnopqrstuvwxyz';
-		const types = ['PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION', 'OTRO'];
-		const etypes = ['PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 'OTHER']
 		let result = {};
 		letters.split('').forEach(letter => {
 			let obj = {};
@@ -240,8 +348,8 @@ class TopicIndex {
 			const tt = this.topics.filter(t => t.filename === letter + '.txt');
 			obj.TOTAL = tt.length;
 			//Categories
-			types.forEach((type, i) => {
-				const tf = tt.filter(t => t.type === type || t.type === etypes[i]);
+			topicTypes.forEach(type => {
+				const tf = tt.filter(t => t.type === type);
 				let lines = 0;
 				tf.forEach(t => lines += t.lines.length);
 				obj[type] = tf.length;
@@ -439,9 +547,6 @@ class TopicIndex {
 				let nfilePath = filePath.replace('.txt', '_normalized.txt');
 				
 				let current = null;
-				const topicTypes = [
-					'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION', 'OTRO'];
-
 				lines.forEach((line, i) => {
 					let data, name, refs, seeAlso, type, ok;
 					const tline = line.trim();
@@ -508,8 +613,8 @@ class TopicIndex {
 	//***********************************************************************
 
 	/**
-	 * Writes all entries in Topic Index in Wiki.js format for Wiki.js.
-	 * @param {string} dirPath Carpeta de salida.
+	 * Writes all entries in Topic Index in Wiki.js format.
+	 * @param {string} dirPath Output folder.
 	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
 	 * current language is english then this is not required. If it is not english
 	 * then this param is required.
@@ -566,7 +671,7 @@ class TopicIndex {
 	};
 
 	/**
-	 * Writes an entry of Topic Index in Wiki.js for Wiki.js.
+	 * Writes an entry of Topic Index in Wiki.js format.
 	 * @param {string} filePath Output Wiki file.
 	 * @param {Object} topic Object with Topic Index entry.
 	 * @param {Object} topicEN Object with topic Index entry in english. If 
@@ -751,7 +856,8 @@ class TopicIndex {
 
 	/**
 	 * Writes the index page with topics of Topic Index in Wiki.js format.
-	 * Name of created file is 'topics.html'.
+	 * Name of created files are 'topics.html', 'people.html', 'places.html',
+	 * 'beings.html', 'races.html' and 'religions.html'.
 	 * @param {string} dirPath Output folder.
 	 * @param {string} category Category of topics from Topic Index that must
 	 * be write. Those out the category are ignored. To write all use 'ALL'.
@@ -921,7 +1027,7 @@ class TopicIndex {
 	 * Writes all entries in Topic Index in MediaWiki format.
 	 * Also creates an archive 'Dónde_puedo_aportar_contenido.wiki' to fill that
 	 * page easily.
-	 * @param {string} dirPath Carpeta de salida.
+	 * @param {string} dirPath Output folder.
 	 * @return {Promise}
 	 */
 	writeToWikiText = (dirPath) => {
@@ -1096,7 +1202,7 @@ class TopicIndex {
 
 	/**
 	 * Gets a number from a reference to be able to sort them.
-	 * @param {string} ref Refernce to The Urantia Book.
+	 * @param {string} ref Reference to The Urantia Book.
 	 * @return {number}
 	 */
 	refToNumber = (ref) => {
@@ -1171,17 +1277,14 @@ class TopicIndex {
 	writeIndexToWikiText = (dirPath) => {
 		return new Promise((resolve, reject) => {
 			const filePath = path.join(dirPath, '_indice.wiki');
-			//TODO: categories in spanish and english
-			const topicTypes = [
-				'PERSONA', 'LUGAR', 'ORDEN', 'RAZA', 'RELIGION'/*, 'OTRO'*/];
 			//TODO: categories names in spanish and english
 			const typeTitles = [
 				'Personalidades, personas, nombres de dioses, o grupos',
 				'Lugares, tanto en la Tierra como en el Universo',
 				'Órdenes y tipologías de seres',
 				'Razas, tribus o pueblos que se han dado en la Tierra',
-				'Religiones, cultos, creencias'/*,
-			'Otros términos'*/];
+				'Religiones, cultos, creencias',
+				'Otros términos'];
 			let wiki = '';
 			let letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 			let curLetter = null;

@@ -27,6 +27,9 @@ let lan = 'en';
 let uilan = 'en';
 
 const controls = {
+	lblProccesses: null,
+	lblTopicIndex: null,
+	//Processes
 	dirHButton: null,
 	dirHTextbox: null,
 	lblHTextbox: null,
@@ -42,65 +45,79 @@ const controls = {
 	dirWButton: null,
 	dirWTextbox: null,
 	lblWTextbox: null,
+	drpTopics: null,
+	lblTopics: null,
 	drpLanguage: null,
 	lblLanguage: null,
 	drpUILanguage: null,
 	lblUILanguage: null,
-	drpProcess: null,
+	lblCategories: null,
+	drpCategories: null,
 	lblProcess: null,
+	drpProcess: null,
 	exeButton: null,
 	logArea: null,
 	collapseButton: null,
 	progress: null,
 	chkMerge: null,
 	chkMergeLabel: null,
-	drpTopics: null,
-	lblTopics: null,
-	drpCategories: null,
-	lblCategories: null,
-	lblProccesses: null,
-	lblTopicIndex: null,
-	drpCategories2: null,
-	lblCategories2: null,
-	spinCategories2: null,
-	lbxTopics: null,
-	drpTopicLanguage1: null,
-	drpTopicLanguage2: null,
-	lblLanguage1: null,
-	lblLanguage2: null,
-	lblTopicName: null,
-	lblTopicAliases: null,
-	lblTopicRevised: null,
-	lblTopicRefs: null,
-	lblTopicSeeAlso: null,
-	lblTopicLinks: null,
-	lblTopicCategory: null,
-	txtTopicName: null,
-	drpTopicAliases: null,
-	drpTopicRefs: null,
-	drpTopicSeeAlso: null,
-	drpTopicLinks: null,
-	drpTopicCategories: null,
-	lbxLines: null,
-	lbxUBLines: null
+	//Topic index editor
+	drpTICategories: null,
+	lblTICategories: null,
+	spinTICategories: null,
+	lbxTITopics: null,
+	drpTILanguage1: null,
+	drpTILanguage2: null,
+	lblTILanguage1: null,
+	lblTILanguage2: null,
+	lblTIName: null,
+	lblTIAliases: null,
+	lblTIRevised: null,
+	lblTIRefs: null,
+	lblTISeeAlso: null,
+	lblTILinks: null,
+	lblTICategory: null,
+	txtTIName: null,
+	drpTIAliases: null,
+	drpTIRefs: null,
+	drpTISeeAlso: null,
+	drpTILinks: null,
+	drpTICategory: null,
+	lbxTILines: null,
+	lbxTIUBLines: null,
+	btnTIAddTopic: null,
+	btnTIRemoveTopic: null,
+	btnTIRenameTopic: null,
+	btnTISaveChanges: null,
+	btnTIAddAlias: null,
+	btnTIRemoveAlias: null,
+	btnTIAddRef: null,
+	btnTIRemoveRef: null,
+	btnTIAddSeeAlso: null,
+	btnTIRemoveSeeAlso: null,
+	btnTIAddLink: null,
+	btnTIRemoveLink: null,
+	txtTIName: null,
+	chkTopicRevised: null
 };
 let collapsed = false;
-
+let topicBusy = false;
 let topicEditing = null;
 let filelineEditing = null;
 const logInfos = [];
 
 const collapsableControls = ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 
-	'dirJTextbox', 'dirWTextbox', 'chkMerge', 'drpCategories', 'drpTopics'];
+	'dirJTextbox', 'dirWTextbox', 'chkMerge', 'drpCategories'/*, 'drpTopics'*/];
 
-const topicTypes = ['NONE', 'PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 
+const topicFilters = ['NONE', 'PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 
 	'OTHER', 'ALL'];
+const topicTypes = ['PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 'OTHER'];
 
 const onLoad = () => {
 	Object.keys(controls).forEach(id => controls[id] = document.querySelector('#' + id));
 
 	//Fill Book language dropdown
-	[controls.drpLanguage, controls.drpTopicLanguage1, controls.drpTopicLanguage2]
+	[controls.drpLanguage, controls.drpTILanguage1, controls.drpTILanguage2]
 		.forEach(c => {
 			c.innerHTML = Object.keys(Strings['bookLanguages']).map(key => {
 				const desc = Strings['bookLanguages'][key];
@@ -132,12 +149,14 @@ const onLoad = () => {
 		handle_drpProcessChange);
 	controls.drpTopics.addEventListener('change', 
 		handle_drpTopicsChange);
-	controls.drpCategories2.addEventListener('change', 
-		handle_drpCategories2Change);
-	controls.drpTopicLanguage1.addEventListener('change', 
-		handle_drpTopicLanguage1Change);
-	controls.drpTopicLanguage2.addEventListener('change', 
-		handle_drpTopicLanguage2Change);
+	controls.drpTICategories.addEventListener('change', 
+		handle_drpTICategoriesChange);
+	controls.drpTILanguage1.addEventListener('change', 
+		handle_drpTILanguage1Change);
+	controls.drpTILanguage2.addEventListener('change', 
+		handle_drpTILanguage2Change);
+	controls.btnTISaveChanges.addEventListener('click',
+		handle_btnTISaveChangesClick);
 
 	//Set progress funcs
 	book.onProgressFn = onProgress;
@@ -158,6 +177,8 @@ const onLoad = () => {
 	//Update UI
 	handle_drpUILanguageChange();
 	handle_drpProcessChange();
+
+	setTIDisableStatus(true);
 };
 
 const updateUI = () => {
@@ -170,17 +191,19 @@ const updateUI = () => {
 		return (p.active ? `<option value="${key}"${sel}>${desc}</option>` : '');
 	}).join('');
 
-	const topicOptions = topicTypes
-		.map(t => `<option value="${t}">${t}</option>`)
-		.join('');
-	controls.drpCategories.innerHTML = topicOptions;
-	controls.drpCategories2.innerHTML = topicOptions;
-	controls.drpTopicCategories.innerHTML = topicOptions;
+	const topicFiltersOptions = topicFilters
+		.map(t => `<option value="${t}">${t}</option>`).join('');
+	const topicTypesOptions = topicTypes
+		.map(t => `<option value="${t}">${t}</option>`).join('');
+	controls.drpCategories.innerHTML = topicFiltersOptions;
+	controls.drpTICategories.innerHTML = topicFiltersOptions;
+	controls.drpTICategory.innerHTML = topicTypesOptions;
 
 	Object.keys(controls).forEach(key => {
 		const control = controls[key];
 		const tagName = control.tagName.toUpperCase();
-		const text = (Strings[key] ? Strings[key][uilan] : '');
+		const text = (Strings[key] ? Strings[key][uilan] : null);
+		if (!text) return;
 		if (tagName === 'LABEL' || tagName === 'BUTTON' || tagName === 'SPAN') {
 			control.innerHTML = text;
 		} else if (tagName === 'INPUT' && text != '') {
@@ -188,6 +211,10 @@ const updateUI = () => {
 		}
 	});
 };
+
+// -----------------------------------------------------------------------------
+// Processes
+// -----------------------------------------------------------------------------
 
 const updateDefaultPaths = () => {
 	const process = controls.drpProcess.value;
@@ -212,26 +239,6 @@ const updateDefaultPaths = () => {
 			controls[c].value = folderpath;
 		}
 	});
-};
-
-const updateTopicIndexEdit = () => {
-	const category = controls.drpCategories2.value;
-	const lan1 = controls.drpTopicLanguage1.value;
-	const lan2 = controls.drpTopicLanguage2.value;
-	const dirTopics1 = path.join(app.getAppPath(), `input/txt/topic-index-${lan1}`);
-	const dirTopics2 = path.join(app.getAppPath(), `input/txt/topic-index-${lan2}`);
-	const dirBook1 = path.join(app.getAppPath(), `input/json/book-${lan1}-footnotes`);
-	const dirBook2 = path.join(app.getAppPath(), `input/json/book-${lan2}-footnotes`);
-	//TODO: use either with or without footnotes, whichever exists
-	$(controls.spinCategories2).toggleClass('d-none', false);
-	const promises = [
-		topicindexEdit.readFromTXT(dirTopics1, category),
-		topicindexEdit2.readFromTXT(dirTopics2, category),
-		bookEdit.readFromJSON(dirBook1),
-		bookEdit2.readFromJSON(dirBook2)
-	];
-	//TODO: create onFail specific for the Topic index Edit
-	Promise.all(promises).then(showTopicListEdit, onFail);
 };
 
 const handle_dirButtonClick = (textbox) => {
@@ -277,18 +284,6 @@ const handle_drpProcessChange = (evt) => {
 		$(controls[c]).closest('.form-group').toggleClass('d-none', hide);
 	});
 	updateDefaultPaths();
-};
-
-const handle_drpCategories2Change = (evt) => {
-	updateTopicIndexEdit();
-};
-
-const handle_drpTopicLanguage1Change = (evt) => {
-	updateTopicIndexEdit();
-};
-
-const handle_drpTopicLanguage2Change = (evt) => {
-	updateTopicIndexEdit();
 };
 
 const handle_exeButtonClick = () => {
@@ -536,7 +531,6 @@ const onSuccess = (infos) => {
 };
 
 const onFail = (errors) => {
-	$(controls.spinCategories2).toggleClass('d-none', false);
 	showErrors(errors);
 	showProgress(false);
 };
@@ -625,130 +619,6 @@ const showTopic = (name) => {
 	controls.logArea.innerHTML = html;
 };
 
-const showTopicListEdit = () => {
-	$(controls.spinCategories2).toggleClass('d-none', true);
-	//Unhandle
-	$(controls.lbxTopics).find('.list-group-item').off('click');
-	//Fill topic list
-	const topics = topicindexEdit.topics
-		.sort((a, b) => {
-			if (a.sorting > b.sorting) return 1;
-			if (a.sorting < b.sorting) return -1;
-			return 0;
-		});
-	controls.lbxTopics.innerHTML = topics
-		.map(t => {
-			const n = t.name;
-			const active = (n === topicEditing ? ' active' : '');
-			const errs = t.errors && t.errors.length > 0 ? 
-				`  [Errors: ${t.errors.length}]` : '';
-			const style = t.errors && t.errors.length > 0 ? 
-				` style="background-color:#f8d7da"` : '';
-			return `<div class="list-group-item btn-sm list-group-item-action 
-					py-0 px-2 flex-column align-items-start${active}">
-					<div class="d-flex w-100 justify-content-between pb-1">
-						<div>${n}</div>
-						<div>${t.type}</div>
-					</div>
-				</div>`;
-		})
-		.join('');
-	//Handle
-	$(controls.lbxTopics).find('.list-group-item').on('click', function() {
-		const name = $(this).find('div > div:first-child').text();
-		topicEditing = name;
-		$(controls.lbxTopics).find('.list-group-item').toggleClass('active', false);
-		$(this).toggleClass('active', true);
-		showTopicEdit();
-	});
-};
-
-const showTopicEdit = () => {
-	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
-	const sorting = topic.sorting;
-	const topic2 = topicindexEdit2.topics.find(t => t.sorting === sorting);
-	const aliases = (topic.altnames ? topic.altnames : []);
-	const refs = (topic.refs ? topic.refs : []);
-	const seeAlso = (topic.seeAlso ? topic.seeAlso : []);
-	const links = (topic.links ? topic.links : []);
-	const lines = (topic.lines ? topic.lines : []);
-	const lines2 = (topic2.lines ? topic2.lines : []);
-	const fillFn = a => `<option value="${a}">${a}</option>`;
-
-	controls.txtTopicName.value = topicEditing;
-	controls.drpTopicAliases.innerHTML = aliases.map(fillFn).join('');
-	controls.drpTopicRefs.innerHTML = refs.map(fillFn).join('');
-	controls.drpTopicSeeAlso.innerHTML = seeAlso.map(fillFn).join('');
-	controls.drpTopicLinks.innerHTML = links.map(fillFn).join('');
-
-	//Unhandle
-	$(controls.lbxLines).find('.list-group-item').off('click');
-
-	//Fill lines listbox
-	controls.lbxLines.innerHTML = lines
-		.map((line, i) => {
-			return `<div class="list-group-item btn-sm list-group-item-action 
-				py-0 px-2 flex-column align-items-start">
-				<div class="row">
-					<div class="d-none">${line.fileline}</div>
-					<div class="col-6">${line.text}</div>
-					<div class="col-6">${lines2[i].text}</div>
-				</div>
-				<div class="row">
-					<div class="col-12 text-right">${line.refs.join(', ')}</div>
-				</div>
-			</div>`;
-		})
-		.join('');
-	//Handle
-	$(controls.lbxLines).find('.list-group-item').on('click', function() {
-		const fileline = $(this).find('div:first-child > div:first-child').text();
-		filelineEditing = parseInt(fileline);
-		$(controls.lbxLines).find('.list-group-item').toggleClass('active', false);
-		$(this).toggleClass('active', true);
-		showLinesUB();
-	});
-};
-
-const showLinesUB = () => {
-	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
-	const line = topic.lines.find(ln => ln.fileline === filelineEditing);
-	const fn = (r1, r2) => {
-		const par1 = (r1 ? 
-			bookEdit.getPar(r1[0], r1[1], r1[2]).par_content : 'Error') + 
-			` [${r1[0]}:${r1[1]}.${r1[2]}]`;
-		const par2 = (r2 ? 
-			bookEdit2.getPar(r2[0], r2[1], r2[2]).par_content : 'Error') +
-			` [${r2[0]}:${r2[1]}.${r2[2]}]`;
-		const ercls = (r1 == null || r2 == null ? ' alert alert-danger' : '');
-		return `<div class="list-group-item btn-sm list-group-item-action 
-			py-0 px-2 flex-column align-items-start${ercls}">
-			<div class="row">
-				<div class="col-6">${par1}</div>
-				<div class="col-6">${par2}</div>
-			</div>
-		</div>`;
-	};
-	controls.lbxUBLines.innerHTML = line.refs.map(ref => {
-		let arRefs1 = null;
-		let arRefs2 = null;
-		try {
-			arRefs1 = bookEdit.getRefs(ref);
-		} catch (er) {}
-		try {
-			arRefs2 = bookEdit2.getRefs(ref);
-		} catch (er) {}
-
-		if (!arRefs1 || !arRefs2 || arRefs1.length != arRefs2.length) {
-			arRefs1 = [null];
-			arRefs2 = [null];
-		}
-		return arRefs1.map((r, i) => {
-			return fn(arRefs1[i], arRefs2[i]);
-		}).join('');
-	}).join('');
-};
-
 const showTopicSummary = (obj) => {
 	const columns = ['#', 'PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 'OTHER', 
 		'REDIREC', 'REVISED', 'TOTAL'];
@@ -799,5 +669,213 @@ const onProgress = (baseName) => {
 	logInfos.splice(0, 0, strformat(Strings['proccessing'][uilan], baseName));
 	showInfos(logInfos);
 };
+
+// -----------------------------------------------------------------------------
+// Topic Index Editor
+// -----------------------------------------------------------------------------
+
+const handle_drpTICategoriesChange = (evt) => {
+	readTI();
+};
+
+const handle_drpTILanguage1Change = (evt) => {
+	readTI();
+};
+
+const handle_drpTILanguage2Change = (evt) => {
+	readTI();
+};
+
+const readTI = () => {
+	const lan1 = controls.drpTILanguage1.value;
+	const lan2 = controls.drpTILanguage2.value;
+	const root = app.getAppPath();
+	const dirTopics1 = path.join(root, 'input', 'txt', `topic-index-${lan1}`);
+	const dirTopics2 = path.join(root, 'input', 'txt', `topic-index-${lan2}`);
+	const dirBook1 = path.join(root, 'input', 'json', `book-${lan1}-footnotes`);
+	const dirBook2 = path.join(root, 'input', 'json', `book-${lan2}-footnotes`);
+	//TODO: use either with or without footnotes, whichever exists
+
+	setTIBusyStatus(true);
+	
+	const promises = [
+		topicindexEdit.readFromTXT(dirTopics1, 'ALL'),
+		topicindexEdit2.readFromTXT(dirTopics2, 'ALL'),
+		bookEdit.readFromJSON(dirBook1),
+		bookEdit2.readFromJSON(dirBook2)
+	];
+	Promise.all(promises).then(showTITopics, onTIFail);
+};
+
+const showTITopics = () => {
+	const category = controls.drpTICategories.value;
+	$(controls.spinTICategories).toggleClass('d-none', true);
+	//Unhandle
+	$(controls.lbxTITopics).find('.list-group-item').off('click');
+	//Fill topic list
+	const topics = topicindexEdit.topics
+		.filter(t => t.type === category || category === 'ALL')
+		.sort((a, b) => {
+			if (a.sorting > b.sorting) return 1;
+			if (a.sorting < b.sorting) return -1;
+			return 0;
+		});
+	controls.lbxTITopics.innerHTML = topics
+		.map(t => {
+			const n = t.name;
+			const active = (n === topicEditing ? ' active' : '');
+			const errs = t.errors && t.errors.length > 0 ? 
+				`  [Errors: ${t.errors.length}]` : '';
+			const style = t.errors && t.errors.length > 0 ? 
+				` style="background-color:#f8d7da"` : '';
+			return `<div class="list-group-item btn-sm list-group-item-action 
+					py-0 px-2 flex-column align-items-start${active}">
+					<div class="d-flex w-100 justify-content-between pb-1">
+						<div>${n}</div>
+						<div>${t.type}</div>
+					</div>
+				</div>`;
+		})
+		.join('');
+	//Handle
+	$(controls.lbxTITopics).find('.list-group-item').on('click', function() {
+		const name = $(this).find('div > div:first-child').text();
+		topicEditing = name;
+		$(controls.lbxTITopics).find('.list-group-item').toggleClass('active', false);
+		$(this).toggleClass('active', true);
+		showTITopic();
+	});
+	showTITopic();
+	setTIBusyStatus(false);
+};
+
+const showTITopic = () => {
+	if (!topicEditing) return;
+	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
+	const sorting = topic.sorting;
+	const topic2 = topicindexEdit2.topics.find(t => t.sorting === sorting);
+	const aliases = (topic.altnames ? topic.altnames : []);
+	const refs = (topic.refs ? topic.refs : []);
+	const seeAlso = (topic.seeAlso ? topic.seeAlso : []);
+	const links = (topic.links ? topic.links : []);
+	const lines = (topic.lines ? topic.lines : []);
+	const lines2 = (topic2.lines ? topic2.lines : []);
+	const fillFn = a => `<option value="${a}">${a}</option>`;
+
+	controls.txtTIName.value = topicEditing;
+	controls.drpTIAliases.innerHTML = aliases.map(fillFn).join('');
+	controls.drpTIRefs.innerHTML = refs.map(fillFn).join('');
+	controls.drpTISeeAlso.innerHTML = seeAlso.map(fillFn).join('');
+	controls.drpTILinks.innerHTML = links.map(fillFn).join('');
+	controls.drpTICategory.value = topic.type;
+
+	//Unhandle
+	$(controls.lbxTILines).find('.list-group-item').off('click');
+
+	//Fill lines listbox
+	controls.lbxTILines.innerHTML = lines
+		.map((line, i) => {
+			return `<div class="list-group-item btn-sm list-group-item-action 
+				py-0 px-2 flex-column align-items-start">
+				<div class="row">
+					<div class="d-none">${line.fileline}</div>
+					<div class="col-6">${line.text}</div>
+					<div class="col-6">${lines2[i].text}</div>
+				</div>
+				<div class="row">
+					<div class="col-12 text-right">${line.refs.join(', ')}</div>
+				</div>
+			</div>`;
+		})
+		.join('');
+	//Handle
+	$(controls.lbxTILines).find('.list-group-item').on('click', function() {
+		const fileline = $(this).find('div:first-child > div:first-child').text();
+		filelineEditing = parseInt(fileline);
+		$(controls.lbxTILines).find('.list-group-item').toggleClass('active', false);
+		$(this).toggleClass('active', true);
+		showTILinesUB();
+	});
+};
+
+const showTILinesUB = () => {
+	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
+	const line = topic.lines.find(ln => ln.fileline === filelineEditing);
+	const fn = (r1, r2) => {
+		const par1 = (r1 ? 
+			bookEdit.getPar(r1[0], r1[1], r1[2]).par_content : 'Error') + 
+			` [${r1[0]}:${r1[1]}.${r1[2]}]`;
+		const par2 = (r2 ? 
+			bookEdit2.getPar(r2[0], r2[1], r2[2]).par_content : 'Error') +
+			` [${r2[0]}:${r2[1]}.${r2[2]}]`;
+		const ercls = (r1 == null || r2 == null ? ' alert alert-danger' : '');
+		return `<div class="list-group-item btn-sm list-group-item-action 
+			py-0 px-2 flex-column align-items-start${ercls}">
+			<div class="row">
+				<div class="col-6">${par1}</div>
+				<div class="col-6">${par2}</div>
+			</div>
+		</div>`;
+	};
+	controls.lbxTIUBLines.innerHTML = line.refs.map(ref => {
+		let arRefs1 = null;
+		let arRefs2 = null;
+		try {
+			arRefs1 = bookEdit.getRefs(ref);
+		} catch (er) {}
+		try {
+			arRefs2 = bookEdit2.getRefs(ref);
+		} catch (er) {}
+
+		if (!arRefs1 || !arRefs2 || arRefs1.length != arRefs2.length) {
+			arRefs1 = [null];
+			arRefs2 = [null];
+		}
+		return arRefs1.map((r, i) => {
+			return fn(arRefs1[i], arRefs2[i]);
+		}).join('');
+	}).join('');
+};
+
+const handle_btnTISaveChangesClick = () => {
+	if (topicindexEdit.topics.length === 0) return;
+	setTIBusyStatus(true);
+
+	const lan1 = controls.drpTILanguage1.value;
+	const root = app.getAppPath();
+	const dirTopics1 = path.join(root, 'tests', `topic-index-${lan1}`);
+
+	topicindexEdit.writeToTXT(dirTopics1)
+		.then(result => setTIBusyStatus(false))
+		.catch(onTIFail);
+
+};
+
+const setTIBusyStatus = (busy) => {
+	topicBusy = busy;
+	setTIDisableStatus(busy);
+	$(controls.drpTICategories).attr('disabled', busy ? 'disabled' : null);
+	$(controls.spinTICategories).toggleClass('d-none', !busy);
+	
+};
+
+const setTIDisableStatus = (disable) => {
+	const controlsToUpdate = ['btnTIAddTopic', 'btnTIRemoveTopic',
+		'btnTIRenameTopic', 'btnTISaveChanges', 'btnTIAddAlias',
+		'btnTIRemoveAlias', 'btnTIAddRef', 'btnTIRemoveRef',
+		'btnTIAddSeeAlso', 'btnTIRemoveSeeAlso',
+		'btnTIAddLink', 'btnTIRemoveLink', 'txtTIName',
+		'drpTILanguage1', 'drpTILanguage2', 'chkTopicRevised',
+		'drpTICategory', 'drpTIAliases', 'drpTIRefs',
+		'drpTISeeAlso', 'drpTILinks'];
+	controlsToUpdate.forEach(key => {
+		$(controls[key]).attr('disabled', disable ? 'disabled' : null);
+	});
+};
+
+const onTIFail = (errors) => {
+	setTIBusyStatus(false);
+	//TODO: show errors
+}
 
 document.addEventListener('DOMContentLoaded', onLoad);

@@ -32,7 +32,7 @@ main {
 #tabContent {
     width: 100%;
 }
-#lbxTopicsCont {
+#lbxTITopicsCont, #lbxTILinesCont, #lbxTIUBLinesCont {
     border: 1px solid rgba(0,0,0,.125);
     border-radius: .25rem;
 }

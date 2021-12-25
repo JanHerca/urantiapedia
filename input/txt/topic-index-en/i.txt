@@ -1044,7 +1044,7 @@ ionization | | | |
 causes compass variation (58:2.9)
 heat in stratosphere ionizes oxygen (58:2.6)
 produces aural displays in atmosphere (58:2.8)
-stripping atoms of outer (chemically active) electrons (42:3.8)
+stripping atoms of outer and chemically active electrons (42:3.8)
 
 ionosphere | | | | 
 temperature range; storms in (58:2.6,10)

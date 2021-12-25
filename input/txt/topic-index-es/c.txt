@@ -260,7 +260,7 @@ María y Rut se mudaron a (134:1.6)
 Mateo de (138:2.4) (138:3) (139:7.1)
 Simón Zelotes de (139:11.1)
 fuerte puesto militar romano en la ruta de Damasco (129:1.7)
-ay de los habitantes de (163:6.5) que rechazan la luz
+ay de los habitantes de Cafarnaúm que rechazan la luz (163:6.5) 
 Familia Zebedeo de (129:1.4) (139:3.1) (139:4.1)
 Las tiendas de construcción de barcos de Zebedeo al sur de (129:1.4)
 
@@ -374,7 +374,7 @@ región
 Caspin | (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
-sistemas de castas | (68:6.7) | brahmánismo; clases sociales | | | 
+sistemas de castas | (68:6.7) | brahmánismo; clases sociales | | 
 basado en el color en India, Egipto (70:8.11)
 no pudo salvar la raza aria (94:2.1,5)
 Gautama hizo una lucha decidida contra (94:7.2)
@@ -949,7 +949,7 @@ Sin ajustador niños son considerados todavía apegado a los padres (49:6.12)
 padres afectuosos nunca llamados a perdonar (174:1.2)
 alter egos de (91:3.1)
 entre primitivos
-	calamidad para los adoradores de antepasados ​​no tener hijos (84:7.19)
+	calamidad para los adoradores de antepasados no tener hijos (84:7.19)
 	los niños pertenecían a la madre en los matrimonios plurales (83:5.1) (83:7.1)
 	costumbre de sacrificar a los primogénitos (89:6.6,8) (89:7.1,3)
 	niñas asesinadas antes de la compra de su esposa (68:6.8)
@@ -1003,7 +1003,7 @@ quienquiera que cause a los niños tropezar, mejor arrojarse al mar (158:8.1)
 las mujeres aman naturalmente a los bebés más que los hombres (69:3.2)
 
 chimpancés | (62:5.2) | simios | | 
-los mamíferos intermedios retrasados ​​eran antepasados ​​de (62:3.12)
+los mamíferos intermedios retrasados eran antepasados de los chimpacés (62:3.12)
 
 Tsin-Chi-Hoang-Ti | | | PERSON | OK
 fue uno de los maestros chinos que combatió sin éxito el confucianismo, proclamando una fraternidad basada en el amor y no en el deber ético (94:6.11)
@@ -1011,7 +1011,7 @@ fue uno de los maestros chinos que combatió sin éxito el confucianismo, procla
 China | | chinos; Honan; Kansu; Shensi; Ti Tao; río Yangtze; raza amarilla; río Amarillo | PLACE | 
 Cultura de 40.000 años (79:8.16)
 Los anditas llevaron a los inferiores al sur de China (79:2.4)
-Anditas entraron (78:5.5-6) ​​(79:1.1) (79:6.5) (79:7)
+Anditas entraron (78:5.5-6) (79:1.1) (79:6.5) (79:7)
 aparición de ciudades en 10,000 a.C. (79:1.4) (79:7.5)
 Asoka estableció el budismo en (94:9.1)
 mezcla de causoide y mongoloide en el norte (81:4.14)
@@ -1055,7 +1055,7 @@ numeró 12 millones en 15.000 a.C.; militaristas agresivos; hablaba un idioma co
 tendencias pacíficas (79:8.2,5)
 animales criados en 5000 a.C. (81:2.12)
 creencias religiosas
-	base del culto a los antepasados ​​(68:4.3) (94:5.7)
+	base del culto a los antepasados (68:4.3) (94:5.7)
 	degenerado en enjambres de demonios y dragones (94:6.12)
 	La adoración del dragón es la supervivencia del culto a las serpientes (85:3.3)
 	empleó magia para protegerse contra los demonios (90:2.8)
@@ -1078,7 +1078,7 @@ elección | | libre albedrío | |
 
 Corazín | (138:9.3) (152:7.3) | | PLACE | 
 rechazo general del evangelio en (146:4.6) (155:2)
-ay de los habitantes de (163:6.5) que rechazan la luz
+ay de los habitantes de Corazín que rechazan la luz (163:6.5) 
 
 pueblo escogido | | | | 
 doctrina
@@ -1321,10 +1321,10 @@ practicado por los chamanes (90:2.10)
 circunspección | | propiedad | | 
 
 circunstancias | | ambiente; discapacidades; providencia | | 
-todas las cosas funcionan juntas para bien (4:1.4,11) (10:7.5-6) ​​(48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
+todas las cosas funcionan juntas para bien (4:1.4,11) (10:7.5-6) (48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
 dispensación divina trabajando con los hijos de Dios (140:8.3)
 Jesús
-	no interfirió con los eventos naturales (135:11.3) (136:7.2-3) (136:8.5-6) ​​(136:9.9) (182:3.7) (183:1.2) (186:2.3)
+	no interfirió con los eventos naturales (135:11.3) (136:7.2-3) (136:8.5-6) (136:9.9) (182:3.7) (183:1.2) (186:2.3)
 	vivió la vida en el canal de su fluir natural (128:1.6)
 Serafines manipulan circunstancias para influir en la actividad humana (113:3.5) (113:4.4) (114:6.18)
 almas que buscan a Dios con todo el corazón liberadas del mal (130:1.2)
@@ -1478,7 +1478,7 @@ sociedad primitiva (68) (70) (71)
 	fundada en la reciprocidad de la necesidad (68:1.3)
 	divisiones industriales, reguladoras, religiosas, militares (69:6.1)
 	seguro del hombre contra riesgo, muerte violenta (68:1.2) (68:2.2)
-	hombres impulsados ​​juntos por el hambre de comida, el amor sexual, la vanidad y el miedo a los fantasmas (68:2.4,6) (68:3)
+	hombres impulsados juntos por el hambre de comida, el amor sexual, la vanidad y el miedo a los fantasmas (68:2.4,6) (68:3)
 	El cuartel general del Príncipe Planetario y Adán pretende avanzar (51:6.3) (51:7) (66:3)
 	la esclavitud hizo que la cultura pereciera (80:7.6,13)
 	totalmente negativo en su organización (70:11.2)
@@ -2717,7 +2717,7 @@ función de los Hijos Creadores
 espíritu de fusión de los Hijos Creadores implementado en Espíritus Reflectantes (40:10.2)
 fusión con | Mortales fusionados con el Hijo
 tener poder para dar la vida y retomarla (193:0.5)
-el que ha visto un CS ha visto al Padre (1:5.5-6) ​​(6:2.2) (20:5.1) (20:6.5) (32:3.6) (107:0.4) (157:6.13) (180:3.9 ) (182:1.9)
+el que ha visto un CS ha visto al Padre (1:5.5-6) (6:2.2) (20:5.1) (20:6.5) (32:3.6) (107:0.4) (157:6.13) (180:3.9 ) (182:1.9)
 en registros de personalidad (30:1.31) (30:2.39)
 comunión personal íntima con criaturas mortales (1:4.2)
 limitaciones
@@ -2991,7 +2991,7 @@ fomentar y gratificar la emoción (87:7.1-2,7)
 Jesús evitó el establecimiento formal de (120:3.6)
 de una era filosófica frustrada (100:5.1)
 de nueva revelación debe
-	sea ​​fruto del amor aplicado (87:7.7)
+	sea fruto del amor aplicado (87:7.7)
 	estar basado en la paternidad de Dios, la hermandad (87:7.6)
 	no se puede fabricar; debe crecer (87:7.3)
 	fomentar el progreso espiritual (87:7.10)

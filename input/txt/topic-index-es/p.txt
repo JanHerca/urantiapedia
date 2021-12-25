@@ -195,7 +195,7 @@ naturaleza del Paraíso (0:4.11-13)
 	contrapeso al Hijo Eterno (7:0.3)
 	no otorga patrón (0:6.13)
 	la energía y el espíritu son uno (9:1.4) (9:6.7)
-	la energía procede del Paraíso (11:8.9) (42:1.6-8), regresa y se modela después del Paraíso
+	la energía procede del Paraíso y regresa y se modela después del Paraíso (11:8.9) (42:1.6-8)
 	existe en una ubicación geográfica definida; centro geográfico del infinito, morada de Dios (0:0.5) (11:0.1) (11:1.1,3) (11:9.2,7)
 	fuerzas y energías del Paraíso (42:1)
 	El Espíritu Infinito activa el patrón de (9:3.8)
@@ -204,7 +204,7 @@ naturaleza del Paraíso (0:4.11-13)
 	no es Deidad o creador (0:4.12-13) (11:9.4-5)
 	está estacionario (12:4.1,10)
 	lo suficientemente grande para acomodar una creación casi infinita (11:0.1) (11:3.3-4) (11:4.4)
-	patrón maestro para todos los universos en organización y destino (0:5.5) (0:6.13) (9:3.8) (11:9.5-6) ​​(42:1.1) (104:5.6) (105:3.4) (115:3.14 )
+	patrón maestro para todos los universos en organización y destino (0:5.5) (0:6.13) (9:3.8) (11:9.5-6) (42:1.1) (104:5.6) (105:3.4) (115:3.14 )
 	fulcro material del infinito (9:3.8) (104:4.13-14)
 	la luz material obedece a la presencia de gravedad circular de (41:5.6)
 	esfera material así como morada espiritual (11:0.1)
@@ -602,7 +602,7 @@ Havona es el modelo para universos locales (4:0.2) (11:9.6) (14:4.15) (14:6.27-3
 en los superuniversos, solo se proporcionan suficientes seres perfectos (32:3.12)
 dominio de la mente (42:12)
 no transmisible (11:9.5)
-El Paraíso es maestro modelo para universos (0:5.5) (0:6.13) (9:3.8) (11:9.5-6) ​​(42:1.1) (104:5.6) (105:3.4) (115:3.14)
+El Paraíso es maestro modelo para universos (0:5.5) (0:6.13) (9:3.8) (11:9.5-6) (42:1.1) (104:5.6) (105:3.4) (115:3.14)
 los patrones espirituales no ocupan espacio (118:3.7)
 
 Pablo | | | PERSON | 
@@ -971,7 +971,7 @@ características (9:8.12)
 	conciencia creativa relativa y control del libre albedrío de la misma (5:6.4,6)
 	responde directamente a otras personalidades (112:0.13)
 	responde al circuito de la personalidad (0:6.1) (9:8.6) (12:3.1) (30:1.113) (112:0.8)
-	retiene la identidad, es reconocible, frente al cambio ilimitado (0:5.11) (16:8.4) (112:0.9 (112:5.20) (130:4.6) (140:4.7)
+	retiene la identidad, es reconocible, frente al cambio ilimitado (0:5.11) (16:8.4) (112:0.9) (112:5.20) (130:4.6) (140:4.7)
 	busca otra asociación de personalidad (16:9.13) (104:3.14)
 	autoconciencia (9:8.7) (16:8.5) (16:9.9)
 	el espíritu se esfuerza por dominar la energía-materia a través de la mediación de la mente en (9:4.6) (12:8.14) (56:4.2) (112:0.6)
@@ -1094,7 +1094,7 @@ adquirir una visión a larga distancia del destino (156:5.8)
 conciencia de que Dios y las huestes divinas están de nuestro lado (101:10.9)
 La comprensión de la relación de la Deidad con el cosmos es útil para la orientación cósmica del hombre (118:1.1).
 peligro de perder el sentido de la proporción (50:1.2-3)
-cada generación sonríe ante las tontas supersticiones de sus antepasados ​​(86:6.5)
+cada generación sonríe ante las tontas supersticiones de sus antepasados (86:6.5)
 ganancia verdadera perspectiva de estudiar el origen, la historia y el destino de la situación (19:1.5-12)
 contemplar el universo desde dentro - el punto de vista de Dios (101:10.9)
 captar los significados eternos de las metas en actividades espacio-temporales aparentemente insignificantes (43:8.10)
@@ -1522,7 +1522,7 @@ Príncipe Planetario de Urantia | | Príncipes Planetarios | PERSON |
 Caligastia era; depuesto (66) (179:2.3) (189:3.3)
 La comisión de Emmanuel de que Miguel regrese como (120:2.2-3)
 llegada tardía (65:4.8-9)
-Maquiventa Melquisedek es vicegerente (45:4.16) (55:7.3) (93:10.5-6) ​​(114:1.2-4)
+Maquiventa Melquisedek es vicegerente (45:4.16) (55:7.3) (93:10.5-6) (114:1.2-4)
 Miguel es (45:4.16) (114:0.8) (114:1.1) (136:3.1) (176:4.4)
 
 Príncipes Planetarios | (50) (35:9) (134:8.6) (136:3.1) (189:3.3) | Estado mayor corpóreo de los Príncipes Planetarios; Hijos Lanonandek; Príncipe Planetario de Urantia; Soberanos Planetarios | ORDER | 
@@ -2231,7 +2231,7 @@ Organizadores de la Fuerza Maestros Eventuados Primarios | | Organizadores de la
 
 Primates | (62:4) | | RACE | 
 Los andonitas asimilaron mejores cepas de (65:3.4)
-descendientes de mamíferos intermedios; antepasados ​​inmediatos de los humanos (61:6.1-2) (62:3.10) (62:4.1-2)
+descendientes de mamíferos intermedios; antepasados inmediatos de los humanos (61:6.1-2) (62:3.10) (62:4.1-2)
 extinto 5000 años después de la aparición del hombre (62:4.7)
 muy sujeto al miedo (62:4.4) (63:2.3)
 último eslabón vital en la evolución humana (62:4.7)
@@ -2611,7 +2611,7 @@ no puede penetrar en los motivos internos de la religión (101:2.17)
 estudio de la religión de otra persona (103:6.1)
 
 pterosaurios | | | | 
-no antepasados ​​de aves (60:2.12)
+no antepasados de aves (60:2.12)
 
 Tolemaida | (128:3.2) (149:0.1) (152:7.3) (156:6.1) | | PLACE | 
 Jesús pasó por aquí
@@ -2660,7 +2660,7 @@ Los fariseos se referían a los empresarios y recaudadores de impuestos como (13
 Puget Sound | (61:5.8) | | PLACE | 
 
 poderosa energía | | energía; ultimata | | 
-Los Organizadores Maestros Asociados de la Fuerza y ​​los Directores de Poder Universo transmutan poderosa energía a la etapa de energía de gravedad, ultimatones (29:5.5) (42:6.3)
+Los Organizadores Maestros Asociados de la Fuerza y los Directores de Poder Universo transmutan poderosa energía a la etapa de energía de gravedad, ultimatones (29:5.5) (42:6.3)
 energía que se transmuta del dominio exclusivo del Absoluto Incalificado al dominio gravitacional del Paraíso (29:5.5)
 primera fase de transmutación del segregado en poder universal (42:2.10-11)
 Energía de reacción forzada, que definitivamente no responde al Paraíso

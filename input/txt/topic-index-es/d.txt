@@ -21,7 +21,7 @@ Pacífico extendido a (60:2.4)
 Dalamatia | | Caligastia; cien de Caligastia | PLACE | 
 Muro de 40 pies rodeado (66:3.3) (66:4.10)
 atacado por hordas de semisalvajes después de la rebelión (67:5.2)
-edificios limpios y sencillos; construido de ladrillo (66:3.5-6) ​​(66:7.1-3)
+edificios limpios y sencillos; construido de ladrillo (66:3.5-6) (66:7.1-3)
 ciudad del Príncipe (66:3)
 gran confusión durante 50 años después de la rebelión (67:5.1)
 tierra para una población de 20.000 (66:7.1)
@@ -465,7 +465,7 @@ definido como
 	Potencial Infinito; SOY autocalificado (105:2.9)
 	ilimitado, atemporal, sin espacio, sin límites y sin medida-verdaderamente infinito (106:7.3,9)
 	no es el equivalente del Infinito (0:10.1)
-	potencial prepersonal y existencial de la Deidad total (0:3.16) (0:11.5-6) ​​(10:8.4) (105:3.6)
+	potencial prepersonal y existencial de la Deidad total (0:3.16) (0:11.5-6) (10:8.4) (105:3.6)
 	el Absoluto Calificado (0:11.6)
 	se unifica con el Absoluto Incalificado en el Absoluto Universal (0:3.18) (0:11.3) (56:1.2) (56:9.1)
 	función ilimitada de la Trinidad? (56:9.3)
@@ -1090,7 +1090,7 @@ voluntad divina | | voluntad de Dios | |
 
 varilla de adivinación | | adivinación | | 
 
-Divinington | (13:1.5-6) ​​(107:3) | esferas sagradas del Paraíso; Ajustadores del pensamiento | PLACE | 
+Divinington | (13:1.5-6) (107:3) | esferas sagradas del Paraíso; Ajustadores del pensamiento | PLACE | 
 	administrado desde Divinington (108:3.7)
 	volver a Divinington después de la muerte del sujeto (20:4.3) (40:4.1) (40:9.2)
 	el tiempo de tránsito a Urantia desde Divinington es de 117 horas (108:1.9)

@@ -401,7 +401,7 @@ const Strings = {
 		en: "Topic categories",
 		es: "Categorías de términos"
 	},
-	"lblCategories2": {
+	"lblTICategories": {
 		en: "Topic categories",
 		es: "Categorías de términos"
 	},
@@ -425,39 +425,39 @@ const Strings = {
 		en: "Name",
 		es: "Nombre"
 	},
-	"lblLanguage1": {
+	"lblTILanguage1": {
 		en: "Language 1",
 		es: "Idioma 1"
 	},
-	"lblLanguage2": {
+	"lblTILanguage2": {
 		en: "Language 2",
 		es: "Idioma 2"
 	},
-	"lblTopicName": {
+	"lblTIName": {
 		en: "Name",
 		es: "Nombre"
 	},
-	"lblTopicAliases": {
+	"lblTIAliases": {
 		en: "Aliases",
 		es: "Aliases"
 	},
-	"lblTopicRevised": {
+	"lblTIRevised": {
 		en: "Revised",
 		es: "Revisado"
 	},
-	"lblTopicRefs": {
+	"lblTIRefs": {
 		en: "Refs",
 		es: "Refs"
 	},
-	"lblTopicSeeAlso": {
+	"lblTISeeAlso": {
 		en: "See Also",
 		es: "Ver También"
 	},
-	"lblTopicLinks": {
+	"lblTILinks": {
 		en: "Links",
 		es: "Enlaces"
 	},
-	"lblTopicCategory": {
+	"lblTICategory": {
 		en: "Category",
 		es: "Categoría"
 	},
@@ -628,6 +628,10 @@ const Strings = {
 	"topic_seealso_not_found": {
 		en: "seeAlso '{0}' not found",
 		es: "seeAlso '{0}' no encontrado"
+	},
+	"topic_err_writing": {
+		en: "Error writing topic index: {0}",
+		es: "Error guardando el índice de términos: {0}"
 	},
 	"topic_see_also": {
 		en: "See also",

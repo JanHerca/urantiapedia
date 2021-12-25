@@ -59,6 +59,7 @@
     "s.txt:0363 > 'Samaritans': invalid references: 160:0.1-2",
     "s.txt:0418 > 'Sangiks': invalid references: 81:4.813-14",
     "s.txt:0439 > 'Sanhedrin': invalid references: 184:5.25",
+    "s.txt:2030 > 'shrines': seeAlso 'temples' not found",
     "s.txt:2515 > 'sleeping survivors': seeAlso 'survival' not found",
     "s.txt:3406 > 'Spirit of Truth': seeAlso 'Pentecost' not found",
     "s.txt:3968 > 'stone masons': seeAlso 'Jacob the stone mason' not found",
