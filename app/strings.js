@@ -318,12 +318,20 @@ const Strings = {
 		es: "Índice de religiones, cultos, creencias"
 	},
 	"lblLanguage": {
-		en: "Wiki Language:",
-		es: "Idioma de la Wiki:"
+		en: "Urantiapedia Language:",
+		es: "Idioma de la Urantiapedia:"
 	},
 	"lblUILanguage": {
 		en: "UI Language:",
 		es: "Idioma interfaz:"
+	},
+	"lblSettings": {
+		en: "Settings",
+		es: "Configuración"
+	},
+	"lblTheme": {
+		en: "Theme:",
+		es: "Tema:"
 	},
 	"lblProcess": {
 		en: "Process:",

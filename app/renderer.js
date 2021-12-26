@@ -1,4 +1,6 @@
 const {dialog, app} = require('electron').remote;
+const shell = require('electron').shell;
+const Store = require('electron-store');
 const path = require('path');
 const fs = require('fs');
 const Book = require('./book');
@@ -10,6 +12,8 @@ const Processes = require('./processes');
 const Strings = require('./strings');
 const strformat = require('./utils').strformat;
 const extendArray = require('./utils').extendArray;
+
+const store = new Store();
 
 const book = new Book();
 const bible = new Bible();
@@ -24,11 +28,12 @@ const bookEdit = new Book();
 const bookEdit2 = new Book();
 
 let lan = 'en';
-let uilan = 'en';
 
 const controls = {
+	btnLogo: null,
 	lblProccesses: null,
 	lblTopicIndex: null,
+	lblSettings: null,
 	//Processes
 	dirHButton: null,
 	dirHTextbox: null,
@@ -49,8 +54,6 @@ const controls = {
 	lblTopics: null,
 	drpLanguage: null,
 	lblLanguage: null,
-	drpUILanguage: null,
-	lblUILanguage: null,
 	lblCategories: null,
 	drpCategories: null,
 	lblProcess: null,
@@ -98,12 +101,21 @@ const controls = {
 	btnTIAddLink: null,
 	btnTIRemoveLink: null,
 	txtTIName: null,
-	chkTopicRevised: null
+	chkTopicRevised: null,
+	//Settings
+	drpUILanguage: null,
+	lblUILanguage: null,
+	drpTheme: null,
+	lblTheme: null
 };
 let collapsed = false;
 let topicBusy = false;
 let topicEditing = null;
 let filelineEditing = null;
+const settings = {
+	language: 'en',
+	theme: 'default'
+};
 const logInfos = [];
 
 const collapsableControls = ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 
@@ -127,6 +139,9 @@ const onLoad = () => {
 		});
 
 	//Set handlers
+	controls.btnLogo.addEventListener('click',
+		handle_btnLogoClick);
+	//Processes
 	controls.dirHButton.addEventListener('click', 
 		handle_dirButtonClick.bind(this, controls.dirHTextbox));
 	controls.dirTButton.addEventListener('click', 
@@ -143,12 +158,11 @@ const onLoad = () => {
 		handle_collapseButtonClick);
 	controls.drpLanguage.addEventListener('change', 
 		handle_drpLanguageChange);
-	controls.drpUILanguage.addEventListener('change', 
-		handle_drpUILanguageChange);
 	controls.drpProcess.addEventListener('change', 
 		handle_drpProcessChange);
 	controls.drpTopics.addEventListener('change', 
 		handle_drpTopicsChange);
+	//Topic Index Editor
 	controls.drpTICategories.addEventListener('change', 
 		handle_drpTICategoriesChange);
 	controls.drpTILanguage1.addEventListener('change', 
@@ -157,6 +171,11 @@ const onLoad = () => {
 		handle_drpTILanguage2Change);
 	controls.btnTISaveChanges.addEventListener('click',
 		handle_btnTISaveChangesClick);
+	//Settings
+	controls.drpUILanguage.addEventListener('change', 
+		handle_drpUILanguageChange);
+	controls.drpTheme.addEventListener('change',
+		handle_drpThemeChange);
 
 	//Set progress funcs
 	book.onProgressFn = onProgress;
@@ -175,14 +194,24 @@ const onLoad = () => {
 	$('[data-toggle="tooltip"]').tooltip();
 
 	//Update UI
+	settings.language = store.get('language', settings.language);
+	settings.theme = store.get('theme', settings.theme);
+	controls.drpUILanguage.value = settings.language;
+	controls.drpTheme.value = settings.theme;
 	handle_drpUILanguageChange();
+	handle_drpThemeChange();
 	handle_drpProcessChange();
 
 	setTIDisableStatus(true);
 };
 
+const handle_btnLogoClick = () => {
+	shell.openExternal('https://github.com/JanHerca/urantiapedia');
+};
+
 const updateUI = () => {
 	const process = controls.drpProcess.value;
+	const uilan = settings.language;
 
 	controls.drpProcess.innerHTML = Object.keys(Processes).map(key => {
 		const p = Processes[key];
@@ -268,11 +297,6 @@ const handle_drpLanguageChange = (evt) => {
 	updateDefaultPaths();
 };
 
-const handle_drpUILanguageChange = (evt) => {
-	uilan = controls.drpUILanguage.value;
-	updateUI();
-};
-
 const handle_drpProcessChange = (evt) => {
 	const process = controls.drpProcess.value;
 	if (!process || !Processes[process]) {
@@ -287,6 +311,7 @@ const handle_drpProcessChange = (evt) => {
 };
 
 const handle_exeButtonClick = () => {
+	const uilan = settings.language;
 	logInfos.length = 0;
 	showInfos(logInfos);
 	showProgress(true);
@@ -517,6 +542,7 @@ const handle_drpTopicsChange = (evt) => {
 };
 
 const checkControls = (cnames) => {
+	const uilan = settings.language;
 	const ctrls = cnames.map(c => controls[c]);
 	if (ctrls.find(cc => cc.localName === 'input' && cc.value === '')) {
 		onFail([new Error(Strings['folder_required'][uilan])]);
@@ -666,6 +692,7 @@ const showTopicSummary = (obj) => {
 };
 
 const onProgress = (baseName) => {
+	const uilan = settings.language;
 	logInfos.splice(0, 0, strformat(Strings['proccessing'][uilan], baseName));
 	showInfos(logInfos);
 };
@@ -690,8 +717,10 @@ const readTI = () => {
 	const lan1 = controls.drpTILanguage1.value;
 	const lan2 = controls.drpTILanguage2.value;
 	const root = app.getAppPath();
-	const dirTopics1 = path.join(root, 'input', 'txt', `topic-index-${lan1}`);
-	const dirTopics2 = path.join(root, 'input', 'txt', `topic-index-${lan2}`);
+	// const dirTopics1 = path.join(root, 'input', 'txt', `topic-index-${lan1}`);
+	// const dirTopics2 = path.join(root, 'input', 'txt', `topic-index-${lan2}`);
+	const dirTopics1 = path.join(root, 'tests', `topic-index-${lan1}`);
+	const dirTopics2 = path.join(root, 'tests', `topic-index-${lan2}`);
 	const dirBook1 = path.join(root, 'input', 'json', `book-${lan1}-footnotes`);
 	const dirBook2 = path.join(root, 'input', 'json', `book-${lan2}-footnotes`);
 	//TODO: use either with or without footnotes, whichever exists
@@ -709,9 +738,10 @@ const readTI = () => {
 
 const showTITopics = () => {
 	const category = controls.drpTICategories.value;
-	$(controls.spinTICategories).toggleClass('d-none', true);
+
 	//Unhandle
 	$(controls.lbxTITopics).find('.list-group-item').off('click');
+
 	//Fill topic list
 	const topics = topicindexEdit.topics
 		.filter(t => t.type === category || category === 'ALL')
@@ -737,16 +767,24 @@ const showTITopics = () => {
 				</div>`;
 		})
 		.join('');
+	
 	//Handle
 	$(controls.lbxTITopics).find('.list-group-item').on('click', function() {
-		const name = $(this).find('div > div:first-child').text();
-		topicEditing = name;
-		$(controls.lbxTITopics).find('.list-group-item').toggleClass('active', false);
-		$(this).toggleClass('active', true);
-		showTITopic();
+		setTITopicAsSelected(this);
 	});
-	showTITopic();
+	//Select first topic by default
+	if (topics.length > 0) {
+		setTITopicAsSelected($(controls.lbxTITopics).find('.list-group-item')[0]);
+	}
 	setTIBusyStatus(false);
+};
+
+const setTITopicAsSelected = (htmlElement) => {
+	const name = $(htmlElement).find('div > div:first-child').text();
+	topicEditing = name;
+	$(controls.lbxTITopics).find('.list-group-item').toggleClass('active', false);
+	$(htmlElement).toggleClass('active', true);
+	showTITopic();
 };
 
 const showTITopic = () => {
@@ -790,12 +828,20 @@ const showTITopic = () => {
 		.join('');
 	//Handle
 	$(controls.lbxTILines).find('.list-group-item').on('click', function() {
-		const fileline = $(this).find('div:first-child > div:first-child').text();
-		filelineEditing = parseInt(fileline);
-		$(controls.lbxTILines).find('.list-group-item').toggleClass('active', false);
-		$(this).toggleClass('active', true);
-		showTILinesUB();
+		setTITopicLineAsSelected(this);
 	});
+	//Select first line by default
+	if (lines.length > 0) {
+		setTITopicLineAsSelected($(controls.lbxTILines).find('.list-group-item')[0]);
+	}
+};
+
+const setTITopicLineAsSelected = (htmlElement) => {
+	const fileline = $(htmlElement).find('div:first-child > div:first-child').text();
+	filelineEditing = parseInt(fileline);
+	$(controls.lbxTILines).find('.list-group-item').toggleClass('active', false);
+	$(htmlElement).toggleClass('active', true);
+	showTILinesUB();
 };
 
 const showTILinesUB = () => {
@@ -864,7 +910,7 @@ const setTIDisableStatus = (disable) => {
 		'btnTIRenameTopic', 'btnTISaveChanges', 'btnTIAddAlias',
 		'btnTIRemoveAlias', 'btnTIAddRef', 'btnTIRemoveRef',
 		'btnTIAddSeeAlso', 'btnTIRemoveSeeAlso',
-		'btnTIAddLink', 'btnTIRemoveLink', 'txtTIName',
+		'btnTIAddLink', 'btnTIRemoveLink',
 		'drpTILanguage1', 'drpTILanguage2', 'chkTopicRevised',
 		'drpTICategory', 'drpTIAliases', 'drpTIRefs',
 		'drpTISeeAlso', 'drpTILinks'];
@@ -877,5 +923,26 @@ const onTIFail = (errors) => {
 	setTIBusyStatus(false);
 	//TODO: show errors
 }
+
+// -----------------------------------------------------------------------------
+// Settings
+// -----------------------------------------------------------------------------
+
+const handle_drpUILanguageChange = (evt) => {
+	const uilan = controls.drpUILanguage.value;
+	settings.language = uilan;
+	store.set('language', settings.language);
+	updateUI();
+};
+
+const handle_drpThemeChange = (evt) => {
+	const theme = controls.drpTheme.value;
+	settings.theme = theme;
+	store.set('theme', settings.theme);
+	const link = document.getElementsByTagName('link')[0];
+	link.href = (theme === 'default' ?
+		'../node_modules/bootstrap/dist/css/bootstrap.css' :
+		`../node_modules/bootswatch/dist/${theme}/bootstrap.css`);
+};
 
 document.addEventListener('DOMContentLoaded', onLoad);
