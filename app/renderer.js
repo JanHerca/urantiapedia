@@ -11,6 +11,7 @@ const Articles = require('./articles');
 const Processes = require('./processes');
 const Strings = require('./strings');
 const strformat = require('./utils').strformat;
+const replaceTags = require('./utils').replaceTags;
 const extendArray = require('./utils').extendArray;
 
 const store = new Store();
@@ -67,7 +68,7 @@ const controls = {
 	//Topic index editor
 	drpTICategories: null,
 	lblTICategories: null,
-	spinTICategories: null,
+	spinTILoading: null,
 	lbxTITopics: null,
 	drpTILanguage1: null,
 	drpTILanguage2: null,
@@ -102,6 +103,14 @@ const controls = {
 	btnTIRemoveLink: null,
 	txtTIName: null,
 	chkTopicRevised: null,
+	lblTILetters: null,
+	drpTILetters: null,
+	btnTILoadTopics: null,
+	igrTILoadTopics: null,
+	lblTIFilterRevised: null,
+	chkTopicFilterRevised: null,
+	lblTIFilterErrors: null,
+	chkTopicFilterErrors: null,
 	//Settings
 	drpUILanguage: null,
 	lblUILanguage: null,
@@ -109,7 +118,6 @@ const controls = {
 	lblTheme: null
 };
 let collapsed = false;
-let topicBusy = false;
 let topicEditing = null;
 let filelineEditing = null;
 const settings = {
@@ -120,10 +128,13 @@ const logInfos = [];
 
 const collapsableControls = ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 
 	'dirJTextbox', 'dirWTextbox', 'chkMerge', 'drpCategories'/*, 'drpTopics'*/];
-
-const topicFilters = ['NONE', 'PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 
-	'OTHER', 'ALL'];
 const topicTypes = ['PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 'OTHER'];
+const topicFilters = ['ALL', ...topicTypes];
+
+const themes = ['Default', 'Cerulean', 'Darkly', 'Litera', 'Materia', 'Pulse',
+	'Simplex', 'Solar', 'United', 'Cosmo<', 'Flatly', 'Lumen', 'Minty',
+	'Sketchy', 'Spacelab', 'Cyborg', 'Journal', 'Lux', 'Sandstone', 'Slate',
+	'Superhero', 'Yeti'];
 
 const onLoad = () => {
 	Object.keys(controls).forEach(id => controls[id] = document.querySelector('#' + id));
@@ -163,14 +174,14 @@ const onLoad = () => {
 	controls.drpTopics.addEventListener('change', 
 		handle_drpTopicsChange);
 	//Topic Index Editor
-	controls.drpTICategories.addEventListener('change', 
-		handle_drpTICategoriesChange);
 	controls.drpTILanguage1.addEventListener('change', 
 		handle_drpTILanguage1Change);
 	controls.drpTILanguage2.addEventListener('change', 
 		handle_drpTILanguage2Change);
 	controls.btnTISaveChanges.addEventListener('click',
 		handle_btnTISaveChangesClick);
+	controls.igrTILoadTopics.addEventListener('click',
+		handle_igrTILoadTopicsClick);
 	//Settings
 	controls.drpUILanguage.addEventListener('change', 
 		handle_drpUILanguageChange);
@@ -196,13 +207,22 @@ const onLoad = () => {
 	//Update UI
 	settings.language = store.get('language', settings.language);
 	settings.theme = store.get('theme', settings.theme);
+	fillDropdown(controls.drpTheme, themes.map(t => t.toLowerCase()), themes,
+		settings.theme);
 	controls.drpUILanguage.value = settings.language;
 	controls.drpTheme.value = settings.theme;
 	handle_drpUILanguageChange();
 	handle_drpThemeChange();
 	handle_drpProcessChange();
 
-	setTIDisableStatus(true);
+	setTIDisabledStatus(true);
+};
+
+const fillDropdown = (control, values, descs, currentValue) => {
+	control.innerHTML = values.map((v, i) => {
+		const sel = (currentValue == v ? ' selected' : '');
+		return `<option value="${v}"${sel}>${descs[i]}</option>`;
+	}).join('');
 };
 
 const handle_btnLogoClick = () => {
@@ -210,23 +230,27 @@ const handle_btnLogoClick = () => {
 };
 
 const updateUI = () => {
-	const process = controls.drpProcess.value;
 	const uilan = settings.language;
-
-	controls.drpProcess.innerHTML = Object.keys(Processes).map(key => {
+	const procs = Object.keys(Processes).map(key => {
 		const p = Processes[key];
-		const desc = p.desc[uilan];
-		const sel = (process == key ? ' selected' : '');
-		return (p.active ? `<option value="${key}"${sel}>${desc}</option>` : '');
-	}).join('');
+		return {key: key, desc: p.desc[uilan], active: p.active};
+	}).filter(p => p.active === true);
+	const letters = 'abcdefghijklmnopqrstuvwxyz'.split('');
+	const lettersVals = ['ALL', '_', ...letters];
+	const lettersDescs = ['ALL', 'NUMBER', ...letters.map(l => l.toUpperCase())];
 
-	const topicFiltersOptions = topicFilters
-		.map(t => `<option value="${t}">${t}</option>`).join('');
-	const topicTypesOptions = topicTypes
-		.map(t => `<option value="${t}">${t}</option>`).join('');
-	controls.drpCategories.innerHTML = topicFiltersOptions;
-	controls.drpTICategories.innerHTML = topicFiltersOptions;
-	controls.drpTICategory.innerHTML = topicTypesOptions;
+	const data = {
+		drpProcess: {values: procs.map(p => p.key), descs: procs.map(p => p.desc)},
+		drpCategories: {values: topicFilters, descs: topicFilters},
+		drpTICategories: {values: topicFilters, descs: topicFilters},
+		drpTICategory: {values: topicTypes, descs: topicTypes},
+		drpTILetters: {values: lettersVals, descs: lettersDescs}
+	};
+	
+	Object.keys(data).forEach(key => {
+		fillDropdown(controls[key], data[key].values, data[key].descs, 
+			controls[key].value);
+	});
 
 	Object.keys(controls).forEach(key => {
 		const control = controls[key];
@@ -701,19 +725,30 @@ const onProgress = (baseName) => {
 // Topic Index Editor
 // -----------------------------------------------------------------------------
 
-const handle_drpTICategoriesChange = (evt) => {
-	readTI();
+const handle_igrTILoadTopicsClick = (evt) => {
+	loadTITopics(false);
+	evt.preventDefault();
 };
 
 const handle_drpTILanguage1Change = (evt) => {
-	readTI();
+	loadTITopics(true);
 };
 
 const handle_drpTILanguage2Change = (evt) => {
-	readTI();
+	loadTITopics(true);
 };
 
-const readTI = () => {
+const loadTITopics = (forceLoad) => {
+	//If previously read then show filtered topics and exit
+	if (topicindexEdit.topics.length > 0 && !forceLoad) {
+		setTILoading(true);
+		setTimeout(() => {
+			showTITopics();
+			setTILoading(false);
+		}, 200);
+		return;
+	}
+
 	const lan1 = controls.drpTILanguage1.value;
 	const lan2 = controls.drpTILanguage2.value;
 	const root = app.getAppPath();
@@ -725,26 +760,47 @@ const readTI = () => {
 	const dirBook2 = path.join(root, 'input', 'json', `book-${lan2}-footnotes`);
 	//TODO: use either with or without footnotes, whichever exists
 
-	setTIBusyStatus(true);
+	setTILoading(true);
 	
 	const promises = [
 		topicindexEdit.readFromTXT(dirTopics1, 'ALL'),
 		topicindexEdit2.readFromTXT(dirTopics2, 'ALL'),
 		bookEdit.readFromJSON(dirBook1),
-		bookEdit2.readFromJSON(dirBook2)
+		bookEdit2.readFromJSON(dirBook2),
+		
 	];
-	Promise.all(promises).then(showTITopics, onTIFail);
+	Promise.all(promises)
+		.then(() => Promise.all([
+			topicindexEdit.check(bookEdit),
+			topicindexEdit2.check(bookEdit2)
+		]))
+		.then(() => {
+			showTITopics();
+			setTILoading(false);
+		})
+		.catch((errs) => {
+			onTIFail(errs);
+			setTILoading(false);
+		});
 };
 
 const showTITopics = () => {
 	const category = controls.drpTICategories.value;
+	const letter = controls.drpTILetters.value;
+	const notrevised = controls.chkTopicFilterRevised.checked;
+	const witherrs = controls.chkTopicFilterErrors.checked;
 
 	//Unhandle
 	$(controls.lbxTITopics).find('.list-group-item').off('click');
 
 	//Fill topic list
 	const topics = topicindexEdit.topics
-		.filter(t => t.type === category || category === 'ALL')
+		.filter(t => {
+			return ((t.type === category || category === 'ALL') &&
+				(t.filename.startsWith(letter) || letter === 'ALL') &&
+				(t.revised != notrevised || !notrevised) &&
+				((t.errors && t.errors.length > 0) === witherrs || !witherrs));
+		})
 		.sort((a, b) => {
 			if (a.sorting > b.sorting) return 1;
 			if (a.sorting < b.sorting) return -1;
@@ -754,12 +810,13 @@ const showTITopics = () => {
 		.map(t => {
 			const n = t.name;
 			const active = (n === topicEditing ? ' active' : '');
-			const errs = t.errors && t.errors.length > 0 ? 
-				`  [Errors: ${t.errors.length}]` : '';
-			const style = t.errors && t.errors.length > 0 ? 
-				` style="background-color:#f8d7da"` : '';
+			// const errs = t.errors && t.errors.length > 0 ? 
+			// 	`  [Errors: ${t.errors.length}]` : '';
+			// const errcls = t.errors && t.errors.length > 0 ? 
+			// 	` style="background-color:#f8d7da"` : '';
+			const errcls = t.errors && t.errors.length > 0 ? ' alert-danger' : '';
 			return `<div class="list-group-item btn-sm list-group-item-action 
-					py-0 px-2 flex-column align-items-start${active}">
+					py-0 px-2 flex-column align-items-start${active}${errcls}">
 					<div class="d-flex w-100 justify-content-between pb-1">
 						<div>${n}</div>
 						<div>${t.type}</div>
@@ -776,7 +833,6 @@ const showTITopics = () => {
 	if (topics.length > 0) {
 		setTITopicAsSelected($(controls.lbxTITopics).find('.list-group-item')[0]);
 	}
-	setTIBusyStatus(false);
 };
 
 const setTITopicAsSelected = (htmlElement) => {
@@ -813,17 +869,30 @@ const showTITopic = () => {
 	//Fill lines listbox
 	controls.lbxTILines.innerHTML = lines
 		.map((line, i) => {
+			const line2 = lines2[i];
+			const errs1 = (topic.errors ? 
+				topic.errors.filter(er => er.fileline === line.fileline): []);
+			const errs2 = (topic.errors ? 
+				topic2.errors.filter(er => er.fileline === line2.fileline): []);
+			const errRows = errs1.map(err => {
+				const err2 = errs2.find(er => er.fileline === err.fileline);
+				return `<div class="row alert alert-danger p-0 mb-0">
+							<div class="col-6">${err.desc}</div>
+							<div class="col-6">${(err2 ? err2.desc: '')}</div>
+						</div>`;
+			}).join('');
 			return `<div class="list-group-item btn-sm list-group-item-action 
-				py-0 px-2 flex-column align-items-start">
-				<div class="row">
-					<div class="d-none">${line.fileline}</div>
-					<div class="col-6">${line.text}</div>
-					<div class="col-6">${lines2[i].text}</div>
-				</div>
-				<div class="row">
-					<div class="col-12 text-right">${line.refs.join(', ')}</div>
-				</div>
-			</div>`;
+						py-0 px-2 flex-column align-items-start">
+						<div class="row">
+							<div class="d-none">${line.fileline}</div>
+							<div class="col-6">${line.text}</div>
+							<div class="col-6">${line2.text}</div>
+						</div>
+						${errRows}
+						<div class="row">
+							<div class="col-12 text-right">${line.refs.join(', ')}</div>
+						</div>
+					</div>`;
 		})
 		.join('');
 	//Handle
@@ -847,21 +916,35 @@ const setTITopicLineAsSelected = (htmlElement) => {
 const showTILinesUB = () => {
 	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
 	const line = topic.lines.find(ln => ln.fileline === filelineEditing);
-	const fn = (r1, r2) => {
-		const par1 = (r1 ? 
-			bookEdit.getPar(r1[0], r1[1], r1[2]).par_content : 'Error') + 
-			` [${r1[0]}:${r1[1]}.${r1[2]}]`;
-		const par2 = (r2 ? 
-			bookEdit2.getPar(r2[0], r2[1], r2[2]).par_content : 'Error') +
-			` [${r2[0]}:${r2[1]}.${r2[2]}]`;
+	const fnGetPar = (r, book, errs) => {
+		let par = 'Error: UB ref not found';
+		if (r) {
+			par = book.getPar(r[0], r[1], r[2]).par_content
+				.replace(/{(\d+)}/g, function(match, number) {return '';});
+			par = replaceTags(par, '*', '*', '<i>', '</i>', errs);
+			par = replaceTags(par, '$', '$', 
+				'<span style="font-variant: small-caps;">', '</span>', errs);
+		}
+		return par;
+	};
+	const fnGetPars = (r1, r2) => {
+		const errs = [];
+		const par1 = fnGetPar(r1, bookEdit, errs);
+		const par2 = fnGetPar(r2, bookEdit2, errs);
+		const ref1 = (r1 ? ` [${r1[0]}:${r1[1]}.${r1[2]}]` : '');
+		const ref2 = (r2 ? ` [${r2[0]}:${r2[1]}.${r2[2]}]` : '');
 		const ercls = (r1 == null || r2 == null ? ' alert alert-danger' : '');
 		return `<div class="list-group-item btn-sm list-group-item-action 
-			py-0 px-2 flex-column align-items-start${ercls}">
-			<div class="row">
-				<div class="col-6">${par1}</div>
-				<div class="col-6">${par2}</div>
-			</div>
-		</div>`;
+					py-0 px-2 flex-column align-items-start${ercls}">
+					<div class="row">
+						<div class="col-6">${par1}</div>
+						<div class="col-6">${par2}</div>
+					</div>
+					<div class="row">
+						<div class="col-6 text-right">${ref1}</div>
+						<div class="col-6 text-right">${ref2}</div>
+					</div>
+				</div>`;
 	};
 	controls.lbxTIUBLines.innerHTML = line.refs.map(ref => {
 		let arRefs1 = null;
@@ -878,34 +961,29 @@ const showTILinesUB = () => {
 			arRefs2 = [null];
 		}
 		return arRefs1.map((r, i) => {
-			return fn(arRefs1[i], arRefs2[i]);
+			return fnGetPars(arRefs1[i], arRefs2[i]);
 		}).join('');
 	}).join('');
 };
 
 const handle_btnTISaveChangesClick = () => {
 	if (topicindexEdit.topics.length === 0) return;
-	setTIBusyStatus(true);
+	setTISaving(true);
 
 	const lan1 = controls.drpTILanguage1.value;
 	const root = app.getAppPath();
 	const dirTopics1 = path.join(root, 'tests', `topic-index-${lan1}`);
 
 	topicindexEdit.writeToTXT(dirTopics1)
-		.then(result => setTIBusyStatus(false))
-		.catch(onTIFail);
+		.then(result => setTISaving(false))
+		.catch(errs => {
+			onTIFail(errs);
+			setTISaving(false);
+		});
 
 };
 
-const setTIBusyStatus = (busy) => {
-	topicBusy = busy;
-	setTIDisableStatus(busy);
-	$(controls.drpTICategories).attr('disabled', busy ? 'disabled' : null);
-	$(controls.spinTICategories).toggleClass('d-none', !busy);
-	
-};
-
-const setTIDisableStatus = (disable) => {
+const setTIDisabledStatus = (disabled) => {
 	const controlsToUpdate = ['btnTIAddTopic', 'btnTIRemoveTopic',
 		'btnTIRenameTopic', 'btnTISaveChanges', 'btnTIAddAlias',
 		'btnTIRemoveAlias', 'btnTIAddRef', 'btnTIRemoveRef',
@@ -915,13 +993,45 @@ const setTIDisableStatus = (disable) => {
 		'drpTICategory', 'drpTIAliases', 'drpTIRefs',
 		'drpTISeeAlso', 'drpTILinks'];
 	controlsToUpdate.forEach(key => {
-		$(controls[key]).attr('disabled', disable ? 'disabled' : null);
+		$(controls[key]).attr('disabled', disabled ? 'disabled' : null);
 	});
 };
 
+const setTILoading = (loading) => {
+	const uilan = settings.language;
+	$(controls.spinTILoading).toggleClass('d-none', !loading);
+	const t = (loading ? 'btnTILoadTopics_loading' : 'btnTILoadTopics');
+	$(controls.btnTILoadTopics).text(Strings[t][uilan]);
+	$(controls.igrTILoadTopics).find('button').attr('disabled', 
+		loading ? 'disabled' : null);
+	setTIDisabledStatus(loading);
+};
+
+const setTISaving = (saving) => {
+	$(controls.spinTISaving).toggleClass('d-none', !saving);
+	$(controls.btnTISaveChanges).toggleClass('d-none', saving);
+	setTIDisabledStatus(saving);
+};
+
 const onTIFail = (errors) => {
-	setTIBusyStatus(false);
-	//TODO: show errors
+	setTIDisabledStatus(false);
+	//Show errors
+	//Unhandle
+	$(controls.lbxTILines).find('.list-group-item').off('click');
+	//Fill lines listbox
+	controls.lbxTILines.innerHTML = errors
+		.map((err, i) => {
+			return `<div class="list-group-item btn-sm list-group-item-action 
+						py-0 px-2 flex-column align-items-start">
+						<div class="row">
+							<div class="col-12 alert alert-danger p-x-2 py-1 mb-0 text-wrap">
+								${err.message}
+							</div>
+						</div>
+					</div>`;
+		})
+		.join('');
+
 }
 
 // -----------------------------------------------------------------------------

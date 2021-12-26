@@ -178,9 +178,40 @@
 										<span id="lblTICategories" class="input-group-text">Topic categories</span>
 									</div>
 									<select id="drpTICategories" class="custom-select"></select>
-									<div class="px-2">
-										<span id="spinTICategories" class="spinner-border spinner-border-sm d-none" role="status"></span>
+								</div>
+							</div>
+							<div class="p-0 mb-2 flex-grow-1">
+								<div class="input-group input-group-sm">
+									<div class="input-group-prepend">
+										<span id="lblTILetters" class="input-group-text">Topic letters</span>
 									</div>
+									<select id="drpTILetters" class="custom-select"></select>
+								</div>
+							</div>
+							<div class="p-0 mb-2 flex-grow-1 d-flex flex-row">
+								<div class="input-group input-group-sm">
+									<div class="input-group-prepend">
+										<span id="lblTIFilterRevised" class="input-group-text">Non-Revised</span>
+									</div>
+									<div class="input-group-text">
+										<input id="chkTopicFilterRevised" type="checkbox" aria-label="Is topic revised or not">
+									</div>
+								</div>
+								<div class="input-group input-group-sm">
+									<div class="input-group-prepend">
+										<span id="lblTIFilterErrors" class="input-group-text">With errors</span>
+									</div>
+									<div class="input-group-text">
+										<input id="chkTopicFilterErrors" type="checkbox" aria-label="Is topic with errors or not">
+									</div>
+								</div>
+							</div>
+							<div class="p-0 mb-2 flex-grow-1">
+								<div class="input-group input-group-sm" id="igrTILoadTopics">
+									<button class="btn btn-secondary w-100" type="button">
+										<span class="spinner-border spinner-border-sm d-none" role="status" aria-hidden="true" id="spinTILoading"></span>
+										<span id="btnTILoadTopics">Load topics</span>
+									</button>
 								</div>
 							</div>
 							<div class="p-0 mb-2 flex-grow-1" style="height: inherit; overflow: auto;" id="lbxTITopicsCont">
@@ -202,6 +233,9 @@
 										</button>
 										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTISaveChanges" data-toggle="tooltip" data-placement="bottom" title="Save changes">
 											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M17 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V7l-4-4zm-5 16c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm3-10H5V5h10v4z"/></svg>
+										</button>
+										<button class="btn btn-secondary py-0 px-1 d-none" type="button" id="btnTISaving" data-toggle="tooltip" data-placement="bottom" title="Save changes">
+											<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
 										</button>
 									</div>
 									<div class="input-group-prepend">
@@ -296,7 +330,7 @@
 					</div>
 				</div>
 				<!-- Settings-->
-				<div class="tab-pane fade show active p-2" id="settings" role="tabpanel" aria-labelledby="settings-tab" style="height: 100%;">
+				<div class="tab-pane fade p-2" id="settings" role="tabpanel" aria-labelledby="settings-tab" style="height: 100%;">
 					<div class="form-group row p-0 mb-2">
 						<div class="input-group input-group-sm col-sm-12">
 							<div class="input-group-prepend">
@@ -313,30 +347,7 @@
 							<div class="input-group-prepend">
 								<span id="lblTheme" class="input-group-text">Theme:</span>
 							</div>
-							<select id="drpTheme" class="custom-select">
-								<option value="default" selected>Default</option>
-								<option value="cerulean">Cerulean</option>
-								<option value="darkly">Darkly</option>
-								<option value="litera">Litera</option>
-								<option value="materia">Materia</option>
-								<option value="pulse">Pulse</option>
-								<option value="simplex">Simplex</option>
-								<option value="solar">Solar</option>
-								<option value="united">United</option>
-								<option value="cosmo">Cosmo</option>
-								<option value="flatly">Flatly</option>
-								<option value="lumen">Lumen</option>
-								<option value="minty">Minty</option>
-								<option value="sketchy">Sketchy</option>
-								<option value="spacelab">Spacelab</option>
-								<option value="cyborg">Cyborg</option>
-								<option value="journal">Journal</option>
-								<option value="lux">Lux</option>
-								<option value="sandstone">Sandstone</option>
-								<option value="slate">Slate</option>
-								<option value="superhero">Superhero</option>
-								<option value="yeti">Yeti</option>
-							</select>
+							<select id="drpTheme" class="custom-select"></select>
 						</div>
 					</div>
 					

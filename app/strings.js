@@ -469,6 +469,26 @@ const Strings = {
 		en: "Category",
 		es: "Categoría"
 	},
+	"lblTILetters": {
+		en: "Topic letters",
+		es: "Letras de términos"
+	},
+	"btnTILoadTopics": {
+		en: "Load topics",
+		es: "Cargar términos"
+	},
+	"btnTILoadTopics_loading": {
+		en: "Loading...",
+		es: "Cargando..."
+	},
+	"lblTIFilterRevised": {
+		en: "Non-Revised",
+		es: "No-Revisados"
+	},
+	"lblTIFilterErrors": {
+		en: "With errors",
+		es: "Con errores"
+	},
 	"book_wrong_reference": {
 		en: "UB reference {0} is wrong or not exists",
 		es: "La referencia LU {0} está mal o no existe"
