@@ -256,14 +256,13 @@
 									<input id="txtTIName" type="text" class="form-control" aria-label="Topic name" disabled="disabled">
 									<div class="input-group-prepend">
 										<span id="lblTIAliases" class="input-group-text">Aliases</span>
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIAddAlias" data-toggle="tooltip" data-placement="bottom" title="Add topic alias">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
-										</button>
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIRemoveAlias" data-toggle="tooltip" data-placement="bottom" title="Remove topic alias">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
-										</button>
 									</div>
 									<select id="drpTIAliases" class="custom-select custom-select-sm"></select>
+									<div class="input-group-prepend">
+										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIEditAlias" data-toggle="tooltip" data-placement="bottom" title="Edit topic aliases">
+											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"/></svg>
+										</button>
+									</div>
 									<div class="input-group-prepend">
 										<span id="lblTIRevised" class="input-group-text">Revised</span>
 									</div>
@@ -276,34 +275,31 @@
 								<div class="input-group input-group-sm">
 									<div class="input-group-prepend">
 										<span id="lblTIRefs" class="input-group-text">Refs</span>
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIAddRef" data-toggle="tooltip" data-placement="bottom" title="Add topic reference">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
-										</button>
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIRemoveRef" data-toggle="tooltip" data-placement="bottom" title="Remove topic reference">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
-										</button>
 									</div>
 									<select id="drpTIRefs" class="custom-select custom-select-sm"></select>
 									<div class="input-group-prepend">
+										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIEditRef" data-toggle="tooltip" data-placement="bottom" title="Edit topic references">
+											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"/></svg>
+										</button>
+									</div>
+									<div class="input-group-prepend">
 										<span id="lblTISeeAlso" class="input-group-text">See Also</span>
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIAddSeeAlso" data-toggle="tooltip" data-placement="bottom" title="Add topic See Also">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
-										</button>
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIRemoveSeeAlso" data-toggle="tooltip" data-placement="bottom" title="Remove topic See Also">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
-										</button>
 									</div>
 									<select id="drpTISeeAlso" class="custom-select custom-select-sm"></select>
 									<div class="input-group-prepend">
-										<span id="lblTILinks" class="input-group-text">Links</span>
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIAddLink" data-toggle="tooltip" data-placement="bottom" title="Add topic link">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
-										</button>
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIRemoveLink" data-toggle="tooltip" data-placement="bottom" title="Remove topic link">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
+										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIEditSeeAlso" data-toggle="tooltip" data-placement="bottom" title="Edit topic See Alsos">
+											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"/></svg>
 										</button>
 									</div>
+									<div class="input-group-prepend">
+										<span id="lblTILinks" class="input-group-text">Links</span>
+									</div>
 									<select id="drpTILinks" class="custom-select custom-select-sm"></select>
+									<div class="input-group-prepend">
+										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIEditLink" data-toggle="tooltip" data-placement="bottom" title="Edit topic links">
+											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"/></svg>
+										</button>
+									</div>
 									<div class="input-group-prepend">
 										<span id="lblTICategory" class="input-group-text">Category</span>
 									</div>
@@ -312,10 +308,14 @@
 							</div>
 							<div class="d-flex flex-row flex-grow-1">
 								<div class="p-0 mr-2 flex-grow-1 w-50">
-									<label for="lbxTILines">Topic content</label>
+									<div class="input-group input-group-sm">
+										<span id="lblTILines" class="input-group-text w-100" style="font-size: 0.825rem; line-height: 1.5;">Topic content & errors</span>
+									</div>
 								</div>
 								<div class="p-0 flex-grow-1 w-50">
-									<label for="lbxTIUBLines">The Urantia Book content</label>
+									<div class="input-group input-group-sm">
+										<span id="lblTIUBLines" class="input-group-text w-100" style="font-size: 0.825rem; line-height: 1.5;">The Urantia Book content</span>
+									</div>
 								</div>
 							</div>
 							<div class="d-flex flex-row flex-grow-1" style="height: inherit; overflow: auto; overflow-x: hidden;">

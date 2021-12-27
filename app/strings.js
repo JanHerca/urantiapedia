@@ -469,6 +469,14 @@ const Strings = {
 		en: "Category",
 		es: "Categoría"
 	},
+	"lblTILines": {
+		en: "Topic content & errors",
+		es: "Contenido de los términos & errores"
+	},
+	"lblTIUBLines": {
+		en: "The Urantia Book content",
+		es: "Contenido de El Libro de Urantia"
+	},
 	"lblTILetters": {
 		en: "Topic letters",
 		es: "Letras de términos"

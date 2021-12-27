@@ -13,6 +13,7 @@ const Strings = require('./strings');
 const strformat = require('./utils').strformat;
 const replaceTags = require('./utils').replaceTags;
 const extendArray = require('./utils').extendArray;
+const DialogEditAlias = require('./dialog_editalias');
 
 const store = new Store();
 
@@ -22,104 +23,58 @@ const bibleref = new BibleRef();
 const topicindex = new TopicIndex();
 const topicindexEN = new TopicIndex();
 const articles = new Articles();
+const editAliasDialog = new DialogEditAlias();
 
 const topicindexEdit = new TopicIndex();
 const topicindexEdit2 = new TopicIndex();
 const bookEdit = new Book();
 const bookEdit2 = new Book();
 
-let lan = 'en';
-
 const controls = {
-	btnLogo: null,
-	lblProccesses: null,
-	lblTopicIndex: null,
-	lblSettings: null,
+	//Main
+	btnLogo: '', lblProccesses: '', lblTopicIndex: '', lblSettings: '',
 	//Processes
-	dirHButton: null,
-	dirHTextbox: null,
-	lblHTextbox: null,
-	dirTButton: null,
-	dirTTextbox: null,
-	lblTTextbox: null,
-	dirLButton: null,
-	dirLTextbox: null,
-	lblLTextbox: null,
-	dirJButton: null,
-	dirJTextbox: null,
-	lblJTextbox: null,
-	dirWButton: null,
-	dirWTextbox: null,
-	lblWTextbox: null,
-	drpTopics: null,
-	lblTopics: null,
-	drpLanguage: null,
-	lblLanguage: null,
-	lblCategories: null,
-	drpCategories: null,
-	lblProcess: null,
-	drpProcess: null,
-	exeButton: null,
-	logArea: null,
-	collapseButton: null,
-	progress: null,
-	chkMerge: null,
-	chkMergeLabel: null,
+	lblHTextbox: '', dirHTextbox: '', dirHButton: '', 
+	lblTTextbox: '', dirTTextbox: '', dirTButton: '', 
+	lblLTextbox: '', dirLTextbox: '', dirLButton: '', 
+	lblJTextbox: '', dirJTextbox: '', dirJButton: '', 
+	lblWTextbox: '', dirWTextbox: '', dirWButton: '', 
+	lblTopics: '', drpTopics: '', 
+	lblLanguage: '', drpLanguage: '', 
+	lblCategories: '', drpCategories: '', 
+	lblProcess: '', drpProcess: '', 
+	exeButton: '', logArea: '', collapseButton: '', progress: '', 
+	chkMergeLabel: '', chkMerge: '', 
 	//Topic index editor
-	drpTICategories: null,
-	lblTICategories: null,
-	spinTILoading: null,
-	lbxTITopics: null,
-	drpTILanguage1: null,
-	drpTILanguage2: null,
-	lblTILanguage1: null,
-	lblTILanguage2: null,
-	lblTIName: null,
-	lblTIAliases: null,
-	lblTIRevised: null,
-	lblTIRefs: null,
-	lblTISeeAlso: null,
-	lblTILinks: null,
-	lblTICategory: null,
-	txtTIName: null,
-	drpTIAliases: null,
-	drpTIRefs: null,
-	drpTISeeAlso: null,
-	drpTILinks: null,
-	drpTICategory: null,
-	lbxTILines: null,
-	lbxTIUBLines: null,
-	btnTIAddTopic: null,
-	btnTIRemoveTopic: null,
-	btnTIRenameTopic: null,
-	btnTISaveChanges: null,
-	btnTIAddAlias: null,
-	btnTIRemoveAlias: null,
-	btnTIAddRef: null,
-	btnTIRemoveRef: null,
-	btnTIAddSeeAlso: null,
-	btnTIRemoveSeeAlso: null,
-	btnTIAddLink: null,
-	btnTIRemoveLink: null,
-	txtTIName: null,
-	chkTopicRevised: null,
-	lblTILetters: null,
-	drpTILetters: null,
-	btnTILoadTopics: null,
-	igrTILoadTopics: null,
-	lblTIFilterRevised: null,
-	chkTopicFilterRevised: null,
-	lblTIFilterErrors: null,
-	chkTopicFilterErrors: null,
+	lblTICategories: '', drpTICategories: '', 
+	spinTILoading: '', lbxTITopics: '', btnTILoadTopics: '', igrTILoadTopics: '', 
+	lblTILanguage1: '', drpTILanguage1: '', lblTILanguage2: '', drpTILanguage2: '', 
+	lblTIName: '', txtTIName: '', 
+	lblTIAliases: '', drpTIAliases: '', btnTIEditAlias: '', 
+	lblTIRevised: '', chkTopicRevised: '', 
+	lblTIRefs: '', drpTIRefs: '', btnTIEditRef: '', 
+	lblTISeeAlso: '', drpTISeeAlso: '', btnTIEditSeeAlso: '', 
+	lblTILinks: '', drpTILinks: '', btnTIEditLink: '', 
+	lblTICategory: '', drpTICategory: '', 
+	lblTILines: '', lbxTILines: '', lblTIUBLines: '', lbxTIUBLines: '', 
+	btnTIAddTopic: '', btnTIRemoveTopic: '', btnTIRenameTopic: '', btnTISaveChanges: '', 
+	lblTILetters: '', drpTILetters: '', 
+	lblTIFilterRevised: '', chkTopicFilterRevised: '', 
+	lblTIFilterErrors: '', chkTopicFilterErrors: '', 
 	//Settings
-	drpUILanguage: null,
-	lblUILanguage: null,
-	drpTheme: null,
-	lblTheme: null
+	lblUILanguage: '', drpUILanguage: '', 
+	lblTheme: '', drpTheme: ''
 };
-let collapsed = false;
-let topicEditing = null;
-let filelineEditing = null;
+const controlsToDisable = [
+	'btnTIAddTopic', 'btnTIRemoveTopic', 'btnTIRenameTopic', 'btnTISaveChanges', 
+	'btnTIEditAlias', 'drpTIAliases',
+	'btnTIEditRef', 'drpTIRefs',
+	'btnTIEditSeeAlso', 'drpTISeeAlso',
+	'btnTIEditLink', 'drpTILinks',
+	'drpTILanguage1', 'drpTILanguage2', 'chkTopicRevised',
+	'drpTICategory'
+];
+
 const settings = {
 	language: 'en',
 	theme: 'default'
@@ -132,9 +87,14 @@ const topicTypes = ['PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 'OTHER'];
 const topicFilters = ['ALL', ...topicTypes];
 
 const themes = ['Default', 'Cerulean', 'Darkly', 'Litera', 'Materia', 'Pulse',
-	'Simplex', 'Solar', 'United', 'Cosmo<', 'Flatly', 'Lumen', 'Minty',
+	'Simplex', 'Solar', 'United', 'Cosmo', 'Flatly', 'Lumen', 'Minty',
 	'Sketchy', 'Spacelab', 'Cyborg', 'Journal', 'Lux', 'Sandstone', 'Slate',
 	'Superhero', 'Yeti'];
+
+let lan = 'en';
+let collapsed = false;
+let topicEditing = null;
+let filelineEditing = null;
 
 const onLoad = () => {
 	Object.keys(controls).forEach(id => controls[id] = document.querySelector('#' + id));
@@ -148,6 +108,10 @@ const onLoad = () => {
 				return `<option value="${key}"${sel}>${desc}</option>`;
 			}).join('');
 		});
+
+	//Dialogs
+	editAliasDialog.setTarget(document.body);
+	
 
 	//Set handlers
 	controls.btnLogo.addEventListener('click',
@@ -187,6 +151,8 @@ const onLoad = () => {
 		handle_drpUILanguageChange);
 	controls.drpTheme.addEventListener('change',
 		handle_drpThemeChange);
+	controls.btnTIEditAlias.addEventListener('click',
+		handle_btnTIEditAliasClick);
 
 	//Set progress funcs
 	book.onProgressFn = onProgress;
@@ -216,6 +182,8 @@ const onLoad = () => {
 	handle_drpProcessChange();
 
 	setTIDisabledStatus(true);
+	$(controls.drpTILanguage1).attr('disabled', null);
+	$(controls.drpTILanguage2).attr('disabled', null);
 };
 
 const fillDropdown = (control, values, descs, currentValue) => {
@@ -809,19 +777,18 @@ const showTITopics = () => {
 	controls.lbxTITopics.innerHTML = topics
 		.map(t => {
 			const n = t.name;
+			const len = t.errors ? t.errors.length : 0;
 			const active = (n === topicEditing ? ' active' : '');
-			// const errs = t.errors && t.errors.length > 0 ? 
-			// 	`  [Errors: ${t.errors.length}]` : '';
-			// const errcls = t.errors && t.errors.length > 0 ? 
-			// 	` style="background-color:#f8d7da"` : '';
-			const errcls = t.errors && t.errors.length > 0 ? ' alert-danger' : '';
+			const errcls = len > 0 ? ' alert alert-danger ' : ' ';
+			const badge = len > 0 ? 
+				`<span class="badge badge-pill badge-danger mr-1">${len}</span>` : '';
 			return `<div class="list-group-item btn-sm list-group-item-action 
-					py-0 px-2 flex-column align-items-start${active}${errcls}">
-					<div class="d-flex w-100 justify-content-between pb-1">
-						<div>${n}</div>
-						<div>${t.type}</div>
-					</div>
-				</div>`;
+						flex-column p-0 align-items-start${active}">
+						<div class="d-flex w-100 justify-content-between${errcls}px-2 py-1 mb-0">
+							<div>${n}</div>
+							<div>${badge}${t.type}</div>
+						</div>
+					</div>`;
 		})
 		.join('');
 	
@@ -916,21 +883,10 @@ const setTITopicLineAsSelected = (htmlElement) => {
 const showTILinesUB = () => {
 	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
 	const line = topic.lines.find(ln => ln.fileline === filelineEditing);
-	const fnGetPar = (r, book, errs) => {
-		let par = 'Error: UB ref not found';
-		if (r) {
-			par = book.getPar(r[0], r[1], r[2]).par_content
-				.replace(/{(\d+)}/g, function(match, number) {return '';});
-			par = replaceTags(par, '*', '*', '<i>', '</i>', errs);
-			par = replaceTags(par, '$', '$', 
-				'<span style="font-variant: small-caps;">', '</span>', errs);
-		}
-		return par;
-	};
 	const fnGetPars = (r1, r2) => {
 		const errs = [];
-		const par1 = fnGetPar(r1, bookEdit, errs);
-		const par2 = fnGetPar(r2, bookEdit2, errs);
+		const par1 = bookEdit.toParInHTML(r1, errs);
+		const par2 = bookEdit2.toParInHTML(r2, errs);
 		const ref1 = (r1 ? ` [${r1[0]}:${r1[1]}.${r1[2]}]` : '');
 		const ref2 = (r2 ? ` [${r2[0]}:${r2[1]}.${r2[2]}]` : '');
 		const ercls = (r1 == null || r2 == null ? ' alert alert-danger' : '');
@@ -946,23 +902,10 @@ const showTILinesUB = () => {
 					</div>
 				</div>`;
 	};
-	controls.lbxTIUBLines.innerHTML = line.refs.map(ref => {
-		let arRefs1 = null;
-		let arRefs2 = null;
-		try {
-			arRefs1 = bookEdit.getRefs(ref);
-		} catch (er) {}
-		try {
-			arRefs2 = bookEdit2.getRefs(ref);
-		} catch (er) {}
-
-		if (!arRefs1 || !arRefs2 || arRefs1.length != arRefs2.length) {
-			arRefs1 = [null];
-			arRefs2 = [null];
-		}
-		return arRefs1.map((r, i) => {
-			return fnGetPars(arRefs1[i], arRefs2[i]);
-		}).join('');
+	const refs1 = bookEdit.getArrayOfRefs(line.refs);
+	const refs2 = bookEdit2.getArrayOfRefs(line.refs);
+	controls.lbxTIUBLines.innerHTML = refs1.map((r, i) => {
+		return fnGetPars(refs1[i], refs2[i]);
 	}).join('');
 };
 
@@ -980,19 +923,22 @@ const handle_btnTISaveChangesClick = () => {
 			onTIFail(errs);
 			setTISaving(false);
 		});
+};
 
+const handle_btnTIEditAliasClick = (evt) => {
+	if (!topicEditing) return;
+	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
+	const refs = topic.refs;
+	topic.lines.forEach(line => extendArray(refs, line.refs));
+	editAliasDialog.updateContent();
+	editAliasDialog.update('editaliasdialog', 'Edit aliases');
+	editAliasDialog.setAliases(topic.altnames);
+	editAliasDialog.setUBRefs(refs, bookEdit);
+	editAliasDialog.showModal();
 };
 
 const setTIDisabledStatus = (disabled) => {
-	const controlsToUpdate = ['btnTIAddTopic', 'btnTIRemoveTopic',
-		'btnTIRenameTopic', 'btnTISaveChanges', 'btnTIAddAlias',
-		'btnTIRemoveAlias', 'btnTIAddRef', 'btnTIRemoveRef',
-		'btnTIAddSeeAlso', 'btnTIRemoveSeeAlso',
-		'btnTIAddLink', 'btnTIRemoveLink',
-		'drpTILanguage1', 'drpTILanguage2', 'chkTopicRevised',
-		'drpTICategory', 'drpTIAliases', 'drpTIRefs',
-		'drpTISeeAlso', 'drpTILinks'];
-	controlsToUpdate.forEach(key => {
+	controlsToDisable.forEach(key => {
 		$(controls[key]).attr('disabled', disabled ? 'disabled' : null);
 	});
 };

@@ -103,13 +103,13 @@ class Book {
 	 * For example '101:2.1,3-4' returns [[101,2,1], [101,2,3], [101,2,4]]
 	 * Checks if references exist.
 	 * If anything goes wrong returns an exception.
-	 * @param {string} lu_ref UB reference.
-	 * @return {Array}
+	 * @param {string} ref UB reference.
+	 * @return {Array.<number[]>}
 	 */
-	getRefs = (lu_ref) => {
+	getRefs = (ref) => {
 		let data, data2, data3, dd, paper_id, section_id, paper, section, min, max;
-		const err = this.getError('book_wrong_reference', lu_ref);
-		data = lu_ref.split(':');
+		const err = this.getError('book_wrong_reference', ref);
+		data = ref.split(':');
 		let result = [];
 		let fail = false;
 		paper_id = parseInt(data[0]);
@@ -177,6 +177,42 @@ class Book {
 				}
 			}
 		}
+		return result;
+	};
+
+	/**
+	 * Returns an array of arrays with three values [paper_id, section_id, par_id]
+	 * with all paragraphs included in the references.
+	 * For example '101' returns an array of all paragraphs of paper 101.
+	 * For example '101:2.1,3-4' returns [[101,2,1], [101,2,3], [101,2,4]]
+	 * Checks if references exist. References that fail are returned as nulls.
+	 * References are not duplicated.
+	 * @param {string[]} refs UB references.
+	 * @return {Array.<number[]>}
+	 */
+	getArrayOfRefs = (refs) => {
+		const result = [];
+		const strRefs = [];
+		refs.forEach(ref => {
+			let arRefs = null;
+			try {
+				arRefs = this.getRefs(ref);
+			} catch (er) {}
+	
+			if (arRefs) {
+				arRefs = arRefs.filter(r => {
+					const str = `${r[0]}:${r[1]}.${r[2]}`;
+					const added = (strRefs.indexOf(str) != -1);
+					if (!added) {
+						strRefs.push(str);
+					}
+					return !added;
+				});
+				extendArray(result, arRefs);
+			} else {
+				result.push(null);
+			}
+		});
 		return result;
 	};
 
@@ -1229,6 +1265,31 @@ class Book {
 			errs);
 		text = text.trim();
 		return text;
+	};
+
+	/**
+	 * Returns the referenced paragraph in HTML.
+	 * @param {number[]} ref Reference as an array of three numbers.
+	 * @param {string[]} errs Array to store errors.
+	 * @returns {string}
+	 */
+	toParInHTML = (ref, errs) => {
+		let result = '';
+		if (!ref) {
+			errs.push('Error: Ref is null');
+			return result;
+		}
+		const par = this.getPar(ref[0], ref[1], ref[2]);
+		if (!par) {
+			errs.push(`Error: Ref ${ref[0]}:${ref[1]}.${ref[2]}} not found`);
+			return result;
+		}
+		result = par.par_content
+			.replace(/{(\d+)}/g, function(match, number) {return '';});
+		result = replaceTags(result, '*', '*', '<i>', '</i>', errs);
+		result = replaceTags(result, '$', '$', 
+			'<span style="font-variant: small-caps;">', '</span>', errs);
+		return result;
 	};
 
 	//***********************************************************************
