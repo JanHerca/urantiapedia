@@ -50,14 +50,15 @@ const controls = {
 	spinTILoading: '', lbxTITopics: '', btnTILoadTopics: '', igrTILoadTopics: '', 
 	lblTILanguage1: '', drpTILanguage1: '', lblTILanguage2: '', drpTILanguage2: '', 
 	lblTIName: '', txtTIName: '', 
-	lblTIAliases: '', drpTIAliases: '', btnTIEditAlias: '', 
-	lblTIRevised: '', chkTopicRevised: '', 
-	lblTIRefs: '', drpTIRefs: '', btnTIEditRef: '', 
-	lblTISeeAlso: '', drpTISeeAlso: '', btnTIEditSeeAlso: '', 
-	lblTILinks: '', drpTILinks: '', btnTIEditLink: '', 
+	lblTIAliases: '', txtTIAliases: '', btnTIEditAlias: '', 
+	lblTIRevised: '', chkTIRevised: '', 
+	lblTIRefs: '', txtTIRefs: '', btnTIEditRef: '', 
+	lblTISeeAlso: '', txtTISeeAlso: '', btnTIEditSeeAlso: '', 
+	lblTILinks: '', txtTILinks: '', btnTIEditLink: '', 
 	lblTICategory: '', drpTICategory: '', 
 	lblTILines: '', lbxTILines: '', lblTIUBLines: '', lbxTIUBLines: '', 
-	btnTIAddTopic: '', btnTIRemoveTopic: '', btnTIRenameTopic: '', btnTISaveChanges: '', 
+	btnTIAddTopic: '', btnTIRemoveTopic: '', btnTIRenameTopic: '', 
+	btnTISaveChanges: '', btnTISaving: '',
 	lblTILetters: '', drpTILetters: '', 
 	lblTIFilterRevised: '', chkTopicFilterRevised: '', 
 	lblTIFilterErrors: '', chkTopicFilterErrors: '', 
@@ -67,12 +68,8 @@ const controls = {
 };
 const controlsToDisable = [
 	'btnTIAddTopic', 'btnTIRemoveTopic', 'btnTIRenameTopic', 'btnTISaveChanges', 
-	'btnTIEditAlias', 'drpTIAliases',
-	'btnTIEditRef', 'drpTIRefs',
-	'btnTIEditSeeAlso', 'drpTISeeAlso',
-	'btnTIEditLink', 'drpTILinks',
-	'drpTILanguage1', 'drpTILanguage2', 'chkTopicRevised',
-	'drpTICategory'
+	'btnTIEditAlias', 'btnTIEditRef', 'btnTIEditSeeAlso', 'btnTIEditLink', 
+	'drpTILanguage1', 'drpTILanguage2', 'chkTIRevised', 'drpTICategory'
 ];
 
 const settings = {
@@ -95,6 +92,7 @@ let lan = 'en';
 let collapsed = false;
 let topicEditing = null;
 let filelineEditing = null;
+let changed = false;
 
 const onLoad = () => {
 	Object.keys(controls).forEach(id => controls[id] = document.querySelector('#' + id));
@@ -110,8 +108,11 @@ const onLoad = () => {
 		});
 
 	//Dialogs
-	editAliasDialog.setTarget(document.body);
-	
+	editAliasDialog.update(document.body, {
+		id: 'editaliasdialog', 
+		title: 'Edit aliases',
+		okHandler: handle_editAliasDialogOK
+	});
 
 	//Set handlers
 	controls.btnLogo.addEventListener('click',
@@ -129,30 +130,20 @@ const onLoad = () => {
 		handle_dirButtonClick.bind(this, controls.dirWTextbox));
 	controls.exeButton.addEventListener('click', 
 		handle_exeButtonClick);
-	controls.collapseButton.addEventListener('click', 
-		handle_collapseButtonClick);
-	controls.drpLanguage.addEventListener('change', 
-		handle_drpLanguageChange);
-	controls.drpProcess.addEventListener('change', 
-		handle_drpProcessChange);
-	controls.drpTopics.addEventListener('change', 
-		handle_drpTopicsChange);
+	controls.collapseButton.addEventListener('click', handle_collapseButtonClick);
+	controls.drpLanguage.addEventListener('change', handle_drpLanguageChange);
+	controls.drpProcess.addEventListener('change', handle_drpProcessChange);
+	controls.drpTopics.addEventListener('change', handle_drpTopicsChange);
 	//Topic Index Editor
-	controls.drpTILanguage1.addEventListener('change', 
-		handle_drpTILanguage1Change);
-	controls.drpTILanguage2.addEventListener('change', 
-		handle_drpTILanguage2Change);
-	controls.btnTISaveChanges.addEventListener('click',
-		handle_btnTISaveChangesClick);
-	controls.igrTILoadTopics.addEventListener('click',
-		handle_igrTILoadTopicsClick);
+	controls.drpTILanguage1.addEventListener('change', handle_drpTILanguage1Change);
+	controls.drpTILanguage2.addEventListener('change', handle_drpTILanguage2Change);
+	controls.btnTISaveChanges.addEventListener('click', handle_btnTISaveChangesClick);
+	controls.igrTILoadTopics.addEventListener('click', handle_igrTILoadTopicsClick);
+	controls.btnTIEditAlias.addEventListener('click', handle_btnTIEditAliasClick);
+	controls.chkTIRevised.addEventListener('change', handle_chkTIRevisedChange);
 	//Settings
-	controls.drpUILanguage.addEventListener('change', 
-		handle_drpUILanguageChange);
-	controls.drpTheme.addEventListener('change',
-		handle_drpThemeChange);
-	controls.btnTIEditAlias.addEventListener('click',
-		handle_btnTIEditAliasClick);
+	controls.drpUILanguage.addEventListener('change',  handle_drpUILanguageChange);
+	controls.drpTheme.addEventListener('change', handle_drpThemeChange);
 
 	//Set progress funcs
 	book.onProgressFn = onProgress;
@@ -821,13 +812,13 @@ const showTITopic = () => {
 	const links = (topic.links ? topic.links : []);
 	const lines = (topic.lines ? topic.lines : []);
 	const lines2 = (topic2.lines ? topic2.lines : []);
-	const fillFn = a => `<option value="${a}">${a}</option>`;
 
 	controls.txtTIName.value = topicEditing;
-	controls.drpTIAliases.innerHTML = aliases.map(fillFn).join('');
-	controls.drpTIRefs.innerHTML = refs.map(fillFn).join('');
-	controls.drpTISeeAlso.innerHTML = seeAlso.map(fillFn).join('');
-	controls.drpTILinks.innerHTML = links.map(fillFn).join('');
+	controls.txtTIAliases.value = aliases.join('; ');
+	controls.chkTIRevised.checked = topic.revised;
+	controls.txtTIRefs.value = refs.join('; ');
+	controls.txtTISeeAlso.value = seeAlso.join('; ');
+	controls.txtTILinks.value = links.join('; ');
 	controls.drpTICategory.value = topic.type;
 
 	//Unhandle
@@ -918,7 +909,15 @@ const handle_btnTISaveChangesClick = () => {
 	const dirTopics1 = path.join(root, 'tests', `topic-index-${lan1}`);
 
 	topicindexEdit.writeToTXT(dirTopics1)
-		.then(result => setTISaving(false))
+		.then(result => {
+			return new Promise((resolve, reject) => {
+				setTimeout(() => {
+					setTISaving(false);
+					$(controls.btnTISaveChanges).toggleClass('text-warning', false);
+					resolve();
+				}, 200);
+			});
+		})
 		.catch(errs => {
 			onTIFail(errs);
 			setTISaving(false);
@@ -928,13 +927,29 @@ const handle_btnTISaveChangesClick = () => {
 const handle_btnTIEditAliasClick = (evt) => {
 	if (!topicEditing) return;
 	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
-	const refs = topic.refs;
-	topic.lines.forEach(line => extendArray(refs, line.refs));
-	editAliasDialog.updateContent();
-	editAliasDialog.update('editaliasdialog', 'Edit aliases');
-	editAliasDialog.setAliases(topic.altnames);
-	editAliasDialog.setUBRefs(refs, bookEdit);
+	editAliasDialog.updateLists(topic, bookEdit);
 	editAliasDialog.showModal();
+};
+
+const handle_editAliasDialogOK = (data) => {
+	if (!topicEditing) return;
+	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
+	//Check changes
+	const altnames = data.altnames.slice();;
+	changed = (JSON.stringify(topic.altnames) != JSON.stringify(altnames));
+	if (changed) {
+		topic.altnames = altnames;
+		controls.txtTIAliases.value = altnames.join('; ');
+		$(controls.btnTISaveChanges).toggleClass('text-warning', true);
+	}
+};
+
+const handle_chkTIRevisedChange = (evt) => {
+	if (!topicEditing) return;
+	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
+	changed = true;
+	topic.revised = controls.chkTIRevised.checked;
+	$(controls.btnTISaveChanges).toggleClass('text-warning', true);
 };
 
 const setTIDisabledStatus = (disabled) => {
@@ -954,7 +969,7 @@ const setTILoading = (loading) => {
 };
 
 const setTISaving = (saving) => {
-	$(controls.spinTISaving).toggleClass('d-none', !saving);
+	$(controls.btnTISaving).toggleClass('d-none', !saving);
 	$(controls.btnTISaveChanges).toggleClass('d-none', saving);
 	setTIDisabledStatus(saving);
 };
