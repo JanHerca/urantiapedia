@@ -14,6 +14,7 @@ const strformat = require('./utils').strformat;
 const replaceTags = require('./utils').replaceTags;
 const extendArray = require('./utils').extendArray;
 const DialogEditAlias = require('./dialog_editalias');
+const DialogEditRefs = require('./dialog_editrefs');
 
 const store = new Store();
 
@@ -24,9 +25,11 @@ const topicindex = new TopicIndex();
 const topicindexEN = new TopicIndex();
 const articles = new Articles();
 const editAliasDialog = new DialogEditAlias();
+const editRefsDialog = new DialogEditRefs();
 
 const topicindexEdit = new TopicIndex();
 const topicindexEdit2 = new TopicIndex();
+const topicindexEditEN = new TopicIndex();
 const bookEdit = new Book();
 const bookEdit2 = new Book();
 
@@ -49,7 +52,7 @@ const controls = {
 	lblTICategories: '', drpTICategories: '', 
 	spinTILoading: '', lbxTITopics: '', btnTILoadTopics: '', igrTILoadTopics: '', 
 	lblTILanguage1: '', drpTILanguage1: '', lblTILanguage2: '', drpTILanguage2: '', 
-	lblTIName: '', txtTIName: '', 
+	lblTIName: '', txtTIName: '', btnTIURL: '',
 	lblTIAliases: '', txtTIAliases: '', btnTIEditAlias: '', 
 	lblTIRevised: '', chkTIRevised: '', 
 	lblTIRefs: '', txtTIRefs: '', btnTIEditRef: '', 
@@ -113,10 +116,14 @@ const onLoad = () => {
 		title: 'Edit aliases',
 		okHandler: handle_editAliasDialogOK
 	});
+	editRefsDialog.update(document.body, {
+		id: 'editrefsdialog',
+		title: 'Edit references',
+		okHandler: handle_editRefsDialogOK
+	});
 
 	//Set handlers
-	controls.btnLogo.addEventListener('click',
-		handle_btnLogoClick);
+	controls.btnLogo.addEventListener('click', handle_btnLogoClick);
 	//Processes
 	controls.dirHButton.addEventListener('click', 
 		handle_dirButtonClick.bind(this, controls.dirHTextbox));
@@ -128,8 +135,7 @@ const onLoad = () => {
 		handle_dirButtonClick.bind(this, controls.dirJTextbox));
 	controls.dirWButton.addEventListener('click', 
 		handle_dirButtonClick.bind(this, controls.dirWTextbox));
-	controls.exeButton.addEventListener('click', 
-		handle_exeButtonClick);
+	controls.exeButton.addEventListener('click', handle_exeButtonClick);
 	controls.collapseButton.addEventListener('click', handle_collapseButtonClick);
 	controls.drpLanguage.addEventListener('change', handle_drpLanguageChange);
 	controls.drpProcess.addEventListener('change', handle_drpProcessChange);
@@ -139,8 +145,10 @@ const onLoad = () => {
 	controls.drpTILanguage2.addEventListener('change', handle_drpTILanguage2Change);
 	controls.btnTISaveChanges.addEventListener('click', handle_btnTISaveChangesClick);
 	controls.igrTILoadTopics.addEventListener('click', handle_igrTILoadTopicsClick);
+	controls.btnTIURL.addEventListener('click', handle_btnTIURLClick);
 	controls.btnTIEditAlias.addEventListener('click', handle_btnTIEditAliasClick);
 	controls.chkTIRevised.addEventListener('change', handle_chkTIRevisedChange);
+	controls.btnTIEditRef.addEventListener('click', handle_btnTIEditRefsClick);
 	//Settings
 	controls.drpUILanguage.addEventListener('change',  handle_drpUILanguageChange);
 	controls.drpTheme.addEventListener('change', handle_drpThemeChange);
@@ -184,8 +192,9 @@ const fillDropdown = (control, values, descs, currentValue) => {
 	}).join('');
 };
 
-const handle_btnLogoClick = () => {
+const handle_btnLogoClick = (evt) => {
 	shell.openExternal('https://github.com/JanHerca/urantiapedia');
+	evt.preventDefault();
 };
 
 const updateUI = () => {
@@ -689,6 +698,12 @@ const handle_igrTILoadTopicsClick = (evt) => {
 	evt.preventDefault();
 };
 
+const handle_btnTIURLClick = (evt) => {
+	const url = $(controls.btnTIURL).text();
+	shell.openExternal(url);
+	evt.preventDefault();
+};
+
 const handle_drpTILanguage1Change = (evt) => {
 	loadTITopics(true);
 };
@@ -715,6 +730,7 @@ const loadTITopics = (forceLoad) => {
 	// const dirTopics2 = path.join(root, 'input', 'txt', `topic-index-${lan2}`);
 	const dirTopics1 = path.join(root, 'tests', `topic-index-${lan1}`);
 	const dirTopics2 = path.join(root, 'tests', `topic-index-${lan2}`);
+	const dirTopicsEN = path.join(root, 'tests', `topic-index-en`);
 	const dirBook1 = path.join(root, 'input', 'json', `book-${lan1}-footnotes`);
 	const dirBook2 = path.join(root, 'input', 'json', `book-${lan2}-footnotes`);
 	//TODO: use either with or without footnotes, whichever exists
@@ -724,6 +740,7 @@ const loadTITopics = (forceLoad) => {
 	const promises = [
 		topicindexEdit.readFromTXT(dirTopics1, 'ALL'),
 		topicindexEdit2.readFromTXT(dirTopics2, 'ALL'),
+		topicindexEditEN.readFromTXT(dirTopicsEN, 'ALL'),
 		bookEdit.readFromJSON(dirBook1),
 		bookEdit2.readFromJSON(dirBook2),
 		
@@ -765,11 +782,13 @@ const showTITopics = () => {
 			if (a.sorting < b.sorting) return -1;
 			return 0;
 		});
+	let activeFound = false;
 	controls.lbxTITopics.innerHTML = topics
 		.map(t => {
 			const n = t.name;
 			const len = t.errors ? t.errors.length : 0;
 			const active = (n === topicEditing ? ' active' : '');
+			if (active != '') activeFound = true;
 			const errcls = len > 0 ? ' alert alert-danger ' : ' ';
 			const badge = len > 0 ? 
 				`<span class="badge badge-pill badge-danger mr-1">${len}</span>` : '';
@@ -787,8 +806,8 @@ const showTITopics = () => {
 	$(controls.lbxTITopics).find('.list-group-item').on('click', function() {
 		setTITopicAsSelected(this);
 	});
-	//Select first topic by default
-	if (topics.length > 0) {
+	//Select first topic by default if no one is active
+	if (!activeFound && topics.length > 0) {
 		setTITopicAsSelected($(controls.lbxTITopics).find('.list-group-item')[0]);
 	}
 };
@@ -801,9 +820,21 @@ const setTITopicAsSelected = (htmlElement) => {
 	showTITopic();
 };
 
-const showTITopic = () => {
-	if (!topicEditing) return;
+const getTITopicSelected = () => {
+	if (!topicEditing) return null;
 	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
+	return topic;
+};
+
+const showTITopic = () => {
+	const topic = getTITopicSelected();
+	if (!topic) return;
+
+	const topicEN = topicindexEditEN.topics.find(t => {
+		return (t.filename === topic.filename &&
+			t.fileline === topic.fileline);
+	});
+	let lan1 = controls.drpTILanguage1.value;
 	const sorting = topic.sorting;
 	const topic2 = topicindexEdit2.topics.find(t => t.sorting === sorting);
 	const aliases = (topic.altnames ? topic.altnames : []);
@@ -812,6 +843,9 @@ const showTITopic = () => {
 	const links = (topic.links ? topic.links : []);
 	const lines = (topic.lines ? topic.lines : []);
 	const lines2 = (topic2.lines ? topic2.lines : []);
+	const pagename = (topicEN ? topicEN.name.replace(/ /g, '_') : 'not_found');
+	lan1 = (lan1 === 'en' ? '' : '/' + lan1);
+	const url = `http://urantiapedia.org${lan1}/topic/${pagename}`
 
 	controls.txtTIName.value = topicEditing;
 	controls.txtTIAliases.value = aliases.join('; ');
@@ -820,6 +854,7 @@ const showTITopic = () => {
 	controls.txtTISeeAlso.value = seeAlso.join('; ');
 	controls.txtTILinks.value = links.join('; ');
 	controls.drpTICategory.value = topic.type;
+	$(controls.btnTIURL).html(url);
 
 	//Unhandle
 	$(controls.lbxTILines).find('.list-group-item').off('click');
@@ -872,7 +907,8 @@ const setTITopicLineAsSelected = (htmlElement) => {
 };
 
 const showTILinesUB = () => {
-	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
+	const topic = getTITopicSelected();
+	if (!topic) return;
 	const line = topic.lines.find(ln => ln.fileline === filelineEditing);
 	const fnGetPars = (r1, r2) => {
 		const errs = [];
@@ -925,15 +961,15 @@ const handle_btnTISaveChangesClick = () => {
 };
 
 const handle_btnTIEditAliasClick = (evt) => {
-	if (!topicEditing) return;
-	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
+	const topic = getTITopicSelected();
+	if (!topic) return;
 	editAliasDialog.updateLists(topic, bookEdit);
 	editAliasDialog.showModal();
 };
 
 const handle_editAliasDialogOK = (data) => {
-	if (!topicEditing) return;
-	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
+	const topic = getTITopicSelected();
+	if (!topic) return;
 	//Check changes
 	const altnames = data.altnames.slice();;
 	changed = (JSON.stringify(topic.altnames) != JSON.stringify(altnames));
@@ -941,15 +977,39 @@ const handle_editAliasDialogOK = (data) => {
 		topic.altnames = altnames;
 		controls.txtTIAliases.value = altnames.join('; ');
 		$(controls.btnTISaveChanges).toggleClass('text-warning', true);
+		topicindexEdit.checkTopic(topic, bookEdit);
+		showTITopics();
 	}
 };
 
 const handle_chkTIRevisedChange = (evt) => {
-	if (!topicEditing) return;
-	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
+	const topic = getTITopicSelected();
+	if (!topic) return;
 	changed = true;
 	topic.revised = controls.chkTIRevised.checked;
 	$(controls.btnTISaveChanges).toggleClass('text-warning', true);
+};
+
+const handle_btnTIEditRefsClick = (evt) => {
+	const topic = getTITopicSelected();
+	if (!topic) return;
+	editRefsDialog.updateLists(topic, bookEdit);
+	editRefsDialog.showModal();
+};
+
+const handle_editRefsDialogOK = (data) => {
+	const topic = getTITopicSelected();
+	if (!topic) return;
+	//Check changes
+	const refs = data.refs.slice();;
+	changed = (JSON.stringify(topic.refs) != JSON.stringify(refs));
+	if (changed) {
+		topic.refs = refs;
+		controls.txtTIRefs.value = refs.join('; ');
+		$(controls.btnTISaveChanges).toggleClass('text-warning', true);
+		topicindexEdit.checkTopic(topic, bookEdit);
+		showTITopics();
+	}
 };
 
 const setTIDisabledStatus = (disabled) => {

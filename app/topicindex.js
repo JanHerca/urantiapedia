@@ -423,69 +423,76 @@ class TopicIndex {
 	 */
 	check = (book) => {
 		return new Promise((resolve, reject) => {
-			this.topics.forEach(t => {
-				t.errors = [];
-				//Checking duplicates
-				const other = this.topics.filter(tt => tt != t && tt.name === t.name);
-				if (other.length > 0) {
-					const errors = other.map(tt => 
-						`${tt.name}|${tt.filename}:${tt.fileline}`).join(' ');
-					t.errors.push({
-						desc: Strings['topic_duplicated'][this.language] + errors,
-						fileline: t.fileline
-					});
+			this.topics.forEach(t => this.checkTopic(t, book));
+			resolve(true);
+		});
+	};
+
+	/**
+	 * Checks a topic, writing errors in it.
+	 * @param {Object} topic Topic.
+	 * @param {Book} book The Urantia Book object.
+	 */
+	checkTopic = (topic, book) => {
+		topic.errors = [];
+		//Checking duplicates
+		const other = this.topics.filter(tt => tt != topic && tt.name === topic.name);
+		if (other.length > 0) {
+			const errors = other.map(tt => 
+				`${tt.name}|${tt.filename}:${tt.fileline}`).join(' ');
+			topic.errors.push({
+				desc: Strings['topic_duplicated'][this.language] + errors,
+				fileline: topic.fileline
+			});
+		}
+		//Checking own names in the paragraphs
+		const firstLetter = topic.name.substring(0, 1);
+		const isUpperCase = (firstLetter === firstLetter.toUpperCase());
+		if (isUpperCase) {
+			let names = [topic.name.split('(')[0].trim()];
+			extendArray(names, topic.altnames);
+			let refs = topic.refs.slice();
+			let invalid = [];
+			topic.lines.forEach(line => extendArray(refs, line.refs));
+			const notFound = refs.filter(ref => {
+				let refsToFind = null;
+				try {
+					refsToFind = book.getRefs(ref);
+				} catch (err) {
+					invalid.push(ref);
 				}
-				//Checking own names in the paragraphs
-				const firstLetter = t.name.substring(0, 1);
-				const isUpperCase = (firstLetter === firstLetter.toUpperCase());
-				if (isUpperCase) {
-					let names = [t.name.split('(')[0].trim()];
-					extendArray(names, t.altnames);
-					let refs = t.refs.slice();
-					let invalid = [];
-					t.lines.forEach(line => extendArray(refs, line.refs));
-					const notFound = refs.filter(ref => {
-						let refsToFind = null;
-						try {
-							refsToFind = book.getRefs(ref);
-						} catch (err) {
+				let founded = false;
+				if (refsToFind) {
+					founded = (refsToFind.find(r => {
+						const par = book.getPar(r[0], r[1], r[2]);
+						if (!par) {
 							invalid.push(ref);
 						}
-						let founded = false;
-						if (refsToFind) {
-							founded = (refsToFind.find(r => {
-								const par = book.getPar(r[0], r[1], r[2]);
-								if (!par) {
-									invalid.push(ref);
-								}
-								return (par != null && 
-									testWords(names, par.par_content));
-							}) != null);
-						}
-						return !founded;
-					});
-					if (invalid.length > 0) {
-						t.errors.push({
-							desc: Strings['topic_invalid_refs'][this.language] + 
-								invalid.join('|'),
-							fileline: t.fileline
-						});
-					}
-					if (refs.length > 0 && notFound.length === refs.length) {
-						t.errors.push({
-							desc: strformat(Strings['topic_not_in_ref'][this.language],
-								t.name, notFound.join('|')),
-							fileline: t.fileline
-						});
-					}
+						return (par != null && 
+							testWords(names, par.par_content));
+					}) != null);
 				}
-				//Checking links to other topics
-				this.checkSeeAlso(t.seeAlso, t.fileline, t.errors);
-				t.lines.forEach(line => {
-					this.checkSeeAlso(line.seeAlso, line.fileline, t.errors);
-				});
+				return !founded;
 			});
-			resolve(true);
+			if (invalid.length > 0) {
+				topic.errors.push({
+					desc: Strings['topic_invalid_refs'][this.language] + 
+						invalid.join('|'),
+					fileline: topic.fileline
+				});
+			}
+			if (refs.length > 0 && notFound.length === refs.length) {
+				topic.errors.push({
+					desc: strformat(Strings['topic_not_in_ref'][this.language],
+						topic.name, notFound.join('|')),
+					fileline: topic.fileline
+				});
+			}
+		}
+		//Checking links to other topics
+		this.checkSeeAlso(topic.seeAlso, topic.fileline, topic.errors);
+		topic.lines.forEach(line => {
+			this.checkSeeAlso(line.seeAlso, line.fileline, topic.errors);
 		});
 	};
 

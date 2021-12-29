@@ -77,7 +77,7 @@ class DialogEditAliases extends Dialog {
 			</div>
 		</div>`;
 	topicname = '';
-	refs = [];
+	ubrefs = [];
 
 	constructor() {
 		super();
@@ -109,7 +109,7 @@ class DialogEditAliases extends Dialog {
 					self.data.altnames.splice(i, 0, alias);
 				}
 				self.updateAliasList();
-				self.updateRefsList();
+				self.updateUBRefsList();
 				$('#txtTIAlias').toggleClass('is-invalid', false);
 			}
 		});
@@ -122,7 +122,7 @@ class DialogEditAliases extends Dialog {
 			self.data.altnames.splice(i, 1);
 			i = (i < newlen ? i : newlen - 1);
 			self.updateAliasList();
-			self.updateRefsList();
+			self.updateUBRefsList();
 			if (i >= 0) {
 				self.setAliasAsSelected(i);
 			}
@@ -142,7 +142,7 @@ class DialogEditAliases extends Dialog {
 			} else {
 				self.data.altnames.splice(i, 1, alias);
 				self.updateAliasList();
-				self.updateRefsList();
+				self.updateUBRefsList();
 				self.setAliasAsSelected(i);
 				$('#txtTIAlias').toggleClass('is-invalid', false);
 			}
@@ -150,7 +150,7 @@ class DialogEditAliases extends Dialog {
 	};
 
 	/**
-	 * Updates the list of aliases and UB references.
+	 * Updates the changing content in the dialog.
 	 * @param {Object} topic Object with topic data.
 	 * @param {Book} book An instance of Urantia Book.
 	 */
@@ -170,14 +170,14 @@ class DialogEditAliases extends Dialog {
 		const refs = topic.refs.slice();
 		topic.lines.forEach(line => extendArray(refs, line.refs.slice()));
 		const arRefs = book.getArrayOfRefs(refs);
-		this.refs = arRefs.map(r => {
+		this.ubrefs = arRefs.map(r => {
 			const errs = [];
 			const par = book.toParInHTML(r, errs);
 			const ref = (r ? `[${r[0]}:${r[1]}.${r[2]}]` : null);
 			return {ref: ref ? ref : r, par: par, errors: errs};
 		});
 		this.topicname = topic.name;
-		this.updateRefsList();
+		this.updateUBRefsList();
 
 		//Update suggestions
 		this.updateSuggestions(topic, book);
@@ -208,17 +208,19 @@ class DialogEditAliases extends Dialog {
 		});
 	};
 
-	updateRefsList = () => {
+	updateUBRefsList = () => {
 		const names = [this.topicname.split('(')[0].trim(), ...this.data.altnames];
 		const spans = names.map(name => `<span class="text-primary">${name}</span>`);
 		let found = 0;
-		const len = this.refs.length;
-		const html = this.refs.map(ref => {
+		const len = this.ubrefs.length;
+		const html = this.ubrefs.map(ref => {
 			if (!ref.ref || ref.errors.length > 0) {
 				return `<div class="list-group-item btn-sm list-group-item-action 
-						py-0 px-2 flex-column align-items-start alert alert-danger">
-						<div>${ref.errors.join(' ')}</div>
-						<div class="text-right">${ref.ref || ''}</div>
+						flex-column align-items-start p-0">
+						<div class="alert alert-danger py-0 px-2 mb-0">
+							<div>${ref.errors.join(' ')}</div>
+							<div class="text-right">[${ref.ref || ''}]</div>
+						</div>
 					</div>`;
 			}
 			const par = replaceWords(names, spans, ref.par);
@@ -235,7 +237,7 @@ class DialogEditAliases extends Dialog {
 		const type = (found === len ? 'success' : 
 			(found === 0 ? 'danger' : 'warning'));
 		$('#lblTIAliasesErrs').html(`Topic names/aliases founded: ` +
-			`<span class="badge badge-${type}">${found}/${this.refs.length}</span>`);
+			`<span class="badge badge-${type}">${found}/${this.ubrefs.length}</span>`);
 		$('#lblTIAliasesErrs').toggleClass('alert-success alert-warning alert-danger',
 			false);
 		$('#lblTIAliasesErrs').toggleClass(`alert-${type}`, true);
@@ -281,7 +283,7 @@ class DialogEditAliases extends Dialog {
 					self.data.altnames.splice(i, 0, alias);
 				}
 				self.updateAliasList();
-				self.updateRefsList();
+				self.updateUBRefsList();
 				$('#txtTIAlias').toggleClass('is-invalid', false);
 			}
 		});
