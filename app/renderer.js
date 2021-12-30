@@ -13,8 +13,10 @@ const Strings = require('./strings');
 const strformat = require('./utils').strformat;
 const replaceTags = require('./utils').replaceTags;
 const extendArray = require('./utils').extendArray;
+const replaceWords = require('./utils').replaceWords;
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
+const DialogEditSeeAlsos = require('./dialog_editseealsos');
 
 const store = new Store();
 
@@ -26,6 +28,7 @@ const topicindexEN = new TopicIndex();
 const articles = new Articles();
 const editAliasDialog = new DialogEditAlias();
 const editRefsDialog = new DialogEditRefs();
+const editSeeAlsosDialog = new DialogEditSeeAlsos();
 
 const topicindexEdit = new TopicIndex();
 const topicindexEdit2 = new TopicIndex();
@@ -56,7 +59,7 @@ const controls = {
 	lblTIAliases: '', txtTIAliases: '', btnTIEditAlias: '', 
 	lblTIRevised: '', chkTIRevised: '', 
 	lblTIRefs: '', txtTIRefs: '', btnTIEditRef: '', 
-	lblTISeeAlso: '', txtTISeeAlso: '', btnTIEditSeeAlso: '', 
+	lblTISeeAlso: '', txtTISeeAlsos: '', btnTIEditSeeAlso: '', 
 	lblTILinks: '', txtTILinks: '', btnTIEditLink: '', 
 	lblTICategory: '', drpTICategory: '', 
 	lblTILines: '', lbxTILines: '', lblTIUBLines: '', lbxTIUBLines: '', 
@@ -121,6 +124,11 @@ const onLoad = () => {
 		title: 'Edit references',
 		okHandler: handle_editRefsDialogOK
 	});
+	editSeeAlsosDialog.update(document.body, {
+		id: 'editseealsosdialog',
+		title: 'Edit See Alsos',
+		okHandler: handle_editSeeAlsosDialogOK
+	});
 
 	//Set handlers
 	controls.btnLogo.addEventListener('click', handle_btnLogoClick);
@@ -149,6 +157,7 @@ const onLoad = () => {
 	controls.btnTIEditAlias.addEventListener('click', handle_btnTIEditAliasClick);
 	controls.chkTIRevised.addEventListener('change', handle_chkTIRevisedChange);
 	controls.btnTIEditRef.addEventListener('click', handle_btnTIEditRefsClick);
+	controls.btnTIEditSeeAlso.addEventListener('click', handle_btnTIEditSeeAlsoClick);
 	//Settings
 	controls.drpUILanguage.addEventListener('change',  handle_drpUILanguageChange);
 	controls.drpTheme.addEventListener('change', handle_drpThemeChange);
@@ -742,8 +751,7 @@ const loadTITopics = (forceLoad) => {
 		topicindexEdit2.readFromTXT(dirTopics2, 'ALL'),
 		topicindexEditEN.readFromTXT(dirTopicsEN, 'ALL'),
 		bookEdit.readFromJSON(dirBook1),
-		bookEdit2.readFromJSON(dirBook2),
-		
+		bookEdit2.readFromJSON(dirBook2)
 	];
 	Promise.all(promises)
 		.then(() => Promise.all([
@@ -843,6 +851,8 @@ const showTITopic = () => {
 	const links = (topic.links ? topic.links : []);
 	const lines = (topic.lines ? topic.lines : []);
 	const lines2 = (topic2.lines ? topic2.lines : []);
+	const topicErrs = (topic.errors ? 
+		topic.errors.filter(er => er.fileline === topic.fileline) : []);
 	const pagename = (topicEN ? topicEN.name.replace(/ /g, '_') : 'not_found');
 	lan1 = (lan1 === 'en' ? '' : '/' + lan1);
 	const url = `http://urantiapedia.org${lan1}/topic/${pagename}`
@@ -851,7 +861,7 @@ const showTITopic = () => {
 	controls.txtTIAliases.value = aliases.join('; ');
 	controls.chkTIRevised.checked = topic.revised;
 	controls.txtTIRefs.value = refs.join('; ');
-	controls.txtTISeeAlso.value = seeAlso.join('; ');
+	controls.txtTISeeAlsos.value = seeAlso.join('; ');
 	controls.txtTILinks.value = links.join('; ');
 	controls.drpTICategory.value = topic.type;
 	$(controls.btnTIURL).html(url);
@@ -860,7 +870,15 @@ const showTITopic = () => {
 	$(controls.lbxTILines).find('.list-group-item').off('click');
 
 	//Fill lines listbox
-	controls.lbxTILines.innerHTML = lines
+	const linesHTML = [];
+	extendArray(linesHTML, topicErrs
+		.map(er => {
+			return `<div class="list-group-item btn-sm list-group-item-action 
+						flex-column align-items-start p-0">
+						<div class="alert alert-danger py-0 px-2 mb-0">${er.desc}</div>
+					</div>`;
+		}));
+	extendArray(linesHTML, lines
 		.map((line, i) => {
 			const line2 = lines2[i];
 			const errs1 = (topic.errors ? 
@@ -877,7 +895,7 @@ const showTITopic = () => {
 			return `<div class="list-group-item btn-sm list-group-item-action 
 						py-0 px-2 flex-column align-items-start">
 						<div class="row">
-							<div class="d-none">${line.fileline}</div>
+							<div class="d-none up-fileline">${line.fileline}</div>
 							<div class="col-6">${line.text}</div>
 							<div class="col-6">${line2.text}</div>
 						</div>
@@ -886,20 +904,27 @@ const showTITopic = () => {
 							<div class="col-12 text-right">${line.refs.join(', ')}</div>
 						</div>
 					</div>`;
-		})
-		.join('');
+		}));
+	controls.lbxTILines.innerHTML = linesHTML.join('');
+
 	//Handle
 	$(controls.lbxTILines).find('.list-group-item').on('click', function() {
 		setTITopicLineAsSelected(this);
 	});
+
 	//Select first line by default
 	if (lines.length > 0) {
-		setTITopicLineAsSelected($(controls.lbxTILines).find('.list-group-item')[0]);
+		setTITopicLineAsSelected($(controls.lbxTILines)
+			.find(`.list-group-item:nth-child(${topicErrs.length + 1})`)[0]);
+	} else {
+		controls.lbxTIUBLines.innerHTML = '';
 	}
 };
 
 const setTITopicLineAsSelected = (htmlElement) => {
-	const fileline = $(htmlElement).find('div:first-child > div:first-child').text();
+	const $fileline = $(htmlElement).find('.up-fileline');
+	if ($fileline.length === 0) return;
+	const fileline = $fileline.text();
 	filelineEditing = parseInt(fileline);
 	$(controls.lbxTILines).find('.list-group-item').toggleClass('active', false);
 	$(htmlElement).toggleClass('active', true);
@@ -909,11 +934,21 @@ const setTITopicLineAsSelected = (htmlElement) => {
 const showTILinesUB = () => {
 	const topic = getTITopicSelected();
 	if (!topic) return;
+	const topic2 = topicindexEdit2.topics.find(t => {
+		return (t.filename === topic.filename && t.fileline === topic.fileline);
+	});
 	const line = topic.lines.find(ln => ln.fileline === filelineEditing);
+	const names1 = [topic.name.split('(')[0].trim(), ...topic.altnames];
+	const spans1 = names1.map(name => `<span class="text-primary">${name}</span>`);
+	const names2 = (topic2 ? 
+		[topic2.name.split('(')[0].trim(), ...topic2.altnames] : []);
+	const spans2 = names2.map(name => `<span class="text-primary">${name}</span>`);
 	const fnGetPars = (r1, r2) => {
 		const errs = [];
-		const par1 = bookEdit.toParInHTML(r1, errs);
-		const par2 = bookEdit2.toParInHTML(r2, errs);
+		let par1 = bookEdit.toParInHTML(r1, errs);
+		par1 = replaceWords(names1, spans1, par1);
+		let par2 = bookEdit2.toParInHTML(r2, errs);
+		par2 = replaceWords(names2, spans2, par2);
 		const ref1 = (r1 ? ` [${r1[0]}:${r1[1]}.${r1[2]}]` : '');
 		const ref2 = (r2 ? ` [${r2[0]}:${r2[1]}.${r2[2]}]` : '');
 		const ercls = (r1 == null || r2 == null ? ' alert alert-danger' : '');
@@ -1010,6 +1045,17 @@ const handle_editRefsDialogOK = (data) => {
 		topicindexEdit.checkTopic(topic, bookEdit);
 		showTITopics();
 	}
+};
+
+const handle_btnTIEditSeeAlsoClick = (evt) => {
+	const topic = getTITopicSelected();
+	if (!topic) return;
+	editSeeAlsosDialog.updateLists(topic, bookEdit);
+	editSeeAlsosDialog.showModal();
+};
+
+const handle_editSeeAlsosDialogOK = (data) => {
+
 };
 
 const setTIDisabledStatus = (disabled) => {

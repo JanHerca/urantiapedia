@@ -33,7 +33,7 @@ main {
     width: 100%;
 }
 #lbxTITopicsCont, #lbxTILinesCont, #lbxTIUBLinesCont, 
-#lbxTIAliases, #lbxTIAliasesUB, #lbxTIRefs, #lbxTIRefsUB {
+#lbxTIAliases, #lbxTIAliasesUB, #lbxTIRefs, #lbxTIRefsUB, #lbxTISeeAlsos {
     border: 1px solid rgba(0,0,0,.125);
     border-radius: .25rem;
 }

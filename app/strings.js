@@ -653,6 +653,10 @@ const Strings = {
 		en: "'{0}' in no ref: {1}",
 		es: "'{0}' en ninguna ref: {1}"
 	},
+	"topic_in_less_20%": {
+		en: "'{0}' is not in these refs (less than 20%): {1}",
+		en: "'{0}' no está en estas refs (menos del 20%): {1}"
+	},
 	"topic_invalid_see": {
 		en: "'{0}': topic has different seeAlso in english",
 		es: "'{0}': el término tiene diferentes seeAlso en inglés"

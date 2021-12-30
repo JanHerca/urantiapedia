@@ -256,15 +256,15 @@ exports.testWords = function(arItems, text) {
  */
 exports.replaceWords = function(arItems, arReplaces, text) {
 	let result = text, ini = 0, fin = 0, j, testIni, testFin, part1, part2;
-	const regex = /[a-z0-9áéíóúü]/i;
+	const regex = /[a-z0-9áéíóúüñ'-]/i;
 	const len = text.length;
 	for (j = 0; j < arItems.length; j++) {
 		ini = 0;
 		while (ini != -1) {
 			ini = result.indexOf(arItems[j], ini);
 			fin = ini + arItems[j].length - 1;
-			testIni = !regex.test(text.substring(ini - 1, ini));
-			testFin = !regex.test(text.substring(fin + 1, fin + 2));
+			testIni = !regex.test(result.substring(ini - 1, ini));
+			testFin = !regex.test(result.substring(fin + 1, fin + 2));
 			if (ini != -1) {
 				if ((ini === 0 || (ini > 0 && testIni)) && 
 					(fin === len - 1 || (fin < len - 1 && testFin))) {

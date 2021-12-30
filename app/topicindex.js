@@ -445,55 +445,84 @@ class TopicIndex {
 				fileline: topic.fileline
 			});
 		}
+
+		//Checking refs
+		this.checkRefs(topic, book);
+
 		//Checking own names in the paragraphs
 		const firstLetter = topic.name.substring(0, 1);
 		const isUpperCase = (firstLetter === firstLetter.toUpperCase());
 		if (isUpperCase) {
-			let names = [topic.name.split('(')[0].trim()];
-			extendArray(names, topic.altnames);
-			let refs = topic.refs.slice();
-			let invalid = [];
-			topic.lines.forEach(line => extendArray(refs, line.refs));
-			const notFound = refs.filter(ref => {
-				let refsToFind = null;
-				try {
-					refsToFind = book.getRefs(ref);
-				} catch (err) {
-					invalid.push(ref);
-				}
-				let founded = false;
-				if (refsToFind) {
-					founded = (refsToFind.find(r => {
-						const par = book.getPar(r[0], r[1], r[2]);
-						if (!par) {
-							invalid.push(ref);
-						}
-						return (par != null && 
-							testWords(names, par.par_content));
-					}) != null);
-				}
-				return !founded;
-			});
-			if (invalid.length > 0) {
-				topic.errors.push({
-					desc: Strings['topic_invalid_refs'][this.language] + 
-						invalid.join('|'),
-					fileline: topic.fileline
-				});
-			}
-			if (refs.length > 0 && notFound.length === refs.length) {
-				topic.errors.push({
-					desc: strformat(Strings['topic_not_in_ref'][this.language],
-						topic.name, notFound.join('|')),
-					fileline: topic.fileline
-				});
-			}
+			this.checkNamesInPars(topic, book);
 		}
+
 		//Checking links to other topics
 		this.checkSeeAlso(topic.seeAlso, topic.fileline, topic.errors);
 		topic.lines.forEach(line => {
 			this.checkSeeAlso(line.seeAlso, line.fileline, topic.errors);
 		});
+	};
+
+	/**
+	 * Checks the references in a topic and add errors in an array of error
+	 * objects (with desc and fileline).
+	 * @param {Object} topic Topic.
+	 * @param {Book} book The Urantia Book object.
+	 */
+	checkRefs = (topic, book) => {
+		const fnRefs = (refs, fileline) => {
+			const invalid = refs.filter(ref => {
+				const arRefs = book.getArrayOfRefs([ref]);
+				return (arRefs.length === 0 || arRefs[0] == null);
+			});
+			if (invalid.length > 0) {
+				topic.errors.push({
+					desc: Strings['topic_invalid_refs'][this.language] + 
+						invalid.join(' | '),
+					fileline: fileline
+				});
+			}
+		};
+		fnRefs(topic.refs, topic.fileline);
+		topic.lines.forEach(line => fnRefs(line.refs ? line.refs : [], line.fileline));
+	};
+
+	/**
+	 * Checks the if own names are found in any parragraph of Urantia Book. If
+	 * any name is not found in any parragraph or the times founded is less than
+	 * a 20% adds an error in an array of error objects (with desc and fileline).
+	 * This function require a previous call to checkRefs.
+	 * @param {Object} topic Topic.
+	 * @param {Book} book The Urantia Book object.
+	 */
+	checkNamesInPars = (topic, book) => {
+		const names = [topic.name.split('(')[0].trim()];
+		extendArray(names, topic.altnames);
+		const refs = topic.refs.slice();
+		topic.lines.forEach(line => extendArray(refs, line.refs));
+		if (refs.length === 0) return;
+		//Filter valid refs
+		const validRefs = refs.filter(ref => 
+			topic.errors.find(er => er.desc.indexOf(ref) != -1) == undefined);
+		const validArRefs = book.getArrayOfRefs(validRefs);
+		const notfounded = validArRefs.filter(validArRef => {
+			const par = book.getPar(validArRef[0], validArRef[1], validArRef[2]);
+			return (par == null || !testWords(names, par.par_content));
+		}).map(r => `${r[0]}:${r[1]}.${r[2]}`);
+
+		if (notfounded.length === validArRefs.length) {
+			topic.errors.push({
+				desc: strformat(Strings['topic_not_in_ref'][this.language], 
+					topic.name, notfounded.join(' | ')),
+				fileline: topic.fileline
+			});
+		} else if (notfounded.length / validArRefs.length > 0.8) {
+			topic.errors.push({
+				desc: strformat(Strings['topic_in_less_20%'][this.language], 
+					topic.name, notfounded.join(' | ')),
+				fileline: topic.fileline
+			});
+		}
 	};
 
 	/**
@@ -632,7 +661,7 @@ class TopicIndex {
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
 				if (err) {
-					reject([this.getError('dir_no_access', baseName)]);
+					reject([this.getError('dir_no_access', baseName, 0)]);
 					return;
 				}
 				const tiOK = (this.language === 'en' || 
@@ -642,6 +671,21 @@ class TopicIndex {
 					reject([this.getError('topic_en_required', baseName)]);
 					return;
 				}
+
+				const tiNames = this.topics.map(topic => {
+					const tEN = (this.language === 'en' ? topic :
+						tiEN.topics.find(t => {
+							return (t.filename === topic.filename &&
+								t.fileline === topic.fileline);
+						}));
+					return {
+						name: topic.name,
+						nameEN: (tEN ? tEN.name : null),
+						names: [topic.name.split('(')[0].trim(), ...topic.altnames]
+					};
+				});
+
+
 				const topicErr = [];
 				const promises = this.topics.map(topic => {
 					const topicEN = (this.language === 'en' ? topic :
@@ -656,7 +700,8 @@ class TopicIndex {
 					}
 					const fileName = topicEN.name.replace(/ /g, '_');
 					const filePath = path.join(dirPath, `${fileName}.html`);
-					const p = this.writeFileToWikiHTML(filePath, topic, topicEN);
+					const p = this.writeFileToWikiHTML(filePath, topic, topicEN,
+						tiNames);
 					return reflectPromise(p);
 				});
 				if (topicErr.length > 0) {
@@ -683,10 +728,20 @@ class TopicIndex {
 	 * @param {Object} topic Object with Topic Index entry.
 	 * @param {Object} topicEN Object with topic Index entry in english. If 
 	 * current language is english this object is the same than topic.
+	 * @param {Array.<Object>} tiNames An array of objects with topic names in
+	 * current Topic Index, in english, and with aliases.
 	 * @return {Promise}
 	 */
-	writeFileToWikiHTML = (filePath, topic, topicEN) => {
+	writeFileToWikiHTML = (filePath, topic, topicEN, tiNames) => {
 		return new Promise((resolve, reject) => {
+			//Testing code
+			// if (topic.name != '1-2-3 el Primero') {
+			// 	resolve(null);
+			// 	return;
+			// }
+			if (this.onProgressFn) {
+				this.onProgressFn(filePath);
+			}
 			let html = '';
 			const tpath = (this.language === 'en' ? '/topic' : 
 				`/${this.language}/topic`);
@@ -764,7 +819,31 @@ class TopicIndex {
 						html += '<p>';
 					}
 
-					//TODO: add links to other topics inside content
+					//Add links to internal topics
+					const nameslinks = [];
+					const words = subcontent
+						.match(/[a-z0-9áéíóúüñ'-]+(?:'[a-z0-9áéíóúüñ'-]+)*/gi);
+					tiNames.forEach(nn => {
+						if (nn.name === topic.name) return;
+						nn.names.forEach(n => {
+							if (subcontent.indexOf(n) != -1 && nn.nameEN &&
+								words.find(w => n.startsWith(w))) {
+								const ln = nn.nameEN.replace(/\s/g, '_');
+								if (nameslinks.find(i=>i.name === n) == undefined)  {
+									nameslinks.push({
+										name: n,
+										link: `<a href="${tpath}/${ln}">${n}</a>`
+									});
+								}
+							}
+						});
+					});
+					if (nameslinks.length > 0) {
+						//Order using longest topic names before
+						nameslinks.sort((a,b) => b.name.length - a.name.length);
+						subcontent = replaceWords(nameslinks.map(i=>i.name),
+						nameslinks.map(i=>i.link), subcontent);
+					}
 
 					//Add start list item
 					html += (marks.length > 0 ? '<li>' : '');
