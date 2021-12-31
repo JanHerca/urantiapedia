@@ -735,10 +735,10 @@ const loadTITopics = (forceLoad) => {
 	const lan1 = controls.drpTILanguage1.value;
 	const lan2 = controls.drpTILanguage2.value;
 	const root = app.getAppPath();
-	// const dirTopics1 = path.join(root, 'input', 'txt', `topic-index-${lan1}`);
-	// const dirTopics2 = path.join(root, 'input', 'txt', `topic-index-${lan2}`);
-	const dirTopics1 = path.join(root, 'tests', `topic-index-${lan1}`);
-	const dirTopics2 = path.join(root, 'tests', `topic-index-${lan2}`);
+	const dirTopics1 = path.join(root, 'input', 'txt', `topic-index-${lan1}`);
+	const dirTopics2 = path.join(root, 'input', 'txt', `topic-index-${lan2}`);
+	// const dirTopics1 = path.join(root, 'tests', `topic-index-${lan1}`);
+	// const dirTopics2 = path.join(root, 'tests', `topic-index-${lan2}`);
 	const dirTopicsEN = path.join(root, 'tests', `topic-index-en`);
 	const dirBook1 = path.join(root, 'input', 'json', `book-${lan1}-footnotes`);
 	const dirBook2 = path.join(root, 'input', 'json', `book-${lan2}-footnotes`);
