@@ -3105,9 +3105,11 @@ Dios los llama a todos por su nombre (1:5.3) (3:3.1-2)
 tipos | esferas arquitectónicas; cometas; cuerpos de gravedad oscuros; islas oscuras del espacio; meteoritos; planetas; soles
 varios orígenes (15:5.3-14)
 
-energía espacial | | absoluta | | 
+energía espacial | | absoluta | | OK
+Se trata de una de las denominaciones habituales para la absoluta
 
-fuerza espacial | | absoluta | | 
+fuerza espacial | | absoluta | | OK
+Se trata de una de las denominaciones habituales para la absoluta
 
 niveles de espacio | | peregrinos exteriores; espacio | PLACE | 
 el flujo alterno en sentido horario y antihorario ejerce una influencia antigravedad estabilizadora (11:7.9) (12:4.9,15-16)
@@ -3156,7 +3158,8 @@ niveles del espacio exterior, generalmente
 	Punto de vista de los astrónomos urantianos (57:3.2)
 	usa el 95% de la gravedad del Paraíso (12:2.4) (12:3.8)
 
-potencia espacial | | absoluta | | 
+potencia espacial | | absoluta | | OK
+Se trata de una de las denominaciones habituales para la absoluta
 
 rayos espaciales | | | | 
 consisten en ultimatones o electrones (42:5.4-5)

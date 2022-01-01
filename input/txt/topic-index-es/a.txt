@@ -12,12 +12,10 @@
 A-B-C el Primero;a-b-c el primero | (77:8.2) | | PERSON | OK
 es el nombre del primer intermedio secundario del primer subgrupo de los ocho subgrupos que existen. Cada subgrupo son 248 hermanos y hermanas hijos de unos mismos padres (77:6.4)
 
-suposiciones a priori | | doctrinas | | 
-las respuestas a la realidad de la mente cósmica son la causación, el deber y la adoración (16:6.10)
+suposiciones a priori | | doctrinas | | OK
+la causación, el deber y la adoración contituyen las suposiciones a priori que hacen posible que el hombre actúe como una personalidad racional y consciente de sí misma (16:6.10)
 
-hijas de Aaron | | hijas de Aaron | |
-
-Aarón (Viejo Testamento); Aarón | | | PERSON | OK
+Aarón (Viejo Testamento); Aarón | | hijas de Aarón | PERSON | OK
 Aarón era el hermano mayor de Moisés y quien protagonizó el suceso del becerro de oro, un ídolo con el que los israelitas decidieron representar a Yahvé. 
 Pedro utilizó esta historia en una de sus sermones (146:1.1)
 > https://es.wikipedia.org/wiki/Aarón
@@ -27,15 +25,15 @@ Aarón fue curado de una mano seca por Jesús (148:7)
 fue quien le habló al paralítico que se descolgó del techo acerca de Jesús (148:9.2)
 
 Abaddon | | | PERSON | OK
-Abaddon era el jefe del estado mayor de Caligastia; jefe de los rebeldes de Urantia (53:1.5)
+Abaddon era el jefe del estado mayor de Caligastia; y luego jefe de los rebeldes de Urantia (53:1.5)
 > https://es.wikipedia.org/wiki/Abadón
 
-abandontarios | | | ORDER | 
-muy hábiles artísiticamente y adaptados socialmente (43:7.4)
-creados por agentes de los Ancianos de los Días y los Espíritus Reeflectantes (37:9.12)
+abandontarios | | | ORDER | OK
+son los ciudadanos permanentes de las esferas sede de Uversa, al igual que los intermedios lo son de Urantia o los Hijos e Hijas Materiales lo son de Jerusem (37:9.12)
+los abandontarios son un grupo de seres muy hábiles artísiticamente y adaptados socialmente (43:7.4)
+fueron creados por agentes de los Ancianos de los Días y los Espíritus Reflectantes (37:9.12)
 están en los registros de las personalidades (30:1.44) (30:2.122)
-ciudadanos residentes de Uversa (37:9.12)
-supervisados por los mortales fusionados con el Hijo (37:9.12)
+están supervisados por los mortales fusionados con el Hijo (37:9.12)
 
 Abel | (76:2sec) | | PERSON | OK
 Abel fue el primer hijo de Adán nacido en el segundo jardín. Se dedicó a ser pastor (76:2.1,4)
@@ -43,11 +41,15 @@ Vivió grandemente influido por su entorno desfavorable (76:2.6)
 Abel se mofaba a menudo de su hermano mayor Caín y terminó asesinado por él (76:2.2-5)
 > https://es.wikipedia.org/wiki/Abel
 
-Abila | (138:9.3) (144:7.1) (159:4.1) | | PLACE | 
-Jesús predicó en este lugar
+Abila | | | PLACE | OK
+Era una de las ciudades de la Decápolis
+Fue uno de los lugares donde predicaron los doce apóstoles durante el primer trabajo de los doce entre mediados de agosto de 26 y finales de ese año (138:9.3)
+Jesús, los doce apóstoles y los doce de Juan predicaron en esta ciudad durante la primera gira de predicación en la Decápolis, entre los meses de noviembre y diciembre de 27 (144:7.1)
+Natanael estuvo aquí predicando durante la segunda gira por la Decápolis entre el 18 de agosto y el 16 de septiembre de 29 (159:4.1)
+> https://en.wikipedia.org/wiki/Abila_(Decapolis)
 
-capacidad | | | | OK
-La capacidad para un ministerio celestial superior no implica necesariamente la capacidad para funcionar en niveles inferiores (39:0.10).
+aptitud; capacidades; capacidad | | | | OK
+Una capacidad creada para un ministerio celestial superior no implica necesariamente la aptitud para funcionar en niveles inferiores (39:0.10)
 las capacidades inherentes no se pueden exceder (48:7.5)
 las tres fuentes de las capacidades humanas son la aptitud inherente o capacidad natural, el liderazgo del Ajustador, y la ayuda de los artesanos espirituales (44:8.2) (160:4.11)
 
@@ -81,10 +83,10 @@ tras la muerte de Jesús
 	fue un hombre excesivamente intransigente (195:1.11)
 	murió a los 89 años en Filadelfia (166:5.7)
 
-moradas | | | | OK
+moradas; lugares de detención; residencias | | | | OK
 Jesús repitió en varias ocasiones a sus seguidores que existen en el universo del Padre otras muchas moradas o residencias, refiriéndose sin aclararlo a otros planetas habitados y a los mundos arquitectónicos (133:4.9) (178:3.4) (180:3.4) (180:6.3) (181:1.2)
 
-aborígenes (australianos) | | | RACE | OK
+aborígenes (australianos); indígenas australianos; australianos primitivos; aborígenes australianos; tribus de Australia; tribus primitivas de Australia | | | RACE | OK
 Se nos dice que algunos de estos aborígenes no han progresado mucho desde la época antigua de la caza (68:5.4)
 estos aborígenes australianos de hoy perpetúan el miedo a los fantasmas, el temor a la oscuridad y la veneración de los antepasados, con una religión centrada en el clan (92:6.1) (103:3.1)
 en ellos se puede observar hoy los restos de antiguos pueblos antisociales (68:1.6)
@@ -93,7 +95,7 @@ nunca tuvieron esclavos (69:8.7)
 en algunas tribus de Australia las oraciones religiosas primitivas antecedieron a la creencia en los espíritus (91:0.3)
 en estas tribus sus supersticiones hacen que las mujeres no cacen y los hombres no se agachen para arrancar una raíz, pues se considera de mala suerte (84:3.6)
 
-aborígenes (hindúes) | | | RACE | OK
+aborígenes (hindúes); aborígenes de la India | | | RACE | OK
 no son representativos de los pueblos primitivos que poblaron la India, sino que forman la franja del sureste de la India que no fue absorbida por anditas o arios (79:2.2)
 
 aborto | | infanticidio | | OK
@@ -120,7 +122,7 @@ En Canaán
 	tras su victoria sobre Kedorlaomer Abraham se sintió obligado a realizar un sacrificio convencional de sangre (93:4.14)
 Sus esposas
 	temía que alguien lo matara para conseguir a Sara, su brillante esposa (93:9.3)
-	Queturá y Agar no fueron esposas de Abraham como cuenta el Génesis sino que eran concubinas. Sara fue la única esposa legal y ambos eran mucho más jóvenes de lo que indican los relatos, que lo que trataron es de resaltar la spueta milagrosidad del nacimiento de Isaac, el hijo de Abraham (93:9.8)
+	Queturá y Agar no fueron esposas de Abraham como cuenta el Génesis sino que eran concubinas. Sara fue la única esposa legal y ambos eran mucho más jóvenes de lo que indican los relatos, que lo que trataron es de resaltar la supuesta milagrosidad del nacimiento de Isaac, el hijo de Abraham (93:9.8)
 	se casó con su hermanastra, una costumbre muy habitual entonces (82:5.4)
 Su pacto con Melquisedek
 	creyó a medias en el pacto con Melquisedek, la idea de la salvación únicamente por la fe sin la intervención de sacrificios o sacerdotes (93:4.5)
@@ -158,36 +160,39 @@ Absalón | | | PERSON | OK
 Absalón fue uno de los hijos del rey David. Se nos informa de que su madre era cananea y que hoy sería calificado de demagogo. Absalón fue aspirante al trono que finalmente ocupó Salomón (97:9.15)
 > https://es.wikipedia.org/wiki/Absalón
 
-propietario ausente (parábola) | | Jesús:parábolas de Jesús | | 
-parábola de Jesús (173:4)
+propietario ausente (parábola) | | Jesús:parábolas de Jesús | | OK
+es una de las parábolas de Jesús, Mc 12:1-12; Mt 21:33-46; Lc 20:9-19 (173:4)
+> https://es.wikipedia.org/wiki/Parábola_de_los_viñadores_homicidas
 
-absoluta | | | | 
-también conocida como la fuerza cósmica; potencia espacial; fuerza espacial; fuerza madre del espacio (0:6.5) (11:5.8) (11:8.5) (15:4.1) (42:2.1-6) (42:4.5) (42:5.14-16) (42:8.2) (42:10.1)
-ancestral a todas las manifestaciones de fuerza-energía, ultimatones (11:8.5,8) (15:4.1)
-el montaje de ultimatones provoca vibraciones en el espacio (42:5.4)
-definido como
-	un superúltimo (4:1.9)
-	absoluto; Realidad oculta no espiritual del Padre (42:10.1)
-	presencia en el espacio libre del Absoluto Incalificado (0:6.5) (4:1.9) (11:8.8) (42:2.3-6)
-	homogéneo e indiferenciado (42:5.16) (42:6.1)
-	potencias que existen dentro del espacio (11:8.8)
-	prerealidad (11:8.8) (42:2.5-6)
-	dote primordial del Paraíso (11:8.8) (12:8.2)
-los transformadores de energía cambian las formas físicas de (29:4.25)
-existe en reposo energético comparativo, es decir, sin calor (42:4.5)
-fluye dentro y fuera del Paraíso inferior (11:1.4) (11:5.1,4,5) (12:8.2) (15:4.1)
-sigue caminos de menor resistencia al movimiento (11:7.8) (15:4.1)
-forma desconocida en Urantia (58:3.1)
-la materia para hacer universos incalculables circula en presencia de supergravedad de (12:8.2)
-no responde a la gravedad del Paraíso o cualquier forma de gravitación (0:6.5) (11:5.5) (11:8.8) (15:4.1)
-Origen del Paraíso (15:4.1)
-paso de partículas de energía a través de absoluta crea una apariencia ondulada (42:5.14-15)
-impregna todo el espacio; factor en la cohesión atómica (42:8.1-2)
-la forma presente se origina en el espacio, no en el Paraíso inferior (11:5.9)
-Los Organizadores de la Fuerza Maestros Primarios se transmutan en segregados (12:2.4) (15:4.2-4) (42:1.5) (42:2.5-9) (56:9.12)
-responde a la mente (9:4.5)
-Responde solo a la comprensión personal del Padre (42:2.5)
-Los ultimatones exhiben una resistencia mutua a (42:6.4)
+absoluta; fuerza cósmica; potencia espacial; potencia del espacio; fuerza espacial; energía espacial; fuerza madre del espacio; carga de fuerza universal del espacio; carga de fuerza del espacio; carga-fuerza universal del espacio; carga de fuerza universal del espacio; manto de fuerza; fuerza primordial; carga espacial de la fuerza universal; carga de poder; carga primordial de fuerza del espacio | | | | OK
+también conocida como la fuerza cósmica; potencia espacial; fuerza espacial; fuerza madre del espacio; carga de fuerza universal del espacio (0:6.5) (11:5.8) (11:8.5) (15:4.1) (42:2.1-6) (42:4.5) (42:5.14-16) (42:8.2) (42:10.1)
+definiciones
+	ha sido definida como un superúltimo (4:1.9)
+	también se ha definido como un absoluto, como realidad oculta y no espiritual del Padre (42:10.1)
+	constituye la presencia libre e indiscutible en el espacio del Absoluto Incalificado (0:6.5) (4:1.9) (11:8.8) (42:2.3-6)
+	es un componente homogéneo e indiferenciado (42:5.16) (42:6.1)
+	se trata de potencias que existen dentro del espacio (11:8.8)
+	no es un nivel efectivo de la realidad sino que que es una pre-realidad (11:8.8) (42:2.5-6)
+	es llamado también el don primordial del Paraíso (11:8.8) (12:8.2)
+origen
+	tiene su origen en el Paraíso (15:4.1)
+	la forma presente se origina en el espacio, no en el Paraíso inferior (11:5.9)
+	es ancestral a todas las manifestaciones de fuerza-energía, los ultimatones (11:8.5,8) (15:4.1)
+sus transformaciones
+	los transformadores de energía cambian las formas físicas de la absoluta (29:4.25)
+	existe en reposo energético comparativo, es decir, sin calor (42:4.5)
+	fluye dentro y fuera del Paraíso inferior (11:1.4) (11:5.1,4,5) (12:8.2) (15:4.1)
+	sigue caminos de menor resistencia al movimiento (11:7.8) (15:4.1)
+	se trata de una forma de energía desconocida en Urantia (58:3.1)
+	la materia para formar los innumerables universos circula bajo la forma de una presencia de supergravedad que representa la absoluta (12:8.2)
+	no responde a la gravedad del Paraíso o a cualquier otra forma de gravitación (0:6.5) (11:5.5) (11:8.8) (15:4.1)
+	el paso de las partículas de energía a través de la absoluta crea una apariencia ondulatoria (42:5.14-15)
+	impregna todo el espacio y es un factor en la cohesión atómica (42:8.1-2)
+	Los Organizadores Maestros Primarios de la Fuerza transmutan la absoluta en segregata (12:2.4) (15:4.2-4) (42:1.5) (42:2.5-9) (56:9.12)
+	la fuerza cósmica reacciona a la mente igual que la mente cósmica reacciona al espíritu (9:4.5)
+	La absoluta es una pre-realidad y sólo responde a la atracción personal del Padre Universal (42:2.5)
+	Los ultimatones exhiben una resistencia mutua a la absoluta (42:6.4)
+	el ensamblaje de los ultimatones provoca vibraciones en el espacio (42:5.4)
 
 El Absoluto; «Absoluto» | | Absolutos | PERSON | OK
 esta persona es una evolución del concepto budista de Buda Eterno, la mejor aproximación que han tenido los budistas de un concepto divino (94:11.7-11)

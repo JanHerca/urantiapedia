@@ -431,7 +431,7 @@ Eliseo fue un fiel colaborador del profeta Elías (97:2.2)
 
 Isabel (madre de Juan el Bautista) | (135:0-4) | | PERSON | OK
 Isabel era una prima lejana de María, la madre de Jesús (122:2.1,6)
-era descendiente de las hijas de Aarón (135:0.4)
+era descendiente de las hijas de Aarón (135:0.4) | hijas de Aarón
 Gabriel se apareció primero a Isabel para anunciarla su embarazo (122:2)
 María la visitó estando embarazada (122:2.6)
 Isabel creía que Jesús se convertiría en el Mesías (122:8.4)
@@ -666,35 +666,35 @@ energía física
 		los rayos del sol están en 4 octavas (42:5.1)
 		energía ondulado extensión de electrones cerca del núcleo (42:7.8)
 tipos de energia
-	absoluta
-	fuerza cósmica | absoluta
-	energía electrónica | gravita
-	energía emergente | ultimata
-	fuerza
-	fuerza de carga del espacio | absoluta
-	fuerza-energía (11:5.4)
-	gravita
-	energía de la gravedad (29:2.11) (42:2.12)
-	Energía de Havona | triata
-	energía material
-	monota
-	energía morontial | morontia:energía morontial
-	fuerza madre del espacio | absoluta
-	Energía del Paraíso | monota
-	fuerza primordial | segregata
-	energía poderosa
-	energía pura | segregata
-	segregata
-	energía solar
-	energía espacial | absoluta
-	fuerza espacial | absoluta
-	potencia espacial | absoluta
-	energia espiritual | espíritu:energía espiritual
-	tranosta
-	energía trascendental | tranosta
-	triata
-	ultimata
-	poder del universo | gravita
+	* absoluta
+	* fuerza cósmica | absoluta
+	* energía electrónica | gravita
+	* energía emergente | ultimata
+	* fuerza
+	* fuerza de carga del espacio | absoluta
+	* fuerza-energía (11:5.4)
+	* gravita
+	* energía de la gravedad (29:2.11) (42:2.12)
+	* Energía de Havona | triata
+	* energía material
+	* monota
+	* energía morontial | morontia:energía morontial
+	* fuerza madre del espacio | absoluta
+	* Energía del Paraíso | monota
+	* fuerza primordial | segregata
+	* energía poderosa
+	* energía pura | segregata
+	* segregata
+	* energía solar
+	* energía espacial | absoluta
+	* fuerza espacial | absoluta
+	* potencia espacial | absoluta
+	* energia espiritual | espíritu:energía espiritual
+	* tranosta
+	* energía trascendental | tranosta
+	* triata
+	* ultimata
+	* poder del universo | gravita
 
 controladores energéticos | | Controladores Físicos Maestros; Directores del Poder Universal | | 
 

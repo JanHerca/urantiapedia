@@ -370,7 +370,7 @@ purposes of mansion worlds
 	mortal deprivations and handicaps fully compensated for (44:8.3) (45:6.3) (47:9)
 	serve individuals who failed to fuse in mortal life (45:7.1)
 racial differences somewhat persist on (48:6.22)
-resurrection halls q.v.
+resurrection halls
 transition minister seraphim serve on (39:6)
 translated souls from settled spheres do not pass through (55:2.8-10) (55:6.8)
 
@@ -776,13 +776,13 @@ on Edentia and Jerusem (43:8.1) (46:5.26)
 subject to divine executioners of conciliating commissions (29:4.15) (50:2.6)
 technician seraphim are liaisons with (48:6.29)
 types of Master Physical Controllers (29:4)
-	# associate power directors q.v.
-	# mechanical controllers q.v.
-	# energy transformers q.v.
-	# energy transmitters q.v.
-	# primary associators q.v.
-	# secondary dissociators q.v.
-	# frandalanks and chronoldeks q.v.
+	# associate power directors
+	# mechanical controllers
+	# energy transformers
+	# energy transmitters
+	# primary associators
+	# secondary dissociators
+	# frandalanks and chronoldeks
 utilize calculations of physicists (41:2.7)
 
 master seraphim of planetary supervision | | seraphim | ORDER | 
@@ -1679,13 +1679,13 @@ group inside Lanonandek Sons
 
 Messenger Hosts of Space | (25) | | ORDER | 
 orders in Uversa personality register (30:2.74)
-	# Havona Servitals q.v.
-	# Universal Conciliators q.v.
-	# Technical Advisers q.v.
-	# Custodians of Records q.v.
-	# Celestial Recorders q.v.
-	# Morontia Companions q.v.
-	# Paradise Companions q.v.
+	# Havona Servitals
+	# Universal Conciliators
+	# Technical Advisers
+	# Custodians of Records
+	# Celestial Recorders
+	# Morontia Companions
+	# Paradise Companions
 personalities of Infinite Spirit (30:2.65)
 
 messengers (tertiary supernaphim) | (26:3.7) | | ORDER | 
@@ -2221,8 +2221,8 @@ types of mind
 		mind of Infinite Spirit (9:4)
 	absonite mind
 		mind is absonite in Havona (42:10.7)
-	adjutant mind-spirits q.v.
-	cosmic mind q.v.
+	adjutant mind-spirits
+	cosmic mind
 	mind of the spirit, possessed by spirit ascenders (39:2.6)
 	morontia mind
 		bestowal of Mother Spirit and Creator Son (42:10.5)
@@ -2232,7 +2232,7 @@ types of mind
 		created by Morontia Power Supervisors (16:4.5)
 		evolves by direct contact with cosmic mind (112:6.6)
 		individualizes morontia form for survivors (42:12.11)
-	mortal mind q.v.
+	mortal mind
 	nonmorontia orders (42:10.5)
 	nonteachable levels of mind, pre-adjutant mind
 		contacted by adjutant mind-spirit of intuition (36:5.6)
@@ -2683,13 +2683,13 @@ service
 thousands lost in Lucifer rebellion (48:3.3) (53:7.5)
 trained by and serve under Melchizedeks (48:3.2)
 types
-	# pilgrim guardians q.v.
-	# pilgrim receivers and free associators q.v.
-	# hosts to celestial visitors q.v.
-	# co-ordinators and liaison directors q.v.
-	# interpreters and translators q.v.
-	# excursion and reversion supervisors q.v.
-	# area and building custodians q.v.
+	# pilgrim guardians
+	# pilgrim receivers and free associators
+	# hosts to celestial visitors
+	# co-ordinators and liaison directors
+	# interpreters and translators
+	# excursion and reversion supervisors
+	# area and building custodians
 aggressive and retiring types (48:3.4)
 very close kin to humans (48:3.4)
 will always be Morontia Companions (48:3.16)
@@ -2729,13 +2729,13 @@ rarely serve on inhabited planets (48:2.12)
 self-governing (48:2.11)
 technician seraphim are liaisons with (48:6.29)
 types (30:1.91) (30:2.108) (48:2)
-	# circuit regulators q.v.
-	# system co-ordinators q.v.
-	# planetary custodians q.v.
-	# combined controllers q.v.
-	# liaison stabilizers q.v.
-	# selective assorters q.v.
-	# associate registrars q.v.
+	# circuit regulators
+	# system co-ordinators
+	# planetary custodians
+	# combined controllers
+	# liaison stabilizers
+	# selective assorters
+	# associate registrars
 
 morontia progressors | (48:8) (112:6) | ascending mortals; mansion world students; mansion worlds; morontia | ORDER | 
 assurance of truth replaces assurance of faith for (101:5.14)
@@ -2922,13 +2922,13 @@ after death
 	do not return to planet of nativity in same dispensation (39:4.15) (112:3.7) (146:7.2) (150:3.5)
 	stages of existence (30:4) (31:3.4)
 		# planetary mortals | mortals
-		# sleeping survivors q.v.
-		# mansion world students q.v.
-		# morontia progressors q.v.
-		# superuniverse wards q.v.
-		# Havona pilgrims q.v.
-		# Paradise arrivals q.v.
-		# finaliters q.v.
+		# sleeping survivors
+		# mansion world students
+		# morontia progressors
+		# superuniverse wards
+		# Havona pilgrims
+		# Paradise arrivals
+		# finaliters
 	summary of ascension career (43:8.4) (48:8.4) (113:7.4-8)
 	survival (112:5)
 	those with personal guardians may be repersonalized independent of dispensational adjudications (49:6.8)
@@ -3258,7 +3258,8 @@ priests submitted to castration (89:3.4)
 
 Mother Eves | | Material Sons | | 
 
-mother force of space | | absoluta | | 
+mother force of space | | absoluta | | OK
+it is one of the names for absoluta
 
 Mother of God cult | | | RELIGION | 
 Great Mother cult absorbed Salem gospel (93:7.3)

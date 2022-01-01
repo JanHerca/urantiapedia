@@ -661,9 +661,9 @@ religion | (99) (100) (101) (102) (103) (196) (5:4) (101:1) | Christian church, 
 all Urantia waiting for unencumbered religion of Jesus (94:12.7)
 approach others with recognition of common truths (149:2.5)
 balance by humor (143:7.3)
-ceremonies q.v.
+ceremonies
 challenge is to construct new and appealing philosophy of living (2:7.10)
-charms q.v.
+charms
 civilization in danger when youth not interested in (111:4.4)
 defined as
 	adjustment to the mysterious, and to paradoxes (92:1.3) (102:3.2)
@@ -787,7 +787,7 @@ history of religion
 	desire to make converts was early cause of war (70:1.14)
 	disappearance of religious standards caused Greek Andite decay (80:7.8)
 	evolution of philosophy of religion (101:7)
-	fetishes q.v.
+	fetishes
 	Ganid’s abstract of major religions (131)
 	great teachers and leaders (92:5) (121:6.4)
 		Jesus was the only founder of a religion who performed supermaterial acts (149:2.7)
@@ -927,7 +927,7 @@ primitive religion (85) (86) (87) (88) (89) (90) (91)
 	teachers and leaders invested with legends of supernatural origins, careers, expected returns (92:5.5-6)
 	tends to make God manlike (102:3.14)
 purposes of group activities (99:6.2)
-relics q.v.
+relics
 religions, named | ancestor worship; animism; Baal; Brahmanism; Buddhism; Christianity; Confucianism; cult of taking no life; Cynicism (religion); Dionysus; dual spiritism; Eleusinian mysteries; emperor worship; Epicureanism; Greece:Greek religion; henotheism; Hinduism; Islam; Jainism; Judaism; Mithraism; monotheism; mother cult; Mother of God cult; mystery cults; mysticism; Orphic brotherhood; paganism; Pantheism; Parsees; phallic cult; Phrygian mystery cults; polytheism; Roman Catholic Church; Shinto; Sikhism; Skepticism (religion); Stoicism (religion); Yoga; Zoroastrianism
 religious experience, growth | spiritual growth
 result of religion
@@ -966,9 +966,9 @@ revelatory religion | revelation
 rituals | ceremonies; cults; traditions
 science and religion (103:7) | science, philosophy, and religion
 social reconstructionists show unrecognized religious motivation (99:3.6-7)
-taboos q.v.
+taboos
 thawing out frozen forms of religion (155:3.8)
-traditions q.v.
+traditions
 training at home in continental nation (72:3.5)
 types of religion
 	3 distinct forms (155:5.2-6)
@@ -991,7 +991,7 @@ warnings
 		fanaticism, exaggeration of ego (196:0.6)
 		fixation of beliefs (99:6.3)
 		formulating creeds and traditions in order to control believers (141:5.4)
-		intolerance q.v.
+		intolerance
 		leaders becoming administrators instead of ministers (99:6.3)
 		loveless zeal (99:3.8)
 		negativity (140:4.7)
@@ -1229,7 +1229,7 @@ physical body remains on planet (39:2.13)
 resurrection of unjust | roll call:of justice
 reappearance of personality is a mystery (30:4.15)
 reassembly of memory, insight, and consciousness – identity (112:5.19)
-resurrection halls q.v.
+resurrection halls
 seizure of morontia mind by awakening self (112:5.20)
 seraphic transport not used (39:2.13)
 special resurrections

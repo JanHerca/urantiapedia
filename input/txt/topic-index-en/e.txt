@@ -431,7 +431,7 @@ faithful associate of Elijah (97:2.2)
 
 Elizabeth (mother of John the Baptist) | (135:0-4) | | PERSON | OK
 distant cousin of Mary (122:2.1,6)
-descendant of daughters of Aaron (135:0.4)
+descendant of daughters of Aaron (135:0.4) | daughters of Aaron
 Gabriel’s appearance to (122:2)
 Mary visited while pregnant (122:2.6)
 believed Jesus was to become Messiah (122:8.4)
@@ -666,47 +666,47 @@ physical energy
 		sun’s rays are in 4 octaves (42:5.1)
 		wavelike energy extension of electrons near nucleus (42:7.8)
 types of energy
-	absoluta q.v.
-	cosmic force | absoluta
-	electronic energy | gravita
-	emergent energy | ultimata
-	force q.v.
-	force charge of space | absoluta
-	force-energy (11:5.4)
-	gravita q.v.
-	gravity energy (29:2.11) (42:2.12)
-	Havona energy | triata
-	material energy q.v.
-	monota q.v.
-	morontia energy | morontia:morontia energy
-	mother force of space | absoluta
-	Paradise energy | monota
-	primordial force | segregata
-	puissant energy q.v.
-	pure energy | segregata
-	segregata q.v.
-	solar energy q.v.
-	space energy | absoluta
-	space-force | absoluta
-	space potency | absoluta
-	spirit energy | spirit:spirit energy
-	tranosta q.v.
-	transcendental energy | tranosta
-	triata q.v.
-	ultimata q.v.
-	universe power | gravita
+	* absoluta
+	* cosmic force | absoluta
+	* electronic energy | gravita
+	* emergent energy | ultimata
+	* force
+	* force charge of space | absoluta
+	* force-energy (11:5.4)
+	* gravita
+	* gravity energy (29:2.11) (42:2.12)
+	* Havona energy | triata
+	* material energy
+	* monota
+	* morontia energy | morontia:morontia energy
+	* mother force of space | absoluta
+	* Paradise energy | monota
+	* primordial force | segregata
+	* puissant energy
+	* pure energy | segregata
+	* segregata
+	* solar energy
+	* space energy | absoluta
+	* space-force | absoluta
+	* space potency | absoluta
+	* spirit energy | spirit:spirit energy
+	* tranosta
+	* transcendental energy | tranosta
+	* triata
+	* ultimata
+	* universe power | gravita
 
 energy controllers | | Master Physical Controllers; Universe Power Directors | | 
 
 energy manipulators | | celestial artisans | ORDER | 
 celestial artisans, types (44:5)
-	# physical-energy manipulators q.v.
-	# mind-energy manipulators q.v.
-	# spiritual-energy manipulators q.v.
-	# compound manipulators q.v.
-	# transport advisers q.v.
-	# experts of communication q.v.
-	# teachers of rest q.v.
+	# physical-energy manipulators
+	# mind-energy manipulators
+	# spiritual-energy manipulators
+	# compound manipulators
+	# transport advisers
+	# experts of communication
+	# teachers of rest
 
 energy-matter | | energy; material energy; physical energy | | 
 

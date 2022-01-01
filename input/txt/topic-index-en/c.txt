@@ -445,7 +445,7 @@ causes cannot be fully understood by effects (3:1.2)
 causes cannot be lower than effects (3:6.3)
 cosmic mind response in reality domain of physical senses (16:6.6)
 cosmic mind unfailingly recognizes (16:6.5)
-First Cause q.v.
+First Cause
 only divine causes reveal final effects (19:1.11)
 primary causation and secondary causation (118:4)
 primitive mind assigned all phenomena to a person (70:10.3)
@@ -480,13 +480,13 @@ selected and recruited corps; not created as such (44:0.3)
 seraphim may attain Paradise through service as (39:8.3)
 sometimes help gifted mortals (44:8.1-2)
 types
-	# celestial musicians q.v.
-	# heavenly reproducers q.v.
-	# divine builders q.v.
-	# thought recorders q.v.
-	# energy manipulators q.v.
-	# designers and embellishers q.v.
-	# harmony workers q.v.
+	# celestial musicians
+	# heavenly reproducers
+	# divine builders
+	# thought recorders
+	# energy manipulators
+	# designers and embellishers
+	# harmony workers
 univitatia are largest group associated with (43:7.4-5)
 utilize living materials to represent ideas (43:6.7)
 work under angels of progress on Urantia (44:8.1)
@@ -1113,7 +1113,7 @@ collection for believers in Jerusalem (194:4.7)
 early converts were gentile Jewish proselytes (121:2.5)
 failings
 	almost wholly lost valiant human Jesus (196:2.4-5)
-	atonement doctrine q.v.
+	atonement doctrine
 	changed gospel (192:4.7) (194:0.3-7) (194:4.4-6)
 	Christ became head of church rather than believer’s elder brother (170:5.17-18) (194:4.4-6)
 	Christian church was built around
@@ -1280,7 +1280,7 @@ nonnative residential areas on Jerusem (46:4.2) (46:5)
 	of Universe Aids (46:5.25)
 	surrounded by 35,000 mile exhibit panorama (46:5.23)
 	walls of crystal gems (46:5.11)
-psychic circles. q.v.
+psychic circles.
 
 circuit regulators | | | ORDER | 
 in Uversa personality register (30:2.109)
@@ -1293,7 +1293,7 @@ circuits | (34:4) | | |
 all lead back to God on Paradise (11:1.4)
 angels sustained by direct intake of spirit circuits (26:1.17)
 energy circuits | energy:circuits
-gravity q.v.
+gravity
 Havona | Havona:circuits
 local system (29:2.16) | local systems:life circuits
 local universe | local universes:circuits
@@ -2325,7 +2325,7 @@ companies
 	members of each finaliter company
 		# 1 Havona native, always (31:0.2) (31:1.1)
 		# 1 Gravity Messenger, always (31:0.3) (31:2.1)
-		# ascending mortals q.v.
+		# ascending mortals
 		# ascendant seraphim (31:0.5) (31:4.1) (113:7.5,8)
 		# Material Sons, sometimes (31:0.6) (31:5)
 		# secondary midwayer, sometimes (31:0.7) (31:6)
@@ -2360,13 +2360,13 @@ agelong mobilization on Paradise (31:10.17)
 divinity response of grand universe to future needs of outer space (31:10.10)
 in Uversa personality register (30:2.131)
 includes (30:2.131)
-	# Corps of Mortal Finaliters q.v.
-	# Corps of Paradise Finaliters q.v.
-	# Corps of Trinitized Finaliters q.v.
-	# Corps of Conjoint Trinitized Finaliters q.v.
-	# Corps of Havona Finaliters q.v.
-	# Corps of Transcendental Finaliters q.v.
-	# Corps of Unrevealed Sons of Destiny q.v.
+	# Corps of Mortal Finaliters
+	# Corps of Paradise Finaliters
+	# Corps of Trinitized Finaliters
+	# Corps of Conjoint Trinitized Finaliters
+	# Corps of Havona Finaliters
+	# Corps of Transcendental Finaliters
+	# Corps of Unrevealed Sons of Destiny
 overseen by senior Architect of Master Universe (31:10.1)
 Supreme Council of Destiny comprised of heads of each finaliter corps (31:10.9)
 
@@ -2423,7 +2423,8 @@ great space blanket; chiefly consists of pulverized stone (41:6.2)
 
 cosmic consciousness | | God:consciousness of God | | 
 
-cosmic force | | absoluta | | 
+cosmic force | | absoluta | | OK
+This is one of the common names for absoluta
 
 cosmic mind | (116:1.3) | mind | | 
 defined as
@@ -2798,8 +2799,8 @@ re-embraced creature-trinitized sons
 	become Trinitized Sons of Perfection (22:8.4-5)
 	re-embrace by Trinity acts only on idea personified (22:9.5)
 	types
-		Celestial Guardians q.v.
-		High Son Assistants q.v.
+		Celestial Guardians
+		High Son Assistants
 residence in Jerusem circles (46:5.13)
 residence on Paradise worlds of Spirit (13:4.1)
 Solitary Messengers accompany offspring of finaliters and Paradise Citizens (23:4.3)
