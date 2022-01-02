@@ -31,6 +31,7 @@
     "electron": "^9.0.5",
     "electron-store": "^6.0.0",
     "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
+    "popper.js": "^1.16.1",
+    "pug": "^3.0.2"
   }
 }

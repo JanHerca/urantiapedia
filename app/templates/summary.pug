@@ -1,0 +1,31 @@
+h3 Summary of topics
+table.table.table-striped.table-sm
+	thead.thead-dark
+		tr
+			each c, i in topics[0]
+				if i === 0
+					th(scope="col")= c
+				else
+					th.text-sm-right(scope="col")= c
+	tbody
+		each row in topics.slice(1)
+			tr
+				th(scope="row")= row[0]
+				each d in row.slice(1)
+					th.text-sm-right= d
+
+h3 Summary of lines in topics
+table.table.table-striped.table-sm
+	thead.thead-dark
+		tr
+			each c, i in lines[0]
+				if i === 0
+					th(scope="col")= c
+				else
+					th.text-sm-right(scope="col")= c
+	tbody
+		each row in lines.slice(1)
+			tr
+				th(scope="row")= row[0]
+				each d, i in row.slice(1)
+					th.text-sm-right= d

@@ -3,6 +3,8 @@ const shell = require('electron').shell;
 const Store = require('electron-store');
 const path = require('path');
 const fs = require('fs');
+const pug = require('pug');
+
 const Book = require('./book');
 const Bible = require('./bible');
 const BibleRef = require('./bibleref');
@@ -17,6 +19,9 @@ const replaceWords = require('./utils').replaceWords;
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
 const DialogEditSeeAlsos = require('./dialog_editseealsos');
+
+const createSummaryFn = pug.compileFile(
+	path.join(app.getAppPath(), 'app', 'templates', 'summary.pug'));
 
 const store = new Store();
 
@@ -647,49 +652,7 @@ const showTopic = (name) => {
 };
 
 const showTopicSummary = (obj) => {
-	const columns = ['#', 'PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 'OTHER', 
-		'REDIREC', 'REVISED', 'TOTAL'];
-	const columns2 = columns.slice(1);
-	let headers = columns.map(c => `<th scope="col">${c}</th>`).join('');
-	let header = `<thead class="thead-dark"><tr>${headers}</tr></thead>`;
-	let footerTh = '<th scope="row">TOTAL</th>';
-
-	const buildTableBody = (isLines) => {
-		let b = '';
-		for (let letter in obj) {
-			const o = (isLines ? obj[letter].lines : obj[letter]);
-			const r = columns2.map(c => {
-				const len = (o[c] != undefined ? o[c] : '-');
-				return `<th>${len}</th>`;
-			}).join('');
-			b += `<tr><th scope="row">${letter.toUpperCase()}</th>${r}</tr>`;
-		}
-		return b;
-	};
-	const buildTableFooter = (isLines) => {
-		return footerTh + columns2.map(c => {
-			let len = 0;
-			for (let letter in obj) {
-				const o = (isLines ? obj[letter].lines : obj[letter]);
-				len += (o[c] != undefined ? o[c] : 0);
-			}
-			return `<th>${len}</th>`;
-		}).join('');
-	};
-
-	//Table of topic count
-	const body = buildTableBody(false);
-	const footer = buildTableFooter(false);
-	const html = `<table class="table table-striped">${header}` +
-		`<tbody>${body}<tr>${footer}</tr></tbody></table>`;
-
-	//Table of line count
-	const body2 = buildTableBody(true);
-	const footer2 = buildTableFooter(true);
-	const html2 = `<table class="table table-striped">${header}` +
-		`<tbody>${body2}<tr>${footer2}</tr></tbody></table>`;
-	
-	controls.logArea.innerHTML = html + html2;
+	controls.logArea.innerHTML = createSummaryFn(obj);
 };
 
 const onProgress = (baseName) => {

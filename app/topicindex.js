@@ -341,36 +341,47 @@ class TopicIndex {
 	getSummary = () => {
 		const letters = '_abcdefghijklmnopqrstuvwxyz';
 		let result = {};
+		const columns = ['#', ...topicTypes, 'REDIREC', 'REVISED', 'TOTAL'];
+		result.topics = [columns];
+		result.lines = [columns];
+
 		letters.split('').forEach(letter => {
-			let obj = {};
-			let objLines = {};
-			let totalLines = 0;
+			const rowTopics = [letter.toUpperCase()];
+			const rowLines = [letter.toUpperCase()];
 			const tt = this.topics.filter(t => t.filename === letter + '.txt');
-			obj.TOTAL = tt.length;
 			//Categories
 			topicTypes.forEach(type => {
 				const tf = tt.filter(t => t.type === type);
-				let lines = 0;
-				tf.forEach(t => lines += t.lines.length);
-				obj[type] = tf.length;
-				objLines[type] = lines;
-				totalLines += lines;
+				const lines = tf.reduce((a, t) => a += t.lines.length, 0);
+				rowTopics.push(tf.length);
+				rowLines.push(lines);
 			});
 			//Redirects
-			obj.REDIREC = tt.filter(t => t.lines.length === 0).length;
-			objLines.REDIREC = obj.REDIREC;
-			totalLines += obj.REDIREC;
+			rowTopics.push(tt.filter(t => t.lines.length === 0).length);
+			rowLines.push(0);
 			//Revised
-			let revLines = 0;
 			const tr = tt.filter(t => t.revised);
-			tr.forEach(t => revLines += t.lines.length);
-			objLines.REVISADO = revLines;
-			obj.REVISADO = tr.length;
+			rowTopics.push(tr.length);
+			rowLines.push(tr.reduce((a, t) => a += t.lines.length, 0));
 			//Totals
-			objLines.TOTAL = totalLines;
-			result[letter] = obj;
-			result[letter].lines = objLines;
+			rowTopics.push(tt.length);
+			rowLines.push(tt.reduce((a, t) => a += t.lines.length, 0));
+			result.topics.push(rowTopics);
+			result.lines.push(rowLines);
 		});
+
+		const rowTopicsTotal = columns.map((c, i) => {
+			return (i === 0 ? 'TOTAL' : result.topics
+				.reduce((a, r, j) => a += (j != 0 ? r[i] : 0), 0));
+		});
+		result.topics.push(rowTopicsTotal);
+
+		const rowLinesTotal = columns.map((c, i) => {
+			return (i === 0 ? 'TOTAL' : result.lines
+				.reduce((a, r, j) => a += (j != 0 ? r[i] : 0), 0));
+		});
+		result.lines.push(rowLinesTotal);
+
 		return result;
 	};
 
