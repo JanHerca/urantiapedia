@@ -434,12 +434,12 @@ const Strings = {
 		es: "Nombre"
 	},
 	"lblTILanguage1": {
-		en: "Language 1",
-		es: "Idioma 1"
+		en: "Main Language (to modify)",
+		es: "Idioma Principal (a modificar)"
 	},
 	"lblTILanguage2": {
-		en: "Language 2",
-		es: "Idioma 2"
+		en: "Secondary Language",
+		es: "Idioma Secundario"
 	},
 	"lblTIName": {
 		en: "Name",
@@ -655,7 +655,7 @@ const Strings = {
 	},
 	"topic_in_less_20%": {
 		en: "'{0}' is not in these refs (less than 20%): {1}",
-		en: "'{0}' no está en estas refs (menos del 20%): {1}"
+		es: "'{0}' no está en estas refs (menos del 20%): {1}"
 	},
 	"topic_invalid_see": {
 		en: "'{0}': topic has different seeAlso in english",
@@ -688,6 +688,10 @@ const Strings = {
 	"topic_references": {
 		en: "References",
 		es: "Referencias"
+	},
+	"topicindex_save_confirm": {
+		en: "Save changes to Topic Index?",
+		es: "¿Guardar cambios al Índice de Términos?"
 	},
 	"folder_no_access": {
 		en: "Folder {0} is not accessible",

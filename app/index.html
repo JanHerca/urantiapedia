@@ -6,6 +6,7 @@
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<title>Urantiapedia Tools</title>
 		<link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.css" />
+		<link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css" />
 		<link rel="stylesheet" href="style.css" type="text/css" />
 		<script>window.jQuery = window.$ = require('jquery')</script>
 		<script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
@@ -23,19 +24,19 @@
 				<ul class="nav nav-pills flex-column mb-auto" id="myTab" role="tablist">
 					<li class="nav-item" role="presentation">
 						<a href="#proccesses" class="nav-link active" id="proccesses-tab" data-toggle="pill" role="tab" aria-controls="proccesses" aria-selected="true">
-							<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="currentColor"><path d="M22.61 18.99l-9.08-9.08c.93-2.34.45-5.1-1.44-7C9.79.61 6.21.4 3.66 2.26L7.5 6.11 6.08 7.52 2.25 3.69C.39 6.23.6 9.82 2.9 12.11c1.86 1.86 4.57 2.35 6.89 1.48l9.11 9.11c.39.39 1.02.39 1.41 0l2.3-2.3c.4-.38.4-1.01 0-1.41zm-3 1.6l-9.46-9.46c-.61.45-1.29.72-2 .82-1.36.2-2.79-.21-3.83-1.25C3.37 9.76 2.93 8.5 3 7.26l3.09 3.09 4.24-4.24-3.09-3.09c1.24-.07 2.49.37 3.44 1.31 1.08 1.08 1.49 2.57 1.24 3.96-.12.71-.42 1.37-.88 1.96l9.45 9.45-.88.89z"/></svg>
+							<i class="bi-tools"></i>
 							<span id="lblProccesses">Processes</span>
 						</a>
 					</li>
 					<li class="nav-item" role="presentation">
 						<a href="#topicindex" class="nav-link" id="topicindex-tab" data-toggle="pill" role="tab" aria-controls="topicindex" aria-selected="false">
-							<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="currentColor"><path d="M14.06 9.02l.92.92L5.92 19H5v-.92l9.06-9.06M17.66 3c-.25 0-.51.1-.7.29l-1.83 1.83 3.75 3.75 1.83-1.83c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.2-.2-.45-.29-.71-.29zm-3.6 3.19L3 17.25V21h3.75L17.81 9.94l-3.75-3.75z"/></svg>
+							<i class="bi-pencil"></i>
 							<span id="lblTopicIndex">Edit Topic Index</span>
 						</a>
 					</li>
 					<li class="nav-item" role="presentation">
 						<a href="#settings" class="nav-link" id="settings-tab" data-toggle="pill" role="tab" aria-controls="settings" aria-selected="false">
-							<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="currentColor"><path d="M19.14,12.94c0.04-0.3,0.06-0.61,0.06-0.94c0-0.32-0.02-0.64-0.07-0.94l2.03-1.58c0.18-0.14,0.23-0.41,0.12-0.61 l-1.92-3.32c-0.12-0.22-0.37-0.29-0.59-0.22l-2.39,0.96c-0.5-0.38-1.03-0.7-1.62-0.94L14.4,2.81c-0.04-0.24-0.24-0.41-0.48-0.41 h-3.84c-0.24,0-0.43,0.17-0.47,0.41L9.25,5.35C8.66,5.59,8.12,5.92,7.63,6.29L5.24,5.33c-0.22-0.08-0.47,0-0.59,0.22L2.74,8.87 C2.62,9.08,2.66,9.34,2.86,9.48l2.03,1.58C4.84,11.36,4.8,11.69,4.8,12s0.02,0.64,0.07,0.94l-2.03,1.58 c-0.18,0.14-0.23,0.41-0.12,0.61l1.92,3.32c0.12,0.22,0.37,0.29,0.59,0.22l2.39-0.96c0.5,0.38,1.03,0.7,1.62,0.94l0.36,2.54 c0.05,0.24,0.24,0.41,0.48,0.41h3.84c0.24,0,0.44-0.17,0.47-0.41l0.36-2.54c0.59-0.24,1.13-0.56,1.62-0.94l2.39,0.96 c0.22,0.08,0.47,0,0.59-0.22l1.92-3.32c0.12-0.22,0.07-0.47-0.12-0.61L19.14,12.94z M12,15.6c-1.98,0-3.6-1.62-3.6-3.6 s1.62-3.6,3.6-3.6s3.6,1.62,3.6,3.6S13.98,15.6,12,15.6z"/></svg>
+							<i class="bi-gear-fill"></i>
 							<span id="lblSettings">Settings</span>
 						</a>
 					</li>
@@ -226,19 +227,19 @@
 							<div class="p-0 mb-2 flex-grow-1">
 								<div class="input-group input-group-sm">
 									<div class="input-group-prepend">
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIAddTopic" data-toggle="tooltip" data-placement="bottom" title="Add topic">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
+										<button class="btn btn-secondary" type="button" id="btnTIAddTopic" data-toggle="tooltip" data-placement="bottom" title="Add topic">
+											<i class="bi-plus-circle"></i>
 										</button>
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIRemoveTopic" data-toggle="tooltip" data-placement="bottom" title="Remove topic">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
+										<button class="btn btn-secondary" type="button" id="btnTIRemoveTopic" data-toggle="tooltip" data-placement="bottom" title="Remove topic">
+											<i class="bi-dash-circle"></i>
 										</button>
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIRenameTopic" data-toggle="tooltip" data-placement="bottom" title="Rename topic">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12,20c-4.41,0-8-3.59-8-8s3.59-8,8-8s8,3.59,8,8 S16.41,20,12,20z M16.17,14.76l-1.1-1.1c0.71-1.33,0.53-3.01-0.59-4.13C13.79,8.84,12.9,8.5,12,8.5c-0.03,0-0.06,0.01-0.09,0.01 L13,9.6l-1.06,1.06L9.11,7.83L11.94,5L13,6.06l-0.96,0.96c1.27,0.01,2.53,0.48,3.5,1.44C17.24,10.17,17.45,12.82,16.17,14.76z M14.89,16.17L12.06,19L11,17.94l0.95-0.95c-1.26-0.01-2.52-0.5-3.48-1.46c-1.71-1.71-1.92-4.35-0.64-6.29l1.1,1.1 c-0.71,1.33-0.53,3.01,0.59,4.13c0.7,0.7,1.63,1.04,2.56,1.01L11,14.4l1.06-1.06L14.89,16.17z"/></svg>
+										<button class="btn btn-secondary" type="button" id="btnTIRenameTopic" data-toggle="tooltip" data-placement="bottom" title="Rename topic">
+											<i class="bi-input-cursor-text"></i>
 										</button>
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTISaveChanges" data-toggle="tooltip" data-placement="bottom" title="Save changes">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M17 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V7l-4-4zm-5 16c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm3-10H5V5h10v4z"/></svg>
+										<button class="btn btn-secondary" type="button" id="btnTISaveChanges" data-toggle="tooltip" data-placement="bottom" title="Save changes">
+											<i class="bi-save-fill"></i>
 										</button>
-										<button class="btn btn-secondary py-0 px-1 d-none" type="button" id="btnTISaving" data-toggle="tooltip" data-placement="bottom" title="Save changes">
+										<button class="btn btn-secondary d-none" type="button" id="btnTISaving" data-toggle="tooltip" data-placement="bottom" title="Save changes">
 											<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
 										</button>
 									</div>
@@ -269,8 +270,8 @@
 									</div>
 									<input id="txtTIAliases" type="text" class="form-control" aria-label="Aliases" disabled="disabled">
 									<div class="input-group-prepend">
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIEditAlias" data-toggle="tooltip" data-placement="bottom" title="Edit topic aliases">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"/></svg>
+										<button class="btn btn-secondary" type="button" id="btnTIEditAlias" data-toggle="tooltip" data-placement="bottom" title="Edit topic aliases">
+											<i class="bi-pencil-fill"></i>
 										</button>
 									</div>
 									<div class="input-group-prepend">
@@ -290,8 +291,8 @@
 									</div>
 									<input id="txtTIRefs" type="text" class="form-control" aria-label="References" disabled="disabled">
 									<div class="input-group-prepend">
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIEditRef" data-toggle="tooltip" data-placement="bottom" title="Edit topic references">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"/></svg>
+										<button class="btn btn-secondary" type="button" id="btnTIEditRef" data-toggle="tooltip" data-placement="bottom" title="Edit topic references">
+											<i class="bi-pencil-fill"></i>
 										</button>
 									</div>
 									<div class="input-group-prepend">
@@ -299,8 +300,8 @@
 									</div>
 									<input id="txtTISeeAlsos" type="text" class="form-control" aria-label="See Alsos" disabled="disabled">
 									<div class="input-group-prepend">
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIEditSeeAlso" data-toggle="tooltip" data-placement="bottom" title="Edit topic See Alsos">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"/></svg>
+										<button class="btn btn-secondary" type="button" id="btnTIEditSeeAlso" data-toggle="tooltip" data-placement="bottom" title="Edit topic See Alsos">
+											<i class="bi-pencil-fill"></i>
 										</button>
 									</div>
 									<div class="input-group-prepend">
@@ -308,8 +309,8 @@
 									</div>
 									<input id="txtTILinks" type="text" class="form-control" aria-label="Links" disabled="disabled">
 									<div class="input-group-prepend">
-										<button class="btn btn-secondary py-0 px-1" type="button" id="btnTIEditLink" data-toggle="tooltip" data-placement="bottom" title="Edit topic links">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" fill="currentColor"><path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"/></svg>
+										<button class="btn btn-secondary" type="button" id="btnTIEditLink" data-toggle="tooltip" data-placement="bottom" title="Edit topic links">
+											<i class="bi-pencil-fill"></i>
 										</button>
 									</div>
 									<div class="input-group-prepend">

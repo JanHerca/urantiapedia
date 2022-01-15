@@ -402,3 +402,123 @@ exports.getBookTitle = (paper, language, upper) => {
 	return (tu.startsWith(paperWord.toUpperCase()) ? tt : 
 		`${(upper ? paperWord.toUpperCase() : paperWord)} ${i}. ${tt}`);
 };
+
+/**
+ * Returns a value between [0,1] that gives the similarity of two strings based
+ * on Levenshtein distance. 1 means both strings are identical. If strings are
+ * empty returns 1.
+ * Params should be in english to work correctly.
+ * Based in: https://stackoverflow.com/questions/10473745/compare-strings-javascript-return-of-likely
+ * @param {string} s1 String 1.
+ * @param {string} s2 String 2.
+ * @returns {number}
+ */
+exports.stringSimilarity = (s1, s2) => {
+	let longer = s1;
+	let shorter = s2;
+	if (s1.length < s2.length) {
+		longer = s2;
+		shorter = s1;
+	}
+	const longerLength = longer.length;
+	if (longerLength == 0) {
+		return 1.0;
+	}
+
+	longer = longer.toLowerCase();
+	shorter = shorter.toLowerCase();
+
+	const costs = [];
+	for (let i = 0; i <= longer.length; i++) {
+		let lastValue = i;
+		for (let j = 0; j <= shorter.length; j++) {
+		if (i == 0)
+			costs[j] = j;
+		else {
+			if (j > 0) {
+				let newValue = costs[j - 1];
+				if (longer.charAt(i - 1) != shorter.charAt(j - 1))
+					newValue = Math.min(Math.min(newValue, lastValue), costs[j]) + 1;
+				costs[j - 1] = lastValue;
+				lastValue = newValue;
+			}
+		}
+		}
+		if (i > 0)
+			costs[shorter.length] = lastValue;
+	}
+	const editDistance = costs[shorter.length];
+
+	return (longerLength - editDistance) / parseFloat(longerLength);
+};
+
+/**
+ * Returns a value between [0,1] that gives the similarity of two sentences.
+ * It breaks the sentence in words and compares individual words to obtain
+ * a value. 1 means both sentences have the same words no matter the occurrences. 
+ * If strings are empty returns 1.
+ * Params should be in english to work correctly.
+ * @param {string} s1 Sentence.
+ * @param {string} s2 Sentence to compare.
+ * @returns {number}
+ */
+exports.sentenceSimilarity = (s1, s2) => {
+	if (s1.length === 0 && s2.length === 0) return 1;
+	if (s2.length === 0 || s2.length === 0) return 0;
+
+	//Remove punctuation from strings
+	const ss1 = s1.replace(/[\.,-\/#!$%\^&\*;:{}=\-_`~()@\+\?><\[\]\+]/g, '');
+	const ss2 = s2.replace(/[\.,-\/#!$%\^&\*;:{}=\-_`~()@\+\?><\[\]\+]/g, '');
+	//Break sentences in arrays of lowercase distinct words
+	const ar1 = ss1.split(' ')
+		.map(w => w.toLowerCase())
+		.reduce((a,b) => {
+			if (!a.includes(b)) a.push(b);
+			return a;
+		}, []);
+	const ar2 = ss2.split(' ')
+		.map(w => w.toLowerCase())
+		.reduce((a,b) => {
+			if (!a.includes(b)) a.push(b);
+			return a;
+		}, []);
+	//Obtain words in 2 that are in 1
+	const found = ar2.reduce((a,b) => {
+		if (ar1.includes(b)) {
+			a.push(b);
+		}
+		return a;
+	}, []);
+	return parseFloat(found.length) / parseFloat(ar2.length);
+};
+
+/**
+ * Returns the most similar sentence in a paragraph to the given sentence. Returns
+ * an array with the values: first the most similar sentence in english, second
+ * the most similar sentence in the other language, and third the index of the
+ * most similar in the list of sentences in the paragraph. If no sentence is found 
+ * similar then returns an empty array. `parEN` and `sEN` params should be in 
+ * english to work correctly.
+ * @param {string} parEN Paragraph in english.
+ * @param {string} par Paragraph in other language.
+ * @param {string} sEN Sentence to search (in english).
+ * @returns {Array}
+ */
+exports.getMostSimilarSentence = (parEN, par, sEN) => {
+	//Split english parragraph into sentences
+	const arSenEN = parEN.replace(/([.?!])\s*(?=[A-Z])/g, "$1|").split("|");
+	//TODO: next line could fail for some languages with different sentence endings
+	const arSen = par.replace(/([.?!])\s*(?=[A-Z])/g, "$1|").split("|");
+
+	if (arSenEN.length === 0 || arSen.length === 0) return [];
+
+	//Map to arrays of [sentence, similarity]
+	const arSenSimEN = arSenEN.map(sen => [sen, exports.sentenceSimilarity(sen, sEN)]);
+	//Order arrays by similarity
+	arSenSimEN.sort((a,b) => b[1] - a[1]);
+
+	const mostSim = (arSenSimEN[0][1] > 0.5 ? arSenSimEN[0][0] : null);
+	if (!mostSim) return [];
+	const index = arSenEN.indexOf(mostSim);
+	return [mostSim, arSen[index], index];
+};

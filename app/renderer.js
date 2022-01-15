@@ -1,5 +1,6 @@
 const {dialog, app} = require('electron').remote;
 const shell = require('electron').shell;
+const {clipboard} = require('electron');
 const Store = require('electron-store');
 const path = require('path');
 const fs = require('fs');
@@ -16,12 +17,15 @@ const strformat = require('./utils').strformat;
 const replaceTags = require('./utils').replaceTags;
 const extendArray = require('./utils').extendArray;
 const replaceWords = require('./utils').replaceWords;
+const getMostSimilarSentence = require('./utils').getMostSimilarSentence;
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
 const DialogEditSeeAlsos = require('./dialog_editseealsos');
 
 const createSummaryFn = pug.compileFile(
 	path.join(app.getAppPath(), 'app', 'templates', 'summary.pug'));
+const createBookParsFn = pug.compileFile(
+	path.join(app.getAppPath(), 'app', 'templates', 'bookpars.pug'));
 
 const store = new Store();
 
@@ -105,10 +109,14 @@ let topicEditing = null;
 let filelineEditing = null;
 let changed = false;
 
+//TODO: Convert all the app from imperative paradigm to declarative paradigm
+//https://itnext.io/electron-application-with-vue-js-and-vuetify-f2a1f9c749b8
+
 const onLoad = () => {
 	Object.keys(controls).forEach(id => controls[id] = document.querySelector('#' + id));
 
 	//Fill Book language dropdown
+	//TODO: For languages in drpTILanguageX set them as disabled if no TI exists
 	[controls.drpLanguage, controls.drpTILanguage1, controls.drpTILanguage2]
 		.forEach(c => {
 			c.innerHTML = Object.keys(Strings['bookLanguages']).map(key => {
@@ -677,10 +685,16 @@ const handle_btnTIURLClick = (evt) => {
 };
 
 const handle_drpTILanguage1Change = (evt) => {
+	const lan1 = controls.drpTILanguage1.value;
+	topicindexEdit.setLanguage(lan1);
+	bookEdit.setLanguage(lan1);
 	loadTITopics(true);
 };
 
 const handle_drpTILanguage2Change = (evt) => {
+	const lan2 = controls.drpTILanguage2.value;
+	topicindexEdit2.setLanguage(lan2);
+	bookEdit2.setLanguage(lan2);
 	loadTITopics(true);
 };
 
@@ -700,9 +714,7 @@ const loadTITopics = (forceLoad) => {
 	const root = app.getAppPath();
 	const dirTopics1 = path.join(root, 'input', 'txt', `topic-index-${lan1}`);
 	const dirTopics2 = path.join(root, 'input', 'txt', `topic-index-${lan2}`);
-	// const dirTopics1 = path.join(root, 'tests', `topic-index-${lan1}`);
-	// const dirTopics2 = path.join(root, 'tests', `topic-index-${lan2}`);
-	const dirTopicsEN = path.join(root, 'tests', `topic-index-en`);
+	const dirTopicsEN = path.join(root, 'input', 'txt', 'topic-index-en');
 	const dirBook1 = path.join(root, 'input', 'json', `book-${lan1}-footnotes`);
 	const dirBook2 = path.join(root, 'input', 'json', `book-${lan2}-footnotes`);
 	//TODO: use either with or without footnotes, whichever exists
@@ -798,6 +810,7 @@ const getTITopicSelected = () => {
 };
 
 const showTITopic = () => {
+	//TODO: //https://jsfiddle.net/KyleMit/LczLqsoa/
 	const topic = getTITopicSelected();
 	if (!topic) return;
 
@@ -900,7 +913,12 @@ const showTILinesUB = () => {
 	const topic2 = topicindexEdit2.topics.find(t => {
 		return (t.filename === topic.filename && t.fileline === topic.fileline);
 	});
-	const line = topic.lines.find(ln => ln.fileline === filelineEditing);
+	const is1EN = (bookEdit.language === 'en');
+	const is2EN = (bookEdit2.language === 'en');
+
+	const line1 = topic.lines.find(ln => ln.fileline === filelineEditing);
+	const line2 = topic2.lines.find(ln => ln.fileline === filelineEditing);
+
 	const names1 = [topic.name.split('(')[0].trim(), ...topic.altnames];
 	const spans1 = names1.map(name => `<span class="text-primary">${name}</span>`);
 	const names2 = (topic2 ? 
@@ -908,34 +926,86 @@ const showTILinesUB = () => {
 	const spans2 = names2.map(name => `<span class="text-primary">${name}</span>`);
 	const fnGetPars = (r1, r2) => {
 		const errs = [];
+		let similarSen1 = '';
 		let par1 = bookEdit.toParInHTML(r1, errs);
+		const par1Plain = bookEdit.toParInPlainText(r1, []);
 		par1 = replaceWords(names1, spans1, par1);
+
+		let similarSen2 = '';
 		let par2 = bookEdit2.toParInHTML(r2, errs);
+		const par2Plain = bookEdit2.toParInPlainText(r2, []);
 		par2 = replaceWords(names2, spans2, par2);
+
 		const ref1 = (r1 ? ` [${r1[0]}:${r1[1]}.${r1[2]}]` : '');
 		const ref2 = (r2 ? ` [${r2[0]}:${r2[1]}.${r2[2]}]` : '');
-		const ercls = (r1 == null || r2 == null ? ' alert alert-danger' : '');
-		return `<div class="list-group-item btn-sm list-group-item-action 
-					py-0 px-2 flex-column align-items-start${ercls}">
-					<div class="row">
-						<div class="col-6">${par1}</div>
-						<div class="col-6">${par2}</div>
-					</div>
-					<div class="row">
-						<div class="col-6 text-right">${ref1}</div>
-						<div class="col-6 text-right">${ref2}</div>
-					</div>
-				</div>`;
+
+		//Highlight and show a Copy button in the sentence most similar to current
+		// This is only available when one language is english and the other not
+		// This restriction is due to english is an index created manually and any
+		// other language is created by translations from english
+		const parEN = (is1EN ? par1Plain : is2EN ? par2Plain : null);
+		const parNotEN = (!is1EN ? par1Plain : !is2EN ? par2Plain : null);
+		const lineEN = (is1EN ? line1 : is2EN ? line2 : null);
+		if (parEN && parNotEN && lineEN) {
+			const similar = getMostSimilarSentence(parEN, parNotEN, lineEN.text);
+			if (similar.length > 0) {
+				const similarSenEN = similar[0];
+				const similarSenNotEN = similar[1];
+				const index = similar[2];
+				similarSen1 = (is1EN ? similarSenEN : similarSenNotEN);
+				similarSen2 = (is2EN ? similarSenEN : similarSenNotEN);
+				
+				//TODO: next lines could fail for some languages with different sentence endings
+				const arSen1 = par1.replace(/([.?!])\s*(?=[A-Z])/g, "$1|").split("|");
+				const arSen2 = par2.replace(/([.?!])\s*(?=[A-Z])/g, "$1|").split("|");
+				if (arSen1.length > index && arSen2.length > index) {
+					arSen1[index] = `<strong>${arSen1[index]}</strong>`;
+					arSen2[index] = `<strong>${arSen2[index]}</strong>`;
+				}
+				par1 = arSen1.join(' ');
+				par2 = arSen2.join(' ');
+			}
+		}
+		
+		return createBookParsFn({
+			errclass: (r1 == null || r2 == null ? 
+				['alert', 'alert-danger', 'mb-0', 'py-0'] : []),
+			pars: [par1, par2],
+			refs: [ref1, ref2],
+			similars: [similarSen1, similarSen2]
+		});
 	};
-	const refs1 = bookEdit.getArrayOfRefs(line.refs);
-	const refs2 = bookEdit2.getArrayOfRefs(line.refs);
+	const refs1 = bookEdit.getArrayOfRefs(line1.refs);
+	const refs2 = bookEdit2.getArrayOfRefs(line1.refs);
+
+	//Unhandle
+	$(controls.lbxTIUBLines).find('button').off('click');
+
+	//Fill listbox
 	controls.lbxTIUBLines.innerHTML = refs1.map((r, i) => {
 		return fnGetPars(refs1[i], refs2[i]);
 	}).join('');
+
+	//Handle
+	$(controls.lbxTIUBLines).find('button').on('click', function(evt) {
+		const text = $(evt.currentTarget).attr('data-text');
+		clipboard.writeText(text);
+		evt.stopPropagation();
+	});
 };
 
 const handle_btnTISaveChangesClick = () => {
+	const uilan = settings.language;
 	if (topicindexEdit.topics.length === 0) return;
+
+	const msgOpts = {
+		message: Strings["topicindex_save_confirm"][uilan],
+		type: 'question',
+		buttons: ['Yes', 'No'],
+		title: 'Urantiapedia'
+	};
+	if (dialog.showMessageBoxSync(msgOpts) === 1) return;
+
 	setTISaving(true);
 
 	const lan1 = controls.drpTILanguage1.value;
@@ -1044,6 +1114,7 @@ const setTISaving = (saving) => {
 };
 
 const onTIFail = (errors) => {
+	errors = (Array.isArray(errors) ? errors : [errors]);
 	setTIDisabledStatus(false);
 	//Show errors
 	//Unhandle
@@ -1055,7 +1126,7 @@ const onTIFail = (errors) => {
 						py-0 px-2 flex-column align-items-start">
 						<div class="row">
 							<div class="col-12 alert alert-danger p-x-2 py-1 mb-0 text-wrap">
-								${err.message}
+								${err.message} ${err.stack}
 							</div>
 						</div>
 					</div>`;

@@ -362,6 +362,29 @@ class Book {
 	};
 
 	/**
+	 * Returns the referenced paragraph in plain text without any tag or mark.
+	 * @param {number[]} ref Reference as an array of three numbers.
+	 * @param {string[]} errs Array to store errors.
+	 * @returns {string}
+	 */
+	toParInPlainText = (ref, errs) => {
+		let result = '';
+		if (!ref) {
+			errs.push('Error: Ref is null');
+			return result;
+		}
+		const par = this.getPar(ref[0], ref[1], ref[2]);
+		if (!par) {
+			errs.push(`Error: Ref ${ref[0]}:${ref[1]}.${ref[2]}} not found`);
+			return result;
+		}
+		//Remove the references to footnotes
+		result = par.par_content
+			.replace(/{(\d+)}|\*|\$/g, function(match, number) {return '';});
+		return result;
+	};
+
+	/**
 	 * Converts a text in LaTeX format to HTML format, replacing special chars 
 	 * with same chars but adapted to Wiki formats.
 	 * @param {string} content Content.
@@ -1284,8 +1307,10 @@ class Book {
 			errs.push(`Error: Ref ${ref[0]}:${ref[1]}.${ref[2]}} not found`);
 			return result;
 		}
+		//Remove the references to footnotes
 		result = par.par_content
 			.replace(/{(\d+)}/g, function(match, number) {return '';});
+		//Replace italic and smallcaps tags with HTML
 		result = replaceTags(result, '*', '*', '<i>', '</i>', errs);
 		result = replaceTags(result, '$', '$', 
 			'<span style="font-variant: small-caps;">', '</span>', errs);

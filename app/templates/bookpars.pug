@@ -1,0 +1,21 @@
+-
+	var classes = ['list-group-item', 'btn-sm', 'list-group-item-action',
+	'py-0', 'px-2', 'flex-column', 'align-items-start']
+	
+div(class=classes)
+	div.row
+		div.col-6!= pars[0]
+		div.col-6!= pars[1]
+	div(class=['row'] class=errclass)
+		div.col-6.text-right
+			span= refs[0]
+			if similars[0] != ''
+				button.btn.btn-sm.btn-secondary.py-0.px-1.ml-1(type='button' data-text=similars[0])
+					svg(xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='18' height='18' fill='currentColor')
+						path(d='M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z')
+		div.col-6.text-right
+			span= refs[1]
+			if similars[1] != ''
+				button.btn.btn-sm.btn-secondary.py-0.px-1.ml-1(type='button' data-text=similars[1])
+					svg(xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='18' height='18' fill='currentColor')
+						path(d='M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z')
