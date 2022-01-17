@@ -828,7 +828,7 @@ class Book {
 	};
 
 	/**
-	 * Reads references (footnotes) from a file called`footnotes-book-xx.json` 
+	 * Reads references (footnotes) from a file called `footnotes-book-xx.json` 
 	 * in parent folder of the one passed in param and stores everything in a
 	 * footnotes object.
 	 * @param {string} dirPath Folder path.
@@ -846,7 +846,7 @@ class Book {
 				let parentPath = path.dirname(dirPath);
 				let filePath = path.join(parentPath, `footnotes-${baseName}.json`);
 				if (!fs.existsSync(filePath)) {
-					reject([this.getError('folder_not_exists', filePath)]);
+					reject([this.getError('file_not_exists', filePath)]);
 					return;
 				}
 				this.footnotes.length = 0;
@@ -1040,6 +1040,8 @@ class Book {
 				});
 				locations.forEach((location, i) => {
 					const par_ref = location.split('#')[0];
+					//Sentence index is the index of the sentence in paragraph
+					// starting at 0 for first sentence
 					const sentenceIndex = parseInt(location.split('#')[1]);
 					let par = null;
 					paper.sections.find(section => {
@@ -1054,7 +1056,7 @@ class Book {
 						return;
 					}
 					const ii = getAllIndexes(par.par_content, '.');
-					if (sentenceIndex != -1 && ii.length >= sentenceIndex) {
+					if (sentenceIndex != -1 && sentenceIndex < ii.length) {
 						const pos = ii[sentenceIndex];
 						par.par_content = par.par_content.substring(0, pos) +
 							`{${i}}` + par.par_content.substring(pos);

@@ -939,7 +939,7 @@ Período con Jesús
 	en las palabras de despedida de Jesús para ellos les eximió de seguir siendo apóstoles si lo deseaban (174:0.2) (181:2.19) (192:2.13)
 Tras la muerte de Jesús
 	creyeron firmemente en la resurrección de Jesús cuando la anunciaron las mujeres, entre las que estaba su propia madre (191:0.11)
-	ambos estuvieron en las apariciones de Jesús (191:2.5) (192:1-4) (193:0.3,5)
+	ambos estuvieron en las apariciones de Jesús (191:2.1) (192:1-4) (193:0.3,5)
 	Jesús, en sus últimas instrucciones, les dijo que trabajaran como si lo hicieran para Dios (192:2.13)
 	regresaron a sus hogares y a sus redes poco después de Pentecostés (192:4.7) (193:6.4)
 > https://es.wikipedia.org/wiki/Santiago_el_Menor
@@ -995,7 +995,7 @@ fue trasladado a Jerusem siete años después de la llegada de Adán y Eva (67:6
 
 amadonitas | | | RACE | OK
 los amadonitas procedían del grupo de 144 andonitas leales al que pertenecía Amadón, y a los cuales había dado su nombre. Este grupo constaba de treinta y nueve hombres y ciento cinco mujeres. (67:6.3) (67:8.4)
-De todos ellos, cincuenta y seis tenían el estado de inmortalidad, y todos fueron trasladados (a excepción de Amadón) en compañía de los miembros leales del estado mayor. El resto de este noble grupo continuó en la Tierra hasta el final de sus días como mortales bajo la dirección de Van y Amadón. (67:6.3)
+De todos ellos, cincuenta y seis tenían el estado de inmortalidad, y todos fueron trasladados, a excepción de Amadón, en compañía de los miembros leales del estado mayor. El resto de este noble grupo continuó en la Tierra hasta el final de sus días como mortales bajo la dirección de Van y Amadón. (67:6.3)
 eran los descendientes de andonitas que permanecieron leales a Van y Amadón; se trata más de un término cultural que racial. Los amadonitas eran esencialmente andonitas (73:1)
 se unieron a los noditas para convertirse en los vanitas (77:4.10)
 los noditas y los amadonitas tuvieron una enemistad tradicional entre sí y les resultó extremadamente difícil trabajar juntos (73:1.4)
@@ -1208,7 +1208,7 @@ jueces supremos
 	son las personificaciones del juicio y la justicia de la Trinidad, en el tiempo y el espacio (19:3.5) (116:4.6)
 	los Ancianos de los Días se niegan a aniquilar a un ser hasta que todos los valores morales y todas las realidades espirituales no se hayan extinguido tanto en el malhechor como en todos sus partidarios relacionados y en sus posibles simpatizantes. (54:3.3)
 	raras veces ejecutan a los malhechores sin haber escuchado plenamente su caso. (54:5.7)
-	los Custodios Trinitizados (serafines e intermedios abrazados por la Trinidad) son los oficiales de las audiencias de las tres divisiones, ejerciendo su actividad en los tribunales de los Ancianos de los Días (18:4.5)
+	los Custodios Trinitizados, serafines e intermedios abrazados por la Trinidad, son los oficiales de las audiencias de las tres divisiones, ejerciendo su actividad en los tribunales de los Ancianos de los Días (18:4.5)
 	Los fallos y las decisiones de las autoridades superuniversales no se pueden apelar, puesto que representan las opiniones coincidentes de los Ancianos de los Días y del Espíritu Maestro que preside desde el Paraíso los destinos del superuniverso interesado. (15:12.4)
 en la Biblia
 	Anciano de los Días es una denominación semita de la Deidad (96:1.9)
@@ -1282,7 +1282,7 @@ Anditas destacados
 	* Amosad | Amosad
 	* Gengis Kan | Gengis Kan
 	* Imhotep | Imhotep
-	* Thor (venerado luego como un dios) | Thor (dios)
+	* Thor, venerado luego como un dios | Thor (dios)
 
 Andón y Fonta; Andón | (63) (62.5) (136:4.5) | | PERSON | OK
 Andón y Fonta son los auténticos padres de toda la humanidad (61:6.2) (63:1.1)
@@ -1372,7 +1372,7 @@ practicas
 		algunos se aparearon con simios (63:1.4)
 		los grupos más inteligentes nunca albergaron la idea de dirigirse hacia el sur para vivir entre sus primos arborícolas peludos con un intelecto inferior. (64:1.1-2)
 		Los grupos que fueron hacia el oeste se contaminaron menos con las cepas atrasadas de origen ancestral común que los que se dirigieron hacia el este, los cuales se mezclaron muy ampliamente con sus primos animales retrasados. (64:1.7) (85:3.1)
-		se mezclaron con razas azules (81:4.2-9)
+		se mezclaron con las razas azules (81:4.2-9)
 Religión
 	Onagar fue el maestro de la verdad para los andonitas (63:6)
 	enseñaron la regla de oro (70:1.2)
@@ -1436,34 +1436,40 @@ Andrómeda es una nebulosa formadora de soles que está fuera del superuniverso 
 en Andrómeda colapsó una nova gigante en 40 minutos (41:8.3)
 > https://en.wikipedia.org/wiki/Andromeda_Galaxy
 
-Andronover (nebulosa) | (57:1-4) | | PLACE | 
-1.013.628 soles de Orvonton se originaron en (57:2.2) (57:4.3,8)
-el sol de la tierra se originó en (15:3.6) (57:1.1)
-tiene una familia remanente de 165 mundos (57:4.9)
-iniciado hace 875 mil millones de años (57:1.6)
-Miguel eligió como sitio para Nebadon (57:3.8-9)
-Monmatia gira en torno a (15:3.9)
-Nebadon parcialmente ensamblado de (41:0.3)
-nebulosa número 876.926 (57:1.6)
-gira alrededor de la nube de estrellas de Nebadon (15:3.10)
+Andronover (nebulosa) | (57:1-4) | | PLACE | OK
+Andronover es la nebulosa que dio origen a nuestro sol. Sólo es mencionado en El Libro de Urantia; la ciencia actual no ha logrado descubrir la procedencia de nuestro sol. (15:3.6) (57:1.1)
+El número total de soles y de sistemas solares que tuvieron su origen en la nebulosa de Andronover fue de 1.013.628. (57:2.2) (57:4.3,8)
+El último resto nuclear de esta magnífica nebulosa arde todavía con un resplandor rojizo, y continúa emitiendo una luz y un calor moderados a su familia planetaria residual de ciento sesenta y cinco mundos, que giran ahora en torno a esta venerable madre de dos poderosas generaciones de monarcas de luz. (57:4.9)
+Hace 875.000.000.000 de años, la enorme nebulosa de Andronover, número 876.926, fue debidamente iniciada. (57:1.6)
+Apenas un millón de años después de esta época, Miguel de Nebadon, un Hijo Creador Paradisiaco, escogió esta nebulosa en desintegración como escenario para su aventura de construir un universo. (57:3.8-9)
+Monmatia, nuestro sistema solar, gira en torno al núcleo de esta antigua nebulosa (15:3.9)
+Nebadon, nuestro universo local, se formó físicamente con la progenie estelar y planetaria de Andronover y de otras nebulosas (41:0.3)
+esta nebulosa está registrada en el universo con el número 876.926 (57:1.6)
+la familia estelar de Andronover y sus grupos asociados giran alrededor del centro de rotación y de gravedad combinados de la nube de estrellas de Nebadon (15:3.10)
+> https://www.nationalgeographic.com/science/article/120117-sun-solar-system-born-stars-m67-space-science
+> https://arxiv.org/pdf/1004.4284.pdf
 
 Ang | | cien de Caligastia | PERSON | OK
+Ang fue uno de los miembros corpóreos del estado mayor del Príncipe Planetario, que presidía el consejo de la alimentación y el bienestar material, y que enseñó irrigación, peletería y tejeduría a los hombres primitivos (66:5.2)
 Ang y tres miembros de su consejo permanecieron leales y no se unieron a la rebelión (67:4.1)
-fue uno de los miembros corpóreos del estado mayor del Príncipe Planetario, que presidía el consejo de la alimentación y el bienestar material, y que enseñó irrigación, peletería y tejeduría a los hombres primitivos (66:5.2)
 
 Angamón | | | PERSON | OK
-Angamón presentó a Jesús a un hombre rico de Roma que fue muy influido por sus enseñanzas (132:5.1)
 Angamón era el líder de la iglesia de los estoicos en Roma. Jesús tuvo una charla con él de la que se nos ofrece un resumen en El Libro de Urantia. Fue un gran amigo de Pablo de Tarso y un seguidor ferviente de la iglesia cristiana en Roma (132:1)
+Angamón presentó a Jesús a un hombre rico de Roma que fue muy influido por sus enseñanzas (132:5.1)
 
-mundo de los ángeles | | Jerusem:mundos culturales de transición | PLACE | OK
+mundo de los ángeles; tercera esfera de transición | | Jerusem:mundos culturales de transición | PLACE | OK
 este mundo es el tercer mundo cultural de transición de Jerusem, la capital de Satania (45:1.5)
 al llegar a la tercera mansonia, el tercer satélite del mundo de transición número uno, se concede permiso para sivitar el mundo de los ángeles (47:5.2)
 
-ángeles | (26:1) | Espíritu Infinito:familia de | ORDER | 
+ángeles | (26:1) | Espíritu Infinito:familia de | ORDER | OK
 todos los grupos de ángeles tienen su propio cuerpo de transporte (39:2.8)
-término ángel restringido a Serafines que sirven a mortales (38:3.1)
-El supernafín principal es el ángel modelo original (27:2.1)
-pueden convertirse en Compañeros Paradisiacos, Registradores Celestiales, Asesores Técnicos, hijos ascendentes de Dios (26:1.10)
+en El Libro de Urantia el término ángel está restringido a los Serafines que sirven a los mortales (38:3.1)
+El jefe de los supernafines es el ángel modelo original (27:2.1)
+Los ángeles de ciertas órdenes pueden convertirse en Compañeros Paradisiacos durante un período de tiempo; algunos se vuelven Registradores Celestiales; otros se elevan hasta las filas de los Asesores Técnicos. (26:1.10)
+Los mortales de Urantia deben obtener la energía de la luz por medio de la encarnación vegetativa, pero las huestes angélicas están metidas en circuitos; tienen «un alimento que vosotros no conocéis». También absorben las enseñanzas circulantes de los maravillosos Hijos Instructores Trinitarios; reciben el conocimiento y absorben la sabiduría de una manera que se parece mucho a la técnica que emplean para asimilar las energías vitales. (26:1.17)
+están registrados como personalidades del Espíritu Infinito (30:2.82)
+Estas brillantes criaturas de luz se sustentan directamente absorbiendo la energía espiritual de los circuitos primarios del universo. (26:1.17)
+Junto con las Huestes de Mensajeros del Espacio, los espíritus ministrantes disfrutan de períodos de descanso y de cambio; tienen una amplia capacidad para apreciar el ministerio de los directores de la reversión; poseen una naturaleza muy sociable y tienen una capacidad para asociarse que trasciende de lejos la de los seres humanos. (26:1.1)
 órdenes (26:1.2) (30:2.82-89)
 	# Los Supernafines
 	# Los Seconafines
@@ -1472,105 +1478,109 @@ pueden convertirse en Compañeros Paradisiacos, Registradores Celestiales, Aseso
 	# Los Serafines
 	# Los Querubines y Sanobines
 	# Los intermedios
-participar de las enseñanzas circulantes de los Hijos Instructores (26:1.17)
-personalidades del Espíritu Infinito (30:2.82)
-sostenido por la ingesta directa de energía espiritual (26:1.17)
-muy social; disfrutar de los Directores de la reversión, descansar y cambiar (26:1.1)
 
-enfado | | miedo; odio; venganza | | 
-conquistar con misericordia (131:4.6) (141:3.8)
-condena de los tribunales (140:6.4)
-sentimiento mezquino y despreciable (4:3.2)
-veneno mental; interfiere con el progreso espiritual (110:1.5)
-la ira puede inducir un estado místico (100:5.10)
-representa el fracaso de la naturaleza espiritual para obtener el control (149:4.2)
-la respuesta suave apaga la ira (128:6.7) (131:3.6) (139:4.13) (149:4.2) (150:9.3) (181:2.15)
-El Espíritu de la Verdad otorga poder para vencer (194:3.12)
-piedra arrojada al nido de avispas (48:7.20)
-debilita el carácter, destruye la felicidad (140:5.6)
-ira de Dios
-	enseñanza errónea (20:6.7)
-	Dios incapaz de ira (4:3.2)
-	Jesús se negó a aceptar la enseñanza (125:0.6-7)
-	Charla de Jesús con Jacob de Creta sobre (142:2)
+enfado; cólera; ira; irritado; furia; furor | | miedo; odio; venganza | | OK
+la cólera se debe conquistar con misericordia (131:4.6) (141:3.8)
+todo aquel que está irritado contra su hermano está en peligro de ser condenado (140:6.4)
+la ira es un sentimiento mezquino y despreciable (4:3.2)
+Todos los venenos físicos retrasan considerablemente los esfuerzos del Ajustador por elevar la mente material, mientras que los venenos mentales del miedo, la cólera, la envidia, los celos, la desconfianza y la intolerancia obstaculizan también enormemente el progreso espiritual del alma evolutiva. (110:1.5)
+la furia puede inducir un estado místico, pero no debe confundirse las experiencias místicas con la comunión directa con el Ajustador (100:5.10)
+La ira es una manifestación material que representa, de una manera general, la medida en que la naturaleza espiritual no ha logrado dominar las naturalezas intelectual y física combinadas. (149:4.2)
+los disícpulos de Jesús aprendieron que una respuesta dulce desvía el furor (128:6.7) (131:3.6) (139:4.13) (149:4.2) (150:9.3) (181:2.15)
+El Espíritu de la Verdad dotó al hombre mortal de poder para desafiar los males del odio y de la ira mediante los actos intrépidos del amor y la indulgencia (194:3.12)
+la ira es como una piedra que se arroja en un nido de avispas (48:7.20)
+El miedo y la ira debilitan el carácter y destruyen la felicidad. Este sermón importante se inició con una nota de felicidad. (140:5.6)
+la ira de Dios
+	la enseñanza errónea sobre la vida de Jesús dice que él muere para satisfacer las exigencias de una «cólera divina» pero la verdad es que los Hijos donadores hacen esto para «beber la copa» de todo lo que significa tener una experiencia personal semejante a la de sus criaturas (20:6.7)
+	El Dios eterno es incapaz de cólera y de ira (4:3.2)
+	Jesús se negó a aceptar la enseñanza de la ira de Dios o la cólera del Todopoderoso (125:0.6-7)
+	Jesús tuvo una charla con Jacob de Creta sobre la idea de la ira de Dios (142:2)
 
-angiospermas | (61:2.2) (60:3.7,19) | | | 
+angiospermas | (61:2.2) (60:3.7,19) | | | OK
 
-anglosajones | | | RACE | 
-descendientes de las razas andita y azul (80:4.5)
+anglosajones | | | RACE | OK
+los anglosajones son un pueblo descendiente de las razas andita y azul (80:4.5)
 
-Angona (sistema) | | | PLACE | 
-Aproximación hace 4.500 millones de años que nuestro sistema solar abandonó el sol (41:10.1) (57:5.4-14)
-gran nebulosa cuyo acercamiento distorsionó a Andronover (15:3.6)
+Angona (sistema) | | | PLACE | OK
+Angona es el nombre de un masivo sistema solar compuesto por un gigante oscuro del espacio, quizá un agujero negro, que hace 4.500 millones de años se aproximó a nuestro sistema solar y dio origen a doce planetas y a una nube de meteoros al arrancar material del sol (41:10.1) (57:5.4-14)
+es posible que Angona formara parte de una gran nebulosa vecina de Andronover cuyo acercamiento distorsionó a Andronover pues se nos dice que esta distorsión ocurrió al tiempo del nacimiento de nuestro sistema solar (15:3.6)
 
-animales | | insectos; mamíferos; vida marina | | 
-capacidad de adaptación derivada de Espíritus Ayudantes de la Mente (65:6.7-8)
-los Espíritus Ayudantes de la Mente número 1 a número 5 funcionan en (36:5.13) (42:10.4) (65:6.7)
-todos son belicosos (70:1.7)
-todos excepto los más primitivos que dependen de las plantas (58:2.9)
-Los andonitas subsistieron en gran medida (63:6.3)
-Los andonitas se calentaron con pieles de (63:2.5) (63:4.1)
-Los andonitas adoraban (63:6.3)
-apariencia de multicelular (59:1.4)
-amigable, cariñoso, no carnívoro, inteligente, no habla en esferas arquitectónicas (43:6.4-5)
+animales | | insectos; mamíferos; vida marina | | OK
 diferencias con respecto al hombre
-	no puede conocer a Dios, desarrollar el lenguaje (130:2.8)
-	comunicarse de manera limitada, pero con poca o ninguna personalidad (109:4.2) (160:2.1)
-	no hagas fuego (69:6.2)
-	no comunican conceptos (109:4.1-2)
+	los animales no pueden conocer a Dios ni desarrollar el lenguaje (130:2.8)
+	Los animales se comunican entre sí de manera rudimentaria, pero hay poca o ninguna personalidad en estos contactos primitivos. (109:4.2) (160:2.1)
+	el don de la mente, incluso a los seres impersonales como los animales, los capacita para pensar y los dota de conciencia a pesar de la ausencia total de personalidad. (9:6.3)
+	no saben hacer fuego y este descubrimiento humano es el salto fundamental que separó al hombre del animal (69:6.2)
+	Los animales tienen sentimientos de compañerismo, pero no se comunican conceptos entre sí; pueden expresar emociones, pero no ideas ni ideales. (109:4.1-2)
 	no experimentan la conciencia del tiempo o la autoconciencia (118:3.1) (130:4.9) (130:7.5) (133:7.6,8)
 	no sobreviven a la muerte (36:6.5) (130:2.8)
-	no visualiza la supervivencia después de la muerte (68:3.2)
-	tener conocimiento, pero no sabiduría (101:6.4)
-	los esfuerzos instintivos no son esfuerzos de diseño (69:2.5)
-	conoce solo el pasado; vivir en el presente (12:5.10)
-	no investigue los propósitos de la vida (160:1.5)
-	manera en que el hombre trasciende (69:0.1)
-	respuestas selectivas limitadas al nivel motor (16:7.2-4)
+	no se imaginan la supervivencia después de la muerte (68:3.2)
+	Los animales tienen conocimientos, pero sólo el hombre posee capacidad para la sabiduría. (101:6.4)
+	El trabajo, los esfuerzos creativos, distinguen al hombre de la bestia, cuyos esfuerzos son ampliamente instintivos. (69:2.5)
+	Los animales no espirituales sólo conocen el pasado y viven en el presente. (12:5.10)
+	Los animales no se preguntan por el propósito de la vida; por eso nunca se preocupan ni tampoco se suicidan. (160:1.5)
+	En el plano emocional, el hombre trasciende a sus antepasados animales por su capacidad para apreciar el humor, el arte y la religión. (69:0.1)
+	La respuesta selectiva de un animal está limitada a su nivel motor de comportamiento. (16:7.2-4)
+	Los que no pueden conocer a Dios son contados entre los animales de un mundo determinado. (133:0.3)
+evolución de los animales
+	los animales multicelulares fueron una aparición repentina en el proceso de la evolución (59:1.4)
+	Cuando los mares alcanzaron su máximo nivel, un nuevo desarrollo evolutivo se produjo repentinamente. Los primeros animales terrestres aparecieron bruscamente. (59:5.5)
+	todos los animales excepto los más primitivos dependen de las plantas
+	la capacidad de adaptación al aire, agua y tierra de los animales está derivada de Espíritus Ayudantes de la Mente, no es algo meramente físico (65:6.7-8)
+	los Espíritus Ayudantes de la Mente número 1 a número 5 funcionan en los animales (36:5.13) (42:10.4) (65:6.7)
+	la evolución requiere la aparición de muchas formas aparentemente inútiles de vida animal y vegetal destinadas a desaparecer (36:2.17)
+	El Ordovícico fue la edad de los animales invertebrados (59:2)
+	miles de especies marinas perecieron en el Pérmico (59:6.2)
+	la vida de los animales mamíferos cambió poco por el gran glaciar; sobrevivieron en la estrecha franja de tierra situada entre el hielo y los Alpes (64:4.7)
+	vertebrados
+		los crustáceos eran los antepasados de los primeros vertebrados (59:4.10)
+		los peces fueron los primeros vertebrados (59:4.3,9)
+		las ranas eran antepasados de los vertebrados terrestres (60:0.2)
+Uso de animales por los Andonitas
+	Los andonitas subsistieron en gran medida gracias a los animales (63:6.3)
+	Los andonitas se calentaron con pieles de animales (63:2.5) (63:4.1)
+	Ese uso intenso de los animales hizo que los andonitas llegaran a adorarlos (63:6.3)
 domesticación de animales
-	accidental (69:7.2)
-	dio herramientas vivas al hombre primitivo (81:2.10)
-	uno de los primeros grandes avances (81:2.3,10-12)
-	civilización pastoral hecha posible por (68:5.6)
-	El personal del Príncipe enseñó (52:2.8) (66:5.4-8)
-	fomento de la cría selectiva (69:7.3)
-hombre primitivo emparejado con (64:1.7) (85:3.1)
-la evolución requirió la aparición de muchas formas aparentemente inútiles destinadas a desaparecer (36:2.17)
-indispensable para la evolución intelectual y física del hombre (36:2.17) (36:5.13)
-Jesús le preguntó a José por qué el Padre requería la matanza de (124:6.14)
-La casa de Jesús tenía 3 vacas, 4 ovejas, gallinas, un burro, palomas y un perro (126:5.11)
-vida de los animales ha cambiado poco por el gran glaciar (64:4.7)
-la mente dota de conciencia sin personalidad (9:6.3)
-los mortales que no podían conocer a Dios se contaban entre animales (133:0.3)
-una vez fetiches, se convirtió en tabú como alimento (88:1.5)
-Ordovícico era la edad de los invertebrados (59:2)
-Las tribus primitivas creían que eran descendientes de (74:8.5)
-los primitivos diagnosticaron la enfermedad examinando las entrañas de (90:4.3)
-El personal del Príncipe enseñó protección contra depredadores (66:5.4-8)
-radicalmente diferente en los mundos que no respiran (49:3.5)
-sacrificatorio | sacrificio:sacrificio de animales
-los espornagia utilizan animales en cultivo de suelo (46:7.2)
-aparición repentina de tierra (59:5.5)
-miles de especies marinas perecieron en el Pérmico (59:6.2)
-tipos nombrados | caimanes; amonitas; anfibios; osos hormigueros; antílopes; simios; armadillos; artrópodos; babuinos; percebes; murciélagos; osos; castores; aves; bisonte; braquiópodos; toros; mariposas; buitres; camellos; palomas mensajeras; orugas; gatos; vacas; ciempiés; chimpancés; almejas; cucarachas; mapaches; coral; coyotes; cangrejos; grillos; crinoideos; cocodrilos; crustáceos; sepias; mamíferos precursores; ciervo; dinosaurios; perros; delfines; burros; palomas; libélulas; perforadores (gasterópodos); patos; águilas; lombrices de tierra; equinodermos; elefantes; halcones; pez; flamencos; foraminíferos; zorros; ranas; gasterópodos; gibones; jirafas; mosquitos; cabras; topos; gorilas; gaviotas; garzas; hipopótamos; caballos; hienas; medusas; canguros; corderos; sanguijuelas; lémures; leones; lagartos; llamas; langostas; langostas; mamíferos; mamuts; vida marina; martas; mastodontes; ratones; mamíferos intermedios; moluscos; monos; bueyes almizcleros; pulpos; zarigüeyas; avestruces; búhos; bueyes; ostras; panteras; loros; aves pasajeras; nautilo; pecaríes; bígaros; palomas; marsopas; aves de corral; Primates; protozoos; pterosaurios; codorniz; conejos; mapaches; cuervos; reno; reptiles; rinocerontes; roedores; rumiantes; tigres de dientes de sable; salamandras; vieiras; escorpiones; pepinos de mar; leones marinos; serpientes marinas; chorros de mar; erizos de mar; gusanos de mar; focas; tiburones; ovejas; camarones; simios; perezosos; caracoles; serpientes; gorriones; arañas; esponjas; calamares; ardillas; estrella de mar; esturión; cerdos; renacuajos; tapires; tigres; trilobites; tortugas; víboras; cerdos de agua; serpientes de agua; comadrejas; ballenas; lobos; yaks
-utilización de animales (69:7)
-vertebrados
-	los crustáceos eran antepasados de los primeros vertebrados (59:4.10)
-	los peces fueron los primeros vertebrados (59:4.3,9)
-	las ranas eran antepasados de los vertebrados terrestres (60:0.2)
-adoración de animales (64:4.12) (85:3)
+	La domesticación de los animales se produjo por casualidad. (69:7.2)
+	La domesticación de los animales puso en manos del hombre primitivo unas herramientas vivientes cuya utilización inteligente preparó el camino para la agricultura y el transporte. (81:2.10)
+	uno de los cuatro grandes progresos de la civilización humana fue la domesticación de animales (81:2.3,10-12)
+	la civilización del pastoreo fue hecha posible por la domesticación de los animales (68:5.6)
+	El personal del Príncipe enseñó la domesticación de animales a los hombres primitivos. El director de esta tarea fue Bon (52:2.8) (66:5.4-8)
+	La domesticación de los animales se desarrolló mediante la cría selectiva, un arte que ha hecho grandes progresos desde los tiempos de Dalamatia. (69:7.3)
+	El personal del Príncipe enseñó protección contra los depredadores. El director de esta tarea fue Dan (66:5.4-8)
+Animales en los cielos
+	En los mundos arquitectónicos disfrutan de diez formas de vida de tipo material. En Urantia existe la vida vegetal y animal, pero en un mundo como Edentia, las clases materiales de vida existen en diez divisiones, tres de tipo vegetal y tres animal pero hay cuatro que no son ni una ni otra, y toda la vida animal es amigable, afectuosa, no es carnívora, es inteligente, y no hablan (43:6.4-5)
+	En Jerusem los espornagia utilizan animales y numerosos dispositivos mecánicos en el cultivo del suelo (46:7.2)
+Animales en otros planetas
+	En los mundos donde no se respira, las especies animales son radicalmente distintas a las que se encuentran en los planetas atmosféricos. (49:3.5)
+Relación con el hombre
+	hombre primitivo emparejó sexualmente con sus antepasados atrasados, de tipo animal, provocando un deterioro de la raza (64:1.7) (85:3.1)
+	todos los animales son belicosos, y el hombre, que desciende de animales, ha heredado de ahí la guerra (70:1.7)
+	los animales son hasta cierto punto indispensables para la evolución intelectual del hombre así como para su evolución física. (36:2.17) (36:5.13)
+	los animales se han usado como alimento, como compañía, como guardianes, para la caza, el transporte (69:7)
+	Cuando los animales se volvieron fetiches, surgieron los tabúes sobre la consumición de la carne de dichos animales (88:1.5)
+	Aunque las diversas razas de la Tierra se confundieron lamentablemente en sus teorías sobre la evolución, sin embargo muchas tribus primitivas creían y enseñaban que eran los descendientes de diversos animales. (74:8.5)
+	los hombres primitivos diagnosticaron enfermedades examinando las entrañas de un animal (90:4.3)
+	la adoración de animales fue muy extendida, y también la de criaturas mitad humanas y mitad animales, como los centauros y las sirenas, o animales ficticios, como el dragón en China; la adoración de los insectos y de otros animales fue fomentada por una falsa interpretación posterior de la regla de oro —hacer a todas las formas de vida lo que queréis que os hagan a vosotros. (64:4.12) (85:3)
+Relación con Jesús
+	los animales siempre se han usado para rituales sacrificatorios | sacrificio:sacrificio de animales
+	Jesús le preguntó a José su padre por qué el Padre celestial requería la carnicería de tantos animales inocentes e indefensos en los rituales de sacrificios. (124:6.14)
+	En la casa de Jesús tuvieron tres vacas, cuatro ovejas, gallinas, un burro, palomas y un perro (126:5.11)
+Animales mencionados
+	hay un buen número de especies animales mencionados en El Libro de Urantia. Véase las referencias abajo | caimanes; amonitas; anfibios; osos hormigueros; antílopes; simios; armadillos; artrópodos; babuinos; percebes; murciélagos; osos; castores; aves; bisonte; braquiópodos; toros; mariposas; buitres; camellos; palomas mensajeras; orugas; gatos; vacas; ciempiés; chimpancés; almejas; cucarachas; mapaches; coral; coyotes; cangrejos; grillos; crinoideos; cocodrilos; crustáceos; sepias; mamíferos precursores; ciervo; dinosaurios; perros; delfines; burros; palomas; libélulas; perforadores (gasterópodos); patos; águilas; lombrices de tierra; equinodermos; elefantes; halcones; pez; flamencos; foraminíferos; zorros; ranas; gasterópodos; gibones; jirafas; mosquitos; cabras; topos; gorilas; gaviotas; garzas; hipopótamos; caballos; hienas; medusas; canguros; corderos; sanguijuelas; lémures; leones; lagartos; llamas; langostas; langostas; mamíferos; mamuts; vida marina; martas; mastodontes; ratones; mamíferos intermedios; moluscos; monos; bueyes almizcleros; pulpos; zarigüeyas; avestruces; búhos; bueyes; ostras; panteras; loros; aves pasajeras; nautilo; pecaríes; bígaros; palomas; marsopas; aves de corral; Primates; protozoos; pterosaurios; conejos; mapaches; cuervos; reno; reptiles; rinocerontes; roedores; rumiantes; tigres de dientes de sable; salamandras; vieiras; escorpiones; pepinos de mar; leones marinos; serpientes marinas; chorros de mar; erizos de mar; gusanos de mar; focas; tiburones; ovejas; camarones; simios; perezosos; caracoles; serpientes; gorriones; arañas; esponjas; calamares; ardillas; estrella de mar; esturión; cerdos; renacuajos; tapires; tigres; trilobites; tortugas; víboras; cerdos de agua; serpientes de agua; comadrejas; ballenas; lobos; yaks
 
-animismo | | | | 
-en el tiempo de Jesús, cada roca y árbol que se creía poseído (121:7.12)
-oración poco asociada con (91:1.5)
-El salvaje veía a toda la naturaleza como poseída (86:2.6-7)
-los esclavos trajeron el animismo a Grecia (98:1.1)
+animismo | | | | OK
+en el tiempo de Jesús, cada roca y árbol que se creía que estaba poseído por los espíritus (121:7.12)
+La oración está poco relacionada con el animismo, pero estas creencias pueden existir al lado de los sentimientos religiosos emergentes. (91:1.5)
+El salvaje consideraba que toda la naturaleza estaba viva, poseída por algo. (86:2.6-7)
+los esclavos trajeron un animismo burdo a Grecia, con ritos sangrientos donde los criminales eran ejecutados en una ceremonia (98:1.1)
+> https://es.wikipedia.org/wiki/Animismo
 
-anís | | | | 
-pagar el diezmo del anís mientras se descuida asuntos más importantes (175:1.17)
+anís | | | | OK
+Jesús puso el ejemplo de cómo se descuidan las cosas espirituales importantes al mencionar cómo los fariseos se preocupaban en exceso de pagar el diezmo del anís (175:1.17)
 
 Ana (poetisa); Ana | | | PERSON | OK
-Ana fue la poetisa que declamó un poema en la presentación en el templo de Jesús (122:9.2-27)
+Ana fue la poetisa que declamó un poema en la presentación en el templo de Jesús (122:9.2-4)
 
 Annán | | | PERSON | OK
 Annán fue la portavoz de la raza nodita que formó parte del comité de recepción de Adán y Eva (74:2.5)
@@ -1597,96 +1607,112 @@ interrogatorio y juicio a Jesús
 Annon | | | PERSON | OK
 María, la madre de Jesús, era descendiente de Annon, una mujer desconocida cuyo nombre no aparece en la Biblia (122:1.2)
 
-Anova | | | PLACE | 
-el mundo habitado más antiguo de Satania (49:0.5)
+Anova | | | PLACE | OK
+El mundo habitado más antiguo de Satania, el mundo número uno, es Anova, uno de los cuarenta y cuatro satélites que giran alrededor de un enorme planeta oscuro, pero que está expuesto a la luz diferencial de tres soles vecinos. Anova se encuentra en un estado avanzado de civilización progresiva. (49:0.5)
 
 Ansie | | | PERSON | OK
 María, la madre de Jesús, era descendiente de Ansie, una mujer desconocida cuyo nombre no aparece en la Biblia (122:1.2)
 
-Antártida | (61:2.3) (61:5.3) | | PLACE | 
-derivó hacia el sur (58:4.3)
-surgió de las profundidades del Pacífico (57:8.21)
-Vastas capas de hielo comenzaron a formarse hace 100.000 años (61:7.11)
+Antártida | (61:2.3) (61:5.3) | | PLACE | OK
+La Antártida, Australia y la tierra indicada por las islas del Pacífico se separaron por el sur y el este, y desde entonces se han alejado considerablemente. (58:4.3)
+surgió de las profundidades del Pacífico. Europa y África empezaron a elevarse de las profundidades del Pacífico, junto con las masas que ahora se llaman Australia, América del Norte y del Sur y el continente de la Antártida, mientras que el fondo del Océano Pacífico emprendió un ajuste compensatorio hundiéndose aún más. (57:8.21)
+las vastas capas de hielo polares como la de la Antártida comenzaron a formarse hace 100.000 años y mientras continúen cubiertas de hielo es muy difícil que se produzca otra época glacial (61:7.11)
+> https://es.wikipedia.org/wiki/Antártida
 
-Antares | | | PLACE | 
-la estrella más grande del universo local (41:3.2)
+Antares | | | PLACE | OK
+Antares es la estrella más grande del universo local de Nebadon, y tiene cuatrocientas cincuenta veces el diámetro de vuestro Sol y sesenta millones de veces su volumen (41:3.2)
+> https://en.wikipedia.org/wiki/Antares
 
-osos hormigueros | (61:4.4) | | | 
+osos hormigueros | (61:4.4) | | | OK
 
-antílopes | (61:4.3) | | | 
+antílopes | (61:4.3) | | | OK
 
-antracita | | | | 
-sujeta a más presión y calor que otros carbones (59:5.16)
+antracita | | | | OK
+La antracita ha estado sometida a más presión y temperatura que otros tipos de carbón. (59:5.16)
+> https://es.wikipedia.org/wiki/Antracita
 
-antropomorfismo | | | | 
-logro más elevado de la religión puramente evolutiva (5:4.9)
+antropomorfismo | | | | OK
+Un elevado antropomorfismo es el nivel más alto que puede alcanzar una religión puramente evolutiva. (5:4.9)
+> https://es.wikipedia.org/wiki/Antropomorfismo
+> https://es.wikipedia.org/wiki/Evemerismo
 
-antigravedad | | gravedad | | 
-El flujo alterno de niveles espaciales ejerce una influencia antigravitatoria (11:7.9)
-anula la gravedad física dentro del marco local (9:3.3)
+antigravedad; influencia antigravitatoria; influencias antigravitatorias; fuerzas antigravitatorias; antigravitatorias | | gravedad | | OK
+El flujo alterno de los niveles espaciales ejerce una influencia antigravitatoria (11:7.9)
+La antigravedad puede anular la gravedad dentro de un marco local; lo hace mediante el ejercicio de una presencia de fuerza equivalente. (9:3.3)
+La antigravedad también se emplea en Havona para organizar las funciones materiales y las actividades espirituales de estos mundos enormes. (14:3.6)
+Sólo funciona con relación a la gravedad material, y no es una acción de la mente. (9:3.3)
+El espacio penetrado ejerce también una influencia antigravitatoria sobre la gravedad física o lineal; el espacio puede neutralizar realmente esta acción de la gravedad, aunque no puede retrasarla. (11:8.3)
+evita que la gravedad convierta toda la energía en materia. Si la influencia retardadora tuviera una duración suficiente, la gravedad terminaría por convertir toda la energía en materia si no fuera por dos factores: en primer lugar, debido a las influencias antigravitatorias de los controladores de la energía, y en segundo lugar, debido a que la materia organizada tiende a desintegrarse bajo ciertas condiciones. (15:8.5-6,10)
+Las energías ultimatónicas a veces exhiben comportamiento antigravitatorio (42:4.10) (42:6.3)
+La energía en evolución tiene sustancia; tiene peso, aunque el peso es siempre relativo, dependiendo de la velocidad de rotación, de la masa y de la antigravedad. (15:8.3)
 seres dotados de antigravedad
-	Directores del Censo (24:0.10)
-	Espíritu Infinito (7:1.2) (9:3.2-3)
-	Espíritus Maternos de los universos locales (34:2.2)
-	Controladores Físicos Maestros (9:3.6) (29:3.6) (29:4.19,35) (42:4.3)
-	Ayudantes Personales del Espíritu Infinito (24:0.10)
-	siete Directores Supremos del Poder (9:3.6) (29:3.6)
-	Mensajeros Solitarios (24:0.10)
-	Centros Supremos del Poder (9:3.6) (29:3.6) (42:4.3)
-	Supervisores de los Circuitos Universales (24:0.10)
-empleado en Havona (14:3.6)
-opera solo con respecto a la gravedad del material (9:3.3)
-el espacio invadido ejerce antigravedad influencia sobre la gravedad lineal (11:8.3)
-evita que la gravedad convierta toda la energía en materia (15:8.5-6,10)
-Las energías ultimatónicas a veces exhiben (42:4.10) (42:6.3)
-el peso de la energía depende de (15:8.3)
+	* los Directores del Censo (24:0.10)
+	* el Espíritu Infinito (7:1.2) (9:3.2-3)
+	* los Espíritus Maternos de los universos locales (34:2.2)
+	* los Controladores Físicos Maestros (9:3.6) (29:3.6) (29:4.19,35) (42:4.3)
+	* los Ayudantes Personales del Espíritu Infinito (24:0.10)
+	* los siete Directores Supremos del Poder (9:3.6) (29:3.6)
+	* los Mensajeros Solitarios (24:0.10)
+	* los Centros Supremos del Poder (9:3.6) (29:3.6) (42:4.3)
+	* los Supervisores de los Circuitos Universales (24:0.10)
+> https://es.wikipedia.org/wiki/Antigravedad
 
-Antioquía | (130:0.3) | | PLACE | 
-los creyentes en Antioquía enviaron fondos a Jerusalén (194:4.7)
-Cedes hizo un registro de la vida de Jesús en (121:8.9)
-estrecha conexión con Jerusalén (121:2.5)
-capital flagrantemente inmoral de la provincia romana de Siria (133:8.1)
-sede del cristianismo paulino (171:1.6)
-Jesús y Ganid en (133:8)
-Jesús volvió a visitar durante 2 meses (134:7.3)
-notorio bosquecillo de Dafne en (133:8.1)
-Los discípulos de Pablo llamaron a los cristianos por primera vez en (121:2.5) (194:4.13)
-Pedro en (139:2.7)
+Antioquía | (130:0.3) | | PLACE | OK
+Antioquía era la capital de la provincia romana de Siria, y el gobernador imperial tenía aquí su residencia. Antioquía tenía medio millón de habitantes; era la tercera ciudad del imperio en importancia y la primera en perversidad y flagrante inmoralidad. (133:8.1)
+Jesús y Antioquía
+	Jesús y su alumno Ganid estuvieron por un tiempo en Antioquía (133:8)
+	Jesús volvió a visitar Antioquía durante dos meses, trabajando, observando, estudiando, visitando, ayudando y, durante todo este tiempo, aprendiendo cómo viven los hombres, cómo piensan, sienten y reaccionan al entorno de la existencia humana. Durante tres semanas de este período trabajó como fabricante de tiendas. (134:7.3)
+	Jesús visitó todos los rincones de Antioquía pero se negó a visitar el notorio bosquecillo de Dafne (133:8.1)
+Los primeros cristianos en Antioquía
+	Los discípulos de Pablo fueron llamados cristianos por primera vez en Antioquía (121:2.5) (194:4.13)
+	Pedro predicó también allí (139:2.7)
+	Cuando con el paso del tiempo, los recursos menguantes debido al «compartir por igual» de los primeros cristianos se acabaron, los creyentes en Antioquía enviaron fondos a Jerusalén (194:4.7)
+	Cedes, un creyente cristiano, hizo un registro sobre la vida de Jesús en Antoquía (121:8.9)
+	Hubo una relación muy estrecha entre la cultura, el comercio y el culto de Jerusalén y Antioquía. (121:2.5)
+	Poco tiempo después de la destrucción de Jerusalén, Antioquía se volvió la sede del cristianismo paulino, mientras que Filadelfia siguió siendo el centro del reino de los cielos según Abner. (171:1.6)
+> https://es.wikipedia.org/wiki/Antioquía_del_Orontes
 
-Antípatris | (127:6.4) (143:0.1) | | PLACE | 
+Antípatris | (127:6.4) (143:0.1) | | PLACE | OK
+> https://es.wikipedia.org/wiki/Antipatris
 
-antítesis | | | | 
-Jesús empleó (159:5.17)
+antítesis | | | | OK
+Jesús empleó la antítesis de manera eficaz en sus enseñanzas, comparando lo pequeño con lo infinito, y así sucesivamente (159:5.17)
+> https://es.wikipedia.org/wiki/Antítesis
 
-Antonia (fortaleza) | (183:2.3) | | PLACE | 
-El juicio de Jesús en el pretorio de (185:0.2)
-Castillo romano en Jerusalén (162:4.2) (189:2.4)
+Antonia (fortaleza) | (183:2.3) | | PLACE | OK
+La fortaleza de Antonia es un castillo romano en Jerusalén situado en una esquina del Templo (162:4.2) (189:2.4)
+El juicio de Jesús tuvo lugar en el pretorio, un edificio adicional a la fortaleza de Antonia, donde Pilatos y su mujer establecían su cuartel general cuando se quedaban en Jerusalén. (185:0.2)
+> https://es.wikipedia.org/wiki/Fortaleza_Antonia
 
 Anu | | | PERSON | OK
 Dios mesopotámico del cielo (95:1.4)
 > https://es.wikipedia.org/wiki/Anu
 
-ansiedad | | conflicto; confusión; duda | | 
-antídoto por el consuelo, estabilización de la religión sana (99:4.6)
-no tenga en cuenta las cosas que fomentan la ansiedad (48:7.21) (137:1.6)
-no te preocupes por las cosas de la vida temporal (165:5.2)
-puede inducir un estado místico (100:5.10)
-desmoralización por el pánico irreflexivo de (113:2.5)
-descuento ansiedad a favor de las certezas del futuro (48:4.6)
-distorsiona nuestras mentes (9:5.7)
-el humor previene la tensión nerviosa perjudicial (48:4.16-19)
-en acción de gracias, que las necesidades se extiendan ante el Padre (146:2.16)
-inhibe la actividad, instituye adaptaciones biológicas (86:2.1)
-Jesús predicó contra (140:8.3)
-irritación material de la inmadurez (160:1.6) (160:3.5)
-estado natural de mente salvaje (86:2.1)
-nuestra ansiedad son parte del plan divino (23:2.12)
-oración, adoración evitar la tensión emocional (143:7.3) (196:0.10)
-sin sentido de muchas cosas que nos preocupan seriamente (48:4.6)
-suficiente para que el día sea un problema (140:6.13)
-frustra el trabajo del Ajustador (108:6.2)
+ansiedad; ansiosos; ansiedades | | conflicto; confusión; duda | | OK
+Durante los tiempos psicológicamente agitados del siglo veinte, en medio de los trastornos económicos, las contracorrientes morales y las mareas sociológicas desgarradoras de las transiciones ciclónicas de una era científica, miles y miles de hombres y de mujeres se han dislocado humanamente; están ansiosos, inquietos, temerosos, inseguros e inestables; necesitan, más que nunca en la historia del mundo, el consuelo y la estabilidad de una religión sana. (99:4.6)
+la ansiedad puede inducir un estado místico que se confunda con una comunión con el Ajustador, pero no lo es (100:5.10)
+muchas veces estamos desmoralizados por el pánico irreflexivo del temor y la ansiedad (113:2.5)
+Muy a menudo, demasiado a menudo, disfiguramos vuestra mente con la falta de sinceridad y la marchitamos con la injusticia; la sometemos al miedo animal y la desvirtuamos con ansiedades inútiles. (9:5.7)
+Nuestras ansiedades y tristezas, nuestras dificultades y decepciones forman tanta parte del plan divino en nuestra esfera como lo forman la perfección exquisita y la adaptación infinita de todas las cosas al propósito supremo de los Dioses en los mundos del universo central y perfecto. (23:2.12)
+muchas cosas que nos preocupan seriamente a menudo son un sin sentido (48:4.6)
+muchos e insensatos miedos animales y ansiedades infantiles del hombre frustran el trabajo del Ajustador (108:6.2)
+Jesús
+	Jesús dijo: «No os preocupéis constantemente por vuestras necesidades ordinarias. No sintáis aprensión por los problemas de vuestra existencia terrestre; en todas estas cosas, mediante la oración y la súplica, con un espíritu sincero de acción de gracias, exponed vuestras necesidades ante vuestro Padre que está en los cielos». (146:2.16)
+	no os preocupéis indebidamente por el mañana. A cada día le basta su propio afán». (140:6.13)
+	Hay que abandonar la ansiedad. No hay que preocuparse por las cosas que alimentan nuestra ansiedad, sino más bien interesarnos en hacer solamente, en todo momento, la voluntad del Padre que está en los cielos. (48:7.21) (137:1.6)
+	«No os inquietéis ni os preocupéis por las cosas de la vida temporal, por lo que vais a comer ni tampoco por cómo vestiréis vuestro cuerpo». (165:5.2)
+	Jesús no predicaba contra la previsión, sino contra la ansiedad y la preocupación. (140:8.3)
+	El evangelio del reino proporciona una posición de ventaja de la vida superior, donde el hombre es capaz de trascender las irritaciones materiales de los niveles inferiores de pensamiento —las preocupaciones, los celos, la envidia, la venganza y el orgullo de la personalidad inmadura. (160:1.6) (160:3.5)
+	Para Jesús la oración y la adoración son una manera de evitar la tensión emocional (143:7.3) (196:0.10)
+El humor, la cura de la ansiedad
+	gracias al humor somos más capaces de disminuir las ansiedades del presente en favor de las certezas del futuro. (48:4.6)
+	Aunque el humor de Urantia es extremadamente rudimentario y muy poco artístico, cumple una valiosa finalidad como seguro de salud y como liberador de las presiones emocionales, impidiendo así las tensiones nerviosas perjudiciales y la contemplación demasiado seria de sí mismo. (48:4.16-19)
+	La ansiedad era el estado natural de la mente salvaje. (86:2.1)
+	Cuando los hombres y las mujeres caen víctimas de una ansiedad excesiva, vuelven simplemente al estado natural de sus lejanos antepasados; y cuando la ansiedad se vuelve realmente dolorosa, inhibe la actividad y produce infaliblemente cambios evolutivos y adaptaciones biológicas. (86:2.1)
+> https://es.wikipedia.org/wiki/Ansiedad
 
-Apeninos | (61:1.12) | | PLACE | 
+Apeninos | (61:1.12) | | PLACE | OK
+> https://es.wikipedia.org/wiki/Apeninos
 
 Afrodita | | | PERSON | OK
 diosa de la belleza, la sensualidad y el amor
@@ -1694,12 +1720,16 @@ Afrodita es el nombre que recibió la diosa Istar en Grecia (95:1.7)
 cuando el culto a Afrodita fue llevado a Roma, Afrodita se convirtió en Venus (98:3.3)
 > https://es.wikipedia.org/wiki/Afrodita
 
-apocalípticos | | | | 
-enseñó que los sufrimientos de los judíos eran el castigo por los pecados de la nación (135:5.2)
+apocalípticos | | | | OK
+Unos cien años antes de los tiempos de Jesús y de Juan, una nueva escuela de educadores religiosos había surgido en Palestina, la de los apocalípticos. Estos nuevos instructores desarrollaron un sistema de creencias que explicaba los sufrimientos y la humillación de los judíos sobre la base de que estaban pagando las consecuencias de los pecados de la nación. (135:5.2)
+> https://es.wikipedia.org/wiki/Apocalíptico_(género_literario)
 
-libros apócrifos | | | | 
-Libro de Enoc (126:3.6-8) (136:1.6)
-Libro de la Sabiduría (95:4.3) (96:1.5)
+libros apócrifos; Libro de Enoc; Libro de los Proverbios | | | | 
+El Libro de Urantia menciona dos libros bíblicos apócrifos, que no están en el canon:
+	* El Libro de Enoc (126:3.6-8) (136:1.6)
+	* El Libro de la Sabiduría (95:4.3) (96:1.5)
+> https://es.wikipedia.org/wiki/Libro_de_Enoc
+> https://es.wikipedia.org/wiki/Libro_de_la_Sabiduría_de_Salomón
 
 Apolo | | | PERSON | OK
 Apolo, el dios de la música y las artes, tenía un templo ubicado en la colina Palatina en Roma (132:0.2)
@@ -1707,7 +1737,20 @@ Apolo, el dios de la música y las artes, tenía un templo ubicado en la colina 
 
 apóstoles de Jesús | (138) (145:4.1) (150:4) (158:0.2) (158:2.5) (172:5) (173:5.6) (184:2.2) (193:3.2) | apostolado | PERSON | OK
 Los apóstoles fue el grupo de doce seguidores con los que Jesús inició su predicación
-sus nombres eran: Andrés; Simón Pedro; Santiago Zebedeo; Juan Zebedeo; Felipe; Natanael; Mateo Leví; Tomás Dídimo; Santiago Alfeo; Judas Alfeo; Simón Celotes; Judas Iscariote | Andrés; Simón Pedro; Santiago Zebedeo; Juan Zebedeo; Felipe (apóstol); Natanael (apóstol); Mateo Leví; Tomás Dídimo; gemelos Alfeo; Simón Celotes; Judas Iscariote; Matías; Pablo
+sus nombres eran: 
+	* Andrés | Andrés
+	* Simón Pedro | Simón Pedro
+	* Santiago Zebedeo | Santiago Zebedeo
+	* Juan Zebedeo | Juan Zebedeo
+	* Felipe | Felipe (apóstol)
+	* Natanael | Natanael (apóstol)
+	* Mateo Leví | Mateo Leví
+	* Tomás Dídimo | Tomás Dídimo
+	* Santiago Alfeo | gemelos Alfeo
+	* Judas Alfeo
+	* Simón Celotes | Simón Celotes
+	* Judas Iscariote | Judas Iscariote
+	* Otros conocidos fueron Matías y Pablo aunque éste último no conoció a Jesús | Matías; Pablo
 El Libro de Urantia da descripciones personales detalladas de cada uno (139)
 la mayoría estuvieron casados, y algunos tuvieron varios hijos (138:9.3)
 todos excepto los gemelos Alfeo estaban graduados en las escuelas de la sinagoga (139:0.3-4)
@@ -1818,7 +1861,12 @@ fueron finalmente ganados para la causa de Jesús (144:7.2) (162:9.1-5)
 nunca supieron por qué Jesús no evitó la muerte de Juan (141:1.4)
 
 apostolado | | discípulos | | 
-requisitos (140:3.1) (140:6.9-13) (140:8.16) (142:7.2) (163:2.6,11) (163:3.3) (165:4.5) (165:5.2) (171:2)
+los duros requisitos que Jesús enunció para los apóstoles: (140:3.1) (140:6.9-13) (140:8.16) (142:7.2) (163:2.6,11) (163:3.3) (165:4.5) (165:5.2) (171:2)
+	* vivir como aquellos que han saboreado las glorias de una vida mejor y han sido enviados de vuelta a la Tierra como embajadores del Soberano de ese mundo nuevo y mejor
+	* devolver el bien por el mal
+	* la misericordia deberá determinar siempre el juicio
+	* Estar dispuestos entonces a asumir las responsabilidades y a seguirle
+	* Hacer vuestras buenas acciones en secreto
 
 montañas Apalaches | (59:4.16) (59:5.20) (60:3.13) | | PLACE | 
 casi completamente desgastado en el Cretácico (60:3.5)
@@ -1921,6 +1969,11 @@ Arquitectos del Universo Maestro | (31:9) | Trascendentales | ORDER |
 relación cercana con los Hijos Creadores (31:9.14)
 La criatura opera dentro de los límites establecidos por (118:7.1)
 encarnan el concepto de la Deidad de los universos (118:4.6)
+en la clasificación del Paraíso (30:1.94)
+miembros de la primera Trinidad experiencial (0:12.6) (31:9.14) (106:3.2)
+Los Ajustadores Personalizados son ejecutivos de (109:6.7) (109:7.3)
+relación con los Espíritus Trinitarios Inspirados, Mensajeros Solitarios (31:9.13)
+Seres trascendentales (30:1.93) (105:7.7)
 función
 	7 arquitectos de superuniversos asociados con Seven Master
 	Espíritus y siete ejecutivos supremos (31:9.5)
@@ -1938,16 +1991,11 @@ función
 	proporcionar a los Hijos Creadores y Ancianos de los Días poblaciones ascendentes permanentes (40:10.4)
 	las esferas del espacio aparecen de acuerdo con los planos de (41:0.2)
 	Los hijos supercreacionales trinitizados por criaturas están protegidos por (22:7.10,14) (23:4.3-4) (31:9.13)
-en la clasificación del Paraíso (30:1.94)
-miembros de la primera Trinidad experiencial (0:12.6) (31:9.14) (106:3.2)
-Los Ajustadores Personalizados son ejecutivos de (109:6.7) (109:7.3)
-relación con los Espíritus Trinitarios Inspirados, Mensajeros Solitarios (31:9.13)
 Arquitecto principal
 	coordina todo por debajo del nivel de la Deidad (31:9.1)
 	coordina el Paraíso y las esferas sagradas (31:9.3)
 	es el jefe de los Trascendentales (31:8.4) (31:9.1)
 	supervisa 7 cuerpos de finalitarios (31:10.1)
-Seres trascendentales (30:1.93) (105:7.7)
 
 esferas arquitectónicas | (15:7) | | PLACE | 
 10 formas de vida material en (43:6.4,7) (46:2.5)

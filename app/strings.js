@@ -701,6 +701,10 @@ const Strings = {
 		en: "Folder {0} not exists",
 		es: "El directorio {0} no existe"
 	},
+	"file_not_exists": {
+		en: "File {0} not exists",
+		es: "El fichero {0} no existe"
+	},
 	"proccessing": {
 		en: "Proccessing file {0}",
 		es: "Procesando fichero {0}"

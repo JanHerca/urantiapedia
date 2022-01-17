@@ -939,7 +939,7 @@ Period with Jesus
 	in Jesus' admonitions to them he exempted them from remaining apostles if they wished (174:0.2) (181:2.19) (192:2.13)
 After the death of Jesus
 	firmly believed in the resurrection of Jesus when announced by women, including his own mother (191:0.11)
-	both were in the appearances of Jesus (191:2.5) (192:1-4) (193:0.3,5)
+	both were in the appearances of Jesus (191:2.1) (192:1-4) (193:0.3,5)
 	Jesus, in his last instructions, told them to work as if they were working for God (192:2.13)
 	returned to their homes and nets shortly after Pentecost (192:4.7) (193:6.4)
 > https://en.wikipedia.org/wiki/James_the_Less
@@ -995,7 +995,7 @@ he was transferred to Jerusem seven years after the arrival of Adam and Eve (67:
 
 Amadonites | | | RACE | OK
 Amadonites were derived from the group of 144 loyal Andonites to which Amadon belonged, and who have become known by his name (67:6.3) (67:8.4)
-Fifty-six of this number were of immortality status, and all (except Amadon) were translated along with the loyal members of the staff. The remainder of this noble band continued on earth to the end of their mortal days under the leadership of Van and Amadon. (67:6.3)
+Fifty-six of this number were of immortality status, and all, except Amadon, were translated along with the loyal members of the staff. The remainder of this noble band continued on earth to the end of their mortal days under the leadership of Van and Amadon. (67:6.3)
 they were the descendants of Andonites who remained loyal with Van and Amadon; it is more cultural than racial term. Amadonites were esentially Andonites (73:1)
 they joined Nodites to become the Vanites (77:4.10)
 Nodites and Amadonites had a traditional enmity between them and they found exceedingly difficult to work together (73:1.4)
@@ -1208,7 +1208,7 @@ supreme judges
 	they are personifications of Trinity justice-judgment in time and space (19:3.5) (116:4.6)
 	the Ancients of Days refuse to annihilate any being until all moral values and all spiritual realities are extinct, both in the evildoer and in all related supporters and possible sympathizers. (54:3.3)
 	they seldom execute wrongdoers without a full hearing. (54:5.7)
-	Trinitized Custodians (Trinity-embraced seraphim and midwayers) are the officers of the courts of all three divisions, functioning in the tribunals of the Ancients of Days (18:4.5)
+	Trinitized Custodians, Trinity-embraced seraphim and midwayers, are the officers of the courts of all three divisions, functioning in the tribunals of the Ancients of Days (18:4.5)
 	There is no appeal from the rulings and decisions of the superuniverse authorities since they represent the concurred opinions of the Ancients of Days and that Master Spirit who, from Paradise, presides over the destiny of the superuniverse concerned. (15:12.4)
 in the Bible
 	Ancient of Days is a semite appellation of Deity (96:1.9)
@@ -1282,7 +1282,7 @@ Renown Andites
 	* Amosad | Amosad
 	* Genghis Khan | Genghis Khan
 	* Imhotep | Imhotep
-	* Thor (venerated as a god) | Thor (god)
+	* Thor, venerated as a god | Thor (god)
 
 Andon and Fonta; Andon | (63) (62.5) (136:4.5) | | PERSON | OK
 Andón and Fonta are the true parents of all mankind (61:6.2) (63:1.1)
@@ -1436,389 +1436,437 @@ Andromeda is a sun-forming nebula that is outside the inhabited superuniverse an
 in Andromeda a giant nova collapsed in 40 minutes (41:8.3)
 > https://es.wikipedia.org/wiki/Galaxia_de_Andrómeda
 
-Andronover | (57:1-4) | | PLACE | 
-1,013,628 Orvonton suns took origin in (57:2.2) (57:4.3,8)
-earth’s sun originated in (15:3.6) (57:1.1)
-has remnant family of 165 worlds (57:4.9)
-initiated 875 billion years ago (57:1.6)
-Michael chose as site for Nebadon (57:3.8-9)
-Monmatia revolves around (15:3.9)
-Nebadon partially assembled from (41:0.3)
-nebula #876,926 (57:1.6)
-revolves around star cloud of Nebadon (15:3.10)
+Andronover | (57:1-4) | | PLACE | OK
+Andronover es la nebulosa que dio origen a nuestro sol. It is only mentioned in The Urantia Book; current science has failed to discover the origin of our sun. (15:3.6) (57:1.1)
+The total number of suns and sun systems having origin in the Andronover nebula was 1,013,628. (57:2.2) (57:4.3,8)
+The final nuclear remnant of this magnificent nebula still burns with a reddish glow and continues to give forth moderate light and heat to its remnant planetary family of one hundred and sixty-five worlds, which now revolve about this venerable mother of two mighty generations of the monarchs of light. (57:4.9)
+875,000,000,000 years ago the enormous Andronover nebula number 876,926 was duly initiated. (57:1.6)
+It was scarcely a million years subsequent to this epoch that Michael of Nebadon, a Creator Son of Paradise, selected this disintegrating nebula as the site of his adventure in universe building. (57:3.8-9)
+Monmatia, our solar system, revolves around the nucleus of this former nebula (15:3.9)
+Nebadon, our local universe, was physically assembled out of the stellar and planetary progeny of Andronover and other nebulae (41:0.3)
+this nebula is registered in the universe with number 876,926 (57:1.6)
+the Andronover stellar family and its associated clusters revolves about the composite rotation-gravity center of the star cloud of Nebadon. (15:3.10)
+> https://www.nationalgeographic.com/science/article/120117-sun-solar-system-born-stars-m67-space-science
+> https://arxiv.org/pdf/1004.4284.pdf
 
-Ang | | Caligastia one hundred | PERSON |
-and 3 of his council loyal in rebellion (67:4.1)
-led council on food and material welfare (66:5.2)
+Ang | | Caligastia one hundred | PERSON | OK
+Ang was one of the corporeal members of the staff of the Planetary Prince, who presided over the council of food and material well-being, and who taught irrigation, furriers, and weaving to primitive men (66:5.2)
+Ang and three members of his council remained loyal and did not join the rebellion (67:4.1)
 
-Angamon | | | PERSON |
-introduced rich man to Jesus (132:5.1)
-Stoic leader in Rome; Jesus’ talk with (132:1)
+Angamon | | | PERSON | OK
+Angamon was the leader of the church of the Stoics in Rome. Jesus had a talk with him that we are given a summary of in The Urantia Book. He was a great friend of Paul of Tarsus and an ardent follower of the Christian church in Rome (132:1)
+Angamon introduced Jesus to a wealthy man from Rome who was greatly influenced by his teachings (132:5.1)
 
-Angelic World | | Jerusem:transitional culture worlds | PLACE |
-transitional culture world #3 (45:1.5)
-permission to visit transitional world #3 (47:5.2)
+Angelic World; third transition sphere | | Jerusem:transitional culture worlds | PLACE | OK
+this world is the third transitional cultural world of Jerusem, the capital of Satania (45:1.5)
+upon reaching the third mansonia, the third satellite of transition world number one, permission is granted to visit the world of angels (47:5.2)
 
-angels | (26:1) | Infinite Spirit:family of | ORDER |
+angels | (26:1) | Infinite Spirit:family of | ORDER | OK
 all groups of angels have own transport corps (39:2.8)
-cf: term angel restricted to seraphim serving mortals (38:3.1)
+in The Urantia Book the term angel is restricted to seraphim serving mortals (38:3.1)
 chief supernaphim is original pattern angel (27:2.1)
-may become Paradise Companions, Celestial Recorders, Technical Advisors, ascending sons of God (26:1.10)
+Angels of certain orders may become Paradise Companions for a season; some become Celestial Recorders; others ascend to the ranks of the Technical Advisers. (26:1.10)
+Urantia mortals must obtain light-energy through the vegetative incarnation, but the angelic hosts are encircuited; they “have food that you know not.” They also partake of the circulating teachings of the marvelous Trinity Teacher Sons; they have a reception of knowledge and an intake of wisdom much resembling their technique of assimilating the life energies. (26:1.17)
+they are registered as personalities of the Infinite Spirit (30:2.82)
+These brilliant creatures of light are sustained directly by the intake of the spiritual energy of the primary circuits of the universe. (26:1.17)
+Together with the Messenger Hosts of Space, the ministering spirits enjoy seasons of rest and change; they have a large capacity for appreciation of the ministrations of the reversion directors; they possess very social natures and have an associative capacity far transcending that of human beings. (26:1.1)
 orders (26:1.2) (30:2.82-89)
 	# supernaphim
 	# seconaphim
 	# tertiaphim
 	# omniaphim
 	# seraphim
-	# cherubim and sanobim
+	# Cherubim and Sanobim
 	# midwayers
-partake of circulating teachings of Teacher Sons (26:1.17)
-personalities of the Infinite Spirit (30:2.82)
-sustained by direct intake of spiritual energy (26:1.17)
-very social; enjoy reversion directors, rest and change (26:1.1)
 
-anger | | fear; hatred; revenge | |
-conquer with mercy (131:4.6) (141:3.8)
-courts condemnation (140:6.4)
-mean and despicable sentiment (4:3.2)
-mental poison; interferes with spiritual progress (110:1.5)
-rage can induce mystic state (100:5.10)
-represents failure of spiritual nature to gain control (149:4.2)
-soft answer turns away wrath (128:6.7) (131:3.6) (139:4.13) (149:4.2) (150:9.3) (181:2.15)
-Spirit of Truth endows with power to overcome (194:3.12)
-stone hurled into hornets' nest (48:7.20)
-weakens character, destroys happiness (140:5.6)
-wrath of God
-	erroneous teaching (20:6.7)
-	God incapable of wrath (4:3.2)
-	Jesus refused to accept the teaching (125:0.6-7)
-	Jesus’ talk with Jacob of Crete regarding (142:2)
+anger; angry; rage; wrath; Anger | | fear; hatred; revenge | | OK
+anger must be conquer with mercy (131:4.6) (141:3.8)
+every one who is angry with his brother is in danger of condemnation (140:6.4)
+anger is a mean and despicable sentiment (4:3.2)
+All physical poisons greatly retard the efforts of the Adjuster to exalt the material mind, while the mental poisons of fear, anger, envy, jealousy, suspicion, and intolerance likewise tremendously interfere with the spiritual progress of the evolving soul. (110:1.5)
+rage can induce mystic state, but mystical experiences should not be confused with direct communion with one’s Thought Adjuster (100:5.10)
+Anger is a material manifestation which represents, in a general way, the measure of the failure of the spiritual nature to gain control of the combined intellectual and physical natures. (149:4.2)
+Jesus’ disciples learned that a soft answer turns away wrath (128:6.7) (131:3.6) (139:4.13) (149:4.2) (150:9.3) (181:2.15)
+Spirit of Truth endowed mortal man with power to challenge the evils of hate and anger by the fearless acts of love and forbearance (194:3.12)
+anger is like a stone hurled into a hornet’s nest (48:7.20)
+Fear and anger weaken character and destroy happiness. This momentous sermon started out upon the note of happiness. (140:5.6)
+the wrath of God
+	erroneous teaching about Jesus’ life says that he died to satisfy the demands of “divine wrath,” but the truth is that bestowal Sons do this “to drink the cup” of all that means having a personal experience as it is lived by their creatures (20:6.7)
+	The eternal God is incapable of wrath and anger (4:3.2)
+	Jesus refused to accept the teaching in the wrath of God or the anger of the Almighty (125:0.6-7)
+	Jesus had a talk with Jacob of Crete regarding the idea of wrath of God (142:2)
 
-angiosperms | (61:2.2) (60:3.7,19) | | | 
+angiosperms | (61:2.2) (60:3.7,19) | | | OK
 
-Anglo-Saxons; Anglo-Saxon | | | RACE |
-descendants of Andite and blue races (80:4.5)
+Anglo-Saxons; Anglo-Saxon | | | RACE | OK
+Anglo-Saxons are a people descendants of Andite and blue races (80:4.5)
 
-Angona | | | PLACE |
-approach 4.5 billion years ago disgorged our solar system from sun (41:10.1) (57:5.4-14)
-large nebula whose approach distorted Andronover (15:3.6)
+Angona | | | PLACE | OK
+Angona is the name of a massive solar system made up of a dark giant from space, perhaps a black hole, which 4.5 billion years ago approached our solar system and gave rise to twelve planets and a cloud of meteors by disgorging material from the sun (41:10.1) (57:5.4-14)
+it is possible that Angona was part of a large nebula neighboring Andronover whose approach distorted Andronover as we are told that this distortion occurred at the time of the birth of our solar system (15:3.6)
 
-animals | | insects; mammals; marine life | |
-ability to adapt derived from adjutant mind-spirits (65:6.7-8)
-adjutant mind-spirits #1 to #5 function in (36:5.13) (42:10.4) (65:6.7)
-all are bellicose (70:1.7)
-all except most primitive dependent on plants (58:2.9)
-Andonites largely subsisted on (63:6.3)
-Andonites warmed themselves with skins of (63:2.5) (63:4.1)
-Andonites worshiped (63:6.3)
-appearance of multicellular (59:1.4)
-companionable, affectionate, noncarnivorous, intelligent, non-speaking on architectural spheres (43:6.4-5)
+animals; animal; Animals | | insects; mammals; marine life | | OK
 differences with respect to man
 	cannot know God, develop language (130:2.8)
-	communicate in limited way, but with little or no personality (109:4.2) (160:2.1)
-	do not build fire (69:6.2)
-	do not communicate concepts (109:4.1-2)
+	Animals do, in a crude way, communicate with each other, but there is little or no personality in such primitive contact. (109:4.2) (160:2.1)
+	the endowment of mind even in impersonal beings as animals qualifies them to think and endows them with consciousness despite the total absence of personality. (9:6.3)
+	they do not build fire and this human discovery is the bound that separated man from animal (69:6.2)
+	Animals do have fellow feelings, but they do not communicate concepts to each other; they can express emotions but not ideas and ideals. (109:4.1-2)
 	do not experience consciousness of time or self-consciousness (118:3.1) (130:4.9) (130:7.5) (133:7.6,8)
 	do not survive death (36:6.5) (130:2.8)
 	do not visualize survival after death (68:3.2)
-	have knowledge, but not wisdom (101:6.4)
-	instinctive exertions are not efforts of design (69:2.5)
-	know only the past; live in the present (12:5.10)
-	make no inquiry into purposes of life (160:1.5)
-	manner in which man transcends (69:0.1)
-	selective responses limited to motor level (16:7.2-4)
+	Animals have knowledge, but only man possesses wisdom capacity. (101:6.4)
+	Labor, the efforts of design, distinguishes man from the beast, whose exertions are largely instinctive. (69:2.5)
+	Unspiritual animals know only the past and live in the present. (12:5.10)
+	Animals make no inquiry into the purposes of life; therefore they never worry, neither do they commit suicide. (160:1.5)
+	Emotionally, man transcends his animal ancestors in his ability to appreciate humor, art, and religion. (69:0.1)
+	The selective response of an animal is limited to the motor level of behavior. (16:7.2-4)
+	Those who cannot know God are reckoned among the animals of any given realm. (133:0.3)
+Animal evolution
+	multicellular animals appear suddenly in the evolution process (59:1.4)
+	When the seas were at their height, a new evolutionary development suddenly occurred. Abruptly, the first of the land animals appeared. (59:5.5)
+	all animals except most primitive are dependent on plants
+	the ability to adapt to air, water and lad of animals is derived from adjutant mind-spirits, it is not just a physical matter (65:6.7-8)
+	adjutant mind-spirits #1 to #5 function in animals (36:5.13) (42:10.4) (65:6.7)
+	evolution require appearance of many apparently useless forms of animal and vegetable life destined to disappear (36:2.17)
+	Ordovician was the age of invertebrate animals (59:2)
+	thousands of marine species perished in Permian (59:6.2)
+	life of mammalian animals little changed by great glacier; they persisted in that narrow belt of land lying between the ice and the Alps (64:4.7)
+	vertebrates
+		crustaceans were ancestors of first vertebrates (59:4.10)
+		fish were first vertebrates (59:4.3,9)
+		frogs were ancestors of land vertebrates (60:0.2)
+Andonites use of animals
+	Andonites largely subsisted thanks to animals (63:6.3)
+	Andonites warmed themselves with skins of animals (63:2.5) (63:4.1)
+	This intense use of animals caused the Andonites to worship them (63:6.3)
 domestication of animals
-	accidental (69:7.2)
-	gave living tools to primitive man (81:2.10)
-	one of first great advances (81:2.3,10-12)
-	pastoral civilization made possible by (68:5.6)
-	Prince’s staff taught (52:2.8) (66:5.4-8)
-	selective breeding promoted (69:7.3)
-early man mated with (64:1.7) (85:3.1)
-evolution required appearance of many apparently useless forms destined to disappear (36:2.17)
-indispensable to man’s intellectual and physical evolution (36:2.17) (36:5.13)
-Jesus asked Joseph why Father required slaughter of (124:6.14)
-Jesus’ home had 3 cows, 4 sheep, chickens, a donkey, doves, and a dog (126:5.11)
-life of animals little changed by great glacier (64:4.7)
-mind endows with consciousness without personality (9:6.3)
-mortals unable to know God reckoned among animals (133:0.3)
-once fetishes, became taboo as food (88:1.5)
-Ordovician was age of invertebrate (59:2)
-primitive tribes believed they were descendants of (74:8.5)
-primitives diagnosed disease by examining entrails of (90:4.3)
-Prince’s staff taught protection against predatory (66:5.4-8)
-radically different on nonbreathing worlds (49:3.5)
-sacrificial | sacrifice:animal sacrifice
-spornagia utilize animals in culture of soil (46:7.2)
-sudden appearance of land (59:5.5)
-thousands of marine species perished in Permian (59:6.2)
-types named | alligators; ammonites; amphibians; anteaters; antelopes; armadillos; arthropods; baboons; barnacles; bats; bears; beavers; birds; bison; brachiopods; bulls; butterflies; buzzards; camels; carrier pigeons; caterpillars; cats; cattle; centipedes; chimpanzees; clams; cockroaches; coral; coyotes; crabs; crickets; crinoids; crocodiles; crustaceans; cuttlefish; dawn mammals; deer; dinosaurs; dogs; dolphins; donkeys; doves; dragon flies; drills; ducks; eagles; earthworms; echinoderms; elephants; falcons; fish; flamingoes; foraminifers; foxes; frogs; gastropods; gibbons; giraffes; gnats; goats; gophers; gorillas; gulls; herons; hippopotamuses; horses; hyenas; jellyfish; kangaroos; lambs; leeches; lemurs; lions; lizards; llamas; lobsters; mammals; mammoths; marine life; martens; mice; mid-mammals; mollusks; monkeys; musk oxen; octopuses; ostriches; owls; oxen; oysters; panthers; parrots; passenger birds; pearly nautilus; peccaries; periwinkles; pigeons; porpoises; poultry; Primates; Protozoa; pterosaurs; rabbits; raccoons; ravens; reindeer; reptilians; rhinoceroses; rodents; ruminants; saber-toothed tigers; salamanders; scallops; scorpions; sea cucumbers; sea lions; sea serpents; sea squirts; sea urchins; sea worms; seals; sharks; sheep; shrimps; simians; sloths; snails; snakes; sparrows; spiders; sponges; squid; squirrels; starfish; sturgeon; swine; tadpoles; tapirs; tigers; trilobites; turtles; vipers; water hogs; weasels; whales; wolves; yaks
-utilization of animals (69:7)
-vertebrates
-	crustaceans were ancestors of first vertebrates (59:4.10)
-	fish were first vertebrates (59:4.3,9)
-	frogs were ancestors of land vertebrates (60:0.2)
-worship of animals (64:4.12) (85:3)
+	The domestication of animals came about accidentally. (69:7.2)
+	Domestication of animals placed in primitive man hands living tools, the intelligent use of which prepared the way for both agriculture and transportation. (81:2.10)
+	one of first four great advances in human civilization was domestication of animals (81:2.3,10-12)
+	pastoral civilization was made possible by domestication of animals (68:5.6)
+	Prince’s staff taught domestication of animals to primitive man. The director of this task was Bon (52:2.8) (66:5.4-8)
+	The domestication of animals was promoted by selective breeding, an art which has made great progress since the days of Dalamatia. (69:7.3)
+	Prince’s staff taught protection against predatory. The director of this task was Dan (66:5.4-8)
+Animals in heavens
+	In the architectural spheres they enjoy ten forms of material life. On Urantia there is both plant and animal life, but on a world like Edentia, the material classes of life exist in ten divisions, three plant and three animal but there are four that are neither, and all animal life is companionable, affectionate, noncarnivorous, intelligent, and do not speak (43:6.4-5)
+	At Jerusem spornagia utilize animals and numerous mechanical contrivances in culture of soil (46:7.2)
+Animals in other planets
+	On the nonbreathing worlds the animal species are radically unlike those found on the atmospheric planets. (49:3.5)
+Relationship wih man
+	primitive man mated sexually with his backward, animal-like ancestors, causing a deterioration of the race (64:1.7) (85:3.1)
+	all animals are bellicose, and man, that evolved from animal, has inherited warfare from that (70:1.7)
+	animals are to a certain extent indispensable to man’s intellectual as well as to his physical evolution. (36:2.17) (36:5.13)
+	Animals have been used for food, as companions, as guardians, for hunting, transportation (69:7)
+	When animals became fetishes, there ensued the taboos on eating the flesh of the fetish animal. (88:1.5)
+	Although the various races of earth became sadly mixed up in their notions of evolution, nevertheless, many of the primitive tribes believed and taught that they were the descendants of various animals. (74:8.5)
+	primitive man diagnosed disease by examining entrails of an animal (90:4.3)
+	the worship of animals was widespread, and also that of half-human, half-animal creatures, such as centaurs and mermaids, or fictional animals, such as the dragon in China; the worship of insects and other animals was fostered by a later misunderstanding of the golden rule —doing every form of life as you would be done by. (64:4.12) (85:3)
+Relationship with Jesus
+	animals always has been used for sacrificial rituals | sacrifice:animal sacrifice
+	Jesus asked Joseph, his father, why heavenly Father required the slaughter of so many innocent and helpless animals in ritual sacrifices. (124:6.14)
+	At Jesus’ home had 3 cows, 4 sheep, chickens, a donkey, doves, and a dog (126:5.11)
+Animals mentioned
+	there are quite a number of animal species mentioned in The Urantia Book. See references below | alligators; ammonites; amphibians; anteaters; antelopes; armadillos; arthropods; baboons; barnacles; bats; bears; beavers; birds; bison; brachiopods; bulls; butterflies; buzzards; camels; carrier pigeons; caterpillars; cats; cattle; centipedes; chimpanzees; clams; cockroaches; coral; coyotes; crabs; crickets; crinoids; crocodiles; crustaceans; cuttlefish; dawn mammals; deer; dinosaurs; dogs; dolphins; donkeys; doves; dragon flies; drills; ducks; eagles; earthworms; echinoderms; elephants; falcons; fish; flamingoes; foraminifers; foxes; frogs; gastropods; gibbons; giraffes; gnats; goats; gophers; gorillas; gulls; herons; hippopotamuses; horses; hyenas; jellyfish; kangaroos; lambs; leeches; lemurs; lions; lizards; llamas; lobsters; mammals; mammoths; marine life; martens; mice; mid-mammals; mollusks; monkeys; musk oxen; octopuses; ostriches; owls; oxen; oysters; panthers; parrots; passenger birds; pearly nautilus; peccaries; periwinkles; pigeons; porpoises; poultry; Primates; Protozoa; pterosaurs; rabbits; raccoons; ravens; reindeer; reptilians; rhinoceroses; rodents; ruminants; saber-toothed tigers; salamanders; scallops; scorpions; sea cucumbers; sea lions; sea serpents; sea squirts; sea urchins; sea worms; seals; sharks; sheep; shrimps; simians; sloths; snails; snakes; sparrows; spiders; sponges; squid; squirrels; starfish; sturgeon; swine; tadpoles; tapirs; tigers; trilobites; turtles; vipers; water hogs; weasels; whales; wolves; yaks
 
-animism | | | |
-in Jesus’ time, every rock and tree believed possessed (121:7.12)
-prayer little associated with (91:1.5)
-savage looked upon all nature as possessed (86:2.6-7)
-slaves brought animism to Greece (98:1.1)
+animism | | | | OK
+in Jesus’ time, every rock and tree believed to be possessed by spirits (121:7.12)
+Prayer is little associated with animism, but such beliefs may exist alongside emerging religious sentiments. (91:1.5)
+The savage looked upon all nature as alive, as possessed by something. (86:2.6-7)
+slaves brought a crude animism to Greece, with bloody rites where criminals where executed in a ceremony (98:1.1)
+> https://en.wikipedia.org/wiki/Animism
 
-anise | | | |
-tithing anise while disregarding weightier matters (175:1.17)
+anise | | | | OK
+Jesus set an example of how important spiritual things are neglected by mentioning how the Pharisees were overly concerned with paying the anise tithe (175:1.17)
 
-Anna | | | PERSON |
-poetess at presentation of Jesus (122:9.2-27)
+Anna | | | PERSON | OK
+Anna was the poetess who declaimed a poem in the presentation in the temple of Jesus (122:9.2-4)
 
-Annan | | | PERSON |
-loyal Nodite daughter (74:2.5)
+Annan | | | PERSON | OK
+Annan was the spokesperson and daughter for the Nodite race who was part of the Adam and Eve reception committee (74:2.5)
 
-Annas | (190:3.3) | Sanhedrin | PERSON |
-former high priest; most powerful individual in all Jewry; father-in-law of Caiaphas (129:1.5) (183:3.10) (183:5.1) (184:0.1-2) (184:1.1)
-deposed as high priest in A.D. 13 (129:1.5)
-distant relative of Salome (142:0.2) (184:0.3)
-spent much time with Jesus in A.D. 22 (129:2.7-8)
-Jesus called upon A.; was coldly received (142:0.2) (184:1.2)
-“sons of Annas” had bazaars in temple; overthrown (173:1.2)
-enmity aroused when Jesus threatened revenues (184:1.3)
-interrogation and judgement
-	Jesus’ examination by (184:1)
-	reluctant to participate in murder of Jesus (184:1.2)
-	Romans accustomed to dealing with (183:5.1)
-	told Roman captain to bring Jesus to him (183:5) (184:0.1-3)
-	palace on Olivet near Gethsemane (184:0.3) (184:2.10)
-	disturbed by Jesus’ refusal to answer (184:1.4-5)
-	chief steward of Annas struck Jesus in face (184:1.6) (186:2.5)
-	sent Jesus bound to Caiaphas (184:1.9)
+Annas | (190:3.3) | Sanhedrin | PERSON | OK
+Annas was the former high priest, the most powerful individual of all the Jews, and father-in-law of Caiaphas, the high priest during the preaching of Jesus (129:1.5) (183:3.10) (183:5.1) (184:0.1-2) (184:1.1)
+Annas was a high priest and was deposed from office in A.D. 13. (129:1.5)
+he was distantly related to Salome (142:0.2) (184:0.3)
+Annas spent a lot of cordial time with Jesus in A.D. 22. showing him the temple (129:2.7-8)
+When Jesus began preaching in Jerusalem he visited Annas, but was received very coldly (142:0.2) (184:1.2)
+The "sons of Annas", that is, priests of the family of the high priest, had bazaars in the temple with them doing a succulent business; but this business was overthrown some time later (173:1.2)
+enmity with Jesus arose when he threatened his revenues by driving the money changers out of the temple (184:1.3)
+interrogation and judgement of Jesus
+	Annas pretended to find out how to make Jesus leave the country (184:1)
+	he was reluctant to participate in the murder of Jesus (184:1.2)
+	the Romans were used to dealing with Annas (183:5.1)
+	the Roman captain who captured Jesus had orders to take him to Annas first, not Caiaphas before (183:5) (184:0.1-3)
+	Annas palace was on the Mount of Olives near Gethsemane and Jesus was taken there (184:0.3) (184:2.10)
+	he was disturbed by Jesus’ refusal to answer him (184:1.4-5)
+	that is when Annas’ chief steward struck Jesus in the face (184:1.6) (186:2.5)
+	as he saw that he did not get anything from Jesus he sent him bound to Caiaphas (184:1.9)
 > https://en.wikipedia.org/wiki/Annas
 
-Annon | | | PERSON |
-Mary mother of Jesus a descendant of (122:1.2)
+Annon | | | PERSON | OK
+Mary, the mother of Jesus, was a descendant of Annon, an unknown woman whose name does not appear in the Bible (122:1.2)
 
-Anova | | | PLACE |
-oldest inhabited world of Satania (49:0.5)
+Anova | | | PLACE | OK
+The oldest inhabited world of Satania, world number one, is Anova, one of the forty-four satellites revolving around an enormous dark planet but exposed to the differential light of three neighboring suns. Anova is in an advanced stage of progressive civilization. (49:0.5)
 
-Ansie | | | PERSON |
-Mary mother of Jesus a descendant of (122:1.2)
+Ansie | | | PERSON | OK
+Mary, the mother of Jesus, was descended from Ansie, an unknown woman whose name does not appear in the Bible (122:1.2)
 
-Antarctica | (61:2.3) (61:5.3) | | PLACE | 
-drifted south (58:4.3)
-rose out of Pacific depths (57:8.21)
-vast ice sheets began to form 100,000 years ago (61:7.11)
+Antarctica | (61:2.3) (61:5.3) | | PLACE | OK
+Antarctica, Australia, and the land indicated by the islands of the Pacific broke away on the south and east and have drifted far away since that day. (58:4.3)
+rose out of Pacific depths. Europe and Africa began to rise out of the Pacific depths along with those masses now called Australia, North and South America, and the continent of Antarctica, while the bed of the Pacific Ocean engaged in a further compensatory sinking adjustment. (57:8.21)
+the vast polar ice sheets like the one in Antartica began to form 100,000 years ago and as long as the polar regions continue to be covered with ice, it is hardly possible for another glacial age to occur (61:7.11)
+> https://en.wikipedia.org/wiki/Antarctica
 
-Antares | | | PLACE |
-largest star in local universe (41:3.2)
+Antares | | | PLACE | OK
+Antares is the largest star in local universe of Nebadon, and is four hundred and fifty times the diameter of your sun and is sixty million times its volume (41:3.2)
+> https://es.wikipedia.org/wiki/Antares
 
-anteaters | (61:4.4) | | | 
+anteaters | (61:4.4) | | | OK
 
-antelopes | (61:4.3) | | | 
+antelopes | (61:4.3) | | | OK
 
-anthracite | | | |
-subjected to more pressure and heat than other coal (59:5.16)
+anthracite; Anthracite | | | | OK
+Anthracite has been subjected to more pressure and heat than other coal. (59:5.16)
+> https://en.wikipedia.org/wiki/Anthracite
 
-anthropomorphism | | | |
-highest attainment of purely evolutionary religion (5:4.9)
+anthropomorphism | | | | OK
+An exalted anthropomorphism is the highest attainment level of purely evolutionary religion. (5:4.9)
+> https://en.wikipedia.org/wiki/Anthropomorphism
+> https://en.wikipedia.org/wiki/Euhemerism
 
-antigravity | | gravity | |
+antigravity; Antigravity; antigravity forces | | gravity | | OK
 alternate flow of space levels exerts antigravity influence (11:7.9)
-annuls physical gravity within local frame (9:3.3)
+Antigravity can annul gravity within a local frame; it does so by the exercise of equal force presence. (9:3.3)
+Antigravity is also employed in Havona in the organization of the material functions and the spiritual activities of these enormous worlds. (14:3.6)
+It operates only with reference to material gravity, and it is not the action of mind. (9:3.3)
+Pervaded space also exerts an antigravity influence upon physical or linear gravity; space can actually neutralize such gravity action even though it cannot delay it. (11:8.3)
+prevents gravity from converting all energy into matter. Given a sufficient duration of retarding influence, gravity would eventually convert all energy into matter were it not for two factors: First, because of the antigravity influences of the energy controllers, and second, because organized matter tends to disintegrate under certain conditions. (15:8.5-6,10)
+ultimatonic energies sometimes exhibit antigravity behaviour (42:4.10) (42:6.3)
+Evolving energy has substance; it has weight, although weight is always relative, depending on revolutionary velocity, mass, and antigravity. (15:8.3)
 beings endowed with antigravity
-	Census Directors (24:0.10)
-	Infinite Spirit (7:1.2) (9:3.2-3)
-	local universe Mother Spirits (34:2.2)
-	Master Physical Controllers (9:3.6) (29:3.6) (29:4.19,35) (42:4.3)
-	Personal Aids of the Infinite Spirit (24:0.10)
-	seven Supreme Power Directors (9:3.6) (29:3.6)
-	Solitary Messengers (24:0.10)
-	Supreme Power Centers (9:3.6) (29:3.6) (42:4.3)
-	Universe Circuit Supervisors (24:0.10)
-employed in Havona (14:3.6)
-operates only with respect to material gravity (9:3.3)
-pervaded space exerts antigravity influence on linear gravity (11:8.3)
-prevents gravity from converting all energy into matter (15:8.5-6,10)
-ultimatonic energies sometimes exhibit (42:4.10) (42:6.3)
-weight of energy depends on (15:8.3)
+	* Census Directors (24:0.10)
+	* Infinite Spirit (7:1.2) (9:3.2-3)
+	* local universe Mother Spirits (34:2.2)
+	* Master Physical Controllers (9:3.6) (29:3.6) (29:4.19,35) (42:4.3)
+	* Personal Aids of the Infinite Spirit (24:0.10)
+	* seven Supreme Power Directors (9:3.6) (29:3.6)
+	* Solitary Messengers (24:0.10)
+	* Supreme Power Centers (9:3.6) (29:3.6) (42:4.3)
+	* Universe Circuit Supervisors (24:0.10)
+> https://en.wikipedia.org/wiki/Anti-gravity
 
-Antioch | (130:0.3) | | PLACE | 
-believers at Antioch sent funds to Jerusalem (194:4.7)
-Cedes made record of Jesus’ life at (121:8.9)
-close connection with Jerusalem (121:2.5)
-flagrantly immoral capital of Roman province of Syria (133:8.1)
-headquarters of Pauline Christianity (171:1.6)
-Jesus and Ganid at (133:8)
-Jesus revisited for 2 months (134:7.3)
-notorious grove of Daphne at (133:8.1)
-Paul’s disciples first called Christians at (121:2.5) (194:4.13)
-Peter in (139:2.7)
+Antioch | (130:0.3) | | PLACE | OK
+Antioch was the capital of the Roman province of Syria, and here the imperial governor had his residence. Antioch had half a million inhabitants; it was the third city of the empire in size and the first in wickedness and flagrant immorality. (133:8.1)
+Jesus and Antioch
+	Jesus and his pupil Ganid were for some time at Antioch (133:8)
+	Jesus revisited Antioch for two months, working, observing, studying, visiting, ministering, and all the while learning how man lives, how he thinks, feels, and reacts to the environment of human existence. (134:7.3)
+	Jesus visited all parts of Antioch but refused to visit the notorious grove of Daphne (133:8.1)
+Early christians and Antioch
+	Paul’s disciples first called Christians at Antioch (121:2.5) (194:4.13)
+	Peter also preached there (139:2.7)
+	When the dwindling resources due to the early Christians’ “equal-sharing” ran out over time, believers in Antioch sent funds to Jerusalem (194:4.7)
+	Cedes, a christian believer, made record of Jesus’ life at Antioch (121:8.9)
+	There was very close connection between the culture, commerce, and worship of Jerusalem and Antioch. (121:2.5)
+	Within a short time after the destruction of Jerusalem, Antioch became the headquarters of Pauline Christianity, while Philadelphia remained the center of the Abnerian kingdom of heaven. (171:1.6)
+> https://en.wikipedia.org/wiki/Antioch
 
-Antipatris | (127:6.4) (143:0.1) | | PLACE | 
+Antipatris | (127:6.4) (143:0.1) | | PLACE | OK
+> https://en.wikipedia.org/wiki/Antipatris
 
-antithesis | | | |
-Jesus employed (159:5.17)
+antithesis | | | | OK
+Jesus effectively employed the antithesis, comparing the minute to the infinite and so on (159:5.17)
+> https://en.wikipedia.org/wiki/Antithesis
 
-Antonia (fortress) | (183:2.3) | | PLACE | 
-Jesus’ trial in praetorium of (185:0.2)
-Roman castle in Jerusalem (162:4.2) (189:2.4)
+Antonia (fortress) | (183:2.3) | | PLACE | OK
+The fortress of Roman was a castle in Jerusalem located in a corner of the Temple (162:4.2) (189:2.4)
+Jesus’ trial take place in praetorium, an addition to the fortress of Antonia, where Pilate and his wife made their headquarters when stopping in Jerusalem. (185:0.2)
+> https://en.wikipedia.org/wiki/Antonia_Fortress
 
-Anu | | | PERSON |
+Anu | | | PERSON | OK
 Mesopotamian god of sky (95:1.4)
 > https://en.wikipedia.org/wiki/Anu
 
-anxiety | | conflict; confusion; doubt | |
-antidoted by consolation, stabilization of sound religion (99:4.6)
-be not mindful of things which foster anxiety (48:7.21) (137:1.6)
-be not worried about things of temporal life (165:5.2)
-can induce mystic state (100:5.10)
-demoralization by thoughtless panic of (113:2.5)
-discount anxiety in favor of certainties of future (48:4.6)
-distorts our minds (9:5.7)
-humor prevents injurious nervous tension (48:4.16-19)
-in thanksgiving, let needs be spread out before Father (146:2.16)
-inhibits activity, institutes biologic adaptations (86:2.1)
-Jesus preached against (140:8.3)
-material irritation of immaturity (160:1.6) (160:3.5)
-natural state of savage mind (86:2.1)
-our anxiety are part of divine plan (23:2.12)
-prayer, worship avoid emotional tension (143:7.3) (196:0.10)
-senselessness of much that causes us serious concern (48:4.6)
-sufficient for day is trouble thereof (140:6.13)
-thwarts work of Adjuster (108:6.2)
+anxiety; anxious; anxieties | | conflict; confusion; doubt | | OK
+During the psychologically unsettled times of the twentieth century, amid the economic upheavals, the moral crosscurrents, and the sociologic rip tides of the cyclonic transitions of a scientific era, thousands upon thousands of men and women have become humanly dislocated; they are anxious, restless, fearful, uncertain, and unsettled; as never before in the world’s history they need the consolation and stabilization of sound religion. (99:4.6)
+anxiety can induce mystic state confused with Thought Adjuster communion, but it is not the case (100:5.10)
+many times we are demoralized by thoughtless panic of dread and anxiety (113:2.5)
+Too often, all too often, we mar our minds by insincerity and sear them with unrighteousness; we subject them to animal fear and distort them by useless anxiety. (9:5.7)
+Our anxieties and sorrows, our trials and disappointments, are just as much a part of the divine plan on our sphere as are the exquisite perfection and infinite adaptation of all things to their supreme purpose on the worlds of the central and perfect universe. (23:2.12)
+much that causes us serious concern often are senselessness (48:4.6)
+many of man’s foolish animal fears and childish anxieties thwarts work of Adjuster (108:6.2)
+Jesus
+	Jesus said: “Be not constantly overanxious about your common needs. Be not apprehensive concerning the problems of your earthly existence, but in all these things by prayer and supplication, with the spirit of sincere thanksgiving, let your needs be spread out before your Father who is in heaven.” (146:2.16)
+	Be not unduly anxious for the morrow. Sufficient for the day is the trouble thereof.” (140:6.13)
+	Anxiety must be abandoned. We must be not mindful of those things which foster our anxiety but rather at all times concern ourselves only with doing the will of the Father who is in heaven. (48:7.21) (137:1.6)
+	“Be not anxious or worried about the things of the temporal life, what you shall eat, nor yet for your body, what you shall wear.” (165:5.2)
+	Jesus did not preach against forethought but anxiety, worry. (140:8.3)
+	The gospel of the kingdom provides a such vantage points of high living, that man is able to transcend the material irritations of the lower levels of thinking—worry, jealousy, envy, revenge, and the pride of immature personality. (160:1.6) (160:3.5)
+	For Jesus prayer and worship are a way to avoid emotional tension (143:7.3) (196:0.10)
+Humor, the cure for anxiety
+	thanks to humor we are best able to discount the anxieties of the present in favor of the certainties of the future. (48:4.6)
+	While the humor of Urantia is exceedingly crude and most inartistic, it does serve a valuable purpose both as a health insurance and as a liberator of emotional pressure, thus preventing injurious nervous tension and overserious self-contemplation. (48:4.16-19)
+	Anxiety was a natural state of the savage mind. (86:2.1)
+	When men and women fall victims to excessive anxiety, they are simply reverting to the natural estate of their far-distant ancestors; and when anxiety becomes actually painful, it inhibits activity and unfailingly institutes evolutionary changes and biologic adaptations. (86:2.1)
+> https://en.wikipedia.org/wiki/Anxiety
 
-Apennines | (61:1.12) | | PLACE | 
+Apennines | (61:1.12) | | PLACE | OK
+> https://en.wikipedia.org/wiki/Apennine_Mountains
 
-Aphrodite | | | PERSON |
-goddess of beauty, pleasure and love
-Ishtar cult in Greece (95:1.7)
-transplanted to Rome, Aphrodite became Venus (98:3.3)
+Aphrodite | | | PERSON | OK
+goddess of beauty, sensuality and love
+Aphrodite is the name given to the goddess Ishtar in Greece (95:1.7)
+when the cult of Aphrodite was brought to Rome, Aphrodite became Venus (98:3.3)
 > https://en.wikipedia.org/wiki/Aphrodite
 
-apocalyptists | | | |
-taught Jews’ sufferings were penalty for nation’s sins (135:5.2)
+apocalyptists | | | | OK
+About one hundred years before the days of Jesus and John a new school of religious teachers arose in Palestine, the apocalyptists. These new teachers evolved a system of belief that accounted for the sufferings and humiliation of the Jews on the ground that they were paying the penalty for the nation’s sins. (135:5.2)
+> https://en.wikipedia.org/wiki/Apocalyptic_literature
 
-apocrypha | | | |
-Book of Enoch (126:3.6-8) (136:1.6)
-Book of Wisdom (95:4.3) (96:1.5)
+apocrypha; Book of Enoch; Book of Wisdom | | | | OK
+The Urantia Book mentions two apocryphal biblical books, which are not in canon:
+	* Book of Enoch (126:3.6-8) (136:1.6)
+	* Book of Wisdom (95:4.3) (96:1.5)
+> https://en.wikipedia.org/wiki/Book_of_Enoch
+> https://en.wikipedia.org/wiki/Book_of_Wisdom
 
 Apollo | | | PERSON |
-temple located on Palatine hill in Rome (132:0.2)
+Apollo, the god of music and the arts, had a temple located on the Palatine Hill in Rome (132:0.2)
 > https://en.wikipedia.org/wiki/Apollo
 
-apostles of Jesus | (138) (145:4.1) (150:4) (158:0.2) (158:2.5) (172:5) (173:5.6) (184:2.2) (193:3.2) | apostleship | PERSON |
-the group of twelve followers that started with Jesus
-named | Alpheus twins; Andrew; James Zebedee; John Zebedee; Judas Iscariot; Matthew Levi; Matthias; Nathaniel (Apostle); Paul; Philip (Apostle); Simon Peter; Simon Zelotes; Thomas Didymus
-personal descriptions (139)(144:6-7) (147:2.4) (162:9)
-most married, some had several children (138:9.3)
-all except Alpheus twins graduates of synagogue schools (139:0.3-4)
-not made alike by schooling (139:0.3-4)
-majority were rugged fishermen (140:8.20)
+apostles of Jesus | (138) (145:4.1) (150:4) (158:0.2) (158:2.5) (172:5) (173:5.6) (184:2.2) (193:3.2) | apostleship | PERSON | OK
+The apostles were the group of twelve followers with whom Jesus began his preaching
+their names:
+	* Andrew | Andrew
+	* Simon Peter | Simon Peter
+	* James Zebedee | James Zebedee
+	* John Zebedee | John Zebedee
+	* Philip | Philip (Apostle)
+	* Nathaniel | Nathaniel (Apostle)
+	* Matthew Levi | Matthew Levi
+	* Thomas Didymus | Thomas Didymus
+	* James Alpheus | Alpheus twins
+	* Judas Alpheus
+	* Simon Zelotes | Simon Zelotes
+	* Judas Iscariot | Judas Iscariot
+	* Other known were Matthias and Paul, although the latest never met Jesus | Matthias; Paul
+The Urantia Book gives detailed personal descriptions of each (139)
+most were married, and some had several children (138:9.3)
+all except the Alphaeus twins were graduates of synagogue schools (139:0.3-4)
+most were rough fishermen (140:8.20)
+they were not all the same in terms of schooling (139:0.3-4)
 many carried swords (171:4.1) (172:0.3) (172:2.1) (172:5.2)
-many martyred | martyrs
+many were martyred | martyrs
 organization
-	organization (138:10)
-	Andrew was chief (139:1.2)
-	Peter, James, and John were personal aids to Jesus (138:10.3)
-	Philip was apostolic steward (139:5.3)
-	Nathaniel watched over a.’s families (139:6.7)
-	Thomas managed itinerary (139:8.5)
-	Matthew was fund-raiser (139:7.2)
-	Simon in charge of diversion and relaxation (139:11.2)
-	Alpheus twins were errand-boys; managed multitudes (139:10.3)
+	their organization is detailed in The Urantia Book (138:10)
+	Andrew was the chief (139:1.2)
+	Peter, James, and John were Jesus' personal aids (138:10.3)
+	Philip was the apostolic steward (139:5.3)
+	Nathanael cared for the families of the apostles (139:6.7)
+	the itinerary was managed by Thomas (139:8.5)
+	Matthew was a fund-raiser (139:7.2)
+	Simon was in charge of diversion and relaxation (139:11.2)
+	The Alphaeus twins were the errand boys; those who took care of the multitudes (139:10.3)
 	Judas Iscariot was treasurer (139:12.3)
-	Matthias chosen to take place of Judas (192:0.2)
-life with Jesus
-	called Jesus “Master” (100:7.17) (141:3.5) (149:2.12)
-	called Jesus “Rabbi” (137:7.2)
-	cheerfully ignorant of rabbinical learning (138:8.7) (139:0.4)
-	chosen family of Jesus’ advisers (137:1.7) (140:2.2)
-	studied 3 hours each evening (137:6.5) (137:7.14)
-	should disregard selves, take up responsibilities daily (158:7.5)
-	apostles of John the Baptist accompanied (146:0.1) (146:3.9)
-	dependent families cared for (138:7.4) (138:8.1) (139:6.7)
-	never openly solicited funds from the multitude (139:7.8)
-	forbidden to become embroiled in politics (120:3.4) (137:7.5,12) (139:11.9) (140:8.9) (167:5.6)
-	enemy would seek to draw away (138:7.3)
-	Father supplies needs of (140:6.13) (165:5.2-3)
-	should not be anxious for their lives (140:6.13)
-	regarded Jesus as best friend (138:9.1) (161:2.3)
-	Wednesdays were rest days for (138:6.2) (141:3.1)
-	intoxicated by healing of 683 at sundown (145:4.1)
-	urged Jesus to perform healings (145:5.5) (146:4.6) (147:3.2)
-	ministry to the sick (141:4.4)
-	strict rules on working with women (150:2.2)
-	feared for their safety (153:5.1)
-	serious, sober, chastened group of disillusioned men (152:6.1)
-	boldness of Jesus terrified apostles (162:1.1,2,11)
+	Matthias was chosen to take the place of Judas (192:0.2)
+experience with Jesus
+	they called Jesus “Master” (100:7.17) (141:3.5) (149:2.12)
+	they also called Jesus “Rabbi” (137:7.2)
+	the apostles were cheerfully ignorant of much of rabbinic learning and yet pious and righteous (138:8.7) (139:0.4)
+	the term apostle designated the chosen family of advisers of Jesus from among all believers (137:1.7) (140:2.2)
+	they had to study 3 hours each evening in preparation (137:6.5) (137:7.14)
+	whoever wanted to become apostles should disregard himself and take up his responsibilities daily (158:7.5)
+	on many occasions they were accompanied by the apostles of John the Baptist (146:0.1) (146:3.9)
+	they had to work to keep their families cared for (138:7.4) (138:8.1) (139:6.7)
+	Matthew never openly solicited funds from multitudes (139:7.8)
+	Jesus forbade them to become embroiled in politics (120:3.4) (137:7.5,12) (139:11.9) (140:8.9) (167:5.6)
+	Jesus warned them that the enemy would try to drive them away from each other (138:7.3)
+	Jesus instructed them not to worry about the future because the Father supplies all the needs of the diligent (140:6.13) (165:5.2-3)
+	he told them not to be anxious for their lives (140:6.13)
+	they considered Jesus their best friend (138:9.1) (161:2.3)
+	Wednesdays were established by Jesus as days of rest for the apostles (138:6.2) (141:3.1)
+	his moment of maximum ecstasy was with the healing of 683 people at sunset (145:4.1)
+	they urged Jesus many times to perform cures, something that was not in the purpose of Jesus (145:5.5) (146:4.6) (147:3.2)
+	Jesus asked them to dedicate themselves to ministering to the sick (141:4.4)
+	Andrew imposed strict rules on working with women that Jesus took it upon himself to modify (150:2.2)
+	on several occasions they feared for their own safety (153:5.1)
+	the twelve were often a serious, sober, and chastened group of disillusioned men (152:6.1)
+	Jesus' boldness terrified the apostles (162:1.1,2,11)
 	attempted to dissuade Jesus from entering Judea (167:4.4,7)
-	all of one flesh (138:5.1)
-	chosen by Father (181:1.4)
-	rise and fall of faith of (158:1.5)
-	did not assist cleansing of temple (173:1.10)
-	did not grasp Jesus’ teaching (138:7.1-3) (144:1.1,7) (170:2.10) (171:0.2-4)
-	each taught own view of gospel (148:1.2)
-	personal loyalty to Jesus transcended faith in teachings (137:7.2) (138:7.3) (138:9.1) (140:7.8) (143:4.3) (144:1.1)
-	resented Judas’s treachery (182:2.4)
+	Jesus accepted Judas, a Jew, telling him that they were all of one flesh (138:5.1)
+	the apostles are counted among the few who chose to fully receive Jesus (181:1.4)
+	they went several times through a rise and then a fall of faith in Jesus (158:1.5)
+	they did not help Jesus cleanse the temple (173:1.10)
+	did not fully understand the teaching of Jesus (138:7.1-3) (144:1.1,7) (170:2.10) (171:0.2-4)
+	each taught his own vision of the gospel (148:1.2)
+	Personal loyalty to Jesus of the apostles transcended faith in the teachings (137:7.2) (138:7.3) (138:9.1) (140:7.8) (143:4.3) (144:1.1)
+	they were very resentful of Judas for his betrayal (182:2.4)
 beliefs of apostles
-	blinded by belief in temporal kingdom, materialistic
-	Messiah (152:6.1) (157:4.1) (158:4.4) (171:0.2-4) (171:1.3) (171:2.6) (180:6.9) (181:2.7,23)
-	concept of kingdom of heaven (170:2.13-16)
-	Jesus’ immediate second coming (170:4.16)
-	Jesus was Eternal Son (33:1.2) (157:5.1) (161:1.6-8)
-	Jesus was immortal (171:3.5)
-	Jesus was Messiah (157:4.1) (157:6.2)
-	Messiah would sit on throne of David (141:2.1) (194:4.1)
-	desired preference (138:7.1) (158:4.4) (158:6.2-3) (158:8.1) (171:0.6) (179:1.6) (179:3.9)
-	women not equal to men (143:5.11)
-	miracle-minded (152:1.2)
-	took offense at others teaching in Jesus’ name (159:2.3)
+	the apostles were blinded by the belief in the temporal, materialistic realm
+	they believed in the Messiah (152:6.1) (157:4.1) (158:4.4) (171:0.2-4) (171:1.3) (171:2.6) (180:6.9) (181:2.7,23)
+	they deviated with their concept of the kingdom of heaven from the concept of Jesus (170:2.13-16)
+	they believed in the immediate second coming of Jesus (170:4.16)
+	for them Jesus was the Eternal Son (33:1.2) (157:5.1) (161:1.6-8)
+	they thought Jesus was immortal (171:3.5)
+	they believed that Jesus was the Messiah (157:4.1) (157:6.2)
+	their belief was that the Messiah would sit on the throne of David (141:2.1) (194:4.1)
+	on several occasions the apostles asked Jesus for a preference (138:7.1) (158:4.4) (158:6.2-3) (158:8.1) (171:0.6) (179:1.6) (179:3.9)
+	they believed that women are not equal to men (143:5.11)
+	they were miracle-minded, believed in miracles (152:1.2)
+	were offended when others taught in the name of Jesus (159:2.3)
 Jesus
-	believed in faith of apostles (157:4.6)
-	trusted and loved (137:6.5)
-	required apostles to dedicate all their possessions to the common cause (140:6.11,13) (140:8.16) (161:2.3) (163:2.2-11)(163:3.3)(165:4.5)(165:5.2)(194:3.16)
-	religion to be exclusive business of (140:8.30) (141:7.4)
-	relations with John’s apostles (141:1.4-5) (141:3.3) (141:6.5) (143:3.1,5,7) (144:0.2) 
-	did not reveal plans to apostles (141:0.1)
-	sent apart to pray (155:5.14) (157:4.8) (157:7.2)
-	sent forth by twos (138:1.1) (138:7.2) (193:3.2)
-	forewarned apostles of Judas’s betrayal (153:5.4) (177:5.2) (179:3.6) (179:4)
-	did not wish apostles present at his arrest (183:0.3)
-	gave apostles authority over all things temporal regarding the kingdom (140:2.2-3) (157:4.5)
-	kept apostles in service-contact with multitudes (91:7.2)
-	not to be imposed on by professional alms-seekers (140:8.12)
-	obligated apostles to abide by practices reflective of Jesus’ ideals (140:3.1) (140:6.8) (142:7.2)
-	prayed apostles be kept from evil, sanctified in truth (182:1.5)
-	prayed to be honored in apostles (182:1.4)
-	realized apostles to be weak and ignorant (182:3.9)
-	subjected to repeated disappointment, testing (139:0.1) (145:4.3) (153:1.3) (153:5.1) (157:4.1) (158:5.4) (177:4.11)
-	warned not to endanger their lives (176:1.3-4) (181:2.15) (183:4.2) (184:2.2) (191:0.5)
-	wished for unity among (137:6.6)
+	Jesus believed in the faith of the apostles (157:4.6)
+	Jesus trusted his apostles and loved them (137:6.5)
+	he required the apostles to dedicate all their possessions to the common cause (140:6.11,13) (140:8.16) (161:2.3) (163:2.2-11) (163:3.3) (165:4.5) (165:5.2) (194:3.16)
+	he indicated to them that religion would be an exclusive matter for the apostles (140: 8.30) (141: 7.4)
+	Jesus saw to it that the apostles had good relations with the apostles of John (141:1.4-5) (141:3.3) (141:6.5) (143:3.1,5,7) (144:0.2) (144:6-7) (147:2.4) (162:9)
+	sometimes he did not reveal his plans to the apostles (141:0.1)
+	he often sent them aside to pray (155:5.14) (157:4.8) (157:7.2)
+	he sent them to preach two by two (138:1.1) (138:7.2) (193:3.2)
+	he forewarned the apostles of Judas' betrayal (153:5.4) (177:5.2) (179:3.6) (179:4)
+	he did not want the apostles to be present at his arrest (183:0.3)
+	he gave the apostles an authority over all temporal things with respect to the kingdom (140:2.2-3) (157:4.5)
+	he kept the apostles in service by contact with the multitudes (91:7.2)
+	he taught them to share with the poor, but not to be fooled by social parasites or professional beggars (140:8.12)
+	he forced the apostles to comply with practices that reflected the ideals of Jesus (140:3.1) (140:6.8) (142:7.2)
+	he prayed for the apostles to keep them from evil and sanctify them in truth (182:1.5)
+	he prayed to be honored in the apostles as he honored his Father (182:1.4)
+	he realized how weak and ignorant his apostles were (182:3.9)
+	the apostles underwent repeated disappointments and trials (139:0.1) (145:4.3) (153:1.3) (153:5.1) (157:4.1) (158:5.4) (177:4.11)
+	he warned them not to endanger their lives (176:1.3-4) (181:2.15) (183:4.2) (184:2.2) (191:0.5)
+	he wanted unity among the apostles (137:6.6)
 ordination
-	on January 12, A.D. 27 (140)
-	consecration charge (140:9.2)
-	separate from all other men on earth (140:3.1)
-	Jesus reenacted in 14th appearance (192:3)
+	on January 12, AD 27 (140)
+	during the post-ordination consecration Jesus instructed them with a special charge (140:9.2)
+	Jesus proclaims them men separated from all other men on earth (140:3.1)
+	Jesus showed up again on the same mount of ordination in the 14th apparition (192:3)
 resurrection
-	refused to believe Jesus risen (189:5.3) (190:1.1)
-	after resurrection, Jesus left apostles alone for a few hours (190:2.7) (190:3.1) (190:4.2) (191:0.13)
+	they refused to believe that Jesus had risen (189:5.3) (190:1.1)
+	after the resurrection, Jesus left the apostles for only a few hours (190:2.7) (190:3.1) (190:4.2) (191:0.13)
 after Pentescost
-	after Pentecost, apostles were bold followers of living Lord (194:4.2)
-	spiritual progress after Pentecost (194:2.9)
-	turned Roman Empire upside down (195:6.9)
+	after Pentecost, the apostles were valiant followers of the living Lord (194:4.2)
+	the apostles greatly increased their spiritual progress after Pentecost (194:2.9)
+	turned the Roman Empire upside down (195:6.9)
 > https://en.wikipedia.org/wiki/Apostles_in_Christianity
 
-apostles of John the Baptist | (135:9.1) | | PERSON | 
-12 leaders appointed as (144:6.1)
-instructions to (135:6.8)
-politics and preferment among (135:9.5)
-anointed sick with oil (150:0.2)
-relations with apostles of Jesus (141:3.3) (141:6.5) (143:3.1,5,7) (144:0.2) (144:6-7) (146:0.1) (146:3.9) (147:2.4)
-Jesus refused to participate in joint conferences (141:3.3)
-finally and fully won over to Jesus (144:7.2) (162:9.1-5)
-never knew why Jesus did not prevent John’s death (141:1.4)
+apostles of John the Baptist | (135:9.1) | | PERSON | OK
+they were a group of 12 leaders appointed as apostles by John (144:6.1)
+these apostles first received their instruction from John (135:6.8)
+politics and selfish preferences provoked many arguments among John's disciples (135:9.5)
+they anointed the sick with oil, a rite that Jesus' apostles refused to adopt (150:0.2)
+Jesus saw to it that his apostles maintained good relations with John's apostles (141:3.3) (141:6.5) (143:3.1,5,7) (144:0.2) (144:6-7) (146:0.1) (146:3.9) (147:2.4)
+Jesus refused to participate in the joint conferences in which they discussed with his apostles (141:3.3)
+they were finally won to the cause of Jesus (144:7.2) (162:9.1-5)
+they never knew why Jesus did not prevent John's death (141:1.4)
 
 apostleship | | disciples | |
-requirements (140:3.1) (140:6.9-13) (140:8.16) (142:7.2) (163:2.6,11) (163:3.3) (165:4.5) (165:5.2) (171:2)
+the hard requirements made by Jesus to apostles: (140:3.1) (140:6.9-13) (140:8.16) (142:7.2) (163:2.6,11) (163:3.3) (165:4.5) (165:5.2) (171:2)
+	* live as those who have tasted the glories of a better life and have been sent back to earth as ambassadors of the Sovereign of that new and better world.
+	* return good for evil.
+	* mercy always shall determine judgements
+	* Be willing, then, to take up the responsibilities and follow him.
+	* Do your good deeds in secret
 
 Appalachian Mountains | (59:4.16) (59:5.20) (60:3.13) | | PLACE | 
 almost completely worn down in Cretaceous (60:3.5)
@@ -1921,6 +1969,11 @@ Architects of the Master Universe | (31:9) | Transcendentalers | ORDER |
 close relationship to Creator Sons (31:9.14)
 creature will operates within limits established by (118:7.1)
 embody Deity concept of universes (118:4.6)
+in Paradise classification (30:1.94)
+members of 1st experiential Trinity (0:12.6) (31:9.14) (106:3.2)
+Personalized Adjusters are executives of (109:6.7) (109:7.3)
+relationship to Inspired Trinity Spirits, Solitary Messengers (31:9.13)
+transcendental beings (30:1.93) (105:7.7)
 function
 	7 superuniverse architects associate with Seven Master
 	Spirits and Seven Supreme Executives (31:9.5)
@@ -1938,16 +1991,11 @@ function
 	provide Creator Sons and Ancients of Days with permanent ascendant populations (40:10.4)
 	spheres of space appear in accordance with plans of (41:0.2)
 	supercreational creature-trinitized sons are wards of (22:7.10,14) (23:4.3-4) (31:9.13)
-in Paradise classification (30:1.94)
-members of 1st experiential Trinity (0:12.6) (31:9.14) (106:3.2)
-Personalized Adjusters are executives of (109:6.7) (109:7.3)
-relationship to Inspired Trinity Spirits, Solitary Messengers (31:9.13)
 senior Architect
 	co-ordinates all below level of Deity (31:9.1)
 	co-ordinates Paradise and sacred spheres (31:9.3)
 	is chief of Transcendentalers (31:8.4) (31:9.1)
 	oversees 7 finaliter corps (31:10.1)
-transcendental beings (30:1.93) (105:7.7)
 
 architectural spheres | (15:7) | | PLACE | 
 10 forms of material life on (43:6.4,7) (46:2.5)
