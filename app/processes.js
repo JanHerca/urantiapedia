@@ -41,8 +41,7 @@ const Processes = {
 			es: "Actualizar Refs Biblia en Libro de Urantia (JSON)"
 		},
 		controls: ['dirJTextbox'],
-		// paths: [['input', 'json', 'book-{0}']]
-		paths: [['tests','book-{0}']]
+		paths: [['input', 'json', 'book-{0}']]
 	},
 	"BOOK_HTML_TO_JSON": {
 		active: true,

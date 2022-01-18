@@ -956,8 +956,8 @@ const showTILinesUB = () => {
 				similarSen2 = (is2EN ? similarSenEN : similarSenNotEN);
 				
 				//TODO: next lines could fail for some languages with different sentence endings
-				const arSen1 = par1.replace(/([.?!])\s*(?=[A-Z])/g, "$1|").split("|");
-				const arSen2 = par2.replace(/([.?!])\s*(?=[A-Z])/g, "$1|").split("|");
+				const arSen1 = par1.replace(/([.?!])/g, "$1|").split("|");
+				const arSen2 = par2.replace(/([.?!])/g, "$1|").split("|");
 				if (arSen1.length > index && arSen2.length > index) {
 					arSen1[index] = `<strong>${arSen1[index]}</strong>`;
 					arSen2[index] = `<strong>${arSen2[index]}</strong>`;

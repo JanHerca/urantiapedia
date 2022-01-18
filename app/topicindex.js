@@ -816,7 +816,7 @@ class TopicIndex {
 					html += `<${h}> ${subcontent} </${h}>\r\n`;
 					writeRefs(line.refs);
 				} else {
-					if (marks.length === 0 && !subcontent.endsWith('.')) {
+					if (!subcontent.match(/[.:!?]$/)) {
 						subcontent += '.';
 					}
 					if (marks.length > 0) {
@@ -892,6 +892,8 @@ class TopicIndex {
 							}
 						}
 					} else if (i === lines.length - 1 || 
+						(nextline && line.level === nextline.level && 
+							nextMarks.length > 0) ||
 						(nextline && line.level != nextline.level) ||
 						(nextline2 && nextline.level < nextline2.level)) {
 						//Add end of paragraph

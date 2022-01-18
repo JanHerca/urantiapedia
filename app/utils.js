@@ -506,9 +506,9 @@ exports.sentenceSimilarity = (s1, s2) => {
  */
 exports.getMostSimilarSentence = (parEN, par, sEN) => {
 	//Split english parragraph into sentences
-	const arSenEN = parEN.replace(/([.?!])\s*(?=[A-Z])/g, "$1|").split("|");
+	const arSenEN = parEN.replace(/([.?!])/g, "$1|").split("|");
 	//TODO: next line could fail for some languages with different sentence endings
-	const arSen = par.replace(/([.?!])\s*(?=[A-Z])/g, "$1|").split("|");
+	const arSen = par.replace(/([.?!])/g, "$1|").split("|");
 
 	if (arSenEN.length === 0 || arSen.length === 0) return [];
 
