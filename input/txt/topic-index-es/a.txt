@@ -754,7 +754,7 @@ estética; culto estético | | | | OK
 una buena filosofía religiosa no reconoce que el culto estético a las puras maravillas sea un sustituto de la religión (101:7.5)
 alcanzar unos niveles cosmológicos de pensamiento incluye la apreciación estética, el amor por lo bello (56:10.7)
 
-afectación; simulación | | | | 
+afectación; simulación | | | | OK
 Jesús estaba exento de simulación; era siempre refrescantemente auténtico (100:7.2)
 La afectación es el esfuerzo ridículo de los ignorantes por parecer sabios, el intento del alma estéril por parecer rica. (48:7.17)
 
@@ -1724,7 +1724,7 @@ apocalípticos | | | | OK
 Unos cien años antes de los tiempos de Jesús y de Juan, una nueva escuela de educadores religiosos había surgido en Palestina, la de los apocalípticos. Estos nuevos instructores desarrollaron un sistema de creencias que explicaba los sufrimientos y la humillación de los judíos sobre la base de que estaban pagando las consecuencias de los pecados de la nación. (135:5.2)
 > https://es.wikipedia.org/wiki/Apocalíptico_(género_literario)
 
-libros apócrifos; Libro de Enoc; Libro de los Proverbios | | | | 
+libros apócrifos; Libro de Enoc; Libro de los Proverbios | | | | OK
 El Libro de Urantia menciona dos libros bíblicos apócrifos, que no están en el canon:
 	* El Libro de Enoc (126:3.6-8) (136:1.6)
 	* El Libro de la Sabiduría (95:4.3) (96:1.5)
@@ -2103,7 +2103,7 @@ Arrio fue un sacerdote que en el concilio de Nicea defendió la idea de la subor
 
 arca de Noé | | Noé (viticultor de Aram) | | OK
 
-arca de Yahvé; arca | | | | 
+arca de Yahvé; arca | | | | OK
 El origen de la veneración del arca se debe a que Moisés consintió en poner reliquias junto a la ley y formar con ello una mezcla de alta de guerra y santuario religioso para evitar intentar desplazar demasiado rápido a los fetiches de sus seguidores (88:2.5)
 El rey David ganó el arca después de la derrota de los filisteos, la llevó a Jerusalén e instaló oficialmente el culto a Yahvé en su reino (97:9.14)
 en cada sinagoga hay un cofre con las escrituras sagradas llamado el arca o hejal (150:8.6,8)
@@ -2162,140 +2162,164 @@ artrópodos | | crustáceos | | OK
 
 artificialidad | | insinceridad | | OK
 
-artistas del olor | | | ORDER | 
-Diseñadores y los Embellecedores de Artesanos Celestiales (44:6.6)
+artistas del olor | | Diseñadores y los Embellecedores; Artesanos Celestiales | ORDER | OK
+Los artistas del olor forman parte del grupo de los Diseñadores y los Embellecedores, el sexto cuerpo de los Artesanos Celestiales (44:6.6)
 
-arios | | anditas | RACE | 
-33 deidades (94:1.2-3)
-Conquistadores védicos anditas de la India hacia el 2500 a.C.; de Turquestán (78:5.6) (79:4) (94:1.1)
-	poca impresión racial excepto en el norte de India (79:2.2) (79:4.3)
-	se encontró con la ruina al no completar la conquista de la India (79:4.2)
-	usó el sistema de castas para salvar la identidad racial (79:4.5,6,9) (94:2.1-2)
-Los anditas eran pre-arios (78:4.4)
-Invasores helénicos de Grecia; destruyó las enseñanzas de Salem (98:1.2)
-el idioma de los arios dio similitud a las lenguas occidentales (78:5.3)
-migración a Levante e India (78:6.3) (79:1.6)
-semidemocrático (79:4.5)
-El idioma sumerio tenía mucho en común con el ario (77:4.7)
+arios; arias | | anditas | RACE | OK
+Los arios son los conquistadores védicos anditas que penetraron en la India hacia el 2500 a.C. desde el Turquestán (78:5.6) (79:4) (94:1.1)
+Los arios también fueron invasores helénicos de Grecia, y trajeron con ellos unos conceptos antropomórficos de Dios similares a los que sus hermanos arios habían llevado hasta la India. La influencia inicial de los educadores de Salem fue casi destruida por la invasión aria de Europa meridional y de Oriente (98:1.2)
+Los primeros anditas no eran arios, sino prearios. (78:4.4)
+Los arios llegaron a tener treinta y tres deidades (94:1.2-3)
+el idioma de los arios es el que dio similitud a las lenguas occidentales (78:5.3)
+El idioma sumerio no era semítico; tenía mucho en común con el ario (77:4.7)
+la migración de los anditas hacia el Levante e India desde el Turquestán se produjo debido a una aridez que forzó a los andonitas a invadir el sur, hacia territorio andita (78:6.3) (79:1.6)
+en la India
+	Los arios dejaron muy poca huella racial en la India, salvo en las provincias del norte. (79:2.2) (79:4.3)
+	Estos invasores no completaron nunca la conquista del país, y esta negligencia causó posteriormente su ruina porque su inferioridad numérica los hizo vulnerables a la absorción por los dravidianos del sur, que invadieron más tarde toda la península, a excepción de las provincias del Himalaya. (79:4.2)
+	usaron el sistema de castas para salvaguardar su identidad racial ante una marea creciente de pueblos sangiks secundarios (79:4.5,6,9) (94:2.1-2)
+	tenían un sistema de gobierno semidemocrático (79:4.5)
 
-hijos trinitizados ascendentes | | hijos trinitizados por las criaturas; trinitización | | 
+hijos trinitizados ascendentes | | hijos trinitizados por las criaturas; trinitización | | OK
 
-mortales ascendentes | | fusión:fusión del Ajustador; mortales | ORDER | 
-6 etapas de existencia espiritual; séptima etapa postulada (31:3.3-6) (106:2.8) (117:5.3)
-7 etapas de carrera (30:4)
-7 jubileos de la carrera de ascensión (27:7.8)
-capaz de reconocer seres de niveles anteriores (44:0.18-19)
-como hijos ascendentes de Dios (40:5-7)
-como finalitarios (31:3)
-volverse menos sujeto a la gravedad del material (7:3.2)
-ciudadanos del Paraíso (30:2.128)
-evolucionar al estado de verdaderos espíritus en Salvington (43:9.2)
-rango de visión extendido hecho posible por Ajustadores (44:0.18-19)
-el fracaso en la aventura de la Deidad permanece en los superuniversos (25:8.9) (26:3.9) (26:8.3-5) (26:10.2-4)
-estampado para siempre con el carácter del Espíritu Rector del superuniverso (16:5) (25:2.4) (26:2.5)
-confraternizar con 3000 órdenes de Ciudadanos del Paraíso (27:2.3)
-Grandfanda fue el primero en alcanzar Havona (24:6.4-8)
-en registros de personalidad (30:1.50-52) (30:2.47-49,156)
-La progresión espiritual de Jesús como mañana (196:2.2)
-guardar recuerdos de todas las existencias anteriores (47:4.4-5) (48:4.20)
-El Espíritu Maestro número 7 es director de (16:3.14,18-19)
-podría convertirse
-	Artesanos Celestiales (44:0.4)
-	Supervisores Celestiales (37:6.7)
-	evángeles del destino (35:3.21)
-	finalitarios (31)
-	Mensajeros Poderosos (15:10.12) (22:2)
-	Asesores Técnicos, miembros temporales (25:4.2,11-12)
-	Los Elevados en Autoridad (15:10.12) (22:3)
-	Aquellos sin nombre o número (15:10.12) (22:4)
-que algún día alcance a Dios como absoluto (107:1.6)
-El donación de Miguel como Eventod en Uversa (119:5)
-los asociados mortales a menudo permanecen juntos (22:2.6) (25:8.5-7,11)
-la influencia de la madre domina en todo el universo local (117:6.5)
-el nuevo ser fusionado es de pasado eterno, futuro eterno (110:7.4)
-sin límite para el ascenso espiritual (32:3.8-10) (107:4.7)
-no privado del Espíritu de la Verdad más allá del universo local (117:5.9)
-de los ciudadanos de Jerusem, ninguno perdido en la rebelión de Lucifer (53:7.10,12)
-los mortales ascendentes pasan por
-	los 10 sectores principales del superuniverso (18:4.9)
-	Ascendington (13:1.21)
-	solo 1 sector menor (18:5.5)
-	progresión de supervivientes de Urantia (14:5.1) (31:10.20)
-	residencia en los círculos de Jerusem (46:5.11,27)
-	zona residencial en Edentia (43:1.9)
-	dar vueltas por los superuniversos muchas veces (5:1.9)
-destino probable (31:3.2-8)
-recibir la confirmación espiritual del Hijo Creador y el Espíritu Madre antes de dejar el universo local (30:4.21)
-satisfacciones proporcionadas por Havona (14:6.37-40)
-servicio en legislaturas de constelaciones (43:2.5)
-etapas de existencia (30:4) (31:3.4)
-	# mortales planetarios | mortales
-	# supervivientes dormidos
-	# Estudiantes de los Mundos de las Mansiones
-	# progresores morontiales
-	# Pupilos del Superuniverso
-	# Peregrinos de Havona
+mortales ascendentes; ascendentes; mortal ascendente; carrera ascendente | | fusión:fusión del Ajustador; mortales | ORDER | OK
+El camino de la ascensión
+	para los mortales ascendentes están previstas seis etapas de existencia espiritual; y se postula la existencia de una séptima etapa (31:3.3-6) (106:2.8) (117:5.3)
+	las siete etapas de la carrera ascendente son: (30:4) (31:3.4)
+	# Los Mortales Planetarios | mortales
+	# Los Supervivientes dormidos
+	# Los Estudiantes de los Mundos de las Mansiones
+	# Los Progresores Morontiales
+	# Los Pupilos Superuniversales
+	# Los Peregrinos en Havona
 	# Los que llegan al Paraíso
-	# finalitarios
-	los mortales denominados hijos ascendentes después de la fusión (30:3.13) (30:4.1) (40:6.1) (40:7.2)
-estudiar Supremacía en Havona (16:3.18) (117:6.13)
-triple dotación espiritual cuando se fusiona (56:3.5)
-entrenado para administrar universos (30:4.24,30) (31:3.2)
-entrenado hasta los límites de capacidad (31:3.7-8)
+	durante las etapas de ascension los mortales ascendentes deben pasan por diferentes residencias:
+	* progresión como supervivientes de Urantia (14:5.1) (31:10.20)
+	* la residencia en los círculos de los mortales ascendentes de Jerusem (46:5.11,27)
+	* la zona residencial en Edentia, en la zona media del triángulo número treinta y cinco (43:1.9)
+	* el sector menor al que pertenece su universo local (18:5.5)
+	* todos los diez sectores mayores del superuniverso (18:4.9)
+	* muchas vueltas por los superuniversos (5:1.9)
+	* Ascendington (13:1.21)
+	se producen siete celebraciones de jubileos durante la carrera de ascensión: (27:7.8)
+	# El primer jubileo, el acuerdo con el Ajustador del Pensamiento para sobrevivir
+	# El segundo jubileo, el despertar en la vida morontial
+	# El tercer jubileo, la fusión con el Ajustador del Pensamiento
+	# El cuarto jubileo, el despertar en Havona
+	# El quinto jubileo, el descubrimiento del Padre Universal
+	# El sexto jubileo, el despertar en el Paraíso después del sueño de tránsito final del tiempo. 
+	# El séptimo jubileo, la entrada en el cuerpo finalitario de los mortales y el comienzo del servicio en la eternidad.
+Proceso de la ascension
+	en el universo local
+		la mente mortal inicia su carrera como un mecanismo material, y finalmente es enrolada en el Cuerpo de la Finalidad como una existencia espiritual casi perfeccionada, volviéndose progresivamente menos sujeta a la gravedad material y más sensible a la gravedad espiritual. (7:3.2)
+		A medida que ascendemos, siempre conservamos la capacidad de reconocer y de fraternizar con los compañeros de nuestros niveles de experiencia anteriores e inferiores. (44:0.18-19)
+		En cada nuevo traslado o resurrección añadimos un grupo más de seres espirituales a nuestro campo visual, lo cual es hecho posible gracias a los Ajustadores (44:0.18-19)
+		Como mortales ascendentes guardamos los recuerdos personales de todas nuestras existencias anteriores e inferiores. (47:4.4-5) (48:4.20)
+		En las esferas de Salvington evolucionamos desde un ser morontial al estado de un verdadero espíritu; somos más espirituales que materiales. (43:9.2)
+		La influencia materna domina la personalidad humana durante toda la infancia, en el universo local, del alma en crecimiento. (117:6.5)
+		el nuevo ser resultante de la fusión con el Ajustador pertenece al pasado eterno y existe para el eterno futuro (110:7.4)
+		Antes de partir de sus universos locales nativos hacia los mundos receptores del superuniverso, los mortales del tiempo reciben la confirmación espiritual del Hijo Creador y del Espíritu Madre del universo local. (30:4.21)
+		Aunque los mortales ascendentes eran vulnerables a la rebelión de Lucifer, resistieron mejor que los espíritus inferiores; ni un solo miembro de los ciudadanos ascendentes de Satania, residentes en Jerusem participó en la rebelión de Lucifer (53:7.10,12)
+	en el superuniverso
+		a medida que el mortal ascendente pasa más allá de las fronteras de su universo local no se ve privado del Espíritu de la Verdad (117:5.9)
+		Los mortales ascendentes manifiestan en la experiencia de su vida unas tendencias distintivas de la personalidad que son características en cada superuniverso y que expresan directamente la naturaleza del Espíritu Maestro dominante (16:5) (25:2.4) (26:2.5)
+		los mortales ascendentes sirven servicio en el cuerpo legislativo de las constelaciones (43:2.5)
+		quienes fracasan en la aventura de la Deidad permanecen en los superuniversos en espera de reanudar la ascensión al Paraíso (25:8.9) (26:3.9) (26:8.3-5) (26:10.2-4)
+		cuando los ascendentes se fusionan con el Ajustador comparten la triple dotación espiritual de los reinos evolutivos (56:3.5)
+	en Havona
+		Havona proporciona el estímulo a todos los impulsos humanos de dirigirse hacia la obtención de los verdaderos valores espirituales en los niveles de realidad más elevados que se puedan concebir. Havona es la meta educativa preparadisiaca de todos los mortales ascendentes. (14:6.37-40)
+		El Séptimo Espíritu, el consejero que favorece a todos los seres de origen trino, es también el consejero y el director de todos los peregrinos ascendentes de Havona. (16:3.14,18-19)
+		los asociados mortales, las parejas de nuestra carrera terrestre, a menudo permanecemos juntos por toda la ascensión hacia Havona (22:2.6) (25:8.5-7,11)
+		los ascendentes estudian acerca de la Supremacía en Havona (16:3.18) (117:6.13)
+		los ascendentes son entrenados para administrar universos (30:4.24,30) (31:3.2)
+		son instruidos hasta los límites de su capacidad en todos los detalles de todos los principios divinos relacionados con la administración justa y eficaz (31:3.7-8)
+	en el Paraíso
+		en el Paraíso tendremos que confraternizar con más de tres mil órdenes de Ciudadanos del Paraíso (27:2.3)
+denominaciones
+	se nos considera hijos ascendentes de Dios en el instante en que tenga lugar la fusión con el Ajustador (40:5-7)
+	los mortales son denominados hijos ascendentes después de la fusión, antes de eso la denominación es la de hijos por la fe (30:3.13) (30:4.1) (40:6.1) (40:7.2)
+	Grandfanda fue el primer mortal ascendente en alcanzar Havona (24:6.4-8)
+Destino
+	los mortales ascendentes pueden convertirse en:
+	* Artesanos Celestiales (44:0.4)
+	* Supervisores Celestiales (37:6.7)
+	* evángeles del destino (35:3.21)
+	* finalitarios (31)
+	* Mensajeros Poderosos (15:10.12) (22:2)
+	* Asesores Técnicos, como miembros temporales (25:4.2,11-12)
+	* Los Elevados en Autoridad (15:10.12) (22:3)
+	* Los que no tienen Nombre ni Número (15:10.12) (22:4)
+	Los mortales ascendentes fusionados con su Ajustador componen la mayor parte del Cuerpo primario de la Finalidad. (31:3)
+	los mortales ascendentes se convierten en los Ciudadanos Mortales del Paraíso Fusionados con el Ajustador (30:2.128)
+	los mortales ascendentes se cuentan en los registros de personalidad (30:1.50-52) (30:2.47-49,156)
+	puesto que los Ajustadores son fragmentos de un Dios absoluto los mortales ascendentes pueden que algún día alcancen a Dios como absoluto (107:1.6)
+	para los que reciben Monitores de Misterio, las alturas posibles de su ascensión espiritual y de sus logros universales no tienen ningún límite. (32:3.8-10) (107:4.7)
+	no se conoce el «destino finalitario» de los mortales ascendentes del tiempo. (31:3.2-8)
+Jesús como mortal ascendente
+	La quinta donación de Miguel fue encarnarse como Eventod, un peregrino ascendente de origen mortal en Uversa, durante once años de Orvonton (119:5)
+	en una sola corta vida, Jesús atravesó esa experiencia de evolución espiritual religiosa que los hombres empiezan en la Tierra y que sólo terminan generalmente al final de su larga estancia en las escuelas de educación espiritual de los niveles sucesivos de la carrera preparadisiaca (196:2.2)
 
-peregrinos ascendentes | | mortales ascendentes | ORDER | 
-mortales sobrevivientes acreditados para el ascenso al Paraíso (30:3.1)
+peregrinos ascendentes; peregrinos del tiempo | | mortales ascendentes | ORDER | OK
+los peregrinos ascendentes o peregrinos del tiempo son los mortales ascendentes acreditados para el ascenso al Paraíso (7:5.5,8) (8:3.8) (13:1.21) (14:3.4) (14:5.4-5) (15:7.10) (15:11.2) (16:3.14) (19:6.2) (22:2.2,4) (24:6.1) (25:3.13) (26:2.2) (26:3.1-2,8) (26:4.2) (26:5.1,3) (26:6.2) (26:7.1) (26:8.1) (26:10.7) (26:11.1,3,6) (27:0.11) (27:3.2-3) (28:6.20) (30:2.156) (30:3.13) (30:4.1) (31:5.1) (35:7.3) (35:10.1) (35:10.3) (39:1.11) (39:4.18) (48:6.29) (113:7.5) (115:6.5) (117:3.4) (117:6.14)
 
-hijos ascendentes de Dios | | Hijos de Dios:órdenes | ORDER | 
+hijos ascendentes de Dios | | Hijos de Dios:órdenes | ORDER | OK
 
-Ascendington | (13:1.21-23) | esferas sagradas del Paraíso | PLACE | 
-seno del Padre, del Hijo y del Espíritu (13:1.21) (13:2.4)
-domicilio de los finalitarios (13:0.6) (13:1.21) (13:2.1-2)
-los mortales pueden visitar Ascendington al llegar a Havona (13:2.6)
-el mundo natal del Paraíso de los espaciales (13:2.2)
-las «vacaciones» de los peregrinos en Havona (13:1.21)
-los secretos de Ascendington son la evolución del alma, la fusión (13:1.22) (112:7.2)
+Ascendington | (13:1.21-23) | esferas sagradas del Paraíso | PLACE | OK
+Ascendington es el séptimo mundo de los siete que componen el circuito del Padre que rodea inmediatamente al Paraíso (13:1.1)
+Ascendington es «el seno del Padre, del Hijo y del Espíritu», el lugar de reunión de las criaturas ascendentes del espacio, la esfera receptora de los peregrinos del tiempo que pasan por el universo de Havona en su camino hacia el Paraíso (13:1.21) (13:2.4)
+Como finalitarios tendremos vuestro domicilio en el Paraíso, pero Ascendington será nuestra dirección particular en todos los tiempos, incluso cuando empecemos a servir en el espacio exterior. (13:0.6) (13:1.21) (13:2.1-2)
+cuando los mortales llegan a Havona se les concede el permiso de visitar Ascendington, donde son muy bien acogidos, pero no se les permite visitar los otros seis mundos sagrados. (13:2.6)
+Ascendington está projectado como el mundo de hogar paradisiaco de las criaturas temporales con potencial de ascensión de los universos exteriores que están en proceso de formación. (13:2.2)
+los mortales pasamos la mayor parte de nuestras «vacaciones» de Havona en Ascendington. (13:1.21)
+La fusión es el secreto de la esfera sagrada de Ascendington, y ninguna criatura, salvo las que han experimentado la fusión con el espíritu de la Deidad, puede comprender el verdadero significado de los valores reales que se asocian cuando la identidad de una criatura del tiempo se une eternamente con el espíritu de la Deidad del Paraíso. (13:1.22) (112:7.2)
 
-plan de ascensión | | plan divino; educación; perfección | | 
-después de la vida mortal, el tiempo ya no está disponible para esquivar obligaciones desagradables (48:5.8)
-todos los espíritus están dedicados a (77:9.12)
-descrito como
-	bajar a Dios al hombre y en sociedad llevar al hombre a Dios y al servicio eterno (77:9.12)
-	elevación y perfección de los mortales (7:4.1) (113:0.1)
-	oportunidad graduada de dominar la administración del universo (48:8.2)
-	ayudar a los que están justo detrás (35:4.1) (37:10.5) (55:2.11) (30:3.9)
-	privilegio de participar en la creación de su propio destino (54:2.4)
-planes de perfección divina (7:4)
-El Hijo Eterno es fiduciario de (7:4.7)
-La atracción de la gravedad espiritual del Hijo Eterno es un secreto de (7:3.2)
-El Padre otorgó a los Ajustadores, personalidad; Hijo le otorgó Hijos Creadores; El Espíritu dio misericordia al ministerio de los ángeles (7:4.4-6)
-la armonía de Uversa testifica la sabiduría de (15:11.3)
-Espíritu Infinito ha dedicado todo a (8:3.5)
-ningún ascendente privado de nada esencial (55:2.12)
-sin atajos; las lecciones de cada esfera deben dominarse antes de pasar a la siguiente (48:5.7)
-uno de los principales negocios del universo (4:0.3) (48:8.3)
+plan de ascensión | | plan divino; educación; perfección | | OK
+Después de la vida en la carne, ya no se dispone del factor tiempo como técnica para esquivar las situaciones o para evitar las obligaciones desagradables. (48:5.8)
+todos los espíritus están dedicados ala plan de la ascensión (77:9.12)
+el plan de ascensión ha sido descrito como:
+* hacer bajar a Dios hasta los hombres y luego, mediante una especie de asociación sublime, hacer subir a los hombres hasta Dios y hacia una eternidad de servicio y la consecución de la divinidad (77:9.12)
+* elevación y perfección de los mortales (7:4.1) (113:0.1)
+* oportunidad gradual de dominar la administración del universo (48:8.2)
+* abrirse camino a través de la larga escuela que conduce a alcanzar el Paraíso sirviendo como maestros a aquellos alumnos que se encuentran inmediatamente detrás de vosotros en la escala de la progresión (35:4.1) (37:10.5) (55:2.11) (30:3.9)
+* el privilegio de participar en la creación de nuestro propio destino (54:2.4)
+El plan divino para alcanzar la perfección abarca tres empresas únicas, aunque maravillosamente correlacionadas, de aventuras universales: (7:4)
+* El plan de consecución progresiva (7:4.4)
+* El plan de donación (7:4.5)
+* El plan del ministerio de misericordia (7:4.6)
+El Hijo Eterno es el depositario personal, el custodio divino, del plan universal del Padre para la ascensión de las criaturas. (7:4.7)
+La atracción de la gravedad espiritual del Hijo Eterno constituye el secreto inherente a la ascensión al Paraíso de las almas humanas sobrevivientes. (7:3.2)
+El Padre otora a los Ajustadores, la personalidad; el Hijo otorga a los Hijos Creadores; el Espíritu da misericordia a través del ministerio de los ángeles (7:4.4-6)
+la armonía de Uversa testifica la sabiduría del plan de la ascensión (15:11.3)
+el Espíritu Infinito ha dedicado todo al prodigioso plan de elevar a las criaturas volitivas sobrevivientes a las alturas divinas de la perfección paradisiaca (8:3.5)
+ningún ascendente es privado de nada esencial para su experiencia de ascensión (55:2.12)
+No existen caminos privilegiados, ni atajos ni senderos fáciles para alcanzar el Paraíso. Independientemente de las variaciones individuales de itinerario, dominaremos las lecciones de una esfera antes de pasar a otra; al menos esto es así una vez que hemos dejado vuestro mundo de nacimiento. (48:5.7)
+el plan de ascensión es una de las ocupaciones principales del universo (4:0.3) (48:8.3)
 que algunos mortales no puedan fusionarse no es un defecto en el plan de ascensión (40:10.3-4)
-sabiduría del plan de ascensión revelada
-	por mundos en luz y vida (55:6.9)
-	por actuación de Amadón (67:8.5)
-	en que ningún mortal fusionado cayó en la rebelión de Lucifer (53:7.10,12)
+la sabiduría del plan de ascensión es revelada en:
+* la perfección de los mundos en luz y vida (55:6.9)
+* en la actuación de Amadón (67:8.5)
+* en que ningún mortal fusionado cayó en la rebelión de Lucifer (53:7.10,12)
 
-ascetismo | | | | 
-los ascetas enseñan reverencia (191:5.3)
-no seas ascetas incoloros (178:1.14)
-la iglesia se volvió ascética en la edad oscura (195:4.1)
-evolución del concepto de sacrificio (89:4.1)
-Gautama se negó a buscar la salvación a través de (94:7.2)
-Jesús vino a destruir la noción de (136:3.3)
+ascetismo; ascética; ascetas | | | | OK
+No deberíamos ser unos místicos pasivos ni unos ascetas anodinos; (178:1.14)
+Ascetismo antiguo
+	los lejanos ascetas enseñaron la veneración (191:5.3)
+	A medida que avanzó la civilización, los conceptos rudimentarios del sacrificio fueron elevados al nivel de los rituales de la abnegación, el ascetismo, el ayuno, las privaciones y la doctrina cristiana posterior de la santificación a través de la tristeza, el sufrimiento y la mortificación de la carne. (89:4.1)
+Ascetismo en el budismo
+	Gautama le restó valor a la práctica de buscar la salvación individual por medio de la aflicción física y del sufrimiento personal, y exhortó a sus seguidores a que llevaran su evangelio por todo el mundo. (94:7.2)
+Ascetismo en Jesús y la iglesia
+	Cuando Jesús efectuaba retiros no era para ayunar ni tampoco para afligir su alma. No era un asceta, y había venido para destruir definitivamente todas estas ideas sobre cómo acercarse a Dios. (136:3.3)
+	la iglesia se volvió ascética en la edad oscura (195:4.1)
 
-Asdod | (134:7.4) | | PLACE | 
-Población por la que pasó Jesús
+Asdod | | | PLACE | OK
+Jesús pasó por Asdod durante su viaje privado por la costa mediterránea en el 25 d.C. (134:7.4)
+> https://es.wikipedia.org/wiki/Asdod
 
-Ashjabad | | | PLACE | 
-antigua ciudad de Adonia ubicada cerca (79:1.4)
+Ashjabad | | | PLACE | OK
+la antigua ciudad perdida de Adonia estaba ubicada cerca de Ashjabad (79:1.4)
+> https://es.wikipedia.org/wiki/Asjabad
 
-Astarot | | | PLACE | 
-Adén predicó en (159:2.1)
+Astarot | | | PLACE | OK
+Adén, el predicador a quien Juan el apóstol prohibió predicar, predicó en Astarot (159:2.1)
 
 Astaroth | | | PERSON | OK
 Astaroth es el nombre de la diosa Istar en Palestina (95:1.7)
@@ -2309,157 +2333,189 @@ Asurbanipal | | | PERSON | OK
 Asurbanipal fue un rey de Asiria, que envió colonos a Samaria para que vivieran allí (143:4.1)
 > https://es.wikipedia.org/wiki/Asurbanipal
 
-Asia | | Birmania; China; India; Indochina; Irán; Japón; Cachemira; Malasia; Mesopotamia; Mongolia; Nepal; Partia; Rusia; Siam; Siberia; Turquestán | PLACE | 
-Andonitas en todo el centro de Asia en 15.000 a.C. (78:3.7) (79:1.6)
-columna vertebral de Asia alcanzó una altura de 9 millas (57:8.22)
-la costa este de Asia amenaza con deslizarse hacia una tumba de agua (58:5.8)
-comer de criminales ejecutados (89:5.9)
-geología (59:1.8) (59:2.1) (59:2.3) (59:3.3) (59:4.5,15) (59:5.4,20) (59:6.8) (60:1.6,12) (60:3.11,15) (60:4.3) (61:1.12-13) (61:3.7) (61:4.3) (61:5.3,7) (61:7.3)
-patria de la raza humana (79:0.1) (80:1.1)
-la mayoría de los animales aptos para la domesticación que se encuentran en (81:2.11)
-raza roja dejó huella (64:6.5)
-Los misioneros de Salem penetraron en las tribus más remotas de (94:0.1)
-la raza amarilla condujo la raza roja de (64:6.4,14) (64:7.4-5) (78:1.6)
-la raza amarilla expulsó a los andonitas de (64:7.7) (78:1.5-7)
+Asia | | Birmania; China; India; Indochina; Irán; Japón; Cachemira; Malasia; Mesopotamia; Mongolia; Nepal; Partia; Rusia; Siam; Siberia; Turquestán | PLACE | OK
+geología
+	En el momento de la máxima emergencia de las tierras, la espina dorsal de la masa terrestre asiática alcanzó una altura de casi quince kilómetros. (57:8.22)
+	En El Libro de Urantia se ofrecen abundantes datos sobre los procesos geológicos en Asia (59:1.8) (59:2.1) (59:2.3) (59:3.3) (59:4.5,15) (59:5.4,20) (59:6.8) (60:1.6,12) (60:3.11,15) (60:4.3) (61:1.12-13) (61:3.7) (61:4.3) (61:5.3,7) (61:7.3)
+	el litoral oriental de Asia se encuentra suspendido sobre el precipicio de las profundidades oceánicas contiguas, amenazando con deslizarse hacia una tumba marina (58:5.8)
+razas en Asia
+	Asia es la cuna de la raza humana. (79:0.1) (80:1.1)
+	Andonitas se diseminaron por todo el centro de Asia en el 15.000 a.C. (78:3.7) (79:1.6)
+	La mayoría de los animales que convenían mejor para la domesticación se encontraban en Asia, especialmente en las regiones centrales y del suroeste. (81:2.11)
+	la raza amarilla expulsó a la raza roja de Asia (64:6.4,14) (64:7.4-5) (78:1.6)
+	Ningún hombre rojo volvió nunca a Asia. Pero por toda Siberia, China, Asia central, la India y Europa, dejaron tras ellos a muchos descendientes suyos mezclados con las otras razas de color. (64:6.5)
+	la raza amarilla también expulsó a los andonitas de Asia (64:7.7) (78:1.5-7)
+	En Asia, la última manifestación de canibalismo fue la de comerse a estos criminales ajusticiados. (89:5.9)
+	Los primeros educadores de la religión de Salem penetraron hasta las tribus más apartadas de África y Eurasia, predicando constantemente el evangelio enseñado por Maquiventa de la fe y la confianza del hombre en un solo Dios universal como único precio a pagar para obtener el favor divino. (94:0.1)
 
-Asia Menor | | Turquestán | PLACE | 
+Asia Menor | | Turquestán | PLACE | OK
 
-Dinastía asmonea | | Macabeos | | 
+Dinastía asmonea | | Macabeos | | OK
 
-palacio Asmoneo | | | PLACE | 
-residencia de Herodes el Grande (125:1.5) (128:3.5) (185:4.1)
+palacio Asmoneo | | | PLACE | OK
+residencia de Herodes el Grande en Jerusalén (125:1.5) (128:3.5) (185:4.1)
 
 Asoka | | | PERSON | OK
 monarca de casta baja que abrazó el budismo; envió 17.000 misioneros budistas al mundo (94:9.1)
 > https://es.wikipedia.org/wiki/Aśoka
 
-asesinato | | pena de muerte | | 
-los antiguos ricos distribuían fortunas por temor a (69:5.14)
-los primeros reyes restringidos por el miedo omnipresente a (70:6.6)
-Caín mató a Abel (76:2.5)
-dejó de ser crimen cuando todos participaron (89:5.9)
-mandamientos contra (66:7.12) (70:11.2) (74:7.20) (93:4.10) (94:8.10) (131:2.12) (162:2.1) (163:2.4)
-Ajustador residente es una razón adicional contra el asesinato (74:7.20)
-baja tasa de homicidios en nación continental (72:10.2)
-el hombre primitivo no reconoció la muerte accidental (70:10.3)
-los hombres primitivos podían matar esposas si se les pagaba (70:10.11-12)
+asesinato; asesinado | | pena de muerte | | OK
+es justo indicar que muchos hombres ricos de la antigüedad distribuyeron una gran parte de su fortuna a causa del miedo a que los mataran los que codiciaban sus tesoros. (69:5.14)
+los tiranos más déspotas se encontraba sometidos a algunas restricciones; al menos se sentían refrenados por el miedo constante a ser asesinados. (70:6.6)
+Caín mató a Abel, uno de los asesinatos más famosos (76:2.5)
+el hombre primitivo no reconocía la muerte accidental, siempre había un culpable incluso en caso de muerte natural (70:10.3)
+los hombres primitivos podían matar a sus esposas si se pagaba su precio íntegro; muchos pueblos aceptaron simplemente un dinero compensatorio cuando alguien era asesinado (70:10.11-12)
+La culpabilidad de la sangre deja de ser un crimen cuando todos participan en ella, cuando participa la sociedad. (89:5.9)
+mandamientos contra el asesinato:
+* «el Camino del Padre» de Hap: 4. No matarás a hombres, mujeres o niños. (66:7.12)
+* La ley moral del Edén: «quienquiera que derrama la sangre del hombre, su sangre será derramada por el hombre, porque Dios hizo al hombre a su imagen.» (74:7.20)
+* Los siete mandamientos promulgados por Melquisedek: 4. No matarás. (93:4.10)
+* Los cinco mandamientos morales de Gautama: 1. No matarás. (94:8.10)
+* Los mandamientos hebreos: no matarás (70:11.2) (131:2.12) (162:2.1) (163:2.4)
+el Ajustador residente era una razón adicional contra el asesinato en la época del Edén (74:7.20)
+en un planeta cercano al nuestro, en su nación continental principal, recientemente han llegado al extremo de intentar prevenir el crimen condenando al trabajo de por vida, en las colonias de detención, a aquellos que se cree que podrían ser asesinos potenciales y criminales importantes. (72:10.2)
 
-asambleas del Paraíso | | | | 
-asisten ascendentes, en Edentia (43:9.1)
+asambleas del Paraíso | | | | OK
+Después de graduarse en el mundo número setenta, los mortales ascendentes establecen su residencia en Edentia. Los ascendentes asisten ahora por primera vez a las «asambleas del Paraíso», y escuchan la historia de su extensa carrera descrita por el Fiel de los Días, la primera de las Personalidades Supremas con origen en la Trinidad que han conocido. (43:9.1)
 
-Centinela Asignado de Satania; Centinela Designado de Satania | | Centinelas Asignados | ORDER | 
-aconsejó a Gabriel en la rebelión de Lucifer (54:5.10)
-jefe ex officio de 24 consejeros (24:5.3) (114:2.3)
+Centinela Asignado de Satania; Centinela Designado de Satania | | Centinelas Asignados | PERSON | OK
+el Centinela Asignado de Satania es el jefe de oficio del consejo de los 24 consejeros, es el representante directo y personal del Inspector Asociado de Salvington y del Ejecutivo Supremo de Orvonton. (24:5.3) (114:2.3)
+actuó como consejero de Gabriel durante la rebelión de Lucifer (54:5.10)
 
-Centinelas Asignados | (24:5) | Centinela Asignado de Satania | ORDER | 
-7 mil millones personalizados por Espíritu Infinito (24:5.1)
-actividades distintas de la administración de Ancianos de los Días (24:5.4)
-asesores de los sistemas locales en luz y vida (55:8.2) (55:10.3)
-jefes ex officio de 24 consejeros (24:5.3)
-en registros de personalidad (30:1.76) (30:2.72)
-Omniafines es el representante planetario en luz y vida (55:4.16)
-informar a los Inspectores Asociados (24:4.3) (24:5.2)
-representantes de los Ejecutivos Supremos del superuniverso ante los sistemas locales (24:0.10) (24:5.1-2) (37:8.5) (55:8.2)
-servir en rotación (24:5.3)
+Centinelas Asignados; Centinela Asignado | (24:5) | Centinela Asignado de Satania | ORDER | OK
+Los Centinelas Asignados son las personalidades coordinadoras y los representantes de enlace de los Siete Ejecutivos Supremos. Fueron persona-lizados en el Paraíso por el Espíritu Infinito y fueron creados para los fines específicos a los que fueron destinados. Su número es fijo, y existen exactamente siete mil millones de estos seres. (24:5.1)
+son los representantes de los Ejecutivos Supremos del superuniverso ante los sistemas locales (24:0.10) (24:5.1-2) (37:8.5) (55:8.2)
+sirven en rotación (24:5.3)
+Son responsables únicamente ante el Ejecutivo Supremo del superuniverso interesado; sus actividades son distintas a las de la administración de los Ancianos de los Días. (24:5.4)
+son los asesores de los sistemas locales en luz y vida (55:8.2) (55:10.3)
+En los sistemas locales sirven como jefes de oficio de los veinticuatro administradores procedentes de los mundos evolutivos, pero aparte de esto, los mortales ascendentes tienen poco contacto con ellos. (24:5.3)
+aparecen en los registros de personalidad (30:1.76) (30:2.72)
+los Omniafines son los representantes personales de los Centinelas Asignados en los planetas en luz y vida (55:4.16)
+Los Inspectores Asociados sólo reciben los informes y las recomendaciones de sus subordinados, los Centinelas Asignados (24:4.3) (24:5.2)
 
-Educadores Asistentes | | Serafines | ORDER | 
-ayudantes y asociados de Serafines Consejeros Docentes (39:2.7)
-Serafines superiores; cuerpo fomenta la verdad en Urantia (39:2.7)
+Educadores Asistentes | | Serafines | ORDER | OK
+Los educadores asistentes son los ayudantes y asociados de sus compañeros serafines, los consejeros docentes. (39:2.7)
+Un maravilloso cuerpo de esta orden de serafines ejerce su actividad en Urantia con el objeto de favorecer y fomentar la causa de la verdad y la rectitud. (39:2.7)
 
-Supervisores Asociados de los Circuitos | | | ORDER | 
-orden de los Supervisores de los Circuitos Universales; circuitos directos del superuniverso; número 7 (24:1.2-8)
+Supervisores Asociados de los Circuitos | | | ORDER | OK
+forman parte de la orden de los Supervisores de los Circuitos Universales; supervisan y dirigen los circuitos de los superuniversos del espacio (24:1.2-8)
 
-Inspectores Asociados | (24:4) | | ORDER | 
-700.000 creados por el Espíritu Infinito, Siete Espíritus Rectores (24:4.1)
-Centinelas Asignados directos en la luz y la vida del universo local (55:10.3)
-en registros de personalidad (30:1.75) (30:2.71)
-uno encarna la autoridad de los Ejecutivos Supremos en cada universo local (24:0.10) (24:4.1-2) (24:5.2) (37:8.5)
-recibir informes de los centinelas asignados (24:4.3) (24:5.2)
+Inspectores Asociados | (24:4) | | ORDER | OK
+Los Inspectores Asociados son la expresión personal de la autoridad de los Ejecutivos Supremos para los universos locales del tiempo y del espacio. Estos altos observadores de los asuntos de las creaciones locales son los descendientes conjuntos del Espíritu Infinito y de los Siete Espíritus Maestros del Paraíso. En una época cercana a la eternidad fueron personalizados setecientos mil, y su cuerpo de reserva reside en el Paraíso. (24:4.1)
+dirigen a los Centinelas Asignados en la luz y la vida del universo local (55:10.3)
+hay uno de ellos encarnan la autoridad de los Ejecutivos Supremos en cada universo local (24:0.10) (24:4.1-2) (24:5.2) (37:8.5)
+reciben los informes de los Centinelas Asignados (24:4.3) (24:5.2)
+se encuentran en los registros de personalidad (30:1.75) (30:2.71)
 
-Directores Asociados del Poder | | Controladores Físicos Maestros | ORDER | 
-asignar y enviar Controladores Físicos Maestros (29:4.4,15)
-en el registro de personalidad de Uversa (30:2.101)
-mantener inspector en cada capital del sistema local (29:4.17)
-número 3 mil millones en cada superuniverso (29:4.16)
-enseñar la ciencia del control de la energía en sectores menores (29:4.16)
+Directores Asociados del Poder; directores asociados del poder | | Controladores Físicos Maestros | ORDER | OK
+Estos seres maravillosamente eficaces están encargados de designar y de enviar a todas las órdenes de Controladores Físicos Maestros de acuerdo con las necesidades siempre variables del estado energético en constante cambio de los reinos. (29:4.4,15)
+Al menos un inspector en funciones está siempre presente en cada sistema local, manteniendo su sede en la esfera capital. (29:4.17)
+hay 3 mil millones de ellos en cada superuniverso (29:4.16)
+sirven como instructores para todos los que estudian las ciencias de las técnicas del control y de la transmutación inteligentes de la energía en los sectores menores (29:4.16)
+aparecen en el registro de personalidad de Uversa (30:2.101)
 
-Registradores Asociados | | | ORDER | 
-en el registro de personalidad de Uversa (30:2.115)
-Supervisores del Poder Morontial; registradores (48:2.25)
+Registradores Asociados | | | ORDER | OK
+forman parte de los Supervisores del Poder Morontial; they are the registradores for morontial world (48:2.25)
+se encuentran en el registro de personalidad de Uversa (30:2.115)
 
-Organizadores Asociados de la Fuerza Maestra Trascendental | | Organizadores de la Fuerza Maestros:tipos | ORDER | 
+Organizadores Asociados de la Fuerza Maestra Trascendental | | Organizadores de la Fuerza Maestros:tipos | ORDER | OK
 
-Assuntia | | | PLACE | 
-sistema inmediatamente vecino a Satania (41:2.1)
+Assuntia | | | PLACE | OK
+Assuntia es un sistema local inmediatamente vecino a Satania (41:2.1)
 
-seguridad | | certeza | | 
-creyentes indiferentes si todas las cosas terrenales se estrellan (100:2.7)
-certeza de lo divino (102:7)
-discurso sobre la seguridad (142:5)
-del parentesco con la Deidad debe ser realizado por la fe (117:6.8)
-de fe (102:1)
-de comunión espiritual se desarrolla gradualmente (34:6.12)
-experiencia personal; fe en la palabra de verdad (146:3.4)
-seguridad como hijo del Padre todopoderoso, omnisciente y omnisciente (111:7.1)
-seguridad en la experiencia de ciudadanía cósmica (118:6.8)
+seguridad; seguros | | certeza | | OK
+Jesús describió la profunda seguridad del mortal que conoce a Dios cuando dijo: «Para un creyente en el reino que conoce a Dios, ¿que importa si todas las cosas terrenales se derrumban? » (100:2.7)
+Dios es la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más afectuoso de todos los amigos y el más divino de todos los valores; de Dios tenemos derecho a estar más seguros que de cualquier otra experiencia universal. (102:7)
+Jesús pronunció un gran discurso sobre la seguridad en el templo de Jerusalén durante la semana de la Pascua del año 27 (142:5)
+la seguridad del parentesco del hombre mortal con la Deidad debe ser realizado por la fe (117:6.8)
+La razón de la ciencia está basada en los hechos observables del tiempo; la fe de la religión presenta sus razonamientos basándose en el programa espiritual de la eternidad. Cuanta más ciencia conocemos, menos seguros estamos; cuanto más religión poseemos, más certidumbre tenemos. (102:1)
+la seguridad de comulgar con el espíritu se desarrolla gradualmente (34:6.12)
+La seguridad espiritual equivale a tu experiencia religiosa personal con las realidades eternas de la verdad divina; dicho de otra manera, es igual a tu comprensión inteligente de las realidades de la verdad, más tu fe espiritual y menos tus dudas sinceras». (146:3.4)
+La incertidumbre en la seguridad es la esencia de la aventura hacia el Paraíso —incertidumbre en el tiempo y en la mente, incertidumbre en cuanto a los acontecimientos del desarrollo de la ascensión hacia el Paraíso; seguridad en espíritu y en la eternidad, seguridad en la confianza sin reserva del hijo creado en la compasión divina y en el amor infinito del Padre Universal; incertidumbre como ciudadano inexperto del universo; seguridad como hijo ascendente en las mansiones universales de un Padre infinitamente poderoso, sabio y amoroso. (111:7.1)
+Reconocer la omnipotencia de la Deidad es gozar de la seguridad en vuestra experiencia de la ciudadanía cósmica, es poseer la certeza de la seguridad en el largo viaje hacia el Paraíso. (118:6.8)
 El Espíritu de la Verdad da seguridad (194:0.1)
 los valores temporales son vulnerables; las seguridades espirituales son inexpugnables (100:2.7)
 La seguridad temporal es el principal regalo de la sociedad para el hombre (70:9.1).
-sin autoafirmación, exaltación egoísta (102:2.2)
+Una de las peculiaridades características de la auténtica seguridad religiosa consiste en que, a pesar del carácter absoluto de sus afirmaciones y de la firmeza de su actitud, el espíritu de su expresión es tan equilibrado y templado que nunca transmite la menor impresión de presunción o de exaltación egoísta. (102:2.2)
 
-Asiria | (134:2.1) | Siria | PLACE | 
+Asiria; asirios; estirpe asiria | (134:2.1) | Siria | PLACE | OK
 Los asirios atacaban constantemente a las tribus de Palestina (93:5.6)
-la caída de Asiria trajo liberación a Judá (97:9.23)
-Israel conspiró con Egipto para rechazar el tributo (97:9.21-22)
-Nodita, antepasados vanitas de los asirios (77:4.3,11)
+La caída de Asiria y la ascensión de Egipto trajeron la liberación de Judá durante un tiempo. (97:9.23)
+Israel conspiró con Egipto para rechazar el tributo a Asiria, lo cual trajo la desaparición de Israel (97:9.21-22)
+los noditas occidentales o sirios fueron los antepasados vanitas de los asirios (77:4.3,11)
+> https://es.wikipedia.org/wiki/Asiria
 
 Astarté | | | PERSON | OK
 El culto de Istar entre las tribus del norte se convirtió en el culto a la diosa Astarté (95:1.7)
 > https://es.wikipedia.org/wiki/Astarté
 
-asteroides | | | | 
-Quinto planeta Monmatia fragmentado en (57:6.5)
-materia solar (57:5.8)
+asteroides | | | | OK
+el quinto planeta Monmatia se fragmentó en el actual cinturón de asteroides (57:6.5)
+los asteroides están hechos de materia solar (57:5.8)
+> https://es.wikipedia.org/wiki/Cinturón_de_asteroides
 
-astrología | | estrellas | | 
-la creencia llevó a la astronomía (81:2.9) (88:6.5)
-en relación con la adoración de Istar (95:1.7)
-mensajes espirituales interpretados (87:5.9)
-una vez creencia mundial (90:2.5)
-pseudo ciencia de Babilonia; superstición (121:5.5) (150:3.2-3)
-estrellas consultadas antes del matrimonio (83:4.4)
-la gente supuestamente inteligente todavía cree en (88:6.7) (90:2.7)
+astrología | | estrellas | | OK
+La creencia en la astrología condujo al desarrollo de la astronomía. (81:2.9) (88:6.5)
+en relación con un renacimiento de la adoración de Istar en Mesopotamia, los sacerdotes babilónicos volvieron otra vez a la observación de las estrellas y la astrología experimentó su último gran renacimiento (95:1.7)
+los mensajes de los espíritus se interpretaban mediante la astrología (87:5.9)
+La astrología primitiva se creía y se practicaba en todo el mundo. (90:2.5)
+la astrología es un seudociencia de Babilonia que se transformó en una religión en todo el imperio greco-romano; una masa de errores supersticiosos que no tienen ningún sitio en el evangelio del reino. (121:5.5) (150:3.2-3)
+las estrellas eran consultadas por los astrólogos antes de cualquier matrimonio (83:4.4)
+mucha gente supuestamente inteligente todavía cree en la buena suerte, el mal de ojo y la astrología. (88:6.7) (90:2.7)
 
-astronomía | | energía; nebulosas; cuerpos espaciales; estudiantes de estrellas; soles | | 
-observatorio astronómico de Jerusem (46:2.9) (46:5.30)
-errores en la medición astronómica causados por | corrimiento al rojo
-	múltiples movimientos revolucionarios en Orvonton (15:3.7-15)
-	Procesión opuesta en el sentido de las agujas del reloj del primer nivel del espacio exterior (12:4.15)
-	respiración espacial (12:4.12-14)
-origen en la astrología (81:2.9) (88:6.5)
-lugares nombrados | Andrómeda (nebulosa); Andronover (nebulosa); Angona (sistema); Antares; Nebulosa del Cangrejo; Júpiter (planeta); Nube de Magallanes; Marte (planeta); Mercurio (planeta); Vía Láctea; Monmatia; Luna (de Urantia); estrella polar; Sagitario; Saturno (planeta); Sol (de Urantia); Umayor la quinta; Umenor la tercera; Urantia; Urano; Venus (planeta)
+astronomía | | energía; nebulosas; cuerpos espaciales; estudiantes de estrellas; soles | | OK
+la astronomía tiene su origen en la astrología (81:2.9) (88:6.5)
+en Jerusem se encuentra el vasto observatorio astronómico (46:2.9) (46:5.30)
+objetos astronómicos mencionados en El Libro de Urantia son: 
+* Andrómeda | Andrómeda (nebulosa)
+* Andronover | Andronover (nebulosa)
+* Angona | Angona (sistema)
+* Antares | Antares
+* La Nebulosa del Cangrejo | Nebulosa del Cangrejo
+* Júpiter | Júpiter (planeta)
+* La Nube de Magallanes | Nube de Magallanes
+* Marte | Marte (planeta)
+* Mercurio | Mercurio (planeta)
+* La Vía Láctea | Vía Láctea
+* Monmatia | Monmatia
+* La Luna | Luna (de Urantia)
+* la estrella polar | estrella polar
+* Sagitario | Sagitario
+* Saturno | Saturno (planeta)
+* Sol | Sol (de Urantia)
+* Umayor la quinta | Umayor la quinta
+* Umenor la tercera | Umenor la tercera
+* Urantia | Urantia
+* Urano | Urano
+* Venus | Venus (planeta)
+los errores en las mediciones astronómicas están causados por: | corrimiento al rojo
+* múltiples movimientos rotatorios en Orvonton (15:3.7-15)
+* la procesión opuesta en el sentido de las agujas del reloj del primer nivel del espacio exterior (12:4.15)
+* la respiración espacial (12:4.12-14)
 
 Atanasio | | | PERSON | OK
 fue un presbítero que de forma muy encendida defendió la idea de la naturaleza idéntica de Padre e Hijo en el concilio de Nicea, en contra de la ideas de Arrio (195:0.18)
 > https://es.wikipedia.org/wiki/Atanasio_de_Alejandría
 
-ateísmo | | materialismo; laicismo; incrédulos | | 
-Creer que la salvación solo se puede lograr mediante los esfuerzos sin ayuda del hombre (94:2.5)
-maximización de la fealdad (56:10.4)
+ateísmo; ateos | | materialismo; laicismo; incrédulos | | OK
+muchos cultos de la India eran francamente ateos y creían que la salvación solo se podía lograr mediante los esfuerzos del hombre sin ayuda exterior (94:2.5)
+el materialismo, el ateísmo, es el colmo de la fealdad, la cúspide de la antítesis finita de lo bello. (56:10.4)
 
-Atenas | (130:0.3) | Grecia | PLACE | 
-centro cultural del imperio de Alejandro (133:5.1,12)
-El discurso de Jesús sobre la ciencia en (133:5)
-La enseñanza de Pablo en (195:1.1,5)
+Atenas | (130:0.3) | Grecia | PLACE | OK
+Atenas fue el centro cultural del imperio de Alejandro (133:5.1,12)
+Jesús mantuvo en Atenas una charla sobre ciencia con un filósofo griego (133:5)
+La helenización del cristianismo empezó realmente el día memorable en que el apóstol Pablo se presentó ante el consejo del Areópago de Atenas y habló a los atenienses sobre el «Dios Desconocido». (195:1.1,5)
+> https://es.wikipedia.org/wiki/Atenas
 
-océano Atlántico | | | PLACE | 
-apariencia (59:1.8) (60:3.4)
+océano Atlántico; Océano Atlántico; Atlántico | | | PLACE | OK
+el océano Atlántico hizo su aparición hace unos 380 millones de años (59:1.8) (60:3.4)
+> https://es.wikipedia.org/wiki/Océano_Atlántico
 
-atman | | hinduismo | | 
-Concepto de ajustador hindú (111:0.4)
+atman | | hinduismo | | OK
+En su concepto del atman, los educadores hindúes se acercaron realmente a una apreciación de la naturaleza y de la presencia del Ajustador, pero no lograron distinguir la presencia concomitante del alma evolutiva potencialmente inmortal. (111:0.4)
 
 atmósfera | (58:2 s) (59:6.12) | | | 
-apareció como resultado de un interior calentado y una costra de enfriamiento (57:7.2)
+la atmósfera primitiva apareció a consecuencia de la lucha interna elemental entre el interior caliente y la corteza que se enfriaba (57:7.2)
 efecto de cobertura (58:2.5)
 dióxido de carbono a principios de la atmósfera proporcionó un crecimiento exuberante (58:1.8)
 termina con serpentinas aurorales 400 millas arriba (58:2.6)
