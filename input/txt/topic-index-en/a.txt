@@ -1731,7 +1731,7 @@ The Urantia Book mentions two apocryphal biblical books, which are not in canon:
 > https://en.wikipedia.org/wiki/Book_of_Enoch
 > https://en.wikipedia.org/wiki/Book_of_Wisdom
 
-Apollo | | | PERSON |
+Apollo | | | PERSON | OK
 Apollo, the god of music and the arts, had a temple located on the Palatine Hill in Rome (132:0.2)
 > https://en.wikipedia.org/wiki/Apollo
 
@@ -2514,74 +2514,82 @@ Atlantic Ocean made its appearance about 380,000,000 years ago (59:1.8) (60:3.4)
 atman | | Hinduism | | OK
 In the conception of the atman the Hindu teachers really approximated an appreciation of the nature and presence of the Adjuster, but they failed to distinguish the copresence of the evolving and potentially immortal soul. (111:0.4)
 
-atmosphere | (58:2) (59:6.12) | | | 
-the primitive atmosphere which appeared as a result of the internal elemental contest between the heated interior and the cooling crust. (57:7.2)
-blanketing effect (58:2.5)
-carbon dioxide in early atmosphere afforded luxuriant growth (58:1.8)
-ends with auroral streamers 400 miles up (58:2.6)
-enriched with oxygen (59:4.17)
-ideal for animal respiration 160 million years ago (59:6.10)
-of morontia spheres is oxygen, nitrogen, morontia gas (43:1.3)
-present on all evolutionary planets if not too small (41:10.3)
-shades into average space 3000 miles out (42:4.6)
-slowly evolving 1-1/2 billion years ago (57:7)
+atmosphere | (58:2) (59:6.12) | | | OK
+terrestrial atmospehere
+	the primitive atmosphere which appeared as a result of the internal elemental contest between the heated interior and the cooling crust. (57:7.2)
+	terrestrial atmosphere slowly evolving between one billion to one and a half billion years ago (57:7)
+	the high degree of carbon in the atmosphere afforded the new land varieties of life opportunity for speedy and luxuriant growth. (58:1.8)
+	The elevation of the continents proceeded, and the atmosphere was becoming enriched with oxygen. (59:4.17)
+	160 millions years ago the land was largely covered with vegetation adapted to support land-animal life, and the atmosphere had become ideal for animal respiration. (59:6.10)
+	Were it not for the “blanketing” effect of the atmosphere at night, heat would be lost by radiation so rapidly that life would be impossible of maintenance except by artificial provision. (58:2.5)
+	The height of the earth’s atmosphere is indicated by the highest auroral streamers—about 400 miles. (58:2.6)
+	the atmosphere of Urantia thins out increasingly until at about 3,000 miles it begins to shade off into the average space matter in this section of the universe. (42:4.6)
+atmospehere in other planets
+	the atmosphere is present on all evolutionary planets if they are not too small (41:10.3)
+atmospehere in morontia spheres
+	the atmospehere of morontia spheres is comprised of oxygen, nitrogen, and a morontia gas suitable for the respiration of morontia creatures (43:1.3)
 
-atmospheric mortals | | mortals:planetary types | | 
-nonbreathers, and sub-, mid-, and superbreathers (49:2.10-14)
+atmospheric mortals; atmospheric types | | mortals:planetary types | | OK
+there are four types of mortal beings according to the atmospehere of their planet: nonbreathers, subbreathers, mid-breathers, and superbreathers (49:2.10-14)
 
-atoms | | electrons; elements (chemical); mesotrons; neutrons; protons; ultimatons | | 
-annihilation of atoms is principle source of solar energy (41:7.4)
-atomic cohesion; effect of unknown energy (42:8)
-broken up at 35,000,000°F boiling point (41:7.12)
-calcium juggles electrons (41:6.3-4)
-energy released in quanta when electrons pass to lower energy orbits (42:5.6)
-floods of short space rays attend building and dissolution of atoms (42:5.5) (58:3.1)
-formed like solar system (42:7.1-2)
-gamma rays characterize spontaneous dissociation of (42:5.1,7)
-gravity helps hold atoms together (42:8.1)
-interelectronic space not empty (42:5.16) (42:8.1-2)
-matter in atoms (42:7)
-nuclei held together by reciprocating mesotron (42:8.3-7)
-one billion trillion atoms in drop of water, containing energy of 100 horsepower over 2 years (41:7.13)
-predictability (42:7.10)
-role of Unqualified Absolute (42:7.10) (42:8.2)
-scientists powerless to create (42:1.4)
-size (42:6.7)
-stability depends on number of inactive neutrons (42:7.6)
-subject to gravity (41:9.2)
-with more than 100 electrons instantaneously disrupt (42:7.7)
+atoms; atomic; atom | | electrons; elements (chemical); mesotrons; neutrons; protons; ultimatons | | OK
+the formation of all matter is on the same order: atoms with a nuclear portion and electrons (42:7)
+Each atom is a trifle over 1/100,000,000th of an inch in diameter (42:6.7)
+the atom is formed like solar system. Surrounding this energy center there whirl, in endless profusion but in fluctuating circuits, the energy units which are faintly comparable to the planets encircling a sun. (42:7.1-2)
+When electrons pass from higher to lower energy levels of orbital revolution, quanta are always given off. (42:5.6)
+Calcium easily loses its outermost electron and moves the previous one thousands of times between its orbit and that of the lost electron. With these juggling with electrons the atom is able to partially defy gravity and get fired with the emanations of sunlight (41:6.3-4)
+Space is not empty; the spheres of all space whirl and plunge on through a vast ocean of outspread force-energy; neither is the space content of an atom empty. (42:5.16) (42:8.1-2)
+one drop of ordinary water contains over one billion trillions of atoms. This is the energy of more than one hundred horsepower exerted continuously for two years. (41:7.13)
+atomic cohesion
+	Atoms and electrons are subject to gravity. (41:9.2)
+	gravity is one of several factors concerned in holding together an atom (42:8.1)
+	While gravity is one of several factors concerned in holding together a tiny atomic energy system, there is also present in and among these basic physical units a powerful and unknown energy, the secret of their basic constitution and ultimate behavior, a force which remains to be discovered on Urantia. (42:8)
+	The charged protons and the uncharged neutrons of the nucleus of the atom are held together by the reciprocating function of the mesotron, a particle of matter 180 times as heavy as the electron. (42:8.3-7)
+	atom stability depends on number of inactive neutrons (42:7.6)
+	In Orvonton it has never been possible naturally to assemble over one hundred orbital electrons in an atom. With more than 100 electrons instantaneously disrupt occurs (42:7.7)
+atom construction and destruction
+	annihilation of atoms is principle source of solar energy (41:7.4)
+	atoms broken up at 35,000,000°F, the electronic boiling point (41:7.12)
+	all of the phenomena of atom building and atom dissolution are attended by the emergence of flood tides of short space rays of radiant energy. (42:5.5) (58:3.1)
+	gamma rays characterize spontaneous dissociation of atoms (42:5.1,7)
+indeterminacy
+	Atoms are similar to persons as to predictability. Statisticians may announce laws governing a large number of either atoms or persons but not for a single individual atom or person. (42:7.10)
+	The first twenty-seven atoms, those containing from one to twenty-seven orbital electrons, are more easy of comprehension than the rest. From twenty-eight upward we encounter more and more of the unpredictability of the supposed presence of the Unqualified Absolute. (42:7.10) (42:8.2)
+science limits
+	Subsequent to greater progress and further discoveries, after we have advanced immeasurably in comparison with present knowledge, though we should gain control of the energy revolutions of the electrical units of matter to the extent of modifying their physical manifestations—even after all such possible progress, forever will scientists be powerless to create one atom of matter or to originate one flash of energy or ever to add to matter that which we call life. (42:1.4)
 
 Aton | | | PERSON | OK
 God of the sun; Ikhnaton based his monotheism on Aten (95:5.6-7,11)
 > https://en.wikipedia.org/wiki/Aten
 
-atonement, feast of | | Judaism:feasts | | 
+atonement, feast of | | Judaism:feasts | | OK
 
-atonement doctrine | (186:5) | crucifixion; devil; forgiveness; Jesus:death; redemption | | 
-childish scheme of substituting innocent sufferer for guilty offender (188:4.11)
-erroneous teaching (20:6.6-7) (148:4.7-10) (188:4-5)
+atonement doctrine | (186:5) | crucifixion; devil; forgiveness; Jesus:death; redemption | | OK
+all atonement doctrine is an erroneous teaching (20:6.6-7) (148:4.7-10) (188:4-5)
+Jesus did not bestow himself to reconcile an angry God (2:5.2) (4:5.6) (98:7.1) (188:4.7)
+God certainly would never be satisfied with the childish scheme of substituting an innocent sufferer for a guilty offender (188:4.11)
 Father had nothing to do with Jesus’ torture (183:1.1-2) (186:5.2)
 Father’s justice not influenced by acts of his creatures (2:3.1)
-Father’s love not dependent on Sons’ bestowals (20:5.2)(186:5.5-9)
-God never torn by conflicting attitudes (2:4.3)
-grounded in selfishness (188:4.9)
-history
-	Andonic animal sacrifice preserved in (63:6.4)
-	Christ became all-sufficient human sacrifice (89:9.3-4)
-	intended to make gospel acceptable to Jews (149:2.3)
-	Mithraic origin (121:7.10)
-	Paul’s teaching original (121:6.5)
-	Philo taught God forgave only when blood shed (121:6.5)
-	primitives sacrificed to restore relationship with God (103:4.2)
-incompatible with teachings of Jesus (188:4.8)
-Jesus did not bestow himself to reconcile an angry God (2:5.2) (4:5.6) (98:7.1) (188:4.7)
+Father’s love not dependent on bestowals of Avonal and Michael Sons (20:5.2)(186:5.5-9)
+The heavenly Father is never torn by conflicting attitudes towards his universe children; God is never a victim of attitudinal antagonisms. (2:4.3)
 never necessary to influence Father to be merciful (2:4.2) (6:3.4)
-philosophic assault upon unity and free-willness of God (2:6.5-6)
-place in evolution of religious observances (90:0.1)
-puerile and primitive; affront to God (4:5.4-6) (6:3.4)
-ransom paid to purchase man from devil (194:2.8)
-sacrifice of innocent Son to appease wrath of offended God (149:2.3) (188:5.9,11)
-supplant with concept of divine attunement (39:5.6)
+All this concept of atonement and sacrificial salvation is rooted and grounded in selfishness. The believer’s chief concern should not be the selfish desire for personal salvation but rather the unselfish urge to love and, therefore, serve one’s fellows (188:4.9)
+The erroneous supposition that the righteousness of God was irreconcilable with the selfless love of the heavenly Father, presupposed absence of unity in the nature of Deity and led directly to the elaboration of the atonement doctrine, which is a philosophic assault upon both the unity and the free-willness of God. (2:6.5-6)
+In the more advanced epochs of planetary evolution the seraphim are instrumental in supplanting the atonement idea by the concept of divine attunement as a philosophy of mortal survival. (39:5.6)
+history
+	the origin of sacrifices as part of worship was the ceremonies of veneration of tribe's animal of Andonics. This idea was elaborated by Moses in the Hebrew ritual (63:6.4)
+	When primitive man felt that his communion with God had been interrupted, he resorted to sacrifice of some kind in an effort to make atonement, to restore friendly relationship. (103:4.2)
+	The evolution of religious observances progressed from placation, avoidance, exorcism, coercion, conciliation, and propitiation to sacrifice, atonement, and redemption. (90:0.1)
+	According to Paul, Christ became the last and all-sufficient human sacrifice; the divine Judge is now fully and forever satisfied. (89:9.3-4)
+	These teachings originated in a praiseworthy effort to make the gospel of the kingdom more acceptable to disbelieving Jews. (149:2.3)
+	these ideas of atonement introduced by Paul have a Mithraic origin (121:7.10)
+	Paul’s theory of original sin, the doctrines of hereditary guilt and innate evil and redemption therefrom, was partially Mithraic in origin, having little in common with Hebrew theology, Philo’s philosophy, or Jesus’ teachings. Some phases of Paul’s teachings regarding original sin and the atonement were original with himself. (121:6.5)
+	In this Paul fail to keep pace with Philo. Philo taught deliverance from the doctrine of forgiveness only by the shedding of blood. (121:6.5)
+	the life of Jesus, and his death and resurrection, became a new gospel of the ransom paid to purchase man from the clutch of the devil, from the condemnation of an offended God (194:2.8)
+	there was an effort to connect the gospel teaching directly onto the Jewish theology, the teaching that Jesus was the sacrificed Son who would satisfy the Father’s stern justice and appease the divine wrath. (149:2.3) (188:5.9,11)
+affront to God
+	atonement doctrine is incompatible with teachings of Jesus (188:4.8)
+	The barbarous idea of appeasing an angry God, of propitiating an offended Lord, of winning the favor of Deity through sacrifices and penance and even by the shedding of blood, represents a religion wholly puerile and primitive, a philosophy unworthy of an enlightened age of science and truth. Such beliefs are utterly repulsive to the celestial beings and the divine rulers who serve and reign in the universes. It is an affront to God to believe, hold, or teach that innocent blood must be shed in order to win his favor or to divert the fictitious divine wrath. (4:5.4-6) (6:3.4)
 
 Attis | | | PERSON | OK
 son of Cybele in the Phrygian mystery cult (98:4.2-8) (98:5.5)
@@ -2596,38 +2604,51 @@ tried to destroy mysteries and revive the oldest political religion (98:3.6-8)
 created a new Roman state religion and proclaiming himself god, did not hesitate to encourage the worship of his person (98:3.7-8)
 > https://en.wikipedia.org/wiki/Augustus
 
-auroral displays | | | | 
-400 miles up; produced by sunspots (58:2.6-8)
+auroral displays | | | | OK
+The height of the earth’s atmosphere is indicated by the highest auroral streamers—about four hundred miles. Auroral phenomena are directly related to sunspots (58:2.6-8)
 
-Australia | | aborigines (Australian) | PLACE | 
-first child killed and devoured in (89:5.4)
-geology (59:1.15,17) (59:2.3) (59:3.9) (59:4.5,7) (59:5.4) (60:1.4) (60:3.16) 
-isolated; peculiar fauna; kangaroo roamed (61:1.9) (64:1.5)
-no dinosaurs, elephants, mastodons, or rhinoceroses in (60:2.2) (61:3.6) (61:4.3,4)
-rose out of Pacific depths; drifted south (57:8.21) (58:4.3)
+Australia | | aborigines (Australian) | PLACE | OK
+geology
+	Australia rose out of Pacific depths and drifted south (57:8.21) (58:4.3)
+	370,000,000 years ago, the great almost total submergence of North and South America occurred, followed by the sinking of Africa and Australia. (59:1.15)
+	360,000,000 years ago the land was still rising. The supposed glacial deposits appearing in connection with these strata in Europe, Africa, China, and Australia are due to isolated mountain glaciers or to the displacement of glacial debris of later origin. (59:1.17)
+	340,000,000 years ago there occurred another extensive land sinking except in Asia and Australia. (59:2.3)
+	280,000,000 years ago the continents had largely emerged. Several layers extend over Canada, portions of South America, Australia (59:3.9)
+	the land areas of North and South America, Europe, Africa, northern Asia, and Australia were briefly inundated. Following these submergences, many of the shore lines were considerably elevated (59:4.5,7)
+	210,000,000 years ago the warm-water arctic seas covered most of North America and Europe. The south polar waters inundated South America and Australia, (59:5.4)
+	A limestone layer was deposited in Australia (60:1.4)
+	65,000,000 years ago there occurred one of the greatest lava flows of all time and can be found in Australia (60:3.16)
+fauna
+	At the time of the Andonic migrations there was a continuous land path from England in the west on through Europe and Asia to Java in the east; but Australia was again isolated, which further accentuated the development of its own peculiar fauna. The ancestors of the later kangaroos roamed Australia. (61:1.9) (64:1.5)
+	there were no dinosaurs, elephants, mastodons, or rhinoceroses in Australia (60:2.2) (61:3.6) (61:4.3,4)
+aborigin customs
+	It was once a general practice for primitive mothers to kill and eat their own children in order to renew the strength lost in childbearing, and in Queensland the first child is still frequently thus killed and devoured. (89:5.4)
+> https://en.wikipedia.org/wiki/Australia
 
-authority | | | | 
-Caligastia restless under (66:8.1)
-Divine Counselor speaks with unchallengeable (1:7.9) (6:8.8)
-Jesus taught with absolute (100:7.5)
-no division of authority in universe (32:4.3)
-watchword of all Jewry (173:2.3)
+authority | | | | OK
+Caligastia had tendency to be restless under authority, to mildly resent all forms of supervision (66:8.1)
+A Divine Counselor speaks with unchallengeable authority. He has enjoyed many times the supreme pleasure of a sojourn in the immediate personal presence of the Universal Father, and he knows whereof he speaks (1:7.9) (6:8.8)
+Jesus spoke with undoubted confidence and taught with absolute authority. (100:7.5)
+There is no division of authority; never is there a cross working of divine power and purpose. (32:4.3)
+We must not forget, to understand many events of Jesus life, that authority was the watchword of all Jewry. (173:2.3)
 
-Avalon | | | PLACE | 
-Brilliant Evening Star from Avalon on Urantia after rebellion (67:6.5)
-neighboring universe to Nebadon (32:2.12)
-seraphim from Avalon trained Nebadon seraphim (38:1.2) (38:5.1)
-surgeons from Avalon transferred plasm to Prince’s staff (66:2.7) (77:2.6)
+Avalon | | | PLACE | OK
+Avalon is one of Nebadon's neighboring local universes, along with Henselon, Sanselon, Portalon, Wolvering, Fanoving, and Alvoring. (32:2.12)
+Following the Lucifer rebellion the affairs of Urantia have long been administered by a council of planetary receivers and an advisory council which included a Brilliant Evening Star from Avalon who came periodically (67:6.5)
+The first created group of Nebadon seraphim were trained by a corps of one thousand seraphim from Avalon; subsequently our angels have been taught by their own seniors. (38:1.2) (38:5.1)
+it was Avalon surgeons who transferred life plasma from the body of the Andonite cooperators to that of the members of the corporeal staff of the Planetary Prince (66:2.7) (77:2.6)
+In Urantia popular culture Avalon is the name of a legendary mythological island
+> https://en.wikipedia.org/wiki/Avalon
 
-avoidance | |  religion:primitive religion | | 
-place in evolution of religious observances (90:0.1)
-ritual merges with exorcism, coercion, and propitiation (89:0.2)
+avoidance | |  religion:primitive religion | | OK
+avoidance had a place in evolution of religious observances (90:0.1)
+avoidance rituals merged with exorcism, coercion, and propitiation (89:0.2)
 
-Avonals, order of | | Magisterial Sons | ORDER | 
+Avonals, order of | | Magisterial Sons | ORDER | OK
 
-axes | | | | 
-ax laid to the root (135:6.7)
+axes; ax | | | | OK
 Neanderthalers made axes with flints (64:4.3)
+In a apocaliptic sentence from John the Baptist: “And even now is the ax laid to the very roots of the trees. Every tree that brings not forth good fruit is destined to be cut down and cast into the fire. ” (135:6.7)
 
 Azariah | | | PERSON | OK
 son of King Amaziah; also known as Uzziah (97:9.22)

@@ -56,7 +56,7 @@ const controls = {
 	lblWTextbox: '', dirWTextbox: '', dirWButton: '', 
 	lblTopics: '', drpTopics: '', 
 	lblLanguage: '', drpLanguage: '', 
-	lblCategories: '', drpCategories: '', 
+	lblCategories: '', drpCategories: '', lblLetters: '', drpLetters: '',
 	lblProcess: '', drpProcess: '', 
 	exeButton: '', logArea: '', collapseButton: '', progress: '', 
 	chkMergeLabel: '', chkMerge: '', 
@@ -94,7 +94,7 @@ const settings = {
 const logInfos = [];
 
 const collapsableControls = ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 
-	'dirJTextbox', 'dirWTextbox', 'chkMerge', 'drpCategories'/*, 'drpTopics'*/];
+	'dirJTextbox', 'dirWTextbox', 'chkMerge', 'drpCategories', 'drpLetters'];
 const topicTypes = ['PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 'OTHER'];
 const topicFilters = ['ALL', ...topicTypes];
 
@@ -232,6 +232,7 @@ const updateUI = () => {
 	const data = {
 		drpProcess: {values: procs.map(p => p.key), descs: procs.map(p => p.desc)},
 		drpCategories: {values: topicFilters, descs: topicFilters},
+		drpLetters: {values: lettersVals, descs: lettersDescs},
 		drpTICategories: {values: topicFilters, descs: topicFilters},
 		drpTICategory: {values: topicTypes, descs: topicTypes},
 		drpTILetters: {values: lettersVals, descs: lettersDescs}
@@ -317,7 +318,13 @@ const handle_drpProcessChange = (evt) => {
 		return;
 	}
 	const cnames = Processes[process].controls;
-	collapsableControls.forEach(c => {
+	const toggableControls = [];
+	for (const p in Processes) {
+		const ctrls = (!Processes[p].controls ? [] :
+			Processes[p].controls.filter(c=> !toggableControls.includes(c)));
+		toggableControls.push(...ctrls);
+	}
+	toggableControls.forEach(c => {
 		const hide = (collapsed || cnames.indexOf(c) === -1);
 		$(controls[c]).closest('.form-group').toggleClass('d-none', hide);
 	});
@@ -338,6 +345,7 @@ const handle_exeButtonClick = () => {
 	const txtDir = controls.dirTTextbox.value;
 	const wikiDir = controls.dirWTextbox.value;
 	const category = controls.drpCategories.value;
+	const letter = controls.drpLetters.value;
 	// const merge = controls.chkMerge.checked;
 	const ctrls = Processes[process].controls;
 
@@ -398,11 +406,11 @@ const handle_exeButtonClick = () => {
 			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TOPIC_TXT_TO_WIKIJS') {
 		book.readFromJSON(jsonDir)
-			.then(() => topicindex.readFromTXT(txtDir, 'ALL'))
+			.then(() => topicindex.readFromTXT(txtDir))
 			.then(() => {
 				const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
 				return (lan === 'en' ? Promise.resolve(null) : 
-					topicindexEN.readFromTXT(ti, 'ALL'));
+					topicindexEN.readFromTXT(ti));
 			})
 			.then(() => book.writeToWikiHTML(htmlDir, topicindex, topicindexEN))
 			.then(() => onSuccess(okMsgs))
@@ -416,7 +424,7 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'BOOK_JSON_TOPICS_TXT_TO_MEDIAWIKI') {
 		// Read UB (*.json) + Topic Index (*.txt) => write (*.wiki)
 		book.readFromJSON(jsonDir)
-			.then(() => topicindex.readFromTXT(txtDir, category))
+			.then(() => topicindex.readFromTXT(txtDir))
 			.then(() => book.writeToWikiText(wikiDir, topicindex))
 			.then(() => book.writeWarnings(wikiDir))
 			.then(() => onSuccess(okMsgs))
@@ -461,19 +469,19 @@ const handle_exeButtonClick = () => {
 			.catch(onFail);
 	} else if (process === 'TOPICS_TXT_TO_MEDIAWIKI') {
 		// Read TopicIndex (*.txt) => write (*.wiki)
-		topicindex.readFromTXT(txtDir, category)
+		topicindex.readFromTXT(txtDir, category, letter)
 			.then(() => topicindex.writeToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'TOPICS_TXT_TO_WIKIJS') {
 		// Read TopicIndex (*.txt) => write (*.html)
 		if (lan === 'en') {
-			topicindex.readFromTXT(txtDir, category)
+			topicindex.readFromTXT(txtDir, category, letter)
 				.then(() => topicindex.writeToWikiHTML(htmlDir))
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
 		} else {
-			topicindex.readFromTXT(txtDir, category)
+			topicindex.readFromTXT(txtDir, category, letter)
 				.then(() => {
 					const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
 					return topicindexEN.readFromTXT(ti, category);
@@ -484,19 +492,19 @@ const handle_exeButtonClick = () => {
 		}
 	} else if (process === 'TOPICS_INDEX_TXT_TO_MEDIAWIKI') {
 		// Read TopicIndex index (*.txt) => write (*.wiki)
-		topicindex.readFromTXT(txtDir, category)
+		topicindex.readFromTXT(txtDir, category, letter)
 			.then(() => topicindex.writeIndexToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'TOPICS_INDEX_TXT_TO_WIKIJS') {
 		// Read TopicIndex index (*.txt) => write (*.html)
 		if (lan === 'en') {
-			topicindex.readFromTXT(txtDir, category)
+			topicindex.readFromTXT(txtDir, category, letter)
 				.then(() => topicindex.writeIndexToWikiHTML(htmlDir, category))
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
 		} else {
-			topicindex.readFromTXT(txtDir, category)
+			topicindex.readFromTXT(txtDir, category, letter)
 				.then(() => {
 					const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
 					return topicindexEN.readFromTXT(ti, category);
@@ -508,7 +516,7 @@ const handle_exeButtonClick = () => {
 		}
 	} else if (process === 'REVIEW_TOPIC_TXT_LU_JSON') {
 		// Read TopicIndex (*.txt) => Read UB (*.json) => check
-		topicindex.readFromTXT(txtDir, category)
+		topicindex.readFromTXT(txtDir, category, letter)
 			.then(() => book.readFromJSON(jsonDir))
 			.then(() => topicindex.check(book))
 			.then(() => topicindex.writeErrors(txtDir))
@@ -519,7 +527,7 @@ const handle_exeButtonClick = () => {
 			}).catch(onFail);
 	} else if (process === 'SUM_TOPIC_TXT') {
 		// Read TopicIndex (*.txt) => summary
-		topicindex.readFromTXT(txtDir, 'ALL')
+		topicindex.readFromTXT(txtDir)
 			.then(() => {
 				let summary = topicindex.getSummary();
 				onSuccess(okMsgs);
@@ -538,7 +546,7 @@ const handle_exeButtonClick = () => {
 			.catch(onFail);
 	} else if (process === 'TEST') {
 		const htmlDir2 = path.join(htmlDir, 'test.html');
-		topicindex.readFromTXT(txtDir, 'ALL')
+		topicindex.readFromTXT(txtDir)
 			.then(() => {
 				const topic = topicindex.topics.find(t => t.name === 'triune-origin beings');
 				return new Promise((resolve, reject) => {
@@ -948,6 +956,8 @@ const showTILinesUB = () => {
 		const lineEN = (is1EN ? line1 : is2EN ? line2 : null);
 		if (parEN && parNotEN && lineEN) {
 			const similar = getMostSimilarSentence(parEN, parNotEN, lineEN.text);
+			//TODO: If no similar sentence is found but there is only one ref to
+			// one par then use all par as similar
 			if (similar.length > 0) {
 				const similarSenEN = similar[0];
 				const similarSenNotEN = similar[1];

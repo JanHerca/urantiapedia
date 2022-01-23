@@ -68,12 +68,14 @@ class TopicIndex {
 	 * Reads Topic Index files in TXT format from a folder.
 	 * @param {string} dirPath Input folder.
 	 * @param {string} category Category of topics from Topic Index that must
-	 * be read. Those out the categy are ignored. To read all use 'TODOS' or 'ALL'.
+	 * be read. Those out the category are ignored. To read all use `ALL`.
+	 * @param {string} letter Letter of topics from Topic Index that must be
+	 * read. Those out of the letter are ignored. To read all use `ALL`.
 	 * @return {Promise}
 	 */
-	readFromTXT = (dirPath, category) => {
+	readFromTXT = (dirPath, category, letter) => {
 		return readFrom(dirPath, '.txt', this.clear, 
-			this.readFileFromTXT.bind(this, category), this);
+			this.readFileFromTXT.bind(this, category, letter), this);
 	};
 
 	/**
@@ -88,11 +90,18 @@ class TopicIndex {
 	 * @param {string} category Category of topics from Topic Index that must
 	 * be read. Those out the category are ignored. To read all use 'ALL' and 
 	 * to read none 'NONE'.
+	 * @param {string} letter Letter of topics from Topic Index that must be
+	 * read. Those out of the letter are ignored. To read all use `ALL`.
 	 * @param {string} filePath TXT file path from Topic Index.
 	 * @return {Promise}
 	 */
-	readFileFromTXT = (category, filePath) => {
+	readFileFromTXT = (category, letter, filePath) => {
+		category = category || 'ALL';
+		letter = letter || 'ALL';
 		const baseName = path.basename(filePath);
+		if (letter != 'ALL' && !baseName.startsWith(letter)) {
+			return Promise.resolve(null);
+		}
 		return new Promise((resolve, reject) => {
 			if (this.onProgressFn) {
 				this.onProgressFn(baseName);
@@ -801,6 +810,10 @@ class TopicIndex {
 				const prevline = lines[i - 1];
 				const nextline = lines[i + 1];
 				const nextline2 = lines[i + 2];
+				const level = line.level;
+				const prevlevel = (prevline ? prevline.level : -1);
+				const nextlevel = (nextline ? nextline.level : -1);
+				const nextlevel2 =  (nextline2 ? nextline2.level : -1);
 				const marks = content.match(/^[#|\*]*/g)[0];
 				const prevMarks = (prevline ? 
 					prevline.text.match(/^[#|\*]*/g)[0] : "");
@@ -811,7 +824,7 @@ class TopicIndex {
 				subcontent = subcontent.substring(0, 1).toUpperCase() + 
 						subcontent.substring(1);
 				
-				if (nextline && line.level < nextline.level) {
+				if (nextline && level < nextlevel) {
 					const h = `h${line.level + 2}`;
 					html += `<${h}> ${subcontent} </${h}>\r\n`;
 					writeRefs(line.refs);
@@ -825,7 +838,9 @@ class TopicIndex {
 							html += (marks[marks.length - 1] === '#' ? '<ol>': 
 								'<ul>') + '\r\n';
 						}
-					} else if (i === 0 || (prevline && line.level != prevline.level)) {
+					} else if (i === 0 || (prevline && level != prevlevel) ||
+						(prevline && level === prevlevel && marks.length === 0 &&
+						prevMarks.length > 0)) {
 						//Add start of paragraph
 						html += '<p>';
 					}
@@ -892,10 +907,9 @@ class TopicIndex {
 							}
 						}
 					} else if (i === lines.length - 1 || 
-						(nextline && line.level === nextline.level && 
-							nextMarks.length > 0) ||
-						(nextline && line.level != nextline.level) ||
-						(nextline2 && nextline.level < nextline2.level)) {
+						(nextline && level === nextlevel && nextMarks.length > 0) ||
+						(nextline && level != nextlevel) ||
+						(nextline2 && nextlevel < nextlevel2)) {
 						//Add end of paragraph
 						html += '</p>\r\n';
 					}

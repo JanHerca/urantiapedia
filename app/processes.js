@@ -209,7 +209,7 @@ const Processes = {
 			en: "Convert Topic Index (TXT) to MediaWiki",
 			es: "Convertir Topic Index (TXT) a MediaWiki"
 		},
-		controls: ['dirTTextbox', 'dirWTextbox', 'drpCategories'],
+		controls: ['dirTTextbox', 'dirWTextbox', 'drpCategories', 'drpLetters'],
 		paths: [['input', 'txt', 'topic-index-{0}'], 
 			['output', 'mediawiki', 'topic-index-{0}']]
 	},
@@ -219,7 +219,7 @@ const Processes = {
 			en: "Convert Topic Index (TXT) to Wiki.js",
 			es: "Convertir Topic Index (TXT) a Wiki.js"
 		},
-		controls: ['dirTTextbox', 'dirHTextbox', 'drpCategories'],
+		controls: ['dirTTextbox', 'dirHTextbox', 'drpCategories', 'drpLetters'],
 		paths: [['input', 'txt', 'topic-index-{0}'], 
 			['output', 'wikijs', '{0}', 'topic']],
 		emptyLan: [null, 'en']
@@ -230,7 +230,7 @@ const Processes = {
 			en: "Create index of Topic Index (TXT) to MediaWiki",
 			es: "Crear Indice de Topic Index (TXT) a MediaWiki"
 		},
-		controls: ['dirTTextbox', 'dirWTextbox', 'drpCategories'],
+		controls: ['dirTTextbox', 'dirWTextbox', 'drpCategories', 'drpLetters'],
 		paths: [['input', 'txt', 'topic-index-{0}'], 
 			['output', 'mediawiki', 'topic-index-{0}']]
 	},
@@ -240,7 +240,7 @@ const Processes = {
 			en: "Create index of Topic Index (TXT) to Wiki.js",
 			es: "Crear Indice de Topic Index (TXT) a Wiki.js"
 		},
-		controls: ['dirTTextbox', 'dirHTextbox', 'drpCategories'],
+		controls: ['dirTTextbox', 'dirHTextbox', 'drpCategories', 'drpLetters'],
 		paths: [['input', 'txt', 'topic-index-{0}'], 
 			['output', 'wikijs', '{0}', 'index']],
 		emptyLan: [null, 'en']
@@ -251,7 +251,7 @@ const Processes = {
 			en: "Review Topic Index (TXT) + JSON (UB)",
 			es: "Revisar Topic Index (TXT) + JSON (LU)"
 		},
-		controls: ['dirTTextbox', 'dirJTextbox', 'drpCategories', 'drpTopics'],
+		controls: ['dirTTextbox', 'dirJTextbox', 'drpCategories', 'drpLetters', 'drpTopics'],
 		paths: [['input', 'txt', 'topic-index-{0}'], 
 			['input', 'json', 'book-{0}-footnotes']]
 	},

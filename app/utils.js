@@ -508,6 +508,7 @@ exports.getMostSimilarSentence = (parEN, par, sEN) => {
 	//Split english parragraph into sentences
 	const arSenEN = parEN.replace(/([.?!])/g, "$1|").split("|");
 	//TODO: next line could fail for some languages with different sentence endings
+	// and in spanish is breaking sentences at long numbers (ex: 2.000.000)
 	const arSen = par.replace(/([.?!])/g, "$1|").split("|");
 
 	if (arSenEN.length === 0 || arSen.length === 0) return [];
