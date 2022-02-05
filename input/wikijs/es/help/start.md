@@ -14,6 +14,13 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 [Urantiapedia](https://urantiapedia.org) es una web donde publicar, compartir y colaborar en cualquier contenido relativo a [El Libro de Urantia](https://www.urantia.org/).
 
+## Nuestra misión
+
+La misión esencial que nos hemos marcado con la *Urantiapedia* es:
+1. Ayudar a la diseminación de las revelaciones de *El Libro de Urantia* en el mundo.
+2. Permitir una mejor comprensión de las enseñanzas de *El Libro de Urantia*.
+3. Ofrecer la utilidad de enlazar todo el conocimiento actual disponible sobre las revelaciones de Urantia.
+
 
 ## ¿Cómo funciona?
 
@@ -21,12 +28,15 @@ Está basado en [Wiki.js](https://js.wiki/), un software de código abierto pote
 
 Una Wiki es una página web mantenida y editada de forma colaborativa por una comunidad de usuarios. Cualquier usuario registrado, tras unas validaciones, puede añadir, modificar o eliminar contenido, y todos los cambios realizados quedan registrados en un historial permanente, de modo que nada se pierde incluso en un borrado accidental. La información es almacenada en una base de datos y se beneficia de las clásicas operaciones de adición/eliminación en masa, copia de seguridad y búsquedas rápidas.
 
+Para facilitar la incorporación de contenido se está desarrollando una aplicación llamada *Urantiapedia Tools* que automatiza tareas de conversión de formatos y ayuda con tareas de revisión del contenido.
+
+Tanto las *Urantiapedia Tools* como *Wiki.js* irán recibiendo nuevas funcionalidades a medida que la *Urantiapedia* vaya extendiendo sus tipos de contenido. Tanto los desarrollos como los archivos con el contenido están disponibles en la web de la [Urantiapedia en GitHub](https://github.com/JanHerca/urantiapedia). Esta web es pública y cualquiera puede hacer aportaciones siguiendo la metodología de GitHub.
 
 ## ¿Cómo está organizado?
 
 Como en cualquier Wiki, el contenido son páginas, cada una con una URL y un título únicos. Estos son los principales contenidos esperados:
 
-* Libros, como *El libro de Urantia*, la *Biblia* y otros textos relacionados con las revelaciones de Urantia. Cada capítulo de cada libro es una página en *Urantiapedia*.
+* Libros, como *El libro de Urantia*, la *Biblia* y otros textos relacionados con las revelaciones de Urantia. Cada capítulo de cada libro es una página en la *Urantiapedia*.
 * Temas sobre cualquier asunto mencionado en *El libro de Urantia*. Cada tema se almacena en una página.
 * Artículos escritos por lectores, cada uno una página.
 * Imágenes, ya sean dibujos o fotografías de conceptos que ilustren *El libro de Urantia*, cada uno en su propia página.
@@ -37,35 +47,54 @@ Como en cualquier Wiki, el contenido son páginas, cada una con una URL y un tí
 Para obtener más información sobre el contenido: [Contenido](/es/help/content)
 
 
-## Fases del proyecto y tipos de usuarios
+## Fases del proyecto
 
-[Urantiapedia](https://urantiapedia.org) se va a crear en dos fases:
-1. **Fase de preparación**: en esta fase la creación de contenido se realiza usando este proyecto de GitHub. En esta fase [Urantiapedia](https://urantiapedia.org) está bloqueada a cambios. Sólo los administradores de la web pueden añadir cambios. Para cualquiera que desee colaborar en el proyecto los cambios deben hacerse en este proyecto de Github como usuarios de Github.
-2. **Fase pública**: [Urantiapedia](https://urantiapedia.org) se abre al público para un idioma dado que haya recibido el contenido inicial en la fase anterior. Ahora cualquier usuario, tras pasar algunas validaciones y cumpliendo ciertas políticas de privacidad y buenas prácticas, podrá editar la página. Algunos usuarios llamados revisores velarán por el correcto uso de la web y podrán vetar usuarios que no cumplan las normas.
+Para cada idioma a incluir en la *Urantipedia* se ejecutará el trabajo en varias fases:
+1. Fase I - El Libro de Urantia, la Biblia y el Índice de Términos
+2. Fase II - Libros, artículos e índices
+3. Fase III - Traductor
+4. Fase IV - Mapas interactivos
+5. Fase V - Presentaciones
+6. Fase VI - Modelos 3D interactivos
 
-Actualmente el proyecto se encuentra en la fase de preparación para los idiomas inglés y español. Para conocer más sobre el progreso del proyecto: [Status](/es/help/status)
+Para conocer las fases del proyecto consulta [Fases del proyecto](/es/help/phases).
 
-En resumen, los tipos de usuarios del proyecto son:
-- **Administradores**, los únicos usuarios  que pueden hacer cambios a [Urantiapedia](https://urantiapedia.org) durante la fase de preparación. Leer más aquí: [Manual para administradores](/es/help/admin).
-- **Desarrolladores**, usuarios que pueden hacer cambios a la aplicación llamada *Urantiapedia Tools*, localizada en la carpeta `app` de este proyecto GitHub. Consultar: [Manual para desarrolladores](/es/help/devs)
-- **Editores GitHub**, usuarios que pueden añadir cambios al contenido en la fase de preparación. Este contenido está en la carpeta `input` de este proyecto Github. Consultar: [Manual para editores GitHub](/es/help/github)
-- **Editores**, usuarios correctamente validados que pueden hacer cambios en la fase pública.
-- **Revisores**, usuarios que velarán por un correcto contenido en la web.
+
+
+## Situación actual
+Actualmente *Urantiapedia* se encuentra como sigue:
+* inglés: en la fase I.
+* español: en la fase I.
+* resto de idiomas en los que está traducido *El Libro de Urantia*: sólo se han empezado trabajos preliminares de la fase I.
+
+Aún no se ha entrado en Fase II con ningún idioma. Para conocer más sobre el progreso del proyecto: [Status](/es/help/status)
 
 
 ## ¿Cómo colaborar?
 
 En caso de querer colaborar en este proyecto el mejor medio de contacto es registrarse en la web [Blue Fields](https://blue-fields.netlify.app/), que es una web que ha sido creada para unir y organizar a lectores de *El Libro de Urantia* que desean participar en proyectos inteligentes, propositados y altruistas en todo el mundo. Una vez registrado el equipo del proyecto se pondrá en contacto contigo.
 
+Los distintos roles de los colaboradores de la *Urantiapedia* son:
+* *administradores*: se encargan del mantenimiento del servidor web, la página, la carga masiva de datos, y son los únicos con permiso para editar *El Libro de Urantia*, *La Biblia* y otro contenido específico. Leer más aquí: [Manual para administradores](/es/help/admin).
+* *editores GitHub*: a cargo de contribuciones en el proyecto de GitHub añadiendo cambios y traducciones que luego se puedan cargar de forma masiva. Consultar: [Manual para editores GitHub](/es/help/github)
+* *editores*: con permiso para editar ciertas secciones de la web como el *Índice de Términos*, los artículos, y otro material no reservado a los administradores. Necesitan pasar un proceso de verificación para obtener una cuenta en este sitio.
+* *developers*: a cargo de desarrollar la funcionalidad de las *Urantiapedia Tools* y de *Wiki.js*. Consultar: [Manual para desarrolladores](/es/help/devs).
+* *revisores*: con la tarea de velar por un correcto contenido en la web y seguir las reglas del sitio.
+
+Para saber más acerca de los perfiles que estamos buscando para colaborar consulta [Perfiles de colaboradores](/es/help/roles).
+
+
 ## Links
 
 - [Empezar con la Urantiapedia](/es/help/start)
+- [Fases del proyecto](/es/help/phases)
+- [Perfiles de colaboradores](/es/help/roles)
 - [Contenido de la Urantiapedia](/es/help/content)
 - [Urantiapedia - Idiomas soportados](/es/help/languages)
 - [Manual para administradores](/es/help/admin)
 - [Manual para desarrolladores](/es/help/devs)
 - [Manual para editores GitHub](/es/help/github)
-- [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
+- [Progreso actual del proyecto](/es/help/status)
 
 ## External links
 

@@ -22,14 +22,14 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Who is this manual for?
 
-This manual is for users called "GitHub editors", or users that comply with this requirements:
-- are registered users with an account on [Blue Fields](https://blue-fields.netlify.app/) and on [GitHub] (https://github.com/).
-- They are users who have been authorized as project collaborators by the team that runs the project on [Blue Fields](https://blue-fields.netlify.app/) platform.
-- They are users with a minimum knowledge of GitHub management.
-- are users with some knowledge of *The Urantia Book* in at least one language in which it is published.
+This manual is for users called "GitHub editors", or users that comply with these requirements:
+- registered users with an account on [Blue Fields](https://blue-fields.netlify.app/) and on [GitHub] (https://github.com/).
+- users who have been authorized as project collaborators by the team that runs the project on [Blue Fields](https://blue-fields.netlify.app/) platform.
+- users with a minimum knowledge of GitHub management.
+- users with some knowledge of *The Urantia Book* in at least one language in which it is published.
 - they wish to collaborate in a selfless way in the incorporation of information related to *The Urantia Book* in the *Urantiapedia*.
 
-"GitHub editors" do not need to be registered on the *Urantiapedia* web because a "GitHub editor" will only use their GitHub account to submit the results of their work to the *Urantiapedia* project on GitHub. All the necessary work will be done only through GitHub, and web "administrators" will be in charge of uploading changes to the *Urantiapedia* web to check the result of the work.
+"GitHub editors" do not need to be registered on the *Urantiapedia* web because a "GitHub editor" will only use a GitHub account to submit the results of his or her work to the *Urantiapedia* project on GitHub. All the necessary work will be done only through GitHub, and web "administrators" will be in charge of uploading changes to the *Urantiapedia* web to check the result of the work.
 
 ## Work procedure in the preparation phase
 

@@ -12,15 +12,26 @@ dateCreated: 2021-11-28T13:46:33.162Z
 
 ## What is?
 
-[Urantiapedia](https://urantiapedia.org) is a web for publishing, sharing and collaborate in any content related to [The Urantia Book](https://www.urantia.org/).
+[Urantiapedia](https://urantiapedia.org) is a web for publishing, sharing and collaborating in any content related to [The Urantia Book](https://www.urantia.org/).
+
+
+## Our mission
+
+The key mission we have set for *Urantiapedia* is:
+1. Help in dissemination of *The Urantia Book* revelations throughout the world.
+2. Allow for a better understanding of the teachings of *The Urantia Book*.
+3. Offer the usefulness of linking most of the current knowledge available about the Urantia revelation.
 
 
 ## How it works?
 
-It is based in [Wiki.js](https://js.wiki/), a powerful and extensible open source Wiki software that is build on top of modern technologies like [Node.js](https://nodejs.org/) and [Vue.js](https://vuejs.org/). Wiki.js can be used freely by any org to create any type of Wiki.
+It is based in [Wiki.js](https://js.wiki/), a powerful and extensible open source Wiki software that is build on top of modern technologies like [Node.js](https://nodejs.org/) and [Vue.js](https://vuejs.org/). *Wiki.js* can be used freely by any org to create any type of Wiki.
 
 A Wiki is a webpage maintained and edited collaboratively by a user community. Any registered user, after some validations, can add, modify or delete content, and all changes are saved in a permament historical, so nothing is lost in an accidental removal. Information is stored in a database so it can do the classic actions as massive additions/removals, backups or searches.
 
+To facilitate addition of content, a program called *Urantiapedia Tools* is under development. This program automates format conversion tasks and helps with content review tasks.
+
+Both *Urantiapedia Tools* and *Wiki.js* will receive new functionality as *Urantiapedia* extends its content types. The developments and the content files are available from the web [Urantiapedia at GitHub](https://github.com/JanHerca/urantiapedia). This website is public and anyone can make contributions following the GitHub methodology.
 
 ## How is it organized?
 
@@ -37,36 +48,54 @@ As in any Wiki the content are pages, each one with a unique URL and a title. Th
 For more information on the content check here: [Content](/en/help/content)
 
 
-## Phases of the project and user profiles
+## Phases of the project
 
-[Urantiapedia](https://urantiapedia.org) is being developed in two phases:
+For each language to be included in the *Urantipedia*, all tasks will be carried out in specific phases:
+1. Phase I - The Urantia Book, the Bible and Topic Index
+2. Phase II - Books, articles and indexes
+3. Phase III - Translator
+4. Phase IV - Interactive maps
+5. Phase V - Slides
+6. Phase VI - 3D interactive models
 
-1. **Preparation stage**: here content creation is done using this Github project. During this stage [Urantiapedia](https://urantiapedia.org) is blocked for changes. Only web administrators can add changes. For anybody that wants to collaborate in the project changes must be done to this Github project as Github users.
-2. **Public stage**: [Urantiapedia](https://urantiapedia.org) is opened publicly for a given language that has received a starting content in previous stage. Now any user, after passing some validations, and complying with privacy and good practice policies, can edit the web. Some users called reviewers will ensure the correct use of the website and may ban users who do not comply with the rules.
+To find out about the phases of the project, check [Project phases](/es/help/phases).
 
-Currently the project is in preparation stage for english and spanish languages. To know more about the current progress of the project check here: [Status](/en/help/status)
 
-In short, user profiles are as follows:
-- **Administrators**, the only users that can do changes to [Urantiapedia](https://urantiapedia.org) in preparation stage. Check more in [Admin help](/en/help/admin).
-- **Developers**, users that add changes to the app called *Urantiapedia Tools*, located in the `app` folder of this Github project. Check [Dev help](/en/help/devs)
-- **Github editors**, users that can add changes to content in preparation stage. This content is located in `input` folder of this Github project. Check [Github editors help](/en/help/github)
-- **Editors**, users that are correctly validated and can add changes in the public stage.
-- **Reviewers**, users that ensure that the content of the website is correct and comply with rules.
+## Current status
+
+*Urantiapedia* currently stands as follows:
+* english: in phase I.
+* spanish: in phase I.
+* other translations of *The Urantia Book*: only preliminary work on phase I has begun.
+Phase II has not yet been entered with any language.
+
+ To know more about the current progress of the project check here: [Status](/en/help/status)
 
 
 ## How to collaborate
 
 To collaborate with the project best way is sign up in *Blue Fields* (https://blue-fields.netlify.app/) webpage, that is a site created to join and organize *Urantia Book* readers worldwide that want to participate in smart projects, with a good purpose and altruism. Once registered the project team will contact you.
 
+The different roles for *Urantiapedia* collaborators are:
+* *administrators*: in charge of maintenance of the web server, the page, bulk load of data, and the only ones with permission to edit *The Urantia Book*, *The Bible* and future specific contents. Check more in [Admin help](/en/help/admin).
+* *GitHub editors*: in charge of contributions adding updates and translations to GitHub project that can be later bulk uploaded. Check [Github editors help](/en/help/github).
+* *editors*: with permission to edit certain sections such as the *Topic Index*, articles, and material not reserved by administrators. They require to pass a validation process to obtain a account on this site.
+* *developers*: in charge of the development of the functionality of *Urantiapedia Tools* and *Wiki.js*. The code will be hosted in GitHub. Check [Dev help](/en/help/devs).
+* *reviewers*: in charge of ensuring that the content of the website is correct and comply with rules.
+
+To find out more about the profiles we are looking to collaborate with, check [Collaborator profiles](/es/help/roles).
+
 ## Links
 
 - [Starting with Urantiapedia](/en/help/start)
+- [Phases of the project](/es/help/phases)
+- [Collaborator profiles](/es/help/roles)
 - [Urantiapedia Content](/en/help/content)
 - [Urantiapedia - Languages supported](/en/help/languages)
 - [Admin help](/en/help/admin)
 - [Dev help](/en/help/devs)
 - [Github editors help](/en/help/github)
-- [Urantiapedia status - Current progress of the project](/en/help/status)
+- [Current progress of the project](/en/help/status)
 
 ## External links
 
