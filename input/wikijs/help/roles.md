@@ -37,7 +37,7 @@ The profiles we are looking for to collaborate are these:
 *Developers* have a GitHub account where they develop the functionality of *Urantiapedia Tools* and *Wiki.js*. Check [Dev help](/en/help/devs).
 
 * The task will be to develop the functionalities of *Urantiapedia Tools* and *Wiki.js* necessary for the project.
-* Good knowledge of HTML, CSS, Javascript, [Node.js](https://nodejs.org/es/), [Git](https://git-scm.com/), [GitHub](https://github.com/), [Bootstrap](https://getbootstrap.com/), and [Vue.js](https://vuejs.org/) will be required.
+* Good knowledge of HTML, CSS, Javascript, [Node.js](https://nodejs.org/), [Git](https://git-scm.com/), [GitHub](https://github.com/), [Bootstrap](https://getbootstrap.com/), and [Vue.js](https://vuejs.org/) will be required.
 * It will be important to have the aptitude to work in a team and open source environments.
 * Good level of English as the documentation and code comments are in English.
 
@@ -46,7 +46,7 @@ The profiles we are looking for to collaborate are these:
 *Administrators* are in charge of maintenance of the web server, the page, bulk load of data, and they are the only ones with permission to edit *The Urantia Book*, *The Bible* and future specific contents. Check more in [Admin help](/en/help/admin).
 
 * The task will be to manage the server and the website.
-* Good knowledge of Linux, [Docker](https://www.docker.com/), [Kubernetes](https://es.wikipedia.org/wiki/Kubernetes), [Git](https://git-scm.com/) and [GitHub](https://github.com/) will be needed.
+* Good knowledge of Linux, [Docker](https://www.docker.com/), [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes), [Git](https://git-scm.com/) and [GitHub](https://github.com/) will be needed.
 * It will be important to have the aptitude to work in a team in open source environments.
 * Good level of English as all documentation and code comments are in English.
 
@@ -55,8 +55,8 @@ The profiles we are looking for to collaborate are these:
 ## Links
 
 - [Starting with Urantiapedia](/en/help/start)
-- [Phases of the project](/es/help/phases)
-- [Collaborator profiles](/es/help/roles)
+- [Phases of the project](/en/help/phases)
+- [Collaborator profiles](/en/help/roles)
 - [Urantiapedia Content](/en/help/content)
 - [Urantiapedia - Languages supported](/en/help/languages)
 - [Admin help](/en/help/admin)

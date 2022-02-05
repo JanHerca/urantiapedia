@@ -72,8 +72,8 @@ From here it would be possible to evaluate new future additions to the project. 
 ## Links
 
 - [Starting with Urantiapedia](/en/help/start)
-- [Phases of the project](/es/help/phases)
-- [Collaborator profiles](/es/help/roles)
+- [Phases of the project](/en/help/phases)
+- [Collaborator profiles](/en/help/roles)
 - [Urantiapedia Content](/en/help/content)
 - [Urantiapedia - Languages supported](/en/help/languages)
 - [Admin help](/en/help/admin)

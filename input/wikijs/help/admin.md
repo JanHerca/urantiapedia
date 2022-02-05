@@ -98,7 +98,7 @@ The resulting files in JSON format will be saved in the `input / json / book-xx`
 
 There will be one file for each *The Urantia Book* document, a total of 197 files. The files are named `DocXXX.json`, where` XXX` is the document number from `000` to` 196`.
 
-The format of these files is JSON (https://es.wikipedia.org/wiki/JSON). There is a converter in the *Urantiapedia Tools* that then converts this JSON format to the final Wiki.js format.
+The format of these files is JSON (https://en.wikipedia.org/wiki/JSON). There is a converter in the *Urantiapedia Tools* that then converts this JSON format to the final Wiki.js format.
 
 The structure of the JSON files is this:
 

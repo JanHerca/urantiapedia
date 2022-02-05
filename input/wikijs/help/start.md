@@ -58,7 +58,7 @@ For each language to be included in the *Urantipedia*, all tasks will be carried
 5. Phase V - Slides
 6. Phase VI - 3D interactive models
 
-To find out about the phases of the project, check [Project phases](/es/help/phases).
+To find out about the phases of the project, check [Project phases](/en/help/phases).
 
 
 ## Current status
@@ -83,13 +83,13 @@ The different roles for *Urantiapedia* collaborators are:
 * *developers*: in charge of the development of the functionality of *Urantiapedia Tools* and *Wiki.js*. The code will be hosted in GitHub. Check [Dev help](/en/help/devs).
 * *reviewers*: in charge of ensuring that the content of the website is correct and comply with rules.
 
-To find out more about the profiles we are looking to collaborate with, check [Collaborator profiles](/es/help/roles).
+To find out more about the profiles we are looking to collaborate with, check [Collaborator profiles](/en/help/roles).
 
 ## Links
 
 - [Starting with Urantiapedia](/en/help/start)
-- [Phases of the project](/es/help/phases)
-- [Collaborator profiles](/es/help/roles)
+- [Phases of the project](/en/help/phases)
+- [Collaborator profiles](/en/help/roles)
 - [Urantiapedia Content](/en/help/content)
 - [Urantiapedia - Languages supported](/en/help/languages)
 - [Admin help](/en/help/admin)
