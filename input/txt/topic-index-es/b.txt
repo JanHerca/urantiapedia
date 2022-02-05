@@ -9,171 +9,184 @@
 < Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
 <__________________________________________________________________________________
 
-ba y ka | | | | 
+ba y ka | | ka y ba | | OK
 Enseñanza egipcia y africana del alma y el espíritu (111:0.4-6)
 
 Baal | | baalitas | PERSON | OK
 la palabra Baal significa propietario (97:3.3)
-fue un culto fundado en el derecho a comprar y vender tierras; Baal enviaba la lluvia (97:3.3) (97:9.24)
-se producía prostitución ritual en los templos (97:3.4)
-Samuel se burló de los sacerdotes de Baal (97:1.3)
-hubo un templo a Baal en Jerusalén (97:9.21)
-hubo un templo en la colina en Nazaret 100 años atrás de la época de Jesús (126:1.2)
+fue un culto fundado en el derecho a comprar y vender tierras; Baal enviaba la lluvia, era el dios de la fertilidad del suelo (97:3.3) (97:9.24)
+se producía una prostitución ritual en los templos. Cada Baal tenía su lugar sagrado, su clero y sus «santas mujeres», las prostitutas rituales. (97:3.4)
+Samuel se burlaba de los sacerdotes de Baal y derribaba lugares reservados a Baal (97:1.3)
+hubo un templo dedicado a Baal en Jerusalén al lado del templo a Yahvé (97:9.21)
+hubo un templo a Baal, un «alto lugar de Baal», en una colina cercana a Nazaret cien años atrás de la época de Jesús (126:1.2)
 
-Baal-Perazim | | | PLACE | 
-ciudad nombrada por el rey David (97:9.12)
+Baal-Perazim | | | PLACE | OK
+es el nombre de una ciudad del rey David, que le puso ese nombre porque buena parte de su ejército eran cananeos, baalitas (97:9.12)
 
-Baales | | baalitas | | 
+Baales | | baalitas | | OK
 
-baalitas | | Baal | RACE | 
-aristócratas habitantes de la ciudad, con casas propias, tierras, y esclavos (97:3.4)
-Elías defendió las antiguas costumbres de la tierra contra la venta de tierras (97:9.19)
-Cananeos del norte y más asentados (97:3.3)
-partido político volvió al poder en Jerusalén (97:9.24)
+baalitas | | Baal | RACE | OK
+Los baalitas poseían generalmente casas, tierras y esclavos. Eran los propietarios aristócratas y vivían en las ciudades. (97:3.4)
+Elías, uno de los profetas más grandes, empezó su enseñanza como defensor de las antiguas costumbres sobre la tierra y en contra de la actitud de los baalitas de vender las tierras, contra la tentativa de las ciudades por dominar el campo. (97:9.19)
+Los cananeos del norte, más establecidos, los baalitas, compraban, vendían e hipotecaban libremente sus tierras. (97:3.3)
+Cuando el partido político de Baal volvió al poder en Jerusalén es como empezó la verdadera esclavitud hacia Egipto. (97:9.24)
 
-Babel | | | PLACE | 
-ciudad también conocida como Bablod, Bablot (77:3.3,6)
+Babel | | | PLACE | OK
+ciudad también conocida como Bablod y Bablot (77:3.3,6)
 torre de Babel (77:3)
 	La primera torre fue construida 50.000 años después de la muerte de Nod, es decir, hace unos 150.000 años (77:3.1)
-	El segundo intento de reconstrucción por parte de los anditas falló (77:3.9)
-	tercer esfuerzo de construirla por parte de los anditas (78:8.4)
-	monumento a la grandeza racial nodita; contenciones (77:3)
+	El grupo más grande de noditas, aproximadamente la mitad, deseaba que la torre se construyera como un monumento conmemorativo a la historia y la superioridad racial de los noditas. (77:3)
+	El segundo intento de reconstrucción por parte de los anditas, hace unos 12.000 años, falló (77:3.9)
+	El tercer esfuerzo de construirla fue por parte de los anditas que asimilaron la civilización mesopotámica al principio de los tiempos históricos y adoptaron ese nombre para su nación, Babilonia (78:8.4)
+> https://es.wikipedia.org/wiki/Babilonia_(ciudad)
 
-bebés | | niños | | 
+bebés | | niños | | OK
 
-Bablod | | Babel | PLACE | 
+Bablod | | Babel | PLACE | OK
 
 Bablot (arquitecto) | | | PERSON | OK
-Bablot fue el arquitecto y constructor de la torre de Babel (77:3.1-3)
+Bablot fue el arquitecto y constructor de la primera torre de Babel (77:3.1-3)
 
-Bablot (ciudad) | | Babel | PLACE | 
+Bablot (ciudad) | | Babel | PLACE | OK
 
-babuinos | | | | 
-los mamíferos intermedios retrasados eran antepasados de los babuinos (62:3.12)
+babuinos | | | | OK
+los babuinos son descendientes de la rama de los mamíferos intermedios que dieron lugar a los simios menos avanzados, como son también los monos, chimpancés y gorilas, a diferencia de la especie humana que desciende de una rama superior de los mamíferos intermedios (62:3.12)
+> https://es.wikipedia.org/wiki/Papio
 
-lenguaje infantil | | | | 
-ilustra el origen de los dialectos (81:6.17)
+lenguaje infantil; hablar como los niños | | | | OK
+Un ejemplo del origen de los dialectos es la condescendencia a «hablar como los niños» dentro de un grupo familiar. (81:6.17)
 
-Babilonia | (130:0.3) (134:1.1) | babilonios | PLACE | 
+Babilonia | (130:0.3) (134:1.1) | babilonios | PLACE | OK
 el bautismo era un ceremonial religioso en Babilonia (85:4.1)
-caballería de Babilonia empujada hacia Mesopotamia (79:1.5)
-El judaísmo fue salvado del olvido por los maestros de Babilonia (121:6.8)
-Marduc fue la perpetuación de la leyenda de Adán (92:5.6)
-Pedro visitó Babilonia (139:2.11)
+debido a una sequía los anditas del sur y el este del mar Caspio se dirigieron hacia el sur, y su caballería de Babilonia empezó a entrar en Mesopotamia (79:1.5)
+La teología judía que sobrevivió era la que se interpretaba y se practicaba en Jerusalén, a pesar del hecho de que varias veces fue salvada del olvido gracias a la oportuna intervención de ciertos educadores de Babilonia. (121:6.8)
+En Babilonia, el dios Marduc era una perpetuación de la leyenda de Adán, la idea del hijo de Dios, el eslabón entre el hombre y Dios. (92:5.6)
+Pedro el apóstol viajó mucho visitando todas las iglesias desde Babilonia hasta Corinto (139:2.11)
+> https://es.wikipedia.org/wiki/Babilonia_(ciudad)
 
-cautiverio babilónico | | | | 
-500 años de señorío de judíos por extraterrestres (97:8.3)
-Sargón se llevó a 25.000 judíos en 700 a.C.; instaló otros en Palestina (143:4.1-2)
-Los hebreos llevaron los tabúes del sábado desde (95:1.2)
-Judíos muy influenciados por las tradiciones caldeas durante (97:7.1-3)
-Judíos tremendamente deprimidos por (93:9.9)
-concepto liberado de Yahvé como Dios de todas las naciones (96:4.8)
-Nabucodonosor destruyó Jerusalén, se llevó a la gente a Babilonia (97:9.24-28)
-Antiguo Testamento compilado durante (93:9.6-9)
-Persia liberó a los judíos de (97:10.2)
-los sacerdotes destruyeron registros después (97:8.1)
-los sacerdotes inventaron leyendas durante (74:8.9-11) (78:7.3)
-Conmocionó al resto de Israel al monoteísmo (97:9.26)
+cautiverio babilónico; cautividad en Babilonia | | | | OK
+los judíos estuvieron sometidos durante quinientos años a la soberanía de los gobernantes babilónicos (97:8.3)
+El fin de Judá sobrevino repentinamente. La ciudad fue destruida y la población llevada a Babilonia. La lucha entre Yahvé y Baal terminó en la cautividad. Y la conmoción de la cautividad llevó al resto de Israel al monoteísmo. (97:9.26)
+Sargón, rey de Asiria, aplastó una revuelta en Palestina central y se llevó como cautivos a más de veinticinco mil judíos del reino septentrional de Israel, instalando en su lugar a un número casi igual de descendientes de los cutitas, sefarvitas y amatitas (143:4.1-2)
+El ego nacional de los judíos fue enormemente deprimido debido a la cautividad en Babilonia. (93:9.9)
+Los hebreos se llevaron los tabúes del sábado desde Babilonia (95:1.2)
+Las tradiciones y leyendas babilónicas influyeron mucho sobre los judíos durante su cautividad, aunque debe tenerse en cuenta que mejoraron constantemente el carácter moral y el significado espiritual de las historias caldeas que adoptaron, a pesar de que deformaron invariablemente estas leyendas para hacer recaer el honor y la gloria sobre la ascendencia y la historia de Israel. (97:7.1-3)
+La cautividad posterior que esclavizó a los judíos en Babilonia liberó finalmente el concepto evolutivo de Yahvé hasta asumir el papel monoteísta de Dios de todas las naciones. (96:4.8)
+Nabucodonosor destruyó Jerusalén y se llevó a la gente a Babilonia (97:9.24-28)
+Persia liberó a los judíos del cautiverio babilónico (97:10.2)
+las escrituras judías
+	los documentos del Antiguo Testamento fueron redactados en masa en Babilonia (93:9.6-9)
+	los sacerdotes se inventaron muchas leyendas durante el cautiverio en Babilonia (74:8.9-11) (78:7.3)
+	Durante el exilio en Babilonia, los sacerdotes prepararon su nuevo relato sobre las relaciones supuestamente milagrosas entre Dios y los hebreos, la historia sagrada de Israel tal como figura en el Antiguo Testamento. Luego destruyeron de manera cuidadosa y por completo los archivos existentes de los asuntos hebreos —los libros tales como «Los Actos de los reyes de Israel» y «Los Actos de los reyes de Judá», así como otros diversos documentos más o menos precisos de la historia hebrea. (97:8.1)
 
-babilonios | | Babilonia | RACE | 
-contacto inmediato con restos de adanitas (74:8.6)
-parte de la raza semítica más antigua que incluía judíos (121:2.1)
-enseñó al hombre que descendía directamente de los dioses (74:8.6)
-dioses de la tríada (104:0.3)
+babilonios | | Babilonia | RACE | OK
+A causa de su contacto directo con los restos de la civilización de los adamitas, los babilonios ampliaron y embellecieron la historia de la creación del hombre, y enseñaron que el hombre había descendido directamente de los dioses. (74:8.6)
+Los judíos formaban parte de la raza semita más antigua, que incluía también a los babilonios, los fenicios y a los enemigos más recientes de Roma, los cartagineses. (121:2.1)
+los babilonios, como muchas otras razas, tuvieron dioses que formaban tríadas, pero éstas no eran todavía verdaderas trinidades (104:0.3)
 
-solteros | | | | 
-gravado en nación continental (72:7.5)
+solteros | | | | OK
+El Libro de Urantia menciona como curiosidad que en un planeta cercana, en la principal nación de ese mundo, el cuerpo de policía estatal es reclutado únicamente a base de hombres solteros entre los 25 y los 50 años de edad, y a diferencia de lo que suele ocurrir, estos policías solteros están exentos de pagar impuestos (72:7.5)
 
-de vuelta a la naturaleza | | | | 
-La frase es el engaño de la ignorancia (68:1.7)
+de vuelta a la naturaleza; regreso a la naturaleza | | | | OK
+La expresión moderna «regreso a la naturaleza» es una ilusión de la ignorancia, una creencia en la realidad de una antigua «edad de oro» ficticia. (68:1.7)
 
-reincidencia | | | | 
-Andón y Fonta sucumbieron a sus miedos por un tiempo (63:2.1)
-el hombre puede abandonar repetidamente a Dios mientras permanece la elección (5:1.11)
-dar la vuelta después de poner la mano en el arado (163:2.3)
+reincidencia; vuelve atrás | | | | OK
+Andón y Fonta, nuestros primeros padres, sucumbieron a sus miedos por un tiempo (63:2.1)
+El hombre mortal puede acercarse a Dios y alejarse repetidas veces de la voluntad divina durante tanto tiempo como conserve su poder de elección. (5:1.11)
+Jijo Jesús: «Ningún hombre que ha puesto la mano en el arado, y se vuelve atrás, es digno de convertirse en un mensajero del reino». (163:2.3)
 
-bacterias | | hongos | | 
-helechos destruidos en Devónico (59:4.13)
-Portadores de Vida decepcionados por la reversión del parásito (65:5.2)
-poco cambiado desde la antigüedad (65:2.3)
-los mortales luchan en todos los mundos (49:4.6)
-más causantes de enfermedades bacterias son hongos parásitos renegados (65:2.3)
+bacterias | | hongos | | OK
+muchos helechos pequeños fueron destruidos por bacterias en el Devónico (59:4.13)
+los Portadores de Vida quedaron muy decepcionados por el retroceso de ciertas plantas primitivas hasta los niveles preclorofílicos de las bacterias parasitarias, que se produjera a una escala grande e inesperada, y ha causado muchas enfermedades desoladoras en los seres humanos (65:5.2)
+Las bacterias, unos simples organismos vegetales de naturaleza muy primitiva, han cambiado muy poco desde los primeros albores de la vida; incluso muestran cierto grado de retroceso en su comportamiento parasitario. (65:2.3)
+los mortales luchan contra las enfermedades por bacterias en todos los mundos (49:4.6)
+La mayoría de las bacterias que producen las enfermedades, y sus cuerpos auxiliares los virus, pertenecen en realidad a un grupo de hongos parasitarios renegados, que retrocieron evolutivamente. (65:2.3)
 
-Badonán | | | PERSON | 
+Badonán | | | PERSON | OK
 Badonán fue un tataranieto de Andón y Fonta, los primeros padres del género humano (64:3.1)
 fundó un centro de cultura en lo que actualmente es Afganistán (67:6.1) (79:0.1)
 
-tribus de Badonán | | andonitas | RACE | 
-creía en 2 almas, el aliento y la sombra (86:5.17)
-temeroso del hielo, el agua (64:3.3)
-nunca practicó sacrificios humanos (64:3.1)
-de la India tenía restos de la cultura de Onagar (64:2.4) (64:3)
-La guerra implacable dejó solo vivos a los más inteligentes (64:5.1)
-Razas Sangik nacidas en (64:5.2-3)
-guerra de exterminio contra vecinos inferiores (64:3.5)
+tribus de Badonán; hijos de Badonán; badonitas; pueblos de Badonán; tribus superiores de Badonán | | andonitas | RACE | OK
+Los hijos de Badonán desarrollaron la creencia en dos almas: el aliento y la sombra. (86:5.17)
+fueron un pueblo temeroso del hielo y el agua (64:3.3)
+nunca practicaron sacrificios humanos, pero el resto de andonitas sí que lo hicieron (64:3.1)
+Durante un largo período de decadencia cultural, los pueblos de Foxhall en Inglaterra y las tribus de Badonán en el noroeste de la India continuaron manteniendo algunas tradiciones de Andón y ciertos restos de la cultura de Onagar. (64:2.4) (64:3)
+Hace 850.000 años, las tribus superiores de Badonán empezaron una guerra de exterminio contra sus vecinos inferiores. Esto mejoró ligeramente la raza badonita y sus descencientes es lo que hoy se conoce como la raza de Neandertal (64:3.5)
+Hace 500.000 años una guerra implacable en el noroeste de la India dejó solo vivos a los más inteligentes (64:5.1)
+las razas sangik nacieron a partir de los badonitas (64:5.2-3)
 
-tribus Baganda | | | RACE | 
-emergió del nivel de maná de oración (91:0.5)
+tribus Baganda; tribus baganda | | | RACE | OK
+las tribus baganda de África han salido en tiempos recientes del nivel de oración mana (91:0.5)
 
-equilibrar | | simetría | | 
-en el judaísmo, la filosofía y la estética están completamente sumergidas en la religión y la moral (97:10.5) (98:2.7-9)
-falta de equilibrio entre el crecimiento intelectual y espiritual peligroso (98:1.6)
-falta de equilibrio en Grecia, donde la experiencia religiosa personal no pudo seguir el ritmo del intelecto (98:2.7-9)
-filosofía, religión y ciencia unidas por la sabiduría, la fe y la experiencia (98:2.12)
-sentido de proporción necesario en el ejercicio de la virtud (16:7.7)
-mayor crecimiento espiritual cuando los poderes físicos, mentales y espirituales en equilibrar (110:6.4)
-unificación de la lógica matemática, la razón mental y la fe espiritual en la personalidad (16:6.10)
+equilibrar; desequilibrio; equilibradas | | simetría | | OK
+En Palestina, el pensamiento humano estaba tan controlado por los sacerdotes y tan dirigido por las escrituras, que la filosofía y la estética estaban totalmente sumergidas en la religión y la moralidad. (97:10.5) (98:2.7-9)
+Pero la moral, la ética y la filosofía griegas avanzaron enseguida mucho más allá del concepto teísta, y este desequilibrio entre el crecimiento intelectual y el desarrollo espiritual fue tan peligroso para Grecia como lo había sido para la India. (98:1.6)
+La religión de Grecia, como experiencia personal, no logró seguir el mismo ritmo que la investigación intelectual de la naturaleza y de la realidad del cosmos. (98:2.7-9)
+el estado ideal humano es aquél en el que la filosofía, la religión y la ciencia están soldadas en una unidad significativa gracias a la acción conjunta de la sabiduría, la fe y la experiencia. (98:2.12)
+Cierto sentido de la proporción también está implicado en el ejercicio de la virtud, porque se puede cometer el mal cuando se elige lo menor en lugar de lo mayor, a consecuencia de la deformación o del engaño. (16:7.7)
+hay un mayor crecimiento espiritual cuando los poderes físicos, mentales y espirituales están en equilibrio (110:6.4)
+la lógica matemática, la razón mental y la fe espiritual pueden unificarse y coordinarse en el desarrollo de la personalidad (16:6.10)
 
-balances de poder | | | | 
-la paz mundial no puede ser mantenida por (134:6.9)
+balances de poder; equilibrios de poder | | | | OK
+La paz mundial no se puede mantener mediante tratados, diplomacia, políticas exteriores, alianzas, equilibrios de poder o cualquier otro tipo de juegos malabares improvisados con las soberanías de los nacionalismos. Hay que crear una ley mundial y debe ser aplicada por un gobierno mundial —la soberanía de toda la humanidad. (134:6.9)
 
-Balcanes | | | PLACE | 
-Los andonitas entraron en Europa a través de (80:9.6)
+Balcanes | | | PLACE | OK
+Los andonitas entraron en Europa a través de los Balcanes (80:9.6)
 
-Báltico | | | PLACE | 
-Ruta de invasión andita a Europa (80:4.1-2)
+Báltico | | | PLACE | OK
+El Báltico fue una ruta de invasión de andonitas que penetraron en Europa entre la tercera y la cuarta invasión anditas (80:4.1-2)
 
-Baluchistán | | | PLACE | 
-Infiltración andita en (79:1.1) (79:2.4)
+Baluchistán | | | PLACE | OK
+Baluchistán fue una ruta de invasión de los anditas hacia la India (79:1.1) (79:2.4)
+> https://es.wikipedia.org/wiki/Baluchistán_(Pakistán)
 
-banco (moral) | | | | 
-tiene vastos recursos espirituales (195:6.1)
+banco (moral); banco moral | | | | OK
+Los científicos han precipitado involuntariamente a la humanidad hacia un pánico materialista; han desencadenado un asedio irreflexivo al banco moral de los siglos, pero este banco de la experiencia humana tiene enormes recursos espirituales; puede soportar las demandas que se le hagan. (195:6.1)
 
-bancario | | cambistas; usura | | 
-la tasa de interés antigua era del 100% (69:5.6)
-crédito comercial practicado por primera vez en Dalamatia (66:5.12)
-los tribunales determinan las tasas de interés en la nación continental (72:5.5)
-El banquero primitivo fue un valiente hombre de tribu (69:5.2)
+bancario; loan rate; banquero | | cambistas; usura | | OK
+la tasa de interés en la antigüedad era del cien por cien al año, lo cual era un medio de esclavizar (69:5.8)
 los primeros acreedores controlaron el cuerpo después de la muerte (69:5.8)
-sistema extenso en el templo de Jerusalén (173:1.3-4)
-riqueza honesta con derecho a intereses (132:5.19)
-Judas depositó fondos (147:2.1) (163:2.11) (172:2.3)
-Moisés dijo que su pueblo prestaría pero no pediría prestado (96:5.4)
-el sirviente negligente debería haber obtenido interés (171:8.6) (176:3.4)
+El banquero primitivo era el hombre más valiente de la tribu. (69:5.2)
+El crédito comercial se practicó por primera vez entre estos grupos instruidos, educados en las escuelas de Dalamatia. (66:5.12)
+en un planeta vecino los tribunales determinan las tasas de interés en la nación continental principal (72:5.5)
+Moisés y los préstamos
+	Moisés dijo que su pueblo prestaría pero no pediría prestado; creía en la Providencia (96:5.4)
+	en Jerusalén se fomentó un amplio sistema de intercambio bancario y comercial, que se realizaba directamente dentro de los recintos del templo (173:1.3-4)
+Jesús y los préstamos
+	en la parábola de los talentos el siervo negligente debería haber obtenido intereses, hacer producir sus talentos (171:8.6) (176:3.4)
+	Judas depositaba una parte de los fondos comunes en el banco de un amigo de su familia (147:2.1) (163:2.11) (172:2.3)
+	La riqueza honrada tiene derecho a unos intereses. (132:5.19)
 
-estandarte de Miguel | | círculos concéntricos, tres | | 
+estandarte de Miguel | | círculos concéntricos, tres | | OK
 
-banquetes | | | | 
-Costumbre judía contra las mujeres sentadas en (172:1.2)
-La costumbre judía de que persisten las personas interesadas (138:3.5) (147:5.2)
-los primitivos daban fiestas pretenciosas para disipar la deshonra (69:5.12)
-a veces invitan a pobres, mutilados y ciegos (140:8.12) (167:1.5)
+banquetes; banquete | | | | OK
+en la antigüedad
+	La propiedad se volvió tan apreciada que bastaba dar un festín presuntuoso para borrar el deshonor de un nombre. (69:5.12)
+en tiempos de Jesús 
+	era contrario a la costumbre de los judíos que una mujer se sentara en un banquete público (172:1.2)
+	En aquellos tiempos, cuando un banquete-recepción de este tipo se ofrecía a un individuo sobresaliente, todas las personas interesadas tenían la costumbre de merodear por la sala del banquete para ver comer a los convidados y escuchar la conversación y los discursos de los invitados de honor. (138:3.5) (147:5.2)
+	dijo Jesús: «Cuando ofrezcáis un banquete, invitad de vez en cuando a los pobres, a los mutilados y a los ciegos. De esa manera os sentiréis dichosos en vuestro corazón, porque sabéis muy bien que los cojos y los lisiados no pueden devolveros vuestra ayuda amorosa». (140:8.12) (167:1.5)
 
-hadas malignas | | | | 
-Los monoteístas en evolución mantienen a los dioses subordinados como (96:1.14)
+hadas malignas | | | | OK
+Los monoteístas conservan a sus dioses subordinados como espíritus, demonios, Parcas, Nereidas, hadas, duendes, enanos, hadas malignas y el mal de ojo. (96:1.14)
 
-bautismo | | | | 
-bautismo de Jesús | Jesús:eventos en la vida
-bautismo del espíritu | renacimiento espiritual
-evolución de la ceremonia (87:6.12)
-en la iglesia cristiana primitiva (194:4.9)
-Jesús nunca se opuso al rito de (170:5.13)
-Juan bautizó para la remisión de los pecados (135:6.4)
-Rito mitraico (98:5.4) (98:6.4)
-de los prosélitos gentiles a la comunión del atrio exterior (135:6.4)
-precio que pagaron los apóstoles para ganar seguidores de Juan (144:7.1)
-profesión pública de entrada al reino (144:6.7) (144:8.5)
-ceremonial religioso en Babilonia (85:4.1)
+bautismo | | | | OK
+el bautismo en la antigüedad
+	El agua se consideraba como la mejor protección contra los fantasmas. Los romanos daban tres vueltas con agua alrededor de un cadáver; en el siglo veinte, los cadáveres se rocían con agua bendita, y los judíos conservan todavía el ritual de lavarse las manos en el cementerio. El bautismo fue una característica del ritual posterior del agua. Los baños primitivos eran una ceremonia religiosa. El baño sólo se ha convertido en una práctica higiénica en los tiempos recientes. (87:6.12)
+	El bautismo se volvió un ceremonial religioso en Babilonia, y los creeks practicaban el baño ritual anual. (85:4.1)
+	los judíos durante mucho tiempo habían tenido la costumbre de bautizar a los prosélitos gentiles para admitirlos en la comunidad del patio exterior del templo. (135:6.4)
+el bautismo de Juan
+	Juan bautizó «para la remisión de los pecados». Aunque el bautismo no era una ceremonia nueva para los judíos, nunca habían visto emplearlo como Juan lo hacía ahora. (135:6.4)
+el bautismo de Jesús
+	Jesús fue bautizado por Juan a mediodía del 14 de enero de 26 (135:8) | Jesús:eventos en la vida
+	Jesús preveía que una organización social, o iglesia, seguiría al progreso del verdadero reino espiritual, y por eso no se opuso nunca a que los apóstoles practicaran el rito del bautismo de Juan. (170:5.13)
+	la adopción del bautismo de Juan es el precio que pagaron los apóstoles para ganar seguidores de Juan. Los discípulos de Juan, al unirse con los de Jesús, renunciaron a casi todo, excepto al bautismo con agua. (144:7.1)
+	los apóstoles de Jesús y de Juan votaron por unanimidad que el bautismo se convertiría en el paso inicial de la alianza exterior con los asuntos del reino, una profesión pública de entrada al reino (144:6.7) (144:8.5)
+	Jesús nunca bautizó a nadie. Esta tarea sólo la hicieron los apóstoles y sus seguidores (149:0.3)
+	El verdadero bautismo que Jesús ofreció fue el bautismo del Espíritu: «En verdad, Juan ha bautizado con agua, pero cuando entréis en el reino de los cielos, seréis bautizados con el Espíritu.» (141:6.5) | renacimiento espiritual
+el bautismo de la iglesia
+	en la iglesia cristiana primitiva al principio bautizaron en el nombre de Jesús; pero casi veinte años después empezaron a bautizar «en el nombre del Padre, del Hijo y del Espíritu Santo». El bautismo era todo lo que se exigía para ser admitido en la comunidad de los creyentes. (194:4.9)
+	el mitraismo compartía con el cristianismo un bautismo y un sacramento con pan y vino (98:5.4) (98:6.4)
 
 Barrabás | | | PERSON | OK
 Barrabás fue un agitador político, ladrón asesino e hijo de un sacerdote (185:5.3-11)
@@ -183,553 +196,620 @@ el ladrón en la cruz había considerado a Barrabás como a un héroe (187:4.5)
 Barac | | | PERSON | OK
 Barac fue un general israelita que, bajo la dirección de la profetisa Débora, derrotó al caudillo cananeo Sísara en Taanaj (126:1.2)
 
-barberos | | | | 
-los primeros casamenteros fueron (83:2.1)
+barberos | | | | OK
+los primeros casamenteros fueron barberos; y más adelante los sacerdotes (83:2.1)
 
-corteza de árboles | | | | 
-los primeros escribieron sobre (66:5.9)
+corteza de árboles; corteza de los árboles | | | | OK
+los pueblos primitivos utilizaban como material para escribir la corteza de los árboles, las tablillas de arcilla, las losas de piedra, un tipo de pergamino hecho de pieles machacadas y una especie de papel sin refinar que hacían con los nidos de las avispas. (66:5.9)
 
-cebada | | | | 
-mejorada en el Jardín del Edén (81:1.7)
+cebada | | | | OK
+Durante miles de años, los descendientes de Adán cultivaron el trigo y la cebada, que habían mejorado en el Jardín, en todas las tierras altas del borde superior de Mesopotamia. (81:1.7)
 
 Bernabé | | | PERSON | OK
 Bernabé fue un creyente griego muy hábil, discípulo de Rodán de Alejandría, y amigo de Esteban, que ambos fueron a Jerusalén a predicar; allí Esteban sufriría el ser apedreado (194:4.11)
 
-percebes | (59:4.3) | | | 
+percebes | (59:4.3) | | | OK
 
-el rico tonto que derriba sus graneros (parábola) | | | | 
-el rico tonto derribado (165:4.2)
+el rico tonto que derriba sus graneros (parábola) | | | | OK
+la parábola del rico tonto a quien derribaron sus graneros fue la historia que Jesúys contó para ejemplificar que la codicia era un serio impedimento para entrar en el reino (165:4.2-7)
 
-esterilidad | | fertilidad | | 
+esterilidad; estériles | | fertilidad | | OK
 entre los antiguos, la esterilidad se atribuía a maquinaciones espirituales (83:4.4)
-los antiguos siempre culparon la esterilidad sobre la esposa (83:7.2)
-muñeca empleada por primera vez como talismán contra (88:6.4)
+los antiguos siempre culparon de la esterilidad a la esposa (83:7.2)
+Las muñecas fueron empleadas al principio como talismanes mágicos por las esposas estériles. (88:6.4)
 
-permuta | | | | 
-prácticas tempranas de silencio permuta; fetiche montó guardia (69:4.1-4)
-en esclavos sexuales (69:5.10)
+permuta; trueque | | | | OK
+el comercio de trueque siguió a las incautaciones de los ataques por sorpresa. Pero transcurrió un largo período de piratería entre las primeras prácticas del trueque silencioso y el comercio posterior realizado con métodos de intercambio modernos. Se utilizaba un fetiche para montar la guardia en los depósitos de mercancías destinados al trueque silencioso. Estos lugares de mercado estaban protegidos contra el robo; no se podía retirar nada, a menos que se hiciera mediante la permuta o la compra; con un fetiche de guardia, las mercancías siempre estaban a salvo. (69:4.1-4)
+el trueque de esclavos por motivos sexuales nunca ha hecho progresar a la sociedad; este tráfico era y es una vergüenza racial, porque obstaculizó el desarrollo de la vida familiar y, al mismo tiempo, contaminó la aptitud biológica de los pueblos superiores. (69:5.10)
 
 Bartolomé | | | PERSON | OK
-Bartolomé es el padre de Natanael el apóstol, y vivía con su mujer en Caná de Galilea. Falleció poco después de Pentecostés. Seguramente su fallecimiento propició que Natanael se dispusiera a viajar al extranjero a predicar, pues hasta ese momento él había sido el único sostén de sus padres (139:6.2) (139:6.9)
+Bartolomé es el padre de Natanael el apóstol, y vivía con su mujer en Caná de Galilea. Falleció poco después de Pentecostés. Seguramente su fallecimiento propició que Natanael se dispusiera a viajar al extranjero a predicar, pues hasta ese momento él había sido el único sostén de sus padres (139:6.2,9)
 
 Bartimeo | | | PERSON | OK
 Bartimeo es el ciego a quien Jesús restauró la vista (171:5)
+> https://es.wikipedia.org/wiki/Bartimeo_(ciego)
 
-basalto | | | | 
-la corteza terrestre estabilizada por el mar fundido de (58:5.3-4)
-forma de lava más pesada que el granito (58:5.6)
-Palisades of Hudson formadas por extrusión de (60:1.3)
+basalto | | | | OK
+la corteza terrestre estaba sostenida por un mar de basalto fundido (58:5.3-4)
+el basalto de los fondos marinos es una forma de lava más pesada que el granito, y eso hace al fondo marino más pesado que las masas terrestres, y por eso hundido (58:5.6)
+Los Acantilados del Río Hudson fueron formados por la extrusión de lavas basálticas entre estos estratos triásicos. (60:1.3)
 
-Basan | | | PLACE | 
-brutal incursión hebrea contra el rey de Basan (69:8.3)
+Basan | | | PLACE | OK
+El ataque por sorpresa de los hebreos a Og, el rey de Basan, fue brutal e impresionante. Los hebreos «destruían por completo» a sus enemigos, y se apoderaban de todos sus bienes como botín. (69:8.3)
+> https://en.wikipedia.org/wiki/Bashan
 
-cestería | | | | 
-origen de la idea (81:2.17-18)
+cestería; cestos | | | | OK
+La idea de trenzar todo tipo de cestos se originó independientemente a partir de las cabañas primitivas. (81:2.17-18)
 
-vascos | | raza blanca:divisiones:sur | RACE | 
-raza azul mezclada con saharauis (80:9.11)
+vascos | | raza blanca:divisiones:sur | RACE | OK
+Los vascos y los bereberes representan la supervivencia de dos ramas de la raza azul, pero incluso estos pueblos se han mezclado por completo con los saharianos. (80:9.11)
+> https://es.wikipedia.org/wiki/Origen_de_los_vascos
 
-Batanea | (138:2.4) (154:7.4) (155:0.1) | | PLACE | 
+Batanea | (138:2.4) (154:7.4) (155:0.1) | | PLACE | OK
 región al norte de Galilea
 
-baños | | | | 
-la creencia de que los bebés deformados fueron el resultado de un descuido baños (84:1.4)
-Los griegos practicaban el ritual de (85:4.1)
-Jesús se negó a ir a baños públicos (132:4.5) (133:3.6)
-ceremonial religioso antes de la llegada del Príncipe (66:5.21) (87:6.12)
+baños | | | | OK
+Los bebés deformes o prematuros eran considerados como las crías de unos animales que habían encontrado la manera de entrar en el cuerpo de una mujer a consecuencia de un baño imprudente o debido a la actividad malévola de un espíritu. (84:1.4)
+Antes de la llegada del Príncipe, los baños habían sido un ceremonial exclusivamente religioso. (66:5.21) (87:6.12)
+Los griegos practicaban el baño ritual anual (85:4.1)
+Jesús se negó a ir a los baños públicos a causa de la promiscuidad sexual que predominaba allí. (132:4.5) (133:3.6)
 
 Betsabé | | | PERSON | OK
 Betsabé era la esposa de Urías el hitita. El rey David se enamoró de ella y tras hacer matar a Urías se casó con ella. Betsabé fue la madre de Salomón, el sucesor de David (97:9.10,15)
 María, la madre de Jesús, era descendiente de Betsabé (122:1.2)
 
-murciélagos | | | | 
-mamíferos diminutos, navegantes aéreos (49:2.17) (65:2.12)
+murciélagos | | | | OK
+es el único grupo de mamíferos diminutos que son navegantes aéreos (49:2.17) (65:2.12)
 
 Baután | | | PERSON | OK
 Baután fue un discípulo de Gautama que impartió las tradiciones de Salem a Gautama (94:7.5)
 
-bahía de Bengala | | | PLACE | 
-Envío de Dravidian a (79:3.7)
+bahía de Bengala; Golfo de Bengala | | | PLACE | OK
+Los barcos dravidianos navegaban a lo largo de la costa a través del mar de Arabia hasta las ciudades sumerias del Golfo Pérsico, y se aventuraban en las aguas del Golfo de Bengala hasta las Indias Orientales. Estos navegantes y mercaderes importaron de Sumeria un alfabeto así como el arte de la escritura. (79:3.7)
 
-collar | | | | 
-cadena de collar una vez fue una batería de amuletos (88:1.2)
+collar | | | | OK
+Los primeros fetiches fueron los guijarros que tenían unas marcas peculiares, y el hombre ha buscado siempre desde entonces las «piedras sagradas»; un collar era en otro tiempo una colección de piedras sagradas, una serie de amuletos. (88:1.2)
 
-viga | | | | 
-El tonto carpintero pasó tiempo cuadrando madera podrida (156:5.2)
-en el propio ojo (140:3.17)
+viga | | | | OK
+una parábola desconocida de Jesús es la del tonto carpintero que pasó tiempo cuadrando una viga de madera podrida (156:5.2)
+Jesús mencionó también la madera al decir: No cometáis el error de intentar quitar una mota del ojo de vuestro hermano, cuando hay una viga en el vuestro. (140:3.17)
 
-osos | (61:4.3) (61:7.13) (62:5.2) | | | 
+osos | (61:4.3) (61:7.13) (62:5.2) | | | OK
 
-bienaventuranzas | | | | 
-fortalecer el carácter moral, crear felicidad (140:5.6-24)
+bienaventuranzas; beatitudes | | | | OK
+La fe y el amor de estas bienaventuranzas fortalecen el carácter moral y crean la felicidad. El Libro de Urantia da una detallada descripción y análisis de las bienaventuranzas (140:5.6-24)
 
-puerta Hermosa (Jerusalén) | | | | 
-en el templo de Jerusalén (162:4.3)
+puerta Hermosa (Jerusalén); hermosa puerta | | | | OK
+una de las puertas del recinto interior del templo de Jerusalén, que se abría hacia el patio de los gentiles (162:4.3)
 
-belleza | | arte; verdad, belleza y bondad | | 
-siempre triunfa sobre la fealdad (156:5.5)
-los antiguos creían que la belleza despertó la envidia de los espíritus (87:5.7)
-basar la vida en la conciencia más elevada de (110:3.7)
-concepto no inherente a la física (195:6.11)
-definido como
-	discernimiento de la bondad en la verdad (2:7.8)
-	máximo finito de experiencia (117:1.7)
-	relaciones armoniosas, ritmos de creación (56:10.9-11)
-	el esfuerzo del hombre por discernir a Dios en la materia (56:10.2)
-	reflejo del Paraíso en la creación material (56:10.17)
-	revelación de la Deidad (0:1.17) (56:10.9)
-	espíritu del Padre (155:6.11)
-	unificación de contrastes, de Creador y criatura (56:10.3-4)
-	realización de valores de la conciencia de Dios (111:3.7)
-discernimiento de la belleza es la integración de la realidad (2:7.8)
-conduce a la adoración, especialmente con los niños (167:6.5-6)
-la comprensión del hombre de la belleza solo relativamente cierto (115:1.2)
-más religioso cuando es simple y natural (167:6.6)
-nunca satisfactorio si no está unificado (44:7.3)
+belleza | | arte; verdad, belleza y bondad | | OK
+La belleza siempre triunfa sobre la fealdad en el corazón de todos los que están iluminados por el amor a la verdad. (156:5.5)
+La belleza despertaba la envidia de los espíritus; denotaba un orgullo humano pecaminoso. (87:5.7)
+podemos acrecentar conscientemente la armonía con el Ajustador basando sinceramente nuestra vida humana en vuestra conciencia más elevada sobre la verdad, la belleza y la bondad, y luego coordinando estas cualidades de la divinidad mediante la sabiduría, la adoración, la fe y el amor. (110:3.7)
+Los conceptos de la verdad, la belleza y la bondad no son inherentes ni a la física ni a la química. (195:6.11)
+Discernir la belleza suprema es descubrir e integrar la realidad: Discernir la bondad divina en la verdad eterna, esa es la belleza última. (2:7.8)
+Jesús inculcó a sus apóstoles el gran valor de la belleza como influencia que conduce al impulso de adorar, especialmente entre los niños (167:6.5-6)
+Las maneras de comprender la verdad, la belleza y la bondad, la moral, la ética, el deber, el amor, la divinidad, el origen, la existencia, la finalidad, el destino, el tiempo, el espacio, e incluso la Deidad, sólo son relativamente exactas. (115:1.2)
+La belleza es más religiosa cuando es más sencilla y semejante a la naturaleza. (167:6.6)
+el intento mortal por describir la belleza divina nunca es satisfactorio si no está unificado (44:7.3)
 un entorno agradable contribuye a la felicidad (140:4.10)
-servicio de la  no sustituye a la experiencia religiosa (196:3.23)
-búsqueda sincera de la belleza conduce a Dios (195:6.17)
-verdad, hecho y relación inseparables de (44:7.2)
-variedad esencial para (56:10.3-4)
+servicio de la belleza no es un sustituto a la experiencia religiosa auténtica, la realidad espiritual (196:3.23)
+La búsqueda sincera de la bondad, la belleza y la verdad conduce a Dios. (195:6.17)
+La verdad, los hechos y las relaciones son intelectualmente inseparables y están asociados con los conceptos filosóficos de la belleza. (44:7.2)
+La variedad es esencial para el concepto de la belleza. (56:10.3-4)
+definido como
+	la belleza es el discernimiento de la bondad en la verdad (2:7.8)
+	representa el máximo que los seres finitos pueden concebir por experiencia (117:1.7)
+	abarca las relaciones y los ritmos armoniosos de la creación cósmica (56:10.9-11)
+	representa el esfuerzo del hombre por discernir a Dios en la mente, la materia y el espíritu (56:10.2)
+	La belleza universal es el reconocimiento del reflejo de la Isla del Paraíso en la creación material (56:10.17)
+	engloba la revelación de la Deidad a los reinos del tiempo y del espacio (0:1.17) (56:10.9)
+	El espíritu que el Padre y Jesús envían al mundo no es solamente el Espíritu de la Verdad, sino también el espíritu de la belleza idealista. (155:6.11)
+	La belleza suprema, la cima del arte finito, es el drama de la unificación de la inmensidad de los extremos cósmicos que son el Creador y la criatura. (56:10.3-4)
+	es una realización del valor de la conciencia de Dios (111:3.7)
 
-castores | (61:2.7) (61:5.7) | | | 
-Las tribus indias creían que se originaron en (74:8.5)
+castores | (61:2.7) (61:5.7) | | | OK
+Algunas tribus de indios norteamericanos creían que se habían originado en los castores y los coyotes. (74:8.5)
 
-beduinos | | árabes | RACE | 
-creía que el espíritu de la naturaleza producía remolinos de arena (85:4.2)
+beduinos | | árabes | RACE | OK
+Los antiguos beduinos creían que un espíritu de la naturaleza producía los remolinos de arena (85:4.2)
 
-hayas | (60:3.19) | | | 
+hayas | (60:3.19) | | | OK
 
 Belcebú | | | PERSON | OK
 Belcebú era el líder de los intermedios secundarios apóstatas (53:1.5) (77:7.4)
 Jesús fue acusado de hacer milagros por el poder de Belcebú (153:4.2-3) (169:0.7)
 Jesús advirtió a los apóstoles que serían llamados asociados de Belcebú (150:4.2)
+> https://es.wikipedia.org/wiki/Belceb%C3%BA
 
-Beerot | (134:7.5) | | PLACE | 
-Población por la que pasó Jesús
+Beerot | | | PLACE | OK
+Población por la que pasó Jesús durante su viaje por Palestina en el año 25 (134:7.5)
 
-Beerseba | (134:7.4) (190:1.8) | | PLACE | 
-Población por la que pasó Jesús
+Beerseba | | | PLACE | OK
+Población por la que pasó Jesús durante su viaje por Palestina en el año 25 (134:7.4) (190:1.8)
+> https://es.wikipedia.org/wiki/Beerseba
 
-mendigo de Nápoles | | | | 
-carecía de capacidad para responder a la dirección espiritual (130:8.4)
+mendigo de Nápoles | | | | OK
+A su paso por Nápoles Jesús dio una limosna a un mendigo del que dijo que no tenía una mente normal y por tanto que carecía de la facultad para responder a la guía del espíritu del Padre (130:8.4)
 
-mendicidad | | | | 
-casi desconocido entre las tribus antiguas (69:9.1)
+mendicidad | | | | OK
+la mendicidad fue casi desconocida entre las tribus antiguas; practicaron un comunismo automático (69:9.1)
 
-comienzo de la realidad | | realidad:génesis de la realidad | | 
+comienzo de la realidad | | realidad:génesis de la realidad | | OK
 
-comportamiento | | acción | | 
+comportamiento | | acción | | OK
 
-ser | | | | 
-versus hacer (140:10.1)
+ser | | | | OK
+Jesús enseñó a los doce para tratar de mostrarles lo que debían ser, y no lo que debían hacer. Sólo conocían una religión que imponía hacer ciertas cosas para poder alcanzar la rectitud —la salvación. Pero Jesús les repetía: «En el reino, tenéis que ser rectos para hacer el trabajo». (140:10.1)
 
-Beirut | (156:3.1) | | PLACE | 
-Población por la que pasó Jesús
+Beirut | | | PLACE | OK
+Población por la que pasó Jesús con los doce durante su huida al norte en el 22 de mayo y el 4 de agosto de 29 (156:3.1)
+> https://es.wikipedia.org/wiki/Beirut
 
-Beit Adis | | | PLACE | 
-Jesús vivió en una caverna rocosa cercana (136:4.14)
+Beit Adis | | | PLACE | OK
+Beit Adis es una aldea cercana a la caverna rocosa en la que vivió Jesús durante su retiro de cuarenta días antes de la predicación (136:4.14)
 
-Beit Jenn | | | PLACE | 
-La sede de Jesús mientras estaba en el monte Hermón (134:8.1)
+Beit Jenn | | | PLACE | OK
+Beit Jenn es un pueblo cerca del cual Jesús estableció su campamento mientras estuvo en el monte Hermón en el verano de 25 (134:8.1)
 
 Belo | | | PERSON | OK
 Dios babilónico, también llamado Bel; Dios mesopotámico de la tierra; equivalente al Baal semítico; formó una tríada con Ea y Anu (95:1.4) (97:6.2)
+> https://es.wikipedia.org/wiki/Bel
 
 Belo-Marduc | | | PERSON | OK
 Los mesopotámicos redujeron a sus dioses al concepto de Belo-Marduc, un dios que fusionaba varios (96:0.1)
 hubo templos a Belo-Marduc en Babilonia (95:1.10)
+> https://es.wikipedia.org/wiki/Marduk
 
-Bélgica | (61:4.2) | | PLACE | 
-asentamiento danubiano más al norte en Lieja en (80:8.4)
+Bélgica | (61:4.2) | | PLACE | OK
+La colonia más septentrional de los danubianos se encontraba en Lieja, en Bélgica. (80:8.4)
+> https://es.wikipedia.org/wiki/Bélgica
 
-creencia | | fe | | 
-aceptación de la enseñanza como verdadera (101:8.1)
-siempre limita y vincula (101:8.2)
-y fe (102:6)
-las creencias más que el conocimiento determinan la conducta (99:4.5)
-la educación aumenta el respeto por las opiniones de los demás (25:3.12)
-difícil de sacudir una vez que formaba parte de la propia religión (153:3.6)
-puede que no pueda resistir la duda y el miedo (102:6.7)
-Las religiones de autoridad requieren uniformidad en (155:6.9)
-tiempo requerido para efectuar un cambio radical en fundamental (152:6.1)
+creencia | | fe | | OK
+La creencia alcanza el nivel de la fe cuando motiva la vida y modela la manera de vivir. La aceptación de una enseñanza como verdadera no es la fe; es una simple creencia. (101:8.1)
+La creencia limita y ata siempre; la fe expande y desata. La creencia fija, la fe libera. (101:8.2)
+Se puede llegar a convicciones sobre Dios a través de un sabio razonamiento, pero el individuo sólo llega a conocer a Dios por medio de la fe, a través de la experiencia personal (102:6)
+Después de todo, lo que uno cree, más bien que lo que uno sabe, es lo que determina la conducta y domina las acciones personales. (99:4.5)
+Cuanto más elevada es la educación de una criatura, más respeto tiene por el conocimiento, la experiencia y las opiniones de los demás. (25:3.12)
+Las creencias son difíciles de eliminar una vez que se han vuelto parte de la religión. (153:3.6)
+La creencia puede ser incapaz de resistir a la duda y de soportar el miedo, pero la fe siempre triunfa sobre la duda, porque la fe es a la vez positiva y viviente. (102:6.7)
+Las religiones de autoridad exigen a los hombres una creencia uniforme, pero esto es imposible de realizar en el estado actual del mundo. (155:6.9)
+Los hombres y las mujeres necesitan tiempo para efectuar cambios radicales y amplios en sus conceptos básicos y fundamentales sobre la conducta social, las actitudes filosóficas y las convicciones religiosas. (152:6.1)
 
-creyentes | | hijos de Dios por la fe | | 
+creyentes | | hijos de Dios por la fe | | OK
 
-oración del creyente | | oración del Señor | | 
+oración del creyente | | oración del Señor | | OK
 
-beligerancia | | odio | | 
+beligerancia | | odio | | OK
 
-campanas | | | | 
-Doncella china sacrificada para mejorar el tono (89:6.4)
+campanas; campana | | | | OK
+Cuando los chinos se disponían a fundir una campana, la costumbre decretaba que se sacrificara al menos una doncella con el fin de mejorar el tono de la campana; la muchacha seleccionada era arrojada viva en el metal fundido. (89:6.4)
 
-Benarés | | | PLACE | 
-Gautama fundó la escuela en (94:7.5)
+Benarés | | | PLACE | OK
+Gautama fundó la escuela en Benarés (94:7.5)
+> https://es.wikipedia.org/wiki/Benarés
 
-bendición | | | | 
-La bendición de Emmanuel para Miguel (120:3.10)
-La bendición de Jesús a los apóstoles (193:5.2)
+bendición | | | | OK
+La bendición de Emmanuel para Miguel
+	«Y ahora, que tu Padre y mi Padre, que siempre nos ha sostenido en todas las actividades pasadas, te guíe, te sostenga y esté contigo desde el momento en que nos dejes y lleves a cabo el abandono de la conciencia de tu personalidad, durante tu reconocimiento gradual de tu identidad divina encarnada en una forma humana, y luego durante toda tu experiencia de donación en Urantia, hasta tu liberación de la carne y tu ascensión a la derecha de la soberanía de nuestro Padre. Cuando vuelva a verte en Salvington, te acogeremos a tu regreso como soberano supremo e incondicional de este universo que tú mismo has creado, servido y comprendido por completo». (120:3.10)
+La bendición de Jesús a los apóstoles
+	«Os he pedido que permanezcáis en Jerusalén hasta que seáis dotados de un poder de las alturas. Ahora estoy a punto de despedirme de vosotros; estoy a punto de ascender hacia mi Padre, y pronto, muy pronto, enviaremos al Espíritu de la Verdad a este mundo donde he residido; cuando haya venido, empezaréis la nueva proclamación del evangelio del reino, primero en Jerusalén, y luego hasta los lugares más alejados del mundo. Amad a los hombres con el amor con que yo os he amado, y servid a vuestros semejantes mortales como yo os he servido. Mediante los frutos espirituales de vuestra vida, impulsad a las almas a creer en la verdad de que el hombre es un hijo de Dios, y de que todos los hombres son hermanos. Recordad todo lo que os he enseñado y la vida que he vivido entre vosotros. Mi amor os cubre con su sombra, mi espíritu residirá con vosotros y mi paz permanecerá en vosotros. Adiós». (193:5.2)
 
-Bengala | | | PLACE | 
-adoración del meteoro que cayó en 1880 d.C. (85:1.2)
+Bengala | | | PLACE | OK
+En Bengala, mucha gente adora un meteoro que cayó en la Tierra en el año 1880 d. (85:1.2)
+> https://es.wikipedia.org/wiki/Bengala
 
-bereberes | | raza blanca:divisiones | RACE | 
-raza azul mezclada con saharauis (80:9.11)
+bereberes | | raza blanca:divisiones | RACE | OK
+Los bereberes actuales son un pueblo muy mezclado con los saharianos, pero descienden de uno de los restos más puros de la raza azul (80:9.11)
 
-puente terrestre de Bering | | | PLACE | 
-lémures, las tortugas migraron (62:1.2) (60:2.13)
-la raza roja emigró, 100.000-85.000 a.C. (64:6.5) (79:5.6)
-subió o bajó (60:1.6,13) (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6)
+puente terrestre de Bering; puente terrestre del norte; Estrecho de Bering | | | PLACE | OK
+los lémures y las tortugas migraron a Norteamérica por el puente terrestre de Bering (62:1.2) (60:2.13)
+la raza roja emigró a Norteamérica por el puente terrestre entre 100.000 - 85.000 a.C. (64:6.5) (79:5.6)
+el Estrecho de Bering emergió y se sumergió varias veces (60:1.6,13) (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6)
 
 Berenice | | | PERSON | OK
 Berenice era la madre de Justa, en cuya casa Jesús se alojó cuando estuvo en Sidón (156:2.2)
 
-donación | | Hijos Creadores:donaciones de criaturas; Hijos Paradisíacos de Dios:donaciones | | 
+donación | | Hijos Creadores:donaciones de criaturas; Hijos Paradisíacos de Dios:donaciones | | OK
 
-Asistentes de las Donaciones | | Serafines supremos | | 
-144 Serafines supremos que asisten a misiones avonales (39:1.4-6)
+Asistentes de las Donaciones | | Serafines supremos | | OK
+Cuando realizan una misión donadora, los Avonales del Paraíso, pero no los Hijos Creadores, siempre van acompañados de un cuerpo de 144 Serafines supremos que les asisten en sus misiones avonales (39:1.4-6)
 
 Bet-Marión | | | PERSON | OK
 Bet-Marión fue una mujer fenicia fanática en su fe en Jesús que a punto estuvo de ahogarse tratando de caminar sobre el agua (148:8.4)
 
-Bet-Meón | (165:0.1) | | PLACE | 
-Población por la que Jesús pasó en su misión de Perea
+Bet-Meón | | | PLACE | OK
+Una de las poblaciones visitadas por Jesús, los doce y los setenta, durante la misión en Perea entre el 3 de enero de 30 hasta la muerte de Jesús (165:0.1)
 
-Bet-Nimra | (165:0.1) | | PLACE | 
-Población por la que Jesús pasó en su misión de Perea
+Bet-Nimra | | | PLACE | OK
+Una de las poblaciones visitadas por Jesús, los doce y los setenta, durante la misión en Perea entre el 3 de enero de 30 hasta la muerte de Jesús (165:0.1)
 
-Bet-Peor | (165:0.1) | | PLACE | 
-Población por la que Jesús pasó en su misión de Perea
+Bet-Peor | | | PLACE | OK
+Una de las poblaciones visitadas por Jesús, los doce y los setenta, durante la misión en Perea entre el 3 de enero de 30 hasta la muerte de Jesús (165:0.1)
 
-Bet-seán | | | PLACE | 
-antigua ciudad hebrea; más tarde Escitópolis (124:3.6-9)
+Bet-seán | | | PLACE | OK
+Bet-seán es una antigua ciudad hebrea que luego formó parte de las ciudades griegas de Escitópolis. Jesús se quedó admirado de la belleza de esta ciudad cuando la visitó con su padre José por primera vez con diez años, el 5 d.C. (124:3.6-9)
+> https://es.wikipedia.org/wiki/Beit_She'an
 
-Bet-sur | | | PLACE | 
-hogar de Ezda (135:3.1)
+Bet-sur | | | PLACE | OK
+Bet-sur era el hogar de Ezda, un niño huérfano adoptado por Juan el Bautista (135:3.1)
 
-Betábara | | Betania en el Jordán | PLACE | 
+Betábara | | Betania en el Jordán | PLACE | OK
 
-Betania en el Jordán | | | PLACE | 
-También llamada Betábara, un vado en el río Jordán (171:2.1)
-Jesús y los apóstoles en (141:7)
-Juan el Bautista en (135:6.5) (135:10.2)
-Los discípulos de Juan permanecieron en (141:9.2)
+Betania en el Jordán; Betania más allá del Jordán; Betania en Perea; vado de Betania; vado del Jordán en Betania | | | PLACE | OK
+Llamada Betenia en el Jordán, Betania en Perea, y también Betábara, era un vado en el río Jordán (171:2.1)
+Juan el Bautista predicó cuatro meses en el vado de Betania, antes de partir hacia el norte remontando el Jordán. Regresó un año después a predicar allí de nuevo. (135:6.5) (135:10.2)
+Jesús y los apóstoles predicaron en este lugar por primera vez en febrero de 27, en el mismo lugar donde predicó Juan (141:7.1-2)
+Los discípulos de Juan permanecieron en Betania más allá del Jordán, enseñando y bautizando a las multitudes. (141:9.2)
+> https://es.wikipedia.org/wiki/Al-Maghtas
 
-Betania (cerca de Jerusalén) | (134:7.5) (147:2.2-3) (172:1) | | PLACE | 
-A 3,2 km del templo de Jerusalén (172:3.1)
-casi todas las personas de Betania eran creyentes (172:3.1)
-Apariciones de Jesús en (190:2.5,6)
-Jesús se encontró con María, Marta y Lázaro en (124:6.9)
-Simón, padre de Lázaro, era un residente destacado de (168:0.4)
+Betania (cerca de Jerusalén) | (134:7.5) (147:2.2-3) (172:1) | | PLACE | OK
+Betenia estaba a un unos tres kilómetros del templo de Jerusalén (172:3.1)
+Jesús conoció a María, Marta y Lázaro de Betania cuando él y sus padres se detuvieron por casualidad cerca de la casa de los tres hermanos en su primer viaje a Jerusalén en abril del año 7 (124:6.9)
+Lázaro y sus hermanas eran los hijos de Simón, un judío ilustre y acaudalado, que había sido el vecino principal del pueblecito de Betania. (168:0.4)
+casi todas las personas de Betania se volvieron creyentes en Jesús (172:3.1)
+Jesús se apareció en Betania a su hermano Santiago, su tercera aparición, y luego a veinte personas entre los que estaban familiares y amigos, su cuarta aparición (190:2.5,6)
+> https://es.wikipedia.org/wiki/Al_Azariyeh
 
-Betel | (124:6.1) (127:3.3) (143:0.1) | | PLACE | 
-Lugar por el que pasó Jesús
+Betel | (124:6.1) | | PLACE | OK
+Jesús pasó por aquí cuando llevó a su hermano a Santiago a Jerusalén por la pascua del año 12 (127:3.3)
+Jesús y los apóstoles pasaron por aquí durante su predicación por Samaria en el año 27 (143:0.1)
+> https://es.wikipedia.org/wiki/Bethel
 
-Betesda (piscina de Jerusalén) | (147:3) | | PLACE | 
-Lugar de un milagro de Jesús
+Betesda (piscina de Jerusalén); Betesda; estanque de Betesda | | | PLACE | OK
+Lugar de un supuesto milagro de Jesús, en el que en realidad Jesús simplemente predicó a un grupo de enfermos que esperaban un milagro para ser curados (147:3.1,6)
+> https://es.wikipedia.org/wiki/Piscina_de_Bethesda
 
-Belén (Judea) | (134:7.5) (142:8.1) | | PLACE | 
-atractiva leyenda de la estrella de (122:8.7)
-Ciudad de David (122:4.3) (135:7.1)
-cuartel general de Abner, cuerpo de mensajeros (159:6.4) (162:9.2)
-Herodes mató a 16 bebés varones en (122:10.3)
-los habitantes no conocían a Jesús nacido en (142:8.2)
-El nacimiento de Jesús en (122:7.7-8) (122:8)
-José se registró para el censo en; permaneció (122:4.3) (122:8.4)
-María quería que Jesús creciera en (123:0.5)
+Belén (Judea); Belén; Ciudad de David | (134:7.5) (142:8.1) | | PLACE | OK
+Belén es la ciudad de nacimiento del rey David (122:4.3) (135:7.1)
+Basándose en una extraordinaria conjunción de planetas se construyó la atractiva leyenda de la estrella de Belén (122:8.7)
+Jesús nació en Belén el 21 de agosto del año 7 a.C., a mediodía (122:7.7-8) (122:8)
+Es verdad que José fue a Belén, la ciudad de David, para registrarse en el censo romano, pero esto se debió al hecho de que, seis generaciones antes, el antepasado paterno de José de aquella generación, como era huérfano, había sido adoptado por un tal Zadoc, que era descendiente directo de David; por eso José también contaba como perteneciente a la «casa de David». (122:4.3) (122:8.4)
+Herodes mató a dieciséis bebés varones en Bethlehem en su intento por matar al niño Jesús (122:10.3)
+María nunca había abandonado por completo la idea de que Jesús debería crecer en Belén, la Ciudad de David. (123:0.5)
+La gente que vivía en Galilea no sabía que Jesús había nacido en Belén. Al igual que la gran mayoría de sus discípulos, siempre habían supuesto que el Maestro había nacido en Nazaret, pero los doce conocían la verdad. (142:8.2)
+en Belén es donde Abner, el director de los discípulos de Juan, estableció su cuartel general hacia septiembre de 29; también allí se encontraba el cuartel general del cuerpo de mensajeros que dirigía David Zebedeo (159:6.4) (162:9.2)
+> https://es.wikipedia.org/wiki/Belén
 
-Belén de Galilea | (138:9.3) | | PLACE | 
-José, padre de Jesús, trabajó en (123:3.8)
+Belén de Galilea; Belén (de Galilea) | (138:9.3) | | PLACE | OK
+José, el padre de Jesús, trabajó en un pueblo llamado Belén, en Galilea (123:3.8)
+> https://en.wikipedia.org/wiki/Bethlehem_of_Galilee
 
-Betfagé | | | PLACE | 
-aldea corta distancia al noroeste de Betania (168:3.7) (172:3.6)
-El burro del Domingo de Ramos de Jesús de (172:3.6)
+Betfagé | | | PLACE | OK
+Betfagé era una aldea a corta distancia al noroeste de Betania, un poco retirado de la carretera principal (168:3.7) (172:3.6)
+El burro del Domingo de Ramos para Jesús fue obtenido de Betfagé (172:3.6)
+> https://es.wikipedia.org/wiki/Betfagé
 
-Betsaida | (129:1.2) (148:8) (152:5) (186:3.2-3) (192:3.3) | Cafarnaúm | PLACE | 
-campamento en (148)
-	500 a 1500 presentes; modelo de orden y saneamiento (148:0.1)
-	1000 mejoraron o curaron en el hospital (148:2.1)
-	Equipaje de campamento utilizado más tarde en Pella (163:5.2)
-	hospital supervisado por el médico Elman (148:0.1)
-	Karuska de Sidón fue paciente en (156:0.1)
-	bajo la supervisión de David Zebedeo (148:0.1)
-puerto pesquero de Cafarnaúm (139:1.1)
-curación de 683 al atardecer (145:3)
-curando al paralítico en (148:9)
-décimo tercera aparición de Jesús en (192:1-2)
-Juan Zebedeo de (139:4.1)
-María madre de Jesús murió en (187:4.7)
-Felipe de (137:2.3) (139:5.1)
-La casa de Zebedeo en la sede de pesca de (129:1.4)
+Betsaida | (129:1.2) (148:8) (152:5) (186:3.2-3) (192:3.3) | Cafarnaúm | PLACE | OK
+Bethsaida fue el puerto pesquero de Cafarnaúm (139:1.1)
+aquí tuvo lugar el 17 de enero de 28, sábado, un extraordinario evento para todo un universo: primero el impresionante sermón de Jesús en la sinagoga de Cafarnaúm sobre «La voluntad del Padre que está en los cielos»; y luego la curación por parte de Jesús de 683 personas al atardecer en Bethsaida (145:3)
+En Bethsaida es también donde Jesús curó al paralítico que descolgaron desde el techo (148:9)
+aquí Jesús efectuó su decimotercera aparición morontial, a diez de los apóstoles, cerca del desembarcadero (192:1-2)
+Juan Zebedeo, y presumiblemente toda la familia Zebedeo, eran de Betsaida (139:4.1)
+María la madre de Jesús murió en Betsaida, menos de un año después de la muerte de Jesús, en el año 31 (187:4.7)
+Felipe el quinto apóstol vivía en Betsaida (137:2.3) (139:5.1)
+La casa de Zebedeo se encontraba cerca del centro de pesca de Betsaida (129:1.4)
+el campamento de Betsaida (148)
+	Desde el 3 de mayo hasta el 3 de octubre del año 28, Jesús y el cuerpo apostólico estuvieron residiendo en la casa de Zebedeo en Betsaida. Durante todo este período de cinco meses de la estación seca, un enorme campamento se mantuvo al lado del mar, cerca de la residencia de Zebedeo, que contó entre 500 a 1500 personas. Fue un modelo de orden y saneamiento (148:0.1)
+	unas mil personas mejoraron o curaron en el hospital del campamento sin que se produjera, que se sepa, ningún milagro (148:2.1)
+	el hospital estuvo supervisado por un médico llamado Elman (148:0.1)
+	Los enfermos se se agrupaban bajo la supervisión de David Zebedeo (148:0.1)
+	el equipaje del campamento fue utilizado más tarde en Pella (163:5.2)
+	Karuska de Sidón fue una de las pacientes del hospital de Bethsaida (156:0.1)
+arqueología
+	existe cierta confusión en cuanto al emplazamiento de Betsaida, proponiéndose varias alternativas por los arqueólogos
+> https://es.wikipedia.org/wiki/Betsaida
 
-Betsaida-Julias | (138:9.3) (149:0.1) (157:2) | | PLACE | 
-5000 alimentados al sur de (152:2.1)
-hermoso parque Magadan al sur de (155:0.1) (157:2.1)
-ay de los habitantes de Betsaida-Julias que rechazan la luz (163:6.5)
+Betsaida-Julias | (138:9.3) (149:0.1) (157:2) | | PLACE | OK
+había un hermoso parque llamado Magadan al sur de Betsaida-Julias (155:0.1) (157:2.1)
+al sur de la ciudad de Betsaida-Julias, en el parque Magadan, es donde tuvo lugar la milagrosa alimentación de unas cinco mil personas (152:2.1)
+Jesús tuvo palabras muy duras hacia los habitantes de esta ciudad: ¡ay de los habitantes que rechazan la luz en Corazín, Betsaida-Julias y Cafarnaúm, esas ciudades que no han recibido bien a estos mensajeros! (163:6.5)
+> https://es.wikipedia.org/wiki/Betsaida
 
-traición | | deserción | | 
-el mayor dolor es ser herido en casa de un amigo (149:6.12)
-Jesús (183)
+traición; traiciones | | deserción | | OK
+La traición —el hecho de «vender» o traicionar a los miembros de la tribu— fue el primer crimen capital. (70:10.15)
+De todas las penas de un hombre confiado, ninguna es más terrible que la de ser ‘herido en la casa de un amigo en quien confía’. (149:6.12)
 La ley judía prohibía el testimonio de traidores (184:3.6)
-última hora antes de la de Judas (139:12.12-13) (182:2)
-el dinero no es el motivo de Judas (139:12.5)
-Las Solemnidades de la Confianza reflejan las posibilidades individuales de (28:6.14)
-primer crimen capital (70:10.15)
-castigo de traición en nación continental (72:6.9)
+Las Solemnidades de la Confianza reflejan las posibilidades individuales de confianza y traición de los mortales (28:6.14)
+la traición a Jesús
+	la traición a Jesús de Judas incluía facilitar su arresto a medianoche; además quería hacer alarde de que estaba realizando su papel en el pacto de traición acordado con los jefes de los judíos, para hacerse digno de la gran recompensa (183:2.3) (183:3.4)
+	Durante la ejecución de sus planes de pérfida traición, concebidos en la cólera, Judas experimentó momentos de pesar y de vergüenza, y en esos intervalos de lucidez concebía tímidamente la idea, para justificarse en su propia mente, de que Jesús quizás podría ejercer su poder y salvarse en el último momento. (139:12.12-13) (182:2.1,4)
+	El dinero nunca hubiera podido ser el motivo de la traición de Judas al Maestro. (139:12.5)
+la traición en un planeta vecino
+	en la nación continental más destacada de un planeta vecino, después de la traición y el asesinato, los castigos más severos que imponen los tribunales recaen sobre la traición a la confianza pública. La deslealtad social y política es ahora considerada como el más atroz de todos los crímenes. (72:6.9)
 
-traidor | | Judas Iscariote | | 
+traidor | | Judas Iscariote | | OK
 
-esponsales | | matrimonio | | 
+esponsales | | matrimonio | | OK
 
-hechicerías | | | | 
-Jesús denunció la creencia en (150:3.12)
+hechicerías; hechizos | | | | OK
+Jesús denunció la creencia en hechicerías (150:3.12)
 
-Biblia | | Nuevo Testamento; Antiguo Testamento; libros sagrados | | 
+Biblia | | Nuevo Testamento; Antiguo Testamento; libros sagrados | | OK
 
-bigamia | | matrimonio:entre primitivos | | 
+bigamia | | matrimonio:entre primitivos | | OK
 
 Bildad | | | PERSON | OK
 Bildad era uno de los amigos de Job que ante la desdicha de éste le ofreció una serie de consejos deprimentes para Job (148:6.5,9)
 
-bípedos | | | | 
-todos los mortales son (49:4.1)
+bípedos | | | | OK
+Hay grandes diferencias entre los mortales de los distintos mundos, incluso entre aquellos que pertenecen a los mismos tipos intelectuales y físicos, pero todos los mortales con dignidad volitiva son animales erguidos, bípedos. (49:4.1)
 
-abedules | (60:3.19) | | | 
+abedules | (60:3.19) | | | OK
 
-aves | | | | 
-Andón creó fuego con chispas de pedernal en el nido de pájaros (63:2.5-7)
-se convirtieron en animales fetiche (88:1.5)
-Cretácico fue la era de (60:3)
-descendiente de reptiles parcialmente progresivos (65:2.8-10)
-domesticado por 5000 a.C. (81:2.12)
-evolucionó a partir de dinosaurios saltarines de huesos huecos (60:2.12) (60:3.22)
-Los pájaros pre-pájaros tenían muy poco cerebro para el tamaño corporal (60:3.21)
-los primitivos creían que las aves eran la fuente del viento (85:3.4)
-tipos nombrados | murciélagos; buitres; palomas mensajeras; palomas; patos; águilas; halcones; flamencos; gaviotas; garzas; avestruces; búhos; loros; aves pasajeras; palomas; aves de corral; codorniz; cuervos; gorriones
-utilizado para el transporte en Jerusem (46:2.4)
+aves; pájaros | | | | OK
+evolución de la aves
+	el Cretácico fue la era de las aves (60:3)
+	Las ranas dieron nacimiento a los reptiles, una gran familia animal prácticamente extinguida, pero que antes de desaparecer dio origen a toda la familia de las aves y a las numerosas clases de mamíferos.  Los tipos de aves actuales —águilas, patos, palomas y avestruces— descienden todos de los enormes reptiles de los tiempos prehistóricos. El reino de los reptiles, descendiente de la familia de las ranas, está representado actualmente por cuatro divisiones supervivientes: dos no progresivas, las serpientes y los lagartos, junto con sus primos los cocodrilos y las tortugas; una parcialmente progresiva, la familia de las aves; y la cuarta representa a los antepasados de los mamíferos y a la línea que desciende directamente hasta la especie humana. (65:2.8-10)
+	las aves evolucionaron a partir de dinosaurios saltadores de huesos huecos (60:2.12) (60:3.22)
+	Las pre-aves zancudas y nadadoras de las épocas anteriores no habían prosperado en el aire, ni tampoco los dinosaurios voladores. Fueron unas especies efímeras que se extinguieron pronto. Sufrieron también el mismo destino que los dinosaurios, la destrucción, pues tenían muy poca sustancia cerebral en comparación con el tamaño de su cuerpo. (60:3.21)
+el hombre y las aves
+	Andón creó el fuego con chispas de pedernal en un nido de pájaros (63:2.5-7)
+	Hacia el año 5000 a. de J.C., los campesinos de Mesopotamia, el Turquestán y China habían empezado a criar aves de corral (81:2.12)
+	las aves se convirtieron en animales fetiche (88:1.5)
+	el hombre primitivo creía que las aves eran la fuente del viento (85:3.4)
+aves en los cielos
+	en Jerusem se utilizan aves para transportar personas (46:2.4)
+tipos nombrados 
+	Especies de aves mencionadas en El Libro de Urantia:
+	* murciélagos | murciélagos
+	* buitres | buitres
+	* palomas mensajeras | palomas mensajeras
+	* palomas | palomas
+	* patos | patos
+	* águilas | águilas
+	* halcones | halcones
+	* flamencos | flamencos
+	* gaviotas | gaviotas
+	* garzas | garzas
+	* avestruces | avestruces
+	* búhos | búhos
+	* loros | loros
+	* aves pasajeras | aves pasajeras
+	* palomas | palomas
+	* aves de corral | aves de corral
+	* codorniz | codorniz
+	* cuervos | cuervos
+	* gorriones | gorriones
 
-texto de cumpleaños | | Jesús:texto de cumpleaños de Isaías | | 
+texto de cumpleaños | | Jesús:texto de cumpleaños de Isaías | | OK
 
-marcas de nacimiento | | | | 
-creído causado por el mal de ojo (87:5.5)
+marcas de nacimiento; marcas prenatales | | | | OK
+El mal de ojo dio origen a las primeras supersticiones sobre las marcas prenatales de los niños, las señales maternas, y este culto fue en cierto momento casi universal. (87:5.5)
 
-bisonte | (61:3.5) (61:5.7) (61:7.13-14) (69:7.2) | | | 
+bisonte | (61:3.5) (61:5.7) (61:7.13-14) (69:7.2) | | | OK
 
-Bitinia | | | PLACE | 
-Mateo predicó en (139:7.10)
+Bitinia | | | PLACE | OK
+El apóstol Mateo predicó en Bitinia (139:7.10)
 
-montañas de la Selva Negra | (59:5.12) | | PLACE | 
+montañas de la Selva Negra | (59:5.12) | | PLACE | OK
 
-Viernes Negro | | | | 
-conmemoró la muerte autoinfligida de Atis (98:4.7)
+Viernes Negro | | | | OK
+ El día más sagrado era el Viernes Negro, el «día de la sangre», que conmemoraba la muerte voluntaria de Atis. (98:4.7)
 
-raza negra | | raza índiga | RACE | 
+raza negra | | raza índiga | RACE | OK
 
-mar Negro | | | PLACE | 
-Los andonitas entraron en Europa a través de la región de (80:9.6)
-minerales de hierro extraídos en (80:6.3)
-una vez fue la extensión del Mediterráneo (64:4.10)
+mar Negro; Mar Negro | | | PLACE | OK
+Los andonitas entraron en Europa a través de la región del mar Negro (80:9.6)
+los anditas mesopotámicos trabajaron los minerales de hierro extraídos en las regiones del mar Negro (80:6.3)
+el mar Negro una vez fue una extensión del Mediterráneo (64:4.10)
 
-herreros negros | | | | 
-primeros trabajadores del metal y magos (69:3.5)
-primeros especialistas; disfrutó de privilegios especiales; odiado (69:3.6,9)
+herreros negros | | | | OK
+los herreros negros, forjadores, fueron los primeros trabajadores del metal y magos (69:3.5)
+fueron los primeros especialistas; fueron el primer grupo no religioso que disfrutó de privilegios especiales. Pero debido a los grandes abusos que hicieron de estos privilegios, los herreros fueron odiados universalmente (69:3.6,9)
 
-indios pies negros | | | RACE | 
-descendientes de Onamonalontón (64:6.7)
+indios pies negros; indios Pies Negros | | | RACE | OK
+los indios Pies Negros son descendientes de Onamonalontón (64:6.7)
 
-acusación; acusar; inculpar; condenar | | | | 
-Judas culpó a otros por sus dificultades (193:4.7)
-Colocar los fallos propios sobre los demás (176:3.9)
-abstenerse de condenar (147:8.4)
+acusación; acusar; inculpar; condenar | | | | OK
+Judas nunca adquirió una técnica filosófica para enfrentarse con las decepciones. En lugar de aceptar las desilusiones como un aspecto normal y común de la existencia humana, recurría infaliblemente a la práctica de acusar a alguien en particular, o a sus compañeros como grupo, de todas sus dificultades y decepciones personales. (193:4.7)
+Cuando un hombre se enfrenta con sus propios fracasos, ¡cuánta tendencia tiene a inculpar a los demás, con mucha frecuencia a quienes menos se lo merecen! (176:3.9)
+Jesús pidió abstenerse de condenar: invocaréis al Señor y él os responderá; gritaréis con fuerza y él dirá: Aquí estoy. Hará todo esto si dejáis de oprimir, de condenar y de mostrar vanidad (147:8.4)
 
-blasfemia | | | | 
-Jesús acusado de (148:9.3) (153:3.6) (164:5.3) (169:0.5) (184:5.7) (186:2.7)
-sin perdón por la blasfemia deliberada contra Dios (153:4.3) (165:3.6)
+blasfemia | | | | OK
+Jesús fue acusado de blasfemia (148:9.3) (153:3.6) (164:5.3) (169:0.5) (184:5.7) (186:2.7)
+Sobre esto dijo Jesús: «Decid lo que queráis sobre el Hijo del Hombre, que eso os será perdonado; pero el que se atreva a blasfemar contra Dios, difícilmente encontrará perdón. Cuando los hombres llegan hasta el extremo de atribuir a sabiendas los actos de Dios a las fuerzas del mal, esos rebeldes deliberados difícilmente buscarán el perdón de sus pecados» (153:4.3) (165:3.6)
 
-imperfecciones | | | | 
-sobre animales sacrificados (173:1.1-2)
+imperfecciones | | | | OK
+La venta de animales en el templo de Jerusalén prosperó porque cuando un fiel compraba un animal, aunque el precio fuera un poco alto, ya no tenía que pagar ningún tributo más, y podía estar seguro de que el sacrificio propuesto no sería rechazado con el pretexto de que el animal tenía defectos reales o imaginarios. (173:1.1-2)
 
-ciego | | | | 
-si el líder es ciego, caer en el pozo (140:3.18) (153:3.5) (175:1.15)
-Jesús le devolvió la vista a Bartimeo (171:5)
-Jesús le devolvió la vista a Josías (164:3)
-los rabinos enseñaron la ceguera causada por el pecado (164:3.3)
-a veces invitan a banquetes (167:1.5)
+ciego | | | | OK
+Dijo Jesús: Habéis oído decir que: ‘Si el ciego conduce al ciego, los dos se caerán al precipicio’. (140:3.18) (153:3.5) (175:1.15)
+Jesús le devolvió la vista a Bartimeo, un anciano ciego de Jericó (171:5)
+Jesús le devolvió la vista a Josías, un mendigo ciego que pedía limosna junto al templo, e hizo esto en sábado (164:3)
+Los rabinos enseñaban que todos estos casos de ceguera de nacimiento estaban causados por el pecado. (164:3.3)
+Decía Jesús: Cuando ofrezcáis un banquete, invitad de vez en cuando a los pobres, a los mutilados y a los ciegos. De esa manera os sentiréis dichosos en vuestro corazón, porque sabéis muy bien que los cojos y los lisiados no pueden devolveros vuestra ayuda amorosa (167:1.5)
 
-sangre | | doctrina de la expiación; beber sangre | | 
-entre los primeros medicamentos (90:4.8)
-los antiguos creían sangre hijo creado (84:2.1)
-el «dinero de sangre» fue un sustituto de la venganza; Moisés lo abolió (70:10.12)
-idea bárbara de la penitencia derramando sangre (4:5.4)
-de animales sacrificados enfermó a Jesús (125:1.4)
-Los hebreos creían que no había remisión de pecados sin despojarse (4:5.5)
-muchos todavía dependen de la sangre para la salvación (89:9.4)
-de los reyes creídos divinos (70:6.4)
-Filón enseñó el perdón solo a través del desprendimiento (121:6.5)
-El culto al misterio frigio celebra el día de (97:4.4)
-lugar sangre el cobertizo se convirtió en propiedad de la persona lesionada (69:9.8-9)
+sangre | | doctrina de la expiación; beber sangre | | OK
+creencias antiguas
+	La hemorragia periódica de la mujer y su pérdida de sangre adicional en el momento del parto pronto hicieron creer en la antigüedad que la sangre era la creadora del hijo (84:2.1)
+	algunos antiguos creían que el alma residía en la sangre (86:5.15)
+	Más adelante, todo lugar donde se había derramado sangre se convirtió en la propiedad del herido o de su grupo. (69:9.8-9)
+	Las secreciones humanas, como eran claramente mágicas, se tenían en gran estima; la sangre y la orina figuraron pues entre los primeros medicamentos, y pronto se añadieron las raíces y diversas sales. (90:4.8)
+	La costumbre de pagar el «dinero compensatorio» también se puso de moda como sustituto de la venganza sangrienta. Moisés fue el primero en abolir estas prácticas (70:10.12)
+	Las ceremonias frigias eran impresionantes pero degradantes; sus fiestas sangrientas indican hasta qué punto se degradaron y se volvieron primitivos estos misterios levantinos. El día más sagrado era el Viernes Negro, el «día de la sangre», que conmemoraba la muerte voluntaria de Atis. (98:4.7)
+	a los reyes y la sangre real se la ha considerado durante mucho tiempo como sobrenatural, y algunos pueblos de Urantia consideran todavía que sus soberanos han tenido un origen divino (70:6.4)
+la salvación por el derramamiento de sangre
+	la idea bárbara de la penitencia derramando sangre representa una religión totalmente pueril y primitiva (4:5.4)
+	Los hebreos creían que «sin derramamiento de sangre no podía haber remisión de los pecados». (4:5.5)
+	Filón de Alejandría enseñaba que había que liberarse de la doctrina de obtener el perdón exclusivamente por el derramamiento de sangre. (121:6.5)
+	el pavimento del templo manchado de sangre de los animales sacrificados, las manos ensangrentadas de los sacerdotes, el gemido de los animales agonizantes, todo aquello enfermó a Jesús cuando lo vio por primera vez (125:1.4)
+	Muchas personas cuentan todavía con la sangre para salvarse, pero ésta se ha vuelto al menos figurativa, simbólica y mística. (89:9.4)
 aspectos científicos de la sangre
-	15 millones de reacciones químicas en (65:6.6)
-	oxigenado de sepia sangre con cobre (65:6.4)
-	retiene la salinidad del entorno oceánico de los antepasados (58:1.3-4)
-	papel del hierro en la oxigenación (65:6.4)
-algunos antiguos creían que el alma residía en (86:5.15)
+	En cualquier momento existe la posibilidad de que ocurran, en la corriente sanguínea de cualquier ser humano, más de 15 millones de reacciones químicas entre la producción hormonal de una docena de glándulas endocrinas. (65:6.6)
+	Uno de los episodios más útiles y complejos de la evolución de los tipos superiores de animales consistió en el desarrollo de la capacidad del hierro, dentro de los glóbulos que circulan en la sangre, para efectuar la doble tarea de transportar el oxígeno y eliminar el dióxido de carbono. Sin embargo, se pueden utilizar otros metales para conseguir el mismo fin. La jibia emplea el cobre para esta función, y la ascidia utiliza el vanadio. (65:6.4)
+	la sangre retiene la salinidad del entorno oceánico ancestral en el que surgió la vida (58:1.3-4)
 
-beber sangre | | | | 
-antiguas hermandades sociales basadas en el rito de (89:9.3)
-La creencia de que la sangre era el asiento del alma dio origen (84:2.1)
-declive de (71:1.23)
-Los primeros tratados de paz fueron lazos de sangre (70:3.10)
-de animales sacrificados por Mitra (98:5.4)
-una vez práctica caníbal común (89:5.11)
-sello de amistad, aceptación en el clan (66:5.22) (70:3.7)
+beber sangre; beber la sangre; Beber sangre | | | | OK
+Las antiguas fraternidades sociales estaban basadas en el rito de beber sangre; la fraternidad judía primitiva era un sacrificio de sangre. (89:9.3)
+La creencia de que la sangre era el asiento del alma dio origen a la práctica de beber sangre (84:2.1)
+La decadencia de los lazos consanguíneos a favor de los lazos territoriales hizo posible el Estado embrionario, y en general las conquistas cimentaban firmemente estas federaciones tribales. (71:1.23)
+Los primeros tratados de paz fueron los «lazos de sangre». (70:3.10)
+Los adeptos del culto de Mitra lo practicaban en cuevas y en otros lugares secretos, donde cantaban himnos, murmuraban palabras mágicas, comían la carne de los animales sacrificados y bebían su sangre. (98:5.4)
+Beber sangre se volvió algo corriente, y existía la costumbre de mezclar las partes «comestibles» del cuerpo con medicinas. (89:5.11)
+beber la sangre era un sello de amistad personal y símbolo de lealtad al grupo (66:5.22) (70:3.7)
 
-camino sangriento | (182:2.11) | | | 
-Nombre dado al camino de Jerusalén a Jericó
+camino sangriento; maldito camino | | | | OK
+Nombre dado al camino de Jerusalén a Jericó (182:2.11)
 
-raza azul | (64:6.21-24) | cromañones; razas | RACE | 
-Los adanitas preferidos; infiltrado por 15.000 a.C. (64:6.21) (78:3.5,7) (80:1.5-7) (80:8.1)
-mejor absorbido por los anditas; no apto exterminado (80:5.6) (80:9.11)
-base biológica de la raza blanca (80:0.1) (80:5.7) (80:9.2,5,10)
-Cro-Magnoides (80:3)
-domesticado temprano al elefante (66:5.5)
-muy mezclado con razas amarillas y rojas (80:3.2) (80:9.2)
-en América Central y del Sur (79:5.8)
-en India (79:2.2)
-desgracia tan perdida (51:4.3)
-mezclado con andonitas (81:4.2-9)
-se mudó a Europa; expulsó a los andonitas de (64:7.3,8) (78:1.5)
+raza azul; hombre azul; razas azules; hombres azules | (64:6.21-24) | cromañones; razas | RACE | OK
+la raza azul es lo que se denomina hoy Cro-mañones (80:3)
+Los primeros hombres azules fueron sensibles a las persuasiones de los instructores del estado mayor del Príncipe Caligastia, y cayeron en una gran confusión cuando estos jefes traidores desvirtuaron posteriormente sus propias enseñanzas. (64:6.22)
+El hombre azul se benefició más que los demás de las enseñanzas de Dalamatia, el hombre rojo hasta cierto punto, y el hombre negro menos que los demás. (68:0.3)
+Los hombres azules estaban diseminados por toda Europa, pero sus mejores centros de cultura estaban situados en los valles entonces fértiles de la cuenca mediterránea y en el noroeste de Europa. (78:1.8)
+En Méjico, en América Central y en las montañas de América del Sur, las civilizaciones posteriores y más duraderas fueron fundadas por una raza predominantemente roja, pero que contenía una mezcla considerable de componentes amarillos, anaranjados y azules. (79:5.8)
+los hombres amarillos y azules tendían a ser de cabeza ancha. (81:4.2-3)
+generalmente en todos los planetas la raza azul somete a la raza índiga (51:4.6)
+logros
+	El hombre mismo fue en cierto momento la bestia de carga. Un jefe de la raza azul tuvo en cierta ocasión una colonia de porteadores de cargas de cien mil hombres. (81:2.12)
+	el hombre azul domesticó en fecha temprana al elefante (66:5.5)
+	El hombre azul tenía predilección por la escritura alfabética e hizo los mayores progresos en esta dirección. (66:5.10)
+mezcla con los andonitas
+	la raza azul partió hacia el noroeste hasta entrar en Europa. Expulsaron a los andonitas de Europa (64:7.3,8) (78:1.5)
+	Hace treinta y cinco mil años, las razas azules europeas eran un pueblo muy mezclado que contenía linajes tanto rojos como amarillos, mientras que en las costas atlánticas y en las regiones de la Rusia actual habían absorbido una cantidad considerable de sangre andonita, y hacia el sur estaban en contacto con los pueblos saharianos. (80:3.2) (80:9.2)
+	sufrieron un gran retraso por culpa de la absorción del linaje neandertal (64:7.9-10) (78:1.8) (79:5.1)
+	Cuando las razas azules se mezclaban con los linajes andonitas, eran claramente de cabeza ancha. (81:4.2-9)
+	Las primeras mezclas raciales en la India consistieron en una fusión de las razas migratorias roja y amarilla con los aborígenes andonitas. Este grupo se debilitó más tarde debido a la absorción de la mayor parte de los pueblos verdes orientales ahora extintos, así como de una gran cantidad de individuos de la raza anaranjada; mejoró ligeramente gracias a una mezcla limitada con el hombre azul, pero se deterioró extremadamente al asimilar un gran número de miembros de la raza índiga. (79:2.2)
+mezcla con los anditas
+	Los descendientes adámicos los prefirieron a todas las demás razas de color que subsistieron ulteriormente. Cuando el período de las primeras emigraciones adámicas terminó hacia el año 15.000 a. de J.C., ya había más descendientes de Adán en Europa y Asia central que en cualquier otra parte del mundo, incluida Mesopotamia. Las razas azules europeas habían sido ampliamente impregnadas. (64:6.21) (78:3.5,7) (80:1.5-7) (80:8.1)
+	Los invasores blancos de Europa exterminaron a todos los pueblos que encontraron y que no fueron rápidamente absorbidos en sus propias filas; así es como los hombres azules llegaron a su fin —y lo hicieron rápidamente. (80:5.6) (80:9.11)
+	En el norte, los anditas eliminaron a los hombres azules por medio de la guerra y los matrimonios, pero los hombres azules sobrevivieron en gran número en el sur. Los vascos y los bereberes representan la supervivencia de dos ramas de esta raza, pero incluso estos pueblos se han mezclado por completo con los saharianos. (80:9.11)
+	los hijos migratorios del Edén se unieron lentamente con los tipos superiores de la raza azul, estimulando sus prácticas culturales mientras que exterminaban implacablemente los linajes retrasados de la raza neandertal. Esta técnica para mezclar las razas, combinada con la eliminación de los linajes inferiores, produjo una docena o más de grupos viriles y progresivos de hombres azules superiores, uno de los cuales son los Cro-Magnon. (80:1.5-8)
+	Las plazas fuertes de los hombres azules que resistieron más tiempo se encontraban en el sur de Francia, pero la última gran resistencia militar fue vencida a lo largo del Somme. (80:5.5)
+la raza blanca
+	Aunque el hombre azul europeo no alcanzó por sí mismo una gran civilización cultural, suministró una base biológica impregnada de linajes adamizados que produjo la actual raza blanca (80:0.1) (80:5.7) (80:9.2,5,10)
+	Es una desgracia que en Urantia hayamos perdido tan ampliamente a vuestros hombres azules superiores, salvo en la medida en que subsisten en nuestra «raza blanca» amalgamada. (51:4.3)
 naturaleza
-	dotado artísticamente (66:5.26) (80:3.3,7)
-	poder cerebral de la raza roja, sentimiento de la raza amarilla (64:6.21)
-	cazadores, pescadores, constructores de barcos expertos (68:5.5) (80:3.5-7)
-	euroasiáticos más agresivos y aventureros (78:1.8) (80:3.3)
-	perfectamente honesto, completamente libre de vicios sexuales (80:3.4)
-	tendencia a luchar entre ellos mismos (64:6.22)
-Retraso en la absorción del neandertal (64:7.9-10) (78:1.8) (79:5.1)
-un gobernante tenía 100.000 cargadores (81:2.12)
+	Una mezcla de los hombres azules con el linaje de Andón produjo unos tipos de hombres dotados de talentos artísticos, y muchos de ellos se convirtieron en unos escultores maestros. (66:5.26) (80:3.3,7)
+	El hombre azul tenía la capacidad cerebral del hombre rojo junto con el alma y los sentimientos del hombre amarillo. (64:6.21)
+	Los hombres azules eran cazadores, pescadores, colectores de alimento y expertos constructores de barcos. (68:5.5) (80:3.5-7)
+	La absorción de los neandertales había retrasado enormemente la cultura de los hombres azules, pero aparte de esto eran los más dinámicos, aventureros y exploradores de todos los pueblos evolutivos de Eurasia. (78:1.8) (80:3.3)
+	Los hombres azules eran completamente honrados en todas sus transacciones y estaban totalmente libres de los vicios sexuales de los adamitas mezclados. (80:3.4)
+	Al igual que otras razas primitivas, nunca superaron totalmente su tendencia a luchar entre ellos. (64:6.22)
 Orlandof
-	gran maestro entre la raza azul Hace 200.000 años (64:6.23)
-	en 24 consejeros (45:4.6)
-parcial a la escritura alfabética (66:5.10)
-persistió más tiempo en el sur de Francia (80:5.5)
-pervertido por Caligastia (64:6.22)
-se benefició más de las enseñanzas de Dalamatia (68:0.3)
-esparcidos por toda Europa (78:1.8)
-algo de cabeza ancha (81:4.2-3)
-sobrevivió en vascos y bereberes (80:9.11)
-unidos con los adanitas, que exterminaron las cepas de los neandertales para producir cromagnones (80:1.5-8)
-generalmente somete a la raza índiga (51:4.6)
+	Hace 200.000 años Orlandof se convirtió en un gran instructor de la raza azul y volvió a llevar a muchas tribus a la adoración del verdadero Dios bajo el nombre de «el Jefe Supremo». (64:6.23)
+	Orlandof es uno de los 24 consejeros de Jerusem (45:4.6)
 
-consejo de la domesticación y utilización de los animales | | cien de Caligastia | | 
+consejo de la domesticación y utilización de los animales | | cien de Caligastia | | OK
 
-cuerpo de los veinticuatro supervisores planetarios | | veinticuatro consejeros | | 
+cuerpo de los veinticuatro supervisores planetarios | | veinticuatro consejeros | | OK
 
-barcos | | | | 
-Los marineros anditas se asentaron en Creta hacia el 12.000 a.C. (140:0.2) (157:1.2-3) (192:1.1,3)
-Los andonitas eran marineros (80:8.5)
-los apóstoles pescaron de barcos (140:0.2) (157:1.2-3) (192:1.1,3)
-Los apóstoles atravesaron el mar de Galilea en (138:4.1,4) (138:5.3) (147:7.1) (152:0.1) (152:2.2) (152:5.1,5) (154:7) (156:6.4) (157:1.5)
-Los cromañones eran expertos constructores de barcos (80:3.6)
-comercio temprano facilitado por (79:1.4) (81:3.6-7)
-comercio marítimo temprano en el Mediterráneo (80:1.1)
-Los edenitas no tenían nada adecuado (76:0.1)
+barcos | | | | OK
+pueblos marineros
+	Los hombres azules eran cazadores, pescadores, colectores de alimento y expertos constructores de barcos. (80:3.6)
+	Cuando Adán eligió dejar el primer jardín a los noditas sin oponer resistencia, no podía ir con sus seguidores hacia el oeste, porque los edenitas no disponían de barcos adecuados para esa aventura marina. (76:0.1)
+	Hacia el año 12.000 a. de J.C., una brillante tribu de anditas navegantes emigró a Creta. (80:7.2)
+	Los danubianos se convirtieron en adoradores de la madre a consecuencia de la labor de los misioneros de Creta. Estas tribus se fusionaron más tarde con grupos de marineros andonitas que vinieron por barco desde la costa de Asia Menor, y que también eran adoradores de la madre. (80:8.5)
+	el primer comercio, iniciado por los anditas, fue facilitado por el uso de barcos (79:1.4) (81:3.6-7)
+	Antes de que los últimos anditas fueran expulsados del valle del Éufrates, muchos hermanos suyos habían penetrado en Europa como aventureros, educadores, comerciantes y guerreros. Una parte del comercio marítimo inicial del hombre se estableció en el Mediterráneo, donde los hombres azules del norte y los saharianos del sur se encontraron con los noditas y los adamitas del este. (80:1.1)
+	la costa del Mediterráneo no se pobló de anditas hasta las grandes invasiones del año 2500 a. de J.C.. El transporte y el comercio terrestre permanecieron prácticamente interrumpidos. Esta obstrucción provocó la gran expansión del transporte y el comercio por mar; estuvo en pleno apogeo hace 4500 años. (80:9.9)
+	Poco tiempo después de conquistar la India, los anditas dravidianos perdieron su contacto racial y cultural con Mesopotamia, pero estas relaciones se restablecieron gracias a la apertura posterior de las líneas marítimas y de las rutas de las caravanas. (79:3.2)
 Jesús
-	construido mejorado barcos (129:1.3)
-	conocí a Ruth en un barco (145:0.3)
-	tormenta en el mar de Galilea (151:5)
-	enseñado de (137:6.4) (140:8.1) (145:1.1) (151:1.1) (151:4.1)
-	viajó a Roma en barco (130:0.2) (130:3.1) (130:4.12) (133:2.1,3,5) (133:4.14) (133:9.4)
-	lloró en un bote (141:0.2)
-El regreso de José y María a Palestina en (123:0.4)
-muchos barcos utilizado por los apóstoles construidos por Jesús (138:7.5) (145:1.1)
-La visión nocturna de Pedro en el mar de Galilea (152:4)
-comercio marítimo activo en 2500 a.C. (80:9.9)
-tráfico marítimo entre India y Mesopotamia (79:3.2)
+	José y María se despidieron de Alejandría en un barco propiedad de su amigo Esraeon, con destino a Jope, puerto al que llegaron a finales de agosto del año 4 a. de J. C. (123:0.4)
+	Jesús realizó un largo viaje en barco hasta llegar a Roma (130:0.2) (130:3.1) (130:4.12) (133:2.1,3,5) (133:4.14) (133:9.4)
+	Gracias a una técnica superior y a unos métodos mucho mejores de tratar las tablas al vapor, Jesús y Zebedeo empezaron a construir barcas de un tipo muy superior; se trataba de unas embarcaciones mucho más seguras que los antiguos modelos para navegar por el lago. (129:1.3)
+	antes de salir de predicación Andrés encontró a Jesús llorando sentado en una barca en la playa (141:0.2)
+	Jesús y su hermana Rut pasaron una hora juntos en un barca anclada en la costa. Rut fue la única de la familia que creyó sin dudar durante toda su vida en la divinidad de la misión de Jesús. (145:0.3)
+	A Jesús y los apóstoles les sorprendió una violenta tormenta en el mar de Galilea; aunque Jesús nunca detuvo la tormenta de forma milagrosa, los apóstoles sí que lo creyeron (151:5)
+	Jesús frecuentemente enseñó sentado desde una barca a la orilla del mar (137:6.4) (140:8.1) (145:1.1) (151:1.1) (151:4.1)
+los apóstoles
+	los apóstoles pescaban desde barcas (140:0.2) (157:1.2-3) (192:1.1,3)
+	Los apóstoles atravesaron el mar de Galilea en barca en varias ocasiones (138:4.1,4) (138:5.3) (147:7.1) (152:0.1) (152:2.2) (152:5.1,5) (154:7) (156:6.4) (157:1.5)
+	muchas de las barcas utilizadas por los apóstoles fueron construidas por Jesús con sus propias manos (138:7.5) (145:1.1)
+	La visión nocturna de Pedro en el mar de Galilea: mientras los otros apóstoles luchaban en la barca contra el viento y las olas, Pedro tuvo un sueño, una visión de Jesús que venía hacia ellos caminando por el mar. (152:4)
 
-cuerpo humano | | sangre; cerebros; eugenesia; ojos; carne; genética; mortales; personalidad:formas de personalidad; estructuras esqueléticas | | 
-después de la muerte, cuerpo humano se descarta la cubierta exterior (30:4.15) (39:2.13) (189:1.2)
-cuerpos creados para Caligastia 100 (66:2.7-8)
-no puede ser transportado por transporte seráfico (39:2.13)
-la mente cósmica y los Espíritus Ayudantes de la Mente evolucionan (42:12.11)
-energizado por la distribución circulatoria de productos energéticos asimilables de la alimentación (116:7.1)
-la química de la glándula afecta la imaginación, la recepción del espíritu (49:5.19)
-curación de secreciones cuando se lesiona (65:4.3-6)
-células humanas similares a organismos productores de enfermedades (76:4.7)
-mecanismo electroquímico vivo de origen animal (0:5.7)
-los mortales pueden ser bellos por fuera, desagradables por dentro (112:6.3)
-producto de un diseño creativo supermortal (118:9.3)
-refleja la personalidad en un grado limitado (112:6.3)
-el espíritu es arquitecto, la mente es constructora (42:12.12)
-templo de Dios (1:4.2) (34:6.7) (143:2.4) (160:4.9)
-cruel a sabiendas para profanar o contaminar (110:1.5)
+cuerpo humano; cuerpo; cuerpo físico; cuerpos combustibles; cuerpos materiales; tabernáculo físico; cuerpo material; cuerpos físicos | | sangre; cerebros; eugenesia; ojos; carne; genética; mortales; personalidad:formas de personalidad; estructuras esqueléticas | | OK
+el cuerpo es el mecanismo electroquímico viviente de naturaleza y origen animal (0:5.7)
+características físicas
+	el cuerpo humano es alimentado y vigorizado por la distribución circulatoria de los productos energéticos asimilables de la comida (116:7.1)
+	la química glandular de ciertas glándulas comparables a los cuerpos pituitarios afectan la imaginación inherente y la receptividad espiritual (49:5.19)
+	Cuando una célula viviente es lesionada, posee la capacidad de elaborar ciertas sustancias químicas que tienen la facultad de estimular y activar las células normales vecinas, de tal manera que éstas empiezan inmediatamente a secretar ciertas sustancias que facilitan los procesos curativos de la herida. (65:4.3-6)
+	Las células del cuerpo de los Hijos Materiales son mucho más resistentes a las enfermedades que las de los seres humanos. Las células del cuerpo de los humanos son similares a los organismos vivientes microscópicos y ultramicroscópicos del planeta que producen las enfermedades. Estos hechos explican por qué los pueblos de Urantia tenemos que hacer tantos esfuerzos en el campo científico para resistir tantos desórdenes físicos. Seríamos mucho más resistentes a las enfermedades si nuestras razas llevaran más sangre adámica. (76:4.7)
+características espirituales
+	El mecanismo vital de la personalidad mortal, el cuerpo humano, es el producto de un diseño creativo supermortal; por eso nunca puede ser perfectamente controlado por el hombre mismo. (118:9.3)
+	La apariencia de la forma del cuerpo material es sensible, hasta cierto punto, al carácter de la identidad de la personalidad; el cuerpo físico refleja algo de la naturaleza inherente de la personalidad, pero de una forma limitada. (112:6.3)
+	El espíritu es el arquitecto, la mente es el constructor, el cuerpo es el edificio material. (42:12.12)
+	Los cuerpos físicos de los mortales son «los templos de Dios». El cuerpo y la mente del hombre son el lugar donde vive el don de los Dioses, el espíritu de Dios que se convierte en el espíritu del hombre (1:4.2) (34:6.7) (143:2.4) (160:4.9)
+	cuán cruel es manchar a sabiendas o contaminar deliberadamente de otras maneras el cuerpo físico que debe servir de tabernáculo terrestre a este don maravilloso de Dios. (110:1.5)
+tras la muerte
+	Los ángeles no pueden transportar los cuerpos combustibles —de carne y hueso— tales como los que tenemos ahora, pero pueden transportar todos los demás, desde las formas morontiales inferiores hasta las formas espirituales más elevadas. (39:2.13)
+	después de la muerte, el cuerpo humano se descarta. El cuerpo es entonces una envoltura exterior desechada (30:4.15) (39:2.13) (189:1.2)
+el cuerpo morontial
+	La unión entre la mente cósmica y el ministerio de los espíritus ayudantes de la mente da nacimiento a un tabernáculo físico adecuado para el ser humano en evolución. (42:12.11)
+	In the physical life, mortals may be outwardly beautiful though inwardly unlovely; in the morontia life, and increasingly on its higher levels, the personality form will vary directly in accordance with the nature of the inner person. (112:6.3)
+cuerpos fabricados
+	el séquito de cien miembros de Caligastia estuvo formado por cien jerusemitas para quienes se construyeron unos cuerpos materiales en Urantia usando los genes de cien andonitas que se convirtieron en sus ayudantes (66:2.7-8)
 
 Bon | | cien de Caligastia | PERSON | OK
 Bon era miembro de los cien asistentes de Caligastia en Urantia; presidió el consejo de domesticación y utilización de animales (66:5.4)
 él y todo su consejo de diez miembros se perdió en la rebelión de Lucifer, pues se unieron a su causa (67:4.1)
 
-siervos esclavos | | | | 
-entre las primeras propiedades acumuladas (69:5.8)
+siervos esclavos; criados hipotecados | | | | OK
+Los criados hipotecados se encontraron entre las primeras formas de propiedad que se acumularon, y en la antigüedad, la esclavitud ocasionada por las deudas se extendía incluso hasta tener autoridad sobre el cuerpo después de la muerte. (69:5.8)
 
-huesos | | | | 
-Latinos preservaron los huesos de los héroes; Santos posteriores (98:3.4)
-de muertos se cree muy mágico (88:5.2)
-Primates hechos espículas de (63:1.2)
-primitivos líderes venerados (88:2.1)
+huesos | | | | OK
+los primates, los padres de esta primera pareja humana, utilizaban puntas afiladas de piedra, de sílex y de hueso (63:1.2)
+Los antiguos siempre veneraban los huesos de sus dirigentes, y muchas personas contemplan todavía los restos óseos de los santos y los héroes con un temor supersticioso. Incluso hoy en día se hacen peregrinajes a la tumba de los grandes hombres. (88:2.1)
+Los huesos de los muertos se creían muy mágicos. (88:5.2)
+los latinos preservaron los huesos de los héroes, y más tarde, los de los santos cristianos (98:3.4)
 
-Libros; libro de la vida | | | | 
-Hechos de los Apóstoles | Hechos de los Apóstoles
-De los muertos | Libro de los Muertos
-Deuteronomio | Deuteronomio
-Eclesiastés.
-Enoc | Enoc:Libro
-Génesis | Génesis
-Hebreos | Hebreos
-Isaías | Isaías (primero); Isaías (segundo)
-Job.
-Libro de la vida. Los Custodios del Conocimiento son libros vivientes (27:5.1)
-Proverbios | Proverbios (libro)
-Salmos.
-Apocalipsis | Apocalipsis
-Sabiduría | Eclesiastés
+Libros | | | | OK
+Libros mencionados en El Libro de Urantia:
+* Génesis (74:8) | Génesis
+* Deuteronomio (97:8.3) (150:8.8) (153:2.1) | Deuteronomio
+* Isaías (97:7.4) | Isaías (primero); Isaías (segundo)
+* Libro hebreo de los Salmos (95:2.10) (95:4.5) (95:5.7) (96:7.3) (97:7.9) (123:5.3) (165:4.8) (187:5.2) | Salmos
+* Eclesiastés (97:8.2) | Eclesiastés
+* El Libro de la Sabiduría (95:4.3,5) | Eclesiastés
+* El Libro de los Proverbios (95:4.3,5) | Proverbios (libro)
+* El Libro de Job (96:7.1) | Job
+* Hechos de los Apóstoles (121:8.8) | Hechos de los Apóstoles
+* El Libro de Enoc (126:3.6,8) (136:1.6) | Enoc:Libro
+* El Libro de los Hebreos (93:9.11) (196:2.1) | Hebreos
+* Apocalipsis (139:4.14) | Apocalipsis
+* El Libro de los Muertos (95:2.5) | Libro de los Muertos
+* El Libro de la vida. Los Custodios del Conocimiento son esos libros vivientes (27:5.1)
+los mejores libros
+	Ninguna colección de escritos religiosos expresa una riqueza de devoción y de ideas inspiradoras sobre Dios como el Libro de los Salmos. (96:7.3)
+	Nunca se han vuelto a efectuar unas declaraciones más hermosas sobre el Padre celestial. Los escritos de Isaías, al igual que los Salmos, figuran entre las presentaciones más sublimes y verdaderas del concepto espiritual de Dios que hayan escuchado nunca los oídos de los hombres mortales antes de la llegada de Miguel a Urantia. (97:7.9)
 
-contable | | | | 
-Dios no es un (141:4.1)
+contable | | | | OK
+Dios es un Padre, y no un contable grande y supremo que se ocupa principalmente de efectuar asientos perjudiciales contra sus hijos desviados de la Tierra, registrando sus pecados y maldades para luego utilizarlos contra ellos cuando se siente a juzgarlos como justo Juez de toda la creación (141:4.1)
 
-aburrimiento | | | | 
-indica inmadurez de la imaginación creativa (14:5.8)
+aburrimiento; monotonía | | | | 
+La monotonía indica la inmadurez de la imaginación creativa y la inactividad de la coordinación intelectual con la dotación espiritual. (14:5.8)
 
-indígenas de Borneo | | | RACE | 
-esclavo con lanza para acompañar al amo fallecido (87:2.8)
+indígenas de Borneo | | | RACE | OK
+Los indígenas de Borneo todavía suministran un compañero que sirva de guía; se atraviesa a un esclavo con una lanza para que haga el viaje fantasmal con su amo fallecido. (87:2.8)
 
-seno del padre | | | | 
-Divinington (13:1.4) (13:2.7) (20:4.3) (39:2.13)
-circuito de personalidad (5:2.2)
-La identidad del alma de Jesús puede descansar en (188:3.8)
+seno del padre; seno del Padre | | | | OK
+Divinington. Este mundo es, en un sentido muy especial, el «seno del Padre», la esfera de comunión personal del Padre Universal (13:1.4) (13:2.7) (20:4.3) (39:2.13)
+Dios vive en cada uno de sus hijos nacidos del espíritu. Todas las personalidades tienen acceso al «seno del Padre». Esto se refiere al circuito de la personalidad, cuando, dónde y comoquiera que se contacte con él, o suponga por lo demás un contacto y una comunión personal y consciente con el Padre Universal (5:2.2)
+hay quienes sostienen que la identidad del alma de Jesús descansa ahora en el «seno del Padre», y que posteriormente será liberada para dirigir el Cuerpo de la Finalidad de Nebadon hacia su destino no revelado relacionado con los universos increados de los reinos inorganizados del espacio exterior (188:3.8)
 
-seno del hijo | | | | 
-Sonarington (13:1.7)
+seno del hijo; seno del Hijo | | | | OK
+Sonarington. Esta esfera es el «seno del Hijo», el mundo receptor personal del Hijo Eterno. Es la sede paradisiaca de los Hijos de Dios descendentes y ascendentes a partir del momento en que son plenamente acreditados y finalmente aprobados. (13:1.7)
 
-seno del espíritu | | | | 
-Spiritington (13:1.9)
+seno del espíritu; seno del Espíritu | | | | OK
+Spiritington. Este mundo es el «seno del Espíritu», el hogar paradisiaco de los seres superiores que representan exclusivamente al Espíritu Infinito. (13:1.9)
 
-Bosora | (165:0.1) | | PLACE | 
-Una de las poblaciones recorridas en la misisón de Perea
+Bosora | (165:0.1) | | PLACE | OK
+Una de las poblaciones visitadas por Jesús, los doce y los setenta, durante la misión en Perea entre el 3 de enero de 30 hasta la muerte de Jesús (165:0.1)
 
-cantos rodados | | | | 
-producto glacial (61:7.1)
+cantos rodados | | | | OK
+los cantos rodados son un producto glacial (61:7.1)
 
-arco y flecha | | | | 
-raza roja inventada (64:6.4)
+arco y flecha; el arco y la flecha | | | | OK
+el arco y la flecha fueron inventados por la raza roja en fecha temprana (64:6.4)
 
-braquiópodos | (59:1.18) (59:2.12) (59:3) (59:4.3) | | | 
+braquiópodos | (59:1.18) (59:2.12) (59:3) (59:4.3) | | | OK
 
 Brahma | | Brahmán; brahmánismo; hinduismo | PERSON | OK
 Brahma el el primer miembro de la trinidad hindú Trimurti; creado a partir de la infinidad, el Brahmán; se le identifica con el destino (94:4.4) (104:1.5)
 se le considera el principio védico de la deidad-padre (94:1.4)
 
 Brahmán | | Brahma; brahmánismo; hinduismo | PERSON | OK
-Al Brahmán-Narayana se le concibió como el Absoluto, el infinito ELLO ES, la fuerza creativa primordial del cosmos potencial, el Yo Universal que existe en el estado estático y potencial durante toda la eternidad (94:3.3-4).
+Al Brahmán-Narayana se le concibió como el Absoluto, el infinito ELLO ES, la fuerza creativa primordial del cosmos potencial, el Yo Universal que existe en el estado estático y potencial durante toda la eternidad (94:3.3-4)
 fue una idea distante de Absoluto que todo lo abarca pero de tipo impersonal (94:2.6-7)
 se consideraba el principio de energía-divinidad que activa el panteón védico (94:1.4)
 se pensaba que era energía creativa, reacción cósmica; más allá de toda definición (94:3.2)
