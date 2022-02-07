@@ -67,7 +67,7 @@ The different roles for *Urantiapedia* collaborators are:
 * *developers*: in charge of the development of the functionality of *Urantiapedia Tools* and *Wiki.js*. The code will be hosted here in GitHub. Check [Dev help](https://urantiapedia.org/en/help/devs).
 * *reviewers*: in charge of ensuring that the content of the website is correct and comply with rules.
 
-To find out more about the profiles we are looking to collaborate with, check [Collaborator profiles](/en/help/roles).
+To find out more about the profiles we are looking to collaborate with, check [Collaborator profiles](https://urantiapedia.org/en/help/roles).
 
 ---
 
