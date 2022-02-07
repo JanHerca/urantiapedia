@@ -23,7 +23,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ## Who is this manual for?
 
 This manual is for users called "GitHub editors", or users that comply with these requirements:
-- registered users with an account on [Blue Fields](https://blue-fields.netlify.app/) and on [GitHub] (https://github.com/).
+- registered users with an account on [Blue Fields](https://blue-fields.netlify.app/) and on [GitHub](https://github.com/).
 - users who have been authorized as project collaborators by the team that runs the project on [Blue Fields](https://blue-fields.netlify.app/) platform.
 - users with a minimum knowledge of GitHub management.
 - users with some knowledge of *The Urantia Book* in at least one language in which it is published.
@@ -31,56 +31,30 @@ This manual is for users called "GitHub editors", or users that comply with thes
 
 "GitHub editors" do not need to be registered on the *Urantiapedia* web because a "GitHub editor" will only use a GitHub account to submit the results of his or her work to the *Urantiapedia* project on GitHub. All the necessary work will be done only through GitHub, and web "administrators" will be in charge of uploading changes to the *Urantiapedia* web to check the result of the work.
 
-## Work procedure in the preparation phase
+## GitHub workflow
 
 The process will be as follows:
 1. "GitHub editor" creates a *fork* (a copy in its own account) of *Urantiapedia* project on GitHub: https://github.com/JanHerca/urantiapedia.
-2. "GitHub editor" creates a local copy of the project on PC. 
+2. "GitHub editor" creates a local copy of the project on PC.
 3. The local copy must be of the latest version of *Urantiapedia* content (the master branch). This is done through a *pull* action to the project, that downloads any change to our local copy.
 4. "GitHub editor" makes changes in the local copy to the files indicated in this manual and in the way explained.
-5. "GitHub editor" performs a *pull request* uploading its changes to GitHub.
+5. "GitHub editor" makes commmits to the local copy and send changes to GitHub through a *push*. Then performs a *pull request* in GitHub web.
 6. The *pull requests* of "GitHub editors" are reviewed by "administrators", who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and "GitHub editors" will be notified what changes they need to fix, usually by email or through notifications on the GitHub platform itself.
 7. Changes that are OK will be uploaded to *Urantiapedia* website by "administrators" in order to check and validate that they are correct and so that anyone can see the results.
-8. The process is repeated as many times as needed, returning to task 3 until the entire *Urantiapedia* has completed its preparation phase.
+8. The process is repeated as many times as needed, returning to point 4.
 
-## Create a copy of Urantiapedia project on GitHub
+## Setting up the Urantiapedia project
 
-To make the copy, follow these steps:
-1. Go to https://github.com
-2. If you already have an account, click *Sign in* and validate.
-3. If you don't have an account, create one by clicking *Sign up*. Enter a username, an email address, and a password. Once you have an account, log into GitHub with it.
-4. The first time we enter GitHub, it will ask us to do a verification through our email account. Once verified, we will appear on the GitHub home page.
-5. Open the *Urantiapedia* project page: https://github.com/JanHerca/urantiapedia
-6. Create a *fork* of the project. A *fork* is nothing but a proper copy of an existing project in our account, so that the changes we make to this project do not affect the original project. To make the *fork* click on the *Fork* button in the upper right corner of GitHub page.
-7. In a few seconds a copy of *Urantiapedia* project will be created within your GitHub account. This project is a fresh copy in which you can make the changes you need, without affecting the original project.
-8. To download a copy of a project there are several ways:
-    * Download all by clicking the green *Code* menu and then selecting *Download ZIP*. This creates a compressed file with all the project files. Then you have to unzip the file in any path on your PC to have it ready. Now you can proceed to installation as described in next section.
-    * Use GitHub Desktop software (https://desktop.github.com/). It is more recommended because this software allows us to track which files have changed, send our changes to the original project, and see what other participants are changing. In this case, once GitHub Desktop is installed, follow this:
-        - From menu *File* select *Clone a repository*.
-        - In the dialog that opens select *GitHub.com* tab, select the *urantiapedia* project you *forked*, give it a path for the local copy and click *Clone*. Now you are ready to proceed to installation as described in next section.
-
-Both ways let us with a folder with several subfolders with *Urantiapedia* project.
-
-## Setting up *Urantiapedia Tools*
-
-*Urantiapedia Tools* is a JavaScript desktop app developed with [Electron](https://www.electronjs.org/). To install and execute it follow these steps:
-
-1. It is recommeded the use of [VS Code](https://code.visualstudio.com/).
-2. Fork the project at [GitHub project](https://github.com/JanHerca/urantiapedia) as explained in previous section.
-3. Ensure to have [Node.js](https://nodejs.org/) installed. Open a terminal in VS Code and execute `node -v` to check you have it installed.
-4. Ensure that terminal is opened in root folder of the project. To install dependencies execute: `npm install`. Wait until all of them are installed.
-5. The project is set up with a default launch configuration. Press F5 to execute or in the terminal execute `npm start`.
-6. The application opens. By default a Dev Tools window is opened for debugging. You can ignore it if not developing.
-
-![](/image/uptools.png)
+Before any work in *Urantiapedia* using GitHub you must set up all the needed tools. Check [Setting up GitHub project](/en/help/github_setting).
 
 ## Folders in *Urantiapedia* project on GitHub
 
-The most important folders that comprises *Urantiapedia* project on Github are these:
+The folders that comprises *Urantiapedia* project on Github are these:
 - **.vscode**: configuration files for Visual Studio Code, the software used to develop *Urantiapedia Tools*.
 - **app**: source code files in JavaScript with *Urantiapedia Tools* application.
+- **css**: some CSS files to show Markdown files better.
 - **docs**: project documentation.
-- **input**: main folder containing input files used to generate *Urantiapedia* pages for a language. These are the only folders that "GitHub editors" should modify in the project.
+- **input**: main folder containing input files used to generate *Urantiapedia* pages for a language. This is the only folder that "GitHub editors" should modify in the project.
     * **html**: folder with files in HTML format.
         * **book-xx**: *The Urantia Book* translations in original HTML from *Urantia Foundation** (`book-en`,` book-en`, etc.)
     * **json**: folder with files in JSON format.
@@ -116,7 +90,7 @@ It should be borne in mind that there are currently three translations in the Sp
 - `book-es-1993`, with the first Spanish translation made in 1993;
 - `book-es-2021`, with the new translation made in 2021.
 
-## Workflow
+## Content workflow
 
 For each language to be incorporated in *Urantiapedia*, the following input will be used:
 - An official translation of *The Urantia Book*, or the original for English, in HTML format. This content will be left in the `input/html/book-xx` folder of the project on GitHub, where `xx` is the two-letter code for the language (`es` = Spanish, `en` = English, etc.). In the case of the Spanish language, since there are several translations, `book-es` will contain the so-called European edition, `book-es-1993` the 1993 translation, and `book-es-2021` the 2021 translation.

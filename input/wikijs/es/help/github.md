@@ -41,46 +41,20 @@ El proceso a seguir será el siguiente:
 5. El «editor GitHub» realiza un *pull request* subiendo sus cambios a GitHub.
 6. Los *pull request* de los «editores GitHub» son revisados por los «administradores», que se encargan de hacer un *merge* con la rama principal (master) de todos aquellos cambios que estén correctos. Cualquier cambio que no esté correcto será rechazado y se notificará a los «editores GitHub» qué cambios deben corregir, normalmente por email o través de notificaciones en la propia plataforma GitHub.
 7. Los cambios que estén correctos serán subidos a la web de la *Urantiapedia* por los «administradores» para poder comprobar y validar que quedan bien y para que cualquiera pueda examinar el resultado.
-8. El proceso se repite cuantas veces sea necesario regresando a la tarea 3 hasta que toda la *Urantiapedia* tenga completada su fase de preparación.
-
-## Crearse de una copia del proyecto Urantiapedia en GitHub
-
-Para realizar la copia sigue estos pasos:
-1. Entra en https://github.com 
-2. Si ya tienes una cuenta, haz clic en *Sign in* y valídate.
-3. Si no tienes una cuenta, créate una haciendo clic en *Sign up*. Introduce un nombre de usuario, una dirección de correo, y una contraseña. Una vez tengas una cuenta, entra en GitHub con ella.
-4. La primera vez que entremos en GitHub nos pedirá que hagamos una verificación a través de nuestra cuenta de correo. Una vez verificados apareceremos en la página de inicio de GitHub.
-5. Abre la página del proyecto *Urantiapedia*: https://github.com/JanHerca/urantiapedia 
-6. Crea un *fork* del proyecto. Un *fork* no es sino una copia propia de un proyecto existente en nuestra cuenta, de modo que los cambios que hagamos a este proyecto no afecten al proyecto original. Para hacer el *fork* haz clic en el botón *Fork* que se encuentra en la esquina superior derecha de la página de GitHub.
-7. En breves segundos se creará una copia del proyecto *Urantiapedia* dentro de tu cuenta de GitHub. Este proyecto es una copia nueva en la que puedes hacer los cambios que necesites, sin afectar al proyecto original.
-8. Para descargar una copia de un proyecto existen varias maneras:
-    * Descargar todo haciendo clic en el menú verde *Code* y luego seleccionando *Download ZIP*. Esto nos crea un fichero comprimido con todos los archivos del proyecto. Luego hay que descomprimir el archivo en cualquier ruta de nuestro PC para tenerlo listo. Ya puedes proceder con la instlación tal como se describe en la sección siguiente.
-    * Usar el software GitHub Desktop (https://desktop.github.com/). Es más recomendable porque este software permite mostrarnos qué ficheros hemos cambiado, enviar nuestros cambios al proyecto original, y ver qué están cambiando otros participantes. En este caso, una vez GitHub Desktop está instalado, procede como sigue:
-        - En el menu *File* selecciona *Clone a repository*.
-        - En el cuadro de diálogo que se abre selecciona la pestaña *GitHub.com*, selecciona el proyecto *urantiapedia* que es tu *fork*, introduce una ruta para la copia local y haz click en *Clone*. Ya puedes proceder con la instalación tal como se describe en la sección siguiente.
-
-Tanto de un modo como otro finalmente tendremos una carpeta con varias subcarpetas con el proyecto de la *Urantiapedia*.
+8. El proceso se repite cuantas veces sea necesario regresando al punto 4.
 
 ## Configurar las *Urantiapedia Tools*
 
-*Urantiapedia Tools* es una aplicación de escritorio desarrollada en JavaScript con [Electron](https://www.electronjs.org/). Para instalarla y ejecutarla sigue estos pasos:
-
-- Se recomienda el uso de [VS Code](https://code.visualstudio.com/).
-- Clona o crea un fork de [GitHub project](https://github.com/JanHerca/urantiapedia).
-- Asegúrate de tener [Node.js](https://nodejs.org/) instalado. Abre un terminal en VS Code y ejecuta `node -v` para comprobar que lo tienes instalado.
-- Con el terminal abierto en la carpeta root del proyecto instala las dependencias: `npm install`. Espera a que todas se hayan instalado.
-- El proyecto está configurado con un lanzador por defecto. Pulsa F5 para ejecutarlo o bien ejecuta en el terminal `npm start`.
-- La aplicación se abre. Por defecto se abre una ventana Dev Tools para depurar. Puedes ignorarla si no estás desarrolando.
-
-![](/image/uptools.png)
+Antes de cualquier trabajo en *Urantiapedia* usando GitHub debes configurar todas las herramientas necesarias. Consulta [Configurar el proyecto de GitHub](/es/help/github_setting).
 
 ## Organización del proyecto *Urantiapedia* en GitHub
 
 Las carpetas más destacadas que componen el proyecto de *Urantiapedia* en Github son éstas:
 - **.vscode**: ficheros de configuración para Visual Studio Code, que es el software con el que se está desarrollando las *Urantiapedia Tools*.
 - **app**: ficheros código fuente en JavaScript con la aplicación *Urantiapedia Tools*.
+- **css**: algunso ficheros CSS para mostrar mejor los ficheros Markdown.
 - **docs**: documentación del proyecto.
-- **input**: carpeta principal que contiene los archivos de entrada (inputs) que sirven para generar las páginas de la *Urantiapedia* para un idioma. Estas son las únicas carpetas que los «editores GitHub» deben modificar del proyecto.
+- **input**: carpeta principal que contiene los archivos de entrada (inputs) que sirven para generar las páginas de la *Urantiapedia* para un idioma. Esta es la única carpeta que los «editores GitHub» deben modificar del proyecto.
     * **html**: carpeta con archivos en formato HTML.
         * **book-xx**: *El Libro de Urantia* en sus diferentes traducciones en formato HTML original obtenido de la *Fundación Urantia* (`book-es`, `book-en`, etc.)
     * **json**: carpeta con archivos en formato JSON.
