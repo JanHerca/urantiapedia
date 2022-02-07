@@ -6,7 +6,7 @@
 < Entry = Name | Refs | See also | Category | OK (= revised)
 < An entry can have one or several sub-entries (= the lines after entry)
 < A sub-entry can have sub-sub-entries with tabs and so on
-< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+< Help: https://urantiapedia.org/es/help/github_topicindex
 <__________________________________________________________________________________
 
 A-B-C el Primero;a-b-c el primero | (77:8.2) | | PERSON | OK
@@ -520,16 +520,16 @@ la raza violeta
 	la raza violeta fue la primera que intentó divorciar lo matemático de lo volitivo, lo material de lo espiritual (103:6.10)
 	fueron una raza que existó desde el 35.000 a.C. hasta el 2000 a.C., en que se produjo su desaparición total (78:0.2)
 	algunos miembros de la raza violeta fueron:
-		* Abel | Abel
-		* Adanson | Adanson
-		* Caín | Caín
-		* Enoc | Enoc
-		* Enós | Enós
-		* Evason | Evason
-		* Jansad | Jansad
-		* Cainán | Cainán
-		* Set, hijo de Adán y Eva | Set (hijo de Adán y Eva)
-		* Sansa | Sansa
+	* Abel | Abel
+	* Adanson | Adanson
+	* Caín | Caín
+	* Enoc | Enoc
+	* Enós | Enós
+	* Evason | Evason
+	* Jansad | Jansad
+	* Cainán | Cainán
+	* Set, hijo de Adán y Eva | Set (hijo de Adán y Eva)
+	* Sansa | Sansa
 en el jardín
 	en los mundos normales los candidatos para el apareamiento son llevados al jardín y se considera un gran honor casarse con las hijas e hijos del Jardín (51:5.3)
 	a los 18 años empezaban un curso de formación matrimonial y ganaban el derecho a casarse a los 20 (74:6.8)
@@ -1738,19 +1738,19 @@ Apolo, el dios de la música y las artes, tenía un templo ubicado en la colina 
 apóstoles de Jesús | (138) (145:4.1) (150:4) (158:0.2) (158:2.5) (172:5) (173:5.6) (184:2.2) (193:3.2) | apostolado | PERSON | OK
 Los apóstoles fue el grupo de doce seguidores con los que Jesús inició su predicación
 sus nombres eran: 
-	* Andrés | Andrés
-	* Simón Pedro | Simón Pedro
-	* Santiago Zebedeo | Santiago Zebedeo
-	* Juan Zebedeo | Juan Zebedeo
-	* Felipe | Felipe (apóstol)
-	* Natanael | Natanael (apóstol)
-	* Mateo Leví | Mateo Leví
-	* Tomás Dídimo | Tomás Dídimo
-	* Santiago Alfeo | gemelos Alfeo
-	* Judas Alfeo
-	* Simón Celotes | Simón Celotes
-	* Judas Iscariote | Judas Iscariote
-	* Otros conocidos fueron Matías y Pablo aunque éste último no conoció a Jesús | Matías; Pablo
+* Andrés | Andrés
+* Simón Pedro | Simón Pedro
+* Santiago Zebedeo | Santiago Zebedeo
+* Juan Zebedeo | Juan Zebedeo
+* Felipe | Felipe (apóstol)
+* Natanael | Natanael (apóstol)
+* Mateo Leví | Mateo Leví
+* Tomás Dídimo | Tomás Dídimo
+* Santiago Alfeo | gemelos Alfeo
+* Judas Alfeo
+* Simón Celotes | Simón Celotes
+* Judas Iscariote | Judas Iscariote
+* Otros conocidos fueron Matías y Pablo aunque éste último no conoció a Jesús | Matías; Pablo
 El Libro de Urantia da descripciones personales detalladas de cada uno (139)
 la mayoría estuvieron casados, y algunos tuvieron varios hijos (138:9.3)
 todos excepto los gemelos Alfeo estaban graduados en las escuelas de la sinagoga (139:0.3-4)

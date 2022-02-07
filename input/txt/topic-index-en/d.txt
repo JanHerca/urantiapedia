@@ -6,7 +6,7 @@
 < Entry = Name | Refs | See also | Category | OK (= revised)
 < An entry can have one or several sub-entries (= the lines after entry)
 < A sub-entry can have sub-sub-entries with tabs and so on
-< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+< Help: https://urantiapedia.org/en/help/github_topicindex
 <__________________________________________________________________________________
 
 Dabaritta | (149:0.1) | | PLACE | 

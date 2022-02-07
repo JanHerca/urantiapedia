@@ -69,7 +69,7 @@ To find out about the phases of the project, check [Project phases](/en/help/pha
 * other translations of *The Urantia Book*: only preliminary work on phase I has begun.
 Phase II has not yet been entered with any language.
 
- To know more about the current progress of the project check here: [Status](/en/help/status)
+To know more about the current progress of the project check here: [Status](/en/help/status).
 
 
 ## How to collaborate

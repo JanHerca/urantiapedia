@@ -6,7 +6,7 @@
 < Entry = Name | Refs | See also | Category | OK (= revised)
 < An entry can have one or several sub-entries (= the lines after entry)
 < A sub-entry can have sub-sub-entries with tabs and so on
-< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+< Help: https://urantiapedia.org/en/help/github_topicindex
 <__________________________________________________________________________________
 
 A-B-C the First; A-B-C the first | (77:8.2) | | PERSON | OK
@@ -520,16 +520,16 @@ the violet race
 	violet race was the first to attempted to divorce mathematical from volitional, material from spiritual things (103:6.10)
 	they were a race from 35,000 B.C. to 2000 B.C., when its final disappearance happened (78:0.2)
 	some members of violet race were:
-		* Abel | Abel
-		* Adamson | Adamson
-		* Cain | Cain
-		* Enoch | Enoch
-		* Enos | Enos
-		* Eveson | Eveson
-		* Jansad | Jansad
-		* Kenan | Kenan
-		* Seth, son of Adam and Eve | Seth
-		* Sansa | Sansa
+	* Abel | Abel
+	* Adamson | Adamson
+	* Cain | Cain
+	* Enoch | Enoch
+	* Enos | Enos
+	* Eveson | Eveson
+	* Jansad | Jansad
+	* Kenan | Kenan
+	* Seth, son of Adam and Eve | Seth
+	* Sansa | Sansa
 in the Garden
 	on normal worlds candidates for mating are brought to Garden, and it is considered a high honor marry the daughters and sons of the Garden (51:5.3)
 	at 18 they entered a preparation course for marital responsibilities and were eligible for marriage at 20 (74:6.8)
@@ -1738,19 +1738,19 @@ Apollo, the god of music and the arts, had a temple located on the Palatine Hill
 apostles of Jesus | (138) (145:4.1) (150:4) (158:0.2) (158:2.5) (172:5) (173:5.6) (184:2.2) (193:3.2) | apostleship | PERSON | OK
 The apostles were the group of twelve followers with whom Jesus began his preaching
 their names:
-	* Andrew | Andrew
-	* Simon Peter | Simon Peter
-	* James Zebedee | James Zebedee
-	* John Zebedee | John Zebedee
-	* Philip | Philip (Apostle)
-	* Nathaniel | Nathaniel (Apostle)
-	* Matthew Levi | Matthew Levi
-	* Thomas Didymus | Thomas Didymus
-	* James Alpheus | Alpheus twins
-	* Judas Alpheus
-	* Simon Zelotes | Simon Zelotes
-	* Judas Iscariot | Judas Iscariot
-	* Other known were Matthias and Paul, although the latest never met Jesus | Matthias; Paul
+* Andrew | Andrew
+* Simon Peter | Simon Peter
+* James Zebedee | James Zebedee
+* John Zebedee | John Zebedee
+* Philip | Philip (Apostle)
+* Nathaniel | Nathaniel (Apostle)
+* Matthew Levi | Matthew Levi
+* Thomas Didymus | Thomas Didymus
+* James Alpheus | Alpheus twins
+* Judas Alpheus
+* Simon Zelotes | Simon Zelotes
+* Judas Iscariot | Judas Iscariot
+* Other known were Matthias and Paul, although the latest never met Jesus | Matthias; Paul
 The Urantia Book gives detailed personal descriptions of each (139)
 most were married, and some had several children (138:9.3)
 all except the Alphaeus twins were graduates of synagogue schools (139:0.3-4)
@@ -2466,7 +2466,7 @@ many supposedly intelligent people still believe in good luck, the evil eye, and
 astronomy | | energy; nebulae; space bodies; star students; suns | | OK
 astronomy has its origin in astrology (81:2.9) (88:6.5)
 in Jerusem there is the vast astronomic observatory (46:2.9) (46:5.30)
-astronomical objects named in The Urantia Book are: | Andromeda; Andronover; Angona; Antares; Crab nebula; Jupiter (planet); Magellanic Cloud; Mars (planet); Mercury; Milky Way galaxy; Monmatia; moon (Urantia’s); Pole Star; Sagittarius; Saturn; sun (Urantia’s); Umajor the fifth; Uminor the third; Urantia; Uranus; Venus (planet)
+astronomical objects named in The Urantia Book are:
 * Andromeda | Andromeda
 * Andronover | Andronover
 * Angona | Angona

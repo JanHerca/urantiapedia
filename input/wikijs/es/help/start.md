@@ -62,6 +62,7 @@ Para conocer las fases del proyecto consulta [Fases del proyecto](/es/help/phase
 
 
 ## Situación actual
+
 Actualmente *Urantiapedia* se encuentra como sigue:
 * inglés: en la fase I.
 * español: en la fase I.

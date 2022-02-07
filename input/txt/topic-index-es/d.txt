@@ -6,7 +6,7 @@
 < Entry = Name | Refs | See also | Category | OK (= revised)
 < An entry can have one or several sub-entries (= the lines after entry)
 < A sub-entry can have sub-sub-entries with tabs and so on
-< Help: https://urantiapedia.org/en/help/github#translation-and-review-of-the-topic-index-from-english-to-target-language
+< Help: https://urantiapedia.org/es/help/github_topicindex
 <__________________________________________________________________________________
 
 Dabarita | (149:0.1) | | PLACE | 
@@ -1344,7 +1344,7 @@ Seres de origen dual; SERES DE ORIGEN DOBLE; tipo doble | | Hijos de Dios | ORDE
 seres de origen directo o indirecto en dos de las Deidades del Paraíso (30:1.29)
 La creación de Servitales de Havona es un patrón para (25:1.2)
 en la clasificación del Paraíso (30:1.29-54)
-pedidos
+órdenes
 	* A. Las Órdenes Descendentes
 	*# Los Hijos Creadores
 	*# Los Hijos Magistrales
