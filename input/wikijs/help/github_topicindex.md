@@ -56,9 +56,9 @@ Each file consist of:
 - A header that explains its content which lines begin with `<`. These lines are ignored when the file is processed.
 - A list of topics. Each topic is preceded by a blank line and contains several lines:
     - The first line is a short table with topic description, and the values ​​or cells separated by `|` (vertical bar). Values ​​are:
-        - Topic name. If one or more names separated by `;` appear behind the name, those names are aliases that will be searched in the text of *The Urantia Book* as an alternative form to topic name. The first name will always be the one used as the title of the page in *Urantiapedia*. The rest of the names separated by (;) will be the names or aliases that, added to the first, will be searched within *The Urantia Book* to create links to these topics.
+        - Topic name. If one or more names separated by `;` appear behind the name, those names are aliases that will be searched in the text of *The Urantia Book* as an alternative form to topic name. The first name will always be the one used as the title of the page in *Urantiapedia*. The rest of the names separated by `;` will be the names or aliases that, added to the first, will be searched within *The Urantia Book* to create links to these topics.
         - General or global references to *The Urantia Book* of the entire topic. This value can be empty. These links will be displayed on *Urantiapedia* as a "See also" top section with a list of links.
-        - Links to other topics. This value can be empty. Represents one or more topics that are related to current topic. They will appear at the bottom of the page that will be generated, in the list of "Links" section.
+        - Links to other topics. This value can be empty. Represents one or more topics that are related to current topic. They will appear at the bottom of the page that will be generated, in the list of "Links" section. If more than one link exists they will be separated by `;`. It is possible to add links to specific sections inside a topic using `:`. For example: `baptism:Jesus baptism` is a link that points to topic page `baptism` and inside it to section about Jesus baptism.
         - Topic category. This value can be empty. There are five categories: Persons (`PERSON`), places (`PLACE`), orders of beings (`ORDER`), religions (`RELIGION`), and races (`RACE`). These categories allow to work only in one of them for better separation of tasks and to generate indexes.
         - Status. "GitHub editors" should write `OK` when they have finished their reviewing task with a topic. If the topic is still pending review, it will be empty.
     - The following lines, if they exist, are the topic content. These lines are also short tables that may or may not have values ​​separated by `|` (vertical bar). There are two types of tables:
@@ -213,9 +213,9 @@ The *Topic Index Editor* has four main areas:
 
 In a future the *Topic Index Editor* will allow to edit topics directly from the app, but currently the functionality it provides is the following:
 - Load the list of topics for a given language.
-- Filter topics by catergoy, initial letter, if they are revised or not, and if they have errors or not.
+- Filter topics by category, initial letter, if they are revised or not, and if they have errors or not.
 - Show the content of a topic.
-- Show the* Urantia Book* paragraphs that are refeerenced by a given line in a topic.
+- Show the* Urantia Book* paragraphs that are referenced by a given line in a topic.
 - Highlight the name (or alias) in *The Urantia Book* to review if the name is found.
 - Highlight the best sentence in *The Urantia Book* that matches the selected line in the topic and allow the copy.
 

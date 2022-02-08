@@ -58,7 +58,7 @@ Cada archivo consta de:
     - La primera línea es una breve tabla de descripción del término con los valores o celdas separados por `|` (pleca). Los valores son:
         - El nombre del término. Si detrás del nombre aparecen uno o varias denominaciones más separadas por `;` esas denominaciones son alias que serán buscados en el texto de *El Libro de Urantia* como una forma alternativa al nombre real del término. El primer nombre será siempre el que se utilizará como título de la página en la *Urantiapedia*. El resto de nombres separados por `;` serán los nombres o alias que a mayores del primero serán buscados dentro de *El Libro de Urantia* para crear enlaces a estos términos.
         - Referencias generales o globales a *El Libro de Urantia* de todo el término. Este valor puede estar en blanco. Estos enlaces se mostrarán en la página de la *Urantiapedia* como una breve sección superior que dirá «Véase» y detrás la lista de enlaces.
-        - Enlaces a otros términos. Este valor puede estar en blanco. Representa uno o varios términos que están relacionados con el término actual. Aparecerán en la parte inferior de la página que se generará, en el listado de las sección «Enlaces».
+        - Enlaces a otros términos. Este valor puede estar en blanco. Representa uno o varios términos que están relacionados con el término actual. Aparecerán en la parte inferior de la página que se generará, en el listado de las sección «Enlaces». Si existe más de un enlace, estarán separados por `;`. Es posible añadir enlaces a secciones específicas dentro de un término usando `:`. Por ejemplo: `bautismo:el bautismo de Jesús` es un enlace que apunta a la página del término `bautismo` y dentro de él a la sección relativa al bautismo de Jesús.
         - Categoría del término. Este valor puede estar en blanco. Hay cinco categorías: Personas (`PERSON`), lugares (`PLACE`), órdenes de seres (`ORDER`), religiones (`RELIGION`), y razas (`RACE`). Estas categorías permiten trabajar sólo en una de ellas para permitir una mayor división del trabajo y para generar índices.
         - Indicación de estado. Los usuarios «editores GitHub» deberán poner `OK` cuando hayan terminado su trabajo de revisión de un término. Si el término está todavía pendiente de revisión, estará en blanco.
     - Las siguientes líneas, si existen, representan el contenido del término. Estas líneas también son unas breves tablas que pueden o no tener valores separados por `|` (pleca). Hay dos tipos de tablas:
@@ -232,10 +232,10 @@ Para utilizar el *Topic Index Editor*, sigue estas instrucciones:
 
 Una de las funcionalidades útiles del *Topic Index Editor* es que muestra los errores encontrados en los términos. Por ejemplo, en la imagen debajo se muestra cómo se ha encontrado un enlace a un término que no existe. Ahora podemos ir a VS Code y verificar el archivo con el error y corregirlo.
 
-![](/imagen/uptools_topic_editor_2.png)
+![](/image/uptools_topic_editor_2.png)
 
 Otra funcionalidad útil es que el nombre del término se resalta en el texto del *Libro de Urantia*. Por ejemplo, en la imagen abajo, con el término `brotherhood of man` en inglés y `hermandad de los hombres` en español, se ha encontrado el nombre en el texto en inglés pero no en español. Puedes comprobar y ver que en español el *Libro de Urantia* dice `fraternidad de los hombres` en lugar de `hermandad de los hombres`, que significa lo mismo. Entonces, para solucionar esto, debemos agregar `fraternidad de los hombres` como alias en el término.
 
 Otra funcionalidad útil es que la línea breve que está seleccionada en el ejemplo debajo, que dice `civilization encompased by love` en inglés y `civilización rodeada por el amor` en español, se ha encontrado en el párrafo del *Libro de Urantia* al que se hace referencia para la línea del término. La oración del párrafo que mejor coincide con la línea se resalta en negrita y aparece un botón Copiar en la parte inferior. Puedes usar ese botón para copiar la oración al portapapeles y pegarla en VS Code, mejorando el texto del término con un texto más explicativo.
 
-![](/imagen/uptools_topic_editor_3.png)
+![](/image/uptools_topic_editor_3.png)
