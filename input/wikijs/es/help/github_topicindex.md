@@ -208,7 +208,7 @@ Para acceder:
 2. Se abren dos ventanas. Ignore la instancia de Dev Tools. Está ahí para depuración.
 3. Selecciona *Edit Topic Index* en el panel lateral.
 
-![](/imagen/uptools_topic_editor.png)
+![](/image/uptools_topic_editor.png)
 
 El *Topic Index Editor* tiene cuatro áreas principales:
 - en el lado izquierdo una lista de términos.
