@@ -128,6 +128,8 @@ In the previous extract we can see:
 - A line like `Matthew was a fund-raiser (139:7.2) | Matthew Levi` (that is not in the example) would be a line with two cells in which the first cell has references and the second cell is a link.
 - Notice that external links to a topic are added at the end of the topic and use the character `>` at the beggining of each line. The example above shows how to link to English Wikipedia about apostles. You can add multiple links, each in one line, as long as they start with the character `>` and follow a blank space before the URL.
 
+> IMPORTANT: in the text of a line parenthesis `(` `)` must be avoided because they are reserved only for defining references to *The Urantia Book*. If you need to say something in parenthesis, change the text to one that uses `,` comma for separation.
+
 ## Names and alias
 
 The first name in the header is the topic title in the converted page. It is important to ensure that this name appears in as much paragraphs referenced as possible. Sometimes a given name appears in *The Urantia Book* in a lot of different expressions. For example, check next header:

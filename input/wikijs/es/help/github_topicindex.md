@@ -16,7 +16,7 @@ El *Índice de Términos* está compuesto por una colección de archivos TXT obt
 
 Para crear un nuevo *Índice de Términos* en otro idioma empieza con la versión en inglés del *Índice de términos* que se encuentra en `input/txt/topic-index-en`. Haz una copia de esa carpeta y cambia el nombre por el del idioma de destino.
 
-La carpeta contien un archivo por cada letra del alfabeto (`a.txt`, `b.txt`, etc.) más un archivo `_.txt` que contiene las entradas que empiezan por un dígito numérico. La ordenación de referencia de los términos siempre es la del inglés, por lo que en cada archivo están contenidos los términos o tópicos cuya letra inicial en el término inglés coincide con esa letra. Por ejemplo, el término español «Espíritu Infinito» debe encontrarse en el archivo `i.txt` porque ese término en inglés empieza por I («Infinite Spirit»).
+La carpeta contiene un archivo por cada letra del alfabeto (`a.txt`, `b.txt`, etc.) más un archivo `_.txt` que contiene las entradas que empiezan por un dígito numérico. La ordenación de referencia de los términos siempre es la del inglés, por lo que en cada archivo están contenidos los términos o tópicos cuya letra inicial en el término inglés coincide con esa letra. Por ejemplo, el término español «Espíritu Infinito» debe encontrarse en el archivo `i.txt` porque ese término en inglés empieza por I («Infinite Spirit»).
 
 El formato es ligeramente parecido al formato YAML (https://en.wikipedia.org/wiki/YAML) pero simplificado al máximo para ser muy fácil de editar.
 
@@ -127,6 +127,8 @@ En el extracto anterior se puede ver:
 - Una línea como `muchos murieron martirizados | mártires` es una línea con dos celdas, en la que la segunda celda siempre son enlaces a otros términos. Para usar más términos deben estar separados por `;`, así: `muchos murieron martirizados | mártires; Simón Pedro`.
 - Una línea como `Mateo fue un recaudador de fondos (139:7.2) | Mateo Leví` (que no está en el ejemplo) sería una línea con dos celdas en la que la primera tiene referencias y la segunda tiene enlaces.
 - Fíjate que los enlaces externos de un término se añaden al final del término usando el carácter `>` delante de cada línea. El ejemplo anterior muestra cómo se ha añadido un enlace a la web de la Wikipedia en español sobre los apóstoles. Se pueden añadir varios enlaces, cada uno en una línea, siempre que empiecen con el carácter `>` y detrás un espacio en blanco antes de la URL.
+
+> IMPORTANTE: en el texto de una línea los paréntesis `(` `)` deben evitarse porque están reservados para definir referencias a *El Libro de Urantia*. Si necesitas decir algo entre paréntesis, cambia el texto para que use `,` comas como separación.
 
 ## Nombres y alias
 
