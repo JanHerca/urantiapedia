@@ -6,8 +6,8 @@ let mainWindow = null;
 
 // Wait until the app is ready
 app.once('ready', () => {
-	// Create a new window
-	mainWindow = new BrowserWindow({
+	const isMac = process.platform === 'darwin';
+	const options = {
 		// Set the initial width to 1200px
 		// width: 1200,
 		// Set the initial height to 800px
@@ -16,9 +16,13 @@ app.once('ready', () => {
 		show: false,
 		webPreferences: {
 			nodeIntegration: true
-		},
-		icon: __dirname + '/favicon.ico'
-	});
+		}
+	};
+	if (!isMac) {
+		options.icon = __dirname + '/favicon.ico';
+	}
+	// Create a new window
+	mainWindow = new BrowserWindow(options);
 
 	// Load a URL in the window to the local index.html path
 	mainWindow.loadURL(url.format({
