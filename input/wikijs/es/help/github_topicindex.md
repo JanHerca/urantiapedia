@@ -241,3 +241,21 @@ Otra funcionalidad útil es que el nombre del término se resalta en el texto de
 Otra funcionalidad útil es que la línea breve que está seleccionada en el ejemplo debajo, que dice `civilization encompased by love` en inglés y `civilización rodeada por el amor` en español, se ha encontrado en el párrafo del *Libro de Urantia* al que se hace referencia para la línea del término. La oración del párrafo que mejor coincide con la línea se resalta en negrita y aparece un botón Copiar en la parte inferior. Puedes usar ese botón para copiar la oración al portapapeles y pegarla en VS Code, mejorando el texto del término con un texto más explicativo.
 
 ![](/image/uptools_topic_editor_3.png)
+
+## Links
+
+- [Empezar con la Urantiapedia](/es/help/start)
+- [Contenido de la Urantiapedia](/es/help/content)
+- [Urantiapedia - Idiomas soportados](/es/help/languages)
+- [Manual para administradores](/es/help/admin)
+- [Manual para desarrolladores](/es/help/devs)
+- [Manual para Editores Jefe](/es/help/github)
+- [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
+
+## External links
+
+- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
+- [Fundación Urantia](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)

@@ -1,5 +1,5 @@
 ---
-title: Phases of Urantiapedia
+title: Milestones of Urantiapedia
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z

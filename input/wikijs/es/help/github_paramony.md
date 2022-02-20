@@ -62,3 +62,21 @@ Ejemplo de un fragmento:
 ```
 
 > Hay que tener precaución de copiar adecuadamente las comillas tipográficas que puedan existir en los textos. Consulta aquí las comillas tipográficas válidas para cada idioma: [Quotation marks](/es/help/languages).
+
+## Links
+
+- [Empezar con la Urantiapedia](/es/help/start)
+- [Contenido de la Urantiapedia](/es/help/content)
+- [Urantiapedia - Idiomas soportados](/es/help/languages)
+- [Manual para administradores](/es/help/admin)
+- [Manual para desarrolladores](/es/help/devs)
+- [Manual para Editores Jefe](/es/help/github)
+- [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
+
+## External links
+
+- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
+- [Fundación Urantia](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
