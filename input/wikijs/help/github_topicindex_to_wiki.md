@@ -9,7 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 
-The *Topic Index* files in TXT format are created and reviewed by *GitHub editors*. These files should be left in folders like `input / txt / topic-index-xx` where `xx` is the code of the target language.
+The *Topic Index* files in TXT format are created and reviewed by *Chief Editors*. These files should be left in folders like `input / txt / topic-index-xx` where `xx` is the code of the target language.
 
 To convert these TXT files to Wiki.js format, follow these steps:
 - Open *Urantiapedia Tools*.
@@ -31,7 +31,7 @@ Output files are already in the format that allows uploading directly to *Uranti
 - [Urantiapedia Content](/en/help/content)
 - [Urantiapedia - Languages supported](/en/help/languages)
 - [Admin help](/en/help/admin)
-- [Dev help](/en/help/devs)
+- [Developers help](/en/help/devs)
 - [Chief Editors help](/en/help/github)
 - [Urantiapedia status - Current progress of the project](/en/help/status)
 

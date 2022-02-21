@@ -8,7 +8,9 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Para cada idioma soportado la lista de tareas a realizar es esta:
+## Fase I
+
+Para cada idioma soportado la lista de tareas a realizar durante la fase I es esta:
 1. Traducción del *Paramony* del inglés al idioma de destino (`Paramony`).
 2. Traducción y revisión del *Índice de términos* del inglés al idioma de destino (`Términos`).
 3. Obtención de una traducción de La Biblia en el idioma de destino (`Biblia`).
@@ -53,9 +55,9 @@ Swedish    | sv |     |     |    | OK |    |     |     |     |
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Contenido de la Urantiapedia](/es/help/content)
 - [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para administradores](/es/help/admin)
-- [Manual para desarrolladores](/es/help/devs)
-- [Manual para editores GitHub](/es/help/github)
+- [Manual para Administradores](/es/help/admin)
+- [Manual para Desarrolladores](/es/help/devs)
+- [Manual para Editores Jefe](/es/help/github)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 
 ## External links

@@ -28,22 +28,22 @@ Grupo | Descripción de los usuarios del grupo
 --- | ---
 ADMIN | Usuario que puede hacerlo todo
 EDITOR | Usuario que tras una petición ha sido validado y autorizado por un usuario ADMIN para editar libros, artículos, presentaciones, mapas y modelos 3D (1)
-AUTHOR_NAMED (2) | Usuario dentro de un grupo con su nombre que actúa como EDITOR pero sólo para un número restringido de libros, artículos, presentaciones, mapas y modelos 3D de los cuales es el autor
+AUTHOR (2) | Usuario dentro de un grupo con su nombre que actúa como EDITOR pero sólo para un número restringido de libros, artículos, presentaciones, mapas y modelos 3D de los cuales es el autor
 USER | Cualquier nuevo usuario creado sólo puede ver las páginas. Para hacer modificaciones necesita hacer una petición para ser añadido al grupo EDITOR a través de un proceso de validación.
 
-(1) Los términos del *Índice de términos* por ahora solo se editan usando las *Urantiapedia Tools* por usuarios llamados *Editores GitHub*, pero fuera de la web *Urantiapedia*. En un futuro, cuando finalice la preparación actual de los términos, los usuarios del grupo EDITOR podrán editarlos.
+(1) Todos los tipos de contenido al principio solo se editan usando las *Urantiapedia Tools* por usuarios llamados *Editores Jefe*, fuera de la web *Urantiapedia*. Una vez el contenido inicial se ha cargado en cada fase del proyectoun futuro, las *Urantiapedia Tools* ya no se usan más y los usuarios del grupo EDITOR pueden editar contenidos directamente desde esta web.
 
-(2) AUTHOR_NAMED significa que habrá varios grupos de tipo AUTHOR_NAMED, cada uno con usuarios que son los autores (o autorizados por los autores) para determinadas páginas. Por ejemplo, si hay dos usuarios llamados Han Solo y Obi Wan que quieren ser autores, habrá un par de grupos llamados HANSOLO y OBIWAN, el primero con el usuario Han Solo, el segundo con el usuario Obi Wan. El primero será el único que podrá editar páginas en rutas como `/en/ article/hansolo/` (y en cualquier otro idioma además del inglés), `/en/slides/hansolo`, y así sucesivamente. Por otro lado, el usuario de Obi Wan podría editar páginas en rutas como `/en/article/obiwan/`, `/en/slides/obiwan/` y así sucesivamente. De esta forma, algunos usuarios serán los únicos editores de determinadas páginas.
+(2) AUTHOR significa que habrá varios grupos de tipo AUTHOR, cada uno con usuarios que son los autores (o autorizados por los autores) para determinadas páginas. Por ejemplo, si hay dos usuarios llamados Han Solo y Obi Wan que quieren ser autores, habrá un par de grupos llamados HANSOLO y OBIWAN, el primero con el usuario Han Solo, el segundo con el usuario Obi Wan. El primero será el único que podrá editar páginas en rutas como `/en/ article/hansolo/` (y en cualquier otro idioma además del inglés), `/en/slides/hansolo`, y así sucesivamente. Por otro lado, el usuario de Obi Wan podría editar páginas en rutas como `/en/article/obiwan/`, `/en/slides/obiwan/` y así sucesivamente. De esta forma, algunos usuarios serán los únicos editores de determinadas páginas.
 
-Ten en cuenta que los únicos usuarios que pueden crear o eliminar páginas son los usuarios ADMIN para asegurarse de que las URL de las páginas se creen correctamente. Así pues, el proceso para crear una página es:
-1. El usuario EDITOR o AUTHOR_NAMED solicita la creación a un usuario ADMIN.
+Ten en cuenta que los únicos usuarios que pueden crear o eliminar páginas son los usuarios ADMIN para asegurarse de que las URL de las páginas se crean correctamente. Así pues, el proceso para crear una página es:
+1. El usuario EDITOR o AUTHOR solicita la creación a un usuario ADMIN.
 2. El usuario ADMIN crea aquellas páginas con la mejor URL y el contenido vacío.
-3. El usuario EDITOR y AUTHOR_NAMED podrán agregar contenido a esas páginas.
+3. El usuario EDITOR y AUTHOR podrán agregar contenido a esas páginas.
 
 
 ## Tipos de páginas
 
-La tabla resume los tipos de páginas. Muestra el usuario mínimo necesario para editar cada tipo de página. Los usuarios ADMIN pueden hacerlo todo por lo que si la tabla indica EDITOR o AUTHOR_NAMED eso implica también ADMIN.
+La tabla resume los tipos de páginas. Muestra el usuario mínimo necesario para editar cada tipo de página. Los usuarios ADMIN pueden hacerlo todo por lo que si la tabla indica EDITOR o AUTHOR eso implica también ADMIN.
 
 La tabla muestra la ruta a añadir al dominio de [https://urantiapedia.org](https://urantiapedia.org) para obtener la URL en inglés. Hay que reemplazar el código de idioma para obtener páginas en cada idioma. Por ejemplo, la URL para obtener el índice de *El Libro de Urantia* es:
 - en inglés: https://urantiapedia.org/en/The_Urantia_Book/Index
@@ -56,21 +56,21 @@ Tipo | Descripción | Creación | Modif. | Borrado | URL
 WEPPAGE | Páginas de la propia Wiki como la página de inicio, páginas de ayuda, hoja de ruta | ADMIN |  ADMIN | ADMIN | /en/help/
 BOOK_UB | El Libro de Urantia | ADMIN | ADMIN (1) | ADMIN | /en/The_Urantia_Book/
 BOOK_BIBLE | La Biblia | ADMIN | ADMIN (1) | ADMIN | /en/Bible/
-BOOK_AUTH | Libro de un autor, bien quien sube el libro u otro | ADMIN | AUTHOR_NAMED (1) | ADMIN | /en/book/user_name/book_title
+BOOK_AUTH | Libro de un autor, bien quien sube el libro u otro | ADMIN | AUTHOR (1) | ADMIN | /en/book/user_name/book_title
 BOOK_PUBLIC | Libro que cualquier puede editar | ADMIN | EDITOR | ADMIN | /en/book/book_title
 TOPIC | Páginas con explicaciones sobre un término, vocablo o concepto relacionado con *El Libro de Urantia* | ADMIN | EDITOR | ADMIN | /en/topic/topic_name
 INDEX | Páginas con colecciones de enlaces | ADMIN | EDITOR | ADMIN | /en/index/index_name
-ARTICLE_AUTH | Artículo de un autor, bien que sube el artículo u otro | ADMIN | AUTHOR_NAMED (1) | ADMIN | /en/article/user_name/article_title
+ARTICLE_AUTH | Artículo de un autor, bien que sube el artículo u otro | ADMIN | AUTHOR (1) | ADMIN | /en/article/user_name/article_title
 ARTICLE_PUBLIC | Artículo que cualquiera puede editar | ADMIN | EDITOR | ADMIN | /en/article/article_title
-SLIDES_AUTH | Presentación de un autor, bien quien la sube u otro | ADMIN | AUTHOR_NAMED (1) | ADMIN | /en/slides/user_name/slides_title
+SLIDES_AUTH | Presentación de un autor, bien quien la sube u otro | ADMIN | AUTHOR (1) | ADMIN | /en/slides/user_name/slides_title
 SLIDES_PUBLIC | Presentación que cualquiera puede editar | ADMIN | EDITOR | ADMIN | /en/slides/slides_title
-MAPS_AUTH | Mapa (3) de un autor, bien quien sube el mapa u otro | ADMIN | AUTHOR_NAMED (1) | ADMIN | /en/map/user_name/map_title
+MAPS_AUTH | Mapa (3) de un autor, bien quien sube el mapa u otro | ADMIN | AUTHOR (1) | ADMIN | /en/map/user_name/map_title
 MAPS_PUBLIC | Mapa (3) que puede ser editado por cualquiera | ADMIN | EDITOR | ADMIN | /en/map/map_title
-3DMODEL_AUTH | Un modelo 3D de un autor, bien quien lo sube u otro | ADMIN | AUTHOR_NAMED (1) | ADMIN | /en/3dmodel/user_name/3dmodel_name
+3DMODEL_AUTH | Un modelo 3D de un autor, bien quien lo sube u otro | ADMIN | AUTHOR (1) | ADMIN | /en/3dmodel/user_name/3dmodel_name
 3DMODEL_PUBLIC | Un modelo 3D | ADMIN | EDITOR | ADMIN (3) | /en/3dmodel/3dmodel_name
 IMAGE | Una imagen, bien un dibujo o esquema o ilustración | EDITOR | EDITOR | EDITOR (4) | /en/image/image_name
 
-1. El usuario AUTHOR_NAMED que es quien controla la página. La página estará vinculada a ese usuario.
+1. El usuario AUTHOR que es quien controla la página. La página estará vinculada a ese usuario.
 2. Los mapas pueden ser 2D o 3D y pueen contener:
    - Marcas puntuales con mensajes emergentes mostrando localizaciones. Los mensajes pueden tener enlaces a la Wiki o externos.
    - Itinerarios: varios puntos de paso con mensajes emergentes en cada uno mostrando el viaje de una persona o un pueblo. Estos itinerarios se pueden mostrar como animaciones.
@@ -218,27 +218,62 @@ Imágenes para todo el sitio web:
 * Fotos. Imágenes libres de derechos de autor usados en cualquier parte de la *Urantiapedia*.
 * Animaciones. Imágenes animadas que aclaren conceptos que impliquen una visualización animada.
 
+El patrón para la URL de las imágenes es: `https://urantiapedia.org/en/image/[image_name].jpg`. Los nombres de las imágenes deben ser siempre en inglés como ya se ha explicado anteriormente. Si las imágenes no se necesita localizarlas a cada idioma, se pueden dejar en la ruta en inglés por defecto, de modo que el patrón de la URL para ellas sería: `https://urantiapedia.org/image/[image_name].jpg`, que es más compacto.
 
-## Presentaciones
+Observa que en el patrón URL hemos puesto `jpg` como formato pero podría ser otro de los soportados: `jpg`, `jpeg`, `png`, `gif`, `webp`, `svg`.
 
-TODO
-
+Las imágenes carecen de una página web propia por defecto. Se accede a las imágenes con la URL como cualquier recurso público. Pero si resultara interesante se podrían crear páginas que ofrezcan información sobre una imagen en sí. Por ejemplo, en las URL siguientes la primera es la URL a la imagen de la portada oficial de *El Libro de Urantia* en inglés, y la segunda es la posible página con información sobre esta imagen:
+- `https://urantiapedia.org/image/the_urantia_book.jpg`
+- `https://urantiapedia.org/en/image/the_urantia_book`
 
 ## Mapas
 
-TODO
+Los mapas no serán simples imágenes estáticas. Este tipo de mapas se guardarán dentro de la sección de imágenes. Los mapas serán aplicaciones interactivas que permitirán:
+- desplazarse por el mapa si es que se ha configurado con esta opción, siempre dentro de unos límites establecidos.
+- centrar el mapa en el contenido
+- hacer click en elementos dentro del mapa y obtener paneles de información en los que pueden aparecer vínculos que permitan saltar a otras páginas de *Urantiapedia* o a otras webs.
+- pulsar en un botón de reproducción sobre un tour virtual que inicie una animación con explicaciones.
 
+El patrón de la URL para mapas es: 
+- para un mapa público, que cualquier editor puede modificar: `https://urantiapedia.org/en/map/[map_name]`
+- para un mapa de autor, que sólo el autor o alguien autorizado puede modificar: `https://urantiapedia.org/en/map/[user_name]/[map_name]`
 
+Los mapas permitirán enlace a una posición dentro del mapa mediante parámetros, bien por un nombre o bien por coordenadas. Por ejemplo, imaginemos una página con el mapa del viaje de huida de Jesús hacia el norte con sus apóstoles. Este mapa podría tener esta URL:
+
+https://urantiapedia.org/en/map/Jesus_voyages_north_flight
+
+Y dos formas de abrir este mapa centrado en Ramá sería:
+- `https://urantiapedia.org/en/map/Jesus_voyages_north_flight?name=Ramah`
+- `https://urantiapedia.org/en/map/Jesus_voyages_north_flight?lonlat=32.936424,35.367742`
+
+Los nombres de los mapas ya se ha explicado que es necesario en la URL que estén en inglés.
+
+![](../image/sample_page_map.png)
+*Ejemplo de página con un mapa*
+## Presentaciones
+
+Las presentaciones son documentos de texto que en la página se muestran como presentaciones animadas. Es básicamente como un artículo sólo que se avanza por él pulsando en las teclas de avance y retroceso o bien desplazando el dedo en un dispositivo táctil, pasando de una diapositiva a otra.
+
+El patrón de la URL para presentaciones es:
+- para una presentación pública, que cualquier editor puede modificar: `https://urantiapedia.org/en/slides/[slides_name]`
+- para una presentación de autor, que sólo el autor o alguien autorizado puede modificar: `https://urantiapedia.org/en/slides/[user_name]/[slides_name]`
+
+Las URL dispondrán de un parámetro para abrise en una determinada diapositiva.
 ## Modelos 3D
 
-TODO
+Los modelos 3D son aplicaciones, como los mapas. Permitirán moverse libremente por el modelo dentro de ciertos límits, centrarse en el conjunto y mostar un panel de información sobre elementos en los que se pueda hacer click. También podría contener diferentes animaciones que serían ejecutables de forma independiente, para mostrar algo animado.
 
+El patrón de la URL para modelos 3D es: 
+- para un modelo 3D público, que cualquier editor puede modificar: `https://urantiapedia.org/en/3dmodel/[3dmodel_name]`
+- para un modelo 3D de autor, que sólo el autor o alguien autorizado puede modificar: `https://urantiapedia.org/en/3dmodel/[user_name]/[3dmodel_name]`
+
+Al igual que los mapas, los modelos 3D admitirán el centrado en un elemento usando un nombre, como: `https://urantiapedia.org/en/3dmodel/Jerusem?name=Mansonia_7`
 
 ## URLs
 
 Cada página de la *Urantiapedia* tiene un título y una URL. Los títulos se pueden repetir en todo el sitio web si es necesario, pero cada URL debe ser única. Para lograr esto, las URL deben seguir este patrón genérico:
 
-`https://urantiapedia.org/[lan]/[path]/[page name]`
+`https://urantiapedia.org/[lan]/[path]/[user_name?]/[page name]`
 
 - `[lan]` es el código de cualquier idioma soportado, que son los idiomas con una traducción de *El libro de Urantia*. Consulta [Idiomas](https://github.com/JanHerca/urantiapedia/blob/master/docs/Languages.md).
 - `[path]` es la ruta según el tipo de página:
@@ -253,12 +288,13 @@ Cada página de la *Urantiapedia* tiene un título y una URL. Los títulos se pu
 	- Presentación: `slides`
 	- Mapa: `map`
 	- Modelo 3D: `3dmodel`
+- `[user_name]`, si existe, es el nombre del autor que es el único que puede modificar las páginas con contenido de autor.
 - `[page name]` es el nombre que aparece en la URL, que debe tener guiones bajos en lugar de espacios en blanco. Para los libros, cada página es un capítulo, por lo que `[page name]` debe ser solo un número, el del capítulo. Si el libro contiene un prólogo, ese capítulo se numera con el cero.
 
 `[book title]` y `[page name]` deben tener nombres cortos siempre que sea posible y preferiblemente en inglés. El inglés es el idioma predeterminado del sitio. La razón de esto es que *El libro de Urantia* fue escrito en inglés y hoy es un idioma universal que se usa en todas partes. Tener diferentes nombres de página para diferentes idiomas hace que sea más difícil cambiar entre idiomas y debería requerir un sistema para conectar páginas hermanas. Al usar un nombre de página único para todas las traducciones, es más fácil saber cómo llegar a cualquier página en cualquier idioma una vez que se conoce la página en inglés.
 
 Ejemplos de URLs:
-- https://urantiapedia.org/de/help/HOWTO_references
+- https://urantiapedia.org/de/help/start
 - https://urantiapedia.org/ja/The_Urantia_Book
 - https://urantiapedia.org/hu/The_Urantia_Book/Index
 - https://urantiapedia.org/it/The_Urantia_Book/Index_Extended
@@ -289,9 +325,9 @@ Es una buena idea mantener estas convenciones de modo que las URL mantengan una 
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Contenido de la Urantiapedia](/es/help/content)
 - [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para administradores](/es/help/admin)
-- [Manual para desarrolladores](/es/help/devs)
-- [Manual para editores GitHub](/es/help/github)
+- [Manual para Administradores](/es/help/admin)
+- [Manual para Desarrolladores](/es/help/devs)
+- [Manual para Editores Jefe](/es/help/github)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 
 ## External links

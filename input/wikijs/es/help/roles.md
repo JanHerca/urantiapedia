@@ -12,42 +12,49 @@ En caso de querer colaborar en este proyecto el mejor medio de contacto es regis
 
 Los perfiles que estamos buscando para colaborar son estos:
 
-## Perfil de «editor GitHub»
+## Perfil de «Administrador»
 
-Los *editores GitHub* tienen una cuenta en [GitHub](https://github.com/) y aportan contenido en el [proyecto Urantiapedia de GitHub](https://github.com/JanHerca/urantiapedia) añadiendo revisiones y traducciones que luego se puedan cargar de forma masiva. Consultar: [Manual para editores GitHub](/es/help/github).
+Los *Administradores* se encargan del mantenimiento del servidor web, la página, la carga masiva de datos, y son los únicos con permiso para editar *El Libro de Urantia*, *La Biblia* y otro contenido específico. Leer más aquí: [Manual para Administradores](/es/help/admin).
 
-* El primer cometido será actualizar el contenido del *Topic Index*, que es la tarea más extensa de la fase I.
+* El cometido será gestionar el servidor y la página web.
+* Se necesitará un buen conocimiento de Linux, [Docker](https://www.docker.com/), [Kubernetes](https://es.wikipedia.org/wiki/Kubernetes), [Git](https://git-scm.com/) y [GitHub](https://github.com/).
+* Será importante tener aptitud para trabajar en equipo en entornos opensource.
+* Buen nivel de inglés pues toda la documentación y comentarios de código son en inglés.
+
+## Perfil de «Editor Jefe»
+
+Los *Editores Jefe* tienen una cuenta en [GitHub](https://github.com/) y aportan contenido en el [proyecto Urantiapedia de GitHub](https://github.com/JanHerca/urantiapedia) añadiendo revisiones y traducciones que luego se puedan cargar de forma masiva. Consultar: [Manual para Editores Jefe](/es/help/github).
+
+* El primer cometido será actualizar el contenido del *Topic Index*, que es la tarea más extensa de la fase I. Luego se continuará con otros contenidos de la fase II y siguientes.
 * Se necesitará un buen conocimiento de *El Libro de Urantia* al menos en un idioma, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
 * Será importante tener aptitud para escribir bien y con corrección.
 * Ayudará tener ganas de dedicar tiempo y tener paciencia y constancia.
 * Es importante tener un buen conocimiento de uso de [Git](https://git-scm.com/) y [GitHub](https://github.com/).
 
-## Perfil de «editor»
+## Perfil de «Assitant Editor»
 
-Los *editores* tienen una cuenta en esta web, y tras pasar ciertas validaciones pueden editar ciertas secciones de la web como el *Índice de Términos*, los artículos, y otro material no reservado a los administradores.
+Los *Asistentes Editores* tienen una cuenta en esta web, y tras pasar ciertas validaciones pueden editar ciertas secciones de la web como el *Índice de Términos*, los artículos, y otro material no reservado a los administradores.
 
 * Su cometido comienza en la fase II en adelante.
 * Se necesitará un buen conocimiento de *El Libro de Urantia* al menos en un idioma, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
 * Será importante tener aptitud para escribir bien y con corrección.
-* No será necesario ningún conocimiento informático especial pues el principal trabajo es meramente revisar un texto y redactarlo de nuevo.
+* No será necesario ningún conocimiento informático especial pues el principal trabajo  se hace a través de esta web.
 
-## Perfil de «developer»
+## Perfil de «Desarrollador»
 
-Los *developers* tienen una cuenta en [GitHub](https://github.com/) y desarrollan la funcionalidad de las *Urantiapedia Tools* y de *Wiki.js*. Consultar: [Manual para desarrolladores](/es/help/devs).
+Los *Desarrolladores* tienen una cuenta en [GitHub](https://github.com/) y desarrollan la funcionalidad de las *Urantiapedia Tools* y de *Wiki.js*. Consultar: [Manual para Desarrolladores](/es/help/devs).
 
 * El cometido será desarrollar las funcionalidades de las *Urantiapedia Tools* y de *Wiki.js* necesarias para el proyecto.
 * Se necesitará un buen conocimiento de HTML, CSS, Javascript, [Node.js](https://nodejs.org/es/), [Git](https://git-scm.com/), [GitHub](https://github.com/), [Bootstrap](https://getbootstrap.com/), y [Vue.js](https://vuejs.org/).
 * Será importante tener aptitud para trabajar en equipo en entornos opensource.
 * Buen nivel de inglés pues toda la documentación y comentarios de código son en inglés.
 
-## Perfil de «administrador»
+## Perfil de «Revisor»
 
-Los *administradores* se encargan del mantenimiento del servidor web, la página, la carga masiva de datos, y son los únicos con permiso para editar *El Libro de Urantia*, *La Biblia* y otro contenido específico. Leer más aquí: [Manual para administradores](/es/help/admin).
+* La tarea será garantizar la corrección de los usuarios y el contenido. Los revisores tendrán permisos para bloquear usuarios o contenidos que no cumplan con las políticas y buenas prácticas de la web.
+* Será necesario un buen conocimiento del *Libro de Urantia* en al menos un idioma, pero mejor si es inglés y un segundo idioma al que se traduce el libro.
+* No serán necesarios conocimientos informáticos especiales ya que el trabajo principal se realiza a través de la web.
 
-* El cometido será gestionar el servidor y la página web.
-* Se necesitará un buen conocimiento de Linux, [Docker](https://www.docker.com/), [Kubernetes](https://es.wikipedia.org/wiki/Kubernetes), [Git](https://git-scm.com/) y [GitHub](https://github.com/).
-* Será importante tener aptitud para trabajar en equipo en entornos opensource.
-* Buen nivel de inglés pues toda la documentación y comentarios de código son en inglés.
 
 ## Links
 
@@ -56,9 +63,9 @@ Los *administradores* se encargan del mantenimiento del servidor web, la página
 - [Perfiles de colaboradores](/es/help/roles)
 - [Contenido de la Urantiapedia](/es/help/content)
 - [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para administradores](/es/help/admin)
-- [Manual para desarrolladores](/es/help/devs)
-- [Manual para editores GitHub](/es/help/github)
+- [Manual para Administradores](/es/help/admin)
+- [Manual para Desarrolladores](/es/help/devs)
+- [Manual para Editores Jefe](/es/help/github)
 - [Progreso actual del proyecto](/es/help/status)
 
 ## External links

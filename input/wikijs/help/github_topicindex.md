@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Here are described the steps needed to translate and review the *Topic Index* to any of languages of *Urantiapedia*. This is a task accomplish by "GitHub editors".
+Here are described the steps needed to translate and review the *Topic Index* to any of languages of *Urantiapedia*. This is a task accomplish by "Chief Editors".
 
 The *Topic Index* is made up of a collection of TXT files derived from the appendix of *Urantia Fellowship* edition of *The Urantia Book* ([Topic Index](https://urantia-book.org/urantiabook/topical_index/index.htm)).
 
@@ -60,7 +60,7 @@ Each file consist of:
         - General or global references to *The Urantia Book* of the entire topic. This value can be empty. These links will be displayed on *Urantiapedia* as a "See also" top section with a list of links.
         - Links to other topics. This value can be empty. Represents one or more topics that are related to current topic. They will appear at the bottom of the page that will be generated, in the list of "Links" section. If more than one link exists they will be separated by `;`. It is possible to add links to specific sections inside a topic using `:`. For example: `baptism:Jesus baptism` is a link that points to topic page `baptism` and inside it to section about Jesus baptism.
         - Topic category. This value can be empty. There are five categories: Persons (`PERSON`), places (`PLACE`), orders of beings (`ORDER`), religions (`RELIGION`), and races (`RACE`). These categories allow to work only in one of them for better separation of tasks and to generate indexes.
-        - Status. "GitHub editors" should write `OK` when they have finished their reviewing task with a topic. If the topic is still pending review, it will be empty.
+        - Status. "Chief Editors" should write `OK` when they have finished their reviewing task with a topic. If the topic is still pending review, it will be empty.
     - The following lines, if they exist, are the topic content. These lines are also short tables that may or may not have values ​​separated by `|` (vertical bar). There are two types of tables:
         - Table of a single cell without `|` (vertical bar): it will contain a text, the text of a line of the page of *Urantiapedia* and after the text, enclosed in parentheses, if they exist, one or more references to paragraphs of *The Urantia Book*.
         - Table of two cells separated by `|` (vertical bar), the first with same content than a table with a single cell, and the second with a list of links to other topics, separated by `;`.

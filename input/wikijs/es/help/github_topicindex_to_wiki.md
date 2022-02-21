@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Los ficheros del *Índice de términos* en formato TXT son creados y revisados por los «editores GitHub». Estos archivos deben dejarse en carpetas como `input/txt/topic-index-xx` donde `xx` es el código del idioma de destino.
+Los ficheros del *Índice de términos* en formato TXT son creados y revisados por los «Editores Jefe». Estos archivos deben dejarse en carpetas como `input/txt/topic-index-xx` donde `xx` es el código del idioma de destino.
 
 Para convertir estos ficheros TXT a formato Wiki.js hay que seguir estos pasos:
 - Abrir *Urantiapedia Tools*.
@@ -29,8 +29,8 @@ Los ficheros de salida ya tienen el formato que permite subirlos directamente a 
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Contenido de la Urantiapedia](/es/help/content)
 - [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para administradores](/es/help/admin)
-- [Manual para desarrolladores](/es/help/devs)
+- [Manual para Administradores](/es/help/admin)
+- [Manual para Desarrolladores](/es/help/devs)
 - [Manual para Editores Jefe](/es/help/github)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 

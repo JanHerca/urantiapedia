@@ -120,8 +120,8 @@ Como *Urantiapedia* es el esfuerzo de un equipo de colaboradores, es común que 
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Contenido de la Urantiapedia](/es/help/content)
 - [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para administradores](/es/help/admin)
-- [Manual para desarrolladores](/es/help/devs)
+- [Manual para Administradores](/es/help/admin)
+- [Manual para Desarrolladores](/es/help/devs)
 - [Manual para Editores Jefe](/es/help/github)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 

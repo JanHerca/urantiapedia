@@ -28,7 +28,7 @@ This manual is for users called "Chief Editors", or users that comply with these
 - authorized as "Chief Editors" by "Administrators" of [Urantiapedia](https://urantiapedia.org).
 - with a good knowledge of Git and GitHub management.
 - with good knowledge of *The Urantia Book* in at least one language in which it is published, but better if it is English and a second language on which the book is translated.
-- they wish to collaborate in a selfless way in the incorporation of information related to *The Urantia Book* in the *Urantiapedia*.
+- they wish to collaborate in a selfless way in the addition of information related to *The Urantia Book* in the *Urantiapedia*.
 
 ## GitHub workflow
 
@@ -39,7 +39,7 @@ The process will be as follows:
 4. "Chief Editor" sends changes to GitHub through a *push*. 
 5. "Chief Editor" performs a *pull request* in GitHub web. 
 6. The *pull requests* of "Chief Editors" are reviewed by "Administrators", who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and "Chief Editors" will be notified to fix them.
-7. When changes that are OK "Administrator" do a *pull* to download changes to the own copy.
+7. When changes are OK "Administrator" do a *pull* to download changes to the own copy.
 8. "Administrator" converts files from [Urantiapedia](https://github.com/JanHerca/urantiapedia) repo to files in Wiki.js format (HTML) using *Urantiapedia Tools* and copy them to [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) repo. This project is a synced copy with *Urantiapedia* website.
 9. "Administrator" uploads changes to remote [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) repo.
 10. *Urantiapedia* website is synced automatically. Now changes are visible to all, in order to check and validate that they are correct.
@@ -79,7 +79,7 @@ Once we have the input in the correct folders, for each language, the steps to t
 - [Urantiapedia Content](/en/help/content)
 - [Urantiapedia - Languages supported](/en/help/languages)
 - [Admin help](/en/help/admin)
-- [Dev help](/en/help/devs)
+- [Developers help](/en/help/devs)
 - [Chief Editors help](/en/help/github)
 - [Urantiapedia status - Current progress of the project](/en/help/status)
 

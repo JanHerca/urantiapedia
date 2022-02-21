@@ -48,26 +48,26 @@ As in any Wiki the content are pages, each one with a unique URL and a title. Th
 For more information on the content check here: [Content](/en/help/content)
 
 
-## Phases of the project
+## Milestones of the project
 
-For each language to be included in the *Urantipedia*, all tasks will be carried out in specific phases:
-1. Phase I - The Urantia Book, the Bible and Topic Index
-2. Phase II - Books, articles and indexes
-3. Phase III - Translator
-4. Phase IV - Interactive maps
-5. Phase V - Slides
-6. Phase VI - 3D interactive models
+For each language to be included in the *Urantipedia*, all tasks will be carried out in specific milestones:
+1. Milestone I - The Urantia Book, the Bible and Topic Index
+2. Milestone II - Books, articles and indexes
+3. Milestone III - Translator
+4. Milestone IV - Interactive maps
+5. Milestone V - Slides
+6. Milestone VI - 3D interactive models
 
-To find out about the phases of the project, check [Project phases](/en/help/phases).
+To find out about the Milestone of the project, check [Project Milestone](/en/help/phases).
 
 
 ## Current status
 
 *Urantiapedia* currently stands as follows:
-* english: in phase I.
-* spanish: in phase I.
-* other translations of *The Urantia Book*: only preliminary work on phase I has begun.
-Phase II has not yet been entered with any language.
+* english: towards milestone I.
+* spanish: towards milestone I.
+* other translations of *The Urantia Book*: only preliminary work for milestone I has begun.
+Milestone I has not yet been avieved with any language.
 
 To know more about the current progress of the project check here: [Status](/en/help/status).
 
@@ -77,11 +77,12 @@ To know more about the current progress of the project check here: [Status](/en/
 To collaborate with the project best way is sign up in *Blue Fields* (https://blue-fields.netlify.app/) webpage, that is a site created to join and organize *Urantia Book* readers worldwide that want to participate in smart projects, with a good purpose and altruism. Once registered the project team will contact you.
 
 The different roles for *Urantiapedia* collaborators are:
-* *administrators*: in charge of maintenance of the web server, the page, bulk load of data, and the only ones with permission to edit *The Urantia Book*, *The Bible* and future specific contents. Check more in [Admin help](/en/help/admin).
-* *GitHub editors*: in charge of contributions adding updates and translations to GitHub project that can be later bulk uploaded. Check [Github editors help](/en/help/github).
-* *editors*: with permission to edit certain sections such as the *Topic Index*, articles, and material not reserved by administrators. They require to pass a validation process to obtain a account on this site.
-* *developers*: in charge of the development of the functionality of *Urantiapedia Tools* and *Wiki.js*. The code will be hosted in GitHub. Check [Dev help](/en/help/devs).
-* *reviewers*: in charge of ensuring that the content of the website is correct and comply with rules.
+* *Administrators*: in charge of maintenance of the web server, the page, bulk load of data, and the only ones with permission to edit *The Urantia Book*, *The Bible* and future specific contents. Check more in [Admin help](/en/help/admin).
+* *Chief Editors*: in charge of contributions adding updates and translations to GitHub project that can be later bulk uploaded. *Chief Editors* also have all the capabilities of an *Assistant Editor* within the *Urantiapedia* website. Check [Chief Editors help](/en/help/github).
+* *Assistant Editors*: with permission to edit certain sections such as the *Topic Index*, articles, and material not reserved by administrators. They require to pass a validation process to obtain a account on this site.
+* *Authors*: *Assistant Editors* who, apart from being able to edit what any *Assistant Editor* can, are also only editors with permission to edit certain content of which they are authors.
+* *Developers*: with a GitHub account and in charge of the development of the functionality of *Urantiapedia Tools* and *Wiki.js*. The code will be hosted in GitHub. Check [Developers help](/en/help/devs).
+* *Reviewers*: in charge of ensuring that the content of the website is correct and comply with rules.
 
 To find out more about the profiles we are looking to collaborate with, check [Collaborator profiles](/en/help/roles).
 
@@ -93,8 +94,8 @@ To find out more about the profiles we are looking to collaborate with, check [C
 - [Urantiapedia Content](/en/help/content)
 - [Urantiapedia - Languages supported](/en/help/languages)
 - [Admin help](/en/help/admin)
-- [Dev help](/en/help/devs)
-- [Github editors help](/en/help/github)
+- [Developers help](/en/help/devs)
+- [Chief Editors help](/en/help/github)
 - [Current progress of the project](/en/help/status)
 
 ## External links

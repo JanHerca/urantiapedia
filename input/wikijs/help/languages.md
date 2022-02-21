@@ -91,8 +91,8 @@ https://www.deepl.com/translator
 - [Urantiapedia Content](/en/help/content)
 - [Urantiapedia - Languages supported](/en/help/languages)
 - [Admin help](/en/help/admin)
-- [Dev help](/en/help/devs)
-- [Github editors help](/en/help/github)
+- [Developers help](/en/help/devs)
+- [Chief Editors help](/en/help/github)
 - [Urantiapedia status - Current progress of the project](/en/help/status)
 
 ## External links

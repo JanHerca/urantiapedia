@@ -90,7 +90,7 @@ Underline (for languages ​​that do not include italic option) | \| \| (betwe
 - [Urantiapedia Content](/en/help/content)
 - [Urantiapedia - Languages supported](/en/help/languages)
 - [Admin help](/en/help/admin)
-- [Dev help](/en/help/devs)
+- [Developers help](/en/help/devs)
 - [Chief Editors help](/en/help/github)
 - [Urantiapedia status - Current progress of the project](/en/help/status)
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Aquí se describen los pasos necesarios para traducir y revisar el *Índice de Términos* en cualquiera de los idiomas de la *Urantiapedia*. Esta es una tarea que la realizan los «editores GitHub».
+Aquí se describen los pasos necesarios para traducir y revisar el *Índice de Términos* en cualquiera de los idiomas de la *Urantiapedia*. Esta es una tarea que la realizan los «Editores Jefe».
 
 El *Índice de Términos* está compuesto por una colección de archivos TXT obtenidos a partir del apéndice de la edición de *The Urantia Book* de la *Urantia Fellowship* ([Topic Index](https://urantia-book.org/urantiabook/topical_index/index.htm)).
 
@@ -60,7 +60,7 @@ Cada archivo consta de:
         - Referencias generales o globales a *El Libro de Urantia* de todo el término. Este valor puede estar en blanco. Estos enlaces se mostrarán en la página de la *Urantiapedia* como una breve sección superior que dirá «Véase» y detrás la lista de enlaces.
         - Enlaces a otros términos. Este valor puede estar en blanco. Representa uno o varios términos que están relacionados con el término actual. Aparecerán en la parte inferior de la página que se generará, en el listado de las sección «Enlaces». Si existe más de un enlace, estarán separados por `;`. Es posible añadir enlaces a secciones específicas dentro de un término usando `:`. Por ejemplo: `bautismo:el bautismo de Jesús` es un enlace que apunta a la página del término `bautismo` y dentro de él a la sección relativa al bautismo de Jesús.
         - Categoría del término. Este valor puede estar en blanco. Hay cinco categorías: Personas (`PERSON`), lugares (`PLACE`), órdenes de seres (`ORDER`), religiones (`RELIGION`), y razas (`RACE`). Estas categorías permiten trabajar sólo en una de ellas para permitir una mayor división del trabajo y para generar índices.
-        - Indicación de estado. Los usuarios «editores GitHub» deberán poner `OK` cuando hayan terminado su trabajo de revisión de un término. Si el término está todavía pendiente de revisión, estará en blanco.
+        - Indicación de estado. Los usuarios «Editores Jefe» deberán poner `OK` cuando hayan terminado su trabajo de revisión de un término. Si el término está todavía pendiente de revisión, estará en blanco.
     - Las siguientes líneas, si existen, representan el contenido del término. Estas líneas también son unas breves tablas que pueden o no tener valores separados por `|` (pleca). Hay dos tipos de tablas:
         - Tabla de una sóla celda sin pleca: contendrá un texto, el texto de una línea de la página de la *Urantiapedia* y detrás, encerradas entre paréntesis, si existen, una o varias referencias a párrafos de *El Libro de Urantia*.
         - Tabla de dos celdas separadas por pleca (|): el primer dato es como en la tabla de una celda, y el segundo una lista de enlaces a otros términos, separados por punto y coma `;`.
@@ -247,8 +247,8 @@ Otra funcionalidad útil es que la línea breve que está seleccionada en el eje
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Contenido de la Urantiapedia](/es/help/content)
 - [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para administradores](/es/help/admin)
-- [Manual para desarrolladores](/es/help/devs)
+- [Manual para Administradores](/es/help/admin)
+- [Manual para Desarrolladores](/es/help/devs)
 - [Manual para Editores Jefe](/es/help/github)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 

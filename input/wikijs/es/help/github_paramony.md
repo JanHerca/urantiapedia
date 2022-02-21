@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Aquí se describen los pasos necesarios para traducir el *Paramony* del inglés a otro idioma de la *Urantiapedia*. Esta es una tarea que la realizan los «editores GitHub».
+Aquí se describen los pasos necesarios para traducir el *Paramony* del inglés a otro idioma de la *Urantiapedia*. Esta es una tarea que la realizan los «Editores Jefe».
 
 El *Paramony* es un fichero con las referencias cruzadas entre la *La Biblia* y *El Libro de Urantia*. Ha sido creado usando la relación de referencias cruzadas desarrollado por Duane L. Faw ([Paramony](https://urantia-book.org/urantiabook/paramony/)), convertido de su formato original TXT a un formato JSON que es más fácil de procesar.
 
@@ -68,8 +68,8 @@ Ejemplo de un fragmento:
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Contenido de la Urantiapedia](/es/help/content)
 - [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para administradores](/es/help/admin)
-- [Manual para desarrolladores](/es/help/devs)
+- [Manual para Administradores](/es/help/admin)
+- [Manual para Desarrolladores](/es/help/devs)
 - [Manual para Editores Jefe](/es/help/github)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 

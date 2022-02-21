@@ -1,5 +1,5 @@
 ---
-title: Urantiapedia - Manual para administradores
+title: Urantiapedia - Manual para Administradores
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -81,9 +81,9 @@ Los «Editores Jefe» realizarán las tareas 1 a 3. Los «Administradores» se e
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Contenido de la Urantiapedia](/es/help/content)
 - [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para administradores](/es/help/admin)
-- [Manual para desarrolladores](/es/help/devs)
-- [Manual para editores GitHub](/es/help/github)
+- [Manual para Administradores](/es/help/admin)
+- [Manual para Desarrolladores](/es/help/devs)
+- [Manual para Editores Jefe](/es/help/github)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 
 ## External links

@@ -8,7 +8,9 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-For each language supported the list of tasks is this:
+## Milestone I
+
+For each language supported the list of tasks to complete milestone I is this:
 1. Translation of *Paramony* from English to the target language (`Paramony`).
 2. Translation and review of *Topic index* from English to the target language (`Topics`).
 3. Obtain a public-domain translation of *The Bible* in the target language (`Bible`).
@@ -54,8 +56,8 @@ Swedish    | sv |     |     |    | OK |    |     |     |     |
 - [Urantiapedia Content](/en/help/content)
 - [Urantiapedia - Languages supported](/en/help/languages)
 - [Admin help](/en/help/admin)
-- [Dev help](/en/help/devs)
-- [Github editors help](/en/help/github)
+- [Developers help](/en/help/devs)
+- [Chief Editors help](/en/help/github)
 - [Urantiapedia status - Current progress of the project](/en/help/status)
 
 ## External links

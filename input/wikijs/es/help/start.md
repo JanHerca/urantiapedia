@@ -76,11 +76,12 @@ Aún no se ha entrado en Fase II con ningún idioma. Para conocer más sobre el 
 En caso de querer colaborar en este proyecto el mejor medio de contacto es registrarse en la web [Blue Fields](https://blue-fields.netlify.app/), que es una web que ha sido creada para unir y organizar a lectores de *El Libro de Urantia* que desean participar en proyectos inteligentes, propositados y altruistas en todo el mundo. Una vez registrado el equipo del proyecto se pondrá en contacto contigo.
 
 Los distintos roles de los colaboradores de la *Urantiapedia* son:
-* *administradores*: se encargan del mantenimiento del servidor web, la página, la carga masiva de datos, y son los únicos con permiso para editar *El Libro de Urantia*, *La Biblia* y otro contenido específico. Leer más aquí: [Manual para administradores](/es/help/admin).
-* *editores GitHub*: a cargo de contribuciones en el proyecto de GitHub añadiendo cambios y traducciones que luego se puedan cargar de forma masiva. Consultar: [Manual para editores GitHub](/es/help/github)
-* *editores*: con permiso para editar ciertas secciones de la web como el *Índice de Términos*, los artículos, y otro material no reservado a los administradores. Necesitan pasar un proceso de verificación para obtener una cuenta en este sitio.
-* *developers*: a cargo de desarrollar la funcionalidad de las *Urantiapedia Tools* y de *Wiki.js*. Consultar: [Manual para desarrolladores](/es/help/devs).
-* *revisores*: con la tarea de velar por un correcto contenido en la web y seguir las reglas del sitio.
+* *Administradores*: se encargan del mantenimiento del servidor web, la página, la carga masiva de datos, y son los únicos con permiso para editar *El Libro de Urantia*, *La Biblia* y otro contenido específico. Leer más aquí: [Manual para Administradores](/es/help/admin).
+* *Editores Jefe*: a cargo de contribuciones en el proyecto de GitHub añadiendo cambios y traducciones que luego se puedan cargar de forma masiva. Los *Editores Jefe* tienen también todas las capacidades de un Editor Asistente dentro de la web de Urantiapedia. Consultar: [Manual para Editores Jefe](/es/help/github)
+* *Editores Asistentes*: con permiso para editar ciertas secciones de la web como el *Índice de Términos*, los artículos, y otro material no reservado a los administradores. Necesitan pasar un proceso de verificación para obtener una cuenta en este sitio.
+* *Autores*: son *Editores Asistentes* que aparte de poder editar lo que cualquier *Editor Asistente* también son los únicos editores con permiso para editar ciertos contenidos de los cuales ellos son autores.
+* *Desarrolladores*: tienen una cuenta en GitHub y están a cargo de desarrollar la funcionalidad de las *Urantiapedia Tools* y de *Wiki.js*. Consultar: [Manual para Desarrolladores](/es/help/devs).
+* *Revisores*: con la tarea de velar por un correcto contenido en la web y seguir las reglas del sitio.
 
 Para saber más acerca de los perfiles que estamos buscando para colaborar consulta [Perfiles de colaboradores](/es/help/roles).
 
@@ -92,9 +93,9 @@ Para saber más acerca de los perfiles que estamos buscando para colaborar consu
 - [Perfiles de colaboradores](/es/help/roles)
 - [Contenido de la Urantiapedia](/es/help/content)
 - [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para administradores](/es/help/admin)
-- [Manual para desarrolladores](/es/help/devs)
-- [Manual para editores GitHub](/es/help/github)
+- [Manual para Administradores](/es/help/admin)
+- [Manual para Desarrolladores](/es/help/devs)
+- [Manual para Editores Jefe](/es/help/github)
 - [Progreso actual del proyecto](/es/help/status)
 
 ## External links
