@@ -9,19 +9,21 @@
 < Help: https://urantiapedia.org/es/help/github_topicindex
 <__________________________________________________________________________________
 
-Cesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | PLACE | 
-Herodes el Idumea construyó (121:2.11)
-hogar de Natán, autor del Evangelio de Juan (121:8.10)
-Las experiencias de Jesús en Cesarea camino a Roma (130:2)
-Pablo encarcelado en (130:2.5)
-Capital romana de Judea (130:2.1) (184:3.17)
-masacre de 20.000 judíos en (130:2.5)
+Cesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | PLACE | OK
+Herodes el Idumea construyó el puerto de Cesarea, cosa que también ayudó a que Palestina fuera el cruce de caminos del mundo civilizado. (121:2.11)
+Fue la capital romana de Judea (130:2.1) (184:3.17)
+Jesús se detuvo en Cesarea camino a Roma unos días, ayudando a reparar uno de los remos de la nave y conociendo e influyendo en varias personas, en especial en Anaxando, un destacado miembro en la iglesia cristiana posterior (130:2)
+Cesarea fue el hogar de Natán, el autor del Evangelio de Juan (121:8.10)
+Pablo fue encarcelado en Cesarea (130:2.5)
+Allí perecieron en una masacre 20.000 judíos (130:2.5)
+> https://es.wikipedia.org/wiki/Cesarea_Marítima
 
-Cesarea de Filipo | (157) (134:8.1,10) (155:3) | | PLACE | 
-también conocido como Dan (134:7.5)
-capital del dominio del tetrarca Felipe (157:3.1)
-Celso de (157:3.7) (157:4.1) (157:6.1) (158:6.1)
-Verónica de (152:0.3)
+Cesarea de Filipo | (157) (134:8.1,10) (155:3) | | PLACE | OK
+Cesarea de Filipo, población también conocida como Dan (134:7.5)
+Era la capital del dominio del tetrarca Felipe (157:3.1)
+Celsus el seguidor de Jesús era de Cesarea de Filipo (157:3.7) (157:4.1) (157:6.1) (158:6.1)
+Verónica, la mujer cuya fe la hizo curarse de hemorragias al tocar a Jesús, era de Cesarea de Filipo (152:0.3)
+> https://es.wikipedia.org/wiki/Banias
 
 Caifás | (186:1.1) (190:3.3) | sanedrín | PERSON | OK
 Caifás fue el agresivo yerno de Anás, el antiguo sumo sacerdote (183:5.1) (184:0.2) (184:1.1)
@@ -35,8 +37,9 @@ El sanedrín se reunió en el palacio de Caifás (175:4.13) (184:0.2) (188:2.2)
 en el juicio a Jesús Caifás se comportó más como fiscal que como juez imparcial (184:3.4)
 durante el juicio sacudió un dedo acusador provocativamente y golpeó al Maestro en la cara (184:3.14,18)
 agitó un dedo vengativo en el rostro de Pilato cuando vio que el procurador estaba dispuesto a soltar a Jesús (185:7.5)
+> https://es.wikipedia.org/wiki/Caifás
 
-Caín | (76:2) | | PERSON | 
+Caín | (76:2) | | PERSON | OK
 Caín era hijo de Eva y Cano, un hombre de raza nodita; tenía una herencia belicosa natural (76:2.4)
 nació antes de que la caravana adánica alcanzara el segundo jardín (76:0.2)
 era dos años mayor que Abel, quien fue el primer hijo de Adán y Eva en el segundo jardín. Caín eligió dedicarse a la agricultura (76:2.1,5)
@@ -48,30 +51,42 @@ fue a a la tierra de Nod a por esposa (74:8.8) (148:4.7)
 se casó con Remona; su primer hijo fue Enoc (76:2.9)
 la expresión vengado siete veces se aplicaba a Caín, porque se consideraba que su marca tribal era la de la tribu que se vengaría hasta siete veces de quien lo matara (159:1.7)
 la marca tribal era vital en los días de Caín, pues aseguraba que alguien pudiera sobrevivir (68:1.2)
+> https://es.wikipedia.org/wiki/Caín
 
-calamidades | | accidentes | | 
+calamidades | | accidentes | | OK
 
-calcio | | piedra | | 
-elemento principal de la impregnación de materia del espacio (41:6.2)
-desafía la gravedad haciendo malabarismos con un electrón (41:6.4-5)
-vagabundo del espacio; monta haces de luz (41:6)
+calcio | | piedra | | OK
+El calcio es de hecho el elemento principal que impregna de materia el espacio de todo Orvonton. (41:6.2)
+Al lanzar a su electrón 19 de acá para allá entre dos órbitas más 25.000 veces por segundo, el átomo de calcio es capaz de desafiar parcialmente la gravedad y de cabalgar así con éxito sobre la luz (41:6.4-5)
+son los deshechos errantes del espacio, junto con el sodio (41:6)
+> https://es.wikipedia.org/wiki/Calcio
 
 Caleb | | | PERSON | OK
 Caleb es uno de los exploradores de Moisés que vivió para entrar en la tierra prometida (166:3.2)
+> https://es.wikipedia.org/wiki/Caleb
 
-calebitas | | | RACE | 
-palestinos nómadas no hebreos; se unió a David (97:9.7)
+calebitas | | | RACE | OK
+los calebitas era una tribu de palestinos nómadas no hebreos. Se unieron a David y su coalición de tribus no hebreas (97:9.7)
+> https://es.wikipedia.org/wiki/Tribus_de_Israel
 
-montañas de Caledonia | (59:3.3) | | PLACE | 
+montañas de Caledonia | (59:3.3) | | PLACE | OK
 
-calendario | | | | 
-precisa reforma egipcia del calendario Hace 7000 años (77:2.11-12)
-el calendario actual utilizado en los documentos de Urantia (57:0.1) (126:3.1)
+calendario | | | | OK
+Cuando los egipcios emprendieron la reforma del calendario, hace aproximadamente 7.000 años, lo hicieron con una gran precisión, introduciendo el año de 365 días. (77:2.11-12)
+el calendario actual utilizado en los documentos de Urantia es el actual bisiesto de 365¼ días por año (57:0.1) (126:3.1)
 
-California | (60:1.13) | | PLACE | 
-geología (59:4.5) (59:4.12) (59:5.19) (59:5.20) (60:1.8) (60:3.3,6) (61:3.3)
-la cultura amerindia más antigua (79:5.8)
-La sede de Onamonalontón entre secuoyas en (64:6.7)
+California | (60:1.13) | | PLACE | OK
+El centro cultural amerindio más antiguo fue el de Onamonalontón, en California, pero en el año 35.000 a. de J. C. hacía mucho tiempo que había desaparecido. (79:5.8)
+Onamonalontón vivió hasta los noventa y seis años de edad, y mantuvo su cuartel general entre las grandes secoyas de California. Muchos de sus descendientes posteriores han llegado hasta los tiempos modernos entre los indios Pies Negros. (64:6.7)
+geología
+	el inmenso mar interior ártico de América del Norte encontró una salida hacia el Océano Pacífico a través del norte de California. (59:4.5)
+	existen unos lechos ricos en fósiles que están situados a lo largo de la costa de California (59:4.12)
+	Hace 190.000.000 de años, el mar carbonífero de América del Norte se extendió hacia el oeste sobre la región actual de las Montañas Rocosas, desaguando en el Océano Pacífico a través del norte de California (59:5.19)
+	Hace 180.000.000 de años se terminó el período carbonífero. Los volcanes estaban activos en Alaska y California (59:5.20)
+	La costa del Pacífico, que habitualmente permaneció por encima del agua durante las inmersiones continentales, se hundió, a excepción de la parte sur de California (60:1.8)
+	Se produjeron grandes actividades volcánicas al sur de los Alpes y a lo largo de la cordillera costera actual de California. (60:3.3,6) 
+	Hace 25.000.000 de años que se produjo una ligera inmersión terrestre después de una larga época de elevación continental. La gran falla vertical de seis kilómetros y medio de la región de California data de estos tiempos. (61:3.3)
+> https://es.wikipedia.org/wiki/California
 
 Caligastia | (66) | cien de Caligastia; diablo; Hijos Lanonandek; rebelión de Lucifer; Príncipes Planetarios | PERSON | OK
 Caligastia es el Príncipe Planetario titular de Urantia hasta que fue depuesto en tiempos de Jesús (75:2.2)
@@ -127,6 +142,7 @@ la venida de Jesús
 	alguien se sentó en el lugar de Caligastia en el consejo de Príncipes Planetarios que tuvo lugar mientras Jesús estuvo en la tumba (188:3.14)
 	el último acto de Miguel en Urantia fue ofrecer misericordia a Caligastia, pero éste la rechazó (53:8.6) (53:9.1)
 	Caligastia todavía sigue libre en Urantia (53:8.6-7)
+> https://es.wikipedia.org/wiki/Diablo
 
 cien de Caligastia | | Estado mayor corpóreo de los Príncipes Planetarios | PERSON | OK
 eran un grupo de 100 ex-mortales elegidos por Caligastia de entre 785.000 ciudadanos de Jerusem para que lo acompañaran y asistieran en su misión como príncipe
@@ -136,19 +152,19 @@ fueron traídos a Urantia por transporte seráfico (66:2.5)
 habitaron en viviendas provistas de abundancia de tierra (50:4.3)
 fueron los padres de 50.000 intermedios primarios; cada pareja produjo 1.000 de ellos (66:4.10) (77:1.2-5)
 40 de 100 se negaron a unirse a la rebelión (67:3.2)
-10 consejos autónomos presididos por Daligastia, con 10 miembros cada uno (66:5)
-	# el consejo de la la alimentación y el bienestar material. Estaba dirigido por Ang y 3 miembros permanecieron leales (66:5.2-3) (67:4.1)
-	# el consejo de la domesticación de animales. Liderado por Bon; ninguno permaneció leal (66:5.4-6) (67:4.1)
-	# el consejo encargado de vencer a los de animales depredadores. Liderado por Dan; ninguno permaneció leal (66:5.7-8) (67:4.1)
-	# el consejo de difusión y conservación del conocimiento. Dirigido por Fad; 5 miembros permanecieron leales (66:5.9-10) (67:4.1)
-	# el consejo de industria y comercio. Conducido por Nod; ninguno permaneció leal (66:5.11-12)
-	# el consejo de la religión revelada. Conducido por Hap; todos permanecieron leales (66:5.13-16)
-	# el consejo de salud y vida. Dirigido por Lut; ninguno permaneció leal (66:5.17-22) (67:4.1)
-	# el consejo de arte y ciencia. Liderado por Mek; todos permanecieron leales (66:5.23-27) (67:4.1)
-	# el consejo de relaciones tribales. Dirigido por Tut; ninguno permaneció leal (66:5.28-30) (67:4.1)
-	# el tribunal supremo de coordinación tribal. Conducido por Van. Formado por miembros previamente aprobados por los Altísimos; todos permacieron leales (66:5.31) (67:2.2) (67:4.1)
+Constituyeron 10 consejos autónomos presididos por Daligastia, con 10 miembros cada uno (66:5)
+# el consejo de la la alimentación y el bienestar material. Estaba dirigido por Ang y 3 miembrospermanecieron leales (66:5.2-3) (67:4.1)
+# el consejo de la domesticación de animales. Liderado por Bon; ninguno permaneció leal (66:5.4-6) (67:4.1)
+# el consejo encargado de vencer a los de animales depredadores. Liderado por Dan; ninguno permaneció leal(66:5.7-8) (67:4.1)
+# el consejo de difusión y conservación del conocimiento. Dirigido por Fad; 5 miembros permanecieron leales(66:5.9-10) (67:4.1)
+# el consejo de industria y comercio. Conducido por Nod; ninguno permaneció leal (66:5.11-12)
+# el consejo de la religión revelada. Conducido por Hap; todos permanecieron leales (66:5.13-16)
+# el consejo de salud y vida. Dirigido por Lut; ninguno permaneció leal (66:5.17-22) (67:4.1)
+# el consejo de arte y ciencia. Liderado por Mek; todos permanecieron leales (66:5.23-27) (67:4.1)
+# el consejo de relaciones tribales. Dirigido por Tut; ninguno permaneció leal (66:5.28-30) (67:4.1)
+# el tribunal supremo de coordinación tribal. Conducido por Van. Formado por miembros previamente aprobados por los Altísimos; todos permacieron leales (66:5.31) (67:2.2) (67:4.1)
 Contrapartes andonitas
-	56 de estos andonitas permanecieron leales contra la rebelión; 44 se rebelaron (67:3.5) (77:2.7)
+	de estos andonitas 56 permanecieron leales contra la rebelión; 44 se rebelaron (67:3.5) (77:2.7)
 	los 55 leales, todos excepto Amadón, fueron trasladados a Jerusem a la llegada de los síndicos Melquisedek (67:4.5) (67:6.3)
 	se introdujeron en sus cuerpos un complemento de los circuitos del sistema y usaron el árbol de la vida (66:4.15-16) (77:2.7)
 	los cien andonitas habían recibido un complemento de vida que les permitía alimentarse del árbol de la vida y prolongar indefinidamente su existencia mortal (73:6.4)
@@ -188,48 +204,67 @@ obra de los cien de Caligastia (66:5-7)
 
 Calígula | | | PERSON | OK
 Emperador romano tras la muerte de Jesús. Selta, el escritor de un apocalipsis judío, estuvo unido a la corte de Calígula (176:2.8)
+> https://es.wikipedia.org/wiki/Calígula
 
-Callirhue | (165:0.1) | | PLACE | 
-Una de las poblaciones recorridas en la misisón de Perea
+Callirhue | | | PLACE | OK
+Una de las poblaciones visitadas por Jesús, los doce y los setenta, durante la misión en Perea entre el 3 de enero de 30 hasta la muerte de Jesús (165:0.1)
+> https://en.wikipedia.org/wiki/Callirrhoe_(Jordan)
 
-Cámbrico | (59:1.15,20) | edades geológicas | | 
-era de la vida marina desde hace 400 a 350 millones de años (59:1)
+Cámbrico; cámbricos | (59:1.15,20) | edades geológicas | | OK
+el Cámbrico es la era de la vida marina desde hace 400 a 350 millones de años (59:1)
+> https://es.wikipedia.org/wiki/Cámbrico
 
-camellos | | caravanas | | 
-apariencia (61:2.9) (61:3.5,10) (61:4.3,4) (61:4.4) (61:5.7)
-domesticado por 5000 a.C. (81:2.12)
-colar el mosquito y tragar camellos (156:2.8) (175:1.17)
-a través del ojo de una aguja (163:3.1)
+camellos; camello | | caravanas | | OK
+aparición
+	Los camellos y las llamas tuvieron su origen en América del Norte (61:2.9) 
+	América del Norte se llenó de rumiantes —ciervos, bueyes, camellos, bisontes y diversas especies de rinocerontes. Enormes manadas de caballos se juntaron con los camellos en las planicies occidentales de América del Norte. (61:3.5,10) 
+	los camellos norteamericanos se fueron a China. (61:4.3,4)
+	Las llamas y los camellos parecidos a las jirafas se mezclaban con los caballos en los pastizales de las llanuras (61:4.4)
+	Durante estas épocas primitivas del período glacial, América del Norte estaba plagada de mastodontes, mamuts lanudos, caballos, camellos y otros (61:5.7)
+domesticación
+	el camello fue domesticado hacia el 5000 a.C. (81:2.12)
+dichos de Jesús
+	«¡Ay de vosotros, escribas y fariseos! Sois realmente unos guías ciegos y unos educadores estúpidos; filtráis los mosquitos y os tragáis los camellos». (156:2.8) (175:1.17)
+	«Tenéis un dicho que dice que ‘es más fácil que un camello pase por el ojo de una aguja, a que los paganos hereden la vida eterna.’ Y yo declaro que es igual de fácil que ese camello pase por el ojo de la aguja, a que estos ricos satisfechos de sí mismos entren en el reino de los cielos». (163:3.1)
 
-Caná | (124:1.12) (138:9.3) (146:5) | | PLACE | 
-José, padre de Jesús, trabajó en (123:3.8)
-Natanael de (137:2.3) (139:6.2)
-boda de Noemí y Johab en (137:4)
+Caná | (124:1.12) (138:9.3) (146:5) | | PLACE | OK
+José, padre de Jesús, trabajó en Caná (123:3.8)
+Natanael el apóstol era de Caná (137:2.3) (139:6.2)
+la boda de Noemí y Johab en la que se produjo el milagro de la conversión del agua en vino fue en Caná (137:4)
+> https://es.wikipedia.org/wiki/Caná_de_Galilea
 
-cananeos | | | RACE | 
-prácticas religiosas hebreas contaminadas (96:7.1)
-La política de compromiso del rey David con (97:9.13)
-palestinos nómadas no hebreos; se unió a David (97:9.7)
+cananeos | | | RACE | OK
+los hebreos se establecieron de forma dispersa por Palestina, pero pronto se dejaron llevar por las creencias ignorantes del desierto y se contaminaron con las prácticas religiosas menos avanzadas de los cananeos. (96:7.1)
+Siguiendo su política de compromiso con los cananeos, David entregó siete descendientes de Saúl a los gibeonitas para que los ahorcaran. (97:9.13)
+eran una tribu de palestinos nómadas no hebreos, que se unieron a la confederación de tribus de David (97:9.7)
+> https://es.wikipedia.org/wiki/Canaán
 
 Canadá | | bahía de Hudson; Quebec | PLACE | 
 geología (58:7.4) (59:3.9) (59:4.6) (59:5.17) (61:7.9)
 
-velas | | | | 
-no poner velas debajo de un celemín (140:3.13)
-todavía quemado en las cámaras de la muerte (87:1.4)
-uso en servicios religiosos restos del culto al fuego (85:4.4)
+velas; candelero; cirios  | | | | OK
+Los hombres tampoco encienden una luz para ponerla debajo de un almud, sino en un candelero; y da luz a todos los que están en la casa. (140:3.13)
+En el siglo veinte se siguen encendiendo cirios en las cámaras mortuorias, y los hombres continúan velando a los muertos. (87:1.4)
+en el siglo veinte se siguen encendiendo cirios como parte del ritual de muchos servicios religiosos, restos del antiguo culto al fuego (85:4.4)
 
-caninos | | perros | | 
+caninos | | perros | | OK
 
-canibalismo | (89:5) | | | 
-antigua costumbre social, económica, religiosa y militar (89:5.1)
-comercio de mujeres, niños engordados para el matadero (89:5.7)
-terminó con el sacrificio humano (89:5.15)
-factores que causan la desaparición (89:5.8-16)
-una vez casi universal (89:5.3)
-ceremonia solemne de venganza (89:5.5-6)
-el gusto por la carne humana crece (89:5.4)
-tribu se comió a cada quinto niño nacido (68:6.10)
+canibalismo | (89:5) | | | OK
+el canibalismo fue una antigua costumbre social, económica, religiosa y militar (89:5.1)
+existió un comercio considerable de mujeres y niños que eran engordados para la matanza. (89:5.7)
+Los sacrificios humanos anunciaron el fin del canibalismo. Como la carne humana se había convertido en el alimento de los hombres superiores, de los jefes, finalmente fue reservada para los espíritus (89:5.15)
+El canibalismo fue en otro tiempo casi universal entre las razas en evolución. (89:5.3)
+Comer carne humana llegó a formar parte de una ceremonia solemne de venganza (89:5.5-6)
+El gusto por la carne humana aumenta. Una vez que se ha empezado a comer carne humana debido al hambre, la amistad, la venganza, o el ritual religioso, llega a convertirse en un canibalismo habitual. (89:5.4)
+No hace mucho tiempo, una tribu caníbal se comía a cada quinto hijo que nacía. (68:6.10)
+El canibalismo ha desaparecido paulatinamente debido a las influencias siguientes: (89:5.8-16)
+# se convertía en una ceremonia comunal
+# El canibalismo se convirtió muy pronto en un rito religioso
+# progresó hasta el punto en que sólo se comían ciertas partes u órganos del cuerpo
+# Fue limitado a los hombres
+# Luego fue limitado a los jefes
+# Después se volvió tabú
+# Los sacrificios humanos anunciaron el fin del canibalismo.
 
 Cano | | | PERSON | OK
 Cano era un líder nodita brillante y activo (75:3.7)

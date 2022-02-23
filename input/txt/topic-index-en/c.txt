@@ -9,227 +9,262 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <__________________________________________________________________________________
 
-Caesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | PLACE | 
-Herod the Idumean built (121:2.11)
-home of Nathan, author of Gospel of John (121:8.10)
-Jesus’ experiences in Caesarea on way to Rome (130:2)
-Paul imprisoned at (130:2.5)
-Roman capital of Judea (130:2.1) (184:3.17)
-slaughter of 20,000 Jews at (130:2.5)
+Caesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | PLACE | OK
+Herod the Idumean built the harbor of Caesarea, which further aided in making Palestine the crossroads of the civilized world. (121:2.11)
+It was the Roman capital of Judea (130:2.1) (184:3.17)
+Jesus stopped at Caesarea on his way to Rome for a few days, helping to repair one of the ship's oars and meeting and influencing several people, especially Anaxandus, a leading member of the later Christian church. (130:2)
+Caesarea was the home of Nathan, author of Gospel of John (121:8.10)
+Paul was imprisoned at Caesarea (130:2.5)
+there were slaughtered 20,000 Jews (130:2.5)
+> https://en.wikipedia.org/wiki/Caesarea_Maritima
 
-Caesarea Philippi; Caesarea-Philippi | (157) (134:8.1,10) (155:3) | | PLACE | 
-also known as Dan (134:7.5)
-capital of Tetrarch Philip’s domain (157:3.1)
-Celsus from (157:3.7) (157:4.1) (157:6.1) (158:6.1)
-Veronica from (152:0.3)
+Caesarea Philippi; Caesarea-Philippi | (157) (134:8.1,10) (155:3) | | PLACE | OK
+Caesarea Philippi, also known as Dan (134:7.5)
+it was the capital of Tetrarch Philip’s domain (157:3.1)
+Celsus, a Jesus follower, was from Caesarea Philippi (157:3.7) (157:4.1) (157:6.1) (158:6.1)
+Veronica, the faithfully woman that was healed when she touched Jesus, was from Caesarea Philippi (152:0.3)
+> https://en.wikipedia.org/wiki/Banias
 
 Caiaphas | (186:1.1) (190:3.3) | Sanhedrin | PERSON | OK
-Annas’s aggressive son-in-law (183:5.1) (184:0.2) (184:1.1)
-high priest (175:4.13) (184:0.2)
-asserted it better one die than community perish (168:3.6)
-hardhearted and vainglorious (177:4.7-8)
+Caiaphas was the aggressive son-in-law of Annas, the former high priest (183:5.1) (184:0.2) (184:1.1)
+at the time of Jesus' capture, Caiaphas was acting high priest (175:4.13) (184:0.2)
+stated that it is better for one man to die than for the whole community to perish (168:3.6)
+Caiaphas was hard-hearted and vainglorious (177:4.7-8)
 accused Jesus before Pilate (185:6.7)
-Judas met with Jesus’ enemies at home of (177:4.1)
-temple guards ordered Jesus taken to (183:5.1)
-Sanhedrin met at palace of (175:4.13) (184:0.2) (188:2.2)
-more prosecutor than unbiased judge (184:3.4)
-shook accusing finger at, smote Master in face (184:3.11,15)
-shook avenging finger in Pilate’s face (185:7.5)
+Judas met with Jesus' enemies at the house of Caiaphas (177:4.1)
+The temple guards had orders to bring Jesus to Caiaphas (183:5.1)
+The Sanhedrin met in the palace of Caiaphas (175:4.13) (184:0.2) (188:2.2)
+in the trial of Jesus Caiaphas behaved more as a prosecutor than as an impartial judge (184:3.4)
+during the trial he shook an accusing finger provocatively and hit the Master in the face (184:3.14,18)
+he waved a vengeful finger in Pilate's face when he saw that the procurator was willing to release Jesus (185:7.5)
+> https://en.wikipedia.org/wiki/Caiaphas
 
-Cain | (76:2) | | PERSON | 
-son of Eve and Cano; natural bellicose inheritance (76:2.4)
-born before Adamic caravan reached second garden (76:0.2)
-2 years older than Able; followed agriculture (76:2.1,5)
-always defiant of family discipline and religion (76:2.8)
-slew Abel (76:2.4-5)
-repented, was indwelt by Adjuster (76:2.8)
-encouraged to leave second garden (76:2.7)
-went to Nod for wife (74:8.8) (148:4.7)
-married Remona; first son was Enoch (76:2.9)
-avenged 7 times (159:1.7)
-tribal mark vital in days of (68:1.2)
+Cain | (76:2) | | PERSON | OK
+Cain was the son of Eva and Cano, a man of the Nodite race; he had a natural bellicose inheritance (76:2.4)
+he was born before the Adamic caravan reached the second garden (76:0.2)
+he was two years older than Abel, who was the first son of Adam and Eve in the second garden. Cain chose to dedicate himself to agriculture (76:2.1,5)
+he had always defied family discipline and despised Adam's religion (76:2.8)
+he slew Abel (76:2.4-5)
+because of that act he finally repented and was inhabited by an Adjuster (76:2.8)
+Adam and Eve encouraged him to leave the second garden (76:2.7)
+he went to the land of Nod for a wife (74:8.8) (148:4.7)
+he married Remona; his first son was Enoch (76:2.9)
+the expression avenged seven times was applied to Cain, because his tribal mark was considered to be that of the tribe that would take revenge up to seven times on whoever killed him (159:1.7)
+the tribal mark was vital in the days of Cain, as it ensured that someone could survive (68:1.2)
+> https://en.wikipedia.org/wiki/Cain
 
-calamities | | accidents | | 
+calamities | | accidents | | OK
 
-calcium | | stone | | 
-chief element of matter-permeation of space (41:6.2)
-defies gravity by juggling an electron (41:6.4-5)
-wanderer of space; rides light beams (41:6)
+calcium; Calcium  | | stone | | OK
+Calcium is, in fact, the chief element of the matter-permeation of space throughout Orvonton. (41:6.2)
+By tossing its 19th electron back and forth between two orbits more than 25,000 times a second, a calcium atom is able partially to defy gravity and thus successfully to ride the light (41:6.4-5)
+they are wanderers derelicts of space, together with sodium (41:6)
+> https://en.wikipedia.org/wiki/Calcium
 
 Caleb | | | PERSON | OK
-lived to enter promised land (166:3.2)
+Caleb is one of Moses' scouts who lived to enter the promised land (166:3.2)
+> https://en.wikipedia.org/wiki/Caleb
 
-Calebites | | | RACE | 
-non-Hebrew nomadic Palestinians; joined David (97:9.7)
+Calebites | | | RACE | OK
+Calebites were a non-Hebrew nomadic Palestinians tribe. They joined David and his coalition of non-Hebrew tribes (97:9.7)
+> https://en.wikipedia.org/wiki/Twelve_Tribes_of_Israel
 
-Caledonian mountains; Caledonian Mountains | (59:3.3) | | PLACE | 
+Caledonian mountains; Caledonian Mountains | (59:3.3) | | PLACE | OK
 
-calendar | | | | 
-accurate Egyptian reform of calendar 7000 years ago (77:2.11-12)
-present day calendar used in Urantia Papers (57:0.1) (126:3.1)
+calendar | | | | OK
+When the Egyptians undertook to reform the calendar, about 7,000 years ago, they did it with great accuracy, introducing the year of 365 days. (77:2.11-12)
+calendar used in Urantia Papers is the present leap-year calendar of 365¼ days to the year (57:0.1) (126:3.1)
 
-California | (60:1.13) | | PLACE | 
-geology (59:4.5) (59:4.12) (59:5.19) (59:5.20) (60:1.8) (60:3.3,6) (61:3.3)
-oldest Amerindian culture (79:5.8)
-Onamonalonton’s headquarters among redwoods in (64:6.7)
+California | (60:1.13) | | PLACE | OK
+The oldest Amerindian culture was the Onamonalonton center in California, but this had long since vanished by 35,000 B. C. (79:5.8)
+Onamonalonton lived to be ninety-six years of age and maintained his headquarters among the great redwood trees of California. Many of his later descendants have come down to modern times among the Blackfoot Indians. (64:6.7)
+geology 
+	the immense arctic North American inland sea found an outlet to the Pacific Ocean through northern California. (59:4.5)
+	rich fossil beds are situated along the coast of California (59:4.12)
+	190,000,000 years ago witnessed a westward extension of the North American Carboniferous sea over the present Rocky Mountain region, with an outlet to the Pacific Ocean through northern California. (59:5.19)
+	180,000,000 years ago brought the close of the Carboniferous period. Volcanoes were active in Alaska and California (59:5.20)
+	The Pacific coast, usually above water during the continental submergences, went down excepting the southern part of California (60:1.8)
+	Great volcanic actions occurred south of the Alps and along the line of the present California coast-range mountains. (60:3.3,6)
+	25,000,000 years ago there was a slight land submergence following the long epoch of land elevation. The great four-mile vertical fault in the California region dates from this time.(61:3.3)
+> https://en.wikipedia.org/wiki/California
 
 Caligastia | (66) | Caligastia one hundred; devil; Lanonandek Sons; Lucifer rebellion; Planetary Princes | PERSON | OK
-titular Planetary Prince until deposed in times of Jesus (75:2.2)
-advocated cause of Lucifer on Urantia (49:5.23) (53:7.2)
-deposed Planetary Prince of Urantia; the devil; evil one (53:1.4) (75:2.3) (179:2.3) (189:3.3)
-Abaddon was chief of staff of (53:1.5)
+Caligastia is the titular Planetary Prince of Urantia until he was deposed at the time of Jesus (75:2.2)
+Caligastia advocated the cause of Lucifer on Urantia (49:5.23) (53:7.2)
+he is now the deposed Planetary Prince of Urantia. He receives various names such as the devil, the evil one (53:1.4) (75:2.3) (179:2.3) (189:3.3)
+Abaddon was Caligastia's chief of staff (53:1.5)
 before rebelling
-	secondary Lanonandek #9344 (66:1.1)
-	attached to Life Carriers on Jerusem (66:1.2)
-	elevated to Lucifer’s personal staff (66:1.2)
-	repeatedly denied commission as Planetary Prince (66:1.3)
-	Planetary Prince of Urantia (50:3.1) (53:8.5)
-	arrived 500,000 years after appearance of will, with appearance of colored races (61:7.4) (66:0)
-	Dalamatia commandments enjoined obedience to (66:7.10)
-	corporeal staff of | Caligastia one hundred
+	Caligastia was a secondary Lanonandek, number 9344 (66:1.1)
+	he had been stationed on the advisory council of the Life Carriers on Jerusem (66:1.2)
+	was elevated by Lucifer to a position on his personal staff (66:1.2)
+	he requested several times to be appointed as Planetary Prince but his requests were denied (66:1.3)
+	eventually made Planetary Prince of Urantia (50:3.1) (53:8.5)
+	he came 500,000 years after the appearance of the will on Urantia, time of the appearance of the colored races (61:7.4) (66:0)
+	The commandments that he established in Dalamatia, his capital on Urantia, commanded obedience to his person (66:7.10)
+	arranged for his work a corporeal staff of one hundred members | Caligastia one hundred
 rebellion
-	patiently warned regarding pride, critical tendencies (66:8.2)
-	proclaimed God of Urantia by Daligastia (53:8.5) (67:2.4)
-	ideas for premature freedom failed (67:5.3)
+	Caligastia patiently was warned about pride and critical tendencies (66:8.2)
+	Caligastia was proclaimed God of Urantia by Daligastia (53:8.5) (67:2.4)
+	ideas for premature freedom failed on rebellious worlds (67:5.3)
 personal characteristics
-	experienced, brilliant, original mind (66:1.5)
-	ultraindividualistic; restless; resented supervision; tendency to disagree with established order, join parties of protest (66:1.4) (66:8.1)
-	fell in love with himself (66:1.5)
+	Caligastica had an experienced, brilliant and original mind (66:1.5)
+	he was extremely individualistic; restless; he resented the supervision; he had a tendency to disagree with the established order, and to join protest parties (66:1.4) (66:8.1)
+	but he fell in love with himself (66:1.5)
 	deliberate sin completely distorted his personality (67:1.3)
-	invisible to humans (74:5.5)
-	misguided high Son of local universe (75:2.2)
+	he was invisible to humans (74:5.5)
+	after his rebellion he was still an elevated Son, but a local universe misleader (75:2.2)
 power of Caligastia
-	contested Moses’ passage to mansion worlds (52:5.5)
-	curtailed by incarnation of Melchizedek (66:8.5)
-	enemy would seek to draw apostles away (138:7.3)
-	never able to oppress or coerce normal individuals against their wills (53:8.6) (66:8.6) (75:2.1)
-	no power to enter men’s minds unless they so desire (53:8.6)
-	opposed Adam’s mission though shorn of most power (51:3.4) (66:8.4) (73:2.5) (74:3.1) (74:5.5) (75:2)
-	now shorn of all power to harm (66:8.7)
-	shorn of authority during incarnation of Michael (66:8.5)
-	since Pentecost, servile before Adjusters, Spirit of Truth (53:8.7,9)
+	Caligastia contested Moses' passage to the mansion worlds, and Moses had to wait for a special millennial or dispensational resurrection (52:5.5)
+	his power was restricted by the incarnation of Melchizedek and completely annulled by the incarnation of Michael (66:8.5)
+	Jesus warned the apostles that the enemy, that is, Caligastia, would seek to separate them (138:7.3)
+	never able to oppress or coerce normal individuals against his will (53:8.6) (66:8.6) (75:2.1)
+	Caligastia never had any power to enter the minds of men unless they so desired. Human free will is supreme in moral matters (53:8.6)
+	opposed Adam's mission even though he lacked most of his power (51:3.4) (66:8.4) (73:2.5) (74:3.1) (74:5.5) (75:2)
+	now he is stripped of all power to harm his subjects (66:8.7)
+	he was stripped of his authority during Michael's incarnation (66:8.5)
+	since Pentecost he is servile to the Adjusters and the Spirit of Truth (53:8.7,9)
 sin of Caligastia
-	bypassing time governor of progressive liberation (118:8.7)
-	perverted planetary schools (50:4.11-13)
-	premeditated betrayal of trust (67:1)
-	prostituted divine talents for own aggrandizement (136:6.9)
-	tried to get ahead of slow, sure way of accomplishing divine purpose (136:8.5)
+	his iniquity consisted in bypassing the temporary regulator of progressive human liberation (118:8.7)
+	perverted all planetary schools (50:4.11-13)
+	he willfully betrayed the trust reposed in him (67:1)
+	prostituted the divine talents for his own aggrandizement (136:6.9)
+	tried to preempt a slow and sure way to accomplish the divine purpose (136:8.5)
 Adam and Eve arrival
 	held many conferences with Adam (75:2.1) (76:4.5)
-	failed to involve Adam and Eve in rebellion (51:3.4) (75:7.7)
-	Serapatatia not aware of being used by (75:3.3,6)
+	but he failed to involve Adam and Eve in the rebellion (51:3.4) (75:7.7)
+	Serapatatia, one of Adam's lieutenants, was not aware of having been used by Caligastia for his own ends (75:3.3,6)
 Jesus arrival
-	Immanuel instructed Michael to adjudicate (120:2.2)
-	fully visible to Jesus on Mount Hermon (134:8.6)
-	Jesus defeated (136:3.1) (174:5.12)
-	forever silenced by Jesus’ life of self-forgetful service (120:4.1)
-	Judas’s betrayal pleased (179:2.3) (183:0.4)
-	council seat of Caligastia occupied during time of tomb (188:3.14)
-	Michael offered mercy to (53:8.6) (53:9.1)
-	still free on Urantia (53:8.6-7)
+	Emmanuel instructed Michael to rule on the claims of the rebels as Caligastia, and to do so as a mortal and not as a heavenly being (120:2.2)
+	Caligastia was fully visible to Jesus on Mount Hermon, along with Satan (134:8.6)
+	Jesus defeated Caligastia on Mount Hermon and since then Jesus is the Planetary Prince of Urantia (136:3.1) (174:5.12)
+	the rebels were silenced forever thanks to Jesus' life of selfless service (120:4.1)
+	Judas' betrayal pleased Caligastia (179:2.3) (183:0.4)
+	someone sat in Caligastia's place at the council of Planetary Princes that took place while Jesus was in the tomb (188:3.14)
+	Michael's last act on Urantia was to offer mercy to Caligastia, but Caligastia refused (53:8.6) (53:9.1)
+	Caligastia is still free on Urantia (53:8.6-7)
+> https://en.wikipedia.org/wiki/Devil
 
 Caligastia one hundred | | corporeal staffs of Planetary Princes | PERSON | OK
-100 ex-mortals chosen by Caligastia of 785,000 Jerusem citizen
-volunteers (66:2.4)
-50 males and 50 females; served as couples; couples lived together (66:7.4-5) (77:1.3,5)
-brought to Urantia by seraphic transport (66:2.5)
-habitations provided with abundance of land (50:4.3)
-parents of 50,000 primary midwayers; each couple produced 1000 (66:4.10) (77:1.2-5)
-40 of 100 refused to join rebellion (67:3.2)
-10 autonomous councils presided over by Daligastia (66:5)
-	# food and material welfare. Ang and 3 members remained loyal (66:5.2-3) (67:4.1)
-	# animal domestication. Bon led, none remained loyal (66:5.4-6) (67:4.1)
-	# conquest of predatory animals. Dan led, none remained loyal (66:5.7-8) (67:4.1)
-	# dissemination and conservation of knowledge. Fad and 5 members remained loyal (66:5.9-10) (67:4.1)
-	# industry and trade. Nod led; none remained loyal (66:5.11-12)
-	# revealed religion. Hap led; all remained loyal (66:5.13-16)
-	# health and life. Lut led; none remained loyal (66:5.17-22) (67:4.1)
-	# art and science. Mek led; all remained loyal (66:5.23-27) (67:4.1)
-	# tribal relations. Tut led; none remained loyal (66:5.28-30) (67:4.1)
-	# supreme court. Van led; members previously approved by Most Highs; all loyal (66:5.31) (67:2.2) (67:4.1)
+they were a group of 100 ex-mortals chosen by Caligastia from among 785,000 citizens of Jerusem to accompany and assist him in his mission as prince
+all volunteered (66:2.4)
+50 were men and 50 women; they served in pairs and the pairs lived together (66:7.4-5) (77:1.3,5)
+were brought to Urantia by seraphic transportation (66:2.5)
+they lived in dwellings provided with abundance of land (50:4.3)
+they were the parents of 50,000 primary intermediates; each pair produced 1,000 of them (66:4.10) (77:1.2-5)
+40 of 100 refused to join the rebellion (67:3.2)
+They constituted 10 autonomous councils presided over by Daligastia, with 10 members each (66:5)
+# The council on food and material welfare. It was led by Ang and 3 members remained loyal (66:5.2-3) (67:4.1)
+# The board of animal domestication. Led by Bon; none remained loyal (66:5.4-6) (67:4.1)
+# The advisers regarding the conquest of predatory animals. Led by Dan; none remained loyal(66:5.7-8) (67:4.1)
+# The faculty on dissemination and conservation of knowledge. Directed by Fad; 5 members remained loyal (66:5.9-10) (67:4.1)
+# The commission on industry and trade. Hosted by Nod; none remained loyal (66:5.11-12)
+# The college of revealed religion. Hosted by Hap; all remained loyal (66:5.13-16)
+# The council of health and life. Directed by Lut; none remained loyal (66:5.17-22) (67:4.1)
+# The council of art and science. Led by Mek; all remained loyal (66:5.23-27) (67:4.1)
+# The governors of advanced tribal relations. Directed by Tut; none remained loyal (66:5.28-30) (67:4.1)
+# The supreme court of tribal co-ordination and racial co-operation. Driven by Van. Formed by members previously approved by the Most Highs; all remained loyal (66:5.31) (67:2.2) (67:4.1)
 Andonite counterparts
-	56 loyal against rebellion; 44 rebelled (67:3.5) (77:2.7)
-	55 loyalists, all except Amadon, translated to Jerusem upon Melchizedek receivers’ arrival (67:4.5) (67:6.3)
-	had complement of system circuits introduced into bodies; used tree of life (66:4.15-16) (77:2.7)
-	tree of life indefinitely extended mortal existence (73:6.4)
+	of these Andonites 56 remained loyal against the rebellion; 44 rebelled (67:3.5) (77:2.7)
+	the 55 loyalists, all except Amadon, were transferred to Jerusem upon the arrival of the Melchizedek receivers (67:4.5) (67:6.3)
+	inserted into their bodies a complement of the system's circuits and used the tree of life (66:4.15-16) (77:2.7)
+	the hundred Andonites had received a complement of life that allowed them to feed on the tree of life and indefinitely extend their mortal existence (73:6.4)
 physical aspects
-	Andonic life plasm transplanted by surgeons from Avalon (66:2.6-7) (74:8.3)
-	before default, did not sexually reproduce (66:4.10)
-	constituted sex creatures to be able to mate with Adam’s offspring (66:2.5) (77:2.2)
-	divided equally as to sex (66:2.7) (66:4.2,5)
-	had Andonic skin color and language (66:4.7)
-	material bodies constructed for (66:2.7)
-	nonflesh diet (66:4.7)
-	on Jerusem, had no reproductive prerogatives (77:1.2)
-	tree of life indefinitely extended lives (66:4.12-14) (73:6.4)
+	Andonic life plasm was allowed to be transplanted by Avalon surgeons into the body of the hundred Andonite corporeal members (66:2.6-7) (74:8.3)
+	before the rebellion, they did not reproduce sexually (66:4.10)
+	they were constituted as sexual creatures in order to mate with Adam's offspring (66:2.5) (77:2.2)
+	were equally divided as to sex (66:2.7) (66:4.2,5)
+	they had the skin color and language of the Andonites (66:4.7)
+	their material bodies were constructed ones (66:2.7)
+	they had a nonflesh diet (66:4.7)
+	on Jerusem they had no reproductive prerogatives (77:1.2)
+	the tree of life allowed them to extend their lives indefinitely (66:4.12-14) (73:6.4)
 loyalists
-	all except Van transferred to Jerusem (67:4.1,5) (67:6.3)
-	had possession of tree of life (67:3.4-5)
-	helped prevent obliteration of spiritual truth (50:4.13)
+	all hundred loyal except Van were transferred to Jerusem (67:4.1,5) (67:6.3)
+	the loyal ones had in their possession the tree of life (67:3.4-5)
+	helped to prevent the destruction of spiritual truth (50:4.13)
 rebels
-	degraded to mortal status; died natural deaths (67:4.2-4)
-	deprived of system life circuits (66:2.5) (66:4.6) (67:4.2)
-	driven from Dalamatia by semisavages (67:5.2)
-	fate unknown; Adjusters still tarry on Jerusem (67:4.5)
-	increased numbers by sexual reproduction (67:4.2)
+	they were degraded to mortal status and died natural deaths (67:4.2-4)
+	they were deprived of the vital circuits of the system (66:2.5) (66:4.6) (67:4.2)
+	they were expelled from Dalamatia by semi-savage hordes (67:5.2)
+	They have an unknown fate. His Adjusters still tarry on Jerusem (67:4.5)
+	resorted to sexual reproduction to increase their numbers (67:4.2)
 work of the Caligastia one hundred (66:5-7)
-	plan was to procreate successors prior to retiring upon arrival of Adam and Eve (66:4.5)
+	The plan was to procreate successors before retiring at the arrival of Adam and Eve (66:4.5)
 	adopted many Andonic and Sangik children (66:7.5)
-	all were agriculturists and horticulturists (50:4.3)
-	all worked at physical labor (69:2.5)
-	first introduced pottery (66:5.24) (81:2.19)
-	gathered together superior individuals (66:3.8)
-	no methods employed not natural on Urantia (66:7.2)
-	markedly accelerated normal evolution (66:6.6)
+	they were all agriculturists and horticulturists (50:4.3)
+	all worked using physical labor (69:2.5)
+	first introduced pottery to the world (66:5.24) (81:2.19)
+	assembled superior individuals (66:3.8)
+	they did not employ any method that was not natural on Urantia (66:7.2)
+	remarkably accelerated the normal and natural evolution of the races (66:6.6)
 	taught agriculture (68:5.9)
-	taught Andonites, red, blue, and yellow races (66:7.7)
-	used natural means of race improvement (66:4.2) (66:5.16)
-	blue man profited most from teachings of (68:0.3)
+	taught the Andonites, and the red, blue, and yellow races (66:7.7)
+	used natural means to improve the race (66:4.2) (66:5.16)
+	the blue man is the one who benefited most from the teachings of the hundred (68:0.3)
 
 Caligula | | | PERSON | OK
-Roman emperor; Selta attached to (176:2.8)
+Roman emperor after the death of Jesus. Selta, the writer of a Jewish apocalypse, was attached to Caligula's court (176:2.8)
+> https://en.wikipedia.org/wiki/Caligula
 
-Callirrhoe | (165:0.1) | | PLACE | 
-Perea mission
+Callirrhoe | | | PLACE | OK
+One of the towns visited by Jesus, the twelve and the seventy, during the Perea mission between January 3, 30 until the death of Jesus (165:0.1)
+> https://en.wikipedia.org/wiki/Callirrhoe_(Jordan)
 
-Cambrian | (59:1.15,20) | geologic ages | | 
-marine-life era from 400 to 350 million years ago (59:1)
+Cambrian | (59:1.15,20) | geologic ages | | OK
+Cambrian is the marine-life era from 400 to 350 million years ago (59:1)
+> https://en.wikipedia.org/wiki/Cambrian
 
-camels | | caravans | | 
-appearance (61:2.9) (61:3.5,10) (61:4.3,4) (61:4.4) (61:5.7)
-domesticated by 5000 B.C. (81:2.12)
-straining out gnat while swallowing camels (156:2.8) (175:1.17)
-through eye of a needle (163:3.1)
+camels; camel | | caravans | | OK
+appearance
+	Camels and llamas had their origin in North America (61:2.9)
+	North America was soon overrun by ruminants—deer, oxen, camels, bison, and several species of rhinoceroses. Enormous herds of horses joined the camels on the western plains of North America (61:3.5,10)
+	North American camels went to China (61:4.3,4)
+	llamas and giraffelike camels mingled with the horses on the grazing plains (61:4.4) 
+	During these early epochs of the ice age North America was overrun with mastodons, woolly mammoths, horses, camels, and others(61:5.7)
+domestication
+	camels were domesticated by 5000 B.C. (81:2.12)
+Jesus sayings
+	“Woe upon you, scribes and Pharisees. You are truly blind guides and dumb teachers; you strain out the gnat and swallow the camel. (156:2.8) (175:1.17)
+	“You have a saying that it is ‘easier for a camel to go through the eye of a needle than for the heathen to inherit eternal life.’ And I declare that it is as easy for this camel to go through the needle’s eye as for these self-satisfied rich ones to enter the kingdom of heaven”. (163:3.1)
 
-Cana | (124:1.12) (138:9.3) (146:5) | | PLACE | 
-Joseph father of Jesus worked at (123:3.8)
-Nathaniel from (137:2.3) (139:6.2)
-wedding of Naomi and Johab at (137:4)
+Cana | (124:1.12) (138:9.3) (146:5) | | PLACE | OK
+Joseph father of Jesus worked at CAna (123:3.8)
+Nathaniel the apostle was from Cana (137:2.3) (139:6.2)
+the wedding of Naomi and Johab in which water was converted to wine was at Cana (137:4)
+> https://en.wikipedia.org/wiki/Cana
 
-Canaanites | | | RACE | 
-contaminated Hebrew religious practices (96:7.1)
-King David’s policy of compromise with (97:9.13)
-non-Hebrew nomadic Palestinians; joined David (97:9.7)
+Canaanites | | | RACE | OK
+Hebrews became loosely established in Palestine, but they soon drifted back into the benighted beliefs of the desert and became contaminated with the less advanced Canaanite religious practices. (96:7.1)
+In keeping with the policy of compromise with the Canaanites, David turned seven of Saul’s descendants over to the Gibeonites to be hanged. (97:9.13)
+were a tribe of non-Hebrew nomadic Palestinians, who joined the confederation of tribes of David (97:9.7)
+> https://en.wikipedia.org/wiki/Canaan
 
 Canada | | Hudson Bay; Quebec | PLACE | 
 geology (58:7.4) (59:3.9) (59:4.6) (59:5.17) (61:7.9)
 
-candles | | | | 
-put not candles under a bushel (140:3.13)
-still burned in death chambers (87:1.4)
-use in religious services remnant of fire worship (85:4.4)
+candles; candle  | | | | OK
+Neither do men light a candle and put it under a bushel, but on a candlestick; and it gives light to all who are in the house. (140:3.13)
+In the twentieth century, candles are still burned in death chambers, and men still sit up with the dead. (87:1.4)
+in the twentieth century candles still burn as a part of the ritual of many religious services, remnant of ancient fire worship (85:4.4)
 
-canines | | dogs | | 
+canines | | dogs | | OK
 
-cannibalism | (89:5) | | | 
-ancient social, economic, religious, military custom (89:5.1)
-commerce in women, children fattened for slaughter (89:5.7)
-ended by human sacrifice (89:5.15)
-factors causing disappearance (89:5.8-16)
-once well-nigh universal (89:5.3)
-solemn ceremony of revenge (89:5.5-6)
-taste for human flesh grows (89:5.4)
-tribe ate every 5th child born (68:6.10)
+cannibalism; Cannibalism  | (89:5) | | | OK
+cannibalism was an ancient social, economic, religious, military custom (89:5.1)
+There was considerable commerce in women and children who had been fattened for slaughter. (89:5.7)
+Human sacrifice sounded the death knell of cannibalism. Human flesh having become the food of superior men, the chiefs, it was eventually reserved for the still more superior spirits (89:5.15)
+Cannibalism was once well-nigh universal among the evolving races. (89:5.3)
+Eating human flesh became part of a solemn ceremony of revenge (89:5.5-6)
+The taste for human flesh grows. Having been started through hunger, friendship, revenge, or religious ritual, the eating of human flesh goes on to habitual cannibalism. (89:5.4)
+Not long since, one cannibalistic tribe ate every fifth child born. (68:6.10)
+Cannibalism has been gradually disappearing because of the following influences: (89:5.8-16)
+# It sometimes became a communal ceremony
+# It very early became a religious ritual
+# progressed to the point where only certain parts or organs of the body were eaten
+# It became limited to men
+# It was next limited to the chiefs
+# Then it became taboo
+# Human sacrifice sounded the death knell of cannibalism. 
 
 Cano | | | PERSON | OK
 brilliant and active Nodite leader (75:3.7)
