@@ -341,146 +341,167 @@ Una de las poblaciones visitadas por Jesús, los doce y los setenta, durante la 
 
 Capitolio | | | PLACE | OK
 El Capitolio era la colina de Roma que contenía el templo romano dedicado a Júpiter, Juno y Minerva. Aquí subió Jesús en varias ocasiones mientras estuvo en Roma (132:0.2)
+> https://es.wikipedia.org/wiki/Colina_Capitolina
 
 Capadocia | | | PLACE | OK
 Mateo predicó en Capadocia (139:7.10)
+> https://es.wikipedia.org/wiki/Capadocia
 
 capitán | | | | OK
 La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán. (111:1.9)
 
 Capua | (130:0.2) (130:8.6) | | PLACE | OK
 
-caravanas | | | | 
-Jesús nació en el establo de la caravana (122:7.7)
-Jesús tomó caravanas, condujo caravanas al Caspio (133:9.1) (134:1.1,6) (134:2)
-Taller de reparación de caravanas de José
-	Jesús presentó el título completo a Santiago (128:7.13)
-	Jesús volvió a comprar; pagos finales (127:3.1,7) (128:6.3)
-	Jesús proporcionó arena y bloques para los jóvenes en (128:6.11)
-	José construyó en el 3 a.C. (123:1.6)
-	asumido por el tío de Jesús (126:5.8)
-	el joven Jesús pasó tiempo en (124:3.3)
-muchas caravanas pasaban por Nazaret o cerca de ella (121:2.2)
-caravana regular de la India a Mesopotamia hacia el 7000 a.C. (79:3.7)
+caravanas | | | | OK
+Hacia el año 7000 a. de J.C., las caravanas de camellos viajaban regularmente hasta la lejana Mesopotamia. (79:3.7)
+Jesús
+	Jesús nació en el establo de la posada reservado para las caravanas (122:7.7)
+	Jesús viajó con caravanas y condujo él mismo una caravana al mar Caspio (133:9.1) (134:1.1,6) (134:2)
+	más de la mitad del tráfico de las caravanas pasaba por la pequeña ciudad de Nazaret en Galilea, o cerca de ella. (121:2.2)
+El taller de reparación de caravanas de José
+	José lo construyó en el año 3 a.C. (123:1.6)
+	El joven Jesús pasaba bastante tiempo en la tienda de abastecimiento de las caravanas; como conversaba con los viajeros de todas las partes del mundo, adquirió una cantidad de información sobre los asuntos internacionales sorprendente para su edad. (124:3.3)
+	tras la muerte de José un tío de Jesús se hizo cargo de la tienda de provisiones de la familia y Jesús tuvo que trabajar todo el tiempo en el taller de la casa (126:5.8)
+	Jesús compró este taller mediante mensualidades que se terminaron de abonar el año 19 d.C., permitiendo un desahogo de la familia de Nazaret (127:3.1,7) (128:6.3)
+	Los niños siempre eran bienvenidos al taller de reparaciones. Jesús ponía arena, pedazos de madera y piedras al lado del taller, y los niños acudían en bandadas para entretenerse allí. (128:6.11)
+	Jesús regaló a Santiago la escritura de propiedad del taller de reparaciones antes de marchar para emprender su vida pública (128:7.13)
 
-carbono | | | | 
-pizarra oscura o pizarra indica la presencia de orgánicos (58:7.10)
-temprano carbón consumido por la prolífica vida vegetal (57:7.8)
-en reacciones de energía solar (41:8.1)
+carbono | | | | OK
+Algunos estratos superiores de depósitos contienen pequeñas cantidades de esquistos o pizarras de colores oscuros, que indican la presencia de carbono orgánico y atestiguan la existencia de los antepasados de aquellas formas de vida vegetal que invadieron la tierra durante la era Carbonífera o del carbón. (58:7.10)
+Una gran parte del carbono de la atmósfera fue extraído para formar los carbonatos. Más adelante, la prolífica vida vegetal primitiva consumió unas cantidades mucho mayores de estos gases carbónicos. (57:7.8)
+En aquellos soles que están integrados en los canales de la energía espacial, la energía solar se libera mediante diversas y complejas cadenas de reacción nuclear, y la más común de ellas es la reacción hidrógeno-carbono-helio. En esta metamorfosis, el carbono actúa como un catalizador de la energía (41:8.1)
+> https://es.wikipedia.org/wiki/Carbono
 
-dióxido de carbono | | | | 
-permitió un rápido crecimiento de variedades de tierras primitivas (58:1.8)
-atmosférico (57:8.5,17) (59:2.9) (59:5.2)
-origen (57:7.8)
+dióxido de carbono | | | | OK
+el alto grado de carbono en la atmósfera proporcionó a las nuevas variedades de vida terrestre la oportunidad de crecer con rapidez y exuberancia. (58:1.8)
+Hace 950.000.000 de años la atmósfera se fue aclarando, pero la cantidad de dióxido de carbono siguió siendo elevada. Hace 220.000.000 de años la Tierra estuvo invadida por una vegetación exuberante; fue realmente la época de los helechos. El dióxido de carbono continuaba presente en la atmósfera, pero en menor grado. (57:8.5,17) (59:2.9) (59:5.2)
+Una gran parte del carbono de la atmósfera fue extraído para formar los carbonatos de los diversos metales que abundaban en las capas superficiales del planeta (57:7.8)
+> https://es.wikipedia.org/wiki/Dióxido_de_carbono
 
-monóxido de carbono | | | | 
-en la atmósfera temprana (57:7.6)
+monóxido de carbono | | | | OK
+La atmósfera planetaria primitiva de un mundo en la era volcánica ofrece un espectáculo extraño: va evolucionando lentamente; en este momento contiene un poco de vapor de agua, monóxido de carbono, dióxido de carbono y cloruro de hidrógeno, pero hay poco o ningún nitrógeno libre u oxígeno libre. (57:7.6)
+> https://es.wikipedia.org/wiki/Monóxido_de_carbono
 
-Carbonífero | | edades geológicas | | 
-edad de helechos y ranas, hace 220 a 180 millones de años (59:5)
+Carbonífero; época carbonífera; período carbonífero; carbonífero; carboníferos | | edades geológicas | | OK
+El Carbonífero es la edad de los helechos y las ranas, hace entre 220 y 180 millones de años (59:5)
+> https://es.wikipedia.org/wiki/Carbonífero
 
-carreras | | ganarse la vida; labor | | 
-adquirir una vista de larga distancia de (156:5.8)
-Los Ajustadores traen consigo planes ideales para nuestra carrera (110:2.1)
-Los ajustadores no pueden detener o alterar materialmente (111:7.2)
-todas las cosas sagradas en vidas guiadas por el espíritu (155:6.11) (192:2.13)
-Los Hijos del Paraíso de donación han sido de todo tipo (20:6.3)
-destino eterno totalmente compatible con honorable (110:3.4)
-Jesús deploró la especialización excesiva (149:4.3,6) (155:1.4)
+carreras | | ganarse la vida; labor | | OK
+Debemos aligerar las cargas de nuestra alma mediante la rápida adquisición de una visión a largo plazo de nuestro destino, de una expansión de nuestra carrera en el universo. (156:5.8)
+Cuando los Ajustadores del Pensamiento habitan en la mente humana, traen consigo las carreras modelo, las vidas ideales que han sido determinadas y preordenadas por ellos (110:2.1)
+Los Ajustadores no pueden detener ni tampoco cambiar materialmente las luchas de nuestra carrera en el tiempo; los Ajustadores no puede disminuir las dificultades de la vida mientras viajamos a través de este mundo de trabajo penoso. (111:7.2)
+Todas las cosas son sagradas en la vida de aquellos que están dirigidos por el espíritu, es decir, subordinados a la verdad, ennoblecidos por el amor, dominados por la misericordia y refrenados por la equidad —por la justicia. (155:6.11) (192:2.13)
+Los Hijos del Paraíso han trabajado en todas las ocupaciones imaginables a lo largo de las donaciones en sus planetas (20:6.3)
+un esfuerzo ferviente y determinado por hacer realidad el destino eterno es enteramente compatible con una vida despreocupada y alegre, y con una carrera lograda y honorable en la Tierra. (110:3.4)
+Jesús deploró toda tendencia a la especialización excesiva, a volverse estrecho de ideas y limitado en las actividades de la vida (149:4.3,6) (155:1.4)
 la vida no es real para quien no puede hacer una cosa con pericia (160:4.11)
 
-Región del Caribe; región del Caribe | (59:1.5) (59:2.2) | | PLACE | 
+Región del Caribe; región del Caribe | (59:1.5) (59:2.2) | | PLACE | OK
+> https://es.wikipedia.org/wiki/Caribe_(región)
 
-Cárpatos | (61:1.12) | | PLACE | 
+Cárpatos | (61:1.12) | | PLACE | OK
+> https://es.wikipedia.org/wiki/Montes_Cárpatos
 
-carpintero | | | | 
-Jesús fue (126:1.1) (129:1.2-3)
-parábola de los necios (156:5.2)
+carpintero | | | | OK
+Jesús fue un experto carpintero y ebanista. También fue constructor de barcas (126:1.1) (129:1.2-3)
+Jesús utilizó la primera y única parábola relacionada con su propio oficio, la parábola de los necios: «No cometáis el error del carpintero necio que derrocha un tiempo precioso cuadrando, midiendo y cepillando una madera de construcción carcomida por los gusanos y podrida en su interior, para después de haber consagrado todo su esfuerzo a esa viga podrida, tiene que rechazarla porque es inadecuada para formar parte de los cimientos del edificio que quería construir, y que deberán resistir los ataques del tiempo y de las tempestades». (156:5.2)
 
-carpintería; taller de carpintería | | | | 
+carpintería; taller de carpintería | | | | OK
 José añadió un taller de carpintería a la casa de Nazaret (122:6.3)
 
-mármol de Carrara | (60:1.4) | | | 
+mármol de Carrara | (60:1.4) | | | OK
 
-carro de la vida | | | | 
-transporte seráfico (39:5.14)
+vehículo de vida | | | | OK
+el vehículo de vida es una estado metamórfico en el cual puede convertirse un serafín transportador para trasladar cuerpos inmateriales. El serafín adopta una forma alargado y rodeado de una extraña luz de tonalidad ámbar, y cuando despega lo hace a la velocidad de un relámpago (39:5.14)
 
-palomas mensajeras | | | | 
-llegada anunciada de Adán y Eva (74:2.3)
-El bastón del Príncipe se utilizó por primera vez (66:5.6)
+palomas mensajeras | | | | OK
+palomas mensajeras anunciaron la llegada de Adán y Eva, criadas en las colonias de creyentes precísamente para esta ocasión. (74:2.3)
+En la época de la llegada del Príncipe Planetario fue cuando se utilizaron por primera vez las palomas mensajeras; se llevaban en los viajes largos para enviar mensajes o pedir ayuda. (66:5.6)
 
-Cartago | (130:0.2) | | PLACE | 
-Asentamiento andita en (80:7.11)
-Los cartagineses forman parte de una raza más antigua que incluía a los judíos (121:2.1)
-El discurso de Jesús sobre el tiempo y el espacio en (130:7)
+Cartago; cartagineses | (130:0.2) | | PLACE | 
+Una gran colonia andita se estableció en el Mediterráneo cerca de Cartago (80:7.11)
+Los cartagineses forman parte de una raza más antigua que incluía a los judíos, los babilonios, y los fenicios (121:2.1)
+Jesús impartió un discurso sobre el tiempo y el espacio en Cartago (130:7)
+> https://es.wikipedia.org/wiki/Cartago
 
-mar Caspio | | | PLACE | 
-expandido en la antigüedad (80:2.5)
-Jesús llevó la caravana a (134:2)
-región
-	La civilización de Adanson situada cerca (77:5.10)
-	Andonitas, anditas entraron en Europa vía (78:6.2) (80:9.6)
-	la sequía expulsó a los anditas (79:1.5)
-	sede de Onagar (63:6.7)
-	Los nervios brotaron de (78:8.11)
+mar Caspio; Mar Caspio | | | PLACE | OK
+El mar Caspio era más extenso en la antigüedad (80:2.5)
+Jesús condujo una caravana al mar Caspio, desde el 1 de abril del año 24 hasta justo un año después (134:2)
+civilizaciones
+	Onagar, el primer gran maestro religioso, mantuvo su cuartel general en una población llamada Obán, situada en las orillas septentrionales del antiguo Mediterráneo, en la región actual del Mar Caspio. (63:6.7)
+	El centro de la civilización de Adanson estuvo situado en la región que se encuentra al este del extremo meridional del Mar Caspio, cerca del Kopet Dagh (77:5.10)
+	los anditas entraron en Europa por la ruta del Mar Caspio para conquistar a las razas blancas que acababan de aparecer —la mezcla de los hombres azules con los primeros anditas— y fusionarse con ellas. (78:6.2)
+	la creciente sequía provocó gradualmente el gran éxodo andita desde las tierras situadas al sur y al este del Mar Caspio. (79:1.5)
+	Durante cerca de veinte mil años, los anditas habían empujado a los andonitas cada vez más lejos hacia el norte de Asia central. Hacia el año 3000 a. de J.C., la aridez creciente hizo retroceder a estos andonitas hacia el Turquestán. Este empuje andonita hacia el sur continuó durante más de mil años, se dividió alrededor del Mar Caspio y del Mar Negro, y penetró en Europa tanto por los Balcanes como por Ucrania. (80:9.6)
+	Entre los años 2500 y 2000 a. de J.C., los nómadas neritas constituyeron la emanación final del grupo caspio de los descendientes mesopotámicos de las razas andonitas y anditas mezcladas. (78:8.11)
+> https://es.wikipedia.org/wiki/Mar_Caspio
 
-Caspin | (165:0.1) | | PLACE | 
-Una de las poblaciones recorridas en la misisón de Perea
+Caspin | | | PLACE | OK
+Una de las poblaciones visitadas por Jesús, los doce y los setenta, durante la misión en Perea entre el 3 de enero de 30 hasta la muerte de Jesús (165:0.1)
 
-sistemas de castas | (68:6.7) | brahmánismo; clases sociales | | 
-basado en el color en India, Egipto (70:8.11)
-no pudo salvar la raza aria (94:2.1,5)
-Gautama hizo una lucha decidida contra (94:7.2)
-los humanos difieren pero son iguales ante Dios (133:0.3)
-instituido por los arios en la India para salvar la identidad racial (79:2.6) (79:4.5-9)
-compra estabilidad pero disminuye la iniciativa personal; prevenir la cooperación social (70:8.13)
-restos de antiguas prohibiciones (89:1.6)
+sistemas de castas | (68:6.7) | brahmánismo; clases sociales | | OK
+El sistema original de las castas de la India estaba basado en el color, así como el del antiguo Egipto. (70:8.11)
+El sistema de castas no consiguió salvar a la raza aria, pero sí logró perpetuar a los brahmanes, los cuales, a su vez, han mantenido su hegemonía religiosa en la India hasta la época actual. (94:2.1,5)
+Gautama libró una batalla decidida pero infructuosa contra el sistema creciente de las castas. (94:7.2)
+Jesús dijo: «Aunque los seres humanos difieren unos de otros de muchas maneras, todos los mortales están en igualdad de condiciones ante Dios y el mundo espiritual» (133:0.3)
+el sistema de castas fue instituido por los arios en la India para salvar su identidad racial (79:2.6) (79:4.5-9)
+las castas consiguieron el mejoramiento de la estabilidad social mediante la disminución de la iniciativa personal, pero también redujeron claramente el desarrollo del individuo e impidieron prácticamente la cooperación social. (70:8.13)
+Los sistemas de castas y los niveles sociales son vestigios residuales de las prohibiciones antiguas. (89:1.6)
 
-echando suertes | | supersticiones | | 
-los apóstoles seleccionaron a Matías por (193:6.3,6)
-no revela la voluntad divina (150:3.7,12)
-Los griegos practicaron el gobierno por (195:2.1)
-supervivencia moderna del chamanismo (90:2.4)
-los soldados dividieron la ropa de Jesús por (187:2.8)
+echando suertes; echar a suertes; Echarlo a suertes; echado a suertes; echaban a suertes; echarla a suertes | | supersticiones | | OK
+los apóstoles seleccionaron a Matías echándolo a suertes (193:6.3,6)
+Echarlo a suertes quizás sea una manera útil de resolver muchas dificultades menores, pero no es un método destinado a descubrir la voluntad divina. (150:3.7,12)
+Los romanos se apoderaron en su totalidad de la cultura griega, sustituyendo el gobierno echado a suertes por un gobierno representativo. (195:2.1)
+Las supervivencias modernas de esta tendencia chamánica a echarlo a suertes no sólo se encuentran en los numerosos juegos de azar sino también en juegos infantiles (90:2.4)
+los soldados se dividieron la ropa de Jesús echándola a suertes (187:2.8)
 
-aceite de castor | | | | 
-Sumerios utilizados como medicina (90:4.9)
+aceite de castor; aceite de ricino | | | | OK
+Sumerios emplearon el aceite de ricino como medicina (90:4.9)
 
-castración | | culto a la continencia | | 
-modificación temprana del sacrificio humano (89:8.3)
-sacerdotes del culto materno sometidos a (89:3.4)
+castración | | culto a la continencia | | OK
+La castración fue al principio una modificación de la idea de los sacrificios humanos. (89:8.3)
+Los sacerdotes del culto a la madre eran especialmente activos enseñando la virtud de los sufrimientos físicos, y daban ejemplo sometiéndose a la castración. (89:3.4)
 
-cataclismos | | accidentes; desastre | | 
+cataclismos | | accidentes; desastre | | OK
 
-ataques catalépticos | | | | 
-las vergüenzas se lanzaron en (90:1.3)
+ataques catalépticos | | | | OK
+Las mujeres que eran capaces de caer en trance o en un ataque cataléptico se volvieron poderosas chamanesas; más tarde, estas mujeres fueron profetisas y médiums espiritistas. (90:1.3)
 
-catalizador | | | | 
-el carbono es el catalizador en la reacción de hidrógeno-helio (41:8.1)
+catalizador | | | | OK
+En aquellos soles que están integrados en los canales de la energía espacial, la energía solar se libera mediante diversas y complejas cadenas de reacción nuclear, y la más común de ellas es la reacción hidrógeno-carbono-helio. En esta metamorfosis, el carbono actúa como un catalizador de la energía (41:8.1)
 
-catástrofes | | accidentes; crisis; derrota; desastre | | 
+catástrofes | | accidentes; crisis; derrota; desastre | | OK
 
-orugas | | | | 
-negar la posibilidad de que la mariposa se desarrolle a partir de (42:9.4)
+orugas | | | | OK
+La filosofía del universo no se puede basar en las observaciones de la llamada ciencia. Un científico tendería a negar la posibilidad de que una mariposa se desarrolle a partir de una oruga si no pudiera ver dicha metamorfosis. (42:9.4)
 
-gatos | | panteras; tigres de dientes de sable | | 
-en la antigüedad (61:2.7) (61:3.4,10,13) (61:4.4) (61:5.7)
-los gatos negros se consideraron mágicos (88:5.4)
+gatos | | panteras; tigres de dientes de sable | | OK
+evolución
+	Varios grupos de mamíferos tuvieron su origen en un animal único, hoy extinto. Esta criatura carnívora era una especie de cruce entre el gato y la foca; podía vivir en la tierra o en el agua y era extremadamente inteligente y muy activa. (61:2.7)
+	La época de hace 20.000.000 muchos grupos de animales emigraron desde Asia hasta América del Norte, incluyendo la familia de los felinos. La tribu felina estuvo representada por las panteras y los grandes tigres con dientes de sable; estos últimos aparecieron por primera vez en América del Norte (61:3.4,10,13) 
+	La familia felina dominaba la vida animal (61:4.4)
+	Durante las épocas primitivas del período glacial, América del Norte estaba plagada de muchos grupos de las familias felina y canina.(61:5.7)
+supersticiones
+	los gatos negros se consideraron mágicos (88:5.4)
 
-montañas Catskill | (59:4.15) | | PLACE | 
+montañas Catskill | (59:4.15) | | PLACE | OK
+> https://es.wikipedia.org/wiki/Montañas_de_Catskill
 
-vacas | | | | 
-se convirtieron en animales fetiche (88:1.5)
-domesticado por 5000 a.C. (81:2.12)
-primeras unidades de trueque (69:4.5)
-cazado por los neandertales (64:4.2)
-La casa de Jesús tenía 3 vacas (123:5.15) (126:3.12) (126:5.11)
-Noditas importados (80:1.2)
-los hombres primitivos amaban a las vacas más sus esposas (68:5.8)
-El personal del Príncipe ayudó a mejorar (66:5.5)
-al hijo pródigo se le dio ternero cebado (169:1.10)
-robar vacas fue universalmente castigado con muerte sumaria (70:10.15)
-utilizado en el sacrificio de animales (173:1.6-7)
+vacas; vaca; ganado | | | | OK
+Cuando los animales se volvieron fetiches, surgieron los tabúes sobre la consumición de la carne de dichos animales. La vaca fue un fetiche en cierta época, y su leche era tabú mientras que sus excrementos eran muy apreciados. (88:1.5)
+uso antiguo
+	fue un tipo de ganado cazado por los neandertales (64:4.2)
+	Hacia el año 5000 a. de J.C., los campesinos de Mesopotamia, el Turquestán y China habían empezado a criar vacas (81:2.12)
+	El primer medio de trueque fue un pescado o una cabra. Más tarde, la vaca se convirtió en una unidad de trueque. (69:4.5)
+	Los noditas importaron la cría de ganado (80:1.2)
+	los hombres primitivos amaban más a su ganado que a sus esposas (68:5.8)
+	El personal del Príncipe ayudó a mejorar su cría. La vaca había mejorado tanto gracias a una cría esmerada que se convirtió en una valiosa fuente de alimentación; la mantequilla y el queso se volvieron artículos corrientes en el régimen alimenticio humano (66:5.5)
+	El robo de ganado se castigaba universalmente con una ejecución sumaria, e incluso recientemente el robo de caballos se ha castigado de manera similar. (70:10.15)
+	fue ampliamente utilizado en el sacrificio de animales (173:1.6-7)
+Jesús
+	La casa de Jesús tuvieron tres vacas (123:5.15) (126:3.12) (126:5.11)
+	en la famosa parábola de Jesús al hijo pródigo se le dio ternero cebado para celebrar su regreso (169:1.10)
+
 
 caucásicos | | razas; raza blanca | RACE | 
 La herencia andita le da homogeneidad al Caucasoide (78:4.4)
