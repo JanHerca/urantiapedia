@@ -418,7 +418,7 @@ palomas mensajeras | | | | OK
 palomas mensajeras anunciaron la llegada de Adán y Eva, criadas en las colonias de creyentes precísamente para esta ocasión. (74:2.3)
 En la época de la llegada del Príncipe Planetario fue cuando se utilizaron por primera vez las palomas mensajeras; se llevaban en los viajes largos para enviar mensajes o pedir ayuda. (66:5.6)
 
-Cartago; cartagineses | (130:0.2) | | PLACE | 
+Cartago; cartagineses | (130:0.2) | | PLACE | OK
 Una gran colonia andita se estableció en el Mediterráneo cerca de Cartago (80:7.11)
 Los cartagineses forman parte de una raza más antigua que incluía a los judíos, los babilonios, y los fenicios (121:2.1)
 Jesús impartió un discurso sobre el tiempo y el espacio en Cartago (130:7)
@@ -502,93 +502,93 @@ Jesús
 	La casa de Jesús tuvieron tres vacas (123:5.15) (126:3.12) (126:5.11)
 	en la famosa parábola de Jesús al hijo pródigo se le dio ternero cebado para celebrar su regreso (169:1.10)
 
+caucásicos; caucasoide | | razas; raza blanca | RACE | OK
+La herencia andita es la que confiere a la mezcla políglota de las llamadas razas blancas esa homogeneidad generalizada que ha sido denominada caucasoide. (78:4.4)
+La raza caucasoide es la la mezcla andita de los linajes noditas y adamitas, modificada además por la unión con los sangiks primarios y una parte de los secundarios y por un cruce considerable con los andonitas. Las razas blancas occidentales, junto con algunos pueblos hindúes y turanianos, están incluidas en este grupo. (81:4.11)
 
-caucásicos | | razas; raza blanca | RACE | 
-La herencia andita le da homogeneidad al Caucasoide (78:4.4)
-raza compuesta de mezcla sangik andita, andónica, primaria y alguna secundaria (81:4.11)
-
-causalidad | | | | 
+causalidad; la causa; impregnados de causalidad | | | | OK
+la causalidad es la respuesta de la mente cósmica en el dominio de la realidad de los sentidos físicos (16:6.6)
+La mente cósmica responde infaliblemente, reconoce la respuesta, en tres niveles de la realidad universal. (16:6.5)
+evolución en el pensamiento sobre la causalidad
+	El hombre primitivo atribuía todos los fenómenos a una persona. En caso de muerte, el salvaje no se preguntaba qué lo había matado, sino quién. (70:10.3)
+	Los antiguos buscaban una explicación sobrenatural para todos los fenómenos naturales. Pero la búsqueda sincera, honrada y audaz de las causas verdaderas dio origen a la ciencia moderna (81:2.9) (165:3.6)
 causalidad antecedente
-	efectos producidos por causas definidas (86:2.5)
-	Padre nos liberó de las cadenas de (5:6.8-9)
-	respuesta material del efecto a la acción antecedente (101:10.3)
-	solo la justicia proporcionada por la naturaleza (70:10.1)
-la asignación de causas conduce a la primera causa (101:2.3,7) (195:6.5)
-evitar explicaciones sobrenaturales (81:2.9) (165:3.6)
-las causas no pueden entenderse completamente por los efectos (3:1.2)
-las causas no pueden ser menores que los efectos (3:6.3)
-respuesta de la mente cósmica en el dominio de la realidad de los sentidos físicos (16:6.6)
-la mente cósmica reconoce indefectiblemente (16:6.5)
-Primera causa
-solo las causas divinas revelan efectos finales (19:1.11)
-causalidad primaria y causalidad secundaria (118:4)
-la mente primitiva asignaba todos los fenómenos a una persona (70:10.3)
+	La investigación de los fenómenos de la vida destruye tarde o temprano la creencia del hombre en la casualidad, la suerte y los supuestos accidentes, sustituyéndola por un universo de ley y de orden donde todos los efectos están precedidos por unas causas definidas. (86:2.5)
+	El Padre libera al nuestro yo interior de las cadenas de la dependencia absoluta a la causalidad (5:6.8-9)
+	El nivel material de la ley asegura la continuidad de la causalidad, la reacción interminable de los efectos a unas acciones precedentes (101:10.3)
+	La justicia natural es una teoría elaborada por el hombre; no es una realidad. En la naturaleza, la justicia es puramente teórica, totalmente ficticia. La naturaleza sólo proporciona una clase de justicia —la adaptación inevitable de los resultados a las causas. (70:10.1)
+La Causa Primera
+	Por medio del estudio de la ciencia, la razón puede conducir, a través de la naturaleza, hacia una Causa Primera (101:2.3,7) (195:6.5)
+	La distinción vital entre las causas primeras y las causas segundas reside en el hecho de que las causas primeras producen unos efectos originales que están libres de la herencia de cualquier factor derivado de toda causalidad anterior. (118:4)
+	Sólo la infinidad puede revelar finalmente al Infinito; la causa nunca puede ser plenamente comprendida por un análisis de los efectos; el Dios vivo es inconmensurablemente más grande que la suma total de la creación que ha surgido a la existencia como resultado de los actos creativos de su libre albedrío sin trabas. (3:1.2)
+	Las causas universales no pueden ser inferiores a los efectos universales. (3:6.3)
+	Los orígenes finitos son útiles, pero sólo las causas divinas revelan los efectos finales. (19:1.11)
 
-cuevas | | | | 
-Vivía la familia de Andón (63:3.3-5)
-contornos de animales dibujados en paredes de (63:6.3)
-Creído pasaje al inframundo (85:1.5)
-El Jordán brotó de (157:3.1)
-Los mitraicos adorados en (98:5.4) (98:6.3)
-la raza blanca del norte nunca vivió en (80:9.4)
-el hombre primitivo en Europa vivió en (61:6.4)
-Los cromagnones del sur vivieron en (80:3.6) (80:9.4)
+cuevas; cavernas; gruta | | | | OK
+la familia de Andón, el primer ser humano, vivió en cuevas (63:3.3-5)
+Cuando estaba en boga un animal determinado, dibujaban toscamente sus contornos en las paredes de las cavernas, y más tarde, a medida que las artes continuaron progresando, este dios animal era grabado en diversos ornamentos. (63:6.3)
+Los aborígenes ignorantes y supersticiosos creían que las cuevas conducían al infierno, con sus espíritus y demonios malignos, en contraste con las montañas, habitado por espíritus buenos (85:1.5)
+el Jordán surgía de una gruta subterránea (157:3.1)
+Los mitraicos efectuaban sus ritos en cuevas (98:5.4) (98:6.3)
+la raza blanca del norte construyó viviendas; nunca vivieron en cavernas. (80:9.4)
+En las cuevas de Europa occidental se pueden encontrar huesos humanos mezclados con los restos de animales árticos y tropicales, lo que demuestra que el hombre vivió en estas regiones durante las últimas épocas del avance y del retroceso de los glaciares. (61:6.4)
+Los cro-mañones del sur vivían generalmente en cavernas y grutas. (80:3.6) (80:9.4)
 
 Cedes | | | PERSON | OK
 Cedes hizo un registro de la vida de Jesús en el año 78 d.C. (121:8.9)
 
-Artesanos Celestiales | (44) (30:3.6) | | ORDER | 
-todos los ascendentes elegibles para convertirse (44:0.4)
-el ámbito principal de actividad está en las constelaciones (44:0.1)
-cooperar con Serafines de transición registrador-maestro (48:6.30)
-cooperar con los Directores de la reversión (48:4.8)
-espornagia directa sobre las capitales del sistema (43:6.7) (46:5.31)
-dirigido desde las capitales del universo local (44:0.5)
-no trabaje personalmente en planetas como Urantia (44:8.1)
-en el registro de personalidad de Uversa (30:2.151)
-mantener la sede en cada mundo de las mansiones (47:0.4)
-artistas maestros de los reinos espirituales inferiores y morontiales (44:0.1)
-alistamiento mínimo un milenio (44:0.4)
-7000 originales asignados por Espíritu Infinito; todos provenían de Havona (44:0.3,13)
-cuerpo seleccionado y reclutado; no creado como tal (44:0.3)
-Los Serafines pueden alcanzar el Paraíso mediante el servicio (39:8.3)
-a veces ayuda a los mortales dotados (44:8.1-2)
+Artesanos Celestiales; artesanos celestiales | (44) (30:3.6) | | ORDER | OK
+Estos seres son los artistas y los artesanos maestros de los reinos morontiales y de los reinos espirituales inferiores. (44:0.1)
+Los artesanos celestiales no son creados como tales; son un cuerpo de seres seleccionados y reclutados. El cuerpo docente original de estos artesanos estaba compuesto por 7000 instructores de Havona asignados por Espíritu Infinito (44:0.3,13)
+todos los hijos ascendentes de Dios son elegibles para convertirse en Artesanos Celestiales, pero nadie puede alistarse durante menos de un milenio superuniversal (44:0.4)
+Estos artesanos están distribuidos por todo el gran universo pero su campo de actividad principal se encuentra en las constelaciones (44:0.1)
+cooperan con los Serafines Educadores-Registradores de los mundos de transición (48:6.30)
+cooperan también con los Directores de la reversión (48:4.8)
+Los artesanos celestiales dirigen a los espornagias nativos en el extenso trabajo de decoración botánica y de adorno biológico de las capitales del sistema (43:6.7) (46:5.31)
+Los univitatia son el grupo más grande asociado con los Artesanos Celestiales en las colonias de cortesía (43:7.4-5)
+aparecen listados en el registro de personalidad de Uversa (30:2.151)
+Mientras que los artistas humanos deben recurrir a la pintura inerte y al mármol sin vida para describir sus conceptos, los artesanos celestiales y los univitatias utilizan con más frecuencia los materiales vivientes para representar sus ideas y para captar sus ideales. (43:6.7)
+trabajan bajo supervisión de los ángeles del progreso en Urantia (44:8.1)
+lugar de residencia
+	Todos los artesanos celestiales están registrados en la sede del superuniverso, pero en las capitales de los universos locales son dirigidos por los supervisores morontiales. (44:0.5)
+	Aunque los artesanos celestiales no trabajan personalmente en los planetas materiales tales como Urantia, de vez en cuando vienen desde la sede del sistema para ofrecer su ayuda a los individuos dotados por naturaleza de las razas mortales. (44:8.1-2)
+	mantienen una sede colectiva en cada mundo de las mansiones (47:0.4)
 tipos
-	# Los Músicos Celestiales (44:0.6)
+	Se los distingue por siete tipos de actividad: (44:0.5-12)
+	# Los Músicos Celestiales
 	# Los Reproductores Celestiales
 	# Los Constructores Divinos
 	# Los Registradores del Pensamiento
 	# Los Manipuladores de la Energía
 	# Los Diseñadores y los Embellecedores
 	# Los Trabajadores de la Armonía
-Univitatia son el grupo más grande asociado con (43:7.4-5)
-utilizar materiales vivos para representar ideas (43:6.7)
-trabajar bajo los ángeles del progreso en Urantia (44:8.1)
+destino
+	Los Serafines pueden alcanzar el Paraíso mediante el servicio especializado como artesano celestial (39:8.3)
 
-seres celestiales | | criaturas | ORDER | 
+seres celestiales | | criaturas | ORDER | OK
 
-Guardianes Celestiales | | | ORDER | 
-cariñosos, leales, humildes y sumamente sabios con respecto al concepto que personifican (22:10.8)
-aprehender agentes de Ancianos de los Días (22:9.4)
-son personificación de algún ideal universal único (22:10.2)
-asistido por mortales fusionados con el Hijo (22:9.3)
-asistido por mortales fusionados con el Espíritu (22:9.4) (40:10.9)
-llevar a cabo trabajos de rutina en los sectores mayor y menor (18:4.4-5) (22:9.3)
-mensajeros de la corte, portadores de citaciones y decisiones (22:9.4)
-tratar con individuos, no con grupos (22:5.6)
-en el grupo Hijos de la Perfección Trinitizados (22:9.7)
-en el registro de personalidad de Uversa (30:2.60)
-no habitado por Ajustadores (22:9.5)
-número 7 mil millones (22:9.3)
-de desempeño menos distinguido que High Son Assistants (22:9.1)
-Presentar mortales fusionados con el Espíritu a Ancianos de los Días (40:10.9)
-Finalista abrazado por la Trinidad e hijos trinitizados por Paraíso-Havona (18:4.4) (22:1.12) (22:9.1)
-Los Hijos Instructores Trinitarios asignan (22:9.1)
+Guardianes Celestiales | | | ORDER | OK
+Son conmovedoramente afectuosos, magníficamente leales, exquisitamente inteligentes, supremamente sabios con respecto al concepto que personifican (22:10.8)
+Son los agentes de los Ancianos de los Días encargados de los arrestos; salen de Uversa para traer a los seres cuya presencia se necesita ante los jueces de los superuniversos; ejecutan las órdenes de detener a cualquier personalidad en el superuniverso. (22:9.4)
+Son la encarnación personificada de alguna idea divina, de algún ideal universal, que nunca antes había sido concebido, expresado o trinitizado. (22:10.2)
+están asistidos por mortales ascendentes fusionados con el Hijo (22:9.3)
+también están asistidos por mortales fusionados con el Espíritu (22:9.4) (40:10.9)
+llevan a cabo trabajos de rutina en los sectores mayor y menor (18:4.4-5) (22:9.3)
+Los Guardianes Celestiales son los funcionarios de los tribunales de los Ancianos de los Días, actuando como mensajeros judiciales y como portadores de las citaciones y de las decisiones de los diversos tribunales de los gobiernos superuniversales. (22:9.4)
+tratan con individuos, no con grupos (22:5.6)
+se cuentan en el grupo Hijos de la Perfección Trinitizados, seres abrazados por la Trinidad del Paraíso (22:9.7)
+aparecen en el registro de personalidades de Uversa (30:2.60)
+nunca han sido habitados por Ajustadores. (22:9.5)
+existen cerca de 7 mil millones de ellos (22:9.3)
+su actuación es menos distinguida que la de los Ayudantes de los Hijos Elevados (22:9.1)
+Presentan a los mortales fusionados con el Espíritu ante los Ancianos de los Días, asumiéndolos como pupilos en el superuniverso (40:10.9)
+Los Guardianes Celestiales y sus coordinados, los Ayudantes de los Hijos Elevados, componen un grupo único de personalidades dos veces trinitizadas. Son los hijos trinitizados por las criaturas y a veces son trinitizados de nuevo por la Trinidad del Paraíso (18:4.4) (22:1.12) (22:9.1)
+Los Hijos Instructores Trinitarios son quienes asignan a los Guardianes Celestiales a los superuniversos (22:9.1)
 
-influencias celestiales | | influencias espirituales | | 
+influencias celestiales | | influencias espirituales | | OK
 
-Músicos Celestiales; músicos celestiales | (44:1.1-15) | Artesanos Celestiales | ORDER | 
-Artesanos Celestiales (44:1.1-15)
+Músicos Celestiales; músicos celestiales | (44:1.1-15) | Artesanos Celestiales | ORDER | OK
+Los Músicos Celestiales son un subtipo de los Artesanos Celestiales (44:1.1-15)
 
 Supervisores Celestiales | (37:6) | | ORDER | 
 en el grupo Ayudantes del Universo (37:1.7)
