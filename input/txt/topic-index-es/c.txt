@@ -590,33 +590,33 @@ influencias celestiales | | influencias espirituales | | OK
 Músicos Celestiales; músicos celestiales | (44:1.1-15) | Artesanos Celestiales | ORDER | OK
 Los Músicos Celestiales son un subtipo de los Artesanos Celestiales (44:1.1-15)
 
-Supervisores Celestiales | (37:6) | | ORDER | 
-en el grupo Ayudantes del Universo (37:1.7)
-en el registro de personalidad de Uversa (30:2.146)
-la mayoría de los mortales servirán como (37:6.7)
-educadores voluntarios; número 3 millones en Nebadon (37:6.1)
+Supervisores Celestiales | (37:6) | | ORDER | OK
+Los Supervisores Celestiales forman parte del grupo de Ayudantes del Universo (37:1.7)
+aparecen nombrados en el registro de personalidades de Uversa (30:2.146)
+Antes de dejar el universo de Nebadon, la mayoría de los mortales de Urantia recibirán la oportunidad de servir durante un período más o menos largo como miembros del cuerpo de los Supervisores Celestiales de Nebadon. (37:6.7)
+Hay más de tres millones de ellos en Nebadon, y todos son voluntarios que se han cualificado por experiencia para servir como asesores educativos en todo el reino. (37:6.1)
 
-Registradores Celestiales | (25:6) | | ORDER | 
-Los Custodios de los Registros sirven como jefes de (25:5.4) (25:6.1)
-en el registro de personalidad de Uversa (30:2.79)
-hacer registros espirituales originales, contrapartes semimateriales (25:6.1)
-no puede transferir fuera de su orden (25:6.5)
-Mighty Messengers certifica la exactitud de los registros (25:6.3)
-ninguno se ha descarriado jamás (25:6.3) (53:7.5)
-el número 75 en Nebadon; 8 millones en Uversa (25:6.4) (37:8.8)
-seleccionado de Serafines ascendentes (25:6.1) (37:8.8)
-Los Serafines pueden alcanzar el Paraíso mediante el servicio (39:8.3)
-patrocinar el mantenimiento de registros seráficos del superuniverso (27:5.4)
-entrenado por Consejeros Divinos y Perfectores de la Sabiduría (25:6.1)
+Registradores Celestiales | (25:6) | | ORDER | OK
+Los Registradores Celestiales son los registradores que realizan todas las anotaciones por duplicado, efectuando un registro espiritual original y una contrapartida semimaterial (25:6.1)
+Los Registradores Celestiales no son creados como tales; son serafines ascendentes de los universos locales. (25:6.1) (37:8.8)
+Los Custodios de los Archivos sirven como sus jefes (25:5.4) (25:6.1)
+El cuerpo de los Registradores Celestiales es un destino permanente, son enrolados en estos servicios hasta el futuro distante (25:6.5)
+nunca se ha descubierto una falsificación en sus registros pues son examinados a fondo por sus eminentes compañeros de Uversa y por los Mensajeros Poderosos, los cuales certifican la exactitud de las copias. (25:6.3)
+ninguno se ha descarriado ni ha desertado jamás (25:6.3) (53:7.5)
+En Nebadon hay 75 registradores supervisores o más antiguos; en toda Uversa hay 8 millones (25:6.4) (37:8.8)
+Los Serafines pueden alcanzar el Paraíso mediante el servicio como Registradores Celestiales (39:8.3)
+Los Registradores Celestiales patrocinan el mantenimiento de los registros seráficos del superuniverso (27:5.4)
+son entrenados por los Consejeros Divinos y los Perfectores de la Sabiduría (25:6.1)
+aparecen en el registro de personalidad de Uversa (30:2.79)
 
-Órdenes célibes; celibato | | castración | | 
-mantenido por individuos que carecen de impulsos sexuales normales (82:3.9)
-la bajeza percibida de la mujer fue la razón principal para (84:4.4)
+Órdenes célibes; celibato | | castración | | OK
+el celibato fue creado y mantenido por individuos que carecían de impulsos sexuales normales (82:3.9)
+Entre las razones que se alegaban a favor del celibato de los sacerdotes, la principal era la bajeza de la mujer. (84:4.4)
 
-células | | | | 
-curación de secreciones cuando se lesiona (65:4.3-6)
-células humanas similar a los organismos productores de enfermedades (76:4.7)
-la célula protoplásmica es la unidad biológica de la vida material (49:1.2)
+células | | | | OK
+las células lesionadas empiezan inmediatamente a secretar ciertas sustancias que facilitan los procesos curativos de la herida (65:4.3-6)
+las células humanas son similares a los organismos vivientes microscópicos y ultramicroscópicos que producen enfermedades (76:4.7)
+La unidad biológica de la vida material es la célula protoplásmica, la asociación colectiva de las energías químicas, eléctricas y otras energías básicas. (49:1.2)
 
 Celsus | | | PERSON | OK
 Celsus fue un creyente de Jesús en Cesarea de Filipo (157:3.7) (157:4.1) (157:6.1)
@@ -626,83 +626,74 @@ Celta | | | PERSON | OK
 Celta era hija de un centurión romano; formó parte del cuerpo de doce mujeres evangelistas (150:1.1)
 estuvo presente en la décimo sexta aparición de Jesús (193:0)
 
-cementerio | | | | 
-víctimas de la crucifixión no enterradas en un cementerio judío (188:1.2)
-El lunático de Jeresa vivió en (151:6.2)
+cementerio | | | | OK
+Una persona crucificada no podía ser enterrada en un cementerio judío; había una ley que prohibía estrictamente esta manera de proceder. (188:1.2)
+El lunático de Jeresa vivió en las cuevas del cementerio (151:6.2)
 
-Cenozoico | | edades geológicas | | 
-era de los mamíferos, desde hace 50 millones de años hasta el presente (59:0.6) (61:0.2) (61:7.19)
+Cenozoico; época cenozoica; Cenozoica | | edades geológicas | | OK
+el Cenozoico fue de los mamíferos, desde hace 50 millones de años hasta el presente (59:0.6) (61:0.2) (61:7.19)
+> https://es.wikipedia.org/wiki/Era_cenozoica
 
-censura | | divulgación | | 
-Borrado de 14 millas en el panorama de Jerusem (46:5.23)
-todo lo oculto será revelado (150:4.2) (151:3.1) (165:3.2-3)
-registros de los Registradores Celestiales abiertos a todos (25:6.2)
-de material difundido por Artesanos Celestiales (44:4.9)
+censura; censores | | divulgación | | OK
+información oculta
+	los Artesanos Celestiales llamados directores de las transmisiones se encargan de censurar y adaptar las transmisiones del Paraíso (44:4.9)
+	la representación panorámica de la historia del sistema que hay en Jerusem tiene borradas 2 millas estándar, es decir 22km (46:8.1)
+nada oculto para siempre
+	no hay nada que ahora esté oculto que no pueda ser revelado. (150:4.2) (151:3.1) (165:3.2-3)
+	los registros de los Registradores Celestiales siempre están abiertos a todos (25:6.2)
 
-censo | | | | 
-los antiguos se oponían a la toma (88:1.6)
-César Augusto decretó un censo en el 8 a.C.; los judíos en contra (122:7.1)
-José registrado en Belén (122:4.3)
+censo; empadronamiento | | | | OK
+los antiguos siempre se opusieron al empadronamiento, a «contar al pueblo». Se consideraba que el hecho de contar el ganado u otras posesiones traía mala suerte. (88:1.6)
+César Augusto decretó un censo en el 8 a.C. Los judíos siempre habían estado enormemente predispuestos contra cualquier intento por «contar al pueblo» (122:7.1)
+José fue a Belén, la ciudad de David, para registrarse en el censo romano, porque un antepasado paterno de José huérfano había sido adoptado por un descendiente de David. (122:4.3)
 
-Directores del Censo | (24:2) | | ORDER | 
-1 estacionado en la capital de cada universo local (24:2.4)
-1 estacionado en cada circuito de Havona (24:2.3)
+Directores del Censo; Director del Censo | (24:2) | | ORDER | OK
+Un Directores del Censo está estacionado en la capital de cada universo local (24:2.4)
+Otro está estacionado en cada circuito de Havona (24:2.3)
 son personas con forma espiritual reconocible (24:2.9)
-puede dar el número, la naturaleza, el nacimiento, la muerte y el paradero de todas las criaturas volitivas (24:2.2,7,8)
-sede en capitales superuniversales; reservas en los mundos del Paraíso del Espíritu (24:0.10) (24:2.3)
-en registros de personalidad (30:1.73) (30:2.69)
-infalible (24:2.9)
-no preocupado por las vidas y los hechos individuales (24:2.7)
-sincronizar perfectamente con la reflectividad del superuniverso (24:2.2)
+son sensible y reactivos a la voluntad. Son siempre capaces de indicarnos el número, la naturaleza y el paradero de todas las criaturas volitivas en cualquier parte de la creación central y de los siete superuniversos (24:2.2,7,8)
+tienen su sede en capitales superuniversales; sus reservas se encuentran en los mundos paradisiacos del Espíritu (24:0.10) (24:2.3)
+en su actividad son infalibles; no fallan nunca ni tampoco falsifican (24:2.9)
+No se ocupan de la historia de vuestra vida ni de vuestras obras; no son en ningún sentido unas personalidades que registran. (24:2.7)
+Son creados de tal manera que pueden mantener un sincronismo perfecto con la técnica de la reflectividad de los superuniversos (24:2.2)
 Poseen una enorme dotación de antigravedad (24:0.10)
-Salsatia es directora del censo de Nebadon (24:2.7) (37:8.4)
-creación especial completada del Espíritu Infinito (24:2.2)
-Usatia es la jefa de Orvonton (24:2.5)
+Salsatia es el Director del Censo de Nebadon y mantiene su sede en Salvington dentro del sector de Gabriel (24:2.7) (37:8.4)
+Los Directores del Censo son una creación especial y concluida del Espíritu Infinito, y no conocemos el número que existe de ellos. (24:2.2)
+Usatia es el jefe superuniversal de todos los directores de Orvonton (24:2.5)
+aparecen en los registros de personalidad (30:1.73) (30:2.69)
 
-centauros | | | | 
-antiguos objetos de adoración (85:3.2)
+centauros | | | | OK
+las criaturas que eran consideradas como mitad humanas y mitad animales, tales como los centauros, fueron antiguos objetos de adoración (85:3.2)
 
-Centro de Centros | | Padre Universal | PERSON | 
+Centro de Centros | | Padre Universal | PERSON | OK
 
-ciempiés | (65:2.5) | | | 
+ciempiés | (65:2.5) | | | OK
 
-Centroamérica; América Central | | | PLACE | 
-la raza naranja-azul amalgamada migró a (64:7.5)
-raza predominantemente roja pero también amarilla, naranja, azul (79:5.8)
+Centroamérica; América Central | | | PLACE | OK
+una raza naranja-azul amalgamada migró a Méjico y América Central (64:7.5)
+En Méjico, en América Central y en las montañas de América del Sur, las civilizaciones más duraderas fueron fundadas por una raza predominantemente roja, pero que contenía una mezcla considerable de componentes amarillos, anaranjados y azules. (79:5.8)
+> https://es.wikipedia.org/wiki/América_Central
 
-universo central | | Havona | PLACE | 
+universo central | | Havona | PLACE | OK
 
-centuriones | | romanos:nombrado | | 
+centuriones | | romanos:nombrado | | OK
 
-cefalópodos | (59:2.11) (59:3.5, 8) (60:1.13) | moluscos | | 
+cefalópodos | (59:2.11) (59:3.5, 8) (60:1.13) | moluscos | | OK
 
-cereales | | | | 
-abundante en el Cretácico (60:3.19)
+cereales | | | | OK
+los cereales abundaron en el Cretácico (60:3.19)
 
-ceremonias | | cultos; religión; tradiciones | | 
-lo antiguo es supuestamente sagrado (92:2.2)
-	gente común asombrada por el ritual en lengua antigua (90:5.6)
-	el gesto, más antiguo que el habla, es más sagrado, mágico (88:6.4)
-	magia practicada con ritual (88:6.1)
-	formas actuales basadas en la propiciación antigua (89:4.7)
-el bautismo era la profesión pública de entrar en el reino (144:6.7-9) (144:8.5)
-breve relato de la evolución de (90:0.1)
-ceremonia inducida por Josías (164:3.14)
-agencia deletérea de la religión (91:5.6)
-falso progreso de atravesar círculos sin sentido de (147:5.8)
-en Roma, la mitad del año desperdiciado en (87:3.4)
-Jesús
-	abrogado toda ceremonia no refleja una relación familiar íntima (103:4.4) (166:1.2) (190:2.4)
-	antagonismo con las ceremonias judías siempre positivo (147:6.6)
-	bautismo (136:2.3)
-	no participó en ceremonias de sacrificios (179:0.3)
-	ordenación de apóstoles, los setenta (140:9) (163)
-	Cena de recuerdo solamente ceremonia Jesús estableció (179:5.4-5)
-	resentido aquellos que tergiversan al Padre (127:6.6)
-	solía dar gracias antes de comer (143:3.4)
-	lavarse las manos solo para la limpieza (166:1.2) (167:1.3) (179:3.1)
-sin obligación de aceptar gastado ceremonias (155:6.5-7)
-el intento del hombre primitivo de controlar el mundo material (90:3.1-2)
+ceremonias; ceremonia; formalidad  | | cultos; religión; tradiciones | | 
+la evolución de las prácticas religiosas progresó desde el apaciguamiento, la evitación, el exorcismo, la coacción, la conciliación y la propiciación hasta el sacrificio, la expiación y la redención (90:0.1)
+La oración es la técnica por la cual toda religión se convierte tarde o temprano en una institución. Y con el tiempo, la oración se asocia a cosas perjudiciales como las ceremonias (91:5.6)
+lo antiguo es sagrado
+	La religión se aferra a las costumbres; aquello que era es antiguo y supuestamente sagrado. (92:2.2)
+	Los sacerdotes siempre han intentado impresionar y atemorizar a la gente corriente, dirigiendo el ritual religioso en una lengua muerta y haciendo diversos pases mágicos (90:5.6)
+	Como los gestos eran más antiguos que el habla, eran más sagrados y mágicos, y se creía que la mímica poseía un fuerte poder mágico. (88:6.4)
+	La magia se practicaba mediante la utilización de varitas, rituales «medicinales» y conjuros, y el curandero tenía la costumbre de trabajar desnudo. (88:6.1)
+	Las formas actuales de adoración son simplemente la ritualización de estas antiguas técnicas sacrificatorias de la propiciación positiva. (89:4.7)
+Roma
+	Los romanos tenían cada año doce fiestas para los fantasmas, con sus ceremonias correspondientes. La mitad de los días del año estaba dedicada a algún tipo de ceremonia. Eso era la mitad del año desperdiciado en ceremonias (87:3.4)
 ceremonias de purificación
 	después del parto (84:4.6) (122:9.1) (122:10.2)
 	después del contacto con los muertos (87:1.4)
@@ -713,6 +704,21 @@ ceremonias de purificación
 	Los fariseos observaron escrupulosamente (166:1.7-10)
 	El personal del Príncipe incluyó la limpieza con agua como parte de (66:5.21)
 	ritos para la remisión del pecado (89:2.5)
+Jesús
+	el bautismo era la profesión pública para entrar en el reino (144:6.7-9) (144:8.5)
+	Jesús tuvo que introducir en su milagro cierta ceremonia para inducir al ciego Josías a que actuara, porque su fe era pequeña (164:3.14)
+	los fariseos estaban ocupados en el falso progreso de la ilusión de atravesar los círculos engañosos de los servicios ceremoniales sin sentido (147:5.8)
+	Jesús suprimió todas las ceremonias de sacrificios y de expiación. Abolió para siempre todas las ceremonias que no formen parte legítima de la relación familiar íntima entre Dios y sus hijos (103:4.4) (166:1.2) (190:2.4)
+	El antagonismo de Jesús hacia las tradiciones judías y los ceremoniales serviles era siempre positivo. (147:6.6)
+	el bautismo de Jesús fue la ceremonia del acto final de su vida puramente humana en Urantia (136:2.3)
+	Los apóstoles sabían que Jesús había celebrado otras Pascuas sin cordero; sabían que no participaba personalmente en ningún oficio del sistema judío que incluyera sacrificios. (179:0.3)
+	la ceremonia de ordenación, que Jesús la efectuó dos veces, con los apóstoles y los setenta, consistía en imponer las manos sobre la cabeza mientras los ordenados permanecían arrodillados en círculo a su alrededor (140:9) (163)
+	La cena del recuerdo fue la única ceremonia o sacramento que Jesús estableció e instituyó pero sin pretender establecer una práctica precisa sino sugerir significados (179:5.4-5)
+	Jesús en ocasiones se rebelaba contra la tradición, contra aquellas prácticas ceremoniales que consideraba que representaban falsamente a su Padre celestial (127:6.6)
+	solía dar gracias antes de comer pero sin obsesión, alguna vez se le olvidó (143:3.4)
+	Jesús sólo se lavaba las manos con fines higiénicos, y detestaba las prácticas puramente ceremoniale (166:1.2) (167:1.3) (179:3.1)
+sin obligación de aceptar gastado ceremonias (155:6.5-7)
+el intento del hombre primitivo de controlar el mundo material (90:3.1-2)
 requieren un espacio social para gratificar la vanidad (68:2.10)
 ritual rodeó toda la vida de los antiguos (83:4.2)
 
