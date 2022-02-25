@@ -683,27 +683,30 @@ cefalópodos | (59:2.11) (59:3.5, 8) (60:1.13) | moluscos | | OK
 cereales | | | | OK
 los cereales abundaron en el Cretácico (60:3.19)
 
-ceremonias; ceremonia; formalidad  | | cultos; religión; tradiciones | | 
+ceremonias; ceremonia; formalidad; ceremoniales  | | cultos; religión; tradiciones | | OK
 la evolución de las prácticas religiosas progresó desde el apaciguamiento, la evitación, el exorcismo, la coacción, la conciliación y la propiciación hasta el sacrificio, la expiación y la redención (90:0.1)
 La oración es la técnica por la cual toda religión se convierte tarde o temprano en una institución. Y con el tiempo, la oración se asocia a cosas perjudiciales como las ceremonias (91:5.6)
 lo antiguo es sagrado
 	La religión se aferra a las costumbres; aquello que era es antiguo y supuestamente sagrado. (92:2.2)
 	Los sacerdotes siempre han intentado impresionar y atemorizar a la gente corriente, dirigiendo el ritual religioso en una lengua muerta y haciendo diversos pases mágicos (90:5.6)
 	Como los gestos eran más antiguos que el habla, eran más sagrados y mágicos, y se creía que la mímica poseía un fuerte poder mágico. (88:6.4)
+	A la vanidad se le unieron otras emociones que necesitaban un campo social donde exhibirse y que dieron lugar a los ceremoniales (68:2.10)
 	La magia se practicaba mediante la utilización de varitas, rituales «medicinales» y conjuros, y el curandero tenía la costumbre de trabajar desnudo. (88:6.1)
+	Toda la vida de los antiguos estaba rodeada de magia, de rituales y de ceremonias. (83:4.2)
+	Las ceremonias del culto eran las tentativas del hombre primitivo por controlar el mundo material en el cual se encontraba. (90:3.1-2)
 	Las formas actuales de adoración son simplemente la ritualización de estas antiguas técnicas sacrificatorias de la propiciación positiva. (89:4.7)
 Roma
 	Los romanos tenían cada año doce fiestas para los fantasmas, con sus ceremonias correspondientes. La mitad de los días del año estaba dedicada a algún tipo de ceremonia. Eso era la mitad del año desperdiciado en ceremonias (87:3.4)
 ceremonias de purificación
-	después del parto (84:4.6) (122:9.1) (122:10.2)
-	después del contacto con los muertos (87:1.4)
-	después de curarse de la lepra (166:2.4)
-	en bodas (137:4.11)
-	evolución de (90:5.3) (92:3.2)
-	si el judío entraba en un edificio gentil antes de la Pascua (185:0.3-4)
-	Los fariseos observaron escrupulosamente (166:1.7-10)
-	El personal del Príncipe incluyó la limpieza con agua como parte de (66:5.21)
-	ritos para la remisión del pecado (89:2.5)
+	En otros tiempos se consideraba que la maternidad volvía impura a una mujer. Las madres debían pasar por largas ceremonias de purificación después del nacimiento de un hijo. (84:4.6) (122:9.1) (122:10.2)
+	todos los pueblos han empleado complicadas ceremonias de purificación destinadas a limpiar a los individuos después del contacto con los muertos. (87:1.4)
+	la ley de Moisés exigía que después de curarse de la lepra los curados debían acudir a los sacerdotes para confirmar su curación (166:2.4)
+	en las bodas se usaba abundante agua destinada a las ceremonias finales de purificación de la celebración matrimonial. (137:4.11)
+	Las palabras se volvieron una parte del ritual. Los rituales se convirtieron después en complicadas ceremonias de purificación, limpieza y santificación. El ritual se convirtió finalmente en los tipos modernos de ceremonias sociales y de cultos religiosos. (90:5.3) (92:3.2)
+	si un judío entraba en un edificio gentil antes de la Pascua se volvía ceremonialmente impuro, privándole de participar en la fiesta y requiriendo una ceremonia de purificación (185:0.3-4)
+	Los fariseos observaban escrupulosamente las reglas de purificación (166:1.7-10)
+	El personal del Príncipe incluyó las abluciones como parte de las ceremonias de purificación (66:5.21)
+	los ritos para la remisión del pecado eran originalmente rituales de purificación (89:2.5)
 Jesús
 	el bautismo era la profesión pública para entrar en el reino (144:6.7-9) (144:8.5)
 	Jesús tuvo que introducir en su milagro cierta ceremonia para inducir al ciego Josías a que actuara, porque su fe era pequeña (164:3.14)
@@ -717,58 +720,61 @@ Jesús
 	Jesús en ocasiones se rebelaba contra la tradición, contra aquellas prácticas ceremoniales que consideraba que representaban falsamente a su Padre celestial (127:6.6)
 	solía dar gracias antes de comer pero sin obsesión, alguna vez se le olvidó (143:3.4)
 	Jesús sólo se lavaba las manos con fines higiénicos, y detestaba las prácticas puramente ceremoniale (166:1.2) (167:1.3) (179:3.1)
-sin obligación de aceptar gastado ceremonias (155:6.5-7)
-el intento del hombre primitivo de controlar el mundo material (90:3.1-2)
-requieren un espacio social para gratificar la vanidad (68:2.10)
-ritual rodeó toda la vida de los antiguos (83:4.2)
+	Jesús proclamó que para entrar en el reino de los cielos no hay obligación de ultrajar nuestro sentido de la justicia aceptando un sistema anticuado de ceremonias (155:6.5-7)
 
-certeza | | seguridad; paz | | 
-Las convicciones de la experiencia religiosa son inexpugnables (103:9.12)
-no teme el análisis externo (146:3.2)
-los fetichistas se cree que son infalibles (88:1.10)
-Dios más real que nuestros semejantes (16:9.4)
-en ciencia, filosofía y experiencia religiosa (196:3.5)
-dejar que se desarrolle la presión certeza (48:6.35)
-del religioso que conoce a Dios (103:8.5)
-en el nivel espiritual, la necesidad de pruebas desaparece antes de experimentar la realidad (103:7.10)
-algunos religiosos creen que tienen la Verdad infalible (92:3.4)
-inalcanzable en estado mortal (103:7.10)
-	se extiende solo en la medida en que la experiencia personal de uno (2:7.2)
-	ninguno en conocimiento, solo probabilidad creciente (102:2.4)
+certeza; certidumbre | | seguridad; paz | | OK
+la certeza en las religiones dogmáticas
+	Se creía que un hombre fetiche era más que humano; era divino, e incluso infalible. (88:1.10)
+	algunos religiosos creen que tienen la Verdad infalible. La religión no prevé llevar a cabo cambios o revisiones, no asegura su propia corrección (92:3.4)
+	En el estado mortal no hay nada que se pueda probar de manera absoluta; tanto la ciencia como la religión están basadas en suposiciones. (103:7.10)
+la certidumbre espiritual
+	Existe una realidad, en la experiencia religiosa, que es proporcional a su contenido espiritual y trasciende todos los logros humanos. Las convicciones de esta experiencia religiosa son inexpugnables; la certidumbre de este conocimiento es superhumana (103:9.12)
+	La certidumbre interior verdadera y auténtica no teme en absoluto el análisis exterior, ni la verdad se resiente por una crítica honesta. (146:3.2)
+	La certidumbre física consiste en la lógica de la ciencia; la certidumbre moral, en la sabiduría de la filosofía; la certidumbre espiritual, en la verdad de la experiencia religiosa auténtica. (196:3.5)
+	aprenderemos a dejar que la presión se desarrolle en estabilidad y certeza; a aceptar los desafíos y enfrentarnos a las dificultades (48:6.35)
+	La certidumbre de la persona religiosa que conoce a Dios no debería alterarse por la incertidumbre de los materialistas incrédulos; la fe profunda y la certeza inquebrantable del creyente experiencial son más bien las que deberían constituir un poderoso desafío para la incertidumbre del no creyente. (103:8.5)
+	en el nivel espiritual, la necesidad de pruebas materiales se desvanece gradualmente ante la experiencia efectiva de la realidad (103:7.10)
+	la certeza se extiende solo en la medida de lo que alcanza la experiencia personal de cada uno (2:7.2)
+	El conocimiento por sí solo nunca puede proporcionar una certeza absoluta, sino únicamente una probabilidad aproximada creciente; pero el alma religiosa espiritualmente iluminada sabe, y sabe ahora. (102:2.4)
 	nada de lo que la naturaleza humana toca es infalible (159:4.8)
-tenemos derecho a estar más seguros acerca de Dios (102:7.10)
+la certeza de Dios
+	Dios es la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más afectuoso de todos los amigos y el más divino de todos los valores; de Dios tenemos derecho a estar más seguros que de cualquier otra experiencia universal. (102:7.10)
+	podemos estar más absolutamente seguros de la realidad de la presencia de Dios que vive dentro de nosotros que de la realidad de un compañero humano. (16:9.4)
 
-Ceilán | | | PLACE | 
-Asoka estableció el budismo en (94:9.1)
-El budismo Hinayana persistió en (94:9.4)
-los saharauis menos progresistas emigraron a (80:2.2)
+Ceilán | | | PLACE | OK
+Asoka estableció el budismo en Ceilán (94:9.1)
+El budismo Hinayana persistió allí, la rama que se aferra a la doctrina primitiva o asocial (94:9.4)
+los saharauis menos progresistas emigraron a Arabia y desde allí, a través del norte de Mesopotamia y la India, hasta la lejana Ceilán (80:2.2)
+> https://es.wikipedia.org/wiki/Sri_Lanka
 
-caldeos | | | RACE | 
-Semitas orientales avanzados (96:2.1)
-entre los primeros en abandonar el sacrificio humano (89:6.2)
-matrimonio monógamo favorecido (83:6.3)
-cultistas de estrellas; vio las estrellas como causa de sufrimiento (85:5.1-2) (90:3.8)
+caldeos; tribus caldeas | | | RACE | OK
+Los caldeos cercanos a Ur figuraban entre los semitas orientales más avanzados. (96:2.1)
+Los caldeos fueron de los primeros que abandonaron los sacrificios humanos en circunstancias corrientes, sustituyéndolos por animales (89:6.2)
+Las tribus caldeas reconocían el derecho que tenía una esposa de imponer a su marido la promesa prenupcial de que no tomaría una segunda esposa o una concubina. (83:6.3)
+fueron adeptos al culto a las estrellas, y pensaban que eran hijos del padre cielo y de la madre Tierra. Los caldeos colocaban al Sol en el centro de «los siete círculos del universo». También estimaban que las estrellas eran la causa del sufrimiento (85:5.1-2) (90:3.8)
+> https://es.wikipedia.org/wiki/Caldea
 
-tiza | (60:3-4) (61:1.13) | | | 
+tiza | (60:3-4) (61:1.13) | | | OK
 
-desafíos | | conflicto; dificultades; oportunidades; perspectiva; resolución de problemas; sufrimiento | | 
-aceptar sin quejarse (48:6.35)
-5 meses de prueba de los apóstoles (138:9)
-la vida mortal es una prueba corta e intensa (14:5.1)
-Estimular a los verdaderos creyentes (48:7.7)
+desafíos; desafío | | conflicto; dificultades; oportunidades; perspectiva; resolución de problemas; sufrimiento | | OK
+debemos aceptar los desafíos sin quejarnos y a enfrentarnos con las dificultades y las incertidumbres sin temor (48:6.35)
+los cinco meses de prueba de los apóstoles en que pescaron y trabajaron como predicadores resultó ser agotadora pero provocó un amor y fidelidad a Jesús por encima de todo (138:9)
+la vida mortal es una prueba corta e intensa, pero hay muchas otras etapas de prueba en la existencia futura (14:5.1)
+Las dificultades pueden desafiar a la mediocridad y derrotar a los temerosos, pero no hacen más que estimular a los verdaderos hijos de los Altísimos. (48:7.7)
 el gran desafío
-	para lograr una mejor comunicación con el Ajustador (196:3.34)
-	para construir una nueva y atractiva filosofía de vida (2:7.10)
-	hacer una contribución personal a Supreme (117:4.10)
+	El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana. (196:3.34)
+	El desafío religioso de la época actual es que hombres y mujeres con visión de futuro y perspicacia espiritual construyan una nueva y atrayente filosofía de la vida (2:7.10)
+	El gran desafío que ha sido lanzado a los hombres mortales es el siguiente: ¿Decidiréis personalizar en vuestra propia individualidad evolutiva los significados válidos del cosmos o permitiréis que sean otros los que hagan una contribución personal al Supremo? (117:4.10)
 
-cámara de la piedra labrada (Jerusalén) | | | | 
-Lugar de reunión del sanedrín (173:1.5) (184:3.2) (186:1.1)
+cámara de las piedras labradas (Jerusalén); cámara de piedras labradas | | | | OK
+la cámara de las piedras labradas era el lugar de reunión del sanedrín (173:1.5) (184:3.2) (186:1.1)
+> https://en.wikipedia.org/wiki/Hall_of_Hewn_Stones
 
-azar | (86:1) | juegos de azar; suerte | | 
-50.000 hechos prueban que la evolución es incompatible con el azar (58:​​2.3-4)
-creído revelador de la voluntad de los espíritus (90:2.4)
-personificación de (86:2)
-significa ignorancia o indolencia al determinar las causas (86:2.5)
+azar; casualidad | (86:1) | juegos de azar; suerte | | OK
+existen 50.000 hechos que prueban que la evolución es incompatible con el azar (58:2.3-4)
+Los chamanes creían profundamente en la misión de la casualidad como reveladora de la voluntad de los espíritus; con frecuencia lo echaban a suertes para llegar a una decisión. (90:2.4)
+El salvaje se esfuerza por personalizar todo lo que es intangible y abstracto, y así es como la naturaleza y la casualidad fueron personalizadas como fantasmas —espíritus— y más tarde como dioses. (86:2)
+continuar atribuyendo las cosas difíciles de comprender a las causas sobrenaturales no es más que una manera perezosa y cómoda de evitar todas las formas de esfuerzo intelectual. La suerte es simplemente un término acuñado para abarcar lo inexplicable (86:2.5)
 
 Chang | | | PERSON | OK
 Chang fue un comerciante chino con el que Jesús tuvo una conversación en Corinto (133:4.9)

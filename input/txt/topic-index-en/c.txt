@@ -683,27 +683,30 @@ cephalopods | (59:2.11) (59:3.5, 8) (60:1.13) | mollusks | | OK
 cereals | | | | OK
 cereals were abundant in Cretaceous (60:3.19)
 
-ceremonies; ceremony; ceremonials; formalities | | cults; religion; traditions | | 
+ceremonies; ceremony; ceremonials; formalities; ceremonial | | cults; religion; traditions | | OK
 The evolution of religious observances progressed from placation, avoidance, exorcism, coercion, conciliation, and propitiation to sacrifice, atonement, and redemption. (90:0.1)
 Prayer is the technique whereby, sooner or later, every religion becomes institutionalized. And in time prayer becomes associated with deleterious agencies as ceremonials (91:5.6)
 ancient is sacred
 	Religion clings to the mores; that which was is ancient and supposedly sacred. (92:2.2)
 	The priests have always sought to impress and awe the common people by conducting the religious ritual in an ancient tongue and by sundry magical passes (90:5.6)
 	Gesture, being older than speech, was the more holy and magical, and mimicry was believed to have strong magical power. (88:6.4)
+	vanity associated with itself other emotions which required a social arena wherein they might exhibit themselves and they gave birth to ceremonials. (68:2.10)
 	Magic was practiced through the use of wands, “medicine” ritual, and incantations, and it was customary for the practitioner to work unclothed. (88:6.1)
+	Magic, ritual, and ceremony surrounded the entire life of the ancients. (83:4.2)
+	The ceremonies of the cult were primitive man’s attempt to control the material world in which he found himself. (90:3.1-2)
 	Present-day forms of worship are simply the ritualization of these ancient sacrificial techniques of positive propitiation. (89:4.7)
 Rome
 	The Romans had twelve ghost feasts and accompanying ceremonies each year. Half the days of the year were dedicated to some sort of ceremony. That was half the year wasted on ceremonies (87:3.4)
 purification ceremonies
-	after childbirth (84:4.6) (122:9.1) (122:10.2)
-	after contact with the dead (87:1.4)
-	after healing from leprosy (166:2.4)
-	at weddings (137:4.11)
-	evolution of (90:5.3) (92:3.2)
-	if Jew entered gentile building before Passover (185:0.3-4)
-	Pharisees scrupulously observed (166:1.7-10)
-	Prince’s staff included water cleansing as part of (66:5.21)
-	rites for remission of sin (89:2.5)
+	Childbearing was once looked upon as rendering a woman unclean. Mothers must undergo extensive purification ceremonies subsequent to the birth of a child. (84:4.6) (122:9.1) (122:10.2)
+	all peoples have employed elaborate purification ceremonies designed to cleanse an individual after contact with the dead. (87:1.4)
+	the law of Moses required that after being healed of leprosy those cured should go to the priests to confirm their cure (166:2.4)
+	at weddings abundant water was used in the final purification ceremonies of the wedding celebration. (137:4.11)
+	Words become a part of ritual. The ritual next grew into elaborate ceremonies of purification, cleansing, and sanctification. Ritual finally developed into the modern types of social ceremonials and religious worship. (90:5.3) (92:3.2)
+	if a Jew entered a gentile building before Passover that would render him ceremonially unclean, debarring from partaking of the feast and requiring a purification ceremony (185:0.3-4)
+	Pharisees scrupulously observed the laws of purification (166:1.7-10)
+	Prince’s staff included water cleansing as part of purification ceremonies (66:5.21)
+	rites for remission of sin were originally purification rituals (89:2.5)
 Jesus
 	baptism was public profession for entering kingdom (144:6.7-9) (144:8.5)
 	Jesus had to introduce into his miracle a certain ceremony to induce blind Josiah to act, because his faith was slight. (164:3.14)
@@ -717,58 +720,61 @@ Jesus
 	Jesus sometimes rebelled against tradition, resented for those ceremonial practices which he deemed misrepresentative of his Father in heaven (127:6.6)
 	usually gave thanks before eating but without obsession, he could forget about it (143:3.4)
 	Jesus’ washed his hands only for purposes of cleanliness, he abhorred the purely ceremonial performances (166:1.2) (167:1.3) (179:3.1)
-no obligation to accept outworn ceremonies (155:6.5-7)
-primitive man’s attempt to control material world (90:3.1-2)
-require social arena wherein to gratify vanity (68:2.10)
-ritual surrounded entire life of ancients (83:4.2)
+	Jesus proclaimed that to enter the kingdom of heaven there is no obligation to outrage our sense of justice by accepting an outworn system of ceremonies (155:6.5-7)
 
-certainty | | assurance; peace | | 
-convictions of religious experience are unassailable (103:9.12)
-does not fear outward analysis (146:3.2)
-fetishmen believed to be infallible (88:1.10)
-God more real than our fellows (16:9.4)
-in science, philosophy, and religious experience (196:3.5)
-let pressure develop certainty (48:6.35)
-of the God-knowing religionist (103:8.5)
-on spiritual level, need for proof vanishes before experience with reality (103:7.10)
-some religionists believe they have the infallible Truth (92:3.4)
-unattainable in mortal state (103:7.10)
-	extends only as far as one’s personal experience (2:7.2)
-	none in knowledge, only increasing probability (102:2.4)
+certainty | | assurance; peace | | OK
+certainty in dogmatic religion
+	A fetish man was thought to be more than human; he was divine, even infallible. (88:1.10)
+	some religionists believe they have the infallible Truth. Evolutionary religion makes no provision for change or revision, does not provide for its own correction (92:3.4)
+	In the mortal state, nothing can be absolutely proved; both science and religion are predicated on assumptions. (103:7.10)
+spiritual certainty
+	There is a reality in religious experience that is proportional to the spiritual content and transcends all human achievements. The convictions of this religious experience are unassailable; the certainty of such knowledge is superhuman (103:9.12)
+	True and genuine inward certainty does not in the least fear outward analysis, nor does truth resent honest criticism. (146:3.2)
+	Physical certainty consists in the logic of science; moral certainty, in the wisdom of philosophy; spiritual certainty, in the truth of genuine religious experience. (196:3.5)
+	we let pressure develop stability and certainty; to accept challenges and face difficulties (48:6.35)
+	The certainty of the God-knowing religionist should not be disturbed by the uncertainty of the doubting materialist; rather should the uncertainty of the unbeliever be mightily challenged by the profound faith and unshakable certainty of the experiential believer. (103:8.5)
+	On the spiritual level, the need for finite proof gradually vanishes before the actual experience of reality. (103:7.10)
+	certainty extends only as far as one’s personal experience (2:7.2)
+	In knowledge alone there can never be absolute certainty, only increasing probability of approximation; but the religious soul of spiritual illumination knows, and knows now. (102:2.4)
 	nothing which human nature touches is infallible (159:4.8)
-we have right to be most certain about God (102:7.10)
+God's certainty
+	Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences. (102:7.10)
+	we can become more absolutely certain of the reality of the presence of God that lives within us than reality of a fellow being’s reality (16:9.4)
 
-Ceylon | | | PLACE | 
-Asoka established Buddhism in (94:9.1)
-Hinayana Buddhism persisted in (94:9.4)
-least progressive Saharans emigrated to (80:2.2)
+Ceylon | | | PLACE | OK
+Asoka established Buddhism in Ceylon (94:9.1)
+Hinayana Buddhism persisted there, division of Buddhism which clings to the early or asocial doctrine (94:9.4)
+least progressive Saharans emigrated to Arabia and thence through northern Mesopotamia and India to faraway Ceylon (80:2.2)
+> https://en.wikipedia.org/wiki/Sri_Lanka
 
-Chaldeans | | | RACE | 
-advanced eastern Semites (96:2.1)
-among first to abandon human sacrifice (89:6.2)
-favored monogamous marriage (83:6.3)
-star cultists; saw stars as cause of suffering (85:5.1-2) (90:3.8)
+Chaldeans; Chaldean tribes; Chaldean | | | RACE | OK
+The Chaldeans near Ur were among the most advanced of the eastern Semites. (96:2.1)
+The Chaldeans were among the first to abandon the sacrificing of humans for ordinary occasions, substituting therefor animals (89:6.2)
+The Chaldean tribes recognized the right of a wife to impose a premarital pledge upon her spouse not to take a second wife or concubine; both the Greeks and the Romans favored monogamous marriage. (83:6.3)
+they were star cultists and considered themselves to be the children of the sky father and the earth mother. The Chaldeans put the sun in the center of “the seven circles of the universe.” Also looked upon the stars as the cause of suffering (85:5.1-2) (90:3.8)
+> https://en.wikipedia.org/wiki/Chaldea
 
-chalk | (60:3-4) (61:1.13) | | | 
+chalk | (60:3-4) (61:1.13) | | | OK
 
-challenges | | conflict; difficulties; opportunities; perspective; problem solving; suffering | | 
-accept without complaint (48:6.35)
-apostles’ 5 months of testing (138:9)
-mortal life is short and intense test (14:5.1)
-stimulate true believers (48:7.7)
+challenges; challenge | | conflict; difficulties; opportunities; perspective; problem solving; suffering | | OK
+we must accept challenges without complaint and to face difficulties and uncertainties without fear (48:6.35)
+the apostles' five-month ordeal of fishing and preaching turned out to be grueling but it sparked a love and fidelity to Jesus above all else (138:9)
+mortal life is short and intense test, but there are many other stages of proof in the future existence (14:5.1)
+Difficulties may challenge mediocrity and defeat the fearful, but they only stimulate the true children of the Most Highs. (48:7.7)
 the great challenge
-	to achieve better communication with Adjuster (196:3.34)
-	to construct new, appealing philosophy of living (2:7.10)
-	to make personal contribution to Supreme (117:4.10)
+	The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. (196:3.34)
+	The religious challenge of this age is to that forward-looking men and women with spiritual insight construct a new and appealing philosophy of living. (2:7.10)
+	The great challenge that has been given to mortal man is this: Will you decide to personalize the experiencible value meanings of the cosmos into your own evolving selfhood or will let others to make personal contributions to Supreme? (117:4.10)
 
-chamber of hewn stone | | | | 
-Sanhedrin meeting place (173:1.5) (184:3.2) (186:1.1)
+chamber of hewn stone | | | | OK
+the chamber of hewn stone was the Sanhedrin meeting place (173:1.5) (184:3.2) (186:1.1)
+> https://en.wikipedia.org/wiki/Hall_of_Hewn_Stones
 
-chance | (86:1) | gambling; luck | | 
-50,000 facts prove evolution incompatible with chance (58:2.3-4)
-believed revelatory of will of spirits (90:2.4)
-personification of (86:2)
-signifies ignorance or indolence in determining causes (86:2.5)
+chance | (86:1) | gambling; luck | | OK
+there are 50,000 facts prove evolution incompatible with chance (58:2.3-4)
+The shamans were great believers in the mission of chance as revelatory of the will of the spirits; they frequently cast lots to arrive at decisions. (90:2.4)
+The savage strives to personalize everything intangible and abstract, and thus both nature and chance become personalized as ghosts—spirits—and later on as gods. (86:2)
+to continue to ascribe things difficult of comprehension to supernatural causes is nothing less than a lazy and convenient way of avoiding all forms of intellectual hard work. Luck is merely a term coined to cover the inexplicable (86:2.5)
 
 Chang | | | PERSON | OK
 Chinese merchant in Corinth (133:4.9)
