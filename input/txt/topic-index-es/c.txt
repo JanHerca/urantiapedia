@@ -1829,7 +1829,7 @@ El hombre primitivo creía que había que hacer algo especial para ganarse el fa
 acuñar moneda | | | | OK
 una orden bien conocida del sanedrín, emitida para orientar a los judíos dispersos por las naciones gentiles, precisaba que el «derecho de acuñar moneda comportaba el derecho de exigir impuestos». (174:2.5)
 
-monedas | | denarios; libras; siclos; talentos; pieza de diez centavos | | 
+monedas | | denarios; libras; siclos; talentos; pieza de diez centavos | | OK
 Incluso en los tiempos modernos, las personas supersticiosas hacen un agujero en las monedas. (85:1.4)
 
 frío | | calor; temperaturas | | OK
@@ -1980,87 +1980,97 @@ Mandamientos para los ángeles
 
 elogio | | alabanza | | OK
 
-comercio | | industria | | 
-el comercio marítimo por el Mediterráneo estaba en pleno apogeo en 2500 a.C. (80:9.9)
-el comercio hizo su aparición hacia el año 8000 a. de J.C., cuando la aridez lentamente creciente de las regiones montañosas de Asia central empezó a arrojar a los anditas hacia el fondo de los valles y las costas marítimas (79:1.3-4)
-trueque seguido de incautación por redadas (69:4.1)
-comienzos (69:4)
-entre China y Mesopotamia (79:7.6)
-comercio marítimo temprano en el Mediterráneo (80:1.1)
-los primeros países nórdicos comerciaban con ámbar (80:9.4)
-El primer comercio fue el intercambio de mujeres (69:5.10).
-el comercio internacional contribuye a la paz, la hermandad (52:6.3) (70:3.4) (81:6.19)
-El consejo de Jesús al hombre rico sobre la riqueza derivada de (132:5.5,17)
-Jesús nunca se entrometió en los asuntos temporales de otros (165:4.1,4)
-condujo a la exploración y el descubrimiento (69:4.8)
-comercio marítimo de la India, Sumeria entre los primeros (79:3.6-7)
-la influencia más potente en la expansión de la civilización (69:4.8) (79:3.8) (81:3)
-comercio, manufactura y banca enseñados por el personal del Príncipe (66:5.11-12)
-las mujeres fueron las primeras en comerciar (69:3.11)
+comercio | | industria | | OK
+evolución del comercio
+	La primera forma de comercio entre los hombres fue el intercambio de mujeres; éste comenzó mucho tiempo antes que el comercio de los caballos. (69:5.10).
+	el comercio de trueque siguió a las incautaciones de los ataques por sorpresa. (69:4.1)
+	primero se usó el trueque silencioso asegurando las plazas con fetiches e intercambiando grano o animales. La escritura tuvo su origen en los registros comerciales. (69:4)
+	Los primeros comerciantes fueron las mujeres; se las empleaba como espías, ejerciendo el comercio como actividad suplementaria. (69:3.11)
+	el comercio internacional contribuye a la paz y a la hermandad (52:6.3) (70:3.4) (81:6.19)
+	El comercio, unido a la aventura, condujo a la exploración y al descubrimiento. (69:4.8)
+	el comercio se convirtió rápidamente en la influencia más poderosa para la diseminación de la civilización cultural. (69:4.8) (79:3.8) (81:3)
+historia
+	el comercio, la manufactura y el crédito bancario fueron enseñados por el personal del Príncipe (66:5.11-12)
+	el comercio hizo su aparición hacia el año 8000 a. de J.C., cuando la aridez lentamente creciente de las regiones montañosas de Asia central empezó a arrojar a los anditas hacia el fondo de los valles y las costas marítimas (79:1.3-4)
+	Los dravidianos de la India y los sumerios figuran entre los primeros pueblos que se dedicaron a un extenso comercio (79:3.6-7)
+	entre China y Mesopotamia existió unas grandes relaciones comerciales, pero este comercio terminó en el 3000 a.C. (79:7.6)
+	el comercio marítimo por el Mediterráneo estaba en pleno apogeo en 2500 a.C. (80:9.9)
+	Una parte del comercio marítimo inicial del hombre se estableció en los lagos interiores del Mediterráneo (80:1.1)
+	Los nórdicos continuaron con el comercio del ámbar desde la costa báltica, estableciendo un gran intercambio, a través del Paso del Brenner, con los habitantes de cabeza ancha del valle del Danubio. (80:9.4)
+Jesús y el comercio
+	El consejo de Jesús al hombre rico sobre la riqueza derivada del comercio fue que ejerciera una equidad comercial y un trato honrado para hacerse merecedor de la remuneración por sus servicios (132:5.5,17)
+	Jesús nunca se entrometió en los asuntos temporales de otros, pero lo que nunca admitió fue la codicia (165:4.1,4)
 
-comisión de industria y comercio | | cien de Caligastia | | 
+comisión de industria y comercio | | cien de Caligastia | | OK
 
-sentido común | | | | 
-todos los planes de Jesús caracterizados por (100:7.3)
+sentido común | | | | OK
+todos los planes de Jesús estuvieron caracterizados por un sentido común santificado (100:7.3)
 
-comunicación | | transmisiones (celestiales); gravedad:tipos:gravedad mental; idioma; escritura | | 
-Los Ajustadores facilitan formas superiores de (109:4.1-3)
-base de la civilización; hace que el conocimiento y la sabiduría sean acumulativos (81:6.23,25) (160:2.3)
-los transmisores de Serafines superiores utilizan la técnica ideográfica; transmitir simultáneamente 144.000 mensajes (39:2.15)
-jefe de Brillantes Estrellas Vespertinas encargado de la custodia y el envío de todos los mensajes personales (39:2.17)
-las arpas de Dios permiten un espacio perfecto comunicación (47:10.2)
-método Paraíso de alta velocidad (27:6.4)
-comunicación interplanetaria asistido por expertos de comunicación (44:5.7)
-los carriles de energía para comunicación interplanetario son circuitos entre los centros de poder o controladores físicos (29:2.16-17) (44:4.10)
-mutuo comunicación promovido por Manipuladores de la Energía mental (44:5.3)
-a veces se requieren mensajeros personales (39:2.17)
-los controladores físicos ajustan las energías esenciales para (29:4.14)
-estudió en la Universidad Melquisedek (35:3.20)
+comunicación; intercomunicación; comunicaciones | | transmisiones (celestiales); gravedad:tipos:gravedad mental; idioma; escritura | | OK
+Los Ajustadores interiores facilitan enormemente las formas superiores de intercomunicación inteligente entre los seres humanos. (109:4.1-3)
+El conocimiento y la sabiduría se vuelven acumulativos debido a la capacidad del hombre para comunicar estas posesiones a las generaciones siguientes. (81:6.23,25) (160:2.3)
+comunicación celestial
+	los Transmisores, unos Serafines superiores, utilizan una técnica ideográfica capaz de transmitir simultáneamente 144.000 mensajes (39:2.15)
+	el jefe de las Brillantes Estrellas Vespertinas está encargado de la custodia y el envío de todos los mensajes personales (39:2.17)
+	Un universo local está plenamente provisto de los medios de intercomunicación adecuados, pero a veces se requieren mensajeros personales (39:2.17)
+	el «arpa de Dios», un aparato morontial, permite recibir las comunicaciones perfeccionadas del espacio (47:10.2)
+	los Manipuladores de la Energía mental son los expertos en las comunicaciones entre los seres morontiales y otros tipos de seres inteligentes. (44:5.3)
+	la comunicación es una de las materias de estudio en la Universidad Melquisedek (35:3.20)
+	los métodos de comunicación del Paraíso sobrepasan la capacidad de comprensión de la mente humana: una hora de instrucción en el Paraíso equivale a diez mil años de métodos de memorización de Urantia. (27:6.4)
+comunicaciones planetarias
+	Doce técnicos en comunicaciones interplanetarias e interuniversales están de servicio en Urantia. (44:5.7)
+	los canales de energía para comunicación interplanetaria son circuitos entre los centros de poder o controladores físicos (29:2.16-17) (44:4.10)
+	Los controladores físicos se ocupan de ajustar energías fundamentales no descubiertas en Urantia, que son muy esenciales para el sistema interplanetario de transporte y para ciertas técnicas de comunicación. (29:4.14)
 
-comunión (misa) | | Cena del Recuerdo | | 
+comunión (misa) | | Cena del Recuerdo | | OK
 
-comunión (espiritual) | | comunión espiritual | | 
+comunión (espiritual) | | comunión espiritual | | OK
 
-comunismo | | gobierno; materialismo; laicismo; socialismo | | 
-cooperación mejor que los métodos primitivos de (81:6.33)
-destruido por individuos progresistas y exitosos (69:9.6)
-fórmula descartada; no experimente con (69:9.18)
-primitivo comunismo evitó el pauperismo y la miseria (69:9.1)
-dar prioridad a la inactividad y la ociosidad; iba en contra de las fuertes inclinaciones humanas (69:9.2-6)
-Los sistemas sociales que niegan a Dios son inútiles (195:10.7)
-lucha entre el militarismo nacionalista, el industrialismo (70:2.11)
-suicida para trasladar la responsabilidad de la crianza de los hijos al estado (84:7.27)
-debilidad suicida que los imprevistos vivían de la economía (69:9.5-6)
+comunismo; comunistas | | gobierno; materialismo; laicismo; socialismo | | OK
+La coordinación modernizada y la reglamentación fraternal producirán una cooperación más duradera que los métodos comunistas más antiguos y primitivos o que las instituciones reguladoras dictatoriales basadas en la fuerza. (81:6.33)
+El orden social actual no es necesariamente justo pero no debemos dejarnos persuadir de que hay que experimentar con las fórmulas desechadas por nuestros antecesores Debemos avanzar y no retroceder (69:9.18)
+Las naciones de Urantia ya han emprendido la lucha gigantesca entre el militarismo nacionalista y el industrialismo (70:2.11)
+el comunismo primitivo
+	el comunismo primitivo no era la mera teoría o doctrina social del comunismo actual; evitó el pauperismo y la miseria (69:9.1)
+	el comunismo primitivo dio un gran valor a la inactividad y a la pereza, y ahogó la diligencia y destruyó la ambición. Iba en contra de las fuertes inclinaciones humanas: (69:9.2-6)
+	# La familia, pues eliminó la herencia
+	# Las tendencias religiosas
+	# El deseo de libertad y de tiempo libre
+	# La necesidad de seguridad y de poder
+	El comunismo se destruyó finalmente debido a las estratagemas engañosas de los individuos prósperos y progresistas (69:9.6)
+debilidades del comunismo
+	Ningún sistema social o régimen político que niegue la realidad de Dios puede contribuir de manera constructiva y duradera al progreso de la civilización humana. (195:10.7)
+	Cualquier intento por transferir la responsabilidad parental al Estado o la iglesia es suicida para el bienestar y el progreso de la civilización. (84:7.27)
+	La debilidad suicida de este comunismo fue que el imprevisor vivía habitualmente a expensas del ahorrativo. (69:9.5-6)
 
-comparaciones | | | | 
-distancias entre el núcleo, electrones frente a la órbita de Mercurio (42:7.2)
-masa y tamaño de electrones y protones frente a la tierra y la órbita terrestre alrededor del sol (42:6.8)
-estrellas en el espacio versus naranjas (41:3.2)
-peso de pulgada cúbica de estrella densa en Urantia (41:3.6)
+comparaciones; comparación | | | | OK
+En comparación con su tamaño real, la distancia relativa existente entre el núcleo atómico y el circuito electrónico interior es la misma que existe entre el planeta interior Mercurio y vuestro Sol. (42:7.2)
+Si la masa de un electrón fuera 2,8 gramos, el volumen de dicho electrón sería tan grande como el de la Tierra. Si el volumen de un protón fuera como la cabeza de un alfiler, la cabeza de un alfiler alcanzaría un diámetro igual al de la órbita de la Tierra alrededor del Sol. (42:6.8)
+las estrellas tienen, en comparación, tanto sitio en el espacio como una docena de naranjas circulando por el interior de Urantia si el planeta fuera un globo hueco. (41:3.2)
+Algunas de las estrellas rojizas han adquirido en su centro una densidad que si un centímetro cúbico de dicha estrella estuviera en Urantia pesaría ciento sesenta y seis kilos. (41:3.6)
 
-brújula | | dirección | | 
-4 puntos inherentes (34:4.13)
-sensible a la influencia solar (58:2.9)
+brújula | | dirección | | OK
+Los cuatro puntos de la brújula son universales e inherentes a la vida de Nebadon. (34:4.13)
+la aguja de la brújula es sensible a la influencia solar, ya que se inclina ligeramente hacia el este cuando sale el Sol, y un poco hacia el oeste cuando el Sol está a punto de ponerse. (58:2.9)
 
-compensaciones | | | | 
-Los ajustadores igualan la tensión del alejamiento del hombre de Dios (107:0.5)
-razas mejoradas de ascendentes en rebelión (50:7.1) (54:6.5)
-Padre presente personalmente en Paraíso y Havona, pero no habita en la mente de sus residentes (32:3.4)
-para la tribulación (65:5.4)
+compensaciones | | | | OK
+El Ajustador es para nosotros aquello que nivela de manera compensatoria la enorme tensión universal creada por la distancia que separa al hombre de Dios. (107:0.5)
+Existen muchas compensaciones para las rebeliones como la de Lucifer: una es el mejoramiento de las carreras de aquellos ascendentes mortales, ciudadanos de Jerusem, que por resistirse a los sofismas del pecado se colocaron en la vía de convertirse en futuros Mensajeros Poderosos (50:7.1) (54:6.5)
+Aunque el Padre Universal está personalmente presente en el universo residencial, no habita en la mente de los seres que tienen su origen en ese universo (32:3.4)
+Existen, por supuesto, ciertas compensaciones por las tribulaciones, tales como la donación de Miguel en Urantia. (65:5.4)
 las ganancias de una mayor lealtad compensan la tribulación anterior (35:9.8)
 Los dioses toman nota de las necesidades del hombre en cada etapa (40:5.11)
-los grandes universitarios compensarán a los del espacio exterior por la privación del crecimiento de Supremacía (31:10.14) (117:2.6)
-pena inevitable para la vida en planetas avanzados (55:3.11)
-los problemas más difíciles permiten una mayor oportunidad de adquirir experiencia en su solución (116:6.7)
-Los problemas de Nebadon lo convirtieron en una clínica educativa (35:3.22)
-Las esferas en cuarentena brindan oportunidades para la fe (50:7.1)
-relación entre los nativos de Havona y los ascendentes (19:6.2)
-Fusión de Hijo y Espíritu en plan ascendente (40:10.3-4)
+Los ciudadanos evolutivos del gran universo tendrán sin duda la ocupación de compensar a los habitantes del espacio exterior por esta privación del crecimiento de la Supremacía. (31:10.14) (117:2.6)
+Sin embargo, existe cierto precio inevitable a pagar ligado a la existencia humana en esos planetas evolutivos avanzados. (55:3.11)
+En los universos del espacio que evolucionan en el tiempo, la divinidad está más atenuada, los problemas por resolver son más difíciles, y su solución proporciona mayores ocasiones para adquirir experiencia. (116:6.7)
+Los problemas de Nebadon lo convirtieron en una clínica educativa para otras creaciones cercanas (35:3.22)
+el aislamiento de las esferas ofrece a sus razas una oportunidad única para ejercitar su fe y para desarrollar una calidad de confianza especial en la fiabilidad cósmica (50:7.1)
+Durante su larga y afectuosa asociación con los nativos de Havona, los mortales ascendentes hacen muchas cosas para compensar el empobrecimiento espiritual de las etapas iniciales de la progresión humana. (19:6.2)
+la fusión con el Hijo o con el Espíritu parecen ser compensaciones por los fallos inexplicados en algún detalle del plan para alcanzar el Paraíso, pero no es así. Todos estos sucesos son de conformidad con las leyes establecidas  (40:10.3-4)
 Los mortales fusionados con el Espíritu obtienen una sabiduría sin igual con respecto al universo local (37:5.11)
-Supreme compensará la incapacidad de lograr un ilimitado
-experiencia (117:5.14)
-los que parten más lejos de Dios tienen el mayor ascenso (116:4.11)
-el universo aplica infaliblemente técnicas de ecualización (55:2.12)
+El Supremo en evolución compensará finalmente a las criaturas finitas por su incapacidad para conseguir algo más que un contacto experiencial limitado con el universo de universos. (117:5.14)
+aquellas personalidades que se encuentran más lejos de Dios, y que pueden experimentar así el mayor grado de ascensión espiritual en el universo (116:4.11)
+el universo aplica infaliblemente técnicas igualadoras destinadas a asegurar que ningún ascendente sea privado de nada esencial para su experiencia de ascensión (55:2.12)
 
 competencia | | capital; propiedad privada; lucro | | 
 los ángeles hacen un uso eficaz de competencia para inspirar servicio (28:5.18)
