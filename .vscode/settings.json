@@ -1,3 +1,5 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wrappingIndent": "indent"
 }
