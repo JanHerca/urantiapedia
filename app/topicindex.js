@@ -1,4 +1,4 @@
-//Reader/Writer to convert Uverse Press topic index to *.wiki
+//Reader/Writer to convert Uversa Press topic index to Wiki
 
 
 const reflectPromise = require('./utils').reflectPromise;
@@ -18,11 +18,11 @@ class TopicIndex {
 	 * @example
 	 * topics = [
 	 *   {
-	 *      name: 'ángeles',
-	 *      altnames: ['ángel', 'los ángeles'],
+	 *      name: 'angels',
+	 *      altnames: ['angel', 'the angels'],
 	 *      lines: [
 	 *        {
-	 *           text: 'personalidades del Espíritu Infinito',
+	 *           text: 'personalities of Infinite Spirit',
 	 *           level: 0,
 	 *           seeAlso: ['personalidades'],
 	 *           refs: ['30:2.82'],
@@ -32,17 +32,17 @@ class TopicIndex {
 	 *          ...
 	 *        }
 	 *      ],
-	 *      seeAlso: ['Espíritu Infinito:familia'],
-	 *      links: [https://es.wikipedia.org/wiki/Ángeles],
+	 *      seeAlso: ['Infinite Spirit:family'],
+	 *      links: [https://en.wikipedia.org/wiki/Angels],
 	 *      refs: ['26:1'],
-	 *      type: 'ORDEN',
+	 *      type: 'ORDER',
 	 *      revised: false,
 	 *      sorting: 'a.txt:01294',
 	 *      filename: 'a.txt',
 	 *      fileline: 1294,
 	 *      errors: [
 	 *         {
-	 *            desc: 'seeAlso personalidades no encontrado',
+	 *            desc: 'seeAlso personalities not found',
 	 *            fileline: 1296
 	 *         }
 	 *      ]
@@ -79,7 +79,7 @@ class TopicIndex {
 	};
 
 	/**
-	 * Clears objects stores in the Topic Index.
+	 * Clears objects stored in the Topic Index.
 	 */
 	clear = () => {
 		this.topics = [];
@@ -769,6 +769,7 @@ class TopicIndex {
 						topic.name.substring(1);
 			const seeAlsoTxt = Strings['topic_see_also'][this.language];
 			const lineRefs = [];
+			let otherRefs = [...topic.refs];
 			const writeRefs = (refs) => {
 				if (refs && refs.length > 0) {
 					html += `<p>${seeAlsoTxt}: `;
@@ -795,15 +796,6 @@ class TopicIndex {
 			// 	return;
 			// }
 
-
-			//Resolve redirects
-			// if (topic.isRedirect && topic.seeAlso.length === 1) {
-			// 	html = `#REDIRECT [[${topic.seeAlso[0]}]]`;
-			// }
-
-			//Add references at Topic level on top
-			writeRefs(topic.refs);
-
 			//Add line content with headings and references
 			topic.lines.forEach((line, i, lines) => {
 				const content = line.text;
@@ -819,6 +811,8 @@ class TopicIndex {
 					prevline.text.match(/^[#|\*]*/g)[0] : "");
 				const nextMarks = (nextline ?
 					nextline.text.match(/^[#|\*]*/g)[0] : "");
+				const large = (content.length > 150);
+				const nextlarge = (nextline && nextline.text.length > 150);
 				
 				let subcontent = content.replace(/^[#|\*]*/g,'').trim();
 				subcontent = subcontent.substring(0, 1).toUpperCase() + 
@@ -827,7 +821,7 @@ class TopicIndex {
 				if (nextline && level < nextlevel) {
 					const h = `h${line.level + 2}`;
 					html += `<${h}> ${subcontent} </${h}>\r\n`;
-					writeRefs(line.refs);
+					otherRefs = [...otherRefs, ...line.refs];
 				} else {
 					if (!subcontent.match(/[.:!?]$/)) {
 						subcontent += '.';
@@ -838,9 +832,10 @@ class TopicIndex {
 							html += (marks[marks.length - 1] === '#' ? '<ol>': 
 								'<ul>') + '\r\n';
 						}
-					} else if (i === 0 || (prevline && level != prevlevel) ||
-						(prevline && level === prevlevel && marks.length === 0 &&
-						prevMarks.length > 0)) {
+					} else if (i === 0 || 
+						(prevline && level != prevlevel) ||
+						(prevline && level === prevlevel /*&& marks.length === 0*/ && prevMarks.length > 0) ||
+						large) {
 						//Add start of paragraph
 						html += '<p>';
 					}
@@ -909,7 +904,8 @@ class TopicIndex {
 					} else if (i === lines.length - 1 || 
 						(nextline && level === nextlevel && nextMarks.length > 0) ||
 						(nextline && level != nextlevel) ||
-						(nextline2 && nextlevel < nextlevel2)) {
+						(nextline2 && nextlevel < nextlevel2) ||
+						nextlarge) {
 						//Add end of paragraph
 						html += '</p>\r\n';
 					}
@@ -956,6 +952,8 @@ class TopicIndex {
 				lineRefs.forEach(f => html += '  ' + f);
 				html += '</ol>\r\n</div>\r\n';
 			}
+			//Add the seeAlso references at Topic level after other references
+			writeRefs(otherRefs);
 
 			fs.writeFile(filePath, html, 'utf-8', (err) => {
 				if (err) {

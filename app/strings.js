@@ -675,7 +675,7 @@ const Strings = {
 	},
 	"topic_see_also": {
 		en: "See also",
-		es: "Véase"
+		es: "Véase también"
 	},
 	"topic_links": {
 		en: "Links",
