@@ -1821,7 +1821,7 @@ cockroaches | (59:5.7) | | | OK
 cocoa | | | | OK
 among earliest pharmaceutical discoveries is cocoa (90:4.8)
 
-coercion | (87:6) | compulsion| | OK
+coercion | (87:6) | compulsion | | OK
 The domination of the Spirit is never tainted with coercion nor compromised by compulsion. (34:6.11)
 The evolution of religious observances progressed from placation, avoidance, exorcism, coercion, conciliation, and propitiation to sacrifice, atonement, and redemption. (90:0.1)
 Primitive man believed that something special must be done to win the favor of the gods. The rituals of avoidance, exorcism, coercion, and propitiation all merge into one another. (89:0.2)
@@ -3212,7 +3212,7 @@ the cross meaning
 	On other worlds, as well as on Urantia, this sublime spectacle of the death of the human Jesus on the cross of Golgotha has stirred the emotions of mortals, while it has aroused the highest devotion of the angels. (188:5.8-12)
 	We know that the death on the cross was not to effect man’s reconciliation to God but to stimulate man’s realization of the Father’s eternal love and his Son’s unending mercy, and to broadcast these universal truths to a whole universe. (188:5.13)
 	The triumph of the death on the cross is all summed up in the spirit of Jesus’ attitude toward those who assailed him. He made the cross an eternal symbol of the triumph of love over hate and the victory of truth over evil when he prayed, “Father, forgive them, for they know not what they do” (188:5.6)
-	The cross does stand as the token of the highest form of unselfish service, the supreme devotion of the full bestowal of a righteous life in the service of wholehearted ministry (188:9)
+	The cross does stand as the token of the highest form of unselfish service, the supreme devotion of the full bestowal of a righteous life in the service of wholehearted ministry (188:5.9)
 
 crossbreeding | | eugenics; hybridization | | OK
 Present-day prejudice against “half-castes,” “hybrids,” and “mongrels” arises because modern racial crossbreeding is, for the greater part, between the grossly inferior strains of the races concerned. (82:6.3)

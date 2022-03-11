@@ -568,7 +568,6 @@ tipos nombrados
 	* aves pasajeras | aves pasajeras
 	* palomas | palomas
 	* aves de corral | aves de corral
-	* codorniz | codorniz
 	* cuervos | cuervos
 	* gorriones | gorriones
 

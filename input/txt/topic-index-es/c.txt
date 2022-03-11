@@ -1821,7 +1821,7 @@ cucarachas | (59:5.7) | | | OK
 cacao | | | | OK
 entre los primeros descubrimientos farmacéuticos figura el cacao (90:4.8)
 
-coerción; coacción | (87:6) | compulsión | | OK
+coerción; coacción | (87:6) | coacción | | OK
 La dominación del Espíritu nunca está manchada de coerción ni comprometida por la coacción. (34:6.11)
 La evolución de las prácticas religiosas progresó desde el apaciguamiento, la evitación, el exorcismo, la coacción, la conciliación y la propiciación hasta el sacrificio, la expiación y la redención. (90:0.1)
 El hombre primitivo creía que había que hacer algo especial para ganarse el favor de los dioses. Todos los ritos de evitación, exorcismo, coacción y propiciación se fundieron los unos en los otros. (89:0.2)
@@ -1834,7 +1834,7 @@ Incluso en los tiempos modernos, las personas supersticiosas hacen un agujero en
 
 frío | | calor; temperaturas | | OK
 El frío y el hambre que reinan en las tierras al descubierto estimulan la actividad, la invención y el ingenio. (64:1.3)
-La gravedad y la ausencia de calor (el frío) organizan y mantienen unida a la materia; el calor y la antigravedad desorganizan la materia y disipan la energía. El frío significa simplemente ausencia de calor —reposo relativo de la energía— el estado de la carga-fuerza universal del espacio. La presencia y la acción de la gravedad son las que impiden la aparición del cero teórico absoluto, pues el espacio interestelar no está a la temperatura del cero absoluto.  (15:8.10) (42:4.5-9)
+La gravedad y la ausencia de calor, el frío, organizan y mantienen unida a la materia; el calor y la antigravedad desorganizan la materia y disipan la energía. El frío significa simplemente ausencia de calor —reposo relativo de la energía— el estado de la carga-fuerza universal del espacio. La presencia y la acción de la gravedad son las que impiden la aparición del cero teórico absoluto, pues el espacio interestelar no está a la temperatura del cero absoluto. (15:8.10) (42:4.5-9)
 
 colapso | | | | OK
 Si Dios se retirara como sostén actual de toda la creación, se produciría inmediatamente un derrumbamiento universal. (4:1.6)
@@ -2221,7 +2221,7 @@ Los conductores de la adoración tienen la tarea de enseñar la adoración a las
 Los Conductores de la Adoración son las primera orden dentro de los Supernafines primarios (27:0.4)
 Desde los tiempos de Grandfanda, los supernafines nunca han sido capaces de acomodar plenamente el espíritu de adoración en el Paraíso. Siempre hay un exceso de deseo de adorar (27:7.6-7)
 
-confesión; confesar; confesarse; confieso; confesáis | | enmiendas; perdón; arrepentimiento; pecado | | OK
+confesión; confesar; confesarse; confieso; confesáis | | enmienda; perdón; arrepentimiento; pecado | | OK
 La confesión del pecado es un rechazo valiente de la deslealtad, pero no atenúa de ninguna manera las consecuencias espacio-temporales de esa deslealtad. Pero la confesión —el reconocimiento sincero de la naturaleza del pecado— es esencial para el crecimiento religioso y el progreso espiritual. (89:10.5)
 Cuando estamos equivocados, no deberíamos dudar en confesar nuestro error y apresuranos a enmendarlo. (131:9.3)
 La confesión, el arrepentimiento y la oración han conducido a los individuos, las ciudades, las naciones y las razas enteras a extraordinarios esfuerzos de reforma y a acciones intrépidas realizadas con valentía. (91:5.2)
@@ -2236,7 +2236,7 @@ confianza | | autoconfianza | | OK
 
 confiado | | compartir | | OK
 
-conflicto; conflictos | | ansiedad; confusión; contención; dificultades; lucha | | OK
+conflicto; conflictos | | ansiedad; confusión; controversia; dificultades; lucha | | OK
 Todos los tipos de conflictos del alma consisten en la falta de armonía entre la conciencia de sí moral o espiritual, y la conciencia de sí puramente intelectual. (133:6.6)
 Huir del deber es sacrificar la verdad. Evadirse del servicio de la luz y la vida sólo puede llevar a esos conflictos angustiosos (130:1.2)
 Todos los creyentes tendrán que atravesar una zona de conflicto al pasar de la vida que se vive en la carne a la vida superior que se vive en el espíritu. (159:3.7)
@@ -2255,7 +2255,7 @@ Los preceptos de Confucio, aunque perpetuaban lo mejor del pasado, iban un poco 
 Los zoroástricos tenían una religión de moralidad; los hindúes, una religión de metafísica; los confucionistas, una religión de ética. (5:4.7)
 
 Confucio | (94:6.9-11) | confucianismo | PERSON | OK
-Confucio (Kung-Fu-Tze) era un joven contemporáneo de Lao en la China del siglo VI a.C. Confucio fue un compilador de dichos sabios de filósofos antiguos del siglo VI a.C. Su trabajo principal consistió en compilar los sabios refranes de los filósofos antiguos. Fue rechazado como instructor durante su vida, pero sus escritos y enseñanzas han ejercido desde entonces una gran influencia en China y en Japón. (94:6.9)
+Confucio, Kung-Fu-Tze, era un joven contemporáneo de Lao en la China del siglo VI a.C. Confucio fue un compilador de dichos sabios de filósofos antiguos del siglo VI a.C. Su trabajo principal consistió en compilar los sabios refranes de los filósofos antiguos. Fue rechazado como instructor durante su vida, pero sus escritos y enseñanzas han ejercido desde entonces una gran influencia en China y en Japón. (94:6.9)
 fue deificado por sus seguidores durante las edades de tinieblas espirituales que envolvieron a China entre la decadencia y la perversión de la fe taoísta (94:6.12)
 tenía un concepto de Dios que estaba subordinado casi por completo al énfasis que puso en el Camino del Cielo, el arquetipo del cosmos. (94:6.10)
 hizo del orden un nuevo fetiche y estableció un respeto por la conducta de los antepasados que los chinos veneran todavía en el momento del presente escrito. (94:6.9)
@@ -3212,7 +3212,7 @@ el significado de la cruz
 	En otros mundos, así como en Urantia, este sublime espectáculo de la muerte del Jesús humano en la cruz del Gólgota ha conmovido las emociones de los mortales, mientras que ha despertado la más alta devoción de los ángeles. (188:5.8-12)
 	Sabemos que la muerte en la cruz no sirvió para reconciliar al hombre con Dios, sino para estimular en el hombre la comprensión del amor eterno del Padre y de la misericordia sin fin de su Hijo, y para difundir estas verdades universales a un universo entero. (188:5.13)
 	Todo el triunfo de la muerte en la cruz está resumido en el espíritu de la actitud de Jesús hacia sus agresores. Convirtió la cruz en un símbolo eterno del triunfo del amor sobre el odio y de la victoria de la verdad sobre el mal, cuando oró: «Padre, perdónalos, porque no saben lo que hacen». (188:5.6)
-	La cruz sí se alza como la prueba de la forma más elevada de servicio desinteresado, la devoción suprema de la plena donación de una vida recta al servicio de un ministerio incondicional (188:9)
+	La cruz sí se alza como la prueba de la forma más elevada de servicio desinteresado, la devoción suprema de la plena donación de una vida recta al servicio de un ministerio incondicional (188:5.9)
 
 cruce; cruces raciales | | eugenesia; hibridación | | OK
 Los prejuicios actuales contra los «mestizos», los «híbridos» y los «mixtos» han surgido porque la mayor parte de los cruces raciales modernos se producen entre los linajes extremadamente inferiores de las razas interesadas. (82:6.3)

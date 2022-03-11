@@ -567,7 +567,6 @@ types named
 	* parrots | parrots
 	* passenger birds | passenger birds
 	* pigeons | pigeons
-	* fowls | fowls
 	* poultry | poultry
 	* ravens | ravens
 	* sparrows | sparrows
