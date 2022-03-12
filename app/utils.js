@@ -286,7 +286,7 @@ exports.replaceWords = function(arItems, arReplaces, text) {
 	return result;
 };
 
-exports.getWikijsHeader = function(title) {
+exports.getWikijsHeader = function(title, tags) {
 	const date = new Date();
 	const datestr = 
 		`${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}` +
@@ -296,7 +296,7 @@ exports.getWikijsHeader = function(title) {
 		`description: \r\n` +
 		`published: true\r\n` +
 		`date: ${datestr}\r\n` +
-		`tags: \r\n` +
+		`tags: ${(tags ? tags.join(', ') : '')}\r\n` +
 		`editor: ckeditor\r\n` +
 		`dateCreated: ${datestr}\r\n` +
 		`-->\r\n`;

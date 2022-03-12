@@ -768,6 +768,8 @@ class TopicIndex {
 			const title = topic.name.substring(0, 1).toUpperCase() +
 						topic.name.substring(1);
 			const seeAlsoTxt = Strings['topic_see_also'][this.language];
+			const tags = ['topic', ...(topic.type && topic.type != 'OTHER' ? 
+				[topic.type.toLowerCase()] : [])];
 			const lineRefs = [];
 			let otherRefs = [...topic.refs];
 			const writeRefs = (refs) => {
@@ -780,7 +782,7 @@ class TopicIndex {
 				}
 			};
 
-			html += getWikijsHeader(title);
+			html += getWikijsHeader(title, tags);
 			html += '\r\n';
 			// html += `<h1>${title}</h1>\r\n`;
 
