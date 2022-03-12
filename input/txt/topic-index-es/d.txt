@@ -9,37 +9,46 @@
 < Help: https://urantiapedia.org/es/help/github_topicindex
 <__________________________________________________________________________________
 
-Dabarita | (149:0.1) | | PLACE | 
-Segunda gira de predicación por Galilea
+Dabarita | | | PLACE | OK
+Dabarita es una de las poblaciones que Jesús, los doce y 117 evangelistas recorrieron durante su segunda gira de predicación por Galilea desde el 3 de octubre a el 30 de diciembre de 28 (149:0.1)
 
 Dagón | | | PERSON | OK
-Dios filisteo (97:6.2)
+Dios que era el padre de los dioses para los filisteos (97:6.2)
+> https://es.wikipedia.org/wiki/Dagón
 
-Dakota Black Hills; Black Hills | | | PLACE | 
-Pacífico extendido a (60:2.4)
+Dakota Black Hills; Black Hills | | | PLACE | OK
+El océano Pacífico llegó a extenderse hacia el este hasta la región de Black Hills, en Dakota. (60:2.4)
+> https://es.wikipedia.org/wiki/Colinas_Negras
 
-Dalamatia | | Caligastia; cien de Caligastia | PLACE | 
-Muro de 40 pies rodeado (66:3.3) (66:4.10)
-atacado por hordas de semisalvajes después de la rebelión (67:5.2)
-edificios limpios y sencillos; construido de ladrillo (66:3.5-6) (66:7.1-3)
-ciudad del Príncipe (66:3)
-gran confusión durante 50 años después de la rebelión (67:5.1)
-tierra para una población de 20.000 (66:7.1)
-ley de (66:7.8-16)
-la biblioteca tenía 2 millones de registros separados (66:5.9)
-vida en (66:7)
-la vida en Dalamatia lejos de ser utópica (68:1.7)
-nombrado en honor a Daligastia (66:3.3)
-región bien asentada dentro de las 100 millas (66:7.18)
-población residente de 6000 en el momento de la rebelión (66:7.20)
-situado en la región del golfo Pérsico de la Mesopotamia posterior (66:3.1)
-inmersión (77:3.1-2)
+Dalamatia | | Caligastia; cien de Caligastia | PLACE | OK
+Dalamatia fue la ciudad que se construyó en lejano pasado para albergar la sede del Príncipe Planetario. Estuvo situada en la región del Golfo Pérsico, en la zona correspondiente a la Mesopotamia posterior. (66:3)
+A este centro mundial de cultura se le llamó Dalamatia en honor a Daligastia. (66:3.3)
+era una ciudad muy sencilla pero muy hermosa, rodeada por una muralla de 12 m de altura. (66:3.3) (66:4.10)
+El campo estaba muy bien colonizado en un radio de 160 km alrededor de la ciudad. (66:7.18)
+Los edificios residenciales eran modelos de pulcritud y de limpieza, pero todo era muy sencillo y totalmente primitivo, construido de ladrillo (66:3.5-6) (66:7.1-3)
+Las reservas de tierra dentro de las murallas de la ciudad eran suficientes para que los pastos y la horticultura pudieran mantener a una población de casi 20.000 habitantes. (66:7.1)
+la ley de Dalamatia durante cerca de 300.000 años fue el código conocido como «el Camino del Padre» y consistía en los siete mandamientos siguientes: (66:7.8-16)
+# No temerás ni servirás a ningún Dios, salvo al Padre de todos. 
+# No desobedecerás al Hijo del Padre
+# No mentirás
+# No matarás
+# No robarás
+# No tocarás a la esposa de tu amigo.
+# No mostrarás falta de respeto por tus padres 
+El orden definido de la vida familiar y la costumbre de vivir una sola familia en una sola vivienda en un lugar relativamente estable, data de estos tiempos de Dalamatia (66:7)
+la vida en Dalamatia estaba lejos de ser utópica (68:1.7)
+aunque las razas estaban en guerra vivían juntas en armonía cerca la sede del Príncipe (64:6.28)
+la rebelión
+	Cuando estalló la rebelión, Dalamatia tenía una población permanente de casi 6000 habitantes. (66:7.20)
+	fue atacada por hordas de semisalvajes después de la rebelión, que asediaron sus murallas y expulsaron a sus habitantes (67:5.2)
+	Una gran confusión reinó en Dalamatia y en sus inmediaciones durante cerca de cincuenta años después de la instigación a la rebelión. (67:5.1)
+	La biblioteca de Dalamatia, destruida poco después de la deslealtad de Caligastia, contenía más de dos millones de documentos distintos y era conocida como «la casa de Fad». (66:5.9)
+	toda la ciudad quedó sumergida, y los habitantes se dirigieron hacia el norte y el este (77:3.1-2)
 enseñanzas
-	7 mandamientos de Dalamatia eran tabúes (89:1.4)
-	terminó repentinamente después de 300.000 años (92:4.5)
-	fueron la primera revelación de época (92:4.5)
-maremoto arrasó hace más de 200.000 años; existen vestigios bajo el golfo Pérsico (67:5.2,4) (77:4.7) (78:7.7)
-razas en guerra vivían juntas en armonía cerca (64:6.28)
+	Los siete mandamientos de Dalamatia y Edén, así como los diez mandatos de los hebreos, eran unos tabúes precisos, todos expresados de la misma forma negativa que la mayoría de las prohibiciones antiguas. (89:1.4)
+	Esta revelación creciente de la Deidad duró más de trescientos mil años, hasta que fue interrumpida repentinamente por la secesión planetaria y la ruptura del régimen educativo. (92:4.5)
+	fue la primera revelación que marcó una época. A excepción del trabajo de Van, la influencia de la revelación dalamatiana se perdió prácticamente para el mundo entero. (92:4.5)
+	Ciento sesenta y dos años después de la rebelión, una marejada barrió a Dalamatia y la sede planetaria se hundió bajo las aguas del mar; esta tierra no volvió a emerger hasta que casi todos los vestigios de la noble cultura de aquellas épocas espléndidas habían desaparecido. Aún así quedan vestigios bajo el golfo Pérsico (67:5.2,4) (77:4.7) (78:7.7)
 
 Daligastia | | Caligastia; Hijos Lanonandek | PERSON | OK
 Daligastia es un Hijo Lanonandek secundario, el número 319.407 de esta orden (66:2.2)
@@ -56,36 +65,38 @@ nunca fue capaz de oprimir o coaccionar a individuos normales contra su voluntad
 desde Pentecostés, es servil ante los Ajustadores y el Espíritu de la Verdad (53:8.7)
 todavía hoy está libre en Urantia (53:8.6-7)
 
-Damasco | (130:0.3) (133:8.4) (134:1.1) (134:2.5) (140:7.2) (186:3.2-3) (190:1.8) | Siria | PLACE | 
-Jesús conoció al maestro de matemáticas de (123:6.3)
-comerciante de Damasco
-La experiencia de Pablo con Jesús en el camino hacia (100:5.3) (196:2.1)
+Damasco | (130:0.3) (133:8.4) (134:1.1) (134:2.5) (140:7.2) (186:3.2-3) (190:1.8) | Siria | PLACE | OK
+Jesús conoció a un profesor de matemáticas de Damasco, y después de aprender algunas nuevas técnicas aritméticas, dedicó mucho tiempo a las matemáticas durante varios años. (123:6.3)
+El apóstol Pablo experimentó una conversión repentina y espectacular el día memorable en el camino de Damasco. El cristianismo es una religión que incluye las opiniones teológicas de Pablo y describe su propia experiencia personal con el Jesús del camino de Damasco.(100:5.3) (196:2.1)
+> https://es.wikipedia.org/wiki/Damasco
 
-puerta de Damasco | | | PLACE | 
-conducido al norte desde Jerusalén (187:1.4)
-los soldados aterrorizados huyeron (189:4.5,7)
+puerta de Damasco | | | PLACE | OK
+la puerta de Damasco es la que conducía al norte desde Jerusalén (187:1.4)
+los soldados que custodiaban el sepulcro de Jesús huyeron aterrorizados en dirección a la puerta de Damasco, donde se cruzaron con las mujeres creyentes (189:4.5,7)
+> https://es.wikipedia.org/wiki/Puerta_de_Damasco
 
-Dan (ciudad) | | | PLACE | 
-también conocida como Cesarea de Filipo (134:7.5)
+Dan (ciudad) | | | PLACE | OK
+Dan, también conocida como Cesarea de Filipo, lugar por donde Jesús pasó durante un viaje personal, y él y los doce pasaron en su huida al norte en mayo de 29 (134:7.5) (134:8.10) (155:2.1-3)
+> https://en.wikipedia.org/wiki/Caesarea_Philippi
 
 Dan (personal del Príncipe) | | cien de Caligastia | PERSON | OK
 Dan fue el jefe del consejo encargado de conquistar a los animales depredadores, uno de los diez consejos del Príncipe Planetario en Urantia (66:5.7)
 Dan y todo su consejo se perdió en la rebelión (67:4.1)
 
-baile | | | | 
-entre primitivos
-	muchas shamaness eran bailarinas profesionales (90:1.3)
-	se originó en festivales de adoración estacionales (92:3.6)
-	puramente militar baile refinado por el personal del Príncipe (66:5.29)
-	sucesor del ejercicio militar (70:2.2)
-	fue una oración dramática (88:6.3) (99:5.9)
-intento crudo y grotesco de acercarse a la armonía celestial de la ubicación del ser (44:1.10)
-el baile salvaje puede inducir un estado místico (100:5.10)
+baile; danza; danzas; bailarinas | | | | OK
+Nuestros conjuntos de baile representan sin duda un intento rudimentario y grotesco de las criaturas materiales por acercarse a la armonía celestial de la colocación de los seres y de la disposición de las personalidades. (44:1.10)
+el baile frenético puede inducir un estado místico. Pero en lugar de las experiencias místicas la actitud más sana de meditación espiritual se halla en la adoración reflexiva y en la oración de acción de gracias. (100:5.10)
+entre el hombre primitivo
+	el baile se originó en los festivales estacionales de adoración (92:3.6)
+	al principio las oraciones se representaban; las danzas mágicas no eran más que oraciones teatrales. La religión era danzada más que pensada. (88:6.3) (99:5.9)
+	muchas chamanesas eran bailarinas profesionales (90:1.3)
+	Las danzas puramente guerreras fueron refinadas y puestas al servicio de valiosos fines sociales por el personal del Príncipe Planetario (66:5.29)
+	La sociedad disfruta hoy de los beneficios de una larga lista de innovaciones útiles que al principio eran totalmente militares; y a la guerra le debe incluso la danza, una de cuyas primeras formas fue un ejercicio militar. (70:2.2)
 
-peligro | | autodefensa | | 
-Jesús ejerció un cuidado normal cuando se enfrentó a (136:7.1)
-no exponerse innecesariamente a (178:3.3)
-permanecer impasible ante (194:3.12)
+peligro; peligros | | autodefensa | | OK
+Acerca del peligro Jesús decidió ejercer una vigilancia normal sobre su seguridad física, y tomar precauciones razonables para evitar el fin prematuro de su carrera en la carne, pero decidió abstenerse de toda intervención superhumana (136:7.1)
+Jesús previno a sus apóstoles a no exponerse innecesariamente al peligro cuando él fuera arrestado, explicándoles que era indispensable que ellos se quedaran para dar testimonio del evangelio cuando él no estuviera (178:3.3)
+Pentecostés dotó al hombre mortal del poder de perdonar las ofensas personales, de conservar la dulzura en medio de las peores injusticias, de permanecer impasible ante unos peligros aterradores, y de desafiar los males del odio y de la ira mediante los actos intrépidos del amor y la indulgencia. (194:3.12)
 
 Daniel | | | PERSON | OK
 Daniel fue un profeta que presentó el drama de una crisis inminente y el establecimiento del reino mesiánico (97:8.3)
@@ -96,65 +107,77 @@ Daniel comprendió quiénes eran los Altísimos y que sólo gobiernan en los rei
 la idea de Mesías de Daniel era la de un hombre sobrehumano, aunque hombre (136:1.6)
 Daniel describió a un Hijo del Hombre que Jesús rechazó como figura a adoptar (126:3.6)
 Juan el Bautista tenía predilección por los escritos de Daniel, aunque causaban gran confusión (135:3.2-3)
+> https://es.wikipedia.org/wiki/Daniel_(personaje_bíblico)
 
-Danubio | | | PLACE | 
-algunos anditas entraron en Europa a través de (80:4.1)
-valle del Danubio controlado por el hombre azul, los andonitas (80:5.8) (80:9.4)
+Danubio | | | PLACE | OK
+Algunos entraron en Europa por las islas del mar Egeo y remontando el valle del Danubio, pero la mayoría de los primeros linajes más puros emigraron al noroeste de Europa por la ruta del norte a través de las tierras de pastoreo del Volga y el Don. (80:4.1)
+Hacia el año 5000 a.C. Europa central estuvo controlada durante cierto tiempo por el hombre azul y los andonitas de cabeza redonda, situados principalmente en el valle del Danubio; nunca fueron completamente desplazados por los anditas. (80:5.8) (80:9.4)
+> https://es.wikipedia.org/wiki/Danubio
 
-danubianos | | | RACE | 
-Labradores y pastores andonitas; cerámica hecha (80:8.4)
+danubianos | | | RACE | OK
+Los danubianos eran andonitas, eran los agricultores y pastores que habían entrado en Europa por la península balcánica y que se habían desplazado lentamente hacia el norte por la ruta del valle del Danubio. Eran alfareros, cultivaban la tierra y preferían vivir en los valles. (80:8.4)
 Los griegos importaban danubianos como esclavos (80:7.6)
-asentamiento más al norte en Lieja, Bélgica (80:8.4)
-adoradores de madres (80:8.5)
+La colonia más septentrional de los danubianos se encontraba en Lieja, en Bélgica. (80:8.4)
+Los danubianos se convirtieron en adoradores de la madre a consecuencia de la labor de los misioneros de Creta. (80:8.5)
 
 Dafne | (133:8.1) | bosquecillo de Dafne | PERSON | OK
-Ninfa, hija del dios río Ladón
+Dafne era un personaje mítico griego, una ninfa, hija del dios río Ladón
+> https://es.wikipedia.org/wiki/Dafne
 
-bosquecillo de Dafne | | | PLACE | 
-notorio santuario de la vergüenza en Antioquía (133:8.1)
+bosquecillo de Dafne | | | PLACE | OK
+el bosquecillo de Dafne era un notorio santuario lleno de indecencia en Antioquía. Jesús se negó a visitarlo cuando estuvo en la ciudad (133:8.1)
+> https://es.wikipedia.org/wiki/Antioquía_del_Orontes
 
-edades de tinieblas | | | | 
-China del declive del taoísmo a la llegada del budismo (94:6.12)
+edades de tinieblas; edad de las tinieblas; siglos de tinieblas | | | | OK
+cuando la cultura avanza demasiado deprisa y los logros materiales van más rápidos que la sabiduría y la sociedad desciende desde los niveles elevados pero prematuros a las «edades de las tinieblas» del interregno de la sabiduría (118:8.6)
+en China
+	Confucio y Lao-Tse fueron finalmente deificados por sus seguidores durante las edades de tinieblas espirituales que envolvieron a China entre la decadencia y la perversión de la fe taoísta, y la llegada de los misioneros budistas procedentes de la India. (94:6.12)
 Edad oscura europea
-	El cristianismo estuvo en coma durante 1000 años (195:4) (195:10.18)
-	pocos derechos humanos reconocidos en (70:9.15)
-	reversión a pequeños grupos de castillos durante (71:1.24)
-	la esclavitud virtualmente desapareció durante (69:8.7)
-restauración inexorable del desequilibrio entre la libertad y el autocontrol (118:8.6)
+	El cristianismo estuvo en coma durante 1000 años a causa de una dosis excesiva de misterios y de paganismo. Durante la «edad de las tinieblas» en Europa la religión se volvió cada vez más monástica, ascética y legalizada. (195:4) (195:10.18)
+	La Edad Media europea reconocía pocos derechos humanos; todo hombre pertenecía entonces a algún otro. La sublevación contra este error fue igualmente un error, ya que condujo a la creencia de que todos los hombres nacen iguales. (70:9.15)
+	Durante estos siglos de tinieblas, el Estado territorial se desplomó y se produjo una reversión a los grupos pequeños de los castillos, a la reaparición de las etapas de desarrollo del clan y de la tribu. (71:1.24)
+	La esclavitud necesita una fuerte reglamentación, y desapareció prácticamente durante la Edad Media europea porque los señores feudales no podían controlar a los esclavos. (69:8.7)
+Edad de oro en el Islam
+	En el mismo período de tiempo que Europa sufrió su «edad de las tinieblas» el mundo islámico, sin embargo, vivió una edad de oro. (92:5.14)
+> https://es.wikipedia.org/wiki/Años_oscuros
+> https://es.wikipedia.org/wiki/Edad_de_Oro_del_islam
 
-gigantes oscuros del espacio | | islas oscuras del espacio | | 
+gigantes oscuros del espacio | | islas oscuras del espacio | | OK
 
-cuerpos de gravedad oscuros | | | PLACE | 
-complementan la gravedad del Paraíso (11:8.2)
-Revelar el poder de atracción por gravedad física lineal y absoluta (11:8.7)
-rodear Havona; igualar la gravedad (12:1.10) (14:1.14-18)
-no reflejan ni absorben la luz (14:1.14)
-ni triata ni gravita; único (11:8.7) (14:1.17-18)
-posición en el espacio (14:1.5-7)
+cuerpos de gravedad oscuros; cuerpos gravitatorios oscuros | | | PLACE | OK
+El centro y el punto focal de la gravedad material absoluta es la Isla del Paraíso, complementada por los cuerpos de gravedad oscuros que rodean a Havona, y equilibrada por los depósitos de espacio situados por encima y por debajo. (11:8.2)
+Los cuerpos de gravedad oscuros que rodean a Havona no están hechos ni de triata ni de gravita, y su poder de atracción revela las dos formas de la gravedad física, la lineal y la absoluta. (11:8.7)
+Havona, el universo central, está rodeado por los enormes cuerpos gravitatorios oscuros. Igualan las líneas de la gravedad de Havona de una manera tan eficaz que convierten al universo central en una creación físicamente equilibrada y perfectamente estabilizada. (12:1.10) (14:1.14-18)
+Estos cuerpos gravitatorios oscuros no reflejan ni absorben la luz (14:1.14)
+El espacio intermedio que existe entre estos dos circuitos de cuerpos gravitatorios es único, puesto que no se encuentra nada semejante en ninguna otra parte de todo el extenso universo. (11:8.7) (14:1.17-18)
+Los cuerpos gravitarios oscuros forman dos cinturones situados entre los siete circuitos de Havona y los siete superuniversos. Rodeando por fuera a los cuerpos gravitatorios existen dos zonas semitranquilas de espacio, y en medio de los dos cinturones de cuerpos existe un zona de espacio única en su género (14:1.1,5-7,15-17)
+Debido a las enormes masas de los cuerpos gravitatorios oscuros que circulan cerca de los bordes del universo central, el contenido másico de Havona es muy superior a la masa total conocida de los siete sectores del gran universo. (12:1.10)
 Los Seconafines primarios llevan a los peregrinos más allá de los cuerpos de gravedad oscuros a Havona (26:4.11)
-forma y procesión de circuitos internos y externos (14:1.1,15-17)
-con Havona, la masa supera con creces los 7 superuniversos (12:1.10)
 
-islas oscuras del espacio | | | PLACE | 
-en el centro astronómico de Satania (41:2.2)
-en el centro del sistema Angona (57:5.4)
-las colisiones de gigantes muertos convierten enormes masas en la energía más rara (15:8.6)
-convertir la energía en materia (42:4.9)
-esferas condensadas frías altamente energizadas desintegran la materia (15:8.5)
-grandes agregaciones de materia desprovistas de luz y calor; funcionan como ruedas de equilibrio; localizable por efecto de la gravedad (15:6.11)
-acercamiento cercano puede dar a luz a planetas (15:5.5)
-orígenes por acumulación de energía transmutada; acumulaciones de materia fría; de soles quemados (15:5.10-11)
-vastas dínamos que los Directores del Poder Universal utilizan para concentrar y direccionar las energías espaciales (41:1.5) (41:3.1)
+islas oscuras del espacio; isla oscura del espacio; gigante oscuro del espacio; gigantes muertos del espacio; mundos oscuros; cuerpos fríos; islas densas y oscuras | | | PLACE | OK
+Las islas oscuras del espacio son los soles muertos y los otros grandes agregados de materia desprovistos de luz y de calor, con una masa enorme. funcionen como poderosas ruedas equilibradoras, manteniendo eficazmente a raya a los grandes sistemas vecinos. Se las puede localizar por los efectos de su gravedad. (15:6.11)
+las colisiones de gigantes muertos del espacio convierten enormes masas en la forma de energía más rara (15:8.6)
+los mundos oscuros y todo el espacio exterior pueden reducir la actividad electrónica y ultimatónica hasta el punto de convertir estas energías en materia (42:4.9)
+la materia organizada tiende a desintegrarse bajo ciertas condiciones que se encuentran en las estrellas muy calientes y bajo ciertas condiciones particulares que se dan en el espacio en las proximidades de los cuerpos fríos de materia condensada muy cargados de energía. (15:8.5)
+el acercamiento cercano de un sol a una isla oscura del espacio puede dar a luz a un sistema planetario (15:5.5)
+su origen puede deberse a: dense dark islands
+* por acumulación de energía transmutada
+* por acumulaciones de materia fría
+* por soles consumidos 
+Muchas de estas islas oscuras son inmensas dinamos que movilizan y orientan ciertas energías espaciales, y son usadas por el Centro de Poder de Satania dirigiendo las corrientes de poder más materializado hacia los Controladores Físicos Maestros estacionados en los planetas evolutivos del espacio. (41:1.5) (41:3.1)
+Gigantes conocidos
+	El centro astronómico de Satania es una enorme isla oscura del espacio que, con sus esferas acompañantes, está situada no lejos de la sede del gobierno del sistema. (41:2.2)
+	en el centro del sistema Angona, el sistema que dio lugar al sistema planetario de nuestro sol, había un gigante oscuro del espacio, sólido, muy cargado y con una enorme atracción gravitatoria (57:5.4)
 
-oscuridad | | | | 
-el que entra en la oscuridad no sabe adónde va (174:5.13)
-Los neandertales temían (64:4.13)
+oscuridad; tinieblas | | | | OK
+Los neandertales temían a la oscuridad; tenían un terror mortal del anochecer. Mientras la Luna brillaba un poco, se las arreglaban para seguir adelante; pero cuando ésta se oscurecía, se llenaban de pánico y empezaban a hacer sacrificios de hombres y mujeres (64:4.13)
+«El que camina en las tinieblas, no sabe adonde va; pero si escogéis caminar en la luz, todos os convertiréis en verdad en los hijos liberados de Dios». (174:5.13)
 
-hijas de Aarón | | | | 
-Isabel descendiente de (135:0.4)
+hijas de Aarón | | | | OK
+Isabel, la madre de Juan el Bautista, esposa de Zacarías, también pertenecía al estado eclesiástico, puesto que era una descendiente de las «hijas de Aarón» (135:0.4)
 
-hijas de Dios | | | | 
-hijos del Espíritu Infinito (33:3.4) (38:2.2)
+hijas de Dios | | | | OK
+cuando se habla de criaturas sexuadas se tiene la costumbre de llamar hijos de Dios a los seres que descienden más directamente del Padre y del Hijo, e hijas de Dios al referirse a los hijos del Espíritu. (33:3.4) (38:2.2)
 
 David (rey) | | | PERSON | OK
 el ejército de David era un conjunto de descontentos, inadaptados sociales y fugitivos (97:9.5)
@@ -181,7 +204,7 @@ historias sobre David
 	Según los judíos el Mesías sería el sucesor de David (135:5.4,7) (136:1.1,6)
 
 David Zebedeo | (156:6.3-4) (157:6.1) (158:8.1) (176:2.9) (177:5.1,3) (182:2.5) (187:6.1) (188:3.3) | cuerpo de mensajeros (de David Zebedeo) | PERSON | OK
-fue conocido como el confiable David Zebedeo. era el hermano de Juan y Santiago Zebedeo (186:3)
+fue conocido como el confiable David Zebedeo. Era el hermano de Juan y Santiago Zebedeo (186:3)
 Respetaba a Jesús como artesano, pero tomaba poco en cuenta sus puntos de vista religiosos (129:1.12)
 el padre Zebedeo se fue a vivir con su hijo David (138:5.4)
 Siguió a Jesús tras la pesca supuestamente milagrosa (145:1.1,2)
@@ -209,171 +232,182 @@ tras la muerte de Jesús
 	fue el supervisor financiero de los seguidores de Jesús en Filadelfia (171:1.5)
 	se autoproclamó defensor de Lázaro (171:1.5)
 
-mamíferos precursores | (62:2) | | RACE | 
-descendientes de lémures (62:2.1)
-el miedo llevó a sabias medidas de precaución (62:2.4)
-dio lugar a los mamíferos intermedios después de 70 generaciones (61:6.1) (62:3.1)
-asesinado por los mamíferos intermedios (62:3.4)
-madre parecida a un lémur escapó de la muerte por el mero ancho de un cabello (62:3.9)
-poseía grandes cerebros; caminó principalmente sobre patas traseras (61:6.1)
-instintos compartidos con el hombre primitivo (62:2.3)
-aparición repentina hace 1 millón de años (61:6.1) (62:2.1)
-espíritu tribal; belicoso cuando se le molesta (62:2.5)
+mamíferos precursores | (62:2) | | RACE | OK
+Hace poco más de un millón de años que aparecieron repentinamente los mamíferos precursores mesopotámicos, los descendientes directos del tipo de lémur norteamericano de mamíferos placentarios. (61:6.1) (62:2.1)
+desarrollaron un temor extraordinario que les condujo a tomar las prudentes medidas de precaución que tanto contribuyeron a su supervivencia (62:2.4)
+dieron lugar a los mamíferos intermedios después de 70 generaciones (61:6.1) (62:3.1)
+Cuando aumentó el número de miembros de este grupo nuevo y superior, estalló la guerra, una guerra implacable; y cuando la terrible contienda terminó, no quedó vivo ni un solo individuo de la raza ancestral preexistente de mamíferos precursores. (62:3.4)
+La madre directa, parecida a los lémures, de la especie de los mamíferos precursores, se libró por los pelos de la muerte al menos cinco veces antes de dar a luz al padre del nuevo orden de mamíferos superiores. (62:3.9)
+Estos pequeños animales caminaban principalmente sobre sus patas traseras; poseían un cerebro grande en proporción a su tamaño y en comparación con el cerebro de otros animales. (61:6.1)
+Experimentaban una gran parte de las emociones y compartían un buen número de los instintos que caracterizarían más tarde al hombre primitivo (62:2.3)
+Eran en verdad muy gregarios, pero sin embargo se mostraban extremadamente belicosos cuando eran molestados (62:2.5)
 
-Día de la expiación | | judaísmo:fiestas | | 
+Día de la expiación | | judaísmo:fiestas | | OK
 
-visionario | | | | 
-peligro de religión habitual visionario (100:5.8)
+visionario; ensueño religioso | | | | OK
+La práctica habitual del ensueño religioso va acompañada de un gran peligro; el misticismo puede convertirse en una técnica para eludir la realidad, aunque a veces ha sido un medio de comunión espiritual auténtica. (100:5.8)
 
-Daynales | | Hijos Instructores Trinitarios | ORDER | 
-Son los educadores universales (20:7.3) (20:8.4) (20:9.4) (20:10.4) (46:5.13)
+Daynales; Daynal | | Hijos Instructores Trinitarios | ORDER | OK
+Los Daynales son los educadores universales, y están dedicados al despertar espiritual y a la orientación moral de todos los reinos. (20:7.3) (20:8.4) (20:9.4) (20:10.4) (46:5.13)
 
-días | | tiempo:días y años | | 
+días | | tiempo:días y años | | OK
 
-diaconisas | | | | 
-llamadas maestras de la iglesia cristiana primitiva (150:1.3)
+diaconisas | | | | OK
+Durante los primeros tiempos de la iglesia cristiana, las mujeres instructoras y ministras fueron llamadas diaconisas, y se les concedió un reconocimiento general. (150:1.3)
 
-Libro de los Muertos | | | | 
-surtido de textos mágicos egipcios (95:2.5)
+Libro de los Muertos; El Libro de los Muertos | | | | OK
+Los sacerdotes egipcios solían escribir en los ataúdes unos textos mágicos.  Poco después se coleccionó y se conservó un variado surtido de estos textos mágicos con el nombre de El Libro de los Muertos. (95:2.5)
 
-los muertos | | muerte | | 
-los antiguos nunca mencionaron nombres de (87:2.6)
-Judíos enterrados el día de su muerte (167:4.3)
-dejar que otros entierren (163:2.2)
-El voto nazareo prohibía el contacto con (135:2.1)
+los muertos; muertos | | muerte | | OK
+en la antigüedad los nombres de los muertos no se pronunciaban nunca. (87:2.6)
+Los judíos tenían la costumbre de enterrar a sus muertos el día de su fallecimiento; era una práctica necesaria en un clima tan caluroso. (167:4.3)
+Decía Jesús: «Si quieres ser ordenado instructor, debes dejar que otros entierren a los muertos mientras sales a anunciar la buena nueva». (163:2.2)
+El voto nazareo prohibía el contacto con los muertos (135:2.1)
 
-gigantes muertos del espacio | | islas oscuras del espacio | | 
+gigantes muertos del espacio | | islas oscuras del espacio | | OK
 
-mar Muerto | (124:6.8) (135:1.1) (135:2.3) | | PLACE | 
-Jordan fluyó hacia (124:6.5)
+mar Muerto; Mar Muerto | (124:6.8) (135:1.1) (135:2.3) | | PLACE | OK
+El río Jordán fluía hacia el Mar Muerto (124:6.5)
 
-reino de los muertos | | | | 
-El fantasma de la creencia deseaba continuar sin ser molestado (87:2.2).
-hogar de fantasmas (87:1.1) (87:2.4,8) (87:4.2)
+reino de los muertos | | | | OK
+Antiguamente se pensaba que el deseo más grande de un fantasma consistía en ser «conjurado» rápidamente a fin de poder dirigirse tranquilamente hacia el reino de los muertos. (87:2.2).
+Se pensaba que el ayuno y otras formas de abnegación agradaban a los fantasmas, que disfrutaban con la aflicción de los vivos durante el período de transición en que rondaban por los alrededores antes de su partida real hacia el reino de los muertos. (87:1.1) (87:2.4,8) (87:4.2)
 
-muerte | | los muertos; pena de muerte; vida eterna; juicio; asesinato | | 
-entre primitivos
-	la muerte se cree que es la pena del pecado (89:2.2)
-	temido muerte, que liberó a otro fantasma (86:5.2) (87:1.1)
-	casa destruida en la que muerte ocurrido (87:1.3)
-	inexplicable (86:3-4) (88:4.7)
-	teorías chamánicas; brujería (90:3)
+muerte; morir | | los muertos; pena de muerte; vida eterna; juicio; asesinato | | OK
+en el hombre primitivo
+	La muerte natural sólo se volvió lógica para la mente primitiva gracias al concepto del pecado. El pecado era la transgresión del tabú, y la muerte era el castigo del pecado. (89:2.2)
+	Se tenía miedo a la muerte porque la muerte significaba que otro fantasma se había liberado de su cuerpo físico. (86:5.2) (87:1.1)
+	Habitualmente destruían la casa donde se había producido una defunción; si no lo hacían, siempre la esquivaban, y este miedo impidió que el hombre primitivo construyera viviendas duraderas. (87:1.3)
+	la muerte se añadió a la larga lista de fenómenos inexplicados. (86:3-4) (88:4.7)
+	los chamanes creían que los espíritus causaban las enfermedades atrayendo el alma fuera del cuerpo y si ésta no regresaba, se producía la muerte.También creían que era a causa de la brujería siendo necesario ejecutar entonces a la bruja responsable (90:3)
 muerte física (49:6) (55:2)
 	El Ajustador parte hacia Divinington después de la destrucción de los circuitos mentales (112:3.3) (112:4.1,3)
-	mortales avanzados exentos de (49:6.18-21) (55:2.1)
-	el cuerpo permanece en el planeta (12:8.16) (30:4.15) (39:2.13) (189:1.2)
-	ángeles guardianes según sus súbditos (113:6)
-	útil para ver con alegría (55:2.5-6)
-	en la batalla física es fácil (143:1.6)
-	sin conciencia del tiempo en (112:3.7) (112:5.13) (168:2.5,9) (188:3.9)
-	no muerte en el Paraíso (27:1.5)
-	ocurre al cesar las energías cerebrales mensurables, el movimiento vital (101:3.3) (112:3.4) (112:5.14)
-	la luz piloto en la mente humana desaparece (113:6.2)
-	El fenómeno reflexivo puede ocurrir justo antes de (39:5.11)
+	los mortales avanzados están exentos de la muerte y son trasladados directamente de la vida en la carne a la existencia morontial. (49:6.18-21) (55:2.1)
+	Cuando terminamos nuestra carrera terrestre, nuestro cuerpo se queda en el planeta de nuestro nacimiento. (12:8.16) (30:4.15) (39:2.13) (189:1.2)
+	después de nuestra muerte, nuestra identidad y la entidad morontial del alma son fielmente conservados por el guardián del destino, es decir, nuestro yo real excepto la identidad de la existencia continua, el Ajustador, y la realidad de la personalidad (113:6)
+	sería decididamente beneficioso que los mortales pudiéramos aprender a considerar la muerte natural con un poco más de alegría y desenfado. (55:2.5-6)
+	Es fácil morir en el campo de batalla cuando la presencia de nuestros camaradas de combate fortalece nuestra valentía, pero se requiere una valentía superior para dar la vida con serenidad y en solitario por el amor de una verdad guardada en nuestro corazón. (143:1.6)
+	Para la conciencia mortal no transcurre ningún período de tiempo tras la muerte; la resurrección a la vida sigue instantáneamente al sueño de la muerte. (112:3.7) (112:5.13) (168:2.5,9) (188:3.9)
+	no hay existe la muerte en el Paraíso ni ningún sueño de transición (27:1.5)
+	la muerte ocurre cuando la mente deja de funcionar como mecanismo inteligente, aproximadamente en el momento en que las energías medibles del cerebro detienen sus pulsaciones rítmicas vitales. (101:3.3) (112:3.4) (112:5.14)
+	el guardián del destino procede hacia el primer mundo de las mansiones en cuanto desaparece la luz piloto en la mente humana, la luminosidad espiritual que los serafines asocian a la presencia del Ajustador (113:6.2)
+	El fenómeno reflexivo puede ocurrir justo antes de la muerte física y la mente humana ser capaz de visualizar algo del ángel guardián (39:5.11)
 	significado de la muerte
-		trae una nueva dispensación de servicio (176:2.7)
-		no gana al hombre nada excepto la experiencia de supervivencia (47:3.7) (48:0.2) (48:7.25) (103:5.7)
-		solo el comienzo de una carrera sin fin (14:5.10)
-		parte de la vida mortal (20:6.7) (188:4.2)
-		precipita eventos que conducen a Jesús (176:4.7)
-		técnica de escape de la vida material (32:5.4) (47:10.7) (49:6)
+		cuando traspasamos la puerta de la muerte estamos en la presencia inmediata del juicio, frente a frente con los hechos de una nueva dispensación de servicio en el plan eterno del Padre infinito (176:2.7)
+		Entre el momento de la muerte planetaria, o traslado, y la resurrección en el mundo de las mansiones, el hombre mortal no gana absolutamente nada, aparte de experimentar el hecho de la supervivencia. (47:3.7) (48:0.2) (48:7.25) (103:5.7)
+		la muerte sólo es el comienzo de una carrera de aventuras sin fin, de una vida perpetua de anticipaciones, de un eterno viaje de descubrimientos. (14:5.10)
+		La muerte es, generalmente, una parte de la vida. (20:6.7) (188:4.2)
+		La muerte física es una técnica para escapar de la vida material en la carne (32:5.4) (47:10.7) (49:6)
+		La segunda venida de Miguel a la Tierra es un acontecimiento con un enorme valor sentimental pero no tiene una importancia inmediata porque la muerte precipita al hombre a eventos que conducen al mismo Jesús (176:4.7)
 muerte espiritual | extinción; no supervivientes; llamamiento:de la justicia
-	Ajustador, los Serafines deben estar de acuerdo, los censores verifican (112:3.2)
-	El Ajustador procede al seno del Padre sobre (39:2.13)
-	Ajustador liberado tras el rechazo de la supervivencia; Serafines permanece (112:3.2) (130:4.8)
-	la perdición final sólo después de que los autoconceptos desplacen completamente el núcleo espiritual (12:9.6)
-	El ángel de la guarda responde al llamamiento dispensacional, pero el Ajustador no responde (49:6.7) (113:6.8)
-	Jesús advirtió sobre la ruina espiritual (153:2.3)
-	no sellado hasta que se pierde el poder de elegir la voluntad del Padre (5:1.11)
+	Si el hombre mortal rechaza la supervivencia, si el Ajustador y los Serafines están de acuerdo, y si los Censores y sus asociados reflectantes verifixan estas conclusiones, los gobernantes de Orvonton ordenan la muerte espiritual o definitiva (112:3.2)
+	El Ajustador siempre se dirige al seno del Padre después de la muerte (39:2.13)
+	El Ajustador es liberado tras el rechazo de la supervivencia de su mortal asociado; la labor de los serafines de todos modos permanece (112:3.2) (130:4.8)
+	la muerte inevitable sólo puede producirse cuando los conceptos del yo se atreven a reemplazar por completo el poder dominante del núcleo espiritual central, trastornando así el plan cósmico de la identidad de la personalidad. (12:9.6)
+	cuando una personalidad no es salvable el ángel guardián responde al llamamiento dispensacional, pero el Ajustador no responde, y eso representa el cese de la existencia de la criatura. (49:6.7) (113:6.8)
+	Jesús advirtió sobre la condena espiritual a los principales sacerdotes y los jefes religiosos de su tiempo (153:2.3)
+	El destino final del hombre no se decide hasta que ha perdido el poder de elegir la voluntad del Padre. (5:1.11)
 
-pena de muerte | | justicia | | 
-los antiguos dieron muerte a 10 inocentes por la supuesta responsabilidad de una muerte natural (88:4.7)
-Ardiendo en juego bajo Hamurabi, Moisés (70:10.14)
-por robar ganado, caballos (70:10.15)
-Moisés prescribió la pena de muerte para los cultistas de fantasmas (92:5.11)
-Los romanos negaron a los judíos el derecho a infligir (162:3.3)
-el derecho del estado a la autodefensa (133:4.12)
-seguro y rápido en la nación continental (72:10.1)
+pena de muerte; ejecutadas; ejecución | | justicia | | OK
+En cierta época, no era raro que diez personas inocentes fueran ejecutadas porque se suponía que eran responsables de una muerte natural. (88:4.7)
+La traición —el hecho de «vender» o traicionar a los miembros de la tribu— fue el primer crimen capital. El robo de ganado se castigaba universalmente con una ejecución sumaria, e incluso recientemente el robo de caballos se ha castigado de manera similar. (70:10.15)
+Muchos jefes antiguos, incluyendo a Hamurabi y Moisés, admitieron que muchos crímenes, en particular los de naturaleza sexual grave, se castigaran quemando al culpable en la hoguera. (70:10.14)
+Moisés prescribió la pena de muerte para los que practicaran el culto a los fantasmas (92:5.11)
+Los romanos negaron a los judíos el derecho a infligir la pena de muerte sin la aprobación de un tribunal romano (162:3.3)
+Jesús declaró que el Estado tien el derecho a defenderse como le parezca apropiado, incluso la pena de muerte (133:4.12)
+en la nación continental más desarrollada de un planeta vecino numerosos crímenes, además del asesinato, incluyendo la traición a la confianza del gobierno, sufren también la pena de muerte, y el castigo de la justicia es rápido y seguro. (72:10.1)
 
-club de debates | | | | 
-ni la paz ni la guerra pueden ser gobernadas por (70:5.5)
+club de debates | | | | OK
+A la humanidad le ha costado trabajo aprender que un club de debates no puede dirigir ni la guerra ni la paz. (70:5.5)
 
 Débora | (150:3.1) | | PERSON | OK
 Débora fue una gobernante del pueblo hebreo que logró que se derrotara a Sísara en Taanaj (126:1.2)
 la crueldad persistió en el reinado de Débora, a pesar de que era mujer, pues tras una victoria hizo que murieran todos los rendidos (70:1.17)
 
-deuda | | | | 
-la ambición esclaviza a los hombres (69:8.10)
+deuda; deudas | | | | OK
+Hoy día los hombres ya no son unos esclavos sociales, pero miles de ellos permiten que la ambición los haga esclavos de las deudas. (69:8.10)
 los primeros acreedores controlaron el cuerpo después de la muerte (69:5.8)
-los gobiernos no pueden incurrir deuda en la nación continental (72:7.3,7)
-parábola del prestamista (147:5.4)
-parábola del mayordomo astuto (169:2)
-grabado en la tabla de cera (169:2.4)
-sociedades secretas empleadas por comerciantes para recolectar (70:7.18)
+las sociedades secretas fueron empleadas por los comerciantes para recolectar deudas (70:7.18)
+los gobiernos no pueden incurrir deuda en la nación continental más desarrollada de un planeta vecino (72:7.3,7)
+Jesús pronunció dos parábolas sobre las deudas:
+* la parábola del prestamista, sobre cuál es el amor más grande (147:5.4)
+* la parábola del mayordomo astuto, sobre cómo hay que mostrar sagacidad y amistad con las cosas eternas para prepararse para el futuro (169:2)
 
-Decápolis | (144) (159) (128:3.2) | Escitópolis | PLACE | 
-Amós el lunático de Jeresa evangelizado en (151:6.8)
-Ciudades grecorromanas de (123:5.12) (124:3.6-9)
+Decápolis | | Escitópolis | PLACE | OK
+Amós el lunático de Jeresa no se detuvo hasta que hubo recorrido todas las ciudades de la Decápolis, proclamando a Jesús (151:6.8)
+Jesús, sus doce apóstoles y los doce apóstoles de Juan, predicaron en varias ocasiones en las ciudades grecorromanas de la Decápolis, sobre todo Escitópolis, Gerasa, Abila, Gadara, Pella, Filadelfia, y Hesbón (128:3.2) (144:7.1) (123:5.12) (124:3.6-9)
 
-Decán | | India | PLACE | 
-Los anditas emigraron a (79:2.4-5)
-Los arios dejaron poca impresión racial en (79:4.3)
-cultos y credos degradantes y debilitantes de (79:4.7) (94:2.5-6)
-La cultura dravidiana sobrevivió en (79:3.6,8)
-Los misioneros de Salem encontraron el sistema de castas en (94:2.1-2)
+Decán | | India | PLACE | OK
+Hacia el año 15.000 a. de J.C., la presión creciente de la población en todo el Turquestán e Irán produjo la primera emigración realmente importante de los anditas hacia la India, hacia el sur dentro del Decán (79:2.4-5)
+A medida que los misioneros de Salem penetraron hacia el sur en el Decán dravidiano, se encontraron con un sistema de castas cada vez mayor, el proyecto de los arios para impedir que se perdiera su identidad racial ante una marea creciente de pueblos sangiks secundarios. (94:2.1-2)
+Los arios dejaron muy poca huella racial en la India, salvo en las provincias del norte. Su influencia en el Decán fue cultural y religiosa más bien que racial. (79:4.3)
+el hinduismo llegó a contaminarse con una inundación de cultos y credos degradantes y debilitantes provenientes del Decán (79:4.7) (94:2.5-6)
+La cultura dravidiana ha sobrevivido en el Decán hasta nuestros días (79:3.6,8)
 
-25 de Diciembre; veinticinco de diciembre | | | | 
-festival anual de Mitra celebrado el (98:5.4)
+25 de Diciembre; veinticinco de diciembre | | | | OK
+el 25 de Diciembre era el festival anual de Mitra celebrado, la celebración más esmerada de todas las de este culto (98:5.4)
 
-planetas decimales | (40:5.18) | | | 
-Espíritus Ayudantes de la Mente relativamente aislados en (65:7.3)
-siempre hay intermedios (38:9.2)
-Los Portadores de Vida experimentan con nuevos patrones en (57:8.7-9) (58:0.1)
-mundos de experimentos de vida con mayor variación en los diseños de vida estándar; 1 mundo en 10 es (36:2.15)
-pequeños planetas oscuros adecuados para experimentos con la vida (23:2.20) (49:5.11)
-Tabamantia es inspector de planetas decimales en Satania (49:5.12)
-Urantia es el 60 planeta decimal en Satania; características únicas (36:2.15) (49:5.11) (57:8.7-10) (58:0.1) (65:4.7-9)
+planetas decimales; planetas donde se experimenta | (40:5.18) | | | OK
+los siete Espíritus Ayudantes de la Mente están relativamente aislados en  los planetas donde se experimenta con la vida (65:7.3)
+los seres intermedios siempre aparecen en los planetas decimales (38:9.2)
+Los Portadores de Vida experimentan con nuestros patrones en los planetas decimales, nuevos modelos de movilización mecánica, química y eléctrica en el momento de su llegada posterior con el mandato de transplantar e implantar la vida. (57:8.7-9) (58:0.1)
+el los mundos de experimentación de la vida los diseños de vida varían más que en otros mundos. Esto ocurre en un mundo de cada diez (36:2.15)
+los pequeños planetas oscuros son más adecuados para experimentar con la vida (23:2.20) (49:5.11)
+Tabamantia es el inspector de todos los planetas experimentales de Satania (49:5.12)
+Urantia es el sexagésimo planeta decimal en Satania. En todo Satania sólo existen sesenta y un mundos similares a Urantia. Las dos características excepcionales en Urantia han sido: (36:2.15) (49:5.11) (57:8.7-10) (58:0.1) (65:4.7-9)
+* la aparición de la raza andónica antes de la evolución de los seis pueblos de color
+* la aparición simultánea de los mutantes sangiks en una sola familia
+* Otra variación sobresaliente de procedimiento fue la llegada tardía del Príncipe Planetario.
 
-decisiones | | consagración de elección; resolución de problemas; renacimiento espiritual; voluntad | | 
-Los ajustadores hacen que la vida sea difícil de estimular y multiplicar (108:5.5)
-consumado en acción (101:7.1) (117:5.13)
-esencial para la adquisición de valores de supervivencia (50:6.3)
-frente a una grave muerte, Jesús se retiró para la comunión (136:4.10)
-influenciado por la moralidad, la ignorancia, la inmadurez, el engaño (16:7.7)
-Las grandes decisiones de Jesús (136:5-10)
-naturaleza moral impotente sin discriminar significados (16:7.8)
-mortales
-	avanzar en el estado espiritual mediante la fuerza, el poder y la persistencia
-	de su decisión (39:4.14) (117:3.6) (127:2.12)
-	están tan desprovistos de valentía decisiones (110:4.5)
-	deben llegar a los suyos decisiones (163:2.8)
-	a veces escucha la voz directa del Ajustador sobre el supremo decisiones (110:7.9)
-de los progresores morontiales respetados, si no perjudiciales para sí mismos o para los demás (48:6.6)
-Felipe se enfrenta a la cuestión de la vida (137:2.4)
-el poder de elección es una insignia de la condición de criatura del libre albedrío (112:5.5)
-resultado de decisiones
-	relación de crisis de decisiones tiene mucho que ver con la influencia de la creación de círculos (110:6.6)
+decisiones; decisión | | consagración de elección; resolución de problemas; renacimiento espiritual; voluntad | | OK
+Cuando el hombre toma una decisión, y consuma esta decisión en una acción, el hombre efectúa una experiencia (101:7.1) (117:5.13)
+El esfuerzo y la decisión son una parte esencial de la adquisición de los valores de supervivencia. (50:6.3)
+La elección del hombre entre el bien y el mal no está influida solamente por la agudeza de su naturaleza moral, sino también por otras influencias tales como la ignorancia, la inmadurez y las ilusiones. (16:7.7)
+La naturaleza moral del hombre se encontraría impotente sin el arte de la medida, sin el discernimiento que está incorporado en su capacidad para examinar a fondo los significados. (16:7.8)
+El poder de elección es esta insignia universal de las criaturas con libre albedrío, es lo que constituye la oportunidad más grande del hombre y su responsabilidad cósmica suprema. (112:5.5)
+el Ser Supremo depende de la constancia y de la sabiduría de las acciones y decisiones para llevar a cabo la evolución experiencial. (112:5.5)
+¿Cuánto tiempo estaréis detenidos en el valle de la decisión? El Padre nunca obliga a nadie a entrar en el reino. La invitación siempre ha sido, y será siempre: Cualquiera que quiera, que venga y comparta libremente el agua de la vida (165:3.8)
+Jesús
+	Cada vez que Jesús se enfrentaba con una decisión nueva o importante, siempre tenía la costumbre de retirarse para comulgar con su propio espíritu y tratar así de conocer la voluntad de Dios. (136:4.10)
+	Las grandes decisiones de Jesús fueron: (136:5-10)
+	* no utilizaría a las poderosas personalidades en el programa posterior de su obra pública
+	* no transcendería las leyes naturales establecidas. Eligió así un programa de vida que equivalía a la decisión de estar en contra de los milagros y de los prodigios.
+	* Tomó la enérgica decisión de continuar viviendo con la misma dependencia implícita y humana de la voluntad del Padre.
+	* Escogió continuar su política de negarse a defenderse. Quizás podría utilizar su poder sobrehumano para ayudar a otros, pero nunca para sí mismo.
+	* Tomó la decisión de no satisfacer las espectativas mesiánicas del pueblo judío
+	* Decidió ejercer una vigilancia normal sobre su seguridad física, y tomar precauciones razonables para evitar el fin prematuro de su carrera
+	* no utilizaría sus poderes universales para satisfacer la inclinación de los judíos por lo espectacular y lo maravilloso
+	* no utilizaría su conocimiento superior en política y comercio, o atajos, para avanzar su misión
+	Felipe se enfrentó a la cuestión de su vida cuando tuvo que tomar la decisión de si seguir a Jesús o no (137:2.4)
+los mortales
+	El hombre crece conscientemente desde lo material hacia lo espiritual mediante la fuerza, el poder y la perseverancia de sus propias decisiones (39:4.14) (117:3.6) (127:2.12)
+	El hombre está tan desprovisto de decisiones valientes y de una cooperación consagrada, que a los Ajustadores interiores les resulta casi imposible comunicarse directamente con la mente humana. (110:4.5)
+	Siempre ha sido así y siempre será así: Los hombres deben tomar sus propias decisiones. (163:2.8)
+	Los seres humanos que se encuentran por debajo del tercero y del segundo círculos de consecución escuchan raras veces la voz directa del Ajustador, excepto en los momentos de un deseo supremo (110:7.9)
+ayuda celestial
+	Los ajustadores no están interesados en hacer fácil la carrera mortal; se ocupan más bien de hacer nuestra vida razonablemente difícil y dura a fin de estimular y multiplicar nuestras decisiones. (108:5.5)
+	las deciciones proporcionar un punto de apoyo psíquico para los Ajustadores sobre el que podrán aplicar posteriormente la palanca espiritual de una iluminación elevada y progresiva. (108:5.8)
+	El mundo espiritual está gobernado por el principio de respetar la elección de nuestro libre albedrío, a condición de que el camino que escojamos no sea perjudicial para nosotros o nocivo para nuestros compañeros. (48:6.6)
+	Los serafines nos protegen; no tratan de influirnos directamente; debemos trazar nuestros propios derroteros, y los ángeles actúan entonces para hacer el mejor uso posible del camino que hemos elegido.(113:5.4)
+resultado de las decisiones
+	la supremacía de una decisión, su relación con una crisis, tiene mucho que ver con su influencia para franquear los círculos (110:6.6)
 	las decisiones abren una nueva capacidad de crecimiento (115:3.16)
 	las decisiones morales causan la invasión divina del alma (196:3.20)
-	repeticiones persistentes de decisiones esencial para el logro del círculo psíquico (110:6.6)
-	presencia de Dios determinada por (13:4.4-5)
-proporcionar un punto de apoyo psíquico para los Ajustadores (108:5.8)
-El Ser Supremo depende para la actualidad de las decisiones mortales (112:5.5)
-permaneciendo en el valle de decisiones (165:3.8)
-trazamos nuestro propio rumbo; los ángeles hacen el mejor uso posible de ese curso (113:5.4)
+	el número de decisiones, las repeticiones frecuentes, las repeticiones persistentes, son esenciales también para tener la certeza de que tales reacciones se convertirán en hábitos. (110:6.6)
+	a la presencia funcional de la Deidad subabsoluta y experiencial le influyen clara y directamente las decisiones, las elecciones y las actitudes volitivas de estas criaturas finitas (13:4.4-5)
 
-Declaración de Libertad | | rebelión de Lucifer:manifiesto de Lucifer | | 
+Declaración de Libertad | | rebelión de Lucifer:manifiesto de Lucifer | | OK
 
-fiesta de la dedicación | | judaísmo:fiestas | | 
+fiesta de la dedicación | | judaísmo:fiestas | | OK
 
-dedicación espiritual | | consagración de elección | | 
+dedicación espiritual | | consagración de elección | | OK
 
-deducción | | lógica | | 
+deducción | | lógica | | OK
 
-ciervo | (61:3.5) (61:5.7) | | | 
-cazado por los neandertales (64:4.2)
+ciervo; ciervos | (61:3.5) (61:5.7) | | | OK
+Hace 800.000 años, la caza era abundante. Los ciervos eran cazados por los neandertales (64:4.2)
 
-defecto | | traición | | 
+defecto | | traición | | OK
 
 derrota | | depresión; decepción; desastre; miedo; dolor | | 
 después de los fracasos, ¿nos levantaremos para intentarlo de nuevo? (48:6.35)
