@@ -24,7 +24,7 @@ La misión esencial que nos hemos marcado con la *Urantiapedia* es:
 
 ## ¿Cómo funciona?
 
-Está basado en [Wiki.js](https://js.wiki/), un software de código abierto potente y extensible que está construido sobre tecnologías modernas como [Node.js](https://nodejs.org/) y [Vue.js](https://vuejs.org/). Wiki.js puede usarse libremente por cualquier organización para crear cualquier tipo de Wiki.
+Está basado en [Wiki.js](https://js.wiki/), un software de código abierto potente y extensible que está construido sobre tecnologías modernas como [Node.js](https://nodejs.org/) y [Vue.js](https://vuejs.org/). *Wiki.js* puede usarse libremente por cualquier organización para crear cualquier tipo de Wiki.
 
 Una Wiki es una página web mantenida y editada de forma colaborativa por una comunidad de usuarios. Cualquier usuario registrado, tras unas validaciones, puede añadir, modificar o eliminar contenido, y todos los cambios realizados quedan registrados en un historial permanente, de modo que nada se pierde incluso en un borrado accidental. La información es almacenada en una base de datos y se beneficia de las clásicas operaciones de adición/eliminación en masa, copia de seguridad y búsquedas rápidas.
 

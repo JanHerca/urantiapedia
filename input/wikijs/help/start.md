@@ -58,7 +58,7 @@ For each language to be included in the *Urantipedia*, all tasks will be carried
 5. Milestone V - Slides
 6. Milestone VI - 3D interactive models
 
-To find out about the Milestone of the project, check [Project Milestone](/en/help/phases).
+To find out about the Milestone of the project, check [Project Milestones](/en/help/phases).
 
 
 ## Current status
@@ -79,7 +79,7 @@ To collaborate with the project best way is sign up in *Blue Fields* (https://bl
 The different roles for *Urantiapedia* collaborators are:
 * *Administrators*: in charge of maintenance of the web server, the page, bulk load of data, and the only ones with permission to edit *The Urantia Book*, *The Bible* and future specific contents. Check more in [Admin help](/en/help/admin).
 * *Chief Editors*: in charge of contributions adding updates and translations to GitHub project that can be later bulk uploaded. *Chief Editors* also have all the capabilities of an *Assistant Editor* within the *Urantiapedia* website. Check [Chief Editors help](/en/help/github).
-* *Assistant Editors*: with permission to edit certain sections such as the *Topic Index*, articles, and material not reserved by administrators. They require to pass a validation process to obtain a account on this site.
+* *Assistant Editors*: with permission to edit certain sections such as the *Topic Index*, articles, and material not reserved by administrators. They require to pass a validation process to obtain an account on this site.
 * *Authors*: *Assistant Editors* who, apart from being able to edit what any *Assistant Editor* can, are also only editors with permission to edit certain content of which they are authors.
 * *Developers*: with a GitHub account and in charge of the development of the functionality of *Urantiapedia Tools* and *Wiki.js*. The code will be hosted in GitHub. Check [Developers help](/en/help/devs).
 * *Reviewers*: in charge of ensuring that the content of the website is correct and comply with rules.
