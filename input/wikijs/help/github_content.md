@@ -17,10 +17,10 @@ The folders that comprises *Urantiapedia* project on Github are these:
 - **docs**: project documentation.
 - **input**: main folder containing input files used to generate *Urantiapedia* pages for a language. This is the only folder that "Chief Editors" should modify in the project.
     * **html**: folder with files in HTML format.
-        * **book-xx**: *The Urantia Book* translations in original HTML from *Urantia Foundation* (`book-en`,` book-en`, etc.)
+        * **book-xx**: *The Urantia Book* translations in original HTML from *Urantia Foundation* (`book-en`,` book-es`, etc.)
     * **json**: folder with files in JSON format.
-        * **book-xx**: *The Urantia Book* translations in JSON format, without *Paramony* footnotes (`book-en`,` book-en`, etc.)
-        * **book-xx-footnotes**: *The Urantia Book* translations in JSON format and with *Paramony* footnotes (`book-en-footnotes`,` book-en-footenotes`, etc.)
+        * **book-xx**: *The Urantia Book* translations in JSON format, without *Paramony* footnotes (`book-en`,` book-es`, etc.)
+        * **book-xx-footnotes**: *The Urantia Book* translations in JSON format and with *Paramony* footnotes (`book-en-footnotes`,` book-es-footenotes`, etc.)
         * **footnotes-book-xx.json**: *Paramony* footnotes in JSON format.
     * **mediawiki** [`DEPRECATED`]: folder with old files in Wikitext format for MediaWiki. First version of *Urantiapedia* was made for MediaWiki but current one is created with *Wiki.js*.
         * **articles-xx**: old folders for article samples in Wikitext format.
