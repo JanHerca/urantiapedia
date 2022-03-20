@@ -1068,7 +1068,7 @@ distress | | sorrow | | OK
 Dium | | | PLACE | OK
 Jesus, the twelve apostles, the twelve evangelists and an additional group of evangelists, preached in this city during his second tour of the Decapolis, between August 18 and September 16 of the year 29 (159:0.2)
 
-diversity; versatility; DIVERSITY; divergencies | | spiritual unity; tolerance | | 
+diversity; versatility; DIVERSITY; divergencies | | spiritual unity; tolerance | | OK
 The differences of nature, reaction, viewpoint, and thinking between men and women, far from occasioning concern, should be regarded as highly beneficial to mankind, both individually and collectively. Such dual associations greatly multiply versatility and overcome inherent limitations (84:6.5-6)
 Without co-ordinate existences there is no possibility for the appearance of diversity of absolute relationships, no chance for the operation of differentials, variables, modifiers, attenuators, qualifiers, or diminishers. (104:3.4)
 While infinity is on the one hand UNITY, on the other it is DIVERSITY without end or limit. (115:3.4)
@@ -1301,7 +1301,7 @@ doing versus being | | being | | OK
 Doings of Kings of Israel; The Doings of the Kings of Israel | | | | OK
 After the priests of the Babylonian exile had prepared their new record of God’s supposedly miraculous dealings with the Hebrews, the sacred history of Israel as portrayed in the Old Testament, they carefully and completely destroyed the existing records of Hebrew affairs—such books as “The Doings of the Kings of Israel” and “The Doings of the Kings of Judah,” together with several other more or less accurate records of Hebrew history. (97:8.1)
 
-Doings of Kings of Judah; The Doings of the Kings of Judah | | | | 
+Doings of Kings of Judah; The Doings of the Kings of Judah | | | | OK
 After the priests of the Babylonian exile had prepared their new record of God’s supposedly miraculous dealings with the Hebrews, the sacred history of Israel as portrayed in the Old Testament, they carefully and completely destroyed the existing records of Hebrew affairs—such books as “The Doings of the Kings of Israel” and “The Doings of the Kings of Judah,” together with several other more or less accurate records of Hebrew history. (97:8.1)
 
 doll | | | | OK
@@ -1315,8 +1315,8 @@ Some examples offered in The Urantia Book are in dollars: (58:2.1)
 
 dolomite limestone | | limestone | | OK
 
-dolphins | | | | 
-placental mammal that returned to sea (61:2.11)
+dolphins | | | | OK
+dolphins are descendants of a placental mammal that returned to sea (61:2.11)
 
 Don | | | PLACE | OK
 Some entered Europe by way of the islands of the Aegean and up the Danube valley, but the majority of the earlier and purer strains migrated to northwestern Europe by the northern route across the grazing lands of the Volga and the Don. (80:4.1-2)
@@ -1344,24 +1344,27 @@ Dorcas is the owner of the house where Gadiah and Peter had a memorable discussi
 Dothan | | | PLACE | OK
 Joseph’s brethren sold him into Egyptian slavery at Dothan (126:1.2)
 
-doubt | | anxiety; uncertainty | | 
-alone, can never prevent survival (110:3.5)
-believers’ certain reply to (102:6.5) (102:7.6-9)
-believers’ only battle is against (159:3.8) (165:5.5)
-do not fear; Spirit of Truth will speak (34:7.8)
-doubting messengers carried message just as swiftly (190:1.6)
-faith triumphant over (101:0.3) (102:6.7) (103:8.4-5) (182:3.11)
-first 7 years of rebellion were times of heart searching (67:3.7)
-honest doubt is not sin (102:1.1)
-inhibits free expression (196:0.11)
-Jesus experienced doubt (124:4.2) (136:8.3)
-Jesus loved honest doubters (139:8.6)
-John the Baptist swept aside (135:4.6) (135:7.1)
-most stubbornly asserts itself just before crumbling (191:5.4)
-reference in 23rd Psalm (48:6.9-19)
-spiritual rebirth gives power to overcome all (142:5.3)
+doubt; doubts; questioned | | anxiety; uncertainty | | OK
+Ignorance alone can never prevent survival; neither can confusional doubts nor fearful uncertainty. (110:3.5)
+when unbelievers question believers' knowledge of God, believers may respond to doubters, “How do you know that I do not know?” (102:6.5) (102:7.6-9)
+The believer has only one battle, and that is against doubt —unbelief. (159:3.8) (165:5.5)
+do not fear; do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying, “This is the way” (34:7.8)
+the messengers who brought the news of the resurrection of Jesus believed what David had told them, and even those who somewhat doubted, carried the message just as certainly and just as swiftly. (190:1.6)
+Belief may not be able to resist doubt and withstand fear, but faith is always triumphant over doubting, for faith is both positive and living. (101:0.3) (102:6.7) (103:8.4-5) (182:3.11)
+the first seven years of rebellion were times of heart searching (67:3.7)
+But honest doubts and sincere questionings are not sin; such attitudes merely spell delay in the progressive journey toward perfection attainment. (102:1.1)
+doubts inhibits free expression (196:0.11)
+doubts most stubbornly asserts itself just before crumbling (191:5.4)
+reference in 23rd Psalm: (48:6.9-19)
+* Though I go down into the valley of uncertainty or ascend up into the worlds of doubt,
+* I shall not doubt you nor fear you,
+whosoever has been born of the spirit has in himself the power to overcome all doubt, and this is the victory that overcomes all uncertainty, even your faith. (142:5.3)
 temptation to doubt vanishes on 3rd circuit of Havona (26:9.3)
-Thomas afflicted by (139:8.10) (181:2.26)
+Jesus
+	John the Baptist swept aside all doubts about who was going to be and decided to start preaching (135:4.6) (135:7.1)
+	Jesus experienced many seasons of uncertainty, if not actual doubt, regarding the nature of his mission (124:4.2) (136:8.3)
+	Thomas afflicted by doubts. The Master knew all about this and had an understanding sympathy for his apostle when he was thus afflicted with depression and harassed by doubts. (139:8.10) (181:2.26)
+	Jesus loved honest doubters (139:8.6)
 
 doubters | | unbelievers | | OK
 
@@ -1370,89 +1373,90 @@ Early in evolutionary religion the lamb became the typical sacrificial animal an
 Jesus said: “Behold I send you forth as sheep in the midst of wolves; be you therefore as wise as serpents and as harmless as doves”. (140:8.13) (140:9.3) (163:1.3) (178:1.7)
 Mary maintained dovecote on rooftop (123:4.4)
 In the house of Nazareth they had a small business selling doves that Jesus transferred to his brother Santiago (126:3.12)
-At one time the greedy priests went so far as to demand the equivalent of the value of a week’s labor for a pair of doves which should have been sold to the poor for a few pennies.  (122:10.2) (173:1.2)
+At one time the greedy priests went so far as to demand the equivalent of the value of a week’s labor for a pair of doves which should have been sold to the poor for a few pennies. (122:10.2) (173:1.2)
 
-dowries | | | | 
-dowry was once reward for sex services (82:3.10)
-man could take wife, children after paying bride price (84:2.5)
-often collected by temporary temple prostitution (89:7.5)
-originally, payment to bride’s father for wife (83:3)
-upon divorce, repayment required (83:3.4)
+dowries; dowry | | | | OK
+Many tribes allowed rulers to have sex relations with a bride just before she was to be given to her husband. The dowry consisted of the presents received in reward for her sex service in the bride’s exhibition hall. (82:3.10)
+At first, it was the custom for the man to go to his wife’s people, but in later times, after a man had paid or worked out the bride price, he could take his wife and children back to his own people. (84:2.5)
+Many of the better classes of women collected their dowries by temporary sex service in the temples, and most men preferred to have such women for wives. (89:7.5)
+As civilization progressed, fathers did not like to appear to sell their daughters and used presents instead of money. And upon the later discontinuance of payment for the bride, these presents became the bride’s dowry. (83:3)
+The idea of a dowry was to convey the impression of the bride’s independence, to suggest far removal from the times of slave wives and property companions. A man could not divorce a dowered wife without paying back the dowry in full. (83:3.4)
 
-dragon | | | | 
-Chinese worship of dragon was survival of snake cult (85:3.3)
-in Apostle John’s vision (53:7.7)
-symbolic representation of Lucifer and rebels (53:1.6) (53:5.6)
+dragon | | | | OK
+The Chinese worship of the dragon is a survival of the snake cults. (85:3.3)
+in Apostle John’s vision he saw a great red dragon. He wrote: “And his tail drew a third part of the stars of heaven and cast them down in darkness” (53:7.7)
+The dragon became the symbolic representation of all Lucifer and his rebel followers. Upon the triumph of Michael, “Gabriel came down from Salvington and bound the dragon (all the rebel leaders) for an age”. “There was war in heaven; Michael’s commander and his angels fought against the dragon”, Lucifer, Satan, and the apostate princes; “and the dragon and his rebellious angels fought but prevailed not” (53:1.6) (53:5.6)
 
-dragon flies | | | | 
-measured 30 inches across (59:5.7)
+dragon flies | | | | OK
+First dragon flies measured thirty inches across. (59:5.7)
 
-drama | | | | 
+drama | | | | OK
 Jesus never premeditated anything dramatic (138:6.5)(172:3.11)
-originated in acting for spirit guidance (92:3.6)
+Religion enmothered much nonreligious culture as drama in the acting for spirit guidance. (92:3.6)
 
 draught of fishes | (145:1) | | | OK
 
-Dravidians | (79:3) | | RACE | 
-absorbed Aryan conquerors, overran most of India (79:4.2)
-among earliest peoples to build cities (79:3.7)
-Andite conquerors of India blended with natives (78:5.6)(79:3.1)
-centers in river valleys (79:3.6)
-founded superior civilization 12,000 years ago (79:3.1,8)
+Dravidians; Dravidian | (79:3) | | RACE | OK
+the Dravidians are inhabitants of southern India who invaded the peninsula and absorbed the Aryan conquerors from the north (79:4.2)
+The blending of the Andite conquerors of India with the native stock eventually resulted in that mixed people which has been called Dravidian. These Andites were the so-called Dravidian and later Aryan conquerors of India (78:5.6)(79:3.1)
+The Dravidians were among the earliest peoples to build cities and to engage in an extensive export and import business, both by land and sea. (79:3.7)
+The Dravidian centers of culture were located in the river valleys, principally of the Indus and Ganges, and in the Deccan along the three great rivers flowing through the Eastern Ghats to the sea. (79:3.6)
+they founded a superior civilization 12,000 years ago (79:3.1,8)
 
 drawings | | images | | OK
 
-dreamers | | | | 
-men are naturally (99:7.5)
-supinely trusting in a fictitious Providence (178:1.14)
+dreamers; dreamer | | | | OK
+Man is naturally a dreamer (99:7.5)
+We should not to be passive mystics or colorless ascetics; we should not become dreamers and drifters, supinely trusting in a fictitious Providence to provide even the necessities of life. (178:1.14)
 
-dreams | | sleep | | 
-absurdities of dreams testify to pressure of unexpressed emotions (110:5.4)
+dreams; dream | | sleep | | OK
+The absurdities of dreams not only testify to pressure of unexpressed emotions but also bear witness to the horrible distortion of the spiritual concepts presented by the Adjusters. (110:5.4)
 celestials seldom use dreams to communicate (86:5.11)
-disordered, disconnected parade of uncoordinated sleeping mind (44:4.7) (110:5.2-5)
-grotesque dreams indicate Adjusters’ failure to make efficient contact (110:5.2-5)
+human dreams are the disordered, disconnected parade of uncoordinated sleeping mind (44:4.7) (110:5.2-5)
+While we are asleep, the Adjusters try to register their creations in the higher levels of our material mind, and some of our grotesque dreams indicate their failure to make efficient contact. (110:5.2-5)
 interpretation of dreams
-	danger to regard as divine communications (100:5.6) (110:5.5)
-	largely superstitious and groundless (90:2.5) (150:3.9)
-ordinary dreams are purely physiologic and psychologic (110:5.5)
+	The great danger in all these psychic speculations is that visions and other so-called mystic experiences, along with extraordinary dreams, may be regarded as divine communications to the human mind. (100:5.6) (110:5.5)
+	The interpretation of dreams is largely a superstitious and groundless system of ignorant and fantastic speculation. (90:2.5) (150:3.9)
+	ordinary dreams are purely physiologic and psychologic (110:5.5)
 particular dreams
-	Claudia Procula’s of Jesus (185:5.8)
-	convinced Zacharias regarding John (122:2.5)
-	delivered Peter from fear of uncleanness (153:3.6)
-	informed strange religious teacher of Jesus’ birth (122:8.6)
-	Peter’s of Jesus on Sea of Galilee (152:4)
-	reconciled Joseph regarding Jesus’ birth (122:4.1)
-	young Jesus’ sleep disturbed by revolting (125:2.4)
-	Zoroaster’s caused him to remodel his religion (95:6.2)
+	Some important dreams in history:
+	* Zoroaster’s one that caused him to remodel his religion (95:6.2)
+	* The dream that informed a strange religious teacher of Jesus’ birth (122:8.6)
+	* The one that convinced Zacharias regarding John, his son, the Baptist (122:2.5)
+	* The one reconciled Joseph regarding Jesus’ birth (122:4.1)
+	* Young Jesus’ one disturbed by revolting of slaughters in Jerusalem temple (125:2.4)
+	* Peter’s one seeing Jesus walking on Sea of Galilee (152:4)
+	* Claudia Procula’s, wife of Pilate, about Jesus (185:5.8)
+	* The one that delivered Peter from fear of Jewish traditions about uncleanness (153:3.6)
 primitives’ dreams
-primitives believed dreams as real as waking experience (86:5.10)
-	primitives believed soul left body during dreams (86:5.6,10)
-	ghost dream was greatest factor in societal evolution (68:3) (87:5.14)
-	primitives convinced of afterlife by dreams (63:3.5) (86:4.1-2)
+	primitive man believed dreams as real as waking experience (86:5.10)
+	primitive man believed soul left body during dreams (86:5.6,10)
+	Probably the greatest single factor in the evolution of human society was the ghost dream. (68:3) (87:5.14)
+	primitive man self-convinced of afterlife existence by dreams (63:3.5) (86:4.1-2)
 
-drifters | | indolence | | 
-supinely trusting in a fictitious Providence (178:1.14)
+drifters | | indolence | | OK
+we must be a drifters supinely trusting in a fictitious Providence (178:1.14)
 
 drills | (59:2.12) | | | OK
 
 drives, innate | | instincts | | OK
 
-dropsy | | | | 
-Jesus healed man with (167:1.5)
+dropsy | | | | OK
+Jesus healed man with dropsy on Sabbath (167:1.5)
 
-drought | | climate | | 
-caused Andite exodus from Caspian region (79:1.3-6)
-caused highland tribes to invade Euphrates valley (78:8.3)
-disrupted Sahara civilization (80:1.4) (80:2.1)
-drove Andites to Egypt (79:1.2-3)
-drove Andonites from Asia to Europe (80:9.6)
-severe drought meant death to early agriculturists (90:2.6)
+drought | | climate | | OK
+a ever-increasing drought gradually brought about the great Andite exodus from the lands south and east of the Caspian Sea. (79:1.3-6)
+an increasing drought caused highland tribes to invade Euphrates valley (78:8.3)
+a great climatic change destroyed the civilization of the Sahara. Northern ice retreated and water-laden winds from the west shifted northward, turning the great open pasture regions of Sahara into barren desert. (80:1.4) (80:2.1)
+By 8000 B.C. the slowly increasing aridity of the highland regions of central Asia began to drive the Andites to the river bottoms and the seashores. This increasing drought not only drove them to the valleys of the Nile, Euphrates, Indus, and Yellow rivers, but it produced a new development in Andite civilization.  (79:1.2-3)
+By 3000 B.C. increasing aridity was driving these Andonites back into Turkestan and Europe (80:9.6)
+A severe drought meant death to the early agriculturists; weather control was the object of much ancient magic. (90:2.6)
 
-drudgery | | monotony | | 
-benumbing (70:2.17)
-men left routine drought to women (69:3.3)
-no such thing as menial labor in spiritual worlds (25:1.1)
-religion ennobles commonplace work; work as for God (100:0.2) (133:4.8) (181:2.19) (192:2.13)
+drudgery | | monotony | | OK
+Labor is ennobling but drudgery is benumbing. (70:2.17)
+Man has most selfishly chosen the more agreeable work, leaving the routine drudgery to woman. (69:3.3)
+In the spiritual world there is no such thing as menial work; all service is sacred and exhilarating; neither do the higher orders of beings look down upon the lower orders of existence. (25:1.1)
+religion ennobles the commonplace drudgery of daily living. We should do oour work, therefore, from this time on, as for God.  (100:0.2) (133:4.8) (181:2.19) (192:2.13)
 
 drugs | | intoxication | | OK
 
@@ -1460,10 +1464,10 @@ drumlins | (61:7.1) | | | OK
 
 drunkenness | | intoxication | | OK
 
-dual-origin beings | | Sons of God | ORDER | 
-beings of direct or indirect origin in any two of the Paradise Deities (30:1.29)
-creation of Havona Servitals is pattern for (25:1.2)
-in Paradise classification (30:1.29-54)
+dual-origin beings; DUAL-ORIGIN BEINGS; dual order | | Sons of God | ORDER | OK
+dual-origin beings are those of origin in any two of the Paradise Deities or otherwise created by any two beings of direct or indirect descent from the Paradise Deities. (30:1.29)
+creation of Havona Servitals, the joint creative work of the Seven Master Spirits and their associates, the Seven Supreme Power Directors, is a pattern for the long list of reproductions of the dual order in the evolutionary universes (25:1.2)
+they appear in the second group in Paradise classification of beings (30:1.29-54)
 orders
 	* A. descending orders
 	*# Creator Sons
@@ -1491,73 +1495,74 @@ orders
 	*# translated midwayers | midwayers
 	*# unrevealed ascenders (30:1.54)
 
-dual spiritism | | | | 
-2 kinds of ghosts (87:4.3-7)
-doctrine complicated conception of cosmic unity (87:4.6)
-gave rise to beliefs in white and black magic (88:6.2)
-pitted one agency against another (87:6.13)
-superstition of good and bad spirits (69:3.5)
-young Jesus long accepted (123:3.3)
-Zoroaster much affected by (92:5.12) (95:6.5)
+dual spiritism | | | | OK
+The notion of two kinds of spirit ghosts made slow but sure progress throughout the world. (87:4.3-7)
+while this belief did enable man to reconcile the variables of chance with a concept of unchanging supermortal forces, this doctrine has ever since made it difficult for religionists to conceive of cosmic unity. (87:4.6)
+The concept of dual spiritism, good and bad spirits, gave rise to the later beliefs in white and black magic. (88:6.2)
+The dual-spiritism concept of good and bad forces offered man ample opportunity to attempt to pit one agency against another, for, if a powerful man could vanquish a weaker one, then certainly a strong spirit could dominate an inferior ghost. (87:6.13)
+And this belief later became involved in the superstition of good and bad ghosts, good and bad spirits. (69:3.5)
+young Jesus was long willing to accept the doctrine of good spirits and evil spirits as the possible explanation of mental and spiritual phenomena, but he very early became doubtful that such unseen influences were responsible for the physical happenings of the natural world. (123:3.3)
+Zoroaster was much affected by the prevalent concept of dual spiritism, the good and the bad, at the same time definitely exalted the idea of one eternal Deity and of the ultimate victory of light over darkness. (92:5.12) (95:6.5)
 
-duality relationships | | | | 
-between I AM as sevenfold and 7 Absolutes of Infinity (105:4.5,8)
+duality relationships; Duality relationships | | | | OK
+Duality relationships are relations existent between the I AM as sevenfold and the Seven Absolutes of Infinity. The dualities eternalize reality foundations. (105:4.5,8)
 
-ducks | | | | 
-descended from enormous ancient reptiles (65:2.9)
+ducks | | | | OK
+The bird types of today—eagles, ducks, pigeons, and ostriches—all descended from the enormous reptiles of long, long ago. (65:2.9)
 
-due process | | | | 
+due process | | | | OK
 Caligastia contested Moses’ passage to mansion worlds (52:5.5)
-no local universe tribunal existed to detain Lucifer (53:7.14)
-no way found to stop archrebels from attending Edentia councils (43:4.7-9)
+While Lucifer was deprived of all administrative authority in Satania, there then existed no local universe power nor tribunal which could detain or destroy this wicked rebel; at that time Michael was not a sovereign ruler. (53:7.14)
+no way found to stop archrebels from attending Edentia councils after the bestowal of Michael on Urantia and his subsequent assumption of unlimited sovereignty throughout all Nebadon (43:4.7-9)
 
-dueling | | | | 
-represents unwillingness to surrender private redress (70:10.16)
-substituted for tribal war (70:1.19)
-survival of trial by ordeal (70:10.7)
+dueling; duel | | | | OK
+Lynching and dueling represent the unwillingness of the individual to surrender private redress to the state. (70:10.16)
+Early wars were fought between tribes as a whole, but in later times, when two individuals in different tribes had a dispute, instead of both tribes fighting, the two disputants engaged in a duel. (70:1.19)
+Dueling is a modern survival of the trial by ordeal. (70:10.7)
 
-duplication | | | | 
-Deities not given to useless (6:4.2)
+duplication | | | | OK
+In the eternal economy of universe administration, wasteful and needless repetition of function is never encountered; the Deities are not given to useless duplication of universe ministry. (6:4.2)
 
-dust | | | | 
-dust we are, and to dust we shall return (1:4.3) (68:6.1)
+dust | | | | OK
+when the dust that composes the mortal tabernacle “returns to the earth whence it came”; then, it is revealed, the indwelling “Spirit shall return to God who gave it.”  “Dust we are and to dust shall we return” (1:4.3) (68:6.1)
 
-duty | | responsibility; trust | | 
-according to Hinduism (131:4.6)
-Adjuster translates duty into faith in revelation (102:1.1)
-devotion to commonplace social obligations (91:7.9) (100:6.5) (126:5.4) (178:1.8)
-eclipsing emotion of spiritual beings is joy of (25:1.6)
-evading duty by failing in high and holy obligations (185:0.4)
-faithfully performed precludes sorrow (25:1.6)
-folly of running away from duty for far-off enticements (130:1.2)
-for ghost cultists, what must be done to keep spirits favorably disposed (87:5.11)
-go forth to do (163:6.7)
-idea signifies servant-mindedness (180:1.6)
-in morontia, time no longer available to circumvent disagreeable obligations (48:5.8)
-man’s understanding of duty only relatively true (115:1.2)
-moral intuition is realization of duty; cosmic mind response (16:6.7) (16:7.1)
-perform duty faithfully, then accept one’s lot (48:6.36)
-performing earthly assignments in human faithfulness (34:6.13)
+duty; obligations; Duty | | responsibility; trust | | OK
+the sum of duty according to Hinduism: Let no man do to another what would be repugnant to himself; cherish no malice, smite not him who smites you, conquer anger with mercy, and vanquish hate by benevolence. (131:4.6)
+The work of the Thought Adjuster constitutes the explanation of the translation of man’s primitive and evolutionary sense of duty into that higher and more certain faith in the eternal realities of revelation. (102:1.1)
+an inspired soul is that faithfully discharging the commonplace duties of routine mortal existence (91:7.9) (100:6.5) (126:5.4) (178:1.8)
+The satisfying joy of high duty is the eclipsing emotion of spiritual beings. (25:1.6)
+many peoples have failed in the recognition of high and holy obligations of a divine nature while giving meticulous attention to things of trifling importance (185:0.4)
+Sorrow cannot exist in the face of the consciousness of divine duty faithfully performed. (25:1.6)
+it is folly of running away from duty for far-off enticements (130:1.2)
+for ancient ghost believers duty was those things which must be done to keep the spirits favourably disposed, at least neutral. (87:5.11)
+We have been shown the way and now we must go forth to do our duty and be not weary in well doing. (163:6.7)
+The idea of duty signifies that you are servant-minded and hence are missing the mighty thrill of doing your service as a friend and for a friend. (180:1.6)
+in morontia worlds, time no longer available to circumvent disagreeable obligations (48:5.8)
+man’s understanding of duty is only relatively true (115:1.2)
+Moral intuition, the realization of duty, is a component of human mind endowment and is associated with the other inalienables of human nature: scientific curiosity and spiritual insight. (16:6.7) (16:7.1)
+we will learn to suffer less through sorrow and disappointment by making fewer personal plans concerning other personalities, and by accepting our lot when we have faithfully performed our duty. (48:6.36)
+we can rise above the lowly paths of toil and in human faithfulness performance of the duties of earthly tasks by discerning the lights of eternal life (34:6.13)
 promises should be kept (157:1.2)
+If any man wants to follow Jesus must take up responsibilities daily and follow him (158:7.5)
+The sense of evolutionary duty and the obligations consequent upon the illumination of revelation make such a profound impression upon man’s moral nature that he finally reaches that position of mind and that attitude of soul where he concludes that he has no right not to believe in God. (101:1.7)
 summary of mortal duty
-	attainment of perfection (1:0.4) | perfection:attainment
-	believers’ duty is to man, God, and fellowship; to preach gospel (178:1.5,11)
-	bringing children into the world is supreme duty (84:7.25-26)
-	deal justly, love mercy, walk humbly with God (97:5.6) (126:4.5)
-	fear God and keep his commandments (131:2.9)
+	the first duty should be the attainment of the perfection of divinity (1:0.4) | perfection:attainment
+	believers in the heavenly kingdom have a threefold sacred duty: to man, to God, and service to the brotherhood of God-knowing believers, to preach the gospel (178:1.5,11)
+	bringing children into the world is the supreme responsibility of human existence. (84:7.25-26)
+	The Lord require of us to deal justly, love mercy, and walk humbly with God (97:5.6) (126:4.5)
+	the whole duty of man resides in fear God and keep his commandments (131:2.9)
 	highest duty is to one’s family (126:3.5) (127:5.3) (140:8.14)
-	live up to responsibilities with energy and enthusiasm (159:5.10)
-	recognition of progressive obligation to the Supreme (110:3.10) (117:4.8)
-	to avail ourselves of advantages so freely provided for survival (40:10.14)
-	whole duty is love for God and man (142:3.22) (163:4.8)
-take up responsibilities daily and follow Jesus (158:7.5)
-teaches man has no right not to believe in God (101:1.7)
+	we have to live up to responsibilities with energy and enthusiasm (159:5.10)
+	the universal duty is the recognition of progressive obligation to the Supreme (110:3.10) (117:4.8)
+	we should avail ourselves of advantages so freely provided for survival (40:10.14)
+	man’s whole duty is summed up in this one commandment: Love the Lord your God with all your mind and soul and your neighbor as yourself (142:3.22) (163:4.8)
 
-dwarfs | | | | 
-evolving monotheists keep subordinate gods as (96:1.14)
+dwarfs | | | | OK
+evolving monotheists keep some subordinate gods as dwarfs (96:1.14)
 
-Dyaks | | | | 
-primitive religious practices of (92:6.1)
+Dyaks | | | | OK
+Dyaks are a modern tribe that only have developed primitive religious practices (92:6.1)
+> https://en.wikipedia.org/wiki/Dayak_people
 
 Dyaus pitar | | | PERSON | OK
 Vedic lord of heaven (94:1.3)

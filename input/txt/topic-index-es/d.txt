@@ -1068,7 +1068,7 @@ angustia | | dolor | | OK
 Dium | | | PLACE | OK
 Jesús, los doce apóstoles, los doce evangelistas y un grupo adicional de evangelistas, predicaron en esta ciudad durante su segunda gira por la Decápolis, entre el 18 de agosto y el 16 de septiembre del año 29 (159:0.2)
 
-diversidad; DIVERSIDAD; divergencias | | unidad espiritual; tolerancia | | 
+diversidad; DIVERSIDAD; divergencias | | unidad espiritual; tolerancia | | OK
 Las diferencias de naturaleza, reacción, puntos de vista y pensamientos entre los hombres y las mujeres, en lugar de producir inquietud, deberían ser consideradas como altamente beneficiosas para la humanidad, tanto individual como colectivamente. Estas asociaciones duales multiplican enormemente la diversidad de talentos y vencen las limitaciones inherentes (84:6.5-6)
 La diversidad de las relaciones absolutas no tiene ninguna posibilidad de aparecer sin unas existencias coordinadas, y los factores diferenciales, variables, modificadores, atenuadores, limitadores o reductores no tienen ninguna probabilidad de funcionar. (104:3.4)
 Aunque la infinidad es por una parte una UNIDAD, por otra es una DIVERSIDAD sin fin ni límites. (115:3.4)
@@ -1301,7 +1301,7 @@ hacer frente a ser | | ser | | OK
 Actos de los reyes de Israel | | | | OK
 Durante el exilio en Babilonia, los sacerdotes prepararon su nuevo relato sobre las relaciones supuestamente milagrosas entre Dios y los hebreos, la historia sagrada de Israel tal como figura en el Antiguo Testamento. Luego destruyeron de manera cuidadosa y por completo los archivos existentes de los asuntos hebreos —los libros tales como «Los Actos de los reyes de Israel» y «Los Actos de los reyes de Judá», así como otros diversos documentos más o menos precisos de la historia hebrea. (97:8.1)
 
-Actos de los reyes de Judá | | | | 
+Actos de los reyes de Judá | | | | OK
 Durante el exilio en Babilonia, los sacerdotes prepararon su nuevo relato sobre las relaciones supuestamente milagrosas entre Dios y los hebreos, la historia sagrada de Israel tal como figura en el Antiguo Testamento. Luego destruyeron de manera cuidadosa y por completo los archivos existentes de los asuntos hebreos —los libros tales como «Los Actos de los reyes de Israel» y «Los Actos de los reyes de Judá», así como otros diversos documentos más o menos precisos de la historia hebrea. (97:8.1)
 
 muñeca; muñecas | | | | OK
@@ -1316,7 +1316,7 @@ Algunos ejemplos que proporciona El Libro de Urantia lo hace en dólares: (58:2.
 caliza dolomita | | caliza | | OK
 
 delfines | | | | OK
-mamífero placentario que regresó al mar (61:2.11)
+los delfines provienen de una especie de mamífero placentario que regresó al mar (61:2.11)
 
 Don | | | PLACE | OK
 Algunos entraron en Europa por las islas del mar Egeo y remontando el valle del Danubio, pero la mayoría de los primeros linajes más puros emigraron al noroeste de Europa por la ruta del norte a través de las tierras de pastoreo del Volga y el Don. (80:4.1-2)
@@ -1344,24 +1344,27 @@ Dorcas es el propietario de la casa donde Gadías y Pedro tuvieron una memorable
 Dotán | | | PLACE | OK
 Los hermanos de José lo vendieron como esclavo egipcio en Dotán (126:1.2)
 
-duda | | ansiedad; incertidumbre | | 
-solo, nunca puede prevenir la supervivencia (110:3.5)
-respuesta segura de los creyentes a (102:6.5) (102:7.6-9)
-la única batalla de los creyentes es contra (159:3.8) (165:5.5)
-no temas; El Espíritu de la Verdad hablará (34:7.8)
-los mensajeros que dudaban llevaron el mensaje con la misma rapidez (190:1.6)
-fe triunfante sobre (101:0.3) (102:6.7) (103:8.4-5) (182:3.11)
-Los primeros 7 años de rebelión fueron tiempos de búsqueda del corazón (67:3.7)
-las dudas honestas no son pecado (102:1.1)
-inhibe la libre expresión (196:0.11)
-Jesús experimentó dudas (124:4.2) (136:8.3)
-Jesús amaba a los escépticos honestos (139:8.6)
-Juan el Bautista hizo a un lado (135:4.6) (135:7.1)
-se afirma más obstinadamente justo antes de desmoronarse (191:5.4)
-referencia en el Salmo 23 (48:6.9-19)
-el renacimiento espiritual da poder para vencer todo (142:5.3)
+duda; dudas; puesto en duda | | ansiedad; incertidumbre | | OK
+La ignorancia por sí sola nunca puede impedir la supervivencia, así como tampoco las dudas confusas o la incertidumbre temerosa. (110:3.5)
+cuando los no creyentes ponen en duda el conocimiento de Dios de los creyentes, estos pueden responder a los escépticos: «¿Cómo sabes que yo no sé?» (102:6.5) (102:7.6-9)
+El creyente sólo tiene que librar una batalla, y es contra la duda —contra la incredulidad. (159:3.8) (165:5.5)
+no temáis; no vaciléis ni pongáis en duda vuestro estado ni vuestra posición, porque en todas las horas sombrías, en todas las encrucijadas de la lucha por el progreso, el Espíritu de la Verdad siempre hablará, diciendo: «Éste es el camino» (34:7.8)
+los mensajeros que llevaron la noticia de la resurrección de Jesús creía en lo que David les había dicho, e incluso aquellos que dudaban un poco, llevaron el mensaje con la misma certeza y la misma rapidez que los demás. (190:1.6)
+La creencia puede ser incapaz de resistir a la duda y de soportar el miedo, pero la fe siempre triunfa sobre la duda, porque la fe es a la vez positiva y viviente. (101:0.3) (102:6.7) (103:8.4-5) (182:3.11)
+Los primeros siete años de la rebelión fueron tiempos de búsqueda del corazón (67:3.7)
+Las dudas honradas y las preguntas sinceras no son un pecado; estas actitudes representan simplemente un retraso en el viaje progresivo hacia el logro de la perfección. (102:1.1)
+las dudas inhiben la libre expresión (196:0.11)
+las dudas se afirman más obstinadamente justo antes de desmoronarse (191:5.4)
+referencias en el Salmo 23: (48:6.9-19)
+* Aunque descienda al valle de la incertidumbre o ascienda a los mundos de la duda,
+* No dudaré de ti ni te temeré,
+cualquiera que ha nacido del espíritu tiene dentro de sí el poder de vencer todas las dudas, y ésta es la victoria que supera todas las incertidumbres, vuestra propia fe (142:5.3)
 la tentación de dudar se desvanece en el tercer circuito de Havona (26:9.3)
-Tomás afligido por (139:8.10) (181:2.26)
+Jesús
+	Juan el Bautista barrió todas sus dudas sobre quién iba a ser y se dispuso a ser predicador (135:4.6) (135:7.1)
+	Jesús experimentó numerosos períodos de incertidumbre, si no de verdadera duda, en cuanto a la naturaleza de su misión (124:4.2) (136:8.3)
+	Tomás estaba afligido por las dudas. El Maestro estaba al corriente de todo esto y tenía una simpatía comprensiva por su apóstol cuando estaba así de afligido por la depresión y acosado por las dudas. (139:8.10) (181:2.26)
+	Jesús amaba a los escépticos honestos (139:8.6)
 
 escépticos | | incrédulos | | OK
 
@@ -1370,89 +1373,90 @@ Al principio de la religión evolutiva, el cordero se convirtió en el típico a
 Decía Jesús: «Mirad, os envío como ovejas en medio de los lobos; sed pues tan prudentes como las serpientes y tan inofensivos como las palomas». (140:8.13) (140:9.3) (163:1.3) (178:1.7)
 María mantuvo un palomar en la azotea (123:4.4)
 En la casa de Nazaret tenían un pequeño negocio de venta de palomas que Jesús transfirió a su hermano Santiago (126:3.12)
-En un momento dado, los codiciosos sacerdotes llegaron a exigir el equivalente de una semana de trabajo por un par de palomas que deberían haberse vendido a los pobres por unos pocos céntimos.  (122:10.2) (173:1.2)
+En un momento dado, los codiciosos sacerdotes llegaron a exigir el equivalente de una semana de trabajo por un par de palomas que deberían haberse vendido a los pobres por unos pocos céntimos. (122:10.2) (173:1.2)
 
-dotes | | | | 
-la dote fue una vez recompensa por servicios sexuales (82:3.10)
-el hombre podría tomar esposa, hijos después de pagar el precio de la novia (84:2.5)
-a menudo recolectada por la prostitución temporal en el templo (89:7.5)
-originalmente, pago al padre de la novia por esposa (83:3)
-tras el divorcio, se requiere el reembolso (83:3.4)
+dotes; dote | | | | OK
+Muchas tribus permitían que sus dirigentes tuvieran relaciones sexuales con una novia antes de que fuera entregada a su marido. La dote consistía en los regalos que recibía como recompensa por sus servicios sexuales en la sala de exhibición de las novias (82:3.10)
+Al principio, la costumbre exigía que el hombre se fuera a vivir con la familia de su mujer, pero en tiempos posteriores, una vez que el hombre había pagado en dinero o con su trabajo el precio de la novia, podía llevarse a su esposa y a sus hijos con su propia familia. (84:2.5)
+Muchas mujeres de las mejores clases acumularon su dote mediante un servicio sexual temporal en los templos, y la mayoría de los hombres preferían tener como esposas a estas mujeres. (89:7.5)
+A medida que progresó la civilización, los padres no quisieron dar la impresión de que vendían a sus hijas y usaban regalos en lugar de dinero. Más tarde, cuando se dejó de pagar para obtener una esposa, estos regalos se convirtieron en la dote de la novia. (83:3)
+La idea de la dote consistía en transmitir la impresión de que la novia era independiente, en insinuar que se estaba muy lejos de los tiempos de las esposas esclavas y de las compañeras consideradas como una propiedad. Un hombre no podía divorciarse de una esposa con dote sin devolver toda la dote. (83:3.4)
 
-dragón | | | | 
-Adoración china del dragón fue la supervivencia del culto a las serpientes (85:3.3)
-en la visión del apóstol Juan (53:7.7)
-representación simbólica de Lucifer y los rebeldes (53:1.6) (53:5.6)
+dragón | | | | OK
+La adoración de los chinos por el dragón es una supervivencia de los cultos a las serpientes. (85:3.3)
+en la visión del apóstol Juan vio un gran dragón rojo. Escribió: «Y su cola atrajo a una tercera parte de las estrellas del cielo y las arrojó a las tinieblas». (53:7.7)
+El dragón se convirtió en la representación simbólica de Lucifer y los rebeldes que le siguieron. Después del triunfo de Miguel, «Gabriel descendió de Salvington y ató al dragón, a todos los jefes rebeldes, durante una era». «Había guerra en el cielo; el comandante de Miguel y sus ángeles lucharon contra el dragón», Lucifer, Satanás y los príncipes apóstatas; «y el dragón y sus ángeles rebeldes lucharon, pero no triunfaron». (53:1.6) (53:5.6)
 
-libélulas | | | | 
-mide 30 pulgadas de ancho (59:5.7)
+libélulas | | | | OK
+Las primeras libélulas medían más de setenta y cinco centímetros de envergadura. (59:5.7)
 
-drama | | | | 
+drama | | | | OK
 Jesús nunca premeditó nada dramático (138:6.5) (172:3.11)
-se originó al actuar para la guía espiritual (92:3.6)
+La religión dio nacimiento a mucha cultura no religiosa, como el teatro en las interpretaciones para conseguir la guía de los espíritus. (92:3.6)
 
-la redada de peces | (145:1) | | | 
+la redada de peces | (145:1) | | | OK
 
-dravidianos | (79:3) | | RACE | 
-absorbió a los conquistadores arios, invadió la mayor parte de la India (79:4.2)
-entre los primeros pueblos que construyeron ciudades (79:3.7)
-Los conquistadores anditas de la India se mezclaron con los nativos (78:5.6) (79:3.1)
-centros en valles fluviales (79:3.6)
-fundó una civilización superior hace 12.000 años (79:3.1,8)
+dravidianos | (79:3) | | RACE | OK
+los dravidianos son habitantes del sur de la India que invadieron la península y absorbieron a los conquistadores arios del norte (79:4.2)
+La mezcla de los conquistadores anditas de la India con el linaje nativo se tradujo finalmente en la aparición de los pueblos mixtos que han sido llamados dravidianos. Estos anditas fueron los conquistadores llamados dravidianos, y más tarde arios, de la India (78:5.6) (79:3.1)
+Los dravidianos figuran entre los primeros pueblos que construyeron ciudades y que se dedicaron a un extenso comercio de importaciones y exportaciones, tanto por tierra como por mar. (79:3.7)
+Los centros culturales dravidianos estaban situados en los valles de los ríos, principalmente del Indo y del Ganges, y en el Decán a lo largo de los tres grandes ríos que fluyen a través de los Ghates orientales hacia el mar. (79:3.6)
+fundaron una civilización superior hace 12.000 años (79:3.1,8)
 
 dibujos | | imágenes | | OK
 
-soñadores | | | | 
-los hombres son naturalmente (99:7.5)
-confiando supinamente en una Providencia ficticia (178:1.14)
+soñadores; soñador | | | | OK
+El hombre es un soñador por naturaleza (99:7.5)
+No debemos ser unos místicos pasivos ni unos ascetas anodinos; no debemos convertirnos en unos soñadores ni en unos vagabundos, que confían pasivamente en una Providencia ficticia para que les proporcione hasta las necesidades de la vida. (178:1.14)
 
-sueños | | dormir | | 
-absurdos de sueños testificar de la presión de emociones no expresadas (110:5.4)
-los celestiales rara vez usan sueños comunicarse (86:5.11)
-Desfile desordenado y desconectado de una mente dormida descoordinada (44:4.7) (110:5.2-5)
-sueños grotescos indican la falla de los Ajustadores para hacer un contacto eficiente (110:5.2-5)
+sueños; oníricas | | dormir | | OK
+Los sueños absurdos no solo demuestran la presión de las emociones no expresadas, sino que también atestiguan que los conceptos espirituales presentados por los Ajustadores son horriblemente deformadas. (110:5.4)
+los celestiales rara vez usan los sueños comunicarse (86:5.11)
+los sueños humanos son el desfile desordenado y desconectado de una mente dormida descoordinada (44:4.7) (110:5.2-5)
+Mientras dormidos, los Ajustadores tratan de registrar sus creaciones en los niveles superiores de nuestra mente material, y algunos de nuestros sueños grotescos indican que los Ajustadores no han logrado establecer un contacto eficaz. (110:5.2-5)
 interpretación de sueños
-	peligro de considerar como comunicaciones divinas (100:5.6) (110:5.5)
-	en gran parte supersticioso y sin fundamento (90:2.5) (150:3.9)
-los sueños ordinarios son puramente fisiológicos y psicológicos (110:5.5)
+	El gran peligro de todas estas especulaciones psíquicas consiste en que las visiones y otras experiencias llamadas místicas, así como los sueños extraordinarios, pueden ser considerados como comunicaciones divinas a la mente humana. (100:5.6) (110:5.5)
+	La interpretación de los sueños es ampliamente un sistema supersticioso e infundado de especulaciones ignorantes y fantásticas. (90:2.5) (150:3.9)
+	los sueños ordinarios son puramente fisiológicos y psicológicos (110:5.5)
 sueños particulares
-	El de Claudia Prócula sobre Jesús (185:5.8)
-	convenció a Zacarías con respecto a Juan (122:2.5)
-	liberó a Pedro del temor a la inmundicia (153:3.6)
-	informó a un extraño maestro religioso del nacimiento de Jesús (122:8.6)
-	Pedro de Jesús en el mar de Galilea (152:4)
-	reconcilió a José con respecto al nacimiento de Jesús (122:4.1)
-	el sueño del joven Jesús perturbado por la repugnancia (125:2.4)
-	Zoroastro le hizo remodelar su religión (95:6.2)
+	Algunos sueños destacados en la historia:
+	* El sueño de Zoroastro que le hizo remodelar su religión (95:6.2)
+	* El sueño en que se informó a un extraño maestro religioso del nacimiento de Jesús (122:8.6)
+	* El que convenció a Zacarías con respecto a Juan, su hijo, el Bautista (122:2.5)
+	* El que reconcilió a José con respecto al nacimiento de Jesús (122:4.1)
+	* El sueño del joven Jesús perturbado por la repugnancia de las matanzas en el templo de Jerusalén (125:2.4)
+	* El de Pedro viendo a Jesús caminando sobre las aguas del mar de Galilea (152:4)
+	* El de Claudia Prócula, la mujer de Pilatos, sobre Jesús (185:5.8)
+	* El que liberó a Pedro del temor a muchas tradiciones judías sobre la impureza (153:3.6)
 los sueños de los primitivos
-los primitivos creían a los sueños tan real como la experiencia de vigilia (86:5.10)
-	los primitivos creían que el alma abandonaba el cuerpo durante el sueño (86:5.6,10)
-	El sueño fantasma fue el factor más importante en la evolución social (68:3) (87:5.14)
-	primitivos convencidos de la otra vida por sueños (63:3.5) (86:4.1-2)
+	los hombres primitivos creían que los sueños eran tan reales como la experiencia de vigilia (86:5.10)
+	los hombres primitivos creían que el alma abandonaba el cuerpo durante el sueño (86:5.6,10)
+	El factor individual más importante en la evolución de la sociedad humana fue probablemente soñar con fantasmas. (68:3) (87:5.14)
+	el hombre primitivo se convenció de la existencia de otra vida a través de los sueños (63:3.5) (86:4.1-2)
 
-vagabundos | | indolencia | | 
-confiando supinamente en una Providencia ficticia (178:1.14)
+vagabundos | | indolencia | | OK
+no debemos ser unos vagabundos que confían pasivamente en una Providencia ficticia (178:1.14)
 
 perforadores (gasterópodos) | (59:2.12) | | | OK
 
 impulsos innatos | | instintos | | OK
 
-hidropesía | | | | 
-Jesús sanó al hombre con (167:1.5)
+hidropesía | | | | OK
+Jesús sanó al hombre con hidropesía en un sábado (167:1.5)
 
-sequía | | clima | | 
-causó el éxodo andita de la región del Caspio (79:1.3-6)
-hizo que las tribus de las tierras altas invadieran el valle del Éufrates (78:8.3)
-destruyó la civilización del Sahara (80:1.4) (80:2.1)
-condujo a los anditas a Egipto (79:1.2-3)
-expulsó a los andonitas de Asia a Europa (80:9.6)
-la sequía severa significó la muerte para los primeros agricultores (90:2.6)
+sequía | | clima | | OK
+una creciente sequía provocó gradualmente el gran éxodo andita desde las tierras situadas al sur y al este del Mar Caspio. (79:1.3-6)
+una creciente sequía hizo que las tribus de las tierras altas invadieran el valle del Éufrates (78:8.3)
+un gran cambio climático destruyó la civilización del Sahara. Los hielos del norte retrocedieron y los vientos que traían las lluvias del oeste cambiaron hacia el norte, convirtiendo las fértiles estepas del Sahara en un desierto estéril (80:1.4) (80:2.1)
+Hacia el año 8000 a. de J.C., la aridez lentamente creciente de las regiones montañosas de Asia central empezó a arrojar a los anditas hacia el fondo de los valles y las costas marítimas. Esta sequía cada vez mayor no solamente los empujó hacia los valles del Nilo, del Éufrates, del Indo y del Río Amarillo, sino que produjo un nuevo desarrollo en la civilización andita. (79:1.2-3)
+Hacia el año 3000 a. de J.C., la aridez creciente hizo retroceder a estos andonitas hacia el Turquestán y luego Europa (80:9.6)
+Una grave sequía significaba la muerte para los agricultores primitivos; controlar el tiempo era el objetivo de una gran parte de la magia antigua. (90:2.6)
 
-trabajo penoso | | monotonía | | 
-entumecido (70:2.17)
-los hombres dejaron la rutina trabajo penoso para las mujeres (69:3.3)
-no existe el trabajo servil en los mundos espirituales (25:1.1)
-la religión ennoblece el trabajo cotidiano; trabajar como para Dios (100:0.2) (133:4.8) (181:2.19) (192:2.13)
+trabajo penoso; faenas monótonas; pesado trabajo común; faena ingrata | | monotonía | | OK
+El trabajo ennoblece, pero las faenas monótonas embrutecen. (70:2.17)
+El hombre ha escogido, de la manera más egoísta, el trabajo más agradable, dejando a la mujer el pesado trabajo rutinario. (69:3.3)
+En el mundo espiritual no existe ningún trabajo de baja categoría; todo servicio es sagrado y estimulante; y las órdenes superiores de seres tampoco miran con menosprecio a las órdenes inferiores de existencia. (25:1.1)
+La religión ennoblece el pesado trabajo común de la vida diaria. Deberíamos hacer nuestro trabajo como si fuera para Dios. (100:0.2) (133:4.8) (181:2.19) (192:2.13)
 
 Drogas | | intoxicación | | OK
 
@@ -1460,10 +1464,10 @@ drumlins | (61:7.1) | | | OK
 
 embriaguez | | intoxicación | | OK
 
-Seres de origen dual; SERES DE ORIGEN DOBLE; tipo doble | | Hijos de Dios | ORDER | 
-seres de origen directo o indirecto en dos de las Deidades del Paraíso (30:1.29)
-La creación de Servitales de Havona es un patrón para (25:1.2)
-en la clasificación del Paraíso (30:1.29-54)
+Seres de origen dual; SERES DE ORIGEN DOBLE; tipo doble | | Hijos de Dios | ORDER | OK
+Los seres de origen doble son aquellos que tienen su origen en dos cualquiera de las Deidades del Paraíso o han sido creados de otra manera por dos seres cualquiera que descienden directa o indirectamente de las Deidades del Paraíso. (30:1.29)
+La creación de los Servitales de Havona, la obra conjunta de los Siete Espíritus Maestros y de sus asociados, los Siete Directores Supremos del Poder, es un patrón para la larga lista de reproducciones de tipo doble que se efectúan en los universos evolutivos (25:1.2)
+aparecen en el segundo grupo de la clasificación de seres del Paraíso (30:1.29-54)
 órdenes
 	* A. Las Órdenes Descendentes
 	*# Los Hijos Creadores
@@ -1481,7 +1485,7 @@ en la clasificación del Paraíso (30:1.29-54)
 	* B. Las Órdenes Estacionarias
 	*# Los Abandontarios
 	*# Los Susatias
-	*# Los Univitatia
+	*# Los Univitatias
 	*# Los Espirongas
 	*# Los Seres de Origen Doble No Revelados (30:1.48)
 	* C. Las Órdenes Ascendentes
@@ -1491,73 +1495,74 @@ en la clasificación del Paraíso (30:1.29-54)
 	*# Los Intermedios Trasladados | intermedios
 	*# Los Ascendentes No Revelados (30:1.54)
 
-espiritismo dual | | | | 
-2 tipos de fantasmas (87:4.3-7)
-doctrina complicada concepción de la unidad cósmica (87:4.6)
-dio lugar a creencias en la magia blanca y negra (88:6.2)
-enfrentó a una agencia contra otra (87:6.13)
-superstición de buenos y malos espíritus (69:3.5)
-el joven Jesús aceptado hace mucho tiempo (123:3.3)
-Zoroastro muy afectado por (92:5.12) (95:6.5)
+espiritismo doble; doble espiritismo | | | | OK
+El concepto de dos tipos de espíritus fantasmas se desarrolló de manera lenta pero segura en todo el mundo. (87:4.3-7)
+Esta creencia permitió al hombre conciliar las variables de la casualidad con un concepto de fuerzas supermortales inmutables, pero esta doctrina siempre ha hecho difícil desde entonces que las personas religiosas puedan concebir la unidad cósmica. (87:4.6)
+El concepto del doble espiritismo, de los espíritus buenos y malos, dio nacimiento a las creencias posteriores en la magia blanca y la magia negra. (88:6.2)
+El concepto de las fuerzas buenas y malas, contenido en el doble espiritismo, ofreció al hombre amplias ocasiones para intentar oponer un agente a otro, porque si un hombre fuerte podía vencer a uno más débil, entonces un espíritu poderoso podía dominar sin duda a un fantasma inferior. (87:6.13)
+Estas creencias se mezclaron más tarde con la superstición de los fantasmas buenos y malos, de los buenos y malos espíritus. (69:3.5)
+el joven Jesús estuvo dispuesto a aceptar la doctrina de los buenos y de los malos espíritus como una posible explicación de los fenómenos mentales y espirituales; pero empezó a dudar muy pronto de que estas influencias invisibles fueran responsables de los acontecimientos físicos del mundo natural. (123:3.3)
+Zoroastro estuvo muy afectado por el concepto predominante del dualismo espiritual, de los espíritus buenos y malos, al mismo tiempo exaltó claramente la idea de una Deidad eterna y de la victoria final de la luz sobre la oscuridad. (92:5.12) (95:6.5)
 
-relaciones de dualidad | | | | 
-entre el YO SOY como séptuple y los 7 Absolutos del Infinito (105:4.5,8)
+relaciones de dualidad | | | | OK
+Las relaciones de dualidad son las que existen entre el YO SOY como séptuple y los Siete Absolutos de la Infinidad. Las dualidades eternizan los fundamentos de la realidad. (105:4.5,8)
 
-patos | | | | 
-descendiente de enormes reptiles antiguos (65:2.9)
+patos | | | | OK
+Los tipos de aves actuales —águilas, patos, palomas y avestruces— descienden todos de los enormes reptiles de los tiempos prehistóricos.descendiente de enormes reptiles antiguos (65:2.9)
 
-debido al proceso | | | | 
+debido al proceso | | | | OK
 Caligastia impugnó el paso de Moisés a los mundos de las mansiones (52:5.5)
-no existía ningún tribunal del universo local para detener a Lucifer (53:7.14)
-no se encontró forma de evitar que los archirrebeldes asistan a los consejos de Edentia (43:4.7-9)
+Aunque Lucifer estaba privado de toda autoridad administrativa en Satania, no existía entonces ningún poder ni tribunal en el universo local que pudiera detener o destruir a este malvado rebelde; en aquella época, Miguel aún no era gobernante soberano. (53:7.14)
+no se encontró forma de evitar que los archirrebeldes asistieran a los consejos de Edentia hasta después de que Miguel se donara en Urantia y asumiera posteriormente la soberanía ilimitada en todo Nebadon (43:4.7-9)
 
-duelo | | | | 
-representa la falta de voluntad para entregar una reparación privada (70:10.16)
-sustituido por la guerra tribal (70:1.19)
-supervivencia de prueba por ordalía (70:10.7)
+duelo | | | | OK
+El linchamiento y el batirse en duelo representan la resistencia del individuo a ceder su desagravio privado al Estado. (70:10.16)
+Las primeras guerras tenían lugar entre tribus enteras, pero en épocas posteriores, cuando dos individuos de tribus diferentes tenían una disputa, en lugar de permitir que lucharan las dos tribus, los dos rivales se batían en duelo. (70:1.19)
+Batirse en duelo es una supervivencia moderna del juicio por medio de las ordalías. (70:10.7)
 
-duplicación | | | | 
-Deidades no dadas a inútiles (6:4.2)
+duplicación; duplicar | | | | OK
+En la eterna economía de la administración del universo nunca se encuentra una repetición de funciones derrochadora e innecesaria; las Deidades no son dadas a duplicar inútilmente su ministerio universal. (6:4.2)
 
-polvo | | | | 
-polvo somos, y polvo volveremos (1:4.3) (68:6.1)
+polvo | | | | OK
+cuando el polvo que compone el tabernáculo mortal «regrese a la tierra de donde salió»; entonces, así se ha revelado, «el Espíritu» que vive en vosotros «regresará a Dios que lo concedió».  «Polvo somos y al polvo volveremos». (1:4.3) (68:6.1)
 
-deber | | responsabilidad; confiar | | 
-según el hinduismo (131:4.6)
-Ajustador traduce deber a la fe en la revelación (102:1.1)
-devoción a obligaciones sociales comunes (91:7.9) (100:6.5) (126:5.4) (178:1.8)
-eclipsando la emoción de los seres espirituales es el gozo de (25:1.6)
-evadir el deber fallando en obligaciones elevadas y santas (185:0.4)
-realizado fielmente excluye el dolor (25:1.6)
-locura de huir de deber para tentaciones lejanas (130:1.2)
-Para los cultistas de fantasmas, ¿qué se debe hacer para mantener a los espíritus en una disposición favorable?
-salir a hacer (163:6.7)
-idea significa actitud de servicio (180:1.6)
-en morontia, el tiempo ya no está disponible para eludir obligaciones desagradables (48:5.8)
-la comprensión del hombre de deber solo relativamente cierto (115:1.2)
-la intuición moral es la realización de deber; respuesta de la mente cósmica (16:6.7) (16:7.1)
-realizar deber fielmente, luego acepta la suerte de uno (48:6.36)
-realizar asignaciones terrenales con fidelidad humana (34:6.13)
+deber; deberes; obligaciones  | | responsabilidad; confiar | | OK
+la cima del deber según el hinduismo: que ningún hombre haga a otro lo que le repugnaría a él mismo; no fomentad ninguna maldad, no castiguéis al que os castiga, conquistad la cólera con la misericordia, y venced el odio con la benevolencia (131:4.6)
+El trabajo del Ajustador del Pensamiento explica la transformación del sentido primitivo y evolutivo del deber del hombre en una fe superior y más segura en las realidades eternas de la revelación. (102:1.1)
+un alma inspirada es aquella que cumple fielmente con los deberes corrientes de la existencia humana rutinaria (91:7.9) (100:6.5) (126:5.4) (178:1.8)
+En los seres espirituales, la alegría satisfactoria de cumplir con un deber elevado es la emoción que eclipsa a todas las demás. (25:1.6)
+muchos pueblos han dejado de reconocer sus altas y santas obligaciones de naturaleza divina, mientras prestaban una atención meticulosa a cosas de poca importancia. (185:0.4)
+La tristeza no puede existir en presencia de la conciencia de un deber divino fielmente ejecutado. (25:1.6)
+es una locura huir del deber en busca de tentaciones lejanas (130:1.2)
+Para los antiguos creyentes en fantasmas el deber eran las cosas que se deben hacer para mantener a los espíritus en una disposición favorable, o al menos neutral. (87:5.11)
+Se nos ha mostrado el camino y ahora debemos salir a realizar nuestro deber y no os cansarnos de hacer el bien. (163:6.7)
+La idea del deber significa que tenéis una mentalidad de sirvientes, y a consecuencia de ello no conseguís la grandísima emoción de hacer vuestro servicio como un amigo y por un amigo. (180:1.6)
+en el mundo morontial, el tiempo ya no está disponible para eludir obligaciones desagradables (48:5.8)
+la comprensión del hombre del deber sólo es relativamente exacta (115:1.2)
+La intuición moral, la comprensión del deber, es un componente de la dotación mental humana y está asociada con los otros elementos inalienables de la naturaleza humana: la curiosidad científica y la perspicacia espiritual. (16:6.7) (16:7.1)
+aprenderemos a sufrir menos penas y decepciones haciendo menos planes personales respecto a otras personalidades, y aceptando nuestra suerte cuando hemos cumplido fielmente con vuestro deber. (48:6.36)
+podemos elevarnos por encima de los humildes senderos del trabajo agotador y del cumplimiento con fidelidad humana de los deberes de las tareas terrenales al discernir las luces de la vida eterna (34:6.13)
 las promesas deben cumplirse (157:1.2)
+Si alguien quiere seguir a Jesús debe asumir sus responsabilidades diarias y seguirle (158:7.5)
+El sentido del deber evolutivo y las obligaciones resultantes de la iluminación de la revelación producen una impresión tan profunda en la naturaleza moral del hombre que éste llega finalmente a esa situación mental y a esa actitud del alma en las que concluye que no tiene ningún derecho a no creer en Dios. (101:1.7)
 resumen del deber mortal
-	logro de la perfección (1:0.4) | perfección:logro
-	creyentes deber es para el hombre, Dios y la comunión; predicar el evangelio (178:1.5,11)
-	traer niños al mundo es supremo deber (84:7.25-26)
-	tratar con justicia, amar la misericordia, caminar humildemente con Dios (97:5.6) (126:4.5)
-	Teme a Dios y guarda sus mandamientos (131:2.9)
+	el primer deber debería ser esforzarse por alcanzar la perfección de la divinidad (1:0.4) | perfección:logro
+	los creyentes en el reino celestial tienen un triple deber sagrado: hacia el hombre, hacia Dios y el servicio a la fraternidad de los creyentes que conocen a Dios, predicar el evangelio (178:1.5,11)
+	traer niños al mundo es la responsabilidad suprema de la existencia humana. (84:7.25-26)
+	El Señor nos exige tratar con justicia, amar la misericordia, y caminar humildemente con Dios (97:5.6) (126:4.5)
+	todo el deber del hombre reside en temer a Dios y guardar sus mandamientos (131:2.9)
 	el más alto deber es para la propia familia (126:3.5) (127:5.3) (140:8.14)
-	cumplir con las responsabilidades con energía y entusiasmo (159:5.10)
-	reconocimiento de la obligación progresiva hacia el Supremo (110:3.10) (117:4.8)
-	Aprovecharnos de las ventajas proporcionadas tan libremente para la supervivencia (40:10.14)
-	el deber total es el amor a Dios y al hombre (142:3.22) (163:4.8)
-asumir responsabilidades diariamente y seguir a Jesús (158:7.5)
-enseña que el hombre no tiene derecho a no creer en Dios (101:1.7)
+	hay que cumplir con las responsabilidades con energía y entusiasmo (159:5.10)
+	el deber universal es el reconocimiento de la obligación progresiva hacia el Supremo (110:3.10) (117:4.8)
+	debemos aprovecharnos de las ventajas proporcionadas tan libremente para la supervivencia (40:10.14)
+	el deber del hombre se encuentra resumido en este mandamiento único: Ama al Señor tu Dios con toda tu mente y con toda tu alma, y a tu prójimo como a ti mismo (142:3.22) (163:4.8)
 
-enanos | | | | 
-Los monoteístas en evolución mantienen a los dioses subordinados como (96:1.14)
+enanos | | | | OK
+Los monoteístas en evolución mantienen a algunos dioses subordinados como enanos (96:1.14)
 
-dayacs | | | | 
-prácticas religiosas primitivas de (92:6.1)
+dayacs | | | | OK
+Los dayacs son una tribu moderna que sólo han desarrollado las prácticas religiosas más primitivas. (92:6.1)
+> https://es.wikipedia.org/wiki/Dayak
 
 Dyaus pitar | | | PERSON | OK
 Señor védico del cielo (94:1.3)
