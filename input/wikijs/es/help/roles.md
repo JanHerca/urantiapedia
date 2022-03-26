@@ -10,6 +10,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 En caso de querer colaborar en este proyecto el mejor medio de contacto es registrarse en la web [Blue Fields](https://blue-fields.netlify.app/), que es una web que ha sido creada para unir y organizar a lectores de *El Libro de Urantia* que desean participar en proyectos inteligentes, propositados y altruistas en todo el mundo. Una vez registrado el equipo del proyecto se pondrá en contacto contigo.
 
+El proyecto Urantiapedia en Blue Fields se accede aquí: [Urantiapedia en Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125).
+
 Los perfiles que estamos buscando para colaborar son estos:
 
 ## Perfil de «Administrador»
@@ -23,7 +25,7 @@ Los *Administradores* se encargan del mantenimiento del servidor web, la página
 
 ## Perfil de «Editor Jefe»
 
-Los *Editores Jefe* tienen una cuenta en [GitHub](https://github.com/) y aportan contenido en el [proyecto Urantiapedia de GitHub](https://github.com/JanHerca/urantiapedia) añadiendo revisiones y traducciones que luego se puedan cargar de forma masiva. Consultar: [Manual para Editores Jefe](/es/help/github).
+Los *Editores Jefe* necesitan una cuenta en [GitHub](https://github.com/) y aportan contenido en el [proyecto Urantiapedia de GitHub](https://github.com/JanHerca/urantiapedia) añadiendo revisiones y traducciones que luego se puedan cargar de forma masiva. Consultar: [Manual para Editores Jefe](/es/help/github).
 
 * El primer cometido será actualizar el contenido del *Topic Index*, que es la tarea más extensa de la fase I. Luego se continuará con otros contenidos de la fase II y siguientes.
 * Se necesitará un buen conocimiento de *El Libro de Urantia* al menos en un idioma, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
@@ -33,12 +35,15 @@ Los *Editores Jefe* tienen una cuenta en [GitHub](https://github.com/) y aportan
 
 ## Perfil de «Assitant Editor»
 
-Los *Asistentes Editores* tienen una cuenta en esta web, y tras pasar ciertas validaciones pueden editar ciertas secciones de la web como el *Índice de Términos*, los artículos, y otro material no reservado a los administradores.
+Los *Asistentes Editores* tienen una cuenta en esta web, y tras pasar ciertas validaciones pueden editar ciertas secciones de la web como el *Índice de Términos*, los artículos, y otro material no reservado a los administradores. Los Editores Asistentes también pueden enviar revisiones y traducciones para cargarlas de forma masiva a los Editores Jefe sin tener que usar GitHub, lo que facilita el trabajo a este tipo de colaboradores.
 
-* Su cometido comienza en la fase II en adelante.
 * Se necesitará un buen conocimiento de *El Libro de Urantia* al menos en un idioma, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
 * Será importante tener aptitud para escribir bien y con corrección.
-* No será necesario ningún conocimiento informático especial pues el principal trabajo  se hace a través de esta web.
+* No será necesario ningún conocimiento informático especial pues el principal trabajo  se hace a través de esta web o del email.
+
+## Perfil de «Autor»
+
+Los *Autores* son *Editores Asistentes* que aparte de poder editar lo que cualquier *Editor Asistente* también son los únicos editores con permiso para editar ciertos contenidos de los cuales ellos son autores.
 
 ## Perfil de «Desarrollador»
 

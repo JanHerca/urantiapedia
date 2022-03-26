@@ -10,6 +10,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 To collaborate with the project best way is sign up in *Blue Fields* (https://blue-fields.netlify.app/) webpage, that is a site created to join and organize *Urantia Book* readers worldwide that want to participate in smart projects, with a good purpose and altruism. Once registered the project team will contact you.
 
+The Urantiapedia project in Blue Fields has this link: [Urantiapedia in Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125).
+
 The profiles we are looking for to collaborate are these:
 
 ## “Administrator” profile
@@ -23,9 +25,9 @@ The profiles we are looking for to collaborate are these:
 
 ## “Chief Editor” Profile
 
-*Chief Editors* have a [GitHub](https://github.com/) account and they use it to contribute adding updates and translations to [Urantiapedia project at GitHub](https://github.com/JanHerca/urantiapedia) that can be bulk uploaded. Check [Chief Editors help](/en/help/github).
+*Chief Editors* require a [GitHub](https://github.com/) account and they use it to contribute adding updates and translations to [Urantiapedia project at GitHub](https://github.com/JanHerca/urantiapedia) that can be bulk uploaded. Check [Chief Editors help](/en/help/github).
 
-* The first task will be to update the content of the *Topic Index*, which is the largest task of phase I.
+* The first task will be to update the content of the *Topic Index*, which is the largest task of phase I. Then they proceed with the content of the next milestones.
 * A good knowledge of *The Urantia Book* will be needed in at least one language, but better if it is English and a second language on which the book is translated.
 * It will be important to have the ability to write well and correctly.
 * It will help to have personal availability for this, patience and perseverance.
@@ -33,12 +35,15 @@ The profiles we are looking for to collaborate are these:
 
 ## “Assistant Editor” profile
 
-*Assistant Editors* have an account on this site, and after passing a validation process, will have permission to edit certain sections such as the *Topic Index*, articles, and material not reserved by administrators.
+*Assistant Editors* just need an account on this site, and after passing a validation process, will have permission to edit certain sections such as the *Topic Index*, articles, and material not reserved by administrators. Assistant editors also can send reviews and translations for bulk-uploading to Chief Editors without using GitHub, which can make work easier for this type of collaborators.
 
-* Their tasks start on milestone II onwards.
 * A good knowledge of *The Urantia Book* will be needed in at least one language, but better if it is English and a second language on which the book is translated.
 * It will be important to have the ability to write well and correctly.
-* No special computer knowledge will be necessary as the main job is done through the web.
+* No special computer knowledge will be necessary as the main job is done through the web or by email.
+
+## “Author” profile
+
+Authors are *Assistant Editors* who, apart from being able to edit what any *Assistant Editor* can, are also only editors with permission to edit certain content of which they are authors.
 
 ## “Developer” profile
 
