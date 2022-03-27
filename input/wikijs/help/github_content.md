@@ -85,6 +85,7 @@ For any other language it would be done in a similar way. Some of this content m
 - [Admin help](/en/help/admin)
 - [Developers help](/en/help/devs)
 - [Chief Editors help](/en/help/github)
+- [Assistant Editors help](/en/help/github_assistant)
 - [Urantiapedia status - Current progress of the project](/en/help/status)
 
 ## External links

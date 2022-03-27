@@ -163,6 +163,7 @@ From now on, the project could consider new challenges such as:
 - [Admin help](/en/help/admin)
 - [Developers help](/en/help/devs)
 - [Chief Editors help](/en/help/github)
+- [Assistant Editors help](/en/help/github_assistant)
 - [Current progress of the project](/en/help/status)
 
 ## External links

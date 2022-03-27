@@ -167,6 +167,7 @@ A partir de aquí se podrán evaluar otras posibles adiciones futuras al proyect
 - [Manual para Administradores](/es/help/admin)
 - [Manual para Desarrolladores](/es/help/devs)
 - [Manual para Editores Jefe](/es/help/github)
+- [Manual para Editores Asistente](/es/help/github_assistant)
 - [Progreso actual del proyecto](/es/help/status)
 
 ## External links

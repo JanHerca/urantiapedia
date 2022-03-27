@@ -69,7 +69,7 @@ Once we have the input in the correct folders, for each language, the steps to t
 8. Converting *The Bible* from LaTeX to Wiki.js with footnotes. Check [Converting Bible](/en/help/github_bible_to_wiki).
 9. Commiting changes to [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) project. Check [Bulk upload content to Urantiapedia](/en/help/github_upload).
 
-*Chief Editors* perform tasks 1-3. *Admins* perform tasks 4-9.
+*Chief Editors* and *Assistant Editors* perform tasks 1-3. *Admins* perform tasks 4-9.
 
 ![](/image/formats.png)
 
@@ -81,6 +81,7 @@ Once we have the input in the correct folders, for each language, the steps to t
 - [Admin help](/en/help/admin)
 - [Developers help](/en/help/devs)
 - [Chief Editors help](/en/help/github)
+- [Assistant Editors help](/en/help/github_assistant)
 - [Urantiapedia status - Current progress of the project](/en/help/status)
 
 ## External links

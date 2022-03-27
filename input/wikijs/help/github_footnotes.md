@@ -32,6 +32,7 @@ The output files are different from the input files to avoid that if there is an
 - [Admin help](/en/help/admin)
 - [Developers help](/en/help/devs)
 - [Chief Editors help](/en/help/github)
+- [Assistant Editors help](/en/help/github_assistant)
 - [Urantiapedia status - Current progress of the project](/en/help/status)
 
 ## External links

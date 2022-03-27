@@ -236,3 +236,22 @@ Another useful functionality is that the name of the topic is highlighted in the
 Also a useful functionality is that the short line selected, that says `civilization encompased by love` in English and `civilización rodeada por el amor` in Spanish, has been found in the *Urantia Book* paragraph that is referenced for the topic line. The sentence in the paragraph that best matches the line is highlighted in bold and a Copy button appears in the bottom. You can use that button to copy the sentence to clipboard and paste in VS Code, improving the text in the topic with a more explanatory text.
 
 ![](/image/uptools_topic_editor_3.png)
+
+## Links
+
+- [Starting with Urantiapedia](/en/help/start)
+- [Urantiapedia Content](/en/help/content)
+- [Urantiapedia - Languages supported](/en/help/languages)
+- [Admin help](/en/help/admin)
+- [Developers help](/en/help/devs)
+- [Chief Editors help](/en/help/github)
+- [Assistant Editors help](/en/help/github_assistant)
+- [Urantiapedia status - Current progress of the project](/en/help/status)
+
+## External links
+
+- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
+- [Urantia Foundation](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)

@@ -31,6 +31,7 @@ Output files are already in the format that allows uploading directly to *Uranti
 - [Admin help](/en/help/admin)
 - [Developers help](/en/help/devs)
 - [Chief Editors help](/en/help/github)
+- [Assistant Editors help](/en/help/github_assistant)
 - [Urantiapedia status - Current progress of the project](/en/help/status)
 
 ## External links

@@ -35,7 +35,7 @@ The profiles we are looking for to collaborate are these:
 
 ## “Assistant Editor” profile
 
-*Assistant Editors* just need an account on this site, and after passing a validation process, will have permission to edit certain sections such as the *Topic Index*, articles, and material not reserved by administrators. Assistant editors also can send reviews and translations for bulk-uploading to Chief Editors without using GitHub, which can make work easier for this type of collaborators.
+*Assistant Editors* just need an account on this site, and after passing a validation process, will have permission to edit certain sections such as the *Topic Index*, articles, and material not reserved by administrators. Assistant editors also can send reviews and translations for bulk-uploading to Chief Editors without using GitHub, which can make work easier for this type of collaborators. Check [Assistant Editors help](/en/help/github_assistant).
 
 * A good knowledge of *The Urantia Book* will be needed in at least one language, but better if it is English and a second language on which the book is translated.
 * It will be important to have the ability to write well and correctly.
@@ -72,6 +72,7 @@ Authors are *Assistant Editors* who, apart from being able to edit what any *Ass
 - [Admin help](/en/help/admin)
 - [Developers help](/en/help/devs)
 - [Chief Editors help](/en/help/github)
+- [Assistant Editors help](/en/help/github_assistant)
 - [Current progress of the project](/en/help/status)
 
 ## External links

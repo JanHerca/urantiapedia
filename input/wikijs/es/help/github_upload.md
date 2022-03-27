@@ -28,6 +28,7 @@ Para subir contenido sigue estos pasos:
 - [Manual para Administradores](/es/help/admin)
 - [Manual para Desarrolladores](/es/help/devs)
 - [Manual para Editores Jefe](/es/help/github)
+- [Manual para Editores Asistente](/es/help/github_assistant)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 
 ## External links

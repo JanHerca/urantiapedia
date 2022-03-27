@@ -68,7 +68,7 @@ Una vez tenemos el input en las carpetas correctas, para cada idioma, durante la
 8. Conversión de *La Biblia* de LaTeX a Wiki.js con notas al pie. Consulta [Conversión de La Biblia](/es/help/github_bible_to_wiki).
 9. Subir cambios a [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Consulta [Subir contenido de forma masiva a Urantiapedia](/es/help/github_upload).
 
-Los «Editores Jefe» realizarán las tareas 1 a 3. Los «Administradores» se encargan de las tareas 4 a 9.
+Los «Editores Jefe» y los «Editores Asistente» realizarán las tareas 1 a 3. Los «Administradores» se encargan de las tareas 4 a 9.
 
 ![](/image/formats.png)
 

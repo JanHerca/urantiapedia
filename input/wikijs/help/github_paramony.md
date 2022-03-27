@@ -62,3 +62,22 @@ Example of a snippet:
 ```
 
 > Care must be taken to properly copy the quotation marks that may exist in the texts. Check here the valid quotes for each language: [Quotation marks](/en/help/languages).
+
+## Links
+
+- [Starting with Urantiapedia](/en/help/start)
+- [Urantiapedia Content](/en/help/content)
+- [Urantiapedia - Languages supported](/en/help/languages)
+- [Admin help](/en/help/admin)
+- [Developers help](/en/help/devs)
+- [Chief Editors help](/en/help/github)
+- [Assistant Editors help](/en/help/github_assistant)
+- [Urantiapedia status - Current progress of the project](/en/help/status)
+
+## External links
+
+- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
+- [Urantia Foundation](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)

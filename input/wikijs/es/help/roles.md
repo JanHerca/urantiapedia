@@ -33,9 +33,9 @@ Los *Editores Jefe* necesitan una cuenta en [GitHub](https://github.com/) y apor
 * Ayudará tener ganas de dedicar tiempo y tener paciencia y constancia.
 * Es importante tener un buen conocimiento de uso de [Git](https://git-scm.com/) y [GitHub](https://github.com/).
 
-## Perfil de «Assitant Editor»
+## Perfil de «Editor Asistente»
 
-Los *Asistentes Editores* tienen una cuenta en esta web, y tras pasar ciertas validaciones pueden editar ciertas secciones de la web como el *Índice de Términos*, los artículos, y otro material no reservado a los administradores. Los Editores Asistentes también pueden enviar revisiones y traducciones para cargarlas de forma masiva a los Editores Jefe sin tener que usar GitHub, lo que facilita el trabajo a este tipo de colaboradores.
+Los *Editores Asistentes* tienen una cuenta en esta web, y tras pasar ciertas validaciones pueden editar ciertas secciones de la web como el *Índice de Términos*, los artículos, y otro material no reservado a los administradores. Los *Editores Asistentes* también pueden enviar a los *Editores Jefe* revisiones y traducciones para cargarlas de forma masiva sin tener que usar GitHub, lo que facilita el trabajo a este tipo de colaboradores. Consultar: [Manual para Editores Asistente](/es/help/github_assistant).
 
 * Se necesitará un buen conocimiento de *El Libro de Urantia* al menos en un idioma, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
 * Será importante tener aptitud para escribir bien y con corrección.
@@ -71,6 +71,7 @@ Los *Desarrolladores* tienen una cuenta en [GitHub](https://github.com/) y desar
 - [Manual para Administradores](/es/help/admin)
 - [Manual para Desarrolladores](/es/help/devs)
 - [Manual para Editores Jefe](/es/help/github)
+- [Manual para Editores Asistente](/es/help/github_assistant)
 - [Progreso actual del proyecto](/es/help/status)
 
 ## External links
