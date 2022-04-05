@@ -157,7 +157,7 @@ A partir de aquí se podrán evaluar otras posibles adiciones futuras al proyect
 * Servir de lugar centralizador para los esfuerzos de traducción del libro a otros idiomas.
 * Servir de portal donde ofrecer cursos de formación online sobre diferentes temáticas relacionadas con *El Libro de Urantia*.
 
-## Links
+## Enlaces
 
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Fases del proyecto](/es/help/phases)
@@ -170,7 +170,7 @@ A partir de aquí se podrán evaluar otras posibles adiciones futuras al proyect
 - [Manual para Editores Asistente](/es/help/github_assistant)
 - [Progreso actual del proyecto](/es/help/status)
 
-## External links
+## Enlaces externos
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)

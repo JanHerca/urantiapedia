@@ -84,7 +84,7 @@ Cursiva | * * (entre asteriscos)
 Versalitas | $ $ (entre signos de dólar)
 Subrayado (para idiomas que no incluyen opción de cursiva) | \| \| (entre plecas)
 
-## Links
+## Enlaces
 
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Contenido de la Urantiapedia](/es/help/content)
@@ -95,7 +95,7 @@ Subrayado (para idiomas que no incluyen opción de cursiva) | \| \| (entre pleca
 - [Manual para Editores Asistente](/es/help/github_assistant)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 
-## External links
+## Enlaces externos
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)

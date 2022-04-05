@@ -63,7 +63,7 @@ Ejemplo de un fragmento:
 
 > Hay que tener precaución de copiar adecuadamente las comillas tipográficas que puedan existir en los textos. Consulta aquí las comillas tipográficas válidas para cada idioma: [Quotation marks](/es/help/languages).
 
-## Links
+## Enlaces
 
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Contenido de la Urantiapedia](/es/help/content)
@@ -74,7 +74,7 @@ Ejemplo de un fragmento:
 - [Manual para Editores Asistente](/es/help/github_assistant)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 
-## External links
+## Enlaces externos
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)

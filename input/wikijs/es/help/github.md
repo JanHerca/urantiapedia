@@ -72,7 +72,7 @@ Los «Editores Jefe» y los «Editores Asistente» realizarán las tareas 1 a 3.
 
 ![](/image/formats.png)
 
-## Links
+## Enlaces
 
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Contenido de la Urantiapedia](/es/help/content)
@@ -82,7 +82,7 @@ Los «Editores Jefe» y los «Editores Asistente» realizarán las tareas 1 a 3.
 - [Manual para Editores Jefe](/es/help/github)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 
-## External links
+## Enlaces externos
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)

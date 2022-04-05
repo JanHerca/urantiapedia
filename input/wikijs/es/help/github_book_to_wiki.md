@@ -24,7 +24,7 @@ Los ficheros de salida tienen formato HTML. Se generarán 197 archivos, uno por 
 
 Los ficheros de salida ya tienen el formato que permite subirlos directamente a la *Urantiapedia* mediante [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Ver [Subir contenido de forma masiva a Urantiapedia](/es/help/github_upload).
 
-## Links
+## Enlaces
 
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Contenido de la Urantiapedia](/es/help/content)
@@ -35,7 +35,7 @@ Los ficheros de salida ya tienen el formato que permite subirlos directamente a 
 - [Manual para Editores Asistente](/es/help/github_assistant)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 
-## External links
+## Enlaces externos
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)

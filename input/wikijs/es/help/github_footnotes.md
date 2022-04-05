@@ -24,7 +24,7 @@ Para añadir las notas al pie en los archivos JSON hay que seguir estos pasos:
 
 Los ficheros de salida son diferentes a los de entrada para evitar que si hay cualquier problema queden inservibles. La salida se guarda en carpetas `input/json/book-xx-footnotes`, donde `xx` es el código de idioma idéntico al usado como carpeta de entrada.
 
-## Links
+## Enlaces
 
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Contenido de la Urantiapedia](/es/help/content)
@@ -35,7 +35,7 @@ Los ficheros de salida son diferentes a los de entrada para evitar que si hay cu
 - [Manual para Editores Asistente](/es/help/github_assistant)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 
-## External links
+## Enlaces externos
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)

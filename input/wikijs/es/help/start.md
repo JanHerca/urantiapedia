@@ -86,7 +86,7 @@ Los distintos roles de los colaboradores de la *Urantiapedia* son:
 Para saber más acerca de los perfiles que estamos buscando para colaborar consulta [Perfiles de colaboradores](/es/help/roles).
 
 
-## Links
+## Enlaces
 
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Fases del proyecto](/es/help/phases)
@@ -99,7 +99,7 @@ Para saber más acerca de los perfiles que estamos buscando para colaborar consu
 - [Manual para Editores Asistente](/es/help/github_assistant)
 - [Progreso actual del proyecto](/es/help/status)
 
-## External links
+## Enlaces externos
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)

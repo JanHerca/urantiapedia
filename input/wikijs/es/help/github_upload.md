@@ -20,7 +20,7 @@ Para subir contenido sigue estos pasos:
 - Haz un pull request.
 - Los usuarios *admin* del proyecto en GitHub realizarán un *merge* de los cambios. Una vez esos cambios hayan sido *mergeados* estarán disponibles en la página web de la *Urantiapedia* en las horas siguientes dependiendo del rendimiento actual de los servidores para ejecutar tareas de subida.
 
-## Links
+## Enlaces
 
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Contenido de la Urantiapedia](/es/help/content)
@@ -31,7 +31,7 @@ Para subir contenido sigue estos pasos:
 - [Manual para Editores Asistente](/es/help/github_assistant)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 
-## External links
+## Enlaces externos
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)

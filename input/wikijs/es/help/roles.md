@@ -61,7 +61,7 @@ Los *Desarrolladores* tienen una cuenta en [GitHub](https://github.com/) y desar
 * No serán necesarios conocimientos informáticos especiales ya que el trabajo principal se realiza a través de la web.
 
 
-## Links
+## Enlaces
 
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Fases del proyecto](/es/help/phases)
@@ -74,7 +74,7 @@ Los *Desarrolladores* tienen una cuenta en [GitHub](https://github.com/) y desar
 - [Manual para Editores Asistente](/es/help/github_assistant)
 - [Progreso actual del proyecto](/es/help/status)
 
-## External links
+## Enlaces externos
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)

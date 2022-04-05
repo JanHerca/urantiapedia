@@ -263,7 +263,7 @@ Otra funcionalidad útil es que la línea breve que está seleccionada en el eje
 
 ![](/image/uptools_topic_editor_3.png)
 
-## Links
+## Enlaces
 
 - [Empezar con la Urantiapedia](/es/help/start)
 - [Contenido de la Urantiapedia](/es/help/content)
@@ -274,7 +274,7 @@ Otra funcionalidad útil es que la línea breve que está seleccionada en el eje
 - [Manual para Editores Asistente](/es/help/github_assistant)
 - [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
 
-## External links
+## Enlaces externos
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
