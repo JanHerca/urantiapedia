@@ -201,9 +201,30 @@ Es importante mantener todos los ficheros en todos los idiomas en sincronía, de
 
 Es recomendable editar los archivos lado a lado en un editor que admita abrir varios archivos en paralalo, como VS Code. Una extensión de VS Code que puede interesar instalar es *Sync Scroll*, que permite hacer scroll por varios archivos a la vez de forma síncrona.
 
+## Qué se puede modificar
+
+Para los "Editores Jefe" no hay restricciones especiales en lo que pueden cambiar en los archivos del Índice de Términos. Deben seguir las reglas anteriores explicadas, pero pueden hacer cualquier cambio que sea necesario.
+
+Para los "Editores Asistentes", ya que siguen un proceso más simple, deben cumplir con algunas restricciones. Los "Editores asistentes" NO DEBEN cambiar nada de lo siguiente:
+- Términos que no están revisados, que no tienen la marca `OK`. Deben dejarse intactos. Tal vez todavía se necesita trabajar en ellos. Hasta que un término no está revisado por los "Editores Jefes", los "Editores asistentes" no deben trabajar en él.
+- Las referencias globales o la categoría en la primera línea del término.
+- Las referencias a *El Libro de Urantia* o referencias a otros términos que aparecen en las líneas en los términos.
+- El orden de las líneas.
+
+Si un "Editor Asistente" encuentra algún error en el contenido anterior, se deben tomar notas en otro lugar para enviarlas aparte de los archivos de los términos.
+
+El único contenido que los "Editores asistentes" deben cambiar es este:
+- El nombre o alias que se encuentran en la primera línea de los términos si el idioma de trabajo no es inglés y español. Los nombres en inglés y español ya están revisados ​​en estos idiomas.
+- El texto dentro de cada línea de los términos.
+- Las URL de las páginas de la Wikipedia.
+
+Al usar Visual Studio Code para editar el Índice de temas, los "Editores Asistentes" deben centrarse en dos tipos de tareas, según el idioma:
+- Para inglés y español, basta con revisar el contenido de los textos.
+- Para otros idiomas, traducir los textos. El "Editor" debe crear una copia de un Índice de términos existente en cualquier otro idioma, preferiblemente inglés, y ahora traducir los textos lo más rápido posible con la ayuda de herramientas de traducción.
+
 ## El *Topic Index Editor*
 
-El *Topic Index Editor* es una herramienta que está en desarrollo pero en su estado actual ayuda en algunas tareas de revisión y edición del *Índice de Términos*.
+El *Topic Index Editor* es una herramienta que está en desarrollo pero en su estado actual ayuda en algunas tareas de revisión y edición del *Índice de Términos*. Como este software necesita instalarse y complica la configuración no entra dentro del uso de los "Editores Asistentes" sino del uso de los "Editores Jefes". Consulta [Configurar el proyecto de GitHub](/es/help/github_setting).
 
 Para acceder:
 1. Abre las *Urantiapedia Tools* presionando F5 en VS Code con el proyecto abierto.

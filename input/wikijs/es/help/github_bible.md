@@ -51,6 +51,47 @@ Como se puede ver en el extracto anterior las reglas a seguir son:
 - Después del inicio de una sección o de un inicio de capítulo si no hay secciones irán los versículos, cada uno empezando con el comando `\par`, luego separado el número de versículo empezando siempre en 1 y luego separado el contenido. Cada versículo será una línea.
 - Para mejorar la legibilidiad se pueden poner líneas en blanco antes y después de los capítulos y secciones, que serán ignoradas.
 
+## Instalación de la herramienta e-Sword
+
+e-Sword es una herramienta completamente gratuita para estudiar la Biblia en el ordenador. Esta es la URL para descargarla:
+
+https://www.e-sword.net/
+
+Haz clic en el botón Descargas (Downloads). Hay versiones para Windows, Mac, y también para smartphone y tablets.
+
+Una vez descargado, ejecuta el instalador y sigue los pasos predeterminados.
+
+## Descarga de traducciones de la Biblia en e-Sword
+
+Para descargar una traducción de la Biblia en e-Sword, sigue estos pasos:
+
+1. Abre e-Sword.
+2. Cierra cualquier mensaje de inicio.
+3. Selecciona el menú *Descargas* (*Downloads*) y luego *Biblias* (*Bibles*).
+4. Eso abre el *Cargador de módulos e-Sword* (*e-Sword module downloader*). En la pestaña *Biblia* (*Bible*), verás una lista de Biblias disponibles, ordenadas por idioma. Es una vista en árbol para que puedas colapsar o expandir cada idioma y ver la lista de traducciones disponibles.
+5. Es importante descargar sólo traducciones de dominio público. No podemos usar versiones de la Biblia con derechos de autor que no sean de dominio público para evitar cualquier problema legal en *Urantiapedia*.
+6. Para descargar haz clic en el enlace y espera a que se instale.
+7. Puedes proceder de la misma manera con cualquier otra traducción.
+
+## Copiar contenido de e-Sword
+
+Para copiar los versículos de e-Sword a los archivos de la Biblia, podemos usar este proceso:
+
+1. Copia todos los archivos en otro idioma ya disponible, por ejemplo en inglés. De esta manera tendrás una guía o plantilla.
+2. Ve al primer archivo, `001_Genesis.tex`. Selecciona todo lo que está debajo de `\title{Génesis}` y encima de `\end{document}` y elimínalo.
+3. Ahora en e-Sword, selecciona el menú *Biblia* (*Bible*) y luego *Copiar versículos* (*Copy verses*). Se abre la ventana *Copiar versos* (*Copy verses*).
+4. En los selectores superiores, selecciona el libro, en este ejemplo *Génesis*, y selecciona el primer versículo (generalmente es el predeterminado) y el último versículo del último capítulo (generalmente no es el predeterminado).
+5. Como formato de salida, deja seleccionada la primera opción, la predeterminada, que crea textos como `Gen 1:1 El texto del versículo`.
+6. Ahora haz clic en *Copiar* (*Copy*) y luego pégalo en Visual Studio Code debajo del título.
+7. El texto pegado debe cambiarse para seguir las convenciones de formato de LaTeX. Vamos a hacer esto muy rápido con tres reemplazos.
+8. En Visual Studio Code, selecciona el menú *Editar > Reemplazar* (*Edit > Replace*).
+9. En la casilla *Buscar* (*Find*), escribe `^... ` (ten cuidado de agregar un espacio final). En la casilla *Reemplazar* (*Replace*), escribe `\par` (agrega también un espacio final). Asegúrate de hacer clic en el botón *Usar expresión regular* (*Use Regular expression*). Ahora haz clic en el botón *Reemplazar todo* (*Replace All*).
+10. A continuación, en la casilla *Buscar* (*Find*), escribe `\\par ([0-9]*):([1]) ` (ten cuidado de agregar el espacio final). En la casilla *Reemplazar* (*Replace*), escribe `\n\chapter{$1}\n\n\par $2` (ten en cuenta que ahora no hay espacio adicional). Haz clic en *Reemplazar todo* (*Replace All*). Esto creará las etiquetas de los capítulos.
+11. Finalmente, en la casilla *Buscar* (*Find*), escribe `\\par ([0-9]*):([0-9]*) ` (ten cuidado de agregar el espacio final). En la casilla *Reemplazar* (*Replace*), escribe `\par $2` (sin ningún espacio final). Haz clic en *Reemplazar todo* (*Replace All*). Esto establecerá el formato correcto para los párrafos.
+12. Eso es todo. Ahora necesitas repetir este proceso con cada libro de la Biblia. Es una tarea aburrida, pero se necesita menos de una hora para tener todos los libros de la Biblia en el formato correcto compatible con *Urantiapedia*.
+
+Una vez que hayas terminado el trabajo con una traducción de la Biblia, la puedes enviar a los administradores del proyecto.
+
 ## Listado de libros bíblicos
 
 Núm. | Abr. | Título español

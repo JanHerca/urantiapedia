@@ -42,6 +42,47 @@ As you can see in the previous extract, the rules to follow are:
 - After a section or a chapter if there are no sections, verses will be placed, each one starting with the command `\par`, then separated the verse number, always starting at 1 and then separated the content. Each verse will be a line.
 - To improve readability, blank lines can be put before and after chapters and sections, which will be ignored.
 
+## Installing e-Sword tool
+
+e-Sword is a completely free tool for studing the Bible in the PC. This is the URL for downloading it:
+
+https://www.e-sword.net/
+
+Click in the Downloads button. You have versions for Windows, Mac, and also for smartphone and tablets.
+
+Once downloaded execute the installer and follow the default steps.
+
+## Downloading Bible translations in e-Sword
+
+For downloading a Bible translation in e-Sword follow this steps:
+
+1. Open e-Sword.
+2. Close any start up message.
+3. Go to the menu *Downloads* then *Bibles*.
+4. That opens the *e-Sword module downloader*. In the *Bible* tab you will see a list of Bibles available, sorted by language. It is a treeview so you can collapse or expand each language to see the list of available translations.
+5. It is important to download only public domain translations. We cannot use copyrighted versions of the Bible that are not in public domain to avoid any legal issue in *Urantiapedia*.
+6. For download click in the link and wait to have it installed.
+7. You can proceed the same with any other translation.
+
+## Copying content from e-Sword
+
+For copying the verses from e-Sword to Bible files we can use this process:
+
+1. Copy all the files in another language already available, for example in English. This way you have a guide and template.
+2. Go to first file, `001_Genesis.tex`. Select everything that is below `\title{Genesis}` and above `\end{document}` and remove it.
+3. Now in e-Sword select menu *Bible* and then *Copy verses*. The window *Copy verses* opens.
+4. In the top selectors select the book, in this example *Genesis*, and select first verse (usually is the one by default) and the last verse of the last chapter (usually is not the default).
+5. As format for output leave the first option selected, the default, that creates texts like `Gen 1:1 The verse text`.
+6. Now click *Copy* and then paste in Visual Studio Code below the title.
+7. The text pasted needs to be changed to follow the LaTeX format conventions. We are going to do this really fast with three replacements.
+8. In Visual Studio Code select menu *Edit > Replace*.
+9. In *Find* box type `^... ` (be aware to add a final space). In *Replace* box type `\par ` (also be aware to add a final space). Ensure that be button *Use Regular expression* is clicked. Now click in *Replace All* button.
+10. Next in *Find* box type `\\par ([0-9]*):([1]) ` (be aware to add the final space). In *Replace* box type `\n\chapter{$1}\n\n\par $2` (be aware that now there is no extra space). Click in *Replace All*. This will create the chapter tags.
+11. Finally in *Find* box type `\\par ([0-9]*):([0-9]*) ` (be aware to add the final space). In *Replace* box type `\par $2` (without any final space). Click in *Replace All*. This will set the correct format for paragraphs.
+12. That's it. You now need to repeat this process with each book of the Bible. It is a boring task but it takes less than an hour to have all Bible books in the correct format supported in *Urantiapedia*.
+
+Once you have finished the work with a translation of the Bible it can be send to maintainers of the project.
+
 ## List of biblical books
 
 Num. | Abr. | English title

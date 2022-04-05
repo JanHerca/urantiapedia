@@ -196,9 +196,30 @@ It is important to keep all files in all languages ​​in sync, so that the sa
 
 It is recommended to edit files side-by-side in a text editor that allows to open several files in parallel, as VS Code. An interesting VS Code extension to install is *Sync Scroll*, that allows doing scroll on several files at the same time synchronously.
 
+## What should contributors change
+
+For "Chief Editors" there are no special restrictions in what they can change in Topic Index files. They must follow the previous rules explained, but they can make any change needed.
+
+For "Assistant Editors", as they follow a simpler process, they must comply to some restrictions. "Assistant Editors" MUST NOT change any of the following:
+- Topics that are not reviewed, and that do not have the `OK` mark. They must be leaved untouched. Perhaps there is still work needed on them. Until a topic is not reviewed by "Chief Editors" no work must be done in it by "Assistant Editors".
+- The global references or the category in the first line in the topic. 
+- The references to *Urantia Book* or references to other topics that appear in lines in the topics.
+- The order of lines.
+
+If an "Assistant Editor" finds any error in the previous content, notes should be taken in another place for sending them apart from Topic files.
+
+The only content that "Assistant Editors" must change is this:
+- The name or aliases found in the first line of topics if the working language is not English and Spanish. English and Spanish names are already reviewed in these languages.
+- The text inside each line of topics.
+- The URLs to pages in Wikipedia.
+
+When using Visual Studio Code for editing Topic Index "Assistant Editors" should focus on two types of tasks, depending the language:
+- For English and Spanish, just proofreading the content in the texts.
+- For other languages, translating the texts. The "Editor" should create a copy of an existing Topic Index in any other language, preferably English, and now translate the texts as fast as possible with help of translation tools.
+
 ## *Topic Index Editor*
 
-The *Topic Index Editor* is a tool that is under development but in its current state helps in some tasks of reviewing and editing the *Topic Index*.
+The *Topic Index Editor* is a tool that is under development but in its current state helps in some tasks of reviewing and editing the *Topic Index*. As this software needs to have been installed and complicates setup it is not in the scope for "Assistant Editors", but for "Chief Editors". Check [Setting up GitHub project](/en/help/github_setting).
 
 To access it:
 1. Open *Urantiapedia Tools* pressing F5 in VS Code with the project opened.
