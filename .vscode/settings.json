@@ -1,5 +1,9 @@
 {
     "git.ignoreLimitWarning": true,
     "editor.wordWrap": "wordWrapColumn",
-    "editor.wrappingIndent": "indent"
+    "editor.wrappingIndent": "indent",
+    "editor.snippetSuggestions": "top",
+    "[markdown]":  {
+        "editor.quickSuggestions": true
+      }
 }
