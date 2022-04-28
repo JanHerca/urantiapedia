@@ -38,5 +38,17 @@
 		"prefix": "href",
 		"body": "<a href=\"${1:link}\">${2:text}</a>",
 		"description": "Insert HTML link"
+	},
+	"Markdown Urantia Book link spanish": {
+		"scope": "markdown",
+		"prefix": "ubes",
+		"body": "[LU ${1:paper}:${2:section}.${3:par}](/es/The_Urantia_Book/${1:paper}#p${2:section}_${3:par})",
+		"description": "Insert a Markdown link"
+	},
+	"Markdown Urantia Book link english": {
+		"scope": "markdown",
+		"prefix": "uben",
+		"body": "[UB ${1:paper}:${2:section}.${3:par}](/en/The_Urantia_Book/${1:paper}#p${2:section}_${3:par})",
+		"description": "Insert a Markdown link"
 	}
 }
