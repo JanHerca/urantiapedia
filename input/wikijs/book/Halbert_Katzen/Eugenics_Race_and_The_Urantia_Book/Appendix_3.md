@@ -22,26 +22,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Author: **Halbert Katzen J.D.**
 
-Se ofrece un listado de referencias a los conceptos señalados[^221]:
-* «Mortales superiores»: [LU 21:4.3](/es/The_Urantia_Book/21#p4_3); [LU 51:5.5](/es/The_Urantia_Book/51#p5_5); [LU 79:7.2](/es/The_Urantia_Book/79#p7_2).
-* «Mortales inferiores»: [LU 52:2.12](/es/The_Urantia_Book/52#p2_12); [LU 77:7.5](/es/The_Urantia_Book/77#p7_5); [LU 77:7.7](/es/The_Urantia_Book/77#p7_7).
-* «Razas superiores»: [LU 50:3.5](/es/The_Urantia_Book/50#p3_5); [LU 64:7.3](/es/The_Urantia_Book/64#p7_3); [LU 64:1.7](/es/The_Urantia_Book/64#p1_7); [LU 64:6.32](/es/The_Urantia_Book/64#p6_32); [LU 64:7.13](/es/The_Urantia_Book/64#p7_13); [LU 66:6.5](/es/The_Urantia_Book/66#p6_5); [LU 68:0.1](/es/The_Urantia_Book/68#p0_1); [LU 75:8.2](/es/The_Urantia_Book/75#p8_2); [LU 78:3.4](/es/The_Urantia_Book/78#p3_4); [LU 78:8.1](/es/The_Urantia_Book/78#p8_1); [LU 79:1.6](/es/The_Urantia_Book/79#p1_6); [LU 79:2.5](/es/The_Urantia_Book/79#p2_5); [LU 79:2.7](/es/The_Urantia_Book/79#p2_7); [LU 79:5.5](/es/The_Urantia_Book/79#p5_5); [LU 89:5.5](/es/The_Urantia_Book/89#p5_5). Véase también la «superioridad de la antigua raza amarilla» [LU 79:6.6](/es/The_Urantia_Book/79#p6_6), «los linajes rojos y andonitas superiores» [LU 79:6.7](/es/The_Urantia_Book/79#p6_7).[^221]
-* «Razas inferiores»: [LU 51:5.7](/es/The_Urantia_Book/51#p5_7); [LU 103:3.1](/es/The_Urantia_Book/103#p3_1); [LU 111:7.5](/es/The_Urantia_Book/111#p7_5).
-* «Superioridad racial»: [LU 64:2.7](/es/The_Urantia_Book/64#p2_7); [LU 77:3.5](/es/The_Urantia_Book/77#p3_5); [LU 121:2.8](/es/The_Urantia_Book/121#p2_8); [LU 133:5.11](/es/The_Urantia_Book/133#p5_11). Véase también acerca de la «superioridad latente de estos bárbaros nórdicos» (la unión entre los anditas y los hombres azules de Cro-Magnon) que «culminó en la civilización europea actual» [LU 80:5.7](/es/The_Urantia_Book/80#p5_7)
-* «Linajes raciales»: [LU 51:5.2](/es/The_Urantia_Book/51#p5_2); [LU 52:3.4](/es/The_Urantia_Book/52#p3_4); [LU 55:6.3](/es/The_Urantia_Book/55#p6_3); [LU 64:7.12](/es/The_Urantia_Book/64#p7_12); [LU 82:6.9](/es/The_Urantia_Book/82#p6_9); [LU 122:1.1](/es/The_Urantia_Book/122#p1_1).
-* «Linajes raciales superiores»: [LU 51:5.2](/es/The_Urantia_Book/51#p5_2); [LU 96:3.1](/es/The_Urantia_Book/96#p3_1)
-* «Inferioridad»: [LU 80:7.13](/es/The_Urantia_Book/80#p7_13).
-* «Pueblos superiores»: [LU 51:4.3](/es/The_Urantia_Book/51#p4_3); [LU 69:5.10](/es/The_Urantia_Book/69#p5_10); [LU 78:2.2](/es/The_Urantia_Book/78#p2_2); [LU 78:8.12](/es/The_Urantia_Book/78#p8_12); [LU 79:2.4](/es/The_Urantia_Book/79#p2_4); [LU 79:8.15](/es/The_Urantia_Book/79#p8_15); [LU 80:7.4](/es/The_Urantia_Book/80#p7_4); [LU 111:7.5](/es/The_Urantia_Book/111#p7_5); [LU 121:3.7](/es/The_Urantia_Book/121#p3_7).
-* «Pueblos inferiores»: [LU 51:4.8](/es/The_Urantia_Book/51#p4_8); [LU 70:1.10](/es/The_Urantia_Book/70#p1_10); [LU 70:2.9](/es/The_Urantia_Book/70#p2_9); [LU 72:2.2](/es/The_Urantia_Book/72#p2_2) (del gobierno de un planeta vecino a Urantia); [LU 78:6.8](/es/The_Urantia_Book/78#p6_8); [LU 79:6.7](/es/The_Urantia_Book/79#p6_7); [LU 80:7.9](/es/The_Urantia_Book/80#p7_9); [LU 131:9.2](/es/The_Urantia_Book/131#p9_2).
-* «Cepas superiores»: [LU 49:1.7](/es/The_Urantia_Book/49#p1_7); [LU 62:3.13](/es/The_Urantia_Book/62#p3_13); [LU 64:6.31](/es/The_Urantia_Book/64#p6_31); [LU 82:6.6](/es/The_Urantia_Book/82#p6_6); [LU 95:2.1](/es/The_Urantia_Book/95#p2_1).
-* «Cepas inferiores»: [LU 52:3.5](/es/The_Urantia_Book/52#p3_5); [LU 70:8.14-15](/es/The_Urantia_Book/70#p8_14); [LU 80:1.7](/es/The_Urantia_Book/80#p1_7); [LU 82:6.3](/es/The_Urantia_Book/82#p6_3); [LU 82:6.7](/es/The_Urantia_Book/82#p6_7); [LU 82:6.11](/es/The_Urantia_Book/82#p6_11).
-* «Grupos superiores»: [LU 50:3.4](/es/The_Urantia_Book/50#p3_4); [LU 62:2.5](/es/The_Urantia_Book/62#p2_5); [LU 70:1.10](/es/The_Urantia_Book/70#p1_10); [LU 80:7.2](/es/The_Urantia_Book/80#p7_2); [LU 8:5.4](/es/The_Urantia_Book/8#p5_4).
-* «Grupos inferiores»: [LU 65:2.14](/es/The_Urantia_Book/65#p2_14); [LU 80:7.12](/es/The_Urantia_Book/80#p7_12).
-* «Linajes inferiores», «estirpes inferiores», «linajes incapaces», etc.: [LU 78:6.8](/es/The_Urantia_Book/78#p6_8); [LU 82:6.7](/es/The_Urantia_Book/82#p6_7); [LU 51:4.8](/es/The_Urantia_Book/51#p4_8); [LU 71:3.8](/es/The_Urantia_Book/71#p3_8); [LU 99:3.5](/es/The_Urantia_Book/99#p3_5).
-* «Tribus superiores»: [LU 80:2.2](/es/The_Urantia_Book/80#p2_2); [LU 80:3.9](/es/The_Urantia_Book/80#p3_9); [LU 81:3.1](/es/The_Urantia_Book/81#p3_1).
-* «Tribus inferiores»: [LU 63:4.4](/es/The_Urantia_Book/63#p4_4); [LU 64:1.7](/es/The_Urantia_Book/64#p1_7); [LU 78:2.2](/es/The_Urantia_Book/78#p2_2); [LU 80:6.5](/es/The_Urantia_Book/80#p6_5).
-* «Esclavos superiores»: [LU 72:5.2](/es/The_Urantia_Book/72#p5_2); [LU 121:3.8](/es/The_Urantia_Book/121#p3_8).
-* «Esclavos inferiores»: [LU 72:5.2](/es/The_Urantia_Book/72#p5_2); [LU 98:1.1](/es/The_Urantia_Book/98#p1_1); [LU 133:0.2](/es/The_Urantia_Book/133#p0_2); [LU 133:5.12](/es/The_Urantia_Book/133#p5_12).
+A list of references to the indicated concepts is offered[^1]:
+* “Superior mortals”: [UB 21:4.3](/en/The_Urantia_Book/21#p4_3); [UB 51:5.5](/en/The_Urantia_Book/51#p5_5); [UB 79:7.2](/en/The_Urantia_Book/79#p7_2).
+* “Inferior mortals”: [UB 52:2.12](/en/The_Urantia_Book/52#p2_12); [UB 77:7.5](/en/The_Urantia_Book/77#p7_5); [UB 77:7.7](/en/The_Urantia_Book/77#p7_7).
+* “Superior races”: [UB 50:3.5](/en/The_Urantia_Book/50#p3_5); [UB 64:7.3](/en/The_Urantia_Book/64#p7_3);  [UB 64:7.13](/en/The_Urantia_Book/64#p7_13); [UB 66:6.5](/en/The_Urantia_Book/66#p6_5); [UB 68:0.1](/en/The_Urantia_Book/68#p0_1); ; [UB 78:3.4](/en/The_Urantia_Book/78#p3_4); [UB 78:8.1](/en/The_Urantia_Book/78#p8_1); [UB 79:1.6](/en/The_Urantia_Book/79#p1_6);  [UB 79:5.5](/en/The_Urantia_Book/79#p5_5). See also “superiority of the ancient yellow race” [UB 79:6.6](/en/The_Urantia_Book/79#p6_6), “the red bloodlines and superior Andonites” [UB 79:6.7](/en/The_Urantia_Book/79#p6_7).
+* “Inferior races”: [UB 51:5.7](/en/The_Urantia_Book/51#p5_7); [UB 103:3.1](/en/The_Urantia_Book/103#p3_1); [UB 111:7.5](/en/The_Urantia_Book/111#p7_5).
+* “Racial superiority”: [UB 64:2.7](/en/The_Urantia_Book/64#p2_7); [UB 77:3.5](/en/The_Urantia_Book/77#p3_5); [UB 121:2.8](/en/The_Urantia_Book/121#p2_8); [UB 133:5.11](/en/The_Urantia_Book/133#p5_11). See also about the “latent superiority of these Nordic barbarians” (the union between the Andites and the Cro-Magnon blue men) that “culminated in present European civilization” [UB 80:5.7](/en/The_Urantia_Book/80#p5_7)
+* “Racial strains”: [UB 51:5.2](/en/The_Urantia_Book/51#p5_2); [UB 52:3.4](/en/The_Urantia_Book/52#p3_4); [UB 55:6.3](/en/The_Urantia_Book/55#p6_3); [UB 64:7.12](/en/The_Urantia_Book/64#p7_12); [UB 82:6.9](/en/The_Urantia_Book/82#p6_9); [UB 122:1.1](/en/The_Urantia_Book/122#p1_1).
+* “Superior racial strains”: [UB 51:5.2](/en/The_Urantia_Book/51#p5_2); [UB 96:3.1](/en/The_Urantia_Book/96#p3_1)
+* Inferiority: [UB 80:7.13](/en/The_Urantia_Book/80#p7_13).
+* “Superior peoples”: [UB 51:4.3](/en/The_Urantia_Book/51#p4_3); [UB 69:5.10](/en/The_Urantia_Book/69#p5_10); [UB 78:2.2](/en/The_Urantia_Book/78#p2_2); [UB 78:8.12](/en/The_Urantia_Book/78#p8_12); [UB 79:2.4](/en/The_Urantia_Book/79#p2_4); [UB 79:8.15](/en/The_Urantia_Book/79#p8_15); [UB 80:7.4](/en/The_Urantia_Book/80#p7_4); [UB 111:7.5](/en/The_Urantia_Book/111#p7_5); [UB 121:3.7](/en/The_Urantia_Book/121#p3_7).
+* “Inferior people”: [UB 51:4.8](/en/The_Urantia_Book/51#p4_8); [UB 70:1.10](/en/The_Urantia_Book/70#p1_10); [UB 70:2.9](/en/The_Urantia_Book/70#p2_9); [UB 72:2.2](/en/The_Urantia_Book/72#p2_2) (del gobierno de un planeta vecino a Urantia); [UB 78:6.8](/en/The_Urantia_Book/78#p6_8); [UB 79:6.7](/en/The_Urantia_Book/79#p6_7); [UB 80:7.9](/en/The_Urantia_Book/80#p7_9); [UB 131:9.2](/en/The_Urantia_Book/131#p9_2).
+* “Superior strains”: [UB 49:1.7](/en/The_Urantia_Book/49#p1_7); [UB 62:3.13](/en/The_Urantia_Book/62#p3_13); [UB 64:6.31](/en/The_Urantia_Book/64#p6_31); [UB 82:6.6](/en/The_Urantia_Book/82#p6_6); [UB 95:2.1](/en/The_Urantia_Book/95#p2_1).
+* “Inferior strains”: [UB 52:3.5](/en/The_Urantia_Book/52#p3_5); [UB 70:8.14-15](/en/The_Urantia_Book/70#p8_14); [UB 80:1.7](/en/The_Urantia_Book/80#p1_7); [UB 82:6.3](/en/The_Urantia_Book/82#p6_3); [UB 82:6.7](/en/The_Urantia_Book/82#p6_7); [UB 82:6.11](/en/The_Urantia_Book/82#p6_11).
+* “Superior groups”: [UB 50:3.4](/en/The_Urantia_Book/50#p3_4); [UB 62:2.5](/en/The_Urantia_Book/62#p2_5); [UB 70:1.10](/en/The_Urantia_Book/70#p1_10); [UB 80:7.2](/en/The_Urantia_Book/80#p7_2); [UB 8:5.4](/en/The_Urantia_Book/8#p5_4).
+* “Inferior groups”: [UB 65:2.14](/en/The_Urantia_Book/65#p2_14); [UB 80:7.12](/en/The_Urantia_Book/80#p7_12).
+* “Superior stocks”:[UB 64:1.7](/en/The_Urantia_Book/64#p1_7); [UB 64:6.32](/en/The_Urantia_Book/64#p6_32); [UB 75:8.2](/en/The_Urantia_Book/75#p8_2); [UB 79:2.5](/en/The_Urantia_Book/79#p2_5); [UB 79:2.7](/en/The_Urantia_Book/79#p2_7); [UB 89:5.5](/en/The_Urantia_Book/89#p5_5).
+* “Inferior stocks”: [UB 78:6.8](/en/The_Urantia_Book/78#p6_8); [UB 82:6.7](/en/The_Urantia_Book/82#p6_7); [UB 51:4.8](/en/The_Urantia_Book/51#p4_8); [UB 71:3.8](/en/The_Urantia_Book/71#p3_8); [UB 99:3.5](/en/The_Urantia_Book/99#p3_5).
+* “Superior tribes: [UB 80:2.2](/en/The_Urantia_Book/80#p2_2); [UB 80:3.9](/en/The_Urantia_Book/80#p3_9); [UB 81:3.1](/en/The_Urantia_Book/81#p3_1).
+* “Inferior tribes: [UB 63:4.4](/en/The_Urantia_Book/63#p4_4); [UB 64:1.7](/en/The_Urantia_Book/64#p1_7); [UB 78:2.2](/en/The_Urantia_Book/78#p2_2); [UB 80:6.5](/en/The_Urantia_Book/80#p6_5).
+* “Superior slaves”: [UB 72:5.2](/en/The_Urantia_Book/72#p5_2); [UB 121:3.8](/en/The_Urantia_Book/121#p3_8).
+* “Inferior slaves”: [UB 72:5.2](/en/The_Urantia_Book/72#p5_2); [UB 98:1.1](/en/The_Urantia_Book/98#p1_1); [UB 133:0.2](/en/The_Urantia_Book/133#p0_2); [UB 133:5.12](/en/The_Urantia_Book/133#p5_12).
 
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
@@ -58,3 +59,7 @@ Se ofrece un listado de referencias a los conceptos señalados[^221]:
 ## External links
 
 * This report in UBTheNews webpage: http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/
+
+## Referencias
+
+[^1]: *Editor's Note*: For to the compactness of this report, this appendix has been simplified with respect to the original in UBTheNews, showing only the list of references. For a complete reading go to *The Urantia Book*.
