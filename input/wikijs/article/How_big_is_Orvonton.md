@@ -240,7 +240,7 @@ Finally, *The Urantia Book*, the Revelators tell us,
 # Links
 
 * [Orvonton](/en/topic/Orvonton_(superuniverse))
-* [Superuniverse](en/topic/superuniverses)
+* [Superuniverse](/en/topic/superuniverses)
 * [Milky Way](/en/topic/Milky_Way_galaxy)
 
 ## External links

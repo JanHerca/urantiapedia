@@ -43,6 +43,8 @@ Se ofrece un listado de referencias a los conceptos señalados[^1]:
 * «Esclavos superiores»: [LU 72:5.2](/es/The_Urantia_Book/72#p5_2); [LU 121:3.8](/es/The_Urantia_Book/121#p3_8).
 * «Esclavos inferiores»: [LU 72:5.2](/es/The_Urantia_Book/72#p5_2); [LU 98:1.1](/es/The_Urantia_Book/98#p1_1); [LU 133:0.2](/es/The_Urantia_Book/133#p0_2); [LU 133:5.12](/es/The_Urantia_Book/133#p5_12).
 
+<br/>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>

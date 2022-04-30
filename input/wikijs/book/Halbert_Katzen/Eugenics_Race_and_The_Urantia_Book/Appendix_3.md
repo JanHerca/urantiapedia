@@ -44,6 +44,8 @@ A list of references to the indicated concepts is offered[^1]:
 * “Superior slaves”: [UB 72:5.2](/en/The_Urantia_Book/72#p5_2); [UB 121:3.8](/en/The_Urantia_Book/121#p3_8).
 * “Inferior slaves”: [UB 72:5.2](/en/The_Urantia_Book/72#p5_2); [UB 98:1.1](/en/The_Urantia_Book/98#p1_1); [UB 133:0.2](/en/The_Urantia_Book/133#p0_2); [UB 133:5.12](/en/The_Urantia_Book/133#p5_12).
 
+<br/>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>

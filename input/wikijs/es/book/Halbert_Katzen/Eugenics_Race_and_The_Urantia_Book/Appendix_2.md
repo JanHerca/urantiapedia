@@ -226,6 +226,8 @@ El ejército de los EE.UU. no acepta a nadie con un coeficiente intelectual infe
 
 ¿Cuáles son los factores genéticos relacionados tanto con el temperamento como con la inteligencia?
 
+<br/>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>
@@ -240,9 +242,9 @@ El ejército de los EE.UU. no acepta a nadie con un coeficiente intelectual infe
 
 ## Enlaces
 
-* [Gemelos Alfeo](es/topic/Alpheus_twins)
-* [Apostolado](es/topic/apostleship)
-* [Inferiores o subnormales](es/topic/inferiors)
+* [Gemelos Alfeo](/es/topic/Alpheus_twins)
+* [Apostolado](/es/topic/apostleship)
+* [Inferiores o subnormales](/es/topic/inferiors)
 
 ## Enlaces externos
 

@@ -240,7 +240,7 @@ Finalmente, el libro dice:
 # Enlaces
 
 * [Orvonton](/es/topic/Orvonton_(superuniverse))
-* [Superuniverso](es/topic/superuniverses)
+* [Superuniverso](/es/topic/superuniverses)
 * [Vía Láctea](/es/topic/Milky_Way_galaxy)
 
 ## Enlaces externos

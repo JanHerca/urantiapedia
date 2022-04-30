@@ -1,5 +1,5 @@
 ---
-title: Eugenics, Race, and *The Urantia Book* - Appendix 1. Urantia Book-based Taxonomy
+title: Eugenics, Race, and The Urantia Book - Appendix 1. Urantia Book-based Taxonomy
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -34,7 +34,7 @@ In its explanation of human evolution, *The Urantia Book* provides insights into
 
 > Even the loss of Andon and Fonta before they had offspring, though delaying human evolution, would not have prevented it. Subsequent to the appearance of Andon and Fonta and before the mutating human potentials of animal life were exhausted, there evolved no less than seven thousand favorable strains which could have achieved some sort of human type of development. And many of these better stocks were subsequently assimilated by the various branches of the expanding human species. [^1]
 
-<figure id="Eugenics_fig_13" class="image image_resized"><img src="/image/evolution.jpg"></figure>
+<figure id="Eugenics_fig_13" class="image image_resized"><img src="/image/evolution.jpg" width="533" height="355"></figure>
 <em>Image 13. Scheme of human evolution in the last two million years according to current science.</em>
 
 Of course, a purely scientific approach does not lead logically to the conclusion that the evolutionary process that produced the first human beings would stop once the first ones evolved. This only becomes logical when evolution is viewed as the technique of creation, which is what *The Urantia Book* teaches. “Mankind on Urantia must solve its problems of mortal development with the human stocks it has—no more races will evolve from prehuman sources throughout all future time. But this fact does not preclude the possibility of the attainment of vastly higher levels of human development through the intelligent fostering of the evolutionary potentials still resident in the mortal races.”[^2] From the standpoint of interpersonal relationships, it is easier to promote peace and harmony among all people with the belief that we all came from the same original couple. If God makes life operate in this manner, this is at least consistent with the logic of love.
@@ -45,7 +45,7 @@ Within *The Urantia Book*’s framework for defining humanity, the essential hum
 
 *The Urantia Book* teaches that there was not a genetic foundation sufficient to support civilization in the original mutation that created a human level of wisdom. It was sufficient for a human level of wisdom to develop in some individuals, but not sufficient to create a group level of human wisdom—the wisdom necessary to get beyond the Stone Age and begin the creation of an advanced civilization.
 
-<figure id="Eugenics_fig_14" class="image image_resized"><img src="/image/evolution2.jpg"></figure>
+<figure id="Eugenics_fig_14" class="image image_resized"><img src="/image/evolution2.jpg" width="533" height="533"></figure>
 <em>Image 14. Scheme of human evolution in the last two million years according to a taxonomy based on <i>*The Urantia Book*</i>.</em>
 
 ## A Urantia Book-based taxonomy of human beings
@@ -254,6 +254,8 @@ Within *The Urantia Book*’s framework for defining humanity, the essential hum
 
 * *Homo heidelbergensis prosapiens*: The fossil record to date combined with information found in numerous parts of *The Urantia Book* indicates that *H. heidelbergensis* is likely the result of a mutative evolutionary upstepping similar to what occurred with the jump from *H. neanderthalensis prosapiens* to *H. sapiens*. The difference is that the *H. neaderthalensis prosapiens* that mutated into *H. heidelbergensis* had a lesser initial genetic quality than the *H. neanderthalensis prosapiens* that gave rise to *H. sapiens*. The jump fell short of a *H. sapiens*- type mutation that produces the colored races. It seems that they were probably largely wiped out and somewhat absorbed by some combination of interactions with H. neanderthalensis (improved Andonites) and *H. sapiens*.
 
+<br/>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>
@@ -272,10 +274,10 @@ Within *The Urantia Book*’s framework for defining humanity, the essential hum
 * [Neanderthalers](/en/topic/Neanderthalers)
 * [Cro-Magnon](/en/topic/Cro-Magnons)
 * [Andonites](/en/topic/Andonites)
-* [Sangiks](en/topic/Sangiks)
-* [Nodites](en/topic/Nodites)
-* [Adamites](en/topic/Adamites)
-* [Andites](en/topic/Andites)
+* [Sangiks](/en/topic/Sangiks)
+* [Nodites](/en/topic/Nodites)
+* [Adamites](/en/topic/Adamites)
+* [Andites](/en/topic/Andites)
 
 ## External links
 

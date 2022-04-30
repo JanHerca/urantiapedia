@@ -34,7 +34,7 @@ En su explicación de la evolución humana, *El Libro de Urantia* proporciona in
 
 > Incluso la pérdida de Andón y Fonta antes de que tuvieran descendencia no hubiera impedido la evolución humana, aunque la habría retrasado. Después de la aparición de Andón y Fonta, y antes de que se agotaran los potenciales humanos en mutación de la vida animal, evolucionaron no menos de siete mil cepas favorables que podrían haber alcanzado alguna clase de desarrollo de tipo humano. Muchas de estas mejores cepas fueron asimiladas posteriormente por las diversas ramas de la especie humana en expansión. [^1]
 
-<figure id="Eugenics_fig_13" class="image image_resized"><img src="/image/evolution.jpg"></figure>
+<figure id="Eugenics_fig_13" class="image image_resized"><img src="/image/evolution.jpg" width="533" height="355"></figure>
 <em>Figura 13. Esquema de la evolución humana en los dos últimos millones de años según la ciencia actual.</em>
 
 Por supuesto, un enfoque puramente científico no conduce lógicamente a la conclusión de que el proceso evolutivo que produjo los primeros seres humanos se detendría una vez que los primeros evolucionaran. Esto sólo se vuelve lógico cuando la evolución se ve como la técnica de la creación, que es lo que enseña *El Libro de Urantia*. «La humanidad de Urantia debe resolver sus problemas de desarrollo mortal con los linajes humanos que posee —ninguna nueva raza volverá a aparecer en el futuro a partir de fuentes prehumanas. Pero este hecho no impide la posibilidad de alcanzar unos niveles muy superiores de desarrollo humano mediante el fomento inteligente de los potenciales evolutivos que residen todavía en las razas mortales»[^2]. Desde el punto de vista de las relaciones interpersonales, es más fácil promover la paz y la armonía entre todas las personas con la creencia de que todos venimos de la misma pareja original. Si Dios hace que la vida funcione de esta manera, esto es al menos consistente con la lógica del amor.
@@ -45,7 +45,7 @@ Dentro del marco de *El Libro de Urantia* para definir a la humanidad, la cualid
 
 *El Libro de Urantia* enseña que no había una base genética suficiente para apoyar a la civilización en la mutación original que creó un nivel humano de sabiduría. Era suficiente para que se desarrollara un nivel humano de inteligencia en algunos individuos, pero no suficiente para crear un nivel grupal de inteligencia humana: la inteligencia necesaria para ir más allá de la «Edad de Piedra» y comenzar la creación de una civilización avanzada.
 
-<figure id="Eugenics_fig_14" class="image image_resized"><img src="/image/evolution2.jpg"></figure>
+<figure id="Eugenics_fig_14" class="image image_resized"><img src="/image/evolution2.jpg" width="533" height="533"></figure>
 <em>Figura 14. Esquema de la evolución humana en los dos últimos millones de años según una taxonomía basada en <i>El Libro de Urantia</i>.</em>
 
 ## Una taxonomía de seres humanos basada en *El Libro de Urantia*
@@ -254,6 +254,8 @@ Dentro del marco de *El Libro de Urantia* para definir a la humanidad, la cualid
 
 * *Homo heidelbergensis prosapiens*: el registro fósil hasta la fecha combinado con la información encontrada en numerosas partes de *El Libro de Urantia* indica que el *H. heidelbergensis* es probablemente el resultado de un ascenso evolutivo mutante similar a lo que ocurrió con el salto del *H. neanderthalensis prosapiens* a *H. sapiens*. La diferencia es que los *H. neaderthalensis prosapiens* que mutaron en *H. heidelbergensis* tuvieron una calidad genética inicial menor que los *H. neanderthalensis prosapiens* que dieron origen a los *H. sapiens*. El salto no llegó a una mutación del tipo *H. sapiens* que produjo las razas de color. Parece que probablemente fueron eliminados en gran medida y algo absorbidos por alguna combinación de interacciones con los *H. neanderthalensis* (andonitas mejoradas) y *H. sapiens*.
 
+<br/>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>
@@ -272,10 +274,10 @@ Dentro del marco de *El Libro de Urantia* para definir a la humanidad, la cualid
 * [Neandertales](/es/topic/Neanderthalers)
 * [Cromañones](/es/topic/Cro-Magnons)
 * [Andonitas](/es/topic/Andonites)
-* [Sangiks](es/topic/Sangiks)
-* [Noditas](es/topic/Nodites)
-* [Adamitas](es/topic/Adamites)
-* [Anditas](es/topic/Andites)
+* [Sangiks](/es/topic/Sangiks)
+* [Noditas](/es/topic/Nodites)
+* [Adamitas](/es/topic/Adamites)
+* [Anditas](/es/topic/Andites)
 
 ## Enlaces externos
 

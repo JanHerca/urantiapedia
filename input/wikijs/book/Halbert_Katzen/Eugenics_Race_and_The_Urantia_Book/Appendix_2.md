@@ -1,5 +1,5 @@
 ---
-title: Eugenics, Race, and *The Urantia Book* - Appendix 2. Were the Alpheus Twins Subnormal?
+title: Eugenics, Race, and The Urantia Book - Appendix 2. Were the Alpheus Twins Subnormal?
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -226,6 +226,8 @@ What is the relationship between “poor” racial mixtures and subnormals?
 
 What are the genetic factors related to both temperament and intelligence?
 
+<br/>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>
@@ -240,9 +242,9 @@ What are the genetic factors related to both temperament and intelligence?
 
 ## Links
 
-* [Alpheus twins](en/topic/Alpheus_twins)
-* [Apostleship](en/topic/apostleship)
-* [Inferiors o subnormals](en/topic/inferiors)
+* [Alpheus twins](/en/topic/Alpheus_twins)
+* [Apostleship](/en/topic/apostleship)
+* [Inferiors o subnormals](/en/topic/inferiors)
 
 ## External links
 
