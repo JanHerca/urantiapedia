@@ -238,6 +238,12 @@ El ejército de los EE.UU. no acepta a nadie con un coeficiente intelectual infe
   </table>
 </figure>
 
+## Enlaces
+
+* [Gemelos Alfeo](es/topic/Alpheus_twins)
+* [Apostolado](es/topic/apostleship)
+* [Inferiores o subnormales](es/topic/inferiors)
+
 ## Enlaces externos
 
 * Este informe en el sitio web UBTheNews: http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/
