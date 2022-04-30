@@ -1049,14 +1049,14 @@ class TopicIndex {
 				if (i === 0 || newLetter != curLetter) {
 					//Closing previous
 					if (newLetter != curLetter) {
-						html += '\t</ul>\r\n</div>\r\n';
+						html += '</div>\r\n';
 					}
 					if (newLetter) {
 						html += `<h2>${newLetter}</h2>\r\n`;
 					}
-					html += '<div style="column-count:4;-moz-column-count:4;' +
-						'-webkit-column-count:4">\r\n';
-					html += '\t<ul>\r\n';
+					html += '<br/>\r\n<div style="display:grid; gap: 1rem; ' +
+						'grid-template-columns: ' +
+						'repeat(auto-fill, minmax(15rem, 1fr));">\r\n';
 					if (newLetter) {
 						curLetter = newLetter;
 					}
@@ -1065,9 +1065,9 @@ class TopicIndex {
 				const revised = (topic.revised ? '  &diams;' : '');
 				const lan = (this.language === 'en' ? '' : '/' + this.language);
 				const href = `${lan}/topic/${pagename}`;
-				html += `\t\t<li><a href="${href}">${topic.name}</a>${revised}</li>\r\n`;
+				html += `\t<div><a href="${href}">${topic.name}</a>${revised}</div>\r\n`;
 				if (i === topics.length - 1) {
-					html += '\t</ul>\r\n</div>\r\n';
+					html += '</div>\r\n';
 				}
 			});
 			
