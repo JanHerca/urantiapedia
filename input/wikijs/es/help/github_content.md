@@ -35,6 +35,8 @@ Las carpetas que componen el proyecto de *Urantiapedia* en Github son éstas:
         * **bible-refs-xx** [`DEPRECATED`]: antigua carpeta con el *Paramony*. Este contenido ya no es necesario.
         * **topic-index-xx**: *Índice de términos* traducido a cada idioma en formato TXT (`topic-index-es`, `topic-index-en`, etc.)
     * **wikijs**: carpeta con el contenido para *Wiki.js* que se ha creado manualmente.
+- **output**: carpeta con los ficheros de salida que serán subidos en masa a la web *Urantipedia*. IMPORTANTE: los ficheros en esta carpeta *no deben editarse*. En lugar de eso hay que editar los ficheros en la carpeta `input` y bien o usar las *Urantiapedia Tools* para generar los ficheros de salida, o bien copiar/pegar de `input` a `output`.
+    * **wikijs**: carpeta con el contenido en los formatos soportados por *Wiki.js*.
 
 Las carpetas marcadas como *deprecated* pueden ser ignoradas por contener material que ya no se está usando en el proceso y será seguramente eliminado en un futuro.
 
@@ -76,6 +78,24 @@ input
             *.txt
 ```
 Para cualquier otro idioma se haría de manera similar. Es posible que parte de este contenido ya se encuentre disponible en el actual proyecto en GitHub. Conviene revisar lo existente antes de incorporar contenido nuevo.
+
+El resultado que generaría el contenido previo en francés sería como sigue:
+
+```
+output
+    fr
+        Bible
+            (carpetas con los libros de la Biblia)
+                *.html
+        index
+            *.html
+        The_Urantia_Book
+            *.html
+        topic
+            *.html
+```
+
+Todas las carpetas indicadas arriba para la carpeta `output` se crean usando las *Urantiapedia Tools*, que esperan que ciertas carpetas existan en la carpeta `output`.
 
 ## Enlaces
 

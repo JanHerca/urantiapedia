@@ -35,6 +35,8 @@ The folders that comprises *Urantiapedia* project on Github are these:
         * **bible-refs-xx** [`DEPRECATED`]: old folder with *Paramony*. This content is no longer required.
         * **topic-index-xx**: *Topic Index* translations in TXT format (`topic-index-es`,` topic- index-en`, etc.)
     * **wikijs**: folder with some input content for *Wiki.js* that is created manually.
+- **output**: folder containing output files that will be bulk-uploaded in *Urantipedia* website. IMPORTANT: files in this folder *must not be edited*. Instead files in `input` folder should be updated and then either use *Urantiapedia Tools* to generate output files, or copy/paste from `input` to `output`.
+    * **wikijs**: folder with the content in formats that are supported by *Wiki.js*.
 
 Folders tagged as deprecated can be ignored because contain material that is no longer being used in the process and will surely be eliminated in the future.
 
@@ -76,6 +78,24 @@ input
             *.txt
 ```
 For any other language it would be done in a similar way. Some of this content may already be available in the current project on GitHub. It is convenient to review what exists before adding new content.
+
+The output that previous French input will generate would be like this:
+
+```
+output
+    fr
+        Bible
+            (folders with Bible books)
+                *.html
+        index
+            *.html
+        The_Urantia_Book
+            *.html
+        topic
+            *.html
+```
+
+All the folders indicated above for `output` folder is created using *Urantiapedia Tools*, that expect some folders to exist in `output` folder.
 
 ## Links
 
