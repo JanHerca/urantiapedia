@@ -293,6 +293,10 @@ const Strings = {
 		ru: "Russian",
 		sv: "Swedish"
 	},
+	"bibleFullIndex": {
+		en: "Full Index of The Bible",
+		es: "Índice completo de la Biblia"
+	},
 	"topicIndexTitle_ALL": {
 		en: "Index of all topics",
 		es: "Índice de todos términos"

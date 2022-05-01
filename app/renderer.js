@@ -353,7 +353,7 @@ const handle_exeButtonClick = () => {
 		return;
 	}
 
-	if (process ==='BIBLEREF_TXT_BOOK_JSON_TO_TXT') {
+	if (process === 'BIBLEREF_TXT_BOOK_JSON_TO_TXT') {
 		// Read UB (*.json) + Bible Refs (*.txt) => write translation (*.txt)
 		book.readFromJSON(jsonDir)
 			.then(() => bibleref.readFromTXT(txtDir))
@@ -441,7 +441,7 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeIndexToWikiHTML(htmlDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	}else if (process === 'BIBLE_TEX_BIBLEREF_TXT_TO_MEDIAWIKI') {
+	} else if (process === 'BIBLE_TEX_BIBLEREF_TXT_TO_MEDIAWIKI') {
 		// Read Bible Refs (*.txt) + read Bible (*.tex) => write (*.wiki)
 		bibleref.readFromTXT(txtDir)
 			.then(() => bible.readFromLaTeX(latexDir))
@@ -461,7 +461,13 @@ const handle_exeButtonClick = () => {
 			.then(() => bible.writeIndexToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BIBLE_TEX_TO_WIKIXML') {
+	} else if (process === 'BIBLE_TEX_TO_BIBLEINDEX_WIKIJS') {
+		// Read Bible (*.tex) => write index (*.html)
+		bible.readFromLaTeX(latexDir)
+			.then(() => bible.writeIndexToWikiHTML(htmlDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	}else if (process === 'BIBLE_TEX_TO_WIKIXML') {
 		// Read Bible (*.tex) => write Wiki (*.xml)
 		bible.readFromLaTeX(latexDir)
 			.then(() => bible.writeToWikiXML(wikiDir, merge))

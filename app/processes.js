@@ -189,6 +189,21 @@ const Processes = {
 			es: 'RV1960'
 		}
 	},
+	"BIBLE_TEX_TO_BIBLEINDEX_WIKIJS": {
+		active: true,
+		desc: {
+			en: "Convert Bible (LaTeX) to index Wiki.js",
+			es: "Convertir Biblia (LaTeX) a índice Wiki.js"
+		},
+		controls: ['dirLTextbox', 'dirHTextbox'],
+		paths: [['input', 'tex', 'bible-{0}', '{extraPath}'],
+			['output', 'wikijs', '{0}', 'Bible']],
+		emptyLan: [null, 'en'],
+		extraPath: {
+			en: 'ASV',
+			es: 'RV1960'
+		}
+	},
 	"BIBLE_TEX_TO_WIKIXML": {
 		active: false,
 		desc: {

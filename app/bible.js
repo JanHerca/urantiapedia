@@ -297,6 +297,62 @@ class Bible {
 		});
 	};
 
+	/**
+	 * Writes an index of `Bible` in HTML format that can be imported in Wiki.js.
+	 * It requires reading previously from any format.
+	 * @param {string} dirPath Folder path.
+	 * @return {Promise} Promise that returns null in resolve function or an
+	 * array of errors in reject function.
+	 */
+	writeIndexToWikiHTML = (dirPath) => {
+		return new Promise((resolve, reject) => {
+			const booknames = Object.values(BibleAbbs[this.language])
+				.map(e => e[0]);
+			const indexName = Strings['bookIndexName'][this.language];
+			const chapterName = Strings['bookChapter'][this.language];
+			const bibleIndex = Strings['bibleFullIndex'][this.language];
+			const bibleIndexPath = `/${this.language}/index/bible`;
+
+			const promises = booknames
+				.filter(name => {
+					return this.biblebooks
+						.find(book => book.title === name) != undefined;
+				})
+				.map(name => {
+					return new Promise((resolve2, reject2) => {
+						const book = this.biblebooks
+							.find(book => book.title === name);
+						const bookNameEN = book.titleEN.replace(/ /g, '_');
+						const title = `${book.title} - ${indexName}`;
+						const filePath = path.join(dirPath, bookNameEN, 
+							`Index.html`);
+						let html = '';
+						html += getWikijsHeader(title);
+						html += `<ul>\r\n`;
+						html += book.chapters
+							.map((c, i) => {
+								const path = `${book.path}/${i+1}`;
+								const text = `${chapterName} ${i+1}`;
+								return `\t<li><a href="${path}">${text}</a></li>\r\n`;
+							})
+							.join(' ');
+						html += '</ul>\r\n';
+						html += `<p><a href="${bibleIndexPath}" ` +
+							`title="${bibleIndex}">` + 
+							`${bibleIndex}</a></p>\r\n`;
+						fs.writeFile(filePath, html, 'utf-8', (err) => {
+							if (err) {
+								reject2(err);
+								return;
+							}
+							resolve2(null);
+						});
+					});
+			});
+			Promise.all(promises).then(resolve, reject);
+		});
+	};
+
 	//***********************************************************************
 	// MediaWiki
 	//***********************************************************************
