@@ -298,6 +298,43 @@ class Bible {
 	};
 
 	/**
+	 * Writes a full index of `Bible` in HTML format that can be imported in Wiki.js.
+	 * It requires reading previously from any format.
+	 * @param {string} dirPath Folder path.
+	 * @return {Promise} Promise that returns null in resolve function or an
+	 * array of errors in reject function.
+	 */
+	writeFullIndexToWikiHTML = (dirPath) => {
+		return new Promise((resolve, reject) => {
+			const booknames = Object.values(BibleAbbs[this.language])
+				.map(e => e[0]);
+			const filePath = path.join(dirPath, `bible.html`);
+			const bibleIndex = Strings['bibleFullIndex'][this.language];
+			let html = '';
+			html += getWikijsHeader(bibleIndex);
+			html += '\r\n<ul>\r\n';
+			html += booknames.map(name => {
+				const book = this.biblebooks.find(book => book.title === name);
+				if (!book) return '';
+				const bookNameEN = book.titleEN.replace(/ /g, '_');
+				const chapters = book.chapters.map((c, i) => {
+					const path = `/${this.language}/Bible/${bookNameEN}/${i+1}`;
+					return `<a href="${path}">${i+1}</a>`;
+				}).join(' ');
+				return `\t<li>${name}: ${chapters}</li>\r\n`;
+			}).join('');
+			html += '</ul>\r\n';
+			fs.writeFile(filePath, html, 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
+			});
+		});
+	};
+
+	/**
 	 * Writes an index of `Bible` in HTML format that can be imported in Wiki.js.
 	 * It requires reading previously from any format.
 	 * @param {string} dirPath Folder path.
@@ -312,6 +349,7 @@ class Bible {
 			const chapterName = Strings['bookChapter'][this.language];
 			const bibleIndex = Strings['bibleFullIndex'][this.language];
 			const bibleIndexPath = `/${this.language}/index/bible`;
+			const indexPath = dirPath.replace('Bible', 'index');
 
 			const promises = booknames
 				.filter(name => {
@@ -349,6 +387,7 @@ class Bible {
 						});
 					});
 			});
+			promises.push(this.writeFullIndexToWikiHTML(indexPath));
 			Promise.all(promises).then(resolve, reject);
 		});
 	};
