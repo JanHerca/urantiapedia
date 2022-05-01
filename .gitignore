@@ -1,4 +1,2 @@
 /node_modules
-output/mediawiki/*
-output/wikijs/*
 tests/*
