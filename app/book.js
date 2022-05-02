@@ -1436,12 +1436,15 @@ class Book {
 					html += `<sup><small>${par.par_ref}</small></sup>  `;
 
 					replaceErr = [];
-					pcontent = replaceTags(par.par_content, '*', '*', 
-						'<i>', '</i>', replaceErr);
+					// Urantia Book has a paragraph with `*  *  *` so check here
+					pcontent = (par.par_content === '*  *  *' ? par.par_content :
+						replaceTags(par.par_content, '*', '*', '<i>', '</i>', 
+						replaceErr));
 					pcontent = replaceTags(pcontent, '$', '$', 
 						'<span style="font-variant: small-caps;">', '</span>',
 						replaceErr);
 					if (replaceErr.length > 0) {
+						error_par_ref = par.par_ref;
 						error = replaceErr[0];
 					}
 					if (tiOK) {
@@ -1514,7 +1517,10 @@ class Book {
 			//References section
 			if (wfootnotes.length > 0) {
 				html += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
-				html += '<div style="column-width: 30em;">\r\n<ol>\r\n';
+				html += '<div style="-moz-column-width: 30em; ' + 
+					'-webkit-column-width: 30em; column-width: 30em; ' + 
+					'margin-top: 1em;">\r\n<ol style="margin: 0; ' +
+					'padding-top: 0px;">\r\n';
 				wfootnotes.forEach(f => html += '  ' + f);
 				html += '</ol>\r\n</div>\r\n';
 			}
@@ -1543,12 +1549,13 @@ class Book {
 	 */
 	footnotesToWikiHTML = (footnotes) => {
 		return footnotes.map((f, n) => {
-			let html, parts, text, text2, fs, ab;
+			let html, parts, text, text2, fs, ab, style;
 			parts = f.split('*').filter(n => n.trim() != '');
 			if (parts.length === 0 || parts.length % 2 != 0) {
 				return 'FOOTNOTE ERROR';
 			}
-			html = `<li id="fn${n+1}"><a href="#cite${n+1}">↑</a>`;
+			style = (n === 0 ? 'style="margin-top:0px;" ' : '');
+			html = `<li ${style}id="fn${n+1}"><a href="#cite${n+1}">↑</a>`;
 			for (let p = 0; p < parts.length; p = p + 2) {
 				text = parts[p];
 				html += ` <i>${text}</i>: `;

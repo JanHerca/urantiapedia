@@ -123,7 +123,7 @@ exports.replaceTags = function(content, initTag, endTag, initTag2, endTag2, erro
  * const text2 = removeHTMLTags(text, '<span>', '</span>', false, []);
  * // returns 'This text with a tag inside'
  * const text3 = removeHTMLTags(text, '<span>', '</span>', true, []);
- * // return 'This text inside dentro'
+ * // return 'This text inside'
  * @param {string} content String to replace.
  * @param {string} initTag Starting tag.
  * @param {string} endTag End tag.

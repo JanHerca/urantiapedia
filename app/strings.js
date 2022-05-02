@@ -530,8 +530,8 @@ const Strings = {
 		es: "{0}: Un párafo no tiene referencia o contenido"
 	},
 	"book_tag_no_closing": {
-		en: "{0}: No correct closing string exists",
-		es: "{0}: No existe cadena de cierre correcto"
+		en: "{0}, line {1}: No correct closing string exists",
+		es: "{0}, línea {1}: No existe cadena de cierre correcto"
 	},
 	"book_no_paper_index": {
 		en: "{0}, line {1}: Filename do not contains paper index",
