@@ -256,9 +256,9 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 
 ## References
 
-[^1]: [LU 64:6.5](/es/The_Urantia_Book/64#p6_5)
+[^1]: [UB 64:6.5](/en/The_Urantia_Book/64#p6_5)
 
-[^2]: Véase los [documentos 62](/es/The_Urantia_Book/62), [63](/es/The_Urantia_Book/63) y [64](/es/The_Urantia_Book/64) de *El Libro de Urantia* para una completa descripción de estos eventos.
+[^2]: Véase los [documentos 62](/en/The_Urantia_Book/62), [63](/en/The_Urantia_Book/63) y [64](/en/The_Urantia_Book/64) de *El Libro de Urantia* para una completa descripción de estos eventos.
 
 [^3]: http://www.answers.com/topic/native-american
 
@@ -266,13 +266,13 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 
 [^5]: *Paleoamerican Origins* (*Orígenes paleoamericanos*), Smithsonian, Paleoamerican Origins, 1999. https://web.archive.org/web/20090628145147/http://www.si.edu/Encyclopedia_SI/nmnh/origin.htm [Enlace original roto]
 
-[^6]: [LU 64:6.4-8](/es/The_Urantia_Book/64#p6_4)
+[^6]: [UB 64:6.4-8](/en/The_Urantia_Book/64#p6_4)
 
-[^7]: [LU 64:7.4,5,7](/es/The_Urantia_Book/64#p7_4)
+[^7]: [UB 64:7.4,5,7](/en/The_Urantia_Book/64#p7_4)
 
-[^8]: [LU 64:7.17-19](/es/The_Urantia_Book/64#p7_17)
+[^8]: [UB 64:7.17-19](/en/The_Urantia_Book/64#p7_17)
 
-[^9]: [LU 78:5.7](/es/The_Urantia_Book/78#p5_7)
+[^9]: [UB 78:5.7](/en/The_Urantia_Book/78#p5_7)
 
 [^10]: *Find May Rewrite Americas' Prehistory*, by Curt Suplee, Washington Post, February 11 1997. Article about Monte Verde, Chile site, 33,000 years old. http://www.washingtonpost.com/wp-srv/inatl/americas/feb/17/artifact.htm
 
