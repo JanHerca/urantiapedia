@@ -1,6 +1,6 @@
 # The Challenge of the 21st Century
 
-Meredith J. Sprunger
+Author: **Meredith J. Sprunger**
 
 (The following presentation was given at the Midwest Regional Conference held at Fall Creek, Illinois State Park, October 7 & 8, 1995.) 
 
@@ -82,7 +82,7 @@ Byron Belitsos has been reading The Urantia Book _for 25 years_. He is publisher
 
 # Magisterial missions
 
-Behzad Sarmast
+Author: **Behzad Sarmast**
 
 Thousands of years before the arrival of Michael on Urantia, Machiventa Melchizedek’s missionaries foretold of the impending arrival of a Paradise Son on Urantia. Likewise did Van and his associates prepare the civilized world for the arrival of Adam and Eve, correctly discerning their imminent arrival. History shows that such divine visitations are always foretold, and that heaven gives enough signs to “prepare the way” for such heavenly gifts — today is no different. 
 
@@ -162,7 +162,7 @@ Behzad Sarmast was born in Iran, but he has lived in the United States for the l
 
 # Springtime: a study of the future
 
-Henry Begemann
+Author: **Henry Begemann**
 
 (From The URANTIAN, Journal of the URANTIA Brotherhood (now known as the Fellowship), Summer 1988) 
 
@@ -268,7 +268,7 @@ Searching among alternative religions in Holland, Henry Begemann found The Urant
 
 # Whither goes thou, woman?
 
-Jeanne Melchior
+Author: **Jeanne Melchior**
 
 Exploring gender bias in _The Urantia Book_
 
@@ -310,7 +310,19 @@ Fortunately, God sends messages to all of us every day if we just open our heart
 
 I’m awaiting the day when clearly and unequivocally, God begins speaking to women as well as men in language which in no way disguises or distorts the truth, and which makes no subtle claim that one gender is subordinate to the other. Then, perhaps, the fifth epochal revelation will become a reality.   
 
-Jeanne teaches unbiased language usage, critical thinking skills, and discernment to students at Vincennes University, Jasper Campus, in rural southern Indiana. She lives surrounded by trees and writes about environmental issues.  
+Jeanne teaches unbiased language usage, critical thinking skills, and discernment to students at Vincennes University, Jasper Campus, in rural southern Indiana. She lives surrounded by trees and writes about environmental issues. 
+
+# The seven psychic circles
+
+Author: **Linda Buselli**
+
+Of all the enigmas presented to us by _The Urantia Book,_ one of the most puzzling to me has always been the seven psychic circles. Only three of them are given any definition at all, and yet we must attain these stages of spiritual achievement in preparation for Adjuster fusion. I accepted this lack of differentiation between these circles because the book clearly states that they are different for each individual. However, I have found a possible way of giving them shape and form in the work of best-selling author, Caroline Myss, Ph.D. 
+
+In her book, _Anatomy of the Spirit_ Dr. Myss writes of her experience as a medical intuitive. In pursuing this ability, she became aware of the importance of the seven chakras of Hindu tradition, not only from a physical energy point of view, but as centers of spiritual energies that are as intricate as our physical makeup. As she became more and more certain of these spiritual truths, she realized that the truth of these seven levels of spiritual growth must be true in other religions as well — and she found their relationship to the seven sacraments of Christianity and the seven levels of the Hebrew Kabbalah, the Tree of Life, or Sefirot. Each chakra has a corresponding meaning in a sacrament and a level of the Tree of Life, and now, I believe, in the seven psychic circles of _The Urantia Book_. 
+
+In an attempt to apply these to a human life, I began to investigate the growth of Jesus in the seven levels as described by Dr. Myss, and this has resulted in some, to me, startling conclusions. Note that in the following graphic, the psychic circles are numbered in reverse order to the chakras. Let’s begin with the first chakra, corresponding to the seventh psychic circle. This chakra represents the “tribal” level to Dr. Myss, and corresponds to the sacrament of baptism and the first level of the Sefirot, Shekhinah, meaning “divine presence”. “One who enters must enter through this gate” (Zohar 1:7b) Of course, we enter the seventh circle when we make our first moral decision and receive our Thought Adjuster; and “Entrance upon the seventh circle constitutes a mortal creature a truly potential citizen of the local universe.” (P. 1210) 
+
+Jesus entered the seventh circle upon the receipt of his Thought Adjuster at the age of four. Both of his parents were involved in his instruction in family discipline and practices and also Jewish beliefs, customs and traditions. This is in keeping with the tribal, family concept. At the age of seven, when Jesus entered school, he began to spend more time outside of the family, to establish relationships with schoolmates, and to “make contact with human nature from the four quarters of the earth as men from many lands passed in and out of his father’s repair shop.” (P. 1362) The second chakra or sixth circle represents our personal relationships with others, both human and divine. In Christianity, this is represented by the sacrament of Communion at the age of seven. 
 
 Psychic Circles | Chakras | Sacraments | Sefirot 
 --- | --- | --- | --- | ---
@@ -321,18 +333,6 @@ Psychic Circles | Chakras | Sacraments | Sefirot
 3 | Accept Divine Will | 5 Will Will to God | Confession - Surrender <br>Judgement & Mercy | 5 & 4 Gevurah, Hesed
 2 | 6 Mind, Clarity | Ordination | 3 & 2 Binah, Hokhmah <br>Understanding, Wisdom 
 1 Adjuster Contact | 7 Oneness | Extreme Unction <br>From Physical to <br>Spiritual | 1 Keter - Divine Energy   
-
-# The seven psychic circles
-
-Linda Buselli
-
-Of all the enigmas presented to us by _The Urantia Book,_ one of the most puzzling to me has always been the seven psychic circles. Only three of them are given any definition at all, and yet we must attain these stages of spiritual achievement in preparation for Adjuster fusion. I accepted this lack of differentiation between these circles because the book clearly states that they are different for each individual. However, I have found a possible way of giving them shape and form in the work of best-selling author, Caroline Myss, Ph.D. 
-
-In her book, _Anatomy of the Spirit_ Dr. Myss writes of her experience as a medical intuitive. In pursuing this ability, she became aware of the importance of the seven chakras of Hindu tradition, not only from a physical energy point of view, but as centers of spiritual energies that are as intricate as our physical makeup. As she became more and more certain of these spiritual truths, she realized that the truth of these seven levels of spiritual growth must be true in other religions as well — and she found their relationship to the seven sacraments of Christianity and the seven levels of the Hebrew Kabbalah, the Tree of Life, or Sefirot. Each chakra has a corresponding meaning in a sacrament and a level of the Tree of Life, and now, I believe, in the seven psychic circles of _The Urantia Book_. 
-
-In an attempt to apply these to a human life, I began to investigate the growth of Jesus in the seven levels as described by Dr. Myss, and this has resulted in some, to me, startling conclusions. Note that in the following graphic, the psychic circles are numbered in reverse order to the chakras. Let’s begin with the first chakra, corresponding to the seventh psychic circle. This chakra represents the “tribal” level to Dr. Myss, and corresponds to the sacrament of baptism and the first level of the Sefirot, Shekhinah, meaning “divine presence”. “One who enters must enter through this gate” (Zohar 1:7b) Of course, we enter the seventh circle when we make our first moral decision and receive our Thought Adjuster; and “Entrance upon the seventh circle constitutes a mortal creature a truly potential citizen of the local universe.” (P. 1210) 
-
-Jesus entered the seventh circle upon the receipt of his Thought Adjuster at the age of four. Both of his parents were involved in his instruction in family discipline and practices and also Jewish beliefs, customs and traditions. This is in keeping with the tribal, family concept. At the age of seven, when Jesus entered school, he began to spend more time outside of the family, to establish relationships with schoolmates, and to “make contact with human nature from the four quarters of the earth as men from many lands passed in and out of his father’s repair shop.” (P. 1362) The second chakra or sixth circle represents our personal relationships with others, both human and divine. In Christianity, this is represented by the sacrament of Communion at the age of seven. 
 
 The Urantia Book describes Jesus’ attempts to resolve the issues of the third chakra, or fifth circle — honor, integrity — between the ages of 12 and 14. “... Jesus suffered great mental distress as the result of his constant effort to adjust his personal views of religious practices and social amenities to the established beliefs of his parents. He was distraught by the conflict between the urge to be loyal to his own convictions and the conscientious admonition of dutiful submission to his parents...._” (P. 1372-3) 
 
@@ -360,7 +360,7 @@ Linda Buselli has been a reader for 28 years, and she and her husband Bob served
 
 # On removing the barrier to a civilized discussion of eugenics
 
-Stephen
+Author: **Stephen**
 
 (Note: The author has asked us to withhold his full identity to protect his professional status and connections. We are complying with his request. — Editors) 
 
@@ -437,7 +437,7 @@ It is important to recognize that the dominant factor in Nazi ideology had nothi
 
 # The basket
 
-Charlene Morrow
+Author: **Charlene Morrow**
 
 It happened on the very last Wednesday 
 Almost all the bright days were gone 
@@ -480,11 +480,9 @@ But not so strange or odd
 If any had wanted so badly could face 
 A day alone with God
 
-
-
 # Time and time out
- 
-K. Brendi Poppel
+
+Author: **K. Brendi Poppel**
 
 Time is a measure of material momentum, 
 But when time stands still.... 

@@ -31,6 +31,7 @@ Search end of sentences: [\.”\?!]
 “ ”  (Alt+q)  ‘ ’
 «  » (Alt+w)
 —
+Ö => ...
 
 omissions in quotes:
 * english . . .
