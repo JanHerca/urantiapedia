@@ -36,8 +36,8 @@ We are now entering the intellectual-spiritual struggle which took mainline Chri
 
 The solid core of the Urantia movement has come through these tribulations with renewed dedication and balance. We have come of age. Spiritual freedom and participatory democracy have taught us that there can be unity of purpose in the midst of intellectual and political diversity. The Fifth Epochal Revelation will make its way and overcome any barriers placed in its way. We are standing at the threshold of “one of the most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment” on our planet. The preliminary, orienting growth developments of the Urantia movement are largely behind us. The Most Highs have prepared us and our planet for the most thrilling vision of spiritual reality since Jesus of Nazareth walked on our world. This outreach mission will be many-faceted, pluralistic, and victorious!
 
-Meredith Justin Sprunger is a minister in the United Church of Christ and a college professor, now retired from pastoral and teaching responsibilities. For many years he was active as a counselor and psychological consultant, holding a Private Practice Certificate in Psychology in the State of Indiana. He has served congregations in the Midwest and taught at Elmhurst College and Indiana Institute of Technology, functioning as head of the Department of Psychology, chairman of the Division of Liberal Arts, and President. Meredith has served as a Field Representative, chairman of the Education and Fraternal Relations Committees, and President of Urantia Brotherhood. He is founder and Executive Director of The Christian Fellowship of Students of The Urantia Book , a trustee of the Jesusonian Foundation, and editor of The Spiritual Fellowship Journal. 
-
+> Meredith Justin Sprunger is a minister in the United Church of Christ and a college professor, now retired from pastoral and teaching responsibilities. For many years he was active as a counselor and psychological consultant, holding a Private Practice Certificate in Psychology in the State of Indiana. He has served congregations in the Midwest and taught at Elmhurst College and Indiana Institute of Technology, functioning as head of the Department of Psychology, chairman of the Division of Liberal Arts, and President. Meredith has served as a Field Representative, chairman of the Education and Fraternal Relations Committees, and President of Urantia Brotherhood. He is founder and Executive Director of The Christian Fellowship of Students of The Urantia Book, a trustee of the Jesusonian Foundation, and editor of The Spiritual Fellowship Journal. 
+{.is-info}
 # On facing millenial change
 
 Byron Belitsos
@@ -78,8 +78,8 @@ But through presuming that it knows the very secret of time, apocalypticism shor
 
 Thus we find that faith (spiritual practice) and hope are interdependent; we find that together, they induce soul growth. Character is built through continually facing the challenge of the unknown with a practice that is energized with hope. When hope in the future becomes a presumptuous knowledge of the very secrets of time, our spiritual practice is derailed. This is the danger of apocalyptical thinking to personal growth and to orderly progress of the human community.  
 
-Byron Belitsos has been reading The Urantia Book _for 25 years_. He is publisher of the new book, Just in Case: Dispatches from the Front Lines of the Y2K Crisis, (Origin Press, May 1999), a widely acclaimed anthology of key essays on the Year 2000 computer crisis. He is also publisher and co-editor (with Fred Harris) of The Center Within: Lessons from the Heart of the Urantia Revelation, (December 1998). Both are available in bookstores or at his website: http://www.IntegralSpirit.com.  
-
+> Byron Belitsos has been reading The Urantia Book _for 25 years_. He is publisher of the new book, Just in Case: Dispatches from the Front Lines of the Y2K Crisis, (Origin Press, May 1999), a widely acclaimed anthology of key essays on the Year 2000 computer crisis. He is also publisher and co-editor (with Fred Harris) of The Center Within: Lessons from the Heart of the Urantia Revelation, (December 1998). Both are available in bookstores or at his website: http://www.IntegralSpirit.com.  
+{.is-info}
 # Magisterial missions
 
 Author: **Behzad Sarmast**
@@ -156,7 +156,8 @@ The harvest is not likely to be a calm period on Earth. No mortal or groups of m
 
 Go about your life, continue the labor Michael entrusted us with, but do not neglect to be wise and “discern the signs of the times.” And if you believe that our global problems spell nothing less than the harvest spoken of by the Father incarnate, then know that aside from the “rapture” theory or a military recourse by Michael’s forces, this newest revelation is also foretelling a new possibility: a visible Paradise Son with twelve visible Melchizedeks, likely to contact the more progressive individuals of the realm prior to the judgment. 
 
-Behzad Sarmast was born in Iran, but he has lived in the United States for the last 22 years. His deep thirst for the truth made him travel extensively around the world and study all religions, but the revelation finally brought him home. He recently moved from New York City to Boulder, CO.   
+> Behzad Sarmast was born in Iran, but he has lived in the United States for the last 22 years. His deep thirst for the truth made him travel extensively around the world and study all religions, but the revelation finally brought him home. He recently moved from New York City to Boulder, CO.   
+{.is-info}
 
 > We most positively believe that Michael will again come in person to Urantia, but we have not the slightest idea as to when or in what manner he may choose to come. Will his second advent on earth be timed to occur in connection with the terminal judgment of this present age, either with or without the associated appearance of a Magisterial Son? . . . [UB 176:4.5](/en/The_Urantia_Book/176#p4_5)
 
@@ -264,8 +265,8 @@ There is so much we can do now for the fourth phase of the kingdom. Our invisibl
 
 In this way and in many others we could prepare ourselves for “the next age.” And thus we co-operate with our superiors. If we sincerely try to realize what changes will occur, this will bring ample opportunity for constructive thinking. What is needed is spiritual insight and universe-consciousness, (which only comes after God-consciousness). But we could begin with universemindedness, willingness to overcome prejudice from inertia and lack of imagination. And lack of belief in what has already been revealed of the plans of our Master. God and men need each other. Be of good cheer, it is springtime already!   
 
-Searching among alternative religions in Holland, Henry Begemann found The Urantia Book as he was retiring from an insurance sales career. Recognizing its importance, he immediately began translating the book into the Dutch language. His dedication inspired him to organize and facilitate study groups as European Field Representative. He served on the General Council of the Brotherhood before his death in 1990.   
-
+> Searching among alternative religions in Holland, Henry Begemann found The Urantia Book as he was retiring from an insurance sales career. Recognizing its importance, he immediately began translating the book into the Dutch language. His dedication inspired him to organize and facilitate study groups as European Field Representative. He served on the General Council of the Brotherhood before his death in 1990.
+{.is-info}
 # Whither goes thou, woman?
 
 Author: **Jeanne Melchior**
@@ -310,8 +311,8 @@ Fortunately, God sends messages to all of us every day if we just open our heart
 
 I’m awaiting the day when clearly and unequivocally, God begins speaking to women as well as men in language which in no way disguises or distorts the truth, and which makes no subtle claim that one gender is subordinate to the other. Then, perhaps, the fifth epochal revelation will become a reality.   
 
-Jeanne teaches unbiased language usage, critical thinking skills, and discernment to students at Vincennes University, Jasper Campus, in rural southern Indiana. She lives surrounded by trees and writes about environmental issues. 
-
+> Jeanne teaches unbiased language usage, critical thinking skills, and discernment to students at Vincennes University, Jasper Campus, in rural southern Indiana. She lives surrounded by trees and writes about environmental issues. 
+{.is-info}
 # The seven psychic circles
 
 Author: **Linda Buselli**
@@ -356,8 +357,8 @@ The similarity of the various religious traditions of seven levels of spiritual 
 
 We cannot find a better example of human progression through the circles than in The Urantia Book ’s narrative of Jesus’ life. As we follow his development, his constant balancing of the various aspects of life as it is lived on this planet and co-ordination of all this with his determination to be subject to the will of the Father, we are inspired to act in our own lives with this same consecration of will.   
 
-Linda Buselli has been a reader for 28 years, and she and her husband Bob served as Area Coordinators for Indiana for many years. She is a member of the Publications Committee and now resides in Dallas, TX. Both children, Michael (24) and Gina (22) are active in the Urantia movement.  
-
+> Linda Buselli has been a reader for 28 years, and she and her husband Bob served as Area Coordinators for Indiana for many years. She is a member of the Publications Committee and now resides in Dallas, TX. Both children, Michael (24) and Gina (22) are active in the Urantia movement.  
+{.is-info}
 # On removing the barrier to a civilized discussion of eugenics
 
 Author: **Stephen**
@@ -517,8 +518,8 @@ To the Spirit, who is waiting for the call,
 To come into our hearts and transform our lives, 
 By opening our eyes to the WONDER OF IT ALL !!!   
 
-K. Brendi Poppel is a poet, songwriter, and watercolor artist who resides in Santa Barbara, California. Recently, she had the privilege of presenting an introduction to The Urantia Book at Border’s Books and on local cable television. She has been a student of The Urantia Book for twenty-five years.
-
+> K. Brendi Poppel is a poet, songwriter, and watercolor artist who resides in Santa Barbara, California. Recently, she had the privilege of presenting an introduction to The Urantia Book at Border’s Books and on local cable television. She has been a student of The Urantia Book for twenty-five years.
+{.is-info}
 
 
 

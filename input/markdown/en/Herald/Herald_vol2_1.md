@@ -192,7 +192,8 @@ We who believe in the Urantia teachings are called voluntarily to a higher stand
 
 What would Jesus do? God bless you my friends, my brothers and sisters of destiny, and keep you in His love forever.
 
-Paul Snider has been studying The Urantia Book since 1965, and has spent more than 25 years in active involvement in the Urantia movement. He and his wife, Mary are parents of seven children, now aged 31 to 44. 
+> Paul Snider has been studying The Urantia Book since 1965, and has spent more than 25 years in active involvement in the Urantia movement. He and his wife, Mary are parents of seven children, now aged 31 to 44. 
+{.is-info}
 
 ## References
 
@@ -390,7 +391,8 @@ On page 360, _The Urantia Book_ says that the distance from the most remote syst
 
 The book claims that the outer space levels are 25 million light years wide. I estimate that a superuniverse is about 500 million light years in diameter. Obviously 70,000 superuniverses cannot fit into a space level that is 25 million light years wide. There must be an arithmetic error — an outer space level is more like 25 billion light years wide. 
 
-Irwin Ginsburgh is a Ph.D. physicist with more than fifty U.S. patents. His childhood studies of the Bible and his university studies of evolution had raised in his mind a concern about the obvious conflict in our society regarding the origin of mankind. He ultimately concluded that the two versions fit well together if one assumes that Adam and Eve were superhumans from some other world. His book on this subject, First Man! Then Adam , was published by Simon and Schuster. Among the letters he received from readers, there were several that suggested that he read The Urantia Book. This is how, he says, the book “found” him. He has been a reader for twenty years, and writes commentary on science and The Urantia Book. 
+> Irwin Ginsburgh is a Ph.D. physicist with more than fifty U.S. patents. His childhood studies of the Bible and his university studies of evolution had raised in his mind a concern about the obvious conflict in our society regarding the origin of mankind. He ultimately concluded that the two versions fit well together if one assumes that Adam and Eve were superhumans from some other world. His book on this subject, First Man! Then Adam , was published by Simon and Schuster. Among the letters he received from readers, there were several that suggested that he read The Urantia Book. This is how, he says, the book “found” him. He has been a reader for twenty years, and writes commentary on science and The Urantia Book. 
+{.is-info}
 
 > The whole marvelous and universal mechanism moves on majestically through space to the music of the meter of the infinite thought and the eternal purpose of the first great source and center.  (p. 364)  
 
@@ -448,7 +450,8 @@ The practice of “cosmic citizenship” is twice blessed. While seeking to enri
 
 We are just at the beginning of this adventure of discovery. There are an endless number of such connections waiting to be clarified and incorporated into the lives of those who study The Urantia Book , and subsequently to the world. To the degree that we identify these connections and make them real in our lives we experience “cosmic citizenship” as a growing personal reality, enriching both this life and the next, and causing ripples which expand out to the edges of supreme reality. 
 
-Stephen (Steve) Dreier, a retired professor of chemistry, former President of The Urantia Book Fellowship, currently serves as The Fellowship’s Vice President. He has been a student of the book for more than 25 years and has invested countless hours in the service of The Fellowship, his local society and readers everywhere.
+> Stephen (Steve) Dreier, a retired professor of chemistry, former President of The Urantia Book Fellowship, currently serves as The Fellowship’s Vice President. He has been a student of the book for more than 25 years and has invested countless hours in the service of The Fellowship, his local society and readers everywhere.
+{.is-info}
 
 # The Dual Nature of Supremacy
 
@@ -538,7 +541,8 @@ And what thou art may never be destroyed.
 
 2nd January, 1846  
 
-The poem, which according to her sister Charlotte, were the last lines Emily Bronte wrote, is untitled.  
+> The poem, which according to her sister Charlotte, were the last lines Emily Bronte wrote, is untitled.  
+{.is-info}
 
 > There is in the mind of God a plan which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life. And the infinite treasures of such a matchless career are yours for the striving! (p. 365)
 

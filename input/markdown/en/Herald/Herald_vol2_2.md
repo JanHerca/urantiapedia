@@ -4,7 +4,7 @@ Author: **Carolyn Kendall**
 
 Excerpts from the address presented at the observance of the 50th Anniversary of the founding of Urantia Foundation, Chicago, IL, Saturday, March 18, 2000
 
-# Introduction
+## Introduction
 
 Someday on a bright tomorrow we, or our descendants, will awaken to the startling news that somewhere on our planet a majestic Paradise personality has arrived. He will be accompanied by twelve stately personalities visible to every citizen of our material existence. And if this were not sufficient cause for joy and thanksgiving, an even more astounding event will be transpiring—unseen by human eyes—but described in luminous detail by our new friends. Thus will the dispensational adjudication and resurrection of the sleeping souls of the Bestowal Son age occur. It will be conducted by the heralds of resurrection who have long been resident on our world. As the new dispensation is proclaimed, another group of Paradise beings will take up residence and begin planning the age to follow the new age: the stage of light and life. On that wondrous tomorrow, yet another being, familiar and fatherly, will grace our presence for an all too brief time among his mortal brothers and sisters. As that long day comes to an end, he will make ready to leave, but not before we savor one last moment in his gracious presence. We will hear again his inspiring admonition to proclaim the Fatherhood of God and the son and daughtership of the Father's worldwide family.
 
@@ -68,7 +68,8 @@ _The Urantia Book_ promises that "sooner or later another and greater John the B
 
 It might be useful to think about where our true loyalties and priorities should be placed both on the institutional and the individual, personal levels. First the organizational level. The first president of Urantia Brotherhood, William S. Sadler, Jr., addressed these matters in his report to the First Triennial Delegate Assembly. "_The Urantia Book_ is not an End in itself. The Brotherhood is not a true End; they are Means to an End." "The only true End is the Universal Father." Dedication to dissemination—the propagation of _The Urantia Book_—is, according to Mr. Sadler, a secondary loyalty. Our primary spiritual loyalty and dedication is to the Universal Father, and to him alone. A sectarian Urantian is one who has allowed the importance of _The Urantia Book_ to take precedence over the importance of God. The Brotherhood [today's Fellowship and IUAI, and the Foundation were designed to disseminate the book; the book is designed to bring God and man closer together." He summed up by saying, "If we can clearly separate Means and Ends, if we can always subordinate Means to the true End, then we shall continue for a very long time as a real Brotherhood, and we shall avoid becoming merely another church or another sect in the world...; a world that needs neither a new church nor a new sect."
 
-Carolyn Kendall has been a reader since 1951, and was a member of the Forum, along with her parents, brother and husband, Tom. She is currently the president of the First Society of Chicago and a member of the Fellowship Publications Committee.
+> Carolyn Kendall has been a reader since 1951, and was a member of the Forum, along with her parents, brother and husband, Tom. She is currently the president of the First Society of Chicago and a member of the Fellowship Publications Committee.
+{.is-info}
 
 # Restated in Modern Phraseology
 
@@ -120,7 +121,8 @@ Two thousand years ago, there were some who saw the Creator Son of God in the be
 
 > You think you are better than the people of Nazareth; you moved away from us, but your brother is a common workman, and your sisters still live among us. We know your mother, Mary. When are they today? We hear big things about you, but we notice that you do no wonders when you come back." Jesus answered them: "I love the people who dwell in the city where 1 grew up, and 1 would rejoice to see you all enter the kingdom of heaven, but the doing of the works of God is not for me to determine. The transformations of grace are wrought in response to the living faith of those who are the beneficiaries. (P. 1686)
 
-As a student of _The Urantia Book_ for almost 30 years, David Elders has tried to live up to the challenges and responsibilities of its teachings in his personal life as well as within the Brotherhood-Fellowship via service in various functional positions. He and his wife, Marta, who shares this dedication to the teachings, have raised two sons who have embarked on their own family journeys.
+> As a student of _The Urantia Book_ for almost 30 years, David Elders has tried to live up to the challenges and responsibilities of its teachings in his personal life as well as within the Brotherhood-Fellowship via service in various functional positions. He and his wife, Marta, who shares this dedication to the teachings, have raised two sons who have embarked on their own family journeys.
+{.is-info}
 
 # Scientific Predictions of _The Urantia Book_ - Part II
  
@@ -266,7 +268,8 @@ Some of the information is about very fundamental science. We know very little a
 
 Revelation may not be absolute truth but is matched to the needs and understanding of those who receive it. It may not completely cover a subject, and could even omit major parts of a subject. It will not provide information that will become useful far in the future. Analysis of the predictions has presented an interesting view of the revealed science. This could be helpful to all readers, since it adds the factor of revelatory truth to some of the scientific material in the book, and implies that the rest of the book is more believable. One final piece of advice. Some help in understanding _The Urantia Book_ are repetition, thinking, and not reading the book sequentially. Start and read what you can understand; then go back and study the other parts.
 
-Irwin Ginsburgh is a Ph.D. physicist. His book, First Man! The Adam, was published by Simon and Schuster. Among the letters he received from readers, there were several that suggested he read _The Urantia Book_. This is how, he says, the book "found" him. He has been a reader for twenty years, and writes commentary on science and _The Urantia Book_.
+> Irwin Ginsburgh is a Ph.D. physicist. His book, First Man! The Adam, was published by Simon and Schuster. Among the letters he received from readers, there were several that suggested he read _The Urantia Book_. This is how, he says, the book "found" him. He has been a reader for twenty years, and writes commentary on science and _The Urantia Book_.
+{.is-info}
 
 ## References
 
@@ -309,7 +312,8 @@ As you practice honing your writing skills, keep Jesus' admonition in mind:
 
 > You cannot stand still in the affairs of the eternal kingdom. My Father requires all his children to grow in grace and in a knowledge of the truth. You who know these truths must yield the increase of the fruits of the spirit and manifest a growing devotion to the unselfish service of your fellow servants. And remember that, inasmuch as you minister to one of the least of my brethren, you have done this service to me. (P. 1917)
 
-Stephen Zendt, a reader since 1971, and host of a study group in San Francisco, is currently a member of the General Council, the Fellowship Education Committee, and is creating a Wrightwood Panel on parables. He has worked on various projects as a narration voice, including _The Urantia Book_ on tape.
+> Stephen Zendt, a reader since 1971, and host of a study group in San Francisco, is currently a member of the General Council, the Fellowship Education Committee, and is creating a Wrightwood Panel on parables. He has worked on various projects as a narration voice, including _The Urantia Book_ on tape.
+{.is-info}
 
 # Parable Of The Talents
 
@@ -369,8 +373,8 @@ The need for a parenting curriculum was mentioned earlier. A Science of Parentin
 
 I am not a scientist. I just work with hundreds of kids a day, and have for 30 years. I struggle to educate myself on the concepts I have attempted to share with you because I see the effect of this knowledge every day. When a child comes to tell a teacher something, and this could be a twelve-year-old as well as a four-year-old, that child has already "read" the emotional state of the adult concerning the approaching child. This will affect how open the child will be to the adult's interaction, information and guidance. The science of emotion and understanding is real. Molecules of emotion are real, material parts of the bodymind system. The heart and brain are intimately connected with rhythms and hormones. And our children know this at the most basic level.
 
-Sara Blackstock has worked with children for most of her life. Currently, she is the director of a large day care center, and her work for the Urantia movement has revolved around her interest in families and children. Sara has a grown son who was brought up with _The Urantia Book_. She is devoted to kindling the spark of God in children and youth.
-
+> Sara Blackstock has worked with children for most of her life. Currently, she is the director of a large day care center, and her work for the Urantia movement has revolved around her interest in families and children. Sara has a grown son who was brought up with _The Urantia Book_. She is devoted to kindling the spark of God in children and youth.
+{.is-info}
 
 # The Ethics of Genetic Control and Social Engineering
 
@@ -426,8 +430,8 @@ What a wonder it is to know that we have a direct hand in the growth of the God 
 
 But to get there, we must succeed in employing the doctrine of fair play, predicated on the doctrine of equal footing, as modern society attempts to re-align itself on the road to eventual light and life. Higher ethics mandate that the ends must be pre-existent in the means.
 
-M. Charles Laurence Olivea is a long-time Urantia Book reader, drawn by its clarity of language, wisdom of thought, and the matchless story of Jesus. He and his wife Mary have two sons, Peter (30) and Gordon (29). Last year Charles retired from his career as a public high school history teacher. He and Mary now live in Santa Fe, NM.
-
+> M. Charles Laurence Olivea is a long-time Urantia Book reader, drawn by its clarity of language, wisdom of thought, and the matchless story of Jesus. He and his wife Mary have two sons, Peter (30) and Gordon (29). Last year Charles retired from his career as a public high school history teacher. He and Mary now live in Santa Fe, NM.
+{.is-info}
 
 # The Intellectual Role of "The Urantia Book"
  
