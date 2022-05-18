@@ -40,7 +40,7 @@ The solid core of the Urantia movement has come through these tribulations with 
 {.is-info}
 # On facing millenial change
 
-Byron Belitsos
+Author: **Byron Belitsos**
 
 With the end of the millennium upon us and the Y2K crisis imminent, the word “apocalypse” is going to be essential in everyone’s lexicon, especially the media. Originally — biblically — the term apocalypse meant a revealing of secrets, an “unveiling” of hidden truths. “Apocalyptical millennialism” — an impossible phrase for the media to pronounce glibly (and thus much less overused) — refers to the unveiling of the hidden secrets of times, at the end of historical time — more specifically at a millenium’s end. In the end-times, as the apocalyptical millennialist tale goes, evil and suffering — all the things and people one finds insufferable — will finally come to a decisive end in a new and undreamed-of Utopia. 
 

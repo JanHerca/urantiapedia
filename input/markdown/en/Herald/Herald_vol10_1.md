@@ -368,8 +368,6 @@ This brings up an extremely important aspect of feelings and emotions: they embe
 We’re fortunate to have been given a revelation with so much instruction in the lures of maturity and what it takes to acquire it. What freedom there is in self-mastery! What joy there is in living truly in the kingdom! 
 
 > Nancy Johnson has been a student and avid researcher of _The Urantia Book_ for 33 years. She has been a member of the Publications Committee for over 20 years, serves on the Standard Text Committee, is a General Councilor, and is a member of the Urantia Society of North Texas. 
-> 
-> Note: A complete file of _Urantia Book_ references to emotions can be obtained by contacting Nancy Johnson at ncjohns@tx.rr.com.
 {.is-info}
 
 # Joy In The Worm Bin 
@@ -1102,7 +1100,7 @@ Let’s return to the question posed at the beginning of this paper: Are you int
 
 17. Participate in local fairs and expos. 
 
-18. Check your local bookstores frequently for _The Urantia Book_. If it is in the “Occult” section, talk with the manager and point out that it is classified as a religious book and should be in the “Religions” or “New Age” sections. If it is not in the bookstore, ask why, pointing out that it is a spiritual bestseller with more than 800,000 copies in print in multiple languages. Offer to provide them with a free copy to prime the pump. If they accept, contact Paula Thompson at Fellowship@UrantiaBook.org or 303-4677858 and a book will be sent—Paula will need the name of the buyer as well as the address of the bookstore. For more information on this approach, contact Linda Buselli, ljbuselli@sbcglobal. net 
+18. Check your local bookstores frequently for _The Urantia Book_. If it is in the “Occult” section, talk with the manager and point out that it is classified as a religious book and should be in the “Religions” or “New Age” sections. If it is not in the bookstore, ask why, pointing out that it is a spiritual bestseller with more than 800,000 copies in print in multiple languages. Offer to provide them with a free copy to prime the pump. If they accept, contact Paula Thompson at her email or phone and a book will be sent—Paula will need the name of the buyer as well as the address of the bookstore.
 
 19. Write commentaries, create flash programs, powerpoint studies, etc., and submit them to the Fellowship, Truthbook, or other Urantian websites for publication. 
 
@@ -1120,7 +1118,7 @@ Let’s return to the question posed at the beginning of this paper: Are you int
 
 26. Do presentations in bookstores, local coffee shops, cafes, or any other available venue. 
 
-27. Set up a book club at a local university or college―contact Don Green, dsgreen1@comcast.net for more information. 
+27. Set up a book club at a local university or college―contact Don Green for more information. 
 
 28. Place low-cost ads in local papers―get the word “Urantia” included in anything you publish. 
 

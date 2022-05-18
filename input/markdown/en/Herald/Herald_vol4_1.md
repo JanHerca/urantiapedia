@@ -323,7 +323,7 @@ Using genetics to rid our species of all inherited diseases is commendable and m
 
 The central message of _The Urantia Book_ is the fatherhood of God and the brotherhood of man. We are enjoined to live this gospel and to serve our fellow human beings with love. When a man believes in the fatherhood of God and consecrates himself to doing his will, the Spirit of Truth joins with the Thought Adjuster and transforms him into a true spiritual son of God, bound for heaven and triumphing over the vicissitudes of the mortal career. When we have this gospel of Jesus to offer the world, preaching eugenics is a distraction.
 
-> Paul is a native of India and is a naturalized citizen. He received his medical degree from the University of Madras. He came to the US in 1964, trained as a Pediatrician, and is a Fellow of the American Academy of Pediatrics. Any comments, questions, and flak may be addressed to hint at: hcspbp@csc.albany.edu
+> Paul is a native of India and is a naturalized citizen. He received his medical degree from the University of Madras. He came to the US in 1964, trained as a Pediatrician, and is a Fellow of the American Academy of Pediatrics.
 {.is-info}
 
 # Revelatory Mouth Piecing
@@ -997,7 +997,7 @@ I cite this as just another instance of the way religious practices are entering
 
 It all really does come down to the truth-hungry individual standing nakedly before God. As the archetype of our religious practice, we can do no better than to remember that "the greatest of all methods of problem solving," according to Rodan is: "_that which_ [Jesus] _so consistently practices_. . . _the isolation of worshipful meditation, this habit of going off so frequently by himself to commune with the Father in heaven_. . ." [160:1.10] (P. 1774) It is this sort of consistent religious practice, varying no doubt in accord with the presence of courageous religious leadership, and in line with the culture and the temperament of an individual, that will lead us reader-believers into that efflorescence of service, love, and truth-dissemination that befits the Fifth Epochal Revelation.
 
-> Byron Belitsos has been a student of _The Urantia Book_ since 1974. He works as a writer, editor, and book publisher and lives in San Rafael, CA. He can be reached at bbelitsos@earthlink.net
+> Byron Belitsos has been a student of _The Urantia Book_ since 1974. He works as a writer, editor, and book publisher and lives in San Rafael, CA.
 {.is-info}
 
 > The characteristic difference between a social occasion and a religious gathering is that in contrast with the secular the religious is pervaded by the atmosphere of communion. [104:4.1] (P. 1133)

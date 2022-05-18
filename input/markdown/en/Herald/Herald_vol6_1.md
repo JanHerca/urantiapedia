@@ -868,7 +868,7 @@ Efforts to increase our youth numbers through organizational means have been lar
 
 The day will come when we overcome our sluggish presentation of the most beautiful teachings ever given to man. Youth will flock to our revelation. Will that be in our generation, or must we await another age when the encumbrances of error and inexperience give way to the mature Jesus-centered confidence of certainty and action? We must do what we can now and encourage one another to do God’s will as we pray for the extension of the Kingdom as so breathtakingly portrayed in _The Urantia Book_.
 
-> Tom Allen is a long time reader of _The Urantia Book_ and member of _The Urantia Book_ Society of Oklahoma. He lives in Oklahoma City with his wife Karen and their four children, Brendan, Jeremy, Nicholas, and Tristan. If you would like to be on his daily “Compare” email list, write him at tommykaren@cox.net.
+> Tom Allen is a long time reader of _The Urantia Book_ and member of _The Urantia Book_ Society of Oklahoma. He lives in Oklahoma City with his wife Karen and their four children, Brendan, Jeremy, Nicholas, and Tristan.
 {.is-info}
 
 # Putting _The Urantia Book_’s Teachings Into Action Through Integral Philosophy

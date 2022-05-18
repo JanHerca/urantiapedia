@@ -566,7 +566,7 @@ The Urantia Book clearly tells us to join in this great spiritual undertaking an
 
 * * *
 
-> In 1965 Preston Thomas graduated from UVA with a Masters degree in Philosophy. He discovered The Urantia Book in 1970 and has been a devoted student ever since. In 1981 he founded the Einstein School and has served as its director for the past 25 years. This school provides special help for children with learning problems and teaches the way of Jesus. In 1992 Preston published The Life and Teachings of Jesus which harmonizes the gospel account of Jesus with The Urantia Book. It is presented to each departing student and is available at www.ltjesus.org. Preston Thomas can be contacted at lpthomas@adelphia.net.
+> In 1965 Preston Thomas graduated from UVA with a Masters degree in Philosophy. He discovered The Urantia Book in 1970 and has been a devoted student ever since. In 1981 he founded the Einstein School and has served as its director for the past 25 years. This school provides special help for children with learning problems and teaches the way of Jesus. In 1992 Preston published The Life and Teachings of Jesus which harmonizes the gospel account of Jesus with The Urantia Book. It is presented to each departing student and is available at www.ltjesus.org. 
 {.is-info}
 
 
@@ -654,7 +654,7 @@ Pueblo, Colorado Springs, Boulder; not only are these hotbeds of Urantia activit
 
 __Ingredient #14: Urantia Book readers are so loveable they teach us to open our hearts to all.__
 
-One of Boulder’s weekly study group meetings puts emphasis on personal growth. Another has a youth group. A seasoned reader has managed to get a book booth on the university campus. Errol & Rochelle happened to be in town for a few days performing some of their famous skits at a local church. We were able to see a few new ones, too. Are you on the brink of committing yourself to serve and just waiting for the opportunity to present itself? Look no further. You have just been informed of a couple who not only are dedicated to reaching out with love for others, but also have a program for implementing true service in your life. Contact Errol at estrider@juno.com for information on his latest personal growth seminar.
+One of Boulder’s weekly study group meetings puts emphasis on personal growth. Another has a youth group. A seasoned reader has managed to get a book booth on the university campus. Errol & Rochelle happened to be in town for a few days performing some of their famous skits at a local church. We were able to see a few new ones, too. Are you on the brink of committing yourself to serve and just waiting for the opportunity to present itself? Look no further. You have just been informed of a couple who not only are dedicated to reaching out with love for others, but also have a program for implementing true service in your life.
 
 Of course Boulder is the home of TruthBook, the website designed to help us discover and share our precious revelation. We were amazed as Mo and Paula took us on a guided “virtual tour” of the TruthBook website. This is one of the most innovative and powerful tools we have for revealing the love and goodness of our Creator. Do yourself a favor and explore the sight. It is abundant with exalted art, study aids, power point presentations, question and answers from and about The Urantia Book and positive, spiritually oriented chat rooms. This space has it all.
 

@@ -10,13 +10,16 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Webs with articles
 
-* *Urantia Book* magazines: 
-	https://urantia-book.org/archive/newsletters/
-	https://urantiabook.org/Urantia-Book-Paper-Focused-Resources
-	Innerface: https://urantia-book.org/archive/newsletters/innerface/index.html
-	Fellowship Herald: https://urantia-book.org/archive/newsletters/herald/
-	Spiritual Fellowship Journal: https://urantia-book.org/index_spiritual_fellowship journal.html
-	The Urantian Journal: https://urantia-book.org/archive/newsletters/urantian journal/
+* *Urantia Book* magazines and collections of papers: 
+	- https://urantia-book.org/archive/newsletters/
+	- https://urantiabook.org/Urantia-Book-Paper-Focused-Resources
+	- UAI: https://urantia-association.org/topical-index-of-articles/
+	- Innerface: https://urantia-book.org/archive/newsletters/innerface/index.html
+	- Fellowship Herald: https://urantia-book.org/archive/newsletters/herald/
+	- Spiritual Fellowship Journal: https://urantia-book.org/index_spiritual_fellowship journal.html
+	- The Urantian Journal: https://urantia-book.org/archive/newsletters/urantian journal/
+	- http://www.encyclopediaurantia.org/
+	- https://www.squarecircles.com/
 * The Meredith J. Sprunger Essays: 
 	https://urantiabook.org/Christianity-and-The-Urantia-Book-The-Meredith-J-Sprunger-Essays
 * UBAnnotated and UBTheNews:

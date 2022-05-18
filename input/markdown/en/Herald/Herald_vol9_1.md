@@ -476,7 +476,7 @@ Tabamantia, a finaliter/agondonter who is Nebadon super visor of decimal planets
 
 *Dictionary definition of “interregnum:” 1. An interval of time between the close of a sovereign’s reign and the accession of his successor. 2. Any period during which a state has no ruler or only a temporary executive. 3. Any period of freedom from the usual authority. 4. Any pause or interruption in continuity. 5. Gap.
 
-Handout available: “Timeline: Anti-religious Personalities, Events & Trends, 17th—21st Centuries.” Salvingtonpl@att.net  
+Handout available: “Timeline: Anti-religious Personalities, Events & Trends, 17th—21st Centuries.” 
 
 > Carolyn Kendall has retired from a varied career in educational and professional offices. Still active in the First Urantia Society (Chicago), she has served the Urantia community as a member of four different committees, a member and vice-president of the General Council, and as an associate trustee of Urantia Foundation (2002– 05). She and her late husband, Tom Kendall, have five children and seven grandchildren.  
 {.is-info}
@@ -596,7 +596,7 @@ As Albert Einstein said so beautifully, “I want to know God’s thoughts; all 
 
 Thank you for allowing me to share my message with you. I bow to the spirit within you.  
 
-> Michael Painter is currently teaching philosophy at a community college and serving as president of the Orvonton Society of _The Urantia Book_ Fellowship. He has been a reader for 36 years and a practitioner of daily communion with God for 16 years. You can contact him at mpainter@ivytech.edu  
+> Michael Painter is currently teaching philosophy at a community college and serving as president of the Orvonton Society of _The Urantia Book_ Fellowship. He has been a reader for 36 years and a practitioner of daily communion with God for 16 years.
 {.is-info}
 
 # The Start of a Worthy New Tradition  
@@ -637,9 +637,7 @@ After our return trip to planet Urantia, Kaye Cooper shared a variety of ideas s
 
 Overall, we were very pleased with the soul-satisfying pleasure of this new adventure in spiritual celebration. All who knew about it gave their nodding consent to the appropriateness of this new opportunity to reflect on Michael’s bestowals perfection. As the word quickly spread, we enjoyed increasing participation from coast to coast ... and received mild disappointment from several others that they had not been given sufficient notice of this inaugural celebration. 
 
-With this meaningful Bestowals celebration experience now registered in the universe records, we are confident that increasing numbers of participants will join with us in this uplifting planetary consciousness: the annual celebration of the seven bestowals of Christ Michael.  
-
-For further information or suggestions for implementing this celebration, contact Nancy Johnson at ncjohns@tx.rr.com.  
+With this meaningful Bestowals celebration experience now registered in the universe records, we are confident that increasing numbers of participants will join with us in this uplifting planetary consciousness: the annual celebration of the seven bestowals of Christ Michael.
 
 
 Bestowal | Qualities Portrayed | Being 
