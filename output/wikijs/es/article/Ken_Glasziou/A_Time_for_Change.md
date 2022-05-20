@@ -66,4 +66,4 @@ Que lo primero sea lo primero.
 
 ## Referencias
 
-[^1] Borg, Marcus J. (1987) «Jesus: A New Vision» (Harper San Francisco)
+[^1]: Borg, Marcus J. (1987) «Jesus: A New Vision» (Harper San Francisco)
