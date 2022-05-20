@@ -383,7 +383,7 @@ Our world, Urantia, is one of the youngest worlds of the Satania system. One hun
 
 Among future readers of _The Urantia Book_ , there will be more and more skeptics. Predictions about the large-scale structure of the universe in _The Urantia Book_ can be most helpful in answering questions from these readers.  
 
-# Notes
+## Notes
 
 The drawings are by Irwin Ginsburgh and Fred Jackson. 
 
@@ -473,11 +473,11 @@ The Creator Son and Creative Spirit are associated in a unique way from the mome
 
 In the growth and fulfillment of finite actualization of time- space potential within a local universe, the Creator Son and the Creative Spirit must function together. He is limited by space, she, by time, but “..._when these two function in administrative union, they are practically independent of time_ and _space within the confines of their local creation. Therefore, as practically observed throughout a local universe, the Creator Son and the Creative Spirit usually function independently of both time_ and _space since there is always available to each the time and space liberation of the other.”_ (p. 377)  
 
-# Dual motions of consciousness 
+## Dual motions of consciousness 
 
 The Creative Deities represent two extremes of consciousness within the Supreme Mind. The Creator Son is highly individual_. “...each is unique, diverse, exclusive, and original in_ nature _as well as in personality.”_ (p. 236) On the other hand, the Creative Spirit begins as a scarcely individuated being but is “... _group conscious of destiny._ ” (p. 203) As the Creator Son expands his consciousness of the experiences of his diverse beings through living the life of seven of his created beings, the Creative Spirit grows toward a more personal expression of consciousness with each of his bestowals. As his group consciousness expands, her individual conscious expression increases. They grow together but from opposite ends of the spectrum of personal consciousness and expression. Thus is the growth of both equal in the evoluionary growth of Supreme consciousness within their local universe.  
 
-# Reflections at a planetary level
+## Reflections at a planetary level
 
 All of these motions of experiential growth within Supremacy are reciprocal, and reflect on all levels of timespace reality, from the material to mind, to spirit experience. _“In the present universe age this dual motion is revealed in the descending and ascending personalities of the grand universe.”_ (p. 1265). It is also revealed in many other types of relationships including aggressive/passive roles, and a myriad of spiritual and mindal phenomena within both ascending and descending personalities. 
 

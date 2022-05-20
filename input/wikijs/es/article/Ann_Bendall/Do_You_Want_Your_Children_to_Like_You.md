@@ -60,14 +60,16 @@ El problema de un «almacén de buena voluntad» agotado puede asociarse más fr
 
 Donde hay pocas oportunidades para que los padres y los niños disfruten de tiempo juntos, los niños encontrarán formas de hacerse notar. El mal comportamiento puede ser una de estas formas. La búsqueda de atención, el mal comportamiento puede resultar en que los padres gasten una gran cantidad del tiempo que dedican a sus hijos en disciplinarlos. Por lo tanto, hay pocas oportunidades para que padres e hijos disfruten del tiempo juntos y, por lo tanto, el ciclo continúa.
 
-> Y la civilización moderna se encuentra estancada en su desarrollo espiritual y en la salvaguardia de la institución del hogar. [^1]
+> Y la civilización moderna se encuentra estancada en su desarrollo espiritual y en la salvaguardia de la institución del hogar. [LU 81:6.25](/es/The_Urantia_Book/81#p6_25)
 
 Los padres deben dedicar tiempo a acumular un «almacén de buena voluntad» con sus hijos. La armonía dentro del hogar, y la supervivencia misma del hogar, «la suprema adquisición evolutiva del hombre y la única esperanza de supervivencia de la civilización» depende de ello. Es la base por la cual los padres, como sustitutos de Dios, enseñan a los hijos sobre el amor del Padre por el amor que ellos mismos muestran. ¡Muchas personas se niegan a reconocer la existencia de Dios, y una de estas razones con la generación moderna es que «padre» es una mala palabra! Los padres de hoy deben mirarse cuidadosamente a sí mismos. ¿Están modelando el egoísmo sublime? Si es así, hay una alta probabilidad de que produzcan niños egoístas, ¡que seguirán siendo los futuros adultos de un mundo egoísta! ¿Y están modelando la falta de respeto por los demás? Si es así, no recibirán ningún respeto por parte de sus hijos.
 
+## Enlaces externos
+
+* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page5.html
+
 ## Referencias
 
-[^1]: [LU 81:6.25](/es/The_Urantia_Book/81#p6_25)
+[^1]: Clarke-Stewart A., S. Friedmall, and J. Koch. «Child Development: A topical Approach».
 
-[^2]: Clarke-Stewart A., S. Friedmall, and J. Koch. «Child Development: A topical Approach».
-
-[^3]: Lewis, R & S. «The Parenting Puzzle».
+[^2]: Lewis, R & S. «The Parenting Puzzle».

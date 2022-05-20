@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Autor: **Ann Bendall**
 
-Érase una vez, antes de leer *El libro de Urantia*, en que pensaba que ser agresivo era ser decididamente antisocial. El diccionario decía que las personas agresivas eran «pendencieras o beligerantes». Y estuve de acuerdo con esto. Dios mío, el movimiento de mujeres gritaba que todo el problema del mundo eran los hombres y su agresión, ¡sus tendencias agresivas! Nosotras, las mujeres, suspiramos aliviadas porque no estábamos tan malditas (a pesar de la investigación que discrepa: las mujeres son tan agresivas como los hombres, si se les provoca). Sin embargo, parece que muchos hombres son naturalmente agresivos y pueden imaginar fácilmente que ha ocurrido una provocación, si el impulso de ser agresivo es fuerte).
+Érase una vez, antes de leer *El libro de Urantia*, en que pensaba que ser agresiva era ser decididamente antisocial. El diccionario decía que las personas agresivas eran «pendencieras o beligerantes». Y estuve de acuerdo con esto. Dios mío, el movimiento de mujeres gritaba que todo el problema del mundo eran los hombres y su agresión, ¡sus tendencias agresivas! Nosotras, las mujeres, suspiramos aliviadas porque no estábamos tan malditas (a pesar de la investigación que discrepa: las mujeres son tan agresivas como los hombres, si se las provoca). Sin embargo, parece que muchos hombres son naturalmente agresivos y pueden imaginar fácilmente que ha ocurrido una provocación, si el impulso de ser agresivo es fuerte).
 
 Me complacía ser una damisela y no tener ninguna de estas tendencias agresivas. Y de todos modos, cuando me provocaban mucho, no era agresiva, ¡era asertiva! Negué por completo querer tener un rasgo tan poco femenino al igual que muy anticristiano.
 
@@ -20,11 +20,11 @@ Pero claro, todos conocemos el significado de la palabra agresivo. ¡Así que me
 
 Cuando llegué a la vida de Jesús, los errores tipográficos aumentaron o algo andaba realmente mal en la representación de Jesús. Prácticamente desde que nació fue catalogado como agresivo. Fue un poco impactante para mí, hasta que me di cuenta de que este rasgo lo había heredado de su madre. [LU 122:7.2](/es/The_Urantia_Book/122#p7_2) Pero pensé que las mujeres no debían ser agresivas, así que María debe haber sido provocada mucho en su vida. Jesús tuvo la mala suerte de adquirir este gen.
 
-Habiendo leído acerca de los problemas de los Portadores de Vida y de que no había suficiente sangre azul en Urantia, comprendía bastante acerca de los problemas genéticos de este planeta. Después de todo, hay mucho trabajo por hacer en esta área, y María y José fueron elegidos como los mejores padres de Jesús, pero nadie afirmó que tuvieran un patrón genético perfecto. Y debo confesar que Jesús provocó un problema en el templo aquella vez. Realmente deseaba que no hubieran dicho que Jesús era agresivo. Lo dijeron demasiadas veces en *El Libro Azul* como para ignorarlo ([LU 123:4.8](/es/The_Urantia_Book/123#p4_8); [LU 124:1.4](/es/The_Urantia_Book/124#p1_4) ; [LU 127:1.3](/es/El_Libro_de_Urantia/127#p1_3); [LU 132:4.4](/es/El_Libro_de_Urantia/132#p4_4); [LU 139:8.7](/es/El_Libro_de_Urantia/139#p8_7 )).
+Habiendo leído acerca de los problemas de los Portadores de Vida y de que no había suficiente sangre azul en Urantia, comprendía bastante acerca de los problemas genéticos de este planeta. Después de todo, hay mucho trabajo por hacer en este área, y María y José fueron elegidos como los mejores padres de Jesús, pero nadie afirmó que tuvieran un patrón genético perfecto. Y debo confesar que Jesús provocó un problema en el templo aquella vez. Realmente deseaba que no hubieran dicho que Jesús era agresivo. Lo dijeron demasiadas veces en *El Libro Azul* como para ignorarlo ([LU 123:4.8](/es/The_Urantia_Book/123#p4_8); [LU 124:1.4](/es/The_Urantia_Book/124#p1_4) ; [LU 127:1.3](/es/El_Libro_de_Urantia/127#p1_3); [LU 132:4.4](/es/El_Libro_de_Urantia/132#p4_4); [LU 139:8.7](/es/El_Libro_de_Urantia/139#p8_7 )).
 
-Y así lo anterior ha sido mi historia. Estaba bastante segura de que Jesús lo superó una vez que regresó a Nebadon. Un ejemplo clásico de un “yo” que no lee con dedicación *El Libro de Urantia* exactamente y precisamente como está escrito.
+Y así lo anterior ha sido mi historia. Estaba bastante segura de que Jesús lo superó una vez que regresó a Nebadon. Un ejemplo clásico de un «yo» que no lee con dedicación *El Libro de Urantia* exactamente y precisamente como está escrito.
 
-Un día estaba leyendo un libro llamado “Brain Sex”, y las campanas comenzaron a sonar mientras leía:
+Un día estaba leyendo un libro llamado «Brain Sex», y las campanas comenzaron a sonar mientras leía:
 
 > Puedes eliminar todos los obstáculos en el camino del éxito, pero no puedes garantizar que las personas realmente elijan seguir ese camino; puedes alentar la aspiración pero no puedes inyectar ambición.
 >
@@ -36,16 +36,20 @@ Estaba en un avión en ese momento. Ese miserable avión tardó dolorosamente en
 
 Así pues, ahora quiero esforzarme mucho para ser agresiva como lo es Jesús, ¿y la forma de hacerlo? Lo has adivinado: ¡sigue a Jesús! Su Espíritu de la Verdad me mostrará cómo:
 
-> . . . El espíritu del mandato del Maestro consiste en no oponer resistencia a todas las reacciones egoístas hacia el universo, y al mismo tiempo alcanzar de manera dinámica y progresiva los niveles rectos de los verdaderos valores espirituales: la belleza divina, la bondad infinita y la verdad eterna —conocer a Dios y volverse cada vez más como él.[^2]
+> . . . El espíritu del mandato del Maestro consiste en no oponer resistencia a todas las reacciones egoístas hacia el universo, y al mismo tiempo alcanzar de manera dinámica y progresiva los niveles rectos de los verdaderos valores espirituales: la belleza divina, la bondad infinita y la verdad eterna —conocer a Dios y volverse cada vez más como él.[LU 180:5.9](/es/The_Urantia_Book/180#p5_9)
 
-> . . . El impulso espiritual hacia adelante es la fuerza motriz más poderosa que existe en este mundo; el creyente que aprende la verdad es la única alma progresiva y dinámica de la Tierra.[^3]
+> . . . El impulso espiritual hacia adelante es la fuerza motriz más poderosa que existe en este mundo; el creyente que aprende la verdad es la única alma progresiva y dinámica de la Tierra.[LU 194:3.4](/es/The_Urantia_Book/194#p3_4)
 
 No preveo ninguna dificultad por parte de Jesús/Miguel porque soy mujer. Nos hemos dado cuenta de que la forma más sencilla es que yo me provoque a buscar la verdad, durante todo el día, y cada uno de los días.
 
-## References
+## Enlaces externos
 
-[^1]: “Brain Sex: The Real Difference Between Men and Women”, Dr Anne Moir, Ph.D. and David Jessel, Wise Owl Secrets Publishing, 1989.
+* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page9.html
 
-[^2]: [LU 180:5.9](/es/The_Urantia_Book/180#p5_9)
+## Referencias
 
-[^3]: [LU 194:3.4](/es/The_Urantia_Book/194#p3_4)
+[^1]: “Brain Sex: The Real Difference Between Men and Women”, Dr Anne Moir, Ph.D. y David Jessel, Wise Owl Secrets Publishing, 1989.
+
+## Notas
+
+*Nota del traductor*: la palabra agresivo en el Diccionario de la lengua española de la RAE tiene tanto connotaciones negativas como positivas. Las negativas son: «que tiende a la violencia; propenso a faltar al respeto, ofender o provocar, que dificulta la vida, extiende el daño o causa lesiones». Las positivas son precisamente las que aparecen resaltadas en las citas de *El Libro de Urantia* de este artículo: «que rompe con el orden esablecido, que actúa con dinamismo, audacia y decisión».

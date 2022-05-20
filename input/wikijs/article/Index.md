@@ -16,40 +16,40 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	- UAI: https://urantia-association.org/topical-index-of-articles/
 	- Innerface: https://urantia-book.org/archive/newsletters/innerface/index.html
 	- Fellowship Herald: https://urantia-book.org/archive/newsletters/herald/
-	- Spiritual Fellowship Journal: https://urantia-book.org/index_spiritual_fellowship journal.html
-	- The Urantian Journal: https://urantia-book.org/archive/newsletters/urantian journal/
+	- Spiritual Fellowship Journal: https://urantia-book.org/index_spiritual_fellowship_journal.html
+	- The Urantian Journal: https://urantia-book.org/archive/newsletters/urantian_journal/
 	- http://www.encyclopediaurantia.org/
 	- https://www.squarecircles.com/
 * The Meredith J. Sprunger Essays: 
-	https://urantiabook.org/Christianity-and-The-Urantia-Book-The-Meredith-J-Sprunger-Essays
+	- https://urantiabook.org/Christianity-and-The-Urantia-Book-The-Meredith-J-Sprunger-Essays
 * UBAnnotated and UBTheNews:
-	https://ubannotated.com/main-menu/animated/Topical%20Studies/
-	https://ubannotated.com/ubthenews/reports_list/
+	- https://ubannotated.com/main-menu/animated/Topical%20Studies/
+	- https://ubannotated.com/ubthenews/reports_list/
 * In spanish: 
-	https://urantiabook.org/Estudios_Espanol
-	https://buscandoajesus.wordpress.com/descargas/
+	- https://urantiabook.org/Estudios_Espanol
+	- https://buscandoajesus.wordpress.com/descargas/
 
 
 ## List of articles
 
 Status | Source | Issue | Title | Author | Tags
 --- | --- | --- | --- | --- | ---
-:ballot_box_with_check: | Innerface | Vol. 01, No. 1. | [A Time for Change](/en/article/Ken_Glasziou/A_Time_for_Change) | Ken Glasziou | Religion; Revelation
+:ballot_box_with_check: | Innerface | Vol. 01, No. 1. | [A Time for Change?](/en/article/Ken_Glasziou/A_Time_for_Change) | Ken Glasziou | Religion; Revelation
+:ballot_box_with_check: | Innerface | Vol. 01, No. 1. | [Insights](/en/article/Everett_Sloffer/Insights) | Everett Sloffer | Religion
 :ballot_box_with_check: | Innerface | Vol. 01, No. 1. | [Do You Want Your Children to Like You? Jesus Provided a Model](/en/article/Ann_Bendall/Do_You_Want_Your_Children_to_Like_You) | Ann Bendall | Family; Jesus/Jesus life; Psychology; Sociology
 :ballot_box_with_check: | Innerface | Vol. 01, No. 1. | [Further Comments on Channeling](/en/article/Meredith_Sprunger/Further_Comments_on_Channeling) | Meredith Sprunger | Channeling
-:ballot_box_with_check: | Innerface | Vol. 01, No. 1. | [I Want to be Aggressive](/en/article/Meredith_Sprunger/I_Want_to_be_Aggressive) | Ann Bendall | Psychology; Religion
-:ballot_box_with_check: | Innerface | Vol. 01, No. 1. | [On the Urgent Need for Secondary Works](/en/article/On_the_Urgent_Need_for_Secondary_Works) | Ken Glasziou | Religion
+:ballot_box_with_check: | Innerface | Vol. 01, No. 1. | [I Want to be Aggressive](/en/article/Ann_Bendall/I_Want_to_be_Aggressive) | Ann Bendall | Psychology; Religion
+:ballot_box_with_check: | Innerface | Vol. 01, No. 1. | [On the Urgent Need for Secondary Works](/en/article/On_the_Urgent_Need_for_Secondary_Works) |  | Religion; The Urantia Book
 :white_square_button: | Innerface | Vol  5, No. 7. | "Piltdown Man." | Ken Glasziou | Biology and Genetics; Gardner
 :white_square_button: | Innerface | Vol. 01,  No. 5. | "The Parliament of the World's Religions." | Byron Belitsos | Religion
 :white_square_button: | Innerface | Vol. 01,  No. 5. | "The Real Gospel." | Norm Duval | Religion
-:white_square_button: | Innerface | Vol. 01, No. 1. | "Insights" | Everett Sloffer | Religion
 :white_square_button: | Innerface | Vol. 01, No. 2. | "Adam and Eve" | Ann Bendall | Religion; The Urantia Book
 :white_square_button: | Innerface | Vol. 01, No. 2. | "The Alpha and the Omega." | M. Scott Peck | Religion
 :white_square_button: | Innerface | Vol. 01, No. 2. | "The Remembrance Supper." | Sunshine Coast Study Group | Religion; The Urantia Book
 :white_square_button: | Innerface | Vol. 01, No. 2. | "Time for More Change. Symbols, Cults, and The Urantia Book" | Ken Glasziou | Religion; The Urantia Book
 :white_square_button: | Innerface | Vol. 01, No. 2. | "Unbroken Communion with our Thought Adjuster" | Ann Bendall | Psychology; Thought Adjusters
 :white_square_button: | Innerface | Vol. 01, No. 2. | "Was the Crucifixion really Necessary?" | Ken Glasziou | Religion; Theology
-:white_square_button: | Innerface | Vol. 01, No. 3. | "Heart--the Alpha and Omega of Spirituality." | Rob Crickett | Religion
+:white_square_button: | Innerface | Vol. 01, No. 3. | "Heart—the Alpha and Omega of Spirituality." | Rob Crickett | Religion
 :white_square_button: | Innerface | Vol. 01, No. 3. | "High on Angels." | Dick Bain | Religion; The Urantia Book
 :white_square_button: | Innerface | Vol. 01, No. 3. | "Jealousy. the Heart Poison. How did Jesus deal with it?" | Ann Bendall | Jesus/Jesus teachings; Psychology
 :white_square_button: | Innerface | Vol. 01, No. 3. | "Primate Ancestry." | Ken Glasziou | Anthropology
@@ -103,14 +103,14 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 02, No. 3. | "A Chance Meeting." | Ann Bendall | The Urantia Book
 :white_square_button: | Innerface | Vol. 02, No. 3. | "Are Geologists Using The Urantia Book as a Reference Work?" | Ken Glasziou | Geology; The Urantia Book
 :white_square_button: | Innerface | Vol. 02, No. 3. | "Beyond Fundamentalism." | Meredith Sprunger | Revelation; The Urantia Book
-:white_square_button: | Innerface | Vol. 02, No. 3. | "Little Things .Mean a Lot--Do neutrinos have mass?" | Dick Bain | Physics
+:white_square_button: | Innerface | Vol. 02, No. 3. | "Little Things .Mean a Lot—Do neutrinos have mass?" | Dick Bain | Physics
 :white_square_button: | Innerface | Vol. 02, No. 3. | "Midrash." | Ken Glasziou | Revelation
 :white_square_button: | Innerface | Vol. 02, No. 3. | "Morality, Motive, and Virtue." | Ken Glasziou | Morality
 :white_square_button: | Innerface | Vol. 02, No. 3. | "Self-fulfilling Prophecy." | Ann Bendall | Psychology
 :white_square_button: | Innerface | Vol. 02, No. 3. | "The Death of Forever: A new future for human Consciousness." from book | Darryl Reanney | Morality; Psychology
 :white_square_button: | Innerface | Vol. 02, No. 3. | "The Urantia Book and Secondary Works." | Ken Glasziou | Church; Morality
 :white_square_button: | Innerface | Vol. 02, No. 3. | "Unselfishness. Its Relationship to God-Consciousness and Religious Experience." | Ken Glasziou | Spirituality; Thought Adjusters
-:white_square_button: | Innerface | Vol. 02, No. 4. | "Decisions, Decisions--the Doing of God's Will." | Ann Bendall | Psychology
+:white_square_button: | Innerface | Vol. 02, No. 4. | "Decisions, Decisions—the Doing of God's Will." | Ann Bendall | Psychology
 :white_square_button: | Innerface | Vol. 02, No. 4. | "Do We Need Another Church." | Gloria and Ray Colot | Church
 :white_square_button: | Innerface | Vol. 02, No. 4. | "James, the brother of Jesus. What happened to him?" | Ken Glasziou | Jesus/Jesus life
 :white_square_button: | Innerface | Vol. 02, No. 4. | "Non-Breathers: Very Odd Neighbors." |  Dick Bain | Biology and Genetics
@@ -135,11 +135,11 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 02, No. 5. | "Wouldn't It be Great If?" | Ken Glasziou | Sociology
 :white_square_button: | Innerface | Vol. 02, No. 6. | "Tarichea." | Ken Glasziou | Jesus/Jesus life
 :white_square_button: | Innerface | Vol. 03, No. 1. | "Editorial: Martin Gardner's "Urantia, The Great Cult Mystery." | Ken Glasziou | The Urantia Book
-:white_square_button: | Innerface | Vol. 03, No. 1. | "Gardner Goofs Again--and Again." | Ken Glasziou | Gardner
+:white_square_button: | Innerface | Vol. 03, No. 1. | "Gardner Goofs Again—and Again." | Ken Glasziou | Gardner
 :white_square_button: | Innerface | Vol. 03, No. 1. | "Martin Gardner's The Great Cult Mystery" a review | Dick Bain | The Urantia Book
 :white_square_button: | Innerface | Vol. 03, No. 1. | "Martin Gardner's Urantia. The Great Cult Mystery " | Dick Bain | Gardner
 :white_square_button: | Innerface | Vol. 03, No. 1. | "Reading The Urantia Book as a Religious Practice." | David Kantor | Jesus/Jesus teachings; Sociology; Thought Adjusters
-:white_square_button: | Innerface | Vol. 03, No. 1. | "The Purpose of Revelation--a Response to Martin Gardner's The Great Cult Myatery" | Meredith Sprunger | Gardner; Purpose; Revelation; The Urantia Book; The Urantia Book — Purpose
+:white_square_button: | Innerface | Vol. 03, No. 1. | "The Purpose of Revelation—a Response to Martin Gardner's The Great Cult Myatery" | Meredith Sprunger | Gardner; Purpose; Revelation; The Urantia Book; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 03, No. 2. | "A Conundrum for the Hardcore Fundamentalists." | Ken Glasziou | Revelation; The Urantia Book; The Urantia Book — Error in the Urantia Papers
 :white_square_button: | Innerface | Vol. 03, No. 2. | "As Jesus Passed By." from The Urantia Book | | Jesus/Jesus teachings
 :white_square_button: | Innerface | Vol. 03, No. 2. | "Consistency and Continuity." | Ann Bendall | Psychology
@@ -180,23 +180,23 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 03, No. 6. | "Science and History in The Urantia Book." | Ken Glasziou | History; Revelation
 :white_square_button: | Innerface | Vol. 03, No. 6. | "Why Science and The Urantia Book have different perspectives." | | The Urantia Book
 :white_square_button: | Innerface | Vol. 03. No. 4. | "Why did Jesus come to Urantia?" | Ken Glasziou  | Purpose
-:white_square_button: | Innerface | Vol. 04, No. 1. | "Convergence--The Science Content of The Urantia Book" | Ken Glasziou | Gardner; Physics
+:white_square_button: | Innerface | Vol. 04, No. 1. | "Convergence—The Science Content of The Urantia Book" | Ken Glasziou | Gardner; Physics
 :white_square_button: | Innerface | Vol. 04, No. 1. | "Faith Sons of God." from The Urantia Book | | God; Thought Adjusters
 :white_square_button: | Innerface | Vol. 04, No. 1. | "Reflections on the Dangers of Presumption" | Ann Bendall | God; Jesus/Jesus teachings
 :white_square_button: | Innerface | Vol. 04, No. 1. | "Walking the Second Mile." | Sydney Harris | Morality; Religion
 :white_square_button: | Innerface | Vol. 04, No. 2. | "A God of Fundamentals who is a Light, not a Lash." | Sydney Harris | Church; God
 :white_square_button: | Innerface | Vol. 04, No. 2. | "Beliefs and Values." | Ann Bendall | Morality; Psychology
-:white_square_button: | Innerface | Vol. 04, No. 2. | "Consistency in The Urantia Book--Personality." | Jacques Dupont | Personality; Revelation; The Urantia Book
+:white_square_button: | Innerface | Vol. 04, No. 2. | "Consistency in The Urantia Book—Personality." | Jacques Dupont | Personality; Revelation; The Urantia Book
 :white_square_button: | Innerface | Vol. 04, No. 2. | "Energy." | Stanley McTrusty | Religion
 :white_square_button: | Innerface | Vol. 04, No. 2. | "Favorite Places. Truth and Faith." from The Urantia Book. | | Morality; Revelation
 :white_square_button: | Innerface | Vol. 04, No. 2. | "Mars: The Bearer of Life?" | Dick Bain | Astronomy
 :white_square_button: | Innerface | Vol. 04, No. 2. | "On Communication with our Thought Adjuster." | Ken Glasziou | Jesus/Jesus teachings; Morality; Thought Adjusters
-:white_square_button: | Innerface | Vol. 04, No. 2. | "Swann, Gardner, and The Urantia Book--Protons and Electrons." | Ken Glasziou | Gardner
+:white_square_button: | Innerface | Vol. 04, No. 2. | "Swann, Gardner, and The Urantia Book—Protons and Electrons." | Ken Glasziou | Gardner
 :white_square_button: | Innerface | Vol. 04, No. 3. | "A Journey to the Stars." | Ken Glasziou | Cosmology; The Urantia Book
 :white_square_button: | Innerface | Vol. 04, No. 3. | "Attunement Equals Peace." | Matthew Block | Jesus/Jesus teachings; Religion; Theology
-:white_square_button: | Innerface | Vol. 04, No. 3. | "Evolution of the Solar System--the Role of Chaos." | Ken Glasziou | Astronomy
-:white_square_button: | Innerface | Vol. 04, No. 3. | "Favorite Places. All Urantia is Waiting--and Waiting." from The Urantia Book | | Jesus/Jesus teachings; Spirituality
-:white_square_button: | Innerface | Vol. 04, No. 3. | "Heaven won't be Dull--Despite the Disbelievers." | Sydney Harris | Jesus/Jesus teachings
+:white_square_button: | Innerface | Vol. 04, No. 3. | "Evolution of the Solar System—the Role of Chaos." | Ken Glasziou | Astronomy
+:white_square_button: | Innerface | Vol. 04, No. 3. | "Favorite Places. All Urantia is Waiting—and Waiting." from The Urantia Book | | Jesus/Jesus teachings; Spirituality
+:white_square_button: | Innerface | Vol. 04, No. 3. | "Heaven won't be Dull—Despite the Disbelievers." | Sydney Harris | Jesus/Jesus teachings
 :white_square_button: | Innerface | Vol. 04, No. 3. | "Need a Tune-Up."  | Ken Glasziou | Spirituality; Thought Adjusters
 :white_square_button: | Innerface | Vol. 04, No. 3. | "On Seeing Others as Benefactors." | Masami Saionji | Morality
 :white_square_button: | Innerface | Vol. 04, No. 3. | "Out of Context: Means, Ends, Motives and Morality." | Ken Glasziou | Morality
@@ -230,19 +230,19 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 05, No. 1. | "Listening to your Dreams." | Dick Bain | The Urantia Book
 :white_square_button: | Innerface | Vol. 05, No. 1. | "Where are the Daughters of God?" | Marion Steward | Morality; The Urantia Book
 :white_square_button: | Innerface | Vol. 05, No. 2. | "Charity Doesn't Start at Home." | Sydney Harris | Morality
-:white_square_button: | Innerface | Vol. 05, No. 2. | "Christianity--A Different Perspective." | Ken Glasziou | Religion; Theology
+:white_square_button: | Innerface | Vol. 05, No. 2. | "Christianity—A Different Perspective." | Ken Glasziou | Religion; Theology
 :white_square_button: | Innerface | Vol. 05, No. 2. | "Clovis First ain't First Anymore." | | Anthropology
 :white_square_button: | Innerface | Vol. 05, No. 2. | "Favorite Places. On Salvation." | | Morality; Spirituality
-:white_square_button: | Innerface | Vol. 05, No. 2. | "Forgiveness, Reconciliation, and Reparation--the Dilemma." | Ann Bendall | Morality; Psychology
+:white_square_button: | Innerface | Vol. 05, No. 2. | "Forgiveness, Reconciliation, and Reparation—the Dilemma." | Ann Bendall | Morality; Psychology
 :white_square_button: | Innerface | Vol. 05, No. 2. | "Gideonism." | Ken Glasziou | The Urantia Book
 :white_square_button: | Innerface | Vol. 05, No. 2. | "Human Sources of The Urantia Book. The Strong Force and Supernova." | Ken Glasziou | Physics
 :white_square_button: | Innerface | Vol. 05, No. 2. | "On Peer Group Pressure." | Ken Glasziou | Psychology
-:white_square_button: | Innerface | Vol. 05, No. 2. | "Urantia Book Authorship--Other Aspects." | Ken Glasziou | Anthropology; Archaeology; The Urantia Book — Authorship
-:white_square_button: | Innerface | Vol. 05, No. 2. | "Who Wrote The Urantia Book? It doesn't really matter--IMHO." | Ken Glasziou | Jesus/Jesus teachings; Revelation; Thought Adjusters; History
+:white_square_button: | Innerface | Vol. 05, No. 2. | "Urantia Book Authorship—Other Aspects." | Ken Glasziou | Anthropology; Archaeology; The Urantia Book — Authorship
+:white_square_button: | Innerface | Vol. 05, No. 2. | "Who Wrote The Urantia Book? It doesn't really matter—IMHO." | Ken Glasziou | Jesus/Jesus teachings; Revelation; Thought Adjusters; History
 :white_square_button: | Innerface | Vol. 05, No. 3. | "All Conflict is Evil."  Letter from Gloria Colot; response | Ken Glasziou | Morality
 :white_square_button: | Innerface | Vol. 05, No. 3. | "Favorite Places. Rodan on the Personality of God." from The Urantia Book | | God; Jesus/Jesus teachings; Personality
 :white_square_button: | Innerface | Vol. 05, No. 3. | "Human Sources of The Urantia Book. The Evanescent Mesotron." | Ken Glasziou | Physics
-:white_square_button: | Innerface | Vol. 05, No. 3. | "John Hyde--a Tribute." includes article from John Hyde | | Channeling; Revelation; Sociology
+:white_square_button: | Innerface | Vol. 05, No. 3. | "John Hyde—a Tribute." includes article from John Hyde | | Channeling; Revelation; Sociology
 :white_square_button: | Innerface | Vol. 05, No. 3. | "Learning about God." from The Urantia Book | | God; Jesus/Jesus teachings
 :white_square_button: | Innerface | Vol. 05, No. 3. | "On the Serving of Palatable Food, 'As We Pass By.'" | Ann Bendall | God; Jesus/Jesus teachings; Psychology
 :white_square_button: | Innerface | Vol. 05, No. 3. | "Red Alert." | Ken Glasziou | Religion; Revelation
@@ -251,21 +251,21 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 05, No. 3. | "To Drink the Cup." | Ann Bendall | Jesus/Jesus teachings; Psychology
 :white_square_button: | Innerface | Vol. 05, No. 4. | "A Crime against Humanity." | Ken Glasziou | Religion; Revelation; The Urantia Book
 :white_square_button: | Innerface | Vol. 05, No. 4. | "Favorite Places. On the Birth of Love." from The Urantia Book. | | Morality
-:white_square_button: | Innerface | Vol. 05, No. 4. | "God-playing--An Avocation." | Ken Glasziou | Morality
+:white_square_button: | Innerface | Vol. 05, No. 4. | "God-playing—An Avocation." | Ken Glasziou | Morality
 :white_square_button: | Innerface | Vol. 05, No. 4. | "On Copyright and Plagiarism." adapted | Matt Neibaur | Revelation
 :white_square_button: | Innerface | Vol. 05, No. 4. | "The Cross as a Symbol." | Ann Bendall | Jesus/Jesus teachings; Religion
-:white_square_button: | Innerface | Vol. 05, No. 4. | "The Importance of Symbols--their Use and Mis-use." adapted from Earl Jabay's "Kingdom of Self." | | Jesus/Jesus teachings; Morality
+:white_square_button: | Innerface | Vol. 05, No. 4. | "The Importance of Symbols—their Use and Mis-use." adapted from Earl Jabay's "Kingdom of Self." | | Jesus/Jesus teachings; Morality
 :white_square_button: | Innerface | Vol. 05, No. 4. | "The Sower." | Ann Bendall | Jesus/Jesus teachings
-:white_square_button: | Innerface | Vol. 05, No. 4. | "The Urantia Book's Message has failed--or has it? | Ken Glasziou | Religion; The Urantia Book; Revelation; History
+:white_square_button: | Innerface | Vol. 05, No. 4. | "The Urantia Book's Message has failed—or has it? | Ken Glasziou | Religion; The Urantia Book; Revelation; History
 :white_square_button: | Innerface | Vol. 05, No. 4. | "The Urantia Book: A New Presentation of Part 4?" | Ken Glasziou | Revelation
 :white_square_button: | Innerface | Vol. 05, No. 4. | "The Urantia Papers. The Revelators' Unenviable Task." | Ken Glasziou | Personality; Revelation; The Urantia Book; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 05, No. 5. | "Creative Imagination" | Ann Bendall | Personality; Psychology; Thought Adjusters
-:white_square_button: | Innerface | Vol. 05, No. 5. | "Favorite Places--Belief is Reasonable" from The Urantia Book | | God; Jesus/Jesus teachings
+:white_square_button: | Innerface | Vol. 05, No. 5. | "Favorite Places—Belief is Reasonable" from The Urantia Book | | God; Jesus/Jesus teachings
 :white_square_button: | Innerface | Vol. 05, No. 5. | "Innerface International now on the Fellowship's Web Page." | | 
-:white_square_button: | Innerface | Vol. 05, No. 5. | "Materialistic Determinism--Last Rites" | Ken Glasziou | Theology
-:white_square_button: | Innerface | Vol. 05, No. 5. | "Paradigms for a New Religion. Unitarianism--a Lesson in Tolerance." | Dick Bain | Religion
+:white_square_button: | Innerface | Vol. 05, No. 5. | "Materialistic Determinism—Last Rites" | Ken Glasziou | Theology
+:white_square_button: | Innerface | Vol. 05, No. 5. | "Paradigms for a New Religion. Unitarianism—a Lesson in Tolerance." | Dick Bain | Religion
 :white_square_button: | Innerface | Vol. 05, No. 5. | "Spontaneity,  Unpredictability and The Urantia Book." from The Urantia Book  | | Theology
-:white_square_button: | Innerface | Vol. 05, No. 5. | "The Dawn of Creative Imagination--the Alter Ego" | Ann Bendall | Personality; Psychology; Thought Adjusters
+:white_square_button: | Innerface | Vol. 05, No. 5. | "The Dawn of Creative Imagination—the Alter Ego" | Ann Bendall | Personality; Psychology; Thought Adjusters
 :white_square_button: | Innerface | Vol. 05, No. 5. | "The Magic of the Placebo." | J.E.R. Squires | 
 :white_square_button: | Innerface | Vol. 05, No. 5. | "What Constitutes 'Spiritual Experience'" | Ken Glasziou  | God; Morality; Spirituality; Thought Adjusters
 :white_square_button: | Innerface | Vol. 05, No. 5. | "Why is The Urantia Book's 'Life of Jesus' so Important?"  | | Jesus/Jesus teachings; Revelation; Personality
@@ -289,7 +289,7 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 05, No. 7. | "What fuels our Sun and other Stars?" | Ken Glasziou | Astronomy
 :white_square_button: | Innerface | Vol. 05. No. 1. | "Listening to your Dreams." | Dick Bain | Psychology
 :white_square_button: | Innerface | Vol. 05. No. 1. | "Religion, Science and Outdatedness." report | Mrs. Shiela Kemish | Religion
-:white_square_button: | Innerface | Vol. 05. No. 1. | "The Hidden Messages in The Urantia Book--Art." | John Hyde | Art; The Urantia Book
+:white_square_button: | Innerface | Vol. 05. No. 1. | "The Hidden Messages in The Urantia Book—Art." | John Hyde | Art; The Urantia Book
 :white_square_button: | Innerface | Vol. 05. No. 5. | "Why is The Urantia Book's 'Life of Jesus' so Important?" from The Urantia Book | | God
 :white_square_button: | Innerface | Vol. 05. No. 7. | "Arrival of the Red Man in the Americas." | Ken Glasziou | Anthropology; History
 :white_square_button: | Innerface | Vol. 05. No. 7. | "Mountain Building." | Ken Glasziou | 
@@ -299,12 +299,12 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 06, No. 1. | "Goose Bumps." | author unknown | Morality
 :white_square_button: | Innerface | Vol. 06, No. 1. | "On Worship." | Ken Glasziou | Personality; Psychology; Thought Adjusters
 :white_square_button: | Innerface | Vol. 06, No. 1. | "Taking the Spiritual Path" | Meredith Sprunger | Spirituality
-:white_square_button: | Innerface | Vol. 06, No. 1. | "The Way--Jesus Baptismal Decisions, Aims, and Motives" from The Urantia Book | | Jesus/Jesus teachings; Purpose
+:white_square_button: | Innerface | Vol. 06, No. 1. | "The Way—Jesus Baptismal Decisions, Aims, and Motives" from The Urantia Book | | Jesus/Jesus teachings; Purpose
 :white_square_button: | Innerface | Vol. 06, No. 2. | "Cosmic Reflections. Oops!!" | Dick Bain | Cosmology
-:white_square_button: | Innerface | Vol. 06, No. 2. | "Favorite Places--Morals, Virtue, and Personality." from The Urantia Book | | Morality; Personality
+:white_square_button: | Innerface | Vol. 06, No. 2. | "Favorite Places—Morals, Virtue, and Personality." from The Urantia Book | | Morality; Personality
 :white_square_button: | Innerface | Vol. 06, No. 2. | "Let's make and keep it simple" | Ken Glasziou | Morality; Psychology; Thought Adjusters
 :white_square_button: | Innerface | Vol. 06, No. 2. | "On Pragmatism" | Ken Glasziou | Jesus/Jesus teachings; Morality
-:white_square_button: | Innerface | Vol. 06, No. 2. | "Patience--a millennium is a 1000 years" | Ken Glasziou | Psychology; Sociology
+:white_square_button: | Innerface | Vol. 06, No. 2. | "Patience—a millennium is a 1000 years" | Ken Glasziou | Psychology; Sociology
 :white_square_button: | Innerface | Vol. 06, No. 2. | "The Origin of Life on Urantia" | Ken Glasziou | Biology and Genetics; Cosmology
 :white_square_button: | Innerface | Vol. 06, No. 2. | "The Red Shift Shifted" | Ken Glasziou | Cosmology
 :white_square_button: | Innerface | Vol. 06, No. 3. | "A Kingdom Commentary" | Ken Glasziou | Jesus/Jesus teachings
@@ -314,7 +314,7 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 06, No. 3. | "Favorite Places: "Jesus' concept of the Kingdom" from The Urantia Book | | Jesus/Jesus teachings
 :white_square_button: | Innerface | Vol. 06, No. 3. | "How would you label this Man?" | Sydney Harris | Jesus/Jesus teachings; Morality
 :white_square_button: | Innerface | Vol. 06, No. 3. | "Jesus, Master Teacher." | Dick Bain | Jesus/Jesus teachings
-:white_square_button: | Innerface | Vol. 06, No. 3. | "The Remembrance Supper--its Significance." | Ken Glasziou | Jesus/Jesus teachings; Worship
+:white_square_button: | Innerface | Vol. 06, No. 3. | "The Remembrance Supper—its Significance." | Ken Glasziou | Jesus/Jesus teachings; Worship
 :white_square_button: | Innerface | Vol. 06, No. 3. | "The Universe is Friendly." | Ken Glasziou | Cosmology; Morality
 :white_square_button: | Innerface | Vol. 06, No. 3. | "The Urantia Papers on Loving our Neighbor." | Ken Glasziou | Sociology; Morality
 :white_square_button: | Innerface | Vol. 06, No. 4. | "All our Cosmologies are Erroneous." | Ken Glasziou | Cosmology; Morality; Revelation
@@ -363,7 +363,7 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 07, No. 2. | "How grows the Soul? From The Urantia Book | Ken Glasziou | Morality; Spirituality
 :white_square_button: | Innerface | Vol. 07, No. 2. | "Love your Enemies" | Sydney Harris | Sociology
 :white_square_button: | Innerface | Vol. 07, No. 2. | "The Gaia Hypotheis and The Urantia Book" | Ken Glasziou | The Urantia Book
-:white_square_button: | Innerface | Vol. 07, No. 2. | "The Necessity for Going Forward--Backwardly" | Ken Glasziou | Revelation
+:white_square_button: | Innerface | Vol. 07, No. 2. | "The Necessity for Going Forward—Backwardly" | Ken Glasziou | Revelation
 :white_square_button: | Innerface | Vol. 07, No. 2. | "What Really Survives? Growing Spiritually" | Ken Glasziou | Spirituality
 :white_square_button: | Innerface | Vol. 07, No. 3. | "Atonement: Jewish Origins." | Ken Glasziou | Theology
 :white_square_button: | Innerface | Vol. 07, No. 3. | "Brotherhood" | Ken Glasziou | Religion
@@ -385,19 +385,19 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 07, No. 4. | "The way Jesus Taught." from The Urantia Book | | Jesus/Jesus teachings; Religion
 :white_square_button: | Innerface | Vol. 07, No. 5. | "Jesus' Discourse on Religion." from The Urantia Book | | Jesus/Jesus teachings; Religion
 :white_square_button: | Innerface | Vol. 07, No. 5. | "Learning in Phoenicia" from The Urantia Book | | Religion
-:white_square_button: | Innerface | Vol. 07, No. 5. | "Out of Date--On Facing Reality." | Ken Glasziou | Cosmology; The Urantia Book — Purpose; The Urantia Book — Error in the Urantia Papers
+:white_square_button: | Innerface | Vol. 07, No. 5. | "Out of Date—On Facing Reality." | Ken Glasziou | Cosmology; The Urantia Book — Purpose; The Urantia Book — Error in the Urantia Papers
 :white_square_button: | Innerface | Vol. 07, No. 5. | "Process Theology and the Urantia Papers." | Ken Glasziou | Religion; The Urantia Book; Theology
 :white_square_button: | Innerface | Vol. 07, No. 5. | "Proof'n Spoof." | Ken Glasziou | Revelation; The Urantia Book; The Urantia Book — Authorship; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 07, No. 5. | "Really Out of Date." | Ken Glasziou | Astronomy; The Urantia Book — Purpose; Cosmology
 :white_square_button: | Innerface | Vol. 07, No. 5. | "The Ashtaroth Incident" | Ken Glasziou | Jesus/Jesus teachings; Morality; Religion
 :white_square_button: | Innerface | Vol. 07, No. 5. | "Who will come to 'Phoenicia?'" | Ken Glasziou | Jesus/Jesus teachings; Religion
-:white_square_button: | Innerface | Vol. 07, No. 6. | "A Millenium of Cosmic Enlightenment--Is it Here? | Ken Glasziou | Cosmology; Revelation; The Urantia Book — Purpose
+:white_square_button: | Innerface | Vol. 07, No. 6. | "A Millenium of Cosmic Enlightenment—Is it Here? | Ken Glasziou | Cosmology; Revelation; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 07, No. 6. | "Free will and the Will of God" | Ken Glasziou | God; Psychology; Religion; Theology
 :white_square_button: | Innerface | Vol. 07, No. 6. | "Indwelling of the Spirit in the New Testament" from the Bible | | Spirituality; Theology; Thought Adjusters
 :white_square_button: | Innerface | Vol. 07, No. 6. | "Purpose" | Ken Glasziou | Purpose; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 07, No. 6. | "Religions of the Mind and Spirit" from The Urantia Book | | Psychology; Religion; Spirituality
 :white_square_button: | Innerface | Vol. 07, No. 6. | "The Faith of Jesus" from The Urantia Book | | God; Jesus/Jesus teachings; Religion
-:white_square_button: | Innerface | Vol. 07, No. 6. | "The Future--Following Jesus" | Ken Glasziou | Jesus/Jesus teachings; Religion; Cosmology
+:white_square_button: | Innerface | Vol. 07, No. 6. | "The Future—Following Jesus" | Ken Glasziou | Jesus/Jesus teachings; Religion; Cosmology
 :white_square_button: | Innerface | Vol. 07, No. 6. | "The Indwelling of the Spirit" | Ken Glasziou | Spirituality; Theology; Thought Adjusters
 :white_square_button: | Innerface | Vol. 07, No. 3. | "When is Epochal Revelation not Epochal?" | Ken Glasziou | Revelation
 :white_square_button: | Innerface | Vol. 07. No. 1. | "Mind and Consciousness. Modern theory and the Urantia Papers. A Story of Convergence. | Ken Glasziou. | Psychology
@@ -407,14 +407,14 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 08, N0. 3. | "As Jesus Passed By." from the Urantia Papers | | Jesus/Jesus teachings
 :white_square_button: | Innerface | Vol. 08, No. 1. | "Do Urantians have a Special Task with Christianity" from the Urantia Papers | | Church; Religion
 :white_square_button: | Innerface | Vol. 08, No. 1. | "No Morality, No Nothing" from the Urantia Papers  | | Purpose; Morality
-:white_square_button: | Innerface | Vol. 08, No. 1. | "Paper 140. The Ordination--Is it Important? from the Urantia Papers | | Jesus/Jesus teachings
+:white_square_button: | Innerface | Vol. 08, No. 1. | "Paper 140. The Ordination—Is it Important? from the Urantia Papers | | Jesus/Jesus teachings
 :white_square_button: | Innerface | Vol. 08, No. 1. | "Physics is a Religion!" | Lewis Epstein | Religion
 :white_square_button: | Innerface | Vol. 08, No. 1. | "Prayer" from the Urantia Papers | | Religion; Worship
 :white_square_button: | Innerface | Vol. 08, No. 1. | "Spirit Unity" from the Urantia Papers | | The Urantia Book — Purpose
-:white_square_button: | Innerface | Vol. 08, No. 1. | "The Crucifixion--Why?? from the Urantia Papers  | | Purpose; Jesus/Jesus teachings
+:white_square_button: | Innerface | Vol. 08, No. 1. | "The Crucifixion—Why?? from the Urantia Papers  | | Purpose; Jesus/Jesus teachings
 :white_square_button: | Innerface | Vol. 08, No. 1. | "The Ordination Sermon" from the Urantia Papers | | Jesus/Jesus teachings
 :white_square_button: | Innerface | Vol. 08, No. 1. | "Where Jesus Leads" from the Urantia Papers | | Jesus/Jesus teachings
-:white_square_button: | Innerface | Vol. 08, No. 2. | "Love--Loving one another" from the Urantia Book | | Morality; Religion
+:white_square_button: | Innerface | Vol. 08, No. 2. | "Love—Loving one another" from the Urantia Book | | Morality; Religion
 :white_square_button: | Innerface | Vol. 08, No. 2. | "On Completion" | William Trimble | Theology
 :white_square_button: | Innerface | Vol. 08, No. 2. | "The Appearance at Sychar." | Ken Glasziou | Jesus/Jesus teachings; Religion; Theology
 :white_square_button: | Innerface | Vol. 08, No. 2. | "The Finity-Infinity Transform." | Ken Glasziou | God; Theology
@@ -440,14 +440,14 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 08, No. 4. | "The Nature of God." | | God; Religion; Theology; Thought Adjusters
 :white_square_button: | Innerface | Vol. 08, No. 4. | "Was the Big Bang Really Real" | | Astronomy; Cosmology
 :white_square_button: | Innerface | Vol. 08, No. 5. | "Drifting continents." | | Geology
-:white_square_button: | Innerface | Vol. 08, No. 5. | "Electrons and protons--how big." | | Physics
+:white_square_button: | Innerface | Vol. 08, No. 5. | "Electrons and protons—how big." | | Physics
 :white_square_button: | Innerface | Vol. 08, No. 5. | "Inexplicable prophesy and inexplicable error in the Urantia Papers" | | 
 :white_square_button: | Innerface | Vol. 08, No. 5. | "On divine truth." | | Morality
-:white_square_button: | Innerface | Vol. 08, No. 5. | "Prophetic Science--Discussion." | | 
+:white_square_button: | Innerface | Vol. 08, No. 5. | "Prophetic Science—Discussion." | | 
 :white_square_button: | Innerface | Vol. 08, No. 5. | "Science and the Urantia Papers. Inexplicable prophesy and inexplicable errors." | | The Urantia Book
 :white_square_button: | Innerface | Vol. 08, No. 5. | "The Urantia Papers. Commentary on Parts 1, 2, and 3." | | The Urantia Book
 :white_square_button: | Innerface | Vol. 08, No. 5. | "The Urantia Papers. Possible error sources." | | The Urantia Book
-:white_square_button: | Innerface | Vol. 08, No. 5. | "Tiny little particles--they're neutrinos." | | Physics
+:white_square_button: | Innerface | Vol. 08, No. 5. | "Tiny little particles—they're neutrinos." | | Physics
 :white_square_button: | Innerface | Vol. 08, No. 6. | "Beyond the Urantia Papers"  | | Purpose; Religion; Revelation ; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 08, No. 6. | "Great Expectations" | | Family; Purpose; Spirituality; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 08, No. 6. | "Is an Alternative to the Big Bang a Possibility?" | | Cosmology
@@ -458,9 +458,9 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 08, No. 6. | "The Purpose of the Urantia Papers" | | Church; Purpose; Religion; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 08, No. 6. | "Toleration." | | Morality; Psychology; Religion; Sociology
 :white_square_button: | Innerface | Vol. 09, No. 1. | "About the Universal Father." | | God
-:white_square_button: | Innerface | Vol. 09, No. 1. | "All things work together for good--despite." | | 
+:white_square_button: | Innerface | Vol. 09, No. 1. | "All things work together for good—despite." | | 
 :white_square_button: | Innerface | Vol. 09, No. 1. | "Christianity's Needs and Problems." | | Church
-:white_square_button: | Innerface | Vol. 09, No. 1. | "Obligations to religionists--the Christian Churches and other Religions." | | Religion
+:white_square_button: | Innerface | Vol. 09, No. 1. | "Obligations to religionists—the Christian Churches and other Religions." | | Religion
 :white_square_button: | Innerface | Vol. 09, No. 1. | "Obligations to religionists." | | 
 :white_square_button: | Innerface | Vol. 09, No. 1. | "Obligations to the Christian Churches and other Religions." | | Church
 :white_square_button: | Innerface | Vol. 09, No. 1. | "On Faith." | | 
@@ -476,7 +476,7 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 09, No. 2. | "About the Universal Father." | | God; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 09, No. 2. | "Choice of the Sadlers." | | History; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 09, No. 2. | "On Implementing the Teachings." | | The Urantia Book — Purpose
-:white_square_button: | Innerface | Vol. 09, No. 2. | "Revelation--Problems and Purpose." | | Revelation; The Urantia Book — Purpose
+:white_square_button: | Innerface | Vol. 09, No. 2. | "Revelation—Problems and Purpose." | | Revelation; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 09, No. 2. | "Revelatory Truth must be Evolutionary and Progressive."  | | Revelation; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 09, No. 2. | "The Developing Saga of the Urantia Papers." | | History; The Urantia Book; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 09, No. 2. | "The Error Content." | | Cosmology; The Urantia Book — Purpose; The Urantia Book — Error in the Urantia Papers
@@ -484,46 +484,46 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 09, No. 2. | "The Revelation and Jesus." | | Jesus/Jesus teachings; Revelation; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 09, No. 3. | "Building on the Quaker Experience" | | History; Religion; Sociology
 :white_square_button: | Innerface | Vol. 09, No. 3. | "Errors in the Science of the Urantia Papers." | | Astronomy; Biology and Genetics; Cosmology; The Urantia Book — Error in the Urantia Papers
-:white_square_button: | Innerface | Vol. 09, No. 3. | "Jesus--Inspiration and Friend." | Ann Bendall | Jesus/Jesus teachings
-:white_square_button: | Innerface | Vol. 09, No. 3. | "On Becoming more Spiritual--Living as Jesus Lived."  | | Purpose
+:white_square_button: | Innerface | Vol. 09, No. 3. | "Jesus—Inspiration and Friend." | Ann Bendall | Jesus/Jesus teachings
+:white_square_button: | Innerface | Vol. 09, No. 3. | "On Becoming more Spiritual—Living as Jesus Lived."  | | Purpose
 :white_square_button: | Innerface | Vol. 09, No. 3. | "On Spirituality." | | Spirituality
 :white_square_button: | Innerface | Vol. 09, No. 3. | "Why Did the Quakers Fail?" | | History; Religion; Sociology
 :white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on Values, Meanings, and Morality." | | Morality
 :white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on Love, Meanings, Values." | | The Urantia Book
 :white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on Certainty, Good and Evil." | | The Urantia Book
-:white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on Christianity--Hopes and challenge." | | The Urantia Book
+:white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on Christianity—Hopes and challenge." | | The Urantia Book
 :white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on God-consciousness." | | The Urantia Book
 :white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on God-consciousness; Doing God's will." | | God
 :white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on Growth of Spirituality; Worship." | | The Urantia Book
 :white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on Miracles, Morality, Purpose, Religion." | | The Urantia Book
 :white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on Revelation, Salvation, Science and Religion." | | The Urantia Book
-:white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on Revelation--remarkable claims" | | The Urantia Book
+:white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on Revelation—remarkable claims" | | The Urantia Book
 :white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on Spirituality." | | The Urantia Book
 :white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on Worship." | | Worship
 :white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on doing God's will. How?" | | The Urantia Book
-:white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on living as Jesus lived--Jesus task; Our task." | | The Urantia Book
+:white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on living as Jesus lived—Jesus task; Our task." | | The Urantia Book
 :white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book on meanings and goals." | | The Urantia Book
-:white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book--Forward with Care." | | The Urantia Book
+:white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book—Forward with Care." | | The Urantia Book
 :white_square_button: | Innerface | Vol. 09, No. 4. | "The Urantia Book: What is its primary message?" | | The Urantia Book
 :white_square_button: | Innerface | Vol. 09, No. 5. | "Dark Matter and a String of Pearls." | | Physics
 :white_square_button: | Innerface | Vol. 09, No. 5. | "Is the Urantia Book's 'Life of Jesus' Oudated?" | | Jesus/Jesus teachings; Revelation; The Urantia Book
 :white_square_button: | Innerface | Vol. 09, No. 5. | "Living as Jesus Lived." | | Jesus/Jesus teachings; Spirituality
 :white_square_button: | Innerface | Vol. 09, No. 5. | "Mathematics and Science catch up with The Urantia Book." | | 
-:white_square_button: | Innerface | Vol. 09, No. 5. | "On Becoming More Spiritual--Living as Jesus Lived." | | Morality
+:white_square_button: | Innerface | Vol. 09, No. 5. | "On Becoming More Spiritual—Living as Jesus Lived." | | Morality
 :white_square_button: | Innerface | Vol. 09, No. 5. | "Philosophy of religion." | | Religion
 :white_square_button: | Innerface | Vol. 09, No. 5. | "The Mind of Jesus." | Ann Bendall | Jesus/Jesus teachings; Psychology
-:white_square_button: | Innerface | Vol. 09, No. 5. | "The Shroud of Turin--An Update." | | Anthropology; Jesus/Jesus life
+:white_square_button: | Innerface | Vol. 09, No. 5. | "The Shroud of Turin—An Update." | | Anthropology; Jesus/Jesus life
 :white_square_button: | Innerface | Vol. 09, No. 6. | "Being and Doing." | | Family; Morality; Spirituality
 :white_square_button: | Innerface | Vol. 09, No. 6. | "Blessed Assurance." | | Jesus/Jesus teachings
-:white_square_button: | Innerface | Vol. 09, No. 6. | "Contacting God--what can we expect?" | | God; Thought Adjusters
+:white_square_button: | Innerface | Vol. 09, No. 6. | "Contacting God—what can we expect?" | | God; Thought Adjusters
 :white_square_button: | Innerface | Vol. 09, No. 6. | "Evolution or Revolution." | | Religion; Revelation; Sociology; History
 :white_square_button: | Innerface | Vol. 09, No. 6. | "Is God a Possibility?" | | Cosmology; God
-:white_square_button: | Innerface | Vol. 09, No. 6. | "Living as Jesus lived--in a family environment." | | Family; Morality; Spirituality
+:white_square_button: | Innerface | Vol. 09, No. 6. | "Living as Jesus lived—in a family environment." | | Family; Morality; Spirituality
 :white_square_button: | Innerface | Vol. 09, No. 6. | "On Growing Spiritually." | | Morality; Spirituality
-:white_square_button: | Innerface | Vol. 10, No. 1. | "God--the Universal Father." | | God; Morality; The Urantia Book
+:white_square_button: | Innerface | Vol. 10, No. 1. | "God—the Universal Father." | | God; Morality; The Urantia Book
 :white_square_button: | Innerface | Vol. 10, No. 1. | "Imagine" | | God; Psychology
 :white_square_button: | Innerface | Vol. 10, No. 1. | "Is God a Mathematician?" | | God; Theology
-:white_square_button: | Innerface | Vol. 10, No. 1. | "Sin--should we take it seriously?" | | Morality; Theology
+:white_square_button: | Innerface | Vol. 10, No. 1. | "Sin—should we take it seriously?" | | Morality; Theology
 :white_square_button: | Innerface | Vol. 10, No. 1. | "Why Materialism is Dead." | | Morality; Psychology; Spirituality
 :white_square_button: | Innerface | Vol. 10, No. 2. | "Learning to Teach"  | | Purpose; Religion
 :white_square_button: | Innerface | Vol. 10, No. 2. | "Lessons from 'Jesus' discourse of Science.'" | | Biology and Genetics; God; Morality
@@ -531,18 +531,18 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 10, No. 2. | "Prove it to yourself for yourself." | | Religion; Revelation; The Urantia Book; The Urantia Book — Error in the Urantia Papers; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 10, No. 2. | "Religion of the Spirit." | | Religion; Spirituality
 :white_square_button: | Innerface | Vol. 10, No. 2. | "The future. What is our task."  | | Purpose; Religion; Sociology
-:white_square_button: | Innerface | Vol. 10, No. 3. | "All Urantia is waiting--Upon whom? For what?"  | | Purpose; Revelation
+:white_square_button: | Innerface | Vol. 10, No. 3. | "All Urantia is waiting—Upon whom? For what?"  | | Purpose; Revelation
 :white_square_button: | Innerface | Vol. 10, No. 3. | "Mind and Soul." | | Psychology; Spirituality
 :white_square_button: | Innerface | Vol. 10, No. 3. | "Occam's Razor applied to religion." | | Morality; Religion
-:white_square_button: | Innerface | Vol. 10, No. 3. | "On doing the will of God--How? | | God
-:white_square_button: | Innerface | Vol. 10, No. 3. | "The Big Bang--On or Off." ||  Astronomy; Cosmology
+:white_square_button: | Innerface | Vol. 10, No. 3. | "On doing the will of God—How? | | God
+:white_square_button: | Innerface | Vol. 10, No. 3. | "The Big Bang—On or Off." ||  Astronomy; Cosmology
 :white_square_button: | Innerface | Vol. 10, No. 3. | "The Goal of Mortal Living."  | | Purpose; Thought Adjusters
 :white_square_button: | Innerface | Vol. 10, No. 3. | "The Indwelling Father-Spirit." | | Theology; Thought Adjusters
 :white_square_button: | Innerface | Vol. 10, No. 3. | "The Urantia Papers on the will of God." | | God; The Urantia Book — Purpose
 :white_square_button: | Innerface | Vol. 10, No. 3. | "The alter ego and the Indwelling Spirit." | | God; Theology; Thought Adjusters
-:white_square_button: | Innerface | Vol. 10, No. 3. | "The teachings of Jesus--his spiritual thought and life." | | Religion
+:white_square_button: | Innerface | Vol. 10, No. 3. | "The teachings of Jesus—his spiritual thought and life." | | Religion
 :white_square_button: | Innerface | Vol. 10, No. 3. | "What can one believe?" | | Morality
-:white_square_button: | Innerface | Vol. 10, No. 4. | "The teachings of Jesus--his spiritual thought and life." | | Jesus/Jesus teachings; Morality; Revelation
+:white_square_button: | Innerface | Vol. 10, No. 4. | "The teachings of Jesus—his spiritual thought and life." | | Jesus/Jesus teachings; Morality; Revelation
 :ballot_box_with_check: | UBAnnotated | | [Adam and Eve](/en/article/Halbert_Katzen/Adam_and_Eve) | Halbert Katzen | Anthropology; Biology and Genetics
 :ballot_box_with_check: | UBAnnotated | | [Creating Fire](/en/article/Halbert_Katzen/Creating_fire) | Halbert Katzen | Anthropology
 :ballot_box_with_check: | UBAnnotated | | [Early Migration to Britain](/en/article/Halbert_Katzen/Early_migration_to_Britain) | Halbert Katzen | Anthropology
@@ -595,6 +595,10 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91 | "Throwing the Spiritual Baby Out With the Sexist Bathwater" | | 
 :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91 | "Tuning the Inner and Outer Life" | | 
 :white_square_button: | Herald | Vol. 01, No. 1 | "On the Brink of the Most Amazing and Enthralling Epoch" | Carolyn Kendall | 
+:white_square_button: | Herald | Vol. 01, No. 1 | "Let Your Soul Decide" | Richard S. Omura | 
+:white_square_button: | Herald | Vol. 01, No. 1 | "The Urantia Papers From a Jewish Perspective" | Martin Greenhut | 
+:white_square_button: | Herald | Vol. 01, No. 1 | "The Concepts of Trust and Hope in _The Urantia Book_" | Marilyn Kulieke | 
+:white_square_button: | Herald | Vol. 01, No. 1 | "48 Chromosomes - Are We Asking the Right Questions?" | Ken Glasziou | 
 :white_square_button: | Herald | Vol. 01, No. 2 | "The Challenge of the 21st Century" | Meredith Sprunger | 
 :white_square_button: | Herald | Vol. 01, No. 2 | "On Facing Millennial Change" | Byron Belitsos | 
 :white_square_button: | Herald | Vol. 01, No. 2 | "Magisterial Missions" | Behzad Sarmast | 
@@ -603,4 +607,216 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Herald | Vol. 01, No. 2 | "The Seven Psychic Circles" | Linda Buselli | 
 :white_square_button: | Herald | Vol. 01, No. 2 | "On Removing The Barrier To A Civilized Discussion Of Eugenics" | Stephen | 
 :white_square_button: | Herald | Vol. 01, No. 2 | "The Basket - A Poem" | Charlene Morrow | 
+:white_square_button: | Herald | Vol. 02, No. 1 | "The Family: Birthplace of Cosmic Citizens" | Paul Snider | 
+:white_square_button: | Herald | Vol. 02, No. 1 | "Two Cosmologies — Astronomy and The Urantia Book" | Irwin Ginsburgh | 
+:white_square_button: | Herald | Vol. 02, No. 1 | "Reflections on cosmic citizenship" | Stephen Dreier | 
+:white_square_button: | Herald | Vol. 02, No. 1 | "The Dual Nature of Supremacy" | Linda Buselli | 
+:white_square_button: | Herald | Vol. 02, No. 2 | "Thinking About Tomorrow" | Carolyn Kendall | 
+:white_square_button: | Herald | Vol. 02, No. 2 | "Restated in Modern Phraseology" | David Elders | 
+:white_square_button: | Herald | Vol. 02, No. 2 | "Scientific Predictions of _The Urantia Book_ - Part II" | Irwin Ginsburgh | 
+:white_square_button: | Herald | Vol. 02, No. 2 | "'I Will Tell Them A Story'" | Stephen Zendt | 
+:white_square_button: | Herald | Vol. 02, No. 2 | "The Science of Parenting" | Sara Blackstock | 
+:white_square_button: | Herald | Vol. 02, No. 2 | "The Ethics of Genetic Control and Social Engineering" | Charles Laurence Olivea
+:white_square_button: | Herald | Vol. 02, No. 2 | "The Intellectual Role of _The Urantia Book_" | Stephen
+:white_square_button: | Herald | Vol. 03, No. 1 | "A Source Study Of 'Instruction For Teachers And Believers'" | Matthew Block | 
+:white_square_button: | Herald | Vol. 03, No. 1 | "Show Us A Miracle!" | B. Sarmast | 
+:white_square_button: | Herald | Vol. 03, No. 1 | "Universal Religion: An Interfaith Presentation" | Les Jamieson |
+:white_square_button: | Herald | Vol. 03, No. 1 | "Ethical Eugenics: A Modest Proposal For The 21st Century" | Charles Montgomery |
+:white_square_button: | Herald | Vol. 04, No. 1 | "Reflections on the Urantia Movement in 2002" | Philip Calabrese | 
+:white_square_button: | Herald | Vol. 04, No. 1 | "Centering — A Method of Divine Embrace" | Marvin Gawryn | 
+:white_square_button: | Herald | Vol. 04, No. 1 | "Reflections on the Urantia Movement in 2002" | Philip Calabrese | 
+:white_square_button: | Herald | Vol. 04, No. 1 | "Centering|A Method of Divine Embrace" | Marvin Gawryn | 
+:white_square_button: | Herald | Vol. 04, No. 1 | "Eugenics and The Urantia Book: Another Perspective" | Paul Premsagar | 
+:white_square_button: | Herald | Vol. 04, No. 1 | "Revelatory Mouthpiecing" | Finlan | 
+:white_square_button: | Herald | Vol. 04, No. 1 | "Faith Wiring in the Brain" | Sara Blackstock | 
+:white_square_button: | Herald | Vol. 04, No. 1 | "In Search of the Error So Great" | Nancy Johnson | 
+:white_square_button: | Herald | Vol. 04, No. 1 | "Jesus' Miracles and the Father's Will" | Ron Besser | 
+:white_square_button: | Herald | Vol. 04, No. 1 | "Not What We Give, But What We Share" | James Lowell | 
+:white_square_button: | Herald | Vol. 04, No. 1 | "A Demystification and Redefinition of Cult" | Alison Gardner | 
+:white_square_button: | Herald | Vol. 04, No. 1 | "Religious Practice and the Urantia Revelation" | Byron Belitsos | 
+:white_square_button: | Herald | Vol. 04, No. 1 | "The Gift of Tolerance" | Karen Larson | 
+:white_square_button: | Herald | Vol. 05, No. 1 | "A Jewish Girl Finds Jesus" | Bobbie Dreier | 
+:white_square_button: | Herald | Vol. 05, No. 1 | "Ruminations on Revelation" | Steven Hecht | 
+:white_square_button: | Herald | Vol. 05, No. 1 | "Safeguarding the Symbols of Urantian Faith" | David Kantor | 
+:white_square_button: | Herald | Vol. 05, No. 1 | "When Belief Becomes Faith" | Al Lockett | 
+:white_square_button: | Herald | Vol. 05, No. 1 | "The Patterns of Revelation" | Linda Buselli | 
+:white_square_button: | Herald | Vol. 05, No. 1 | "The Difficulty of Being Objective" | Nancy Johnson | 
+:white_square_button: | Herald | Vol. 05, No. 1 | "Closed Circle or Open Book" | Stephen Zendt | 
+:white_square_button: | Herald | Vol. 05, No. 1 | "The Origin of the Spiritual Fellowship" | Dr. Meredith J. Sprunger | 
+:white_square_button: | Herald | Vol. 05, No. 1 | "A Dialogue About "The Kingdom"" | Claudia Ayers and Lee Smith | 
+:white_square_button: | Herald | Vol. 05, No. 1 | "Anti-Terror Treatise" | Stephen Zendt | 
+:white_square_button: | Herald | Vol. 05, No. 2 | "Illumination/Transformation" | Doreen Heyne | 
+:white_square_button: | Herald | Vol. 05, No. 2 | "An Essay on Hope" | David Kantor | 
+:white_square_button: | Herald | Vol. 05, No. 2 | "The Rise of Spiritual Technology" | Richard Omura | 
+:white_square_button: | Herald | Vol. 05, No. 2 | "Meditation in The Urantia Book, Jesus Style" | Peter Holley | 
+:white_square_button: | Herald | Vol. 05, No. 2 | "The Art of Marriage" | Arlene and Buck Weimer | 
+:white_square_button: | Herald | Vol. 05, No. 2 | "Room in My Heart" | Dave Holt | 
+:white_square_button: | Herald | Vol. 05, No. 2 | "A Trace of God" | Steven Hecht | 
+:white_square_button: | Herald | Vol. 05, No. 2 | "The Golden Rule in Business" | Larry Mullins | 
+:white_square_button: | Herald | Vol. 05, No. 2 | "The Lighter Side" | Charles Montgomery | 
+:white_square_button: | Herald | Vol. 06, No. 1 | "The Next Fifty Years: Dissemination" | Charles Olivea | 
+:white_square_button: | Herald | Vol. 06, No. 1 | "The New Revelation of the Living Jesus" | Peter Holley | 
+:white_square_button: | Herald | Vol. 06, No. 1 | "Untitled Poem" | David Glass | 
+:white_square_button: | Herald | Vol. 06, No. 1 | "On Removing The Barrier to a Civilized Discussion Of Eugenics" | Finnie | 
+:white_square_button: | Herald | Vol. 06, No. 1 | "Becoming a Universe-Conscious Citizen" | Nancy Johnson | 
+:white_square_button: | Herald | Vol. 06, No. 1 | "At Home In The Universe" | Stephen Zendt | 
+:white_square_button: | Herald | Vol. 06, No. 1 | "Pattern of Unity" | Jean-Pierre Heudier | 
+:white_square_button: | Herald | Vol. 06, No. 1 | "Journey to India: Legacy of the Sethite Teachers" | Dave Holt | 
+:white_square_button: | Herald | Vol. 06, No. 1 | "Thoughts About the Future of our Urantia Community" | Sara Blackstock | 
+:white_square_button: | Herald | Vol. 06, No. 1 | "Legacy in Peril: Children and the Urantia Community" | Tom Allen | 
+:white_square_button: | Herald | Vol. 06, No. 1 | "Putting the Teachings into Action" | Steve McIntosh | 
+:white_square_button: | Herald | Vol. 06, No. 1 | "Science Cannot Replace Religion" | Dr. Antti Roine | 
+:white_square_button: | Herald | Vol. 06, No. 1 | "A Reed Singing" | Dave Holt | 
+:white_square_button: | Herald | Vol. 07, No. 1 | "Guardian Angels" | Charles Olivea | 
+:white_square_button: | Herald | Vol. 07, No. 1 | "Youth and The Urantia Book" | Gina Buselli | 
+:white_square_button: | Herald | Vol. 07, No. 1 | "Prophecy and The Urantia Book" | Preston Thomas | 
+:white_square_button: | Herald | Vol. 07, No. 1 | "Serving: A Cookbook for the Soul" | Bill and Share Beasley | 
+:white_square_button: | Herald | Vol. 07, No. 1 | "What is Personality?" | Berkeley Elliott | 
+:white_square_button: | Herald | Vol. 07, No. 1 | "The Coming Scientific Validation of The Urantia Book" | Dr. Philip Calabrese | 
+:white_square_button: | Herald | Vol. 08, No. 1 | "Amazing Human Aspects of Epochal Revelation" | Paula Thompson | 
+:white_square_button: | Herald | Vol. 08, No. 1 | "Archangels: Agents of Epochal Change" | Carolyn Kendall | 
+:white_square_button: | Herald | Vol. 08, No. 1 | "Update: The Coming Scientific Validation" | Dr. Philip Calabrese | 
+:white_square_button: | Herald | Vol. 08, No. 1 | "Participatory Evolution" | Jacob Dix | 
+:white_square_button: | Herald | Vol. 08, No. 1 | "Personality and Man" | George Park | 
+:white_square_button: | Herald | Vol. 08, No. 1 | "The Golden Rule" | Robert Burns | 
+:white_square_button: | Herald | Vol. 08, No. 1 | "Science Fiction for Agondonters" | Cece Forrester | 
+:white_square_button: | Herald | Vol. 08, No. 1 | "Loving Service" | Phil Taylor | 
+:white_square_button: | Herald | Vol. 08, No. 1 | "The Kingdom and the Supreme" | David Kantor | 
+:white_square_button: | Herald | Vol. 09, No. 1 | "Celestial Ministry: Seen and Unseen" | Michelle Klimesh | 
+:white_square_button: | Herald | Vol. 09, No. 1 | "The Supreme and Outreach" | Arlene and Buck Weimer | 
+:white_square_button: | Herald | Vol. 09, No. 1 | "Guess Who's Coming Next?" | Carolyn Kendall | 
+:white_square_button: | Herald | Vol. 09, No. 1 | "A Missionary Experience in Turkey" | Bill Rocap | 
+:white_square_button: | Herald | Vol. 09, No. 1 | "You Be The Book" | Michael Painter | 
+:white_square_button: | Herald | Vol. 09, No. 1 | "The Start of a Worthy New Tradition | 
+:white_square_button: | Herald | Vol. 09, No. 1 | "The Significance of the Sevenfold Bestowal Career" | David Glass | 
+:white_square_button: | Herald | Vol. 09, No. 1 | "The Urantia Book Is Not What It Used To Be" | Halbert Katzen | 
+:white_square_button: | Herald | Vol. 09, No. 1 | "Law is Life Itself" | Linda Buselli | 
+:white_square_button: | Herald | Vol. 09, No. 1 | "Moral Cosmic Citizenship" | Doreen Heyne | 
+:white_square_button: | Herald | Vol. 09, No. 1 | "The Roots of Morality" | Henry Begemann | 
+:white_square_button: | Herald | Vol. 09, No. 1 | "Casting Pearls Before Personality" | David Elders | 
+:white_square_button: | Herald | Vol. 10, No. 1 | "In Search of the Historical Onamonalonton" | Dave Holt | 
+:white_square_button: | Herald | Vol. 10, No. 1 | "The Role of Emotions and Feelings on an Evolutionary Word" | Nancy Johnson | 
+:white_square_button: | Herald | Vol. 10, No. 1 | "Joy in the Worm Bin" | Sara Blackstock | 
+:white_square_button: | Herald | Vol. 10, No. 1 | "Ten Lessons from the Vineyard" | Arnie Ondis | 
+:white_square_button: | Herald | Vol. 10, No. 1 | "Solar System Discoveries that Corroborate The Urantia Book" | Philip Calabrese | 
+:white_square_button: | Herald | Vol. 10, No. 1 | "The Book—a Poem" | M. Sanders | 
+:white_square_button: | Herald | Vol. 10, No. 1 | "A Lesson from a Mouse" | Robert Seubert | 
+:white_square_button: | Herald | Vol. 10, No. 1 | "The Third Cosmic Circle" | Richare Guevara | 
+:white_square_button: | Herald | Vol. 10, No. 1 | "Becoming an Effective Missionary Evangel" | David Kantor | 
+:white_square_button: | Herald | Vol. 10, No. 1 | "The Limitless Spectrum of Education" | David Glass | 
+:white_square_button: | Herald | Vol. 10, No. 1 | "Urantia University - U2" | David Nash | 
+:white_square_button: | Herald | Vol. 10, No. 1 | "Our Creative Deities—A Supreme Relationship" | Linda Buselli | 
+:white_square_button: | Herald | Vol. 11, No. 1 | "The World is Not Coming to an End" | Carolyn Kendall, Barbara Newsom | 
+:white_square_button: | Herald | Vol. 11, No. 1 | "Religion of Experience vs. Religion of Authority" | Richard S. Omura | 
+:white_square_button: | Herald | Vol. 11, No. 1 | "God Consciousness" | Charles Laurence Olivea | 
+:white_square_button: | Herald | Vol. 11, No. 1 | "The Urantia Book, Human Concepts, and Revelatory Validation" | David Elders | 
+:white_square_button: | Herald | Vol. 11, No. 1 | "Understanding the Relation of Love to the Mind" | Sheila Keene-Lund | 
+:white_square_button: | Herald | Vol. 11, No. 1 | "Cosmic Socialization and Planetary Citizenship" | Dave Holt | 
+:white_square_button: | Herald | Vol. 11, No. 1 | "Testimonial of One Second-Generation Urantian" | Angela Thurston | 
+:white_square_button: | Herald | Vol. 11, No. 1 | "The Problem of Business" | Dan Amyx | 
+:white_square_button: | Herald | Vol. 11, No. 1 | "Crouching Deity/Hidden Supreme" | Bob Debold | 
+:white_square_button: | Herald | Vol. 12, No. 1 | "The First Epochal Revelation in American Indian Traditions" | Dave Holt | 
+:white_square_button: | Herald | Vol. 12, No. 1 | "The Power of The Name of Jesus" | Charles Laurence Olivea | 
+:white_square_button: | Herald | Vol. 12, No. 1 | "Machiventa Melchizedek" | One of History's Mysteries | 
+:white_square_button: | Herald | Vol. 12, No. 1 | "Getting Closer to God" | Approaching The Universal Father | 
+:white_square_button: | Herald | Vol. 12, No. 1 | "One Man's Tour Through The Evolutionary Debate | | 
+:white_square_button: | Herald | Vol. 13, No. 1 | "Souls on Purpose: The Personal Creed Project" | John Creger | 
+:white_square_button: | Herald | Vol. 13, No. 1 | "Evolutionary Spirituality" | Steve Macintosh | 
+:white_square_button: | Herald | Vol. 13, No. 1 | "Urantia, 606 of Satania: Concerning the Inhabited Worlds of the Satania System" | Israel Dix | 
+:white_square_button: | Herald | Vol. 13, No. 1 | "Perfecting, Neuroplasticity, and the Supreme Actualizing" | Lawrence Schkade | 
+:white_square_button: | Herald | Vol. 13, No. 1 | "Race and The Urantia Book" | Earlene Green | 
+:white_square_button: | Herald | Vol. 13, No. 1 | "Religion of Experience vs Religion of Authority" | Richard S. Omura | 
+:white_square_button: | Herald | Vol. 13, No. 1 | "The Forgotten Urantian: Dr. Lena Sadler" | Larry Mullins | 
+:white_square_button: | Herald | Vol. 13, No. 1 | "Cosmology in the Light of The Urantia Book" | Philip Calabrese | 
+:white_square_button: | Herald | Vol. 14, No. 1 | "Spiritual Genetics" | Steve Dreier | 
+:white_square_button: | Herald | Vol. 14, No. 1 | "Religion of One" | Rev. Gary Deinstadt | 
+:white_square_button: | Herald | Vol. 14, No. 1 | "A Cosmology of Race" | Charles Olivea | 
+:white_square_button: | Herald | Vol. 14, No. 1 | "Exploring the Inner Life" | Dave Holt | 
+:white_square_button: | Herald | Vol. 14, No. 1 | "Spiritual Faith, Uncertainty, and Cosmic Citizenship" | David Kantor | 
+:white_square_button: | Herald | Vol. 14, No. 1 | "Moods, Music and Magic of The Urantia Book" | David Glass | 
+:white_square_button: | Herald | Vol. 14, No. 1 | "A Statistical Test of the Hypothesis of Human Authorship of The Urantia Book" | Dr. Philip Calabrese | 
+:white_square_button: | Herald | Vol. 15, No. 1 | "The Rehabilitation of Urantia" | Carolyn Kendall | 
+:white_square_button: | Herald | Vol. 15, No. 1 | "The Journey Following Mortal Death" | W. S. Sadler, Jr. | 
+:white_square_button: | Herald | Vol. 15, No. 1 | "Pursuing Supremacy: How Might the Master Seraphim and Human Beings Collaborate? |  | 
+:white_square_button: | Herald | Vol. 15, No. 1 | "Urantian Language and the Preservation of Meaning" | Richard Daunt | 
+:white_square_button: | Herald | Vol. 15, No. 1 | "Origin, Nature, Ministry, and Destiny of Thought Adjusters" | David Glass | 
+:white_square_button: | Herald | Vol. 15, No. 1 | "Spiritual Unity" | Richard Goodman | 
+:white_square_button: | Herald | Vol. 15, No. 1 | "Prayer? Why Bother?" | Linda Buselli | 
+:white_square_button: | Herald | Vol. 16, No. 1 | "Effective Study Group Leadership" | David Kulieke | 
+:white_square_button: | Herald | Vol. 16, No. 1 | "Can We Have a Universal Standard of Morality" | Dave Holt | 
+:white_square_button: | Herald | Vol. 16, No. 1 | "Destiny of the Master Michaels?" | Bill Sadler Jr. | 
+:white_square_button: | Herald | Vol. 16, No. 1 | "The Urantia Book and Its Mission" | Charles Laurence Olivea | 
+:white_square_button: | Herald | Vol. 16, No. 1 | "Is The Urantia Book a Sacred Text" | David Kantor | 
+:white_square_button: | Herald | Vol. 16, No. 1 | "Sixty-Four Original Urantia Book Concepts" | Dr. William Sadler | 
+:white_square_button: | Herald | Vol. 16, No. 1 | "Society Evolving: Chaos, Progress, and Order" | Lawrence Schkade | 
+:white_square_button: | Herald | Vol. 16, No. 1 | "The Importance of Christian Ministry" | Preston Thomas | 
+:white_square_button: | Herald | Vol. 17, No. 1 | "A Circle of Kindred Spirits" | Bobbie Dreier and Francis Oliver Lynn | 
+:white_square_button: | Herald | Vol. 17, No. 1 | "Listen Up Grandparents and YaYAs" | Sara Blackstock | 
+:white_square_button: | Herald | Vol. 17, No. 1 | "Early Persecutions of Jesus’ Followers and Dispersion of the Apostles" | Lawrence J. Bowman | 
+:white_square_button: | Herald | Vol. 17, No. 1 | "Thoughts on the Bestowals of Personality and the Thought Adjuster" | Kermit Anderson | 
+:white_square_button: | Herald | Vol. 17, No. 1 | "Mindedness and Spirituality, Comments on the Absolutes" | Bill Sadler Jr. | 
+:white_square_button: | Herald | Vol. 17, No. 1 | "Why Should You Support a Urantia Organization Like The Urantia Book Fellowship?" | Paula Thompson | 
+:white_square_button: | Herald | Vol. 17, No. 1 | "Top/Down" | Gary Deinstadt | 
+:white_square_button: | Herald | Vol. 17, No. 1 | "Healing Meditation—A Poem" | K. Brendi Poppel | 
+:white_square_button: | Herald | Vol. 17, No. 1 | "The Nature of Personal Reality" | Byron Belitsos | 
+:white_square_button: | Herald | Vol. 18, No. 1 | "Urantia Spring" | Joshua J. Wilson | 
+:white_square_button: | Herald | Vol. 18, No. 1 | "A Musical Metaphor" | Dr. Bruce Jackson | 
+:white_square_button: | Herald | Vol. 18, No. 1 | "The Temple Of Spiritual Brotherhood and the Greater Meaning Of Study Groups" | Charles Laurence Olivea | 
+:white_square_button: | Herald | Vol. 18, No. 1 | "What Will We Find in Outer Space? " | William Sadler Jr | 
+:white_square_button: | Herald | Vol. 18, No. 1 | "What is Interfaith?" | Michael Painter | 
+:white_square_button: | Herald | Vol. 18, No. 1 | "The Shroud of Turin and The Urantia Papers" | Dennis Marshall | 
+:white_square_button: | Herald | Vol. 18, No. 1 | "Questions About Being Human" | Michelle Klimesh | 
+:white_square_button: | Herald | Vol. 18, No. 1 | "What Does The Urantia Book Tell Us Needs to be Accomplished?" | David Kantor | 
+:white_square_button: | Herald | Vol. 18, No. 1 | "Twelve Ways I Hear From God" | Richard Rosen | 
+:white_square_button: | Herald | Vol. 19, No. 1 | "Survival of the Subnormal Mind" | Rick Lyon | 
+:white_square_button: | Herald | Vol. 19, No. 1 | "The Soul Synthesis Hypothesis" | Byron Belitsos | 
+:white_square_button: | Herald | Vol. 19, No. 1 | "I, Brother - The Urantia Papers and Issues of Race" | DJ Marshall | 
+:white_square_button: | Herald | Vol. 19, No. 1 | "A Tale of Two Men" | Linda Buselli | 
+:white_square_button: | Herald | Vol. 19, No. 1 | "Akhenaten" | Derek Samaras | 
+:white_square_button: | Herald | Vol. 19, No. 1 | "The New Teacher/Leaders" | Preston Thomas | 
+:white_square_button: | Herald | Vol. 19, No. 1 | "Unsinkable and Unbreakable" | James Perry | 
+:white_square_button: | Herald | Vol. 19, No. 1 | "The Supreme Being in My Life" | Yvon Gagne | 
+:white_square_button: | Herald | Vol. 19, No. 1 | "The Eden-Atlantis Project" | Commodore Robert Stanley Bates | 
+:white_square_button: | Herald | Vol. 20, No. 1 | "Summer Study Session 2019 | | 
+:white_square_button: | Herald | Vol. 20, No. 1 | "Following in the Footsteps of Enoch and Elijah" | Meredith Tenney | 
+:white_square_button: | Herald | Vol. 20, No. 1 | "My Thought Adjuster painting" | Patrick Yesh | 
+:white_square_button: | Herald | Vol. 20, No. 1 | "Urantia Book Religion" | Phil Calabrese | 
+:white_square_button: | Herald | Vol. 20, No. 1 | "Father Robert Schuer Quotes 15 Personality Bestowal" | JJ Johnson | 
+:white_square_button: | Herald | Vol. 20, No. 1 | "Ancient Japan JOMON" | Derek Samaras | 
+:white_square_button: | Herald | Vol. 20, No. 1 | "Early Beliefs About the Nature of Christ" | David Kantor | 
+:white_square_button: | Herald | Vol. 20, No. 1 | "There Was a Man Once" | Errol Strider | 
+:white_square_button: | Herald | Vol. 20, No. 1 | "Working with Mother Spirit to Uplift the World" | Meredith Tenney, Sharon Porter, Mary Huggins, and Elisabeth Callahan | 
+:white_square_button: | Herald | Vol. 20, No. 1 | "Epochal Pathways" | Neal Waldrop | 
+:white_square_button: | Herald | Vol. 20, No. 1 | "Urantia Book - A Spiritual Path" | Rabia Harris | 
+:white_square_button: | Herald | Vol. 20, No. 1 | "The Challenge of Revelation Based Education" | Bruce Jackson | 
+:white_square_button: | Herald | Vol. 20, No. 1 | "Mobilizing a Dispensation of Planetary Rehabilitation" | David Kantor | 
+:white_square_button: | Herald | Vol. 20, No. 1 | "Pipeline of Light" |  | 
+:white_square_button: | Herald | Vol. 21, No. 1 | "Avi Dogim, Emilio Coppola, and Steve Dreier," | Larry Bowman | 
+:white_square_button: | Herald | Vol. 21, No. 1 | "From the Supreme to the Three Person’d God: Seven Levels of Total Deity" | Dave Holt | 
+:white_square_button: | Herald | Vol. 21, No. 1 | "Growing the Supreme" | Michael Hill | 
+:white_square_button: | Herald | Vol. 21, No. 1 | "Adoration of the Mother" | Joshua Wilson | 
+:white_square_button: | Herald | Vol. 21, No. 1 | "TODAY is the day for JOY!" | David Glass | 
+:white_square_button: | Herald | Vol. 21, No. 1 | "Uversa — the Future Headquarters of God the Supreme" | Tom Allen | 
+:white_square_button: | Herald | Vol. 21, No. 1 | "To Beget Or Not to Beget That Is the Question" | JJ Johnson | 
+:white_square_button: | Herald | Vol. 21, No. 1 | "An Encounter This Unique" | Duane R Johnson | 
+:white_square_button: | Herald | Vol. 21, No. 1 | "Contrasting Jesus and Paul" | David Kantor | 
+:white_square_button: | Herald | Vol. 21, No. 1 | "Cosmic Canoe" | Tom Choquette and Christilyn Biek Larson | 
+:white_square_button: | Herald | Vol. 21, No. 1 | "Remembering Those Who Have Gone On" | John Hales | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Cooperating with the Holy Spirit" | Kaye Cooper | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Mother Mother Song" | Framy Mas | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Mother and Father" | Sharon Porter | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Living with the Spirit of Truth" | Esther Wood | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Song for Papa’s Family" | David Glass | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Of Two Minds: Human and Divine" | Richard Bain | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Thinking of my Divine Mother aka the Holy Spirit" | Karen Larsen | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Divine Synergy" | Chuck Thurston | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Fruits of the Spirit, Adjutant Mind Spirits, Fruits of Divinity" | | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Introduce Urantia Teachings to 15,000 People a Month" | Jena Lassiter | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Chronology of Death Resurrection Ascension of Jesus" | Mark Blackham | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "To Our Mother Spirit, the Holy Spirit, the Giver of Mind" | Mary Huggins | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Sojourner of the Soul: Gardener of our Hearts" | Tom Choquette | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Proclaim the Holiday of Holidays" | Joshua Wilson and Elianna Obadia | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Mighty Messenger Fall - Intro Edition" | Jena Lassiter | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Foxy Parents" | Mary Huggins | 
+:white_square_button: | Herald | Vol. 22, No. 1 | "Graduation Memorial Initiative" | Bobbie Dreier | 
 :ballot_box_with_check: | | | [How large is Orvonton, really?](/en/article/How_big_is_Orvonton) | Norm Du Val | Astronomy; Cosmology

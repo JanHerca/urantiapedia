@@ -16,16 +16,20 @@ The comment that did this was "Jesus sought the Father's will even in his smalle
 
 The Urantia Book tells us that this is not true:
 
-> the divine Spirit must dominate and control every phase of human experience. (381). 
+> . . . the divine Spirit must dominate and control every phase of human experience. [UB 34:6.7](/en/The_Urantia_Book/34#p6_7)
 
-> And Jesus ever deferred his slightest wish to the will of the Father in heaven. " (1555).
+> . . .[And] Jesus ever [deferred] his slightest wish to the will of the Father in heaven . . . " [UB 139:4.9](/en/The_Urantia_Book/139#p4_9)
 
 Everett says that these statements imply three things:
 
-First, the will of God extends to every possible action and decision, and to every moment of being. In matters of spirit there is no such thing as "small stuff." Jesus demonstrated that there is always a Godlike way, even to do the small things.
+* First, the will of God extends to every possible action and decision, and to every moment of being. In matters of spirit there is no such thing as “small stuff.” Jesus demonstrated that there is always a Godlike way, even to do the small things.
 
-Second, the will of God is the most liberating force in the Universe. Most of us are handicapped by the conceptual error that the ways of God are somehow limiting. By his life. Jesus showed us that doing the will of God leads to maximum liberation.
+* Second, the will of God is the most liberating force in the Universe. Most of us are handicapped by the conceptual error that the ways of God are somehow limiting. By his life, Jesus showed us that doing the will of God leads to maximum liberation.
 
-Third, the will of God calls us to act. Though we must "be" before we can "do", action is necessary simply because decisions cannot be consummated until we act. And if we are uncertain, we can always trade our mind for the mind of Jesus and ask, "What would Jesus have done?"
+* Third, the will of God calls us to act. Though we must “be” before we can “do”, action is necessary simply because decisions cannot be consummated until we act. And if we are uncertain, we can always trade our mind for the mind of Jesus and ask, “What would Jesus have done?”
 
 God is ever gently leading us forward. He knows that in time and with His help, there will be continued progress. So let us act, remembering always that Jesus sought the Father's will even in his smallest desire. So can we. Thank you, Everett, for sharing your insight.
+
+## External links
+
+* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page4.html

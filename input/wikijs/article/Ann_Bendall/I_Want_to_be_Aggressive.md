@@ -36,16 +36,16 @@ I was on an aircraft at the time. That wretched aircraft took a painfully long t
 
 And so now I want to try very hard to be aggressive as Jesus is, and the way to do this? You guessed—follow Jesus! His Spirit of Truth will show me how:
 
-> . . . The spirit of the Master’s injunction consists in the nonresistance of all selfish reaction to the universe, coupled with the aggressive and progressive attainment of righteous levels of true spirit values: divine beauty, infinite goodness, and eternal truth—to know God and to become increasingly like him.[^2]
+> . . . The spirit of the Master’s injunction consists in the nonresistance of all selfish reaction to the universe, coupled with the aggressive and progressive attainment of righteous levels of true spirit values: divine beauty, infinite goodness, and eternal truth—to know God and to become increasingly like him.[UB 180:5.9](/en/The_Urantia_Book/180#p5_9)
 
-> . . . The spiritual forward urge is the most powerful driving force present in this world; the truth-learning believer is the one progressive and aggressive soul on earth.[^3]
+> . . . The spiritual forward urge is the most powerful driving force present in this world; the truth-learning believer is the one progressive and aggressive soul on earth.[UB 194:3.4](/en/The_Urantia_Book/194#p3_4)
 
 I do not envisage any difficulties on Jesus'/Michael's part because I am female. We have figured out that the simplest way is for me to provoke myself into truth-seeking—all day, every day.
+
+## External links
+
+* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page9.html
 
 ## References
 
 [^1]: “Brain Sex: The Real Difference Between Men and Women”, Dr Anne Moir, Ph.D. and David Jessel, Wise Owl Secrets Publishing, 1989.
-
-[^2]: [UB 180:5.9](/en/The_Urantia_Book/180#p5_9)
-
-[^3]: [UB 194:3.4](/en/The_Urantia_Book/194#p3_4)
