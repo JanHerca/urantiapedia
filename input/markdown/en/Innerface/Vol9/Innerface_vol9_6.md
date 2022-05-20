@@ -10,31 +10,31 @@
 
 "At first you believe that you are sons of God because my teaching has made you more conscious of the inner leadings of our Father's indwelling presence; but presently the Spirit of Truth shall be poured out upon all flesh, and it will live among men and teach all men, even as I now live among you and speak to you the words of truth. And this Spirit of Truth, speaking for the spiritual endowments of your souls, will help you to know that you are the sons of God. It will unfailingly bear witness with the Father's indwelling presence, your spirit, then dwelling in all men as it now dwells in some, telling you that you are in reality the sons of God.
 
-"Every earth child who follows the leading of this spirit shall eventually know the will of God, and he who surrenders to the will of my Father shall abide forever. The way from the earth life to the eternal estate has not been made plain to you, but there is a way, there always has been, and I have come to make that way new and living. He who enters the kingdom has eternal life already, he shall never perish. But much of this you will the better understand when I shall have returned to the Father and you are able to view your present experiences in retrospect."
+“Every earth child who follows the leading of this spirit shall eventually know the will of God, and he who surrenders to the will of my Father shall abide forever. The way from the earth life to the eternal estate has not been made plain to you, but there is a way, there always has been, and I have come to make that way new and living. He who enters the kingdom has eternal life already, he shall never perish. But much of this you will the better understand when I shall have returned to the Father and you are able to view your present experiences in retrospect.”
 
 # Being and Doing
 
-That evening while teaching in the house, for it had begun to rain, Jesus talked at great length, trying to show the twelve what they must be, not what they must do. They knew only a religion that imposed the doing of certain things as the means of attaining righteousness—salvation. But Jesus would reiterate, "In the kingdom you must be righteous in order to do the work."
+That evening while teaching in the house, for it had begun to rain, Jesus talked at great length, trying to show the twelve what they must be, not what they must do. They knew only a religion that imposed the doing of certain things as the means of attaining righteousness—salvation. But Jesus would reiterate, “In the kingdom you must be righteous in order to do the work.”
 
-The title for this article, "Being and Doing," is derived from the above remark made by Jesus to his followers that later goes on to state that "being righteous, by faith, must precede doing righteousness in our daily lives." (1584)
+The title for this article, “Being and Doing,” is derived from the above remark made by Jesus to his followers that later goes on to state that “being righteous, by faith, must precede doing righteousness in our daily lives.” (1584)
 
-This innocuous looking remark is the catalyst for initiating some serious thinking. For one, what does Jesus mean by "being righteous?" The most common assumption is that it simply means "doing good deeds to others." But that reverses Jesus' priority which asserted that being righteous takes precedence over the doing of righteousness.
+This innocuous looking remark is the catalyst for initiating some serious thinking. For one, what does Jesus mean by “being righteous?” The most common assumption is that it simply means “doing good deeds to others.” But that reverses Jesus' priority which asserted that being righteous takes precedence over the doing of righteousness.
 
-An insight into Jesus' meaning for "being righteous" is found in a statement about his earthly mission: "Jesus refused to have his attention diverted from his mission. He ignored the civic, social, and economic realms. He told the apostles he was concerned only with the principles of man's inner and personal spiritual life." (1580) Hence, for those seeking to follow Jesus, this statement completely divorces "righteousness" from the arena of the material and transfers it to the domain of the spiritual.
+An insight into Jesus' meaning for “being righteous” is found in a statement about his earthly mission: “Jesus refused to have his attention diverted from his mission. He ignored the civic, social, and economic realms. He told the apostles he was concerned only with the principles of man's inner and personal spiritual life.” (1580) Hence, for those seeking to follow Jesus, this statement completely divorces “righteousness” from the arena of the material and transfers it to the domain of the spiritual.
 
-Jesus informs us what we must seek is righteousness in our spiritual life. Confirmation occurs many times in the Papers with statements such as, "the goal of human self-realization should be spiritual, not material" (1096); "the only realities worth striving for are divine, spiritual, and eternal" (1096); and "spiritual destiny is dependent on faith, love, and devotion to truth—hunger and thirst for righteousness—the whole hearted desire to find God and be like him." (1739)
+Jesus informs us what we must seek is righteousness in our spiritual life. Confirmation occurs many times in the Papers with statements such as, “the goal of human self-realization should be spiritual, not material” (1096); “the only realities worth striving for are divine, spiritual, and eternal” (1096); and “spiritual destiny is dependent on faith, love, and devotion to truth—hunger and thirst for righteousness—the whole hearted desire to find God and be like him.” (1739)
 
-In other words we must transfer our concepts of what we must "be" completely out from the finite, material, secular world to the inner, personal and spiritual world in which we, as individuals, must seek to remake ourselves in the image of God. That is what this life is all about. And in case you are unconvinced, hear this:
+In other words we must transfer our concepts of what we must “be” completely out from the finite, material, secular world to the inner, personal and spiritual world in which we, as individuals, must seek to remake ourselves in the image of God. That is what this life is all about. And in case you are unconvinced, hear this:
 
-"The Master fully realized that certain social results would appear in the world as a consequence of the spread of the gospel of the kingdom; but he intended that all such desirable social manifestations should appear as unconscious and inevitable outgrowths, or natural fruits, of this inner personal experience of individual believers." (1865)
+“The Master fully realized that certain social results would appear in the world as a consequence of the spread of the gospel of the kingdom; but he intended that all such desirable social manifestations should appear as unconscious and inevitable outgrowths, or natural fruits, of this inner personal experience of individual believers.” (1865)
 
 Is this asking too much of us? If it is our desire to have a career in eternity, we do not appear to have a realistic alternative. To seek to become God-like is the only destiny on offer. Naturally that is a long term process for which our immediate, earthly goal is provided by Jesus' revelation of what it means to be God-like. But it is the only offer we have.
 
 Unfortunately Christianity forsook whatever understanding it had of this reality when it evolved from being a small band of dedicated individuals to become an ecclesiastical organization governed by creeds, ritual, and a priesthood. Periodically, attempts have been made for a revival, the one most relevant for Urantians occurring 350 years ago when it arose from the ashes of English Puritanism under the leadership of one, George Fox.
 
-The aim of this group was for a purely personal religion in which each individual was dedicated to living in accordance with a direct consciousness of what they called the "Inward Light"—in our parlance, the God-Spirit-Within. Known as the Quakers, the group operated without creeds or clergy, and firmly believed that their experimental approach to the discovery of the "Inward Light" would spill over to reform all of Christendom.
+The aim of this group was for a purely personal religion in which each individual was dedicated to living in accordance with a direct consciousness of what they called the “Inward Light”—in our parlance, the God-Spirit-Within. Known as the Quakers, the group operated without creeds or clergy, and firmly believed that their experimental approach to the discovery of the “Inward Light” would spill over to reform all of Christendom.
 
-The role of the Quakers' "Inward Light" is similar, perhaps identical to, the Thought Adjuster of the Urantia Papers. The hope of the Quakers for the reformation of organized authoritarian Christianity is also very close to hopes expressed in the Papers—such as: "What a service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name. (2090)
+The role of the Quakers' “Inward Light” is similar, perhaps identical to, the Thought Adjuster of the Urantia Papers. The hope of the Quakers for the reformation of organized authoritarian Christianity is also very close to hopes expressed in the Papers—such as: "What a service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name. (2090)
 
 In its early days, the Quaker movement achieved remarkable results. It led the campaign in Britain and the USA for the abolition of slavery, it achieved much needed reform to the ghastly prison systems of both countries, it championed a campaign for more humane treatment of the mentally retarded, it was a leader in the campaign for women's  liberation, and much else. But in the long run it failed. Why?
 
@@ -44,7 +44,7 @@ But Jesus, in his wisdom, has instructed his Urantian followers to concern thems
 
 But Jesus also foresaw that there is an accompanying concept urgently requiring comprehension.
 
-The Papers inform us "that of all human knowledge that which is of greatest value is to know the religious life of Jesus and how he lived it." (2090) The key to the value of this statement is because Jesus' life is an authoritative revelation of the true character of God—in so far as that character is comprehensible and attainable by mortal beings such as ourselves.
+The Papers inform us “that of all human knowledge that which is of greatest value is to know the religious life of Jesus and how he lived it.” (2090) The key to the value of this statement is because Jesus' life is an authoritative revelation of the true character of God—in so far as that character is comprehensible and attainable by mortal beings such as ourselves.
 
 Provided we have this knowledge, then the requirement that we must seek to become God-like becomes both a realistic and attainable possibility. But all efforts to remake ourselves in the image of God will fail to bear fruit if we believe its expression must be by the public demonstration of our newly found sainthood. Any effect we might have would be short-lived and transient because it would be the result of insincere play-acting, a staged performance that has little to do with our real self.
 
@@ -54,7 +54,7 @@ How, when, and where, then, can our efforts to to live as Jesus lived, that is, 
 
 ...family life is man's supreme evolutionary acquirement. (943); Jesus exalted family life as the highest human duty. (1581); The family is the fundamental unit of fraternity in which parents and children learn the lessons of patience, altruism, tolerance, and forbearance which are so essential to the realization of brotherhood among all men. (941); A good family portrays to its children their first disclosure of the love of the Paradise Parent. (942)
 
-That a child will receive its "first disclosure of the love of the Paradise Parent"—that is God— by observing that same love in the lives of its parents is probably an unthinkable idea for most of us. But reflective thinking indicates that this is what has been missing in most Christian families for almost 2000 years, and is still missing in most Urantian families to this day. Yet it is possibly the most important concept in the whole of the Urantia revelation. For once achieved, it has the potential to be self perpetuating and multiplicative as it is handed down generation by generation.
+That a child will receive its “first disclosure of the love of the Paradise Parent”—that is God— by observing that same love in the lives of its parents is probably an unthinkable idea for most of us. But reflective thinking indicates that this is what has been missing in most Christian families for almost 2000 years, and is still missing in most Urantian families to this day. Yet it is possibly the most important concept in the whole of the Urantia revelation. For once achieved, it has the potential to be self perpetuating and multiplicative as it is handed down generation by generation.
 
 # Living as Jesus lived—in a family environment
 
@@ -64,7 +64,7 @@ Arising from our evolutionary animal heritage, many such habits originated from 
 
 Because these habits develop slowly, and mainly through trial and error procedures, they tend to be held unconsciously. Thus, we can become thoroughly nasty people without being in the slightest aware of our failings.
 
-The Urantia Papers inform us, "the better man understands his neighbor, the easier it will be to forgive him, even to love him." But what if we do not understand even ourselves? And are therefore wide open to the criticism of "physician, heal thyself."
+The Urantia Papers inform us, “the better man understands his neighbor, the easier it will be to forgive him, even to love him.” But what if we do not understand even ourselves? And are therefore wide open to the criticism of “physician, heal thyself.”
 For most nasty people like us then, when seeking to enter the kingdom of heaven, we must first expend a major effort on self-healing, at the same time accepting, forgiving, and loving our neighbors without expecting to understand what makes them as they are.
 
 Some of our basic behavior patterns are genetically inherited, others are learned. But most come from a combination of both. An example of why we cannot expect to understand what makes another as they are, comes from a recent discovery that a single gene controls the level of the brain enzyme, monamine oxidase. There are two forms of this gene, one good, the other bad. The gene plays an important role in what may be expressed in human males as violent and abusive behavior patterns.
@@ -89,25 +89,25 @@ Past experience of religionists has shown that shouting our message from the roo
 
 This inconspicuous change in our lives, these acts of not reacting to the will of others but instead modifying our animalistic reactions to coincide with the cosmic good of others, has the incredible power to bring about radical change, not only to other lives, but eventually to the whole world. How will it happen?
 
-All who have been brought up in a church-going Christian family will be well aware that although Christianity is among the most ethical religions ever to exist on Earth, nevertheless the vast majority of its members are just as much plagued with humanity's animal behavioral problems as any other community. The cure then is not going to be in church-going nor in inspiring sermons, nor in good works. Primarily it is in what parents actually "are" in their own home lives that will matter. The revelation informs us:
+All who have been brought up in a church-going Christian family will be well aware that although Christianity is among the most ethical religions ever to exist on Earth, nevertheless the vast majority of its members are just as much plagued with humanity's animal behavioral problems as any other community. The cure then is not going to be in church-going nor in inspiring sermons, nor in good works. Primarily it is in what parents actually “are” in their own home lives that will matter. The revelation informs us:
 
-"The family is the fundamental unit of fraternity in which parents and children learn the lessons of patience, altruism, tolerance, and forbearance which are so essential to the realization of brotherhood among all men." (941)
+“The family is the fundamental unit of fraternity in which parents and children learn the lessons of patience, altruism, tolerance, and forbearance which are so essential to the realization of brotherhood among all men.” (941)
 
 Our revelation also tells us that the coming of the kingdom of God in the hearts of individuals must precede the onset of the brotherhood of man—which implies that the spiritualization of the individual must come first. It also indicates that the roots of this coming brotherhood of man will be in family life—and it must be God-conscious parents who will bear the responsibility of being the initiators of the whole process.
 
 How will it all happen? Slowly, maybe over hundreds of years even. And the dominant factor will be because children observe Jesus-like behavior in their parents and, in their turn, pass it on to their own children, who pass it on to their children, and so on, and so on.
 
-Three hundred and fifty years ago the Quakers almost got it right. They lost their way when they moved their sphere of action to the secular world—and lost the guidance of their "Inward Light." Imagine where we would now be if they had had the Urantia revelation to help them and they had understood its real message. Light and Life might have been just around the corner.
+Three hundred and fifty years ago the Quakers almost got it right. They lost their way when they moved their sphere of action to the secular world—and lost the guidance of their “Inward Light.” Imagine where we would now be if they had had the Urantia revelation to help them and they had understood its real message. Light and Life might have been just around the corner.
 
 ## References
 
 1. New Scientist, August 10, 2002, p. 23
 
-2. "Exhibit in your one short life in the flesh…the transcendent possibilities attainable by a God-knowing human…" (p. 1358. Immanuel to Michael prior to his incarnation)
+2. “Exhibit in your one short life in the flesh…the transcendent possibilities attainable by a God-knowing human…” (p. 1358. Immanuel to Michael prior to his incarnation)
 
-3. Ann Bendall, "The Mind of Jesus." Innerface International Vol. 9., No. 5, 2002.
+3. Ann Bendall, “The Mind of Jesus.” Innerface International Vol. 9., No. 5, 2002.
 
-4. "Let me emphatically state this eternal truth; if you, by truth coordination, learn to exemplify in your lives this beautiful wholeness of righteousness, your fellow men will then seek after you that they may gain what you have so acquired." (1726)
+4. “Let me emphatically state this eternal truth; if you, by truth coordination, learn to exemplify in your lives this beautiful wholeness of righteousness, your fellow men will then seek after you that they may gain what you have so acquired.” (1726)
 
 # Evolution or Revolution?
 
@@ -119,29 +119,29 @@ A significant proportion of the early readers of The Urantia Book believed that 
 
 One of the more probable eventual outcomes from such a scenario would have been the economic collapse of these countries, followed by widespread poverty, with hunger and starvation becoming endemic, and followed by unconstrained outbreaks of contagious diseases. In one word, disaster. On a miniature scale, this happened to very early Christians in Jerusalem who soon were starving and had to be supported by donations from communities at Antioch and elsewhere.
 
-It appears that the authors of the Urantia Papers were quite aware of the potential for a new authoritative divine revelation to wreak chaos. "It is nearly fatal to the continuance of civilization to undertake their wholesale modification by radical revolution." (767) And referring to prior experience, "The Dalamatia teachers sought to add conscious social selection to the purely natural selection of biologic evolution. They did not derange human society, but they did markedly accelerate its normal and natural evolution. Their motive was progression by evolution and not revolution by revelation." (750)
+It appears that the authors of the Urantia Papers were quite aware of the potential for a new authoritative divine revelation to wreak chaos. “It is nearly fatal to the continuance of civilization to undertake their wholesale modification by radical revolution.” (767) And referring to prior experience, “The Dalamatia teachers sought to add conscious social selection to the purely natural selection of biologic evolution. They did not derange human society, but they did markedly accelerate its normal and natural evolution. Their motive was progression by evolution and not revolution by revelation.” (750)
 
-Not long after this, the Caligastia rebellion did occur, with the apparent expectations having parallels to what some early readers had for the Urantia Papers: "The complete and radical reorganization of the whole world was attempted; revolution displaced evolution as the policy of cultural advancement and racial improvement."
+Not long after this, the Caligastia rebellion did occur, with the apparent expectations having parallels to what some early readers had for the Urantia Papers: “The complete and radical reorganization of the whole world was attempted; revolution displaced evolution as the policy of cultural advancement and racial improvement.”
 
-However the results differed from expectations: "Among the superior and partially trained sojourners in and near Dalamatia there appeared a sudden advancement in cultural status, but when these new and radical methods were attempted on the outlying peoples, indescribable confusion and racial pandemonium was the immediate result. Liberty was quickly translated into license by the half-evolved primitive men of those days." (758)
+However the results differed from expectations: “Among the superior and partially trained sojourners in and near Dalamatia there appeared a sudden advancement in cultural status, but when these new and radical methods were attempted on the outlying peoples, indescribable confusion and racial pandemonium was the immediate result. Liberty was quickly translated into license by the half-evolved primitive men of those days.” (758)
 
 When providing us with the Urantia Papers, their authors must surely have given deep consideration about how it could be done in order to achieve maximum effectiveness while at the same time keeping the risks to a minimum.
 
 A consequence of the earlier rebellion was the frustration of Adam and Eve during their attempts to fulfill their allotted task of genetic upgrading of the human race, the effect being the extremely limited results flowing from their efforts. Presently our genetic potential is only a little above that of the original life plasm introduced to this planet.
 
-Once the Urantia Papers were completed and ready to go to print, it appears that the recipients were informed we are now "on our own." That means we bear full responsibility for introducing their message to the rest of Urantians. Thus we need to carefully consider our resources, our potentials, and ask what our reasonable expectations might be.
+Once the Urantia Papers were completed and ready to go to print, it appears that the recipients were informed we are now “on our own.” That means we bear full responsibility for introducing their message to the rest of Urantians. Thus we need to carefully consider our resources, our potentials, and ask what our reasonable expectations might be.
 
-On the scale of intellectual and spiritual capacity covering all minded beings that inhabit finite reality, humanity is at the very lowest level. And even within our own category of finite mortal being, we are described as from a "disordered and backward world like Urantia." (624)
+On the scale of intellectual and spiritual capacity covering all minded beings that inhabit finite reality, humanity is at the very lowest level. And even within our own category of finite mortal being, we are described as from a “disordered and backward world like Urantia.” (624)
 
 Among our catalogue of attributes as presented in the Urantia Papers is: 'man possess the lowest type of personality;' we are 'the lowest of will creatures;' we have 'the lowest mind of all;' and 'though we may be naturally God-seeking we are not inherently God-knowing.'
 
-To cap the list: "The whole principle of biologic evolution is such that it makes it impossible for primitive man to appear on the inhabited worlds with any large endowment of self restraint." (1302) And, "Mortal man is a machine, a living mechanism; his roots are truly in the physical world of energy. Many human reactions are mechanical in nature; much of life is machinelike."
+To cap the list: “The whole principle of biologic evolution is such that it makes it impossible for primitive man to appear on the inhabited worlds with any large endowment of self restraint.” (1302) And, “Mortal man is a machine, a living mechanism; his roots are truly in the physical world of energy. Many human reactions are mechanical in nature; much of life is machinelike.”
 
-Adding these together to get a total for our attributes might persuade even the most narcissistic among adherents of the Urantia revelation to take serious thought concerning the personal implications referenced by: "The great danger that besets the creature is that, in achieving liberation from the fetters of the life mechanism, he will fail to compensate this loss of stability by effecting a harmonious working liaison with spirit. Creature choice, when relatively liberated from mechanical stability, may attempt further self-liberation independent of greater spirit identification." (1302)
+Adding these together to get a total for our attributes might persuade even the most narcissistic among adherents of the Urantia revelation to take serious thought concerning the personal implications referenced by: “The great danger that besets the creature is that, in achieving liberation from the fetters of the life mechanism, he will fail to compensate this loss of stability by effecting a harmonious working liaison with spirit. Creature choice, when relatively liberated from mechanical stability, may attempt further self-liberation independent of greater spirit identification.” (1302)
 
 Because of the natural mechanical component of our response to situations, our behavior patterns tend not to derive from the considered actions of a spirit-directed intelligence but have their origin in primordial reflexes associated with self-preservation, dominance, territorialism, and the survival of our species. Mostly, they will be inappropriate for one hoping or striving to live a life in the imitation of Jesus.
 
-Our one and only realistic saving grace is to be located in the potential associated with our spirit indwelling. Though in this mortal life we can never escape the electrical and mechanical aspects of our existence, we can "increasingly learn to subordinate this physical life machine by the process of consecrating the human mind to the execution of the spiritual urges stemming from our spirit indwelling." (1301)
+Our one and only realistic saving grace is to be located in the potential associated with our spirit indwelling. Though in this mortal life we can never escape the electrical and mechanical aspects of our existence, we can “increasingly learn to subordinate this physical life machine by the process of consecrating the human mind to the execution of the spiritual urges stemming from our spirit indwelling.” (1301)
 
 So why don't we just get on with it? Well, it seems there is a problem. Whereas it is true that the spirit liberates and mechanism limits the function of human will, for our present level on the evolutionary tree of spiritual progress, our mental stability is strongly linked with our automatic and mechanistic control systems. Uncoupling these mechanisms introduces a potential instability that may become of great danger not only to ourselves but for those with whom we associate—and in extreme instances (such as Napoleon and Hitler for example), may threaten the stability of the societies in which we live.
 
@@ -157,9 +157,9 @@ For the individual, it is essential to be aware that our personal spirit allianc
 
 The Urantia Papers repeatedly emphasize our need for seeking unbroken personal relationships with our Indwelling Spirit, for consecrating our wills to the doing of God's will, for living our lives in selfless service (as Jesus lived his), and for the bearing of the fruits of the spirit as a critical adjunct. Is the conscious ignoring of these affirmations a rejection of God's will?
 
-"The proof of fraternity with the divine Adjuster consists wholly in the nature and extent of the fruits of the spirit which are yielded in the life experience of the individual believer. 'By their fruits you shall know them.'" (64)
+“The proof of fraternity with the divine Adjuster consists wholly in the nature and extent of the fruits of the spirit which are yielded in the life experience of the individual believer. 'By their fruits you shall know them.'” (64)
 
-That quote leaves us with little doubt about a recommended course of action to spread the message. The fruits of the spirit are the life reactions of a spirit-led mortal. They are "love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, and temperance."
+That quote leaves us with little doubt about a recommended course of action to spread the message. The fruits of the spirit are the life reactions of a spirit-led mortal. They are “love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, and temperance.”
 
 Jesus spent the major portion of his life serving on a person to person basis. But when he engaged in public ministry it was with a group—his apostles and the women's corps—and was usually combined with service ministry.
 
@@ -167,7 +167,7 @@ For most of us, our serving needs to begin in the home. Only when those who know
 
 Remembering that evolution rather than revolution is the preferred option, then yes, by our fruits we can be known and we can make a difference.
 
-"Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men are the sons of God; and it shall consist in the life which you will live among men—the actual and living experience of loving men and serving them, even as I have loved and served you. Let faith reveal your light to the world; let the revelation of truth open the eyes blinded by tradition; let your loving service effectually destroy the prejudice engendered by ignorance. By so drawing close to your fellow men in understanding sympathy and with unselfish devotion, you will lead them into a saving knowledge of the Father's love." (2043)
+“Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men are the sons of God; and it shall consist in the life which you will live among men—the actual and living experience of loving men and serving them, even as I have loved and served you. Let faith reveal your light to the world; let the revelation of truth open the eyes blinded by tradition; let your loving service effectually destroy the prejudice engendered by ignorance. By so drawing close to your fellow men in understanding sympathy and with unselfish devotion, you will lead them into a saving knowledge of the Father's love.” (2043)
 
 # Is God a Possibility?
 
@@ -211,21 +211,21 @@ It requires the study of only one of thousands of these intricate control system
 
 Multiply that infinity by another infinity (or two) and we might approach the complexity required to sustain a 'primitive' hunter-gatherer society in the face of competing systems 'designed' to reverse the roles and the hunter to become the hunted. Wright thinks that the basic sequence, the conversion of non-zero sum situations into mostly positive sums commenced happening at least 15,000 years ago, then repeated many times. As natural selection pushed us up the evolutionary ladder, so new technologies kept arising, permitting richer forms of non-zero sum interactions—and here we are today, riding in airplanes, sending e-mail, and living in what looks like the beginnings of a global village.
 
-Wright has another target—to seek the hidden potential in the complexity he analyzes in order to reveal the possibility of an external and intelligent agency of control that he calls 'God' (but with a humble apology for his absence of qualifications to describe or explain God's ways). "I'm using 'God,'" he says, "as a convenient shorthand for something vaguer—the point being just to ask if there are signs of any divinely imparted meaning in the evidence before us. Granted directionality in the sense of growing complexity, is there any directionality along with what you might call a spiritual or moral dimension—or more simply, is there anything at all that might be called spiritual or moral?"
+Wright has another target—to seek the hidden potential in the complexity he analyzes in order to reveal the possibility of an external and intelligent agency of control that he calls 'God' (but with a humble apology for his absence of qualifications to describe or explain God's ways). “I'm using 'God,'” he says, “as a convenient shorthand for something vaguer—the point being just to ask if there are signs of any divinely imparted meaning in the evidence before us. Granted directionality in the sense of growing complexity, is there any directionality along with what you might call a spiritual or moral dimension—or more simply, is there anything at all that might be called spiritual or moral?”
 
 Wright notes that in the modern era the popular view among 'intellectuals' became that existence is pointless—plus a firm belief that there are  solid scientific grounds for doing so. This paradigm assumes that modern science, by solving the mysteries of life, has actually demonstrated the absence of any higher purpose.
 
-"What these people need," says Wright, "is a good stiff thought experiment. Imagine another planet on which life evolves. Little bits of self-replicating material (equivalent to our genes) encase themselves through natural selection in a particular armor that exhibits behavioral flexibility. One species in particular—coincidentally a brainy, two-legged organism—becomes capable of exceptional feats like communicating with subtlety, creating artistic masterpieces, watching TV, playing computer games, and so on.
+“What these people need,” says Wright, "is a good stiff thought experiment. Imagine another planet on which life evolves. Little bits of self-replicating material (equivalent to our genes) encase themselves through natural selection in a particular armor that exhibits behavioral flexibility. One species in particular—coincidentally a brainy, two-legged organism—becomes capable of exceptional feats like communicating with subtlety, creating artistic masterpieces, watching TV, playing computer games, and so on.
 
-"These organisms have another characteristic—they lack totally in consciousness, sentience, awareness. It isn't like anything "to be like one of them. And yes, fire burns their hands and they are designed to pull them away to avoid damage. But they do not feel pain—or happiness, or anything.
+“These organisms have another characteristic—they lack totally in consciousness, sentience, awareness. It isn't like anything ”to be like one of them. And yes, fire burns their hands and they are designed to pull them away to avoid damage. But they do not feel pain—or happiness, or anything.
 
-"They look and act just like us except everything is without passion or pride. They are just robots with an unusually good skin."
+“They look and act just like us except everything is without passion or pride. They are just robots with an unusually good skin.”
 
 Such a world lacks those things that many of us believe make life meaningful—devoted love, allegiance, our triumphs and failures, the thrill of accomplishment, etc. Worse, their world is totally lacking in a sense of moral meaning.
 
 These imaginary organisms of an imaginary world are really replicas of what many behavioral scientists assert us to be—machines that do as they do because they cannot do otherwise.
 
-"Ask yourself this question," says Wright. "Is there anything immoral about unplugging your computer? If not, how could there be anything immoral about 'unplugging' your neighbor by some convenient means if he/she is just an insensate organism and happens to be a nuisance to you for some reason?"
+“Ask yourself this question,” says Wright. “Is there anything immoral about unplugging your computer? If not, how could there be anything immoral about 'unplugging' your neighbor by some convenient means if he/she is just an insensate organism and happens to be a nuisance to you for some reason?”
 
 This is the kind of world we would live in if words like right or wrong had no meaning.
 
@@ -256,21 +256,21 @@ Wright concludes with this comment: "Whether or not you believe that the story o
 
 What can we expect?
 
-"But the mind that really discerns God, hears the indwelling Adjuster, is the pure mind." (1100)
+“But the mind that really discerns God, hears the indwelling Adjuster, is the pure mind.” (1100)
 
-Can we really expect to hear with our physical ears, actual sound waves, a real voice, that of our Indwelling Father-Spirit, presumably speaking in our mother tongue? Or do words of this nature simply follow old established biblical traditions of presenting concepts, for which we have no human idiom, as "figures of speech."
+Can we really expect to hear with our physical ears, actual sound waves, a real voice, that of our Indwelling Father-Spirit, presumably speaking in our mother tongue? Or do words of this nature simply follow old established biblical traditions of presenting concepts, for which we have no human idiom, as “figures of speech.”
 
-Examples from the Book of Psalms are: "Without holiness no man may see the Lord."  "For he is our God; and we are the people of his pasture, and the sheep of his hand. Today if you will hear his voice..."
+Examples from the Book of Psalms are: “Without holiness no man may see the Lord.”  “For he is our God; and we are the people of his pasture, and the sheep of his hand. Today if you will hear his voice...”
 
-Do men really "see" God with their eyes and "hear" God's voice with their ears?
+Do men really “see” God with their eyes and “hear” God's voice with their ears?
 
 The Urantia Book is confusing in this regard:
 
-"The ear of the human mind is almost deaf to the spiritual pleas which the Adjuster translates…" (1213)
-"While the voice of the Adjuster is ever within you, most of you will hear it seldom during a lifetime. Human beings below the third and second circles of attainment rarely hear the Adjuster's direct voice…" (1213)
-"The Thought Adjuster has no special mechanism through which to gain self-expression; there is no mystic religious faculty for the reception or expression of religious emotions. These experiences are made available through the naturally ordained mechanism of mortal mind." (1104)
-"The divine spirit makes contact with mortal man, not by feelings or emotions, but in the realm of the highest and most spiritualized thinking. It is your thoughts, not your feelings, that lead you Godward. The divine nature may be perceived only with the eyes of the mind." (1104)
-"It is sometimes possible to have the mind illuminated, to hear the divine voice that continually speaks within you, so that you may become partially conscious of the wisdom, truth, goodness, and beauty of the potential personality constantly indwelling you." (1199)
+“The ear of the human mind is almost deaf to the spiritual pleas which the Adjuster translates…” (1213)
+“While the voice of the Adjuster is ever within you, most of you will hear it seldom during a lifetime. Human beings below the third and second circles of attainment rarely hear the Adjuster's direct voice…” (1213)
+“The Thought Adjuster has no special mechanism through which to gain self-expression; there is no mystic religious faculty for the reception or expression of religious emotions. These experiences are made available through the naturally ordained mechanism of mortal mind.” (1104)
+“The divine spirit makes contact with mortal man, not by feelings or emotions, but in the realm of the highest and most spiritualized thinking. It is your thoughts, not your feelings, that lead you Godward. The divine nature may be perceived only with the eyes of the mind.” (1104)
+“It is sometimes possible to have the mind illuminated, to hear the divine voice that continually speaks within you, so that you may become partially conscious of the wisdom, truth, goodness, and beauty of the potential personality constantly indwelling you.” (1199)
 
 If you are desperate to hear voices, you may consider there is sufficient support to justify that attitude. But on balance, communication with the Spirit-Within appears to be through conscious awareness of our 'nearness to God', fortified by faith, and a lot of hard work.
 
@@ -284,9 +284,9 @@ And in conclusion:
 
 # On Growing Spiritually
 
-"The goal of human self-realization should be spiritual, not material. The only realities worth striving for are divine, spiritual, and eternal." (1096)
+“The goal of human self-realization should be spiritual, not material. The only realities worth striving for are divine, spiritual, and eternal.” (1096)
 
-The Urantia Papers are strong on spiritual meanings and values. They tell us our soul is built from experiences having spiritual meaning and value that occur in the course of our earthly life, and that: "The Thought Adjuster will recall and rehearse for you only those memories and experiences which are a part of, and essential to, your universe career….But much of your past life and its memories, having neither spiritual meaning nor morontia value, will perish with the material brain;"
+The Urantia Papers are strong on spiritual meanings and values. They tell us our soul is built from experiences having spiritual meaning and value that occur in the course of our earthly life, and that: “The Thought Adjuster will recall and rehearse for you only those memories and experiences which are a part of, and essential to, your universe career….But much of your past life and its memories, having neither spiritual meaning nor morontia value, will perish with the material brain;”
 
 Meanings and values, as used in the Papers, may be associated with words such as religious, supreme, and even divine. But when it comes to nailing down exactly what is meant by this terminology, we find we are faced with real difficulties.
 
@@ -294,15 +294,15 @@ It may be that these terms are indefinable outside of the event or occasion in w
 
 Each such act is unique; the exact circumstances under which it occurs will never be repeated. Hence, any attempt to provide a precise definition of morality is an impossible task.
 
-Although the Urantia Papers inform us the only realities worth striving for are "divine, spiritual, and eternal," if we set out to define what is meant by spiritual meanings and values, even after scouring the Papers and the hundreds of relevant references, the most likely result is that we will come away empty handed.
+Although the Urantia Papers inform us the only realities worth striving for are “divine, spiritual, and eternal,” if we set out to define what is meant by spiritual meanings and values, even after scouring the Papers and the hundreds of relevant references, the most likely result is that we will come away empty handed.
 
 So is there a way to put meat on the bones of these undefined terms? Fortunately the answer is yes. We can find it on page 1096:
 
-"Spirituality becomes at once the indicator of one's nearness to God and the measure of one's usefulness to fellow beings. Spirituality enhances the ability to discover beauty in things, recognize truth in meanings, and discover goodness in values. Spiritual development is determined by capacity therefore and is directly proportional to the elimination of the selfish qualities of love."
+“Spirituality becomes at once the indicator of one's nearness to God and the measure of one's usefulness to fellow beings. Spirituality enhances the ability to discover beauty in things, recognize truth in meanings, and discover goodness in values. Spiritual development is determined by capacity therefore and is directly proportional to the elimination of the selfish qualities of love.”
 
 Whereas the concepts of truth, beauty, love and goodness defy exact definability, the declaration that our spiritual development is dependent on the elimination of selfishness provides something having substance for us to work on.
 
-Those words "directly proportional" are from standard mathematical terminology. In their present context they mean that if we can double the unselfish qualities of our love then we automatically double our spiritual development. Likewise if we can halve the selfish qualities we also double our spiritual development.
+Those words “directly proportional” are from standard mathematical terminology. In their present context they mean that if we can double the unselfish qualities of our love then we automatically double our spiritual development. Likewise if we can halve the selfish qualities we also double our spiritual development.
 
 So working upon the elimination of selfishness from our very being and striving for unselfishness in all our relationships can do amazing things for both our spiritual development and the growth of our souls.
 

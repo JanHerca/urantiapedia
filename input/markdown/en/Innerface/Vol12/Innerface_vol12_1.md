@@ -13,7 +13,7 @@ From where do we derive our minds?
 
 Cosmic mind at its origin is a manifestation of the mind of the third person of the Trinity, the Infinite Spirit. It comes to us indirectly via the Seven Master Spirits of Paradise, and directly from the Creative Spirit of our local universe,  along with her team of helpers, the Adjutant Mind Spirits. These are comprised of the adjutants of : intuition, understanding, courage, knowledge, counsel, worship, and wisdom.
 
-There exists in all personality associations of  cosmic mind a quality which might be denominated a "reality response." And it is this reality endowment of will creatures which saves them from becoming helpless victims of the a priori assumptions of science, philosophy, and religion.
+There exists in all personality associations of  cosmic mind a quality which might be denominated a “reality response.” And it is this reality endowment of will creatures which saves them from becoming helpless victims of the a priori assumptions of science, philosophy, and religion.
 
 The cosmic mind unfailingly responds on three levels of universe reality:
 
@@ -102,7 +102,7 @@ Physical life is a process taking place not so much within the organism as betwe
 
 It is through the mediation of mind that the self and the environment establish meaningful contact. The ability and willingness of the organism to make such significant contacts with environment (response to a drive) represents the attitude of the whole personality.
 
-Persons cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness. It is literally true, "No man lives unto himself."
+Persons cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness. It is literally true, “No man lives unto himself.”
 
 But the concept of the personality as the meaning of the whole of the living and functioning creature means much more than the integration of relationships; it signifies the unification of all factors of reality as well as co-ordination of relationships.
 
@@ -168,7 +168,7 @@ In responding to a question about the soul, Jesus said:
 
 "The soul is the self-reflective, truth-discerning, and spirit-perceiving part of man which forever elevates the human being above the level of the animal world. Self-consciousness, in and of itself, is not the soul. Moral self-consciousness is true human self-realization and constitutes the foundation of the human soul. The soul is that part of man which represents the potential survival value of human experience. Moral choice and spiritual attainment, the ability to know God and the urge to be like him, are the characteristics of the soul.
 
-"The soul of man cannot exist apart from moral thinking and spiritual activity. A stagnant soul is a dying soul. But the soul of man is distinct from the divine spirit which dwells within the mind. The divine spirit arrives simultaneously with the first moral activity of the human mind, and that is the occasion of the birth of the soul."
+“The soul of man cannot exist apart from moral thinking and spiritual activity. A stagnant soul is a dying soul. But the soul of man is distinct from the divine spirit which dwells within the mind. The divine spirit arrives simultaneously with the first moral activity of the human mind, and that is the occasion of the birth of the soul.”
 
 And from p. 1246: Upon your death, your records, identity specifications, and the soul--conjointly evolved by the ministry of mortal mind and indwelling Spirit-of-God--are faithfully conserved by the destiny guardian together with all other values related to your future existence, everything that constitutes you, the real you-- except for the identity of continuing existence and the actuality of personality both of which are represented by the indwelling God-Spirit (who rejoins you upon your reconstitution.)
 
@@ -183,7 +183,7 @@ What is a rebound universe? If a universe is finite then sooner or later it shou
 
 If we allow ourselves to believe in some kind of self-generating universe, can we also allow ourselves to believe in the spontaneous formation of life? What are the chances for an elementary life form putting itself together from some kind of organic soup. After all there must have been a multitude of situations on the primitive earth in which all the basic ingredients necessary for living cells to self-generate were present, otherwise life would not have occurred. At least that is the hypothesis we are assuming.
 
-All life, as we know it, consists of complex carbon-based organic molecules protected from the "outside" by some kind of membranous barrier. It would also need to be self-repairing and self-reproducing if it was to persist.
+All life, as we know it, consists of complex carbon-based organic molecules protected from the “outside” by some kind of membranous barrier. It would also need to be self-repairing and self-reproducing if it was to persist.
 
 Currently it is thought that our planet came into existence about 4.5 billion years ago, and that life appeared close to the 4 billion year mark. The evidence for this includes the ratio of oxygen isotopes that accompany fossil material thought to be derived from photosynthesis by ancient organisms. This ratio is peculiar to the photosynthetic process.
 
@@ -241,31 +241,31 @@ All things considered, the possibility for self-generating universes and self-cr
 
 "That we are called Life Carriers should not confuse you. We can and do carry life to the planets, but we brought no life to Urantia. Urantia life is unique, original with the planet. This sphere is a life-modification world; all life appearing hereon was formulated by us right here on the planet; (667)
 
-"The material self, the ego-entity of human identity, is dependent during the physical life on the continuing function of the material life vehicle, on the continued existence of the unbalanced equilibrium of energies and intellect which, on Urantia, has been given the name life". (1229)
+“The material self, the ego-entity of human identity, is dependent during the physical life on the continuing function of the material life vehicle, on the continued existence of the unbalanced equilibrium of energies and intellect which, on Urantia, has been given the name life”. (1229)
 
-There was a time when we could put these two widely separated statements together and contend that they mean that only if an organism has the potential to develop intellect do the Urantia Book authors classify it as "life." Accepting this definition, we could live with the indisputable evidence for what we have routinely calld "life" existed almost 4 billion years ago.
+There was a time when we could put these two widely separated statements together and contend that they mean that only if an organism has the potential to develop intellect do the Urantia Book authors classify it as “life.” Accepting this definition, we could live with the indisputable evidence for what we have routinely calld “life” existed almost 4 billion years ago.
 
 The following quotations nullify that interpretation.
 
-"550,000,000 years ago the Life Carrier corps returned to Urantia. In co-operation with spiritual powers and superphysical forces we organized and initiated the original life patterns of this world and planted them in the hospitable waters of the realm. All planetary life down to the days of Caligastia, the Planetary Prince, had its origin in our three original, identical, and simultaneous marine-life implantations." (667)
+“550,000,000 years ago the Life Carrier corps returned to Urantia. In co-operation with spiritual powers and superphysical forces we organized and initiated the original life patterns of this world and planted them in the hospitable waters of the realm. All planetary life down to the days of Caligastia, the Planetary Prince, had its origin in our three original, identical, and simultaneous marine-life implantations.” (667)
 
-"The bacteria, simple vegetable organisms of a very primitive nature, are very little changed from the early dawn of life; they even exhibit a degree of retrogression in their parasitic behavior. Many of the fungi also represent a retrograde movement in evolution, being plants which have lost their chlorophyll-making ability and have become more or less parasitic. The majority of disease-causing bacteria and their auxiliary virus bodies really belong to this group of renegade parasitic fungi. During the intervening ages all of the vast kingdom of plant life has evolved from ancestors from which the bacteria have also descended." (732)
+“The bacteria, simple vegetable organisms of a very primitive nature, are very little changed from the early dawn of life; they even exhibit a degree of retrogression in their parasitic behavior. Many of the fungi also represent a retrograde movement in evolution, being plants which have lost their chlorophyll-making ability and have become more or less parasitic. The majority of disease-causing bacteria and their auxiliary virus bodies really belong to this group of renegade parasitic fungi. During the intervening ages all of the vast kingdom of plant life has evolved from ancestors from which the bacteria have also descended.” (732)
 
-Written by a "Life Carrier," it is written as if there was no life of any kind (including bacterial life), on this planet prior to the implantations made by the Life carriers just 550,000,000 years ago.
+Written by a “Life Carrier,” it is written as if there was no life of any kind (including bacterial life), on this planet prior to the implantations made by the Life carriers just 550,000,000 years ago.
 
 This accords with what most believed in the 1930's--that the pre-Cambrian period was devoid of life forms until the Cambrian age about half a billion years ago. It also accords with what is expressed on page 1109.
 
-"The laws of revelation hamper us greatly by their proscription of the impartation of unearned or premature knowledge." (1109)
+“The laws of revelation hamper us greatly by their proscription of the impartation of unearned or premature knowledge.” (1109)
 
 In many instances the Revelators have gone to extremes to follow their mandate. But they did tell us what they were doing, if we would listen. (see also 1008, 1260)
 
 However they have given us their answer to the question of whether life is a spontaneously occurring phenomena. No, life is not a spontaneously occurring phenomena. It is always brought to the planets by the Life Carriers.
 
-"Life does not spontaneously appear in the universes; the Life Carriers must initiate it on the barren planets." (399)
+“Life does not spontaneously appear in the universes; the Life Carriers must initiate it on the barren planets.” (399)
 
 The Life Carriers often carry actual life plasm to a new world, but not always. They sometimes organize the life patterns after arriving on the planet. Such was the origin of the planetary life of Urantia. (399)
 
-"That we are called Life Carriers should not confuse you. We can and do carry life to the planets, but we brought no life to Urantia. Urantia life is unique, original with the planet. This sphere is a life-modification world; all life appearing hereon was formulated by us right here on the planet." (667)
+“That we are called Life Carriers should not confuse you. We can and do carry life to the planets, but we brought no life to Urantia. Urantia life is unique, original with the planet. This sphere is a life-modification world; all life appearing hereon was formulated by us right here on the planet.” (667)
 
 According to the Urantia revelation, Life Carriers first visited this planet 900,000,000 years ago as part of an inspection commission which recommended Urantia be placed on the life-experiment registry. They returned 600,000,000 years ago but decided to wait before initiating life, something which was done 550,000,000 years ago.
 
@@ -273,7 +273,7 @@ So whereas the overall description of life establishment procedures may be corre
 
 That leaves us with the other question--do universes create themselves? The answer again is no, they are created. An interesting addition is that they are regulated. They do not run down and energy flow is regulated, a cyclic process that is heading towards a steady state equilibrium.
 
-"Supreme Power Centers are permanently assigned to our local universe. These beings receive the incoming lines of power and relay the down-stepped and modified circuits to the power centers of our constellations and systems...Power centers are not, however, concerned with transient and local energy upheavals, such as sun spots and system electric disturbances; light and electricity are not the basic energies of space; they are secondary and subsidiary manifestations." (456)
+“Supreme Power Centers are permanently assigned to our local universe. These beings receive the incoming lines of power and relay the down-stepped and modified circuits to the power centers of our constellations and systems...Power centers are not, however, concerned with transient and local energy upheavals, such as sun spots and system electric disturbances; light and electricity are not the basic energies of space; they are secondary and subsidiary manifestations.” (456)
 
 The power-energy supervision of the evolutionary inhabited worlds is the responsibility of the Master Physical Controllers. They are able to effect energy control in a collective as well as an individual capacity. As requirements vary, they can upstep and accelerate the energy volume and movement or detain, condense, and retard the energy currents. They influence energy and power transformations somewhat as so-called catalytic agents augment chemical reactions. They function by inherent ability and in co-operation with the Supreme Power Centers. (326, 457)
 
@@ -287,15 +287,15 @@ One such proposal is that the whole of our universe, as we perceive it, is actua
 
 [non-local is the name given to a dimension not in our space-time which messages can traverse instantaneously. It is also the 'home' of particles in a state of super-positioning such as an electron that is neither wave nor particle but a combination 'wavicle.' Its existence was predicated by Irish physicist, John Bell, and demonstrated experimentally by French physicist, Alain Aspect. See Innerface vol. 11, No. 5]
 
-Another proposal by Raphael Bousso utilizes a 2-D boundary so that our innate perception of the world as having 3 spatial dimensions would be an "extraordinary illusion." But is it really so extraordinary? For when looking at any normal scene, the image our minds perceive, though apparently in 3-D, is actually a flat 2-D image upon the retinas at the back of our eyeballs.
+Another proposal by Raphael Bousso utilizes a 2-D boundary so that our innate perception of the world as having 3 spatial dimensions would be an “extraordinary illusion.” But is it really so extraordinary? For when looking at any normal scene, the image our minds perceive, though apparently in 3-D, is actually a flat 2-D image upon the retinas at the back of our eyeballs.
 
 It is a truly remarkable feat of our brain that we can quite unconsciously make that 2-D to 3-D transformation, even to judging relative distances and estimating the speed of different objects at a variety of distances.
 
 This remarkable ability is obviously an innate function of mind that extends way back into the evolution of the animal and insect worlds of the past--and is an essential  survival attribute for both predator and prey. And it all must be constructed from information stored in our memories of previous related experiences.
 
-So what are the new experiments that merit our praise and appreciation? Those that currently interest us have been mainly conducted to discover how far certain strange quantum phenomena can be preserved as the size of the object under study is increased from the sub-microscopic to take in the "real" world, the one we can actually touch, feel, see, and smell.
+So what are the new experiments that merit our praise and appreciation? Those that currently interest us have been mainly conducted to discover how far certain strange quantum phenomena can be preserved as the size of the object under study is increased from the sub-microscopic to take in the “real” world, the one we can actually touch, feel, see, and smell.
 
-One of the key apparent differences between the familiar classical world we inhabit and the strange quantum world is the phenomenon of "superposition"--the ability of quantum objects to exist in two different states such as wave and particle, but at the same time.
+One of the key apparent differences between the familiar classical world we inhabit and the strange quantum world is the phenomenon of “superposition”--the ability of quantum objects to exist in two different states such as wave and particle, but at the same time.
 
 Previously we have described this behavior for photons, electrons, and even atoms, and molecules.3 Now it has been demonstrated for large spherical molecules called fullerenes consisting of 70 carbon atoms that form a ball .
 
@@ -313,7 +313,7 @@ Image here
 
 Is there a limit to the size of objects that can show this extraordinary behavior? Apparently not as nothing in quantum theory puts any limit to this size. Even living things (to be tested shortly) are expected to behave likewise.
 
-Apparently a completely new theory will be necessary. Anton Zeilinger, leader of the fullerene experiment team, had this to say: "Something else--some other undiscovered theory--will have to explain what role information plays. But if you are thinking that this new theory will put us out of our collective misery over the weirdness we see in quantum experiments, think again. There's no indication that it shouldn't get weirder."
+Apparently a completely new theory will be necessary. Anton Zeilinger, leader of the fullerene experiment team, had this to say: “Something else--some other undiscovered theory--will have to explain what role information plays. But if you are thinking that this new theory will put us out of our collective misery over the weirdness we see in quantum experiments, think again. There's no indication that it shouldn't get weirder.”
 
 Items that interest us for the discussion that follows are: Objects that become super-positioned may always and instantaneously be located in non-local space--where they will remain in waiting for such an occasion as being recalled by an observer to normal local space. Once made, that recall occurs instantaneously.
 
@@ -323,13 +323,13 @@ So where is the moon if one person is observing it and another is not doing so? 
 
 Experimental work indicates that information about what has happened, is happening, and perhaps, what will happen to the fullerene molecules we have described is carried from the fullerene being observed by emitted photons. Previous such work also shows that the amount of information being generated and needing to be instantly available in such events can be large and variable. How is this necessary information stored, who keeps the records, and who or what makes the decisions about which information is to be activated?
 
-Further questions remain, an important one being how many "bits" of information would be required to move from a non-local dimension to a specific address in a local one. How does a photon in non-local space 'know' where it came from?
+Further questions remain, an important one being how many “bits” of information would be required to move from a non-local dimension to a specific address in a local one. How does a photon in non-local space 'know' where it came from?
 
 Since the observer is normally completely unconscious about the details of this process and, for the most part, has zero knowledge that such a process exists, observers can be ruled out as being the necessary information banks.
 
 These information banks, if they exist, must surely also be located in non-local space. And as the over-all process appears to include decision making, it becomes extremely difficult to perceive it as being other than subject to conscious control. Could it be computerized? Possibly, but who built the computer, who maintains it, and who runs it?
 
-Few have had the courage to even speculate about this problem. One view that is held by those who subscribe to a philosophy termed "monistic idealism" is that the whole universe is created from consciousness and is existent only in consciousness--the consciousness of God. For such idealists, consciousness is the ground of all being.
+Few have had the courage to even speculate about this problem. One view that is held by those who subscribe to a philosophy termed “monistic idealism” is that the whole universe is created from consciousness and is existent only in consciousness--the consciousness of God. For such idealists, consciousness is the ground of all being.
 
 The Urantia revelation puts it this way: The universe is mind planned, mind made, and mind administered. (481)
 

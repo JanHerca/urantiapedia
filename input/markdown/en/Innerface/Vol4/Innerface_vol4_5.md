@@ -1,10 +1,10 @@
 # The Divine Spirit must dominate...
 
-The dead theory of even the highest religious doctrines is powerless to transform human character or to control mortal behavior. What the world of today needs is the truth which your teacher of old declared: "Not in word only but also in power and in the Holy Spirit." The seed of theoretical truth is dead, the highest moral concepts without effect, unless and until the divine Spirit breathes upon the forms of truth and quickens the formulas of righteousness.
+The dead theory of even the highest religious doctrines is powerless to transform human character or to control mortal behavior. What the world of today needs is the truth which your teacher of old declared: “Not in word only but also in power and in the Holy Spirit.” The seed of theoretical truth is dead, the highest moral concepts without effect, unless and until the divine Spirit breathes upon the forms of truth and quickens the formulas of righteousness.
 
-Those who have received and recognized the indwelling of God have been born of the Spirit. "You are the temple of God, and the spirit of God dwells in you." It is not enough that this spirit be poured out upon you; the divine Spirit must dominate and control every phase of human experience.
+Those who have received and recognized the indwelling of God have been born of the Spirit. “You are the temple of God, and the spirit of God dwells in you.” It is not enough that this spirit be poured out upon you; the divine Spirit must dominate and control every phase of human experience.
 
-It is the presence of the divine Spirit, the water of life, that prevents the consuming thirst of mortal discontent and that indescribable hunger of the unspiritualized human mind. Spirit-motivated beings "never thirst, for this spiritual water shall be in them a well of satisfaction springing up into life everlasting." Such divinely watered souls are all but independent of material environment as regards the joys of living and the satisfactions of earthly existence. They are spiritually illuminated and refreshed, morally strengthened and endowed.
+It is the presence of the divine Spirit, the water of life, that prevents the consuming thirst of mortal discontent and that indescribable hunger of the unspiritualized human mind. Spirit-motivated beings “never thirst, for this spiritual water shall be in them a well of satisfaction springing up into life everlasting.” Such divinely watered souls are all but independent of material environment as regards the joys of living and the satisfactions of earthly existence. They are spiritually illuminated and refreshed, morally strengthened and endowed.
 
 In every mortal there exists a dual nature: the inheritance of animal tendencies and the high urge of spirit endowment. During the short life you live on Urantia, these two diverse and opposing urges can seldom be fully reconciled; they can hardly be harmonized and unified; but throughout your lifetime the combined Spirit ever ministers to assist you in subjecting the flesh more and more to the leading of the Spirit. Even though you must live your material life through, even though you cannot escape the body and its necessities, nonetheless, in purpose and ideals you are empowered increasingly to subject the animal nature to the mastery of the Spirit. There truly exists within you a conspiracy of spiritual forces, a confederation of divine powers, whose exclusive purpose is to effect your final deliverance from material bondage and finite handicaps. (380/381)
 
@@ -67,7 +67,7 @@ A good flea
 A good black widow spider
 A good human being
 
-All are different things. A thing is good to the extent that it is fully whatever it is to be that thing. On this view, to say that "God is perfectly good" is to say that God is perfectly whatever it is to be God. This must be necessarily true, since God cannot be other than what God is. Therefore God must be perfectly good. It is vitally important to recognize that this has nothing to do with the idea of God being morally good. Notice that we can say that God is good even though we may not know whatever it is to be fully God.
+All are different things. A thing is good to the extent that it is fully whatever it is to be that thing. On this view, to say that “God is perfectly good” is to say that God is perfectly whatever it is to be God. This must be necessarily true, since God cannot be other than what God is. Therefore God must be perfectly good. It is vitally important to recognize that this has nothing to do with the idea of God being morally good. Notice that we can say that God is good even though we may not know whatever it is to be fully God.
 
 In the final analysis, analogy enables language drawn from our spatio-temporal universe to be applied to a timeless and spaceless God and for this language to be held to be true—but the content of this language is extremely limited.
 
@@ -88,7 +88,7 @@ No one thinks these statements are to be taken literally but they are each expre
 
 Univocal language
 
-Blaise Pascal referred to the "God of Abraham, Isaac, and Jacob, not the God of the philosophers." In saying this he was expressing reservations about the timeless and spaceless God of traditional theology, derived from Aristotle, with the very limited content that can be understood in language about such a God.
+Blaise Pascal referred to the “God of Abraham, Isaac, and Jacob, not the God of the philosophers.” In saying this he was expressing reservations about the timeless and spaceless God of traditional theology, derived from Aristotle, with the very limited content that can be understood in language about such a God.
 One alternative is to maintain that language about God is univocal—in other words language about God is to be understood in broadly the same way as language about human beings. The problem with this is that God must then be in time and one would be thinking of a God in time (some Catholic liberation theologians take this view as well as many Anglicans, Methodists and Baptists).
 
 A God in time has advantages from the point of view of language about God, but there is a heavy price to pay as God then becomes subject to time and change and some would then maintain that such a God is too limited.
@@ -97,9 +97,9 @@ It can also lead to an anthropomorphic view of God as, if God is in time, God ca
 
 [This article appeared in the Catechist Newsletter published by Brisbane Catholic Education.]
 
-[Comments: Urantia Paper #2 "The Nature of God" informs us that, "the most enlightening and spiritually edifying of all revelations of the divine nature is to be found in the comprehension of the religious life of Jesus of Nazareth." (33) The book also says, "Although Jesus revealed the true nature of the heavenly Father in his earth life, he taught little about him. In fact, he taught only two things: that God in himself is spirit, and that, in all matters of relationship with his creatures, he is a Father."
+[Comments: Urantia Paper #2 “The Nature of God” informs us that, “the most enlightening and spiritually edifying of all revelations of the divine nature is to be found in the comprehension of the religious life of Jesus of Nazareth.” (33) The book also says, “Although Jesus revealed the true nature of the heavenly Father in his earth life, he taught little about him. In fact, he taught only two things: that God in himself is spirit, and that, in all matters of relationship with his creatures, he is a Father.”
 
-The gospel of John (14:9) reports Jesus as saying words such as, "He who has seen me has seen the Father." and in 14:11, "I am in the Father and the Father is in me." Christianity generally has a firm belief in the divinity of Jesus, so combined with the evidence from John's gospel, it is difficult to conceive how the life of Jesus can be interpreted in any other way than as a revelation of the nature of God—which means that there are things we can know about God.
+The gospel of John (14:9) reports Jesus as saying words such as, “He who has seen me has seen the Father.” and in 14:11, “I am in the Father and the Father is in me.” Christianity generally has a firm belief in the divinity of Jesus, so combined with the evidence from John's gospel, it is difficult to conceive how the life of Jesus can be interpreted in any other way than as a revelation of the nature of God—which means that there are things we can know about God.
 
 Thus it appears that the 13th century re-discovery of Aristotelian logic in the Western world, and its subsequent application to Christian theology, may have had enormous deleterious effects on the progressive spiritualization of Christians]
 
@@ -107,29 +107,29 @@ Thus it appears that the 13th century re-discovery of Aristotelian logic in the 
 
 There surely is a very good reason. The book tells us that we disadvantaged Urantians cripple ourselves spiritually if we don't.
 
-The preceding "Favorite Places" section, taken from The Urantia Book, informed us that "the dead truth of even the highest religious doctrines is powerless to transform human character or to control mortal behavior....The seed of theoretical truth is dead, the highest moral concepts without effect, unless and until the divine Spirit breathes upon the forms of truth and quickens the formulas of righteousness."
+The preceding “Favorite Places” section, taken from The Urantia Book, informed us that “the dead truth of even the highest religious doctrines is powerless to transform human character or to control mortal behavior....The seed of theoretical truth is dead, the highest moral concepts without effect, unless and until the divine Spirit breathes upon the forms of truth and quickens the formulas of righteousness.”
 
-It would seem then, that we could know the "Foreword" backward, know the classifications of the whole hierarchy of the heavens, know all about Andon and Fonta, Adam and Eve, what the Melchizedeks, the Solitary and Mighty Messengers think about our past, present, and future, know all about our expected experiences in the morontia worlds, even know the historical components of the life of Jesus and have memorized his teachings, but this may still be without effect, "unless and until the divine Spirit breathes upon the forms of truth and quickens the formulas of righteousness."
+It would seem then, that we could know the “Foreword” backward, know the classifications of the whole hierarchy of the heavens, know all about Andon and Fonta, Adam and Eve, what the Melchizedeks, the Solitary and Mighty Messengers think about our past, present, and future, know all about our expected experiences in the morontia worlds, even know the historical components of the life of Jesus and have memorized his teachings, but this may still be without effect, “unless and until the divine Spirit breathes upon the forms of truth and quickens the formulas of righteousness.”
 
-That kind of puts us in the hot seat, does it not? So how do we get off it? The book has answers. First, the divine Spirit has to water our souls and breathe upon the forms of truth and the formulas of righteousness, and in doing so, 'conscious-izes' our minds and souls on the spiritual value of our assimilated knowledge. But then comes the crunch. Though we are temples of God because his divine spirit dwells in us, it is not enough. "The divine Spirit must dominate and control every phase of human experience."
+That kind of puts us in the hot seat, does it not? So how do we get off it? The book has answers. First, the divine Spirit has to water our souls and breathe upon the forms of truth and the formulas of righteousness, and in doing so, 'conscious-izes' our minds and souls on the spiritual value of our assimilated knowledge. But then comes the crunch. Though we are temples of God because his divine spirit dwells in us, it is not enough. “The divine Spirit must dominate and control every phase of human experience.”
 
-There are measures to help us know about how we are progressing. One, of course, is the bearing of the fruits of the spirit in our lives. Another is contained within these words, "It is the presence of the divine Spirit, the water of life, that prevents the consuming thirst of mortal discontent and that indescribable hunger of the unspiritualized human mind." The book then tells us that spirit-motivated beings "never thirst," and that we can become, "all but independent of material environment as regards the joys of living and the satisfactions of earthly living." Is that really possible? A living example surely would be Mother Theresa, that wonderful Catholic nun who has worked for decades under appalling conditions yet, despite advanced age and broken health, still persists with her God-given work in looking after the homeless, impoverished dying from the streets of Calcutta in a loving attempt to provide them with a dignified exit from this life.
+There are measures to help us know about how we are progressing. One, of course, is the bearing of the fruits of the spirit in our lives. Another is contained within these words, “It is the presence of the divine Spirit, the water of life, that prevents the consuming thirst of mortal discontent and that indescribable hunger of the unspiritualized human mind.” The book then tells us that spirit-motivated beings “never thirst,” and that we can become, “all but independent of material environment as regards the joys of living and the satisfactions of earthly living.” Is that really possible? A living example surely would be Mother Theresa, that wonderful Catholic nun who has worked for decades under appalling conditions yet, despite advanced age and broken health, still persists with her God-given work in looking after the homeless, impoverished dying from the streets of Calcutta in a loving attempt to provide them with a dignified exit from this life.
 
-Not that we are all called upon to be "Mother Theresa's." But we are called upon to yield the fruits of the spirit. The book tells us that there are two powerful demonstrations that we are God-knowing. One of them is, "The fruits of the spirit showing forth in your daily routine life." (1733) It would surely be nice to have Mother Theresa-like credentials when we knock on the Pearly Gates and be greeted with a "well done my good and faithful servant."
+Not that we are all called upon to be “Mother Theresa's.” But we are called upon to yield the fruits of the spirit. The book tells us that there are two powerful demonstrations that we are God-knowing. One of them is, “The fruits of the spirit showing forth in your daily routine life.” (1733) It would surely be nice to have Mother Theresa-like credentials when we knock on the Pearly Gates and be greeted with a “well done my good and faithful servant.”
 
-The second demonstration of our God-knowingness is, "The fact that your entire life plan furnishes proof that you have unreservedly risked everything you are and have on the adventure of survival after death...." That statement is confirmatory to the quote that, "The divine Spirit must dominate and control every phase of human experience." (381)
+The second demonstration of our God-knowingness is, “The fact that your entire life plan furnishes proof that you have unreservedly risked everything you are and have on the adventure of survival after death....” That statement is confirmatory to the quote that, “The divine Spirit must dominate and control every phase of human experience.” (381)
 
-Before looking at what the book tells us about how we might achieve these goals, let's increase our awareness of what is meant by "there truly exists within you a conspiracy of spiritual forces, a confederation of divine powers, whose exclusive purpose is to effect your final deliverance from material bondage and finite handicaps." (381)
+Before looking at what the book tells us about how we might achieve these goals, let's increase our awareness of what is meant by “there truly exists within you a conspiracy of spiritual forces, a confederation of divine powers, whose exclusive purpose is to effect your final deliverance from material bondage and finite handicaps.” (381)
 
 We Urantians have need to appreciate that we are disadvantaged compared with mortal ascenders from normal planets. We have been in quarantine since the Lucifer rebellion 200,000 years ago. We were scheduled to receive genetic upgrading from the offspring of Adam and Eve almost 38,000 years ago in an attempt to increase our capacity for spiritual receptivity. However, things did not turn out as intended and only a minor upgrading occurred. Unfortunately that still left us with a serious congenital deficiency in ability to communicate with our Thought Adjusters (a serious study of the Thought Adjuster Papers 107-111 will make us cognizant of the difficulties that all Urantians have in achieving effective communication with them).
 
-The conspiracy of spiritual forces that works for our deliverance from material bondage appears to consist of the spirits of the Universal Father, the Creator Son, and the Universe Mother Spirit. The Thought Adjusters indwell the thinking centers of our minds, "as a very part of our mind and they ever work in perfect harmony with the combined spirits of the Creator-Son and the Creative Spirit." (379/380) However, though we do not personally possess a segregated portion or entity of Creator Son or Mother Spirit, their dual spirit liaison hovers over the worlds, seeking to teach truth, spiritually enlighten the minds of men, and to inspire their souls. (379)
+The conspiracy of spiritual forces that works for our deliverance from material bondage appears to consist of the spirits of the Universal Father, the Creator Son, and the Universe Mother Spirit. The Thought Adjusters indwell the thinking centers of our minds, “as a very part of our mind and they ever work in perfect harmony with the combined spirits of the Creator-Son and the Creative Spirit.” (379/380) However, though we do not personally possess a segregated portion or entity of Creator Son or Mother Spirit, their dual spirit liaison hovers over the worlds, seeking to teach truth, spiritually enlighten the minds of men, and to inspire their souls. (379)
 
-A legacy of Michael's bestowal on Urantia was the universal availability of Thought Adjusters to all Urantians having the potential to make a moral decision. A second legacy was the universal availability of his Spirit of Truth. The book informs us that the Spirit of Truth never creates a consciousness of himself, only a consciousness of Michael, the Son. (2061) It also informs us that, "Though the Spirit of Truth is poured out upon all flesh, this spirit of the son is almost wholly limited in function and power by man's personal reception of that which constitutes the sum and substance of the mission of the bestowal Son." (379)
+A legacy of Michael's bestowal on Urantia was the universal availability of Thought Adjusters to all Urantians having the potential to make a moral decision. A second legacy was the universal availability of his Spirit of Truth. The book informs us that the Spirit of Truth never creates a consciousness of himself, only a consciousness of Michael, the Son. (2061) It also informs us that, “Though the Spirit of Truth is poured out upon all flesh, this spirit of the son is almost wholly limited in function and power by man's personal reception of that which constitutes the sum and substance of the mission of the bestowal Son.” (379)
 
-And presumably that is precisely why the books states quite explicitly that, "To follow Jesus means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it." (2090)
+And presumably that is precisely why the books states quite explicitly that, “To follow Jesus means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.” (2090)
 
-The unity of spiritual forces is shown by, "Although Divinity may be plural in manifestation, in human experience Deity is singular, always one...and regardless of plurality of origin, all spirit influences are one in function." (380) Certainly it may be difficult, perhaps impossible, to understand how the Spirit of Truth and our Thought Adjusters interact in order to permit us to increase our receptiveness to the "conspiracy of spiritual forces" that seeks to enhance our spiritual capacity, the effectiveness of their interaction is illustrated by the experience of the apostles who, in four short weeks after the bestowal of the Spirit of Truth, made more individual spiritual progress than in their four years of personal and loving association with Jesus. (2061)
+The unity of spiritual forces is shown by, “Although Divinity may be plural in manifestation, in human experience Deity is singular, always one...and regardless of plurality of origin, all spirit influences are one in function.” (380) Certainly it may be difficult, perhaps impossible, to understand how the Spirit of Truth and our Thought Adjusters interact in order to permit us to increase our receptiveness to the “conspiracy of spiritual forces” that seeks to enhance our spiritual capacity, the effectiveness of their interaction is illustrated by the experience of the apostles who, in four short weeks after the bestowal of the Spirit of Truth, made more individual spiritual progress than in their four years of personal and loving association with Jesus. (2061)
 
 The evidence that the apostles had mentally assimilated Jesus' teaching during that four years with him is contained both in the text of the Ordination Sermon from The Urantia Book which is, to a large extent, a repetition of the Sermon on the Mount from Matthew's gospel. It is also evident from the reproduction in the book of so much of Jesus' spoken word originating from the gospel texts—and demonstrates that though the apostles had the knowledge of the Master's life and words, they had little comprehension of their spiritual value.
 
@@ -155,9 +155,9 @@ Now that I have your attention....  I'm sure that those of us in the Urantia com
 Cult used to be a pretty respectable term. My 1979 Webster's New Collegiate Dictionary defines cult as:
 1. Formal religious veneration. worship. 2. A system of religious beliefs also: its body of adherents. 3. A religion regarded as unorthodox or spurious also its body of adherents. (Of special interest to us) 5.a. A great devotion to a person, idea or thing.
 
-We would probably place our community in category #2 or #5a, but there are those who would place us in #3. Notice that there is no definition that fits the way "cult" is commonly used today. Today it has the connotation of a group that uses brain washing and mind control techniques to completely control its members.
+We would probably place our community in category #2 or #5a, but there are those who would place us in #3. Notice that there is no definition that fits the way “cult” is commonly used today. Today it has the connotation of a group that uses brain washing and mind control techniques to completely control its members.
 
-On page 966, The Urantia Book uses "cult" in the older and more positive sense of the word when it advises that a cult needs to develop based on our highest and best religious ideals. There is no doubt that someone looking to condemn The Urantia Book would seize on this and use it to condemn the book and our community. But we would be amiss if we did not admit that there has been at least one group associated with our community that began to look like a cult?
+On page 966, The Urantia Book uses “cult” in the older and more positive sense of the word when it advises that a cult needs to develop based on our highest and best religious ideals. There is no doubt that someone looking to condemn The Urantia Book would seize on this and use it to condemn the book and our community. But we would be amiss if we did not admit that there has been at least one group associated with our community that began to look like a cult?
 
 Suppose that a decade or so ago, shortly before a certain group out in California disbanded, an investigative reporter heard rumors about this group. Then suppose the reporter had visited the group's headquarters and had observed the preparations for nuclear holocaust—the weapons, the fortifications,  the stocks of food, as well as the fact that the group's leader was sequestered away in an upstairs command post.
 
@@ -173,7 +173,7 @@ While we may not be able to prevent such incidents from happening, we can do som
 
 Would it be wise to use advertising to create a positive image? I doubt that advertising by itself can fill the void, though there may be a way in which it can be helpful. I am impressed by the TV advertisement sponsored by the Church of Latter Day Saints (Mormon) that offers a free tape about improving family life. Is advertising of this kind something we should consider? While this sort of effort may be of some help, I believe that something is needed that requires a personal investment from us.
 
-On page 852 of the book, the authors tell us that we must: "do something as well as be something." What we are is a collection of study groups; what we do is mainly study The Urantia Book. The two major organizations connected with The Urantia Book are focused on activities related to the book and to study groups. These organizations are not philosophically or organizationally oriented toward outreach; their activities seem to focus mainly on encouraging the formation of study groups and promotion of the book. 
+On page 852 of the book, the authors tell us that we must: “do something as well as be something.” What we are is a collection of study groups; what we do is mainly study The Urantia Book. The two major organizations connected with The Urantia Book are focused on activities related to the book and to study groups. These organizations are not philosophically or organizationally oriented toward outreach; their activities seem to focus mainly on encouraging the formation of study groups and promotion of the book. 
 
 Whatever the case, service outside the Urantia community does not seem to be high on the priority list of either organization. This is not to criticize the organizations; they are doing very valuable work. But the lack of any national organization to promote service work leaves the job to individuals and study groups. Doing service work is important, but our motives for doing it are equally important.
 
@@ -203,17 +203,17 @@ Jesus foresaw that a social organization, or church, would follow the progress o
 
 Author: **Ann Bendall, Qld**
 
-Intolerance—lack of respect for practices and beliefs other then one's own—is one of the six mental poisons which "tremendously interfere with the spiritual progress of the evolving soul."
+Intolerance—lack of respect for practices and beliefs other then one's own—is one of the six mental poisons which “tremendously interfere with the spiritual progress of the evolving soul.”
 
-Jesus defined intolerance as "the mask covering up the entertainment of secret doubts as to the trueness of one's belief." He then went on to state, "No man is at any time disturbed by his neighbor's attitude when he has perfect confidence in the truth of that which he wholeheartedly believes.... Sincere men are unafraid of the critical examination of their true convictions and noble ideals." (1641)
+Jesus defined intolerance as “the mask covering up the entertainment of secret doubts as to the trueness of one's belief.” He then went on to state, “No man is at any time disturbed by his neighbor's attitude when he has perfect confidence in the truth of that which he wholeheartedly believes.... Sincere men are unafraid of the critical examination of their true convictions and noble ideals.” (1641)
 
-Jesus never displayed intolerance to any person, but he was, "intolerant of sin. He was often mightily moved to resist that which was inimical to the welfare of his children on earth. But his indignation against sin never led to anger at the sinner." (1103)
+Jesus never displayed intolerance to any person, but he was, “intolerant of sin. He was often mightily moved to resist that which was inimical to the welfare of his children on earth. But his indignation against sin never led to anger at the sinner.” (1103)
 
-In a similar vein Jesus said, "Tell my children that I am ruthless with sin and intolerant of iniquity. I am indeed meek and humble in the presence of my Father, but I am equally and relentlessly inexorable where there is deliberate evildoing and sinful rebellion against the will of my Father in heaven." (1766)
+In a similar vein Jesus said, “Tell my children that I am ruthless with sin and intolerant of iniquity. I am indeed meek and humble in the presence of my Father, but I am equally and relentlessly inexorable where there is deliberate evildoing and sinful rebellion against the will of my Father in heaven.” (1766)
 
-The apostle John was "somewhat bigoted and inordinately intolerant....But he was not the only one of the twelve who was tainted with this kind of self-esteem and superiority consciousness." (1955)
+The apostle John was “somewhat bigoted and inordinately intolerant....But he was not the only one of the twelve who was tainted with this kind of self-esteem and superiority consciousness.” (1955)
 
-Obviously the flaws in this apostle's character were of concern for, in his final personal message to John, Jesus stated, "Give up your intolerance and learn to love men as I have loved you." (2047) It is interesting that this same John, right up to the crucifixion, was vying for the place of honor in the kingdom, despite being told by Jesus that this was a myth. But it is also interesting that John and his like-minded brother, James, chose the benign Alpheus twins to be apostles.
+Obviously the flaws in this apostle's character were of concern for, in his final personal message to John, Jesus stated, “Give up your intolerance and learn to love men as I have loved you.” (2047) It is interesting that this same John, right up to the crucifixion, was vying for the place of honor in the kingdom, despite being told by Jesus that this was a myth. But it is also interesting that John and his like-minded brother, James, chose the benign Alpheus twins to be apostles.
 
 Intolerance seems to be part of the human condition, and displays itself either as intolerance for a group that holds differing beliefs from our own, or for individuals with whom we are in close association. We seem not to be able to allow other people to have beliefs, practices and habits different from our own.
 
@@ -221,7 +221,7 @@ Perhaps this is because, in attempting to live in harmony with others whilst ret
 
 Few of us seem to be able to separate sin from  sinner, and in our disapproval of the misbehavior of another, in effect we disapprove of that person and thus become isolated from them.
 
-In one of his inspiring admonitions after his resurrection where he re-iterated his injunction to "love all men as I have loved you," Jesus reminded his disciples that they were "the children of light; therefore stumble not into the misunderstanding entanglements of mortal suspicion and human intolerance. If you are ennobled, by the grace of faith, to love unbelievers, should you not also equally love those who are your fellow believers in the far-spreading household of faith? Remember, as you love one another, all men will know that you are my disciples." (2041)
+In one of his inspiring admonitions after his resurrection where he re-iterated his injunction to “love all men as I have loved you,” Jesus reminded his disciples that they were “the children of light; therefore stumble not into the misunderstanding entanglements of mortal suspicion and human intolerance. If you are ennobled, by the grace of faith, to love unbelievers, should you not also equally love those who are your fellow believers in the far-spreading household of faith? Remember, as you love one another, all men will know that you are my disciples.” (2041)
 
 The underlying, and often unconscious, beliefs that we hold about ourselves and human nature influence and ultimately determine our ability and willingness to risk, to trust, to love, and to forgive.
 
@@ -229,30 +229,30 @@ Through the grace of the Spirit of Truth we all have the ability to see clearly,
 
 Pragmatically speaking, all we have to do in order to practice tolerance is to accept other people as they are, not as we would like them to be. This process is aided by asking ourselves, "Is this person consciously malevolent or, from their perspective, are they acting in good faith?
 
-When it comes to intolerance for another group's religious beliefs, it is interesting that The Urantia Book affirms, "Only with revealed religion did autocratic and intolerant theologic egotism appear." (1012)
+When it comes to intolerance for another group's religious beliefs, it is interesting that The Urantia Book affirms, “Only with revealed religion did autocratic and intolerant theologic egotism appear.” (1012)
 
 It appears that one of the risks with revealed religion is that it has the tendency to diminish the need for living faith:
 
-"Faith never shuns the problem-solving duty of mortal living. Living faith does not foster bigotry, persecution, or intolerance." (1114)
-It also has the tendency to evoke the chosen few phenomenon. "Only when religion assumes that it is in some way superior to all others, and that it possesses exclusive authority over other religions, will such a religion presume to be intolerant of other religions or dare to persecute other religious believers." (1486)
+“Faith never shuns the problem-solving duty of mortal living. Living faith does not foster bigotry, persecution, or intolerance.” (1114)
+It also has the tendency to evoke the chosen few phenomenon. “Only when religion assumes that it is in some way superior to all others, and that it possesses exclusive authority over other religions, will such a religion presume to be intolerant of other religions or dare to persecute other religious believers.” (1486)
 
-When we deliberate on our level of spiritual progress, perhaps an acid test is to ask ourselves: have we succeeded in eradicating those mental poisons of "fear, anger, jealousy, and intolerance."
+When we deliberate on our level of spiritual progress, perhaps an acid test is to ask ourselves: have we succeeded in eradicating those mental poisons of “fear, anger, jealousy, and intolerance.”
 
 We do this through being in constant communication with our indwelling Adjuster who thereby enables us to undertake the effortful task of acquiring the conscience of a cosmic citizen:
 
-"Only ethical consciousness can unmask the immorality of human intolerance and the sinfulness of fratricidal strife. Only a moral conscience can condemn the evils of national envy and racial jealousy. Only moral beings will ever seek for that spiritual insight which is essential to living the golden rule." (597)
+“Only ethical consciousness can unmask the immorality of human intolerance and the sinfulness of fratricidal strife. Only a moral conscience can condemn the evils of national envy and racial jealousy. Only moral beings will ever seek for that spiritual insight which is essential to living the golden rule.” (597)
 
 # The Urantia Book—why is it so strange?
 
 For a long time there has been a group of Urantia Book readers who have pondered on the problem of why the book has been written in such a strange manner.
 
-One example is that it names itself the Fifth Epochal Revelation thereby raising the expectancies of the beginning reader. But then it presents a lot of out-of-date science material as if it were revelation, leaving it until page 1109 before informing us that the "laws of revelation hamper us greatly by their proscription of the impartation of unearned knowledge"—which signifies that its science content is pre-mid 1930's.
+One example is that it names itself the Fifth Epochal Revelation thereby raising the expectancies of the beginning reader. But then it presents a lot of out-of-date science material as if it were revelation, leaving it until page 1109 before informing us that the “laws of revelation hamper us greatly by their proscription of the impartation of unearned knowledge”—which signifies that its science content is pre-mid 1930's.
 
 Another curiosity is its inclusion of materials that appear to approach the impossible or at least the highly improbable. One of these is the properties ascribed to passenger birds that supposedly can carry two adult passengers a non-stop distance of 500 miles. Taking wing loadings and energy requirements into consideration, are we confronted with the impossible? It appears to be so. A further example is the incredible origins of the secondary midwayers.
 
-The inclusion of these materials certainly did nothing to support the book's claim to revelatory authenticity. Curiously, they could have been omitted whether true or not, and the book would have lost nothing of importance. However the sheer intellectual brilliance demonstrated by the revelators in so many other parts of the book lead many of us to conclude that the "funny stuff" has been included for a good reason. What could that reason be?
+The inclusion of these materials certainly did nothing to support the book's claim to revelatory authenticity. Curiously, they could have been omitted whether true or not, and the book would have lost nothing of importance. However the sheer intellectual brilliance demonstrated by the revelators in so many other parts of the book lead many of us to conclude that the “funny stuff” has been included for a good reason. What could that reason be?
 
-Ann Bendall's article on intolerance contains some observations that may be relevant. Ann reminds us that the book affirms: "Only with revealed religion did autocratic and intolerant theologic egotism appear." (1012) Ann also comments that one of the risks with a revealed religion is that it has the tendency to diminish the need for living faith as well as to foster the "chosen few" phenomenon.
+Ann Bendall's article on intolerance contains some observations that may be relevant. Ann reminds us that the book affirms: “Only with revealed religion did autocratic and intolerant theologic egotism appear.” (1012) Ann also comments that one of the risks with a revealed religion is that it has the tendency to diminish the need for living faith as well as to foster the “chosen few” phenomenon.
 
 Possibly Ann's observations may throw light on just why The Urantia Book has been written in such a strange manner. The expectations for the Fourth Epochal Revelation were not fulfilled as hoped for. This was largely because of the distortions that occurred to the concept of the kingdom of heaven as taught by Jesus during the early years of Christendom.
 
@@ -267,11 +267,11 @@ Jesus taught that the cardinal features of the gospel of the kingdom were:
 None of these features appear in the text of the Nicene Creed to which virtually all Christians subscribe as the encoding of their basic beliefs.
 
 The major break with Jesus' teaching came when Paul adapted what he knew of them to the needs of interested Jews and later to the gentiles. First Jesus became the expected Messiah then Christ the Redeemer.
-In this transition Jesus' death as signifying salvation from sin became a principal teaching somewhat like a "strange attractor" of chaos theory. Additionally, both Jesus and God became located 'out-there-somewhere' and contactable only via the mediation of priest or long-dead saint, rather than being personally-available and indwelling, spirit forces .
+In this transition Jesus' death as signifying salvation from sin became a principal teaching somewhat like a “strange attractor” of chaos theory. Additionally, both Jesus and God became located 'out-there-somewhere' and contactable only via the mediation of priest or long-dead saint, rather than being personally-available and indwelling, spirit forces .
 
 In the light of what we humans did to the Fourth Epochal Revelation, is it not logical and natural that the revelators should take precautions to avoid a disaster to the Fifth?
 
-It may be that they considered fundamentalism to be a major threat for it is the very hallmark of fundamentalism that, "autocratic and intolerant theologic egotism appear." (1012)
+It may be that they considered fundamentalism to be a major threat for it is the very hallmark of fundamentalism that, “autocratic and intolerant theologic egotism appear.” (1012)
 
 It appears to be that fundamentalism invariably transforms its sources into sacred objects—the Bible, the Koran, the Book of Mormon, The Urantia Book, etc,—with their content eventually becoming divine proclamations. One possible way to defeat such a fate for a new revelation could be to include unbelievable material that would permit critics, opponents, and skeptics to ridicule or vilify it.
 
@@ -281,15 +281,15 @@ It is interesting that The Urantia Book has a readership that includes a very si
 On the contrary most of these people are among its staunchest supporters. Apparently the sheer quality of the remainder of the book's content provides overriding evidence that the book must be taken seriously.
 The book of course does contain science material that is revelatory and remarkable. Some of this has been covered in previous issues of Innerface. It is again interesting that many people who have the background knowledge to evaluate this prophetic material nevertheless prefer to give greater weight to the 'funny stuff' and thus reject the revelation.
 
-Of course, we well-balanced Urantia Book readers would not be likely to fall into error as did the early Christians. But if that is true why is it that for so long, in print, the book had to be referred to as "The Urantia Book,"—if we are not inclined to treat it as sacred object?
+Of course, we well-balanced Urantia Book readers would not be likely to fall into error as did the early Christians. But if that is true why is it that for so long, in print, the book had to be referred to as “The Urantia Book,”—if we are not inclined to treat it as sacred object?
 
 And why do the vast majority of us believe that there was something very special, miraculous even, about the way we ourselves received the book? Likewise, how many of us have indulged in the game of guessing who might or might not be members of the Reserve Corps of Destiny—and even fantasized about our membership?
 
-Is it possible that an updated version of the story of the Pharisee in the temple praying, "I thank you God that I am not like that publican over there..." could become a Urantia Book reader praying, "I thank you God that I am not like that Christian over there." But, of course, we are forgetting that Urantia Book readers don't pray—they communicate!
+Is it possible that an updated version of the story of the Pharisee in the temple praying, “I thank you God that I am not like that publican over there...” could become a Urantia Book reader praying, “I thank you God that I am not like that Christian over there.” But, of course, we are forgetting that Urantia Book readers don't pray—they communicate!
 
-We owe thanks to Ann for reminding us about the "chosen people" syndrome. Jesus extolled the virtue of true humility. He even said, "the first shall be last and the last shall be first." (1804; Mark 10:31)
+We owe thanks to Ann for reminding us about the “chosen people” syndrome. Jesus extolled the virtue of true humility. He even said, “the first shall be last and the last shall be first.” (1804; Mark 10:31)
 
-The book informs us that, "the ideas and ideals of Jesus, embodied in the teaching of the gospel of the kingdom nearly failed....Then it says, "But doubt not, this same kingdom of heaven which the Master taught exists within the heart of the believer, will yet be proclaimed to the Christian church (who has that task?), even as to all other religions, races and nations on earth—even to every individual."
+The book informs us that, “the ideas and ideals of Jesus, embodied in the teaching of the gospel of the kingdom nearly failed....Then it says, ”But doubt not, this same kingdom of heaven which the Master taught exists within the heart of the believer, will yet be proclaimed to the Christian church (who has that task?), even as to all other religions, races and nations on earth—even to every individual."
 
 So what is it that is to be proclaimed? Here are a few of its components:
 
@@ -311,7 +311,7 @@ The only rewards held out to God's children are, in this world, spiritual joy an
 
 The will of God is the way of God.
 
-The choosing of the Father's will is the spiritual finding of the spirit Father. Its choosing is not so much a negation of creature will as the affirmation that, "It is my will that your will be done."
+The choosing of the Father's will is the spiritual finding of the spirit Father. Its choosing is not so much a negation of creature will as the affirmation that, “It is my will that your will be done.”
 
 If your own mind does not serve you well, you can exchange it for the mind of Jesus who always serves you well.
 
@@ -319,12 +319,12 @@ Christianity has dared to lower its ideals before the challenge of human greed a
 
 Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good.
 	
-All these attributes of divinity he focused in his mind as "the will of the Father in heaven."
+All these attributes of divinity he focused in his mind as “the will of the Father in heaven.”
 
 
 In the face of all the natural difficulties and temporal contradictions of mortal existence, Jesus experienced the tranquillity of supreme and unquestioned trust in God and felt the tremendous thrill of living, by faith, in the very presence of the heavenly Father.
 
-Jesus said: "Love one another as I have loved you."
+Jesus said: “Love one another as I have loved you.”
 
 # More on the gospel of the kingdom
 

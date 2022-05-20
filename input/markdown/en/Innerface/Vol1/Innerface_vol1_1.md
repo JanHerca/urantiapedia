@@ -62,7 +62,7 @@ At some stage during our lives, virtually everybody has some special experience,
 
 Everett Sloffer had one such insight that he shared in his article, “The Power of Spiritual Insight,” printed in the Spiritual Fellowship Journal 2 (2), 1992. It came to him while listening to a friend address a small group and, for him, opened up a new and deeper meaning of the first and greatest commandment. (You should love the Lord your God with all your heart....)
 
-The comment that did this was "Jesus sought the Father's will even in his smallest desire." For Everett, this statement unlocked new doorways of understanding of life and love, of work and play, and of every moment of being. Previously, Everett had tended to assume, as most of us do, that the will of God only applies to the big decisions, those actions that direct or re-direct our lives. Many people sincerely believe that God is too busy running the universe to be concerned with the minute details of our daily activities.
+The comment that did this was “Jesus sought the Father's will even in his smallest desire.” For Everett, this statement unlocked new doorways of understanding of life and love, of work and play, and of every moment of being. Previously, Everett had tended to assume, as most of us do, that the will of God only applies to the big decisions, those actions that direct or re-direct our lives. Many people sincerely believe that God is too busy running the universe to be concerned with the minute details of our daily activities.
 
 The Urantia Book tells us that this is not true:
 

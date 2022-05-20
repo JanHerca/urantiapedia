@@ -1,6 +1,6 @@
-# Who will come to "Phoenicia?"
+# Who will come to “Phoenicia?”
 
-At the time of the "Feeding of the five thousand,"  Jesus' fame as a healer and miracle worker had caused a major section of the Jewish nation to be ready to rise and follow him to death or glory as their Messiah—the one who would drive out the Romans and restore David's fabled kingdom, centered in Jerusalem.
+At the time of the “Feeding of the five thousand,”  Jesus' fame as a healer and miracle worker had caused a major section of the Jewish nation to be ready to rise and follow him to death or glory as their Messiah—the one who would drive out the Romans and restore David's fabled kingdom, centered in Jerusalem.
 
 Jesus himself pulled the plug on that expectation when, after the feeding of the five thousand, he turned down the crowd's attempt to crown him with David's crown. Their bitter disappointment, and the subsequent reaction against him, sparked a crisis in that the representatives of his Jerusalem enemies were able to gain Herod's permission for his arrest and removal for trial in Jerusalem.
 
@@ -30,7 +30,7 @@ For the gods of authoritarian religions, the nature of those gods is the inventi
 
 But the nature of the God of the religion of the spirit can be known only through revelation.
 
-Revelation may come via many different pathways. One feature it always must have is that it is recognizable by faith, and by faith alone. Revelation is never authoritarian in its own right. How can it be? For "God has decreed the sovereignty of the material and mortal will and that decree is absolute." (71)
+Revelation may come via many different pathways. One feature it always must have is that it is recognizable by faith, and by faith alone. Revelation is never authoritarian in its own right. How can it be? For “God has decreed the sovereignty of the material and mortal will and that decree is absolute.” (71)
 
 Thus the authority of true revelation, hence the religion of the spirit, derives from the free will choice of the individual—and its acceptance is purely through the faith of that individual.
 
@@ -38,9 +38,9 @@ The Urantia Papers expound the religion of the spirit, but denounce all religion
 
 One of the criteria of authoritarian religion is the fundamentalism that grants god-derived infallibility, sacredness, and/or power to its creeds, sacred literature, objects of worship, rituals, rules, laws and lore.
 
-Authoritarian religion apparently benefits two broad classes of adherent, one being those who wield  power and authority, the other being those individuals for whom it is provides a ready refuge to which "the distracted and distraught soul of man may flee when harassed by fear and tormented by uncertainty."
+Authoritarian religion apparently benefits two broad classes of adherent, one being those who wield  power and authority, the other being those individuals for whom it is provides a ready refuge to which “the distracted and distraught soul of man may flee when harassed by fear and tormented by uncertainty.”
 
-"Such a religion requires of its devotees, as the price to be paid for its satisfactions and assurances, only a passive and purely intellectual assent." (1729)
+“Such a religion requires of its devotees, as the price to be paid for its satisfactions and assurances, only a passive and purely intellectual assent.” (1729)
 
 Any form of fundamentalism that claims divine authority, and/or the infallibility of its belief system, cannot be anything other than authoritarian religion—no matter how well disguised.
 
@@ -48,11 +48,11 @@ Automatically, it must be in opposition to the free religion of the spirit as an
 
 The revelators of the Urantia Papers express their hope that modern followers of the Jesus' pathway will enable the restoration of what the early Christians knew—the reality of a personal, continuous, and spiritual relationship of the individual with the God-spirit within who is the one and only source of religious authority.
 
-The exclusive authority of the "god-spirit within" cannot be displaced by any book, being, or symbolism. Each individual is responsible for themselves.
+The exclusive authority of the “god-spirit within” cannot be displaced by any book, being, or symbolism. Each individual is responsible for themselves.
 
 The revelators also express the additional hope that their revelation will initiate a new mode of spiritual progress that will carry with it, not only the church that bears Jesus' name, but all other religions.
 
-Who will come to "Phoenicia" with Jesus?
+Who will come to “Phoenicia” with Jesus?
 
 # Jesus' Discourse on True Religion
 
@@ -78,11 +78,11 @@ Who will come to "Phoenicia" with Jesus?
 
 "You are my (new) apostles, and to you religion shall not become a theologic shelter to which you may flee in fear of facing the rugged realities of spiritual progress and idealistic adventure; but rather shall your religion become the fact of real experience which testifies that God has found you, idealized, ennobled, and spiritualized you, and that you have enlisted in the eternal adventure of finding the God who has thus found and son-shipped you.
 
-"And when Jesus had finished speaking, he beckoned, pointing to the west toward Phoenicia, said:  'Let us be on our way.'"
+“And when Jesus had finished speaking, he beckoned, pointing to the west toward Phoenicia, said:  'Let us be on our way.'”
 
 # Learning in Phoenicia
 
-"This world is only a bridge; you may pass over it, but you should not think to build a dwelling place upon it."
+“This world is only a bridge; you may pass over it, but you should not think to build a dwelling place upon it.”
 
 You cannot stand still. You must go forward in righteousness or retrogress into evil and sin.
 You must refuse to harbor even feelings of guilt. If you confess your sins, they are forgiven.
@@ -129,19 +129,19 @@ Arriving in Ashtaroth, John was surprised to discover a stranger preaching to th
 
 Effectively, to cast out devils meant to heal the sick and afflicted, for all such ills were, in those days, attributed to the work of devils.
 
-John Zebedee, and his brother James, had already earned for themselves the title of the "sons of thunder." This was because of a previous occasion when Samaritan villagers did not treat Jesus and his disciples with the deference that the brothers thought was their due. The Zebedee brothers thereupon requested Jesus to call down fire from the heavens to destroy the "disrespectful Samaritans."
+John Zebedee, and his brother James, had already earned for themselves the title of the “sons of thunder.” This was because of a previous occasion when Samaritan villagers did not treat Jesus and his disciples with the deference that the brothers thought was their due. The Zebedee brothers thereupon requested Jesus to call down fire from the heavens to destroy the “disrespectful Samaritans.”
 
-True to form, John took offence and proceeded to chastise the stranger who, "had never been with us, neither does he follow after us." John presumed that the stranger had no authority to do such things and took it upon himself to impose a ban. However, it was John who had to eat humble pie, for he could do nothing when the stranger completely ignored him.
+True to form, John took offence and proceeded to chastise the stranger who, “had never been with us, neither does he follow after us.” John presumed that the stranger had no authority to do such things and took it upon himself to impose a ban. However, it was John who had to eat humble pie, for he could do nothing when the stranger completely ignored him.
 
 John did the only thing he could—he retreated to Gamala, taking his case to Jesus whose response is tremendously important for all of his subsequent followers. Jesus said:
 
-"Forbid him not. Do you not perceive that this gospel of the kingdom shall presently be proclaimed in all the world? How can you expect that all who will believe the gospel shall be subject to your direction? Rejoice that already our teaching has begun to manifest itself beyond the bounds of our personal influence. Do you not see, John, that those who profess to do great works in my name must eventually support our cause? They certainly will not be quick to speak evil of me. My son, in matters of this sort it would be better for you to reckon that he who is not against us is for us. In the generations to come many who are not wholly worthy will do many strange things in my name, but I will not forbid them. I tell you that, even when a cup of cold water is given to a thirsty soul, the Father's messengers shall ever make record of such a service of love." (1764)
+“Forbid him not. Do you not perceive that this gospel of the kingdom shall presently be proclaimed in all the world? How can you expect that all who will believe the gospel shall be subject to your direction? Rejoice that already our teaching has begun to manifest itself beyond the bounds of our personal influence. Do you not see, John, that those who profess to do great works in my name must eventually support our cause? They certainly will not be quick to speak evil of me. My son, in matters of this sort it would be better for you to reckon that he who is not against us is for us. In the generations to come many who are not wholly worthy will do many strange things in my name, but I will not forbid them. I tell you that, even when a cup of cold water is given to a thirsty soul, the Father's messengers shall ever make record of such a service of love.” (1764)
 
 The first two articles in this issue discuss the difference between Jesus' religion, a religion of the spirit, and religions of authority, the religions of men. Religion of the spirit is entirely spiritual. It is between two individual beings, one of them human, the other divine, the indwelling spirit of God.
 
 Religion of the spirit may be revelatory and  authoritative to the individual who receives it.  But there, its divine authority ceases, for there is no possible way it can be transferred to others without involving human beings other than the initial recipient.
 
-"Nothing which human nature has touched can be regarded as infallible. Through the mind of man divine truth may indeed shine forth, but always of relative purity and partial divinity. The creature may crave infallibility, but only the Creators possess it." (1768)
+“Nothing which human nature has touched can be regarded as infallible. Through the mind of man divine truth may indeed shine forth, but always of relative purity and partial divinity. The creature may crave infallibility, but only the Creators possess it.” (1768)
 
 Jesus' religion, the religion of the spirit, is  quite unique on Urantia. It is a contract between each of us, individually, and our God. There is no other religion of the spirit presently on this planet, and there can be no other until Jesus returns, for its authority devolves upon the authoritative party being of Creator status.
 
@@ -151,49 +151,49 @@ The religions of men may, of course, make their own rules and regulations for me
 
 The incident at Ashtaroth is important. Like John, there are always pretenders around who, given the slightest opportunity, will seek power and authority. That is the nature of the beast—to be bestial in nature—for that is the origin of this lust for power that afflicts us.
 
-Later, John grew out of his earlier tendencies, eventually becoming the best loved of all the apostles—and earning the title, "the apostle of love."
+Later, John grew out of his earlier tendencies, eventually becoming the best loved of all the apostles—and earning the title, “the apostle of love.”
 
-# "Process Theology and the Urantia Papers"
+# “Process Theology and the Urantia Papers”
 
-When visits to our web site, which has the above  title, commenced to exceed five hundred per day, compared to the fifty visits per week of its sister site, "An Introduction to The Urantia Book," we were forced to the realization that here, at last, is a way to introduce academically-minded Christians to the Urantia Papers.
+When visits to our web site, which has the above  title, commenced to exceed five hundred per day, compared to the fifty visits per week of its sister site, “An Introduction to The Urantia Book,” we were forced to the realization that here, at last, is a way to introduce academically-minded Christians to the Urantia Papers.
 
 Not that we should have been so surprised, for the now deceased reader, Dr Jim Mills, had dedicated the last years of his life to conveying that very message to Urantia Book readers—and had tirelessly presented his ideas on process theology to study groups over a long period. But for Jim, the medium of the internet and the world wide web were unavailable, and books published at great expense were the only unrealistic alternative. 
 
 It is the pure power of this new medium that now presents to Urantia Book readers a golden opportunity to share the teachings of the Papers with those modern day Christians who, unknowingly, have almost identical basic concepts about deity and the meaning of the Fourth Epochal revelation as are presented in the Fifth.
 
-The virtue of this newly discovered fact is that "those far seeing and forward-looking men and women of spiritual insight" who also possess a God-given gift enabling them to master both the obscure language and ideas of traditional philosophy and theology, and the more esoteric ideas about deity and reality as presented in the Urantia Papers, now have a remarkable, unique, and unexpected opportunity.
+The virtue of this newly discovered fact is that “those far seeing and forward-looking men and women of spiritual insight” who also possess a God-given gift enabling them to master both the obscure language and ideas of traditional philosophy and theology, and the more esoteric ideas about deity and reality as presented in the Urantia Papers, now have a remarkable, unique, and unexpected opportunity.
 
 Through the medium of the internet and the web, it is now possible to take the content of the Urantia Papers directly to the heartland of the Christianity of the future—those academic colleges, universities, and theological institutions  where the true meaning of Jesus' revelation of the Father will be thrashed out, revised, and revealed anew, just as it is foretold  in the Papers:
 
-"Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail." (2096)
+“Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail.” (2096)
 
 What follows has been abstracted from review articles to try to convey to readers common points for contact between the Fifth Epochal Revelation and modern process theology, with the hope that some may be inspired into undertaking the necessary in-depth studies required to build bridges between The Urantia Book and the new theology of the Christian church that will be.
 
 Perhaps it was the intention of the revelators to signify their approval of process theology when they used, word for word, a quotation from the works of Charles Hartshorne, a former student and associate of the creator of modern process philosophy, Alfred North Whitehead. Almost alone, Hartshorne kept the thought of Whitehead alive during the worst days of materialistic determinism until new scientific discoveries destroyed such concepts and re-opened  twentieth century minds to indeterminism, uncertainty, free will, consciousness, self-awareness, and God.
 
-At a time when it had come to be believed that what cannot be weighed does not exist, this new thought of Whitehead was virtually "off the planet."
+At a time when it had come to be believed that what cannot be weighed does not exist, this new thought of Whitehead was virtually “off the planet.”
 
-Whitehead proposed that the basic units of reality were not bricks and mortar but momentary "occasions of experience" that flashed into existence, possibly influenced other such moments, and disappeared into from whence they had come.
+Whitehead proposed that the basic units of reality were not bricks and mortar but momentary “occasions of experience” that flashed into existence, possibly influenced other such moments, and disappeared into from whence they had come.
 
-How could such an outrageous proposal expect other than a label of "rubbish" at the height of an age of deterministic materialism?
+How could such an outrageous proposal expect other than a label of “rubbish” at the height of an age of deterministic materialism?
 
 But not long after Whitehead published his work, Dutch physicist Hendrik Casimir published his proposal that the vacuum of space seethes with virtual particles that pop into existence for a moment of time, enjoy their moment of reality, then disappear forever. Casimir also published proposals on how to demonstrate such particles and how to make them become real. Both objectives have since been achieved.
 
 For the materialist, reality is matter and virtually all else is illusion. For the physicist, the matter of the materialist dissolves reversibly into structure-less energy but in a manner consistent with a precise and quantitative balance sheet. For Whitehead, reality is God and all else is flux—process.
 
-From God comes Whitehead's basic unit of reality, the "actual occasion" or "actual entity." Both God and this basic unit are dipolar, each having a "mental" pole and a "physical pole."
+From God comes Whitehead's basic unit of reality, the “actual occasion” or “actual entity.” Both God and this basic unit are dipolar, each having a “mental” pole and a “physical pole.”
 
-God's "physical pole" is that by which he "feels" and takes in "actual occasions" as complete entities and in so doing, gives them "objective immortality" by his valuation of what they are. God then "gives back" to the world the data for these objectified entities enabling the world process to continue and be enriched by what is past. God's "physical pole" belongs with his "consequent nature."
+God's “physical pole” is that by which he “feels” and takes in “actual occasions” as complete entities and in so doing, gives them “objective immortality” by his valuation of what they are. God then “gives back” to the world the data for these objectified entities enabling the world process to continue and be enriched by what is past. God's “physical pole” belongs with his “consequent nature.”
 
-God's mental pole is that by which he exerts a supreme influence upon all "actual entities," setting the limits of their creativity and their "subjective aims" with which each is supplied at its moment of creation. God's "mental pole" is also that in which he envisions all "eternal objects" and their values as they relate to the world. God's mental pole belongs with his transcendental "primordial nature."
+God's mental pole is that by which he exerts a supreme influence upon all “actual entities,” setting the limits of their creativity and their “subjective aims” with which each is supplied at its moment of creation. God's “mental pole” is also that in which he envisions all “eternal objects” and their values as they relate to the world. God's mental pole belongs with his transcendental “primordial nature.”
 
-"Eternal objects" are the abstract possibilities of the universe. "Actual entities" utilize the available abstract possibilities to become "real" during their moment of being. In that moment, they feel or "prehend" the reality of other "actual entities" and, in so doing,  become internally related to them. "Prehension" or "feeling" is associated with the "physical pole." It is not a conscious or intelligent act except with the higher forms of life.
+“Eternal objects” are the abstract possibilities of the universe. “Actual entities” utilize the available abstract possibilities to become “real” during their moment of being. In that moment, they feel or “prehend” the reality of other “actual entities” and, in so doing,  become internally related to them. “Prehension” or “feeling” is associated with the “physical pole.” It is not a conscious or intelligent act except with the higher forms of life.
 
-The "mental pole" of an actual entity is that by which it senses the "subjective aim" given it by God at its moment of creation.
+The “mental pole” of an actual entity is that by which it senses the “subjective aim” given it by God at its moment of creation.
 
-All things can be explained as processes of "actual occasions," interrelated and varying in degree of complexity, with each occasion being partially self-created and partially influenced by other actual occasions.
+All things can be explained as processes of “actual occasions,” interrelated and varying in degree of complexity, with each occasion being partially self-created and partially influenced by other actual occasions.
 
-For Whitehead, God is the supreme, single, eternal actual entity who perfectly exhibits all the functions of all actual entities. By prehending and being prehended, God interacts with every being in the world during all those momentary events, the succession of occasions that constitute the "life" of any particular being.
+For Whitehead, God is the supreme, single, eternal actual entity who perfectly exhibits all the functions of all actual entities. By prehending and being prehended, God interacts with every being in the world during all those momentary events, the succession of occasions that constitute the “life” of any particular being.
 
 God is never coercive, always leading through sympathetic persuasion. In this way, God is radically immanent in the world, leading it on toward greater value and aesthetic intensity.
 
@@ -213,8 +213,8 @@ There are things we can know only through revelation, but even then we have the 
 
 However, relative to views on deity expressed in the Urantia Papers, particularly the role of the Supreme Being, Hartshorne has come much closer than did Whitehead to separating the transcendent God of infinity and eternity from a God who is fully operative in the finite world.
 
-For Hartshorne's God we have a new term, "panentheism" which means "all-in-God-ism." Hartshorne's God is more than the world in its totality, having his own transcendent self-identity, yet is a God who includes the world within himself by his knowledge and his love.
-Along with his "panentheistic" view of God, Hartshorne also became one of the chief protagonists in a twentieth century reassertion of the ontological argument in which, according to Hartshorne, Anselm really discovered something which was fundamental to the theistic "proofs."  Unfortunately, it appears Hartshorne had not caught up with Gödel and the newer notions of what constitutes rigorous proof.
+For Hartshorne's God we have a new term, “panentheism” which means “all-in-God-ism.” Hartshorne's God is more than the world in its totality, having his own transcendent self-identity, yet is a God who includes the world within himself by his knowledge and his love.
+Along with his “panentheistic” view of God, Hartshorne also became one of the chief protagonists in a twentieth century reassertion of the ontological argument in which, according to Hartshorne, Anselm really discovered something which was fundamental to the theistic “proofs.”  Unfortunately, it appears Hartshorne had not caught up with Gödel and the newer notions of what constitutes rigorous proof.
 
 The future
 
@@ -232,21 +232,21 @@ The previous article refers to the work of Gödel and other logicians who finall
 
 However, the proofs of the logician are about as comprehensible as Chinese to a deaf and blind parrot. So let's try another way of comprehending the incomprehensible.
 
-"This sentence cannot be proved."
+“This sentence cannot be proved.”
 
 To properly understand that sentence, we have to know the grammatical rules of the English language plus the precise meaning of each of its words. Given a year or two, and many reams of paper, an apprentice logician might come up with an inconsistency—a proof that effectively says that he/she has proved what cannot be proved.
 
-If the sentence had been written in all the languages of mankind, we would have needed a grammar and dictionary for each. So what we really need is a "meta-language," one that can state precisely what is required and how the requirements transform into each human language. Defining the meaning of language (or mathematics) from within itself spells trouble.
+If the sentence had been written in all the languages of mankind, we would have needed a grammar and dictionary for each. So what we really need is a “meta-language,” one that can state precisely what is required and how the requirements transform into each human language. Defining the meaning of language (or mathematics) from within itself spells trouble.
 
-A speck or two of thought may now help us realize that the rules for precise proofs of precise statements need to be formulated in a language different from and superior to the original language of formulation—a meta-language, a language above language. The "lower" can only be precisely defined and understood by that which is "higher."
+A speck or two of thought may now help us realize that the rules for precise proofs of precise statements need to be formulated in a language different from and superior to the original language of formulation—a meta-language, a language above language. The “lower” can only be precisely defined and understood by that which is “higher.”
 
 Carrying the basic concept into another area, we should be able to comprehend that a creature cannot successfully define the nature of its creator.
 
-Mankind cannot define what God can "be" or "do."  Nor can man define what, how, or how much revelators can reveal. Things would be simpler if we recognized our limitations.
+Mankind cannot define what God can “be” or “do.”  Nor can man define what, how, or how much revelators can reveal. Things would be simpler if we recognized our limitations.
 
 # Out of Date? On Facing Reality!
 
-"We full well know that, while the historic facts and religious truths of this series of revelatory presentations will stand on the records of the ages to come, within a few short years many of our statements regarding the physical sciences will stand in need of revision in consequence of additional scientific developments and new discoveries. These new developments we even now foresee, but we are forbidden to include such humanly undiscovered facts in the revelatory records. Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired. It is limited by our permission for the co-ordination and sorting of present-day (pre-1934) knowledge. While divine or spiritual insight is a gift, human wisdom must evolve." (1109)
+“We full well know that, while the historic facts and religious truths of this series of revelatory presentations will stand on the records of the ages to come, within a few short years many of our statements regarding the physical sciences will stand in need of revision in consequence of additional scientific developments and new discoveries. These new developments we even now foresee, but we are forbidden to include such humanly undiscovered facts in the revelatory records. Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired. It is limited by our permission for the co-ordination and sorting of present-day (pre-1934) knowledge. While divine or spiritual insight is a gift, human wisdom must evolve.” (1109)
 
 Let it be made clear. We were warned. But, somehow or other, Urantia Book fundamentalists have been able to twist the mandate remarks of the revelators so that they hear what they want so desperately to hear—a revelation that provides the certainty for which so many have longed. However, that is a certainty which was specifically forbidden to the revelators.
 
@@ -256,7 +256,7 @@ In vain did the revelators rattle the door handle. And just as was their expecta
 
 The revelators informed us that a cosmology was being provided to give us a framework—a backdrop—against which we could understand our universe career. It only needed to be roughly true. In fact it did not need to be true at all, so long as it portrayed a comprehensible backdrop that was relevant.
 
-That was back in the mid-1930's. Since that time, more progress has been made among the general community towards a scientific understanding of the "world as a whole"—its cosmology—than in the previous 2000 years.
+That was back in the mid-1930's. Since that time, more progress has been made among the general community towards a scientific understanding of the “world as a whole”—its cosmology—than in the previous 2000 years.
 
 In the mid-1930's, there was absolutely no way the revelators could have come even close to revealing what we now know about our universe—except that they totally disregarded their mandate.
 
@@ -264,8 +264,8 @@ And if they had done so, they would have been enlisting with Lucifer's mob.
 
 What is done is done. We now have to live with it. What can we do with a revelation that preaches a cosmology that even high school kids know is false? And tertiary students reject as rubbish?
 
-Only the truth can heal the wounds. We have no choice but to admit our pig-headedness then look for ways and means to repair the damage. It seems obvious that the revelators expected what was actually done. Hence they must consider the situation is reversible, for do they not tell us, "the revelation of God to the world, in and through Jesus, shall not fail."
-One way might be that a new edition of the book commences with an explanation bringing notice to the terms of the mandate. It could also refer to the multitude of human sources. (1343) The term "cosmology." as used in the book, needs to be understood as a metaphysical term that deals with the world as a whole—not simply with its current meaning as "astrophysics only."
+Only the truth can heal the wounds. We have no choice but to admit our pig-headedness then look for ways and means to repair the damage. It seems obvious that the revelators expected what was actually done. Hence they must consider the situation is reversible, for do they not tell us, “the revelation of God to the world, in and through Jesus, shall not fail.”
+One way might be that a new edition of the book commences with an explanation bringing notice to the terms of the mandate. It could also refer to the multitude of human sources. (1343) The term “cosmology.” as used in the book, needs to be understood as a metaphysical term that deals with the world as a whole—not simply with its current meaning as “astrophysics only.”
 
 However such suggestions may fail. It may  even be necessary that younger, more enlightened readers will have to await suitable circumstances for the opportunity to take appropriate remedial action.
 
@@ -273,21 +273,21 @@ By then the copyright may also have expired and it will be possible to print the
 
 But none of this may work. Over and over the statement is repeated in the book that our mission to the world must consist in the life that we live—the actual living experience of loving men and serving them, as Jesus loved and served us.
 
-Along with the fundamentalism of the early Urantia movement, there flowed an undercurrent of confidence that it was the book itself, rather than the truths it propounded, which would lead us to "light and life."
+Along with the fundamentalism of the early Urantia movement, there flowed an undercurrent of confidence that it was the book itself, rather than the truths it propounded, which would lead us to “light and life.”
 
 But, for certain, there was no plethora of outstanding visible signs among the Urantia movement members by which an external world could credibly bear witness to lives having been transformed into working replicas of the life that Jesus lived among us.
 
-The ideal for us is set out on p. 2044. "You shall love one another with a new and startling affection. You will serve mankind with a new and amazing devotion, even as I have served you. And when men see you so love them, and when they behold how fervently you serve them, they will perceive that you have become faith-fellows of the kingdom of heaven, and they will follow after the Spirit of Truth which they see in your lives, to the finding of eternal salvation."
+The ideal for us is set out on p. 2044. “You shall love one another with a new and startling affection. You will serve mankind with a new and amazing devotion, even as I have served you. And when men see you so love them, and when they behold how fervently you serve them, they will perceive that you have become faith-fellows of the kingdom of heaven, and they will follow after the Spirit of Truth which they see in your lives, to the finding of eternal salvation.”
 
 It appears to be quite probable that Urantia Book adherents will not bear this kind of spiritual fruit until and unless actual service organizations are established that, at the same time, bear witness to the Urantia revelation.
 
-Those familiar with the "grinding poverty" scene will well know the phrase, "Thank God for the Salvos." Maybe there will be little progress with the Urantia revelation until "Thank God for the Urantians" also becomes familiar among those in desperate need.
+Those familiar with the “grinding poverty” scene will well know the phrase, “Thank God for the Salvos.” Maybe there will be little progress with the Urantia revelation until “Thank God for the Urantians” also becomes familiar among those in desperate need.
 
 # Really Out of Date!
 
 Ken Glasziou
 
-More than twenty five years ago, when reading The Urantia Book account of the early geological history of our planet, I noticed some statements about the growth of the planet and its moon, and also ocean formation, that struck me as being rather odd. However this material was followed by the book's account of continental breakup and the subsequent continental drift. I found this exciting—and that caused me to overlook the "odd" material until quite recently.
+More than twenty five years ago, when reading The Urantia Book account of the early geological history of our planet, I noticed some statements about the growth of the planet and its moon, and also ocean formation, that struck me as being rather odd. However this material was followed by the book's account of continental breakup and the subsequent continental drift. I found this exciting—and that caused me to overlook the “odd” material until quite recently.
 
 The book's account of continental drift was exceedingly prophetic if made in 1934 or even up to the time of first publication in 1955. I had once done a three semester undergraduate course in geology and distinctly remembered how the lecturer had quickly dismissed the continental drift theory of Alfred Wegener with the brief comment that there were no known physical forces that could possibly account for the splitting apart of whole continents.
 
@@ -297,7 +297,7 @@ This opposition remained until around 1960 when geophysical surveys of the mid-o
 
 Further clinching the prophetic nature of the Urantia Book account, later geophysical work revealed that the initial breakup of a supercontinent, as proposed by Wegener,  actually occurred much earlier than the 200 to 250 million years he allowed. Gradually this date was pushed back to about 500 to 600 million years to finally coincide with the Urantia Book's 750 million years BCE.
 
-My memory of the book's "odd" account for the early formation of our planet-moon system was stimulated by a recent TV documentary on the Apollo missions to the moon starting back in the 1970's, and the contemporaneous Russian missions that also contributed a tremendous amount of valuable new scientific knowledge.
+My memory of the book's “odd” account for the early formation of our planet-moon system was stimulated by a recent TV documentary on the Apollo missions to the moon starting back in the 1970's, and the contemporaneous Russian missions that also contributed a tremendous amount of valuable new scientific knowledge.
 
 Particularly the Americans, but also the Russians, had done remarkable things that now allow us to get a much better picture of how our Earth-Moon system developed and grew. Much of this was brought about because of the extensive sampling of geological materials from many sites on both sides of the Moon, including the highest mountains, the larva plains known as mares, and many of the impact craters formed by meteors.
 
@@ -348,9 +348,9 @@ The reason for such divergences is consistent with statements in the book that p
 
 It appears that the revelators were required to provide a framework of knowledge about Paradise, the Central Universe, the heavenly hierarchy, the universes, our own solar system, and the development of  intelligent life and human society on our own planet, all so that we could better understand our place in the overall scheme of things. (1260) But they were not allowed to tell us what we did not know pre-1934.
 
-Working under this restriction placed the revelators in an extraordinarily difficult position. They could not complete their task satisfactorily—except they used "fill" material that would serve the purpose, even though not correct. We now know that they obtained this "fill" from the speculations of contemporary scientists—among them Moulton, Jeans, Chamberlin and Geoffreys.
+Working under this restriction placed the revelators in an extraordinarily difficult position. They could not complete their task satisfactorily—except they used “fill” material that would serve the purpose, even though not correct. We now know that they obtained this “fill” from the speculations of contemporary scientists—among them Moulton, Jeans, Chamberlin and Geoffreys.
 
-A comparison of what they gave us with that  from modern science tells us that, despite the inconsistencies, the value of their account as a "universe frame" (1260) for understanding our universe careers remains quite undiminished.
+A comparison of what they gave us with that  from modern science tells us that, despite the inconsistencies, the value of their account as a “universe frame” (1260) for understanding our universe careers remains quite undiminished.
 
 But it does add a new dimension. It will prevent any realistic, long term use of the revelation as a fundamentalist icon of infallibility. And it may yet prove to be the catalyst that unlocks the fossilization process in so many moribund minds among the Urantia movement's bureaucracy.
 

@@ -12,31 +12,31 @@ If, then, the spirit dwells within you, you are no longer bondslaves of the fles
 
 Ken Glasziou
 
-Meaning of "cosmology"
+Meaning of “cosmology”
 
-What is the real meaning of the word "cosmology?" Currently it is used almost exclusively as relating to the physics and astronomy of the universe. But this exclusivity is quite recent. The "Oxford Companion to Philosophy1" of 1995 describes cosmology in these terms, "Traditionally a branch of metaphysics dealing with features of the world as a whole, though the term can be used synonymously with speculative philosophy in its widest sense." 
+What is the real meaning of the word “cosmology?” Currently it is used almost exclusively as relating to the physics and astronomy of the universe. But this exclusivity is quite recent. The “Oxford Companion to Philosophy1” of 1995 describes cosmology in these terms, “Traditionally a branch of metaphysics dealing with features of the world as a whole, though the term can be used synonymously with speculative philosophy in its widest sense.” 
 
-The meaning of cosmology was widely known in the early part of this century in its relation to the theistic arguments of Thomas Aquinas that became known as the "cosmological argument." Many believed that this argument constituted a complete proof of the existence of God. Put crudely, the argument followed the line that everything must have a cause, hence giving rise to an infinite regression that could only terminate with something that is uncaused. This something is "First Cause" or "Uncaused Cause" or alternatively, "God."
+The meaning of cosmology was widely known in the early part of this century in its relation to the theistic arguments of Thomas Aquinas that became known as the “cosmological argument.” Many believed that this argument constituted a complete proof of the existence of God. Put crudely, the argument followed the line that everything must have a cause, hence giving rise to an infinite regression that could only terminate with something that is uncaused. This something is “First Cause” or “Uncaused Cause” or alternatively, “God.”
 
-The truth of the "cosmological argument" was embraced by many well known philosophers and theologians including even Bertrand Russel in his early career. It is the subject of a recent book, "The Cosmological Argument" by William Rowe2. "Cosmology" is derived from the Greek word  kosmos, to which Hartrampf's Vocabularies of  1929 gave the meaning as "harmony," while The Concise Oxford Dictionary (revised edition of 1929) gave it as the "sum total of experience."
+The truth of the “cosmological argument” was embraced by many well known philosophers and theologians including even Bertrand Russel in his early career. It is the subject of a recent book, “The Cosmological Argument” by William Rowe2. “Cosmology” is derived from the Greek word  kosmos, to which Hartrampf's Vocabularies of  1929 gave the meaning as “harmony,” while The Concise Oxford Dictionary (revised edition of 1929) gave it as the “sum total of experience.”
 
-When the Urantia Papers were received in 1934/5, the general usage of "cosmology" in the English-speaking world would appear to have been reasonably described by the phrase, "the sum total of experience including experience of the universe as a whole." The revelators use the term "universe frame" in this same sense.
+When the Urantia Papers were received in 1934/5, the general usage of “cosmology” in the English-speaking world would appear to have been reasonably described by the phrase, “the sum total of experience including experience of the universe as a whole.” The revelators use the term “universe frame” in this same sense.
 
-"Universe frame" equals "cosmology"
+“Universe frame” equals “cosmology”
 
-"Partial, incomplete, and evolving intellects would be helpless in the master universe, would be unable to form the first rational thought pattern, were it not for the innate ability of all mind, high or low, to form a universe frame in which to think. If mind cannot fathom conclusions, if it cannot penetrate to true origins, then will such mind unfailingly postulate conclusions and invent origins that it may have a means of logical thought within the frame of these mind-created postulates. And while such universe frames for creature thought are indispensable to rational intellectual operations, they are, without exception, erroneous to a greater or lesser degree." (1260)
+“Partial, incomplete, and evolving intellects would be helpless in the master universe, would be unable to form the first rational thought pattern, were it not for the innate ability of all mind, high or low, to form a universe frame in which to think. If mind cannot fathom conclusions, if it cannot penetrate to true origins, then will such mind unfailingly postulate conclusions and invent origins that it may have a means of logical thought within the frame of these mind-created postulates. And while such universe frames for creature thought are indispensable to rational intellectual operations, they are, without exception, erroneous to a greater or lesser degree.” (1260)
 
-When does our intellect cease to evolve and become complete? Since a Divine Counselor who has many times been in the presence of the Universal Father freely states, "we do not know," (87, 104, 107, etc.), the answer to that question must be "never." Logically, it follows that the universe frame in which each of us thinks will always be erroneous to a greater or lesser degree. This conclusion must apply to all created beings, a statement confirmed in the Papers in a different context where we are informed that infallibility is possessed only by those of creator status. (1768)
+When does our intellect cease to evolve and become complete? Since a Divine Counselor who has many times been in the presence of the Universal Father freely states, “we do not know,” (87, 104, 107, etc.), the answer to that question must be “never.” Logically, it follows that the universe frame in which each of us thinks will always be erroneous to a greater or lesser degree. This conclusion must apply to all created beings, a statement confirmed in the Papers in a different context where we are informed that infallibility is possessed only by those of creator status. (1768)
 
 Universe frames and cosmologies are always erroneous
 
-None of the revelators were of creator status. Hence, just as our cosmology must always be a part of the "universe frame" in which we think, so must the cosmology of the authors of the Urantia Papers have been part of their "universe frame." It follows, therefore, that the cosmology of the Urantia Papers must be erroneous to some degree. Fundamentalists please note that this conclusion derives directly from the revelators own statements and is quite independent of the ambiguous phrasing of the mandate.
+None of the revelators were of creator status. Hence, just as our cosmology must always be a part of the “universe frame” in which we think, so must the cosmology of the authors of the Urantia Papers have been part of their “universe frame.” It follows, therefore, that the cosmology of the Urantia Papers must be erroneous to some degree. Fundamentalists please note that this conclusion derives directly from the revelators own statements and is quite independent of the ambiguous phrasing of the mandate.
 
 Urantia Book science as universe frame
 
-What was the purpose of including science materials in the cosmology in the Papers? It certainly was not for our enlightenment, for the mandate (1109) informs us that the imparting of unearned knowledge is proscribed. Surely then it was for the purpose of giving us a temporary but more realistic universe frame in which to think, a frame that would be useful for many generations to come. However, we can be sure it was not to give us a plethora of new knowledge of a scientific nature that would demonstrate the credentials of the revelators. The Papers tell us that the "miracle" pathway to God mostly ends in a dismal debacle—and making sense of science is a task we need to do for ourselves.
+What was the purpose of including science materials in the cosmology in the Papers? It certainly was not for our enlightenment, for the mandate (1109) informs us that the imparting of unearned knowledge is proscribed. Surely then it was for the purpose of giving us a temporary but more realistic universe frame in which to think, a frame that would be useful for many generations to come. However, we can be sure it was not to give us a plethora of new knowledge of a scientific nature that would demonstrate the credentials of the revelators. The Papers tell us that the “miracle” pathway to God mostly ends in a dismal debacle—and making sense of science is a task we need to do for ourselves.
 
-Prior to the revelators description of the heavenly hierarchy and our universe careers, the only things we knew for certain about an afterlife were given to us by Jesus. These were that, "in my Father's house there are many mansions" and, in heaven, we "are not taken or given in marriage but are as the angels." The revelation banished our ignorance, thereby providing us with a whole new conceptual outlook for the meaning of creature life, its purpose and its goals.
+Prior to the revelators description of the heavenly hierarchy and our universe careers, the only things we knew for certain about an afterlife were given to us by Jesus. These were that, “in my Father's house there are many mansions” and, in heaven, we “are not taken or given in marriage but are as the angels.” The revelation banished our ignorance, thereby providing us with a whole new conceptual outlook for the meaning of creature life, its purpose and its goals.
 
 Most Urantia Book science is from outmoded text books of early 1900's period
 
@@ -60,16 +60,16 @@ However in view of the demands to reveal error, we feel it is necessary to catal
 
 In the last two decades, enormous advances have been made in the correct determining of ages of sedimentary and other rock strata. There is no use in still throwing up the criticism that radiotracer dating is unreliable. In any case, it was never the technology that was the main problem for it was highly accurate. Rather, it was the sampling methods and the interpretation of their results by field workers with little knowledge of basic science that was the main cause of confusion.
 
-From the modern work, there can be no reasonable doubt that sedimentary beds, including stromatolites, were being laid down in oceanic environments between 3 and 4 billion years ago. The ancient stromatolite we showed was the result of the activities of photosynthetic bacteria—which means that bacterial "life" has been present on the planet, and in an oceanic environment, almost as soon as Urantia was cool enough and hospitable enough to permit life to exist. Thus new readers must be confused when they read that the first life implantations were made about half a billion years ago!
+From the modern work, there can be no reasonable doubt that sedimentary beds, including stromatolites, were being laid down in oceanic environments between 3 and 4 billion years ago. The ancient stromatolite we showed was the result of the activities of photosynthetic bacteria—which means that bacterial “life” has been present on the planet, and in an oceanic environment, almost as soon as Urantia was cool enough and hospitable enough to permit life to exist. Thus new readers must be confused when they read that the first life implantations were made about half a billion years ago!
 
 More incompatibilities
 
-A reading of the Urantia Paper's account of this period (page 658 through to 660), in which the primitive ocean is said to first appear just one billion years ago compared to the 3 billion years indicated by some stromatolites, will show to those with sufficiently open minds that the account given in the Papers is totally incompatible with findings of modern paleontology and geology. The reason of course is simple. Something along the lines of the account given in The Urantia Book was one of the many current theories circulating in the early part of the century—and the revelators were following the instructions of the mandate in using one of them to fill a gap in their story. For the purpose of providing a "universe frame in which to think," it was quite adequate.
+A reading of the Urantia Paper's account of this period (page 658 through to 660), in which the primitive ocean is said to first appear just one billion years ago compared to the 3 billion years indicated by some stromatolites, will show to those with sufficiently open minds that the account given in the Papers is totally incompatible with findings of modern paleontology and geology. The reason of course is simple. Something along the lines of the account given in The Urantia Book was one of the many current theories circulating in the early part of the century—and the revelators were following the instructions of the mandate in using one of them to fill a gap in their story. For the purpose of providing a “universe frame in which to think,” it was quite adequate.
 
 Error, mythology and universe frames
 
 The truth of this conclusion dawned upon me when I realized that my personal universe frame was not altered in any significant way regardless of which version of Urantia's geological history the revelators had chosen to use. All were incorrect and the revelators were not permitted to provide unearned knowledge. They assessed that a stop gap version was better for their purpose than some statement to the effect that they could say nothing.
-A little thought will bring the realization that the exact details of Urantia's geological history have no significance for the kind of "universe frame" the revelators wished to provide. And, in fact, it is easily conceivable that the provision of the exact details would ultimately bring more harm than good.  For example, it was the experience of Jesus and his disciples that miraculous events heightened the demand for more miracles but seldom brought recipients closer to God.
+A little thought will bring the realization that the exact details of Urantia's geological history have no significance for the kind of “universe frame” the revelators wished to provide. And, in fact, it is easily conceivable that the provision of the exact details would ultimately bring more harm than good.  For example, it was the experience of Jesus and his disciples that miraculous events heightened the demand for more miracles but seldom brought recipients closer to God.
 
 Soon after, it also dawned upon me that stories such as that of Adam and Eve in the Garden of Eden were also in this category. My universe frame is not significantly different whether that story is true or whether part or all of it is mythological and has some greater meaning or purpose.
 
@@ -83,11 +83,11 @@ This modern view is based on actual measurements of Earth, lunar, and meteoric m
 
 Error is liberating!
 
-However as a stop gap to complete a "universe frame" by the revelators, the book's picture is entirely adequate. That it is erroneous has absolutely no significant effect upon, for example, my own  "universe frame" which is derived directly from that given by the revelators. The fine detail of The Urantia Book's account of planetary origins is of no importance relative to the overall cosmology presented in the book. For me, the importance of its "universe frame" must be seen in terms of its spiritual and not its material content.
+However as a stop gap to complete a “universe frame” by the revelators, the book's picture is entirely adequate. That it is erroneous has absolutely no significant effect upon, for example, my own  “universe frame” which is derived directly from that given by the revelators. The fine detail of The Urantia Book's account of planetary origins is of no importance relative to the overall cosmology presented in the book. For me, the importance of its “universe frame” must be seen in terms of its spiritual and not its material content.
 
 Bigoted or simply foolish?
 
-About fifty years ago, I became engaged in a discussion with a minister of religion on some recent fossil discoveries. It happened that I was unaware that he had a fundamentalist attitude to the Bible. Apparently some comment I made was contrary to his "universe frame," and I received a long lecture on the infallibility of the biblical account which, according to him, made the age of the creation about 6000 years. When I inquired about the presence of fossils in rocks that appeared to be millions of years old, I was informed that God made it that way to confuse unbelievers like me.
+About fifty years ago, I became engaged in a discussion with a minister of religion on some recent fossil discoveries. It happened that I was unaware that he had a fundamentalist attitude to the Bible. Apparently some comment I made was contrary to his “universe frame,” and I received a long lecture on the infallibility of the biblical account which, according to him, made the age of the creation about 6000 years. When I inquired about the presence of fossils in rocks that appeared to be millions of years old, I was informed that God made it that way to confuse unbelievers like me.
 
 Among  Urantia Book readers, there are those with closed minds who class readers like me as unbelievers—just as did that Episcopalian minister. These same fundamentalist readers also insist that if any scientific evidence disagrees with The Urantia Book account, then it is science that is wrong. Recently one such reader has been injecting information from The Urantia Book into an Internet discussion forum on evolution—and has drawn the correct response (plus much derision) that many of the book's outdated statements come from high school text books of the 1930's. This is the truth, but is entirely in accord with what the revelators have themselves told us.
 
@@ -109,14 +109,14 @@ Reckoning for both of Christianity's Easter and Pentecost celebrations follows t
 
 Why is it so?
 
-I also find it impossible to conceive that the Midwayers of all people, could have made this set of errors. Neither can I understand how the errors were overlooked by the large number of people reputed to have read the Papers during and after their receipt. The fact that Dr Sadler and others knew about the forty day error when the book went to press is discussed in  "Notes on the Forty Day Error" an addendum to the article "Forty Days and Forty Nights," both of which appear later in this issue.
+I also find it impossible to conceive that the Midwayers of all people, could have made this set of errors. Neither can I understand how the errors were overlooked by the large number of people reputed to have read the Papers during and after their receipt. The fact that Dr Sadler and others knew about the forty day error when the book went to press is discussed in  “Notes on the Forty Day Error” an addendum to the article “Forty Days and Forty Nights,” both of which appear later in this issue.
 
 At enormous risk to life and limb, I'm forced to speculate that since the presence of the error was known before the printing of the book, correction was probably refused by the revelators. Why? Well, perhaps  to discourage attempts to attribute infallibility to the book, something that was already then occurring.
 
 ## References
 
-1. Honderich, T. (Editor) "The Oxford Companion to Philosophy" (Oxford University Press, 1995. Oxford)
-2. Rowe, William "The Cosmological Argument" (Princeton, NJ, 1975)
+1. Honderich, T. (Editor) “The Oxford Companion to Philosophy” (Oxford University Press, 1995. Oxford)
+2. Rowe, William “The Cosmological Argument” (Princeton, NJ, 1975)
 
 # What I Wish I Had Known at Eighteen
 
@@ -127,15 +127,15 @@ That it is easier to feel than to think, and easier to feel hate than to feel lo
 That we should be firmly resistant toward ideas we believe to be wrong, but immensely tolerant toward people who hold such ideas, never for a moment confusing the person with the idea, which is the besetting sin of bigotry in all its manifold forms.
 That every time we use a person for our own purpose, ignoring their needs, we diminish ourselves  more than we diminish them, for theirs is a wound that could heal, while ours is an amputation that cannot grow back.
 That our differences are superficial, and our similarities are profound; and those who are afraid to acknowledge the similarities are forced to live—and die—by the differences.
-That most of what we call "love" is a form of vanity, and that the genuine thing (far from being as common as grass) is as rare as holiness, or courage, or wisdom, which have a million counterfeits for every one real manifestation.
+That most of what we call “love” is a form of vanity, and that the genuine thing (far from being as common as grass) is as rare as holiness, or courage, or wisdom, which have a million counterfeits for every one real manifestation.
 That we learn only what becomes part of us; abstract knowledge is not only useless but dangerous until we have assimilated it to the core of our personality.
 That human society is confined in a lifeboat, not dispersed on an ocean liner; and unless each one is permitted the same rights, they will not assume the same responsibilities, and the lifeboat has no chance to survive.
-That "education" is not a formal discipline, but an attitude, an approach, an appetite, an ongoing process that must begin in the home atmosphere if it is to be successfully transmitted to the outer world.
-That the two greatest threats to the security of civilization come from the "absolutists" who think they know precisely what is right and wrong, and from the "relativists" who insist there is no right and wrong—for each doctrine, pushed to its ultimate, leads to death by suffocation or by fragmentation.
+That “education” is not a formal discipline, but an attitude, an approach, an appetite, an ongoing process that must begin in the home atmosphere if it is to be successfully transmitted to the outer world.
+That the two greatest threats to the security of civilization come from the “absolutists” who think they know precisely what is right and wrong, and from the “relativists” who insist there is no right and wrong—for each doctrine, pushed to its ultimate, leads to death by suffocation or by fragmentation.
 
 # Forty Days and Forty Nights
 
-A previous article in this issue discussed the strange and quite astonishing error in Part 4 of The Urantia Book regarding its use of a forty day interval elapsing between the time of Jesus crucifixion on the eve of the Jewish Passover and the time of his ascension on the day appointed for the feast of Pentecost. This ancient Jewish harvest festival came seven weeks and one day after Passover, a fifty day period  that derived its name from the Greek word "pentekostos" which means fifty days.
+A previous article in this issue discussed the strange and quite astonishing error in Part 4 of The Urantia Book regarding its use of a forty day interval elapsing between the time of Jesus crucifixion on the eve of the Jewish Passover and the time of his ascension on the day appointed for the feast of Pentecost. This ancient Jewish harvest festival came seven weeks and one day after Passover, a fifty day period  that derived its name from the Greek word “pentekostos” which means fifty days.
 
 One must be wrong
 
@@ -143,7 +143,7 @@ The Paper provides the date of Passover as April 8 AD 30, and the date for Pente
 
 On saying forty but meaning fifty
 
-The dates for the period prior to the crucifixion are well catalogued in the Urantia Paper, as are the day of the week and its actual date for the following period up to and including the day of ascension. There is no way of accounting for the forty day error as due to being a copying, typing, or copy editing error. Neither can the forty day interval be a simple mistake by someone writing forty when they really meant fifty, as it is repeated three times and in a different context for each occasion. The first is in relation to a forty day interval that Jesus passed with the Morontia Directors (2040), the second refers to Jesus' morontia career (2057) and the third to the forty days during which the apostles were in hiding after the crucifixion. (2060). And this last reference occurs in the first line under the section heading entitled "The Pentecost Sermon,"—which surely must alert some readers to the occurrence of an inconsistency.
+The dates for the period prior to the crucifixion are well catalogued in the Urantia Paper, as are the day of the week and its actual date for the following period up to and including the day of ascension. There is no way of accounting for the forty day error as due to being a copying, typing, or copy editing error. Neither can the forty day interval be a simple mistake by someone writing forty when they really meant fifty, as it is repeated three times and in a different context for each occasion. The first is in relation to a forty day interval that Jesus passed with the Morontia Directors (2040), the second refers to Jesus' morontia career (2057) and the third to the forty days during which the apostles were in hiding after the crucifixion. (2060). And this last reference occurs in the first line under the section heading entitled “The Pentecost Sermon,”—which surely must alert some readers to the occurrence of an inconsistency.
 
 Date for Easter also changes annually
 
@@ -151,38 +151,38 @@ Many Urantia Book readers, with or without a Christian background, would be awar
 
 Forty days and forty nights in the Bible
 
-An examination of the phrase "forty days" in both the Old and New Testament and even The Urantia Book provides a possible clue. The Bible has twenty two "forty day" references, most being associated with events of significance in Jewish history. These range from the great flood and Noah's survival, the period of embalming of the body of Jacob (alias Israel) prior to the return of his body to Canaan, the period that Moses spent on the mount when receiving the ten commandments, a period for exploration of the promised land, a period during which the Philistine giant, Goliath, paraded before the Israelites chiding them until slain by David with a stone from his sling. In the New Testament, there was the forty days of Jesus' temptation in the wilderness and the forty days of his appearances after the resurrection.
+An examination of the phrase “forty days” in both the Old and New Testament and even The Urantia Book provides a possible clue. The Bible has twenty two “forty day” references, most being associated with events of significance in Jewish history. These range from the great flood and Noah's survival, the period of embalming of the body of Jacob (alias Israel) prior to the return of his body to Canaan, the period that Moses spent on the mount when receiving the ten commandments, a period for exploration of the promised land, a period during which the Philistine giant, Goliath, paraded before the Israelites chiding them until slain by David with a stone from his sling. In the New Testament, there was the forty days of Jesus' temptation in the wilderness and the forty days of his appearances after the resurrection.
 
-It seems highly unlikely that a majority of these periods were exactly forty days. If not then perhaps "forty days" is a symbolic term that was attached to significant events of modest duration in Jewish history. An additional "forty day" interval occurs in The Urantia Book as a kind of rest and resuscitation period following directly after the fusion event for our morontia selves with our Thought Adjuster.
+It seems highly unlikely that a majority of these periods were exactly forty days. If not then perhaps “forty days” is a symbolic term that was attached to significant events of modest duration in Jewish history. An additional “forty day” interval occurs in The Urantia Book as a kind of rest and resuscitation period following directly after the fusion event for our morontia selves with our Thought Adjuster.
 
 Forty days as a symbol
 
-Did the revelators choose to use an intensely symbolic "forty day" period to describe the interval between Passover and Pentecost, even though it meant that they would introduce error for their dates? If so, were they also drawing attention to their use of symbolism, legend, parable, allegory,  mythology, and "what have you" throughout The Urantia Book to describe and illustrate what is essentially a universe frame (1260) in which we can think rationally about our place and purpose in the universe. My personal opinion is that this is exactly what they did. They appear to have attempted to tell us so in the explanation of the mandate, their use of human sources wherever possible, and their description of the Urantia Papers on page 1008.
+Did the revelators choose to use an intensely symbolic “forty day” period to describe the interval between Passover and Pentecost, even though it meant that they would introduce error for their dates? If so, were they also drawing attention to their use of symbolism, legend, parable, allegory,  mythology, and “what have you” throughout The Urantia Book to describe and illustrate what is essentially a universe frame (1260) in which we can think rationally about our place and purpose in the universe. My personal opinion is that this is exactly what they did. They appear to have attempted to tell us so in the explanation of the mandate, their use of human sources wherever possible, and their description of the Urantia Papers on page 1008.
 
-The "forty day" error is the last, the most obvious, and the most conclusive in the Urantia Papers. It is followed by some of their most magnificent material. It appears to be impossible to assume this particular error is not there for a very good reason. 
+The “forty day” error is the last, the most obvious, and the most conclusive in the Urantia Papers. It is followed by some of their most magnificent material. It appears to be impossible to assume this particular error is not there for a very good reason. 
 
 The sovereignty of free will
 
 We humans are an intractable lot. The revelators were aware that many of the early 	
-readers would be so impressed by the receipt of a revelation from a celestial source that, almost certainly, they would be impelled to grant it "divinely dictated" status. But a thorough study of  the Papers reveals that such authoritarianism is not the way of our Universal Father. His way is the absolute sovereignty of our free will and the free choice of our ultimate destiny. The revelators may have been attempting to avoid a repetition of the problems that arose through the assignment of divine infallibility to the Bible. Their method of avoidance appears to have been the provision of a universe frame (1260) containing much error but at the same time telling us they were doing precisely that. The "forty day" error was their final attempt to avoid the disaster of a "divine dictation" label. Perhaps also it was the final safeguard.
+readers would be so impressed by the receipt of a revelation from a celestial source that, almost certainly, they would be impelled to grant it “divinely dictated” status. But a thorough study of  the Papers reveals that such authoritarianism is not the way of our Universal Father. His way is the absolute sovereignty of our free will and the free choice of our ultimate destiny. The revelators may have been attempting to avoid a repetition of the problems that arose through the assignment of divine infallibility to the Bible. Their method of avoidance appears to have been the provision of a universe frame (1260) containing much error but at the same time telling us they were doing precisely that. The “forty day” error was their final attempt to avoid the disaster of a “divine dictation” label. Perhaps also it was the final safeguard.
 
 Hopes of the revelators
 
 One of the hopes of the revelators is expressed in these words:
 
-"You should comprehend that this (Christian) church is only the larval stage of the thwarted spiritual kingdom, which will carry it through this material age and over into a more spiritual dispensation where the Master's teachings may enjoy a fuller opportunity for development. Thus does the so-called Christian  church become the cocoon in which the kingdom of Jesus' concept now slumbers. The kingdom of the divine brotherhood is still alive and will eventually and certainly come forth from this long submergence, just as surely as the butterfly eventually emerges as the beautiful unfolding of its less attractive creature of metamorphic development." (1866)
+“You should comprehend that this (Christian) church is only the larval stage of the thwarted spiritual kingdom, which will carry it through this material age and over into a more spiritual dispensation where the Master's teachings may enjoy a fuller opportunity for development. Thus does the so-called Christian  church become the cocoon in which the kingdom of Jesus' concept now slumbers. The kingdom of the divine brotherhood is still alive and will eventually and certainly come forth from this long submergence, just as surely as the butterfly eventually emerges as the beautiful unfolding of its less attractive creature of metamorphic development.” (1866)
 
-There are other similar expressions of the hope of the revelators that the Urantia Papers would assist to usher in a new era of comprehension of the Master's revelatory life. But The Urantia Book has been afforded an untouchable status among many Christians. They want nothing to do with another "divinely-dictated" revelation such as still confronts them with the fundamentalist view of biblical infallibility.
+There are other similar expressions of the hope of the revelators that the Urantia Papers would assist to usher in a new era of comprehension of the Master's revelatory life. But The Urantia Book has been afforded an untouchable status among many Christians. They want nothing to do with another “divinely-dictated” revelation such as still confronts them with the fundamentalist view of biblical infallibility.
 
-To obtain for the Urantia Papers the attention they so richly merit and to permit them to fulfil the hopes of their revelators, we have to present them in a way that avoids the stigma of "absolute truth," a label the revelators themselves deny. Until this is done, the Papers will continue to remain virtually unread and therefore ineffective.
+To obtain for the Urantia Papers the attention they so richly merit and to permit them to fulfil the hopes of their revelators, we have to present them in a way that avoids the stigma of “absolute truth,” a label the revelators themselves deny. Until this is done, the Papers will continue to remain virtually unread and therefore ineffective.
 
 It is of no help to point to the getting close to one million Urantia Book sales throughout the world. The truth is that most of those books are just as unread as the Bible, a book that claims the record for best seller status for all time.
 
 The Urantia revelation—what was its purpose
 
-Surely the real purpose of the Urantia revelation was always the restoration of the truth of the Fourth Epochal Revelation. All else in the Papers is background to improve the universe frame into which we "fit" the meaning of Jesus' revelation and the purpose of our own lives. Currently Jesus' revelation has been made to "fit" into ancient Jewish aspirations and traditions.
+Surely the real purpose of the Urantia revelation was always the restoration of the truth of the Fourth Epochal Revelation. All else in the Papers is background to improve the universe frame into which we “fit” the meaning of Jesus' revelation and the purpose of our own lives. Currently Jesus' revelation has been made to “fit” into ancient Jewish aspirations and traditions.
 
-The Papers inform us that Jesus' whole life was a revelation of the nature of God as it is comprehensible to mortal man. In fulfilling his task, Jesus chose to portray the "Father" aspect of the First Source and Center as the archetype of love, compassion, mercy, and righteousness. God, the Father of Jesus, is also the epitome of "good" for only God is good—and so Jesus revealed in his life, the quintessence of "goodness."
+The Papers inform us that Jesus' whole life was a revelation of the nature of God as it is comprehensible to mortal man. In fulfilling his task, Jesus chose to portray the “Father” aspect of the First Source and Center as the archetype of love, compassion, mercy, and righteousness. God, the Father of Jesus, is also the epitome of “good” for only God is good—and so Jesus revealed in his life, the quintessence of “goodness.”
 
 A problem we now have is how to restore the real meaning of the Fourth Epochal Revelation. It should be obvious to all that this cannot be accomplished by force, coercion, or even overpowering intellectual argument. We Urantia Book readers are expected to live the revelation as Jesus lived it. For that, the Papers give us a detailed account of Jesus' life and its meaning—from which we can perceive that we are required to become consciously God-centered in contrast to being both consciously and unconsciously self-centered. Nothing else will do. Nothing else will work.
 
@@ -190,9 +190,9 @@ That so little progress has been made by so many is at least partially due to th
 
 On inner transformation
 
-What is required is an inner transformation and re-centering that involves death of self followed by rebirth. "For whosoever would save his life selfishly, shall lose it, but whosoever loses his life for my sake and the gospel's, shall save it. What does it profit a man to gain the whole world and lose his own soul?"
+What is required is an inner transformation and re-centering that involves death of self followed by rebirth. “For whosoever would save his life selfishly, shall lose it, but whosoever loses his life for my sake and the gospel's, shall save it. What does it profit a man to gain the whole world and lose his own soul?”
 
-The losing of life is metaphorical for an internal process by which we "die to the world and the self" in order to become reborn. The central process of that metaphoric death is our re-centering in God. It is a process that requires faith—a faith defined by:
+The losing of life is metaphorical for an internal process by which we “die to the world and the self” in order to become reborn. The central process of that metaphoric death is our re-centering in God. It is a process that requires faith—a faith defined by:
 A dying to the self as the center of its own concern.
 A dying to the world as the center of security and identity.
 A dying of the self-preoccupied self.
@@ -213,11 +213,11 @@ An intensive and detailed examination of the evidence indicates that this cannot
 
 The meeting mentioned in both Papers was between the apostles and the one hundred and twenty foremost disciples in Jerusalem. Included are Jesus' mother and family members.   
 
-Dr Sadler's proffered explanation falters in the very first paragraph of Paper 194, Section 1, "The Pentecost Sermon" which reads, "The apostles had been in hiding for forty days." Read in context, it means what it says and not that, "Up until ten days ago, the apostles had been in hiding for forty days"—which is what would be expected if the meeting took place at fifty and not forty days after Jesus' crucifixion (the expectation if the meetings are not the same one).
+Dr Sadler's proffered explanation falters in the very first paragraph of Paper 194, Section 1, “The Pentecost Sermon” which reads, “The apostles had been in hiding for forty days.” Read in context, it means what it says and not that, “Up until ten days ago, the apostles had been in hiding for forty days”—which is what would be expected if the meeting took place at fifty and not forty days after Jesus' crucifixion (the expectation if the meetings are not the same one).
 
-Further along in this same paragraph, "the frightened apostles emerged from their weeks of seclusion to appear boldly in the temple.…" According to Dr Sadler's explanation they must have actually come out of  hiding ten days earlier! So why are they still frightened yet no longer in hiding?
+Further along in this same paragraph, “the frightened apostles emerged from their weeks of seclusion to appear boldly in the temple.…” According to Dr Sadler's explanation they must have actually come out of  hiding ten days earlier! So why are they still frightened yet no longer in hiding?
 
-The facts given at the end of Paper 193 and the beginning of Paper 194 are a perfect fit if they refer to the same meeting. They are at variance with those facts if we try to make them fit to the "independent meetings" hypothesis.
+The facts given at the end of Paper 193 and the beginning of Paper 194 are a perfect fit if they refer to the same meeting. They are at variance with those facts if we try to make them fit to the “independent meetings” hypothesis.
 
 Why was it not corrected?
 
@@ -226,7 +226,7 @@ There is no reason to believe that the midwayers no longer have this ability. An
 
 Meant to be there?
 
-The more we examine the detail of this problem, the more it appears to be that the "forty days" was meant to be there.
+The more we examine the detail of this problem, the more it appears to be that the “forty days” was meant to be there.
 
 Curiously, it has lain dormant for all these years but now pops up independently in several places. One is a recent article by Seppo Kanerva in the IUA Journal, another is in E-mail discussions between various fundamentalist readers and our editors—and probably there are others. Is it a signal that the time for radical change in the Urantia movement has now arrived?
 
@@ -236,7 +236,7 @@ In closing, and just in case any fundamentalist manages to find a way to call bl
 
 Matter knows not truth
 
-The inclusion of a now outdated cosmology, and of allegory and myth, in the Urantia Papers in no way detracts from their value as religious revelation. For many of us, this knowledge frees the revelation from entanglement with things both material and social, leaving it to deal with what really matters—the revelation of our "divine and eternal destiny," the confirmation of our universal brotherhood, the validation of the reality of a God whose nature is love, mercy, and compassion, and who, in spirit form, deigns to dwell within us.
+The inclusion of a now outdated cosmology, and of allegory and myth, in the Urantia Papers in no way detracts from their value as religious revelation. For many of us, this knowledge frees the revelation from entanglement with things both material and social, leaving it to deal with what really matters—the revelation of our “divine and eternal destiny,” the confirmation of our universal brotherhood, the validation of the reality of a God whose nature is love, mercy, and compassion, and who, in spirit form, deigns to dwell within us.
 
 True revelation has no function in the sorting of the supposedly material facts of science, history, or even philosophy. These are man-made fields for investigation. Revelation is a sorting process in which the truths of spirit acquirement are sifted from the accumulated errors of evolutionary religion (see p. 1110). Revealed religion is a spirit derivative that deals exclusively with that which has spiritual value.
 
@@ -247,13 +247,13 @@ When assuming that the whole of The Urantia Book is divinely sanctioned revelati
 All revelation is partial, transient, adapted
 
 The Urantia Papers protect us from this conundrum. The revelators themselves inform us that what they have provided is not divine revelation (absolute truth), and that its cosmology (background knowledge) would soon need replacement.
-"But no revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space. While such admissions as this may possibly detract from the immediate force and authority of all revelations, the time has arrived on Urantia when it is advisable to make such frank statements, even at the risk of weakening the future influence and authority of this, the most recent of the revelations of truth to the mortal races of Urantia." (1008)
+“But no revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space. While such admissions as this may possibly detract from the immediate force and authority of all revelations, the time has arrived on Urantia when it is advisable to make such frank statements, even at the risk of weakening the future influence and authority of this, the most recent of the revelations of truth to the mortal races of Urantia.” (1008)
 
 A time to think!
 
 In the light of these words from the revelators, surely it is time to rethink attitudes, purposes, and goals. What can now be done that will enhance the acceptability of the Urantia Papers to the world in general but particularly to the Christian church where the message of the Fourth Epochal revelation lies confused and partially dormant? The hopes of the revelators are expressed by:
 
-"The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must not be longer sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!"
+“The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must not be longer sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!”
 
 There are several such comments scattered through the pages of the Papers that indicate the enlightenment of the Christian Church was a primary purpose for the Papers.
 
@@ -276,7 +276,7 @@ Another alternative is secondary works. Because of preceding events in the Urant
 
 ## References
 
-1. Borg, Marcus, "Jesus: A New Vision." (Harper, SanFrancisco, 1991) See "Introduction" and page 17, ref.  5.
+1. Borg, Marcus, “Jesus: A New Vision.” (Harper, SanFrancisco, 1991) See “Introduction” and page 17, ref.  5.
 
 # Cosmic Reflections: What's at the Center of the Earth?
 
@@ -291,22 +291,22 @@ Earth's center revealed.
 
 "Professor Emile Okal, from California's Northwestern University, and an author of the study, said scientists had known for some time that Earth was composed of a rocky mantle floating on a liquid core of molten iron.
 
-"But geophysicists also speculated that at some greater depth, the pressure would be so high the iron would become solid."
+“But geophysicists also speculated that at some greater depth, the pressure would be so high the iron would become solid.”
 
 *******
 
 Referring to the Earth's center, The Urantia Book says:
 
-"The continental land drift continued. The earth's core had become as dense and rigid as steel, being subjected to a pressure of almost 25,000 tons to the square inch, and owing to the enormous gravity pressure, it was and still is very hot in the deep interior. The temperature increases from the surface downward until at the center it is slightly above the surface temperature of the sun." (668)
+“The continental land drift continued. The earth's core had become as dense and rigid as steel, being subjected to a pressure of almost 25,000 tons to the square inch, and owing to the enormous gravity pressure, it was and still is very hot in the deep interior. The temperature increases from the surface downward until at the center it is slightly above the surface temperature of the sun.” (668)
 
 Emiliani (1995) describes the inner core of earth as being solid and surrounded by an outer core that is liquid. The composition of the core is given as 90% iron, 9% nickel, and 1% sulfur, the pressure at the center as 24,300 tons per square inch, and its temperature as 6000o C. The surface of the sun's photosphere is given as 5,500 degrees C and the junction of the photosphere and the convective layer is at 7,700 degrees C.
 Judged by the report at the meeting of the American Geophysical Union, there must have been at least some uncertainty about the solid nature of the core that is not mentioned in our reference work. 
 
-Matthew Block considers that Reginald A. Daly's book, "Our Mobile Earth" (1926) was one source for this section of The Urantia Book. Daly estimated the pressure at the core as about 22,000 tons per sq. inch and its temperature as surpassing the surface temperature of the sun, about 6000 degrees centigrade. Daly also stated the core is composed of metallic iron alloyed with a small proportion of nickel and other metals. The Urantia Book mentions that iron and other heavy metals gravitate to the center of the planet. (658)
+Matthew Block considers that Reginald A. Daly's book, “Our Mobile Earth” (1926) was one source for this section of The Urantia Book. Daly estimated the pressure at the core as about 22,000 tons per sq. inch and its temperature as surpassing the surface temperature of the sun, about 6000 degrees centigrade. Daly also stated the core is composed of metallic iron alloyed with a small proportion of nickel and other metals. The Urantia Book mentions that iron and other heavy metals gravitate to the center of the planet. (658)
 
 ## References
 
-Emiliani, C. "Exploring the Physical World with Facts, Figures, and Formulas." (Wiley, 1995)
+Emiliani, C. “Exploring the Physical World with Facts, Figures, and Formulas.” (Wiley, 1995)
 
 # Did you know?
 
@@ -324,7 +324,7 @@ Whether or not it is possible to explain our universe entirely from within the s
 
 ## References
 
-Smolin, L. "The Life of the Cosmos." (Oxford University Press, 1997)
+Smolin, L. “The Life of the Cosmos.” (Oxford University Press, 1997)
 
 # Antigravity is Back.
 
@@ -340,7 +340,7 @@ With all possibilities apparently exhausted, what was left was either an open un
 
 To make the latter work, we have a re-introduction of Einstein's  long abandoned cosmological constant, which acts to oppose the effect of gravity with a repulsive rather than an attractive force, antigravity. Sounds simple enough, but it now has to be tuned to an accuracy of 123 decimal places—124 will not do. So no wonder that Einstein was pleased to let it go.
 
-Among other things the book tells us that, "antigravity is a power of the Infinite Spirit….It can annul gravity within a local frame. It does so by the exercise of equal force presence. It operates only with reference to material gravity, and it is not the action of mind." (101)
+Among other things the book tells us that, “antigravity is a power of the Infinite Spirit….It can annul gravity within a local frame. It does so by the exercise of equal force presence. It operates only with reference to material gravity, and it is not the action of mind.” (101)
 
 I wonder who has the task of balancing it to the 123rd decimal place?
 

@@ -1,11 +1,11 @@
 # The Mind of Jesus
 (from Part 4, The Urantia Papers.)
 
-These Papers confirm that the purpose of Jesus' life on our planet included revealing God to man and man to God, and that his life was to exhibit "the transcendent possibilities attainable by a God-knowing mortal being during the short career of mortal existence."
+These Papers confirm that the purpose of Jesus' life on our planet included revealing God to man and man to God, and that his life was to exhibit “the transcendent possibilities attainable by a God-knowing mortal being during the short career of mortal existence.”
 
 
 
-Having fully achieved his purpose, Jesus left us with this injunction: "Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men and women are the sons and daughters of God. And this mission shall consist in the life which you will live among them--the actual and living experience of loving them and serving them, even as I have loved and served you."
+Having fully achieved his purpose, Jesus left us with this injunction: “Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men and women are the sons and daughters of God. And this mission shall consist in the life which you will live among them--the actual and living experience of loving them and serving them, even as I have loved and served you.”
 
 However, just knowing where Jesus went and what he said and did would be of little help for our task. To emulate him, we need to know how he thought and what he thought. We must know the mind of Jesus.
 
@@ -18,7 +18,7 @@ Herein we have tried to provide a synopsis of Part 4 that will assist in the und
 The Indwelling Father-Spirit
 
 
-The function of the indwelling Father-Spirit is described as: "The great goal of our human existence is to attune to the divinity of the indwelling Spirit. The great achievement of our mortal life is the attainment of a true and understanding consecration to the eternal aims of the divine Spirit who waits and works within our mind. And our ideal life is one of loving service to our fellow travelers."
+The function of the indwelling Father-Spirit is described as: “The great goal of our human existence is to attune to the divinity of the indwelling Spirit. The great achievement of our mortal life is the attainment of a true and understanding consecration to the eternal aims of the divine Spirit who waits and works within our mind. And our ideal life is one of loving service to our fellow travelers.”
 
 Teachings of Jesus
 
@@ -149,7 +149,7 @@ Jesus transcended the teachings of his forbears when he boldly substituted clean
 
 Jesus taught: 'Emotionally people react individually. The only uniform thing about them is the Indwelling Spirit of God. Thus, only through and by appeal to this indwelling Spirit can mankind ever attain unity and brotherhood.'
 
-Anger is a material (animalistic) manifestation indicating failure of the spiritual nature to gain control. "Anger rests in the bosom of fools."
+Anger is a material (animalistic) manifestation indicating failure of the spiritual nature to gain control. “Anger rests in the bosom of fools.”
 
 Jesus said, 'Let your hearts be so dominated by love that your indwelling Spirit will have little trouble in delivering you from the tendency to give vent to those outbursts of animal anger which are so inconsistent with the status of a child of the Father.'
 
@@ -157,7 +157,7 @@ Jesus always preached temperance and consistency--pointing out that excessive ze
 
 Jesus said: 'Your forebears feared God because he was mighty and mysterious. You shall adore him because he is magnificent in love, plenteous in mercy, and glorious in truth.'
 
-"I have come into the world…"
+“I have come into the world…”
 
 'I have come into the world to put love in the place of fear, joy in the place of sorrow, confidence in the place of dread, loving service and appreciative worship in the place of slavish bondage and meaningless ceremonies.'
 
@@ -167,7 +167,7 @@ Jesus said: 'Your forebears feared God because he was mighty and mysterious. You
 
 Jesus' kingdom is founded on love, proclaimed in mercy, and established by unselfish service.
 
-"Let me emphatically state…"
+“Let me emphatically state…”
 
 'Let me emphatically state this eternal truth: if you, by truth coordination learn to exemplify in your lives this beautiful wholeness of righteousness, your acquaintances will then seek after you that they may gain what you have acquired.'
 
@@ -262,7 +262,7 @@ Loving your neighbor
 
 Responsibility
 
-In teaching children to pray "Our Father," an enormous responsibility is placed upon earthly fathers so to live and order their homes so that the word "father" has worthy connotations while becoming enshrined in the minds and hearts of growing children.
+In teaching children to pray “Our Father,” an enormous responsibility is placed upon earthly fathers so to live and order their homes so that the word “father” has worthy connotations while becoming enshrined in the minds and hearts of growing children.
 
 'The fruits of the spirit, your sincere and loving service, are the mighty social lever to uplift the races of darkness. And this Spirit of Truth will become your powerful multiplying fulcrum.'
 
@@ -295,7 +295,7 @@ Jesus: 'If you abide in me and my words live in you, you will be able to commune
 
 'You are in this world but your lives are not to be world-like. I have chosen you 'out of the world' to represent the spirit of another world even to this.'
 
-"With the coming of the Spirit of Truth"
+“With the coming of the Spirit of Truth”
 
 'With the coming of the Spirit of Truth all the children of light will be drawn toward one another. And my Father and I will be able to live in the souls of each one of you, and also in the hearts of all other men who love us and make that love real in their experiences by loving one another even as I am now loving you.'
 
@@ -339,7 +339,7 @@ As taunts, insults, and blows fell upon Jesus, he was not vanquished, merely unc
 
 Jesus was not even angry when, at his trial, ignorant mortals derisively struck him in the face after blindfolding him.
 
-As they nailed Jesus on the cross, his only words were, "Father, forgive them for they know not what they do." He could not have so mercifully and lovingly interceded for his executioners if such thoughts of affectionate devotion had not been the mainspring of all his life of unselfish service.
+As they nailed Jesus on the cross, his only words were, “Father, forgive them for they know not what they do.” He could not have so mercifully and lovingly interceded for his executioners if such thoughts of affectionate devotion had not been the mainspring of all his life of unselfish service.
 
 Salvation
 
@@ -367,7 +367,7 @@ Jesus portrayed a higher quality of righteousness than justice--mere technical r
 Greater love can no one have than this--that they would be willing to lay down their life for their friends. And Jesus had such love that he was willing to lay down his life even for his enemies.
 
 	
-"Your mission to the world"
+“Your mission to the world”
 
 'Your mission to the world is founded on the fact that I lived a God-revealing life among you, and on the truth that you and all others are the children of God. And your mission shall consist in the life that you will live--the actual living experience of loving and serving others, even your enemies, just as I have loved and served you.'
 
@@ -463,7 +463,7 @@ The secret of Jesus' unparalleled religious life was his consciousness of the pr
 
 Jesus trusted God much as the child trusts a parent. He had a profound confidence in the universe--just such a trust as a child has in its parents.
 
-Jesus does not require his disciples to believe in him but rather to believe with him in the reality of the love of God and, in full confidence, to accept the security of the assurance of membership in the family of the heavenly Father. He desires that all his followers should share fully his transcendent faith. He challenged his followers to believe as he believed. This is the full significance of his one supreme command, "Follow me."
+Jesus does not require his disciples to believe in him but rather to believe with him in the reality of the love of God and, in full confidence, to accept the security of the assurance of membership in the family of the heavenly Father. He desires that all his followers should share fully his transcendent faith. He challenged his followers to believe as he believed. This is the full significance of his one supreme command, “Follow me.”
 
 To follow Jesus means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man.
 

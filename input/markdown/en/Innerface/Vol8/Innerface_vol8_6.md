@@ -2,9 +2,9 @@
 
 To those who were disconcerted about the Master's tolerance of the views of others, he said:
 
-"True and genuine inward certainty does not in the least fear outward analysis, nor does truth resent honest criticism. You should never forget that intolerance is the mask covering up the entertainment of secret doubts as to the trueness of one's belief. No man is at any time disturbed by his neighbor's attitude when he has perfect confidence in the truth of that which he wholeheartedly believes. Courage is the confidence of thoroughgoing honesty about those things which one professes to believe. Sincere men are unafraid of the critical examination of their true convictions and noble ideals."
+“True and genuine inward certainty does not in the least fear outward analysis, nor does truth resent honest criticism. You should never forget that intolerance is the mask covering up the entertainment of secret doubts as to the trueness of one's belief. No man is at any time disturbed by his neighbor's attitude when he has perfect confidence in the truth of that which he wholeheartedly believes. Courage is the confidence of thoroughgoing honesty about those things which one professes to believe. Sincere men are unafraid of the critical examination of their true convictions and noble ideals.”
 
-"The fruits of the divine spirit which are yielded in the lives of such spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. If professed believers bear not these fruits of the divine spirit in their lives, they are dead; the Spirit of Truth is not in them; they are useless branches on the living vine."
+“The fruits of the divine spirit which are yielded in the lives of such spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. If professed believers bear not these fruits of the divine spirit in their lives, they are dead; the Spirit of Truth is not in them; they are useless branches on the living vine.”
 
 # Great Expectations
 
@@ -14,34 +14,34 @@ One such message is that we should love all men and women as our brothers and si
 
 Ideal citizens
 
-"Sonship in the kingdom, from the standpoint of advancing civilization, should assist you in becoming the ideal citizens of the kingdoms of this world since brotherhood and service are the cornerstones of the gospel of the kingdom."
+“Sonship in the kingdom, from the standpoint of advancing civilization, should assist you in becoming the ideal citizens of the kingdoms of this world since brotherhood and service are the cornerstones of the gospel of the kingdom.”
 
 Destroyers of hatred
 
-"The love call of the spiritual kingdom should prove to be the effective destroyer of the hate urge of the unbelieving and war-minded citizens of the earthly kingdoms."
+“The love call of the spiritual kingdom should prove to be the effective destroyer of the hate urge of the unbelieving and war-minded citizens of the earthly kingdoms.”
 
 Unselfish servants of all
 
-"But these material-minded sons in darkness will never know of your spiritual light of truth unless you draw very near them with that unselfish social service which is the natural outgrowth of the bearing of the fruits of the spirit in the life experience of each individual believer."
+“But these material-minded sons in darkness will never know of your spiritual light of truth unless you draw very near them with that unselfish social service which is the natural outgrowth of the bearing of the fruits of the spirit in the life experience of each individual believer.”
 Reborn children of the heavenly kingdom
 
-"As mortal and material men, you are indeed citizens of the earthly kingdoms, and you should be good citizens, all the better for having become reborn spirit sons of the heavenly kingdom."
+“As mortal and material men, you are indeed citizens of the earthly kingdoms, and you should be good citizens, all the better for having become reborn spirit sons of the heavenly kingdom.”
 
 Recipients of sacred responsibilities
 
-"As faith-enlightened and spirit-liberated sons of the kingdom of heaven, you face a double responsibility of duty to man and duty to God while you voluntarily assume a third and sacred obligation: service to the brotherhood of God-knowing believers."
+“As faith-enlightened and spirit-liberated sons of the kingdom of heaven, you face a double responsibility of duty to man and duty to God while you voluntarily assume a third and sacred obligation: service to the brotherhood of God-knowing believers.”
 
 Soon after the Papers were published the concept grew that the main function of recipients was to spread The Urantia Book. Effectively that task is the spreading of information about God and about Jesus. But about two billion people on Urantia already know about the God who is love and about his son, Jesus who revealed God's loving nature. Something more is required of us.
 
-"What is now most needed is Jesus. The world needs to see Jesus again living on earth in the experience of spirit-born mortals who effectively reveal the Master to all men."
+“What is now most needed is Jesus. The world needs to see Jesus again living on earth in the experience of spirit-born mortals who effectively reveal the Master to all men.”
 
 "You are all to proclaim this gospel of love and truth by the lives which you live in the flesh. You shall love one another with a new and startling affection, even as I have loved you. You will serve mankind with a new and amazing devotion, even as I have served you. And when men see you so love them, and when they behold how fervently you serve them, they will perceive that you have become faith-fellows of the kingdom of heaven, and they will follow after the Spirit of Truth which they see in your lives, to the finding of eternal salvation.
 
 # Beyond the Urantia Papers
 
-"The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe  beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul." (43)
+“The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe  beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul.” (43)
 
-"The teachers of the religion of Jesus should approach other religions with the recognition of the truths which are held in common while they refrain from placing so much emphasis on the differences." (1670)
+“The teachers of the religion of Jesus should approach other religions with the recognition of the truths which are held in common while they refrain from placing so much emphasis on the differences.” (1670)
 
 Religion manifests itself in three main categories:
 
@@ -59,17 +59,17 @@ The balance shifted as more and more new converts came from among the illiterate
 
 The Christian religion has been stagnant for many centuries. It will remain so until it reverts to being a personal religion of the spirit. A relatively simple change would restore Christianity to that state. It requires only a change of emphasis so as to awaken individuals to the truth of their indwelling by the Father-spirit and to encourage them to seek a sincere, personal relationship with, and guidance from, the spirit forces within—the Father-spirit and the spirit endowment of Jesus of Nazareth, the Spirit of Truth.
 
-Those who already have the religion of the spirit need to be aware of several warnings provided in the Papers. Jesus instructed his apostles to refrain from all efforts to take something out (meaning to correct the errors) of those they attempted to teach. "Lead all men into the kingdom," he said, "and presently the great and living truths of the kingdom will drive out all serious error."  On another occasion, he said, "you are commissioned to go forth preaching only the good news. You are not to attack the old ways; you are skillfully to put the leaven of new truth in the midst of the old beliefs. Let the Spirit of Truth do his own work."
+Those who already have the religion of the spirit need to be aware of several warnings provided in the Papers. Jesus instructed his apostles to refrain from all efforts to take something out (meaning to correct the errors) of those they attempted to teach. “Lead all men into the kingdom,” he said, “and presently the great and living truths of the kingdom will drive out all serious error.”  On another occasion, he said, “you are commissioned to go forth preaching only the good news. You are not to attack the old ways; you are skillfully to put the leaven of new truth in the midst of the old beliefs. Let the Spirit of Truth do his own work.”
 
 A reforming zeal that sets its priorities in correcting the supposedly erroneous doctrines of other religions is predestined to fail. The positive preaching of spiritual truths is the only pathway sanctioned by Jesus, the recommended approach being through truths which are held in common. There are more than twenty New Testament verses that speak of the indwelling spirits of Father and Son, and many parables that illustrate God's nature as a loving, compassionate, forgiving, and merciful Father who actively seeks out the erring human child.
 
-But even if our two billion nominal Christians were to embrace the religion of the spirit, it may have little or no effect upon the remaining billions of Urantians excepting that the fruits of that spirit living become visible as the direct consequence. "Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men." (2084)
+But even if our two billion nominal Christians were to embrace the religion of the spirit, it may have little or no effect upon the remaining billions of Urantians excepting that the fruits of that spirit living become visible as the direct consequence. “Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men.” (2084)
 
 In seeking to bring religion of the spirit to non-Christian religions, we are specifically warned against placing emphasis upon the personality of Jesus (1670), the approach through seeking common grounds being preferred. Primarily this entails the Fatherhood of God and the brotherhood of all mankind. As with Christianity, this concept is already a basic tenet of the religion of Islam but there also it fails to impact as it should.
 
 Perhaps what is required is much more emphasis upon the realization of the indwelling of the Father-spirit and the enhancement of the religion of the spirit that accompanies the development of a personal relationship with the deity within. Stripped of authority from outside ourselves, the religion of the spirit appears to have all the necessary potential to bring peace on earth and goodwill to all, in addition to fostering the progress of the eternal career of those who embrace it.
 
-"The only uniform thing about men is their indwelling spirit which reacts uniformly to all spiritual appeals. Only through and by appeal to this spirit can mankind ever attain unity and brotherhood." (1672)
+“The only uniform thing about men is their indwelling spirit which reacts uniformly to all spiritual appeals. Only through and by appeal to this spirit can mankind ever attain unity and brotherhood.” (1672)
 
 For most of us, understanding the nature of God is often best learned from parables. Important among these are:
 
@@ -93,7 +93,7 @@ The only sure way to ultimately bring mankind to religion of the spirit is for t
 
 The answer to that is yes. Despite the almost fanatical adherence of the science establishment to the validity of the Big Bang concept, there are dissenters. However human nature is such that they find it exceedingly difficult to have their work accepted for publication. As with most human activities, behind the science scene there stands reputation and power, as well as money. And money means politics which means power concentration with the few. Buck them and you will suffer.
 
-Curiously, for the principal difference between the Big Bang and its major alternatives there is one small but vital difference. How long does it take for matter particles emerging from relatively undifferentiated energy to gain mass. The Big Bang has it all happen at the very first moments of time. That imposes on the subsequent theory a fifteen billion year interval to get us to "now."
+Curiously, for the principal difference between the Big Bang and its major alternatives there is one small but vital difference. How long does it take for matter particles emerging from relatively undifferentiated energy to gain mass. The Big Bang has it all happen at the very first moments of time. That imposes on the subsequent theory a fifteen billion year interval to get us to “now.”
 
 One competing theory, the Quasi-Steady State Cosmology (QSSC) belongs mainly to the Brits—the Burbidge husband and wife team, the recalcitrant Fred Hoyle, and Empire survivor, the brilliant Indian Jayant Narlikar. A modification of QSSC stems from another rebel, Halton Arp, who disputes that the red shift of light from distant stars means higher recessional velocity and increased distance from us.
 
@@ -131,9 +131,9 @@ Suffice it to comment that this is a marvelously gifted team, not a group of wil
 
 Relativity and the Papers
 
-"Let not your dabblings with the faintly glimpsed findings of "relativity" disturb your concepts of the eternity and infinity of God."
+“Let not your dabblings with the faintly glimpsed findings of ”relativity“ disturb your concepts of the eternity and infinity of God.”
 
-Many Urantia Book readers believe certain of the remarks in the Papers that use the term "relativity" refer to Einstein's General Relativity. This belief may be misplaced. However those who do so may be relieved to know that Arp's model of the creation does away with the need for the curvature of space-time that is basic in Einstein's general relativity.
+Many Urantia Book readers believe certain of the remarks in the Papers that use the term “relativity” refer to Einstein's General Relativity. This belief may be misplaced. However those who do so may be relieved to know that Arp's model of the creation does away with the need for the curvature of space-time that is basic in Einstein's general relativity.
 
 These quasi-steady state views provide a much closer fit to Urantia Book cosmology than does a Big Bang beginning. But only the accumulation of observational evidence will reveal which, if any, of the models approximates to the truth So it is a wait and see assignment.
 
@@ -144,7 +144,7 @@ Hoyle, F., Burbidge, G, and J. Narlikar. (1993) ibid.
 
 # Proclamation.
 
-There can be no doubt that a primary task for the Urantia Papers was to provide us with an appreciation of the full meaning of "the Fatherhood of God and the brotherhood of all men" as these concepts were first presented to us by Jesus.
+There can be no doubt that a primary task for the Urantia Papers was to provide us with an appreciation of the full meaning of “the Fatherhood of God and the brotherhood of all men” as these concepts were first presented to us by Jesus.
 
 There are now something in the order of two billion people on this planet that have some affiliation with Christianity—a religion  acknowledged by the revelators to have kept alive those original concepts of Jesus so that some day they may yet be proclaimed in their full meaning not only to the church that bears his name but to all the world, even to every individual.
 
@@ -193,7 +193,7 @@ Some day a reformation in the Christian church may strike deep enough to get bac
 *************
 
 Can we really doubt that a major aim, possibly the primary aim, for the Fifth Epochal Revelation is the spiritualization of the authoritarian Christian church? And the main means is to be the through actual lives of spirit-led followers of Jesus who unconsciously demonstrate the virtue and the  practicality of a spirit-led life of service to our brothers and sisters?
-To his followers, Jesus said: "Your mission to the world is founded on the fact that I lived a God-revealing life among you, on the truth that you and all other men are sons of God; and it shall consist in the life which you will live among men—the actual and living experience of loving men and serving them, even as I have loved and served you. Let faith reveal your light to the world; let the revelation of truth open the eyes blinded by tradition; let your loving service effectually destroy the prejudice engendered by ignorance. By so drawing close to your fellow men in understanding sympathy and with unselfish devotion, you will lead them into a saving knowledge of the Father's love...I require of my disciples…a life of loving service to your brothers in the flesh." (2043)
+To his followers, Jesus said: “Your mission to the world is founded on the fact that I lived a God-revealing life among you, on the truth that you and all other men are sons of God; and it shall consist in the life which you will live among men—the actual and living experience of loving men and serving them, even as I have loved and served you. Let faith reveal your light to the world; let the revelation of truth open the eyes blinded by tradition; let your loving service effectually destroy the prejudice engendered by ignorance. By so drawing close to your fellow men in understanding sympathy and with unselfish devotion, you will lead them into a saving knowledge of the Father's love...I require of my disciples…a life of loving service to your brothers in the flesh.” (2043)
 
 We no longer live in country villages where everyone knows everyone else, and what they do from cradle to grave. Most of us live in a bustling metropolis in which beautiful lives lived in total devotion to God may go unheeded, unheralded, and unnoticed.
 
@@ -201,11 +201,11 @@ Few of us have the qualities or the opportunities of a Mother Theresa. To live a
 
 To date, belonging to a Urantia group has meant that we belong to a somewhat intellectual discussion group having dubious spiritual value for the building of our own souls—and none at all as a loving service to the brotherhood of mankind.
 
-Urantians really do need to get organized in service groups if the "through this revelation" hope expressed by the revelators is to bear spiritual fruit.
+Urantians really do need to get organized in service groups if the “through this revelation” hope expressed by the revelators is to bear spiritual fruit.
 
 # Life on Planet Earth
 
-There is no universally accepted definition of what constitutes life. However the vast majority of us accept that animals and plants are life forms,  a large majority includes bacteria and fungi as life forms, while almost all think of viruses and disease-causing entities like prions as non-living. If we accept majority opinion, then "life" appears to have been present on our planet for something close to four billion years.
+There is no universally accepted definition of what constitutes life. However the vast majority of us accept that animals and plants are life forms,  a large majority includes bacteria and fungi as life forms, while almost all think of viruses and disease-causing entities like prions as non-living. If we accept majority opinion, then “life” appears to have been present on our planet for something close to four billion years.
 
 Perhaps the oldest evidence for life on our planet comes from the presence in ancient rock formations of complex structures termed stromatolites, structures that may be three meters high that are still being formed today. Stromatolites are found on many continents and in rocks dating back as far as almost four billion years. They are formed from a mat of what used to be called blue-green algae but have now been shown to belong to a simpler and more primitive group of prokaryote bacteria, the photosynthetic cyanobacteria.
 
@@ -220,7 +220,7 @@ The eukaryotes are even more complex but had to wait for the time when sufficien
 This oxygen level appears to have been reached more than two billion years ago. Evidence for the existence of these ancient prokaryotes and eukaryotes is found in fossilized form in many places—such as the Gunflint iron formation in the Huronian Basin of Southern Ontario. There, 30 different types having spheroidal, filamentous and sporelike forms have so far permitted classification of 16 different species from 14 genera. Both red and green algal fossils occur. The red algal species Eosphaera and Huroniospora fossils, both I.9 billion years old, bear close resemblance to the living genus Porphyridium.
 
 The earliest evidence for the existence of the eukaryotes comes from 2.7 billion year old shales in West Australia in which hydrocarbon molecules called steranes have been found. These are produced exclusively by eukaryotic organisms.
-The first fossils that unequivocally indicate the existence of more highly developed species are the crawling trails of sea-bottom-dwelling worm-like creatures, and are found among the Ediacaran fossils that occur as early as about one billion years ago—but disappear as the Cambrian explosion of life forms gained ground around 550 million years ago. Also found among the Ediacaran fossils are "dwelling tubes" composed mainly of calcium carbonate (lime) that were most probably secreted by sessile, filter feeding worm-like creatures.
+The first fossils that unequivocally indicate the existence of more highly developed species are the crawling trails of sea-bottom-dwelling worm-like creatures, and are found among the Ediacaran fossils that occur as early as about one billion years ago—but disappear as the Cambrian explosion of life forms gained ground around 550 million years ago. Also found among the Ediacaran fossils are “dwelling tubes” composed mainly of calcium carbonate (lime) that were most probably secreted by sessile, filter feeding worm-like creatures.
 
 The name Ediacaran comes from the discovery of the fossils of a group of strange, until then unknown, creatures in the Ediacaran mountain range in South Australia. The first discoveries came from rocks about 575 million years old and were of jelly-fish like creatures. Such fossil animals had never been found in rocks older than 550 million years—the beginning of the Cambrian period. Since that first discovery, other fossils classified with this group have been discovered on every continent except Antarctica and are dated as early as almost one billion years ago.
 
@@ -230,29 +230,29 @@ Initially these Ediacarans were pronounced to be an entirely separate group of o
 
 How then do we account for The Urantia Book's claim that the Life Carriers first brought life to this planet only 550 million years ago?
 
-One possibility is that this was part of the revelators' cosmology stated to be "not inspired" that may consist of a "universe frame" by which to aid our understanding of our place in the universe scheme of things. (1260)
+One possibility is that this was part of the revelators' cosmology stated to be “not inspired” that may consist of a “universe frame” by which to aid our understanding of our place in the universe scheme of things. (1260)
 
-Alternatively, it may be covered by the following statements: "The original life plasm of an evolutionary world must contain the full potential for all future developmental variations and for all subsequent evolutionary changes and modifications." (398)
+Alternatively, it may be covered by the following statements: “The original life plasm of an evolutionary world must contain the full potential for all future developmental variations and for all subsequent evolutionary changes and modifications.” (398)
 
-"The material self, the ego-entity of human identity, is dependent during the physical life on the continuing function of the material life vehicle, on the continued existence of the unbalanced equilibrium of energies and intellect which, on Urantia, has been given the name life." (1229)
+“The material self, the ego-entity of human identity, is dependent during the physical life on the continuing function of the material life vehicle, on the continued existence of the unbalanced equilibrium of energies and intellect which, on Urantia, has been given the name life.” (1229)
 
-It is quite possible that the genetic potential of cell forms prior to the beginning of the Cambrian period was quite incapable of eventually generating "intelligent" living organisms. And that only an organism having a genome with the  potential of ultimately evolving to have "intellect" comes within the definition of what the Life Carriers understand as "life."
+It is quite possible that the genetic potential of cell forms prior to the beginning of the Cambrian period was quite incapable of eventually generating “intelligent” living organisms. And that only an organism having a genome with the  potential of ultimately evolving to have “intellect” comes within the definition of what the Life Carriers understand as “life.”
 
-If so, the probable function of the Life Carriers would have been to re-arrange existing genetic material so that, at some distant date, life having "intellect" would have a high probability of evolving. If this is true then the likelihood is that these Ediacaran organisms were the main source of the genetic material used to accomplish this task.
+If so, the probable function of the Life Carriers would have been to re-arrange existing genetic material so that, at some distant date, life having “intellect” would have a high probability of evolving. If this is true then the likelihood is that these Ediacaran organisms were the main source of the genetic material used to accomplish this task.
 
 # The Purpose of the Urantia Papers
 
-"The rule of the Most Highs…is a rule designed to foster the greatest good to the greatest number." (1488)
+“The rule of the Most Highs…is a rule designed to foster the greatest good to the greatest number.” (1488)
 
 There appears to be no good reason to conclude that the Urantia Papers were provided to us other than in complete accordance with this rule. And since almost one third of the content of these Papers is a detailed life of Jesus of Nazareth, surely a major target for the revelators' message must be the two billion Christians who now inhabit the planet.
 
 The Urantia Papers foster a religion of the spirit in contrast to religions of authority. (pp.1728-1733) However a revelation deriving virtually infallible authority from its celestial authorship  and attempting to foster a religion of the spirit is  incongruous and paradoxical—and has about as much chance of influencing religions of authority as Jesus' teachings did of converting the Pharisees.
 
-Religion of the spirit is religion that "is not a religion in the present day meaning of the word, making its chief appeal to the divine spirit of my Father which resides in the mind of man." (1730) It derives its authority, not from celestial sources, but from the fruits of its acceptance that appear in the personal experience of believers. And these fruits are the product of spiritual communion of the individual and the indwelling Father-Spirit. (1730) Sometimes called "the kingdom," entry is exclusively through a faith decision.
+Religion of the spirit is religion that “is not a religion in the present day meaning of the word, making its chief appeal to the divine spirit of my Father which resides in the mind of man.” (1730) It derives its authority, not from celestial sources, but from the fruits of its acceptance that appear in the personal experience of believers. And these fruits are the product of spiritual communion of the individual and the indwelling Father-Spirit. (1730) Sometimes called “the kingdom,” entry is exclusively through a faith decision.
 
-There are at least eight repetitions in the Papers that "only faith" or "faith alone" ensures salvation and entry into "the kingdom." Hence entry cannot depend upon a confidence that is based upon the Papers having celestial authorship. It must be by a personal faith based upon the perception of the Papers' spiritual values and spiritual communion with the indwelling Father-Spirit.
+There are at least eight repetitions in the Papers that “only faith” or “faith alone” ensures salvation and entry into “the kingdom.” Hence entry cannot depend upon a confidence that is based upon the Papers having celestial authorship. It must be by a personal faith based upon the perception of the Papers' spiritual values and spiritual communion with the indwelling Father-Spirit.
 
-It is interesting that there is a parallel process occurring in the Christian Church to demythologise those biblical passages from which the early church derived authority for the priesthood. Led by students of a theological movement in Germany that commenced in the 19th century, it gathered strength among English-speaking Christians when Paul Tillich fled from Nazi influence and established the movement in New York. There, "Tillich and his fellow academicians trained a generation of clergy, but they themselves remained in the theological centres of learning where they talked about this theological revolution only to one another."
+It is interesting that there is a parallel process occurring in the Christian Church to demythologise those biblical passages from which the early church derived authority for the priesthood. Led by students of a theological movement in Germany that commenced in the 19th century, it gathered strength among English-speaking Christians when Paul Tillich fled from Nazi influence and established the movement in New York. There, “Tillich and his fellow academicians trained a generation of clergy, but they themselves remained in the theological centres of learning where they talked about this theological revolution only to one another.”
 
 Prominent amongst those who have spoken out in this movement is the English Bishop, John T. Robinson, whose book Honest to God both shocked and enlightened the generations of the 1960's and 1970's. In present times, authors like Bishop Spong with books such as Rescuing the Bible from Fundamentalism, and Why Christianity Must Change or Die continue the struggle.
 
@@ -275,38 +275,38 @@ Somewhat remarkably, this new interpretation is not far from what we read in the
 
 Spong describes himself as a Christian in exile, but he is not alone. There are vast numbers of Christians sharing that exile, seeking release from  the manacles that bind them to an outdated Christology and an outdated theistic God of reward and punishment.
 
-Surely it was always the purpose of  the Urantia revelation to help these exiles to find their way. So what have we done that is wrong? Where have we failed? For one, very few of us have learned to present "the living Jesus to the church that bears his name." And fewer still have fulfilled the task of presenting in our own lives for the world to see, "Jesus living again in the experience of spirit-born mortals who effectively reveal the Master to all men.
+Surely it was always the purpose of  the Urantia revelation to help these exiles to find their way. So what have we done that is wrong? Where have we failed? For one, very few of us have learned to present “the living Jesus to the church that bears his name.” And fewer still have fulfilled the task of presenting in our own lives for the world to see, "Jesus living again in the experience of spirit-born mortals who effectively reveal the Master to all men.
 
 In some ways Urantia Book readers have  treated the Papers in the same way as Christians treated the Bible. They interpreted them literally. These Papers were never meant to be interpreted literally. If we look inside their wording we find all the signs of similarity to the Jewish midrash methodology. We need to look beneath the surface to find the meaning within the meaning. But our problem is far simpler than that facing outdated Christianity. The authors of the Urantia Papers told us where and how to look—and where their story would soon be outdated.
 
-# Part 4 of The Urantia Book is "the real and ideal revelation"
+# Part 4 of The Urantia Book is “the real and ideal revelation”
 
 of Paper 1.
 
-According to Urantia Paper 7, the divine plan of perfection attainment for us finite ascendant sons of God has three unique components. The first of these is listed as "The Plan of Progressive Attainment." The second is "The Bestowal Plan." And the third is "The Plan of Mercy Ministry." (see p.85)]
+According to Urantia Paper 7, the divine plan of perfection attainment for us finite ascendant sons of God has three unique components. The first of these is listed as “The Plan of Progressive Attainment.” The second is “The Bestowal Plan.” And the third is “The Plan of Mercy Ministry.” (see p.85)]
 
-Why is Plan 2 "The bestowal of the Creator Sons" so important?
+Why is Plan 2 “The bestowal of the Creator Sons” so important?
 
-"2. The Bestowal Plan. The next universal plan is the great Father-revelation enterprise of the Eternal Son and his co-ordinate Sons. This is the proposal of the Eternal Son and consists of his bestowal of the Sons of God upon the evolutionary creations, there to personalize and factualize, to incarnate and make real, the love of the Father and the mercy of the Son to the creatures of all universes." (85)
+“2. The Bestowal Plan. The next universal plan is the great Father-revelation enterprise of the Eternal Son and his co-ordinate Sons. This is the proposal of the Eternal Son and consists of his bestowal of the Sons of God upon the evolutionary creations, there to personalize and factualize, to incarnate and make real, the love of the Father and the mercy of the Son to the creatures of all universes.” (85)
 
 Jesus bestowal was 2000 years ago. Was it not enough?
 
-"The apostles were unable to grasp the real meaning of the Master's utterances regarding the kingdom. The subsequent distortion of Jesus' teachings, as they are recorded in the New Testament, is because the concept of the gospel writers was colored by the belief that Jesus was then absent from the world for only a short time; that he would soon return to establish the kingdom in power and glory." (1860)
+“The apostles were unable to grasp the real meaning of the Master's utterances regarding the kingdom. The subsequent distortion of Jesus' teachings, as they are recorded in the New Testament, is because the concept of the gospel writers was colored by the belief that Jesus was then absent from the world for only a short time; that he would soon return to establish the kingdom in power and glory.” (1860)
 
 The disciples goofed about the second coming and badly messed up Jesus' epochal revelation. The real gospel is now contained in Part 4 of The Urantia Book.
-"Jesus of Nazareth attained the full realization of this potential of spirit personality in human experience; therefore his life of achieving the Father's will becomes man's most real and ideal revelation of the personality of God." (30)
+“Jesus of Nazareth attained the full realization of this potential of spirit personality in human experience; therefore his life of achieving the Father's will becomes man's most real and ideal revelation of the personality of God.” (30)
 
-"Christian churches of the twentieth century stand as great, but wholly unconscious, obstacles to the immediate advance of the real gospel—the teachings of Jesus of Nazareth." (2084)
+“Christian churches of the twentieth century stand as great, but wholly unconscious, obstacles to the immediate advance of the real gospel—the teachings of Jesus of Nazareth.” (2084)
 
 There is very little in the book's Parts 1-3 to enlighten us on that second most important component of a unique plan for the ascendant sons of God—the great Father-revelation enterprise through the bestowal life of our Creator Son.
 
-Surely then Part 4 must be that "most real and ideal revelation" referred to in Paper 1. (p.30) And as that most important second section of the unique plan for our ascendant careers (Paper 7), is it not likely that Part 4 alone was "the real and ideal revelation" that the authors of the Urantia Papers were actually commissioned to provide?
+Surely then Part 4 must be that “most real and ideal revelation” referred to in Paper 1. (p.30) And as that most important second section of the unique plan for our ascendant careers (Paper 7), is it not likely that Part 4 alone was “the real and ideal revelation” that the authors of the Urantia Papers were actually commissioned to provide?
 
 This does not imply that Parts 1-3 are throw away material. They were essential for the training of the Forum and the Seventy, and they were epochal revelation for them. However if the task of rescuing the Fourth Epochal Revelation for mankind is to be accomplished through Part 4, then surely it must be published separately from Parts 1-3.
 
-This is to prevent the confusion about apparent errors in the cosmology of those latter parts from carrying over onto, and hence stigmatizing Part 4, that which the Papers define as "the real and ideal revelation of the personality of God."
+This is to prevent the confusion about apparent errors in the cosmology of those latter parts from carrying over onto, and hence stigmatizing Part 4, that which the Papers define as “the real and ideal revelation of the personality of God.”
 
-"What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!" (2090)
+“What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!” (2090)
 
 # Our Future Task?
 
@@ -327,5 +327,5 @@ This is to prevent the confusion about apparent errors in the cosmology of those
 
 "Religionists must function in society, in industry, and in politics as individuals, not as groups, parties, or institutions.
 
-"Religionists are of no more value in the tasks of social reconstruction than nonreligionists except in so far as their religion has conferred upon them enhanced cosmic foresight and endowed them with that superior social wisdom which is born of the sincere desire to love God supremely and to love every man as a brother in the heavenly kingdom. An ideal social order is that in which every man loves his neighbor as he loves himself." (from Paper 99, Sections 1 and 2.)
+“Religionists are of no more value in the tasks of social reconstruction than nonreligionists except in so far as their religion has conferred upon them enhanced cosmic foresight and endowed them with that superior social wisdom which is born of the sincere desire to love God supremely and to love every man as a brother in the heavenly kingdom. An ideal social order is that in which every man loves his neighbor as he loves himself.” (from Paper 99, Sections 1 and 2.)
 

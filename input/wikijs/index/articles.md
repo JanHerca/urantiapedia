@@ -40,14 +40,14 @@ Status | Source | Issue | Title | Author | Tags
 :ballot_box_with_check: | Innerface | Vol. 01, No. 1. | [Further Comments on Channeling](/en/article/Meredith_Sprunger/Further_Comments_on_Channeling) | Meredith Sprunger | Channeling
 :ballot_box_with_check: | Innerface | Vol. 01, No. 1. | [I Want to be Aggressive](/en/article/Ann_Bendall/I_Want_to_be_Aggressive) | Ann Bendall | Psychology; Religion
 :ballot_box_with_check: | Innerface | Vol. 01, No. 1. | [On the Urgent Need for Secondary Works](/en/article/On_the_Urgent_Need_for_Secondary_Works) |  | Religion; The Urantia Book
+:ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [Time for More Change? Symbols, Cults, and _The Urantia Book_](/en/article/Ken_Glasziou/Time_for_More_Change_Symbols_Cults) | Ken Glasziou | Religion; The Urantia Book
+:ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [The Alpha and the Omega](/en/article/The_Alpha_and_the_Omega) | M. Scott Peck | Religion
+:ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [Unbroken Communion with our Thought Adjuster](/en/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster) | Ann Bendall | Psychology; Thought Adjusters
 :white_square_button: | Innerface | Vol  5, No. 7. | "Piltdown Man." | Ken Glasziou | Biology and Genetics; Gardner
 :white_square_button: | Innerface | Vol. 01,  No. 5. | "The Parliament of the World's Religions." | Byron Belitsos | Religion
 :white_square_button: | Innerface | Vol. 01,  No. 5. | "The Real Gospel." | Norm Duval | Religion
 :white_square_button: | Innerface | Vol. 01, No. 2. | "Adam and Eve" | Ann Bendall | Religion; The Urantia Book
-:white_square_button: | Innerface | Vol. 01, No. 2. | "The Alpha and the Omega." | M. Scott Peck | Religion
 :white_square_button: | Innerface | Vol. 01, No. 2. | "The Remembrance Supper." | Sunshine Coast Study Group | Religion; The Urantia Book
-:white_square_button: | Innerface | Vol. 01, No. 2. | "Time for More Change. Symbols, Cults, and The Urantia Book" | Ken Glasziou | Religion; The Urantia Book
-:white_square_button: | Innerface | Vol. 01, No. 2. | "Unbroken Communion with our Thought Adjuster" | Ann Bendall | Psychology; Thought Adjusters
 :white_square_button: | Innerface | Vol. 01, No. 2. | "Was the Crucifixion really Necessary?" | Ken Glasziou | Religion; Theology
 :white_square_button: | Innerface | Vol. 01, No. 3. | "Heart—the Alpha and Omega of Spirituality." | Rob Crickett | Religion
 :white_square_button: | Innerface | Vol. 01, No. 3. | "High on Angels." | Dick Bain | Religion; The Urantia Book

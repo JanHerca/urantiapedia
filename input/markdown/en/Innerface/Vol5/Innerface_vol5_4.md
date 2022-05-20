@@ -18,7 +18,7 @@ Probably Jesus' disciples felt themselves as being at a level above John's. Mayb
 
 The exact wording of their baptismal ceremony is lost to us, but it is unlikely to have been very different from that of their dead leader.
 
-John, the Baptist called upon the Jews to, "Repent and be baptized." Since large crowds flocked to John for baptism, the ceremony was probably very short and terse, something similar to, "Do you renounce the devil and all his works and do you repent of all your sins?"—followed by an "I do" response. Newcomers were then likely to have received a welcome into the kingdom.
+John, the Baptist called upon the Jews to, “Repent and be baptized.” Since large crowds flocked to John for baptism, the ceremony was probably very short and terse, something similar to, “Do you renounce the devil and all his works and do you repent of all your sins?”—followed by an “I do” response. Newcomers were then likely to have received a welcome into the kingdom.
 
 Is it not a fact that we humans love to think of ourselves as being special—chosen ones? If it were not so, lots less of us would aspire to becomes priests, ministers, doctors, missionaries, nurses, faith healers, alternative medicine practitioners, or whatever occupation it is that permits us to become recipients of the everlasting gratitude of those upon whom we distribute our largess, in other words to become God-players.
 
@@ -28,23 +28,23 @@ While, on the surface, God-playing endeavors may appear to both ourselves and ot
 
 God-playing and the pride associated with it is an ongoing trap. For once our motives become polluted and, in reality, we commence to value the glory of men, then that glory is its own reward. As such,  our efforts have no spiritual value.
 
-"Seek not, then, for false peace and transient joy but rather for the assurance of faith and the sureties of divine sonship which yield composure, contentment, and supreme joy in the spirit." (1674)
+“Seek not, then, for false peace and transient joy but rather for the assurance of faith and the sureties of divine sonship which yield composure, contentment, and supreme joy in the spirit.” (1674)
 
 # The Importance of Symbols— Their Use and Misuse
 
 "A long, long time ago, a man called Moses made an announcement to the members of his nation. Moses said, 'Jehovah has said that henceforth we are to worship Him without the use of hand made idol images. From now on, nothing in between—just you and God.'
 
-"I can almost hear the reaction of the children of Israel: 'This new law will never work! Any fool knows you need an idol-image to make contact with Jehovah. One needs the other, and we need both. Moses! we warn you, a lot of innocent people are going to be led astray if you do away with these beautiful images. God uses such means." (from E. Jabay, "The Kingdom of Self")
+“I can almost hear the reaction of the children of Israel: 'This new law will never work! Any fool knows you need an idol-image to make contact with Jehovah. One needs the other, and we need both. Moses! we warn you, a lot of innocent people are going to be led astray if you do away with these beautiful images. God uses such means.” (from E. Jabay, “The Kingdom of Self”)
 
-In the Urantia Book we can read Jesus words, "He who has ears to hear, let him hear." Symbolism has been used extensively in the Urantia movement as a means to power. But symbols could have no power over us if we listened to Moses' injunction. It is not yet out of date.
+In the Urantia Book we can read Jesus words, “He who has ears to hear, let him hear.” Symbolism has been used extensively in the Urantia movement as a means to power. But symbols could have no power over us if we listened to Moses' injunction. It is not yet out of date.
 
-We humans have two extreme "ways" to proclaim or demonstrate our faith and allegiance to whatever it is we might value. One "way" is that, having selected the cause of the moment for which we are prepared to offer this allegiance, we henceforth devote a major part of our energies in doing battle for that cause.
+We humans have two extreme “ways” to proclaim or demonstrate our faith and allegiance to whatever it is we might value. One “way” is that, having selected the cause of the moment for which we are prepared to offer this allegiance, we henceforth devote a major part of our energies in doing battle for that cause.
 
-An automatic result is that we find ourselves against all those whose opinion, relative to "the cause," differs from our own.
+An automatic result is that we find ourselves against all those whose opinion, relative to “the cause,” differs from our own.
 
-In our genetic background we have an animal "tooth and claw" heritage, only barely below a superficial surface barrier erected upon the scaffolding of "civilized" customs.
+In our genetic background we have an animal “tooth and claw” heritage, only barely below a superficial surface barrier erected upon the scaffolding of “civilized” customs.
 
-This barrier is readily broken, and in fact most "causes" tend to enlist the the skills of those who have developed expertise in stirring our animal instincts in order to break down the barriers.
+This barrier is readily broken, and in fact most “causes” tend to enlist the the skills of those who have developed expertise in stirring our animal instincts in order to break down the barriers.
 
 Human song, poetry, literature, rhetoric, etc., is littered with symbolism and exhortations that operate to arouse us to fight, even die, for the coming battles. We have a thousand and one battle hymns to unify us under God as we join battle with the enemy. And we have another thousand and one flags and symbols to identify us, friend from enemy, and to unify us in proclaiming our cause.
 
@@ -87,33 +87,33 @@ Matt Neibaur adds as follows:
 
 "I believe that the Revelators adhered to the view of community knowledge-ownership. Knowledge that benefits the community—mankind—is to be owned by the community for the common good. Jesus, in discussing wealth, made the following recommendations:
 
-"If you chance to secure wealth by flights of genius, if your riches are derived from rewards of inventive endowment, do not lay claim to an unfair portion of such rewards. The genius owes something to both his ancestors and his progeny; likewise is he under obligation to the race, nation, and circumstances of his inventive discoveries; he should also remember that it  was as man among men that he labored and wrought out his inventions." (1464)
+“If you chance to secure wealth by flights of genius, if your riches are derived from rewards of inventive endowment, do not lay claim to an unfair portion of such rewards. The genius owes something to both his ancestors and his progeny; likewise is he under obligation to the race, nation, and circumstances of his inventive discoveries; he should also remember that it  was as man among men that he labored and wrought out his inventions.” (1464)
 
-"If the inventive genius owes something to the society in  which such creativity was nurtured, would the same not hold for the inventor of text? Clearly, the Revelators of The Urantia Book take a more enlightened view of individual ownership of intellectual property than does modern society. It is indeed ironic that the copyright mores could be ignored by them, yet fanatically endorsed by the community to which the book was given. This makes me doubt the authenticity of a mandate to copyright the Urantia Book text. A radical reform of our ideas of individual ownership of text will certainly come to pass as the electronic media invades our lives. Perhaps then, we will begin to heed the advice of Jesus on ownership and reward as we advance in the direction of light and life."
+“If the inventive genius owes something to the society in  which such creativity was nurtured, would the same not hold for the inventor of text? Clearly, the Revelators of The Urantia Book take a more enlightened view of individual ownership of intellectual property than does modern society. It is indeed ironic that the copyright mores could be ignored by them, yet fanatically endorsed by the community to which the book was given. This makes me doubt the authenticity of a mandate to copyright the Urantia Book text. A radical reform of our ideas of individual ownership of text will certainly come to pass as the electronic media invades our lives. Perhaps then, we will begin to heed the advice of Jesus on ownership and reward as we advance in the direction of light and life.”
 
 # The Urantia Papers: The Revelators' Unenviable Task
 
 Ken Glasziou, Qld., Australia
 
-"But no revelation short of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space." (1008)
+“But no revelation short of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space.” (1008)
 
-"Religion is the revelation to man of his divine and eternal destiny." (2075) So say the revelators. Certainly one of the major tasks for the revelators of The Urantia Papers was to inform Urantians about their "divine and eternal destiny" within the context of a cosmology that includes Paradise, Havona, the seven superuniverses, and the hierarchical structure for the "heavenly hosts."
+“Religion is the revelation to man of his divine and eternal destiny.” (2075) So say the revelators. Certainly one of the major tasks for the revelators of The Urantia Papers was to inform Urantians about their “divine and eternal destiny” within the context of a cosmology that includes Paradise, Havona, the seven superuniverses, and the hierarchical structure for the “heavenly hosts.”
 
-Prior to receipt of the Fifth Epochal Revelation, its predecessor revelations had left us with only the scant information that "in my Father's house, there are many mansions" plus some subsidiary information that, in our celestial life, we would be "as the angels" hence "neither taken nor given in marriage." Beyond this, we had no knowledge of the true meaning of  concepts such as "eternal life," "heaven," "hell," "Paradise," nor of  the hierarchy of heavenly beings who co-inhabit the central and superuniverses with us.
+Prior to receipt of the Fifth Epochal Revelation, its predecessor revelations had left us with only the scant information that “in my Father's house, there are many mansions” plus some subsidiary information that, in our celestial life, we would be “as the angels” hence “neither taken nor given in marriage.” Beyond this, we had no knowledge of the true meaning of  concepts such as “eternal life,” “heaven,” “hell,” “Paradise,” nor of  the hierarchy of heavenly beings who co-inhabit the central and superuniverses with us.
 
-The Urantia Book takes pain to inform us that revelation to the universes is subject to strict control and restrictions. A seemingly reasonable question that we earthlings might ask is, "Why?" For without some reasonable concept of  the reasons for such restrictions, how can we have a true grasp of the "what, why, and wherefore" of the Fifth Epochal Revelation? Furthermore, without such knowledge, how can we hope to understand why the book has been written in such a peculiar manner?
+The Urantia Book takes pain to inform us that revelation to the universes is subject to strict control and restrictions. A seemingly reasonable question that we earthlings might ask is, “Why?” For without some reasonable concept of  the reasons for such restrictions, how can we have a true grasp of the “what, why, and wherefore” of the Fifth Epochal Revelation? Furthermore, without such knowledge, how can we hope to understand why the book has been written in such a peculiar manner?
 
-In my mind's eye (wherever that may be), I can already "see" our Urantia Book fundamentalists spontaneously responding, "What peculiar manner?" However, I would question whether it is possible for anyone not to notice the "strangeness" of this book except that they have failed to ponder long, hard, and diligently upon things not understood. So, please, please, double please,  give it serious time and thought!
+In my mind's eye (wherever that may be), I can already “see” our Urantia Book fundamentalists spontaneously responding, “What peculiar manner?” However, I would question whether it is possible for anyone not to notice the “strangeness” of this book except that they have failed to ponder long, hard, and diligently upon things not understood. So, please, please, double please,  give it serious time and thought!
 
 Why is it important? Well it is coming up to fifty years since the book was first printed and less than about one in every ten thousand persons on the planet could ever have even seen or heard of the book—and probably less than one in a million is likely to have any comprehension of what it is about. Furthermore the older generations of Christians have their feet of clay buried in concrete, refusing to give an inch to new knowledge and concepts, with the result that each succeeding generation is increasingly religionless. That automatically means no realistic purpose to life, no reason for ethics or morals, and nothing to which to dedicate self but self itself—a sure recipe for social chaos and ultimate anarchy.
 
-A point to be considered is that we may be answerable at some future time in our universe careers for having presented The Urantia Book to the world essentially as a divinely-dictated revelation, despite the contrary written exhortations of the revelators themselves. This action effectively gives The Urantia Book a "banned reading" status for most of the rank and file of the Christian world. One reason this is so may be found in Revelations 22:18,19. Look it up!
+A point to be considered is that we may be answerable at some future time in our universe careers for having presented The Urantia Book to the world essentially as a divinely-dictated revelation, despite the contrary written exhortations of the revelators themselves. This action effectively gives The Urantia Book a “banned reading” status for most of the rank and file of the Christian world. One reason this is so may be found in Revelations 22:18,19. Look it up!
 
-It is a sad truth that the Urantia Papers never ever had need for the protection of copyright, nor did they ever have any need for the status of "divinely-dictated revelation" to be plastered upon them. The truths in these Papers are magnificently self-authenticating for those with "eyes to see and ears to hear."  They can stand on their own feet and by their own merit. How long will it take for that truth to be understood?
+It is a sad truth that the Urantia Papers never ever had need for the protection of copyright, nor did they ever have any need for the status of “divinely-dictated revelation” to be plastered upon them. The truths in these Papers are magnificently self-authenticating for those with “eyes to see and ears to hear.”  They can stand on their own feet and by their own merit. How long will it take for that truth to be understood?
 
 The restrictions imposed upon the revelators by the rules for revelation included that they must not provide us with unearned knowledge, nor are they permitted to anticipate the scientific discoveries that they expect us to make over the next 1000 years. (1109) At first glance these impositions do not appear all that intimidating. But some realistic thinking on the problem will soon reveal the depth of the difficulties so created.
 
-Imagine that you have been placed in a time machine and the date wound back to the end of the 19th century. You find yourself scheduled to give a talk to a group of erudite citizens, your topic is the "clockwork nature of the universe" and you are familiar with the recent 20th century advances in quantum physics that demonstrate conclusively that the universe is not a clockwork-like machine after all, and that the fundamentals of cause and effect thinking have gone down the drain forever.
+Imagine that you have been placed in a time machine and the date wound back to the end of the 19th century. You find yourself scheduled to give a talk to a group of erudite citizens, your topic is the “clockwork nature of the universe” and you are familiar with the recent 20th century advances in quantum physics that demonstrate conclusively that the universe is not a clockwork-like machine after all, and that the fundamentals of cause and effect thinking have gone down the drain forever.
 
 You have the same prohibitions as the revelators of the Urantia Papers, you cannot provide people with unearned knowledge. So how could you even hint that the materialistic thinking of this 19th century audience could be wrong—except that you unintentionally provide them with unearned knowledge? Remember you are from the future; your audience will assume your every word has authority.
 
@@ -125,11 +125,11 @@ Why is it that the laws of revelation should be so weighted against the revelato
 
 The clue might be found in what the book says about our free will:
 
-"No other being, force, creator, or agency in all the wide universe of universes can interfere to any degree with the absolute sovereignty of the mortal free will, as it operates within the realms of choice, regarding the eternal destiny of the personality of the choosing mortal. As pertains to eternal survival, God has decreed the sovereignty of the material and mortal will, and that decree is absolute." (71)
+“No other being, force, creator, or agency in all the wide universe of universes can interfere to any degree with the absolute sovereignty of the mortal free will, as it operates within the realms of choice, regarding the eternal destiny of the personality of the choosing mortal. As pertains to eternal survival, God has decreed the sovereignty of the material and mortal will, and that decree is absolute.” (71)
 
 There are several similar statements about the absolute sovereignty of human free will. So what is free will?
 
-The Urantia Book tells us that our universe careers will finally be rewarded by our attaining of the presence of the Universal Father and then being ushered into the Corps of Finality—provided we make a freewill decision of total commitment to the "doing of God's will."
+The Urantia Book tells us that our universe careers will finally be rewarded by our attaining of the presence of the Universal Father and then being ushered into the Corps of Finality—provided we make a freewill decision of total commitment to the “doing of God's will.”
 
 Alternatively, if we finally reject making the commitment to doing God's will, we will become as if we had never been. (37)
 
@@ -151,13 +151,13 @@ Now comes the crunch. Rightly or wrongly, it seems to me that uncertainty is an 
 
 To start with, for a free will decision to be made, events cannot be predetermined. The Urantia Book cites a number of conditions that introduce varying degrees of unpredictability into whatever will be. And now modern physics has supplied clear-cut empirical evidence that we do not live in a clockwork universe but one in which probability, that is uncertainty, is the norm.
 
-Besides the clockwork universe concept, now thoroughly discredited, there is another kind of "certainty complex" that can run our lives and take away from our making of free will decisions. This was illustrated for me by a friend who had the task of training air traffic controllers in an Islamic country.
+Besides the clockwork universe concept, now thoroughly discredited, there is another kind of “certainty complex” that can run our lives and take away from our making of free will decisions. This was illustrated for me by a friend who had the task of training air traffic controllers in an Islamic country.
 
 He was trying, but failing, to introduce a panic stations frame of mind into his trainees if two incoming commercial airliners, laden with passengers, were inadvertently put upon a collision course. Then one day it happened, everyone went about their duties quietly and efficiently with no signs of panic or unusual hurry. The collision was avoided, though it may not have been so if it had not been noticed until about 30 seconds later.
 
 Discussing this situation with his trainees he discovered that its foundation was a deep trust in whatever happens does so because it is the will of Allah. Hence if Allah willed the crash, they could not prevent it, and if Allah did not will a crash, it would not happen.
 
-For me, Jesus' complete trust in God, as illustrated by his statement to the Indian boy, "Ganid, I have absolute confidence in my heavenly Father's overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me...," was of a totally different order of certainty. Jesus had faith in God's overcare but not on the basis of whether whatever happens is predetermined by God's will. On the contrary, The Urantia Papers are quite adamant that it is our free will decisions that are essential for the spiritualization of our being.
+For me, Jesus' complete trust in God, as illustrated by his statement to the Indian boy, “Ganid, I have absolute confidence in my heavenly Father's overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me...,” was of a totally different order of certainty. Jesus had faith in God's overcare but not on the basis of whether whatever happens is predetermined by God's will. On the contrary, The Urantia Papers are quite adamant that it is our free will decisions that are essential for the spiritualization of our being.
 
 Given a celestial revelation, at our present state of evolutionary advancement it is inevitable that a high proportion of Urantian mortals will turn it into a set of hard and fast rules and regulations to obey.  By doing so, the book tells us we become obedient servants, and not freewill sons of God.
 
@@ -165,33 +165,33 @@ So, if in our minds we are certain that God exists and we are also certain that 
 
 It is my conclusion that we can be truly free of the reward or punishment incentive, and so in a position to choose the will of the God unconditionally, only if there is room for uncertainty both about God's existence and the consequences thereof.
 
-If this suggestion is correct, then the revelators could not provide us with a totally self-authenticating revelation. They had to leave room for doubt or else they would violate God's decree regarding the absolute sovereignty of the mortal free will. So is this the reason that The Urantia Book is fraught with difficulties and "strangeness"?
+If this suggestion is correct, then the revelators could not provide us with a totally self-authenticating revelation. They had to leave room for doubt or else they would violate God's decree regarding the absolute sovereignty of the mortal free will. So is this the reason that The Urantia Book is fraught with difficulties and “strangeness”?
 
 Quotations from the book that are in accord with these thoughts are:
 
-"But for you, my children, and for all others who would follow you into this kingdom, there is set a severe test. Faith alone will pass you through its portals...." (1569)
+“But for you, my children, and for all others who would follow you into this kingdom, there is set a severe test. Faith alone will pass you through its portals....” (1569)
 
-Here a reminder of Brian Appleyard's telling remark is warranted, "If we had reason for faith, it would not be faith at all, it would be logic. Faith can only be unreasonable."
+Here a reminder of Brian Appleyard's telling remark is warranted, “If we had reason for faith, it would not be faith at all, it would be logic. Faith can only be unreasonable.”
 
 So if the Urantia Papers were errorless, as well as containing prophetic materials, we would be forced to accept it as having divine authority—thus leaving no room for faith. But only faith can pass us through the portals!
 
 Then we have:
 
-"The existence of God can never be proved by scientific experiment or by pure reason...." (24)
+“The existence of God can never be proved by scientific experiment or by pure reason....” (24)
 
-"Revelation is validated only by human experience..." (1106)
+“Revelation is validated only by human experience...” (1106)
 
-"The proof of revelation is this same fact of human experience..." (1105)
+“The proof of revelation is this same fact of human experience...” (1105)
 
-"The fact of religion consists wholly in the religious experience of the rational and average human being." (1105)
+“The fact of religion consists wholly in the religious experience of the rational and average human being.” (1105)
 
 My last supporting quote says:
 
-"But long before reaching Havona, these ascendant children of time have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of  difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. Long since, the battle cry of these pilgrims became: "In liaison with God, nothing—absolutely nothing—is impossible." (291)
+“But long before reaching Havona, these ascendant children of time have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of  difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. Long since, the battle cry of these pilgrims became: ”In liaison with God, nothing—absolutely nothing—is impossible." (291)
 
 It certainly seems that mortal life is meant to be charged with uncertainty. Thus am I able to say:
 
-"Thank you Father, for the errors and the 'funny' stuff in The Urantia Book, thank you for those hilarious bits about Adamson and Ratta and their invisible children; thank you for those incredible, impossible, long-ranging passenger birds that carry two people 500 miles non-stop—and talk; thank you for the forty days to Pentecost conundrum; and thank you for the beauty and the grandeur of those Urantia Papers that reflect a level of genius that is light years beyond the talents of mere men. But above all else, I give you thanks Father, for the life of Jesus as it reveals you to me. And lastly, I give thanks for those precious words of Job saying, 'even though you slay me, yet would I serve you,' for it is my will, Father, that your will be done in me, no matter what the consequences. My Father, I do so sincerely love you just for being you, and for you allowing me to be me. Once more, thank you. Amen."
+“Thank you Father, for the errors and the 'funny' stuff in The Urantia Book, thank you for those hilarious bits about Adamson and Ratta and their invisible children; thank you for those incredible, impossible, long-ranging passenger birds that carry two people 500 miles non-stop—and talk; thank you for the forty days to Pentecost conundrum; and thank you for the beauty and the grandeur of those Urantia Papers that reflect a level of genius that is light years beyond the talents of mere men. But above all else, I give you thanks Father, for the life of Jesus as it reveals you to me. And lastly, I give thanks for those precious words of Job saying, 'even though you slay me, yet would I serve you,' for it is my will, Father, that your will be done in me, no matter what the consequences. My Father, I do so sincerely love you just for being you, and for you allowing me to be me. Once more, thank you. Amen.”
 
 # A Crime Against Humanity?
 
@@ -207,9 +207,9 @@ Probably very few Christians ever give a thought to the implications this theme 
 
 At the basis of this doctrine we find Paul and St Augustine, both of whom deduced that mankind is plagued by congenital sin, that God chooses who will and who will not be saved even before they are born, and that God has pre-knowledge of who will accept or reject grace when it is offered. For congenital sin, they placed the blame on Adam and his fall.
 
-Hence if we follow the "saved by the blood of Christ" theme to its origins, to be consistent we have to subscribe to a belief in Adam and Eve as the first man and woman, and their fall from grace, an event that is supposed to have occurred just a few thousands of years ago!
+Hence if we follow the “saved by the blood of Christ” theme to its origins, to be consistent we have to subscribe to a belief in Adam and Eve as the first man and woman, and their fall from grace, an event that is supposed to have occurred just a few thousands of years ago!
 
-It is a fact that most practicing Christians know almost nothing  about these doctrines. However, they do love the "saved by the blood of Christ" bit, as they feel it digs them out of some rather deep holes.
+It is a fact that most practicing Christians know almost nothing  about these doctrines. However, they do love the “saved by the blood of Christ” bit, as they feel it digs them out of some rather deep holes.
 
 It is also a fact that many Christian priests and ministers no longer hold rigidly to such doctrines but go along with them for the sake of peace among their congregations.   
 
@@ -227,21 +227,21 @@ Can we lay the blame for this crime anywhere? I think the answer is no, for both
 
 So where are we Urantians? How is it that nearly fifty years after publication of the Urantia Papers, our new revelation can be sure of only a few thousand more or less dedicated readers? More importantly, why?
 
-The answer appears to lies squarely with those who were there at the origins of the revelatory saga, and who, despite the protests of their celestial guides, turned the papers into something they were never meant to be—a "by proxy," divinely-dictated revelation, a new God's Bible. Take a look at Clyde Bedell's Concordex and see the thinking of the early Urantia movement accurately reflected. Here we have a God-given revelation with all the answers, the advertising says, a book to revolutionize the world.
+The answer appears to lies squarely with those who were there at the origins of the revelatory saga, and who, despite the protests of their celestial guides, turned the papers into something they were never meant to be—a “by proxy,” divinely-dictated revelation, a new God's Bible. Take a look at Clyde Bedell's Concordex and see the thinking of the early Urantia movement accurately reflected. Here we have a God-given revelation with all the answers, the advertising says, a book to revolutionize the world.
 
 And of course it is and will, but how long will it be before we realize that the way by which its magnificent message has been broadcast to the world at large has failed dismally. Surely experience has now confirmed that the message cannot be sold to Christianity, and probably not to any other religion, if presented as another  God-authenticated  revelation?
 
-Meredith Sprunger is by far our best qualified observer in this area, and states: "More than forty years experience in interfacing with the most progressive segment of mainline Christianity has taught me that anything purporting to be a new revelation is not within the boundaries of current theological-institutional respectability." (Christian Fellowship Journal 8 (1) 23, 1998)
+Meredith Sprunger is by far our best qualified observer in this area, and states: “More than forty years experience in interfacing with the most progressive segment of mainline Christianity has taught me that anything purporting to be a new revelation is not within the boundaries of current theological-institutional respectability.” (Christian Fellowship Journal 8 (1) 23, 1998)
 
 To even think that the revelators were unaware that such would be the case is to cast aspersions indicating naivety on their part. Yet the Papers leave no doubt that their content is meant to upgrade all religion! We are expected to find a way.
 
-"The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness." (43)
+“The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness.” (43)
 
 In this section, we are told to take the message of the Papers and present it an acceptable way to all manner of men.
 
-A disquieting fact is that many Urantia Book readers convey an antagonistic attitude to Christianity and the churches, along with a "don't care" attitude that Christians are not accepting The Urantia Book.
+A disquieting fact is that many Urantia Book readers convey an antagonistic attitude to Christianity and the churches, along with a “don't care” attitude that Christians are not accepting The Urantia Book.
 
-But Paper 196 says: "What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions." Obviously the revelators do care.
+But Paper 196 says: “What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions.” Obviously the revelators do care.
 
 When a commercial firm goes bankrupt it either disappears or else someone else comes along, dismisses the old management, and starts anew. And if they fail, the cycle might restart until someone gets it right, and the firm prospers. Otherwise death is assured.
 
@@ -251,15 +251,15 @@ Can we get away from a fundamentalist-style of thinking and simply market this b
 
 To succeed, we would need to forget about celestial authorship and simply admit that the true origins of the text are unknown (which is the truth). As pointed out by Meredith Sprunger, the origin and authorship of a book is not a philosophical criterion of truth. Regardless of whether supermortals or human beings wrote the Urantia Book, it must still be evaluated by its truth content and not by authorship. (CFJ, 8 (1) 6)
 
-Probably the names of authors would best be omitted from a table of contents, and perhaps could be added at the end of each Paper as, "attributed to a...." But if the strange names of authors might be a hindrance to acceptance, then they should be omitted.
+Probably the names of authors would best be omitted from a table of contents, and perhaps could be added at the end of each Paper as, “attributed to a....” But if the strange names of authors might be a hindrance to acceptance, then they should be omitted.
 
 We must remember how Jesus told his opponents that it was not important that they believe in him but it was important that they believe in the Father-God about whom he taught.
 
 We would then have to stand back, see what happens, and modify approaches accordingly. The aim of a new approach would be to get the book read because of the merit of its outstanding concepts and ideas, then leave it to new readers and the Spirit of Truth to figure what it means to themselves and for themselves.
 
-Maybe the book needs a different name, perhaps "The Urantian Papers" or perhaps a neutral name like "A Philosophy of Religion."
+Maybe the book needs a different name, perhaps “The Urantian Papers” or perhaps a neutral name like “A Philosophy of Religion.”
 
-Thought also needs to be given to making Part 4 available as a "Life of Jesus" without the revelatory overtones. It could start at Section 1 of Paper 121 but be modified to substitute "Jesus: for "Michael" where appropriate.
+Thought also needs to be given to making Part 4 available as a “Life of Jesus” without the revelatory overtones. It could start at Section 1 of Paper 121 but be modified to substitute “Jesus: for ”Michael" where appropriate.
 
 If we could get Christians to be comfortable with having the Papers on their bookshelves, and particularly for clergy and academics to do so, a new start might be just around the corner. 
 
@@ -267,15 +267,15 @@ If we could get Christians to be comfortable with having the Papers on their boo
 
 To justify significant change, we must first admit to ourselves that our present approach has failed. Jim Mills, who was a prominent oldie from Forum days, warned me of this prior to his death a few years ago. In his retiring years, Jim studied philosophy, graduated while in his eighties, and taught at the Pensacola Campus of the University of Florida. He was dedicated to getting The Urantia Book accepted for study at tertiary level. But his efforts were in vain.
 
-This was back in 1987, even before the present mess-up had made things so much worse. Jim said straight out that in his opinion The Urantia Book had already failed and that at some time in the future, the revelators would have to make another try. However, the book itself states the revelation will succeed, so surely it is too early to give up yet. Paper 195 says, "...the truths of Jesus gospel will persist gloriously to illuminate a new and better way."
+This was back in 1987, even before the present mess-up had made things so much worse. Jim said straight out that in his opinion The Urantia Book had already failed and that at some time in the future, the revelators would have to make another try. However, the book itself states the revelation will succeed, so surely it is too early to give up yet. Paper 195 says, “...the truths of Jesus gospel will persist gloriously to illuminate a new and better way.”
 
 I'm told I'm getting old and repetitive and many readers are fed up with me plugging this theme. So perhaps in future I'll stick with the science content of the book.
 
-But before giving up, there are two things of which I am sure. One is that Christianity as a whole is frightened of anything claiming to be a new revelation. How much this fear is due to the last few verses of the Bible, I have no way of knowing. The Bible ends with, "I, John, solemnly warn everyone who hears the prophetic words of this book: if anyone adds anything to them, God will add to his punishment the plagues described in this book. And if anyone takes anything away, God will take away from him his share of the fruit of the tree of life and of the Holy City...."  Scary stuff!
+But before giving up, there are two things of which I am sure. One is that Christianity as a whole is frightened of anything claiming to be a new revelation. How much this fear is due to the last few verses of the Bible, I have no way of knowing. The Bible ends with, “I, John, solemnly warn everyone who hears the prophetic words of this book: if anyone adds anything to them, God will add to his punishment the plagues described in this book. And if anyone takes anything away, God will take away from him his share of the fruit of the tree of life and of the Holy City....”  Scary stuff!
 
 My second point of sureness is that reform of Christianity was the major hope of the revelators for the success of their revelation. I believe they were well aware that Christianity would not easily embrace a new revelation, and that those who do accept it would need to find the way to introducing it to the flock. They tell us:
 
-"Paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism." (2082)
+“Paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism.” (2082)
 
 So please, let us not be as the majority of the current crop of Christians with feet set in concrete. Let us face reality. For in consideration of the degenerate state of Western society and for the sake of the new generations growing up without God and without meaning in their lives, would it not be a crime against humanity to fail to do so?
 
@@ -291,50 +291,50 @@ Author: **Ann Bendall, Qld.**
 
 Jesus on the cross, his head bowed, blood dripping from his head with its crown of thorns, his feet and hands with nails piercing them, and from his side where the soldier thrust his sword. This was an image of my daily life as a child, and despite intense training on the atonement philosophy, the sight of this gentle man being so inhumanely murdered negated the value of the rationale presented to somehow make it seem necessary or worthwhile.
 
-"The fact of the cross became the very center of subsequent Christianity; but it is not the central truth of the religion which may be derived from the life and teachings of Jesus of Nazareth. " (1615)
+“The fact of the cross became the very center of subsequent Christianity; but it is not the central truth of the religion which may be derived from the life and teachings of Jesus of Nazareth. ” (1615)
 
 A number of churches of the 1990's are downplaying the cross, and instead of a life-like cross only a small one in a non-focal position can be found. They are preaching the living Christ, the way, the truth, and the light. Perhaps the cross now symbolizes mankind's inhumanity, or embarrassment at the atonement doctrine.
 
 It appears that no other planet has the local nickname that ours does—Urantia is known throughout the universes as the world of the cross—and therefore assume that this indicates that no other Bestowal Son in our Superuniverse has been crucified.
 
-My humiliation at our planet's claim to fame is tempered by the fact that, in the local universe, Jesus "made the cross an eternal symbol of the triumph of love over hate and the victory of truth over evil when he prayed, "Father, forgive them for they know not what they do."
+My humiliation at our planet's claim to fame is tempered by the fact that, in the local universe, Jesus “made the cross an eternal symbol of the triumph of love over hate and the victory of truth over evil when he prayed, ”Father, forgive them for they know not what they do."
 
-That devotion of love was contagious throughout a vast universe. and the disciples caught it from their Master. The very first teacher of his gospel who was called upon to lay down his life in his service said, as they stoned him to death, "Lay not this sin to their charge." (2018)
+That devotion of love was contagious throughout a vast universe. and the disciples caught it from their Master. The very first teacher of his gospel who was called upon to lay down his life in his service said, as they stoned him to death, “Lay not this sin to their charge.” (2018)
 
-We are also advised that, "On millions of inhabited worlds, tens of millions of evolving creatures who may have been tempted to give up the moral struggle and abandon the good fight of faith, have taken one more look at Jesus on the cross and then have forged on ahead, inspired by God's laying down his incarnate life in devotion to the unselfish service of man." (2018)
+We are also advised that, “On millions of inhabited worlds, tens of millions of evolving creatures who may have been tempted to give up the moral struggle and abandon the good fight of faith, have taken one more look at Jesus on the cross and then have forged on ahead, inspired by God's laying down his incarnate life in devotion to the unselfish service of man.” (2018)
 
-The symbolism of the cross appears important, if repetition is any indicator. The revelators rarely repeat themselves and yet in pages 2018 to 2019, there is a continual emphasis on the truth of the cross, and we are advised that, "In your well-meant efforts to escape the superstitious errors of the false interpretation of the meaning of the death on the cross, you should be careful not to make the great mistake of failing to perceive the true significance and the genuine import of the Master's death." (2016)
+The symbolism of the cross appears important, if repetition is any indicator. The revelators rarely repeat themselves and yet in pages 2018 to 2019, there is a continual emphasis on the truth of the cross, and we are advised that, “In your well-meant efforts to escape the superstitious errors of the false interpretation of the meaning of the death on the cross, you should be careful not to make the great mistake of failing to perceive the true significance and the genuine import of the Master's death.” (2016)
 
-The cross: "that high symbol of sacred service, the devotion of one's life to the welfare and salvation of one's fellows. The cross...does stand forever, on earth and throughout a vast universe, as a sacred symbol of the good bestowing themselves upon the evil and thereby saving them by this very devotion of love. The cross does stand as the token of the highest form of unselfish service, the supreme devotion of the full bestowal of a righteous life in the service of wholehearted ministry, even in death, the death of the cross. And the very sight of this great symbol of the bestowal life of Jesus truly inspires all of us to want to go and do likewise." (2019)
+The cross: “that high symbol of sacred service, the devotion of one's life to the welfare and salvation of one's fellows. The cross...does stand forever, on earth and throughout a vast universe, as a sacred symbol of the good bestowing themselves upon the evil and thereby saving them by this very devotion of love. The cross does stand as the token of the highest form of unselfish service, the supreme devotion of the full bestowal of a righteous life in the service of wholehearted ministry, even in death, the death of the cross. And the very sight of this great symbol of the bestowal life of Jesus truly inspires all of us to want to go and do likewise.” (2019)
 
-Most Urantia Book readers would deem themselves to fall within the category of "thinkers" and to those who do is given this additional advice in, "When thinking men and women look upon Jesus as he offers up his life on the cross, they will hardly again permit themselves to complain at even the severest hardships of life, much less at petty harassments and their many purely fictitious grievances. His life was so glorious and his death so triumphant that we are all enticed to a willingness to share both." (2019)
+Most Urantia Book readers would deem themselves to fall within the category of “thinkers” and to those who do is given this additional advice in, “When thinking men and women look upon Jesus as he offers up his life on the cross, they will hardly again permit themselves to complain at even the severest hardships of life, much less at petty harassments and their many purely fictitious grievances. His life was so glorious and his death so triumphant that we are all enticed to a willingness to share both.” (2019)
 
 # The Sower
 
-Jesus opted to teach in parables, "to the end that our friends and those who so desire to know the truth may find that for which they seek, while our enemies and those who love not the truth may hear without understanding." (1680)
+Jesus opted to teach in parables, “to the end that our friends and those who so desire to know the truth may find that for which they seek, while our enemies and those who love not the truth may hear without understanding.” (1680)
 
 The first of his parables was that of:
 
-"A sower went forth to sow, and it came to pass as he sowed that some seed fell by the wayside to be trodden underfoot and devoured by the birds of heaven. Other seed fell in rocky places where there was little earth, up because there was no depth to the soil, but as soon as the sun shone, it withered because it had no root whereby to secure moisture. Other seed fell among the thorns, and as the thorns grew up, it was choked so that it yielded no grain. Still other seed fell upon good ground and, growing, yielded, some thirtyfold, some sixtyfold, and some a hundredfold." (1688)
+“A sower went forth to sow, and it came to pass as he sowed that some seed fell by the wayside to be trodden underfoot and devoured by the birds of heaven. Other seed fell in rocky places where there was little earth, up because there was no depth to the soil, but as soon as the sun shone, it withered because it had no root whereby to secure moisture. Other seed fell among the thorns, and as the thorns grew up, it was choked so that it yielded no grain. Still other seed fell upon good ground and, growing, yielded, some thirtyfold, some sixtyfold, and some a hundredfold.” (1688)
 
-And this parable was one of the few where he actually interpreted its meaning as being, "First, it was a review of his own ministry up to that time and a forecast of what lay ahead of him for the remainder of his life on earth. And second, it was also a hint as to what the apostles and other messengers of the kingdom might expect in their ministry from generation to generation as time passed." (1693)
+And this parable was one of the few where he actually interpreted its meaning as being, “First, it was a review of his own ministry up to that time and a forecast of what lay ahead of him for the remainder of his life on earth. And second, it was also a hint as to what the apostles and other messengers of the kingdom might expect in their ministry from generation to generation as time passed.” (1693)
 
-Following his explanation, Jesus added, "the last of the parable of the sower...The kingdom of heaven is also like a man who cast good seed upon the earth; and while he slept by night and went about his business by day, the seed sprang up and grew, and although he knew not how it came about, the plant came to fruit. And then when the grain was ripe, he put forth the sickle, and the harvest was finished." (1693) I wonder if this addition could be interpreted as representative of Urantia finally reaching the age of light and life?
+Following his explanation, Jesus added, “the last of the parable of the sower...The kingdom of heaven is also like a man who cast good seed upon the earth; and while he slept by night and went about his business by day, the seed sprang up and grew, and although he knew not how it came about, the plant came to fruit. And then when the grain was ripe, he put forth the sickle, and the harvest was finished.” (1693) I wonder if this addition could be interpreted as representative of Urantia finally reaching the age of light and life?
 
 C.A.B. 
 
 # The Urantia Book: A New Presentation of Part 4?
 
-In the hope of influencing the thinking of mainstream Christians through ideas and concepts to be found in The Urantia Book's "Life of Jesus," experience has, by now, indicated that this effect is only likely to be achieved if that "Life" is presented in a different form.
+In the hope of influencing the thinking of mainstream Christians through ideas and concepts to be found in The Urantia Book's “Life of Jesus,” experience has, by now, indicated that this effect is only likely to be achieved if that “Life” is presented in a different form.
 
 Previous articles in this issue have discussed aspects of this matter, drawing attention to the antipathy of Christians to revelatory claims of any kind. So what are the possibilities for getting the text of Part 4 read widely if a different presentation is used, and what are the possible gains?
 
-Part 4 could be truthfully presented as "author(s) unknown." Starting from Paper 121 or perhaps 122, only those changes likely to distract readers or to be indicative of a revelatory source would need modification or deletion so as to be generally acceptable to mainstream Christians. The narrative of Jesus' life and teachings would require only sufficient textual alterations to avoid copyright conflicts. Theological issues in the original text would scarcely need touching as virtually all such issues have already been discussed extensively in the Christian literature.
+Part 4 could be truthfully presented as “author(s) unknown.” Starting from Paper 121 or perhaps 122, only those changes likely to distract readers or to be indicative of a revelatory source would need modification or deletion so as to be generally acceptable to mainstream Christians. The narrative of Jesus' life and teachings would require only sufficient textual alterations to avoid copyright conflicts. Theological issues in the original text would scarcely need touching as virtually all such issues have already been discussed extensively in the Christian literature.
 
 At least initially, it is more important that the influence of the text of the Urantia Papers should be to assist mainstream Christianity to evolve a revised form of religion that would be acceptable to and inspiring for the new generations, rather than have the aim of bringing new readers to the Papers themselves.
 
-Currently, a high proportion of secondary school graduates receive an education that promotes a materialistic, religionless outlook on life and living. But within the next 10 to 20 years, the discoveries of the quantum physicists that conclusively rule out the deterministic, "clockwork universe" will become more widely known, and the fall of determinism will leave room for free will, for belief in God, and for a resurgence of religion.
+Currently, a high proportion of secondary school graduates receive an education that promotes a materialistic, religionless outlook on life and living. But within the next 10 to 20 years, the discoveries of the quantum physicists that conclusively rule out the deterministic, “clockwork universe” will become more widely known, and the fall of determinism will leave room for free will, for belief in God, and for a resurgence of religion.
 
-As it now stands, The Urantia Book is unlikely to contribute significantly to a religious renaissance. A revised and modified "Life of Jesus" could change that outlook, and eventually bring respectability to the study of the Fifth Epochal Revelation in the academic world and among church people.
+As it now stands, The Urantia Book is unlikely to contribute significantly to a religious renaissance. A revised and modified “Life of Jesus” could change that outlook, and eventually bring respectability to the study of the Fifth Epochal Revelation in the academic world and among church people.
 
 K.T.G.

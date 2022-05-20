@@ -30,7 +30,7 @@ There are only two groups of mortals in the eyes of God; those who desire to do 
 
 If we know God, our real business on Earth is so to live as to permit the Father to reveal himself in our lives, and thus will all God-seeking persons see the Father in us and ask for our help in finding out more about God who in this manner finds expression in our lives.
 
-Jesus taught a young associate: "I have absolute confidence in my Father's overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me. I am absolutely assured that the entire universe is friendly to me--this all-powerful truth I insist on believing with a whole hearted trust in spite of all appearances to the contrary."
+Jesus taught a young associate: “I have absolute confidence in my Father's overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me. I am absolutely assured that the entire universe is friendly to me--this all-powerful truth I insist on believing with a whole hearted trust in spite of all appearances to the contrary.”
 
 The soul
 
@@ -44,7 +44,7 @@ Following his baptism, the choices confronting Jesus for the kind of ministry to
 
 There was just one motive in Jesus' post baptismal life and that was a better and truer revelation of his Paradise Father; he was the pioneer of the new and better way to God, the way of faith and love--which he insisted on going about in the most quiet and non-dramatic manner, avoiding all display of power.
 
-Jesus told his apostles, "Make no mistake; we go forth to labor for a generation of sign seekers…but they will be slow to recognize in the revelation of my Father's love, the credentials of my mission."
+Jesus told his apostles, “Make no mistake; we go forth to labor for a generation of sign seekers…but they will be slow to recognize in the revelation of my Father's love, the credentials of my mission.”
 
 More on teaching
 
@@ -60,15 +60,15 @@ Jesus' program--he would not cater to the physical gratification of his people. 
 
 Jesus taught the apostles to preach forgiveness of sin through faith in God but without penance or sacrifice. They also early learned that Jesus had a profound respect and sympathetic regard for every human being he met, and that nothing ever seemed so important to him as the individual human who chanced to be in his immediate presence.
 
-Jesus never ceased repeating that faith only was necessary in the business of finding God, adding that, "it will be by the lives you live that others will know that you have been with me and have learned of the realities of the kingdom."
+Jesus never ceased repeating that faith only was necessary in the business of finding God, adding that, “it will be by the lives you live that others will know that you have been with me and have learned of the realities of the kingdom.”
 
-He told his disciples that the kingdom of God is within you, that you do not have to see alike, feel alike, even think alike in order, spiritually, to be alike. "Harmony," he said, "grows from the fact that each of us is identical in origin, nature, and destiny.
+He told his disciples that the kingdom of God is within you, that you do not have to see alike, feel alike, even think alike in order, spiritually, to be alike. “Harmony,” he said, "grows from the fact that each of us is identical in origin, nature, and destiny.
 
-"Spirit unity implies two things--first you are possessed of a common motive for soul service--to do the will of the Father--and second, you have a common goal of existence--to find the Father and to become like him."
+“Spirit unity implies two things--first you are possessed of a common motive for soul service--to do the will of the Father--and second, you have a common goal of existence--to find the Father and to become like him.”
 
 Warning against creeds
 
-Again and again Jesus warned against the formulation of creeds and the establishment of traditions as a means of guiding believers. "Lead men into the kingdom," he said, "and the great and living truths of the kingdom will presently drive out all serious error. Your business is to reveal God to the individual as their heavenly Father, to lead men and women to become God-conscious--and to present them to God as his faith children."
+Again and again Jesus warned against the formulation of creeds and the establishment of traditions as a means of guiding believers. “Lead men into the kingdom,” he said, “and the great and living truths of the kingdom will presently drive out all serious error. Your business is to reveal God to the individual as their heavenly Father, to lead men and women to become God-conscious--and to present them to God as his faith children.”
 
 The only reward to Jesus' followers--in this world, spiritual joy and divine communion; in the next world, eternal life in the progress of divine spirit realities of the Father.
 
@@ -93,7 +93,7 @@ To his disciples, Jesus said: Temporal matters are the concern of the men of the
 
 The Master was a perfect specimen of human self-control. When he was reviled, he reviled not; when he suffered, he uttered no threats; when he was denounced, he simply committed himself to the righteous judgment of the Father.
 
-"I come with a new message of self-forgetfulness and self-control. I show you the way of life as revealed to me by my Father in heaven. By your love for one another you are to convince the world you have passed from death into life everlasting."
+“I come with a new message of self-forgetfulness and self-control. I show you the way of life as revealed to me by my Father in heaven. By your love for one another you are to convince the world you have passed from death into life everlasting.”
 
 Function of the Indwelling Spirit
 
@@ -122,7 +122,7 @@ Jesus transcended the teachings of his forbears when he boldly substituted clean
 
 Jesus taught: Emotionally, people react individually. The only uniform thing about them is the Indwelling Spirit of God. Thus, only through and by appeal to this indwelling Spirit can mankind ever attain unity and brotherhood.
 
-Anger is a material (animalistic) manifestation indicating failure of the spiritual nature to gain control. "Anger rests in the bosom of fools."
+Anger is a material (animalistic) manifestation indicating failure of the spiritual nature to gain control. “Anger rests in the bosom of fools.”
 
 Jesus said: Let your hearts be so dominated by love that your indwelling Spirit will have little trouble in delivering you from the tendency to give vent to those outbursts of animal anger which are so inconsistent with the status of a child of the Father.
 
@@ -130,7 +130,7 @@ Jesus always preached temperance and consistency--pointing out that excessive ze
 
 Jesus said: Your forebears feared God because he was mighty and mysterious. You shall adore him because he is magnificent in love, plenteous in mercy, and glorious in truth.
 
-"I have come into the world…"
+“I have come into the world…”
 
 I have come into the world to put love in the place of fear, joy in the place of sorrow, confidence in the place of dread, loving service and appreciative worship in the place of slavish bondage and meaningless ceremonies.
 
@@ -140,7 +140,7 @@ The Father has sent me into the world to show how he desires to indwell and guid
 
 Jesus' kingdom is founded on love, proclaimed in mercy, and established by unselfish service.
 
-"Let me emphatically state…"
+“Let me emphatically state…”
 
 Let me emphatically state this eternal truth: if you, by truth coordination learn to exemplify in your lives this beautiful wholeness of righteousness, your acquaintances will then seek after you that they may gain what you have acquired.
 
@@ -236,7 +236,7 @@ You cannot stand still in the affairs of the eternal kingdom. My father requires
 
 Responsibility
 
-In teaching children to pray "Our Father," an enormous responsibility is placed upon earthly fathers so to live and order their homes so that the word "father" has worthy connotations while becoming enshrined in the minds and hearts of growing children.
+In teaching children to pray “Our Father,” an enormous responsibility is placed upon earthly fathers so to live and order their homes so that the word “father” has worthy connotations while becoming enshrined in the minds and hearts of growing children.
 
 The fruits of the spirit, your sincere and loving service, are the mighty social lever to uplift the races of darkness. And this Spirit of Truth will become your powerful multiplying fulcrum.
 
@@ -272,14 +272,14 @@ Prayer is a way of taking God's way, an experience of learning how to recognize 
 
 You are in this world but your lives are not to be world-like. I have chosen you 'out of the world' to represent the spirit of another world even to this.
 
-"With the coming of the Spirit of Truth…"
+“With the coming of the Spirit of Truth…”
 
 With the coming of the Spirit of Truth all the children of light will be drawn toward one another. And my Father and I will be able to live in the souls of each one of you, and also in the hearts of all other men who love us and make that love real in their experiences by loving one another even as I am now loving you.
 
 This new teacher is the spirit of living and growing truth, expanding, unfolding, and adaptive truth.
 
 	
-"With the coming of the Spirit of Truth…" (continued)
+“With the coming of the Spirit of Truth…” (continued)
 
 Divine truth is a spirit discerned and living reality. Living truth is dynamic and can enjoy only an experiential existence in the human mind.
 
@@ -321,7 +321,7 @@ As taunts, insults, and blows fell upon Jesus, he was not vanquished, merely unc
 
 Jesus was not even angry when, at his trial, ignorant mortals derisively struck him in the face after blindfolding him.
 
-As they nailed Jesus on the cross, his only words were, "Father, forgive them for they know not what they do." He could not have so mercifully and lovingly interceded for his executioners if such thoughts of affectionate devotion had not been the mainspring of all his life of unselfish service.
+As they nailed Jesus on the cross, his only words were, “Father, forgive them for they know not what they do.” He could not have so mercifully and lovingly interceded for his executioners if such thoughts of affectionate devotion had not been the mainspring of all his life of unselfish service.
 
 Salvation
 
@@ -449,7 +449,7 @@ Jesus trusted God much as the child trusts a parent. He had a profound confidenc
 
 God-consciousness (continued)
 
-Jesus does not require his disciples to believe in him but rather to believe with him in the reality of the love of God and, in full confidence, to accept the security of the assurance of membership in the family of the heavenly Father. He desires that all his followers should share fully his transcendent faith. He challenged his followers to believe as he believed. This is the full significance of his one supreme command, "Follow me."
+Jesus does not require his disciples to believe in him but rather to believe with him in the reality of the love of God and, in full confidence, to accept the security of the assurance of membership in the family of the heavenly Father. He desires that all his followers should share fully his transcendent faith. He challenged his followers to believe as he believed. This is the full significance of his one supreme command, “Follow me.”
 
 To follow Jesus means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man.
 

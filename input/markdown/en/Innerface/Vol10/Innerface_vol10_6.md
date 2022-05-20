@@ -19,7 +19,7 @@ Morality is not necessarily spiritual; it may be wholly and purely human, albeit
 
 # Mind! Do I have one?
 
-From "Feelings" by Charles Birch
+From “Feelings” by Charles Birch
 
 The basic distinction that has to be made is not primarily between mind and matter but between the objective and the subjective.
 
@@ -114,7 +114,7 @@ God's feelings
 
 What is the origin of this subjectivity, (feelings), in nature? Asked how they feel about it, materialists often feel they must blindly deny they have feelings.
 
-As far back in time as the physicist can take us, about 13.6 billion years, there was the Big Bang--indicating that somewhere there must have existed the potentiality for our universe to become. This general potentiality Whitehead called the "the mind of God"--meaning the unrealized possibilities, values, purposes, and feelings that were yet to be.
+As far back in time as the physicist can take us, about 13.6 billion years, there was the Big Bang--indicating that somewhere there must have existed the potentiality for our universe to become. This general potentiality Whitehead called the “the mind of God”--meaning the unrealized possibilities, values, purposes, and feelings that were yet to be.
 
 The proposition that the universal existence of subjectivity requires the existence of cosmic mind appears to be unavoidable--the alternative is to simply ignore the problem.
 
@@ -140,7 +140,7 @@ The concept of an all-powerful, almighty, all-controlling God is antithetical to
 
 Faith in divine providence is faith that nothing can prevent us from fulfilling the ultimate meaning of our existence. Circumstances need not destroy us. What matters is our attitude to circumstances. No person, nor any situation, need ever have an unbreakable grasp upon us. Faith makes it possible to act creatively in any situation.
 
-Every life has two aspects, the objective and the subjective. It is mainly our inward subjective contribution that in the end determines what life means to us. "I have overcome the world," said Jesus. His victory was inwards.
+Every life has two aspects, the objective and the subjective. It is mainly our inward subjective contribution that in the end determines what life means to us. “I have overcome the world,” said Jesus. His victory was inwards.
 
 Prayer is not the endeavor to get God to do what we want. It is the endeavor to put ourselves in such a relationship with the God-Within that the possibilities of God for our lives become concretely real in our experience.
 
@@ -156,7 +156,7 @@ We open our lives to being grasped by something greater than ourselves which bec
 
 3. God responds to the world with infinite passion.
 
-Thus God is pictured, not as a static being, but as in the process of becoming. By contrast, the classical view pictures God as being loving, yet without emotion, feeling, or sensitivity to the feelings of others. Aristotle stated, "God is the mover of all things, unmoved by any." Aristotle's God is unaffected by what happens in the world--so also is the god of Saint Anselm and Thomas Aquinas.
+Thus God is pictured, not as a static being, but as in the process of becoming. By contrast, the classical view pictures God as being loving, yet without emotion, feeling, or sensitivity to the feelings of others. Aristotle stated, “God is the mover of all things, unmoved by any.” Aristotle's God is unaffected by what happens in the world--so also is the god of Saint Anselm and Thomas Aquinas.
 
 The median view is that God is loving in the sense of feeling the feelings of all others, taking into himself the immediacy of all other currents of feeling, moment by moment. Hartshorne says:
 
@@ -196,8 +196,8 @@ Whereas the God of Aristotle and of classical theism is totally unaffected by wh
 
 ## References
 
-1. Whitehead, A.N. "Process and Reality."
-2. Davies, Paul, "The Mind of God."
+1. Whitehead, A.N. “Process and Reality.”
+2. Davies, Paul, “The Mind of God.”
 3. Hartshorne was an associate of Whitehead.
 
 # What do the Urantia Papers say about mind?
@@ -214,7 +214,7 @@ But whether the names the Papers give to functions of deity are names for indepe
 
 About the origin of mind, the Papers are more detailed than Whitehead. They state the origin of mind to be from the cosmic mind of the third person of the Trinity, the Eternal Spirit from whom it is routed via the Master Spirits to the Universe Mother Spirit, thence via the Adjutant Mind Spirits to the animal life forms of their worlds. At a lower level, the Master Physical Controllers serve as controllers and directors of the pre-adjutant mind levels, the levels of non-teachable or mechanical mind. (403)
 
-Perhaps this reference to mechanical mind means that the Papers are speaking of a similar function for mind way beyond material life and all the way to the sub-atomic as did Whitehead. This is suggested by: "the nonteachable mind functions on many levels beside that of primitive planetary life." (480)
+Perhaps this reference to mechanical mind means that the Papers are speaking of a similar function for mind way beyond material life and all the way to the sub-atomic as did Whitehead. This is suggested by: “the nonteachable mind functions on many levels beside that of primitive planetary life.” (480)
 
 For simplifying purposes, at its higher levels mind and its functions may be pictured as a fields centered in the Universe Mother Spirits--somewhat like a compass operating in the magnetic field of a planet. Each compass operates to point direction in an apparently inexhaustible field, at least unless and until it is demagnetized. When death 'de-magnetizes' our minds, we have to find a new mind source, something that is accomplished on the mansion worlds where our new mind goes through a long series of adaptations that finally render it suitable as spirit-mind.
 
@@ -228,42 +228,42 @@ A.N. Whitehead (1937) Process and Reality.
 
 During discussion between Jesus and Immanuel on the purpose of Jesus' bestowal, Immanuel recommended as follows:
 
-"Exhibit in your one short life in the flesh, as it has never been seen on Earth before, the transcendent possibilities attainable by a God-knowing human during the short career of human existence…and show to the entire universe the achievement of God seeking man and finding him and the phenomenon of man seeking God and finding him."
+“Exhibit in your one short life in the flesh, as it has never been seen on Earth before, the transcendent possibilities attainable by a God-knowing human during the short career of human existence…and show to the entire universe the achievement of God seeking man and finding him and the phenomenon of man seeking God and finding him.”
 
-Hence is it any wonder that we are told, "Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it."
+Hence is it any wonder that we are told, “Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.”
 
 One further comment from Immanuel is important for our purpose: "Your great mission to be realized and experienced in the mortal incarnation is embraced in your decision to live a life wholeheartedly motivated to do the will of your Paradise Father, thus to reveal God, your
 Father, in the flesh and especially to the creatures of the flesh."
 
 From our viewpoint, Jesus' life was lived to reveal the nature of God to mankind. But the very fact that his revelation was to be indicative of the possibilities attainable by God-knowing humans informs us that his life was and is a model for us to attempt to emulate.
 
-Two essential steps to Jesus success were the dedication of his own will to doing the will of God and the total faith that he placed in God. This is illustrated by his answer to a question of the "how far can we go" type. Jesus answer really said, "All the way."
+Two essential steps to Jesus success were the dedication of his own will to doing the will of God and the total faith that he placed in God. This is illustrated by his answer to a question of the “how far can we go” type. Jesus answer really said, “All the way.”
 
-"I have absolute confidence in my heavenly Father's overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me; I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that the entire universe is friendly to me--this all-powerful truth I insist on believing with a wholehearted trust in spite of all appearances to the contrary."
+“I have absolute confidence in my heavenly Father's overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me; I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that the entire universe is friendly to me--this all-powerful truth I insist on believing with a wholehearted trust in spite of all appearances to the contrary.”
 
-The key to success in doing the will of God with total faith is to do as Jesus did and foster  continuous communication with the spirit forces within us. From early childhood, Jesus spoke to the indwelling Spirit of the Father as he would have spoken to his earthly father. As he grew older, this became a dominant aspect of his life. On this we are told: "It is not enough that this Spirit be poured out upon you, the Divine Spirit must dominate and control every phase of human experience." Which is exactly what Jesus did.
+The key to success in doing the will of God with total faith is to do as Jesus did and foster  continuous communication with the spirit forces within us. From early childhood, Jesus spoke to the indwelling Spirit of the Father as he would have spoken to his earthly father. As he grew older, this became a dominant aspect of his life. On this we are told: “It is not enough that this Spirit be poured out upon you, the Divine Spirit must dominate and control every phase of human experience.” Which is exactly what Jesus did.
 
 The fact that there are at least 35 references in the New Testament to the Indwelling Spirit demonstrates that its power was well known to the earliest of Christians. Presumably this trust of the individual in the indwelling God-Spirit was lost when religion became organized and a priesthood became officialdom. This move also heralded the loss of spirituality as the goal of individual living.
 
 We cannot go back to where the early Christians were. We must move on from where we are now. But we can reintroduce the personal presence of the indwelling Spirit of God to be the dominant force in, and the focal point of, our lives.
 
-Jesus told us, "Love one another as I have loved you." To truly love another we must not so much attend to their earthly comfort and welfare as to help them to discover their 'utmost cosmic good'--meaning to help them in any way we can to become more spiritual. But what does 'more spiritual' mean?
+Jesus told us, “Love one another as I have loved you.” To truly love another we must not so much attend to their earthly comfort and welfare as to help them to discover their 'utmost cosmic good'--meaning to help them in any way we can to become more spiritual. But what does 'more spiritual' mean?
 
-"Spirituality becomes at once the indicator of one's nearness to God and the measure of one's usefulness to our fellow beings."
+“Spirituality becomes at once the indicator of one's nearness to God and the measure of one's usefulness to our fellow beings.”
 
-"Actual spiritual status is the measure of Deity attainment, attunement to the God-Within. The achievement of finality of spirituality is equivalent to the attainment of the maximum of reality, the maximum of Godlikeness."
+“Actual spiritual status is the measure of Deity attainment, attunement to the God-Within. The achievement of finality of spirituality is equivalent to the attainment of the maximum of reality, the maximum of Godlikeness.”
 
 So what does God want from me? Simply my personal and sincere dedication to doing God's will, with my life to be lived in the service of God and my fellow beings. For without that there would be little of spiritual value in my life and my soul would add up as close to being a vacuum.
 
 But with Jesus as my model, with Jesus' Spirit of Truth as my guide and counselor, with sincere, selfless, goodness as the focal point of my material life, and with a total faith in the love and goodness of God, what more could there be? What more could one aim for?
 
-# Can I "be" what God wants me to "be"?
+# Can I “be” what God wants me to “be”?
 
-"You are my messengers. You are beholden to live your lives as I have in spirit lived mine." (1577)
+“You are my messengers. You are beholden to live your lives as I have in spirit lived mine.” (1577)
 
 It is often claimed that to live our lives as Jesus lived his is a quite impractical proposition. That would be so if we tried to mimic Jesus, but his exhortation was not that--rather it was to live our lives as he in spirit lived his.
 
-We also have, "One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it." (2090) Some of Jesus exhortations follow:
+We also have, “One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.” (2090) Some of Jesus exhortations follow:
 
 Be humble.
 Do not resist evil. If someone smites you on the
@@ -298,48 +298,48 @@ The reason for this gloom and doom? Since the 1967 war between Israel and the Ar
 
 The result has been a disaster for Jew, Christian, and Islam. Professor Ze'ev Herzog of the Tel Aviv University writes1: "This is what archaeologists have learned from their excavations in the Land of Israel: the Israelites were never in Egypt, did not wander in the desert, did not conquer the land in a military campaign and did not pass it on to the 12 tribes of Israel. Perhaps even harder to swallow is that the united monarchy of David and Solomon, which is described by the Bible as a regional power, was at most a small tribal kingdom.
 
-"Worse still, in the days of Moses, the supposedly monotheistic deity of the Israelites, YHWH, had a female consort! Also, intensive archaeology has revealed that at the time of David and Solomon, Jerusalem and its surroundings consisted of about 20 small villages with a total population of about five thousand2--a small kingdom indeed to have been the center of an empire described in 1 Kings 5:4 as stretching from Gaza in the south to Syria in the north and to the Euphrates river in the east."
+“Worse still, in the days of Moses, the supposedly monotheistic deity of the Israelites, YHWH, had a female consort! Also, intensive archaeology has revealed that at the time of David and Solomon, Jerusalem and its surroundings consisted of about 20 small villages with a total population of about five thousand2--a small kingdom indeed to have been the center of an empire described in 1 Kings 5:4 as stretching from Gaza in the south to Syria in the north and to the Euphrates river in the east.”
 
-How does this collapse of Old Testament legitimacy affect Christianity? One Christian cleric3 has pointed out that it has profound theological effects--for example, Jesus could not be the embodiment of ancient covenant hopes or the fulfilment of divine messianic promises made to Abraham, Moses, David, the prophets et al, concluding that "these individuals did not exist and God never made any such promises to them. We have to face the shocking fact that most of the Old Testament is late Judean propaganda with little historical worth, just as the Gospels are mostly Christian propaganda."
+How does this collapse of Old Testament legitimacy affect Christianity? One Christian cleric3 has pointed out that it has profound theological effects--for example, Jesus could not be the embodiment of ancient covenant hopes or the fulfilment of divine messianic promises made to Abraham, Moses, David, the prophets et al, concluding that “these individuals did not exist and God never made any such promises to them. We have to face the shocking fact that most of the Old Testament is late Judean propaganda with little historical worth, just as the Gospels are mostly Christian propaganda.”
 
 Another Christian minister4 speculates:
 "Given what they knew, Christians in the first century made sense of God and Jesus as best they could. The result is the New Testament.
 "And given what they knew, Christians in the fourth century made sense of God and Jesus as best they could. The result is the Trinity.
-"Now, Christians in the twenty first century must make sense of God and Jesus as best they can. The results are yet to be seen."
+“Now, Christians in the twenty first century must make sense of God and Jesus as best they can. The results are yet to be seen.”
 
 Urantia Book readers are not unaffected by all this. The Papers support much of what is written in the Old Testament that is now rejected outright as plain wrong.
 
-About Solomon, the Papers say: "Solomon bankrupted the nation by his lavish court and by his elaborate building program: There was the house of Lebanon, the palace of Pharaoh's daughter, the temple of Yahweh, the king's palace, and the restoration of the walls of many cities. Solomon created a vast Hebrew navy, operated by Syrian sailors and trading with all the world. His harem numbered almost one thousand."
+About Solomon, the Papers say: “Solomon bankrupted the nation by his lavish court and by his elaborate building program: There was the house of Lebanon, the palace of Pharaoh's daughter, the temple of Yahweh, the king's palace, and the restoration of the walls of many cities. Solomon created a vast Hebrew navy, operated by Syrian sailors and trading with all the world. His harem numbered almost one thousand.”
 
 But Israeli archaeology concludes that Solomon, at best, was the minor tribal chief of a scattering of small villages in a sparsely populated area of the hill country in the region of another small village called Jerusalem.
 
-In studying these Urantia Papers, and pondering on why they were written as they are (a strange mix of erroneous science and history plus remarkable revelation), it is critical that we take into account the mentality of their initial recipients, the so-called "Forum," the prejudices of the times, what might have been acceptable as revelatory truth in the 1920-35 period, what might have caused abandonment of the revelations as spurious, and the inevitability that some Forum members would treat everything they were told as divine, infallible revelation.
+In studying these Urantia Papers, and pondering on why they were written as they are (a strange mix of erroneous science and history plus remarkable revelation), it is critical that we take into account the mentality of their initial recipients, the so-called “Forum,” the prejudices of the times, what might have been acceptable as revelatory truth in the 1920-35 period, what might have caused abandonment of the revelations as spurious, and the inevitability that some Forum members would treat everything they were told as divine, infallible revelation.
 
 Parts 1-3 of the book were initially the result of questions posed by the Forum members to test the credentials of the revelators.5 Hence,in hindsight, it seems possible that the original aim of the revelators was confined to preparing a group of people for receipt of, Part 4, The Life of Jesus.
 
-Taken by itself, this is written in a way that would never have gained the status of divine revelation--and the error content of the science and history present in what became "The Urantia Book" would never have become a contentious issue.
+Taken by itself, this is written in a way that would never have gained the status of divine revelation--and the error content of the science and history present in what became “The Urantia Book” would never have become a contentious issue.
 
 But now, approximately 70 years after completion of that book, plus an extraordinary knowledge explosion in virtually all spheres of human activity, we have to face the fact that the Papers abound in outdated, outmoded materials and concepts.
 
 This is the reality we must learn to live with, but taking care not to throw the baby out with the bathwater. In terms of their spiritual meanings and values, these Papers stand alone, head and shoulders above anything else available to us.
 
-Even back in the 1930's the "powers-that-be" were concerned about the rapid social changes occurring on this planet. Paper 99 warns us: "Mechanical inventions and the dissemination of knowledge are modifying civilization; certain economic adjustments and social changes are imperative if cultural disaster is to be avoided. This new and oncoming social order will not settle down complacently for a millennium. The human race must become reconciled to a procession of changes, adjustments, and readjustments. Mankind is on the march toward a new and unrevealed planetary destiny."
+Even back in the 1930's the “powers-that-be” were concerned about the rapid social changes occurring on this planet. Paper 99 warns us: “Mechanical inventions and the dissemination of knowledge are modifying civilization; certain economic adjustments and social changes are imperative if cultural disaster is to be avoided. This new and oncoming social order will not settle down complacently for a millennium. The human race must become reconciled to a procession of changes, adjustments, and readjustments. Mankind is on the march toward a new and unrevealed planetary destiny.”
 
-This is followed by: "Religion must become a forceful influence for moral stability and spiritual progression functioning dynamically in the midst of these ever-changing conditions and never-ending economic adjustments. Urantia society can never hope to settle down as in past ages."  And: "The paramount mission of religion as a social influence is to stabilize the ideals of mankind during these dangerous times of transition from one phase of civilization to another, from one level of culture to another." Finally, "Religion has no new duties to perform."
+This is followed by: “Religion must become a forceful influence for moral stability and spiritual progression functioning dynamically in the midst of these ever-changing conditions and never-ending economic adjustments. Urantia society can never hope to settle down as in past ages.”  And: “The paramount mission of religion as a social influence is to stabilize the ideals of mankind during these dangerous times of transition from one phase of civilization to another, from one level of culture to another.” Finally, “Religion has no new duties to perform.”
 
 Could it all have been planned? A paragraph in Paper 2 provides food for thought. It says:
 
-"The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul. Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly co-ordinated and unified in God, who is love."
+“The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul. Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly co-ordinated and unified in God, who is love.”
 
-The reference to "enlarged and exquisitely integrated modern concepts of cosmic truth, beauty, and goodness" can only be self-referential. These concepts are to be found in the Papers! And it is a "new and righteous vision of morality" that is required. Why? Is it because the revelators knew that the foundations of our Judeo-Christian morality must shortly expire?
+The reference to “enlarged and exquisitely integrated modern concepts of cosmic truth, beauty, and goodness” can only be self-referential. These concepts are to be found in the Papers! And it is a “new and righteous vision of morality” that is required. Why? Is it because the revelators knew that the foundations of our Judeo-Christian morality must shortly expire?
 
-At its beginning, Paper 99 warns of a thousand years of rapid social change. We are already about 70 years into that period, and if we take the Urantia revelation seriously, in the situation of being required to "become a forceful influence for moral stability and spiritual progression functioning dynamically in the midst of these ever-changing conditions and never ending economic adjustments." And our paramount task is to "stabilize the ideals of mankind during the dangerous times of transition from one phase of civilization to to another."
+At its beginning, Paper 99 warns of a thousand years of rapid social change. We are already about 70 years into that period, and if we take the Urantia revelation seriously, in the situation of being required to “become a forceful influence for moral stability and spiritual progression functioning dynamically in the midst of these ever-changing conditions and never ending economic adjustments.” And our paramount task is to “stabilize the ideals of mankind during the dangerous times of transition from one phase of civilization to to another.”
 
 Western Christianity will probably collapse within the next 10-20 years. It is too priest-bound and creed-bound to have any chance of adjusting to the inevitable collapse of faith that will follow the equally inevitable dissemination of knowledge of the demise of the Old Testament--hence the foundations of the theology upon which the Christian Church founded its doctrines.
 
 The reality of Jesus' life was and is a revelation of the nature of God. That fact is untouched by any of man's desecrations of his reality. Thus our primary task for a thousand years will be to promulgate Jesus' interpretation of God's nature.
 
-Our best source will be the Urantia Papers. The material we need will not be that relating to material facts. Rather, we will find what we need amongst that which has "spiritual meaning and value," that part for which we can have certainty about its revelatory status.
+Our best source will be the Urantia Papers. The material we need will not be that relating to material facts. Rather, we will find what we need amongst that which has “spiritual meaning and value,” that part for which we can have certainty about its revelatory status.
 
 The two thousand pages of The Urantia Book provide a content far too large to permit efficient location of reference material. A highly abridged reference version of its spirituality--related content that may help ease this vital task, will appear in the next issues of Innerface.
 

@@ -32,11 +32,11 @@ Our quote from p. 2091 implies that unless we can actually live the spiritualize
 
 Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men. It is futile to talk about a revival of primitive Christianity; you must go forward from where you find yourselves. (2084)
 
-There have been many most wonderful lives lived over the past 2000 years by men and women who truly discovered the meaning of  "living as Jesus lived." So what was it that they discovered in the Gospels that acted so uniquely as their guiding light?
+There have been many most wonderful lives lived over the past 2000 years by men and women who truly discovered the meaning of  “living as Jesus lived.” So what was it that they discovered in the Gospels that acted so uniquely as their guiding light?
 
-Along with the earliest of the Christians they were probably all aware of our indwelling by the Spirit of the Father--most often referred to by Paul and by John in verses such as "Know you not that you are the temple of God, that the Spirit of God dwells within you," (1 Cor. 3:16) and "if we love one another, God dwells in us, and his love is perfected in us." (1 John 4:12)
+Along with the earliest of the Christians they were probably all aware of our indwelling by the Spirit of the Father--most often referred to by Paul and by John in verses such as “Know you not that you are the temple of God, that the Spirit of God dwells within you,” (1 Cor. 3:16) and “if we love one another, God dwells in us, and his love is perfected in us.” (1 John 4:12)
 
-But their primary source of understanding of the mind of Jesus almost certainly had its foundations in the "Sermon on the Mount," as presented in the Gospel of Matthew, plus some simple parable stories that Jesus used so expertly.
+But their primary source of understanding of the mind of Jesus almost certainly had its foundations in the “Sermon on the Mount,” as presented in the Gospel of Matthew, plus some simple parable stories that Jesus used so expertly.
 
 The Sermon on the Mount begins with what have been called:
 
@@ -55,11 +55,11 @@ Rejoice, and be exceeding glad: for great is your reward in heaven: for so perse
 
 Arrogance and Humility
 
-In modern times some of the phrasing of these words has acquired an altered meaning from the original translation. In the Urantia Papers, Jesus illustrates the meaning of "poor in spirit" in a story of a wealthy Pharisee who strode into the synagogue declaring his thanks to God that he was not like that miserable publican over there in the corner, and then followed up with a catalogue of his praiseworthy attributes. In contrast the publican prayed to God contritely in the words, "God have mercy on me, a miserable sinner."
+In modern times some of the phrasing of these words has acquired an altered meaning from the original translation. In the Urantia Papers, Jesus illustrates the meaning of “poor in spirit” in a story of a wealthy Pharisee who strode into the synagogue declaring his thanks to God that he was not like that miserable publican over there in the corner, and then followed up with a catalogue of his praiseworthy attributes. In contrast the publican prayed to God contritely in the words, “God have mercy on me, a miserable sinner.”
 
-The first was full of his own arrogant self-importance and puffed up with conceit and pride. The second was humble before God, he was teachable, and anxious to do better. It is in the publican that we find the meaning of "poor in spirit."
+The first was full of his own arrogant self-importance and puffed up with conceit and pride. The second was humble before God, he was teachable, and anxious to do better. It is in the publican that we find the meaning of “poor in spirit.”
 
-Likewise the meaning of "those who mourn" is seen in those who feel genuine sympathy for the unfortunate or distressed, while "the meek" are those who are the opposite of arrogant, bullying, dominating.
+Likewise the meaning of “those who mourn” is seen in those who feel genuine sympathy for the unfortunate or distressed, while “the meek” are those who are the opposite of arrogant, bullying, dominating.
 
 Ask yourself what a perfect God, the epitome of love and compassion, would be like and interpret Jesus' beatitudes accordingly--and you'll never be far wrong. Jesus continued:
 
@@ -202,11 +202,11 @@ And every one that hears these sayings of mine, and does them not, shall be like
 And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell; and great was the fall of it.
 It came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine; for he taught them as one having authority, and not as the scribes.
 
-A great virtue of Matthew's "Sermon on the Mount" is that it is condensed into a single unit. But whereas it is not meant to be used as a set of rules for living, taken overall, it does provide a means for comprehending Jesus' indefinable selflessness that can lead us to mind spiritualization and God-knowingness.
+A great virtue of Matthew's “Sermon on the Mount” is that it is condensed into a single unit. But whereas it is not meant to be used as a set of rules for living, taken overall, it does provide a means for comprehending Jesus' indefinable selflessness that can lead us to mind spiritualization and God-knowingness.
 
 The Parables
 
-In addition to the Sermon on the Mount, our understanding of the mind of Jesus can be enhanced if we have a good knowledge of his parables--among them, "The Laborers in the Vineyard" (Matthew 20:1-16) that illustrates the compassion of God; "The Good Samaritan" (Luke 28:25-37) that outlaws racial prejudice; "The Lost Sheep" (Matthew 18:12-14) that tells of God's care for sinners; and "The Sheep and the Goats," given below, that illustrates the loving and serving nature of divinity:
+In addition to the Sermon on the Mount, our understanding of the mind of Jesus can be enhanced if we have a good knowledge of his parables--among them, “The Laborers in the Vineyard” (Matthew 20:1-16) that illustrates the compassion of God; “The Good Samaritan” (Luke 28:25-37) that outlaws racial prejudice; “The Lost Sheep” (Matthew 18:12-14) that tells of God's care for sinners; and “The Sheep and the Goats,” given below, that illustrates the loving and serving nature of divinity:
 
 To Do
 
@@ -228,7 +228,7 @@ Then shall he answer them, saying, Verily I say unto you, inasmuch as you did it
 
 
 
-Also there are three short verses in the "Sermon on the Mount" that merit parable status:
+Also there are three short verses in the “Sermon on the Mount” that merit parable status:
 
 For what man is there of you who, if his son asks for bread, would he give him a stone?
 Or, if he asked for a fish would he give him a serpent?
@@ -250,13 +250,13 @@ In reality, such matters are unique for the individual. Hence judgment and decis
 
 [Societies though, are different. Because of the imperfections of individuals, a society cannot be truly stable except there be rules of behavior to which members are required to subscribe--under duress, if necessary.]
 
-Once we gain a good knowledge of the mind of Jesus and have also come to rely upon a feeling of "at oneness" with our indwelling Father-Spirit, then we, too, will commence to live our lives as Jesus lived his--in accord with the will of God and under the guidance of the God-Spirit-Within.
+Once we gain a good knowledge of the mind of Jesus and have also come to rely upon a feeling of “at oneness” with our indwelling Father-Spirit, then we, too, will commence to live our lives as Jesus lived his--in accord with the will of God and under the guidance of the God-Spirit-Within.
 
-Quite remarkably, when in the public gaze, we will also cease to "act a part" by attempting to convince others of our holiness--and expecting, hoping, or demanding that they should be what we were only pretending to be.
+Quite remarkably, when in the public gaze, we will also cease to “act a part” by attempting to convince others of our holiness--and expecting, hoping, or demanding that they should be what we were only pretending to be.
 
-In fact, even the thought that our lives are, or even should be, examples to the non-initiated will cease--and we will simply "be" what we really are, knowing that nothing else is reality--and nothing but our reality is acceptable to God.
+In fact, even the thought that our lives are, or even should be, examples to the non-initiated will cease--and we will simply “be” what we really are, knowing that nothing else is reality--and nothing but our reality is acceptable to God.
 
-# "Agree with your Adversary"
+# “Agree with your Adversary”
 
 This piece of advice from the Sermon on the Mount is qualified by the injunction to do so quickly while still in communication with your adversary. It is followed up by a whole set of mostly positive injunctions:
 
@@ -272,7 +272,7 @@ Countermanded are traditional attitudes such as an eye for an eye and a tooth fo
 
 But I say unto you, Love your enemies, bless those that curse you, do good to them that hate you, and pray for them who despitefully use you, and persecute you.
 
-The "Ordination Sermon" given to the apostles in the Urantia Papers deviates very little in principle from the "Sermon on the Mount" in Matthew's gospel. And the Papers also take  a strongly positive attitude:
+The “Ordination Sermon” given to the apostles in the Urantia Papers deviates very little in principle from the “Sermon on the Mount” in Matthew's gospel. And the Papers also take  a strongly positive attitude:
 
 The major error of modern religions is negativism….Strong characters are not derived from not doing wrong but from actually doing right.
 
@@ -280,9 +280,9 @@ Judged by some of the e-mail that floats around among Urantia Book adherents, qu
 
 In fact, to do so brings us up against one of the most strongly inherited traits of the animal kingdom. And, when all is said and done, basically we are first and foremost, animals.
 
-One problem is our territorial-ism--"this is mine, keep out." Another is our dominance behavior--usually very strong in social animals. And further complicating matters is our self-pride, a "rather die than give in," attitude that, more often than not, is quite irrational.
+One problem is our territorial-ism--“this is mine, keep out.” Another is our dominance behavior--usually very strong in social animals. And further complicating matters is our self-pride, a “rather die than give in,” attitude that, more often than not, is quite irrational.
 
-However, if we are ever to come even close to living our lives as Jesus lived his, then for many of us, an extreme change in attitudes is going to be necessary. And that change is going to need to be to "agree with your adversary quickly." For us, perhaps "immediately" would be an even better injunction.
+However, if we are ever to come even close to living our lives as Jesus lived his, then for many of us, an extreme change in attitudes is going to be necessary. And that change is going to need to be to “agree with your adversary quickly.” For us, perhaps “immediately” would be an even better injunction.
 
 Nothing would revolutionize our social relationships so drastically and so quickly than for us to become thoroughly agreeable and helpful persons. [But nothing would ensure failure so drastically, so immediately, than our expectation that our adversary should do likewise.]
 
@@ -290,7 +290,7 @@ Think about all those recent occasions when we failed this test. What would have
 
 If we are ever to have our indwelling spirit forces take charge in our lives, if we are ever to become useful in the divine program to enhance the spiritual advancement of this planet, then perhaps we have some thinking to do.
 
-"And you are all to proclaim this gospel of love and truth by the lives which you live in the flesh. You shall love one another with a new and startling affection, even as I have loved you. You will serve mankind with a new and amazing devotion, even as I have served you. And when men see you so love them, and when they behold how fervently you serve them, they will perceive that you have become faith-fellows of the kingdom of heaven, and they will follow after the Spirit of Truth which they see in your lives, to the finding of eternal salvation." (2044)
+“And you are all to proclaim this gospel of love and truth by the lives which you live in the flesh. You shall love one another with a new and startling affection, even as I have loved you. You will serve mankind with a new and amazing devotion, even as I have served you. And when men see you so love them, and when they behold how fervently you serve them, they will perceive that you have become faith-fellows of the kingdom of heaven, and they will follow after the Spirit of Truth which they see in your lives, to the finding of eternal salvation.” (2044)
 
 Is the Spirit of Truth visible in my life? In yours?
 
@@ -322,7 +322,7 @@ David and Solomon
 
 Detailed Israeli archaeological work has shown--doubtless to their chagrin--that Jerusalem was a small walled village prior to the 9th century BCE, and that Judah did not have sufficient population to have any political or military influence in the region.
 
-The action was in the North, but even there it was nothing like as glorious as the Bible would have us think. And in any case, there is nothing to suggest that a new people moved into Palestine in the Late Bronze Age. The so-called "Israelite" settlements in the highlands about 1200 BCE are simply Canaanites with a new zip code.
+The action was in the North, but even there it was nothing like as glorious as the Bible would have us think. And in any case, there is nothing to suggest that a new people moved into Palestine in the Late Bronze Age. The so-called “Israelite” settlements in the highlands about 1200 BCE are simply Canaanites with a new zip code.
 
 The current trench warfare between the Bible and archaeology involves the minimalists (who suggest no history of Israel/Judah is possible prior to the exile (in Babylon), and the maximalists (who concede everything up to and including the Solomonic empire, but argue for an emerging Judah/Jerusalem in the 9th to 8th century BCE)
 
@@ -332,9 +332,9 @@ We therefore have to make sense of Jesus as people who know something that his e
 
 The way forward does not lie in defending a pseudo-history just because it is sacred Scripture. We have to face the shocking facts that most of the Old Testament is late Judean propaganda. Second temple Judaism, like Christianity and every other human religion, is a human construction by people seeking to respond to the God whom we recognize in the person of Jesus.
 
-We can debate whether Jesus had a bodily resurrection, but what is gained by that, since none of us thinks that Jesus' mortal remains were assumed into a heaven "up there." And a bodily resurrection implies that they must be disposed of in some other, possibly miraculous, manner!
+We can debate whether Jesus had a bodily resurrection, but what is gained by that, since none of us thinks that Jesus' mortal remains were assumed into a heaven “up there.” And a bodily resurrection implies that they must be disposed of in some other, possibly miraculous, manner!
 
-The prior question to the resurrection is, "What happened to Jesus' cadaver?" If we ever solve that, we can begin to ask just what a bodily resurrection might mean in the 21st century as distinct from the 1st--in which dead people were believed often to come back to "this world" or to pass on to "the next world."
+The prior question to the resurrection is, “What happened to Jesus' cadaver?” If we ever solve that, we can begin to ask just what a bodily resurrection might mean in the 21st century as distinct from the 1st--in which dead people were believed often to come back to “this world” or to pass on to “the next world.”
 
 On this point, I am with Saul of Tarsus. In 1 Cor. 15 he makes it plain that Jesus was dead and buried (i.e. gone) but then became a life-giving spirit. Paul's own encounter with the Risen Lord did not involve a bodily resurrection but instead, (like all the other such episodes) an appearance--thus asserting the theological principle that flesh and blood do not inherit the kingdom of God.
 
@@ -362,17 +362,17 @@ Herzog, Ze'ev, (Professor of Archaeology, Tel Aviv University) in Ha'aetz Magazi
 
 But this also indicates that a literal interpretation of sections of the Urantia Papers is also unsustainable--which is in accord with what the revelators tell us:
 
-"No revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space." (1008)
+“No revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space.” (1008)
 
-A key statement  from the AA article is, "Given what we know, Christians in the 21st century must make sense of God and Jesus as best we can."
+A key statement  from the AA article is, “Given what we know, Christians in the 21st century must make sense of God and Jesus as best we can.”
 
 What do Urantia Book readers know that will help to make sense of God and Jesus? There is one critical item of knowledge that Christians already knew well in the first century, C.E., but have since lost--despite there being more than twenty New Testament verses to remind them.
 
 Presently, from the point of view of humanity, the single most important item of knowledge existent on our planet concerns the facts of the how, what, and why of our indwelling by the very spirit of our Father-God himself. And because it is lost or forgotten almost everywhere else, by default, such knowledge is close to becoming exclusively the possession of Urantia Book devotees.
 
-What are we to do with this knowledge? Each individual must discover this for him or her self. For certain though, if we put our faith in our God-Spirit-Within and, like the human Jesus, always seek to do the Father's will as it is revealed to us by the Spirit-Within--then "all else necessary will be added unto us."
+What are we to do with this knowledge? Each individual must discover this for him or her self. For certain though, if we put our faith in our God-Spirit-Within and, like the human Jesus, always seek to do the Father's will as it is revealed to us by the Spirit-Within--then “all else necessary will be added unto us.”
 
-And perhaps finally: "When men see you so love them, and how fervently you serve them, they will perceive you have become faith-fellows of the kingdom and will follow after the Spirit of Truth which they see in your lives…."
+And perhaps finally: “When men see you so love them, and how fervently you serve them, they will perceive you have become faith-fellows of the kingdom and will follow after the Spirit of Truth which they see in your lives….”
 
 Does the Spirit of Jesus shine forth in my life? In your life?]
 
@@ -396,7 +396,7 @@ In the not far distant future, western civilization may face a critical period i
 
 The reason? Traditional Christianity will be unable to escape the consequences of events now occurring in Israel--the recognition that the Old Testament stories about Moses, Egypt and its seven plagues, the escape of the enslaved Israelites, the Red Sea parting, their 40 years of wandering in the Sinai deserts, the conquest of a new homeland across the Jordan, the crashing down of the walls of Jericho, the sun standing still, the fabulous kingdom of David and his heroic deeds, the wealth of Solomon and his temple, all these and much, much more in biblical history were all purely mythical.
 
-A surprisingly large proportion of the Christian community clings to the belief that although the creation story of Genesis may be mythical or symbolic, the remainder of the Bible is "the word of God," and is historically accurate.
+A surprisingly large proportion of the Christian community clings to the belief that although the creation story of Genesis may be mythical or symbolic, the remainder of the Bible is “the word of God,” and is historically accurate.
 
 The shock of having to absorb these quite radical changes, and then to subscribe to a new and different belief system, will surely be too much for many who will simply relapse into total disbelief and perhaps complete despair.
 
@@ -419,11 +419,11 @@ In contrast, the new group of archaeologists were professional, highly trained, 
 
 Whereas almost the sole evidence used for the task of biblical history verification had been excavated finds, the new explorers added the methods of social sciences and anthropology. So alongside excavated artifacts, architecture, settlement patterns, animal bones, seeds, soil analysis, and anthropological models from many world cultures provided additional tools that contributed to the emerging story.
 
-How could animal bones have provided archaeological knowledge? The biblical story of Joseph of the coat of many colors being sold into slavery by his brothers tells how, after casting him into a pit, the brothers saw "a company of Ishmaelites from Gilead with their camels bearing spices and balm and myrrh going down to Egypt." So instead of killing Joseph, his brothers sold him into slavery.
+How could animal bones have provided archaeological knowledge? The biblical story of Joseph of the coat of many colors being sold into slavery by his brothers tells how, after casting him into a pit, the brothers saw “a company of Ishmaelites from Gilead with their camels bearing spices and balm and myrrh going down to Egypt.” So instead of killing Joseph, his brothers sold him into slavery.
 
 This event would have been around 2000 BCE, according to Bible history.
 
-Using evidence mainly garnered from bones, archaeology tells us that camels were not domesticated as beasts of burden until around 1200 BCE. Nor were they used in that capacity in the Palestine region until 1000 BCE. Furthermore, camel caravans carrying "spices and balm and myrrh" did not flourish until after 800 BCE and as a component of the Arabian trade that flourished in the Assyrian empire in the eighth and seventh centuries BCE.
+Using evidence mainly garnered from bones, archaeology tells us that camels were not domesticated as beasts of burden until around 1200 BCE. Nor were they used in that capacity in the Palestine region until 1000 BCE. Furthermore, camel caravans carrying “spices and balm and myrrh” did not flourish until after 800 BCE and as a component of the Arabian trade that flourished in the Assyrian empire in the eighth and seventh centuries BCE.
 
 From the new archaeological approaches also came the data about the life style of populations of the hill country that constituted both the northern kingdom (Israel), centered on Shechem, and the southern kingdom (Judah), centered on Jerusalem. Evidence for the period in which Saul, David, and Solomon became rulers showed that Judah, for example, remained relatively empty of permanent population right up to the time of David and Solomon, with no major urban centers and with no pronounced hierarchy of hamlets, villages, and towns. At best, Jerusalem was really only a tiny village.
 
@@ -439,7 +439,7 @@ However, according to the new archaeologists, production of this written record 
 
 "There was no mass exodus from Egypt. There was no violent conquest of Canaan. Most of the people who formed early Israel were local people--the same people whom we see in the highlands throughout the Bronze and Iron Ages.
 
-"The early Israelites were--irony of ironies--themselves originally Canaanites."
+“The early Israelites were--irony of ironies--themselves originally Canaanites.”
 
 What can the Urantia Papers and their readers do to soften the blow for Christians who witness the collapse of their belief system? For that matter, how will Urantia Book readers who take a relatively fundamentalist view of the Papers cope? These Papers treat Moses, the Exodus, the time in the wilderness, Moses' death and the takeover by Joshua as reasonably close to the biblical account. Modern archaeology says it did not happen.
 

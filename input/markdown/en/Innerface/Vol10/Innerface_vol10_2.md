@@ -6,17 +6,17 @@ The self has surrendered to the intriguing drive of an all-encompassing motivati
 
 But true religion is a living love, a life of service. The religionist's detachment from much that is purely temporal and trivial never leads to  isolation, nor should it destroy the sense of humor. Genuine religion takes nothing away from human existence, but it does add new meanings to all of life; it generates new types of enthusiasm, zeal, and courage.
 
-One of the most amazing earmarks of religious living is that dynamic and sublime peace, that peace which passes all human understanding, that cosmic poise which betokens the absence of all doubt and turmoil. Such levels of spiritual stability are immune to disappointment. Such religionists are like the Apostle Paul, who said: "I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor anything else shall be able to separate us from the love of God." (from p.1100/1101)
+One of the most amazing earmarks of religious living is that dynamic and sublime peace, that peace which passes all human understanding, that cosmic poise which betokens the absence of all doubt and turmoil. Such levels of spiritual stability are immune to disappointment. Such religionists are like the Apostle Paul, who said: “I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor anything else shall be able to separate us from the love of God.” (from p.1100/1101)
 
 # Learning to Teach
 
 Sooner or later Urantia Book readers are going to need to heed the calls put out by its revelators. One such is on page 43:
 
-"The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness."
+“The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness.”
 
 A high priority is assigned to bringing Christianity back from its present status of authoritarian religion to what it was always meant to be—a religion of the spirit centered on the relationship between the individual, the Spirit of Truth, and the Father Spirit within. This priority is emphasized in at least ten paragraphs in the Papers, such as:
 
-"Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men…."(2084)
+“Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men….”(2084)
 
 Those Urantia Book readers who have already taken this task seriously have learned a lot about what is unlikely to achieve much in the way of long term success.
 
@@ -32,11 +32,11 @@ So what can Urantia Book readers do to aid Christians to recover a religion of t
 
 This instruction was later repeated to the apostle Simon:
 
-"Jesus answered: "Simon, Simon, how many times have I instructed you to refrain from all efforts to take something out of the hearts of those who seek salvation? How often have I told you to labor only to put something into these hungry souls? Lead men into the kingdom, and the great and living truths of the kingdom will presently drive out all serious error." (1592)
+“Jesus answered: ”Simon, Simon, how many times have I instructed you to refrain from all efforts to take something out of the hearts of those who seek salvation? How often have I told you to labor only to put something into these hungry souls? Lead men into the kingdom, and the great and living truths of the kingdom will presently drive out all serious error." (1592)
 
 So telling Christians where they are wrong does not appear to find favor with Jesus and is best laid to rest for good.
 
-Jesus gave us an alternative, "Let the Spirit of Truth do his own work." (1932)
+Jesus gave us an alternative, “Let the Spirit of Truth do his own work.” (1932)
 
 Another failure is to approach Christians with a new revelation. Whereas it may work for a tiny minority, experience has shown it is not the way to go. There may be a multitude of reasons, prominent among them being that Christianity has been satiated with false messiahs, prophets, visionaries, and charismatic would-be leaders. And certainly the warning of dire penalties in the Book of Revelations for changing any biblical teaching does engender wariness about embracing new revelation.
 So what can we do? First we must have patience, tolerance, humility, and be as wise as serpents and as harmless as doves—all these recommendations come directly from Jesus.
@@ -58,13 +58,13 @@ Matthew 10: 20. For it is not you that speaks, but the Spirit of your Father whi
 
 Galatians 4:6. And because you are sons, God has sent forth the Spirit of his Son into your hearts, crying, Abba, Father.
 
-This means we do not even need to mention The Urantia Book nor the Thought Adjuster. In any case the latter term has acquired unfortunate connotations since the Papers were received because of the use of "brain washing" and "thought control" as instruments for controlling the citizens of countries with totalitarian regimes .
+This means we do not even need to mention The Urantia Book nor the Thought Adjuster. In any case the latter term has acquired unfortunate connotations since the Papers were received because of the use of “brain washing” and “thought control” as instruments for controlling the citizens of countries with totalitarian regimes .
 
 At this stage it would appear to be far better to follow Jesus:
 
-"Let me emphatically state this eternal truth: If you, by truth co-ordination, learn to exemplify in your lives this beautiful wholeness of righteousness, your fellow men will then seek after you that they may gain what you have so acquired. The measure wherewith truth seekers are drawn to you represents the measure of your truth endowment, your righteousness. The extent to which you have to go with your message to the people is, in a way, the measure of your failure to live the whole or righteous life, the truth-co-ordinated life." (1726)
+“Let me emphatically state this eternal truth: If you, by truth co-ordination, learn to exemplify in your lives this beautiful wholeness of righteousness, your fellow men will then seek after you that they may gain what you have so acquired. The measure wherewith truth seekers are drawn to you represents the measure of your truth endowment, your righteousness. The extent to which you have to go with your message to the people is, in a way, the measure of your failure to live the whole or righteous life, the truth-co-ordinated life.” (1726)
 
-"Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men." (2084)
+“Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men.” (2084)
 
 Note that the emphasis is on us living the God-like life as revealed in Jesus' life and perhaps handing out a Urantia Book after truth seekers are drawn to us. Unless we at least attempt to do that, we make a mockery of the revelation if we identify ourselves as Urantia Book readers.
 
@@ -76,31 +76,31 @@ Season follows season and sundown follows sunrise only with the passing of time.
 
 # On the Value of Spiritual Value
 
-"...much of your past life and its memories, having neither spiritual meaning nor morontia value, will perish with the material brain; much of material experience will pass away as onetime scaffolding which, having bridged you over to the morontia level, no longer serves a purpose in the universe"
+“...much of your past life and its memories, having neither spiritual meaning nor morontia value, will perish with the material brain; much of material experience will pass away as onetime scaffolding which, having bridged you over to the morontia level, no longer serves a purpose in the universe”
 
 Only that which has spiritual meaning and value survives with our soul. So what has spiritual value? Many hours of searching The Urantia Book may fail to find even a clue. The difficulty is that words like meaning and value have no hard and fast definition and for almost all conceivable occurrences must be considered in relative terms.
 
 The problem was highlighted by a bishop who, in struggling to define morality, realized that all moral acts are situational—they happen in a some particular situation that will never recur with all details of the situation exactly the same. Hence no precise definition is even possible.
 
-Like morality, a spiritual value is both situational and relative. So having nailed that down, can we get further? In one occurrence in the Papers, we find, "Spiritual development is determined by the capacity therefore and is directly proportional to elimination of the selfish qualities of love." (1096) That at least has a concrete meaning in that we can guarantee we will make spiritual growth if we reduce our selfishness.
+Like morality, a spiritual value is both situational and relative. So having nailed that down, can we get further? In one occurrence in the Papers, we find, “Spiritual development is determined by the capacity therefore and is directly proportional to elimination of the selfish qualities of love.” (1096) That at least has a concrete meaning in that we can guarantee we will make spiritual growth if we reduce our selfishness.
 
 There are three remarkable conversations recorded in the Papers that occurred during the visit of Jesus to Rome with his student, Ganid. All three were with Greeks intellectuals who had been imbued with the driving principle that marked the uniqueness of Greek philosophy—the belief that pure thought is capable of solving all of our difficulties.
 
-A key statement for our search on the meaning of spiritual values was made to one of them named Mardus, "Goodness, like truth is always relative and unfailingly evil-contrasted." Since God is the source and measure of all goodness (for "only God is good"), we can set God at one end of the relativity scale for determining all value. In his comment to Mardus, Jesus fixes the other end—evil. How evil? From comments made elsewhere, extreme selfishness may underpin the superlative for evil.
+A key statement for our search on the meaning of spiritual values was made to one of them named Mardus, “Goodness, like truth is always relative and unfailingly evil-contrasted.” Since God is the source and measure of all goodness (for “only God is good”), we can set God at one end of the relativity scale for determining all value. In his comment to Mardus, Jesus fixes the other end—evil. How evil? From comments made elsewhere, extreme selfishness may underpin the superlative for evil.
 
-In the first of these discourses, Jesus to said to Angamon, "The standard of true values must be looked for in the spiritual world and on divine levels of eternal reality. To an ascending mortal all lower and material standards must be recognized as transient, partial, and inferior."
+In the first of these discourses, Jesus to said to Angamon, “The standard of true values must be looked for in the spiritual world and on divine levels of eternal reality. To an ascending mortal all lower and material standards must be recognized as transient, partial, and inferior.”
 
 This confirms that the top end of the scale is divinity itself, and since all divinity is one, no subdivision is necessary. But it also tells us that there are no values that belong directly to the material world itself. Diamonds and dollars, mansions and motor cars have absolutely no value when we pack our belongings and depart for the morontia worlds. And if fame has a value then it is only in proportion to its content of goodness.
 
-"In every age scientists and religionists must recognize that they are on trial before the bar of human need. They must eschew all warfare between themselves while they strive valiantly to justify their continued survival by enhanced devotion to the service of human progress."
+“In every age scientists and religionists must recognize that they are on trial before the bar of human need. They must eschew all warfare between themselves while they strive valiantly to justify their continued survival by enhanced devotion to the service of human progress.”
 
-To Mardus, he also said, "But the soul that survives time and emerges into eternity must make a living and personal choice between good and evil as they are determined by the true values of the spiritual standards established by the divine spirit which the Father in heaven has sent to dwell within the heart of man. This indwelling spirit is the standard of personality survival."
+To Mardus, he also said, “But the soul that survives time and emerges into eternity must make a living and personal choice between good and evil as they are determined by the true values of the spiritual standards established by the divine spirit which the Father in heaven has sent to dwell within the heart of man. This indwelling spirit is the standard of personality survival.”
 
 All that goes with us to the mansion worlds is, in some way, related to our spiritual goodness. Nothing else will qualify. Our indwelling Father-Spirit is both the determiner of value and the custodian of our soul.
 
 "Goodness, like truth, is always relative and unfailingly evil-contrasted. It is the perception of these qualities of goodness and truth that enables the evolving souls of men to make those personal decisions of choice which are essential to eternal survival….
 
-"Goodness is always growing toward new levels of the increasing liberty of moral self-realization and spiritual personality attainment—the discovery of, and identification with, the indwelling Adjuster. An experience is good when it heightens the appreciation of beauty, augments the moral will, enhances the discernment of truth, enlarges the capacity to love and serve one's fellows, exalts the spiritual ideals, and unifies the supreme human motives of time with the eternal plans of the indwelling Adjuster, all of which lead directly to an increased desire to do the Father's will, thereby fostering the divine passion to find God and to be more like him."
+“Goodness is always growing toward new levels of the increasing liberty of moral self-realization and spiritual personality attainment—the discovery of, and identification with, the indwelling Adjuster. An experience is good when it heightens the appreciation of beauty, augments the moral will, enhances the discernment of truth, enlarges the capacity to love and serve one's fellows, exalts the spiritual ideals, and unifies the supreme human motives of time with the eternal plans of the indwelling Adjuster, all of which lead directly to an increased desire to do the Father's will, thereby fostering the divine passion to find God and to be more like him.”
 
 Experiences come regardless. Each carries the opportunity for decisions. If there are no decisions, no values can come into being. Our indwelling Father-Spirit is the arbiter and he cannot be fooled, not even by the world's best of con artists. The degree of unselfishness in our decisions is a major factor for determining value.
 
@@ -108,32 +108,32 @@ Experiences come regardless. Each carries the opportunity for decisions. If ther
 
 "Goodness is living, relative, always progressing, invariably a personal experience, and everlastingly correlated with the discernment of truth and beauty. Goodness is found in the recognition of the positive truth-values of the spiritual level, which must, in human experience, be contrasted with the negative counterpart—the shadows of potential evil….
 
-"The possibility of evil is necessary to moral choosing, but not the actuality thereof."
+“The possibility of evil is necessary to moral choosing, but not the actuality thereof.”
 
 To Nabon, the third member of this triad, Jesus said, "Truth cannot be defined with words, only by living. Truth is always more than knowledge. Knowledge pertains to things observed, but truth transcends such purely material levels in that it consorts with wisdom and embraces such imponderables as human experience, even spiritual and living realities. Knowledge originates in science; wisdom, in true philosophy; truth, in the religious experience of spiritual living. Knowledge deals with facts; wisdom, with relationships; truth, with reality values….
 
-"Revealed truth, personally discovered truth, is the supreme delight of the human soul; it is the joint creation of the material mind and the indwelling spirit. The eternal salvation of this truth-discerning and beauty-loving soul is assured by that hunger and thirst for goodness which leads this mortal to develop a singleness of purpose to do the Father's will, to find God and to become like him. There is never conflict between true knowledge and truth."
+“Revealed truth, personally discovered truth, is the supreme delight of the human soul; it is the joint creation of the material mind and the indwelling spirit. The eternal salvation of this truth-discerning and beauty-loving soul is assured by that hunger and thirst for goodness which leads this mortal to develop a singleness of purpose to do the Father's will, to find God and to become like him. There is never conflict between true knowledge and truth.”
 
-[The beauty of these words automatically generates the thought, "Did any man ever write or speak thus." To which a reply might be, "Perhaps occasionally but never consistently." The revelatory truth in the Papers is self-validating.]
+[The beauty of these words automatically generates the thought, “Did any man ever write or speak thus.” To which a reply might be, “Perhaps occasionally but never consistently.” The revelatory truth in the Papers is self-validating.]
 
-There follows a quite remarkable comment defining faith as our "sublime hope." What we hope to become sets the scale for our values: "Truth can never become man's possession without the exercise of faith. This is true because man's thoughts, wisdom, ethics, and ideals will never rise higher than his faith, his sublime hope. And all such true faith is predicated on profound reflection, sincere self-criticism, and uncompromising moral consciousness. Faith is the inspiration of the spiritized creative imagination.
+There follows a quite remarkable comment defining faith as our “sublime hope.” What we hope to become sets the scale for our values: "Truth can never become man's possession without the exercise of faith. This is true because man's thoughts, wisdom, ethics, and ideals will never rise higher than his faith, his sublime hope. And all such true faith is predicated on profound reflection, sincere self-criticism, and uncompromising moral consciousness. Faith is the inspiration of the spiritized creative imagination.
 
-"Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival"
+“Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival”
 
 Our faith and our hopes are important both for adding purpose to our existence and for their spiritualization.
 
-A little further on in this discourse we find a definition for spiritual evolution. "Spiritual evolution is an experience of the increasing and voluntary choice of goodness attended by an equal and progressive diminution of the possibility of evil. With the attainment of finality of choice for goodness and of completed capacity for truth appreciation, there comes into existence a perfection of beauty and holiness whose righteousness eternally inhibits the possibility of the emergence of even the concept of potential evil. Such a God-knowing soul casts no shadow of doubting evil when functioning on such a high spirit level of divine goodness…."
+A little further on in this discourse we find a definition for spiritual evolution. “Spiritual evolution is an experience of the increasing and voluntary choice of goodness attended by an equal and progressive diminution of the possibility of evil. With the attainment of finality of choice for goodness and of completed capacity for truth appreciation, there comes into existence a perfection of beauty and holiness whose righteousness eternally inhibits the possibility of the emergence of even the concept of potential evil. Such a God-knowing soul casts no shadow of doubting evil when functioning on such a high spirit level of divine goodness….”
 There is positive feedback from our choices and our decision making, fortifying and upgrading their spiritual value depending upon the content of goodness and unselfishness but doing the opposite if through selfishness we slip waywardly backwards toward the pole tainted by evil. Positive feedback actually feeds upon itself. It has the characteristic of the more you do it, the more there is of it and the faster you get there. But it cuts both ways.
 
-And at the conclusion of the discourses there is a concise statement of the revelation promise given in these Papers, "The presence of the Paradise spirit in the mind of man constitutes the revelation promise and the faith pledge of an eternal existence of divine progression for every soul seeking to achieve identity with this immortal and indwelling spirit fragment of the Universal Father."
+And at the conclusion of the discourses there is a concise statement of the revelation promise given in these Papers, “The presence of the Paradise spirit in the mind of man constitutes the revelation promise and the faith pledge of an eternal existence of divine progression for every soul seeking to achieve identity with this immortal and indwelling spirit fragment of the Universal Father.”
 
-The fulfillment of the revelatory promise is dependent on both our conscious and our unconscious seeking for identity with the one who is simply "good."
+The fulfillment of the revelatory promise is dependent on both our conscious and our unconscious seeking for identity with the one who is simply “good.”
 
-# Lessons from Jesus' "Discourse on Science"
+# Lessons from Jesus' “Discourse on Science”
 
 This discourse (p.1476) was between Jesus and a Greek philosopher, ostensibly in about 20 A.D. Coupled with the knowledge of our personal indwelling by the spirit of the Father, it outlines all that is needed for comprehending the purpose of our human existence.
 
-"Scientists may some day measure the energy, or force manifestations, of gravitation, light, and electricity, but these same scientists can never (scientifically) tell you what these universe phenomena are."
+“Scientists may some day measure the energy, or force manifestations, of gravitation, light, and electricity, but these same scientists can never (scientifically) tell you what these universe phenomena are.”
 
 Today this remains as true as ever. Some may think we know, or can know, it all. The reality is that when we put our knowledge under the microscope, the extent of that knowledge, though praiseworthy and in many ways quite incredible in its ingenuity, basically it is superficial.
 
@@ -143,25 +143,25 @@ But there are more basic questions to be answered. What really is an electric ch
 
 Every item of our knowledge can be extended more deeply until we come to a point where real knowledge ceases—leaving us to ponder the unknown or unknowable.
 
-"Science deals with physical-energy activities; religion deals with eternal values. True philosophy grows out of the wisdom which does its best to correlate these quantitative and qualitative observations."
+“Science deals with physical-energy activities; religion deals with eternal values. True philosophy grows out of the wisdom which does its best to correlate these quantitative and qualitative observations.”
 
-Philosopher Ludwig Wittgenstein wrote: "Philosophy is not a cognitive discipline. There are no philosophical propositions, no philosophical knowledge. The goal of philosophy is not knowledge but understanding."
+Philosopher Ludwig Wittgenstein wrote: “Philosophy is not a cognitive discipline. There are no philosophical propositions, no philosophical knowledge. The goal of philosophy is not knowledge but understanding.”
 
-"There always exists the danger that the purely physical scientist may become afflicted with mathematical pride and statistical egotism, not to mention spiritual blindness."
+“There always exists the danger that the purely physical scientist may become afflicted with mathematical pride and statistical egotism, not to mention spiritual blindness.”
 
 This problem appears to be rare amongst truly great scientists. Dogmatism and arrogance, as with religionists, belong to a lesser breed.
 
-"Quantity may be identified as a fact, thus becoming a scientific uniformity. Quality, being a matter of mind interpretation, represents an estimate of values, and must, therefore, remain an experience of the individual."
+“Quantity may be identified as a fact, thus becoming a scientific uniformity. Quality, being a matter of mind interpretation, represents an estimate of values, and must, therefore, remain an experience of the individual.”
 
 Value and quality are always relative. Like beauty, they are in the eye of the beholder.
 
-"There is unity in the cosmic universe if you could only discern its workings in actuality. The real universe is friendly to every child of the eternal God."
+“There is unity in the cosmic universe if you could only discern its workings in actuality. The real universe is friendly to every child of the eternal God.”
 
 The real universe is God's universe and it is friendly to real personalities who surrender their free will back to God in order to seek the perfection that is God. The alternative choice is the sovereignty of self-will—the final effect of which is alienation from reality itself.
 
-"The real problem is: How can the finite mind of man achieve a logical, true, and corresponding unity of thought? This universe-knowing state of mind can be had only by conceiving that the quantitative fact and the qualitative value have a common causation in the Paradise Father."
+“The real problem is: How can the finite mind of man achieve a logical, true, and corresponding unity of thought? This universe-knowing state of mind can be had only by conceiving that the quantitative fact and the qualitative value have a common causation in the Paradise Father.”
 
-Jesus informed us that only God is good, that all goodness has its origin in God. We also have, "Man might fear a great God but he trusts and loves only a good God. This goodness of God is a part of the personality of God, and its full revelation appears only in the personal religious experience of the believing sons of God." If we strive for goodness we strive for God. Jesus also said: "I am absolutely assured that the entire universe is friendly to me—this all powerful truth I insist on believing with a whole-hearted trust in spite of all appearances to the contrary."
+Jesus informed us that only God is good, that all goodness has its origin in God. We also have, “Man might fear a great God but he trusts and loves only a good God. This goodness of God is a part of the personality of God, and its full revelation appears only in the personal religious experience of the believing sons of God.” If we strive for goodness we strive for God. Jesus also said: “I am absolutely assured that the entire universe is friendly to me—this all powerful truth I insist on believing with a whole-hearted trust in spite of all appearances to the contrary.”
 
 Our total faith and trust in the goodness of God and the friendliness of all his universe unifies our minds and our personalities with the God-Spirit-Within—and in spite of any and all conflicting  appearances, there is unity.
 
@@ -170,23 +170,23 @@ phenomena; it even reveals a spiritual goal of progressive personality achieveme
 
 There is purpose to mortal life—the spiritual goal of the attainment of goodness.
 
-"And this is a concept of unity which can sense the unchanging background of a living universe of continually changing impersonal relations and evolving personal relationships."
+“And this is a concept of unity which can sense the unchanging background of a living universe of continually changing impersonal relations and evolving personal relationships.”
 
 The only unchanging thing anywhere is the Eternal God. God is the stable background whose presence our unified minds are able to sense.
 
-"Matter and spirit and the state intervening between them are three interrelated and inter-associated levels of the true unity of the real universe. Regardless of how divergent the universe phenomena of fact and value may appear to be, they are, after all, unified in the Supreme."
+“Matter and spirit and the state intervening between them are three interrelated and inter-associated levels of the true unity of the real universe. Regardless of how divergent the universe phenomena of fact and value may appear to be, they are, after all, unified in the Supreme.”
 
-The state intervening between matter and spirit is "morontia." But all is one in the experiential God of the finite universes, the Supreme Being.
+The state intervening between matter and spirit is “morontia.” But all is one in the experiential God of the finite universes, the Supreme Being.
 
-"Reality of material existence attaches to unrecognized energy as well as to visible matter. When the energies of the universe are so slowed down that they acquire the requisite degree of motion, then under favorable conditions, these same energies become mass."
+“Reality of material existence attaches to unrecognized energy as well as to visible matter. When the energies of the universe are so slowed down that they acquire the requisite degree of motion, then under favorable conditions, these same energies become mass.”
 
 Prior to the a-bomb, this concept was virtually unthinkable for the human psyche. Our physicists now seek to confirm that somewhere above an energy level of 20 billion billion electron volts, there is a zone of zero mass. As energy levels decrease, an as yet hypothetical particle, the Higgs boson, provides the mechanism that breaks the symmetry of the zero mass hypothesis, thus enabling the existence of the low mass particles that make up our finite world of matter.
 
-"And forget not, the mind which can alone perceive the presence of apparent realities is itself also real."
+“And forget not, the mind which can alone perceive the presence of apparent realities is itself also real.”
 
 Mind is real and distinct from matter even at the level of the physical-energy-associated mechanical mind of the lower organisms. Mind caters for levels appropriate for the spiritual, morontial, and finite material states.
 
-"And the fundamental cause of this universe of energy-mass, mind, and spirit, is eternal—it exists and consists in the nature and reactions of the Universal Father and his absolute co-ordinates."
+“And the fundamental cause of this universe of energy-mass, mind, and spirit, is eternal—it exists and consists in the nature and reactions of the Universal Father and his absolute co-ordinates.”
 
 Missing from this discourse to the Greek philosopher but required for completion of our understanding of both reality and our place and purpose in that reality, is the partnership that we mortals must establish with the indwelling Father-Spirit—God's gift of a unique part of himself to each ascending mortal.
 
@@ -253,9 +253,9 @@ However, central to religion of the spirit is the personal quest for truth that 
 
 "Religionists are of no more value in the tasks of social reconstruction than non-religionists except in so far as their religion has conferred upon them enhanced cosmic foresight and endowed them with that superior social wisdom which is born of the sincere desire to love God supremely and to love every man as a brother in the heavenly kingdom. An ideal social order is that in which every man loves his neighbor as he loves himself. (1086/7)
 
-# "Prove it to yourself for yourself"
+# “Prove it to yourself for yourself”
 
-"When a religion becomes fundamentalist, it inevitably becomes counter-productive, counter-intuitive, and an impediment to the social and spiritual progress of its adherents."
+“When a religion becomes fundamentalist, it inevitably becomes counter-productive, counter-intuitive, and an impediment to the social and spiritual progress of its adherents.”
 
 This summation has certainly proven itself true for Jewish, Islamic, and Christian fundamentalism—all of which have committed heinous acts of barbarism in the name of their supposed God.
 
@@ -269,13 +269,13 @@ The revelators of the Urantia Papers would have been well aware of the potential
 
 "We full well know that, while the historic facts and religious truths of this series of revelatory presentations will stand on the records of the ages to come, within a few short years many of our statements regarding the physical sciences will stand in need of revision in consequence of additional scientific developments and new discoveries. These new developments we even now foresee, but we are forbidden to include such humanly undiscovered facts in the revelatory records. Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired. (1109)
 
-"Partial, incomplete, and evolving intellects would be helpless in the master universe, would be unable to form the first rational thought pattern, were it not for the innate ability of all mind, high or low, to form a universe frame in which to think. If mind cannot fathom conclusions, if it cannot penetrate to true origins, then will such mind unfailingly postulate conclusions and invent origins that it may have a means of logical thought within the frame of these mind-created postulates. And while such universe frames for creature thought are indispensable to rational intellectual operations, they are, without exception, erroneous to a greater or lesser degree." (1260)
+“Partial, incomplete, and evolving intellects would be helpless in the master universe, would be unable to form the first rational thought pattern, were it not for the innate ability of all mind, high or low, to form a universe frame in which to think. If mind cannot fathom conclusions, if it cannot penetrate to true origins, then will such mind unfailingly postulate conclusions and invent origins that it may have a means of logical thought within the frame of these mind-created postulates. And while such universe frames for creature thought are indispensable to rational intellectual operations, they are, without exception, erroneous to a greater or lesser degree.” (1260)
 
 There is, of course, much more. However, a mind that is able to twist these statements to suit the individual's belief system, will also twist anything else that could be added.
 
 One favored ploy is to cite occasions when science has been wrong in order to justify dismissing all the assertions of science. The fear of dedicated fundamentalists is that the discovery of even a single error in the Urantia Papers would throw doubt upon their authority, hence the need to find ways to cover up, ignore, overlook, or explain away apparent error.
 
-Contrary to this attitude, the open-minded student of the revelation will not only accept what is stated in the above quotations but, with the passage of time, will henceforth expect to find an increasing error content in cosmological material, and also to discover similar error accumulating in what has been provided as a "universe frame in which to think."
+Contrary to this attitude, the open-minded student of the revelation will not only accept what is stated in the above quotations but, with the passage of time, will henceforth expect to find an increasing error content in cosmological material, and also to discover similar error accumulating in what has been provided as a “universe frame in which to think.”
 
 For those who are troubled by occurrences in which science and The Urantia Book express contrary views, but who do not have that special expertise to enable them to make a rational judgment among the alternatives, the revelators have included sections in the Papers for which it is possible for virtually every reader to make their own decision on the veracity of the information supplied. And surely when the Papers are wrong, this error is nevertheless in accord with universe rules and purposes for revelation as outlined on pp. 1109 and 1260 of the Urantia Papers.
 
@@ -287,9 +287,9 @@ And perhaps this is universe policy for all revelation everywhere?
 
 One section of the Papers that requires only a minimal knowledge of arithmetic in order to be able to check its veracity concerns the revelators description of the concurrent development of our planet and its moon by an accretion process:
 
-"2,500,000,000 years ago the planets had grown immensely in size. Urantia was a well-developed sphere about one tenth its present mass and was still growing rapidly by meteoric accretion." (658)
+“2,500,000,000 years ago the planets had grown immensely in size. Urantia was a well-developed sphere about one tenth its present mass and was still growing rapidly by meteoric accretion.” (658)
 
-"2,000,000,000 years ago the earth began decidedly to gain on the moon. Always had the planet been larger than its satellite, but there was not so much difference in size until about this time, when enormous space bodies were captured by the earth. Urantia was then about one fifth its present size…." (659)
+“2,000,000,000 years ago the earth began decidedly to gain on the moon. Always had the planet been larger than its satellite, but there was not so much difference in size until about this time, when enormous space bodies were captured by the earth. Urantia was then about one fifth its present size….” (659)
 
 "1,500,000,000 years ago the earth was two thirds its present size, while the moon was nearing its present mass. (659)
 
@@ -315,7 +315,7 @@ The factuality of our present analysis is readily confirmable by almost anyone p
 
 Another example of error in the Papers that  interested individuals can readily check for themselves occurs with the Papers' statement on the distance between the earth and the galaxy, Andromeda:
 
-"This far-distant nebula is visible to the naked eye, and when you view it, pause to consider that the light you behold left those distant suns almost one million years ago." (170)
+“This far-distant nebula is visible to the naked eye, and when you view it, pause to consider that the light you behold left those distant suns almost one million years ago.” (170)
 
 This means that the distance to Andromeda is the distance traveled by light in one million years, the unit of distance being named the light-year. In 1929 Hubble published his finding that Andromeda was about one million light years away from us, a figure that had to be more than doubled when, in 1951, Walter Baade discovered a problem in the methodology used by Hubble.
 
@@ -325,7 +325,7 @@ For the case of Andromeda, they justify their claim by pointing out that constan
 
 This is certainly true for far distant stars. But Andromeda is a nearby galaxy and the estimate of its distance from us required only a high quality telescope, a few simple tools, a smattering of high school mathematics, but no imprecisely-known constants.
 
-Hubble's 1929 estimate had utilized a method discovered by Henrietta Leavitt in 1912 and commended by the authors of the Urantia Papers in these terms, "In one group of variable stars the period of light fluctuation is directly dependent on luminosity, and knowledge of this fact enables astronomers to utilize such suns as universe lighthouses or accurate measuring points for the further exploration of distant star clusters. By this technique it is possible to measure stellar distances most precisely up to more than one million light-years." (459)
+Hubble's 1929 estimate had utilized a method discovered by Henrietta Leavitt in 1912 and commended by the authors of the Urantia Papers in these terms, “In one group of variable stars the period of light fluctuation is directly dependent on luminosity, and knowledge of this fact enables astronomers to utilize such suns as universe lighthouses or accurate measuring points for the further exploration of distant star clusters. By this technique it is possible to measure stellar distances most precisely up to more than one million light-years.” (459)
 
 By observing the behavior of these variable stars (called Cepheid variables) in our Milky Way galaxy, and calibrating their brightness against distance from us, Leavitt could then estimate the distance to any Cepheid variable simply by measuring its brightness. And her calibration of the brightness/distance relationship, because it was made using nearby stars, could be done by methods known to surveyors, with some even being known to the Egyptians 5000 years ago.
 
@@ -337,7 +337,7 @@ This story has long been well known amongst amateur astronomer groups and may be
 
 An important question we must ask is why the revelators appear to have been at such pains to ensure that, over time, it would progressively become more and more impossible for the Urantia Papers as a whole, to be imposed upon intelligent people as the authoritative word of God.
 
-One reason may be because of the sovereignty of our free will: "Having thus provided for the growth of the immortal soul and having liberated man's inner self from the fetters of absolute dependence on antecedent causation, the Father stands aside…No other being, force, creator, or agency in all the wide universe of universes can interfere to any degree with the absolute sovereignty of the mortal free will, as it operates within the realms of choice, regarding the eternal destiny of the personality of the choosing mortal. As pertains to eternal survival, God has decreed the sovereignty of the material and mortal will, and that decree is absolute." (71)
+One reason may be because of the sovereignty of our free will: “Having thus provided for the growth of the immortal soul and having liberated man's inner self from the fetters of absolute dependence on antecedent causation, the Father stands aside…No other being, force, creator, or agency in all the wide universe of universes can interfere to any degree with the absolute sovereignty of the mortal free will, as it operates within the realms of choice, regarding the eternal destiny of the personality of the choosing mortal. As pertains to eternal survival, God has decreed the sovereignty of the material and mortal will, and that decree is absolute.” (71)
 
 Imagine this: We live under a despotic king who has informed us that provided we accept doing his will absolutely in every detail, we will be rewarded with a knighthood and a castle—but if we reject his offer, we face certain death. Do we really have a free will choice??
 

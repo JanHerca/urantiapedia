@@ -2,7 +2,7 @@
 
 The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul. (43)
 
-Where do we find these "enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness?" Is there anything anywhere that is comparable to what we already have in the Urantia revelation? The answer to that question appears to be an emphatic, "No!" Which makes the statement self-referential.
+Where do we find these “enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness?” Is there anything anywhere that is comparable to what we already have in the Urantia revelation? The answer to that question appears to be an emphatic, “No!” Which makes the statement self-referential.
 
 And so our instructions are to search the Urantia Papers for material that fits the above categories and then present it in a form that will attract and challenge all that which is best in the human soul.
 
@@ -14,13 +14,13 @@ An alternative pathway for budding authors is to pay to have their work printed-
 
 Hence the reality is that the vast majority of such authors will find they must give their work away free to anyone friendly enough or forbearing enough to accept a free copy that, most likely, they will dispose of in the nearest garbage bin.
 
-But is a full length book the way to spread the message of the Urantia revelation? In the previous issue of this newsletter, referring to the "religious challenge of this age" paragraph, it was concluded that:
+But is a full length book the way to spread the message of the Urantia revelation? In the previous issue of this newsletter, referring to the “religious challenge of this age” paragraph, it was concluded that:
 
-"Currently there is an urgent need for not just one new philosophy but one for every race, nation, religion, faction, language--each and every barrier that divides us. And all such  philosophies have to be short, sharp, and simple, and based directly upon those revelatory concepts of 'cosmic truth, universe beauty, and divine goodness.'"
+“Currently there is an urgent need for not just one new philosophy but one for every race, nation, religion, faction, language--each and every barrier that divides us. And all such  philosophies have to be short, sharp, and simple, and based directly upon those revelatory concepts of 'cosmic truth, universe beauty, and divine goodness.'”
 
-The need to be "short, sharp, and simple" appears to rule out book-length works. On pages 3 to 6 of this issue, some examples are presented of condensing sections of the Papers in the attempt to "construct new and appealing philosophies" that appear also to fit the description of "cosmic truth, universe beauty, and divine goodness"
+The need to be “short, sharp, and simple” appears to rule out book-length works. On pages 3 to 6 of this issue, some examples are presented of condensing sections of the Papers in the attempt to “construct new and appealing philosophies” that appear also to fit the description of “cosmic truth, universe beauty, and divine goodness”
 
-The text of each has been adapted so as to make sense to people not acquainted with the Urantia revelation--and for whom terms such as "Thought Adjuster" would be more likely to generate association with "thought control" or "brain washing" than the gift of self from a God who loves us.
+The text of each has been adapted so as to make sense to people not acquainted with the Urantia revelation--and for whom terms such as “Thought Adjuster” would be more likely to generate association with “thought control” or “brain washing” than the gift of self from a God who loves us.
 
 Whereas these condensations could readily become part of a larger work dedicated to philosophy or theology, or be stand alone articles in appropriate magazines, etc., they do not  appear to fill the requirement for short, sharp, and simple philosophies based on revelatory concepts of cosmic truth, universe beauty, and divine goodness.
 
@@ -36,11 +36,11 @@ Maybe only ten people would read our efforts. But if they pass it on, ten times 
 
 # The Indwelling Presence of God.
 
-"Know you not that you are the temple of God, that the Spirit of God dwells in you." (1 Cor. 3-16)     
+“Know you not that you are the temple of God, that the Spirit of God dwells in you.” (1 Cor. 3-16)     
 
 However this indwelling presence of God's spirit has no special mechanism through which to gain self-expression. The divine Spirit makes contact with mortal man, not by feelings or emotions, but in the realm of the highest and most spiritualized thinking. It is your thoughts, not your feelings, that lead you Godward.
 
-The divine nature may be perceived only with the eyes of the mind. But the mind that really discerns God, hears the indwelling Spirit, is the pure mind. "Without holiness no man may see the Lord." All such inner and spiritual communion is  spiritual insight. Such religious experiences result from the impression made upon the mind of man by the operations of the divine Spirit--as it functions amid and upon the ideas, ideals, insights, and spirit strivings of these evolving sons and daughters of God.
+The divine nature may be perceived only with the eyes of the mind. But the mind that really discerns God, hears the indwelling Spirit, is the pure mind. “Without holiness no man may see the Lord.” All such inner and spiritual communion is  spiritual insight. Such religious experiences result from the impression made upon the mind of man by the operations of the divine Spirit--as it functions amid and upon the ideas, ideals, insights, and spirit strivings of these evolving sons and daughters of God.
 
 Religion lives and prospers, then, not by sight and feeling, but rather by faith and insight. It consists not in the discovery of new facts nor in the finding of a unique experience, but rather in the discovery of new and spiritual meanings in facts already well known. The highest religious experience is not dependent on prior acts of belief, tradition, and authority; neither is religion the offspring of sublime feelings and purely mystical emotions. It is, rather, a profoundly deep and actual experience of spiritual communion with the spirit influences resident within the human mind, and as far as such an experience is definable in terms of psychology, it is simply the experience of experiencing the reality of believing in God as the reality of such a purely personal experience.
 While religion is not the product of the rationalistic speculations of a material cosmology, it is, nonetheless, the creation of a wholly rational insight which originates in man's mind-experience. Religion is born neither of mystic meditations nor of isolated contemplations--albeit it is ever more or less mysterious and always indefinable and inexplicable in terms of purely intellectual reason and philosophic logic. The germs of true religion originate in the domain of man's moral consciousness, and they are revealed in the growth of man's spiritual insight, that faculty of human personality which accrues as a consequence of the presence of the God-revealing Spirit in the God-hungry mortal mind.
@@ -52,7 +52,7 @@ Thus it may be seen that religious longings and spiritual urges are not of such 
 The higher and super-philosophic wisdom of such enlightened and disciplined individuals ultimately instructs them that to doubt God or distrust his goodness would be to prove untrue to the realest and deepest thing within the human mind and soul--the indwelling Presence of God.
 
 # The Golden Rule.
-"Do unto others as you would have them do unto you"
+“Do unto others as you would have them do unto you”
 (Tobit 4:15; Matt 7:12; Luke 6:3; UB 1445, 1571 etc.)
 
 Some persons discern and interpret the golden rule as a purely intellectual affirmation of human fraternity. Others experience this expression of human relationship as an emotional gratification of the tender feelings of the human personality. Another mortal recognizes this same golden rule as the yardstick for measuring all social relations, the standard of social conduct. Still others look upon it as being the positive injunction of a great moral teacher who embodied in this statement the highest concept of moral obligation as regards all fraternal relationships. In the lives of such moral beings the golden rule becomes the wise center and circumference of all their philosophy.
@@ -109,7 +109,7 @@ Now, rather, is God's earthly family enlisted together in fighting the battle of
 
 
 ****************************
-There follows a "combined assault." (see p. 2)
+There follows a “combined assault.” (see p. 2)
 
 # Universal Spiritual Religion
 
@@ -119,12 +119,12 @@ Commencing around 600 years BCE and progressing to about 600 CE, a remarkable se
 
 This is exactly the same indwelling Spirit of God that was friend, guide, and counselor to such remarkable sources of divine revelation as Moses, Lao Tzu, Siddartha Gautama, Jesus of Nazareth, Muhammad, and many others during their short interlude on Planet Earth.
 
-This synopsis constitutes a framework for discovering the existence of God and the mind of God. It also generates a logical basis for religious belief more basic even than does Whitehead's "Process Theology."
+This synopsis constitutes a framework for discovering the existence of God and the mind of God. It also generates a logical basis for religious belief more basic even than does Whitehead's “Process Theology.”
 
 
 Occam's Razor logic leads to belief in God and spiritual religion.
 
-The Occam's razor principle is a universally recognized problem-solving procedure. It requires the elimination of all unnecessary hypotheses, leaving only the simplest for further exploration.  Our question: "what is the minimal set of axioms that will provide us with a valid system of religious belief."
+The Occam's razor principle is a universally recognized problem-solving procedure. It requires the elimination of all unnecessary hypotheses, leaving only the simplest for further exploration.  Our question: “what is the minimal set of axioms that will provide us with a valid system of religious belief.”
 
 Considering the beginning of all things we have only two options: thought was involved, or  all arose spontaneously from nothingness.
 
@@ -132,9 +132,9 @@ Choosing the latter hypothesis automatically generates difficult insoluble quest
 
 But if we allow thought to be involved, we have a built-in explanation for such phenomena. And so we choose the simpler of the two and express it as:
 
-Axiom 1. God is the one self-caused fact existent in the whole of reality, hence must be the source and substance of all that is. (from "Origin of Origins of Tao Te Ching," about 500 BCE).
+Axiom 1. God is the one self-caused fact existent in the whole of reality, hence must be the source and substance of all that is. (from “Origin of Origins of Tao Te Ching,” about 500 BCE).
 
-We give our "Original Creative Thought" the name "God," noting that since time and space came into being together as space-time, prior to that moment there was only the infinite eternal NOW. Hence questions such as what came before God are irrelevant.   
+We give our “Original Creative Thought” the name “God,” noting that since time and space came into being together as space-time, prior to that moment there was only the infinite eternal NOW. Hence questions such as what came before God are irrelevant.   
 
 In order to keep our system simple we have need of one more primary axiom, and propose this:
 
@@ -142,7 +142,7 @@ Axiom 2. God is perfect goodness.
 
 Dedicated belief in these two axioms is all that civilization requires to eventually evolve to a near perfect world of love and goodness.
 
-Given God's perfect goodness, the next most important question every individual must ask is, "what does God require of me?" The simplest possible answer is that God would want us to be like him--good. Why? Well, if God did not want that, then we could make life miserable for others. Hence there would have to be a higher God whose goodness is superior to one who does not require that we should aspire to being good.
+Given God's perfect goodness, the next most important question every individual must ask is, “what does God require of me?” The simplest possible answer is that God would want us to be like him--good. Why? Well, if God did not want that, then we could make life miserable for others. Hence there would have to be a higher God whose goodness is superior to one who does not require that we should aspire to being good.
 
 
 If we have the choice of wanting to be like God or not to be like him, then obviously we have free will. What would a world be like in which all us were created perfectly good--and could be nothing else but perfectly good? Unfortunately the answer to that question is that we would be automata, programmed to respond in fixed ways with no possibility of doing otherwise.
@@ -163,7 +163,7 @@ In summary: God is; God is perfect goodness.
 
 A Foundation for belief in God and Spiritual Uniformity.
 
-Somewhere around 2,500 years ago, there was a remarkable event. A new concept, sometimes given the name of "Perennial Philosophy," entered the human psyche. Eventually it became the benchmark philosophy of all major religions. Its four main principles are:
+Somewhere around 2,500 years ago, there was a remarkable event. A new concept, sometimes given the name of “Perennial Philosophy,” entered the human psyche. Eventually it became the benchmark philosophy of all major religions. Its four main principles are:
 
 1. Matter and self-consciousness are manifestations of the First Source and Center, known also as God, Tao, Brahman, Yahweh, Heavenly Father, Allah, etc.
 
@@ -181,7 +181,7 @@ The Spirit of God dwells within us--our guide to Spirituality
 
 To understand the spiritual life, it is vital to understand the role that must be attributed to the indwelling Spirit of God.
 
-Although few are aware of it, it is referred to in the Bible's New Testament in at least 25 of its verses, e.g. "Know you not that you are the temple of God, that the Spirit of God dwells in you" (1. Cor. 3:16), and, "If we love one another, God dwells in us." (1 John 4:12). It was also known among the ancient Egyptians, Persians, Hindus, Sufis, and other followers of Islam.
+Although few are aware of it, it is referred to in the Bible's New Testament in at least 25 of its verses, e.g. “Know you not that you are the temple of God, that the Spirit of God dwells in you” (1. Cor. 3:16), and, “If we love one another, God dwells in us.” (1 John 4:12). It was also known among the ancient Egyptians, Persians, Hindus, Sufis, and other followers of Islam.
 
 This indwelling Spirit is the source in our minds of all true meanings and values of a non-material nature. Thus it is the source of true morality, beauty and goodness, and all revealed and non-material truth.
 
@@ -201,7 +201,7 @@ If the Spirit dwells within us, potentially we are free and liberated children o
 
 Almost 500 years before the Christian era, Mo Tzu, in China, gained a large following for his concepts regarding mutual love and its potential to replace war among states and nations.
 
-"Whence do these calamities arise?" he asked. And he answered as follows:
+“Whence do these calamities arise?” he asked. And he answered as follows:
 
 They arise from the absence of mutual love. At present feudal lords have learned only to love their own States, but not those of others. Therefore they have no scruples about attacking other states. And the heads of houses have learned only to love their own houses and never those of others. Therefore they have no scruples against usurping the houses of others. And individuals have learned only to love themselves and not others. Therefore they too have no scruples against injuring others. It follows that all the calamities, strifes, conflicts, complaints, and hatreds in the world have their origin out of the want of mutual love. How can this condition be altered?
 
@@ -240,7 +240,7 @@ But learn that even the expression of a good thought may need to be modulated in
 
 That concludes our examples of attempting to fulfil the edicts of that page 43 request to produce a new and righteous vision of morality. The foundation of such a vision would surely need to be that we love all men regardless of what they are like. The secret in being able to do so is in the words:
 
-"If once you understand your neighbor, you will become tolerant, and this tolerance will grow into friendship and ripen into love." (1098)
+“If once you understand your neighbor, you will become tolerant, and this tolerance will grow into friendship and ripen into love.” (1098)
 
 An academic-style philosophical work of the intensity of even the Urantia revelation seems unlikely to achieve sufficient popularity to be effective. A novel with no religious connotations but a central character who does just that possibly could do so.
 
@@ -293,7 +293,7 @@ We are not asked to promote any one religion--not even one based upon the life o
 
 And the source material, though contained within the Urantia revelation, need not necessarily be original to it.
 
-Because of the way the Urantia revelation came to be, and its content, we must assume that something about its central figure, Jesus of Nazareth, is important for us. And surely this must include his faith and the central role that the "will of the Father" played in his life.
+Because of the way the Urantia revelation came to be, and its content, we must assume that something about its central figure, Jesus of Nazareth, is important for us. And surely this must include his faith and the central role that the “will of the Father” played in his life.
 
 Jesus' faith was so real and all-encompassing that it absolutely swept away any spiritual doubts and effectively destroyed every conflicting desire. Nothing was able to tear him away from the spiritual anchorage of this fervent, sublime, and undaunted faith. Even in the face of apparent defeat or in the throes of disappointment and threatening despair, he calmly stood in the divine presence free from fear and fully conscious of spiritual invincibility. Jesus enjoyed the invigorating assurance of the possession of unflinching faith, and in each of life's trying situations he unfailingly exhibited an unquestioning loyalty to the Father's will. And this superb faith was undaunted even by the cruel and crushing threat of an ignominious death. (2087)
 
@@ -301,14 +301,14 @@ Jesus brought to God, as a man of the realm, the greatest of all offerings: the 
 
 Is it possible for mere man to have such faith? Or such consciousness of the presence of God? And such dedication to the doing of God's will?
 
-The answer is given in the revelation itself. In a discussion with Immanuel, Jesus' task is described as "to exhibit in his life in the flesh those transcendent possibilities attainable by a God-knowing human." (1328)
+The answer is given in the revelation itself. In a discussion with Immanuel, Jesus' task is described as “to exhibit in his life in the flesh those transcendent possibilities attainable by a God-knowing human.” (1328)
 
-What is meant by "transcendent possibilities?"
+What is meant by “transcendent possibilities?”
 We are told that all such possibilities are taught to us directly by our own personal indwelling Spirit of the Father.
 
 All men recognize the morality of this universal human urge to be unselfish and altruistic. The humanist ascribes the origin of this urge to the natural working of the material mind; the religionist more correctly recognizes that the truly unselfish drive of mortal mind is in response to the inner spirit leadings of the indwelling God-Spirit. (1134)
 
-What derives from a spirit source is "of the spirit." Spiritual and transcendent possibilities then are spiritual meanings and values that derive from spirit sources.
+What derives from a spirit source is “of the spirit.” Spiritual and transcendent possibilities then are spiritual meanings and values that derive from spirit sources.
 
 Hence the philosophy of living we are asked to construct surely must derive from the exquisitely integrated meanings and values presented in the Urantia revelation or given to us personally from our indwelling Spirit source.
 
@@ -325,7 +325,7 @@ His unwritten message : Follow me--live as I lived.
 
 The keys of the kingdom of heaven are: sincerity, more sincerity, and more sincerity. All men have these keys. Men use them--advance in spirit status--by decisions, by more decisions, and by more decisions. The highest moral choice is the choice of the highest possible value, and always--in any sphere, in all of them--this is to choose to do the will of God. If man thus chooses, he is great, though he be the humblest citizen of Jerusem or even the least of mortals on Urantia. (435)
 
-This God-Spirit-Within did indeed triumph in Jesus' human mind--that mind which in each of life's recurring situations maintained a consecrated dedication to the Father's will, saying, "Not my will, but yours, be done." Such decisive consecration constitutes the true passport from the limitations of human nature to the finality of divine attainment. (1200)
+This God-Spirit-Within did indeed triumph in Jesus' human mind--that mind which in each of life's recurring situations maintained a consecrated dedication to the Father's will, saying, “Not my will, but yours, be done.” Such decisive consecration constitutes the true passport from the limitations of human nature to the finality of divine attainment. (1200)
 
 The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the will of God, therefore, is the progressive experience of becoming more and more like God, and God is the source and destiny of all that is good and beautiful and true. (1431)
 
@@ -334,7 +334,7 @@ The Master thereby chose a program of living which was the equivalent of decidin
 (1518)
 
 
-Jesus agreed that it was proper to want to see social, economic, and political orders improved, but he would always add: "That is not our business. We must be dedicated to the doing of the Father's will. Our business is to be ambassadors of a spiritual government on high, and we must not immediately concern ourselves with aught but the representation of the will and character of the divine Father who stands at the head of the government whose credentials we bear." (1565)
+Jesus agreed that it was proper to want to see social, economic, and political orders improved, but he would always add: “That is not our business. We must be dedicated to the doing of the Father's will. Our business is to be ambassadors of a spiritual government on high, and we must not immediately concern ourselves with aught but the representation of the will and character of the divine Father who stands at the head of the government whose credentials we bear.” (1565)
 
 The Master came to create in man a new spirit, a new will--to impart a new capacity for knowing the truth, experiencing compassion, and choosing goodness--the will to be in harmony with God's will, coupled with the eternal urge to become perfect, even as the Father in heaven is perfect. (1583)
 
@@ -356,9 +356,9 @@ Jesus had purposed to live without resort to his supernatural power, and he like
 
 The Master desired that his followers should have nothing material to associate with his life on earth. He wanted to leave mankind only the memory of a human life dedicated to the high spiritual ideal of being consecrated to doing the Father's will. (2008)
 
-The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the "will of the Father in heaven."  (2087)
+The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the “will of the Father in heaven.”  (2087)
 
-The faith of Jesus visualized all spirit values as being found in the kingdom of God; therefore he said, "Seek first the kingdom of heaven." Jesus saw in the advanced and ideal fellowship of the kingdom the achievement and fulfillment of the will of God. The very heart of the prayer which he taught his disciples was, "Your kingdom come; your will be done." Having thus conceived of the kingdom as comprising the will of God, he devoted himself to the cause of its realization with amazing self-forgetfulness and unbounded enthusiasm. (2088)
+The faith of Jesus visualized all spirit values as being found in the kingdom of God; therefore he said, “Seek first the kingdom of heaven.” Jesus saw in the advanced and ideal fellowship of the kingdom the achievement and fulfillment of the will of God. The very heart of the prayer which he taught his disciples was, “Your kingdom come; your will be done.” Having thus conceived of the kingdom as comprising the will of God, he devoted himself to the cause of its realization with amazing self-forgetfulness and unbounded enthusiasm. (2088)
 
 
 Let not the discussions of the humanity or the divinity of the Christ obscure the saving truth that Jesus of Nazareth was a religious man who, by faith, achieved the knowing and the doing of the will of God; he was the most truly religious man who has ever  lived on Urantia. (2090)

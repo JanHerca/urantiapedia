@@ -3,20 +3,26 @@
 in VS Code
 
 1. Replace hyphenation
-    Search (regex): -\n
-    Replace: (blank)
+    - Search (regex): `-\n`
+    - Replace: `(blank)`
 2. Replace paragraph separators
-    Search (regex): ^\n
-    Replace: %%\n\n
+    - Search (regex): `^\n`
+    - Replace: `%%\n\n`
 3. Replace end lines not preceded by %
-    Search (regex): (?<!%)\n
-    Replace: (one space)
+    - Search (regex): `(?<!%)\n`
+    - Replace: `(one space)`
 4. Replace %%
-    Search: %%
-    Replace: \n
+    - Search: `%%`
+    - Replace: `\n`
 5. Replace spaces at beginning
-    Search: ^[ ]+
-    Replace: (blank)
+    - Search: `^[ ]+`
+    - Replace: `(blank)`
+6. Replace english plain quotes with curly ones:
+    - Search (regex): `"([^"]*)"`
+    - Replace: “$1”
+7. Replace spanish plain quotes with angular ones:
+    - Search (regex): `"([^"]*)"`
+    - Replace: «$1»
 
 Other replacements: 
 í => ’
@@ -39,5 +45,8 @@ omissions in quotes:
 
 ## Tools
 
-https://pdf2md.morethan.io/
-https://www.onlineocr.net/
+* Test regular expressions: https://regex101.com/
+
+* Convert pdf to markdown: https://pdf2md.morethan.io/
+
+* Convert pdf, even scanned pdf, to MS Word: https://www.onlineocr.net/

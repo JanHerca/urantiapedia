@@ -12,9 +12,9 @@ Which is indicative that not even the spontaneous generation of the most primiti
 
 ********
 
-"That we are called Life Carriers should not confuse you. We can and do carry life to the planets, but we brought no life to Urantia. Urantia life is unique, original with the planet. This sphere is a life-modification world; all life appearing hereon was formulated by us right here on the planet…."
+“That we are called Life Carriers should not confuse you. We can and do carry life to the planets, but we brought no life to Urantia. Urantia life is unique, original with the planet. This sphere is a life-modification world; all life appearing hereon was formulated by us right here on the planet….”
 
-"550,000,000 years ago the Life Carrier corps returned to Urantia. In co-operation with spiritual powers and superphysical forces we organized and initiated the original life patterns of this world and planted them in the hospitable waters of the realm." (P.667)
+“550,000,000 years ago the Life Carrier corps returned to Urantia. In co-operation with spiritual powers and superphysical forces we organized and initiated the original life patterns of this world and planted them in the hospitable waters of the realm.” (P.667)
 
 The fact that what we call life has been upon this planet for billions of years is widely known. Hence the above declaration must come as a puzzle.
 
@@ -24,11 +24,11 @@ In later years the deposition of red sedimentary rocks in which the color is due
 
 The only known process to bring about such high levels of atmospheric oxygen is photosynthesis by living organisms. Many, possibly all, of these deposits date from times prior to 550 million years ago, and present evidence for the occurrence of life forms that pre-date the introduction of life plasm by the Life Carriers. Further evidence comes from the occurrence of several kinds of microfossils thought to be evidence for bacterial or algal cells.
 
-The Urantia Papers state, "Life does not originate spontaneously but is constructed...it appears on the inhabited worlds either by direct importation or as a result of the operation of the Life Carriers." (P.396)
+The Urantia Papers state, “Life does not originate spontaneously but is constructed...it appears on the inhabited worlds either by direct importation or as a result of the operation of the Life Carriers.” (P.396)
 
 That statement rules out the possibility that some primitive life forms, originating from other inhabited planets, are able to survive in outer space, and, after floating around among the galaxies, they seed new planets when conditions become favorable.
 
-There is no universally accepted definition of what constitutes life. However the vast majority of us do accept that animals and plants are life forms, a large majority also includes bacteria and fungi as life forms, while almost all think of viruses and disease-causing entities like prions as non-living. If we accept majority opinion, then "life" appears to have been present on our planet for something close to four billion years.
+There is no universally accepted definition of what constitutes life. However the vast majority of us do accept that animals and plants are life forms, a large majority also includes bacteria and fungi as life forms, while almost all think of viruses and disease-causing entities like prions as non-living. If we accept majority opinion, then “life” appears to have been present on our planet for something close to four billion years.
 
 Image here
 
@@ -46,7 +46,7 @@ This oxygen level appears to have been reached more than two billion years ago. 
 
 The earliest evidence for the existence of the eukaryotes comes from 2.7 billion year old shales in West Australia in which hydrocarbon molecules called steranes have been found. These are produced exclusively by eukaryotic organisms.
 
-The first fossils that unequivocally indicate the existence of more highly developed species are the crawling trails of sea-bottom-dwelling worm-like creatures, and are found among the Ediacaran fossils that occur as early as about one billion years ago--but disappear as the Cambrian explosion of life forms gained ground around 550 million years ago. Also found among the Ediacaran fossils are "dwelling tubes" composed mainly of calcium carbonate (lime) that were most probably secreted by sessile, filter feeding worm-like creatures.
+The first fossils that unequivocally indicate the existence of more highly developed species are the crawling trails of sea-bottom-dwelling worm-like creatures, and are found among the Ediacaran fossils that occur as early as about one billion years ago--but disappear as the Cambrian explosion of life forms gained ground around 550 million years ago. Also found among the Ediacaran fossils are “dwelling tubes” composed mainly of calcium carbonate (lime) that were most probably secreted by sessile, filter feeding worm-like creatures.
 
 The name Ediacaran comes from the discovery of the fossils of a group of strange, until then unknown, creatures in the Ediacaran mountain range in South Australia. The first discoveries came from rocks about 575 million years old and were of jelly-fish like creatures. Such fossil animals had never been found in rocks older than 550 million years--the beginning of the Cambrian period. Since that first discovery, other fossils classified with this group have been discovered on every continent except Antarctica and are dated as early as almost one billion years ago.
 
@@ -58,15 +58,15 @@ Initially these Ediacarans were pronounced to be an entirely separate group of o
 
 How then do we account for The Urantia Book's claim that the Life Carriers first brought life to this planet only 550 million years ago?
 
-One possibility is that this was part of the revelators' cosmology stated to be "not inspired" that may consist of a "universe frame" by which to aid our understanding of our place in the universe scheme of things. (1260)
+One possibility is that this was part of the revelators' cosmology stated to be “not inspired” that may consist of a “universe frame” by which to aid our understanding of our place in the universe scheme of things. (1260)
 
-Alternatively, it may be covered by the following statements: "The original life plasm of an evolutionary world must contain the full potential for all future developmental variations and for all subsequent evolutionary changes and modifications." (398)
+Alternatively, it may be covered by the following statements: “The original life plasm of an evolutionary world must contain the full potential for all future developmental variations and for all subsequent evolutionary changes and modifications.” (398)
 
-"The material self, the ego-entity of human identity, is dependent during the physical life on the continuing function of the material life vehicle, on the continued existence of the unbalanced equilibrium of energies and intellect which, on Urantia, has been given the name life." (1229)
+“The material self, the ego-entity of human identity, is dependent during the physical life on the continuing function of the material life vehicle, on the continued existence of the unbalanced equilibrium of energies and intellect which, on Urantia, has been given the name life.” (1229)
 
-It is quite possible that the genetic potential of cell forms prior to the beginning of the Cambrian period was quite incapable of eventually generating "intelligent" living organisms. And that only an organism having a genome with the potential of ultimately evolving to have "intellect" comes within the definition of what the Life Carriers understand as "life."
+It is quite possible that the genetic potential of cell forms prior to the beginning of the Cambrian period was quite incapable of eventually generating “intelligent” living organisms. And that only an organism having a genome with the potential of ultimately evolving to have “intellect” comes within the definition of what the Life Carriers understand as “life.”
 
-If so, the probable function of the Life Carriers would have been to re-arrange existing genetic material so that, at some distant date, life having "intellect" would have a high probability of evolving. If this is true then the likelihood is that these Ediacaran organisms were the main source of the genetic material used to accomplish this task.
+If so, the probable function of the Life Carriers would have been to re-arrange existing genetic material so that, at some distant date, life having “intellect” would have a high probability of evolving. If this is true then the likelihood is that these Ediacaran organisms were the main source of the genetic material used to accomplish this task.
 
 Image here
 
@@ -75,19 +75,19 @@ Image here
 
 Summary
 
-The Urantia Papers have it that about one million years ago, twins named Andon and Fonta, became the founders of the human race. It appears highly likely that this is a "frame in which to think" type of story for there is no fossil evidence to indicate that modern man emerged earlier than about 200,000 years ago.
+The Urantia Papers have it that about one million years ago, twins named Andon and Fonta, became the founders of the human race. It appears highly likely that this is a “frame in which to think” type of story for there is no fossil evidence to indicate that modern man emerged earlier than about 200,000 years ago.
 
 
 ********
 Conventional wisdom on the origin of the human species is that, 4 million years ago in Africa, a little creature just over a meter tall emerged from the evolutionary melting pot, and stood up.
 
-The first such creature to be discovered received the name "Lucy"--later changed to Australopithecus afarensis. Lucy had knee joints that allowed her to straighten her legs. Also she made footprints that confirmed that she stood up. Dating of fossils beyond 200,000yrs old is not easy. It is generally done indirectly by dating the ground where they are found--for Lucy at about 4 million years B.P. (before the present). (Note: radio-active dating has since been revolutionized by the discovery of zircon technology)
+The first such creature to be discovered received the name “Lucy”--later changed to Australopithecus afarensis. Lucy had knee joints that allowed her to straighten her legs. Also she made footprints that confirmed that she stood up. Dating of fossils beyond 200,000yrs old is not easy. It is generally done indirectly by dating the ground where they are found--for Lucy at about 4 million years B.P. (before the present). (Note: radio-active dating has since been revolutionized by the discovery of zircon technology)
 
 Lucy had a skull more ape-like than human and was probably no smarter than the average ape. Fossil remains of two other primate-like species found in Africa, Paranthropus boisei and Paranthropus robustus are thought to have been evolutionary dead ends.  Supposedly Lucy and her buddies gave rise to the next step, named Homo habilis (handy man). H. habilis was a tool maker, may have appeared about 2.5 million years B.P., looked something like Lucy, but had a larger brain. He/she was about 1.5 meters tall, under 45 kg, probably a scavenger, and supposedly gave rise to the next evolutionary jump called Homo erectus. This guy was more advanced so is measured in feet and inches--5ft 6in. to be precise. He was almost indistinguishable from modern man except for a flattened forehead, prominent brow ridges and no chin. Conventional wisdom has him originating in Africa around 2 million B.P. He was supposed to have taken a long time to get out of Africa and to migrate to Java (1 million B.P) and Peking. When Java man was re-dated to 2 million B.P. in 1970, the work was at first ignored. New dating puts two Java fossils at 1.8 and 1.7 million B.P., is probably reliable, but was unwelcome as it did not fit conventional wisdom.
 
 How does this tie in to Andon and Fonta (about 1,000,000 B.P.) or Adam and Eve (37,898 B.P.)?
 
-Many (most?) readers think that the Urantia Book claims that Andon and Fonta were the sole ancestral parents of all of us. In fact, it does not. It says: "Even the loss of Andon and Fonta before they had offspring, though delaying human evolution, would not have prevented it. Subsequent to the appearance of Andon and Fonta, and before the mutating potentials of animal life were exhausted, there evolved no less than seven thousand favorable strains which could have achieved some sort of human type of development. And many of these better stocks were subsequently assimilated by the various branches of the expanding human species." (734).
+Many (most?) readers think that the Urantia Book claims that Andon and Fonta were the sole ancestral parents of all of us. In fact, it does not. It says: “Even the loss of Andon and Fonta before they had offspring, though delaying human evolution, would not have prevented it. Subsequent to the appearance of Andon and Fonta, and before the mutating potentials of animal life were exhausted, there evolved no less than seven thousand favorable strains which could have achieved some sort of human type of development. And many of these better stocks were subsequently assimilated by the various branches of the expanding human species.” (734).
 
 
 So how and where did mankind arise?
@@ -133,27 +133,27 @@ If the number sequence is based upon 12 and the series starting with twelve incl
 
 "On Urantia there were twenty-four such custodian commissioners, two for each fundamental or parent pattern of the architectural organization of the life material. On planets such as yours the highest form of life is reproduced by a life-carrying bundle which possesses twenty-four pattern units. (398)
 
-"These life circuits caused the chromosomes of the specialized Urantia pattern to re-organize..." (857)
+“These life circuits caused the chromosomes of the specialized Urantia pattern to re-organize...” (857)
 
 There are several ways by which these statements from the book may be misinterpreted. That there are 48 units of pattern control in the sex cells could mean that each of the two types of sex cell (egg and sperm) has 48 units, or it could mean that together the two types have 48 units. The statement that the highest form of life on Urantia is reproduced by a life-carrying bundle possessing 24 pattern units favors the interpretation that the 48 units are distributed as 24 units in each of the two types of sex cell. But perhaps we humans are not that form of life! A further possibility is that the 48 units could be taken to mean 48 chromosomes.
 
-The mention of chromosomes on p. 857 shows that the revelators were familiar with the term and may indicate that trait determiners or units of pattern control are not necessarily synonymous with chromosomes. We should also note that equating "trait determiners," "units of pattern control," and "inheritance carriers"  with one another may not be a valid assumption.
+The mention of chromosomes on p. 857 shows that the revelators were familiar with the term and may indicate that trait determiners or units of pattern control are not necessarily synonymous with chromosomes. We should also note that equating “trait determiners,” “units of pattern control,” and “inheritance carriers”  with one another may not be a valid assumption.
 
 It was not until 1954  that it was realized that the human chromosome number, until then thought to be 48, was in actuality 46. It is 48 in our cousins, the monkeys and the apes, but due to the fusion of two of our chromosomes, we now only have 46. Some readers have been concerned that the revelators made an error.
 
 It is now known that only about 5% of the DNA in our chromosomes actually codes for the one to two hundred thousand genes that make us a functional being. Our DNA is comprised of about three thousand million DNA letters and the average gene uses the information coded in only a few thousand bases.
 
-We can get an idea of what might be reality by making some approximations. Let's assume that the 12 fundamental "inheritance carriers" are not chromosomes but units of pattern control critical for morphogenetic development. Let's also assume that each unit consists, on average, of twenty genes bundled together as an entity.
+We can get an idea of what might be reality by making some approximations. Let's assume that the 12 fundamental “inheritance carriers” are not chromosomes but units of pattern control critical for morphogenetic development. Let's also assume that each unit consists, on average, of twenty genes bundled together as an entity.
 
 Together then, the 12 units of pattern control account for 12 x 20 = 240 genes. Hence the Urantia mortal's 48 units of pattern control would require 960 genes--a little less than 0.5 to 1 percent of our gene complement of 1 to 2 hundred thousand genes. The extreme value of 768 units of pattern control would then require about  7.5 to 15 percent of the gene complement.
 
 Why would any creature require 64 replications of the basic 12 units of pattern control? One reason might be that there is a marked increase in the rate of copying mistakes under the extreme conditions experienced on some planets and a large number of copies of the control units is required to ensure survival of the individual (note: there is some evidence that polyploid plants have a degree of hardiness not present in their diploid ancestry).
 
-Perhaps also we are missing something that has deep significance in the apparent coincidence of "seven architectural types of life design" and the seven doublings in the sequence 12, 24, 48, 96, 192, 384, 768?
+Perhaps also we are missing something that has deep significance in the apparent coincidence of “seven architectural types of life design” and the seven doublings in the sequence 12, 24, 48, 96, 192, 384, 768?
 
-There appears to be no essential reason to equate a unit of pattern control with a chromosome and certainly no good reason to distribute the units on the basis of one per chromosome. The only requirement appears to be that these units behave as pairs in much the same manner as do pairs of genes during cell division. Hence the confusion caused by equating the 48 units of pattern control with the erroneous chromosome number of 48 may be a simple case of "jumping to conclusions."
+There appears to be no essential reason to equate a unit of pattern control with a chromosome and certainly no good reason to distribute the units on the basis of one per chromosome. The only requirement appears to be that these units behave as pairs in much the same manner as do pairs of genes during cell division. Hence the confusion caused by equating the 48 units of pattern control with the erroneous chromosome number of 48 may be a simple case of “jumping to conclusions.”
 
-Reference: Jones, S. "The Language of the Genes." (Flamingo Press, London, 1993)
+Reference: Jones, S. “The Language of the Genes.” (Flamingo Press, London, 1993)
 
 Image here
 
@@ -161,14 +161,14 @@ Image here
 
 Summary
 
-The key to whether The Urantia Book statement (below) on production of new elements of atomic number greater than 100 is the word "naturally." New elements are formed "naturally" under conditions of high temperature and pressure. Laboratory conditions may be quite different. To date mendelevium 258 is the only artificially produced element having a reasonable degree of stability--half-life 54 days. But if you were hoping to build a dwelling place out of mendelevium, within two years, almost all your new home would have decayed to something else. All other "artificials" have miniscule life times.
+The key to whether The Urantia Book statement (below) on production of new elements of atomic number greater than 100 is the word “naturally.” New elements are formed “naturally” under conditions of high temperature and pressure. Laboratory conditions may be quite different. To date mendelevium 258 is the only artificially produced element having a reasonable degree of stability--half-life 54 days. But if you were hoping to build a dwelling place out of mendelevium, within two years, almost all your new home would have decayed to something else. All other “artificials” have miniscule life times.
 
 However most new, knowledgeable readers will know about the production of new elements but will have little information on stability. So will probably consider the Urantia Book comment to be wrong.
 
 ********
 "In Orvonton it has never been possible naturally to assemble over one hundred orbital electrons in one atomic system. When one hundred and one have been artificially introduced into the orbital field, the result has always been the instantaneous disruption....(478)
 
-The text above is from the first printing, someone having taken the liberty of adding the words "well-nigh" before "instantaneous" in subsequent printings. The important word to keep in mind is "naturally."
+The text above is from the first printing, someone having taken the liberty of adding the words “well-nigh” before “instantaneous” in subsequent printings. The important word to keep in mind is “naturally.”
 
 It had been known since the 1930's that new elements should be produced by neutron bombardment of an element which would be followed by a beta decay process in which an atomic nucleus with a captured neutron loses an electron. In doing so, one of the nuclear neutrons becomes a proton. Such an element moves to be the next element upwards in the periodic table.
 
@@ -176,20 +176,20 @@ In the 1940's Bohr made a prediction (that turned out to be true) that the beta 
 
 Elements as high as 112 have been produced by other means and all are highly unstable. Element 101, (mendelevium-256) was produced in 1955 by helium ion bombardment of einsteinium-253. Element 102 (nobelium) was produced by bombarding element 96 (curium) with carbon atoms.
 
-It is doubtful whether this type of reaction occurs "naturally" even in supernova explosions. That it can be done in the laboratory is a tribute to the ingenuity of the people involved. In a recent publication, it was stated that new elements with half lives less than 10 microseconds can be identified even if, out of 10 billion trials, only two nuclei fuse together once to form a superheavy new element. The single atom so produced will be both detected and identified!1
+It is doubtful whether this type of reaction occurs “naturally” even in supernova explosions. That it can be done in the laboratory is a tribute to the ingenuity of the people involved. In a recent publication, it was stated that new elements with half lives less than 10 microseconds can be identified even if, out of 10 billion trials, only two nuclei fuse together once to form a superheavy new element. The single atom so produced will be both detected and identified!1
 
 The possibility for these superheavy elements occurring naturally in novae explosions may be remote. And even if they were produced, the product would usually decay in an instant.
 
-The Urantia papers use that word "instant" and its derivatives in many different contexts. For example, they say that human beings, "from a cosmic perspective, are born, live, and die in a relative instant of time." In terms of a cosmic perspective, elements above 100, and quite a few below, can exist for only a relative instant of time and many scarcely or not at all.
+The Urantia papers use that word “instant” and its derivatives in many different contexts. For example, they say that human beings, “from a cosmic perspective, are born, live, and die in a relative instant of time.” In terms of a cosmic perspective, elements above 100, and quite a few below, can exist for only a relative instant of time and many scarcely or not at all.
 
-The important point about the 100 elements comment is that, when made, it was "prophetic." The Fermi theory about neutron capture and beta decay had been established in 1937 with the production of technetium from molybdenum. However its cessation at element 100 was not empirically established until the mid-1950's. Hence there was only very meager evidence to use the concept in the Papers.
+The important point about the 100 elements comment is that, when made, it was “prophetic.” The Fermi theory about neutron capture and beta decay had been established in 1937 with the production of technetium from molybdenum. However its cessation at element 100 was not empirically established until the mid-1950's. Hence there was only very meager evidence to use the concept in the Papers.
 
 So although, technically speaking, the authors' statement can be defended as correct, a major section of new readers will probably see it as erroneous.
 
 
 Reference
 
-1. Armbruster, P., and F.P. Hessberger, "Making New Elements." Scientific American 279 (3) 50. (1998)
+1. Armbruster, P., and F.P. Hessberger, “Making New Elements.” Scientific American 279 (3) 50. (1998)
 
 # How far to Andromeda
 Dick Bain, USA
@@ -209,9 +209,9 @@ In 1924, the well known astronomer Edwin Hubble presented a paper to the America
 
 Discussing M31 (Andromeda) the authors of The Urantia Book inform us:
 
-"This far-distant nebula is visible to the naked eye, and when you view it, pause to consider that the light you behold left those distant suns almost one million years ago." (P.170)
+“This far-distant nebula is visible to the naked eye, and when you view it, pause to consider that the light you behold left those distant suns almost one million years ago.” (P.170)
 
-It is interesting that the authors extol the use of the Cepheid variable stars by astronomers to make this measurement: "In one group of variable stars the period of light fluctuation is directly dependent on luminosity, and knowledge of this fact enables astronomers to utilize such suns as universe lighthouses or accurate measuring points for the further exploration of distant star clusters. By this technique it is possible to measure stellar distances most precisely up to more than one million light-years."  (P. 456)
+It is interesting that the authors extol the use of the Cepheid variable stars by astronomers to make this measurement: “In one group of variable stars the period of light fluctuation is directly dependent on luminosity, and knowledge of this fact enables astronomers to utilize such suns as universe lighthouses or accurate measuring points for the further exploration of distant star clusters. By this technique it is possible to measure stellar distances most precisely up to more than one million light-years.”  (P. 456)
 
 When astronomers first started using the Cepheid variables as standard candles, two million light years was about the limit of distances they could measure using this technique due to atmospheric distortion. Now, with improved terrestrial telescopes and the now repaired space-based Hubble telescope, that range has been pushed out to 60 million light years or more. Recently, this improvement in seeing has enabled astronomers to measure the distance to a galaxy in the Virgo cluster. The distance actually measured using Cepheid variable stars in the M100 galaxy was 56 million light years. Being able to measure galaxies at this distance also allows  astronomers to determine a value for Hubble's constant, which is important in determining the age of the universe.
 
@@ -228,18 +228,18 @@ For the universe's most favored scenario today the picture has emerged of a flat
 
 
 References
-R. Cowen, "Keck goes the distance." Science News, January 14, 1995.
+R. Cowen, “Keck goes the distance.” Science News, January 14, 1995.
 Freedman, Wendy L. and M. S. Turner, Sky and Telescope, Vol. 106, No. 4, 2004.
 
 Image here
 
-#   "Prove it to yourself for yourself"
+#   “Prove it to yourself for yourself”
 
 Summary
 
 Herein lies a set of errors for which individuals need only simple high school mathematics to check the error content for themselves. And the level of intellect displayed by the authors throughout their book is such that this error content has to be deliberate, thereby demanding we think about why.
 
-"When a religion becomes fundamentalist, it inevitably becomes counter-productive, counter-intuitive, and an impediment to the social and spiritual progress of its adherents."
+“When a religion becomes fundamentalist, it inevitably becomes counter-productive, counter-intuitive, and an impediment to the social and spiritual progress of its adherents.”
 
 This summation has certainly proven itself true for Jewish, Islamic, and Christian fundamentalism--all of which have committed heinous acts of barbarism in the name of their supposed God.
 
@@ -255,13 +255,13 @@ The revelators of the Urantia Papers would have been well aware of the potential
 
 "We full well know that, while the historic facts and religious truths of this series of revelatory presentations will stand on the records of the ages to come, within a few short years many of our statements regarding the physical sciences will stand in need of revision in consequence of additional scientific developments and new discoveries. These new developments we even now foresee, but we are forbidden to include such humanly undiscovered facts in the revelatory records. Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired. (P.1109)
 
-"Partial, incomplete, and evolving intellects would be helpless in the master universe, would be unable to form the first rational thought pattern, were it not for the innate ability of all mind, high or low, to form a universe frame in which to think. If mind cannot fathom conclusions, if it cannot penetrate to true origins, then will such mind unfailingly postulate conclusions and invent origins that it may have a means of logical thought within the frame of these mind-created postulates. And while such universe frames for creature thought are indispensable to rational intellectual operations, they are, without exception, erroneous to a greater or lesser degree." (P.1260)
+“Partial, incomplete, and evolving intellects would be helpless in the master universe, would be unable to form the first rational thought pattern, were it not for the innate ability of all mind, high or low, to form a universe frame in which to think. If mind cannot fathom conclusions, if it cannot penetrate to true origins, then will such mind unfailingly postulate conclusions and invent origins that it may have a means of logical thought within the frame of these mind-created postulates. And while such universe frames for creature thought are indispensable to rational intellectual operations, they are, without exception, erroneous to a greater or lesser degree.” (P.1260)
 
 There is, of course, much more. However, a mind that is able to twist these statements to suit the individual's belief system, will also twist anything else that could be added.
 
 One favored ploy is to cite occasions when science has been wrong in order to justify dismissing all the assertions of science. The fear of dedicated fundamentalists is that the discovery of even a single error in the Urantia Papers would throw doubt upon their authority, hence the need to find ways to cover up, ignore, overlook, or explain away apparent error.
 
-Contrary to this attitude, the open-minded student of the revelation will not only accept what is stated in the above quotations but, with the passage of time, will henceforth expect to find an increasing error content in cosmological material, and also to discover similar error accumulating in what has been provided as a "universe frame in which to think."
+Contrary to this attitude, the open-minded student of the revelation will not only accept what is stated in the above quotations but, with the passage of time, will henceforth expect to find an increasing error content in cosmological material, and also to discover similar error accumulating in what has been provided as a “universe frame in which to think.”
 
 For those who are troubled by occurrences in which science and The Urantia Book express contrary views, but who do not have that special expertise to enable them to make a rational judgment among the alternatives, the revelators have included sections in the Papers for which it is possible for virtually every reader to make their own decision on the veracity of the information supplied. And surely when the Papers are wrong, this error is nevertheless in accord with universe rules and purposes for revelation as outlined on pp. 1109 and 1260 of the Urantia Papers.
 
@@ -269,9 +269,9 @@ Ultimately however, these errors must operate to prevent the revelation being pr
 
 One section of the Papers that requires only a minimal knowledge of arithmetic in order to be able to check its veracity concerns the revelators' description of the concurrent development of our planet and its moon by an accretion process:
 
-"2,500,000,000 years ago the planets had grown immensely in size. Urantia was a well-developed sphere about one tenth its present mass and was still growing rapidly by meteoric accretion." (P. 658)
+“2,500,000,000 years ago the planets had grown immensely in size. Urantia was a well-developed sphere about one tenth its present mass and was still growing rapidly by meteoric accretion.” (P. 658)
 
-"2,000,000,000 years ago the earth began decidedly to gain on the moon. Always had the planet been larger than its satellite, but there was not so much difference in size until about this time, when enormous space bodies were captured by the earth. Urantia was then about one fifth its present size…." (P. 659)
+“2,000,000,000 years ago the earth began decidedly to gain on the moon. Always had the planet been larger than its satellite, but there was not so much difference in size until about this time, when enormous space bodies were captured by the earth. Urantia was then about one fifth its present size….” (P. 659)
 
 "1,500,000,000 years ago the earth was two thirds its present size, while the moon was nearing its present mass. (P. 659)
 
@@ -298,7 +298,7 @@ The factuality of our present analysis is readily confirmable by almost anyone p
 
 An important question we must ask is why the revelators appear to have been at such pains to ensure that, over time, it would progressively become more and more impossible for the Urantia Papers as a whole, to be imposed upon intelligent people as the authoritative word of God.
 
-One reason may be because of the sovereignty of our free will: "Having thus provided for the growth of the immortal soul and having liberated man's inner self from the fetters of absolute dependence on antecedent causation, the Father stands aside…No other being, force, creator, or agency in all the wide universe of universes can interfere to any degree with the absolute sovereignty of the mortal free will, as it operates within the realms of choice, regarding the eternal destiny of the personality of the choosing mortal. As pertains to eternal survival, God has decreed the sovereignty of the material and mortal will, and that decree is absolute." (P. 71)
+One reason may be because of the sovereignty of our free will: “Having thus provided for the growth of the immortal soul and having liberated man's inner self from the fetters of absolute dependence on antecedent causation, the Father stands aside…No other being, force, creator, or agency in all the wide universe of universes can interfere to any degree with the absolute sovereignty of the mortal free will, as it operates within the realms of choice, regarding the eternal destiny of the personality of the choosing mortal. As pertains to eternal survival, God has decreed the sovereignty of the material and mortal will, and that decree is absolute.” (P. 71)
 
 Imagine this: We live under a despotic king who has informed us that provided we accept doing his will absolutely in every detail, we will be rewarded with a knighthood and a castle--but if we reject his offer, we face certain death. Do we really have a free will choice??
 
@@ -322,39 +322,39 @@ Summary
 Just in case the earth-moon story was not enough to test our gullibility, the Book's authors have progressed from the absurd to the absolutely ridiculous in introducing us to passenger birds and secondary midwayers.
 
 ********
-Let's first consider the "passenger birds." The Papers have these incredible creatures being employed like taxis to ferry Adam and Eve to meeting places in the garden. If this was not remarkable enough we are told: "These enormous birds are able to carry one or two average-sized men for a nonstop flight of over five hundred miles…These birds are most intelligent, very obedient, and unbelievably affectionate." And they were "often able to speak many words of the languages of the realm." (P. 590)
+Let's first consider the “passenger birds.” The Papers have these incredible creatures being employed like taxis to ferry Adam and Eve to meeting places in the garden. If this was not remarkable enough we are told: “These enormous birds are able to carry one or two average-sized men for a nonstop flight of over five hundred miles…These birds are most intelligent, very obedient, and unbelievably affectionate.” And they were “often able to speak many words of the languages of the realm.” (P. 590)
 
 Can you imagine that? Intelligent birds, able to speak the language of the realm, take-off and land with a 2-man payload and, as well, fly 500 miles non-stop with that same payload? They must be joking.
 
-A second example of deliberately stretching human gullibility beyond all reasonable limits is the origin of those invisible creatures known as the secondary midwayers. Their grandparents are given as Adamson and Ratta, both labeled as belonging to a type of superhuman being who looked and acted "normal" and were able to interbreed with ordinary humans--hence were matched with us genetically and would qualify as the same species as ourselves.
+A second example of deliberately stretching human gullibility beyond all reasonable limits is the origin of those invisible creatures known as the secondary midwayers. Their grandparents are given as Adamson and Ratta, both labeled as belonging to a type of superhuman being who looked and acted “normal” and were able to interbreed with ordinary humans--hence were matched with us genetically and would qualify as the same species as ourselves.
 
 However the Papers have this remarkable pair marry one another, then have sixty seven children. All seemed to be normal except that one out of very four was born invisible! Adamson, apparently being of scientific bent and noting that there were eight males and eight females among the sixteen invisible offspring, paired them off and embarked on a breeding program to see what would happen.
 
-The results must have amazed him. The pairs were able to reproduce themselves every seventy days, their offspring not only being invisible but were born fully developed and fully mature--"though they never ceased to grow in wisdom and experience."
+The results must have amazed him. The pairs were able to reproduce themselves every seventy days, their offspring not only being invisible but were born fully developed and fully mature--“though they never ceased to grow in wisdom and experience.”
 
-These unusual offspring were called the secondary midwayers. Though incapable of procreation, they have no need for sleep nor for earthly material food, being energized from "space emanations" that are a mystery to us humans. And they are immortal! (PP. 862,865)
+These unusual offspring were called the secondary midwayers. Though incapable of procreation, they have no need for sleep nor for earthly material food, being energized from “space emanations” that are a mystery to us humans. And they are immortal! (PP. 862,865)
 
 If Urantia Book readers read such material in the Bible or the Koran they would likely collapse in raucous laughter. So surely these two examples must force us to consider whether the revelators have repeatedly challenged our intellects, virtually begging us to refrain from converting their precious revelation into an infallible icon.
 
 Miscellaneous erroneous material summarized
 
-The best known 'errors' in the Papers are the distance to the Andromeda galaxy, the "instantaneous disruption" of elements higher than the one-hundredth, the planet Mercury always turning the same face to the sun, and the human chromosome number. All of them were simply direct quotations of the then current knowledge.
+The best known 'errors' in the Papers are the distance to the Andromeda galaxy, the “instantaneous disruption” of elements higher than the one-hundredth, the planet Mercury always turning the same face to the sun, and the human chromosome number. All of them were simply direct quotations of the then current knowledge.
 
-Page 658. "2,500,000,000 years ago the planets had grown immensely in size. Urantia was a well-developed sphere about one tenth its present mass and was still growing rapidly by meteoric accretion."
+Page 658. “2,500,000,000 years ago the planets had grown immensely in size. Urantia was a well-developed sphere about one tenth its present mass and was still growing rapidly by meteoric accretion.”
 
 Comment: The fact that evidence is available for the occurrence of sedimentary rocks and oceans dating back to from 3.8 to 4.4 billion years ago and for life forms existing close to 4 billion years ago is impossible to reconcile with this statement. And there is much convincing evidence indicating the Earth and its moon were close to their full size by about 4.4 billion years ago.3,4
 
-Page 659. "1,500,000,000 years ago the earth was two thirds its present size…Volcanic action is now at its height. The whole earth is a veritable fiery inferno, the surface resembling its earlier molten state before the heavier metals gravitated toward the center. This is the volcanic age…The primitive planetary atmosphere is slowly evolving, now containing some water vapor, carbon monoxide, carbon dioxide, and hydrogen chloride, but there is little or no free nitrogen or free oxygen. Presently, the atmosphere became more settled and cooled sufficiently to start precipitation of rain on the hot rocky surface of the planet. For thousands of years Urantia was enveloped in one vast and continuous blanket of steam. And during these ages the sun never shone upon the earth's surface."
+Page 659. “1,500,000,000 years ago the earth was two thirds its present size…Volcanic action is now at its height. The whole earth is a veritable fiery inferno, the surface resembling its earlier molten state before the heavier metals gravitated toward the center. This is the volcanic age…The primitive planetary atmosphere is slowly evolving, now containing some water vapor, carbon monoxide, carbon dioxide, and hydrogen chloride, but there is little or no free nitrogen or free oxygen. Presently, the atmosphere became more settled and cooled sufficiently to start precipitation of rain on the hot rocky surface of the planet. For thousands of years Urantia was enveloped in one vast and continuous blanket of steam. And during these ages the sun never shone upon the earth's surface.”
 
 Comment: There is no geological evidence to support such a scenario. Photosynthetic bacteria have been present in the oceans of the world since between 3.5 and 4 billion years ago, a fact demonstrated by the ratio of carbon isotopes in fossil remains that is unique to photosynthesis by living organisms. Additionally, studies of crater formation on the moon demonstrate that bombardment by large planetesimals virtually ceased by 3.8 billion years ago and that crater formation fell to the current level at about that time. An Earth, two thirds its present size just 1.5 billion years ago is not a possibility.
 
 Oxygen is the waste product of photosynthesis, itself a biological process. 3.8 billion years ago these bacteria had oxygenated the waters sufficiently to convert the soluble ferrous iron salts to the insoluble oxidized ferric form. Deposits from this process are present as sedimentary strata at Isua in Greenland and elsewhere. Barite/gypsum deposits, aged 3.5 billion years are found at places like Pilbarra in Western Australia, and are the result of oxidation of sulfides to sulfates. This oxidation process continued until 1.7 billion years ago when the oceans were cleared of the excess reduced salts.
 
-A period of "thousands of years" during which the "sun never shone on the earth's surface" would have wiped out all photosynthetic organisms. Thus the incredibly complicated oxygen producing process of photosynthesis would have needed to evolve all over again. But the evidence is for a sharp rise in atmospheric oxygen commencing in this period, rising towards 10% of current levels by its end, 1.0 billion years ago.3,4
+A period of “thousands of years” during which the “sun never shone on the earth's surface” would have wiped out all photosynthetic organisms. Thus the incredibly complicated oxygen producing process of photosynthesis would have needed to evolve all over again. But the evidence is for a sharp rise in atmospheric oxygen commencing in this period, rising towards 10% of current levels by its end, 1.0 billion years ago.3,4
 
-Page-660. 1,000,000,000 years ago. "The planet had attained approximately its present size…. The real geologic history of Urantia begins with the cooling of the earth's crust sufficiently to cause the formation of the first ocean. Water-vapor condensation on the cooling surface of the earth, once begun, continued until it was virtually complete. By the end of this period the ocean was world-wide, covering the entire planet to an average depth of over one mile. The tides were then in play much as they are now observed, but this primitive ocean was not salty; it was practically a fresh-water covering for the world. In those days, most of the chlorine was combined with various metals, but there was enough, in union with hydrogen, to render this water faintly acid."
+Page-660. 1,000,000,000 years ago. “The planet had attained approximately its present size…. The real geologic history of Urantia begins with the cooling of the earth's crust sufficiently to cause the formation of the first ocean. Water-vapor condensation on the cooling surface of the earth, once begun, continued until it was virtually complete. By the end of this period the ocean was world-wide, covering the entire planet to an average depth of over one mile. The tides were then in play much as they are now observed, but this primitive ocean was not salty; it was practically a fresh-water covering for the world. In those days, most of the chlorine was combined with various metals, but there was enough, in union with hydrogen, to render this water faintly acid.”
 
-Comment: The Urantia Paper describes a period of 500,000,000 years prior to this billion year period during which "the surface of the planet was bombarded by meteorites so that it increased its mass by one third, for much of the time was a fiery inferno due to volcanic activity, and for thousands of years was enveloped in steam." And ocean formation commenced only after this period.
+Comment: The Urantia Paper describes a period of 500,000,000 years prior to this billion year period during which “the surface of the planet was bombarded by meteorites so that it increased its mass by one third, for much of the time was a fiery inferno due to volcanic activity, and for thousands of years was enveloped in steam.” And ocean formation commenced only after this period.
 
 Image here
 
@@ -368,7 +368,7 @@ Page-663. 750,000,000 years ago the first breaks in the continental land mass be
 
 Comment: We finally arrive at what is a truly prophetic statement for the period in which it was made. This breakup of a single land mass is the commencement of continental drift, now a virtually unopposed theory. But up until towards the end of the 1950 period it was vigorously opposed by the vast majority of professional geologists. The concept was put forward around 1910 by Alfred Wegener and drew almost hysterical opposition from many prominent geologists.1
 
-Page-668. "500,000,000 years ago primitive marine vegetable life was well established on Urantia."
+Page-668. “500,000,000 years ago primitive marine vegetable life was well established on Urantia.”
 
 Comment: Primitive marine vegetable life of both prokaryote (no nucleus housing the chromosome) and eukaryote forms (chromosomes are contained in a nucleus) had for long existed on Urantia. The prokaryotes were in existence close to 4 billion years ago while the eukaryotes, including photosynthetic algae, had been present  for about 2 billion years.
 
@@ -378,7 +378,7 @@ Page-673. "400,000,000 years ago marine life, both vegetable and animal, is fair
 
 "Vegetation now for the first time crawls out upon the land and soon makes considerable progress in adaptation to a non-marine habitat.
 
-"Suddenly and without gradation ancestry the first multicellular animals make their appearance."
+“Suddenly and without gradation ancestry the first multicellular animals make their appearance.”
 
 Comment: According to modern paleontology, most of the known phyla were already represented in the Cambrian period, 570-505 million years ago.3 The multicellular priapulid worms were already diverse, fossils of annelid worm are present, also sponges, coelenterates, arthropods, trilobites, and crustaceans. Air-breathing scorpions are found in the Silurian period, 410-435 million years ago.3
 
@@ -386,13 +386,13 @@ Page-674. This was the biogeologic picture of Urantia at the end of that long pe
 
 Comment: This curious statement appears at the end of a section commencing at 360,000,000 years ago so would cover from 410-360 million years ago. As far back as the 1950's the Cambrian period was given as from 540,000,000 to 500,000,000 years ago.
 
-Page-675. 310,000,000 years ago. "The marine fauna developed to the point where every type of life below the vertebrate scale was represented in the fossils of those rocks which were laid down during these times. But all of these animals were marine organisms. No land animals had yet appeared except a few types of worms which burrowed along the seashores, nor had the land plants yet overspread the continents; there was still too much carbon dioxide in the air to permit the existence of air breathers."
+Page-675. 310,000,000 years ago. “The marine fauna developed to the point where every type of life below the vertebrate scale was represented in the fossils of those rocks which were laid down during these times. But all of these animals were marine organisms. No land animals had yet appeared except a few types of worms which burrowed along the seashores, nor had the land plants yet overspread the continents; there was still too much carbon dioxide in the air to permit the existence of air breathers.”
 
 Comment: Air-breathing scorpions (an animal) were present in the Silurian period 100 million years earlier. Fossil evidence for land plants exists in the Ordovician (505-438 million years ago) and fossilized tracheids (which are diagnostic of vascular plants) are found in the early Devonian (408-360 million years ago)
 
 Page 681. "200,000,000 years ago the really active stages of the Carboniferous period began. For twenty million years prior to this time the earlier coal deposits were being laid down, but now the more extensive coal-formation activities were in process. The length of the actual coal-deposition epoch was a little over twenty-five million years.
 
-"180,000,000 years ago brought the close of the Carboniferous period, during which coal had been formed all over the world--in Europe, India, China, North Africa, and the Americas."
+“180,000,000 years ago brought the close of the Carboniferous period, during which coal had been formed all over the world--in Europe, India, China, North Africa, and the Americas.”
 
 Comment: Modern geology places the Carboniferous at from 360,000,000 to 286,000,000 years ago. In the 1950 period some geologists drew the boundaries at 320,000,000 to 260,000,000 years ago. It would be interesting to obtain information on the geological time scale for the 1920 to 1935 period. As with other commentaries on matters of science and cosmology in the Urantia Papers, it is possible that much of the information on paleontology is drawn from one or two text books that were current in that period. If so, they will eventually come to light.
 
@@ -414,12 +414,12 @@ Rothery, D. (1997) Geology (Hodder & Stoughton, London)
 
 # Epilogue
 
-It cannot be doubted that these Urantia Papers sometimes meander between the sublime and the ridiculous. This becomes more comprehensible if we remind ourselves that much of the initial content constitutes the response to questions from "Forum" members who were deliberately attempting to set traps for the revelators to betray themselves. The reality of the book itself pays witness that the revelators survived this period of testing despite the limitations imposed upon them by universe rules on revelation that proscribed revealing unearned knowledge--which was in direct conflict with the determination of Forum members 'to ask questions that no human being could answer.'
+It cannot be doubted that these Urantia Papers sometimes meander between the sublime and the ridiculous. This becomes more comprehensible if we remind ourselves that much of the initial content constitutes the response to questions from “Forum” members who were deliberately attempting to set traps for the revelators to betray themselves. The reality of the book itself pays witness that the revelators survived this period of testing despite the limitations imposed upon them by universe rules on revelation that proscribed revealing unearned knowledge--which was in direct conflict with the determination of Forum members 'to ask questions that no human being could answer.'
 
 Furthermore, the task of the revelators also had to be carried out without abrogating a divine decree:
 
 "No other being, force, creator, or agency in all the wide universe of universes can interfere to any degree with the absolute sovereignty of the mortal free will, as it operates within the realms of choice, regarding the eternal destiny of the personality of the choosing mortal. As pertains to eternal survival, God has decreed the sovereignty of the material and mortal will, and that decree is absolute.
-"No personal creature can be coerced into the eternal adventure; the portal of eternity opens only to the freewill choice of the freewill sons of the God of free will." (P. 71)
+“No personal creature can be coerced into the eternal adventure; the portal of eternity opens only to the freewill choice of the freewill sons of the God of free will.” (P. 71)
 
 Free will entails absence of coercion. Free choice also implies absence of coercion. Authoritarianism is always conditional.
 

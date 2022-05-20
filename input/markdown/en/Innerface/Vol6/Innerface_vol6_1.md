@@ -2,7 +2,7 @@
 
 Ken Glasziou
 
-This is indeed a strange topic for our "Favorite Places" segment. But if you have the stamina, read on and discover the reality of a revelation.
+This is indeed a strange topic for our “Favorite Places” segment. But if you have the stamina, read on and discover the reality of a revelation.
 
 "Evolving energy has substance; it has weight, although weight is always relative, depending on revolutionary velocity, mass, and antigravity. Mass in matter tends to retard velocity in energy; and the anywhere-present velocity of energy represents: the initial endowment of velocity, minus retardation by mass encountered in transit, plus the regulatory function of the living energy controllers of the superuniverse and the physical influence of near-by highly heated or heavily charged bodies….
 
@@ -12,28 +12,28 @@ This is indeed a strange topic for our "Favorite Places" segment. But if you hav
 
 "During the times of plus energy there are power disturbances and heat fluctuations accompanied by electrical manifestations. During times of minus energy there are increased tendencies for matter to aggregate, condense, and to get out of control in the more delicately balanced circuits, with resultant tidal or collisional adjustments which quickly restore the balance between circulating energy and more literally stabilized matter. To forecast and otherwise to understand such likely behavior of the blazing suns and the dark islands of space is one of the tasks of the celestial star observers….
 
-"The superuniverse of Orvonton is apparently now running down; the outer universes seem to be winding up for unparalleled future activities; the central Havona universe is eternally stabilized. Gravity and absence of heat (cold) organize and hold matter together; heat and antigravity disrupt matter and dissipate energy. The living power directors and force organizers are the secret of the special control and intelligent direction of the endless metamorphoses of universe making, unmaking, and remaking. Nebulae may disperse, suns burn out, systems vanish, and planets perish, but the universes do not run down." (176)
+“The superuniverse of Orvonton is apparently now running down; the outer universes seem to be winding up for unparalleled future activities; the central Havona universe is eternally stabilized. Gravity and absence of heat (cold) organize and hold matter together; heat and antigravity disrupt matter and dissipate energy. The living power directors and force organizers are the secret of the special control and intelligent direction of the endless metamorphoses of universe making, unmaking, and remaking. Nebulae may disperse, suns burn out, systems vanish, and planets perish, but the universes do not run down.” (176)
 
 Commentary
 
-To include a Section, primarily on physics, as a "Favorite Place," probably seems extraordinary to most readers. But this Section, as well as many others like it, is capable of exciting true wonderment if we are old enough or knowledgeable enough to be familiar with the historical background.
+To include a Section, primarily on physics, as a “Favorite Place,” probably seems extraordinary to most readers. But this Section, as well as many others like it, is capable of exciting true wonderment if we are old enough or knowledgeable enough to be familiar with the historical background.
 
 In 1955, this Urantia Book Section could appear to  be a fanciful extract from a science fiction novel. For one thing, antigravity was considered to be nonsense by most of the physics fraternity. Only recently has it attained a degree of respectability. And despite Einstein's E = mc2, very few people believed that energy could be converted to matter or that the weight of an object could be affected by its rate of rotation.
 
-Nowadays we might not be surprised to read something like: "Bottomonium, for example, is what you get by putting together a bottom quark and its antiquark. They can come together to form a number of different mesons, depending on how they move relative to one another. The simplest is the "upsilon." It has the lowest energy—and the smallest mass—because the bottom quark and its antiquark rotate about one another as slowly as possible. Set these quarks rotating more vigorously, and you get other mesons with larger masses."
+Nowadays we might not be surprised to read something like: “Bottomonium, for example, is what you get by putting together a bottom quark and its antiquark. They can come together to form a number of different mesons, depending on how they move relative to one another. The simplest is the ”upsilon.“ It has the lowest energy—and the smallest mass—because the bottom quark and its antiquark rotate about one another as slowly as possible. Set these quarks rotating more vigorously, and you get other mesons with larger masses.”
 
 More science fiction? No, it comes from a serious 1998 discussion on lattice quantum chromodynamics computations. For more information ask a physicist.
 
-"Highly energized cold bodies of condensed matter" from the Urantia Paper quotation could only mean black holes to the modern day physicist. Pre-1960's, condensed matter was known to exist in white dwarf stars but these could have a surface temperature in the order of 3000 degrees. The then hypothetical neutron star was even more condensed but both the neutron star and black holes remained undiscovered.
+“Highly energized cold bodies of condensed matter” from the Urantia Paper quotation could only mean black holes to the modern day physicist. Pre-1960's, condensed matter was known to exist in white dwarf stars but these could have a surface temperature in the order of 3000 degrees. The then hypothetical neutron star was even more condensed but both the neutron star and black holes remained undiscovered.
 
 A respectability status for black holes is a very recent acquirement. In 1939, after 	
 Oppenheimer and co-workers demonstrated (via a highly simplified mathematical model) that black holes could be a possibility, Einstein and Eddington both vigorously rejected that concept. At the time, Einstein had a God-like status among physicists while Eddington had a similar status among astronomers, possibly attributable to his claim that only two people in the world understood relativity and Einstein was the other. To go against either of these demigods was akin to denying God himself.
 
 Is a black hole devoid of heat? Nobody knows the answer. Matter entering black holes is accelerating under the influence of enormous gravitational forces and is assumed to carry on to a Schwarzchild singularity, a dimensionless point at the hole's center where the laws of physics are assumed to breakdown. However, all agree that heat cannot escape from a blackhole, so even a pinpoint-size black hole could not be used to heat the household hearth. Actually it would extract heat from the home so, for all practical purposes, we can consider black holes to be dead cold.
 
-That brings us to "collisions among the dead giants of space"—colliding black holes? If it were not for quasars, we would not know that such was a realistic possibility. Quasar stands for "quasistellar radio source." The original quasar was an extremely powerful radiosource discovered in Australia in 1962. After plotting its position, details were sent to the Mount Palomar Observatory where its optical spectrum revealed only a hydrogen spectrum and a location about 2 billion light-years from earth. "Quasar" was a misnomer as these bodies radiate over the full range of the spectrum and now are more often known as quasar stellar objects—QSO's.
+That brings us to “collisions among the dead giants of space”—colliding black holes? If it were not for quasars, we would not know that such was a realistic possibility. Quasar stands for “quasistellar radio source.” The original quasar was an extremely powerful radiosource discovered in Australia in 1962. After plotting its position, details were sent to the Mount Palomar Observatory where its optical spectrum revealed only a hydrogen spectrum and a location about 2 billion light-years from earth. “Quasar” was a misnomer as these bodies radiate over the full range of the spectrum and now are more often known as quasar stellar objects—QSO's.
 
-Since the repair job on the Hubble telescope, new work  has revealed that a "typical" QSO is embedded in a host galaxy which, in turn, is surrounded by a fuzzy halo and about three quarters of them are either colliding with or swallowing other galaxies. The most likely explanation for the observations is that a very high proportion of galaxies have a black hole at their center. The QSO characteristics are due to the black hole swallowing stars that then provide for their enormous energy output.
+Since the repair job on the Hubble telescope, new work  has revealed that a “typical” QSO is embedded in a host galaxy which, in turn, is surrounded by a fuzzy halo and about three quarters of them are either colliding with or swallowing other galaxies. The most likely explanation for the observations is that a very high proportion of galaxies have a black hole at their center. The QSO characteristics are due to the black hole swallowing stars that then provide for their enormous energy output.
 
 A recent survey of nearby galaxies indicates that 11 of 27 may harbor a black hole. It would seem, at least to me, that if both partners of colliding galaxies have black holes then, sooner or later, in some collisions the gravitational fields of the two black holes would overlap to the point that their collision became inevitable, perhaps with fusion, a doubling of mass and a rain of in-falling stars consequent upon the increased gravitational field—a hyperquasar  maybe!!
 
@@ -41,7 +41,7 @@ Many quasars shoot out jets in opposite directions that may extend for more than
 
 The accretion disk is the major source of radiation—X-rays at its hot, innermost regions, and ultra-violet, visible, and infra-red radiation further out.  Radio frequency emitting lobes may form where a quasar's jets terminate. Geoffrey Burbidge calculated that these lobes may have as much magnetic and kinetic energy as would be obtained by converting all the mass of ten million suns into pure energy.
 
-Burbidge's calculation demonstrates that The Urantia Book's statement, "in these collisional episodes enormous masses of matter are suddenly converted into the rarest form of energy" is not just the wild imagination it would have appeared to be at the time of the printing of the book..
+Burbidge's calculation demonstrates that The Urantia Book's statement, “in these collisional episodes enormous masses of matter are suddenly converted into the rarest form of energy” is not just the wild imagination it would have appeared to be at the time of the printing of the book..
 
 Some might argue that colliding black holes would simply result in bigger black holes. But perhaps a critical situation is reached when temperature and pressure conditions cause matter to disrupt yielding the constituent ultimatons  (which, we are told, do not respond to linear gravity). Such an event might then convert gravitational implosion to rebound explosion. Once the fireworks are over, the revelators tell us that such devastating collisions become a thing of the past. Incidentally, the measured frequency of quasars in our vicinity is one in a million galaxies. Hence quasar activity may be mainly an outer space phenomenon.
 
@@ -52,17 +52,17 @@ And is it not also nice to know that the running down of our universes is appare
 It was in about 1955 that the New York Times carried a headline report that the size and age of the universe had just doubled. The reason for the report was a new estimate of the 	
 rate of expansion of the universe which also increased the estimate of its age from 2 billion to 4 billion years, about 10 billion years short of current estimates. And, at about the same time, The Urantia Book appeared on the bookshelves speaking of colliding black holes and continuous creation!!
 
-In 1998, it all seems plausible. One reason that Section 8 of Paper 15 makes it among my "Favorite Places" is that I am old enough to remember the 1930-1960 period and, as with my elderly brother and sister Alzheimer and dementia patients, can comfortably drop back mentally to earlier times. And in this mental state, I can look at Section 8 of Paper 15 in utter awe, wonderment, and gratitude.
+In 1998, it all seems plausible. One reason that Section 8 of Paper 15 makes it among my “Favorite Places” is that I am old enough to remember the 1930-1960 period and, as with my elderly brother and sister Alzheimer and dementia patients, can comfortably drop back mentally to earlier times. And in this mental state, I can look at Section 8 of Paper 15 in utter awe, wonderment, and gratitude.
 
 ## References
 
-Davies, Christine, "Let's Play Quantum Chess." New Scientist 158 (2137) 1998
-Disney, M. "A New Look at Quasars." Scientific American, 278 (6) 1998
-Thorne, K. "Black Holes and Time Warps." (W.W. Norton, London, 1994)
+Davies, Christine, “Let's Play Quantum Chess.” New Scientist 158 (2137) 1998
+Disney, M. “A New Look at Quasars.” Scientific American, 278 (6) 1998
+Thorne, K. “Black Holes and Time Warps.” (W.W. Norton, London, 1994)
 
 # Goose Bumps
 
-Next time you see geese flying in their characteristic "V" formation, consider what science has discovered about why they do what they do.
+Next time you see geese flying in their characteristic “V” formation, consider what science has discovered about why they do what they do.
 
 As each bird flaps its wings, it creates uplift for the bird immediately following. So by flying in formation, the flight of the whole flock becomes more efficient to the point that the range of the flock is increased by as much as 70% more than the individual bird is able to achieve by itself.
 
@@ -82,7 +82,7 @@ Meredith Sprunger.
 
 How we conduct our outreach ministry is more important than when or where we introduce people to The Urantia Book. Indifference and social opposition must be met with love, intellectual candor and good humor.
 
-Since we are not starting a new religion, our public ministry is relatively benign. Jesus assures us, "My yoke is easy and my burden is light." This mission bears the simplicity of Philip's invitation, "Come and see."
+Since we are not starting a new religion, our public ministry is relatively benign. Jesus assures us, “My yoke is easy and my burden is light.” This mission bears the simplicity of Philip's invitation, “Come and see.”
 
 In many instances we might be simply introducing people to a new book and encouraging them to read it. Their response is in the hands of the Spirit. We must cheerfully allow the reader their own interpretations and evaluation. For if this new vision of spiritual reality does not inspire, then our arguments will not either.
 
@@ -106,9 +106,9 @@ It is my prayer that each of you may grow in the Spirit, for it is the life of t
 
 Living Faith Acts
 
-Our society desperately needs an enlarged spiritual vision to give guidance and stability to the new era struggling to be born. The Urantia Book has been given to you to provide the spiritual fulcrum to lift our world into a new era of human achievement. Our Sovereign speaks to you as to Peter, "If you love me, feed my sheep."
+Our society desperately needs an enlarged spiritual vision to give guidance and stability to the new era struggling to be born. The Urantia Book has been given to you to provide the spiritual fulcrum to lift our world into a new era of human achievement. Our Sovereign speaks to you as to Peter, “If you love me, feed my sheep.”
 
-# "The Way"
+# “The Way”
 
 Jesus' Baptismal Decisions.
 
@@ -147,15 +147,15 @@ How successful was he? In the eyes of most of his  contemporaries he was an abje
 
 But in the eyes of his heavenly Father, he had earned his place as the Master Creator Son of a universe. And his death and his life were his Father-sanctified legacy—a model eternally worthy of emulation by all his mortal children.
 
-"Seek ye not the praise of men. Rather, seek ye the praise of your Father who is in heaven."
+“Seek ye not the praise of men. Rather, seek ye the praise of your Father who is in heaven.”
 
 Post-baptismal aims and motives
 
-"There was just one motive in Jesus' post-baptismal life on Urantia, and that was a better and truer revelation of his Paradise Father."
+“There was just one motive in Jesus' post-baptismal life on Urantia, and that was a better and truer revelation of his Paradise Father.”
 
 Jesus' life is a divinely certified pattern life for all of his universe children. To his followers, he said,
 
-"Do you not understand that...you are to represent me in the world and in the proclamation of the kingdom, even as I now represent the Father who is in heaven?"
+“Do you not understand that...you are to represent me in the world and in the proclamation of the kingdom, even as I now represent the Father who is in heaven?”
 
 Jesus made no compromises in instructing us concerning the motivation of our mortal lives. His motive is to be our motive, our earthly lives are to represent him as he represented the Father, we are to emulate the goals and purposes of his life—just as he did—by attempting to actually be, in our day to day activities, a revelation of the true nature of God, our Father. Nothing less is permissible.
 
@@ -182,13 +182,13 @@ All types of universe mind have certain properties in common that are derived di
 
 Causation covers those traits of mind that operate in the domain of the physical senses and are concerned with the differentiation of fact from non-fact, and the striving for meaning. We can observe this urge to strive to discover meaning quite readily in ourselves, and even in animals as they attempt to make sense of the signals invading their minds from the surrounding environment.
 
-The Cosmic Mind's attribute termed "duty" includes our innate sense of moral values and our ability to differentiate between relative right and wrong. It is interesting that, to date, all civilisations appear to have assumed that individuals are congenitally equipped to distinguish between relative right and wrong, rather than making the alternative assumption that right and wrong are defined solely by authoritarian decree.
+The Cosmic Mind's attribute termed “duty” includes our innate sense of moral values and our ability to differentiate between relative right and wrong. It is interesting that, to date, all civilisations appear to have assumed that individuals are congenitally equipped to distinguish between relative right and wrong, rather than making the alternative assumption that right and wrong are defined solely by authoritarian decree.
 
-Worship is another innate component of Cosmic Mind. Among other attributes, worship is concerned with the fostering of a personal realization of divine fellowship and our recognition of spiritual values. But it is not an attribute that is universally distributed. For the evolutionary creatures of a planet like ours, it comes only to those creatures that have evolved the quality of self-consciousness. ("When any animal becomes self-conscious it becomes a primitive man." p. 1479)
+Worship is another innate component of Cosmic Mind. Among other attributes, worship is concerned with the fostering of a personal realization of divine fellowship and our recognition of spiritual values. But it is not an attribute that is universally distributed. For the evolutionary creatures of a planet like ours, it comes only to those creatures that have evolved the quality of self-consciousness. (“When any animal becomes self-conscious it becomes a primitive man.” p. 1479)
 
-Having minds with the capacity to reason, to distinguish relative right and wrong, and to recognize spiritual values is only the first part of the human story. Along with what comes with Cosmic Mind, we also have the gift of "personality" directly from the Universal Father. With it comes the dual characteristics of relative free will and the capacity to utilize qualities indigenous to Cosmic Mind. The Cosmic Mind has them. Personality uses them. This combination of personality and Cosmic Mind is then adequate for the initiation of moral decisions, the very first of which initiates Adjuster indwelling.
+Having minds with the capacity to reason, to distinguish relative right and wrong, and to recognize spiritual values is only the first part of the human story. Along with what comes with Cosmic Mind, we also have the gift of “personality” directly from the Universal Father. With it comes the dual characteristics of relative free will and the capacity to utilize qualities indigenous to Cosmic Mind. The Cosmic Mind has them. Personality uses them. This combination of personality and Cosmic Mind is then adequate for the initiation of moral decisions, the very first of which initiates Adjuster indwelling.
 
-"Personality is one of the unsolved mysteries of the universes." So says a Divine Counselor. There are more than a thousand references to the term "personality" in the Urantia Papers. We can only cover what appear to be the most important for understanding ourselves. The Eternal Son, we are told, is the master pattern for all personality and Havona is the home of the personality pattern of every mortal type. Shades of Plato!! Once we start to think of personality as pattern, we are on our way to understanding some of apparently anomalous statements about it—for example we are informed that personality is changeless and is devoid of identity.
+“Personality is one of the unsolved mysteries of the universes.” So says a Divine Counselor. There are more than a thousand references to the term “personality” in the Urantia Papers. We can only cover what appear to be the most important for understanding ourselves. The Eternal Son, we are told, is the master pattern for all personality and Havona is the home of the personality pattern of every mortal type. Shades of Plato!! Once we start to think of personality as pattern, we are on our way to understanding some of apparently anomalous statements about it—for example we are informed that personality is changeless and is devoid of identity.
 
 We are born with a gift from the Universal Father of a unique personality pattern already assigned to us. But just as with the basic pattern for a car or an item of clothing, the user of the pattern may modify it in many ways. The personality pattern we each have is there for our use. The pattern is fixed. Its use is not. Similarly, for example, the pattern of a dress is just the pattern, it is not the dress. The dress has its own identity. With that puzzle out of the road, let's go through a listing of some other important things about personality.
 
@@ -220,35 +220,35 @@ Probably all behavioral responses that are in direct opposition to those inheren
 
 So stacked up against each other in the make-up of each of us is one set of behavioral urges that are of divine origin and nature, and a second set that derives from our tooth and claw evolutionary origins. The first is the unselfish set, the second set is probably always totally selfish—despite any appearances to the contrary.
 
-I'll stick my neck out here and state that to become a Jesus' follower, there can be absolutely no compromise between these opposing forces. But that does not mean we will have no lapses. What it does mean is that to be a Jesus' follower requires a sincere commitment to always try to do things in God's way. And "always" means always with no closet reservations. If we make that decision, our subsequent ongoing problem then becomes its implementation. Confirming this no compromise viewpoint, from The Urantia Book we have: "To isolate part of life and call it religion is to disintegrate life and to distort religion. And this is just why the God of worship claims all allegiance or none." (1224)
+I'll stick my neck out here and state that to become a Jesus' follower, there can be absolutely no compromise between these opposing forces. But that does not mean we will have no lapses. What it does mean is that to be a Jesus' follower requires a sincere commitment to always try to do things in God's way. And “always” means always with no closet reservations. If we make that decision, our subsequent ongoing problem then becomes its implementation. Confirming this no compromise viewpoint, from The Urantia Book we have: “To isolate part of life and call it religion is to disintegrate life and to distort religion. And this is just why the God of worship claims all allegiance or none.” (1224)
 
 I've been a dedicated Jesus follower for considerably more than sixty years of my life and a Urantia Book reader for about twenty five of those years—so can lay claim to a reasonable amount of personal experience in this task of trying to be totally committed. A long time ago now one of my sons became disillusioned with Christianity and decided to try out Buddhist-style meditation. We talked about it and he explained that his problem with the Christian way is that there is no method. At the time, I had no answer for his problem.
 
 In fact, it has taken me a long, long time to realize that there is a Urantia Book method of the kind my son was seeking. Then a further period elapsed before I understood the importance of the method. But it is only relatively recently that I believe I've cottoned on to the significance of what the book has to say on how to go about implementing its method.
 
-Discussing this method the revelators tell us that children sometimes "evince a tendency to converse with imaginary companions. In this way a budding ego seeks to hold communion with a fictitious alter ego." (Latin for "other self") Then, in discussing communication with our Thought Adjusters, they say: "the more effective technique for most practical purposes will be to revert to the concept of this nearby alter ego,... and then to recognize that the idea of the alter ego has evolved from a mere fiction to the truth of God's indwelling mortal man in the factual presence of the Adjuster so that man can talk face to face, as it were, with a real, divine alter ego that indwells him, and is the very presence and essence of the living God, the Universal Father." (997)
+Discussing this method the revelators tell us that children sometimes “evince a tendency to converse with imaginary companions. In this way a budding ego seeks to hold communion with a fictitious alter ego.” (Latin for “other self”) Then, in discussing communication with our Thought Adjusters, they say: “the more effective technique for most practical purposes will be to revert to the concept of this nearby alter ego,... and then to recognize that the idea of the alter ego has evolved from a mere fiction to the truth of God's indwelling mortal man in the factual presence of the Adjuster so that man can talk face to face, as it were, with a real, divine alter ego that indwells him, and is the very presence and essence of the living God, the Universal Father.” (997)
 
 The revelators comment that the most practical way of developing continuous communication with our Adjusters is to carry on a conversation with our alter ego just as children do, was authoritarian enough for me to personally adopt the method. Compared with my previous efforts at Adjuster communication, I rated it as a great success. But even when it became habitual, I was conscious that something was missing. Communication with my Thought Adjuster remained a monologue—but that was all I had expected, so I really had no obvious reason to be dissatisfied.
 
 Then one day I overheard my four year old grandchild doing this alter ego thing just as it is described in the book. I was intrigued by the fact that he was actually playing the part of the other characters exactly as if they were real people. Each alter ego character had a name, voice and mannerisms all of its own. And his conversation was definitely a dialogue and not a monologue. When I checked The Urantia Book references I found:
 
-"By this technique the child early learns to convert his monologue conversations into pseudo dialogues in which this alter ego makes replies to his verbal thinking and wish expression." (996)
+“By this technique the child early learns to convert his monologue conversations into pseudo dialogues in which this alter ego makes replies to his verbal thinking and wish expression.” (996)
 
 Even after reading this, I was still a bit slow on the uptake but eventually it sank in that the technique being recommended to us by the revelators was really intended to be a dialogue. We are supposed to be both ourselves and also to speak the part of our own Thought Adjuster, replying to ourselves exactly as if we were truly our indwelling God-spirit.
 
-To take the part of God in a conversation would appear to be somewhat presumptuous if it were not for the fact that it has the sanction of the revelators who recommend it. But to do so effectively it becomes essential that we already have a reasonably accurate idea of what God might say to us in any particular circumstance. How can we do this? The Urantia Papers inform us that: "The nature of God can best be understood by the revelation of the Father which Michael of Nebadon unfolded in his manifold teachings and in his superb mortal life in the flesh."
+To take the part of God in a conversation would appear to be somewhat presumptuous if it were not for the fact that it has the sanction of the revelators who recommend it. But to do so effectively it becomes essential that we already have a reasonably accurate idea of what God might say to us in any particular circumstance. How can we do this? The Urantia Papers inform us that: “The nature of God can best be understood by the revelation of the Father which Michael of Nebadon unfolded in his manifold teachings and in his superb mortal life in the flesh.”
 
-That comment leaves us without doubt that the best way for us to know how God might respond to us is to be thoroughly familiar with the life and teachings given to us by Jesus. Once we achieve this, in a dialogue in which we also take the part of our own Thought Adjuster, when an answer is required we simply need to ask ourselves, "What do we think Jesus would have done?"
+That comment leaves us without doubt that the best way for us to know how God might respond to us is to be thoroughly familiar with the life and teachings given to us by Jesus. Once we achieve this, in a dialogue in which we also take the part of our own Thought Adjuster, when an answer is required we simply need to ask ourselves, “What do we think Jesus would have done?”
 
 Despite a long exposure to the Gospel stories and The Urantia Book, I still find it useful to have a flash card memory jogger covering major points about Jesus and what he taught. Short daily sessions with these serve to keep this knowledge to the forefront of my mind. We'll take a look at this later if there is time.
 
-That brings us back to our major topic of worship. The diversions were required because of what we encountered at the beginning: "The quality of our worship is determined by the depth of our perception which varies in accordance with the depth of our knowledge of God."
+That brings us back to our major topic of worship. The diversions were required because of what we encountered at the beginning: “The quality of our worship is determined by the depth of our perception which varies in accordance with the depth of our knowledge of God.”
 
 From the book we've learned that our knowledge of God is best enhanced by knowing the life of Jesus and how he lived it. Similarly we've learned that communication with our Thought Adjuster is best promoted by use of the alter ego method. But why make a fuss about worship? Isn't just trying to be like Jesus enough?
 
-In seeking an answer to that question I came across this from the revelators:  "Worship is the highest privilege and the first duty of all created intelligences" and "Worship is the highest joy of Paradise existence."
+In seeking an answer to that question I came across this from the revelators:  “Worship is the highest privilege and the first duty of all created intelligences” and “Worship is the highest joy of Paradise existence.”
 
-The clue to why the revelators place such a high value on worship may be in these words, "Man aspires by worship to be better—and thereby eventually attains the best." Is it not true that when we truly admire someone or perhaps someone becomes an object of our hero worship, there is a natural tendency for us to want to imitate them, to be like them. So can it be that our sincere worshipping of God virtually automatically means that we will strive to be like God? If so, what qualifies as worship? Surely it has to be more than singing or shouting God's praises. Let's see what else the revelators have to say about worship:
+The clue to why the revelators place such a high value on worship may be in these words, “Man aspires by worship to be better—and thereby eventually attains the best.” Is it not true that when we truly admire someone or perhaps someone becomes an object of our hero worship, there is a natural tendency for us to want to imitate them, to be like them. So can it be that our sincere worshipping of God virtually automatically means that we will strive to be like God? If so, what qualifies as worship? Surely it has to be more than singing or shouting God's praises. Let's see what else the revelators have to say about worship:
 
 Worship is the conscious and joyous act of recognizing a personal relationship with our Creator.
 Worship is a transforming experience whereby the finite gradually approaches, and ultimately attains, the Infinite.
@@ -261,17 +261,17 @@ True worship is for its own sake. There is absolutely no self-interest element. 
 Knowing God as Father, enthroning God in our hearts, experiencing the good, realizing the unity of truth, beauty and goodness, all form part of a valid worship experience.
 Worship is self-forgetting—superthinking.
 Jesus' whole life was a worship experience.
-The simplest form of worship is a sincere: "Thank you, God, for just being you."  [not from Urantia Book]
+The simplest form of worship is a sincere: “Thank you, God, for just being you.”  [not from Urantia Book]
 
 So worship isn't just singing praises to God. We actually worship God whenever we think about him with sincere gratitude, admiration, or awe in our hearts and a desire, even if unconscious, to be like God.
 
 At the other end of the scale from where we are, there is Paradise worship.
 
-"All the arts of all the beings of the entire universe which are capable of intensifying and exalting the abilities of self-expression and the conveyance of appreciation, are employed to their highest capacity in the worship of the Paradise Deities. Worship is the highest joy of Paradise existence; it is the refreshing play of Paradise. What play does for your jaded minds on earth, worship will do for your perfected souls on Paradise. The mode of worship on Paradise is utterly beyond mortal comprehension, but the spirit of it you can begin to appreciate even down here on Urantia, for the spirits of the Gods even now indwell you, hover over you, and inspire you to true worship." (304)
+“All the arts of all the beings of the entire universe which are capable of intensifying and exalting the abilities of self-expression and the conveyance of appreciation, are employed to their highest capacity in the worship of the Paradise Deities. Worship is the highest joy of Paradise existence; it is the refreshing play of Paradise. What play does for your jaded minds on earth, worship will do for your perfected souls on Paradise. The mode of worship on Paradise is utterly beyond mortal comprehension, but the spirit of it you can begin to appreciate even down here on Urantia, for the spirits of the Gods even now indwell you, hover over you, and inspire you to true worship.” (304)
 
-During preparation of this talk a couple of thoughts came to mind that are "shareable." We've been informed that worship is an innate component of Cosmic Mind that fosters the personal realization of divine fellowship. And discussing personality, the book has:
+During preparation of this talk a couple of thoughts came to mind that are “shareable.” We've been informed that worship is an innate component of Cosmic Mind that fosters the personal realization of divine fellowship. And discussing personality, the book has:
 
-"Personality cannot survive well in isolation. Man is innately a social creature; he is dominated by the craving for belongingness.  It is literally true, 'No man lives unto himself.'" (1227)
+“Personality cannot survive well in isolation. Man is innately a social creature; he is dominated by the craving for belongingness.  It is literally true, 'No man lives unto himself.'” (1227)
 
 Particularly in early adulthood, many of us develop an overwhelming yearning to find the perfect partner to share our lives in happiness and bliss, and we load onto this imaginary partner a set of impossible-to-be-achieved attributes of our own making.  On reading about our craving for belongingness in the book, and having also read about the congenital urge we have from Cosmic Mind for divine fellowship, it struck me that our youthful desires to find the perfect partner is possibly an instinctive but misplaced yearning stemming from the combination of our desire for belongingness and our innate, constitutive urge to find God—in other words, even though we didn't know it, God was the real goal of our youthful yearning—which often long persists into adult life.
 
@@ -301,7 +301,7 @@ Space Respiration Expansion Curve
 
 What sort of curve of velocity versus time might space respiration follow? Consider this: Material bodies cannot instantly go from rest to some high speed; they must accelerate to that speed at a reasonable rate. As an example, consider the problems associated with sending a rocket ship to land on a planet circling a distant star.  If we start out with the ship motionless in space, we must accelerate gradually to reach a given speed.  The speed increases at a rate dependent on the acceleration caused by the force exerted by the rocket motor on the spacecraft.
 
-Acceleration is limited by the fact that we human beings can't handle many G's of acceleration over a long period of time.  ("G" is the force of gravity at the earth's surface.) If we accelerated until we got halfway to the distant planet, then we'd have to turn the ship around and decelerate the rest of the way to get down to landing speed. In a similar fashion, the expansion of the universe could not go from 0 to full speed instantly; there needs to be a period of acceleration at the beginning. Likewise, unless God chooses to fiddle with the laws of physics, there needs to be a period of deceleration at the end of both the expansion and contraction phases. 
+Acceleration is limited by the fact that we human beings can't handle many G's of acceleration over a long period of time.  (“G” is the force of gravity at the earth's surface.) If we accelerated until we got halfway to the distant planet, then we'd have to turn the ship around and decelerate the rest of the way to get down to landing speed. In a similar fashion, the expansion of the universe could not go from 0 to full speed instantly; there needs to be a period of acceleration at the beginning. Likewise, unless God chooses to fiddle with the laws of physics, there needs to be a period of deceleration at the end of both the expansion and contraction phases. 
 
 The upper curve of Figure 3 shows how the size of the universe changes throughout the space respiration cycle. Smax and Smin are the maximum and minimum sizes of the master universe. The lower curve of Figure 3 shows  how the velocity curve might change during the expansion/contraction cycles. Vmax and Vmin are the maximum and minimum velocities at any given point in the master universe.  This shape is known as a sine wave curve.  Each phase begins and ends with zero velocity.  Maximum velocity is achieved halfway through each phase and acceleration falls to zero at this point.  The expansion begins to decelerate and continues until it reaches zero velocity. At this point, the master universe has achieved its maximum expansion and is ready to begin its contraction phase.  The contraction phase retraces the acceleration/deceleration path of the expansion phase. The velocity during the contraction phase is negative since it is in the opposite direction compared to the expansion phase.  To me, this seems a reasonable scenario for the space respiration expansion and contraction cycles.
 
@@ -339,5 +339,5 @@ Speculation won't necessarily provide correct answers, but it can help us to fra
 
 ## References
 
-1. "The Visible Universe," Dick Bain, Innerface International, Vol. 5, No. 6.
-2. Grollier's 1995 CD-ROM Encyclopedia under "Compton effect".
+1. “The Visible Universe,” Dick Bain, Innerface International, Vol. 5, No. 6.
+2. Grollier's 1995 CD-ROM Encyclopedia under “Compton effect”.

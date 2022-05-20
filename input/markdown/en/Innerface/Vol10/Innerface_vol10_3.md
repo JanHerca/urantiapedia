@@ -15,11 +15,11 @@ You must not regard co-operation with your Adjuster as a particularly conscious 
 
 4. Joyful acceptance of cosmic citizenship--honest recognition of your progressive obligations to the Supreme Being, awareness of the interdependence of evolutionary man and evolving Deity. This is the birth of cosmic morality and the dawning realization of universal duty. (1206/7)
 
-# The "Alter Ego" and the Indwelling Spirit
+# The “Alter Ego” and the Indwelling Spirit
 
-"The great challenge to modern man is to achieve better communication with the divine Spirit of God that dwells within the human mind."
+“The great challenge to modern man is to achieve better communication with the divine Spirit of God that dwells within the human mind.”
 
-## Our "alter ego"--its beginnings
+## Our “alter ego”--its beginnings
 
 When first learning to make use of language, many children are prone to think out loud, to express their thoughts in words, even if no one is present to hear them. And with the child's dawn of creative imagination it evinces a tendency to converse with imaginary companions. (996)
 
@@ -118,15 +118,15 @@ Success or failure is in direct proportion to how much of our waking time we suc
 
 However to provide tentative answers to  serious questions, we must draw upon our prior knowledge of the Father as it was revealed to us in the life of Jesus of Nazareth.
 
-Then, in any situation in which we find ourselves, our decision making may be guided by a single potent question, "What would Jesus do?" And over time, what commenced as a one-sided and completely human relationship will gradually progress to a state in which our forthcoming decisions approach ever closer to bearing the essence of divinity .
+Then, in any situation in which we find ourselves, our decision making may be guided by a single potent question, “What would Jesus do?” And over time, what commenced as a one-sided and completely human relationship will gradually progress to a state in which our forthcoming decisions approach ever closer to bearing the essence of divinity .
 
-For that process to be successful, we must have thoroughly familiarized ourselves with Jesus' life and teachings--to the point of actually "knowing" the mind of Jesus.
+For that process to be successful, we must have thoroughly familiarized ourselves with Jesus' life and teachings--to the point of actually “knowing” the mind of Jesus.
 
 There is a good reason why we should seek to know the mind of Jesus rather than his actions or his teachings. No two events are ever identical. Every event is enmeshed with circumstances unknowable to us such that it will never recur in exactly the same way again.
 
 If we interpret Jesus' life and sayings as the basis of a set of rules to follow, then we know that we do not yet know the mind of Jesus--which after all is a revelation of the mind of God. But despair not for Jesus' Spirit of Truth, acting through the Father-Spirit, is available to help us. We need only to ask.
 
-To "follow Jesus" means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.
+To “follow Jesus” means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.
 
 And the everlasting truth is: If your own mind does not serve you well, you can always exchange it for the mind of Jesus of Nazareth, who forever serves you well.
 
@@ -149,19 +149,19 @@ The doing of the will of God is nothing more or less than an exhibition of creat
 The imitation of God is the key to perfection; the doing of his will is the secret of survival and of perfection in survival.
 Peace in this life, survival in death, perfection in the next life, service in eternity--all these are achieved (in spirit) NOW when the creature personality consents--chooses--to subject the creature will to the Father's will.
 This choosing of the Father's will is the spiritual finding of the spirit Father by mortal man.
-This choosing does not so much consist in the negation of creature will--"Not my will but yours be done"--as it consists in the creature's positive affirmation: "It is my will that your will be done."
+This choosing does not so much consist in the negation of creature will--“Not my will but yours be done”--as it consists in the creature's positive affirmation: “It is my will that your will be done.”
 
-Try as we may, we cannot get specific instructions or a set of rules that define exactly what "doing the will of God" really is. Perhaps it is best described in the answer Jesus once gave to a young inquirer:
+Try as we may, we cannot get specific instructions or a set of rules that define exactly what “doing the will of God” really is. Perhaps it is best described in the answer Jesus once gave to a young inquirer:
 
-"This was a conference which lasted well into the night, in the course of which the young man requested Jesus to tell him the difference between the will of God and that human mind act of choosing which is also called will. In substance Jesus said: The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the will of God, therefore, is the progressive experience of becoming more and more like God, and God is the source and destiny of all that is good and beautiful and true."
+“This was a conference which lasted well into the night, in the course of which the young man requested Jesus to tell him the difference between the will of God and that human mind act of choosing which is also called will. In substance Jesus said: The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the will of God, therefore, is the progressive experience of becoming more and more like God, and God is the source and destiny of all that is good and beautiful and true.”
 
-To be committed to doing the will of God we need to be also committed to becoming more and more like God, to be seeking a perfection that is God-like. And the reason that specific rules cannot be laid down is because every situation in which we find ourselves is unique to that moment and will never occur again in exactly the same way. Hence "the will of God" is the "way of God" appears to be about as definite as it can get.
+To be committed to doing the will of God we need to be also committed to becoming more and more like God, to be seeking a perfection that is God-like. And the reason that specific rules cannot be laid down is because every situation in which we find ourselves is unique to that moment and will never occur again in exactly the same way. Hence “the will of God” is the “way of God” appears to be about as definite as it can get.
 
-Presumably this is also why the Papers inform us: "One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it."
+Presumably this is also why the Papers inform us: “One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.”
 
-And in the first paragraph of "The Nature of God," in Paper 2:
+And in the first paragraph of “The Nature of God,” in Paper 2:
 
-"The nature of God can best be understood by the revelation of the Father which Michael of Nebadon unfolded in his manifold teachings and in his superb mortal life in the flesh."
+“The nature of God can best be understood by the revelation of the Father which Michael of Nebadon unfolded in his manifold teachings and in his superb mortal life in the flesh.”
 
 So in a nut shell, doing the will of God means, with Jesus as our model, always to be trying to become more and more God-like. And the real meaning and purpose of each life on Urantia all boils down to that.
 
@@ -185,17 +185,17 @@ Another problem is the fluctuations observed in the background radiation that in
 
 A further difficulty is with lambda, the cosmological constant that describes the acceleration of the expanding universe. Theory predicts a value that is 10120 times larger than the measured value of 1/107. To cope with this huge anomaly, lambda has been allocated a fudge factor based upon an undiscovered mechanism that makes the vacuum energy fit the observations.
 
-And now we have an even bigger problem--with the fine structure constant, termed "alpha." Four years ago, using the Keck telescope in Hawaii, John Webb and team observed changes in the absorption spectra of elements such as iron, silicon, chromium, and zinc as light from far distant quasars passed through dust clouds containing those elements.
+And now we have an even bigger problem--with the fine structure constant, termed “alpha.” Four years ago, using the Keck telescope in Hawaii, John Webb and team observed changes in the absorption spectra of elements such as iron, silicon, chromium, and zinc as light from far distant quasars passed through dust clouds containing those elements.
 
-The implications of this observation were so enormous that four years have now passed in confirming them. Well-known theoretical physicist, John Barrow, joined the group and now, after checks for systematic error due to the telescope plus measurements from more than 100 quasars, states that "there would need to be an unimaginable sequence of coincidences to get such a consistent error," hence he concludes that the results are pretty much undeniably correct. One more check is now in progress--a repeat with an entirely different type of telescope situated in Chile.
+The implications of this observation were so enormous that four years have now passed in confirming them. Well-known theoretical physicist, John Barrow, joined the group and now, after checks for systematic error due to the telescope plus measurements from more than 100 quasars, states that “there would need to be an unimaginable sequence of coincidences to get such a consistent error,” hence he concludes that the results are pretty much undeniably correct. One more check is now in progress--a repeat with an entirely different type of telescope situated in Chile.
 
-A consequence of the Webb result is a shift in the fine structure constant, known as "alpha," that dictates how photons will be absorbed by electrons in a cloud containing metal atoms. The results from the Webb team make "alpha" slightly smaller than its present value. But since "alpha" is a conglomerate of four other constants (2pe2/hc2), it has wide ranging effects, including the strength of the weak force that affects how radioactive beta decay occurs--and so also how our sun burns.
+A consequence of the Webb result is a shift in the fine structure constant, known as “alpha,” that dictates how photons will be absorbed by electrons in a cloud containing metal atoms. The results from the Webb team make “alpha” slightly smaller than its present value. But since “alpha” is a conglomerate of four other constants (2pe2/hc2), it has wide ranging effects, including the strength of the weak force that affects how radioactive beta decay occurs--and so also how our sun burns.
 
-However all these effects have been previously checked and rechecked many times over and have always been found to be consistent with the current value of "alpha." The vacuum energy effect is particularly important since the cosmological constant, "lambda," is extremely sensitive to changes in "alpha."  If "alpha's" value is changed to be consistent with the value from the Webb observations it would make the physicist's theoretical early universe expand in a ridiculously fast way.
+However all these effects have been previously checked and rechecked many times over and have always been found to be consistent with the current value of “alpha.” The vacuum energy effect is particularly important since the cosmological constant, “lambda,” is extremely sensitive to changes in “alpha.”  If “alpha's” value is changed to be consistent with the value from the Webb observations it would make the physicist's theoretical early universe expand in a ridiculously fast way.
 
-As well as bringing problems for certain aspects of the Big Bang picture, a varying "alpha" also brings advantages  One of these concerns the "horizon" problem. Measurement shows that far-flung, opposite sides of the universe are all at much the same temperature. This implies that at some earlier time these parts were sufficiently close to one another for energy to pass between them. But the models of the early universe do not allow this to occur.
+As well as bringing problems for certain aspects of the Big Bang picture, a varying “alpha” also brings advantages  One of these concerns the “horizon” problem. Measurement shows that far-flung, opposite sides of the universe are all at much the same temperature. This implies that at some earlier time these parts were sufficiently close to one another for energy to pass between them. But the models of the early universe do not allow this to occur.
 
-A varying "alpha" could eliminate that difficulty and could also resolve the helium problem in the early universe. When the Universe cooled after the Big Bang, a time came when there was no longer enough energy for the weak nuclear force to transform neutrons and protons into one another. This also set a ceiling on the number of helium nuclei that could be formed--but unless the strength of the weak force has changed, the amount of helium present just after the Big Bang  was vastly more than such theories predict. If "alpha" changed so would the relative abundance of helium and hydrogen.
+A varying “alpha” could eliminate that difficulty and could also resolve the helium problem in the early universe. When the Universe cooled after the Big Bang, a time came when there was no longer enough energy for the weak nuclear force to transform neutrons and protons into one another. This also set a ceiling on the number of helium nuclei that could be formed--but unless the strength of the weak force has changed, the amount of helium present just after the Big Bang  was vastly more than such theories predict. If “alpha” changed so would the relative abundance of helium and hydrogen.
 
 So it is an ill wind that brings nobody no good. The critical test will be the observations currently being made in Chile.
 
@@ -219,7 +219,7 @@ Jesus said: The will of God is the way of God, partnership with the choice of Go
 
 "Fail not to remember that the will of God can be done in any earthly occupation. Some callings are not holy and others secular. All things are sacred in the lives of those who are spirit led--that is, subordinated to truth, ennobled by love, dominated by mercy, and restrained by fairness--justice. The spirit which my Father and I shall send into the world is not only the Spirit of Truth but also the spirit of idealistic beauty.
 
-"When God's will is your law, you are noble slave subjects; but when you believe in this new gospel of divine sonship, my Father's will becomes your will, and you are elevated to the high position of the free children of God, liberated sons of the kingdom." (Jesus)
+“When God's will is your law, you are noble slave subjects; but when you believe in this new gospel of divine sonship, my Father's will becomes your will, and you are elevated to the high position of the free children of God, liberated sons of the kingdom.” (Jesus)
 
 The kingdom of God in this world is the supreme desire to do the will of God, the unselfish love of man which yields the good fruits of improved ethical and moral conduct.
 
@@ -227,45 +227,45 @@ Though we cannot see God, we can know him. And by daily living the will of the F
 
 In the coming kingdom, be not mindful of those things which foster your anxiety but rather at all times concern yourselves only with doing the will of the Father who is in heaven. (1525)
 
-The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the "will of the Father in heaven."
+The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the “will of the Father in heaven.”
 
 # All Urantia is Waiting!!
 Upon Whom? For What?
 
-"All Urantia is waiting for the proclamation of the ennobling message of Michael, unencumbered by the accumulated doctrines and dogmas of nineteen centuries of contact with the religions of evolutionary origin. The hour is striking for presenting to Buddhism, to Christianity, to Hinduism, even to the peoples of all faiths, not the gospel about Jesus, but the living, spiritual reality of the gospel of Jesus." (1041)
+“All Urantia is waiting for the proclamation of the ennobling message of Michael, unencumbered by the accumulated doctrines and dogmas of nineteen centuries of contact with the religions of evolutionary origin. The hour is striking for presenting to Buddhism, to Christianity, to Hinduism, even to the peoples of all faiths, not the gospel about Jesus, but the living, spiritual reality of the gospel of Jesus.” (1041)
 
-"Is it I Lord? Are you really waiting upon such as me? Is that really why I have the Urantia Book. And surely it cannot be true that we Urantia Book readers are expected to carry your message to intolerant, unreceptive, backward people whose minds are closed to any message but their own?"
+“Is it I Lord? Are you really waiting upon such as me? Is that really why I have the Urantia Book. And surely it cannot be true that we Urantia Book readers are expected to carry your message to intolerant, unreceptive, backward people whose minds are closed to any message but their own?”
 
 But what of all those exciting concepts about us book readers? Are we not a very special emergency group chosen to be transferred to some new planet when these 'other people' have made this one uninhabitable? Or are we not a special gene pool chosen to be the survivors of an atomic holocaust to found a new and superior race? And are we not all elite members of the Reserve Corps of Destiny?
 
 And what of all those UFO's specially prepared for us? Was that just a rumor? Is our destiny simply to be here, living a mundane life in your image to demonstrate goodness to people who wont listen? Surely there must be something better for special people like us to do?
 
-Unfortunately or fortunately, depending on your self esteem, the answer is, "Precisely my son!  You can find it in the book if you take the trouble to look"
+Unfortunately or fortunately, depending on your self esteem, the answer is, “Precisely my son!  You can find it in the book if you take the trouble to look”
 
 It will be interesting to watch developments in countries such as in the South Americas among those who have only recently been able to read the book in their own language. Will they make the same mistakes? Or will they be better suited for the task set for us? The book says:
 
-"The living Jesus is the only hope of a possible unification of Christianity. The true church--the Jesus brotherhood--is invisible, spiritual, and is characterized by unity, not necessarily by uniformity."
+“The living Jesus is the only hope of a possible unification of Christianity. The true church--the Jesus brotherhood--is invisible, spiritual, and is characterized by unity, not necessarily by uniformity.”
 
 For goodness sake--how is the Urantia movement ever going to demonstrate unity to a disunited Christian church. Maybe we are an improvement--we only persecute and sue those who do not obey. We do not burn them at the stake. Not yet anyhow. But what if it was legal??
 
 
-It's time for a mood change: "Jesus never faltered in his faith. He was immune to disappointment and impervious to persecution. He was untouched by apparent failure." So let's be positive and discover our real task.
+It's time for a mood change: “Jesus never faltered in his faith. He was immune to disappointment and impervious to persecution. He was untouched by apparent failure.” So let's be positive and discover our real task.
 
-"Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men are the sons of God; and it shall consist in the life which you will live among men--the actual and living experience of loving men and serving them, even as I have loved and served you. Let faith reveal your light to the world; let the revelation of truth open the eyes blinded by tradition; let your loving service effectually destroy the prejudice engendered by ignorance. By so drawing close to your fellow men in understanding sympathy and with unselfish devotion, you will lead them into a saving knowledge of the Father's love." (2043)
+“Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men are the sons of God; and it shall consist in the life which you will live among men--the actual and living experience of loving men and serving them, even as I have loved and served you. Let faith reveal your light to the world; let the revelation of truth open the eyes blinded by tradition; let your loving service effectually destroy the prejudice engendered by ignorance. By so drawing close to your fellow men in understanding sympathy and with unselfish devotion, you will lead them into a saving knowledge of the Father's love.” (2043)
 
-The detail of Jesus' God-revealing life is supplied in Part 4. The revelators tell us it is important--in fact there is nothing in this whole world of more value. "To 'follow Jesus' means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it." (2090)
+The detail of Jesus' God-revealing life is supplied in Part 4. The revelators tell us it is important--in fact there is nothing in this whole world of more value. “To 'follow Jesus' means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.” (2090)
 
 How can we make a start on this mission that has been allocated to us. We cannot take over the Christian churches, we cannot sack their clergy, and telling them where they are wrong will only breed defensiveness and retaliation. There are some timely warnings in the book about past happenings that still apply to day.
 
-One was the failure of the Melchizedek missionaries. "Melchizedek had warned his followers to teach about the one God, the Father and Maker of all, and to preach only the gospel of divine favor through faith alone. But it has often been the error of the teachers of new truth to attempt too much, to attempt to supplant slow evolution by sudden revolution." (1043)
+One was the failure of the Melchizedek missionaries. “Melchizedek had warned his followers to teach about the one God, the Father and Maker of all, and to preach only the gospel of divine favor through faith alone. But it has often been the error of the teachers of new truth to attempt too much, to attempt to supplant slow evolution by sudden revolution.” (1043)
 
-Another concerned the incredible Ikhnaton of Egyptian history: "The weakness of Ikhnaton's doctrine lay in the fact that he proposed such an advanced religion that only the educated Egyptians could fully comprehend his teachings." (1048)
+Another concerned the incredible Ikhnaton of Egyptian history: “The weakness of Ikhnaton's doctrine lay in the fact that he proposed such an advanced religion that only the educated Egyptians could fully comprehend his teachings.” (1048)
 
 The religion of The Urantia Book is by far the most advanced that has ever been available to us. It is far too advanced for the vast majority of people on Earth. So what can we do? First recognize the Melchizedek missionaries' mistake--they tried for too much, too quickly. Then recognize Ikhnaton's mistake--and keep it simple.
 
 To commence our mission, besides our actual life in the imitation of Jesus that we ourselves must lead, two things only are essential. The first is to help people understand that the Spirit of the Father really does indwell us as our helper and guide--and seeks a personal relationship with each individual. The second is that the external expression of our religious belief  must come through our service to the eternal (rather than immediate) welfare of our brothers and sisters.
 
-But how? For the first thirty five years of his life, Jesus solved this problem, not through organized group service, or by addressing crowds, but by serving "as he passed by." Once when asked why he had not become a public teacher, he responded that he was on his way to Rome and that was enough for the day. "My tomorrow is wholly in the hands of my Father in heaven," he said. Only after he became aware of his divinity did Jesus embark upon a teaching mission to the multitudes.
+But how? For the first thirty five years of his life, Jesus solved this problem, not through organized group service, or by addressing crowds, but by serving “as he passed by.” Once when asked why he had not become a public teacher, he responded that he was on his way to Rome and that was enough for the day. “My tomorrow is wholly in the hands of my Father in heaven,” he said. Only after he became aware of his divinity did Jesus embark upon a teaching mission to the multitudes.
 
 If we are to follow Jesus then, for the main part, our service must be quietly inconspicuous, on a  personal and individual basis, and wholly in the hands of our indwelling Father-Spirit.
 
@@ -273,9 +273,9 @@ Nor is it essential that we should be seeking to promote The Urantia Book. The s
 
 There are many verses in the New Testament that tell of God's indwelling. A few are appended.
 
-"Surely you know that you are God's temple, and that God's Spirit dwells within you." (1 Cor. 3: 16)
-"If we love one another, God dwells in us and his love is perfected in us." (1 John 4:12)
-"But you live not in the flesh but in the spirit if it so be that God dwells in you." (Romans 8: 9) 
+“Surely you know that you are God's temple, and that God's Spirit dwells within you.” (1 Cor. 3: 16)
+“If we love one another, God dwells in us and his love is perfected in us.” (1 John 4:12)
+“But you live not in the flesh but in the spirit if it so be that God dwells in you.” (Romans 8: 9) 
 
 # What can one believe?
 
@@ -302,9 +302,9 @@ The only way to discover how such a device might work is to find out what input 
 
 The answer to this problem is important. It is that for all such devices for which a simplest operating mechanism can be devised, there is an infinity of more complex mechanisms that would  give the same results. Thus there is no single, unique solution to these Black Box problems.
 
-This Black Box concept immediately defines a whole range of interesting and important human problems for which the scientific method has little or no applicability. One of these is, "Does God exist?" There is no way by which a laboratory test or an experiment can be devised that will effectively test this hypothesis and be repeatable in the hands of others--God's existence is a Black Box problem that cannot be opened for experimentation.
+This Black Box concept immediately defines a whole range of interesting and important human problems for which the scientific method has little or no applicability. One of these is, “Does God exist?” There is no way by which a laboratory test or an experiment can be devised that will effectively test this hypothesis and be repeatable in the hands of others--God's existence is a Black Box problem that cannot be opened for experimentation.
 
-Miracles come into a similar category, "Are they possible?" Within the applicability of its methodology, science cannot give a definitive answer. Any answer given can only be a subjective opinion. However, to a statement such as, "The universe came into being between 6 and 10,000 years ago," because of the overwhelming scientific evidence to the contrary, the opinion of all real scientists would have to be, "No." For true science, the statement is simply irrational.
+Miracles come into a similar category, “Are they possible?” Within the applicability of its methodology, science cannot give a definitive answer. Any answer given can only be a subjective opinion. However, to a statement such as, “The universe came into being between 6 and 10,000 years ago,” because of the overwhelming scientific evidence to the contrary, the opinion of all real scientists would have to be, “No.” For true science, the statement is simply irrational.
 
 The Black Box concept can also help when considering what cannot be answered with any high degree of certainty. The Big Bang is an example of such a Black Box situation. No matter how ingenious our physicists are in inventing ways and means by which such an event might become a feasible proposition, there is no way of opening the Box and demonstrating what actually did happen. For such problems we can erect hypotheses about how they could have occurred, but we will never be able to state scientifically, that this is how they did happen.
 
@@ -316,19 +316,19 @@ Briefly stated as a problem solving procedure, the Occam's razor principle is to
 
 So as to lessen our possible confusion concerning the foundation of our religious beliefs, many may find it useful to utilize the Occam's razor principle to help to establish a minimal system of essential basic axioms for a belief system.
 
-In considering the beginning of all things we have only two basic propositions, one that thought of some kind was involved, or "all that is" arose spontaneously from nothingness. Choosing this latter hypothesis would automatically generate other difficult problems. For example, we are thinking, conscious beings. How did such properties arise from nothingness?
+In considering the beginning of all things we have only two basic propositions, one that thought of some kind was involved, or “all that is” arose spontaneously from nothingness. Choosing this latter hypothesis would automatically generate other difficult problems. For example, we are thinking, conscious beings. How did such properties arise from nothingness?
 
-However, if we allow thought itself to be involved in the generation of "all that is," we have a built-in explanation for our own thinking and consciousness. And so, following the Occam's razor principles we choose the simpler of the two. One way of stating our choice is:
+However, if we allow thought itself to be involved in the generation of “all that is,” we have a built-in explanation for our own thinking and consciousness. And so, following the Occam's razor principles we choose the simpler of the two. One way of stating our choice is:
 
 God is the one self-caused fact existent in the whole of reality, hence must be the source and substance of all that is.
 
-Obviously if this God is the source of all that is, then God preceded all that is, including time. That conclusion gives us an escape hatch from all those now inapplicable time-related questions like "Who made God?" For before there was time, there was only the infinite, eternal "now"--and such questions are irrelevant.
+Obviously if this God is the source of all that is, then God preceded all that is, including time. That conclusion gives us an escape hatch from all those now inapplicable time-related questions like “Who made God?” For before there was time, there was only the infinite, eternal “now”--and such questions are irrelevant.
 
 In order to keep our theology simple we have need of one more axiom, and propose this:
 
-"God is perfect goodness."
+“God is perfect goodness.”
 
-Given God's perfect goodness, the next most important question every individual must ask is, "what does God require of me?" And the simplest possible answer is that God would want me to be like him--good. Why? Well, if God did not want that of me, then I could make life miserable for others. Hence there would have to be another God whose goodness is superior to a God who does not require that I should aspire to being good.
+Given God's perfect goodness, the next most important question every individual must ask is, “what does God require of me?” And the simplest possible answer is that God would want me to be like him--good. Why? Well, if God did not want that of me, then I could make life miserable for others. Hence there would have to be another God whose goodness is superior to a God who does not require that I should aspire to being good.
 
 If I have the choice of wanting to be like God or not to be like him, then obviously I have free will. What would a world be like in which all us were created perfectly good--and could be nothing else but perfectly good? Unfortunately the answer to that question is that if we had no free will to choose goodness, we would be automata, pre-programmed to respond in fixed ways with no chance of doing otherwise.
 
@@ -346,12 +346,12 @@ And because we know that our God is perfectly good, we also know that the eterna
 
 # Become more God-like? How?
 
-The following suggestion comes from Islamic Sufi literature in which it is known by the term, "our God-ideal." It states: "The reality of God is beyond human comprehension. It is also a mystery to our thinking. However, it remains factual that to develop our relationship with God, we must have some kind imagery, some kind of mind-picture of God, who he is and what he is.
+The following suggestion comes from Islamic Sufi literature in which it is known by the term, “our God-ideal.” It states: "The reality of God is beyond human comprehension. It is also a mystery to our thinking. However, it remains factual that to develop our relationship with God, we must have some kind imagery, some kind of mind-picture of God, who he is and what he is.
 
 "One such image is the 'God-ideal'--which is the most uplifting, most inspiring picture of God that we can conjure up in our minds that accords with our current understanding of God and his creation.
 
-"Of course this 'God-ideal' is not the reality of God, but merely the product of human imagining. It  is different for each individual--an image that will evolve and grow, bringing us nearer to God as our understanding evolves and grows."
+“Of course this 'God-ideal' is not the reality of God, but merely the product of human imagining. It  is different for each individual--an image that will evolve and grow, bringing us nearer to God as our understanding evolves and grows.”
 
-While it is a valuable concept to help each individual evolve and grow spiritually, for those who indulge in some appropriate group activity, this Sufi ideal may have additional potential. For example, if group members wrote down and read out their own concept of an "ideal God," and this same group activity was repeated at appropriate  intervals, each member would gain some measure of their own growth in understanding of God, and at the same time receive the stimulus of interaction with other like-minded individuals.
+While it is a valuable concept to help each individual evolve and grow spiritually, for those who indulge in some appropriate group activity, this Sufi ideal may have additional potential. For example, if group members wrote down and read out their own concept of an “ideal God,” and this same group activity was repeated at appropriate  intervals, each member would gain some measure of their own growth in understanding of God, and at the same time receive the stimulus of interaction with other like-minded individuals.
 
 It may be worth a try?

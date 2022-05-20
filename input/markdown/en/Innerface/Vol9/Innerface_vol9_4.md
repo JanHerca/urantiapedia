@@ -30,7 +30,7 @@ To material, evolutionary, finite creatures, a life predicated on the living of 
 
 Such a Father-like life is one predicated on truth, sensitive to beauty, and dominated by goodness. And such a God-knowing person is inwardly illuminated by worship and outwardly devoted to the wholehearted service of the universal brotherhood of all personalities—a service ministry which is filled with mercy and motivated by love, while all these life qualities are unified in the evolving personality on ever-ascending levels of cosmic wisdom, self-realization, God-finding, and Father worship.
 
-And we know already where Urantia is heading—for "the revelation of God to the world, in and through Jesus, shall not fail."
+And we know already where Urantia is heading—for “the revelation of God to the world, in and through Jesus, shall not fail.”
 
 ## All things work together for good—despite
 
@@ -42,7 +42,7 @@ The mercy delays of time are by the mandate of the free will of the Creators. Th
 
 To realize providence in time, mankind must accomplish the task of achieving perfection. But the individual can even now foretaste this providence in its eternity meanings as each ponders the universe fact that all things, be they good or evil, work together for the advancement of God-knowing mortals in the quest for the Father of all.
 
-Said Jesus, "I have absolute confidence in my heavenly Father's overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me; I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that the entire universe is friendly to me—this all-powerful truth I insist on believing with a wholehearted trust in spite of all appearances to the contrary."
+Said Jesus, “I have absolute confidence in my heavenly Father's overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me; I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that the entire universe is friendly to me—this all-powerful truth I insist on believing with a wholehearted trust in spite of all appearances to the contrary.”
 
 ## About Certainty
 
@@ -50,9 +50,9 @@ Prior to Jesus' bestowal his brother Creator-Son, Immanuel, advised: "In this be
 
 "Just as your mortal sons and daughters are entirely dependent upon you for safe conduct throughout their universe career, so must you be wholly dependent upon the Paradise Father for similar safe conduct.
 
-"By doing so, when you have finished the bestowal experience, you will know in vert truth the full meaning and the rich significance of that same faith trust that you so unvaryingly require your mortal children to master."
+“By doing so, when you have finished the bestowal experience, you will know in vert truth the full meaning and the rich significance of that same faith trust that you so unvaryingly require your mortal children to master.”
 
-Immanuel added, "After you are sufficiently self-conscious of your divine identity, I council you to assume the additional task of terminating the Lucifer rebellion, and to do this as the 'Son of Man'—a wholly mortal creature of the realm."
+Immanuel added, “After you are sufficiently self-conscious of your divine identity, I council you to assume the additional task of terminating the Lucifer rebellion, and to do this as the 'Son of Man'—a wholly mortal creature of the realm.”
 
 This adds up to Jesus' bestowal life being lived wholly as a normal human being but in total faith-trust in God—at least until after his baptism when he began to become conscious of his divinity.
 
@@ -66,7 +66,7 @@ True and genuine inward certainty does not in the least fear outward analysis, n
 
 No person is at any time disturbed by a neighbor's attitude when that person has perfect confidence in the truth of that which is wholeheartedly believed. Courage is the confidence of thoroughgoing honesty about those things which one professes to believe.
 
-But long before reaching Havona, the ascendant children of time have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. Long since, the battle cry of these pilgrims became: "In liaison with God, nothing—absolutely nothing—is impossible."
+But long before reaching Havona, the ascendant children of time have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. Long since, the battle cry of these pilgrims became: “In liaison with God, nothing—absolutely nothing—is impossible.”
 
 ## Good and evil
 
@@ -74,9 +74,9 @@ It is not possible that the Spirit could have more of goodness than the Father s
 
 Science is only satisfied with first causes, religion with supreme personality, and philosophy with unity. Revelation affirms that these three are one and that all are good. The eternal real is the good of the universe and not the time illusions of space evil. In the spiritual experience of all personalities, always is it true the real is good and the good is real.
 
-"Why do you call me good? None is good but God," (Jesus)
+“Why do you call me good? None is good but God,” (Jesus)
 
-The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the "will of the Father in heaven." Jesus' God was at one and the same time "The Holy One of Israel" and "The living and loving Father in heaven."
+The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the “will of the Father in heaven.” Jesus' God was at one and the same time “The Holy One of Israel” and “The living and loving Father in heaven.”
 
 Sin is an experience of creature consciousness; it is not a part of God-consciousness.
 
@@ -88,7 +88,7 @@ The existence of God is utterly beyond all possibility of demonstration except f
 
 If mortal beings are wholeheartedly spiritually motivated, unreservedly consecrated to the doing of the Father's will, then, since they are so certainly and so effectively spiritually endowed by the indwelling and divine God-Spirit, there cannot fail to materialize in the individual's experience the sublime consciousness of knowing God and the supernal assurance of surviving for the purpose of finding God by the progressive experience of becoming more and more like him.
 
-The recognition of spiritual values is an experience which is super-ideational. There is no word in any human language which can be employed to designate this "sense," "feeling," "intuition," or "experience" which we have elected to call God-consciousness. The spirit of God that indwells us is not personal—it is pre-personal—but this Monitor presents a value, exudes a flavor of divinity, which is personal in the highest and infinite sense. If God were not at least personal, he could not be conscious, and if not conscious, then would he be infrahuman.
+The recognition of spiritual values is an experience which is super-ideational. There is no word in any human language which can be employed to designate this “sense,” “feeling,” “intuition,” or “experience” which we have elected to call God-consciousness. The spirit of God that indwells us is not personal—it is pre-personal—but this Monitor presents a value, exudes a flavor of divinity, which is personal in the highest and infinite sense. If God were not at least personal, he could not be conscious, and if not conscious, then would he be infrahuman.
 
 Consciousness of presence of your indwelling God-Spirit is consciousness of God's presence. Its eternal fusion with the evolutionary soul of man is the factual experience of eternal union with God as a universe associate of Deity.
 
@@ -106,13 +106,13 @@ Fail not to remember that the will of God can be done in any earthly occupation.
 
 The kingdom of God in this world—consists in the supreme desire to do the will of God and the unselfish love of mankind which yields the good fruits of improved ethical and moral conduct.
 
-"When God's will is your law, you are noble slave subjects; but when you believe in this new gospel of divine sonship, my Father's will becomes your will, and you are elevated to the high position of the free children of God, liberated sons of the kingdom." (Jesus)
+“When God's will is your law, you are noble slave subjects; but when you believe in this new gospel of divine sonship, my Father's will becomes your will, and you are elevated to the high position of the free children of God, liberated sons of the kingdom.” (Jesus)
 
 Though we cannot see God, we can know him. And by daily living the will of the Father in heaven, we can reveal him to our fellow men.
 
 In the coming kingdom, be not mindful of those things which foster your anxiety but rather at all times concern yourselves ONLY with doing the will of the Father who is in heaven.
 
-The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the "will of the Father in heaven."
+The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the “will of the Father in heaven.”
 
 The will of God does not uniformly prevail in the heart of the God-seeking material mortal, but if the time frame is enlarged beyond the moment to embrace the whole of the first life, then does God's will become increasingly discernible in the spirit fruits which are borne in the lives of the spirit-led children of God.
 
@@ -130,7 +130,7 @@ Peace in this life, survival in death, perfection in the next life, service in e
 
 This choosing of the Father's will is the spiritual finding of the spirit Father by mortal man.
 
-This choosing does not so much consist in the negation of creature will—"Not my will but yours be done"—as it consists in the creature's positive affirmation: "It is my will that your will be done."
+This choosing does not so much consist in the negation of creature will—“Not my will but yours be done”—as it consists in the creature's positive affirmation: “It is my will that your will be done.”
 
 The indwelling God-Spirit cannot lessen the hardships of life as you journey on through this world of toil. The divine indweller can only patiently forbear while you fight the battle of life as it is lived on your planet; but you could, if you only would—as you work and worry, as you fight and toil—permit your valiant Helper to fight with you and for you. You could be so comforted and inspired, so enthralled and intrigued, if you would only allow the Helper constantly to bring forth the pictures of the real motive, the final aim, and the eternal purpose of all this difficult, uphill struggle with the commonplace problems of your present material world.
 
@@ -146,39 +146,39 @@ The reason that our mind is in the box seat is that during the beginning phase o
 
 But how can we be sure that we are serious? All we need to do is to commit ourselves to the doing of God's will. So what can that mean to a finite, material creature?
 
-[There follows some comments from the Papers that bear directly on the meaning of the "will of God:"]
+[There follows some comments from the Papers that bear directly on the meaning of the “will of God:”]
 
 1. The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God…Sharing is Godlike—divine.
 2. The imitation of God is the key to perfection; the doing of his will is the secret of survival and of perfection in survival.
 3. Peace in this life, survival in death, perfection in the next life, service in eternity—all these are achieved (in spirit) NOW when the creature personality consents—chooses—to subject the creature will to the Father's will.
 4. This choosing of the Father's will is the spiritual finding of the spirit Father by mortal man.
-5. This choosing does not so much consist in the negation of creature will—"Not my will but yours be done"—as it consists in the creature's positive affirmation: "It is my will that your will be done."
+5. This choosing does not so much consist in the negation of creature will—“Not my will but yours be done”—as it consists in the creature's positive affirmation: “It is my will that your will be done.”
 
 [But try as we may, we cannot formulate a precise definition nor a set of rules to specify what the will of God actually is. Perhaps it is best described in the answer Jesus once gave to a young inquirer:]
 
-"This was a conference which lasted well into the night, in the course of which the young man requested Jesus to tell him the difference between the will of God and that human mind act of choosing which is also called will. In substance Jesus said: The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the will of God, therefore, is the progressive experience of becoming more and more like God, and God is the source and destiny of all that is good and beautiful and true. The will of man is the way of man, the sum and substance of that which the mortal chooses to be and do. Will is the deliberate choice of a self-conscious being which leads to decision-conduct based on intelligent reflection."
+“This was a conference which lasted well into the night, in the course of which the young man requested Jesus to tell him the difference between the will of God and that human mind act of choosing which is also called will. In substance Jesus said: The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the will of God, therefore, is the progressive experience of becoming more and more like God, and God is the source and destiny of all that is good and beautiful and true. The will of man is the way of man, the sum and substance of that which the mortal chooses to be and do. Will is the deliberate choice of a self-conscious being which leads to decision-conduct based on intelligent reflection.”
 
 ## Living as Jesus lived—Jesus' task
 
 "In entering upon the Urantia bestowal, you have voluntarily divested yourself of all extraplanetary support and special assistance such as might be rendered by any creature of your own creation. As your created sons of Nebadon are wholly dependent upon you for safe conduct throughout their universe careers, so now must you become wholly and unreservedly dependent upon your Paradise Father for safe conduct throughout the unrevealed vicissitudes of your ensuing mortal career. And when you shall have finished this bestowal experience, you will know in very truth the full meaning and the rich significance of that faith-trust which you so unvaryingly require all your creatures to master as a part of their intimate relationship with you as their local universe Creator and Father.
 
-"Throughout your Urantia bestowal you need be concerned with but one thing, the unbroken communion between you and your Paradise Father; and it will be by the perfection of such a relationship that the world of your bestowal, even all the universe of your creation, will behold a new and more understandable revelation of your Father and my Father, the Universal Father of all."
+“Throughout your Urantia bestowal you need be concerned with but one thing, the unbroken communion between you and your Paradise Father; and it will be by the perfection of such a relationship that the world of your bestowal, even all the universe of your creation, will behold a new and more understandable revelation of your Father and my Father, the Universal Father of all.”
 
-"Your great mission to be realized and experienced in the mortal incarnation is embraced in your decision to live a life wholeheartedly motivated to do the will of your Paradise Father, thus to reveal God, your Father, in the flesh and especially to the creatures of the flesh .... Exhibit in your one short life in the flesh, as it has never before been seen in all Nebadon, the transcendent possibilities attainable by a God-knowing human during the short career of mortal existence."
+“Your great mission to be realized and experienced in the mortal incarnation is embraced in your decision to live a life wholeheartedly motivated to do the will of your Paradise Father, thus to reveal God, your Father, in the flesh and especially to the creatures of the flesh .... Exhibit in your one short life in the flesh, as it has never before been seen in all Nebadon, the transcendent possibilities attainable by a God-knowing human during the short career of mortal existence.”
 
 ## Living as Jesus lived—Our task
 
 "This gospel of the kingdom belongs to both Jew and gentile, to rich and poor, to free and bond, to male and female, even to the little children. And you are all to proclaim this gospel of love and truth by the lives which you live in the flesh. You shall love one another with a new and startling affection, even as I have loved you. You will serve mankind with a new and amazing devotion, even as I have served you. And when men see you so love them, and when they behold how fervently you serve them, they will perceive that you have become faith-fellows of the kingdom of heaven, and they will follow after the Spirit of Truth which they see in your lives, to the finding of eternal salvation.
 
-"As the Father sent me into this world, even so now send I you. You are all called to carry the good news to those who sit in darkness. This gospel of the kingdom belongs to all who believe it; it shall not be committed to the custody of mere priests. Soon will the Spirit of Truth come upon you, and he shall lead you into all truth. Go you, therefore, into all the world preaching this gospel, and lo, I am with you always, even to the end of the ages." (Jesus)
+“As the Father sent me into this world, even so now send I you. You are all called to carry the good news to those who sit in darkness. This gospel of the kingdom belongs to all who believe it; it shall not be committed to the custody of mere priests. Soon will the Spirit of Truth come upon you, and he shall lead you into all truth. Go you, therefore, into all the world preaching this gospel, and lo, I am with you always, even to the end of the ages.” (Jesus)
 
-"Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men are the sons of God; and it shall consist in the life which you will live among men—the actual and living experience of loving men and serving them, even as I have loved and served you." (Jesus)
+“Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men are the sons of God; and it shall consist in the life which you will live among men—the actual and living experience of loving men and serving them, even as I have loved and served you.” (Jesus)
 
 If you give your lives truly to the gospel, you shall live by the gospel.
 
 Salvation is the free gift of God, but those who are born of the spirit will immediately begin to show forth the fruits of the spirit in loving service to their fellow creatures. And the fruits of the divine spirit which are yielded in the lives of spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. If professed believers bear not these fruits of the divine spirit in their lives, they are dead; the Spirit of Truth is not in them; they are useless branches on the living vine, and they soon will be taken away.
 
-Jesus had come "to establish and demonstrate a standard of human life for all peoples upon all worlds throughout his entire universe. And this standard approached the highest perfection, even the final goodness of the Universal Father"
+Jesus had come “to establish and demonstrate a standard of human life for all peoples upon all worlds throughout his entire universe. And this standard approached the highest perfection, even the final goodness of the Universal Father”
 
 [Note: Living as Jesus lived must commence in the home or, at least, among those who know us best. To attempt to live as Jesus lived only when we move outside the home heralds that we are really play-acting. And others will soon recognize that our act is a sham, a lie. Jesus was not enamored with hypocrisy.]
 
@@ -228,7 +228,7 @@ Morality is not necessarily spiritual; it may be wholly and purely human, albeit
 
 The purpose of cosmic evolution is to achieve unity of personality through increasing spirit dominance, volitional response to the teaching and leading of the indwelling Spirit of God. (1229)
 
-"Although this gospel of the kingdom never fails to bring great peace to the soul of the individual believer, it will not bring peace on earth until man is willing to believe my teaching wholeheartedly and to establish the practice of doing the Father's will as the chief purpose in living the mortal life." (Jesus)
+“Although this gospel of the kingdom never fails to bring great peace to the soul of the individual believer, it will not bring peace on earth until man is willing to believe my teaching wholeheartedly and to establish the practice of doing the Father's will as the chief purpose in living the mortal life.” (Jesus)
 
 When a person finds God they have found everything.
 
@@ -262,7 +262,7 @@ The Master was teaching these apostles the essentials of truth for an entire age
 
 No wonder these apostles did not fully comprehend the Master's words, for he was projecting to them the plan of a new age.
 
-[There follows 500 pages of text in which the authors must fulfill their potentially vainglorious claim to provide "a high spiritual and inspirational ideal for all mortal beings on all worlds," plus "a plan for a new age on earth." And they succeed—a truly remarkable feat if the authors had been human—but not if they were not. It's food for thought.]
+[There follows 500 pages of text in which the authors must fulfill their potentially vainglorious claim to provide “a high spiritual and inspirational ideal for all mortal beings on all worlds,” plus “a plan for a new age on earth.” And they succeed—a truly remarkable feat if the authors had been human—but not if they were not. It's food for thought.]
 
 ## Revelation
 
@@ -340,7 +340,7 @@ Mortal man is entitled to the enjoyment of physical pleasures and to the satisfa
 
 ## Worship
 
-"The God of worship claims all allegiance or none."
+“The God of worship claims all allegiance or none.”
 
 Worship is for its own sake; prayer embodies a self- or creature-interest element; that is the great difference between worship and prayer. There is absolutely no self-request or other element of personal interest in true worship; we simply worship God for what we comprehend him to be. Worship asks nothing and expects nothing for the worshiper. We do not worship the Father because of anything we may derive from such veneration; we render such devotion and engage in such worship as a natural and spontaneous reaction to the recognition of the Father's matchless personality and because of his lovable nature and adorable attributes.
 
@@ -362,7 +362,7 @@ The prelude to true worship is the practice of the presence of God which eventua
 
 ## Christianity—hopes
 
-What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions! Surely the Christian fellowship of believers will not hesitate to make such adjustments of faith and of practices of living as will enable it to "follow after" the Master in the demonstration of his real life of religious devotion to the doing of his Father's will and of consecration to the unselfish service of man.
+What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions! Surely the Christian fellowship of believers will not hesitate to make such adjustments of faith and of practices of living as will enable it to “follow after” the Master in the demonstration of his real life of religious devotion to the doing of his Father's will and of consecration to the unselfish service of man.
 
 If Christianity could only grasp more of Jesus' teachings, it could do so much more in helping modern man to solve his new and increasingly complex problems.
 
@@ -370,7 +370,7 @@ The hope of modern Christianity is that it should cease to sponsor the social sy
 
 Christian churches of the twentieth century stand as great, but wholly unconscious, obstacles to the immediate advance of the real gospel—the teachings of Jesus of Nazareth.
 
-Christianity is seriously confronted with the doom embodied in one of its own slogans: "A house divided against itself cannot stand." The non-Christian world will hardly capitulate to a sect-divided Christendom. The living Jesus is the only hope of a possible unification of Christianity. The true church—the Jesus brotherhood—is invisible, spiritual, and is characterized by unity, not necessarily by uniformity.
+Christianity is seriously confronted with the doom embodied in one of its own slogans: “A house divided against itself cannot stand.” The non-Christian world will hardly capitulate to a sect-divided Christendom. The living Jesus is the only hope of a possible unification of Christianity. The true church—the Jesus brotherhood—is invisible, spiritual, and is characterized by unity, not necessarily by uniformity.
 
 But the Christianity of even the twentieth century must not be despised. It is the product of the combined moral genius of the God-knowing men of many races during many ages, and it has truly been one of the greatest powers for good on earth, and therefore no man should lightly regard it, notwithstanding its inherent and acquired defects. Christianity still contrives to move the minds of reflective men with mighty moral emotions.
 
@@ -378,7 +378,7 @@ The great hope of Urantia lies in the possibility of a new revelation of Jesus w
 
 Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men.
 
-"The kingdom of God is within you" was probably the greatest pronouncement Jesus ever made, next to the declaration that his Father is a living and loving spirit.
+“The kingdom of God is within you” was probably the greatest pronouncement Jesus ever made, next to the declaration that his Father is a living and loving spirit.
 
 ## Christianity's challenge
 
@@ -410,6 +410,6 @@ The teachers of the religion of Jesus should approach other religions with the r
 
 Christianity is threatened by slow death from formalism, over-organization, intellectualism, and other non-spiritual trends.
 
-However, in the long run we can rely upon two quintessential universe realities: "All things work together for good in those who love God," and from the Urantia revelation,"…the revelation of God to the world, in and through Jesus, shall not fail."
+However, in the long run we can rely upon two quintessential universe realities: “All things work together for good in those who love God,” and from the Urantia revelation,“…the revelation of God to the world, in and through Jesus, shall not fail.”
 
-What is now needed is a volunteer army of truth-seekers who will go "all the way" in living as Jesus lived—first, at home, then abroad—whilst remaining secure in the knowledge that "all things work together for good," and, "the revelation of God to the world, in and through Jesus, shall not fail."
+What is now needed is a volunteer army of truth-seekers who will go “all the way” in living as Jesus lived—first, at home, then abroad—whilst remaining secure in the knowledge that “all things work together for good,” and, “the revelation of God to the world, in and through Jesus, shall not fail.”

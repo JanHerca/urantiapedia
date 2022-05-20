@@ -8,9 +8,9 @@ To be the imaginative work of either a human individual or group, we would need 
 
 However to grant it a revelatory status and some kind of celestial authorship, there are problems. Not the least of these is its error  content--some of which is so obvious that, after considering the mental astuteness elsewhere displayed, one has to acknowledge that inclusion of such error had to be deliberate.
 
-Why? One possible answer is to divert attention away from the revelation and to something of more immediate importance. What that could be is hinted at in the statement, "construct a new and appealing philosophy out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness."
+Why? One possible answer is to divert attention away from the revelation and to something of more immediate importance. What that could be is hinted at in the statement, “construct a new and appealing philosophy out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness.”
 
-Currently there is an urgent need for not just one new philosophy but one for every race, nation, religion, faction, language--each and every barrier that divides us. And all such  philosophies have to be short, sharp, and simple, and based directly upon those revelatory concepts of "cosmic truth, universe beauty, and divine goodness."
+Currently there is an urgent need for not just one new philosophy but one for every race, nation, religion, faction, language--each and every barrier that divides us. And all such  philosophies have to be short, sharp, and simple, and based directly upon those revelatory concepts of “cosmic truth, universe beauty, and divine goodness.”
 
 What a challenge! The new philosophies must not only be short, sharp, and simple, but also suited to the immediate needs of its recipients.
 
@@ -21,9 +21,9 @@ Be aware though that it is not an educated and privileged leadership that consti
 Getting rid of the leaders will not bring on the Brotherhood. There will always be a surfeit of power-hungry malcontents ready to step into any vacancy.
 
 Rather, it is the army of the underprivileged, the poor, the starving, the ignorant, the illiterate, those who hunger for a better share of God's good gifts to the world that could either form a fertile field in which the message of love and respect for one another could take root and flower--or else become recruited for murder and mayhem.
-That this world is not a machine in which we all do as we do because we cannot do otherwise is now a proven fact. Quantum theory has empirically demonstrated the existence of a transcendent reality outside of our time and space that can interact with our world in  intelligent ways. And for this to occur in the way it does, "consciousness" has to be a component of that transcendent reality.
+That this world is not a machine in which we all do as we do because we cannot do otherwise is now a proven fact. Quantum theory has empirically demonstrated the existence of a transcendent reality outside of our time and space that can interact with our world in  intelligent ways. And for this to occur in the way it does, “consciousness” has to be a component of that transcendent reality.
 
-Some call this consciousness "God." The Urantia revelators inform us that God has granted us free will, and this grant is inviolate. We are offered a choice. We can enlist on the side of God by revoking our free will and accepting God's  will in all things--placing ourselves firmly on the pathway of selflessness, tolerance, and love.
+Some call this consciousness “God.” The Urantia revelators inform us that God has granted us free will, and this grant is inviolate. We are offered a choice. We can enlist on the side of God by revoking our free will and accepting God's  will in all things--placing ourselves firmly on the pathway of selflessness, tolerance, and love.
 
 Or we can choose to let mayhem take its course.   
 
@@ -39,11 +39,11 @@ Imagine a bunch of billiard balls on a perfectly even billiard table. Given Newt
 
 The philosophical import of this kind of thinking took root to such a degree that another French philosopher-scientist, Pierre Laplace, was able to propose  that if some superior intelligence, at a given instance, was acquainted with all the forces by which nature is animated, and at some initial moment also knew the position and velocity of each and every particle of matter then, to that superior-intelligence, neither the past nor the future of the universe would be uncertain.
 
-Laplace also wrote a highly successful book on celestial mechanics. This caught the attention of his emperor, Napolean, who asked  why it was that he made no mention of God--to which Laplace responded, "Your majesty, I have no need of that hypothesis." In a fully deterministic Newtonian world,  God was no longer needed!
+Laplace also wrote a highly successful book on celestial mechanics. This caught the attention of his emperor, Napolean, who asked  why it was that he made no mention of God--to which Laplace responded, “Your majesty, I have no need of that hypothesis.” In a fully deterministic Newtonian world,  God was no longer needed!
 
 To these principles of objectivity and determinism in classical physics, a third was added by Einstein. This came as a consequence of his declaration that the velocity of light was a limiting velocity in a vacuum--the velocity of light was a constant that no material thing could exceed.
 
-The implications of this speed limit were far reaching, perhaps none being more important than that all interactions between things material in space-time must travel through space one piece at a time and with finite velocity. Hence all such interactions must be "localized"--they must occur within the boundaries set by the speed of light. This fact has been given the name, 'the principle of locality.' Later we will learn that certain important quantum events ignore the principle and can occur instantaneously, even if at opposite ends of the universe. Such events are said to be 'non-local.'
+The implications of this speed limit were far reaching, perhaps none being more important than that all interactions between things material in space-time must travel through space one piece at a time and with finite velocity. Hence all such interactions must be “localized”--they must occur within the boundaries set by the speed of light. This fact has been given the name, 'the principle of locality.' Later we will learn that certain important quantum events ignore the principle and can occur instantaneously, even if at opposite ends of the universe. Such events are said to be 'non-local.'
 
 For about 200 years Cartesian dualism went more or less unchallenged. But then scientists, in particular, began to challenge the mind side of dualism, substituting the principle of material monism, which means there is only one central principle, in this case, matter. Hence, mind, consciousness, and spirit were relegated to being epiphenomena, existing only as derivatives of matter.
 
@@ -59,7 +59,7 @@ Perhaps our first intimations of the peculiarities of the quantum world came in 
 
 Young's concept of the underlying wave characteristics of light dominated physics for the next one hundred years. But then along came the young Einstein to throw a hammer in the works with his interpretation of the so-called photoelectric effect which implied that light also behaved as if it consisted of particles. It turned out that both Young and Einstein were right--light does behave both as a wave and as a particle.
 
-The light particle is given the name "photon." It is also determined to be mass-less. So what about other sub-atomic particles, those that do have mass, and even electric charge, such as the electron for example?
+The light particle is given the name “photon.” It is also determined to be mass-less. So what about other sub-atomic particles, those that do have mass, and even electric charge, such as the electron for example?
 
 Experiments of the same kind as Young's in which a narrow beam of electrons was passed through two parallel slits and then onto a screen gave the same result as Young obtained--an interference pattern of narrow bars interspersed by gaps. So electrons too, appear to have wave-like characteristics. However when electrons were used, it was also technically possible to slow their presentation rate until only one electron at a time was presented.
 
@@ -71,19 +71,19 @@ Image here
 
 # Delayed choice equals 'necromancy?'
 
-In view of the surprising results already obtained it was inevitable that, sooner or later, someone would pose the apparently stupid question, "What would happen if the second slit was not opened until its photon or electron had already gone through the alternative open slit."
+In view of the surprising results already obtained it was inevitable that, sooner or later, someone would pose the apparently stupid question, “What would happen if the second slit was not opened until its photon or electron had already gone through the alternative open slit.”
 
 The actual result from testing this hypothesis is illustrated below. With just one slit open, a single bar was obtained (not shown).
 
 When the second slit was opened but only after the photon had already passed through and beyond the first slit, the single dots gradually built up into the bars of the interference pattern. This remained true when any signal to open the second slit would need to exceed the speed of light. Thus any such signal would need to be non-local. (ref. Hellmuth at al, 1986)
 
-Labelled 'necromancy' (utilizing information from the dead) when first proposed, the actual  experimental proof for "non-locality" had to await development of appropriate technology before becoming achievable. In the meantime advances both in theory and technology already indicated what the probable result would be.
+Labelled 'necromancy' (utilizing information from the dead) when first proposed, the actual  experimental proof for “non-locality” had to await development of appropriate technology before becoming achievable. In the meantime advances both in theory and technology already indicated what the probable result would be.
 
 Image here
 
 # Hidden variables and non-locality
 
-The critical advance in theory came from Irish physicist, John Bell, whose 1965 theorem, among other important predictions, showed that in order to be compatible with quantum theory, hidden variables must be non-local. This was contrary to the criticism of quantum theory by Einstein who insisted that the theory was incomplete, that there must be undiscovered "hidden variables" that would complete the theory and make its extraordinary results rational. To his dying day, Einstein would not accept the concept of non-local signals. For him, all had to be predictable, determinist, and within the boundaries set by local signaling, the speed of light being the upper limit.
+The critical advance in theory came from Irish physicist, John Bell, whose 1965 theorem, among other important predictions, showed that in order to be compatible with quantum theory, hidden variables must be non-local. This was contrary to the criticism of quantum theory by Einstein who insisted that the theory was incomplete, that there must be undiscovered “hidden variables” that would complete the theory and make its extraordinary results rational. To his dying day, Einstein would not accept the concept of non-local signals. For him, all had to be predictable, determinist, and within the boundaries set by local signaling, the speed of light being the upper limit.
 
 Einstein was long dead before technology advanced sufficiently to permit the concept of non-locality to be put to empirical testing.
 
@@ -97,17 +97,17 @@ Thus the criticism by Einstein and co-workers, Podolsky and  Rosen, regarding hi
 
 The Aspect experiment has since been confirmed by independent workers, one such group being in Switzerland where the optical fiber system between two villages separated by a high mountain was utilized. The distance between them was about 15 kilometers. But that was some time back. The record is probably very much larger at the present.
 
-Among the many confirmatory experiments demonstrating the reality of non-local effects is a group of optical tests that "raced" twin photons to a target, one of which had to tunnel through a barrier placed in its path. Curiously, the photon tunneling through the barrier arrived at the target before its twin (which traveled at the speed of light.) For the twin that tunneled through the barrier, the average tunneling velocity was 1.7 times that of light, so a "non-local" effect. A second curiosity was that the twin doing the tunneling was able to "sense" the far side of the barrier and cross it in the same amount of time, no matter how thick the barrier was made. (see Chiao et al. 1993)
+Among the many confirmatory experiments demonstrating the reality of non-local effects is a group of optical tests that “raced” twin photons to a target, one of which had to tunnel through a barrier placed in its path. Curiously, the photon tunneling through the barrier arrived at the target before its twin (which traveled at the speed of light.) For the twin that tunneled through the barrier, the average tunneling velocity was 1.7 times that of light, so a “non-local” effect. A second curiosity was that the twin doing the tunneling was able to “sense” the far side of the barrier and cross it in the same amount of time, no matter how thick the barrier was made. (see Chiao et al. 1993)
 
-Query: how does a mere photon "sense" the thickness of a barrier?
+Query: how does a mere photon “sense” the thickness of a barrier?
 
 Image here
 
 # Non-locality--its supreme importance
 
-Quantum theory has many strange quirks that are rightly labeled "out of this world." Of these, surely the most significant for us human beings is the Bell-Aspect proof of the reality of non-locality--that is a transcendent arena of reality outside of space-time--the existence of which constitutes the ultimate challenge to materialism.
+Quantum theory has many strange quirks that are rightly labeled “out of this world.” Of these, surely the most significant for us human beings is the Bell-Aspect proof of the reality of non-locality--that is a transcendent arena of reality outside of space-time--the existence of which constitutes the ultimate challenge to materialism.
 
-Carried to a logical conclusion, non-locality implies the existence of a transcendent universal consciousness (i.e how does a mere photon "sense" the thickness of a barrier?)--and that consciousness is both within and beyond this material world. For material realists the alternative interpretations are:
+Carried to a logical conclusion, non-locality implies the existence of a transcendent universal consciousness (i.e how does a mere photon “sense” the thickness of a barrier?)--and that consciousness is both within and beyond this material world. For material realists the alternative interpretations are:
 
 
 To accept that there are  faster-than-light signals in a transcendent realm in which hidden variables exist.
@@ -130,7 +130,7 @@ These concepts were slowly developed by physicists such as Heisenberg, Dirac, an
 
 The revolution in all this was that the change over from classical to quantum physics introduced uncertainty, for we can no longer think in terms of the absolute position and momentum of any object. Now, and presumably forevermore, we can only provide a probability estimate of such parameters, and these must be in accord with the Heisenberg uncertainty principle which states that the more accurately we know the position of an object, the less we can know about its momentum or velocity--and vice versa.
 
-These are "uncertain" times in which the atom and its sub-atomic components belong to the quantum world--a world of components that exist in states of "being neither this nor that," and are dislodged from such states only when observed.
+These are “uncertain” times in which the atom and its sub-atomic components belong to the quantum world--a world of components that exist in states of “being neither this nor that,” and are dislodged from such states only when observed.
 
 Image here
 
@@ -150,9 +150,9 @@ Is our science compatible with an appropriate form of idealism (based on ideas),
 
 At least superficially, there is a resemblance between the answers to key questions given by quantum physics and those given by Zen masters:
 
-"What is Buddha?" asked a student monk. "The mind is Buddha," answered the master. "Then what is mind?" asked another student. "The mind is not Buddha," responded the master.
+“What is Buddha?” asked a student monk. “The mind is Buddha,” answered the master. “Then what is mind?” asked another student. “The mind is not Buddha,” responded the master.
 
-Imagine a student asking the ghost of physicist Neils Bohr if an electron is a particle. "It is," is his likely reply. Another student asks him, "Is an electron a wave?" Again Bohr responds, "It is." "Where can we find such a wave?" asks another. "Beyond time and space," says Bohr. "And where is that?" is the next question--to which Bohr enigmatically answers, "Where the wave is."
+Imagine a student asking the ghost of physicist Neils Bohr if an electron is a particle. “It is,” is his likely reply. Another student asks him, “Is an electron a wave?” Again Bohr responds, “It is.” “Where can we find such a wave?” asks another. “Beyond time and space,” says Bohr. “And where is that?” is the next question--to which Bohr enigmatically answers, “Where the wave is.”
 
 When we fire electrons, one at a time through parallel slits, at first single hits register on our screen--which is consistent with the electron as a particle. But if we fire thousands of single electrons, one at a time, through the same slits, we get an interference pattern--which is consistent with the electron as a wave. This  wave aspect persists, even for a single electron--a wavicle? Where is this wave aspect before the thousands of other single electrons were fired, before the interference pattern commenced to register? It never manifests in ordinary space, so where was it hiding and how does it manifest as diffraction only after the event?
 
@@ -162,21 +162,21 @@ Decisions and who makes them (continued)
 
 If we wish to observe the single electron of a hydrogen atom, we can only do so by collapsing its wave form and observing it as a particle. As soon as we cease observing it commences to spread out probabilistically in accordance with the Schrodinger equation. Where does it go? Wherever that may be, the moment we again choose to observe it, it collapses instantly.
 
-According to physicists, the collapse of such a wave is just too rapid to be within the limits set by the speed of light--so it cannot be within our space-time. So where was it? Heisenberg named its location "potentia," a word which he borrowed from Aristotle. To be in "potentia" is to be in a transcendent domain that appears to be conceptually identical with "non-locality" as defined by the Bell-Aspect work.
+According to physicists, the collapse of such a wave is just too rapid to be within the limits set by the speed of light--so it cannot be within our space-time. So where was it? Heisenberg named its location “potentia,” a word which he borrowed from Aristotle. To be in “potentia” is to be in a transcendent domain that appears to be conceptually identical with “non-locality” as defined by the Bell-Aspect work.
 
-Idealists also consider that to be non-local is to be in the domain of "consciousness," which, for them, is also the "ground of all being"--a domain which is "original, self-contained, and constitutive of all things, manifesting itself as the subject that chooses, experiences what it chooses, and which collapses the wave function in the presence of brain-minded awareness."
+Idealists also consider that to be non-local is to be in the domain of “consciousness,” which, for them, is also the “ground of all being”--a domain which is “original, self-contained, and constitutive of all things, manifesting itself as the subject that chooses, experiences what it chooses, and which collapses the wave function in the presence of brain-minded awareness.”
 
-Quantum theory then, when interpreted according to idealist metaphysics is paving the way for an idealist science in which consciousness is the "all of being"--and matter and materialism pale into secondary importance.
+Quantum theory then, when interpreted according to idealist metaphysics is paving the way for an idealist science in which consciousness is the “all of being”--and matter and materialism pale into secondary importance.
 
 However a primary contribution of quantum physics to this scenario is that it has positively demonstrated a new dimension, non-locality, showing that there is more to this world than just matter, Einsteinian space-time, and a pre-determined, mechanistic universe.
 
 # Reconciling Realism and Idealism
 
-In what appeared to have been an absurd idea, philosophers Gottfried Leibniz and Bertrand Russell both suggested that the views of realists and idealists can be reconciled if each of us has two heads. Empirical objects, the ordinary objects of our daily lives, would lie outside our "Small Head" to be used or experimented with. But simultaneously these same objects would be theoretical ideas inside of our "Big Head"--which also embraces our "Small Head"--and thus itself becomes an object of empirical scrutiny.
+In what appeared to have been an absurd idea, philosophers Gottfried Leibniz and Bertrand Russell both suggested that the views of realists and idealists can be reconciled if each of us has two heads. Empirical objects, the ordinary objects of our daily lives, would lie outside our “Small Head” to be used or experimented with. But simultaneously these same objects would be theoretical ideas inside of our “Big Head”--which also embraces our “Small Head”--and thus itself becomes an object of empirical scrutiny.
 
-In reality, this "Big Head" does not have to be ours alone, but can be composed of all such Heads. And since this one super Head would hold all of reality within it, we could all be sharing  the one "Big Head."
+In reality, this “Big Head” does not have to be ours alone, but can be composed of all such Heads. And since this one super Head would hold all of reality within it, we could all be sharing  the one “Big Head.”
 
-This concept provides us with two ways of sharing reality. One aspect, all of our small Heads, is "local"--it is within the confines of  Einsteinian space-time with accessibility limited by the speed of light. But Big Head is non-local, instantaneously accessible, and encompasses the experiences of every empirical object, including our Small Heads, our empirical brains.
+This concept provides us with two ways of sharing reality. One aspect, all of our small Heads, is “local”--it is within the confines of  Einsteinian space-time with accessibility limited by the speed of light. But Big Head is non-local, instantaneously accessible, and encompasses the experiences of every empirical object, including our Small Heads, our empirical brains.
 
 Given the existence of both local and non-local aspects of mind, the latter being an organizing principle connecting with brain-mind and local and non-local consciousness, both idealism and realism can be valid--for if brain-mind is an object in a non-local consciousness that encompasses all reality, then what materialists nominate as objective empirical reality is also within this same consciousness.
 
@@ -192,27 +192,27 @@ With idealist science we  have arrived at a science that excludes neither the su
 
 # What says the Urantia Revelation?
 
-(Please note that the words "consciousness" and "mind" are not precisely defined either in philosophy or in the Urantia revelation and tend to be interchangeable.)
+(Please note that the words “consciousness” and “mind” are not precisely defined either in philosophy or in the Urantia revelation and tend to be interchangeable.)
 
 "In the evaluation and recognition of mind it should be remembered that the universe is neither mechanical nor magical; it is a creation of mind) (481)
 
-"Mechanisms do not absolutely dominate the total creation; the universe of universes in toto is mind planned, mind made, and mind administered. But the divine mechanism of the universe of universes is altogether too perfect for the scientific methods of the finite mind of man to discern even a trace of the dominance of the infinite mind. For this creating, controlling, and upholding mind is neither material mind nor creature mind; it is spirit-mind functioning on and from creator levels of divine reality." (481)
+“Mechanisms do not absolutely dominate the total creation; the universe of universes in toto is mind planned, mind made, and mind administered. But the divine mechanism of the universe of universes is altogether too perfect for the scientific methods of the finite mind of man to discern even a trace of the dominance of the infinite mind. For this creating, controlling, and upholding mind is neither material mind nor creature mind; it is spirit-mind functioning on and from creator levels of divine reality.” (481)
 
 
 
-"Cosmic mind is the diversified mind of time and space. Cosmic mind comprises all finite mind levels and coordinates experientially with the evolutionary deity levels of Supreme Mind and transcendentally with the existential levels of absolute mind. Mind always connotes the presence and activity of loving ministry plus varied energy systems, and this is true of all kinds  of mind. Paradise mind is beyond human understanding; It is existential, non-spatial, and non-temporal." (480/481)
+“Cosmic mind is the diversified mind of time and space. Cosmic mind comprises all finite mind levels and coordinates experientially with the evolutionary deity levels of Supreme Mind and transcendentally with the existential levels of absolute mind. Mind always connotes the presence and activity of loving ministry plus varied energy systems, and this is true of all kinds  of mind. Paradise mind is beyond human understanding; It is existential, non-spatial, and non-temporal.” (480/481)
 
-"The Universal Father is the only personality in all the universe who does actually know the number of the stars and planets of space. All the worlds of every universe are constantly within the consciousness of God." (49)
+“The Universal Father is the only personality in all the universe who does actually know the number of the stars and planets of space. All the worlds of every universe are constantly within the consciousness of God.” (49)
 
-"God is possessed of unlimited power to know all things; his consciousness is universal. His personal circuit encompasses all personalities, and his knowledge of even the lowly creatures is supplemented indirectly through the descending series of divine Sons and directly through the indwelling Spirit of the Father." (49)
+“God is possessed of unlimited power to know all things; his consciousness is universal. His personal circuit encompasses all personalities, and his knowledge of even the lowly creatures is supplemented indirectly through the descending series of divine Sons and directly through the indwelling Spirit of the Father.” (49)
 
-"The Universal Father realizes in the fullness of the divine consciousness all the individual experience of the progressive struggles of the expanding minds and the ascending spirits of every entity, being, and personality of the whole evolutionary creation of time and space. And all this is literally true, for "in Him we all live and move and have our being." (29)
+“The Universal Father realizes in the fullness of the divine consciousness all the individual experience of the progressive struggles of the expanding minds and the ascending spirits of every entity, being, and personality of the whole evolutionary creation of time and space. And all this is literally true, for ”in Him we all live and move and have our being." (29)
 
 # Quantum Theory and the Observer
 
 In the experiments of Chaio et al. presented below, the basic set-up utilized a down converter, an instrument that splits a photon into twins having equal energy. These then went to a beam splitter that presented two alternative pathways to a detection system measuring the simultaneous arrival of the twin pair--an event that signalled wave-like behavior.
 
-The addition of a polarizer to only one of the alternative pathways labelled that pathway and immediately destroyed all wave-like properties of the photons. The question then asked was: "what would happen if the information about the marked pathway was left intact while the photons went through polarizer P1, but was destroyed by the P2 polarizers just before arriving at the detection system?" The answer was unequivocal--wave behavior was restored.
+The addition of a polarizer to only one of the alternative pathways labelled that pathway and immediately destroyed all wave-like properties of the photons. The question then asked was: “what would happen if the information about the marked pathway was left intact while the photons went through polarizer P1, but was destroyed by the P2 polarizers just before arriving at the detection system?” The answer was unequivocal--wave behavior was restored.
 
 A more elaborate version of this type of experiment was carried out at the University of Rochester which demonstrated that even when there was no observable difference in the photons arriving at the detection system, if it was even theoretically possible that their pathway could be retraced then that was sufficient to collapse the wave function and bring about particle-like behavior.
 
@@ -220,7 +220,7 @@ Faster than light
 
 The Aspect experiments which confirmed the theoretical results predicted by Bell demonstrated that any signals passing between the twin pair of correlated photons emitted by radio-active calcium must exceed the speed of light.
 
-High tech optical experiments have confirmed this conclusion. To do so, twin photon pairs were raced against one another. After adjusting their tracks to be identical, a barrier was placed across one path to take advantage of the tunneling effect--an effect long used in electronics with the tunneling diode  in which the probability relations for energy distribution permit the occasional electron to surmount "impossible" energy barriers.
+High tech optical experiments have confirmed this conclusion. To do so, twin photon pairs were raced against one another. After adjusting their tracks to be identical, a barrier was placed across one path to take advantage of the tunneling effect--an effect long used in electronics with the tunneling diode  in which the probability relations for energy distribution permit the occasional electron to surmount “impossible” energy barriers.
 
 Interestingly the photon tunnelling through a barrier arrived at its target before its unimpeded twin, the average velocity over many trials being 1.7 times the velocity of light. It was also found that, in the process of tunneling, a photon is somehow able to sense the far side of the barrier and cross it in the same amount of time no matter how thick the barrier may be. Strange, is it not? Is a photon in some way conscious?
 
@@ -230,7 +230,7 @@ Image here
 
 The empirical evidence deriving from quantum theory research has shown that at molecular, atomic, and sub-atomic levels, prior to observation, objects are composed of something indeterminate that is neither wave nor particle, is neither here nor there but is distributed 'who knows where' as a probability distribution that will materialize instantaneously at the behest of an observer. And it does so either as a wave or particle, or a conglomeration of particles depending upon the methodology of the observer.
 
-In their indeterminate format of "neither wave nor particle," such objects may be distributed in, even throughout, the world of space-time, or  alternatively, in a dimension beyond space-time that some refer to as "non-local."
+In their indeterminate format of “neither wave nor particle,” such objects may be distributed in, even throughout, the world of space-time, or  alternatively, in a dimension beyond space-time that some refer to as “non-local.”
 
 Non-local is a zone, dimension, or whatever, in which time appears to be non-existent, a zone of reality that is instantaneously accessible on demand from within space-time.
 
@@ -258,21 +258,21 @@ Classical concepts about the brain-mind system mostly treat the brain itself as 
 
 Importantly, in any individual the causal potency of the brain-mind quantum system arises from non-local consciousness that both collapses the mind's  wave function and experiences the outcome. Objects appear from a transcendent domain of possibility into the domain of manifestation when non-local unitive consciousness collapses their wave function.
 
-However for the collapse to be completed it must be in the presence of an awareness of the brain-mind in order that "measurement" is made. Thus we have a circularity situation--there is no completion of measurement without awareness, but there is no awareness without completion of measurement.
+However for the collapse to be completed it must be in the presence of an awareness of the brain-mind in order that “measurement” is made. Thus we have a circularity situation--there is no completion of measurement without awareness, but there is no awareness without completion of measurement.
 
 To see our way clear of this circularity we can apply quantum measurement theory to the brain-mind. According to von Neumann, the state of a quantum system changes in two ways. The first is by spreading as a wave to become a coherent superpositioning of all the allowed potential states. The second is a discontinuous change in state produced by a measurement thereby reducing the multifaceted existing state to a single actualized facet. That first step is a development of a pool of possibilities and the second, the choice of one of them.
 
 Most physicists view this as a random choice, but according to the idealist interpretation, it is consciousness that does the choosing--a consciousness, with awareness, that can transcend locality to become both non-local and unitive.
 
-Whereas it is our consciousness that chooses  this outcome of the collapse of the quantum state of our brain-mind, nevertheless we remain quite unconscious of the underlying process. And it is this same unconsciousness that leads to our feeling of separateness--the "I" of circularity, self-reference, and tangled hierarchy rather than the "we" of unitive consciousness.
+Whereas it is our consciousness that chooses  this outcome of the collapse of the quantum state of our brain-mind, nevertheless we remain quite unconscious of the underlying process. And it is this same unconsciousness that leads to our feeling of separateness--the “I” of circularity, self-reference, and tangled hierarchy rather than the “we” of unitive consciousness.
 
-Is there a way out from circularity and self-reference? The answer is yes but we must choose to take it. It is the recognition that our consciousness is the same consciousness that is beyond the subject-object split--the consciousness of the source of all consciousness. Some call it "Being;" others call it "God."
+Is there a way out from circularity and self-reference? The answer is yes but we must choose to take it. It is the recognition that our consciousness is the same consciousness that is beyond the subject-object split--the consciousness of the source of all consciousness. Some call it “Being;” others call it “God.”
 
 Of inestimable value for humanity is the fact that quantum physics has provided incontrovertible empirical proof for the existence of transcendent orders of reality about which materialism was in total denial. And in doing so we mortals have been liberated from the rigidity of determinism--and had our minds freed to explore the pathway to belief in a First Cause which, in turn, can lead us to discover the God who is love.
 
 Graph here
 
-# What does the Urantia revelation say about our minds and our contact with "non-locality."
+# What does the Urantia revelation say about our minds and our contact with “non-locality.”
 
 All universe mind is derived initially from the third person of the Trinity--the Infinite Spirit. The general distribution of mind to the universes is as Cosmic Mind, but to an individual universe it is via the Universe Mother Spirit.
 
@@ -342,9 +342,9 @@ Human survival is, in great measure, dependent on consecrating the human will to
 
 # What does it all Mean?
 
-Firstly, we have reviewed the experimental confirmation for the reality of "non-locality" as an established scientific phenomenon existing independently of universe space-time and free from its restrictions such as the limiting velocity imposed by the properties of light.
+Firstly, we have reviewed the experimental confirmation for the reality of “non-locality” as an established scientific phenomenon existing independently of universe space-time and free from its restrictions such as the limiting velocity imposed by the properties of light.
 
-Whereas the strange new properties of non-locality appeared to be confined to the sub-atomic realm, clever technology has now taken quantum strangeness, at the very least, to the molecular level and has fortified the belief of most quantum physicists that it extends to all things including that even ourselves have both "particulate" and wave-like behavior.
+Whereas the strange new properties of non-locality appeared to be confined to the sub-atomic realm, clever technology has now taken quantum strangeness, at the very least, to the molecular level and has fortified the belief of most quantum physicists that it extends to all things including that even ourselves have both “particulate” and wave-like behavior.
 
 Secondly, we have learned that, to be functional, non-locality must often be required to both contain and to make available a wealth of information relevant to the situation under observation. For example, for the delayed choice type of experiment (p. 5), its originator, Nobelist John Wheeler, suggests the experiment could be done using light from a quasar (an exceptionally bright star-like object) that is focused into two beams around a galaxy acting as a gravitational lens (several exist). If done it would be with photons emitted billions of years ago but nevertheless able to exhibit particle or wave behavior at the observer's behest. (Note: this experiment has since been done using quasar 0956+A,B.)
 
@@ -393,11 +393,11 @@ God, being self-existent is also self-explanatory. God actually lives within eve
 
 # The Earth-Moon System
 
-There has been some criticism of an article in the July-August issue of Innerface regarding our interpretation of the revelators' use of the words "mass" and "size" in their description of the growth over time of the earth-moon system.
+There has been some criticism of an article in the July-August issue of Innerface regarding our interpretation of the revelators' use of the words “mass” and “size” in their description of the growth over time of the earth-moon system.
 
-On page 658, the revelators state, "2,500,000,000 years ago the planets had grown immensely in size. Urantia was a well-developed sphere about one tenth its present mass and was still growing rapidly by meteoric accretion."
+On page 658, the revelators state, “2,500,000,000 years ago the planets had grown immensely in size. Urantia was a well-developed sphere about one tenth its present mass and was still growing rapidly by meteoric accretion.”
 
-Then on page-659 they have: "2,000,000,000 years ago the earth began decidedly to gain on the moon. Always had the planet been larger than its satellite, but there was not so much difference in size until about this time, when enormous space bodies were captured by the earth. Urantia was then about one fifth its present size…."
+Then on page-659 they have: “2,000,000,000 years ago the earth began decidedly to gain on the moon. Always had the planet been larger than its satellite, but there was not so much difference in size until about this time, when enormous space bodies were captured by the earth. Urantia was then about one fifth its present size….”
 
 The wording of this last paragraph encourages the belief that these two bodies had grown at the same rate and been much the same size throughout their more than 2 billion year lifetime.
 
@@ -405,7 +405,7 @@ The process of growth by accretion of the earth and its moon satellite while ret
 
 Thus it is difficult to see how, up to the time of the stated capture by planet earth of enormous space bodies 2 billion years ago, this planet and its satellite moon could have had other than  similar densities. And if they did that then the revelators' apparently careless use of the terms mass and size becomes explicable, because the relationship, density = mass/volume, means that 2 bodies having the same density and mass must have the same volume or if they have the same density and volume they must also have the same mass.)
 
-However readers should be aware that the slow co-accretion concept for moon and earth, while in favor at the time of receipt of the Urantia Papers, is now known to be quite incompatible with data since accumulated--hence in the category of "proscribed unearned knowledge" (1109), but totally adequate as a "frame in which to think." (1260)
+However readers should be aware that the slow co-accretion concept for moon and earth, while in favor at the time of receipt of the Urantia Papers, is now known to be quite incompatible with data since accumulated--hence in the category of “proscribed unearned knowledge” (1109), but totally adequate as a “frame in which to think.” (1260)
 
 
 Image here and text

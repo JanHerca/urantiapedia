@@ -3,19 +3,19 @@
 
 In the not too far distant future there will come a time when much of The Urantia Book will have become outdated. This will be because of the outdated-ness of much of its science as well as considerable portions of the historical content, including its biblical material.
 
-There can now be little doubt that the revelators anticipated this. Throughout the book there is scattered a huge amount of material that relates directly to things of spiritual value. In fact there is so much in this category that we are forced to speculate on whether the main function of the Urantia Papers is to divert our attention from the material and the secular to, "things of the spirit."
+There can now be little doubt that the revelators anticipated this. Throughout the book there is scattered a huge amount of material that relates directly to things of spiritual value. In fact there is so much in this category that we are forced to speculate on whether the main function of the Urantia Papers is to divert our attention from the material and the secular to, “things of the spirit.”
 
 That this is factually so is illustrated by:
 
-"Only those human experiences which were of spiritual value are common possessions of the surviving mortal and the returning Adjuster and hence are immediately remembered subsequent to mortal survival." (451) Think about that!!
+“Only those human experiences which were of spiritual value are common possessions of the surviving mortal and the returning Adjuster and hence are immediately remembered subsequent to mortal survival.” (451) Think about that!!
 
 So what is spirituality?
 
-Despite a large number of references to "spirituality" and "spiritual value," in the Urantia Papers, nowhere do these Papers provide an exact definition of such terms. Among the best we are given is:
+Despite a large number of references to “spirituality” and “spiritual value,” in the Urantia Papers, nowhere do these Papers provide an exact definition of such terms. Among the best we are given is:
 
-"Everything we do that is good contributes to the enhancement of the afterlife," combined with statements such as "only those human experiences of spiritual value," survive--"your past life and its memories having neither spiritual meaning nor morontia value, will perish with the material brain" (pp. 451,1235).
+“Everything we do that is good contributes to the enhancement of the afterlife,” combined with statements such as “only those human experiences of spiritual value,” survive--“your past life and its memories having neither spiritual meaning nor morontia value, will perish with the material brain” (pp. 451,1235).
 
-Thus, we can take spiritual value to mean "that which is good." Other relevant statements are:
+Thus, we can take spiritual value to mean “that which is good.” Other relevant statements are:
 
 Spirituality is the indicator of one's nearness to God and the measure of one's usefulness to our fellow beings. Spirituality enhances the ability to discover beauty in things, recognize truth in meanings, and discover goodness in values. Spiritual development is determined by our capacity thereof and is directly proportional to the elimination of the selfish qualities of love. (from p.1096)
 
@@ -144,7 +144,7 @@ God, the Father, is the bestower and the conservator of every personality. Likew
 
 God is personally conscious of, and in personal touch with, all personalities of all levels of self-conscious existence--and this consciousness is independent of the mission of the God-Spirit-Within.
 
-"The nature of God can best be understood by the revelation of the Father which Jesus of Nazareth unfolded in his manifold teachings and in his superb mortal life in the flesh. The divine nature can also be better understood if individuals regard themselves as children of God and look up to the Paradise Creator as their true spiritual Father."
+“The nature of God can best be understood by the revelation of the Father which Jesus of Nazareth unfolded in his manifold teachings and in his superb mortal life in the flesh. The divine nature can also be better understood if individuals regard themselves as children of God and look up to the Paradise Creator as their true spiritual Father.”
 
 
 Real religion
@@ -192,7 +192,7 @@ Because true religion is a matter of personal religious experience, it is inevit
 
 Future religionists must live out their religion, dedicating themselves to the wholehearted service of God and mankind.
 
-It is high time that men and women should have religious experience so personal and so sublime that it could be realized and expressed only by "feelings that lie too deep for words."
+It is high time that men and women should have religious experience so personal and so sublime that it could be realized and expressed only by “feelings that lie too deep for words.”
 
 Economic interdependence and social fraternizing will ultimately conduce to the unification of mankind. People, naturally, are dreamers, but science is sobering them so that religion can presently become their activator and with far less danger than previously of precipitating fanatical reactions. Economic necessity ties them to reality and personal religious experience brings them face to face with the eternal realities of cosmic citizenship.
 
@@ -267,19 +267,19 @@ Although the average mortal cannot hope to attain the perfection of character re
 
 The unfailing kindness and stalwart strength of character of Jesus amazed his followers. He was truly sincere, had nothing of the hypocrite in him. He was free from shamming--acting. He lived the truth, even as he taught it. He was the truth. He was reasonable, approachable, practical, free from all freakish, erratic, and eccentric tendencies. And he was unafraid.
 
-Of Jesus it was truly said, "He trusted God." As a man amongst men, he most sublimely trusted the Father in heaven. He trusted his Father as a little child trusts an earthly parent. His faith was perfect but never presumptuous. He never faltered in his faith. He was immune to disappointment, impervious to persecution, and untouched by apparent failure. He loved people.  And he went about doing good.
+Of Jesus it was truly said, “He trusted God.” As a man amongst men, he most sublimely trusted the Father in heaven. He trusted his Father as a little child trusts an earthly parent. His faith was perfect but never presumptuous. He never faltered in his faith. He was immune to disappointment, impervious to persecution, and untouched by apparent failure. He loved people.  And he went about doing good.
 
 Jesus was unusually cheerful--though never blind and unreasonable. He was always generous, and never grew weary of stating that it is more blessed to give than to receive.
 
-He controlled his enthusiasm; it never controlled him. He was unreservedly dedicated to "being about his Father's business."
+He controlled his enthusiasm; it never controlled him. He was unreservedly dedicated to “being about his Father's business.”
 
 Jesus was a soul of gladness. But when duty required, he was willing to walk courageously through the 'valley of the shadow of death.' He was gladsome but at the same time humble.
 
 His courage was equaled only by his patience. He was never in a hurry; his composure was sublime.
 
-Jesus was great because he was good--yet he fraternized with little children. He was gentle and unassuming in his personal life--yet he was the perfected man of a universe. And his associates called him "Master" unbidden.
+Jesus was great because he was good--yet he fraternized with little children. He was gentle and unassuming in his personal life--yet he was the perfected man of a universe. And his associates called him “Master” unbidden.
 
-Jesus was a perfectly unified human personality. Today he continues to unify mortal existence. He enters the human mind to elevate, transform, and transfigure. It is literally true: "If any man has the spirit of Jesus Christ within him, he is a new creature; old things are passing away; behold all things are becoming new." (2 Cor. 5:17)
+Jesus was a perfectly unified human personality. Today he continues to unify mortal existence. He enters the human mind to elevate, transform, and transfigure. It is literally true: “If any man has the spirit of Jesus Christ within him, he is a new creature; old things are passing away; behold all things are becoming new.” (2 Cor. 5:17)
 
 The reality basis of religion.
 
@@ -287,13 +287,13 @@ Religion as human experience ranges from the primitive slavery of the fear of th
 
 Religion is the experiencing of divinity in the consciousness of a moral being of evolutionary origin. It represents true experience with eternal realities in time, the realization of spiritual satisfaction while yet in the flesh.
 
-There really is a true and genuine inner voice, "the true light that lights every man who comes into the world." And this spirit leading is distinct from the ethical prompting of human conscience.
+There really is a true and genuine inner voice, “the true light that lights every man who comes into the world.” And this spirit leading is distinct from the ethical prompting of human conscience.
 
 The assurance of religion transcends the reason of mind, even the logic of philosophy. Religion IS faith, trust, and assurance.
 
 The Divine Spirit makes contact with mortal beings, not by feelings or emotions, but in the realm of your highest and most spiritualized thinking. It is your thoughts not your feelings that lead you God-ward.
 
-The divine nature may be perceived only with the eyes of the mind. But the mind that really discerns God, hears his indwelling Spirit, is the pure mind. For "Without holiness no man may see the Lord."
+The divine nature may be perceived only with the eyes of the mind. But the mind that really discerns God, hears his indwelling Spirit, is the pure mind. For “Without holiness no man may see the Lord.”
 
 Religion is a profoundly deep and actual experience of spiritual communion with the spirit influences resident within the human mind--and in so far as such an experience is definable, it is simply the experiencing of experiencing the reality of believing in God as the reality of such a personal experience.
 
@@ -340,7 +340,7 @@ By following the gleam of righteousness discernible in our soul, we can identify
 
 Perfection hunger in our hearts is necessary to ensure capacity for comprehending the faith pathways to supreme attainment.
 
-It is literally true, "Human things must be known in order to be loved, but divine things must be loved in order to be known."
+It is literally true, “Human things must be known in order to be loved, but divine things must be loved in order to be known.”
 
 The indwelling Father-Spirit unfailingly arouses in our souls a true and searching hunger for perfection, together with a far reaching curiosity that can only be satisfied by communion with God.
 
@@ -435,7 +435,7 @@ The truth--an understanding of cosmic relationships, universe facts, and spiritu
 
 In the mortal state nothing can be absolutely proved, both science and religion are predicated on assumptions.
 
-There is a real "proof" of "spiritual reality" in the presence of the indwelling Spirit of God--but the validity of the "proof" is not demonstrable to the external world, but only to the one who thus experiences the indwelling of God.
+There is a real “proof” of “spiritual reality” in the presence of the indwelling Spirit of God--but the validity of the “proof” is not demonstrable to the external world, but only to the one who thus experiences the indwelling of God.
 
 Functional unity
 
@@ -454,25 +454,25 @@ When reason once recognizes right and wrong, it exhibits wisdom; when wisdom cho
 The Teachings of Jesus
 
 
-To understand the Urantia Papers it is vital to understand the role attributed to the Spirit of God that now indwells the minds of virtually all human beings born on this planet. It is referred to in the New Testament in about 25 of its verses, e.g. "Know you not that you are the temple of God, that the Spirit of God dwells in you" (1. Cor. 3:16), and, "If we love one another, God dwells in us." (1 John 4:12).
+To understand the Urantia Papers it is vital to understand the role attributed to the Spirit of God that now indwells the minds of virtually all human beings born on this planet. It is referred to in the New Testament in about 25 of its verses, e.g. “Know you not that you are the temple of God, that the Spirit of God dwells in you” (1. Cor. 3:16), and, “If we love one another, God dwells in us.” (1 John 4:12).
 
 This indwelling Spirit is the source of all true meanings and values of a non-material nature. Thus it is the source of true morality, non-material truth, beauty and goodness, and all revealed truth. So, one way or another, all true revelation is from God regardless of the means of its origin. But the recognition of this truth is an individual function, crucially dependent upon the personal relation between the individual and the God-Spirit within. Empirical truths of science may appear to be different, but basically, they are not.
 
-The Urantia Papers have been presented to the world as the Fifth Epochal Revelation and, as such, this has generated claims for infallibility by some. The reality is that the Papers themselves state that "nothing which human nature has touched can be regarded as infallible." And there is not a single statement in all the Papers that has not, at some stage, been open to the contaminating hand of man. Thus all decisions on the validity of revelatory truth in these Papers, or elsewhere, must forever be the personal responsibility of the individual.
+The Urantia Papers have been presented to the world as the Fifth Epochal Revelation and, as such, this has generated claims for infallibility by some. The reality is that the Papers themselves state that “nothing which human nature has touched can be regarded as infallible.” And there is not a single statement in all the Papers that has not, at some stage, been open to the contaminating hand of man. Thus all decisions on the validity of revelatory truth in these Papers, or elsewhere, must forever be the personal responsibility of the individual.
 
 Certainly there are many aspects of the Urantia Papers, particularly their history and cosmology that should definitely be described with the authors' term of 'a framework in which to think,' rather than being taken as factual truth. But there are also other sections, in fact a major portion of the Papers, about which many have said that if it is not revelation, then indeed, it surely ought to be.
 
-What follows in our next issue comes from Part 4 of the Papers only--a much compressed summary of the spiritual life and spiritual teachings of the one many call, "Master." This is also totally consistent with the spirit of the word of Jesus from the New Testament. Familiarity with this word will certainly promote our familiarity with the mind of Jesus.
+What follows in our next issue comes from Part 4 of the Papers only--a much compressed summary of the spiritual life and spiritual teachings of the one many call, “Master.” This is also totally consistent with the spirit of the word of Jesus from the New Testament. Familiarity with this word will certainly promote our familiarity with the mind of Jesus.
 
 Jesus' purpose
 
 The Urantia Papers confirm that the purpose of
-Jesus' life on our planet included revealing God to man and man to God, and that his life was to exhibit "the transcendent possibilities attainable by a God-knowing mortal being during the short career of mortal existence."
+Jesus' life on our planet included revealing God to man and man to God, and that his life was to exhibit “the transcendent possibilities attainable by a God-knowing mortal being during the short career of mortal existence.”
 
 
 
-Having fully achieved his purpose, Jesus left us with this injunction: "Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men and women are the sons and daughters of God; and it shall consist in the life which you will live among them--the actual and living experience of loving them and serving them--even as I have loved and served you."
+Having fully achieved his purpose, Jesus left us with this injunction: “Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men and women are the sons and daughters of God; and it shall consist in the life which you will live among them--the actual and living experience of loving them and serving them--even as I have loved and served you.”
 
-Consequently the Papers tell us: "that which is of greatest value is to know the religious life of Jesus and how he lived it."
+Consequently the Papers tell us: “that which is of greatest value is to know the religious life of Jesus and how he lived it.”
 
 To be continued in our next issue

@@ -6,7 +6,7 @@
 
 "Jesus trusted God much as the child trusts a parent. He had a profound confidence in the universe--just such a trust as the child has in its parental environment. Jesus' wholehearted faith in the fundamental goodness of the universe very much resembled the child's trust in the security of its earthly surroundings. He depended on the heavenly Father as a child leans upon its earthly parent, and his fervent faith never for one moment doubted the certainty of the heavenly Father's overcare. He was not disturbed seriously by fears, doubts, and skepticism. Unbelief did not inhibit the free and original expression of his life. He combined the stalwart and intelligent courage of a full-grown man with the sincere and trusting optimism of a believing child. His faith grew to such heights of trust that it was devoid of fear or despair.
 
-"The faith of Jesus attained the purity of a child's trust. His faith was so absolute and undoubting that it responded to the charm of the contact of fellow beings and to the wonders of the universe. His sense of dependence on the divine was so complete and so confident that it yielded the joy and the assurance of absolute personal security. There was no hesitating pretense in his religious experience. In this giant intellect of the full-grown man the faith of the child reigned supreme in all matters relating to the religious consciousness. It is not strange that he once said, 'Except you become as a little child, you shall not enter the kingdom.' Notwithstanding that Jesus' faith was childlike, it was in no sense childish." (2089)
+“The faith of Jesus attained the purity of a child's trust. His faith was so absolute and undoubting that it responded to the charm of the contact of fellow beings and to the wonders of the universe. His sense of dependence on the divine was so complete and so confident that it yielded the joy and the assurance of absolute personal security. There was no hesitating pretense in his religious experience. In this giant intellect of the full-grown man the faith of the child reigned supreme in all matters relating to the religious consciousness. It is not strange that he once said, 'Except you become as a little child, you shall not enter the kingdom.' Notwithstanding that Jesus' faith was childlike, it was in no sense childish.” (2089)
 
 # Did Jesus really need to be crucified?
 Summary
@@ -27,46 +27,46 @@ The accounts of events prior to the arrest also agree that Jesus asked the Fathe
 Jesus' Spirit of Truth--its work and effects
 
 
-On the night before the crucifixion, Jesus addressed the apostles: "If I go not away, the new teacher cannot come into your hearts. I must be divested of this mortal body and be restored to my place on high before I can send this spirit teacher to live in your souls and lead your spirits into the truth. And when my spirit comes to indwell you, it will illuminate the difference between sin and righteousness and will enable you to judge wisely in your hearts concerning them." (1951)
+On the night before the crucifixion, Jesus addressed the apostles: “If I go not away, the new teacher cannot come into your hearts. I must be divested of this mortal body and be restored to my place on high before I can send this spirit teacher to live in your souls and lead your spirits into the truth. And when my spirit comes to indwell you, it will illuminate the difference between sin and righteousness and will enable you to judge wisely in your hearts concerning them.” (1951)
 
-"When I have been delivered from this investment of mortal nature, I will be able to return as a spirit indweller of each of you and of all other believers in this gospel of the kingdom. In this way the Son of Man will become a spiritual incarnation in the souls of all true believers." (1953)
+“When I have been delivered from this investment of mortal nature, I will be able to return as a spirit indweller of each of you and of all other believers in this gospel of the kingdom. In this way the Son of Man will become a spiritual incarnation in the souls of all true believers.” (1953)
 
-The chief purpose of the Spirit of Truth--to foster awareness of its chief purpose: "The chief purpose in living is in doing the Father's will." (1951)
+The chief purpose of the Spirit of Truth--to foster awareness of its chief purpose: “The chief purpose in living is in doing the Father's will.” (1951)
 
-"If you would follow after me when I leave you, put forth your earnest efforts to live in accordance with the spirit of my teachings and with the ideal of my life--the doing of my Father's will." (1953)
+“If you would follow after me when I leave you, put forth your earnest efforts to live in accordance with the spirit of my teachings and with the ideal of my life--the doing of my Father's will.” (1953)
 
-"Jesus gives peace to his fellow doers of the will of God but not on the order of the joys and satisfactions of this material world. The peace which Michael (Jesus) gives his children on earth is that very peace which filled his own soul when he himself lived the mortal life in the flesh and on this very world. The peace of Jesus is the joy and satisfaction of a God-knowing individual who has achieved the triumph of learning fully how to do the will of God while living the mortal life in the flesh. The peace of Jesus' mind was founded on an absolute human faith in the actuality of the divine Father's wise and sympathetic overcare." (1954)
+“Jesus gives peace to his fellow doers of the will of God but not on the order of the joys and satisfactions of this material world. The peace which Michael (Jesus) gives his children on earth is that very peace which filled his own soul when he himself lived the mortal life in the flesh and on this very world. The peace of Jesus is the joy and satisfaction of a God-knowing individual who has achieved the triumph of learning fully how to do the will of God while living the mortal life in the flesh. The peace of Jesus' mind was founded on an absolute human faith in the actuality of the divine Father's wise and sympathetic overcare.” (1954)
 
-"The Master knew all that was to befall him, and he was unafraid. After he had bestowed this peace upon each of his followers, he could consistently say, "Let not your heart be troubled, neither let it be afraid." (1955)
+“The Master knew all that was to befall him, and he was unafraid. After he had bestowed this peace upon each of his followers, he could consistently say, ”Let not your heart be troubled, neither let it be afraid." (1955)
 
-"The peace of Jesus is, then, the peace and assurance of a son who fully believes that his career for time and eternity is safely and wholly in the care and keeping of an all-wise, all-loving, and all-powerful spirit Father. And this is, indeed, a peace which passes the understanding of mortal mind, but which can be enjoyed to the full by the believing human heart." (1955)
+“The peace of Jesus is, then, the peace and assurance of a son who fully believes that his career for time and eternity is safely and wholly in the care and keeping of an all-wise, all-loving, and all-powerful spirit Father. And this is, indeed, a peace which passes the understanding of mortal mind, but which can be enjoyed to the full by the believing human heart.” (1955)
 
 # At Gethsemane:
 Personal farewell admonitions by Jesus to the apostles
 
 To John:
 
-Jesus: "You will learn to love your brethren more when you first learn to love their Father in heaven more, and after you have become truly more interested in their welfare in time and in eternity." (1955)
+Jesus: “You will learn to love your brethren more when you first learn to love their Father in heaven more, and after you have become truly more interested in their welfare in time and in eternity.” (1955)
 
-To James: "When the new teacher comes, let him teach you the poise of compassion and that sympathetic tolerance which is born of sublime confidence in me and of perfect submission to the Father's will. Dedicate your life to the demonstration of that combined human affection and divine dignity of the God-knowing and Son-believing disciple. And all who thus live will reveal the gospel even in the manner of their death." (1958)
+To James: “When the new teacher comes, let him teach you the poise of compassion and that sympathetic tolerance which is born of sublime confidence in me and of perfect submission to the Father's will. Dedicate your life to the demonstration of that combined human affection and divine dignity of the God-knowing and Son-believing disciple. And all who thus live will reveal the gospel even in the manner of their death.” (1958)
 
-To Philip, the materialist: "And then, when you are blessed with spiritual vision, go forth to your work, dedicating your life to the cause of leading mankind to search for God and to seek eternal realities with the eye of spiritual faith and not with the eyes of the material mind. Remember, Philip, you have a great mission on earth, for the world is filled with those who look at life just as you have tended to. You have a great work to do, and when it is finished in faith, you shall come to me in my kingdom, and I will take great pleasure in showing you that which eye has not seen, ear heard, nor the mortal mind conceived. In the meantime, become as a little child in the kingdom of the spirit and permit me, as the spirit of the new teacher, to lead you forward in the spiritual kingdom. And in this way will I be able to do much for you which I was not able to accomplish when I sojourned with you as a mortal of the realm. And always remember, Philip, he who has seen me has seen the Father." (1960)
+To Philip, the materialist: “And then, when you are blessed with spiritual vision, go forth to your work, dedicating your life to the cause of leading mankind to search for God and to seek eternal realities with the eye of spiritual faith and not with the eyes of the material mind. Remember, Philip, you have a great mission on earth, for the world is filled with those who look at life just as you have tended to. You have a great work to do, and when it is finished in faith, you shall come to me in my kingdom, and I will take great pleasure in showing you that which eye has not seen, ear heard, nor the mortal mind conceived. In the meantime, become as a little child in the kingdom of the spirit and permit me, as the spirit of the new teacher, to lead you forward in the spiritual kingdom. And in this way will I be able to do much for you which I was not able to accomplish when I sojourned with you as a mortal of the realm. And always remember, Philip, he who has seen me has seen the Father.” (1960)
 
-To Nathaniel, the intellectual: "You should learn that the expression of even a good thought must be modulated in accordance with the intellectual status and spiritual development of the hearer. Sincerity is most serviceable in the work of the kingdom when it is wedded to discretion. If you would learn to work with your brethren, you might accomplish more permanent things, but if you find yourself going off in quest of those who think as you do, in that event dedicate your life to proving that the God-knowing disciple can become a kingdom builder even when alone in the world and wholly isolated from his fellow believers. I know you will be faithful to the end, and I will some day welcome you to the enlarged service of my kingdom on high." (1960)
+To Nathaniel, the intellectual: “You should learn that the expression of even a good thought must be modulated in accordance with the intellectual status and spiritual development of the hearer. Sincerity is most serviceable in the work of the kingdom when it is wedded to discretion. If you would learn to work with your brethren, you might accomplish more permanent things, but if you find yourself going off in quest of those who think as you do, in that event dedicate your life to proving that the God-knowing disciple can become a kingdom builder even when alone in the world and wholly isolated from his fellow believers. I know you will be faithful to the end, and I will some day welcome you to the enlarged service of my kingdom on high.” (1960)
 
 # The last hour before Jesus' arrest
 
-"David Zebedee and John Mark took Jesus to one side and revealed that they had kept Judas under observation for several days, and that they knew he intended to betray him into the hands of his enemies. Jesus listened to them but only said: "My friends, nothing can happen to the Son of Man unless the Father in heaven so wills. Let not your hearts be troubled; all things will work together for the glory of God and the salvation of men." (1966)
+“David Zebedee and John Mark took Jesus to one side and revealed that they had kept Judas under observation for several days, and that they knew he intended to betray him into the hands of his enemies. Jesus listened to them but only said: ”My friends, nothing can happen to the Son of Man unless the Father in heaven so wills. Let not your hearts be troubled; all things will work together for the glory of God and the salvation of men." (1966)
 
-At Gethsemane: "Falling down on the ground, Jesus again prayed: '"Father, I know it is possible to avoid this cup--all things are possible with you--but I have come to do your will, and while this is a bitter cup, I would drink it if it is your will.'" And when he had thus prayed, a mighty angel came down by his side and, speaking to him, touched him and strengthened him." (1968)
+At Gethsemane: “Falling down on the ground, Jesus again prayed: '”Father, I know it is possible to avoid this cup--all things are possible with you--but I have come to do your will, and while this is a bitter cup, I would drink it if it is your will.'“ And when he had thus prayed, a mighty angel came down by his side and, speaking to him, touched him and strengthened him.” (1968)
 
-"And now, O Father, if this cup may not pass, then would I drink it. Not my will, but yours, be done." (1968)
+“And now, O Father, if this cup may not pass, then would I drink it. Not my will, but yours, be done.” (1968)
 
-"Just now the apostles were about to witness new evidences of his humanity. Just before the greatest of all the revelations of his divinity, his resurrection, must now come the greatest proofs of his mortal nature--his humiliation and crucifixion." (1968)
+“Just now the apostles were about to witness new evidences of his humanity. Just before the greatest of all the revelations of his divinity, his resurrection, must now come the greatest proofs of his mortal nature--his humiliation and crucifixion.” (1968)
 
-"Each time Jesus prayed in the garden, his humanity laid a firmer faith-hold upon his divinity; his human will more completely became one with the divine will of his Father. Among other words spoken to him by the mighty angel was the message that the Father desired his Son to finish his earth bestowal by passing through the creature experience of death just as all mortal creatures must experience material dissolution in passing from the existence of time into the progression of eternity." (1969)
+“Each time Jesus prayed in the garden, his humanity laid a firmer faith-hold upon his divinity; his human will more completely became one with the divine will of his Father. Among other words spoken to him by the mighty angel was the message that the Father desired his Son to finish his earth bestowal by passing through the creature experience of death just as all mortal creatures must experience material dissolution in passing from the existence of time into the progression of eternity.” (1969)
 
-"While no mortal can presume to understand the thoughts and feelings of the incarnate Son of God at such a time as this, we know that he endured great anguish and suffered untold sorrow, for the perspiration rolled off his face in great drops. He was at last convinced that the Father intended to allow natural events to take their course; he was fully determined to employ none of his sovereign power as the supreme head of a universe to save himself." (1969)
+“While no mortal can presume to understand the thoughts and feelings of the incarnate Son of God at such a time as this, we know that he endured great anguish and suffered untold sorrow, for the perspiration rolled off his face in great drops. He was at last convinced that the Father intended to allow natural events to take their course; he was fully determined to employ none of his sovereign power as the supreme head of a universe to save himself.” (1969)
 
 Why would the Father allow his Son to be crucified? At this point in time Jesus and his apostles could have fled to the security of Philip's kingdom east of the Jordan or even into Phonecia.
 
@@ -74,21 +74,21 @@ Why would the Father allow his Son to be crucified? At this point in time Jesus 
 But could the apostles be trusted to conserve and pass on Jesus' teachings?
 
 
-"The experience of parting with the apostles was a great strain on the human heart of Jesus; this sorrow of love bore down on him and made it more difficult to face such a death as he well knew awaited him. He realized how weak and how ignorant his apostles were, and he dreaded to leave them. He well knew that the time of his departure had come, but his human heart longed to find out whether there might not possibly be some legitimate avenue of escape from this terrible plight of suffering and sorrow. And when it had thus sought escape, and failed, it was willing to drink the cup." (1969)
+“The experience of parting with the apostles was a great strain on the human heart of Jesus; this sorrow of love bore down on him and made it more difficult to face such a death as he well knew awaited him. He realized how weak and how ignorant his apostles were, and he dreaded to leave them. He well knew that the time of his departure had come, but his human heart longed to find out whether there might not possibly be some legitimate avenue of escape from this terrible plight of suffering and sorrow. And when it had thus sought escape, and failed, it was willing to drink the cup.” (1969)
 
-"The divine mind of Michael (Jesus) knew he had done his best for the twelve apostles; but the human heart of Jesus wished that more might have been done for them before they should be left alone in the world. Jesus' human heart was being crushed; he truly loved his brethren. He was isolated from his family in the flesh; one of his chosen associates was betraying him. His father Joseph's people had rejected him and thereby sealed their doom as a people with a special mission on earth. His soul was tortured by baffled love and rejected mercy. It was just one of those awful human moments when everything seems to bear down with crushing cruelty and terrible agony." (1969)
+“The divine mind of Michael (Jesus) knew he had done his best for the twelve apostles; but the human heart of Jesus wished that more might have been done for them before they should be left alone in the world. Jesus' human heart was being crushed; he truly loved his brethren. He was isolated from his family in the flesh; one of his chosen associates was betraying him. His father Joseph's people had rejected him and thereby sealed their doom as a people with a special mission on earth. His soul was tortured by baffled love and rejected mercy. It was just one of those awful human moments when everything seems to bear down with crushing cruelty and terrible agony.” (1969)
 
-"Jesus' humanity was not insensible to this situation of private loneliness, public shame, and the appearance of the failure of his cause. All these sentiments bore down on him with indescribable heaviness." (1969)
+“Jesus' humanity was not insensible to this situation of private loneliness, public shame, and the appearance of the failure of his cause. All these sentiments bore down on him with indescribable heaviness.” (1969)
 
 
 Jesus' arrest
 
 
-"Before Judas and the soldiers arrived, the Master had fully regained his customary poise; the spirit had triumphed over the flesh; faith had asserted itself over all human tendencies to fear or entertain doubt. The supreme test of the full realization of the human nature had been met and acceptably passed. Once more the Son of Man was prepared to face his enemies with equanimity and in the full assurance of his invincibility as a mortal man unreservedly dedicated to the doing of his Father's will." (1970)
+“Before Judas and the soldiers arrived, the Master had fully regained his customary poise; the spirit had triumphed over the flesh; faith had asserted itself over all human tendencies to fear or entertain doubt. The supreme test of the full realization of the human nature had been met and acceptably passed. Once more the Son of Man was prepared to face his enemies with equanimity and in the full assurance of his invincibility as a mortal man unreservedly dedicated to the doing of his Father's will.” (1970)
 
 # What were the alternatives?
 
-The Urantia revelation rejects the concept that Jesus died for our sins, making this comment: "The people of Urantia continue to suffer from the influence of primitive concepts of God….The barbarous idea of appeasing an angry God, of propitiating an offended Lord, of winning the favor of Deity through sacrifices and penance and even by the shedding of blood, represents a religion wholly puerile and primitive, a philosophy unworthy of an enlightened age of science and truth. Such beliefs are utterly repulsive to the celestial beings and the divine rulers who serve and reign in the universes. It is an affront to God to believe, hold, or teach that innocent blood must be shed in order to win his favor or to divert the fictitious divine wrath." (60)
+The Urantia revelation rejects the concept that Jesus died for our sins, making this comment: “The people of Urantia continue to suffer from the influence of primitive concepts of God….The barbarous idea of appeasing an angry God, of propitiating an offended Lord, of winning the favor of Deity through sacrifices and penance and even by the shedding of blood, represents a religion wholly puerile and primitive, a philosophy unworthy of an enlightened age of science and truth. Such beliefs are utterly repulsive to the celestial beings and the divine rulers who serve and reign in the universes. It is an affront to God to believe, hold, or teach that innocent blood must be shed in order to win his favor or to divert the fictitious divine wrath.” (60)
 
 For most Christians, having been brought up from early childhood to accept without question that Jesus' crucifixion was to purchase forgiveness for our sins, this statement comes as somewhat of a shock. But, for most, it takes very little thought to realize the foolish contradiction inherent in the doctrine that God is both perfect love, compassion, and forgiveness yet demands that his only Son should be crucified, a sacrificial offering of his blood, in order to purchase God's forgiveness for our sins.
 
@@ -102,23 +102,23 @@ Jesus deliberately undertook the visit to Jerusalem on the Passover occasion tha
 
 # The answer?
 
-Perhaps the answer is on page 1951--"If I go not away, the new teacher cannot come into your hearts. I must be divested of this mortal body and be restored to my place on high before I can send this spirit teacher to live in your souls and lead your spirits into the truth. And when my spirit comes to indwell you, he will illuminate the difference between sin and righteousness and will enable you to judge wisely in your hearts concerning them."
+Perhaps the answer is on page 1951--“If I go not away, the new teacher cannot come into your hearts. I must be divested of this mortal body and be restored to my place on high before I can send this spirit teacher to live in your souls and lead your spirits into the truth. And when my spirit comes to indwell you, he will illuminate the difference between sin and righteousness and will enable you to judge wisely in your hearts concerning them.”
 
 This statement from Jesus appears to imply that his Spirit of Truth would be a more effective teacher of righteousness than Jesus himself. And it is not difficult to see why this could be so. After three years of personal teaching by Jesus, his fundamental message of love, goodness, tolerance, and service would have become overly familiar.
 
 Much of this message was conveyed by parables, all of which the apostles must have heard on multitudinous occasions. Perhaps Jesus realized there was little more that he could personally do to promote this message. And so long as he remained with the apostolic band, he would be the central figure that the crowds sought after--and not because of the message he brought but largely because of their expectation of miracles.
 
-Jesus' bestowal mission required him to "live a life wholeheartedly motivated to do the will of the Paradise Father, thus to reveal God, your Father, in the flesh and especially to the creatures of the flesh." He was to "exhibit in his one short life in the flesh, the transcendent possibilities attainable by a God-knowing human being…and to function so as to show the achievement of God seeking man and finding him, and the phenomenon of man seeking God and finding him." (p.1328)
+Jesus' bestowal mission required him to “live a life wholeheartedly motivated to do the will of the Paradise Father, thus to reveal God, your Father, in the flesh and especially to the creatures of the flesh.” He was to “exhibit in his one short life in the flesh, the transcendent possibilities attainable by a God-knowing human being…and to function so as to show the achievement of God seeking man and finding him, and the phenomenon of man seeking God and finding him.” (p.1328)
 
 Jesus may have judged that he had already fulfilled his mission on Urantia--which would be better served if his bestowal was terminated now and the preservation and dissemination of its message was entrusted to his Spirit of Truth and the apostles.
 
-Recalling the statement, "God has decreed the sovereignty of the material and mortal will and that decree is absolute," (71) it appears that both Jesus and the Father were taking an enormous gamble by having Michael's bestowal terminate at this juncture. Jesus realization of this is illustrated by, "The experience of parting with the apostles was a great strain on the human heart of Jesus; this sorrow of love bore down on him and made it more difficult to face such a death as he well knew awaited him. He realized how weak and how ignorant his apostles were, and he dreaded to leave them. (1969)
+Recalling the statement, “God has decreed the sovereignty of the material and mortal will and that decree is absolute,” (71) it appears that both Jesus and the Father were taking an enormous gamble by having Michael's bestowal terminate at this juncture. Jesus realization of this is illustrated by, "The experience of parting with the apostles was a great strain on the human heart of Jesus; this sorrow of love bore down on him and made it more difficult to face such a death as he well knew awaited him. He realized how weak and how ignorant his apostles were, and he dreaded to leave them. (1969)
 
 Their behavior during the period of Jesus' arrest, trial, and crucifixion illustrates the validity of Jesus' doubting. Peter denied him three times during Jesus' trial. Of the eleven remaining apostles only John was present both at the trial and crucifixion. The others all went into hiding and remained hidden even after Jesus' resurrection appearances. And their courage remained in limbo until the events of Pentecost--after they had received Jesus' Spirit of Truth.
 
 That Jesus expected his presence as the Spirit of Truth would be more effective for spreading his gospel message than his presence in the flesh was confirmed by: 
 
-"In less than a month after the bestowal of the Spirit of Truth, the apostles made more individual spiritual progress than during their almost four years of personal and loving association with the Master."
+“In less than a month after the bestowal of the Spirit of Truth, the apostles made more individual spiritual progress than during their almost four years of personal and loving association with the Master.”
 
 And further confirmed by his farewell admonition to the apostle Philip: "Permit me as the spirit of the new teacher to lead you forward. In this way will I be able to do much for you which I was not able to accomplish when I sojourned with you as a mortal of the realm. (1960)
 
@@ -136,21 +136,21 @@ However, the remedy is in our own hands. When enough of us enlist the aid of Jes
 
 When the Son of Man has finished his work on earth, there shall be poured out upon all flesh the living Spirit of Truth. Those who receive this spirit shall never know spiritual thirst." (1795)
 
-"And when the Father shall approve, I will pour out the Spirit of Truth upon all flesh. Already is my Father's spirit in your hearts, and when this day shall come, you will also have me with you even as you now have the Father. This new gift is the spirit of living truth. The unbelievers will not at first listen to the teachings of this spirit, but the sons of light will all receive him gladly and with a whole heart. And you shall know this spirit when he comes even as you have known me, and you will receive this gift in your hearts, and he will abide with you. You thus perceive that I am not going to leave you without help and guidance. I will not leave you desolate. Today I can be with you only in person. In the times to come I will be with you and all other men who desire my presence, wherever you may be, and with each of you at the same time. Do you not discern that it is better for me to go away; that I leave you in the flesh so that I may the better and the more fully be with you in the spirit?" (1948)
+“And when the Father shall approve, I will pour out the Spirit of Truth upon all flesh. Already is my Father's spirit in your hearts, and when this day shall come, you will also have me with you even as you now have the Father. This new gift is the spirit of living truth. The unbelievers will not at first listen to the teachings of this spirit, but the sons of light will all receive him gladly and with a whole heart. And you shall know this spirit when he comes even as you have known me, and you will receive this gift in your hearts, and he will abide with you. You thus perceive that I am not going to leave you without help and guidance. I will not leave you desolate. Today I can be with you only in person. In the times to come I will be with you and all other men who desire my presence, wherever you may be, and with each of you at the same time. Do you not discern that it is better for me to go away; that I leave you in the flesh so that I may the better and the more fully be with you in the spirit?” (1948)
 
 Love, unselfishness, must undergo a constant and living re-adaptive interpretation of relationships in accordance with the leading of the Spirit of Truth. Love must thereby grasp the ever-changing and enlarging concepts of the highest cosmic good of the individual who is loved. And then love goes on to strike this same attitude concerning all other individuals who could possibly be influenced by the growing and living relationship of one spirit-led mortal's love for other citizens of the universe. And this entire living adaptation of love must be effected in the light of both the environment of present evil and the eternal goal of the perfection of divine destiny. (1950)
 
 And so must we clearly recognize that neither the golden rule nor the teaching of non-resistance can ever be properly understood as dogmas or precepts. They can only be comprehended by living them, by realizing their meanings in the living interpretation of the Spirit of Truth, who directs the loving contact of one human being with another.
 
-"I have yet much to say to you, but you cannot stand any more just now. Albeit, when he, the Spirit of Truth, comes, he shall eventually guide you into all truth as you pass through the many abodes in my Father's universe. This spirit will not speak of himself, but he will declare to you that which the Father has revealed to the Son, and he will even show you things to come; he will glorify me even as I have glorified my Father. This spirit comes forth from me, and he will reveal my truth to you. Everything which the Father has in this domain is now mine; wherefore did I say that this new teacher would take of that which is mine and reveal it to you." (1951)
+“I have yet much to say to you, but you cannot stand any more just now. Albeit, when he, the Spirit of Truth, comes, he shall eventually guide you into all truth as you pass through the many abodes in my Father's universe. This spirit will not speak of himself, but he will declare to you that which the Father has revealed to the Son, and he will even show you things to come; he will glorify me even as I have glorified my Father. This spirit comes forth from me, and he will reveal my truth to you. Everything which the Father has in this domain is now mine; wherefore did I say that this new teacher would take of that which is mine and reveal it to you.” (1951)
 
-"The Father sent me into this world, but only a few of you have chosen fully to receive me. I will pour out my spirit upon all flesh, but all men will not choose to receive this new teacher as the guide and counselor of the soul. But as many as do receive him shall be enlightened, cleansed, and comforted. And this Spirit of Truth will become in them a well of living water springing up into eternal life." (1954)
+“The Father sent me into this world, but only a few of you have chosen fully to receive me. I will pour out my spirit upon all flesh, but all men will not choose to receive this new teacher as the guide and counselor of the soul. But as many as do receive him shall be enlightened, cleansed, and comforted. And this Spirit of Truth will become in them a well of living water springing up into eternal life.” (1954)
 
-"If you will be taught by the Spirit of Truth, never will there be conflict between the requirements of citizenship on earth and sonship in heaven unless the temporal rulers presume to require of you the homage and worship which belong only to God." (1956)
+“If you will be taught by the Spirit of Truth, never will there be conflict between the requirements of citizenship on earth and sonship in heaven unless the temporal rulers presume to require of you the homage and worship which belong only to God.” (1956)
 
-"Then shall the Spirit of Truth lead each of you abroad to labor for the extension of the kingdom. Many changes have come over you since that day...when you first set out to follow me; but many more must come before you will be able to see the vision of a brotherhood in which gentile sits alongside Jew in fraternal association. But go on with your urge to win your Jewish brethren until you are fully satisfied and then turn with power to the gentiles." (1957)
+“Then shall the Spirit of Truth lead each of you abroad to labor for the extension of the kingdom. Many changes have come over you since that day...when you first set out to follow me; but many more must come before you will be able to see the vision of a brotherhood in which gentile sits alongside Jew in fraternal association. But go on with your urge to win your Jewish brethren until you are fully satisfied and then turn with power to the gentiles.” (1957)
 
-"I have taught you much by word of mouth, and I have lived my life among you. I have done all that can be done to enlighten your minds and liberate your souls, and what you have not been able to get from my teachings and my life, you must now prepare to acquire at the hand of that master of all teachers--actual experience. And in all of this new experience which now awaits you, I will go before you and the Spirit of Truth shall be with you. Fear not; that which you now fail to comprehend, the new teacher, when he has come, will reveal to you throughout the remainder of your life on earth and on through your training in the eternal ages." (1961)
+“I have taught you much by word of mouth, and I have lived my life among you. I have done all that can be done to enlighten your minds and liberate your souls, and what you have not been able to get from my teachings and my life, you must now prepare to acquire at the hand of that master of all teachers--actual experience. And in all of this new experience which now awaits you, I will go before you and the Spirit of Truth shall be with you. Fear not; that which you now fail to comprehend, the new teacher, when he has come, will reveal to you throughout the remainder of your life on earth and on through your training in the eternal ages.” (1961)
 
 Bestowal of the Spirit of Truth at Pentecost:
 
@@ -188,39 +188,39 @@ Judged from the New Testament records about the apostles, up to the day of Pente
 
 In 1955, the publication of the Urantia Revelation changed all that. Once more mankind was made aware of the potential of the Spirit of Truth:
 
-"to teach us to function so as to demonstrate the achievement of God seeking man and finding him and the phenomenon of man seeking God and finding him." (1328)
+“to teach us to function so as to demonstrate the achievement of God seeking man and finding him and the phenomenon of man seeking God and finding him.” (1328)
 
-"to have us recognize that neither the golden rule nor the teaching on non-resistance can ever be properly understood as dogmas or precepts. They can only be comprehended by living them." (1950)
+“to have us recognize that neither the golden rule nor the teaching on non-resistance can ever be properly understood as dogmas or precepts. They can only be comprehended by living them.” (1950)
 
-"to live in our souls, lead our spirits into the truth, and to illuminate the difference between sin and righteousness." (1951)
+“to live in our souls, lead our spirits into the truth, and to illuminate the difference between sin and righteousness.” (1951)
 
-"to foster our awareness that the chief purpose in living is in doing the Father's will." (1951)
+“to foster our awareness that the chief purpose in living is in doing the Father's will.” (1951)
 
-"to have the Son of Man become a spiritual incarnation in the souls of true believers." (1953)
+“to have the Son of Man become a spiritual incarnation in the souls of true believers.” (1953)
 
-"to teach us to live in accordance with the spirit of Jesus' teachings" (1953)
+“to teach us to live in accordance with the spirit of Jesus' teachings” (1953)
 
-"to declare, "Let not your heart be troubled, neither let it be afraid." (1955)
+“to declare, ”Let not your heart be troubled, neither let it be afraid." (1955)
 
-"to bring to our awareness that our careers in time and eternity are safely and wholly in the care of an all-wise, all-loving, and all powerful spirit Father." (1955)
+“to bring to our awareness that our careers in time and eternity are safely and wholly in the care of an all-wise, all-loving, and all powerful spirit Father.” (1955)
 
-"to help us to labor for the extension of the kingdom." (1957)
+“to help us to labor for the extension of the kingdom.” (1957)
 
-"to teach us the poise of compassion and sympathetic tolerance." (1958)
+“to teach us the poise of compassion and sympathetic tolerance.” (1958)
 
-"to inspire us to dedicate our lives to the cause of leading mankind to search for God and to seek eternal realities with the eye of spiritual faith--not with the eyes of the material mind." (1960)
+“to inspire us to dedicate our lives to the cause of leading mankind to search for God and to seek eternal realities with the eye of spiritual faith--not with the eyes of the material mind.” (1960)
 
 "to teach us that the expression of even a good thought must be modulated in accordance with the intellectual status and spiritual development of the hearer. (1960)
 
-"to remind us that all things work together for the glory of God and the salvation of mankind." (1966)
+“to remind us that all things work together for the glory of God and the salvation of mankind.” (1966)
 
-"to personalize truth for it is the comprehension of truth that constitutes the highest form of human liberty." (2060)
+“to personalize truth for it is the comprehension of truth that constitutes the highest form of human liberty.” (2060)
 
-"to bear witness to the realities of Jesus' teachings and his life as he lived it in the flesh." (2061)
+“to bear witness to the realities of Jesus' teachings and his life as he lived it in the flesh.” (2061)
 
-"to foster our love for truth and our capacity to grasp and comprehend spiritual realities." (2063)
+“to foster our love for truth and our capacity to grasp and comprehend spiritual realities.” (2063)
 
-"to purify our hearts and lead us to formulate a life purpose single to the will of God and the welfare of all mankind." (2065)
+“to purify our hearts and lead us to formulate a life purpose single to the will of God and the welfare of all mankind.” (2065)
 
 However take care not to make the mistake of expecting to become strongly intellectually conscious of the outpoured Spirit of Truth. The Spirit never creates a consciousness of himself, only a consciousness of Jesus--Michael, the Son. From the beginning Jesus taught that the Spirit would not speak of himself. The proof, therefore, of your fellowship with the Spirit of Truth is not to be found in you consciousness of this Spirit but rather in your experience of enhanced fellowship with Jesus--Michael. (2061)
 
@@ -228,7 +228,7 @@ However take care not to make the mistake of expecting to become strongly intell
 
 Whereas the fame of Jesus as a healer quickly spread throughout all parts of Palestine, Syria, and surrounding countries (1668), the ability of his apostles to sustain this reputation quickly faded following Jesus' death and resurrection. The probable reason may be found in:
 
-"When the Creator himself was on earth, incarnated in the likeness of mortal flesh, it was inevitable that some extraordinary things should happen. But you should never approach Jesus through these so-called miraculous occurrences. Learn to approach the miracle through Jesus, but do not make the mistake of approaching Jesus through the miracle. And this admonition is warranted, notwithstanding that Jesus of Nazareth is the only founder of a religion who performed super-material acts on earth." (1671)
+“When the Creator himself was on earth, incarnated in the likeness of mortal flesh, it was inevitable that some extraordinary things should happen. But you should never approach Jesus through these so-called miraculous occurrences. Learn to approach the miracle through Jesus, but do not make the mistake of approaching Jesus through the miracle. And this admonition is warranted, notwithstanding that Jesus of Nazareth is the only founder of a religion who performed super-material acts on earth.” (1671)
 
 Regarding the reality of Jesus' miraculous healings, there was no way at that time that 10 lepers could be healed of their incurable ailment (1827; Luke 17:11-19) or the blind could regain their sight (1811) except through some form of miraculous divine intervention. Both the Urantia revelation and the biblical accounts are such that we either must admit that Jesus performed real miracles of healing or else take an impossibly biased disbelieving attitude towards the evidence..
 
@@ -258,25 +258,25 @@ Jesus' death and resurrection provided a ready-made means of allaying such fear 
 
 The fact that this strange anomaly has remained firmly entrenched in all mainline Christian churches--yet unrecognised as even being an anomaly--is indicative of how firmly entrenched in the human psyche is the fear of divine punishment for unforgiven sin.
 
-Summarizing this evidence we conclude that the veracity of Jesus' resurrection appearances was critical for the establishment of the early "Jesus movement"--but that the belief that Jesus' death on the cross as payment for our sins was of overriding importance for the establishment and continuing existence of Christianity.
+Summarizing this evidence we conclude that the veracity of Jesus' resurrection appearances was critical for the establishment of the early “Jesus movement”--but that the belief that Jesus' death on the cross as payment for our sins was of overriding importance for the establishment and continuing existence of Christianity.
 
 # The Uniqueness of Jesus
 
 From the commencement of his public ministry onwards to his crucifixion, Jesus' life was lived as a revelation of the nature of God and in accordance with the constraints imposed by the pact with Immanuel spelled out in Urantia Paper 120, pages 1325 to 1330.
 
-Among these commitments we find Immanuel counselling: "that you assume, after you are sufficiently self-conscious of your divine identity, the additional task of technically terminating the Lucifer rebellion…." (1327)
+Among these commitments we find Immanuel counselling: “that you assume, after you are sufficiently self-conscious of your divine identity, the additional task of technically terminating the Lucifer rebellion….” (1327)
 
-And: "Exhibit in your one short life in the flesh, as it has never before been seen in all Nebadon, the transcendent possibilities attainable by a God-knowing human during the short career of mortal existence." (1325)
+And: “Exhibit in your one short life in the flesh, as it has never before been seen in all Nebadon, the transcendent possibilities attainable by a God-knowing human during the short career of mortal existence.” (1325)
 
 This phase of Jesus' life on Urantia commenced only after his baptism by John. Hence, it is to the social structure of Israel during the period of his post-baptismal public ministry that we must look in order to gain an understanding of what Jesus was seeking to demonstrate as a set of transcendent possibilities attainable by his followers.
 
-The synoptic gospels, Matthew, Mark, and Luke, inform us that the two major groups attempting to be models for a practicing Jew population were the Pharisees and the Saducees. Both groups claimed strict adherence to "The Law" as the dominating influence governing their life style. And both groups displayed virtually fanatic adherence to their interpretation of "The Law" as the correct way for a practicing Jew to live his life.
+The synoptic gospels, Matthew, Mark, and Luke, inform us that the two major groups attempting to be models for a practicing Jew population were the Pharisees and the Saducees. Both groups claimed strict adherence to “The Law” as the dominating influence governing their life style. And both groups displayed virtually fanatic adherence to their interpretation of “The Law” as the correct way for a practicing Jew to live his life.
 
-For the Pharisees and Saducees of 2000 years ago, this meant to follow the instructions contained in the "Torah," the first five books of the Old Testament, ostensibly written by Moses and claimed to be divine instruction from God himself. It included the 613 specific laws contained in those five books which defined almost every aspect of what it meant to be a Jew.
+For the Pharisees and Saducees of 2000 years ago, this meant to follow the instructions contained in the “Torah,” the first five books of the Old Testament, ostensibly written by Moses and claimed to be divine instruction from God himself. It included the 613 specific laws contained in those five books which defined almost every aspect of what it meant to be a Jew.
 
-The Torah makes it clear that provided Jews live according to "the Law and the prophets," their God, Yahweh, will look after them. But if they disobey then Yahweh will unfailingly hand out suitable punishment.
+The Torah makes it clear that provided Jews live according to “the Law and the prophets,” their God, Yahweh, will look after them. But if they disobey then Yahweh will unfailingly hand out suitable punishment.
 
-Not only was Yahweh on the side of Moses and his Israelite adherents but he was heavy handed with anyone who opposed God's plan for them--which included being recipients of "the promised land."  This is illustrated in Deuteronomy 2 in which Moses states:
+Not only was Yahweh on the side of Moses and his Israelite adherents but he was heavy handed with anyone who opposed God's plan for them--which included being recipients of “the promised land.”  This is illustrated in Deuteronomy 2 in which Moses states:
 
 And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying, Let me pass through thy land: I will go along by the high way, I will neither turn unto the right hand nor to the left.
 
@@ -296,13 +296,13 @@ The only way to reconcile these conflicting behaviour patterns appears to be to 
 
 We see this state of affairs hinted at in Jesus' day through Jesus' treatment of the Samaritan woman of Sychar, and through the parable of the good Samaritan. With the story of the Samaritan woman (John 4:7-27), when Jesus asks her for a drink, we discover that a Jew and Samaritan would not drink from the same vessel. Later in the same story we find that a practicing Jew would not even speak to a Samaritan woman.
 
-In the parable of the good Samaritan, when asked by a lawyer, "who is my neighbour," Jesus told a story of a man going from Jerusalem to Jericho being set upon by robbers and left on the road half dead. First a priest, then a lawyer, see the man, apparently dead, and both pass by on the other side of the road, presumably through fear of defilement by the dead. Next comes a Samaritan who takes pity on the man, takes a closer look and finding him still alive, dresses his wounds, and takes him on his donkey to an inn. (Luke 10:25)
+In the parable of the good Samaritan, when asked by a lawyer, “who is my neighbour,” Jesus told a story of a man going from Jerusalem to Jericho being set upon by robbers and left on the road half dead. First a priest, then a lawyer, see the man, apparently dead, and both pass by on the other side of the road, presumably through fear of defilement by the dead. Next comes a Samaritan who takes pity on the man, takes a closer look and finding him still alive, dresses his wounds, and takes him on his donkey to an inn. (Luke 10:25)
 
-Jesus then turns to the lawyer who posed the question and asks, "which of the three acted like a neighbour?" To which the lawyer was forced to answer, "He who showed mercy."
+Jesus then turns to the lawyer who posed the question and asks, “which of the three acted like a neighbour?” To which the lawyer was forced to answer, “He who showed mercy.”
 
 Again in Matthew 8:5-13, Jesus heals the servant of Roman officer. And in selecting those who would become his apostles, he includes Matthew, a hated tax collector, a servant of Rome, and an outcast from Jewish society.
 
-The Pharisees, in particular were fastidious about observing Torah Law. In seeking a reason to accuse Jesus, they kept watch to see if he would heal on the Sabbath. A man with a paralysed right arm was present in the synagogue. Jesus bade him come forward, then spoke to the Pharisees. "I ask you: what does our Law allow us to do on the Sabbath? To help or to harm? To save a man's life or to destroy it? Receiving no answer, he said to the man, "Stretch out your hand." He did so and his hand became well again. The Pharisees were filled with rage, asking among themselves what they could do to Jesus. (Luke 6:6-11)
+The Pharisees, in particular were fastidious about observing Torah Law. In seeking a reason to accuse Jesus, they kept watch to see if he would heal on the Sabbath. A man with a paralysed right arm was present in the synagogue. Jesus bade him come forward, then spoke to the Pharisees. “I ask you: what does our Law allow us to do on the Sabbath? To help or to harm? To save a man's life or to destroy it? Receiving no answer, he said to the man, ”Stretch out your hand." He did so and his hand became well again. The Pharisees were filled with rage, asking among themselves what they could do to Jesus. (Luke 6:6-11)
 
 In this and other instances we have seen that the Pharisees put rigid adherence to Torah Law ahead of the real needs of a human being. And because Jesus saw God as caring about what happened to human beings in history, he saw the culture of his Jewish society as something in need of far-reaching transformation, not something simply to be patched or legitimised.
 
@@ -324,7 +324,7 @@ Judge not that you be not judged.
 
 Jesus said: "But love your enemies, and do good, and lend, hoping for nothing in return; and your reward shall be great, and you shall be the children of the Most High God for he is kind unto the ungrateful and the wicked. (Luke 6:35)
 
-One of the apostles once asked: "Master, what should I do if a stranger forced me to carry his pack for a mile?" Jesus answered: "Do not sit down and sigh for relief while you berate the stranger under your breath. Righteousness comes not from such passive attitudes. If you can think of nothing more effectively positive to do, you can at least carry the pack a second mile. (1770; Matthew 5:41) (Note: Roman soldiers in transit had the right to demand this service.)
+One of the apostles once asked: “Master, what should I do if a stranger forced me to carry his pack for a mile?” Jesus answered: "Do not sit down and sigh for relief while you berate the stranger under your breath. Righteousness comes not from such passive attitudes. If you can think of nothing more effectively positive to do, you can at least carry the pack a second mile. (1770; Matthew 5:41) (Note: Roman soldiers in transit had the right to demand this service.)
 
 Jesus said: "The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised, ( Luke 4:18)
 
