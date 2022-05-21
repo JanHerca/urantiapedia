@@ -2,6 +2,7 @@
 
 in VS Code
 
+Steps in order for certain PDF conversions to text:
 1. Replace hyphenation
     - Search (regex): `-\n`
     - Replace: `(blank)`
@@ -17,12 +18,23 @@ in VS Code
 5. Replace spaces at beginning
     - Search: `^[ ]+`
     - Replace: `(blank)`
-6. Replace english plain quotes with curly ones:
+
+Other replacements:
+* Replace english plain quotes with curly ones:
     - Search (regex): `"([^"]*)"`
-    - Replace: “$1”
-7. Replace spanish plain quotes with angular ones:
+    - Replace: `“$1”`
+* Replace spanish plain quotes with angular ones:
     - Search (regex): `"([^"]*)"`
-    - Replace: «$1»
+    - Replace: `«$1»`
+* Replace LaTeX italics with Markdown
+    - Search (regex): `\\textit\{([^\}]*)\}`
+    - Replace: `_$1_`
+* Urantia references to links
+    - Search (regex): `LU (\d{1,3}):(\d{1,2})\.(\d{1,3})`
+    - Replace: `[LU $1:$2.$3](/es/The_Urantia_Book/$1#p$2_$3)`
+* Bible references to links
+    - Search (regex): `Gn (\d{1,2}):(\d{1,2})`
+    - Replace: `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
 
 Other replacements: 
 í => ’

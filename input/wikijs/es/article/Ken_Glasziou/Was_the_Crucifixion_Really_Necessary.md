@@ -1,0 +1,61 @@
+---
+title: ¿Era realmente necesaria la crucifixión?
+description: 
+published: true
+date: 2021-11-28T14:02:03.086Z
+tags: religion, theology
+editor: markdown
+dateCreated: 2021-11-28T14:02:03.086Z
+---
+
+Autor: **Ken Glasziou**
+
+¿Era realmente necesaria la crucifixión? Eso depende de la teología de cada uno. Para aquellos que suscriben la doctrina de la expiación por el pecado original, ciertamente lo fue. Una profunda necesidad psicológica de expiación puede tener sus raíces en las costumbres de «venganza» que se encuentran en las sociedades primitivas, según las cuales la retribución ritual por agravios reales o imaginarios era obligatoria para la familia o la tribu de la víctima: muerte por muerte, ojo por ojo, etc. El pago de alguna forma de compensación, como un medio para evitar el daño físico exigido por el sistema de «pago», es un desarrollo evolutivo natural que también podría haber llevado al concepto de expiación para apaciguar la ira de los dioses.
+
+Independientemente de su verdadero origen, este concepto de expiación se remonta a aquellos tiempos que se encuentran más allá de la memoria humana, tiempos en los que el temor de los dioses dio lugar a un esfuerzo por apaciguar su ira por medio del último sacrificio, la ofrenda de una vida humana. En algunas culturas, también se requería que esta víctima sacrificial fuera un símbolo de pureza, como una virgen joven y hermosa. De algunos de esos comienzos surgió el concepto del último sacrificio, el de la matanza del Hijo de Dios real para hacer la expiación total y final por las fechorías de toda la humanidad. Esto parecería ser un desarrollo casi inevitable en la actitud de una comunidad humana necesitada y atrasada que tenía una capacidad espiritual muy limitada debido a la rebelión de Lucifer. Escondido en los oscuros rincones de la mente inconsciente de muchos de nosotros, este puede ser el único sacrificio aceptable que podría liberarnos de una carga excesiva de culpa. Nada menos que eso podría servirnos para lograr ese propósito.
+
+Los lectores de _El libro de Urantia_ que están angustiados por la horrible doctrina de la liberación del pecado a través de la sangre de Cristo deben hacerse a la idea de que sus víctimas no pueden ser liberadas simplemente denunciando esa doctrina. Incluso el más hábil de los psiquiatras reconocería que esta enfermedad, invariablemente asociada con sentimientos de culpa exagerados, es curable solo en una proporción muy pequeña de aquellos a quienes aflige. Parece poco probable que Jesús hubiera intentado un ataque directo. (ver [LU 132:0.3](/es/The_Urantia_Book/132#p0_3)) Lo más probable es que hubiera adoptado un enfoque positivo, como inculcar en la mente de sus víctimas que _el amor de Dios como Padre siempre trasciende su justicia como Juez._ Jesús hizo algo similar con su parábola cuando _preguntó si los padres humanos darían a sus hijos piedras cuando piden pan o serpientes cuando piden pescado_ ([Mt 7:9-10](/es/Bible/Matthew/7#v9)). Con el tiempo, aquí o en los mundos de estancia, las mentes de aquellos afligidos por este terrible error sobre la verdadera naturaleza de Dios necesitarán ser liberadas de su efecto opresor sobre su progreso espiritual. Para algunos, la curación requerirá más habilidad de la que está disponible en Urantia.
+
+Los adherentes a la doctrina de la expiación que no están tan profundamente afectados emocionalmente pueden responder a la discusión lógica. Con ellos, puede ser posible sembrar semillas que eventualmente darán frutos. Por ejemplo, se les podría pedir que consideraran si Dios podría haber perdonado la pecaminosidad del hombre en el caso de que Jesús hubiera sido rescatado de la cruz.
+
+La Biblia nos dice que el oficial romano que supervisó la crucifixión quedó tan impresionado con Jesús que finalmente declaró que «_este hombre era verdaderamente el Hijo de Dios_». ([Mt 27:54](/es/Bible/Matthew/27#v54)) Si el oficial hubiera percibido este hecho mucho antes, un resultado hipotético podría haber sido que él y sus hombres podrían haber sacado de la cruz a un Jesús aún vivo y huido con él al otro lado del Jordán, fuera de Judea.
+
+El agudo sentido de los romanos por la justicia legal era tal que, posiblemente, los soldados romanos podrían haberse salido con la suya con un acto tan audaz. Dado que es completamente hipotético, tenemos la libertad de inventar cualquier resultado que elijamos. Entonces, por el bien del argumento, supongamos que Jesús revivió y más tarde pudo emprender una misión larga y altamente exitosa de predicar el evangelio en todo el Imperio Romano. El resultado pudo haber sido la conversión de millones al evangelio del reino. Así pues, Jesús podría haber tenido una muerte normal y natural que también podría haber seguido de su resurrección y posteriores apariciones resucitadas a sus seguidores.
+
+¿Habría cancelado este resultado tan aparentemente deseable el perdón de Dios por el pecado heredado de Adán? ¿O Dios habría tenido que exigir que Jesús fuera ejecutado en otro lugar? ¿En qué clase de Dios lo convertiría eso? Algo similar podría desafiar a los fundamentalistas menos radicales a abrir sus mentes a conceptos alternativos.
+
+Hay muchas formas lógicas de desafiar la doctrina de la expiación. Personalmente, soy muy pesimista acerca de lograr algún éxito con aquellas generaciones que se han nutrido de y aceptado la doctrina. Jesús nos dijo que no desafiáramos las doctrinas erróneas; más bien deberíamos permitir que la verdad desplace al error. Sin duda, podemos hacer esto exponiendo la verdadera naturaleza de Dios tal como se revela en _El libro de Urantia_. Sin embargo, puede ser mucho más gratificante concentrarse en las generaciones futuras que trabajar con el presente.
+
+Cuando a los niños pequeños se les proporciona una imagen de la verdadera naturaleza de Dios y el comportamiento esperado que corresponde a tal naturaleza, la doctrina de la expiación debería volverse irrelevante.
+
+Es interesante que el concepto de que Jesús murió para aplacar la ira de Dios y hacer expiación por nuestro pecado heredado no aparece en el relato evangélico del dramático sermón pospentecostal de Pedro. En esto, Pedro anunció al mundo la verdadera identidad de Jesús como Mesías, su resurrección de la tumba y el sentido de su vida y muerte ([Hch 2:14-42](/es/Bible/Acts_of_the_Apostles/2#v14)). El llamado de Pedro a alejarse del pecado y ser bautizado es prácticamente idéntico al llamado al arrepentimiento y al bautismo para la remisión de los pecados de Juan el Bautista, excepto que incluye la recepción del don del Espíritu Santo.
+
+El concepto de expiación también está ausente del siguiente discurso de Pedro en el pórtico de Salomón ([Hch 3:11-26](/es/Bible/Acts_of_the_Apostles/3#v11)). El arrepentimiento es el único requisito para recibir el perdón de Dios. Aún más tarde, cuando se dirigió al Sumo Sacerdote ya los líderes judíos ([Hch 4:8-12](/es/Bible/Acts_of_the_Apostles/4#v8)), Pedro dice que la salvación se encuentra en Jesús, pero no menciona la expiación del pecado original. Entonces, ¿cuándo alcanzó esta doctrina prominencia?
+
+Aunque se menciona en los evangelios y las epístolas del Nuevo Testamento, es dudoso que la doctrina de la expiación fuera de gran importancia para muchas de las primeras comunidades cristianas. Durante las últimas etapas del siglo II, Ireneo, obispo de Lyon, tuvo una influencia considerable en la formulación de la doctrina de la iglesia.
+
+Ireneo sostuvo que Adán y Eva eran hijos de Dios bien intencionados en el Jardín del Edén, que su pecado no fue una revuelta condenable sino un error de juicio que invocó la compasión de Dios debido a su debilidad y vulnerabilidad. _Ireneo describió al hombre creado como una criatura imperfecta e inmadura que tiene que pasar por un desarrollo moral y finalmente ser llevado a la perfección que Dios le ha destinado. Enseñó que el sufrimiento que soportó Jesús en la cruz no fue, como tal, querido por Dios, sino el resultado de la maldad humana, el egocentrismo y el fracaso moral. Al soportar este terrible evento, Jesús no estaba aplacando a un Dios iracundo, sino que fue su agente para vencer el mal con el bien._
+
+Los conceptos de Ireneo sobre el significado de la vida y las enseñanzas de Jesús, muy extendidos en la iglesia primitiva, eran notablemente similares a las enseñanzas de _El libro de Urantia_. Sin embargo, no prevalecieron contra la brillantez teológica de Agustín de Hipona (354-430 d.C.), quien cargó a la Iglesia Católica con la doctrina de que el pecado de Adán y Eva cae automáticamente sobre todos sus descendientes. La doctrina de Agustín también afirma que todas las personas nacen en un estado de culpa y condenación que ameritaría su envío a la condenación eterna del infierno. Las enseñanzas básicas de Agustín fueron continuadas por Tomás de Aquino, luego transferidas al protestantismo por reformadores como Martín Lutero y Juan Calvino. En los últimos años ha habido un resurgimiento del interés por las enseñanzas de Ireneo.
+
+Según _El libro de Urantia_, cuando Jesús tomó la decisión de entrar en Jerusalén por última vez, sabía que podría sufrir una muerte sacrificial. Él dijo:
+
+> «Desde los tiempos antiguos los profetas han perecido en Jerusalén, y es apropiado que el Hijo del Hombre vaya a la ciudad de la casa del Padre para ser sacrificado como precio del fanatismo humano, y como consecuencia de los prejuicios religiosos y de la ceguera espiritual.» [LU 171:4.7](/es/The_Urantia_Book/171#p4_7) Poco después de pronunciar estas palabras, se volvió hacia sus discípulos y dijo: «Sin embargo, vayamos a Jerusalén para asistir a la Pascua y hacer lo que nos corresponda para llevar a cabo la voluntad del Padre que está en los cielos.» [LU 171:4.7](/es/The_Urantia_Book/171#p4_7)
+
+_El libro de Urantia_ nos proporciona un relato dramático y desgarrador de Jesús a solas en Getsemaní. Nos dice que soportó una gran angustia y sufrió un dolor indescriptible, que el sudor rodaba por su rostro en grandes gotas. Luego, cuando por fin se convenció de que el Padre tenía la intención de dejar que los acontecimientos naturales siguieran su curso, Jesús determinó no emplear su poder soberano para salvarse a sí mismo. El libro dice que el Padre en el cielo deseaba que el Hijo autootorgador terminara su carrera terrenal de forma natural, así como todos los mortales deben terminar sus vidas, sin ayuda o facilidades por alguna dispensación especial. [LU 183:1.2](/es/The_Urantia_Book/183#p1_2)
+
+¿Por qué era necesaria la cruz? ¿Cuáles eran las alternativas? Vayamos al libro en busca de respuestas:
+
+> En millones de mundos habitados, decenas de billones de criaturas evolutivas que podían haber tenido la tentación de renunciar a la lucha moral y de abandonar el buen combate de la fe, han mirado una vez más a Jesús en la cruz, y luego han continuado avanzando hacia adelante, inspirados por el espectáculo de un Dios que entrega su vida encarnada por devoción al servicio desinteresado de los hombres. [LU 188:5.5](/es/The_Urantia_Book/188#p5_5)
+
+> Sabemos que la muerte en la cruz no sirvió para reconciliar al hombre con Dios, sino para estimular en el hombre la *comprensión* del amor eterno del Padre y de la misericordia sin fin de su Hijo, y para difundir estas verdades universales a un universo entero.. [LU 188:5.13](/es/The_Urantia_Book/188#p5_13)
+
+> La cruz hace un llamamiento supremo a lo mejor que hay en el hombre, porque nos revela a aquél que estuvo dispuesto a entregar su vida al servicio de sus semejantes. Nadie puede tener un amor más grande que éste: el de estar dispuesto a dar su vida por sus amigos —y Jesús tenía tal amor, que estaba dispuesto a dar su vida por sus enemigos, un amor más grande que cualquier otro que se hubiera conocido hasta ese momento en la Tierra. [LU 188:5.7](/es/The_Urantia_Book/188#p5_7)
+
+Esas razones son suficientes para mí. No había ningún curso de acción alternativo posible. Ruego poder tener el coraje de hacer lo mismo si alguna vez me lo piden. Pero doy gracias a Dios de que eso sea muy poco probable.
+
+## Enlaces externos
+
+* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page7.html
+
+* https://es.wikipedia.org/wiki/Ireneo_de_Lyon
