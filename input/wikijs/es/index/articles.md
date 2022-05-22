@@ -861,24 +861,24 @@ Fuente: https://buscandoajesus.wordpress.com/descargas/
 
 Estado | Título | Autor | Etiquetas
 --- | --- | --- | ---
-:white_square_button: | El monte Hermón. Pero, ¿dónde estuvo Jesús? | Jan Herca | Jesus, Jesus times
-:white_square_button: | El calendario judío de la época de Jesús | Jan Herca | Jesus, Jesus times
-:white_square_button: | Salvin. Pero, ¿qué nombre es éste? | Jan Herca | Jesus, Jesus times
+:ballot_box_with_check: | [El calendario judío de la época de Jesús](/es/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times) | Jan Herca | Jesus, Jesus times
+:ballot_box_with_check: | [El monte Hermón. Pero, ¿dónde estuvo Jesús?](/es/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus) | Jan Herca | Jesus, Jesus times, place
+:ballot_box_with_check: | [Salvin. Pero, ¿qué nombre es éste?](/es/article/Jan_Herca/Salvin_But_what_name_is_this) | Jan Herca | Jesus, Jesus times
 :white_square_button: | La fiesta del Perdón | Jan Herca | Jesus, Jesus times
 :white_square_button: | Yeshua ben Yosef | Jan Herca | Jesus, Jesus times
-:white_square_button: | ¿Cómo era Cafarnaúm? | Jan Herca | Jesus, Jesus times
-:white_square_button: | La «casa de Simón Pedro», ¿primera domus-ecclesia? | Jan Herca | Jesus, Jesus times
-:white_square_button: | La ciudad perdida de Betsaida | Jan Herca | Jesus, Jesus times
+:white_square_button: | ¿Cómo era Cafarnaúm? | Jan Herca | Jesus, Jesus times, place
+:white_square_button: | La «casa de Simón Pedro», ¿primera domus-ecclesia? | Jan Herca | Jesus, Jesus times, place
+:white_square_button: | La ciudad perdida de Betsaida | Jan Herca | Jesus, Jesus times, place
 :white_square_button: | El pacifismo en la época de Jesús | Jan Herca | Jesus, Jesus times
 :white_square_button: | La sinagoga judía | Jan Herca | Jesus, Jesus times
 :white_square_button: | Imperios en la época de Jesús | Jan Herca | Jesus, Jesus times
 :white_square_button: | ¿Griegos en el norte de la India? | Jan Herca | Jesus, Jesus times
-:white_square_button: | Pella | Jan Herca | Jesus, Jesus times
-:white_square_button: | La cueva de los cuarenta días | Jan Herca | Jesus, Jesus times
-:white_square_button: | ¿Cómo fue Nazaret en tiempos de Jesús? | Jan Herca | Jesus, Jesus times
-:white_square_button: | La casa de Jesús en Nazaret | Jan Herca | Jesus, Jesus times
+:white_square_button: | Pella | Jan Herca | Jesus, Jesus times, place
+:white_square_button: | La cueva de los cuarenta días | Jan Herca | Jesus, Jesus times, place
+:white_square_button: | ¿Cómo fue Nazaret en tiempos de Jesús? | Jan Herca | Jesus, Jesus times, place
+:white_square_button: | La casa de Jesús en Nazaret | Jan Herca | Jesus, Jesus times, place
 :white_square_button: | La familia de Jesús | Jan Herca | Jesus, Jesus times
-:white_square_button: | ¿Dónde estaba Caná de Galilea? | Jan Herca | Jesus, Jesus times
+:white_square_button: | ¿Dónde estaba Caná de Galilea? | Jan Herca | Jesus, Jesus times, place
 :white_square_button: | Una típica boda judía | Jan Herca | Jesus, Jesus times
 :white_square_button: | Los hermanos de Jesús | Jan Herca | Jesus, Jesus times
 :white_square_button: | El culto del sábado | Jan Herca | Jesus, Jesus times
@@ -886,15 +886,15 @@ Estado | Título | Autor | Etiquetas
 :white_square_button: | Clases sociales en tiempos de Jesús | Jan Herca | Jesus, Jesus times
 :white_square_button: | Situación social de la mujer judía en tiempos de Jesús | Jan Herca | Jesus, Jesus times
 :white_square_button: | Cronología de la vida de Jesús según El Libro de Urantia | Jan Herca | Jesus, Jesus times
-:white_square_button: | Maqueronte | Jan Herca | Jesus, Jesus times
-:white_square_button: | Queresa | Jan Herca | Jesus, Jesus times
-:white_square_button: | Tariquea | Jan Herca | Jesus, Jesus times
+:white_square_button: | Maqueronte | Jan Herca | Jesus, Jesus times, place
+:white_square_button: | Queresa | Jan Herca | Jesus, Jesus times, place
+:white_square_button: | Tariquea | Jan Herca | Jesus, Jesus times, place
 :white_square_button: | La corte real | Jan Herca | Jesus, Jesus times
 :white_square_button: | Grupos religiosos y políticos en tiempos de Jesús | Jan Herca | Jesus, Jesus times
 :white_square_button: | Las fiestas judías | Jan Herca | Jesus, Jesus times
 :white_square_button: | Grupos según la pureza racial en tiempos de Jesús | Jan Herca | Jesus, Jesus times
-:white_square_button: | Jerusalén en tiempos de Jesús | Jan Herca | Jesus, Jesus times
-:white_square_button: | Recreaciones de la Jerusalén de Jesús | Jan Herca | Jesus, Jesus times
+:white_square_button: | Jerusalén en tiempos de Jesús | Jan Herca | Jesus, Jesus times, place
+:white_square_button: | Recreaciones de la Jerusalén de Jesús | Jan Herca | Jesus, Jesus times, place
 :white_square_button: | Herodes Antipas | Jan Herca | Jesus, Jesus times
 :white_square_button: | Poncio Pilato | Jan Herca | Jesus, Jesus times
 :white_square_button: | El sector de la pesca en el mar de Galilea | Jan Herca | Jesus, Jesus times

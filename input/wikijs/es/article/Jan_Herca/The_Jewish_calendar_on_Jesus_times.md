@@ -116,6 +116,10 @@ Existen multitud de factores que pueden empañar los resultados: por una parte, 
 
 Lo que sí está claro es que cualquier aproximación debe guiarse de los datos astronómicos, que pueden sufrir desviaciones de varias horas, pero en ningún caso de más de un día. Por tanto, podemos afirmar con cierta seguridad que se trata de un calendario bastante aproximado al que pudo utilizar el propio Jesús durante su vida pública.
 
+## Enlaces externos
+
+* Artículo original: https://buscandoajesus.wordpress.com/descargas/
+
 ## Referencias
 
 [^1]: Carl D. Franklin, _Why the crucifixion of Christ could not have ocurred in 31 AD_. Este documento está disponible en http://www.cbcg.org/hebrew_cal.htm.
