@@ -321,6 +321,6 @@ Cualquiera que sea la verdad, es seguro que nuestro Ajustador del Pensamiento ti
 
 [^3]: D. Deutsch. «La psicología de la música».
 
-[^4]: A. Clarke-Stewart et al. “Psicología del Desarrollo Infantil”.
+[^4]: A. Clarke-Stewart et al. «Psicología del Desarrollo Infantil».
 
 [^5]: R. Radocy y J. Boyle. «Fundamentos psicológicos del comportamiento musical»

@@ -48,7 +48,7 @@ No preveo ninguna dificultad por parte de Jesús/Miguel porque soy mujer. Nos he
 
 ## Referencias
 
-[^1]: “Brain Sex: The Real Difference Between Men and Women”, Dr Anne Moir, Ph.D. y David Jessel, Wise Owl Secrets Publishing, 1989.
+[^1]: «Brain Sex: The Real Difference Between Men and Women», Dr Anne Moir, Ph.D. y David Jessel, Wise Owl Secrets Publishing, 1989.
 
 ## Notas
 
