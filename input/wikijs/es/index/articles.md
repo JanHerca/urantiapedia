@@ -48,7 +48,7 @@ Estado | Fuente | Ejemplar | Título | Autor | Etiquetas
 :ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [El Alfa y la Omega](/es/article/The_Alpha_and_the_Omega) | M. Scott Peck | Religion
 :ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [Comunión ininterrumpida con nuestro Ajustador del Pensamiento](/es/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster) | Ann Bendall | Psychology; Thought Adjusters
 :ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [¿Era realmente necesaria la crucifixión?](/es/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary) | Ken Glasziou | Religion; Theology
-:ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [Adam and Eve](/es/article/Ann_Bendall/Adam_and_eve) | Ann Bendall | Religion; The Urantia Book
+:ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [Adam and Eve](/es/article/Ann_Bendall/Adam_and_Eve) | Ann Bendall | Religion; The Urantia Book
 :ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [La Cena del Recuerdo](/es/article/The_Remembrance_Supper) | Sunshine Coast Study Group | Religion; The Urantia Book
 :ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [Harmony: The One Universal Code of Communication](/es/article/Ann_Bendall/Harmony_The_One_Universal_Code_of_Communication) | Ann Bendall | Psychology
 :white_square_button: | Innerface | Vol  5, No. 7. | "Piltdown Man." | Ken Glasziou | Biology and Genetics; Gardner
