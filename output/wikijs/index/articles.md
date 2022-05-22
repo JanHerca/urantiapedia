@@ -14,8 +14,10 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	- https://urantia-book.org/archive/newsletters/
 	- https://urantiabook.org/Urantia-Book-Paper-Focused-Resources
 	- UAI: https://urantia-association.org/topical-index-of-articles/
-	- Innerface: https://urantia-book.org/archive/newsletters/innerface/index.html
-	- Fellowship Herald: https://urantia-book.org/archive/newsletters/herald/
+	- Innerface International: https://urantia-book.org/archive/newsletters/innerface/index.html
+	- Fellowship Herald:
+		https://urantia-book.org/archive/newsletters/herald/ 
+		https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#
 	- Spiritual Fellowship Journal: https://urantia-book.org/index_spiritual_fellowship_journal.html
 	- The Urantian Journal: https://urantia-book.org/archive/newsletters/urantian_journal/
 	- http://www.encyclopediaurantia.org/
@@ -25,12 +27,14 @@ dateCreated: 2021-11-28T14:02:03.086Z
 * UBAnnotated and UBTheNews:
 	- https://ubannotated.com/main-menu/animated/Topical%20Studies/
 	- https://ubannotated.com/ubthenews/reports_list/
-* In spanish: 
-	- https://urantiabook.org/Estudios_Espanol
+* Articles from Jan Herca: 
 	- https://buscandoajesus.wordpress.com/descargas/
+* Other in spanish:
+	- https://urantiabook.org/Estudios_Espanol
 
+## Innerface International
 
-## List of articles
+Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 Status | Source | Issue | Title | Author | Tags
 --- | --- | --- | --- | --- | ---
@@ -43,12 +47,13 @@ Status | Source | Issue | Title | Author | Tags
 :ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [Time for More Change? Symbols, Cults, and _The Urantia Book_](/en/article/Ken_Glasziou/Time_for_More_Change_Symbols_Cults) | Ken Glasziou | Religion; The Urantia Book
 :ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [The Alpha and the Omega](/en/article/The_Alpha_and_the_Omega) | M. Scott Peck | Religion
 :ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [Unbroken Communion with our Thought Adjuster](/en/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster) | Ann Bendall | Psychology; Thought Adjusters
+:ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [Was the Crucifixion really Necessary?](/en/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary) | Ken Glasziou | Religion; Theology
+:ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [Adam and Eve](/en/article/Ann_Bendall/Adam_and_eve) | Ann Bendall | Religion; The Urantia Book
+:ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [The Remembrance Supper](/en/article/The_Remembrance_Supper) | Sunshine Coast Study Group | Religion; The Urantia Book
+:ballot_box_with_check: | Innerface | Vol. 01, No. 2. | [Harmony: The One Universal Code of Communication](/en/article/Ann_Bendall/Harmony_The_One_Universal_Code_of_Communication) | Ann Bendall | Psychology
 :white_square_button: | Innerface | Vol  5, No. 7. | "Piltdown Man." | Ken Glasziou | Biology and Genetics; Gardner
 :white_square_button: | Innerface | Vol. 01,  No. 5. | "The Parliament of the World's Religions." | Byron Belitsos | Religion
 :white_square_button: | Innerface | Vol. 01,  No. 5. | "The Real Gospel." | Norm Duval | Religion
-:white_square_button: | Innerface | Vol. 01, No. 2. | "Adam and Eve" | Ann Bendall | Religion; The Urantia Book
-:white_square_button: | Innerface | Vol. 01, No. 2. | "The Remembrance Supper." | Sunshine Coast Study Group | Religion; The Urantia Book
-:white_square_button: | Innerface | Vol. 01, No. 2. | "Was the Crucifixion really Necessary?" | Ken Glasziou | Religion; Theology
 :white_square_button: | Innerface | Vol. 01, No. 3. | "Heart—the Alpha and Omega of Spirituality." | Rob Crickett | Religion
 :white_square_button: | Innerface | Vol. 01, No. 3. | "High on Angels." | Dick Bain | Religion; The Urantia Book
 :white_square_button: | Innerface | Vol. 01, No. 3. | "Jealousy. the Heart Poison. How did Jesus deal with it?" | Ann Bendall | Jesus/Jesus teachings; Psychology
@@ -543,6 +548,15 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 10, No. 3. | "The teachings of Jesus—his spiritual thought and life." | | Religion
 :white_square_button: | Innerface | Vol. 10, No. 3. | "What can one believe?" | | Morality
 :white_square_button: | Innerface | Vol. 10, No. 4. | "The teachings of Jesus—his spiritual thought and life." | | Jesus/Jesus teachings; Morality; Revelation
+
+## UB Annotaded & UBTheNews
+
+Source:
+- https://ubannotated.com/main-menu/animated/Topical%20Studies/
+- https://ubannotated.com/ubthenews/reports_list/
+
+Status | Source | Issue | Title | Author | Tags
+--- | --- | --- | --- | --- | ---
 :ballot_box_with_check: | UBAnnotated | | [Adam and Eve](/en/article/Halbert_Katzen/Adam_and_Eve) | Halbert Katzen | Anthropology; Biology and Genetics
 :ballot_box_with_check: | UBAnnotated | | [Creating Fire](/en/article/Halbert_Katzen/Creating_fire) | Halbert Katzen | Anthropology
 :ballot_box_with_check: | UBAnnotated | | [Early Migration to Britain](/en/article/Halbert_Katzen/Early_migration_to_Britain) | Halbert Katzen | Anthropology
@@ -560,6 +574,13 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | UBAnnotated | | "Shroud of Turin" | Halbert Katzen | Jesus/Jesus life
 :white_square_button: | UBAnnotated | | "Sierra Mountains" | Halbert Katzen | Geology
 :white_square_button: | UBAnnotated | | "Tycho’s Nova" | Halbert Katzen | Astronomy
+
+## Urantian Journal
+
+Source: https://urantia-book.org/archive/newsletters/urantian_journal/
+
+Status | Source | Issue | Title | Author | Tags
+--- | --- | --- | --- | --- | ---
 :white_square_button: | Urantian Journal | | "A philosophy of brotherhood", | Stan and Ruth Hartman | | 
 :white_square_button: | Urantian Journal | | "Actualizing the Supreme in Your Life" | Rosey Lieske | 
 :white_square_button: | Urantian Journal | | "An Infinite Universe with Limits" | Fr. Robert Schuer | 
@@ -571,6 +592,11 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Urantian Journal | | "The Revelation of Man" | Jim McNelly | 
 :white_square_button: | Urantian Journal | | "Thoughts on the Dissemination of the Teachings of The Urantia Book" | Ron Louie | 
 :white_square_button: | Urantian Journal | | "Worship" | C. L. Van Sant | Worship
+
+## Fellowship Journal
+
+Status | Source | Issue | Title | Author | Tags
+--- | --- | --- | --- | --- | ---
 :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "A Faith Adventure", | Meredith J. Sprunger | 
 :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Arise, Take Up Your Life and Walk" Sermon | Rev. Craig T. McClellan | 
 :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Empowering the Church", | Isabelle Masel | 
@@ -594,6 +620,15 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91 | "The Urantia Book as a Sermon Resource" | Duane L. Faw | 
 :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91 | "Throwing the Spiritual Baby Out With the Sexist Bathwater" | | 
 :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91 | "Tuning the Inner and Outer Life" | | 
+
+## Fellowship Herald
+
+Source: 
+- https://urantia-book.org/archive/newsletters/herald/ 
+- https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#
+
+Status | Source | Issue | Title | Author | Tags
+--- | --- | --- | --- | --- | ---
 :white_square_button: | Herald | Vol. 01, No. 1 | "On the Brink of the Most Amazing and Enthralling Epoch" | Carolyn Kendall | 
 :white_square_button: | Herald | Vol. 01, No. 1 | "Let Your Soul Decide" | Richard S. Omura | 
 :white_square_button: | Herald | Vol. 01, No. 1 | "The Urantia Papers From a Jewish Perspective" | Martin Greenhut | 
@@ -819,4 +854,57 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Herald | Vol. 22, No. 1 | "Mighty Messenger Fall - Intro Edition" | Jena Lassiter | 
 :white_square_button: | Herald | Vol. 22, No. 1 | "Foxy Parents" | Mary Huggins | 
 :white_square_button: | Herald | Vol. 22, No. 1 | "Graduation Memorial Initiative" | Bobbie Dreier | 
+
+## Artículos de Jan Herca
+
+Fuente: https://buscandoajesus.wordpress.com/descargas/
+
+Status | Title | Author | Tags
+--- | --- | --- | ---
+:white_square_button: | Mount Hermon. But where was Jesus? | Jan Herca |
+:white_square_button: | The Jewish calendar on Jesus times | Jan Herca | Jesus; Jesus times
+:white_square_button: | Salvin. But what name is this? | Jan Herca |
+:white_square_button: | Day of Atonemen | Jan Herca |
+:white_square_button: | Yeshua ben Yosef | Jan Herca |
+:white_square_button: | What was Capernaum like? | Jan Herca |
+:white_square_button: | The “house of Simon Peter”, first domus-ecclesia? | Jan Herca |
+:white_square_button: | The lost city of Bethsaida | Jan Herca |
+:white_square_button: | Pacifism in the time of Jesus | Jan Herca |
+:white_square_button: | The Jewish synagogue | Jan Herca |
+:white_square_button: | Empires at the time of Jesus | Jan Herca |
+:white_square_button: | Greeks in North India? | Jan Herca |
+:white_square_button: | Pella | Jan Herca |
+:white_square_button: | The cave of forty days | Jan Herca |
+:white_square_button: | What was Nazareth like in the time of Jesus? | Jan Herca |
+:white_square_button: | The house of Jesus in Nazareth | Jan Herca |
+:white_square_button: | Jesus family | Jan Herca |
+:white_square_button: | Where was Cana of Galilee? | Jan Herca |
+:white_square_button: | A typical Jewish wedding | Jan Herca |
+:white_square_button: | The brothers of Jesus | Jan Herca |
+:white_square_button: | The Sabbath Worship | Jan Herca |
+:white_square_button: | The Jewish authorities at the time of Jesus | Jan Herca |
+:white_square_button: | Social classes in the time of Jesus | Jan Herca |
+:white_square_button: | Social situation of the Jewish woman in the times of Jesus | Jan Herca |
+:white_square_button: | Chronology of the life of Jesus according to The Urantia Book | Jan Herca |
+:white_square_button: | Machaerus | Jan Herca |
+:white_square_button: | Kheresa | Jan Herca |
+:white_square_button: | Tarichea | Jan Herca |
+:white_square_button: | The royal court | Jan Herca |
+:white_square_button: | Religious and political groups in the time of Jesus | Jan Herca |
+:white_square_button: | The Jewish holidays | Jan Herca |
+:white_square_button: | Groups according to racial purity in the times of Jesus | Jan Herca |
+:white_square_button: | Jerusalem in the time of Jesus | Jan Herca |
+:white_square_button: | Recreations of the Jerusalem of Jesus | Jan Herca |
+:white_square_button: | Herod Antipas | Jan Herca |
+:white_square_button: | Pontius Pilate | Jan Herca |
+:white_square_button: | The fishing sector in the Sea of ​​Galilee | Jan Herca |
+:white_square_button: | Monetary system and cost of living in the time of Jesus | Jan Herca |
+:white_square_button: | The Great Jerusalem Sanhedrin and other Jewish courts | Jan Herca |
+:white_square_button: | The composition of the gospels according to The Urantia Book | Jan Herca |
+:white_square_button: | Taxes in the time of Jesus | Jan Herca |
+
+## Other
+
+Status | Source | Issue | Title | Author | Tags
+--- | --- | --- | --- | --- | ---
 :ballot_box_with_check: | | | [How large is Orvonton, really?](/en/article/How_big_is_Orvonton) | Norm Du Val | Astronomy; Cosmology
