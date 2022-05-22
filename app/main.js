@@ -1,6 +1,6 @@
 const {app, BrowserWindow} = require('electron'); // http://electronjs.org/docs/api
 const path = require('path'); // https://nodejs.org/api/path.html
-const url = require('url'); // https://nodejs.org/api/url.html
+// const url = require('url'); // https://nodejs.org/api/url.html
 
 let mainWindow = null;
 
@@ -25,11 +25,12 @@ app.once('ready', () => {
 	mainWindow = new BrowserWindow(options);
 
 	// Load a URL in the window to the local index.html path
-	mainWindow.loadURL(url.format({
-		pathname: path.join(__dirname, 'index.html'),
-		protocol: 'file:',
-		slashes: true
-	}));
+	// mainWindow.loadURL(url.format({
+	// 	pathname: path.join(__dirname, 'index.html'),
+	// 	protocol: 'file:',
+	// 	slashes: true
+	// }));
+	mainWindow.loadURL('file://' + __dirname + '/index.html');
 
 	// Show window when page is ready
 	mainWindow.once('ready-to-show', () => {

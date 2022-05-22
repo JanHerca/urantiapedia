@@ -42,6 +42,7 @@ Other replacements:
 ì => “
 î => ”
 
+
 Search end of sentences: [\.”\?!] 
 
 ## Typings
