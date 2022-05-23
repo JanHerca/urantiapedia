@@ -1,5 +1,5 @@
 ---
-title: El calendario judío de la época de Jesús
+title: "El calendario judío de la época de Jesús"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -18,7 +18,7 @@ Lo que nos ocupa aquí es el calendario judío de la época de Jesús y su corre
 
 Los evangelios y toda la literatura de la época de Jesús de que disponemos no nos permiten situar con exactitud ni una sola fecha de un acontecimiento de la vida de Jesús. Las indicaciones de los evangelistas hablan en términos generales con referencia al inicio de algún reinado pero no concretan con números la fecha exacta de los sucesos. Esta situación hace que no se conozca ni el día en que nació Jesús, ni el día en que murió, ni la fecha de ningún acontecimiento importante de su vida. 
 
-Para complicarlo más, no hay unanimidad entre los estudiosos sobre qué reglas regían el calendario luni-solar judío de la época. Algunos expertos proponen un calendario que seguía unas reglas fijas y bien conocidas. Se sabe que estas reglas estaban en vigor en la época de Maimónides, que vivió entre 1135 y 1204 de nuestra era. Pero se desconoce si estas reglas estaban también en vigor en la época de Jesús, o si por el contrario el calendario se regía por observaciones astronómicas o incluso agrícolas, y no por unas reglas predefinidas.
+Para complicarlo más, no hay unanimidad entre los estudiosos sobre qué reglas regían el calendario luni-solar judío de la época. Algunos expertos proponen un calendario que seguía unas reglas fijas y bien conocidas. Se sabe que estas reglas estaban en vigor en la época de Maimónides, que vivió entre 1135 y 1204 de nuestra era. Pero se desconoce si estas reglas estaban también en vigor en la época de Jesús, o si por el contrario el calendario se regía por observaciones astronómicas o incluso agrícolas, y no por unas reglas predefinidas. [^1] [^2]
 
 ## Conceptos básicos
 
@@ -66,7 +66,7 @@ El calendario se ha elaborado de la siguiente manera:
 
 * El punto de partida ha sido el calendario basado en las reglas de posposición actuales, que utiliza un ciclo metónico tradicional, haciendo que los años 1, 2, 4, 5, 7, 9, 10, 12, 13, 15, 16 y 18 del ciclo tengan doce meses. Los meses, en orden del primero al último, se llamaban: tishri, heshván, kislev, tevet, shevat, adar, nisán, iyar, siván, tammuz, ab y elul. El resto de años del ciclo el mes de adar se alargaba un día y se añadía detrás un mes más llamado adar sení o segundo adar.
 
-* También se ha utilizado la regla de hacer que todos los meses excepto hesván y kislev tengan una duración fija: tishri tenía 30 días, tevet 29, shevat 30, adar (años «embolismales») 30, adar (años «comunes») o adar sení (años «embolismales») 29, nisán 30, iyar 29, siván 30, tammuz 29, ab 30 y elul 29. Como se ve es fácil de recordar. Cada mes impar tenía 30 días y cada mes par tenía 29, excepto para heshván y kislev (y sin contar el adar de los años embolismales). Sin embargo, muchos estudiosos del tema se inclinan más por calendarios donde todos los meses eran susceptibles de tener un número de días variable. Resulta fácil inclinarse por la idea de que ya en tiempos de Jesús casi todos los meses tenían una longitud fija para facilitar el que la gente pudiera recordarlos y utilizarlos, tal y como se hace hoy en día.
+* También se ha utilizado la regla de hacer que todos los meses excepto hesván y kislev tengan una duración fija: tishri tenía 30 días, tevet 29, shevat 30, adar (años «embolismales») 30, adar (años «comunes») o adar sení (años «embolismales») 29, nisán 30, iyar 29, siván 30, tammuz 29, ab 30 y elul 29. Como se ve es fácil de recordar. Cada mes impar tenía 30 días y cada mes par tenía 29, excepto para heshván y kislev (y sin contar el adar de los años embolismales). Sin embargo, muchos estudiosos del tema se inclinan más por calendarios donde todos los meses eran susceptibles de tener un número de días variable. Resulta fácil inclinarse por la idea de que ya en tiempos de Jesús casi todos los meses tenían una longitud fija para facilitar el que la gente pudiera recordarlos y utilizarlos, tal y como se hace hoy en día. [^4] [^5] [^6]
 
 * Del mismo modo, la duración de los días de heshván y kislev seguían reglas predefinidas, que creaban seis tipos de años diferentes.
 
@@ -102,7 +102,7 @@ El calendario se ha elaborado de la siguiente manera:
 ^2^ Años que cumplía Jesús ese agosto.
 ^3^ Años embolismales en negrita.
 
-* Finalmente, se han utilizado los datos astronómicos proporcionados por el _Six Milenium Moon Events_ de la NASA,[^7] para tratar de ajustar lo mejor posible el comienzo de cada año con la conjunción lunar de septiembre - octubre. Debe recordarse que el año civil judío comenzaba el 1 de tishri, que solía recaer al principio del otoño. El 1 de nisán era el principio del calendario religioso.
+* Finalmente, se han utilizado los datos astronómicos proporcionados por el _Six Milenium Moon Events_ de la NASA,[^7] [^8] para tratar de ajustar lo mejor posible el comienzo de cada año con la conjunción lunar de septiembre - octubre. Debe recordarse que el año civil judío comenzaba el 1 de tishri, que solía recaer al principio del otoño. El 1 de nisán era el principio del calendario religioso.
 
 * Por último, se ha ajustado el calendario para que el 7 de abril de 30 d.C. fuera el 14 de nisán de 3790, desplazando el resto del calendario en consecuencia para mantener la integridad en el número de días de los meses. El resultado de este trabajo es el que se muestra en esta [Cronología de la vida de Jesús](/es/article/Jan_Herca/Chronology_of_the_life_of_Jesus).
 
@@ -114,7 +114,7 @@ Sorprendentemente, el calendario que aquí se ofrece como solución nunca tiene 
 
 Existen multitud de factores que pueden empañar los resultados: por una parte, puede que los cálculos astronómicos no sean totalmente precisos, y no tengan en cuenta todas las perturbaciones lunares que afectaron a la época; por otra, las observaciones realizadas por los escribas y rabinos de aquel tiempo podrían haberse afectado por días nubosos y mal tiempo; o incluso podría darse el caso de que todas las suposiciones sobre el uso del calendario actual fueran erróneas y en realidad se usara otro muy distinto entonces.
 
-Lo que sí está claro es que cualquier aproximación debe guiarse de los datos astronómicos, que pueden sufrir desviaciones de varias horas, pero en ningún caso de más de un día. Por tanto, podemos afirmar con cierta seguridad que se trata de un calendario bastante aproximado al que pudo utilizar el propio Jesús durante su vida pública.
+Lo que sí está claro es que cualquier aproximación debe guiarse de los datos astronómicos, que pueden sufrir desviaciones de varias horas, pero en ningún caso de más de un día. Por tanto, podemos afirmar con cierta seguridad que se trata de un calendario bastante aproximado al que pudo utilizar el propio Jesús durante su vida pública. [^9]
 
 ## Enlaces externos
 

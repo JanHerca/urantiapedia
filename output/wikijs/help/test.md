@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-05-19T00:06:24.071Z
+date: 2022-05-22T12:08:33.742Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -338,6 +338,8 @@ $$\frac{1}{\sqrt{x^2 + 1}}$$
 __O^1^ O^2^ O^3^ O^4^ O^5^ O^6^ O^7^ O^8^ O^9^ <u>O</u>^10^ O^11^ O^12^__
 
 $$V = H_0 * D, $$
+
+In most part yes, in $1/4$ no.
 
 description	| code | examples
 --- | --- | ---

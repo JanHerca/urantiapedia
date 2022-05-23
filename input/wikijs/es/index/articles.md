@@ -56,14 +56,14 @@ Estado | Fuente | Ejemplar | Título | Autor | Etiquetas
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [The Missing Link](/es/article/The_Missing_Link) | | Religion, The Urantia Book
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [Corazón —el Alfa y Omega de la Espiritualidad](/en/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality) | Rob Crickett | Religion
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [El corazón que se quedó sin amor](/es/article/Ann_Bendall/The_Heart_that_Became_Loveless) | Ann Bendall | Psychology, The Urantia Book
+:ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [¡Los celos, el veneno del corazón! ¿Cómo lo enfrentó Jesús?](/es/article/Ann_Bendall/Jealousy_the_Heart_Poison_How_did_Jesus_deal_with_it) | Ann Bendall | Jesus, Jesus teachings, Psychology
+:ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [Arriba con los Ángeles](/es/article/Dick_Bain/High_on_Angels) | Dick Bain | Religion, The Urantia Book
+:ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [El Segundo Gran Mandamiento](/es/article/Ken_Glasziou/The_Second_Great_Commandment) | Ken Glasziou | Jesus, Jesus teachings, The Urantia Book
+:ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [La ciencia y El Libro de Urantia. ¿Cuándo llegó el Hombre Rojo a las Américas?](/es/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas) | Ken Glasziou | Anthropology
+:white_square_button: | Innerface | Vol. 01, No. 3. | "Primate Ancestry." | Ken Glasziou | Anthropology
 :white_square_button: | Innerface | Vol  5, No. 7. | "Piltdown Man." | Ken Glasziou | Biology and Genetics, Gardner
 :white_square_button: | Innerface | Vol. 01,  No. 5. | "The Parliament of the World's Religions." | Byron Belitsos | Religion
 :white_square_button: | Innerface | Vol. 01,  No. 5. | "The Real Gospel." | Norm Duval | Religion
-:white_square_button: | Innerface | Vol. 01, No. 3. | "High on Angels." | Dick Bain | Religion, The Urantia Book
-:white_square_button: | Innerface | Vol. 01, No. 3. | "Jealousy. the Heart Poison. How did Jesus deal with it?" | Ann Bendall | Jesus, Jesus teachings, Psychology
-:white_square_button: | Innerface | Vol. 01, No. 3. | "Primate Ancestry." | Ken Glasziou | Anthropology
-:white_square_button: | Innerface | Vol. 01, No. 3. | "The Second Great Commandment. Questions posed The Urantia Book." | Ken Glasziou | Jesus, Jesus teachings, The Urantia Book
-:white_square_button: | Innerface | Vol. 01, No. 3. | "When did the Red Man arrive in the Americas." | Ken Glasziou | Anthropology
 :white_square_button: | Innerface | Vol. 01, No. 4. | "Another and Greater John the Baptist." | Ann Bendall | Morality, Psychology
 :white_square_button: | Innerface | Vol. 01, No. 4. | "Cognitive Dissonance" | Ann Bendall | Jesus, Jesus teachings, Morality, Psychology
 :white_square_button: | Innerface | Vol. 01, No. 4. | "Defrag." | Ken Glasziou | Jesus, Jesus teachings, Morality

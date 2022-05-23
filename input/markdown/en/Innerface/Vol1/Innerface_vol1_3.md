@@ -238,72 +238,75 @@ Jesus called everyone “friend” for he was in no doubt that indeed he was jus
 
 Many emotions effectively block the development of a friendship and one of the most destructive of these is the emotion—jealousy. Defined as “the state of being suspicious or fearful of being displaced by a rival ” (Oxford dictionary), jealousy is based on fear—the opposite emotion to that conducive to formation of a friendship. In addition it involves a lack of trust and a major error in thinking, totally in contradiction to the reality of the universe, namely that one person can be a rival of another. Rival for what, when each of us is unique, each of us has a preferred plan by God, a plan which no other personality can fulfill?
 
-So what causes jealousy?
+## So what causes jealousy?
 
-It appears to be the illusion aforementioned—that one person can be a rival of another, which in its turn is created by the clinging to a goal in life which is impossible to achieve by oneself. There is a sense of “failure deep within”and rather than to discard the goal, a need develops to blame some person or the environment. Either they are objectified to represent the reason for the jealous individual's failure, or they are the 'rival' , the potential enemy, who wishes to claim what the jealous person sees as their rightful position of honour and glory.
+It appears to be the illusion aforementioned—that one person can be a rival of another, which in its turn is created by the clinging to a goal in life which is impossible to achieve by oneself. There is a sense of “failure deep within”and rather than to discard the goal, a need develops to blame some person or the environment. Either they are objectified to represent the reason for the jealous individual's failure, or they are the “rival”, the potential enemy, who wishes to claim what the jealous person sees as their rightful position of honour and glory.
 
 It can be jealousy of:
 
-a) a person's achievements, like the jealousy of another's musical abilities which makes listening to their exquisite music painful and torturing to the poor sick mind of the person who indulges in this “mental poison”.
+* a) _a person's achievements,_ like the jealousy of another's musical abilities which makes listening to their exquisite music painful and torturing to the poor sick mind of the person who indulges in this “mental poison”.
 
-b) a person's personality. And tragically it screams -“ I am not good enough by my standards. I should be like you, and I believe I will never be like you, so how dare you be like you. You are not as I see you, you are evil and a sham.” And so the jealous person character assassinates.
+* b) _a person's personality._ And tragically it screams -“ I am not good enough by my standards. I should be like you, and I believe I will never be like you, so how dare you be like you. You are not as I see you, you are evil and a sham.” And so the jealous person character assassinates.
 
-c) another person showing an interest in someone other than the jealous person. This form is normally restricted to close relationships such as marriage partners. It is borne of deep insecurity and an objectification of the partner as a possession. It reveals another interesting phenomenon—the erroneous belief that love is an exhaustible commodity and there is a limited supply to go around. If it appears another is getting love, consideration and attention, then the poor jealous spouse is convinced that they are having their share depleted.
+* c) _another person showing an interest in someone other than the jealous person._ This form is normally restricted to close relationships such as marriage partners. It is borne of deep insecurity and an objectification of the partner as a possession. It reveals another interesting phenomenon—the erroneous belief that love is an exhaustible commodity and there is a limited supply to go around. If it appears another is getting love, consideration and attention, then the poor jealous spouse is convinced that they are having their share depleted.
 
-Where jealousy lies, the ability to extend out in love to others is limited at best.
+_Where jealousy lies, the ability to extend out in love to others is limited at best._
 
-How did Jesus deal with a jealous individual?
+## How did Jesus deal with a jealous individual?
 
-Firstly, Jesus adopted an attitude with everyone, including his own family, of the utmost of respect for the free will of the individual. And this respect for free will caused him much sadness at times with those he loved dearly, such as his mother and Judas.
+_Firstly,_ Jesus adopted an attitude with everyone, including his own family, of the utmost of respect for the free will of the individual. And this respect for free will caused him much sadness at times with those he loved dearly, such as his mother and Judas.
 
-“...he did not want to bring any undue influence to bear upon his family or others which would lead them to believe in him against their honest convictions. He always refused to take undue or unfair advantage of the human mind. He did not want men to believe in him unless their hearts were responsive to the spiritual realities revealed in his teachings.” (1413)
+> . . . he did not want to bring any undue influence to bear upon his family or others which would lead them to believe in him against their honest convictions. He always refused to take undue or unfair advantage of the human mind. He did not want men to believe in him unless their hearts were responsive to the spiritual realities revealed in his teachings. [UB 128:4.7](/en/The_Urantia_Book/128#p4_7)
 
 It saddened Jesus that their “honest convictions” might be totally in error, but it was essential to him to respect their free will right to make such errors.
-Secondly, with his family (and everyone else):
 
-“Jesus did everything humanly possible, consistent with his dedication to the doing of his Father's will, to retain the confidence and affection of his family.” (1539) 
+_Secondly,_ with his family (and everyone else):
+
+> Jesus did everything humanly possible, consistent with his dedication to the doing of his Father's will, to retain the confidence and affection of his family. [UB 138:1.4](/en/The_Urantia_Book/138#p1_4)
 
 And with the jealous individual? _The Urantia Book_ supplies a perfect case study—Judas. Unfortunately this “faith adventure” by Jesus was not responded to by Judas, and there appears to be no other mention of a jealous individual in the book. Jesus had everything going for him to help Judas overcome his jealousy. He was in a position of power by the choice of the apostles. They looked up to him, they relied upon him, they wished through association with him to fulfill their dreams. Most of us, in dealing with the jealous individual, are in a position of lesser power, and the jealous individual will be prone to utilize this power differential, to block any attempts at assistance by ourselves—i.e., to “do as Jesus would do.”
 
-Judas had many unfortunate personality characteristics such as a “proud and vengeful mind of exaggerated self-importance.”(1567)
+Judas had many unfortunate personality characteristics such as a “_proud and vengeful mind of exaggerated self-importance_.” [UB 139:12.11](/en/The_Urantia_Book/139#p12_11)
 
-“From the beginning the Master fully understood the weakness of this apostle and well knew the dangers of admitting him to fellowship. But it is the nature of the Sons of God to give every created being a full and equal chance for salvation and survival...... The door of eternal life is wide open to all; ”whosoever will may come“; there are no restrictions or qualifications save the faith of the one who comes.” (1566)
+> From the beginning the Master fully understood the weakness of this apostle and well knew the dangers of admitting him to fellowship. But it is the nature of the Sons of God to give every created being a full and equal chance for salvation and survival. . . . The door of eternal life is wide open to all; “whosoever will may come”; there are no restrictions or qualifications save the *faith* of the one who comes. [UB 139:12.7](/en/The_Urantia_Book/139#p12_7)
 
-“Jesus loved and trusted Judas even as he loved and trusted the other apostles, but Judas failed to develop loyal trust and to experience wholehearted love in return..... Judas craved worldly honor in his mind and grew to love this desire with his whole heart; the other apostles likewise craved this same worldly honor in their minds, but with their hearts they loved Jesus and were doing their best to learn to love the truths which he taught them.” (1926)
+> Jesus loved and trusted Judas even as he loved and trusted the other apostles, but Judas failed to develop loyal trust and to experience wholehearted love in return. . . . Judas craved worldly honor in his mind and grew to love this desire with his whole heart; the other apostles likewise craved this same worldly honor in their minds, but with their hearts they loved Jesus and were doing their best to learn to love the truths which he taught them. [UB 177:4.10](/en/The_Urantia_Book/177#p4_10)
 
-Many times Jesus warned Judas that he was slipping, “but divine warnings are usually useless in dealing with embittered human nature. Jesus did everything possible, consistent with man's moral freedom, to prevent Judas's choosing to go the wrong way.” (1567)
+> [Many times Jesus warned Judas that he was slipping,] but divine warnings are usually useless in dealing with embittered human nature. Jesus did everything possible, consistent with man's moral freedom, to prevent Judas's choosing to go the wrong way. [UB 139:12.11](/en/The_Urantia_Book/139#p12_11)
 
 From some of the conversations quoted in _The Urantia Book_, Jesus did not mince words when giving his advice. For example, when Judas went to Jesus to complain about Nathaniel, Jesus said: 
 
-“Judas, watch carefully your steps; do not overmagnify your office. Who of us is competent to judge his brother? ... Go then, Judas, and do well that which has been intrusted to you but leave Nathaniel, your brother, to give account of himself to God.” (1558)
+> “Judas, watch carefully your steps; do not overmagnify your office. Who of us is competent to judge his brother? . . . Go then, Judas, and do well that which has been intrusted to you but leave Nathaniel, your brother, to give account of himself to God.” [UB 139:6.5](/en/The_Urantia_Book/139#p6_5)
 
 Despite what appeared to be the futility of these warnings, Jesus still continued:
 
-“Judas, I have loved you and have prayed that you would love your brethren. Be not weary in well doing; and I would warn you to beware the slippery paths of flattery and the poison darts of ridicule.” (1897)
+> . . . “Judas, I have loved you and have prayed that you would love your brethren. Be not weary in well doing; and I would warn you to beware the slippery paths of flattery and the poison darts of ridicule.” [UB 174:0.2](/en/The_Urantia_Book/174#p0_2)
 
-Jesus advised Andrew to continue “to go on placing the utmost confidence in this apostle” (1750), the best he could suggest as a way of handling Judas' growing resentment.
+Jesus advised Andrew to continue “_to go on placing the utmost confidence in this apostle_” ([UB 157:7.1](/en/The_Urantia_Book/157#p7_1)), the best he could suggest as a way of handling Judas' growing resentment.
 
-Despite his love and trust in Judas, it was not reciprocated and the “accumulated hate, hurt, malice, prejudice, jealousy, and revenge of a lifetime,” (1567) mobilized into a determination to “get even” after his public protest at the “waste” of incense by Mary “was so sweepingly disallowed by Jesus right there in the hearing of all.” (1567) And so, “he crystallized all the evil of his nature upon the one innocent person in all the sordid drama of his unfortunate life just because Jesus happened to be the chief actor in the episode which marked his passing from the progressive kingdom of light into that self-chosen domain of darkness.” (1567, 1879). “And every mortal man knows full well how love, even when once genuine, can, through disappointment, jealousy, and long-continued resentment, be eventually turned into actual hate.” (1926)
+Despite his love and trust in Judas, it was not reciprocated and the “_accumulated hate, hurt, malice, prejudice, jealousy, and revenge of a lifetime,_” ([UB 139:12.10](/en/The_Urantia_Book/139#p12_10)) mobilized into a determination to “get even” after his public protest at the “waste” of incense by Mary “_was so sweepingly disallowed by Jesus right there in the hearing of all._” ([UB 139:12.10](/en/The_Urantia_Book/139#p12_10)) And so, “_he crystallized all the evil of his nature upon the one innocent person in all the sordid drama of his unfortunate life just because Jesus happened to be the chief actor in the episode which marked his passing from the progressive kingdom of light into that self-chosen domain of darkness._” ([UB 139:12.10](/en/The_Urantia_Book/139#p12_10), [UB 172:1.7](/en/The_Urantia_Book/172#p1_7)). “_And every mortal man knows full well how love, even when once genuine, can, through disappointment, jealousy, and long-continued resentment, be eventually turned into actual hate._” ([UB 177:4.11](/en/The_Urantia_Book/177#p4_11))
 
 At the last supper Jesus made a final appeal to Judas:
 
-“but it was of no avail. Warning, even when administered in the most tactful manner and conveyed in the most kindly spirit, as a rule, only intensifies hatred and fires the evil determination to carry out to the full one's own selfish projects, when love is once really dead.” (1941)
+> . . . but it was of no avail. Warning, even when administered in the most tactful manner and conveyed in the most kindly spirit, as a rule, only intensifies hatred and fires the evil determination to carry out to the full one's own selfish projects, when love is once really dead. [UB 179:4.8](/en/The_Urantia_Book/179#p4_8)
 
-Jesus acknowledged Judas' final decision: “What you have decided to do, do quickly.” (1941). And when Judas greeted him in the garden later that evening: “placing a kiss upon his brow, said, `Hail, Master and Teacher' .... Jesus said, ”Friend, is it not enough to do this! Would you even betray the Son of Man with a kiss?" (1974)
+Jesus acknowledged Judas' final decision: “_What you have decided to do, do quickly._” ([UB 179:4.6](/en/The_Urantia_Book/179#p4_6)). And when Judas greeted him in the garden later that evening: “_placing a kiss upon his brow, said, “Hail, Master and Teacher.” And as Judas thus embraced his Master, Jesus said, “Friend, is it not enough to do this! Would you even betray the Son of Man with a kiss?_" ([UB 183:3.5](/en/The_Urantia_Book/183#p3_5))
 
-Jealousy—a very powerful emotion! In combination with Judas' other attributes which he subconsciously nurtured until they blossomed into “wicked thoughts” of revenge and disloyalty in his conscious being. He lost objectivity, and initiated the action which led to his holding himself responsible for the “blood of an innocent man”—the man who loved him so much more than he chose ever to love himself.
+Jealousy—a very powerful emotion! In combination with Judas' other attributes which he subconsciously nurtured until they blossomed into “_wicked thoughts_” of revenge and disloyalty in his conscious being. He lost objectivity, and initiated the action which led to his holding himself responsible for the “_blood of an innocent man_”—the man who loved him so much more than he chose ever to love himself.
 
+_Jealousy: a spiritual poison which attacks and destroys the heart!_
 
-Jealousy: a spiritual poison which attacks and destroys the heart!
+## External links
+
+* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page11.html
 
 # High on Angels
 
-Dick Bain, Hickory, N.C., U.S.A.
-
+Author: **Dick Bain**
 
 Do I believe in angels? Well...yes; but why am I so reluctant to say so? Could it be that angels are a little like Tinker Bell? Because they have wings and do magical things? Or perhaps it isn't respectable to believe in such magical beings. Have angels gotten bad press?
 
-It seems to me that angels were the victims of 19th and 20th century rationalism. They were pulled down in the whirlpool along with spontaneous generation, ecclesiastical authority, jinns and familiars, the flat earth, earth-centered cosmology and a legion of other ancient ideas. They may also have lost appeal due to the Protestant revolution. The austere founders may have objected to the frothy cherubim and seraphim of the Catholic Church. But recently there has been a surge of interest in angels. Time magazine conducted a survey for a recent article, Angels Among Us. The article reported that 69% of the people surveyed believe in angels, and 46% believe that they have their own guardian angel. Is this just another New Age fad, or are people tired of rationalism and now searching for the spiritual? Will we return to the good old days when people accepted angels as part of the natural order of things?
+It seems to me that angels were the victims of 19th and 20th century rationalism. They were pulled down in the whirlpool along with spontaneous generation, ecclesiastical authority, jinns and familiars, the flat earth, earth-centered cosmology and a legion of other ancient ideas. They may also have lost appeal due to the Protestant revolution. The austere founders may have objected to the frothy cherubim and seraphim of the Catholic Church. But recently there has been a surge of interest in angels. Time magazine conducted a survey for a recent article, _Angels Among Us_.[^1] The article reported that 69% of the people surveyed believe in angels, and 46% believe that they have their own guardian angel. Is this just another New Age fad, or are people tired of rationalism and now searching for the spiritual? Will we return to the good old days when people accepted angels as part of the natural order of things?
 
 All major western religions—Christianity, Judaism, Islam, Zoroastrianism—have hierarchies of angels. The Christian concepts of angels were inherited from Judaism. The Old Testament mentions specific angels at the time of the destruction of Sodom and Gomorrah. The Jewish Talmud speaks of seven archangels as the leaders of seven heavenly hosts. Rabbinic literature speaks of higher and lower angels. The prophet Mohammed said that he received the Koran over a 23 year period from the “angel” Gabriel. Moslem theology speaks of two angels, one on each shoulder. One records our good deeds while the other records our bad deeds. In the New Testament we learn of the “angel” Gabriel's visit to Mary, the mother of Jesus. Even today there are people who feel they have encountered an angel at some time. The Bible mentions angels about 300 times, but doesn't give much specific information about them. _The Urantia Book_ does.
 
@@ -314,65 +317,112 @@ No doubt most of us would like to see an angel, but very few people say that the
 Students of _The Urantia Book_ soon realize that angels are some of the unsung heroes on our world, especially guardian angels. Consider their challenges: they have to guide reluctant, lazy, materialistic mortals into situations that promote spiritual growth. And to make their task more interesting they can influence us only by manipulating external circumstances. It's sort of like playing ping-pong by remote control. Furthermore, it appears that they must work at least 12 hours per day, seven days per week, since there are two who take turns being on duty. One does the guardian's job and the other records the proceedings. But like mortals who run down and need to sleep, the guardian angel must take time periodically to spiritually recharge. The guardian's complement takes over the guardian tasks and a cherubim takes over the recording duties.
 
 The job of guardian angel must be demanding and arduous because the seraphim are required to spend a long time qualifying for this job. Their training is as follows:
-Noncommissioned observers of Salvington—1 millennium
-Salvington seraphic training school—1 millennium
-Observers on evolutionary planets—? millennium
-Advanced studies, constellation level—? millennium
-Further training, system level—? milennium
+* Noncommissioned observers of Salvington — 1 millennium
+* Salvington seraphic training school — 1 millennium
+* Observers on evolutionary planets — ? millennium
+* Advanced studies, constellation level — ? millennium
+* Further training, system level — ? milennium ([UB 38:5](/en/The_Urantia_Book/38#p5))
 
 Following the final training, the Seraphim are commissioned as ministering spirits to mortals like us. Of course, seraphim have many other types of occupations; guardian is only one possible avenue of service for them.
 
-I suspect that most students of _The Urantia Book_ accept the existence of angels; angels and their ministry to us are a significant part of the book. Our acceptance puts us in some unusual company. While many liberal Christians may regard angels as Christian mythology or even pleasant fairy tales from the distant past, more conservative Christians regard angels as real since angels are referred to often in the Bible. Dr. Billy Graham's book, Angels, provides a conservative Christian, Bible-centered, view of the angels. He tells us that the angels fulfil the role of messengers, executors of God's will, sometimes as avengers, proclaimers, observers, praisers, protectors, comforters, rescuers, but never evangelists. He claims that they can't be evangelists because they never sinned (except the fallen ones), therefore were never redeemed by Jesus' death on the cross and are therefore unqualified to preach the good news.
+I suspect that most students of _The Urantia Book_ accept the existence of angels; angels and their ministry to us are a significant part of the book. Our acceptance puts us in some unusual company. While many liberal Christians may regard angels as Christian mythology or even pleasant fairy tales from the distant past, more conservative Christians regard angels as real since angels are referred to often in the Bible. Dr. Billy Graham's book, _Angels_,[^2] provides a conservative Christian, Bible-centered, view of the angels. He tells us that the angels fulfil the role of messengers, executors of God's will, sometimes as avengers, proclaimers, observers, praisers, protectors, comforters, rescuers, but never evangelists. He claims that they can't be evangelists because they never sinned (except the fallen ones), therefore were never redeemed by Jesus' death on the cross and are therefore unqualified to preach the good news.
 
 But angels are making a comeback even among the liberal Christians; there is currently a surge of interest in angels, at least in the U.S. where several recent books on angels are popular. But some people are decrying the way angels are being portrayed in these books. They complain that the angels described sound more like cuddly puppies than like the fierce cherubim that guard the entrance to the Garden of Eden with flaming swords. I believe that many people will find _The Urantia Book_ image of angels as enablers more believable and appealing than as either divine messengers or cuddly puppies. Wouldn't it be interesting if the angelology of the book suddenly became popular? Perhaps this will provide a path into the book for some people. Of course, some people may not like everything the book has to say about guardian angels.
 
-A popular idea about guardian angels is that they are protectors. In Dr. Graham's book about angels and in many other books and articles, many cases are cited to show an angel came to someone's aid in a desperate situation. But if the angels' primary task is to protect us, then I must say they are incredibly inept or they are usually out on coffee break when a crisis arises. For the hundreds who have had miraculous interventions, there are millions who suffer disaster. _The Urantia Book_ says that the main task of these angels is to lead us into situations that will stimulate our spiritual and social growth. Regarding intervention in our affairs, the authors have this to say, “They do not (ordinarily) intervene in the routine affairs of human life... .They do not, therefore, intrude into the picture of human drama except in emergencies and then usually on the direct orders of their superiors....Seraphim are able to function as material ministers to human beings under certain circumstances, but their action in this capacity is very rare.” (1246) The authors give at least one example of angelic intervention to rescue someone, telling us that angels freed some gospel teachers from prison. (837) The authors tell us that while Peter was also set free from prison, it was a secondary midwayer who did it. But later on, Peter died a nasty death by crucifixion. Why was he rescued the first time, and not the second?
+A popular idea about guardian angels is that they are protectors. In Dr. Graham's book about angels and in many other books and articles, many cases are cited to show an angel came to someone's aid in a desperate situation. But if the angels' primary task is to protect us, then I must say they are incredibly inept or they are usually out on coffee break when a crisis arises. For the hundreds who have had miraculous interventions, there are millions who suffer disaster. _The Urantia Book_ says that the main task of these angels is to lead us into situations that will stimulate our spiritual and social growth. Regarding intervention in our affairs, the authors have this to say, 
+
+> They do not (ordinarily) intervene in the routine affairs of human life. . . .They do not, therefore, intrude into the picture of human drama except in emergencies and then usually on the direct orders of their superiors....Seraphim are able to function as material ministers to human beings under certain circumstances, but their action in this capacity is very rare. [UB 113:5.4](/en/The_Urantia_Book/113#p5_4)
+
+The authors give at least one example of angelic intervention to rescue someone, telling us that angels freed some gospel teachers from prison. ([UB 77:8.12](/en/The_Urantia_Book/77#p8_12)) The authors tell us that while Peter was also set free from prison, it was a secondary midwayer who did it. But later on, Peter died a nasty death by crucifixion. Why was he rescued the first time, and not the second?
 
 My understanding of angels is that we are rescued by angels or other spiritual agencies only when it might be beneficial to our spiritual growth or if we have an important role to play in the spiritual growth of others. I'm sure that the angels must have very specific guidelines that they follow in such matters. And of course there is one situation in which they really do guard us; when they transport our souls to the mansion worlds.
 
-Despite a naturally skeptical nature, due possibly to my engineering training, _The Urantia Book_ has made angels as real to me as the folk next door. Nevertheless, having a relationship with someone you can't see, hear, or detect in any way isn't quite the same as a relationship with neighbors. After all, you see the neighbors mowing the lawns, weeding their flower beds, and pretending they don't see their dog when it comes over to decorate your yard. But since the angels don't have yards to mow, gardens to weed, or dogs to walk, we don't observe them at work or play. In a sense, we are the gardens that they tend, but the gardener's touch is so light that we seldom feel it. Because we are generally unaware of their work, angels are among the unsung heroes of our world. I believe we should pause once in a while to remember and appreciate all of the things they do for us. Of course, we may not at the time appreciate some of the growth provoking experiences they lead us into, but eventually we know that they have our best interest at heart. As the authors of _The Urantia Book_ tell us, they are our friends and only good can come from trying to love and understand them. (419, 1243)
+Despite a naturally skeptical nature, due possibly to my engineering training, _The Urantia Book_ has made angels as real to me as the folk next door. Nevertheless, having a relationship with someone you can't see, hear, or detect in any way isn't quite the same as a relationship with neighbors. After all, you see the neighbors mowing the lawns, weeding their flower beds, and pretending they don't see their dog when it comes over to decorate your yard. But since the angels don't have yards to mow, gardens to weed, or dogs to walk, we don't observe them at work or play. In a sense, we are the gardens that they tend, but the gardener's touch is so light that we seldom feel it. Because we are generally unaware of their work, angels are among the unsung heroes of our world. I believe we should pause once in a while to remember and appreciate all of the things they do for us. Of course, we may not at the time appreciate some of the growth provoking experiences they lead us into, but eventually we know that they have our best interest at heart. As the authors of _The Urantia Book_ tell us, they are our friends and “_only good can result from your efforts to understand and love them_”. ([UB 38:2.1](/en/The_Urantia_Book/38#p2_1), [UB 113:2.5](/en/The_Urantia_Book/113#p2_5))
 
-# The Second Great Commandment.
+## External links
 
-Some questions posed by _The Urantia Book_
+* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page13.html
 
+## References
 
-At the time of Jesus, the Shema was recited twice daily by faithful Jews: “Hear, O Israel, the Lord our God is one Lord; and you shall love the Lord your God with all your heart, and with all your soul, and with all your might.” This was the first great commandment referred to in the gospels. The Fourth Epochal Revelation upgraded its meaning because of its revelation of the true nature of God through the life of Jesus. The second great commandment was that we should love our neighbor as ourselves. The Fourth Epochal Revelation brought a quantum leap to its meaning by upgrading it from a material to a spiritual level. It told us that we must love one another as Jesus loves us.
+[^1]: _The New Age of Angels,_ Time, December 27, 1993, Vol. 142 No. 27, http://content.time.com/time/covers/0,16641,19931227,00.html
 
-Almost two thousand years later, we have been given an enhanced revelation of both of these two great commandments in _The Urantia Book_. However, if we are not living out the basics of the Fourth Epochal Revelation in our lives, the Fifth is wasted.
+[^2]: D. Billiy Graham, _Angels_, Thomas Nelson Publishers, 1995
+
+# The Second Great Commandment
+
+Some questions posed by The Urantia Book
+
+Author: **Ken Glasziou**
+
+At the time of Jesus, the Shema was recited twice daily by faithful Jews: “_Hear, O Israel, the Lord our God is one Lord; and you shall love the Lord your God with all your heart, and with all your soul, and with all your might._” This was the first great commandment referred to in the gospels. The Fourth Epochal Revelation upgraded its meaning because of its revelation of the true nature of God through the life of Jesus. The second great commandment was that we should love our neighbor as ourselves. The Fourth Epochal Revelation brought a quantum leap to its meaning by upgrading it from a material to a spiritual level. It told us that we must love one another as Jesus loves us.
+
+Almost two thousand years later, we have been given an enhanced revelation of both of these two great commandments in _The Urantia Book_. _However, if we are not living out the basics of the Fourth Epochal Revelation in our lives, the Fifth is wasted._
 
 It serves no useful purpose to be familiar with the definitions of God the Sevenfold, the difference between the absolutes and the ultimates, the existential and the experiential, the finite and the absonite, if the basics are absent. Nor does it serve any useful purpose if we acquire a detailed knowledge on whether or not reincarnation is for real, what the mansion worlds are like, the differences between mind, body, soul, and personality, and all the other fascinating details contained in the book, if the basics are absent in our lives. Without them, we are no further advanced spiritually than if we had never heard of either revelation.
 
 _The Urantia Book_ informs us that some persons discern and interpret the golden rule as a purely intellectual affirmation of human fraternity. How many of us see the enhanced version, to love one another as Jesus loves us, in that same light, mere brotherly love?
 
-How does the book tell us we can comprehend the true meaning of this second great commandment? It states pithily: “by realizing its meaning in the living interpretation of the Spirit of Truth who directs the loving contact of one human being with another.” Ask yourself if it is really true that the Spirit of Truth directs your own personal relationships with your fellows. If you are sure it does, you pass. If you are unsure, read on. Those about to sign off need to check one point. Does the Spirit of Truth direct all those relationships? Or just some? If the latter, then check the bit about “all allegiance or none.” (1469) Then read on.
+How does the book tell us we can comprehend the true meaning of this second great commandment? It states pithily: “_by realizing its meaning in the living interpretation of the Spirit of Truth who directs the loving contact of one human being with another._” ([UB 180:5.11](/en/The_Urantia_Book/180#p5_11)) Ask yourself if it is really true that the Spirit of Truth directs your own personal relationships with your fellows. If you are sure it does, you pass. If you are unsure, read on. Those about to sign off need to check one point. Does the Spirit of Truth direct _all those relationships_? Or just some? If the latter, then check the bit about “all allegiance or none.” Then read on.
 
-Jesus' upgrade of the golden rule takes on “living qualities of spiritual realization” by making a quantum jump to the spiritual plane “when we so relate ourselves to our fellows that they will receive the highest possible good as a result of our contact with them.”
+Jesus' upgrade of the golden rule takes on “living qualities of spiritual realization” by making a quantum jump to the spiritual plane “_when we so relate ourselves to our fellows that they will receive the highest possible good as a result of our contact with them._” ([UB 180:5.7](/en/The_Urantia_Book/180#p5_7))
 
 Only a divine being can know what constitutes the highest possible good for our neighbor. Here, neighbor means family, friends, lover, the person next door or down the street somewhere (or anywhere), and includes our enemies, if we have them. And because only a divine being can have such knowledge, the book tells us that the interpretation of the law of conduct must be made for us. On Urantia that means by “the spirit of the Son to the spirit of the Father.”
 
 How do we know when we have made the quantum jump? Easy—we are “filled to overflowing with the assurance of citizenship in a friendly universe.” Ask yourself (and answer truthfully): Do you really feel that you live in a totally friendly home, village, town, country, world, universe? If you cannot truthfully say yes, then you have some homework to do with that big blue book—and the Spirit of Truth and your Thought Adjuster.
 
-Did you ever ponder on Jesus' answer to Ganid when asked about his attitude to an aggressor? “Ganid, I have absolute confidence in my heavenly Father's overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me; I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that the entire universe is friendly to me—this all-powerful truth I insist on believing with a wholehearted trust in spite of all appearances to the contrary.” Faith that the universe is friendly to us is a prerequisite to loving as Jesus loves.
+Did you ever ponder on Jesus' answer to Ganid when asked about his attitude to an aggressor? “_Ganid, I have absolute confidence in my heavenly Father's overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me; I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that the entire universe is friendly to me—this all-powerful truth I insist on believing with a wholehearted trust in spite of all appearances to the contrary._” ([UB 133:1.4](/en/The_Urantia_Book/133#p1_4)) Faith that the universe is friendly to us is a prerequisite to loving as Jesus loves.
 
-We have some more self testing to complete. How do you get along with the Master's teaching and practice of non-resistance to evil? It appears that this is basically a spiritual pronouncement. Turning the other cheek means that whatever our reaction may be, it has to be unselfish and it must consider the cosmic good of the evil-doer. For that, we need the help of the Spirit of Truth. There are no rules. Every situation requiring a moral decision is unique, it has never happened before in exactly that way, and it will never do so again. Thus, “love, unselfishness, must undergo a constant and living re-adaptive interpretation of relationships in accordance with the leading of the Spirit of Truth.” Only with this divine leading can our reactions be for the utmost cosmic good of the evil-doer (who, coincidentally, is one of our neighbors).
+We have some more self testing to complete. How do you get along with the Master's teaching and practice of non-resistance to evil? It appears that this is basically a spiritual pronouncement. Turning the other cheek means that whatever our reaction may be, it has to be unselfish and it must consider the cosmic good of the evil-doer. For that, we need the help of the Spirit of Truth. There are no rules. Every situation requiring a moral decision is unique, it has never happened before in exactly that way, and it will never do so again. Thus, “_love, unselfishness, must undergo a constant and living re-adaptive interpretation of relationships in accordance with the leading of the Spirit of Truth._” ([UB 180:5.10](/en/The_Urantia_Book/180#p5_10)) Only with this divine leading can our reactions be for the utmost cosmic good of the evil-doer (who, coincidentally, is one of our neighbors).
 
 The essence of the Fifth Epochal Revelation's instruction on the second great commandment is self-forgetfulness, coupled to a continuous and conscious quest for the 	
 leading of the Spirit of Truth to direct our interpersonal relationships. It is quite possible to assimilate the teachings of the Fourth and Fifth Epochal Revelations concerning the nature of God, to believe that we truly love that God, to affirm to ourselves and our neighbor our belief in the principles of human fraternity, and at the same time fail to love anybody as Jesus loves us. But Jesus loved us all. We are expected to strive to do the same. These are the basics of _The Urantia Book_ teachings. Without first healing ourselves and mastering the basics, the remainder is wasted.
 
-How did Jesus love? Real love, God-like love, divine love, is gracious, compassionate, undemanding, understanding, never selfish, always outgoing. The much maligned Paul put it this way: (see below.)
+How did Jesus love? Real love, God-like love, divine love, is gracious, compassionate, undemanding, understanding, never selfish, always outgoing. The much maligned Paul put it this way:
 
-# Science and _The Urantia Book_. When Did the Red Man Arrive in the Americas?
-Prepared from material supplied by:
+> If I speak with the tongues of men and of angels, but have not love, I am become sounding brass, or a clanging cymbal.
+> And if I have [the gift of] prophecy, and know all mysteries and all knowledge; and if I have all faith, so as to remove mountains, but have not love, I am nothing.
+> And if I bestow all my goods to feed [the poor], and if I give my body to be burned, but have not love, it profiteth me nothing.
+> Love suffereth long, [and] is kind; love envieth not; love vaunteth not itself, is not puffed up,
+> doth not behave itself unseemly, seeketh not its own, is not provoked, taketh not account of evil;
+> rejoiceth not in unrighteousness, but rejoiceth with the truth;
+> beareth all things, believeth all things, hopeth all things, endureth all things.
+> Love never faileth: but whether [there be] prophecies, they shall be done away; whether [there be] tongues, they shall cease; whether [there be] knowledge, it shall be done away.
+> For we know in part, and we prophesy in part;
+> but when that which is perfect is come, that which is in part shall be done away.
+> When I was a child, I spake as a child, I felt as a child, I thought as a child: now that I am become a man, I have put away childish things.
+> For now we see in a mirror, darkly; but then face to face: now I know in part; but then shall I know fully even as also I was fully known.
+> But now abideth faith, hope, love, these three; and the greatest of these is love. [1 Co 13](/en/Bible/1_Corinthians/13)
 
-Dr Edmund Roach, Watertown, N.Y., U.S.A.
+## External links
 
+* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page15.html
 
-Clovis, New Mexico is the home of the archeological site, discovered in the 1930's, that has given its name to the people thought to have first set foot in America. Buttressed by radiocarbon dating, this event was supposed to have been 11,200 years ago. The migration of the first Americans was thought to have been timed to the rhythm of glaciers. Twenty thousand years ago, glaciers are thought to have completely blocked routes south from Alaska. Only around 11,200 years ago when the glaciers had retreated sufficiently did a passable route reopen more or less along the present borders of Alberta and British Columbia.
+# Science and The Urantia Book. When Did the Red Man Arrive in the Americas?
 
-That is the standard model—but it has problems. It appears that these people had reached the southernmost tip of South America 10,000 miles away within 300 years! Apparently that is four times faster than the current world record for pre-historic hunter gatherers. It has other problems. In 1978, researchers in southern Chile started to excavate a site at Monte Verde that they claim was occupied 2000 years earlier than the Clovis site. This site has now been well documented but it appears that the supporters of the standard model do not want to know about it. 
+Author: **Ken Glasziou**
 
-Further trouble for the standard model has now arisen due to investigations using the mutation rate for mitochondrial DNA as a time clock. Investigations at Emory University on North American Indians indicate that these people belong to four distinct groups that diverged from a common maternal ancestor who presumably walked across the land bridge connecting Siberia and Alaska. The genetic clock places this event at upwards of 21 to 41 thousand years ago. But that is not the worst blow for the standard model. Another project using mitochondrial DNA has been carried out on the Nuu-Chah-Nulth tribe of Vancouver Island by workers from the Universities of Utah and Munich. This revealed an astonishing degree of diversity—28 separate molecular variants in just 63 individuals. Measured by the mitochondrial DNA clock it seems that the ancestors for these people must have left Siberia up to 78,000 years ago. _The Urantia Book_ tells us that the actual time was 85,000 years ago. Only time will tell.
+_Prepared from material supplied by: Dr Edmund Roach, Watertown, N.Y., U.S.A._
+
+Clovis, New Mexico[^1] is the home of the archeological site, discovered in the 1930's, that has given its name to the people thought to have first set foot in America. Buttressed by radiocarbon dating, this event was supposed to have been 11,200 years ago. The migration of the first Americans was thought to have been timed to the rhythm of glaciers. Twenty thousand years ago, glaciers are thought to have completely blocked routes south from Alaska. Only around 11,200 years ago when the glaciers had retreated sufficiently did a passable route reopen more or less along the present borders of Alberta and British Columbia.
+
+That is the standard model—but it has problems. It appears that these people had reached the southernmost tip of South America 10,000 miles away within 300 years! Apparently that is four times faster than the current world record for pre-historic hunter gatherers. It has other problems. In 1978, researchers in southern Chile started to excavate a site at Monte Verde[^2] that they claim was occupied 2000 years earlier than the Clovis site. This site has now been well documented but it appears that the supporters of the standard model do not want to know about it. 
+
+Further trouble for the standard model has now arisen due to investigations using the mutation rate for mitochondrial DNA as a time clock. Investigations at Emory University on North American Indians indicate that these people belong to four distinct groups that diverged from a common maternal ancestor who presumably walked across the land bridge connecting Siberia and Alaska. The genetic clock places this event at upwards of 21 to 41 thousand years ago. But that is not the worst blow for the standard model. Another project using mitochondrial DNA has been carried out on the Nuu-Chah-Nulth[^3] tribe of Vancouver Island by workers from the Universities of Utah and Munich. This revealed an astonishing degree of diversity—28 separate molecular variants in just 63 individuals. Measured by the mitochondrial DNA clock[^4] it seems that the ancestors for these people must have left Siberia up to 78,000 years ago. _The Urantia Book_ tells us that the actual time was 85,000 years ago. Only time will tell.
+
+## External links
+
+* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page17.html
+
+## References
+
+[^1]: https://en.wikipedia.org/wiki/Clovis_culture
+
+[^2]: https://en.wikipedia.org/wiki/Monte_Verde
+
+[^3]: https://en.wikipedia.org/wiki/Nuu-chah-nulth
+
+[^4]: R H Ward, B L Frazier, K Dew-Jager, and S Pääbo, _Extensive mitochondrial diversity within a single Amerindian tribe_. PNAS 1991 Oct 1; 88(19): 8720–8724. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC52581/
 
 # Primate Ancestry
 
