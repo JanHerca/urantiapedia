@@ -60,7 +60,7 @@ Status | Source | Issue | Title | Author | Tags
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [High on Angels](/en/article/Dick_Bain/High_on_Angels) | Dick Bain | Religion, The Urantia Book
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [The Second Great Commandment](/en/article/Ken_Glasziou/The_Second_Great_Commandment) | Ken Glasziou | Jesus, Jesus teachings, The Urantia Book
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [Science and The Urantia Book. When Did the Red Man Arrive in the Americas?](/en/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas) | Ken Glasziou | Anthropology
-:white_square_button: | Innerface | Vol. 01, No. 3. | "Primate Ancestry." | Ken Glasziou | Anthropology
+:ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [Primate Ancestry](/es/article/Ken_Glasziou/Primate_Ancestry) | Ken Glasziou | Anthropology
 :white_square_button: | Innerface | Vol  5, No. 7. | "Piltdown Man." | Ken Glasziou | Biology and Genetics, Gardner
 :white_square_button: | Innerface | Vol. 01,  No. 5. | "The Parliament of the World's Religions." | Byron Belitsos | Religion
 :white_square_button: | Innerface | Vol. 01,  No. 5. | "The Real Gospel." | Norm Duval | Religion
