@@ -61,17 +61,17 @@ Estado | Fuente | Ejemplar | Título | Autor | Etiquetas
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [El Segundo Gran Mandamiento](/es/article/Ken_Glasziou/The_Second_Great_Commandment) | Ken Glasziou | Jesus, Jesus teachings, The Urantia Book
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [La ciencia y El Libro de Urantia. ¿Cuándo llegó el Hombre Rojo a las Américas?](/es/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas) | Ken Glasziou | Anthropology
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [Ascendencia de los primates](/es/article/Ken_Glasziou/Primate_Ancestry) | Ken Glasziou | Anthropology
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Nouveau-Asertividad]() | Jacques Tetrault | Sociology, Spirituality
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Disonancia cognitiva. ¿Puede ayudar El libro de Urantia?]() | Ann Bendall | Jesus, Jesus teachings, Morality, Psychology
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [DEFRAG]() | Ken Glasziou | Jesus, Jesus teachings, Morality
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Jesús, Hombre y Mito]() | Dick Bain | Jesus, Jesus teachings, Religion
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Otro y Mayor Juan Bautista!]() | Ann Bendall | Morality, Psychology
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Plan A. ¿Qué era?]() | Ken Glasziou | God, Jesus, Jesus teachings
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [La ciencia y El libro de Urantia. Orígenes de Andon y Fonta]() | Ken Glasziou | Anthropology, Biology and Genetics
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [¿Cuándo comenzó la «vida» en Urantia?]() | Ken Glasziou | Anthropology, Biology and Genetics
 :white_square_button: | Innerface | Vol  5, No. 7. | "Piltdown Man." | Ken Glasziou | Biology and Genetics, Gardner
 :white_square_button: | Innerface | Vol. 01,  No. 5. | "The Parliament of the World's Religions." | Byron Belitsos | Religion
 :white_square_button: | Innerface | Vol. 01,  No. 5. | "The Real Gospel." | Norm Duval | Religion
-:white_square_button: | Innerface | Vol. 01, No. 4. | "Another and Greater John the Baptist." | Ann Bendall | Morality, Psychology
-:white_square_button: | Innerface | Vol. 01, No. 4. | "Cognitive Dissonance" | Ann Bendall | Jesus, Jesus teachings, Morality, Psychology
-:white_square_button: | Innerface | Vol. 01, No. 4. | "Defrag." | Ken Glasziou | Jesus, Jesus teachings, Morality
-:white_square_button: | Innerface | Vol. 01, No. 4. | "Jesus, Man and Myth." | Dick Bain | Jesus, Jesus teachings, Religion
-:white_square_button: | Innerface | Vol. 01, No. 4. | "Nouveau Assertiveness." | Jacques Tetrault | Sociology, Spirituality
-:white_square_button: | Innerface | Vol. 01, No. 4. | "Plan A. What was It?" | Ken Glasziou | God, Jesus, Jesus teachings
-:white_square_button: | Innerface | Vol. 01, No. 4. | "Science and The Urantia Book. Origins of Andon and Fonta." | Ken Glasziou | Anthropology, Biology and Genetics
-:white_square_button: | Innerface | Vol. 01, No. 4. | "When did Life Start on Urantia?" | Ken Glasziou | Anthropology, Biology and Genetics
 :white_square_button: | Innerface | Vol. 01, No. 5. | "Adversity and the Spiritual Value of Disappointment." | Ian Stephen | Psychology, The Urantia Book
 :white_square_button: | Innerface | Vol. 01, No. 5. | "Apartheid Mandeled." | Joanne Scheffler | 
 :white_square_button: | Innerface | Vol. 01, No. 5. | "Better Communication with My  Thought Adjuster." | Ann Bendall | Thought Adjusters
