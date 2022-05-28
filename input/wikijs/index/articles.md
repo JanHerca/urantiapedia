@@ -124,7 +124,7 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 02, No. 4. | "The Jupiter Problem." | Dick Bain | Astronomy
 :white_square_button: | Innerface | Vol. 02, No. 4. | "The Religions of Man" from a book | Huston Smith | Jesus, Jesus teachings, Religion
 :white_square_button: | Innerface | Vol. 02, No. 4. | "Turning Point." | Ken Glasziou | God, The Urantia Book
-:white_square_button: | Innerface | Vol. 02, No. 4. | "Who Wrote The Urantia Book?" | Ken Glasziou | The Urantia Book — Authorship, History
+:white_square_button: | Innerface | Vol. 02, No. 4. | "Who Wrote The Urantia Book?" | Ken Glasziou | The Urantia Book—Authorship, History
 :white_square_button: | Innerface | Vol. 02, No. 5. | "A True Story." | an unknown policeman | Sociology
 :white_square_button: | Innerface | Vol. 02, No. 5. | "Archaeology and The Urantia Book. Tin in Turkey." | Matt Neibaur  | Archaeology
 :white_square_button: | Innerface | Vol. 02, No. 5. | "Birth of the Solar System." | Ken Glasziou | Astronomy
@@ -242,7 +242,7 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 05, No. 2. | "Gideonism." | Ken Glasziou | The Urantia Book
 :white_square_button: | Innerface | Vol. 05, No. 2. | "Human Sources of The Urantia Book. The Strong Force and Supernova." | Ken Glasziou | Physics
 :white_square_button: | Innerface | Vol. 05, No. 2. | "On Peer Group Pressure." | Ken Glasziou | Psychology
-:white_square_button: | Innerface | Vol. 05, No. 2. | "Urantia Book Authorship—Other Aspects." | Ken Glasziou | Anthropology, Archaeology, The Urantia Book — Authorship
+:white_square_button: | Innerface | Vol. 05, No. 2. | "Urantia Book Authorship—Other Aspects." | Ken Glasziou | Anthropology, Archaeology, The Urantia Book—Authorship
 :white_square_button: | Innerface | Vol. 05, No. 2. | "Who Wrote The Urantia Book? It doesn't really matter—IMHO." | Ken Glasziou | Jesus, Jesus teachings, Revelation, Thought Adjusters, History
 :white_square_button: | Innerface | Vol. 05, No. 3. | "All Conflict is Evil."  Letter from Gloria Colot, response | Ken Glasziou | Morality
 :white_square_button: | Innerface | Vol. 05, No. 3. | "Favorite Places. Rodan on the Personality of God." from The Urantia Book | | God, Jesus, Jesus teachings, Personality
@@ -392,7 +392,7 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 07, No. 5. | "Learning in Phoenicia" from The Urantia Book | | Religion
 :white_square_button: | Innerface | Vol. 07, No. 5. | "Out of Date—On Facing Reality." | Ken Glasziou | Cosmology, The Urantia Book—Purpose, The Urantia Book—Errors
 :white_square_button: | Innerface | Vol. 07, No. 5. | "Process Theology and the Urantia Papers." | Ken Glasziou | Religion, The Urantia Book, Theology
-:white_square_button: | Innerface | Vol. 07, No. 5. | "Proof'n Spoof." | Ken Glasziou | Revelation, The Urantia Book, The Urantia Book — Authorship, The Urantia Book—Purpose
+:white_square_button: | Innerface | Vol. 07, No. 5. | "Proof'n Spoof." | Ken Glasziou | Revelation, The Urantia Book, The Urantia Book—Authorship, The Urantia Book—Purpose
 :white_square_button: | Innerface | Vol. 07, No. 5. | "Really Out of Date." | Ken Glasziou | Astronomy, The Urantia Book—Purpose, Cosmology
 :white_square_button: | Innerface | Vol. 07, No. 5. | "The Ashtaroth Incident" | Ken Glasziou | Jesus, Jesus teachings, Morality, Religion
 :white_square_button: | Innerface | Vol. 07, No. 5. | "Who will come to 'Phoenicia?'" | Ken Glasziou | Jesus, Jesus teachings, Religion
@@ -425,7 +425,7 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 08, No. 2. | "The Finity-Infinity Transform." | Ken Glasziou | God, Theology
 :white_square_button: | Innerface | Vol. 08, No. 2. | "The Least we should know about the Cross." | Ken Glasziou | Jesus, Jesus teachings, Religion, Theology
 :white_square_button: | Innerface | Vol. 08, No. 2. | "Transmutation of Potentials to Actuals" Flow Chart | | Theology
-:white_square_button: | Innerface | Vol. 08, No. 2. | "Who Wrote the Urantia Papers." | Ken Glasziou | The Urantia Book — Authorship
+:white_square_button: | Innerface | Vol. 08, No. 2. | "Who Wrote the Urantia Papers." | Ken Glasziou | The Urantia Book—Authorship
 :white_square_button: | Innerface | Vol. 08, No. 2. | "Windows of Opportunity" | Ken Glasziou | The Urantia Book—Purpose, Theology
 :white_square_button: | Innerface | Vol. 08, No. 3. | "Are You a Truth-Seeker?" | | Morality, Religion
 :white_square_button: | Innerface | Vol. 08, No. 3. | "Materialism is Dead. Ghosts are 'Becoming'" | | Physics
