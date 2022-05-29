@@ -344,4 +344,4 @@ Revelation is matched to the needs of those who receive it. It may not completel
 
 [^17]: Editor's note: The _ultimatons_ could be what current science calls gluons (which are vector gauge bosons just like photons). Gluons act as the strong interaction force between quarks, and quarks are believed to be constituent parts of neutrons and protons. Despite the similarities with gluons, current science considers electrons to be non-divisible elementary particles. https://en.wikipedia.org/wiki/Gluon
 
-[`^18]: Author's Note: This topic became Irvin's personal introduction to _The Urantia Book_, as he had proposed that Adam and Eve were aliens preceded by humans in his book _First Man then Adam, Irwin Ginsburgh, Pocket Books, 1978_. Some of his readers discovered _The Urantia Book_ to him.
+[^18]: Author's Note: This topic became Irvin's personal introduction to _The Urantia Book_, as he had proposed that Adam and Eve were aliens preceded by humans in his book _First Man then Adam, Irwin Ginsburgh, Pocket Books, 1978_. Some of his readers discovered _The Urantia Book_ to him.

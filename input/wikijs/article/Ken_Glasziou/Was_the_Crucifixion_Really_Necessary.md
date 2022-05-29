@@ -3,7 +3,7 @@ title: Was the Crucifixion Really Necessary?
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion; theology
+tags: religion, theology
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
