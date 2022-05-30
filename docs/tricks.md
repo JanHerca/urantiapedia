@@ -47,10 +47,12 @@ Search end of sentences: [\.”\?!]
 
 ## Typings
 
-“ ”  (Alt+q)  ‘ ’
+“ ”  (Alt+q)
 «  » (Alt+w)
+‘ ’ (Alt+e)
 —
 Ö => ...
+±
 
 omissions in quotes:
 * english . . .

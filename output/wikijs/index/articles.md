@@ -8,50 +8,15 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-## Webs with articles
-
-* Urantia Associations:
-	- Urantia Association International: https://urantia-association.org/topical-index-of-articles/
-	- Australia & New Zealand Urantia Association (ANZURA): https://anzura.urantia-association.org/topical-index-study-aids/
-	- Canada Urantia Association: https://canada.urantia-association.org/urantia-related-writtings/
-	- Asociación Urantia de España: https://aue.urantia-association.org/study/
-	- Urantia Asociación de Argentina: https://argentina.urantia-association.org/trabajos-secundarios/
-	- Urantia Asociación de México: https://www.urantia-mexico.org.mx/index_archivos/Page1438.htm
-	- Agrupación Autónoma Urantia Chile: http://www.urantiachile.org/?modulo=articulos
-	- Urantia Associação do Brasil: https://urantia.com.br/arquivos/category/blog-artigos
-	- United States:
-		- Great Lake Michigan Urantia Association: https://glmua.urantia-association.org/library/
-	- Asociación Urantia de Costa Rica: https://cr.urantia-association.org/publicaciones/
-	- Asociación Urantia de Cali: https://uracali.urantia-association.org/
-	- Urantia Deutschland, Österreich und Scheweiz: https://dach.urantia-association.org/blog/
-	- Suomen Urantia-seura: https://finland.urantia-association.org/category/vastauksia-kysymyksiin/
-* *Urantia Book* magazines: 
-	- https://urantia-book.org/archive/newsletters/
-	- https://urantiabook.org/Urantia-Book-Paper-Focused-Resources
-	- Innerface International: https://urantia-book.org/archive/newsletters/innerface/index.html
-	- Fellowship Herald:
-		https://urantia-book.org/archive/newsletters/herald/ 
-		https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#
-	- Spiritual Fellowship Journal: https://urantia-book.org/index_spiritual_fellowship_journal.html
-	- The Urantian Journal: https://urantia-book.org/archive/newsletters/urantian_journal/
-	- http://www.encyclopediaurantia.org/
-	- https://www.squarecircles.com/
-* The Meredith J. Sprunger Essays: 
-	- https://urantiabook.org/Christianity-and-The-Urantia-Book-The-Meredith-J-Sprunger-Essays
-* UBAnnotated and UBTheNews:
-	- https://ubannotated.com/main-menu/animated/Topical%20Studies/
-	- https://ubannotated.com/ubthenews/reports_list/
-* Articles from Jan Herca: 
-	- https://buscandoajesus.wordpress.com/descargas/
-* Other in spanish:
-	- https://urantiabook.org/Estudios_Espanol
-
 ## Websites of Urantia Associations
+
+Sources: See [References](#references)
 
 Status | Title | Author | Tags
 --- | --- | --- | ---
 :ballot_box_with_check: | [How large is Orvonton, really?](/en/article/How_big_is_Orvonton) | Norm Du Val | Astronomy, Cosmology
-:ballot_box_with_check: | [Scientific Predictions of _The Urantia Book_](/en/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book) ^1^ | Irwin Ginsburgh | The Urantia Book
+:ballot_box_with_check: | [Scientific Predictions of _The Urantia Book_](/en/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book) ^1^ | Irwin Ginsburgh | The Urantia Book, Astronomy, Cosmology, Biology and Genetics, Anthropology, Physics
+:ballot_box_with_check: | [A Letter to Astronomers and Astrophysicists – 2016](/en/article/A_Letter_to_Astronomers_and_Astrophysicists) | | Astronomy, Cosmology
 
 1- This article is a 2017 update from original article published in Fellowship Herald, Vol 2. No. 1 and 2
 ## Innerface International
@@ -571,32 +536,6 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Innerface | Vol. 10, No. 3. | "What can one believe?" | | Morality
 :white_square_button: | Innerface | Vol. 10, No. 4. | "The teachings of Jesus—his spiritual thought and life." | | Jesus, Jesus teachings, Morality, Revelation
 
-## UB Annotaded & UBTheNews
-
-Source:
-- https://ubannotated.com/main-menu/animated/Topical%20Studies/
-- https://ubannotated.com/ubthenews/reports_list/
-
-Status | Source | Issue | Title | Author | Tags
---- | --- | --- | --- | --- | ---
-:ballot_box_with_check: | UBAnnotated | | [Adam and Eve](/en/article/Halbert_Katzen/Adam_and_Eve) | Halbert Katzen | Anthropology, Biology and Genetics
-:ballot_box_with_check: | UBAnnotated | | [Creating Fire](/en/article/Halbert_Katzen/Creating_fire) | Halbert Katzen | Anthropology
-:ballot_box_with_check: | UBAnnotated | | [Early Migration to Britain](/en/article/Halbert_Katzen/Early_migration_to_Britain) | Halbert Katzen | Anthropology
-:ballot_box_with_check: | UBAnnotated | | [Early Migration to the Americas](/en/article/Halbert_Katzen/Early_migration_to_the_Americas) | Halbert Katzen | Anthropology
-:ballot_box_with_check: | UBAnnotated | | [Garden of Eden](/en/article/Halbert_Katzen/Garden_of_Eden) | Halbert Katzen | Geology
-:ballot_box_with_check: | UBAnnotated | | [Gobekli Tepe](/en/article/Halbert_Katzen/Gobekli_Tepe) | Halbert Katzen | Anthropology
-:white_square_button: | UBAnnotated | | "Chromosome Count" | Halbert Katzen | Biology and Genetics
-:white_square_button: | UBAnnotated | | "Early Migration to China" | Halbert Katzen | Anthropology
-:white_square_button: | UBAnnotated | | "Galaxies" | Halbert Katzen | Astronomy
-:white_square_button: | UBAnnotated | | "Horsing Around" | Halbert Katzen | Anthropology, Biology and Genetics
-:white_square_button: | UBAnnotated | | "Inner Ionosphere" | Halbert Katzen | Geology
-:white_square_button: | UBAnnotated | | "Magnetic Sensitivity" | Halbert Katzen | Biology and Genetics
-:white_square_button: | UBAnnotated | | "Melchizedek & the Dead Sea Scrolls" | Halbert Katzen | Biblical studies
-:white_square_button: | UBAnnotated | | "Mercury’s Rotation" | Halbert Katzen | Astronomy
-:white_square_button: | UBAnnotated | | "Shroud of Turin" | Halbert Katzen | Jesus, Jesus life
-:white_square_button: | UBAnnotated | | "Sierra Mountains" | Halbert Katzen | Geology
-:white_square_button: | UBAnnotated | | "Tycho’s Nova" | Halbert Katzen | Astronomy
-
 ## Urantian Journal
 
 Source: https://urantia-book.org/archive/newsletters/urantian_journal/
@@ -877,6 +816,32 @@ Status | Source | Issue | Title | Author | Tags
 :white_square_button: | Herald | Vol. 22, No. 1 | "Foxy Parents" | Mary Huggins | 
 :white_square_button: | Herald | Vol. 22, No. 1 | "Graduation Memorial Initiative" | Bobbie Dreier | 
 
+## UB Annotaded & UBTheNews
+
+Source:
+- https://ubannotated.com/main-menu/animated/Topical%20Studies/
+- https://ubannotated.com/ubthenews/reports_list/
+
+Status | Source | Issue | Title | Author | Tags
+--- | --- | --- | --- | --- | ---
+:ballot_box_with_check: | UBAnnotated | | [Adam and Eve](/en/article/Halbert_Katzen/Adam_and_Eve) | Halbert Katzen | Anthropology, Biology and Genetics
+:ballot_box_with_check: | UBAnnotated | | [Creating Fire](/en/article/Halbert_Katzen/Creating_fire) | Halbert Katzen | Anthropology
+:ballot_box_with_check: | UBAnnotated | | [Early Migration to Britain](/en/article/Halbert_Katzen/Early_migration_to_Britain) | Halbert Katzen | Anthropology
+:ballot_box_with_check: | UBAnnotated | | [Early Migration to the Americas](/en/article/Halbert_Katzen/Early_migration_to_the_Americas) | Halbert Katzen | Anthropology
+:ballot_box_with_check: | UBAnnotated | | [Garden of Eden](/en/article/Halbert_Katzen/Garden_of_Eden) | Halbert Katzen | Geology
+:ballot_box_with_check: | UBAnnotated | | [Gobekli Tepe](/en/article/Halbert_Katzen/Gobekli_Tepe) | Halbert Katzen | Anthropology
+:white_square_button: | UBAnnotated | | "Chromosome Count" | Halbert Katzen | Biology and Genetics
+:white_square_button: | UBAnnotated | | "Early Migration to China" | Halbert Katzen | Anthropology
+:white_square_button: | UBAnnotated | | "Galaxies" | Halbert Katzen | Astronomy
+:white_square_button: | UBAnnotated | | "Horsing Around" | Halbert Katzen | Anthropology, Biology and Genetics
+:white_square_button: | UBAnnotated | | "Inner Ionosphere" | Halbert Katzen | Geology
+:white_square_button: | UBAnnotated | | "Magnetic Sensitivity" | Halbert Katzen | Biology and Genetics
+:white_square_button: | UBAnnotated | | "Melchizedek & the Dead Sea Scrolls" | Halbert Katzen | Biblical studies
+:white_square_button: | UBAnnotated | | "Mercury’s Rotation" | Halbert Katzen | Astronomy
+:white_square_button: | UBAnnotated | | "Shroud of Turin" | Halbert Katzen | Jesus, Jesus life
+:white_square_button: | UBAnnotated | | "Sierra Mountains" | Halbert Katzen | Geology
+:white_square_button: | UBAnnotated | | "Tycho’s Nova" | Halbert Katzen | Astronomy
+
 ## Articles from Jan Herca
 
 Source: https://buscandoajesus.wordpress.com/descargas/
@@ -924,3 +889,42 @@ Status | Title | Author | Tags
 :white_square_button: | The Great Jerusalem Sanhedrin and other Jewish courts | Jan Herca | Jesus, Jesus times
 :white_square_button: | The composition of the gospels according to The Urantia Book | Jan Herca | Jesus, Jesus times
 :white_square_button: | Taxes in the time of Jesus | Jan Herca | Jesus, Jesus times
+
+## References
+
+* Urantia Associations:
+	- Urantia Association International: https://urantia-association.org/topical-index-of-articles/
+	- Australia & New Zealand Urantia Association (ANZURA): https://anzura.urantia-association.org/topical-index-study-aids/
+	- Canada Urantia Association: https://canada.urantia-association.org/urantia-related-writtings/
+	- Asociación Urantia de España: https://aue.urantia-association.org/study/
+	- Urantia Asociación de Argentina: https://argentina.urantia-association.org/trabajos-secundarios/
+	- Urantia Asociación de México: https://www.urantia-mexico.org.mx/index_archivos/Page1438.htm
+	- Agrupación Autónoma Urantia Chile: http://www.urantiachile.org/?modulo=articulos
+	- Urantia Associação do Brasil: https://urantia.com.br/arquivos/category/blog-artigos
+	- United States:
+		- Great Lake Michigan Urantia Association: https://glmua.urantia-association.org/library/
+	- Asociación Urantia de Costa Rica: https://cr.urantia-association.org/publicaciones/
+	- Asociación Urantia de Cali: https://uracali.urantia-association.org/
+	- Urantia Deutschland, Österreich und Scheweiz: https://dach.urantia-association.org/blog/
+	- Suomen Urantia-seura: https://finland.urantia-association.org/category/vastauksia-kysymyksiin/
+* *Urantia Book* magazines: 
+	- Compilations:
+		- https://urantia-book.org/archive/newsletters/
+		- https://urantiabook.org/Urantia-Book-Paper-Focused-Resources
+	- Innerface International: https://urantia-book.org/archive/newsletters/innerface/index.html
+	- The Urantian Journal: https://urantia-book.org/archive/newsletters/urantian_journal/
+	- Fellowship Herald:
+		https://urantia-book.org/archive/newsletters/herald/ 
+		https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#
+	- Spiritual Fellowship Journal: https://urantia-book.org/index_spiritual_fellowship_journal.html
+	- http://www.encyclopediaurantia.org/
+	- https://www.squarecircles.com/
+* The Meredith J. Sprunger Essays: 
+	- https://urantiabook.org/Christianity-and-The-Urantia-Book-The-Meredith-J-Sprunger-Essays
+* UBAnnotated and UBTheNews:
+	- https://ubannotated.com/main-menu/animated/Topical%20Studies/
+	- https://ubannotated.com/ubthenews/reports_list/
+* Articles from Jan Herca: 
+	- https://buscandoajesus.wordpress.com/descargas/
+* Other in spanish:
+	- https://urantiabook.org/Estudios_Espanol
