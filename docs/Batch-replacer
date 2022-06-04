@@ -1,0 +1,29 @@
+in "**/es/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book.md"
+
+// Replace hyphenation
+replace-regex "-\n"
+with ""
+
+// Replace paragraph separators
+replace-regex "^\n"
+with "%%\n\n"
+
+// Replace end lines not preceded by %
+replace-regex "(?<!%)\n"
+with " "
+
+// Replace %%
+replace-regex "%%"
+with "\n"
+
+// Replace spaces at beginning
+replace-regex "^[ ]+"
+with " "
+
+// Replace spanish plain quotes with angular ones
+replace-regex ""([^"]*)"
+with "«$1»"
+
+// Format Urantia Book name
+replace "El Libro de Urantia"
+with "_El Libro de Urantia_"

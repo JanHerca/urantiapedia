@@ -604,7 +604,7 @@ Estado | Fuente | Ejemplar | Título | Autor | Etiquetas
 :white_square_button: | Herald | Vol. 01, No. 2 | "On Removing The Barrier To A Civilized Discussion Of Eugenics" | Stephen | 
 :white_square_button: | Herald | Vol. 01, No. 2 | "The Basket - A Poem" | Charlene Morrow | 
 :white_square_button: | Herald | Vol. 02, No. 1 | "The Family: Birthplace of Cosmic Citizens" | Paul Snider | 
-:white_square_button: | Herald | Vol. 02, No. 1 | "Two Cosmologies — Astronomy and The Urantia Book" | Irwin Ginsburgh | 
+:ballot_box_with_check: | Herald | Vol. 02, No. 1 | [Dos cosmologías — La astronomía y El Libro de Urantia](/es/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book) | Irwin Ginsburgh | The Urantia Book, Astronomy, Cosmology
 :white_square_button: | Herald | Vol. 02, No. 1 | "Reflections on cosmic citizenship" | Stephen Dreier | 
 :white_square_button: | Herald | Vol. 02, No. 1 | "The Dual Nature of Supremacy" | Linda Buselli | 
 :white_square_button: | Herald | Vol. 02, No. 2 | "Thinking About Tomorrow" | Carolyn Kendall | 
