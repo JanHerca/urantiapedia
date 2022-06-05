@@ -1,9 +1,9 @@
 ---
-title: Índice de Artículos
+title: Índice de todos los artículos planeados
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: index
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -85,7 +85,7 @@ Estado | Fuente | Ejemplar | Título | Autor | Etiquetas
 :white_square_button: | Innerface | Vol. 02, No. 1. | "The Urantia Book. Why are some people turned off it and others love it?" |  Ann Bendall | Morality, Psychology, The Urantia Book
 :white_square_button: | Innerface | Vol. 02, No. 2. | "Aristotle, Fuzzy Logic, and The Urantia Book." | Ken Glasziou | Psychology, The Urantia Book
 :white_square_button: | Innerface | Vol. 02, No. 2. | "Divine Music." | Sandy Garrick | Art, Jesus, Jesus teachings
-:white_square_button: | Innerface | Vol. 02, No. 2. | "Gravity, Newton, Einstein, and The Urantia Book." | Ken Glasziou | Physics
+:ballot_box_with_check: | Innerface | Vol. 02, No. 2. | [Gravedad, Newton, Einstein y El Libro de Urantia](/es/article/Ken_Glasziou/Gravity_Newton_Einstein_and_The_Urantia_Book) | Ken Glasziou | Physics
 :white_square_button: | Innerface | Vol. 02, No. 2. | "Limitations to Revelation." | Ann Bendall | Church, God, Jesus, Jesus teachings, Revelation
 :white_square_button: | Innerface | Vol. 02, No. 2. | "Not If, But When." | Dick Bain | Church, Religion
 :white_square_button: | Innerface | Vol. 02, No. 2. | "On Fuzzy Thinking." | Ken Glasziou | Psychology
@@ -138,7 +138,7 @@ Estado | Fuente | Ejemplar | Título | Autor | Etiquetas
 :white_square_button: | Innerface | Vol. 03, No. 2. | "How Christian is The Urantia Book." | Dick Bain | Religion
 :white_square_button: | Innerface | Vol. 03, No. 2. | "Keys to the Kingdom." | Ann Bendall | Morality
 :white_square_button: | Innerface | Vol. 03, No. 2. | "Keys to the Kingdom." | Ann Bendall | Psychology
-:white_square_button: | Innerface | Vol. 03, No. 2. | "Neutrinos and Neutron Stars." | Ken Glasziou | Physics
+:ballot_box_with_check: | Innerface | Vol. 03, No. 2. | [Neutrinos y Estrellas de neutrones](/es/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars) | Ken Glasziou | Physics
 :white_square_button: | Innerface | Vol. 03, No. 2. | "No Man Ever Spake Thus." | Ken Glasziou | Revelation
 :white_square_button: | Innerface | Vol. 03, No. 2. | "No Man Ever Spake Thus." | Ken Glasziou | The Urantia Book
 :white_square_button: | Innerface | Vol. 03, No. 2. | "The Urantia Book. Why is it so?" | Ken Glasziou  | Purpose, Revelation, The Urantia Book, The Urantia Book—Purpose
@@ -147,7 +147,7 @@ Estado | Fuente | Ejemplar | Título | Autor | Etiquetas
 :white_square_button: | Innerface | Vol. 03, No. 3. | "Matthew Block's Vision on Urantia Book Science and Archaeology." | Matthew Block | Archaeology, The Urantia Book
 :white_square_button: | Innerface | Vol. 03, No. 3. | "On Prayer and Faith." from The Urantia Book | | Jesus, Jesus teachings
 :white_square_button: | Innerface | Vol. 03, No. 3. | "Science and Archaeology in The Urantia Book. | Ken Glasziou | Archaeology
-:white_square_button: | Innerface | Vol. 03, No. 3. | "Surfing the Sunbeams: Calcium, the Wanderer of Space." from "Stars and Atoms" | Sir Arthur Eddington | Astronomy
+:ballot_box_with_check: | Innerface | Vol. 03, No. 3. | [Haciendo surf por los rayos de sol. El calcio, el errante del espacio](/es/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space) | Ken Glasziou | Astronomy
 :white_square_button: | Innerface | Vol. 03, No. 3. | "The Challenge of the Twenty First Century." | Meredith Sprunger | Psychology, Sociology
 :white_square_button: | Innerface | Vol. 03, No. 3. | "The Scandal of Current Spiritual Cosmology." | Meredith Sprunger | Spirituality, The Urantia Book
 :white_square_button: | Innerface | Vol. 03, No. 4. | "A Discourse on Religion." from The Urantia Book | | Religion
@@ -220,7 +220,7 @@ Estado | Fuente | Ejemplar | Título | Autor | Etiquetas
 :white_square_button: | Innerface | Vol. 05, No. 1. | "Dare to be God-like." Report on Australian Readers' Conference | | Morality
 :white_square_button: | Innerface | Vol. 05, No. 1. | "Favorite Places. Forbid him not." from The Urantia Book | | Morality
 :white_square_button: | Innerface | Vol. 05, No. 1. | "Listening to your Dreams." | Dick Bain | The Urantia Book
-:white_square_button: | Innerface | Vol. 05, No. 1. | "Where are the Daughters of God?" | Marion Steward | Morality, The Urantia Book
+:ballot_box_with_check: | Innerface | Vol. 05, No. 1. | [¿Dónde están las Hijas de Dios?](/es/article/Marion_Steward/Where_are_the_Daughters_of_God) | Marion Steward | Morality, The Urantia Book
 :white_square_button: | Innerface | Vol. 05, No. 2. | "Charity Doesn't Start at Home." | Sydney Harris | Morality
 :white_square_button: | Innerface | Vol. 05, No. 2. | "Christianity—A Different Perspective." | Ken Glasziou | Religion, Theology
 :white_square_button: | Innerface | Vol. 05, No. 2. | "Clovis First ain't First Anymore." | | Anthropology

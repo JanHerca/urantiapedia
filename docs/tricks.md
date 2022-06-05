@@ -23,6 +23,9 @@ Other replacements:
 * Replace english plain quotes with curly ones:
     - Search (regex): `"([^"]*)"`
     - Replace: `“$1”`
+* Replace english curly quotes with spanish angular ones:
+    - Search (regex): `“([^”]*)”`
+    - Replace: `«$1»`
 * Replace spanish plain quotes with angular ones:
     - Search (regex): `"([^"]*)"`
     - Replace: `«$1»`
