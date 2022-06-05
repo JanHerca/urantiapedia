@@ -65,10 +65,10 @@ Me parece que los autores han creado un misterio para nosotros intencionadamente
 
 ## Referencias
 
-<ol style="margin: 0; padding-top: 0px;">
-  <li style="margin-top:0px;" id="fn1"><a href="#cite1">↑</a> «Hubble's Constant and the Age of the Universe,» Martin V. Zombeck, at internet address: <a href="http://www.mathsoft.com/mathcad/library/astronomy">http://www.mathsoft.com/mathcad/library/astronomy</a></li>
-  <li style="margin-top:0px;" id="fn2"><a href="#cite2">↑</a> «Ho: The Incredible Shrinking Constant,» Virginia Trimble, Publications of the Astronomical Society of the Pacific, 108: 1073-1082, (Dic.,1996)</li>
-  <li style="margin-top:0px;" id="fn3"><a href="#cite3">↑</a> «Brahma Breathed,» Richard Bain, Innerface International Vol 6, No. 1, Jan/Feb 1999. </li>
+<ol>
+  <li id="fn1"><a href="#cite1">↑</a> «Hubble's Constant and the Age of the Universe,» Martin V. Zombeck, at internet address: <a href="http://www.mathsoft.com/mathcad/library/astronomy">http://www.mathsoft.com/mathcad/library/astronomy</a></li>
+  <li id="fn2"><a href="#cite2">↑</a> «Ho: The Incredible Shrinking Constant,» Virginia Trimble, Publications of the Astronomical Society of the Pacific, 108: 1073-1082, (Dic.,1996)</li>
+  <li id="fn3"><a href="#cite3">↑</a> «Brahma Breathed,» Richard Bain, Innerface International Vol 6, No. 1, Jan/Feb 1999. </li>
 </ol>
 
 ## Enlaces externos
@@ -81,23 +81,23 @@ Me parece que los autores han creado un misterio para nosotros intencionadamente
 
 ## Notas
 
-[^1]: Nota del Traductor: https://es.wikipedia.org/wiki/Candela_estándar
+[^1]: _Nota del Editor_: https://es.wikipedia.org/wiki/Candela_estándar
 
-[^2]: Nota del Traductor: https://es.wikipedia.org/wiki/Paralaje
+[^2]: _Nota del Editor_: https://es.wikipedia.org/wiki/Paralaje
 
-[^3]: Nota del Traductor: M31 recibió su nombre al ser catalogada por Charles Messier en 1764. En esa época, los astrónomos pensaban que Andrómeda era una nebulosa, y basándose en su tamaño, Messier consideró que debía encontrarse tan sólo a 2.000 veces más distancia que la estrella Sirio. En 1917 los astrónomos descubrieron estrellas llamadas novas en Andrómeda, y Herber Curtis propuso que Andrómeda era un «universo isla» separado de nuestra galaxia, localizado a 500.000 años luz.
+[^3]: _Nota del Editor_: M31 recibió su nombre al ser catalogada por Charles Messier en 1764. En esa época, los astrónomos pensaban que Andrómeda era una nebulosa, y basándose en su tamaño, Messier consideró que debía encontrarse tan sólo a 2.000 veces más distancia que la estrella Sirio. En 1917 los astrónomos descubrieron estrellas llamadas novas en Andrómeda, y Herber Curtis propuso que Andrómeda era un «universo isla» separado de nuestra galaxia, localizado a 500.000 años luz.
 
-[^4]: Nota del Traductor: Exactamente calculó 275.000 parsecs, un poco menos de 900.000 años luz (Edwin Hubble, «A spiral nebula as a stellar system, Messier 31», _Astrophysical Journal_ 69: 103, 1929. http://articles.adsabs.harvard.edu/pdf/1929ApJ....69..103H ). Esta es la misma distancia que sir James Jeans ofrece en su libro de 1930: «A partir de los períodos de fluctuación observados en sus variables Cefeidas, y en combinación con los otros métodos que acabamos de explicar, el Dr. Hubble del Observatorio del Monte Wilson ha encontrado recientemente que incluso la más cercana de esas nebulosas, denominada la nebulosa M33 [...], está tan remota que a la luz le lleva unos 850.000 años llegar hasta nosotros. La Gran Nebulosa M31 en Andrómeda [...] está a una distancia ligeramente mayor de casi 900.000 años-luz.» (Sir James Jeans, _The Universe Around Us_, _Cambridge University Press_, Segunda edición, 1930, p. 71.)
+[^4]: _Nota del Editor_: Exactamente calculó 275.000 parsecs, un poco menos de 900.000 años luz (Edwin Hubble, «A spiral nebula as a stellar system, Messier 31», _Astrophysical Journal_ 69: 103, 1929. http://articles.adsabs.harvard.edu/pdf/1929ApJ....69..103H ). Esta es la misma distancia que sir James Jeans ofrece en su libro de 1930: «A partir de los períodos de fluctuación observados en sus variables Cefeidas, y en combinación con los otros métodos que acabamos de explicar, el Dr. Hubble del Observatorio del Monte Wilson ha encontrado recientemente que incluso la más cercana de esas nebulosas, denominada la nebulosa M33 [...], está tan remota que a la luz le lleva unos 850.000 años llegar hasta nosotros. La Gran Nebulosa M31 en Andrómeda [...] está a una distancia ligeramente mayor de casi 900.000 años-luz.» (Sir James Jeans, _The Universe Around Us_, _Cambridge University Press_, Segunda edición, 1930, p. 71.)
 
-[^5]: Nota del Traductor: Resulta llamativo que cuando en el libro se dan distancias en años luz no se tiene reparo en especificar valores como «cuatrocientos mil años-luz» ([LU 12:1.14](/es/The_Urantia_Book/12#p1_14)) y «doscientos mil años luz» ([LU 32:2.11](/es/The_Urantia_Book/32#p2_11)) pero sin embargo en este pasaje no dice «novecientos mil años» sino simplemente «cerca de un millón de años». Esto hace surgir una pregunta: ¿Se estaban basando los autores del libro en las distancias a Andrómeda comunes a la época en que se escribió, o dieron una cifra diferente porque no consideraban a las cifras de esa época como correctas? Es una pregunta que tiene su importancia, como se explica en este artículo, porque desafortunadamente, tanto la cifra del Sr. Hubble de 900.000 años-luz, como la del millón de años luz de _El Libro de Urantia_, ambas hay que considerarlas erróneas según la ciencia posterior a la fecha en que se escribió el libro.
+[^5]: _Nota del Editor_: Resulta llamativo que cuando en el libro se dan distancias en años luz no se tiene reparo en especificar valores como «cuatrocientos mil años-luz» ([LU 12:1.14](/es/The_Urantia_Book/12#p1_14)) y «doscientos mil años luz» ([LU 32:2.11](/es/The_Urantia_Book/32#p2_11)) pero sin embargo en este pasaje no dice «novecientos mil años» sino simplemente «cerca de un millón de años». Esto hace surgir una pregunta: ¿Se estaban basando los autores del libro en las distancias a Andrómeda comunes a la época en que se escribió, o dieron una cifra diferente porque no consideraban a las cifras de esa época como correctas? Es una pregunta que tiene su importancia, como se explica en este artículo, porque desafortunadamente, tanto la cifra del Sr. Hubble de 900.000 años-luz, como la del millón de años luz de _El Libro de Urantia_, ambas hay que considerarlas erróneas según la ciencia posterior a la fecha en que se escribió el libro.
 
-[^6]: Nota del Traductor: El artículo original de Dick Bain daba una distancia de 2,2 millones de años luz. La Wikipedia indica que el valor 2,54 sale de realizar una media sobre cuatro técnicas distintas de estimación, todas ellas bastante coincidentes entre sí. https://en.wikipedia.org/wiki/Andromeda_Galaxy#Distance_estimate
+[^6]: _Nota del Editor_: El artículo original de Dick Bain daba una distancia de 2,2 millones de años luz. La Wikipedia indica que el valor 2,54 sale de realizar una media sobre cuatro técnicas distintas de estimación, todas ellas bastante coincidentes entre sí. https://en.wikipedia.org/wiki/Andromeda_Galaxy#Distance_estimate
 
-[^7]: Nota del Traductor: https://es.wikipedia.org/wiki/Walter_Baade
+[^7]: _Nota del Editor_: https://es.wikipedia.org/wiki/Walter_Baade
 
-[^8]: Nota del Traductor: https://es.wikipedia.org/wiki/Ley_de_Hubble
+[^8]: _Nota del Editor_: https://es.wikipedia.org/wiki/Ley_de_Hubble
 
-[^9]: Nota del Traductor: Recientemente se han llevado a cabo varios proyectos de gran magnitud para tratar de medir la constante de Hubble con la mayor precisión posible. Lo que los científicos han descubierto es una notable discrepancia cuando se estima la constante por unos métodos y por otros. Esta notable discrepancia tiene a los científicos abrumados, pues no se esperaban que fuera tan grande. Hasta tal punto es notable esta discrepancia que se empieza a considerar la posibilidad de que nuestros modelos cosmológicos actuales no sean correctos y haya que revisarlos. Podría ser esta una indicación de que la ciencia actual se esté topando con las _distorsiones espacio-temporales_ ([LU 12:4.14](/es/The_Urantia_Book/12#p4_14)) de las que habla _El Libro de Urantia_ y que aún no han sido detectadas por la ciencia.
+[^9]: _Nota del Editor_: Recientemente se han llevado a cabo varios proyectos de gran magnitud para tratar de medir la constante de Hubble con la mayor precisión posible. Lo que los científicos han descubierto es una notable discrepancia cuando se estima la constante por unos métodos y por otros. Esta notable discrepancia tiene a los científicos abrumados, pues no se esperaban que fuera tan grande. Hasta tal punto es notable esta discrepancia que se empieza a considerar la posibilidad de que nuestros modelos cosmológicos actuales no sean correctos y haya que revisarlos. Podría ser esta una indicación de que la ciencia actual se esté topando con las _distorsiones espacio-temporales_ ([LU 12:4.14](/es/The_Urantia_Book/12#p4_14)) de las que habla _El Libro de Urantia_ y que aún no han sido detectadas por la ciencia.
 
 [^10]: [La respiración de Brahma](/es/article/Dick_Bain/Brahma_Breathes), Richard Bain, Innerface International, Vol 6. No. 1, Ene/Feb 1999. «En la teología hindú, cuando Brahma exhala, aparece el universo; cuando inspira, el universo desaparece. _El Libro de Urantia_ tiene un concepto similar llamado respiración espacial».
 

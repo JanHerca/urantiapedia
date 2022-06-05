@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-05-30T18:34:46.793Z
+date: 2022-06-04T17:49:57.068Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -11,36 +11,47 @@ dateCreated: 2022-04-05T10:55:15.557Z
 The purpose of this page is just for doing tests with content in Markdown files.
 
 ---
-__Advertisement :)__
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly i18n with plurals support and easy syntax.
+## Headings
 
-You will like those projects!
-
----
-
+**Markdown**
+```
 # h1 Heading 8-)
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
 ##### h5 Heading
 ###### h6 Heading
+```
+**Result**
+<div style="padding-bottom:5px;color: #1565c0; font-size: 2em;font-weight:bold;background:linear-gradient(90deg,#1976d2,rgba(25,118,210,0)) left bottom #fff0 no-repeat;;background-size:100% 3px;">h1 Heading <img src="/_assets/svg/twemoji/1f60e.svg" alt="😎" draggable="false" class="emoji"></div>
+<div style="padding-bottom:5px;color: #424242; font-size: 1.5em;font-weight: bold;background:linear-gradient(90deg,#424242,rgba(25,118,210,0)) left bottom #fff0 no-repeat;;background-size:100% 1px;">h2 Heading</div>
+<div style="padding-bottom:5px;color: #616161; font-size: 1.17em;font-weight: bold;background:linear-gradient(90deg,#616161,rgba(25,118,210,0)) left bottom #fff0 no-repeat;;background-size:100% 1px;">h3 Heading</div>
+<div style="padding-bottom:5px;color: #616161; font-weight: bold;background:linear-gradient(90deg,#616161,rgba(25,118,210,0)) left bottom #fff0 no-repeat;;background-size:100% 1px;">h4 Heading</div>
+<div style="padding-bottom:5px;color: #616161; font-weight: bold;background:linear-gradient(90deg,#616161,rgba(25,118,210,0)) left bottom #fff0 no-repeat;;background-size:100% 1px;">h5 Heading</div>
+<div style="padding-bottom:5px;color: #616161; font-weight: bold;background:linear-gradient(90deg,#616161,rgba(25,118,210,0)) left bottom #fff0 no-repeat;;background-size:100% 1px;">h6 Heading</div>
 
 
 ## Horizontal Rules
 
+**Markdown**
+```
 ___
-
 ---
-
 ***
+```
 
+**Result**
+___
+---
+***
 
 ## Typographic replacements
 
 Enable typographer option to see result.
 
+**Markdown**
+```
 (c) (C) (r) (R) (tm) (TM) (p) (P) +-
 
 test.. test... test..... test?..... test!....
@@ -48,32 +59,67 @@ test.. test... test..... test?..... test!....
 !!!!!! ???? ,,  -- ---
 
 "Smartypants, double quotes" and 'single quotes'
+```
 
+**Result**
+
+© © ® ® ™ ™ § § ±
+
+test… test… test… test?.. test!..
+
+!!! ??? , – —
+
+“Smartypants, double quotes” and ‘single quotes’
 
 ## Emphasis
 
+**Markdown**
+```
 **This is bold text**
-
 __This is bold text__
-
 *This is italic text*
-
 _This is italic text_
-
 ~~Strikethrough~~
-
 ***Bold & italic***
+```
 
+**Result**
+**This is bold text**
+__This is bold text__
+*This is italic text*
+_This is italic text_
+~~Strikethrough~~
+***Bold & italic***
 
 ## Blockquotes
 
-
+**Markdown**
+```
+> Blockquotes can also be nested...
+>> ...by using additional greater-than signs right next to each other...
+> > > ...or with spaces between arrows.
+```
+**Result**
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.
 
 Custom blockquotes
+**Markdown**
+```
+> This is an info blockquote
+{.is-info}
 
+> This is a success blockquote
+{.is-success}
+
+> This is a warning blockquote
+{.is-warning}
+
+> This is an error blockquote
+{.is-danger}
+```
+**Result**
 > This is an info blockquote
 {.is-info}
 
@@ -88,8 +134,19 @@ Custom blockquotes
 
 ## Lists
 
-Unordered
+### Unordered
 
+**Markdown**
+```
++ Create a list by starting a line with `+`, `-`, or `*`
++ Sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
+    * Ac tristique libero volutpat at
+    + Facilisis in pretium nisl aliquet
+    - Nulla volutpat aliquam velit
++ Very easy!
+```
+**Result**
 + Create a list by starting a line with `+`, `-`, or `*`
 + Sub-lists are made by indenting 2 spaces:
   - Marker character change forces new list start:
@@ -98,8 +155,19 @@ Unordered
     - Nulla volutpat aliquam velit
 + Very easy!
 
-Ordered
+### Ordered
 
+**Markdown**
+```
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Integer molestie lorem at massa
+
+
+1. You can use sequential numbers...
+1. ...or keep all the numbers as `1.`
+```
+**Result**
 1. Lorem ipsum dolor sit amet
 2. Consectetur adipiscing elit
 3. Integer molestie lorem at massa
@@ -108,11 +176,16 @@ Ordered
 1. You can use sequential numbers...
 1. ...or keep all the numbers as `1.`
 
-Start numbering with offset:
+### Start numbering with offset:
 
+**Markdown**
+```
 57. foo
 1. bar
-
+```
+**Result**
+57. foo
+1. bar
 
 ## Code
 
@@ -144,6 +217,18 @@ console.log(foo(5));
 
 ## Tables
 
+**Markdown**
+
+```
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+```
+
+**Result**
+
 | Option | Description |
 | ------ | ----------- |
 | data   | path to data files to supply the data that will be passed into templates. |
@@ -152,6 +237,18 @@ console.log(foo(5));
 
 Right aligned columns
 
+**Markdown**
+
+```
+| Option | Description |
+| ------:| -----------:|
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+```
+
+**Result**
+
 | Option | Description |
 | ------:| -----------:|
 | data   | path to data files to supply the data that will be passed into templates. |
@@ -159,6 +256,19 @@ Right aligned columns
 | ext    | extension to be used for dest files. |
 
 ## Links
+
+
+**Markdown**
+
+```
+[link text](http://dev.nodeca.com)
+
+[link with title](http://nodeca.github.io/pica/demo/ "title text!")
+
+Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
+```
+
+**Result**
 
 [link text](http://dev.nodeca.com)
 
@@ -169,16 +279,37 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 ## Images
 
-![Minion](https://octodex.github.com/images/minion.png) {#Letter_figure_1 .image.image_resized}
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+**Markdown**
+```
+![Minion](https://octodex.github.com/images/minion.png =300x300)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat" =300x300)
+```
+
+**Result**
+![Minion](https://octodex.github.com/images/minion.png =300x300)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat" =300x300)
 
 Like links, Images also have a footnote style syntax
+
+**Markdown**
+```
+![Alt text][id]
+```
+
+**Result**
 
 ![Alt text][id]
 
 With a reference later in the document defining the URL location:
 
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+**Markdown**
+```
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat" =300x300
+```
+
+**Result**
+
+[id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
 
 
 ## Plugins

@@ -65,10 +65,10 @@ It appears to me that the authors intentionally created a mystery for us. I thin
 
 ## References
 
-<ol style="margin: 0; padding-top: 0px;">
-  <li style="margin-top:0px;" id="fn1"><a href="#cite1">↑</a> “Hubble's Constant and the Age of the Universe,” Martin V. Zombeck, at internet address: <a href="http://www.mathsoft.com/mathcad/library/astronomy">http://www.mathsoft.com/mathcad/library/astronomy</a></li>
-  <li style="margin-top:0px;" id="fn2"><a href="#cite2">↑</a> “Ho: The Incredible Shrinking Constant,” Virginia Trimble, Publications of the Astronomical Society of the Pacific, 108: 1073-1082, (Dec.,1996)</li>
-  <li style="margin-top:0px;" id="fn3"><a href="#cite3">↑</a> “Brahma Breathed,” Richard Bain, Innerface International Vol 6, No. 1, Jan/Feb 1999. </li>
+<ol>
+  <li id="fn1"><a href="#cite1">↑</a> “Hubble's Constant and the Age of the Universe,” Martin V. Zombeck, at internet address: <a href="http://www.mathsoft.com/mathcad/library/astronomy">http://www.mathsoft.com/mathcad/library/astronomy</a></li>
+  <li id="fn2"><a href="#cite2">↑</a> “Ho: The Incredible Shrinking Constant,” Virginia Trimble, Publications of the Astronomical Society of the Pacific, 108: 1073-1082, (Dec.,1996)</li>
+  <li id="fn3"><a href="#cite3">↑</a> “Brahma Breathed,” Richard Bain, Innerface International Vol 6, No. 1, Jan/Feb 1999. </li>
 </ol>
 
 ## External Links
@@ -77,22 +77,22 @@ It appears to me that the authors intentionally created a mystery for us. I thin
 
 ## Notes
 
-[^1]: Editor's note: https://en.wikipedia.org/wiki/Cosmic_distance_ladder#Standard_candles
+[^1]: _Editor's note_: https://en.wikipedia.org/wiki/Cosmic_distance_ladder#Standard_candles
 
-[^2]: Editor's note: https://en.wikipedia.org/wiki/Parallax
+[^2]: _Editor's note_: https://en.wikipedia.org/wiki/Parallax
 
-[^3]: Editor's note: M31 received his name when he was listed by Charles Messier in 1764. At that time, astronomers thought Andromeda was a nebula, and based on his size, Messier considered that its distance should be only 2,000 times more than Sirius star. In 1917 astronomers discovered stars called novas in Andromeda, and Herber Curtis proposed that Andromeda was an “island universe” separated from our galaxy, located 500,000 light years away.
+[^3]: _Editor's note_: M31 received his name when he was listed by Charles Messier in 1764. At that time, astronomers thought Andromeda was a nebula, and based on his size, Messier considered that its distance should be only 2,000 times more than Sirius star. In 1917 astronomers discovered stars called novas in Andromeda, and Herber Curtis proposed that Andromeda was an “island universe” separated from our galaxy, located 500,000 light years away.
 
-[^4]: Editor's note: He exactly calculated 275,000 Parsecs, a little less than 900,000 light years (Edwin Hubble, “A Spiral Nebula As a Stellar System, Messier 31”, _Astrophysical Journal_ 69: 103, 1929. http://articles.adsabs.harvard.edu/pdf/1929ApJ....69..103H ). This is the same distance that Sir James Jeans offers in his 1930 book: “From the fluctuation periods observed in its cefid variables, and in combination with the other methods we have just explained, Dr. Hubble of the Observatory of the Mount Wilson has recently found that even the closest of those nebulae, called the M33 nebula [...], is so remote that in light it has been about 850,000 years to reach us. The great M31 nebula in Andromeda [...] is a distance slightly greater than 900,000 years-years.” (Sir James Jeans, _The Universe Around Us_, _Cambridge University Press_, second edition, 1930, p. 71.)
+[^4]: _Editor's note_: He exactly calculated 275,000 Parsecs, a little less than 900,000 light years (Edwin Hubble, “A Spiral Nebula As a Stellar System, Messier 31”, _Astrophysical Journal_ 69: 103, 1929. http://articles.adsabs.harvard.edu/pdf/1929ApJ....69..103H ). This is the same distance that Sir James Jeans offers in his 1930 book: “From the fluctuation periods observed in its cefid variables, and in combination with the other methods we have just explained, Dr. Hubble of the Observatory of the Mount Wilson has recently found that even the closest of those nebulae, called the M33 nebula [...], is so remote that in light it has been about 850,000 years to reach us. The great M31 nebula in Andromeda [...] is a distance slightly greater than 900,000 years-years.” (Sir James Jeans, _The Universe Around Us_, _Cambridge University Press_, second edition, 1930, p. 71.)
 
-[^5]: Editor's note: It is striking that when in the book there are distances in light years there is no qualms about specifying values ​​such as “four hundred thousand light-years” ([UB 12:1.14](/en/The_Urantia_Book/12#p1_14)) and “two hundred thousand light-years” ([UB 32:2.11](/en/The_Urantia_Book/32#p2_11)) but nevertheless in this passage it does not say “nine hundred thousand years” but simply “about one million years.” This makes a question arise: were the authors of the book basing Andromeda distances to common to the time it was written, or gave a different figure because they did not consider the figures of that time as correct? It is a question that has its importance, as explained in this article, because unfortunately, both the figure from Mr. Hubble of 900,000 light-years, and the million light-years from The Urantia Book must be considered wrong under science after the date the book was written.
+[^5]: _Editor's note_: It is striking that when in the book there are distances in light years there is no qualms about specifying values ​​such as “four hundred thousand light-years” ([UB 12:1.14](/en/The_Urantia_Book/12#p1_14)) and “two hundred thousand light-years” ([UB 32:2.11](/en/The_Urantia_Book/32#p2_11)) but nevertheless in this passage it does not say “nine hundred thousand years” but simply “about one million years.” This makes a question arise: were the authors of the book basing Andromeda distances to common to the time it was written, or gave a different figure because they did not consider the figures of that time as correct? It is a question that has its importance, as explained in this article, because unfortunately, both the figure from Mr. Hubble of 900,000 light-years, and the million light-years from The Urantia Book must be considered wrong under science after the date the book was written.
 
-[^6]: Editor's note: Dick Bain's original article gave a distance of 2.2 million light years. Wikipedia indicates that the 2.54 value comes out of an average of four different estimation techniques, all of them quite coinciding with each other. https://en.wikipedia.org/wiki/Andromeda_Galaxy#Distance_estimate
+[^6]: _Editor's note_: Dick Bain's original article gave a distance of 2.2 million light years. Wikipedia indicates that the 2.54 value comes out of an average of four different estimation techniques, all of them quite coinciding with each other. https://en.wikipedia.org/wiki/Andromeda_Galaxy#Distance_estimate
 
-[^7]: Editor's note: https://en.wikipedia.org/wiki/Walter_Baade
+[^7]: _Editor's note_: https://en.wikipedia.org/wiki/Walter_Baade
 
-[^8]: Editor's note: https://en.wikipedia.org/wiki/Hubble%27s_law
+[^8]: _Editor's note_: https://en.wikipedia.org/wiki/Hubble%27s_law
 
-[^9]: Editor's note: Recently several great magnitude projects have been carried out to try to measure the Hubble constant as accurately as possible. What scientists have discovered is a remarkable discrepancy when the constant is estimated by some methods and others. This remarkable discrepancy has overwhelmed scientists, because they were not expected to be so great. This discrepancy is so remarkable that it is started to be under consideration the possibility that our current cosmological models are not correct and must be reviewed. This could be an indication that current science is being blocked by the _space-temporal distorsions_ ([UB 12:4.14](/en/The_Urantia_Book/12#p4_14)) mentioned in _The Urantia Book_, that have not yet been detected by science.
+[^9]: _Editor's note_: Recently several great magnitude projects have been carried out to try to measure the Hubble constant as accurately as possible. What scientists have discovered is a remarkable discrepancy when the constant is estimated by some methods and others. This remarkable discrepancy has overwhelmed scientists, because they were not expected to be so great. This discrepancy is so remarkable that it is started to be under consideration the possibility that our current cosmological models are not correct and must be reviewed. This could be an indication that current science is being blocked by the _space-temporal distorsions_ ([UB 12:4.14](/en/The_Urantia_Book/12#p4_14)) mentioned in _The Urantia Book_, that have not yet been detected by science.
 
-[^10]: Editor's note: [Brahma Breathes](/en/articles/Dick_Bain/Brahma_Breathes), Richard Bain, Innerface International, Vol 6. No. 1, Jan/Feb 1999. “In Hindu theology, when Brahma breathes out, the universe appears; when he breathes in, the universe disappears. _The Urantia Book_ has a similar concept called space respiration.”
+[^10]: _Editor's note_: [Brahma Breathes](/en/articles/Dick_Bain/Brahma_Breathes), Richard Bain, Innerface International, Vol 6. No. 1, Jan/Feb 1999. “In Hindu theology, when Brahma breathes out, the universe appears; when he breathes in, the universe disappears. _The Urantia Book_ has a similar concept called space respiration.”

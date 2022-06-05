@@ -50,7 +50,7 @@ La siguiente división administrativa mayor es llamada una constelación ([Fig. 
 
 La siguiente división administrativa mayor es un universo local ([Fig. 2 (medio)](#Cosmo_figure_2)). Este consiste de cien constelaciones y puede ser una caja de lados iguales que tiene cerca de 5.000 años luz por borde. Puesto que el disco de nuestra Vía Láctea tiene 3.000 años luz de grosor, las otras dos dimensiones del universo local, deben ser incrementadas por cerca del 20%; o las otras dos dimensiones tienen cerca de 6.000 años luz de largo. El universo local de Nebadon puede tener 3.000 años luz de grosor, 6.000 años luz a lo largo del radio del disco y 6.000 años luz a lo largo de un arco perpendicular a un radio del disco. Este puede tener el tamaño aproximado del universo local de Nebadon ([Fig. 2](#Cosmo_figure_2)). Puesto que Nebadon tiene 100 constelaciones, ¿cómo pueden estar arregladas? Una forma sencilla es una caja con cajas más pequeñas de lados iguales en su interior. Una constelación en el interior de una caja de un universo local, puede tener bordes que tienen 1.000 años luz de largo. Las cien constelaciones de Nebadon pueden estar arregladas en tres capas una arriba de otra con arreglo de 6x6 constelaciones en cada capa. Esto llena los 6.000 por 6.000 por 3.000 años luz del tamaño de un universo local. De manera similar, una constelación podría tener su sistema de 100 cajas arreglado en cinco capas con un arreglo de sistemas de 5x5 en cada capa. Cada caja de sistema es de 200 años luz en un borde y puede tener 1.000 mundos habitados en su caja. Estos arreglos son altamente simplificados y no son necesariamente la manera en que están realmente las cosas. La Tabla 2 muestra el arreglo administrativo del LU de los mundos habitados ([LU 15:2.10-16](/es/The_Urantia_Book/15#p2_10)). 
 
-ESTRUCTURA DEL UNIVERSO | NÚMERO ACUMULADO DE MUNDOS HABITADOS | NÚMERO DE ESTRUCTURAS EN LA SIGUIENTE ESTRUCTURA GRANDE
+ESTRUCTURA DEL UNIVERSO | NÚMERO ACUMULADO DE MUNDOS HABITADOS | NÚMERO DE ESTRUCTURAS EN LA SIGUIENTE ESTRUCTURA GRANDE ([LU 15:2.10-16](/es/The_Urantia_Book/15#p2_10))
 --- | --- | ---
 Urantia | 1 | 1.000 mundos habitados en un sistema
 Sistema | 1.000 | 100 sistemas en una constelación
@@ -59,7 +59,7 @@ Universo local | 10.000.000 | 100 universos locales en un sector menor
 Sector Menor | 1.000.000.000 | 100 sectores menores en un sector mayor
 Sector Mayor | 100.000.000.000 | 10 sectores mayores en el superuniverso
 Superuniverso| 1.000.000.000.000 | 7 superuniversos en el gran universo
-[Tabla 2. Estructura Administrativa del Gran Universo ([LU 15:2.10-16](/es/The_Urantia_Book/15#p2_10))]
+[Tabla 2. Estructura Administrativa del Gran Universo]
 
 La siguiente estructura mayor que consideraremos es la galaxia Vía Láctea. Este es un grupo de al menos cien mil millones de estrellas. Es un enorme disco plano de alrededor de 100.000 años luz de diámetro. El disco, en su borde exterior, es de alrededor de 3.000 años luz de grueso; esto es pequeño comparado con el diámetro del disco, el cual es alrededor de 100.000 años luz. Hay un bulto o bola brillante central que se extiende del centro del disco hasta casi un cuarto del radio. Pruebas recientes reportan una barra larga o elipsoide en vez de una bola esférica. 
 
@@ -110,6 +110,10 @@ Nuestro mundo, Urantia, es uno de los mundos más jóvenes del sistema de Satani
 
 Entre los futuros lectores de _El Libro de Urantia_, habrá más y más escépticos. Las predicciones acerca de la estructura a gran escala del universo en _El Libro de Urantia_ pueden ser más útiles al responder preguntas de estos lectores. 
 
+## Enlaces externos
+
+* Este artículo en _The Fellowship Herald_: https://urantia-book.org/archive/newsletters/herald/herald_w1999.pdf
+* Traducción de Agustín Arellano Tirado en la web de la _Asociación Urantia de Chile_: http://www.urantiachile.org/documentos/ensayos/2_dos_cosmologias.html
 ## Notas
 
 [^1]: _Nota del editor_: En lugar de «nebulosa» es más exacto decir un «sistema planetario». _El Libro de Urantia_ da varias indicaciones sobre este objeto que se acercó a nuestro sol, y no era una nebulosa ([LU 54:5.4-6](/es/The_Urantia_Book/54#p5_4)). Era un sistema llamado Angona, formado por un gran objeto masivo en su centro, llamado en el libro «gigante oscuro del espacio», y una colección de planetas que lo orbitaban.
@@ -124,8 +128,3 @@ El libro afirma que los niveles del espacio exterior tienen 25 millones de años
 {.es-info}
 
 > Todo el maravilloso mecanismo universal se mueve majestuosamente a través del espacio al compás de la música del pensamiento infinito y del propósito eterno de la Gran Fuente-Centro Primera. [LU 32:5.1](/es/The_Urantia_Book/32#p5_1)
-
-## Enlaces externos
-
-* Este artículo en _The Fellowship Herald_: https://urantia-book.org/archive/newsletters/herald/herald_w1999.pdf
-* Traducción de Agustín Arellano Tirado en la web de la _Asociación Urantia de Chile_: http://www.urantiachile.org/documentos/ensayos/2_dos_cosmologias.html

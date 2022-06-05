@@ -50,7 +50,7 @@ The next larger administrative division is called a constellation ([Fig. 1 (bott
 
 The next larger administrative division is a local universe ([Fig. 2 (middle)](#Cosmo_figure_2)). This consists of 100 constellations and could be in an equal sided box that is about 5,000 light years on an edge. Since the disk of our Milky Way is only 3,000 light years thick, the other two dimensions of the local universe should be increased by about 20%; or the other two dimensions are about 6,000 light years long. The local universe of Nebadon could be 3, light years thick, 6,000 light years along a disk radius and 6,000 light years along an arc perpendicular to a disk radius. This could be the approximate size of the local universe of Nebadon ([Fig. 2](#Cosmo_figure_2)). Since Nebadon has 100 constellations, how might these be arranged? A simple way is a box with smaller equal sided boxes inside. A constellation inside a local universe box could have edges that are 1,000 light years long. The 100 constellations of Nebadon can be arranged in three layers atop one another, with a 6x6 arrangement of constellations in each layer. This fills the 6,000 by 6,000 by 3,000 light year size of a local universe. In a similar way, a constellation could have its 100 system boxes arranged in five layers with a 5x5 arrangement of systems in each layer. Each system box is 200 light years on an edge and can have 1, inhabited worlds in its box. These arrangements are highly simplified and are not necessarily the way things actually are. Table 2 shows the UB administrative arrangement of inhabited worlds ([UB 15:2.10-16](/en/The_Urantia_Book/15#p2_10)).
 
-UNIVERSE STRUCTURE | CUMULATIVE NUMBER OF INHABITED WORLDS | NUMBER OF STRUCTURES IN NEXT LARGE STRUCTURE
+UNIVERSE STRUCTURE | CUMULATIVE NUMBER OF INHABITED WORLDS | NUMBER OF STRUCTURES IN NEXT LARGE STRUCTURE ([UB 15:4.7](/en/The_Urantia_Book/15#p4_7))
 --- | --- | ---
 Urantia | 1, | 1,000 inhabited worlds in a system
 System | 1,000 | 100 systems in a constellation
@@ -59,7 +59,7 @@ Local Universe | 10,000,000 | 100 local universes in a minor sector
 Minor Sector | 1,000,000,000 | 100 minor sectors in a major sector
 Major Sector | 100,000,000,000 | 10 major sectors in superunverse
 Superuniverse| 1,000,000,000,000 | 7 superunverses in the grand universe
-[Table 2. Administrative Structure of the Grand Universe ([UB 15:4.7](/en/The_Urantia_Book/15#p4_7))]
+[Table 2. Administrative Structure of the Grand Universe]
 
 The next major structure we will consider is the Milky Way galaxy. This is a group of at least one hundred billion stars. It is a huge, flat circular disk about 100, light years in diameter. The disk, at its outer edge, is about 3,000 light years thick; this is small compared to the diameter of the disk, which is about 100,000 light years. There is a bright central bulge or ball that extends from the center of the disk to about one-fourth the radius. The bulge has a radius of 10,000 light years. Recent tests report a long bar or ellipsoid rather than a spherical ball. 
 
@@ -110,6 +110,10 @@ Our world, Urantia, is one of the youngest worlds of the Satania system. One hun
 
 Among future readers of _The Urantia Book_ , there will be more and more skeptics. Predictions about the large-scale structure of the universe in _The Urantia Book_ can be most helpful in answering questions from these readers.
 
+## External links
+
+* This article in _The Fellowship Herald_: https://urantia-book.org/archive/newsletters/herald/herald_w1999.pdf
+* Translation by Agustín Arellano Tirado in the website of _Asociación Urantia de Chile_: http://www.urantiachile.org/documentos/ensayos/2_dos_cosmologias.html
 ## Notes
 
 [^1]: _Editor's note_: Instead of “nebula” is more exact to say a “planetary system”. _The Urantia Book_ gives several indications about this object that approached our sun, and it was not a nebula ([UB 54:5.4-6](/en/The_Urantia_Book/54#p5_4)). It was a system called Angona, formed by a big massive object at its center, called in the book a “dark giant of space”, and a collection of planets orbiting it.
@@ -124,8 +128,3 @@ The book claims that the outer space levels are 25 million light years wide. I e
 {.is-info}
 
 > The whole marvelous and universal mechanism moves on majestically through space to the music of the meter of the infinite thought and the eternal purpose of the first great source and center. [UB 32:5.1](/en/The_Urantia_Book/32#p5_1)
-
-## External links
-
-* This article in _The Fellowship Herald_: https://urantia-book.org/archive/newsletters/herald/herald_w1999.pdf
-* Translation by Agustín Arellano Tirado in the website of _Asociación Urantia de Chile_: http://www.urantiachile.org/documentos/ensayos/2_dos_cosmologias.html
