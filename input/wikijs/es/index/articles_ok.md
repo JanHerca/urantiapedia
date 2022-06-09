@@ -48,6 +48,12 @@ Estado | Fuente | Ejemplar | Título | Autor | Etiquetas
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [El Segundo Gran Mandamiento](/es/article/Ken_Glasziou/The_Second_Great_Commandment) | Ken Glasziou | Jesus, Jesus teachings, The Urantia Book
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [La ciencia y El Libro de Urantia. ¿Cuándo llegó el Hombre Rojo a las Américas?](/es/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas) | Ken Glasziou | Anthropology
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [Ascendencia de los primates](/es/article/Ken_Glasziou/Primate_Ancestry) | Ken Glasziou | Anthropology
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Disonancia cognitiva. ¿Puede ayudar El libro de Urantia?]() | Ann Bendall | Jesus, Jesus teachings, Morality, Psychology
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Disonancia cognitiva. ¿Puede ayudar El libro de Urantia?](/es/article/Ann_Bendall/Cognitive_Dissonance_Can_The_Urantia_Book_help) | Ann Bendall | Jesus, Jesus teachings, Morality, Psychology
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [DEFRAG](/es/article/Ken_Glasziou/DEFRAG) | Ken Glasziou | Jesus, Jesus teachings, Morality
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Jesús, Hombre y Mito](/es/article/Dick_Bain/Jesus_Man_and_Myth) | Dick Bain | Jesus, Jesus teachings, Religion
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Otro y Mayor Juan Bautista!](/es/article/Ann_Bendall/Another_and_Greater_John_the_Baptist) | Ann Bendall | Morality, Psychology
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Plan A. ¿Qué era?](/es/article/Ken_Glasziou/Plan_A_What_was_it) | Ken Glasziou | God, Jesus, Jesus teachings
 :ballot_box_with_check: | Innerface | Vol. 01, No. 6. | [Neutrinos, Neutrons, and Neutron Stars](/es/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars) | Ken Glasziou | Physics
 :ballot_box_with_check: | Innerface | Vol. 02, No. 2. | [Gravedad, Newton, Einstein y El Libro de Urantia](/es/article/Ken_Glasziou/Gravity_Newton_Einstein_and_The_Urantia_Book) | Ken Glasziou | Physics
 :ballot_box_with_check: | Innerface | Vol. 03, No. 2. | [Neutrinos y Estrellas de neutrones](/es/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars) | Ken Glasziou | Physics
