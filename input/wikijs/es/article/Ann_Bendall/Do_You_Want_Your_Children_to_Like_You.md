@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Ann Bendall B.A., Dip. Psyche**
+Autor: **Ann Bendall B.A., Dip. Psyche** | Traductor: **Jan Herca**
 
 La necesidad de que los niños establezcan patrones de conducta aceptables es indiscutible. La manera en que se logra es fundamental para el bienestar del niño. *El Libro de Urantia* explica el método de la «reunión familiar» que Jesús utilizó con su familia, que es una técnica excelente, actualmente fomentada como uno de los mejores métodos de disciplina familiar por parte de los psicólogos. Sin embargo, para que cualquier método sea efectivo (incluido golpear al niño en la cabeza con un martillo para enseñarle a no ser cruel), *son fundamentales cuatro elementos*:
 * Valores y creencias realistas sobre lo que es una persona, un niño y un padre.

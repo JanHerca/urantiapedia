@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Jan Herca**
+Autor: **Jan Herca**
 
 En algunas partes de mi novela sobre Jesús[^1] éste aparece nombrado como «Salvin». Este nombre en realidad está tomado de _El Libro de Urantia_, donde descubrimos toda una suerte de nuevas exposiciones sobre la personalidad divina de Jesús.
 

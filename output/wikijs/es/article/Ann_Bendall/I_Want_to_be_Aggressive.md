@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ann Bendall**
+Autor: **Ann Bendall** | Traductor: **Jan Herca**
 
 Érase una vez, antes de leer *El libro de Urantia*, en que pensaba que ser agresiva era ser decididamente antisocial. El diccionario decía que las personas agresivas eran «pendencieras o beligerantes». Y estuve de acuerdo con esto. Dios mío, el movimiento de mujeres gritaba que todo el problema del mundo eran los hombres y su agresión, ¡sus tendencias agresivas! Nosotras, las mujeres, suspiramos aliviadas porque no estábamos tan malditas (a pesar de la investigación que discrepa: las mujeres son tan agresivas como los hombres, si se las provoca). Sin embargo, parece que muchos hombres son naturalmente agresivos y pueden imaginar fácilmente que ha ocurrido una provocación, si el impulso de ser agresivo es fuerte).
 

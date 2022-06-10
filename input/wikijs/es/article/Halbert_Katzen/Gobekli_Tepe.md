@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-Autor: **Halbert Katzen J.D.**
+Autor: **Halbert Katzen J.D.** | Traductor: **Jan Herca**
 
 <figure id="Gobekli_Tepe_fig_1" class="image image_resized"><img src="/image/gobeklitepe01.jpg" width="1200" heigth="996"></figure>
 <em>Gobekli Tepe</em>

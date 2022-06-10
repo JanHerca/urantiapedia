@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Dick Bain**
+Autor: **Dick Bain** | Traductor: **Jan Herca**
 
 <figure class="image image_resized"><img src="/image/binarysystem.jpg"></figure>
 <em>Figura 1. Un sistema binario se aproxima al Sol</em>

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Halbert Katzen J.D.**[^1]
+Autor: **Halbert Katzen J.D.**[^1] | Traductor: **Jan Herca**
 
 ## Resumen
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Dick Bain**
+Autor: **Dick Bain** | Traductor: **Jan Herca**
 
 ¿Creo en los ángeles? Bueno, sí; pero ¿por qué soy tan reacio a decirlo? ¿Será que los ángeles son un poco como Campanilla? ¿Porque tienen alas y hacen cosas mágicas? O tal vez no sea respetable creer en seres tan mágicos. ¿Los ángeles han tenido mala prensa?
 

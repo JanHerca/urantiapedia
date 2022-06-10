@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ann Bendall**
+Autor: **Ann Bendall** | Traductor: **Jan Herca**
 
 Una de las historias favoritas de Jesús fue la del «Hijo Pródigo». Ciertamente es una historia de final feliz para el padre. Tenía a sus dos hijos con él en la granja. Sin embargo, desde el punto de vista de los hijos, ¡sospecho que iba a haber problemas!
 

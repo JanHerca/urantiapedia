@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Rob Crickett**
+Autor: **Rob Crickett** | Traductor: **Jan Herca**
 
 La personalidad de Dios es la maravilla de Dios. Es en mi propio corazón que encuentro la personalidad de Dios, y así lo conozco como mi Padre. No sé qué tiene mi corazón que solo él me deja ver a Dios, y conocerlo como mi Padre. Quizás es que el corazón es el asiento de mi propia personalidad y visión. Quizás es que el corazón es simplemente el lugar donde Dios se encuentra conmigo, y su personalidad y maravillas me iluminan suavemente en una personalidad de tipo hijo que puedo imaginar. Sea como sea, es maravilloso. Y la maravilla es el porqué de todo.
 

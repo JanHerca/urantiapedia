@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ken Glasziou**
+Autor: **Ken Glasziou** | Traductor: **Jan Herca**
 
 En la época de Jesús, los judíos fieles recitaban el Shemá dos veces al día: «_Escucha, oh Israel, el Señor nuestro Dios, el Señor uno es; y amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y ​​con todas tus fuerzas._» Este fue el primer gran mandamiento mencionado en los evangelios. La Cuarta Revelación de Época actualizó su significado debido a su revelación de la verdadera naturaleza de Dios a través de la vida de Jesús. El segundo gran mandamiento fue que debemos amar a nuestro prójimo como a nosotros mismos. La Cuarta Revelación de Época dio un salto cuántico a su significado al actualizarlo de un nivel material a uno espiritual. Nos dijo que debemos amarnos unos a otros como Jesús nos ama.
 

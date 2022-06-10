@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Ken Glasziou, Ph.D.** | Traductor: **Olga López**
+Autor: **Ken Glasziou, Ph.D.** | Traductor: **Olga López**
 
 > [...] La impregnación local del espacio por parte del calcio se debe al hecho de que escapa de la fotosfera solar, en forma modificada, cabalgando literalmente los rayos de sol salientes. [...] [LU 41:6.3](/es/The_Urantia_Book/41#p6_3)
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ann Bendall**
+Autor: **Ann Bendall** | Traductor: **Jan Herca**
 
 Aparte de Dios, las dos personalidades más calumniadas de la historia de Urantia tendrían que ser Adán y Eva. Eran la pareja cuya aventura de «comer manzanas» nos costó a los humanos la gloria que una vez fue nuestra. ¡Como resultado de su error, todos los humanos nacen intrínsecamente malos en lugar de buenos! La creencia en el mal innato de la humanidad fue abrazada por el padre de la psicología, Freud, y sospecho que sus antecedentes religiosos habían influido en sus teorías, que posteriormente demostraron ser erróneas.
 

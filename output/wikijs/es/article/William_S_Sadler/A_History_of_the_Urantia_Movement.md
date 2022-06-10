@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-Autor: **Dr. William S. Sadler.**
+Autor: **Dr. William S. Sadler.** | Traductor: **Jan Herca**
 
 Varios miembros de este grupo que participó en los «contactos» preliminares que llevaron a la aparición de los Documentos de Urantia tenían una experiencia considerable en la investigación de fenómenos psíquicos. Este grupo llegó rápidamente a la conclusión de que los fenómenos relacionados con la personalidad, que más tarde fue asociada con los Documentos de Urantia, de ninguna manera eran similares a cualquier otro fenómeno psíquico conocido, como la hipnosis, escritura automática, clarividencia, trances, telepatía, Mediación espiritista o doble personalidad. 
 

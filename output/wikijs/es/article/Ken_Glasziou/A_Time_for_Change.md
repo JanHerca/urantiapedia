@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ken Glasziou**
+Autor: **Ken Glasziou** | Traductor: **Jan Herca**
 
 La motivación para este artículo ha venido de algunos comentarios en una carta de Matthew Block, quien acaba de asistir al Parlamento Mundial de Religiones en Chicago. Matthew dijo: 
 

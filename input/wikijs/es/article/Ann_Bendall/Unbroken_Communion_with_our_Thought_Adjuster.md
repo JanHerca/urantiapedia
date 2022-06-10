@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ann Bendall, Qld.**
+Autor: **Ann Bendall** | Traductor: **Jan Herca**
 
 Esto realmente no parece un proceso demasiado complicado; en realidad, es sorprendentemente simple siempre y cuando decidas aquí y ahora volver al nivel de un niño de cinco años —un niño promedio, ordinario, de cinco años, para mí el modelo perfecto a seguir— el niño llamado «Jesús.» Emmanuel le dijo a Miguel que solo debería preocuparse por _la comunión ininterrumpida entre él y su Padre del Paraíso_ mientras viviera como Jesús en Urantia. [LU 120:1.4](/es/The_Urantia_Book/120#p1_4) ¡Si fue lo suficientemente bueno para mi modelo de perfección, es lo suficientemente bueno para mí!
 

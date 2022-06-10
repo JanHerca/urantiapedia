@@ -48,6 +48,14 @@ Status | Source | Issue | Title | Author | Tags
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [The Second Great Commandment](/en/article/Ken_Glasziou/The_Second_Great_Commandment) | Ken Glasziou | Jesus, Jesus teachings, The Urantia Book
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [Science and The Urantia Book. When Did the Red Man Arrive in the Americas?](/en/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas) | Ken Glasziou | Anthropology
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [Primate Ancestry](/es/article/Ken_Glasziou/Primate_Ancestry) | Ken Glasziou | Anthropology
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Nouveau-Assertiveness](/en/article/Jacques_Tetrault/Nouveau_Assertiveness) | Jacques Tetrault | Sociology, Spirituality
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Cognitive Dissonance. Can The Urantia Book help?](/en/article/Ann_Bendall/Cognitive_Dissonance_Can_The_Urantia_Book_help) | Ann Bendall | Jesus, Jesus teachings, Morality, Psychology
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [DEFRAG](/en/article/Ken_Glasziou/DEFRAG) | Ken Glasziou | Jesus, Jesus teachings, Morality
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Jesus, Man, and Myth](/en/article/Dick_Bain/Jesus_Man_and_Myth) | Dick Bain | Jesus, Jesus teachings, Religion
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Another and Greater John the Baptist!](/en/article/Ann_Bendall/Another_and_Greater_John_the_Baptist) | Ann Bendall | Morality, Psychology
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Plan A. What was it?](/en/article/Ken_Glasziou/Plan_A_What_was_it) | Ken Glasziou | God, Jesus, Jesus teachings
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Science and The Urantia Book. Origins of Andon and Fonta](/en/article/Ken_Glasziou/Origins_of_Andon_and_Fonta) | Ken Glasziou | Anthropology, Biology and Genetics
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [When did “life” start on Urantia?](/en/article/Ken_Glasziou/When_did_life_start_on_Urantia) | Ken Glasziou | Anthropology, Biology and Genetics
 :ballot_box_with_check: | Innerface | Vol. 01, No. 6. | [Neutrinos, Neutrons, and Neutron Stars](/en/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars) | Ken Glasziou | Physics
 :ballot_box_with_check: | Innerface | Vol. 02, No. 2. | [Gravity, Newton, Einstein, and The Urantia Book](/en/article/Ken_Glasziou/Gravity_Newton_Einstein_and_The_Urantia_Book) | Ken Glasziou | Physics
 :ballot_box_with_check: | Innerface | Vol. 03, No. 2. | [Neutrinos and Neutron Stars](/en/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars) | Ken Glasziou | Physics

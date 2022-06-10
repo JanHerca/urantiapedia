@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Meredith Sprunger**
+Autor: **Meredith Sprunger** | Traductor: **Jan Herca**
 
 Durante los últimos meses he recibido una serie de documentos que promueven o explican la canalización y la «misión de la enseñanza». Algunos son «extraños» y ridículos, y contienen amenazas veladas de que debes unirte a ellos o enfrentarte al rechazo de la salvación, mientras que otros están bien escritos y en la superficie parecen decir lo correcto. Todos intentan seguir la estela de *El Libro de Urantia*.
 

@@ -54,6 +54,8 @@ Estado | Fuente | Ejemplar | Título | Autor | Etiquetas
 :ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Jesús, Hombre y Mito](/es/article/Dick_Bain/Jesus_Man_and_Myth) | Dick Bain | Jesus, Jesus teachings, Religion
 :ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Otro y Mayor Juan Bautista!](/es/article/Ann_Bendall/Another_and_Greater_John_the_Baptist) | Ann Bendall | Morality, Psychology
 :ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Plan A. ¿Qué era?](/es/article/Ken_Glasziou/Plan_A_What_was_it) | Ken Glasziou | God, Jesus, Jesus teachings
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [La ciencia y El libro de Urantia. Orígenes de Andon y Fonta](/es/article/Ken_Glasziou/Origins_of_Andon_and_Fonta) | Ken Glasziou | Anthropology, Biology and Genetics
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [¿Cuándo comenzó la «vida» en Urantia?](/es/article/Ken_Glasziou/When_did_life_start_on_Urantia) | Ken Glasziou | Anthropology, Biology and Genetics
 :ballot_box_with_check: | Innerface | Vol. 01, No. 6. | [Neutrinos, Neutrons, and Neutron Stars](/es/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars) | Ken Glasziou | Physics
 :ballot_box_with_check: | Innerface | Vol. 02, No. 2. | [Gravedad, Newton, Einstein y El Libro de Urantia](/es/article/Ken_Glasziou/Gravity_Newton_Einstein_and_The_Urantia_Book) | Ken Glasziou | Physics
 :ballot_box_with_check: | Innerface | Vol. 03, No. 2. | [Neutrinos y Estrellas de neutrones](/es/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars) | Ken Glasziou | Physics

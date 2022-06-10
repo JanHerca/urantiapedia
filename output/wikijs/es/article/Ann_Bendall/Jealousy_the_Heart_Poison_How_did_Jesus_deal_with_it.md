@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ann Bendall**
+Autor: **Ann Bendall** | Traductor: **Jan Herca**
 
 Jesús llamó a todos «amigo» porque no tenía ninguna duda de que, de hecho, él era solo eso. Si tenía una amistad con una persona era su decisión, y solo su decisión. Para existir, la amistad dependía 100% de que la persona considerara a Jesús como un amigo y eligiera ser también su amigo.
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Halbert Katzen J.D.**[^1]
+Autor: **Halbert Katzen J.D.**[^1] | Traductor: **Jan Herca**
 
 En *El Libro de Urantia* se proporciona una descripción de la ubicación y las características físicas del Jardín del Edén. Se dice que la ubicación fue en una península larga y estrecha que se extendía frente a la costa oriental del mar Mediterráneo. De acuerdo con *El Libro de Urantia*, Adán y Eva vivieron en este lugar hace unos 38.000 años, y afirma además que esta península se hundió en el mar Mediterráneo hace aproximadamente 34.000 años. La topografía del fondo marino en un área entre Chipre y la costa siria se ajusta a la descripción y parece ser el único área que podría hacerlo. Hoy, este área frente a la costa oriental del mar Mediterráneo cae de forma abrupta, alcanzando rápidamente una profundidad de casi 1.600 metros.
 

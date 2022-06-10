@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ken Glasziou, Ph.D.**
+Autor: **Ken Glasziou, Ph.D.** | Traductor: **Jan Herca**
 
 <figure class="image image_resized"><img src="/image/neutron_star.jpg" width="580" height="387"></figure>
 <em>Figura 1. Concepción artística de una estrella de neutrones</em>

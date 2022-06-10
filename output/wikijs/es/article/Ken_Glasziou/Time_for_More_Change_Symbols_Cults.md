@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ken Glasziou**
+Autor: **Ken Glasziou** | Traductor: **Jan Herca**
 
 A menudo, cuando me enfrento a tener que hacer algo que preferiría relegar a la canasta de «demasiado difícil», mi estómago reacciona con «náuseas» reales en lugar de simbólicas. Esto ocurrió cuando Ann Bendall me entregó unas 300 páginas de literatura sobre simbolismo y religión. El simbolismo no estaba en mi lista de pasatiempos favoritos. Sin embargo, era consciente de que _El libro de Urantia_ tenía algunas cosas importantes que decir, a favor y en contra del simbolismo:
 
