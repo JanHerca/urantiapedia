@@ -57,6 +57,7 @@ Search by page ref: `"par_pageref": "359.\d+"` in `./input/json/book-e*-footnote
 —
 Ö => ...
 ±
+°
 
 omissions in quotes:
 * english . . .
