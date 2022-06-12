@@ -50,5 +50,11 @@
 		"prefix": "uben",
 		"body": "[UB ${1:paper}:${2:section}.${3:par}](/en/The_Urantia_Book/${1:paper}#p${2:section}_${3:par})",
 		"description": "Insert a Markdown link"
+	},
+	"Page ID": {
+		"scope": "markdown",
+		"prefix": "pp",
+		"body": "<span id=\"p${1:number}\">[<sup><small>p. ${1:number}</small></sup>]</span>",
+		"description": "Page number"
 	}
-}
+} 
