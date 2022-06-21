@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Sir James Jeans, MA, D.Sc., Sc.D., LL.D., FRS**
+Autor: **Sir James Jeans, M.A., D.Sc., Sc.D., LL.D., F.R.S.**
 
 <p style="text-align: center;">
 CAMBRIDGE <br>
