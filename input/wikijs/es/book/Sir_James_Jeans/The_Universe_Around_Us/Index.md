@@ -51,4 +51,4 @@ El descubrimiento de Plutón
 
 Las dos fotografías fueron tomadas en el Observatorio Lowell en las noches del 5 de marzo de 1930. Se vio que el objeto indicado por las flechas se había movido considerablemente en el intervalo, y esto probaba que era de carácter planetario.
 
-El objeto brillante en la esquina inferior izquierda es la estrella 5 Geminorum (ver pág. 200).
+El objeto brillante en la esquina inferior izquierda es la estrella 5 Geminorum (ver [p. 200](/es/book/Sir_James_Jeans/The_Universe_Around_Us/4#p200)).

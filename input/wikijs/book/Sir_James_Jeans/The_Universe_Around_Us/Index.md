@@ -51,4 +51,4 @@ The Discovery of Pluto
 
 The two photographs were taken at the Lowell Observatory on the nights of March  and 5, 1930. The object indicated by arrows was seen to have moved considerably in the interval, and this proved that it was of planetary character. 
 
-The bright object in the bottom left-hand corner is the star 5 Geminorum (see p. 200). 
+The bright object in the bottom left-hand corner is the star 5 Geminorum (see [p. 200](/en/book/Sir_James_Jeans/The_Universe_Around_Us/4#p200)). 
