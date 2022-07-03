@@ -48,6 +48,7 @@ Estado | Fuente | Ejemplar | Título | Autor | Etiquetas
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [El Segundo Gran Mandamiento](/es/article/Ken_Glasziou/The_Second_Great_Commandment) | Ken Glasziou | Jesus, Jesus teachings, The Urantia Book
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [La ciencia y El Libro de Urantia. ¿Cuándo llegó el Hombre Rojo a las Américas?](/es/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas) | Ken Glasziou | Anthropology
 :ballot_box_with_check: | Innerface | Vol. 01, No. 3. | [Ascendencia de los primates](/es/article/Ken_Glasziou/Primate_Ancestry) | Ken Glasziou | Anthropology
+:ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Nouveau-Asertividad](/es/article/Jacques_Tetrault/Nouveau_Assertiveness) | Jacques Tetrault | Sociology, Spirituality
 :ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Disonancia cognitiva. ¿Puede ayudar El libro de Urantia?]() | Ann Bendall | Jesus, Jesus teachings, Morality, Psychology
 :ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [Disonancia cognitiva. ¿Puede ayudar El libro de Urantia?](/es/article/Ann_Bendall/Cognitive_Dissonance_Can_The_Urantia_Book_help) | Ann Bendall | Jesus, Jesus teachings, Morality, Psychology
 :ballot_box_with_check: | Innerface | Vol. 01, No. 4. | [DEFRAG](/es/article/Ken_Glasziou/DEFRAG) | Ken Glasziou | Jesus, Jesus teachings, Morality
