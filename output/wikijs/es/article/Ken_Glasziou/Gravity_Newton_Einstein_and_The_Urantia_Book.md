@@ -47,7 +47,7 @@ Todavía es pronto y sólo el tiempo dirá si estas ideas se comprobarán. Sus a
 * https://es.wikipedia.org/wiki/Efecto_Lamb
 * https://es.wikipedia.org/wiki/Efecto_Casimir
 
-**Referencias** 
+## Referencias
 
 B. Haisch, A. Rueda y H.E. Puthoff. (1994) _«The Sciences»_ 34, 26-31 (New York Academy of Sciences, N.Y.) 
 
