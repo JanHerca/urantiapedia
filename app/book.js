@@ -1036,6 +1036,7 @@ class Book {
 				paper.footnotes = texts.map((t, i) => {
 					return t
 						.map((title, j) => `*${title}*: ${bible_refs[i][j]}.`)
+						.map(f => f.replace(/\.\.$/, '.'))
 						.join(' ');
 				});
 				locations.forEach((location, i) => {
@@ -1053,6 +1054,11 @@ class Book {
 					});
 					if (!par) {
 						errors.push(this.getError('book_par_not_found', par_ref, index));
+						return;
+					}
+					//If the file already contains footnote marks then exit
+					//Some files has footnote marks added manually so maintain
+					if (par.par_content.indexOf('{') != -1)  {
 						return;
 					}
 					const ii = getAllIndexes(par.par_content, '.');
@@ -1560,14 +1566,17 @@ class Book {
 				text = parts[p];
 				html += ` <i>${text}</i>: `;
 
-				text2 = parts[p + 1];
-				if (text2[0] === ':') {
-					text2 = text2.substring(1).trim();
-					if (text2[text2.length - 1] === '.') {
-						text2 = text2.substring(0, text2.length - 1);
-					}
-				}
-				fs = text2.split(';');
+				fs = parts[p + 1]
+					.map(n=> n.trim().replace(/^:|\.$/g, '').trim())
+					.map(n => n.split(';').map(i=>i.trim()))
+				// if (text2[0] === ':') {
+				// 	text2 = text2.substring(1).trim();
+				// 	if (text2[text2.length - 1] === '.') {
+				// 		text2 = text2.substring(0, text2.length - 1);
+				// 	}
+				// }
+				// fs = text2.split(';');
+				
 
 				fs.forEach((fss, i) => {
 					fss = fss.trim();
@@ -1712,6 +1721,120 @@ class Book {
 						reject(errors);
 					}
 				});
+		});
+	};
+
+	/**
+	 * Writes an index pages of paralells of `The Urantia Book` in Wiki.js format.
+	 * The name of resulting file is `paralells.md`.
+	 * @param {string} dirPath Folder path.
+	 * @return {Promise} Promise that returns null in resolve function or an
+	 * error in reject function.
+	 */
+	writeParalells = (dirPath) => {
+		return new Promise((resolve, reject) => {
+			const ub = Strings['bookName'].en.replace(/\s/g, '_');
+			const part0 = Strings['bookPart0'][this.language];
+			const part1 = Strings['bookPart1'][this.language];
+			const part2 = Strings['bookPart2'][this.language];
+			const part3 = Strings['bookPart3'][this.language];
+			const part4 = Strings['bookPart4'][this.language];
+			const ot = Strings['bibleOldTestament'][this.language];
+			const nt = Strings['bibleNewTestament'][this.language];
+			const ap = Strings['bibleApocrypha'][this.language];
+			const filePath = path.join(dirPath, 'paralells_.md');
+			const abbs = BibleAbbs[this.language];
+			const getBooks = c => {
+				return Object.values(abbs)
+					.filter(a => a[2] == c).map(a => a[0]);
+			};
+			const otBooks = getBooks('OT');
+			const ntBooks = getBooks('NT');
+			const apBooks = getBooks('APO');
+			let md = '';
+			let errs = [];
+
+			let papers = this.papers.slice().sort((a, b) => 
+				a.paper_index - b.paper_index);
+
+			papers.forEach(paper => {
+				try {
+					let error = null;
+					const i = paper.paper_index;
+					let title = paper.paper_title;
+					const path = `/${this.language}/${ub}/${i}`;
+					const bookAbbsAll = paper.footnotes
+						.map(f => {
+							const bAbbs = f.split('*')
+								.filter((n,j) => n.trim() != '' && j % 2 == 0)
+								.map(n => n.trim().replace(/^:|\.$/g, '').trim())
+								.map(n => n.split(';').map(i=>i.trim()))
+								.reduce((a,b) => [...a,...b], [])
+								.map(n => this.findAbr(n));
+							if (bAbbs.findIndex(n => n == null) != -1) {
+								error = 'bibleref_bad_ref';
+								errs.push(this.getError(error, `Paper ${i}`, f));
+							}
+							return bAbbs;
+						})
+						.reduce((a,b) => [...a,...b], []);
+
+					if (!paper.paper_title) {
+						errs.push(this.getError('book_paper_no_title', `Paper ${i}`));
+						return;
+					} else if (error === 'bibleref_bad_ref') {
+						return;
+					}
+	
+					const bookAbbs = bookAbbsAll
+						.filter((n,j,ar) => ar.indexOf(n) == j);
+					const bibleBooks = bookAbbs.map(n => abbs[n]);
+
+					const booksOT = bibleBooks
+						.filter(n => otBooks.indexOf(n[0]) != -1)
+						.sort((a,b) => otBooks.indexOf(a[0]) - otBooks.indexOf(b[0]))
+						.map(a => `[${a[0]}](${a[1]}/Index)`)
+						.join(', ');
+					const booksNT = bibleBooks
+						.filter(n => ntBooks.indexOf(n[0]) != -1)
+						.sort((a,b) => ntBooks.indexOf(a[0]) - ntBooks.indexOf(b[0]))
+						.map(a => `[${a[0]}](${a[1]}/Index)`)
+						.join(', ');
+					const booksAP = bibleBooks
+						.filter(n => apBooks.indexOf(n[0]) != -1)
+						.sort((a,b) => apBooks.indexOf(a[0]) - apBooks.indexOf(b[0]))
+						.map(a => `[${a[0]}](${a[1]}/Index)`)
+						.join(', ');
+	
+					title = getBookTitle(paper, this.language, false);
+					title = this.replaceSpecialChars(title);
+					md += (i === 0 ? `### ${part0}\r\n\r\n` : '');
+					md += (i === 1 ? `### ${part1}\r\n\r\n` : '');
+					md += (i === 32 ? `### ${part2}\r\n\r\n` : '');
+					md += (i === 57 ? `### ${part3}\r\n\r\n` : '');
+					md += (i === 120 ? `### ${part4}\r\n\r\n` : '');
+					md += `* [${title}](${path})\r\n`;
+					md += (booksOT == '' ? '' : `  - ${ot}: ${booksOT}\r\n`);
+					md += (booksNT == '' ? '' : `  - ${nt}: ${booksNT}\r\n`);
+					md += (booksAP == '' ? '' : `  - ${ap}: ${booksAP}\r\n`);
+					md += [0,31, 56, 119, 196].indexOf(i) != -1 ? '\r\n' : '';
+				} catch(e) {
+					errs.push(new Error(e.message + ':' + `Paper ${i}`));
+				}
+			});
+
+			if (errs.length > 0) {
+				reject(errs);
+				return;
+			}
+
+			fs.writeFile(filePath, md, 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
+			});
 		});
 	};
 

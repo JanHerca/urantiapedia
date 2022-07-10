@@ -293,6 +293,18 @@ const Strings = {
 		ru: "Russian",
 		sv: "Swedish"
 	},
+	"bibleOldTestament": {
+		en: "Old Testament",
+		es: "Antiguo Testamento"
+	},
+	"bibleNewTestament": {
+		en: "New Testament",
+		es: "Nuevo Testamento"
+	},
+	"bibleApocrypha": {
+		en: "Apocrypha",
+		es: "Apócrifos"
+	},
 	"bibleFullIndex": {
 		en: "Full Index of The Bible",
 		es: "Índice completo de la Biblia"

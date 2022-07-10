@@ -298,6 +298,17 @@ const Processes = {
 		paths: [['input', 'txt', 'articles-{0}'], 
 			['input', 'mediawiki', 'articles-{0}']]
 	},
+	"PARALELL_INDEX": {
+		active: true,
+		desc: {
+			en: "Create index of paralells",
+			es: "Crear índice de paralelos"
+		},
+		controls: ['dirJTextbox', 'dirWTextbox'],
+		paths: [['input', 'json', 'book-{0}-footnotes'], 
+			['input', 'wikijs', '{0}', 'index']],
+		emptyLan: [null, 'en']
+	},
 	"TEST": {
 		active: true,
 		desc: {

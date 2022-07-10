@@ -550,6 +550,11 @@ const handle_exeButtonClick = () => {
 			.then(() => articles.writeToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
+	} else if (process === 'PARALELL_INDEX') {
+		book.readFromJSON(jsonDir)
+			.then(() => book.writeParalells(wikiDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'TEST') {
 		const htmlDir2 = path.join(htmlDir, 'test.html');
 		topicindex.readFromTXT(txtDir)
