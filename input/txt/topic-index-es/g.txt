@@ -60,7 +60,7 @@ participación en la donación terrenal de Miguel (189:0.1)
 curiosidades
 	en Nueva Zelanda una tribu adoptó un cristianismo que supuestamente recibió unas revelaciones de Gabriel que relajaban las prácticas sexuales. Este movimiento religioso se denomina Pai Marire o Hauhau (92:2.5)
 
-Gad | | | RACE | 
+Gad | | | RACE | OK
 Gad era una tribu de renombre en Israel (128:1.14)
 > https://en.wikipedia.org/wiki/Tribe_of_Gad
 
@@ -228,11 +228,13 @@ en la nación continental más desarrollada de un planeta vecino los criminales 
 
 gasterópodos | (59:2.12) (59:3.7) | | | OK
 
-puerta hermosa | | | PLACE | 
-en el templo de Jerusalén (162:4.3)
+puerta hermosa; hermosa puerta | | Jerusalén; templo de Jerusalén | PLACE | OK
+Una de las puertas en el templo de Jerusalén, que aparece mencionada en los Hechos de los Apóstoles (162:4.3)
+> https://en.wikipedia.org/wiki/Beautiful_Gate
 
-Gat | | | PLACE | 
-Los filisteos ordenaron al rey David salir del campo en (97:9.5)
+Gat | | | PLACE | OK
+Los filisteos ordenaron al rey David salir del campo en Gat. Temían que pudiera aliarse con Saúl. (97:9.5)
+> https://es.wikipedia.org/wiki/Gat
 
 Siddharta Gautama | (94:7) | Buda; budismo | PERSON | OK
 Siddartha fue un gran maestro del siglo VI a.C., hijo de un cacique sin importancia que gobernaba en un valle del Himalaya
@@ -262,11 +264,13 @@ Gavalia es el primogénito y jefe de las Brillantes Estrellas Vespertinas en Neb
 su asociado ascendente se llama Galantia, el primero en alcanzar este estatus en Nebadon (37:2.6)
 es el autor del documento 119 (119:0.1)
 
-Gaza | (134:7.4) (194:4.13) | | PLACE | 
-Lugar de paso de Jesús
+Gaza | | | PLACE | OK
+Lugar de paso de Jesús en su viaje personal por Siria y Palestina (134:7.4) (194:4.13)
+> https://es.wikipedia.org/wiki/Gaza
 
-Geba | (134:7.5) | | PLACE | 
-Lugar de paso de Jesús
+Geba | | | PLACE | OK
+Lugar de paso de Jesús en su viaje personal por Siria y Palestina (134:7.5)
+> https://en.wikipedia.org/wiki/Geba_(city)
 
 Gehena | | | PLACE | OK
 los cuerpos de los ladrones crucificados eran llevados a la Gehena (188:1.5)
@@ -281,69 +285,82 @@ Hubo un consejo general de los seguidores de Jesús en Filadelfia (167:0.3) (167
 Génesis; historia de la creación | | | | OK
 La historia de la creación de Eva a partir de una costilla de Adán es un resumen confuso de la llegada de Adán y de la cirugía celestial efectuada durante el intercambio de sustancias vivientes que tuvo lugar cuando vino el estado mayor corpóreo del Príncipe Planetario, más de cuatrocientos cincuenta mil años antes. (74:8.3)
 
-genética | | eugenesia; discapacidades; hibridación; razas | | 
-el gen dominante normalmente mejora el híbrido (82:6.7)
-la evolución produjo muchas formas aparentemente inútiles de vida de transición (65:4.10-12)
-las desventajas genéticas no pueden invalidar la presencia del Ajustador (5:1.4-7) (5:5.13-14)
-la genética es la base de toda habilidad, todo carácter (44:8.2) (76:2.6)
-la química de la glándula influye en la imaginación, la receptividad espiritual (49:5.19)
-el buen ambiente no puede superar las desventajas de carácter de la herencia básica (76:2.6)
+genética | | eugenesia; discapacidades; hibridación; razas | | OK
+La hibridación contribuye a mejorar la especie debido al papel de los genes dominantes. La mezcla racial aumenta la probabilidad de que un mayor número de dominantes deseables estén presentes en el híbrido. (82:6.7)
+importancia de la herencia genética
+	la genética es la base de toda habilidad y todo carácter (44:8.2) (76:2.6)
+	la química de ciertas glándulas influye en la imaginación inherente y la receptividad espiritual (49:5.19)
+	los mortales difieren en dones innatos y en cualidades adquiridas (69:3.8) (70:8.1) (100:7.8)
+	aunque los impulsos hereditarios no se pueden modificar fundamentalmente, las reacciones emocionales a esos impulsos sí se pueden cambiar; por consiguiente, la naturaleza moral se puede modificar, el carácter se puede mejorar. (140:4.8)
+	Los juegos y el humor de las razas actuales proceden en gran parte de la estirpe adámica. (74:6.7)
+	La salud física, el temperamento heredado y el entorno social influyen notablemente sobre la experiencia religiosa. (100:1.6)
+	La religión es la palanca poderosa que levanta a la civilización por encima del caos, pero se encuentra impotente sin el punto de apoyo de una mente sana y normal, que descanse firmemente sobre una herencia sana y normal. (70:8.18)
+	Aunque un buen entorno no puede contribuir mucho a vencer realmente las desventajas que una herencia inferior tiene para el carácter, un ambiente malo puede estropear de manera muy eficaz una herencia excelente, al menos durante los primeros años de la vida. (76:2.6)
+	A menudo se necesitan eras y eras para reparar el daño ocasionado por la pérdida de una sola cepa superior de herencia humana. (49:1.7)
+la genética en los cielos
+	la vida morontial elimina todas las desventajas genéticas (44:8.3) (109:5.5)
+	Las limitaciones del intelecto, las restricciones de la educación, la privación de cultura, el empobrecimiento de la posición social e incluso unos criterios morales humanos inferiores ocasionados por la falta desafortunada de ventajas educativas, culturales y sociales, no pueden invalidar la presencia del espíritu divino en esos individuos desafortunados y humanamente perjudicados, pero creyentes. (5:1.4-7) (5:5.13-14)
+la evolución genética
+	Los esfuerzos realizados en Urantia por los Portadores de Vida para mejorar los modelos de vida de Satania tuvieron como resultado necesario la producción de numerosas formas de vida transitorias, aparentemente inútiles. (65:4.10-12)
+	El proceso de la evolución planetaria es ordenado y está controlado.  Una vez que las cepas seleccionadas y superiores de protoplasma viviente han hecho su aparición, son celosa e inteligentemente protegidas. (49:1.7)
+	Cada generación tiende ahora a eliminar de la corriente reproductora de la raza a aquellos individuos cuyo instinto parental no es lo suficientemente fuerte como para asegurar la procreación de hijos, los futuros padres de la siguiente generación. (84:7.7)
 históricamente
-	70 generaciones entre los mamíferos precursores y los mamíferos intermedios (61:6.1) (62:2.6)
-	Abraham llegó en la generación esperada (93:5.3)
-	La cepa de andita estimuló la raza amarilla innatamente capaz (79:6.7) (79:7.3)
-	Caligastia 100 enseñó la cría selectiva de animales (66:5.4)
-	cromosomas en el personal del Príncipe reorganizados por circuitos de vida (77:2.2,5)
+	hubo exactamente 70 generaciones entre los mamíferos precursores y los mamíferos intermedios (61:6.1) (62:2.6)
+	Entre las tribus primitivas, las disensiones familiares aumentaron, estallaron las guerras entre las tribus, y los mejores elementos de los grupos más capaces y avanzados sufrieron graves pérdidas. Algunas de estas pérdidas fueron irreparables; algunos de los elementos más valiosos en cuanto a capacidad e inteligencia se perdieron para siempre en el mundo. Estas guerras continuas entre los clanes amenazaron con extinguir a esta primera raza y a su civilización primitiva. (63:4.8)
+	Los cromosomas en el personal del Príncipe estaban más reorganizados a la manera de los modelos de especialización normalizada en Satania, y los cambios estaban causados por los poderosos circuitos de conservación de la vida de Satania (77:2.2,5)
+	Los cien ayudantes de Caligastia enseñaron la cría selectiva de animales a los hombres (66:5.4)
+	la pequeña cantidad de sangre que los pueblos evolutivos obtuvieron fortuitamente de la raza violeta ha producido unos beneficios extraordinarios. (48:4.13,17) (52:3.6) (74:7.23) | anditas
+	Los chinos del norte recibieron la suficiente sangre andita como para estimular ligeramente la capacidad innata de sus mentes, pero no la suficiente como para encender la inquieta curiosidad exploratoria tan característica de las razas blancas del norte. (79:6.7) (79:7.3)
+	Abraham llegó en una generación esperada por los síndicos Melquisedec (93:5.3)
+	La versatilidad y adaptabilidad inusuales de Moisés fueron derivadas de su ascendencia mixta. Su madre era egipcia y su padre era semita. (96:3.1)
 	Jesús no interfirió con la evolución biológica (120:3.5,8)
-	La versatilidad y adaptabilidad inusuales de Moisés derivadas de la ascendencia mixta (96:3.1)
-	la raza es un factor decisivo en la evolución de la cultura (81:6.4)
+	la raza es uno de los factores decisivos en la evolución de la cultura (81:6.4)
 	El deterioro racial contribuyó al declive romano (133:0.2) (195:3.8-9)
-	algunas pérdidas genéticas tempranas e irreparables debidas a guerras (63:4.8)
-	enormes ganancias de una pequeña cantidad de sangre violeta (48:4.13,17) (52:3.6) (74:7.23) | anditas
-individuos que carecen de instinto parental eliminados de la corriente reproductiva (84:7.7)
-los impulsos heredados no pueden modificarse fundamentalmente; las respuestas pueden (140:4.8)
-guarda celosamente las cepas humanas superiores (49:1.7)
-la vida morontial elimina todas las desventajas genéticas (44:8.3) (109:5.5)
-los mortales difieren en dotes innatas (69:3.8) (70:8.1) (100:7.8)
-a menudo requiere edades para recuperar la pérdida de una única cepa superior de la herencia humana (49:1.7)
-juego, humor, música en gran parte derivada de los adanitas (74:6.7)
-religión impotente aparte del sonido y la normalidad genética (70:8.18)
-experiencia religiosa marcadamente influenciada por (100:1.6)
 
 Gengis Kan | | | PERSON | OK
 El genio militar andita de los mongoles; fue un monoteísta (79:1.9)
 los miembros de su tribu todavía esperan su regreso (92:5.6)
 
-genio | | | | 
-civilización limitada por la disponibilidad de genio (78:2.4)
-la fe puede llevar al fanatismo en una religión genio (196:0.6)
-fomentado en la nación continental (72:6.7) (72:7.1)
-El consejo de Jesús con respecto a la disposición de la riqueza de (132:5.8,20)
-neutralizado por la gravedad de la mediocridad (111:7.5)
-el hombre normal es fuente de genios mutantes (68:6.11)
-obligación de genio a la raza y la nación (132:5.20)
-los primitivos no pudieron distinguir genio de la locura (88:1.9)
-los primitivos miraron a los genio como poseído por un espíritu sabio (88:1.10)
+genio; genios; talento | | | | OK
+El hombre primitivo no podía distinguir entre el genio y la locura; a los tontos los golpeaban hasta morir o eran venerados como personalidades fetiches. (88:1.9)
+Mucha gente consideraba que los genios eran personalidades fetiches poseídas por un espíritu sabio. (88:1.10)
+toda civilización está limitada por los recursos naturales disponibles, el genio inherente y el tiempo libre suficiente para asegurar la realización de los inventos (78:2.4)
+En un genio religioso, una poderosa fe espiritual conduce muchas veces directamente a un fanatismo desastroso, a la exageración del ego religioso, pero esto no le sucedió a Jesús. (196:0.6)
+El consejo de Jesús con respecto a la disposición de la riqueza fue: «Si llegas a conseguir la riqueza mediante el despliegue de tu talento, si tus riquezas proceden de las remuneraciones por tus dotes inventivas, no reclames una porción injusta de dichas remuneraciones. El talento le debe algo tanto a sus antepasados como a sus descendientes; también tiene obligaciones con respecto a la raza, a la nación y a las circunstancias de sus descubrimientos ingeniosos» (132:5.8,20)
+el vuelo de la genialidad es neutralizado por la gravedad de la mediocridad (111:7.5)
+Se debería fomentar el hombre normal; él es la espina dorsal de la civilización y la fuente de los genios mutantes de la raza. (68:6.11)
+el talento y la originalidad creativa están muy fomentados en la principal nación continental de un planeta habitado vecino (72:6.7) (72:7.1)
 
-Genesaret | (152:6) (156:6.3) | | PLACE | 
-Una región de Galilea donde estuvo Jesús
+Genesaret | | | PLACE | OK
+Una región del mar de Galilea donde estuvo Jesús descansando después de los acontecimientos de la alimentación de los cinco mil. (152:6)
+En este lugar es donde Jesús y los doce terminaron su viaje de regreso de Fenicia el 1 de agosto de 29. (156:6.3)
 
-gentiles | | paganos | RACE | 
-corte de los gentiles en el templo de Jerusalén (121:2.5)
-en tiempos de Jesús; religiones de (121:3.5)
-Judíos
+gentiles | | paganos | RACE | OK
+Cada sinagoga judía toleraba un pequeño número de creyentes gentiles, de hombres «devotos» o «temerosos de Dios», y fue precisamente en este grupo de prosélitos donde Pablo logró la mayor parte de sus primeros conversos al cristianismo. Incluso el templo de Jerusalén tenía un patio ornamentado para los gentiles. (121:2.5)
+en tiempos de Jesús las filosofías de los gentiles fueron: (121:4)
+	* los epicúreos (121:4.2) | épicureísmo
+	* los estoicos (121:4.3) | estoicismo (religión)
+	* los cínicos (121:4.4) | cinismo (religión)
+	* los escépticos (121:4.5) | escepticismo (religión)
+en tiempos de Jesús las religiones de los gentiles fueron: (121:5)
+	* los cultos paganos (121:5.3)
+	* La adoración del emperador (121:5.4) | adoración al emperador
+	* La astrología (121:5.5) | astrología
+	* Las religiones de misterio (121:5.6) | cultos de misterio
+los judíos
 	miraron a los gentiles con desprecio (121:7.1)
-	mezclado más libremente con gentiles en Galilea (123:5.7)
-	moralmente superior a los gentiles (121:4.1) (121:5.17)
+	En Galilea, los judíos se mezclaban más libremente con los gentiles que en Judea. (123:5.7)
+	Desde un punto de vista moral, los gentiles eran ligeramente inferiores a los judíos; pero en el corazón de los gentiles más nobles existía un terreno abundante de bondad natural y un potencial de afecto humano (121:4.1)
+	Entre los gentiles, la moralidad no estaba necesariamente relacionada con la filosofía o la religión. Fuera de Palestina, la gente no siempre tenía la idea de que los sacerdotes de una religión tuvieran que llevar una vida moral. (121:5.17)
 
 amabilidad | | | | OK
 la amabilidad es uno de los fruto del Espíritu, una manifestación creciente de las características del Espíritu en las reacciones vitales (34:6.13)
 
-geografía | | clima; continentes; montañas; océanos; ríos | | 
-China protegida por su geografía (79:6.12-13)
-India no logró la hegemonía debido a su topografía (79:2.5)
-influyente en la determinación de la paz o la guerra (81:6.5)
-la protección de América del Norte por los océanos permitió un desarrollo sin molestias (81:6.5)
+geografía | | clima; continentes; montañas; océanos; ríos | | OK
+China protegida por su geografía, al oeste por las montañas y al este por el Pacífico (79:6.12-13)
+La India no consiguió su hegemonía sobre Eurasia debido principalmente a un problema de topografía. Las razas inferiores no pudieron ser expulsadas en sur porque el mar lo rodeaba todo. (79:2.5)
+La configuración de los continentes y otras disposiciones geográficas ejercen una gran influencia en la determinación de la paz o la guerra. (81:6.5)
+la protección de América del Norte por los océanos permitió un desarrollo sin molestias. Pocos pueblos en Urantia han tenido este beneficio. (81:6.5)
 
 edades geológicas | (59:0.1-6) | | | OK
 # Arqueozoico, era anterior a la vida
@@ -387,76 +404,90 @@ edades geológicas | (59:0.1-6) | | | OK
 #* Holoceno, período posglacial
 #** Hace 35.000 años hasta el presente (61:7.18)
 
-geología | | fósiles; edades geológicas; rocas y minerales | | 
-ciclo de millones de años de ascenso y caída de los continentes (60:4.1)
-capas de roca extensamente mezcladas (57:8.11) (58:7.1,6)
-libro de piedra (58:7)
+geología | | fósiles; edades geológicas; rocas y minerales | | OK
+los períodos en los que la tierra y el mar predominaban alternativamente se produjeron durante ciclos de millones de años. La elevación y el hundimiento de los fondos oceánicos y de los niveles de las tierras continentales se efectuaron siguiendo un ritmo secular. Estos mismos movimientos rítmicos de la corteza continuarán produciéndose durante toda la historia de la Tierra, pero con menos frecuencia y en menor grado. (60:4.1)
+La corteza terrestre primitiva estaba en un estado de cambio continuo. El enfriamiento de la superficie alternaba con inmensas corrientes de lava. En ninguna parte de la superficie del mundo se puede encontrar un vestigio de su corteza planetaria original. Todo se ha mezclado demasiadas veces con las lavas expulsadas desde sus profundos orígenes y entremezclado con los depósitos posteriores del océano mundial primitivo. (57:8.11) (58:7.1,6)
+Toda la historia geológica está contada de forma gráfica en las páginas fósiles del inmenso «libro de piedra» de los anales del mundo. (58:7)
 
 Guerar | | | PLACE | OK
 después de la partida de Melquisedek, Abraham se mudó a Guerar. Allí tuvo que ocultar su identidad por temor (93:9.2-3)
 
-Gerasa | (128:3.2) (134:9.1) (138:9.3) (144:7.1) (152:7.1) (159:0.2) (165:0.1) (166:3) | | PLACE | 
+Gerasa; Gérasa | | | PLACE | OK
 Una de las poblaciones de la Decápolis
+Jesús pasó por allí con su hermano pequeño Simón cuando le llevó por primera vez en la Pascua de 17 d.C. (128:3.2)
+Durante su período de espera antes de empezar sus predicaciones, Jesús pasó por aquí en un viaje a Jerusalén, acompañado de Juan Zebedeo (134:9.1)
+Es una de las poblaciones visitadas durante la primera gira de predicación en el mar de Galilea, del 23 de junio a 7 de julio de 26, que realizaron los doce en solitario (138:9.3)
+Es una de las poblaciones visitadas durante la primera gira de predicación por la Decápolis, de noviembre a diciembre de 27, realizada por Jesús, sus doce apóstoles y los doce apóstoles de Juan Bautista (144:7.1)
+Después de su regreso de Fenicia en agosto de 29 Jesús viajó a Jerusalén y pasó por Gerasa (152:7.1)
+Es una de las poblaciones visitadas durante la segunda gira de predicación por la Decápolis, de agosto a septiembre de 29, realizada por los doce y un grupo de evangelistas sin la continua presencia de Jesús (159:0.2)
+Es una de las poblaciones visitadas en la misión de Perea, el último esfuerzo misionero de Jesús en el año 30 (165:0.1)
+Allí Jesús pronunció un memorable discurso sobre «cuántos serán salvados» (166:3)
+> https://es.wikipedia.org/wiki/Gerasa
 
 Gerizim | | monte Gerizim | PLACE | OK
 
 germoplasma | | plasma vital | | OK
 
-Alemania | (59:4.8) (60:1.4) (60:2.6) | | PLACE | 
-Grupos raciales nórdico-danés y danubiano-andonita (80:9.3)
-Los alemanes son descendientes de las razas andita y azul (80:4.5)
-raza blanca dominante en 5000 a.C. (80:5.8)
+Alemania | (59:4.8) (60:1.4) (60:2.6) | | PLACE | OK
+La cultura nórdico-danesa y la cultura danubiano-andonita se encontraron y se mezclaron en el Rin, tal como lo atestigua la existencia de dos grupos raciales en la Alemania de hoy. (80:9.3)
+Los alemanes son descendientes de las razas andita y azul. Estas razas fueron las ascendientes de las llamadas razas nórdicas, los antepasados de los pueblos escandinavos, germánicos y anglosajones. (80:4.5)
+Hacia el año 5000 a. de J.C., las razas blancas en evolución dominaban toda Europa septentrional, incluyendo el norte de Alemania, el norte de Francia y las Islas Británicas. (80:5.8)
 
 Geshur | | | PLACE | OK
 Talmai era rey de Geshur, y David casó con un hija suya (97:9.10)
 
-gesto; gestos | | | | 
+gesto; gestos | | | | OK
 Como los gestos eran más antiguos que el habla, eran más sagrados y mágicos, y se creía que la mímica poseía un fuerte poder mágico. (88:6.4) (92:2.2)
 
-Getsemaní | (178) (182) (183) (147:2.2) (176:3) (177:3) | | PLACE | 
-acampar en el terreno que pertenece a Simón de Betania (173:5.5)
-Jesús solo en (182:3)
-prensa de aceitunas cerca de la entrada a (183:0.3)
-en la ladera occidental del monte de los Olivos cerca de Kidron (142:8.4)
+Getsemaní | | | PLACE | OK
+Jesús y los apóstoles pasaron todo el mes de junio de 27 en Jerusalén y vivieron la mayor parte del tiempo en las tiendas que montaron en un parque o jardín sombreado conocido en aquella época con el nombre de Getsemaní. Este parque estaba situado en la ladera occidental del Monte de los Olivos, no lejos del arroyo Cedrón. (142:8.4)
+Jesús y los doce volvieron a acampar en Getsemaní en la Pascua de 28 (147:2.2) (147:5.6)
+En su última estancia en Jerusalén Jesús y los apóstoles montaron sus tiendas de campaña en una hondonada de la ladera que dominaba el parque de acampamiento público de Getsemaní, en un pequeño terreno que pertenecía a Simón de Betania. (173:5.5) (174:0.3) (174:4.4) (174:5.1) (175:4.1) (176:0.1-2) (177:1.5) (178:3.1) (182:0.1) (182:2.10) (183:4.8) (186:3.1) (187:0.1) (190:4.1)
+Jesús estuvo a solas orando en Getsemaní antes de su arresto (182:3)
+había una prensa de aceitunas cerca de la entrada a Getsemaní (183:0.3)
+el palacio de Anás estaba en el monte Olivete, no lejos del jardín de Getsemaní (184:0.3)
+Cerca de Getsemaní, un poco más arriba de monte Olivete, es donde Jesús dirigió sus últimas palabras de despedida a los apóstoles en su última aparición, y partió (193:5.1)
+> https://es.wikipedia.org/wiki/Getsemaní
 
-fantasmas | (87) | | | 
-las sectas eran un seguro contra los peligros de la mala suerte (87:0.1)
-pueblos primitivos asociaban fantasmas con el mar (84:1.4)
+fantasmas; superfantasmas | (87) | | | OK
+El culto a los fantasmas se desarrolló como una compensación a los riesgos de la mala suerte; sus prácticas religiosas primitivas fueron el resultado de la preocupación por la mala suerte y del miedo desmesurado a los muertos. (87:0.1)
+Muchos pueblos primitivos asociaban a los fantasmas con el mar, y por eso se imponían grandes restricciones a los baños de las vírgenes; las chicas jóvenes tenían mucho más miedo de bañarse en el mar con la marea alta que mantener relaciones sexuales. (84:1.4)
+El hombre heredó un entorno natural, adquirió un entorno social e imaginó un entorno fantasmal. El Estado es la reacción del hombre hacia su entorno natural, el hogar, hacia su entorno social, y la iglesia, hacia su entorno ilusorio de fantasmas. (86:6)
+La idea más primitiva del alma humana, el fantasma, tuvo su origen en el sistema de ideas relacionado con el sueño y la respiración. (86:4.3)
+Moisés trató insistentemente de desarraigar de su pueblo los vestigios del culto a los fantasmas, llegando incluso a establecer la pena de muerte para los que lo practicaran. (92:5.11)
 miedo a los fantasmas
-	primitivas disciplinadas y controladas (68:3.3)
-	llevó a los hombres a la sociedad (68:2.4,6) (68:3.1,4) (68:4.3)
-	fuente de la ética, la religión (68:4.3) (87:1) (87:4.1)
-	preparó la mente de los hombres para el «temor del Señor» (68:3.3)
+	El terror a los fantasmas reveló una nueva y asombrosa forma de miedo, un terror espantoso y poderoso que contribuyó a fustigar a las clases sociales relajadas de los primeros tiempos para convertirlas en los grupos primitivos más completamente disciplinados y mejor controlados de los tiempos antiguos. (68:3.3)
+	Los deseos primitivos produjeron la sociedad original, pero el miedo a los fantasmas la mantuvo unida y confirió a su existencia un aspecto extrahumano. (68:2.4,6) (68:3.1,4) (68:4.3)
+	El miedo a los fantasmas condujo al hombre primitivo a imaginar lo sobrenatural, y estableció así unas bases sólidas para las poderosas influencias sociales de la ética y la religión, que a su vez preservaron intactas, de generación en generación, las costumbres y tradiciones de la sociedad. El miedo a los fantasmas fue la fuente de todas las religiones del mundo; muchas tribus se aferraron durante miles de años a la vieja creencia en una sola clase de fantasmas. (68:4.3) (87:1) (87:4.1)
+	preparó la mente de los hombres, a través del miedo supersticioso a lo irreal y a lo sobrenatural, para el descubrimiento posterior del «temor al Señor, que es el comienzo de la sabiduría». (68:3.3)
 	produjo temor a estar solo (84:7.17)
-	los salvajes vivían con miedo a los fantasmas (87:3.3)
-	superstición sin sentido (68:3.3)
-ilusorio fantasmas entorno del hombre primitivo (86:6)
-Moisés trató de desarraigar los cultos a los fantasmas (92:5.11)
-idea más primitiva de las almas humanas (86:4.3)
+	El salvaje vivía con el miedo a los fantasmas de sus semejantes, y pasaba su tiempo libre haciendo planes para la protección de su propio fantasma después de la muerte. (87:3.3)
+	se trataba de una superstición sin sentido (68:3.3)
 naturaleza y actividades de los fantasmas
-	administraron justicia a través de curanderos (70:10.5)
-	enojado fantasmas causó desgracia, infelicidad (87:2.2)
-	causó enfermedad al sacar el alma del cuerpo (90:3.4)
-	acreditado con poderes sobrenaturales, pero no inteligencia sobrenatural (87:1.2-5)
-	disfrutaba de derechos ilimitados pero no de deberes (87:5.1)
-	Se esperaba que al menos una esposa esclava fuera enterrada viva con (87:2.7)
-	explicó lo inusual y lo inexplicable (86:4.4)
-	asustado por el ruido (87:6.11)
-	fantasmas buenos y malos (87:4)
-	recaudaba tributo continuo por no interferencia (87:5.1)
-	preferían morar en los objetos que poseían cuando estaban vivos (88:2.1)
-	castigó a aquellos que despreciaron sus reglas (68:4.3)
-	disfrutaba de la incomodidad de vivir (87:2.4) (89:0.2)
-el aplacamiento precedió a la coerción y la súplica (87:2.1)
-ritos diseñados para evitar, expulsar o coaccionar (87:0.1)
-salvaje creía fantasmas ser aliento menos cuerpo (86:4.4)
-los chamanes aullaban fantasmas responsable de la enfermedad (90:4.3)
-concepto de alma (86:5)
-los espíritus de los humanos que han partido no regresan ni se comunican (112:3.7) (146:7.2) (150:3.5)
-estratagemas para engañar (87:1.2,5) (87:6.3-10)
-Doctrina superfantasma aún no totalmente rechazada (87:5.8)
-superstición de fantasmas el sueño aún persiste (68:3.3)
-supuesto origen humano de fantasmas dioses (85:6.4)
+	Muy pronto se creyó que los fantasmas administraban la justicia por medio de los curanderos y los sacerdotes; estos grupos se constituyeron así en los primeros detectives y agentes de la ley. (70:10.5)
+	Antiguamente se pensaba que el deseo más grande de un fantasma consistía en ser «conjurado» rápidamente a fin de poder dirigirse tranquilamente hacia el reino de los muertos. Cualquier error se creía que desagradaba al fantasma, y se suponía que un fantasma enojado era una fuente de calamidades, desgracias e infelicidad. (87:2.2)
+	La hipótesis más primitiva que se ofreció para explicar la enfermedad y la muerte fue que los espíritus causaban las enfermedades atrayendo el alma fuera del cuerpo; si ésta no regresaba, se producía la muerte. (90:3.4)
+	Aunque los salvajes atribuían a los fantasmas unos poderes sobrenaturales, apenas imaginaban que tuvieran una inteligencia sobrenatural. (87:1.2-5)
+	El hombre primitivo consideraba que los espíritus y los fantasmas tenían unos derechos casi ilimitados, pero ningún deber; se pensaba que los espíritus estimaban que el hombre tenía numerosos deberes, pero ningún derecho. (87:5.1)
+	Los fantasmas querían esposas y criados; un salvaje acaudalado esperaba que al menos una esposa esclava sería enterrada viva con él cuando muriera. (87:2.7)
+	Esta creencia en la existencia de espíritus incorpóreos o fantasmas parecía explicar la presencia de lo insólito, lo extraordinario, lo infrecuente y lo inexplicable. (86:4.4)
+	Se suponía que a los fantasmas les molestaba y asustaba el ruido, que los gritos, las campanas y los tambores los alejaban de los vivos; estos métodos antiguos están todavía de moda en los «velatorios» de los muertos. (87:6.11)
+	Más tarde aún, la imaginación del hombre concibió el concepto de agentes sobrenaturales buenos y malos; algunos fantasmas no evolucionaban nunca hasta el nivel de los espíritus buenos. Cuando la doctrina de los espíritus buenos y malos maduró finalmente, se convirtió en la creencia religiosa más difundida y persistente de todas. La filosofía primitiva del hombre sólo podía conciliar la invariabilidad de los espíritus con las vicisitudes de la fortuna temporal admitiendo la existencia de dos tipos de espíritus, uno bueno y otro malo. (87:4)
+	La humanidad creía en general que los fantasmas imponían un tributo continuo de servicio como precio a pagar por no interferir en los asuntos humanos, y la más pequeña desgracia se atribuía a las actividades de los fantasmas. (87:5.1)
+	Se suponía que los fantasmas preferían residir en un objeto que les había pertenecido cuando vivían en la carne. (88:2.1)
+	Al principio, la única cosa que estableció y cristalizó las costumbres fue la creencia de que los difuntos deseaban conservar celosamente la manera de vivir y de morir que habían tenido; por consiguiente, enviarían un castigo terrible a los mortales vivos que se atrevieran a tratar con un desprecio negligente las reglas de vida que ellos habían respetado cuando vivían en la carne. (68:4.3)
+	Se pensaba que el ayuno y otras formas de abnegación agradaban a los fantasmas, que disfrutaban con la aflicción de los vivos durante el período de transición en que rondaban por los alrededores antes de su partida real hacia el reino de los muertos. (87:2.4) (89:0.2)
+influencia en la religión
+	En la religión, el programa negativo del apaciguamiento de los fantasmas precedió de lejos al programa positivo de la coacción y la súplica a los espíritus. (87:2.1)
+	Ninguna de las religiones primitivas tuvo mucho que ver con el reconocimiento de la Deidad ni con la veneración de lo sobrehumano; sus ritos eran principalmente negativos, destinados a evitar, expulsar o coaccionar a los fantasmas. (87:0.1)
+	El salvaje se imaginó finalmente a sí mismo como un ser doble —cuerpo y aliento. El aliento menos el cuerpo equivalía a un espíritu, a un fantasma. (86:4.4)
+	los chamanes expulsaban a gritos a los fantasmas responsables de las enfermedades (90:4.3)
+	Todas las tribus primitivas, salvo aquellas que apenas se encontraban por encima de los animales, han desarrollado algún concepto del alma. (86:5)
+	Jesús explicó además a sus apóstoles que los espíritus de los seres humanos fallecidos no regresan a su mundo de origen para comunicarse con sus semejantes vivos. (112:3.7) (146:7.2) (150:3.5)
+	Los primeros esfuerzos defensivos del hombre estuvieron dirigidos contra los fantasmas. A medida que pasaron los siglos, los vivos empezaron a inventar métodos para oponer resistencia a los muertos. Se desarrollaron muchas técnicas para asustar y alejar a los fantasmas (87:1.2,5) (87:6.3-10)
+	De época en época y de generación en generación, las razas han intentado mejorar, unas tras otras, esta doctrina de los superfantasmas, pero ninguna generación se ha atrevido todavía a rechazarla por completo. (87:5.8)
+	la superstición de los fantasmas en el sueñoes todavía hoy persiste (68:3.3)
+	Los dioses fantasmas, que tienen un supuesto origen humano, deben distinguirse de los dioses de la naturaleza, pues la adoración de la naturaleza produjo un panteón —los espíritus de la naturaleza elevados a la posición de dioses. (85:6.4)
 
 gigantismo | | | | OK
 la estatura de los mortales tiende a disminuir desde el hombre rojo hasta la raza índiga, aunque en Urantia aparecieron linajes inesperados de gigantismo entre los pueblos verde y anaranjado. (51:4.2)
@@ -473,42 +504,53 @@ gibeonitas | | | RACE | OK
 El rey David entregó 7 descendientes de Saúl a los gibeonitas para que los ahorcara (97:9.13)
 > https://es.wikipedia.org/wiki/Gabaón
 
-Estrecho de Gibraltar; istmo de Gibraltar | (61:3.8) | | PLACE | 
-cedió después de un terremoto (80:2.4)
-Mediterráneo protegido en los primeros días de la raza violeta (80:1.1)
+Estrecho de Gibraltar; istmo de Gibraltar | (61:3.8) | | PLACE | OK
+Hacia la época de ciertos cambios climáticos en África, Inglaterra se separó del continente y Dinamarca surgió del mar, mientras que el istmo de Gibraltar, que protegía la cuenca occidental del Mediterráneo, se hundió a consecuencia de un terremoto, elevando rápidamente este lago interior hasta el nivel del Océano Atlántico. (80:2.4)
+Durante los primeros tiempos de la raza violeta, la depresión mediterránea estaba protegida por el istmo de Gibraltar y el puente terrestre de Sicilia. (80:1.1)
+> https://es.wikipedia.org/wiki/Estrecho_de_Gibraltar
 
 Gedeón | | | PERSON | OK
 Los madianitas invadieron el valle del Jordán en los días de Gedeón (124:6.6)
+> https://es.wikipedia.org/wiki/Gedeón
 
-regalos | | | | 
-La voluntad consagrada es el mayor don para Dios (1:1.2) (56:8.3) (196:0.10)
-todo don bueno y perfecto es de Dios (2:6.3)
-Dios les da a sus hijos el espíritu y las bendiciones (131:10.3) (144:2.4) (146:2.6-10)
-la gente se deleita con la Navidad regalos (69:5.13)
-la salvación es un don gratuito (150:5.3,5) (167:5.1) (170:2.21) (193:1.2) (193:2.2)
+regalos; regalo; ofrendas; buenas cosas; don | | | | OK
+La dedicación afectuosa de la voluntad humana a hacer la voluntad del Padre es el regalo más selecto que el hombre puede hacerle a Dios; de hecho, una consagración así de la voluntad de la criatura constituye el único obsequio posible de verdadero valor que el hombre puede hacerle al Padre Paradisiaco. Jesús le entregó a Dios, como hombre del reino, la más grande de todas las ofrendas: la consagración y la dedicación de su propia voluntad al servicio majestuoso de hacer la voluntad divina. (1:1.2) (56:8.3) (196:0.10)
+«Todo don bueno y todo don perfecto proceden del Padre de las luces». (2:6.3)
+Si nuestros padres terrenales, que tienen tendencia al mal, saben amar a sus hijos y concederles buenas cosas, cuánto más debe saber el buen Padre celestial amar sabiamente a sus hijos terrenales y otorgarles las bendiciones que les convienen». (131:10.3) (144:2.4) (146:2.6-10)
+La acumulación de las riquezas se convirtió pronto en el símbolo de la distinción social. Incluso los pueblos modernos se deleitan distribuyendo pródigamente los regalos de Navidad, mientras que los hombres ricos hacen donaciones a las grandes instituciones filantrópicas y educativas. (69:5.13)
+ La salvación es un don de Dios, y la rectitud es el fruto natural de la vida nacida del espíritu, la vida de filiación en el reino. Jesús dijo: «Ya veis que el Padre concede la salvación a los hijos de los hombres, y esta salvación es un don gratuito para todos los que tienen la fe necesaria para recibir la filiación en la familia divina. (150:5.3,5) (167:5.1) (170:2.21) (193:1.2) (193:2.2)
 
-Gilboa | (144) (122:7.5) (123:5.13) (124:6.1) | | PLACE | 
-conferencia con los apóstoles de Juan en Gilboa (144:6)
-campamento en (144:1)
-El rey Saúl se quitó la vida en (124:6.3) (134:9.5)
-Mateo y Felipe expulsaron de la aldea samaritana en (162:0.1)
-Los filisteos derrotaron a Saúl en (97:9.6)
+Gilboa | (144) | | PLACE | OK
+Los filisteos derrotaron a Saúl en el monte Gilboa. El rey Saúl se quitó la vida allí. (97:9.6) (97:9.13) (124:6.3) (134:9.5)
+María y José acamparon en las laderas del monte Gilboa en su viaje a Belén para empadronarse (122:7.5)
+Este monte era visible desde la colina cercana a la casa de Jesús en Nazaret (123:5.13)
+Jesús pasó por allí con sus padres cuando le llevaron por primera vez a Jerusalén (124:6.1) (124:6.4)
+entre los meses de septiembre y octubre de 27 Jesús y los apóstoles establecieron su campamento en el monte Gilboa (144:1)
+en octubre de 27 los apóstoles de Jesús celebraron una conferencia con los apóstoles de Juan en el monte Gilboa (144:6)
+Mateo y Felipe fueron expulsados de una aldea samaritana en las laderas del monte Gilboa en su camino a la fiesta de los Tabernáculos en el año 29 (162:0.1)
+> https://es.wikipedia.org/wiki/Gilboa
 
-Galaad | (165:0.1) | | PLACE | 
-Una de las poblaciones recorridas en la misisón de Perea
+Galaad | | | PLACE | OK
+Una de las poblaciones recorridas en la misisón de Perea, desde enero de 30 hasta el final de la vida de Jesús (165:0.1)
+> https://es.wikipedia.org/wiki/Galaad
 
-galaaditas | | | RACE | 
-tribu de renombre (128:1.14)
-Saúl vino en ayuda de (97:9.3)
+galaaditas; Gilead | | | RACE | OK
+los galaaditas fueron una tribu bíblica de renombre (128:1.14)
+La pretenciosa historia de los hebreos empieza con Saúl cuando reunió a los clanes del norte para resistir un ataque de los ammonitas contra los miembros de una tribu hermana —los galaaditas— al este del Jordán. Con un ejército de poco más de tres mil hombres derrotó al enemigo, y esta hazaña fue la que condujo a las tribus de las colinas a hacerlo rey. (97:9.3)
+> https://es.wikipedia.org/wiki/Galaad
 
 jirafas | (61:4.4) | | | OK
 
-cinturón | | | | 
-Jesús usó (187:2.8)
-Judas se ahorcó con (186:1.7)
+cinturón | | | | OK
+Jesús usaba cinturón (187:2.8)
+Judas se ahorcó con su cinturón (186:1.7)
 
-Giscala | (138:9.3) (146:4.6) (156:6.3) | | PLACE | 
-Lugar cercano al mar de Galilea donde predicó Jesús
+Giscala | | | PLACE | OK
+Lugar cercano al mar de Galilea
+Los apóstoles predicaron allí en su primera gira de predicación por el lago entre junio y julio de 26 (138:9.3)
+Es una de las poblaciones visitadas durante la primera gira de predicación por Galilea entre enero y marzo de 28 (146:0.1) (146:4.6)
+Jesús y los apóstoles pasaron cerca en su regreso de Fenicia (156:6.3)
+> https://es.wikipedia.org/wiki/Gush_Halav
 
 glaciares | | edades de hielo | | 
 aparición en Pérmico (59:6.6)
@@ -535,52 +577,53 @@ mosquitos | | | |
 esforzarse en mosquitos (156:2.8) (185:0.4)
 esforzarse mosquitos mientras traga camello (175:1.17)
 
-metas | | ambiciones; consagración de elección; destino; progreso; autorrealización; voluntad | | 
+metas; meta | | ambiciones; consagración de elección; destino; progreso; autorrealización; voluntad | | OK
 alcanzando objetivos
-	los ascendentes nunca negaron la satisfacción transitoria del logro de la meta (39:4.7) (44:8.3-5) (118:0.10,12)
-	asistencia para lograr metas proporcionado gratuitamente (4:3.5)
-	comenzado en el tiempo se terminará en la eternidad, si vale la pena terminar (111:3.7)
-	soldando la filosofía, la religión y la ciencia con la sabiduría, la fe y la experiencia (98:2.12)
-	cediendo a las fuerzas espirituales (5:1.12)
-	creación y respuesta a nuevo y espíritu metas (12:9.1)
-	enteramente posible alcanzar metas establecido por Dios (1:0.5)
-	las metas son creativas de acuerdo con la dedicación a la voluntad del Padre (132:7.9)
-	la mayor felicidad vinculada con la búsqueda de lo digno metas (94:8.17)
-	el propósito de la vida debe ser celosamente guardado (160:3.5)
-	la religión paga cualquier precio para alcanzar la meta suprema (100:3.1)
-	esfuerzo espiritual requerido para lograr metas en Havona (26:7.1)
-	con Dios todas las cosas son posibles (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
+	Aunque la conquista de cada meta ascendente es un logro objetivo, en un sentido más amplio estas metas no son más que hitos en el largo sendero ascendente hacia el Paraíso. Pero por muy relativos que sean estos éxitos, a ninguna criatura evolutiva se le niega nunca la satisfacción completa, aunque transitoria, de haber alcanzado una meta. (39:4.7) (44:8.3-5) (118:0.10,12)
+	se nos proporciona ayuda abundante para lograr las metas (4:3.5)
+	aquello que empezamos en el tiempo, lo terminaremos ciertamente en la eternidad —si vale la pena terminarlo. (111:3.7)
+	el estado ideal humano es aquél en el que la filosofía, la religión y la ciencia están soldadas en una unidad significativa gracias a la acción conjunta de la sabiduría, la fe y la experiencia. (98:2.12)
+	Si nos sometemos a las directrices de las fuerzas espirituales que están en nosotros y alrededor de nosotros, no podremos dejar de alcanzar el alto destino que un Dios amoroso ha establecido como meta universal para sus criaturas ascendentes de los mundos evolutivos del espacio. (5:1.12)
+	El verdadero destino del hombre consiste en crear metas nuevas y espirituales, y luego en responder a los atractivos cósmicos de esas metas celestiales que tienen un valor no material. (12:9.1)
+	Los mortales de Urantia difícilmente pueden esperar ser perfectos en el sentido infinito, pero a los seres humanos les es enteramente posible, poniéndose en camino como lo hacen en este planeta, alcanzar la meta celestial y divina que el Dios infinito ha fijado para el hombre mortal; y cuando alcancen este destino serán tan completos en su esfera de perfección divina, en todo aquello que se refiere a la autorrealización y a la consecución mental, como Dios mismo lo es en su esfera de infinidad y de eternidad. (1:0.5)
+	Las metas, aquello que una imaginación humana iluminada y reflexiva, instruida y guiada por el espíritu, desea ser y hacer desinteresadamente y de todo corazón, se vuelve sensiblemente creativo según el grado en que el mortal esté consagrado a hacer divinamente la voluntad del Padre. (132:7.9)
+	la felicidad suprema está unida a la persecución inteligente y entusiasta de unas metas nobles, y que estos logros constituyen un verdadero progreso en la autorrealización cósmica. (94:8.17)
+	el propósito de la vida debe ser celosamente protegido contra la tentación de buscar los logros fáciles y transitorios; asimismo, debe ser fomentado de tal manera que se vuelva inmune a las amenazas desastrosas del fanatismo. (160:3.5)
+	La religión paga cualquier precio que sea necesario para conseguir la meta suprema, la recompensa eterna. (100:3.1)
+	en Havona, los peregrinos ascendentes descubren el significado que tiene el verdadero estudio y el auténtico esfuerzo mental cuando empiezan a discernir la naturaleza del esfuerzo espiritual aún más agotador y mucho más arduo que necesitarán hacer para satisfacer las exigencias de la elevada meta que tienen que alcanzar en los mundos de este circuito. (26:7.1)
+	«Con Dios todas las cosas son posibles; el Creador eterno es la causa de las causas». (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
 	el trabajo es importante, el yo no lo es (48:6.37)
-Dios trata con nosotros sobre la base de nuestros propósitos (103:4.5)
-vida sin objetivo y sin provecho sin ser digno (140:4.9)
-hitos en el largo camino ascendente (39:4.7)
-aspiraciones mortales (44:8)
-no es material para las almas divinamente regadas (34:6.8)
-solo metas por lo que vale la pena luchar son espirituales, no materiales (100:2.6) (170:2.6)
-las personas pueden emitir juicios sobre la valía de metas (16:7.2-4)
-en lugar de los credos deberían unificar a los religiosos (99:5.7)
-destino espiritual condicionado por (156:5.9)
-metas supremos
-	logrando la perfección | perfección:logro
-	Ascendington es la esfera de estado suprema (13:0.6)
-	logro de supremo, luego último (0:7.10) (0:9.1)
-	sintonizando con la divinidad del Ajustador residente (110:3.4)
-	convertirse en finalista (14:6.39)
-	hermandad y conciencia de Dios (71:4.15) (143:1.4)
-	consagración a la voluntad del Padre; lealtad al Hijo Creador (20:1.14)
-	Movilización siempre ascendente y unificación perfecta de la realidad en asociación con la realidad del Paraíso (0:7.10)
-	explorando el infinito del Padre Universal (14:6.40)
-	pelear la batalla del triunfo de la realidad sobre las sombras parciales (101:10.9)
-	encontrar a Dios y llegar a ser como él (1:0.3) (132:3.7)
-	encontrar a Dios en el Paraíso (5:1.2,12) (11:9.8) (14:2.8) (48:8.1)
-	Dios, descanso y eternidad de servicio perfeccionado (24:6.1)
-	perfección de la fe y el servicio (34:6.10)
-	servicio (28:6.17)
-	espíritu (12:8.13) (16:4.6)
-	trinitización, para algunos (13:1.13)
-	unificación, coherencia divina (2:7.7)
-	sabiduría de la existencia mental y moral (36:5.12)
-transferencia de metas desde el tiempo hasta la eternidad (160:1.14)
+el valor de las metas
+	Dios Padre no se relaciona con el hombre, su hijo, sobre la base de sus virtudes o de sus méritos reales, sino sobre el reconocimiento de los móviles del hijo —el propósito y la intención de la criatura. (103:4.5)
+	Sin una meta que merezca la pena, la vida carece de objetivo y de provecho, lo que ocasiona mucha infelicidad. (140:4.9)
+	Aunque la conquista de cada meta ascendente es un logro objetivo, en un sentido más amplio estas metas no son más que hitos en el largo sendero ascendente hacia el Paraíso. (39:4.7)
+	Las almas divinamente regadas son casi independientes del entorno material en lo que se refiere a las alegrías de la vida y a las satisfacciones de la existencia terrenal. Están iluminadas y refrescadas espiritualmente, fortalecidas y dotadas moralmente. (34:6.8)
+	Las únicas metas por las que vale la pena luchar son divinas, espirituales y eternas. (100:2.6) (170:2.6)
+	un animal es capaz de examinar las diferentes maneras de alcanzar una meta y de elegir un camino de acceso basado en la experiencia acumulada. Pero una personalidad puede examinar también la meta misma y juzgar su validez, su valor. (16:7.2-4)
+	Son las metas, en lugar de los credos, las que deberían unir a las personas religiosas. (99:5.7)
+	Nuestro destino espiritual sólo está condicionado por nuestros anhelos e intenciones espirituales. (156:5.9)
+metas supremas
+	Esta es una lista de las metas supremas que están ante los seres humanos:
+	* el logro de la perfección | perfección
+	* alcanzar Ascendington, la esfera de estado suprema (13:0.6)
+	* alcanzar el nivel del Ser Supremo, y luego de Dios Último (0:7.10) (0:9.1)
+	* La gran meta de la existencia humana consiste en sintonizarse con la divinidad del Ajustador interior; el gran logro de la vida mortal consiste en alcanzar una verdadera consagración comprensiva a los objetivos eternos del espíritu divino que espera y trabaja dentro de vuestra mente. (110:3.4)
+	* convertirse en un finalitario (14:6.39)
+	* la consecución social de la fraternidad de los hombres y la situación personal de ser consciente de Dios (71:4.15) (143:1.4)
+	* la consagración a la voluntad del Padre y la lealtad al Hijo Creador (20:1.14)
+	* la movilización siempre ascendente y la unificación perfecta de la realidad en asociación con la realidad del Paraíso (0:7.10)
+	* la exploración por experiencia de la infinidad del Padre Universal (14:6.40)
+	* librar la batalla del triunfo de la realidad sobre las sombras parciales de la existencia (101:10.9)
+	* encontrar a Dios y llegar a ser como él (1:0.3) (132:3.7)
+	* encontrar a Dios en el Paraíso (5:1.2,12) (11:9.8) (14:2.8) (48:8.1)
+	* la meta de todos los tiempos: Dios, el descanso, y luego una eternidad de servicio perfeccionado (24:6.1)
+	* el logro final de la perfección de la fe y del servicio, esa experiencia en la que estaremos «llenos de toda la plenitud de Dios» (34:6.10)
+	* El servicio —más servicio, servicio creciente, servicio difícil, servicio aventurero, y al final el servicio divino y perfecto— es la meta del tiempo y el destino del espacio. (28:6.17)
+	* La meta de la existencia de todas las personalidades es el espíritu; las manifestaciones materiales son relativas, y la mente cósmica sirve de mediadora entre estos opuestos universales. (12:8.13) (16:4.6)
+	* la trinitización, para algunos (13:1.13)
+	* La búsqueda eterna es con vistas a la unificación, a la coherencia divina. (2:7.7)
+	* La sabiduría es la meta de una existencia puramente mental y moral. (36:5.12)
+	En un mundo que cambia continuamente, en medio de un orden social en evolución, es imposible mantener unas metas de destino establecidas y asentadas. Sólo pueden experimentar la estabilidad de la personalidad aquellos que han descubierto y abrazado al Dios viviente como meta eterna de consecución infinita. Para transferir así la meta individual del tiempo a la eternidad, de la Tierra al Paraíso, de lo humano a lo divino, es necesario que el hombre se regenere, se convierta, nazca de nuevo, que se vuelva el hijo re-creado del espíritu divino, que logre su entrada en la fraternidad del reino de los cielos. (160:1.14)
 
 cabras | | | | 
 domesticado por 5000 a.C. (81:2.12)
@@ -971,42 +1014,43 @@ nombres de dioses
 	* Yahvé | Yahvé
 	* Zeus | Zeus
 
-oro | | | | 
-primer metal buscado por el hombre (81:3.4-5)
-los hombres viajan a los confines de la tierra para (63:5.6)
-producto de los flujos de lava en las Sierras (60:3.3)
-cuando me pruebe, saldré como (3:3.2)
+oro | | | | OK
+El oro fue el primer metal que buscaron los hombres; era fácil de trabajar y al principio sólo se utilizó como adorno. (81:3.4-5)
+Viajaban por todas partes buscando sílex, de manera muy similar a como los humanos de hoy viajan hasta los confines de la Tierra en busca de oro, platino y diamantes. (63:5.6)
+el oro fue un producto de los flujos de lava en las Sierras (60:3.3)
+Todo hijo de criatura puede decir en verdad: «Él conoce el camino que tomo, y cuando me haya puesto a prueba, resaltaré como el oro». (3:3.2)
 
-edad de oro | | | | 
-edades de luz y vida | luz y vida
-creencia errónea en la existencia única de la edad de oro; creencia desalentadora (68:1.7) (74:8.13-14)
-terribles condiciones antisociales para los primitivos (81:5.4)
-los tiempos de Onagar fueron la edad de oro para el hombre primitivo (63:6.9)
-La tradición del Edén dio sustancia a un sueño de una vez (89:2.3).
+edad de oro; era de oro | | | | OK
+La expresión moderna «regreso a la naturaleza» es una ilusión de la ignorancia, una creencia en la realidad de una antigua «edad de oro» ficticia. La única base que tiene la leyenda de la edad de oro es el hecho histórico de la existencia de Dalamatia y del Edén. Pero aquellas sociedades mejoradas estaban lejos de haber realizado los sueños utópicos. Pero estas ideas eran desalentadoras, puesto que estaban basadas en una creencia en la regresión más bien que en la progresión, y además implicaban una Deidad vengativa (68:1.7) (74:8.13-14)
+La tradición de Adán y del Jardín del Edén también dio consistencia a la ilusión de una antigua «era de oro» en los albores de las razas. (89:2.3).
+la verdad es que las experiencias iniciales de la raza humana se caracterizaron por unas terribles condiciones antisociales (81:5.4)
+los tiempos de Onagar fueron en verdad la edad de oro para el hombre primitivo (63:6.9)
+las edades de luz y vida que llegarán a Urantia en un futuro distante serán auténticas edades de oro | luz y vida
 
 becerro de oro | | | RELIGION | OK
 Moisés siempre se sintió atormentado por la difícil situación de tener que presentar a aquellos esclavos ignorantes su idea nueva y superior de la Deidad bajo la apariencia de la antigua denominación de Yahvé, el cual siempre había estado simbolizado por el becerro de oro de las tribus beduinas. (96:4.3)
 los becerros de plata y de oro simbolizaban el concepto que tenían los pastores beduinos del espíritu del volcán del Sinaí (96:1.12) (96:5.8)
 
-regla de oro | (52:5.8) (101:8.4) | mandamientos | | 
-los adherentes deben mantener una defensa adecuada (71:4.16-17)
-Se enseñó a los andonitas (70:1.2)
-basado en un valor infinito de finito (196:2.10)
-clama contra el fraude, la injusticia, el egoísmo y la injusticia (54:1.8)
-niveles de (140:5.1) (147:4)
-literalmente interpretado, la regla de oro puede convertirse en una gran ofensa (180:5.5)
+regla de oro | (52:5.8) (101:8.4) | mandamientos | | OK
+los seguidores de la regla de oro pueden establecer una sociedad progresiva en la que puedan vivir de acuerdo con sus ideales, manteniendo al mismo tiempo una defensa adecuada contra sus compañeros ignorantes, que podrían intentar, o bien explotar sus predilecciones pacíficas, o destruir su civilización en progreso. (71:4.16-17)
+A los andonitas se les enseñó pronto la regla de oro, y hoy todavía sus descendientes esquimales viven en gran parte siguiendo este código; las costumbres están muy arraigadas entre ellos y se encuentran relativamente libres de antagonismos violentos. (70:1.2)
+la regla de oro de Jesús estaba basada en un valor infinito de lo finito (196:2.10)
+la regla de oro fue enseñada en el Jardín del Edén (74:7.5,18)
+La regla de oro de la equidad humana clama contra todos estos fraudes, injusticias, egoísmos y faltas de rectitud. (54:1.8)
+hay dos niveles de la regla de oro: el amor fraternal y el amor paternal (140:5.1) (147:4)
+Cuando la regla de oro se interpreta literalmente, puede convertirse en un instrumento muy ofensivo para nuestros semejantes. (180:5.5)
+La adoración de los insectos y de otros animales fue fomentada por una falsa interpretación posterior de la regla de oro —hacer a los demás (a todas las formas de vida) lo que queréis que os hagan a vosotros. (85:3.4)
+La religión evolutiva introduce a fondo en el individuo la idea del deber personal; la religión revelada hace cada vez más hincapié en el amor, en la regla de oro. (101:5.11)
 viviendo la regla de oro
 	Los seres éticos y morales pueden aprender a vivir la regla de oro (50:5.8)
-	reafirmado por Jesús exige un contacto social activo (140:10.5) (159:5.16) (178:1.12)
-	conocimiento espiritual esencial para (52:6.5)
-	entendido solo viviendo (180:5.11)
-mala interpretación de la regla de oro promovió el culto a los insectos (85:3.4)
-la religión revelada enfatiza (101:5.11)
-declaraciones de la regla de oro (118:8.10)
-	haz con los demás lo que te gustaría que te hicieran a ti (131:2.11) (131:3.6) (131:4.6) (131:9.4) (131:10.7)
-	amor por el padre, amor entre los hijos (142:7.4) (163:4.8)
-	amar a los demás como Jesús nos amó (147:4.9) (180:5.5-11)
-enseñado en el Jardín del Edén (74:7.5,18)
+	La regla de oro, tal como Jesús la expuso de nuevo con más claridad, exige un contacto social activo; la antigua regla negativa podía ser obedecida en la soledad. (140:10.5) (159:5.16) (178:1.12)
+	Sólo unos seres morales buscarán siempre esa perspicacia espiritual que es esencial para vivir la regla de oro. (52:6.5)
+	la regla de oro sólo se pueden comprender viviéndolas, percatándose de sus significados en la interpretación viviente del Espíritu de la Verdad, que dirige el contacto afectuoso entre los seres humanos. (180:5.11)
+declaraciones de la regla de oro 
+	* el hombre alcanza los principios de la fraternidad espiritual cuando escoge tratarlos como le gustaría ser tratado, e incluso tratarlos como imagina que Dios los trataría (118:8.10)
+	* haz con los demás lo que te gustaría que te hicieran a ti (131:2.11) (131:3.6) (131:4.6) (131:9.4) (131:10.7)
+	* el primer mandamiento es: ten amor por el padre, el cabeza de familia, y el segundo mandamiento es: tened un amor mutuo entre los hijos, ama a tu hermano como a sí mismo (142:7.4) (163:4.8)
+	* amad a los demás como Jesús nos amó a nosotros (147:4.9) (180:5.5-11)
 
 Gólgota | | | PLACE | OK
 El Gólgota era el lugar oficial de las crucifixiones en Jerusalén (187:1.4)
@@ -1847,57 +1891,60 @@ técnica de servicio
 	no hay comunicación con los Ajustadores residentes de los sujetos (113:4.5) (113:5.1)
 	los contactos físicos con la humanidad son muy inusuales (113:5.5)
 
-guardianes del destino | (113) (39:8.5-8) | ángeles guardianes; resurrección; Serafines | ORDER | 
+guardianes del destino; guardián personal; guardianes seráficos del destino | (113) (39:8.5-8) | ángeles guardianes; resurrección; Serafines | ORDER | OK
 después de la muerte de los sujetos
-	custodios de los patrones mentales y las realidades del alma entre la muerte y la resurrección (113:3.4) (113:6.1,5)
-	siempre en comunicación con antiguos pupilos (113:7.6)
-	Mantener las almas de los sobrevivientes como una confianza sagrada (30:4.15) (49:6.4) (113:3.4) (113:6)
-	posible resurrección inmediata de los mortales con (112:4.12) (112:5.10)
-	retener el alma, fórmulas estáticas de identidad, esenciales para la repersonalización (112:3.5) (112:5.13)
-	nueva forma morontial de los sujetos patrocinadores (30:4.15)
-	los tribunales deben absolver de la culpa si los sujetos no logran sobrevivir (108:5.10) (113:6.3)
+	los guardianes del destino son los custodios de los patrones mentales y las realidades del alma entre la muerte y la resurrección (113:3.4) (113:6.1,5)
+	El hombre y el ángel pueden estar o no reunidos en el servicio eterno, pero dondequiera que sus misiones seráficas puedan llevarlos, los serafines siempre están en comunicación con sus antiguos pupilos de los mundos evolutivos, los mortales ascendentes del tiempo. (113:7.6)
+	Durante todo el período en que los supervivientes dormidos carecen de vida, los valores espirituales y las realidades eternas de sus almas recién desarrolladas e inmortales son conservados como un depósito sagrado por los serafines guardianes personales o colectivos. (30:4.15) (49:6.4) (113:3.4) (113:6)
+	Si en el momento en que la muerte nos sorprende hemos alcanzado el tercer círculo o un nivel superior y, por lo tanto, se nos han asignado un guardián personal del destino, existe la posibilidad de una resurrección inmediata en los mundos de las mansiones (112:4.12) (112:5.10)
+	el guardián del destino retiene el alma morontial inmortal, las fórmulas estáticas de identidad, y son esenciales para la repersonalización (112:3.5) (112:5.13)
+	El guardián asignado patrocina el nuevo cuerpo, la forma morontial, como nuevo vehículo de vida para el alma inmortal y para ser habitado por el Ajustador que ha regresado. (30:4.15)
+	los tribunales deben absolver a los guardianres de la culpa si los sujetos no logran sobrevivir (108:5.10) (113:6.3)
 asignación
-	2 asignados a cada mortal; complemento de ser es registrador (113:1.8) (113:2.7,9)
-	según el logro del círculo, la consagración espiritual, la inscripción en el cuerpo de reserva (113:1.5-8) (113:2.1)
-	trajo Ajustadores antes del Espíritu de la Verdad (108:2.6)
-	de acuerdo con la inteligencia humana, la espiritualidad y el destino (113:1.2)
-	a todos los terceros círculos psíquicos (49:6.8,13) (55:4.2) (110:6.14) (113:1.8) (113:2.1)
-	a todos los mortales supervivientes de fusión con el Ajustador (39:8.5-8) (113:2.1)
-	a los reservistas (114:7.2)
+	Desarrollan un afecto duradero por sus asociados humanos (113:2.5).
+	se asignan dos guardianes a cada mortal; el complemento del ser, uno de los dos ángeles, es el registrador (113:1.8) (113:2.7,9)
+	en el logro del tercer círculo de la intelectualidad humana y la espiritualidad adquirida, o en la inscripción en el cuerpo de reserva, se adquiere un guardián personal del destino (113:1.5-8) (113:2.1)
+	la asignación de un guardián personal hacía que el Ajustador llegara enseguida antes de la época del Espíritu de la Verdad (108:2.6)
+	En un principio, los serafines fueron asignados claramente a las distintas razas de Urantia. Pero desde la donación de Miguel son asignados con arreglo a la inteligencia, la espiritualidad y el destino humanos (113:1.2)
+	se asignan guardianes personales del destino a todos los que alcanzan el tercer círculo psíquico (49:6.8,13) (55:4.2) (110:6.14) (113:1.8) (113:2.1)
+	Todos los mortales sobrevivientes destinados a fusionar con su Ajustador tienen asignados guardianes temporales, y estos asociados pueden permanecer vinculados a ellos de manera permanente cuando los supervivientes mortales alcanzan el desarrollo intelectual y espiritual necesario. (39:8.5-8) (113:2.1)
+	Cuando los seres humanos son elegidos como protectores del destino planetario, cuando se convierten en individuos esenciales en los planes que llevan a cabo los administradores del mundo, en ese momento el jefe planetario de los serafines confirma su vinculación temporal al cuerpo seráfico, y designa a unos guardianes personales del destino para que sirvan con estos reservistas mortales. (114:7.2)
 destino
-	la mayoría ingresa al cuerpos finalitarios Mortales (39:8.10)
-	par logra la bi-unificación espiritual en Serafington; fusible con fragmento de padre no Ajustador (113:7.8)
-	algunos se convierten en planificadores mentales si las barreras no sobreviven (48:6.24)
+	la mayoría ingresa en el Cuerpo de los Finalitarios Mortales (39:8.10)
+	las parejas de ángeles pueden lograr la bi-unificación espiritual en Serafington y pueden recibir un fragmento no Ajustador del Padre y fusionar con él (113:7.8)
+	algunos se convierten en planificadores mentales si sus pupilos no sobreviven (48:6.24)
 	El pasaporte seráfico más seguro al Paraíso es el servicio como guardián del destino (39:1.6) (39:8.4-5) (113:7.7)
-Desarrollar un afecto duradero por sus asociados humanos (113:2.5).
-Jesús envió a su tutor personal mientras estaba en el monte Hermón; no tuvo un tutor personal después de su bautismo (123:2.2) (134:8.2,8) (136:4.10)
-la mayoría se separa de los sujetos durante Havona (39:8.7-8)
-los intermedios son intérpretes de los guardianes del destino en luz y vida (55:4.8)
-Rantowoc primero en recibir (113:2.2)
+	la mayoría se separa de sus sujetos en Havona (39:8.7-8)
+	los seres intermedios actúan como intérpretes de los guardianes del destino en las eras de luz y vida (55:4.8)
+Asignados notables
+	Jesús envió a su guardián personal fuera de la montaña mientras estaba en el monte Hermón; ya no tuvo un guardián personal después de su bautismo (123:2.2) (134:8.2,8) (136:4.10)
+	En Urantia, el primer mortal que consiguió un guardián personal fue Rantowoc, un sabio de la raza roja de hace mucho tiempo. (113:2.2)
 técnica de servicio
-	correlacionar, unificar y personalizar las influencias espirituales impersonales para el sujeto (113:3.1-5)
-	ganar experiencia en mundos de fusión sin Ajustador (113:2.3)
-	Influir en los mortales de todas las formas compatibles con la dignidad de la personalidad (113:5.1).
-	los intermedios son indispensables (77:8.4)
-	ministerio más eficaz en luz y vida (55:4.2) (55:6.4)
-	declaración en la atenuación de las dificultades (111:7.4-5)
+	Una de las cosas más importantes que un guardián del destino hace por su sujeto mortal es efectuar una coordinación personal de las numerosas influencias espirituales impersonales que habitan, rodean e inciden en la mente y en el alma de la criatura material en evolución. (113:3.1-5)
+	Muchos guardianes han conseguido una gran experiencia valiosa en los mundos pertenecientes a la serie donde no se fusiona con el Ajustador. (113:2.3)
+	El guardián del destino os influye de todas las maneras posibles que estén de acuerdo con la dignidad de vuestra personalidad; estos ángeles no interfieren bajo ninguna circunstancia en la acción libre de la voluntad humana. (113:5.1).
+	los intermedios son imprescindibles para los serafines que ejercen como guardianes personales de los mortales. (77:8.4)
+	los guardianes seráficos del destino continúan su ministerio personal hacia los mortales que progresan en la luz; estos ángeles llegan en verdad en cantidades crecientes durante las eras establecidas, puesto que grupos cada vez más grandes de seres humanos alcanzan el tercer círculo cósmico de consecución humana coordinada durante el período de la vida planetaria. El Espíritu Santo y el ministerio de los ángeles son incluso más eficaces a medida que se experimentan las épocas sucesivas de vida establecida. (55:4.2) (55:6.4)
+	Las razas humanas de Urantia son muy difíciles de trabajar. No es raro escuchar a un guardián del destino presentar una declaración formal para excusar las dificultades que había encontrado mientras servía a su sujeto mortal. (111:7.4-5)
 
 guardianes de la salud y la vida | | cien de Caligastia | PERSON | OK
 
 invitados | | hospitalidad | | OK
 
-culpa | | perdón; vergüenza; pecado | | 
-surge de
-	fracaso para resolver las contiendas del ego (103:5.4)
-	comunión espiritual interrumpida, rebajando los ideales morales (103:4.3)
-	sentido de separación de la plena aprobación del Padre (174:1.4)
-	violar las costumbres, que no es necesariamente pecado (89:10.3-4)
+culpa | | perdón; vergüenza; pecado | | OK
+origen
+	La incapacidad para resolver este problema da origen al tipo más primitivo de sentimientos humanos de culpa. (103:5.4)
+	El sentimiento de culpa (no la conciencia del pecado) proviene, o bien de la interrupción de la comunión espiritual, o de la disminución de los ideales morales. (103:4.3)
+	El hijo es inmaduro y no comprende plenamente la profundidad de la relación entre padre e hijo; por eso experimenta con frecuencia un sentimiento de separación culpable cuando no tiene la plena aprobación de su padre, pero un verdadero padre nunca tiene conciencia de una separación semejante. (174:1.4)
+	El sentido o sentimiento de culpa es la conciencia de haber violado las costumbres; no es necesariamente un pecado. (89:10.3-4)
 lidiar con la culpa
-	No se sienta abatido por no olvidar experiencias lamentables (156:5.8)
-	Jesús destruyó la base de todo lo ficticio culpa (103:4.4)
-	negarse a albergar sentimientos de culpa (156:2.7)
-detectado por pruebas de veneno, fuego y dolor (70:10.5-7)
-Pedro aplastado después de negar a Jesús (184:2.8-9,13)
+	No nos sintamos abatidos por nuestra incapacidad para olvidar completamente algunas de nuestras experiencias más lamentables. (156:5.8)
+	Jesús destruyó las bases de toda esta culpabilidad ficticia y de este sentimiento de aislamiento en el universo al afirmar que el hombre es un hijo de Dios; la relación entre la criatura y el Creador fue puesta sobre la base de una relación entre padre e hijo. (103:4.4)
+	Jesús dijo: «Mis discípulos no solamente deben dejar de hacer el mal, sino aprender a hacer el bien; no sólo tenéis que purificaros de todo pecado consciente, sino que tenéis que negaros incluso a albergar sentimientos de culpa. (156:2.7)
+Pruebas de culpabilidad antiguas
+	El Antiguo Testamento relata una de estas ordalías, una prueba de culpabilidad matrimonial: Sus métodos primitivos para descubrir los crímenes consistían en utilizar las ordalías del veneno, el fuego y el dolor. (70:10.5-7)
+Pedro
+	Pedro quedó acongojado y abatido por el sentimiento de culpa después de negar a Jesús (184:2.8-9,13)
 
 guitas | | | RACE | OK
 Cerca del año 2500 a. de J.C., los sumerios sufrieron graves derrotas a manos de los suitas y los guitas del norte. (78:8.10)

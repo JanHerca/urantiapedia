@@ -60,7 +60,7 @@ involvement in Michael’s earth bestowal (189:0.1)
 curiosities
 	in New Zealand a tribe adopted a Christianity that supposedly received revelations from Gabriel that relaxed sexual practices. This religious movement is called Pai Marire or Hauhau (92:2.5)
 
-Gad | | | RACE | 
+Gad | | | RACE | OK
 Gad was a reputed tribe of Israel (128:1.14)
 > https://en.wikipedia.org/wiki/Tribe_of_Gad
 
@@ -228,11 +228,13 @@ in most developed continental nation criminals executed in gas chambers (72:10.1
 
 gastropods | (59:2.12) (59:3.7) | | | OK
 
-gate beautiful | | | PLACE | 
-in Jerusalem temple (162:4.3)
+gate beautiful; Beautiful Gate | | Jerusalem; Jerusalem temple| PLACE | OK
+One of the gates in Jerusalem temple, mentioned by Acts of Apostles (162:4.3)
+> https://en.wikipedia.org/wiki/Beautiful_Gate
 
-Gath | | | PLACE | 
-Philistines ordered King David off field at (97:9.5)
+Gath | | | PLACE | OK
+Philistines ordered King David off field at Gath. They feared he might go over to Saul. (97:9.5)
+> https://en.wikipedia.org/wiki/Gath_(city)
 
 Gautama Siddhartha | (94:7) | Buddha; Buddhism | PERSON | OK
 Siddartha was a great teacher of the 6th century BC, the son of an unimportant chieftain who ruled in a valley of the Himalayas
@@ -262,11 +264,13 @@ Gavalia is the firstborn and chief of the Brilliant Evening Stars in Nebadon (37
 his ascendant associate is named Galantia, the first to attain this status in Nebadon (37:2.6)
 he is the author of Urantia paper 119 (119:0.1)
 
-Gaza | (134:7.4) (194:4.13) | | PLACE | 
-Jesus passed
+Gaza | | | PLACE | OK
+Jesus passed here in his personal voyage through Syria and Palestine (134:7.4) (194:4.13)
+> https://en.wikipedia.org/wiki/Gaza_City
 
-Geba | (134:7.5) | | PLACE | 
-Jesus passed
+Geba | | | PLACE | OK
+Jesus passed here in his personal voyage through Syria and Palestine (134:7.5)
+> https://en.wikipedia.org/wiki/Geba_(city)
 
 Gehenna | | | PLACE | OK
 bodies of crucified thieves were taken to Gehenna (188:1.5)
@@ -281,69 +285,82 @@ There was a general council of Jesus' followers in Philadelphia (167:0.3) (167:2
 Genesis, Book of; story | | | | OK
 The story of creating Eve out of Adam’s rib is a confused condensation of the Adamic arrival and the celestial surgery connected with the interchange of living substances associated with the coming of the corporeal staff of the Planetary Prince more than four hundred and fifty thousand years previously. (74:8.3)
 
-genetics | | eugenics; handicaps; hybridization; races | | 
-dominant gene normally improves hybrid (82:6.7)
-evolution produced many apparently useless forms of transition life (65:4.10-12)
-genetic handicaps cannot invalidate presence of Adjuster (5:1.4-7) (5:5.13-14)
-genetics underlies all ability, all character (44:8.2) (76:2.6)
-gland chemistry influences imagination, spiritual receptivity (49:5.19)
-good environment cannot overcome character handicaps of base heredity (76:2.6)
+genetics | | eugenics; handicaps; hybridization; races | | OK
+Hybridization makes for species improvement because of the role of the dominant genes. Racial intermixture increases the likelihood of a larger number of the desirable dominants being present in the hybrid. (82:6.7)
+importance of genetic inheritance
+	genetics underlies all ability and all character (44:8.2) (76:2.6)
+	certain gland's chemistry influences inherent imagination and spiritual receptivity (49:5.19)
+	mortals differ in innate endowments and acquired qualities (69:3.8) (70:8.1) (100:7.8)
+	While inherited urges cannot be fundamentally modified, emotional responses to such urges can be changed; therefore the moral nature can be modified, character can be improved. (140:4.8)
+	The play and humor of the present-day races are largely derived from the Adamic stock. (74:6.7)
+	Religious experience is markedly influenced by physical health, inherited temperament, and social environment. (100:1.6)
+	Religion is the mighty lever that lifts civilization from chaos, but it is powerless apart from the fulcrum of sound and normal mind resting securely on sound and normal heredity. (70:8.18)
+	While a good environment cannot contribute much toward really overcoming the character handicaps of a base heredity, a bad environment can very effectively spoil an excellent inheritance, at least during the younger years of life. (76:2.6)
+	It often requires ages upon ages to recoup the damage occasioned by the loss of a single superior strain of human heredity. (49:1.7)
+genetics at heavens
+	morontia life removes all genetic handicaps (44:8.3) (109:5.5)
+	Limitations of intellect, curtailment of education, deprivation of culture, impoverishment of social status, even inferiority of the human standards of morality resulting from the unfortunate lack of educational, cultural, and social advantages, cannot invalidate the presence of the divine spirit in such unfortunate and humanly handicapped but believing individuals. (5:1.4-7) (5:5.13-14)
+genetic evolution
+	On Urantia the endeavors of the Life Carriers to improve the Satania life patterns necessarily resulted in the production of many apparently useless forms of transition life. (65:4.10-12)
+	The process of planetary evolution is orderly and controlled. The selected and superior strains of living protoplasm are jealously and intelligently guarded when once they make their appearance. (49:1.7)
+	each generation now tends to eliminate from the reproductive stream of the race those individuals in whom parental instinct is insufficiently strong to insure the procreation of children, the prospective parents of the next generation. (84:7.7)
 historically
-	70 generations between dawn mammals and mid-mammals (61:6.1) (62:2.6)
-	Abraham arrived in expected generation (93:5.3)
-	Andite strain stimulated innately able yellow race (79:6.7) (79:7.3)
-	Caligastia 100 taught selective animal breeding (66:5.4)
-	chromosomes on Prince’s staff reorganized by life circuits (77:2.2,5)
+	there was exactly 70 generations between dawn mammals and mid-mammals (61:6.1) (62:2.6)
+	Between primitive tribes, family feuds increased, tribal wars broke out, and serious losses were sustained among the very best elements of the more able and advanced groups. Some of these losses were irreparable; some of the most valuable strains of ability and intelligence were forever lost to the world. This early race and its primitive civilization were threatened with extinction by this incessant warfare of the clans. (63:4.8)
+	chromosomes on Prince’s staff are reorganized more after the patterns of the standardized Satania specialization by powerful life-maintenance circuits of the Satania system (77:2.2,5)
+	The one hundred asistants of Caligastia taught selective animal breeding to mankind (66:5.4)
+	tremendous gains resulted from the small amount of the blood of the violet race which the evolutionary peoples incidentally secured. (48:4.13,17) (52:3.6) (74:7.23) | Andites
+	The northern Chinese received just enough of the Andite strain to mildly stimulate their innately able minds but not enough to fire them with the restless, exploratory curiosity so characteristic of the northern white races. (79:6.7) (79:7.3)
+	Abraham arrived in an expected generation by the Melchizedek receivers (93:5.3)
+	Moses’ unusual versatility and adaptability was derived from mixed ancestry. His mother was egyptian and his father was semitic. (96:3.1)
 	Jesus did not interfere with biologic evolution (120:3.5,8)
-	Moses’ unusual versatility and adaptability derived from mixed ancestry (96:3.1)
-	race is decisive factor in evolution of culture (81:6.4)
+	race is one of decisive factors in evolution of culture (81:6.4)
 	racial deterioration contributed to Roman decline (133:0.2) (195:3.8-9)
-	some early irreparable genetic losses due to wars (63:4.8)
-	tremendous gains from small amount of violet blood (48:4.13,17) (52:3.6) (74:7.23) | Andites
-individuals lacking parental instinct eliminated from reproductive stream (84:7.7)
-inherited urges cannot be fundamentally modified; responses can (140:4.8)
-jealously guard superior human strains (49:1.7)
-morontia life removes all genetic handicaps (44:8.3) (109:5.5)
-mortals differ in innate endowments (69:3.8) (70:8.1) (100:7.8)
-often requires ages to recoup loss of single superior strain of human heredity (49:1.7)
-play, humor, music largely derived from Adamites (74:6.7)
-religion powerless apart from sound and normal genetics (70:8.18)
-religious experience markedly influenced by (100:1.6)
 
 Genghis Khan | | | PERSON | OK
 The Andite military genius of the Mongols; he was a monotheist (79:1.9)
 his tribesmen still await his return (92:5.6)
 
-genius | | | | 
-civilization limited by available genius (78:2.4)
-faith may lead to fanaticism in a religious genius(196:0.6)
-fostered in continental nation (72:6.7) (72:7.1)
-Jesus’ advice regarding disposition of wealth from (132:5.8,20)
-neutralized by gravity of mediocrity (111:7.5)
-normal man is source of mutant geniuses (68:6.11)
-obligation of genius to race and nation (132:5.20)
-primitives could not distinguish genius from insanity (88:1.9)
-primitives looked upon genius as possessed by wise spirit (88:1.10)
+genius; geniuses | | | | OK
+Primitive man could not distinguish between genius and insanity; idiots were either beaten to death or revered as fetish personalities. (88:1.9)
+Many people looked upon geniuses as fetish personalities possessed by a wise spirit. (88:1.10)
+every civilization is limited by available natural resources, inherent genius, and sufficient leisure to insure inventive fruition (78:2.4)
+In a religious genius, strong spiritual faith so many times leads directly to disastrous fanaticism, to exaggeration of the religious ego, but it was not so with Jesus. (196:0.6)
+Jesus’ advice regarding disposition of wealth was: “If you chance to secure wealth by flights of genius, if your riches are derived from the rewards of inventive endowment, do not lay claim to an unfair portion of such rewards. The genius owes something to both his ancestors and his progeny; likewise is he under obligation to the race, nation, and circumstances of his inventive discoveries” (132:5.8,20)
+the flight of genius is neutralized by the gravity of mediocrity (111:7.5)
+The normal man should be fostered; he is the backbone of civilization and the source of the mutant geniuses of the race. (68:6.11)
+genius and creative originality are very much fostered in the main continental nation of a closer inhabited planet (72:6.7) (72:7.1)
 
-Gennesaret | (152:6) (156:6.3) | | PLACE | 
-A Galilee region Jesus was there
+Gennesaret | | | PLACE | OK
+A region of the Sea of Galilee where Jesus was resting after the events of the feeding of the five thousand. (152:6)
+This is where Jesus and the twelve ended their journey back from Phoenicia on August 1, 29. (156:6.3)
 
-gentiles | | heathen | RACE | 
-court of gentiles in Jerusalem temple (121:2.5)
-in times of Jesus; religions of (121:3,5)
+gentiles | | heathen | RACE | OK
+Each Jewish synagogue tolerated a fringe of gentile believers, “devout” or “God-fearing” men, and it was among this fringe of proselytes that Paul made the bulk of his early converts to Christianity. Even the temple at Jerusalem possessed its ornate court of the gentiles. (121:2.5)
+in Jesus times Gentile philosophies were: (121:4)
+	* The Epicurean (121:4.2) | Epicureanism
+	* The Stoic(121:4.3) | Stoicism (religion)
+	* The Cynic (121:4.4) | cynicism (attitude)
+	* The Skeptic (121:4.5) | Skepticism (religion)
+in Jesus times Gentile religions were: (121:5)
+	* The pagan cults (121:5.3)
+	* Emperor worship (121:5.4) | emperor worship
+	* Astrology (121:5.5) | astrology
+	* The mystery religions (121:5.6) | mystery cults
 Jews
 	looked upon gentiles with contempt (121:7.1)
-	mingled more freely with gentiles in Galilee (123:5.7)
-	morally superior to gentiles (121:4.1) (121:5.17)
+	 In Galilee the Jews mingled more freely with the gentiles than was their practice in Judea. (123:5.7)
+	The gentiles were, from a moral standpoint, somewhat inferior to the Jews, but there was present in the hearts of the nobler gentiles abundant soil of natural goodness and potential human affection (121:4.1) 
+	Morality among the gentiles was not necessarily related to either philosophy or religion. Outside of Palestine it not always occurred to people that a priest of religion was supposed to lead a moral life. (121:5.17)
 
 gentleness | | | | OK
 gentleness is one of fruits of the Spirit, an increasing exhibition of the characteristics of the Spirit in the life reactions (34:6.13)
 
-geography | | climate; continents; mountains; oceans; rivers | | 
-China protected by its geography (79:6.12-13)
-India did not achieve hegemony due to its topography (79:2.5)
-influential in determining peace or war (81:6.5)
-protection of North America by oceans allowed unmolested development (81:6.5)
+geography | | climate; continents; mountains; oceans; rivers | | OK
+China protected by its geography, by the mountains to the west and the Pacific to the east (79:6.12-13)
+The failure of India to achieve the hegemony of Eurasia was largely a matter of topography. The inferior races could not be expelled in the south because the sea surrounded everything. (79:2.5)
+The configuration of continents and other land-arrangement situations are very influential in determining peace or war. (81:6.5)
+protection of North America by oceans allowed unmolested development. Few Urantian people has had this benefit. (81:6.5)
 
 geologic ages | (59:0.1-6) | | | OK
 # Archeozoic, prelife era
@@ -387,76 +404,90 @@ geologic ages | (59:0.1-6) | | | OK
 #* Holocene, post-glacial period
 #** 35,000 years ago to the present (61:7.18)
 
-geology | | fossils; geologic ages; rocks and minerals | | 
-million-year cycle of rise and fall of continents (60:4.1)
-rock layers extensively commingled (57:8.11) (58:7.1,6)
-stone book (58:7)
+geology | | fossils; geologic ages; rocks and minerals | | OK
+The alternate periods of land and sea dominance have occurred in million-year cycles. There has been an agelong rhythm associated with this rise and fall of ocean floor and continental land levels. And these same rhythmical crustal movements will continue from this time on throughout the earth’s history but with diminishing frequency and extent. (60:4.1)
+The early crust of the earth was in a state of continual flux. Surface cooling alternated with immense lava flows. Nowhere can there be found on the surface of the world anything of this original planetary crust. It has all been mixed up too many times with extruding lavas of deep origins and admixed with subsequent deposits of the early world-wide ocean. (57:8.11) (58:7.1,6)
+All of the geological story is graphically told within the fossil pages of the vast “stone book” of world record. (58:7)
 
 Gerar | | | PLACE | OK
 after Melchizedek’s departure, Abraham moved to Gerar. There he withheld his identity due to fear (93:9.2-3)
 
-Gerasa | (128:3.2) (134:9.1) (138:9.3) (144:7.1) (152:7.1) (159:0.2) (165:0.1) (166:3) | | PLACE | 
-City in the Galilee sea shore, laso known as 
+Gerasa | | | PLACE | OK
+One of the towns of the Decapolis
+Jesus passed by with his little brother Simon when he first took him on Passover AD 17. (128:3.2)
+During his waiting period before beginning his preaching, Jesus passed through here on a trip to Jerusalem, accompanied by John Zebedee (134:9.1)
+It is one of the towns visited during the first preaching tour on the Sea of ​​Galilee, from June 23 to July 7, 26, which the twelve made alone (138:9.3)
+It is one of the towns visited during the first preaching tour of the Decapolis, from November to December 27, carried out by Jesus, his twelve apostles and the twelve apostles of John the Baptist (144:7.1)
+After his return from Phoenicia on August 29 Jesus traveled to Jerusalem and passed through Gerasa (152:7.1)
+It is one of the towns visited during the second preaching tour of the Decapolis, from August to September 29, carried out by the twelve and a group of evangelists without the continuous presence of Jesus (159:0.2)
+It is one of the towns visited in the mission of Perea, the last missionary effort of Jesus in the year 30 (165:0.1)
+There Jesus gave a memorable speech about “how many will be saved” (166:3)
+> https://en.wikipedia.org/wiki/Jerash
 
 Gerizim | | Mount Gerizim | PLACE | OK
 
 germ plasm | | life plasm | | OK
 
-Germany | (59:4.8) (60:1.4) (60:2.6) | | PLACE | 
-Nordic-Danish, and Danubian-Andonite racial groups (80:9.3)
-Germans are descendants of Andite and blue races (80:4.5)
-white race dominant by 5000 B.C. (80:5.8)
+Germany | (59:4.8) (60:1.4) (60:2.6) | | PLACE | OK
+The Nordic-Danish and the Danubian-Andonite cultures met and mingled on the Rhine as is witnessed by the existence of two racial groups in Germany today. (80:9.3)
+Germans are descendants of Andite and blue races. These races were the ancestors of the so-called Nordic races, the forefathers of the Scandinavian, German, and Anglo-Saxon peoples. (80:4.5)
+By 5000 B.C. the evolving white races were dominant throughout all of northern Europe, including northern Germany, northern France, and the British Isles. (80:5.8)
 
 Geshur | | | PLACE | OK
 Talmai was king of Geshur and David married a daughter of him (97:9.10)
 
-gesture; Gesture | | | | 
+gesture; Gesture | | | | OK
 Gesture, being older than speech, was the more holy and magical, and mimicry was believed to have strong magical power. (88:6.4) (92:2.2)
 
-Gethsemane | (178) (182) (183) (147:2.2) (176:3) (177:3) | | PLACE | 
-camp on ground belonging to Simon of Bethany (173:5.5)
-Jesus alone in (182:3)
-olive press near entrance to (183:0.3)
-on western slope of Mount of Olives near Kidron (142:8.4)
+Gethsemane | | | PLACE | OK
+Jesus and the apostles spent the entire month of June, 27, in or near Jerusalem, and they lived for the most part in tents, which they pitched in a shaded park, or garden, known in that day as Gethsemane. This park was situated on the western slope of the Mount of Olives not far from the brook Kidron. (142:8.4)
+Jesus and the twelve returned to camp in Gethsemane on Passover 28 (147:2.2) (147:5.6)
+In his last stay at Jerusalem Jesus and the apostles pitched their tents in the hillside ravine overlooking the public camping park of Gethsemane, on a plot of ground belonging to Simon of Bethany. (173:5.5) (174:0.3) (174:4.4) (174:5.1) (175:4.1) (176:0.1-2) (177:1.5) (178:3.1) (182:0.1) (182:2.10) (183:4.8) (184:0.3) (186:3.1) (187:0.1) (190:4.1)
+Jesus was alone praying in Gethsemane before his arrest (182:3)
+there was an olive press near entrance to Gethsemane (183:0.3)
+Annas Palace was on Mount Olivet, not far from the Garden of Gethsemane (184:0.3)
+Near Gethsemane, a little above Mount Olivet, is where Jesus addressed his last words of farewell to the apostles in his last appearance, and departed (193:5.1)
+> https://en.wikipedia.org/wiki/Gethsemane
 
-ghosts | (87) | | | 
-cults were insurance against hazards of bad luck (87:0.1)
-early peoples associated ghosts with the sea (84:1.4)
+ghosts; ghost; Ghost; Ghosts; superghost | (87) | | | OK
+The ghost cult evolved as an offset to the hazards of bad luck; its primitive religious observances were the outgrowth of anxiety about bad luck and of the inordinate fear of the dead. (87:0.1)
+Many early peoples associated ghosts with the sea; hence virgins were greatly restricted in their bathing practices; young women were far more afraid of bathing in the sea at high tide than of having sex relations. (84:1.4)
+Man inherited a natural environment, acquired a social environment, and imagined a ghost environment. The state is man’s reaction to his natural environment, the home to his social environment, the church to his illusory ghost environment. (86:6)
+The most primitive idea of the human soul, the ghost, was derived from the breath-dream idea-system. (86:4.3)
+Moses persistently sought to uproot the remnants of the ghost cult among his people, even prescribing the death penalty for its practitioners. (92:5.11)
 fear of ghosts
-	disciplined and controlled primitives (68:3.3)
-	drove men into society (68:2.4,6) (68:3.1,4) (68:4.3)
-	fountainhead of ethics, religion (68:4.3) (87:1) (87:4.1)
-	prepared men’s minds for “fear of the Lord” (68:3.3)
+	The dread of the ghosts of the dead brought to light a new and amazing form of fear, an appalling and powerful terror, which contributed to whipping the loose social orders of early ages into the more thoroughly disciplined and better controlled primitive groups of ancient times. (68:3.3)
+	Primitive desires produced the original society, but ghost fear held it together and imparted an extrahuman aspect to its existence. (68:2.4,6) (68:3.1,4) (68:4.3)
+	Ghost fear drove primitive man to envision the supernatural and thus securely laid the foundations for those powerful social influences of ethics and religion which in turn preserved inviolate the mores and customs of society from generation to generation. Ghost fear was the fountainhead of all world religion; and for ages many tribes clung to the old belief in one class of ghosts. (68:4.3) (87:1) (87:4.1)
+	prepared the minds of men, through superstitious fear of the unreal and the supernatural, for the later discovery of “the fear of the Lord which is the beginning of wisdom. ” (68:3.3)
 	produced dread of being alone (84:7.17)
-	savages lived in fear of ghosts (87:3.3)
-	senseless superstition (68:3.3)
-illusory ghosts environment of primitive man (86:6)
-Moses sought to uproot ghost cults (92:5.11)
-most primitive idea of human souls (86:4.3)
+	The savage lived in fear of the ghosts of his fellows and spent his spare time planning for the safe conduct of his own ghost after death. (87:3.3)
+	it was a senseless superstition (68:3.3)
 nature and activities of ghosts
-	administered justice through medicine men (70:10.5)
-	angered ghosts caused misfortune, unhappiness (87:2.2)
-	caused disease by enticing soul out of body (90:3.4)
-	credited with supernatural powers, but not supernatural intelligence (87:1.2-5)
-	enjoyed unlimited rights but no duties (87:5.1)
-	expected at least one slave wife be buried alive with (87:2.7)
-	explained the unusual and the inexplicable (86:4.4)
-	frightened by noise (87:6.11)
-	good and bad ghosts (87:4)
-	levied continuous tribute for noninterference (87:5.1)
-	preferred to indwell objects they owned when alive (88:2.1)
-	punished those who disdained their rules (68:4.3)
-	took pleasure in discomfort of living (87:2.4) (89:0.2)
-placation long preceded coercion and supplication (87:2.1)
-rites designed to avoid, expel, or coerce (87:0.1)
-savage believed ghosts to be breath minus body (86:4.4)
-shamans howled away ghosts responsible for disease (90:4.3)
-soul concept (86:5)
-spirits of departed humans do not return or communicate (112:3.7) (146:7.2) (150:3.5)
-stratagems to hoodwink (87:1.2,5) (87:6.3-10)
-superghost doctrine not yet wholly rejected (87:5.8)
-superstition of ghosts dream still persists (68:3.3)
-supposed human origin of ghosts gods (85:6.4)
+	It was very early believed that ghosts administered justice through the medicine men and priests; this constituted these orders the first crime detectors and officers of the law. (70:10.5)
+	It was once thought that the great desire of a ghost was to be quickly “laid” so that it might proceed undisturbed to deadland. Any error was believed to be displeasing to the ghost, and an angered ghost was supposed to be a source of calamity, misfortune, and unhappiness. (87:2.2)
+	The earliest hypothesis advanced in explanation of disease and death was that spirits caused disease by enticing the soul out of the body; if it failed to return, death ensued. (90:3.4)
+	Though the savage credited ghosts with supernatural powers, he hardly conceived of them as having supernatural intelligence. (87:1.2-5)
+	Primitive man viewed the spirits and ghosts as having almost unlimited rights but no duties; the spirits were thought to regard man as having manifold duties but no rights. (87:5.1)
+	Ghosts wanted wives and servants; a well-to-do savage expected that at least one slave wife would be buried alive at his death. (87:2.7)
+	And this belief in the existence of disembodied spirits or ghosts seemed to explain the occurrence of the unusual, the extraordinary, the infrequent, and the inexplicable. (86:4.4)
+	Ghosts were supposed to be disturbed and frightened by noise; shouting, bells, and drums drove them away from the living; and these ancient methods are still in vogue at “wakes” for the dead. (87:6.11)
+	Still later the imagination of man envisioned the concept of both good and bad supernatural agencies; some ghosts never evolved to the level of good spirits. When the doctrine of good and bad spirits finally matured, it became the most widespread and persistent of all religious beliefs. Man’s early philosophy was able to reconcile spirit constancy with the vicissitudes of temporal fortune only by postulating two kinds of spirits, one good and the other bad. (87:4)
+	It was the general belief of mankind that ghosts levied a continuous tribute of service as the price of noninterference in human affairs, and the least mischance was laid to ghost activities. (87:5.1)
+	It was a supposed preference of ghosts to indwell some object which had belonged to them when alive in the flesh. (88:2.1)
+	The one thing which early established and crystallized the mores was the belief that the dead were jealous of the ways by which they had lived and died; therefore would they visit dire punishment upon those living mortals who dared to treat with careless disdain the rules of living which they had honored when in the flesh.  (68:4.3)
+	Fasting and other forms of self-denial were thought to be pleasing to the ghosts, who took pleasure in the discomfort of the living during the transition period of lurking about before their actual departure for deadland. (87:2.4) (89:0.2)
+influence in religion
+	In religion the negative program of ghost placation long preceded the positive program of spirit coercion and supplication. (87:2.1)
+	None of early religions had much to do with the recognition of Deity or with reverence for the superhuman; their rites were mostly negative, designed to avoid, expel, or coerce ghosts. (87:0.1)
+	Eventually the savage conceived of himself as a double—body and breath. The breath minus the body equaled a spirit, a ghost. (86:4.4)
+	shamans howled away ghosts responsible for disease (90:4.3)
+	All primitive tribes, except those little above animals, have developed some concept of the soul. (86:5)
+	Jesus further explained to his apostles that the spirits of departed human beings do not come back to the world of their origin to communicate with their living fellows. (112:3.7) (146:7.2) (150:3.5)
+	Man’s first efforts at defense were directed against the ghosts. As the ages passed, the living began to devise methods of resisting the dead. Many techniques were developed for frightening ghosts and driving them away (87:1.2,5) (87:6.3-10)
+	From age to age and from generation to generation, race after race has sought to improve this superghost doctrine, but no generation has ever yet dared to wholly reject it. (87:5.8)
+	superstition of ghosts in the dream still persists today (68:3.3)
+	The ghost gods, who are of supposed human origin, should be distinguished from the nature gods, for nature worship did evolve a pantheon—nature spirits elevated to the position of gods. (85:6.4)
 
 giantism | | | | OK
 mortal stature tends to decrease from the red man down to the indigo race, although on Urantia unexpected strains of giantism appeared among the green and orange peoples. (51:4.2)
@@ -473,42 +504,53 @@ Gibeonites | | | RACE | OK
 King David turned over 7 descendants of Saul to Gibeonites to be hanged (97:9.13)
 > https://en.wikipedia.org/wiki/Gibeon_(ancient_city)
 
-Gibraltar isthmus | (61:3.8) | | PLACE | 
-gave way after an earthquake (80:2.4)
-protected Mediterranean in early days of violet race (80:1.1)
+Gibraltar isthmus; isthmus of Gibraltar | (61:3.8) | | PLACE | OK
+About the time of certain climatic changes in Africa, England separated from the continent, and Denmark arose from the sea, while the isthmus of Gibraltar, protecting the western basin of the Mediterranean, gave way as the result of an earthquake, quickly raising this inland lake to the level of the Atlantic Ocean. (80:2.4)
+During the earlier days of the violet race the Mediterranean trough was protected by the Gibraltar isthmus and the Sicilian land bridge. (80:1.1)
+> https://en.wikipedia.org/wiki/Strait_of_Gibraltar
 
 Gideon | | | PERSON | OK
 The Midianites invaded the Jordan Valley in the days of Gideon (124:6.6)
+> https://en.wikipedia.org/wiki/Gideon
 
-gifts | | | | 
-consecrated will is greatest gift to God (1:1.2) (56:8.3) (196:0.10)
-every good and perfect gift is from God (2:6.3)
-God gives his children the spirit and blessings (131:10.3) (144:2.4) (146:2.6-10)
-people revel in Christmas gifts (69:5.13)
-salvation is a free gift (150:5.3,5) (167:5.1) (170:2.21) (193:1.2) (193:2.2)
+gifts; gift; offerings | | | | OK
+The affectionate dedication of the human will to the doing of the Father’s will is man’s choicest gift to God; in fact, such a consecration of creature will constitutes man’s only possible gift of true value to the Paradise Father. Jesus brought to God, as a man of the realm, the greatest of all offerings: the consecration and dedication of his own will to the majestic service of doing the divine will. (1:1.2) (56:8.3) (196:0.10)
+“Every good gift and every perfect gift comes down from the Father of lights.” (2:6.3)
+If our earth parents, being of evil tendency, know how to love their children and bestow good gifts on them, how much more must the good Father in heaven know how wisely to love his children on earth and to bestow suitable blessings upon them. (131:10.3) (144:2.4) (146:2.6-10)
+Accumulations of wealth early became the badge of social distinction. Even modern peoples revel in the lavish distribution of Christmas gifts, while rich men endow great institutions of philanthropy and learning. (69:5.13)
+Salvation is the gift of God, and righteousness is the natural fruit of the spirit-born life of sonship in the kingdom. Said Jesus: “You see, then, that the Father gives salvation to the children of men, and this salvation is a free gift to all who have the faith to receive sonship in the divine family. (150:5.3,5) (167:5.1) (170:2.21) (193:1.2) (193:2.2)
 
-Gilboa | (144) (122:7.5) (123:5.13) (124:6.1) | | PLACE | 
-conference with John’s apostles at Gilboa (144:6)
-encampment at (144:1)
-King Saul took his life at (124:6.3) (134:9.5)
-Matthew and Philip chased out of Samaritan village at (162:0.1)
-Philistines defeated Saul at (97:9.6)
+Gilboa | (144) | | PLACE | OK
+Philistines defeated Saul at Mount Gilboa. King Saul took his life there.  (97:9.6) (97:9.13) (124:6.3) (134:9.5)
+Mary and Joseph camped on the slopes of Mount Gilboa on their way to Bethlehem to register (122:7.5)
+This mount was visible from the hill near the house of Jesus in Nazareth (123:5.13)
+Jesus passed by with his parents when they first took him to Jerusalem (124:6.1) (124:6.4)
+Between the months of September and October 27 Jesus and the apostles established their camp on Mount Gilboa (144:1)
+on October 27 the apostles of Jesus held a conference with the apostles of John on Mount Gilboa (144:6)
+Matthew and Philip were expelled from a Samaritan village on the slopes of Mount Gilboa on their way to the Feast of Tabernacles in the year 29 (162:0.1)
+> https://en.wikipedia.org/wiki/Mount_Gilboa
 
-Gilead | (165:0.1) | | PLACE | 
-Perea mission
+Gilead | | | PLACE | OK
+One of the towns visited in the mission of Perea, from January 30 until the end of the life of Jesus (165:0.1)
+> https://en.wikipedia.org/wiki/Gilead
 
-Gileadites | | | RACE | 
-reputed tribe (128:1.14)
-Saul came to aid of (97:9.3)
+Gileadites; Gilead | | | RACE | OK
+Gileadites were a reputed biblical tribe (128:1.14)
+Pretentious Hebrew history begins with Saul’s rallying the northern clans to withstand an attack by the Ammonites upon their fellow tribesmen—the Gileadites—east of the Jordan. With an army of a little more than three thousand he defeated the enemy, and it was this exploit that led the hill tribes to make him king. (97:9.3)
+> https://en.wikipedia.org/wiki/Gilead
 
 giraffes | (61:4.4) | | | OK
 
-girdle | | | | 
-Jesus wore (187:2.8)
-Judas hung himself with (186:1.7)
+girdle | | | | OK
+Jesus wore a girdle (187:2.8)
+Judas hung himself with his girdle (186:1.7)
 
-Gischala | (138:9.3) (146:4.6) (156:6.3) | | PLACE | 
-Place near Galilee sea where Jesus preached
+Gischala | | | PLACE | OK
+Place near the Sea of Galilee
+The apostles preached there on their first preaching tour of the lake between June and July 26 (138:9.3)
+It is one of the towns visited during the first preaching tour of Galilee between January and March 28 (146:0.1) (146:4.6)
+Jesus and the apostles passed by on their return from Phoenicia (156:6.3)
+> https://en.wikipedia.org/wiki/Jish
 
 glaciers | | ice ages | | 
 appearance in Permian (59:6.6)
@@ -535,52 +577,53 @@ gnats | | | |
 straining at gnats (156:2.8) (185:0.4)
 straining out gnats while swallowing camel (175:1.17)
 
-goals | | ambitions; consecration of choice; destiny; progress; self-realization; will | | 
+goals; goal | | ambitions; consecration of choice; destiny; progress; self-realization; will | | OK
 achieving goals
-	ascenders never denied transient satisfaction of goal attainment (39:4.7) (44:8.3-5) (118:0.10,12)
-	assistance to achieve goals freely provided (4:3.5)
-	begun in time will be finished in eternity – if worth finishing (111:3.7)
-	by welding philosophy, religion, and science by wisdom, faith, and experience (98:2.12)
-	by yielding to spiritual forces (5:1.12)
-	creation and response to new and spirit goals (12:9.1)
-	entirely possible to attain goals set by God (1:0.5)
-	goals are creative in accordance with dedication to Father’s will (132:7.9)
-	highest happiness linked with pursuit of worthy goals (94:8.17)
-	life purpose must be jealously guarded (160:3.5)
-	religion pays any price to attain supreme goal (100:3.1)
-	spiritual exertion required to achieve goals in Havona (26:7.1)
-	with God all things are possible (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
+	While the attainment of each ascendant goal is a factual achievement, in the larger sense such goals are simply milestones on the long ascending path to Paradise. But however relative such successes may be, no evolutionary creature is ever denied the full though transient satisfaction of goal attainment. (39:4.7) (44:8.3-5) (118:0.10,12)
+	we are provided of abundant assistance to achieve our goals (4:3.5)
+	What we begin in time we will assuredly finish in eternity—if it is worth finishing. (111:3.7)
+	the ideal human estate is that in which philosophy, religion, and science are welded into a meaningful unity by the conjoined action of wisdom, faith, and experience. (98:2.12)
+	If we yield to the leadings of the spiritual forces in us and around us, you cannot fail to attain the high destiny established by a loving God as the universe goal of his ascendant creatures from the evolutionary worlds of space. (5:1.12)
+	Man’s true destiny consists in the creation of new and spirit goals and then in responding to the cosmic allurements of such supernal goals of nonmaterial value. (12:9.1)
+	Urantia mortals can hardly hope to be perfect in the infinite sense, but it is entirely possible for human beings, starting out as they do on this planet, to attain the supernal and divine goal which the infinite God has set for mortal man; and when they do achieve this destiny, they will, in all that pertains to self-realization and mind attainment, be just as replete in their sphere of divine perfection as God himself is in his sphere of infinity and eternity. (1:0.5)
+	Goals, that which the enlightened and reflective human imagination of spiritual teaching and leading wholeheartedly and unselfishly wants to do and be, becomes measurably creative in accordance with the degree of mortal dedication to the divine doing of the Father’s will. (132:7.9)
+	the highest happiness is linked with the intelligent and enthusiastic pursuit of worthy goals, and that such achievements constitute true progress in cosmic self-realization. (94:8.17)
+	the life purpose must be jealously guarded from the temptation to seek for easy and transient attainment; likewise must it be so fostered as to become immune to the disastrous threats of fanaticism. (160:3.5)
+	Religion pays any price essential to the attainment of the supreme goal, the eternal prize. (100:3.1)
+	In Havona the ascending pilgrims discover what true study and real mental effort mean as they begin to discern the nature of the still-more-taxing and far-more-arduous spiritual exertion that will be required to meet the demands of the high goal set for their achievement on the worlds of this circuit. (26:7.1)
+	“With God all things are possible; the eternal Creator is the cause of causes.” (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
 	work is important, the self is not (48:6.37)
-God deals with us on basis of our purposes (103:4.5)
-life aimless and unprofitable without worthy (140:4.9)
-milestones on long ascending path (39:4.7)
-mortal aspirations (44:8)
-not material for divinely watered souls (34:6.8)
-only goals worth striving for are spiritual, not material (100:2.6) (170:2.6)
-persons can pass judgment on worth-whileness of goals (16:7.2-4)
-rather than creeds should unify religionists (99:5.7)
-spiritual destiny conditioned by (156:5.9)
+value of goals
+	God the Father deals with man his child on the basis, not of actual virtue or worthiness, but in recognition of the child’s motivation—the creature purpose and intent. (103:4.5)
+	Without a worthy goal, life becomes aimless and unprofitable, and much unhappiness results. (140:4.9)
+	While the attainment of each ascendant goal is a factual achievement, in the larger sense such goals are simply milestones on the long ascending path to Paradise. (39:4.7)
+	divinely watered souls are all but independent of material environment as regards the joys of living and the satisfactions of earthly existence. They are spiritually illuminated and refreshed, morally strengthened and endowed. (34:6.8)
+	The only goals worth striving for are divine, spiritual, and eternal. (100:2.6) (170:2.6)
+	an animal becomes able to examine the different ways of attaining a goal and to select an approach based on accumulated experience. But a personality can also examine the goal itself and pass judgment on its worth-whileness, its value. (16:7.2-4)
+	Goals rather than creeds should unify religionists. (99:5.7)
+	Our spiritual destiny is conditioned only by our spiritual longings and purposes. (156:5.9)
 supreme goals
-	achieving perfection | perfectionattainment
-	Ascendington is ultimate status sphere (13:0.6)
-	attainment of supreme, then ultimate (0:7.10) (0:9.1)
-	attuning to divinity of indwelling Adjuster (110:3.4)
-	becoming a finaliter (14:6.39)
-	brotherhood and God-consciousness (71:4.15) (143:1.4)
-	consecration to Father’s will; loyalty to Creator Son (20:1.14)
-	ever-ascending mobilization and perfecting unification of reality in association with Paradise reality (0:7.10)
-	exploring infinity of Universal Father (14:6.40)
-	fighting battle of reality’s triumph over partial shadows (101:10.9)
-	finding God and becoming like him (1:0.3) (132:3.7)
-	finding God on Paradise (5:1.2,12) (11:9.8) (14:2.8) (48:8.1)
-	God, rest, and eternity of perfected service (24:6.1)
-	perfection of faith and service (34:6.10)
-	service (28:6.17)
-	spirit (12:8.13) (16:4.6)
-	trinitization, for some (13:1.13)
-	unification, divine coherence (2:7.7)
-	wisdom of mental and moral existence (36:5.12)
-transfer goals from time to eternity (160:1.14)
+	This is a list of the supreme goals that are before human beings:
+	* achieving perfection | perfection
+	* arrive to Ascendington, the ultimate status sphere (13:0.6)
+	* attainment of Supreme Being, and then God the Ultimate (0:7.10) (0:9.1)
+	* The great goal of human existence is to attune to the divinity of the indwelling Adjuster; the great achievement of mortal life is the attainment of a true and understanding consecration to the eternal aims of the divine spirit who waits and works within your mind. (110:3.4)
+	* becoming a finaliter (14:6.39)
+	* the social achievement of the brotherhood of man and the personal status of God-consciousness (71:4.15) (143:1.4)
+	* consecration to Father’s will and loyalty to Creator Son (20:1.14)
+	* ever-ascending mobilization and perfecting unification of reality in association with Paradise reality (0:7.10)
+	* exploring infinity of Universal Father (14:6.40)
+	* fighting battle of reality’s triumph over partial shadows (101:10.9)
+	* finding God and becoming like him (1:0.3) (132:3.7)
+	* finding God on Paradise (5:1.2,12) (11:9.8) (14:2.8) (48:8.1)
+	* the goal of the ages: God, rest, and then eternity of perfected service (24:6.1)
+	* the final attainment of the perfection of faith and service, that experience wherein we shall be “filled with all the fullness of God” (34:6.10)
+	* Service—more service, increased service, difficult service, adventurous service, and at last divine and perfect service—is the goal of time and the destination of space. (28:6.17)
+	* The goal of existence of all personalities is spirit; material manifestations are relative, and the cosmic mind intervenes between these universal opposites. (12:8.13) (16:4.6)
+	* trinitization, for some (13:1.13)
+	* The eternal quest is for unification, for divine coherence. (2:7.7)
+	* Wisdom is the goal of a purely mental and moral existence. (36:5.12)
+	In a continually changing world, in the midst of an evolving social order, it is impossible to maintain settled and established goals of destiny. Stability of personality can be experienced only by those who have discovered and embraced the living God as the eternal goal of infinite attainment. And thus to transfer one’s goal from time to eternity, from earth to Paradise, from the human to the divine, requires that man shall become regenerated, converted, be born again; that he shall become the re-created child of the divine spirit; that he shall gain entrance into the brotherhood of the kingdom of heaven. (160:1.14)
 
 goats | | | | 
 domesticated by 5000 B.C. (81:2.12)
@@ -971,42 +1014,43 @@ names
 	* Yahweh | Yahweh
 	* Zeus | Zeus
 
-gold | | | | 
-first metal sought by man (81:3.4-5)
-men journey to ends of earth for (63:5.6)
-product of lava flows in Sierras (60:3.3)
-when he tries me, I shall come forth as (3:3.2)
+gold; Gold | | | | OK
+Gold was the first metal to be sought by man; it was easy to work and, at first, was used only as an ornament. (81:3.4-5)
+They traveled far and wide in search of flint, much as present-day humans journey to the ends of the earth in quest of gold, platinum, and diamonds. (63:5.6)
+gold was the product of lava flows in Sierras (60:3.3)
+Every creature child may truly say: “He knows the way I take, and when he has tried me, I shall come forth as gold.” (3:3.2)
 
-golden age | | | | 
-ages of light and life | light and life
-erroneous belief in onetime existence of g.a.; discouraging belief (68:1.7) (74:8.13-14)
-terrible antisocial conditions for primitives (81:5.4)
-times of Onagar were golden age for primitive man (63:6.9)
-tradition of Eden lent substance to dream of a onetime (89:2.3)
+golden age | | | | OK
+The modern phrase, “back to nature,” is a delusion of ignorance, a belief in the reality of the onetime fictitious “golden age.” The only basis for the legend of the golden age is the historic fact of Dalamatia and Eden. But these improved societies were far from the realization of utopian dreams. But this ideas were discouraging since they were predicated upon a belief in retrogression rather than progression, as well as implying a vengeful Deity (68:1.7) (74:8.13-14)
+The tradition of Adam and the Garden of Eden also lent substance to the dream of a onetime “golden age” of the dawn of the races. (89:2.3)
+the truth is that the early experiences of the human race were characterized by terrible antisocial conditions (81:5.4)
+times of Onagar were, indeed, the golden age for primitive man (63:6.9)
+ages of light and life that will come to Urantia in a distant future will be truly golden ages | light and life
 
 golden calves; golden calf | | | RELIGION | OK
 Moses always was he plagued by the awkward predicament of trying to present his new and higher idea of Deity to these ignorant slaves under the guise of the ancient term Yahweh, which had always been symbolized by the golden calf of the Bedouin tribes. (96:4.3)
 the silver and golden calves symbolized the Bedouin herders’ concept of the spirit of the Sinai volcano (96:1.12) (96:5.8)
 
-golden rule | (52:5.8) (101:8.4) | commandments | | 
-adherents must maintain adequate defense (71:4.16-17)
-Andonites were taught (70:1.2)
-based on infinite worth of finite (196:2.10)
-cries out against fraud, unfairness, selfishness, and unrighteousness (54:1.8)
-levels of (140:5.1) (147:4)
-literally interpreted, golden rule may become great offense (180:5.5)
+golden rule | (52:5.8) (101:8.4) | commandments | | OK
+The “golden rulers” may establish a progressive society in which they live according to their ideals while maintaining an adequate defense against their benighted fellows who might seek either to exploit their pacific predilections or to destroy their advancing civilization. (71:4.16-17)
+The Andonites were early taught the golden rule, and, even today, their Eskimo descendants live very much by that code; custom is strong among them, and they are fairly free from violent antagonisms. (70:1.2)
+the golden rule was taught in Garden of Eden (74:7.5,18)
+Jesus golden rule was based on infinite worth of finite (196:2.10)
+The golden rule of human fairness cries out against all such fraud, unfairness, selfishness, and unrighteousness. (54:1.8)
+there are two levels of the golden rule: the brotherly love and fatherly love (140:5.1) (147:4)
+The golden rule, when literally interpreted, may become the instrument of great offense to one’s fellows. (180:5.5)
+The worship of insects and other animals was promoted by a later misinterpretation of the golden rule—doing to others (every form of life) as you would be done by. (85:3.4)
+Evolutionary religion drives home to the individual the idea of personal duty; revealed religion lays increasing emphasis on loving, the golden rule. (101:5.11)
 living the golden rule
 	ethical and moral beings can learn to live the golden rule (50:5.8)
-	restated by Jesus demands active social contact (140:10.5) (159:5.16) (178:1.12)
-	spiritual insight essential to (52:6.5)
-	understood only by living (180:5.11)
-misinterpretation of golden rule promoted worship of insects (85:3.4)
-revealed religion emphasizes (101:5.11)
-statements of the golden rule (118:8.10)
-	do unto others as you would have them do unto you (131:2.11) (131:3.6) (131:4.6) (131:9.4) (131:10.7)
-	love for father, love among children (142:7.4) (163:4.8)
-	love fellows as Jesus loved us (147:4.9) (180:5.5-11)
-taught in Garden of Eden (74:7.5,18)
+	The golden rule as restated by Jesus demands active social contact; the older negative rule could be obeyed in isolation. (140:10.5) (159:5.16) (178:1.12)
+	Only moral beings will ever seek for that spiritual insight which is essential to living the golden rule. (52:6.5)
+	the golden rule can only be comprehended by living them, by realizing their meanings in the living interpretation of the Spirit of Truth, who directs the loving contact of one human being with another. (180:5.11)
+statements of the golden rule
+	* man achieves the beginnings of spiritual brotherhood when he elects to mete out to them that treatment which he himself would be accorded, even that treatment which he conceives that God would accord them (118:8.10)
+	* do unto others as you would have them do unto you (131:2.11) (131:3.6) (131:4.6) (131:9.4) (131:10.7)
+	* the first commandment is: have love for the father, the head of the family, and the second commandment is: have a mutual love between the children, love your brother as yourself (142:7.4) (163:4.8)
+	* love fellows as Jesus loved us (147:4.9) (180:5.5-11)
 
 Golgotha | | | PLACE | OK
 Golgotha was the official crucifixion site of Jerusalem (187:1.4)
@@ -1847,57 +1891,60 @@ technique of service
 	no communication with subjects’ indwelling Adjusters (113:4.5) (113:5.1)
 	physical contacts with mankind are very unusual (113:5.5)
 
-guardians of destiny | (113) (39:8.5-8) | guardian angels; resurrection; seraphim | ORDER | 
+guardians of destiny; personal guardian | (113) (39:8.5-8) | guardian angels; resurrection; seraphim | ORDER | OK
 after subjects’ death
-	custodians of mind patterns and soul realities between death and resurrection (113:3.4) (113:6.1,5)
-	forever in communication with former wards (113:7.6)
-	hold survivors’ souls as sacred trust (30:4.15) (49:6.4) (113:3.4) (113:6)
-	possible immediate resurrection for mortals with (112:4.12) (112:5.10)
-	retain soul, static formulas of identity, essential to repersonalization (112:3.5) (112:5.13)
-	sponsor subjects’ new morontia form (30:4.15)
-	tribunals must absolve from blame if subjects fail to survive (108:5.10) (113:6.3)
+	guardians of destiny are the custodians of mind patterns and soul realities between death and resurrection (113:3.4) (113:6.1,5)
+	Man and angel may or may not be reunited in eternal service, but wherever seraphic assignment may take them, the seraphim are always in communication with their former wards of the evolutionary worlds, the ascendant mortals of time. (113:7.6)
+	Throughout the life-lapse period of the sleeping survivors the spiritual values and eternal realities of their newly evolved and immortal souls are held as a sacred trust by the personal or by the group guardian seraphim. (30:4.15) (49:6.4) (113:3.4) (113:6)
+	If, when death overtakes us, we have attained the third circle or a higher realm and therefore have had assigned to us a personal guardian of destiny there is a chance for an immediate resurrection in the mansion worlds (112:4.12) (112:5.10)
+	the guardian of destiny retain immortal morontia soul, the static formulas of identity, and are essential to repersonalization (112:3.5) (112:5.13)
+	The guardian of assignment sponsors the new body, the morontia form, as the new life vehicle for the immortal soul and for the indwelling of the returned Adjuster. (30:4.15)
+	tribunals must absolve guardians from blame if subjects fail to survive (108:5.10) (113:6.3)
 assignment
-	2 assigned to each mortal; complement of being is recorder (113:1.8) (113:2.7,9)
-	according to circle attainment, spiritual consecration, enrollment in reserve corps (113:1.5-8) (113:2.1)
-	brought Adjusters prior to Spirit of Truth (108:2.6)
-	in accordance with human intelligence, spirituality, and destiny (113:1.2)
-	to all 3rd psychic circlers (49:6.8,13) (55:4.2) (110:6.14) (113:1.8) (113:2.1)
-	to all surviving Adjuster-fusion mortals (39:8.5-8) (113:2.1)
-	to reservists (114:7.2)
+	develop abiding affection for their human associates (113:2.5)
+	two guardians are assigned to each mortal; the complement of being, one of the two angles, is the recorder (113:1.8) (113:2.7,9)
+	in the attainment of the third circle of human intellectuality and acquired spirituality, or in enrollment in reserve corps, a guardian of destiny is acquired (113:1.5-8) (113:2.1)
+	the assignment of a personal guardian brings the Adjuster forthwith prior to Spirit of Truth times (108:2.6)
+	Originally, the seraphim were definitely assigned to the separate Urantia races. But since the bestowal of Michael, they are assigned in accordance with human intelligence, spirituality, and destiny. (113:1.2)
+	guardians of destiny are assigned to all that attain the third psychic circle (49:6.8,13) (55:4.2) (110:6.14) (113:1.8) (113:2.1)
+	All surviving mortals of Adjuster-fusion destiny have temporary guardians assigned, and these associates may become permanently attached when mortal survivors attain the requisite intellectual and spiritual development. (39:8.5-8) (113:2.1)
+	When human beings are chosen as protectors of planetary destiny, when they become pivotal individuals in the plans which the world administrators are prosecuting, at that time the planetary chief of seraphim confirms their temporal attachment to the seraphic corps and appoints personal destiny guardians to serve with these mortal reservists. (114:7.2)
 destiny
 	most enter Corps of Mortal Finaliters (39:8.10)
-	pair achieves spiritual bi-unification on Seraphington; fuse with non-Adjuster Father fragment (113:7.8)
+	angelic pair can achieve spiritual bi-unification on Seraphington and can receive a non-Adjuster fragment of the Father and fuse with him (113:7.8)
 	some become mind planners if wards fail to survive (48:6.24)
 	surest seraphic passport to Paradise is service as guardian of destiny (39:1.6) (39:8.4-5) (113:7.7)
-develop abiding affection for their human associates (113:2.5)
-Jesus sent his personal guardian away while on Mount Hermon; had no personal guardian after his baptism (123:2.2) (134:8.2,8) (136:4.10)
-majority detach from subjects during Havona (39:8.7-8)
-midwayers are interpreters for guardians of destiny in light and life (55:4.8)
-Rantowoc first to receive (113:2.2)
+	majority detach from subjects during Havona (39:8.7-8)
+	midwayers act as interpreters for guardians of destiny in light and life eras (55:4.8)
+Notable assignees
+	Jesus sent his personal guardian away from the mountain while on Mount Hermon; he had no more a personal guardian after his baptism (123:2.2) (134:8.2,8) (136:4.10)
+	On Urantia the first mortal to secure a personal guardian was Rantowoc, a wise man of the red race of long ago. (113:2.2)
 technique of service
-	correlate, unify, and personalize impersonal spirit influences for subject (113:3.1-5)
-	gain experience on non-Adjuster fusion worlds (113:2.3)
-	influence mortals in every manner consistent with dignity of personality (113:5.1)
-	midwayers indispensible (77:8.4)
-	ministry more effective in light and life (55:4.2) (55:6.4)
-	statement in extenuation of difficulties (111:7.4-5)
+	One of the most important things a destiny guardian does for her mortal subject is to effect a personal co-ordination of the numerous impersonal spirit influences which indwell, surround, and impinge upon the mind and soul of the evolving material creature. (113:3.1-5)
+	Many guardians have gained much valuable experience on those worlds which are of the non-Adjuster fusion series. (113:2.3)
+	The guardian of destiny influences you in every possible manner consistent with the dignity of your personality; under no circumstances do these angels interfere with the free action of the human will. (113:5.1)
+	midwayers are indispensable to the seraphim who serve as personal guardians to mortals. (77:8.4)
+	the seraphic guardians of destiny continue their personal ministry to the progressing mortals in light; indeed such angels come in ever-increasing numbers throughout the settled ages since larger and larger groups of human beings reach the third cosmic circle of co-ordinate mortal attainment during the planetary life span. The Holy Spirit and the ministry of angels are even more effective as the successive epochs of settled life are experienced. (55:4.2) (55:6.4)
+	Human races of Urantia are very hard to work with. It is not uncommon to hear a guardian of destiny make a formal statement excusing the hardships he had encountered while serving his mortal subject. (111:7.4-5)
 
 guardians of health and life | | Caligastia one hundred | PERSON | OK
 
 guests | | hospitality | | OK
 
-guilt | | forgiveness; shame; sin | | 
-arises from
-	failure to resolve ego contentions (103:5.4)
-	interrupted spiritual communion, lowering moral ideals (103:4.3)
-	sense of separation from Father’s full approval (174:1.4)
-	violating mores, which is not necessarily sin (89:10.3-4)
+guilt | | forgiveness; shame; sin | | OK
+origin
+	Failure to resolve this problem gives origin to the earliest type of human guilt feelings. (103:5.4)
+	The sense of guilt (not the consciousness of sin) comes either from interrupted spiritual communion or from the lowering of one’s moral ideals. (103:4.3)
+	The child, being immature and lacking in the fuller understanding of the depth of the child-father relationship, must frequently feel a sense of guilty separation from a father’s full approval, but the true father is never conscious of any such separation. (174:1.4)
+	The sense or feeling of guilt is the consciousness of the violation of the mores; it is not necessarily sin. (89:10.3-4)
 dealing with guilt
-	be not downcast by failure to forget regrettable experiences (156:5.8)
-	Jesus destroyed basis of all fictitious guilt (103:4.4)
-	refuse to harbor feelings of guilt (156:2.7)
-detected by ordeals of poison, fire, and pain (70:10.5-7)
-Peter crushed after denying Jesus (184:2.8-9,13)
+	Be not downcast by our failure wholly to forget some of our regrettable experiences. (156:5.8)
+	Jesus destroyed the basis of all this fictitious guilt and sense of isolation in the universe by declaring that man is a child of God; the creature-Creator relationship was placed on a child-parent basis. (103:4.4)
+	Said Jesus: “My disciples must not only cease to do evil but learn to do well; you must not only be cleansed from all conscious sin, but you must refuse to harbor even the feelings of guilt. (156:2.7)
+Old guilt tests
+	The Old Testament records one of these ordeals, a marital guilt test:  Their early methods of detecting crime consisted in conducting ordeals of poison, fire, and pain. (70:10.5-7)
+Peter
+	Peter felt heavy of heart and crushed with the sense of guilt after denying Jesus (184:2.8-9,13)
 
 Guites | | | RACE | OK
 About 2500 B.C. the Sumerians suffered severe reverses at the hands of the northern Suites and Guites. (78:8.10)
