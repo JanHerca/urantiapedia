@@ -982,6 +982,8 @@ class TopicIndex {
 	writeIndexToWikiHTML = (dirPath, category, topicIndexEN) => {
 		let filename = null;
 		const baseName = path.basename(dirPath);
+		const emojiDone = '<img draggable="false" alt="☑️" src="/_assets/svg/twemoji/2611.svg" class="emoji">';
+		const emojiTodo = '<img draggable="false" alt="🔳" src="/_assets/svg/twemoji/1f533.svg" class="emoji">';
 		if (category === 'ALL') {
 			filename = 'topics.html';
 		} else if (category === 'PERSON') {
@@ -1062,10 +1064,11 @@ class TopicIndex {
 					}
 				}
 				const pagename = topicEN.name.replace(/ /g, '_');
-				const revised = (topic.revised ? '  &diams;' : '');
+				// const revised = (topic.revised ? '  &diams;' : '');
+				const revised = (topic.revised ? emojiDone : emojiTodo);
 				const lan = (this.language === 'en' ? '' : '/' + this.language);
 				const href = `${lan}/topic/${pagename}`;
-				html += `\t<div><a href="${href}">${topic.name}</a>${revised}</div>\r\n`;
+				html += `\t<div>${revised} <a href="${href}">${topic.name}</a></div>\r\n`;
 				if (i === topics.length - 1) {
 					html += '</div>\r\n';
 				}
