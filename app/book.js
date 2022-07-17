@@ -1410,13 +1410,14 @@ class Book {
 			let replaceErr = [];
 			let topicErr = [];
 			paper.sections.forEach(section => {
-				let stitle;
-				if (section.section_title) {
-					stitle = this.replaceSpecialChars(section.section_title)
-						.toUpperCase();
-					html += `<h2 id="p${section.section_index}"> ${stitle} </h2>\r\n`;
+				const stitle = (section.section_title ? 
+					this.replaceSpecialChars(section.section_title)
+					.toUpperCase() : null);
+				const sind = section.section_index;
+				if (stitle) {
+					html += `<h2 id="p${sind}" class="toc-header"> <a href="#p${sind}" class="toc-anchor">¶</a> ${stitle} </h2>\r\n`;
 				} else {
-					html += `<span id="p${section.section_index}"></span>\r\n`;
+					html += `<span id="p${sind}"> <a href="#p${sind}" class="toc-anchor">¶</a> </span>\r\n`;
 				}
 
 				section.pars.forEach(par => {
@@ -1566,18 +1567,8 @@ class Book {
 				text = parts[p];
 				html += ` <i>${text}</i>: `;
 
-				fs = parts[p + 1]
-					.map(n=> n.trim().replace(/^:|\.$/g, '').trim())
-					.map(n => n.split(';').map(i=>i.trim()))
-				// if (text2[0] === ':') {
-				// 	text2 = text2.substring(1).trim();
-				// 	if (text2[text2.length - 1] === '.') {
-				// 		text2 = text2.substring(0, text2.length - 1);
-				// 	}
-				// }
-				// fs = text2.split(';');
-				
-
+				fs = parts[p + 1].split(';')
+					.map(n=> n.trim().replace(/^:|\.$/g, '').trim());
 				fs.forEach((fss, i) => {
 					fss = fss.trim();
 					let chapter = null, vers = null, ver = null, ref = null, 
