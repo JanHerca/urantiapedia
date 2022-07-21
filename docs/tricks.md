@@ -1,6 +1,6 @@
 # Tricks to fix converted texts
 
-in VS Code
+## Replacements in VS Code
 
 Steps in order for certain PDF conversions to text:
 1. Replace hyphenation
@@ -38,6 +38,9 @@ Other replacements:
 * Bible references to links
     - Search (regex): `Gn (\d{1,2}):(\d{1,2})`
     - Replace: `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
+* Change quotes inside other quotes:
+    - Search (regex): `("[^"]*)(")([^"]*)(")([^"]*")`
+    - Replace: `$1“$3”$5`
 
 Other replacements: 
 í => ’
@@ -49,24 +52,60 @@ Other replacements:
 Search end of sentences: [\.”\?!] 
 Search by page ref: `"par_pageref": "359.\d+"` in `./input/json/book-e*-footnotes`
 
-## Typings
+## Typings in VS Code
 
-“ ”  (Alt+q)
-«  » (Alt+w)
-‘ ’ (Alt+e)
-—
-Ö => ...
-±
-°
+- “ ”  (Alt+q)
+- «  » (Alt+w)
+- ‘ ’ (Alt+e)
+
+For previous shortcuts in VS Code goto `File > Preferences > Keyboard shortcuts` and click in small button `Open keyboard shortcuts (JSON)`. That open a file in `<user>\AppData\Roaming\Code\User\keybindings.json`. Add next content to file.
+
+```json
+    { 
+        "key": "alt+t", 
+        "command": "workbench.action.tasks.runTask", 
+        "args": "tsc" 
+    },
+    {
+        "key": "alt+q",
+        "command": "editor.action.insertSnippet",
+        "args": {"snippet": "“$TM_SELECTED_TEXT$0”"},
+        "when": "editorTextFocus&&editorHasSelection"
+    },
+    {
+        "key": "alt+w",
+        "command": "editor.action.insertSnippet",
+        "args": {"snippet": "«$TM_SELECTED_TEXT$0»"},
+        "when": "editorTextFocus&&editorHasSelection"
+    },
+    {
+        "key": "alt+e",
+        "command": "editor.action.insertSnippet",
+        "args": {"snippet": "‘$TM_SELECTED_TEXT$0’"},
+        "when": "editorTextFocus&&editorHasSelection"
+    },
+    {
+        "key": "ctrl+t",
+        "command": "editor.action.transformToTitlecase"
+    }
+```
+
+Other special chars:
+- —
+- Ö => ...
+- ±
+- °
 
 omissions in quotes:
 * english . . .
 * spanish [...]
 
-## Tools
+## Other tools
 
 * Test regular expressions: https://regex101.com/
 
 * Convert pdf to markdown: https://pdf2md.morethan.io/
 
 * Convert pdf, even scanned pdf, to MS Word: https://www.onlineocr.net/
+
+* Scan books: see HOWTO_scan_books
