@@ -676,7 +676,7 @@ class TopicIndex {
 	 * then this param is required.
 	 * @return {Promise}
 	 */
-	writeToWikiHTML = (dirPath, topicIndexEN) => {
+	writeToWikijs = (dirPath, topicIndexEN) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
@@ -720,7 +720,7 @@ class TopicIndex {
 					}
 					const fileName = topicEN.name.replace(/ /g, '_');
 					const filePath = path.join(dirPath, `${fileName}.html`);
-					const p = this.writeFileToWikiHTML(filePath, topic, topicEN,
+					const p = this.writeFileToWikijs(filePath, topic, topicEN,
 						tiNames);
 					return reflectPromise(p);
 				});
@@ -743,6 +743,25 @@ class TopicIndex {
 	};
 
 	/**
+	 * Reads an entry of Topic Index in Wiki.js format.
+	 * Writes an entry of Topic Index in Wiki.js format.
+	 * @param {string} filePath Output Wiki file.
+	 * @return {Promise}
+	 */
+	readFileFromWikijs = (filePath) => {
+		return new Promise((resolve, reject) => {
+			fs.readFile(filePath, (errFile, buf) => {
+				if (errFile) {
+					reject([errFile]);
+					return;
+				}
+				const lines = buf.toString().split('\n');
+				resolve(lines);
+			});
+		});
+	};
+
+	/**
 	 * Writes an entry of Topic Index in Wiki.js format.
 	 * @param {string} filePath Output Wiki file.
 	 * @param {Object} topic Object with Topic Index entry.
@@ -752,17 +771,13 @@ class TopicIndex {
 	 * current Topic Index, in english, and with aliases.
 	 * @return {Promise}
 	 */
-	writeFileToWikiHTML = (filePath, topic, topicEN, tiNames) => {
+	writeFileToWikijs = (filePath, topic, topicEN, tiNames) => {
 		return new Promise((resolve, reject) => {
-			//Testing code
-			// if (topic.name != '1-2-3 el Primero') {
-			// 	resolve(null);
-			// 	return;
-			// }
 			if (this.onProgressFn) {
 				this.onProgressFn(filePath);
 			}
 			let html = '';
+			let html2 = '';
 			const tpath = (this.language === 'en' ? '/topic' : 
 				`/${this.language}/topic`);
 			const title = topic.name.substring(0, 1).toUpperCase() +
@@ -781,16 +796,26 @@ class TopicIndex {
 					html += '.</p>\r\n';
 				}
 			};
+			const writeFile = () => {
+				fs.writeFile(filePath, html2 + html, 'utf-8', (err) => {
+					if (err) {
+						reject(err);
+						return;
+					}
+					resolve(null);
+				});
+			};
+			
 
-			html += getWikijsHeader(title, tags);
-			html += '\r\n';
+			html2 += getWikijsHeader(title, tags);
+			html2 += '\r\n';
 			// html += `<h1>${title}</h1>\r\n`;
 
 			// const end = '\r\n\r\n';
 			// const refs = this.sortUniqueRefs(topic);
 			// let refsUsed = refs.map(ru => false);
 			const seeAlsoErr = [];
-			const seeAlsoObjs = this.sortUniqueSeeAlsoWikiHTML(topic, topicEN, 
+			const seeAlsoObjs = this.sortUniqueSeeAlsoWikijs(topic, topicEN, 
 				seeAlsoErr);
 			//TODO: Uncomment for get errors
 			// if (seeAlsoErr.length > 0) {
@@ -957,13 +982,29 @@ class TopicIndex {
 			//Add the seeAlso references at Topic level after other references
 			writeRefs(otherRefs);
 
-			fs.writeFile(filePath, html, 'utf-8', (err) => {
-				if (err) {
-					reject(err);
-					return;
-				}
-				resolve(null);
-			});
+			//Only write if content is new or file not exists
+			//Update date created avoiding a new date for it
+			this.readFileFromWikijs(filePath)
+				.then(previousLines => {
+					const curLines = (html2 + html).split('\n');
+					const prevDate = previousLines
+						.findIndex(line => line.startsWith('dateCreated:'));
+					const curDate = curLines
+						.findIndex(line => line.startsWith('dateCreated:'));
+					const changedLines = previousLines
+						.filter((line, i) => line.trim() != curLines[i].trim() && !line.startsWith('date'));
+					if (changedLines.length > 0) {
+						if (prevDate != -1 && curDate != -1) {
+							html2 = html2.replace(curLines[curDate], previousLines[prevDate]);
+						}
+						writeFile();
+						return;
+					}
+					resolve(null);
+				})
+				.catch(err2 => {
+					writeFile();
+				});
 		});
 	};
 
@@ -979,7 +1020,7 @@ class TopicIndex {
 	 * then this param is required.
 	 * @return {Promise}
 	 */
-	writeIndexToWikiHTML = (dirPath, category, topicIndexEN) => {
+	writeIndexToWikijs = (dirPath, category, topicIndexEN) => {
 		let filename = null;
 		const baseName = path.basename(dirPath);
 		const emojiDone = '<img draggable="false" alt="☑️" src="/_assets/svg/twemoji/2611.svg" class="emoji">';
@@ -1097,7 +1138,7 @@ class TopicIndex {
 	 * @param {Array.<Error>} err Array of errors.
 	 * @return {Array.<Object>}
 	 */
-	sortUniqueSeeAlsoWikiHTML = (topic, topicEN, err) => {
+	sortUniqueSeeAlsoWikijs = (topic, topicEN, err) => {
 		let seeAlso = [];
 		let seeAlsoObj = [];
 

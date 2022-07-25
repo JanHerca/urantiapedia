@@ -1340,7 +1340,7 @@ class Book {
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * array of errors in reject function.
 	 */
-	writeToWikiHTML = (dirPath, topicIndex, topicIndexEN) => {
+	writeToWikijs = (dirPath, topicIndex, topicIndexEN) => {
 		return this.writeTo(dirPath, 'html', topicIndex, topicIndexEN);
 	};
 
@@ -1356,13 +1356,13 @@ class Book {
 	 * @return {Promise} Promise that returns null in resolve function and an
 	 * error in reject function.
 	 */
-	writeFileToWikiHTML = (filePath, paper, topicIndex, topicIndexEN) => {
+	writeFileToWikijs = (filePath, paper, topicIndex, topicIndexEN) => {
 		return new Promise((resolve, reject) => {
 			//Checks
 			let error = null;
 			const wfootnotes = (Array.isArray(paper.footnotes) &&
 				paper.footnotes.length > 0 ?
-				this.footnotesToWikiHTML(paper.footnotes) : []);
+				this.footnotesToWikijs(paper.footnotes) : []);
 			const wfnErr = wfootnotes
 				.map((wf,i) => wf === 'FOOTNOTE ERROR' ? i : null)
 				.filter(i => i != null);
@@ -1554,7 +1554,7 @@ class Book {
 	 * @param {Array.<string>} footnotes Array of footnotes.
 	 * @return {Array.<string>}
 	 */
-	footnotesToWikiHTML = (footnotes) => {
+	footnotesToWikijs = (footnotes) => {
 		return footnotes.map((f, n) => {
 			let html, parts, text, text2, fs, ab, style;
 			parts = f.split('*').filter(n => n.trim() != '');
@@ -1613,7 +1613,7 @@ class Book {
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * error in reject function.
 	 */
-	writeIndexToWikiHTML = (dirPath) => {
+	writeIndexToWikijs = (dirPath) => {
 		return new Promise((resolve, reject) => {
 			const ub = Strings['bookName'].en.replace(/\s/g, '_');
 			const part0 = Strings['bookPart0'][this.language].toUpperCase();
@@ -2507,7 +2507,7 @@ class Book {
 						p = this.writeFileToWikiText(filePath, paper, topicIndex);
 					} else if (format === 'html') {
 						filePath = path.join(dirPath, `${i}.${format}`);
-						p = this.writeFileToWikiHTML(filePath, paper, topicIndex,
+						p = this.writeFileToWikijs(filePath, paper, topicIndex,
 							topicIndexEN);
 					} else {
 						p = Promise.resolve(null);

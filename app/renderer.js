@@ -412,7 +412,7 @@ const handle_exeButtonClick = () => {
 				return (lan === 'en' ? Promise.resolve(null) : 
 					topicindexEN.readFromTXT(ti));
 			})
-			.then(() => book.writeToWikiHTML(htmlDir, topicindex, topicindexEN))
+			.then(() => book.writeToWikijs(htmlDir, topicindex, topicindexEN))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TO_TEX') {
@@ -438,7 +438,7 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'BOOK_INDEX_JSON_TO_WIKIJS') {
 		//Read UB (*.json) => write Indexes (*.html)
 		book.readFromJSON(jsonDir)
-			.then(() => book.writeIndexToWikiHTML(htmlDir))
+			.then(() => book.writeIndexToWikijs(htmlDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIBLE_TEX_BIBLEREF_TXT_TO_MEDIAWIKI') {
@@ -452,7 +452,7 @@ const handle_exeButtonClick = () => {
 		// Read Bible Refs (*.txt) + read Bible (*.tex) => write (*.html)
 		bibleref.readFromTXT(txtDir)
 			.then(() => bible.readFromLaTeX(latexDir))
-			.then(() => bible.writeToWikiHTML(htmlDir, bibleref))
+			.then(() => bible.writeToWikijs(htmlDir, bibleref))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIBLE_TEX_TO_BIBLEINDEX_MEDIAWIKI') {
@@ -464,7 +464,7 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'BIBLE_TEX_TO_BIBLEINDEX_WIKIJS') {
 		// Read Bible (*.tex) => write index (*.html)
 		bible.readFromLaTeX(latexDir)
-			.then(() => bible.writeIndexToWikiHTML(htmlDir))
+			.then(() => bible.writeIndexToWikijs(htmlDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	}else if (process === 'BIBLE_TEX_TO_WIKIXML') {
@@ -483,7 +483,7 @@ const handle_exeButtonClick = () => {
 		// Read TopicIndex (*.txt) => write (*.html)
 		if (lan === 'en') {
 			topicindex.readFromTXT(txtDir, category, letter)
-				.then(() => topicindex.writeToWikiHTML(htmlDir))
+				.then(() => topicindex.writeToWikijs(htmlDir))
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
 		} else {
@@ -492,7 +492,7 @@ const handle_exeButtonClick = () => {
 					const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
 					return topicindexEN.readFromTXT(ti, category);
 				})
-				.then(() => topicindex.writeToWikiHTML(htmlDir, topicindexEN))
+				.then(() => topicindex.writeToWikijs(htmlDir, topicindexEN))
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
 		}
@@ -506,7 +506,7 @@ const handle_exeButtonClick = () => {
 		// Read TopicIndex index (*.txt) => write (*.html)
 		if (lan === 'en') {
 			topicindex.readFromTXT(txtDir, category, letter)
-				.then(() => topicindex.writeIndexToWikiHTML(htmlDir, category))
+				.then(() => topicindex.writeIndexToWikijs(htmlDir, category))
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
 		} else {
@@ -515,7 +515,7 @@ const handle_exeButtonClick = () => {
 					const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
 					return topicindexEN.readFromTXT(ti, category);
 				})
-				.then(() => topicindex.writeIndexToWikiHTML(htmlDir, category, 
+				.then(() => topicindex.writeIndexToWikijs(htmlDir, category, 
 					topicindexEN))
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
@@ -561,7 +561,7 @@ const handle_exeButtonClick = () => {
 			.then(() => {
 				const topic = topicindex.topics.find(t => t.name === 'triune-origin beings');
 				return new Promise((resolve, reject) => {
-					topicindex.writeFileToWikiHTML(htmlDir2, topic, topic)
+					topicindex.writeFileToWikijs(htmlDir2, topic, topic)
 						.then(resolve).catch(err => reject([err]));
 				});
 			})

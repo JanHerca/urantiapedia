@@ -170,7 +170,7 @@ class Bible {
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * array of errors in reject function.
 	 */
-	writeToWikiHTML = (dirPath, bibleref) => {
+	writeToWikijs = (dirPath, bibleref) => {
 		return this.writeTo(dirPath, 'html', bibleref);
 	};
 
@@ -183,13 +183,13 @@ class Bible {
 	 * @return {Promise} Promise that returns null in resolve function and an
 	 * error in reject function.
 	 */
-	writeFileToWikiHTML = (filePath, book, chapter, book_bibleref) => {
+	writeFileToWikijs = (filePath, book, chapter, book_bibleref) => {
 		return new Promise((resolve, reject) => {
 			let html = '';
 			const chIndex = parseInt(chapter.title);
 			const refs = (book_bibleref && !isNaN(chIndex) ? 
 				book_bibleref.refs.filter(r=> r.bible_chapter === chIndex) : []);
-			const wfootnotes = this.footnotesToWikiHTML(refs);
+			const wfootnotes = this.footnotesToWikijs(refs);
 			const fnStyle = (wfootnotes.length > 10 ? 
 				' style="column-width: 30em;"' : '');
 			if (isNaN(chIndex)) {
@@ -268,7 +268,7 @@ class Bible {
 	 * @param {Array.<Object>} refs References.
 	 * @return {Array.<string>}
 	 */
-	footnotesToWikiHTML = (refs) => {
+	footnotesToWikijs = (refs) => {
 		return refs.reduce((ac, cur) => {
 			const link = getWikijsBookRefLink(cur.lu_ref, this.language);
 			const html = `<i>${cur.text}</i>: ${link}. `;
@@ -304,7 +304,7 @@ class Bible {
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * array of errors in reject function.
 	 */
-	writeFullIndexToWikiHTML = (dirPath) => {
+	writeFullIndexToWikijs = (dirPath) => {
 		return new Promise((resolve, reject) => {
 			const booknames = Object.values(BibleAbbs[this.language])
 				.map(e => e[0]);
@@ -341,7 +341,7 @@ class Bible {
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * array of errors in reject function.
 	 */
-	writeIndexToWikiHTML = (dirPath) => {
+	writeIndexToWikijs = (dirPath) => {
 		return new Promise((resolve, reject) => {
 			const booknames = Object.values(BibleAbbs[this.language])
 				.map(e => e[0]);
@@ -387,7 +387,7 @@ class Bible {
 						});
 					});
 			});
-			promises.push(this.writeFullIndexToWikiHTML(indexPath));
+			promises.push(this.writeFullIndexToWikijs(indexPath));
 			Promise.all(promises).then(resolve, reject);
 		});
 	};
@@ -694,7 +694,7 @@ class Bible {
 							if (!fs.existsSync(path.join(dirPath, bookNameEN))) {
 								fs.mkdirSync(path.join(dirPath, bookNameEN));
 							}
-							p = this.writeFileToWikiHTML(filePathHTML, book, 
+							p = this.writeFileToWikijs(filePathHTML, book, 
 								chapter, book_bibleref);
 							promises.push(reflectPromise(p));
 						}
