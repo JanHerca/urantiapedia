@@ -1538,8 +1538,11 @@ class TopicIndex {
 	 */
 	getError = (...params) => {
 		const msg = params[0];
-		return new Error(
-			strformat(Strings[msg][this.language], ...params.slice(1)));
+		let text = Strings[msg][this.language];
+		if (!text) {
+			text = Strings[msg]['en'];
+		}
+		return new Error(strformat(text, ...params.slice(1)));
 	};
 };
 

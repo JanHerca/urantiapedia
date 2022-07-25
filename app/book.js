@@ -1028,7 +1028,8 @@ class Book {
 				const texts = paperFootnotes.footnotes.texts;
 				const bible_refs = paperFootnotes.footnotes.bible_refs;
 				const locations = paperFootnotes.footnotes.locations;
-				if (texts.length != bible_refs.length || 
+				if (!texts || !bible_refs || !locations ||
+					texts.length != bible_refs.length || 
 					texts.length != locations.length) {
 					errors.push(this.getError('book_invalid_number', index));
 					return;
@@ -2453,8 +2454,11 @@ class Book {
 	 */
 	getError = (...params) => {
 		const msg = params[0];
-		return new Error(
-			strformat(Strings[msg][this.language], ...params.slice(1)));
+		let text = Strings[msg][this.language];
+		if (!text) {
+			text = Strings[msg]['en'];
+		}
+		return new Error(strformat(text, ...params.slice(1)));
 	};
 
 	/**
@@ -2465,8 +2469,11 @@ class Book {
 	 */
 	addWarning = (...params) => {
 		const msg = params[0];
-		this.warnings.push(
-			strformat(Strings[msg][this.language], ...params.slice(1)));
+		let text = Strings[msg][this.language];
+		if (!text) {
+			text = Strings[msg]['en'];
+		}
+		this.warnings.push(strformat(text, ...params.slice(1)));
 	};
 
 	/**
