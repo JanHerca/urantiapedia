@@ -44,7 +44,22 @@ exports.getAllIndexes = (content, char) => {
 		indexes.push(i);
 	}
 	return indexes;
-}
+};
+
+/**
+ * Returns an error.
+ * @param  {...any} params Params.
+ * @returns {Error}
+ */
+exports.getError = (...params) => {
+	const language = params[0];
+	const msg = params[1];
+	let text = Strings[msg][language];
+	if (!text) {
+		text = Strings[msg]['en'];
+	}
+	return new Error(exports.strformat(text, ...params.slice(2)));
+};
 
 /**
  * Returns a new promise using the one passed that is always set and never
@@ -174,7 +189,7 @@ exports.readFrom = function(dirPath, format, clearFunction, readFunction, thisOb
 	return new Promise((resolve, reject) => {
 		fs.readdir(dirPath, (err, files) => {
 			if (err) {
-				reject([err]);
+				reject([exports.getError(thisObj.language, 'folder_not_exists', dirPath)]);
 				return;
 			}
 			const formats = format.split(';');
@@ -182,8 +197,7 @@ exports.readFrom = function(dirPath, format, clearFunction, readFunction, thisOb
 				return (formats.indexOf(path.extname(file)) != -1);
 			});
 			if (ffiles.length === 0) {
-				//TODO: how to localize this string?
-				reject([new Error('No se han encontrado archivos ' + format)]);
+				reject([exports.getError(thisObj.language, 'files_not_with_format', format)]);
 				return;
 			}
 			

@@ -14,7 +14,6 @@ const Articles = require('./articles');
 const Processes = require('./processes');
 const Strings = require('./strings');
 const strformat = require('./utils').strformat;
-const replaceTags = require('./utils').replaceTags;
 const extendArray = require('./utils').extendArray;
 const replaceWords = require('./utils').replaceWords;
 const getMostSimilarSentence = require('./utils').getMostSimilarSentence;
@@ -406,7 +405,11 @@ const handle_exeButtonClick = () => {
 			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TOPIC_TXT_TO_WIKIJS') {
 		book.readFromJSON(jsonDir)
-			.then(() => topicindex.readFromTXT(txtDir))
+			.then(() => topicindex.exists(txtDir))
+			.then((exists) => {
+				return (exists ? topicindex.readFromTXT(txtDir) : 
+					Promise.resolve(null));
+			})
 			.then(() => {
 				const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
 				return (lan === 'en' ? Promise.resolve(null) : 

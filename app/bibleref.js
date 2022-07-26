@@ -4,6 +4,7 @@ const BibleAbbs = require('./abb');
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
 const readFrom = require('./utils').readFrom;
+const getError = require('./utils').getError;
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -254,12 +255,7 @@ class BibleRef {
 	 * @returns {Error}
 	 */
 	getError = (...params) => {
-		const msg = params[0];
-		let text = Strings[msg][this.language];
-		if (!text) {
-			text = Strings[msg]['en'];
-		}
-		return new Error(strformat(text, ...params.slice(1)));
+		return getError(this.language, ...params);
 	};
 
 };

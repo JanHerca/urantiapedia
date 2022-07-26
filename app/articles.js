@@ -3,6 +3,7 @@
 const readFrom = require('./utils').readFrom;
 const reflectPromise = require('./utils').reflectPromise;
 const extendArray = require('./utils').extendArray;
+const getError = require('./utils').getError;
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -202,10 +203,8 @@ class Articles {
 	 * @param  {...any} params Params.
 	 * @returns {Error}
 	 */
-	 getError = (...params) => {
-		const msg = params[0];
-		return new Error(
-			strformat(Strings[msg][this.language], ...params.slice(1)));
+	getError = (...params) => {
+		return getError(this.language, ...params);
 	};
 
 };

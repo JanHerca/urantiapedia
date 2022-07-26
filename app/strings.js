@@ -1073,6 +1073,10 @@ const Strings = {
 		en: "File {0} not exists",
 		es: "El fichero {0} no existe"
 	},
+	"files_not_with_format": {
+		en: "Files with format {0} not found",
+		es: "No se han encontrado archivos {0}"
+	},
 	"proccessing": {
 		en: "Proccessing file {0}",
 		es: "Procesando fichero {0}"

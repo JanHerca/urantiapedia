@@ -16,6 +16,7 @@ const getWikijsHeader = require('./utils').getWikijsHeader;
 const getWikijsLinks = require('./utils').getWikijsLinks;
 const getWikijsBookLink = require('./utils').getWikijsBookLink;
 const getBookTitle = require('./utils').getBookTitle;
+const getError = require('./utils').getError;
 const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
@@ -1040,6 +1041,7 @@ class Book {
 						.map(f => f.replace(/\.\.$/, '.'))
 						.join(' ');
 				});
+				const usedRefs = [];
 				locations.forEach((location, i) => {
 					const par_ref = location.split('#')[0];
 					//Sentence index is the index of the sentence in paragraph
@@ -1059,9 +1061,11 @@ class Book {
 					}
 					//If the file already contains footnote marks then exit
 					//Some files has footnote marks added manually so maintain
-					if (par.par_content.indexOf('{') != -1)  {
+					if (usedRefs.indexOf(par_ref) === -1 && 
+						par.par_content.indexOf('{') != -1) {
 						return;
 					}
+					usedRefs.push(par_ref);
 					const ii = getAllIndexes(par.par_content, '.');
 					if (sentenceIndex != -1 && sentenceIndex < ii.length) {
 						const pos = ii[sentenceIndex];
@@ -2453,12 +2457,7 @@ class Book {
 	 * @returns {Error}
 	 */
 	getError = (...params) => {
-		const msg = params[0];
-		let text = Strings[msg][this.language];
-		if (!text) {
-			text = Strings[msg]['en'];
-		}
-		return new Error(strformat(text, ...params.slice(1)));
+		return getError(this.language, ...params);
 	};
 
 	/**

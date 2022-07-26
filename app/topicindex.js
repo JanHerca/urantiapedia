@@ -8,6 +8,7 @@ const testWords = require('./utils').testWords;
 const strformat = require('./utils').strformat;
 const getWikijsHeader = require('./utils').getWikijsHeader;
 const getWikijsBookRefLink = require('./utils').getWikijsBookRefLink;
+const getError = require('./utils').getError;
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -63,6 +64,31 @@ class TopicIndex {
 	//***********************************************************************
 	// TXT
 	//***********************************************************************
+
+	/**
+	 * Returns if a Topic Index exists or not.
+	 * @param {string} dirPath Input folder.
+	 * @return {Promise} Never rejects.
+	 */
+	exists = (dirPath) => {
+		return new Promise((resolve, reject) => {
+			fs.readdir(dirPath, (err, files) => {
+				if (err) {
+					resolve(false);
+					return;
+				}
+				const formats = ['.txt'];
+				const ffiles = files.filter(file => {
+					return (formats.indexOf(path.extname(file)) != -1);
+				});
+				if (ffiles.length === 0) {
+					resolve(false);
+					return;
+				}
+				resolve(true);
+			});
+		});
+	};
 
 	/**
 	 * Reads Topic Index files in TXT format from a folder.
@@ -1537,12 +1563,7 @@ class TopicIndex {
 	 * @returns {Error}
 	 */
 	getError = (...params) => {
-		const msg = params[0];
-		let text = Strings[msg][this.language];
-		if (!text) {
-			text = Strings[msg]['en'];
-		}
-		return new Error(strformat(text, ...params.slice(1)));
+		return getError(this.language, ...params);
 	};
 };
 

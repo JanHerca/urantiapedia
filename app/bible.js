@@ -12,6 +12,7 @@ const readFrom = require('./utils').readFrom;
 const getWikijsHeader = require('./utils').getWikijsHeader;
 const getWikijsLinks = require('./utils').getWikijsLinks;
 const getWikijsBookRefLink = require('./utils').getWikijsBookRefLink;
+const getError = require('./utils').getError;
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -649,12 +650,7 @@ class Bible {
 	 * @returns {Error}
 	 */
 	getError = (...params) => {
-		const msg = params[0];
-		let text = Strings[msg][this.language];
-		if (!text) {
-			text = Strings[msg]['en'];
-		}
-		return new Error(strformat(text, ...params.slice(1)));
+		return getError(this.language, ...params);
 	};
 
 	/**
