@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-Author: **Sir James Jeans, M.A., D.Sc., Sc.D., LL.D., F.R.S.**
+Author: **Sir James Jeans, M. A., D. Sc., Sc. D., LL. D., F. R. S.**
 
 ## Preface
 

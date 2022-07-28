@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Sir James Jeans, M.A., D.Sc., Sc.D., LL.D., F.R.S.**
+Author: **Sir James Jeans, M. A., D. Sc., Sc. D., LL. D., F. R. S.**
 
-<figure id="Universe_front" class="image image_resized"><img src="/image/BookFront_The_Universe_Around_Us"></figure>
+<figure id="Universe_front" class="image image_resized"><img src="/image/BookFront_The_Universe_Around_Us.png"></figure>
 
 <p style="text-align: center;">
 CAMBRIDGE <br>

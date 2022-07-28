@@ -8,11 +8,13 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Sir James Jeans, M.A., D.Sc., Sc.D., LL.D., F.R.S.**
+Autor: **Sir James Jeans, M. A., D. Sc., Sc. D., LL. D., F. R. S.**
+
+<figure id="Universe_front" class="image image_resized"><img src="/image/BookFront_The_Universe_Around_Us_es.png"></figure>
 
 <p style="text-align: center;">
 CAMBRIDGE <br>
-EN LA PRENSA UNIVERSITARIA <br>
+EN LA IMPRENTA UNIVERSITARIA <br>
 1930 <br>
 </p>
 
@@ -27,7 +29,7 @@ EN LA PRENSA UNIVERSITARIA <br>
 
 
 <p style="text-align: center;">
-Prensa de la Universidad de Cambridge <br>
+Imprenta de la Universidad de Cambridge <br>
 Fetter Lane, Londres <br>
 <br>
 Bombay, Calcuta, Madrás <br>

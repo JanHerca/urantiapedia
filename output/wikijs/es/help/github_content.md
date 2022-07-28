@@ -14,7 +14,7 @@ Las carpetas que componen el proyecto de *Urantiapedia* en Github son éstas:
 - **.vscode**: ficheros de configuración para Visual Studio Code, que es el IDE de desarrollo de las *Urantiapedia Tools*.
 - **app**: ficheros código fuente en JavaScript con la aplicación *Urantiapedia Tools*.
 - **css**: algunso ficheros CSS para mostrar mejor los ficheros Markdown.
-- **docs**: documentación del proyecto.
+- **docs**: documentación del proyecto, pero la documentación principal está en `output/wikijs/help`.
 - **input**: carpeta principal que contiene los archivos de entrada (inputs) que sirven para generar las páginas de la *Urantiapedia* para un idioma. Esta es la única carpeta que los «Editores Jefe» deben modificar del proyecto.
     * **html**: carpeta con archivos en formato HTML.
         * **book-xx**: *El Libro de Urantia* en sus diferentes traducciones en formato HTML original obtenido de la *Fundación Urantia* (`book-es`, `book-en`, etc.)
@@ -22,7 +22,7 @@ Las carpetas que componen el proyecto de *Urantiapedia* en Github son éstas:
         * **book-xx**: *El Libro de Urantia* en sus diferentes traducciones en formato JSON, pero sin las notas al pie del *Paramony* (`book-es`, `book-en`, etc.)
         * **book-xx-footnotes**: *El Libro de Urantia* en sus diferentes traducciones en formato JSON, pero con las notas al pie del *Paramony* (`book-es-footnotes`, `book-en-footnotes`, etc.)
         * **footnotes-book-xx.json**: notas al pie del *Paramony* en formato JSON.
-    * **mediawiki** [`DEPRECATED`]: carpeta con contenido antiguo en formato Wikitext para MediaWiki. La primera versión de la *Urantiapedia* se ha hecho con MediaWiki pero la actual está creada con *Wiki.js*.
+    * **mediawiki** `DEPRECATED`: carpeta con contenido antiguo en formato Wikitext para MediaWiki. La primera versión de la *Urantiapedia* se ha hecho con MediaWiki pero la actual está creada con *Wiki.js*.
         * **articles-xx**: carpetas en desuso con ejemplos de artículos en formato Wikitext.
         * **main-pages-xx**: carpetas en desuso con contenido de ayuda en formato Wikitext.
         * **modules**: módulos escritos en Lua, el lenguaje de scripting para crear templates en MediaWiki.
@@ -32,11 +32,20 @@ Las carpetas que componen el proyecto de *Urantiapedia* en Github son éstas:
         * **bible-xx**: *La Biblia* en cada una de sus traducciones en formato LaTeX (`bible-es`, `bible-en`, etc.)
     * **txt**: carpeta con los archivos en formato TXT.
         * **articles-xx**: algunos artículos de ejemplo en formato TXT.
-        * **bible-refs-xx** [`DEPRECATED`]: antigua carpeta con el *Paramony*. Este contenido ya no es necesario.
+        * **bible-refs-xx** `DEPRECATED`: antigua carpeta con el *Paramony*. Este contenido ya no es necesario.
         * **topic-index-xx**: *Índice de términos* traducido a cada idioma en formato TXT (`topic-index-es`, `topic-index-en`, etc.)
-    * **wikijs**: carpeta con el contenido para *Wiki.js* que se ha creado manualmente.
-- **output**: carpeta con los ficheros de salida que serán subidos en masa a la web *Urantipedia*. IMPORTANTE: los ficheros en esta carpeta *no deben editarse*. En lugar de eso hay que editar los ficheros en la carpeta `input` y bien o usar las *Urantiapedia Tools* para generar los ficheros de salida, o bien copiar/pegar de `input` a `output`.
+- **output**: carpeta con los ficheros de salida que serán subidos en masa a la web *Urantipedia*.
     * **wikijs**: carpeta con el contenido en los formatos soportados por *Wiki.js*.
+        * **Bible**: Contenido de la Biblia en inglés. IMPORTANTE: los ficheros en esta carpeta *no deben editarse*. En lugar de eso hay que editar los ficheros en la carpeta `input` y luego usar las *Urantiapedia Tools*.
+        * **The_Urantia_Book**: Documentos de El Libro de Urantia en inglés. IMPORTANTE: los ficheros en esta carpeta *no deben editarse*. En lugar de eso hay que editar los ficheros en la carpeta `input` y luego usar las *Urantiapedia Tools*.
+        * **article**: Artículos en inglés, organizados en carpetas por autor. Normalmente en formato.
+        * **book**: Libros en inglés, organizados en carpetas por autor. Normalmente en formato Markdown.
+        * **help**: Páginas de ayuda de la Urantiapedia en inglés. En formato Markdown.
+        * **index**: Índices en inglés. IMPORTANTE: algunos archivos de esta carpeta, aunque no todos, *no deben editarse*. En lugar de eso hay que utilizar *Urantiapedia Tools* para generarlos.
+        * **news**: Novedades mensuales del proyecto en formato Markdown e inglés.
+        * **topic**: Índice de Términos en inglés.
+        * **es**: Esta carpeta contiene la misma estructura que arriba pero para español. PAra el resto de idiomas es lo mismo: una carpeta con el código de idioma y dentro la misma estructura que arriba.
+        * **image**: Imágenes del sitio.
 
 Las carpetas marcadas como *deprecated* pueden ser ignoradas por contener material que ya no se está usando en el proceso y será seguramente eliminado en un futuro.
 

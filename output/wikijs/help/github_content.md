@@ -14,15 +14,15 @@ The folders that comprises *Urantiapedia* project on Github are these:
 - **.vscode**: configuration files for Visual Studio Code, the software used to develop *Urantiapedia Tools*.
 - **app**: source code files in JavaScript with *Urantiapedia Tools* application.
 - **css**: some CSS files to show Markdown files better.
-- **docs**: project documentation.
+- **docs**: some project documentation although main docs are in `output/wikijs/help`.
 - **input**: main folder containing input files used to generate *Urantiapedia* pages for a language. This is the only folder that "Chief Editors" should modify in the project.
     * **html**: folder with files in HTML format.
         * **book-xx**: *The Urantia Book* translations in original HTML from *Urantia Foundation* (`book-en`,` book-es`, etc.)
     * **json**: folder with files in JSON format.
         * **book-xx**: *The Urantia Book* translations in JSON format, without *Paramony* footnotes (`book-en`,` book-es`, etc.)
-        * **book-xx-footnotes**: *The Urantia Book* translations in JSON format and with *Paramony* footnotes (`book-en-footnotes`,` book-es-footenotes`, etc.)
+        * **book-xx-footnotes**: *The Urantia Book* translations in JSON format and with *Paramony* footnotes (`book-en-footnotes`,` book-es-footnotes`, etc.)
         * **footnotes-book-xx.json**: *Paramony* footnotes in JSON format.
-    * **mediawiki** [`DEPRECATED`]: folder with old files in Wikitext format for MediaWiki. First version of *Urantiapedia* was made for MediaWiki but current one is created with *Wiki.js*.
+    * **mediawiki** `DEPRECATED`: folder with old files in Wikitext format for MediaWiki. First version of *Urantiapedia* was made for MediaWiki but current one is created with *Wiki.js*.
         * **articles-xx**: old folders for article samples in Wikitext format.
         * **main-pages-xx**: old folders with help content in Wikitext format.
         * **modules**: modules written in Lua, the scripting language with which to create templates for MediaWiki.
@@ -32,11 +32,20 @@ The folders that comprises *Urantiapedia* project on Github are these:
         * **bible-xx**: *Bible* translations in LaTeX format (`bible-es`,` bible-en`, etc.)
     * **txt**: folder with the files in TXT format.
         * **articles-xx**: some sample articles in TXT format.
-        * **bible-refs-xx** [`DEPRECATED`]: old folder with *Paramony*. This content is no longer required.
+        * **bible-refs-xx** `DEPRECATED`: old folder with *Paramony*. This content is no longer required.
         * **topic-index-xx**: *Topic Index* translations in TXT format (`topic-index-es`,` topic- index-en`, etc.)
-    * **wikijs**: folder with some input content for *Wiki.js* that is created manually.
-- **output**: folder containing output files that will be bulk-uploaded in *Urantipedia* website. IMPORTANT: files in this folder *must not be edited*. Instead files in `input` folder should be updated and then either use *Urantiapedia Tools* to generate output files, or copy/paste from `input` to `output`.
+- **output**: folder containing output files that will be bulk-uploaded in *Urantipedia* website.
     * **wikijs**: folder with the content in formats that are supported by *Wiki.js*.
+        * **Bible**: Bible content in English. IMPORTANT: files in this folder *must not be edited*. Instead files in `input` folder should be updated and then use *Urantiapedia Tools*.
+        * **The_Urantia_Book**: The Urantia Book papers in English. IMPORTANT: files in this folder *must not be edited*. Instead files in `input` folder should be updated and then use *Urantiapedia Tools*.
+        * **article**: Articles in English, organized in folders by author. They are usually in Markdown format.
+        * **book**: Books in English, organized in folders by author. They are usually in Markdown format.
+        * **help**: Help pages of Urantiapedia in English. In Markdown format.
+        * **index**: Indexes in English. IMPORTANT: some files in this folder, not all, *must not be edited*. Instead they are generated using *Urantiapedia Tools*.
+        * **news**: Monthly news of the project in Markdown format & English.
+        * **topic**: Topic Index in English.
+        * **es**: This folder contains the same structure as above but for Spanish. For all other languages is the same: a folder with the language code and inside the same structure as above.
+        * **image**: Images for the site.
 
 Folders tagged as deprecated can be ignored because contain material that is no longer being used in the process and will surely be eliminated in the future.
 
