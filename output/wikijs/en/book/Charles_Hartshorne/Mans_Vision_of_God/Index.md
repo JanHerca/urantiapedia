@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Author: **Charles Hartshorne**
 
-<figure id="Mans_front" class="image image_resized"><img src="/image/BookFront_Mans_Vision_of_God"></figure>
+<figure id="Mans_front" class="image image_resized"><img src="/image/BookFront_Mans_Vision_of_God.png"></figure>
 
 <p style="text-align: center;">
 Witrett, Crark & COMPANY<br>
@@ -22,7 +22,7 @@ CHICAGO — NEW YORK <br>
 * [I. The Formally Possible Doctrines](/en/book/Charles_Hartshorne/Mans_Vision_of_God/1)
 * [II. A Program For Philosophical Theology](/en/book/Charles_Hartshorne/Mans_Vision_of_God/2)
 * [III. The Two Strands in Historical Theology](/en/book/Charles_Hartshorne/Mans_Vision_of_God/3)
-* [IV. God ann Righteousness](/en/book/Charles_Hartshorne/Mans_Vision_of_God/4)
+* [IV. God and Righteousness](/en/book/Charles_Hartshorne/Mans_Vision_of_God/4)
 * [V. The Theological Analogies and the Cosmic Organism](/en/book/Charles_Hartshorne/Mans_Vision_of_God/5)
 * [VI. God and the Beautiful](/en/book/Charles_Hartshorne/Mans_Vision_of_God/6)
 * [VII. The Divine Self-Creation](/en/book/Charles_Hartshorne/Mans_Vision_of_God/7)

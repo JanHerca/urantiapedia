@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-06-11T16:06:00.670Z
+date: 2022-07-30T10:07:46.165Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -680,6 +680,9 @@ Earth mass = $M^\odot$
 See [Mathjax](https://www.mathjax.org/)
 See [Mathjax documentation](http://docs.mathjax.org/en/latest/index.html)
 See [LaTeX Math expressions](https://www.overleaf.com/learn/latex/Mathematical_expressions)
+
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1NbCCF05Yq94NTPWBwSt_cXvLWYI&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 

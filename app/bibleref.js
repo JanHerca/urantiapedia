@@ -156,38 +156,29 @@ class BibleRef {
 		return (isNaN(parseInt(num)) ? null : parseInt(num));
 	};
 
-	translate = (dirPath, lu_book) => {
+	translate = (dirPath, ub_book) => {
 		return new Promise((resolve, reject) => {
 			const errs = [];
 			this.biblebooks.forEach(book => {
-				book.chapters.forEach(chapter => {
-					if (!chapter) {
+				book.refs.forEach(ref => {
+					if (!ref) {
 						return;
 					}
-					chapter.forEach(vers => {
-						if (!vers) {
-							return;
-						}
-						vers.forEach(ref => {
-							const bref = `${book.abb} ${ref.bible_ref}`;
-							let footnotes, subfootnotes, subfootnote;
-							if (!ref) {
-								return;
-							}
-							try {
-								footnotes = lu_book.getFootnotes(ref.lu_ref);
-								subfootnotes = lu_book.getSubFootnotes(footnotes);
-								subfootnote = subfootnotes.find(sf => {
-									return sf[1] === bref;
-								});
-								if (subfootnote) {
-									ref.text_es = subfootnote[0];
-								}
-							} catch (err) {
-								errs.push(new Error(`${err.message}: ${bref}`));
-							}
+					const bref = `${book.abb} ${ref.bible_ref}`;
+					let footnotes, subfootnotes, subfootnote;
+					
+					try {
+						footnotes = ub_book.getFootnotes(ref.lu_ref);
+						subfootnotes = ub_book.getSubFootnotes(footnotes);
+						subfootnote = subfootnotes.find(sf => {
+							return sf[1] === bref;
 						});
-					});
+						if (subfootnote) {
+							ref.text_tr = subfootnote[0];
+						}
+					} catch (err) {
+						errs.push(new Error(`${err.message}: ${bref}`));
+					}
 				});
 			});
 
@@ -197,7 +188,7 @@ class BibleRef {
 			}
 
 			const promises = this.biblebooks.map(book => {
-				const filePath = path.join(dirPath, `${book.file}_es.txt`);
+				const filePath = path.join(dirPath, book.file);
 				return reflectPromise(this.writeFileToTXT(filePath, book));
 			});
 			Promise.all(promises)
@@ -216,24 +207,15 @@ class BibleRef {
 	writeFileToTXT = (filePath, book) => {
 		return new Promise((resolve, reject) => {
 			let txt = '';
-			book.chapters.forEach(chapter => {
-				if (!chapter) {
+			book.refs.forEach(ref => {
+				if (!ref) {
 					return;
 				}
-				chapter.forEach(vers => {
-					if (!vers) {
-						return;
-					}
-					vers.forEach(ref => {
-						if (!ref) {
-							return;
-						}
-						const text_es = (ref.text_es ? ref.text_es : ref.text);
-						const problem = (ref.text_es ? '#' : 'PROBLEM');
-						txt += `${book.file}\t${ref.bible_ref}\t#\t${ref.lu_ref}/#\t` +
-							`${text_es}\t${ref.type}\t${problem}\r\n`;
-					});
-				});
+				const text_tr = (ref.text_tr ? ref.text_tr : ref.text);
+				const problem = (ref.text_tr ? '' : 'PROBLEM');
+				txt += `${book.titleEN}\t${ref.bible_ref}\t#` +
+					`\t${ref.lu_ref}/#\t${text_tr}\t${ref.type}` +
+					`\t${problem}\r\n`;
 			});
 			fs.writeFile(filePath, txt, 'utf-8', (err) => {
 				if (err) {

@@ -23,7 +23,7 @@ const Processes = {
 			es: "Traducir Refs Biblia (TXT) + LU (JSON) a TXT"
 		},
 		controls: ['dirJTextbox', 'dirTTextbox'],
-		paths: [['input','json', 'book-{0}'], ['input','txt', 'bible-refs-{0}']]
+		paths: [['input','json', 'book-{0}-footnotes'], ['input','txt', 'bible-refs-{0}']]
 	},
 	"BOOK_JSON_TO_BIBLEREF_JSON": {
 		active: true,
@@ -110,8 +110,8 @@ const Processes = {
 		controls: ['dirTTextbox', 'dirJTextbox', 'dirHTextbox'],
 		paths: [['input', 'txt', 'topic-index-{0}'],
 			['input', 'json', 'book-{0}-footnotes'], 
-			['output', 'wikijs', '{0}', 'The_Urantia_Book']],
-		emptyLan: [null, null, 'en']
+			['output', 'wikijs', '{0}', 'The_Urantia_Book']]/*,
+		emptyLan: [null, null, 'en']*/
 	},
 	"BOOK_JSON_TO_WIKIXML": {
 		active: false,
@@ -141,8 +141,8 @@ const Processes = {
 		},
 		controls: ['dirJTextbox', 'dirHTextbox'],
 		paths: [['input', 'json', 'book-{0}-footnotes'], 
-			['output', 'wikijs', '{0}', 'The_Urantia_Book']],
-		emptyLan: [null, 'en']
+			['output', 'wikijs', '{0}', 'The_Urantia_Book']]/*,
+		emptyLan: [null, 'en']*/
 	},
 	"BIBLE_TEX_BIBLEREF_TXT_TO_MEDIAWIKI": {
 		active: false,
@@ -169,7 +169,7 @@ const Processes = {
 		paths: [['input', 'txt', 'bible-refs-{0}'], 
 			['input', 'tex', 'bible-{0}', '{extraPath}'], 
 			['output', 'wikijs', '{0}', 'Bible']],
-		emptyLan: [null, null, 'en'],
+		/*emptyLan: [null, null, 'en'],*/
 		extraPath: {
 			en: 'ASV',
 			es: 'RV1960'
@@ -198,7 +198,7 @@ const Processes = {
 		controls: ['dirLTextbox', 'dirHTextbox'],
 		paths: [['input', 'tex', 'bible-{0}', '{extraPath}'],
 			['output', 'wikijs', '{0}', 'Bible']],
-		emptyLan: [null, 'en'],
+		/*emptyLan: [null, 'en'],*/
 		extraPath: {
 			en: 'ASV',
 			es: 'RV1960'
@@ -236,8 +236,8 @@ const Processes = {
 		},
 		controls: ['dirTTextbox', 'dirHTextbox', 'drpCategories', 'drpLetters'],
 		paths: [['input', 'txt', 'topic-index-{0}'], 
-			['output', 'wikijs', '{0}', 'topic']],
-		emptyLan: [null, 'en']
+			['output', 'wikijs', '{0}', 'topic']]/*,
+		emptyLan: [null, 'en']*/
 	},
 	"TOPICS_INDEX_TXT_TO_MEDIAWIKI": {
 		active: false,
@@ -257,8 +257,8 @@ const Processes = {
 		},
 		controls: ['dirTTextbox', 'dirHTextbox', 'drpCategories', 'drpLetters'],
 		paths: [['input', 'txt', 'topic-index-{0}'], 
-			['output', 'wikijs', '{0}', 'index']],
-		emptyLan: [null, 'en']
+			['output', 'wikijs', '{0}', 'index']]/*,
+		emptyLan: [null, 'en']*/
 	},
 	"REVIEW_TOPIC_TXT_LU_JSON": {
 		active: true,
@@ -306,8 +306,8 @@ const Processes = {
 		},
 		controls: ['dirJTextbox', 'dirWTextbox'],
 		paths: [['input', 'json', 'book-{0}-footnotes'], 
-			['input', 'wikijs', '{0}', 'index']],
-		emptyLan: [null, 'en']
+			['input', 'wikijs', '{0}', 'index']]/*,
+		emptyLan: [null, 'en']*/
 	},
 	"TEST": {
 		active: true,

@@ -267,16 +267,14 @@ const updateDefaultPaths = () => {
 	const prc = Processes[process];
 	const cnames = prc.controls;
 	const paths = prc.paths;
-	const extraPath = (prc.extraPath ? prc.extraPath[lan] : null);
+	const extraPath = (prc.extraPath && prc.extraPath[lan] ? 
+		prc.extraPath[lan] : '');
 	const emptyLan = prc.emptyLan;
 	cnames.forEach((c,i) => {
 		const lan2 = (emptyLan && emptyLan[i] === lan ? '' : lan);
 		if (paths && paths[i]) {
 			const folders = paths[i].map(p => {
-				if (extraPath && p === '{extraPath}') {
-					return extraPath;
-				}
-				return strformat(p, lan2);
+				return (p === '{extraPath}' ? extraPath : strformat(p, lan2));
 			}).filter(p => p != '');
 			const folderpath = path.join(app.getAppPath(), ...folders);
 			controls[c].value = folderpath;
