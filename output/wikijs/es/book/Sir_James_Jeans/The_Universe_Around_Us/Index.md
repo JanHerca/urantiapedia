@@ -18,7 +18,7 @@ EN LA IMPRENTA UNIVERSITARIA <br>
 1930 <br>
 </p>
 
-* [Prólogo](/es/book/Sir_James_Jeans/The_Universe_Around_Us/Prefacio)
+* [Prólogo](/es/book/Sir_James_Jeans/The_Universe_Around_Us/Preface)
 * [Introducción — El estudio de la astronomía](/es/book/Sir_James_Jeans/The_Universe_Around_Us/0)
 * [Capítulo I — Explorando el cielo](/es/book/Sir_James_Jeans/The_Universe_Around_Us/1)
 * [Capítulo II — Explorando el átomo](/es/book/Sir_James_Jeans/The_Universe_Around_Us/2)
