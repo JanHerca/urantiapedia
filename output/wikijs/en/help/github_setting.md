@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/devs">Developers help</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/github_content">Content of GitHub project</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Install Git on your computer
 
 1. Go to https://git-scm.com/.
@@ -116,16 +128,17 @@ As *Urantiapedia* is the effort of a team of collaborators, it is common that at
 5. In "Source control" panel go to "Remotes" subpanel. You must have a remote repositiry listed there called `JanHerca/urantiapedia`. Click in the "Fetch" button next to the name. This action does a fetch and a push at the same time to sync the local repository.
 6. Sometimes changes in "Urantiapedia Tools" code imply changes to dependencies. You must install or update new dependencies executing the command `npm install` from a terminal in VS Code. This will update dependencies for the project.
 
-## Links
-
-- [Starting with Urantiapedia](/en/help/start)
-- [Urantiapedia Content](/en/help/content)
-- [Urantiapedia - Languages supported](/en/help/languages)
-- [Admin help](/en/help/admin)
-- [Developers help](/en/help/devs)
-- [Chief Editors help](/en/help/github)
-- [Assistant Editors help](/en/help/github_assistant)
-- [Urantiapedia status - Current progress of the project](/en/help/status)
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/devs">Developers help</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/github_content">Content of GitHub project</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## External links
 

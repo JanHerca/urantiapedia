@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/principles">Principios que rigen Urantiapedia</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 <img src="/image/uplogo_opt_whiteback.svg" alt="Urantiapedia" width="150"/>
 
 ## ¿Qué es?
@@ -86,18 +98,17 @@ Los distintos roles de los colaboradores de la *Urantiapedia* son:
 Para saber más acerca de los perfiles que estamos buscando para colaborar consulta [Perfiles de colaboradores](/es/help/roles).
 
 
-## Enlaces
-
-- [Empezar con la Urantiapedia](/es/help/start)
-- [Fases del proyecto](/es/help/phases)
-- [Perfiles de colaboradores](/es/help/roles)
-- [Contenido de la Urantiapedia](/es/help/content)
-- [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para Administradores](/es/help/admin)
-- [Manual para Desarrolladores](/es/help/devs)
-- [Manual para Editores Jefe](/es/help/github)
-- [Manual para Editores Asistente](/es/help/github_assistant)
-- [Progreso actual del proyecto](/es/help/status)
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/principles">Principios que rigen Urantiapedia</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Enlaces externos
 

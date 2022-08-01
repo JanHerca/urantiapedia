@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/github_setting">Configurar el proyecto de GitHub</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/github_paramony">Traducción del Paramony</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Organización del proyecto *Urantiapedia* en GitHub
 
 Las carpetas que componen el proyecto de *Urantiapedia* en Github son éstas:
@@ -22,6 +34,8 @@ Las carpetas que componen el proyecto de *Urantiapedia* en Github son éstas:
         * **book-xx**: *El Libro de Urantia* en sus diferentes traducciones en formato JSON, pero sin las notas al pie del *Paramony* (`book-es`, `book-en`, etc.)
         * **book-xx-footnotes**: *El Libro de Urantia* en sus diferentes traducciones en formato JSON, pero con las notas al pie del *Paramony* (`book-es-footnotes`, `book-en-footnotes`, etc.)
         * **footnotes-book-xx.json**: notas al pie del *Paramony* en formato JSON.
+    * **kml**: ficheros KML y CSV usados para generar los mapass, cada uno dentro de una carpeta para cada idioma (`en`, `es`, etc.).
+    * **markdown**: ficheros Markdown temporales para artículos y libros tal como se obtienen de una conversión de los formatos PDF / DOCX o al escanear, cada uno dentro de una carpeta para cada idioma (`en`, `es`, etc.). El contenido de esta carpeta no se mantendrá en el tiempo según vaya siendo corregido y movido a la carpeta output.
     * **mediawiki** `DEPRECATED`: carpeta con contenido antiguo en formato Wikitext para MediaWiki. La primera versión de la *Urantiapedia* se ha hecho con MediaWiki pero la actual está creada con *Wiki.js*.
         * **articles-xx**: carpetas en desuso con ejemplos de artículos en formato Wikitext.
         * **main-pages-xx**: carpetas en desuso con contenido de ayuda en formato Wikitext.
@@ -31,20 +45,21 @@ Las carpetas que componen el proyecto de *Urantiapedia* en Github son éstas:
     * **tex**: carpeta con los archivos en formato LaTeX.
         * **bible-xx**: *La Biblia* en cada una de sus traducciones en formato LaTeX (`bible-es`, `bible-en`, etc.)
     * **txt**: carpeta con los archivos en formato TXT.
-        * **articles-xx**: algunos artículos de ejemplo en formato TXT.
-        * **bible-refs-xx** `DEPRECATED`: antigua carpeta con el *Paramony*. Este contenido ya no es necesario.
+        * **articles-xx**: algunos artículos de ejemplo en formato TXT (`articles-es`,`articles-en`, etc.).
+        * **bible-refs-xx**: referencias cruzadas de la Biblia a El Libro de Urantia en formato TXT (`bible-refs-es`,`bible-refs-en`, etc.).
         * **topic-index-xx**: *Índice de términos* traducido a cada idioma en formato TXT (`topic-index-es`, `topic-index-en`, etc.)
 - **output**: carpeta con los ficheros de salida que serán subidos en masa a la web *Urantipedia*.
     * **wikijs**: carpeta con el contenido en los formatos soportados por *Wiki.js*.
-        * **Bible**: Contenido de la Biblia en inglés. IMPORTANTE: los ficheros en esta carpeta *no deben editarse*. En lugar de eso hay que editar los ficheros en la carpeta `input` y luego usar las *Urantiapedia Tools*.
-        * **The_Urantia_Book**: Documentos de El Libro de Urantia en inglés. IMPORTANTE: los ficheros en esta carpeta *no deben editarse*. En lugar de eso hay que editar los ficheros en la carpeta `input` y luego usar las *Urantiapedia Tools*.
-        * **article**: Artículos en inglés, organizados en carpetas por autor. Normalmente en formato.
-        * **book**: Libros en inglés, organizados en carpetas por autor. Normalmente en formato Markdown.
-        * **help**: Páginas de ayuda de la Urantiapedia en inglés. En formato Markdown.
-        * **index**: Índices en inglés. IMPORTANTE: algunos archivos de esta carpeta, aunque no todos, *no deben editarse*. En lugar de eso hay que utilizar *Urantiapedia Tools* para generarlos.
-        * **news**: Novedades mensuales del proyecto en formato Markdown e inglés.
-        * **topic**: Índice de Términos en inglés.
-        * **es**: Esta carpeta contiene la misma estructura que arriba pero para español. PAra el resto de idiomas es lo mismo: una carpeta con el código de idioma y dentro la misma estructura que arriba.
+        * **xx**: Contenido para cada idioma en su propia carpeta (`en`, `es`, etc.). La estructura para cada idioma es la misma, y es como sigue:
+            * **article**: Artículos, organizados en carpetas por autor. Normalmente en formato.
+            * **Bible**: Contenido de la Biblia. IMPORTANTE: los ficheros en esta carpeta *no deben editarse*. En lugar de eso hay que editar los ficheros en la carpeta `input` y luego usar las *Urantiapedia Tools*.
+            * **book**: Libros, organizados en carpetas por autor. Normalmente en formato Markdown.
+            * **help**: Páginas de ayuda de la Urantiapedia. En formato Markdown.
+            * **index**: Índices. IMPORTANTE: algunos archivos de esta carpeta, aunque no todos, *no deben editarse*. En lugar de eso hay que utilizar *Urantiapedia Tools* para generarlos.
+            * **map**: Mapas. Por ahora están en formato Markdown con un *iframe* que apunta a Google Maps, pero en un futuro aquí sólo se guardarán ficheros KML.
+            * **news**: Novedades mensuales del proyecto en formato Markdown.
+            * **The_Urantia_Book**: Documentos de El Libro de Urantia. IMPORTANTE: los ficheros en esta carpeta *no deben editarse*. En lugar de eso hay que editar los ficheros en la carpeta `input` y luego usar las *Urantiapedia Tools*.
+            * **topic**: Índice de Términos.
         * **image**: Imágenes del sitio.
 
 Las carpetas marcadas como *deprecated* pueden ser ignoradas por contener material que ya no se está usando en el proceso y será seguramente eliminado en un futuro.
@@ -106,16 +121,17 @@ output
 
 Todas las carpetas indicadas arriba para la carpeta `output` se crean usando las *Urantiapedia Tools*, que esperan que ciertas carpetas existan en la carpeta `output`.
 
-## Enlaces
-
-- [Empezar con la Urantiapedia](/es/help/start)
-- [Contenido de la Urantiapedia](/es/help/content)
-- [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para Administradores](/es/help/admin)
-- [Manual para Desarrolladores](/es/help/devs)
-- [Manual para Editores Jefe](/es/help/github)
-- [Manual para Editores Asistente](/es/help/github_assistant)
-- [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/github_setting">Configurar el proyecto de GitHub</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/github_paramony">Traducción del Paramony</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Enlaces externos
 

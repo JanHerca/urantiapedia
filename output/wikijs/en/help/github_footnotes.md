@@ -8,6 +8,17 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/github_book_json">Conversion to JSON</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/github_topicindex_to_wiki">Converting Topic Index</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Adding footnotes to *The Urantia Book* requires to previously complete the following tasks:
 - Translation of *Paramony* from English to the target language. The result of this task is a file for each language (`input / json / footnotes-book-xx.json`).
@@ -24,16 +35,17 @@ To add footnotes to JSON files, follow these steps:
 
 The output files are different from the input files to avoid that if there is any problem they are unusable. The output is saved in `input / json / book-xx-footnotes` folders, where `xx` is the language code equal to the one used as the input folder.
 
-## Links
-
-- [Starting with Urantiapedia](/en/help/start)
-- [Urantiapedia Content](/en/help/content)
-- [Urantiapedia - Languages supported](/en/help/languages)
-- [Admin help](/en/help/admin)
-- [Developers help](/en/help/devs)
-- [Chief Editors help](/en/help/github)
-- [Assistant Editors help](/en/help/github_assistant)
-- [Urantiapedia status - Current progress of the project](/en/help/status)
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/github_book_json">Conversion to JSON</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/github_topicindex_to_wiki">Converting Topic Index</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## External links
 

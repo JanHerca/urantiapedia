@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/github_book_to_wiki">Conversión de El Libro de Urantia</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/github_upload">Subir contenido de forma masiva a Urantiapedia</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Los ficheros de *La Biblia* en formato LaTeX se deberán haber creado en carpetas como `input/text/bible-xx` donde `xx` es el código del idioma de destino.
 
 Para convertir estos ficheros LaTeX a formato Wiki.js hay que seguir estos pasos:
@@ -23,16 +35,17 @@ Los ficheros de salida tienen formato HTML. Se generará un archivo por cada cap
 
 Los ficheros de salida ya tienen el formato que permite subirlos directamente a la *Urantiapedia* mediante [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Ver [Subir contenido de forma masiva a Urantiapedia](/es/help/github_upload).
 
-## Enlaces
-
-- [Empezar con la Urantiapedia](/es/help/start)
-- [Contenido de la Urantiapedia](/es/help/content)
-- [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para Administradores](/es/help/admin)
-- [Manual para Desarrolladores](/es/help/devs)
-- [Manual para Editores Jefe](/es/help/github)
-- [Manual para Editores Asistente](/es/help/github_assistant)
-- [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/github_book_to_wiki">Conversión de El Libro de Urantia</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/github_upload">Subir contenido de forma masiva a Urantiapedia</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Enlaces externos
 

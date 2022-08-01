@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/github_content">Contenido del proyecto de GitHub</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/github_topicindex">Traducción y revisión del Índice de términos</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Aquí se describen los pasos necesarios para traducir el *Paramony* del inglés a otro idioma de la *Urantiapedia*. Esta es una tarea que la realizan los «Editores Jefe».
 
 El *Paramony* es un fichero con las referencias cruzadas entre la *La Biblia* y *El Libro de Urantia*. Ha sido creado usando la relación de referencias cruzadas desarrollado por Duane L. Faw ([Paramony](https://urantia-book.org/urantiabook/paramony/)), convertido de su formato original TXT a un formato JSON que es más fácil de procesar.
@@ -63,16 +75,17 @@ Ejemplo de un fragmento:
 
 > Hay que tener precaución de copiar adecuadamente las comillas tipográficas que puedan existir en los textos. Consulta aquí las comillas tipográficas válidas para cada idioma: [Quotation marks](/es/help/languages).
 
-## Enlaces
-
-- [Empezar con la Urantiapedia](/es/help/start)
-- [Contenido de la Urantiapedia](/es/help/content)
-- [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para Administradores](/es/help/admin)
-- [Manual para Desarrolladores](/es/help/devs)
-- [Manual para Editores Jefe](/es/help/github)
-- [Manual para Editores Asistente](/es/help/github_assistant)
-- [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/github_content">Contenido del proyecto de GitHub</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/github_topicindex">Traducción y revisión del Índice de términos</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Enlaces externos
 

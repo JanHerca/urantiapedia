@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/phases">Fases de la Urantiapedia</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/status">Progreso actual del proyecto</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Idiomas soportados
 
 *El Libro de Urantia* está disponible es estos idiomas:
@@ -85,16 +97,17 @@ https://translate.google.es/
 
 https://www.deepl.com/translator
 
-## Enlaces
-
-- [Empezar con la Urantiapedia](/es/help/start)
-- [Contenido de la Urantiapedia](/es/help/content)
-- [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para Administradores](/es/help/admin)
-- [Manual para Desarrolladores](/es/help/devs)
-- [Manual para Editores Jefe](/es/help/github)
-- [Manual para Editores Asistente](/es/help/github_assistant)
-- [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/phases">Fases de la Urantiapedia</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/status">Progreso actual del proyecto</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Enlaces externos
 

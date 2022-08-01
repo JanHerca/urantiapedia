@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/status">Current Status</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/admin">Administrators help</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 To collaborate with the project best way is sign up in *Blue Fields* (https://blue-fields.netlify.app/) webpage, that is a site created to join and organize *Urantia Book* readers worldwide that want to participate in smart projects, with a good purpose and altruism. Once registered the project team will contact you.
 
 The Urantiapedia project in Blue Fields has this link: [Urantiapedia in Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125).
@@ -61,19 +73,17 @@ Authors are *Assistant Editors* who, apart from being able to edit what any *Ass
 * No special computer knowledge will be necessary as the main job is done through the web.
 
 
-
-## Links
-
-- [Starting with Urantiapedia](/en/help/start)
-- [Phases of the project](/en/help/phases)
-- [Collaborator profiles](/en/help/roles)
-- [Urantiapedia Content](/en/help/content)
-- [Urantiapedia - Languages supported](/en/help/languages)
-- [Admin help](/en/help/admin)
-- [Developers help](/en/help/devs)
-- [Chief Editors help](/en/help/github)
-- [Assistant Editors help](/en/help/github_assistant)
-- [Current progress of the project](/en/help/status)
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/status">Current Status</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/admin">Administrators help</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## External links
 

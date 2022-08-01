@@ -8,6 +8,17 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/github_footnotes">Adding Paramony footnotes</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/github_book_to_wiki">Converting The Urantia Book</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 The *Topic Index* files in TXT format are created and reviewed by *Chief Editors*. These files should be left in folders like `input / txt / topic-index-xx` where `xx` is the code of the target language.
 
@@ -25,16 +36,17 @@ Output files have HTML format. A file will be generated for each topic.
 
 Output files are already in the format that allows uploading directly to *Urantiapedia* using [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) project. Check [Bulk upload content to Urantiapedia](/en/help/github_upload).
 
-## Links
-
-- [Starting with Urantiapedia](/en/help/start)
-- [Urantiapedia Content](/en/help/content)
-- [Urantiapedia - Languages supported](/en/help/languages)
-- [Admin help](/en/help/admin)
-- [Developers help](/en/help/devs)
-- [Chief Editors help](/en/help/github)
-- [Assistant Editors help](/en/help/github_assistant)
-- [Urantiapedia status - Current progress of the project](/en/help/status)
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/github_footnotes">Adding Paramony footnotes</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/github_book_to_wiki">Converting The Urantia Book</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## External links
 

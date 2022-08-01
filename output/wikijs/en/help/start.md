@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2021-11-28T13:46:33.162Z
 ---
 
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/principles">Principles ruling Urantiapedia</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 <img src="/image/uplogo_opt_whiteback.svg" alt="Urantiapedia" width="150"/>
 
 ## What is?
@@ -86,18 +98,17 @@ The different roles for *Urantiapedia* collaborators are:
 
 To find out more about the profiles we are looking to collaborate with, check [Collaborator profiles](/en/help/roles).
 
-## Links
-
-- [Starting with Urantiapedia](/en/help/start)
-- [Phases of the project](/en/help/phases)
-- [Collaborator profiles](/en/help/roles)
-- [Urantiapedia Content](/en/help/content)
-- [Urantiapedia - Languages supported](/en/help/languages)
-- [Admin help](/en/help/admin)
-- [Developers help](/en/help/devs)
-- [Chief Editors help](/en/help/github)
-- [Assistant Editors help](/en/help/github_assistant)
-- [Current progress of the project](/en/help/status)
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/principles">Principles ruling Urantiapedia</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## External links
 

@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/devs">Manual para Desarrolladores</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/github_content">Contenido del proyecto de GitHub</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Instala Git en tu PC
 
 1. Navega a https://git-scm.com/.
@@ -115,16 +127,17 @@ Como *Urantiapedia* es el esfuerzo de un equipo de colaboradores, es común que 
 5. En el panel "Source control", ve al subpanel "Remotes". Debes tener un repositorio remoto listado allí llamado `JanHerca/urantiapedia`. Haz click en el botón "Fetch" al lado del nombre. Esta acción recupera y envía cambios al mismo tiempo para sincronizar el repositorio local.
 6. A veces, los cambios en el código de las "Urantiapedia Tools" implican cambios en las dependencias. Debes instalar o actualizar nuevas dependencias ejecutando el comando `npm install` desde una terminal en VS Code. Esto actualizará las dependencias del proyecto.
 
-## Enlaces
-
-- [Empezar con la Urantiapedia](/es/help/start)
-- [Contenido de la Urantiapedia](/es/help/content)
-- [Urantiapedia - Idiomas soportados](/es/help/languages)
-- [Manual para Administradores](/es/help/admin)
-- [Manual para Desarrolladores](/es/help/devs)
-- [Manual para Editores Jefe](/es/help/github)
-- [Manual para Editores Asistente](/es/help/github_assistant)
-- [Urantiapedia status - Progreso actual del proyecto](/es/help/status)
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/devs">Manual para Desarrolladores</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/github_content">Contenido del proyecto de GitHub</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Enlaces externos
 

@@ -1,5 +1,5 @@
 ---
-title: Urantiapedia - Developers help
+title: "Urantiapedia — Developers help"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -7,6 +7,18 @@ tags:
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
+
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/devs">Assistant Editors help</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/github_setting">Setting up GitHub project</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## About Urantiapedia
 
@@ -45,16 +57,17 @@ See https://docs.requarks.io/install.
 
 See https://docs.requarks.io/install/upgrade.
 
-## Links
-
-- [Starting with Urantiapedia](/en/help/start)
-- [Urantiapedia Content](/en/help/content)
-- [Urantiapedia - Languages supported](/en/help/languages)
-- [Admin help](/en/help/admin)
-- [Developers help](/en/help/devs)
-- [Chief Editors help](/en/help/github)
-- [Assistant Editors help](/en/help/github_assistant)
-- [Urantiapedia status - Current progress of the project](/en/help/status)
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/devs">Assistant Editors help</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/github_setting">Setting up GitHub project</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## External links
 

@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/github_setting">Setting up GitHub project</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/github_paramony">Translation of Paramony</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Folders in *Urantiapedia* project on GitHub
 
 The folders that comprises *Urantiapedia* project on Github are these:
@@ -22,6 +34,8 @@ The folders that comprises *Urantiapedia* project on Github are these:
         * **book-xx**: *The Urantia Book* translations in JSON format, without *Paramony* footnotes (`book-en`,` book-es`, etc.)
         * **book-xx-footnotes**: *The Urantia Book* translations in JSON format and with *Paramony* footnotes (`book-en-footnotes`,` book-es-footnotes`, etc.)
         * **footnotes-book-xx.json**: *Paramony* footnotes in JSON format.
+    * **kml**: KML files and CSV files used to generate the maps, each inside a folder for each language (`en`, `es`, etc.).
+    * **markdown**: Temporary Markdown files for articles and books as they are obtained from a conversion from PDF / DOCX formats or from scanning, each inside a folder for each language (`en`, `es`, etc.). The content here is not maintained as long as it is cleaned and moved to output folder.
     * **mediawiki** `DEPRECATED`: folder with old files in Wikitext format for MediaWiki. First version of *Urantiapedia* was made for MediaWiki but current one is created with *Wiki.js*.
         * **articles-xx**: old folders for article samples in Wikitext format.
         * **main-pages-xx**: old folders with help content in Wikitext format.
@@ -31,20 +45,21 @@ The folders that comprises *Urantiapedia* project on Github are these:
     * **tex**: folder with the files in LaTeX format.
         * **bible-xx**: *Bible* translations in LaTeX format (`bible-es`,` bible-en`, etc.)
     * **txt**: folder with the files in TXT format.
-        * **articles-xx**: some sample articles in TXT format.
-        * **bible-refs-xx** `DEPRECATED`: old folder with *Paramony*. This content is no longer required.
-        * **topic-index-xx**: *Topic Index* translations in TXT format (`topic-index-es`,` topic- index-en`, etc.)
+        * **articles-xx**: some sample articles in TXT format (`articles-es`,`articles-en`, etc.).
+        * **bible-refs-xx**: Cross references from Bible to Urantia Book in TXT format (`bible-refs-es`,`bible-refs-en`, etc.).
+        * **topic-index-xx**: *Topic Index* translations in TXT format (`topic-index-es`,`topic- index-en`, etc.)
 - **output**: folder containing output files that will be bulk-uploaded in *Urantipedia* website.
     * **wikijs**: folder with the content in formats that are supported by *Wiki.js*.
-        * **Bible**: Bible content in English. IMPORTANT: files in this folder *must not be edited*. Instead files in `input` folder should be updated and then use *Urantiapedia Tools*.
-        * **The_Urantia_Book**: The Urantia Book papers in English. IMPORTANT: files in this folder *must not be edited*. Instead files in `input` folder should be updated and then use *Urantiapedia Tools*.
-        * **article**: Articles in English, organized in folders by author. They are usually in Markdown format.
-        * **book**: Books in English, organized in folders by author. They are usually in Markdown format.
-        * **help**: Help pages of Urantiapedia in English. In Markdown format.
-        * **index**: Indexes in English. IMPORTANT: some files in this folder, not all, *must not be edited*. Instead they are generated using *Urantiapedia Tools*.
-        * **news**: Monthly news of the project in Markdown format & English.
-        * **topic**: Topic Index in English.
-        * **es**: This folder contains the same structure as above but for Spanish. For all other languages is the same: a folder with the language code and inside the same structure as above.
+        * **xx**: Content for each language is in its own folder (`en`, `es`, etc.). The structure for each language is the same, and it is as follows:
+            * **article**: Articles, organized in folders by author. They are usually in Markdown format.
+            * **Bible**: Bible content. IMPORTANT: files in this folder *must not be edited*. Instead files in `input` folder should be updated and then use *Urantiapedia Tools*.
+            * **book**: Books, organized in folders by author. They are usually in Markdown format.
+            * **help**: Help pages of Urantiapedia. In Markdown format.
+            * **index**: Indexes. IMPORTANT: some files in this folder, not all, *must not be edited*. Instead they are generated using *Urantiapedia Tools*.
+            * **map**: Maps. For now they are in Markdown format with an *iframe* that links Google Maps, but in a future here we only store the KML files.
+            * **news**: Monthly news of the project in Markdown format.
+            * **The_Urantia_Book**: The Urantia Book papers. IMPORTANT: files in this folder *must not be edited*. Instead files in `input` folder should be updated and then use *Urantiapedia Tools*.
+            * **topic**: Topic Index.
         * **image**: Images for the site.
 
 Folders tagged as deprecated can be ignored because contain material that is no longer being used in the process and will surely be eliminated in the future.
@@ -106,16 +121,17 @@ output
 
 All the folders indicated above for `output` folder is created using *Urantiapedia Tools*, that expect some folders to exist in `output` folder.
 
-## Links
-
-- [Starting with Urantiapedia](/en/help/start)
-- [Urantiapedia Content](/en/help/content)
-- [Urantiapedia - Languages supported](/en/help/languages)
-- [Admin help](/en/help/admin)
-- [Developers help](/en/help/devs)
-- [Chief Editors help](/en/help/github)
-- [Assistant Editors help](/en/help/github_assistant)
-- [Urantiapedia status - Current progress of the project](/en/help/status)
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/github_setting">Setting up GitHub project</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/github_paramony">Translation of Paramony</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## External links
 

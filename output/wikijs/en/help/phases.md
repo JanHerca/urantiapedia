@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/content">Urantiapedia content</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/languages">Languages supported</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 For each language to be included in *Urantipedia*, the work will be carried out in the following milestones. For each stage we include here the tasks to be carried, where editions must be made, and the collaborator role.
 
 ## Milestone I - The Urantia Book, the Bible and Topic Index
@@ -153,18 +165,17 @@ From now on, the project could consider new challenges such as:
 - Serve as a virtual art gallery where artists who create works related to *The Urantia Book* can exhibit their works.
 - Offer a center for questions and answers on topics related to *The Urantia Book*.
 
-## Links
-
-- [Starting with Urantiapedia](/en/help/start)
-- [Milestones of the project](/en/help/Milestones)
-- [Collaborator profiles](/en/help/roles)
-- [Urantiapedia Content](/en/help/content)
-- [Urantiapedia - Languages supported](/en/help/languages)
-- [Admin help](/en/help/admin)
-- [Developers help](/en/help/devs)
-- [Chief Editors help](/en/help/github)
-- [Assistant Editors help](/en/help/github_assistant)
-- [Current progress of the project](/en/help/status)
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/content">Urantiapedia content</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/languages">Languages supported</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## External links
 
