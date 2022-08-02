@@ -13,7 +13,7 @@ dateCreated: 2022-04-05T10:55:15.557Z
     <tbody>
       <tr>
         <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/github_upload">Bulk upload content to Urantiapedia</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Index</a></td>
         <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"></td>
       </tr>
     </tbody>
@@ -707,7 +707,7 @@ See [LaTeX Math expressions](https://www.overleaf.com/learn/latex/Mathematical_e
     <tbody>
       <tr>
         <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/github_upload">Bulk upload content to Urantiapedia</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Index</a></td>
         <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"></td>
       </tr>
     </tbody>

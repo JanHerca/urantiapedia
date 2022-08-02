@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T13:46:33.162Z
     <tbody>
       <tr>
         <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Index</a></td>
         <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/principles">Principles ruling Urantiapedia</a></td>
       </tr>
     </tbody>
@@ -103,7 +103,7 @@ To find out more about the profiles we are looking to collaborate with, check [C
     <tbody>
       <tr>
         <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Index</a></td>
         <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/principles">Principles ruling Urantiapedia</a></td>
       </tr>
     </tbody>
