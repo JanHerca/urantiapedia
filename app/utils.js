@@ -224,6 +224,24 @@ exports.readFrom = function(dirPath, format, clearFunction, readFunction, thisOb
 };
 
 /**
+ * Reads a text file and returns an arry of lines.
+ * @param {string} filePath File.
+ * @return {Promise}
+ */
+exports.readFile = (filePath) => {
+	return new Promise((resolve, reject) => {
+		fs.readFile(filePath, (errFile, buf) => {
+			if (errFile) {
+				reject([errFile]);
+				return;
+			}
+			const lines = buf.toString().split('\n');
+			resolve(lines);
+		});
+	});
+};
+
+/**
  * Checks a text with an array of components.
  * This function is required because RegExp has problems to search components
  * that are full words and start or end with spacial chars like accent.
@@ -300,7 +318,13 @@ exports.replaceWords = function(arItems, arReplaces, text) {
 	return result;
 };
 
-exports.getWikijsHeader = function(title, tags) {
+/**
+ * Returns the default header for a Wiki.js page.
+ * @param {string} title Title.
+ * @param {string[]} tags Tags.
+ * @return {string}
+ */
+exports.getWikijsHeader = (title, tags) => {
 	const date = new Date();
 	const datestr = 
 		`${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}` +
@@ -316,7 +340,39 @@ exports.getWikijsHeader = function(title, tags) {
 		`-->\r\n`;
 };
 
-exports.getWikijsLinks = function(prevLink, indexLink, nextLink) {
+/**
+ * Fixes the header of a Wiki.js maintaing previous creation date.
+ * @param {string} header Header.
+ * @param {string[]} prevLines Previous lines.
+ * @param {string[]} curLines Current lines.
+ * @return {?string}
+ */
+exports.fixWikijsHeader = (header, prevLines, curLines) => {
+	let newHeader = null;
+	const prevDate = prevLines
+		.findIndex(line => line.startsWith('dateCreated:'));
+	const curDate = curLines
+		.findIndex(line => line.startsWith('dateCreated:'));
+	const changedLines = prevLines
+		.filter((line, i) => line.trim() != curLines[i].trim() && !line.startsWith('date'));
+	if (changedLines.length > 0) {
+		if (prevDate != -1 && curDate != -1) {
+			newHeader = header.replace(curLines[curDate], prevLines[prevDate]);
+		} else {
+			newHeader = header;
+		}
+	}
+	return newHeader;
+};
+
+/**
+ * Returns the links to show on top and bottom of a chapter of a book.
+ * @param {string} prevLink Link to previous chapter.
+ * @param {string} indexLink Link to index of the book.
+ * @param {string} nextLink Link to next chapter.
+ * @return {string}
+ */
+exports.getWikijsLinks = (prevLink, indexLink, nextLink) => {
 	// const colorBg = '#ffffff;';
 	const borderB = '0.2em solid #c8ccd1;';
 	const borderO = '1px solid #c8ccd1;';

@@ -6,7 +6,9 @@ const extendArray = require('./utils').extendArray;
 const readFrom = require('./utils').readFrom;
 const testWords = require('./utils').testWords;
 const strformat = require('./utils').strformat;
+const readFile = require('./utils').readFile;
 const getWikijsHeader = require('./utils').getWikijsHeader;
+const fixWikijsHeader = require('./utils').fixWikijsHeader;
 const getWikijsBookRefLink = require('./utils').getWikijsBookRefLink;
 const getError = require('./utils').getError;
 const fs = require('fs');
@@ -769,25 +771,6 @@ class TopicIndex {
 	};
 
 	/**
-	 * Reads an entry of Topic Index in Wiki.js format.
-	 * Writes an entry of Topic Index in Wiki.js format.
-	 * @param {string} filePath Output Wiki file.
-	 * @return {Promise}
-	 */
-	readFileFromWikijs = (filePath) => {
-		return new Promise((resolve, reject) => {
-			fs.readFile(filePath, (errFile, buf) => {
-				if (errFile) {
-					reject([errFile]);
-					return;
-				}
-				const lines = buf.toString().split('\n');
-				resolve(lines);
-			});
-		});
-	};
-
-	/**
 	 * Writes an entry of Topic Index in Wiki.js format.
 	 * @param {string} filePath Output Wiki file.
 	 * @param {Object} topic Object with Topic Index entry.
@@ -1010,19 +993,13 @@ class TopicIndex {
 
 			//Only write if content is new or file not exists
 			//Update date created avoiding a new date for it
-			this.readFileFromWikijs(filePath)
+			readFile(filePath)
 				.then(previousLines => {
 					const curLines = (html2 + html).split('\n');
-					const prevDate = previousLines
-						.findIndex(line => line.startsWith('dateCreated:'));
-					const curDate = curLines
-						.findIndex(line => line.startsWith('dateCreated:'));
-					const changedLines = previousLines
-						.filter((line, i) => line.trim() != curLines[i].trim() && !line.startsWith('date'));
-					if (changedLines.length > 0) {
-						if (prevDate != -1 && curDate != -1) {
-							html2 = html2.replace(curLines[curDate], previousLines[prevDate]);
-						}
+					const newHeader = fixWikijsHeader(html2, previousLines, 
+						curLines);
+					if (newHeader) {
+						html2 = newHeader;
 						writeFile();
 						return;
 					}

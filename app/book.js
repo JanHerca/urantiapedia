@@ -9,10 +9,12 @@ const extendArray = require('./utils').extendArray;
 const replaceTags = require('./utils').replaceTags;
 const removeHTMLTags = require('./utils').removeHTMLTags;
 const readFrom = require('./utils').readFrom;
+const readFile = require('./utils').readFile;
 const replaceWords = require('./utils').replaceWords;
 const getAllIndexes = require('./utils').getAllIndexes;
 const strformat = require('./utils').strformat;
 const getWikijsHeader = require('./utils').getWikijsHeader;
+const fixWikijsHeader = require('./utils').fixWikijsHeader;
 const getWikijsLinks = require('./utils').getWikijsLinks;
 const getWikijsBookLink = require('./utils').getWikijsBookLink;
 const getBookTitle = require('./utils').getBookTitle;
@@ -1389,15 +1391,20 @@ class Book {
 			}
 
 			//Header
-			let html = '', error_par_ref;
-			const prev = paper.paper_index - 1;
-			const next = paper.paper_index + 1;
+			let html = '';
+			let html2 = '';
+			let error_par_ref;
+			const index = paper.paper_index;
+			const prev = index - 1;
+			const next = index + 1;
 			const prevPaper = this.papers.find(p=>p.paper_index === prev);
 			const nextPaper = this.papers.find(p=>p.paper_index === next);
 			const prevLink = getWikijsBookLink(prevPaper, this.language);
 			const nextLink = getWikijsBookLink(nextPaper, this.language);
 			const indexLink = getWikijsBookLink('index', this.language);
 			const lan = (this.language === 'en' ? '' : '/' + this.language);
+			const stri = (index > 99 ? `${index}` : 
+				(index > 9 ? `0${index}` : `00${index}`));
 			const tpath = `${lan}/topic/`;
 			const tiOK = (topicIndex && (this.language === 'en' ||
 				(this.language != 'en' && topicIndexEN)));
@@ -1405,10 +1412,26 @@ class Book {
 
 			const title = getBookTitle(paper, this.language, true);
 
-			html += getWikijsHeader(title);
-			html += '\r\n';
+			const writeFile = () => {
+				fs.writeFile(filePath, html2 + html, 'utf-8', (err) => {
+					if (err) {
+						reject(err);
+						return;
+					}
+					resolve(null);
+				});
+			};
+
+			html2 += getWikijsHeader(title);
+			html2 += '\r\n';
 			html += getWikijsLinks(prevLink, indexLink, nextLink);
 			// html += `<h1>${title}</h1>\r\n`;
+			if (this.language === 'en') {
+				stri = (index === 0 ? stri + '_1' : stri);
+				html += `<audio controls="controls" preload="none">\r\n` +
+					`<source src="/audio/ub_${stri}.mp3" type="audio/mpeg">\r\n` +
+					`</audio>\r\n`;
+			}
 
 			//Sections & paragraphs
 			let footnoteIndex = 0, fni;
@@ -1420,9 +1443,11 @@ class Book {
 					.toUpperCase() : null);
 				const sind = section.section_index;
 				if (stitle) {
-					html += `<h2 id="p${sind}" class="toc-header"> <a href="#p${sind}" class="toc-anchor">¶</a> ${stitle} </h2>\r\n`;
+					html += `<h2 id="p${sind}" class="toc-header"> ` +
+						`<a href="#p${sind}" class="toc-anchor">¶</a> ${stitle} </h2>\r\n`;
 				} else {
-					html += `<span id="p${sind}"> <a href="#p${sind}" class="toc-anchor">¶</a> </span>\r\n`;
+					html += `<span id="p${sind}"> ` +
+						`<a href="#p${sind}" class="toc-anchor">¶</a> </span>\r\n`;
 				}
 
 				section.pars.forEach(par => {
@@ -1544,13 +1569,23 @@ class Book {
 				reject(new Error(topicErr.map(e => e.message).join(', ')));
 				return;
 			}
-			fs.writeFile(filePath, html, 'utf-8', (err) => {
-				if (err) {
-					reject(err);
-					return;
-				}
-				resolve(null);
-			});
+			//Only write if content is new or file not exists
+			//Update date created avoiding a new date for it
+			readFile(filePath)
+				.then(previousLines => {
+					const curLines = (html2 + html).split('\n');
+					const newHeader = fixWikijsHeader(html2, previousLines, 
+						curLines);
+					if (newHeader) {
+						html2 = newHeader;
+						writeFile();
+						return;
+					}
+					resolve(null);
+				})
+				.catch(err2 => {
+					writeFile();
+				});
 		});
 	};
 
@@ -2211,8 +2246,8 @@ class Book {
 				this.papers.forEach((paper, i) => {
 					const j = (merge ? 0 : i);
 					const index = paper.paper_index;
-					const stri = (index > 99 ? `${index}` : (i > 9 ? `0${index}` : 
-						`00${index}`));
+					const stri = (index > 99 ? `${index}` : 
+						(index > 9 ? `0${index}` : `00${index}`));
 					const fp = path.join(dirPath, `Doc${stri}.xml`);
 					if (!files[j]) {
 						files[j] = {
