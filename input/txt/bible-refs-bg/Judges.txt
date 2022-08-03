@@ -1,0 +1,20 @@
+Judges	2:12	#	4:3.2/#	God said to be angry+	C	PROBLEM
+Judges	2:13	#	95:1.3/#	Compet. "gods" Baal, Ashtaroth	C	PROBLEM
+Judges	2:13	#	95:1.7/#	Ashtoreth	C	PROBLEM
+Judges	2:18	#	2:2.2/#	God is said to repent+	C	PROBLEM
+Judges	2:18	#	4:3.4/#	God is said to repent	C	PROBLEM
+Judges	3:5-6	#	97:9.1/#	Israelites & Canaanites	R	PROBLEM
+Judges	4:10-16	#	126:1.2/#	Sisera defeated	C	PROBLEM
+Judges	4:16	#	70:1.17/#	Slaughter	R	PROBLEM
+Judges	6:20-21	#	85:4.2/#	Angels of fire	C	PROBLEM
+Judges	9:15	#	39:5.7/#	Spirits of Trust	C	PROBLEM
+Judges	9:23	#	96:7.6/#	Sends evil spirits	R	PROBLEM
+Judges	10:6	#	95:1.3/#	Compet. "gods" Baal, Ashtaroth	C	PROBLEM
+Judges	10:6	#	95:1.7/#	Ashtoreth	C	PROBLEM
+Judges	11:21,23	#	70:1.15/#	In name of Lord God of Israel+	R	PROBLEM
+Judges	11:30-39	#	87:6.9/#	Penalty for violating oaths	C	PROBLEM
+Judges	11:30-39	#	89:6.3/#	Jephthah's daughter	C	PROBLEM
+Judges	11:36	#	142:2.1/#	Takes vengeance on sinners+	C	PROBLEM
+Judges	11:39	#	70:11.6/#	It is the custom	R	PROBLEM
+Judges	21:10-12	#	70:1.15/#	Sparing virgins	C	PROBLEM
+Judges	21:11	#	69:8.3/#	Hebrews "utterly destroy"	C	PROBLEM

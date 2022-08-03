@@ -1,0 +1,94 @@
+2 Chronicles	19:7	#	137:8.11/#	Нито евреин, нито езичник	C	
+2 Chronicles	19:7	#	140:1.2/#	Не е Бог на юдеи или езичници	S	
+2 Chronicles	19:7	#	155:6.2/#	Бог не се съобразява с расите	C	
+2 Chronicles	33:6	#	85:4.4/#	Почит към огъня	C	
+2 Chronicles	19:7	#	137:8.6/#	Никой не се съобразява с хората	C	
+2 Chronicles	2:12	#	0:2.9/#	God as Creator of heaven, earth+	C	PROBLEM
+2 Chronicles	19:7	#	190:4.1/#	Нито евреин, нито езичник	S	
+2 Chronicles	19:7	#	156:2.4/#	Бог не проявява благосклонност	C	
+2 Chronicles	5:13	#	6:3.2/#	Служение на милосърдието	C	
+2 Chronicles	6:18	#	48:6.12/#	Heaven, heaven of heavens	R	PROBLEM
+2 Chronicles	7:3,6	#	131:10.6/#	Милостта	C	
+2 Chronicles	30:9	#	142:3.7/#	Всемилостив	C	
+2 Chronicles	7:3,6	#	2:5.7/#	Бог е милостив	C	
+2 Chronicles	5:13	#	2:5.7/#	Бог е милостив	C	
+2 Chronicles	2:12	#	142:3.7/#	Вселенски създател	C	
+2 Chronicles	7:3,6	#	142:3.7/#	Всемилостив	C	
+2 Chronicles	20:6	#	79:1.9/#	Един Бог на небето	C	
+2 Chronicles	32:8	#	70:1.15/#	Бог на битките	R	
+2 Chronicles	19:7	#	138:4.2/#	Равенство за всички, които търсят Бога	C	
+2 Chronicles	5:13	#	142:3.7/#	Всемилостив	C	
+2 Chronicles	19:7	#	190:3.1/#	В кралството няма различия	C	
+2 Chronicles	34:13-19	#	74:8.11/#	„Намиране“ на Закона	C	
+2 Chronicles	36:23	#	79:1.9/#	Един Бог на небето	C	
+2 Chronicles	33:19	#	85:2.4/#	Свещени горички	C	
+2 Chronicles	19:7	#	139:10.9/#	Исус не се съобразява с хората	C	
+2 Chronicles	7:1-3	#	85:4.2/#	Ангели на огъня	C	
+2 Chronicles	20:15	#	70:1.15/#	Бог на битките	R	
+2 Chronicles	30:9	#	131:10.6/#	Милостта	C	
+2 Chronicles	2:6	#	181:1.2/#	Небето на небесата	C	
+2 Chronicles	19:7	#	2:3.1/#	Няма беззаконие в Господа	R	
+2 Chronicles	19:7	#	2:3.1/#	Няма беззаконие в Господа	R	
+2 Chronicles	5:13	#	2:4.1/#	Неговата милост е вечна	R	
+2 Chronicles	7:3,6	#	2:4.1/#	Неговата милост е вечна	R	
+2 Chronicles	6:38-39	#	159:5.13/#	Repent for forgiveness (OT)+	C	PROBLEM
+2 Chronicles	2:12	#	6:1.3/#	Бог е създал всичко	C	
+2 Chronicles	19:7	#	12:7.8/#	Бог не се съобразява с хората	C	
+2 Chronicles	30:9	#	6:3.2/#	Служение на милосърдието	C	
+2 Chronicles	2:12	#	2:1.2/#	Верен и божествен Създател	C	
+2 Chronicles	2:6	#	48:6.12/#	Heaven, heaven of heavens	R	PROBLEM
+2 Chronicles	2:6	#	3:1.2/#	Небето на небесата	R	
+2 Chronicles	6:18	#	3:1.2/#	Небето на небесата	R	
+2 Chronicles	5:13	#	143:1.6/#	Бог се радва на милост	C	
+2 Chronicles	19:7	#	166:4.11/#	Бог не се съобразява с хората	C	
+2 Chronicles	19:7	#	192:2.2/#	Бог не се съобразява с хората	C	
+2 Chronicles	19:7	#	3:1.12/#	Бог не се съобразява с хората	C	
+2 Chronicles	30:9	#	2:5.7/#	Бог е милостив	C	
+2 Chronicles	19:7	#	181:2.14/#	Бог и Синът не се съобразяват с хората	C	
+2 Chronicles	2:12	#	1:0.1/#	Бог създаде небето и земята	C	
+2 Chronicles	19:7	#	174:2.2/#	Исус не се съобразява с хората	C	
+2 Chronicles	19:7	#	175:2.3/#	Бог не се съобразява с хората	C	
+2 Chronicles	7:3,6	#	6:3.2/#	Служение на милосърдието	C	
+2 Chronicles	19:7	#	150:1.3/#	Равенство на лицата	C	
+2 Chronicles	6:18	#	181:1.2/#	Небето на небесата	C	
+2 Chronicles	19:3	#	1:2.3/#	God seeking	C	PROBLEM
+2 Chronicles	7:3,6	#	143:1.6/#	Бог се радва на милост	C	
+2 Chronicles	19:7	#	1:4.6/#	Бог не почита хората	C	
+2 Chronicles	32:8	#	174:0.2/#	Не се доверявайте на плътска ръка	C	
+2 Chronicles	20:7	#	1:5.8/#	Приятелство с Бог	C	
+2 Chronicles	6:1	#	14:1.7/#	Dark gravity bodies	C	PROBLEM
+2 Chronicles	30:9	#	143:1.6/#	Бог се радва на милост	C	
+2 Chronicles	6:1	#	2:1.1/#	Бог обитава в гъста тъмнина	R	
+2 Chronicles	2:6	#	2:1.1/#	Небето на небесата	R	
+2 Chronicles	6:18	#	2:1.1/#	Небето на небесата	R	
+2 Chronicles	19:7	#	143:1.5/#	Моят Отец не се съобразява с хората	C	
+2 Chronicles	19:7	#	148:6.2/#	Не се съобразява с хората	C	
+2 Chronicles	30:27	#	89:8.7/#	Молитвата на справедливия човек	C	
+2 Chronicles	2:12	#	95:5.9/#	Бог е създал света и всичко в него	C	
+2 Chronicles	26:1	#	97:9.22/#	Озия стана цар	C	
+2 Chronicles	19:7	#	40:10.13/#	Бог не се съобразява с хората	C	
+2 Chronicles	19:7	#	112:0.10/#	God is no respecter of persons	C	PROBLEM
+2 Chronicles	6:30	#	32:4.8/#	Господ познава децата си	R	
+2 Chronicles	19:7	#	133:0.3/#	Бог не се съобразява с хората	C	
+2 Chronicles	2:12	#	131:10.6/#	Творецът	C	
+2 Chronicles	25:27	#	97:9.22/#	Амасия е убит	C	
+2 Chronicles	19:7	#	117:6.22/#	Без уважение към хората	C	
+2 Chronicles	33:1-3	#	97:9.23/#	Момчето цар Манасия	C	
+2 Chronicles	34:9	#	97:9.21/#	Остатъкът от Израел	R	
+2 Chronicles	2:12	#	131:2.2/#	Бог създаде небето и земята	C	
+2 Chronicles	15:12-15	#	87:6.9/#	Sacred vows and oaths+	C	PROBLEM
+2 Chronicles	19:7	#	134:4.7/#	Всички хора са духовно равни	C	
+2 Chronicles	23:11,16-20	#	97:9.21/#	Бунтът на момчето цар Йоас	C	
+2 Chronicles	32:8	#	89:6.3/#	Бог на битките	R	
+2 Chronicles	20:15	#	89:6.3/#	Бог на битките	R	
+2 Chronicles	5:13	#	131:10.6/#	Милостта	C	
+2 Chronicles	2:12	#	128:1.10/#	Създател на небето и земята	C	
+2 Chronicles	35:20-24	#	97:9.24/#	Глупостта на Йосия	C	
+2 Chronicles	31:5-6,12	#	93:3.1/#	Система за даване на десятък	C	
+2 Chronicles	2:6	#	48:6.12/#	Heaven, heaven of heavens	R	PROBLEM
+2 Chronicles	18:6-8	#	97:2.2/#	Микея	C	
+2 Chronicles	2:12	#	131:10.2/#	Бог е създал всички неща и същества	C	
+2 Chronicles	6:18	#	48:6.12/#	Heaven, heaven of heavens	R	PROBLEM
+2 Chronicles	2:12	#	92:6.6/#	God created heaven & earth+	C	PROBLEM
+2 Chronicles	30:18-19	#	1:2.3/#	God seeking	C	PROBLEM
+2 Chronicles	35:20-24	#	126:1.2/#	Йосия победен	C	

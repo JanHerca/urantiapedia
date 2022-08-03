@@ -1,0 +1,36 @@
+Nehemiah	1:4-5	#	79:1.9/#	Един Бог на небето	C	
+Nehemiah	1:9	#	159:5.13/#	Repent for forgiveness (OT)+	C	PROBLEM
+Nehemiah	1:10	#	142:3.7/#	Всемогъщ	C	
+Nehemiah	1:10	#	1:1.4/#	Божията сила	C	
+Nehemiah	1:10	#	131:10.3/#	Бог е всемогъщ	C	
+Nehemiah	1:10	#	131:10.6/#	Силата	C	
+Nehemiah	4:4	#	4:3.2/#	Бог каза да се разгневи	C	
+Nehemiah	9:6	#	128:1.10/#	Създател на небето и земята	C	
+Nehemiah	9:6	#	92:6.6/#	God created heaven & earth+	C	PROBLEM
+Nehemiah	9:6	#	131:10.2/#	Един Бог	C	
+Nehemiah	9:6	#	4:1.5/#	Бог ги пази всички	R	
+Nehemiah	9:6	#	45:4.8/#	Един Бог	C	
+Nehemiah	9:6	#	48:6.12/#	Heaven, heaven of heavens	R	PROBLEM
+Nehemiah	9:6	#	1:0.1/#	Ти си сам Бог	C	
+Nehemiah	9:6	#	56:4.4/#	Бог е един	C	
+Nehemiah	9:6	#	181:1.2/#	Небето на небесата	C	
+Nehemiah	9:6	#	92:6.6/#	One God+	C	PROBLEM
+Nehemiah	9:6	#	92:5.8/#	One God+	C	PROBLEM
+Nehemiah	9:6	#	48:6.12/#	Heaven, heaven of heavens	R	PROBLEM
+Nehemiah	9:6	#	131:2.7/#	Бог е създател и пазител	R	
+Nehemiah	9:6	#	131:10.2/#	Един Бог	C	
+Nehemiah	9:6	#	3:1.2/#	Небето на небесата	C	
+Nehemiah	9:6	#	2:1.2/#	Верен и божествен Създател	C	
+Nehemiah	9:6	#	0:2.9/#	God as Creator of everything+	C	PROBLEM
+Nehemiah	9:6	#	1:7.6/#	Господ Бог е един	R	
+Nehemiah	9:6	#	1:0.1/#	Ти си сам Бог	C	
+Nehemiah	9:6	#	2:1.1/#	Небето на небесата	R	
+Nehemiah	9:6	#	142:3.7/#	Вселенски създател	C	
+Nehemiah	9:6	#	131:2.2/#	Бог създаде всичко	C	
+Nehemiah	9:6	#	10:7.1/#	Господ, нашият Бог, е един Бог	C	
+Nehemiah	9:6	#	95:5.9/#	Бог е създал света и всичко в него	C	
+Nehemiah	9:6	#	6:1.3/#	Бог е създал всичко	C	
+Nehemiah	9:6	#	131:10.6/#	Творецът	C	
+Nehemiah	9:6	#	96:5.5/#	Господ е един Бог	C	
+Nehemiah	9:6	#	1:0.1/#	Ти си сам Бог	R	
+Nehemiah	9:32	#	96:4.5/#	Могъща, страшна	R	

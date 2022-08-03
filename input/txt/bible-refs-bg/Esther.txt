@@ -1,0 +1,4 @@
+Esther	1:2	#	133:9.2/#	Stories of Esther & Susa	C	PROBLEM
+Esther	4:1,3	#	163:6.5/#	Вързоп и пепел	C	
+Esther	4:1-4	#	89:3.3/#	Бедност и покаяние	C	
+Esther	9:17-32	#	125:1.5/#	Празник на Пурим	C	

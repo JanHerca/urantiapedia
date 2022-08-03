@@ -1,0 +1,469 @@
+Acts of the Apostles	1:1	#	141:7.10/#	Учител от небето	C	
+Acts of the Apostles	1:4	#	193:5.2/#	Престой в Йерусалим	S	
+Acts of the Apostles	1:4	#	193:0.5/#	Почакайте в Йерусалим	S	
+Acts of the Apostles	1:4,6	#	193:3.1/#	Последното появяване на Исус	S	
+Acts of the Apostles	1:5	#	191:5.3/#	Кръстени с Духа на истината	S	
+Acts of the Apostles	1:5	#	141:6.5/#	Кръщение с духа	C	
+Acts of the Apostles	1:5	#	85:4.1/#	Кръщение	C	
+Acts of the Apostles	1:5	#	137:8.10/#	Кръщението на Йоан е знак за покаяние	S	
+Acts of the Apostles	1:5	#	87:6.5/#	Water baptism	C	PROBLEM
+Acts of the Apostles	1:5,8a	#	190:5.4/#	Той ще излее дух върху всяка плът	C	
+Acts of the Apostles	1:5,8a	#	180:6.3/#	Духът на истината	C	
+Acts of the Apostles	1:5,8a	#	34:7.1/#	Дух на истината	C	
+Acts of the Apostles	1:5,8a	#	20:1.6/#	Son poured out spirit on flesh+	C	PROBLEM
+Acts of the Apostles	1:5,8a	#	20:6.8/#	Духът на истината	C	
+Acts of the Apostles	1:5,8a	#	181:2.14/#	Следвайте новия учител в сърцата	C	
+Acts of the Apostles	1:5,8a	#	121:7.5/#	Нов дух, жив в човешките сърца	C	
+Acts of the Apostles	1:5,8a	#	34:5.5/#	Духът на истината	C	
+Acts of the Apostles	1:5,8a	#	181:2.24/#	Духът на истината ще бъде с вас	C	
+Acts of the Apostles	1:5,8a	#	21:5.7/#	Spirit of Truth+	C	PROBLEM
+Acts of the Apostles	1:5,8a	#	193:5.2/#	Изпрати Духа на истината	S	
+Acts of the Apostles	1:5,8a	#	34:4.1/#	Spirit of Truth+	C	PROBLEM
+Acts of the Apostles	1:5,8a	#	181:1.4/#	Ще излея духа си върху всяка плът	C	
+Acts of the Apostles	1:5,8a	#	176:4.3/#	Друг учител, Духът на истината	S	
+Acts of the Apostles	1:5,8a	#	103:1.6/#	Дух в човека (Дух на истината)	C	
+Acts of the Apostles	1:5,8a	#	191:6.3/#	Духът на истината	C	
+Acts of the Apostles	1:5,8a	#	32:5.8/#	Духът на истината	C	
+Acts of the Apostles	1:5,8a	#	141:4.5/#	Jesus to pour out His spirit+	C	PROBLEM
+Acts of the Apostles	1:5,8a	#	180:4.5/#	Ще изпратя „духа си“	C	
+Acts of the Apostles	1:5,8a	#	120:2.4/#	Духът на истината	C	
+Acts of the Apostles	1:5,8a	#	120:2.6/#	Spirit of Truth+	C	PROBLEM
+Acts of the Apostles	1:5,8a	#	137:8.7/#	Дух на истината	C	
+Acts of the Apostles	1:5,8a	#	180:3.3/#	Обещание за утешител	C	
+Acts of the Apostles	1:5,8a	#	146:3.6/#	Дух на истината	C	
+Acts of the Apostles	1:5,8a	#	194:2.10/#	Кръщението на духа	C	
+Acts of the Apostles	1:5,8a	#	194:3.1/#	Духът на истината в сърцето показва Сина	C	
+Acts of the Apostles	1:5,8a	#	194:3.6/#	Духът на истината, дарен на всички	C	
+Acts of the Apostles	1:6	#	135:6.2/#	Възстановяване на царството	R	
+Acts of the Apostles	1:6-8	#	193:3.2/#	Погрешна представа за Духа на истината	S	
+Acts of the Apostles	1:7-8	#	141:4.5/#	Kingdom comes in power & glory	C	PROBLEM
+Acts of the Apostles	1:7-8	#	140:1.5/#	Никаква неприлична демонстрация	C	
+Acts of the Apostles	1:8	#	181:2.26/#	Крайните части на земята	S	
+Acts of the Apostles	1:8	#	108:2.3/#	Коректори след Петдесетница	C	
+Acts of the Apostles	1:8a	#	52:5.6/#	Духът се излива върху всяка плът	R	
+Acts of the Apostles	1:8b	#	193:1.2/#	Научи света на Божията любов	C	
+Acts of the Apostles	1:8b	#	191:5.3/#	Велика комисия	C	
+Acts of the Apostles	1:8b	#	181:2.12/#	Проповядвайте Евангелието на света	S	
+Acts of the Apostles	1:8b	#	191:6.3/#	Голямото поръчение	C	
+Acts of the Apostles	1:8b	#	191:4.4/#	Велика комисия	C	
+Acts of the Apostles	1:8b	#	193:5.2/#	Проповядвай новото евангелие	S	
+Acts of the Apostles	1:8b	#	178:1.14/#	Велика комисия	C	
+Acts of the Apostles	1:8b	#	165:6.3/#	Великата комисия	C	
+Acts of the Apostles	1:8b	#	193:0.4/#	Идете и проповядвайте любовта към Бога	C	
+Acts of the Apostles	1:8b	#	193:0.5/#	Проповядвайте Евангелието на целия свят	C	
+Acts of the Apostles	1:8b	#	193:2.2/#	Великото поръчение	C	
+Acts of the Apostles	1:8b	#	95:7.3/#	Великата комисия	R	
+Acts of the Apostles	1:8b	#	193:1.2/#	Научи света на Божията любов	C	
+Acts of the Apostles	1:8b	#	140:9.2/#	Поръчение за проповядване по света	S	
+Acts of the Apostles	1:8b	#	176:2.3/#	Евангелието да отиде по целия свят	C	
+Acts of the Apostles	1:8b	#	143:1.5/#	Идете и проповядвайте Евангелието на всички	C	
+Acts of the Apostles	1:8b	#	190:3.1/#	Великата комисия	S	
+Acts of the Apostles	1:8b	#	190:4.1/#	Велика комисия	S	
+Acts of the Apostles	1:9	#	193:5.3/#	Възнесение	S	
+Acts of the Apostles	1:12-14	#	193:6.1/#	Първата среща на апостолите	S	
+Acts of the Apostles	1:13	#	139:6.9/#	Натаниел Бартоломеу	C	
+Acts of the Apostles	1:13	#	138:2.2/#	Bible names for the Apostles	S	PROBLEM
+Acts of the Apostles	1:13	#	139:8.1/#	Thomas Didymus	C	PROBLEM
+Acts of the Apostles	1:13	#	139:11.1/#	Симон Зелотс добавя	C	
+Acts of the Apostles	1:13	#	139:10.1/#	Близнаците Алфей, Яков и Юда	C	
+Acts of the Apostles	1:13	#	150:4.1/#	Апостоли с имена	S	
+Acts of the Apostles	1:13	#	139:0.1/#	Дванадесетте апостоли	S	
+Acts of the Apostles	1:14	#	149:2.8/#	Жени-ученици	S	
+Acts of the Apostles	1:14	#	122:1.3/#	Родители на Исус	S	
+Acts of the Apostles	1:15-23	#	193:6.2/#	Дневният ред	S	
+Acts of the Apostles	1:16-18	#	186:1.7/#	Самоубийството на Юда	S	
+Acts of the Apostles	1:18	#	139:12.13/#	Самоубийството на Юда	C	
+Acts of the Apostles	1:24	#	140:3.19/#	Бог съди човешките сърца	C	
+Acts of the Apostles	1:24-26	#	193:6.3/#	Матиас избран	S	
+Acts of the Apostles	1:26	#	192:0.2/#	Матиас като касиер	S	
+Acts of the Apostles	2:1,42	#	194:3.9/#	Универсалност на религията на Исус	S	
+Acts of the Apostles	2:1-3	#	194:0.1/#	Идването на Духа на истината	S	
+Acts of the Apostles	2:1-4	#	140:1.6/#	Царуване на Бога в сила	R	
+Acts of the Apostles	2:1-4	#	191:5.3/#	Когато Духът дойде	S	
+Acts of the Apostles	2:1-4,16-18	#	146:3.6/#	Дух на истината	C	
+Acts of the Apostles	2:1-4,16-18	#	191:6.3/#	Духът на истината	C	
+Acts of the Apostles	2:1-4,16-18	#	52:5.6/#	Духът се излива върху всяка плът	R	
+Acts of the Apostles	2:1-4,16-18	#	181:1.4/#	Ще излея духа си върху всяка плът	C	
+Acts of the Apostles	2:1-4,16-18	#	194:3.6/#	Духът на истината, дарен на всички	C	
+Acts of the Apostles	2:1-4,16-18	#	193:5.2/#	Изпрати Духа на истината	S	
+Acts of the Apostles	2:1-4,16-18	#	176:4.3/#	Друг учител, Духът на истината	S	
+Acts of the Apostles	2:1-4,16-18	#	141:4.5/#	Jesus to pour out His spirit+	C	PROBLEM
+Acts of the Apostles	2:1-4,16-18	#	181:2.24/#	Духът на истината ще бъде с вас	C	
+Acts of the Apostles	2:1-4,16-18	#	190:5.4/#	Той ще излее дух върху всяка плът	C	
+Acts of the Apostles	2:1-4,16-18	#	103:1.6/#	Дух в човека (Дух на истината)	C	
+Acts of the Apostles	2:1-4,16-18	#	20:6.8/#	Духът на истината	C	
+Acts of the Apostles	2:1-4,16-18	#	34:4.1/#	Spirit of Truth+	C	PROBLEM
+Acts of the Apostles	2:1-4,16-18	#	21:5.7/#	Spirit of Truth+	C	PROBLEM
+Acts of the Apostles	2:1-4,16-18	#	180:4.5/#	Ще изпратя „духа си“	C	
+Acts of the Apostles	2:1-4,16-18	#	180:6.3/#	Духът на истината	C	
+Acts of the Apostles	2:1-4,16-18	#	120:2.6/#	Spirit of Truth+	C	PROBLEM
+Acts of the Apostles	2:1-4,16-18	#	32:5.8/#	Духът на истината	C	
+Acts of the Apostles	2:1-4,16-18	#	34:7.1/#	Дух на истината	C	
+Acts of the Apostles	2:1-4,16-18	#	120:2.4/#	Духът на истината	C	
+Acts of the Apostles	2:1-4,16-18	#	34:5.5/#	Духът на истината	C	
+Acts of the Apostles	2:1-4,16-18	#	137:8.7/#	Дух на истината	C	
+Acts of the Apostles	2:1-4,16-18	#	180:3.3/#	Обещание за утешител	C	
+Acts of the Apostles	2:1-4,16-18	#	181:2.14/#	Следвайте новия учител в сърцата	C	
+Acts of the Apostles	2:1-4,16-18	#	121:7.5/#	Нов дух, жив в човешките сърца	C	
+Acts of the Apostles	2:1-4,17-18	#	20:1.6/#	Son poured out spirit on flesh+	C	PROBLEM
+Acts of the Apostles	2:1-4,38	#	194:2.10/#	Кръщението на духа	C	
+Acts of the Apostles	2:1-4,38	#	141:6.5/#	Кръщение с духа	C	
+Acts of the Apostles	2:1-21	#	108:2.3/#	Коректори след Петдесетница	C	
+Acts of the Apostles	2:1-40	#	176:4.3/#	Ден на Петдесетница	S	
+Acts of the Apostles	2:1a,5	#	194:1.1/#	Петдесятница, мнозина там в Йерусалим	S	
+Acts of the Apostles	2:4	#	3:1.4/#	Духът говори отвътре	R	
+Acts of the Apostles	2:4a	#	194:0.6/#	Изпълнен с дух	S	
+Acts of the Apostles	2:4b-12	#	194:1.2/#	Говорене на други езици	S	
+Acts of the Apostles	2:14-41	#	194:1.2/#	Проповедта на Петър	S	
+Acts of the Apostles	2:16-18	#	21:5.7/#	Pour out Spirit of Truth	R	PROBLEM
+Acts of the Apostles	2:19-20	#	170:2.14/#	Believe end sudden, spectacular+	C	PROBLEM
+Acts of the Apostles	2:21	#	139:12.7/#	Който иска, може да дойде	C	
+Acts of the Apostles	2:21	#	131:10.7/#	Който иска, се спасява	C	
+Acts of the Apostles	2:21	#	2:5.2/#	Всеки, който иска, може да дойде	C	
+Acts of the Apostles	2:21	#	2:4.1/#	Който призове Господа, се спасява	R	
+Acts of the Apostles	2:21	#	166:3.7/#	Всеки, който иска, може да дойде	C	
+Acts of the Apostles	2:21	#	100:7.6/#	Който иска, може да дойде	C	
+Acts of the Apostles	2:21	#	165:3.8/#	Който иска, може да дойде	C	
+Acts of the Apostles	2:21	#	32:5.8/#	Който иска, може да дойде	C	
+Acts of the Apostles	2:22-23	#	194:4.4/#	Втора част: Всички изпълнени с дух	R	
+Acts of the Apostles	2:29-36	#	196:2.5/#	Възвеличаване на възкръсналия Христос	C	
+Acts of the Apostles	2:32-33	#	79:3.4/#	Райска Троица	C	
+Acts of the Apostles	2:32-33	#	194:4.9/#	Троица	C	
+Acts of the Apostles	2:32-33	#	0:12.2/#	Райската Троица	C	
+Acts of the Apostles	2:32-33	#	10:0.2/#	Paradise Trinity	C	
+Acts of the Apostles	2:32-33	#	118:10.2/#	Троицата	C	
+Acts of the Apostles	2:32-33	#	104:1.12/#	По-късното схващане за троицата	C	
+Acts of the Apostles	2:32-33	#	56:5.1/#	Троица	C	
+Acts of the Apostles	2:32-33	#	194:4.4/#	Втора част: Всички изпълнени с дух	R	
+Acts of the Apostles	2:32-33	#	21:2.8/#	Личности от Троицата	C	
+Acts of the Apostles	2:33	#	34:5.5/#	Духът на истината	C	
+Acts of the Apostles	2:33	#	194:3.6/#	Духът на истината, дарен на всички	C	
+Acts of the Apostles	2:33	#	34:4.1/#	Spirit of Truth+	C	PROBLEM
+Acts of the Apostles	2:33	#	176:4.3/#	Друг учител, Духът на истината	S	
+Acts of the Apostles	2:33	#	191:6.3/#	Духът на истината	C	
+Acts of the Apostles	2:33	#	193:5.2/#	Изпрати Духа на истината	S	
+Acts of the Apostles	2:33	#	32:5.8/#	Духът на истината	C	
+Acts of the Apostles	2:33	#	120:2.6/#	Spirit of Truth+	C	PROBLEM
+Acts of the Apostles	2:33	#	180:4.5/#	Ще изпратя „духа си“	C	
+Acts of the Apostles	2:33	#	20:1.6/#	Son poured out spirit on flesh+	C	PROBLEM
+Acts of the Apostles	2:33	#	181:2.24/#	Духът на истината ще бъде с вас	C	
+Acts of the Apostles	2:33	#	20:6.8/#	Духът на истината	C	
+Acts of the Apostles	2:33	#	137:8.7/#	Дух на истината	C	
+Acts of the Apostles	2:33	#	34:7.1/#	Дух на истината	C	
+Acts of the Apostles	2:33	#	120:2.4/#	Духът на истината	C	
+Acts of the Apostles	2:33	#	190:5.4/#	Той ще излее дух върху всяка плът	C	
+Acts of the Apostles	2:33	#	181:1.4/#	Ще излея духа си върху всяка плът	C	
+Acts of the Apostles	2:33	#	146:3.6/#	Дух на истината	C	
+Acts of the Apostles	2:33	#	181:2.14/#	Следвайте новия учител в сърцата	C	
+Acts of the Apostles	2:33	#	21:5.7/#	Spirit of Truth+	C	PROBLEM
+Acts of the Apostles	2:33	#	180:6.3/#	Духът на истината	C	
+Acts of the Apostles	2:33	#	141:4.5/#	Jesus to pour out His spirit+	C	PROBLEM
+Acts of the Apostles	2:33	#	180:3.3/#	Обещание за утешител	C	
+Acts of the Apostles	2:33	#	121:7.5/#	Нов дух, жив в човешките сърца	C	
+Acts of the Apostles	2:33	#	103:1.6/#	Дух в човека (Дух на истината)	C	
+Acts of the Apostles	2:33	#	52:5.6/#	Духът се излива върху всяка плът	R	
+Acts of the Apostles	2:36	#	194:4.4/#	Втора част: Всички изпълнени с дух	R	
+Acts of the Apostles	2:38,41	#	170:5.13/#	Кръщение, приемане в социалния ред	C	
+Acts of the Apostles	2:38-39	#	181:1.4/#	Които Го приемат, са благословени	C	
+Acts of the Apostles	2:41	#	139:1.6/#	Две хиляди души се прибавиха към царството	S	
+Acts of the Apostles	2:41	#	194:1.4/#	Кръщаване на новопокръстени	S	
+Acts of the Apostles	2:41-42	#	194:4.7/#	Твърд в общението	R	
+Acts of the Apostles	2:42	#	170:2.20/#	Fellowship of faithful	S	PROBLEM
+Acts of the Apostles	2:42	#	140:10.1/#	Общуване с Бога	C	
+Acts of the Apostles	2:44	#	194:4.7/#	Споделен живот	S	
+Acts of the Apostles	2:44-45	#	89:3.2/#	Имуществото се възприема като духовен недостатък	C	
+Acts of the Apostles	2:45	#	194:4.7/#	Продажба на активи	S	
+Acts of the Apostles	2:46	#	139:6.5/#	Дойдох да донеса радост	C	
+Acts of the Apostles	2:46-47a	#	194:4.3/#	Първа част: Те приемаха храна с удоволствие	R	
+Acts of the Apostles	3:2,10	#	125:1.5/#	Врата красива	R	
+Acts of the Apostles	3:16	#	156:5.12/#	Скрита вяра	C	
+Acts of the Apostles	3:18	#	194:4.4/#	Втора част: Всички изпълнени с дух	R	
+Acts of the Apostles	3:19-21a	#	194:4.4/#	Втора част: Всички изпълнени с дух	R	
+Acts of the Apostles	3:24	#	97:1.1/#	Самуил, първият еврейски пророк	C	
+Acts of the Apostles	3:25	#	136:1.1/#	Семето на Авраам	R	
+Acts of the Apostles	4:10-12	#	195:0.2/#	Прокламирано евангелие	C	
+Acts of the Apostles	4:10-12	#	190:0.4/#	Вяра във възкресението	C	
+Acts of the Apostles	4:12	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Acts of the Apostles	4:12	#	190:4.1/#	Евангелие на спасението	C	
+Acts of the Apostles	4:13	#	195:6.9/#	Необразовани галилейци	S	
+Acts of the Apostles	4:13	#	139:0.4/#	Невежи и неуки хора	R	
+Acts of the Apostles	4:20	#	138:8.4/#	Говорете само това, което чувате, а не слухове	S	
+Acts of the Apostles	4:24	#	2:1.2/#	Верен и божествен Създател	C	
+Acts of the Apostles	4:24	#	0:2.9/#	God as Creator of everything+	C	PROBLEM
+Acts of the Apostles	4:24	#	6:1.3/#	Бог е създал всичко	C	
+Acts of the Apostles	4:24	#	92:6.6/#	God created heaven & earth+	C	PROBLEM
+Acts of the Apostles	4:24	#	131:2.2/#	Бог създаде всичко	C	
+Acts of the Apostles	4:24	#	131:10.2/#	Бог е създал всички неща и същества	C	
+Acts of the Apostles	4:24	#	95:5.9/#	Бог е създал света и всичко в него	R	
+Acts of the Apostles	4:24	#	131:10.6/#	Творецът	C	
+Acts of the Apostles	4:24	#	142:3.7/#	Вселенски създател	C	
+Acts of the Apostles	4:24	#	1:0.1/#	Бог създаде небето и земята	C	
+Acts of the Apostles	4:24	#	128:1.10/#	Създател на небето и земята	C	
+Acts of the Apostles	4:25	#	155:1.3/#	Защо буйстват езичниците?	C	
+Acts of the Apostles	4:25-26	#	155:1.1/#	Защо езичниците буйстват?	R	
+Acts of the Apostles	4:31b-32	#	194:4.3/#	Втора част: Всички се изпълниха с дух	R	
+Acts of the Apostles	4:32	#	194:3.17/#	Единство на духа	R	
+Acts of the Apostles	4:33	#	181:2.11/#	Проповядвайте евангелието с голяма сила	S	
+Acts of the Apostles	5:1-10	#	4:5.3/#	Поразяват хората в гняв	C	
+Acts of the Apostles	5:14	#	149:2.8/#	Жени-ученици	S	
+Acts of the Apostles	5:17-18	#	194:4.10/#	Лидери в затвора	S	
+Acts of the Apostles	5:19	#	77:8.12/#	Ангел отваря вратите на затвора	R	
+Acts of the Apostles	5:29-32	#	195:0.2/#	Прокламирано евангелие	C	
+Acts of the Apostles	5:34,38-39	#	194:4.10/#	Съветите на Гамалиил	S	
+Acts of the Apostles	5:40	#	194:4.10/#	Садукеите се съветват	S	
+Acts of the Apostles	6:8-7:60	#	128:3.6/#	Пребиване с камъни на Стефан	S	
+Acts of the Apostles	6:8-7:60	#	132:0.5/#	Stephen's stoning	C	PROBLEM
+Acts of the Apostles	7:30	#	85:4.2/#	Ангели на огъня	C	
+Acts of the Apostles	7:32	#	174:3.4/#	Бог на живота	C	
+Acts of the Apostles	7:32	#	174:3.2/#	Живата сила на Бога	C	
+Acts of the Apostles	7:48	#	93:3.2/#	Всевишен	C	
+Acts of the Apostles	7:48	#	43:3.1/#	Най-високите	C	
+Acts of the Apostles	7:48	#	93:2.3/#	Всевишния Бог	C	
+Acts of the Apostles	7:51-60	#	194:4.11/#	Пребиване с камъни на Стефан	S	
+Acts of the Apostles	7:53	#	113:0.1/#	Получено чрез служение от ангели	R	
+Acts of the Apostles	7:55-56	#	5:2.2/#	Дясната ръка на Отца	R	
+Acts of the Apostles	7:55-56	#	38:0.1/#	Божията десница	C	
+Acts of the Apostles	7:55-56	#	13:2.7/#	Дясната ръка на Бога	R	
+Acts of the Apostles	7:55-56	#	21:4.4/#	Божията десница	R	
+Acts of the Apostles	7:58	#	128:3.6/#	Саул от Тарс	S	
+Acts of the Apostles	7:60	#	188:5.6/#	Не им приписвайте този грях	R	
+Acts of the Apostles	8:1b	#	194:4.13/#	Нови гонения	S	
+Acts of the Apostles	8:5	#	192:2.11/#	Проповядвай на езичниците	S	
+Acts of the Apostles	8:5-6,12-16	#	139:5.9/#	Филип не е полагал ръце	S	
+Acts of the Apostles	8:5-8	#	143:6.6/#	Основа за Филип	S	
+Acts of the Apostles	8:12	#	170:5.13/#	Кръщение, приемане в социалния ред	C	
+Acts of the Apostles	8:14-17	#	139:5.9/#	Както направиха Петър и Йоан	S	
+Acts of the Apostles	8:14-25	#	139:2.7/#	Петър защити добавянето на езичници	C	
+Acts of the Apostles	8:32	#	183:5.5/#	Исус мълчи по пътя	S	
+Acts of the Apostles	8:37	#	157:5.1/#	Исус, Синът на Бога	C	
+Acts of the Apostles	8:37	#	136:1.1/#	Исус, Синът на Бога	R	
+Acts of the Apostles	8:37	#	110:2.2/#	Сътрудничество и съгласие	C	
+Acts of the Apostles	8:37	#	141:3.5/#	Евангелие на Божественото синовство	C	
+Acts of the Apostles	8:40	#	130:2.5/#	Филиповата жътва	C	
+Acts of the Apostles	9:1-9,20	#	100:5.3/#	Обръщането на Павел	C	
+Acts of the Apostles	9:1-20	#	196:2.1/#	Павловото християнство	C	
+Acts of the Apostles	9:17	#	194:4.7/#	Наричани „брат“ и „сестра“	C	
+Acts of the Apostles	9:36-42	#	130:1.3/#	Къщата на Дорка в Йопия	C	
+Acts of the Apostles	9:43	#	130:1.3/#	Обръщането на Симон, кожаря	S	
+Acts of the Apostles	10:1-48	#	130:2.5/#	обръщането на Корнилий	S	
+Acts of the Apostles	10:2,22	#	121:2.5/#	„Богобоязливи“ езичници	S	
+Acts of the Apostles	10:5-6	#	130:1.1/#	Гадия и Симон	C	
+Acts of the Apostles	10:7	#	121:2.5/#	„Благочестиви“ езичници	S	
+Acts of the Apostles	10:9-16	#	153:3.6/#	Яркият сън на Петър	S	
+Acts of the Apostles	10:24	#	112:0.10/#	God is no respecter of persons	C	PROBLEM
+Acts of the Apostles	10:34	#	143:1.5/#	Моят Отец не се съобразява с хората	C	
+Acts of the Apostles	10:34	#	138:4.2/#	Равенство за всички, които търсят Бога	C	
+Acts of the Apostles	10:34	#	181:2.14/#	Бог и Синът не се съобразяват с хората	C	
+Acts of the Apostles	10:34	#	137:8.11/#	Нито евреин, нито езичник	C	
+Acts of the Apostles	10:34	#	139:10.9/#	Исус не се съобразява с хората	C	
+Acts of the Apostles	10:34	#	192:2.2/#	Бог не се съобразява с хората	C	
+Acts of the Apostles	10:34	#	174:2.2/#	Исус не се съобразява с хората	C	
+Acts of the Apostles	10:34	#	166:4.11/#	Бог не се съобразява с хората	C	
+Acts of the Apostles	10:34	#	1:4.6/#	Бог не почита хората	C	
+Acts of the Apostles	10:34	#	133:0.3/#	Бог не се съобразява с хората	C	
+Acts of the Apostles	10:34	#	40:10.13/#	Бог не се съобразява с хората	C	
+Acts of the Apostles	10:34	#	12:7.8/#	Бог не се съобразява с хората	C	
+Acts of the Apostles	10:34	#	175:2.3/#	Бог не се съобразява с хората	C	
+Acts of the Apostles	10:34	#	3:1.12/#	Бог не се съобразява с хората	C	
+Acts of the Apostles	10:34	#	155:6.2/#	Бог не се съобразява с расите	C	
+Acts of the Apostles	10:34	#	2:3.1/#	Бог не се съобразява с хората	C	
+Acts of the Apostles	10:34	#	140:1.2/#	Не е Бог на юдеи или езичници	S	
+Acts of the Apostles	10:34	#	134:4.7/#	Всички хора са духовно равни	C	
+Acts of the Apostles	10:34	#	148:6.2/#	Не се съобразява с хората	C	
+Acts of the Apostles	10:34	#	117:6.22/#	Без уважение към хората	C	
+Acts of the Apostles	10:34	#	156:2.4/#	Бог не проявява благосклонност	C	
+Acts of the Apostles	10:34	#	150:1.3/#	Равенство на лицата	C	
+Acts of the Apostles	10:34	#	190:3.1/#	В кралството няма различия	C	
+Acts of the Apostles	10:34	#	190:4.1/#	Нито евреин, нито езичник	S	
+Acts of the Apostles	10:34	#	137:8.6/#	Никой не се съобразява с хората	C	
+Acts of the Apostles	10:35	#	170:3.2/#	Също така се нуждаят от праведност	S	
+Acts of the Apostles	10:36	#	128:1.10/#	Господар на цялото творение	C	
+Acts of the Apostles	10:38	#	53:1.4/#	Дяволът	C	
+Acts of the Apostles	10:38	#	100:7.8/#	Той се зае да прави добро	R	
+Acts of the Apostles	10:38	#	141:3.6/#	Исус се занимаваше с правене на добро	S	
+Acts of the Apostles	10:38	#	171:7.9/#	Исус вървеше и правеше добро	R	
+Acts of the Apostles	10:38	#	159:5.10/#	Исус се занимаваше с правене на добро	C	
+Acts of the Apostles	10:38	#	136:1.1/#	Помазаник	R	
+Acts of the Apostles	10:38	#	161:2.9/#	Исус започна да прави добро	C	
+Acts of the Apostles	10:41	#	190:2.1/#	Исус се е явил на вярващите	S	
+Acts of the Apostles	10:42-43	#	165:3.8/#	Който иска, може да дойде	C	
+Acts of the Apostles	10:42-43	#	2:5.2/#	Всеки, който иска, може да дойде	C	
+Acts of the Apostles	10:42-43	#	32:5.8/#	Който иска, може да дойде	C	
+Acts of the Apostles	10:43	#	166:3.7/#	Всеки, който иска, може да дойде	C	
+Acts of the Apostles	10:43	#	131:10.7/#	Който иска, се спасява	C	
+Acts of the Apostles	10:43	#	139:12.7/#	Който иска, може да дойде	C	
+Acts of the Apostles	10:43	#	100:7.6/#	Който иска, може да дойде	C	
+Acts of the Apostles	10:47	#	141:6.5/#	Кръщение с духа	C	
+Acts of the Apostles	10:47	#	194:2.10/#	Кръщението на духа	C	
+Acts of the Apostles	11:16	#	141:6.5/#	Кръщение с духа	C	
+Acts of the Apostles	11:16	#	194:2.10/#	Кръщението на духа	C	
+Acts of the Apostles	11:16	#	137:8.10/#	Кръщението на Йоан е знак за покаяние	S	
+Acts of the Apostles	11:23	#	121:8.8/#	Благодатта на Господ Исус Христос	R	
+Acts of the Apostles	11:25-26	#	134:7.3/#	Павел в Антиохия	S	
+Acts of the Apostles	11:26	#	121:2.5/#	за първи път наречени „християни“ в Антиохия	S	
+Acts of the Apostles	11:26b	#	194:4.13/#	За първи път наречени „християни“ в Антиохия	S	
+Acts of the Apostles	11:29-30	#	194:4.7/#	Антиохийска колекция за Йерусалим	S	
+Acts of the Apostles	12:1-2	#	192:2.8/#	Вяра, когато те жертват	C	
+Acts of the Apostles	12:1-2	#	181:2.15/#	Джеймс ще „изпие чашата“	S	
+Acts of the Apostles	12:1-2	#	139:3.8/#	Мъченичеството на Джеймс	S	
+Acts of the Apostles	12:7-10	#	77:8.12/#	Освобождението на Петър	C	
+Acts of the Apostles	13:24	#	140:10.1/#	Йоаново кръщение на покаяние	C	
+Acts of the Apostles	13:26	#	165:3.8/#	Който иска, може да дойде	C	
+Acts of the Apostles	13:26	#	166:3.7/#	Всеки, който иска, може да дойде	C	
+Acts of the Apostles	13:26	#	131:10.7/#	Който иска, се спасява	C	
+Acts of the Apostles	13:26	#	32:5.8/#	Който иска, може да дойде	C	
+Acts of the Apostles	13:26	#	2:5.2/#	Всеки, който иска, може да дойде	C	
+Acts of the Apostles	13:26	#	100:7.6/#	Който иска, може да дойде	C	
+Acts of the Apostles	13:26	#	139:12.7/#	Който иска, може да дойде	C	
+Acts of the Apostles	13:26-39	#	195:0.2/#	Прокламирано евангелие	C	
+Acts of the Apostles	13:33	#	20:10.1/#	Единороден Син	C	
+Acts of the Apostles	13:33	#	136:9.7/#	Ти си мой син, днес...	R	
+Acts of the Apostles	13:33	#	21:0.1/#	Единороден син	R	
+Acts of the Apostles	13:33	#	21:1.2/#	Единородни синове	C	
+Acts of the Apostles	13:33	#	33:1.1/#	Единороден Син	C	
+Acts of the Apostles	13:39	#	150:5.3/#	Спасени чрез вяра	S	
+Acts of the Apostles	13:43	#	121:8.8/#	Благодатта на Господ Исус Христос	R	
+Acts of the Apostles	13:46-48	#	157:6.10/#	Ако вярваш в истината, ще имаш вечен живот	C	
+Acts of the Apostles	13:46-48	#	101:6.8/#	Eternal life+	C	PROBLEM
+Acts of the Apostles	13:46-48	#	128:1.10/#	Дарител на вечен живот	C	
+Acts of the Apostles	13:46-48	#	153:2.11/#	Вярващите имат вечен живот	C	
+Acts of the Apostles	13:46-48	#	168:0.7/#	Който вярва, никога не умира	C	
+Acts of the Apostles	13:46-48	#	2:2.1/#	Вечен живот	C	
+Acts of the Apostles	13:46-48	#	121:5.11/#	Живот след смъртта	C	
+Acts of the Apostles	13:46-48	#	27:1.5/#	Живей вечно	C	
+Acts of the Apostles	13:46-48	#	3:0.1/#	Вечен живот	C	
+Acts of the Apostles	13:46-48	#	170:2.20/#	Eternal / everlasting life+	C	PROBLEM
+Acts of the Apostles	13:46-48	#	162:7.5/#	Вярващите никога не умират	C	
+Acts of the Apostles	13:46-48	#	162:2.7/#	Вечен живот	C	
+Acts of the Apostles	13:46-48	#	181:2.11/#	Вечен и непреходен живот в бъдещото царство	C	
+Acts of the Apostles	13:46-48	#	193:1.2/#	Синовете на вярата никога не умират	C	
+Acts of the Apostles	13:46-48	#	190:5.4/#	Вярващите живеят вечно	C	
+Acts of the Apostles	13:46-48	#	170:2.2/#	Надежда за вечен живот	S	
+Acts of the Apostles	13:46-48	#	146:3.7/#	Вечен живот	C	
+Acts of the Apostles	13:47	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Acts of the Apostles	13:47	#	190:4.1/#	Евангелие на спасението	C	
+Acts of the Apostles	14:3,26	#	121:8.8/#	Благодатта на Господ Исус Христос	R	
+Acts of the Apostles	14:15	#	131:10.2/#	Бог е създал всички неща и същества	C	
+Acts of the Apostles	14:15	#	1:0.1/#	Бог създаде небето и земята	C	
+Acts of the Apostles	14:15	#	142:3.7/#	Вселенски създател	C	
+Acts of the Apostles	14:15	#	6:1.3/#	Бог е създал всичко	C	
+Acts of the Apostles	14:15	#	0:2.9/#	God as Creator of everything+	C	PROBLEM
+Acts of the Apostles	14:15	#	92:6.6/#	God created heaven & earth+	C	PROBLEM
+Acts of the Apostles	14:15	#	0:2.9/#	God as Controller+	C	PROBLEM
+Acts of the Apostles	14:15	#	2:1.2/#	Верен и божествен Създател	C	
+Acts of the Apostles	14:15	#	95:5.9/#	Бог е създал света и всичко в него	C	
+Acts of the Apostles	14:15	#	131:10.6/#	Творецът	C	
+Acts of the Apostles	14:15	#	128:1.10/#	Създател на небето и земята	C	
+Acts of the Apostles	14:15	#	131:2.2/#	Бог създаде всичко	C	
+Acts of the Apostles	14:17	#	139:6.5/#	Дойдох да донеса радост	C	
+Acts of the Apostles	14:22	#	136:8.6/#	Влезте в царството чрез скръб	R	
+Acts of the Apostles	14:22	#	137:6.5/#	Царство на скръбта и радостта	C	
+Acts of the Apostles	14:22b	#	178:3.4/#	Преминаване през изпитания	C	
+Acts of the Apostles	14:27	#	195:9.8/#	Очакваща вяра	C	
+Acts of the Apostles	14:27	#	138:8.8/#	Вярата е отворената врата	C	
+Acts of the Apostles	15:5-12	#	139:2.7/#	Петър защити добавянето на езичници	C	
+Acts of the Apostles	15:11,40	#	121:8.8/#	Благодатта на Господ Исус Христос	R	
+Acts of the Apostles	16:17	#	93:3.2/#	Всевишен	C	
+Acts of the Apostles	16:17	#	43:3.1/#	Най-високите	C	
+Acts of the Apostles	16:17	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Acts of the Apostles	16:17	#	93:2.3/#	Всевишния Бог	C	
+Acts of the Apostles	16:17	#	190:4.1/#	Евангелие на спасението	C	
+Acts of the Apostles	16:30-31,33	#	170:5.13/#	Приемане чрез вяра	S	
+Acts of the Apostles	16:31	#	110:2.2/#	Сътрудничество и съгласие	C	
+Acts of the Apostles	16:37-39	#	121:1.2/#	Павел беше римски гражданин	S	
+Acts of the Apostles	17:2-3	#	196:2.5/#	Възвеличаване на възкръсналия Христос	C	
+Acts of the Apostles	17:4,17	#	121:2.5/#	„Благочестиви“ езичници	S	
+Acts of the Apostles	17:6	#	195:6.9/#	Обърнали света с главата надолу	S	
+Acts of the Apostles	17:22-23	#	195:1.1/#	Започва гръцкото християнство	S	
+Acts of the Apostles	17:22-23	#	87:5.1/#	Неизвестни богове	R	
+Acts of the Apostles	17:22-25,28	#	11:8.1/#	В Бога всичко се състои	C	
+Acts of the Apostles	17:24,28	#	11:8.1/#	Бог е всичко	C	
+Acts of the Apostles	17:24-31	#	195:1.1/#	Версията на Евангелието на Павел	S	
+Acts of the Apostles	17:25	#	36:6.1/#	Живот, както материален, така и духовен	C	
+Acts of the Apostles	17:25	#	45:4.3/#	Даващият дъх	R	
+Acts of the Apostles	17:25	#	1:1.4/#	Дар на живота	C	
+Acts of the Apostles	17:25	#	2:2.1/#	Дава на всички живот	R	
+Acts of the Apostles	17:26	#	52:3.7/#	Всички народи са от една кръв	R	
+Acts of the Apostles	17:27	#	12:7.12/#	God not far	C	PROBLEM
+Acts of the Apostles	17:28	#	2:1.11/#	В Него живеем и се движим	R	
+Acts of the Apostles	17:28	#	105:2.11/#	Живеем, движим се и съществуваме	C	
+Acts of the Apostles	17:28	#	117:3.12/#	Ние живеем, движим се, имаме своето съществуване	C	
+Acts of the Apostles	17:28	#	3:1.2/#	Бог е всичко и във всичко	C	
+Acts of the Apostles	17:28	#	12:7.12/#	В Бога живеем и се движим	C	
+Acts of the Apostles	17:28	#	42:1.2/#	В Него всичко се състои	C	
+Acts of the Apostles	17:28	#	1:5.16/#	В Него живеем и се движим ...	R	
+Acts of the Apostles	17:28	#	174:3.2/#	В Него живеем и се движим	S	
+Acts of the Apostles	17:28	#	9:0.4/#	В Бога всичко се състои	C	
+Acts of the Apostles	17:28	#	56:9.14/#	Бог е всичко и във всичко	C	
+Acts of the Apostles	17:28	#	56:1.5/#	Двойственост на реалността	C	
+Acts of the Apostles	17:28-29	#	5:4.8/#	Ние сме деца на Бога	C	
+Acts of the Apostles	17:28-29	#	1:3.1/#	Потомство на Бог	R	
+Acts of the Apostles	17:28-29	#	181:2.12/#	Вярващи, синове на Бога	C	
+Acts of the Apostles	17:28-29	#	34:6.10/#	Божии синове	C	
+Acts of the Apostles	17:28-29	#	131:10.2/#	Ние сме Божии синове	C	
+Acts of the Apostles	17:28-29	#	40:6.1/#	Вяра, синове на Бога	C	
+Acts of the Apostles	17:28-29	#	8:6.4/#	Синове на Бога	C	
+Acts of the Apostles	17:28-29	#	2:5.4/#	Ние сме синове на Бога	C	
+Acts of the Apostles	17:28-29	#	131:10.6/#	Връзката между баща и дете	C	
+Acts of the Apostles	17:28-29	#	149:2.10/#	Синове на живия Бог	C	
+Acts of the Apostles	17:28-29	#	193:0.5/#	Ние сме Божии синове на земята	C	
+Acts of the Apostles	17:28-29	#	131:10.8/#	Father-child relationship+	C	PROBLEM
+Acts of the Apostles	17:28-29	#	142:5.2/#	Деца на живия Бог	C	
+Acts of the Apostles	17:28-29	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+Acts of the Apostles	17:28-29	#	141:4.2/#	Ние сме Божии деца	C	
+Acts of the Apostles	17:28-29	#	190:3.1/#	Евангелие на синовството	C	
+Acts of the Apostles	17:28-29	#	196:0.2/#	Всяко дете е син на Бога	C	
+Acts of the Apostles	17:28-29	#	153:2.4/#	Братство на Божиите синове	C	
+Acts of the Apostles	17:28-29	#	141:2.2/#	Вяра - Божии синове	C	
+Acts of the Apostles	17:28-29	#	170:2.20/#	Children of God+	C	PROBLEM
+Acts of the Apostles	17:28-29	#	193:0.3/#	Вие сте синове Божии на земята	C	
+Acts of the Apostles	17:28-29	#	121:4.3/#	Стоиците „потомци на Бога“	R	
+Acts of the Apostles	17:28-29	#	193:1.2/#	Всички хора са синове Божии	C	
+Acts of the Apostles	17:28-29	#	140:1.6/#	Деца на живия Бог	C	
+Acts of the Apostles	17:28-29	#	181:2.14/#	Вярващите са Божии синове	C	
+Acts of the Apostles	17:28-29	#	143:2.7/#	Освободени Божии синове	C	
+Acts of the Apostles	17:28-29	#	170:2.8/#	Спасени Божии синове	S	
+Acts of the Apostles	17:28-29	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+Acts of the Apostles	17:28-29	#	180:1.6/#	Вярващите са синове на Бога	C	
+Acts of the Apostles	17:28-29	#	99:5.5/#	Всички са деца на Бога	C	
+Acts of the Apostles	17:28-29	#	190:5.4/#	Всички хора са синове Божии	C	
+Acts of the Apostles	17:28-29	#	149:6.8/#	Ние сме Негови синове	R	
+Acts of the Apostles	17:28-29	#	140:3.16/#	Sons of living God+	C	PROBLEM
+Acts of the Apostles	17:28a	#	1:1.2/#	В Бог човекът живее, движи се ...	R	
+Acts of the Apostles	18:2,18,26	#	133:3.12/#	Акила и Прискила	C	
+Acts of the Apostles	18:5	#	133:3.3/#	Сила и Тимотей	C	
+Acts of the Apostles	18:7	#	133:3.5/#	Юст	C	
+Acts of the Apostles	18:8	#	133:3.1/#	Крисп	C	
+Acts of the Apostles	18:10	#	117:6.27/#	Бог е с нас	C	
+Acts of the Apostles	18:27	#	121:8.8/#	Благодатта на Господ Исус Христос	R	
+Acts of the Apostles	19:1-10	#	133:6.3/#	Християнството започва в Ефес	C	
+Acts of the Apostles	19:18	#	156:2.7/#	Ако изповядате греховете си, те се прощават	C	
+Acts of the Apostles	19:20	#	96:1.9/#	Кириос	C	
+Acts of the Apostles	19:29	#	133:3.11/#	Gaius	C	
+Acts of the Apostles	20:4	#	133:3.11/#	Gaius	C	
+Acts of the Apostles	20:24,32	#	121:8.8/#	Благодатта на Господ Исус Христос	R	
+Acts of the Apostles	20:28	#	170:5.6/#	Исус като Изкупител на църквата	C	
+Acts of the Apostles	20:32	#	165:3.8/#	Духовно наследство	C	
+Acts of the Apostles	20:35	#	100:7.10/#	По-благословено е да се дава	R	
+Acts of the Apostles	20:35	#	103:2.9/#	По-благословени да дават	R	
+Acts of the Apostles	20:35	#	28:6.18/#	Най-големият да бъде сървър на всички	R	
+Acts of the Apostles	20:35	#	140:8.18/#	По-благословено е да се даде	R	
+Acts of the Apostles	20:37	#	140:5.16/#	Не е нечовешко да се плаче	C	
+Acts of the Apostles	21:19	#	195:9.8/#	Очакваща вяра	C	
+Acts of the Apostles	21:37-40	#	121:1.2/#	Павел говореше на гръцки език	S	
+Acts of the Apostles	22:2-3	#	121:1.2/#	Павел говореше на гръцки език	S	
+Acts of the Apostles	22:3	#	126:2.3/#	Седнал в нозете на никого	R	
+Acts of the Apostles	22:13	#	194:4.7/#	Наричани „брат“ и „сестра“	C	
+Acts of the Apostles	22:24-29	#	121:1.2/#	Павел беше римски гражданин	S	
+Acts of the Apostles	23:11	#	100:7.9/#	Бъдете добронамерени	R	
+Acts of the Apostles	23:31-24:27	#	130:2.5/#	Затворът на Павел	S	
+Acts of the Apostles	24:15	#	113:6.8/#	Възкресение на неправедните	R	
+Acts of the Apostles	24:16	#	156:2.7/#	Пазете съвестта си чиста от обиди	C	
+Acts of the Apostles	26:18	#	191:4.3/#	Светлина в духовния мрак	C	
+Acts of the Apostles	26:18	#	165:3.8/#	Духовно наследство	C	
+Acts of the Apostles	26:20	#	159:5.8/#	Исус учи на положителни действия	C	
+Acts of the Apostles	27:8	#	130:5.4/#	Справедливи убежища	S	
+Acts of the Apostles	28:26-27	#	151:1.4/#	Виждам, без да виждам и т.н.	S	
+Acts of the Apostles	28:28	#	190:4.1/#	Евангелие на спасението	C	
+Acts of the Apostles	28:28	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Acts of the Apostles	28:31	#	170:1.4/#	Исус е преподавал и двата възгледа	S	

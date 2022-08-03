@@ -1,0 +1,69 @@
+Philippians	1:2	#	131:10.5/#	God is MY Father+	C	PROBLEM
+Philippians	2:15	#	170:2.20/#	Children of God+	C	PROBLEM
+Philippians	1:2	#	131:10.6/#	Връзката между баща и дете	C	
+Philippians	1:2	#	131:10.8/#	Father-child relationship+	C	PROBLEM
+Philippians	1:2	#	141:4.2/#	Бог е наш баща	C	
+Philippians	1:2	#	194:4.6/#	Бог: любящ баща на всички хора	C	
+Philippians	1:2	#	149:6.8/#	Бог е нашият Баща	C	
+Philippians	1:2	#	131:10.8/#	Father-child relationship+	C	PROBLEM
+Philippians	1:19	#	2:6.3/#	Бог на спасението	C	
+Philippians	1:19,28	#	190:5.4/#	Gospel of Salvation of God+	C	PROBLEM
+Philippians	1:19,28	#	190:4.1/#	Евангелие на спасението	C	
+Philippians	1:27	#	16:6.3/#	Сродни умове	C	
+Philippians	2:2	#	16:6.3/#	Сродни умове	C	
+Philippians	2:5	#	48:6.15/#	Mind of Jesus	C	PROBLEM
+Philippians	2:5	#	9:5.4/#	Дух	C	
+Philippians	2:5	#	102:4.1/#	Нека умът на Христос бъде във вас	R	
+Philippians	2:5	#	107:5.3/#	Духовно съзнание	C	
+Philippians	2:5	#	42:12.8/#	Mind dominance	C	PROBLEM
+Philippians	2:5	#	2:1.2/#	Първичен разум	C	
+Philippians	2:5	#	110:2.5/#	Умовете стават едно цяло	C	
+Philippians	2:5	#	6:6.4/#	Духовно съзнание	C	
+Philippians	2:5-7	#	20:1.1/#	Райски синове на Бога	C	
+Philippians	2:5-8	#	128:1.6/#	Духът да бъде във вас като в Исус	R	
+Philippians	2:9	#	128:1.10/#	Име над всяко име	C	
+Philippians	2:15	#	193:1.2/#	Всички хора са синове Божии	C	
+Philippians	2:15	#	40:6.1/#	Вяра, синове на Бога	C	
+Philippians	2:15	#	149:2.10/#	Синове на живия Бог	C	
+Philippians	2:15	#	196:0.2/#	Всяко дете е син на Бога	C	
+Philippians	2:15	#	1:3.1/#	Потомство на Бог	C	
+Philippians	2:15	#	2:5.4/#	Ние сме синове на Бога	C	
+Philippians	2:15	#	5:4.8/#	Ние сме деца на Бога	C	
+Philippians	2:15	#	141:4.2/#	Ние сме Божии деца	C	
+Philippians	2:15	#	190:5.4/#	Всички хора са синове Божии	C	
+Philippians	2:15	#	153:2.4/#	Братство на Божиите синове	C	
+Philippians	2:15	#	181:2.12/#	Вярващи, синове на Бога	C	
+Philippians	2:15	#	140:1.6/#	Деца на живия Бог	C	
+Philippians	2:15	#	140:3.16/#	Sons of living God+	C	PROBLEM
+Philippians	2:15	#	193:0.5/#	Ние сме Божии синове на земята	C	
+Philippians	2:15	#	141:2.2/#	Вяра - Божии синове	C	
+Philippians	2:15	#	142:1.1/#	Faith-children of living God+	C	PROBLEM
+Philippians	2:15	#	142:5.2/#	Деца на живия Бог	C	
+Philippians	2:15	#	193:0.3/#	Вие сте синове Божии на земята	C	
+Philippians	2:15	#	149:6.8/#	Ние сме Негови синове	C	
+Philippians	2:15	#	131:10.6/#	Връзката между баща и дете	C	
+Philippians	2:15	#	170:2.8/#	Спасени Божии синове	S	
+Philippians	2:15	#	190:3.1/#	Евангелие на синовството	C	
+Philippians	2:15	#	131:10.2/#	Ние сме Божии синове	C	
+Philippians	2:15	#	170:2.20/#	Liberated sons of God+	C	PROBLEM
+Philippians	2:15	#	34:6.10/#	Божии синове	C	
+Philippians	2:15	#	143:2.7/#	Освободени Божии синове	C	
+Philippians	2:15	#	180:1.6/#	Вярващите са синове на Бога	C	
+Philippians	2:15	#	181:2.14/#	Believers are sons of God+	C	PROBLEM
+Philippians	2:15	#	8:6.4/#	Синове на Бога	C	
+Philippians	2:15	#	99:5.5/#	Всички са деца на Бога	C	
+Philippians	2:25	#	194:4.7/#	Наричани „брат“ и „сестра“	C	
+Philippians	3:5	#	121:1.2/#	Павел, евреин от Евреите	S	
+Philippians	3:8	#	5:4.8/#	Познайте Господ Исус Христос	R	
+Philippians	3:9-10	#	5:4.8/#	Познай Бога и себе си като син	R	
+Philippians	3:12	#	196:1.2/#	Следвайте Учителя	C	
+Philippians	3:13b-14	#	156:2.6/#	Забрави миналото, върви напред	R	
+Philippians	4:2	#	16:6.3/#	Сродни умове	C	
+Philippians	4:3	#	27:5.1/#	Книга на живота	R	
+Philippians	4:6	#	146:2.16/#	Не се безпокойте	C	
+Philippians	4:7	#	148:6.3/#	{Мирът преминава в разбирателство	C	
+Philippians	4:7	#	100:6.6/#	Съвършен мир	C	
+Philippians	4:7	#	144:8.8/#	Божият мир превъзхожда разбирането	C	
+Philippians	4:7	#	181:1.10/#	Мирът минава през разбирането	S	
+Philippians	4:7	#	5:4.2/#	Траен мир	C	
+Philippians	4:11	#	121:4.3/#	Научете се да бъдете доволни	R	
