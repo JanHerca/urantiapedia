@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Autor: **Sir James Jeans, M. A., D. Sc., Sc. D., LL. D., F. R. S.**
 
-<figure id="Universe_front" class="image image_resized"><img src="/image/BookFront_The_Universe_Around_Us_es.png"></figure>
+<figure id="Universe_front" class="image image_resized"><img src="/image/book/Sir_James_Jeans/The_Universe_Around_Us/BookFront_es.png"></figure>
 
 <p style="text-align: center;">
 CAMBRIDGE <br>
@@ -46,7 +46,7 @@ América por la Compañía Macmillan <br>
 Todos los derechos reservados <br>
 </p>
 
-<figure id="Universe_plate_00" class="image image_resized"><img src="/image/The_Universe_Around_Us_plate_00.png"></figure>
+<figure id="Universe_plate_00" class="image image_resized"><img src="/image/book/Sir_James_Jeans/The_Universe_Around_Us/plate_00.png"></figure>
 <em>Observatorio Lowell</em>
 
 El descubrimiento de Plutón
