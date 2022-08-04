@@ -1435,7 +1435,7 @@ class Book {
 					`<audio controls="controls" preload="none">\r\n` +
 					`<source src="/audio/ub_${stri}.mp3" type="audio/mpeg">\r\n` +
 					`</audio>\r\n` +
-					`</p>`;
+					`</p>\r\n`;
 			}
 
 			//Sections & paragraphs

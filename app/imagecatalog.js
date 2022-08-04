@@ -131,24 +131,44 @@ class ImageCatalog {
 	 * @return {?string}
 	 */
 	getImageForRef = (ref) => {
+		/*
+		TODO: Could be interesting create an algorythm to locate floating right images:
+		- using image-style-align-right and style="margin:10px 0 10px 10px;" in figure tag
+		- adding @media (max-width: 1000px){.v-main .contents figure.image-style-align-right{float:none;}}
+		to each page in CSS injected to avoid floating in small devices
+		- problem is that floating floats next paragraphs, not previous
+		and we are locating images after paragraphs
+		- also this option should not be use when images are horizontal or when
+		other images are close, so it is difficult
+		*/
 		let img = null;
 		this.images.find(s => {
 			const i = s.list.find(item => item.ref === ref);
 			if (i && s.path && i.file) {
-				let title = (this.language === 'en' ?
-					i.title : i[`title_${this.language}`]);
-				title = (title ? title : '');
-				const author = (i.author && i.author != '' ? ', ' + i.author : '');
-				const year = (i.year && i.year != '' ? ', ' + i.year : '');
+				const id = ref.replace(/:|\./g, '_');
+				let title =  (this.language === 'en' ?
+					i.title : i[`title_${this.language}`]) ;
+				title = (title ? '<em>' + title + '</em>': '');
+				const author = (i.author && i.author != '' ? i.author : '');
+				const year = (i.year && i.year != '' ? i.year : '');
 				const url = (i.url && i.url != '' ? 
-					` (<a href="${i.url}" target="_blank">Wikimedia</a>)` : '');
-				const footer = title + author + year + url;
+					`<a href="${i.url}" target="_blank">Wikimedia</a>` : '');
+				const captions = [title, author, year, url].filter(n => n != '');
+				let footer = '';
+				if (captions.length > 0) {
+					footer = 
+						`<figcaption style="font-size:14px;">\r\n` +
+							`${captions.join(', ')}\r\n` +
+						`</figcaption>\r\n`;
+				}
+				const cls = (i.float === 'R' ? ' image-style-align-right' : '');
+				const margin = (i.float === 'R' ? ' style="margin:10px 0 10px 10px;"' : '');
 
 				img = 
-					`<figure id="Figure_${ref}" class="image image_resized">\r\n` + 
+					`<figure id="Figure_${id}" class="image${cls}"${margin}>\r\n` + 
 						`<img src="${s.path}/${i.file}">\r\n` +
-					`</figure>\r\n` +
-					(footer != '' ? `<em>${footer}</em>\r\n` : '');
+						`${footer}` +
+					`</figure>\r\n`;
 			}
 			return (i != null);
 		});
