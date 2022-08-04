@@ -101,7 +101,7 @@ const Processes = {
 			['input', 'txt', 'topic-index-{0}'], 
 			['output', 'mediawiki', 'book-{0}']]
 	},
-	"BOOK_JSON_TOPIC_TXT_TO_WIKIJS": {
+	"BOOK_JSON_TOPICS_TXT_TO_WIKIJS": {
 		active: true,
 		desc: {
 			en: "Convert Urantia Book (JSON) + Topic Index (TXT) to Wiki.js",

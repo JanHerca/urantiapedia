@@ -1344,11 +1344,13 @@ class Book {
 	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
 	 * previous param is english then this is not required. If it is not english
 	 * then this param is required.
+	 * @param {?ImageCatalog} imageCatalog Image catalog.
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * array of errors in reject function.
 	 */
-	writeToWikijs = (dirPath, topicIndex, topicIndexEN) => {
-		return this.writeTo(dirPath, 'html', topicIndex, topicIndexEN);
+	writeToWikijs = (dirPath, topicIndex, topicIndexEN, imageCatalog) => {
+		return this.writeTo(dirPath, 'html', topicIndex, topicIndexEN, 
+			imageCatalog);
 	};
 
 	/**
@@ -1360,10 +1362,11 @@ class Book {
 	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
 	 * previous param is english then this is not required. If it is not english
 	 * then this param is required.
+	 * @param {?ImageCatalog} imageCatalog Image catalog.
 	 * @return {Promise} Promise that returns null in resolve function and an
 	 * error in reject function.
 	 */
-	writeFileToWikijs = (filePath, paper, topicIndex, topicIndexEN) => {
+	writeFileToWikijs = (filePath, paper, topicIndex, topicIndexEN, imageCatalog) => {
 		return new Promise((resolve, reject) => {
 			//Checks
 			let error = null;
@@ -1403,7 +1406,7 @@ class Book {
 			const nextLink = getWikijsBookLink(nextPaper, this.language);
 			const indexLink = getWikijsBookLink('index', this.language);
 			const lan = (this.language === 'en' ? '' : '/' + this.language);
-			const stri = (index > 99 ? `${index}` : 
+			let stri = (index > 99 ? `${index}` : 
 				(index > 9 ? `0${index}` : `00${index}`));
 			const tpath = `${lan}/topic/`;
 			const tiOK = (topicIndex && (this.language === 'en' ||
@@ -1453,7 +1456,7 @@ class Book {
 				}
 
 				section.pars.forEach(par => {
-					let pcontent, aref, topics, di, si, pi;
+					let pcontent, aref, topics, di, si, pi, image;
 					const all_items = [];
 					if (!par.par_ref || !par.par_content) {
 						error = 'book_par_no_refcontent';
@@ -1546,6 +1549,12 @@ class Book {
 						footnoteIndex++;
 					}
 					html += `${pcontent}</p>\r\n`;
+
+					//Image if exists
+					image = imageCatalog.getImageForRef(par.par_ref);
+					if (image) {
+						html += image;
+					}
 				});
 			});
 
@@ -2521,10 +2530,11 @@ class Book {
 	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
 	 * previous param is english then this is not required. If it is not english
 	 * then this param is required.
+	 * @param {?ImageCatalog} imageCatalog Image catalog.
 	 * @return {Promise} Promise that returns null in resolve function or
 	 * an array of errors in reject function.
 	 */
-	writeTo = (dirPath, format, topicIndex, topicIndexEN) => {
+	writeTo = (dirPath, format, topicIndex, topicIndexEN, imageCatalog) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
@@ -2551,7 +2561,7 @@ class Book {
 					} else if (format === 'html') {
 						filePath = path.join(dirPath, `${i}.${format}`);
 						p = this.writeFileToWikijs(filePath, paper, topicIndex,
-							topicIndexEN);
+							topicIndexEN, imageCatalog);
 					} else {
 						p = Promise.resolve(null);
 					}

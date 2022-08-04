@@ -41,6 +41,9 @@ Other replacements:
 * Change quotes inside other quotes:
     - Search (regex): `("[^"]*)(")([^"]*)(")([^"]*")`
     - Replace: `$1“$3”$5`
+* Remove duplicate lines (requires a previous sorting, see below):
+    - Search (regex): `^(.*)(\n\1)+$`
+    - Replace: `$1`
 
 Other replacements: 
 í => ’
@@ -48,9 +51,15 @@ Other replacements:
 ì => “
 î => ”
 
-
 Search end of sentences: [\.”\?!] 
 Search by page ref: `"par_pageref": "359.\d+"` in `./input/json/book-e*-footnotes`
+
+
+## VS Code tricks
+
+* Sort lines: Select the lines to sort, then View / Command Palette (Ctrl + P and >) and type or use Sort Lines Ascending or Sort Lines Descending.
+* Format Markdown tables: click inside the table anywhere and Shift + Alt + F
+
 
 ## Typings in VS Code
 
