@@ -157,15 +157,17 @@ class ImageCatalog {
 				let footer = '';
 				if (captions.length > 0) {
 					footer = 
-						`<figcaption style="font-size:14px;">\r\n` +
+						`<figcaption style="font-size:14px;display:table-caption;caption-side:bottom;">\r\n` +
 							`${captions.join(', ')}\r\n` +
 						`</figcaption>\r\n`;
 				}
 				const cls = (i.float === 'R' ? ' image-style-align-right' : '');
-				const margin = (i.float === 'R' ? ' style="margin:10px 0 10px 10px;"' : '');
+				const style = (i.float === 'R' ? 
+					'style="margin:10px 0 10px 10px;display:table;"' : 
+					'style="display:table;"');
 
 				img = 
-					`<figure id="Figure_${id}" class="image${cls}"${margin}>\r\n` + 
+					`<figure id="Figure_${id}" class="image${cls}" ${style}>\r\n` + 
 						`<img src="${s.path}/${i.file}">\r\n` +
 						`${footer}` +
 					`</figure>\r\n`;

@@ -421,3 +421,4 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zacchaeus in the Sycamore Awaiting the Passage of Jesus                         | Zaqueo en el sicómoro esperando el paso de Jesús                                      |
 | Zachaeus in tree                                                                | Zaqueo en el árbol                                                                    |
 | Zacharias Killed Between the Temple and the Altar                               | Zacarías asesinado entre el templo y el altar                                         |
+| Jesus face                                                                      | El Rostro de Jesús                                                                    |
