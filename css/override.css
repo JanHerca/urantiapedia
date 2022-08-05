@@ -20,6 +20,14 @@ CSS will automatically be minified. */
     display: table-caption;
     caption-side: bottom;
 }
+.v-list--dense .v-list-item.v-list-item--link {
+    min-height: 30px;
+}
+.v-list-item--link .v-list-item__subtitle, .v-list-item--link .v-list-item__title {
+    overflow: auto;
+    text-overflow: initial;
+    white-space: inherit;
+}
 @media (max-width:1000px) {
     .v-main .contents figure.image-style-align-right,
     .v-main .contents figure.image-style-align-left {
