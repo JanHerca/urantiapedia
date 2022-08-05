@@ -10,8 +10,10 @@ dateCreated: 2021-11-28T11:12:37.284Z
 
 Autor: **Halbert Katzen J.D.** | Traductor: **Jan Herca**
 
-<figure id="Gobekli_Tepe_fig_1" class="image image_resized"><img src="/image/gobeklitepe01.jpg" width="1200" heigth="996"></figure>
-<em>Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_1" class="image urantiapedia">
+<img src="/image/gobeklitepe01.jpg" width="1200" heigth="996">
+<figcaption><em>Gobekli Tepe</em></figcaption>
+</figure>
 
 ## Resumen
 
@@ -31,15 +33,19 @@ Gobekli Tepe es más conocido por ser un descubrimiento arqueológico que desaf�
 
 Las teorías sobre la historia de la civilización humana se basan en evidencias que sugieren un patrón de progreso, tanto cultural como genético, durante largos períodos de tiempo. La progresión es lo que parece ocurrir naturalmente; el retroceso es la excepción. La «supervivencia del más apto» y las sucesivas generaciones basadas en los logros de las generaciones anteriores son los modelos básicos para el progreso genético y cultural. La regresión ocurre, pero requiere una explicación especial: guerras, clima cambiante, prácticas culturales imprudentes, superpoblación, algo. Gobekli Tepe proporciona una fuerte evidencia de una civilización que fue extremadamente precoz y también estuvo en declive durante miles de años. Eventualmente, el área pasó a estar habitada por una civilización inferior. Pero los académicos son reacios a formular hipótesis en esta dirección porque requeriría reformar teorías ampliamente aceptadas sobre la naturaleza progresiva de la evolución humana.
 
-<figure id="Gobekli_Tepe_fig_2" class="image image_resized"><img src="/image/gobekli_tepe_map.jpg" width="520" heigth="362"></figure>
-<em>Localización de Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_2" class="image urantiapedia">
+<img src="/image/gobekli_tepe_map.jpg" width="520" heigth="362">
+<figcaption><em>Localización de Gobekli Tepe</em></figcaption>
+</figure>
 
 *El Libro de Urantia* proporciona una historia de la humanidad que se armoniza perfectamente con los descubrimientos que se realizan en Gobekli Tepe. Presenta una explicación de los misterios de Gobekli Tepe en términos de una historia de Adán y Eva que varía significativamente del registro del Antiguo Testamento, pero que, según afirman los autores, es la base de muchos de nuestros mitos y tradiciones religiosas sobre los orígenes de la humanidad. No es de extrañar, debido a la naturaleza inusual y la edad de este sitio arqueológico, que los expertos rápidamente comenzaran a especular sobre cómo se podría relacionar con las tradiciones religiosas acerca de Adán y Eva. Entonces, en cierto sentido, la explicación de *El Libro de Urantia* encaja bien con las especulaciones académicas sobre la importancia de Gobekli Tepe. Aún así, mientras se demuestran paralelismos claros, los aspectos únicos de la historia de Adán y Eva que se encuentran en *El Libro de Urantia*, sin duda, también plantearán muchas preguntas.
 
 Este informe no intentará proporcionar todas las respuestas. Se pueden encontrar algunas explicaciones leyendo el informe [Adán y Eva](/es/article/Halbert_Katzen/Adam_and_Eve) y el informe [El Jardín del Edén](/es/article/Halbert_Katzen/Garden_of_Eden). Para una comprensión más completa, lea los documentos 73 a 80 en *El Libro de Urantia*. Además, es posible que desee revisar el informe [Eugenesia, razas y El Libro de Urantia](/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index). En enero de 2011, UBtheNEWS preparó y publicó la primera y única revisión exhaustiva de este tema.
 
-<figure id="Gobekli_Tepe_fig_3" class="image image_resized"><img src="/image/gobeklitepe03.jpg" width="700" heigth="410"></figure>
-<em>Gobekli Tepe en Google Maps</em>
+<figure id="Gobekli_Tepe_fig_3" class="image urantiapedia">
+<img src="/image/gobeklitepe03.jpg" width="700" heigth="410">
+<figcaption><em>Gobekli Tepe en Google Maps</em></figcaption>
+</figure>
 
 Se proporcionará primero cierta información de *El Libro de Urantia* sobre Adán y Eva, porque Gobekli Tepe es en sí mismo un sitio muy misterioso. Esta estructura le permitirá poner inmediatamente en contexto los misteriosos aspectos de Gobekli Tepe a medida que se revisan.
 
@@ -73,15 +79,19 @@ Así es como *El Libro de Urantia* proporciona una explicación de la historia h
 
 Los académicos se esfuerzan por encontrar interpretaciones para Gobekli Tepe por una muy buena razón. Por un lado, el profesionalismo requiere que eviten volverse demasiado creativos con sus especulaciones e interpretaciones de las evidencias arqueológicas y antropológicas. Y, por otro lado, Gobekli Tepe requiere pensar fuera de los límites convencionales. Con esto en mente, pasamos a citas de una variedad de fuentes (principalmente [newsweek.com](https://www.newsweek.com/) y [archaeology.org](https://www.archaeology.org/)) sobre el misterio de Gobekli Tepe.
 
-<figure id="Gobekli_Tepe_fig_4" class="image image_resized"><img src="/image/gobeklischmidt.png" width="450" heigth="340"></figure>
-<em>Klaus Schmidt en Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_4" class="image urantiapedia">
+<img src="/image/gobeklischmidt.png" width="450" heigth="340">
+<figcaption><em>Klaus Schmidt en Gobekli Tepe</em></figcaption>
+</figure>
 
 > El arqueólogo alemán que ha estado excavando el sitio desde 1994 resume así cuatro meses más de excavación. «En 14 años, hemos descubierto apenas el cinco por ciento de lo que hay aquí. Hay décadas de trabajo por delante», dice Klaus Schmidt.[^9]
 
 > Los nuevos descubrimientos finalmente están comenzando a remodelar el lento consenso de la arqueología. Göbekli Tepe es «increíblemente grande y sorprendente, en una fecha ridículamente temprana», según Ian Hodder, director del programa de arqueología de Stanford. Entusiasmado sobre las «enormes piedras grandes y el arte fantástico y altamente refinado» en Göbekli, Hodder ---quien ha pasado décadas en yacimientos neolíticos rivales de la Nueva Edad de Piedra--- dice: «Mucha gente piensa que lo cambia todo... Vuelca todo el carrito de manzanas. Todas nuestras teorías estaban equivocadas».[^10]
 
-<figure id="Gobekli_Tepe_fig_5" class="image image_resized"><img src="/image/gobeklitepeariel.jpg" width="974" heigth="610"></figure>
-<em>Vista aérea de Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_5" class="image urantiapedia">
+<img src="/image/gobeklitepeariel.jpg" width="974" heigth="610">
+<figcaption><em>Vista aérea de Gobekli Tepe</em></figcaption>
+</figure>
 
 > [...] Las estructuras no sólo son anteriores a la alfarería, la metalurgia y la invención de la escritura o la rueda; fueron construidas antes de la llamada Revolución Neolítica, es decir, del comienzo de la agricultura y la cría de animales alrededor del año 9.000 a.C. Pero la construcción de Göbekli Tepe implica una organización de un orden de complejidad no asociado hasta ahora con las sociedades preneolíticas.[^11]
 
@@ -93,15 +103,19 @@ Los académicos se esfuerzan por encontrar interpretaciones para Gobekli Tepe po
 > 
 > Antes del descubrimiento de Göbekli Tepe, los arqueólogos creían que las sociedades en el Neolítico temprano estaban organizadas en pequeñas tribus de cazadores-recolectores y que las primeras prácticas religiosas complejas fueron desarrolladas por grupos que ya dominaban la agricultura. Los eruditos pensaron que la arquitectura monumental más antigua sólo era posible después de que la agricultura proporcionara al pueblo neolítico con excedentes de alimentos, liberándolos de un enfoque constante en la supervivencia cotidiana. Un yacimiento con un arte increíble y detalles intrincados, Göbekli Tepe, ha puesto esta teoría patas arriba.[^12]
 
-<figure id="Gobekli_Tepe_fig_6" class="image image_resized"><img src="/image/GobekliTepe_siteA.jpg" width="468" heigth="314"></figure>
-<em>Estructuras en T de Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_6" class="image urantiapedia">
+<img src="/image/GobekliTepe_siteA.jpg" width="468" heigth="314">
+<figcaption><em>Estructuras en T de Gobekli Tepe</em></figcaption>
+</figure>
 
 > La tesis de Schmidt es simple y audaz: fue el impulso de la adoración lo que unió a la humanidad en los primeros conglomerados urbanos. La necesidad de construir y mantener este templo, dice, llevó a los constructores a buscar fuentes estables de alimentos, como granos y animales que pudieran ser domesticados, y luego establecerse para proteger su nueva forma de vida. El templo engendró la ciudad.[^10]
 > 
 > Algunos arqueólogos, como Hodder, el especialista en el Neolítico, se preguntan si Schmidt simplemente ha perdido la evidencia de una aldea o si su datación del sitio es demasiado precisa. Pero la verdadera razón por la cual las ruinas en Göbekli permanecen casi desconocidas, aún no incorporadas en los libros de texto, es que la evidencia es demasiado fuerte, no demasiado débil. «El problema con este descubrimiento», como dice Schwartz de Johns Hopkins, «es que es único». No se han encontrado otros sitios monumentales de la época. Antes de Göbekli, los humanos dibujaban figuras de palitos en las paredes de las cuevas, modelaban arcilla en minúsculas muñecas, y tal vez amontonaban piedras pequeñas para refugiarse o adorar. Incluso después de Göbekli, hay poca evidencia de construcción sofisticada.[^10]
 
-<figure id="Gobekli_Tepe_fig_7" class="image image_resized"><img src="/image/GobekliTepe_siteB.jpg" width="858" heigth="700"></figure>
-<em>Estructuras en T de Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_7" class="image urantiapedia">
+<img src="/image/GobekliTepe_siteB.jpg" width="858" heigth="700">
+<figcaption><em>Estructuras en T de Gobekli Tepe</em></figcaption>
+</figure>
 
 > Schmidt continúa: «Lo realmente extraño es que en el 8.000 a.C., durante el cambio a la agricultura, Gobekli Tepe fue enterrado. Quiero decir deliberadamente, no en un alud de barro. Por alguna razón, los cazadores, o los excazadores, decidieron enterrar todo el sitio en el suelo. La tierra que estamos quitando de las piedras fue puesta aquí por el hombre mismo: todas estas colinas son artificiales». [^13]
 
@@ -131,8 +145,10 @@ Para el período de tiempo de Gobekli Tepe, tanto arquitectónicamente como art�
 
 Numerosas tallas en los monolitos representan una amplia gama de animales, así como aves grandes. En uno de estos tallados hay un hombre sin cabeza con una erección que monta, aparentemente, en la parte posterior de uno de los pájaros gigantes. Un artículo de Austrian Times explica algunos de los significados simbólicos:
 
-<figure id="Gobekli_Tepe_fig_9" class="image image_resized"><img src="/image/gobeklierection.jpg" width="338" heigth="366"></figure>
-<em>Talla de hombre erecto en Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_9" class="image urantiapedia">
+<img src="/image/gobeklierection.jpg" width="338" heigth="366">
+<figcaption><em>Talla de hombre erecto en Gobekli Tepe</em></figcaption>
+</figure>
 
 > Los hombres de la edad de piedra pueden haber creído en una vida futura donde podrían retozar con criaturas míticas después de que los científicos encontraran lo que los medios alemanes dijeron que era la imagen erótica más antigua del mundo.
 > 
@@ -148,8 +164,10 @@ Numerosas tallas en los monolitos representan una amplia gama de animales, así 
 > 
 > «En este caso, el muerto ya ha pasado por alto, por lo que le falta la cabeza. Pero, para ser sincero, todavía estamos trabajando en descifrar el significado de las representaciones. Vemos los signos, pero no podemos entender su significado». [^16]
 
-<figure id="Gobekli_Tepe_fig_8" class="image image_resized"><img src="/image/gobeklitepeerotic_000.jpg" width="237" heigth="360"></figure>
-<em>Talla de hombre erecto en Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_8" class="image urantiapedia">
+<img src="/image/gobeklitepeerotic_000.jpg" width="237" heigth="360">
+<figcaption><em>Talla de hombre erecto en Gobekli Tepe</em></figcaption>
+</figure>
 
 Por supuesto, dado el relato de *El Libro de Urantia* de Adán y Eva como elevadores genéticos de otro mundo, la conexión de la erección es un punto obvio que hacer. Pero esto es aún más intrigante cuando se lo considera junto con los comentarios en *El Libro de Urantia* sobre cómo Adán y Eva pudieron viajar en ese entonces a lomos de pájaros gigantes. Al relatar sus primeros días en el planeta, los autores afirman:
 
@@ -165,9 +183,14 @@ La asociación de la talla del hombre sin cabeza erecto en lo que parece ser la 
 
 > Cuando los Hijos Materiales, los mejoradores biológicos, empiezan su estancia temporal en un mundo evolutivo, su lugar de residencia se llama con frecuencia el Jardín del Edén, porque está caracterizado por la belleza floral y el esplendor botánico de Edentia, la capital de la constelación. Van conocía bien estas costumbres y dispuso en consecuencia que toda la península se consagrara al Jardín. Se hicieron proyectos para el pastoreo y la cría de ganado en las tierras contiguas del continente. En el parque sólo se encontraban, del reino animal, los pájaros y las diversas especies de animales domesticados. Van había ordenado que el Edén debía ser un jardín y sólo un jardín. Nunca se mató a ningún animal dentro de su recinto. Toda la carne que comieron los trabajadores del Jardín durante todos los años que duró su construcción procedía de los rebaños que se custodiaban en el continente.[^20]
 
-<figure id="Gobekli_Tepe_fig_10" class="image image_resized"><img src="/image/gobekliwildanimal.jpg" width="163" heigth="200"></figure>
-<figure id="Gobekli_Tepe_fig_11" class="image image_resized"><img src="/image/Gobeklitepeanimal.jpeg" width="255" heigth="330"></figure>
-<em>Detalles de Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_10" class="image urantiapedia image-style-align-left">
+<img src="/image/gobekliwildanimal.jpg" width="163" heigth="200">
+</figure>
+<figure id="Gobekli_Tepe_fig_11" class="image urantiapedia image-style-align-right">
+<img src="/image/Gobeklitepeanimal.jpeg" width="255" heigth="330">
+<figcaption><em>Detalles de Gobekli Tepe</em></figcaption>
+</figure>
+
 
 Las obras de arte de Gobekli Tepe son razonablemente consistentes con el relato de *El Libro de Urantia* sobre la desafortunada partida de Adán y Eva del Jardín del Edén. Al carecer de evidencias de un animal tótem específico y dada la variedad de animales peligrosos, las tallas pueden interpretarse como que reflejar el trauma de tener que abandonar su jardín original protegido.
 
@@ -187,18 +210,25 @@ Tenga en cuenta que las tallas de esperma se representan individualmente, así c
 
 En la [\[Figura 12\]](#Gobekli_Tepe_fig_12) de la estatuilla con la vista frontal más las vistas laterales, observe los tres juegos de brazos y manos. ¿Padre, madre, e hijo? Y a ambos lados del niño hay grandes tallas de esperma. La asociación de las tallas de esperma alrededor de la imagen del niño sugiere una conciencia de la conexión. Y el niño parece ser representado como solo a la mitad del útero, lo que respalda aún más la interpretación de esto en términos de su comprensión de la fertilidad. Las serpientes también están asociadas con la fertilidad y el renacimiento, presumiblemente porque mudan su piel. ¿Pero podría ser que la enseñanza sobre la naturaleza del esperma se perdió, mientras que la imagen tallada en piedra permaneció allí, siempre lista para ser asociada con un animal que se puede ver? Quizás de esta manera se conservó el significado, mientras que la comprensión biológica más sofisticada, que habría sido un conocimiento no evolutivo, se perdió con el paso del tiempo.
 
-<figure id="Gobekli_Tepe_fig_12" class="image image_resized"><img src="/image/Gobekli-sperm.jpg" width="1400" heigth="520"></figure>
-<em>A la izquierda una estatuilla mostrando lo que parecen espematozoides individuales. En la más a la derecha parecen ser muchos nadando en paralelo.</em>
+<figure id="Gobekli_Tepe_fig_12" class="image urantiapedia">
+<img src="/image/Gobekli-sperm.jpg" width="1400" heigth="520">
+<figcaption><em>A la izquierda una estatuilla mostrando lo que parecen espematozoides individuales. En la más a la derecha parecen ser muchos nadando en paralelo.</em></figcaption>
+</figure>
+
 
 En la [\[Figura 12\]](#Gobekli_Tepe_fig_12) de uno de los pilares con los dedos alrededor de las esquinas, observe la parte de la talla que parece dos semicírculos con una «H» en el medio. Dada la información sobre Adán enseñando a la gente acerca de «los factores de la vida que se unen para formar un nuevo ser», ¿cómo podríamos interpretar este símbolo consistente con lo que sabemos hoy sobre biología?
 
-<figure id="Gobekli_Tepe_fig_13" class="image image_resized"><img src="/image/gobeklitepehands.jpeg" width="259" heigth="194"></figure>
-<em>La talla con brazos, manos, y un cinturón donde se aprecia dos semicírculos y una «H».</em>
+<figure id="Gobekli_Tepe_fig_13" class="image urantiapedia">
+<img src="/image/gobeklitepehands.jpeg" width="259" heigth="194">
+<figcaption><em>La talla con brazos, manos, y un cinturón donde se aprecia dos semicírculos y una «H».</em></figcaption>
+</figure>
 
 Considere que los dos semicírculos representan el huevo y que la «H» simboliza las células sexuales masculinas y femeninas que se unen en el centrómero. Hoy, pensamos en el cromosoma más como una «X» de patas largas porque ahora tenemos imágenes de cromosomas. Pero, ¿qué pasa si nunca has visto uno y simplemente te dijeron que dos hebras de cosas, una del hombre y otra de las mujeres, se unen en el huevo? Vale la pena señalar, por supuesto, que la altura a la que este símbolo está tallado en la figura humana es en el área reproductiva. Y el símbolo en el lado más corto es consistente con una representación simbólica de un pene que entra en la vagina.
 
-<figure id="Gobekli_Tepe_fig_14" class="image image_resized"><img src="/image/Puma-punku.jpg" width="750" heigth="422"></figure>
-<em>Puma Punku, uno de los sitios arqueológicos más intrigantes del planeta, en Bolivia.</em>
+<figure id="Gobekli_Tepe_fig_14" class="image urantiapedia">
+<img src="/image/Puma-punku.jpg" width="750" heigth="422">
+<figcaption><em>Puma Punku, uno de los sitios arqueológicos más intrigantes del planeta, en Bolivia.</em></figcaption>
+</figure>
 
 La forma de «H» también juega un papel predominante en la misteriosa arquitectura megalítica de Puma Punku en Bolivia. Parece que algunas personas realmente pensaron que esta forma era extremadamente importante para comprender la vida.[^23]
 
@@ -208,7 +238,9 @@ La forma de «H» también juega un papel predominante en la misteriosa arquitec
 > 
 > Las conquistas migratorias de los anditas continuaron hasta sus últimas dispersiones entre los años 8000 y 6000 a. de J.C. A medida que salían en masa de Mesopotamia, agotaban continuamente las reservas biológicas de sus tierras natales, al mismo tiempo que fortalecían notablemente a los pueblos circundantes. A todas las naciones donde llegaron aportaron el humor, el arte, la aventura, la música y la manufactura. Eran unos hábiles domesticadores de animales y unos agricultores expertos. [...] [^25]
 
-<figure id="Gobekli_Tepe_fig_15" class="image image_resized"><img src="/image/Egypt-Sperm-Collection.jpg" width="652" heigth="869"></figure>
+<figure id="Gobekli_Tepe_fig_15" class="image urantiapedia">
+<img src="/image/Egypt-Sperm-Collection.jpg" width="652" heigth="869">
+</figure>
 
 Muchas tallas antiguas de Mesopotamia y Egipto representan seres divinos con sombreros que se asemejan a cabezas de peces. Y la tradición de presentar a hombres y mujeres juntos como divinidades de igual estatus se presenta abundantemente en tallas antiguas de estas áreas. La semejanza entre los espermatozoides y los peces y su relación común con la evolución de la historia de estas tallas, lleva a especular acerca de si estos sombreros de cabeza de pescado son simbólicos de la mejora genética traída por Adán y Eva. Considere que el sombrero del Papa refleja esta larga historia de sombreros con cabeza de pez.[^26].
 
@@ -220,7 +252,9 @@ Incluso hay esculturas egipcias que representan la recolección del semen, lo cu
 > 
 > El diez por ciento de estos anditas que huían atravesaron Arabia y entraron en Egipto.[^29]
 
-<figure id="Gobekli_Tepe_fig_16" class="image image_resized"><img src="/image/Fishhead-Adam-Eve1.jpg" width="745" heigth="483"></figure>
+<figure id="Gobekli_Tepe_fig_16" class="image urantiapedia">
+<img src="/image/Fishhead-Adam-Eve1.jpg" width="745" heigth="483">
+</figure>
 
 > La infiltración creciente de los linajes inferiores circundantes puso fin a la época cultural del segundo jardín. La civilización se desplazó hacia el oeste hasta el Nilo y las islas del Mediterráneo, donde continuó prosperando y progresando mucho tiempo después de que su fuente se hubiera deteriorado en Mesopotamia. Esta afluencia sin obstáculos de los pueblos inferiores preparó el camino para la conquista posterior de toda Mesopotamia por los bárbaros del norte, los cuales expulsaron a los linajes capacitados que quedaban. Incluso años después, a los elementos cultos restantes les seguía molestando la presencia de estos invasores ignorantes y toscos.[^30]
 
@@ -236,7 +270,9 @@ La ciencia ha descubierto la relación de la glándula pineal con el sueño. De 
 
 Algunas tallas antiguas de Egipto y Mesopotamia representan seres (a veces con cabeza de animal, a veces con cabeza humana) que sostienen un bolso en una mano y un cono de pino en la otra. Generalmente se cree que el cono de pino representa la glándula pineal. Las tallas del bolso se ven estilísticamente similares a las tallas en la parte superior del monolito en Gobekli que presenta al hombre sin cabeza con una erección, sentado en la parte posterior del pájaro gigante.
 
-<figure id="Gobekli_Tepe_fig_17" class="image image_resized"><img src="/image/handbags-2.jpg" width="620" heigth="465"></figure>
+<figure id="Gobekli_Tepe_fig_17" class="image urantiapedia">
+<img src="/image/handbags-2.jpg" width="620" heigth="465">
+</figure>
 
 La relación entre las sustancias psicoactivas para su uso como medicina y con fines religiosos en las culturas antiguas no es nada nuevo. Desde la página de Wikipedia sobre drogas psicoactivas:
 

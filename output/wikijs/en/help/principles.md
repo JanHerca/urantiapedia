@@ -92,8 +92,10 @@ Consider this facts about translations:
 * 4 of 10 of the 10 languages with most [first-speakers in the world](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers) still has no translation at all (Hindi, Bengali, Western Punjabi, Yue Chinese). These languages still [wait for a translation](https://www.urantia.org/news) and total more than a third of world first-speakers.
 * Less than 1% of secondary works have a translation in other languages, and 99% are only in English.
 
-<figure id="Principles_fig_1" class="image image_resized"><img src="/image/UB_potential_readers_by_native_speakers.png"></figure>
-<em>Percentage of potential Urantia Book readers in the world in their first language (July 2022). In blue languages with available official translation, total 32.61%. That means 2/3 of world inhabitants cannot read the book in their first language.</em>
+<figure id="Principles_fig_1" class="image urantiapedia">
+<img src="/image/UB_potential_readers_by_native_speakers.png">
+<figcaption><em>Percentage of potential Urantia Book readers in the world in their first language (July 2022). In blue languages with available official translation, total 32.61%. That means 2/3 of world inhabitants cannot read the book in their first language.</em></figcaption>
+</figure>
 
 Translations of *Urantia Book* has not follow a “most spoken first-language” strategy, which is reasonable. First translations were done by enthusiastic readers, and that inspiration came first in some developed countries before any other.
 
@@ -101,8 +103,10 @@ But this strategy needs to be updated. Two-thirds of world inhabitants cannot re
 
 > . . . it was regrettable that there was no one like Peter to go into **China**, or like Paul to enter **India** . . . [UB 130:2.3](/en/The_Urantia_Book/130#p2_3)
 
-<figure id="Principles_fig_2" class="image image_resized"><img src="/image/UB_secondary_works_potential_readers_by_native_speakers.png"></figure>
-<em>Percentage of potential Secondary Work’s readers in the world in their first-language (July 2022). In blue proportion available. Potential readers in first-language of Secondary Works are mainly English speakers.</em>
+<figure id="Principles_fig_2" class="image urantiapedia">
+<img src="/image/UB_secondary_works_potential_readers_by_native_speakers.png">
+<figcaption><em>Percentage of potential Secondary Work’s readers in the world in their first-language (July 2022). In blue proportion available. Potential readers in first-language of Secondary Works are mainly English speakers.</em></figcaption>
+</figure>
 
 If we do the same math for Secondary Works the situation is even worst. There is very little concern about the translation of Secondary Works. They are mainly in English, with some small production in Spanish or French. But there is no interchange of ideas between communities with different languages through translations, and a big part of Urantia movement knows nothing about Secondary Works because they are only in English.
 

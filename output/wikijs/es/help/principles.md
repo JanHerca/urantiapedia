@@ -92,8 +92,10 @@ Considera estos hechos acerca de las traducciones:
 * 4 de 10 de los 10 idiomas con la mayoría de los [hablantes nativos del mundo](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers) todavía no tienen una traducción (hindi, bengalí, punjabí occidental y chino yue). Estos idiomas todavía [esperan una traducción](https://www.urantia.org/news) y suman más de un tercio de los hablantes nativos del mundo.
 * Menos del 1% de los trabajos secundarios tienen una traducción en otros idiomas, y el 99% están solo en inglés.
 
-<figure id="Principles_fig_1" class="image image_resized"><img src="/image/UB_potential_readers_by_native_speakers.png"></figure>
-<em>Porcentaje de lectores potenciales de El Libro de Urantia en el mundo en su idioma nativo (julio 2022). En azul los idiomas con una traducción oficial disponible, en total un 32,61%. Eso significa que dos tercios de los habitantes del mundo no pueden leer el libro en su idioma nativo.</em>
+<figure id="Principles_fig_1" class="image urantiapedia">
+<img src="/image/UB_potential_readers_by_native_speakers.png">
+<figcaption><em>Porcentaje de lectores potenciales de El Libro de Urantia en el mundo en su idioma nativo (julio 2022). En azul los idiomas con una traducción oficial disponible, en total un 32,61%. Eso significa que dos tercios de los habitantes del mundo no pueden leer el libro en su idioma nativo.</em></figcaption>
+</figure>
 
 Las traducciones de *El libro de Urantia* no han seguido una estrategia de «primero las lenguas nativas más habladas», y es razonable. Las primeras traducciones fueron hechas por lectores entusiastas, y esa inspiración surgió en primer lugar en algunos países desarrollados antes que en cualquier otro.
 
@@ -101,8 +103,10 @@ Pero esta estrategia necesita ser actualizada. Dos tercios de los habitantes del
 
 ... es lamentable que no hubiera nadie como Pedro que fuera a **China**, o como Pablo que viajara a la **India** ... [LU 130:2.3](/es/The_Urantia_Book/130#p2_3)
 
-<figure id="Principles_fig_2" class="image image_resized"><img src="/image/UB_secondary_works_potential_readers_by_native_speakers.png"></figure>
-<em>Porcentaje de lectores potenciales de trabajos secundarios en el mundo en su idioma nativo (julio 2022). En azul la proporción que está disponible. La mayoría de los lectores potenciales de estos trabajos son hablantes de inglés.</em>
+<figure id="Principles_fig_2" class="image urantiapedia">
+<img src="/image/UB_secondary_works_potential_readers_by_native_speakers.png">
+<figcaption><em>Porcentaje de lectores potenciales de trabajos secundarios en el mundo en su idioma nativo (julio 2022). En azul la proporción que está disponible. La mayoría de los lectores potenciales de estos trabajos son hablantes de inglés.</em></figcaption>
+</figure>
 
 Si hacemos los mismos cálculos para los trabajos secundarios, la situación es aún peor. Hay muy poca preocupación sobre la traducción de Obras Secundarias. Están principalmente en inglés, con alguna pequeña producción en español o francés. Pero no hay intercambio de ideas de las entre comunidades de diferentes idiomas a través de traducciones, y una gran parte del movimiento Urantia no sabe nada acerca de las Obras Secundarias porque sólo están en inglés. 
 

@@ -178,8 +178,10 @@ This supernova was of course the one seen by Tycho Brahe. It has been pinpointed
 
 In view of all this compelling data, it should be clear now that an area of space about 500 thousand light years in diameter and centered on the Milky Way Galaxy is in fact Orvonton.
 
-<figure class="image image_resized"><img src="/image/Orvonton_ViaLactea.jpg" width="600" heigth="890"></figure>
-<em>Is Orvonton the Milky Way or is it something larger?</em>
+<figure class="image urantiapedia">
+<img src="/image/Orvonton_ViaLactea.jpg" width="600" heigth="890">
+<figcaption><em>Is Orvonton the Milky Way or is it something larger?</em></figcaption>
+</figure>
 
 ## How large is our local system of Satania?
 

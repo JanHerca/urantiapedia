@@ -10,8 +10,10 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Author: **Ken Glasziou, Ph.D.**
 
-<figure class="image image_resized"><img src="/image/neutron_star.jpg" width="580" height="387"></figure>
-<em>Image 1. Artist's conception of a neutron star</em>
+<figure class="image urantiapedia">
+<img src="/image/neutron_star.jpg" width="580" height="387">
+<figcaption><em>Image 1. Artist's conception of a neutron star</em></figcaption>
+</figure>
 
 Because of the mandatory restrictions imposed on the revelators[^1], the science and cosmology of *The Urantia Book* is at the approximate level of current human knowledge for the mid-1930's. It also contains some statements that were prophetic at that time because the mandate allowed the revelators to supply vital information to fill gaps in our otherwise earned knowledge. One such gap-filler may have been:
 
@@ -51,8 +53,10 @@ After exhaustion of helium at the core, gravitational contraction again occurs a
 
 The light we see from our sun comes only from its outer surface layer. However, the energy that fuels the sunlight (and life on earth) originates from the hot, dense thermonuclear furnace at the Sun's core. Though sunlight takes only about eight minutes to travel from the sun to earth, the energy from the sun's core that gives rise to this sunlight takes in the order of a million years to diffuse from the core to the surface. In other words, a sun (or star) is relatively “opaque” (as per *The Urantia Book*[^2]) to the energy diffusing from its thermonuclear core to its surface, hence it supplies the pressure necessary to prevent gravitational collapse. But this is not true of the little neutral particles, known since the mid 1930's by the name neutrinos. These particles are so tiny and unreactive that their passage from our sun's core to its exterior takes only about 3 seconds.
 
-<figure class="image image_resized"><img src="/image/Composite_image_of_Supernova_1987A.jpg"></figure>
-<em>Image 2. Supernova remnant SN1987A as a composite of various wavelengths. ALMA (radio, in red), Hubble (visible light, in green), and Chandra (X-ray, in blue).</em>
+<figure class="image urantiapedia">
+<img src="/image/Composite_image_of_Supernova_1987A.jpg">
+<figcaption><em>Image 2. Supernova remnant SN1987A as a composite of various wavelengths. ALMA (radio, in red), Hubble (visible light, in green), and Chandra (X-ray, in blue).</em></figcaption>
+</figure>
 
 It is because neutrinos can escape so readily that they have a critical role in bringing about the star's sudden death and the ensuing explosion. Neutrinos are formed in a variety of ways, many as neutrino-antineutrino pairs from highly energetic gamma rays and others arise as the compressed protons capture an electron (or expel a positron) to become neutrons, a reaction that is accompanied by the release of a neutrino. Something in the order of 1057 electron neutrinos are released in this way. Neutral current reactions from Zo particles of the weak force also contribute electron neutrinos along with the 'heavy' muon and tau neutrinos.
 
@@ -111,8 +115,10 @@ Following on from the forgotten Gamow and Schoenfeld paper, the next suggestion 
 
 Dennis Overbye, in his book *Lonely Hearts of the Cosmos*[^21] records that, for supernovae, almost all the energy of the inward free fall comes out in the form of neutrinos. The success of this scenario (as proposed by Chiu) depends on a feature of the weak interaction called the *neutral currents*[^33]. Without this, the neutrinos do not supply enough 'oomph' and theorists had no good explanation for how stars explode. In actuality the existence of the *neutral current* for the *weak interaction* was not demonstrated until the mid 1970's.
 
-<figure class="image image_resized"><img src="/image/supernova-1054-crab-nebula.jpg"></figure>
-<em>Image 3. The most famous supernova, SN1054, or the Crab Nebula, whose explosion was seen from Earth in July 1054.</em>
+<figure class="image urantiapedia">
+<img src="/image/supernova-1054-crab-nebula.jpg">
+<figcaption><em>Image 3. The most famous supernova, SN1054, or the Crab Nebula, whose explosion was seen from Earth in July 1054.</em></figcaption>
+</figure>
 
 A 1985 paper (Scientific American) by Hans A. Bethe[^34] and Gerald Brown[^35] entitled *How a Supernova Explodes* shows that understanding of the important role of the neutrinos was well advanced by that time. These authors attribute this understanding to the computer simulations of W. David Arnett of the University of Chicago and Thomas Weaver and Stanford Woosley of the University of California at Santa Cruz.
 

@@ -20,8 +20,10 @@ When it was published in 1955, this statement contradicted the vast majority of 
 
 This topic is still far from being a settled issue and periodic updates can be expected as ongoing research and analysis continues to develop. Nonetheless, significant movement toward *The Urantia Book*'s position has been made in the last twenty years. This topic serves as an example of how the science of prehistoric man is increasingly moving closer to *The Urantia Book*'s account of human history. Additionally, this topic is a good example of how difficult it is to break through old paradigms. As will be shown later in the report, researches who make new discoveries face an uphill battle in the fight for acceptance of their findings.
 
-<figure class="image image_resized"><img src="/image/early_migration_americas.jpg"></figure>
-<em>Image 1. When did the first natives arrive in North America?</em>
+<figure class="image urantiapedia">
+<img src="/image/early_migration_americas.jpg">
+<figcaption><em>Image 1. When did the first natives arrive in North America?</em></figcaption>
+</figure>
 
 According to *The Urantia Book*, the North American continent first became inhabited 85,000 years ago when the “red man” crossed the Bering Strait land bridge, which at that time connected Siberia and Alaska. In the last twenty years remains have been found at sites in both North and South American that indicate the American continents were inhabited at least 50,000 years ago. One site in Brazil dates back to approximately 60,000 years ago. Before these finds the predominantly held scholarly opinion was that the red man entered North America roughly 12,000 years ago by way a Bering Strait land bridge. These new finds seriously challenge the whole field of anthropological study because the current “out of Africa” theory suggests that modern man migrated out of Africa 60,000 to 80,000 years ago.
 

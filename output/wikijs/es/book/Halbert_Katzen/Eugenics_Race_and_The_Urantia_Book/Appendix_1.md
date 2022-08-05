@@ -34,8 +34,10 @@ En su explicación de la evolución humana, *El Libro de Urantia* proporciona in
 
 > Incluso la pérdida de Andón y Fonta antes de que tuvieran descendencia no hubiera impedido la evolución humana, aunque la habría retrasado. Después de la aparición de Andón y Fonta, y antes de que se agotaran los potenciales humanos en mutación de la vida animal, evolucionaron no menos de siete mil cepas favorables que podrían haber alcanzado alguna clase de desarrollo de tipo humano. Muchas de estas mejores cepas fueron asimiladas posteriormente por las diversas ramas de la especie humana en expansión. [^1]
 
-<figure id="Eugenics_fig_13" class="image image_resized"><img src="/image/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/evolution.jpg" width="533" height="355"></figure>
-<em>Figura 13. Esquema de la evolución humana en los dos últimos millones de años según la ciencia actual.</em>
+<figure id="Eugenics_fig_13" class="image urantiapedia">
+<img src="/image/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/evolution.jpg" width="533" height="355">
+<figcaption><em><b>Figura 13.</b> Esquema de la evolución humana en los dos últimos millones de años según la ciencia actual.</em></figcaption>
+</figure>
 
 Por supuesto, un enfoque puramente científico no conduce lógicamente a la conclusión de que el proceso evolutivo que produjo los primeros seres humanos se detendría una vez que los primeros evolucionaran. Esto sólo se vuelve lógico cuando la evolución se ve como la técnica de la creación, que es lo que enseña *El Libro de Urantia*. «La humanidad de Urantia debe resolver sus problemas de desarrollo mortal con los linajes humanos que posee —ninguna nueva raza volverá a aparecer en el futuro a partir de fuentes prehumanas. Pero este hecho no impide la posibilidad de alcanzar unos niveles muy superiores de desarrollo humano mediante el fomento inteligente de los potenciales evolutivos que residen todavía en las razas mortales»[^2]. Desde el punto de vista de las relaciones interpersonales, es más fácil promover la paz y la armonía entre todas las personas con la creencia de que todos venimos de la misma pareja original. Si Dios hace que la vida funcione de esta manera, esto es al menos consistente con la lógica del amor.
 
@@ -45,8 +47,10 @@ Dentro del marco de *El Libro de Urantia* para definir a la humanidad, la cualid
 
 *El Libro de Urantia* enseña que no había una base genética suficiente para apoyar a la civilización en la mutación original que creó un nivel humano de sabiduría. Era suficiente para que se desarrollara un nivel humano de inteligencia en algunos individuos, pero no suficiente para crear un nivel grupal de inteligencia humana: la inteligencia necesaria para ir más allá de la «Edad de Piedra» y comenzar la creación de una civilización avanzada.
 
-<figure id="Eugenics_fig_14" class="image image_resized"><img src="/image/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/evolution2.jpg" width="533" height="533"></figure>
-<em>Figura 14. Esquema de la evolución humana en los dos últimos millones de años según una taxonomía basada en <i>El Libro de Urantia</i>.</em>
+<figure id="Eugenics_fig_14" class="image urantiapedia">
+<img src="/image/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/evolution2.jpg" width="533" height="533">
+<figcaption><em><b>Figura 14.</b> Esquema de la evolución humana en los dos últimos millones de años según una taxonomía basada en <i>El Libro de Urantia</i>.</em></figcaption>
+</figure>
 
 ## Una taxonomía de seres humanos basada en *El Libro de Urantia*
 

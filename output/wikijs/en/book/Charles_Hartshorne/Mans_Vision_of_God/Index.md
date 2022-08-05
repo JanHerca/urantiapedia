@@ -10,7 +10,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Author: **Charles Hartshorne**
 
-<figure id="Mans_front" class="image image_resized"><img src="/image/book/Charles_Hartshorne/Mans_Vision_of_God/BookFront.png"></figure>
+<figure id="Mans_front" class="image urantiapedia">
+<img src="/image/book/Charles_Hartshorne/Mans_Vision_of_God/BookFront.png">
+</figure>
 
 <p style="text-align: center;">
 Witrett, Crark & COMPANY<br>

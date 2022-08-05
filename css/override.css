@@ -1,0 +1,28 @@
+/* CSS code to inject after system default CSS in Wiki.js. 
+Consider using custom themes if you have a large amount of css code. 
+Injecting too much CSS code will result in poor page load performance! 
+CSS will automatically be minified. */
+
+.v-main .contents {
+    max-width: 1000px
+}
+.v-main .contents figure.urantiapedia {
+    display: table;
+}
+.v-main .contents figure.urantiapedia.image-style-align-right {
+    margin: 10px 0 10px 10px;
+}
+.v-main .contents figure.urantiapedia.image-style-align-left {
+    margin: 10px 10px 10px 0;
+}
+.v-main .contents figure.urantiapedia figcaption {
+    font-size: 14px;
+    display: table-caption;
+    caption-side: bottom;
+}
+@media (max-width:1000px) {
+    .v-main .contents figure.image-style-align-right,
+    .v-main .contents figure.image-style-align-left {
+      float: none
+    }
+}

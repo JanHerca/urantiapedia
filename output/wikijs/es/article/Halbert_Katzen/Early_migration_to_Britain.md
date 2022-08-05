@@ -86,8 +86,10 @@ Las siguientes selecciones de *El Libro de Urantia* proporcionan las declaracion
 > 
 > Durante los períodos de máximo avance glaciar, las tribus andonitas más occidentales estuvieron a punto de ser arrojadas al mar. Vivieron durante años en una estrecha franja de tierra al sur de la actual isla de Inglaterra. [...] [^8]
 
-<figure class="image image_resized"><img src="/image/Layard_000.jpg"></figure>
-<em>Figura 1. Miss Nina Layard</em>
+<figure class="image urantiapedia">
+<img src="/image/Layard_000.jpg">
+<figcaption><em><b>Figura 1.</b> Miss Nina Layard</em></figcaption>
+</figure>
 
 El uso del término «gente de Foxhall» es una referencia aparente al trabajo arqueológico de Nina Frances Layard. La publicación en 2005 de *Excavaciones de Miss Layard: el yacimiento paleolítico en Foxhall Road, Ipswich, 1903-1905* fue escrito por investigadores involucrados en el proyecto AHOB. En su resurrección de la importancia de este sitio arqueológico «White y Plunkett describen cómo la aspirante a arqueóloga Nina Frances Layard descubrió hachas de mano del paleolítico inferior y los restos de mamíferos extintos en una cantera cercana a su hogar en el sureste de Inglaterra; obtuvo los permisos, la financiación y los trabajadores para realizar una excavación; y publicó sus hallazgos. El sitio es poco conocido hoy en día, dicen, no debido a ningún fallo en el trabajo de excavación, sino porque la falta de apoyo profesional y oficial a principios del siglo XX permitió que los artefactos se diseminaran y el sitio se desarrollara más tarde»[^9] [^10].
 
@@ -125,8 +127,10 @@ Continuando con pasajes seleccionados del relato de *El Libro de Urantia* sobre 
 > 
 > Esta época de los glaciares cuarto y quinto contempló una nueva propagación de la cultura rudimentaria de las razas neandertales. Pero los progresos eran tan pequeños, que parecía en verdad que la tentativa de producir un tipo nuevo y modificado de vida inteligente en Urantia estaba a punto de fracasar. Durante cerca de un cuarto de millón de años, estos pueblos primitivos fueron a la deriva, cazando y luchando, mejorando esporádicamente en algunos aspectos, pero en general, degenerando continuamente en comparación con sus antepasados andónicos superiores.[^12]
 
-<figure class="image image_resized"><img src="/image/FoxhallIcon_000.jpeg"></figure>
-<em>Figura 2. Localización de los yacimientos del proyecto AHOB</em>
+<figure class="image urantiapedia">
+<img src="/image/FoxhallIcon_000.jpeg">
+<figcaption><em><b>Figura 2.</b> Localización de los yacimientos del proyecto AHOB</em></figcaption>
+</figure>
 
 Ahora que se han proporcionado las citas relevantes de *El Libro de Urantia* y el contexto necesario, podemos dirigir nuestra atención a los descubrimientos recientes que respaldan sus afirmaciones. La siguiente noticia publicada por Channel 4 en Inglaterra resume el desarrollo y la importancia de descubrimientos recientes:
 

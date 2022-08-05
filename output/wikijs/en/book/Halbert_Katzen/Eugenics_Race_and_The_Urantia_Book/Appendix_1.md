@@ -34,8 +34,10 @@ In its explanation of human evolution, *The Urantia Book* provides insights into
 
 > Even the loss of Andon and Fonta before they had offspring, though delaying human evolution, would not have prevented it. Subsequent to the appearance of Andon and Fonta and before the mutating human potentials of animal life were exhausted, there evolved no less than seven thousand favorable strains which could have achieved some sort of human type of development. And many of these better stocks were subsequently assimilated by the various branches of the expanding human species. [^1]
 
-<figure id="Eugenics_fig_13" class="image image_resized"><img src="/image/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/evolution.jpg" width="533" height="355"></figure>
-<em>Image 13. Scheme of human evolution in the last two million years according to current science.</em>
+<figure id="Eugenics_fig_13" class="image urantiapedia">
+<img src="/image/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/evolution.jpg" width="533" height="355">
+<figcaption><em><b>Image 13.</b> Scheme of human evolution in the last two million years according to current science.</em></figcaption>
+</figure>
 
 Of course, a purely scientific approach does not lead logically to the conclusion that the evolutionary process that produced the first human beings would stop once the first ones evolved. This only becomes logical when evolution is viewed as the technique of creation, which is what *The Urantia Book* teaches. “Mankind on Urantia must solve its problems of mortal development with the human stocks it has—no more races will evolve from prehuman sources throughout all future time. But this fact does not preclude the possibility of the attainment of vastly higher levels of human development through the intelligent fostering of the evolutionary potentials still resident in the mortal races.”[^2] From the standpoint of interpersonal relationships, it is easier to promote peace and harmony among all people with the belief that we all came from the same original couple. If God makes life operate in this manner, this is at least consistent with the logic of love.
 
@@ -45,8 +47,10 @@ Within *The Urantia Book*’s framework for defining humanity, the essential hum
 
 *The Urantia Book* teaches that there was not a genetic foundation sufficient to support civilization in the original mutation that created a human level of wisdom. It was sufficient for a human level of wisdom to develop in some individuals, but not sufficient to create a group level of human wisdom—the wisdom necessary to get beyond the Stone Age and begin the creation of an advanced civilization.
 
-<figure id="Eugenics_fig_14" class="image image_resized"><img src="/image/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/evolution2.jpg" width="533" height="533"></figure>
-<em>Image 14. Scheme of human evolution in the last two million years according to a taxonomy based on <i>*The Urantia Book*</i>.</em>
+<figure id="Eugenics_fig_14" class="image urantiapedia">
+<img src="/image/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/evolution2.jpg" width="533" height="533">
+<figcaption><em><b>Image 14.</b> Scheme of human evolution in the last two million years according to a taxonomy based on The Urantia Book.</em></figcaption>
+</figure>
 
 ## A Urantia Book-based taxonomy of human beings
 

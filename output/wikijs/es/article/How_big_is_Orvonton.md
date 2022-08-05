@@ -178,8 +178,10 @@ Esta supernova fue por supuesto la observada por Tycho Brahe. Ha sido indicada c
 
 A la vista de todos estos datos completos, debería estar claro ahora que un área del espacio de cerca de 500.000 años luz de diámetro y centrado en la Vía Láctea es de hecho Orvonton.
 
-<figure class="image image_resized"><img src="/image/Orvonton_ViaLactea.jpg" width="600" heigth="890"></figure>
-<em>¿Es Orvonton la Vía Láctea o algo mucho mayor?</em>
+<figure class="image urantiapedia">
+<img src="/image/Orvonton_ViaLactea.jpg" width="600" heigth="890">
+<figcaption><em>¿Es Orvonton la Vía Láctea o algo mucho mayor?</em></figcaption>
+</figure>
 
 ## ¿Cómo de grande es nuestro sistema local de Satania?
 

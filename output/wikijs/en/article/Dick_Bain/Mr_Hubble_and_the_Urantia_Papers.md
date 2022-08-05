@@ -30,8 +30,10 @@ Unfortunately, this figure is in error. Today, it is known that the distance is 
 
 As Edwin Hubble observed galaxies at greater and greater distance, he noted that the farther a galaxy is from us, the faster it seems to be receding from us. He could tell this from the so-called “red shift” of the light reaching us from the distant galaxy. When a star or galaxy moves away from us, its various colors of visible light are shifted toward the red end of the spectrum. This red shift is mentioned on _The Urantia Book_: “Spectral lines are displaced from the normal towards the violet by an approaching star; likewise these lines are displaced towards the red by a receding star.” [UB 12:4.14](/en/The_Urantia_Book/12#p4_14)
 
-<figure id="Hubble_figure_1" class="image image_resized"><img src="/image/edwinhubble.jpg"></figure>
-<em>Edwin Hubble, one of the greatest astronomers of his time</em>
+<figure id="Hubble_figure_1" class="image urantiapedia">
+<img src="/image/edwinhubble.jpg">
+<figcaption<em>Edwin Hubble, one of the greatest astronomers of his time</em>></figcaption>
+</figure>
 
 The conclusion Hubble reached from his observations was that the universe is expanding. Initially, Hubble had trouble accepting this conclusion. At first, he supported the so-called “tired light” theory, which supposes that something happens to the light as it passes through space to lower it's frequency and hence move its color toward the red end of the spectrum; this could account for the red shift. But later he decided that the red shift was indeed a sign of an expanding universe. This idea was another of the major cosmological shocks to which science had introduced the world in the past few centuries. An earlier one was the concept that the earth is not the center of the universe. Everyone had considered the universe as stable and unchanging; to go from a stolid, steady, and dependable universe to an expanding one was too much of a change for some people. Even the brilliant Albert Einstein rejected the expanding universe notion. It wasn't until he visited Mt. Palomar and saw for himself the evidence on the photographic plates that he accepted the idea of an expanding universe.
 

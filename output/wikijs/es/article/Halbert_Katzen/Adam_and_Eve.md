@@ -182,8 +182,10 @@ Como vemos todos los informes presentados concuerdan en la afirmación de que ex
 
 ### Euroasiáticos
 
-<figure id="Adam_Eve_fig_1" class="image image_resized"><img src="/image/MCPH1.png" width="500" heigth="240"></figure>
-<em>Frecuencias de aparición de los cromosomas</em>
+<figure id="Adam_Eve_fig_1" class="image urantiapedia">
+<img src="/image/MCPH1.png" width="500" heigth="240">
+<figcaption><em>Frecuencias de aparición de los cromosomas</em></figcaption>
+</figure>
 
 La microcefalina haplogrupo D se encuentra generalmente en altos porcentajes en Eurasia. Ver la [\[Figura 1\]](#Adam_Eve_fig_1). Esto apoya las afirmaciones hechas en *El Libro de Urantia* con respecto a la migración de los descendientes de Adán y Eva. Los autores del libro relatan:
 
@@ -227,8 +229,10 @@ La migración mínima de los descendientes de Adán y Eva al África subsaharian
 
 Aunque la presencia de la microcefalina haplogrupo D es considerablemente menor en el África subsahariana que en el resto del mundo, es algo más abundante en la región de las cabeceras del río Nilo, lo que, por supuesto, apoya específicamente la afirmación de *El Libro de Urantia* de que «sólo unos pocos instructores y comerciantes penetraron en África más al sur de la cabecera del Nilo». Véase la figura [\[Figure2\]](#Adam_Eve_fig_2).
 
-<figure id="Adan_Eva_fig_2" class="image image_resized"><img src="/image/map.png" width="500" heigth="321"></figure>
-<em>Área regada por el río Nilo y sus tributarios</em>
+<figure id="Adan_Eva_fig_2" class="image urantiapedia">
+<img src="/image/map.png" width="500" heigth="321">
+<figcaption><em>Área regada por el río Nilo y sus tributarios</em></figcaption>
+</figure>
 
 El comentario de que «a todas las naciones donde llegaron aportaron el humor, el arte, la aventura, la música y la manufactura» pide ser analizado y estudiado, pero un estudio así excedería el enfoque puramente «científico» de informaciones que pudieran ser corroboradas. Por esta razón, se deja a la propia evaluación de los lectores este comentario de los autores de *El Libro de Urantia*.
 
@@ -410,9 +414,11 @@ Curiosamente, los autores de *El Libro de Urantia* mencionan específicamente la
 
 > La civilización del Turquestán se avivaba y renovaba constantemente gracias a la gente que llegaba de Mesopotamia, y principalmente a los jinetes anditas posteriores [...] [Su idioma] era una mezcla del dialecto andónico de esa región con el idioma de los adansonitas y anditas posteriores. Muchas lenguas modernas se derivan de este lenguaje primitivo de las tribus de Asia central que conquistaron Europa, la India y las regiones superiores de las llanuras de Mesopotamia. [^58]
 
-<figure class="image image_resized"><img src="/image/Picture1_000.png" width="500" heigth="393"></figure>
-<em>Tono linguístico versus frecuencia de la población de haplogrupos ASPM y microcefalina</em>
-<em>El eje horizontal representa la frecuencia de ASPM-D, donde el eje vertical representa la frecuencia de MCPH-D. Los cuadros negros representan lenguajes no tonales y los huecos lenguajes tonales. Las líneas grises ralladas se corresponden con 0,292 ASPM-D y 0,425 MCPH-D.</em>
+<figure class="image urantiapedia">
+<img src="/image/Picture1_000.png" width="500" heigth="393">
+<figcaption><em>Tono linguístico versus frecuencia de la población de haplogrupos ASPM y microcefalina</em></figcaption>
+<figcaption><em>El eje horizontal representa la frecuencia de ASPM-D, donde el eje vertical representa la frecuencia de MCPH-D. Los cuadros negros representan lenguajes no tonales y los huecos lenguajes tonales. Las líneas grises ralladas se corresponden con 0,292 ASPM-D y 0,425 MCPH-D.</em></figcaption>
+</figure>
 
 Antes de ofrecer una última anotación al informe sobre la relación entre lenguas no tonales y la microcefalina haplogrupo D y haber llegado al final de la presentación de la investigación reciente que apoya a *El Libro de Urantia* acerca de la narrativa sobre Adán y Eva, es importante hacer frente al contexto cultural en el que se realiza este tipo de trabajo de investigación. Queda en evidencia en este punto que los autores de *El Libro de Urantia* relatan una historia integrada de los nuevos desarrollos genéticos y culturales que fueron intencionalmente orquestados.
 

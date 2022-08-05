@@ -182,8 +182,10 @@ As we can see, all the reports presented agree on the statement that there was a
 
 ### Eurasians
 
-<figure id="Adam_Eve_fig_1" class="image image_resized"><img src="/image/MCPH1.png" width="500" heigth="240"></figure>
-<em>Frequencies of appearance of chromosomes</em>
+<figure id="Adam_Eve_fig_1" class="image urantiapedia">
+<img src="/image/MCPH1.png" width="500" heigth="240">
+<figcaption><em>Frequencies of appearance of chromosomes</em></figcaption>
+</figure>
 
 Microcephalin haplogroup D is generally found in high percentages in Eurasia. See [\[Figure 1\]](#Adam_Eve_fig_1). This supports the assertions made in *The Urantia Book* regarding the migration of Adam and Eve’s descendants. The authors of the book recount:
 
@@ -227,8 +229,10 @@ The minimal migration of Adam and Eve’s descendants to sub-Saharan Africa is a
 
 Though the presence of Microcephalin haplogroup D is considerably lower in sub-Saharan Africa than the rest of the world, it is somewhat more abundant in the region of the headwaters of the Nile River, which, of course, specifically supports of *The Urantia Book*’s statement that “only a few teachers and traders ever penetrated farther south in Africa than the headwaters of the Nile.” See [\[Figure2\]](#Adam_Eve_fig_2).
 
-<figure id="Adan_Eva_fig_2" class="image image_resized"><img src="/image/map.png" width="500" heigth="321"></figure>
-<em>Area irrigated by the Nile River and its tributaries</em>
+<figure id="Adan_Eva_fig_2" class="image urantiapedia">
+<img src="/image/map.png" width="500" heigth="321">
+<figcaption><em>Area irrigated by the Nile River and its tributaries</em></figcaption>
+</figure>
 
 The comment that “to every nation to which they journeyed, they contributed humor, art, adventure, music, and manufacture” begs to be analyzed and scrutinized. However, the standard for UBtheNEWS reports is to stay focused on the more “hard science” aspects of corroborating information in *The Urantia Book*. For this reason, readers are left to their own evaluation of this commentary by the authors of *The Urantia Book*.
 
@@ -410,9 +414,11 @@ Interestingly, the authors of The Urantia Book specifically mention the interrel
 
 > The civilization of Turkestan was constantly being revived and refreshed by the newcomers from Mesopotamia, especially by the later Andite cavalrymen. . . [Their language] was a blend of the Andonic dialect of that region with the language of the Adamsonites and later Andites. Many modern languages are derived from this early speech of these central Asian tribes who conquered Europe, India, and the upper stretches of the Mesopotamian plains.[^58]
 
-<figure class="image image_resized"><img src="/image/Picture1_000.png" width="500" heigth="393"></figure>
-<em>Linguistic tone versus the population frequency of the adaptive haplogroups of ASPM and Microcephalin.</em>
-<em>The horizontal axis represents the frequency of ASPM-D, whereas the vertical axis represents the frequency of MCPH-D. Filled squares represent nontonal languages and open squares tonal languages. Gray dashed lines correspond to 0.292 ASPM-D and 0.425 MCPH-D.</em>
+<figure class="image urantiapedia">
+<img src="/image/Picture1_000.png" width="500" heigth="393">
+<figcaption><em>Linguistic tone versus the population frequency of the adaptive haplogroups of ASPM and Microcephalin.</em></figcaption>
+<figcaption><em>The horizontal axis represents the frequency of ASPM-D, whereas the vertical axis represents the frequency of MCPH-D. Filled squares represent nontonal languages and open squares tonal languages. Gray dashed lines correspond to 0.292 ASPM-D and 0.425 MCPH-D.</em></figcaption>
+</figure>
 
 Before offering a final quote from the report covering the relationship between non tonal languages and Microcephalin haplogroup D and having arrived at the end of the presentation of the recent research that lends support to The Urantia Book’s narrative about Adam and Eve, it is important to address the cultural context in which this type of research work is done. It is well in evidence at this point that The Urantia Book’s authors recount an integrated history of new genetic and cultural developments that were intentionally orchestrated.
 

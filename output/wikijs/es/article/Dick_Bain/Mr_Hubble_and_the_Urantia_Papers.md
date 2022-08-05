@@ -30,8 +30,10 @@ Desafortunadamente, esta cifra es errónea. Hoy se sabe que la distancia a Andr�
 
 Según Edwin Hubble observaba las galaxias a distancias cada vez mayores, notó que cuanto más lejos estaba la galaxia de nosotros, más rápido parecía que se alejaba de nosotros. Pudo deducir esto del famoso «corrimiento del rojo» de la luz que nos llega de una galaxia lejana. Cuando una estrella o galaxia se aleja de nosotros, sus varios colores de la luz visible están desplazados hacia el rojo del espectro. Este corrimiento del rojo se menciona en _El Libro de Urantia_: «Las líneas espectrales se desplazan desde lo normal hacia el violeta para una estrella que se acerca; estas líneas se desplazan igualmente hacia el rojo para una estrella que se aleja». [LU 12:4.14](/es/The_Urantia_Book/12#p4_14)
 
-<figure id="Hubble_figure_1" class="image image_resized"><img src="/image/edwinhubble.jpg"></figure>
-<em>Edwin Hubble, uno de los mayores astrónomos de su tiempo</em>
+<figure id="Hubble_figure_1" class="image urantiapedia">
+<img src="/image/edwinhubble.jpg">
+<figcaption><em>Edwin Hubble, uno de los mayores astrónomos de su tiempo</em></figcaption>
+</figure>
 
 La conclusión que Hubble alcanzó en sus observaciones fue que el universo se está expandiendo. Inicialmente, Hubble tuvo problemas para aceptar sus conclusiones. Al principio, apoyó la llamada teoría de la «luz cansada», que suponía que algo pasaba con la luz según atravesaba el espacio como para hacer disminuir su frecuencia y por tanto mover su color hacia el rojo del espectro. Pero después decidió que el desplazamiento al rojo era de hecho una señal de un universo en expansión. Esta idea fue otro de los mayores shocks cosmológicos que la ciencia ha introducido en el mundo en los pocos últimos siglos. El primero fue el concepto de que la Tierra no estaba en el centro del universo. Todo el mundo había considerado el universo como estable y sin cambios; ir de un universo inmutable, preparado y fijo a otro en expansión era más de lo que muchos podían esperar. Incluso el brillante Albert Einstein rechazó la noción de un universo en expansión. No fue hasta que visitó el Monte Palomar y vio por sí mismo la evidencia de las placas fotográficas que aceptó la idea del universo en expansión.
 

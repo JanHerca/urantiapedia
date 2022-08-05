@@ -20,8 +20,10 @@ Cuando se publicó en 1955, esta declaración contradijo a la gran mayoría de l
 
 Este tema aún está lejos de ser un tema resuelto y son de esperar actualizaciones periódicas a medida que la investigación y el análisis continúen desarrollándose. No obstante, se ha realizado un movimiento significativo hacia la posición de *El Libro de Urantia* en los últimos veinte años. Este tema sirve como un ejemplo de cómo la ciencia del hombre prehistórico se acerca cada vez más al relato de la historia humana de *El Libro de Urantia*. Además, este tema es un buen ejemplo de lo difícil que es superar los viejos paradigmas. Como se mostrará más adelante en el informe, las investigaciones que hacen nuevos descubrimientos enfrentan una batalla cuesta arriba en la lucha por la aceptación de sus hallazgos.
 
-<figure class="image image_resized"><img src="/image/early_migration_americas.jpg"></figure>
-<em>Figura 1. ¿Cuándo llegaron los primeros nativos a Norteamérica?</em>
+<figure class="image urantiapedia">
+<img src="/image/early_migration_americas.jpg">
+<figcaption><em><b>Figura 1.</b> ¿Cuándo llegaron los primeros nativos a Norteamérica?</em></figcaption>
+</figure>
 
 Según *El Libro de Urantia*, el continente norteamericano se habitó por primera vez hace 85.000 años cuando el «hombre rojo» cruzó el puente terrestre del Estrecho de Bering, que en ese momento conectaba Siberia y Alaska. En los últimos veinte años, se han encontrado restos en yacimientos tanto de América del Norte como del Sur que indican que los continentes americanos estaban habitados hace al menos 50.000 años. Un yacimiento en Brasil data de hace aproximadamente 60.000 años. Antes de estos hallazgos, la opinión académica predominantemente sostenida era que el hombre rojo llegó a América del Norte aproximadamente hace 12.000 años por un puente de tierra del Estrecho de Bering. Estos nuevos hallazgos desafían seriamente todo el campo del estudio antropológico porque la teoría actual «fuera de África» ​​sugiere que el hombre moderno emigró de África hace 60.000 a 80.000 años.
 

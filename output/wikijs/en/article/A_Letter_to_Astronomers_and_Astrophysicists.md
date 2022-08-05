@@ -36,8 +36,10 @@ The _Local Void_ occupies a “superior” position in relation to supergalactic
 
 Remembering that the giant galaxies and its satellite galaxies are also called Superuniverses[^3] by _The Urantia Book_, the same informs their positions in the large ellipse since 1935. According to the book, there are 7 major galaxies that are inhabited, and the Milky Way is one of them. The central point of this ellipse is called the Great Sources and Centers, Havona, the Eternal Isle or Paradise[^4].
 
-<figure id="Letter_figure_1" class="image image_resized"><img src="/image/Council_giants.png"></figure>
-<em><b>Figure 1.</b> Council of Giants - “Top” view (left) and “Bottom” view (right).</em>
+<figure id="Letter_figure_1" class="image urantiapedia">
+<img src="/image/Council_giants.png">
+<figcaption><em><b>Figure 1.</b> Council of Giants - “Top” view (left) and “Bottom” view (right).</em></figcaption>
+</figure>
 
 > We have long since discovered that the seven superuniverses traverse a great ellipse, a gigantic and elongated circle. [UB 15:1.2](/en/The_Urantia_Book/15#p1_2)
 
@@ -45,8 +47,10 @@ Remembering that the giant galaxies and its satellite galaxies are also called S
 > 
 > Your local universe of Nebadon belongs to Orvonton, the seventh superuniverse, which swings on between superuniverses one and six, having not long since (as we reckon time) turned the _southeastern bend_ of the superuniverse space level. Today, the solar system to which Urantia belongs is a few billion years past the swing around the southern curvature so that you are just now _advancing beyond the southeastern bend_ and are moving swiftly through the long and comparatively straightaway northern path. For untold ages Orvonton will pursue this almost direct northerly course. [UB 15:1.4-5](/en/The_Urantia_Book/15#p1_4)
 
-<figure id="Letter_figure_2" class="image image_resized"><img src="/image/Superuniverses.png"></figure>
-<em><b>Figure 2.</b> Proposed identification of the seven “superuniverses” of _The Urantia Book_</em>
+<figure id="Letter_figure_2" class="image urantiapedia">
+<img src="/image/Superuniverses.png">
+<figcaption><em><b>Figure 2.</b> Proposed identification of the seven “superuniverses” of _The Urantia Book_</em></figcaption>
+</figure>
 
 Although the Andromeda galaxy (M31) is part of the Council of Giants, it is not considered by the Urantia Papers as one of the 7 inhabited galaxies:
 
@@ -84,15 +88,19 @@ The midspace zones of quiescence (basically the cosmic voids[^9]) are enormous a
 > 
 > A space level thus functions as an elliptical region of motion surrounded on all sides by relative motionlessness. Such relationships of motion and quiescence constitute a curved space path of lessened resistance to motion which is universally followed by cosmic force and emergent energy as they circle forever around the Isle of Paradise. [UB 11:7.7-8](/en/The_Urantia_Book/11#p7_7)
 
-<figure id="Letter_figure_3" class="image image_resized"><img src="/image/Midspace_en.png"></figure>
-<em><b>Figure 3.</b> Side view of the “midspace zones of quiescence” surrounding the _Local Sheet_ and “relatively quiet areas” around the first possible level of outer space. Adaptation of the original image extracted from: <a href="http://www.ipnl.in2p3.fr/projet/cosmicflows/tfig7.jpg">http://www.ipnl.in2p3.fr/projet/cosmicflows/tfig7.jpg</a>.</em>
+<figure id="Letter_figure_3" class="image urantiapedia">
+<img src="/image/Midspace_en.png">
+<figcaption><em><b>Figure 3.</b> Side view of the “midspace zones of quiescence” surrounding the _Local Sheet_ and “relatively quiet areas” around the first possible level of outer space. Adaptation of the original image extracted from: <a href="http://www.ipnl.in2p3.fr/projet/cosmicflows/tfig7.jpg">http://www.ipnl.in2p3.fr/projet/cosmicflows/tfig7.jpg</a>.</em></figcaption>
+</figure>
 
 ## North and South Super Voids
 
 The documents published in 1955 affirm the existence of huge extension space “superior” and “inferior” that are less rich in galaxies, called by them as space reservoirs (unpervaded space). This topic is similar to the previous one, except for the fact that _The Urantia Book_ specifically mentions the existence of these two Super Voids and states that one occupies a lower region, and the other a superior position in relation to what we know as Local Sheet. These voids were designated by Northern Local Supervoid[^13] e Southern Local Supervoid[^14]
 
-<figure id="Letter_figure_4" class="image image_resized"><img src="/image/nearby_groups.jpg"></figure>
-<em><b>Figure 4.</b> Distrución espacial del vecindario del Grupo Local proyectado en el plano supergaláctico (Y, Z). Imagen original: <a href="http://ned.ipac.caltech.edu/level5/Dev2/frames.html">http://ned.ipac.caltech.edu/level5/Dev2/frames.html</a>.</em>
+<figure id="Letter_figure_4" class="image urantiapedia">
+<img src="/image/nearby_groups.jpg">
+<figcaption><em><b>Figure 4.</b> Distrución espacial del vecindario del Grupo Local proyectado en el plano supergaláctico (Y, Z). Imagen original: <a href="http://ned.ipac.caltech.edu/level5/Dev2/frames.html">http://ned.ipac.caltech.edu/level5/Dev2/frames.html</a>.</em></figcaption>
+</figure>
 
 The interesting point is that these voids were discovered only about 25 years after the publication of the Urantia documents[^15].
 
@@ -127,16 +135,20 @@ The following excerpts are from the article _The structure of the Universe trace
 > 
 > The zone of avoidance crosses local supervoids near their centres. Thus we must ask how reliably we can detect these voids. To see the problem we show the zone of avoidance for rich clusters (± 15° in galactic latitude) by dashed lines. What matters here is the difference between the spatial structures of nearby and more distant clusters because the absorption influences the distribution of clusters located at different distances in an approximately similar manner. Actually, nearby clusters are less influenced than distant clusters, as demonstrated by the presence of several nearby clusters (Perseus clusters A347 and A426) within the zone of avoidance. Thus the absence of nearby clusters at high supergalactic latitudes must be due to real differences in the spatial structure. (Einasto, Maret, et al. _The structure of the universe traced by rich clusters of galaxies_. _Monthly Notices of the Royal Astronomical Society_ 269.2 (1994): 301-322.)
 
-<figure id="Letter_figure_5" class="image image_resized"><img src="/image/super_voids.png"></figure>
-<em><b>Figure 5.</b> North and South Super Voids. Available in: <a href="https://ui.adsabs.harvard.edu/abs/1994MNRAS.269..301E">https://ui.adsabs.harvard.edu/abs/1994MNRAS.269..301E</a>.</em>
+<figure id="Letter_figure_5" class="image urantiapedia">
+<img src="/image/super_voids.png">
+<figcaption><em><b>Figure 5.</b> North and South Super Voids. Available in: <a href="https://ui.adsabs.harvard.edu/abs/1994MNRAS.269..301E">https://ui.adsabs.harvard.edu/abs/1994MNRAS.269..301E</a>.</em></figcaption>
+</figure>
 
 > _Additional Editor's Note_
 >
 > The two supervoids are striking because they are nearly identical in size and very symmetrical about the supergalactic plane. Note how the avoidance zone of our galaxy is not enough to explain these huge voids, which extend much further. It would be enough to move the center of supergalactic coordinates, which is conventionally established in the center of our galaxy, so that these two enormous supervoids would correspond very well with the “space deposits” that _The Urantia Book_ mentions. It should also be noted how the article confirms the preference of clusters and superclusters of galaxies for being close to the supergalactic plane.
 {.is-info}
 
-<figure id="Letter_figure_6" class="image image_resized"><img src="/image/unpervaded_space_en.png"></figure>
-<em><b>Figure 6.</b> Vertical cross section: 132,684 galaxy clusters distributed, lightly resemble a Maltese cross (Side View).</em>
+<figure id="Letter_figure_6" class="image urantiapedia">
+<img src="/image/unpervaded_space_en.png">
+<figcaption><em><b>Figure 6.</b> Vertical cross section: 132,684 galaxy clusters distributed, lightly resemble a Maltese cross (Side View).</em></figcaption>
+</figure>
 
 Assuming that such voids are part of even larger regions, I used a Catalog of 132,684 Clusters of Galaxies identified from _Sloan Digital Sky Survey III_ (2013), to verify the claims of _The Urantia Book_ about the “unpervaded space” and its extensions. Plotting 132,684 galaxy clusters in dimensionless points one can actually see what appear to be two huge empty spaces (but not due entirely to the _Zone of Avoidance_ of the Milky Way). Such voids are approximately perpendicular to supergalactic plane. If we cut a slice about 2 billion light years thick, from the center and parallel to the x axis, then you can see the “space reservoir” (unpervaded space) V-shaped in vertical extension ([Figure 6](#Letter_figure_6)).
 
@@ -147,8 +159,10 @@ Still skeptical about the space reservoirs and their extensions, I plotted about
 > Quasars are the brightest known objects. They are believed to be the result of black holes at the center of galaxies at immense distances from us. https://en.wikipedia.org/wiki/Quasar
 {.is-info}
 
-<figure id="Letter_figure_7" class="image image_resized"><img src="/image/unpervaded_space2_en.png"></figure>
-<em><b>Figure 7.</b> Vertical cross section: About 510,000 quasars distributed, lightly resemble to a Maltese cross (Side View).</em>
+<figure id="Letter_figure_7" class="image urantiapedia">
+<img src="/image/unpervaded_space2_en.png">
+<figcaption><em><b>Figure 7.</b> Vertical cross section: About 510,000 quasars distributed, lightly resemble to a Maltese cross (Side View).</em></figcaption>
+</figure>
 
 ## The concept of galaxy filaments and great walls
 
@@ -193,11 +207,15 @@ The superuniverse of Orvonton is composed of mostly the Milky Way, it is the mai
 > 
 > From the astronomical position of Urantia, as you look _through the cross section of near-by systems to the great Milky Way_, you observe that the spheres of Orvonton are traveling in a vast _elongated plane, the breadth being far greater than the thickness and the length far greater than the breadth_. [UB 15:3.1-2](/en/The_Urantia_Book/15#p3_1)
 
-<figure id="Letter_figure_8" class="image image_resized"><img src="/image/darkmatter_formation_en.png"></figure>
-<em><b>Figure 8.</b> Formation of the dark-matter halo around a disk galaxy, extracted from “Scalar-field theory of dark matter” (2014). Available in: <a href="http://arxiv.org/pdf/1304.1595v2.pdf">http://arxiv.org/pdf/1304.1595v2.pdf</a>.</em>
+<figure id="Letter_figure_8" class="image urantiapedia">
+<img src="/image/darkmatter_formation_en.png">
+<figcaption><em><b>Figure 8.</b> Formation of the dark-matter halo around a disk galaxy, extracted from “Scalar-field theory of dark matter” (2014). Available in: <a href="http://arxiv.org/pdf/1304.1595v2.pdf">http://arxiv.org/pdf/1304.1595v2.pdf</a>.</em></figcaption>
+</figure>
 
-<figure id="Letter_figure_9" class="image image_resized"><img src="/image/Stellar-streams.jpg"></figure>
-<em><b>Figure 9.</b> Sag DEG. Image by Jon Lomberg in collaboration with David Martinez-Delgado for the Stellar Tidal Stream Survey.</em>
+<figure id="Letter_figure_9" class="image urantiapedia">
+<img src="/image/Stellar-streams.jpg">
+<figcaption><em><b>Figure 9.</b> Sag DEG. Image by Jon Lomberg in collaboration with David Martinez-Delgado for the Stellar Tidal Stream Survey.</em></figcaption>
+</figure>
 
 The description of an elongated system of these in which the Milky Way is arranged would be very unusual in 1955 and even in the coming decades. But now studies indicate that a halo of dark matter in the same way is encompassing the entire Milky Way[^21]. In the above paragraphs, _The Urantia Book_ makes clear reference to the globular clusters and Sag DEG, but this elliptical galaxy in a loop orbiting the poles of the Milky Way was discovered only in 1994, 39 years after the documents of 1955.
 
@@ -261,8 +279,10 @@ _The Urantia Book_ tells us that the whole universe is spinning in successive la
 
 The documents state that the first level is a belt of galaxies orbiting the same center as the “Great Ellipse”, but in an opposite direction. In a top view of the _Local Sheet_ plane, the ellipse of galaxies would move clockwise, while the first level of galaxies would move counter-clockwise. The second level of outer space maintains a clockwise rotation. But if it were thus, we would observe a clear difference in the peculiar velocity of these galaxies because on one side they present a greater redshifit, while on the other side we would observe a lesser redshift. There would be a dichotomy redshift. And that's exactly what we found[^27] ([Figura 10](#Letter_figure_10)).
 
-<figure id="Letter_figure_10" class="image image_resized"><img src="/image/Peculiar_velocities.png"></figure>
-<em><b>Figure 10.</b> Peculiar radial velocities viewed in the SGX-SGZ plane. Available in: <a href="http://arxiv.org/pdf/1306.0091v4.pdf">http://arxiv.org/pdf/1306.0091v4.pdf</a>.</em>
+<figure id="Letter_figure_10" class="image urantiapedia">
+<img src="/image/Peculiar_velocities.png">
+<figcaption><em><b>Figure 10.</b> Peculiar radial velocities viewed in the SGX-SGZ plane. Available in: <a href="http://arxiv.org/pdf/1306.0091v4.pdf">http://arxiv.org/pdf/1306.0091v4.pdf</a>.</em></figcaption>
+</figure>
 
 The documents of 1955 do not clearly inform the exact length of 1st level of space, but we can infered from [UB 12:1.14-15](/en/The_Urantia_Book/12#p1_14), which 1st level extends to about 97 Mly beyond the Milky Way, or 75 Mly to outside the ellipse, with a maximum overall diameter of approximately 170 Mly (including the Virgo supercluster). However, the second level of outer space should be much larger. Talking about the first outer space levels the mysterious authors state that detected at least 70,000 aggregations of matter, higher than any of the galaxies of the “Great Ellipse” ([UB 31:10.19](/en/The_Urantia_Book/31#p10_19)). For a very rough estimate, if the Milky Way has a mass of about 1,5 10^12^ $M^\odot$, we could assume that the first levels of outer space have about 1,05 10^17^ $M^\odot$.
 
@@ -274,8 +294,10 @@ This is a very near result of the mass of _Laniakea Supercluster_. Being mere co
 
 Therefore, my conjecture is: would Laniakea and Perseus-Pisces components of the same 2nd level of outer space, cited by documents of 1955? If the speculation is correct then the 2nd level space would be really huge, with probably nearly 1 billion light years in diameter. So virtually every point of peculiar velocities that we see in the [Figure 10](#Letter_figure_10) represent the 2nd level of outer space, which would turn clockwise presenting the galaxies on the left side with radial velocities away, and those on the right, with movement in our direction.
 
-<figure id="Letter_figure_11" class="image image_resized"><img src="/image/Great_ellipse_en.png"></figure>
-<em><b>Figure 11.</b> The galaxies of the great ellipse and the hypothetical rotation “toward the Great Attractor”.</em>
+<figure id="Letter_figure_11" class="image urantiapedia">
+<img src="/image/Great_ellipse_en.png">
+<figcaption><em><b>Figure 11.</b> The galaxies of the great ellipse and the hypothetical rotation “toward the Great Attractor”.</em></figcaption>
+</figure>
 
 Alternative movements of outer space levels appear to be part of the solution to the riddle of the Great Attractor. For many years we have asked about the cause of the movement towards the [Great Attractor](https://en.wikipedia.org/wiki/Great_Attractor), which is over 150 million light years distant and did not appear to have enough mass to justify the attraction. If _The Urantia Book_ is correct, and if I'm interpreting correctly, the movement in this direction should be partially illusory, caused by the tangential velocity of the great orbit that our galaxy makes around the ellipse. The movement of Virgo Cluster and other galaxies towards the Great Attractor would also be apparent, due to contrary movements of the outer space levels ([Figure 11](#Letter_figure_10)).
 
@@ -306,8 +328,10 @@ If really the galaxies that compose the great ellipse are orbiting an unbelievab
 2. If these galaxies are in an orderly elliptical orbit, they should have a small peculiar velocity, different those from the outside. (Local Velocity Anomaly?);
 3. For the center of gravity also to be the geographical center of the ellipse, the supermassive stationary object should not have a spherical regular form.
 
-<figure id="Letter_figure_12" class="image image_resized"><img src="/image/Isla_Paraiso.png"></figure>
-<em><b>Figure 12.</b> Central Island Proportions according to the Urantia Book. Figure higher: top view; Figure bottom: side view.</em>
+<figure id="Letter_figure_12" class="image urantiapedia">
+<img src="/image/Isla_Paraiso.png">
+<figcaption><em><b>Figure 12.</b> Central Island Proportions according to the Urantia Book. Figure higher: top view; Figure bottom: side view.</em></figcaption>
+</figure>
 
 Obviously the latter assumption can not be verified, but there is something interesting about the shape and dimensions of the eternal Isle. According to The Urantia Book, this great body has a geometric shape of a triaxial ellipsoid ([Figure 13](#Letter_figure_13)).
 
@@ -317,8 +341,10 @@ When we plotted all seven galaxies of the ellipse in a 3d software we observe an
 
 > . . . Every known form of cosmic reality has the bend of the ages, the trend of the circle, the swing of the great elipse. [UB 11:8.2](/en/The_Urantia_Book/11#p8_2)
 
-<figure id="Letter_figure_13" class="image image_resized"><img src="/image/Oscillation_en.png"></figure>
-<em><b>Figure 13.</b> Side view of great Ellipse and surroundings. Up: side view. Down: Southeast view.</em>
+<figure id="Letter_figure_13" class="image urantiapedia">
+<img src="/image/Oscillation_en.png">
+<figcaption><em><b>Figure 13.</b> Side view of great Ellipse and surroundings. Up: side view. Down: Southeast view.</em></figcaption>
+</figure>
 
 ## Why is it important?
 

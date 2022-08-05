@@ -10,8 +10,10 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Author: **Dick Bain**
 
-<figure class="image image_resized"><img src="/image/binarysystem.jpg"></figure>
-<em>Image 1. A binary system approaches the Sun</em>
+<figure class="image urantiapedia">
+<img src="/image/binarysystem.jpg">
+<figcaption><em><b>Image 1.</b> A binary system approaches the Sun</em></figcaption>
+</figure>
 
 ## Introduction
 

@@ -10,8 +10,10 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Autor: **Dick Bain** | Traductor: **Jan Herca**
 
-<figure class="image image_resized"><img src="/image/binarysystem.jpg"></figure>
-<em>Figura 1. Un sistema binario se aproxima al Sol</em>
+<figure class="image urantiapedia">
+<img src="/image/binarysystem.jpg">
+<figcaption><em>Figura 1. Un sistema binario se aproxima al Sol</em></figcaption>
+</figure>
 
 ## Introducción
 
@@ -57,8 +59,10 @@ Júpiter no debería estar donde está. El tamaño y la ubicación anómalos de 
 
 Dónde se formó Júpiter ha sido siempre un problema que ha molestado a los científicos planetarios, ya que parece que los gigantes gasesosos no pueden formarse cerca de una estrella. La gravedad intensa, la radiación estelar y los poderosos vientos estelares en lugares cerrados evitarían que el gas se mantuviera unido el tiempo suficiente para unirse en un planeta.
 
-<figure class="image image_resized"><img src="/image/Jupiter.jpg" width="470" height="470"></figure>
-<em>Figura 3. Júpiter visto con el Hubble Wide Field Camera 3.</em>
+<figure class="image urantiapedia">
+<img src="/image/Jupiter.jpg" width="470" height="470">
+<figcaption><em>Figura 3. Júpiter visto con el Hubble Wide Field Camera 3.</em></figcaption>
+</figure>
 
 Para tratar de lidiar con este problema se ha propuesto la *Hipótesis del Gran Viraje*. Según esta teoría el planeta Júpiter, tras formarse a una distancia de 3,5 unidades astronómicas (UA[^15]), migró hacia el interior a 1,5 UA, antes de revertir su curso debido a la captura de Saturno en una configuración de resonancia orbital, deteniéndose finalmente cerca de su órbita actual a 5,2 UA[^16].
 

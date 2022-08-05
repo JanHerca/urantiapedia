@@ -10,8 +10,10 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Author: **Halbert Katzen J.D.**
 
-<figure id="Gobekli_Tepe_fig_1" class="image image_resized"><img src="/image/gobeklitepe01.jpg" width="1200" heigth="996"></figure>
-<em>Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_1" class="image urantiapedia">
+<img src="/image/gobeklitepe01.jpg" width="1200" heigth="996">
+<figcaption><em>Gobekli Tepe</em></figcaption>
+</figure>
 
 ## Summary
 
@@ -31,15 +33,19 @@ Gobekli Tepe is best known for being an archaeological discovery that defies exp
 
 Theories about the history of human civilization are based on evidence that strongly suggests a pattern of progress, both culturally and genetically, over extended periods of time. Progression is what seems to naturally occur; retrogression is the exception. “Survival of the fittest” and successive generations building on the achievements of previous generations are the basic models for genetic and cultural progress. Retrogression occurs, but it requires a special explanation: war, changing climate, unwise cultural practices, overpopulation, something. Gobekli Tepe provides strong evidence of a civilization that was both extremely precocious and also in decline for thousands of years. Eventually, the area became populated by an inferior civilization. But scholars are reluctant to hypothesize in this direction because it requires reforming widely held theories on the progressive nature of human evolution.
 
-<figure id="Gobekli_Tepe_fig_2" class="image image_resized"><img src="/image/gobekli_tepe_map.jpg" width="520" heigth="362"></figure>
-<em>Location of Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_2" class="image urantiapedia">
+<img src="/image/gobekli_tepe_map.jpg" width="520" heigth="362">
+<figcaption><em>Location of Gobekli Tepe</em></figcaption>
+</figure>
 
 *The Urantia Book* provides a history of humanity that harmonizes perfectly well with the discoveries being made at Gobekli Tepe. It presents an explanation of the Gobekli Tepe mysteries in terms of an Adam and Eve story that varies significantly from the Old Testament record, but, which the authors assert, is nonetheless the basis for many of our myths and religious traditions about the origins of humanity. Not surprisingly, because of the unusual nature and age of this archaeological site, scholars quickly began speculating on how it may relate to the religious traditions about Adam and Eve. So, in one sense, *The Urantia Book*’s explanation fits well with scholarly speculations about the significance of Gobekli Tepe. Even still, while demonstrating clear parallels, the unique aspects of the Adam and Eve story found in *The Urantia Book*, no doubt, will also raise a lot of questions.
 
 This report will not attempt to provide all the answers. Some explanations can be found by reading the [Adam and Eve Report](/en/article/Halbert_Katzen/Adam_and_Eve) and the [Garden of Eden Report](/en/article/Halbert_Katzen/Garden_of_Eden). For a more complete understanding, read Chapters 73 through 80 in *The Urantia Book*. Additionally, you may want to review the [Eugenics, Race, and The Urantia Book](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index) paper. In January 2011, UBtheNEWS prepared and published the first and only comprehensive review of this topic.
 
-<figure id="Gobekli_Tepe_fig_3" class="image image_resized"><img src="/image/gobeklitepe03.jpg" width="700" heigth="410"></figure>
-<em>Gobekli Tepe in Google Maps</em>
+<figure id="Gobekli_Tepe_fig_3" class="image urantiapedia">
+<img src="/image/gobeklitepe03.jpg" width="700" heigth="410">
+<figcaption><em>Gobekli Tepe in Google Maps</em></figcaption>
+</figure>
 
 Some information from *The Urantia Book* about Adam and Eve will be provided first because Gobekli Tepe is itself such a mysterious site. This structure will allow you to immediately put the mysterious aspects of Gobekli Tepe in context as they are reviewed.
 
@@ -73,15 +79,19 @@ This is how *The Urantia Book* provides an explanation of human history that is 
 
 Scholars are straining to come up with interpretations for Gobekli Tepe for a very good reason. On the one hand, professionalism requires that they avoid getting overly creative with their speculations and interpretations of archaeological and anthropological evidence. And, on the other hand, Gobekli Tepe requires thinking outside the box. With this in mind, we now turn to quotes from a variety of sources (primarily [newsweek.com](https://www.newsweek.com/) and [archaeology.org](https://www.archaeology.org/)) about the mystery of Gobekli Tepe.
 
-<figure id="Gobekli_Tepe_fig_4" class="image image_resized"><img src="/image/gobeklischmidt.png" width="450" heigth="340"></figure>
-<em>Klaus Schmidt in Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_4" class="image urantiapedia">
+<img src="/image/gobeklischmidt.png" width="450" heigth="340">
+<figcaption><em>Klaus Schmidt in Gobekli Tepe</em></figcaption>
+</figure>
 
 > The German archaeologist who has been excavating the site since 1994 sums up four more months of digging. “In 14 years, we have uncovered barely five percent of what is here. There are decades of work ahead,” Klaus Schmidt says. [^9]
 
 > The new discoveries are finally beginning to reshape the slow-moving consensus of archeology. Göbekli Tepe is “unbelievably big and amazing, at a ridiculously early date,” according to Ian Hodder, director of Stanford’s archeology program. Enthusing over the “huge great stones and fantastic, highly refined art” at Göbekli, Hodder—who has spent decades on rival Neolithic [New Stone age] sites—says: “Many people think that it changes everything…It overturns the whole apple cart. All our theories were wrong.” [^10]
 
-<figure id="Gobekli_Tepe_fig_5" class="image image_resized"><img src="/image/gobeklitepeariel.jpg" width="974" heigth="610"></figure>
-<em>Aerial view of Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_5" class="image urantiapedia">
+<img src="/image/gobeklitepeariel.jpg" width="974" heigth="610">
+<figcaption><em>Aerial view of Gobekli Tepe</em></figcaption>
+</figure>
 
 > [T]he structures not only predate pottery, metallurgy, and the invention of writing or the wheel; they were built before the so-called Neolithic Revolution, i.e., the beginning of agriculture and animal husbandry around 9,000 BC. But the construction of Göbekli Tepe implies organization of an order of complexity not hitherto associated with pre-Neolithic societies. [^11]
 
@@ -93,14 +103,18 @@ Scholars are straining to come up with interpretations for Gobekli Tepe for a ve
 > 
 > Before the discovery of Göbekli Tepe, archaeologists believed that societies in the early Neolithic were organized into small bands of hunter-gatherers and that the first complex religious practices were developed by groups that had already mastered agriculture. Scholars thought that the earliest monumental architecture was possible only after agriculture provided Neolithic people with food surpluses, freeing them from a constant focus on day-to-day survival. A site of unbelievable artistry and intricate detail, Göbekli Tepe has turned this theory on its head. [^12]
 
-<figure id="Gobekli_Tepe_fig_6" class="image image_resized"><img src="/image/GobekliTepe_siteA.jpg" width="468" heigth="314"></figure>
-<em>T-shaped Structures in Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_6" class="image urantiapedia">
+<img src="/image/GobekliTepe_siteA.jpg" width="468" heigth="314">
+<figcaption><em>T-shaped Structures in Gobekli Tepe</em></figcaption>
+</figure>
 
 > Schmidt’s thesis is simple and bold: it was the urge to worship that brought mankind together in the very first urban conglomerations. The need to build and maintain this temple, he says, drove the builders to seek stable food sources, like grains and animals that could be domesticated, and then to settle down to guard their new way of life. The temple begat the city. [^10]
 > 
 > Some archeologists, like Hodder, the Neolithic specialist, wonder if Schmidt has simply missed evidence of a village or if his dating of the site is too precise. But the real reason the ruins at Göbekli remain almost unknown, not yet incorporated in textbooks, is that the evidence is too strong, not too weak. “The problem with this discovery,” as Schwartz of Johns Hopkins puts it, “is that it is unique.” No other monumental sites from the era have been found. Before Göbekli, humans drew stick figures on cave walls, shaped clay into tiny dolls, and perhaps piled up small stones for shelter or worship. Even after Göbekli, there is little evidence of sophisticated building. [^10]
 
-<figure id="Gobekli_Tepe_fig_7" class="image image_resized"><img src="/image/GobekliTepe_siteB.jpg" width="858" heigth="700"></figure>
+<figure id="Gobekli_Tepe_fig_7" class="image urantiapedia">
+<img src="/image/GobekliTepe_siteB.jpg" width="858" heigth="700">
+</figure>
 <em>T-shaped Structures in Gobekli Tepe</em>
 
 > Schmidt . . . continues: “The really strange thing is that in 8,000 BC, during the shift to agriculture, Gobekli Tepe was buried. I mean deliberately – not in a mudslide. For some reason the hunters, or the ex-hunters, decided to entomb the entire site in soil. The earth we are removing from the stones was put here by man himself: all these hills are artificial.” [^13]
@@ -131,8 +145,10 @@ In the Gobekli Tepe time period, both architecturally and artistically, nothing 
 
 Numerous carvings on the monoliths depict a wide array of animals as well as large birds. On one of these carvings is a headless man with an erection riding, apparently, on the back of one of the giant birds. An Austrian Times article explains some of the symbolic significance:
 
-<figure id="Gobekli_Tepe_fig_9" class="image image_resized"><img src="/image/gobeklierection.jpg" width="338" heigth="366"></figure>
-<em>Carving of erect man at Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_9" class="image urantiapedia">
+<img src="/image/gobeklierection.jpg" width="338" heigth="366">
+<figcaption><em>Carving of erect man at Gobekli Tepe</em></figcaption>
+</figure>
 
 > Stone age men may have believed in an afterlife where they could romp with mythical creatures after scientist’s found what German media said was the world’s oldest erotic picture.
 > 
@@ -148,8 +164,10 @@ Numerous carvings on the monoliths depict a wide array of animals as well as lar
 > 
 > “In this case the dead man has already passed over – hence his head is missing. But to be honest we are still working on figuring out the meaning of the depictions. We see the signs – but cannot understand their meaning.” [^16]
 
-<figure id="Gobekli_Tepe_fig_8" class="image image_resized"><img src="/image/gobeklitepeerotic_000.jpg" width="237" heigth="360"></figure>
-<em>Carving of erect man at Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_8" class="image urantiapedia">
+<img src="/image/gobeklitepeerotic_000.jpg" width="237" heigth="360">
+<figcaption><em>Carving of erect man at Gobekli Tepe</em></figcaption>
+</figure>
 
 Of course, given *The Urantia Book*’s account of Adam and Eve as genetic uplifters from another world, the erection connection is an obvious point to make. But this is even more intriguing when considered along with comments in *The Urantia Book* about how Adam and Eve were able to travel around back then on the backs of giant birds. In recounting their first days on the planet, the authors state:
 
@@ -165,9 +183,13 @@ Associating the carving of the erect headless man on what appears to be the back
 
 > When Material Sons, the biologic uplifters, begin their sojourn on an evolutionary world, their place of abode is often called the Garden of Eden because it is characterized by the floral beauty and the botanic grandeur of Edentia, the constellation capital. Van well knew of these customs and accordingly provided that the entire peninsula be given over to the Garden. Pasturage and animal husbandry were projected for the adjoining mainland. Of animal life, only the birds and the various domesticated species were to be found in the park. Van’s instructions were that Eden was to be a garden, and only a garden. No animals were ever slaughtered within its precincts. All flesh eaten by the Garden workers throughout all the years of construction was brought in from the herds maintained under guard on the mainland.[^20]
 
-<figure id="Gobekli_Tepe_fig_10" class="image image_resized"><img src="/image/gobekliwildanimal.jpg" width="163" heigth="200"></figure>
-<figure id="Gobekli_Tepe_fig_11" class="image image_resized"><img src="/image/Gobeklitepeanimal.jpeg" width="255" heigth="330"></figure>
-<em>Details of Gobekli Tepe</em>
+<figure id="Gobekli_Tepe_fig_10" class="image urantiapedia image-style-align-left">
+<img src="/image/gobekliwildanimal.jpg" width="163" heigth="200">
+</figure>
+<figure id="Gobekli_Tepe_fig_11" class="image urantiapedia image-style-align-right">
+<img src="/image/Gobeklitepeanimal.jpeg" width="255" heigth="330">
+<figcaption><em>Details of Gobekli Tepe</em></figcaption>
+</figure>
 
 The artwork at Gobekli Tepe is reasonably consistent with *The Urantia Book*’s account of Adam and Eve’s unfortunate departure from the Garden of Eden. Lacking evidence of a specific totem animal and given the variety of dangerous animals, the carvings can be interpreted to reflect the trauma of having to leave their original, protected garden.
 
@@ -187,18 +209,24 @@ Note that the sperm-like carvings are depicted individually as well as swimming 
 
 In the statuette image with the front view plus side views, note the three sets of arms and hands. Father, mother, child? And on both sides of the child are large sperm-like carvings. The association of the sperm-like carvings around the child image suggests an awareness of the connection. And the child seems to be depicted as only half way out the womb, which further supports interpreting this in terms of their understanding of fertility. Snakes are also associated with fertility and rebirth, presumably because they shed their skin. But could it be that the teaching about the nature of sperm got lost, while the stone-carved image remained there, ever ready to be associated with an animal that can be seen? Perhaps in this way the meaning was preserved, while the more sophisticated biological understanding, which would have been non evolutionary knowledge, was lost with the passage of time.
 
-<figure id="Gobekli_Tepe_fig_12" class="image image_resized"><img src="/image/Gobekli-sperm.jpg" width="1400" heigth="520"></figure>
-<em>On the left a statuette showing what appear to be individual spermatozoa. On the far right they seem to be many swimming in parallel.</em>
+<figure id="Gobekli_Tepe_fig_12" class="image urantiapedia">
+<img src="/image/Gobekli-sperm.jpg" width="1400" heigth="520">
+<figcaption><em>On the left a statuette showing what appear to be individual spermatozoa. On the far right they seem to be many swimming in parallel.</em></figcaption>
+</figure>
 
 In the image of one of the pillars with fingers wrapping around the corners, note the part of the carving that looks like two half circles with an “H” in the middle. Given the information about Adam teaching people about “those life factors which unite to form a new being,” how might we interpret this symbol consistent with what we know today about biology?
 
-<figure id="Gobekli_Tepe_fig_13" class="image image_resized"><img src="/image/gobeklitepehands.jpeg" width="259" heigth="194"></figure>
-<em>The carving with arms, hands, and a belt where two semicircles and an "H" can be seen.</em>
+<figure id="Gobekli_Tepe_fig_13" class="image urantiapedia">
+<img src="/image/gobeklitepehands.jpeg" width="259" heigth="194">
+<figcaption><em>The carving with arms, hands, and a belt where two semicircles and an "H" can be seen.</em></figcaption>
+</figure>
 
 Consider that the two half circles represent the egg and that the “H” symbolizes male and female sex cells joining at the centromere. Today, we think of the chromosome more as a long legged “X” because we now have pictures of chromosomes. But what if you never saw one and you were simply told that two strands of stuff, one from the man and one from the women, get joined in the egg? It is worth noting, of course, that the height of this symbol is in the reproductive area, generally speaking. And the symbol on the shorter side is consistent with a symbolic representation of a penis going into a vagina.
 
-<figure id="Gobekli_Tepe_fig_14" class="image image_resized"><img src="/image/Puma-punku.jpg" width="750" heigth="422"></figure>
-<em>Puma Punku, one of the most intriguing archaeological sites on the planet, in Bolivia.</em>
+<figure id="Gobekli_Tepe_fig_14" class="image urantiapedia">
+<img src="/image/Puma-punku.jpg" width="750" heigth="422">
+<figcaption><em>Puma Punku, one of the most intriguing archaeological sites on the planet, in Bolivia.</em></figcaption>
+</figure>
 
 The “H” shape also plays a predominant role in the mysterious megalithic architecture of Puma Punku in Bolivia, as well. It sure seems like some people truly thought that this shape was extremely important to an understanding about life.[^23]
 
@@ -208,7 +236,9 @@ The “H” shape also plays a predominant role in the mysterious megalithic arc
 > 
 > The migratory conquests of the Andites continued on down to their final dispersions, from 8000 to 6000 B.C. As they poured out of Mesopotamia, they continuously depleted the biologic reserves of their homelands while markedly strengthening the surrounding peoples. And to every nation to which they journeyed, they contributed humor, art, adventure, music, and manufacture. They were skillful domesticators of animals and expert agriculturists.[^25]
 
-<figure id="Gobekli_Tepe_fig_15" class="image image_resized"><img src="/image/Egypt-Sperm-Collection.jpg" width="652" heigth="869"></figure>
+<figure id="Gobekli_Tepe_fig_15" class="image urantiapedia">
+<img src="/image/Egypt-Sperm-Collection.jpg" width="652" heigth="869">
+</figure>
 
 Many ancient Mesopotamian and Egyptian carvings depict divine beings with hats that resemble fish heads. And the tradition of presenting male and female together as godheads of equal status is abundantly presented in ancient carvings from these areas. The resemblance between sperm and fish and their common relationship to the evolving history of these carvings, leads to speculation about whether these fish head hats are symbolic of the genetic uplift brought by Adam and Eve. Consider that the Pope’s hat reflects this long history of fish head hats. [^26]
 
@@ -220,7 +250,9 @@ There are even Egyptian carvings that depict the collection of the semen, which 
 > 
 > Ten per cent of these fleeing Andites made their way across Arabia and entered Egypt.[^29]
 
-<figure id="Gobekli_Tepe_fig_16" class="image image_resized"><img src="/image/Fishhead-Adam-Eve1.jpg" width="745" heigth="483"></figure>
+<figure id="Gobekli_Tepe_fig_16" class="image urantiapedia">
+<img src="/image/Fishhead-Adam-Eve1.jpg" width="745" heigth="483">
+</figure>
 
 > The cultural age of the second garden was terminated by the increasing infiltration of the surrounding inferior stocks. Civilization moved westward to the Nile and the Mediterranean islands, where it continued to thrive and advance long after its fountainhead in Mesopotamia had deteriorated. And this unchecked influx of inferior peoples prepared the way for the later conquest of all Mesopotamia by the northern barbarians who drove out the residual strains of ability. Even in later years the cultured residue still resented the presence of these ignorant and uncouth invaders.
 
@@ -236,7 +268,9 @@ Science has discovered the pineal gland’s relationship to sleep. From Wikipedi
 
 Some ancient carvings from Egypt and Mesopotamia depict beings (sometimes with an animal head, sometimes with a human head) that hold a handbag in one hand and a pine cone in the other. The pine cone is generally believed to represent the pineal gland. The handbag carvings look stylistically similar to the carvings at the top of the monolith at Gobekli that features the headless man with an erection, seated on the back of giant bird.
 
-<figure id="Gobekli_Tepe_fig_17" class="image image_resized"><img src="/image/handbags-2.jpg" width="620" heigth="465"></figure>
+<figure id="Gobekli_Tepe_fig_17" class="image urantiapedia">
+<img src="/image/handbags-2.jpg" width="620" heigth="465">
+</figure>
 
 The relationship between psychoactive substances for use both as medicine and for religious purposes in ancient cultures is nothing new. From the Wikipedia page: Psychoactive drug:
 

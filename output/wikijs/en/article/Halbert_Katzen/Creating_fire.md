@@ -16,8 +16,10 @@ Authors: **Josh Carden** and **Halbert Katzen J.D.**
 
 A 2004 discovery at the Gesher Benot Ya’aqov archaeological site in Israel provides strong evidence that human beings were able to use flint to create fire about 790,000 years ago. Prior to this discovery, the Terra Amata archaeological site in France, though very controversial, provided what was widely considered to be the best evidence for the early ability of human beings to create fire, suggesting that fire was being created sometime between 230,000 and 380,000 years ago. But undisputed evidence for the ability to create fire at will only goes back about 200,000 years. The evidence found at Gesher Benot Ya’aqov, with its clusters of burnt flint at different levels, is considerably more definitive than what was found at Terra Amata. This 2004 discovery not only is consistent with *The Urantia Book*’s assertion that flint was initially used to make fire, but also was found in the general area where the first human beings are said to have lived and, by any analysis, pushes the date closer to what was given in *The Urantia Book* by hundreds of thousands of years.
 
-<figure class="image image_resized"><img src="/image/FireIcon.jpg" width="577" heigth="700"></figure>
-<em>Fire, the most precious creation of man</em>
+<figure class="image urantiapedia">
+<img src="/image/FireIcon.jpg" width="577" heigth="700">
+<figcaption><em>Fire, the most precious creation of man</em></figcaption>
+</figure>
 
 ## Overview
 
@@ -99,8 +101,10 @@ The Terra Amata site in France, excavated in 1966, also controversial within the
 > 
 > However, as with other sites of possible human shelters, such as Grotte du Lazaret, the evidence is more conjectural than compelling. It is equally likely [] that the stones were naturally deposited through stream flow, soil creep or some other natural process. Moreover, Paola Villa has demonstrated that stone artifacts from the different proposed living floors can be fitted together, showing that artifacts have moved up and down through the sediment column. Thus, the supposed living floor assemblages are most likely mixtures of artifacts from different time periods that have come to rest at particular levels. There is, therefore, compelling evidence that the site was subjected to relatively invasive post-depositional processes, which may also be responsible for the stone 'arrangements'. In [a] building a[t] Terra Amata, a hole was left in the center for smoke to escape. 20-40 people could congregate in a shelter like this.[^9]
 
-<figure class="image image_resized"><img src="/image/TerraAmata.jpeg" width="700" heigth="301"></figure>
-<em>Sketch of Terra Amata</em>
+<figure class="image urantiapedia">
+<img src="/image/TerraAmata.jpeg" width="700" heigth="301">
+<figcaption><em>Sketch of Terra Amata</em></figcaption>
+</figure>
 
 Kyle Streich, writing for the University of Minnesota website, states:
 
@@ -120,8 +124,10 @@ The discoveries made at Gesher Benot Ya’aqov provide evidence for the creation
 > 
 > “The new data from Gesher Benot Ya’akov is exceptional as it preserved evidence for fire-use throughout a very long occupational sequence. This continual, habitual, use of fire suggests that these early humans were not compelled to collect that fire from natural conflagrations, rather they were able to make fire at will,'' Alperson-Afil said.[^12]
 
-<figure class="image image_resized"><img src="/image/IsraelSite1.jpeg" width="475" heigth="700"></figure>
-<em>Gesher Benot Ya'akov site</em>
+<figure class="image urantiapedia">
+<img src="/image/IsraelSite1.jpeg" width="475" heigth="700">
+<figcaption><em>Gesher Benot Ya'akov site</em></figcaption>
+</figure>
 
 Note that the “burned flint” is consistent with *The Urantia Book*’s assertion that creating fire was first achieved by the use of flint, not by igniting wood with heat caused from friction.
 

@@ -10,8 +10,10 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Autor: **Ken Glasziou, Ph.D.** | Traductor: **Jan Herca**
 
-<figure class="image image_resized"><img src="/image/neutron_star.jpg" width="580" height="387"></figure>
-<em>Figura 1. Concepción artística de una estrella de neutrones</em>
+<figure class="image urantiapedia">
+<img src="/image/neutron_star.jpg" width="580" height="387">
+<figcaption><em><b>Figura 1.</b> Concepción artística de una estrella de neutrones</em></figcaption>
+</figure>
 
 A causa de las obligatorias restricciones impuestas por los reveladores[^1], la ciencia y la cosmología de *El Libro de Urantia* están en el nivel aproximado del conocimiento humano de los años 1930. También contiene algunas declaraciones que fueron proféticas en esa época ya que el mandato permitía a los reveladores suministrar información vital para rellenar los vacíos en nuestro conocimiento por otra parte ganado. Uno de estos vacíos rellenados puede haber sido este:
 
@@ -51,8 +53,10 @@ En un pocas décimas de segundo, la bola de hierro se colapsa a cerca de 50 km d
 
 La luz que nosotros vemos del Sol proviene sólo de su superficie más exterior. Sin embargo, la energía que mueve la luz solar (y la vida en la Tierra) se origina en el caluroso y denso horno termonuclear en el núcleo del Sol. Aunque a la luz solar le lleva sólo cerca de ocho minutos viajar del Sol a la Tierra, a la energía del núcleo solar que hace surgir esta luz le lleva del orden de un millón de años difundirse desde el núcleo hasta la superficie. En otras palabras, un sol (o estrella) es relativamente «opaco» (como dice *El Libro de Urantia*[^2]) a la energía que se difunde de su núcleo termonuclear hasta su superficie, por lo que esto suministra la presión necesaria para prevenir el colapso gravitacional. Pero esto no es cierto de las pequeñas partículas neutrales, conocidas desde la mitad de los años 30 por el nombre de «neutrinos». Estas partículas son tan pequeñas e irreactivas que el pasaje desde el núcleo de nuestro Sol hasta su exterior sólo lleva 3 segundos.
 
-<figure class="image image_resized"><img src="/image/Composite_image_of_Supernova_1987A.jpg"></figure>
-<em>Figura 2. Remanente de la supernova SN1987A como composición de varias longitudes de onda. ALMA (radio, en rojo), Hubble (luz visible, en verde) y Chandra (rayos X, en azul).</em>
+<figure class="image urantiapedia">
+<img src="/image/Composite_image_of_Supernova_1987A.jpg">
+<figcaption><em><b>Figura 2.</b> Remanente de la supernova SN1987A como composición de varias longitudes de onda. ALMA (radio, en rojo), Hubble (luz visible, en verde) y Chandra (rayos X, en azul).</em></figcaption>
+</figure>
 
 Esto es por lo que los neutrinos pueden escapar tan rápidamente que tienen un papel crítico en conseguir la muerte súbita de la estrella y la explosión resultante. Los neutrinos están formados en unas variedades de formas, muchos como pares neutrino-antineutrino de rayos gamma altamente energizados y otros surgen cuando los protones comprimidos capturan un electrón (o expelen un positrón) para convertirse en neutrones, una reacción que está acompañada de la emisión de un neutrino. Cerca del orden de 10^57^ neutrinos de electrón son emitidos de este modo. Reacciones de neutrones a partir de partículas Z^0^ (bosón Z) de la fuerza débil también contribuyen a formar neutrinos de electrón junto con los «pesados» neutrinos de muón y tau.
 
@@ -111,8 +115,10 @@ Después del olvidado documento de Gamow y Schoenfeld, la siguiente sugerencia d
 
 Dennis Overbye, en su libro *Corazones solitarios del cosmos*[^21] registra que, para las supernovas, casi toda la energía de la caída libre hacia adentro sale en forma de neutrinos. El éxito de este escenario (según lo propuesto por Chiu) depende de una característica de la interacción débil llamada las *corrientes neutras*[^33]. Sin esto, los neutrinos no proporcionan suficiente «empuje» y los teóricos no tienen una buena explicación de cómo explotan las estrellas. En realidad, la existencia de la *corriente neutral* para la *interacción débil* no se demostró hasta mediados de la década de 1970.
 
-<figure class="image image_resized"><img src="/image/supernova-1054-crab-nebula.jpg"></figure>
-<em>Figura 3. La supernova más célebre, SN1054, o nebulosa del Cangrejo, cuya explosión fue vista desde la Tierra en julio de 1054.</em>
+<figure class="image urantiapedia">
+<img src="/image/supernova-1054-crab-nebula.jpg">
+<figcaption><em><b>Figura 3.</b> La supernova más célebre, SN1054, o nebulosa del Cangrejo, cuya explosión fue vista desde la Tierra en julio de 1054.</em></figcaption>
+</figure>
 
 Un artículo de 1985 de Hans A. Bethe[^34] y Gerald Brown[^35] titulado *Cómo explota una supernova*[^36] muestra que la comprensión del importante papel de los neutrinos estaba bastante avanzada en ese momento. Estos autores atribuyen esta comprensión a las simulaciones por computadora de W. David Arnett de la Universidad de Chicago y Thomas Weaver y Stanford Woosley de la Universidad de California en Santa Cruz.
 
