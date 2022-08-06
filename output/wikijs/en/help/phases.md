@@ -65,8 +65,11 @@ Addition of articles and study aids linked to the book, the sources, and referen
 Addition of indexes of people, beings, places, *The Bible*, references, quotes, chronologies, etc | GitHub | Chief Editors
 Bulk load of files in Wiki.js format | GitHub | Administrators
 
-![](../image/sample_page_article.png)
-*A snapshot simulating the look and feel of an article*
+<figure id="Sample_fig_1" class="image urantiapedia">
+<img src="/image/sample_page_article.png">
+<figcaption><em> Sample of rendering an article.</em></figcaption>
+</figure>
+
 ## Milestone III -Translator
 
 In this milestone only development will be undertaken. Two new tools will be added in Wiki.js that will be of special importance in this project, and that are currently not included in the *Wiki.js* roadmap (https://docs.requarks.io/releases/roadmap):
@@ -81,6 +84,11 @@ Tasks | Where | Who
 Opening of books and articles to manual editing of *editors* | web | Assistant Editors
 Development in *Wiki.js* of a new editor for guided translations in the web | GitHub | Developers
 Development in *Wiki.js* of a new dual mode viewer for *The Urantia Book* in pairs of languages | GitHub | Developers
+
+<figure id="Sample_fig_2" class="image urantiapedia">
+<img src="/image/sample_page_side_by_side.png">
+<figcaption><em> Sample of rendering The Urantia Book side by side.</em></figcaption>
+</figure>
 
 ## Milestone IV - Interactive maps
 
@@ -105,8 +113,11 @@ Tasks | Where | Who
 Development in *Wiki.js* of an interactive map editor, the format and the renderer | GitHub | Developers
 Addition of a set of sample interactive maps, about race migrations, historical facts and Jesus voyages | GitHub | Chief Editors
 
-![](../image/sample_page_map.png)
-*A snapshot simulating the look and feel of the map viewer*
+<figure id="Sample_fig_3" class="image urantiapedia">
+<img src="/image/sample_page_map.png">
+<figcaption><em> Sample of rendering an interactive map.</em></figcaption>
+</figure>
+
 ## Milestone V - Slides
 
 As with maps, there are no standard formats for saving presentations. The most universal format is PowerPoint's PPTX (proprietary by Microsoft) but it is not a text-type format. In this milestone, a standard for saving presentations will be defined. As very interesting open source alternatives that integrate presentations on the web without being tied to a format, we have:
@@ -129,6 +140,11 @@ Tasks | Where | Who
 Opening of interactive maps to manual editing and additions by editors | web | Assistant Editors
 Development in *Wiki.js* of a slides editor, with its format and renderer | GitHub | Developers
 Addition of a set of slides using available ones in the association’s sites | GitHub | Chief Editors
+
+<figure id="Sample_fig_4" class="image urantiapedia">
+<img src="/image/sample_page_slides.png">
+<figcaption><em> Sample of rendering a presentation.</em></figcaption>
+</figure>
 
 ## Milestone VI - 3D interactive models
 
@@ -155,8 +171,11 @@ Opening of slides for manual editing and additions of editors | web | Assistant 
 Development in Wiki.js for a 3D interactive model creator/editor, its format and renderer | GitHub | Developers
 Addition of a set of 3D models about Paradise, architectural spheres, Garden of Eden and the like | GitHub | Chief Editors
 
-![](../image/sample_page_3d.png)
-*A snapshot simulating the look and feel of the 3D viewer*
+<figure id="Sample_fig_5" class="image urantiapedia">
+<img src="/image/sample_page_3d.png">
+<figcaption><em> Sample of rendering a 3D model.</em></figcaption>
+</figure>
+ 
 ## Future
 
 From now on, the project could consider new challenges such as:
@@ -164,6 +183,8 @@ From now on, the project could consider new challenges such as:
 - Serve as a portal to offer talks and online training courses on different topics related to *The Urantia Book*.
 - Serve as a virtual art gallery where artists who create works related to *The Urantia Book* can exhibit their works.
 - Offer a center for questions and answers on topics related to *The Urantia Book*.
+
+<br>
 
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">

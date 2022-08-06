@@ -123,6 +123,8 @@ Once we have the input in the correct folders, for each language, the steps to t
 
 ![](/image/formats.png)
 
+<br>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>

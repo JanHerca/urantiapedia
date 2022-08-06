@@ -32,6 +32,8 @@ Para subir contenido sigue estos pasos:
 - Haz un pull request.
 - Los usuarios *admin* del proyecto en GitHub realizarán un *merge* de los cambios. Una vez esos cambios hayan sido *mergeados* estarán disponibles en la página web de la *Urantiapedia* en las horas siguientes dependiendo del rendimiento actual de los servidores para ejecutar tareas de subida.
 
+<br>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>

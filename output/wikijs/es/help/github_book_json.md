@@ -95,6 +95,8 @@ Cursiva | * * (entre asteriscos)
 Versalitas | $ $ (entre signos de dólar)
 Subrayado (para idiomas que no incluyen opción de cursiva) | \| \| (entre plecas)
 
+<br>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>

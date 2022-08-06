@@ -95,6 +95,7 @@ Italic | * * (between asterisks)
 Small caps | $ $ (between dollar signs)
 Underline (for languages ​​that do not include italic option) | \| \| (between plecas)
 
+<br>
 
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">

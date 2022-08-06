@@ -57,6 +57,8 @@ See https://docs.requarks.io/install.
 
 See https://docs.requarks.io/install/upgrade.
 
+<br>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>

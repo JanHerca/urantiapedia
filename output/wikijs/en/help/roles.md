@@ -72,6 +72,7 @@ Authors are *Assistant Editors* who, apart from being able to edit what any *Ass
 * A good knowledge of *The Urantia Book* will be needed in at least one language, but better if it is English and a second language on which the book is translated.
 * No special computer knowledge will be necessary as the main job is done through the web.
 
+<br>
 
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">

@@ -66,8 +66,10 @@ Adición de artículos y estudios enlazados con el libro y las fuentes, con las 
 Adición de índices de personas, seres, lugares, bíblicos, de referencias, de citas, cronologías, etc | GitHub | Editores Jefe
 Carga masiva de los archivos en formato Wiki.js | GitHub | Administradores
 
-![](../image/sample_page_article.png)
-*Pantalla que simula el aspecto que tendrán los artículos*
+<figure id="Sample_fig_1" class="image urantiapedia">
+<img src="/image/sample_page_article.png">
+<figcaption><em> Ejemplo de visualización de un artículo.</em></figcaption>
+</figure>
 
 ## Fase III - Traductor
 
@@ -85,6 +87,10 @@ Apertura de los libros y artículos para su edición manual por los editores | w
 Desarrollo en Wiki.js un nuevo editor que permita traducciones asistidas directamente en la web | GitHub | Desarrolladores
 Desarrollo en Wiki.js de un modo dual de visualización de *El Libro de Urantia* en dos idiomas | GitHub | Desarrolladores
 
+<figure id="Sample_fig_2" class="image urantiapedia">
+<img src="/image/sample_page_side_by_side.png">
+<figcaption><em> Ejemplo de visualización lado a lado de El Libro de Urantia.</em></figcaption>
+</figure>
 
 ## Fase IV - Mapas interactivos
 
@@ -109,8 +115,10 @@ Tareas | Dónde | Quién
 Desarrollo en *Wiki.js* un editor de mapas interactivos, su formato y su renderizador | GitHub | Desarrolladores
 Adición de una colección de mapas interactivos de ejemplo sobre migraciones de razas, hechos históricos y viajes de Jesús de Nazaret | GitHub | Editores Jefe
 
-![](../image/sample_page_map.png)
-*Pantalla que simula el aspecto que tendrá el visor de mapas*
+<figure id="Sample_fig_3" class="image urantiapedia">
+<img src="/image/sample_page_map.png">
+<figcaption><em> Ejemplo de visualización de un mapa interactivo.</em></figcaption>
+</figure>
 
 ## Fase V - Presentaciones
 
@@ -135,6 +143,10 @@ Apertura de los mapas para su edición y adición manual por los editores | web 
 Desarrollo en *Wiki.js* de un editor de presentaciones, su formato y su renderizador | GitHub | Desarrolladores
 Adición de una colección de presentaciones usando disponibles en algunos sitios web de asociaciones | GitHub | Editores Jefe
 
+<figure id="Sample_fig_4" class="image urantiapedia">
+<img src="/image/sample_page_slides.png">
+<figcaption><em> Ejemplo de visualización de una presentación.</em></figcaption>
+</figure>
 
 ## Fase VI - Modelos 3D interactivos
 
@@ -161,13 +173,18 @@ Apertura de las presentaciones para su edición y adición por los editores | we
 Desarrollo en *Wiki.js* un editor de modelos 3D interactivos, su formato y su renderizador | GitHub | developers
 Adición de una colección de modelos 3D, como la Isla del Paraíso, las esferas arquitectónicas, o el Jardín del Eden | GitHub | Editores Jefe
 
-![](../image/sample_page_3d.png)
-*Una pantalla que simula el aspecto que tendría el visor 3D*
+<figure id="Sample_fig_5" class="image urantiapedia">
+<img src="/image/sample_page_3d.png">
+<figcaption><em> Ejemplo de visualización de un modelo 3D.</em></figcaption>
+</figure>
+
 ## Futuro
 
 A partir de aquí se podrán evaluar otras posibles adiciones futuras al proyecto. Algunas ideas de cara al futuro que podrían albergarse en la *Urantiapedia*:
 * Servir de lugar centralizador para los esfuerzos de traducción del libro a otros idiomas.
 * Servir de portal donde ofrecer cursos de formación online sobre diferentes temáticas relacionadas con *El Libro de Urantia*.
+
+<br>
 
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">

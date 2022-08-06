@@ -101,7 +101,7 @@ Las traducciones de *El libro de Urantia* no han seguido una estrategia de «pri
 
 Pero esta estrategia necesita ser actualizada. Dos tercios de los habitantes del mundo no pueden leer *El libro de Urantia* en su idioma nativo. La principal población del mundo que se está beneficiando de *El libro de Urantia* se encuentra principalmente en los países desarrollados occidentales. ¿No perpetúa esto el mismo error que cometieron los primeros apóstoles cuando difundieron el evangelio en Roma y no en China?
 
-... es lamentable que no hubiera nadie como Pedro que fuera a **China**, o como Pablo que viajara a la **India** ... [LU 130:2.3](/es/The_Urantia_Book/130#p2_3)
+> ... es lamentable que no hubiera nadie como Pedro que fuera a **China**, o como Pablo que viajara a la **India** ... [LU 130:2.3](/es/The_Urantia_Book/130#p2_3)
 
 <figure id="Principles_fig_2" class="image urantiapedia">
 <img src="/image/UB_secondary_works_potential_readers_by_native_speakers.png">
@@ -170,6 +170,8 @@ Hay varios sitios web que se centran únicamente en la parte IV de *El libro de 
 > ... La verdad viviente sólo enseña bien al buscador de la verdad cuando es abrazada en su **totalidad** ... [LU 195:5.2](/es/The_Urantia_Book/195#p5_2)
 
 El objetivo de *Urantiapedia* es ayudar en la comprensión de todo el contenido de *El Libro de Urantia* y ayudar en la creación de un almacén único para vincular y recopilar todo el conocimiento disponible. Esto es importante especialmente para la difusión de las revelaciones en los países orientales, en los que Cristo y Jesús no son conceptos habituales para acercarse a la religión y la divinidad.
+
+<br>
 
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">

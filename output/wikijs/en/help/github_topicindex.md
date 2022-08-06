@@ -270,6 +270,8 @@ Also a useful functionality is that the short line selected, that says `civiliza
 
 ![](/image/uptools_topic_editor_3.png)
 
+<br>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>

@@ -121,6 +121,8 @@ output
 
 All the folders indicated above for `output` folder is created using *Urantiapedia Tools*, that expect some folders to exist in `output` folder.
 
+<br>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>

@@ -127,6 +127,8 @@ Como *Urantiapedia* es el esfuerzo de un equipo de colaboradores, es común que 
 5. En el panel "Source control", ve al subpanel "Remotes". Debes tener un repositorio remoto listado allí llamado `JanHerca/urantiapedia`. Haz click en el botón "Fetch" al lado del nombre. Esta acción recupera y envía cambios al mismo tiempo para sincronizar el repositorio local.
 6. A veces, los cambios en el código de las "Urantiapedia Tools" implican cambios en las dependencias. Debes instalar o actualizar nuevas dependencias ejecutando el comando `npm install` desde una terminal en VS Code. Esto actualizará las dependencias del proyecto.
 
+<br>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>

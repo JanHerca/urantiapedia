@@ -32,6 +32,8 @@ To commit content follow these steps:
 - Do a pull request.
 - *Admin* users of GitHub project will merge changes. Once changes are merged, they will be available in the next hours in *Urantiapedia* web page depending on current performance in servers to execute upload jobs.
 
+<br>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>

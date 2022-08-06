@@ -124,6 +124,8 @@ Los «Editores Jefe» y los «Editores Asistente» realizarán las tareas 1 a 3.
 
 ![](/image/formats.png)
 
+<br>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>

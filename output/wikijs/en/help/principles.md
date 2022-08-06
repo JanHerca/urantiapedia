@@ -170,6 +170,8 @@ There are a number of websites that focuses only in part IV of *The Urantia Book
 
 *Urantiapedia* goal is to help in the understanding of all the content in *The Urantia Book*, and to help in the creation of a single store for linking and gathering all the available knowledge. This is important specially for spreading the revelations in Eastern countries, in which Christ and Jesus are not usual concepts to approach religion and divinity.
 
+<br>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>

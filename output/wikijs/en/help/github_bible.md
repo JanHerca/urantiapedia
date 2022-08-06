@@ -177,6 +177,8 @@ Num. | Abr. | English title
 076 | 1 Enoch | Book of Enoch
 077 | As. Mos. | Assumption of Moses
 
+<br>
+
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>

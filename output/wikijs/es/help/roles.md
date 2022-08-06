@@ -72,6 +72,7 @@ Los *Desarrolladores* tienen una cuenta en [GitHub](https://github.com/) y desar
 * Será necesario un buen conocimiento del *Libro de Urantia* en al menos un idioma, pero mejor si es inglés y un segundo idioma al que se traduce el libro.
 * No serán necesarios conocimientos informáticos especiales ya que el trabajo principal se realiza a través de la web.
 
+<br>
 
 <figure class="table">
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
