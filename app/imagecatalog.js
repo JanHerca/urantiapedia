@@ -161,8 +161,12 @@ class ImageCatalog {
 							`${captions.join(', ')}\r\n` +
 						`</figcaption>\r\n`;
 				}
-				const cls = 'image urantiapedia' + (i.float === 'R' ? 
-					' image-style-align-right' : '');
+				let cls = 'image urantiapedia';
+				if (i.float === 'R') {
+					cls += ' image-style-align-right';
+				} else if (i.float === 'L') {
+					cls += ' image-style-align-left';
+				}
 
 				img = 
 					`<figure id="Figure_${id}" class="${cls}">\r\n` + 

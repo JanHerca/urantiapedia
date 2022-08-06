@@ -96,7 +96,7 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Jesus Leaves the Praetorium                                                     | Jesús sale del pretorio                                                               |
 | Jesus Led from Caiaphas to Pilate                                               | Jesús conducido de Caifás a Pilato                                                    |
 | Jesus Led from Herod to Pilate                                                  | Jesús conducido de Herodes a Pilato                                                   |
-| Jesus Mary Magdalene and Martha at Bethany                                      | Jesús, María Magdalena y Marta en Betania                                              |
+| Jesus Mary Magdalene and Martha at Bethany                                      | Jesús, María Magdalena y Marta en Betania                                             |
 | Jesus Meets His Mother                                                          | Jesús se encuentra con su Madre                                                       |
 | Jesus Ministered to by Angels                                                   | Jesús atendido por ángeles                                                            |
 | Jesus Preaches in a Ship                                                        | Jesús predica en un barco                                                             |
@@ -211,6 +211,7 @@ Main tables are in /input/markdown/en/image_catalog.md
 | The Axe in the Trunk of the Tree                                                | El hacha en el tronco del árbol                                                       |
 | The Bad Rich Man in Hell                                                        | El Rico Malo en el Infierno                                                           |
 | The Baptism of Jesus                                                            | El Bautismo de Jesús                                                                  |
+| The Baptism of Christ                                                           | El Bautismo de Cristo                                                                 |
 | The Betrothal of the Holy Virgin and Saint Joseph                               | Los Desposorios de la Santísima Virgen y San José                                     |
 | The Betrothed of Cana                                                           | Los Desposados ​​de Caná                                                                |
 | The Birth of Our Lord Jesus Christ                                              | El Nacimiento de Nuestro Señor Jesucristo                                             |
@@ -237,7 +238,7 @@ Main tables are in /input/markdown/en/image_catalog.md
 | The Confession of Saint Longinus                                                | La confesión de san Longino                                                           |
 | The Confession of the Centurion                                                 | La confesión del centurión                                                            |
 | The Corner Stone                                                                | La Piedra Angular                                                                     |
-| The Crowning of Thorns                                                          | La Coronación de Espinas                                                      |
+| The Crowning of Thorns                                                          | La Coronación de Espinas                                                              |
 | The Crucifixion                                                                 | La Crucifixión                                                                        |
 | The Daughter of Herodias Dancing                                                | La hija de Herodías Bailando                                                          |
 | The Daughter of Jairus                                                          | La hija de Jairo                                                                      |
