@@ -428,6 +428,12 @@ const handle_exeButtonClick = () => {
 			.then(() => book.writeToLaTeX(latexDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
+	} else if (process === 'BOOK_JSON_TO_TXT') {
+		// Read UB (*.json) => write (*.txt)
+		book.readFromJSON(jsonDir)
+			.then(() => book.writeToTXT(txtDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TOPICS_TXT_TO_MEDIAWIKI') {
 		// Read UB (*.json) + Topic Index (*.txt) => write (*.wiki)
 		book.readFromJSON(jsonDir)

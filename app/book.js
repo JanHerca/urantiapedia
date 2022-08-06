@@ -753,6 +753,85 @@ class Book {
 	};
 
 	//***********************************************************************
+	// TXT 
+	//***********************************************************************
+
+	/**
+	 * Writes `The Urantia Book` in TXT format. This format removes any
+	 * formatting tag leaving the text as simple as possible for use it
+	 * in audio conversion.
+	 * @param {string} dirPath Folder path.
+	 * @returns {Promise} Promise that returns null in resolve function or an 
+	 * array of errors in reject function.
+	 */
+	writeToTXT = (dirPath) => {
+		return this.writeTo(dirPath, 'txt');
+	};
+
+	/**
+	 * Writes a paper of `The Urantia Book` in TXT format. This format removes 
+	 * any formatting tag leaving the text as simple as possible for use it
+	 * in audio conversion.
+	 * @param {string} filePath File path.
+	 * @param {Object} paper Paper object.
+	 * @returns {Promise} Promise that returns null in resolve function or an 
+	 * error in reject function.
+	 */
+	writeFileToTXT = (filePath, paper) => {
+		return new Promise((resolve, reject) => {
+			let txt = '', error;
+
+			if (!Array.isArray(paper.sections)) {
+				error = 'book_no_sections';
+			} else if (paper.sections.find(s => s.section_ref == null)) {
+				error = 'book_section_no_reference';
+			} else if (paper.sections.find(s => !Array.isArray(s.pars))) {
+				error = 'book_section_no_pars';
+			} else if (!paper.paper_title) {
+				error = 'book_paper_no_title';
+			}
+
+			if (error) {
+				reject(this.getError(error, filePath));
+				return;
+			}
+
+			txt += `${paper.paper_title}\r\n\r\n`;
+
+			paper.sections.forEach((section, i) => {
+				if (section.section_title) {
+					txt += `${section.section_title}\r\n\r\n`;
+				}
+				section.pars.forEach((par, j) => {
+					let pcontent, end;
+					if (!par.par_ref || !par.par_content || !par.par_pageref) {
+						error = 'book_par_no_refcontent';
+						return;
+					}
+					pcontent = par.par_content
+						.replace(/\*/g,'')
+						.replace(/{\d+}/g,'');
+					end = (j === section.pars.length - 1 ? '\r\n\r\n' : '\r\n');
+					txt += `${pcontent}${end}`;
+				});
+			});
+
+			if (error) {
+				reject(this.getError(error, filePath));
+				return;
+			}
+
+			fs.writeFile(filePath, txt, 'utf-8', (err) => {
+				if (err) {
+					reject(err);
+					return;
+				}
+				resolve(null);
+			});
+		});
+	};
+
+	//***********************************************************************
 	// JSON
 	//***********************************************************************
 
@@ -2525,7 +2604,8 @@ class Book {
 	 * Writes `The Urantia Book` in the giving format, each paper in a file.
 	 * Requires previously to read the book in any format.
 	 * @param {string} dirPath Folder path.
-	 * @param {string} format Output format: `json`, `tex`, `wiki`, `html`.
+	 * @param {string} format Output format: `json`, `tex`, `wiki`, `html`,
+	 * `txt`.
 	 * @param {?TopicIndex} topicIndex An optional Topic Index.
 	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
 	 * previous param is english then this is not required. If it is not english
@@ -2562,6 +2642,10 @@ class Book {
 						filePath = path.join(dirPath, `${i}.${format}`);
 						p = this.writeFileToWikijs(filePath, paper, topicIndex,
 							topicIndexEN, imageCatalog);
+					} else if (format === 'txt') {
+						filePath = path.join(dirPath, 
+							`UB_${stri}${i == 0 ? '_1' : ''}.${format}`);
+						p = this.writeFileToTXT(filePath, paper);
 					} else {
 						p = Promise.resolve(null);
 					}

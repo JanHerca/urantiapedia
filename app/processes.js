@@ -90,6 +90,15 @@ const Processes = {
 		controls: ['dirJTextbox', 'dirLTextbox'],
 		paths: [['input', 'json', 'book-{0}-footnotes'], ['input', 'tex', 'book-{0}']]
 	},
+	"BOOK_JSON_TO_TXT": {
+		active: true,
+		desc: {
+			en: "Convert Urantia Book (JSON) to TXT",
+			es: "Convertir Libro de Urantia (JSON) a TXT"
+		},
+		controls: ['dirJTextbox', 'dirTTextbox'],
+		paths: [['input', 'json', 'book-{0}-footnotes'], ['audio', 'book-{0}']]
+	},
 	"BOOK_JSON_TOPICS_TXT_TO_MEDIAWIKI": {
 		active: false,
 		desc: {
