@@ -36,6 +36,14 @@ Los ficheros de salida tienen formato HTML. Se generarán 197 archivos, uno por 
 
 Los ficheros de salida ya tienen el formato que permite subirlos directamente a la *Urantiapedia* mediante [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Ver [Subir contenido de forma masiva a Urantiapedia](/es/help/github_upload).
 
+## Enlaces externos
+
+- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
+- [Fundación Urantia](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+
 <br>
 
 <figure class="table">
@@ -49,11 +57,3 @@ Los ficheros de salida ya tienen el formato que permite subirlos directamente a 
     </tbody>
   </table>
 </figure>
-
-## Enlaces externos
-
-- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
-- [Fundación Urantia](https://www.urantia.org/)
-- [Blue Fields](https://blue-fields.netlify.app/)
-- [Wiki.js](https://js.wiki/)

@@ -35,6 +35,14 @@ To add footnotes to JSON files, follow these steps:
 
 The output files are different from the input files to avoid that if there is any problem they are unusable. The output is saved in `input / json / book-xx-footnotes` folders, where `xx` is the language code equal to the one used as the input folder.
 
+## External links
+
+- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
+- [Urantia Foundation](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+
 <br>
 
 <figure class="table">
@@ -48,11 +56,3 @@ The output files are different from the input files to avoid that if there is an
     </tbody>
   </table>
 </figure>
-
-## External links
-
-- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
-- [Urantia Foundation](https://www.urantia.org/)
-- [Blue Fields](https://blue-fields.netlify.app/)
-- [Wiki.js](https://js.wiki/)

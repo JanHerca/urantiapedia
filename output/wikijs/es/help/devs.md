@@ -57,6 +57,14 @@ Ver https://docs.requarks.io/install.
 
 Ver https://docs.requarks.io/install/upgrade.
 
+## Enlaces externos
+
+- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
+- [Fundación Urantia](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+
 <br>
 
 <figure class="table">
@@ -70,11 +78,3 @@ Ver https://docs.requarks.io/install/upgrade.
     </tbody>
   </table>
 </figure>
-
-## Enlaces externos
-
-- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
-- [Fundación Urantia](https://www.urantia.org/)
-- [Blue Fields](https://blue-fields.netlify.app/)
-- [Wiki.js](https://js.wiki/)

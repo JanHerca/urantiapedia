@@ -85,6 +85,14 @@ Once we have the input in the correct folders, for each language, the steps to t
 
 ![](/image/formats.png)
 
+## External links
+
+- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
+- [Urantia Foundation](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+
 <br>
 
 <figure class="table">
@@ -98,12 +106,4 @@ Once we have the input in the correct folders, for each language, the steps to t
     </tbody>
   </table>
 </figure>
-
-## External links
-
-- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
-- [Urantia Foundation](https://www.urantia.org/)
-- [Blue Fields](https://blue-fields.netlify.app/)
-- [Wiki.js](https://js.wiki/)
 

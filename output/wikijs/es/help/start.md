@@ -97,6 +97,14 @@ Los distintos roles de los colaboradores de la *Urantiapedia* son:
 
 Para saber más acerca de los perfiles que estamos buscando para colaborar consulta [Perfiles de colaboradores](/es/help/roles).
 
+## Enlaces externos
+
+- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
+- [Fundación Urantia](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+
 <br>
 
 <figure class="table">
@@ -110,12 +118,4 @@ Para saber más acerca de los perfiles que estamos buscando para colaborar consu
     </tbody>
   </table>
 </figure>
-
-## Enlaces externos
-
-- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
-- [Fundación Urantia](https://www.urantia.org/)
-- [Blue Fields](https://blue-fields.netlify.app/)
-- [Wiki.js](https://js.wiki/)
 

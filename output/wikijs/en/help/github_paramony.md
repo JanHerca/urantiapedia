@@ -75,6 +75,14 @@ Example of a snippet:
 
 > Care must be taken to properly copy the quotation marks that may exist in the texts. Check here the valid quotes for each language: [Quotation marks](/en/help/languages).
 
+## External links
+
+- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
+- [Urantia Foundation](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+
 <br>
 
 <figure class="table">
@@ -88,11 +96,3 @@ Example of a snippet:
     </tbody>
   </table>
 </figure>
-
-## External links
-
-- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
-- [Urantia Foundation](https://www.urantia.org/)
-- [Blue Fields](https://blue-fields.netlify.app/)
-- [Wiki.js](https://js.wiki/)

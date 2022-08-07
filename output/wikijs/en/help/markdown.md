@@ -20,7 +20,7 @@ dateCreated: 2022-04-05T10:55:15.557Z
   </table>
 </figure>
 
-This is a comprehensive list of Markdown markup that is supported in Urantiapedia. For each example is provided the markup and the result. Give a look at all the available options before using Markdown format in any page.
+This is a comprehensive list of Markdown markup that is supported in *Urantiapedia*. For each example is provided the markup and the result. Give a look at all the available options before using Markdown format in any page.
 
 ---
 
@@ -43,6 +43,7 @@ This is a comprehensive list of Markdown markup that is supported in Urantiapedi
 <div style="padding-bottom:5px;color: #616161; font-weight: bold;background:linear-gradient(90deg,#616161,rgba(25,118,210,0)) left bottom #fff0 no-repeat;;background-size:100% 1px;">h5 Heading</div>
 <div style="padding-bottom:5px;color: #616161; font-weight: bold;background:linear-gradient(90deg,#616161,rgba(25,118,210,0)) left bottom #fff0 no-repeat;;background-size:100% 1px;">h6 Heading</div>
 
+For a list of supported emojis see below.
 
 ## Horizontal Rules
 
@@ -343,7 +344,8 @@ The killer feature of `markdown-it` is very effective support of [syntax plugins
 >
 > Shortcuts (emoticons): :-) :-( 8-) ;)
 
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
+See supported emojis at [Emoji Cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+See [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
 
 
 ### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
@@ -689,9 +691,7 @@ Earth mass = $M^\odot$
 **Result**
 Earth mass = $M^\odot$
 
-See [Mathjax](https://www.mathjax.org/)
-See [Mathjax documentation](http://docs.mathjax.org/en/latest/index.html)
-See [LaTeX Math expressions](https://www.overleaf.com/learn/latex/Mathematical_expressions)
+See external links for more on Math use in Markdown.
 
 ## Maps
 
@@ -701,6 +701,24 @@ See [LaTeX Math expressions](https://www.overleaf.com/learn/latex/Mathematical_e
 ```
 **Result**
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
+
+## External links
+
+- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
+- [Urantia Foundation](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+- [MultiMarkdown User's Guide](https://fletcher.github.io/MultiMarkdown-6/)
+- [Markdown Specification](https://commonmark.org/)
+- [Markdown Help](https://commonmark.org/help/)
+- [Markdown Extended Syntax](https://www.markdownguide.org/extended-syntax/)
+- [Markdown Wiki.js Help](https://docs.requarks.io/en/editors/markdown)
+- [Emoji Cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+- [Change emoji output](https://github.com/markdown-it/markdown-it-emoji#change-output)
+- [Mathjax](https://www.mathjax.org/)
+- [Mathjax documentation](http://docs.mathjax.org/en/latest/index.html)
+- [LaTeX Math expressions](https://www.overleaf.com/learn/latex/Mathematical_expressions)
 
 <br>
 

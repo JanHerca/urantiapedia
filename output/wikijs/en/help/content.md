@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/content">Principles ruling Urantiapedia</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/principles">Principles ruling Urantiapedia</a></td>
         <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Index</a></td>
         <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/phases">Project Milestones</a></td>
       </tr>
@@ -194,6 +194,11 @@ Be aware that the purpose of *Urantipedia* is allow a multi-language content for
 
 This type of content includes also schemas or drawings with schematics. The are a number of technologies that allow easy creation of diagrams and charts that are currently supported in *Urantiapedia*: [Kroki](https://kroki.io/), [Mermaid](http://mermaid-js.github.io/mermaid/#/) and [PlantUML](https://plantuml.com/). If previous diagram generators are not enough for *The Urantia Book* purposes (because they are mainly for software development) it is possible to use any content in [SVG format](https://developer.mozilla.org/en-US/docs/Web/SVG), that is the best recommended format to create diagrams, schemas or charts.
 
+<figure id="Sample_fig_1" class="image urantiapedia">
+<img src="/image/sample_page_article.png">
+<figcaption><em> Sample of rendering an article.</em></figcaption>
+</figure>
+
 ## Topics
 
 These are a type of article related to a specific topic of *The Urantia Book*. For example, a concept like *absonity*, or a person like *Grandfanda*, or a type of being like *Thought Adjusters*, or a place like *Nazareth* or *Orvonton*, an event like *the arrival of Adam and Eve*, and so on.
@@ -235,6 +240,7 @@ Images for all the webpage:
 * Schemes. Infographics or graphics that explain and clarify topics in the book.
 * Photos. Royalty-free images used anywhere on the *Urantiapedia*.
 * Animations. Animated images that clarify concepts that involve an animated visualization.
+* Maps. Static maps, although they can contain links if they are in `svg` format or if they use [HTML image maps](https://www.w3schools.com/html/html_images_imagemap.asp).
 
 The URL pattern for images is: `https://urantiapedia.org/en/image/[image_name].jpg`. The names of images must always be in English as explained above. If the images do not need to be localized to any language, they can be left in the default English path, so the URL pattern for them would be: `https://urantiapedia.org/image/[image_name].jpg `, which is more compact.
 
@@ -265,8 +271,10 @@ And two ways to open this map centered on Ramah would be:
 
 The names of the maps in URL have already been explained that it is needed to be in English.
 
-![](../image/sample_page_map.png)
-*Example of page with a map*
+<figure id="Sample_fig_3" class="image urantiapedia">
+<img src="/image/sample_page_map.png">
+<figcaption><em> Sample of rendering an interactive map.</em></figcaption>
+</figure>
 
 
 ## Slides
@@ -279,6 +287,11 @@ The URL pattern for slides is:
 
 The URLs will have a parameter to open on a given slide.
 
+<figure id="Sample_fig_4" class="image urantiapedia">
+<img src="/image/sample_page_slides.png">
+<figcaption><em> Sample of rendering a presentation.</em></figcaption>
+</figure>
+
 
 ## 3D Models
 
@@ -290,7 +303,10 @@ The URL pattern for 3D models is:
 
 Like maps, 3D models will support centering on an item using a name, such as: `https://urantiapedia.org/en/3dmodel/Jerusem?name=Mansonia_7`
 
-
+<figure id="Sample_fig_5" class="image urantiapedia">
+<img src="/image/sample_page_3d.png">
+<figcaption><em> Sample of rendering a 3D model.</em></figcaption>
+</figure>
 
 ## URLs
 
@@ -343,19 +359,6 @@ Examples of URLs:
 
 It is a good idea to mantain these conventions so URL have a consistent way of being constructed and this way are easier to remember.
 
-<br>
-
-<figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
-    <tbody>
-      <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/content">Principles ruling Urantiapedia</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Index</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/languages">Project Milestones</a></td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 ## External links
 
@@ -364,3 +367,17 @@ It is a good idea to mantain these conventions so URL have a consistent way of b
 - [Urantia Foundation](https://www.urantia.org/)
 - [Blue Fields](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)
+
+<br>
+
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/principles">Principles ruling Urantiapedia</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Index</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/phases">Project Milestones</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

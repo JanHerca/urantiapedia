@@ -32,6 +32,14 @@ Para subir contenido sigue estos pasos:
 - Haz un pull request.
 - Los usuarios *admin* del proyecto en GitHub realizarán un *merge* de los cambios. Una vez esos cambios hayan sido *mergeados* estarán disponibles en la página web de la *Urantiapedia* en las horas siguientes dependiendo del rendimiento actual de los servidores para ejecutar tareas de subida.
 
+## Enlaces externos
+
+- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
+- [Fundación Urantia](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+
 <br>
 
 <figure class="table">
@@ -45,11 +53,3 @@ Para subir contenido sigue estos pasos:
     </tbody>
   </table>
 </figure>
-
-## Enlaces externos
-
-- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
-- [Fundación Urantia](https://www.urantia.org/)
-- [Blue Fields](https://blue-fields.netlify.app/)
-- [Wiki.js](https://js.wiki/)

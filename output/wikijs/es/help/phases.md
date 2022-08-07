@@ -184,6 +184,14 @@ A partir de aquí se podrán evaluar otras posibles adiciones futuras al proyect
 * Servir de lugar centralizador para los esfuerzos de traducción del libro a otros idiomas.
 * Servir de portal donde ofrecer cursos de formación online sobre diferentes temáticas relacionadas con *El Libro de Urantia*.
 
+## Enlaces externos
+
+- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
+- [Fundación Urantia](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+
 <br>
 
 <figure class="table">
@@ -197,13 +205,5 @@ A partir de aquí se podrán evaluar otras posibles adiciones futuras al proyect
     </tbody>
   </table>
 </figure>
-
-## Enlaces externos
-
-- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
-- [Fundación Urantia](https://www.urantia.org/)
-- [Blue Fields](https://blue-fields.netlify.app/)
-- [Wiki.js](https://js.wiki/)
 
 

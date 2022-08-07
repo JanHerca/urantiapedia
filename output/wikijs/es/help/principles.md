@@ -171,6 +171,18 @@ Hay varios sitios web que se centran únicamente en la parte IV de *El libro de 
 
 El objetivo de *Urantiapedia* es ayudar en la comprensión de todo el contenido de *El Libro de Urantia* y ayudar en la creación de un almacén único para vincular y recopilar todo el conocimiento disponible. Esto es importante especialmente para la difusión de las revelaciones en los países orientales, en los que Cristo y Jesús no son conceptos habituales para acercarse a la religión y la divinidad.
 
+## Enlaces externos
+
+- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
+- [Fundación Urantia](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+- [GitHub](https://github.com/)
+- [Trello](https://trello.com/)
+- [Lista de idiomas por número de hablantes nativos](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers)
+- [Noticias de la Fundación Urantia](https://www.urantia.org/news)
+
 <br>
 
 <figure class="table">
@@ -184,11 +196,3 @@ El objetivo de *Urantiapedia* es ayudar en la comprensión de todo el contenido 
     </tbody>
   </table>
 </figure>
-
-## Enlaces externos
-
-- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
-- [Fundación Urantia](https://www.urantia.org/)
-- [Blue Fields](https://blue-fields.netlify.app/)
-- [Wiki.js](https://js.wiki/)

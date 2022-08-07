@@ -32,6 +32,14 @@ To commit content follow these steps:
 - Do a pull request.
 - *Admin* users of GitHub project will merge changes. Once changes are merged, they will be available in the next hours in *Urantiapedia* web page depending on current performance in servers to execute upload jobs.
 
+## External links
+
+- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
+- [Urantia Foundation](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+
 <br>
 
 <figure class="table">
@@ -45,11 +53,3 @@ To commit content follow these steps:
     </tbody>
   </table>
 </figure>
-
-## External links
-
-- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
-- [Urantia Foundation](https://www.urantia.org/)
-- [Blue Fields](https://blue-fields.netlify.app/)
-- [Wiki.js](https://js.wiki/)

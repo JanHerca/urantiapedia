@@ -72,6 +72,14 @@ Los *Desarrolladores* tienen una cuenta en [GitHub](https://github.com/) y desar
 * Será necesario un buen conocimiento del *Libro de Urantia* en al menos un idioma, pero mejor si es inglés y un segundo idioma al que se traduce el libro.
 * No serán necesarios conocimientos informáticos especiales ya que el trabajo principal se realiza a través de la web.
 
+## Enlaces externos
+
+- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
+- [Fundación Urantia](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+
 <br>
 
 <figure class="table">
@@ -85,11 +93,3 @@ Los *Desarrolladores* tienen una cuenta en [GitHub](https://github.com/) y desar
     </tbody>
   </table>
 </figure>
-
-## Enlaces externos
-
-- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
-- [Fundación Urantia](https://www.urantia.org/)
-- [Blue Fields](https://blue-fields.netlify.app/)
-- [Wiki.js](https://js.wiki/)

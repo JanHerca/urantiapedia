@@ -270,6 +270,14 @@ Also a useful functionality is that the short line selected, that says `civiliza
 
 ![](/image/uptools_topic_editor_3.png)
 
+## External links
+
+- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
+- [Urantia Foundation](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+
 <br>
 
 <figure class="table">
@@ -283,11 +291,3 @@ Also a useful functionality is that the short line selected, that says `civiliza
     </tbody>
   </table>
 </figure>
-
-## External links
-
-- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
-- [Urantia Foundation](https://www.urantia.org/)
-- [Blue Fields](https://blue-fields.netlify.app/)
-- [Wiki.js](https://js.wiki/)

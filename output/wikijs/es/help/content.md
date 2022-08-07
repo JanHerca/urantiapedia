@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:09:29.761Z
   <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/content">Principios que rigen Urantiapedia</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/principles">Principios que rigen Urantiapedia</a></td>
         <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
         <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/phases">Fases de la Urantiapedia</a></td>
       </tr>
@@ -194,6 +194,11 @@ Ten en cuenta que el propósito de la *Urantipedia* es permitir un contenido en 
 
 Este tipo de contenido incluye también esquemas o dibujos con esquemas. Hay una serie de tecnologías que permiten la creación sencilla de diagramas y gráficos que actualmente son compatibles con *Urantiapedia*: [Kroki](https://kroki.io/), [Mermaid](http://mermaid-js.github.io/mermaid/#/) y [PlantUML](https://plantuml.com/). Si los generadores de diagramas anteriores no son suficientes para los propósitos de *El libro de Urantia* (porque son principalmente para el desarrollo de software) es posible utilizar cualquier contenido en [formato SVG](https://developer.mozilla.org/es/docs/Web/SVG), que es el formato más recomendado para crear diagramas, esquemas o gráficos.
 
+<figure id="Sample_fig_1" class="image urantiapedia">
+<img src="/image/sample_page_article.png">
+<figcaption><em> Ejemplo de visualización de un artículo.</em></figcaption>
+</figure>
+
 ## Términos
 
 Estos son un tipo especial de artículos relativos a un tema concreto relacionado con *El Libro de Urantia*. Por ejemplo, un concepto como la *absonidad*, o una persona como *Grandfanda*, o un tipo de ser como los *Ajustadores del Pensamiento*, o un lugar como *Nazaret* u *Orvonton*, un evento como *la llegada de Adán y Eva*, etc.
@@ -235,6 +240,7 @@ Imágenes para todo el sitio web:
 * Esquemas. Infografías o gráficos que expliquen y aclaren temas del libro.
 * Fotos. Imágenes libres de derechos de autor usados en cualquier parte de la *Urantiapedia*.
 * Animaciones. Imágenes animadas que aclaren conceptos que impliquen una visualización animada.
+* Mapas. Mapas estáticos, aunque pueden contener enlaces si están en formato `svg` o si usan [mapas de imagen HTML](https://www.w3schools.com/html/html_images_imagemap.asp).
 
 El patrón para la URL de las imágenes es: `https://urantiapedia.org/en/image/[image_name].jpg`. Los nombres de las imágenes deben ser siempre en inglés como ya se ha explicado anteriormente. Si las imágenes no se necesita localizarlas a cada idioma, se pueden dejar en la ruta en inglés por defecto, de modo que el patrón de la URL para ellas sería: `https://urantiapedia.org/image/[image_name].jpg`, que es más compacto.
 
@@ -266,8 +272,10 @@ Y dos formas de abrir este mapa centrado en Ramá sería:
 
 Los nombres de los mapas ya se ha explicado que es necesario en la URL que estén en inglés.
 
-![](../image/sample_page_map.png)
-*Ejemplo de página con un mapa*
+<figure id="Sample_fig_3" class="image urantiapedia">
+<img src="/image/sample_page_map.png">
+<figcaption><em> Ejemplo de visualización de un mapa interactivo.</em></figcaption>
+</figure>
 
 ## Presentaciones
 
@@ -278,6 +286,11 @@ El patrón de la URL para presentaciones es:
 - para una presentación de autor, que sólo el autor o alguien autorizado puede modificar: `https://urantiapedia.org/en/slides/[user_name]/[slides_name]`
 
 Las URL dispondrán de un parámetro para abrise en una determinada diapositiva.
+
+<figure id="Sample_fig_4" class="image urantiapedia">
+<img src="/image/sample_page_slides.png">
+<figcaption><em> Ejemplo de visualización de una presentación.</em></figcaption>
+</figure>
 
 
 ## Modelos 3D
@@ -290,7 +303,10 @@ El patrón de la URL para modelos 3D es:
 
 Al igual que los mapas, los modelos 3D admitirán el centrado en un elemento usando un nombre, como: `https://urantiapedia.org/en/3dmodel/Jerusem?name=Mansonia_7`
 
-
+<figure id="Sample_fig_5" class="image urantiapedia">
+<img src="/image/sample_page_3d.png">
+<figcaption><em> Ejemplo de visualización de un modelo 3D.</em></figcaption>
+</figure>
 
 ## URLs
 
@@ -343,20 +359,6 @@ Ejemplos de URLs:
 
 Es una buena idea mantener estas convenciones de modo que las URL mantengan una consistencia en la forma de construirse y sea más fácil recordarlas.
 
-<br>
-
-<figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
-    <tbody>
-      <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/content">Principios que rigen Urantiapedia</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/languages">Fases de la Urantiapedia</a></td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
-
 ## Enlaces externos
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
@@ -364,3 +366,17 @@ Es una buena idea mantener estas convenciones de modo que las URL mantengan una 
 - [Fundación Urantia](https://www.urantia.org/)
 - [Blue Fields](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)
+
+<br>
+
+<figure class="table">
+  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/principles">Principios que rigen Urantiapedia</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
+        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/phases">Fases de la Urantiapedia</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

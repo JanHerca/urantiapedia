@@ -170,6 +170,18 @@ There are a number of websites that focuses only in part IV of *The Urantia Book
 
 *Urantiapedia* goal is to help in the understanding of all the content in *The Urantia Book*, and to help in the creation of a single store for linking and gathering all the available knowledge. This is important specially for spreading the revelations in Eastern countries, in which Christ and Jesus are not usual concepts to approach religion and divinity.
 
+## External links
+
+- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
+- [Urantia Foundation](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+- [GitHub](https://github.com/)
+- [Trello](https://trello.com/)
+- [List of languages by number of native speakers](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers)
+- [Urantia Foundation News](https://www.urantia.org/news)
+
 <br>
 
 <figure class="table">
@@ -183,12 +195,3 @@ There are a number of websites that focuses only in part IV of *The Urantia Book
     </tbody>
   </table>
 </figure>
-
-
-## External links
-
-- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
-- [Urantia Foundation](https://www.urantia.org/)
-- [Blue Fields](https://blue-fields.netlify.app/)
-- [Wiki.js](https://js.wiki/)

@@ -128,6 +128,15 @@ As *Urantiapedia* is the effort of a team of collaborators, it is common that at
 5. In "Source control" panel go to "Remotes" subpanel. You must have a remote repositiry listed there called `JanHerca/urantiapedia`. Click in the "Fetch" button next to the name. This action does a fetch and a push at the same time to sync the local repository.
 6. Sometimes changes in "Urantiapedia Tools" code imply changes to dependencies. You must install or update new dependencies executing the command `npm install` from a terminal in VS Code. This will update dependencies for the project.
 
+## External links
+
+- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
+- [Urantia Foundation](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
+
+
 <br>
 
 <figure class="table">
@@ -141,12 +150,3 @@ As *Urantiapedia* is the effort of a team of collaborators, it is common that at
     </tbody>
   </table>
 </figure>
-
-## External links
-
-- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
-- [Urantia Foundation](https://www.urantia.org/)
-- [Blue Fields](https://blue-fields.netlify.app/)
-- [Wiki.js](https://js.wiki/)
-
