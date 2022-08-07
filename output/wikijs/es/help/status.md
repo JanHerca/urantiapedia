@@ -196,7 +196,7 @@ Aquí puedes encontrar una lista de tareas que actualmente no están activas. Si
   - Producir la primera versión para `en` y `es`. Esta es una tarea pesada que ha sido dividida por letras del alfabeto. Las letras `A` a `G` ya están terminadas y quedan las letras `H` a `Z`.
     - Traducción automática del índice de Términos: no se recomienda iniciar estas tareas hasta que se complete la anterior porque algún proceso automático ayudará aquí.
       - Revisión de la traducción anterior: como se indicó anteriormente, no se recomienda comenzar esta tarea hasta que se produzca la primera versión para `en` y `es`.
-- Libros :libros: :
+- Libros :books: :
   - Obtener libros extrabíblicos de dominio público: todos los idiomas.
   - Obtener libros que se suponen fuentes (descargándolos de la Web o escaneando): los libros suelen estar en `en`.
     - Traducción automática de los libros anteriores: todos los idiomas excepto `en`.
@@ -204,7 +204,7 @@ Aquí puedes encontrar una lista de tareas que actualmente no están activas. Si
 - Artículos :page_with_curl: :
   - Traducción automática de artículos: todos los idiomas excepto `en`.
     - Revisión de la traducción anterior: todos los idiomas excepto `en`.
-- Ayudas para el estudio :cuaderno: :
+- Ayudas para el estudio :notebook: :
   - Planificar una lista de ayudas de estudio a incluir.
 - Esquemas :memo: :
   - Planificar una lista de esquemas a incluir.
@@ -214,7 +214,7 @@ Aquí puedes encontrar una lista de tareas que actualmente no están activas. Si
   - Crear una geodatabase y proyectos QGIS para la generación automática de mapas en SVG, mapas de imágenes HTML (mapas estáticos), y KML (mapas interactivos).
     - Traducción automática de los textos en mapas: todos los idiomas.
       - Revisión de las traducciones anteriores: todos los idiomas.
-- Audio :sonido: :
+- Audio :sound: :
   - Probar soluciones de texto a voz más adecuadas: todos los idiomas.
   - Generación del audio de El libro de Urantia: actualmente disponible en `en` y en proceso con `es`.
 - Imágenes :sunrise_over_mountains: :

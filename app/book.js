@@ -796,11 +796,11 @@ class Book {
 				return;
 			}
 
-			txt += `${paper.paper_title}\r\n\r\n`;
+			txt += `${paper.paper_title}\r\n{{Pause=2000}}\r\n`;
 
 			paper.sections.forEach((section, i) => {
 				if (section.section_title) {
-					txt += `${section.section_title}\r\n\r\n`;
+					txt += `${section.section_title}\r\n{{Pause=2000}}\r\n`;
 				}
 				section.pars.forEach((par, j) => {
 					let pcontent, end;
@@ -811,7 +811,8 @@ class Book {
 					pcontent = par.par_content
 						.replace(/\*/g,'')
 						.replace(/{\d+}/g,'');
-					end = (j === section.pars.length - 1 ? '\r\n\r\n' : '\r\n');
+					end = (j === section.pars.length - 1 ? 
+						'\r\n{{Pause=2000}}\r\n' : '{{Pause=1000}}\r\n');
 					txt += `${pcontent}${end}`;
 				});
 			});
