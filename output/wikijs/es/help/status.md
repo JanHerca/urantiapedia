@@ -33,36 +33,41 @@ Para cada idioma soportado la lista de tareas a realizar durante la fase I es es
 7. Conversión de _El Libro de Urantia_ de JSON con notas al pie del _Paramony_ a Wiki.js incluyendo referencias a los términos, y subida de cambios mediante [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) (`LU Wiki`).
 8. Conversión de _La Biblia_ de LaTeX a Wiki.js con notas al pie del _Parammony_, y subida de cambios mediante [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) (`Biblia Wiki`).
 
+Otras tareas adicionales en las que se debe trabajar son:
+
+- Probar soluciones de texto a voz. El objetivo es ofrecer lectura automatizada de todos los libros del sitio web, empezando por _El Libro de Urantia_. En inglés existe un audio libro oficial de la Fundación Urantia. Para otros idiomas se van a buscar soluciones automatizadas.
+- Crear un catálogo de imágenes para ilustrar _El libro de Urantia_, la _Biblia_ y el _Índice de Términos_. Actualmente está realizado con la parte IV del _Libro de Urantia_.
+
 Relación de tareas e idiomas a soportar, con indicación del progreso actual:
 
-| Idioma     | Código | Paramony           | Términos | Biblia             | LU                 | LU +<br>Paramony   | LU<br>Wiki | Biblia<br>Wiki |
-| ---------- | ------ | ------------------ | -------- | ------------------ | ------------------ | ------------------ | ---------- | -------------- |
-| Bulgarian  | `bg`   | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :clock2:   | :clock2:       |
-| Czech      | `cs`   | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |            | :clock2:       |
-| Danish     | `da`   | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |            | :clock2:       |
-| German     | `de`   | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |            | :clock2:       |
-| Greek      | `el`   | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |            | :clock2:       |
-| English    | `en`   | :heavy_check_mark: | :clock2: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :clock2:   | :clock2:       |
-| Spanish    | `es`   | :heavy_check_mark: | :clock2: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :clock2:   | :clock2:       |
-| Estonian   | `et`   | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: |            |                |
-| Farsi      | `fa`   | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |            | :clock2:       |
-| Finnish    | `fi`   | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: |            |                |
-| French     | `fr`   | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: |            |                |
-| Hebrew     | `he`   | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: |            |                |
-| Hungarian  | `hu`   | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: |            |                |
-| Indonesian | `id`   |                    |          |                    | :heavy_check_mark: |                    |            |                |
-| Italian    | `it`   | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |            | :clock2:       |
-| Japanese   | `ja`   |                    |          |                    | :heavy_check_mark: |                    |            |                |
-| Korean     | `ko`   |                    |          |                    | :heavy_check_mark: |                    |            |                |
-| Lithuanian | `lt`   |                    |          |                    | :heavy_check_mark: |                    |            |                |
-| Dutch      | `nl`   |                    |          | :heavy_check_mark: | :heavy_check_mark: |                    |            | :clock2:       |
-| Polish     | `pl`   |                    |          |                    | :heavy_check_mark: |                    |            |                |
-| Portuguese | `pt`   |                    |          |                    | :heavy_check_mark: |                    |            |                |
-| Romanian   | `ro`   | :clock2:           |          |                    | :heavy_check_mark: | :clock2:           |            |                |
-| Russian    | `ru`   |                    |          |                    | :heavy_check_mark: |                    |            |                |
-| Swedish    | `sv`   |                    |          |                    | :heavy_check_mark: |                    |            |                |
+| Idioma     | Código |      Paramony      | Términos |       Biblia       |         LU         |  LU +<br>Paramony  | LU<br>Wiki | Biblia<br>Wiki | LU Audio | LU Imágenes |
+| ---------- | :----: | :----------------: | :------: | :----------------: | :----------------: | :----------------: | :--------: | :------------: | :------: | :---------: |
+| Búlgaro    |  `bg`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  :clock2:  |    :clock2:    |          |   :clock:   |
+| Checo      |  `cs`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |            |    :clock2:    |          |   :clock:   |
+| Danés      |  `da`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |            |    :clock2:    |          |   :clock:   |
+| Alemán     |  `de`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |            |    :clock2:    |          |   :clock:   |
+| Griego     |  `el`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |            |    :clock2:    |          |   :clock:   |
+| Inglés     |  `en`  | :heavy_check_mark: | :clock2: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  :clock2:  |    :clock2:    | :clock2: |   :clock:   |
+| Español    |  `es`  | :heavy_check_mark: | :clock2: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  :clock2:  |    :clock2:    | :clock2: |   :clock:   |
+| Estonio    |  `et`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: |            |                |          |   :clock:   |
+| Persa      |  `fa`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |            |    :clock2:    |          |   :clock:   |
+| Finlandés  |  `fi`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: |            |                |          |   :clock:   |
+| Francés    |  `fr`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: |            |                |          |   :clock:   |
+| Hebreo     |  `he`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: |            |                |          |   :clock:   |
+| Húngaro    |  `hu`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: |            |                |          |   :clock:   |
+| Indonesio  |  `id`  |                    |          |                    | :heavy_check_mark: |                    |            |                |          |   :clock:   |
+| Italiano   |  `it`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |            |    :clock2:    |          |   :clock:   |
+| Japonés    |  `ja`  |                    |          |                    | :heavy_check_mark: |                    |            |                |          |   :clock:   |
+| Coreano    |  `ko`  |                    |          |                    | :heavy_check_mark: |                    |            |                |          |   :clock:   |
+| Lituano    |  `lt`  |                    |          |                    | :heavy_check_mark: |                    |            |                |          |   :clock:   |
+| Neerlandés |  `nl`  |                    |          | :heavy_check_mark: | :heavy_check_mark: |                    |            |    :clock2:    |          |   :clock:   |
+| Polaco     |  `pl`  |                    |          |                    | :heavy_check_mark: |                    |            |                |          |   :clock:   |
+| Portugués  |  `pt`  |                    |          |                    | :heavy_check_mark: |                    |            |                |          |   :clock:   |
+| Rumano     |  `ro`  |      :clock2:      |          |                    | :heavy_check_mark: |      :clock2:      |            |                |          |   :clock:   |
+| Ruso       |  `ru`  |                    |          |                    | :heavy_check_mark: |                    |            |                |          |   :clock:   |
+| Sueco      |  `sv`  |                    |          |                    | :heavy_check_mark: |                    |            |                |          |   :clock:   |
 
-## Fase II - Libros, artículos e índices
+## Fase II - Libros, artículos, ayudas de estudio, esquemas e índices
 
 Para cada idioma, el contenido esperado en esta fase es:
 
@@ -84,30 +89,30 @@ Para cada idioma, el contenido esperado en esta fase es:
 
 | Idioma     | Código | Extrabíblicos | Libros fuentes  |     Artículos     |
 | ---------- | :----: | :-----------: | :-------------: | :---------------: |
-| Bulgarian  |  `bg`  |               |                 |                   |
-| Czech      |  `cs`  |               |                 |                   |
-| Danish     |  `da`  |               |                 |                   |
-| German     |  `de`  |               |                 |                   |
-| Greek      |  `el`  |               |                 |                   |
-| English    |  `en`  |               | :clock2: 1 / 17 | :clock2: 50 / 927 |
-| Spanish    |  `es`  |               | :clock2: 1 / 17 | :clock2: 50 / 927 |
-| Estonian   |  `et`  |               |                 |                   |
-| Farsi      |  `fa`  |               |                 |                   |
-| Finnish    |  `fi`  |               |                 |                   |
-| French     |  `fr`  |               |                 |                   |
-| Hebrew     |  `he`  |               |                 |                   |
-| Hungarian  |  `hu`  |               |                 |                   |
-| Indonesian |  `id`  |               |                 |                   |
-| Italian    |  `it`  |               |                 |                   |
-| Japanese   |  `ja`  |               |                 |                   |
-| Korean     |  `ko`  |               |                 |                   |
-| Lithuanian |  `lt`  |               |                 |                   |
-| Dutch      |  `nl`  |               |                 |                   |
-| Polish     |  `pl`  |               |                 |                   |
-| Portuguese |  `pt`  |               |                 |                   |
-| Romanian   |  `ro`  |               |                 |                   |
-| Russian    |  `ru`  |               |                 |                   |
-| Swedish    |  `sv`  |               |                 |                   |
+| Búlgaro    |  `bg`  |               |                 |                   |
+| Checo      |  `cs`  |               |                 |                   |
+| Danés      |  `da`  |               |                 |                   |
+| Alemán     |  `de`  |               |                 |                   |
+| Griego     |  `el`  |               |                 |                   |
+| Inglés     |  `en`  |               | :clock2: 1 / 17 | :clock2: 50 / 927 |
+| Español    |  `es`  |               | :clock2: 1 / 17 | :clock2: 50 / 927 |
+| Estonio    |  `et`  |               |                 |                   |
+| Persa      |  `fa`  |               |                 |                   |
+| Finlandés  |  `fi`  |               |                 |                   |
+| Francés    |  `fr`  |               |                 |                   |
+| Hebreo     |  `he`  |               |                 |                   |
+| Húngaro    |  `hu`  |               |                 |                   |
+| Indonesio  |  `id`  |               |                 |                   |
+| Italiano   |  `it`  |               |                 |                   |
+| Japonés    |  `ja`  |               |                 |                   |
+| Coreano    |  `ko`  |               |                 |                   |
+| Lituano    |  `lt`  |               |                 |                   |
+| Neerlandés |  `nl`  |               |                 |                   |
+| Polaco     |  `pl`  |               |                 |                   |
+| Portugués  |  `pt`  |               |                 |                   |
+| Rumano     |  `ro`  |               |                 |                   |
+| Ruso       |  `ru`  |               |                 |                   |
+| Sueco      |  `sv`  |               |                 |                   |
 
 ## Fase III - Traductor
 
@@ -124,63 +129,72 @@ Para cada idioma, el contenido esperado en esta fase es:
 
 | Idioma     | Código | Mapas estáticos | Mapas interactivos |
 | ---------- | :----: | :-------------: | :----------------: |
-| Bulgarian  |  `bg`  |                 |                    |
-| Czech      |  `cs`  |                 |                    |
-| Danish     |  `da`  |                 |                    |
-| German     |  `de`  |                 |                    |
-| Greek      |  `el`  |                 |                    |
-| English    |  `en`  |                 |  :clock2: 1 / 20   |
-| Spanish    |  `es`  |                 |  :clock2: 1 / 20   |
-| Estonian   |  `et`  |                 |                    |
-| Farsi      |  `fa`  |                 |                    |
-| Finnish    |  `fi`  |                 |                    |
-| French     |  `fr`  |                 |                    |
-| Hebrew     |  `he`  |                 |                    |
-| Hungarian  |  `hu`  |                 |                    |
-| Indonesian |  `id`  |                 |                    |
-| Italian    |  `it`  |                 |                    |
-| Japanese   |  `ja`  |                 |                    |
-| Korean     |  `ko`  |                 |                    |
-| Lithuanian |  `lt`  |                 |                    |
-| Dutch      |  `nl`  |                 |                    |
-| Polish     |  `pl`  |                 |                    |
-| Portuguese |  `pt`  |                 |                    |
-| Romanian   |  `ro`  |                 |                    |
-| Russian    |  `ru`  |                 |                    |
-| Swedish    |  `sv`  |                 |                    |
+| Búlgaro    |  `bg`  |                 |                    |
+| Checo      |  `cs`  |                 |                    |
+| Danés      |  `da`  |                 |                    |
+| Alemán     |  `de`  |                 |                    |
+| Griego     |  `el`  |                 |                    |
+| Inglés     |  `en`  |                 |  :clock2: 1 / 20   |
+| Español    |  `es`  |                 |  :clock2: 1 / 20   |
+| Estonio    |  `et`  |                 |                    |
+| Persa      |  `fa`  |                 |                    |
+| Finlandés  |  `fi`  |                 |                    |
+| Francés    |  `fr`  |                 |                    |
+| Hebreo     |  `he`  |                 |                    |
+| Húngaro    |  `hu`  |                 |                    |
+| Indonesio  |  `id`  |                 |                    |
+| Italiano   |  `it`  |                 |                    |
+| Japonés    |  `ja`  |                 |                    |
+| Coreano    |  `ko`  |                 |                    |
+| Lituano    |  `lt`  |                 |                    |
+| Neerlandés |  `nl`  |                 |                    |
+| Polaco     |  `pl`  |                 |                    |
+| Portugués  |  `pt`  |                 |                    |
+| Rumano     |  `ro`  |                 |                    |
+| Ruso       |  `ru`  |                 |                    |
+| Sueco      |  `sv`  |                 |                    |
+
+## Fase V - Presentaciones
+
+Esta fase incluye algunos desarrollos que actualmente no están planificados. También se requiere planificar una lista de presentaciones a incluir.
+
+## Fase VI - Modelos 3D
+
+Esta fase incluye algunos desarrollos que actualmente no están planificados. También se requiere planificar una lista de modelos 3D a incluir.
 
 ## Resumen
 
 La siguiente tabla resume todos los avances con cada tipo de contenido:
 
-| Idioma     | Código | El libro de Urantia (1) | Términos |     Biblia (1)     | Extrabíblico | Libros Fuentes  |     Artículos     | Mapas estáticos | Mapas Interactivos |
-| ---------- | :----: | :---------------------: | :------: | :----------------: | :----------: | :-------------: | :---------------: | :-------------: | :----------------: |
-| Bulgarian  |  `bg`  |        :clock2:         |          |      :clock2:      |              |                 |                   |                 |                    |
-| Czech      |  `cs`  |        :clock2:         |          |      :clock2:      |              |                 |                   |                 |                    |
-| Danish     |  `da`  |        :clock2:         |          |      :clock2:      |              |                 |                   |                 |                    |
-| German     |  `de`  |        :clock2:         |          |      :clock2:      |              |                 |                   |                 |                    |
-| Greek      |  `el`  |        :clock2:         |          |      :clock2:      |              |                 |                   |                 |                    |
-| English    |  `en`  |   :heavy_check_mark:    | :clock2: | :heavy_check_mark: |              | :clock2: 1 / 17 | :clock2: 50 / 927 |                 |  :clock2: 1 / 20   |
-| Spanish    |  `es`  |   :heavy_check_mark:    | :clock2: | :heavy_check_mark: |              | :clock2: 1 / 17 | :clock2: 50 / 927 |                 |  :clock2: 1 / 20   |
-| Estonian   |  `et`  |        :clock2:         |          |                    |              |                 |                   |                 |                    |
-| Farsi      |  `fa`  |        :clock2:         |          |      :clock2:      |              |                 |                   |                 |                    |
-| Finnish    |  `fi`  |        :clock2:         |          |                    |              |                 |                   |                 |                    |
-| French     |  `fr`  |        :clock2:         |          |                    |              |                 |                   |                 |                    |
-| Hebrew     |  `he`  |        :clock2:         |          |                    |              |                 |                   |                 |                    |
-| Hungarian  |  `hu`  |        :clock2:         |          |                    |              |                 |                   |                 |                    |
-| Indonesian |  `id`  |                         |          |                    |              |                 |                   |                 |                    |
-| Italian    |  `it`  |        :clock2:         |          |      :clock2:      |              |                 |                   |                 |                    |
-| Japanese   |  `ja`  |                         |          |                    |              |                 |                   |                 |                    |
-| Korean     |  `ko`  |                         |          |                    |              |                 |                   |                 |                    |
-| Lithuanian |  `lt`  |                         |          |                    |              |                 |                   |                 |                    |
-| Dutch      |  `nl`  |                         |          |      :clock2:      |              |                 |                   |                 |                    |
-| Polish     |  `pl`  |                         |          |                    |              |                 |                   |                 |                    |
-| Portuguese |  `pt`  |                         |          |                    |              |                 |                   |                 |                    |
-| Romanian   |  `ro`  |        :clock2:         |          |                    |              |                 |                   |                 |                    |
-| Russian    |  `ru`  |                         |          |                    |              |                 |                   |                 |                    |
-| Swedish    |  `sv`  |                         |          |                    |              |                 |                   |                 |                    |
+| Idioma     | Código | Libro Urantia (1)  | LU Audio | LU Imágenes | Términos |     Biblia (1)     | Libros Extra - bíblicos | Libros Fuentes  |     Artículos     | Ayudas de estudio | Esquemas | Mapas estáticos | Mapas Interactivos | Presentaciones | Modelos 3D |
+| ---------- | :----: | :----------------: | :------: | :---------: | :------: | :----------------: | :---------------------: | :-------------: | :---------------: | :---------------: | :------: | :-------------: | :----------------: | :------------: | :--------: |
+| Búlgaro    |  `bg`  |      :clock2:      |          |   :clock:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
+| Checo      |  `cs`  |      :clock2:      |          |   :clock:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
+| Danés      |  `da`  |      :clock2:      |          |   :clock:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
+| Alemán     |  `de`  |      :clock2:      |          |   :clock:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
+| Griego     |  `el`  |      :clock2:      |          |   :clock:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
+| Inglés     |  `en`  | :heavy_check_mark: | :clock2: |   :clock:   | :clock2: | :heavy_check_mark: |                         | :clock2: 1 / 17 | :clock2: 50 / 927 |                   |          | :clock2: 1 / 20 |                    |                |            |
+| Español    |  `es`  | :heavy_check_mark: | :clock2: |   :clock:   | :clock2: | :heavy_check_mark: |                         | :clock2: 1 / 17 | :clock2: 50 / 927 |                   |          | :clock2: 1 / 20 |                    |                |            |
+| Estonio    |  `et`  |      :clock2:      |          |   :clock:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Persa      |  `fa`  |      :clock2:      |          |   :clock:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
+| Finlandés  |  `fi`  |      :clock2:      |          |   :clock:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Francés    |  `fr`  |      :clock2:      |          |   :clock:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Hebreo     |  `he`  |      :clock2:      |          |   :clock:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Húngaro    |  `hu`  |      :clock2:      |          |   :clock:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Indonesio  |  `id`  |                    |          |   :clock:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Italiano   |  `it`  |      :clock2:      |          |   :clock:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
+| Japonés    |  `ja`  |                    |          |   :clock:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Coreano    |  `ko`  |                    |          |   :clock:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Lituano    |  `lt`  |                    |          |   :clock:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Neerlandés |  `nl`  |                    |          |   :clock:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
+| Polaco     |  `pl`  |                    |          |   :clock:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Portugués  |  `pt`  |                    |          |   :clock:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Rumano     |  `ro`  |      :clock2:      |          |   :clock:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Ruso       |  `ru`  |                    |          |   :clock:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Sueco      |  `sv`  |                    |          |   :clock:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
 
 (1) El Libro de Urantia y la Biblia con _Paramony_ incluidos.
+
 ## Tareas planificadas
 
 Aquí puedes encontrar una lista de tareas que actualmente no están activas. Si eres un colaborador o quieres serlo, consulta esta lista con frecuencia para ver dónde puedes hacer tus mejores aportaciones. Si una tarea está indentada debajo de la anterior, eso significa que la tarea depende de la anterior para comenzar.
@@ -214,11 +228,15 @@ Aquí puedes encontrar una lista de tareas que actualmente no están activas. Si
   - Crear una geodatabase y proyectos QGIS para la generación automática de mapas en SVG, mapas de imágenes HTML (mapas estáticos), y KML (mapas interactivos).
     - Traducción automática de los textos en mapas: todos los idiomas.
       - Revisión de las traducciones anteriores: todos los idiomas.
+- Presentaciones :bar_chart: :
+  - Planificar una lista de presentaciones a incluir.
+- Modelos 3D :globe_with_meridians: :
+  - Planificar una lista de escenas 3D a incluir.
 - Audio :sound: :
   - Probar soluciones de texto a voz más adecuadas: todos los idiomas.
-  - Generación del audio de El libro de Urantia: actualmente disponible en `en` y en proceso con `es`.
+  - Generación del audio de _El libro de Urantia_: actualmente disponible en `en` y en proceso con `es`.
 - Imágenes :sunrise_over_mountains: :
-  - Crear un catálogo de imágenes para ilustrar El libro de Urantia, la Biblia y el Índice de Términos. Actualmente está realizado con la parte IV del Libro de Urantia.
+  - Crear un catálogo de imágenes para ilustrar _El libro de Urantia_, la _Biblia_ y el _Índice de Términos_. Actualmente está realizado con la parte IV del Libro de Urantia.
 - Vídeo :movie_camera: :
   - Crear una introducción ampliada a Urantiapedia (canal de Youtube).
   - Crear un tutorial avanzado para los colaboradores de Urantiapedia (canal de Youtube).

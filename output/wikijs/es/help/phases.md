@@ -47,11 +47,11 @@ Conversión del *Índice de Términos* en páginas con enlaces a *El Libro de Ur
 Carga masiva de los archivos en formato Wiki.js | GitHub | Administradores
 
 
-## Fase II - Libros, artículos e índices
+## Fase II - Libros, artículos, ayudas de estudio, esquemas e índices
 
 Esta fase expande el contenido de la *Urantiapedia* con tres grandes áreas:
 - Otros libros aparte de la *Biblia* que se sospeche son libros usados por los reveladores en algunas partes de *El Libro de Urantia*. Por ejemplo, Matthew Block es un lector que ha hecho un gran trabajo encontrando este material. https://urantiabooksources.com/
-- Artículos y estudios de *El Libro de Urantia*. Existen multitud de ellos en las webs de la [Fundación Urantia](https://www.urantia.org/), la [Fellowship](https://urantiabook.org/), las asociaciones Urantia y en webs de particulares. Ningún contenido se publicará sin permiso expreso de los autores siempre que sea posible localizarlos. El contenido podrá subirse en dos modos: edición pública (cualquier editor puede mejorarlo), y edición cerrada (sólo el autor o personas autorizadas por el autor pueden modificarlo). Los artículos podrán incluir también imágenes.
+- Artículos, ayudas de estudio y esquemas de *El Libro de Urantia*. Existen multitud de ellos en las webs de la [Fundación Urantia](https://www.urantia.org/), la [Fellowship](https://urantiabook.org/), las asociaciones Urantia y en webs de particulares. Ningún contenido se publicará sin permiso expreso de los autores siempre que sea posible localizarlos. El contenido podrá subirse en dos modos: edición pública (cualquier editor puede mejorarlo), y edición cerrada (sólo el autor o personas autorizadas por el autor pueden modificarlo). Los artículos podrán incluir también imágenes.
 - Índices, que son o bien páginas con listas de enlaces, o bien páginas en sí mismas que resuman un tema.
 
 Esta fase se espera que termine en el Q2 2023.
@@ -116,7 +116,7 @@ Desarrollo en *Wiki.js* un editor de mapas interactivos, su formato y su renderi
 Adición de una colección de mapas interactivos de ejemplo sobre migraciones de razas, hechos históricos y viajes de Jesús de Nazaret | GitHub | Editores Jefe
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.png">
+<img src="/image/sample_page_map.jpg">
 <figcaption><em> Ejemplo de visualización de un mapa interactivo.</em></figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ Desarrollo en *Wiki.js* un editor de modelos 3D interactivos, su formato y su re
 Adición de una colección de modelos 3D, como la Isla del Paraíso, las esferas arquitectónicas, o el Jardín del Eden | GitHub | Editores Jefe
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.png">
+<img src="/image/sample_page_3d.jpg">
 <figcaption><em> Ejemplo de visualización de un modelo 3D.</em></figcaption>
 </figure>
 

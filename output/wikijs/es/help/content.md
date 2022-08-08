@@ -273,7 +273,7 @@ Y dos formas de abrir este mapa centrado en Ramá sería:
 Los nombres de los mapas ya se ha explicado que es necesario en la URL que estén en inglés.
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.png">
+<img src="/image/sample_page_map.jpg">
 <figcaption><em> Ejemplo de visualización de un mapa interactivo.</em></figcaption>
 </figure>
 
@@ -304,7 +304,7 @@ El patrón de la URL para modelos 3D es:
 Al igual que los mapas, los modelos 3D admitirán el centrado en un elemento usando un nombre, como: `https://urantiapedia.org/en/3dmodel/Jerusem?name=Mansonia_7`
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.png">
+<img src="/image/sample_page_3d.jpg">
 <figcaption><em> Ejemplo de visualización de un modelo 3D.</em></figcaption>
 </figure>
 

@@ -46,11 +46,11 @@ Development of *Topic Index Editor*, a wizard to help in the work with *Topic In
 Conversion of *Topic Index* to pages with links to *The Urantia Book* | GitHub | Chief Editors
 Bulk load of files in Wiki.js format | GitHub | administrators
 
-## Milestone II - Books, articles and indexes
+## Milestone II - Books, articles, study aids, schemas and indexes
 
 In this milestone the content of the Urantiapedia is expanded with three major areas:
 - Books beyond the *Bible* suspected to be books used by revelators in parts of *The Urantia Book*. For example, Matthew Block is a reader who has done a great job finding this material. https://urantiabooksources.com/
-- Articles and studies of *The Urantia Book*. There are many of them on the [Urantia Foundation](https://www.urantia.org/) website, in the [Fellowship](https://urantiabook.org/), in Urantia associations and on individual websites. No content will be published without the express permission of the authors whenever it is possible to locate them. The content can be uploaded in two ways: public edition (any editor can improve it), and closed edition (only the author or users authorized by the author are able to modify it). Articles may also include images.
+- Articles, study aids and schemas of *The Urantia Book*. There are many of them on the [Urantia Foundation](https://www.urantia.org/) website, in the [Fellowship](https://urantiabook.org/), in Urantia associations and on individual websites. No content will be published without the express permission of the authors whenever it is possible to locate them. The content can be uploaded in two ways: public edition (any editor can improve it), and closed edition (only the author or users authorized by the author are able to modify it). Articles may also include images.
 - Indexes, which are either pages with lists of links, or pages themselves that summarize a topic.
 
 This milestone is expected to be reached in Q2 2023.
@@ -114,7 +114,7 @@ Development in *Wiki.js* of an interactive map editor, the format and the render
 Addition of a set of sample interactive maps, about race migrations, historical facts and Jesus voyages | GitHub | Chief Editors
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.png">
+<img src="/image/sample_page_map.jpg">
 <figcaption><em> Sample of rendering an interactive map.</em></figcaption>
 </figure>
 
@@ -172,7 +172,7 @@ Development in Wiki.js for a 3D interactive model creator/editor, its format and
 Addition of a set of 3D models about Paradise, architectural spheres, Garden of Eden and the like | GitHub | Chief Editors
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.png">
+<img src="/image/sample_page_3d.jpg">
 <figcaption><em> Sample of rendering a 3D model.</em></figcaption>
 </figure>
  
