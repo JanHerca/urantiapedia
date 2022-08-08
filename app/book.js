@@ -298,7 +298,7 @@ class Book {
 	};
 
 	/**
-	 * Returns an arrat with pairs [text, biblical ref].
+	 * Returns an array with pairs [text, biblical ref].
 	 * @param {Array} footnotes Array of footnotes.
 	 * @return {Array}
 	 */

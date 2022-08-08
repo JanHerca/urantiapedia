@@ -7,6 +7,7 @@ const fs = require('fs');
 const pug = require('pug');
 
 const Book = require('./book');
+const Paramony = require('./paramony');
 const Bible = require('./bible');
 const BibleRef = require('./bibleref');
 const TopicIndex = require('./topicindex');
@@ -30,6 +31,7 @@ const createBookParsFn = pug.compileFile(
 const store = new Store();
 
 const book = new Book();
+const paramony = new Paramony();
 const bible = new Bible();
 const bibleref = new BibleRef();
 const topicindex = new TopicIndex();
@@ -304,6 +306,7 @@ const handle_collapseButtonClick = () => {
 const handle_drpLanguageChange = (evt) => {
 	lan = controls.drpLanguage.value;
 	book.setLanguage(lan);
+	paramony.setLanguage(lan);
 	bible.setLanguage(lan);
 	bibleref.setLanguage(lan);
 	topicindex.setLanguage(lan);
@@ -360,6 +363,12 @@ const handle_exeButtonClick = () => {
 			.then(() => bibleref.translate(txtDir, book))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
+	} else if (process === 'BIBLEREF_JSON_TO_MARKDOWN') {
+		// Read Bible Refs (*.json) => write Bible Refs (*.md)
+		paramony.readFromJSON()
+			.then(() => paramony.writeToMarkdown('The Urantia Book'))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TO_BIBLEREF_JSON') {
 		// Read UB (*.json) from a translation with Bible Refs => write (*.json)
 		book.readFromJSON(jsonDir)
@@ -371,6 +380,27 @@ const handle_exeButtonClick = () => {
 		book.readFromJSON(jsonDir)
 			.then(() => book.readRefsFromJSON(jsonDir))
 			.then(() => book.updateRefs())
+			.then(() => {
+				const baseName = path.basename(jsonDir);
+				let parentPath = path.dirname(jsonDir);
+				let newjsonDir = path.join(parentPath, `${baseName}-footnotes`);
+				if (!fs.existsSync(newjsonDir)) {
+					return Promise.reject([new Error(
+						strformat(Strings['footnotes_folder_required'][uilan],
+						baseName))]);
+				}
+				return book.writeToJSON(newjsonDir);
+			})
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'BOOK_JSON_BIBLEREF_MARKDOWN_TO_JSON') {
+		//Read UB (*.json) + Bible Refs (*.md) => write (*.json)
+		book.readFromJSON(jsonDir)
+			.then(() => paramony.readFromMarkdown('The Urantia Book'))
+			.then(() => {
+				book.footnotes = paramony.footnotes;
+				return book.updateRefs();
+			})
 			.then(() => {
 				const baseName = path.basename(jsonDir);
 				let parentPath = path.dirname(jsonDir);

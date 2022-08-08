@@ -25,6 +25,16 @@ const Processes = {
 		controls: ['dirJTextbox', 'dirTTextbox'],
 		paths: [['input','json', 'book-{0}-footnotes'], ['input','txt', 'bible-refs-{0}']]
 	},
+	"BIBLEREF_JSON_TO_MARKDOWN": {
+		active: true,
+		desc: {
+			en: "Convert Bible Refs in Urantia Book (JSON) to Markdown",
+			es: "Convertir Refs Biblia en Libro de Urantia (JSON) a Markdown"
+		},
+		controls: ['dirJTextbox', 'dirTTextbox'],
+		paths: [['input', 'json', 'footnotes-book-{0}.json'],
+			['input', 'markdown', '{0}', 'paramony', 'The Urantia Book.md']]
+	},
 	"BOOK_JSON_TO_BIBLEREF_JSON": {
 		active: true,
 		desc: {
@@ -39,6 +49,15 @@ const Processes = {
 		desc: {
 			en: "Update Bible Refs in Urantia Book (JSON)",
 			es: "Actualizar Refs Biblia en Libro de Urantia (JSON)"
+		},
+		controls: ['dirJTextbox'],
+		paths: [['input', 'json', 'book-{0}']]
+	},
+	"BOOK_JSON_BIBLEREF_MARKDOWN_TO_JSON": {
+		active: true,
+		desc: {
+			en: "Update Bible Refs in Urantia Book (MARKDOWN)",
+			es: "Actualizar Refs Biblia en Libro de Urantia (MARKDOWN)"
 		},
 		controls: ['dirJTextbox'],
 		paths: [['input', 'json', 'book-{0}']]
