@@ -129,7 +129,7 @@
                 {
                     "par_ref": "138:3.4",
                     "par_pageref": "1540.7",
-                    "par_content": "Potom se všichni vrátili do domu Matouše, kde hlavně hovořili o politice a náboženství až do večeře{3}. Rodina Leviových měla dlouhou historii v obchodě a s vybíráním daní; proto mnoho Matoušem pozvaných hostů na tuto hostinu by farizejové mohli nazývat „vyděrači a hříšníky.“"
+                    "par_content": "Potom se všichni vrátili do domu Matouše, kde hlavně hovořili o politice a náboženství až do večeře{3}. Rodina Leviových měla dlouhou historii v obchodě a s vybíráním daní; proto mnoho Matoušem pozvaných hostů na tuto hostinu by farizejové mohli nazývat „vyděrači a hříšníky{4}.“"
                 },
                 {
                     "par_ref": "138:3.5",
@@ -324,7 +324,7 @@
                 {
                     "par_ref": "138:8.8",
                     "par_pageref": "1545.9",
-                    "par_content": "Ježíš objasnil svým apoštolům rozdíl mezi pokáním skrze takzvané dobré skutky, jak to učili židé a změnou vědomí skrze víru—nového zrození—které on vyžadoval jako cenu za přijetí do království{12}. Ježíš učil své apoštoly, že *víra* je jedinou podmínkou pro vstup do království Otce. Jan je učil „pokání—útěk před přicházejícím hněvem.“ Ježíš učil: „Víra jsou otevřené dveře pro vstoupení do přítomné, dokonalé a věčné lásky Boha.“ Ježíš nemluvil jako prorok, který přišel hlásat slovo Boží. Zdálo se, že nemluví o sobě jako o někom, kdo má moc. Ježíš se snažil odvrátit jejich mysli od očekávání zázraků ke hledání pravé a osobní zkušenosti v uspokojení a jistotě, pramenící z přebývajícího v člověku Božího ducha lásky a spasitelné milosti."
+                    "par_content": "Ježíš objasnil svým apoštolům rozdíl mezi pokáním skrze takzvané dobré skutky, jak to učili židé a změnou vědomí skrze víru—nového zrození—které on vyžadoval jako cenu za přijetí do království{12}{13}. Ježíš učil své apoštoly, že *víra* je jedinou podmínkou pro vstup do království Otce. Jan je učil „pokání—útěk před přicházejícím hněvem.“ Ježíš učil: „Víra jsou otevřené dveře pro vstoupení do přítomné, dokonalé a věčné lásky Boha{14}.“ Ježíš nemluvil jako prorok, který přišel hlásat slovo Boží. Zdálo se, že nemluví o sobě jako o někom, kdo má moc. Ježíš se snažil odvrátit jejich mysli od očekávání zázraků ke hledání pravé a osobní zkušenosti v uspokojení a jistotě, pramenící z přebývajícího v člověku Božího ducha lásky a spasitelné milosti."
                 },
                 {
                     "par_ref": "138:8.9",
@@ -429,23 +429,23 @@
         }
     ],
     "footnotes": [
-        "*Žádný prorok není beze cti, leda ve svém domě*: Mt 13:57; Mc 6:4; Lc 4:24; Jn 4:44.",
-        "*Biblická jména pro apoštoly*: Mt 10:2-4; Mc 3:16-19; Lc 6:14-16; Hch 1:13.",
-        "*Vybraný Matouš*: Mt 9:9; Mc 2:14; Lc 5:27-28.",
-        "*Matthew's banquet*: Mt 9:10; Mc 2:15; Lc 5:29.",
-        "*Celníci a hříšníci*: Mt 9:10-11; Mt 11:19; Mc 2:15-16; Lc 5:30; Lc 7:34; Lc 15:1.",
-        "*Zdraví nepotřebují lékaře*: Mt 9:11-13; Mc 2:16-17; Lc 5:30-32.",
-        "*Rovnost pro všechny, kdo hledají Boha*: 2 Cr 19:7; Job 34:19; Ec lo 35:12; Hch 10:34; Ro 2:11; Gl 2:6; Gl 3:28; Ef 6:9; Col 3:11.",
-        "*Evangelium království*: Mt 4:23; Mt 9:35; Mt 24:14; Mc 1:14-15.",
-        "*Nová a lepší cesta*: Jn 14:6; Heb 10:20.",
-        "*Apoštolové mají být rybáři lidí*: Mt 4:19; Mc 1:17; Lc 5:10b.",
-        "*Mluvte jen to, co slyšíte, ne z doslechu*: Jn 8:26; Hch 4:20.",
-        "*Nikomu neříkej, že se voda mění ve víno*: Jn 2:1-11.",
-        "*Čiňte pokání, utečte před budoucím hněvem*: Mt 3:2,7; Lc 3:3,7.",
-        "*Změna smýšlení skrze víru, znovuzrozený*: Jn 3:3-8; Gl 2:16; Gl 3:2; Stg 2:14.",
-        "*Víra jsou otevřené dveře*: Mt 17:20; Mt 21:11; Lc 17:6; Hch 14:27.",
-        "*Rodina viděla Ježíše jako vedle sebe*: Mc 3:21.",
-        "*Jidáš nesl pytel*: Jn 12:6; Jn 13:29."
+        "*Žádný prorok není beze cti, leda ve svém domě*: Mt 13:57; Mk 6:4; Lk 4:24; Jan 4:44.",
+        "*Biblická jména pro apoštoly*: Mt 10:2-4; Mk 3:16-19; Lk 6:14-16; Sk 1:13.",
+        "*Vybraný Matouš*: Mt 9:9; Mk 2:14; Lk 5:27-28.",
+        "*Matthew's banquet*: Mt 9:10; Mk 2:15; Lk 5:29.",
+        "*Celníci a hříšníci*: Mt 9:10-11; Mt 11:19; Mk 2:15-16; Lk 5:30; Lk 7:34; Lk 15:1.",
+        "*Zdraví nepotřebují lékaře*: Mt 9:11-13; Mk 2:16-17; Lk 5:30-32.",
+        "*Rovnost pro všechny, kdo hledají Boha*: 2 Pa 19:7; Job 34:19; Sir 35:12; Sk 10:34; Řím 2:11; Gal 2:6; Gal 3:28; Ef 6:9; Kol 3:11.",
+        "*Evangelium o království*: Mt 4:23; Mt 9:35; Mt 24:14; Mk 1:14-15.",
+        "*Nová a lepší cesta*: Jan 14:6; Žid 10:20.",
+        "*Apoštolové mají být rybáři lidí*: Mt 4:19; Mk 1:17; Lk 5:10b.",
+        "*Mluvte jen to, co slyšíte, ne z doslechu*: Jan 8:26; Sk 4:20.",
+        "*Nikomu neříkej, že se voda mění ve víno*: Jan 2:1-11.",
+        "*Čiňte pokání, utečte před budoucím hněvem*: Mt 3:2,7; Lk 3:3,7.",
+        "*Změna smýšlení skrze víru, znovuzrozený*: Jan 3:3-8; Gal 2:16; Gal 3:2; Jak 2:14.",
+        "*Víra jsou otevřené dveře*: Mt 17:20; Mt 21:11; Lk 17:6; Sk 14:27.",
+        "*Rodina viděla Ježíše jako vedle sebe*: Mk 3:21.",
+        "*Jidáš nesl pytel*: Jan 12:6; Jan 13:29."
     ],
     "paper_title": "Příprava poslů království"
 }

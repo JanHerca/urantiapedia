@@ -60,7 +60,7 @@
                 {
                     "par_ref": "48:1.7",
                     "par_pageref": "542.4",
-                    "par_content": "Pavel věděl o existenci morontiálních světů a realitě morontiálních materiálů, protože napsal: „V nebi mají lepší a trvanlivější hmotu{0}.“ A tyto morontiální materiály jsou opravdové, doslova jako ve „městě, které stojí na základech, jejichž stavitelem a tvůrcem je Bůh.“ A každá z těchto nádherných sfér je „lepší zemí, což je zemí nebeskou.“"
+                    "par_content": "Pavel věděl o existenci morontiálních světů a realitě morontiálních materiálů, protože napsal: „V nebi mají lepší a trvanlivější hmotu{0}.“ A tyto morontiální materiály jsou opravdové, doslova jako ve „městě, které stojí na základech, jejichž stavitelem a tvůrcem je Bůh{1}.“ A každá z těchto nádherných sfér je „lepší zemí, což je zemí nebeskou{2}.“"
                 }
             ]
         },
@@ -505,7 +505,7 @@
                 {
                     "par_ref": "48:6.8",
                     "par_pageref": "552.6",
-                    "par_content": "Oni také i na Urantii nabádají lidské učitele pravdy a čestnosti, aby zachovávali učení o „Boží laskavosti, která vede k pokání,“ aby hlásali „Boží lásku, která zahání všechen strach{5}.“ A právě takové pravdy byly deklarovány na vašem světě:"
+                    "par_content": "Oni také i na Urantii nabádají lidské učitele pravdy a čestnosti, aby zachovávali učení o „Boží laskavosti, která vede k pokání,“ aby hlásali „Boží lásku, která zahání všechen strach{5}{6}.“ A právě takové pravdy byly deklarovány na vašem světě:{7}"
                 },
                 {
                     "par_ref": "48:6.9",
@@ -580,7 +580,7 @@
                 {
                     "par_ref": "48:6.23",
                     "par_pageref": "553.4",
-                    "par_content": "Měli byste se zamyslet nad výrazem „nebe“ a „nebe nebes“{8}. To, co většina vašich proroků pochopila jako nebe, byl první z obytných světů lokální soustavy. Když apoštol hovořil o tom, že „byl dopraven do třetího nebe“, zmiňoval se o zážitku, při kterém byl během spánku oddělen jeho Ladič a v tomto neobyčejném stavu se přenesl na třetí ze sedmi obytných světů. Někteří z vašich mudrců viděli větší nebe, „nebe nebes“, z nichž sedmidílná zkušenost obytných světů byla prvním nebem, druhým je Jerusem, třetím Edentia se svými družicemi, čtvrtým je Salvington a okolní vzdělávací sféry, pátým je Uversa, šestým je Havona a sedmým je Ráj."
+                    "par_content": "Měli byste se zamyslet nad výrazem „nebe“ a „nebe nebes“{8}. To, co většina vašich proroků pochopila jako nebe, byl první z obytných světů lokální soustavy. Když apoštol hovořil o tom, že „byl dopraven do třetího nebe“, zmiňoval se o zážitku, při kterém byl během spánku oddělen jeho Ladič a v tomto neobyčejném stavu se přenesl na třetí ze sedmi obytných světů{9}. Někteří z vašich mudrců viděli větší nebe, „nebe nebes“, z nichž sedmidílná zkušenost obytných světů byla prvním nebem, druhým je Jerusem, třetím Edentia se svými družicemi, čtvrtým je Salvington a okolní vzdělávací sféry, pátým je Uversa, šestým je Havona a sedmým je Ráj."
                 },
                 {
                     "par_ref": "48:6.24",
@@ -850,17 +850,17 @@
         }
     ],
     "footnotes": [
-        "*V nebi lepší látka*: Mt 6:19-20; Heb 10:34.",
-        "*Stavitelem města, tvůrcem, je Bůh*: 2 Co 5:1; Heb 11:10.",
-        "*Lepší -nebeská- země*: Heb 11:16.",
-        "*Všechno funguje společně*: Ro 8:28.",
-        "*Ego deflace*: Ro 12:3; 2 Co 12:7; Gl 6:3.",
-        "*Boží dobrota vede k*: Ro 2:4.",
-        "*Boží láska zahání strach*: 1 Jn 4:18.",
-        "*23. žalm*: Sal 23:1-6.",
-        "*Nebe, nebe nebes*: 1 Re 8:27; 2 Cr 2:6; 2 Cr 6:18; Neh 9:6; Sal 148:4; Dt 10:14.",
-        "*Chyceni ve třetím nebi*: 2 Co 12:2.",
-        "*Ježíšova mysl*: 1 Co 2:16; Flp 2:5."
+        "*V nebi lepší látka*: Mt 6:19-20; Žid 10:34.",
+        "*Stavitelem města, tvůrcem, je Bůh*: 2 Kor 5:1; Žid 11:10.",
+        "*Lepší -nebeská- země*: Žid 11:16.",
+        "*Vše působí společně*: Řím 8:28.",
+        "*Ego deflace*: Řím 12:3; 2 Kor 12:7; Gal 6:3.",
+        "*Boží dobrota vede k*: Řím 2:4.",
+        "*Boží láska zahání strach*: 1 Jan 4:18.",
+        "*23. žalm*: Ž 23:1-6.",
+        "*Nebe, nebe nebes*: 1 Král 8:27; 2 Pa 2:6; 2 Pa 6:18; Neh 9:6; Ž 148:4; Dt 10:14.",
+        "*Chyceni ve třetím nebi*: 2 Kor 12:2.",
+        "*Ježíšova mysl*: 1 Kor 2:16; Flp 2:5."
     ],
     "paper_title": "Morontiální život"
 }

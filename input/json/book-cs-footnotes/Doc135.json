@@ -8,7 +8,7 @@
                 {
                     "par_ref": "135:0.1",
                     "par_pageref": "1496.1",
-                    "par_content": "JAN Křtitel se narodil 25. března roku 7 př.n.l. v souladu se slibem, který Gabriel dal Alžbětě v červnu předchozího roku{0}. Po dobu pěti měsíců držela Alžběta Gabrielovu návštěvu v tajnosti; a když to řekla svému manželovi, Zachariášovi, ten byl silně znepokojen a plně uvěřil jejímu příběhu až tehdy, kdy měl zvláštní sen asi šest týdnů před Janovým narozením. Kromě návštěvy Gabriela u Alžběty a snu Zachariáše nebylo s narozením Jana Křtitele spojeno nic neobvyklého, nebo nadpřirozeného."
+                    "par_content": "JAN Křtitel se narodil 25. března roku 7 př.n.l. v souladu se slibem, který Gabriel dal Alžbětě v červnu předchozího roku{0}{1}. Po dobu pěti měsíců držela Alžběta Gabrielovu návštěvu v tajnosti; a když to řekla svému manželovi, Zachariášovi, ten byl silně znepokojen a plně uvěřil jejímu příběhu až tehdy, kdy měl zvláštní sen asi šest týdnů před Janovým narozením{2}. Kromě návštěvy Gabriela u Alžběty a snu Zachariáše nebylo s narozením Jana Křtitele spojeno nic neobvyklého, nebo nadpřirozeného."
                 },
                 {
                     "par_ref": "135:0.2",
@@ -99,7 +99,7 @@
                 {
                     "par_ref": "135:3.2",
                     "par_pageref": "1498.1",
-                    "par_content": "Alžběta pravidelně informovala Jana o tom, co se děje v Palestině a o světových záležitostech a jeho přesvědčení stále více sílilo, že se rychle blíží čas, kdy starý řád skončí; že on se stane zvěstovatelem příchodu nového věku—„království nebeského.“ Tento drsný pastýř byl velmi zaujat spisy proroka Daniela. Tisíckrát četl Danielovo popisování velkého vidění, o kterém mu Zachariáš vyprávěl, že představovalo významná království světa, počínaje Babylonem, potom Persií, Řeckem a nakonec Římem. Jan viděl, že Řím byl již složen z takových mnohojazyčných národů a ras a že se nikdy nemůže stát silně stmeleným a pevně konsolidovaným impériem{8}. On věřil, že Řím byl již rozdělen na Egypt, Palestinu a další provincie; a dále četl, že „za doby těchto králů Bůh nebeský vytvoří království, které nebude nikdy zničeno. A toto království nebude nikdy předáno jinému národu, ale rozbije na kusy všechna tato království a samo bude trvat věčně.“ „A bude mu dána nadvláda a moc a království, aby všechny rody, národy a jazyky mu sloužily. Jeho nadvláda je věčnou nadvládou, která nikdy nepomine a jeho království nebude nikdy zničeno.“ „A království i nadvláda a velikost království pod celým nebem budou dány národu svatých Nejsvrchovanějšího, jehož království je věčné a všechny oblasti mu budou sloužit a budou mu podřízeny.“"
+                    "par_content": "Alžběta pravidelně informovala Jana o tom, co se děje v Palestině a o světových záležitostech a jeho přesvědčení stále více sílilo, že se rychle blíží čas, kdy starý řád skončí; že on se stane zvěstovatelem příchodu nového věku—„království nebeského.“ Tento drsný pastýř byl velmi zaujat spisy proroka Daniela. Tisíckrát četl Danielovo popisování velkého vidění, o kterém mu Zachariáš vyprávěl, že představovalo významná království světa, počínaje Babylonem, potom Persií, Řeckem a nakonec Římem. Jan viděl, že Řím byl již složen z takových mnohojazyčných národů a ras a že se nikdy nemůže stát silně stmeleným a pevně konsolidovaným impériem{8}. On věřil, že Řím byl již rozdělen na Egypt, Palestinu a další provincie; a dále četl, že „za doby těchto králů Bůh nebeský vytvoří království, které nebude nikdy zničeno. A toto království nebude nikdy předáno jinému národu, ale rozbije na kusy všechna tato království a samo bude trvat věčně.“ „A bude mu dána nadvláda a moc a království, aby všechny rody, národy a jazyky mu sloužily. Jeho nadvláda je věčnou nadvládou, která nikdy nepomine a jeho království nebude nikdy zničeno{9}.“ „A království i nadvláda a velikost království pod celým nebem budou dány národu svatých Nejsvrchovanějšího, jehož království je věčné a všechny oblasti mu budou sloužit a budou mu podřízeny.“{10}"
                 },
                 {
                     "par_ref": "135:3.3",
@@ -188,12 +188,12 @@
                 {
                     "par_ref": "135:5.7",
                     "par_pageref": "1501.2",
-                    "par_content": "Kdo bude tímto Mesiášem? I v této otázce se židovští učitelé opět různili. Ti starší lpěli na učení o synovi Davida. Mladší učili, že když nové království je královstvím nebeským, nový vládce by mohl být také božská osobnost, která po dlouhou dobu seděla na nebesích po pravici Boha. A i když se to může zdát zvláštní, ti, kteří takto vnímali vládce nového království, ho neviděli jako lidského Mesiáše, ne jako obyčejného *člověka*, ale jako „Syna Člověka—Syna Božího—nebeského Prince, který již dlouhou dobu čeká, aby převzal vládu nad novou zemí{15}. Taková byla náboženská situace v židovském světě v době, když Jan vystoupil se svým prohlášením: „Kajte se, neboť království nebeské se blíží!“"
+                    "par_content": "Kdo bude tímto Mesiášem? I v této otázce se židovští učitelé opět různili. Ti starší lpěli na učení o synovi Davida. Mladší učili, že když nové království je královstvím nebeským, nový vládce by mohl být také božská osobnost, která po dlouhou dobu seděla na nebesích po pravici Boha. A i když se to může zdát zvláštní, ti, kteří takto vnímali vládce nového království, ho neviděli jako lidského Mesiáše, ne jako obyčejného *člověka*, ale jako „Syna Člověka—Syna Božího—nebeského Prince, který již dlouhou dobu čeká, aby převzal vládu nad novou zemí{15}. Taková byla náboženská situace v židovském světě v době, když Jan vystoupil se svým prohlášením: „Kajte se, neboť království nebeské se blíží!“{16}"
                 },
                 {
                     "par_ref": "135:5.8",
                     "par_pageref": "1501.3",
-                    "par_content": "Proto tedy nebylo zvláštní, že Janovo oznámení o přicházejícím království mělo nejméně pět různých významů v myslích těch, kteří naslouchali jeho vášnivému kázání{17}. Ale bez ohledu na význam, který různé skupiny připsaly Janovým výrazům, každá z těchto skupin očekávajících židovské království byla zaujata prohlášeními tohoto upřímného, zaníceného, drsného kazatele čestnosti a pokání, který tak vážným zpúsobem nabádal své posluchače, aby se „vyhnuli budoucímu hněvu.“"
+                    "par_content": "Proto tedy nebylo zvláštní, že Janovo oznámení o přicházejícím království mělo nejméně pět různých významů v myslích těch, kteří naslouchali jeho vášnivému kázání{17}. Ale bez ohledu na význam, který různé skupiny připsaly Janovým výrazům, každá z těchto skupin očekávajících židovské království byla zaujata prohlášeními tohoto upřímného, zaníceného, drsného kazatele čestnosti a pokání, který tak vážným zpúsobem nabádal své posluchače, aby se „vyhnuli budoucímu hněvu{18}.“"
                 }
             ]
         },
@@ -210,7 +210,7 @@
                 {
                     "par_ref": "135:6.2",
                     "par_pageref": "1501.5",
-                    "par_content": "Všem těm, kteří slyšeli Jana kázat, bylo jasné, že on je víc než kazatel. Velká většina lidí, kteří naslouchali tomuto zvláštnímu muži, který sem přišel z pustiny Judeji, odcházelo s přesvědčením, že slyšeli hlas proroka. Není divu, že duše těchto unavených a naději vyhlížejících židů byly hluboce pohnuty takovým jevem. Nikdy v celé historii židovského národa pobožné děti Abrahama tak netoužily po „útěše Izraele“, nebo po nadšeně očekávaném „obnovení království{20}.“ Nikdy v celé historii židovského národa by Janovo poselství, že „království nebeské se blíží“, nemělo tak hluboký a všeobecný dopad jako v době, kdy se tak záhadně objevil na břehu u tohoto jižního přechodu přes řeku Jordán."
+                    "par_content": "Všem těm, kteří slyšeli Jana kázat, bylo jasné, že on je víc než kazatel. Velká většina lidí, kteří naslouchali tomuto zvláštnímu muži, který sem přišel z pustiny Judeji, odcházelo s přesvědčením, že slyšeli hlas proroka. Není divu, že duše těchto unavených a naději vyhlížejících židů byly hluboce pohnuty takovým jevem. Nikdy v celé historii židovského národa pobožné děti Abrahama tak netoužily po „útěše Izraele“, nebo po nadšeně očekávaném „obnovení království{20}{21}.“ Nikdy v celé historii židovského národa by Janovo poselství, že „království nebeské se blíží“, nemělo tak hluboký a všeobecný dopad jako v době, kdy se tak záhadně objevil na břehu u tohoto jižního přechodu přes řeku Jordán{22}."
                 },
                 {
                     "par_ref": "135:6.3",
@@ -230,17 +230,17 @@
                 {
                     "par_ref": "135:6.6",
                     "par_pageref": "1502.4",
-                    "par_content": "V květnu tohoto roku, když Jan ještě kázal a křtil při brodu u Betanie, kněží a levité tam poslali delegaci, aby se Jana dotázali, jestli tvrdí, že je Mesiášem a jakým právem káže lidem{26}. Jan na tyto otázky odpověděl takto: „Jděte a řekněte svým pánům, že jste slyšeli hlas volajícího z pustiny“, a jak bylo řečeno prorokem: „připravte stezku pro Hospodina, připravíte přímou cestu pro Boha. Každé údolí bude zaplněno, každá hora a kopec budou sníženy; nerovná země se stane rovinou a těžko překonatelná místa se stanou vlídnými údolími; a všichni lidé uvidí spasení Boží.“"
+                    "par_content": "V květnu tohoto roku, když Jan ještě kázal a křtil při brodu u Betanie, kněží a levité tam poslali delegaci, aby se Jana dotázali, jestli tvrdí, že je Mesiášem a jakým právem káže lidem{26}. Jan na tyto otázky odpověděl takto: „Jděte a řekněte svým pánům, že jste slyšeli hlas volajícího z pustiny“, a jak bylo řečeno prorokem: „připravte stezku pro Hospodina, připravíte přímou cestu pro Boha. Každé údolí bude zaplněno, každá hora a kopec budou sníženy; nerovná země se stane rovinou a těžko překonatelná místa se stanou vlídnými údolími; a všichni lidé uvidí spasení Boží.“{27}"
                 },
                 {
                     "par_ref": "135:6.7",
                     "par_pageref": "1502.5",
-                    "par_content": "Jan byl radikálním, ale netaktním kazatelem{28}. Jednoho dne, když kázal a křtil na západním břehu Jordánu, přišla k němu skupina farizejů a několik saduceů a chtěli se nechat pokřtít. Předtím, než je odvedl do vody, Jan k nim promluvil jako ke skupině a řekl: „Kdo vám poradil utéci, jako zmije před ohněm, od blížícího se hněvu? Já vás pokřtím, ale varuji vás, abyste přinesli plody upřímného pokání, jestliže chcete být vykoupeni ze svých hříchů. A neříkejte mně, že Abraham je váš otec. Já tvrdím, že Bůh je schopen z těchto dvanácti kamenů před vámi stvořit ctihodné děti Abrahama. I nyní je sekyra přiložena k samotným kořenům stromů. Každý strom, který nepřinese dobré plody, bude skácen a spálen v ohni.“ (Těch dvanáct kamenů, na které ukazoval, byly údajně pamětní kameny, sestavené Joshuou na oslavu přechodu „dvanácti kmenů“ na tomto místě, když poprvé vstoupili na zaslíbenou zemi.)"
+                    "par_content": "Jan byl radikálním, ale netaktním kazatelem{28}. Jednoho dne, když kázal a křtil na západním břehu Jordánu, přišla k němu skupina farizejů a několik saduceů a chtěli se nechat pokřtít. Předtím, než je odvedl do vody, Jan k nim promluvil jako ke skupině a řekl: „Kdo vám poradil utéci, jako zmije před ohněm, od blížícího se hněvu? Já vás pokřtím, ale varuji vás, abyste přinesli plody upřímného pokání, jestliže chcete být vykoupeni ze svých hříchů. A neříkejte mně, že Abraham je váš otec. Já tvrdím, že Bůh je schopen z těchto dvanácti kamenů před vámi stvořit ctihodné děti Abrahama. I nyní je sekyra přiložena k samotným kořenům stromů. Každý strom, který nepřinese dobré plody, bude skácen a spálen v ohni{29}.“ (Těch dvanáct kamenů, na které ukazoval, byly údajně pamětní kameny, sestavené Joshuou na oslavu přechodu „dvanácti kmenů“ na tomto místě, když poprvé vstoupili na zaslíbenou zemi{30}.)"
                 },
                 {
                     "par_ref": "135:6.8",
                     "par_pageref": "1502.6",
-                    "par_content": "Jan dával svým následovníkům přednášky, při kterých je podrobně učil o jejich novém životě a snažil se odpovědět na jejich početné otázky{31}. Radil učitelům vyučovat jak v duchu, tak i v liteře zákona. Nabádal bohaté, aby sytili chudé; výběrčím daní řekl: „nevybírejte více, než je vám přikázáno.“ Vojákům řekl: „Nepáchejte násilnosti a nevymáhejte nic neprávem—buďte spokojeni se svým platem.“ A všem radil: „Připravte se na konec epochy—království nebeské se blíží.“"
+                    "par_content": "Jan dával svým následovníkům přednášky, při kterých je podrobně učil o jejich novém životě a snažil se odpovědět na jejich početné otázky{31}. Radil učitelům vyučovat jak v duchu, tak i v liteře zákona. Nabádal bohaté, aby sytili chudé; výběrčím daní řekl: „nevybírejte více, než je vám přikázáno.“ Vojákům řekl: „Nepáchejte násilnosti a nevymáhejte nic neprávem—buďte spokojeni se svým platem{32}.“ A všem radil: „Připravte se na konec epochy—království nebeské se blíží{33}.“{34}"
                 }
             ]
         },
@@ -257,7 +257,7 @@
                 {
                     "par_ref": "135:7.2",
                     "par_pageref": "1503.2",
-                    "par_content": "Během cesty na sever Jan hodně přemýšlel o Ježíši. Během putování podél Jordánu se zastavil na více než pěti místech. Na jednom z nich, v Adamě, v odpověď na přímou otázku jeho následovníků jestli je Mesiášem se poprvé zmínil o tom, že „bude to jiný, který přijde po mně“ a pokračoval: „Po mně přijde ten, který je větší než já a ke kterému já nejsem hoden se sklonit a rozvázat řemínky jeho sandálů{36}. Vás křtím vodou, ale on vás bude křtít Svatým Duchem. V ruce bude držet lopatu, aby důkladně vyčistil svůj mlat; naveze pšenici do své sýpky, ale plevy spálí soudným ohněm.“"
+                    "par_content": "Během cesty na sever Jan hodně přemýšlel o Ježíši. Během putování podél Jordánu se zastavil na více než pěti místech. Na jednom z nich, v Adamě, v odpověď na přímou otázku jeho následovníků jestli je Mesiášem se poprvé zmínil o tom, že „bude to jiný, který přijde po mně“ a pokračoval: „Po mně přijde ten, který je větší než já a ke kterému já nejsem hoden se sklonit a rozvázat řemínky jeho sandálů{36}. Vás křtím vodou, ale on vás bude křtít Svatým Duchem. V ruce bude držet lopatu, aby důkladně vyčistil svůj mlat; naveze pšenici do své sýpky, ale plevy spálí soudným ohněm.“{37}"
                 },
                 {
                     "par_ref": "135:7.3",
@@ -299,12 +299,12 @@
                 {
                     "par_ref": "135:8.6",
                     "par_pageref": "1504.4",
-                    "par_content": "V hlase Ježíše zněla rozhodnost a autorita. Jan se chvěl vzrušením, když se chystal pokřtít Ježíše Nazaretského ve vodě řeky Jordán v poledne, pondělí, 14. ledna roku 26 n.l. Tak Jan pokřtil Ježíše a jeho dva bratry Jakuba a Judu{42}. Poté, jak Jan tyto tři pokřtil, vyzval všechny ostatní k odchodu s tím, že jim oznámil, že začne opět křtít v poledne následujícího dne. Když se lidé rozcházeli, ti čtyři muži stále ještě ve vodě, když uslyšeli zvláštní zvuk a vzápětí se přímo nad hlavou Ježíše objevilo na okamžik zjevení a uslyšeli hlas: „Toto je můj milovaný syn, jehož jsem si vyvolil.“ Ježíšův celkový výraz se náhle velmi změnil a když vystoupil v tichosti z vody, rozloučil se s nimi a odešel do hor na východě. A žádný člověk pak Ježíše neviděl čtyřicet dnů."
+                    "par_content": "V hlase Ježíše zněla rozhodnost a autorita. Jan se chvěl vzrušením, když se chystal pokřtít Ježíše Nazaretského ve vodě řeky Jordán v poledne, pondělí, 14. ledna roku 26 n.l. Tak Jan pokřtil Ježíše a jeho dva bratry Jakuba a Judu{42}. Poté, jak Jan tyto tři pokřtil, vyzval všechny ostatní k odchodu s tím, že jim oznámil, že začne opět křtít v poledne následujícího dne. Když se lidé rozcházeli, ti čtyři muži stále ještě ve vodě, když uslyšeli zvláštní zvuk a vzápětí se přímo nad hlavou Ježíše objevilo na okamžik zjevení a uslyšeli hlas: „Toto je můj milovaný syn, jehož jsem si vyvolil{43}.“ Ježíšův celkový výraz se náhle velmi změnil a když vystoupil v tichosti z vody, rozloučil se s nimi a odešel do hor na východě. A žádný člověk pak Ježíše neviděl čtyřicet dnů."
                 },
                 {
                     "par_ref": "135:8.7",
                     "par_pageref": "1504.5",
-                    "par_content": "Jan doprovázel Ježíše hodný kus cesty, aby mu pověděl o návštěvě Gabriela u jeho matky před jejich narozením, tak jak to mnohokráte slyšel z matčiných úst{44}. Pak nechal Ježíše pokračovat v jeho cestě se slovy: „Nyní s jistotou vím, že jsi Vysvoboditel.“ Ale Ježíš na to vůbec neodpověděl."
+                    "par_content": "Jan doprovázel Ježíše hodný kus cesty, aby mu pověděl o návštěvě Gabriela u jeho matky před jejich narozením, tak jak to mnohokráte slyšel z matčiných úst{44}. Pak nechal Ježíše pokračovat v jeho cestě se slovy: „Nyní s jistotou vím, že jsi Vysvoboditel{45}.“ Ale Ježíš na to vůbec neodpověděl."
                 }
             ]
         },
@@ -453,64 +453,64 @@
         }
     ],
     "footnotes": [
-        "*Alžbětino tajemství*: Lc 1:24.",
-        "*Zachariášův sen*: Lc 1:11-23.",
-        "*Narození Jana Křtitele*: Lc 1:57.",
-        "*Jan obřezán*: Lc 1:59.",
-        "*Jan se stane nazaretským*: Lc 1:15.",
-        "*Janův způsob oblékání*: Mt 3:4a; Mc 1:6a; Lc 1:80.",
-        "*„Judská poušť“*: Mt 3:1; Lc 3:2.",
-        "*Johnova strava*: Mt 3:4; Mc 1:6.",
-        "*Danielův „velký obraz“*: Dn 2:31-33.",
-        "*Věčné království*: Dn 2:44.",
-        "*Věčné panství*: Dn 7:14. *Dejte království Nejvyšším*: Dn 7:27.",
-        "*Vidění příchodu Syna člověka*: Dn 7:13-14.",
+        "*Alžbětino tajemství*: Lk 1:24.",
+        "*Zachariášův sen*: Lk 1:11-23.",
+        "*Narození Jana Křtitele*: Lk 1:57.",
+        "*Jan obřezán*: Lk 1:59.",
+        "*Jan se stane nazaretským*: Lk 1:15.",
+        "*Janův způsob oblékání*: Mt 3:4a; Mk 1:6a; Lk 1:80.",
+        "*„Judská poušť“*: Mt 3:1; Lk 3:2.",
+        "*Johnova strava*: Mt 3:4; Mk 1:6.",
+        "*Danielův „velký obraz“*: Dan 2:31-33.",
+        "*Věčné království*: Dan 2:44.",
+        "*Věčné panství*: Dan 7:14. *Dejte království Nejvyšším*: Dan 7:27.",
+        "*Vidění příchodu Syna člověka*: Dan 7:13-14.",
         "*Pošlete nejdříve Eliáše*: Mal 4:5-6.",
-        "*Mesiáš vládne na nebi i na zemi*: Mt 6:10; Lc 11:2.",
-        "*Nové nebe a nová země*: Is 65:17; Is 66:22; Ap 21:1.",
-        "*Syn člověka*: Ez 2:1,3,6,8; Ez 3:1-4,10,17; Dn 7:13,14; Mt 8:20; Mc 2:10; Lc 5:24; Jn 1:51; Ap 1:13; Ap 14:14; 1 Enoch 46:1-6; 1 Enoch 48:1-7; 1 Enoch 60:10; 1 Enoch 62:1-14; 1 Enoch 63:11; 1 Enoch 69:26-29; 1 Enoch 70:1-2; 1 Enoch 71:14,16.",
-        "*Jan kázal pokání*: Mt 3:2; Mc 1:4.",
-        "*Janovo hlásání*: Mt 3:3; Mc 1:2-8; Lc 3:2-6.",
-        "*Utečte před budoucím hněvem*: Mt 3:7; Lc 3:7.",
-        "*Jan začíná kázat*: Mt 3:1; Mc 1:4,7-8; Lc 3:2-3.",
-        "*Potěšení Izraele*: Lc 2:25.",
-        "*Obnovení království*: Hch 1:6.",
-        "*Království nebeské se přiblížilo*: Mt 3:2; Mc 1:15.",
-        "*Duch a moc Eliášova*: Lc 1:17.",
-        "*Křtěte na odpuštění hříchů*: Mt 3:5-6; Mc 1:4-5; Lc 3:3.",
-        "*Janovo kázání*: Jn 1:28.",
-        "*Dotaz delegace*: Jn 1:19-27.",
-        "*Johnova odpověď*: Is 40:3-5; Mt 3:3; Mc 1:2-3; Lc 3:4-5; Jn 1:23.",
-        "*Johnova netaktní zpráva*: Mt 3:7-10; Lc 3:7-9.",
-        "*Důstojné ovoce*: Mt 7:16-20; Mt 12:33-34; Lc 3:9-10; Lc 6:43-44; Jn 15:2.",
-        "*Dvanáct pamětních kamenů*: Jos 4:1-9.",
-        "*Janovy hodiny pro učedníky*: Lc 3:10-11.",
-        "*Lekce pro výběrčí daní*: Lc 3:12-13.",
-        "*Poučení pro vojáky*: Lc 3:14.",
-        "*Lekce pro všechny*: Mt 3:2; Mc 1:15.",
-        "*Jan zmatený ohledně království*: Jn 1:31a.",
-        "*Jan, ale předchůdce Mesiáše*: Mt 3:11-12; Mc 1:7-8; Lc 3:16-17; Jn 1:26-27.",
-        "*Jan popírá, že je Mesiáš*: Mt 3:11; Mc 1:7-8; Lc 3:15-17; Jn 1:24-26.",
-        "*Čiňte pokání a dejte se pokřtít*: Lc 3:3.",
-        "*Jan dorazil do Pelly*: Jn 1:28.",
-        "*Ježíš jede do Pelly*: Mc 1:9; Lc 3:21; Jn 1:29.",
+        "*Mesiáš vládne na nebi i na zemi*: Mt 6:10; Lk 11:2.",
+        "*Nové nebe a nová země*: Iz 65:17; Iz 66:22; Zj 21:1.",
+        "*Syn člověka*: Ez 2:1,3,6,8; Ez 3:1-4,10,17; Dan 7:13,14; Mt 8:20; Mk 2:10; Lk 5:24; Jan 1:51; Zj 1:13; Zj 14:14; 1 Hen 46:1-6; 1 Hen 48:1-7; 1 Hen 60:10; 1 Hen 62:1-14; 1 Hen 63:11; 1 Hen 69:26-29; 1 Hen 70:1-2; 1 Hen 71:14,16.",
+        "*Jan kázal pokání*: Mt 3:2; Mk 1:4.",
+        "*Janovo hlásání*: Mt 3:3; Mk 1:2-8; Lk 3:2-6.",
+        "*Utečte před budoucím hněvem*: Mt 3:7; Lk 3:7.",
+        "*Jan začíná kázat*: Mt 3:1; Mk 1:4,7-8; Lk 3:2-3.",
+        "*Potěšení Izraele*: Lk 2:25.",
+        "*Obnovení království*: Sk 1:6.",
+        "*Království nebeské se přiblížilo*: Mt 3:2; Mk 1:15.",
+        "*Duch a moc Eliášova*: Lk 1:17.",
+        "*Křtěte na odpuštění hříchů*: Mt 3:5-6; Mk 1:4-5; Lk 3:3.",
+        "*Janovo kázání*: Jan 1:28.",
+        "*Dotaz delegace*: Jan 1:19-27.",
+        "*Johnova odpověď*: Iz 40:3-5; Mt 3:3; Mk 1:2-3; Lk 3:4-5; Jan 1:23.",
+        "*Johnova netaktní zpráva*: Mt 3:7-10; Lk 3:7-9.",
+        "*Důstojné ovoce*: Mt 7:16-20; Mt 12:33-34; Lk 3:9-10; Lk 6:43-44; Jan 15:2.",
+        "*Dvanáct pamětních kamenů*: Joz 4:1-9.",
+        "*Janovy hodiny pro učedníky*: Lk 3:10-11.",
+        "*Lekce pro výběrčí daní*: Lk 3:12-13.",
+        "*Poučení pro vojáky*: Lk 3:14.",
+        "*Lekce pro všechny*: Mt 3:2; Mk 1:15.",
+        "*Jan zmatený ohledně království*: Jan 1:31a.",
+        "*Jan, ale předchůdce Mesiáše*: Mt 3:11-12; Mk 1:7-8; Lk 3:16-17; Jan 1:26-27.",
+        "*Jan popírá, že je Mesiáš*: Mt 3:11; Mk 1:7-8; Lk 3:15-17; Jan 1:24-26.",
+        "*Čiňte pokání a dejte se pokřtít*: Lk 3:3.",
+        "*Jan dorazil do Pelly*: Jan 1:28.",
+        "*Ježíš jede do Pelly*: Mk 1:9; Lk 3:21; Jan 1:29.",
         "*Janova námitka*: Mt 3:14-15.",
-        "*Ježíšův křest a Boží hlas*: Mt 3:16-17; Mc 1:10-11; Lc 3:22; Jn 1:32-34.",
-        "*Čtyřicet dní o samotě*: Mt 4:1-11; Mc 1:12-13; Lc 4:1-13.",
-        "*Gabrielova návštěva u Isabely*: Lc 1:11-19,24-25.",
-        "*Teď už vím jistě*: Jn 1:34.",
-        "*Ježíš vyprávěl o Gabrielově návštěvě u Marie*: Lc 1:26-38.",
-        "*Otázky k delegaci*: Jn 1:19-21; Jn 1:24-26.",
-        "*Joshuova invaze*: Jos 12:7-24.",
-        "*Janovo prohlášení*: Mc 1:7; Jn 1:29-32. *Sestupující duch a hlas*: Mt 3:16-17; Mc 1:10-11; Lc 3:21-22.",
-        "*Ježíš jde do Galileje*: Lc 4:14; Jn 1:43a.",
-        "*Jan napadl Heroda*: Mt 14:3b-4; Mc 6:17b-19; Lc 3:19.",
-        "*Jan zatčen*: Mt 14:3; Mc 1:14,6:17; Lc 3:19.",
-        "*Otázky Janových učedníků*: Jn 3:25-36a.",
-        "*Další otázky od Jana*: Mt 11:2-6; Lc 7:19-23.",
-        "*Herodes a Jan*: Mt 14:3-5; Mc 6:17-19.",
-        "*Jan se setkává s Herodem*: Mc 6:20.",
-        "*Herodova narozeninová slavnost*: Mt 14:6a; Mc 6:21."
+        "*Ježíšův křest a Boží hlas*: Mt 3:16-17; Mk 1:10-11; Lk 3:22; Jan 1:32-34.",
+        "*Čtyřicet dní o samotě*: Mt 4:1-11; Mk 1:12-13; Lk 4:1-13.",
+        "*Gabrielova návštěva u Isabely*: Lk 1:11-19,24-25.",
+        "*Teď už vím jistě*: Jan 1:34.",
+        "*Ježíš vyprávěl o Gabrielově návštěvě u Marie*: Lk 1:26-38.",
+        "*Otázky k delegaci*: Jan 1:19-21; Jan 1:24-26.",
+        "*Joshuova invaze*: Joz 12:7-24.",
+        "*Janovo prohlášení*: Mk 1:7; Jan 1:29-32. *Sestupující duch a hlas*: Mt 3:16-17; Mk 1:10-11; Lk 3:21-22.",
+        "*Ježíš jde do Galileje*: Lk 4:14; Jan 1:43a.",
+        "*Jan napadl Heroda*: Mt 14:3b-4; Mk 6:17b-19; Lk 3:19.",
+        "*Jan zatčen*: Mt 14:3; Mk 1:14,6:17; Lk 3:19.",
+        "*Otázky Janových učedníků*: Jan 3:25-36a.",
+        "*Další otázky od Jana*: Mt 11:2-6; Lk 7:19-23.",
+        "*Herodes a Jan*: Mt 14:3-5; Mk 6:17-19.",
+        "*Jan se setkává s Herodem*: Mk 6:20.",
+        "*Herodova narozeninová slavnost*: Mt 14:6a; Mk 6:21."
     ],
     "paper_title": "Jan Křtitel"
 }

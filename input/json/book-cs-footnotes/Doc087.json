@@ -203,7 +203,7 @@
                 {
                     "par_ref": "87:5.4",
                     "par_pageref": "962.5",
-                    "par_content": "Myslelo se, že zejména lidský blahobyt provokuje závist zlých duchů a jejich metoda odplaty byla provedena prostřednictvím druhého člověka a s pomocí *uhrančivého pohledu*{1}. Ta fáze kultu, která byla spojena se snahou vyhnout se působení ducha, se značně zabývala intrikami uhrančivého pohledu. Strach z něho se rozšířil téměř po celém světě. Krásné ženy nosily závoj, aby byly uchráněny před uhrančivým pohledem; následně, mnoho žen, které toužily být považovány za krásné, přijalo tento zvyk. Kvůli tomuto strachu ze zlých duchů, nebylo dětem obvykle dovoleno zůstat venku po setmění a rané modlitby vždy obsahovaly prosbu „zbav nás ode všeho zlého.“"
+                    "par_content": "Myslelo se, že zejména lidský blahobyt provokuje závist zlých duchů a jejich metoda odplaty byla provedena prostřednictvím druhého člověka a s pomocí *uhrančivého pohledu*{1}. Ta fáze kultu, která byla spojena se snahou vyhnout se působení ducha, se značně zabývala intrikami uhrančivého pohledu. Strach z něho se rozšířil téměř po celém světě. Krásné ženy nosily závoj, aby byly uchráněny před uhrančivým pohledem; následně, mnoho žen, které toužily být považovány za krásné, přijalo tento zvyk{2}. Kvůli tomuto strachu ze zlých duchů, nebylo dětem obvykle dovoleno zůstat venku po setmění a rané modlitby vždy obsahovaly prosbu „zbav nás ode všeho zlého.“"
                 },
                 {
                     "par_ref": "87:5.5",
@@ -340,7 +340,7 @@
                 {
                     "par_ref": "87:6.16",
                     "par_pageref": "965.3",
-                    "par_content": "Potom přišel zvyk rituálních přísah, za kterým brzy následovaly zástavy a přísežné sliby{4}. Většina těchto přísežných slibů byla doprovázena sebemučením a sebezmrzačením; později půstem a modlitbou. Následně se na sebezapření pohlíželo jako na spolehlivou přesvědčující metodu; to především platilo v případě potlačení pohlavního pudu. A tak si primitivní člověk brzy osvojil nepopiratelnou přísnost ve svých náboženských zvycích, víru v účinnost sebemučení a sebezapírání jako rituály, schopné přinutit neochotné duchy projevit přízeň ve všem jeho utrpení a strádání."
+                    "par_content": "Potom přišel zvyk rituálních přísah, za kterým brzy následovaly zástavy a přísežné sliby{4}. Většina těchto přísežných slibů byla doprovázena sebemučením a sebezmrzačením; později půstem a modlitbou{5}. Následně se na sebezapření pohlíželo jako na spolehlivou přesvědčující metodu; to především platilo v případě potlačení pohlavního pudu. A tak si primitivní člověk brzy osvojil nepopiratelnou přísnost ve svých náboženských zvycích, víru v účinnost sebemučení a sebezapírání jako rituály, schopné přinutit neochotné duchy projevit přízeň ve všem jeho utrpení a strádání."
                 },
                 {
                     "par_ref": "87:6.17",
@@ -413,12 +413,12 @@
         }
     ],
     "footnotes": [
-        "*Neznámí bohové*: Hch 17:22-23.",
-        "*Zlé oko*: Pr 23:6; Pr 28:22; Dt 15:9; Dt 28:54,56; Mc 7:22.",
-        "*Vysvoboď nás od zlého oka*: Mt 6:13; Lc 11:4.",
-        "*Křest vodou*: Mt 3:6,11; Mc 1:4-5,8; Lc 3:3,7,16; Jn 1:25-26,31,33; Jn 3:22-23; Hch 1:5.",
-        "*Posvátné sliby a přísahy*: Gn 31:13; Ex 22:11; 2 Cr 15:12-15; Lv 5:4; Sal 105:9-10; Nm 6:2-15; Nm 30:2-16; Dt 29:12-15.",
-        "*Trest za porušení přísahy*: Jg 11:30-39."
+        "*Neznámí bohové*: Sk 17:22-23.",
+        "*Zlé oko*: Př 23:6; Př 28:22; Dt 15:9; Dt 28:54,56; Mk 7:22.",
+        "*Vysvoboď nás od zlého oka*: Mt 6:13; Lk 11:4.",
+        "*Křest vodou*: Mt 3:6,11; Mk 1:4-5,8; Lk 3:3,7,16; Jan 1:25-26,31,33; Jan 3:22-23; Sk 1:5.",
+        "*Posvátné sliby a přísahy*: Gn 31:13; Ex 22:11; 2 Pa 15:12-15; Lv 5:4; Ž 105:9-10; Nm 6:2-15; Nm 30:2-16; Dt 29:12-15.",
+        "*Trest za porušení přísahy*: Sd 11:30-39."
     ],
     "paper_title": "Kulty duchů"
 }

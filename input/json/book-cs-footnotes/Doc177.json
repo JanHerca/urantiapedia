@@ -144,7 +144,7 @@
                 {
                     "par_ref": "177:3.7",
                     "par_pageref": "1924.3",
-                    "par_content": "V době, kdy se v táboře odehrávaly všechny tyto události, v Jerusalemu velekněží a čelní představitelé byli překvapeni tím, že Ježíš se nevrátil, aby promluvil k lidem. Pravdou je, že den předtím, když opouštěl chrám, řekl: „Nechávám vám váš dům opuštěný{1}.“ Ale oni nemohli pochopit, že by se chtěl vzdát té velké výhody, kterou si vybudoval v přátelském postoji davů. I když se obávali, že by mohl vyvolat nepokoje mezi lidem, Učitelova poslední slova zástupům lidí byla výzvou podřídit se jakýmkoliv rozumným způsobem autoritě těch, kteří „sedí na místě Mojžíše.“ Byl to pro ně velmi rušný den, poněvadž se současně připravovali na Paschu a upřesňovali své plány na zabití Ježíše."
+                    "par_content": "V době, kdy se v táboře odehrávaly všechny tyto události, v Jerusalemu velekněží a čelní představitelé byli překvapeni tím, že Ježíš se nevrátil, aby promluvil k lidem. Pravdou je, že den předtím, když opouštěl chrám, řekl: „Nechávám vám váš dům opuštěný{1}.“ Ale oni nemohli pochopit, že by se chtěl vzdát té velké výhody, kterou si vybudoval v přátelském postoji davů. I když se obávali, že by mohl vyvolat nepokoje mezi lidem, Učitelova poslední slova zástupům lidí byla výzvou podřídit se jakýmkoliv rozumným způsobem autoritě těch, kteří „sedí na místě Mojžíše{2}.“ Byl to pro ně velmi rušný den, poněvadž se současně připravovali na Paschu a upřesňovali své plány na zabití Ježíše."
                 },
                 {
                     "par_ref": "177:3.8",
@@ -161,7 +161,7 @@
                 {
                     "par_ref": "177:4.1",
                     "par_pageref": "1924.5",
-                    "par_content": "Brzy po odchodu Ježíše a Jana Marka z tábora, Jidáš Iškariotský opustil své bratry a vrátil se až pozdě odpoledne. Nehledě na to, že Učitel jim výslovně zakázal nechodit do Jerusalema, tento zmatený a nespokojený apoštol rychle spěchal, aby byl včas na schůzce s Ježíšovými nepřáteli v domě velekněze Kaifáše{3}. Bylo to neoficiální zasedání Vysoké rady a začalo krátce po 10. hodině toho rána. Tato porada byla svolána, aby se projednal charakter obvinění, která budou vznesena proti Ježíšovi a rozhodlo se o tom, jakého postupu se použije pro jeho předvedení před římskou správu a pro zajištění nezbytného civilního potvrzení rozsudku smrti, který oni již nad ním vynesli."
+                    "par_content": "Brzy po odchodu Ježíše a Jana Marka z tábora, Jidáš Iškariotský opustil své bratry a vrátil se až pozdě odpoledne. Nehledě na to, že Učitel jim výslovně zakázal nechodit do Jerusalema, tento zmatený a nespokojený apoštol rychle spěchal, aby byl včas na schůzce s Ježíšovými nepřáteli v domě velekněze Kaifáše{3}. Bylo to neoficiální zasedání Vysoké rady a začalo krátce po 10. hodině toho rána{4}. Tato porada byla svolána, aby se projednal charakter obvinění, která budou vznesena proti Ježíšovi a rozhodlo se o tom, jakého postupu se použije pro jeho předvedení před římskou správu a pro zajištění nezbytného civilního potvrzení rozsudku smrti, který oni již nad ním vynesli."
                 },
                 {
                     "par_ref": "177:4.2",
@@ -259,15 +259,15 @@
         }
     ],
     "footnotes": [
-        "*Modlete se „Otče náš“*: Lc 11:2.",
-        "*Zanechte dům opuštěný*: Mt 23:38; Lc 13:35.",
+        "*Modlete se „Otče náš“*: Lk 11:2.",
+        "*Zanechte dům opuštěný*: Mt 23:38; Lk 13:35.",
         "*Ti, kdo sedí na Mojžíšově místě*: Mt 23:2.",
-        "*Jidáš jde do Kaifášova domu*: Mt 26:14; Mc 14:10; Lc 22:4a.",
-        "*Setkání Sanhedrinu u Kaifáše*: Mt 26:3-4; Mc 14:1b; Lc 22:2.",
-        "*Kníže ďáblů*: Mt 9:34; Mt 10:25; Mt 12:24,27; Mc 3:22; Lc 11:15,18-19.",
-        "*Strach z davů*: Mt 26:5; Mc 14:2; Lc 22:2b.",
+        "*Jidáš jde do Kaifášova domu*: Mt 26:14; Mk 14:10; Lk 22:4a.",
+        "*Setkání Sanhedrinu u Kaifáše*: Mt 26:3-4; Mk 14:1b; Lk 22:2.",
+        "*Kníže ďáblů*: Mt 9:34; Mt 10:25; Mt 12:24,27; Mk 3:22; Lk 11:15,18-19.",
+        "*Strach z davů*: Mt 26:5; Mk 14:2; Lk 22:2b.",
         "*Jidáš se ptá: „Kolik?“*: Mt 26:15a.",
-        "*„Odměna“ při zradě Ježíše*: Mt 26:16; Mc 14:11; Lc 22:4-6."
+        "*„Odměna“ při zradě Ježíše*: Mt 26:16; Mk 14:11; Lk 22:4-6."
     ],
     "paper_title": "Středa, den odpočinku"
 }

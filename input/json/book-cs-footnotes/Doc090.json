@@ -30,7 +30,7 @@
                 {
                     "par_ref": "90:1.1",
                     "par_pageref": "986.4",
-                    "par_content": "Šaman byl vysoko postaveným léčitelem, rituálním fetišistou a centrální osobností ve všech obřadech evolučního náboženství. V mnohých kmenech šaman převýšil válečného náčelníka, což znamenalo začátek dominance církve nad státem. Někdy šaman působil jako kněz a dokonce i jako kněz-král{0}. Některé pozdější kmeny měly jak dřívější šamany-léčitele (věštce), tak později se objevši šamany-kněze. A v mnoha případech se úřad šamana stal dědičným."
+                    "par_content": "Šaman byl vysoko postaveným léčitelem, rituálním fetišistou a centrální osobností ve všech obřadech evolučního náboženství. V mnohých kmenech šaman převýšil válečného náčelníka, což znamenalo začátek dominance církve nad státem. Někdy šaman působil jako kněz a dokonce i jako kněz-král{0}. Některé pozdější kmeny měly jak dřívější šamany-léčitele (věštce), tak později se objevši šamany-kněze{1}. A v mnoha případech se úřad šamana stal dědičným."
                 },
                 {
                     "par_ref": "90:1.2",
@@ -87,7 +87,7 @@
                 {
                     "par_ref": "90:2.5",
                     "par_pageref": "988.1",
-                    "par_content": "Léčitelé silně věřili ve znaky a znamení, například: „Když uslyšíš, jak šelestí koruny morušových stromů, rozhýbej se k činu{3}.“ Již v raném stadiu existence lidského rodu šamani obrátili svoji pozornost ke hvězdám. Po celém světě lidé začali věřit primitivní astrologii a praktikovat ji; rozšířeným se také stalo vykládání snů. Po tom všem brzy následovaly temperamentní šamanky, které o sobě tvrdily, že dokáží komunikovat s duchy mrtvých."
+                    "par_content": "Léčitelé silně věřili ve znaky a znamení, například: „Když uslyšíš, jak šelestí koruny morušových stromů, rozhýbej se k činu{3}.“ Již v raném stadiu existence lidského rodu šamani obrátili svoji pozornost ke hvězdám. Po celém světě lidé začali věřit primitivní astrologii a praktikovat ji; rozšířeným se také stalo vykládání snů{4}. Po tom všem brzy následovaly temperamentní šamanky, které o sobě tvrdily, že dokáží komunikovat s duchy mrtvých{5}."
                 },
                 {
                     "par_ref": "90:2.6",
@@ -258,7 +258,7 @@
                 {
                     "par_ref": "90:5.3",
                     "par_pageref": "992.4",
-                    "par_content": "Součástí rituálu se stala slova, taková jako například „amen“ a „selah“{8}. Návyk klení, sakrování je prostitucí dřívějších rituálních opakování svatých jmen. Konání poutních cest k posvátným svatyním je velmi prastarým rituálem. Později rituál vyrostl do propracovaných obřadů pročišťování, očišťování a posvěcování. Přijímací obřady prvotních kmenových tajných spolků byly ve skutečnosti primitivními náboženskými rituály. Metody uctívání starých mystických kultů byly jedním dlouhým představením sestaveného náboženského rituálu. Rituál se nakonec vyvinul do současných typů společenských obřadů a církevních bohoslužeb─obřadů, obsahujících modlitbu, píseň, odpovídající čtení a další individuální a skupinové duchovní projevy zbožnosti."
+                    "par_content": "Součástí rituálu se stala slova, taková jako například „amen“ a „selah“{8}{9}. Návyk klení, sakrování je prostitucí dřívějších rituálních opakování svatých jmen. Konání poutních cest k posvátným svatyním je velmi prastarým rituálem. Později rituál vyrostl do propracovaných obřadů pročišťování, očišťování a posvěcování{10}{11}{12}. Přijímací obřady prvotních kmenových tajných spolků byly ve skutečnosti primitivními náboženskými rituály. Metody uctívání starých mystických kultů byly jedním dlouhým představením sestaveného náboženského rituálu. Rituál se nakonec vyvinul do současných typů společenských obřadů a církevních bohoslužeb─obřadů, obsahujících modlitbu, píseň, odpovídající čtení a další individuální a skupinové duchovní projevy zbožnosti."
                 },
                 {
                     "par_ref": "90:5.4",
@@ -295,15 +295,15 @@
     ],
     "footnotes": [
         "*Šamani (kněží)*: Ex 2:16; Ex 28:1-43; Ex 29:4-9,29; Nm 18:1-10.",
-        "*Věštci*: 2 Re 17:13; 1 Cr 29:29; 1 Sam 9:8-11,18-19; 2 Sam 15:27.",
+        "*Věštci*: 2 Král 17:13; 1 Pa 29:29; 1 Sam 9:8-11,18-19; 2 Sam 15:27.",
         "*Čarodějnictví*: Ex 22:18; Dt 18:10-12; 1 Sam 15:23.",
-        "*Když slyšíš zvuk větru*: 1 Cr 14:15; 2 Sam 5:24.",
-        "*Astrologie*: Is 47:13; Dn 2:2; Am 5:26; Mt 2:7,9-10.",
+        "*Když slyšíš zvuk větru*: 1 Pa 14:15; 2 Sam 5:24.",
+        "*Astrologie*: Iz 47:13; Dan 2:2; Am 5:26; Mt 2:7,9-10.",
         "*Šamanky*: 1 Sam 28:7-19.",
         "*Šťastné hvězdy*: Mt 2:2.",
-        "*Šípy Všemohoucího*: Job 6:4; Sal 38:1-2.",
+        "*Šípy Všemohoucího*: Job 6:4; Ž 38:1-2.",
         "*„Amen“ jako rituál*: Nm 5:22.",
-        "*„Selah“ jako rituál*: Sal 3:2.",
+        "*„Selah“ jako rituál*: Ž 3:2.",
         "*Očistit: (rituál s červenou jalovicí)*: Nm 19:1-22. *oltáře*: Lv 8:15. *z kořisti ukořistěné ve válce*: Nm 31:12-24. *kněžských oděvů*: Ex 29:4. *ze stánku*: Ex 29:41-44. *z ženy po porodu*: Lv 12:1-7.",
         "*Očistit: od hříchů shromáždění*: Lv 4:13-21. *z individuálních hříchů*: Lv 5:1-13. *od malomocenství*: Lv 14:2-11. *z provinění*: Lv 6:8-18.",
         "*Posvěcovat pomazáním*: Ex 40:9-11. *skrze Pána*: Lv 22:9,16. *prvorozených mužů*: Ex 13:2. *z lidí*: Ex 19:10,14. *stánku a oblasti*: Ex 29:41-44."

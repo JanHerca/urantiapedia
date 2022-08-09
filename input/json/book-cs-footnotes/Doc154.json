@@ -13,7 +13,7 @@
                 {
                     "par_ref": "154:0.2",
                     "par_pageref": "1717.2",
-                    "par_content": "Jeden z příbuzných Heroda, Chuza, jehož žena byla členkou ženského pečovatelského sboru, ho informoval o tom, že Ježíš nemá v úmyslu vměšovat se do záležitostí jeho světské vlády; že jeho jediným zájmem je ustanovení duchovního bratrství svých věřících a toto bratrství že nazývá královstvím nebeským. Herodes natolik důvěřoval zprávám od Chuzy, že odmítl zasáhnout do Ježíšových aktivit. Kromě toho Herodes byl v tu dobu také ovlivněn ve svém postoji k Ježíšovi svým pověrčivým strachem z Jana Křtitele{0}. Herodes byl jedním z těch odpadlických židů, kteří nevěřili v nic, ale báli se všeho. Měl špatné svědomí kvůli usmrcení Jana a nechtěl se zaplést do podobných intrik proti Ježíšovi. On věděl o mnoha případech nemocí, které Ježíš zjevně vyléčil a považoval ho buď za proroka, anebo za relativně neškodného náboženského fanatika."
+                    "par_content": "Jeden z příbuzných Heroda, Chuza, jehož žena byla členkou ženského pečovatelského sboru, ho informoval o tom, že Ježíš nemá v úmyslu vměšovat se do záležitostí jeho světské vlády; že jeho jediným zájmem je ustanovení duchovního bratrství svých věřících a toto bratrství že nazývá královstvím nebeským. Herodes natolik důvěřoval zprávám od Chuzy, že odmítl zasáhnout do Ježíšových aktivit. Kromě toho Herodes byl v tu dobu také ovlivněn ve svém postoji k Ježíšovi svým pověrčivým strachem z Jana Křtitele{0}. Herodes byl jedním z těch odpadlických židů, kteří nevěřili v nic, ale báli se všeho{1}. Měl špatné svědomí kvůli usmrcení Jana a nechtěl se zaplést do podobných intrik proti Ježíšovi. On věděl o mnoha případech nemocí, které Ježíš zjevně vyléčil a považoval ho buď za proroka, anebo za relativně neškodného náboženského fanatika."
                 },
                 {
                     "par_ref": "154:0.3",
@@ -258,14 +258,14 @@
         }
     ],
     "footnotes": [
-        "*Herodův postoj k Ježíši*: Mc 6:14; Lc 9:7.",
-        "*Herodovy obavy*: Mt 14:1-2; Mc 6:14-20; Lc 9:7-9.",
-        "*Ježíšova rodina přichází*: Mt 12:46; Mc 3:31; Lc 8:19.",
-        "*Ježíš řekl rodině, že čeká*: Mt 12:47; Mc 3:32; Lc 8:20.",
-        "*Kdo je moje rodina?*: Mt 12:48-50; Mc 3:33-35; Lc 8:21.",
-        "*Požehnané je lůno, které tě porodilo*: Lc 11:27-28.",
-        "*Nepřátelé ve vlastní domácnosti*: Mt 10:35-36; Mc 13:12; Lc 12:52-53.",
-        "*Nemá kde hlavu složit*: Mt 8:20; Lc 9:58."
+        "*Herodův postoj k Ježíši*: Mk 6:14; Lk 9:7.",
+        "*Herodovy obavy*: Mt 14:1-2; Mk 6:14-20; Lk 9:7-9.",
+        "*Ježíšova rodina přichází*: Mt 12:46; Mk 3:31; Lk 8:19.",
+        "*Ježíš řekl rodině, že čeká*: Mt 12:47; Mk 3:32; Lk 8:20.",
+        "*Kdo je moje rodina?*: Mt 12:48-50; Mk 3:33-35; Lk 8:21.",
+        "*Požehnané je lůno, které tě porodilo*: Lk 11:27-28.",
+        "*Nepřátelé ve vlastní domácnosti*: Mt 10:35-36; Mk 13:12; Lk 12:52-53.",
+        "*Nemá kde hlavu složit*: Mt 8:20; Lk 9:58."
     ],
     "paper_title": "Poslední dny v Kafarnaumu"
 }

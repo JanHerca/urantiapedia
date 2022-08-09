@@ -13,7 +13,7 @@
                 {
                     "par_ref": "10:0.2",
                     "par_pageref": "108.2",
-                    "par_content": "Rajská Trojice účinně zajišťuje úplné vyjádření a dokonalé odhalení věčné podstaty Božstva{0}. Stejným způsobem Stálí Synové Trojice poskytují úplné a dokonalé odhalení božské spravedlnosti. Trojice je jednota Božstva a tato jednota věčně spočívá na absolutních základech božské jednotnosti tří původních a rovnocenných a koexistenčních osobností: Boha-Otce, Boha-Syna a Boha-Ducha.."
+                    "par_content": "Rajská Trojice účinně zajišťuje úplné vyjádření a dokonalé odhalení věčné podstaty Božstva{0}. Stejným způsobem Stálí Synové Trojice poskytují úplné a dokonalé odhalení božské spravedlnosti. Trojice je jednota Božstva a tato jednota věčně spočívá na absolutních základech božské jednotnosti tří původních a rovnocenných a koexistenčních osobností: Boha-Otce, Boha-Syna a Boha-Ducha{1}.."
                 },
                 {
                     "par_ref": "10:0.3",
@@ -124,7 +124,7 @@
                 {
                     "par_ref": "10:3.3",
                     "par_pageref": "111.1",
-                    "par_content": "Božští Synové jsou opravdu „Slovem Božím“, ale děti Ducha jsou skutečně „Činem Božím“{4}. Bůh mluví skrze Syna a spolu se synem jednají prostřednictvím Nekonečného Ducha, zatímco ve všech vesmírných činnostech Syn a Duch mají spolu dokonalý bratrský vztah a pracují jako dva rovnocenní bratři, naplněni obdivem a láskou k uctívanému a božsky respektovanému společnému Otci."
+                    "par_content": "Božští Synové jsou opravdu „Slovem Božím“, ale děti Ducha jsou skutečně „Činem Božím“{4}{5}. Bůh mluví skrze Syna a spolu se synem jednají prostřednictvím Nekonečného Ducha, zatímco ve všech vesmírných činnostech Syn a Duch mají spolu dokonalý bratrský vztah a pracují jako dva rovnocenní bratři, naplněni obdivem a láskou k uctívanému a božsky respektovanému společnému Otci."
                 },
                 {
                     "par_ref": "10:3.4",
@@ -402,7 +402,7 @@
                 {
                     "par_ref": "10:7.1",
                     "par_pageref": "115.3",
-                    "par_content": "První, Druhá a Třetí Osoba Božstva jsou si jeden druhému rovni a jsou jeden{6}. „Pán, náš Bůh, je jeden Bůh.“ V Božská Trojici věčných Božstev je dokonalost záměru a jednota uskutečnění. Otec, Syn a Společný Činitel jsou skutečně a božsky jeden. Je pravda,co je psáno: „Já jsem první a já jsem poslední a není jiného Boha, kromě mne.“"
+                    "par_content": "První, Druhá a Třetí Osoba Božstva jsou si jeden druhému rovni a jsou jeden{6}. „Pán, náš Bůh, je jeden Bůh{7}.“ V Božská Trojici věčných Božstev je dokonalost záměru a jednota uskutečnění. Otec, Syn a Společný Činitel jsou skutečně a božsky jeden. Je pravda,co je psáno: „Já jsem první a já jsem poslední a není jiného Boha, kromě mne{8}{9}.“"
                 },
                 {
                     "par_ref": "10:7.2",
@@ -490,16 +490,16 @@
         }
     ],
     "footnotes": [
-        "*Rajská trojice*: Mt 28:19; Hch 2:32-33; 2 Co 13:14; 1 Jn 5:7.",
-        "*Rajská trojice (Pavlův raný pohled)*: 1 Co 12:4-6.",
-        "*Synové ráje*: Mt 11:27; Lc 10:22; Jn 1:14,18; Jn 6:45-46; Jn 8:26; Jn 12:49-50; Jn 14:7-11,20; Jn 17:6,25-26.",
+        "*Rajská trojice*: Mt 28:19; Sk 2:32-33; 2 Kor 13:14; 1 Jan 5:7.",
+        "*Rajská trojice (Pavlův raný pohled)*: 1 Kor 12:4-6.",
+        "*Synové ráje*: Mt 11:27; Lk 10:22; Jan 1:14,18; Jan 6:45-46; Jan 8:26; Jan 12:49-50; Jan 14:7-11,20; Jan 17:6,25-26.",
         "*Stvořil člověka k obrazu Božímu*: Gn 1:26.",
-        "*„Slovo“ Boží*: Jn 1:1-4,14.",
+        "*„Slovo“ Boží*: Jan 1:1-4,14.",
         "*Boží čin*: Gn 1:1ff.",
-        "*Jednota božství*: 1 Jn 5:7.",
-        "*Hospodin, náš Bůh, je jeden Bůh*: 2 Re 19:19; 1 Cr 17:20; Neh 9:6; Sal 86:10; Ec lo 36:5; Is 37:16; Is 44:6,8; Is 45:5-6,21; Dt 4:35,39; Dt 6:4; Mc 12:29,32; Jn 17:3; Ro 3:30; 1 Co 8:4-6; Gl 3:20; Ef 4:6; 1 Ti 2:5; Stg 2:19; 1 Sam 2:2; 2 Sam 7:22.",
-        "*První, poslední a jediný Bůh*: Is 41:4; Is 44:6; Is 48:12; Ap 1:17; Ap 2:8.",
-        "*Alfa a Omega*: Ap 1:8,11; Ap 21:6; Ap 22:13."
+        "*Jednota božství*: 1 Jan 5:7.",
+        "*Hospodin, náš Bůh, je jeden Bůh*: 2 Král 19:19; 1 Pa 17:20; Neh 9:6; Ž 86:10; Sir 36:5; Iz 37:16; Iz 44:6,8; Iz 45:5-6,21; Dt 4:35,39; Dt 6:4; Mk 12:29,32; Jan 17:3; Řím 3:30; 1 Kor 8:4-6; Gal 3:20; Ef 4:6; 1 Tim 2:5; Jak 2:19; 1 Sam 2:2; 2 Sam 7:22.",
+        "*První, poslední a jediný Bůh*: Iz 41:4; Iz 44:6; Iz 48:12; Zj 1:17; Zj 2:8.",
+        "*Alfa a Omega*: Zj 1:8,11; Zj 21:6; Zj 22:13."
     ],
     "paper_title": "Rajská Trojice"
 }
