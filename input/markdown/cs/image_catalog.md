@@ -1,0 +1,425 @@
+<!--
+This file contains only translations of different texts
+Main tables are in /input/markdown/en/image_catalog.md
+-->
+
+| title                                                                           | translation                                                                 |
+| ------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| A Holy Woman Wipes the Face of Jesus                                            | Svatá žena utírá tvář Ježíše                                                |
+| A lesson in humility                                                            | Lekce pokory                                                                |
+| A Woman Cries Out in a Crowd                                                    | Žena křičí v davu                                                           |
+| Address to Saint Philip                                                         | Adresa svatého Filipa                                                       |
+| Agnus-Dei: The Scapegoat                                                        | Agnus-Dei: Obětní beránek                                                   |
+| All the City Was Gathered at His Door                                           | Celé město bylo shromážděno u jeho dveří                                    |
+| Angel and the Shepherds                                                         | Anděl a pastýři                                                             |
+| Angels Holding a Dial Indicating the Different Hours of the Acts of the Passion | Andělé držící ciferník ukazující různé hodiny skutků umučení                |
+| Anguish                                                                         | Úzkost                                                                      |
+| Annas and Caiaphas                                                              | Annáš a Kaifáš                                                              |
+| Anointing of Jesus                                                              | Ježíšovo pomazání                                                           |
+| Barabbas                                                                        | Barabáš                                                                     |
+| Bartimaeus                                                                      | Bartimeus                                                                   |
+| Birds-Eye View of the Forum                                                     | Pohled na fórum z ptačí perspektivy                                         |
+| Burial of Christ                                                                | Pohřeb Krista                                                               |
+| But No Man Laid Hands Upon Him                                                  | Ale žádný muž na něj nevztáhl ruce                                          |
+| Calming a storm                                                                 | Utišení bouře                                                               |
+| Christ and Mary Magdalene                                                       | Kristus a Máří Magdalena                                                    |
+| Christ And The Rich Young Ruler                                                 | Kristus a bohatý mladý vládce                                               |
+| Christ Appears on the Shore of Lake Tiberias                                    | Kristus se zjevuje na břehu Tiberiadského jezera                            |
+| Christ at the Cross                                                             | Kristus na kříži                                                            |
+| Christ Carried Down to the Tomb                                                 | Kristus snesen do hrobu                                                     |
+| Christ healing the sick                                                         | Kristus uzdravuje nemocné                                                   |
+| Christ in the Storm on the Sea of Galilee                                       | Kristus v bouři na Galilejském jezeře                                       |
+| Christ in the Wilderness                                                        | Kristus na poušti                                                           |
+| Christ on the Cross                                                             | Kristus na kříži                                                            |
+| Christ on the Sea of Galilee                                                    | Kristus na Galilejském jezeře                                               |
+| Conspiracy of the Jews                                                          | Spiknutí Židů                                                               |
+| Consummatum Est                                                                 | Consummatum Est                                                             |
+| Crucified Christ                                                                | Ukřižovaný Kristus                                                          |
+| Crucifixion                                                                     | Ukřižování                                                                  |
+| Curses Against the Pharisees                                                    | Prokletí proti farizeům                                                     |
+| Ecce homo                                                                       | Ecce homo                                                                   |
+| Elisabeth                                                                       | Elisabeth                                                                   |
+| Entry into Jerusalem                                                            | Vjezd do Jeruzaléma                                                         |
+| Feed My Lambs                                                                   | Nakrm moje jehňata                                                          |
+| Feeding the multitude                                                           | Krmení zástupů                                                              |
+| Flight into Egypt                                                               | Let do Egypta                                                               |
+| Get Thee Behind Me Satan                                                        | Get Thee Behind Me Satan                                                    |
+| Gethsemane                                                                      | Getsemany                                                                   |
+| He Heals the Lame                                                               | On léčí chromé                                                              |
+| He Sent them out Two by Two                                                     | Poslal je po dvou                                                           |
+| He Vanished from Their Sight                                                    | Zmizel jim z dohledu                                                        |
+| He Went on His Way to Ephraim                                                   | Šel na cestě do Efraima                                                     |
+| He Went Through the Villages                                                    | Prošel vesnicemi                                                            |
+| He Who is of God Hears the Word of God                                          | Kdo je z Boha, slyší slovo Boží                                             |
+| He Who Winnows His Wheat                                                        | Ten, kdo vyhrává svou pšenici                                               |
+| Healing the sick                                                                | Uzdravení nemocných                                                         |
+| Herod                                                                           | Herodes                                                                     |
+| I have fought a good fight                                                      | Bojoval jsem dobrý boj                                                      |
+| I Thirst: The Vinegar Given to Jesus                                            | Žízeň: Ocet daný Ježíši                                                     |
+| In the Villages the Sick Were Presented to Him                                  | Ve vesnicích mu byli představeni nemocní                                    |
+| Interview between Jesus and Nicodemus                                           | Rozhovor mezi Ježíšem a Nikodémem                                           |
+| Jerusalem Jerusalem                                                             | Jeruzalém Jeruzalém                                                         |
+| Jerusalem pilgrims                                                              | Jeruzalémští poutníci                                                       |
+| Jesus Alone on the Cross                                                        | Ježíš sám na kříži                                                          |
+| Jesus Amidst The Doctors In The Temple                                          | Ježíš uprostřed lékařů v chrámu                                             |
+| Jesus Among the Doctors                                                         | Ježíš mezi lékaři                                                           |
+| Jesus and his Mother at the Fountain                                            | Ježíš a jeho matka u fontány                                                |
+| Jesus and Nicodemus                                                             | Ježíš a Nikodém                                                             |
+| Jesus and the Little Child                                                      | Ježíš a dítě                                                                |
+| Jesus Appears to Mary Magdalene                                                 | Ježíš se zjevuje Marii Magdaleně                                            |
+| Jesus appears to the disciples                                                  | Ježíš se zjevuje učedníkům                                                  |
+| Jesus Appears to the Holy Women                                                 | Ježíš se zjevuje svatým ženám                                               |
+| Jesus at Pilate's court                                                         | Ježíš na Pilátově dvoře                                                     |
+| Jesus Bearing the Cross                                                         | Ježíš nesoucí kříž                                                          |
+| Jesus Before Herod                                                              | Ježíš před Herodem                                                          |
+| Jesus Before Pilate - First Interview                                           | Ježíš před Pilátem - První rozhovor                                         |
+| Jesus Before Pilate - Second Interview                                          | Ježíš před Pilátem - Druhý rozhovor                                         |
+| Jesus Being Crucified                                                           | Ježíš je ukřižován                                                          |
+| Jesus calls Levi                                                                | Ježíš volá Levi                                                             |
+| Jesus Carried to the Tomb                                                       | Ježíš nesený do hrobu                                                       |
+| Jesus Carried up to a Pinnacle of the Temple                                    | Ježíš vynášen na vrchol chrámu                                              |
+| Jesus Casts Out The Money Changers                                              | Ježíš vyhání směnárníky                                                     |
+| Jesus Chases a Possessed Man                                                    | Ježíš pronásleduje posedlého muže                                           |
+| Jesus Commands the Apostles to Rest                                             | Ježíš přikazuje apoštolům odpočívat                                         |
+| Jesus Discourses with His Disciples                                             | Ježíš mluví se svými učedníky                                               |
+| Jesus Falls Beneath the Cross                                                   | Ježíš padá pod křížem                                                       |
+| Jesus Forbids the Carrying of Loads                                             | Ježíš zakazuje nošení břemen                                                |
+| Jesus Found in the Temple                                                       | Ježíš nalezen v chrámu                                                      |
+| Jesus Goes in the Evening to Bethany                                            | Ježíš jde večer do Bethany                                                  |
+| Jesus Goes Up Alone onto a Mountain to Pray                                     | Ježíš jde sám nahoru na horu se modlit                                      |
+| Jesus Heals a Mute Possessed Man                                                | Ježíš uzdravuje němého posedlého muže                                       |
+| Jesus Heals the Blind and Lame on the Mountain                                  | Ježíš na hoře uzdravuje slepé a chromé                                      |
+| Jesus Heals The Widow of Nains Son                                              | Ježíš uzdravuje vdovu z Nains syna                                          |
+| Jesus in the house of Annas                                                     | Ježíš v domě Annáše                                                         |
+| Jesus in the Sepulchre                                                          | Ježíš v hrobě                                                               |
+| Jesus in way to Getsemani                                                       | Ježíš na cestě do Getsemani                                                 |
+| Jesus Leaves the Praetorium                                                     | Ježíš opouští Praetorium                                                    |
+| Jesus Led from Caiaphas to Pilate                                               | Ježíš vedl od Kaifáše k Pilátovi                                            |
+| Jesus Led from Herod to Pilate                                                  | Ježíš vedl od Heroda k Pilátovi                                             |
+| Jesus Mary Magdalene and Martha at Bethany                                      | Ježíš Marie Magdalena a Marta v Betanii                                     |
+| Jesus Meets His Mother                                                          | Ježíš se setkává se svou matkou                                             |
+| Jesus Ministered to by Angels                                                   | Ježíš, kterému andělé sloužili                                              |
+| Jesus Preaches in a Ship                                                        | Ježíš káže na lodi                                                          |
+| Jesus Sleeping During the Tempest                                               | Ježíš spí během bouře                                                       |
+| Jesus Speaks Near the Treasury                                                  | Ježíš mluví u pokladnice                                                    |
+| Jesus Stilling the Tempest                                                      | Ježíš utišující bouři                                                       |
+| Jesus Stripped of His Clothing                                                  | Ježíš se svlékl z oděvu                                                     |
+| Jesus Taken from the Cistern                                                    | Ježíš vytažen z cisterny                                                    |
+| Jesus Teaches in the Synagogues                                                 | Ježíš učí v synagogách                                                      |
+| Jesus Teaches the People by the Sea                                             | Ježíš učí lidi u moře                                                       |
+| Jesus Teaching on the Sea-Shore                                                 | Ježíš učí na mořském pobřeží                                                |
+| Jesus Tempted                                                                   | Ježíš v pokušení                                                            |
+| Jesus Tempted in the Wilderness                                                 | Ježíš v pokušení na poušti                                                  |
+| Jesus Transported by a Spirit onto a High Mountain                              | Ježíš přenesen Duchem na vysokou horu                                       |
+| Jesus Traveling                                                                 | Ježíš na cestách                                                            |
+| Jesus Unrolls the Book in the Synagogue                                         | Ježíš rozbaluje knihu v synagoze                                            |
+| Jesus Walks in the Portico of Solomon                                           | Ježíš kráčí po Šalamounově sloupoví                                         |
+| Jesus Walks on the Sea                                                          | Ježíš chodí po moři                                                         |
+| Jesus Went Out into a Desert Place                                              | Ježíš vyšel do pouště                                                       |
+| Jesus Wept                                                                      | Ježíš plakal                                                                |
+| Joseph and Mary arrive at Bethlehem                                             | Josef a Marie dorazí do Betléma                                             |
+| Joseph of Arimathaea                                                            | Josef z Arimatie                                                            |
+| Joseph of Arimathaea Seeks Pilate to Beg Permission to Remove the Body of Jesus | Josef z Arimatie žádá Piláta, aby prosil o povolení odstranit Ježíšovo tělo |
+| Journey of the Magi                                                             | Cesta mágů                                                                  |
+| Judas Goes to Find the Jews                                                     | Jidáš jde najít Židy                                                        |
+| Judas Hangs Himself                                                             | Jidáš se oběsil                                                             |
+| Judas Iscariot                                                                  | Jidáš Iškariotský                                                           |
+| Judas Leaves the Cenacle                                                        | Jidáš opouští večeřadlo                                                     |
+| Judas Returns the Money                                                         | Jidáš vrací peníze                                                          |
+| Judas treachery                                                                 | Jidášova zrada                                                              |
+| Last Supper                                                                     | Poslední večeře                                                             |
+| Lazarus                                                                         | Lazar                                                                       |
+| Lazarus come forth                                                              | Lazar vyšel                                                                 |
+| Let Him Be Crucified                                                            | Ať je ukřižován                                                             |
+| Lord I Am Not Worthy                                                            | Pane nejsem hoden                                                           |
+| Lydia of Thyatira                                                               | Lydia z Thyatira                                                            |
+| Magi enters Jerusalem                                                           | Mágové vcházejí do Jeruzaléma                                               |
+| Magi in the House of Herod                                                      | Mágové v Herodově domě                                                      |
+| Maltreatments in the House of Caiaphas                                          | Týrání v domě Kaifáše                                                       |
+| Martha                                                                          | Marta                                                                       |
+| Martha and Mary                                                                 | Marta a Marie                                                               |
+| Mary Magdalene and the Holy Women                                               | Máří Magdaléna a svaté ženy                                                 |
+| Mary Magdalene at the Feet of Jesus                                             | Máří Magdaléna u Ježíšových nohou                                           |
+| Mary Magdalene Questions the Angels                                             | Marie Magdalena zpochybňuje anděly                                          |
+| Mary sister Lazarus                                                             | Marie sestra Lazara                                                         |
+| Mater Dolorosa                                                                  | Mater Dolorosa                                                              |
+| Meal of Our Lord and the Apostles                                               | Jídlo našeho Pána a apoštolů                                                |
+| Moses                                                                           | Mojžíš                                                                      |
+| My God My God why hast thou forsaken me                                         | Bože můj Bože můj proč jsi mě opustil                                       |
+| My Name is Legion                                                               | Jmenuji se Legie                                                            |
+| My Soul is Sorrowful unto Death                                                 | Moje duše je smutná až k smrti                                              |
+| Nathaniel Under the Fig Tree                                                    | Nathaniel pod fíkovníkem                                                    |
+| Nicodemus                                                                       | Nikodém                                                                     |
+| Noli me tangere                                                                 | Noli me tangere                                                             |
+| On Entering the House Salute It                                                 | Při vstupu do domu Pozdravte                                                |
+| On Return from Jerusalem, It is Noticed that Jesus is Lost                      | Při návratu z Jeruzaléma si všimneme, že Ježíš je ztracen                   |
+| Ordaining of the Twelve Apostles                                                | Vysvěcení dvanácti apoštolů                                                 |
+| Our Lord Jesus Christ                                                           | Náš Pán Ježíš Kristus                                                       |
+| Pilate Washes His Hands                                                         | Pilát si myje ruce                                                          |
+| Portrait of Zacharias and Elizabeth                                             | Portrét Zachariáše a Alžběty                                                |
+| Preparation For The Last Supper                                                 | Příprava na poslední večeři                                                 |
+| Priscilla, wife of Aquila                                                       | Priscilla, manželka Aquily                                                  |
+| Raising of Lazarus                                                              | Vzkříšení Lazara                                                            |
+| Reconstruction of Golgotha                                                      | Rekonstrukce Golgoty                                                        |
+| Reconstruction of Golgotha and the Holy Sepulchre                               | Rekonstrukce Golgoty a Božího hrobu                                         |
+| Resurrection of Lazarus                                                         | Vzkříšení Lazara                                                            |
+| Resurrection of the son                                                         | Vzkříšení syna                                                              |
+| Return from Egypt                                                               | Návrat z Egypta                                                             |
+| Road to Emmaus                                                                  | Cesta do Emauz                                                              |
+| Saint Andrew                                                                    | Svatý Ondřej                                                                |
+| Saint Anne                                                                      | Svatá Anna                                                                  |
+| Saint Bartholomew                                                               | Svatý Bartoloměj                                                            |
+| Saint James Major                                                               | Saint James Major                                                           |
+| Saint James the Less                                                            | Svatý Jakub Menší                                                           |
+| Saint John the Baptist and the Pharisees                                        | Svatý Jan Křtitel a farizeové                                               |
+| Saint John the Baptist Sees Jesus from Afar                                     | Svatý Jan Křtitel vidí Ježíše z dálky                                       |
+| Saint John the Evangelist                                                       | Svatý Jan Evangelista                                                       |
+| Saint Joseph                                                                    | Svatý Josef                                                                 |
+| Saint Joseph Seeks a Lodging in Bethlehem                                       | Svatý Josef hledá nocleh v Betlémě                                          |
+| Saint Luke                                                                      | Svatý Lukáš                                                                 |
+| Saint Mark                                                                      | Svatý Mark                                                                  |
+| Saint Matthew                                                                   | Svatý Matěj                                                                 |
+| Saint Paul                                                                      | Svatý Pavel                                                                 |
+| Saint Peter                                                                     | Svatý Petr                                                                  |
+| Saint Peter Alerted by Saint John                                               | Svatý Petr Upozornil Saint John                                             |
+| Saint Peter and Saint John Follow from Afar                                     | Svatý Petr a svatý Jan následují z dálky                                    |
+| Saint Peter and Saint John Run                                                  | Svatý Petr a svatý Jan běh                                                  |
+| Saint Peter Walks on the Sea                                                    | Svatý Petr chodí po moři                                                    |
+| Saint Philip                                                                    | Svatý Filip                                                                 |
+| Saint Simon                                                                     | Svatý Šimon                                                                 |
+| Saint Thaddeus or Saint Jude                                                    | Svatý Tadeáš nebo Svatý Juda                                                |
+| Saint Thomas                                                                    | Svatý Tomáš                                                                 |
+| Sermon On The Mount                                                             | Kázání na hoře                                                              |
+| Simeon                                                                          | Simeon                                                                      |
+| Simon the Cyrenian and His Two Sons                                             | Šimon Kyrénský a jeho dva synové                                            |
+| Simon the Cyrenian Compelled                                                    | Simon Kyrénský přinucen                                                     |
+| Sir what must I do                                                              | Pane co mám dělat                                                           |
+| St. Peter Released from Prison                                                  | Svatý Petr propuštěn z vězení                                               |
+| Suffer the Children                                                             | Trpět děti                                                                  |
+| Suffer the Little Children to Come unto Me                                      | Nechte malé děti, aby přišly ke mně                                         |
+| The Accursed Fig Tree                                                           | The Cursed Fig Tree                                                         |
+| The Adoration of the Magi                                                       | Klanění tří králů                                                           |
+| The Adoration of the Shepherds                                                  | Klanění pastýřů                                                             |
+| The Adulterous Woman                                                            | Cizoložná žena                                                              |
+| The Adulterous Woman Alone with Jesus                                           | Cizoložná žena sama s Ježíšem                                               |
+| The Angel Seated on the Stone of the Tomb                                       | Anděl sedící na kameni hrobu                                                |
+| The Annunciation                                                                | Zvěstování                                                                  |
+| The Anxiety of Saint Joseph                                                     | Úzkost svatého Josefa                                                       |
+| The Apostles Hiding Place                                                       | Úkryt apoštolů                                                              |
+| The Appearance of Christ at the Cenacle                                         | Zjevení Krista ve večeřadle                                                 |
+| The Ascension                                                                   | Nanebevstoupení                                                             |
+| The Axe in the Trunk of the Tree                                                | Sekera v kmeni stromu                                                       |
+| The Bad Rich Man in Hell                                                        | Zlý boháč v pekle                                                           |
+| The Baptism of Jesus                                                            | Ježíšův křest                                                               |
+| The Baptism of Christ                                                           | Křest Kristův                                                               |
+| The Betrothal of the Holy Virgin and Saint Joseph                               | Zasnoubení Panny Marie a svatého Josefa                                     |
+| The Betrothed of Cana                                                           | Snoubenka z Kány                                                            |
+| The Birth of Our Lord Jesus Christ                                              | Narození našeho Pána Ježíše Krista                                          |
+| The Blind and Mute Man Possessed by Devils                                      | Slepý a němý muž posedlý ďábly                                              |
+| The Blind in the Ditch                                                          | Slepý v příkopu                                                             |
+| The Blind Man Washes in the Pool of Siloam                                      | Slepý muž se myje v jezírku Siloam                                          |
+| The Blind of Capernaum                                                          | Slepý z Kafarnaum                                                           |
+| The Body of Jesus Carried                                                       | Nesené tělo Ježíše                                                          |
+| The Bridge of Kedron                                                            | Kedronský most                                                              |
+| The Brow of the Hill near Nazareth                                              | The Brow of the Hill nedaleko Nazareta                                      |
+| The call of Andrew and Peter                                                    | Volání Ondřeje a Petra                                                      |
+| The Calling of Saint James and Saint John                                       | Povolání svatého Jakuba a svatého Jana                                      |
+| The Calling of Saint John and Saint Andrew                                      | Povolání svatého Jana a svatého Ondřeje                                     |
+| The Calling of Saint Matthew                                                    | Povolání svatého Matěje                                                     |
+| The Calling of Saint Peter and Saint Andrew                                     | Povolání svatého Petra a svatého Ondřeje                                    |
+| The Canaanites Daughter                                                         | Kananejská dcera                                                            |
+| The Centurion                                                                   | Centurion                                                                   |
+| The Chasm in the Rock in the Cave                                               | Propast ve skále v jeskyni                                                  |
+| The Chief Priests Ask Jesus                                                     | Vrchní kněží se ptají Ježíše                                                |
+| The Chief Priests Take Counsel Together                                         | Vrchní kněží se společně radí                                               |
+| The Childhood of Saint John the Baptist                                         | Dětství svatého Jana Křtitele                                               |
+| The Cock Crowed                                                                 | Kohout zakokrhal                                                            |
+| The Communion of the Apostles                                                   | Společenství apoštolů                                                       |
+| The Confession of Saint Longinus                                                | Vyznání svatého Longina                                                     |
+| The Confession of the Centurion                                                 | Vyznání setníka                                                             |
+| The Corner Stone                                                                | Rohový kámen                                                                |
+| The Crowning of Thorns                                                          | Trnová koruna                                                               |
+| The Crucifixion                                                                 | Ukřižování                                                                  |
+| The Daughter of Herodias Dancing                                                | Tančící dcera Herodias                                                      |
+| The Daughter of Jairus                                                          | Jairova dcera                                                               |
+| The Daughters of Jerusalem                                                      | Dcery Jeruzalémské                                                          |
+| The Dead Appear in Jerusalem                                                    | Mrtví se zjevují v Jeruzalémě                                               |
+| The Dead Appear in the Temple                                                   | Mrtví se objevují v chrámu                                                  |
+| The Death of Jesus                                                              | Ježíšova smrt                                                               |
+| The Descent from the Cross                                                      | Sestup z kříže                                                              |
+| The Disbelief of Saint Thomas                                                   | Nevěra svatého Tomáše                                                       |
+| The Disciples Admire the Buildings                                              | Učedníci obdivují budovy                                                    |
+| The Disciples Eat Wheat on the Sabbath                                          | Učedníci jedí o sabatu pšenici                                              |
+| The Disciples Having Left Their Hiding                                          | Učedníci, kteří opustili své úkryty                                         |
+| The Disciples of Jesus Baptize                                                  | Učedníci Ježíše křtí                                                        |
+| The Disciples See Christ Walking on the Water                                   | Učedníci vidí Krista kráčet po vodě                                         |
+| The Disciples visit tomb                                                        | Učedníci navštěvují hrob                                                    |
+| The Ear of Malchus                                                              | Malchovo ucho                                                               |
+| The Earthquake                                                                  | Zemětřesení                                                                 |
+| The Enemy Who Sows                                                              | Nepřítel, který seje                                                        |
+| The ever present                                                                | Věčně přítomný                                                              |
+| The Evil Counsel                                                                | The Evil Counsel                                                            |
+| The Exhortation to the Apostles                                                 | Výzva k apoštolům                                                           |
+| The False Witnesses                                                             | Falešní svědci                                                              |
+| The First Denial of Saint Peter                                                 | První popření svatého Petra                                                 |
+| The First Nail                                                                  | První hřebík                                                                |
+| The First Shall Be Last                                                         | První bude poslední                                                         |
+| The Five Wedges                                                                 | Pět klínů                                                                   |
+| The Flight into Egypt                                                           | Útěk do Egypta                                                              |
+| The Flight of the Apostles                                                      | Let apoštolů                                                                |
+| The Foal of Bethpage                                                            | Hříbě z Bethpage                                                            |
+| The Foolish Virgins                                                             | Pošetilé panny                                                              |
+| The Four Guards Sat Down and Watched Him                                        | Čtyři strážci se posadili a pozorovali ho                                   |
+| The Garments Divided by Cast Lots                                               | Oděvy dělené obsazením                                                      |
+| The Gentiles Ask to See Jesus                                                   | Pohané žádají vidět Ježíše                                                  |
+| The Good Samaritan                                                              | Milý Samaritán                                                              |
+| The Good Shepherd                                                               | Dobrý pastýř                                                                |
+| The Grotto of the Agony                                                         | Jeskyně Agónie                                                              |
+| The Guards Falling Backwards                                                    | Stráže padají dozadu                                                        |
+| The Head of Saint John the Baptist on a Charger                                 | Hlava svatého Jana Křtitele na nabíječce                                    |
+| The Healed Blind Man Tells His Story to the Jews                                | Uzdravený slepec vypráví svůj příběh Židům                                  |
+| The Healing of Malchus                                                          | Malchovo uzdravení                                                          |
+| The Healing of Peters Mother-in-law                                             | Uzdravení Petersovy tchyně                                                  |
+| The Healing of Ten Lepers                                                       | Uzdravení deseti malomocných                                                |
+| The Healing of the Blind Man                                                    | Uzdravení slepého muže                                                      |
+| The Healing of the Lepers at Capernaum                                          | Uzdravení malomocných v Kafarnaum                                           |
+| The Healing of the Officer's Son                                                | Uzdravení Důstojníkova syna                                                 |
+| The Hidden Treasure                                                             | Skrytý poklad                                                               |
+| The Holy Face                                                                   | Svatá tvář                                                                  |
+| The Holy Stair                                                                  | Svaté schody                                                                |
+| The Holy Virgin in Her Youth                                                    | Svatá Panna v mládí                                                         |
+| The Holy Virgin in Old Age                                                      | Svatá Panna ve stáří                                                        |
+| The Holy Virgin Kisses the Face                                                 | Svatá Panna líbá na tvář                                                    |
+| The Holy Virgin Receives the Body                                               | Svatá Panna přijímá tělo                                                    |
+| The Holy Women                                                                  | Svaté ženy                                                                  |
+| The Holy Women Watch from Afar                                                  | Svaté ženy se dívají z dálky                                                |
+| The Hope of the World                                                           | Naděje světa                                                                |
+| The Jews Took Up Rocks to Stone Jesus                                           | Židé vzali skály, aby kamenovali Ježíše                                     |
+| The Judgment of the Sanhedrin                                                   | Rozsudek Sanhedrinu                                                         |
+| The Judgment on the Gabbatha                                                    | Rozsudek nad Gabbatha                                                       |
+| The Kiss of Judas                                                               | Jidášův polibek                                                             |
+| The Last Sermon of Our Lord                                                     | Poslední kázání našeho Pána                                                 |
+| The Last Sigh of Christ                                                         | Poslední vzdech Kristův                                                     |
+| The Last supper                                                                 | Poslední večeře                                                             |
+| The life of Jesus of Nazareth                                                   | Život Ježíše Nazaretského                                                   |
+| The little child set in their midst                                             | Malé dítě v jejich středu                                                   |
+| The Lord Wept                                                                   | Pán plakal                                                                  |
+| The Lords Prayer                                                                | Modlitba Páně                                                               |
+| The Lost Drachma                                                                | Ztracená drachma                                                            |
+| The Madgalene Runs to the Cenacle                                               | Madgalene běží do večeřadla                                                 |
+| The Magdalene Before Her Conversion                                             | Magdalena před svým obrácením                                               |
+| The Magnificat                                                                  | Magnificat                                                                  |
+| The Man at the Plough                                                           | Muž u pluhu                                                                 |
+| The Man Who Hoards                                                              | Muž, který hromadí                                                          |
+| The Man with an Infirmity of Thirty-Eight Years                                 | Muž s vadou třiceti osmi let                                                |
+| The Man with the jar of water                                                   | Muž se sklenicí vody                                                        |
+| The Man with the Withered Hand                                                  | Muž s uschlou rukou                                                         |
+| The Marriage at Cana                                                            | Manželství v Káně                                                           |
+| The Massacre of the Innocents                                                   | Masakr neviňátek                                                            |
+| The Meal in the House of Matthew                                                | Jídlo v Matoušově domě                                                      |
+| The Meal in the House of the Pharisee                                           | Jídlo v domě farizeů                                                        |
+| The Merchants Chased from the Temple                                            | Obchodníci vyhnáni z chrámu                                                 |
+| The Message of Pilate's Wife                                                    | Poselství Pilátovy ženy                                                     |
+| The Miracle of the Loaves and Fishes                                            | Zázrak chlebů a ryb                                                         |
+| The Miraculous Draught of Fishes                                                | Zázračný návrh ryb                                                          |
+| The Miraculous Haul of Fishes                                                   | Zázračný lov ryb                                                            |
+| The Morning Judgment                                                            | Ranní soud                                                                  |
+| The Nail for the Feet                                                           | Hřebík pro nohy                                                             |
+| The Ointment of the Magdalene                                                   | Mast Magdaleny                                                              |
+| The Palsied Man Let Down through the Roof                                       | Poškozený muž spustil střechou                                              |
+| The Pardon of the Good Thief                                                    | Omilostnění dobrého zloděje                                                 |
+| The People Seek Jesus to Make Him King                                          | Lidé hledají Ježíše, aby ho učinil králem                                   |
+| The Pharisee and the publican                                                   | Farizeus a celník                                                           |
+| The Pharisees and the Herodians Conspire Against Jesus                          | Farizeové a herodiáni se spikli proti Ježíšovi                              |
+| The Pharisees and the Saduccees Come to Tempt Jesus                             | Farizeové a saducciové přicházejí pokoušet Ježíše                           |
+| The Pharisees Question Jesus                                                    | Farizeové se ptají Ježíše                                                   |
+| The Pilgrims of Emmaus on the Road                                              | Emauzští poutníci na cestě                                                  |
+| The Piscina Probatica or Pool of Bethesda                                       | The Piscina Probatica nebo Pool of Bethesda                                 |
+| The Poor Lazarus at the Rich Man's Door                                         | Chudák Lazar u dveří bohatého muže                                          |
+| The Possessed Boy at the Foot of Mount Tabor                                    | Posedlý chlapec na úpatí hory Tábor                                         |
+| The Possessed Man in the Synagogue                                              | Posedlý muž v synagoze                                                      |
+| The Presentation of Jesus in the Temple                                         | Představení Ježíše v chrámu                                                 |
+| The Primacy of Saint Peter                                                      | Primát svatého Petra                                                        |
+| The Procession in the Streets                                                   | Průvod v ulicích                                                            |
+| The Procession in the Temple                                                    | Průvod v chrámu                                                             |
+| The Procession Nearing Calvary                                                  | Průvod se blíží ke Kalvárii                                                 |
+| The Procession of Judas                                                         | Jidášův průvod                                                              |
+| The Procession on the Mount of Olives                                           | Průvod na Olivové hoře                                                      |
+| The Prodigal Son                                                                | Marnotratný syn                                                             |
+| The Prodigal Son Begging                                                        | Marnotratný syn žebrání                                                     |
+| The Prophecy of the Destruction of the Temple                                   | Proroctví o zničení chrámu                                                  |
+| The Protestations of Saint Peter                                                | Protesty svatého Petra                                                      |
+| The raising of the cross                                                        | Vztyčení kříže                                                              |
+| The Repentant Mary Magdalene                                                    | Kající Marie Magdalena                                                      |
+| The Resurrection                                                                | Vzkříšení                                                                   |
+| The Resurrection heralds                                                        | Vzkříšení zvěstuje                                                          |
+| The Resurrection Of Christ                                                      | Vzkříšení Krista                                                            |
+| The Resurrection of the Widows Son at Nain                                      | Vzkříšení syna vdov v Nain                                                  |
+| The Return of the Prodigal Son                                                  | Návrat marnotratného syna                                                   |
+| The Rich Young Man Went Away Sorrowful                                          | Bohatý mladý muž odešel smutný                                              |
+| The rich young ruler                                                            | Bohatý mladý vládce                                                         |
+| The Scourging on the Back                                                       | Bičování na zádech                                                          |
+| The Scourging on the Front                                                      | Bičování na frontě                                                          |
+| The Scribe Stood to Tempt Jesus                                                 | Písař stál, aby pokoušel Ježíše                                             |
+| The Second Denial of Saint Peter                                                | Druhé popření svatého Petra                                                 |
+| The Second Miraculous Draught of Fishes                                         | Druhý zázračný návrh ryb                                                    |
+| The Sermon of the Beatitudes                                                    | Kázání blahoslavenství                                                      |
+| The Sermon on the Mount                                                         | Kázání na hoře                                                              |
+| The Shepherds and the Angel                                                     | Pastýři a anděl                                                             |
+| The Sick Awaiting the Passage of Jesus                                          | Nemocní čekající na Ježíšův průchod                                         |
+| The Sojourn in Egypt                                                            | Pobyt v Egyptě                                                              |
+| The Son of the Vineyard                                                         | Syn vinice                                                                  |
+| The Sorrow of Saint Peter                                                       | Smutek svatého Petra                                                        |
+| The Sorrowful Mother                                                            | Bolestná matka                                                              |
+| The Soul of the Good Thief                                                      | Duše dobrého zloděje                                                        |
+| The Sower                                                                       | Rozsévač                                                                    |
+| The Strike of the Lance                                                         | Úder kopím                                                                  |
+| The Swine Driven into the Sea                                                   | Svině zahnané do moře                                                       |
+| The Temptation in the Wilderness                                                | Pokušení v divočině                                                         |
+| The Testing of the Suitors of the Holy Virgin                                   | Testování nápadníků Panny Marie                                             |
+| The Thieves Legs Are Broken                                                     | The Thieves Nohy Are Broken                                                 |
+| The Third Denial of Peter                                                       | Třetí popření Petra                                                         |
+| The Title on the Cross                                                          | Titul na kříži                                                              |
+| The Torn Cloak                                                                  | Roztrhaný plášť                                                             |
+| The Tower of Siloam                                                             | Věž Siloam                                                                  |
+| The transfiguration                                                             | Proměna                                                                     |
+| The Tribunal of Annas                                                           | Annášův tribunál                                                            |
+| The Tribute Money                                                               | Pocta Peníze                                                                |
+| The Two Blind Men at Jericho                                                    | Dva slepí muži v Jerichu                                                    |
+| The Two Marys Watch the Tomb                                                    | The Two Marys Watch the Tomb                                                |
+| The Two Men Possessed with Devils                                               | Dva muži posedlí ďábly                                                      |
+| The Two Women at the Mill                                                       | Dvě ženy ve mlýně                                                           |
+| The Vase of Myrrh and Gall                                                      | Váza s myrhou a žlučí                                                       |
+| The Vine Dresser and the Fig Tree                                               | Vinařství a fíkovník                                                        |
+| The Vision of Saint Joseph                                                      | Vize svatého Josefa                                                         |
+| The Vision of Zacharias                                                         | Vize Zachariáše                                                             |
+| The Visitation                                                                  | Návštěva                                                                    |
+| The Voice from on High                                                          | Hlas z výsosti                                                              |
+| The Voice in the Desert                                                         | Hlas v poušti                                                               |
+| The Washing of the Feet                                                         | Mytí nohou                                                                  |
+| The Watch Over the Tomb                                                         | Hlídka nad hrobkou                                                          |
+| The wedding at Cana                                                             | Svatba v Káně                                                               |
+| The Widows Mite                                                                 | The Widows Mite                                                             |
+| The Wise Virgins                                                                | Moudré panny                                                                |
+| The Woman of Canaan                                                             | Žena z Kanaánu                                                              |
+| The Woman of Samaria at the Well (Nalda the samaritan)                          | Samařská žena u studny (Nalda Samaritán)                                    |
+| The Woman with an Infirmity of Eighteen Years                                   | Žena s osmnáctiletou vadou                                                  |
+| The Woman with an Issue of Blood                                                | Žena s krví                                                                 |
+| The Youth of Jesus                                                              | Ježíšovo mládí                                                              |
+| They Dressed Him in His Own Garments                                            | Oblékli ho do jeho vlastních šatů                                           |
+| Three hundred and sixty-five                                                    | Tři sta šedesát pět                                                         |
+| Touch Me Not                                                                    | Nedotýkej se mě                                                             |
+| Transfiguration                                                                 | Proměna                                                                     |
+| Two or Three Gathered in my Name                                                | Dva nebo tři se shromáždili v mém jménu                                     |
+| What is truth?                                                                  | co je pravda?                                                               |
+| What Our Lord Saw from the Cross                                                | Co náš Pán viděl z kříže                                                    |
+| With Passover Approaching, Jesus Goes Up to Jerusalem                           | S blížícím se Pesachem jde Ježíš do Jeruzaléma                              |
+| Woe unto You Scribes and Pharisees                                              | Běda vám zákoníci a farizeové                                               |
+| Woman at the Sepulchre                                                          | Žena u hrobu                                                                |
+| Woman at the Well (Nalda the samaritan)                                         | Žena u studny (Nalda samaritán)                                             |
+| You Could Not Watch One Hour                                                    | Nemohli jste se dívat jednu hodinu                                          |
+| You Follow Me for the Miracles                                                  | Sleduješ mě za zázraky                                                      |
+| Zacchaeus in the Sycamore Awaiting the Passage of Jesus                         | Zacheus v sykomoru čeká na Ježíšův průchod                                  |
+| Zachaeus in tree                                                                | Zacheus ve stromě                                                           |
+| Zacharias Killed Between the Temple and the Altar                               | Zachariáš zabit mezi chrámem a oltářem                                      |
+| Jesus face                                                                      | Ježíšova tvář                                                               |

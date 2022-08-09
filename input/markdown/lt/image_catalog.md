@@ -1,0 +1,425 @@
+<!--
+This file contains only translations of different texts
+Main tables are in /input/markdown/en/image_catalog.md
+-->
+
+| title                                                                           | translation                                                             |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| A Holy Woman Wipes the Face of Jesus                                            | Šventoji moteris nušluosto Jėzaus veidą                                 |
+| A lesson in humility                                                            | Nuolankumo pamoka                                                       |
+| A Woman Cries Out in a Crowd                                                    | Moteris verkia minioje                                                  |
+| Address to Saint Philip                                                         | Adresas Šventajam Pilypui                                               |
+| Agnus-Dei: The Scapegoat                                                        | Agnus-Dei: Pabėgėlių ožys                                               |
+| All the City Was Gathered at His Door                                           | Visas miestas buvo susirinkęs prie jo durų                              |
+| Angel and the Shepherds                                                         | Angelas ir piemenys                                                     |
+| Angels Holding a Dial Indicating the Different Hours of the Acts of the Passion | Angelai, laikantys ciferblatą, rodantį skirtingas aistros aktų valandas |
+| Anguish                                                                         | Skausmas                                                                |
+| Annas and Caiaphas                                                              | Anas ir Kajafas                                                         |
+| Anointing of Jesus                                                              | Jėzaus patepimas                                                        |
+| Barabbas                                                                        | Barabas                                                                 |
+| Bartimaeus                                                                      | Bartimiejus                                                             |
+| Birds-Eye View of the Forum                                                     | Forumo vaizdas iš paukščio skrydžio                                     |
+| Burial of Christ                                                                | Kristaus palaidojimas                                                   |
+| But No Man Laid Hands Upon Him                                                  | Bet niekas nepadėjo ant jo rankų                                        |
+| Calming a storm                                                                 | Audros nuraminimas                                                      |
+| Christ and Mary Magdalene                                                       | Kristus ir Marija Magdalietė                                            |
+| Christ And The Rich Young Ruler                                                 | Kristus ir turtingas jaunas valdovas                                    |
+| Christ Appears on the Shore of Lake Tiberias                                    | Kristus pasirodo ant Tiberiado ežero kranto                             |
+| Christ at the Cross                                                             | Kristus prie kryžiaus                                                   |
+| Christ Carried Down to the Tomb                                                 | Kristus nuneštas į kapą                                                 |
+| Christ healing the sick                                                         | Kristus gydantis ligonius                                               |
+| Christ in the Storm on the Sea of Galilee                                       | Kristus audroje Galilėjos ežere                                         |
+| Christ in the Wilderness                                                        | Kristus dykumoje                                                        |
+| Christ on the Cross                                                             | Kristus ant kryžiaus                                                    |
+| Christ on the Sea of Galilee                                                    | Kristus Galilėjos ežere                                                 |
+| Conspiracy of the Jews                                                          | Žydų sąmokslas                                                          |
+| Consummatum Est                                                                 | Consummatum Est                                                         |
+| Crucified Christ                                                                | Nukryžiuotasis Kristus                                                  |
+| Crucifixion                                                                     | Nukryžiavimas                                                           |
+| Curses Against the Pharisees                                                    | Prakeikimai prieš fariziejus                                            |
+| Ecce homo                                                                       | Ecce homo                                                               |
+| Elisabeth                                                                       | Elisabeth                                                               |
+| Entry into Jerusalem                                                            | Įvažiavimas į Jeruzalę                                                  |
+| Feed My Lambs                                                                   | Pašarinkite mano ėriukus                                                |
+| Feeding the multitude                                                           | Daugybės maitinimas                                                     |
+| Flight into Egypt                                                               | Skrydis į Egiptą                                                        |
+| Get Thee Behind Me Satan                                                        | Paimk tave už manęs Šėtonas                                             |
+| Gethsemane                                                                      | Getsemanė                                                               |
+| He Heals the Lame                                                               | Jis gydo luošį                                                          |
+| He Sent them out Two by Two                                                     | Jis išsiuntė juos po du                                                 |
+| He Vanished from Their Sight                                                    | Jis dingo iš jų akių                                                    |
+| He Went on His Way to Ephraim                                                   | Jis išvyko į Efraimą                                                    |
+| He Went Through the Villages                                                    | Jis ėjo per kaimus                                                      |
+| He Who is of God Hears the Word of God                                          | Tas, kuris yra iš Dievo, girdi Dievo žodį                               |
+| He Who Winnows His Wheat                                                        | Tas, kuris laido savo kviečius                                          |
+| Healing the sick                                                                | Ligonių gydymas                                                         |
+| Herod                                                                           | Erodas                                                                  |
+| I have fought a good fight                                                      | Aš iškovojo gerą kovą                                                   |
+| I Thirst: The Vinegar Given to Jesus                                            | Aš trokštu: Jėzui duotas actas                                          |
+| In the Villages the Sick Were Presented to Him                                  | Kaimuose Ligoniai Jam buvo pristatomi                                   |
+| Interview between Jesus and Nicodemus                                           | Jėzaus ir Nikodemo interviu                                             |
+| Jerusalem Jerusalem                                                             | Jeruzalė Jeruzalė                                                       |
+| Jerusalem pilgrims                                                              | Jeruzalės piligrimai                                                    |
+| Jesus Alone on the Cross                                                        | Jėzus vienas ant kryžiaus                                               |
+| Jesus Amidst The Doctors In The Temple                                          | Jėzus tarp daktarų šventykloje                                          |
+| Jesus Among the Doctors                                                         | Jėzus tarp gydytojų                                                     |
+| Jesus and his Mother at the Fountain                                            | Jėzus ir jo Motina prie šaltinio                                        |
+| Jesus and Nicodemus                                                             | Jėzus ir Nikodemas                                                      |
+| Jesus and the Little Child                                                      | Jėzus ir kūdikis                                                        |
+| Jesus Appears to Mary Magdalene                                                 | Jėzus pasirodo Marijai Magdalietei                                      |
+| Jesus appears to the disciples                                                  | Jėzus pasirodo mokiniams                                                |
+| Jesus Appears to the Holy Women                                                 | Jėzus pasirodo šventoms moterims                                        |
+| Jesus at Pilate's court                                                         | Jėzus Piloto kieme                                                      |
+| Jesus Bearing the Cross                                                         | Jėzus, nešantis kryžių                                                  |
+| Jesus Before Herod                                                              | Jėzus prieš Erodą                                                       |
+| Jesus Before Pilate - First Interview                                           | Jėzus prieš Pilotą – pirmasis interviu                                  |
+| Jesus Before Pilate - Second Interview                                          | Jėzus prieš Pilotą – antrasis interviu                                  |
+| Jesus Being Crucified                                                           | Jėzus nukryžiuotas                                                      |
+| Jesus calls Levi                                                                | Jėzus pašaukia Levį                                                     |
+| Jesus Carried to the Tomb                                                       | Jėzus nuneštas į kapą                                                   |
+| Jesus Carried up to a Pinnacle of the Temple                                    | Jėzus nuneštas į šventyklos viršūnę                                     |
+| Jesus Casts Out The Money Changers                                              | Jėzus išstumia pinigų keitėjus                                          |
+| Jesus Chases a Possessed Man                                                    | Jėzus vejasi apsėstą vyrą                                               |
+| Jesus Commands the Apostles to Rest                                             | Jėzus įsako apaštalams ilsėtis                                          |
+| Jesus Discourses with His Disciples                                             | Jėzus kalbasi su savo mokiniais                                         |
+| Jesus Falls Beneath the Cross                                                   | Jėzus krinta po kryžiumi                                                |
+| Jesus Forbids the Carrying of Loads                                             | Jėzus draudžia nešti krovinius                                          |
+| Jesus Found in the Temple                                                       | Jėzus rastas šventykloje                                                |
+| Jesus Goes in the Evening to Bethany                                            | Jėzus eina vakare į Betaniją                                            |
+| Jesus Goes Up Alone onto a Mountain to Pray                                     | Jėzus vienas kyla į kalną melstis                                       |
+| Jesus Heals a Mute Possessed Man                                                | Jėzus išgydo nebylį apsėstą vyrą                                        |
+| Jesus Heals the Blind and Lame on the Mountain                                  | Jėzus išgydo akluosius ir luošus ant kalno                              |
+| Jesus Heals The Widow of Nains Son                                              | Jėzus išgydo Naino sūnų našlę                                           |
+| Jesus in the house of Annas                                                     | Jėzus Anas namuose                                                      |
+| Jesus in the Sepulchre                                                          | Jėzus kape                                                              |
+| Jesus in way to Getsemani                                                       | Jėzus pakeliui į Getsemani                                              |
+| Jesus Leaves the Praetorium                                                     | Jėzus palieka pretorijų                                                 |
+| Jesus Led from Caiaphas to Pilate                                               | Jėzus vedė nuo Kajafo iki Piloto                                        |
+| Jesus Led from Herod to Pilate                                                  | Jėzus vedė nuo Erodo iki Piloto                                         |
+| Jesus Mary Magdalene and Martha at Bethany                                      | Jėzus Marija Magdalietė ir Morta Betanijoje                             |
+| Jesus Meets His Mother                                                          | Jėzus sutinka savo motiną                                               |
+| Jesus Ministered to by Angels                                                   | Jėzui tarnavo angelai                                                   |
+| Jesus Preaches in a Ship                                                        | Jėzus pamokslauja laive                                                 |
+| Jesus Sleeping During the Tempest                                               | Jėzus miega per audrą                                                   |
+| Jesus Speaks Near the Treasury                                                  | Jėzus kalba šalia iždo                                                  |
+| Jesus Stilling the Tempest                                                      | Jėzus slopina audrą                                                     |
+| Jesus Stripped of His Clothing                                                  | Jėzus nusivilko drabužius                                               |
+| Jesus Taken from the Cistern                                                    | Jėzus paimtas iš cisternos                                              |
+| Jesus Teaches in the Synagogues                                                 | Jėzus moko sinagogose                                                   |
+| Jesus Teaches the People by the Sea                                             | Jėzus moko žmones prie jūros                                            |
+| Jesus Teaching on the Sea-Shore                                                 | Jėzaus mokymas ant jūros kranto                                         |
+| Jesus Tempted                                                                   | Jėzus gundė                                                             |
+| Jesus Tempted in the Wilderness                                                 | Jėzus gundomas dykumoje                                                 |
+| Jesus Transported by a Spirit onto a High Mountain                              | Jėzus dvasios perkeltas į aukštą kalną                                  |
+| Jesus Traveling                                                                 | Jėzus keliauja                                                          |
+| Jesus Unrolls the Book in the Synagogue                                         | Jėzus išvynioja knygą sinagogoje                                        |
+| Jesus Walks in the Portico of Solomon                                           | Jėzus vaikšto Saliamono prieangyje                                      |
+| Jesus Walks on the Sea                                                          | Jėzus vaikšto jūra                                                      |
+| Jesus Went Out into a Desert Place                                              | Jėzus išėjo į dykumos vietą                                             |
+| Jesus Wept                                                                      | Jėzus verkė                                                             |
+| Joseph and Mary arrive at Bethlehem                                             | Juozapas ir Marija atvyksta į Betliejų                                  |
+| Joseph of Arimathaea                                                            | Juozapas iš Arimatėjos                                                  |
+| Joseph of Arimathaea Seeks Pilate to Beg Permission to Remove the Body of Jesus | Juozapas iš Arimatėjos siekia Piloto prašyti leidimo nuimti Jėzaus kūną |
+| Journey of the Magi                                                             | Magų kelionė                                                            |
+| Judas Goes to Find the Jews                                                     | Judas eina ieškoti žydų                                                 |
+| Judas Hangs Himself                                                             | Judas pasikabina                                                        |
+| Judas Iscariot                                                                  | Judas Iskariotas                                                        |
+| Judas Leaves the Cenacle                                                        | Judas palieka kainalę                                                   |
+| Judas Returns the Money                                                         | Judas grąžina pinigus                                                   |
+| Judas treachery                                                                 | Judo klasta                                                             |
+| Last Supper                                                                     | Paskutinė vakarienė                                                     |
+| Lazarus                                                                         | Lozorius                                                                |
+| Lazarus come forth                                                              | Lozorius išeina                                                         |
+| Let Him Be Crucified                                                            | Tegul Jį nukryžiuoja                                                    |
+| Lord I Am Not Worthy                                                            | Viešpatie, aš nevertas                                                  |
+| Lydia of Thyatira                                                               | Lidija Tiatyrietė                                                       |
+| Magi enters Jerusalem                                                           | Magai įžengia į Jeruzalę                                                |
+| Magi in the House of Herod                                                      | Magai Erodo namuose                                                     |
+| Maltreatments in the House of Caiaphas                                          | Blogas elgesys Kajafo namuose                                           |
+| Martha                                                                          | Morta                                                                   |
+| Martha and Mary                                                                 | Morta ir Marija                                                         |
+| Mary Magdalene and the Holy Women                                               | Marija Magdalietė ir šventosios moterys                                 |
+| Mary Magdalene at the Feet of Jesus                                             | Marija Magdalietė prie Jėzaus kojų                                      |
+| Mary Magdalene Questions the Angels                                             | Marija Magdalietė klausia angelų                                        |
+| Mary sister Lazarus                                                             | Marija sesuo Lozorius                                                   |
+| Mater Dolorosa                                                                  | Mater Dolorosa                                                          |
+| Meal of Our Lord and the Apostles                                               | Mūsų Viešpaties ir apaštalų valgis                                      |
+| Moses                                                                           | Mozė                                                                    |
+| My God My God why hast thou forsaken me                                         | Dieve mano Dieve, kodėl mane apleidai                                   |
+| My Name is Legion                                                               | Mano vardas Legionas                                                    |
+| My Soul is Sorrowful unto Death                                                 | Mano siela liūdna iki mirties                                           |
+| Nathaniel Under the Fig Tree                                                    | Natanielis po figmedžiu                                                 |
+| Nicodemus                                                                       | Nikodemas                                                               |
+| Noli me tangere                                                                 | Noli me tangere                                                         |
+| On Entering the House Salute It                                                 | Įeinant į namą Sveikiname jį                                            |
+| On Return from Jerusalem, It is Noticed that Jesus is Lost                      | Grįžus iš Jeruzalės, Pastebima, kad Jėzus pasiklydo                     |
+| Ordaining of the Twelve Apostles                                                | Dvylikos apaštalų įšventinimas                                          |
+| Our Lord Jesus Christ                                                           | Mūsų Viešpats Jėzus Kristus                                             |
+| Pilate Washes His Hands                                                         | Pilotas nusiplauna rankas                                               |
+| Portrait of Zacharias and Elizabeth                                             | Zacharijaus ir Elžbietos portretas                                      |
+| Preparation For The Last Supper                                                 | Pasiruošimas Paskutinei vakarienei                                      |
+| Priscilla, wife of Aquila                                                       | Priscilla, Akvilo žmona                                                 |
+| Raising of Lazarus                                                              | Lozoriaus iškėlimas                                                     |
+| Reconstruction of Golgotha                                                      | Golgotos rekonstrukcija                                                 |
+| Reconstruction of Golgotha and the Holy Sepulchre                               | Golgotos ir Šventojo kapo rekonstrukcija                                |
+| Resurrection of Lazarus                                                         | Lozoriaus prisikėlimas                                                  |
+| Resurrection of the son                                                         | Sūnaus prisikėlimas                                                     |
+| Return from Egypt                                                               | Grįžimas iš Egipto                                                      |
+| Road to Emmaus                                                                  | Kelias į Emausą                                                         |
+| Saint Andrew                                                                    | Šventasis Andriejus                                                     |
+| Saint Anne                                                                      | Šventoji Ona                                                            |
+| Saint Bartholomew                                                               | Šventasis Baltramiejus                                                  |
+| Saint James Major                                                               | Šventasis Jokūbas Majoras                                               |
+| Saint James the Less                                                            | Šventasis Jokūbas Mažasis                                               |
+| Saint John the Baptist and the Pharisees                                        | Šventasis Jonas Krikštytojas ir fariziejai                              |
+| Saint John the Baptist Sees Jesus from Afar                                     | Šventasis Jonas Krikštytojas mato Jėzų iš toli                          |
+| Saint John the Evangelist                                                       | Šventasis evangelistas Jonas                                            |
+| Saint Joseph                                                                    | Šventasis Juozapas                                                      |
+| Saint Joseph Seeks a Lodging in Bethlehem                                       | Šventasis Juozapas ieško nakvynės Betliejuje                            |
+| Saint Luke                                                                      | Šventasis Lukas                                                         |
+| Saint Mark                                                                      | Šventasis Markas                                                        |
+| Saint Matthew                                                                   | Šventasis Matas                                                         |
+| Saint Paul                                                                      | Šventasis Paulius                                                       |
+| Saint Peter                                                                     | Šventasis Petras                                                        |
+| Saint Peter Alerted by Saint John                                               | Šventasis Petras perspėjo Šventasis Jonas                               |
+| Saint Peter and Saint John Follow from Afar                                     | Šventasis Petras ir Šventasis Jonas Sekite iš toli                      |
+| Saint Peter and Saint John Run                                                  | Šventasis Petro ir Jono bėgimas                                         |
+| Saint Peter Walks on the Sea                                                    | Šventasis Petras vaikšto jūra                                           |
+| Saint Philip                                                                    | Šventasis Pilypas                                                       |
+| Saint Simon                                                                     | Šventasis Simonas                                                       |
+| Saint Thaddeus or Saint Jude                                                    | Šventasis Tadas arba Šventasis Judas                                    |
+| Saint Thomas                                                                    | Šventasis Tomas                                                         |
+| Sermon On The Mount                                                             | Kalno pamokslas                                                         |
+| Simeon                                                                          | Simeonas                                                                |
+| Simon the Cyrenian and His Two Sons                                             | Simonas Kirėnietis ir du jo sūnūs                                       |
+| Simon the Cyrenian Compelled                                                    | Simonas Kirėnietis priverstas                                           |
+| Sir what must I do                                                              | Pone, ką aš turiu daryti                                                |
+| St. Peter Released from Prison                                                  | Šventasis Petras paleistas iš kalėjimo                                  |
+| Suffer the Children                                                             | Kenčia vaikai                                                           |
+| Suffer the Little Children to Come unto Me                                      | Leisk mažiems vaikams ateiti pas mane                                   |
+| The Accursed Fig Tree                                                           | Prakeiktas figmedis                                                     |
+| The Adoration of the Magi                                                       | Magų garbinimas                                                         |
+| The Adoration of the Shepherds                                                  | Piemenų garbinimas                                                      |
+| The Adulterous Woman                                                            | Svetimaujanti moteris                                                   |
+| The Adulterous Woman Alone with Jesus                                           | Svetimaujanti moteris viena su Jėzumi                                   |
+| The Angel Seated on the Stone of the Tomb                                       | Angelas sėdi ant kapo akmens                                            |
+| The Annunciation                                                                | Apreiškimas                                                             |
+| The Anxiety of Saint Joseph                                                     | Šventojo Juozapo nerimas                                                |
+| The Apostles Hiding Place                                                       | Apaštalų slėptuvė                                                       |
+| The Appearance of Christ at the Cenacle                                         | Kristaus pasirodymas Cenakulėje                                         |
+| The Ascension                                                                   | Ascension                                                               |
+| The Axe in the Trunk of the Tree                                                | Kirvis medžio kamiene                                                   |
+| The Bad Rich Man in Hell                                                        | Blogas turtingas žmogus pragare                                         |
+| The Baptism of Jesus                                                            | Jėzaus krikštas                                                         |
+| The Baptism of Christ                                                           | Kristaus krikštas                                                       |
+| The Betrothal of the Holy Virgin and Saint Joseph                               | Mergelės ir šventojo Juozapo sužadėtuvės                                |
+| The Betrothed of Cana                                                           | Kanos sužadėtinė                                                        |
+| The Birth of Our Lord Jesus Christ                                              | Mūsų Viešpaties Jėzaus Kristaus gimimas                                 |
+| The Blind and Mute Man Possessed by Devils                                      | Velnių apsėstas aklas ir nebylys žmogus                                 |
+| The Blind in the Ditch                                                          | Aklas griovyje                                                          |
+| The Blind Man Washes in the Pool of Siloam                                      | Aklas prausiasi Siloamo baseine                                         |
+| The Blind of Capernaum                                                          | Kafarnaumo aklas                                                        |
+| The Body of Jesus Carried                                                       | Jėzaus Kūną nešė                                                        |
+| The Bridge of Kedron                                                            | Kedrono tiltas                                                          |
+| The Brow of the Hill near Nazareth                                              | Kalno kakta netoli Nazareto                                             |
+| The call of Andrew and Peter                                                    | Andriaus ir Petro skambutis                                             |
+| The Calling of Saint James and Saint John                                       | Šventojo Jokūbo ir šventojo Jono pašaukimas                             |
+| The Calling of Saint John and Saint Andrew                                      | Šventojo Jono ir Šventojo Andriejaus pašaukimas                         |
+| The Calling of Saint Matthew                                                    | Šventojo Mato pašaukimas                                                |
+| The Calling of Saint Peter and Saint Andrew                                     | Šventojo Petro ir Šventojo Andriejaus pašaukimas                        |
+| The Canaanites Daughter                                                         | Kanaaniečių dukra                                                       |
+| The Centurion                                                                   | Šimtininkas                                                             |
+| The Chasm in the Rock in the Cave                                               | Uolos bedugnė urve                                                      |
+| The Chief Priests Ask Jesus                                                     | Vyresnieji kunigai klausia Jėzaus                                       |
+| The Chief Priests Take Counsel Together                                         | Vyriausi kunigai tariasi kartu                                          |
+| The Childhood of Saint John the Baptist                                         | Jono Krikštytojo vaikystė                                               |
+| The Cock Crowed                                                                 | Gaidys pragiedojo                                                       |
+| The Communion of the Apostles                                                   | Apaštalų bendrystė                                                      |
+| The Confession of Saint Longinus                                                | Šventojo Longino išpažintis                                             |
+| The Confession of the Centurion                                                 | Šimtininko išpažintis                                                   |
+| The Corner Stone                                                                | Kampinis akmuo                                                          |
+| The Crowning of Thorns                                                          | Erškėčių vainikavimas                                                   |
+| The Crucifixion                                                                 | Nukryžiavimas                                                           |
+| The Daughter of Herodias Dancing                                                | Šokanti Erodijos dukra                                                  |
+| The Daughter of Jairus                                                          | Jairo dukra                                                             |
+| The Daughters of Jerusalem                                                      | Jeruzalės dukros                                                        |
+| The Dead Appear in Jerusalem                                                    | Jeruzalėje pasirodo mirusieji                                           |
+| The Dead Appear in the Temple                                                   | Mirusieji pasirodo šventykloje                                          |
+| The Death of Jesus                                                              | Jėzaus mirtis                                                           |
+| The Descent from the Cross                                                      | Nusileidimas nuo kryžiaus                                               |
+| The Disbelief of Saint Thomas                                                   | Šventojo Tomo netikėjimas                                               |
+| The Disciples Admire the Buildings                                              | Mokiniai žavisi pastatais                                               |
+| The Disciples Eat Wheat on the Sabbath                                          | Mokiniai per šabą valgo kviečius                                        |
+| The Disciples Having Left Their Hiding                                          | Mokiniai paliko savo slėptuves                                          |
+| The Disciples of Jesus Baptize                                                  | Jėzaus mokiniai krikštija                                               |
+| The Disciples See Christ Walking on the Water                                   | Mokiniai mato Kristų, einantį vandeniu                                  |
+| The Disciples visit tomb                                                        | Mokiniai aplanko kapą                                                   |
+| The Ear of Malchus                                                              | Malcho ausis                                                            |
+| The Earthquake                                                                  | Žemės drebėjimas                                                        |
+| The Enemy Who Sows                                                              | Priešas, kuris sėja                                                     |
+| The ever present                                                                | Visada esama                                                            |
+| The Evil Counsel                                                                | Blogasis patarėjas                                                      |
+| The Exhortation to the Apostles                                                 | Paraginimas apaštalams                                                  |
+| The False Witnesses                                                             | Klaidingi liudytojai                                                    |
+| The First Denial of Saint Peter                                                 | Pirmasis šventojo Petro paneigimas                                      |
+| The First Nail                                                                  | Pirmasis nagas                                                          |
+| The First Shall Be Last                                                         | Pirmasis bus paskutinis                                                 |
+| The Five Wedges                                                                 | Penki pleištai                                                          |
+| The Flight into Egypt                                                           | Skrydis į Egiptą                                                        |
+| The Flight of the Apostles                                                      | Apaštalų skrydis                                                        |
+| The Foal of Bethpage                                                            | Bethpage kumeliukas                                                     |
+| The Foolish Virgins                                                             | Kvailios mergelės                                                       |
+| The Four Guards Sat Down and Watched Him                                        | Keturi sargybiniai atsisėdo ir stebėjo jį                               |
+| The Garments Divided by Cast Lots                                               | Drabužiai, padalyti dalimis                                             |
+| The Gentiles Ask to See Jesus                                                   | Pagonys prašo pamatyti Jėzų                                             |
+| The Good Samaritan                                                              | Gerasis samarietis                                                      |
+| The Good Shepherd                                                               | Gerasis ganytojas                                                       |
+| The Grotto of the Agony                                                         | Agonijos grota                                                          |
+| The Guards Falling Backwards                                                    | Sargybiniai krinta atgal                                                |
+| The Head of Saint John the Baptist on a Charger                                 | Šventojo Jono Krikštytojo galva ant įkroviklio                          |
+| The Healed Blind Man Tells His Story to the Jews                                | Išgydytas aklas pasakoja savo istoriją žydams                           |
+| The Healing of Malchus                                                          | Malcho išgydymas                                                        |
+| The Healing of Peters Mother-in-law                                             | Peterso uošvės išgydymas                                                |
+| The Healing of Ten Lepers                                                       | Dešimties raupsuotųjų gydymas                                           |
+| The Healing of the Blind Man                                                    | Aklo žmogaus išgydymas                                                  |
+| The Healing of the Lepers at Capernaum                                          | Raupsuotųjų gydymas Kapernaume                                          |
+| The Healing of the Officer's Son                                                | Karininko sūnaus išgydymas                                              |
+| The Hidden Treasure                                                             | Paslėptas lobis                                                         |
+| The Holy Face                                                                   | Šventasis veidas                                                        |
+| The Holy Stair                                                                  | Šventieji laiptai                                                       |
+| The Holy Virgin in Her Youth                                                    | Šventoji Mergelė jaunystėje                                             |
+| The Holy Virgin in Old Age                                                      | Šventoji Mergelė senatvėje                                              |
+| The Holy Virgin Kisses the Face                                                 | Šventoji Mergelė bučiuoja veidą                                         |
+| The Holy Virgin Receives the Body                                               | Šventoji Mergelė priima kūną                                            |
+| The Holy Women                                                                  | Šventosios moterys                                                      |
+| The Holy Women Watch from Afar                                                  | Šventosios moterys žiūri iš toli                                        |
+| The Hope of the World                                                           | Pasaulio viltis                                                         |
+| The Jews Took Up Rocks to Stone Jesus                                           | Žydai paėmė akmenis Jėzų užmėtyti                                       |
+| The Judgment of the Sanhedrin                                                   | Sanhedrino sprendimas                                                   |
+| The Judgment on the Gabbatha                                                    | Nuosprendis dėl Gabatos                                                 |
+| The Kiss of Judas                                                               | Judo bučinys                                                            |
+| The Last Sermon of Our Lord                                                     | Paskutinis mūsų Viešpaties pamokslas                                    |
+| The Last Sigh of Christ                                                         | Paskutinis Kristaus atodūsis                                            |
+| The Last supper                                                                 | Paskutinė vakarienė                                                     |
+| The life of Jesus of Nazareth                                                   | Jėzaus iš Nazareto gyvenimas                                            |
+| The little child set in their midst                                             | Mažas vaikas pastatytas tarp jų                                         |
+| The Lord Wept                                                                   | Viešpats verkė                                                          |
+| The Lords Prayer                                                                | Viešpačių malda                                                         |
+| The Lost Drachma                                                                | Prarastoji Drachma                                                      |
+| The Madgalene Runs to the Cenacle                                               | „Madgalene“ bėga į Cenakulą                                             |
+| The Magdalene Before Her Conversion                                             | Magdalena prieš atsivertimą                                             |
+| The Magnificat                                                                  | Magnificat                                                              |
+| The Man at the Plough                                                           | Žmogus prie plūgo                                                       |
+| The Man Who Hoards                                                              | Žmogus, kuris kaupia                                                    |
+| The Man with an Infirmity of Thirty-Eight Years                                 | Vyras, sergantis trisdešimt aštuonerių metų negalia                     |
+| The Man with the jar of water                                                   | Žmogus su vandens stiklainiu                                            |
+| The Man with the Withered Hand                                                  | Vyras nudžiūvusia ranka                                                 |
+| The Marriage at Cana                                                            | Santuoka Kanoje                                                         |
+| The Massacre of the Innocents                                                   | Nekaltųjų žudynės                                                       |
+| The Meal in the House of Matthew                                                | Maistas Mato namuose                                                    |
+| The Meal in the House of the Pharisee                                           | Vakarienė fariziejaus namuose                                           |
+| The Merchants Chased from the Temple                                            | Prekeiviai išvijo iš šventyklos                                         |
+| The Message of Pilate's Wife                                                    | Piloto žmonos žinia                                                     |
+| The Miracle of the Loaves and Fishes                                            | Kepalų ir žuvų stebuklas                                                |
+| The Miraculous Draught of Fishes                                                | Stebuklingas žuvų juodraštis                                            |
+| The Miraculous Haul of Fishes                                                   | Stebuklingas žuvų traukimas                                             |
+| The Morning Judgment                                                            | Ryto sprendimas                                                         |
+| The Nail for the Feet                                                           | Nagas pėdoms                                                            |
+| The Ointment of the Magdalene                                                   | Magdalietės tepalas                                                     |
+| The Palsied Man Let Down through the Roof                                       | Palsuotas vyras, nuleistas per stogą                                    |
+| The Pardon of the Good Thief                                                    | Gerojo vagies atleidimas                                                |
+| The People Seek Jesus to Make Him King                                          | Žmonės siekia Jėzaus, kad Jį padarytų karaliumi                         |
+| The Pharisee and the publican                                                   | Fariziejus ir muitininkas                                               |
+| The Pharisees and the Herodians Conspire Against Jesus                          | Fariziejai ir Erodininkai sąmokslą prieš Jėzų                           |
+| The Pharisees and the Saduccees Come to Tempt Jesus                             | Fariziejai ir sadukiejai ateina gundyti Jėzaus                          |
+| The Pharisees Question Jesus                                                    | Fariziejai klausia Jėzaus                                               |
+| The Pilgrims of Emmaus on the Road                                              | Emauso piligrimai kelyje                                                |
+| The Piscina Probatica or Pool of Bethesda                                       | Piscina Probatica arba Betesdos baseinas                                |
+| The Poor Lazarus at the Rich Man's Door                                         | Vargšas Lozorius prie turtingo žmogaus durų                             |
+| The Possessed Boy at the Foot of Mount Tabor                                    | Apsėstas berniukas Taboro kalno papėdėje                                |
+| The Possessed Man in the Synagogue                                              | Apsėstas žmogus sinagogoje                                              |
+| The Presentation of Jesus in the Temple                                         | Jėzaus pristatymas šventykloje                                          |
+| The Primacy of Saint Peter                                                      | Šventojo Petro pirmenybė                                                |
+| The Procession in the Streets                                                   | Procesija gatvėmis                                                      |
+| The Procession in the Temple                                                    | Procesija šventykloje                                                   |
+| The Procession Nearing Calvary                                                  | Procesija Artėjant Kalvarijai                                           |
+| The Procession of Judas                                                         | Judo procesija                                                          |
+| The Procession on the Mount of Olives                                           | Procesija Alyvų kalne                                                   |
+| The Prodigal Son                                                                | Sūnus palaidūnas                                                        |
+| The Prodigal Son Begging                                                        | Sūnus palaidūnas elgetauja                                              |
+| The Prophecy of the Destruction of the Temple                                   | Šventyklos sunaikinimo pranašystė                                       |
+| The Protestations of Saint Peter                                                | Šventojo Petro protestai                                                |
+| The raising of the cross                                                        | Kryžiaus pakėlimas                                                      |
+| The Repentant Mary Magdalene                                                    | Atgailaujanti Marija Magdalietė                                         |
+| The Resurrection                                                                | Prisikėlimas                                                            |
+| The Resurrection heralds                                                        | Prisikėlimo šaukliai                                                    |
+| The Resurrection Of Christ                                                      | Kristaus prisikėlimas                                                   |
+| The Resurrection of the Widows Son at Nain                                      | Našlių sūnaus prisikėlimas Naine                                        |
+| The Return of the Prodigal Son                                                  | Sūnaus palaidūno sugrįžimas                                             |
+| The Rich Young Man Went Away Sorrowful                                          | Turtingas jaunuolis išėjo liūdnas                                       |
+| The rich young ruler                                                            | Turtingas jaunas valdovas                                               |
+| The Scourging on the Back                                                       | Nugaros plakimas                                                        |
+| The Scourging on the Front                                                      | Plaukimas fronte                                                        |
+| The Scribe Stood to Tempt Jesus                                                 | Rašto žinovas stovėjo gundyti Jėzų                                      |
+| The Second Denial of Saint Peter                                                | Antrasis Šventojo Petro neigimas                                        |
+| The Second Miraculous Draught of Fishes                                         | Antrasis stebuklingas žuvų juodraštis                                   |
+| The Sermon of the Beatitudes                                                    | Palaiminimų pamokslas                                                   |
+| The Sermon on the Mount                                                         | Kalno pamokslas                                                         |
+| The Shepherds and the Angel                                                     | Piemenys ir angelas                                                     |
+| The Sick Awaiting the Passage of Jesus                                          | Ligoniai, laukiantys Jėzaus išėjimo                                     |
+| The Sojourn in Egypt                                                            | Viešnagė Egipte                                                         |
+| The Son of the Vineyard                                                         | Vynuogyno sūnus                                                         |
+| The Sorrow of Saint Peter                                                       | Šventojo Petro sielvartas                                               |
+| The Sorrowful Mother                                                            | Liūdna Motina                                                           |
+| The Soul of the Good Thief                                                      | Gerojo vagies siela                                                     |
+| The Sower                                                                       | Sėjėjas                                                                 |
+| The Strike of the Lance                                                         | Lance smūgis                                                            |
+| The Swine Driven into the Sea                                                   | Į jūrą įvaryta kiaulė                                                   |
+| The Temptation in the Wilderness                                                | Pagunda dykumoje                                                        |
+| The Testing of the Suitors of the Holy Virgin                                   | Šventosios Mergelės piršlių išbandymas                                  |
+| The Thieves Legs Are Broken                                                     | Vagims sulaužytos kojos                                                 |
+| The Third Denial of Peter                                                       | Trečiasis Petro neigimas                                                |
+| The Title on the Cross                                                          | Titulas ant kryžiaus                                                    |
+| The Torn Cloak                                                                  | Suplėšytas apsiaustas                                                   |
+| The Tower of Siloam                                                             | Siloamo bokštas                                                         |
+| The transfiguration                                                             | Atsimainymas                                                            |
+| The Tribunal of Annas                                                           | Anaso tribunolas                                                        |
+| The Tribute Money                                                               | Tribute Money                                                           |
+| The Two Blind Men at Jericho                                                    | Du aklieji Jeriche                                                      |
+| The Two Marys Watch the Tomb                                                    | Dvi Marijos žiūri į kapą                                                |
+| The Two Men Possessed with Devils                                               | Du vyrai, apsėsti velnių                                                |
+| The Two Women at the Mill                                                       | Dvi moterys prie malūno                                                 |
+| The Vase of Myrrh and Gall                                                      | Miros ir tulžies vaza                                                   |
+| The Vine Dresser and the Fig Tree                                               | Vynuogių dresūra ir figmedis                                            |
+| The Vision of Saint Joseph                                                      | Šventojo Juozapo vizija                                                 |
+| The Vision of Zacharias                                                         | Zacharijaus vizija                                                      |
+| The Visitation                                                                  | Apsilankymas                                                            |
+| The Voice from on High                                                          | Balsas iš aukšto                                                        |
+| The Voice in the Desert                                                         | Balsas dykumoje                                                         |
+| The Washing of the Feet                                                         | Pėdų plovimas                                                           |
+| The Watch Over the Tomb                                                         | The Watch Over the Tomb                                                 |
+| The wedding at Cana                                                             | Vestuvės Kanoje                                                         |
+| The Widows Mite                                                                 | Našlių erkė                                                             |
+| The Wise Virgins                                                                | Išmintingosios mergelės                                                 |
+| The Woman of Canaan                                                             | Moteris iš Kanaano                                                      |
+| The Woman of Samaria at the Well (Nalda the samaritan)                          | Samarijos moteris prie šulinio (Nalda samarietė)                        |
+| The Woman with an Infirmity of Eighteen Years                                   | Aštuoniolika metų serganti moteris                                      |
+| The Woman with an Issue of Blood                                                | Moteris su kraujo problema                                              |
+| The Youth of Jesus                                                              | Jėzaus jaunystė                                                         |
+| They Dressed Him in His Own Garments                                            | Jie aprengė jį jo paties drabužiais                                     |
+| Three hundred and sixty-five                                                    | Trys šimtai šešiasdešimt penki                                          |
+| Touch Me Not                                                                    | Neliesk manęs                                                           |
+| Transfiguration                                                                 | Atsimainymas                                                            |
+| Two or Three Gathered in my Name                                                | Du ar trys susirinko mano vardu                                         |
+| What is truth?                                                                  | Kas yra tiesa?                                                          |
+| What Our Lord Saw from the Cross                                                | Ką mūsų Viešpats matė nuo kryžiaus                                      |
+| With Passover Approaching, Jesus Goes Up to Jerusalem                           | Artėjant Paschai, Jėzus kyla į Jeruzalę                                 |
+| Woe unto You Scribes and Pharisees                                              | Vargas jums Rašto žinovai ir fariziejai                                 |
+| Woman at the Sepulchre                                                          | Moteris prie kapo                                                       |
+| Woman at the Well (Nalda the samaritan)                                         | Moteris prie šulinio (Nalda samarietė)                                  |
+| You Could Not Watch One Hour                                                    | Jūs negalėjote žiūrėti vienos valandos                                  |
+| You Follow Me for the Miracles                                                  | Sekite mane dėl stebuklų                                                |
+| Zacchaeus in the Sycamore Awaiting the Passage of Jesus                         | Zachiejus platanalapyje, laukiantis Jėzaus perėjimo                     |
+| Zachaeus in tree                                                                | Zachiejus medyje                                                        |
+| Zacharias Killed Between the Temple and the Altar                               | Zacharijas nužudytas tarp šventyklos ir altoriaus                       |
+| Jesus face                                                                      | Jėzaus veidas                                                           |

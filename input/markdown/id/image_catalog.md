@@ -1,0 +1,425 @@
+<!--
+This file contains only translations of different texts
+Main tables are in /input/markdown/en/image_catalog.md
+-->
+
+| title                                                                           | translation                                                                     |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| A Holy Woman Wipes the Face of Jesus                                            | Seorang Wanita Suci Menyeka Wajah Yesus                                         |
+| A lesson in humility                                                            | Pelajaran tentang kerendahan hati                                               |
+| A Woman Cries Out in a Crowd                                                    | Seorang Wanita Menangis di Kerumunan                                            |
+| Address to Saint Philip                                                         | Alamat ke Saint Philip                                                          |
+| Agnus-Dei: The Scapegoat                                                        | Agnus-Dei: Kambing Hitam                                                        |
+| All the City Was Gathered at His Door                                           | Seluruh Kota Berkumpul di Depan Pintunya                                        |
+| Angel and the Shepherds                                                         | Malaikat dan Gembala                                                            |
+| Angels Holding a Dial Indicating the Different Hours of the Acts of the Passion | Malaikat Memegang Dial yang Menunjukkan Jam Berbeda dari Kisah Sengsara         |
+| Anguish                                                                         | Kesedihan                                                                       |
+| Annas and Caiaphas                                                              | Hanas dan Kayafas                                                               |
+| Anointing of Jesus                                                              | Urapan Yesus                                                                    |
+| Barabbas                                                                        | Barabas                                                                         |
+| Bartimaeus                                                                      | Bartimeus                                                                       |
+| Birds-Eye View of the Forum                                                     | Pandangan Mata Burung dari Forum                                                |
+| Burial of Christ                                                                | Pemakaman Kristus                                                               |
+| But No Man Laid Hands Upon Him                                                  | Tapi Tidak Ada Orang yang Menatapnya                                            |
+| Calming a storm                                                                 | Menenangkan badai                                                               |
+| Christ and Mary Magdalene                                                       | Kristus dan Maria Magdalena                                                     |
+| Christ And The Rich Young Ruler                                                 | Kristus Dan Penguasa Muda Yang Kaya                                             |
+| Christ Appears on the Shore of Lake Tiberias                                    | Kristus Muncul di Tepi Danau Tiberias                                           |
+| Christ at the Cross                                                             | Kristus di Salib                                                                |
+| Christ Carried Down to the Tomb                                                 | Kristus Dibawa ke Kubur                                                         |
+| Christ healing the sick                                                         | Kristus menyembuhkan orang sakit                                                |
+| Christ in the Storm on the Sea of Galilee                                       | Kristus dalam Badai di Laut Galilea                                             |
+| Christ in the Wilderness                                                        | Kristus di Padang Belantara                                                     |
+| Christ on the Cross                                                             | Kristus di Kayu Salib                                                           |
+| Christ on the Sea of Galilee                                                    | Kristus di Danau Galilea                                                        |
+| Conspiracy of the Jews                                                          | Konspirasi Yahudi                                                               |
+| Consummatum Est                                                                 | Perkiraan Konsumatum                                                            |
+| Crucified Christ                                                                | Kristus yang Tersalib                                                           |
+| Crucifixion                                                                     | Penyaliban                                                                      |
+| Curses Against the Pharisees                                                    | Kutukan Terhadap Orang Farisi                                                   |
+| Ecce homo                                                                       | Ecce homo                                                                       |
+| Elisabeth                                                                       | Elisabeth                                                                       |
+| Entry into Jerusalem                                                            | Masuk ke Yerusalem                                                              |
+| Feed My Lambs                                                                   | Beri Makan Domba Saya                                                           |
+| Feeding the multitude                                                           | Memberi makan orang banyak                                                      |
+| Flight into Egypt                                                               | Penerbangan ke Mesir                                                            |
+| Get Thee Behind Me Satan                                                        | Dapatkan Engkau Di Belakangku Setan                                             |
+| Gethsemane                                                                      | Getsemani                                                                       |
+| He Heals the Lame                                                               | Dia Menyembuhkan Orang Lemah                                                    |
+| He Sent them out Two by Two                                                     | Dia Mengirim mereka Dua demi Dua                                                |
+| He Vanished from Their Sight                                                    | Dia Menghilang dari Pandangan Mereka                                            |
+| He Went on His Way to Ephraim                                                   | Dia Pergi ke Efraim                                                             |
+| He Went Through the Villages                                                    | Dia Pergi Melalui Desa                                                          |
+| He Who is of God Hears the Word of God                                          | Dia yang berasal dari Tuhan Mendengar Firman Tuhan                              |
+| He Who Winnows His Wheat                                                        | Dia Yang Menampi Gandumnya                                                      |
+| Healing the sick                                                                | Menyembuhkan orang sakit                                                        |
+| Herod                                                                           | Herodes                                                                         |
+| I have fought a good fight                                                      | Saya telah melakukan pertarungan yang bagus                                     |
+| I Thirst: The Vinegar Given to Jesus                                            | I Haus: Cuka yang Diberikan kepada Yesus                                        |
+| In the Villages the Sick Were Presented to Him                                  | Di Desa Orang Sakit Dipersembahkan kepada-Nya                                   |
+| Interview between Jesus and Nicodemus                                           | Wawancara antara Yesus dan Nikodemus                                            |
+| Jerusalem Jerusalem                                                             | Yerusalem Yerusalem                                                             |
+| Jerusalem pilgrims                                                              | Peziarah Yerusalem                                                              |
+| Jesus Alone on the Cross                                                        | Yesus Sendiri di Kayu Salib                                                     |
+| Jesus Amidst The Doctors In The Temple                                          | Yesus Di Tengah Para Tabib Di Bait Suci                                         |
+| Jesus Among the Doctors                                                         | Yesus Diantara Para Dokter                                                      |
+| Jesus and his Mother at the Fountain                                            | Yesus dan Ibunya di Air Mancur                                                  |
+| Jesus and Nicodemus                                                             | Yesus dan Nikodemus                                                             |
+| Jesus and the Little Child                                                      | Yesus dan Anak Kecil                                                            |
+| Jesus Appears to Mary Magdalene                                                 | Yesus Menampakkan Diri kepada Maria Magdalena                                   |
+| Jesus appears to the disciples                                                  | Yesus menampakkan diri kepada para murid                                        |
+| Jesus Appears to the Holy Women                                                 | Yesus Menampakkan Diri kepada Wanita Kudus                                      |
+| Jesus at Pilate's court                                                         | Yesus di istana Pilatus                                                         |
+| Jesus Bearing the Cross                                                         | Yesus Memikul Salib                                                             |
+| Jesus Before Herod                                                              | Yesus Sebelum Herodes                                                           |
+| Jesus Before Pilate - First Interview                                           | Yesus Sebelum Pilatus - Wawancara Pertama                                       |
+| Jesus Before Pilate - Second Interview                                          | Yesus Sebelum Pilatus - Wawancara Kedua                                         |
+| Jesus Being Crucified                                                           | Yesus Disalibkan                                                                |
+| Jesus calls Levi                                                                | Yesus memanggil Lewi                                                            |
+| Jesus Carried to the Tomb                                                       | Yesus Dibawa ke Makam                                                           |
+| Jesus Carried up to a Pinnacle of the Temple                                    | Yesus Diangkat ke Puncak Bait Suci                                              |
+| Jesus Casts Out The Money Changers                                              | Yesus Mengusir Para Penukar Uang                                                |
+| Jesus Chases a Possessed Man                                                    | Yesus Mengejar Orang Kerasukan                                                  |
+| Jesus Commands the Apostles to Rest                                             | Yesus Memerintahkan Para Rasul untuk Beristirahat                               |
+| Jesus Discourses with His Disciples                                             | Yesus Berkhotbah dengan Murid-murid-Nya                                         |
+| Jesus Falls Beneath the Cross                                                   | Yesus Jatuh di Bawah Salib                                                      |
+| Jesus Forbids the Carrying of Loads                                             | Yesus Melarang Membawa Beban                                                    |
+| Jesus Found in the Temple                                                       | Yesus Ditemukan di Bait Allah                                                   |
+| Jesus Goes in the Evening to Bethany                                            | Yesus Pergi di Malam Hari ke Betania                                            |
+| Jesus Goes Up Alone onto a Mountain to Pray                                     | Yesus Naik Sendirian ke Gunung untuk Berdoa                                     |
+| Jesus Heals a Mute Possessed Man                                                | Yesus Menyembuhkan Orang Bisu Kerasukan                                         |
+| Jesus Heals the Blind and Lame on the Mountain                                  | Yesus Menyembuhkan Orang Buta dan Timpang di Gunung                             |
+| Jesus Heals The Widow of Nains Son                                              | Yesus Menyembuhkan Putra Janda Nains                                            |
+| Jesus in the house of Annas                                                     | Yesus di rumah Hanas                                                            |
+| Jesus in the Sepulchre                                                          | Yesus di Makam                                                                  |
+| Jesus in way to Getsemani                                                       | Yesus dalam perjalanan ke Getsemani                                             |
+| Jesus Leaves the Praetorium                                                     | Yesus Meninggalkan Praetorium                                                   |
+| Jesus Led from Caiaphas to Pilate                                               | Yesus Dipimpin dari Kayafas ke Pilatus                                          |
+| Jesus Led from Herod to Pilate                                                  | Yesus Dipimpin dari Herodes ke Pilatus                                          |
+| Jesus Mary Magdalene and Martha at Bethany                                      | Yesus Maria Magdalena dan Marta di Betania                                      |
+| Jesus Meets His Mother                                                          | Yesus Bertemu Ibu-Nya                                                           |
+| Jesus Ministered to by Angels                                                   | Yesus Dilayani oleh Malaikat                                                    |
+| Jesus Preaches in a Ship                                                        | Yesus Berkhotbah di Kapal                                                       |
+| Jesus Sleeping During the Tempest                                               | Yesus Tidur Selama Badai                                                        |
+| Jesus Speaks Near the Treasury                                                  | Yesus Berbicara Dekat Perbendaharaan                                            |
+| Jesus Stilling the Tempest                                                      | Yesus Menenangkan Badai                                                         |
+| Jesus Stripped of His Clothing                                                  | Yesus Dilucuti Pakaiannya                                                       |
+| Jesus Taken from the Cistern                                                    | Yesus Diambil dari Sumur                                                        |
+| Jesus Teaches in the Synagogues                                                 | Yesus Mengajar di Sinagoga                                                      |
+| Jesus Teaches the People by the Sea                                             | Yesus Mengajar Orang-orang di Tepi Laut                                         |
+| Jesus Teaching on the Sea-Shore                                                 | Yesus Mengajar di Tepi Laut                                                     |
+| Jesus Tempted                                                                   | Yesus Dicobai                                                                   |
+| Jesus Tempted in the Wilderness                                                 | Yesus Dicobai di Padang Belantara                                               |
+| Jesus Transported by a Spirit onto a High Mountain                              | Yesus Diangkut oleh Roh ke Gunung Tinggi                                        |
+| Jesus Traveling                                                                 | Yesus Bepergian                                                                 |
+| Jesus Unrolls the Book in the Synagogue                                         | Yesus Membuka Gulungan Kitab di Sinagoga                                        |
+| Jesus Walks in the Portico of Solomon                                           | Yesus Berjalan di Serambi Salomo                                                |
+| Jesus Walks on the Sea                                                          | Yesus Berjalan di Laut                                                          |
+| Jesus Went Out into a Desert Place                                              | Yesus Pergi ke Tempat Gurun                                                     |
+| Jesus Wept                                                                      | Yesus Menangis                                                                  |
+| Joseph and Mary arrive at Bethlehem                                             | Yusuf dan Maria tiba di Betlehem                                                |
+| Joseph of Arimathaea                                                            | Yusuf dari Arimatea                                                             |
+| Joseph of Arimathaea Seeks Pilate to Beg Permission to Remove the Body of Jesus | Yusuf dari Arimatea Meminta Pilatus untuk Memohon Izin Mengeluarkan Tubuh Yesus |
+| Journey of the Magi                                                             | Perjalanan Orang Majus                                                          |
+| Judas Goes to Find the Jews                                                     | Yudas Pergi Mencari Orang Yahudi                                                |
+| Judas Hangs Himself                                                             | Yudas Gantung Diri                                                              |
+| Judas Iscariot                                                                  | Yudas Iskariot                                                                  |
+| Judas Leaves the Cenacle                                                        | Yudas Meninggalkan Senakel                                                      |
+| Judas Returns the Money                                                         | Yudas Mengembalikan Uang                                                        |
+| Judas treachery                                                                 | Pengkhianatan Yudas                                                             |
+| Last Supper                                                                     | Perjamuan Terakhir                                                              |
+| Lazarus                                                                         | Lazarus                                                                         |
+| Lazarus come forth                                                              | Lazarus tampil                                                                  |
+| Let Him Be Crucified                                                            | Biarkan Dia Disalibkan                                                          |
+| Lord I Am Not Worthy                                                            | Tuhan Aku Tidak Layak                                                           |
+| Lydia of Thyatira                                                               | Lidia dari Tiatira                                                              |
+| Magi enters Jerusalem                                                           | Orang Majus memasuki Yerusalem                                                  |
+| Magi in the House of Herod                                                      | Orang Majus di Rumah Herodes                                                    |
+| Maltreatments in the House of Caiaphas                                          | Penganiayaan di Keluarga Kayafas                                                |
+| Martha                                                                          | Marta                                                                           |
+| Martha and Mary                                                                 | Marta dan Maria                                                                 |
+| Mary Magdalene and the Holy Women                                               | Maria Magdalena dan Wanita Kudus                                                |
+| Mary Magdalene at the Feet of Jesus                                             | Maria Magdalena di Kaki Yesus                                                   |
+| Mary Magdalene Questions the Angels                                             | Maria Magdalena Menanyakan Para Malaikat                                        |
+| Mary sister Lazarus                                                             | Maria saudari Lazarus                                                           |
+| Mater Dolorosa                                                                  | Mater Dolorosa                                                                  |
+| Meal of Our Lord and the Apostles                                               | Perjamuan Tuhan Kita dan Para Rasul                                             |
+| Moses                                                                           | Musa                                                                            |
+| My God My God why hast thou forsaken me                                         | Tuhanku Tuhanku mengapa Engkau meninggalkan aku                                 |
+| My Name is Legion                                                               | Nama Saya Legiun                                                                |
+| My Soul is Sorrowful unto Death                                                 | Jiwaku Sedih Sampai Mati                                                        |
+| Nathaniel Under the Fig Tree                                                    | Nathaniel Di Bawah Pohon Ara                                                    |
+| Nicodemus                                                                       | Nikodemus                                                                       |
+| Noli me tangere                                                                 | Noli me tangere                                                                 |
+| On Entering the House Salute It                                                 | Saat Memasuki Rumah Salut                                                       |
+| On Return from Jerusalem, It is Noticed that Jesus is Lost                      | Sekembalinya dari Yerusalem, Terlihat Yesus Hilang                              |
+| Ordaining of the Twelve Apostles                                                | Penahbisan Dua Belas Rasul                                                      |
+| Our Lord Jesus Christ                                                           | Tuhan kita Yesus Kristus                                                        |
+| Pilate Washes His Hands                                                         | Pilatus Mencuci Tangannya                                                       |
+| Portrait of Zacharias and Elizabeth                                             | Potret Zakharia dan Elizabeth                                                   |
+| Preparation For The Last Supper                                                 | Persiapan Perjamuan Terakhir                                                    |
+| Priscilla, wife of Aquila                                                       | Priskila, istri Akuila                                                          |
+| Raising of Lazarus                                                              | Pembangkitan Lazarus                                                            |
+| Reconstruction of Golgotha                                                      | Rekonstruksi Golgota                                                            |
+| Reconstruction of Golgotha and the Holy Sepulchre                               | Rekonstruksi Golgota dan Makam Suci                                             |
+| Resurrection of Lazarus                                                         | Kebangkitan Lazarus                                                             |
+| Resurrection of the son                                                         | Kebangkitan putra                                                               |
+| Return from Egypt                                                               | Kembali dari Mesir                                                              |
+| Road to Emmaus                                                                  | Jalan ke Emaus                                                                  |
+| Saint Andrew                                                                    | Santo Andreas                                                                   |
+| Saint Anne                                                                      | Saint Anne                                                                      |
+| Saint Bartholomew                                                               | Santo Bartolomeus                                                               |
+| Saint James Major                                                               | Saint James Mayor                                                               |
+| Saint James the Less                                                            | Saint James the Less                                                            |
+| Saint John the Baptist and the Pharisees                                        | Santo Yohanes Pembaptis dan Orang Farisi                                        |
+| Saint John the Baptist Sees Jesus from Afar                                     | Santo Yohanes Pembaptis Melihat Yesus dari Jauh                                 |
+| Saint John the Evangelist                                                       | Santo Yohanes Penginjil                                                         |
+| Saint Joseph                                                                    | Santo Yosef                                                                     |
+| Saint Joseph Seeks a Lodging in Bethlehem                                       | Saint Joseph Mencari Penginapan di Betlehem                                     |
+| Saint Luke                                                                      | Santo Lukas                                                                     |
+| Saint Mark                                                                      | Santo Markus                                                                    |
+| Saint Matthew                                                                   | Santo Matius                                                                    |
+| Saint Paul                                                                      | Santo Paulus                                                                    |
+| Saint Peter                                                                     | Santo Petrus                                                                    |
+| Saint Peter Alerted by Saint John                                               | Santo Petrus Diperingatkan oleh Santo Yohanes                                   |
+| Saint Peter and Saint John Follow from Afar                                     | Santo Petrus dan Santo Yohanes Ikuti dari Jauh                                  |
+| Saint Peter and Saint John Run                                                  | Saint Peter dan Saint John Run                                                  |
+| Saint Peter Walks on the Sea                                                    | Santo Petrus Berjalan di Laut                                                   |
+| Saint Philip                                                                    | Santo Filipus                                                                   |
+| Saint Simon                                                                     | Santo Simon                                                                     |
+| Saint Thaddeus or Saint Jude                                                    | Santo Thaddeus atau Santo Yudas                                                 |
+| Saint Thomas                                                                    | Santo Thomas                                                                    |
+| Sermon On The Mount                                                             | Khotbah Di Bukit                                                                |
+| Simeon                                                                          | Simeon                                                                          |
+| Simon the Cyrenian and His Two Sons                                             | Simon si Kirene dan Kedua Putranya                                              |
+| Simon the Cyrenian Compelled                                                    | Simon si Kirene Dipaksa                                                         |
+| Sir what must I do                                                              | Pak apa yang harus saya lakukan                                                 |
+| St. Peter Released from Prison                                                  | Santo Petrus Dibebaskan dari Penjara                                            |
+| Suffer the Children                                                             | Menderita Anak-anak                                                             |
+| Suffer the Little Children to Come unto Me                                      | Menderita Anak-anak Kecil untuk Datang Kepada-Ku                                |
+| The Accursed Fig Tree                                                           | Pohon Ara Terkutuk                                                              |
+| The Adoration of the Magi                                                       | Pemujaan Orang Majus                                                            |
+| The Adoration of the Shepherds                                                  | Adorasi Para Gembala                                                            |
+| The Adulterous Woman                                                            | Wanita Pezina                                                                   |
+| The Adulterous Woman Alone with Jesus                                           | Wanita Pezina Sendirian dengan Yesus                                            |
+| The Angel Seated on the Stone of the Tomb                                       | Malaikat Duduk di Batu Makam                                                    |
+| The Annunciation                                                                | Pengumuman                                                                      |
+| The Anxiety of Saint Joseph                                                     | Kecemasan Santo Yosef                                                           |
+| The Apostles Hiding Place                                                       | Tempat Persembunyian Para Rasul                                                 |
+| The Appearance of Christ at the Cenacle                                         | Penampakan Kristus di Cenacle                                                   |
+| The Ascension                                                                   | Kenaikan                                                                        |
+| The Axe in the Trunk of the Tree                                                | Kapak di Batang Pohon                                                           |
+| The Bad Rich Man in Hell                                                        | Orang Kaya yang Jahat di Neraka                                                 |
+| The Baptism of Jesus                                                            | Baptisan Yesus                                                                  |
+| The Baptism of Christ                                                           | Baptisan Kristus                                                                |
+| The Betrothal of the Holy Virgin and Saint Joseph                               | Pertunangan Perawan Suci dan Santo Joseph                                       |
+| The Betrothed of Cana                                                           | Pertunangan Kana                                                                |
+| The Birth of Our Lord Jesus Christ                                              | Kelahiran Tuhan Kita Yesus Kristus                                              |
+| The Blind and Mute Man Possessed by Devils                                      | Orang Buta dan Bisu Kerasukan Iblis                                             |
+| The Blind in the Ditch                                                          | Si Buta di Parit                                                                |
+| The Blind Man Washes in the Pool of Siloam                                      | Si Buta Mencuci di Kolam Siloam                                                 |
+| The Blind of Capernaum                                                          | Orang Buta Kapernaum                                                            |
+| The Body of Jesus Carried                                                       | Tubuh Yesus Dibawa                                                              |
+| The Bridge of Kedron                                                            | Jembatan Kedron                                                                 |
+| The Brow of the Hill near Nazareth                                              | Alis Bukit dekat Nazaret                                                        |
+| The call of Andrew and Peter                                                    | Panggilan Andrew dan Peter                                                      |
+| The Calling of Saint James and Saint John                                       | Panggilan Santo Yakobus dan Santo Yohanes                                       |
+| The Calling of Saint John and Saint Andrew                                      | Panggilan Santo Yohanes dan Santo Andreas                                       |
+| The Calling of Saint Matthew                                                    | Panggilan Santo Matius                                                          |
+| The Calling of Saint Peter and Saint Andrew                                     | Panggilan Santo Petrus dan Santo Andreas                                        |
+| The Canaanites Daughter                                                         | Putri Kanaan                                                                    |
+| The Centurion                                                                   | Perwira                                                                         |
+| The Chasm in the Rock in the Cave                                               | Jurang di Batu di Gua                                                           |
+| The Chief Priests Ask Jesus                                                     | Imam Kepala Bertanya kepada Yesus                                               |
+| The Chief Priests Take Counsel Together                                         | Imam Kepala Mengambil Nasihat Bersama                                           |
+| The Childhood of Saint John the Baptist                                         | Masa Kecil Santo Yohanes Pembaptis                                              |
+| The Cock Crowed                                                                 | Ayam Berkokok                                                                   |
+| The Communion of the Apostles                                                   | Persekutuan Para Rasul                                                          |
+| The Confession of Saint Longinus                                                | Pengakuan Santo Longinus                                                        |
+| The Confession of the Centurion                                                 | Pengakuan Centurion                                                             |
+| The Corner Stone                                                                | Batu Sudut                                                                      |
+| The Crowning of Thorns                                                          | Penobatan Duri                                                                  |
+| The Crucifixion                                                                 | Penyaliban                                                                      |
+| The Daughter of Herodias Dancing                                                | Putri Herodias Menari                                                           |
+| The Daughter of Jairus                                                          | Putri Yairus                                                                    |
+| The Daughters of Jerusalem                                                      | Putri Yerusalem                                                                 |
+| The Dead Appear in Jerusalem                                                    | Orang Mati Muncul di Yerusalem                                                  |
+| The Dead Appear in the Temple                                                   | Orang Mati Muncul di Kuil                                                       |
+| The Death of Jesus                                                              | Kematian Yesus                                                                  |
+| The Descent from the Cross                                                      | Turun dari Salib                                                                |
+| The Disbelief of Saint Thomas                                                   | Ketidakpercayaan Santo Thomas                                                   |
+| The Disciples Admire the Buildings                                              | Para Murid Mengagumi Bangunan                                                   |
+| The Disciples Eat Wheat on the Sabbath                                          | Para Murid Makan Gandum pada Hari Sabat                                         |
+| The Disciples Having Left Their Hiding                                          | Para Murid Meninggalkan Persembunyiannya                                        |
+| The Disciples of Jesus Baptize                                                  | Murid Yesus Membaptis                                                           |
+| The Disciples See Christ Walking on the Water                                   | Para Murid Melihat Kristus Berjalan di Atas Air                                 |
+| The Disciples visit tomb                                                        | Para Murid mengunjungi makam                                                    |
+| The Ear of Malchus                                                              | Telinga Malchus                                                                 |
+| The Earthquake                                                                  | Gempa                                                                           |
+| The Enemy Who Sows                                                              | Musuh yang Menabur                                                              |
+| The ever present                                                                | Yang selalu hadir                                                               |
+| The Evil Counsel                                                                | Penasihat Jahat                                                                 |
+| The Exhortation to the Apostles                                                 | Nasihat untuk Para Rasul                                                        |
+| The False Witnesses                                                             | Saksi-Saksi Palsu                                                               |
+| The First Denial of Saint Peter                                                 | Penolakan Pertama Santo Petrus                                                  |
+| The First Nail                                                                  | Kuku Pertama                                                                    |
+| The First Shall Be Last                                                         | Yang Pertama Akan Menjadi Yang Terakhir                                         |
+| The Five Wedges                                                                 | Lima Irisan                                                                     |
+| The Flight into Egypt                                                           | Penerbangan ke Mesir                                                            |
+| The Flight of the Apostles                                                      | Penerbangan Para Rasul                                                          |
+| The Foal of Bethpage                                                            | Anak Kuda Bethpage                                                              |
+| The Foolish Virgins                                                             | Perawan Bodoh                                                                   |
+| The Four Guards Sat Down and Watched Him                                        | Empat Penjaga Duduk dan Mengawasinya                                            |
+| The Garments Divided by Cast Lots                                               | Garmen Dibagi dengan Lot Pemeran                                                |
+| The Gentiles Ask to See Jesus                                                   | Orang Kafir Meminta untuk Melihat Yesus                                         |
+| The Good Samaritan                                                              | Orang Samaria yang Baik                                                         |
+| The Good Shepherd                                                               | Gembala yang Baik                                                               |
+| The Grotto of the Agony                                                         | Gua Penderitaan                                                                 |
+| The Guards Falling Backwards                                                    | Pengawal Jatuh Mundur                                                           |
+| The Head of Saint John the Baptist on a Charger                                 | Kepala Santo Yohanes Pembaptis dengan Pengisi Daya                              |
+| The Healed Blind Man Tells His Story to the Jews                                | Orang Buta yang Disembuhkan Menceritakan Kisahnya kepada Orang Yahudi           |
+| The Healing of Malchus                                                          | Penyembuhan Malchus                                                             |
+| The Healing of Peters Mother-in-law                                             | Penyembuhan Ibu Mertua Peters                                                   |
+| The Healing of Ten Lepers                                                       | Kesembuhan Sepuluh Orang Kusta                                                  |
+| The Healing of the Blind Man                                                    | Penyembuhan Orang Buta                                                          |
+| The Healing of the Lepers at Capernaum                                          | Penyembuhan Orang Kusta di Kapernaum                                            |
+| The Healing of the Officer's Son                                                | Penyembuhan Putra Perwira                                                       |
+| The Hidden Treasure                                                             | Harta Karun Tersembunyi                                                         |
+| The Holy Face                                                                   | Wajah Suci                                                                      |
+| The Holy Stair                                                                  | Tangga Suci                                                                     |
+| The Holy Virgin in Her Youth                                                    | Perawan Suci di Masa Mudanya                                                    |
+| The Holy Virgin in Old Age                                                      | Perawan Suci di Usia Tua                                                        |
+| The Holy Virgin Kisses the Face                                                 | Perawan Suci Mencium Wajah                                                      |
+| The Holy Virgin Receives the Body                                               | Perawan Suci Menerima Tubuh                                                     |
+| The Holy Women                                                                  | Wanita Suci                                                                     |
+| The Holy Women Watch from Afar                                                  | Wanita Suci Menonton dari Jauh                                                  |
+| The Hope of the World                                                           | Harapan Dunia                                                                   |
+| The Jews Took Up Rocks to Stone Jesus                                           | Orang Yahudi Mengambil Batu untuk Melempari Yesus                               |
+| The Judgment of the Sanhedrin                                                   | Penghakiman Sanhedrin                                                           |
+| The Judgment on the Gabbatha                                                    | Penghakiman atas Gabbatha                                                       |
+| The Kiss of Judas                                                               | Ciuman Yudas                                                                    |
+| The Last Sermon of Our Lord                                                     | Khotbah Terakhir Tuhan Kita                                                     |
+| The Last Sigh of Christ                                                         | Desahan Terakhir Kristus                                                        |
+| The Last supper                                                                 | Perjamuan Terakhir                                                              |
+| The life of Jesus of Nazareth                                                   | Kehidupan Yesus dari Nazaret                                                    |
+| The little child set in their midst                                             | Anak kecil itu berada di tengah-tengah mereka                                   |
+| The Lord Wept                                                                   | Tuhan Menangis                                                                  |
+| The Lords Prayer                                                                | Doa Bapa Kami                                                                   |
+| The Lost Drachma                                                                | Drachma yang Hilang                                                             |
+| The Madgalene Runs to the Cenacle                                               | Madgalene Berlari ke Cenacle                                                    |
+| The Magdalene Before Her Conversion                                             | Magdalena Sebelum Pertobatannya                                                 |
+| The Magnificat                                                                  | Magnificat                                                                      |
+| The Man at the Plough                                                           | Pria di Bajak                                                                   |
+| The Man Who Hoards                                                              | Pria yang Menimbun                                                              |
+| The Man with an Infirmity of Thirty-Eight Years                                 | Pria dengan Kelemahan Tiga Puluh Delapan Tahun                                  |
+| The Man with the jar of water                                                   | Pria dengan toples air                                                          |
+| The Man with the Withered Hand                                                  | Pria dengan Tangan Layu                                                         |
+| The Marriage at Cana                                                            | Pernikahan di Kana                                                              |
+| The Massacre of the Innocents                                                   | Pembantaian Orang Tak Bersalah                                                  |
+| The Meal in the House of Matthew                                                | Makan di Rumah Matthew                                                          |
+| The Meal in the House of the Pharisee                                           | Perjamuan di Rumah Orang Farisi                                                 |
+| The Merchants Chased from the Temple                                            | Para Pedagang Dikejar dari Kuil                                                 |
+| The Message of Pilate's Wife                                                    | Pesan Istri Pilatus                                                             |
+| The Miracle of the Loaves and Fishes                                            | Keajaiban Roti dan Ikan                                                         |
+| The Miraculous Draught of Fishes                                                | Draf Ikan Ajaib                                                                 |
+| The Miraculous Haul of Fishes                                                   | Pengambilan Ikan yang Ajaib                                                     |
+| The Morning Judgment                                                            | Penghakiman Pagi                                                                |
+| The Nail for the Feet                                                           | Paku untuk Kaki                                                                 |
+| The Ointment of the Magdalene                                                   | Salep Magdalena                                                                 |
+| The Palsied Man Let Down through the Roof                                       | Pria Lumpuh Turun dari Atap                                                     |
+| The Pardon of the Good Thief                                                    | Pengampunan Pencuri yang Baik                                                   |
+| The People Seek Jesus to Make Him King                                          | Orang-Orang Mencari Yesus untuk Menjadikan Dia Raja                             |
+| The Pharisee and the publican                                                   | Orang Farisi dan pemungut cukai                                                 |
+| The Pharisees and the Herodians Conspire Against Jesus                          | Orang Farisi dan Herodian Bersekongkol Melawan Yesus                            |
+| The Pharisees and the Saduccees Come to Tempt Jesus                             | Orang Farisi dan Saduki Datang untuk Menggoda Yesus                             |
+| The Pharisees Question Jesus                                                    | Orang Farisi Menanyakan Yesus                                                   |
+| The Pilgrims of Emmaus on the Road                                              | Peziarah Emaus di Jalan                                                         |
+| The Piscina Probatica or Pool of Bethesda                                       | Piscina Probatica atau Kolam Bethesda                                           |
+| The Poor Lazarus at the Rich Man's Door                                         | Lazarus yang Miskin di Pintu Orang Kaya                                         |
+| The Possessed Boy at the Foot of Mount Tabor                                    | Bocah Kerasukan di Kaki Gunung Tabor                                            |
+| The Possessed Man in the Synagogue                                              | Orang Kerasukan di Sinagoga                                                     |
+| The Presentation of Jesus in the Temple                                         | Persembahan Yesus di Bait Allah                                                 |
+| The Primacy of Saint Peter                                                      | Keutamaan Santo Petrus                                                          |
+| The Procession in the Streets                                                   | Prosesi di Jalanan                                                              |
+| The Procession in the Temple                                                    | Prosesi di Kuil                                                                 |
+| The Procession Nearing Calvary                                                  | Prosesi Mendekati Kalvari                                                       |
+| The Procession of Judas                                                         | Prosesi Yudas                                                                   |
+| The Procession on the Mount of Olives                                           | Prosesi di Bukit Zaitun                                                         |
+| The Prodigal Son                                                                | Anak yang Hilang                                                                |
+| The Prodigal Son Begging                                                        | Anak yang Hilang Mengemis                                                       |
+| The Prophecy of the Destruction of the Temple                                   | Ramalan Penghancuran Kuil                                                       |
+| The Protestations of Saint Peter                                                | Protes Santo Petrus                                                             |
+| The raising of the cross                                                        | Pengangkatan salib                                                              |
+| The Repentant Mary Magdalene                                                    | Maria Magdalena yang Bertobat                                                   |
+| The Resurrection                                                                | Kebangkitan                                                                     |
+| The Resurrection heralds                                                        | Pemberita Kebangkitan                                                           |
+| The Resurrection Of Christ                                                      | Kebangkitan Kristus                                                             |
+| The Resurrection of the Widows Son at Nain                                      | Kebangkitan Putra Janda di Nain                                                 |
+| The Return of the Prodigal Son                                                  | Kembalinya Anak yang Hilang                                                     |
+| The Rich Young Man Went Away Sorrowful                                          | Pemuda Kaya Pergi Dengan Sedih                                                  |
+| The rich young ruler                                                            | Penguasa muda yang kaya                                                         |
+| The Scourging on the Back                                                       | Pencambukan di Punggung                                                         |
+| The Scourging on the Front                                                      | Pencambukan di Depan                                                            |
+| The Scribe Stood to Tempt Jesus                                                 | Ahli Taurat Berdiri untuk Menggoda Yesus                                        |
+| The Second Denial of Saint Peter                                                | Penolakan Kedua Santo Petrus                                                    |
+| The Second Miraculous Draught of Fishes                                         | Draf Ikan Ajaib Kedua                                                           |
+| The Sermon of the Beatitudes                                                    | Khotbah Ucapan Bahagia                                                          |
+| The Sermon on the Mount                                                         | Khotbah di Bukit                                                                |
+| The Shepherds and the Angel                                                     | Para Gembala dan Malaikat                                                       |
+| The Sick Awaiting the Passage of Jesus                                          | Orang Sakit Menanti Kepergian Yesus                                             |
+| The Sojourn in Egypt                                                            | Persinggahan di Mesir                                                           |
+| The Son of the Vineyard                                                         | Putra Kebun Anggur                                                              |
+| The Sorrow of Saint Peter                                                       | Kesedihan Santo Petrus                                                          |
+| The Sorrowful Mother                                                            | Ibu yang Sedih                                                                  |
+| The Soul of the Good Thief                                                      | Jiwa Pencuri yang Baik                                                          |
+| The Sower                                                                       | Penabur                                                                         |
+| The Strike of the Lance                                                         | Serangan Tombak                                                                 |
+| The Swine Driven into the Sea                                                   | Babi Didorong ke Laut                                                           |
+| The Temptation in the Wilderness                                                | Godaan di Hutan Belantara                                                       |
+| The Testing of the Suitors of the Holy Virgin                                   | Ujian dari Pelamar Perawan Suci                                                 |
+| The Thieves Legs Are Broken                                                     | Kaki Pencuri Patah                                                              |
+| The Third Denial of Peter                                                       | Penolakan Ketiga Petrus                                                         |
+| The Title on the Cross                                                          | Judul di Salib                                                                  |
+| The Torn Cloak                                                                  | Jubah Robek                                                                     |
+| The Tower of Siloam                                                             | Menara Siloam                                                                   |
+| The transfiguration                                                             | Transfigurasi                                                                   |
+| The Tribunal of Annas                                                           | Pengadilan Annas                                                                |
+| The Tribute Money                                                               | Uang Penghargaan                                                                |
+| The Two Blind Men at Jericho                                                    | Dua Orang Buta di Yerikho                                                       |
+| The Two Marys Watch the Tomb                                                    | Dua Maria Menonton Makam                                                        |
+| The Two Men Possessed with Devils                                               | Dua Pria Kerasukan Iblis                                                        |
+| The Two Women at the Mill                                                       | Dua Wanita di Pabrik                                                            |
+| The Vase of Myrrh and Gall                                                      | Vas Mur dan Empedu                                                              |
+| The Vine Dresser and the Fig Tree                                               | Lemari Anggur dan Pohon Ara                                                     |
+| The Vision of Saint Joseph                                                      | Penglihatan Santo Yosef                                                         |
+| The Vision of Zacharias                                                         | Visi Zakaria                                                                    |
+| The Visitation                                                                  | Kunjungan                                                                       |
+| The Voice from on High                                                          | Suara dari atas                                                                 |
+| The Voice in the Desert                                                         | Suara di Gurun                                                                  |
+| The Washing of the Feet                                                         | Membasuh Kaki                                                                   |
+| The Watch Over the Tomb                                                         | Penjaga Makam                                                                   |
+| The wedding at Cana                                                             | Pernikahan di Kana                                                              |
+| The Widows Mite                                                                 | Tungau Janda                                                                    |
+| The Wise Virgins                                                                | Gadis Bijaksana                                                                 |
+| The Woman of Canaan                                                             | Wanita Kanaan                                                                   |
+| The Woman of Samaria at the Well (Nalda the samaritan)                          | Wanita Samaria di Sumur (Nalda si samaria)                                      |
+| The Woman with an Infirmity of Eighteen Years                                   | Wanita dengan Kelemahan Delapan Belas Tahun                                     |
+| The Woman with an Issue of Blood                                                | Wanita dengan Masalah Darah                                                     |
+| The Youth of Jesus                                                              | Pemuda Yesus                                                                    |
+| They Dressed Him in His Own Garments                                            | Mereka Mendandani Dia dengan Pakaiannya Sendiri                                 |
+| Three hundred and sixty-five                                                    | Tiga ratus enam puluh lima                                                      |
+| Touch Me Not                                                                    | Jangan Sentuh Aku                                                               |
+| Transfiguration                                                                 | Transfigurasi                                                                   |
+| Two or Three Gathered in my Name                                                | Dua atau Tiga Berkumpul atas Namaku                                             |
+| What is truth?                                                                  | Apa itu kebenaran?                                                              |
+| What Our Lord Saw from the Cross                                                | Apa yang Tuhan Kita Lihat dari Salib                                            |
+| With Passover Approaching, Jesus Goes Up to Jerusalem                           | Menjelang Paskah, Yesus Naik ke Yerusalem                                       |
+| Woe unto You Scribes and Pharisees                                              | Celakalah kamu ahli-ahli Taurat dan orang-orang Farisi                          |
+| Woman at the Sepulchre                                                          | Wanita di Makam                                                                 |
+| Woman at the Well (Nalda the samaritan)                                         | Wanita di Sumur (Nalda si Samaria)                                              |
+| You Could Not Watch One Hour                                                    | Anda Tidak Bisa Menonton Satu Jam                                               |
+| You Follow Me for the Miracles                                                  | Anda Ikuti Saya untuk Keajaiban                                                 |
+| Zacchaeus in the Sycamore Awaiting the Passage of Jesus                         | Zakheus di Sycamore Menunggu Perjalanan Yesus                                   |
+| Zachaeus in tree                                                                | Zakheus di pohon                                                                |
+| Zacharias Killed Between the Temple and the Altar                               | Zakharia Dibunuh di Antara Kuil dan Altar                                       |
+| Jesus face                                                                      | Wajah Yesus                                                                     |

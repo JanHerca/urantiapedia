@@ -1,0 +1,425 @@
+<!--
+This file contains only translations of different texts
+Main tables are in /input/markdown/en/image_catalog.md
+-->
+
+| title                                                                           | translation                                                                               |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| A Holy Woman Wipes the Face of Jesus                                            | Une sainte femme essuie le visage de Jésus                                                |
+| A lesson in humility                                                            | Une leçon d'humilité                                                                      |
+| A Woman Cries Out in a Crowd                                                    | Une femme crie dans une foule                                                             |
+| Address to Saint Philip                                                         | Adresse à Saint Philippe                                                                  |
+| Agnus-Dei: The Scapegoat                                                        | Agnus-Dei : le bouc émissaire                                                             |
+| All the City Was Gathered at His Door                                           | Toute la ville était réunie à sa porte                                                    |
+| Angel and the Shepherds                                                         | Ange et les bergers                                                                       |
+| Angels Holding a Dial Indicating the Different Hours of the Acts of the Passion | Anges tenant un cadran indiquant les différentes heures des actes de la passion           |
+| Anguish                                                                         | Angoisse                                                                                  |
+| Annas and Caiaphas                                                              | Anne et Caïphe                                                                            |
+| Anointing of Jesus                                                              | Onction de Jésus                                                                          |
+| Barabbas                                                                        | Barabbas                                                                                  |
+| Bartimaeus                                                                      | Bartimée                                                                                  |
+| Birds-Eye View of the Forum                                                     | Vue à vol d'oiseau du Forum                                                               |
+| Burial of Christ                                                                | Enterrement du Christ                                                                     |
+| But No Man Laid Hands Upon Him                                                  | Mais aucun homme ne lui a imposé la main                                                  |
+| Calming a storm                                                                 | Calmer une tempête                                                                        |
+| Christ and Mary Magdalene                                                       | Christ et Marie-Madeleine                                                                 |
+| Christ And The Rich Young Ruler                                                 | Le Christ et le jeune souverain riche                                                     |
+| Christ Appears on the Shore of Lake Tiberias                                    | Le Christ apparaît sur la rive du lac de Tibériade                                        |
+| Christ at the Cross                                                             | Christ à la Croix                                                                         |
+| Christ Carried Down to the Tomb                                                 | Christ descendu au tombeau                                                                |
+| Christ healing the sick                                                         | Christ guérissant les malades                                                             |
+| Christ in the Storm on the Sea of Galilee                                       | Christ dans la tempête sur la mer de Galilée                                              |
+| Christ in the Wilderness                                                        | Christ dans le désert                                                                     |
+| Christ on the Cross                                                             | Christ en croix                                                                           |
+| Christ on the Sea of Galilee                                                    | Christ sur la mer de Galilée                                                              |
+| Conspiracy of the Jews                                                          | Complot des Juifs                                                                         |
+| Consummatum Est                                                                 | Consummatum Est                                                                           |
+| Crucified Christ                                                                | Christ crucifié                                                                           |
+| Crucifixion                                                                     | Crucifixion                                                                               |
+| Curses Against the Pharisees                                                    | malédictions contre les pharisiens                                                        |
+| Ecce homo                                                                       | Ecce homo                                                                                 |
+| Elisabeth                                                                       | Élisabeth                                                                                 |
+| Entry into Jerusalem                                                            | Entrée à Jérusalem                                                                        |
+| Feed My Lambs                                                                   | Nourrir mes agneaux                                                                       |
+| Feeding the multitude                                                           | Nourrir la multitude                                                                      |
+| Flight into Egypt                                                               | Fuite en Egypte                                                                           |
+| Get Thee Behind Me Satan                                                        | Mets-toi derrière moi Satan                                                               |
+| Gethsemane                                                                      | Gethsémané                                                                                |
+| He Heals the Lame                                                               | Il guérit les boiteux                                                                     |
+| He Sent them out Two by Two                                                     | Il les a envoyés deux par deux                                                            |
+| He Vanished from Their Sight                                                    | Il a disparu de leur vue                                                                  |
+| He Went on His Way to Ephraim                                                   | Il est allé sur son chemin vers Éphraïm                                                   |
+| He Went Through the Villages                                                    | Il a traversé les villages                                                                |
+| He Who is of God Hears the Word of God                                          | Celui qui est de Dieu écoute la Parole de Dieu                                            |
+| He Who Winnows His Wheat                                                        | Celui qui vanne son blé                                                                   |
+| Healing the sick                                                                | Guérir les malades                                                                        |
+| Herod                                                                           | Hérode                                                                                    |
+| I have fought a good fight                                                      | J'ai combattu un bon combat                                                               |
+| I Thirst: The Vinegar Given to Jesus                                            | j'ai soif : le vinaigre donné à Jésus                                                     |
+| In the Villages the Sick Were Presented to Him                                  | Dans les villages, les malades lui étaient présentés                                      |
+| Interview between Jesus and Nicodemus                                           | Entretien entre Jésus et Nicodème                                                         |
+| Jerusalem Jerusalem                                                             | Jérusalem Jérusalem                                                                       |
+| Jerusalem pilgrims                                                              | Pèlerins de Jérusalem                                                                     |
+| Jesus Alone on the Cross                                                        | Jésus seul sur la croix                                                                   |
+| Jesus Amidst The Doctors In The Temple                                          | Jésus parmi les docteurs du temple                                                        |
+| Jesus Among the Doctors                                                         | Jésus parmi les docteurs                                                                  |
+| Jesus and his Mother at the Fountain                                            | Jésus et sa mère à la fontaine                                                            |
+| Jesus and Nicodemus                                                             | Jésus et Nicodème                                                                         |
+| Jesus and the Little Child                                                      | Jésus et le petit enfant                                                                  |
+| Jesus Appears to Mary Magdalene                                                 | Jésus apparaît à Marie-Madeleine                                                          |
+| Jesus appears to the disciples                                                  | Jésus apparaît aux disciples                                                              |
+| Jesus Appears to the Holy Women                                                 | Jésus apparaît aux saintes femmes                                                         |
+| Jesus at Pilate's court                                                         | Jésus à la cour de Pilate                                                                 |
+| Jesus Bearing the Cross                                                         | Jésus portant la croix                                                                    |
+| Jesus Before Herod                                                              | Jésus devant Hérode                                                                       |
+| Jesus Before Pilate - First Interview                                           | Jésus devant Pilate - Première entrevue                                                   |
+| Jesus Before Pilate - Second Interview                                          | Jésus devant Pilate - Deuxième entretien                                                  |
+| Jesus Being Crucified                                                           | Jésus étant crucifié                                                                      |
+| Jesus calls Levi                                                                | Jésus appelle Lévi                                                                        |
+| Jesus Carried to the Tomb                                                       | Jésus porté au tombeau                                                                    |
+| Jesus Carried up to a Pinnacle of the Temple                                    | Jésus porté sur un pinacle du temple                                                      |
+| Jesus Casts Out The Money Changers                                              | Jésus chasse les changeurs                                                                |
+| Jesus Chases a Possessed Man                                                    | Jésus poursuit un possédé                                                                 |
+| Jesus Commands the Apostles to Rest                                             | Jésus ordonne aux apôtres de se reposer                                                   |
+| Jesus Discourses with His Disciples                                             | Discours de Jésus avec ses disciples                                                      |
+| Jesus Falls Beneath the Cross                                                   | Jésus tombe sous la croix                                                                 |
+| Jesus Forbids the Carrying of Loads                                             | Jésus interdit de porter des charges                                                      |
+| Jesus Found in the Temple                                                       | Jésus trouvé dans le Temple                                                               |
+| Jesus Goes in the Evening to Bethany                                            | Jésus se rend le soir à Béthanie                                                          |
+| Jesus Goes Up Alone onto a Mountain to Pray                                     | Jésus monte seul sur une montagne pour prier                                              |
+| Jesus Heals a Mute Possessed Man                                                | Jésus guérit un possédé muet                                                              |
+| Jesus Heals the Blind and Lame on the Mountain                                  | Jésus guérit les aveugles et les boiteux sur la montagne                                  |
+| Jesus Heals The Widow of Nains Son                                              | Jésus guérit la veuve du fils de Naïns                                                    |
+| Jesus in the house of Annas                                                     | Jésus dans la maison d'Anne                                                               |
+| Jesus in the Sepulchre                                                          | Jésus au sépulcre                                                                         |
+| Jesus in way to Getsemani                                                       | Jésus en route vers Getsemani                                                             |
+| Jesus Leaves the Praetorium                                                     | Jésus quitte le prétoire                                                                  |
+| Jesus Led from Caiaphas to Pilate                                               | Jésus conduit de Caïphe à Pilate                                                          |
+| Jesus Led from Herod to Pilate                                                  | Jésus conduit d'Hérode à Pilate                                                           |
+| Jesus Mary Magdalene and Martha at Bethany                                      | Jésus Marie-Madeleine et Marthe à Béthanie                                                |
+| Jesus Meets His Mother                                                          | Jésus rencontre sa mère                                                                   |
+| Jesus Ministered to by Angels                                                   | Jésus servi par des anges                                                                 |
+| Jesus Preaches in a Ship                                                        | Jésus prêche dans un bateau                                                               |
+| Jesus Sleeping During the Tempest                                               | Jésus endormi pendant la tempête                                                          |
+| Jesus Speaks Near the Treasury                                                  | Jésus parle près du trésor                                                                |
+| Jesus Stilling the Tempest                                                      | Jésus apaise la tempête                                                                   |
+| Jesus Stripped of His Clothing                                                  | Jésus dépouillé de ses vêtements                                                          |
+| Jesus Taken from the Cistern                                                    | Jésus sorti de la citerne                                                                 |
+| Jesus Teaches in the Synagogues                                                 | Jésus enseigne dans les synagogues                                                        |
+| Jesus Teaches the People by the Sea                                             | Jésus enseigne les gens au bord de la mer                                                 |
+| Jesus Teaching on the Sea-Shore                                                 | Jésus enseignant au bord de la mer                                                        |
+| Jesus Tempted                                                                   | Jésus tenté                                                                               |
+| Jesus Tempted in the Wilderness                                                 | Jésus tenté dans le désert                                                                |
+| Jesus Transported by a Spirit onto a High Mountain                              | Jésus transporté par un esprit sur une haute montagne                                     |
+| Jesus Traveling                                                                 | Jésus voyageant                                                                           |
+| Jesus Unrolls the Book in the Synagogue                                         | Jésus déroule le livre dans la synagogue                                                  |
+| Jesus Walks in the Portico of Solomon                                           | Jésus marche sous le portique de Salomon                                                  |
+| Jesus Walks on the Sea                                                          | Jésus marche sur la mer                                                                   |
+| Jesus Went Out into a Desert Place                                              | Jésus est sorti dans un lieu désert                                                       |
+| Jesus Wept                                                                      | Jésus a pleuré                                                                            |
+| Joseph and Mary arrive at Bethlehem                                             | Joseph et Marie arrivent à Bethléem                                                       |
+| Joseph of Arimathaea                                                            | Joseph d'Arimathée                                                                        |
+| Joseph of Arimathaea Seeks Pilate to Beg Permission to Remove the Body of Jesus | Joseph d'Arimathée demande à Pilate de demander la permission d'enlever le corps de Jésus |
+| Journey of the Magi                                                             | voyage des mages                                                                          |
+| Judas Goes to Find the Jews                                                     | Judas va trouver les Juifs                                                                |
+| Judas Hangs Himself                                                             | Judas se pend                                                                             |
+| Judas Iscariot                                                                  | Judas Iscariote                                                                           |
+| Judas Leaves the Cenacle                                                        | Judas quitte le Cénacle                                                                   |
+| Judas Returns the Money                                                         | Judas rend l'argent                                                                       |
+| Judas treachery                                                                 | trahison de Judas                                                                         |
+| Last Supper                                                                     | Dernière Cène                                                                             |
+| Lazarus                                                                         | Lazare                                                                                    |
+| Lazarus come forth                                                              | Lazare sort                                                                               |
+| Let Him Be Crucified                                                            | Qu'il soit crucifié                                                                       |
+| Lord I Am Not Worthy                                                            | Seigneur, je ne suis pas digne                                                            |
+| Lydia of Thyatira                                                               | Lydie de Thyatire                                                                         |
+| Magi enters Jerusalem                                                           | Mages entre à Jérusalem                                                                   |
+| Magi in the House of Herod                                                      | mages dans la maison d'Hérode                                                             |
+| Maltreatments in the House of Caiaphas                                          | Maltraitances dans la maison de Caïphe                                                    |
+| Martha                                                                          | Marthe                                                                                    |
+| Martha and Mary                                                                 | Marthe et Marie                                                                           |
+| Mary Magdalene and the Holy Women                                               | Marie-Madeleine et les saintes femmes                                                     |
+| Mary Magdalene at the Feet of Jesus                                             | Marie-Madeleine aux pieds de Jésus                                                        |
+| Mary Magdalene Questions the Angels                                             | Marie-Madeleine interroge les anges                                                       |
+| Mary sister Lazarus                                                             | Marie sœur Lazare                                                                         |
+| Mater Dolorosa                                                                  | Mater Dolorosa                                                                            |
+| Meal of Our Lord and the Apostles                                               | Repas de Notre-Seigneur et des Apôtres                                                    |
+| Moses                                                                           | Moïse                                                                                     |
+| My God My God why hast thou forsaken me                                         | Mon Dieu mon Dieu pourquoi m'as-tu abandonné                                              |
+| My Name is Legion                                                               | Je m'appelle Légion                                                                       |
+| My Soul is Sorrowful unto Death                                                 | Mon âme est douloureuse jusqu'à la mort                                                   |
+| Nathaniel Under the Fig Tree                                                    | Nathaniel sous le figuier                                                                 |
+| Nicodemus                                                                       | Nicodème                                                                                  |
+| Noli me tangere                                                                 | Noli me tangere                                                                           |
+| On Entering the House Salute It                                                 | En entrant dans la maison, saluez-le                                                      |
+| On Return from Jerusalem, It is Noticed that Jesus is Lost                      | Au retour de Jérusalem, on remarque que Jésus est perdu                                   |
+| Ordaining of the Twelve Apostles                                                | Ordonnance des douze apôtres                                                              |
+| Our Lord Jesus Christ                                                           | Notre Seigneur Jésus-Christ                                                               |
+| Pilate Washes His Hands                                                         | Pilate se lave les mains                                                                  |
+| Portrait of Zacharias and Elizabeth                                             | Portrait de Zacharie et Elizabeth                                                         |
+| Preparation For The Last Supper                                                 | Préparation pour la dernière Cène                                                         |
+| Priscilla, wife of Aquila                                                       | Priscille, épouse d'Aquila                                                                |
+| Raising of Lazarus                                                              | Résurrection de Lazare                                                                    |
+| Reconstruction of Golgotha                                                      | Reconstitution du Golgotha ​​                                                             |
+| Reconstruction of Golgotha and the Holy Sepulchre                               | Reconstruction du Golgotha ​​et du Saint-Sépulcre                                         |
+| Resurrection of Lazarus                                                         | Résurrection de Lazare                                                                    |
+| Resurrection of the son                                                         | Résurrection du fils                                                                      |
+| Return from Egypt                                                               | Retour d'Egypte                                                                           |
+| Road to Emmaus                                                                  | Chemin d'Emmaüs                                                                           |
+| Saint Andrew                                                                    | Saint André                                                                               |
+| Saint Anne                                                                      | Sainte-Anne                                                                               |
+| Saint Bartholomew                                                               | Saint Barthélemy                                                                          |
+| Saint James Major                                                               | Saint Jacques Majeur                                                                      |
+| Saint James the Less                                                            | Saint Jacques le Mineur                                                                   |
+| Saint John the Baptist and the Pharisees                                        | Saint Jean Baptiste et les Pharisiens                                                     |
+| Saint John the Baptist Sees Jesus from Afar                                     | Saint Jean-Baptiste voit Jésus de loin                                                    |
+| Saint John the Evangelist                                                       | Saint Jean l'évangéliste                                                                  |
+| Saint Joseph                                                                    | Saint-Joseph                                                                              |
+| Saint Joseph Seeks a Lodging in Bethlehem                                       | Saint Joseph cherche un logement à Bethléem                                               |
+| Saint Luke                                                                      | Saint Luc                                                                                 |
+| Saint Mark                                                                      | Saint Marc                                                                                |
+| Saint Matthew                                                                   | Saint Matthieu                                                                            |
+| Saint Paul                                                                      | Saint-Paul                                                                                |
+| Saint Peter                                                                     | Saint Pierre                                                                              |
+| Saint Peter Alerted by Saint John                                               | Saint Pierre alerté par Saint Jean                                                        |
+| Saint Peter and Saint John Follow from Afar                                     | Saint Pierre et Saint Jean suivent de loin                                                |
+| Saint Peter and Saint John Run                                                  | Course Saint-Pierre et Saint-Jean                                                         |
+| Saint Peter Walks on the Sea                                                    | Saint Pierre marche sur la mer                                                            |
+| Saint Philip                                                                    | Saint Philippe                                                                            |
+| Saint Simon                                                                     | Saint-Simon                                                                               |
+| Saint Thaddeus or Saint Jude                                                    | Saint Thaddée ou Saint Jude                                                               |
+| Saint Thomas                                                                    | Saint-Thomas                                                                              |
+| Sermon On The Mount                                                             | Sermon sur la montagne                                                                    |
+| Simeon                                                                          | Siméon                                                                                    |
+| Simon the Cyrenian and His Two Sons                                             | Simon le Cyrénien et ses deux fils                                                        |
+| Simon the Cyrenian Compelled                                                    | Simon le Cyrénien contraint                                                               |
+| Sir what must I do                                                              | Monsieur que dois-je faire                                                                |
+| St. Peter Released from Prison                                                  | Saint Pierre sort de prison                                                               |
+| Suffer the Children                                                             | Souffrez les enfants                                                                      |
+| Suffer the Little Children to Come unto Me                                      | Laissez venir à moi les petits enfants                                                    |
+| The Accursed Fig Tree                                                           | Le figuier maudit                                                                         |
+| The Adoration of the Magi                                                       | L'Adoration des Mages                                                                     |
+| The Adoration of the Shepherds                                                  | L'Adoration des bergers                                                                   |
+| The Adulterous Woman                                                            | La femme adultère                                                                         |
+| The Adulterous Woman Alone with Jesus                                           | La femme adultère seule avec Jésus                                                        |
+| The Angel Seated on the Stone of the Tomb                                       | L'ange assis sur la pierre du tombeau                                                     |
+| The Annunciation                                                                | L'Annonciation                                                                            |
+| The Anxiety of Saint Joseph                                                     | L'angoisse de saint Joseph                                                                |
+| The Apostles Hiding Place                                                       | La cachette des apôtres                                                                   |
+| The Appearance of Christ at the Cenacle                                         | L'Apparition du Christ au Cénacle                                                         |
+| The Ascension                                                                   | L'ascension                                                                               |
+| The Axe in the Trunk of the Tree                                                | La hache dans le tronc de l'arbre                                                         |
+| The Bad Rich Man in Hell                                                        | Le mauvais homme riche en enfer                                                           |
+| The Baptism of Jesus                                                            | Le Baptême de Jésus                                                                       |
+| The Baptism of Christ                                                           | Le Baptême du Christ                                                                      |
+| The Betrothal of the Holy Virgin and Saint Joseph                               | Les Fiançailles de la Sainte Vierge et de Saint Joseph                                    |
+| The Betrothed of Cana                                                           | Les Fiancés de Cana                                                                       |
+| The Birth of Our Lord Jesus Christ                                              | La naissance de Notre-Seigneur Jésus-Christ                                               |
+| The Blind and Mute Man Possessed by Devils                                      | L'homme aveugle et muet possédé par des démons                                            |
+| The Blind in the Ditch                                                          | L'aveugle dans le fossé                                                                   |
+| The Blind Man Washes in the Pool of Siloam                                      | L'aveugle se lave dans la piscine de Siloé                                                |
+| The Blind of Capernaum                                                          | L'Aveugle de Capharnaüm                                                                   |
+| The Body of Jesus Carried                                                       | Le corps de Jésus porté                                                                   |
+| The Bridge of Kedron                                                            | Le Pont de Cédron                                                                         |
+| The Brow of the Hill near Nazareth                                              | Le front de la colline près de Nazareth                                                   |
+| The call of Andrew and Peter                                                    | L'appel d'Andrew et Peter                                                                 |
+| The Calling of Saint James and Saint John                                       | L'appel de saint Jacques et de saint Jean                                                 |
+| The Calling of Saint John and Saint Andrew                                      | L'appel de saint Jean et de saint André                                                   |
+| The Calling of Saint Matthew                                                    | L'appel de saint Matthieu                                                                 |
+| The Calling of Saint Peter and Saint Andrew                                     | L'Appel de Saint Pierre et Saint André                                                    |
+| The Canaanites Daughter                                                         | La Fille Cananéenne                                                                       |
+| The Centurion                                                                   | Le Centurion                                                                              |
+| The Chasm in the Rock in the Cave                                               | Le gouffre dans le rocher dans la grotte                                                  |
+| The Chief Priests Ask Jesus                                                     | Les grands prêtres demandent à Jésus                                                      |
+| The Chief Priests Take Counsel Together                                         | Les grands prêtres tiennent conseil ensemble                                              |
+| The Childhood of Saint John the Baptist                                         | L'enfance de saint Jean-Baptiste                                                          |
+| The Cock Crowed                                                                 | Le coq chanta                                                                             |
+| The Communion of the Apostles                                                   | La Communion des Apôtres                                                                  |
+| The Confession of Saint Longinus                                                | La Confession de saint Longin                                                             |
+| The Confession of the Centurion                                                 | La Confession du Centurion                                                                |
+| The Corner Stone                                                                | La pierre angulaire                                                                       |
+| The Crowning of Thorns                                                          | Le couronnement d'épines                                                                  |
+| The Crucifixion                                                                 | La crucifixion                                                                            |
+| The Daughter of Herodias Dancing                                                | La fille d'Hérodias danse                                                                 |
+| The Daughter of Jairus                                                          | La fille de Jaïrus                                                                        |
+| The Daughters of Jerusalem                                                      | Les Filles de Jérusalem                                                                   |
+| The Dead Appear in Jerusalem                                                    | Les morts apparaissent à Jérusalem                                                        |
+| The Dead Appear in the Temple                                                   | Les morts apparaissent dans le temple                                                     |
+| The Death of Jesus                                                              | La mort de Jésus                                                                          |
+| The Descent from the Cross                                                      | La descente de croix                                                                      |
+| The Disbelief of Saint Thomas                                                   | L'incrédulité de saint Thomas                                                             |
+| The Disciples Admire the Buildings                                              | Les Disciples Admirent les Bâtiments                                                      |
+| The Disciples Eat Wheat on the Sabbath                                          | Les disciples mangent du blé le jour du sabbat                                            |
+| The Disciples Having Left Their Hiding                                          | Les disciples ayant quitté leur cachette                                                  |
+| The Disciples of Jesus Baptize                                                  | Les disciples de Jésus baptisent                                                          |
+| The Disciples See Christ Walking on the Water                                   | Les disciples voient le Christ marcher sur l'eau                                          |
+| The Disciples visit tomb                                                        | Les Disciples visitent la tombe                                                           |
+| The Ear of Malchus                                                              | L'Oreille de Malchus                                                                      |
+| The Earthquake                                                                  | Le tremblement de terre                                                                   |
+| The Enemy Who Sows                                                              | L'ennemi qui sème                                                                         |
+| The ever present                                                                | Le toujours présent                                                                       |
+| The Evil Counsel                                                                | Le mauvais conseil                                                                        |
+| The Exhortation to the Apostles                                                 | L'Exhortation aux Apôtres                                                                 |
+| The False Witnesses                                                             | Les faux témoins                                                                          |
+| The First Denial of Saint Peter                                                 | Le premier reniement de saint Pierre                                                      |
+| The First Nail                                                                  | Le premier clou                                                                           |
+| The First Shall Be Last                                                         | Le premier sera le dernier                                                                |
+| The Five Wedges                                                                 | Les Cinq Coins                                                                            |
+| The Flight into Egypt                                                           | La Fuite en Egypte                                                                        |
+| The Flight of the Apostles                                                      | Le Vol des Apôtres                                                                        |
+| The Foal of Bethpage                                                            | Le poulain de Bethpage                                                                    |
+| The Foolish Virgins                                                             | Les vierges folles                                                                        |
+| The Four Guards Sat Down and Watched Him                                        | Les quatre gardes se sont assis et l'ont regardé                                          |
+| The Garments Divided by Cast Lots                                               | Les vêtements divisés par tirage au sort                                                  |
+| The Gentiles Ask to See Jesus                                                   | Les Gentils demandent à voir Jésus                                                        |
+| The Good Samaritan                                                              | Le Bon Samaritain                                                                         |
+| The Good Shepherd                                                               | Le Bon Pasteur                                                                            |
+| The Grotto of the Agony                                                         | La Grotte de l'Agonie                                                                     |
+| The Guards Falling Backwards                                                    | Les gardes tombent à la renverse                                                          |
+| The Head of Saint John the Baptist on a Charger                                 | La tête de saint Jean-Baptiste sur un destrier                                            |
+| The Healed Blind Man Tells His Story to the Jews                                | L'aveugle guéri raconte son histoire aux Juifs                                            |
+| The Healing of Malchus                                                          | La Guérison de Malchus                                                                    |
+| The Healing of Peters Mother-in-law                                             | La guérison de la belle-mère de Peter                                                     |
+| The Healing of Ten Lepers                                                       | La guérison de dix lépreux                                                                |
+| The Healing of the Blind Man                                                    | La guérison de l'aveugle                                                                  |
+| The Healing of the Lepers at Capernaum                                          | La guérison des lépreux à Capharnaüm                                                      |
+| The Healing of the Officer's Son                                                | La guérison du fils de l'officier                                                         |
+| The Hidden Treasure                                                             | Le trésor caché                                                                           |
+| The Holy Face                                                                   | La Sainte Face                                                                            |
+| The Holy Stair                                                                  | Le Saint Escalier                                                                         |
+| The Holy Virgin in Her Youth                                                    | La Sainte Vierge dans sa jeunesse                                                         |
+| The Holy Virgin in Old Age                                                      | La Sainte Vierge dans la vieillesse                                                       |
+| The Holy Virgin Kisses the Face                                                 | La Sainte Vierge baise le visage                                                          |
+| The Holy Virgin Receives the Body                                               | La Sainte Vierge reçoit le corps                                                          |
+| The Holy Women                                                                  | Les Saintes Femmes                                                                        |
+| The Holy Women Watch from Afar                                                  | Les Saintes Femmes regardent de loin                                                      |
+| The Hope of the World                                                           | L'Espoir du Monde                                                                         |
+| The Jews Took Up Rocks to Stone Jesus                                           | Les Juifs ont soulevé des pierres pour lapider Jésus                                      |
+| The Judgment of the Sanhedrin                                                   | Le Jugement du Sanhédrin                                                                  |
+| The Judgment on the Gabbatha                                                    | Le jugement sur le Gabbatha                                                               |
+| The Kiss of Judas                                                               | Le Baiser de Judas                                                                        |
+| The Last Sermon of Our Lord                                                     | Le Dernier Sermon de Notre-Seigneur                                                       |
+| The Last Sigh of Christ                                                         | Le dernier soupir du Christ                                                               |
+| The Last supper                                                                 | Le dernier souper                                                                         |
+| The life of Jesus of Nazareth                                                   | La vie de Jésus de Nazareth                                                               |
+| The little child set in their midst                                             | Le petit enfant placé au milieu d'eux                                                     |
+| The Lord Wept                                                                   | Le Seigneur a pleuré                                                                      |
+| The Lords Prayer                                                                | La prière du Seigneur                                                                     |
+| The Lost Drachma                                                                | La drachme perdue                                                                         |
+| The Madgalene Runs to the Cenacle                                               | La Madeleine court au Cénacle                                                             |
+| The Magdalene Before Her Conversion                                             | La Madeleine avant sa conversion                                                          |
+| The Magnificat                                                                  | Le Magnificat                                                                             |
+| The Man at the Plough                                                           | L'homme à la charrue                                                                      |
+| The Man Who Hoards                                                              | L'homme qui amasse                                                                        |
+| The Man with an Infirmity of Thirty-Eight Years                                 | L'homme avec une infirmité de trente-huit ans                                             |
+| The Man with the jar of water                                                   | L'Homme à la jarre d'eau                                                                  |
+| The Man with the Withered Hand                                                  | L'homme à la main flétrie                                                                 |
+| The Marriage at Cana                                                            | Les Noces de Cana                                                                         |
+| The Massacre of the Innocents                                                   | Le Massacre des Innocents                                                                 |
+| The Meal in the House of Matthew                                                | Le repas dans la maison de Matthieu                                                       |
+| The Meal in the House of the Pharisee                                           | Le Repas dans la Maison du Pharisien                                                      |
+| The Merchants Chased from the Temple                                            | Les marchands chassés du temple                                                           |
+| The Message of Pilate's Wife                                                    | Le message de la femme de Pilate                                                          |
+| The Miracle of the Loaves and Fishes                                            | Le miracle des pains et des poissons                                                      |
+| The Miraculous Draught of Fishes                                                | Le projet miraculeux de poissons                                                          |
+| The Miraculous Haul of Fishes                                                   | Le transport miraculeux des poissons                                                      |
+| The Morning Judgment                                                            | Le jugement du matin                                                                      |
+| The Nail for the Feet                                                           | Le clou pour les pieds                                                                    |
+| The Ointment of the Magdalene                                                   | L'Onguent de la Madeleine                                                                 |
+| The Palsied Man Let Down through the Roof                                       | L'homme paralytique laissé tomber par le toit                                             |
+| The Pardon of the Good Thief                                                    | Le pardon du bon larron                                                                   |
+| The People Seek Jesus to Make Him King                                          | Le peuple cherche Jésus pour le faire roi                                                 |
+| The Pharisee and the publican                                                   | Le pharisien et le publicain                                                              |
+| The Pharisees and the Herodians Conspire Against Jesus                          | Les pharisiens et les hérodiens conspirent contre Jésus                                   |
+| The Pharisees and the Saduccees Come to Tempt Jesus                             | Les pharisiens et les saducéens viennent tenter Jésus                                     |
+| The Pharisees Question Jesus                                                    | Les pharisiens interrogent Jésus                                                          |
+| The Pilgrims of Emmaus on the Road                                              | Les pèlerins d'Emmaüs sur la route                                                        |
+| The Piscina Probatica or Pool of Bethesda                                       | La Piscina Probatica ou Piscine de Bethesda                                               |
+| The Poor Lazarus at the Rich Man's Door                                         | Le pauvre Lazare à la porte du riche                                                      |
+| The Possessed Boy at the Foot of Mount Tabor                                    | Le garçon possédé au pied du mont Thabor                                                  |
+| The Possessed Man in the Synagogue                                              | L'homme possédé de la synagogue                                                           |
+| The Presentation of Jesus in the Temple                                         | La Présentation de Jésus au Temple                                                        |
+| The Primacy of Saint Peter                                                      | La Primauté de Saint Pierre                                                               |
+| The Procession in the Streets                                                   | Le cortège dans les rues                                                                  |
+| The Procession in the Temple                                                    | La Procession au Temple                                                                   |
+| The Procession Nearing Calvary                                                  | La procession approche du Calvaire                                                        |
+| The Procession of Judas                                                         | Le cortège de Judas                                                                       |
+| The Procession on the Mount of Olives                                           | La Procession au Mont des Oliviers                                                        |
+| The Prodigal Son                                                                | Le fils prodigue                                                                          |
+| The Prodigal Son Begging                                                        | Le fils prodigue mendiant                                                                 |
+| The Prophecy of the Destruction of the Temple                                   | La Prophétie de la Destruction du Temple                                                  |
+| The Protestations of Saint Peter                                                | Les protestations de saint Pierre                                                         |
+| The raising of the cross                                                        | L'élévation de la croix                                                                   |
+| The Repentant Mary Magdalene                                                    | La repentante Marie Madeleine                                                             |
+| The Resurrection                                                                | La Résurrection                                                                           |
+| The Resurrection heralds                                                        | Les hérauts de la Résurrection                                                            |
+| The Resurrection Of Christ                                                      | La résurrection du Christ                                                                 |
+| The Resurrection of the Widows Son at Nain                                      | La résurrection du fils de la veuve à Naïn                                                |
+| The Return of the Prodigal Son                                                  | Le retour du fils prodigue                                                                |
+| The Rich Young Man Went Away Sorrowful                                          | Le jeune homme riche est parti triste                                                     |
+| The rich young ruler                                                            | Le jeune souverain riche                                                                  |
+| The Scourging on the Back                                                       | La flagellation dans le dos                                                               |
+| The Scourging on the Front                                                      | La flagellation sur le front                                                              |
+| The Scribe Stood to Tempt Jesus                                                 | Le scribe s'est levé pour tenter Jésus                                                    |
+| The Second Denial of Saint Peter                                                | Le deuxième reniement de saint Pierre                                                     |
+| The Second Miraculous Draught of Fishes                                         | La deuxième pêche miraculeuse                                                             |
+| The Sermon of the Beatitudes                                                    | Le Sermon des Béatitudes                                                                  |
+| The Sermon on the Mount                                                         | Le Sermon sur la Montagne                                                                 |
+| The Shepherds and the Angel                                                     | Les bergers et l'ange                                                                     |
+| The Sick Awaiting the Passage of Jesus                                          | Les malades attendant le passage de Jésus                                                 |
+| The Sojourn in Egypt                                                            | Le séjour en Egypte                                                                       |
+| The Son of the Vineyard                                                         | Le fils de la vigne                                                                       |
+| The Sorrow of Saint Peter                                                       | La douleur de saint Pierre                                                                |
+| The Sorrowful Mother                                                            | La Mère Douloureuse                                                                       |
+| The Soul of the Good Thief                                                      | L'âme du bon voleur                                                                       |
+| The Sower                                                                       | Le Semeur                                                                                 |
+| The Strike of the Lance                                                         | Le coup de lance                                                                          |
+| The Swine Driven into the Sea                                                   | Le porc jeté à la mer                                                                     |
+| The Temptation in the Wilderness                                                | La tentation dans le désert                                                               |
+| The Testing of the Suitors of the Holy Virgin                                   | L'épreuve des prétendants de la Sainte Vierge                                             |
+| The Thieves Legs Are Broken                                                     | Les jambes des voleurs sont cassées                                                       |
+| The Third Denial of Peter                                                       | Le troisième reniement de Pierre                                                          |
+| The Title on the Cross                                                          | Le titre sur la croix                                                                     |
+| The Torn Cloak                                                                  | Le manteau déchiré                                                                        |
+| The Tower of Siloam                                                             | La Tour de Siloé                                                                          |
+| The transfiguration                                                             | La métamorphose                                                                           |
+| The Tribunal of Annas                                                           | Le Tribunal d'Anne                                                                        |
+| The Tribute Money                                                               | L'argent du tribut                                                                        |
+| The Two Blind Men at Jericho                                                    | Les deux aveugles à Jéricho                                                               |
+| The Two Marys Watch the Tomb                                                    | Les deux Maries veillent sur le tombeau                                                   |
+| The Two Men Possessed with Devils                                               | Les deux hommes possédés de démons                                                        |
+| The Two Women at the Mill                                                       | Les deux femmes au moulin                                                                 |
+| The Vase of Myrrh and Gall                                                      | Le vase de myrrhe et de galle                                                             |
+| The Vine Dresser and the Fig Tree                                               | Le vigneron et le figuier                                                                 |
+| The Vision of Saint Joseph                                                      | La Vision de saint Joseph                                                                 |
+| The Vision of Zacharias                                                         | La vision de Zacharie                                                                     |
+| The Visitation                                                                  | La Visitation                                                                             |
+| The Voice from on High                                                          | La voix d'en haut                                                                         |
+| The Voice in the Desert                                                         | La voix dans le désert                                                                    |
+| The Washing of the Feet                                                         | Le lavement des pieds                                                                     |
+| The Watch Over the Tomb                                                         | La Garde du Tombeau                                                                       |
+| The wedding at Cana                                                             | Les noces de Cana                                                                         |
+| The Widows Mite                                                                 | L'acarien des veuves                                                                      |
+| The Wise Virgins                                                                | Les Vierges Sages                                                                         |
+| The Woman of Canaan                                                             | La femme de Canaan                                                                        |
+| The Woman of Samaria at the Well (Nalda the samaritan)                          | La Samaritaine au puits (Nalda la samaritaine)                                            |
+| The Woman with an Infirmity of Eighteen Years                                   | La femme avec une infirmité de dix-huit ans                                               |
+| The Woman with an Issue of Blood                                                | La femme avec une perte de sang                                                           |
+| The Youth of Jesus                                                              | La Jeunesse de Jésus                                                                      |
+| They Dressed Him in His Own Garments                                            | Ils l'ont habillé de ses propres vêtements                                                |
+| Three hundred and sixty-five                                                    | Trois cent soixante-cinq                                                                  |
+| Touch Me Not                                                                    | Ne me touchez pas                                                                         |
+| Transfiguration                                                                 | Transfiguration                                                                           |
+| Two or Three Gathered in my Name                                                | Deux ou trois réunis en mon nom                                                           |
+| What is truth?                                                                  | Qu'est-ce que la vérité ?                                                                 |
+| What Our Lord Saw from the Cross                                                | Ce que Notre-Seigneur a vu de la croix                                                    |
+| With Passover Approaching, Jesus Goes Up to Jerusalem                           | A l'approche de la Pâque, Jésus monte à Jérusalem                                         |
+| Woe unto You Scribes and Pharisees                                              | Malheur à vous scribes et pharisiens                                                      |
+| Woman at the Sepulchre                                                          | Femme au sépulcre                                                                         |
+| Woman at the Well (Nalda the samaritan)                                         | Femme au puits (Nalda la samaritaine)                                                     |
+| You Could Not Watch One Hour                                                    | Vous ne pouviez pas regarder une heure                                                    |
+| You Follow Me for the Miracles                                                  | Vous me suivez pour les miracles                                                          |
+| Zacchaeus in the Sycamore Awaiting the Passage of Jesus                         | Zachée dans le sycomore attendant le passage de Jésus                                     |
+| Zachaeus in tree                                                                | Zachée dans l'arbre                                                                       |
+| Zacharias Killed Between the Temple and the Altar                               | Zacharias tué entre le temple et l'autel                                                  |
+| Jesus face                                                                      | Visage de Jésus                                                                           |
