@@ -40,7 +40,7 @@
                 {
                     "par_ref": "126:1.2",
                     "par_pageref": "1387.2",
-                    "par_content": "Poco più di cento anni prima questa collina era stata “l’alto luogo di Baal” ed ora era il luogo della tomba di Simeone, un sant’uomo stimato d’Israele{0}. Dalla sommità di questa collina di Simeone, Gesù poteva vedere Nazaret e la regione circostante. Poteva vedere Meghiddo e ricordare la storia dell’esercito egiziano che aveva riportato la sua prima grande vittoria in Asia; e come più tardi un esercito simile sconfisse Giosia, il re della Giudea. Non lontano da là poteva vedere Taanak, dove Debora e Barak sconfissero Sisara. In distanza poteva scorgere le colline di Dotan, dove gli era stato insegnato che Giuseppe era stato venduto dai suoi fratelli agli Egiziani come schiavo. Poi poteva volgere il suo sguardo verso Ebal e Garizim e ricordarsi le tradizioni di Abramo, di Giacobbe e di Abimelek. E così ricordava e rimuginava nella sua mente gli avvenimenti storici e tradizionali del popolo di suo padre Giuseppe."
+                    "par_content": "Poco più di cento anni prima questa collina era stata “l’alto luogo di Baal” ed ora era il luogo della tomba di Simeone, un sant’uomo stimato d’Israele{0}. Dalla sommità di questa collina di Simeone, Gesù poteva vedere Nazaret e la regione circostante. Poteva vedere Meghiddo e ricordare la storia dell’esercito egiziano che aveva riportato la sua prima grande vittoria in Asia; e come più tardi un esercito simile sconfisse Giosia, il re della Giudea{1}. Non lontano da là poteva vedere Taanak, dove Debora e Barak sconfissero Sisara{2}. In distanza poteva scorgere le colline di Dotan, dove gli era stato insegnato che Giuseppe era stato venduto dai suoi fratelli agli Egiziani come schiavo{3}. Poi poteva volgere il suo sguardo verso Ebal e Garizim e ricordarsi le tradizioni di Abramo, di Giacobbe e di Abimelek. E così ricordava e rimuginava nella sua mente gli avvenimenti storici e tradizionali del popolo di suo padre Giuseppe."
                 },
                 {
                     "par_ref": "126:1.3",
@@ -149,7 +149,7 @@
                 {
                     "par_ref": "126:3.6",
                     "par_pageref": "1390.1",
-                    "par_content": "Nel corso di quest’anno Gesù trovò nel cosiddetto Libro di Enoch un passaggio che lo spinse ad adottare più tardi l’espressione “Figlio dell’Uomo” come designazione della sua missione di conferimento su Urantia{9}. Egli aveva accuratamente considerato l’idea del Messia ebreo e si convinse fermamente che non sarebbe stato quel Messia. Anelava ad aiutare il popolo di suo padre, ma non pensò mai di mettersi alla testa degli eserciti ebrei per liberare la Palestina dalla dominazione straniera. Egli sapeva che non si sarebbe mai seduto sul trono di Davide a Gerusalemme. E nemmeno credeva che la sua missione fosse quella di un liberatore spirituale o di un educatore morale solo per il popolo ebreo. In nessun senso, quindi, la missione della sua vita poteva essere il compimento dei desideri ardenti e delle supposte profezie messianiche delle Scritture ebraiche; almeno non nella maniera in cui gli Ebrei comprendevano queste predizioni dei profeti. Similmente egli era certo che non sarebbe mai apparso come il Figlio dell’Uomo descritto dal profeta Daniele."
+                    "par_content": "Nel corso di quest’anno Gesù trovò nel cosiddetto Libro di Enoch un passaggio che lo spinse ad adottare più tardi l’espressione “Figlio dell’Uomo” come designazione della sua missione di conferimento su Urantia{9}. Egli aveva accuratamente considerato l’idea del Messia ebreo e si convinse fermamente che non sarebbe stato quel Messia. Anelava ad aiutare il popolo di suo padre, ma non pensò mai di mettersi alla testa degli eserciti ebrei per liberare la Palestina dalla dominazione straniera. Egli sapeva che non si sarebbe mai seduto sul trono di Davide a Gerusalemme. E nemmeno credeva che la sua missione fosse quella di un liberatore spirituale o di un educatore morale solo per il popolo ebreo. In nessun senso, quindi, la missione della sua vita poteva essere il compimento dei desideri ardenti e delle supposte profezie messianiche delle Scritture ebraiche; almeno non nella maniera in cui gli Ebrei comprendevano queste predizioni dei profeti. Similmente egli era certo che non sarebbe mai apparso come il Figlio dell’Uomo descritto dal profeta Daniele{10}."
                 },
                 {
                     "par_ref": "126:3.7",
@@ -316,21 +316,21 @@
     "footnotes": [
         "*Alto luogo di Baal*: Nm 22:41.",
         "*Giosia sconfitto*: 2 Re 23:29-30; 2 Cr 35:20-24.",
-        "*Sisera sconfitto*: Jg 4:10-16.",
+        "*Sisera sconfitto*: Gdc 4:10-16.",
         "*Giuseppe venduto come schiavo*: Gn 37:23-28.",
         "*Gesù crebbe in favore dell'uomo e di Dio*: Lc 2:52.",
-        "*Seduto ai piedi di nessuno*: Hch 22:3.",
+        "*Seduto ai piedi di nessuno*: At 22:3.",
         "*Nasce la sorella Ruth*: Mt 13:56; Mc 6:3.",
         "*Il Padre Nostro*: Mt 6:9-13; Lc 11:2-4.",
         "*Per gli affari del Padre suo*: Lc 2:49.",
-        "*Figlio dell'uomo*: Ez 2:1,3,6,8; Ez 3:1-4,10,17; Dn 7:13-14; Mt 8:20; Mc 2:10; Lc 5:24; Jn 1:51; Ap 1:13; Ap 14:14; 1 Enoch 46:1-6; 1 Enoch 48:1-7; 1 Enoch 60:10; 1 Enoch 62:1,14; 1 Enoch 63:11; 1 Enoch 69:26-29; 1 Enoch 70:1-2; 1 Enoch 71:14-16.",
+        "*Figlio dell'uomo*: Ez 2:1,3,6,8; Ez 3:1-4,10,17; Dn 7:13-14; Mt 8:20; Mc 2:10; Lc 5:24; Gv 1:51; Ap 1:13; Ap 14:14; 1 Enoc 46:1-6; 1 Enoc 48:1-7; 1 Enoc 60:10; 1 Enoc 62:1,14; 1 Enoc 63:11; 1 Enoc 69:26-29; 1 Enoc 70:1-2; 1 Enoc 71:14-16.",
         "*Non figlio dell'uomo di Daniele*: Dn 7:13-14.",
         "*Per gli affari del Padre suo*: Lc 2:49.",
         "*Il primo servizio di culto di Gesù*: Lc 4:16-20.",
         "*Scrittura letta: Lo Spirito del Signore è su di me*: Is 61:1-3.",
         "*Scrittura letta: Cercate il bene e non il male*: Am 5:14-15.",
         "*Scrittura letta: Lavatevi, rendetevi puri*: Is 1:16-17.",
-        "*Leggasi Scrittura: Con che cosa verrò davanti al Signore?*: Miq 6:6-8.",
+        "*Leggasi Scrittura: Con che cosa verrò davanti al Signore?*: Mi 6:6-8.",
         "*Lettura della Scrittura: A chi dunque paragonerete Dio?*: Is 40:18,22,26,29; Is 41:10,13.",
         "*Leggete la Scrittura: Voi siete i miei testimoni, dice il Signore*: Is 43:10-11.",
         "*Quella volpe, Erode*: Lc 13:32."

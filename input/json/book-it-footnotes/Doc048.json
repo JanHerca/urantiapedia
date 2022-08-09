@@ -60,7 +60,7 @@
                 {
                     "par_ref": "48:1.7",
                     "par_pageref": "542.4",
-                    "par_content": "Paolo sapeva dell’esistenza dei mondi morontiali e della realtà dei materiali morontiali, perché scrisse: “Essi hanno in cielo una sostanza migliore e più resistente{0}.” E questi materiali morontiali sono reali, fisici, così come nella “città che ha delle fondamenta, il cui costruttore ed artefice è Dio”. E ciascuna di queste sfere meravigliose è “un paese migliore, cioè un paese celeste”."
+                    "par_content": "Paolo sapeva dell’esistenza dei mondi morontiali e della realtà dei materiali morontiali, perché scrisse: “Essi hanno in cielo una sostanza migliore e più resistente{0}.” E questi materiali morontiali sono reali, fisici, così come nella “città che ha delle fondamenta, il cui costruttore ed artefice è Dio”{1}. E ciascuna di queste sfere meravigliose è “un paese migliore, cioè un paese celeste”{2}."
                 }
             ]
         },
@@ -505,7 +505,7 @@
                 {
                     "par_ref": "48:6.8",
                     "par_pageref": "552.6",
-                    "par_content": "Anche su Urantia essi consigliano agli insegnanti umani della verità e della rettitudine di aderire alla predicazione della “bontà di Dio che conduce al pentimento”, di proclamare “l’amore di Dio che scaccia ogni timore”{5}. Queste verità sono state annunciate nel vostro mondo anche così:"
+                    "par_content": "Anche su Urantia essi consigliano agli insegnanti umani della verità e della rettitudine di aderire alla predicazione della “bontà di Dio che conduce al pentimento”, di proclamare “l’amore di Dio che scaccia ogni timore”{5}{6}. Queste verità sono state annunciate nel vostro mondo anche così:{7}"
                 },
                 {
                     "par_ref": "48:6.9",
@@ -580,7 +580,7 @@
                 {
                     "par_ref": "48:6.23",
                     "par_pageref": "553.4",
-                    "par_content": "Voi dovreste riflettere sulle espressioni “cielo” e “cielo dei cieli”{8}. Il cielo concepito dalla maggior parte dei vostri profeti era il primo mondo delle dimore del sistema locale. Quando l’apostolo parlò di essere “elevato al terzo cielo”, si riferiva all’esperienza in cui il suo Aggiustatore si staccò durante il sonno ed in questo stato insolito si proiettò sul terzo dei sette mondi delle dimore. Alcuni dei vostri uomini saggi ebbero la visione del cielo più grande, “il cielo dei cieli”, di cui l’esperienza del settuplo mondo delle dimore non era che il primo. Il secondo cielo era Jerusem, il terzo Edentia ed i suoi satelliti, il quarto Salvington e le sfere educative che lo circondano, il quinto Uversa, il sesto Havona ed il settimo il Paradiso."
+                    "par_content": "Voi dovreste riflettere sulle espressioni “cielo” e “cielo dei cieli”{8}. Il cielo concepito dalla maggior parte dei vostri profeti era il primo mondo delle dimore del sistema locale. Quando l’apostolo parlò di essere “elevato al terzo cielo”, si riferiva all’esperienza in cui il suo Aggiustatore si staccò durante il sonno ed in questo stato insolito si proiettò sul terzo dei sette mondi delle dimore{9}. Alcuni dei vostri uomini saggi ebbero la visione del cielo più grande, “il cielo dei cieli”, di cui l’esperienza del settuplo mondo delle dimore non era che il primo. Il secondo cielo era Jerusem, il terzo Edentia ed i suoi satelliti, il quarto Salvington e le sfere educative che lo circondano, il quinto Uversa, il sesto Havona ed il settimo il Paradiso."
                 },
                 {
                     "par_ref": "48:6.24",
@@ -850,17 +850,17 @@
         }
     ],
     "footnotes": [
-        "*In cielo sostanza migliore*: Mt 6:19-20; Heb 10:34.",
-        "*Il costruttore della città, l'artefice, è Dio*: 2 Co 5:1; Heb 11:10.",
-        "*Paese migliore del cielo*: Heb 11:16.",
+        "*In cielo sostanza migliore*: Mt 6:19-20; Eb 10:34.",
+        "*Il costruttore della città, l'artefice, è Dio*: 2 Cor 5:1; Eb 11:10.",
+        "*Paese migliore del cielo*: Eb 11:16.",
         "*Tutte le cose lavorano insieme*: Ro 8:28.",
-        "*Sgonfiamento dell'ego*: Ro 12:3; 2 Co 12:7; Gl 6:3.",
+        "*Sgonfiamento dell'ego*: Ro 12:3; 2 Cor 12:7; Gal 6:3.",
         "*La bontà di Dio porta a*: Ro 2:4.",
-        "*L'amore di Dio scaccia la paura*: 1 Jn 4:18.",
+        "*L'amore di Dio scaccia la paura*: 1 Gv 4:18.",
         "*Salmo 23°*: Sal 23:1-6.",
         "*Il cielo, il cielo dei cieli*: 1 Re 8:27; 2 Cr 2:6; 2 Cr 6:18; Neh 9:6; Sal 148:4; Dt 10:14.",
-        "*Preso nel terzo cielo*: 2 Co 12:2.",
-        "*Mente di Gesù*: 1 Co 2:16; Flp 2:5."
+        "*Preso nel terzo cielo*: 2 Cor 12:2.",
+        "*Mente di Gesù*: 1 Cor 2:16; Fil 2:5."
     ],
     "paper_title": "La vita morontiale"
 }

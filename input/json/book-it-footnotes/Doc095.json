@@ -35,7 +35,7 @@
                 {
                     "par_ref": "95:1.4",
                     "par_pageref": "1042.5",
-                    "par_content": "Gli insegnanti di Salem ridussero notevolmente il numero degli dei della Mesopotamia, portando ad un dato momento le principali deità al numero di sette: Bel, Shamash, Nabu, Anu, Ea, Marduk e Sin{1}. All’apice del nuovo insegnamento essi elevarono tre di questi dei alla supremazia su tutti gli altri, la triade babilonese: Bel, Ea ed Anu, gli dei della terra, del mare e del cielo. Altre triadi ebbero origine in differenti località; erano tutte reminiscenze degli insegnamenti sulla Trinità degli Anditi e dei Sumeri e basate sulla credenza dei Salemiti nell’emblema dei tre cerchi di Melchizedek."
+                    "par_content": "Gli insegnanti di Salem ridussero notevolmente il numero degli dei della Mesopotamia, portando ad un dato momento le principali deità al numero di sette: Bel, Shamash, Nabu, Anu, Ea, Marduk e Sin{1}{2}{3}. All’apice del nuovo insegnamento essi elevarono tre di questi dei alla supremazia su tutti gli altri, la triade babilonese: Bel, Ea ed Anu, gli dei della terra, del mare e del cielo. Altre triadi ebbero origine in differenti località; erano tutte reminiscenze degli insegnamenti sulla Trinità degli Anditi e dei Sumeri e basate sulla credenza dei Salemiti nell’emblema dei tre cerchi di Melchizedek."
                 },
                 {
                     "par_ref": "95:1.5",
@@ -176,12 +176,12 @@
                 {
                     "par_ref": "95:4.2",
                     "par_pageref": "1046.3",
-                    "par_content": "Amenemope insegnò che le ricchezze e la fortuna erano dono di Dio, e questo concetto permeò completamente la filosofia ebraica apparsa più tardi{6}. Questo nobile insegnante credeva che la coscienza di Dio fosse il fattore determinante in ogni condotta; che ogni istante doveva essere vissuto nella realizzazione della presenza di Dio e della responsabilità verso di lui. Gli insegnamenti di questo saggio furono in seguito tradotti in ebraico e divennero il libro sacro di quel popolo molto prima che l’Antico Testamento fosse stato scritto. La predicazione principale di quest’uomo onesto concerneva l’istruzione di suo figlio sulla rettitudine e l’onestà nei posti di fiducia governativi, e questi nobili sentimenti di molto tempo fa onorerebbero qualsiasi uomo di Stato moderno."
+                    "par_content": "Amenemope insegnò che le ricchezze e la fortuna erano dono di Dio, e questo concetto permeò completamente la filosofia ebraica apparsa più tardi{6}. Questo nobile insegnante credeva che la coscienza di Dio fosse il fattore determinante in ogni condotta; che ogni istante doveva essere vissuto nella realizzazione della presenza di Dio e della responsabilità verso di lui. Gli insegnamenti di questo saggio furono in seguito tradotti in ebraico e divennero il libro sacro di quel popolo molto prima che l’Antico Testamento fosse stato scritto. La predicazione principale di quest’uomo onesto concerneva l’istruzione di suo figlio sulla rettitudine e l’onestà nei posti di fiducia governativi, e questi nobili sentimenti di molto tempo fa onorerebbero qualsiasi uomo di Stato moderno{7}."
                 },
                 {
                     "par_ref": "95:4.3",
                     "par_pageref": "1046.4",
-                    "par_content": "Questo saggio uomo del Nilo insegnò che “le ricchezze mettono le ali e volano via” — che tutte le cose terrene sono evanescenti{8}. La sua grande preghiera era di essere “liberato dalla paura”. Egli esortò tutti a distogliersi dalle “parole degli uomini” per rivolgersi agli “atti di Dio”. In sostanza insegnò che l’uomo propone ma che Dio dispone. I suoi insegnamenti, tradotti in ebraico, determinarono la filosofia dei Libro dei Proverbi dell’Antico Testamento. Tradotti in greco, essi permearono tutta la filosofia religiosa ellenica successiva. Il posteriore filosofo Filone d’Alessandria possedeva una copia del Libro della Saggezza."
+                    "par_content": "Questo saggio uomo del Nilo insegnò che “le ricchezze mettono le ali e volano via” — che tutte le cose terrene sono evanescenti{8}. La sua grande preghiera era di essere “liberato dalla paura”{9}. Egli esortò tutti a distogliersi dalle “parole degli uomini” per rivolgersi agli “atti di Dio”{10}. In sostanza insegnò che l’uomo propone ma che Dio dispone. I suoi insegnamenti, tradotti in ebraico, determinarono la filosofia dei Libro dei Proverbi dell’Antico Testamento. Tradotti in greco, essi permearono tutta la filosofia religiosa ellenica successiva. Il posteriore filosofo Filone d’Alessandria possedeva una copia del Libro della Saggezza."
                 },
                 {
                     "par_ref": "95:4.4",
@@ -191,7 +191,7 @@
                 {
                     "par_ref": "95:4.5",
                     "par_pageref": "1046.6",
-                    "par_content": "Nel Libro dei Proverbi ebrei, i capitoli quindici, diciassette, venti ed il capitolo ventidue, dal versetto diciassette al capitolo ventiquattro, versetto ventidue, sono tratti quasi parola per parola dal Libro della Saggezza di Amenemope{11}. Il primo salmo del Libro dei Salmi ebreo fu scritto da Amenemope ed è l’essenza degli insegnamenti di Ikhnaton."
+                    "par_content": "Nel Libro dei Proverbi ebrei, i capitoli quindici, diciassette, venti ed il capitolo ventidue, dal versetto diciassette al capitolo ventiquattro, versetto ventidue, sono tratti quasi parola per parola dal Libro della Saggezza di Amenemope{11}. Il primo salmo del Libro dei Salmi ebreo fu scritto da Amenemope ed è l’essenza degli insegnamenti di Ikhnaton{12}."
                 }
             ]
         },
@@ -347,7 +347,7 @@
                 {
                     "par_ref": "95:7.3",
                     "par_pageref": "1051.1",
-                    "par_content": "Qua e là in tutta l’Arabia c’erano famiglie e clan che rimanevano attaccati alla vaga idea del Dio unico. Tali gruppi tenevano molto care le tradizioni di Melchizedek, di Abramo, di Mosè e di Zoroastro. C’erano numerosi centri che avrebbero potuto essere sensibili al vangelo di Gesù, ma i missionari cristiani dei paesi del deserto erano un gruppo austero ed inflessibile, in contrasto con quelli disposti al compromesso ed innovatori che operavano come missionari nelle regioni del Mediterraneo. Se i discepoli di Gesù avessero preso più seriamente la sua ingiunzione “di andare in tutto il mondo a predicare il vangelo” e se fossero stati più affabili nel predicarlo, meno severi nelle esigenze sociali collaterali da loro stessi ideate, allora molti paesi avrebbero accolto di buon grado il semplice vangelo del figlio del carpentiere, e tra essi l’Arabia{15}."
+                    "par_content": "Qua e là in tutta l’Arabia c’erano famiglie e clan che rimanevano attaccati alla vaga idea del Dio unico. Tali gruppi tenevano molto care le tradizioni di Melchizedek, di Abramo, di Mosè e di Zoroastro. C’erano numerosi centri che avrebbero potuto essere sensibili al vangelo di Gesù, ma i missionari cristiani dei paesi del deserto erano un gruppo austero ed inflessibile, in contrasto con quelli disposti al compromesso ed innovatori che operavano come missionari nelle regioni del Mediterraneo. Se i discepoli di Gesù avessero preso più seriamente la sua ingiunzione “di andare in tutto il mondo a predicare il vangelo” e se fossero stati più affabili nel predicarlo, meno severi nelle esigenze sociali collaterali da loro stessi ideate, allora molti paesi avrebbero accolto di buon grado il semplice vangelo del figlio del carpentiere, e tra essi l’Arabia{15}{16}."
                 },
                 {
                     "par_ref": "95:7.4",
@@ -373,23 +373,23 @@
         }
     ],
     "footnotes": [
-        "*Sabbath-keeping*: Ex 16:23-26; Ex 20:8-11; Ex 31:14-17; Ex 35:2-3; Lv 23:3; Dt 5:12-15.",
-        "*«Dei» Bel concorrenti*: Jer 51:44; Bel 1:1-22.",
+        "*Sabbath-keeping*: Es 16:23-26; Es 20:8-11; Es 31:14-17; Es 35:2-3; Lv 23:3; Dt 5:12-15.",
+        "*«Dei» Bel concorrenti*: Ger 51:44; Bel 1:1-22.",
         "*«Dei» Bel concorrenti, Nabu*: Is 46:1.",
-        "*«Dei» Bel concorrenti, Marduk*: Jer 50:2.",
-        "*Ashtoreth*: 1 Re 11:5,33; 2 Re 23:13; Jg 2:13; Jg 10:6; 1 Sam 7:3-4; 1 Sam 12:10. *Dei concorrenti Baal, Ashtaroth*: Jg 2:13; Jg 10:6; 1 Sam 12:10; 1 Sam 7:3-4.",
-        "*Sputo come agente di guarigione*: Mc 8:23; Jn 9:6.",
-        "*Ricchezza dono di Dio ai giusti*: Sal 112:1-3; Sal 115:13; Pr 22:4; Ec 8:12-13.",
+        "*«Dei» Bel concorrenti, Marduk*: Ger 50:2.",
+        "*Ashtoreth*: 1 Re 11:5,33; 2 Re 23:13; Gdc 2:13; Gdc 10:6; 1 Sam 7:3-4; 1 Sam 12:10. *Dei concorrenti Baal, Ashtaroth*: Gdc 2:13; Gdc 10:6; 1 Sam 12:10; 1 Sam 7:3-4.",
+        "*Sputo come agente di guarigione*: Mc 8:23; Gv 9:6.",
+        "*Ricchezza dono di Dio ai giusti*: Sal 112:1-3; Sal 115:13; Pr 22:4; Qo 8:12-13.",
         "*Insegnamento dei figli*: Pr 1:8-16; Pr 2:1-2; Pr 3:1-2; Pr 4:10-20; Pr 5:2; Pr 6:20-21; Pr 7:1-3.",
         "*Le ricchezze prendono le ali e volano*: Pr 23:5.",
-        "*Salvami dalla paura*: Job 21:9; Sal 23:4; Sal 27:3; Pr 1:33; Is 41:10,13-14; Is 44:8; Is 54:4,14; Jer 30:10.",
+        "*Salvami dalla paura*: Gb 21:9; Sal 23:4; Sal 27:3; Pr 1:33; Is 41:10,13-14; Is 44:8; Is 54:4,14; Ger 30:10.",
         "*Allontanati dalle parole*: Mt 3:2; Mt 4:17.",
         "*Dal libro della saggezza*: Pr 15:all; Pr 17; Pr 20; Pr 22:17-29; Pr 23; Pr 24:1-22.",
         "*Amenemope ha scritto il primo salmo*: Sal 1.",
         "*Gesù in Egitto*: Mt 2:14.",
-        "*Dio ha creato il mondo e tutto ciò che contiene*: Gn 1:1; Gn 2:4-23; Gn 5:1-2; Ex 20:11; Ex 31:17; 2 Re 19:15; 2 Cr 2:12; Neh 9:6; Sal 115:15; Sal 121:2; Sal 124:8; Sal 134:3; Sal 146:6; Ec lo 1:1-4; Ec lo 33:10; Is 37:16; Is 40:26,28; Is 42:5; Is 45:12,18; Jer 10:11-12; Jer 32:17; Jer 51:15; Bar 3:32-36; Am 4:13; Mal 2:10; Mc 13:19; Jn 1:1-3; Hch 4:24; Hch 14:15; Ef 3:9; Col 1:16; Heb 1:2; 1 P 4:19; Ap 4:11; Ap 10:6; Ap 14:7.",
-        "*La grande commissione*: Mt 24:14; Mt 28:19-20a; Mc 13:10; Mc 16:15; Lc 24:47; Jn 17:18; Hch 1:8b.",
-        "*Il figlio del falegname*: Mt 13:55; Mc 6:3; Lc 3:23; Lc 4:22; Jn 1:45; Jn 6:42."
+        "*Dio ha creato il mondo e tutto ciò che contiene*: Gn 1:1; Gn 2:4-23; Gn 5:1-2; Es 20:11; Es 31:17; 2 Re 19:15; 2 Cr 2:12; Neh 9:6; Sal 115:15; Sal 121:2; Sal 124:8; Sal 134:3; Sal 146:6; Sir 1:1-4; Sir 33:10; Is 37:16; Is 40:26,28; Is 42:5; Is 45:12,18; Ger 10:11-12; Ger 32:17; Ger 51:15; Bar 3:32-36; Am 4:13; Ml 2:10; Mc 13:19; Gv 1:1-3; At 4:24; At 14:15; Ef 3:9; Col 1:16; Eb 1:2; 1 Pt 4:19; Ap 4:11; Ap 10:6; Ap 14:7.",
+        "*Grande commissione*: Mt 24:14; Mt 28:19-20a; Mc 13:10; Mc 16:15; Lc 24:47; Gv 17:18; At 1:8b.",
+        "*Il figlio del falegname*: Mt 13:55; Mc 6:3; Lc 3:23; Lc 4:22; Gv 1:45; Gv 6:42."
     ],
     "paper_title": "Gli insegnamenti di Melchizedek nel Levante"
 }

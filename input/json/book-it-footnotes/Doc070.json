@@ -100,7 +100,7 @@
                 {
                     "par_ref": "70:1.15",
                     "par_pageref": "784.11",
-                    "par_content": "Le tribù antiche facevano sempre la guerra su richiesta dei loro dei, su ordine dei loro capi o dei loro stregoni. Gli Ebrei credevano in un certo “Dio delle battaglie” e la narrazione della loro incursione sui Madianiti è un racconto tipico della crudeltà atroce delle antiche guerre tribali{0}. Questo attacco, con il massacro di tutti i maschi e l’uccisione successiva di tutti i figli maschi e di tutte le donne che non erano vergini, avrebbe fatto onore ai costumi di un capo tribù di duecentomila anni prima. E tutto ciò fu compiuto nel “nome del Signore Dio d’Israele”."
+                    "par_content": "Le tribù antiche facevano sempre la guerra su richiesta dei loro dei, su ordine dei loro capi o dei loro stregoni. Gli Ebrei credevano in un certo “Dio delle battaglie” e la narrazione della loro incursione sui Madianiti è un racconto tipico della crudeltà atroce delle antiche guerre tribali{0}{1}{2}. Questo attacco, con il massacro di tutti i maschi e l’uccisione successiva di tutti i figli maschi e di tutte le donne che non erano vergini, avrebbe fatto onore ai costumi di un capo tribù di duecentomila anni prima{3}. E tutto ciò fu compiuto nel “nome del Signore Dio d’Israele”."
                 },
                 {
                     "par_ref": "70:1.16",
@@ -798,7 +798,7 @@
                 {
                     "par_ref": "70:10.9",
                     "par_pageref": "795.6",
-                    "par_content": "La società adottò ben presto il metodo di ritorsione per mezzo di rappresaglie: occhio per occhio, vita per vita{12}. Tutte le tribù in evoluzione riconobbero questo diritto di vendetta cruenta. La vendetta divenne lo scopo della vita primitiva, ma da allora la religione ha grandemente modificato queste prime pratiche tribali. Gli insegnanti della religione rivelata hanno sempre proclamato: “ ‘La vendetta spetta a me’, dice il Signore.” Le uccisioni per vendetta nei tempi primitivi non erano tanto diverse dagli assassini che si commettono oggi sotto il pretesto della legge non scritta."
+                    "par_content": "La società adottò ben presto il metodo di ritorsione per mezzo di rappresaglie: occhio per occhio, vita per vita{12}{13}. Tutte le tribù in evoluzione riconobbero questo diritto di vendetta cruenta{14}. La vendetta divenne lo scopo della vita primitiva, ma da allora la religione ha grandemente modificato queste prime pratiche tribali. Gli insegnanti della religione rivelata hanno sempre proclamato: “ ‘La vendetta spetta a me’, dice il Signore{15}.” Le uccisioni per vendetta nei tempi primitivi non erano tanto diverse dagli assassini che si commettono oggi sotto il pretesto della legge non scritta."
                 },
                 {
                     "par_ref": "70:10.10",
@@ -813,7 +813,7 @@
                 {
                     "par_ref": "70:10.12",
                     "par_pageref": "796.2",
-                    "par_content": "Un altro progresso fu l’imposizione di ammende per la violazione di tabù, il provvedimento di sanzioni. Queste ammende costituirono le prime entrate pubbliche. La pratica di pagare “il denaro del sangue” entrò anch’essa in voga come sostituto della vendetta cruenta{16}. Tali danni venivano di solito pagati in donne o in bestiame; ci volle molto tempo prima che fossero stabilite come punizione di un crimine delle reali ammende, delle compensazioni in denaro. E poiché l’idea di punizione era essenzialmente una compensazione, tutte le cose, inclusa la vita umana, finirono per avere un prezzo che poteva essere pagato come indennizzo. Gli Ebrei furono i primi ad abolire la pratica di pagare il prezzo del sangue. Mosè insegnò che non dovevano “accettare alcun risarcimento per la vita di un assassino colpevole d’avere ucciso; egli sarà certamente messo a morte”."
+                    "par_content": "Un altro progresso fu l’imposizione di ammende per la violazione di tabù, il provvedimento di sanzioni. Queste ammende costituirono le prime entrate pubbliche. La pratica di pagare “il denaro del sangue” entrò anch’essa in voga come sostituto della vendetta cruenta{16}. Tali danni venivano di solito pagati in donne o in bestiame; ci volle molto tempo prima che fossero stabilite come punizione di un crimine delle reali ammende, delle compensazioni in denaro. E poiché l’idea di punizione era essenzialmente una compensazione, tutte le cose, inclusa la vita umana, finirono per avere un prezzo che poteva essere pagato come indennizzo. Gli Ebrei furono i primi ad abolire la pratica di pagare il prezzo del sangue. Mosè insegnò che non dovevano “accettare alcun risarcimento per la vita di un assassino colpevole d’avere ucciso; egli sarà certamente messo a morte”{17}."
                 },
                 {
                     "par_ref": "70:10.13",
@@ -1030,25 +1030,25 @@
     "footnotes": [
         "*Dio delle battaglie*: 1 Cr 14:15; 2 Cr 20:15; 2 Cr 32:8; Sal 24:8; Dt 7:21-23; Dt 20:1-4; 1 Sam 17:47.",
         "*Incursioni barbare*: Nm 31:3-31.",
-        "*Risparmiare le vergini*: Jg 21:10-12.",
-        "*Nel nome del Signore Dio d'Israele*: Nm 31:1-2; Dt 7:16-24; Dt 20:1; Jg 11:21,23; 1 Sam 15:2-3.",
-        "*Strage dell'esercito di Sisera*: Jg 4:16.",
+        "*Risparmiare le vergini*: Gdc 21:10-12.",
+        "*Nel nome del Signore Dio d'Israele*: Nm 31:1-2; Dt 7:16-24; Dt 20:1; Gdc 11:21,23; 1 Sam 15:2-3.",
+        "*Strage dell'esercito di Sisera*: Gdc 4:16.",
         "*Dote dei prepuzi*: 1 Sam 18:25-27.",
         "*Lotta dei campioni*: 1 Sam 17:1-51.",
-        "*Dio è amore*: 1 Jn 4:8,16.",
+        "*Dio è amore*: 1 Gv 4:8,16.",
         "*Lo straniero trattato come uno del posto*: Lv 19:34.",
-        "*Consiglio degli anziani*: Gn 50:7; Ex 3:16-18.",
+        "*Consiglio degli anziani*: Gn 50:7; Es 3:16-18.",
         "*Padre del suo popolo*: Gn 19:37-38; Gn 36:9,43; Nm 3:24.",
         "*Test di fedeltà*: Nm 5:12-31.",
-        "*Occhio per occhio*: Ex 21:23-24; Lv 24:20; Dt 19:21; Mt 5:38.",
-        "*Vita per vita*: Ex 21:23.",
-        "*Vendetta di sangue*: Dt 19:6,12; Jos 20:3-9.",
-        "*La vendetta è di Dio*: Sal 94:1; Is 35:4; Nah 1:2; Dt 32:35,41,43.",
-        "*Denaro compensativo*: Ex 21:28.",
+        "*Occhio per occhio*: Es 21:23-24; Lv 24:20; Dt 19:21; Mt 5:38.",
+        "*Vita per vita*: Es 21:23.",
+        "*Vendetta di sangue*: Dt 19:6,12; Gs 20:3-9.",
+        "*La vendetta è di Dio*: Sal 94:1; Is 35:4; Na 1:2; Dt 32:35,41,43.",
+        "*Denaro compensativo*: Es 21:28.",
         "*Non prendere il riscatto per l'assassino*: Nm 35:31.",
         "*Brucia l'adultera con il fuoco*: Gn 38:24; Lv 21:9.",
-        "*Non ucciderai*: Ex 20:13; Dt 5:17.",
-        "*È l'usanza*: Jer 32:11; Jg 11:39."
+        "*Non ucciderai*: Es 20:13; Dt 5:17.",
+        "*È l'usanza*: Ger 32:11; Gdc 11:39."
     ],
     "paper_title": "L’evoluzione del governo umano"
 }

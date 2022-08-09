@@ -203,7 +203,7 @@
                 {
                     "par_ref": "87:5.4",
                     "par_pageref": "962.5",
-                    "par_content": "Si credeva che la prosperità umana fosse particolarmente provocatrice dell’invidia degli spiriti cattivi, e che il loro metodo di rappresaglia consistesse nel reagire tramite un agente umano e mediante la tecnica del malocchio{1}. Questa fase del culto che riguardava il modo di sfuggire agli spiriti si occupava molto delle macchinazioni del malocchio. La paura di esso divenne quasi universale. Le donne graziose furono velate per proteggerle dal malocchio; in seguito molte donne che desideravano essere considerate belle adottarono questa pratica. A causa di questa paura degli spiriti cattivi si permetteva raramente ai ragazzi di uscire dopo il calare della notte e le preghiere primitive includevano sempre la supplica: “Liberaci dal malocchio.”"
+                    "par_content": "Si credeva che la prosperità umana fosse particolarmente provocatrice dell’invidia degli spiriti cattivi, e che il loro metodo di rappresaglia consistesse nel reagire tramite un agente umano e mediante la tecnica del malocchio{1}. Questa fase del culto che riguardava il modo di sfuggire agli spiriti si occupava molto delle macchinazioni del malocchio. La paura di esso divenne quasi universale. Le donne graziose furono velate per proteggerle dal malocchio; in seguito molte donne che desideravano essere considerate belle adottarono questa pratica{2}. A causa di questa paura degli spiriti cattivi si permetteva raramente ai ragazzi di uscire dopo il calare della notte e le preghiere primitive includevano sempre la supplica: “Liberaci dal malocchio.”"
                 },
                 {
                     "par_ref": "87:5.5",
@@ -340,7 +340,7 @@
                 {
                     "par_ref": "87:6.16",
                     "par_pageref": "965.3",
-                    "par_content": "Venne poi la pratica dei voti rituali, seguita ben presto dai solenni voti religiosi e dai giuramenti sacri{4}. La maggior parte di questi giuramenti era accompagnata da torture e mutilazioni inflitte a se stessi; più tardi da digiuni e preghiere. L’autonegazione fu successivamente considerata come un coercitivo sicuro; questo fu specialmente vero in materia di astensione sessuale. Così l’uomo primitivo sviluppò presto una marcata austerità nelle sue pratiche religiose, una credenza nell’efficacia dell’autotortura e dell’autonegazione quali rituali capaci di costringere gli spiriti restii a reagire favorevolmente verso tali sofferenze e privazioni."
+                    "par_content": "Venne poi la pratica dei voti rituali, seguita ben presto dai solenni voti religiosi e dai giuramenti sacri{4}. La maggior parte di questi giuramenti era accompagnata da torture e mutilazioni inflitte a se stessi; più tardi da digiuni e preghiere{5}. L’autonegazione fu successivamente considerata come un coercitivo sicuro; questo fu specialmente vero in materia di astensione sessuale. Così l’uomo primitivo sviluppò presto una marcata austerità nelle sue pratiche religiose, una credenza nell’efficacia dell’autotortura e dell’autonegazione quali rituali capaci di costringere gli spiriti restii a reagire favorevolmente verso tali sofferenze e privazioni."
                 },
                 {
                     "par_ref": "87:6.17",
@@ -413,12 +413,12 @@
         }
     ],
     "footnotes": [
-        "*Dei sconosciuti*: Hch 17:22-23.",
+        "*Dei sconosciuti*: At 17:22-23.",
         "*Malocchio*: Pr 23:6; Pr 28:22; Dt 15:9; Dt 28:54,56; Mc 7:22.",
         "*Liberaci dal malocchio*: Mt 6:13; Lc 11:4.",
-        "*Battesimo d'acqua*: Mt 3:6,11; Mc 1:4-5,8; Lc 3:3,7,16; Jn 1:25-26,31,33; Jn 3:22-23; Hch 1:5.",
-        "*Voti e giuramenti sacri*: Gn 31:13; Ex 22:11; 2 Cr 15:12-15; Lv 5:4; Sal 105:9-10; Nm 6:2-15; Nm 30:2-16; Dt 29:12-15.",
-        "*Pena per la violazione dei giuramenti*: Jg 11:30-39."
+        "*Battesimo d'acqua*: Mt 3:6,11; Mc 1:4-5,8; Lc 3:3,7,16; Gv 1:25-26,31,33; Gv 3:22-23; At 1:5.",
+        "*Voti e giuramenti sacri*: Gn 31:13; Es 22:11; 2 Cr 15:12-15; Lv 5:4; Sal 105:9-10; Nm 6:2-15; Nm 30:2-16; Dt 29:12-15.",
+        "*Pena per la violazione dei giuramenti*: Gdc 11:30-39."
     ],
     "paper_title": "I culti dei fantasmi"
 }

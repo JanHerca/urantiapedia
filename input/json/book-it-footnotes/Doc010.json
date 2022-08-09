@@ -13,7 +13,7 @@
                 {
                     "par_ref": "10:0.2",
                     "par_pageref": "108.2",
-                    "par_content": "La Trinità del Paradiso consente efficacemente la piena espressione e la perfetta rivelazione della natura eterna della Deità{0}. Similmente, i Figli Stazionari della Trinità forniscono una rivelazione completa e perfetta della giustizia divina. La Trinità è l’unità della Deità, e questa unità riposa eternamente sulle fondamenta assolute dell’unità divina delle tre personalità originali, coordinate e coesistenti: Dio il Padre, Dio il Figlio e Dio lo Spirito."
+                    "par_content": "La Trinità del Paradiso consente efficacemente la piena espressione e la perfetta rivelazione della natura eterna della Deità{0}. Similmente, i Figli Stazionari della Trinità forniscono una rivelazione completa e perfetta della giustizia divina. La Trinità è l’unità della Deità, e questa unità riposa eternamente sulle fondamenta assolute dell’unità divina delle tre personalità originali, coordinate e coesistenti: Dio il Padre, Dio il Figlio e Dio lo Spirito{1}."
                 },
                 {
                     "par_ref": "10:0.3",
@@ -124,7 +124,7 @@
                 {
                     "par_ref": "10:3.3",
                     "par_pageref": "111.1",
-                    "par_content": "I Figli divini sono in verità il “Verbo di Dio”, ma i figli dello Spirito sono veramente gli “Atti di Dio”{4}. Dio parla tramite il Figlio e, con il Figlio, agisce tramite lo Spirito Infinito, mentre in tutte le attività universali il Figlio e lo Spirito sono squisitamente fraterni ed operano come due fratelli uguali con ammirazione ed amore per un Padre comune onorato e divinamente rispettato."
+                    "par_content": "I Figli divini sono in verità il “Verbo di Dio”, ma i figli dello Spirito sono veramente gli “Atti di Dio”{4}{5}. Dio parla tramite il Figlio e, con il Figlio, agisce tramite lo Spirito Infinito, mentre in tutte le attività universali il Figlio e lo Spirito sono squisitamente fraterni ed operano come due fratelli uguali con ammirazione ed amore per un Padre comune onorato e divinamente rispettato."
                 },
                 {
                     "par_ref": "10:3.4",
@@ -402,7 +402,7 @@
                 {
                     "par_ref": "10:7.1",
                     "par_pageref": "115.3",
-                    "par_content": "La Prima, la Seconda e la Terza Persona della Deità sono uguali tra loro e sono uno{6}. “Il Signore nostro Dio è un Dio unico.” C’è perfezione di proposito ed unità d’esecuzione nella Trinità divina delle Deità eterne. Il Padre, il Figlio e l’Attore Congiunto sono veramente e divinamente uno. In verità è stato scritto: “Io sono il primo e sono l’ultimo, e non c’è altro Dio all’infuori di me.”"
+                    "par_content": "La Prima, la Seconda e la Terza Persona della Deità sono uguali tra loro e sono uno{6}. “Il Signore nostro Dio è un Dio unico{7}.” C’è perfezione di proposito ed unità d’esecuzione nella Trinità divina delle Deità eterne. Il Padre, il Figlio e l’Attore Congiunto sono veramente e divinamente uno. In verità è stato scritto: “Io sono il primo e sono l’ultimo, e non c’è altro Dio all’infuori di me{8}{9}.”"
                 },
                 {
                     "par_ref": "10:7.2",
@@ -490,14 +490,14 @@
         }
     ],
     "footnotes": [
-        "*Trinità del Paradiso*: Mt 28:19; Hch 2:32-33; 2 Co 13:14; 1 Jn 5:7.",
-        "*Trinità del Paradiso (la prima visione di Paolo)*: 1 Co 12:4-6.",
-        "*Figli del Paradiso*: Mt 11:27; Lc 10:22; Jn 1:14,18; Jn 6:45-46; Jn 8:26; Jn 12:49-50; Jn 14:7-11,20; Jn 17:6,25-26.",
+        "*Trinità del Paradiso*: Mt 28:19; At 2:32-33; 2 Cor 13:14; 1 Gv 5:7.",
+        "*Trinità del Paradiso (la prima visione di Paolo)*: 1 Cor 12:4-6.",
+        "*Figli del Paradiso*: Mt 11:27; Lc 10:22; Gv 1:14,18; Gv 6:45-46; Gv 8:26; Gv 12:49-50; Gv 14:7-11,20; Gv 17:6,25-26.",
         "*Fatto uomo a immagine di Dio*: Gn 1:26.",
-        "*«Parola» di Dio*: Jn 1:1-4,14.",
+        "*«Parola» di Dio*: Gv 1:1-4,14.",
         "*Atto di Dio*: Gn 1:1ff.",
-        "*Unità della divinità*: 1 Jn 5:7.",
-        "*Il Signore nostro Dio è un solo Dio*: 2 Re 19:19; 1 Cr 17:20; Neh 9:6; Sal 86:10; Ec lo 36:5; Is 37:16; Is 44:6,8; Is 45:5-6,21; Dt 4:35,39; Dt 6:4; Mc 12:29,32; Jn 17:3; Ro 3:30; 1 Co 8:4-6; Gl 3:20; Ef 4:6; 1 Ti 2:5; Stg 2:19; 1 Sam 2:2; 2 Sam 7:22.",
+        "*Unità della divinità*: 1 Gv 5:7.",
+        "*Il Signore nostro Dio è un solo Dio*: 2 Re 19:19; 1 Cr 17:20; Neh 9:6; Sal 86:10; Sir 36:5; Is 37:16; Is 44:6,8; Is 45:5-6,21; Dt 4:35,39; Dt 6:4; Mc 12:29,32; Gv 17:3; Ro 3:30; 1 Cor 8:4-6; Gal 3:20; Ef 4:6; 1 Tm 2:5; Gc 2:19; 1 Sam 2:2; 2 Sam 7:22.",
         "*Primo, ultimo e unico Dio*: Is 41:4; Is 44:6; Is 48:12; Ap 1:17; Ap 2:8.",
         "*Alfa e Omega*: Ap 1:8,11; Ap 21:6; Ap 22:13."
     ],
