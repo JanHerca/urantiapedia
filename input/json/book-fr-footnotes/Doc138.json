@@ -129,7 +129,7 @@
                 {
                     "par_ref": "138:3.4",
                     "par_pageref": "1540.7",
-                    "par_content": "Ils retournèrent tous chez Matthieu, où ils parlèrent beaucoup de politique et de religion jusqu’à l’heure du repas du soir{3}. La famille de Lévi était depuis longtemps dans les affaires et s’occupait de la collecte des impôts ; par conséquent, nombre des convives invités par Matthieu à ce banquet auraient été qualifiés de « publicains et de pécheurs » par les pharisiens."
+                    "par_content": "Ils retournèrent tous chez Matthieu, où ils parlèrent beaucoup de politique et de religion jusqu’à l’heure du repas du soir{3}. La famille de Lévi était depuis longtemps dans les affaires et s’occupait de la collecte des impôts ; par conséquent, nombre des convives invités par Matthieu à ce banquet auraient été qualifiés de « publicains et de pécheurs » par les pharisiens{4}."
                 },
                 {
                     "par_ref": "138:3.5",
@@ -324,7 +324,7 @@
                 {
                     "par_ref": "138:8.8",
                     "par_pageref": "1545.9",
-                    "par_content": "Jésus expliqua clairement à ses apôtres la différence entre la repentance par les soi-disant bonnes œuvres, comme l’enseignaient les Juifs, et le changement du mental par la foi — la nouvelle naissance — qu’il exigeait comme prix d’admission au royaume{12}. Il enseigna à ses apôtres que la *foi* est la seule condition nécessaire pour entrer dans le royaume du Père. Jean leur avait enseigné « la repentance — à fuir la colère à venir ». Jésus enseignait que « la foi est la porte ouverte pour entrer dans l’amour de Dieu présent, parfait et éternel ». Jésus ne parlait pas comme un prophète venu proclamer la parole de Dieu. Il semblait parler de lui-même comme quelqu’un ayant autorité. Jésus cherchait à détourner leur mental de la recherche des miracles vers la découverte d’une expérience réelle et personnelle dans la satisfaction et l’assurance de la présence intérieure de l’esprit d’amour de Dieu et de sa grâce salvatrice."
+                    "par_content": "Jésus expliqua clairement à ses apôtres la différence entre la repentance par les soi-disant bonnes œuvres, comme l’enseignaient les Juifs, et le changement du mental par la foi — la nouvelle naissance — qu’il exigeait comme prix d’admission au royaume{12}{13}. Il enseigna à ses apôtres que la *foi* est la seule condition nécessaire pour entrer dans le royaume du Père. Jean leur avait enseigné « la repentance — à fuir la colère à venir ». Jésus enseignait que « la foi est la porte ouverte pour entrer dans l’amour de Dieu présent, parfait et éternel »{14}. Jésus ne parlait pas comme un prophète venu proclamer la parole de Dieu. Il semblait parler de lui-même comme quelqu’un ayant autorité. Jésus cherchait à détourner leur mental de la recherche des miracles vers la découverte d’une expérience réelle et personnelle dans la satisfaction et l’assurance de la présence intérieure de l’esprit d’amour de Dieu et de sa grâce salvatrice."
                 },
                 {
                     "par_ref": "138:8.9",
@@ -430,20 +430,20 @@
     ],
     "footnotes": [
         "*Il n'y a de prophète sans honneur que dans sa maison*: Mt 13:57; Mc 6:4; Lc 4:24; Jn 4:44.",
-        "*Noms bibliques des apôtres*: Mt 10:2-4; Mc 3:16-19; Lc 6:14-16; Hch 1:13.",
+        "*Noms bibliques des apôtres*: Mt 10:2-4; Mc 3:16-19; Lc 6:14-16; Ac 1:13.",
         "*Matthieu sélectionné*: Mt 9:9; Mc 2:14; Lc 5:27-28.",
         "*Le banquet de Matthieu*: Mt 9:10; Mc 2:15; Lc 5:29.",
         "*Publicains et pécheurs*: Mt 9:10-11; Mt 11:19; Mc 2:15-16; Lc 5:30; Lc 7:34; Lc 15:1.",
         "*Les personnes en bonne santé n'ont pas besoin de médecin*: Mt 9:11-13; Mc 2:16-17; Lc 5:30-32.",
-        "*L'égalité pour tous ceux qui cherchent Dieu*: 2 Cr 19:7; Job 34:19; Ec lo 35:12; Hch 10:34; Ro 2:11; Gl 2:6; Gl 3:28; Ef 6:9; Col 3:11.",
-        "*L'évangile du royaume*: Mt 4:23; Mt 9:35; Mt 24:14; Mc 1:14-15.",
-        "*Nouvelle et meilleure voie*: Jn 14:6; Heb 10:20.",
+        "*L'égalité pour tous ceux qui cherchent Dieu*: 2 Ch 19:7; Job 34:19; Sir 35:12; Ac 10:34; Ro 2:11; Ga 2:6; Ga 3:28; Ep 6:9; Col 3:11.",
+        "*Evangile du royaume*: Mt 4:23; Mt 9:35; Mt 24:14; Mc 1:14-15.",
+        "*Nouvelle et meilleure voie*: Jn 14:6; He 10:20.",
         "*Les apôtres doivent être des pêcheurs d'hommes*: Mt 4:19; Mc 1:17; Lc 5:10b.",
-        "*Ne parlez que de ce que vous entendez, pas de ouï-dire*: Jn 8:26; Hch 4:20.",
+        "*Ne parlez que de ce que vous entendez, pas de ouï-dire*: Jn 8:26; Ac 4:20.",
         "*Ne parlez à personne de l'eau en vin*: Jn 2:1-11.",
         "*Repentez-vous, fuyez la colère à venir*: Mt 3:2,7; Lc 3:3,7.",
-        "*Changement d'avis par la foi, le nouveau né*: Jn 3:3-8; Gl 2:16; Gl 3:2; Stg 2:14.",
-        "*La foi est la porte ouverte*: Mt 17:20; Mt 21:11; Lc 17:6; Hch 14:27.",
+        "*Changement d'avis par la foi, le nouveau né*: Jn 3:3-8; Ga 2:16; Ga 3:2; Jc 2:14.",
+        "*La foi est la porte ouverte*: Mt 17:20; Mt 21:11; Lc 17:6; Ac 14:27.",
         "*La famille voyait Jésus comme hors de lui*: Mc 3:21.",
         "*Judas a porté le sac*: Jn 12:6; Jn 13:29."
     ],

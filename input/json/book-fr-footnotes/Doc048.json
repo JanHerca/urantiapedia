@@ -60,7 +60,7 @@
                 {
                     "par_ref": "48:1.7",
                     "par_pageref": "542.4",
-                    "par_content": "Paul fut informé de l’existence des mondes morontiels et de la réalité de la matière morontielle, car il écrivit : « Ils ont au ciel une substance meilleure et plus permanente{0}. » Et ces matériaux morontiels sont réels, littéraux, comme dans « la cité qui a des fondations et dont Dieu est l’architecte et le bâtisseur ». Et chacune de ces sphères merveilleuses est « une patrie meilleure, c’est-à-dire céleste »."
+                    "par_content": "Paul fut informé de l’existence des mondes morontiels et de la réalité de la matière morontielle, car il écrivit : « Ils ont au ciel une substance meilleure et plus permanente{0}. » Et ces matériaux morontiels sont réels, littéraux, comme dans « la cité qui a des fondations et dont Dieu est l’architecte et le bâtisseur »{1}. Et chacune de ces sphères merveilleuses est « une patrie meilleure, c’est-à-dire céleste »{2}."
                 }
             ]
         },
@@ -505,7 +505,7 @@
                 {
                     "par_ref": "48:6.8",
                     "par_pageref": "552.6",
-                    "par_content": "Même sur Urantia, les évanges conseillent aux humains qui enseignent la vérité et la droiture d’adhérer à la prédication de « la bonté de Dieu qui conduit à la repentance » et de proclamer « l’amour de Dieu qui chasse toute crainte{5}. » Ces vérités ont même été annoncées ainsi dans votre monde :"
+                    "par_content": "Même sur Urantia, les évanges conseillent aux humains qui enseignent la vérité et la droiture d’adhérer à la prédication de « la bonté de Dieu qui conduit à la repentance » et de proclamer « l’amour de Dieu qui chasse toute crainte{5}{6}. » Ces vérités ont même été annoncées ainsi dans votre monde :{7}"
                 },
                 {
                     "par_ref": "48:6.9",
@@ -580,7 +580,7 @@
                 {
                     "par_ref": "48:6.23",
                     "par_pageref": "553.4",
-                    "par_content": "Vous devriez réfléchir aux déclarations concernant le « ciel » et le « ciel des cieux »{8}. Le ciel conçu par la plupart de vos prophètes était le premier monde des maisons du système local. Quand l’apôtre parle d’être « enlevé au troisième ciel », il se référait à une expérience où son Ajusteur s’était détaché pendant le sommeil et, dans cet état insolite, avait fait une projection sur le troisième des sept mondes des maisons. Certains de vos sages ont eu la vision du plus grand ciel, « le ciel des cieux », dont l’expérience du septuple monde des maisons n’était que le premier ciel. Le deuxième était Jérusem, le troisième Édentia et ses satellites, le quatrième Salvington et les sphères éducatives qui l’entourent, le cinquième Uversa, le sixième Havona, et le septième le Paradis."
+                    "par_content": "Vous devriez réfléchir aux déclarations concernant le « ciel » et le « ciel des cieux »{8}. Le ciel conçu par la plupart de vos prophètes était le premier monde des maisons du système local. Quand l’apôtre parle d’être « enlevé au troisième ciel », il se référait à une expérience où son Ajusteur s’était détaché pendant le sommeil et, dans cet état insolite, avait fait une projection sur le troisième des sept mondes des maisons{9}. Certains de vos sages ont eu la vision du plus grand ciel, « le ciel des cieux », dont l’expérience du septuple monde des maisons n’était que le premier ciel. Le deuxième était Jérusem, le troisième Édentia et ses satellites, le quatrième Salvington et les sphères éducatives qui l’entourent, le cinquième Uversa, le sixième Havona, et le septième le Paradis."
                 },
                 {
                     "par_ref": "48:6.24",
@@ -850,17 +850,17 @@
         }
     ],
     "footnotes": [
-        "*Au ciel, une meilleure substance*: Mt 6:19-20; Heb 10:34.",
-        "*Le constructeur de la ville, le faiseur, c'est Dieu*: 2 Co 5:1; Heb 11:10.",
-        "*Meilleur pays -ciel-*: Heb 11:16.",
-        "*Toutes les choses marchent ensemble*: Ro 8:28.",
-        "*Dégonflement de l'ego*: Ro 12:3; 2 Co 12:7; Gl 6:3.",
+        "*Au ciel, une meilleure substance*: Mt 6:19-20; He 10:34.",
+        "*Le constructeur de la ville, le faiseur, c'est Dieu*: 2 Co 5:1; He 11:10.",
+        "*Meilleur pays -ciel-*: He 11:16.",
+        "*Toutes choses fonctionnent ensemble*: Ro 8:28.",
+        "*Dégonflement de l'ego*: Ro 12:3; 2 Co 12:7; Ga 6:3.",
         "*La bonté de Dieu conduit à*: Ro 2:4.",
         "*L'amour de Dieu chasse la peur*: 1 Jn 4:18.",
-        "*23ème psaume*: Sal 23:1-6.",
-        "*Le ciel, le ciel des cieux*: 1 Re 8:27; 2 Cr 2:6; 2 Cr 6:18; Neh 9:6; Sal 148:4; Dt 10:14.",
+        "*23ème psaume*: Ps 23:1-6.",
+        "*Le ciel, le ciel des cieux*: 1 R 8:27; 2 Ch 2:6; 2 Ch 6:18; Neh 9:6; Ps 148:4; Dt 10:14.",
         "*Pris dans le troisième ciel*: 2 Co 12:2.",
-        "*L'esprit de Jésus*: 1 Co 2:16; Flp 2:5."
+        "*Esprit de Jésus*: 1 Co 2:16; Ph 2:5."
     ],
     "paper_title": "La vie morontielle"
 }

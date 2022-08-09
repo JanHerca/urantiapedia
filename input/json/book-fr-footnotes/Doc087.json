@@ -203,7 +203,7 @@
                 {
                     "par_ref": "87:5.4",
                     "par_pageref": "962.5",
-                    "par_content": "Ils supposaient que la prospérité humaine provoquait spécialement l’envie des mauvais esprits, et que leur méthode de représailles consistait à riposter par un agent humain et par la technique du *mauvais œil{1}.* Pendant la phase où le culte cherchait à éviter les mauvais esprits, on s’occupa beaucoup des machinations du mauvais œil, et la peur du mauvais œil s’étendit presque au monde entier. Les jolies femmes furent voilées pour les protéger contre le mauvais œil ; subséquemment, beaucoup de femmes désireuses d’être considérées comme belles adoptèrent cette pratique. À cause de la peur des mauvais esprits, on permettait rarement aux enfants de sortir après la tombée de la nuit. Les prières primitives incluaient toujours la supplique : « Délivre-nous du mauvais œil. »"
+                    "par_content": "Ils supposaient que la prospérité humaine provoquait spécialement l’envie des mauvais esprits, et que leur méthode de représailles consistait à riposter par un agent humain et par la technique du *mauvais œil{1}.* Pendant la phase où le culte cherchait à éviter les mauvais esprits, on s’occupa beaucoup des machinations du mauvais œil, et la peur du mauvais œil s’étendit presque au monde entier. Les jolies femmes furent voilées pour les protéger contre le mauvais œil ; subséquemment, beaucoup de femmes désireuses d’être considérées comme belles adoptèrent cette pratique. À cause de la peur des mauvais esprits, on permettait rarement aux enfants de sortir après la tombée de la nuit{2}. Les prières primitives incluaient toujours la supplique : « Délivre-nous du mauvais œil. »"
                 },
                 {
                     "par_ref": "87:5.5",
@@ -340,7 +340,7 @@
                 {
                     "par_ref": "87:6.16",
                     "par_pageref": "965.3",
-                    "par_content": "Vint ensuite la pratique des vœux rituels, bientôt suivie par les engagements religieux et les serments sacrés{4}. La plupart de ces serments étaient accompagnés de tortures et de mutilations que l’on s’infligeait soi-même, et, plus tard, de jeûnes et de prières. L’abnégation de soi fut considérée ultérieurement comme un coercitif certain ; ce fut spécialement le cas en matière d’abstention sexuelle. C’est ainsi que les hommes primitifs développèrent de bonne heure une austérité marquée dans leurs pratiques religieuses, une croyance à l’efficacité des tortures et des renoncements que l’on s’infligeait soi-même en tant que rites capables de forcer les esprits rétifs à réagir favorablement envers de telles souffrances et privations."
+                    "par_content": "Vint ensuite la pratique des vœux rituels, bientôt suivie par les engagements religieux et les serments sacrés{4}. La plupart de ces serments étaient accompagnés de tortures et de mutilations que l’on s’infligeait soi-même, et, plus tard, de jeûnes et de prières{5}. L’abnégation de soi fut considérée ultérieurement comme un coercitif certain ; ce fut spécialement le cas en matière d’abstention sexuelle. C’est ainsi que les hommes primitifs développèrent de bonne heure une austérité marquée dans leurs pratiques religieuses, une croyance à l’efficacité des tortures et des renoncements que l’on s’infligeait soi-même en tant que rites capables de forcer les esprits rétifs à réagir favorablement envers de telles souffrances et privations."
                 },
                 {
                     "par_ref": "87:6.17",
@@ -413,11 +413,11 @@
         }
     ],
     "footnotes": [
-        "*Dieux inconnus*: Hch 17:22-23.",
+        "*Dieux inconnus*: Ac 17:22-23.",
         "*Mauvais œil*: Pr 23:6; Pr 28:22; Dt 15:9; Dt 28:54,56; Mc 7:22.",
         "*Délivrez-nous du mauvais œil*: Mt 6:13; Lc 11:4.",
-        "*Baptême d'eau*: Mt 3:6,11; Mc 1:4-5,8; Lc 3:3,7,16; Jn 1:25-26,31,33; Jn 3:22-23; Hch 1:5.",
-        "*Voeux et serments sacrés*: Gn 31:13; Ex 22:11; 2 Cr 15:12-15; Lv 5:4; Sal 105:9-10; Nm 6:2-15; Nm 30:2-16; Dt 29:12-15.",
+        "*Baptême d'eau*: Mt 3:6,11; Mc 1:4-5,8; Lc 3:3,7,16; Jn 1:25-26,31,33; Jn 3:22-23; Ac 1:5.",
+        "*Voeux et serments sacrés*: Gn 31:13; Ex 22:11; 2 Ch 15:12-15; Lv 5:4; Ps 105:9-10; Nb 6:2-15; Nb 30:2-16; Dt 29:12-15.",
         "*Peine pour la violation des serments*: Jg 11:30-39."
     ],
     "paper_title": "Les cultes des fantômes"

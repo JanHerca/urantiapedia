@@ -162,7 +162,7 @@
                 {
                     "par_ref": "106:2.6",
                     "par_pageref": "1165.3",
-                    "par_content": "Micaël de Nébadon ressemble au Père du Paradis parce qu’il partage sa perfection paradisiaque{0}. De même, les mortels évolutionnaires parviendront un jour à la parenté avec le Suprême expérientiel, car ils partageront vraiment sa perfection évolutionnaire."
+                    "par_content": "Micaël de Nébadon ressemble au Père du Paradis parce qu’il partage sa perfection paradisiaque{0}{1}. De même, les mortels évolutionnaires parviendront un jour à la parenté avec le Suprême expérientiel, car ils partageront vraiment sa perfection évolutionnaire."
                 },
                 {
                     "par_ref": "106:2.7",
@@ -553,7 +553,7 @@
     ],
     "footnotes": [
         "*La perfection de Michael*: Jn 14:9-10.",
-        "*Soyez vous-même parfait*: Gn 17:1; 1 Re 8:61; Lv 19:2; Dt 18:13; Mt 5:48; 2 Co 13:11; Stg 1:4; 1 P 1:16.",
+        "*Soyez parfait*: Gn 17:1; 1 R 8:61; Lv 19:2; Dt 18:13; Mt 5:48; 2 Co 13:11; Jc 1:4; 1 P 1:16.",
         "*Je suis*: Ex 3:13-14."
     ],
     "paper_title": "Niveaux de réalité de l’univers"

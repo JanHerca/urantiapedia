@@ -13,7 +13,7 @@
                 {
                     "par_ref": "10:0.2",
                     "par_pageref": "108.2",
-                    "par_content": "La Trinité du Paradis assure efficacement la pleine expression et la parfaite révélation de la nature éternelle de la Déité{0}. Les Fils Stationnaires de la Trinité fournissent de la même manière une révélation pleine et parfaite de la justice divine. La Trinité est l’unité de la Déité, et cette unité repose éternellement sur les fondations absolues de la divine unicité des trois personnalités originelles, coordonnées et coexistantes, Dieu le Père, Dieu le Fils et Dieu l’Esprit."
+                    "par_content": "La Trinité du Paradis assure efficacement la pleine expression et la parfaite révélation de la nature éternelle de la Déité{0}. Les Fils Stationnaires de la Trinité fournissent de la même manière une révélation pleine et parfaite de la justice divine. La Trinité est l’unité de la Déité, et cette unité repose éternellement sur les fondations absolues de la divine unicité des trois personnalités originelles, coordonnées et coexistantes, Dieu le Père, Dieu le Fils et Dieu l’Esprit{1}."
                 },
                 {
                     "par_ref": "10:0.3",
@@ -124,7 +124,7 @@
                 {
                     "par_ref": "10:3.3",
                     "par_pageref": "111.1",
-                    "par_content": "Les Fils divins sont en vérité le « Verbe de Dieu », mais les enfants de l’Esprit sont vraiment les « Actes de Dieu »{4}. Dieu parle par le Fils et, avec le Fils, agit par l’Esprit Infini, tandis que, dans toutes les activités de l’univers, le Fils et l’Esprit sont exquisément fraternels et travaillent comme deux frères égaux avec admiration et amour pour un Père commun honoré et divinement respecté."
+                    "par_content": "Les Fils divins sont en vérité le « Verbe de Dieu », mais les enfants de l’Esprit sont vraiment les « Actes de Dieu »{4}{5}. Dieu parle par le Fils et, avec le Fils, agit par l’Esprit Infini, tandis que, dans toutes les activités de l’univers, le Fils et l’Esprit sont exquisément fraternels et travaillent comme deux frères égaux avec admiration et amour pour un Père commun honoré et divinement respecté."
                 },
                 {
                     "par_ref": "10:3.4",
@@ -402,7 +402,7 @@
                 {
                     "par_ref": "10:7.1",
                     "par_pageref": "115.3",
-                    "par_content": "La Première, la Deuxième et la Troisième Personne de la Déité sont égales entre elles et ne font qu’un{6}. « Le Seigneur notre Dieu est un Dieu unique. » Il y a perfection de dessein et unité d’exécution chez la divine Trinité des Déités éternelles. Le Père, le Fils et l’Acteur Conjoint sont vraiment et divinement un. Il a été écrit en vérité : « Je suis le premier et je suis le dernier, et en dehors de moi il n’y a pas de Dieu. »"
+                    "par_content": "La Première, la Deuxième et la Troisième Personne de la Déité sont égales entre elles et ne font qu’un{6}. « Le Seigneur notre Dieu est un Dieu unique{7}. » Il y a perfection de dessein et unité d’exécution chez la divine Trinité des Déités éternelles. Le Père, le Fils et l’Acteur Conjoint sont vraiment et divinement un. Il a été écrit en vérité : « Je suis le premier et je suis le dernier, et en dehors de moi il n’y a pas de Dieu{8}{9}. »"
                 },
                 {
                     "par_ref": "10:7.2",
@@ -490,14 +490,14 @@
         }
     ],
     "footnotes": [
-        "*Paradis Trinité*: Mt 28:19; Hch 2:32-33; 2 Co 13:14; 1 Jn 5:7.",
+        "*Paradis Trinité*: Mt 28:19; Ac 2:32-33; 2 Co 13:14; 1 Jn 5:7.",
         "*Paradise Trinity (première vue de Paul)*: 1 Co 12:4-6.",
         "*Les Fils du Paradis*: Mt 11:27; Lc 10:22; Jn 1:14,18; Jn 6:45-46; Jn 8:26; Jn 12:49-50; Jn 14:7-11,20; Jn 17:6,25-26.",
         "*Fait l'homme à l'image de Dieu*: Gn 1:26.",
         "*«La parole» de Dieu*: Jn 1:1-4,14.",
         "*Acte de Dieu*: Gn 1:1ff.",
         "*Unité de Divinité*: 1 Jn 5:7.",
-        "*Le Seigneur notre Dieu est un seul Dieu*: 2 Re 19:19; 1 Cr 17:20; Neh 9:6; Sal 86:10; Ec lo 36:5; Is 37:16; Is 44:6,8; Is 45:5-6,21; Dt 4:35,39; Dt 6:4; Mc 12:29,32; Jn 17:3; Ro 3:30; 1 Co 8:4-6; Gl 3:20; Ef 4:6; 1 Ti 2:5; Stg 2:19; 1 Sam 2:2; 2 Sam 7:22.",
+        "*Le Seigneur notre Dieu est un seul Dieu*: 2 R 19:19; 1 Ch 17:20; Neh 9:6; Ps 86:10; Sir 36:5; Is 37:16; Is 44:6,8; Is 45:5-6,21; Dt 4:35,39; Dt 6:4; Mc 12:29,32; Jn 17:3; Ro 3:30; 1 Co 8:4-6; Ga 3:20; Ep 4:6; 1 Tm 2:5; Jc 2:19; 1 Sam 2:2; 2 Sam 7:22.",
         "*Premier, Dernier et seul Dieu*: Is 41:4; Is 44:6; Is 48:12; Ap 1:17; Ap 2:8.",
         "*Alpha & Oméga*: Ap 1:8,11; Ap 21:6; Ap 22:13."
     ],

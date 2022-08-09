@@ -30,7 +30,7 @@
                 {
                     "par_ref": "90:1.1",
                     "par_pageref": "986.4",
-                    "par_content": "Le chaman était le sorcier-guérisseur le plus éminent, l’homme fétiche des cérémonies et la personnalité focale pour toutes les pratiques de la religion évolutionnaire. Dans beaucoup de groupes, le chaman était hiérarchiquement supérieur au chef de guerre, ce qui marqua le commencement de la domination de l’État par l’Église. Le chaman opérait parfois comme prêtre et même comme prêtre-roi{0}. Plus tard, certaines tribus eurent simultanément des chamans-sorciers-guérisseurs (voyants) du type primitif et des chamans-prêtres du type apparu ultérieurement. Dans de nombreux cas, la fonction de chaman devint héréditaire."
+                    "par_content": "Le chaman était le sorcier-guérisseur le plus éminent, l’homme fétiche des cérémonies et la personnalité focale pour toutes les pratiques de la religion évolutionnaire. Dans beaucoup de groupes, le chaman était hiérarchiquement supérieur au chef de guerre, ce qui marqua le commencement de la domination de l’État par l’Église. Le chaman opérait parfois comme prêtre et même comme prêtre-roi{0}. Plus tard, certaines tribus eurent simultanément des chamans-sorciers-guérisseurs (voyants) du type primitif et des chamans-prêtres du type apparu ultérieurement{1}. Dans de nombreux cas, la fonction de chaman devint héréditaire."
                 },
                 {
                     "par_ref": "90:1.2",
@@ -87,7 +87,7 @@
                 {
                     "par_ref": "90:2.5",
                     "par_pageref": "988.1",
-                    "par_content": "Les sorciers-guérisseurs avaient grande confiance dans les signes et les présages tels que : « Si tu entends le bruit d’un frôlement dans le sommet des muriers, alors tu te hâteras d’agir{3}. » Très tôt dans l’histoire de la race, les chamans tournèrent leur attention vers les étoiles. Dans le monde entier, on crut à l’astrologie primitive et on la pratiqua. L’interprétation des rêves fut également très répandue. Tout ceci fut bientôt suivi de l’apparition des chamanesses fantasques qui se déclaraient capables de communiquer avec les esprits des morts."
+                    "par_content": "Les sorciers-guérisseurs avaient grande confiance dans les signes et les présages tels que : « Si tu entends le bruit d’un frôlement dans le sommet des muriers, alors tu te hâteras d’agir{3}. » Très tôt dans l’histoire de la race, les chamans tournèrent leur attention vers les étoiles. Dans le monde entier, on crut à l’astrologie primitive et on la pratiqua{4}. L’interprétation des rêves fut également très répandue{5}. Tout ceci fut bientôt suivi de l’apparition des chamanesses fantasques qui se déclaraient capables de communiquer avec les esprits des morts."
                 },
                 {
                     "par_ref": "90:2.6",
@@ -258,7 +258,7 @@
                 {
                     "par_ref": "90:5.3",
                     "par_pageref": "992.4",
-                    "par_content": "Les paroles devinrent partie du rituel, comme le montre l’usage de termes tels que amen et sélah{8}. L’habitude de jurer, le blasphème, représente une prostitution de l’ancienne répétition rituelle de noms sacrés. Les pèlerinages à des sanctuaires sont un très ancien rituel. Les rituels devinrent ensuite un cérémonial minutieux de purification, d’assainissement et de sanctification. Les cérémonies d’initiation des sociétés secrètes des tribus primitives étaient en réalité un rite religieux grossier. La technique d’adoration des anciens cultes des mystères était simplement une longue performance de rituels religieux accumulés. Le rituel finit par donner les types modernes de cérémonies sociales et de cultes religieux, les services englobant des prières, des chants, des répons et d’autres dévotions spirituelles individuelles et collectives."
+                    "par_content": "Les paroles devinrent partie du rituel, comme le montre l’usage de termes tels que amen et sélah{8}{9}. L’habitude de jurer, le blasphème, représente une prostitution de l’ancienne répétition rituelle de noms sacrés. Les pèlerinages à des sanctuaires sont un très ancien rituel. Les rituels devinrent ensuite un cérémonial minutieux de purification, d’assainissement et de sanctification{10}{11}{12}. Les cérémonies d’initiation des sociétés secrètes des tribus primitives étaient en réalité un rite religieux grossier. La technique d’adoration des anciens cultes des mystères était simplement une longue performance de rituels religieux accumulés. Le rituel finit par donner les types modernes de cérémonies sociales et de cultes religieux, les services englobant des prières, des chants, des répons et d’autres dévotions spirituelles individuelles et collectives."
                 },
                 {
                     "par_ref": "90:5.4",
@@ -294,17 +294,17 @@
         }
     ],
     "footnotes": [
-        "*Shamans (prêtres)*: Ex 2:16; Ex 28:1-43; Ex 29:4-9,29; Nm 18:1-10.",
-        "*Voyants*: 2 Re 17:13; 1 Cr 29:29; 1 Sam 9:8-11,18-19; 2 Sam 15:27.",
+        "*Shamans (prêtres)*: Ex 2:16; Ex 28:1-43; Ex 29:4-9,29; Nb 18:1-10.",
+        "*Voyants*: 2 R 17:13; 1 Ch 29:29; 1 Sam 9:8-11,18-19; 2 Sam 15:27.",
         "*Sorcellerie*: Ex 22:18; Dt 18:10-12; 1 Sam 15:23.",
-        "*Quand vous entendez le bruit du vent*: 1 Cr 14:15; 2 Sam 5:24.",
+        "*Quand vous entendez le bruit du vent*: 1 Ch 14:15; 2 Sam 5:24.",
         "*Astrologie*: Is 47:13; Dn 2:2; Am 5:26; Mt 2:7,9-10.",
         "*Chamanesses*: 1 Sam 28:7-19.",
         "*Les bonnes étoiles*: Mt 2:2.",
-        "*Flèches du Tout-Puissant*: Job 6:4; Sal 38:1-2.",
-        "*«Amen» comme rituel*: Nm 5:22.",
-        "*«Selah» comme rituel*: Sal 3:2.",
-        "*Purifier : (rituel de la génisse rouge)*: Nm 19:1-22. *de l'autel*: Lv 8:15. *du butin pris à la guerre*: Nm 31:12-24. *des vêtements des prêtres*: Ex 29:4. *du tabernacle*: Ex 29:41-44. *de la femme après l'accouchement*: Lv 12:1-7.",
+        "*Flèches du Tout-Puissant*: Job 6:4; Ps 38:1-2.",
+        "*«Amen» comme rituel*: Nb 5:22.",
+        "*«Selah» comme rituel*: Ps 3:2.",
+        "*Purifier : (rituel de la génisse rouge)*: Nb 19:1-22. *de l'autel*: Lv 8:15. *du butin pris à la guerre*: Nb 31:12-24. *des vêtements des prêtres*: Ex 29:4. *du tabernacle*: Ex 29:41-44. *de la femme après l'accouchement*: Lv 12:1-7.",
         "*Purification : des péchés de la congrégation*: Lv 4:13-21. *des péchés individuels*: Lv 5:1-13. *de la lèpre*: Lv 14:2-11. *des fautes*: Lv 6:8-18.",
         "*Sanctifier par l'onction*: Ex 40:9-11. *par le Seigneur*: Lv 22:9,16. *des premiers nés mâles*: Ex 13:2. *du peuple*: Ex 19:10,14. *du tabernacle et de la région*: Ex 29:41-44."
     ],

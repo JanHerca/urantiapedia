@@ -40,7 +40,7 @@
                 {
                     "par_ref": "126:1.2",
                     "par_pageref": "1387.2",
-                    "par_content": "Un peu plus de cent ans auparavant, cette colline avait été le « haut lieu de Baal » et maintenant c’était l’emplacement du tombeau de Siméon, un saint homme réputé en Israël{0}. Du faite de la colline de Siméon, Jésus pouvait d’un coup d’œil embrasser Nazareth et le pays environnant. En regardant Méguiddo, il se remémorait l’histoire de l’armée égyptienne remportant sa première grande victoire en Asie, et comment plus tard une armée semblable avait vaincu Josias, roi de Judée. Non loin de là, il pouvait voir Taanak, où Déborah et Barac battirent Sisara. À l’horizon, il pouvait apercevoir les collines de Dothan où, lui avait-on appris, Joseph avait été vendu par ses frères comme esclave, en Égypte. Tournant ensuite ses regards vers Ébal et Garizim, il se rappelait les traditions d’Abraham, de Jacob et d’Abimélech. Ainsi il se remémorait et retournait dans son mental les évènements historiques et traditionnels du peuple de son père Joseph."
+                    "par_content": "Un peu plus de cent ans auparavant, cette colline avait été le « haut lieu de Baal » et maintenant c’était l’emplacement du tombeau de Siméon, un saint homme réputé en Israël{0}. Du faite de la colline de Siméon, Jésus pouvait d’un coup d’œil embrasser Nazareth et le pays environnant. En regardant Méguiddo, il se remémorait l’histoire de l’armée égyptienne remportant sa première grande victoire en Asie, et comment plus tard une armée semblable avait vaincu Josias, roi de Judée{1}. Non loin de là, il pouvait voir Taanak, où Déborah et Barac battirent Sisara{2}. À l’horizon, il pouvait apercevoir les collines de Dothan où, lui avait-on appris, Joseph avait été vendu par ses frères comme esclave, en Égypte{3}. Tournant ensuite ses regards vers Ébal et Garizim, il se rappelait les traditions d’Abraham, de Jacob et d’Abimélech. Ainsi il se remémorait et retournait dans son mental les évènements historiques et traditionnels du peuple de son père Joseph."
                 },
                 {
                     "par_ref": "126:1.3",
@@ -149,7 +149,7 @@
                 {
                     "par_ref": "126:3.6",
                     "par_pageref": "1390.1",
-                    "par_content": "Au cours de cette année, Jésus trouva, dans le livre dit d’Énoch, un passage qui l’incita plus tard à adopter l’expression « Fils de l’Homme » pour se désigner durant sa mission d’effusion sur Urantia{9}. Il avait soigneusement étudié l’idée du Messie juif et acquis la ferme conviction qu’il n’était pas destiné à être ce Messie. Il désirait ardemment aider le peuple de son père, mais il ne compta jamais se mettre à la tête des armées juives pour libérer la Palestine de la domination étrangère. Il savait qu’il ne siègerait jamais sur le trône de David à Jérusalem. Il ne croyait pas non plus que son rôle dût être celui d’un libérateur spirituel ou d’un éducateur moral uniquement auprès du peuple juif. En aucun cas la mission de sa vie ne pouvait donc être l’accomplissement des désirs ardents et des prophéties supposées messianiques des Écritures hébraïques, au moins pas à la manière dont les Juifs comprenaient ces prédictions des prophètes. De même, Jésus était certain de ne jamais devoir apparaitre comme le Fils de l’Homme décrit par le prophète Daniel."
+                    "par_content": "Au cours de cette année, Jésus trouva, dans le livre dit d’Énoch, un passage qui l’incita plus tard à adopter l’expression « Fils de l’Homme » pour se désigner durant sa mission d’effusion sur Urantia{9}. Il avait soigneusement étudié l’idée du Messie juif et acquis la ferme conviction qu’il n’était pas destiné à être ce Messie. Il désirait ardemment aider le peuple de son père, mais il ne compta jamais se mettre à la tête des armées juives pour libérer la Palestine de la domination étrangère. Il savait qu’il ne siègerait jamais sur le trône de David à Jérusalem. Il ne croyait pas non plus que son rôle dût être celui d’un libérateur spirituel ou d’un éducateur moral uniquement auprès du peuple juif. En aucun cas la mission de sa vie ne pouvait donc être l’accomplissement des désirs ardents et des prophéties supposées messianiques des Écritures hébraïques, au moins pas à la manière dont les Juifs comprenaient ces prédictions des prophètes. De même, Jésus était certain de ne jamais devoir apparaitre comme le Fils de l’Homme décrit par le prophète Daniel{10}."
                 },
                 {
                     "par_ref": "126:3.7",
@@ -314,23 +314,23 @@
         }
     ],
     "footnotes": [
-        "*Haut lieu de Baal*: Nm 22:41.",
-        "*Josiah vaincu*: 2 Re 23:29-30; 2 Cr 35:20-24.",
+        "*Haut lieu de Baal*: Nb 22:41.",
+        "*Josiah vaincu*: 2 R 23:29-30; 2 Ch 35:20-24.",
         "*Sisera vaincu*: Jg 4:10-16.",
         "*Joseph vendu comme esclave*: Gn 37:23-28.",
         "*Jésus grandit en faveur de l'homme et de Dieu*: Lc 2:52.",
-        "*Assis aux pieds de personne*: Hch 22:3.",
+        "*Assis aux pieds de personne*: Ac 22:3.",
         "*Naissance de soeur Ruth*: Mt 13:56; Mc 6:3.",
         "*Prière du Seigneur*: Mt 6:9-13; Lc 11:2-4.",
-        "*Sur les affaires de son père*: Lc 2:49.",
-        "*Fils de l'homme*: Ez 2:1,3,6,8; Ez 3:1-4,10,17; Dn 7:13-14; Mt 8:20; Mc 2:10; Lc 5:24; Jn 1:51; Ap 1:13; Ap 14:14; 1 Enoch 46:1-6; 1 Enoch 48:1-7; 1 Enoch 60:10; 1 Enoch 62:1,14; 1 Enoch 63:11; 1 Enoch 69:26-29; 1 Enoch 70:1-2; 1 Enoch 71:14-16.",
+        "*Les affaires de son père*: Lc 2:49.",
+        "*Fils de l'homme*: Ez 2:1,3,6,8; Ez 3:1-4,10,17; Dn 7:13-14; Mt 8:20; Mc 2:10; Lc 5:24; Jn 1:51; Ap 1:13; Ap 14:14; 1 Hénoch 46:1-6; 1 Hénoch 48:1-7; 1 Hénoch 60:10; 1 Hénoch 62:1,14; 1 Hénoch 63:11; 1 Hénoch 69:26-29; 1 Hénoch 70:1-2; 1 Hénoch 71:14-16.",
         "*Pas le fils de l'homme de Daniel*: Dn 7:13-14.",
         "*Les affaires de son père*: Lc 2:49.",
         "*Le premier culte de Jésus*: Lc 4:16-20.",
         "*Ecriture lue : L'Esprit du Seigneur est sur moi*: Is 61:1-3.",
         "*Lecture des Ecritures : Cherchez le bien, et non le mal*: Am 5:14-15.",
         "*Lecture des Écritures : Lave-toi, rends-toi pur*: Is 1:16-17.",
-        "*Lecture de l'Écriture : Avec quoi me présenterai-je devant le Seigneur ?*: Miq 6:6-8.",
+        "*Lecture de l'Écriture : Avec quoi me présenterai-je devant le Seigneur ?*: Mic 6:6-8.",
         "*Ecriture : A qui donc comparerez-vous Dieu ?*: Is 40:18,22,26,29; Is 41:10,13.",
         "*Ecriture : Vous êtes mes témoins, dit le Seigneur*: Is 43:10-11.",
         "*Ce renard, Hérode*: Lc 13:32."
