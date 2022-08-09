@@ -203,7 +203,7 @@
                 {
                     "par_ref": "87:5.4",
                     "par_pageref": "962.5",
-                    "par_content": "Menneskets fremgang blev antaget at være særligt provokerende for misundelse hos onde ånder, og deres måde at hævne sig på var at slå igen gennem en menneskelig repræsentant og gennem det *onde øjes* metode{1}. Denne fase af kulten, som havde at gøre med undgåelse af ånder var meget bekymret over rænkespil fra det onde øje. Frygten for det var næsten spredt over hele verden. Smukke kvinder blev tilsløret for at beskytte dem mod det onde øje; efterfølgende anvendes denne praksis af mange kvinder, der ønskede at blive betragtet som smukke. På grund af denne frygt for onde ånder var børn sjældent ude efter mørkets frembrud, og fortidens bønner indeholdt altid anmodningen, \"fri os fra det onde øje.\""
+                    "par_content": "Menneskets fremgang blev antaget at være særligt provokerende for misundelse hos onde ånder, og deres måde at hævne sig på var at slå igen gennem en menneskelig repræsentant og gennem det *onde øjes* metode{1}. Denne fase af kulten, som havde at gøre med undgåelse af ånder var meget bekymret over rænkespil fra det onde øje. Frygten for det var næsten spredt over hele verden. Smukke kvinder blev tilsløret for at beskytte dem mod det onde øje; efterfølgende anvendes denne praksis af mange kvinder, der ønskede at blive betragtet som smukke{2}. På grund af denne frygt for onde ånder var børn sjældent ude efter mørkets frembrud, og fortidens bønner indeholdt altid anmodningen, \"fri os fra det onde øje.\""
                 },
                 {
                     "par_ref": "87:5.5",
@@ -340,7 +340,7 @@
                 {
                     "par_ref": "87:6.16",
                     "par_pageref": "965.3",
-                    "par_content": "Derefter kom brugen af rituelle løfter, snart efterfulgt af religiøse løfter og hellige eder{4}. De fleste af disse eder var ledsaget af selvtortur og selvlemlæstelse; senere, ved faste og bøn. Selvfornægtelse blev efterfølgende betragtet som en sikker form for tvang; dette galt i særdeleshed i tilfældet med hensyn til seksualdriftens undertrykkelse. Således udviklede primitive menneske tidligt en udpræget nøjsomhed i deres religiøse øvelser, en tro på effektiviteten af selvtortur og selvfornægtelse, som ritualer, der kunne tvinge de uvillige ånder til at reagere positivt over for alle sådanne lidelser og afsavn."
+                    "par_content": "Derefter kom brugen af rituelle løfter, snart efterfulgt af religiøse løfter og hellige eder{4}. De fleste af disse eder var ledsaget af selvtortur og selvlemlæstelse; senere, ved faste og bøn{5}. Selvfornægtelse blev efterfølgende betragtet som en sikker form for tvang; dette galt i særdeleshed i tilfældet med hensyn til seksualdriftens undertrykkelse. Således udviklede primitive menneske tidligt en udpræget nøjsomhed i deres religiøse øvelser, en tro på effektiviteten af selvtortur og selvfornægtelse, som ritualer, der kunne tvinge de uvillige ånder til at reagere positivt over for alle sådanne lidelser og afsavn."
                 },
                 {
                     "par_ref": "87:6.17",
@@ -413,12 +413,12 @@
         }
     ],
     "footnotes": [
-        "*Ukendte guder*: Hch 17:22-23.",
-        "*Ondskabens øje*: Pr 23:6; Pr 28:22; Dt 15:9; Dt 28:54,56; Mc 7:22.",
-        "*Fri os fra det onde øje*: Mt 6:13; Lc 11:4.",
-        "*Vanddåb*: Mt 3:6,11; Mc 1:4-5,8; Lc 3:3,7,16; Jn 1:25-26,31,33; Jn 3:22-23; Hch 1:5.",
-        "*Hellige løfter og edsaflæggelser*: Gn 31:13; Ex 22:11; 2 Cr 15:12-15; Lv 5:4; Sal 105:9-10; Nm 6:2-15; Nm 30:2-16; Dt 29:12-15.",
-        "*Straf for overtrædelse af edsaflæggelser*: Jg 11:30-39."
+        "*Ukendte guder*: ApG 17:22-23.",
+        "*Ondskabens øje*: Ordsp 23:6; Ordsp 28:22; 5 Mos 15:9; 5 Mos 28:54,56; Mark 7:22.",
+        "*Fri os fra det onde øje*: Matt 6:13; Luk 11:4.",
+        "*Vanddåb*: Matt 3:6,11; Mark 1:4-5,8; Luk 3:3,7,16; Joh 1:25-26,31,33; Joh 3:22-23; ApG 1:5.",
+        "*Hellige løfter og edsaflæggelser*: 1 Mos 31:13; 2 Mos 22:11; 2 Krøn 15:12-15; 3 Mos 5:4; Sl 105:9-10; 4 Mos 6:2-15; 4 Mos 30:2-16; 5 Mos 29:12-15.",
+        "*Straf for overtrædelse af edsaflæggelser*: Dom 11:30-39."
     ],
     "paper_title": "Spøgelseskulterne"
 }

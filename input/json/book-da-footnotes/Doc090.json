@@ -30,7 +30,7 @@
                 {
                     "par_ref": "90:1.1",
                     "par_pageref": "986.4",
-                    "par_content": "Shamanen var den førende medicinmand, den ceremonielle fetichmand, og den centrale personlighed for alle praksis indenfor udviklingsreligionen. I mange grupper havde shamanen en højere rang end krigshøvdingen, hvilket betyder begyndelsen af kirkens magt over staten. Shamanen fungerede undertiden som præst og endda som en præstekonge{0}. Nogle af de senere stammer havde både de tidligere shaman-medicinmænd (seere) og de senere shamanpræster. I mange tilfælde gik shamanens embede i arv."
+                    "par_content": "Shamanen var den førende medicinmand, den ceremonielle fetichmand, og den centrale personlighed for alle praksis indenfor udviklingsreligionen. I mange grupper havde shamanen en højere rang end krigshøvdingen, hvilket betyder begyndelsen af kirkens magt over staten. Shamanen fungerede undertiden som præst og endda som en præstekonge{0}. Nogle af de senere stammer havde både de tidligere shaman-medicinmænd (seere) og de senere shamanpræster{1}. I mange tilfælde gik shamanens embede i arv."
                 },
                 {
                     "par_ref": "90:1.2",
@@ -87,7 +87,7 @@
                 {
                     "par_ref": "90:2.5",
                     "par_pageref": "988.1",
-                    "par_content": "Medicinmændene lagde stor tillid til tegn og varsler, såsom \"Når du hører lyden af en raslen i toppen af morbærtræerne, så skal du skynde dig væk{3}.\" Meget tidligt i menneskehedens historie vendte shamanerne deres opmærksom mod stjernerne. Primitiv astrologi var en verdensomspændende tro og praksis; drømmetydning blev også udbredt. Alt dette blev hurtigt efterfulgt af fremkomsten af de temperamentsfulde kvindelige shamaner, der forsikrede, at de kunne kommunikere med de dødes ånder."
+                    "par_content": "Medicinmændene lagde stor tillid til tegn og varsler, såsom \"Når du hører lyden af en raslen i toppen af morbærtræerne, så skal du skynde dig væk{3}.\" Meget tidligt i menneskehedens historie vendte shamanerne deres opmærksom mod stjernerne. Primitiv astrologi var en verdensomspændende tro og praksis; drømmetydning blev også udbredt{4}. Alt dette blev hurtigt efterfulgt af fremkomsten af de temperamentsfulde kvindelige shamaner, der forsikrede, at de kunne kommunikere med de dødes ånder{5}."
                 },
                 {
                     "par_ref": "90:2.6",
@@ -258,7 +258,7 @@
                 {
                     "par_ref": "90:5.3",
                     "par_pageref": "992.4",
-                    "par_content": "Ord bliver en del af ritualet, såsom brugen af udtryk som amen og selah{8}. Vanen at bande, bandeord, repræsenterer en prostitution af en tidligere ritualistisk opremsning af hellige navne. Pilgrimsrejser til hellige steder er et meget gammel ritual. Ritualet voksede nærmest til kunstfærdige ceremonier af rensning, udrensning, og helliggørelse. Optagelsesceremonierne i de primitive stammesamfunds hemmelige selskaber var et råt religiøst ritual i virkeligheden. Tilbedelsens teknik i fortidens mysteriekulter var bare én lang sekvens af akkumuleret religiøse ritualer. Ritualet udviklet sig til sidst til de moderne typer af sociale ceremonier og religions udøvelse, gudstjenester omfattende bøn, sang, responsorisk læsning, og andre individuelle og gruppebaserede åndelige andagter."
+                    "par_content": "Ord bliver en del af ritualet, såsom brugen af udtryk som amen og selah{8}{9}. Vanen at bande, bandeord, repræsenterer en prostitution af en tidligere ritualistisk opremsning af hellige navne. Pilgrimsrejser til hellige steder er et meget gammel ritual. Ritualet voksede nærmest til kunstfærdige ceremonier af rensning, udrensning, og helliggørelse{10}{11}{12}. Optagelsesceremonierne i de primitive stammesamfunds hemmelige selskaber var et råt religiøst ritual i virkeligheden. Tilbedelsens teknik i fortidens mysteriekulter var bare én lang sekvens af akkumuleret religiøse ritualer. Ritualet udviklet sig til sidst til de moderne typer af sociale ceremonier og religions udøvelse, gudstjenester omfattende bøn, sang, responsorisk læsning, og andre individuelle og gruppebaserede åndelige andagter."
                 },
                 {
                     "par_ref": "90:5.4",
@@ -294,19 +294,19 @@
         }
     ],
     "footnotes": [
-        "*Shamaner (præster)*: Ex 2:16; Ex 28:1-43; Ex 29:4-9,29; Nm 18:1-10.",
-        "*Seere*: 2 Re 17:13; 1 Cr 29:29; 1 Sam 9:8-11,18-19; 2 Sam 15:27.",
-        "*heksekunst*: Ex 22:18; Dt 18:10-12; 1 Sam 15:23.",
-        "*Når du hører lyden af vinden*: 1 Cr 14:15; 2 Sam 5:24.",
-        "*Astrologi*: Is 47:13; Dn 2:2; Am 5:26; Mt 2:7,9-10.",
+        "*Shamaner (præster)*: 2 Mos 2:16; 2 Mos 28:1-43; 2 Mos 29:4-9,29; 4 Mos 18:1-10.",
+        "*Seere*: 2 Kong 17:13; 1 Krøn 29:29; 1 Sam 9:8-11,18-19; 2 Sam 15:27.",
+        "*heksekunst*: 2 Mos 22:18; 5 Mos 18:10-12; 1 Sam 15:23.",
+        "*Når du hører lyden af vinden*: 1 Krøn 14:15; 2 Sam 5:24.",
+        "*Astrologi*: Es 47:13; Dan 2:2; Am 5:26; Matt 2:7,9-10.",
         "*Shamanesser*: 1 Sam 28:7-19.",
-        "*Lucky stars*: Mt 2:2.",
-        "*Den almægtiges pile*: Job 6:4; Sal 38:1-2.",
-        "*»Amen« som ritual*: Nm 5:22.",
-        "*»Selah« som ritual*: Sal 3:2.",
-        "*Rense: (ritual for den røde kvie)*: Nm 19:1-22. *af alteret*: Lv 8:15. *af krigsbytte*: Nm 31:12-24. *af præsternes klæder*: Ex 29:4. *af tabernaklet*: Ex 29:41-44. *af kvinde efter fødslen*: Lv 12:1-7.",
-        "*Rense: for menighedens synder*: Lv 4:13-21. *af individuelle synder*: Lv 5:1-13. *af spedalskhed*: Lv 14:2-11. *af overtrædelser*: Lv 6:8-18.",
-        "*helliggøre med salvelse*: Ex 40:9-11. *ved Herren*: Lv 22:9,16. *af førstefødte mænd*: Ex 13:2. *af mennesker*: Ex 19:10,14. *af tabernaklet og området*: Ex 29:41-44."
+        "*Lucky stars*: Matt 2:2.",
+        "*Den almægtiges pile*: Job 6:4; Sl 38:1-2.",
+        "*»Amen« som ritual*: 4 Mos 5:22.",
+        "*»Selah« som ritual*: Sl 3:2.",
+        "*Rense: (ritual for den røde kvie)*: 4 Mos 19:1-22. *af alteret*: 3 Mos 8:15. *af krigsbytte*: 4 Mos 31:12-24. *af præsternes klæder*: 2 Mos 29:4. *af tabernaklet*: 2 Mos 29:41-44. *af kvinde efter fødslen*: 3 Mos 12:1-7.",
+        "*Rense: for menighedens synder*: 3 Mos 4:13-21. *af individuelle synder*: 3 Mos 5:1-13. *af spedalskhed*: 3 Mos 14:2-11. *af overtrædelser*: 3 Mos 6:8-18.",
+        "*helliggøre med salvelse*: 2 Mos 40:9-11. *ved Herren*: 3 Mos 22:9,16. *af førstefødte mænd*: 2 Mos 13:2. *af mennesker*: 2 Mos 19:10,14. *af tabernaklet og området*: 2 Mos 29:41-44."
     ],
     "paper_title": "Shamanisme — Medicinmænd Og Præster"
 }

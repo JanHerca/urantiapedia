@@ -40,7 +40,7 @@
                 {
                     "par_ref": "126:1.2",
                     "par_pageref": "1387.2",
-                    "par_content": "Denne bakke, havde for lidt noget over hundrede år tidligere, været \"Baalshøjen\", og nu fandtes Simeons gravsted der{0}. Han blev betragtet som en hellig mand i Israel. Fra toppen af denne Simons bakke så Jesus ud over Nazaret og det omkringliggende landskab. Han ville vende blikket mod Megiddo og genkalde historien om den egyptiske hær som vandt sine første store sejr i Asien, og hvordan senere, en anden sådan hær besejrede kong Josias af Judas. Ikke langt væk, kunne han se Tanak, hvor Deborah og Barak besejrede Sisera. I det fjerne kunne han skimte Dotans højder, om hvilken han havde lært at Josefs brødre solgte Josef til slaveri i Egypten. Så ville han flytte blikket til Ebal og Gerizim og fortælle sig selv traditionerne om Abraham, Jakob, og Abimelek. På denne måde, genkaldte og overvejede han de historiske og traditions baserede hændelser som hans far Josefs folk havde gennemgået."
+                    "par_content": "Denne bakke, havde for lidt noget over hundrede år tidligere, været \"Baalshøjen\", og nu fandtes Simeons gravsted der{0}. Han blev betragtet som en hellig mand i Israel. Fra toppen af denne Simons bakke så Jesus ud over Nazaret og det omkringliggende landskab{1}. Han ville vende blikket mod Megiddo og genkalde historien om den egyptiske hær som vandt sine første store sejr i Asien, og hvordan senere, en anden sådan hær besejrede kong Josias af Judas{2}. Ikke langt væk, kunne han se Tanak, hvor Deborah og Barak besejrede Sisera{3}. I det fjerne kunne han skimte Dotans højder, om hvilken han havde lært at Josefs brødre solgte Josef til slaveri i Egypten. Så ville han flytte blikket til Ebal og Gerizim og fortælle sig selv traditionerne om Abraham, Jakob, og Abimelek. På denne måde, genkaldte og overvejede han de historiske og traditions baserede hændelser som hans far Josefs folk havde gennemgået."
                 },
                 {
                     "par_ref": "126:1.3",
@@ -149,7 +149,7 @@
                 {
                     "par_ref": "126:3.6",
                     "par_pageref": "1390.1",
-                    "par_content": "I løbet af dette år fandt Jesus i den såkaldte Enochs bog et sted, der påvirkede ham til senere at tage udtrykket \"Menneskesønnen\" i brug som en betegnelse for sin overdragelsesmission på Urantia{9}. Han havde grundigt overvejet idéen om den jødiske Messias og var fast overbevist om, at han ikke ville være Messias. Han længtes efter at hjælpe sin fars folk, men han kunne aldrig forestille sig, at føre jødiske hære til at knuse den udenlandske dominans af Palæstina. Han vidste, at han aldrig ville sidde på Davids trone i Jerusalem. Han mente heller ikke, at hans mission var at være en åndelig befrier eller moralsk lærer udelukkende for det jødiske folk. Derfor kunne hans livsopgave på ingen måde være med til at opfylde de intense længsler og formodede messianske profetier i de hebraiske skrifter, i hvert fald ikke som jøderne forstod de profetiske forudsigelser. Ligeledes var han sikker på, at han aldrig ville fremstå som Menneskesønnen, som profeten David havde beskrevet."
+                    "par_content": "I løbet af dette år fandt Jesus i den såkaldte Enochs bog et sted, der påvirkede ham til senere at tage udtrykket \"Menneskesønnen\" i brug som en betegnelse for sin overdragelsesmission på Urantia{9}. Han havde grundigt overvejet idéen om den jødiske Messias og var fast overbevist om, at han ikke ville være Messias. Han længtes efter at hjælpe sin fars folk, men han kunne aldrig forestille sig, at føre jødiske hære til at knuse den udenlandske dominans af Palæstina. Han vidste, at han aldrig ville sidde på Davids trone i Jerusalem. Han mente heller ikke, at hans mission var at være en åndelig befrier eller moralsk lærer udelukkende for det jødiske folk. Derfor kunne hans livsopgave på ingen måde være med til at opfylde de intense længsler og formodede messianske profetier i de hebraiske skrifter, i hvert fald ikke som jøderne forstod de profetiske forudsigelser. Ligeledes var han sikker på, at han aldrig ville fremstå som Menneskesønnen, som profeten David havde beskrevet{10}."
                 },
                 {
                     "par_ref": "126:3.7",
@@ -314,26 +314,26 @@
         }
     ],
     "footnotes": [
-        "*Baals høje sted*: Nm 22:41.",
-        "*Josiah besejret*: 2 Re 23:29-30; 2 Cr 35:20-24.",
-        "*Sisera besejret*: Jg 4:10-16.",
-        "*Josef solgt som slave*: Gn 37:23-28.",
-        "*Jesus voksede i gunst hos mennesker og Gud*: Lc 2:52.",
-        "*Sad ved ingen mands fødder*: Hch 22:3.",
-        "*Søster Ruth født*: Mt 13:56; Mc 6:3.",
-        "*Herrens bøn*: Mt 6:9-13; Lc 11:2-4.",
-        "*Om sin fars forretninger*: Lc 2:49.",
-        "*Menneskesøn*: Ez 2:1,3,6,8; Ez 3:1-4,10,17; Dn 7:13-14; Mt 8:20; Mc 2:10; Lc 5:24; Jn 1:51; Ap 1:13; Ap 14:14; 1 Enoch 46:1-6; 1 Enoch 48:1-7; 1 Enoch 60:10; 1 Enoch 62:1,14; 1 Enoch 63:11; 1 Enoch 69:26-29; 1 Enoch 70:1-2; 1 Enoch 71:14-16.",
-        "*Ikke Daniels Menneskesøn*: Dn 7:13-14.",
-        "*Om sin fars forretninger*: Lc 2:49.",
-        "*Jesus' første gudstjeneste*: Lc 4:16-20.",
-        "*Skrift læst: Herrens ånd er over mig*: Is 61:1-3.",
+        "*Baals høje sted*: 4 Mos 22:41.",
+        "*Josiah besejret*: 2 Kong 23:29-30; 2 Krøn 35:20-24.",
+        "*Sisera besejret*: Dom 4:10-16.",
+        "*Josef solgt som slave*: 1 Mos 37:23-28.",
+        "*Jesus voksede i gunst hos mennesker og Gud*: Luk 2:52.",
+        "*Sad ved ingen mands fødder*: ApG 22:3.",
+        "*Søster Ruth født*: Matt 13:56; Mark 6:3.",
+        "*Herrens bøn*: Matt 6:9-13; Luk 11:2-4.",
+        "*Om sin Faders forretninger*: Luk 2:49.",
+        "*Menneskesøn*: Ez 2:1,3,6,8; Ez 3:1-4,10,17; Dan 7:13-14; Matt 8:20; Mark 2:10; Luk 5:24; Joh 1:51; Åb 1:13; Åb 14:14; 1 Enok 46:1-6; 1 Enok 48:1-7; 1 Enok 60:10; 1 Enok 62:1,14; 1 Enok 63:11; 1 Enok 69:26-29; 1 Enok 70:1-2; 1 Enok 71:14-16.",
+        "*Ikke Daniels Menneskesøn*: Dan 7:13-14.",
+        "*Om sin Faders forretninger*: Luk 2:49.",
+        "*Jesus' første gudstjeneste*: Luk 4:16-20.",
+        "*Skrift læst: Herrens ånd er over mig*: Es 61:1-3.",
         "*Skrift læst: Søg det gode og ikke det onde*: Am 5:14-15.",
-        "*Skriften læst: Vask dig, gør dig ren*: Is 1:16-17.",
-        "*Skrift læst: Hvorledes skal jeg træde frem for Herren?*: Miq 6:6-8.",
-        "*Skrift læst: Hvem vil I da sammenligne Gud med?*: Is 40:18,22,26,29; Is 41:10,13.",
-        "*Skriften læst: I er mine vidner, siger Herren.*: Is 43:10-11.",
-        "*Den ræv, Herodes*: Lc 13:32."
+        "*Skriften læst: Vask dig, gør dig ren*: Es 1:16-17.",
+        "*Skrift læst: Hvorledes skal jeg træde frem for Herren?*: Mika 6:6-8.",
+        "*Skrift læst: Hvem vil I da sammenligne Gud med?*: Es 40:18,22,26,29; Es 41:10,13.",
+        "*Skriften læst: I er mine vidner, siger Herren.*: Es 43:10-11.",
+        "*Den ræv, Herodes*: Luk 13:32."
     ],
     "paper_title": "De To Afgørende År"
 }

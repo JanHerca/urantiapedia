@@ -8,7 +8,7 @@
                 {
                     "par_ref": "135:0.1",
                     "par_pageref": "1496.1",
-                    "par_content": "JOHANNES Døberen blev født 25. marts 7 f.Kr. i overensstemmelse med løftet som Gabriel havde givet Elisabet i juni det foregående år. I fem måneder holdt Elisabet Gabriels besøg hemmelig, og da hun fortalte om det til sin mand, Zakarias, blev han meget bekymret og troede ikke helt på hendes historie, indtil han havde haft en usædvanlig drøm omkring seks uger før Johannes fødsel{0}. Med undtagelse af Gabriels besøg hos Elisabet og Zakarias drøm var der ikke noget usædvanligt eller overnaturlig i forbindelse med Johannes Døberens fødsel."
+                    "par_content": "JOHANNES Døberen blev født 25. marts 7 f.Kr. i overensstemmelse med løftet som Gabriel havde givet Elisabet i juni det foregående år. I fem måneder holdt Elisabet Gabriels besøg hemmelig, og da hun fortalte om det til sin mand, Zakarias, blev han meget bekymret og troede ikke helt på hendes historie, indtil han havde haft en usædvanlig drøm omkring seks uger før Johannes fødsel{0}{1}. Med undtagelse af Gabriels besøg hos Elisabet og Zakarias drøm var der ikke noget usædvanligt eller overnaturlig i forbindelse med Johannes Døberens fødsel{2}."
                 },
                 {
                     "par_ref": "135:0.2",
@@ -99,7 +99,7 @@
                 {
                     "par_ref": "135:3.2",
                     "par_pageref": "1498.1",
-                    "par_content": "Elisabet holdt Johannes orienteret om begivenhederne i Palæstina og andre steder i verden, og Johannes blev mere og mere overbevist om, at tiden hurtigt nærmede hvor den gamle orden ville blive afsluttet, og at han ville blive forløberen, der proklamerede ankomsten af en ny tidsalder \"himmelriget\". Denne robuste hyrde havde en særlig forkærlighed for profeten Daniels skrifter. Han læste en tusind gange Davids beskrivelse af det store billede, som Zakarias havde fortalt ham repræsenterede historien af de store verdens riger, først Babylon, så Persien, Grækenland, og til sidst Roms historie. Johannes indså, at Rom allerede dengang bestod af folkeslag og racer med så mange forskellige sprog, at det aldrig kunne blive et stærkt forenet og fast konsolideret imperium{8}. Han mente, at Rom allerede selv var opdelt i Syrien, Egypten, Palæstina, og andre provinser. Siden læste han videre: \"I disse kongers dage skal himlens Gud oprette et rige som aldrig vil blive ødelagt. Og dette rige må ikke overlades til andre mennesker, men skal knuse og tilintetgøre alle andre riger, og det skal stå for evigt.\" \"Og der blev givet ham herredømme og ære og et kongerige, for at alle folkeslag, nationer og sprog bør tjene ham. Hans herredømme er et evigt herredømme, som ikke forgår, og hans rige vil aldrig blive ødelagt.\" \"Og riget og herredømmet og storheden af riget under himmelen, skal gives til de mennesker, som består af den Højestes hellige; og hans rige er et evigt rige, og alle magter skal tjene og lyde ham.\""
+                    "par_content": "Elisabet holdt Johannes orienteret om begivenhederne i Palæstina og andre steder i verden, og Johannes blev mere og mere overbevist om, at tiden hurtigt nærmede hvor den gamle orden ville blive afsluttet, og at han ville blive forløberen, der proklamerede ankomsten af en ny tidsalder \"himmelriget\". Denne robuste hyrde havde en særlig forkærlighed for profeten Daniels skrifter. Han læste en tusind gange Davids beskrivelse af det store billede, som Zakarias havde fortalt ham repræsenterede historien af de store verdens riger, først Babylon, så Persien, Grækenland, og til sidst Roms historie. Johannes indså, at Rom allerede dengang bestod af folkeslag og racer med så mange forskellige sprog, at det aldrig kunne blive et stærkt forenet og fast konsolideret imperium{8}. Han mente, at Rom allerede selv var opdelt i Syrien, Egypten, Palæstina, og andre provinser. Siden læste han videre: \"I disse kongers dage skal himlens Gud oprette et rige som aldrig vil blive ødelagt. Og dette rige må ikke overlades til andre mennesker, men skal knuse og tilintetgøre alle andre riger, og det skal stå for evigt.\" \"Og der blev givet ham herredømme og ære og et kongerige, for at alle folkeslag, nationer og sprog bør tjene ham{9}. Hans herredømme er et evigt herredømme, som ikke forgår, og hans rige vil aldrig blive ødelagt.\" \"Og riget og herredømmet og storheden af riget under himmelen, skal gives til de mennesker, som består af den Højestes hellige; og hans rige er et evigt rige, og alle magter skal tjene og lyde ham.\"{10}"
                 },
                 {
                     "par_ref": "135:3.3",
@@ -188,12 +188,12 @@
                 {
                     "par_ref": "135:5.7",
                     "par_pageref": "1501.2",
-                    "par_content": "Hvem ville denne Messias være? Igen var de jødiske lærere af forskellig mening. De ældre klyngede sig til den lære, at han ville være en søn af David. De nyere lærte at eftersom riget var et himmelsk rige, kunne den nye hersker også tænkes at være en guddommelig personlighed, en der længe havde siddet ved Guds højre hånd i himlen. Selvom det kan synes mærkeligt, at de, der på denne måde opfattede det nye riges hersker, ikke så ham som en menneskelig Messias, ikke blot som et *menneske*, men som \"Menneskesønnen\" - en Guds søn - en himmelsk prins, som længe havde været holdt i beredskab til således at overtage herredømmet af jorden, der var gjort ny{15}. Sådan var den religiøse baggrund i den jødiske verden, da Johannes gik ud og proklamerede: \"Omvend jer, for Himmelriget er nær!\""
+                    "par_content": "Hvem ville denne Messias være? Igen var de jødiske lærere af forskellig mening. De ældre klyngede sig til den lære, at han ville være en søn af David. De nyere lærte at eftersom riget var et himmelsk rige, kunne den nye hersker også tænkes at være en guddommelig personlighed, en der længe havde siddet ved Guds højre hånd i himlen. Selvom det kan synes mærkeligt, at de, der på denne måde opfattede det nye riges hersker, ikke så ham som en menneskelig Messias, ikke blot som et *menneske*, men som \"Menneskesønnen\" - en Guds søn - en himmelsk prins, som længe havde været holdt i beredskab til således at overtage herredømmet af jorden, der var gjort ny{15}. Sådan var den religiøse baggrund i den jødiske verden, da Johannes gik ud og proklamerede: \"Omvend jer, for Himmelriget er nær!\"{16}"
                 },
                 {
                     "par_ref": "135:5.8",
                     "par_pageref": "1501.3",
-                    "par_content": "Det ses således, at Johannes proklamation om det kommende rige havde ikke mindre end et halvt dusin forskellige betydninger for dem, der lyttede til hans lidenskabelige prædiken{17}. Men uanset den betydning, de knyttede til de udtryk, Johannes brugte, var hver af disse grupper, der ventede på et jødisk kongerige fascineret af proklamationen af denne oprigtige, entusiastiske, rå og klar prædikant af retfærdighed og omvendelse, der så alvorligt formanede sine tilhørere at \"flygte fra den kommende vrede.”"
+                    "par_content": "Det ses således, at Johannes proklamation om det kommende rige havde ikke mindre end et halvt dusin forskellige betydninger for dem, der lyttede til hans lidenskabelige prædiken{17}. Men uanset den betydning, de knyttede til de udtryk, Johannes brugte, var hver af disse grupper, der ventede på et jødisk kongerige fascineret af proklamationen af denne oprigtige, entusiastiske, rå og klar prædikant af retfærdighed og omvendelse, der så alvorligt formanede sine tilhørere at \"flygte fra den kommende vrede{18}.”"
                 }
             ]
         },
@@ -210,7 +210,7 @@
                 {
                     "par_ref": "135:6.2",
                     "par_pageref": "1501.5",
-                    "par_content": "Det var indlysende for alle, som hørte Johannes, at han var mere end en prædikant. Langt de fleste af dem, der lyttede til denne mærkelige mand, der var kommet op fra ørkenen i Judæa gik derfra i troen, at de havde hørt stemmen af en profet. Det var ikke underligt, at et sådant fænomen dybt rørte disse trætte og forventningsfulde jøders sjæle. Aldrig tidligere i hele den jødiske historie havde Abrahams fromme børn, længtes efter \"Israels trøst\" eller mere glødende forventet \"genoprettelsen af riget{20}.\" Aldrig tidligere under jødernes historie kunne Johannes budskab om at \"Himmelriget er nær\" har vakt sådan en dyb og universel appel, som på netop dette tidspunkt, hvor han så mystisk var dukket op på bredden af dette sydlige overgangssted af Jordanfloden."
+                    "par_content": "Det var indlysende for alle, som hørte Johannes, at han var mere end en prædikant. Langt de fleste af dem, der lyttede til denne mærkelige mand, der var kommet op fra ørkenen i Judæa gik derfra i troen, at de havde hørt stemmen af en profet. Det var ikke underligt, at et sådant fænomen dybt rørte disse trætte og forventningsfulde jøders sjæle. Aldrig tidligere i hele den jødiske historie havde Abrahams fromme børn, længtes efter \"Israels trøst\" eller mere glødende forventet \"genoprettelsen af riget{20}{21}.\" Aldrig tidligere under jødernes historie kunne Johannes budskab om at \"Himmelriget er nær\" har vakt sådan en dyb og universel appel, som på netop dette tidspunkt, hvor han så mystisk var dukket op på bredden af dette sydlige overgangssted af Jordanfloden{22}."
                 },
                 {
                     "par_ref": "135:6.3",
@@ -230,17 +230,17 @@
                 {
                     "par_ref": "135:6.6",
                     "par_pageref": "1502.4",
-                    "par_content": "I maj dette år, mens han stadig dvælet ved Betania vadestedet sendte præsterne og levitterne en delegation ud for at spørge Johannes om han påstod at være Messias, og med hvis tilladelse han prædikede{26}. Johannes svarede disse spørgere ved at sige: \"Gå hen og fortæl jeres mestre, at I har hørt \"røsten af en, der råber i ørkenen,\" som profeten talte, da han sagde: \"Forbered Herrens vej, gør hovedvejen lige til vor Gud. Hver dal skal opfyldes, og hvert bjerg og høj skal gøres lav; det ujævne terræn skal bliver almindelig, mens de ujævne steder skal blive en jævn dal; og alt kød skal se Guds frelse.'\""
+                    "par_content": "I maj dette år, mens han stadig dvælet ved Betania vadestedet sendte præsterne og levitterne en delegation ud for at spørge Johannes om han påstod at være Messias, og med hvis tilladelse han prædikede{26}. Johannes svarede disse spørgere ved at sige: \"Gå hen og fortæl jeres mestre, at I har hørt \"røsten af en, der råber i ørkenen,\" som profeten talte, da han sagde: \"Forbered Herrens vej, gør hovedvejen lige til vor Gud. Hver dal skal opfyldes, og hvert bjerg og høj skal gøres lav; det ujævne terræn skal bliver almindelig, mens de ujævne steder skal blive en jævn dal; og alt kød skal se Guds frelse.'\"{27}"
                 },
                 {
                     "par_ref": "135:6.7",
                     "par_pageref": "1502.5",
-                    "par_content": "Johannes var en heroisk men taktløs prædikant{28}. En dag, da han prædikede og døbte på den vestlige bred af Jordanfloden, kom en gruppe farisæere og en række saddukæerne frem og præsenterede sig selv for dåb. Før Johannes bragte dem ned til vandet, talte han til dem som en gruppe og sagde: \"Hvem advarede eder at fly, som hugorme undslipper ilden, fra den kommende vrede? Jeg vil døbe jer, men jeg opfordrer jer til at bære frugten som er værdig af oprigtig anger, hvis I ønsker at blive tilgivet for jeres synder. Og fortæl mig ikke, at I har Abraham til fader. Jeg siger jer, at Gud er i stand til af disse tolv sten her foran jer, til at oprejse værdige børn til Abraham. Og allerede nu er øksen lagt til roden af træerne. Hvert træ, som ikke bærer god frugt vil blive skåret ned og kastet i ilden.\" (De tolv sten, som han henviste til var de berømte mindesten, som Josua havde lade rejse til mindesmærke af de \"tolv stammer\" der gik over netop på dette sted, da de først kom til det forjættede land.)"
+                    "par_content": "Johannes var en heroisk men taktløs prædikant{28}. En dag, da han prædikede og døbte på den vestlige bred af Jordanfloden, kom en gruppe farisæere og en række saddukæerne frem og præsenterede sig selv for dåb. Før Johannes bragte dem ned til vandet, talte han til dem som en gruppe og sagde: \"Hvem advarede eder at fly, som hugorme undslipper ilden, fra den kommende vrede? Jeg vil døbe jer, men jeg opfordrer jer til at bære frugten som er værdig af oprigtig anger, hvis I ønsker at blive tilgivet for jeres synder. Og fortæl mig ikke, at I har Abraham til fader. Jeg siger jer, at Gud er i stand til af disse tolv sten her foran jer, til at oprejse værdige børn til Abraham. Og allerede nu er øksen lagt til roden af træerne. Hvert træ, som ikke bærer god frugt vil blive skåret ned og kastet i ilden{29}.\" (De tolv sten, som han henviste til var de berømte mindesten, som Josua havde lade rejse til mindesmærke af de \"tolv stammer\" der gik over netop på dette sted, da de først kom til det forjættede land{30}.)"
                 },
                 {
                     "par_ref": "135:6.8",
                     "par_pageref": "1502.6",
-                    "par_content": "Johannes gav lektioner til sine disciple, hvor han instruerede dem om detaljerne i deres nye liv og forsøgte at besvare deres mange spørgsmål{31}. Han rådede lærerne til at undervise i lovens ånd såvel som i dens bogstav. Han opfordrede de rige til at give mad til de fattige. Til skatteopkræverne sagde han: \"Du skal ikke drive mere ind end hvad der er fastsat.\" Til soldaterne sagde han: \"Gør ingen vold og præcis ikke noget uretfærdigt, være tilfreds med din løn.\" Til alle, gav han rådet: \"Forbered jer på tidsalderens ende - himmelriget er kommet nær.”"
+                    "par_content": "Johannes gav lektioner til sine disciple, hvor han instruerede dem om detaljerne i deres nye liv og forsøgte at besvare deres mange spørgsmål{31}. Han rådede lærerne til at undervise i lovens ånd såvel som i dens bogstav. Han opfordrede de rige til at give mad til de fattige. Til skatteopkræverne sagde han: \"Du skal ikke drive mere ind end hvad der er fastsat{32}.\" Til soldaterne sagde han: \"Gør ingen vold og præcis ikke noget uretfærdigt, være tilfreds med din løn{33}.\" Til alle, gav han rådet: \"Forbered jer på tidsalderens ende - himmelriget er kommet nær{34}.”"
                 }
             ]
         },
@@ -257,7 +257,7 @@
                 {
                     "par_ref": "135:7.2",
                     "par_pageref": "1503.2",
-                    "par_content": "Da Johannes vandrede nordover, tænkte han meget på Jesus. Han standsede ved mere end et dusin steder under sin rejse op langs Jordanfloden. Det var ved Adam, at han først henviste til \"en anden, der vil komme efter mig\" som svar på det direkte spørgsmål, som hans disciple spurgte ham: \"Er du Messias?” Han fortsatte og sagde: \"Efter mig kommer en, der er større end jeg, hvis sandal rem jeg ikke engang er værdig til at bøje mig ned og snøre{36}. Jeg døber jer med vand, men han skal døbe jer med Helligånden. Og han har kasteskovlen i hånden til grundigt at rense det tærskede korn; han vil samle hveden i sin lade, men avnerne vil han brænde i dommedagens ild.\""
+                    "par_content": "Da Johannes vandrede nordover, tænkte han meget på Jesus. Han standsede ved mere end et dusin steder under sin rejse op langs Jordanfloden. Det var ved Adam, at han først henviste til \"en anden, der vil komme efter mig\" som svar på det direkte spørgsmål, som hans disciple spurgte ham: \"Er du Messias?” Han fortsatte og sagde: \"Efter mig kommer en, der er større end jeg, hvis sandal rem jeg ikke engang er værdig til at bøje mig ned og snøre{36}. Jeg døber jer med vand, men han skal døbe jer med Helligånden. Og han har kasteskovlen i hånden til grundigt at rense det tærskede korn; han vil samle hveden i sin lade, men avnerne vil han brænde i dommedagens ild.\"{37}"
                 },
                 {
                     "par_ref": "135:7.3",
@@ -299,12 +299,12 @@
                 {
                     "par_ref": "135:8.6",
                     "par_pageref": "1504.4",
-                    "par_content": "Der var en tone af endelighed og autoritet i Jesu stemme. Johannes skælvede med følelser da han gjorde sig klar til at døbe Jesus af Nazaret ved middagstid mandag den 14. januar år 26 e.Kr. i Jordanfloden{42}. Så døbte Johannes Jesus og hans to brødre James og Jude. Da Johannes havde døbt disse tre, sendte han de andre væk for resten af dagen og meddelte, at han ville genoptage dåben ved middagstid den næste dag. Da folk var ved at gå bort, hørte de fire mænd, som stadig stod i vandet, en mærkelig lyd, og snart dukkede en vision et øjeblik op direkte over Jesu hoved, og de hørte en stemme sige: \"Dette er min elskede søn, i ham har jeg fundet velbehag.\" En stor forandring kom over Jesu ansigt, og da han kom op fra vandet, forlod han dem i stilhed og gik hen mod bakkerne mod øst. Ingen mennesker så Jesus igen i fyrre dage."
+                    "par_content": "Der var en tone af endelighed og autoritet i Jesu stemme. Johannes skælvede med følelser da han gjorde sig klar til at døbe Jesus af Nazaret ved middagstid mandag den 14. januar år 26 e.Kr. i Jordanfloden{42}. Så døbte Johannes Jesus og hans to brødre James og Jude. Da Johannes havde døbt disse tre, sendte han de andre væk for resten af dagen og meddelte, at han ville genoptage dåben ved middagstid den næste dag{43}. Da folk var ved at gå bort, hørte de fire mænd, som stadig stod i vandet, en mærkelig lyd, og snart dukkede en vision et øjeblik op direkte over Jesu hoved, og de hørte en stemme sige: \"Dette er min elskede søn, i ham har jeg fundet velbehag.\" En stor forandring kom over Jesu ansigt, og da han kom op fra vandet, forlod han dem i stilhed og gik hen mod bakkerne mod øst. Ingen mennesker så Jesus igen i fyrre dage."
                 },
                 {
                     "par_ref": "135:8.7",
                     "par_pageref": "1504.5",
-                    "par_content": "Johannes fulgte Jesus tilstrækkeligt langt nok til at fortælle ham historien om Gabriels besøg hos sin mor, før nogen af dem var født, som han så ofte havde hørt fra sin mors læber{44}. Han lod Jesus fortsætte på sin vej, efter at han havde sagt: \"Nu ved jeg med sikkerhed, at du er Befrieren.” Men Jesus sagde ikke noget."
+                    "par_content": "Johannes fulgte Jesus tilstrækkeligt langt nok til at fortælle ham historien om Gabriels besøg hos sin mor, før nogen af dem var født, som han så ofte havde hørt fra sin mors læber{44}. Han lod Jesus fortsætte på sin vej, efter at han havde sagt: \"Nu ved jeg med sikkerhed, at du er Befrieren{45}.” Men Jesus sagde ikke noget."
                 }
             ]
         },
@@ -453,64 +453,64 @@
         }
     ],
     "footnotes": [
-        "*Elizabeths hemmelighed*: Lc 1:24.",
-        "*Zacharias' drøm*: Lc 1:11-23.",
-        "*Johannes Døberen født*: Lc 1:57.",
-        "*Johannes omskåret*: Lc 1:59.",
-        "*Johannes skal blive zarit*: Lc 1:15.",
-        "*Johannes' måde at klæde sig på*: Mt 3:4a; Mc 1:6a; Lc 1:80.",
-        "*»Ørkenen« i Judæa*: Mt 3:1; Lc 3:2.",
-        "*Johannes' kost*: Mt 3:4; Mc 1:6.",
-        "*Daniels »store billede«*: Dn 2:31-33.",
-        "*Det evige rige*: Dn 2:44.",
-        "*evigt herredømme*: Dn 7:14. *Giv kongerige til de højeste*: Dn 7:27.",
-        "*Synet af Menneskesønnens komme*: Dn 7:13-14.",
+        "*Elisabeths hemmelighed*: Luk 1:24.",
+        "*Zacharias' drøm*: Luk 1:11-23.",
+        "*Johannes Døberen født*: Luk 1:57.",
+        "*Johannes omskåret*: Luk 1:59.",
+        "*Johannes skal blive zarit*: Luk 1:15.",
+        "*Johannes' måde at klæde sig på*: Matt 3:4a; Mark 1:6a; Luk 1:80.",
+        "*»Ørkenen« i Judæa*: Matt 3:1; Luk 3:2.",
+        "*Johannes' kost*: Matt 3:4; Mark 1:6.",
+        "*Daniels »store billede«*: Dan 2:31-33.",
+        "*Det evige rige*: Dan 2:44.",
+        "*evigt herredømme*: Dan 7:14. *Giv kongerige til de højeste*: Dan 7:27.",
+        "*Synet af Menneskesønnens komme*: Dan 7:13-14.",
         "*Send Elias først*: Mal 4:5-6.",
-        "*Messias hersker i himlen og på jorden*: Mt 6:10; Lc 11:2.",
-        "*En ny himmel og en ny jord*: Is 65:17; Is 66:22; Ap 21:1.",
-        "*Menneskesønnen*: Ez 2:1,3,6,8; Ez 3:1-4,10,17; Dn 7:13,14; Mt 8:20; Mc 2:10; Lc 5:24; Jn 1:51; Ap 1:13; Ap 14:14; 1 Enoch 46:1-6; 1 Enoch 48:1-7; 1 Enoch 60:10; 1 Enoch 62:1-14; 1 Enoch 63:11; 1 Enoch 69:26-29; 1 Enoch 70:1-2; 1 Enoch 71:14,16.",
-        "*Johannes prædikede omvendelse*: Mt 3:2; Mc 1:4.",
-        "*Johannes' bekendtgørelse*: Mt 3:3; Mc 1:2-8; Lc 3:2-6.",
-        "*Flygt fra den kommende vrede*: Mt 3:7; Lc 3:7.",
-        "*Johannes begynder at prædike*: Mt 3:1; Mc 1:4,7-8; Lc 3:2-3.",
-        "*Israels trøst*: Lc 2:25.",
-        "*Genoprettelse af kongeriget*: Hch 1:6.",
-        "*Himmeriges rige er nær*: Mt 3:2; Mc 1:15.",
-        "*Elias' ånd og kraft*: Lc 1:17.",
-        "*Døb til syndernes forladelse*: Mt 3:5-6; Mc 1:4-5; Lc 3:3.",
-        "*Johannes' prædiken*: Jn 1:28.",
-        "*Delegationens forespørgsel*: Jn 1:19-27.",
-        "*John's svar*: Is 40:3-5; Mt 3:3; Mc 1:2-3; Lc 3:4-5; Jn 1:23.",
-        "*John's taktløse besked*: Mt 3:7-10; Lc 3:7-9.",
-        "*Værdig frugt*: Mt 7:16-20; Mt 12:33-34; Lc 3:9-10; Lc 6:43-44; Jn 15:2.",
+        "*Messias hersker i himlen og på jorden*: Matt 6:10; Luk 11:2.",
+        "*En ny himmel og en ny jord*: Es 65:17; Es 66:22; Åb 21:1.",
+        "*Menneskesønnen*: Ez 2:1,3,6,8; Ez 3:1-4,10,17; Dan 7:13,14; Matt 8:20; Mark 2:10; Luk 5:24; Joh 1:51; Åb 1:13; Åb 14:14; 1 Enok 46:1-6; 1 Enok 48:1-7; 1 Enok 60:10; 1 Enok 62:1-14; 1 Enok 63:11; 1 Enok 69:26-29; 1 Enok 70:1-2; 1 Enok 71:14,16.",
+        "*Johannes prædikede omvendelse*: Matt 3:2; Mark 1:4.",
+        "*Johannes' bekendtgørelse*: Matt 3:3; Mark 1:2-8; Luk 3:2-6.",
+        "*Flygt fra den kommende vrede*: Matt 3:7; Luk 3:7.",
+        "*Johannes begynder at prædike*: Matt 3:1; Mark 1:4,7-8; Luk 3:2-3.",
+        "*Israels trøst*: Luk 2:25.",
+        "*Genoprettelse af kongeriget*: ApG 1:6.",
+        "*Himmeriges rige er nær*: Matt 3:2; Mark 1:15.",
+        "*Elias' ånd og kraft*: Luk 1:17.",
+        "*Døb til syndernes forladelse*: Matt 3:5-6; Mark 1:4-5; Luk 3:3.",
+        "*Johannes' prædiken*: Joh 1:28.",
+        "*Delegationens forespørgsel*: Joh 1:19-27.",
+        "*John's svar*: Es 40:3-5; Matt 3:3; Mark 1:2-3; Luk 3:4-5; Joh 1:23.",
+        "*John's taktløse besked*: Matt 3:7-10; Luk 3:7-9.",
+        "*Værdig frugt*: Matt 7:16-20; Matt 12:33-34; Luk 3:9-10; Luk 6:43-44; Joh 15:2.",
         "*Tolv mindesten*: Jos 4:1-9.",
-        "*Johannes' undervisning for disciple*: Lc 3:10-11.",
-        "*Lektion til skatteopkrævere*: Lc 3:12-13.",
-        "*Lektion til soldater*: Lc 3:14.",
-        "*Lektion for alle*: Mt 3:2; Mc 1:15.",
-        "*Johannes forvirret om kongerige*: Jn 1:31a.",
-        "*Johannes, men forløber for Messias*: Mt 3:11-12; Mc 1:7-8; Lc 3:16-17; Jn 1:26-27.",
-        "*Johannes benægter, at han er Messias*: Mt 3:11; Mc 1:7-8; Lc 3:15-17; Jn 1:24-26.",
-        "*Omvend dig og bliv døbt*: Lc 3:3.",
-        "*Johannes når til Pella*: Jn 1:28.",
-        "*Jesus tager til Pella*: Mc 1:9; Lc 3:21; Jn 1:29.",
-        "*Johannes' indvending*: Mt 3:14-15.",
-        "*Jesu dåb og Guds stemme*: Mt 3:16-17; Mc 1:10-11; Lc 3:22; Jn 1:32-34.",
-        "*Fyrre dage alene*: Mt 4:1-11; Mc 1:12-13; Lc 4:1-13.",
-        "*Gabriels besøg hos Isabel*: Lc 1:11-19,24-25.",
-        "*Nu ved jeg det med sikkerhed*: Jn 1:34.",
-        "*Jesus fortalte om Gabriels besøg hos Maria*: Lc 1:26-38.",
-        "*Delegationsspørgsmål*: Jn 1:19-21; Jn 1:24-26.",
+        "*Johannes' undervisning for disciple*: Luk 3:10-11.",
+        "*Lektion til skatteopkrævere*: Luk 3:12-13.",
+        "*Lektion til soldater*: Luk 3:14.",
+        "*Lektion for alle*: Matt 3:2; Mark 1:15.",
+        "*Johannes forvirret om kongerige*: Joh 1:31a.",
+        "*Johannes, men forløber for Messias*: Matt 3:11-12; Mark 1:7-8; Luk 3:16-17; Joh 1:26-27.",
+        "*Johannes benægter, at han er Messias*: Matt 3:11; Mark 1:7-8; Luk 3:15-17; Joh 1:24-26.",
+        "*Omvend dig og bliv døbt*: Luk 3:3.",
+        "*Johannes når til Pella*: Joh 1:28.",
+        "*Jesus tager til Pella*: Mark 1:9; Luk 3:21; Joh 1:29.",
+        "*Johannes' indvending*: Matt 3:14-15.",
+        "*Jesu dåb og Guds stemme*: Matt 3:16-17; Mark 1:10-11; Luk 3:22; Joh 1:32-34.",
+        "*Fyrre dage alene*: Matt 4:1-11; Mark 1:12-13; Luk 4:1-13.",
+        "*Gabriels besøg hos Isabel*: Luk 1:11-19,24-25.",
+        "*Nu ved jeg det med sikkerhed*: Joh 1:34.",
+        "*Jesus fortalte om Gabriels besøg hos Maria*: Luk 1:26-38.",
+        "*Delegationsspørgsmål*: Joh 1:19-21; Joh 1:24-26.",
         "*Joshuas invasion*: Jos 12:7-24.",
-        "*Johannes' erklæring*: Mc 1:7; Jn 1:29-32. *Nedfaldende ånd og stemme*: Mt 3:16-17; Mc 1:10-11; Lc 3:21-22.",
-        "*Jesus tager til Galilæa*: Lc 4:14; Jn 1:43a.",
-        "*Johannes angriber Herodes*: Mt 14:3b-4; Mc 6:17b-19; Lc 3:19.",
-        "*Johannes arresteret*: Mt 14:3; Mc 1:14,6:17; Lc 3:19.",
-        "*Spørgsmål fra Johannes' disciple*: Jn 3:25-36a.",
-        "*Flere spørgsmål fra Johannes*: Mt 11:2-6; Lc 7:19-23.",
-        "*Herodes og Johannes*: Mt 14:3-5; Mc 6:17-19.",
-        "*Johannes møder Herodes*: Mc 6:20.",
-        "*Herodes' fødselsdagsfest*: Mt 14:6a; Mc 6:21."
+        "*Johannes' erklæring*: Mark 1:7; Joh 1:29-32. *Nedfaldende ånd og stemme*: Matt 3:16-17; Mark 1:10-11; Luk 3:21-22.",
+        "*Jesus tager til Galilæa*: Luk 4:14; Joh 1:43a.",
+        "*Johannes angriber Herodes*: Matt 14:3b-4; Mark 6:17b-19; Luk 3:19.",
+        "*Johannes arresteret*: Matt 14:3; Mark 1:14,6:17; Luk 3:19.",
+        "*Spørgsmål fra Johannes' disciple*: Joh 3:25-36a.",
+        "*Flere spørgsmål fra Johannes*: Matt 11:2-6; Luk 7:19-23.",
+        "*Herodes og Johannes*: Matt 14:3-5; Mark 6:17-19.",
+        "*Johannes møder Herodes*: Mark 6:20.",
+        "*Herodes' fødselsdagsfest*: Matt 14:6a; Mark 6:21."
     ],
     "paper_title": "Johannes Døberen"
 }

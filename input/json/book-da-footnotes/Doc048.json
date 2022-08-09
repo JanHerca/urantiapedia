@@ -60,7 +60,7 @@
                 {
                     "par_ref": "48:1.7",
                     "par_pageref": "542.4",
-                    "par_content": "Paulus lærte om morontiaverdnernes eksistens og morontiamaterialets virkelighed, for han skrev: ”De har i himlen et bedre og mere holdbart materiale{0}.” Og disse morontiamaterialer er virkelige, konkrete, som i ” byen hvis grundvolde, hvis bygmestre og skabere er Gud.” Og hver og en af disse storartede sfærer er ”et bedre land, nemlig et himmelsk.”"
+                    "par_content": "Paulus lærte om morontiaverdnernes eksistens og morontiamaterialets virkelighed, for han skrev: ”De har i himlen et bedre og mere holdbart materiale{0}.” Og disse morontiamaterialer er virkelige, konkrete, som i ” byen hvis grundvolde, hvis bygmestre og skabere er Gud{1}.” Og hver og en af disse storartede sfærer er ”et bedre land, nemlig et himmelsk{2}.”"
                 }
             ]
         },
@@ -505,7 +505,7 @@
                 {
                     "par_ref": "48:6.8",
                     "par_pageref": "552.6",
-                    "par_content": "Selv på Urantia råder evangelisterne menneskelærerne som underviser i sandhed og retfærdighed til at holde sig til forkyndelsen af ”Guds godhed, som fører til anger”, at forkynde ”Guds kærlighed, som uddriver frygt{5}.” Selv sådan her har disse sandheder været forkyndt i jeres verden:"
+                    "par_content": "Selv på Urantia råder evangelisterne menneskelærerne som underviser i sandhed og retfærdighed til at holde sig til forkyndelsen af ”Guds godhed, som fører til anger”, at forkynde ”Guds kærlighed, som uddriver frygt{5}{6}.” Selv sådan her har disse sandheder været forkyndt i jeres verden:{7}"
                 },
                 {
                     "par_ref": "48:6.9",
@@ -580,7 +580,7 @@
                 {
                     "par_ref": "48:6.23",
                     "par_pageref": "553.4",
-                    "par_content": "I bør overveje, udsagnet om ”himlen” og ”himlernes himmel”{8}. Den himmel som de fleste af jeres profeter opfattede, var den første af mansoniaverdnerne i lokalsystemet. Når apostelen talte om, at han blev ”oprykket til den tredje himmel” henviste han til den oplevelse i hvilken hans Retter blev frigjort under søvnen og i denne usædvanlige tilstand projicerede sig til den tredje af de syv mansoniaverdner. Nogle af jeres vise mænd så en vision om en større himmel, ”himlernes himmel”, af hvilken oplevelsen af den syvfoldige mansoniaverden kun var den første, mens Jerusem var den anden, Edentia og dens satellitter den tredje, Salvington og dens omgivende uddannelsessfærer den fjerde, Uversa den femte, Havona den sjette og Paradiset den syvende himmel"
+                    "par_content": "I bør overveje, udsagnet om ”himlen” og ”himlernes himmel”{8}. Den himmel som de fleste af jeres profeter opfattede, var den første af mansoniaverdnerne i lokalsystemet. Når apostelen talte om, at han blev ”oprykket til den tredje himmel” henviste han til den oplevelse i hvilken hans Retter blev frigjort under søvnen og i denne usædvanlige tilstand projicerede sig til den tredje af de syv mansoniaverdner{9}. Nogle af jeres vise mænd så en vision om en større himmel, ”himlernes himmel”, af hvilken oplevelsen af den syvfoldige mansoniaverden kun var den første, mens Jerusem var den anden, Edentia og dens satellitter den tredje, Salvington og dens omgivende uddannelsessfærer den fjerde, Uversa den femte, Havona den sjette og Paradiset den syvende himmel"
                 },
                 {
                     "par_ref": "48:6.24",
@@ -850,17 +850,17 @@
         }
     ],
     "footnotes": [
-        "*I himlen bedre stof*: Mt 6:19-20; Heb 10:34.",
-        "*Gud er bybygger og skaber*: 2 Co 5:1; Heb 11:10.",
-        "*Bedre -himmelsk - land*: Heb 11:16.",
-        "*Alle ting virker sammen*: Ro 8:28.",
-        "*Ego deflation*: Ro 12:3; 2 Co 12:7; Gl 6:3.",
-        "*Guds godhed fører til*: Ro 2:4.",
-        "*Guds kærlighed fordriver frygt*: 1 Jn 4:18.",
-        "*23. salme*: Sal 23:1-6.",
-        "*Himlen, himlens himmel*: 1 Re 8:27; 2 Cr 2:6; 2 Cr 6:18; Neh 9:6; Sal 148:4; Dt 10:14.",
-        "*Fanget i den tredje himmel*: 2 Co 12:2.",
-        "*Jesu sind*: 1 Co 2:16; Flp 2:5."
+        "*I himlen bedre stof*: Matt 6:19-20; Hebr 10:34.",
+        "*Gud er bybygger og skaber*: 2 Kor 5:1; Hebr 11:10.",
+        "*Bedre -himmelsk - land*: Hebr 11:16.",
+        "*Alle ting virker sammen*: Rom 8:28.",
+        "*Ego deflation*: Rom 12:3; 2 Kor 12:7; Gal 6:3.",
+        "*Guds godhed fører til*: Rom 2:4.",
+        "*Guds kærlighed fordriver frygt*: 1 Joh 4:18.",
+        "*23. salme*: Sl 23:1-6.",
+        "*Himlen, himlens himmel*: 1 Kong 8:27; 2 Krøn 2:6; 2 Krøn 6:18; Neh 9:6; Sl 148:4; 5 Mos 10:14.",
+        "*Fanget i den tredje himmel*: 2 Kor 12:2.",
+        "*Jesu sind*: 1 Kor 2:16; Fil 2:5."
     ],
     "paper_title": "Morontialivet"
 }

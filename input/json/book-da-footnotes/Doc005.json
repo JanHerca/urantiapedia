@@ -97,7 +97,7 @@
                 {
                     "par_ref": "5:2.2",
                     "par_pageref": "64.5",
-                    "par_content": "Gud lever i enhver af hans åndsfødte sønner. Paradissønnerne har altid adgang til tilstedeværelsen af Gud, ” Faderens højre hånd,” og alle hans skabte væsen personligheder har adgang til ”Faderens favn{0}.” Dette refererer til personlighedens kredsløb, når som helst, hvor som helst og hvorledes det end er kontaktet, eller på anden måde nødvendiggør personlig, selvbevidst kontakt og forbindelse med den Universelle Fader, enten i den centrale bolig eller ved et andet angivet sted, som på en af Paradisets syv hellige sfærer."
+                    "par_content": "Gud lever i enhver af hans åndsfødte sønner. Paradissønnerne har altid adgang til tilstedeværelsen af Gud, ” Faderens højre hånd,” og alle hans skabte væsen personligheder har adgang til ”Faderens favn{0}{1}.” Dette refererer til personlighedens kredsløb, når som helst, hvor som helst og hvorledes det end er kontaktet, eller på anden måde nødvendiggør personlig, selvbevidst kontakt og forbindelse med den Universelle Fader, enten i den centrale bolig eller ved et andet angivet sted, som på en af Paradisets syv hellige sfærer."
                 },
                 {
                     "par_ref": "5:2.3",
@@ -211,7 +211,7 @@
                 {
                     "par_ref": "5:4.8",
                     "par_pageref": "67.6",
-                    "par_content": "Den græske religion havde et motto ”Kend dig selv”; Hebræerne havde centreret deres lære om ”Kend din Gud”; De kristne prædiker et evangeliet rettet mod ”kendskab til Herren Jesus Kristus”; Jesus forkyndte de gode nyheder om ” at kende Gud, og dig selv som en søn af Gud{5}.” Disse forskellige begreber om religionens formål bestemmer individets holdninger i forskellige livs situationer og antyder tilbedelsens dybde og arten af hans personlige bønnevaner. Enhver religions åndelige status kan blive bestemt af arten af dens bønner."
+                    "par_content": "Den græske religion havde et motto ”Kend dig selv”; Hebræerne havde centreret deres lære om ”Kend din Gud”; De kristne prædiker et evangeliet rettet mod ”kendskab til Herren Jesus Kristus”; Jesus forkyndte de gode nyheder om ” at kende Gud, og dig selv som en søn af Gud{5}{6}{7}.” Disse forskellige begreber om religionens formål bestemmer individets holdninger i forskellige livs situationer og antyder tilbedelsens dybde og arten af hans personlige bønnevaner. Enhver religions åndelige status kan blive bestemt af arten af dens bønner."
                 },
                 {
                     "par_ref": "5:4.9",
@@ -406,15 +406,15 @@
         }
     ],
     "footnotes": [
-        "*Faderens højre hånd*: Sal 110:1; Mt 22:43-44; Mc 12:36; Mc 16:19; Lc 20:42; Hch 7:55-56; Ro 8:34; Col 3:1; Heb 1:3; Heb 8:1; Heb 10:12; Heb 12:2; 1 P 3:22.",
-        "*Faderens skød*: Jn 1:18.",
-        "*Guds ånd i dig*: Job 32:8,18; Is 63:10-11; Ez 37:14; Mt 10:20; Lc 17:21; Jn 17:21-23; Ro 8:9-11; 1 Co 3:16-17; 1 Co 6:19; 2 Co 6:16; Gl 2:20; 1 Jn 3:24; 1 Jn 4:12-15; Ap 21:3.",
-        "*Kend dem på deres frugter*: Mt 7:16-20; Lc 6:43-44; Gl 5:22-23; Ef 5:9.",
-        "*varig fred*: Sal 119:165; Is 26:3; Nm 6:26; Lc 1:79; Lc 2:14; Jn 14:27; Jn 16:33; Ro 14:17; 1 Co 14:33; Flp 4:7. *dyb forvisning*: Is 32:17; Ef 3:12; Col 2:2; 1 Ts 1:5; 2 Ti 1:12; Heb 6:11; Heb 10:22; 1 Jn 3:19.",
-        "*Kend din Gud*: 1 Cr 28:9; Jer 9:24; Jer 31:34; Os 6:6.",
-        "*Kend Herren Jesus Kristus*: Flp 3:8; 2 P 1:8; 2 P 3:18.",
-        "*Kend Gud og dig selv som en søn*: Jn 14:7,17,20; Flp 3:9-10; Heb 8:11; 1 Jn 2:3-5. *Vi er Guds børn*: 1 Cr 22:10; Sal 2:7; Is 56:5; Mt 5:9,16,45; Lc 20:36; Jn 1:12-13; Jn 11:52; Hch 17:28-29; Ro 8:14-17,19,21; Ro 9:26; 2 Co 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Flp 2:15; Heb 12:5-8; 1 Jn 3:1-2,10; 1 Jn 5:2; Ap 21:7; 2 Sam 7:14.",
-        "*Åndens tyngde*: Jer 31:3; Jn 6:44; Jn 12:32."
+        "*Faderens højre hånd*: Sl 110:1; Matt 22:43-44; Mark 12:36; Mark 16:19; Luk 20:42; ApG 7:55-56; Rom 8:34; Kol 3:1; Hebr 1:3; Hebr 8:1; Hebr 10:12; Hebr 12:2; 1 Pet 3:22.",
+        "*Faderens skød*: Joh 1:18.",
+        "*Guds ånd i dig*: Job 32:8,18; Es 63:10-11; Ez 37:14; Matt 10:20; Luk 17:21; Joh 17:21-23; Rom 8:9-11; 1 Kor 3:16-17; 1 Kor 6:19; 2 Kor 6:16; Gal 2:20; 1 Joh 3:24; 1 Joh 4:12-15; Åb 21:3.",
+        "*Kend dem på deres frugter*: Matt 7:16-20; Luk 6:43-44; Gal 5:22-23; Ef 5:9.",
+        "*varig fred*: Sl 119:165; Es 26:3; 4 Mos 6:26; Luk 1:79; Luk 2:14; Joh 14:27; Joh 16:33; Rom 14:17; 1 Kor 14:33; Fil 4:7. *dyb forvisning*: Es 32:17; Ef 3:12; Kol 2:2; 1 Thess 1:5; 2 Tim 1:12; Hebr 6:11; Hebr 10:22; 1 Joh 3:19.",
+        "*Kend din Gud*: 1 Krøn 28:9; Jer 9:24; Jer 31:34; Hos 6:6.",
+        "*Kend Herren Jesus Kristus*: Fil 3:8; 2 Pet 1:8; 2 Pet 3:18.",
+        "*Kend Gud og dig selv som en søn*: Joh 14:7,17,20; Fil 3:9-10; Hebr 8:11; 1 Joh 2:3-5. *Vi er Guds børn*: 1 Krøn 22:10; Sl 2:7; Es 56:5; Matt 5:9,16,45; Luk 20:36; Joh 1:12-13; Joh 11:52; ApG 17:28-29; Rom 8:14-17,19,21; Rom 9:26; 2 Kor 6:18; Gal 3:26; Gal 4:5-7; Ef 1:5; Fil 2:15; Hebr 12:5-8; 1 Joh 3:1-2,10; 1 Joh 5:2; Åb 21:7; 2 Sam 7:14.",
+        "*Åndelig tyngdekraft*: Jer 31:3; Joh 6:44; Joh 12:32."
     ],
     "paper_title": "Guds Forhold Til Individet"
 }

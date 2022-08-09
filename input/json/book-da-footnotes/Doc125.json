@@ -70,7 +70,7 @@
                 {
                     "par_ref": "125:1.5",
                     "par_pageref": "1379.1",
-                    "par_content": "Josef så, hvordan hans søn havde følt afsky ved synet af templets ritualer og tog ham klogt bort for at se \"Skønhedens port\", den kunstnerisk udformet port af korintisk bronze{1}. Men Jesus havde fået nok af sit første besøg i templet. De vendte tilbage til den øverste forgård for at møde Maria og gik omkring sammen i en time i den friske luft, væk fra folkemængderne. De inspicerede Hasmonéerpaladset, Herodes herregård, og de romerske vagters tårn. I løbet af denne tur forklarede Josef til Jesus, at det kun var Jerusalems indbyggere der havde tilladelse til at være vidne til de daglige ofringer i templet, og at dem, der boede i Galilæa kom kun tre gange om året for at deltage i tempeltjeneste, nemlig påsken, pinsen (syv uger efter påske) og løvhyttefesten i oktober. Disse fester var oprettet af Moses. Så diskuterede de derefter de to senere etablerede fester, indvielsen af templet og Purim. Bagefter gik de til deres logi og gjorde sig klar til at fejre påske."
+                    "par_content": "Josef så, hvordan hans søn havde følt afsky ved synet af templets ritualer og tog ham klogt bort for at se \"Skønhedens port\", den kunstnerisk udformet port af korintisk bronze{1}. Men Jesus havde fået nok af sit første besøg i templet. De vendte tilbage til den øverste forgård for at møde Maria og gik omkring sammen i en time i den friske luft, væk fra folkemængderne. De inspicerede Hasmonéerpaladset, Herodes herregård, og de romerske vagters tårn. I løbet af denne tur forklarede Josef til Jesus, at det kun var Jerusalems indbyggere der havde tilladelse til at være vidne til de daglige ofringer i templet, og at dem, der boede i Galilæa kom kun tre gange om året for at deltage i tempeltjeneste, nemlig påsken, pinsen (syv uger efter påske) og løvhyttefesten i oktober. Disse fester var oprettet af Moses{2}{3}. Så diskuterede de derefter de to senere etablerede fester, indvielsen af templet og Purim. Bagefter gik de til deres logi og gjorde sig klar til at fejre påske."
                 }
             ]
         },
@@ -316,20 +316,20 @@
         }
     ],
     "footnotes": [
-        "*Hans Faders hus*: Is 56:7; Mt 21:12-13; Mc 11:16-17; Lc 19:45-46; Jn 2:14-16; Jn 14:2-13.",
-        "*Porten smuk*: Hch 3:2,10.",
-        "*Fest for indvielse*: 1 Mac 4:52-59.",
+        "*Hans Faders hus*: Es 56:7; Matt 21:12-13; Mark 11:16-17; Luk 19:45-46; Joh 2:14-16; Joh 14:2-13.",
+        "*Porten smuk*: ApG 3:2,10.",
+        "*Fest for indvielse*: 1 Makk 4:52-59.",
         "*Purim-festen*: Est 9:17-32.",
-        "*Forældre efterladt uden Jesus*: Lc 2:43.",
-        "*Forældre opdager, at Jesus mangler*: Lc 2:44.",
-        "*Forældre vender tilbage og leder efter ham*: Lc 2:45.",
-        "*Tredje dag i templet*: Lc 2:46.",
-        "*Tankevækkende spørgsmål*: Lc 2:47.",
-        "*Sagacious forståelse*: Lc 2:47.",
-        "*At finde Jesus*: Lc 2:46.",
-        "*Marias skældud*: Lc 2:48.",
-        "*Jesus' svar*: Lc 2:49.",
-        "*Tilbage til Galilæa*: Lc 2:50-51."
+        "*Forældre efterladt uden Jesus*: Luk 2:43.",
+        "*Forældre opdager, at Jesus mangler*: Luk 2:44.",
+        "*Forældre vender tilbage og leder efter ham*: Luk 2:45.",
+        "*Tredje dag i templet*: Luk 2:46.",
+        "*Tankevækkende spørgsmål*: Luk 2:47.",
+        "*Sagacious forståelse*: Luk 2:47.",
+        "*At finde Jesus*: Luk 2:46.",
+        "*Marias skældud*: Luk 2:48.",
+        "*Jesus' svar*: Luk 2:49.",
+        "*Tilbage til Galilæa*: Luk 2:50-51."
     ],
     "paper_title": "Jesus I Jerusalem"
 }

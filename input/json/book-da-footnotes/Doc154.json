@@ -13,7 +13,7 @@
                 {
                     "par_ref": "154:0.2",
                     "par_pageref": "1717.2",
-                    "par_content": "Et medlem af Herodes officielle familie, Kusas, hvis kone tilhørte kvinderne tjenende korps, havde meddelt ham, at Jesus ikke havde til hensigt at blande sig i det verdslige styres anliggender, at han kun var interesseret i at etablere et åndeligt broderskab af sine troende, et broderskab som han kaldte himmelriget. Herodes havde tillid til Kusas rapporter i det omfang, at han nægtede at gribe ind over for Jesu aktiviteter. Herodes var også på dette tidspunkt meget påvirket i hans holdning til Jesus af hans overtroiske frygt for Johannes Døberen{0}. Herodes var en af disse frafaldne jøder, der ikke troede på noget, men frygtede alting. Han havde en dårlig samvittighed, fordi han været nødt til at dræbe Johannes, og han ønskede ikke at blive involveret i disse intriger mod Jesus. Han vidste af mange tilfælde af sygdom, der tilsyneladende var blevet helbredt af Jesus, og han betragtede ham som enten en profet eller en relativt harmløs religiøs fanatiker."
+                    "par_content": "Et medlem af Herodes officielle familie, Kusas, hvis kone tilhørte kvinderne tjenende korps, havde meddelt ham, at Jesus ikke havde til hensigt at blande sig i det verdslige styres anliggender, at han kun var interesseret i at etablere et åndeligt broderskab af sine troende, et broderskab som han kaldte himmelriget. Herodes havde tillid til Kusas rapporter i det omfang, at han nægtede at gribe ind over for Jesu aktiviteter. Herodes var også på dette tidspunkt meget påvirket i hans holdning til Jesus af hans overtroiske frygt for Johannes Døberen{0}. Herodes var en af disse frafaldne jøder, der ikke troede på noget, men frygtede alting{1}. Han havde en dårlig samvittighed, fordi han været nødt til at dræbe Johannes, og han ønskede ikke at blive involveret i disse intriger mod Jesus. Han vidste af mange tilfælde af sygdom, der tilsyneladende var blevet helbredt af Jesus, og han betragtede ham som enten en profet eller en relativt harmløs religiøs fanatiker."
                 },
                 {
                     "par_ref": "154:0.3",
@@ -258,14 +258,14 @@
         }
     ],
     "footnotes": [
-        "*Herodes' holdning til Jesus*: Mc 6:14; Lc 9:7.",
-        "*Herodes' frygt*: Mt 14:1-2; Mc 6:14-20; Lc 9:7-9.",
-        "*Jesus' familie ankommer*: Mt 12:46; Mc 3:31; Lc 8:19.",
-        "*Jesus fortalte familie venter*: Mt 12:47; Mc 3:32; Lc 8:20.",
-        "*Hvem er min familie?*: Mt 12:48-50; Mc 3:33-35; Lc 8:21.",
-        "*Velsignet er det skød, der gav dig*: Lc 11:27-28.",
-        "*Fjender i eget hus*: Mt 10:35-36; Mc 13:12; Lc 12:52-53.",
-        "*Intet sted at lægge hovedet*: Mt 8:20; Lc 9:58."
+        "*Herodes' holdning til Jesus*: Mark 6:14; Luk 9:7.",
+        "*Herodes' frygt*: Matt 14:1-2; Mark 6:14-20; Luk 9:7-9.",
+        "*Jesus' familie ankommer*: Matt 12:46; Mark 3:31; Luk 8:19.",
+        "*Jesus fortalte familie venter*: Matt 12:47; Mark 3:32; Luk 8:20.",
+        "*Hvem er min familie?*: Matt 12:48-50; Mark 3:33-35; Luk 8:21.",
+        "*Velsignet er det skød, der gav dig*: Luk 11:27-28.",
+        "*Fjender i egen husstand*: Matt 10:35-36; Mark 13:12; Luk 12:52-53.",
+        "*Intet sted at lægge hovedet*: Matt 8:20; Luk 9:58."
     ],
     "paper_title": "De Sidste Dage I Kafarnaum"
 }

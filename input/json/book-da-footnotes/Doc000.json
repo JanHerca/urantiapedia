@@ -237,7 +237,7 @@
                 {
                     "par_ref": "0:2.12",
                     "par_pageref": "4.6",
-                    "par_content": "1. *Gud Faderen* — Skaberen, Overvågeren, og Opretholderen{0}. Den Universelle Fader, Guddommens Første Person."
+                    "par_content": "1. *Gud Faderen* — Skaberen, Overvågeren, og Opretholderen{0}{1}{2}. Den Universelle Fader, Guddommens Første Person."
                 },
                 {
                     "par_ref": "0:2.13",
@@ -953,16 +953,16 @@
         }
     ],
     "footnotes": [
-        "*Gud som skaber af alt*: Gn 1:1-27; Gn 2:4-23; Ex 20:11; Neh 9:6; Sal 146:6; Is 42:5; Jer 51:15-16; Mc 13:19; Jn 1:1-3; Hch 4:24; Hch 14:15; Ef 3:9; Col 1:16; 1 P 4:19; Ap 4:11; Ap 10:6. *Gud som skaber af himlen, jorden*: Ex 31:17; 2 Re 19:15; 2 Cr 2:12; Sal 115:15-16; Sal 121:2; Sal 124:8; Sal 134:3; Is 37:16; Is 45:12-18; Jer 10:11-12; Jer 32:17; Ap 14:7. *Gud som skaber af mand, kvinde*: Gn 5:1-2. *Gud som skaber af mennesket*: Ec lo 33:10; Mal 2:10. *Gud som skaber af jorden*: Is 40:26,28; Am 4:13. *Gud som skaber af visdom*: Ec lo 1:1-4; Bar 3:32-36. *Gud som skaber af verdener*: Heb 1:2.",
-        "*Gud som kontrollant*: Job 38:1-39:30; Sal 104:1-32; Sal 148:6-12; Hch 14:15.",
-        "*Gud som opretholder*: Sal 37:17,24; Sal 63:8; Sal 145:14; Is 41:10,13; Heb 1:3.",
-        "*Gud den øverste*: Sal 136:2-3; Dn 2:47; Dn 10:17; Jos 22:22; 1 P 2:13.",
-        "*den evige Gud*: Dt 33:27; Ro 1:20; 1 Ti 1:17.",
-        "*JEG ER*: Ex 3:13-14.",
-        "*Paradis*: Lc 23:43; 2 Co 12:4; Ap 2:7.",
-        "*Mennesker gør Faderens vilje*: Sal 143:10; Ec lo 15:11-20; Mt 6:10; Mt 7:21; Mt 12:50; Mc 3:35; Lc 8:21; Lc 11:2; Jn 7:16-17; Jn 9:31; Jn 14:21,24; Jn 15:10,14-16.",
-        "*Åndens lys*: Esd 7:55; Is 9:2; Mt 4:16; Mt 5:14-16; Lc 1:79; Lc 2:32; Jn 1:4-9; Jn 3:19-21; Jn 8:12; Jn 9:5; Jn 12:46; 1 Jn 1:5; 1 Jn 2:8.",
-        "*Paradisets treenighed*: Mt 28:19; Hch 2:32-33; 2 Co 13:14; 1 Jn 5:7. *Paradisets treenighed (Paulus' tidlige opfattelse)*: 1 Co 12:4-6."
+        "*Gud som skaber af alt*: 1 Mos 1:1-27; 1 Mos 2:4-23; 2 Mos 20:11; Neh 9:6; Sl 146:6; Es 42:5; Jer 51:15-16; Mark 13:19; Joh 1:1-3; ApG 4:24; ApG 14:15; Ef 3:9; Kol 1:16; 1 Pet 4:19; Åb 4:11; Åb 10:6. *Gud som skaber af himlen, jorden*: 2 Mos 31:17; 2 Kong 19:15; 2 Krøn 2:12; Sl 115:15-16; Sl 121:2; Sl 124:8; Sl 134:3; Es 37:16; Es 45:12-18; Jer 10:11-12; Jer 32:17; Åb 14:7. *Gud som skaber af mand, kvinde*: 1 Mos 5:1-2. *Gud som skaber af mennesket*: Sir 33:10; Mal 2:10. *Gud som skaber af jorden*: Es 40:26,28; Am 4:13. *Gud som skaber af visdom*: Sir 1:1-4; Bar 3:32-36. *Gud som skaber af verdener*: Hebr 1:2.",
+        "*Gud som kontrollant*: Job 38:1-39:30; Sl 104:1-32; Sl 148:6-12; ApG 14:15.",
+        "*Gud som opretholder*: Sl 37:17,24; Sl 63:8; Sl 145:14; Es 41:10,13; Hebr 1:3.",
+        "*Gud den øverste*: Sl 136:2-3; Dan 2:47; Dan 10:17; Jos 22:22; 1 Pet 2:13.",
+        "*den evige Gud*: 5 Mos 33:27; Rom 1:20; 1 Tim 1:17.",
+        "*I AM*: 2 Mos 3:13-14.",
+        "*Paradis*: Luk 23:43; 2 Kor 12:4; Åb 2:7.",
+        "*Mennesker gør Faderens vilje*: Sl 143:10; Sir 15:11-20; Matt 6:10; Matt 7:21; Matt 12:50; Mark 3:35; Luk 8:21; Luk 11:2; Joh 7:16-17; Joh 9:31; Joh 14:21,24; Joh 15:10,14-16.",
+        "*Åndens lys*: Ez 7:55; Es 9:2; Matt 4:16; Matt 5:14-16; Luk 1:79; Luk 2:32; Joh 1:4-9; Joh 3:19-21; Joh 8:12; Joh 9:5; Joh 12:46; 1 Joh 1:5; 1 Joh 2:8.",
+        "*Paradise Trinity*: Matt 28:19; ApG 2:32-33; 2 Kor 13:14; 1 Joh 5:7. *Paradisets treenighed (Paulus' tidlige opfattelse)*: 1 Kor 12:4-6."
     ],
     "paper_title": "Forord"
 }

@@ -13,7 +13,7 @@
                 {
                     "par_ref": "10:0.2",
                     "par_pageref": "108.2",
-                    "par_content": "Paradistreenigheden muliggør effektivt det fulde udtryk og perfekte åbenbaring af Guddommens evige natur{0}. Treenighedens Stationære Sønner yder ligeledes en fuldstændig og perfekt åbenbaring af guddommelig retfærdighed. Treenigheden er Guddoms enhed, og denne enhed hviler for evigt på de absolutte grundlag af guddommelig enhed af de tre oprindelige, lige og sameksisterende personligheder, Gud Faderen, Gud Sønnen, og Gud Ånden."
+                    "par_content": "Paradistreenigheden muliggør effektivt det fulde udtryk og perfekte åbenbaring af Guddommens evige natur{0}. Treenighedens Stationære Sønner yder ligeledes en fuldstændig og perfekt åbenbaring af guddommelig retfærdighed. Treenigheden er Guddoms enhed, og denne enhed hviler for evigt på de absolutte grundlag af guddommelig enhed af de tre oprindelige, lige og sameksisterende personligheder, Gud Faderen, Gud Sønnen, og Gud Ånden{1}."
                 },
                 {
                     "par_ref": "10:0.3",
@@ -124,7 +124,7 @@
                 {
                     "par_ref": "10:3.3",
                     "par_pageref": "111.1",
-                    "par_content": "De guddommelige Sønner er faktisk ”Guds ord,” men Åndens børn er i sandhed ”Guds Handling{4}.” Gud taler gennem sin Søn og, med Sønnen, handler gennem den Uendelige Ånd, mens i alle af universets aktiviteter er Sønnen og Ånden udsøgt broderlige, der arbejder som to lige brødre med beundring og kærlighed for en æret og guddommelig respekteret fælles Fader."
+                    "par_content": "De guddommelige Sønner er faktisk ”Guds ord,” men Åndens børn er i sandhed ”Guds Handling{4}{5}.” Gud taler gennem sin Søn og, med Sønnen, handler gennem den Uendelige Ånd, mens i alle af universets aktiviteter er Sønnen og Ånden udsøgt broderlige, der arbejder som to lige brødre med beundring og kærlighed for en æret og guddommelig respekteret fælles Fader."
                 },
                 {
                     "par_ref": "10:3.4",
@@ -402,7 +402,7 @@
                 {
                     "par_ref": "10:7.1",
                     "par_pageref": "115.3",
-                    "par_content": "Guddommens Første, Anden, og Tredje person er indbyrdes lige og de er en{6}. ”Herren vores Gud er én Gud.” Der er perfektion af formål og enhed i udførelse i de evige Guddommes guddommelige Treenighed. Faderen, Sønnen, og Samforeneren er virkelig og guddommelig helt sikkert én. Om en sandhed er der skrevet: ”Jeg er den første, og Jeg er den sidste, og ved siden af mig er der ingen Gud.”"
+                    "par_content": "Guddommens Første, Anden, og Tredje person er indbyrdes lige og de er en{6}. ”Herren vores Gud er én Gud{7}.” Der er perfektion af formål og enhed i udførelse i de evige Guddommes guddommelige Treenighed. Faderen, Sønnen, og Samforeneren er virkelig og guddommelig helt sikkert én. Om en sandhed er der skrevet: ”Jeg er den første, og Jeg er den sidste, og ved siden af mig er der ingen Gud{8}{9}.”"
                 },
                 {
                     "par_ref": "10:7.2",
@@ -490,16 +490,16 @@
         }
     ],
     "footnotes": [
-        "*Paradise Trinity*: Mt 28:19; Hch 2:32-33; 2 Co 13:14; 1 Jn 5:7.",
-        "*Paradistreenigheden (Paulus' tidlige opfattelse)*: 1 Co 12:4-6.",
-        "*Paradissønner*: Mt 11:27; Lc 10:22; Jn 1:14,18; Jn 6:45-46; Jn 8:26; Jn 12:49-50; Jn 14:7-11,20; Jn 17:6,25-26.",
-        "*Gjort mennesket i Guds billede*: Gn 1:26.",
-        "*Guds »ord«*: Jn 1:1-4,14.",
-        "*Guds handling*: Gn 1:1ff.",
-        "*Guddommens enhed*: 1 Jn 5:7.",
-        "*Herren vor Gud er én Gud*: 2 Re 19:19; 1 Cr 17:20; Neh 9:6; Sal 86:10; Ec lo 36:5; Is 37:16; Is 44:6,8; Is 45:5-6,21; Dt 4:35,39; Dt 6:4; Mc 12:29,32; Jn 17:3; Ro 3:30; 1 Co 8:4-6; Gl 3:20; Ef 4:6; 1 Ti 2:5; Stg 2:19; 1 Sam 2:2; 2 Sam 7:22.",
-        "*Første, sidste og eneste Gud*: Is 41:4; Is 44:6; Is 48:12; Ap 1:17; Ap 2:8.",
-        "*Alfa og Omega*: Ap 1:8,11; Ap 21:6; Ap 22:13."
+        "*Paradise Trinity*: Matt 28:19; ApG 2:32-33; 2 Kor 13:14; 1 Joh 5:7.",
+        "*Paradisets treenighed (Paulus' tidlige opfattelse)*: 1 Kor 12:4-6.",
+        "*Paradissønner*: Matt 11:27; Luk 10:22; Joh 1:14,18; Joh 6:45-46; Joh 8:26; Joh 12:49-50; Joh 14:7-11,20; Joh 17:6,25-26.",
+        "*Gjort mennesket i Guds billede*: 1 Mos 1:26.",
+        "*Guds »ord«*: Joh 1:1-4,14.",
+        "*Guds handling*: 1 Mos 1:1ff.",
+        "*Guddommens enhed*: 1 Joh 5:7.",
+        "*Herren vor Gud er én Gud*: 2 Kong 19:19; 1 Krøn 17:20; Neh 9:6; Sl 86:10; Sir 36:5; Es 37:16; Es 44:6,8; Es 45:5-6,21; 5 Mos 4:35,39; 5 Mos 6:4; Mark 12:29,32; Joh 17:3; Rom 3:30; 1 Kor 8:4-6; Gal 3:20; Ef 4:6; 1 Tim 2:5; Jak 2:19; 1 Sam 2:2; 2 Sam 7:22.",
+        "*Første, sidste og eneste Gud*: Es 41:4; Es 44:6; Es 48:12; Åb 1:17; Åb 2:8.",
+        "*Alfa og Omega*: Åb 1:8,11; Åb 21:6; Åb 22:13."
     ],
     "paper_title": "Paradisets Treenighed"
 }
