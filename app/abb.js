@@ -1,9 +1,11 @@
 //http://www.viceregency.com/Abbrev.htm
-//https://www.biblija.net/help.es/abbrevs.es.php
-//http://www.viceregency.com/Abbrev.htm
-//For bulgarian: https://abvbiblia.com/sykrashtenia-na-bibleiskite-knigi/
-//For french: http://tug.ctan.org/tex-archive/macros/latex/contrib/bibleref-french/Lacroux-Bible.pdf
-//For russian: http://www.pravoslavieto.com/bible/naimenovanija.htm
+//https://www.jjs-online.net/pdfs/SBL-Abbrev.pdf
+//English (biblical & extrabiblical): https://www.biblija.net/help.es/abbrevs.es.php
+//Bulgarian: https://abvbiblia.com/sykrashtenia-na-bibleiskite-knigi/
+//French: http://tug.ctan.org/tex-archive/macros/latex/contrib/bibleref-french/Lacroux-Bible.pdf
+//German: https://www.die-bibel.de/bibeln/wissen-zur-bibel/inhalt-und-aufbau-der-bibel/abkuerzungen-der-bibel/
+//German: https://www.bibelwissenschaft.de/wibilex/abkuerzungen/
+//Russian: http://www.pravoslavieto.com/bible/naimenovanija.htm
 
 const BibleAbbreviations = {
 	bg: {
@@ -84,6 +86,85 @@ const BibleAbbreviations = {
 		'Jdt': ['Judith', '/bg/Bible/Judith', 'APO'],
 		'1 Enoch': ['Първа книга Енох', '/bg/Bible/Enoch', 'APO'],
 		'As. Mos.': ['Assumption of Moses', '/bg/Bible/Assumption_of_Moses', 'APO']
+	},
+	de: {
+		'1 Mose': ['Genesis', '/de/Bible/Genesis', 'OT'],
+		'2 Mose': ['Exodus', '/de/Bible/Exodus', 'OT'],
+		'3 Mose': ['Levitikus', '/de/Bible/Leviticus', 'OT'],
+		'4 Mose': ['Numeri', '/de/Bible/Numbers', 'OT'],
+		'5 Mose': ['Deuteronomium', '/de/Bible/Deuteronomy', 'OT'],
+		'Jos': ['Josua', '/de/Bible/Joshua', 'OT'],
+		'Ri': ['Richter', '/de/Bible/Judges', 'OT'],
+		'Rut': ['Rut', '/de/Bible/Ruth', 'OT'],
+		'1 Sam': ['Das erste Buch Samuel', '/de/Bible/1_Samuel', 'OT'],
+		'2 Sam': ['Das zweite Buch Samuel', '/de/Bible/2_Smauel', 'OT'],
+		'1 Kön': ['Das erste Buch der Könige', '/de/Bible/1_Kings', 'OT'],
+		'2 Kön': ['Das zweite Buch der Könige', '/de/Bible/2_Kings', 'OT'],
+		'1 Chr': ['Das erste Buch der Chronik', '/de/Bible/1_Chronicles', 'OT'],
+		'2 Chr': ['Das zweite Buch der Chronik', '/de/Bible/2_Chronicles', 'OT'],
+		'Esra': ['Esra', '/de/Bible/Ezra', 'OT'],
+		'Neh': ['Nehemia', '/de/Bible/Nehemiah', 'OT'],
+		'Est': ['Ester', '/de/Bible/Esther', 'OT'],
+		'1 Makk': ['Das erste Buch der Makkabäer', '/de/Bible/1_Maccabees', 'OT'],
+		'2 Makk': ['Das zweite Buch der Makkabäer', '/de/Bible/2_Maccabees', 'OT'],
+		'Ijob': ['Hiob', '/de/Bible/Job', 'OT'],
+		'Ps': ['Der Psalter', '/de/Bible/Psalms', 'OT'],
+		'Spr': ['Die Sprüche Salomos', '/de/Bible/Proverbs', 'OT'],
+		'Pred': ['Der Prediger Salomo', '/de/Bible/Ecclesiastes', 'OT'],
+		'Hld': ['Das Hohelied Salomos', '/de/Bible/Song_of_Solomon', 'OT'],
+		'Sir': ['Das Buch Jesus Sirach', '/de/Bible/Sirach', 'OT'],
+		'Weish': ['Die Weisheit Salomos', '/de/Bible/Wisdom_of_Solomon', 'OT'],
+		'Jes': ['Jesaja', '/de/Bible/Isaiah', 'OT'],
+		'Jer': ['Jeremia', '/de/Bible/Jeremiah', 'OT'],
+		'Klgl': ['Die Klagelieder Jeremias', '/de/Bible/Lamentations', 'OT'],
+		'Bar': ['Baruch', '/de/Bible/Baruch', 'OT'],
+		'Hes': ['Hesekiel', '/de/Bible/Ezekiel', 'OT'],
+		'Dan': ['Daniel', '/de/Bible/Daniel', 'OT'],
+		'Hos': ['Hosea', '/de/Bible/Hosea', 'OT'],
+		'Joel': ['Joel', '/de/Bible/Joel', 'OT'],
+		'Am': ['Amos', '/de/Bible/Amos', 'OT'],
+		'Obd': ['Obadja', '/de/Bible/Obadiah', 'OT'],
+		'Jona': ['Jona', '/de/Bible/Jonah', 'OT'],
+		'Mi': ['Micha', '/de/Bible/Micah', 'OT'],
+		'Nah': ['Nahum', '/de/Bible/Nahum', 'OT'],
+		'Hab': ['Habakuk', '/de/Bible/Habakkuk', 'OT'],
+		'Zef': ['Zefanja', '/de/Bible/Zephaniah', 'OT'],
+		'Hag': ['Haggai', '/de/Bible/Haggai', 'OT'],
+		'Sach': ['Sacharja', '/de/Bible/Zechariah', 'OT'],
+		'Mal': ['Maleachi', '/de/Bible/Malachi', 'OT'],
+		'Mt': ['Das Evangelium nach Matthäus', '/de/Bible/Matthew', 'NT'],
+		'Mk': ['Das Evangelium nach Markus', '/de/Bible/Mark', 'NT'],
+		'Lk': ['Das Evangelium nach Lukas', '/de/Bible/Luke', 'NT'],
+		'Joh': ['Das Evangelium nach Johannes', '/de/Bible/John', 'NT'],
+		'Apg': ['Die Apostelgeschichte des Lukas', '/de/Bible/Acts_of_the_Apostles', 'NT'],
+		'Röm': ['Der Brief des Paulus an die Römer', '/de/Bible/Romans', 'NT'],
+		'1 Kor': ['Der erste Brief des Paulus an die Korinther', '/de/Bible/1_Corinthians', 'NT'],
+		'2 Kor': ['Der zweite Brief des Paulus an die Korinther', '/de/Bible/2_Corinthians', 'NT'],
+		'Gal': ['Der Brief des Paulus an die Galater', '/de/Bible/Galatians', 'NT'],
+		'Eph': ['Der Brief des Paulus an die Epheser', '/de/Bible/Ephesians', 'NT'],
+		'Phil': ['Der Brief des Paulus an die Philipper', '/de/Bible/Philippians', 'NT'],
+		'Kol': ['Der Brief des Paulus an die Kolosser', '/de/Bible/Colossians', 'NT'],
+		'1 Thess': ['Der erste Brief des Paulus an die Thessalonicher', '/de/Bible/1_Thessalonians', 'NT'],
+		'2 Thess': ['Der zweite Brief des Paulus an die Thessalonicher', '/de/Bible/2_Thessalonians', 'NT'],
+		'1 Tim': ['Der erste Brief des Paulus an Timotheus', '/de/Bible/1_Timothy', 'NT'],
+		'2 Tim': ['Der zweite Brief des Paulus an Timotheus', '/de/Bible/2_Timothy', 'NT'],
+		'Tit': ['Der Brief des Paulus an Titus', '/de/Bible/Titus', 'NT'],
+		'Phlm': ['Der Brief des Paulus an Philemon', '/de/Bible/Philemon', 'NT'],
+		'Hebr': ['Der Brief an die Hebräer', '/de/Bible/Hebrews', 'NT'],
+		'Jak': ['Der Brief des Jakobus', '/de/Bible/James', 'NT'],
+		'1 Petr': ['Der erste Brief des Petrus', '/de/Bible/1_Peter', 'NT'],
+		'2 Petr': ['Der zweite Brief des Petrus', '/de/Bible/2_Peter', 'NT'],
+		'1 Joh': ['Der erste Brief des Johannes', '/de/Bible/1_John', 'NT'],
+		'2 Joh': ['Der zweite Brief des Johannes', '/de/Bible/2_John', 'NT'],
+		'3 Joh': ['Der dritte Brief des Johannes', '/de/Bible/3_John', 'NT'],
+		'Jud': ['Der Brief des Judas', '/de/Bible/Jude', 'NT'],
+		'Offb': ['Die Offenbarung des Johannes', '/de/Bible/Revelation', 'NT'],
+		'Bel': ['Bel und Drache', '/de/Bible/Bel_and_the_Dragon', 'APO'],
+		'GebMan': ['Das Gebet Manesses', '/de/Bible/Prayer_of_Manesseh', 'APO'],
+		'Tob': ['Das Buch Tobias', '/de/Bible/Tobit', 'APO'],
+		'Jdt': ['Judit', '/de/Bible/Judith', 'APO'],
+		'1 Hen': ['Erstes Henochbuch', '/de/Bible/Enoch', 'APO'],
+		'AssMos': ['Himmelfahrt des Mose', '/de/Bible/Assumption_of_Moses', 'APO']
 	},
 	en: {
 		'Gn': ['Genesis', '/Bible/Genesis', 'OT'],
