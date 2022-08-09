@@ -67,7 +67,7 @@
                 {
                     "par_ref": "110:2.2",
                     "par_pageref": "1204.6",
-                    "par_content": "Sie sind in ihren Arbeitsmethoden ausdauernd, einfallsreich und vollkommen, aber sie tun dem mit Willen begabten Selbst ihres Gastwirts nie Gewalt an. Kein menschliches Wesen wird je von einem göttlichen Mentor gegen seinen Willen vergeistigt werden; das Fortleben ist ein Geschenk der Götter, das von den Geschöpfen der Zeit gewünscht werden muss{3}. Was immer auch dem Justierer für euch zu tun gelungen ist, so werden die Protokolle zeigen, dass die Verwandlung letztlich mit eurer kooperativen Einwilligung vollbracht worden ist; dass ihr ein williger Partner des Justierers beim Erreichen jeder Stufe der gewaltigen Umwandlung der aufsteigenden Laufbahn gewesen seid."
+                    "par_content": "Sie sind in ihren Arbeitsmethoden ausdauernd, einfallsreich und vollkommen, aber sie tun dem mit Willen begabten Selbst ihres Gastwirts nie Gewalt an. Kein menschliches Wesen wird je von einem göttlichen Mentor gegen seinen Willen vergeistigt werden; das Fortleben ist ein Geschenk der Götter, das von den Geschöpfen der Zeit gewünscht werden muss{3}. Was immer auch dem Justierer für euch zu tun gelungen ist, so werden die Protokolle zeigen, dass die Verwandlung letztlich mit eurer kooperativen Einwilligung vollbracht worden ist; dass ihr ein williger Partner des Justierers beim Erreichen jeder Stufe der gewaltigen Umwandlung der aufsteigenden Laufbahn gewesen seid{4}."
                 },
                 {
                     "par_ref": "110:2.3",
@@ -139,7 +139,7 @@
                 {
                     "par_ref": "110:3.9",
                     "par_pageref": "1206.7",
-                    "par_content": "3. Ihr die Menschen liebt und aufrichtig wünscht, ihnen zu dienen — aus ganzem Herzen kommende Anerkennung der Bruderschaft der Menschen in Verbindung mit einer intelligenten und weisen Zuneigung zu jedem einzelnen eurer sterblichen Gefährten{8}."
+                    "par_content": "3. Ihr die Menschen liebt und aufrichtig wünscht, ihnen zu dienen — aus ganzem Herzen kommende Anerkennung der Bruderschaft der Menschen in Verbindung mit einer intelligenten und weisen Zuneigung zu jedem einzelnen eurer sterblichen Gefährten{8}{9}."
                 },
                 {
                     "par_ref": "110:3.10",
@@ -408,17 +408,17 @@
         }
     ],
     "footnotes": [
-        "*Leiden teilen*: Is 63:9.",
-        "*Leib ist Tabernakel*: Lc 17:21; Ro 8:9-11; 1 Co 3:16-17; 1 Co 6:19; 2 Co 6:16; 2 Ti 1:14; 1 Jn 4:12-15; Ap 21:3.",
-        "*Einheit des Geistes*: 1 Co 6:17.",
-        "*Überleben ist Geschenk*: Ro 5:15-18; Ro 6:23; 2 Co 9:15; Ef 2:8.",
-        "*Zusammenarbeit und Einverständnis*: Jn 3:15-16,36; Hch 8:37; Hch 16:31; Ap 22:17.",
-        "*Die Geister werden eins*: Ro 7:23-25; Ro 8:27; Ro 12:2; Ef 4:23; Flp 2:5; Heb 8:10.",
-        "*Indem wir das Göttliche wählen*: Is 55:1-3; Mt 5:6; Mt 6:33; Lc 12:31.",
-        "*Durch die Liebe zu Gott*: Dt 6:4-5; Dt 10:12; Dt 11:1,13,22; Dt 13:3; Dt 19:9; Dt 30:6,16,20; Mt 22:37; Mc 12:30; Lc 10:27; Ro 8:28; Jos 22:5; Jos 23:11.",
-        "*Durch die Liebe zum Mitmenschen*: Lv 19:18,34; Mt 5:43-44; Mt 19:19b; Mt 22:39; Mc 12:31,33; Lc 10:27; Ro 13:9b; Gl 5:13-14; 1 Ts 4:9; Stg 2:8; 1 P 1:22; 1 Jn 3:11,23; 1 Jn 4:7.11-12,21; 2 Jn 1:5.",
-        "*Indem wir die Mitmenschen lieben, wie Jesus es tat*: Jn 13:34-35; Jn 15:12,17.",
-        "*In Streitwagen aus Feuer*: 2 Re 2:11; 2 Re 6:17."
+        "*Leiden teilen*: Jes 63:9.",
+        "*Leib ist Tabernakel*: Lk 17:21; Röm 8:9-11; 1 Kor 3:16-17; 1 Kor 6:19; 2 Kor 6:16; 2 Tim 1:14; 1 Joh 4:12-15; Offb 21:3.",
+        "*Einheit des Geistes*: 1 Kor 6:17.",
+        "*Überleben ist Geschenk*: Röm 5:15-18; Röm 6:23; 2 Kor 9:15; Eph 2:8.",
+        "*Zusammenarbeit und Einverständnis*: Joh 3:15-16,36; Apg 8:37; Apg 16:31; Offb 22:17.",
+        "*Die Geister werden eins*: Röm 7:23-25; Röm 8:27; Röm 12:2; Eph 4:23; Phil 2:5; Hebr 8:10.",
+        "*Indem wir das Göttliche wählen*: Jes 55:1-3; Mt 5:6; Mt 6:33; Lk 12:31.",
+        "*Durch die Liebe zu Gott*: 5 Mose 6:4-5; 5 Mose 10:12; 5 Mose 11:1,13,22; 5 Mose 13:3; 5 Mose 19:9; 5 Mose 30:6,16,20; Mt 22:37; Mk 12:30; Lk 10:27; Röm 8:28; Jos 22:5; Jos 23:11.",
+        "*Durch die Liebe zum Mitmenschen*: 3 Mose 19:18,34; Mt 5:43-44; Mt 19:19b; Mt 22:39; Mk 12:31,33; Lk 10:27; Röm 13:9b; Gal 5:13-14; 1 Thess 4:9; Jak 2:8; 1 Petr 1:22; 1 Joh 3:11,23; 1 Joh 4:7.11-12,21; 2 Joh 1:5.",
+        "*Indem wir die Mitmenschen lieben, wie Jesus es tat*: Joh 13:34-35; Joh 15:12,17.",
+        "*In Streitwagen aus Feuer*: 2 Kön 2:11; 2 Kön 6:17."
     ],
     "paper_title": "Beziehung der Justierer zu den einzelnen Sterblichen"
 }

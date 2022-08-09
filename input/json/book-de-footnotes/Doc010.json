@@ -13,7 +13,7 @@
                 {
                     "par_ref": "10:0.2",
                     "par_pageref": "108.2",
-                    "par_content": "Die Paradies-Trinität sorgt wirksam für den vollen Ausdruck und die vollkommene Offenbarung der ewigen Natur der Gottheit{0}. Die Stationären Söhne der Trinität bieten desgleichen eine volle und vollkommene Offenbarung der göttlichen Gerechtigkeit. Die Trinität ist Gottheit-Einheit, und diese Einheit ruht ewig auf den absoluten Fundamenten des göttlichen Einsseins der drei ursprünglichen und gleichgeordneten und koexistierenden Persönlichkeiten, Gottes des Vaters, Gottes des Sohnes und Gottes des Geistes."
+                    "par_content": "Die Paradies-Trinität sorgt wirksam für den vollen Ausdruck und die vollkommene Offenbarung der ewigen Natur der Gottheit{0}. Die Stationären Söhne der Trinität bieten desgleichen eine volle und vollkommene Offenbarung der göttlichen Gerechtigkeit. Die Trinität ist Gottheit-Einheit, und diese Einheit ruht ewig auf den absoluten Fundamenten des göttlichen Einsseins der drei ursprünglichen und gleichgeordneten und koexistierenden Persönlichkeiten, Gottes des Vaters, Gottes des Sohnes und Gottes des Geistes{1}."
                 },
                 {
                     "par_ref": "10:0.3",
@@ -124,7 +124,7 @@
                 {
                     "par_ref": "10:3.3",
                     "par_pageref": "111.1",
-                    "par_content": "Die göttlichen Söhne sind tatsächlich das „Wort Gottes“, aber die Kinder des Geistes sind wahrhaftig die „Tat Gottes“{4}. Gott spricht durch den Sohn, und mit dem Sohn handelt er durch den Unendlichen Geist, während der Sohn und der Geist sich in allen Universumsaktivitäten äußerst brüderlich verhalten und wie zwei einander ebenbürtige Brüder mit Bewunderung und Liebe für ihren verehrten und göttlich hoch geachteten gemeinsamen Vater wirken."
+                    "par_content": "Die göttlichen Söhne sind tatsächlich das „Wort Gottes“, aber die Kinder des Geistes sind wahrhaftig die „Tat Gottes“{4}{5}. Gott spricht durch den Sohn, und mit dem Sohn handelt er durch den Unendlichen Geist, während der Sohn und der Geist sich in allen Universumsaktivitäten äußerst brüderlich verhalten und wie zwei einander ebenbürtige Brüder mit Bewunderung und Liebe für ihren verehrten und göttlich hoch geachteten gemeinsamen Vater wirken."
                 },
                 {
                     "par_ref": "10:3.4",
@@ -402,7 +402,7 @@
                 {
                     "par_ref": "10:7.1",
                     "par_pageref": "115.3",
-                    "par_content": "Die Erste, Zweite und Dritte Person der Gottheit sind einander ebenbürtig, und sie sind eins{6}. „Der Herr unser Gott ist ein einziger Gott.“ In der göttlichen Trinität der ewigen Gottheiten besteht Vollkommenheit des Plans und Einheit der Ausführung. Der Vater, der Sohn und der Mit-Vollzieher sind wahrhaftig und göttlich eins. Zu Recht steht geschrieben: „Ich bin der erste, und ich bin der letzte, und neben mir gibt es keinen Gott.“"
+                    "par_content": "Die Erste, Zweite und Dritte Person der Gottheit sind einander ebenbürtig, und sie sind eins{6}. „Der Herr unser Gott ist ein einziger Gott{7}.“ In der göttlichen Trinität der ewigen Gottheiten besteht Vollkommenheit des Plans und Einheit der Ausführung. Der Vater, der Sohn und der Mit-Vollzieher sind wahrhaftig und göttlich eins. Zu Recht steht geschrieben: „Ich bin der erste, und ich bin der letzte, und neben mir gibt es keinen Gott{8}{9}.“"
                 },
                 {
                     "par_ref": "10:7.2",
@@ -490,16 +490,16 @@
         }
     ],
     "footnotes": [
-        "*Paradiesische Dreifaltigkeit*: Mt 28:19; Hch 2:32-33; 2 Co 13:14; 1 Jn 5:7.",
-        "*Paradiesische Dreifaltigkeit (Paulus' frühe Ansicht)*: 1 Co 12:4-6.",
-        "*Söhne des Paradieses*: Mt 11:27; Lc 10:22; Jn 1:14,18; Jn 6:45-46; Jn 8:26; Jn 12:49-50; Jn 14:7-11,20; Jn 17:6,25-26.",
-        "*Nach dem Bilde Gottes geschaffen*: Gn 1:26.",
-        "*„Wort“ Gottes*: Jn 1:1-4,14.",
-        "*Akt Gottes*: Gn 1:1ff.",
-        "*Einheit der Gottheit*: 1 Jn 5:7.",
-        "*Der Herr, unser Gott, ist ein Gott*: 2 Re 19:19; 1 Cr 17:20; Neh 9:6; Sal 86:10; Ec lo 36:5; Is 37:16; Is 44:6,8; Is 45:5-6,21; Dt 4:35,39; Dt 6:4; Mc 12:29,32; Jn 17:3; Ro 3:30; 1 Co 8:4-6; Gl 3:20; Ef 4:6; 1 Ti 2:5; Stg 2:19; 1 Sam 2:2; 2 Sam 7:22.",
-        "*Erster, letzter und einziger Gott*: Is 41:4; Is 44:6; Is 48:12; Ap 1:17; Ap 2:8.",
-        "*Alpha & Omega*: Ap 1:8,11; Ap 21:6; Ap 22:13."
+        "*Paradies-Dreifaltigkeit*: Mt 28:19; Apg 2:32-33; 2 Kor 13:14; 1 Joh 5:7.",
+        "*Paradies-Dreifaltigkeit (Paulus' frühe Sicht)*: 1 Kor 12:4-6.",
+        "*Söhne des Paradieses*: Mt 11:27; Lk 10:22; Joh 1:14,18; Joh 6:45-46; Joh 8:26; Joh 12:49-50; Joh 14:7-11,20; Joh 17:6,25-26.",
+        "*Nach dem Bilde Gottes geschaffen*: 1 Mose 1:26.",
+        "*„Wort“ Gottes*: Joh 1:1-4,14.",
+        "*Akt Gottes*: 1 Mose 1:1ff.",
+        "*Einheit der Gottheit*: 1 Joh 5:7.",
+        "*Der Herr, unser Gott, ist ein Gott*: 2 Kön 19:19; 1 Chr 17:20; Neh 9:6; Ps 86:10; Sir 36:5; Jes 37:16; Jes 44:6,8; Jes 45:5-6,21; 5 Mose 4:35,39; 5 Mose 6:4; Mk 12:29,32; Joh 17:3; Röm 3:30; 1 Kor 8:4-6; Gal 3:20; Eph 4:6; 1 Tim 2:5; Jak 2:19; 1 Sam 2:2; 2 Sam 7:22.",
+        "*Erster, letzter und einziger Gott*: Jes 41:4; Jes 44:6; Jes 48:12; Offb 1:17; Offb 2:8.",
+        "*Alpha & Omega*: Offb 1:8,11; Offb 21:6; Offb 22:13."
     ],
     "paper_title": "Die Paradies-Trinität"
 }

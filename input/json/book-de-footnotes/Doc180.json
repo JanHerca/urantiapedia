@@ -13,12 +13,12 @@
                 {
                     "par_ref": "180:0.2",
                     "par_pageref": "1944.2",
-                    "par_content": "„Ihr habt noch gut in Erinnerung, wie ich euch ohne Geldbeutel oder Brieftasche aussandte und euch sogar riet, keine Ersatzkleidung mitzunehmen. Und ihr werdet euch alle entsinnen, nichts entbehrt zu haben. Aber nun haben für euch unruhige Zeiten begonnen. Künftig könnt ihr nicht mehr auf den guten Willen der Menge zählen. Deshalb trage einen Geldbeutel bei sich, wer einen hat. Wenn ihr in die Welt hinausgeht, um dieses Evangelium zu verkünden, dann verseht euch mit allem Nötigen für euren Unterhalt{0}. Ich bin gekommen, um Frieden zu bringen, aber er wird sich einstweilen nicht einstellen."
+                    "par_content": "„Ihr habt noch gut in Erinnerung, wie ich euch ohne Geldbeutel oder Brieftasche aussandte und euch sogar riet, keine Ersatzkleidung mitzunehmen. Und ihr werdet euch alle entsinnen, nichts entbehrt zu haben. Aber nun haben für euch unruhige Zeiten begonnen. Künftig könnt ihr nicht mehr auf den guten Willen der Menge zählen. Deshalb trage einen Geldbeutel bei sich, wer einen hat. Wenn ihr in die Welt hinausgeht, um dieses Evangelium zu verkünden, dann verseht euch mit allem Nötigen für euren Unterhalt{0}. Ich bin gekommen, um Frieden zu bringen, aber er wird sich einstweilen nicht einstellen{1}."
                 },
                 {
                     "par_ref": "180:0.3",
                     "par_pageref": "1944.3",
-                    "par_content": "„Für den Menschensohn ist jetzt die Zeit gekommen, verherrlicht zu werden, und der Vater soll in mir verherrlicht werden{2}. Meine Freunde, ich werde nur noch kurze Zeit bei euch sein. Bald werdet ihr nach mir suchen, aber ihr werdet mich nicht finden, denn ich gehe an einen Ort, wohin ihr zum jetzigen Zeitpunkt nicht kommen könnt. Aber wenn ihr euer Werk auf Erden beendet habt, so wie ich jetzt meines beendet habe, sollt ihr zu mir kommen, so wie ich mich jetzt bereitmache, zu meinem Vater zu gehen. Binnen ganz kurzer Zeit werde ich euch verlassen. Ihr werdet mich auf Erden nicht mehr sehen, aber ihr werdet mich alle im kommenden Zeitalter sehen, wenn ihr zu dem Königreich, das mein Vater mir gegeben hat, aufsteigt.“"
+                    "par_content": "„Für den Menschensohn ist jetzt die Zeit gekommen, verherrlicht zu werden, und der Vater soll in mir verherrlicht werden{2}. Meine Freunde, ich werde nur noch kurze Zeit bei euch sein. Bald werdet ihr nach mir suchen, aber ihr werdet mich nicht finden, denn ich gehe an einen Ort, wohin ihr zum jetzigen Zeitpunkt nicht kommen könnt{3}{4}. Aber wenn ihr euer Werk auf Erden beendet habt, so wie ich jetzt meines beendet habe, sollt ihr zu mir kommen, so wie ich mich jetzt bereitmache, zu meinem Vater zu gehen{5}. Binnen ganz kurzer Zeit werde ich euch verlassen. Ihr werdet mich auf Erden nicht mehr sehen, aber ihr werdet mich alle im kommenden Zeitalter sehen, wenn ihr zu dem Königreich, das mein Vater mir gegeben hat, aufsteigt.“"
                 }
             ]
         },
@@ -35,12 +35,12 @@
                 {
                     "par_ref": "180:1.2",
                     "par_pageref": "1944.5",
-                    "par_content": "„Indem ich euch dieses neue Gebot gebe, lade ich keine neue Bürde auf eure Seelen, sondern bringe euch vielmehr neue Freude und mache es euch möglich, neue Befriedigung zu erfahren, wenn ihr das Glück kennen lernt, eure Herzensgüte an eure Mitmenschen zu verschenken{7}. Obwohl äußeres Leid ertragend, stehe ich im Begriff, von der allerhöchsten Freude erfüllt zu werden, indem ich meine Liebe an euch und eure sterblichen Gefährten verschenke."
+                    "par_content": "„Indem ich euch dieses neue Gebot gebe, lade ich keine neue Bürde auf eure Seelen, sondern bringe euch vielmehr neue Freude und mache es euch möglich, neue Befriedigung zu erfahren, wenn ihr das Glück kennen lernt, eure Herzensgüte an eure Mitmenschen zu verschenken{7}. Obwohl äußeres Leid ertragend, stehe ich im Begriff, von der allerhöchsten Freude erfüllt zu werden, indem ich meine Liebe an euch und eure sterblichen Gefährten verschenke{8}."
                 },
                 {
                     "par_ref": "180:1.3",
                     "par_pageref": "1944.6",
-                    "par_content": "„Wenn ich euch dazu auffordere, einander so zu lieben, wie ich euch geliebt habe, dann halte ich euch das höchste Maß an wahrer Zuneigung vor, denn kein Mensch kann größere Liebe haben als diese: sein Leben hinzugeben für seine Freunde{9}. Und ihr seid meine Freunde; und ihr werdet fortfahren, meine Freunde zu sein, wenn ihr nur willig seid zu tun, was ich euch gelehrt habe. Ihr habt mich Meister genannt, aber ich nenne euch nicht Diener. Wenn ihr einander nur so lieben wollt, wie ich euch liebe, sollt ihr meine Freunde sein, und ich werde zu euch immer von dem sprechen, was der Vater mir offenbart."
+                    "par_content": "„Wenn ich euch dazu auffordere, einander so zu lieben, wie ich euch geliebt habe, dann halte ich euch das höchste Maß an wahrer Zuneigung vor, denn kein Mensch kann größere Liebe haben als diese: sein Leben hinzugeben für seine Freunde{9}{10}. Und ihr seid meine Freunde; und ihr werdet fortfahren, meine Freunde zu sein, wenn ihr nur willig seid zu tun, was ich euch gelehrt habe. Ihr habt mich Meister genannt, aber ich nenne euch nicht Diener. Wenn ihr einander nur so lieben wollt, wie ich euch liebe, sollt ihr meine Freunde sein, und ich werde zu euch immer von dem sprechen, was der Vater mir offenbart."
                 },
                 {
                     "par_ref": "180:1.4",
@@ -67,7 +67,7 @@
                 {
                     "par_ref": "180:2.1",
                     "par_pageref": "1945.4",
-                    "par_content": "Darauf erhob sich Jesus wieder und fuhr fort, seine Apostel zu lehren: „Ich bin der wahre Weinstock und mein Vater ist der Weinbauer. Ich bin der Weinstock und ihr seid die Reben. Und der Vater verlangt von mir nur, dass ihr viele Früchte tragt{14}. Der Weinstock wird nur beschnitten, um die Fruchtbarkeit der Reben zu erhöhen. Jede Rebe, die aus mir kommt und keine Frucht trägt, wird der Vater entfernen. Jede Rebe, die Frucht trägt, wird der Vater reinigen, damit sie noch mehr Frucht trage. Ihr seid schon rein durch das Wort, das ich gesprochen habe, aber ihr müsst fortfahren rein zu sein. Ihr müsst in mir bleiben, und ich in euch; die Rebe wird sterben, wenn sie vom Weinstock getrennt wird. So wie die Rebe nur Frucht tragen kann, wenn sie auf dem Weinstock bleibt, könnt auch ihr die Früchte liebenden Dienens nur hervorbringen, wenn ihr in mir bleibt. Vergesst nicht: Ich bin der wahre Weinstock, und ihr seid die lebendigen Reben. Derjenige, der in mir lebt und ich in ihm, wird viele Früchte des Geistes tragen und die Erfahrung äußerster Freude machen, wenn er diese geistige Ernte hervorbringt. Wenn ihr diese lebendige geistige Verbindung mit mir aufrechterhaltet, werdet ihr reichlich Früchte tragen. Wenn ihr in mir bleibt und meine Worte in euch lebendig sind, werdet ihr fähig sein, frei mit mir zu kommunizieren, und dann kann mein lebendiger Geist euch so erfüllen, dass ihr um alles bitten könnt, was mein Geist will, und ihr könnt all dies in der Gewissheit tun, dass der Vater uns unsere Bitte erfüllen wird. Hierin ist der Vater verherrlicht: dass der Weinstock viele lebendige Reben hat und dass jede Rebe viel Frucht trägt. Und wenn die Welt diese fruchttragenden Reben sieht — meine Freunde, die einander gerade so lieben, wie ich sie geliebt habe — werden alle Menschen wissen, dass ihr wahrlich meine Jünger seid."
+                    "par_content": "Darauf erhob sich Jesus wieder und fuhr fort, seine Apostel zu lehren: „Ich bin der wahre Weinstock und mein Vater ist der Weinbauer. Ich bin der Weinstock und ihr seid die Reben. Und der Vater verlangt von mir nur, dass ihr viele Früchte tragt{14}. Der Weinstock wird nur beschnitten, um die Fruchtbarkeit der Reben zu erhöhen. Jede Rebe, die aus mir kommt und keine Frucht trägt, wird der Vater entfernen. Jede Rebe, die Frucht trägt, wird der Vater reinigen, damit sie noch mehr Frucht trage. Ihr seid schon rein durch das Wort, das ich gesprochen habe, aber ihr müsst fortfahren rein zu sein. Ihr müsst in mir bleiben, und ich in euch; die Rebe wird sterben, wenn sie vom Weinstock getrennt wird. So wie die Rebe nur Frucht tragen kann, wenn sie auf dem Weinstock bleibt, könnt auch ihr die Früchte liebenden Dienens nur hervorbringen, wenn ihr in mir bleibt. Vergesst nicht: Ich bin der wahre Weinstock, und ihr seid die lebendigen Reben{15}. Derjenige, der in mir lebt und ich in ihm, wird viele Früchte des Geistes tragen und die Erfahrung äußerster Freude machen, wenn er diese geistige Ernte hervorbringt. Wenn ihr diese lebendige geistige Verbindung mit mir aufrechterhaltet, werdet ihr reichlich Früchte tragen. Wenn ihr in mir bleibt und meine Worte in euch lebendig sind, werdet ihr fähig sein, frei mit mir zu kommunizieren, und dann kann mein lebendiger Geist euch so erfüllen, dass ihr um alles bitten könnt, was mein Geist will, und ihr könnt all dies in der Gewissheit tun, dass der Vater uns unsere Bitte erfüllen wird{16}. Hierin ist der Vater verherrlicht: dass der Weinstock viele lebendige Reben hat und dass jede Rebe viel Frucht trägt. Und wenn die Welt diese fruchttragenden Reben sieht — meine Freunde, die einander gerade so lieben, wie ich sie geliebt habe — werden alle Menschen wissen, dass ihr wahrlich meine Jünger seid{17}."
                 },
                 {
                     "par_ref": "180:2.2",
@@ -87,7 +87,7 @@
                 {
                     "par_ref": "180:2.5",
                     "par_pageref": "1946.3",
-                    "par_content": "Wenn diese lebendige Verbindung zwischen Gottheit und Menschheit existiert, die Menschheit aber gedankenlos und aus Unwissenheit für egoistisches Behagen und eitle Ziele beten sollte, dann könnte es nur eine göttliche Antwort geben: immer mehr Früchte des Geistes an den Stielen der lebendigen Reben zu tragen. Wenn Leben in der Rebe am Weinstock ist, kann es auf all ihre Bitten nur eine Antwort geben: noch mehr Trauben hervorzubringen. In der Tat existiert die Rebe allein, um Früchte zu tragen, um Trauben hervorzubringen, und kann nichts anderes tun{21}. Ebenso existiert der wahre Gläubige allein zu dem Zweck, die Früchte des Geistes zu tragen: die Menschen zu lieben, wie er selber von Gott geliebt worden ist — sie zu lieben, wie Jesus uns geliebt hat."
+                    "par_content": "Wenn diese lebendige Verbindung zwischen Gottheit und Menschheit existiert, die Menschheit aber gedankenlos und aus Unwissenheit für egoistisches Behagen und eitle Ziele beten sollte, dann könnte es nur eine göttliche Antwort geben: immer mehr Früchte des Geistes an den Stielen der lebendigen Reben zu tragen. Wenn Leben in der Rebe am Weinstock ist, kann es auf all ihre Bitten nur eine Antwort geben: noch mehr Trauben hervorzubringen. In der Tat existiert die Rebe allein, um Früchte zu tragen, um Trauben hervorzubringen, und kann nichts anderes tun{21}. Ebenso existiert der wahre Gläubige allein zu dem Zweck, die Früchte des Geistes zu tragen: die Menschen zu lieben, wie er selber von Gott geliebt worden ist — sie zu lieben, wie Jesus uns geliebt hat{22}{23}."
                 },
                 {
                     "par_ref": "180:2.6",
@@ -114,7 +114,7 @@
                 {
                     "par_ref": "180:3.2",
                     "par_pageref": "1947.1",
-                    "par_content": "„Viele von denen, die euch angreifen werden, wissen nichts vom Licht des Himmels, aber das trifft auf einige, die uns jetzt verfolgen, nicht zu. Wenn wir sie die Wahrheit nicht gelehrt hätten, könnten sie unter Umständen viele seltsame Dinge tun, ohne verurteilt zu werden, aber nun, da sie das Licht gekannt und sich angemaßt haben, es zurückzuweisen, haben sie für ihre Haltung keine Entschuldigung mehr{25}. Wer mich hasst, hasst meinen Vater. Es kann nicht anders sein; das Licht, das, wenn angenommen, jemanden retten würde, kann ihn, wenn wissentlich abgelehnt, nur verurteilen. Und was habe ich diesen Menschen angetan, dass sie einen so schrecklichen Hass auf mich haben? Nichts, außer ihnen Bruderschaft auf Erden und Heil im Himmel angeboten zu haben. Aber habt ihr in der Schrift nicht das Wort gelesen: ‚Und sie hassten mich ohne Grund‘?"
+                    "par_content": "„Viele von denen, die euch angreifen werden, wissen nichts vom Licht des Himmels, aber das trifft auf einige, die uns jetzt verfolgen, nicht zu. Wenn wir sie die Wahrheit nicht gelehrt hätten, könnten sie unter Umständen viele seltsame Dinge tun, ohne verurteilt zu werden, aber nun, da sie das Licht gekannt und sich angemaßt haben, es zurückzuweisen, haben sie für ihre Haltung keine Entschuldigung mehr{25}. Wer mich hasst, hasst meinen Vater. Es kann nicht anders sein; das Licht, das, wenn angenommen, jemanden retten würde, kann ihn, wenn wissentlich abgelehnt, nur verurteilen. Und was habe ich diesen Menschen angetan, dass sie einen so schrecklichen Hass auf mich haben? Nichts, außer ihnen Bruderschaft auf Erden und Heil im Himmel angeboten zu haben. Aber habt ihr in der Schrift nicht das Wort gelesen: ‚Und sie hassten mich ohne Grund‘?{26}"
                 },
                 {
                     "par_ref": "180:3.3",
@@ -149,7 +149,7 @@
                 {
                     "par_ref": "180:3.9",
                     "par_pageref": "1947.8",
-                    "par_content": "Und nachdem Philipp gesprochen hatte, sagte Jesus: „Philipp, ich bin so lange mit euch zusammen gewesen, und trotzdem kennst du mich immer noch nicht? Von neuem erkläre ich: Wer mich gesehen hat, hat den Vater gesehen{33}. Wie kannst du dann sagen: ‚Zeige uns den Vater?‘ Glaubst du nicht, dass ich im Vater bin, und der Vater in mir? Habe ich euch nicht gelehrt, dass die Worte, die ich spreche, nicht meine Worte sind, sondern die Worte des Vaters? Ich spreche für den Vater und nicht von mir aus. Ich bin in dieser Welt, um den Willen des Vaters zu tun, und das habe ich getan. Mein Vater wohnt in mir und wirkt durch mich. Glaubt mir, wenn ich sage, dass der Vater in mir ist und dass ich im Vater bin, oder glaubt mir wenigstens um des Lebens willen, das ich gelebt habe — um des Werkes willen.“"
+                    "par_content": "Und nachdem Philipp gesprochen hatte, sagte Jesus: „Philipp, ich bin so lange mit euch zusammen gewesen, und trotzdem kennst du mich immer noch nicht? Von neuem erkläre ich: Wer mich gesehen hat, hat den Vater gesehen{33}. Wie kannst du dann sagen: ‚Zeige uns den Vater?‘ Glaubst du nicht, dass ich im Vater bin, und der Vater in mir? Habe ich euch nicht gelehrt, dass die Worte, die ich spreche, nicht meine Worte sind, sondern die Worte des Vaters? Ich spreche für den Vater und nicht von mir aus{34}. Ich bin in dieser Welt, um den Willen des Vaters zu tun, und das habe ich getan{35}. Mein Vater wohnt in mir und wirkt durch mich. Glaubt mir, wenn ich sage, dass der Vater in mir ist und dass ich im Vater bin, oder glaubt mir wenigstens um des Lebens willen, das ich gelebt habe — um des Werkes willen.“"
                 },
                 {
                     "par_ref": "180:3.10",
@@ -166,12 +166,12 @@
                 {
                     "par_ref": "180:4.1",
                     "par_pageref": "1948.2",
-                    "par_content": "Jesus fuhr fort zu lehren, indem er sagte: „Wenn ich zum Vater gegangen bin, und nachdem er das Werk, das ich für euch auf Erden getan habe, voll akzeptiert hat, und nachdem ich die endgültige Souveränität über meinen eigenen Herrschaftsbereich erhalten habe, werde ich zu meinem Vater sagen: ‚Da ich meine Kinder allein auf der Erde zurückgelassen habe, will ich ihnen meinem Versprechen gemäß einen anderen Lehrer senden.‘ Und wenn der Vater sein Einverständnis dazu gibt, werde ich den Geist der Wahrheit über alle Menschen ausgießen. Schon wohnt meines Vaters Geist in euren Herzen; und wenn dieser Tag kommt, werdet ihr auch mich bei euch haben, so wie ihr jetzt den Vater habt. Diese neue Gabe ist der Geist der lebendigen Wahrheit. Die Ungläubigen werden zuerst nicht auf die Lehren dieses Geistes hören, aber die Söhne des Lichts werden ihn alle freudig und von ganzem Herzen empfangen. Ihr werdet diesen Geist erkennen, wenn er kommt, gerade so, wie ihr mich gekannt habt, und ihr werdet dieses Geschenk in euren Herzen empfangen, und er wird bei euch wohnen. Ihr seht also, dass ich euch nicht ohne Hilfe und Führung zurücklasse. Ich will euch nicht ohne Trost zurücklassen{36}. Heute kann ich nur als Person bei euch sein. In den kommenden Zeiten aber werde ich bei euch und allen anderen Menschen sein, die meine Gegenwart wünschen, wo immer ihr sein möget, und bei jedem von euch zur selben Zeit. Erkennt ihr nicht, dass es besser ist, wenn ich fortgehe? Dass ich euch körperlich verlasse, damit ich mit euch umso besser und vollkommener im Geiste sein kann?"
+                    "par_content": "Jesus fuhr fort zu lehren, indem er sagte: „Wenn ich zum Vater gegangen bin, und nachdem er das Werk, das ich für euch auf Erden getan habe, voll akzeptiert hat, und nachdem ich die endgültige Souveränität über meinen eigenen Herrschaftsbereich erhalten habe, werde ich zu meinem Vater sagen: ‚Da ich meine Kinder allein auf der Erde zurückgelassen habe, will ich ihnen meinem Versprechen gemäß einen anderen Lehrer senden.‘ Und wenn der Vater sein Einverständnis dazu gibt, werde ich den Geist der Wahrheit über alle Menschen ausgießen. Schon wohnt meines Vaters Geist in euren Herzen; und wenn dieser Tag kommt, werdet ihr auch mich bei euch haben, so wie ihr jetzt den Vater habt. Diese neue Gabe ist der Geist der lebendigen Wahrheit. Die Ungläubigen werden zuerst nicht auf die Lehren dieses Geistes hören, aber die Söhne des Lichts werden ihn alle freudig und von ganzem Herzen empfangen. Ihr werdet diesen Geist erkennen, wenn er kommt, gerade so, wie ihr mich gekannt habt, und ihr werdet dieses Geschenk in euren Herzen empfangen, und er wird bei euch wohnen. Ihr seht also, dass ich euch nicht ohne Hilfe und Führung zurücklasse. Ich will euch nicht ohne Trost zurücklassen{36}. Heute kann ich nur als Person bei euch sein. In den kommenden Zeiten aber werde ich bei euch und allen anderen Menschen sein, die meine Gegenwart wünschen, wo immer ihr sein möget, und bei jedem von euch zur selben Zeit. Erkennt ihr nicht, dass es besser ist, wenn ich fortgehe? Dass ich euch körperlich verlasse, damit ich mit euch umso besser und vollkommener im Geiste sein kann?{37}"
                 },
                 {
                     "par_ref": "180:4.2",
                     "par_pageref": "1948.3",
-                    "par_content": "„Nur wenige Stunden noch, und die Welt wird mich nicht mehr sehen. Aber ihr werdet mich weiterhin in euren Herzen kennen, bis ich euch diesen neuen Lehrer, den Geist der Wahrheit, sende. So wie ich in Person mit euch gelebt habe, werde ich dann in euch leben und eins sein mit eurer persönlichen Erfahrung im geistigen Königreich{38}. Und wenn das eingetroffen ist, werdet ihr mit Sicherheit wissen, dass ich im Vater bin, und dass, während euer Leben mit dem Vater in mir geborgen ist, ich auch in euch bin. Ich habe den Vater geliebt und mich an sein Wort gehalten. Ihr habt mich geliebt, und ihr werdet euch an mein Wort halten. So wie der Vater mir von seinem Geiste gegeben hat, so will auch ich euch von meinem Geiste geben. Und dieser Geist der Wahrheit, den ich über euch ausgießen will, soll euch leiten und ermutigen und euch schließlich in alle Wahrheit führen."
+                    "par_content": "„Nur wenige Stunden noch, und die Welt wird mich nicht mehr sehen. Aber ihr werdet mich weiterhin in euren Herzen kennen, bis ich euch diesen neuen Lehrer, den Geist der Wahrheit, sende. So wie ich in Person mit euch gelebt habe, werde ich dann in euch leben und eins sein mit eurer persönlichen Erfahrung im geistigen Königreich{38}. Und wenn das eingetroffen ist, werdet ihr mit Sicherheit wissen, dass ich im Vater bin, und dass, während euer Leben mit dem Vater in mir geborgen ist, ich auch in euch bin. Ich habe den Vater geliebt und mich an sein Wort gehalten. Ihr habt mich geliebt, und ihr werdet euch an mein Wort halten{39}. So wie der Vater mir von seinem Geiste gegeben hat, so will auch ich euch von meinem Geiste geben. Und dieser Geist der Wahrheit, den ich über euch ausgießen will, soll euch leiten und ermutigen und euch schließlich in alle Wahrheit führen."
                 },
                 {
                     "par_ref": "180:4.3",
@@ -186,7 +186,7 @@
                 {
                     "par_ref": "180:4.5",
                     "par_pageref": "1949.1",
-                    "par_content": "Jesus blickte auf sie alle herab, lächelte und sagte: „Meine kleinen Kinder, ich gehe fort, zurück zu meinem Vater. Über kurz werdet ihr mich nicht mehr, wie jetzt, in Fleisch und Blut, sehen{42}. Nach sehr kurzer Zeit werde ich euch meinen Geist senden, der mir, von diesem materiellen Körper abgesehen, genau gleicht. Dieser neue Lehrer ist der Geist der Wahrheit, der mit jedem von euch, in euren Herzen, leben wird, und so werden alle Kinder des Lichts eins werden und sich zueinander hingezogen fühlen. Und in genau dieser Weise werden mein Vater und ich in der Seele eines jeden von euch und ebenso in den Herzen aller anderen Menschen wohnen können, die uns lieben und die diese Liebe in ihrer Erfahrung Wirklichkeit werden lassen, indem sie einander lieben, wie ich euch jetzt liebe.“"
+                    "par_content": "Jesus blickte auf sie alle herab, lächelte und sagte: „Meine kleinen Kinder, ich gehe fort, zurück zu meinem Vater. Über kurz werdet ihr mich nicht mehr, wie jetzt, in Fleisch und Blut, sehen{42}. Nach sehr kurzer Zeit werde ich euch meinen Geist senden, der mir, von diesem materiellen Körper abgesehen, genau gleicht{43}. Dieser neue Lehrer ist der Geist der Wahrheit, der mit jedem von euch, in euren Herzen, leben wird, und so werden alle Kinder des Lichts eins werden und sich zueinander hingezogen fühlen{44}{45}. Und in genau dieser Weise werden mein Vater und ich in der Seele eines jeden von euch und ebenso in den Herzen aller anderen Menschen wohnen können, die uns lieben und die diese Liebe in ihrer Erfahrung Wirklichkeit werden lassen, indem sie einander lieben, wie ich euch jetzt liebe{46}{47}.“"
                 },
                 {
                     "par_ref": "180:4.6",
@@ -270,7 +270,7 @@
                 {
                     "par_ref": "180:6.1",
                     "par_pageref": "1951.2",
-                    "par_content": "Nachdem Petrus, Jakobus, Johannes und Matthäus dem Meister zahlreiche Fragen gestellt hatten, fuhr er in seiner Abschiedsrede fort und sprach: „Und ich sage euch all dies, bevor ich euch verlasse, damit ihr auf das vorbereitet seid, was euch bevorsteht, und nicht schwerem Irrtum verfallt{49}. Die Obrigkeit wird sich nicht damit begnügen, euch aus den Synagogen auszuschließen; ich mache euch darauf aufmerksam, dass die Stunde naht, da die, welche euch töten, glauben, Gott damit einen Dienst zu erweisen. Und all das werden sie euch und denen antun, die ihr ins Königreich des Himmels führt, weil sie den Vater nicht kennen. Sie haben sich geweigert, den Vater zu kennen, als sie sich geweigert haben, mich anzunehmen; und sie weigern sich, mich anzunehmen, wenn sie euch ablehnen, vorausgesetzt, ihr habt mein neues Gebot gehalten, einander so zu lieben, wie ich euch geliebt habe. Ich sage euch diese Dinge im Voraus, damit ihr, wenn eure Stunde kommt, so wie die meine jetzt gekommen ist, durch das Wissen gestärkt werdet, dass mir alles bekannt war und dass mein Geist in allem, was ihr um meinet- und um des Evangeliums willen erleidet, bei euch sein wird. Aus diesem Grunde habe ich mit euch von Anfang an so offen geredet. Ich habe euch sogar gewarnt, dass jemand unter Umständen seine eigenen Angehörigen zu Feinden haben wird. Obwohl das Evangelium vom Königreich der Seele des einzelnen Gläubigen immer Frieden bringt, wird es solange keinen Frieden auf Erden bringen, als die Menschen nicht gewillt sind, von ganzem Herzen an meine Lehre zu glauben und die Ausführung des väterlichen Willens zur allerersten Aufgabe ihres täglichen Lebens als Sterbliche zu machen."
+                    "par_content": "Nachdem Petrus, Jakobus, Johannes und Matthäus dem Meister zahlreiche Fragen gestellt hatten, fuhr er in seiner Abschiedsrede fort und sprach: „Und ich sage euch all dies, bevor ich euch verlasse, damit ihr auf das vorbereitet seid, was euch bevorsteht, und nicht schwerem Irrtum verfallt{49}. Die Obrigkeit wird sich nicht damit begnügen, euch aus den Synagogen auszuschließen; ich mache euch darauf aufmerksam, dass die Stunde naht, da die, welche euch töten, glauben, Gott damit einen Dienst zu erweisen. Und all das werden sie euch und denen antun, die ihr ins Königreich des Himmels führt, weil sie den Vater nicht kennen. Sie haben sich geweigert, den Vater zu kennen, als sie sich geweigert haben, mich anzunehmen; und sie weigern sich, mich anzunehmen, wenn sie euch ablehnen, vorausgesetzt, ihr habt mein neues Gebot gehalten, einander so zu lieben, wie ich euch geliebt habe{50}. Ich sage euch diese Dinge im Voraus, damit ihr, wenn eure Stunde kommt, so wie die meine jetzt gekommen ist, durch das Wissen gestärkt werdet, dass mir alles bekannt war und dass mein Geist in allem, was ihr um meinet- und um des Evangeliums willen erleidet, bei euch sein wird. Aus diesem Grunde habe ich mit euch von Anfang an so offen geredet. Ich habe euch sogar gewarnt, dass jemand unter Umständen seine eigenen Angehörigen zu Feinden haben wird{51}. Obwohl das Evangelium vom Königreich der Seele des einzelnen Gläubigen immer Frieden bringt, wird es solange keinen Frieden auf Erden bringen, als die Menschen nicht gewillt sind, von ganzem Herzen an meine Lehre zu glauben und die Ausführung des väterlichen Willens zur allerersten Aufgabe ihres täglichen Lebens als Sterbliche zu machen."
                 },
                 {
                     "par_ref": "180:6.2",
@@ -280,12 +280,12 @@
                 {
                     "par_ref": "180:6.3",
                     "par_pageref": "1951.4",
-                    "par_content": "„Ich habe euch noch vieles zu sagen, aber ihr könnt im Augenblick nicht noch mehr aufnehmen. Wenn indessen der Geist der Wahrheit kommt, wird er euch schließlich in alle Wahrheit führen, während ihr die vielen Aufenthaltsorte in meines Vaters Universum durchlauft{53}."
+                    "par_content": "„Ich habe euch noch vieles zu sagen, aber ihr könnt im Augenblick nicht noch mehr aufnehmen. Wenn indessen der Geist der Wahrheit kommt, wird er euch schließlich in alle Wahrheit führen, während ihr die vielen Aufenthaltsorte in meines Vaters Universum durchlauft{53}{54}{55}."
                 },
                 {
                     "par_ref": "180:6.4",
                     "par_pageref": "1951.5",
-                    "par_content": "„Dieser Geist wird nicht aus sich selber heraus sprechen, aber er wird euch das eröffnen, was der Vater dem Sohn offenbart hat, und er wird euch sogar Dinge zeigen, die kommen werden; er wird mich verherrlichen, so wie ich meinen Vater verherrlicht habe{56}. Dieser Geist kommt aus mir, und er wird euch meine Wahrheit offenbaren. Alles, worüber der Vater in diesem Bereich gebietet, gehört jetzt mir; deshalb sagte ich, dass dieser neue Lehrer aus dem Meinigen schöpfen und es euch offenbaren wird."
+                    "par_content": "„Dieser Geist wird nicht aus sich selber heraus sprechen, aber er wird euch das eröffnen, was der Vater dem Sohn offenbart hat, und er wird euch sogar Dinge zeigen, die kommen werden; er wird mich verherrlichen, so wie ich meinen Vater verherrlicht habe{56}. Dieser Geist kommt aus mir, und er wird euch meine Wahrheit offenbaren{57}. Alles, worüber der Vater in diesem Bereich gebietet, gehört jetzt mir; deshalb sagte ich, dass dieser neue Lehrer aus dem Meinigen schöpfen und es euch offenbaren wird."
                 },
                 {
                     "par_ref": "180:6.5",
@@ -300,12 +300,12 @@
                 {
                     "par_ref": "180:6.7",
                     "par_pageref": "1952.3",
-                    "par_content": "Und da Jesus wusste, dass sie sich diese Fragen stellten, sagte er: „Fragt ihr einander, was ich meinte, als ich sagte, nach einer kleinen Weile werde ich nicht mehr bei euch sein und dass ich mich, wenn ihr mich wieder sehen werdet, bereits auf dem Weg zum Vater befinde? Ich habe euch klar gesagt, dass der Menschensohn sterben muss, aber dass er wieder auferstehen wird{60}. Könnt ihr denn den Sinn meiner Worte nicht erkennen? Ihr werdet zuerst sehr betrübt sein, aber später werdet ihr euch mit den vielen freuen, die diese Dinge verstehen werden, nachdem sie sich ereignet haben. Eine Frau leidet fürwahr während der Geburtswehen, aber wenn sie einmal von ihrem Kind entbunden ist, vergisst sie ihren Schmerz augenblicklich im freudigen Bewusstsein, dass ein Mensch in die Welt hineingeboren worden ist. Und gerade so werdet ihr bald über meinen Weggang trauern, aber ich werde euch bald wieder sehen, und dann wird sich euer Schmerz in Freude verwandeln, und eine neue Offenbarung des Heils Gottes wird zu euch kommen, die niemand euch je wegnehmen kann. Und alle Welten werden gesegnet sein in dieser selben Offenbarung des Lebens durch die Überwindung des Todes. Bis heute habt ihr all eure Bitten in meines Vaters Namen getan. Nachdem ihr mich wieder gesehen habt, könnt ihr auch in meinem Namen bitten, und ich werde euch hören."
+                    "par_content": "Und da Jesus wusste, dass sie sich diese Fragen stellten, sagte er: „Fragt ihr einander, was ich meinte, als ich sagte, nach einer kleinen Weile werde ich nicht mehr bei euch sein und dass ich mich, wenn ihr mich wieder sehen werdet, bereits auf dem Weg zum Vater befinde? Ich habe euch klar gesagt, dass der Menschensohn sterben muss, aber dass er wieder auferstehen wird{60}. Könnt ihr denn den Sinn meiner Worte nicht erkennen? Ihr werdet zuerst sehr betrübt sein, aber später werdet ihr euch mit den vielen freuen, die diese Dinge verstehen werden, nachdem sie sich ereignet haben{61}. Eine Frau leidet fürwahr während der Geburtswehen, aber wenn sie einmal von ihrem Kind entbunden ist, vergisst sie ihren Schmerz augenblicklich im freudigen Bewusstsein, dass ein Mensch in die Welt hineingeboren worden ist. Und gerade so werdet ihr bald über meinen Weggang trauern, aber ich werde euch bald wieder sehen, und dann wird sich euer Schmerz in Freude verwandeln, und eine neue Offenbarung des Heils Gottes wird zu euch kommen, die niemand euch je wegnehmen kann. Und alle Welten werden gesegnet sein in dieser selben Offenbarung des Lebens durch die Überwindung des Todes. Bis heute habt ihr all eure Bitten in meines Vaters Namen getan. Nachdem ihr mich wieder gesehen habt, könnt ihr auch in meinem Namen bitten, und ich werde euch hören{62}."
                 },
                 {
                     "par_ref": "180:6.8",
                     "par_pageref": "1952.4",
-                    "par_content": "„Hier auf Erden habe ich euch in Sprichwörtern unterrichtet und zu euch in Gleichnissen geredet. Das tat ich, weil ihr im Geistigen bloß Kinder wart; aber die Zeit kommt, da ich zu euch klar und deutlich über den Vater und sein Königreich reden werde{63}. Und ich werde das tun, weil der Vater euch liebt und euch vollkommener offenbart werden möchte. Die sterblichen Menschen können den Geist-Vater nicht sehen; deshalb bin ich in die Welt gekommen, um euren Geschöpfesaugen den Vater zu zeigen. Aber dereinst, wenn ihr durch geistiges Wachstum vollkommen geworden seid, sollt ihr den Vater selber sehen.“"
+                    "par_content": "„Hier auf Erden habe ich euch in Sprichwörtern unterrichtet und zu euch in Gleichnissen geredet. Das tat ich, weil ihr im Geistigen bloß Kinder wart; aber die Zeit kommt, da ich zu euch klar und deutlich über den Vater und sein Königreich reden werde{63}. Und ich werde das tun, weil der Vater euch liebt und euch vollkommener offenbart werden möchte. Die sterblichen Menschen können den Geist-Vater nicht sehen; deshalb bin ich in die Welt gekommen, um euren Geschöpfesaugen den Vater zu zeigen{64}. Aber dereinst, wenn ihr durch geistiges Wachstum vollkommen geworden seid, sollt ihr den Vater selber sehen.“"
                 },
                 {
                     "par_ref": "180:6.9",
@@ -316,72 +316,72 @@
         }
     ],
     "footnotes": [
-        "*Vorbereitungen für die Arbeit treffen*: Lc 22:35-36.",
-        "*Frühere Anweisungen ändern*: Lc 10:4.",
-        "*Vater und Sohn verherrlicht*: Jn 13:31-32; Jn 17:1,4.",
-        "*Ihr werdet mich suchen und nicht finden*: Jn 13:33.",
-        "*Ihr könnt jetzt nicht kommen*: Jn 7:33-34; Jn 8:21.",
-        "*Du kannst später folgen*: Jn 13:36.",
-        "*Das neue Gebot*: Jn 13:34-35; Jn 15:12,17.",
-        "*Legt keine Last auf, bringt neue Freude*: Jn 15:11.",
-        "*Der Tod Jesu ist die größte Freude*: Heb 12:2.",
-        "*Liebt einander, wie ich euch liebe*: Jn 13:34-35; Jn 15:12,17.",
-        "*Es gibt keine größere Liebe*: Jn 15:12-15.",
-        "*Ich habe euch erwählt, ich habe euch geweiht*: Jn 15:16-17.",
-        "*Teilt die Freude, teilt die Liebe*: Jn 14:23.",
-        "*Die Gläubigen sind Söhne Gottes*: 1 Cr 22:10; Sal 2:7; Is 56:5; Mt 5:9,16,16,45; Lc 20:36; Jn 1:12-13; Jn 11:52; Jn 20:17b; Hch 17:28-29; Ro 8:14-17,19,21; Ro 9:26; 2 Co 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Flp 2:15; Heb 12:5-8; 1 Jn 3:1-2,10; 1 Jn 5:2; Ap 21:7; 2 Sam 7:14.",
-        "*Jünger bringen Frucht*: Jn 15:7-9.",
-        "*Wahrer Weinstock und Reben*: Jn 15:1-5.",
-        "*Wenn ihr mich um etwas bittet, was mein Geist will*: Jn 14:13-14.",
-        "*An eurer Liebe erkennt ihr meine Jünger*: Jn 13:35.",
-        "*Jesus liebt euch*: Jn 15:9-10.",
-        "*Stamm oder Rebe des Weinstocks*: Is 4:2; Is 11:1; Jer 23:5-6; Jer 33:15; Dn 11:7; Zac 3:8; Zac 6:12.",
-        "*Irrtum in Bezug auf „Gebet“*: Jn 14:13-14; Jn 15:7,16b.",
-        "*Die Rebe existiert für die Frucht*: Jn 15:1-5.",
-        "*Frucht des Geistes: Liebe*: Jn 15:8-9,12. *Frucht des Geistes*: Gl 5:22-23; Ef 5:9.",
-        "*Lieben wie Jesus geliebt hat*: Jn 13:34-35; Jn 15:12.",
-        "*Wenn die Welt hasst und verfolgt*: Jn 15:18-21.",
-        "*Unwissenheit ist keine Entschuldigung*: Jn 15:22-25.",
-        "*Sie hassten ohne Grund*: Sal 35:19; Sal 69:4.",
-        "*Verheißung des Trösters*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15.",
-        "*Viele Villen*: Jn 14:1-2.",
-        "*Du wirst mit mir sein*: Jn 14:3-4; Jn 17:24.",
-        "*Zeige uns den Weg.*: Jn 14:5.",
-        "*Jesus: 'Ich bin der Weg.'*: Jn 14:6.",
-        "*„Zeige uns den Vater“*: Mt 11:27; Lc 10:22; Jn 1:18; Jn 14:8.",
-        "*Wer mich gesehen hat, hat den Vater gesehen*: Jn 14:9-11.",
-        "*Der Vater im Sohn und der Sohn im Vater*: Jn 5:36; Jn 10:37-38.",
-        "*Ich habe den Willen des Vaters getan*: Mt 26:39,42,44; Mc 14:36,39; Lc 22:42; Jn 4:34; Jn 5:30; Jn 6:38-40; Jn 15:10; Jn 17:4.",
-        "*Ich lasse euch nicht in der Wüste zurück*: Jn 14:16-18.",
-        "*Es ist besser, dass ich gehe*: Jn 16:7.",
-        "*Der Vater im Sohn und der Sohn in uns*: Jn 14:19-21a; Jn 17:21.",
-        "*Der Tröster führt zur Wahrheit*: Jn 16:13.",
-        "*Der Geist lehrt alle Dinge*: Jn 14:25-26.",
-        "*Wie manifestiere ich mich?*: Jn 14:22.",
-        "*Ich muss bald fortgehen*: Jn 7:33-34; Jn 8:21; Jn 13:33; Jn 14:2,12,28; Jn 16:10,16-17,28.",
-        "*Ich werde „meinen Geist“ senden*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15.",
-        "*Kinder des Lichts*: Lc 16:8; Jn 12:36; Ef 5:8; 1 Ts 5:5.",
-        "*Geistige Schwerkraft*: Jer 31:3; Jn 6:44; Jn 12:32.",
-        "*Das neue Gebot*: Jn 13:34-35; Jn 15:12,17. *Goldene Regel*: Mt 7:12; Lc 6:31. *Goldene Regel (negativ)*: Tb 4:15.",
-        "*Lebe in Liebe*: Jn 14:23.",
-        "*Liebe deinen Nächsten wie dich selbst*: Lv 19:18,34; Mt 5:43-44; Mt 19:19b; Mt 22:39; Mc 12:31,33; Lc 10:27; Ro 13:9b; Gl 5:14; Stg 2:8.",
-        "*Vorwarnungen*: Jn 16:1-4.",
-        "*Neues Gebot halten*: Jn 13:34; Jn 15:12.",
-        "*Feinde im eigenen Haus*: Mt 10:21,36; Mc 13:12; Lc 21:16.",
-        "*Notwendigkeit des Weggehens*: Jn 16:5-8.",
-        "*Geist der Wahrheit*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15.",
-        "*Lasst euch vom Geist der Wahrheit leiten*: Jn 16:13-14.",
-        "*Viele Wohnsitze*: Jn 14:2.",
-        "*Geist spricht nicht von sich selbst*: Jn 16:13b.",
-        "*Neuer Lehrer offenbart alles*: Jn 16:14-15.",
-        "*Sagt, er wird wieder erscheinen*: Jn 16:16.",
-        "*Jesus wird nicht verstanden*: Jn 16:17-18.",
-        "*Muss sterben, wird aber auferstehen*: Mt 16:21; Mt 17:22-23a; Mt 20:17-19; Mt 27:63; Mc 8:31; Mc 9:31; Mc 10:32-34; Lc 9:22,31,43b-44; Lc 18:31-33; Lc 24:7,46; Jn 14:28a; Jn 20:9.",
-        "*Leid verwandelt sich in Jubel*: Jn 16:19-22.",
-        "*Bittet in Jesu Namen*: Jn 16:23-24,26.",
-        "*Jesus wird Klartext reden*: Jn 16:25.",
-        "*Der Mensch kann Gott nicht sehen*: Jn 16:27-28.",
-        "*Apostel begreifen Jesus nicht*: Jn 16:29-31."
+        "*Vorbereitungen für die Arbeit treffen*: Lk 22:35-36.",
+        "*Frühere Anweisungen ändern*: Lk 10:4.",
+        "*Vater und Sohn verherrlicht*: Joh 13:31-32; Joh 17:1,4.",
+        "*Ihr werdet mich suchen und nicht finden*: Joh 13:33.",
+        "*Ihr könnt jetzt nicht kommen*: Joh 7:33-34; Joh 8:21.",
+        "*Du kannst später folgen*: Joh 13:36.",
+        "*Das neue Gebot*: Joh 13:34-35; Joh 15:12,17.",
+        "*Legt keine Last auf, bringt neue Freude*: Joh 15:11.",
+        "*Der Tod Jesu ist die größte Freude*: Hebr 12:2.",
+        "*Liebt einander, wie ich euch liebe*: Joh 13:34-35; Joh 15:12,17.",
+        "*Es gibt keine größere Liebe*: Joh 15:12-15.",
+        "*Ich habe euch erwählt, ich habe euch geweiht*: Joh 15:16-17.",
+        "*Teilt die Freude, teilt die Liebe*: Joh 14:23.",
+        "*Die Gläubigen sind Söhne Gottes*: 1 Chr 22:10; Ps 2:7; Jes 56:5; Mt 5:9,16,16,45; Lk 20:36; Joh 1:12-13; Joh 11:52; Joh 20:17b; Apg 17:28-29; Röm 8:14-17,19,21; Röm 9:26; 2 Kor 6:18; Gal 3:26; Gal 4:5-7; Eph 1:5; Phil 2:15; Hebr 12:5-8; 1 Joh 3:1-2,10; 1 Joh 5:2; Offb 21:7; 2 Sam 7:14.",
+        "*Jünger bringen Frucht*: Joh 15:7-9.",
+        "*Wahrer Weinstock und Reben*: Joh 15:1-5.",
+        "*Wenn ihr mich um etwas bittet, was mein Geist will*: Joh 14:13-14.",
+        "*An eurer Liebe erkennt ihr meine Jünger*: Joh 13:35.",
+        "*Jesus liebt euch*: Joh 15:9-10.",
+        "*Stamm oder Rebe des Weinstocks*: Jes 4:2; Jes 11:1; Jer 23:5-6; Jer 33:15; Dan 11:7; Sach 3:8; Sach 6:12.",
+        "*Irrtum in Bezug auf „Gebet“*: Joh 14:13-14; Joh 15:7,16b.",
+        "*Die Rebe existiert für die Frucht*: Joh 15:1-5.",
+        "*Frucht des Geistes: Liebe*: Joh 15:8-9,12. *Frucht des Geistes*: Gal 5:22-23; Eph 5:9.",
+        "*Lieben wie Jesus geliebt hat*: Joh 13:34-35; Joh 15:12.",
+        "*Wenn die Welt hasst und verfolgt*: Joh 15:18-21.",
+        "*Unwissenheit ist keine Entschuldigung*: Joh 15:22-25.",
+        "*Sie hassten ohne Grund*: Ps 35:19; Ps 69:4.",
+        "*Verheißung des Trösters*: Hes 11:19; Hes 18:31; Hes 36:26-27; Joel 2:28-29; Lk 24:49; Joh 7:39; Joh 14:16-18,23,26; Joh 15:4,26; Joh 16:7-8,13-14; Joh 17:21-23; Apg 1:5,8a; Apg 2:1-4,16-18; Apg 2:33; 2 Kor 13:5; Gal 2:20; Gal 4:6; Eph 1:13; Eph 4:30; 1 Joh 4:12-15.",
+        "*Viele Villen*: Joh 14:1-2.",
+        "*Du wirst mit mir sein*: Joh 14:3-4; Joh 17:24.",
+        "*Zeige uns den Weg.*: Joh 14:5.",
+        "*Jesus: 'Ich bin der Weg.'*: Joh 14:6.",
+        "*„Zeige uns den Vater“*: Mt 11:27; Lk 10:22; Joh 1:18; Joh 14:8.",
+        "*Wer mich gesehen hat, hat den Vater gesehen*: Joh 14:9-11.",
+        "*Der Vater im Sohn und der Sohn im Vater*: Joh 5:36; Joh 10:37-38.",
+        "*Ich habe den Willen des Vaters getan*: Mt 26:39,42,44; Mk 14:36,39; Lk 22:42; Joh 4:34; Joh 5:30; Joh 6:38-40; Joh 15:10; Joh 17:4.",
+        "*Ich lasse euch nicht in der Wüste zurück*: Joh 14:16-18.",
+        "*Es ist besser, dass ich gehe*: Joh 16:7.",
+        "*Der Vater im Sohn und der Sohn in uns*: Joh 14:19-21a; Joh 17:21.",
+        "*Der Tröster führt zur Wahrheit*: Joh 16:13.",
+        "*Der Geist lehrt alle Dinge*: Joh 14:25-26.",
+        "*Wie manifestiere ich mich?*: Joh 14:22.",
+        "*Ich muss bald fortgehen*: Joh 7:33-34; Joh 8:21; Joh 13:33; Joh 14:2,12,28; Joh 16:10,16-17,28.",
+        "*Ich werde „meinen Geist“ senden*: Hes 11:19; Hes 18:31; Hes 36:26-27; Joel 2:28-29; Lk 24:49; Joh 7:39; Joh 14:16-18,23,26; Joh 15:4,26; Joh 16:7-8,13-14; Joh 17:21-23; Apg 1:5,8a; Apg 2:1-4,16-18; Apg 2:33; 2 Kor 13:5; Gal 2:20; Gal 4:6; Eph 1:13; Eph 4:30; 1 Joh 4:12-15.",
+        "*Kinder des Lichts*: Lk 16:8; Joh 12:36; Eph 5:8; 1 Thess 5:5.",
+        "*Die Schwerkraft des Geistes*: Jer 31:3; Joh 6:44; Joh 12:32.",
+        "*Das neue Gebot*: Joh 13:34-35; Joh 15:12,17. *Goldene Regel*: Mt 7:12; Lk 6:31. *Goldene Regel (negativ)*: Tob 4:15.",
+        "*Lebe in Liebe*: Joh 14:23.",
+        "*Liebe deinen Nächsten wie dich selbst*: 3 Mose 19:18,34; Mt 5:43-44; Mt 19:19b; Mt 22:39; Mk 12:31,33; Lk 10:27; Röm 13:9b; Gal 5:14; Jak 2:8.",
+        "*Vorwarnungen*: Joh 16:1-4.",
+        "*Neues Gebot halten*: Joh 13:34; Joh 15:12.",
+        "*Feinde im eigenen Haus*: Mt 10:21,36; Mk 13:12; Lk 21:16.",
+        "*Notwendigkeit des Weggehens*: Joh 16:5-8.",
+        "*Geist der Wahrheit*: Hes 11:19; Hes 18:31; Hes 36:26-27; Joel 2:28-29; Lk 24:49; Joh 7:39; Joh 14:16-18,23,26; Joh 15:4,26; Joh 16:7-8,13-14; Joh 17:21-23; Apg 1:5,8a; Apg 2:1-4,16-18; Apg 2:33; 2 Kor 13:5; Gal 2:20; Gal 4:6; Eph 1:13; Eph 4:30; 1 Joh 4:12-15.",
+        "*Lasst euch vom Geist der Wahrheit leiten*: Joh 16:13-14.",
+        "*Viele Villen*: Joh 14:2.",
+        "*Geist spricht nicht von sich selbst*: Joh 16:13b.",
+        "*Neuer Lehrer offenbart alles*: Joh 16:14-15.",
+        "*Sagt, er wird wieder erscheinen*: Joh 16:16.",
+        "*Jesus wird nicht verstanden*: Joh 16:17-18.",
+        "*Muss sterben, wird aber auferstehen*: Mt 16:21; Mt 17:22-23a; Mt 20:17-19; Mt 27:63; Mk 8:31; Mk 9:31; Mk 10:32-34; Lk 9:22,31,43b-44; Lk 18:31-33; Lk 24:7,46; Joh 14:28a; Joh 20:9.",
+        "*Leid verwandelt sich in Jubel*: Joh 16:19-22.",
+        "*Bittet in Jesu Namen*: Joh 16:23-24,26.",
+        "*Jesus wird Klartext reden*: Joh 16:25.",
+        "*Der Mensch kann Gott nicht sehen*: Joh 16:27-28.",
+        "*Apostel begreifen Jesus nicht*: Joh 16:29-31."
     ],
     "paper_title": "Die Abschiedsrede"
 }

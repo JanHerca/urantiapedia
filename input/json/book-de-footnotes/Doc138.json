@@ -129,7 +129,7 @@
                 {
                     "par_ref": "138:3.4",
                     "par_pageref": "1540.7",
-                    "par_content": "Sie kehrten alle ins Haus des Matthäus zurück, wo sie bis zur Stunde des Abendessens viel über Politik und Religion sprachen{3}. Die Familie Levi war seit langem in Geschäften und in der Steuereinziehung tätig; deshalb wären viele der von Matthäus zum Bankett geladenen Gäste von den Pharisäern als „Zöllner und Sünder“ bezeichnet worden."
+                    "par_content": "Sie kehrten alle ins Haus des Matthäus zurück, wo sie bis zur Stunde des Abendessens viel über Politik und Religion sprachen{3}. Die Familie Levi war seit langem in Geschäften und in der Steuereinziehung tätig; deshalb wären viele der von Matthäus zum Bankett geladenen Gäste von den Pharisäern als „Zöllner und Sünder“ bezeichnet worden{4}."
                 },
                 {
                     "par_ref": "138:3.5",
@@ -324,7 +324,7 @@
                 {
                     "par_ref": "138:8.8",
                     "par_pageref": "1545.9",
-                    "par_content": "Jesus erklärte seinen Aposteln den Unterschied zwischen der Buße durch sogenannte gute Werke, wie die Juden sie lehrten, und dem Geisteswandel durch den Glauben — die Neugeburt — den er als Preis für die Aufnahme ins Königreich verlangte{12}. Er lehrte seine Apostel, dass der *Glaube* das einzige Erfordernis zum Eintritt in des Vaters Königreich ist. Johannes hatte sie „Buße“ gelehrt, „um dem kommenden Zorn zu entrinnen“. Jesus lehrte: „Der Glaube ist die offene Tür, um in die gegenwärtige, vollkommene und ewige Liebe Gottes einzutreten.“ Jesus sprach nicht wie ein Prophet, wie einer, der kommt, um Gottes Wort zu verkünden. Er schien von sich selber als einem zu sprechen, der Autorität hat. Jesus suchte ihren Sinn von der Wundersuche weg- und hinzulenken auf das Finden einer wirklichen und persönlichen Erfahrung der Zufriedenheit und Gewissheit, vom göttlichen Geist der Liebe und rettenden Gnade bewohnt zu werden."
+                    "par_content": "Jesus erklärte seinen Aposteln den Unterschied zwischen der Buße durch sogenannte gute Werke, wie die Juden sie lehrten, und dem Geisteswandel durch den Glauben — die Neugeburt — den er als Preis für die Aufnahme ins Königreich verlangte{12}{13}. Er lehrte seine Apostel, dass der *Glaube* das einzige Erfordernis zum Eintritt in des Vaters Königreich ist. Johannes hatte sie „Buße“ gelehrt, „um dem kommenden Zorn zu entrinnen“. Jesus lehrte: „Der Glaube ist die offene Tür, um in die gegenwärtige, vollkommene und ewige Liebe Gottes einzutreten{14}.“ Jesus sprach nicht wie ein Prophet, wie einer, der kommt, um Gottes Wort zu verkünden. Er schien von sich selber als einem zu sprechen, der Autorität hat. Jesus suchte ihren Sinn von der Wundersuche weg- und hinzulenken auf das Finden einer wirklichen und persönlichen Erfahrung der Zufriedenheit und Gewissheit, vom göttlichen Geist der Liebe und rettenden Gnade bewohnt zu werden."
                 },
                 {
                     "par_ref": "138:8.9",
@@ -429,23 +429,23 @@
         }
     ],
     "footnotes": [
-        "*Es gibt keinen Propheten ohne Ehre, außer in seinem Haus*: Mt 13:57; Mc 6:4; Lc 4:24; Jn 4:44.",
-        "*Biblische Namen für die Apostel*: Mt 10:2-4; Mc 3:16-19; Lc 6:14-16; Hch 1:13.",
-        "*Matthäus ausgewählt*: Mt 9:9; Mc 2:14; Lc 5:27-28.",
-        "*Das Festmahl des Matthäus*: Mt 9:10; Mc 2:15; Lc 5:29.",
-        "*Zöllner und Sünder*: Mt 9:10-11; Mt 11:19; Mc 2:15-16; Lc 5:30; Lc 7:34; Lc 15:1.",
-        "*Die Gesunden brauchen keinen Arzt*: Mt 9:11-13; Mc 2:16-17; Lc 5:30-32.",
-        "*Gleichheit für alle, die Gott suchen*: 2 Cr 19:7; Job 34:19; Ec lo 35:12; Hch 10:34; Ro 2:11; Gl 2:6; Gl 3:28; Ef 6:9; Col 3:11.",
-        "*Evangelium des Reiches Gottes*: Mt 4:23; Mt 9:35; Mt 24:14; Mc 1:14-15.",
-        "*Neuer und besserer Weg*: Jn 14:6; Heb 10:20.",
-        "*Apostel sollen Menschenfischer sein*: Mt 4:19; Mc 1:17; Lc 5:10b.",
-        "*Sprich nur, was du hörst; nicht vom Hörensagen*: Jn 8:26; Hch 4:20.",
-        "*Erzählt niemandem, dass Wasser zu Wein wird*: Jn 2:1-11.",
-        "*Tut Buße, flieht den kommenden Zorn*: Mt 3:2,7; Lc 3:3,7.",
-        "*Sinneswandel durch Glauben, der Neugeborene*: Jn 3:3-8; Gl 2:16; Gl 3:2; Stg 2:14.",
-        "*Der Glaube ist die offene Tür*: Mt 17:20; Mt 21:11; Lc 17:6; Hch 14:27.",
-        "*Die Familie sah Jesus als außer sich*: Mc 3:21.",
-        "*Judas trug den Sack*: Jn 12:6; Jn 13:29."
+        "*Es gibt keinen Propheten ohne Ehre, außer in seinem Haus*: Mt 13:57; Mk 6:4; Lk 4:24; Joh 4:44.",
+        "*Biblische Namen für die Apostel*: Mt 10:2-4; Mk 3:16-19; Lk 6:14-16; Apg 1:13.",
+        "*Matthäus ausgewählt*: Mt 9:9; Mk 2:14; Lk 5:27-28.",
+        "*Das Festmahl des Matthäus*: Mt 9:10; Mk 2:15; Lk 5:29.",
+        "*Zöllner und Sünder*: Mt 9:10-11; Mt 11:19; Mk 2:15-16; Lk 5:30; Lk 7:34; Lk 15:1.",
+        "*Die Gesunden brauchen keinen Arzt*: Mt 9:11-13; Mk 2:16-17; Lk 5:30-32.",
+        "*Gleichheit für alle, die Gott suchen*: 2 Chr 19:7; Ijob 34:19; Sir 35:12; Apg 10:34; Röm 2:11; Gal 2:6; Gal 3:28; Eph 6:9; Kol 3:11.",
+        "*Evangelium des Reiches*: Mt 4:23; Mt 9:35; Mt 24:14; Mk 1:14-15.",
+        "*Neuer und besserer Weg*: Joh 14:6; Hebr 10:20.",
+        "*Apostel sollen Menschenfischer sein*: Mt 4:19; Mk 1:17; Lk 5:10b.",
+        "*Sprich nur, was du hörst; nicht vom Hörensagen*: Joh 8:26; Apg 4:20.",
+        "*Erzählt niemandem, dass Wasser zu Wein wird*: Joh 2:1-11.",
+        "*Tut Buße, flieht den kommenden Zorn*: Mt 3:2,7; Lk 3:3,7.",
+        "*Sinneswandel durch Glauben, der Neugeborene*: Joh 3:3-8; Gal 2:16; Gal 3:2; Jak 2:14.",
+        "*Der Glaube ist die offene Tür*: Mt 17:20; Mt 21:11; Lk 17:6; Apg 14:27.",
+        "*Die Familie sah Jesus als außer sich*: Mk 3:21.",
+        "*Judas trug den Sack*: Joh 12:6; Joh 13:29."
     ],
     "paper_title": "Ausbildung der Botschafter des Königreichs"
 }

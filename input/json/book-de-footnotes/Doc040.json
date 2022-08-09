@@ -223,7 +223,7 @@
                 {
                     "par_ref": "40:5.19",
                     "par_pageref": "447.4",
-                    "par_content": "Was die Chancen der Sterblichen für das Fortleben angeht, so lasst uns ein für alle Mal klar machen: Alle Seelen jeder denkbaren sterblichen Existenzphase werden fortleben, vorausgesetzt, sie legen einen Willen zur Zusammenarbeit mit dem ihnen innewohnenden Justierer an den Tag und zeigen den Wunsch, Gott zu finden und göttliche Vollkommenheit zu erreichen, auch wenn solche Wünsche nicht mehr sein sollten als das erste schwache Aufflackern der primitiven Erahnung jenes „wahren Lichts, das in jedem Menschen leuchtet, der auf die Welt kommt“{1}."
+                    "par_content": "Was die Chancen der Sterblichen für das Fortleben angeht, so lasst uns ein für alle Mal klar machen: Alle Seelen jeder denkbaren sterblichen Existenzphase werden fortleben, vorausgesetzt, sie legen einen Willen zur Zusammenarbeit mit dem ihnen innewohnenden Justierer an den Tag und zeigen den Wunsch, Gott zu finden und göttliche Vollkommenheit zu erreichen, auch wenn solche Wünsche nicht mehr sein sollten als das erste schwache Aufflackern der primitiven Erahnung jenes „wahren Lichts, das in jedem Menschen leuchtet, der auf die Welt kommt“{1}{2}."
                 }
             ]
         },
@@ -240,7 +240,7 @@
                 {
                     "par_ref": "40:6.2",
                     "par_pageref": "448.1",
-                    "par_content": "Es ist eine feierliche und himmlische Tatsache, dass solch niedere materielle Geschöpfe wie die menschlichen Wesen Urantias Söhne Gottes sind, Glaubenskinder des Allerhöchsten. „Siehe, welch eine Liebe hat der Vater uns geschenkt, dass wir Söhne Gottes heißen sollen{4}.“ „Allen, die ihn empfingen, gab er die Macht zu erkennen, dass sie Söhne Gottes sind.“ Obwohl „jetzt noch nicht erkennbar ist, was ihr dereinst sein werdet, so seid ihr“ jetzt schon „Söhne Gottes durch den Glauben“; „denn ihr habt nicht den Geist der Sklaverei empfangen, um euch wiederum zu fürchten, sondern ihr habt den Geist der Sohnschaft empfangen, der euch ausrufen lässt: ‚Unser Vater‘“. So sprach der Prophet von einst im Namen des ewigen Gottes: „Sogar ihnen will ich in meinem Hause einen Platz geben und einen Namen, der noch vortrefflicher ist als der von Söhnen; ich will ihnen einen ewigen Namen geben, einen, der nie vergehen wird.“ „Und weil ihr Söhne seid, hat Gott den Geist seines Sohnes in eure Herzen gesandt.“"
+                    "par_content": "Es ist eine feierliche und himmlische Tatsache, dass solch niedere materielle Geschöpfe wie die menschlichen Wesen Urantias Söhne Gottes sind, Glaubenskinder des Allerhöchsten. „Siehe, welch eine Liebe hat der Vater uns geschenkt, dass wir Söhne Gottes heißen sollen{4}.“ „Allen, die ihn empfingen, gab er die Macht zu erkennen, dass sie Söhne Gottes sind{5}.“ Obwohl „jetzt noch nicht erkennbar ist, was ihr dereinst sein werdet, so seid ihr“ jetzt schon „Söhne Gottes durch den Glauben“; „denn ihr habt nicht den Geist der Sklaverei empfangen, um euch wiederum zu fürchten, sondern ihr habt den Geist der Sohnschaft empfangen, der euch ausrufen lässt: ‚Unser Vater‘“{6}{7}{8}. So sprach der Prophet von einst im Namen des ewigen Gottes: „Sogar ihnen will ich in meinem Hause einen Platz geben und einen Namen, der noch vortrefflicher ist als der von Söhnen; ich will ihnen einen ewigen Namen geben, einen, der nie vergehen wird{9}.“ „Und weil ihr Söhne seid, hat Gott den Geist seines Sohnes in eure Herzen gesandt{10}.“"
                 },
                 {
                     "par_ref": "40:6.3",
@@ -458,7 +458,7 @@
                 {
                     "par_ref": "40:10.13",
                     "par_pageref": "454.2",
-                    "par_content": "Deshalb wäre es letztlich kaum angebracht, beim Vergleich der Bestimmungen der aufsteigenden Sohnesordnungen die Ausdrücke „größer“ oder „geringer“ zu gebrauchen. Jeder dieser Gottessöhne hat Anteil an der Vaterschaft Gottes, und Gott liebt jeden seiner erschaffenen Söhne mit gleicher Liebe; er kennt ebenso wenig ein Ansehen der aufsteigenden Bestimmungen wie der Geschöpfe, die etwa solche Bestimmungen erreichen{13}. Der Vater liebt *jeden* seiner Söhne, und diese Zuneigung ist nicht geringer als wahr, heilig, göttlich, grenzenlos, ewig und einmalig — eine Liebe, die er *diesem* und *jenem* Sohn schenkt, individuell, persönlich und ausschließlich. Und eine derartige Liebe lässt alle anderen Tatsachen völlig in den Hintergrund treten. Die Sohnschaft ist die allerhöchste Beziehung des Geschöpfes zum Schöpfer."
+                    "par_content": "Deshalb wäre es letztlich kaum angebracht, beim Vergleich der Bestimmungen der aufsteigenden Sohnesordnungen die Ausdrücke „größer“ oder „geringer“ zu gebrauchen. Jeder dieser Gottessöhne hat Anteil an der Vaterschaft Gottes, und Gott liebt jeden seiner erschaffenen Söhne mit gleicher Liebe; er kennt ebenso wenig ein Ansehen der aufsteigenden Bestimmungen wie der Geschöpfe, die etwa solche Bestimmungen erreichen{13}{14}. Der Vater liebt *jeden* seiner Söhne, und diese Zuneigung ist nicht geringer als wahr, heilig, göttlich, grenzenlos, ewig und einmalig — eine Liebe, die er *diesem* und *jenem* Sohn schenkt, individuell, persönlich und ausschließlich. Und eine derartige Liebe lässt alle anderen Tatsachen völlig in den Hintergrund treten. Die Sohnschaft ist die allerhöchste Beziehung des Geschöpfes zum Schöpfer."
                 },
                 {
                     "par_ref": "40:10.14",
@@ -474,21 +474,21 @@
         }
     ],
     "footnotes": [
-        "*Ihr seid ein wenig niedriger als die Engel*: Sal 8:5; Heb 2:7.",
-        "*Wahres Licht*: Is 9:2; Is 49:6; Mt 4:16; Lc 1:79; Lc 2:32; Jn 1:4-9; Jn 8:12; Jn 9:5; Jn 12:35-36,46; 1 Jn 2:8.",
-        "*Wahres Licht, das alles erleuchtet*: Jn 1:9.",
-        "*Glaube, Söhne Gottes*: 1 Cr 22:10; Sal 2:7; Is 56:5; Mt 5:9,16,45; Lc 20:36; Jn 1:12-13; Jn 11:52; Hch 17:28-29; Ro 8:14-17,19,21; Ro 9:26; 2 Co 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Flp 2:15; Heb 12:5-8; 1 Jn 3:1-2,10; 1 Jn 5:2; Ap 21:7; 2 Sam 7:14.",
-        "*Seht, was für eine Liebe*: 1 Jn 3:1.",
-        "*Nehmt Jesus auf*: Jn 1:12.",
-        "*Noch erscheint nicht, was sein wird*: 1 Jn 3:2.",
-        "*Jetzt seid ihr Söhne des Glaubens*: Gl 3:26.",
-        "*Empfangener Geist der Sohnschaft*: Ro 8:15.",
-        "*Ich gebe den ewigen Namen*: Is 56:5.",
-        "*Geist des Sohnes in euren Herzen*: Gl 4:6.",
-        "*Seid ihr vollkommen*: Gn 17:1; 1 Re 8:61; Lv 19:2; Dt 18:13; Mt 5:48; 2 Co 13:11; Stg 1:4; 1 P 1:16.",
-        "*Siebzig mal sieben*: Mt 18:22; Lc 17:3-4.",
-        "*Gottes Liebe zu den Söhnen*: Jn 3:16; 1 Jn 3:1; 1 Jn 4:9-10.",
-        "*Gott sieht die Person nicht an*: 2 Cr 19:7; Job 34:19; Ec lo 35:12; Hch 10:34; Ro 2:11; Gl 2:6; Gl 3:28; Ef 6:9; Col 3:11."
+        "*Ihr seid ein wenig niedriger als die Engel*: Ps 8:5; Hebr 2:7.",
+        "*Wahres Licht*: Jes 9:2; Jes 49:6; Mt 4:16; Lk 1:79; Lk 2:32; Joh 1:4-9; Joh 8:12; Joh 9:5; Joh 12:35-36,46; 1 Joh 2:8.",
+        "*Wahres Licht, das alles erleuchtet*: Joh 1:9.",
+        "*Glaube, Söhne Gottes*: 1 Chr 22:10; Ps 2:7; Jes 56:5; Mt 5:9,16,45; Lk 20:36; Joh 1:12-13; Joh 11:52; Apg 17:28-29; Röm 8:14-17,19,21; Röm 9:26; 2 Kor 6:18; Gal 3:26; Gal 4:5-7; Eph 1:5; Phil 2:15; Hebr 12:5-8; 1 Joh 3:1-2,10; 1 Joh 5:2; Offb 21:7; 2 Sam 7:14.",
+        "*Seht, was für eine Liebe*: 1 Joh 3:1.",
+        "*Nehmt Jesus auf*: Joh 1:12.",
+        "*Noch erscheint nicht, was sein wird*: 1 Joh 3:2.",
+        "*Jetzt seid ihr Söhne des Glaubens*: Gal 3:26.",
+        "*Empfangener Geist der Sohnschaft*: Röm 8:15.",
+        "*Ich gebe den ewigen Namen*: Jes 56:5.",
+        "*Geist des Sohnes in euren Herzen*: Gal 4:6.",
+        "*Be you perfect*: 1 Mose 17:1; 1 Kön 8:61; 3 Mose 19:2; 5 Mose 18:13; Mt 5:48; 2 Kor 13:11; Jak 1:4; 1 Petr 1:16.",
+        "*Siebzig mal sieben*: Mt 18:22; Lk 17:3-4.",
+        "*Gottes Liebe zu den Söhnen*: Joh 3:16; 1 Joh 3:1; 1 Joh 4:9-10.",
+        "*Gott hat kein Ansehen der Person*: 2 Chr 19:7; Ijob 34:19; Sir 35:12; Apg 10:34; Röm 2:11; Gal 2:6; Gal 3:28; Eph 6:9; Kol 3:11."
     ],
     "paper_title": "Die aufsteigenden Söhne Gottes"
 }

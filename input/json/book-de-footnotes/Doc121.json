@@ -25,7 +25,7 @@
                 {
                     "par_ref": "121:1.2",
                     "par_pageref": "1332.3",
-                    "par_content": "Dieses ganze Ineinandergreifen von Welteinflüssen wird durch das Wirken des Paulus gut veranschaulicht, der, seiner religiösen Kultur nach ein Hebräer unter den Hebräern, das Evangelium eines jüdischen Messias in griechischer Sprache verkündete, während er selber ein römischer Bürger war{0}."
+                    "par_content": "Dieses ganze Ineinandergreifen von Welteinflüssen wird durch das Wirken des Paulus gut veranschaulicht, der, seiner religiösen Kultur nach ein Hebräer unter den Hebräern, das Evangelium eines jüdischen Messias in griechischer Sprache verkündete, während er selber ein römischer Bürger war{0}{1}{2}."
                 },
                 {
                     "par_ref": "121:1.3",
@@ -92,7 +92,7 @@
                 {
                     "par_ref": "121:2.5",
                     "par_pageref": "1333.7",
-                    "par_content": "Jede jüdische Synagoge duldete eine kleine Zahl nichtjüdischer Glaubensbrüder, „devoter“ oder „gottesfürchtiger“ Menschen, und gerade aus den Reihen dieser Proselyten gewann Paulus die meisten seiner früh zum Christentum Bekehrten{3}. Sogar der Tempel in Jerusalem besaß seinen reich geschmückten Hof der Heiden. Zwischen der Kultur, dem Handel und dem Kult von Jerusalem und Antiochia bestanden sehr enge Bande. Die Anhänger von Paulus wurden zuerst in Antiochia „Christen“ genannt."
+                    "par_content": "Jede jüdische Synagoge duldete eine kleine Zahl nichtjüdischer Glaubensbrüder, „devoter“ oder „gottesfürchtiger“ Menschen, und gerade aus den Reihen dieser Proselyten gewann Paulus die meisten seiner früh zum Christentum Bekehrten{3}{4}. Sogar der Tempel in Jerusalem besaß seinen reich geschmückten Hof der Heiden. Zwischen der Kultur, dem Handel und dem Kult von Jerusalem und Antiochia bestanden sehr enge Bande. Die Anhänger von Paulus wurden zuerst in Antiochia „Christen“ genannt{5}."
                 },
                 {
                     "par_ref": "121:2.6",
@@ -206,7 +206,7 @@
                 {
                     "par_ref": "121:4.3",
                     "par_pageref": "1336.1",
-                    "par_content": "2. *Die Stoiker.* Der Stoizismus war die höhere Philosophie der gehobenen Klassen. Die Stoiker glaubten, ein lenkendes, vernünftiges Schicksal beherrsche die ganze Natur. Sie lehrten, dass die Seele des Menschen göttlich sei, aber im schlechten Körper physischer Natur gefangen gehalten werde, und dass sie durch ein Leben in Harmonie mit der Natur, mit Gott, zur Freiheit gelange. So wurde die Tugend zu ihrer eigenen Belohnung. Der Stoizismus erhob sich zu einer sublimen Sittlichkeit und zu Idealen, welche seither nie von irgendeinem rein menschlichen philosophischen System übertroffen worden sind. Obgleich die Stoiker verkündeten, „von Gott abzustammen“, gelang es ihnen nicht, Gott zu kennen, und deshalb auch nicht, zu ihm zu finden{9}. Der Stoizismus blieb eine Philosophie und wurde nie zu einer Religion. Seine Anhänger bemühten sich, ihr Denken auf die Harmonie des Universalen Verstandes einzustimmen, aber es war ihnen versagt, sich selber als die Kinder eines liebenden Vaters zu sehen. Paulus lehnte sich stark an den Stoizismus an, als er schrieb: „Ich habe gelernt, in welcher Lage ich mich auch immer befinden mag, mit dieser zufrieden zu sein.“"
+                    "par_content": "2. *Die Stoiker.* Der Stoizismus war die höhere Philosophie der gehobenen Klassen. Die Stoiker glaubten, ein lenkendes, vernünftiges Schicksal beherrsche die ganze Natur. Sie lehrten, dass die Seele des Menschen göttlich sei, aber im schlechten Körper physischer Natur gefangen gehalten werde, und dass sie durch ein Leben in Harmonie mit der Natur, mit Gott, zur Freiheit gelange. So wurde die Tugend zu ihrer eigenen Belohnung. Der Stoizismus erhob sich zu einer sublimen Sittlichkeit und zu Idealen, welche seither nie von irgendeinem rein menschlichen philosophischen System übertroffen worden sind. Obgleich die Stoiker verkündeten, „von Gott abzustammen“, gelang es ihnen nicht, Gott zu kennen, und deshalb auch nicht, zu ihm zu finden{9}. Der Stoizismus blieb eine Philosophie und wurde nie zu einer Religion. Seine Anhänger bemühten sich, ihr Denken auf die Harmonie des Universalen Verstandes einzustimmen, aber es war ihnen versagt, sich selber als die Kinder eines liebenden Vaters zu sehen. Paulus lehnte sich stark an den Stoizismus an, als er schrieb: „Ich habe gelernt, in welcher Lage ich mich auch immer befinden mag, mit dieser zufrieden zu sein{10}.“"
                 },
                 {
                     "par_ref": "121:4.4",
@@ -283,7 +283,7 @@
                 {
                     "par_ref": "121:5.11",
                     "par_pageref": "1337.7",
-                    "par_content": "4. Aber ungeachtet der Natur ihrer Zeremonien oder des Grades ihrer Auswüchse versprachen diese Mysterien ihren Anhängern ausnahmslos *Rettung,* „Erlösung vom Bösen, Fortleben nach dem Tode und dauerndes Leben in glücklichen Gefilden jenseits dieser Welt der Trübsal und Sklaverei“{11}."
+                    "par_content": "4. Aber ungeachtet der Natur ihrer Zeremonien oder des Grades ihrer Auswüchse versprachen diese Mysterien ihren Anhängern ausnahmslos *Rettung,* „Erlösung vom Bösen, Fortleben nach dem Tode und dauerndes Leben in glücklichen Gefilden jenseits dieser Welt der Trübsal und Sklaverei“{11}{12}{13}{14}."
                 },
                 {
                     "par_ref": "121:5.12",
@@ -402,7 +402,7 @@
                 {
                     "par_ref": "121:7.5",
                     "par_pageref": "1340.3",
-                    "par_content": "Diese Umstände machten es den Juden unmöglich, ihre göttliche Bestimmung als Boten des neuen Evangeliums religiöser Befreiung und geistiger Freiheit zu erfüllen. Sie konnten die Fesseln der Tradition nicht sprengen. Jeremia hatte vom „Gesetz, das ins Herz der Menschen geschrieben werden sollte“, gesprochen, Hesekiel von einem „neuen Geist, der in des Menschen Seele wohnen sollte“, und der Psalmist hatte gebetet: „Gott, schaffe in mir ein reines Herz und gib mir einen neuen Geist“{15}. Aber als die jüdische Religion der guten Werke und der Knechtschaft gegenüber dem Gesetz ein Opfer der Stagnation und der erstarrten Tradition wurde, verlagerte sich die Bewegung der religiösen Evolution westwärts zu den europäischen Völkern."
+                    "par_content": "Diese Umstände machten es den Juden unmöglich, ihre göttliche Bestimmung als Boten des neuen Evangeliums religiöser Befreiung und geistiger Freiheit zu erfüllen. Sie konnten die Fesseln der Tradition nicht sprengen. Jeremia hatte vom „Gesetz, das ins Herz der Menschen geschrieben werden sollte“, gesprochen, Hesekiel von einem „neuen Geist, der in des Menschen Seele wohnen sollte“, und der Psalmist hatte gebetet: „Gott, schaffe in mir ein reines Herz und gib mir einen neuen Geist“{15}. Aber als die jüdische Religion der guten Werke und der Knechtschaft gegenüber dem Gesetz ein Opfer der Stagnation und der erstarrten Tradition wurde, verlagerte sich die Bewegung der religiösen Evolution westwärts zu den europäischen Völkern{16}{17}."
                 },
                 {
                     "par_ref": "121:7.6",
@@ -464,7 +464,7 @@
                 {
                     "par_ref": "121:8.4",
                     "par_pageref": "1341.5",
-                    "par_content": "2. *Das Matthäusevangelium.* Das sogenannte Matthäusevangelium ist die für die Erbauung jüdischer Christen geschriebene Aufzeichnung des Lebens des Meisters. Ihr Verfasser sucht ständig zu zeigen, dass vieles, was Jesus in seinem Leben tat, geschah, auf dass „die Worte des Propheten in Erfüllung gingen“{18}. Das Matthäusevangelium zeichnet ein Bild von Jesus als Sohn Davids, der dem Gesetz und den Propheten große Achtung zollt."
+                    "par_content": "2. *Das Matthäusevangelium.* Das sogenannte Matthäusevangelium ist die für die Erbauung jüdischer Christen geschriebene Aufzeichnung des Lebens des Meisters. Ihr Verfasser sucht ständig zu zeigen, dass vieles, was Jesus in seinem Leben tat, geschah, auf dass „die Worte des Propheten in Erfüllung gingen“{18}. Das Matthäusevangelium zeichnet ein Bild von Jesus als Sohn Davids, der dem Gesetz und den Propheten große Achtung zollt{19}."
                 },
                 {
                     "par_ref": "121:8.5",
@@ -484,7 +484,7 @@
                 {
                     "par_ref": "121:8.8",
                     "par_pageref": "1342.3",
-                    "par_content": "3. *Das Lukasevangelium.* Der Arzt Lukas aus Antiochia in Pisidien war ein durch Paulus bekehrter Heide, der eine ganz andere Lebensgeschichte des Meisters schrieb. Im Jahre 47 begann er, Paulus zu folgen und Leben und Lehre Jesu zu studieren. Lukas, der die Tatsachen von Paulus und anderen zusammentrug, bewahrt in seinem Bericht viel von der „Anmut des Herrn Jesus Christus“{20}. Lukas beschreibt den Meister als „Freund von Zöllnern und Sündern“. Er gab seinen vielen Aufzeichnungen erst nach Paulus‘ Tod die Form des Evangeliums, das er in Achaia im Jahre 82 niederschrieb. Er plante drei Bücher über die Geschichte Christi und der Christenheit, aber er starb anno 90 gerade vor der Vollendung des zweiten dieser Werke, der „Apostelgeschichte“."
+                    "par_content": "3. *Das Lukasevangelium.* Der Arzt Lukas aus Antiochia in Pisidien war ein durch Paulus bekehrter Heide, der eine ganz andere Lebensgeschichte des Meisters schrieb. Im Jahre 47 begann er, Paulus zu folgen und Leben und Lehre Jesu zu studieren. Lukas, der die Tatsachen von Paulus und anderen zusammentrug, bewahrt in seinem Bericht viel von der „Anmut des Herrn Jesus Christus“{20}. Lukas beschreibt den Meister als „Freund von Zöllnern und Sündern“{21}. Er gab seinen vielen Aufzeichnungen erst nach Paulus‘ Tod die Form des Evangeliums, das er in Achaia im Jahre 82 niederschrieb. Er plante drei Bücher über die Geschichte Christi und der Christenheit, aber er starb anno 90 gerade vor der Vollendung des zweiten dieser Werke, der „Apostelgeschichte“."
                 },
                 {
                     "par_ref": "121:8.9",
@@ -520,28 +520,28 @@
         }
     ],
     "footnotes": [
-        "*Paulus, ein Hebräer aus Hebräern*: 2 Co 11:22; Flp 3:5.",
-        "*Paulus sprach in griechischer Sprache*: Hch 21:37-40; Hch 22:2-3.",
-        "*Paulus war ein römischer Bürger*: Hch 16:37-39; Hch 22:24-29.",
-        "*„Fromme“ Nichtjuden*: Hch 10:7; Hch 17:4,17.",
-        "*„Gottesfürchtige“ Heiden*: Hch 10:2,22.",
-        "*Wurden in Antiochia erstmals „Christen“ genannt*: Hch 11:26.",
-        "*Die meisten Juden erwarteten den Messias*: Lc 3:15.",
-        "*Auserwähltes Volk*: 1 Re 3:8; 1 Cr 17:21-22; Sal 33:12; Sal 105:6,43; Sal 135:4; Is 41:8-9; Is 43:21; Is 44:1; Dt 7:6; Dt 14:2.",
-        "*Herodes der König*: Mt 2:1; Lc 1:5a.",
-        "*Stoiker „Nachkommen Gottes“*: Hch 17:28-29.",
-        "*Lerne, zufrieden zu sein*: Flp 4:11.",
-        "*Erlösung vom Bösen*: Job 5:19; Sal 140:1; Pr 2:12; Mt 6:13; Lc 11:4; Gl 1:4; 2 Ti 4:18.",
-        "*Überleben des Todes: Auferstehung*: Mt 22:30-33; Mt 27:52-53; Mc 12:24-27; Lc 14:14; Lc 20:35-38; Jn 5:28-29.",
-        "*Glückselige Gefilde*: Jn 14:2-3; Ap 3:12; Ap 21:2-4.",
-        "*Leben nach dem Tod*: Dn 12:2; Mt 19:16,29; Mt 25:46; Mc 10:17,30; Lc 10:25; Lc 18:18,30; Jn 3:15-16,36; Jn 4:14,36; Jn 5:24,39; Jn 6:27,40,47; Jn 6:54,68; Jn 8:51-52; Jn 10:28; Jn 11:25-26; Jn 12:25,50; Jn 17:2-3; Hch 13:46-48; Ro 2:7; Ro 5:21; Ro 6:22-23; Gl 6:8; 1 Ti 1:16; 1 Ti 6:12,19; Tit 1:2; Tit 3:7; 1 Jn 1:2; 1 Jn 2:25; 1 Jn 3:15; 1 Jn 5:11,13,20; Jud 1:21; Ap 22:5.",
+        "*Paulus, ein Hebräer aus Hebräern*: 2 Kor 11:22; Phil 3:5.",
+        "*Paulus sprach in griechischer Sprache*: Apg 21:37-40; Apg 22:2-3.",
+        "*Paulus war ein römischer Bürger*: Apg 16:37-39; Apg 22:24-29.",
+        "*„Fromme“ Nichtjuden*: Apg 10:7; Apg 17:4,17.",
+        "*„Gottesfürchtige“ Heiden*: Apg 10:2,22.",
+        "*Wurden in Antiochia erstmals „Christen“ genannt*: Apg 11:26.",
+        "*Die meisten Juden erwarteten den Messias*: Lk 3:15.",
+        "*Auserwähltes Volk*: 1 Kön 3:8; 1 Chr 17:21-22; Ps 33:12; Ps 105:6,43; Ps 135:4; Jes 41:8-9; Jes 43:21; Jes 44:1; 5 Mose 7:6; 5 Mose 14:2.",
+        "*Herodes der König*: Mt 2:1; Lk 1:5a.",
+        "*Stoiker „Nachkommen Gottes“*: Apg 17:28-29.",
+        "*Lerne, zufrieden zu sein*: Phil 4:11.",
+        "*Erlösung vom Bösen*: Ijob 5:19; Ps 140:1; Spr 2:12; Mt 6:13; Lk 11:4; Gal 1:4; 2 Tim 4:18.",
+        "*Überleben des Todes: Auferstehung*: Mt 22:30-33; Mt 27:52-53; Mk 12:24-27; Lk 14:14; Lk 20:35-38; Joh 5:28-29.",
+        "*Glückselige Gefilde*: Joh 14:2-3; Offb 3:12; Offb 21:2-4.",
+        "*Leben nach dem Tod*: Dan 12:2; Mt 19:16,29; Mt 25:46; Mk 10:17,30; Lk 10:25; Lk 18:18,30; Joh 3:15-16,36; Joh 4:14,36; Joh 5:24,39; Joh 6:27,40,47; Joh 6:54,68; Joh 8:51-52; Joh 10:28; Joh 11:25-26; Joh 12:25,50; Joh 17:2-3; Apg 13:46-48; Röm 2:7; Röm 5:21; Röm 6:22-23; Gal 6:8; 1 Tim 1:16; 1 Tim 6:12,19; Tit 1:2; Tit 3:7; 1 Joh 1:2; 1 Joh 2:25; 1 Joh 3:15; 1 Joh 5:11,13,20; Jud 1:21; Offb 22:5.",
         "*Gesetz in die Herzen der Menschen geschrieben*: Jer 31:33; Jer 32:40.",
-        "*Neuer Geist, lebe in den Herzen der Menschen*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15.",
-        "*Schaffe reines Herz, neuen Geist*: Sal 51:10.",
-        "*Prophezeiung 1) Eine Jungfrau wird schwanger werden und einen Sohn gebären, und sie wird seinen Namen Immanuel nennen*: Is 7:14: Mt 1:22-23. *Prophezeiung 2) Aus Bethlehem wird der Messias kommen*: Mic 5:2: Mt 2:5-6. *Prophezeiung 3) Ich rief meinen Sohn aus Ägypten*: Ho 11:1: Mt 2:15. *Prophezeiung 4) Eine Stimme wird in Rama gehört*: Jer 31:15: Mt 2:17-18. *Prophezeiung 5) Er wird Nasiräer genannt werden*: Jg 13:5: Mt 2:23. *Prophezeiung 6) Die Leute von Sebulon und Naftali haben ein großes Licht gesehen*: Is 9:1-2: Mt 4:14-16. *Prophezeiung 7) Er hat unseren Kummer getragen*: Is 53:4: Mt 8:17. *Prophezeiung 8: Siehe, mein Knecht, den ich erwählt habe*: Is 42:1-4: Mt 12:17-21. *Prophezeiung 9) Ihr hört zwar, aber ihr versteht nicht*: Is 6:9-10: Mt 13:14. *Prophezeiung 10) Ich werde meinen Mund in einem Gleichnis öffnen*: Ps 78:2: Mt 13:35. *Weissagung 11) Der König reitet auf einem Esel*: Zec 9:9: Mt 21:4-5. *Prophezeiung 12: Sie haben mir dreißig Silberstücke für meinen Dienst gewogen*: Zec 11:12: Mt 27:9-10. *Prophezeiung 13) Sie teilen meine Kleider unter sich auf*: Ps 22:18: Mt 27:35.",
+        "*Neuer Geist, lebe in den Herzen der Menschen*: Hes 11:19; Hes 18:31; Hes 36:26-27; Joel 2:28-29; Lk 24:49; Joh 7:39; Joh 14:16-18,23,26; Joh 15:4,26; Joh 16:7-8,13-14; Joh 17:21-23; Apg 1:5,8a; Apg 2:1-4,16-18; Apg 2:33; 2 Kor 13:5; Gal 2:20; Gal 4:6; Eph 1:13; Eph 4:30; 1 Joh 4:12-15.",
+        "*Schaffe reines Herz, neuen Geist*: Ps 51:10.",
+        "*Prophezeiung 1) Eine Jungfrau wird schwanger werden und einen Sohn gebären, und sie wird seinen Namen Immanuel nennen*: Jes 7:14: Mt 1:22-23. *Prophezeiung 2) Aus Bethlehem wird der Messias kommen*: Mi 5:2: Mt 2:5-6. *Prophezeiung 3) Ich rief meinen Sohn aus Ägypten*: Hos 11:1: Mt 2:15. *Prophezeiung 4) Eine Stimme wird in Rama gehört*: Jer 31:15: Mt 2:17-18. *Prophezeiung 5) Er wird Nasiräer genannt werden*: Ri 13:5: Mt 2:23. *Prophezeiung 6) Die Leute von Sebulon und Naftali haben ein großes Licht gesehen*: Jes 9:1-2: Mt 4:14-16. *Prophezeiung 7) Er hat unseren Kummer getragen*: Jes 53:4: Mt 8:17. *Prophezeiung 8: Siehe, mein Knecht, den ich erwählt habe*: Jes 42:1-4: Mt 12:17-21. *Prophezeiung 9) Ihr hört zwar, aber ihr versteht nicht*: Jes 6:9-10: Mt 13:14. *Prophezeiung 10) Ich werde meinen Mund in einem Gleichnis öffnen*: Ps 78:2: Mt 13:35. *Weissagung 11) Der König reitet auf einem Esel*: Sach 9:9: Mt 21:4-5. *Prophezeiung 12: Sie haben mir dreißig Silberstücke für meinen Dienst gewogen*: Sach 11:12: Mt 27:9-10. *Prophezeiung 13) Sie teilen meine Kleider unter sich auf*: Ps 22:18: Mt 27:35.",
         "*Abstammung von David*: Mt 1:1,6-17; Mt 9:27; Mt 12:23; Mt 15:22; Mt 20:30-31; Mt 21:9,15; Mt 22:42.",
-        "*Gnade des Herrn Jesus Christus*: Lc 2:40; Hch 11:23; Hch 13:43; Hch 14:3,26; Hch 15:11,40; Hch 18:27; Hch 20:24,32; 1 Co 13:14.",
-        "*Freund der Zöllner und Sünder*: Lc 5:29-30; Lc 7:29,34; Lc 15:1-2; Lc 19:2-6."
+        "*Gnade des Herrn Jesus Christus*: Lk 2:40; Apg 11:23; Apg 13:43; Apg 14:3,26; Apg 15:11,40; Apg 18:27; Apg 20:24,32; 1 Kor 13:14.",
+        "*Freund der Zöllner und Sünder*: Lk 5:29-30; Lk 7:29,34; Lk 15:1-2; Lk 19:2-6."
     ],
     "paper_title": "Die Epoche der Selbsthingabe Michaels"
 }

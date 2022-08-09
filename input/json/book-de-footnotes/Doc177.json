@@ -144,7 +144,7 @@
                 {
                     "par_ref": "177:3.7",
                     "par_pageref": "1924.3",
-                    "par_content": "Während sich all dies im Lager abspielte, wunderten sich die Hohenpriester und Ältesten in Jerusalem darüber, dass Jesus nicht zurückkehrte, um zu der Menge zu sprechen. Allerdings hatte er tags zuvor beim Verlassen des Tempels gesagt: „Ich lasse euch euer Haus verödet zurück{1}.“ Aber sie konnten nicht verstehen, wieso er willens war, auf den großen Vorteil der freundlichen Haltung der Menge, den er sich verschafft hatte, zu verzichten. Obwohl sie befürchteten, er könnte im Volk einen Aufruhr entfesseln, waren des Meisters letzte Worte an die Menge eine Mahnung gewesen, sich auf jede vernünftige Weise der Autorität derer zu fügen, „die auf Mose Thron sitzen“. Aber es war ein geschäftiger Tag in der Stadt, da sie gleichzeitig das Passahfest vorbereiteten und ihre Pläne für Jesu Beseitigung fertigstellten."
+                    "par_content": "Während sich all dies im Lager abspielte, wunderten sich die Hohenpriester und Ältesten in Jerusalem darüber, dass Jesus nicht zurückkehrte, um zu der Menge zu sprechen. Allerdings hatte er tags zuvor beim Verlassen des Tempels gesagt: „Ich lasse euch euer Haus verödet zurück{1}.“ Aber sie konnten nicht verstehen, wieso er willens war, auf den großen Vorteil der freundlichen Haltung der Menge, den er sich verschafft hatte, zu verzichten. Obwohl sie befürchteten, er könnte im Volk einen Aufruhr entfesseln, waren des Meisters letzte Worte an die Menge eine Mahnung gewesen, sich auf jede vernünftige Weise der Autorität derer zu fügen, „die auf Mose Thron sitzen“{2}. Aber es war ein geschäftiger Tag in der Stadt, da sie gleichzeitig das Passahfest vorbereiteten und ihre Pläne für Jesu Beseitigung fertigstellten."
                 },
                 {
                     "par_ref": "177:3.8",
@@ -161,7 +161,7 @@
                 {
                     "par_ref": "177:4.1",
                     "par_pageref": "1924.5",
-                    "par_content": "Kurz nachdem Jesus und Johannes Markus das Lager verlassen hatten, verschwand Judas Iskariot aus dem Kreise seiner Brüder und kehrte erst spät am Nachmittag wieder zurück. Der verwirrte und unzufriedene Apostel hastete trotz des ausdrücklichen Wunsches seines Meisters, sie sollten Jerusalem nicht betreten, zu seiner Verabredung mit Jesu Feinden ins Haus des Hohenpriesters Kajaphas{3}. Dies war ein inoffizielles Treffen des Sanhedrins, das für kurz nach zehn Uhr an diesem Vormittag angesetzt worden war, um über die Art der Anklagen zu befinden, die gegen Jesus erhoben werden sollten, und über das anzuwendende Vorgehen zu entscheiden, wie man ihn vor die römischen Behörden bringen und sich die notwendige zivile Bestätigung des Todesurteils beschaffen könne, das sie bereits über ihn verhängt hatten."
+                    "par_content": "Kurz nachdem Jesus und Johannes Markus das Lager verlassen hatten, verschwand Judas Iskariot aus dem Kreise seiner Brüder und kehrte erst spät am Nachmittag wieder zurück. Der verwirrte und unzufriedene Apostel hastete trotz des ausdrücklichen Wunsches seines Meisters, sie sollten Jerusalem nicht betreten, zu seiner Verabredung mit Jesu Feinden ins Haus des Hohenpriesters Kajaphas{3}. Dies war ein inoffizielles Treffen des Sanhedrins, das für kurz nach zehn Uhr an diesem Vormittag angesetzt worden war, um über die Art der Anklagen zu befinden, die gegen Jesus erhoben werden sollten, und über das anzuwendende Vorgehen zu entscheiden, wie man ihn vor die römischen Behörden bringen und sich die notwendige zivile Bestätigung des Todesurteils beschaffen könne, das sie bereits über ihn verhängt hatten.{4}"
                 },
                 {
                     "par_ref": "177:4.2",
@@ -259,15 +259,15 @@
         }
     ],
     "footnotes": [
-        "*Pray “Our Father”*: Lc 11:2.",
-        "*Leave house desolate*: Mt 23:38; Lc 13:35.",
+        "*Pray “Our Father”*: Lk 11:2.",
+        "*Leave house desolate*: Mt 23:38; Lk 13:35.",
         "*Those who sit in Moses' seat*: Mt 23:2.",
-        "*Judas goes to Caiaphas' house*: Mt 26:14; Mc 14:10; Lc 22:4a.",
-        "*Meeting Sanhedrin at Caiaphas'*: Mt 26:3-4; Mc 14:1b; Lc 22:2.",
-        "*Prince of devils*: Mt 9:34; Mt 10:25; Mt 12:24,27; Mc 3:22; Lc 11:15,18-19.",
-        "*Fear of multitudes*: Mt 26:5; Mc 14:2; Lc 22:2b.",
+        "*Judas goes to Caiaphas' house*: Mt 26:14; Mk 14:10; Lk 22:4a.",
+        "*Meeting Sanhedrin at Caiaphas'*: Mt 26:3-4; Mk 14:1b; Lk 22:2.",
+        "*Prince of devils*: Mt 9:34; Mt 10:25; Mt 12:24,27; Mk 3:22; Lk 11:15,18-19.",
+        "*Fear of multitudes*: Mt 26:5; Mk 14:2; Lk 22:2b.",
         "*Judas asks “How much?”*: Mt 26:15a.",
-        "*“Reward” when betray Jesus*: Mt 26:16; Mc 14:11; Lc 22:4-6."
+        "*“Reward” when betray Jesus*: Mt 26:16; Mk 14:11; Lk 22:4-6."
     ],
     "paper_title": "Mittwoch, der Ruhetag"
 }

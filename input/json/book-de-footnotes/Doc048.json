@@ -60,7 +60,7 @@
                 {
                     "par_ref": "48:1.7",
                     "par_pageref": "542.4",
-                    "par_content": "Paulus erfuhr von der Existenz der morontiellen Welten und von der Realität der morontiellen Stoffe, denn er schrieb: „Sie haben im Himmel eine bessere und dauerhaftere Substanz{0}.“ Diese materiellen Stoffe gibt es wirklich, buchstäblich, wie in „der Stadt mit den Grundmauern, deren Erbauer und Schöpfer Gott ist.“ Und jede dieser wunderbaren Sphären ist „ein besseres Land, nämlich ein himmlisches.“"
+                    "par_content": "Paulus erfuhr von der Existenz der morontiellen Welten und von der Realität der morontiellen Stoffe, denn er schrieb: „Sie haben im Himmel eine bessere und dauerhaftere Substanz{0}.“ Diese materiellen Stoffe gibt es wirklich, buchstäblich, wie in „der Stadt mit den Grundmauern, deren Erbauer und Schöpfer Gott ist{1}.“ Und jede dieser wunderbaren Sphären ist „ein besseres Land, nämlich ein himmlisches{2}.“"
                 }
             ]
         },
@@ -505,7 +505,7 @@
                 {
                     "par_ref": "48:6.8",
                     "par_pageref": "552.6",
-                    "par_content": "Sogar auf Urantia raten sie den menschlichen Lehrern der Wahrheit und Rechtschaffenheit, sich an die Predigt „der Güte Gottes, die zur Reue führt“ zu halten und „die Liebe Gottes, die alle Furcht austreibt“ zu verkünden{5}. Und diese Wahrheiten sind auf eurer Welt auch in folgender Weise verkündet worden:"
+                    "par_content": "Sogar auf Urantia raten sie den menschlichen Lehrern der Wahrheit und Rechtschaffenheit, sich an die Predigt „der Güte Gottes, die zur Reue führt“ zu halten und „die Liebe Gottes, die alle Furcht austreibt“ zu verkünden{5}{6}. Und diese Wahrheiten sind auf eurer Welt auch in folgender Weise verkündet worden:{7}"
                 },
                 {
                     "par_ref": "48:6.9",
@@ -580,7 +580,7 @@
                 {
                     "par_ref": "48:6.23",
                     "par_pageref": "553.4",
-                    "par_content": "Ihr solltet über die Bezeichnungen „Himmel“ und „Himmel der Himmel“ nachdenken{8}. Der Himmel, den die meisten eurer Propheten ins Auge fassten, war die erste der Residenzwelten des Lokaluniversums. Als der Apostel davon sprach, „in den dritten Himmel entrückt worden zu sein“, bezog er sich auf ein Erlebnis, bei welchem sich sein Justierer während des Schlafs von ihm getrennt hatte und in diesem ungewöhnlichen Zustand eine Projektion auf die dritte der sieben Residenzwelten vorgenommen hatte. Einigen eurer Weisen wurde eine Vision des größeren Himmels, „des Himmels der Himmel“, zuteil. Darin stellten die sieben Residenzwelten nur die erste Erfahrung dar, die zweite war Jerusem, die dritte Edentia mit seinen Satelliten, die vierte Salvington und die es umringenden Erziehungssphären, die fünfte Uversa, die sechste Havona und die siebente das Paradies."
+                    "par_content": "Ihr solltet über die Bezeichnungen „Himmel“ und „Himmel der Himmel“ nachdenken{8}. Der Himmel, den die meisten eurer Propheten ins Auge fassten, war die erste der Residenzwelten des Lokaluniversums. Als der Apostel davon sprach, „in den dritten Himmel entrückt worden zu sein“, bezog er sich auf ein Erlebnis, bei welchem sich sein Justierer während des Schlafs von ihm getrennt hatte und in diesem ungewöhnlichen Zustand eine Projektion auf die dritte der sieben Residenzwelten vorgenommen hatte{9}. Einigen eurer Weisen wurde eine Vision des größeren Himmels, „des Himmels der Himmel“, zuteil. Darin stellten die sieben Residenzwelten nur die erste Erfahrung dar, die zweite war Jerusem, die dritte Edentia mit seinen Satelliten, die vierte Salvington und die es umringenden Erziehungssphären, die fünfte Uversa, die sechste Havona und die siebente das Paradies."
                 },
                 {
                     "par_ref": "48:6.24",
@@ -850,17 +850,17 @@
         }
     ],
     "footnotes": [
-        "*Im Himmel bessere Substanz*: Mt 6:19-20; Heb 10:34.",
-        "*Der Erbauer der Stadt, der Schöpfer, ist Gott*: 2 Co 5:1; Heb 11:10.",
-        "*Besseres -himmlisches- Land*: Heb 11:16.",
-        "*Alle Dinge wirken zusammen*: Ro 8:28.",
-        "*Ego-Deflation*: Ro 12:3; 2 Co 12:7; Gl 6:3.",
-        "*Die Güte Gottes führt zu*: Ro 2:4.",
-        "*Die Liebe Gottes vertreibt die Furcht*: 1 Jn 4:18.",
-        "*23. Psalm*: Sal 23:1-6.",
-        "*Himmel, Himmel der Himmel*: 1 Re 8:27; 2 Cr 2:6; 2 Cr 6:18; Neh 9:6; Sal 148:4; Dt 10:14.",
-        "*Gefangen im dritten Himmel*: 2 Co 12:2.",
-        "*Geist Jesu*: 1 Co 2:16; Flp 2:5."
+        "*Im Himmel bessere Substanz*: Mt 6:19-20; Hebr 10:34.",
+        "*Der Erbauer der Stadt, der Schöpfer, ist Gott*: 2 Kor 5:1; Hebr 11:10.",
+        "*Besseres -himmlisches- Land*: Hebr 11:16.",
+        "*Alle Dinge wirken zusammen*: Röm 8:28.",
+        "*Ego-Deflation*: Röm 12:3; 2 Kor 12:7; Gal 6:3.",
+        "*Die Güte Gottes führt zu*: Röm 2:4.",
+        "*Die Liebe Gottes vertreibt die Furcht*: 1 Joh 4:18.",
+        "*23. Psalm*: Ps 23:1-6.",
+        "*Himmel, Himmel der Himmel*: 1 Kön 8:27; 2 Chr 2:6; 2 Chr 6:18; Neh 9:6; Ps 148:4; 5 Mose 10:14.",
+        "*Gefangen im dritten Himmel*: 2 Kor 12:2.",
+        "*Geist Jesu*: 1 Kor 2:16; Phil 2:5."
     ],
     "paper_title": "Das morontielle Leben"
 }

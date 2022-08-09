@@ -40,7 +40,7 @@
                 {
                     "par_ref": "81:1.4",
                     "par_pageref": "900.6",
-                    "par_content": "Da die früheren Bauern so ganz allgemein Sklaven verwendeten, blickten einst sowohl Jäger wie Hirten auf sie herab. Während ganzer Zeitalter galt es als niedrig, den Boden zu bestellen{0}. Daher kommt die Idee, die Bodenbearbeitung sei ein Fluch, wo sie doch die größte aller Segnungen ist. Selbst noch in den Tagen Kains und Abels wurden die Hirtenopfer höher eingestuft als die Gaben der Landwirtschaft."
+                    "par_content": "Da die früheren Bauern so ganz allgemein Sklaven verwendeten, blickten einst sowohl Jäger wie Hirten auf sie herab. Während ganzer Zeitalter galt es als niedrig, den Boden zu bestellen{0}. Daher kommt die Idee, die Bodenbearbeitung sei ein Fluch, wo sie doch die größte aller Segnungen ist{1}. Selbst noch in den Tagen Kains und Abels wurden die Hirtenopfer höher eingestuft als die Gaben der Landwirtschaft."
                 },
                 {
                     "par_ref": "81:1.5",
@@ -571,9 +571,9 @@
         }
     ],
     "footnotes": [
-        "*Geringfügige Arbeit*: Gn 3:17-19.",
-        "*Pastorale Angebote bevorzugt*: Gn 4:2-5.",
-        "*Eine Sprache*: Gn 11:1-9."
+        "*Geringfügige Arbeit*: 1 Mose 3:17-19.",
+        "*Pastorale Angebote bevorzugt*: 1 Mose 4:2-5.",
+        "*Eine Sprache*: 1 Mose 11:1-9."
     ],
     "paper_title": "Entwicklung der modernen Zivilisation"
 }

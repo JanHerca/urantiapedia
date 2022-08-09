@@ -45,7 +45,7 @@
                 {
                     "par_ref": "88:1.5",
                     "par_pageref": "967.7",
-                    "par_content": "Als Tiere zu Fetischen wurden, war die Folge davon die Tabuisierung des Genusses von Fetischtierfleisch. Primaten und Affen wurden wegen ihrer Ähnlichkeit mit den Menschen früh zu Fetischtieren; später widerfuhr dasselbe auch Schlangen, Vögeln und Schweinen. Zu einer bestimmten Zeit war die Kuh ein Fetisch, wobei ihre Milch tabu war, während ihre Exkremente hoch geschätzt waren. Die Schlange wurde in Palästina insbesondere von den Phöniziern verehrt, die wie die Juden glaubten, sie sei das Sprachrohr böser Geister{0}. Sogar viele moderne Menschen glauben an die Zauberkräfte der Reptilien. Von Arabien über Indien bis zu den roten Menschen vom Stamm der Moqui mit ihrem Schlangentanz ist die Schlange verehrt worden."
+                    "par_content": "Als Tiere zu Fetischen wurden, war die Folge davon die Tabuisierung des Genusses von Fetischtierfleisch. Primaten und Affen wurden wegen ihrer Ähnlichkeit mit den Menschen früh zu Fetischtieren; später widerfuhr dasselbe auch Schlangen, Vögeln und Schweinen. Zu einer bestimmten Zeit war die Kuh ein Fetisch, wobei ihre Milch tabu war, während ihre Exkremente hoch geschätzt waren. Die Schlange wurde in Palästina insbesondere von den Phöniziern verehrt, die wie die Juden glaubten, sie sei das Sprachrohr böser Geister{0}{1}. Sogar viele moderne Menschen glauben an die Zauberkräfte der Reptilien. Von Arabien über Indien bis zu den roten Menschen vom Stamm der Moqui mit ihrem Schlangentanz ist die Schlange verehrt worden."
                 },
                 {
                     "par_ref": "88:1.6",
@@ -92,7 +92,7 @@
                 {
                     "par_ref": "88:2.3",
                     "par_pageref": "969.1",
-                    "par_content": "Der Herd — die Feuerstelle — wurde immer mehr zu einem Fetisch, zu einem heiligen Platz. Heilige Schreine und Tempel waren zuerst Fetischstellen, weil die Toten dort begraben lagen. Die Fetischhütte der Hebräer erhob Moses zu jenem Ort, der nun den Überfetisch, das damals existierende Konzept des Gesetzes Gottes, beherbergte{3}. Aber die Israeliten gaben den den Kanaanitern eigenen Glauben an den Steinaltar nie auf: „Und dieser Stein, den ich als Säule aufgerichtet habe, soll das Haus Gottes sein.“ Sie glaubten aufrichtig, dass der Geist ihres Gottes in solchen Steinaltären wohne, die in Wahrheit Fetische waren."
+                    "par_content": "Der Herd — die Feuerstelle — wurde immer mehr zu einem Fetisch, zu einem heiligen Platz. Heilige Schreine und Tempel waren zuerst Fetischstellen, weil die Toten dort begraben lagen. Die Fetischhütte der Hebräer erhob Moses zu jenem Ort, der nun den Überfetisch, das damals existierende Konzept des Gesetzes Gottes, beherbergte{3}. Aber die Israeliten gaben den den Kanaanitern eigenen Glauben an den Steinaltar nie auf: „Und dieser Stein, den ich als Säule aufgerichtet habe, soll das Haus Gottes sein{4}.“ Sie glaubten aufrichtig, dass der Geist ihres Gottes in solchen Steinaltären wohne, die in Wahrheit Fetische waren."
                 },
                 {
                     "par_ref": "88:2.4",
@@ -102,7 +102,7 @@
                 {
                     "par_ref": "88:2.5",
                     "par_pageref": "969.3",
-                    "par_content": "Als Moses dem alten Sittenkodex Dalamatias das zweite Gebot hinzufügte, geschah es in dem Bemühen, die Fetischverehrung der Hebräer in den Griff zu bekommen{5}. Er verfügte mit Bedacht, dass sie keine Bilder herstellen sollten, die zu Fetischen hätten geweiht werden können. Er machte deutlich: „Du sollst dir kein Götzenbild und keine Darstellung von irgendetwas machen, was im Himmel oben oder auf der Erde hienieden oder im Wasser der Erde ist.“ Obwohl dieses Gebot beträchtlich zum Rückstand der Kunst unter den Juden beitrug, schwächte es tatsächlich den Fetischkult. Aber Moses war zu besonnen, als dass er versucht hätte, die alten Fetische plötzlich abzuschaffen, und er gestattete deshalb, dass man neben das Gesetz in die Bundeslade, die eine Mischung aus Kriegsaltar und religiösem Schrein war, auch gewisse Reliquien legte."
+                    "par_content": "Als Moses dem alten Sittenkodex Dalamatias das zweite Gebot hinzufügte, geschah es in dem Bemühen, die Fetischverehrung der Hebräer in den Griff zu bekommen{5}. Er verfügte mit Bedacht, dass sie keine Bilder herstellen sollten, die zu Fetischen hätten geweiht werden können. Er machte deutlich: „Du sollst dir kein Götzenbild und keine Darstellung von irgendetwas machen, was im Himmel oben oder auf der Erde hienieden oder im Wasser der Erde ist{6}.“ Obwohl dieses Gebot beträchtlich zum Rückstand der Kunst unter den Juden beitrug, schwächte es tatsächlich den Fetischkult. Aber Moses war zu besonnen, als dass er versucht hätte, die alten Fetische plötzlich abzuschaffen, und er gestattete deshalb, dass man neben das Gesetz in die Bundeslade, die eine Mischung aus Kriegsaltar und religiösem Schrein war, auch gewisse Reliquien legte."
                 },
                 {
                     "par_ref": "88:2.6",
@@ -291,15 +291,15 @@
         }
     ],
     "footnotes": [
-        "*Schlangenverehrung*: Ex 4:2-4; Ex 7:9-12; 2 Re 18:4; Nm 21:8-9; Nm (Da 14:23-27): Bel 1:23-27; Jn 3:14.",
-        "*Schlangen: Stimmen der bösen Geister*: Gn 3:1-5.",
-        "*Die Nummerierung des Volkes*: Ex 30:12-16; 1 Cr 21:1-4; 1 Cr 27:23-24; 2 Sam 24:1-4.",
-        "*Von Moses errichtete Fetisch-Hütte*: Ex 25:8-10; Ex 33:7-10; Ex 40:1-8; 1 Re 5:2-5.",
-        "*Als Säule aufgestellter Stein*: Gn 28:22.",
-        "*Neue Fetische*: Ex 25:10-16; Ex 37:1-9; Ex 40:20; 1 Re 8:9; 2 Re 18:4; Dt 10:1-5; Heb 9:4.",
-        "*Kein Götzenbild von irgendetwas*: Ex 20:4; Ex 34:17; Lv 26:1; Dt 5:8.",
-        "*Heiliger Buchfetisch*: Is 11:12; Ap 7:1.",
-        "*Namen als Fetisch*: Ex 20:7; Lv 19:12; Lv 24:11-16; Dt 5:11."
+        "*Schlangenverehrung*: 2 Mose 4:2-4; 2 Mose 7:9-12; 2 Kön 18:4; 4 Mose 21:8-9; 4 Mose (Da 14:23-27): Bel 1:23-27; Joh 3:14.",
+        "*Schlangen: Stimmen der bösen Geister*: 1 Mose 3:1-5.",
+        "*Die Nummerierung des Volkes*: 2 Mose 30:12-16; 1 Chr 21:1-4; 1 Chr 27:23-24; 2 Sam 24:1-4.",
+        "*Von Moses errichtete Fetisch-Hütte*: 2 Mose 25:8-10; 2 Mose 33:7-10; 2 Mose 40:1-8; 1 Kön 5:2-5.",
+        "*Als Säule aufgestellter Stein*: 1 Mose 28:22.",
+        "*Neue Fetische*: 2 Mose 25:10-16; 2 Mose 37:1-9; 2 Mose 40:20; 1 Kön 8:9; 2 Kön 18:4; 5 Mose 10:1-5; Hebr 9:4.",
+        "*Kein Götzenbild von irgendetwas*: 2 Mose 20:4; 2 Mose 34:17; 3 Mose 26:1; 5 Mose 5:8.",
+        "*Heiliger Buchfetisch*: Jes 11:12; Offb 7:1.",
+        "*Namen als Fetisch*: 2 Mose 20:7; 3 Mose 19:12; 3 Mose 24:11-16; 5 Mose 5:11."
     ],
     "paper_title": "Fetische, Zauber und Magie"
 }

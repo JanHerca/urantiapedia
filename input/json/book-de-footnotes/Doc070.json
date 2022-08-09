@@ -100,7 +100,7 @@
                 {
                     "par_ref": "70:1.15",
                     "par_pageref": "784.11",
-                    "par_content": "Immer führten diese alten Stämme auf Geheiß ihrer Götter, auf Verlangen ihrer Häuptlinge oder Medizinmänner Krieg. Die Hebräer glaubten an einen solchen „Gott der Schlachten“; und der Bericht von ihrem Überfall auf die Midianiter ist eine typische Beschreibung der entsetzlichen Grausamkeit von alten Stammeskriegen; dieser Angriff mit seiner Abschlachtung aller Männer und der späteren Tötung aller Kinder männlichen Geschlechts und aller nicht jungfräulichen Frauen hätte den Sitten eines Stammeshäuptlings von vor zweihunderttausend Jahren alle Ehre gemacht{0}. Und all das wurde im „Namen des Herrn Gottes Israels“ begangen."
+                    "par_content": "Immer führten diese alten Stämme auf Geheiß ihrer Götter, auf Verlangen ihrer Häuptlinge oder Medizinmänner Krieg. Die Hebräer glaubten an einen solchen „Gott der Schlachten“; und der Bericht von ihrem Überfall auf die Midianiter ist eine typische Beschreibung der entsetzlichen Grausamkeit von alten Stammeskriegen; dieser Angriff mit seiner Abschlachtung aller Männer und der späteren Tötung aller Kinder männlichen Geschlechts und aller nicht jungfräulichen Frauen hätte den Sitten eines Stammeshäuptlings von vor zweihunderttausend Jahren alle Ehre gemacht{0}{1}{2}. Und all das wurde im „Namen des Herrn Gottes Israels“ begangen{3}."
                 },
                 {
                     "par_ref": "70:1.16",
@@ -798,7 +798,7 @@
                 {
                     "par_ref": "70:10.9",
                     "par_pageref": "795.6",
-                    "par_content": "Schon früh machten sich die Gesellschaft die heimzahlende Art der Vergeltung zu Eigen: Auge für Auge, Leben für Leben{12}. Die in Entwicklung begriffenen Stämme erkannten alle dieses Recht auf Blutrache an. Rache wurde das Ziel primitiven Lebens, aber die Religion hat diese frühen Stammespraktiken seither stark verändert. Die Lehrer offenbarter Religion haben stets verkündet: „Die Rache ist mein, sagt der Herr.“ Das Töten aus Rache der früheren Zeiten war den heutigen Morden unter dem Vorwand des ungeschriebenen Gesetzes nicht sehr unähnlich."
+                    "par_content": "Schon früh machten sich die Gesellschaft die heimzahlende Art der Vergeltung zu Eigen: Auge für Auge, Leben für Leben{12}{13}. Die in Entwicklung begriffenen Stämme erkannten alle dieses Recht auf Blutrache an{14}. Rache wurde das Ziel primitiven Lebens, aber die Religion hat diese frühen Stammespraktiken seither stark verändert. Die Lehrer offenbarter Religion haben stets verkündet: „Die Rache ist mein, sagt der Herr{15}.“ Das Töten aus Rache der früheren Zeiten war den heutigen Morden unter dem Vorwand des ungeschriebenen Gesetzes nicht sehr unähnlich."
                 },
                 {
                     "par_ref": "70:10.10",
@@ -813,7 +813,7 @@
                 {
                     "par_ref": "70:10.12",
                     "par_pageref": "796.2",
-                    "par_content": "Ein anderer Fortschritt war die Auferlegung von Bußen für Tabuverletzungen, die Erteilung von Strafen. Diese Bußen bildeten die ersten öffentlichen Einkünfte. Auch die Praxis der Bezahlung von „Blutgeld“ als Ersatz für Blutrache kam auf{16}. Solcher Schadensersatz bestand gewöhnlich aus Frauen oder aus Vieh; es dauerte lange, bis wirkliche Bußen, finanzielle Wiedergutmachung, als Strafe für Verbrechen auferlegt wurden. Und da man unter Strafe im Wesentlichen Ersatz verstand, erlangte schließlich alles, das menschliche Leben inbegriffen, einen Preis, den man als Schadensersatz bezahlen konnte. Die Hebräer waren die ersten, die die Praxis, Blutgeld zu bezahlen, abschafften. Moses lehrte, sie sollten „für das Leben eines der Tötung schuldigen Mörders keine Genugtuungssumme annehmen; er muss unfehlbar hingerichtet werden“."
+                    "par_content": "Ein anderer Fortschritt war die Auferlegung von Bußen für Tabuverletzungen, die Erteilung von Strafen. Diese Bußen bildeten die ersten öffentlichen Einkünfte. Auch die Praxis der Bezahlung von „Blutgeld“ als Ersatz für Blutrache kam auf{16}. Solcher Schadensersatz bestand gewöhnlich aus Frauen oder aus Vieh; es dauerte lange, bis wirkliche Bußen, finanzielle Wiedergutmachung, als Strafe für Verbrechen auferlegt wurden. Und da man unter Strafe im Wesentlichen Ersatz verstand, erlangte schließlich alles, das menschliche Leben inbegriffen, einen Preis, den man als Schadensersatz bezahlen konnte. Die Hebräer waren die ersten, die die Praxis, Blutgeld zu bezahlen, abschafften. Moses lehrte, sie sollten „für das Leben eines der Tötung schuldigen Mörders keine Genugtuungssumme annehmen; er muss unfehlbar hingerichtet werden“{17}."
                 },
                 {
                     "par_ref": "70:10.13",
@@ -1028,27 +1028,27 @@
         }
     ],
     "footnotes": [
-        "*Gott der Schlachten*: 1 Cr 14:15; 2 Cr 20:15; 2 Cr 32:8; Sal 24:8; Dt 7:21-23; Dt 20:1-4; 1 Sam 17:47.",
-        "*Barbarenüberfälle*: Nm 31:3-31.",
-        "*Jungfrauen schonen*: Jg 21:10-12.",
-        "*Im Namen des Herrn, des Gottes Israels*: Nm 31:1-2; Dt 7:16-24; Dt 20:1; Jg 11:21,23; 1 Sam 15:2-3.",
-        "*Abschlachten des Heeres von Sisera*: Jg 4:16.",
+        "*Gott der Schlachten*: 1 Chr 14:15; 2 Chr 20:15; 2 Chr 32:8; Ps 24:8; 5 Mose 7:21-23; 5 Mose 20:1-4; 1 Sam 17:47.",
+        "*Barbarenüberfälle*: 4 Mose 31:3-31.",
+        "*Jungfrauen schonen*: Ri 21:10-12.",
+        "*Im Namen des Herrn, des Gottes Israels*: 4 Mose 31:1-2; 5 Mose 7:16-24; 5 Mose 20:1; Ri 11:21,23; 1 Sam 15:2-3.",
+        "*Abschlachten des Heeres von Sisera*: Ri 4:16.",
         "*Mitgift aus Vorhäuten*: 1 Sam 18:25-27.",
         "*Kampf der Champions*: 1 Sam 17:1-51.",
-        "*Gott ist Liebe*: 1 Jn 4:8,16.",
-        "*Fremde wie Einheimische behandelt*: Lv 19:34.",
-        "*Rat der Ältesten*: Gn 50:7; Ex 3:16-18.",
-        "*Vater seines Volkes*: Gn 19:37-38; Gn 36:9,43; Nm 3:24.",
-        "*Treuetest*: Nm 5:12-31.",
-        "*Auge um Auge*: Ex 21:23-24; Lv 24:20; Dt 19:21; Mt 5:38.",
-        "*Leben für Leben*: Ex 21:23.",
-        "*Blutrache*: Dt 19:6,12; Jos 20:3-9.",
-        "*Die Rache ist Gottes*: Sal 94:1; Is 35:4; Nah 1:2; Dt 32:35,41,43.",
-        "*Entschädigungsgeld*: Ex 21:28.",
-        "*Nimm kein Lösegeld für Mörder*: Nm 35:31.",
-        "*Verbrennt die erwachsene Frau mit Feuer*: Gn 38:24; Lv 21:9.",
-        "*Du sollst nicht töten*: Ex 20:13; Dt 5:17.",
-        "*Es ist der Brauch*: Jer 32:11; Jg 11:39."
+        "*Gott ist Liebe*: 1 Joh 4:8,16.",
+        "*Fremde wie Einheimische behandelt*: 3 Mose 19:34.",
+        "*Rat der Ältesten*: 1 Mose 50:7; 2 Mose 3:16-18.",
+        "*Vater seines Volkes*: 1 Mose 19:37-38; 1 Mose 36:9,43; 4 Mose 3:24.",
+        "*Treuetest*: 4 Mose 5:12-31.",
+        "*Auge um Auge*: 2 Mose 21:23-24; 3 Mose 24:20; 5 Mose 19:21; Mt 5:38.",
+        "*Leben für Leben*: 2 Mose 21:23.",
+        "*Blutrache*: 5 Mose 19:6,12; Jos 20:3-9.",
+        "*Die Rache ist Gottes*: Ps 94:1; Jes 35:4; Nah 1:2; 5 Mose 32:35,41,43.",
+        "*Entschädigungsgeld*: 2 Mose 21:28.",
+        "*Nimm kein Lösegeld für Mörder*: 4 Mose 35:31.",
+        "*Verbrennt die erwachsene Frau mit Feuer*: 1 Mose 38:24; 3 Mose 21:9.",
+        "*Du sollst nicht töten*: 2 Mose 20:13; 5 Mose 5:17.",
+        "*Es ist der Brauch*: Jer 32:11; Ri 11:39."
     ],
     "paper_title": "Die Evolution der menschlichen Regierung"
 }

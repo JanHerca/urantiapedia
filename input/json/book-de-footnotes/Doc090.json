@@ -30,7 +30,7 @@
                 {
                     "par_ref": "90:1.1",
                     "par_pageref": "986.4",
-                    "par_content": "Der Schamane war der höchste Medizinmann, der Fetischmann der Zeremonien und die Persönlichkeit, die im Mittelpunkt aller Praktiken der evolutionären Religion stand. Bei vielen Gruppen nahm der Schamane einen höheren Rang ein als der Kriegschef, was den Beginn der Herrschaft der Kirche über den Staat bedeutete. Der Schamane wirkte manchmal als Priester oder gar als Priesterkönig{0}. Einige der späteren Stämme besaßen sowohl die früheren Schamanen-Medizinmänner (Seher) als auch die später erscheinenden Schamanen-Priester. Und in vielen Fällen wurde das Amt des Schamanen erblich."
+                    "par_content": "Der Schamane war der höchste Medizinmann, der Fetischmann der Zeremonien und die Persönlichkeit, die im Mittelpunkt aller Praktiken der evolutionären Religion stand. Bei vielen Gruppen nahm der Schamane einen höheren Rang ein als der Kriegschef, was den Beginn der Herrschaft der Kirche über den Staat bedeutete. Der Schamane wirkte manchmal als Priester oder gar als Priesterkönig{0}. Einige der späteren Stämme besaßen sowohl die früheren Schamanen-Medizinmänner (Seher) als auch die später erscheinenden Schamanen-Priester{1}. Und in vielen Fällen wurde das Amt des Schamanen erblich."
                 },
                 {
                     "par_ref": "90:1.2",
@@ -87,7 +87,7 @@
                 {
                     "par_ref": "90:2.5",
                     "par_pageref": "988.1",
-                    "par_content": "Die Medizinmänner setzten großes Vertrauen in Zeichen und Vorzeichen wie: „Wenn du es in den Wipfeln der Maulbeerbäume rascheln hörst, dann beeile dich!“ Sehr früh in der Geschichte der Rasse wandten die Schamanen ihre Aufmerksamkeit den Sternen zu{3}. Weltweit glaubte man an primitive Astrologie und pflegte sie; auch Traumdeutung breitete sich stark aus. All dem folgte bald das Erscheinen jener leicht erregbaren Schamaninnen, die beteuerten, mit den Geistern der Verstorbenen kommunizieren zu können."
+                    "par_content": "Die Medizinmänner setzten großes Vertrauen in Zeichen und Vorzeichen wie: „Wenn du es in den Wipfeln der Maulbeerbäume rascheln hörst, dann beeile dich!“ Sehr früh in der Geschichte der Rasse wandten die Schamanen ihre Aufmerksamkeit den Sternen zu{3}. Weltweit glaubte man an primitive Astrologie und pflegte sie; auch Traumdeutung breitete sich stark aus. All dem folgte bald das Erscheinen jener leicht erregbaren Schamaninnen, die beteuerten, mit den Geistern der Verstorbenen kommunizieren zu können{4}.{5}"
                 },
                 {
                     "par_ref": "90:2.6",
@@ -258,7 +258,7 @@
                 {
                     "par_ref": "90:5.3",
                     "par_pageref": "992.4",
-                    "par_content": "Wörter wurden zu Bestandteilen des Rituals; Beispiele dafür sind der Gebrauch von Ausdrücken wie Amen und Sela{8}. Die Gewohnheit des Fluchens, des Gebrauchs gotteslästerlicher Kraftausdrücke ist eine Herabwürdigung einer früheren rituellen Wiederholung heiliger Namen. Pilgerfahrten zu Heiligtümern ist ein sehr altes Ritual. Die Rituale wuchsen sich später zu umständlichen Zeremonien der Reinigung, Läuterung und Heiligung aus. Die Einweihungszeremonien der Geheimgesellschaften primitiver Stämme waren in Wirklichkeit ein roher religiöser Ritus. Die Andachtstechnik der alten Mysterienkulte war nichts weiter als eine lange Abfolge angehäufter religiöser Rituale. Das Ritual entwickelte sich schließlich zu den modernen Ausprägungen gesellschaftlichen Zeremoniells und religiöser Anbetung weiter, in Gottesdienste mit Gebet, Gesang, wechselseitigen Lesungen und anderen individuellen oder kollektiven geistigen Andachtsübungen."
+                    "par_content": "Wörter wurden zu Bestandteilen des Rituals; Beispiele dafür sind der Gebrauch von Ausdrücken wie Amen und Sela{8}{9}. Die Gewohnheit des Fluchens, des Gebrauchs gotteslästerlicher Kraftausdrücke ist eine Herabwürdigung einer früheren rituellen Wiederholung heiliger Namen. Pilgerfahrten zu Heiligtümern ist ein sehr altes Ritual. Die Rituale wuchsen sich später zu umständlichen Zeremonien der Reinigung, Läuterung und Heiligung aus{10}{11}{12}. Die Einweihungszeremonien der Geheimgesellschaften primitiver Stämme waren in Wirklichkeit ein roher religiöser Ritus. Die Andachtstechnik der alten Mysterienkulte war nichts weiter als eine lange Abfolge angehäufter religiöser Rituale. Das Ritual entwickelte sich schließlich zu den modernen Ausprägungen gesellschaftlichen Zeremoniells und religiöser Anbetung weiter, in Gottesdienste mit Gebet, Gesang, wechselseitigen Lesungen und anderen individuellen oder kollektiven geistigen Andachtsübungen."
                 },
                 {
                     "par_ref": "90:5.4",
@@ -294,19 +294,19 @@
         }
     ],
     "footnotes": [
-        "*Schamanen (Priester)*: Ex 2:16; Ex 28:1-43; Ex 29:4-9,29; Nm 18:1-10.",
-        "*Seher*: 2 Re 17:13; 1 Cr 29:29; 1 Sam 9:8-11,18-19; 2 Sam 15:27.",
-        "*Hexerei*: Ex 22:18; Dt 18:10-12; 1 Sam 15:23.",
-        "*Wenn du das Geräusch des Windes hörst*: 1 Cr 14:15; 2 Sam 5:24.",
-        "*Astrologie*: Is 47:13; Dn 2:2; Am 5:26; Mt 2:7,9-10.",
+        "*Schamanen (Priester)*: 2 Mose 2:16; 2 Mose 28:1-43; 2 Mose 29:4-9,29; 4 Mose 18:1-10.",
+        "*Seher*: 2 Kön 17:13; 1 Chr 29:29; 1 Sam 9:8-11,18-19; 2 Sam 15:27.",
+        "*Hexerei*: 2 Mose 22:18; 5 Mose 18:10-12; 1 Sam 15:23.",
+        "*Wenn du das Geräusch des Windes hörst*: 1 Chr 14:15; 2 Sam 5:24.",
+        "*Astrologie*: Jes 47:13; Dan 2:2; Am 5:26; Mt 2:7,9-10.",
         "*Schamaninnen*: 1 Sam 28:7-19.",
         "*Glückssterne*: Mt 2:2.",
-        "*Pfeile des Allmächtigen*: Job 6:4; Sal 38:1-2.",
-        "*„Amen“ als Ritual*: Nm 5:22.",
-        "*„Selah“ als Ritual*: Sal 3:2.",
-        "*Reinigen: (Ritual der Roten Färse)*: Nm 19:1-22. *vom Altar*: Lv 8:15. *von Kriegsbeute*: Nm 31:12-24. *von den Gewändern der Priester*: Ex 29:4. *des Tabernakels*: Ex 29:41-44. *von der Frau nach der Entbindung*: Lv 12:1-7.",
-        "*Reinigen: von den Sünden der Gemeinde*: Lv 4:13-21. *von individuellen Sünden*: Lv 5:1-13. *von Aussatz*: Lv 14:2-11. *von Übertretungen*: Lv 6:8-18.",
-        "*Heiligen durch Salbung*: Ex 40:9-11. *durch den Herrn*: Lv 22:9,16. *von männlichen Erstgeborenen*: Ex 13:2. *von Menschen*: Ex 19:10,14. *von Stiftshütte und Umgebung*: Ex 29:41-44."
+        "*Pfeile des Allmächtigen*: Ijob 6:4; Ps 38:1-2.",
+        "*„Amen“ als Ritual*: 4 Mose 5:22.",
+        "*„Selah“ als Ritual*: Ps 3:2.",
+        "*Reinigen: (Ritual der Roten Färse)*: 4 Mose 19:1-22. *vom Altar*: 3 Mose 8:15. *von Kriegsbeute*: 4 Mose 31:12-24. *von den Gewändern der Priester*: 2 Mose 29:4. *des Tabernakels*: 2 Mose 29:41-44. *von der Frau nach der Entbindung*: 3 Mose 12:1-7.",
+        "*Reinigen: von den Sünden der Gemeinde*: 3 Mose 4:13-21. *von individuellen Sünden*: 3 Mose 5:1-13. *von Aussatz*: 3 Mose 14:2-11. *von Übertretungen*: 3 Mose 6:8-18.",
+        "*Heiligen durch Salbung*: 2 Mose 40:9-11. *durch den Herrn*: 3 Mose 22:9,16. *von männlichen Erstgeborenen*: 2 Mose 13:2. *von Menschen*: 2 Mose 19:10,14. *von Stiftshütte und Umgebung*: 2 Mose 29:41-44."
     ],
     "paper_title": "Schamanismus — Medizinmänner und Priester"
 }

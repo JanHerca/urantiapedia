@@ -203,7 +203,7 @@
                 {
                     "par_ref": "87:5.4",
                     "par_pageref": "962.5",
-                    "par_content": "Insbesondere menschliche Prosperität erweckte den Neid der bösen Geister, und ihre Methode der Heimzahlung bestand darin, durch ein menschliches Werkzeug und die Technik des *bösen Blicks* zurückzuschlagen{1}. Die Phase des Kults, die dem Vermeiden der Geister gewidmet war, beschäftigte sich intensiv mit den Machenschaften des bösen Blicks. Die Angst vor ihm breitete sich fast auf der ganzen Welt aus. Hübsche Frauen wurden verschleiert, um sie vor dem bösen Blick zu schützen; in der Folge wurde dieses Verfahren von vielen Frauen übernommen, die als schön gelten wollten. Aus dieser Furcht vor den bösen Geistern ließ man Kinder nach Einbruch der Dunkelheit selten draußen, und die frühen Gebete schlossen immer die Bitte „Befreie uns von dem bösen Blick“ ein."
+                    "par_content": "Insbesondere menschliche Prosperität erweckte den Neid der bösen Geister, und ihre Methode der Heimzahlung bestand darin, durch ein menschliches Werkzeug und die Technik des *bösen Blicks* zurückzuschlagen{1}. Die Phase des Kults, die dem Vermeiden der Geister gewidmet war, beschäftigte sich intensiv mit den Machenschaften des bösen Blicks. Die Angst vor ihm breitete sich fast auf der ganzen Welt aus. Hübsche Frauen wurden verschleiert, um sie vor dem bösen Blick zu schützen; in der Folge wurde dieses Verfahren von vielen Frauen übernommen, die als schön gelten wollten{2}. Aus dieser Furcht vor den bösen Geistern ließ man Kinder nach Einbruch der Dunkelheit selten draußen, und die frühen Gebete schlossen immer die Bitte „Befreie uns von dem bösen Blick“ ein."
                 },
                 {
                     "par_ref": "87:5.5",
@@ -340,7 +340,7 @@
                 {
                     "par_ref": "87:6.16",
                     "par_pageref": "965.3",
-                    "par_content": "Als Nächstes erschien die Praxis ritueller feierlicher Versprechen, denen bald religiöse Gelübde und heilige Schwüre folgten{4}. Die meisten dieser Schwüre gingen mit Selbstpeinigung und Selbstverstümmelung und später mit Fasten und Beten einher. In der Folge wurde Selbstverleugnung als sicheres Druckmittel betrachtet; das galt insbesondere für die Unterdrückung der Sexualität. Und so entwickelte der primitive Mensch in seinen religiösen Praktiken schon früh eine entschiedene Strenge, einen Glauben an die Wirksamkeit von Selbstmarterung und Selbstverleugnung, die als Rituale die Macht besäßen, die widerstrebenden Geister zu zwingen, auf all diese Leiden und Entbehrungen gnädig zu antworten."
+                    "par_content": "Als Nächstes erschien die Praxis ritueller feierlicher Versprechen, denen bald religiöse Gelübde und heilige Schwüre folgten{4}. Die meisten dieser Schwüre gingen mit Selbstpeinigung und Selbstverstümmelung und später mit Fasten und Beten einher{5}. In der Folge wurde Selbstverleugnung als sicheres Druckmittel betrachtet; das galt insbesondere für die Unterdrückung der Sexualität. Und so entwickelte der primitive Mensch in seinen religiösen Praktiken schon früh eine entschiedene Strenge, einen Glauben an die Wirksamkeit von Selbstmarterung und Selbstverleugnung, die als Rituale die Macht besäßen, die widerstrebenden Geister zu zwingen, auf all diese Leiden und Entbehrungen gnädig zu antworten."
                 },
                 {
                     "par_ref": "87:6.17",
@@ -413,12 +413,12 @@
         }
     ],
     "footnotes": [
-        "*Unbekannte Götter*: Hch 17:22-23.",
-        "*Böser Blick*: Pr 23:6; Pr 28:22; Dt 15:9; Dt 28:54,56; Mc 7:22.",
-        "*Erlöse uns vom bösen Blick*: Mt 6:13; Lc 11:4.",
-        "*Wassertaufe*: Mt 3:6,11; Mc 1:4-5,8; Lc 3:3,7,16; Jn 1:25-26,31,33; Jn 3:22-23; Hch 1:5.",
-        "*Heilige Gelübde und Eide*: Gn 31:13; Ex 22:11; 2 Cr 15:12-15; Lv 5:4; Sal 105:9-10; Nm 6:2-15; Nm 30:2-16; Dt 29:12-15.",
-        "*Strafe für die Verletzung von Eiden*: Jg 11:30-39."
+        "*Unbekannte Götter*: Apg 17:22-23.",
+        "*Böser Blick*: Spr 23:6; Spr 28:22; 5 Mose 15:9; 5 Mose 28:54,56; Mk 7:22.",
+        "*Erlöse uns vom bösen Blick*: Mt 6:13; Lk 11:4.",
+        "*Wassertaufe*: Mt 3:6,11; Mk 1:4-5,8; Lk 3:3,7,16; Joh 1:25-26,31,33; Joh 3:22-23; Apg 1:5.",
+        "*Heilige Gelübde und Eide*: 1 Mose 31:13; 2 Mose 22:11; 2 Chr 15:12-15; 3 Mose 5:4; Ps 105:9-10; 4 Mose 6:2-15; 4 Mose 30:2-16; 5 Mose 29:12-15.",
+        "*Strafe für die Verletzung von Eiden*: Ri 11:30-39."
     ],
     "paper_title": "Die Phantomkulte"
 }
