@@ -211,7 +211,7 @@ const Strings = {
 		bg: "Документ",
 		cs: "Kap",
 		da: "Kap",
-		de: "",
+		de: "Kap",
 		el: "",
 		en: "Paper",
 		es: "Doc",
