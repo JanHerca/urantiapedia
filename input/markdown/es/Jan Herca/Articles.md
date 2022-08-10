@@ -158,7 +158,7 @@ Estas eran las medidas de longitud más corrientes para medir longitudes pequeñ
 
 Para agrimensura la medida del codo o similares no resultaban muy prácticas, motivo por el que se solían usar otras. Una mencionada con frecuencia es el el _pagham_ o «planta del pie», en plural _paghamim_. También se llamaba _regel_ y se estimaba en una equivalencia a dos _tephahhim_. La llamada _sorah_ tenía a su vez la anchura de cuatro _emoth_. A esta medida los latinos la llamaban _porca_.
 
-Otra medida similar a esta anterior es el _tsaghad_, llamado a veces _pezzigha_, que se podría considerar el «paso». Pero esta medida era la menos fiable. Algunos hombres dan pasos mucho más largos que otros ([2 Sam 6:13](/es/Bible/2_Smauel/6#v13)).
+Otra medida similar a esta anterior es el _tsaghad_, llamado a veces _pezzigha_, que se podría considerar el «paso». Pero esta medida era la menos fiable. Algunos hombres dan pasos mucho más largos que otros ([2 Sam 6:13](/es/Bible/2_Samuel/6#v13)).
 
 Entre las medidas de longitud más largas tenemos la _berath_, traducida por «milla». Es mencionada unas pocas veces en las escrituras ([Gn 35:16](/es/Bible/Genesis/35#v16), [Gn 48:7](/es/Bible/Genesis/48#v7), [2 Re 5:19](/es/Bible/2_Kings/5#v19)). Los rabinos solían decir que esta milla equivalía más o menos a mil _emoth_. A veces a la milla se la llama también _cherub_ o _erub_, la distancia máxima que se podía caminar en sábado.
 

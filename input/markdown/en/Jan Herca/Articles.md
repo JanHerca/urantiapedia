@@ -158,7 +158,7 @@ These were the most common length measurements for measuring small lengths. In s
 
 For surveying, the measure of the elbow or the like were not very practical, which is why others were used. One frequently mentioned is the _pagham_ or “sole of the foot”, plural _paghamim_. It was also called _regel_ and was estimated to be equivalent to two _tephahhim_. The _sorah_ call itself was four _emoth_ wide. The Latinos called this measure _porca_.
 
-Another measure similar to this one is the _tsaghad_, sometimes called _pezzigha_, which could be considered the “step”. But this measure was the least reliable. Some men take much longer steps than others ([2 Sam 6:13](/en/Bible/2_Smauel/6#v13)).
+Another measure similar to this one is the _tsaghad_, sometimes called _pezzigha_, which could be considered the “step”. But this measure was the least reliable. Some men take much longer steps than others ([2 Sam 6:13](/en/Bible/2_Samuel/6#v13)).
 
 Among the longest measures of length we have the _berath_, translated as “mile”. It is mentioned a few times in the scriptures ([Gn 35:16](/en/Bible/Genesis/35#v16), [Gn 48:7](/en/Bible/Genesis/48#v7), [2 Re 5:19](/Bible/2_Kings/5#v19)). The rabbis used to say that this mile was roughly equivalent to a thousand _emoth_. Sometimes the mile is also called _cherub_ or _erub_, the maximum distance that could be walked on the Sabbath.
 
