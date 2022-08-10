@@ -203,7 +203,7 @@
                 {
                     "par_ref": "87:5.4",
                     "par_pageref": "962.5",
-                    "par_content": "Úgy gondolták, hogy az ember jóléte különösen ingerli a rossz szellemek irigységét, és a bosszújuk módszere az, hogy valamely emberi közvetítőn keresztül és *szemmel verés* révén vágnak vissza{1}. A tiszteletfajtának az a módja, mely a szellem elkerülésére irányult, nagyon is köthető a gonosz tekintetről képzelt mesterkedésekhez. Az ettől való félelem csaknem világszerte általános volt. A szép nőket elfátyolozták, hogy megvédjék őket a gonosz tekintettől; később sok olyan nő vette fel e szokást, aki azt akarta, hogy szépnek tartsák. A rossz szellemektől való félelem miatt a gyerekeket ritkán engedték ki sötétedés után, és a korai imáknak mindig része volt az a kérelem, hogy „szabadíts meg minket a gonosz tekintettől”."
+                    "par_content": "Úgy gondolták, hogy az ember jóléte különösen ingerli a rossz szellemek irigységét, és a bosszújuk módszere az, hogy valamely emberi közvetítőn keresztül és *szemmel verés* révén vágnak vissza{1}. A tiszteletfajtának az a módja, mely a szellem elkerülésére irányult, nagyon is köthető a gonosz tekintetről képzelt mesterkedésekhez. Az ettől való félelem csaknem világszerte általános volt. A szép nőket elfátyolozták, hogy megvédjék őket a gonosz tekintettől; később sok olyan nő vette fel e szokást, aki azt akarta, hogy szépnek tartsák{2}. A rossz szellemektől való félelem miatt a gyerekeket ritkán engedték ki sötétedés után, és a korai imáknak mindig része volt az a kérelem, hogy „szabadíts meg minket a gonosz tekintettől”."
                 },
                 {
                     "par_ref": "87:5.5",
@@ -340,7 +340,7 @@
                 {
                     "par_ref": "87:6.16",
                     "par_pageref": "965.3",
-                    "par_content": "Ezután következtek a szertartásos fogadalmak, melyeket hamarosan a vallási ígéretek és szent eskük követtek{4}. Ezen eskük többségét önkínzás és öncsonkítás kísérte; később pedig böjtölés és imádkozás. Az önmegtartóztatást később úgy tekintették, mint amely biztos eredményt hoz a szellemműködés kikényszerítésében; különösen igaz volt ez a nemi vágy elfojtása esetében. Így az ősember már korán kialakított egyfajta határozott mértékletességet a vallási szokásaiban, hitt az önsanyargatás és az önmegtartóztatás, mint olyan szertartások hatékonyságában, melyek révén képes volt a vonakodó szellemeket rákényszeríteni arra, hogy kedvezően válaszoljanak minden ilyen szenvedésre és nélkülözésre."
+                    "par_content": "Ezután következtek a szertartásos fogadalmak, melyeket hamarosan a vallási ígéretek és szent eskük követtek{4}. Ezen eskük többségét önkínzás és öncsonkítás kísérte; később pedig böjtölés és imádkozás{5}. Az önmegtartóztatást később úgy tekintették, mint amely biztos eredményt hoz a szellemműködés kikényszerítésében; különösen igaz volt ez a nemi vágy elfojtása esetében. Így az ősember már korán kialakított egyfajta határozott mértékletességet a vallási szokásaiban, hitt az önsanyargatás és az önmegtartóztatás, mint olyan szertartások hatékonyságában, melyek révén képes volt a vonakodó szellemeket rákényszeríteni arra, hogy kedvezően válaszoljanak minden ilyen szenvedésre és nélkülözésre."
                 },
                 {
                     "par_ref": "87:6.17",
@@ -413,12 +413,12 @@
         }
     ],
     "footnotes": [
-        "*Ismeretlen istenek*: Hch 17:22-23.",
-        "*Gonosz szem*: Pr 23:6; Pr 28:22; Dt 15:9; Dt 28:54,56; Mc 7:22.",
-        "*Szabadíts meg minket a gonosz szemtől*: Mt 6:13; Lc 11:4.",
-        "*Vízkereszt*: Mt 3:6,11; Mc 1:4-5,8; Lc 3:3,7,16; Jn 1:25-26,31,33; Jn 3:22-23; Hch 1:5.",
-        "*Szent fogadalmak és esküszövegek*: Gn 31:13; Ex 22:11; 2 Cr 15:12-15; Lv 5:4; Sal 105:9-10; Nm 6:2-15; Nm 30:2-16; Dt 29:12-15.",
-        "*Büntetés az eskü megszegéséért*: Jg 11:30-39."
+        "*Ismeretlen istenek*: ApCsel 17:22-23.",
+        "*Gonosz szem*: Péld 23:6; Péld 28:22; MTörv 15:9; MTörv 28:54,56; Mk 7:22.",
+        "*Szabadíts meg minket a gonosz szemtől*: Mt 6:13; Lk 11:4.",
+        "*Vízkereszt*: Mt 3:6,11; Mk 1:4-5,8; Lk 3:3,7,16; Jn 1:25-26,31,33; Jn 3:22-23; ApCsel 1:5.",
+        "*Szent fogadalmak és esküszövegek*: Ter 31:13; Kiv 22:11; 2Krón 15:12-15; Lev 5:4; Zsolt 105:9-10; Szám 6:2-15; Szám 30:2-16; MTörv 29:12-15.",
+        "*Büntetés az eskü megszegéséért*: Bír 11:30-39."
     ],
     "paper_title": "A kísértettiszteletek"
 }

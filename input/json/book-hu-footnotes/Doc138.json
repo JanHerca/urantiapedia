@@ -129,7 +129,7 @@
                 {
                     "par_ref": "138:3.4",
                     "par_pageref": "1540.7",
-                    "par_content": "Mindannyian visszatértek Máté házához, ahol az esti étkezés idejéig sokat beszélgettek politikáról és vallásról{3}. A Lévi család már régóta foglalkozott üzlettel és adószedéssel; ezért az ünnepségre Máté által meghívott vendégek közül a farizeusok sokat nevezhettek volna „vámosoknak és bűnösöknek”."
+                    "par_content": "Mindannyian visszatértek Máté házához, ahol az esti étkezés idejéig sokat beszélgettek politikáról és vallásról{3}. A Lévi család már régóta foglalkozott üzlettel és adószedéssel; ezért az ünnepségre Máté által meghívott vendégek közül a farizeusok sokat nevezhettek volna „vámosoknak és bűnösöknek”{4}."
                 },
                 {
                     "par_ref": "138:3.5",
@@ -324,7 +324,7 @@
                 {
                     "par_ref": "138:8.8",
                     "par_pageref": "1545.9",
-                    "par_content": "Jézus nyilvánvalóvá tette az apostolai számára a különbséget az úgynevezett jótéteményen keresztüli megbánás, amint azt a zsidók tanították, és a hit révén való lelkiállapot-változás — az újjászületés — között, melyet az országba való belépés áraként szükségesnek tartott{12}. Arra tanította az apostolait, hogy egyedül *hitre* van szükség az Atya országába való belépéshez. János a „megbánást — a közelgő harag elől való elfutást” tanította nekik. Jézus azt tanította, „A hit a nyitott kapu az Isten jelenvaló, tökéletes és örökkévaló szeretetéhez.” Jézus nem próféta módjára beszélt, nem úgy, mint aki az Isten szavát elmondani jött. Láthatólag úgy beszélt magáról, mint akinek tekintélye van. Jézus arra törekedett, hogy az elméjüket a csodák keresésétől azon megelégedés és bizonyosság valós és személyes élményének megtalálása felé terelje, hogy az emberben lakozik az Isten szeretetének és üdvözítő kegyének szelleme."
+                    "par_content": "Jézus nyilvánvalóvá tette az apostolai számára a különbséget az úgynevezett jótéteményen keresztüli megbánás, amint azt a zsidók tanították, és a hit révén való lelkiállapot-változás — az újjászületés — között, melyet az országba való belépés áraként szükségesnek tartott{12}{13}. Arra tanította az apostolait, hogy egyedül *hitre* van szükség az Atya országába való belépéshez. János a „megbánást — a közelgő harag elől való elfutást” tanította nekik. Jézus azt tanította, „A hit a nyitott kapu az Isten jelenvaló, tökéletes és örökkévaló szeretetéhez{14}.” Jézus nem próféta módjára beszélt, nem úgy, mint aki az Isten szavát elmondani jött. Láthatólag úgy beszélt magáról, mint akinek tekintélye van. Jézus arra törekedett, hogy az elméjüket a csodák keresésétől azon megelégedés és bizonyosság valós és személyes élményének megtalálása felé terelje, hogy az emberben lakozik az Isten szeretetének és üdvözítő kegyének szelleme."
                 },
                 {
                     "par_ref": "138:8.9",
@@ -429,22 +429,22 @@
         }
     ],
     "footnotes": [
-        "*Nincs olyan próféta, akinek ne lenne becsülete, kivéve az otthonában*: Mt 13:57; Mc 6:4; Lc 4:24; Jn 4:44.",
-        "*Az apostolok bibliai nevei*: Mt 10:2-4; Mc 3:16-19; Lc 6:14-16; Hch 1:13.",
-        "*Máté kiválasztott*: Mt 9:9; Mc 2:14; Lc 5:27-28.",
-        "*Máté lakomája*: Mt 9:10; Mc 2:15; Lc 5:29.",
-        "*Közhivatalnokok és bűnösök*: Mt 9:10-11; Mt 11:19; Mc 2:15-16; Lc 5:30; Lc 7:34; Lc 15:1.",
-        "*Az egészségeseknek nincs szükségük orvosra*: Mt 9:11-13; Mc 2:16-17; Lc 5:30-32.",
-        "*Egyenlőség mindazoknak, akik Istent keresik*: 2 Cr 19:7; Job 34:19; Ec lo 35:12; Hch 10:34; Ro 2:11; Gl 2:6; Gl 3:28; Ef 6:9; Col 3:11.",
-        "*Az ország evangéliuma*: Mt 4:23; Mt 9:35; Mt 24:14; Mc 1:14-15.",
-        "*Új és jobb út*: Jn 14:6; Heb 10:20.",
-        "*Apostolok, hogy emberhalászok legyenek*: Mt 4:19; Mc 1:17; Lc 5:10b.",
-        "*Csak azt mondd, amit hallottál; ne hallott dolgokat*: Jn 8:26; Hch 4:20.",
+        "*Nincs olyan próféta, akinek ne lenne becsülete, kivéve az otthonában*: Mt 13:57; Mk 6:4; Lk 4:24; Jn 4:44.",
+        "*Az apostolok bibliai nevei*: Mt 10:2-4; Mk 3:16-19; Lk 6:14-16; ApCsel 1:13.",
+        "*Máté kiválasztott*: Mt 9:9; Mk 2:14; Lk 5:27-28.",
+        "*Máté lakomája*: Mt 9:10; Mk 2:15; Lk 5:29.",
+        "*Közhivatalnokok és bűnösök*: Mt 9:10-11; Mt 11:19; Mk 2:15-16; Lk 5:30; Lk 7:34; Lk 15:1.",
+        "*Az egészségeseknek nincs szükségük orvosra*: Mt 9:11-13; Mk 2:16-17; Lk 5:30-32.",
+        "*Egyenlőség mindazoknak, akik Istent keresik*: 2Krón 19:7; Jób 34:19; Bölcs 35:12; ApCsel 10:34; Róm 2:11; Gal 2:6; Gal 3:28; Ef 6:9; Kol 3:11.",
+        "*A királyság evangéliuma*: Mt 4:23; Mt 9:35; Mt 24:14; Mk 1:14-15.",
+        "*Új és jobb út*: Jn 14:6; Zsid 10:20.",
+        "*Apostolok, hogy emberhalászok legyenek*: Mt 4:19; Mk 1:17; Lk 5:10b.",
+        "*Csak azt mondd, amit hallottál; ne hallott dolgokat*: Jn 8:26; ApCsel 4:20.",
         "*Ne mondjátok senkinek, hogy a vízből bor lesz*: Jn 2:1-11.",
-        "*Térjetek meg, meneküljetek az eljövendő haragtól*: Mt 3:2,7; Lc 3:3,7.",
-        "*A hit által való elmeváltozás, az újjászületett*: Jn 3:3-8; Gl 2:16; Gl 3:2; Stg 2:14.",
-        "*A hit a nyitott ajtó*: Mt 17:20; Mt 21:11; Lc 17:6; Hch 14:27.",
-        "*A család úgy látta Jézust, mint aki magán kívül van*: Mc 3:21.",
+        "*Térjetek meg, meneküljetek az eljövendő haragtól*: Mt 3:2,7; Lk 3:3,7.",
+        "*A hit által való elmeváltozás, az újjászületett*: Jn 3:3-8; Gal 2:16; Gal 3:2; Jak 2:14.",
+        "*A hit a nyitott ajtó*: Mt 17:20; Mt 21:11; Lk 17:6; ApCsel 14:27.",
+        "*A család úgy látta Jézust, mint aki magán kívül van*: Mk 3:21.",
         "*Júdás vitte a zsákot*: Jn 12:6; Jn 13:29."
     ],
     "paper_title": "Az Ország hírnökeinek felkészítése"

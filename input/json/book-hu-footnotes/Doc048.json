@@ -60,7 +60,7 @@
                 {
                     "par_ref": "48:1.7",
                     "par_pageref": "542.4",
-                    "par_content": "Pál tudott a morontia világok létezéséről és a morontia anyagok valóságáról, hiszen azt írta, hogy „van a mennyben egy jobb és többet bíró anyag”{0}. E morontia anyagok valóságosak, valódiak, még „az alapokkal bíró városban is, melynek építője és alkotója az Isten”. E csodálatos szférák mindegyike „egy jobb ország, vagyis mennyei ország”."
+                    "par_content": "Pál tudott a morontia világok létezéséről és a morontia anyagok valóságáról, hiszen azt írta, hogy „van a mennyben egy jobb és többet bíró anyag”{0}. E morontia anyagok valóságosak, valódiak, még „az alapokkal bíró városban is, melynek építője és alkotója az Isten”{1}. E csodálatos szférák mindegyike „egy jobb ország, vagyis mennyei ország”{2}."
                 }
             ]
         },
@@ -505,7 +505,7 @@
                 {
                     "par_ref": "48:6.8",
                     "par_pageref": "552.6",
-                    "par_content": "Még az Urantián is azt tanácsolják az igazság és pártatlanság emberi tanítóinak, hogy ragaszkodjanak ahhoz a hitszónoklathoz, hogy „az Istennek jósága megtérésre indít” és hirdessék „az Isten szeretetét, mely minden félelmet elűz”{5}. Ezeket az igazságokat éppen így hirdették a világotokon:"
+                    "par_content": "Még az Urantián is azt tanácsolják az igazság és pártatlanság emberi tanítóinak, hogy ragaszkodjanak ahhoz a hitszónoklathoz, hogy „az Istennek jósága megtérésre indít” és hirdessék „az Isten szeretetét, mely minden félelmet elűz”{5}{6}. Ezeket az igazságokat éppen így hirdették a világotokon:{7}"
                 },
                 {
                     "par_ref": "48:6.9",
@@ -580,7 +580,7 @@
                 {
                     "par_ref": "48:6.23",
                     "par_pageref": "553.4",
-                    "par_content": "Átgondolhatnátok a „mennyre” és a „mennyek országára” vonatkozó állításokat{8}. A prófétáitok többsége által értelmezett menny a helyi csillagrendszer első lakóvilágát jelentette. Amikor az apostol arról beszélt, hogy „elragadtatott a harmadik égig”, akkor arra az élményre utalt, amikor az Igazítója elvált tőle az alvás időtartama alatt és e nem szokványos állapotban jelenítette meg a hét lakóvilág közül a harmadikat. A bölcseitek közül némelyek látták a nagyobb menny, „a mennyeknek országa” képét, melyben a hét lakóvilági tapasztalás csak az első volt; a második a Jerusem volt; a harmadik az Edentia és annak segédszférái; a negyedik a Szalvington és az azt körülvevő oktatási szférák; az ötödik az Uversza; a hatodik a Havona; és a hetedik a Paradicsom."
+                    "par_content": "Átgondolhatnátok a „mennyre” és a „mennyek országára” vonatkozó állításokat{8}. A prófétáitok többsége által értelmezett menny a helyi csillagrendszer első lakóvilágát jelentette. Amikor az apostol arról beszélt, hogy „elragadtatott a harmadik égig”, akkor arra az élményre utalt, amikor az Igazítója elvált tőle az alvás időtartama alatt és e nem szokványos állapotban jelenítette meg a hét lakóvilág közül a harmadikat{9}. A bölcseitek közül némelyek látták a nagyobb menny, „a mennyeknek országa” képét, melyben a hét lakóvilági tapasztalás csak az első volt; a második a Jerusem volt; a harmadik az Edentia és annak segédszférái; a negyedik a Szalvington és az azt körülvevő oktatási szférák; az ötödik az Uversza; a hatodik a Havona; és a hetedik a Paradicsom."
                 },
                 {
                     "par_ref": "48:6.24",
@@ -850,17 +850,17 @@
         }
     ],
     "footnotes": [
-        "*Az égben jobb anyag*: Mt 6:19-20; Heb 10:34.",
-        "*A város építője, teremtője az Isten*: 2 Co 5:1; Heb 11:10.",
-        "*Jobb mennyei ország*: Heb 11:16.",
-        "*Minden együtt működik*: Ro 8:28.",
-        "*Ego defláció*: Ro 12:3; 2 Co 12:7; Gl 6:3.",
-        "*Isten jósága vezet*: Ro 2:4.",
-        "*Isten szeretete kiűzi a félelmet*: 1 Jn 4:18.",
-        "*23. zsoltár*: Sal 23:1-6.",
-        "*Mennyország, mennyországok mennyországa*: 1 Re 8:27; 2 Cr 2:6; 2 Cr 6:18; Neh 9:6; Sal 148:4; Dt 10:14.",
-        "*A harmadik mennyországban ragadva*: 2 Co 12:2.",
-        "*Jézus elméje*: 1 Co 2:16; Flp 2:5."
+        "*Az égben jobb anyag*: Mt 6:19-20; Zsid 10:34.",
+        "*A város építője, teremtője az Isten*: 2Kor 5:1; Zsid 11:10.",
+        "*Jobb mennyei ország*: Zsid 11:16.",
+        "*Minden dolog együtt működik*: Róm 8:28.",
+        "*Ego defláció*: Róm 12:3; 2Kor 12:7; Gal 6:3.",
+        "*Isten jósága vezet*: Róm 2:4.",
+        "*Isten szeretete kiűzi a félelmet*: 1Jn 4:18.",
+        "*23. zsoltár*: Zsolt 23:1-6.",
+        "*Mennyország, mennyországok mennyországa*: 1Kir 8:27; 2Krón 2:6; 2Krón 6:18; Neh 9:6; Zsolt 148:4; MTörv 10:14.",
+        "*A harmadik mennyországban ragadva*: 2Kor 12:2.",
+        "*Jézus elméje*: 1Kor 2:16; Fil 2:5."
     ],
     "paper_title": "A morontia élet"
 }

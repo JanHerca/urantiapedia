@@ -13,7 +13,7 @@
                 {
                     "par_ref": "10:0.2",
                     "par_pageref": "108.2",
-                    "par_content": "A paradicsomi Háromság hatékonyan gondoskodik az Istenség örök természetének teljes kifejeződéséről és tökéletes kinyilatkoztatásáról{0}. A Háromság Állandó Fiai hasonlóképpen lehetővé teszik az isteni igazságosság teljes és tökéletes kinyilatkoztatását. A Háromság nem más, mint Istenség-egység, és ezen egység örökmód azokon az abszolút alapokon nyugszik, melyeket a három eredeti, mellérendelt és egymás mellett létező személyiség, vagyis az Atya Isten, a Fiú Isten és a Szellem Isten isteni egysége alkot."
+                    "par_content": "A paradicsomi Háromság hatékonyan gondoskodik az Istenség örök természetének teljes kifejeződéséről és tökéletes kinyilatkoztatásáról{0}. A Háromság Állandó Fiai hasonlóképpen lehetővé teszik az isteni igazságosság teljes és tökéletes kinyilatkoztatását. A Háromság nem más, mint Istenség-egység, és ezen egység örökmód azokon az abszolút alapokon nyugszik, melyeket a három eredeti, mellérendelt és egymás mellett létező személyiség, vagyis az Atya Isten, a Fiú Isten és a Szellem Isten isteni egysége alkot{1}."
                 },
                 {
                     "par_ref": "10:0.3",
@@ -124,7 +124,7 @@
                 {
                     "par_ref": "10:3.3",
                     "par_pageref": "111.1",
-                    "par_content": "Az isteni Fiak valóban „Isten Szava”, azonban a Szellem gyermekei igazán „Isten Cselekedete”{4}. Isten a Fiún keresztül szól és a Végtelen Szellemen keresztül cselekszik a Fiúval, míg minden világegyetemi tevékenységben a Fiú és a Szellem kiválón testvéries, úgy munkálkodnak, mint két egyenlő testvér, akik csodálattal és szeretettel viseltetnek nagyra becsült és istenien tisztelt közös Atyjuk iránt."
+                    "par_content": "Az isteni Fiak valóban „Isten Szava”, azonban a Szellem gyermekei igazán „Isten Cselekedete”{4}{5}. Isten a Fiún keresztül szól és a Végtelen Szellemen keresztül cselekszik a Fiúval, míg minden világegyetemi tevékenységben a Fiú és a Szellem kiválón testvéries, úgy munkálkodnak, mint két egyenlő testvér, akik csodálattal és szeretettel viseltetnek nagyra becsült és istenien tisztelt közös Atyjuk iránt."
                 },
                 {
                     "par_ref": "10:3.4",
@@ -402,7 +402,7 @@
                 {
                     "par_ref": "10:7.1",
                     "par_pageref": "115.3",
-                    "par_content": "Az Istenség Első, Második és Harmadik Személye a másik kettőhöz viszonyítva egyenlő, és egyek ők{6}. „Az Úr, a mi Istenünk egy Isten.” Az örökkévaló Istenségek isteni Háromságában tökéletes a cél és egységes a kivitelezés. Az Atya, a Fiú és az Együttes Cselekvő igazán és istenien egy. Igazat mond az írás: „Én vagyok az első, és én vagyok az utolsó, és rajtam kívül nincsen Isten.”"
+                    "par_content": "Az Istenség Első, Második és Harmadik Személye a másik kettőhöz viszonyítva egyenlő, és egyek ők{6}. „Az Úr, a mi Istenünk egy Isten{7}.” Az örökkévaló Istenségek isteni Háromságában tökéletes a cél és egységes a kivitelezés. Az Atya, a Fiú és az Együttes Cselekvő igazán és istenien egy. Igazat mond az írás: „Én vagyok az első, és én vagyok az utolsó, és rajtam kívül nincsen Isten{8}{9}.”"
                 },
                 {
                     "par_ref": "10:7.2",
@@ -490,16 +490,16 @@
         }
     ],
     "footnotes": [
-        "*Paradise Trinity*: Mt 28:19; Hch 2:32-33; 2 Co 13:14; 1 Jn 5:7.",
-        "*Paradicsomi Háromság (Pál korai nézete)*: 1 Co 12:4-6.",
-        "*Paradicsomi Fiak*: Mt 11:27; Lc 10:22; Jn 1:14,18; Jn 6:45-46; Jn 8:26; Jn 12:49-50; Jn 14:7-11,20; Jn 17:6,25-26.",
-        "*Isten képmására teremtett ember*: Gn 1:26.",
+        "*Paradicsomi Szentháromság*: Mt 28:19; ApCsel 2:32-33; 2Kor 13:14; 1Jn 5:7.",
+        "*Paradicsomi Háromság (Pál korai nézete)*: 1Kor 12:4-6.",
+        "*Paradicsomi Fiak*: Mt 11:27; Lk 10:22; Jn 1:14,18; Jn 6:45-46; Jn 8:26; Jn 12:49-50; Jn 14:7-11,20; Jn 17:6,25-26.",
+        "*Isten képmására teremtett ember*: Ter 1:26.",
         "*Isten Igéje*: Jn 1:1-4,14.",
-        "*Isten cselekedete*: Gn 1:1ff.",
-        "*Az istenség egysége*: 1 Jn 5:7.",
-        "*Az Úr, a mi Istenünk egy Isten*: 2 Re 19:19; 1 Cr 17:20; Neh 9:6; Sal 86:10; Ec lo 36:5; Is 37:16; Is 44:6,8; Is 45:5-6,21; Dt 4:35,39; Dt 6:4; Mc 12:29,32; Jn 17:3; Ro 3:30; 1 Co 8:4-6; Gl 3:20; Ef 4:6; 1 Ti 2:5; Stg 2:19; 1 Sam 2:2; 2 Sam 7:22.",
-        "*Első, utolsó és egyetlen Isten*: Is 41:4; Is 44:6; Is 48:12; Ap 1:17; Ap 2:8.",
-        "*Alfa és Omega*: Ap 1:8,11; Ap 21:6; Ap 22:13."
+        "*Isten cselekedete*: Ter 1:1ff.",
+        "*Az istenség egysége*: 1Jn 5:7.",
+        "*Az Úr, a mi Istenünk egy Isten*: 2Kir 19:19; 1Krón 17:20; Neh 9:6; Zsolt 86:10; Bölcs 36:5; Iz 37:16; Iz 44:6,8; Iz 45:5-6,21; MTörv 4:35,39; MTörv 6:4; Mk 12:29,32; Jn 17:3; Róm 3:30; 1Kor 8:4-6; Gal 3:20; Ef 4:6; 1Tim 2:5; Jak 2:19; 1Sám 2:2; 2Sám 7:22.",
+        "*Első, utolsó és egyetlen Isten*: Iz 41:4; Iz 44:6; Iz 48:12; Jel 1:17; Jel 2:8.",
+        "*Alfa és Omega*: Jel 1:8,11; Jel 21:6; Jel 22:13."
     ],
     "paper_title": "A paradicsomi Háromság"
 }

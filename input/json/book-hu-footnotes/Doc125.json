@@ -70,7 +70,7 @@
                 {
                     "par_ref": "125:1.5",
                     "par_pageref": "1379.1",
-                    "par_content": "József látta, hogy a fiát mennyire megviselte a templomban végzett szertartásos szokások látványa és bölcsen körbevezette, hogy megmutassa neki a „szép kaput”, a korinthoszi barnarézből készült művészi kaput{1}. De Jézus már eleget látott az első templomi látogatásán. Visszamentek a felsőudvarba Máriáért és a szabadban, távol a tömegtől sétáltak egy félórát, megnézték az ásmoni palotát, Heródes lenyűgöző otthonát és a római őrség tornyát. E séta alatt József elmagyarázta Jézusnak, hogy csak a jeruzsálemi lakosoknak szabad megtekinteniük a napi áldozásokat a templomban, és hogy a galileai lakosok csak évente háromszor jönnek el, hogy részt vegyenek a templomi imádatban: a páska-ünnepkor, pünkösd ünnepén (hét héttel a páska-ünnep után) és a sátoros ünnepen októberben. Ezeket az ünnepeket Mózes alapította. Ezután a másik két később elrendelt ünnepről, a templomszentelés és a purim ünnepéről beszélgettek. Ezt követően visszatértek a szállásukra és készültek a páska-ünnepre."
+                    "par_content": "József látta, hogy a fiát mennyire megviselte a templomban végzett szertartásos szokások látványa és bölcsen körbevezette, hogy megmutassa neki a „szép kaput”, a korinthoszi barnarézből készült művészi kaput{1}. De Jézus már eleget látott az első templomi látogatásán. Visszamentek a felsőudvarba Máriáért és a szabadban, távol a tömegtől sétáltak egy félórát, megnézték az ásmoni palotát, Heródes lenyűgöző otthonát és a római őrség tornyát. E séta alatt József elmagyarázta Jézusnak, hogy csak a jeruzsálemi lakosoknak szabad megtekinteniük a napi áldozásokat a templomban, és hogy a galileai lakosok csak évente háromszor jönnek el, hogy részt vegyenek a templomi imádatban: a páska-ünnepkor, pünkösd ünnepén (hét héttel a páska-ünnep után) és a sátoros ünnepen októberben. Ezeket az ünnepeket Mózes alapította. Ezután a másik két később elrendelt ünnepről, a templomszentelés és a purim ünnepéről beszélgettek{2}{3}. Ezt követően visszatértek a szállásukra és készültek a páska-ünnepre."
                 }
             ]
         },
@@ -316,20 +316,20 @@
         }
     ],
     "footnotes": [
-        "*Az Ő Atyjának háza*: Is 56:7; Mt 21:12-13; Mc 11:16-17; Lc 19:45-46; Jn 2:14-16; Jn 14:2-13.",
-        "*Gyönyörű kapu*: Hch 3:2,10.",
-        "*Az avatás ünnepe*: 1 Mac 4:52-59.",
-        "*Purim ünnepe*: Est 9:17-32.",
-        "*Jézus nélkül maradt szülők*: Lc 2:43.",
-        "*A szülők felfedezik Jézus hiányát*: Lc 2:44.",
-        "*A szülők visszatérnek és keresik őt*: Lc 2:45.",
-        "*Harmadik nap a templomban*: Lc 2:46.",
-        "*Elgondolkodtató kérdések*: Lc 2:47.",
-        "*Bölcs megértés*: Lc 2:47.",
-        "*Jézus megtalálása*: Lc 2:46.",
-        "*Mária szidása*: Lc 2:48.",
-        "*Jézus válasza*: Lc 2:49.",
-        "*Visszatérés Galileába*: Lc 2:50-51."
+        "*Az Ő Atyjának háza*: Iz 56:7; Mt 21:12-13; Mk 11:16-17; Lk 19:45-46; Jn 2:14-16; Jn 14:2-13.",
+        "*Gyönyörű kapu*: ApCsel 3:2,10.",
+        "*Az avatás ünnepe*: 1Mak 4:52-59.",
+        "*Purim ünnepe*: Esz 9:17-32.",
+        "*Jézus nélkül maradt szülők*: Lk 2:43.",
+        "*A szülők felfedezik Jézus hiányát*: Lk 2:44.",
+        "*A szülők visszatérnek és keresik őt*: Lk 2:45.",
+        "*Harmadik nap a templomban*: Lk 2:46.",
+        "*Elgondolkodtató kérdések*: Lk 2:47.",
+        "*Bölcs megértés*: Lk 2:47.",
+        "*Jézus megtalálása*: Lk 2:46.",
+        "*Mária szidása*: Lk 2:48.",
+        "*Jézus válasza*: Lk 2:49.",
+        "*Visszatérés Galileába*: Lk 2:50-51."
     ],
     "paper_title": "Jézus Jeruzsálemben"
 }

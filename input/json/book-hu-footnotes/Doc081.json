@@ -40,7 +40,7 @@
                 {
                     "par_ref": "81:1.4",
                     "par_pageref": "900.6",
-                    "par_content": "Lévén, hogy a korai gazdálkodók általánosan igénybevettek rabszolgákat, a földművest kezdetben mind a vadász, mind a pásztor lenézte. A földművelést korszakokon át alantas dolognak tartották; innen ered a földművelés átkos voltának eszméje, holott éppen ez a legnagyobb az összes áldás közül{0}. Még Káin és Ábel idejében is többre értékelték a pásztori élet áldozatait, mint a mezőgazdaságból származó felajánlásokat."
+                    "par_content": "Lévén, hogy a korai gazdálkodók általánosan igénybevettek rabszolgákat, a földművest kezdetben mind a vadász, mind a pásztor lenézte. A földművelést korszakokon át alantas dolognak tartották; innen ered a földművelés átkos voltának eszméje, holott éppen ez a legnagyobb az összes áldás közül{0}. Még Káin és Ábel idejében is többre értékelték a pásztori élet áldozatait, mint a mezőgazdaságból származó felajánlásokat{1}."
                 },
                 {
                     "par_ref": "81:1.5",
@@ -571,9 +571,9 @@
         }
     ],
     "footnotes": [
-        "*Férfias munka*: Gn 3:17-19.",
-        "*Lelkipásztori felajánlások előnyben*: Gn 4:2-5.",
-        "*Egy nyelv*: Gn 11:1-9."
+        "*Férfias munka*: Ter 3:17-19.",
+        "*Lelkipásztori felajánlások előnyben*: Ter 4:2-5.",
+        "*Egy nyelv*: Ter 11:1-9."
     ],
     "paper_title": "A mai polgárosodott viszonyok kialakulása"
 }

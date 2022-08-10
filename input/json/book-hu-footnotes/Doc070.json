@@ -100,7 +100,7 @@
                 {
                     "par_ref": "70:1.15",
                     "par_pageref": "784.11",
-                    "par_content": "E régi törzsek mindig is az isteneik parancsára, a vezetőik vagy a javas embereik utasítására viseltek háborút. A héberek hittek az ilyen „háborúk Istenében”; és a midiániakon való rajtaütésről szóló beszámoló jellemző képet fest az ősi törzsi háborúk szörnyű kegyetlenségéről; ez a támadás, amelyben előbb az összes férfit, majd az összes fiúgyermeket és az összes nem szűz nőt legyilkolták, kétszázezer évvel ezelőtt még bármely törzsfőnöknek erkölcsi érdeméül szolgált volna{0}. Mindezt „Izráel Úristenének nevében” vitték véghez."
+                    "par_content": "E régi törzsek mindig is az isteneik parancsára, a vezetőik vagy a javas embereik utasítására viseltek háborút. A héberek hittek az ilyen „háborúk Istenében”; és a midiániakon való rajtaütésről szóló beszámoló jellemző képet fest az ősi törzsi háborúk szörnyű kegyetlenségéről; ez a támadás, amelyben előbb az összes férfit, majd az összes fiúgyermeket és az összes nem szűz nőt legyilkolták, kétszázezer évvel ezelőtt még bármely törzsfőnöknek erkölcsi érdeméül szolgált volna{0}{1}{2}. Mindezt „Izráel Úristenének nevében” vitték véghez{3}."
                 },
                 {
                     "par_ref": "70:1.16",
@@ -798,7 +798,7 @@
                 {
                     "par_ref": "70:10.9",
                     "par_pageref": "795.6",
-                    "par_content": "A társadalom korán elfogadta a visszafizetés magatartását a megtorlás által: szemet szemért, életet életért{12}. A fejlődő törzsek mind elismerték a vérbosszú jogát. A bosszúállás az ősi élet célja lett, azonban a vallás azóta már jelentősen átalakította ezeket a korai törzsi szokásokat. A kinyilatkoztatott vallás tanítói mindig azt hirdették, hogy „»Enyém a bosszúállás« mondja az Úr”. A bosszúból való ölés a korai időkben nem sokban különbözött az íratlan törvény ürügyén elkövetett mai gyilkosságoktól."
+                    "par_content": "A társadalom korán elfogadta a visszafizetés magatartását a megtorlás által: szemet szemért, életet életért{12}{13}. A fejlődő törzsek mind elismerték a vérbosszú jogát{14}. A bosszúállás az ősi élet célja lett, azonban a vallás azóta már jelentősen átalakította ezeket a korai törzsi szokásokat. A kinyilatkoztatott vallás tanítói mindig azt hirdették, hogy „»Enyém a bosszúállás« mondja az Úr”{15}. A bosszúból való ölés a korai időkben nem sokban különbözött az íratlan törvény ürügyén elkövetett mai gyilkosságoktól."
                 },
                 {
                     "par_ref": "70:10.10",
@@ -813,7 +813,7 @@
                 {
                     "par_ref": "70:10.12",
                     "par_pageref": "796.2",
-                    "par_content": "A következő előrelépés a tabuk megszegése miatti bírságolás volt, a pénzbüntetés kiszabása. E bírságok képezték az első közbevételt. A „vérdíj” fizetés szokása szintén a vérbosszú helyett jött divatba{16}. Az ilyen károkért rendszerint nővel vagy jószággal fizettek; sokáig ez volt a rend, míg végül a bűn miatti büntetés gyanánt áttértek a tényleges bírságokra, a pénzbeli kártérítésre. Lévén, hogy a bírságolás lényegében kártérítés volt, mindennek, beleértve az emberi életet is, tulajdonképpen meglett az ára, melyet annak károsításáért ki kellett fizetni. A héberek voltak az elsők, akik elhagyták a vérdíjfizetés szokását. Mózes azt tanította, hogy „az olyan gyilkos életéért pedig ne vegyetek el váltságot, aki halálra való gonosz; hanem halállal lakoljon”."
+                    "par_content": "A következő előrelépés a tabuk megszegése miatti bírságolás volt, a pénzbüntetés kiszabása. E bírságok képezték az első közbevételt. A „vérdíj” fizetés szokása szintén a vérbosszú helyett jött divatba{16}. Az ilyen károkért rendszerint nővel vagy jószággal fizettek; sokáig ez volt a rend, míg végül a bűn miatti büntetés gyanánt áttértek a tényleges bírságokra, a pénzbeli kártérítésre. Lévén, hogy a bírságolás lényegében kártérítés volt, mindennek, beleértve az emberi életet is, tulajdonképpen meglett az ára, melyet annak károsításáért ki kellett fizetni. A héberek voltak az elsők, akik elhagyták a vérdíjfizetés szokását. Mózes azt tanította, hogy „az olyan gyilkos életéért pedig ne vegyetek el váltságot, aki halálra való gonosz; hanem halállal lakoljon”{17}."
                 },
                 {
                     "par_ref": "70:10.13",
@@ -1028,27 +1028,27 @@
         }
     ],
     "footnotes": [
-        "*A csaták istene*: 1 Cr 14:15; 2 Cr 20:15; 2 Cr 32:8; Sal 24:8; Dt 7:21-23; Dt 20:1-4; 1 Sam 17:47.",
-        "*Barbár portyák*: Nm 31:3-31.",
-        "*Szüzek kímélése*: Jg 21:10-12.",
-        "*Izrael Urának, Istenének nevében*: Nm 31:1-2; Dt 7:16-24; Dt 20:1; Jg 11:21,23; 1 Sam 15:2-3.",
-        "*Sisera seregének lemészárlása*: Jg 4:16.",
-        "*Fitymák hozománya*: 1 Sam 18:25-27.",
-        "*Bajnokok harca*: 1 Sam 17:1-51.",
-        "*Isten a szeretet*: 1 Jn 4:8,16.",
-        "*Idegenekkel úgy bánnak, mint a helyiekkel*: Lv 19:34.",
-        "*A vének tanácsa*: Gn 50:7; Ex 3:16-18.",
-        "*Népének atyja*: Gn 19:37-38; Gn 36:9,43; Nm 3:24.",
-        "*Hűségpróba*: Nm 5:12-31.",
-        "*Szemet szemért*: Ex 21:23-24; Lv 24:20; Dt 19:21; Mt 5:38.",
-        "*Életet életért*: Ex 21:23.",
-        "*Vérbosszú*: Dt 19:6,12; Jos 20:3-9.",
-        "*A bosszú Istené*: Sal 94:1; Is 35:4; Nah 1:2; Dt 32:35,41,43.",
-        "*Kárpótlási pénz*: Ex 21:28.",
-        "*Ne vegyél váltságdíjat a gyilkosért*: Nm 35:31.",
-        "*Tűzzel égesd el a felnőtt nőt*: Gn 38:24; Lv 21:9.",
-        "*Ne ölj*: Ex 20:13; Dt 5:17.",
-        "*Ez a szokás*: Jer 32:11; Jg 11:39."
+        "*A csaták istene*: 1Krón 14:15; 2Krón 20:15; 2Krón 32:8; Zsolt 24:8; MTörv 7:21-23; MTörv 20:1-4; 1Sám 17:47.",
+        "*Barbár portyák*: Szám 31:3-31.",
+        "*Szüzek kímélése*: Bír 21:10-12.",
+        "*Izrael Urának, Istenének nevében*: Szám 31:1-2; MTörv 7:16-24; MTörv 20:1; Bír 11:21,23; 1Sám 15:2-3.",
+        "*Sisera seregének lemészárlása*: Bír 4:16.",
+        "*Fitymák hozománya*: 1Sám 18:25-27.",
+        "*Bajnokok harca*: 1Sám 17:1-51.",
+        "*Isten a szeretet*: 1Jn 4:8,16.",
+        "*Idegenekkel úgy bánnak, mint a helyiekkel*: Lev 19:34.",
+        "*A vének tanácsa*: Ter 50:7; Kiv 3:16-18.",
+        "*Népének atyja*: Ter 19:37-38; Ter 36:9,43; Szám 3:24.",
+        "*Hűségpróba*: Szám 5:12-31.",
+        "*Szemet szemért*: Kiv 21:23-24; Lev 24:20; MTörv 19:21; Mt 5:38.",
+        "*Életet életért*: Kiv 21:23.",
+        "*Vérbosszú*: MTörv 19:6,12; Józs 20:3-9.",
+        "*A bosszú Istené*: Zsolt 94:1; Iz 35:4; Náh 1:2; MTörv 32:35,41,43.",
+        "*Kárpótlási pénz*: Kiv 21:28.",
+        "*Ne vegyél váltságdíjat a gyilkosért*: Szám 35:31.",
+        "*Tűzzel égesd el a felnőtt nőt*: Ter 38:24; Lev 21:9.",
+        "*Ne ölj*: Kiv 20:13; MTörv 5:17.",
+        "*Ez a szokás*: Jer 32:11; Bír 11:39."
     ],
     "paper_title": "Az emberi közösségek kormányzásának fejlődése"
 }

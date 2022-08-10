@@ -216,7 +216,7 @@
                 {
                     "par_ref": "84:4.8",
                     "par_pageref": "936.1",
-                    "par_content": "A nők úgynevezett szerénysége a ruházkodást és a személyes megnyilvánulásukat tekintve onnan ered, hogy halálosan féltek attól, hogy a havi vérzésük idején meglátják őket. Ha így meglátták őket, akkor az óriási bűn volt, egy tabu megszegése. A régi idők erkölcsei mellett minden nőt a serdülőkortól a szülőképes kor végéig teljesen elkülönítettek családi és társadalmi szinten minden egyes hónap egy teljes hetére{5}. Minden, amit megérintett, amire leült vagy lefeküdt, „beszennyeződött”. Hosszú időn keresztül volt szokás irgalmatlanul megverni a lányt minden havi vérzési időszakában annak érdekében, hogy a testéből kiűzzék a rossz szellemet. De amint a nő túljutott a szülőképes korán, rendszerint előzékenyebb bánásmódban részesült, több jogot és kiváltságot kapott. Mindezek tükrében nincs mit csodálkozni azon, hogy lenézték a nőket. Még a görögök is a tisztátalanság három fő oka egyikének tartották a vérző nőt, a másik kettő egyébként a disznó és a fokhagyma volt."
+                    "par_content": "A nők úgynevezett szerénysége a ruházkodást és a személyes megnyilvánulásukat tekintve onnan ered, hogy halálosan féltek attól, hogy a havi vérzésük idején meglátják őket. Ha így meglátták őket, akkor az óriási bűn volt, egy tabu megszegése. A régi idők erkölcsei mellett minden nőt a serdülőkortól a szülőképes kor végéig teljesen elkülönítettek családi és társadalmi szinten minden egyes hónap egy teljes hetére{5}. Minden, amit megérintett, amire leült vagy lefeküdt, „beszennyeződött”{6}. Hosszú időn keresztül volt szokás irgalmatlanul megverni a lányt minden havi vérzési időszakában annak érdekében, hogy a testéből kiűzzék a rossz szellemet. De amint a nő túljutott a szülőképes korán, rendszerint előzékenyebb bánásmódban részesült, több jogot és kiváltságot kapott. Mindezek tükrében nincs mit csodálkozni azon, hogy lenézték a nőket. Még a görögök is a tisztátalanság három fő oka egyikének tartották a vérző nőt, a másik kettő egyébként a disznó és a fokhagyma volt."
                 },
                 {
                     "par_ref": "84:4.9",
@@ -560,15 +560,15 @@
         }
     ],
     "footnotes": [
-        "*Az élet lehelete*: Gn 2:7.",
-        "*Az élet vére*: Lv 15:19; Lv 17:11.",
-        "*Az Úr az én pásztorom*: Sal 23:1.",
-        "*A nők hibáztatása*: Gn 3:12-17.",
-        "*A szülés tisztátalan*: Lv 12:2-8; Lc 2:22-24.",
-        "*Karantén*: Lv 15:19-20.",
-        "*Menstruáló nő megérintése által beszennyezett*: Lv 15:21-22.",
-        "*Az unokák szeretete*: Pr 17:6.",
-        "*Gyermeknevelés*: Pr 22:6."
+        "*Az élet lehelete*: Ter 2:7.",
+        "*Az élet vére*: Lev 15:19; Lev 17:11.",
+        "*Az Úr az én pásztorom*: Zsolt 23:1.",
+        "*A nők hibáztatása*: Ter 3:12-17.",
+        "*A szülés tisztátalan*: Lev 12:2-8; Lk 2:22-24.",
+        "*Karantén*: Lev 15:19-20.",
+        "*Menstruáló nő megérintése által beszennyezett*: Lev 15:21-22.",
+        "*Az unokák szeretete*: Péld 17:6.",
+        "*Gyermeknevelés*: Péld 22:6."
     ],
     "paper_title": "Házasság és családi élet"
 }

@@ -295,7 +295,7 @@
                 {
                     "par_ref": "24:6.2",
                     "par_pageref": "269.6",
-                    "par_content": "Nincs megtiltva, hogy megpróbáljam ismertetni nektek e Végzős Kísérők munkáját, de az olyannyira meghaladja a szellemi szintet is, hogy attól félek, képtelen lennék megfelelően bemutatni az anyagi elme számára az ő sokféle tevékenységüket. A lakóvilágokon, miután a látásmódotok kiszélesedett és megszabadultatok az anyagias összehasonlítások béklyóitól, megpróbálhatjátok megérteni azon valóságok jelentését, melyeket „szem nem láthat és fül sem hallhat, és amelyeket emberi elme még sohasem fogott fel”, sőt még azokat a dolgokat is, melyeket „Isten az ilyen örök igazságokat szeretőknek készített”{0}. A látásmódotok és a szellemi felfogóképességetek nem lesz mindig ilyen korlátozott."
+                    "par_content": "Nincs megtiltva, hogy megpróbáljam ismertetni nektek e Végzős Kísérők munkáját, de az olyannyira meghaladja a szellemi szintet is, hogy attól félek, képtelen lennék megfelelően bemutatni az anyagi elme számára az ő sokféle tevékenységüket. A lakóvilágokon, miután a látásmódotok kiszélesedett és megszabadultatok az anyagias összehasonlítások béklyóitól, megpróbálhatjátok megérteni azon valóságok jelentését, melyeket „szem nem láthat és fül sem hallhat, és amelyeket emberi elme még sohasem fogott fel”, sőt még azokat a dolgokat is, melyeket „Isten az ilyen örök igazságokat szeretőknek készített”{0}{1}. A látásmódotok és a szellemi felfogóképességetek nem lesz mindig ilyen korlátozott."
                 },
                 {
                     "par_ref": "24:6.3",
@@ -393,8 +393,8 @@
         }
     ],
     "footnotes": [
-        "*Szem nem lát, fül nem hall*: Is 64:4.",
-        "*Amit Isten készített*: 1 Co 2:9."
+        "*Szem nem lát, fül nem hall*: Iz 64:4.",
+        "*Amit Isten készített*: 1Kor 2:9."
     ],
     "paper_title": "A Végtelen Szellem felsőbb személyiségei"
 }

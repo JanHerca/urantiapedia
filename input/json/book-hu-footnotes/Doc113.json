@@ -8,7 +8,7 @@
                 {
                     "par_ref": "113:0.1",
                     "par_pageref": "1241.1",
-                    "par_content": "MIUTÁN közreadtuk az idő segédkező szellemeiről és a tér hírvivő seregeiről szóló beszámolókat, most a halandó egyedeknek segédkező őrangyalokat, szeráfokat vesszük sorra, mely halandók felemelkedése és tökéletessé válása érdekében a nagyszabású szellemi fejlődési terv egésze kidolgoztatott. Az elmúlt korokban lényegében a beteljesülés-őrangyalok csoportja volt az egyetlen, melyet az Urantián ismertek. A bolygón szolgáló szeráfok valóban a továbbélőkké válók szolgálatára küldött segédkező szellemek. A bolygóra érkező ezen szeráfok mindig is a halandó ember szellemi segítői voltak a múlt minden nagy eseményekor, miként ma is. Számos kinyilatkoztatásban „a szó angyaloktól szólt”; számos mennyei parancs „angyalok segédkezése révén érkezett”{0}."
+                    "par_content": "MIUTÁN közreadtuk az idő segédkező szellemeiről és a tér hírvivő seregeiről szóló beszámolókat, most a halandó egyedeknek segédkező őrangyalokat, szeráfokat vesszük sorra, mely halandók felemelkedése és tökéletessé válása érdekében a nagyszabású szellemi fejlődési terv egésze kidolgoztatott. Az elmúlt korokban lényegében a beteljesülés-őrangyalok csoportja volt az egyetlen, melyet az Urantián ismertek. A bolygón szolgáló szeráfok valóban a továbbélőkké válók szolgálatára küldött segédkező szellemek. A bolygóra érkező ezen szeráfok mindig is a halandó ember szellemi segítői voltak a múlt minden nagy eseményekor, miként ma is. Számos kinyilatkoztatásban „a szó angyaloktól szólt”; számos mennyei parancs „angyalok segédkezése révén érkezett”{0}{1}."
                 },
                 {
                     "par_ref": "113:0.2",
@@ -25,7 +25,7 @@
                 {
                     "par_ref": "113:1.1",
                     "par_pageref": "1241.3",
-                    "par_content": "Az őrangyalokról szóló tanítás nem hitrege; az emberi lények meghatározott csoportjai ténylegesen is rendelkeznek személyes angyalokkal{2}. Ez a felismerés közöltetett, amikor Jézus a mennyország gyermekeiről szólva a következőket mondta: „Ügyeljetek, hogy eme kicsinyek közül egyre se tekintsetek megvetéssel, mert mondom nektek, az ő angyalaik mindenkor látják az Atyám szellemének jelenlétét.”"
+                    "par_content": "Az őrangyalokról szóló tanítás nem hitrege; az emberi lények meghatározott csoportjai ténylegesen is rendelkeznek személyes angyalokkal{2}. Ez a felismerés közöltetett, amikor Jézus a mennyország gyermekeiről szólva a következőket mondta: „Ügyeljetek, hogy eme kicsinyek közül egyre se tekintsetek megvetéssel, mert mondom nektek, az ő angyalaik mindenkor látják az Atyám szellemének jelenlétét{3}.”"
                 },
                 {
                     "par_ref": "113:1.2",
@@ -338,13 +338,13 @@
         }
     ],
     "footnotes": [
-        "*Angyalok által mondott szó*: Heb 2:2.",
-        "*Angyali szolgálat által kapott*: Hch 7:53.",
-        "*Őrangyalok*: Bar 6:7.",
+        "*Angyalok által mondott szó*: Zsid 2:2.",
+        "*Angyali szolgálat által kapott*: ApCsel 7:53.",
+        "*Őrangyalok*: Bár 6:7.",
         "*Ne vesse meg a kicsinyeket*: Mt 18:10.",
-        "*Küldj angyalokat, hogy összegyűjtsék a kiválasztottakat*: Mt 24:31; Mc 13:27.",
-        "*Az igazságtalanok feltámadása*: Hch 24:15.",
-        "*Az angyaloknál alacsonyabbnak teremtett*: Sal 8:4-5; Heb 2:6-7."
+        "*Küldj angyalokat, hogy összegyűjtsék a kiválasztottakat*: Mt 24:31; Mk 13:27.",
+        "*Az igazságtalanok feltámadása*: ApCsel 24:15.",
+        "*Az angyaloknál alacsonyabbnak teremtett*: Zsolt 8:4-5; Zsid 2:6-7."
     ],
     "paper_title": "A szeráfi beteljesülés-őrangyalok"
 }

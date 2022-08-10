@@ -228,7 +228,7 @@
                 {
                     "par_ref": "86:5.11",
                     "par_pageref": "954.10",
-                    "par_content": "Az idők során az emberek félelemmel vegyes áhítattal tekintettek az éjszaka jelenségeire, és ez alól a héberek sem voltak kivételek. Igazán hittek abban, hogy az Isten álmokon keresztül szól hozzájuk, noha Mózes parancsolatai ez ellen szóltak{4}. Mózesnek igaza volt, mert a közönséges álmok nem tartoznak azon módszerek közé, melyeket a szellemi világ személyiségei alkalmaznak, amikor az anyagi lényekkel érintkezni akarnak."
+                    "par_content": "Az idők során az emberek félelemmel vegyes áhítattal tekintettek az éjszaka jelenségeire, és ez alól a héberek sem voltak kivételek. Igazán hittek abban, hogy az Isten álmokon keresztül szól hozzájuk, noha Mózes parancsolatai ez ellen szóltak{4}{5}. Mózesnek igaza volt, mert a közönséges álmok nem tartoznak azon módszerek közé, melyeket a szellemi világ személyiségei alkalmaznak, amikor az anyagi lényekkel érintkezni akarnak."
                 },
                 {
                     "par_ref": "86:5.12",
@@ -238,7 +238,7 @@
                 {
                     "par_ref": "86:5.13",
                     "par_pageref": "955.1",
-                    "par_content": "A fejletlen emberek úgy gondolták, hogy a lélek a lélegzettel van kapcsolatban, és hogy a lélek sajátosságait a lélegzet révén át lehet venni vagy át lehet adni. A bátor főnök rálehelt az újszülött gyermekre, s ezáltal bátorságot öntött belé. A korai keresztények körében a Szent Szellem adományozásának szertartását a jelöltekre való rálehelés kísérte{6}. A Zsoltáros mondta: „Az Úr szavára lettek az egek, és szájának leheletére minden seregük.” Sokáig volt szokás, hogy a legidősebb fiú megpróbálja elkapni a haldokló apja utolsó lélegzetét."
+                    "par_content": "A fejletlen emberek úgy gondolták, hogy a lélek a lélegzettel van kapcsolatban, és hogy a lélek sajátosságait a lélegzet révén át lehet venni vagy át lehet adni. A bátor főnök rálehelt az újszülött gyermekre, s ezáltal bátorságot öntött belé. A korai keresztények körében a Szent Szellem adományozásának szertartását a jelöltekre való rálehelés kísérte{6}. A Zsoltáros mondta: „Az Úr szavára lettek az egek, és szájának leheletére minden seregük{7}.” Sokáig volt szokás, hogy a legidősebb fiú megpróbálja elkapni a haldokló apja utolsó lélegzetét."
                 },
                 {
                     "par_ref": "86:5.14",
@@ -248,7 +248,7 @@
                 {
                     "par_ref": "86:5.15",
                     "par_pageref": "955.3",
-                    "par_content": "A lélekről általánosan hitték, hogy azonos a lélegzettel, de a különböző népeknél a lélek lakozott a fejben, a hajban, a szívben, a májban, a vérben és a zsírban. Az „Ábel vére a földről kiált” azt az egykori hiedelmet fejezi ki, hogy a kísértet jelen van a vérben{8}. A szemiták azt tanították, hogy a lélek a testzsírban lakozik, és sok nép körében az állati zsír fogyasztása tabu volt. A fejvadászat az ellenség lelkének egyik foglyul ejtési módszere volt, miként a hajas fejbőr lenyúzása is. A legutóbbi időkben a szemeket tekintették a lélek tükrének."
+                    "par_content": "A lélekről általánosan hitték, hogy azonos a lélegzettel, de a különböző népeknél a lélek lakozott a fejben, a hajban, a szívben, a májban, a vérben és a zsírban. Az „Ábel vére a földről kiált” azt az egykori hiedelmet fejezi ki, hogy a kísértet jelen van a vérben{8}. A szemiták azt tanították, hogy a lélek a testzsírban lakozik, és sok nép körében az állati zsír fogyasztása tabu volt{9}. A fejvadászat az ellenség lelkének egyik foglyul ejtési módszere volt, miként a hajas fejbőr lenyúzása is. A legutóbbi időkben a szemeket tekintették a lélek tükrének{10}."
                 },
                 {
                     "par_ref": "86:5.16",
@@ -348,17 +348,17 @@
         }
     ],
     "footnotes": [
-        "*A versenyt nem a könnyűsúlyúak nyerik meg*: Ec 9:11-12.",
-        "*Az élet lélegzete*: Gn 2:7; Gn 6:17; Gn 7:15,22; Job 33:4.",
-        "*Sheol*: Lc 16:17-26.",
-        "*Add fel a szellemet*: Gn 25:8; Job 3:11; Job 13:19; Jer 15:9; Lm 1:19; Jn 19:30.",
-        "*Isten „beszél” álmokban*: Gn 20:3; Gn 28:12-16; Jer 23:25-26; Nm 12:6; Dn 1:17; Mt 1:20; 1 Sam 28:15.",
-        "*Mózes rendelkezése az álmokról*: Dt 13:1-5.",
+        "*A versenyt nem a könnyűsúlyúak nyerik meg*: Préd 9:11-12.",
+        "*Az élet lehelete*: Ter 2:7; Ter 6:17; Ter 7:15,22; Jób 33:4.",
+        "*Sheol*: Lk 16:17-26.",
+        "*Add fel a szellemet*: Ter 25:8; Jób 3:11; Jób 13:19; Jer 15:9; Siral 1:19; Jn 19:30.",
+        "*Isten „beszél” álmokban*: Ter 20:3; Ter 28:12-16; Jer 23:25-26; Szám 12:6; Dán 1:17; Mt 1:20; 1Sám 28:15.",
+        "*Mózes rendelkezése az álmokról*: MTörv 13:1-5.",
         "*Lélegzet és szellem*: Jn 20:22.",
-        "*Teremtés az Úr szavára*: Sal 33:6.",
-        "*Ábel véréből síró lélek*: Gn 4:10.",
-        "*Állati zsír tabu*: Lv 3:17; Lv 7:22-25.",
-        "*A szemek a lélek ablakai*: Mt 6:22-23; Lc 11:34."
+        "*Teremtés az Úr szavára*: Zsolt 33:6.",
+        "*Ábel véréből síró lélek*: Ter 4:10.",
+        "*Állati zsír tabu*: Lev 3:17; Lev 7:22-25.",
+        "*A szemek a lélek ablakai*: Mt 6:22-23; Lk 11:34."
     ],
     "paper_title": "A vallás fejlődésének korai szakasza"
 }

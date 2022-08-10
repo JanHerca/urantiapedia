@@ -171,7 +171,7 @@
                 {
                     "par_ref": "75:4.7",
                     "par_pageref": "843.1",
-                    "par_content": "Az igaz, hogy Éva szépnek találta Kánót, és megértette mindazt, amit a csábítója ígért azzal, hogy „új és teljesebb ismeretekre tesz szert az emberi dolgokról és gyorsabban felfogja az emberi természetet, azon túl is, amit az ádámi természet megértése nyújt”{6}."
+                    "par_content": "Az igaz, hogy Éva szépnek találta Kánót, és megértette mindazt, amit a csábítója ígért azzal, hogy „új és teljesebb ismeretekre tesz szert az emberi dolgokról és gyorsabban felfogja az emberi természetet, azon túl is, amit az ádámi természet megértése nyújt”{6}{7}."
                 },
                 {
                     "par_ref": "75:4.8",
@@ -350,21 +350,21 @@
         }
     ],
     "footnotes": [
-        "*Caligastia cselekménye*: Gn 3:1a.",
-        "*Caligastia telke*: Gn 3:1a.",
-        "*Notice of default*: Gn 3:8-13.",
-        "*A jó és a rossz összekeverése, meg fogsz halni*: Gn 2:17.",
-        "*A figyelmeztetés*: Gn 3:1-5.",
-        "*A cél nem szentesíti az eszközt*: Pr 14:12.",
-        "*Cano kellemes Éva szemének*: Gn 3:6a.",
-        "*Új és megnövekedett tudás*: Gn 3:6b.",
-        "*Feljegyezve: „Isten hív...”*: Gn 3:8-13.",
-        "*Intenzív és tartós ellenségeskedés*: Gn 3:15.",
-        "*Éden elhagyása*: Gn 3:23-24.",
-        "*A vétkes útja*: Pr 13:15.",
-        "*Jövőbeli viselkedés*: Gn 3:16-19.",
-        "*Halálos ítélet*: Gn 3:22-24.",
-        "*Ádám és Éva „bűne”*: Gn 3:6."
+        "*Caligastia cselekménye*: Ter 3:1a.",
+        "*Caligastia cselekménye*: Ter 3:1a.",
+        "*Notice of default*: Ter 3:8-13.",
+        "*A jó és a rossz összekeverése, meg fogsz halni*: Ter 2:17.",
+        "*A figyelmeztetés*: Ter 3:1-5.",
+        "*A cél nem szentesíti az eszközt*: Péld 14:12.",
+        "*Cano kellemes Éva szemének*: Ter 3:6a.",
+        "*Új és megnövekedett tudás*: Ter 3:6b.",
+        "*Feljegyezve: „Isten hív...”*: Ter 3:8-13.",
+        "*Intenzív és tartós ellenségeskedés*: Ter 3:15.",
+        "*Éden elhagyása*: Ter 3:23-24.",
+        "*A vétkes útja*: Péld 13:15.",
+        "*Jövőbeli viselkedés*: Ter 3:16-19.",
+        "*Halálos ítélet*: Ter 3:22-24.",
+        "*Ádám és Éva „bűne”*: Ter 3:6."
     ],
     "paper_title": "Ádám és Éva vétsége"
 }

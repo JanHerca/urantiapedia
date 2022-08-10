@@ -327,7 +327,7 @@
                 {
                     "par_ref": "78:7.3",
                     "par_pageref": "874.8",
-                    "par_content": "Csaknem ötezer évvel később, amikor a héber papok a babiloni fogság alatt megpróbálták a zsidó nép leszármazását Ádámig visszavezetni, nagy nehézségekbe ütköztek a történet összeállításakor; és egyiküknek az jutott eszébe, hogy valójában nem ezzel kellene próbálkozni és hogy a történet szempontjából hagyni kellene, hogy az egész világ belefulladjon a maga gonoszságába a Noé korabeli özönvíz idején, mert így már könnyebb volna Ábrahámot leszármazásilag közvetlenül visszavezetni Noé három túlélő fiának egyikéig{0}."
+                    "par_content": "Csaknem ötezer évvel később, amikor a héber papok a babiloni fogság alatt megpróbálták a zsidó nép leszármazását Ádámig visszavezetni, nagy nehézségekbe ütköztek a történet összeállításakor; és egyiküknek az jutott eszébe, hogy valójában nem ezzel kellene próbálkozni és hogy a történet szempontjából hagyni kellene, hogy az egész világ belefulladjon a maga gonoszságába a Noé korabeli özönvíz idején, mert így már könnyebb volna Ábrahámot leszármazásilag közvetlenül visszavezetni Noé három túlélő fiának egyikéig{0}{1}."
                 },
                 {
                     "par_ref": "78:7.4",
@@ -337,7 +337,7 @@
                 {
                     "par_ref": "78:7.5",
                     "par_pageref": "875.2",
-                    "par_content": "De Noé valóban élt; bortermeléssel foglalkozott az Erek közelében fekvő folyóparti településen, Aramban{3}. Évről évre napi feljegyzéseket készített a folyó vízszintjének emelkedéséről. Nagy nevetség tárgya lett azzal, hogy a folyóvölgyben fel s alá járva amellett érvelt, hogy minden házat fából, hajóformára kell építeni és hogy az áradási időszak közeledtével a háziállatokat éjszakára mindig a fedélzetre kell vinni. Még a szomszédos folyóparti településekre is elment minden évben és figyelmeztette őket, hogy ennyi meg ennyi nap múlva eljön majd az özönvíz. Végül aztán eljött egy esztendő, amikor az éves áradás vízszintjét a szokatlanul erős esőzés úgy megemelte, hogy a hirtelenül jött árhullám az egész falut elmosta; csak Noé és az ő közvetlen családja menekült meg a lakóbárkájukon."
+                    "par_content": "De Noé valóban élt; bortermeléssel foglalkozott az Erek közelében fekvő folyóparti településen, Aramban{3}. Évről évre napi feljegyzéseket készített a folyó vízszintjének emelkedéséről. Nagy nevetség tárgya lett azzal, hogy a folyóvölgyben fel s alá járva amellett érvelt, hogy minden házat fából, hajóformára kell építeni és hogy az áradási időszak közeledtével a háziállatokat éjszakára mindig a fedélzetre kell vinni. Még a szomszédos folyóparti településekre is elment minden évben és figyelmeztette őket, hogy ennyi meg ennyi nap múlva eljön majd az özönvíz. Végül aztán eljött egy esztendő, amikor az éves áradás vízszintjét a szokatlanul erős esőzés úgy megemelte, hogy a hirtelenül jött árhullám az egész falut elmosta; csak Noé és az ő közvetlen családja menekült meg a lakóbárkájukon{4}."
                 },
                 {
                     "par_ref": "78:7.6",
@@ -425,12 +425,12 @@
         }
     ],
     "footnotes": [
-        "*Zsidó genealógiák*: Gn 4:1-2,17-26; Gn 5:3-32; Gn 6:9-10; Gn 10:1-32; Gn 11:10-26.",
-        "*A világ pusztulása*: Gn 6:5-10.",
-        "*Nincs világméretű özönvíz*: Gn 7:10-24.",
-        "*Noé élt*: Gn 6:9-10.",
-        "*A valódi özönvíz*: Gn 7:10-24.",
-        "*Sargon*: Is 20:1."
+        "*Zsidó genealógiák*: Ter 4:1-2,17-26; Ter 5:3-32; Ter 6:9-10; Ter 10:1-32; Ter 11:10-26.",
+        "*A világ pusztulása*: Ter 6:5-10.",
+        "*Nincs világméretű özönvíz*: Ter 7:10-24.",
+        "*Noé élt*: Ter 6:9-10.",
+        "*A valódi özönvíz*: Ter 7:10-24.",
+        "*Sargon*: Iz 20:1."
     ],
     "paper_title": "Az ibolyaszín emberfajta az Ádám utáni időkben"
 }

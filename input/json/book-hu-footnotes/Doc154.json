@@ -13,7 +13,7 @@
                 {
                     "par_ref": "154:0.2",
                     "par_pageref": "1717.2",
-                    "par_content": "Heródes házának egyik tagja, Kuza, akinek a felesége a nők segédkező testületéhez tartozott, arról tájékoztatta, hogy Jézus nem pártolja a földi uralkodás dolgaiba való beavatkozást; hogy ő csakis a hívei szellemi testvériségének megalkotásán dolgozik, mely testvériséget ő a mennyországnak nevez. Heródes elhitte Kuza jelentéseit, méghozzá olyannyira, hogy nem is volt hajlandó beleavatkozni Jézus tevékenységeibe. Heródesnek a Jézussal szembeni magatartását ez alkalommal befolyásolta az is, hogy babonásan félt Keresztelő Jánostól{0}. Heródes a hitehagyott zsidók közé tartozott, akik, bár semmiben sem hittek, mindentől féltek. Rossz volt a lelkiismerete, amiért megölette Jánost, és nem akart belekeveredni a Jézus ellen irányuló cselszövésekbe. Tudomása volt sok olyan beteg esetéről, amikor Jézus nyilvánvaló gyógyítást vitt véghez, és úgy tekintett rá, mint egy látnokra vagy egy viszonylag ártalmatlan vallási megszállottra."
+                    "par_content": "Heródes házának egyik tagja, Kuza, akinek a felesége a nők segédkező testületéhez tartozott, arról tájékoztatta, hogy Jézus nem pártolja a földi uralkodás dolgaiba való beavatkozást; hogy ő csakis a hívei szellemi testvériségének megalkotásán dolgozik, mely testvériséget ő a mennyországnak nevez. Heródes elhitte Kuza jelentéseit, méghozzá olyannyira, hogy nem is volt hajlandó beleavatkozni Jézus tevékenységeibe. Heródesnek a Jézussal szembeni magatartását ez alkalommal befolyásolta az is, hogy babonásan félt Keresztelő Jánostól{0}. Heródes a hitehagyott zsidók közé tartozott, akik, bár semmiben sem hittek, mindentől féltek{1}. Rossz volt a lelkiismerete, amiért megölette Jánost, és nem akart belekeveredni a Jézus ellen irányuló cselszövésekbe. Tudomása volt sok olyan beteg esetéről, amikor Jézus nyilvánvaló gyógyítást vitt véghez, és úgy tekintett rá, mint egy látnokra vagy egy viszonylag ártalmatlan vallási megszállottra."
                 },
                 {
                     "par_ref": "154:0.3",
@@ -258,14 +258,14 @@
         }
     ],
     "footnotes": [
-        "*Heródes hozzáállása Jézushoz*: Mc 6:14; Lc 9:7.",
-        "*Heródes félelmei*: Mt 14:1-2; Mc 6:14-20; Lc 9:7-9.",
-        "*Jézus családja megérkezik*: Mt 12:46; Mc 3:31; Lc 8:19.",
-        "*Jézus elmondta a család várakozását*: Mt 12:47; Mc 3:32; Lc 8:20.",
-        "*Kik az én családom?*: Mt 12:48-50; Mc 3:33-35; Lc 8:21.",
-        "*Áldott az anyaméh, amely téged szült*: Lc 11:27-28.",
-        "*Ellenségek a saját családjában*: Mt 10:35-36; Mc 13:12; Lc 12:52-53.",
-        "*Nincs hová lehajtani a fejed*: Mt 8:20; Lc 9:58."
+        "*Heródes hozzáállása Jézushoz*: Mk 6:14; Lk 9:7.",
+        "*Heródes félelmei*: Mt 14:1-2; Mk 6:14-20; Lk 9:7-9.",
+        "*Jézus családja megérkezik*: Mt 12:46; Mk 3:31; Lk 8:19.",
+        "*Jézus elmondta a család várakozását*: Mt 12:47; Mk 3:32; Lk 8:20.",
+        "*Kik az én családom?*: Mt 12:48-50; Mk 3:33-35; Lk 8:21.",
+        "*Áldott az anyaméh, amely téged szült*: Lk 11:27-28.",
+        "*Ellenségek a saját családjában*: Mt 10:35-36; Mk 13:12; Lk 12:52-53.",
+        "*Nincs hová lehajtani a fejed*: Mt 8:20; Lk 9:58."
     ],
     "paper_title": "Az utolsó napok Kapernaumban"
 }

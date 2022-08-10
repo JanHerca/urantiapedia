@@ -67,7 +67,7 @@
                 {
                     "par_ref": "110:2.2",
                     "par_pageref": "1204.6",
-                    "par_content": "Munkamódszereiket tekintve állhatatosak, leleményesek és tökéletesek, de befogadó társuk saját akaratán sohasem tesznek erőszakot. Egyetlen emberi lényt sem fog soha isteni Nevelő akarata ellenére szellemivé alakítani; a továbbélés az Istenek ajándéka, amelyet az idő teremtményeinek maguknak kell kívánniuk{3}. Végső soron akármit is vitt véghez az Igazító, a feljegyzésekből mindig ki fog derülni, hogy azt a ti együttműködő jóváhagyásotokkal tette-e; ti az Igazító akarattal rendelkező társai lesztek a felemelkedési létpálya mérhetetlen átalakítási folyamatában, minden egyes lépés megtétele során."
+                    "par_content": "Munkamódszereiket tekintve állhatatosak, leleményesek és tökéletesek, de befogadó társuk saját akaratán sohasem tesznek erőszakot. Egyetlen emberi lényt sem fog soha isteni Nevelő akarata ellenére szellemivé alakítani; a továbbélés az Istenek ajándéka, amelyet az idő teremtményeinek maguknak kell kívánniuk{3}. Végső soron akármit is vitt véghez az Igazító, a feljegyzésekből mindig ki fog derülni, hogy azt a ti együttműködő jóváhagyásotokkal tette-e; ti az Igazító akarattal rendelkező társai lesztek a felemelkedési létpálya mérhetetlen átalakítási folyamatában, minden egyes lépés megtétele során{4}."
                 },
                 {
                     "par_ref": "110:2.3",
@@ -139,7 +139,7 @@
                 {
                     "par_ref": "110:3.9",
                     "par_pageref": "1206.7",
-                    "par_content": "3. Az ember szeretete és az ember szolgálata iránti őszinte vágy — az emberek közötti testvériség szívből fakadó felismerése, mely a minden egyes halandótársatokhoz való értelmes, bölcs szeretettel párosul{8}."
+                    "par_content": "3. Az ember szeretete és az ember szolgálata iránti őszinte vágy — az emberek közötti testvériség szívből fakadó felismerése, mely a minden egyes halandótársatokhoz való értelmes, bölcs szeretettel párosul{8}{9}."
                 },
                 {
                     "par_ref": "110:3.10",
@@ -408,17 +408,17 @@
         }
     ],
     "footnotes": [
-        "*Osztozunk a szenvedéseken*: Is 63:9.",
-        "*A test a hajlék*: Lc 17:21; Ro 8:9-11; 1 Co 3:16-17; 1 Co 6:19; 2 Co 6:16; 2 Ti 1:14; 1 Jn 4:12-15; Ap 21:3.",
-        "*A lélek egysége*: 1 Co 6:17.",
-        "*A túlélés ajándék*: Ro 5:15-18; Ro 6:23; 2 Co 9:15; Ef 2:8.",
-        "*Együttműködés és egyetértés*: Jn 3:15-16,36; Hch 8:37; Hch 16:31; Ap 22:17.",
-        "*Az elmék eggyé válnak*: Ro 7:23-25; Ro 8:27; Ro 12:2; Ef 4:23; Flp 2:5; Heb 8:10.",
-        "*Az isteni választása által*: Is 55:1-3; Mt 5:6; Mt 6:33; Lc 12:31.",
-        "*Isten szeretetével*: Dt 6:4-5; Dt 10:12; Dt 11:1,13,22; Dt 13:3; Dt 19:9; Dt 30:6,16,20; Mt 22:37; Mc 12:30; Lc 10:27; Ro 8:28; Jos 22:5; Jos 23:11.",
-        "*Az embertársak szeretetével*: Lv 19:18,34; Mt 5:43-44; Mt 19:19b; Mt 22:39; Mc 12:31,33; Lc 10:27; Ro 13:9b; Gl 5:13-14; 1 Ts 4:9; Stg 2:8; 1 P 1:22; 1 Jn 3:11,23; 1 Jn 4:7.11-12,21; 2 Jn 1:5.",
+        "*Osztozunk a szenvedéseken*: Iz 63:9.",
+        "*A test a hajlék*: Lk 17:21; Róm 8:9-11; 1Kor 3:16-17; 1Kor 6:19; 2Kor 6:16; 2Tim 1:14; 1Jn 4:12-15; Jel 21:3.",
+        "*A lélek egysége*: 1Kor 6:17.",
+        "*A túlélés ajándék*: Róm 5:15-18; Róm 6:23; 2Kor 9:15; Ef 2:8.",
+        "*Együttműködés és egyetértés*: Jn 3:15-16,36; ApCsel 8:37; ApCsel 16:31; Jel 22:17.",
+        "*Az elmék eggyé válnak*: Róm 7:23-25; Róm 8:27; Róm 12:2; Ef 4:23; Fil 2:5; Zsid 8:10.",
+        "*Az isteni választása által*: Iz 55:1-3; Mt 5:6; Mt 6:33; Lk 12:31.",
+        "*Isten szeretetével*: MTörv 6:4-5; MTörv 10:12; MTörv 11:1,13,22; MTörv 13:3; MTörv 19:9; MTörv 30:6,16,20; Mt 22:37; Mk 12:30; Lk 10:27; Róm 8:28; Józs 22:5; Józs 23:11.",
+        "*Az embertársak szeretetével*: Lev 19:18,34; Mt 5:43-44; Mt 19:19b; Mt 22:39; Mk 12:31,33; Lk 10:27; Róm 13:9b; Gal 5:13-14; 1Tesz 4:9; Jak 2:8; 1Pt 1:22; 1Jn 3:11,23; 1Jn 4:7.11-12,21; 2Jn 1:5.",
         "*Azáltal, hogy úgy szeretjük az embertársainkat, ahogy Jézus tette*: Jn 13:34-35; Jn 15:12,17.",
-        "*Tűzszekerekben*: 2 Re 2:11; 2 Re 6:17."
+        "*Tűzszekerekben*: 2Kir 2:11; 2Kir 6:17."
     ],
     "paper_title": "Az Igazítók viszonya a halandó egyénekhez"
 }

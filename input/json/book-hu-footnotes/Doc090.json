@@ -30,7 +30,7 @@
                 {
                     "par_ref": "90:1.1",
                     "par_pageref": "986.4",
-                    "par_content": "A sámán a legkiválóbb javas volt, a szertartással élő bűvtárgy-ember, és a központi személy minden evolúciós vallási hagyományban. Számos népcsoportnál a sámán magasabb rangban állt, mint a harcifőnök, s ez is jelezte az egyháznak az állam fölé kerekedésének kezdetét. A sámán néha papként, sőt papkirályként működött{0}. A későbbi törzsek némelyikében megvoltak mind a korábbi sámán-javasok (látnokok), mind pedig a később megjelenő sámánpapok. Sok esetben a sámáni hivatal öröklődött."
+                    "par_content": "A sámán a legkiválóbb javas volt, a szertartással élő bűvtárgy-ember, és a központi személy minden evolúciós vallási hagyományban. Számos népcsoportnál a sámán magasabb rangban állt, mint a harcifőnök, s ez is jelezte az egyháznak az állam fölé kerekedésének kezdetét. A sámán néha papként, sőt papkirályként működött{0}. A későbbi törzsek némelyikében megvoltak mind a korábbi sámán-javasok (látnokok), mind pedig a később megjelenő sámánpapok{1}. Sok esetben a sámáni hivatal öröklődött."
                 },
                 {
                     "par_ref": "90:1.2",
@@ -87,7 +87,7 @@
                 {
                     "par_ref": "90:2.5",
                     "par_pageref": "988.1",
-                    "par_content": "A javas emberek erősen bíztak az előjelekben és a baljóslatú jelekben, mint amilyen az is, hogy „és mikor a szederfák tetején indulásnak zaját fogod hallani, akkor indulj meg”{3}. A sámánok a faj történelme során már nagyon korán a csillagok felé fordították a figyelmüket. A kezdetleges csillagjóslás világszerte elterjedt hiedelem és gyakorlat volt; az álomfejtés szintén széles körben elterjedt. Mindezt hamarosan követte azoknak a heves vérmérsékletű sámánnőknek a megjelenése, akik azt állították magukról, hogy képesek kapcsolatba lépni a holtak szellemeivel."
+                    "par_content": "A javas emberek erősen bíztak az előjelekben és a baljóslatú jelekben, mint amilyen az is, hogy „és mikor a szederfák tetején indulásnak zaját fogod hallani, akkor indulj meg”{3}. A sámánok a faj történelme során már nagyon korán a csillagok felé fordították a figyelmüket. A kezdetleges csillagjóslás világszerte elterjedt hiedelem és gyakorlat volt; az álomfejtés szintén széles körben elterjedt{4}. Mindezt hamarosan követte azoknak a heves vérmérsékletű sámánnőknek a megjelenése, akik azt állították magukról, hogy képesek kapcsolatba lépni a holtak szellemeivel{5}."
                 },
                 {
                     "par_ref": "90:2.6",
@@ -258,7 +258,7 @@
                 {
                     "par_ref": "90:5.3",
                     "par_pageref": "992.4",
-                    "par_content": "A szavak a szertartás részévé válnak, mint az olyan szavak használata is, mint az ámen és a szela{8}. A szentségtörés, az istenkáromlás a szent nevek korábbi szertartásos ismétlésének lealjasítását jelentik. A szent helyekhez való elzarándokolás nagyon ősi szertartás. A szertartás ezután a testi és a lelki megtisztulás és a megszentesülés kifinomult szertartásaivá nőtte ki magát. Az ősi titkos törzsi társaságok beavatási szertartásai a valóságban durva vallási szertartásos szokások voltak. A régi idők rejtelemimádásának áhítati eljárása pusztán a felhalmozódott vallási szertartások hosszúra nyúlt előadása volt. A megszokott eljárás végül a társadalmi szertartások és vallási istentiszteletek mai fajtáivá fejlődött, olyan szertartásokká, melyek magukba foglalják az imádkozást, az éneklést, a felelgetős felolvasást, valamint a szellemi áhítat más egyéni és csoportos formáit."
+                    "par_content": "A szavak a szertartás részévé válnak, mint az olyan szavak használata is, mint az ámen és a szela{8}{9}. A szentségtörés, az istenkáromlás a szent nevek korábbi szertartásos ismétlésének lealjasítását jelentik. A szent helyekhez való elzarándokolás nagyon ősi szertartás. A szertartás ezután a testi és a lelki megtisztulás és a megszentesülés kifinomult szertartásaivá nőtte ki magát{10}{11}{12}. Az ősi titkos törzsi társaságok beavatási szertartásai a valóságban durva vallási szertartásos szokások voltak. A régi idők rejtelemimádásának áhítati eljárása pusztán a felhalmozódott vallási szertartások hosszúra nyúlt előadása volt. A megszokott eljárás végül a társadalmi szertartások és vallási istentiszteletek mai fajtáivá fejlődött, olyan szertartásokká, melyek magukba foglalják az imádkozást, az éneklést, a felelgetős felolvasást, valamint a szellemi áhítat más egyéni és csoportos formáit."
                 },
                 {
                     "par_ref": "90:5.4",
@@ -294,19 +294,19 @@
         }
     ],
     "footnotes": [
-        "*Sámánok (papok)*: Ex 2:16; Ex 28:1-43; Ex 29:4-9,29; Nm 18:1-10.",
-        "*Látók*: 2 Re 17:13; 1 Cr 29:29; 1 Sam 9:8-11,18-19; 2 Sam 15:27.",
-        "*Boszorkányság*: Ex 22:18; Dt 18:10-12; 1 Sam 15:23.",
-        "*Amikor szélzúgást hallasz*: 1 Cr 14:15; 2 Sam 5:24.",
-        "*Asztrológia*: Is 47:13; Dn 2:2; Am 5:26; Mt 2:7,9-10.",
-        "*Sámánnők*: 1 Sam 28:7-19.",
+        "*Sámánok (papok)*: Kiv 2:16; Kiv 28:1-43; Kiv 29:4-9,29; Szám 18:1-10.",
+        "*Látók*: 2Kir 17:13; 1Krón 29:29; 1Sám 9:8-11,18-19; 2Sám 15:27.",
+        "*Boszorkányság*: Kiv 22:18; MTörv 18:10-12; 1Sám 15:23.",
+        "*Amikor szélzúgást hallasz*: 1Krón 14:15; 2Sám 5:24.",
+        "*Asztrológia*: Iz 47:13; Dán 2:2; Ám 5:26; Mt 2:7,9-10.",
+        "*Sámánnők*: 1Sám 28:7-19.",
         "*Szerencsecsillagok*: Mt 2:2.",
-        "*A Mindenható nyilai*: Job 6:4; Sal 38:1-2.",
-        "*„Ámen” mint rituálé*: Nm 5:22.",
-        "*„Selah” mint rituálé*: Sal 3:2.",
-        "*Megtisztítás: (Vörös üsző rituálé)*: Nm 19:1-22. *az oltárról*: Lv 8:15. *a háborúban szerzett zsákmányból*: Nm 31:12-24. *a papok ruháinak*: Ex 29:4. *a hajlékot*: Ex 29:41-44. *a szülés utáni asszonyoké*: Lv 12:1-7.",
-        "*Tisztulj meg: a gyülekezet bűneiből*: Lv 4:13-21. *az egyéni bűnöktől*: Lv 5:1-13. *a leprától*: Lv 14:2-11. *a vétkektől*: Lv 6:8-18.",
-        "*Megszentelni a felkenés által*: Ex 40:9-11. *az Úr által*: Lv 22:9,16. *az elsőszülött férfiaktól*: Ex 13:2. *az emberek*: Ex 19:10,14. *a hajlék és a terület*: Ex 29:41-44."
+        "*A Mindenható nyilai*: Jób 6:4; Zsolt 38:1-2.",
+        "*„Ámen” mint rituálé*: Szám 5:22.",
+        "*„Selah” mint rituálé*: Zsolt 3:2.",
+        "*Megtisztítás: (Vörös üsző rituálé)*: Szám 19:1-22. *az oltárról*: Lev 8:15. *a háborúban szerzett zsákmányból*: Szám 31:12-24. *a papok ruháinak*: Kiv 29:4. *a hajlékot*: Kiv 29:41-44. *a szülés utáni asszonyoké*: Lev 12:1-7.",
+        "*Tisztulj meg: a gyülekezet bűneiből*: Lev 4:13-21. *az egyéni bűnöktől*: Lev 5:1-13. *a leprától*: Lev 14:2-11. *a vétkektől*: Lev 6:8-18.",
+        "*Megszentelni a felkenés által*: Kiv 40:9-11. *az Úr által*: Lev 22:9,16. *az elsőszülött férfiaktól*: Kiv 13:2. *az emberek*: Kiv 19:10,14. *a hajlék és a terület*: Kiv 29:41-44."
     ],
     "paper_title": "Sámánizmus — javasok és papok"
 }

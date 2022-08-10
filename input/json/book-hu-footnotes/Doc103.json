@@ -127,7 +127,7 @@
                 {
                     "par_ref": "103:2.9",
                     "par_pageref": "1131.8",
-                    "par_content": "De még mielőtt a gyermek eléggé fejletté vált volna ahhoz, hogy erkölcsi képességre tegyen szert és ezáltal képessé váljon az emberbaráti szolgálat választására, már erős és jól egyesített önös természetet alakított ki. Ez a valóságos helyzet az, mely a „felsőbbrendű” és az „alsóbbrendű” természet közötti, a „bűnbeli régi ember” és a kegyelem „új természete” közötti küzdelem elméletének megjelenéséhez vezet{2}. A rendesen fejlődő gyermek az élete során már nagyon korán elkezdi megtanulni, hogy „áldottabb adni, mint kapni”."
+                    "par_content": "De még mielőtt a gyermek eléggé fejletté vált volna ahhoz, hogy erkölcsi képességre tegyen szert és ezáltal képessé váljon az emberbaráti szolgálat választására, már erős és jól egyesített önös természetet alakított ki. Ez a valóságos helyzet az, mely a „felsőbbrendű” és az „alsóbbrendű” természet közötti, a „bűnbeli régi ember” és a kegyelem „új természete” közötti küzdelem elméletének megjelenéséhez vezet{2}. A rendesen fejlődő gyermek az élete során már nagyon korán elkezdi megtanulni, hogy „áldottabb adni, mint kapni”{3}."
                 },
                 {
                     "par_ref": "103:2.10",
@@ -213,7 +213,7 @@
                 {
                     "par_ref": "103:5.2",
                     "par_pageref": "1133.7",
-                    "par_content": "A másokkal jót tenni eszme-eszményképe — az a késztetés, hogy az ember megtagadjon a tudatos énjétől valamit a szomszédja előnyére — először még igen szűkre szabott dolog{5}. Az ősember csak azokat tekinti szomszédjának, akik nagyon közel vannak hozzá, akikkel jószomszédi viszonyban van; a vallásos polgárosodott társadalom kibontakozásával az ember szomszédjának fogalma kiterjed a nemzetségre, a törzsre, a nemzetre. Jézus aztán tovább tágította a szomszéd fogalmát úgy, hogy az magába foglalja az egész emberiséget, még az ellenségeinket is szeretnünk kell. Minden egészséges emberi lényben van belül valami, ami azt mondja neki, hogy e tanítás erkölcsös — helyes. Még azok is, akik ezt az eszményképet a legkevésbé teszik a magukévá, elismerik annak elméleti helyességét."
+                    "par_content": "A másokkal jót tenni eszme-eszményképe — az a késztetés, hogy az ember megtagadjon a tudatos énjétől valamit a szomszédja előnyére — először még igen szűkre szabott dolog{5}. Az ősember csak azokat tekinti szomszédjának, akik nagyon közel vannak hozzá, akikkel jószomszédi viszonyban van; a vallásos polgárosodott társadalom kibontakozásával az ember szomszédjának fogalma kiterjed a nemzetségre, a törzsre, a nemzetre{6}{7}. Jézus aztán tovább tágította a szomszéd fogalmát úgy, hogy az magába foglalja az egész emberiséget, még az ellenségeinket is szeretnünk kell{8}{9}. Minden egészséges emberi lényben van belül valami, ami azt mondja neki, hogy e tanítás erkölcsös — helyes. Még azok is, akik ezt az eszményképet a legkevésbé teszik a magukévá, elismerik annak elméleti helyességét."
                 },
                 {
                     "par_ref": "103:5.3",
@@ -542,20 +542,20 @@
         }
     ],
     "footnotes": [
-        "*Lélek az emberben (Szentlélek)*: Gn 1:2; Ex 31:3; Ex 35:31; Job 33:4; Sal 51:10-11; Sal 139:7; Pr 1:23; Is 44:3; Is 59:21; Is 61:1; Is 63:10-11; Lc 4:1; Lc 11:13; Jn 1:33; Jn 3:5; 2 Ti 1:14. *Lélek az emberben (az Igazság Lelke)*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15. *Szellem az emberben (Gondolatigazító)*: Job 32:8,18; Is 63:10-11; Ez 37:14; Mt 10:20; Lc 17:21; Jn 17:21-23; Ro 8:9-11; 1 Co 3:16-17; 1 Co 6:19; 2 Co 6:16; Gl 2:20; 1 Jn 3:24; 1 Jn 4:12-15; Ap 21:3.",
+        "*Lélek az emberben (Szentlélek)*: Ter 1:2; Kiv 31:3; Kiv 35:31; Jób 33:4; Zsolt 51:10-11; Zsolt 139:7; Péld 1:23; Iz 44:3; Iz 59:21; Iz 61:1; Iz 63:10-11; Lk 4:1; Lk 11:13; Jn 1:33; Jn 3:5; 2Tim 1:14. *Lélek az emberben (az Igazság Lelke)*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jo 2:28-29; Lk 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7,13-14; Jn 17:21-23; ApCsel 1:5,8a; ApCsel 2:1-4,16-18; ApCsel 2:33; 2Kor 13:5; Gal 2:20; Gal 4:6; Ef 1:13; Ef 4:30; 1Jn 4:12-15. *Szellem az emberben (Gondolatigazító)*: Jób 32:8,18; Iz 63:10-11; Ez 37:14; Mt 10:20; Lk 17:21; Jn 17:21-23; Róm 8:9-11; 1Kor 3:16-17; 1Kor 6:19; 2Kor 6:16; Gal 2:20; 1Jn 3:24; 1Jn 4:12-15; Jel 21:3.",
         "*Szellemi „születés” napja*: Jn 1:13; Jn 3:3-8.",
-        "*Felsőbb és alacsonyabb természet*: Ro 6:6; Ef 4:22-24; Col 3:9-10.",
-        "*Több áldást adni*: Hch 20:35.",
-        "*Aranyszabály az Igazítótól*: Mt 7:12; Lc 6:31.",
-        "*Tegyetek jót másokkal*: Gl 6:10.",
-        "*Szeresd felebarátodat, mint önmagadat*: Lv 19:18,34; Mt 5:43-44; Mt 19:19; Mt 22:39; Mc 12:31,33; Lc 10:27; Ro 13:9b; Gl 5:13-14; Stg 2:8.",
-        "*Szeressétek egymást*: 1 Ts 4:9; 1 P 1:22; 1 Jn 3:11,23; 1 Jn 4:7,11-12,21; 2 Jn 1:5.",
+        "*Felsőbb és alacsonyabb természet*: Róm 6:6; Ef 4:22-24; Kol 3:9-10.",
+        "*Áldásosabb adni*: ApCsel 20:35.",
+        "*Aranyszabály az Igazítótól*: Mt 7:12; Lk 6:31.",
+        "*Tegyetek jót másokkal*: Gal 6:10.",
+        "*Szeresd felebarátodat, mint önmagadat*: Lev 19:18,34; Mt 5:43-44; Mt 19:19; Mt 22:39; Mk 12:31,33; Lk 10:27; Róm 13:9b; Gal 5:13-14; Jak 2:8.",
+        "*Szeressétek egymást*: 1Tesz 4:9; 1Pt 1:22; 1Jn 3:11,23; 1Jn 4:7,11-12,21; 2Jn 1:5.",
         "*Szeressétek az embertársaitokat, ahogy Jézus szerette*: Jn 13:34-35; Jn 15:12,17.",
-        "*Szeressétek az ellenséget*: Mt 5:44; Lc 6:27,35.",
-        "*Ha megmented az életet, veszítsd el; ha elveszíted, találd meg*: Mt 10:39; Mt 16:25; Mc 8:35; Lc 9:24; Lc 17:33; Jn 12:25.",
-        "*Ahol az Úr lelke*: 2 Co 3:17.",
-        "*Isten szellem*: Jn 4:24.",
-        "*ÉN VAGYOK*: Ex 3:13-14."
+        "*Szeressétek az ellenséget*: Mt 5:44; Lk 6:27,35.",
+        "*Ha megmented az életet, veszítsd el; ha elveszíted, találd meg*: Mt 10:39; Mt 16:25; Mk 8:35; Lk 9:24; Lk 17:33; Jn 12:25.",
+        "*Ahol az Úr lelke*: 2Kor 3:17.",
+        "*Isten lélek*: Jn 4:24.",
+        "*Én Vagyok*: Kiv 3:13-14."
     ],
     "paper_title": "A vallásos tapasztalás valósága"
 }

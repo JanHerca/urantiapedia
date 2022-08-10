@@ -45,7 +45,7 @@
                 {
                     "par_ref": "88:1.5",
                     "par_pageref": "967.7",
-                    "par_content": "Amikor állatok váltak bűvtárggyá, kialakult a bűvtárgyi állat húsa evésének tabuja. Az emberszabású és a nem emberszabású majmok éppen az emberhez való hasonlatosságuk miatt már korán bűvtárgyi állatokká lettek; később ugyanilyennek tekintették a kígyókat, a madarakat és a sertést. Egykor a tehén bűvtárgy volt, a teje pedig tabu, míg az ürülékét nagyra tartották. A kígyót imádták Palesztinában, különösen a föníciaiak, akik a zsidókkal egyetemben a rossz szellemek akarata kinyilvánítójának tartották ezt az állatot{0}. Számos mai ember hisz a hüllők varázserejében. Arábiától Indián át egészen a moki törzshöz tartozó vörös emberek kígyótáncáig az emberek hódoltak a kígyónak."
+                    "par_content": "Amikor állatok váltak bűvtárggyá, kialakult a bűvtárgyi állat húsa evésének tabuja. Az emberszabású és a nem emberszabású majmok éppen az emberhez való hasonlatosságuk miatt már korán bűvtárgyi állatokká lettek; később ugyanilyennek tekintették a kígyókat, a madarakat és a sertést. Egykor a tehén bűvtárgy volt, a teje pedig tabu, míg az ürülékét nagyra tartották. A kígyót imádták Palesztinában, különösen a föníciaiak, akik a zsidókkal egyetemben a rossz szellemek akarata kinyilvánítójának tartották ezt az állatot{0}{1}. Számos mai ember hisz a hüllők varázserejében. Arábiától Indián át egészen a moki törzshöz tartozó vörös emberek kígyótáncáig az emberek hódoltak a kígyónak."
                 },
                 {
                     "par_ref": "88:1.6",
@@ -92,7 +92,7 @@
                 {
                     "par_ref": "88:2.3",
                     "par_pageref": "969.1",
-                    "par_content": "A tűz helye — a tűzhely — többé-kevésbé bűvtárgyivá, szent hellyé vált. A szentélyek és a templomok lettek az első bűvtárgyi helyek, mert a holtakat ott temették el. A héberek bűvtárgyi kunyhóját Mózes emelte arra a szintre, ahol az már egy mindennél nagyobb bűvtárgynak adott otthont, az akkoriban létezett Isten törvényének{3}. De az izraeliták sohasem adták fel a kőoltárban való különös kánaáni hitüket: „És ez a kő, melyet oszlopul állítottam fel, Isten háza lesz.” Őszintén hitték, hogy az Istenük szelleme ilyen kőoltárokban lakozik, melyek valójában bűvtárgyak voltak."
+                    "par_content": "A tűz helye — a tűzhely — többé-kevésbé bűvtárgyivá, szent hellyé vált. A szentélyek és a templomok lettek az első bűvtárgyi helyek, mert a holtakat ott temették el. A héberek bűvtárgyi kunyhóját Mózes emelte arra a szintre, ahol az már egy mindennél nagyobb bűvtárgynak adott otthont, az akkoriban létezett Isten törvényének{3}. De az izraeliták sohasem adták fel a kőoltárban való különös kánaáni hitüket: „És ez a kő, melyet oszlopul állítottam fel, Isten háza lesz{4}.” Őszintén hitték, hogy az Istenük szelleme ilyen kőoltárokban lakozik, melyek valójában bűvtárgyak voltak."
                 },
                 {
                     "par_ref": "88:2.4",
@@ -102,7 +102,7 @@
                 {
                     "par_ref": "88:2.5",
                     "par_pageref": "969.3",
-                    "par_content": "A második parancsolatnak az ősi dalamatiai erkölcsi törvényekhez való hozzátételével Mózes kísérletet tett a bűvtárgyimádás szabályozására a héberek körében{5}. Körültekintően úgy rendelkezett, hogy ne készítsenek bűvtárgyi hit céljára használható képeket. Világossá tette, hogy „Ne csinálj magadnak faragott képet, és semmi hasonlót azokhoz, amelyek fenn az égben vagy amelyek alant a földön vagy amelyek a föld vizeiben vannak.” Bár e parancsolat nagyban hátráltatta a művészet fejlődését a zsidók körében, azért visszafogta a bűvtárgyimádást is. De Mózes elég bölcs volt ahhoz, hogy ne próbálkozzon a régi bűvtárgyak hirtelen lecserélésével, és ezért beleegyezett abba, hogy bizonyos kegyeleti tárgyakat hordjanak a törvényhez a közös harci oltárban és vallási szentélyben, mely a frigyszekrény volt."
+                    "par_content": "A második parancsolatnak az ősi dalamatiai erkölcsi törvényekhez való hozzátételével Mózes kísérletet tett a bűvtárgyimádás szabályozására a héberek körében{5}. Körültekintően úgy rendelkezett, hogy ne készítsenek bűvtárgyi hit céljára használható képeket. Világossá tette, hogy „Ne csinálj magadnak faragott képet, és semmi hasonlót azokhoz, amelyek fenn az égben vagy amelyek alant a földön vagy amelyek a föld vizeiben vannak{6}.” Bár e parancsolat nagyban hátráltatta a művészet fejlődését a zsidók körében, azért visszafogta a bűvtárgyimádást is. De Mózes elég bölcs volt ahhoz, hogy ne próbálkozzon a régi bűvtárgyak hirtelen lecserélésével, és ezért beleegyezett abba, hogy bizonyos kegyeleti tárgyakat hordjanak a törvényhez a közös harci oltárban és vallási szentélyben, mely a frigyszekrény volt."
                 },
                 {
                     "par_ref": "88:2.6",
@@ -291,15 +291,15 @@
         }
     ],
     "footnotes": [
-        "*Kígyótisztelet*: Ex 4:2-4; Ex 7:9-12; 2 Re 18:4; Nm 21:8-9; Nm (Da 14:23-27): Bel 1:23-27; Jn 3:14.",
-        "*Kígyók: a gonosz szellemek hangjai*: Gn 3:1-5.",
-        "*Az emberek számbavétele*: Ex 30:12-16; 1 Cr 21:1-4; 1 Cr 27:23-24; 2 Sam 24:1-4.",
-        "*Mózes által emelt fétis kunyhó*: Ex 25:8-10; Ex 33:7-10; Ex 40:1-8; 1 Re 5:2-5.",
-        "*Oszlopként felállított kő*: Gn 28:22.",
-        "*Új fétisek*: Ex 25:10-16; Ex 37:1-9; Ex 40:20; 1 Re 8:9; 2 Re 18:4; Dt 10:1-5; Heb 9:4.",
-        "*Semmilyen faragott képmás nem lehet*: Ex 20:4; Ex 34:17; Lv 26:1; Dt 5:8.",
-        "*Szent könyv fétis*: Is 11:12; Ap 7:1.",
-        "*Nevek mint fétis*: Ex 20:7; Lv 19:12; Lv 24:11-16; Dt 5:11."
+        "*Kígyótisztelet*: Kiv 4:2-4; Kiv 7:9-12; 2Kir 18:4; Szám 21:8-9; Szám (Da 14:23-27): Bel 1:23-27; Jn 3:14.",
+        "*Kígyók: a gonosz szellemek hangjai*: Ter 3:1-5.",
+        "*Az emberek számbavétele*: Kiv 30:12-16; 1Krón 21:1-4; 1Krón 27:23-24; 2Sám 24:1-4.",
+        "*Mózes által emelt fétis kunyhó*: Kiv 25:8-10; Kiv 33:7-10; Kiv 40:1-8; 1Kir 5:2-5.",
+        "*Oszlopként felállított kő*: Ter 28:22.",
+        "*Új fétisek*: Kiv 25:10-16; Kiv 37:1-9; Kiv 40:20; 1Kir 8:9; 2Kir 18:4; MTörv 10:1-5; Zsid 9:4.",
+        "*Semmilyen faragott képmás nem lehet*: Kiv 20:4; Kiv 34:17; Lev 26:1; MTörv 5:8.",
+        "*Szent könyv fétis*: Iz 11:12; Jel 7:1.",
+        "*Nevek mint fétis*: Kiv 20:7; Lev 19:12; Lev 24:11-16; MTörv 5:11."
     ],
     "paper_title": "Bűvtárgyak, szerencsetárgyak és varázslás"
 }

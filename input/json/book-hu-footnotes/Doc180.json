@@ -13,12 +13,12 @@
                 {
                     "par_ref": "180:0.2",
                     "par_pageref": "1944.2",
-                    "par_content": "„Jól emlékeztek, amikor erszény és tarisznya nélkül küldtelek ki titeket és még azt is javasoltam, hogy ne vigyetek magatokkal külön ruhát. Mindannyian emlékeztek, hogy semmiben sem szenvedtetek hiányt. De most nehéz idők elébe néztek. Többé már nem számíthattok a tömegek jóindulatára. Mostantól kezdve, akinek van erszénye, vigye magával. Amikor elindultok a világba hirdetni ezt az örömhírt, az ellátásotokra azt vigyétek, amit a legjobbnak gondoltok{0}. Én azért jöttem, hogy békét hozzak, de az most egy időig nem fog előtűnni."
+                    "par_content": "„Jól emlékeztek, amikor erszény és tarisznya nélkül küldtelek ki titeket és még azt is javasoltam, hogy ne vigyetek magatokkal külön ruhát. Mindannyian emlékeztek, hogy semmiben sem szenvedtetek hiányt. De most nehéz idők elébe néztek. Többé már nem számíthattok a tömegek jóindulatára. Mostantól kezdve, akinek van erszénye, vigye magával. Amikor elindultok a világba hirdetni ezt az örömhírt, az ellátásotokra azt vigyétek, amit a legjobbnak gondoltok{0}. Én azért jöttem, hogy békét hozzak, de az most egy időig nem fog előtűnni{1}."
                 },
                 {
                     "par_ref": "180:0.3",
                     "par_pageref": "1944.3",
-                    "par_content": "Eljött az ideje annak, hogy az Ember Fia megdicsőüljön, és az Atya bennem fog megdicsőülni{2}. Barátaim, én már csak egy kis időre vagyok veletek. Hamarosan keresni fogtok, de nem találtok meg, mert olyan helyre megyek, ahová ti most nem jöhettek. De amint elvégeztétek a dolgotokat a földön, mint ahogy én is elvégeztem az enyémet, akkor eljöttök majd hozzám, éppen úgy, ahogy én most az Atyámhoz megyek. Rövid időn belül elhagylak titeket, többé nem láttok engem a földön, de mind látni fogtok az eljövendő korszakban, amikor felemelkedtek az országhoz, melyet Atyám nekem adott.”"
+                    "par_content": "Eljött az ideje annak, hogy az Ember Fia megdicsőüljön, és az Atya bennem fog megdicsőülni{2}. Barátaim, én már csak egy kis időre vagyok veletek. Hamarosan keresni fogtok, de nem találtok meg, mert olyan helyre megyek, ahová ti most nem jöhettek{3}{4}. De amint elvégeztétek a dolgotokat a földön, mint ahogy én is elvégeztem az enyémet, akkor eljöttök majd hozzám, éppen úgy, ahogy én most az Atyámhoz megyek{5}. Rövid időn belül elhagylak titeket, többé nem láttok engem a földön, de mind látni fogtok az eljövendő korszakban, amikor felemelkedtek az országhoz, melyet Atyám nekem adott.”"
                 }
             ]
         },
@@ -35,12 +35,12 @@
                 {
                     "par_ref": "180:1.2",
                     "par_pageref": "1944.5",
-                    "par_content": "Amikor ezen új parancsolatot adom, nem teszek új terhet a lelketekre; inkább új örömöt hozok nektek és lehetővé teszem számotokra, hogy új gyönyörűséget találjatok az abból fakadó boldogság megismerésében, hogy a szívetek ragaszkodását az embertársaitoknak adományozzátok{7}. A nektek és a halandó társaitoknak való szeretet-adományozásában én a legfelsőbb rendű örömöt fogom megtapasztalni, még ha kifelé szenvedést élek is át."
+                    "par_content": "Amikor ezen új parancsolatot adom, nem teszek új terhet a lelketekre; inkább új örömöt hozok nektek és lehetővé teszem számotokra, hogy új gyönyörűséget találjatok az abból fakadó boldogság megismerésében, hogy a szívetek ragaszkodását az embertársaitoknak adományozzátok{7}. A nektek és a halandó társaitoknak való szeretet-adományozásában én a legfelsőbb rendű örömöt fogom megtapasztalni, még ha kifelé szenvedést élek is át{8}."
                 },
                 {
                     "par_ref": "180:1.3",
                     "par_pageref": "1944.6",
-                    "par_content": "Amikor arra hívlak fel titeket, hogy szeressétek a másikat, éppen úgy, ahogy én szerettelek titeket, akkor az igaz ragaszkodás legfelsőbb mércéjét mutatom nektek, mert embernek ennél nagyobb szeretete nem lehet: hogy életét adja a barátaiért{9}. És ti a barátaim vagytok; azok is maradtok, ha hajlandók vagytok megtenni, amit tanítottam nektek. Mesternek hívtatok, de én nem neveztelek benneteket szolgáknak. Ha szeretni tudjátok egymást úgy, ahogy én szeretlek titeket, akkor a barátaim lesztek, és én mindig azt fogom mondani nektek, amit az Atya kinyilatkoztat nekem."
+                    "par_content": "Amikor arra hívlak fel titeket, hogy szeressétek a másikat, éppen úgy, ahogy én szerettelek titeket, akkor az igaz ragaszkodás legfelsőbb mércéjét mutatom nektek, mert embernek ennél nagyobb szeretete nem lehet: hogy életét adja a barátaiért{9}{10}. És ti a barátaim vagytok; azok is maradtok, ha hajlandók vagytok megtenni, amit tanítottam nektek. Mesternek hívtatok, de én nem neveztelek benneteket szolgáknak. Ha szeretni tudjátok egymást úgy, ahogy én szeretlek titeket, akkor a barátaim lesztek, és én mindig azt fogom mondani nektek, amit az Atya kinyilatkoztat nekem."
                 },
                 {
                     "par_ref": "180:1.4",
@@ -67,7 +67,7 @@
                 {
                     "par_ref": "180:2.1",
                     "par_pageref": "1945.4",
-                    "par_content": "Ezután Jézus újra felállt és folytatta az apostolai tanítását: „Én vagyok az igazi szőlőtő, és az én Atyám a szőlőműves. Én vagyok a szőlőtő, és ti vagytok az ágak. Az Atya csak azt kívánja tőlem, hogy ti bő termést hozzatok{14}. A szőlőtövet csak azért metszik meg, hogy növeljék az ágainak terméshozamát. A belőlem kihajtó minden olyan ágat, mely nem hoz gyümölcsöt, az Atya lemetsz. Minden gyümölcshozó ágat az Atya megtisztít, hogy még több gyümölcsöt teremjen. Az általam elmondott szavakon keresztül ti már tiszták vagytok, de továbbra is tisztának kell maradnotok. Bennem kell lakoznotok, és nekem tibennetek; meghal az ág, ha elválasztják a tőtől. Miként az ág nem tud teremni, hacsak nem marad meg a szőlőtőn, úgy ti sem tudjátok a szeretetteljes szolgálat gyümölcseit teremni, hacsak nem maradtok meg bennem. Emlékezzetek: Én vagyok a valódi szőlőtő, és ti vagytok az élő ágak. Aki bennem él, és én őbenne, az bőven termi a szellem gyümölcseit és megtapasztalja a szellemi szüretet eredményező legfelsőbb örömöt. Ha ezen élő szellemi kapcsolatot fenntartjátok velem, bőséges lesz a termésetek. Ha megmaradtok bennem és a szavaim bennetek élnek, akkor képesek lesztek szabadon tanácskozni velem, és akkor az én élő szellemem képes olyannyira átjárni titeket, hogy kérhettek bármit, amit a szellemem akar, és mindezt ama bizonyságban tehetitek, hogy az Atya teljesíti a kérésünket. Ebben dicsőül meg az Atya: hogy a szőlőtőnek számos élő ága van, és hogy minden egyes ág sok gyümölcsöt hoz. Amikor a világ meglátja e gyümölcstermő ágakat — a barátaimat, akik szeretik egymást, éppen úgy, ahogy én szerettem őket — minden ember tudni fogja, hogy ti igazán az én tanítványaim vagytok."
+                    "par_content": "Ezután Jézus újra felállt és folytatta az apostolai tanítását: „Én vagyok az igazi szőlőtő, és az én Atyám a szőlőműves. Én vagyok a szőlőtő, és ti vagytok az ágak. Az Atya csak azt kívánja tőlem, hogy ti bő termést hozzatok{14}. A szőlőtövet csak azért metszik meg, hogy növeljék az ágainak terméshozamát. A belőlem kihajtó minden olyan ágat, mely nem hoz gyümölcsöt, az Atya lemetsz. Minden gyümölcshozó ágat az Atya megtisztít, hogy még több gyümölcsöt teremjen. Az általam elmondott szavakon keresztül ti már tiszták vagytok, de továbbra is tisztának kell maradnotok. Bennem kell lakoznotok, és nekem tibennetek; meghal az ág, ha elválasztják a tőtől. Miként az ág nem tud teremni, hacsak nem marad meg a szőlőtőn, úgy ti sem tudjátok a szeretetteljes szolgálat gyümölcseit teremni, hacsak nem maradtok meg bennem. Emlékezzetek: Én vagyok a valódi szőlőtő, és ti vagytok az élő ágak{15}. Aki bennem él, és én őbenne, az bőven termi a szellem gyümölcseit és megtapasztalja a szellemi szüretet eredményező legfelsőbb örömöt. Ha ezen élő szellemi kapcsolatot fenntartjátok velem, bőséges lesz a termésetek. Ha megmaradtok bennem és a szavaim bennetek élnek, akkor képesek lesztek szabadon tanácskozni velem, és akkor az én élő szellemem képes olyannyira átjárni titeket, hogy kérhettek bármit, amit a szellemem akar, és mindezt ama bizonyságban tehetitek, hogy az Atya teljesíti a kérésünket{16}. Ebben dicsőül meg az Atya: hogy a szőlőtőnek számos élő ága van, és hogy minden egyes ág sok gyümölcsöt hoz. Amikor a világ meglátja e gyümölcstermő ágakat — a barátaimat, akik szeretik egymást, éppen úgy, ahogy én szerettem őket — minden ember tudni fogja, hogy ti igazán az én tanítványaim vagytok{17}."
                 },
                 {
                     "par_ref": "180:2.2",
@@ -87,7 +87,7 @@
                 {
                     "par_ref": "180:2.5",
                     "par_pageref": "1946.3",
-                    "par_content": "Amikor az isteniség és az emberiség között megvan ez az élő kapcsolat, s ha az emberiség meggondolatlanul és tudatlanul önző jólétért és öntelt eredményekért imádkozik, akkor csakis egy isteni válasz lehetséges: több és bővebb gyümölcs meghozatala a szellemből az élő ágak törzsökein. Amikor a szőlőtő ága él, csak egy válasz lehetséges annak minden kérelmére: bővebb szőlőtermés. Valójában az ág csak a gyümölcsért, a szőlőtermésért él, és nem is tehet mást{21}. Az igaz hívő így él, csakis a szellem gyümölcseinek meghozatala céljából: hogy úgy szeresse az embert, ahogy őt magát szerette az Isten — hogy úgy szeressük egymást, ahogy Jézus szeretett bennünket."
+                    "par_content": "Amikor az isteniség és az emberiség között megvan ez az élő kapcsolat, s ha az emberiség meggondolatlanul és tudatlanul önző jólétért és öntelt eredményekért imádkozik, akkor csakis egy isteni válasz lehetséges: több és bővebb gyümölcs meghozatala a szellemből az élő ágak törzsökein. Amikor a szőlőtő ága él, csak egy válasz lehetséges annak minden kérelmére: bővebb szőlőtermés. Valójában az ág csak a gyümölcsért, a szőlőtermésért él, és nem is tehet mást{21}. Az igaz hívő így él, csakis a szellem gyümölcseinek meghozatala céljából: hogy úgy szeresse az embert, ahogy őt magát szerette az Isten — hogy úgy szeressük egymást, ahogy Jézus szeretett bennünket{22}{23}."
                 },
                 {
                     "par_ref": "180:2.6",
@@ -114,7 +114,7 @@
                 {
                     "par_ref": "180:3.2",
                     "par_pageref": "1947.1",
-                    "par_content": "A rátok támadók közül sokan nem ismerik a menny világosságát, de ez nem igaz a minket most üldözők némelyikére. Ha nem tanítottuk volna nekik az igazságot, akkor a sok furcsa dolog, melyet műveltek, nem esne elítélés alá, de most, lévén, hogy megismerték a világosságot és mégis arra vetemedtek, hogy elutasítsák azt, már nincs mentség a viselkedésükre{25}. Aki engem gyűlöl, az Atyámat gyűlöli. Nem lehet másképp; a világosság, mely megment titeket, ha elfogadjátok, csak akkor marasztalhat el benneteket, ha szánt szándékkal elutasítjátok. Mit tettem ezekkel az emberekkel, hogy ily rettenetes gyűlölettel viseltetnek irántam? Semmit, kivéve azt, hogy közösséget ajánlottam nekik a földön és üdvözülést a mennyben. De nem olvastátok a mondást az írásban: »És ok nélkül gyűlöltek engem«?"
+                    "par_content": "A rátok támadók közül sokan nem ismerik a menny világosságát, de ez nem igaz a minket most üldözők némelyikére. Ha nem tanítottuk volna nekik az igazságot, akkor a sok furcsa dolog, melyet műveltek, nem esne elítélés alá, de most, lévén, hogy megismerték a világosságot és mégis arra vetemedtek, hogy elutasítsák azt, már nincs mentség a viselkedésükre{25}. Aki engem gyűlöl, az Atyámat gyűlöli. Nem lehet másképp; a világosság, mely megment titeket, ha elfogadjátok, csak akkor marasztalhat el benneteket, ha szánt szándékkal elutasítjátok. Mit tettem ezekkel az emberekkel, hogy ily rettenetes gyűlölettel viseltetnek irántam? Semmit, kivéve azt, hogy közösséget ajánlottam nekik a földön és üdvözülést a mennyben. De nem olvastátok a mondást az írásban: »És ok nélkül gyűlöltek engem«?{26}"
                 },
                 {
                     "par_ref": "180:3.3",
@@ -149,7 +149,7 @@
                 {
                     "par_ref": "180:3.9",
                     "par_pageref": "1947.8",
-                    "par_content": "Amikor Fülöp imigyen szólt, Jézus azt mondta: „Fülöp, oly hosszú időt töltöttem veletek és te még most sem ismersz engem? Újból elmondom: aki látott engem, az látta az Atyát{33}. Hát akkor meg hogy mondhatod, hogy mutasd meg nekünk az Atyát? Nem hiszed, hogy én az Atyában vagyok és az Atya bennem van? Nem tanítottam-e nektek azt, hogy a szavak, melyeket mondok, nem az én szavaim, hanem az Atya szavai? Én az Atya akarata szerint beszélek és nem magamtól. Az Atya akaratának megcselekedésére vagyok e világban, és meg is cselekedtem azt. Atyám bennem lakozik és rajtam keresztül munkál. Higgy nekem, amikor azt mondom, hogy az Atya bennem van, és hogy én az Atyában vagyok, vagy pedig higgy nekem azon életért, melyet megéltem — az elvégzett munkáért.”"
+                    "par_content": "Amikor Fülöp imigyen szólt, Jézus azt mondta: „Fülöp, oly hosszú időt töltöttem veletek és te még most sem ismersz engem? Újból elmondom: aki látott engem, az látta az Atyát{33}. Hát akkor meg hogy mondhatod, hogy mutasd meg nekünk az Atyát? Nem hiszed, hogy én az Atyában vagyok és az Atya bennem van? Nem tanítottam-e nektek azt, hogy a szavak, melyeket mondok, nem az én szavaim, hanem az Atya szavai? Én az Atya akarata szerint beszélek és nem magamtól{34}. Az Atya akaratának megcselekedésére vagyok e világban, és meg is cselekedtem azt{35}. Atyám bennem lakozik és rajtam keresztül munkál. Higgy nekem, amikor azt mondom, hogy az Atya bennem van, és hogy én az Atyában vagyok, vagy pedig higgy nekem azon életért, melyet megéltem — az elvégzett munkáért.”"
                 },
                 {
                     "par_ref": "180:3.10",
@@ -166,12 +166,12 @@
                 {
                     "par_ref": "180:4.1",
                     "par_pageref": "1948.2",
-                    "par_content": "Jézus e szavakkal folytatta a tanítást: „Amint eltávoztam az Atyához, és miután ő teljes egészében elfogadta a földön értetek végzett munkámat, és miután megkaptam a saját területem feletti végleges fennhatóságot, azt mondom majd az Atyámnak: lévén, hogy egyedül hagytam a gyermekeimet a földön, ígéretem szerint egy másik tanítót kell küldenem nekik. Amint az Atya jóváhagyja, kiárasztom az Igazság Szellemét minden húsvér testre. Atyám szelleme már a szívetekben van, és amikor e nap eljön, én is veletek leszek, éppen úgy, ahogy most veletek van az Atya. Ez az új ajándék az élő igazság szelleme. A hitetlenek először nem hallgatnak majd e szellem tanításaira, de a világosság fiai mind örömmel és tiszta szívvel fogadják. Amikor eljön, e szellemet olyannak fogjátok megismerni, mint amilyennek engem ismertetek, és ezt az ajándékot a szívetekbe fogadjátok, és ő veletek marad. Láthatjátok tehát, hogy nem hagylak benneteket segítség és útmutatás nélkül. Nem hagylak vigasz nélkül titeket{36}. Ma csak személyemben lehetek veletek. Az eljövendő időkben veletek és minden olyan emberrel is leszek, aki vágyik a jelenlétemre, legyetek bárhol is, és mindegyikőtökkel egyszerre leszek. Nem látjátok, hogy jobb, ha elmegyek; hogy azért hagylak el titeket a húsvér testben, hogy jobban és teljesebben veletek lehessek a szellemben?"
+                    "par_content": "Jézus e szavakkal folytatta a tanítást: „Amint eltávoztam az Atyához, és miután ő teljes egészében elfogadta a földön értetek végzett munkámat, és miután megkaptam a saját területem feletti végleges fennhatóságot, azt mondom majd az Atyámnak: lévén, hogy egyedül hagytam a gyermekeimet a földön, ígéretem szerint egy másik tanítót kell küldenem nekik. Amint az Atya jóváhagyja, kiárasztom az Igazság Szellemét minden húsvér testre. Atyám szelleme már a szívetekben van, és amikor e nap eljön, én is veletek leszek, éppen úgy, ahogy most veletek van az Atya. Ez az új ajándék az élő igazság szelleme. A hitetlenek először nem hallgatnak majd e szellem tanításaira, de a világosság fiai mind örömmel és tiszta szívvel fogadják. Amikor eljön, e szellemet olyannak fogjátok megismerni, mint amilyennek engem ismertetek, és ezt az ajándékot a szívetekbe fogadjátok, és ő veletek marad. Láthatjátok tehát, hogy nem hagylak benneteket segítség és útmutatás nélkül. Nem hagylak vigasz nélkül titeket{36}. Ma csak személyemben lehetek veletek. Az eljövendő időkben veletek és minden olyan emberrel is leszek, aki vágyik a jelenlétemre, legyetek bárhol is, és mindegyikőtökkel egyszerre leszek. Nem látjátok, hogy jobb, ha elmegyek; hogy azért hagylak el titeket a húsvér testben, hogy jobban és teljesebben veletek lehessek a szellemben?{37}"
                 },
                 {
                     "par_ref": "180:4.2",
                     "par_pageref": "1948.3",
-                    "par_content": "Csak néhány óra múlik el, és a világ többé nem lát engem; de ti továbbra is ismerni fogtok engem a szívetekben, míg el nem küldöm hozzátok ezt az új tanítót, az Igazság Szellemét. Miként személyemben veletek éltem, úgy fogok akkor bennetek élni; egy leszek a személyes tapasztalásotokkal a szellemországban. Amikor ez megtörténik, biztosan tudni fogjátok, hogy én az Atyában vagyok, és hogy míg életetek az Atyával bennem rejtezik, én is veletek vagyok{38}. Én szerettem az Atyát és megtartottam a szavát; ti szerettetek engem, és megtartjátok a szavamat. Miként Atyám adott nekem a szelleméből, úgy fogok én is adni nektek a szellememből. Az Igazság Szelleme, melyet nektek adományozok, vezetni és vigasztalni fog titeket és végül elvezet benneteket a teljes igazságba."
+                    "par_content": "Csak néhány óra múlik el, és a világ többé nem lát engem; de ti továbbra is ismerni fogtok engem a szívetekben, míg el nem küldöm hozzátok ezt az új tanítót, az Igazság Szellemét. Miként személyemben veletek éltem, úgy fogok akkor bennetek élni; egy leszek a személyes tapasztalásotokkal a szellemországban. Amikor ez megtörténik, biztosan tudni fogjátok, hogy én az Atyában vagyok, és hogy míg életetek az Atyával bennem rejtezik, én is veletek vagyok{38}. Én szerettem az Atyát és megtartottam a szavát; ti szerettetek engem, és megtartjátok a szavamat. Miként Atyám adott nekem a szelleméből, úgy fogok én is adni nektek a szellememből. Az Igazság Szelleme, melyet nektek adományozok, vezetni és vigasztalni fog titeket és végül elvezet benneteket a teljes igazságba{39}."
                 },
                 {
                     "par_ref": "180:4.3",
@@ -186,7 +186,7 @@
                 {
                     "par_ref": "180:4.5",
                     "par_pageref": "1949.1",
-                    "par_content": "Jézus végignézett rajtuk, elmosolyodott, és azt mondta: „Gyermekeim, én eltávozom, visszamegyek Atyámhoz. Egy rövid ideig nem fogtok látni engem úgy, ahogy most itt láttok, húsvér testként{42}. Nagyon rövid időn belül elküldöm nektek a szellememet, aki ezt az anyagi testet kivéve éppen olyan, mint én. Ez az új tanító az Igazság Szelleme, aki mindegyikőtökkel ott fog élni a szívetekben, és így a világosság minden gyermeke eggyé lesz és közelebb fogja érezni magát egymáshoz. Atyám és én épp így leszünk képesek arra, hogy mindegyikőtök lelkében éljünk és minden más ember szívében is, akik szeretnek minket és e szeretetet valódiként élik meg azáltal, hogy szeretik egymást, éppen úgy, ahogy én most szeretlek titeket.”"
+                    "par_content": "Jézus végignézett rajtuk, elmosolyodott, és azt mondta: „Gyermekeim, én eltávozom, visszamegyek Atyámhoz. Egy rövid ideig nem fogtok látni engem úgy, ahogy most itt láttok, húsvér testként{42}. Nagyon rövid időn belül elküldöm nektek a szellememet, aki ezt az anyagi testet kivéve éppen olyan, mint én{43}. Ez az új tanító az Igazság Szelleme, aki mindegyikőtökkel ott fog élni a szívetekben, és így a világosság minden gyermeke eggyé lesz és közelebb fogja érezni magát egymáshoz{44}{45}. Atyám és én épp így leszünk képesek arra, hogy mindegyikőtök lelkében éljünk és minden más ember szívében is, akik szeretnek minket és e szeretetet valódiként élik meg azáltal, hogy szeretik egymást, éppen úgy, ahogy én most szeretlek titeket{46}{47}.”"
                 },
                 {
                     "par_ref": "180:4.6",
@@ -270,7 +270,7 @@
                 {
                     "par_ref": "180:6.1",
                     "par_pageref": "1951.2",
-                    "par_content": "Miután Péter, Jakab, János és Máté számos kérdést intézett a Mesterhez, ő így folytatta a búcsúbeszédét: „Azért szólok nektek minderről, mielőtt itt hagylak titeket, hogy ezzel felkészüljetek arra, ami rátok vár, hogy ne essetek súlyos tévedésbe{49}. A hatóságok nem fognak megelégedni pusztán azzal, hogy kitiltanak titeket a zsinagógákból; figyelmeztetlek, hogy közeleg az óra, amikor a gyilkosaitok úgy gondolják majd, hogy az Istennek tesznek szolgálatot. Mindeme dolgokat azért teszik meg veletek és azokkal, akiket a mennyországba vezettek, mert ők nem ismerik az Atyát. Nem voltak hajlandók megismerni az Atyát azáltal, hogy nem voltak hajlandók elfogadni engem; és nem akarnak elfogadni engem, amikor elutasítanak titeket, feltéve, hogy megtartottátok az új parancsomat, miszerint úgy szeressétek egymást, ahogy én szerettelek titeket. Azért beszélek nektek e dolgokról előre, hogy amikor eljön a ti időtök, ahogy az enyém is eljött most, erőt merítsetek annak tudatából, hogy minderről nekem tudomásom volt, és hogy a szellemem veletek lesz minden szenvedésetekben, melyet értem és az örömhírért viseltek. E célból beszéltem előttetek oly nyíltan a legelejétől fogva. Még arra is figyelmeztettelek benneteket, hogy az ember ellenségei a maga házából valók is lehetnek. Bár az országról szóló ezen örömhír szüntelenül nagy békességet szerez az egyes hívő lelkében, nem hoz békét a földön addig, amíg az ember hajlandó nem lesz teljes szívvel elhinni a tanításomat és a halandói élet megélésének fő céljaként meghonosítani azt a gyakorlatot, hogy az Atya akaratát megcselekedje."
+                    "par_content": "Miután Péter, Jakab, János és Máté számos kérdést intézett a Mesterhez, ő így folytatta a búcsúbeszédét: „Azért szólok nektek minderről, mielőtt itt hagylak titeket, hogy ezzel felkészüljetek arra, ami rátok vár, hogy ne essetek súlyos tévedésbe{49}. A hatóságok nem fognak megelégedni pusztán azzal, hogy kitiltanak titeket a zsinagógákból; figyelmeztetlek, hogy közeleg az óra, amikor a gyilkosaitok úgy gondolják majd, hogy az Istennek tesznek szolgálatot. Mindeme dolgokat azért teszik meg veletek és azokkal, akiket a mennyországba vezettek, mert ők nem ismerik az Atyát. Nem voltak hajlandók megismerni az Atyát azáltal, hogy nem voltak hajlandók elfogadni engem; és nem akarnak elfogadni engem, amikor elutasítanak titeket, feltéve, hogy megtartottátok az új parancsomat, miszerint úgy szeressétek egymást, ahogy én szerettelek titeket{50}. Azért beszélek nektek e dolgokról előre, hogy amikor eljön a ti időtök, ahogy az enyém is eljött most, erőt merítsetek annak tudatából, hogy minderről nekem tudomásom volt, és hogy a szellemem veletek lesz minden szenvedésetekben, melyet értem és az örömhírért viseltek. E célból beszéltem előttetek oly nyíltan a legelejétől fogva. Még arra is figyelmeztettelek benneteket, hogy az ember ellenségei a maga házából valók is lehetnek{51}. Bár az országról szóló ezen örömhír szüntelenül nagy békességet szerez az egyes hívő lelkében, nem hoz békét a földön addig, amíg az ember hajlandó nem lesz teljes szívvel elhinni a tanításomat és a halandói élet megélésének fő céljaként meghonosítani azt a gyakorlatot, hogy az Atya akaratát megcselekedje."
                 },
                 {
                     "par_ref": "180:6.2",
@@ -280,12 +280,12 @@
                 {
                     "par_ref": "180:6.3",
                     "par_pageref": "1951.4",
-                    "par_content": "Még sok mondanivalóm lenne számotokra, de most nem tudnátok többet befogadni. Jóllehet amikor ő, az Igazság Szelleme eljön, végül elvezet titeket a teljes igazságba, ahogy az Atyám világegyetemének számos lakóhelyén áthaladtok{53}."
+                    "par_content": "Még sok mondanivalóm lenne számotokra, de most nem tudnátok többet befogadni. Jóllehet amikor ő, az Igazság Szelleme eljön, végül elvezet titeket a teljes igazságba, ahogy az Atyám világegyetemének számos lakóhelyén áthaladtok{53}{54}{55}."
                 },
                 {
                     "par_ref": "180:6.4",
                     "par_pageref": "1951.5",
-                    "par_content": "E szellem nem magától fog szólni, hanem azt mondja nektek, amit az Atya a Fiúnak kinyilatkoztatott, és megmutat még eljövendő dolgokat is; úgy dicsőít meg engem, ahogy én megdicsőítettem az Atyát{56}. E szellem belőlem jön elő, és az én igazságomat nyilatkoztatja ki nektek. Minden, amivel az Atya e területen rendelkezik, az már az enyém; ezért mondtam azt, hogy ez az új tanító abból vesz, ami az enyém és kinyilatkoztatja nektek."
+                    "par_content": "E szellem nem magától fog szólni, hanem azt mondja nektek, amit az Atya a Fiúnak kinyilatkoztatott, és megmutat még eljövendő dolgokat is; úgy dicsőít meg engem, ahogy én megdicsőítettem az Atyát{56}. E szellem belőlem jön elő, és az én igazságomat nyilatkoztatja ki nektek{57}. Minden, amivel az Atya e területen rendelkezik, az már az enyém; ezért mondtam azt, hogy ez az új tanító abból vesz, ami az enyém és kinyilatkoztatja nektek."
                 },
                 {
                     "par_ref": "180:6.5",
@@ -300,12 +300,12 @@
                 {
                     "par_ref": "180:6.7",
                     "par_pageref": "1952.3",
-                    "par_content": "Jézus tudta, hogy ezeket a kérdéseket tették fel, ezért azt mondta: „Azt kérdezitek egymástól, hogy mit értettem az alatt, amikor azt mondtam, hogy nemsokára nem leszek veletek, és hogy amikor viszontláttok, én már úton leszek az Atyához? Világosan elmondtam nektek, hogy az Ember Fiának meg kell halnia, de újra feltámad{60}. Hát nem értitek a szavaim jelentését? Először elszomorodtok, de később ama sokakkal együtt örvendeztek majd, akik megértik e dolgokat, miután azok megtörténtek. A nő valóban szenved a vajúdás alatt, de amikor végre megszülte a gyermekét, nyomban elfelejti a fájdalmát örömében, tudván, hogy egy ember született a világra. Így fogtok ti is szenvedni az eltávozásom miatt, de rövidesen viszontlátlak titeket, és akkor a szomorúságotok örvendezéssé fog változni, és az Isten üdvösségének egy új kinyilatkoztatása jön el hozzátok, melyet ember soha nem vehet el tőletek. Az élet ugyanezen kinyilatkoztatásában az összes világ áldást nyer a halál legyőzésének megvalósításához. Ez ideig minden kérelmeteket az Atyám nevében tettétek. Miután viszontláttatok, az én nevemben is kérhettek, és én meghallgatlak titeket."
+                    "par_content": "Jézus tudta, hogy ezeket a kérdéseket tették fel, ezért azt mondta: „Azt kérdezitek egymástól, hogy mit értettem az alatt, amikor azt mondtam, hogy nemsokára nem leszek veletek, és hogy amikor viszontláttok, én már úton leszek az Atyához? Világosan elmondtam nektek, hogy az Ember Fiának meg kell halnia, de újra feltámad{60}. Hát nem értitek a szavaim jelentését? Először elszomorodtok, de később ama sokakkal együtt örvendeztek majd, akik megértik e dolgokat, miután azok megtörténtek{61}. A nő valóban szenved a vajúdás alatt, de amikor végre megszülte a gyermekét, nyomban elfelejti a fájdalmát örömében, tudván, hogy egy ember született a világra. Így fogtok ti is szenvedni az eltávozásom miatt, de rövidesen viszontlátlak titeket, és akkor a szomorúságotok örvendezéssé fog változni, és az Isten üdvösségének egy új kinyilatkoztatása jön el hozzátok, melyet ember soha nem vehet el tőletek. Az élet ugyanezen kinyilatkoztatásában az összes világ áldást nyer a halál legyőzésének megvalósításához. Ez ideig minden kérelmeteket az Atyám nevében tettétek. Miután viszontláttatok, az én nevemben is kérhettek, és én meghallgatlak titeket{62}."
                 },
                 {
                     "par_ref": "180:6.8",
                     "par_pageref": "1952.4",
-                    "par_content": "Idelent képes beszéd által tanítottalak titeket és példázatokban szóltam hozzátok. Azért tettem így, mert még csak gyermekek voltatok a szellemben; de közeleg az idő, amikor nyíltan beszélek majd nektek az Atyáról és az ő országáról{63}. Azért fogok így tenni, mert az Atya maga szeret titeket és azt szeretné, hogy még teljesebben kinyilatkoztassék számotokra. Halandó ember nem láthatja a szellem-Atyát; ezért jöttem én el a világba, hogy megmutassam az Atyát a ti teremtményi szemeteknek. De amikor a szellemnövekedésben kiteljesedtetek, meglátjátok majd az Atyát magát is.”"
+                    "par_content": "Idelent képes beszéd által tanítottalak titeket és példázatokban szóltam hozzátok. Azért tettem így, mert még csak gyermekek voltatok a szellemben; de közeleg az idő, amikor nyíltan beszélek majd nektek az Atyáról és az ő országáról{63}. Azért fogok így tenni, mert az Atya maga szeret titeket és azt szeretné, hogy még teljesebben kinyilatkoztassék számotokra. Halandó ember nem láthatja a szellem-Atyát; ezért jöttem én el a világba, hogy megmutassam az Atyát a ti teremtményi szemeteknek{64}. De amikor a szellemnövekedésben kiteljesedtetek, meglátjátok majd az Atyát magát is.”"
                 },
                 {
                     "par_ref": "180:6.9",
@@ -316,42 +316,42 @@
         }
     ],
     "footnotes": [
-        "*Készülj fel a munkára*: Lc 22:35-36.",
-        "*Korábbi utasítások megváltoztatása*: Lc 10:4.",
+        "*Készülj fel a munkára*: Lk 22:35-36.",
+        "*Korábbi utasítások megváltoztatása*: Lk 10:4.",
         "*Az Atya és a Fiú megdicsőült*: Jn 13:31-32; Jn 17:1,4.",
         "*Keresni fogtok engem, de nem találtok meg*: Jn 13:33.",
         "*Most nem jöhetsz*: Jn 7:33-34; Jn 8:21.",
         "*Később követhetsz*: Jn 13:36.",
         "*Az új parancsolat*: Jn 13:34-35; Jn 15:12,17.",
         "*Nem jelent terhet, új örömöt hoz*: Jn 15:11.",
-        "*Jézus halála a legnagyobb öröm*: Heb 12:2.",
+        "*Jézus halála a legnagyobb öröm*: Zsid 12:2.",
         "*Szeressétek egymást, ahogy én szeretlek titeket*: Jn 13:34-35; Jn 15:12,17.",
         "*Nincs nagyobb szeretet*: Jn 15:12-15.",
         "*Én választottalak, én rendeltelek el titeket*: Jn 15:16-17.",
         "*Osszátok meg az örömöt, osszátok meg a szeretetet*: Jn 14:23.",
-        "*A hívők Isten fiai*: 1 Cr 22:10; Sal 2:7; Is 56:5; Mt 5:9,16,16,45; Lc 20:36; Jn 1:12-13; Jn 11:52; Jn 20:17b; Hch 17:28-29; Ro 8:14-17,19,21; Ro 9:26; 2 Co 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Flp 2:15; Heb 12:5-8; 1 Jn 3:1-2,10; 1 Jn 5:2; Ap 21:7; 2 Sam 7:14.",
+        "*A hívők Isten fiai*: 1Krón 22:10; Zsolt 2:7; Iz 56:5; Mt 5:9,16,16,45; Lk 20:36; Jn 1:12-13; Jn 11:52; Jn 20:17b; ApCsel 17:28-29; Róm 8:14-17,19,21; Róm 9:26; 2Kor 6:18; Gal 3:26; Gal 4:5-7; Ef 1:5; Fil 2:15; Zsid 12:5-8; 1Jn 3:1-2,10; 1Jn 5:2; Jel 21:7; 2Sám 7:14.",
         "*A tanítványok gyümölcsöt teremnek*: Jn 15:7-9.",
         "*Igazi szőlőtő és ágak*: Jn 15:1-5.",
         "*Ha kérsz valamit, amit a lelkem akar*: Jn 14:13-14.",
         "*Ismerjétek meg tanítványaimat a szeretetetekről*: Jn 13:35.",
         "*Jézus szeret titeket*: Jn 15:9-10.",
-        "*A szőlőtő szára vagy ága*: Is 4:2; Is 11:1; Jer 23:5-6; Jer 33:15; Dn 11:7; Zac 3:8; Zac 6:12.",
+        "*A szőlőtő szára vagy ága*: Iz 4:2; Iz 11:1; Jer 23:5-6; Jer 33:15; Dán 11:7; Zak 3:8; Zak 6:12.",
         "*Tévedés az „imádsággal” kapcsolatban*: Jn 14:13-14; Jn 15:7,16b.",
         "*Az ág a gyümölcsért létezik*: Jn 15:1-5.",
-        "*A lélek gyümölcse: szeretet*: Jn 15:8-9,12. *A lélek gyümölcse*: Gl 5:22-23; Ef 5:9.",
+        "*A lélek gyümölcse: szeretet*: Jn 15:8-9,12. *A lélek gyümölcse*: Gal 5:22-23; Ef 5:9.",
         "*Szeress, ahogy Jézus szeretett*: Jn 13:34-35; Jn 15:12.",
         "*Ha a világ gyűlöl és üldöz*: Jn 15:18-21.",
         "*A tudatlanság nem mentség*: Jn 15:22-25.",
-        "*Ok nélkül gyűlölnek*: Sal 35:19; Sal 69:4.",
-        "*A vigasztaló ígérete*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15.",
-        "*Sok lakóhely*: Jn 14:1-2.",
+        "*Ok nélkül gyűlölnek*: Zsolt 35:19; Zsolt 69:4.",
+        "*A vigasztaló ígérete*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jo 2:28-29; Lk 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; ApCsel 1:5,8a; ApCsel 2:1-4,16-18; ApCsel 2:33; 2Kor 13:5; Gal 2:20; Gal 4:6; Ef 1:13; Ef 4:30; 1Jn 4:12-15.",
+        "*Sok lakóház*: Jn 14:1-2.",
         "*Velem leszel*: Jn 14:3-4; Jn 17:24.",
         "*„Mutasd meg nekünk az utat.”*: Jn 14:5.",
         "*Jézus: „Én vagyok az út.”*: Jn 14:6.",
-        "*Mutasd meg nekünk az Atyát*: Mt 11:27; Lc 10:22; Jn 1:18; Jn 14:8.",
-        "*Aki engem látott, látta az Atyát*: Jn 14:9-11.",
+        "*Mutasd meg nekünk az Atyát*: Mt 11:27; Lk 10:22; Jn 1:18; Jn 14:8.",
+        "*Aki engem látott, az Atyát látta*: Jn 14:9-11.",
         "*Atya a Fiúban és Fiú az Atyában*: Jn 5:36; Jn 10:37-38.",
-        "*Én megtettem az Atya akaratát*: Mt 26:39,42,44; Mc 14:36,39; Lc 22:42; Jn 4:34; Jn 5:30; Jn 6:38-40; Jn 15:10; Jn 17:4.",
+        "*Én megtettem az Atya akaratát*: Mt 26:39,42,44; Mk 14:36,39; Lk 22:42; Jn 4:34; Jn 5:30; Jn 6:38-40; Jn 15:10; Jn 17:4.",
         "*Nem hagylak benneteket elhagyatva*: Jn 14:16-18.",
         "*Jobb, ha én megyek*: Jn 16:7.",
         "*Atya a Fiúban és Fiú bennünk*: Jn 14:19-21a; Jn 17:21.",
@@ -359,24 +359,24 @@
         "*A Lélek mindenre megtanít*: Jn 14:25-26.",
         "*Hogyan nyilvánul meg az én?*: Jn 14:22.",
         "*Hamarosan el kell mennem*: Jn 7:33-34; Jn 8:21; Jn 13:33; Jn 14:2,12,28; Jn 16:10,16-17,28.",
-        "*Elküldöm a szellememet*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15.",
-        "*A fény gyermekei*: Lc 16:8; Jn 12:36; Ef 5:8; 1 Ts 5:5.",
+        "*Elküldöm a szellememet*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jo 2:28-29; Lk 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; ApCsel 1:5,8a; ApCsel 2:1-4,16-18; ApCsel 2:33; 2Kor 13:5; Gal 2:20; Gal 4:6; Ef 1:13; Ef 4:30; 1Jn 4:12-15.",
+        "*A fény gyermekei*: Lk 16:8; Jn 12:36; Ef 5:8; 1Tesz 5:5.",
         "*A szellem gravitációja*: Jer 31:3; Jn 6:44; Jn 12:32.",
-        "*Az új parancsolat*: Jn 13:34-35; Jn 15:12,17. *Aranyszabály*: Mt 7:12; Lc 6:31. *Aranyszabály (negatív)*: Tb 4:15.",
+        "*Az új parancsolat*: Jn 13:34-35; Jn 15:12,17. *Aranyszabály*: Mt 7:12; Lk 6:31. *Aranyszabály (negatív)*: Tób 4:15.",
         "*Éljetek szeretetben*: Jn 14:23.",
-        "*Szeresd felebarátodat, mint önmagadat*: Lv 19:18,34; Mt 5:43-44; Mt 19:19b; Mt 22:39; Mc 12:31,33; Lc 10:27; Ro 13:9b; Gl 5:14; Stg 2:8.",
+        "*Szeresd a felebarátodat, mint önmagadat*: Lev 19:18,34; Mt 5:43-44; Mt 19:19b; Mt 22:39; Mk 12:31,33; Lk 10:27; Róm 13:9b; Gal 5:14; Jak 2:8.",
         "*Előzetes figyelmeztetések*: Jn 16:1-4.",
         "*Tartsd meg az új parancsolatot*: Jn 13:34; Jn 15:12.",
-        "*Ellenségek a saját háztartásban*: Mt 10:21,36; Mc 13:12; Lc 21:16.",
+        "*Ellenségek a saját családjában*: Mt 10:21,36; Mk 13:12; Lk 21:16.",
         "*A távozás szükségessége*: Jn 16:5-8.",
-        "*Az igazság szelleme*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15.",
+        "*Az Igazság Lelke*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jo 2:28-29; Lk 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; ApCsel 1:5,8a; ApCsel 2:1-4,16-18; ApCsel 2:33; 2Kor 13:5; Gal 2:20; Gal 4:6; Ef 1:13; Ef 4:30; 1Jn 4:12-15.",
         "*Az Igazság Szelleme vezessen*: Jn 16:13-14.",
         "*Sok lakóház*: Jn 14:2.",
         "*A Szellem ne beszéljen magáról*: Jn 16:13b.",
         "*Az új tanító mindent feltár*: Jn 16:14-15.",
         "*Azt mondja, hogy újra meg fog jelenni*: Jn 16:16.",
         "*Jézus nem érthető*: Jn 16:17-18.",
-        "*Meg kell halnia, de fel fog támadni*: Mt 16:21; Mt 17:22-23a; Mt 20:17-19; Mt 27:63; Mc 8:31; Mc 9:31; Mc 10:32-34; Lc 9:22,31,43b-44; Lc 18:31-33; Lc 24:7,46; Jn 14:28a; Jn 20:9.",
+        "*Meg kell halnia, de fel fog támadni*: Mt 16:21; Mt 17:22-23a; Mt 20:17-19; Mt 27:63; Mk 8:31; Mk 9:31; Mk 10:32-34; Lk 9:22,31,43b-44; Lk 18:31-33; Lk 24:7,46; Jn 14:28a; Jn 20:9.",
         "*A bánat örömre változik*: Jn 16:19-22.",
         "*Kérjetek Jézus nevében*: Jn 16:23-24,26.",
         "*Jézus világosan fog beszélni*: Jn 16:25.",
