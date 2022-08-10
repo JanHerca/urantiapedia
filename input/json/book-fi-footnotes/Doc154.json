@@ -13,7 +13,7 @@
                 {
                     "par_ref": "154:0.2",
                     "par_pageref": "1717.2",
-                    "par_content": "Muuan Herodeksen virallisen perheen jäsen, Kuusas, jonka vaimo kuului naisten palvelusjoukkoihin, oli kertonut hänelle, ettei Jeesuksen tarkoituksena ollut sekaantua maallisen hallintovallan asioihin; että häntä kiinnosti vain uskoviensa hengellisen veljeskunnan perustaminen, jota veljeskuntaa hän kutsui taivaan valtakunnaksi. Herodes luotti Kuusaan selontekoihin siinä määrin, että hän kieltäytyi puuttumasta Jeesuksen toimintaan. Herodeksen tapaan suhtautua Jeesukseen vaikutti tuohon aikaan myös hänen taikauskoinen pelkonsa Johannes Kastajaa kohtaan{0}. Herodes kuului niihin luopiojuutalaisiin, jotka eivät uskoneet mihinkään mutta pelkäsivät kaikkea. Hänellä oli huono omatunto siksi, että hän oli surmauttanut Johanneksen, eikä hän halunnut tulla sotketuksi näihin vehkeilyihin Jeesusta vastaan. Hän oli tietoinen monista sellaisista sairaustapauksista, jotka Jeesus näytti parantaneen, ja hän piti tätä joko profeettana tai suhteellisen vaarattomana uskonnollisena kiihkoilijana."
+                    "par_content": "Muuan Herodeksen virallisen perheen jäsen, Kuusas, jonka vaimo kuului naisten palvelusjoukkoihin, oli kertonut hänelle, ettei Jeesuksen tarkoituksena ollut sekaantua maallisen hallintovallan asioihin; että häntä kiinnosti vain uskoviensa hengellisen veljeskunnan perustaminen, jota veljeskuntaa hän kutsui taivaan valtakunnaksi. Herodes luotti Kuusaan selontekoihin siinä määrin, että hän kieltäytyi puuttumasta Jeesuksen toimintaan. Herodeksen tapaan suhtautua Jeesukseen vaikutti tuohon aikaan myös hänen taikauskoinen pelkonsa Johannes Kastajaa kohtaan{0}. Herodes kuului niihin luopiojuutalaisiin, jotka eivät uskoneet mihinkään mutta pelkäsivät kaikkea{1}. Hänellä oli huono omatunto siksi, että hän oli surmauttanut Johanneksen, eikä hän halunnut tulla sotketuksi näihin vehkeilyihin Jeesusta vastaan. Hän oli tietoinen monista sellaisista sairaustapauksista, jotka Jeesus näytti parantaneen, ja hän piti tätä joko profeettana tai suhteellisen vaarattomana uskonnollisena kiihkoilijana."
                 },
                 {
                     "par_ref": "154:0.3",
@@ -258,14 +258,14 @@
         }
     ],
     "footnotes": [
-        "*Herodeksen suhtautuminen Jeesukseen*: Mc 6:14; Lc 9:7.",
-        "*Herodeksen pelot*: Mt 14:1-2; Mc 6:14-20; Lc 9:7-9.",
-        "*Jeesuksen perheen saapuminen*: Mt 12:46; Mc 3:31; Lc 8:19.",
-        "*Jeesus kertoi perheen odottavan*: Mt 12:47; Mc 3:32; Lc 8:20.",
-        "*Keitä ovat perheeni?*: Mt 12:48-50; Mc 3:33-35; Lc 8:21.",
-        "*Siunattu on kohtu, joka sinut synnytti*: Lc 11:27-28.",
-        "*Vihollisia omassa perheessä*: Mt 10:35-36; Mc 13:12; Lc 12:52-53.",
-        "*Ei ole paikkaa, johon laskea päänsä*: Mt 8:20; Lc 9:58."
+        "*Herodeksen suhtautuminen Jeesukseen*: Mark 6:14; Luuk 9:7.",
+        "*Herodeksen pelot*: Matt 14:1-2; Mark 6:14-20; Luuk 9:7-9.",
+        "*Jeesuksen perhe saapuu*: Matt 12:46; Mark 3:31; Luuk 8:19.",
+        "*Jeesus kertoi perheen odottavan*: Matt 12:47; Mark 3:32; Luuk 8:20.",
+        "*Keitä ovat perheeni?*: Matt 12:48-50; Mark 3:33-35; Luuk 8:21.",
+        "*Siunattu on kohtu, joka sinut synnytti*: Luuk 11:27-28.",
+        "*Viholliset omassa taloudessa*: Matt 10:35-36; Mark 13:12; Luuk 12:52-53.",
+        "*Ei ole paikkaa, johon laskea päänsä*: Matt 8:20; Luuk 9:58."
     ],
     "paper_title": "Viimeiset Kapernaumissa vietetyt päivät"
 }

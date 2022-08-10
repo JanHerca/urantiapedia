@@ -203,7 +203,7 @@
                 {
                     "par_ref": "87:5.4",
                     "par_pageref": "962.5",
-                    "par_content": "Ihmisen menestymisen oletettiin herättävän pahoissa hengissä aivan erityisesti kateutta, ja kostaessaan ne käyttivät sellaista menetelmää, että ne iskivät takaisin jonkin inhimillisen välikäden kautta ja turvautumalla *pahaan silmään{1}.* Tämä henkien välttämiseen liittynyt kultin vaihe kiinnitti paljon huomiota vehkeilyihin, joissa paha silmä oli mukana. Pahaa silmää kohtaan tunnettu pelko levisi lähes koko maailmaan. Kauniit naiset hunnutettiin, jotta heitä olisi varjeltu pahalta silmältä. Monet naiset, jotka halusivat, että heitä pidettäisiin kauniina, omaksuivat sittemmin saman tavan. Tämän pahoja henkiä kohtaan tunnetun pelon johdosta lasten sallittiin harvoin mennä ulos enää pimeäntulon jälkeen, ja alkuaikojen rukouksiin sisältyi aina pyyntö ”säästä meidät pahalta silmältä.”"
+                    "par_content": "Ihmisen menestymisen oletettiin herättävän pahoissa hengissä aivan erityisesti kateutta, ja kostaessaan ne käyttivät sellaista menetelmää, että ne iskivät takaisin jonkin inhimillisen välikäden kautta ja turvautumalla *pahaan silmään{1}.* Tämä henkien välttämiseen liittynyt kultin vaihe kiinnitti paljon huomiota vehkeilyihin, joissa paha silmä oli mukana. Pahaa silmää kohtaan tunnettu pelko levisi lähes koko maailmaan. Kauniit naiset hunnutettiin, jotta heitä olisi varjeltu pahalta silmältä{2}. Monet naiset, jotka halusivat, että heitä pidettäisiin kauniina, omaksuivat sittemmin saman tavan. Tämän pahoja henkiä kohtaan tunnetun pelon johdosta lasten sallittiin harvoin mennä ulos enää pimeäntulon jälkeen, ja alkuaikojen rukouksiin sisältyi aina pyyntö ”säästä meidät pahalta silmältä.”"
                 },
                 {
                     "par_ref": "87:5.5",
@@ -340,7 +340,7 @@
                 {
                     "par_ref": "87:6.16",
                     "par_pageref": "965.3",
-                    "par_content": "Seuraavaksi tulivat käyttöön rituaaliset lupaukset, joita kohta seurasivat uskonnolliset sitoumukset ja pyhät valat{4}. Useimpiin tämänkaltaisiin valoihin liittyi itsekidutusta ja itsensäsilpomista. Myöhemmin niihin kuului paastoamista ja rukoilemista. Kieltäymystä pidettiin sittemmin varmatehoisena pakottimena. Näin ajateltiin erityisesti olevan, silloin kun kysymyksessä oli sukupuolivietin tukahduttaminen. Ja näin alkuaikojen ihminen kehitti jo varhaisessa vaiheessa uskonnollisiin käytäntöihinsä selväpiirteisen ankaruuden ainesosan, uskon itsensäkiduttamisen ja itsensäkieltämisen tehokkuuteen rituaaleina, jotka kykenisivät pakottamaan vastahakoiset henget reagoimaan suopeasti kaikkiin tällaisiin kärsimyksiin ja menetyksiin."
+                    "par_content": "Seuraavaksi tulivat käyttöön rituaaliset lupaukset, joita kohta seurasivat uskonnolliset sitoumukset ja pyhät valat{4}. Useimpiin tämänkaltaisiin valoihin liittyi itsekidutusta ja itsensäsilpomista{5}. Myöhemmin niihin kuului paastoamista ja rukoilemista. Kieltäymystä pidettiin sittemmin varmatehoisena pakottimena. Näin ajateltiin erityisesti olevan, silloin kun kysymyksessä oli sukupuolivietin tukahduttaminen. Ja näin alkuaikojen ihminen kehitti jo varhaisessa vaiheessa uskonnollisiin käytäntöihinsä selväpiirteisen ankaruuden ainesosan, uskon itsensäkiduttamisen ja itsensäkieltämisen tehokkuuteen rituaaleina, jotka kykenisivät pakottamaan vastahakoiset henget reagoimaan suopeasti kaikkiin tällaisiin kärsimyksiin ja menetyksiin."
                 },
                 {
                     "par_ref": "87:6.17",
@@ -413,12 +413,12 @@
         }
     ],
     "footnotes": [
-        "*Tuntemattomat jumalat*: Hch 17:22-23.",
-        "*Paha silmä*: Pr 23:6; Pr 28:22; Dt 15:9; Dt 28:54,56; Mc 7:22.",
-        "*Pelasta meidät pahalta silmältä*: Mt 6:13; Lc 11:4.",
-        "*Vesikaste*: Mt 3:6,11; Mc 1:4-5,8; Lc 3:3,7,16; Jn 1:25-26,31,33; Jn 3:22-23; Hch 1:5.",
-        "*Pyhät valat ja valat*: Gn 31:13; Ex 22:11; 2 Cr 15:12-15; Lv 5:4; Sal 105:9-10; Nm 6:2-15; Nm 30:2-16; Dt 29:12-15.",
-        "*Rangaistus valan rikkomisesta*: Jg 11:30-39."
+        "*Tuntemattomat jumalat*: Apt 17:22-23.",
+        "*Paha silmä*: Sananl 23:6; Sananl 28:22; 5 Moos 15:9; 5 Moos 28:54,56; Mark 7:22.",
+        "*Pelasta meidät pahalta silmältä*: Matt 6:13; Luuk 11:4.",
+        "*Vesikaste*: Matt 3:6,11; Mark 1:4-5,8; Luuk 3:3,7,16; Joh 1:25-26,31,33; Joh 3:22-23; Apt 1:5.",
+        "*Pyhät valat ja valat*: 1 Moos 31:13; 2 Moos 22:11; 2 Aik 15:12-15; 3 Moos 5:4; Ps 105:9-10; 4 Moos 6:2-15; 4 Moos 30:2-16; 5 Moos 29:12-15.",
+        "*Rangaistus valan rikkomisesta*: Tuom 11:30-39."
     ],
     "paper_title": "Aavekultit"
 }

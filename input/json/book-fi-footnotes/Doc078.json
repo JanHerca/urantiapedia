@@ -327,7 +327,7 @@
                 {
                     "par_ref": "78:7.3",
                     "par_pageref": "874.8",
-                    "par_content": "Kun heprealaispapit Babylonian vankeudessa lähes viisituhatta vuotta myöhemmin yrittivät juutalaisen kansanheimon vaiheita seuraamalla päästä aina Aatamiin asti, heillä oli suuria vaikeuksia saada tarinan palasia yhdeksi kokonaisuudeksi{0}. Ja silloin eräälle heistä juolahti mieleen luopua koko yrityksestä, antaa koko maailman hukkua pahuuteensa Nooan tulvan aikana ja päästä sillä keinoin parempiin lähtöasemiin johdattamalla Abrahamin sukujuuret yhteen Nooan kolmesta eloonjääneestä pojasta."
+                    "par_content": "Kun heprealaispapit Babylonian vankeudessa lähes viisituhatta vuotta myöhemmin yrittivät juutalaisen kansanheimon vaiheita seuraamalla päästä aina Aatamiin asti, heillä oli suuria vaikeuksia saada tarinan palasia yhdeksi kokonaisuudeksi{0}{1}. Ja silloin eräälle heistä juolahti mieleen luopua koko yrityksestä, antaa koko maailman hukkua pahuuteensa Nooan tulvan aikana ja päästä sillä keinoin parempiin lähtöasemiin johdattamalla Abrahamin sukujuuret yhteen Nooan kolmesta eloonjääneestä pojasta."
                 },
                 {
                     "par_ref": "78:7.4",
@@ -337,7 +337,7 @@
                 {
                     "par_ref": "78:7.5",
                     "par_pageref": "875.2",
-                    "par_content": "Nooa toki on elänyt{3}. Hän oli viininvalmistaja Aramista, lähellä Urukia sijainneesta joenvarsiyhdyskunnasta. Vuodesta vuoteen hän piti kirjaa joen paisuntapäivistä. Hän teki itsestään yleisen pilkan kohteen, kun hän kulki pitkin ja poikin jokilaaksoa puhumassa sellaisen puolesta, että kaikki talot rakennettaisiin puusta veneen muotoisiksi ja että kotieläimet tulvakauden lähestyessä vietäisiin joka ilta veneeseen. Hänellä oli tapana käydä lähiseudun jokiyhdyskunnissa joka vuosi varoittelemassa asukkaita siitä, että niin ja niin monen päivän päästä tulva alkaisi. Lopulta tulikin vuosi, jolloin vuosittaiset tulvat harvinaisen rankkojen sateiden johdosta paisuivat niin valtavasti, että vesien äkillinen nousu pyyhkäisi mennessään koko kylän. Vain Nooa ja hänen lähimmät perheenjäsenensä pelastuivat asuntolaivassaan."
+                    "par_content": "Nooa toki on elänyt{3}. Hän oli viininvalmistaja Aramista, lähellä Urukia sijainneesta joenvarsiyhdyskunnasta. Vuodesta vuoteen hän piti kirjaa joen paisuntapäivistä. Hän teki itsestään yleisen pilkan kohteen, kun hän kulki pitkin ja poikin jokilaaksoa puhumassa sellaisen puolesta, että kaikki talot rakennettaisiin puusta veneen muotoisiksi ja että kotieläimet tulvakauden lähestyessä vietäisiin joka ilta veneeseen. Hänellä oli tapana käydä lähiseudun jokiyhdyskunnissa joka vuosi varoittelemassa asukkaita siitä, että niin ja niin monen päivän päästä tulva alkaisi{4}. Lopulta tulikin vuosi, jolloin vuosittaiset tulvat harvinaisen rankkojen sateiden johdosta paisuivat niin valtavasti, että vesien äkillinen nousu pyyhkäisi mennessään koko kylän. Vain Nooa ja hänen lähimmät perheenjäsenensä pelastuivat asuntolaivassaan."
                 },
                 {
                     "par_ref": "78:7.6",
@@ -425,12 +425,12 @@
         }
     ],
     "footnotes": [
-        "*Juutalaisten sukututkimus*: Gn 4:1-2,17-26; Gn 5:3-32; Gn 6:9-10; Gn 10:1-32; Gn 11:10-26.",
-        "*Maailman tuho*: Gn 6:5-10.",
-        "*Ei maailmanlaajuista tulvaa*: Gn 7:10-24.",
-        "*Nooa eli*: Gn 6:9-10.",
-        "*Todellinen tulva*: Gn 7:10-24.",
-        "*Sargon*: Is 20:1."
+        "*Juutalaisten sukututkimus*: 1 Moos 4:1-2,17-26; 1 Moos 5:3-32; 1 Moos 6:9-10; 1 Moos 10:1-32; 1 Moos 11:10-26.",
+        "*Maailman tuho*: 1 Moos 6:5-10.",
+        "*Ei maailmanlaajuista tulvaa*: 1 Moos 7:10-24.",
+        "*Nooa eli*: 1 Moos 6:9-10.",
+        "*Todellinen tulva*: 1 Moos 7:10-24.",
+        "*Sargon*: Jes 20:1."
     ],
     "paper_title": "Violetti rotu Aatamin aikojen jälkeen"
 }

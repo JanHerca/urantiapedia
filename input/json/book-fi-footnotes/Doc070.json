@@ -100,7 +100,7 @@
                 {
                     "par_ref": "70:1.15",
                     "par_pageref": "784.11",
-                    "par_content": "Nämä muinaisaikojen heimot ryhtyivät sotaan aina jumaliensa käskystä, päällikköjensä tai poppamiestensä määräyksestä. Heprealaiset uskoivat tällaiseen ”taistojen Jumalaan”, ja kertomus heidän hyökkäyksestään midianilaisten kimppuun on paljonpuhuva selonteko muinaisten heimosotien hirvittävästä julmuudesta{0}. Tämä hyökkäys, jonka kuluessa kaikki miehet teurastettiin ja jonka jälkeen kaikki poikalapset ja neitsyitä lukuun ottamatta kaikki naiset myöhemmin tapettiin, olisi tehnyt kunniaa kaksisataatuhatta vuotta sitten eläneen heimopäällikön tavoille. Ja tämä kaikki pantiin toimeen ”Herran, Israelin Jumalan, nimessä”."
+                    "par_content": "Nämä muinaisaikojen heimot ryhtyivät sotaan aina jumaliensa käskystä, päällikköjensä tai poppamiestensä määräyksestä. Heprealaiset uskoivat tällaiseen ”taistojen Jumalaan”, ja kertomus heidän hyökkäyksestään midianilaisten kimppuun on paljonpuhuva selonteko muinaisten heimosotien hirvittävästä julmuudesta{0}{1}{2}. Tämä hyökkäys, jonka kuluessa kaikki miehet teurastettiin ja jonka jälkeen kaikki poikalapset ja neitsyitä lukuun ottamatta kaikki naiset myöhemmin tapettiin, olisi tehnyt kunniaa kaksisataatuhatta vuotta sitten eläneen heimopäällikön tavoille{3}. Ja tämä kaikki pantiin toimeen ”Herran, Israelin Jumalan, nimessä”."
                 },
                 {
                     "par_ref": "70:1.16",
@@ -798,7 +798,7 @@
                 {
                     "par_ref": "70:10.9",
                     "par_pageref": "795.6",
-                    "par_content": "Kostamisen osalta yhteiskunta omaksui jo varhain samalla mitalla maksamisen periaatteen: silmä silmästä, henki hengestä{12}. Kaikki kehittyvät heimot tunnustivat tämän verikoston oikeutuksen. Kostosta tuli primitiivisen elämän tavoite, mutta uskonto on sittemmin suuresti muunnellut näitä varhaisia heimotapoja. Ilmoitususkonnon opettajat ovat aina julistaneet: ”’Kosto on minun’, sanoo Herra.” Muinaisina aikoina ei kostoksi suoritettu tappo kovinkaan paljon poikennut niistä nykyaikojen murhista, joita suoritetaan kirjoittamattoman lain varjolla."
+                    "par_content": "Kostamisen osalta yhteiskunta omaksui jo varhain samalla mitalla maksamisen periaatteen: silmä silmästä, henki hengestä{12}{13}. Kaikki kehittyvät heimot tunnustivat tämän verikoston oikeutuksen{14}. Kostosta tuli primitiivisen elämän tavoite, mutta uskonto on sittemmin suuresti muunnellut näitä varhaisia heimotapoja. Ilmoitususkonnon opettajat ovat aina julistaneet: ”’Kosto on minun’, sanoo Herra{15}.” Muinaisina aikoina ei kostoksi suoritettu tappo kovinkaan paljon poikennut niistä nykyaikojen murhista, joita suoritetaan kirjoittamattoman lain varjolla."
                 },
                 {
                     "par_ref": "70:10.10",
@@ -813,7 +813,7 @@
                 {
                     "par_ref": "70:10.12",
                     "par_pageref": "796.2",
-                    "par_content": "Toinen edistysaskel oli sakkojen määrääminen taburikkomuksista, määräys varallisuusrangaistuksista. Tällaisista sakoista muodostuivat julkisen vallan ensimmäiset tulot. Niin ikään tapa maksaa ”verirahaa” tuli käytäntöön verikoston sijalle{16}. Tällaiset vahingonkorvaukset maksettiin tavallisesti naisina tai karjana. Kesti kauan ennen kuin rikoksen rangaistukseksi määrättiin varsinainen sakko eli rahallinen korvaus. Ja koska rangaistuksen ajatuksena nimenomaan oli aiheutetun vahingon korvaaminen, kävi niin, että kaikelle — myös ihmiselämälle — muotoutui lopulta oma hintansa, joka oli maksettavissa vahingonkorvauksena. Heprealaiset poistivat ensimmäisinä verirahan maksukäytännön. Mooses opetti, ettei heidän pitänyt ”ottaa mitään lunastusmaksua sellaisen tappajan hengestä, joka oli tehnyt hengen rikoksen, vaan rangaistakoon hänet kuolemalla.”"
+                    "par_content": "Toinen edistysaskel oli sakkojen määrääminen taburikkomuksista, määräys varallisuusrangaistuksista. Tällaisista sakoista muodostuivat julkisen vallan ensimmäiset tulot. Niin ikään tapa maksaa ”verirahaa” tuli käytäntöön verikoston sijalle{16}. Tällaiset vahingonkorvaukset maksettiin tavallisesti naisina tai karjana. Kesti kauan ennen kuin rikoksen rangaistukseksi määrättiin varsinainen sakko eli rahallinen korvaus. Ja koska rangaistuksen ajatuksena nimenomaan oli aiheutetun vahingon korvaaminen, kävi niin, että kaikelle — myös ihmiselämälle — muotoutui lopulta oma hintansa, joka oli maksettavissa vahingonkorvauksena. Heprealaiset poistivat ensimmäisinä verirahan maksukäytännön{17}. Mooses opetti, ettei heidän pitänyt ”ottaa mitään lunastusmaksua sellaisen tappajan hengestä, joka oli tehnyt hengen rikoksen, vaan rangaistakoon hänet kuolemalla.”"
                 },
                 {
                     "par_ref": "70:10.13",
@@ -1028,27 +1028,27 @@
         }
     ],
     "footnotes": [
-        "*Taistelujen Jumala*: 1 Cr 14:15; 2 Cr 20:15; 2 Cr 32:8; Sal 24:8; Dt 7:21-23; Dt 20:1-4; 1 Sam 17:47.",
-        "*Barbaarien ryöstöretket*: Nm 31:3-31.",
-        "*Neitsyiden säästäminen*: Jg 21:10-12.",
-        "*Herran Israelin Jumalan nimessä*: Nm 31:1-2; Dt 7:16-24; Dt 20:1; Jg 11:21,23; 1 Sam 15:2-3.",
-        "*Siseran armeijan teurastus*: Jg 4:16.",
+        "*Taistelujen Jumala*: 1 Aik 14:15; 2 Aik 20:15; 2 Aik 32:8; Ps 24:8; 5 Moos 7:21-23; 5 Moos 20:1-4; 1 Sam 17:47.",
+        "*Barbaarien ryöstöretket*: 4 Moos 31:3-31.",
+        "*Neitsyiden säästäminen*: Tuom 21:10-12.",
+        "*Herran Israelin Jumalan nimessä*: 4 Moos 31:1-2; 5 Moos 7:16-24; 5 Moos 20:1; Tuom 11:21,23; 1 Sam 15:2-3.",
+        "*Siseran armeijan teurastus*: Tuom 4:16.",
         "*esinahkojen myötäjäiset*: 1 Sam 18:25-27.",
         "*Mestarien taistelu*: 1 Sam 17:1-51.",
-        "*Jumala on rakkaus*: 1 Jn 4:8,16.",
-        "*Vieras kohdellaan kuin paikallinen*: Lv 19:34.",
-        "*Vanhinten neuvosto*: Gn 50:7; Ex 3:16-18.",
-        "*Kansansa isä*: Gn 19:37-38; Gn 36:9,43; Nm 3:24.",
-        "*Uskollisuuden testi*: Nm 5:12-31.",
-        "*Silmä silmästä*: Ex 21:23-24; Lv 24:20; Dt 19:21; Mt 5:38.",
-        "*Elämä elämästä*: Ex 21:23.",
-        "*Verikosto*: Dt 19:6,12; Jos 20:3-9.",
-        "*Kosto on Jumalan*: Sal 94:1; Is 35:4; Nah 1:2; Dt 32:35,41,43.",
-        "*Korvaava raha*: Ex 21:28.",
-        "*Älä ota lunnaita murhaajasta*: Nm 35:31.",
-        "*Polttakaa aikuinen nainen tulella*: Gn 38:24; Lv 21:9.",
-        "*Älä tapa*: Ex 20:13; Dt 5:17.",
-        "*Se on tapana*: Jer 32:11; Jg 11:39."
+        "*Jumala on rakkaus*: 1 Joh 4:8,16.",
+        "*Vieras kohdellaan kuin paikallinen*: 3 Moos 19:34.",
+        "*Vanhinten neuvosto*: 1 Moos 50:7; 2 Moos 3:16-18.",
+        "*Kansansa isä*: 1 Moos 19:37-38; 1 Moos 36:9,43; 4 Moos 3:24.",
+        "*Uskollisuuden testi*: 4 Moos 5:12-31.",
+        "*Silmä silmästä*: 2 Moos 21:23-24; 3 Moos 24:20; 5 Moos 19:21; Matt 5:38.",
+        "*Elämä elämästä*: 2 Moos 21:23.",
+        "*Verikosto*: 5 Moos 19:6,12; Joos 20:3-9.",
+        "*Kosto on Jumalan*: Ps 94:1; Jes 35:4; Nah 1:2; 5 Moos 32:35,41,43.",
+        "*Korvaava raha*: 2 Moos 21:28.",
+        "*Älä ota lunnaita murhaajasta*: 4 Moos 35:31.",
+        "*Polttakaa aikuinen nainen tulella*: 1 Moos 38:24; 3 Moos 21:9.",
+        "*Älä tapa*: 2 Moos 20:13; 5 Moos 5:17.",
+        "*Se on tapana*: Jer 32:11; Tuom 11:39."
     ],
     "paper_title": "Ihmisperäisen hallitusjärjestelmän kehitys"
 }

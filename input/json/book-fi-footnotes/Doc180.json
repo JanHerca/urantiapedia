@@ -13,12 +13,12 @@
                 {
                     "par_ref": "180:0.2",
                     "par_pageref": "1944.2",
-                    "par_content": "”Muistatte hyvin, kun lähetin teidät matkaan kukkarotta ja lompakotta ja neuvoinpa teitä jättämään ylimääräiset vaatteetkin kotiin. Ja muistanette kaikki, ettei teiltä mitään puuttunut. Mutta nyt teille koittavat myrskyisät ajat. Enää ette voi luottaa kansanjoukkojen hyvään tahtoon. Ottakoon vastedes se, jolla on rahakukkaro, sen mukaansa. Kun menette maailmalle julistamaan tätä evankeliumia, ottakaa mukaanne varusteet, niin kuin parhaaksi katsotte{0}. Olen tullut tuomaan rauhan, mutta se ei ilmesty vähään aikaan."
+                    "par_content": "”Muistatte hyvin, kun lähetin teidät matkaan kukkarotta ja lompakotta ja neuvoinpa teitä jättämään ylimääräiset vaatteetkin kotiin. Ja muistanette kaikki, ettei teiltä mitään puuttunut. Mutta nyt teille koittavat myrskyisät ajat. Enää ette voi luottaa kansanjoukkojen hyvään tahtoon. Ottakoon vastedes se, jolla on rahakukkaro, sen mukaansa. Kun menette maailmalle julistamaan tätä evankeliumia, ottakaa mukaanne varusteet, niin kuin parhaaksi katsotte{0}. Olen tullut tuomaan rauhan, mutta se ei ilmesty vähään aikaan{1}."
                 },
                 {
                     "par_ref": "180:0.3",
                     "par_pageref": "1944.3",
-                    "par_content": "”Se aika on nyt tullut, jolloin Ihmisen Poika kruunataan kunnialla, ja Isä kruunautuu minussa{2}. Ystäväni, olen luonanne enää hetkisen. Kohta te etsitte minua, mutta ette minua löydä, sillä olen menossa paikkaan, jonne ette voi tällä hetkellä tulla. Mutta saatuanne päätökseen työnne maan päällä samaan tapaan kuin minä nyt olen vienyt päätökseen oman työni, sitten tulette luokseni, kuten minä nyt valmistaudun lähtemään Isäni tykö. Jäljellä on vain muutama hetki siihen, jolloin jätän teidät, ettekä minua enää maan päällä näe. Mutta te kaikki näette minut tulevana aikana noustessanne valtakuntaan, jonka Isäni on minulle antanut.”"
+                    "par_content": "”Se aika on nyt tullut, jolloin Ihmisen Poika kruunataan kunnialla, ja Isä kruunautuu minussa{2}. Ystäväni, olen luonanne enää hetkisen. Kohta te etsitte minua, mutta ette minua löydä, sillä olen menossa paikkaan, jonne ette voi tällä hetkellä tulla{3}{4}. Mutta saatuanne päätökseen työnne maan päällä samaan tapaan kuin minä nyt olen vienyt päätökseen oman työni, sitten tulette luokseni, kuten minä nyt valmistaudun lähtemään Isäni tykö{5}. Jäljellä on vain muutama hetki siihen, jolloin jätän teidät, ettekä minua enää maan päällä näe. Mutta te kaikki näette minut tulevana aikana noustessanne valtakuntaan, jonka Isäni on minulle antanut.”"
                 }
             ]
         },
@@ -35,12 +35,12 @@
                 {
                     "par_ref": "180:1.2",
                     "par_pageref": "1944.5",
-                    "par_content": "”Tämän uuden käskyn teille antaessani en laske taas uutta taakkaa sielunne kannettavaksi, vaan mieluumminkin tuon teille uutta iloa ja teen teille mahdolliseksi kokea uutta mielihyvää siitä, että tunnette riemut, joiden lähde on sydämestänne kumpuavan kiintymyksen osoittaminen kanssaihmisiänne kohtaan{7}. Tulen kohta kokemaan ylimaallisen ilon — vaikka ulkonaisesti näyttääkin, että joudun kestämään murhetta —, kun vuodatan rakkauteni teille ja kuolevaistovereillenne."
+                    "par_content": "”Tämän uuden käskyn teille antaessani en laske taas uutta taakkaa sielunne kannettavaksi, vaan mieluumminkin tuon teille uutta iloa ja teen teille mahdolliseksi kokea uutta mielihyvää siitä, että tunnette riemut, joiden lähde on sydämestänne kumpuavan kiintymyksen osoittaminen kanssaihmisiänne kohtaan{7}. Tulen kohta kokemaan ylimaallisen ilon — vaikka ulkonaisesti näyttääkin, että joudun kestämään murhetta —, kun vuodatan rakkauteni teille ja kuolevaistovereillenne{8}."
                 },
                 {
                     "par_ref": "180:1.3",
                     "par_pageref": "1944.6",
-                    "par_content": "”Kehottaessani teitä rakastamaan toisianne niin kuin minä olen teitä rakastanut, pidän edessänne oikean rakkauden korkeinta mittapuuta, sillä suurempaa rakkautta ei kenelläkään voi olla kuin, että hän antaa henkensä ystäviensä puolesta{9}. Ja te olette ystäviäni; tulette jatkuvasti olemaan ystäviäni, jos vain olette valmiita tekemään, mitä olen teille opettanut. Te olette kutsuneet minua Mestariksi, mutta minä en kutsu teitä palvelijoiksi. Jos vain rakastatte toisianne, kuten minä rakastan teitä, olette ystäviäni, ja puhun teille alati siitä, minkä Isä paljastaa minulle."
+                    "par_content": "”Kehottaessani teitä rakastamaan toisianne niin kuin minä olen teitä rakastanut, pidän edessänne oikean rakkauden korkeinta mittapuuta, sillä suurempaa rakkautta ei kenelläkään voi olla kuin, että hän antaa henkensä ystäviensä puolesta{9}{10}. Ja te olette ystäviäni; tulette jatkuvasti olemaan ystäviäni, jos vain olette valmiita tekemään, mitä olen teille opettanut. Te olette kutsuneet minua Mestariksi, mutta minä en kutsu teitä palvelijoiksi. Jos vain rakastatte toisianne, kuten minä rakastan teitä, olette ystäviäni, ja puhun teille alati siitä, minkä Isä paljastaa minulle."
                 },
                 {
                     "par_ref": "180:1.4",
@@ -67,7 +67,7 @@
                 {
                     "par_ref": "180:2.1",
                     "par_pageref": "1945.4",
-                    "par_content": "Sitten Jeesus nousi taas seisaalleen ja jatkoi apostoleidensa opettamista: ”Minä olen oikea viinipuu, ja Isäni on viinitarhuri. Minä olen viinipuu, ja te olette oksat. Ja Isä edellyttää minulta vain, että kannatte paljon hedelmiä{14}. Viinipuun karsimisen tarkoituksena on vain sen oksien satoisuuden lisääminen. Jokaisen minusta versovan oksan, joka ei kanna hedelmää, Isä karsii pois. Jokaisen hedelmää tuottavan oksan Isä puhdistaa, jotta se kantaa entistäkin enemmän hedelmiä. Olette jo puhtaat sen sanan kautta, jonka olen puhunut, mutta teidän tulee myös pysyä puhtaina. Teidän täytyy pysyä minussa, ja minun teissä, sillä oksa kuihtuu, jos se erotetaan viinipuusta. Niin kuin ei oksakaan voi kantaa hedelmää, ellei se pysy viinipuussa, niin ette tekään voi tuottaa rakastavan palvelun hedelmiä, ellette pysy minussa. Muistakaa, että minä olen se oikea viinipuu, ja te olette sen elävät oksat. Joka elää minussa ja minä hänessä, kantaa runsain määrin hengen hedelmiä ja kokee ylintä iloa siitä, että tuottaa tämän hengellisen sadon. Jos tahdotte pitää tämän elävän hengellisen yhteyden minuun, kannatte runsaan hedelmäsadon. Jos pysytte minussa ja jos sanani elävät teissä, kykenette esteettömään kanssakäymiseen kanssani, ja siinä tapauksessa elävä henkeni voi niin täyttää teidät, että voitte pyytää, mitä henkeni ikinä tahtoo, ja tehdä kaiken tämän täysin vakuuttuneina siitä, että Isä suostuu pyyntöömme. Isä kruunataan kunnialla sillä, että viinipuussa on paljon eläviä oksia ja että jokainen oksa kantaa runsaasti hedelmää. Ja kun maailma näkee nämä hedelmiä kantavat oksat — ystäväni, jotka rakastavat toisiaan niin kuin minä olen heitä rakastanut, — niin kaikki ihmiset tietävät teidän totisesti olevan opetuslapsiani."
+                    "par_content": "Sitten Jeesus nousi taas seisaalleen ja jatkoi apostoleidensa opettamista: ”Minä olen oikea viinipuu, ja Isäni on viinitarhuri. Minä olen viinipuu, ja te olette oksat. Ja Isä edellyttää minulta vain, että kannatte paljon hedelmiä{14}. Viinipuun karsimisen tarkoituksena on vain sen oksien satoisuuden lisääminen. Jokaisen minusta versovan oksan, joka ei kanna hedelmää, Isä karsii pois. Jokaisen hedelmää tuottavan oksan Isä puhdistaa, jotta se kantaa entistäkin enemmän hedelmiä. Olette jo puhtaat sen sanan kautta, jonka olen puhunut, mutta teidän tulee myös pysyä puhtaina. Teidän täytyy pysyä minussa, ja minun teissä, sillä oksa kuihtuu, jos se erotetaan viinipuusta. Niin kuin ei oksakaan voi kantaa hedelmää, ellei se pysy viinipuussa, niin ette tekään voi tuottaa rakastavan palvelun hedelmiä, ellette pysy minussa. Muistakaa, että minä olen se oikea viinipuu, ja te olette sen elävät oksat{15}. Joka elää minussa ja minä hänessä, kantaa runsain määrin hengen hedelmiä ja kokee ylintä iloa siitä, että tuottaa tämän hengellisen sadon. Jos tahdotte pitää tämän elävän hengellisen yhteyden minuun, kannatte runsaan hedelmäsadon. Jos pysytte minussa ja jos sanani elävät teissä, kykenette esteettömään kanssakäymiseen kanssani, ja siinä tapauksessa elävä henkeni voi niin täyttää teidät, että voitte pyytää, mitä henkeni ikinä tahtoo, ja tehdä kaiken tämän täysin vakuuttuneina siitä, että Isä suostuu pyyntöömme{16}. Isä kruunataan kunnialla sillä, että viinipuussa on paljon eläviä oksia ja että jokainen oksa kantaa runsaasti hedelmää. Ja kun maailma näkee nämä hedelmiä kantavat oksat — ystäväni, jotka rakastavat toisiaan niin kuin minä olen heitä rakastanut, — niin kaikki ihmiset tietävät teidän totisesti olevan opetuslapsiani{17}."
                 },
                 {
                     "par_ref": "180:2.2",
@@ -87,7 +87,7 @@
                 {
                     "par_ref": "180:2.5",
                     "par_pageref": "1946.3",
-                    "par_content": "Jos tällaisen elävän yhteyden vallitessa jumalallisuuden ja ihmisyyden välillä ihmisyys sattuisi ajattelemattomuuttaan ja tietämättömyyttään rukoilemaan itsekästä vaivattomuutta ja kunniankipeydestä kertovia saavutuksia, sellaiseen voi olla vain yksi jumalallinen vastaus: elävien oksastojen on tuotettava yhä enemmän hengen hedelmiä. Kun viinipuun oksa on elävä, kaikkiin sen pyyntöihin voi olla vain yksi vastaus: on tuotettava lisää rypäleitä. Itse asiassa oksa on olemassa vain sitä varten, että se kantaa hedelmää, eikä se voi tehdä muuta kuin tuottaa rypäleitä{21}. Samoin on oikea uskova olemassa vain, jotta hän kantaisi hengen hedelmiä — rakastaisi ihmistä niin kuin Jumala on uskovaa itseään rakastanut —, jotta rakastaisimme toisiamme niin kuin Jeesus on meitä rakastanut."
+                    "par_content": "Jos tällaisen elävän yhteyden vallitessa jumalallisuuden ja ihmisyyden välillä ihmisyys sattuisi ajattelemattomuuttaan ja tietämättömyyttään rukoilemaan itsekästä vaivattomuutta ja kunniankipeydestä kertovia saavutuksia, sellaiseen voi olla vain yksi jumalallinen vastaus: elävien oksastojen on tuotettava yhä enemmän hengen hedelmiä. Kun viinipuun oksa on elävä, kaikkiin sen pyyntöihin voi olla vain yksi vastaus: on tuotettava lisää rypäleitä. Itse asiassa oksa on olemassa vain sitä varten, että se kantaa hedelmää, eikä se voi tehdä muuta kuin tuottaa rypäleitä{21}. Samoin on oikea uskova olemassa vain, jotta hän kantaisi hengen hedelmiä — rakastaisi ihmistä niin kuin Jumala on uskovaa itseään rakastanut —, jotta rakastaisimme toisiamme niin kuin Jeesus on meitä rakastanut{22}{23}."
                 },
                 {
                     "par_ref": "180:2.6",
@@ -114,7 +114,7 @@
                 {
                     "par_ref": "180:3.2",
                     "par_pageref": "1947.1",
-                    "par_content": "”Monet niistä, jotka käyvät kimppuunne, ovat tietämättömiä taivaan valkeudesta, mutta näin ei voi sanoa joistakuista, jotka nyt meitä vainoavat. Ellemme olisi opettaneet heille totuutta, he saattaisivat tehdä monia kummallisia tekoja tuomiolle joutumatta, mutta nyt heidän asennoitumisensa on anteeksiantamaton, sillä he ovat tunteneet valkeuden ja ottaneet vapauden sen torjua{25}. Joka vihaa minua, vihaa Isääni. Mitenkään muuten ei voi olla; valo, joka pelastaisi teidät, jos se otettaisiin vastaan, ei voi muuta kuin tuomita teidät, jos se tieten tahtoen torjutaan. Ja mitä minä olen tehnyt näille ihmisille sellaista, että heidän pitäisi tuntea näin hirvittävää vihaa minua kohtaan? En mitään muuta kuin, että olen tarjonnut heille kumppanuutta maan päällä ja pelastusta taivaassa. Mutta ettekö olekin lukeneet kirjoituksista sanontaa: ’Ja syyttä he minua vihasivat’?"
+                    "par_content": "”Monet niistä, jotka käyvät kimppuunne, ovat tietämättömiä taivaan valkeudesta, mutta näin ei voi sanoa joistakuista, jotka nyt meitä vainoavat. Ellemme olisi opettaneet heille totuutta, he saattaisivat tehdä monia kummallisia tekoja tuomiolle joutumatta, mutta nyt heidän asennoitumisensa on anteeksiantamaton, sillä he ovat tunteneet valkeuden ja ottaneet vapauden sen torjua{25}. Joka vihaa minua, vihaa Isääni. Mitenkään muuten ei voi olla; valo, joka pelastaisi teidät, jos se otettaisiin vastaan, ei voi muuta kuin tuomita teidät, jos se tieten tahtoen torjutaan. Ja mitä minä olen tehnyt näille ihmisille sellaista, että heidän pitäisi tuntea näin hirvittävää vihaa minua kohtaan? En mitään muuta kuin, että olen tarjonnut heille kumppanuutta maan päällä ja pelastusta taivaassa. Mutta ettekö olekin lukeneet kirjoituksista sanontaa: ’Ja syyttä he minua vihasivat’?{26}"
                 },
                 {
                     "par_ref": "180:3.3",
@@ -149,7 +149,7 @@
                 {
                     "par_ref": "180:3.9",
                     "par_pageref": "1947.8",
-                    "par_content": "Ja Filippuksen puhuttua Jeesus sanoi: ”Filippus, näinkö kauan olen ollut kanssasi etkä vielä nytkään tunne minua? Sanon taas kerran: Joka on nähnyt minut, on nähnyt Isän{33}. Kuinka siis voit sanoa ’Näytä meille Isä’? Etkö sinä usko, että minä olen Isässä ja Isä on minussa? Enkö ole opettanut teille, että puhumani sanat eivät ole minun sanojani vaan Isän sanoja? Puhun Isän puolesta, en itsestäni. Olen tässä maailmassa tehdäkseni niin kuin on Isän tahto, ja sen olen tehnyt. Isäni on minussa ja toimii kauttani. Uskokaa minua, kun sanon, että Isä on minussa ja että minä olen Isässä, tai uskokaa minua edes sen elämän takia, jonka olen elänyt — elämäntyön takia.”"
+                    "par_content": "Ja Filippuksen puhuttua Jeesus sanoi: ”Filippus, näinkö kauan olen ollut kanssasi etkä vielä nytkään tunne minua? Sanon taas kerran: Joka on nähnyt minut, on nähnyt Isän{33}. Kuinka siis voit sanoa ’Näytä meille Isä’? Etkö sinä usko, että minä olen Isässä ja Isä on minussa? Enkö ole opettanut teille, että puhumani sanat eivät ole minun sanojani vaan Isän sanoja? Puhun Isän puolesta, en itsestäni{34}. Olen tässä maailmassa tehdäkseni niin kuin on Isän tahto, ja sen olen tehnyt{35}. Isäni on minussa ja toimii kauttani. Uskokaa minua, kun sanon, että Isä on minussa ja että minä olen Isässä, tai uskokaa minua edes sen elämän takia, jonka olen elänyt — elämäntyön takia.”"
                 },
                 {
                     "par_ref": "180:3.10",
@@ -166,12 +166,12 @@
                 {
                     "par_ref": "180:4.1",
                     "par_pageref": "1948.2",
-                    "par_content": "Jeesus jatkoi opetustaan sanoen: ”Kun olen mennyt Isän tykö, ja sen jälkeen kun hän on antanut täyden hyväksyntänsä työlle, jonka olen tehnyt hyväksenne maan päällä, ja kun minulle on annettu lopullinen hallitsijanvalta omaan toimipiiriini, sanon Isälleni: Koska olen jättänyt lapseni yksikseen maan päälle, on antamani lupauksen mukaista lähettää heille toinen opettaja. Ja sitten kun Isä katsoo hyväksi, vuodatan Totuuden Hengen kaiken lihan päälle. Jo nyt Isäni henki on sydämessänne, ja kun mainitsemani päivä tulee, teillä on luonanne myös minut samalla tavalla kuin teillä nyt on Isä. Tämä uusi lahja on elävän totuuden henki. Epäuskoiset eivät aluksi kuuntele tämän hengen opetuksia, mutta valon pojat ottavat hänet kaikki iloiten ja täysin sydämin vastaan. Ja te tunnette tämän hengen, kun hän saapuu, samoin kuin olette tunteneet minut, ja vastaanotatte tämän lahjan sydämeenne, ja hän jää luoksenne. Nyt ymmärrätte, etten aio jättää teitä avutta ja opastuksetta. En jätä teitä lohduttomiksi{36}. Tällä hetkellä voin olla kanssanne vain ollessani omakohtaisesti paikalla. Tulevina aikoina olen kanssanne ja kaikkien muiden ihmisten kanssa, jotka haluavat minun olevan läsnä, olittepa missä hyvänsä, ja teistä itse kunkin kanssa samanaikaisesti. Ettekö näe, että on parempi, että menen pois; että lihallisen hahmossa jätän teidät, jotta voin olla sitäkin paremmin ja sitäkin täydemmin kanssanne hengessä?"
+                    "par_content": "Jeesus jatkoi opetustaan sanoen: ”Kun olen mennyt Isän tykö, ja sen jälkeen kun hän on antanut täyden hyväksyntänsä työlle, jonka olen tehnyt hyväksenne maan päällä, ja kun minulle on annettu lopullinen hallitsijanvalta omaan toimipiiriini, sanon Isälleni: Koska olen jättänyt lapseni yksikseen maan päälle, on antamani lupauksen mukaista lähettää heille toinen opettaja. Ja sitten kun Isä katsoo hyväksi, vuodatan Totuuden Hengen kaiken lihan päälle. Jo nyt Isäni henki on sydämessänne, ja kun mainitsemani päivä tulee, teillä on luonanne myös minut samalla tavalla kuin teillä nyt on Isä. Tämä uusi lahja on elävän totuuden henki. Epäuskoiset eivät aluksi kuuntele tämän hengen opetuksia, mutta valon pojat ottavat hänet kaikki iloiten ja täysin sydämin vastaan. Ja te tunnette tämän hengen, kun hän saapuu, samoin kuin olette tunteneet minut, ja vastaanotatte tämän lahjan sydämeenne, ja hän jää luoksenne. Nyt ymmärrätte, etten aio jättää teitä avutta ja opastuksetta. En jätä teitä lohduttomiksi{36}. Tällä hetkellä voin olla kanssanne vain ollessani omakohtaisesti paikalla. Tulevina aikoina olen kanssanne ja kaikkien muiden ihmisten kanssa, jotka haluavat minun olevan läsnä, olittepa missä hyvänsä, ja teistä itse kunkin kanssa samanaikaisesti. Ettekö näe, että on parempi, että menen pois; että lihallisen hahmossa jätän teidät, jotta voin olla sitäkin paremmin ja sitäkin täydemmin kanssanne hengessä?{37}"
                 },
                 {
                     "par_ref": "180:4.2",
                     "par_pageref": "1948.3",
-                    "par_content": "”Vain muutaman tunnin kuluttua maailma ei enää minua näe; mutta tunnette minut edelleenkin sydämessänne, aina siihen hetkeen saakka kun lähetän teille tämän uuden opettajan, Totuuden Hengen. Niin kuin olen omassa persoonassani elänyt kanssanne, niin olen minä silloin elävä teissä; tulen olemaan yhtä teidän henkilökohtaisen kokemuksenne kanssa hengen valtakunnassa. Ja sitten kun tämä on tapahtunut, tiedätte varmasti, että olen Isässä ja että koska teidän elämänne on kätkettynä Isän myötä minuun, myös minä olen teissä{38}. Olen rakastanut Isää ja olen pitänyt hänen sanansa, te olette rakastaneet minua ja tulette pitämään minun sanani. Samoin kuin Isäni on antanut minulle henkeään niin olen minäkin antava teille henkeäni. Ja tämä Totuuden Henki, jonka vuodatan teille, opastaa ja lohduttaa teitä ja lopulta se johdattaa teidät kaikkeen totuuteen."
+                    "par_content": "”Vain muutaman tunnin kuluttua maailma ei enää minua näe; mutta tunnette minut edelleenkin sydämessänne, aina siihen hetkeen saakka kun lähetän teille tämän uuden opettajan, Totuuden Hengen. Niin kuin olen omassa persoonassani elänyt kanssanne, niin olen minä silloin elävä teissä; tulen olemaan yhtä teidän henkilökohtaisen kokemuksenne kanssa hengen valtakunnassa. Ja sitten kun tämä on tapahtunut, tiedätte varmasti, että olen Isässä ja että koska teidän elämänne on kätkettynä Isän myötä minuun, myös minä olen teissä{38}. Olen rakastanut Isää ja olen pitänyt hänen sanansa, te olette rakastaneet minua ja tulette pitämään minun sanani. Samoin kuin Isäni on antanut minulle henkeään niin olen minäkin antava teille henkeäni. Ja tämä Totuuden Henki, jonka vuodatan teille, opastaa ja lohduttaa teitä ja lopulta se johdattaa teidät kaikkeen totuuteen{39}."
                 },
                 {
                     "par_ref": "180:4.3",
@@ -186,7 +186,7 @@
                 {
                     "par_ref": "180:4.5",
                     "par_pageref": "1949.1",
-                    "par_content": "Jeesus katseli heitä kaikkia, hymyili ja sanoi: ”Lapsukaiseni, olen menossa pois, menossa takaisin Isäni tykö. Vähän ajan päästä ette näe minua sellaisena kuin näette minut täällä, jossa olen lihaa ja verta{42}. Varsin lyhyen ajan kuluttua lähetän teille henkeni, joka tätä aineellista ruumistani lukuun ottamatta on aivan minun kaltaiseni. Tämä uusi opettaja on Totuuden Henki, joka elää teistä itse kunkin kanssa, teidän sydämessänne, ja niin kaikista valon lapsista tehdään yksi, ja he tuntevat vetoa toisiaan kohtaan. Ja nimenomaan tällä tavalla Isä ja minä voimme elää teistä jokaisen sielussa samoin kuin kaikkien muiden sellaisten ihmisten sydämessä, jotka rakastavat meitä ja jotka tekevät omissa kokemuksissaan tästä rakkaudesta todellisen siten, että he rakastavat toisiaan niin kuin minä nyt rakastan teitä.”"
+                    "par_content": "Jeesus katseli heitä kaikkia, hymyili ja sanoi: ”Lapsukaiseni, olen menossa pois, menossa takaisin Isäni tykö. Vähän ajan päästä ette näe minua sellaisena kuin näette minut täällä, jossa olen lihaa ja verta{42}. Varsin lyhyen ajan kuluttua lähetän teille henkeni, joka tätä aineellista ruumistani lukuun ottamatta on aivan minun kaltaiseni{43}. Tämä uusi opettaja on Totuuden Henki, joka elää teistä itse kunkin kanssa, teidän sydämessänne, ja niin kaikista valon lapsista tehdään yksi, ja he tuntevat vetoa toisiaan kohtaan{44}{45}. Ja nimenomaan tällä tavalla Isä ja minä voimme elää teistä jokaisen sielussa samoin kuin kaikkien muiden sellaisten ihmisten sydämessä, jotka rakastavat meitä ja jotka tekevät omissa kokemuksissaan tästä rakkaudesta todellisen siten, että he rakastavat toisiaan niin kuin minä nyt rakastan teitä{46}{47}.”"
                 },
                 {
                     "par_ref": "180:4.6",
@@ -270,7 +270,7 @@
                 {
                     "par_ref": "180:6.1",
                     "par_pageref": "1951.2",
-                    "par_content": "Pietarin, Jaakobin, Johanneksen ja Matteuksen esitettyä Mestarille lukuisia kysymyksiä tämä jatkoi jäähyväispuhettaan sanoen: ”Ja kerron teille tästä kaikesta, ennen kuin poistun luotanne, jotta olisitte niin valmiita kohtaamaan eteenne tulevan, ettette lankea vakavaan erheeseen{49}. Viranomaiset eivät tyydy pelkästään ajamaan teidät pois synagogista; varoitan teitä sen hetken lähenemisestä, jolloin ne, jotka tappavat teitä, luulevat tekevänsä palveluksen Jumalalle. Ja kaikkia näitä tekoja he tekevät teille ja niille, jotka olette johdattaneet taivaan valtakuntaan, koska he eivät tunne Isää. Kieltäytymällä vastaanottamasta minua he ovat kieltäytyneet tuntemasta Isää. Ja teidät torjuessaan he kieltäytyvät ottamasta vastaan minua, jos vain olette pitäneet uuden käskyni rakastaa toisianne niin kuin minä olen teitä rakastanut. Kerron teille edeltäkäsin näistä asioista, jotta teitä, sitten kun hetkenne tulee, kuten minun hetkeni nyt on tullut, vahvistaisi tieto siitä, että tiesin kaiken ja että henkeni on kanssanne kaikessa, mitä joudutte minun tähteni ja evankeliumin tähden kärsimään. Tästä nimenomaisesta syystä olen puhunut teille alusta alkaen näin selväsanaisesti. Olen varoittanut teitä siitäkin, että ihmisen viholliset voivat olla hänen oman talonväkensä jäseniä. Vaikka tämä valtakunnan evankeliumi tuokin aina yksittäisen uskovan sielulle suuren rauhan, se ei kuitenkaan tuo rauhaa maan päälle, ennen kuin ihminen on halukas täydestä sydämestään uskomaan opetukseni ja omaksumaan käytännökseen Isän tahdon täyttämisen ja pitämään sitä kuolevaisena elämänsä elämän päätarkoituksena."
+                    "par_content": "Pietarin, Jaakobin, Johanneksen ja Matteuksen esitettyä Mestarille lukuisia kysymyksiä tämä jatkoi jäähyväispuhettaan sanoen: ”Ja kerron teille tästä kaikesta, ennen kuin poistun luotanne, jotta olisitte niin valmiita kohtaamaan eteenne tulevan, ettette lankea vakavaan erheeseen{49}. Viranomaiset eivät tyydy pelkästään ajamaan teidät pois synagogista; varoitan teitä sen hetken lähenemisestä, jolloin ne, jotka tappavat teitä, luulevat tekevänsä palveluksen Jumalalle. Ja kaikkia näitä tekoja he tekevät teille ja niille, jotka olette johdattaneet taivaan valtakuntaan, koska he eivät tunne Isää. Kieltäytymällä vastaanottamasta minua he ovat kieltäytyneet tuntemasta Isää{50}. Ja teidät torjuessaan he kieltäytyvät ottamasta vastaan minua, jos vain olette pitäneet uuden käskyni rakastaa toisianne niin kuin minä olen teitä rakastanut. Kerron teille edeltäkäsin näistä asioista, jotta teitä, sitten kun hetkenne tulee, kuten minun hetkeni nyt on tullut, vahvistaisi tieto siitä, että tiesin kaiken ja että henkeni on kanssanne kaikessa, mitä joudutte minun tähteni ja evankeliumin tähden kärsimään. Tästä nimenomaisesta syystä olen puhunut teille alusta alkaen näin selväsanaisesti{51}. Olen varoittanut teitä siitäkin, että ihmisen viholliset voivat olla hänen oman talonväkensä jäseniä. Vaikka tämä valtakunnan evankeliumi tuokin aina yksittäisen uskovan sielulle suuren rauhan, se ei kuitenkaan tuo rauhaa maan päälle, ennen kuin ihminen on halukas täydestä sydämestään uskomaan opetukseni ja omaksumaan käytännökseen Isän tahdon täyttämisen ja pitämään sitä kuolevaisena elämänsä elämän päätarkoituksena."
                 },
                 {
                     "par_ref": "180:6.2",
@@ -280,12 +280,12 @@
                 {
                     "par_ref": "180:6.3",
                     "par_pageref": "1951.4",
-                    "par_content": "”Minulla on vieläkin paljon sanottavaa teille, mutta juuri tällä hetkellä ette kykene ottamaan vastaan enempää. Sitä paitsi, kun Totuuden Henki tulee, hän lopulta opastaa teidät kaikkeen totuuteen kulkiessanne Isäni universumin monien asuinsijojen läpi{53}."
+                    "par_content": "”Minulla on vieläkin paljon sanottavaa teille, mutta juuri tällä hetkellä ette kykene ottamaan vastaan enempää. Sitä paitsi, kun Totuuden Henki tulee, hän lopulta opastaa teidät kaikkeen totuuteen kulkiessanne Isäni universumin monien asuinsijojen läpi{53}{54}{55}."
                 },
                 {
                     "par_ref": "180:6.4",
                     "par_pageref": "1951.5",
-                    "par_content": "”Tämä henki ei puhu omiaan, vaan hän ilmoittaa teille sen, minkä Isä on paljastanut Pojalle, ja hän näyttää teille jopa asioita, jotka kuuluvat tulevaisuuteen{56}. Hän kruunaa minut kunnialla niin kuin minä olen kruunannut Isäni. Tämä henki tulee minulta, ja hän paljastaa minun totuuteni teille. Kaikki, mitä Isällä tässä toimipiirissä on, on nyt minun, ja sen vuoksi sanoin, että tämä uusi opettaja ottaisi siitä, mikä on minun, ja paljastaisi sen teille."
+                    "par_content": "”Tämä henki ei puhu omiaan, vaan hän ilmoittaa teille sen, minkä Isä on paljastanut Pojalle, ja hän näyttää teille jopa asioita, jotka kuuluvat tulevaisuuteen{56}. Hän kruunaa minut kunnialla niin kuin minä olen kruunannut Isäni{57}. Tämä henki tulee minulta, ja hän paljastaa minun totuuteni teille. Kaikki, mitä Isällä tässä toimipiirissä on, on nyt minun, ja sen vuoksi sanoin, että tämä uusi opettaja ottaisi siitä, mikä on minun, ja paljastaisi sen teille."
                 },
                 {
                     "par_ref": "180:6.5",
@@ -300,12 +300,12 @@
                 {
                     "par_ref": "180:6.7",
                     "par_pageref": "1952.3",
-                    "par_content": "Ja koska Jeesus tiesi, että he esittivät näitä kysymyksiä, hän sanoi: ”Kyselettekö toisiltanne, mitä tarkoitin sanoessani, etten muutaman hetken kuluttua olisi luonanne, ja että sitten kun taas näette minut, olisin matkalla Isän tykö? Olen yksiselitteisesti kertonut teille, että Ihmisen Pojan täytyy kuolla, mutta että hän nousee kuolleista{60}. Ettekö siis kykene käsittämään sanojeni merkitystä? Ensin teidät saatetaan murheen valtaan, mutta myöhemmin tulette riemuitsemaan monien kanssa, jotka ymmärtävät nämä asiat, kunhan ne ovat tapahtuneet. Nainen on toden totta murheissaan synnytyksen hetkellä, mutta kun lapsi on syntynyt, hän unohtaa välittömästi tuskansa sen tiedon luomassa ilossa, että maailmaan on syntynyt ihminen. Ja samoin tulette tekin kohta murhettumaan poismenostani, mutta hyvin pian taas tapaan teidät, ja silloin surunne muuttuu riemuitsemiseksi, ja teille tulee uusi ilmoitus Jumalan suomasta pelastuksesta, jota kukaan ei voi teiltä koskaan riistää. Ja kaikki maailmat saavat siunauksen tämän saman elämän ilmoituksen myötä siinä, että se kukistaa kuoleman. Tähän saakka olette esittäneet kaikki pyyntönne Isäni nimissä. Sen jälkeen kun taas näette minut, saatte pyytää myös minun nimissäni, ja minä kuulen teitä."
+                    "par_content": "Ja koska Jeesus tiesi, että he esittivät näitä kysymyksiä, hän sanoi: ”Kyselettekö toisiltanne, mitä tarkoitin sanoessani, etten muutaman hetken kuluttua olisi luonanne, ja että sitten kun taas näette minut, olisin matkalla Isän tykö? Olen yksiselitteisesti kertonut teille, että Ihmisen Pojan täytyy kuolla, mutta että hän nousee kuolleista{60}. Ettekö siis kykene käsittämään sanojeni merkitystä? Ensin teidät saatetaan murheen valtaan, mutta myöhemmin tulette riemuitsemaan monien kanssa, jotka ymmärtävät nämä asiat, kunhan ne ovat tapahtuneet{61}. Nainen on toden totta murheissaan synnytyksen hetkellä, mutta kun lapsi on syntynyt, hän unohtaa välittömästi tuskansa sen tiedon luomassa ilossa, että maailmaan on syntynyt ihminen. Ja samoin tulette tekin kohta murhettumaan poismenostani, mutta hyvin pian taas tapaan teidät, ja silloin surunne muuttuu riemuitsemiseksi, ja teille tulee uusi ilmoitus Jumalan suomasta pelastuksesta, jota kukaan ei voi teiltä koskaan riistää. Ja kaikki maailmat saavat siunauksen tämän saman elämän ilmoituksen myötä siinä, että se kukistaa kuoleman. Tähän saakka olette esittäneet kaikki pyyntönne Isäni nimissä. Sen jälkeen kun taas näette minut, saatte pyytää myös minun nimissäni, ja minä kuulen teitä{62}."
                 },
                 {
                     "par_ref": "180:6.8",
                     "par_pageref": "1952.4",
-                    "par_content": "”Täällä alhaalla, maan päällä, olen opettanut teitä sananparsin ja puhunut teille vertauksin. Olen tehnyt niin siksi, että olitte hengessä vasta lapsia{63}. Mutta se aika on tulossa, jolloin puhun teille selkein sanoin Isästä ja hänen valtakunnastaan. Ja teen näin siksi, että Isä itse rakastaa teitä ja haluaa, että hänet tehdään teille täydemmin tunnetuksi. Kuolevainen ihminen ei voi nähdä henki-Isää, siksi olenkin tullut tähän maailmaan osoittamaan Isän teidän luodun silmillenne. Mutta kun teistä on tullut täydellisiä henkisen kasvun osalta, silloin te näette Isän itsensä.”"
+                    "par_content": "”Täällä alhaalla, maan päällä, olen opettanut teitä sananparsin ja puhunut teille vertauksin. Olen tehnyt niin siksi, että olitte hengessä vasta lapsia{63}. Mutta se aika on tulossa, jolloin puhun teille selkein sanoin Isästä ja hänen valtakunnastaan. Ja teen näin siksi, että Isä itse rakastaa teitä ja haluaa, että hänet tehdään teille täydemmin tunnetuksi{64}. Kuolevainen ihminen ei voi nähdä henki-Isää, siksi olenkin tullut tähän maailmaan osoittamaan Isän teidän luodun silmillenne. Mutta kun teistä on tullut täydellisiä henkisen kasvun osalta, silloin te näette Isän itsensä.”"
                 },
                 {
                     "par_ref": "180:6.9",
@@ -316,72 +316,72 @@
         }
     ],
     "footnotes": [
-        "*Tee valmisteluja työtä varten*: Lc 22:35-36.",
-        "*Aikaisempien ohjeiden muuttaminen*: Lc 10:4.",
-        "*Isä ja Poika kirkastettu*: Jn 13:31-32; Jn 17:1,4.",
-        "*Te etsitte minua, ettekä löydä minua*: Jn 13:33.",
-        "*Et voi tulla nyt*: Jn 7:33-34; Jn 8:21.",
-        "*Voit seurata myöhemmin*: Jn 13:36.",
-        "*Uusi käsky*: Jn 13:34-35; Jn 15:12,17.",
-        "*Ei aseta taakkaa, tuo uutta iloa*: Jn 15:11.",
-        "*Jeesuksen kuolema on suurin ilo*: Heb 12:2.",
-        "*Rakastakaa toisianne niin kuin minä rakastan teitä*: Jn 13:34-35; Jn 15:12,17.",
-        "*Ei ole suurempaa rakkautta*: Jn 15:12-15.",
-        "*Minä valitsin teidät, minä määräsin teidät*: Jn 15:16-17.",
-        "*Jaa ilo, jaa rakkaus*: Jn 14:23.",
-        "*Uskovat ovat Jumalan poikia*: 1 Cr 22:10; Sal 2:7; Is 56:5; Mt 5:9,16,16,45; Lc 20:36; Jn 1:12-13; Jn 11:52; Jn 20:17b; Hch 17:28-29; Ro 8:14-17,19,21; Ro 9:26; 2 Co 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Flp 2:15; Heb 12:5-8; 1 Jn 3:1-2,10; 1 Jn 5:2; Ap 21:7; 2 Sam 7:14.",
-        "*Opetuslapset tuottavat hedelmää*: Jn 15:7-9.",
-        "*Todellinen viinipuu ja oksat*: Jn 15:1-5.",
-        "*Jos kysytte jotain, mitä Henkeni tahtoo*: Jn 14:13-14.",
-        "*Tunnistakaa opetuslapseni rakkaudestanne*: Jn 13:35.",
-        "*Jeesus rakastaa teitä*: Jn 15:9-10.",
-        "*Viiniköynnöksen varsi tai oksa*: Is 4:2; Is 11:1; Jer 23:5-6; Jer 33:15; Dn 11:7; Zac 3:8; Zac 6:12.",
-        "*Rukousta koskeva virhe*: Jn 14:13-14; Jn 15:7,16b.",
-        "*Oksa on olemassa hedelmää varten*: Jn 15:1-5.",
-        "*Hengen hedelmä: rakkaus*: Jn 15:8-9,12. *Hengen hedelmä*: Gl 5:22-23; Ef 5:9.",
-        "*Rakasta niin kuin Jeesus rakasti*: Jn 13:34-35; Jn 15:12.",
-        "*Jos maailma vihaa ja vainoaa*: Jn 15:18-21.",
-        "*Tietämättömyys ei ole tekosyy*: Jn 15:22-25.",
-        "*He vihasivat ilman syytä*: Sal 35:19; Sal 69:4.",
-        "*Lupaus lohduttajasta*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15.",
-        "*Monta asuinsijaa*: Jn 14:1-2.",
-        "*Te tulette olemaan minun kanssani*: Jn 14:3-4; Jn 17:24.",
-        "*”Näytä meille tie.”*: Jn 14:5.",
-        "*Jeesus: ”Minä olen tie.”*: Jn 14:6.",
-        "*”Näytä meille Isä”*: Mt 11:27; Lc 10:22; Jn 1:18; Jn 14:8.",
-        "*Joka on nähnyt minut, on nähnyt Isän.*: Jn 14:9-11.",
-        "*Isä Pojassa ja Poika Isässä*: Jn 5:36; Jn 10:37-38.",
-        "*Minä olen tehnyt Isän tahdon*: Mt 26:39,42,44; Mc 14:36,39; Lc 22:42; Jn 4:34; Jn 5:30; Jn 6:38-40; Jn 15:10; Jn 17:4.",
-        "*En jätä sinua autioksi*: Jn 14:16-18.",
-        "*On parempi, että minä menen*: Jn 16:7.",
-        "*Isä on Pojassa ja Poika meissä*: Jn 14:19-21a; Jn 17:21.",
-        "*Lohduttaja johtaa totuuteen*: Jn 16:13.",
-        "*Henki opettaa kaiken*: Jn 14:25-26.",
-        "*Miten ilmenee itse?*: Jn 14:22.",
-        "*Minun on lähdettävä pian pois*: Jn 7:33-34; Jn 8:21; Jn 13:33; Jn 14:2,12,28; Jn 16:10,16-17,28.",
-        "*Minä lähetän henkeni*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15.",
-        "*Valon lapset*: Lc 16:8; Jn 12:36; Ef 5:8; 1 Ts 5:5.",
-        "*Hengen painovoima*: Jer 31:3; Jn 6:44; Jn 12:32.",
-        "*Uusi käsky*: Jn 13:34-35; Jn 15:12,17. *Kultainen sääntö*: Mt 7:12; Lc 6:31. *Kultainen sääntö (negatiivinen)*: Tb 4:15.",
-        "*Eläkää rakkaudessa*: Jn 14:23.",
-        "*Rakasta lähimmäistä niin kuin itseäsi*: Lv 19:18,34; Mt 5:43-44; Mt 19:19b; Mt 22:39; Mc 12:31,33; Lc 10:27; Ro 13:9b; Gl 5:14; Stg 2:8.",
-        "*Ennakkovaroitukset*: Jn 16:1-4.",
-        "*Pidä uusi käsky*: Jn 13:34; Jn 15:12.",
-        "*Viholliset omassa taloudessa*: Mt 10:21,36; Mc 13:12; Lc 21:16.",
-        "*Lähdön välttämättömyys*: Jn 16:5-8.",
-        "*Totuuden henki*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15.",
-        "*Totuuden henki ohjaa*: Jn 16:13-14.",
-        "*Monta kartanoa*: Jn 14:2.",
-        "*Henki ei puhu itsestään*: Jn 16:13b.",
-        "*Uusi opettaja paljastaa kaiken*: Jn 16:14-15.",
-        "*Sanoo ilmestyy jälleen*: Jn 16:16.",
-        "*Jeesusta ei ymmärretä*: Jn 16:17-18.",
-        "*Täytyy kuolla, mutta nousee ylös*: Mt 16:21; Mt 17:22-23a; Mt 20:17-19; Mt 27:63; Mc 8:31; Mc 9:31; Mc 10:32-34; Lc 9:22,31,43b-44; Lc 18:31-33; Lc 24:7,46; Jn 14:28a; Jn 20:9.",
-        "*Suru muuttuu iloksi*: Jn 16:19-22.",
-        "*Pyydä Jeesuksen nimessä*: Jn 16:23-24,26.",
-        "*Jeesus puhuu selvästi*: Jn 16:25.",
-        "*Ihminen ei voi nähdä Jumalaa*: Jn 16:27-28.",
-        "*Apostolit eivät ymmärrä Jeesusta*: Jn 16:29-31."
+        "*Tee valmisteluja työtä varten*: Luuk 22:35-36.",
+        "*Aikaisempien ohjeiden muuttaminen*: Luuk 10:4.",
+        "*Isä ja Poika kirkastettu*: Joh 13:31-32; Joh 17:1,4.",
+        "*Te etsitte minua, ettekä löydä minua*: Joh 13:33.",
+        "*Et voi tulla nyt*: Joh 7:33-34; Joh 8:21.",
+        "*Voit seurata myöhemmin*: Joh 13:36.",
+        "*Uusi käsky*: Joh 13:34-35; Joh 15:12,17.",
+        "*Ei aseta taakkaa, tuo uutta iloa*: Joh 15:11.",
+        "*Jeesuksen kuolema on suurin ilo*: Hepr 12:2.",
+        "*Rakastakaa toisianne niin kuin minä rakastan teitä*: Joh 13:34-35; Joh 15:12,17.",
+        "*Ei ole suurempaa rakkautta*: Joh 15:12-15.",
+        "*Minä valitsin teidät, minä määräsin teidät*: Joh 15:16-17.",
+        "*Jaa ilo, jaa rakkaus*: Joh 14:23.",
+        "*Uskovat ovat Jumalan poikia*: 1 Aik 22:10; Ps 2:7; Jes 56:5; Matt 5:9,16,16,45; Luuk 20:36; Joh 1:12-13; Joh 11:52; Joh 20:17b; Apt 17:28-29; Room 8:14-17,19,21; Room 9:26; 2 Kor 6:18; Gal 3:26; Gal 4:5-7; Ef 1:5; Fil 2:15; Hepr 12:5-8; 1 Joh 3:1-2,10; 1 Joh 5:2; Ilm 21:7; 2 Sam 7:14.",
+        "*Opetuslapset tuottavat hedelmää*: Joh 15:7-9.",
+        "*Todellinen viinipuu ja oksat*: Joh 15:1-5.",
+        "*Jos kysytte jotain, mitä Henkeni tahtoo*: Joh 14:13-14.",
+        "*Tunnistakaa opetuslapseni rakkaudestanne*: Joh 13:35.",
+        "*Jeesus rakastaa teitä*: Joh 15:9-10.",
+        "*Viiniköynnöksen varsi tai oksa*: Jes 4:2; Jes 11:1; Jer 23:5-6; Jer 33:15; Dan 11:7; Sak 3:8; Sak 6:12.",
+        "*Rukousta koskeva virhe*: Joh 14:13-14; Joh 15:7,16b.",
+        "*Oksa on olemassa hedelmää varten*: Joh 15:1-5.",
+        "*Hengen hedelmä: rakkaus*: Joh 15:8-9,12. *Hengen hedelmä*: Gal 5:22-23; Ef 5:9.",
+        "*Rakasta niin kuin Jeesus rakasti*: Joh 13:34-35; Joh 15:12.",
+        "*Jos maailma vihaa ja vainoaa*: Joh 15:18-21.",
+        "*Tietämättömyys ei ole tekosyy*: Joh 15:22-25.",
+        "*He vihasivat ilman syytä*: Ps 35:19; Ps 69:4.",
+        "*Lupaus lohduttajasta*: Hes 11:19; Hes 18:31; Hes 36:26-27; Joel 2:28-29; Luuk 24:49; Joh 7:39; Joh 14:16-18,23,26; Joh 15:4,26; Joh 16:7-8,13-14; Joh 17:21-23; Apt 1:5,8a; Apt 2:1-4,16-18; Apt 2:33; 2 Kor 13:5; Gal 2:20; Gal 4:6; Ef 1:13; Ef 4:30; 1 Joh 4:12-15.",
+        "*Monta asuinsijaa*: Joh 14:1-2.",
+        "*Te tulette olemaan minun kanssani*: Joh 14:3-4; Joh 17:24.",
+        "*”Näytä meille tie.”*: Joh 14:5.",
+        "*Jeesus: ”Minä olen tie.”*: Joh 14:6.",
+        "*”Näytä meille Isä”*: Matt 11:27; Luuk 10:22; Joh 1:18; Joh 14:8.",
+        "*Joka on nähnyt minut, on nähnyt Isän*: Joh 14:9-11.",
+        "*Isä Pojassa ja Poika Isässä*: Joh 5:36; Joh 10:37-38.",
+        "*Minä olen tehnyt Isän tahdon*: Matt 26:39,42,44; Mark 14:36,39; Luuk 22:42; Joh 4:34; Joh 5:30; Joh 6:38-40; Joh 15:10; Joh 17:4.",
+        "*En jätä sinua autioksi*: Joh 14:16-18.",
+        "*On parempi, että minä menen*: Joh 16:7.",
+        "*Isä on Pojassa ja Poika meissä*: Joh 14:19-21a; Joh 17:21.",
+        "*Lohduttaja johtaa totuuteen*: Joh 16:13.",
+        "*Henki opettaa kaiken*: Joh 14:25-26.",
+        "*Miten ilmenee itse?*: Joh 14:22.",
+        "*Minun on lähdettävä pian pois*: Joh 7:33-34; Joh 8:21; Joh 13:33; Joh 14:2,12,28; Joh 16:10,16-17,28.",
+        "*Minä lähetän henkeni*: Hes 11:19; Hes 18:31; Hes 36:26-27; Joel 2:28-29; Luuk 24:49; Joh 7:39; Joh 14:16-18,23,26; Joh 15:4,26; Joh 16:7-8,13-14; Joh 17:21-23; Apt 1:5,8a; Apt 2:1-4,16-18; Apt 2:33; 2 Kor 13:5; Gal 2:20; Gal 4:6; Ef 1:13; Ef 4:30; 1 Joh 4:12-15.",
+        "*Valon lapset*: Luuk 16:8; Joh 12:36; Ef 5:8; 1 Tess 5:5.",
+        "*Hengen painovoima*: Jer 31:3; Joh 6:44; Joh 12:32.",
+        "*Uusi käsky*: Joh 13:34-35; Joh 15:12,17. *Kultainen sääntö*: Matt 7:12; Luuk 6:31. *Kultainen sääntö (negatiivinen)*: Tob 4:15.",
+        "*Eläkää rakkaudessa*: Joh 14:23.",
+        "*Rakasta lähimmäistä kuin itseäsi*: 3 Moos 19:18,34; Matt 5:43-44; Matt 19:19b; Matt 22:39; Mark 12:31,33; Luuk 10:27; Room 13:9b; Gal 5:14; Jaak 2:8.",
+        "*Ennakkovaroitukset*: Joh 16:1-4.",
+        "*Pidä uusi käsky*: Joh 13:34; Joh 15:12.",
+        "*Viholliset omassa taloudessa*: Matt 10:21,36; Mark 13:12; Luuk 21:16.",
+        "*Lähdön välttämättömyys*: Joh 16:5-8.",
+        "*Totuuden henki*: Hes 11:19; Hes 18:31; Hes 36:26-27; Joel 2:28-29; Luuk 24:49; Joh 7:39; Joh 14:16-18,23,26; Joh 15:4,26; Joh 16:7-8,13-14; Joh 17:21-23; Apt 1:5,8a; Apt 2:1-4,16-18; Apt 2:33; 2 Kor 13:5; Gal 2:20; Gal 4:6; Ef 1:13; Ef 4:30; 1 Joh 4:12-15.",
+        "*Totuuden henki ohjaa*: Joh 16:13-14.",
+        "*Monta asuinsijaa*: Joh 14:2.",
+        "*Henki ei puhu itsestään*: Joh 16:13b.",
+        "*Uusi opettaja paljastaa kaiken*: Joh 16:14-15.",
+        "*Sanoo ilmestyy jälleen*: Joh 16:16.",
+        "*Jeesusta ei ymmärretä*: Joh 16:17-18.",
+        "*On kuoltava, mutta noustava ylös*: Matt 16:21; Matt 17:22-23a; Matt 20:17-19; Matt 27:63; Mark 8:31; Mark 9:31; Mark 10:32-34; Luuk 9:22,31,43b-44; Luuk 18:31-33; Luuk 24:7,46; Joh 14:28a; Joh 20:9.",
+        "*Suru muuttuu iloksi*: Joh 16:19-22.",
+        "*Pyydä Jeesuksen nimessä*: Joh 16:23-24,26.",
+        "*Jeesus puhuu selvästi*: Joh 16:25.",
+        "*Ihminen ei voi nähdä Jumalaa*: Joh 16:27-28.",
+        "*Apostolit eivät ymmärrä Jeesusta*: Joh 16:29-31."
     ],
     "paper_title": "Jäähyväispuhe"
 }

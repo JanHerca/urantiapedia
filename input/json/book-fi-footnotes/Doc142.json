@@ -114,7 +114,7 @@
                 {
                     "par_ref": "142:3.4",
                     "par_pageref": "1598.5",
-                    "par_content": "2. *Kaikkein Korkein.* Tämän käsityksen taivaassa olevasta Isästä Melkisedek julisti Abrahamille, ja ne, jotka myöhemmin uskoivat tähän laveampaan ja laajempaan Jumaluuden ideaan, veivät sen kauas Saalemista. Abraham ja hänen veljensä lähtivät Uurista siellä vakiintuneen auringonpalvonnan takia, ja he alkoivat uskoa Melkisedekin opetukseen El Eljonista, Kaikkein Korkeimmasta Jumalasta{7}. Heidän käsityksensä Jumalasta oli monikoosteinen, sillä se oli sekoitus, johon kuului heidän vanhemmat mesopotamialaiset käsityksensä sekä oppi Kaikkein Korkeimmasta."
+                    "par_content": "2. *Kaikkein Korkein.* Tämän käsityksen taivaassa olevasta Isästä Melkisedek julisti Abrahamille, ja ne, jotka myöhemmin uskoivat tähän laveampaan ja laajempaan Jumaluuden ideaan, veivät sen kauas Saalemista. Abraham ja hänen veljensä lähtivät Uurista siellä vakiintuneen auringonpalvonnan takia, ja he alkoivat uskoa Melkisedekin opetukseen El Eljonista, Kaikkein Korkeimmasta Jumalasta{7}{8}. Heidän käsityksensä Jumalasta oli monikoosteinen, sillä se oli sekoitus, johon kuului heidän vanhemmat mesopotamialaiset käsityksensä sekä oppi Kaikkein Korkeimmasta."
                 },
                 {
                     "par_ref": "142:3.5",
@@ -129,7 +129,7 @@
                 {
                     "par_ref": "142:3.7",
                     "par_pageref": "1598.8",
-                    "par_content": "5. *Korkein Jahve.* Jesajan aikaan tultaessa nämä Jumalaa koskevat uskomukset olivat laajenneet Universaalisen Luojan käsitteeksi, Luojan, joka oli samalla kertaa sekä kaikkivaltias että kaikin puolin armollinen{11}. Ja tämä kehittyvä ja laajeneva jumalakäsitys syrjäytti isiemme uskonnosta itse asiassa kaikki aikaisemmat jumaluuskäsitykset."
+                    "par_content": "5. *Korkein Jahve.* Jesajan aikaan tultaessa nämä Jumalaa koskevat uskomukset olivat laajenneet Universaalisen Luojan käsitteeksi, Luojan, joka oli samalla kertaa sekä kaikkivaltias että kaikin puolin armollinen{11}{12}{13}. Ja tämä kehittyvä ja laajeneva jumalakäsitys syrjäytti isiemme uskonnosta itse asiassa kaikki aikaisemmat jumaluuskäsitykset."
                 },
                 {
                     "par_ref": "142:3.8",
@@ -295,7 +295,7 @@
                 {
                     "par_ref": "142:6.4",
                     "par_pageref": "1602.3",
-                    "par_content": "Jeesus vastasi Nikodemukselle: ”Totisesti, totisesti minä sanon sinulle, Nikodemus, ellei ihminen synny ylhäältä, hän ei voi nähdä Jumalan valtakuntaa{34}.” Siihen Nikodemus vastasi: ”Mutta kuinka ihminen voi syntyä uudesti, kun hän on vanha? Eihän hän syntyäkseen voi toista kertaa äitinsä kohtuunkaan mennä.”"
+                    "par_content": "Jeesus vastasi Nikodemukselle: ”Totisesti, totisesti minä sanon sinulle, Nikodemus, ellei ihminen synny ylhäältä, hän ei voi nähdä Jumalan valtakuntaa{34}.” Siihen Nikodemus vastasi: ”Mutta kuinka ihminen voi syntyä uudesti, kun hän on vanha? Eihän hän syntyäkseen voi toista kertaa äitinsä kohtuunkaan mennä{35}.”"
                 },
                 {
                     "par_ref": "142:6.5",
@@ -305,7 +305,7 @@
                 {
                     "par_ref": "142:6.6",
                     "par_pageref": "1602.5",
-                    "par_content": "Nikodemus vastasi: ”Mutta en ymmärrä — miten sellainen voi olla mahdollista?” Jeesus sanoi: ”Voiko olla mahdollista, että olet opettaja Israelissa ja silti kaikesta tästä tietämätön? Siinä tapauksessa niiden asiana, jotka tietävät hengen realiteeteista, on tuoda nämä asiat julki niille, jotka näkevät vain aineellisen maailman ilmiöt{37}. Mutta uskotko meitä, jos kerromme sinulle taivaallisista totuuksista? Nikodemus, onko sinulla rohkeutta uskoa sellaiseen, joka on laskeutunut taivaasta, peräti Ihmisen Poikaan?”"
+                    "par_content": "Nikodemus vastasi: ”Mutta en ymmärrä — miten sellainen voi olla mahdollista?” Jeesus sanoi: ”Voiko olla mahdollista, että olet opettaja Israelissa ja silti kaikesta tästä tietämätön? Siinä tapauksessa niiden asiana, jotka tietävät hengen realiteeteista, on tuoda nämä asiat julki niille, jotka näkevät vain aineellisen maailman ilmiöt{37}. Mutta uskotko meitä, jos kerromme sinulle taivaallisista totuuksista? Nikodemus, onko sinulla rohkeutta uskoa sellaiseen, joka on laskeutunut taivaasta, peräti Ihmisen Poikaan?”{38}"
                 },
                 {
                     "par_ref": "142:6.7",
@@ -450,50 +450,50 @@
         }
     ],
     "footnotes": [
-        "*Jumalan valtakunta on käsillä*: Mt 3:2; Mt 4:17; Mt 10:7; Mc 1:15; Lc 10:9,11; Lc 17:20-21; Lc 21:31.",
-        "*Elävän Jumalan uskolliset lapset*: 1 Cr 22:10; Sal 2:7; Is 56:5; Mt 5:9,16,45; Lc 20:36; Jn 1:12-13; Jn 11:52; Hch 17:28-29; Ro 8:14-17,19,21; Ro 9:26; 2 Co 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Flp 2:15; Heb 12:5-8; 1 Jn 3:1-2,10; 1 Jn 5:2; Ap 21:7; 2 Sam 7:14.",
-        "*Rakastakaa Jumalaa ja lähimmäistä kuin itseänne*: Mt 5:43-44; Mt 19:19; Mt 22:36-39; Mc 12:28-33; Lc 10:25-27.",
-        "*Hengen hedelmät*: Gl 5:22-23; Ef 5:9.",
-        "*Kansat iloitsivat uutisista*: Jn 2:23.",
-        "*Mooses sanoi, että Jumala on kateellinen*: Ex 20:5; Ex 34:14; Nah 1:2; Dt 6:15; Dt 32:16,21; Jos 24:19. *Jumala, jolla on suuri viha ja kiivas viha*: Ex 22:24; 2 Re 22:13; Lv 10:6; Nm 11:33; Dt 9:7-8,22. *Kostaa syntisille*: Sal 58:10; Is 34:8; Dt 32:35,41,43; Jg 11:36.",
-        "*Jahve, Siinain klaanien Jumala*: Gn 22:14; Ex 6:3; Sal 83:18; Is 12:2; Is 26:4.",
-        "*Abram lähtee Urista*: Gn 11:31.",
-        "*El Elyon, korkein Jumala*: Gn 14:18-22; Heb 7:1.",
-        "*El Shaddai, luoja jumaluus*: Gn 17:1; Gn 28:3; Ex 6:3.",
-        "*Elohim (jumalat) luonut*: Gn 1:1; Ex 6:2.",
-        "*Universaalinen Luoja*: Gn 1:1-27; Gn 2:4-23; Gn 5:1-2; Ex 20:11; Ex 31:17; 2 Re 19:15; 2 Cr 2:12; Neh 9:6; Sal 115:15; Sal 121:2; Sal 124:8; Sal 134:3; Sal 146:6; Ec lo 1:1-4; Ec 33:10; Is 37:16; Is 40:26,28; Is 42:5; Is 45:12,18; Jer 10:11-12; Jer 32:17; Jer 51:15; Bar 3:32-36; Am 4:13; Mal 2:10; Mc 13:19; Jn 1:10-3; Hch 4:24; Hch 14:15; Ef 3:9; Col 1:16; Heb 1:2; 1 P 4:19; Ap 4:11; Ap 10:6; Ap 14:7.",
-        "*Kaikkivaltias*: Ex 9:16; Ex 15:6; 1 Cr 29:11-12; Neh 1:10; Job 36:22; Job 37:23; Sal 59:16; Sal 106:8; Sal 111:6; Sal 147:5; Jer 10:12; Jer 27:5; Jer 32:17; Jer 51:15; Nm 14:17; Nah 1:3; Dt 9:29; Mt 28:18; 2 Sam 22:33.",
-        "*Kaikkivaltias*: Ex 20:6; 1 Cr 16:34,41; 2 Cr 5:13; 2 Cr 7:3,6; 2 Cr 30:9; Esd 3:11; Sal 25:6; Sal 36:o5; Sal 86:5,13,15; Sal 100:5; Sal 103:8,11,17; Sal 107:1; Sal 116:5; Sal 117:2; Sal 118:1,4; Sal 136:1-26; Sal 145:8; Is 54:8; Is 55:7; Jer 3:12; Nm 14:18-19; Miq 7:18; Dt 4:31; Dt 5:10; Heb 8:12.",
-        "*Isä taivaassa*: Mt 5:9,16,45,48; Mt 6:1,9,14; Mt 6:26,32; Mt 7:11,21; Mt 10:32-33; Mt 11:25; Mt 12:50; Mt 15:13; Mt 16:17; Mt 18:10,14,19,35; Mt 23:9; Mc 11:25-26; Lc 10:21; Lc 11:2,13.",
-        "*Herra käskee Daavidia laskemaan*: 2 Sam 24:1. *Saatana käskee Daavidia laskemaan*: 1 Cr 21:1.",
-        "*Älä palvo mitään muuta jumalaa*: Ex 20:3; Ex 34:14; Dt 5:7.",
-        "*Ei sulaa jumalaa*: Ex 20:4; Ex 34:17; Dt 5:8.",
-        "*Pidä happamattomat leivät*: Ex 12:6-11; Ex 23:15; Ex 34:18; Dt 16:1-4.",
-        "*Jumala vaatii ensisyntyisiä miehiä*: Ex 13:2,12; Ex 34:19-20; Nm 18:15.",
-        "*Lepää sapattina*: Ex 20:8-11; Ex 34:21; Dt 5:12-15.",
-        "*Pidä kaksi juhlaa*: Ex 23:16; Ex 34:22.",
-        "*Älä uhraa hapatetulla leivällä*: Ex 23:18a; Ex 34:25a.",
-        "*Älä jätä pääsiäisruokaa aamuun asti*: Ex 23:18b; Ex 34:25b.",
-        "*Tuokaa hedelmien ensimmäiset hedelmät*: Ex 23:16,19a; Ex 34:22,26a.",
-        "*Älä kiehauta vohlaa äidinmaidossa*: Ex 23:19b; Ex 34:26b; Dt 14:21.",
-        "*Siinain vuori*: Ex 19:16-18; Dt 5:4-5. *Kymmenen käskyä*: Ex 20:1-17; Dt 5:6-21. *Vapautus Egyptistä*: Dt 5:15. *Luominen kuudessa päivässä*: Ex 20:11.",
-        "*Muutettu rakkauden laiksi*: Is 38:17; Is 55:4-7; Is 63:7-9. *Rakasta Jumalaa ja lähimmäistäsi*: Mt 5:43-44; Mt 19:19; Mt 22:36-40; Mc 12:28-33; Lc 10:25-27.",
-        "*Mooses taisteli epäjumalanpalvelusta vastaan*: Ex 20:4; Dt 5:8. *Cambiados por la ley del amor*: Is 38:17; Is 55:4-7; Is 63:7-9. *Rakasta Jumalaa ja lähimmäistäsi*: Mt 5:43-44; Mt 19:19; Mt 22:36-40; Mc 12:28-33; Lc 10:25-27.",
-        "*Tuomitse hengen hedelmien mukaan*: Mt 7:15-19; Mt 12:33; Lc 3:9; Lc 6:43-45; Gl 5:22-23; Ef 5:9. *Elävän Jumalan lapset*: 1 Cr 22:10; Sal 2:7; Is 56:5; Mt 5:9,16,45; Lc 20:36; Jn 1:12-13; Jn 11:52; Hch 17:28-29; Ro 8:14-17,19,21; Ro 9:26; 2 Co 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Flp 2:15; Heb 12:5-8; 1 Jn 3:1-2,10; 1 Jn 5:2; Ap 21:7; 2 Sam 7:14.",
-        "*Henki todistaa hengestä*: Ro 8:14-17; 1 Jn 5:6,8. *Epäilyksen voittaminen uskolla*: 1 Jn 5:4.",
-        "*Kun henki vuodatetaan, tulee rauha*: Is 32:15-17. *Hengen todiste: rakkaus*: Jn 13:35.",
-        "*Nikodeemuksen vierailu Jeesuksen luona*: Jn 3:1-2a.",
-        "*Nikodeemuksen kysymys*: Jn 3:2b.",
-        "*Jeesuksen vastaus: synny uudestaan*: Jn 3:3.",
-        "*Miten ”uudestisyntyä”?*: Jn 3:4.",
-        "*Hengestä syntynyt*: Jn 3:5-8.",
-        "*Nikodeemus esittää saman kysymyksen*: Jn 3:9.",
-        "*Hengen realiteetit*: Jn 3:10-13.",
-        "*Julkinen tunnustaminen*: Jn 19:38-42.",
-        "*”Perheen” analogia*: 1 Jn 3:1-2a.",
-        "*Ole sinä täydellinen*: Gn 17:1; 1 Re 8:61; Lv 19:2; Dt 18:13; Mt 5:48; 2 Co 13:11; Stg 1:4; 1 P 1:16.",
-        "*Paluu Juudeaan*: Jn 3:22.",
-        "*Paluu Dekapoliin*: Jn 4:1-3."
+        "*Jumalan valtakunta on käsillä*: Matt 3:2; Matt 4:17; Matt 10:7; Mark 1:15; Luuk 10:9,11; Luuk 17:20-21; Luuk 21:31.",
+        "*Elävän Jumalan uskolliset lapset*: 1 Aik 22:10; Ps 2:7; Jes 56:5; Matt 5:9,16,45; Luuk 20:36; Joh 1:12-13; Joh 11:52; Apt 17:28-29; Room 8:14-17,19,21; Room 9:26; 2 Kor 6:18; Gal 3:26; Gal 4:5-7; Ef 1:5; Fil 2:15; Hepr 12:5-8; 1 Joh 3:1-2,10; 1 Joh 5:2; Ilm 21:7; 2 Sam 7:14.",
+        "*Rakastakaa Jumalaa ja lähimmäistä kuin itseänne*: Matt 5:43-44; Matt 19:19; Matt 22:36-39; Mark 12:28-33; Luuk 10:25-27.",
+        "*Hengen hedelmät*: Gal 5:22-23; Ef 5:9.",
+        "*Kansat iloitsivat uutisista*: Joh 2:23.",
+        "*Mooses sanoi, että Jumala on kateellinen*: 2 Moos 20:5; 2 Moos 34:14; Nah 1:2; 5 Moos 6:15; 5 Moos 32:16,21; Joos 24:19. *Jumala, jolla on suuri viha ja kiivas viha*: 2 Moos 22:24; 2 Kun 22:13; 3 Moos 10:6; 4 Moos 11:33; 5 Moos 9:7-8,22. *Kostaa syntisille*: Ps 58:10; Jes 34:8; 5 Moos 32:35,41,43; Tuom 11:36.",
+        "*Jahve, Siinain klaanien Jumala*: 1 Moos 22:14; 2 Moos 6:3; Ps 83:18; Jes 12:2; Jes 26:4.",
+        "*Abram lähtee Urista*: 1 Moos 11:31.",
+        "*El Elyon, korkein Jumala*: 1 Moos 14:18-22; Hepr 7:1.",
+        "*El Shaddai, luoja jumaluus*: 1 Moos 17:1; 1 Moos 28:3; 2 Moos 6:3.",
+        "*Elohim (jumalat) luonut*: 1 Moos 1:1; 2 Moos 6:2.",
+        "*Universaalinen Luoja*: 1 Moos 1:1-27; 1 Moos 2:4-23; 1 Moos 5:1-2; 2 Moos 20:11; 2 Moos 31:17; 2 Kun 19:15; 2 Aik 2:12; Neh 9:6; Ps 115:15; Ps 121:2; Ps 124:8; Ps 134:3; Ps 146:6; Sir 1:1-4; Saarn 33:10; Jes 37:16; Jes 40:26,28; Jes 42:5; Jes 45:12,18; Jer 10:11-12; Jer 32:17; Jer 51:15; Bar 3:32-36; Aam 4:13; Mal 2:10; Mark 13:19; Joh 1:10-3; Apt 4:24; Apt 14:15; Ef 3:9; Kol 1:16; Hepr 1:2; 1 Piet 4:19; Ilm 4:11; Ilm 10:6; Ilm 14:7.",
+        "*Kaikkivaltias*: 2 Moos 9:16; 2 Moos 15:6; 1 Aik 29:11-12; Neh 1:10; Job 36:22; Job 37:23; Ps 59:16; Ps 106:8; Ps 111:6; Ps 147:5; Jer 10:12; Jer 27:5; Jer 32:17; Jer 51:15; 4 Moos 14:17; Nah 1:3; 5 Moos 9:29; Matt 28:18; 2 Sam 22:33.",
+        "*Kaikkivaltias*: 2 Moos 20:6; 1 Aik 16:34,41; 2 Aik 5:13; 2 Aik 7:3,6; 2 Aik 30:9; Hes 3:11; Ps 25:6; Ps 36:o5; Ps 86:5,13,15; Ps 100:5; Ps 103:8,11,17; Ps 107:1; Ps 116:5; Ps 117:2; Ps 118:1,4; Ps 136:1-26; Ps 145:8; Jes 54:8; Jes 55:7; Jer 3:12; 4 Moos 14:18-19; Miika 7:18; 5 Moos 4:31; 5 Moos 5:10; Hepr 8:12.",
+        "*Isä taivaassa*: Matt 5:9,16,45,48; Matt 6:1,9,14; Matt 6:26,32; Matt 7:11,21; Matt 10:32-33; Matt 11:25; Matt 12:50; Matt 15:13; Matt 16:17; Matt 18:10,14,19,35; Matt 23:9; Mark 11:25-26; Luuk 10:21; Luuk 11:2,13.",
+        "*Herra käskee Daavidia laskemaan*: 2 Sam 24:1. *Saatana käskee Daavidia laskemaan*: 1 Aik 21:1.",
+        "*Älä palvo mitään muuta jumalaa*: 2 Moos 20:3; 2 Moos 34:14; 5 Moos 5:7.",
+        "*Ei sulaa jumalaa*: 2 Moos 20:4; 2 Moos 34:17; 5 Moos 5:8.",
+        "*Pidä happamattomat leivät*: 2 Moos 12:6-11; 2 Moos 23:15; 2 Moos 34:18; 5 Moos 16:1-4.",
+        "*Jumala vaatii ensisyntyisiä miehiä*: 2 Moos 13:2,12; 2 Moos 34:19-20; 4 Moos 18:15.",
+        "*Lepää sapattina*: 2 Moos 20:8-11; 2 Moos 34:21; 5 Moos 5:12-15.",
+        "*Pidä kaksi juhlaa*: 2 Moos 23:16; 2 Moos 34:22.",
+        "*Älä uhraa hapatetulla leivällä*: 2 Moos 23:18a; 2 Moos 34:25a.",
+        "*Älä jätä pääsiäisruokaa aamuun asti*: 2 Moos 23:18b; 2 Moos 34:25b.",
+        "*Tuokaa hedelmien ensimmäiset hedelmät*: 2 Moos 23:16,19a; 2 Moos 34:22,26a.",
+        "*Älä kiehauta vohlaa äidinmaidossa*: 2 Moos 23:19b; 2 Moos 34:26b; 5 Moos 14:21.",
+        "*Siinain vuori*: 2 Moos 19:16-18; 5 Moos 5:4-5. *Kymmenen käskyä*: 2 Moos 20:1-17; 5 Moos 5:6-21. *Vapautus Egyptistä*: 5 Moos 5:15. *Luominen kuudessa päivässä*: 2 Moos 20:11.",
+        "*Muutettu rakkauden laiksi*: Jes 38:17; Jes 55:4-7; Jes 63:7-9. *Rakasta Jumalaa ja lähimmäistäsi*: Matt 5:43-44; Matt 19:19; Matt 22:36-40; Mark 12:28-33; Luuk 10:25-27.",
+        "*Mooses taisteli epäjumalanpalvelusta vastaan*: 2 Moos 20:4; 5 Moos 5:8. *Cambiados por la ley del amor*: Jes 38:17; Jes 55:4-7; Jes 63:7-9. *Rakasta Jumalaa ja lähimmäistäsi*: Matt 5:43-44; Matt 19:19; Matt 22:36-40; Mark 12:28-33; Luuk 10:25-27.",
+        "*Tuomitse hengen hedelmien mukaan*: Matt 7:15-19; Matt 12:33; Luuk 3:9; Luuk 6:43-45; Gal 5:22-23; Ef 5:9. *Elävän Jumalan lapset*: 1 Aik 22:10; Ps 2:7; Jes 56:5; Matt 5:9,16,45; Luuk 20:36; Joh 1:12-13; Joh 11:52; Apt 17:28-29; Room 8:14-17,19,21; Room 9:26; 2 Kor 6:18; Gal 3:26; Gal 4:5-7; Ef 1:5; Fil 2:15; Hepr 12:5-8; 1 Joh 3:1-2,10; 1 Joh 5:2; Ilm 21:7; 2 Sam 7:14.",
+        "*Henki todistaa hengestä*: Room 8:14-17; 1 Joh 5:6,8. *Epäilyksen voittaminen uskolla*: 1 Joh 5:4.",
+        "*Kun henki vuodatetaan, tulee rauha*: Jes 32:15-17. *Hengen todiste: rakkaus*: Joh 13:35.",
+        "*Nikodeemuksen vierailu Jeesuksen luona*: Joh 3:1-2a.",
+        "*Nikodeemuksen kysymys*: Joh 3:2b.",
+        "*Jeesuksen vastaus: synny uudestaan*: Joh 3:3.",
+        "*Miten ”uudestisyntyä”?*: Joh 3:4.",
+        "*Hengestä syntynyt*: Joh 3:5-8.",
+        "*Nikodeemus esittää saman kysymyksen*: Joh 3:9.",
+        "*Hengen realiteetit*: Joh 3:10-13.",
+        "*Julkinen tunnustaminen*: Joh 19:38-42.",
+        "*”Perheen” analogia*: 1 Joh 3:1-2a.",
+        "*Ole sinä täydellinen*: 1 Moos 17:1; 1 Kun 8:61; 3 Moos 19:2; 5 Moos 18:13; Matt 5:48; 2 Kor 13:11; Jaak 1:4; 1 Piet 1:16.",
+        "*Paluu Juudeaan*: Joh 3:22.",
+        "*Paluu Dekapoliin*: Joh 4:1-3."
     ],
     "paper_title": "Pääsiäinen Jerusalemissa"
 }

@@ -250,7 +250,7 @@
                 {
                     "par_ref": "109:6.5",
                     "par_pageref": "1200.5",
-                    "par_content": "Tämä Suuntaaja saavutti Jeesuksen ihmismielessä toden totta riemuvoiton, mielessä, joka jokaisessa esiin nousseessa elämäntilanteessa säilytti pyhittäytyneen antaumuksensa Isän tahtoa kohtaan, sanoihan hän: ”Tapahtukoon Sinun tahtosi, ei minun{3}.” Tällainen päättäväinen pyhittäytyminen on todellinen passi pois ihmisluonnon rajoittuneisuuksista jumalallisen perillepääsyn lopullisuuteen."
+                    "par_content": "Tämä Suuntaaja saavutti Jeesuksen ihmismielessä toden totta riemuvoiton, mielessä, joka jokaisessa esiin nousseessa elämäntilanteessa säilytti pyhittäytyneen antaumuksensa Isän tahtoa kohtaan, sanoihan hän: ”Tapahtukoon Sinun tahtosi, ei minun{3}{4}.” Tällainen päättäväinen pyhittäytyminen on todellinen passi pois ihmisluonnon rajoittuneisuuksista jumalallisen perillepääsyn lopullisuuteen."
                 },
                 {
                     "par_ref": "109:6.6",
@@ -318,11 +318,11 @@
         }
     ],
     "footnotes": [
-        "*Kenellä on, sille annetaan, mutta kenellä ei ole...*: Mt 13:12; Mt 25:29; Mc 4:25; Lc 8:18; Lc 19:26.",
-        "*Valaistus*: 1 Co 2:6-16.",
-        "*Kukaan ei voi palvella kahta herraa*: Mt 6:24; Lc 16:13.",
-        "*Jeesus teki Isän tahdon*: Jn 4:34; Jn 5:30; Jn 6:38-40; Jn 15:10; Jn 17:4.",
-        "*Ei minun tahtoani, vaan Isän*: Mt 26:39,42,44; Mc 14:36,39; Lc 22:42."
+        "*Kenellä on, sille annetaan, mutta kenellä ei ole...*: Matt 13:12; Matt 25:29; Mark 4:25; Luuk 8:18; Luuk 19:26.",
+        "*Valaistus*: 1 Kor 2:6-16.",
+        "*Kukaan ei voi palvella kahta herraa*: Matt 6:24; Luuk 16:13.",
+        "*Jeesus teki Isän tahdon*: Joh 4:34; Joh 5:30; Joh 6:38-40; Joh 15:10; Joh 17:4.",
+        "*Ei minun tahtoani, vaan Isän*: Matt 26:39,42,44; Mark 14:36,39; Luuk 22:42."
     ],
     "paper_title": "Suuntaajien suhde universumin luotuihin"
 }

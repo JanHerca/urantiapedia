@@ -13,7 +13,7 @@
                 {
                     "par_ref": "10:0.2",
                     "par_pageref": "108.2",
-                    "par_content": "Paratiisin-Kolminaisuus toimii oivallisena keinona Jumaluuden ikuisen olemuksen täyteen julkituomiseen ja täydelliseen paljastumiseen{0}. Kolminaisuuden Stationaariset Pojat tarjoavat samalla tavoin täysimääräisen ja täydellisen julkituonnin jumalallisesta oikeudenmukaisuudesta. Kolminaisuus on jumaluusyhtenäisyyttä, ja tämä yhtenäisyys lepää ikuisesti kolmen alkuperäisen, tasavertaisen, rinnakkaisen ja rinnan olemassa olevan persoonallisuuden — Jumala Isän, Jumala Pojan ja Jumala Hengen — jumalallisen ykseyden absoluuttisella perustalla."
+                    "par_content": "Paratiisin-Kolminaisuus toimii oivallisena keinona Jumaluuden ikuisen olemuksen täyteen julkituomiseen ja täydelliseen paljastumiseen{0}. Kolminaisuuden Stationaariset Pojat tarjoavat samalla tavoin täysimääräisen ja täydellisen julkituonnin jumalallisesta oikeudenmukaisuudesta. Kolminaisuus on jumaluusyhtenäisyyttä, ja tämä yhtenäisyys lepää ikuisesti kolmen alkuperäisen, tasavertaisen, rinnakkaisen ja rinnan olemassa olevan persoonallisuuden — Jumala Isän, Jumala Pojan ja Jumala Hengen — jumalallisen ykseyden absoluuttisella perustalla{1}."
                 },
                 {
                     "par_ref": "10:0.3",
@@ -124,7 +124,7 @@
                 {
                     "par_ref": "10:3.3",
                     "par_pageref": "111.1",
-                    "par_content": "Jumalalliset Pojat ovat todella ”Jumalan Sana”, mutta Hengen lapset ovat eittämättä ”Jumalan Teko”{4}. Jumala puhuu Pojan kautta ja toimii yhdessä Pojan kanssa Äärettömän Hengen kautta, samalla kun Poika ja Henki ovat kaikissa maailmankaikkeuden toiminnoissa verrattoman veljellisiä, niin että he työskentelevät kahden tasavertaisen veljeksen tavoin ja osoittavat ihailua ja rakkautta arvossa pitämälleen ja jumalallisesti kunnioittamalleen yhteiselle Isälleen."
+                    "par_content": "Jumalalliset Pojat ovat todella ”Jumalan Sana”, mutta Hengen lapset ovat eittämättä ”Jumalan Teko”{4}{5}. Jumala puhuu Pojan kautta ja toimii yhdessä Pojan kanssa Äärettömän Hengen kautta, samalla kun Poika ja Henki ovat kaikissa maailmankaikkeuden toiminnoissa verrattoman veljellisiä, niin että he työskentelevät kahden tasavertaisen veljeksen tavoin ja osoittavat ihailua ja rakkautta arvossa pitämälleen ja jumalallisesti kunnioittamalleen yhteiselle Isälleen."
                 },
                 {
                     "par_ref": "10:3.4",
@@ -402,7 +402,7 @@
                 {
                     "par_ref": "10:7.1",
                     "par_pageref": "115.3",
-                    "par_content": "Jumaluuden Ensimmäinen, Toinen ja Kolmas Persoona ovat keskenään yhdenvertaisia, ja he ovat yksi{6}. ”Herra, meidän Jumalamme, on yksi Jumala.” Ikuisten Jumaluuksien jumalallisessa Kolminaisuudessa on tavoitteen täydellisyys ja toimeenpanon ykseys. Isä, Poika ja Myötätoimija ovat kiistämättä ja jumalallisesti yksi. Totuutta on kirjoitus, joka sanoo: ”Minä olen ensimmäinen ja minä olen viimeinen, ja paitsi minua ei ole yhtäkään Jumalaa.”"
+                    "par_content": "Jumaluuden Ensimmäinen, Toinen ja Kolmas Persoona ovat keskenään yhdenvertaisia, ja he ovat yksi{6}. ”Herra, meidän Jumalamme, on yksi Jumala{7}.” Ikuisten Jumaluuksien jumalallisessa Kolminaisuudessa on tavoitteen täydellisyys ja toimeenpanon ykseys. Isä, Poika ja Myötätoimija ovat kiistämättä ja jumalallisesti yksi. Totuutta on kirjoitus, joka sanoo: ”Minä olen ensimmäinen ja minä olen viimeinen, ja paitsi minua ei ole yhtäkään Jumalaa{8}{9}.”"
                 },
                 {
                     "par_ref": "10:7.2",
@@ -490,16 +490,16 @@
         }
     ],
     "footnotes": [
-        "*Paradise Trinity*: Mt 28:19; Hch 2:32-33; 2 Co 13:14; 1 Jn 5:7.",
-        "*Paratiisin kolminaisuus (Paavalin varhainen näkemys)*: 1 Co 12:4-6.",
-        "*Paratiisin pojat*: Mt 11:27; Lc 10:22; Jn 1:14,18; Jn 6:45-46; Jn 8:26; Jn 12:49-50; Jn 14:7-11,20; Jn 17:6,25-26.",
-        "*Jumalan kuvaksi luotu ihminen*: Gn 1:26.",
-        "*Jumalan sana*: Jn 1:1-4,14.",
-        "*Jumalan teko*: Gn 1:1ff.",
-        "*Jumaluuden ykseys*: 1 Jn 5:7.",
-        "*Herra, meidän Jumalamme, on yksi Jumala*: 2 Re 19:19; 1 Cr 17:20; Neh 9:6; Sal 86:10; Ec lo 36:5; Is 37:16; Is 44:6,8; Is 45:5-6,21; Dt 4:35,39; Dt 6:4; Mc 12:29,32; Jn 17:3; Ro 3:30; 1 Co 8:4-6; Gl 3:20; Ef 4:6; 1 Ti 2:5; Stg 2:19; 1 Sam 2:2; 2 Sam 7:22.",
-        "*Ensimmäinen, viimeinen ja ainoa Jumala*: Is 41:4; Is 44:6; Is 48:12; Ap 1:17; Ap 2:8.",
-        "*Alfa ja Omega*: Ap 1:8,11; Ap 21:6; Ap 22:13."
+        "*Paradise Trinity*: Matt 28:19; Apt 2:32-33; 2 Kor 13:14; 1 Joh 5:7.",
+        "*Paratiisin kolminaisuus (Paavalin varhainen näkemys)*: 1 Kor 12:4-6.",
+        "*Paratiisin pojat*: Matt 11:27; Luuk 10:22; Joh 1:14,18; Joh 6:45-46; Joh 8:26; Joh 12:49-50; Joh 14:7-11,20; Joh 17:6,25-26.",
+        "*Jumalan kuvaksi luotu ihminen*: 1 Moos 1:26.",
+        "*Jumalan sana*: Joh 1:1-4,14.",
+        "*Jumalan teko*: 1 Moos 1:1ff.",
+        "*Jumaluuden ykseys*: 1 Joh 5:7.",
+        "*Herra, meidän Jumalamme, on yksi Jumala*: 2 Kun 19:19; 1 Aik 17:20; Neh 9:6; Ps 86:10; Sir 36:5; Jes 37:16; Jes 44:6,8; Jes 45:5-6,21; 5 Moos 4:35,39; 5 Moos 6:4; Mark 12:29,32; Joh 17:3; Room 3:30; 1 Kor 8:4-6; Gal 3:20; Ef 4:6; 1 Tim 2:5; Jaak 2:19; 1 Sam 2:2; 2 Sam 7:22.",
+        "*Ensimmäinen, viimeinen ja ainoa Jumala*: Jes 41:4; Jes 44:6; Jes 48:12; Ilm 1:17; Ilm 2:8.",
+        "*Alfa ja Omega*: Ilm 1:8,11; Ilm 21:6; Ilm 22:13."
     ],
     "paper_title": "Paratiisin-Kolminaisuus"
 }

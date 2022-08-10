@@ -13,7 +13,7 @@
                 {
                     "par_ref": "196:0.2",
                     "par_pageref": "2087.2",
-                    "par_content": "Ihmis-Jeesus näki Jumalan pyhänä, oikeudenmukaisena ja suurena samoin kuin totena, kauniina ja hyvänä. Kaikki nämä jumalallisuuden attribuutit hän kokosi mielessään kokonaisuudeksi, joka oli ”taivaassa olevan Isän tahto”{0}. Jeesuksen Jumala oli samalla kertaa sekä ”Israelin Pyhä” että ”Elävä ja rakastava Isä, joka on taivaassa”. Jeesus ei ollut ensimmäinen, joka esitti käsityksen Jumalasta Isänä, mutta hän ylensi ja kohotti tämän idean yleväksi kokemukseksi ja sai aikaan uuden ilmoituksen Jumalasta ja julisti jokaisen kuolevaisen luodun olevan tämän rakkauden Isän lapsi, Jumalan poika."
+                    "par_content": "Ihmis-Jeesus näki Jumalan pyhänä, oikeudenmukaisena ja suurena samoin kuin totena, kauniina ja hyvänä. Kaikki nämä jumalallisuuden attribuutit hän kokosi mielessään kokonaisuudeksi, joka oli ”taivaassa olevan Isän tahto”{0}. Jeesuksen Jumala oli samalla kertaa sekä ”Israelin Pyhä” että ”Elävä ja rakastava Isä, joka on taivaassa”{1}. Jeesus ei ollut ensimmäinen, joka esitti käsityksen Jumalasta Isänä, mutta hän ylensi ja kohotti tämän idean yleväksi kokemukseksi ja sai aikaan uuden ilmoituksen Jumalasta ja julisti jokaisen kuolevaisen luodun olevan tämän rakkauden Isän lapsi, Jumalan poika{2}{3}."
                 },
                 {
                     "par_ref": "196:0.3",
@@ -43,7 +43,7 @@
                 {
                     "par_ref": "196:0.8",
                     "par_pageref": "2088.3",
-                    "par_content": "Jeesuksen usko näki asian niin, että kaikki henkiarvot löytyvät Jumalan valtakunnasta; niinpä hän sanoikin: ”Etsikää ensin taivaan valtakuntaa{4}.” Jeesus näki pitkälle ehtineessä ja ihanteellisessa valtakunnan toveriyhteisössä ”Jumalan tahdon” toteutuman ja täyttymyksen. Hänen opetuslapsilleen opettamansa rukouksen keskeisin ajatus kuului: ”Tulkoon sinun valtakuntasi, tapahtukoon sinun tahtosi.” Muodostettuaan tällä tavoin mielessään kuvan siitä, että valtakuntaan sisältyy Jumalan tahto, hän otti asiakseen ajaa sen toteutumista hämmästyttävää itsensäunohtamista ja rajatonta innostusta osoittaen. Mutta niin voimaperäisesti kuin hän tehtäväänsä suorittikin, hän ei koko epätavallisen elämänsä aikana tuonut kertaakaan julki fanaatikon raivoisuutta eikä uskonnollisen egotistin pinnallista sanahelinää."
+                    "par_content": "Jeesuksen usko näki asian niin, että kaikki henkiarvot löytyvät Jumalan valtakunnasta; niinpä hän sanoikin: ”Etsikää ensin taivaan valtakuntaa{4}.” Jeesus näki pitkälle ehtineessä ja ihanteellisessa valtakunnan toveriyhteisössä ”Jumalan tahdon” toteutuman ja täyttymyksen{5}. Hänen opetuslapsilleen opettamansa rukouksen keskeisin ajatus kuului: ”Tulkoon sinun valtakuntasi, tapahtukoon sinun tahtosi{6}.” Muodostettuaan tällä tavoin mielessään kuvan siitä, että valtakuntaan sisältyy Jumalan tahto, hän otti asiakseen ajaa sen toteutumista hämmästyttävää itsensäunohtamista ja rajatonta innostusta osoittaen. Mutta niin voimaperäisesti kuin hän tehtäväänsä suorittikin, hän ei koko epätavallisen elämänsä aikana tuonut kertaakaan julki fanaatikon raivoisuutta eikä uskonnollisen egotistin pinnallista sanahelinää."
                 },
                 {
                     "par_ref": "196:0.9",
@@ -157,12 +157,12 @@
                 {
                     "par_ref": "196:2.1",
                     "par_pageref": "2091.10",
-                    "par_content": "Jonakin päivänä saattaa kristillisessä kirkossa toimeenpantava uskonpuhdistus kouraista riittävän syvältä, jotta palataan Jeesuksen, uskomme alkuunpanijan ja viimeistelijän, väärentämättömiin uskonnollisiin opetuksiin{15}. Saatatte *julistaa* uskontoa Jeesukse*sta,* mutta teidän on pakostakin *elettävä* Jeesukse*n* uskonto. Helluntaipäivän innostuksessaan Pietari pani tahtomattaan alulle uuden uskonnon, uskonnon ylösnousseesta ja kunnialla kruunatusta Kristuksesta. Apostoli Paavali muunsi tämän uuden evankeliumin myöhemmin kristinuskoksi, uskonnoksi, jossa ruumiillistuvat hänen omat teologiset näkemyksensä ja joka kuvailee hänen omaa *henkilökohtaista kokemustaan* Damaskoksentien Jeesuksesta. Valtakunnan evankeliumi perustuu Galilean Jeesuksen henkilökohtaiseen uskonnolliseen kokemukseen; kristinusko perustuu miltei yksinomaan apostoli Paavalin henkilökohtaiseen uskonnolliseen kokemukseen. Uusi testamentti on melkein kokonaan omistettu, ei Jeesuksen tärkeän ja innoittavan uskonnollisen elämän kuvaamiseen, vaan Paavalin uskonnollisen kokemuksen käsittelemiseen ja hänen omakohtaisten uskonnollisten vakaumustensa kuvailemiseen. Ainoan merkittävän poikkeuksen äsken sanotusta muodostavat Matteuksen, Markuksen ja Luukkaan evankeliumin muutamien osien lisäksi Heprealaiskirje ja Jaakobin kirje. Pietarikin muisteli kirjoituksissaan Mestarinsa henkilökohtaista uskonnollista elämää vain yhden kerran. Uusi testamentti on verraton kristillinen dokumentti, mutta se on vain vähäiseltä osin jeesuslainen."
+                    "par_content": "Jonakin päivänä saattaa kristillisessä kirkossa toimeenpantava uskonpuhdistus kouraista riittävän syvältä, jotta palataan Jeesuksen, uskomme alkuunpanijan ja viimeistelijän, väärentämättömiin uskonnollisiin opetuksiin{15}. Saatatte *julistaa* uskontoa Jeesukse*sta,* mutta teidän on pakostakin *elettävä* Jeesukse*n* uskonto. Helluntaipäivän innostuksessaan Pietari pani tahtomattaan alulle uuden uskonnon, uskonnon ylösnousseesta ja kunnialla kruunatusta Kristuksesta. Apostoli Paavali muunsi tämän uuden evankeliumin myöhemmin kristinuskoksi, uskonnoksi, jossa ruumiillistuvat hänen omat teologiset näkemyksensä ja joka kuvailee hänen omaa *henkilökohtaista kokemustaan* Damaskoksentien Jeesuksesta{16}. Valtakunnan evankeliumi perustuu Galilean Jeesuksen henkilökohtaiseen uskonnolliseen kokemukseen; kristinusko perustuu miltei yksinomaan apostoli Paavalin henkilökohtaiseen uskonnolliseen kokemukseen. Uusi testamentti on melkein kokonaan omistettu, ei Jeesuksen tärkeän ja innoittavan uskonnollisen elämän kuvaamiseen, vaan Paavalin uskonnollisen kokemuksen käsittelemiseen ja hänen omakohtaisten uskonnollisten vakaumustensa kuvailemiseen. Ainoan merkittävän poikkeuksen äsken sanotusta muodostavat Matteuksen, Markuksen ja Luukkaan evankeliumin muutamien osien lisäksi Heprealaiskirje ja Jaakobin kirje. Pietarikin muisteli kirjoituksissaan Mestarinsa henkilökohtaista uskonnollista elämää vain yhden kerran{17}. Uusi testamentti on verraton kristillinen dokumentti, mutta se on vain vähäiseltä osin jeesuslainen."
                 },
                 {
                     "par_ref": "196:2.2",
                     "par_pageref": "2091.11",
-                    "par_content": "Jeesuksen elämä lihallisen hahmossa välittää kuvan ylimaallisesta uskonnollisesta kasvusta alkukantaista pelkoa ja inhimillistä kunnioitusta ilmentäneistä ideoista henkilökohtaisen hengellisen yhteydenpidon vuosien kautta siihen, että hän lopuksi päätyi tuntemaamme, pitkälle edistyneeseen ja ylevöityneeseen tietoisuuden tilaan, jossa hän tiedosti ykseytensä Isän kanssa. Ja näin Jeesus yhden lyhyen elämän aikana kävi läpi sen kokemuksen uskonnollis-hengellisestä edistymisestä, jonka ihminen aloittaa maan päällä ja suorittaa loppuun tavallisesti vasta Paratiisia edeltävään elämänvaiheeseen kuuluvien toinen toistaan seuraavien tasojen henkiopetuksen kouluissa tapahtuneen pitkän oleskelunsa päätteeksi. Jeesus eteni uskonnolliseen kokemukseen kuuluvien uskonvarmuuksien puhtaasti ihmiselle ominaisesta tietoisuudesta niin yleviin hengellisiin korkeuksiin, että hänellä oli vuorenvarma käsitys jumalallisesta olemuksestaan ja universumin johtamisen osalta tietoisuus läheisestä yhteydestään Universaaliseen Isään{18}. Hän edistyi kuolevaisen riippuvuutta ilmentäneeltä matalalta tasolta, joka pani hänet spontaanisti sanomaan jollekulle häntä Hyväksi Opettajaksi sanoneelle ”Miksi sanot minua hyväksi? Kukaan ei ole hyvä muu kuin Jumala”, siihen ylevään tietoisuuteen jumalallisuuden saavuttamisesta, joka sai hänet huudahtamaan: ”Kuka teistä voi osoittaa minut syypääksi syntiin?” Ja tämä edistyvä nousu inhimillisestä jumalalliseen oli puhtaasti kuolevaisen saavutus. Ja kun hän oli tällä tavoin saavuttanut jumalallisuuden, hän oli yhä sama ihmis-Jeesus, Ihmisen Poika yhtä hyvin kuin Jumalan Poika."
+                    "par_content": "Jeesuksen elämä lihallisen hahmossa välittää kuvan ylimaallisesta uskonnollisesta kasvusta alkukantaista pelkoa ja inhimillistä kunnioitusta ilmentäneistä ideoista henkilökohtaisen hengellisen yhteydenpidon vuosien kautta siihen, että hän lopuksi päätyi tuntemaamme, pitkälle edistyneeseen ja ylevöityneeseen tietoisuuden tilaan, jossa hän tiedosti ykseytensä Isän kanssa. Ja näin Jeesus yhden lyhyen elämän aikana kävi läpi sen kokemuksen uskonnollis-hengellisestä edistymisestä, jonka ihminen aloittaa maan päällä ja suorittaa loppuun tavallisesti vasta Paratiisia edeltävään elämänvaiheeseen kuuluvien toinen toistaan seuraavien tasojen henkiopetuksen kouluissa tapahtuneen pitkän oleskelunsa päätteeksi. Jeesus eteni uskonnolliseen kokemukseen kuuluvien uskonvarmuuksien puhtaasti ihmiselle ominaisesta tietoisuudesta niin yleviin hengellisiin korkeuksiin, että hänellä oli vuorenvarma käsitys jumalallisesta olemuksestaan ja universumin johtamisen osalta tietoisuus läheisestä yhteydestään Universaaliseen Isään{18}. Hän edistyi kuolevaisen riippuvuutta ilmentäneeltä matalalta tasolta, joka pani hänet spontaanisti sanomaan jollekulle häntä Hyväksi Opettajaksi sanoneelle ”Miksi sanot minua hyväksi? Kukaan ei ole hyvä muu kuin Jumala”, siihen ylevään tietoisuuteen jumalallisuuden saavuttamisesta, joka sai hänet huudahtamaan: ”Kuka teistä voi osoittaa minut syypääksi syntiin?” Ja tämä edistyvä nousu inhimillisestä jumalalliseen oli puhtaasti kuolevaisen saavutus{19}{20}. Ja kun hän oli tällä tavoin saavuttanut jumalallisuuden, hän oli yhä sama ihmis-Jeesus, Ihmisen Poika yhtä hyvin kuin Jumalan Poika."
                 },
                 {
                     "par_ref": "196:2.3",
@@ -177,7 +177,7 @@
                 {
                     "par_ref": "196:2.5",
                     "par_pageref": "2092.3",
-                    "par_content": "Uutta testamenttia kirjoitettaessa sen kirjoittajat uskoivat kuolleista nousseen Kristuksen jumalallisuuteen mitä syvimmin, mutta sen lisäksi he uskoivat hartaasti ja vilpittömästi myös siihen, että hän tulisi välittömästi takaisin maan päälle viedäkseen päätökseen taivaallisen valtakunnan pystytystyön. Tämä vahva usko Herran välittömään paluuseen oli hyvin paljossa syynä siihen, miksi teksteistä jätettiin herkästi pois viittaukset, jotka olisivat tuoneet esille Mestarin puhtaasti inhimilliset kokemukset ja ominaisuudet{22}. Koko kristillinen liike kallistui poispäin kuvasta, joka esitti Jeesus Nasaretilaisen ihmisenä, kohti kuolleista nousseen Kristuksen, kunnialla kruunatun ja kohta palaavan Herran Jeesuksen Kristuksen, ihannointia."
+                    "par_content": "Uutta testamenttia kirjoitettaessa sen kirjoittajat uskoivat kuolleista nousseen Kristuksen jumalallisuuteen mitä syvimmin, mutta sen lisäksi he uskoivat hartaasti ja vilpittömästi myös siihen, että hän tulisi välittömästi takaisin maan päälle viedäkseen päätökseen taivaallisen valtakunnan pystytystyön. Tämä vahva usko Herran välittömään paluuseen oli hyvin paljossa syynä siihen, miksi teksteistä jätettiin herkästi pois viittaukset, jotka olisivat tuoneet esille Mestarin puhtaasti inhimilliset kokemukset ja ominaisuudet{22}. Koko kristillinen liike kallistui poispäin kuvasta, joka esitti Jeesus Nasaretilaisen ihmisenä, kohti kuolleista nousseen Kristuksen, kunnialla kruunatun ja kohta palaavan Herran Jeesuksen Kristuksen, ihannointia{23}."
                 },
                 {
                     "par_ref": "196:2.6",
@@ -192,7 +192,7 @@
                 {
                     "par_ref": "196:2.8",
                     "par_pageref": "2093.2",
-                    "par_content": "Jeesus siunasi köyhiä, koska nämä tavallisesti olivat vilpittömiä ja hurskaita; hän tuomitsi rikkaat, koska nämä olivat tavallisesti siveettömiä ja epäuskonnollisia{25}. Yhtä lailla hän kuitenkin tuomitsisi epäuskonnollisen köyhäläisen ja ylistäisi pyhittäytynyttä ja harrasta rahamiestä."
+                    "par_content": "Jeesus siunasi köyhiä, koska nämä tavallisesti olivat vilpittömiä ja hurskaita; hän tuomitsi rikkaat, koska nämä olivat tavallisesti siveettömiä ja epäuskonnollisia{25}{26}. Yhtä lailla hän kuitenkin tuomitsisi epäuskonnollisen köyhäläisen ja ylistäisi pyhittäytynyttä ja harrasta rahamiestä."
                 },
                 {
                     "par_ref": "196:2.9",
@@ -309,7 +309,7 @@
                 {
                     "par_ref": "196:3.19",
                     "par_pageref": "2095.3",
-                    "par_content": "Heprealaisilla oli moraalisen ylevyyden uskonto, kreikkalaiset kehittivät kauneuden uskonnon, Paavali ja hänen hengenheimolaisensa perustivat uskon, toivon ja lähimmäisenrakkauden uskonnon{28}. Jeesus toi esille rakkauden uskonnon ja oli siitä esimerkkinä: turvallisuudesta Isän rakkaudessa ynnä ilosta ja tyydytyksestä, jotka seuraavat siitä, että ihmisten veljeskuntaa palvelemalla jakaa tämän rakkauden."
+                    "par_content": "Heprealaisilla oli moraalisen ylevyyden uskonto, kreikkalaiset kehittivät kauneuden uskonnon, Paavali ja hänen hengenheimolaisensa perustivat uskon, toivon ja lähimmäisenrakkauden uskonnon{28}. Jeesus toi esille rakkauden uskonnon ja oli siitä esimerkkinä: turvallisuudesta Isän rakkaudessa ynnä ilosta ja tyydytyksestä, jotka seuraavat siitä, että ihmisten veljeskuntaa palvelemalla jakaa tämän rakkauden{29}."
                 },
                 {
                     "par_ref": "196:3.20",
@@ -395,37 +395,37 @@
         }
     ],
     "footnotes": [
-        "*Isä taivaassa*: Mt 5:16,45,48; Mt 6:1,9,14,; Mt 6:26,32; Mt 7:11,21; Mt 10:32-33; Mt 11:25; Mt 12:50; Mt 15:13; Mt 16:17; Mt 18:10,14,19,35; Mt 23:9; Mc 11:25-26; Lc 10:21; Lc 11:2,13. *Tehkää taivaassa olevan Isän tahto*: Sal 143:10; Ec lo 15:11-20; Mt 6:10; Mt 7:21; Mt 12:50; Mc 3:35; Lc 8:21; Lc 11:2; Jn 7:16-17; Jn 9:31; Jn 14:21-24; Jn 15:10,14-16.",
-        "*Israelin Pyhä*: 2 Re 19:22; Sal 71:22; Is 1:4; Jer 50:29; Ez 39:7.",
-        "*Isän käsite*: Sal 103:13; Pr 3:12; Is 63:16; Is 64:8; Dt 1:31; Dt 8:5; Mal 1:6; Tb 13:4.",
-        "*Jokainen lapsi on Jumalan poika*: 1 Cr 22:10; Sal 2:7; Is 56:5; Mt 5:9,16,45; Lc 20:36; Jn 1:12-13; Jn 11:52; Hch 17:28-29; Ro 8:14-17,19,21; Ro 9:26; 2 Co 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Flp 2:15; Heb 12:5-8; 1 Jn 3:1-2,10; 1 Jn 5:2; Ap 21:7; 2 Sam 7:14.",
-        "*Etsikää ensin valtakuntaa*: Mt 6:33; Lc 12:31.",
-        "*Tee Jumalan tahto*: Sal 143:10; Ec lo 15:11-20; Mt 6:10; Mt 7:21; Mt 12:50; Mc 3:35; Lc 8:21; Lc 11:2; Jn 7:16-17; Jn 9:31; Jn 14:21-24; Jn 15:10,14-16.",
-        "*Tapahtukoon sinun tahtosi*: Mt 6:10; Lc 11:2.",
-        "*Miksi kutsut minua hyväksi?*: Mt 19:16-17; Mc 10:17-18; Lc 18:18-19.",
-        "*Jeesus teki Isänsä tahdon*: Mt 26:39,42,44; Mc 14:36,39; Lc 22:42; Jn 4:34; Jn 5:30; Jn 6:38-40; Jn 15:10; Jn 17:4.",
-        "*Lapsenomainen usko ja luottamus*: Mt 18:2-6; Mt 19:13-14; Mc 9:36-37; Mc 10:13-16; Lc 9:46-48; Lc 18:15-17.",
-        "*Tule kuin lapsi*: Mt 18:2-6; Mt 19:13-14; Mc 9:36-37; Mc 10:13-16; Lc 9:46-48; Lc 18:15-17.",
-        "*Korkein vaatimus: ”Seuraa minua”*: Mt 4:19; Mt 8:22; Mt 9:9; Mt 16:14; Mt 19:21; Mc 2:14; Mc 8:34; Mc 10:21; Lc 5:27; Lc 9:23,59; Lc 18:22; Jn 1:43; Jn 10:27; Jn 12:26; Jn 13:36; Jn 21:19.",
-        "*Jeesus teki Isän tahdon*: Mt 26:39,42,44; Mc 14:36,39; Lc 22:42; Jn 4:34; Jn 5:30; Jn 6:38-40; Jn 15:10; Jn 17:4.",
-        "*Seuraa Mestaria*: Flp 3:12; 1 Ti 6:11.",
-        "*Ihmiset kuulivat mielellään*: Mc 12:37.",
-        "*Uskomme tekijä ja viimeistelijä*: Heb 12:2.",
-        "*Paavalilainen kristillisyys*: Hch 9:1-20.",
-        "*Pietari kertoo Jeesuksen elämästä*: 1 P 2:21-23.",
-        "*Jeesuksen ykseys Isän kanssa*: Jn 1:1; Jn 5:17-18; Jn 10:30,38; Jn 12:44-45; Jn 14:7-11,20; Jn 17:11,21-22.",
-        "*Miksi kutsut minua hyväksi?*: Mt 19:16-17; Mc 10:17-18; Lc 18:18-19.",
-        "*Kuka sanoo, että teen syntiä?*: Jn 8:46.",
-        "*Jeesus, uusi ja elävä tie*: Jn 14:6; Heb 10:20.",
-        "*Usko pian palaavaan Herraan*: Mt 16:27; Mt 24:30; Mt 25:31; Mc 13:26; Lc 9:26; Lc 21:27.",
-        "*Ylösnousseen Kristuksen ylistys*: Hch 2:29-36; Hch 17:2-3; Ro 8:34-39; 1 Co 15:11-22; Col 2:9-15.",
-        "*Valtakunnan evankeliumi*: Mt 1:14-15; Mt 4:23; Mt 9:35; Mt 24:14.",
-        "*Autuaita ovat köyhät*: Mt 5:3; Lc 6:20.",
-        "*Jeesus tuomitsi rikkaat*: Mt 19:23-24; Mc 10:23-25; Lc 1:53; Lc 6:24; Lc 18:23-25.",
-        "*Uskon kautta vanhurskautettu*: Ro 3:28; Ro 5:1; Gl 2:16; Gl 3:11,24.",
-        "*Usko, toivo ja rakkaus*: 1 Co 13:13.",
-        "*Rakkauden uskonto*: Mt 22:37-40; Mc 12:28-33; Lc 10:27; Jn 13:34-35; Jn 15:12,17; 2 Co 13:11; 1 Jn 3:1; 1 Jn 4:7-19.",
-        "*Elävä rakkaus*: 1 Jn 3:1; 1 Jn 5:11-12."
+        "*Isä taivaassa*: Matt 5:16,45,48; Matt 6:1,9,14,; Matt 6:26,32; Matt 7:11,21; Matt 10:32-33; Matt 11:25; Matt 12:50; Matt 15:13; Matt 16:17; Matt 18:10,14,19,35; Matt 23:9; Mark 11:25-26; Luuk 10:21; Luuk 11:2,13. *Tehkää taivaassa olevan Isän tahto*: Ps 143:10; Sir 15:11-20; Matt 6:10; Matt 7:21; Matt 12:50; Mark 3:35; Luuk 8:21; Luuk 11:2; Joh 7:16-17; Joh 9:31; Joh 14:21-24; Joh 15:10,14-16.",
+        "*Israelin Pyhä*: 2 Kun 19:22; Ps 71:22; Jes 1:4; Jer 50:29; Hes 39:7.",
+        "*Isän käsite*: Ps 103:13; Sananl 3:12; Jes 63:16; Jes 64:8; 5 Moos 1:31; 5 Moos 8:5; Mal 1:6; Tob 13:4.",
+        "*Jokainen lapsi on Jumalan poika*: 1 Aik 22:10; Ps 2:7; Jes 56:5; Matt 5:9,16,45; Luuk 20:36; Joh 1:12-13; Joh 11:52; Apt 17:28-29; Room 8:14-17,19,21; Room 9:26; 2 Kor 6:18; Gal 3:26; Gal 4:5-7; Ef 1:5; Fil 2:15; Hepr 12:5-8; 1 Joh 3:1-2,10; 1 Joh 5:2; Ilm 21:7; 2 Sam 7:14.",
+        "*Etsikää ensin valtakuntaa*: Matt 6:33; Luuk 12:31.",
+        "*Tee Jumalan tahto*: Ps 143:10; Sir 15:11-20; Matt 6:10; Matt 7:21; Matt 12:50; Mark 3:35; Luuk 8:21; Luuk 11:2; Joh 7:16-17; Joh 9:31; Joh 14:21-24; Joh 15:10,14-16.",
+        "*Tapahtukoon sinun tahtosi*: Matt 6:10; Luuk 11:2.",
+        "*Miksi kutsut minua hyväksi?*: Matt 19:16-17; Mark 10:17-18; Luuk 18:18-19.",
+        "*Jeesus teki Isänsä tahdon*: Matt 26:39,42,44; Mark 14:36,39; Luuk 22:42; Joh 4:34; Joh 5:30; Joh 6:38-40; Joh 15:10; Joh 17:4.",
+        "*Lapsenomainen usko ja luottamus*: Matt 18:2-6; Matt 19:13-14; Mark 9:36-37; Mark 10:13-16; Luuk 9:46-48; Luuk 18:15-17.",
+        "*Tule kuin lapsi*: Matt 18:2-6; Matt 19:13-14; Mark 9:36-37; Mark 10:13-16; Luuk 9:46-48; Luuk 18:15-17.",
+        "*Korkein vaatimus: ”Seuraa minua”*: Matt 4:19; Matt 8:22; Matt 9:9; Matt 16:14; Matt 19:21; Mark 2:14; Mark 8:34; Mark 10:21; Luuk 5:27; Luuk 9:23,59; Luuk 18:22; Joh 1:43; Joh 10:27; Joh 12:26; Joh 13:36; Joh 21:19.",
+        "*Jeesus teki Isän tahdon*: Matt 26:39,42,44; Mark 14:36,39; Luuk 22:42; Joh 4:34; Joh 5:30; Joh 6:38-40; Joh 15:10; Joh 17:4.",
+        "*Seuraa Mestaria*: Fil 3:12; 1 Tim 6:11.",
+        "*Ihmiset kuulivat mielellään*: Mark 12:37.",
+        "*Uskomme tekijä ja viimeistelijä*: Hepr 12:2.",
+        "*Paavalilainen kristillisyys*: Apt 9:1-20.",
+        "*Pietari kertoo Jeesuksen elämästä*: 1 Piet 2:21-23.",
+        "*Jeesuksen ykseys Isän kanssa*: Joh 1:1; Joh 5:17-18; Joh 10:30,38; Joh 12:44-45; Joh 14:7-11,20; Joh 17:11,21-22.",
+        "*Miksi kutsut minua hyväksi?*: Matt 19:16-17; Mark 10:17-18; Luuk 18:18-19.",
+        "*Kuka sanoo, että teen syntiä?*: Joh 8:46.",
+        "*Jeesus, uusi ja elävä tie*: Joh 14:6; Hepr 10:20.",
+        "*Usko pian palaavaan Herraan*: Matt 16:27; Matt 24:30; Matt 25:31; Mark 13:26; Luuk 9:26; Luuk 21:27.",
+        "*Ylösnousseen Kristuksen ylistys*: Apt 2:29-36; Apt 17:2-3; Room 8:34-39; 1 Kor 15:11-22; Kol 2:9-15.",
+        "*Valtakunnan evankeliumi*: Matt 1:14-15; Matt 4:23; Matt 9:35; Matt 24:14.",
+        "*Autuaita ovat köyhät*: Matt 5:3; Luuk 6:20.",
+        "*Jeesus tuomitsi rikkaat*: Matt 19:23-24; Mark 10:23-25; Luuk 1:53; Luuk 6:24; Luuk 18:23-25.",
+        "*Uskon kautta vanhurskautettu*: Room 3:28; Room 5:1; Gal 2:16; Gal 3:11,24.",
+        "*Usko, toivo ja rakkaus*: 1 Kor 13:13.",
+        "*Rakkauden uskonto*: Matt 22:37-40; Mark 12:28-33; Luuk 10:27; Joh 13:34-35; Joh 15:12,17; 2 Kor 13:11; 1 Joh 3:1; 1 Joh 4:7-19.",
+        "*Elävä rakkaus*: 1 Joh 3:1; 1 Joh 5:11-12."
     ],
     "paper_title": "Jeesuksen usko"
 }

@@ -8,7 +8,7 @@
                 {
                     "par_ref": "194:0.1",
                     "par_pageref": "2059.1",
-                    "par_content": "OLLESSAAN parhaillaan rukoilemassa edellä mainitut satakaksikymmentä uskovaa tulivat noin kello yksi kaikki tietoisiksi huoneessa olevasta oudosta läsnäolosta. Samalla nämä kaikki opetuslapset tiedostivat uuden ja syvällisen hengellisen ilon, turvallisuuden ja varmuuden tunteen{0}. Tätä uutta hengellisen väkevyyden tietoisuutta seurasi välittömästi voimakas halu mennä ulos ja julistaa julkisesti valtakunnan evankeliumia ja sitä hyvää sanomaa, että Jeesus oli noussut kuolleista."
+                    "par_content": "OLLESSAAN parhaillaan rukoilemassa edellä mainitut satakaksikymmentä uskovaa tulivat noin kello yksi kaikki tietoisiksi huoneessa olevasta oudosta läsnäolosta. Samalla nämä kaikki opetuslapset tiedostivat uuden ja syvällisen hengellisen ilon, turvallisuuden ja varmuuden tunteen{0}. Tätä uutta hengellisen väkevyyden tietoisuutta seurasi välittömästi voimakas halu mennä ulos ja julistaa julkisesti valtakunnan evankeliumia ja sitä hyvää sanomaa, että Jeesus oli noussut kuolleista{1}."
                 },
                 {
                     "par_ref": "194:0.2",
@@ -55,7 +55,7 @@
                 {
                     "par_ref": "194:1.2",
                     "par_pageref": "2060.2",
-                    "par_content": "Kello oli suunnilleen kaksi, kun Pietari nousi seisomaan samalle paikalle, jossa hänen Mestarinsa oli tässä temppelissä viimeksi opettanut, ja esitti sen kiihkeän vetoomuksen, jonka tuloksena valtakuntaan saatiin yli kaksituhatta sielua{4}. Mestari oli poissa, mutta äkkiä he huomasivatkin, että tämä hänestä esitetty kertomus vaikutti kansan keskuudessa väkevästi. Ei sen vuoksi ole ihme, että he viehättyivät julistamaan jatkuvasti sellaista, joka osoitti oikeaksi heidän aikaisemman antaumuksensa Jeesusta kohtaan ja joka samalla niin tehokkaasti pakotti ihmiset uskomaan häneen. Tähän kokoukseen osallistui kuusi apostolia: Pietari, Andreas, Jaakob, Johannes, Filippus ja Matteus. He puhuivat yli puolentoista tunnin ajan ja esittivät viestejä kreikaksi, hepreaksi ja arameaksi sekä lausuivat muutaman sanan vielä muillakin kielillä, joiden puhumisesta heillä oli tuntemusta."
+                    "par_content": "Kello oli suunnilleen kaksi, kun Pietari nousi seisomaan samalle paikalle, jossa hänen Mestarinsa oli tässä temppelissä viimeksi opettanut, ja esitti sen kiihkeän vetoomuksen, jonka tuloksena valtakuntaan saatiin yli kaksituhatta sielua{4}. Mestari oli poissa, mutta äkkiä he huomasivatkin, että tämä hänestä esitetty kertomus vaikutti kansan keskuudessa väkevästi. Ei sen vuoksi ole ihme, että he viehättyivät julistamaan jatkuvasti sellaista, joka osoitti oikeaksi heidän aikaisemman antaumuksensa Jeesusta kohtaan ja joka samalla niin tehokkaasti pakotti ihmiset uskomaan häneen. Tähän kokoukseen osallistui kuusi apostolia: Pietari, Andreas, Jaakob, Johannes, Filippus ja Matteus. He puhuivat yli puolentoista tunnin ajan ja esittivät viestejä kreikaksi, hepreaksi ja arameaksi sekä lausuivat muutaman sanan vielä muillakin kielillä, joiden puhumisesta heillä oli tuntemusta{5}."
                 },
                 {
                     "par_ref": "194:1.3",
@@ -189,12 +189,12 @@
                 {
                     "par_ref": "194:3.1",
                     "par_pageref": "2062.10",
-                    "par_content": "Helluntain päivästä esitettyihin kertomuksiin tuli alkuaikoina liitetyiksi monia eriskummallisia ja omituisia opetuksia. Tuon päivän, eli päivän, jona uusi opettaja, Totuuden Henki, tuli ihmiskunnan keskuuteen, tapahtumat on myöhempinä aikoina sekoitettu valloilleen päässeen emotionalismin järjettömiin purkauksiin{13}. Mitä tämä vuodatettu Isän ja Pojan henki ensi sijassa tekee, on sitä, että hän antaa ihmisille opetusta Isän osoittaman rakkauden ja Pojan osoittaman armon totuuksista. Nämä ovat ne jumalallisuutta koskevat totuudet, joista ihmiset voivat saada täysimääräisemmän käsityksen kuin mistään muista jumalallisista luonteenpiirteistä. Totuuden Henki huolehtii etupäässä Isän henkiolemuksen ja Pojan moraalisen luonteen tunnetuksi tekemisestä. Lihallisen hahmossa eläessään Luoja-Poika paljasti Jumalan ihmisille; Totuuden Henki puolestaan paljastaa sydämessä Luoja-Pojan ihmisille. Tuottaessaan elämässään ”hengen hedelmiä” ihminen yksinkertaisesti tuo esille Mestarin omassa maisessa elämässään julkituomia ominaisuuksia. Kun Jeesus oli maan päällä, hän eli elämänsä yhtenä persoonallisuutena — Jeesus Nasaretilaisena. ”Uutena opettajana”, ihmisen sisimmässä elävänä henkenä, Mestari on Helluntaista alkaen kyennyt elämään elämäänsä uudelleen jokaisen sellaisen uskovan kokemuksessa, jota totuus opettaa."
+                    "par_content": "Helluntain päivästä esitettyihin kertomuksiin tuli alkuaikoina liitetyiksi monia eriskummallisia ja omituisia opetuksia. Tuon päivän, eli päivän, jona uusi opettaja, Totuuden Henki, tuli ihmiskunnan keskuuteen, tapahtumat on myöhempinä aikoina sekoitettu valloilleen päässeen emotionalismin järjettömiin purkauksiin{13}. Mitä tämä vuodatettu Isän ja Pojan henki ensi sijassa tekee, on sitä, että hän antaa ihmisille opetusta Isän osoittaman rakkauden ja Pojan osoittaman armon totuuksista. Nämä ovat ne jumalallisuutta koskevat totuudet, joista ihmiset voivat saada täysimääräisemmän käsityksen kuin mistään muista jumalallisista luonteenpiirteistä. Totuuden Henki huolehtii etupäässä Isän henkiolemuksen ja Pojan moraalisen luonteen tunnetuksi tekemisestä{14}. Lihallisen hahmossa eläessään Luoja-Poika paljasti Jumalan ihmisille; Totuuden Henki puolestaan paljastaa sydämessä Luoja-Pojan ihmisille. Tuottaessaan elämässään ”hengen hedelmiä” ihminen yksinkertaisesti tuo esille Mestarin omassa maisessa elämässään julkituomia ominaisuuksia{15}. Kun Jeesus oli maan päällä, hän eli elämänsä yhtenä persoonallisuutena — Jeesus Nasaretilaisena. ”Uutena opettajana”, ihmisen sisimmässä elävänä henkenä, Mestari on Helluntaista alkaen kyennyt elämään elämäänsä uudelleen jokaisen sellaisen uskovan kokemuksessa, jota totuus opettaa."
                 },
                 {
                     "par_ref": "194:3.2",
                     "par_pageref": "2062.11",
-                    "par_content": "Monia ihmiselämän aikana sattuvia tapahtumia on vaikea ymmärtää, niitä on vaikea saada sopusointuun sen ajatuksen kanssa, että elämme universumissa, jossa vallitsee totuus ja jossa voiton korjaa vanhurskaus. Peräti usein tuntuu, että vallalla ovat panettelu, valheet, epärehellisyys ja väärämielisyys — synti. Uskoko lopulta korjaakin voiton pahuudesta, synnistä ja paatumuksesta? Kyllä korjaa. Ja Jeesuksen elämä ja kuolema ovat ikuinen todiste siitä, että hyvyyden totuus ja hengen johdatuksessa olevan luodun usko nostetaan aina kunniaan. Ristillä riippuvaa Jeesusta pilkattiin huomauttamalla: ”Katsotaanpa, tuleeko Jumala vapahtamaan hänet{16}.” Ristiinnaulitsemisen päivänä näytti pimeältä, mutta ylösnousemuksen aamuna oli jo häikäisevän kirkasta, ja Helluntaina oli sitäkin kirkkaampaa ja riemullisempaa. Pessimististä epätoivoa kuvastavat uskonnot koettavat päästä eroon elämän sälyttämistä taakoista, ja mitä ne halajavat, on sammuminen loputtomaan uneen ja lepoon. Ne ovat primitiivisen pelon ja kauhun uskontoja. Jeesuksen uskonto on uusi uskon evankeliumi julistettavaksi kamppailevalle ihmiskunnalle. Tämä uusi uskonto perustuu uskoon, toivoon ja rakkauteen."
+                    "par_content": "Monia ihmiselämän aikana sattuvia tapahtumia on vaikea ymmärtää, niitä on vaikea saada sopusointuun sen ajatuksen kanssa, että elämme universumissa, jossa vallitsee totuus ja jossa voiton korjaa vanhurskaus. Peräti usein tuntuu, että vallalla ovat panettelu, valheet, epärehellisyys ja väärämielisyys — synti. Uskoko lopulta korjaakin voiton pahuudesta, synnistä ja paatumuksesta? Kyllä korjaa. Ja Jeesuksen elämä ja kuolema ovat ikuinen todiste siitä, että hyvyyden totuus ja hengen johdatuksessa olevan luodun usko nostetaan aina kunniaan. Ristillä riippuvaa Jeesusta pilkattiin huomauttamalla: ”Katsotaanpa, tuleeko Jumala vapahtamaan hänet{16}.” Ristiinnaulitsemisen päivänä näytti pimeältä, mutta ylösnousemuksen aamuna oli jo häikäisevän kirkasta, ja Helluntaina oli sitäkin kirkkaampaa ja riemullisempaa. Pessimististä epätoivoa kuvastavat uskonnot koettavat päästä eroon elämän sälyttämistä taakoista, ja mitä ne halajavat, on sammuminen loputtomaan uneen ja lepoon. Ne ovat primitiivisen pelon ja kauhun uskontoja. Jeesuksen uskonto on uusi uskon evankeliumi julistettavaksi kamppailevalle ihmiskunnalle. Tämä uusi uskonto perustuu uskoon, toivoon ja rakkauteen{17}."
                 },
                 {
                     "par_ref": "194:3.3",
@@ -239,7 +239,7 @@
                 {
                     "par_ref": "194:3.11",
                     "par_pageref": "2064.3",
-                    "par_content": "Helluntain oli hengellisine antimineen tarkoitus irrottaa Mestarin uskonto ikiajoiksi kaikesta sellaisesta, että se olisi riippuvainen fyysisestä voimasta, sillä nyt tämän uuden uskonnon opettajat ovat hengellisin asein varustettuja{21}. Heidän on määrä lähteä valloittamaan maailma ehtymättömällä anteeksiantamuksella, verrattomalla hyvällä tahdolla ja yltäkylläisellä rakkaudella. He ovat varustettuja voittamaan pahan hyvällä, kukistamaan vihan rakkaudella, hävittämään pelon rohkealla ja elävällä totuuteen uskomisella. Jeesus oli seuraajilleen jo opettanut, ettei hänen uskontonsa ollut koskaan passiivista, vaan hänen opetuslastensa oli määrä laupeudentyössään ja rakkauden julkituomisissaan olla aina aktiivisia ja positiivisia. Nämä uskovat eivät suhtautuneet Jahveen enää ”Sotajoukkojen Herrana”. He pitivät ikuista Jumaluutta nyt ”Herran Jeesuksen Kristuksen Jumalana ja Isänä”. Tämän edistysaskelen he joka tapauksessa ottivat, jos kohta heiltä jossain määrin jäikin käsittämättä totuus siitä, että Jumala on myös jokaisen yksilön hengellinen Isä."
+                    "par_content": "Helluntain oli hengellisine antimineen tarkoitus irrottaa Mestarin uskonto ikiajoiksi kaikesta sellaisesta, että se olisi riippuvainen fyysisestä voimasta, sillä nyt tämän uuden uskonnon opettajat ovat hengellisin asein varustettuja{21}. Heidän on määrä lähteä valloittamaan maailma ehtymättömällä anteeksiantamuksella, verrattomalla hyvällä tahdolla ja yltäkylläisellä rakkaudella. He ovat varustettuja voittamaan pahan hyvällä, kukistamaan vihan rakkaudella, hävittämään pelon rohkealla ja elävällä totuuteen uskomisella{22}{23}. Jeesus oli seuraajilleen jo opettanut, ettei hänen uskontonsa ollut koskaan passiivista, vaan hänen opetuslastensa oli määrä laupeudentyössään ja rakkauden julkituomisissaan olla aina aktiivisia ja positiivisia. Nämä uskovat eivät suhtautuneet Jahveen enää ”Sotajoukkojen Herrana”{24}. He pitivät ikuista Jumaluutta nyt ”Herran Jeesuksen Kristuksen Jumalana ja Isänä”{25}. Tämän edistysaskelen he joka tapauksessa ottivat, jos kohta heiltä jossain määrin jäikin käsittämättä totuus siitä, että Jumala on myös jokaisen yksilön hengellinen Isä."
                 },
                 {
                     "par_ref": "194:3.12",
@@ -306,7 +306,7 @@
                 {
                     "par_ref": "194:4.3",
                     "par_pageref": "2066.3",
-                    "par_content": "”Ja he olivat alati, joka päivä, yksimielisesti temppelissä ja mursivat kotona leipää ja nauttivat ruokansa riemulla ja sydämen yksinkertaisuudella, kiittäen Jumalaa ja ollen kaiken kansan suosiossa{31}. He tulivat kaikki Pyhällä Hengellä täytetyiksi ja puhuivat Jumalan sanaa rohkeasti. Ja uskovaisten suuressa joukossa oli yksi sydän ja yksi sielu; eikä kenkään heistä sanonut omaksensa mitään siitä, mitä hänellä oli, vaan kaikki oli heillä yhteistä.”"
+                    "par_content": "”Ja he olivat alati, joka päivä, yksimielisesti temppelissä ja mursivat kotona leipää ja nauttivat ruokansa riemulla ja sydämen yksinkertaisuudella, kiittäen Jumalaa ja ollen kaiken kansan suosiossa{31}. He tulivat kaikki Pyhällä Hengellä täytetyiksi ja puhuivat Jumalan sanaa rohkeasti. Ja uskovaisten suuressa joukossa oli yksi sydän ja yksi sielu; eikä kenkään heistä sanonut omaksensa mitään siitä, mitä hänellä oli, vaan kaikki oli heillä yhteistä{32}.”"
                 },
                 {
                     "par_ref": "194:4.4",
@@ -321,12 +321,12 @@
                 {
                     "par_ref": "194:4.6",
                     "par_pageref": "2067.1",
-                    "par_content": "Kristuksesta oli tulossa hyvää vauhtia muotoutuvan kirkon uskonkappale. Jeesus elää; hän kuoli ihmisten puolesta; hän antoi hengen; hän on tulossa takaisin. Jeesus täytti kaikki heidän ajatuksensa ja määräsi koko heidän uuden käsityksensä Jumalasta ja kaikesta muustakin. He olivat liian haltioissaan siitä uudesta opinkappaleesta, että ”Jumala on Herran Jeesuksen Isä”, välittääkseen vanhasta sanomasta, jonka mukaan ”Jumala on kaikkien ihmisten rakastava Isä”, jopa jokaisen yksittäisen yksilön Isä{34}. On totta, että näissä uskovien alkuvaiheen yhteisöissä kyllä ilmeni ihmeellistä veljellisen rakkauden ja ennennäkemätöntä hyvän tahdon esiinpuhkeamista. Mutta tämä olikin Jeesukseen uskovien veljeskunta, ei taivaallisen Isän perhevaltakuntaan kuuluvien veljien yhteisö. Heidän hyvä tahtonsa kumpusi rakkaudesta, joka syntyi Jeesuksen lahjoittautumisen käsityksestä, eikä kuolevaisten ihmisten veljeyden tiedostamisesta. He olivat tästä huolimatta täynnä riemua, ja he elivät sellaista uutta ja ainutlaatuista elämää, että heidän opetuksensa Jeesuksesta vetivät puoleensa kaikkia ihmisiä. He tekivät sen suuren virheen, että he käyttivät valtakunnan evankeliumin elävää ja valaisevaa kommenttia itse evankeliumin sijasta, mutta jo sekin edusti suurenmoisinta ihmiskunnan koskaan tuntemaa uskontoa."
+                    "par_content": "Kristuksesta oli tulossa hyvää vauhtia muotoutuvan kirkon uskonkappale. Jeesus elää; hän kuoli ihmisten puolesta; hän antoi hengen; hän on tulossa takaisin. Jeesus täytti kaikki heidän ajatuksensa ja määräsi koko heidän uuden käsityksensä Jumalasta ja kaikesta muustakin. He olivat liian haltioissaan siitä uudesta opinkappaleesta, että ”Jumala on Herran Jeesuksen Isä”, välittääkseen vanhasta sanomasta, jonka mukaan ”Jumala on kaikkien ihmisten rakastava Isä”, jopa jokaisen yksittäisen yksilön Isä{34}{35}. On totta, että näissä uskovien alkuvaiheen yhteisöissä kyllä ilmeni ihmeellistä veljellisen rakkauden ja ennennäkemätöntä hyvän tahdon esiinpuhkeamista. Mutta tämä olikin Jeesukseen uskovien veljeskunta, ei taivaallisen Isän perhevaltakuntaan kuuluvien veljien yhteisö. Heidän hyvä tahtonsa kumpusi rakkaudesta, joka syntyi Jeesuksen lahjoittautumisen käsityksestä, eikä kuolevaisten ihmisten veljeyden tiedostamisesta. He olivat tästä huolimatta täynnä riemua, ja he elivät sellaista uutta ja ainutlaatuista elämää, että heidän opetuksensa Jeesuksesta vetivät puoleensa kaikkia ihmisiä. He tekivät sen suuren virheen, että he käyttivät valtakunnan evankeliumin elävää ja valaisevaa kommenttia itse evankeliumin sijasta, mutta jo sekin edusti suurenmoisinta ihmiskunnan koskaan tuntemaa uskontoa."
                 },
                 {
                     "par_ref": "194:4.7",
                     "par_pageref": "2067.2",
-                    "par_content": "Epäilystäkään ei voinut olla siitä, että maailmaan oli nousemassa uusi veljeskunta. ”Ja uskovaisten suuri joukko pysyi apostolien opetuksessa ja keskinäisessä yhteydessä ja leivän murtamisessa ja rukouksissa.” He kutsuivat toisiaan veljiksi ja sisariksi; he tervehtivät toisiaan pyhällä suudelmalla; he huolehtivat köyhistä{36}. Kysymyksessä oli yhteisö, jossa elettiin ja palvottiin yhdessä. Heidän omaisuuden yhteisyytensä ei perustunut mihinkään määräykseen vaan haluun jakaa omaisuutensa ja tavaransa uskovaistoveriensa kanssa. He odottivat luottavaisina, että Jeesus vielä heidän sukupolvensa aikana palaisi viemään päätökseen Isän valtakunnan perustamistyön. Tämä maallisen omaisuuden spontaani yhteisyys ei ollut suoranaisesti Jeesuksen opetukseen kuuluva piirre, vaan se ilmaantui siksi, että nämä miehet ja naiset niin vilpittömästi ja niin luottavaisesti uskoivat hänen minä päivänä tahansa palaavan päättääkseen työnsä ja viedäkseen valtakunnan täyttymykseen. Mutta tämän ajattelemattoman veljellisen rakkauden alalla suoritetun hyvää tarkoittaneen kokeilun lopputulokset olivat tuhoisia ja toivat murhetta. Tuhannet hartaat uskovat myivät omaisuutensa ja luovuttivat pois kaiken kiinteän pääomansa ja muut tuottavat varansa. Kristilliseen ”tasajakoon” joutuneet hupenevat varat *loppuivat* aikaa myöten, mutta maailma ei loppunut. Varsin pian Antiokian uskovat ryhtyivät keräämään kolehtia pelastaakseen Jerusalemin uskovaistoverinsa nälkäkuolemalta."
+                    "par_content": "Epäilystäkään ei voinut olla siitä, että maailmaan oli nousemassa uusi veljeskunta. ”Ja uskovaisten suuri joukko pysyi apostolien opetuksessa ja keskinäisessä yhteydessä ja leivän murtamisessa ja rukouksissa.” He kutsuivat toisiaan veljiksi ja sisariksi; he tervehtivät toisiaan pyhällä suudelmalla; he huolehtivat köyhistä{36}{37}{38}. Kysymyksessä oli yhteisö, jossa elettiin ja palvottiin yhdessä{39}. Heidän omaisuuden yhteisyytensä ei perustunut mihinkään määräykseen vaan haluun jakaa omaisuutensa ja tavaransa uskovaistoveriensa kanssa{40}. He odottivat luottavaisina, että Jeesus vielä heidän sukupolvensa aikana palaisi viemään päätökseen Isän valtakunnan perustamistyön. Tämä maallisen omaisuuden spontaani yhteisyys ei ollut suoranaisesti Jeesuksen opetukseen kuuluva piirre, vaan se ilmaantui siksi, että nämä miehet ja naiset niin vilpittömästi ja niin luottavaisesti uskoivat hänen minä päivänä tahansa palaavan päättääkseen työnsä ja viedäkseen valtakunnan täyttymykseen. Mutta tämän ajattelemattoman veljellisen rakkauden alalla suoritetun hyvää tarkoittaneen kokeilun lopputulokset olivat tuhoisia ja toivat murhetta. Tuhannet hartaat uskovat myivät omaisuutensa ja luovuttivat pois kaiken kiinteän pääomansa ja muut tuottavat varansa{41}. Kristilliseen ”tasajakoon” joutuneet hupenevat varat *loppuivat* aikaa myöten, mutta maailma ei loppunut. Varsin pian Antiokian uskovat ryhtyivät keräämään kolehtia pelastaakseen Jerusalemin uskovaistoverinsa nälkäkuolemalta{42}."
                 },
                 {
                     "par_ref": "194:4.8",
@@ -341,7 +341,7 @@
                 {
                     "par_ref": "194:4.10",
                     "par_pageref": "2067.5",
-                    "par_content": "Tämä Jeesus-lahko kasvoi nopeaa vauhtia, ja vielä kerran saddukeukset kiinnittivät siihen huomionsa. Fariseukset eivät tilanteesta suurestikaan välittäneet, sillä he panivat merkille, ettei mikään opetuksista millään tavoin puuttunut juutalaisten lakien noudattamiseen. Mutta saddukeukset ryhtyivät panemaan Jeesus-lahkon johtajia telkien taakse, kunnes heidät suostuteltiin hyväksymään erään johtavan rabbin, Gamalielin, neuvo{44}. Tämä nimittäin antoi seuraavan ohjeen: ”Pysytelkää erossa näistä miehistä ja antakaa heidän olla, sillä jos tämä opetus tai tämä työ on ihmisistä, se kukistuu; mutta jos se on Jumalasta, te ette kykene heitä kukistamaan, ja mahdollisesti saatte huomata käyvänne taistelua itseään Jumalaa vastaan.” He päättivät noudattaa Gamalielin neuvoa, ja Jerusalemissa seurasi rauhallinen ja tyyni aika, jonka kuluessa Jeesuksesta kertova uusi evankeliumi levisi nopeasti."
+                    "par_content": "Tämä Jeesus-lahko kasvoi nopeaa vauhtia, ja vielä kerran saddukeukset kiinnittivät siihen huomionsa. Fariseukset eivät tilanteesta suurestikaan välittäneet, sillä he panivat merkille, ettei mikään opetuksista millään tavoin puuttunut juutalaisten lakien noudattamiseen. Mutta saddukeukset ryhtyivät panemaan Jeesus-lahkon johtajia telkien taakse, kunnes heidät suostuteltiin hyväksymään erään johtavan rabbin, Gamalielin, neuvo{44}{45}. Tämä nimittäin antoi seuraavan ohjeen: ”Pysytelkää erossa näistä miehistä ja antakaa heidän olla, sillä jos tämä opetus tai tämä työ on ihmisistä, se kukistuu; mutta jos se on Jumalasta, te ette kykene heitä kukistamaan, ja mahdollisesti saatte huomata käyvänne taistelua itseään Jumalaa vastaan{46}.” He päättivät noudattaa Gamalielin neuvoa, ja Jerusalemissa seurasi rauhallinen ja tyyni aika, jonka kuluessa Jeesuksesta kertova uusi evankeliumi levisi nopeasti."
                 },
                 {
                     "par_ref": "194:4.11",
@@ -356,62 +356,62 @@
                 {
                     "par_ref": "194:4.13",
                     "par_pageref": "2068.3",
-                    "par_content": "Ja sen jälkeen alkoivat juutalaisten toimeenpanemat uudet ja säälimättömät vainot, niin että tämän uuden, Jeesuksesta kertovan uskonnon, jota myöhemmin Antiokiassa kutsuttiin kristinuskoksi, aktiiviset opettajat lähtivät Jeesuksesta julistaen Rooman valtakunnan kaikkiin ääriin{48}. Tämän sanoman levittämisen johtajina olivat ennen Paavalin aikaa kreikkalaiset. Ja nämä ensimmäiset lähetyssaarnaajat, niin kuin myös myöhemmät, seurasivat muinaista Aleksanterin marssipolkua vaeltaessaan Gaasan ja Tyyron kautta Antiokiaan ja sitten Vähän-Aasian halki Makedoniaan ja sieltä edelleen Roomaan ja keisarikunnan äärimmäisiin kolkkiin."
+                    "par_content": "Ja sen jälkeen alkoivat juutalaisten toimeenpanemat uudet ja säälimättömät vainot, niin että tämän uuden, Jeesuksesta kertovan uskonnon, jota myöhemmin Antiokiassa kutsuttiin kristinuskoksi, aktiiviset opettajat lähtivät Jeesuksesta julistaen Rooman valtakunnan kaikkiin ääriin{48}{49}. Tämän sanoman levittämisen johtajina olivat ennen Paavalin aikaa kreikkalaiset. Ja nämä ensimmäiset lähetyssaarnaajat, niin kuin myös myöhemmät, seurasivat muinaista Aleksanterin marssipolkua vaeltaessaan Gaasan ja Tyyron kautta Antiokiaan ja sitten Vähän-Aasian halki Makedoniaan ja sieltä edelleen Roomaan ja keisarikunnan äärimmäisiin kolkkiin."
                 }
             ]
         }
     ],
     "footnotes": [
-        "*Totuuden Hengen tulo*: Hch 2:1-3.",
-        "*Valtakunnan evankeliumi*: Mt 4:23; Mt 9:35; Mt 24:14; Mc 1:14-15.",
-        "*Hengen täyttämä*: Hch 2:4a.",
-        "*Helluntai, monet siellä Jerusalemissa*: Hch 2:1a,5.",
-        "*Pietarin saarna*: Hch 2:14-41.",
-        "*Puhuminen muilla kielillä*: Hch 2:4b-12.",
-        "*käännynnäisten kastaminen*: Hch 2:41.",
-        "*Uskovat yksinäisiä ilman uutta sydäntä*: Ez 11:19; Ez 36:26-27.",
-        "*Henki ei puhu itsestään*: Jn 16:13b.",
-        "*Henki johtaa kaikkeen totuuteen*: Jn 16:13a.",
-        "*Hengen kaste*: Mt 3:11; Mt 28:19; Mc 1:8; Lc 3:16; Jn 1:32-33; Hch 1:5,8a; Hch 2:1-4,38; Hch 10:47; Hch 11:16.",
-        "*Kolme pyhää henkeä*: Mt 28:19.",
-        "*Uuden nimen henki*: Ap 2:17; Ap 3:12.",
-        "*Uusi opettaja*: Jn 14:26.",
-        "*Totuuden Henki sydämessä näyttää Pojan*: Jn 14:23-26; Jn 15:26; Jn 16:13-14; Hch 1:5,8a; 1 Jn 4:12-15.",
-        "*Hengen hedelmä*: Gl 5:22-23; Ef 5:9.",
-        "*Pilkkasi Jeesusta ristillä*: Mt 27:39-44,49; Mc 15:29-32,36b; Lc 23:35-37,39.",
-        "*Usko, toivo ja rakkaus*: 1 Co 13:13.",
-        "*Hengen vapaus*: 2 Co 3:17.",
-        "*Totuuden Henki lahjoitettu kaikille*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15.",
-        "*Jeesuksen uskonnon yleismaailmallisuus*: Mt 28:19-20; Jn 14:26; Hch 2:1,42.",
+        "*Totuuden Hengen tulo*: Apt 2:1-3.",
+        "*Valtakunnan evankeliumi*: Matt 4:23; Matt 9:35; Matt 24:14; Mark 1:14-15.",
+        "*Hengen täyttämä*: Apt 2:4a.",
+        "*Helluntai, monet siellä Jerusalemissa*: Apt 2:1a,5.",
+        "*Pietarin saarna*: Apt 2:14-41.",
+        "*Puhuminen muilla kielillä*: Apt 2:4b-12.",
+        "*käännynnäisten kastaminen*: Apt 2:41.",
+        "*Uskovat yksinäisiä ilman uutta sydäntä*: Hes 11:19; Hes 36:26-27.",
+        "*Henki ei puhu itsestään*: Joh 16:13b.",
+        "*Henki johtaa kaikkeen totuuteen*: Joh 16:13a.",
+        "*Hengen kaste*: Matt 3:11; Matt 28:19; Mark 1:8; Luuk 3:16; Joh 1:32-33; Apt 1:5,8a; Apt 2:1-4,38; Apt 10:47; Apt 11:16.",
+        "*Kolme pyhää henkeä*: Matt 28:19.",
+        "*Uuden nimen henki*: Ilm 2:17; Ilm 3:12.",
+        "*Uusi opettaja*: Joh 14:26.",
+        "*Totuuden Henki sydämessä näyttää Pojan*: Joh 14:23-26; Joh 15:26; Joh 16:13-14; Apt 1:5,8a; 1 Joh 4:12-15.",
+        "*Hengen hedelmä*: Gal 5:22-23; Ef 5:9.",
+        "*Pilkkasi Jeesusta ristillä*: Matt 27:39-44,49; Mark 15:29-32,36b; Luuk 23:35-37,39.",
+        "*Usko, toivo ja rakkaus*: 1 Kor 13:13.",
+        "*Hengen vapaus*: 2 Kor 3:17.",
+        "*Totuuden Henki lahjoitettu kaikille*: Hes 11:19; Hes 18:31; Hes 36:26-27; Joel 2:28-29; Luuk 24:49; Joh 7:39; Joh 14:16-18,23,26; Joh 15:4,26; Joh 16:7-8,13-14; Joh 17:21-23; Apt 1:5,8a; Apt 2:1-4,16-18; Apt 2:33; 2 Kor 13:5; Gal 2:20; Gal 4:6; Ef 1:13; Ef 4:30; 1 Joh 4:12-15.",
+        "*Jeesuksen uskonnon yleismaailmallisuus*: Matt 28:19-20; Joh 14:26; Apt 2:1,42.",
         "*Hengelliset aseet*: Ef 6:11-17.",
-        "*Rakkaus voittaa vihan*: Ro 12:21.",
-        "*Pahuuden voittaminen hyvällä*: Mt 5:43-45a; Lc 6:27-28.",
-        "*Ei enää Herra Sebaot*: 1 Re 18:15; 2 Re 3:14; 1 Cr 11:9; Sal 24:10; Is 1:9; Jer 2:19; Os 12:5; Am 3:13; Miq 4:4; Nah 2:13; Hab 2:13; Sof 2:9; Hag 1:2; Zac 1:4; Mal 1:8; 1 Sam 1:3,11; 2 Sam 5:10.",
-        "*Herran Jeesuksen Kristuksen Isä*: Ro 15:6; 2 Co 1:3; 2 Co 11:31; Ef 1:3; Ef 3:14; Col 1:3; 1 P 1:3.",
-        "*Voita paha hyvällä*: Ro 12:21.",
-        "*Hengen vapaus*: 2 Co 3:17.",
-        "*Hengen ykseys*: Hch 4:32.",
-        "*Totuuden Henki puhdistaa sydämen*: Ez 11:19; Ez 36:26-27.",
-        "*Profeetta, joka on voimallinen teoissa*: Lc 24:19.",
-        "*Ensimmäinen osa: He ottivat mielellään ruokaa*: Hch 2:46-47a.",
-        "*Toinen osa: Kaikki täyttyivät hengellä*: Hch 4:31b-32.",
-        "*Toinen osa: Kaikki täyttyivät hengestä*: Hch 2:22-23; Hch 2:32-33; Hch 2:36; Hch 3:18; Hch 3:19-21a.",
-        "*Herran Jeesuksen Kristuksen isä*: Ro 15:6; 2 Co 1:3; 2 Co 11:31; Ef 1:3; Ef 3:14; Col 1:3; 1 P 1:3.",
-        "*Jumala: Kaikkien ihmisten rakastava Isä*: 1 Cr 22:10; Sal 89:26-27; Jer 3:19; Mt 5:9,16,45,48; Mt 6:1,9,14; Mt 6:26,32; Mt 7:11; Mt 18:14; Mt 23:9; Mc 11:25-26; Lc 6:36; Lc 11:2,13; Jn 20:17b; Ro 1:7; Ro 8:14-15; 1 Co 1:3; 2 Co 1:2; 2 Co 6:18; Gl 1:4; Gl 4:6-7; Ef 1:2; Flp 1:2; Col 1:2; 1 Ts 1:1,3; 2 Ts 1:1-2; 1 Ti 1:2; Flm 1:2; 2 Sam 7:14.",
-        "*Kutsuttu veljeksi ja sisareksi*: Hch 9:17; Hch 22:13; Ro 16:23; 1 Co 1:1; 1 Co 16:12; 2 Co 1:1; 2 Co 2:13; 2 Co 8:18,22; 2 Co 12:18; Ef 6:21; Flp 2:25; Col 1:1; Col 4:7,9; 1 Ts 3:2; Flm 1:1; Heb 13:23; 1 P 5:12; 2 P 3:15.",
-        "*Tervehdittiin pyhällä suudelmalla*: Ro 16:16; 1 Co 16:20; 2 Co 13:12; 1 Ts 5:26; 1 P 5:14.",
-        "*Palveli köyhiä*: Ro 15:26; Gl 2:10.",
-        "*Vakaa yhteys*: Hch 2:41-42.",
-        "*Yhteinen elämä*: Hch 2:44.",
-        "*Omaisuuden myynti*: Hch 2:45.",
-        "*Antiokian keräys Jerusalemin hyväksi*: Hch 11:29-30.",
-        "*Kolminaisuus*: Mt 28:19; Hch 2:32-33; 1 Jn 5:7. *Kolminaisuus (Paavalin varhainen näkemys)*: 1 Co 12:4-6. *Kolminaisuus (Paavalin myöhempi näkemys)*: 2 Co 13:14.",
-        "*Johtajat vangittuina*: Hch 5:17-18.",
-        "*Gamalielin neuvot*: Hch 5:34,38-39.",
-        "*Saddukeukset ottavat neuvon vastaan*: Hch 5:40.",
-        "*Stefanuksen kivittäminen*: Hch 7:51-60.",
-        "*Uudet vainot*: Hch 8:1b.",
-        "*Ensimmäiset ”kristityt” Antiokiassa*: Hch 11:26b."
+        "*Rakkaus voittaa vihan*: Room 12:21.",
+        "*Pahuuden voittaminen hyvällä*: Matt 5:43-45a; Luuk 6:27-28.",
+        "*Ei enää Herra Sebaot*: 1 Kun 18:15; 2 Kun 3:14; 1 Aik 11:9; Ps 24:10; Jes 1:9; Jer 2:19; Hoos 12:5; Aam 3:13; Miika 4:4; Nah 2:13; Hab 2:13; Sef 2:9; Hagg 1:2; Sak 1:4; Mal 1:8; 1 Sam 1:3,11; 2 Sam 5:10.",
+        "*Herran Jeesuksen Kristuksen Isä*: Room 15:6; 2 Kor 1:3; 2 Kor 11:31; Ef 1:3; Ef 3:14; Kol 1:3; 1 Piet 1:3.",
+        "*Pahuuden voittaminen hyvällä*: Room 12:21.",
+        "*Hengen vapaus*: 2 Kor 3:17.",
+        "*Hengen ykseys*: Apt 4:32.",
+        "*Totuuden Henki puhdistaa sydämen*: Hes 11:19; Hes 36:26-27.",
+        "*Profeetta, joka on voimallinen teoissa*: Luuk 24:19.",
+        "*Ensimmäinen osa: He ottivat mielellään ruokaa*: Apt 2:46-47a.",
+        "*Toinen osa: Kaikki täyttyivät hengellä*: Apt 4:31b-32.",
+        "*Toinen osa: Kaikki täyttyivät hengellä*: Apt 2:22-23; Apt 2:32-33; Apt 2:36; Apt 3:18; Apt 3:19-21a.",
+        "*Herran Jeesuksen Kristuksen isä*: Room 15:6; 2 Kor 1:3; 2 Kor 11:31; Ef 1:3; Ef 3:14; Kol 1:3; 1 Piet 1:3.",
+        "*Jumala: Kaikkien ihmisten rakastava Isä*: 1 Aik 22:10; Ps 89:26-27; Jer 3:19; Matt 5:9,16,45,48; Matt 6:1,9,14; Matt 6:26,32; Matt 7:11; Matt 18:14; Matt 23:9; Mark 11:25-26; Luuk 6:36; Luuk 11:2,13; Joh 20:17b; Room 1:7; Room 8:14-15; 1 Kor 1:3; 2 Kor 1:2; 2 Kor 6:18; Gal 1:4; Gal 4:6-7; Ef 1:2; Fil 1:2; Kol 1:2; 1 Tess 1:1,3; 2 Tess 1:1-2; 1 Tim 1:2; Filem 1:2; 2 Sam 7:14.",
+        "*Kutsuttu veljeksi ja sisareksi*: Apt 9:17; Apt 22:13; Room 16:23; 1 Kor 1:1; 1 Kor 16:12; 2 Kor 1:1; 2 Kor 2:13; 2 Kor 8:18,22; 2 Kor 12:18; Ef 6:21; Fil 2:25; Kol 1:1; Kol 4:7,9; 1 Tess 3:2; Filem 1:1; Hepr 13:23; 1 Piet 5:12; 2 Piet 3:15.",
+        "*Tervehdittiin pyhällä suudelmalla*: Room 16:16; 1 Kor 16:20; 2 Kor 13:12; 1 Tess 5:26; 1 Piet 5:14.",
+        "*Palveli köyhiä*: Room 15:26; Gal 2:10.",
+        "*Vakaa yhteys*: Apt 2:41-42.",
+        "*Yhteinen elämä*: Apt 2:44.",
+        "*Omaisuuden myynti*: Apt 2:45.",
+        "*Antiokian keräys Jerusalemin hyväksi*: Apt 11:29-30.",
+        "*Kolminaisuus*: Matt 28:19; Apt 2:32-33; 1 Joh 5:7. *Kolminaisuus (Paavalin varhainen näkemys)*: 1 Kor 12:4-6. *Kolminaisuus (Paavalin myöhempi näkemys)*: 2 Kor 13:14.",
+        "*Johtajat vangittuina*: Apt 5:17-18.",
+        "*Gamalielin neuvot*: Apt 5:34,38-39.",
+        "*Saddukeukset ottavat neuvon vastaan*: Apt 5:40.",
+        "*Stefanuksen kivittäminen*: Apt 7:51-60.",
+        "*Uudet vainot*: Apt 8:1b.",
+        "*Ensimmäiset ”kristityt” Antiokiassa*: Apt 11:26b."
     ],
     "paper_title": "Totuuden Hengen lahjoittaminen"
 }

@@ -60,7 +60,7 @@
                 {
                     "par_ref": "48:1.7",
                     "par_pageref": "542.4",
-                    "par_content": "Paavali sai tietää morontiamaailmojen olemassaolosta ja morontiamateriaalien reaalisuudesta, sillä hän kirjoitti: ”Taivaassa heillä on parempaa ja kestävämpää ainetta{0}.” Ja nämä morontiamateriaalit ovat todellisia, konkreettisia, aivan kuin ”kaupungissa, jolla on perustukset ja jonka rakentaja ja luoja on Jumala.” Ja jokainen näistä ihmeellisistä sfääreistä on ”parempi, toisin sanoen taivaallinen, maa.”"
+                    "par_content": "Paavali sai tietää morontiamaailmojen olemassaolosta ja morontiamateriaalien reaalisuudesta, sillä hän kirjoitti: ”Taivaassa heillä on parempaa ja kestävämpää ainetta{0}.” Ja nämä morontiamateriaalit ovat todellisia, konkreettisia, aivan kuin ”kaupungissa, jolla on perustukset ja jonka rakentaja ja luoja on Jumala{1}.” Ja jokainen näistä ihmeellisistä sfääreistä on ”parempi, toisin sanoen taivaallinen, maa{2}.”"
                 }
             ]
         },
@@ -505,7 +505,7 @@
                 {
                     "par_ref": "48:6.8",
                     "par_pageref": "552.6",
-                    "par_content": "Urantiallakin he neuvovat totuuden ja oikeamielisyyden ihmisopettajia pitäytymään opetukseen ”Jumalan hyvyydestä, joka johtaa parannukseen” ja julistamaan ”Jumalan rakkautta, joka karkottaa kaiken pelon{5}.” Tälläkin tavoin näitä totuuksia on julistettu maailmassanne:"
+                    "par_content": "Urantiallakin he neuvovat totuuden ja oikeamielisyyden ihmisopettajia pitäytymään opetukseen ”Jumalan hyvyydestä, joka johtaa parannukseen” ja julistamaan ”Jumalan rakkautta, joka karkottaa kaiken pelon{5}{6}.” Tälläkin tavoin näitä totuuksia on julistettu maailmassanne:{7}"
                 },
                 {
                     "par_ref": "48:6.9",
@@ -580,7 +580,7 @@
                 {
                     "par_ref": "48:6.23",
                     "par_pageref": "553.4",
-                    "par_content": "Miettikääpä ilmaisua ”taivas” ja ”taivaitten taivas”{8}. Useimmat profeetoistanne käsittivät taivaaksi paikallisjärjestelmän ensimmäisen mansiomaailman. Kun apostoli puhui siitä, että ”hänet temmattiin kolmanteen taivaaseen”, hän tarkoitti sillä kokemusta, jossa hänen Suuntaajansa unen aikana erkani hänestä ja pistäytyi tässä epätavallisessa tilassa seitsemän mansiomaailman kolmannessa maailmassa. Jotkut tietäjistänne näkivät näyn suuremmasta taivaasta, ”taivaitten taivaasta”, josta seitsenosainen mansiomaailman kokemus oli vasta ensimmäinen, kun Jerusem oli toinen, Edentia satelliitteineen kolmas, Salvington ympäröivine koulutussfääreineen neljäs, Uversa viides, Havona kuudes ja Paratiisi seitsemäs."
+                    "par_content": "Miettikääpä ilmaisua ”taivas” ja ”taivaitten taivas”{8}. Useimmat profeetoistanne käsittivät taivaaksi paikallisjärjestelmän ensimmäisen mansiomaailman. Kun apostoli puhui siitä, että ”hänet temmattiin kolmanteen taivaaseen”, hän tarkoitti sillä kokemusta, jossa hänen Suuntaajansa unen aikana erkani hänestä ja pistäytyi tässä epätavallisessa tilassa seitsemän mansiomaailman kolmannessa maailmassa{9}. Jotkut tietäjistänne näkivät näyn suuremmasta taivaasta, ”taivaitten taivaasta”, josta seitsenosainen mansiomaailman kokemus oli vasta ensimmäinen, kun Jerusem oli toinen, Edentia satelliitteineen kolmas, Salvington ympäröivine koulutussfääreineen neljäs, Uversa viides, Havona kuudes ja Paratiisi seitsemäs."
                 },
                 {
                     "par_ref": "48:6.24",
@@ -850,17 +850,17 @@
         }
     ],
     "footnotes": [
-        "*Taivaassa parempi aine*: Mt 6:19-20; Heb 10:34.",
-        "*Kaupungin rakentaja ja luoja on Jumala*: 2 Co 5:1; Heb 11:10.",
-        "*Parempi -taivaallinen- maa*: Heb 11:16.",
-        "*Kaikki toimii yhdessä*: Ro 8:28.",
-        "*Ego deflation*: Ro 12:3; 2 Co 12:7; Gl 6:3.",
-        "*Jumalan hyvyys johtaa*: Ro 2:4.",
-        "*Jumalan rakkaus karkottaa pelon*: 1 Jn 4:18.",
-        "*23. psalmi*: Sal 23:1-6.",
-        "*Taivas, taivasten taivas*: 1 Re 8:27; 2 Cr 2:6; 2 Cr 6:18; Neh 9:6; Sal 148:4; Dt 10:14.",
-        "*Kiinni kolmannessa taivaassa*: 2 Co 12:2.",
-        "*Jeesuksen mieli*: 1 Co 2:16; Flp 2:5."
+        "*Taivaassa parempi aine*: Matt 6:19-20; Hepr 10:34.",
+        "*Kaupungin rakentaja ja luoja on Jumala*: 2 Kor 5:1; Hepr 11:10.",
+        "*Parempi -taivaallinen- maa*: Hepr 11:16.",
+        "*Kaikki toimii yhdessä*: Room 8:28.",
+        "*Ego deflation*: Room 12:3; 2 Kor 12:7; Gal 6:3.",
+        "*Jumalan hyvyys johtaa*: Room 2:4.",
+        "*Jumalan rakkaus karkottaa pelon*: 1 Joh 4:18.",
+        "*23. psalmi*: Ps 23:1-6.",
+        "*Taivas, taivasten taivas*: 1 Kun 8:27; 2 Aik 2:6; 2 Aik 6:18; Neh 9:6; Ps 148:4; 5 Moos 10:14.",
+        "*Kiinni kolmannessa taivaassa*: 2 Kor 12:2.",
+        "*Jeesuksen mieli*: 1 Kor 2:16; Fil 2:5."
     ],
     "paper_title": "Morontiaelämä"
 }

@@ -295,7 +295,7 @@
                 {
                     "par_ref": "24:6.2",
                     "par_pageref": "269.6",
-                    "par_content": "Minua ei ole kielletty esittämästä teille kertomusta siitä, mitä nämä Kandidaattien Opastajat tekevät, mutta se on niin ultrahengellistä, että epäilen pahoin, pystynkö todellisuutta vastaavalla tavalla välittämään aineelliselle mielelle minkäänlaista käsitystä heidän moninaisista toimistaan. Mansiomaailmoissa — sen jälkeen kun näköpiirinne rajat avartuvat ja vapaudutte aineellisten viitekohtien kahleista — voitte alkaa ymmärtää niiden reaalisubjektien merkitystä, joita ”silmä ei voi nähdä eikä korva kuulla ja jotka eivät ole koskaan juolahtaneet ihmismielen aatoksiin”, jopa asioita, jotka ”Jumala on tällaisia ikuisia totuuksia rakastaville valmistanut{0}.” Teitä ei suinkaan ole tuomittu näköpiirinne ja hengellisen käsityskykynne osalta olemaan aina näin rajoittuneita."
+                    "par_content": "Minua ei ole kielletty esittämästä teille kertomusta siitä, mitä nämä Kandidaattien Opastajat tekevät, mutta se on niin ultrahengellistä, että epäilen pahoin, pystynkö todellisuutta vastaavalla tavalla välittämään aineelliselle mielelle minkäänlaista käsitystä heidän moninaisista toimistaan. Mansiomaailmoissa — sen jälkeen kun näköpiirinne rajat avartuvat ja vapaudutte aineellisten viitekohtien kahleista — voitte alkaa ymmärtää niiden reaalisubjektien merkitystä, joita ”silmä ei voi nähdä eikä korva kuulla ja jotka eivät ole koskaan juolahtaneet ihmismielen aatoksiin”, jopa asioita, jotka ”Jumala on tällaisia ikuisia totuuksia rakastaville valmistanut{0}{1}.” Teitä ei suinkaan ole tuomittu näköpiirinne ja hengellisen käsityskykynne osalta olemaan aina näin rajoittuneita."
                 },
                 {
                     "par_ref": "24:6.3",
@@ -393,8 +393,8 @@
         }
     ],
     "footnotes": [
-        "*Silmä ei näe, korva ei kuule*: Is 64:4.",
-        "*Mitä Jumala on valmistanut*: 1 Co 2:9."
+        "*Silmä ei näe, korva ei kuule*: Jes 64:4.",
+        "*Mitä Jumala on valmistanut*: 1 Kor 2:9."
     ],
     "paper_title": "Äärettömän Hengen korkeammat persoonallisuudet"
 }

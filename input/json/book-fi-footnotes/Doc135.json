@@ -8,7 +8,7 @@
                 {
                     "par_ref": "135:0.1",
                     "par_pageref": "1496.1",
-                    "par_content": "JOHANNES Kastaja syntyi maaliskuun 25. päivänä vuonna 7 eKr, kuten Gabriel edellisen vuoden kesäkuussa oli Elisabetille luvannut. Viiden kuukauden ajan Elisabet piti Gabrielin käynnin salassa, ja kun hän kertoi asiasta miehelleen Sakariaalle, tämä vaivautui siitä suuresti uskoen vaimonsa kertomuksen täydelleen, vasta kun hän kuutisen viikkoa ennen Johanneksen syntymää oli nähnyt epätavallisen unen. Gabrielin käyntiä Elisabetin luona ja Sakariaan unennäköä lukuun ottamatta Johannes Kastajan syntymään ei liittynyt mitään epätavallista tai yliluonnollista.{0}"
+                    "par_content": "JOHANNES Kastaja syntyi maaliskuun 25. päivänä vuonna 7 eKr, kuten Gabriel edellisen vuoden kesäkuussa oli Elisabetille luvannut. Viiden kuukauden ajan Elisabet piti Gabrielin käynnin salassa, ja kun hän kertoi asiasta miehelleen Sakariaalle, tämä vaivautui siitä suuresti uskoen vaimonsa kertomuksen täydelleen, vasta kun hän kuutisen viikkoa ennen Johanneksen syntymää oli nähnyt epätavallisen unen. Gabrielin käyntiä Elisabetin luona ja Sakariaan unennäköä lukuun ottamatta Johannes Kastajan syntymään ei liittynyt mitään epätavallista tai yliluonnollista.{0}{1}{2}"
                 },
                 {
                     "par_ref": "135:0.2",
@@ -99,7 +99,7 @@
                 {
                     "par_ref": "135:3.2",
                     "par_pageref": "1498.1",
-                    "par_content": "Elisabet huolehti, että Johannes pysyi Palestiinan ja maailman tapahtumien tasalla, ja yhä syvemmäksi kävi Johanneksen vakuuttuneisuus siitä, että se aika oli nopeasti lähestymässä, jolloin vanha järjestys tulisi tiensä päähän; että hänestä olisi tuleva uuden aikakauden, ”taivaan valtakunnan”, lähestymisestä kertova airut. Tämä karu lammaspaimen tunsi erityistä mielenkiintoa profeetta Danielin kirjoituksiin. Hän luki tuhanteen kertaan Danielin kuvauksen suuresta kuvapatsaasta, josta Sakarias oli hänelle kertonut, että se esitti maailman suurten valtakuntien historiaa: ensin Babylonian, sitten Persian, Kreikan ja lopulta Rooman historiaa. Johannes tajusi Rooman jo tuolloin koostuvan niin monista eri kieliä puhuvista kansoista ja roduista, ettei siitä koskaan voisi tulla lujaa ja kiinteää valtakuntaa{8}. Hän uskoi Rooman jo tuolloin jakautuvan Syyriaksi, Egyptiksi, Palestiinaksi ja muiksi provinsseiksi, ja sitten hän vielä luki: ”Näiden kuningasten päivinä on taivaan Jumala pystyttävä valtakunnan, joka on kukistumaton iankaikkisesti. Eikä tätä valtakuntaa toiselle kansalle anneta, vaan se on musertava kaikki ne muut valtakunnat ja tekevä niistä lopun, ja se itse on pysyvä iankaikkisesti.” ”Ja hänelle annettiin valta ja kunnia ja valtakunta, jotta kaikki kansat, kansakunnat ja kielet palvelisivat häntä. Hänen valtansa on iankaikkinen valta, joka ei häviä, ja hänen valtakuntaansa ei koskaan hävitetä.” ”Ja valtakunta ja valta ja valtakunnan suuruus kaiken taivaan alla annetaan Kaikkein Korkeimman pyhien kansalle, ja hänen valtakuntansa on iankaikkinen valtakunta, ja kaikki vallat palvelevat häntä ja ovat hänelle alamaiset.”"
+                    "par_content": "Elisabet huolehti, että Johannes pysyi Palestiinan ja maailman tapahtumien tasalla, ja yhä syvemmäksi kävi Johanneksen vakuuttuneisuus siitä, että se aika oli nopeasti lähestymässä, jolloin vanha järjestys tulisi tiensä päähän; että hänestä olisi tuleva uuden aikakauden, ”taivaan valtakunnan”, lähestymisestä kertova airut. Tämä karu lammaspaimen tunsi erityistä mielenkiintoa profeetta Danielin kirjoituksiin. Hän luki tuhanteen kertaan Danielin kuvauksen suuresta kuvapatsaasta, josta Sakarias oli hänelle kertonut, että se esitti maailman suurten valtakuntien historiaa: ensin Babylonian, sitten Persian, Kreikan ja lopulta Rooman historiaa. Johannes tajusi Rooman jo tuolloin koostuvan niin monista eri kieliä puhuvista kansoista ja roduista, ettei siitä koskaan voisi tulla lujaa ja kiinteää valtakuntaa{8}. Hän uskoi Rooman jo tuolloin jakautuvan Syyriaksi, Egyptiksi, Palestiinaksi ja muiksi provinsseiksi, ja sitten hän vielä luki: ”Näiden kuningasten päivinä on taivaan Jumala pystyttävä valtakunnan, joka on kukistumaton iankaikkisesti. Eikä tätä valtakuntaa toiselle kansalle anneta, vaan se on musertava kaikki ne muut valtakunnat ja tekevä niistä lopun, ja se itse on pysyvä iankaikkisesti.” ”Ja hänelle annettiin valta ja kunnia ja valtakunta, jotta kaikki kansat, kansakunnat ja kielet palvelisivat häntä. Hänen valtansa on iankaikkinen valta, joka ei häviä, ja hänen valtakuntaansa ei koskaan hävitetä{9}.” ”Ja valtakunta ja valta ja valtakunnan suuruus kaiken taivaan alla annetaan Kaikkein Korkeimman pyhien kansalle, ja hänen valtakuntansa on iankaikkinen valtakunta, ja kaikki vallat palvelevat häntä ja ovat hänelle alamaiset.”{10}"
                 },
                 {
                     "par_ref": "135:3.3",
@@ -188,12 +188,12 @@
                 {
                     "par_ref": "135:5.7",
                     "par_pageref": "1501.2",
-                    "par_content": "Kuka tämä Messias olisi? Jälleen olivat juutalaiset opettajat eri mieltä. Vanhemmat heistä pitivät kiinni opinkappaleesta, jonka mukaan hän olisi Daavidin poika. Uudemmat opettivat, että koska uusi valtakunta olisi taivaallinen valtakunta, uusi hallitsija saattaisi olla myös jumalallinen persoonallisuus, joka oli kauan aikaa istunut taivaassa Jumalan oikealla puolella. Ja niin oudolta kuin se saattaakin kuulostaa ne, joilla oli tällainen käsitys uuden valtakunnan hallitsijasta, eivät suinkaan pitäneet häntä ihmis-Messiaana, eivät pelkkänä *ihmisenä,* vaan ”Ihmisen Poikana” — Jumalan Poikana — taivaallisena Ruhtinaana, jota oli pitkät ajat pidetty odottamassa, jotta hän tällä tavoin ottaisi haltuunsa uudeksi tehdyn maan hallitsijan aseman{15}. Tällaisen uskonnollisen taustan juutalainen maailma tarjosi aikana, jolloin Johannes lähti taipaleelleen julistaen: ”Katukaa, sillä taivaan valtakunta on lähellä!”"
+                    "par_content": "Kuka tämä Messias olisi? Jälleen olivat juutalaiset opettajat eri mieltä. Vanhemmat heistä pitivät kiinni opinkappaleesta, jonka mukaan hän olisi Daavidin poika. Uudemmat opettivat, että koska uusi valtakunta olisi taivaallinen valtakunta, uusi hallitsija saattaisi olla myös jumalallinen persoonallisuus, joka oli kauan aikaa istunut taivaassa Jumalan oikealla puolella. Ja niin oudolta kuin se saattaakin kuulostaa ne, joilla oli tällainen käsitys uuden valtakunnan hallitsijasta, eivät suinkaan pitäneet häntä ihmis-Messiaana, eivät pelkkänä *ihmisenä,* vaan ”Ihmisen Poikana” — Jumalan Poikana — taivaallisena Ruhtinaana, jota oli pitkät ajat pidetty odottamassa, jotta hän tällä tavoin ottaisi haltuunsa uudeksi tehdyn maan hallitsijan aseman{15}. Tällaisen uskonnollisen taustan juutalainen maailma tarjosi aikana, jolloin Johannes lähti taipaleelleen julistaen: ”Katukaa, sillä taivaan valtakunta on lähellä!”{16}"
                 },
                 {
                     "par_ref": "135:5.8",
                     "par_pageref": "1501.3",
-                    "par_content": "Edellä kerrotusta käynee selville, että Johanneksen julistus valtakunnan tulemisesta sai hänen kiihkeää julistustaan kuuntelevien mielessä peräti puoli tusinaa erilaista merkitystä{17}. Mutta siitä riippumatta, minkä merkityksen jokainen näistä juutalaisvaltakuntaa odottavista eri ryhmistä Johanneksen käyttämiin sanontoihin liitti, niissä heräsi kuitenkin mielenkiinto, kun ne kuulivat tämän vilpittömän, innostuneen ja hienostelemattoman vanhurskautta ja katumusta julistavan saarnaajan julistuksia hänen perin juhlallisesti kehottaessaan kuulijoita ”pakenemaan vihaa, joka on tulossa.”"
+                    "par_content": "Edellä kerrotusta käynee selville, että Johanneksen julistus valtakunnan tulemisesta sai hänen kiihkeää julistustaan kuuntelevien mielessä peräti puoli tusinaa erilaista merkitystä{17}. Mutta siitä riippumatta, minkä merkityksen jokainen näistä juutalaisvaltakuntaa odottavista eri ryhmistä Johanneksen käyttämiin sanontoihin liitti, niissä heräsi kuitenkin mielenkiinto, kun ne kuulivat tämän vilpittömän, innostuneen ja hienostelemattoman vanhurskautta ja katumusta julistavan saarnaajan julistuksia hänen perin juhlallisesti kehottaessaan kuulijoita ”pakenemaan vihaa, joka on tulossa{18}.”"
                 }
             ]
         },
@@ -210,7 +210,7 @@
                 {
                     "par_ref": "135:6.2",
                     "par_pageref": "1501.5",
-                    "par_content": "Kaikille, jotka Johannesta kuulivat, kävi selväksi, että hän oli enemmän kuin saarnamies. Suuri enemmistö tämän Juudean autiomaasta tulleen oudon miehen kuuntelijoista poistui paikalta uskoen kuulleensa profeetan ääntä. Eikä ole mikään ihme, että tällainen ilmiö kuohutti syvästi näiden tuskastuneiden ja odotuksentäyteisten juutalaisten sielua. Niin pitkälle kuin juutalaisten historia ulottui, Abrahamin hurskaat lapset eivät olleet milloinkaan yhtä syvästi kaivanneet ”Israelin lohdutusta” tai palavammin odottaneet ”kuningaskunnan uudelleenpystyttämistä”{20}. Niin pitkälle kuin juutalaisten historia ulottuikin, ei Johanneksen sanoma siitä, että ”taivaan valtakunta on lähellä”, olisi milloinkaan aikaisemmin voinut saavuttaa yhtä syvää ja kaiken kattavaa vastakaikua kuin sinä ajankohtana, jolloin hän niin salaperäisesti ilmestyi Jordanvirran eteläisen ylityspaikan töyräälle."
+                    "par_content": "Kaikille, jotka Johannesta kuulivat, kävi selväksi, että hän oli enemmän kuin saarnamies. Suuri enemmistö tämän Juudean autiomaasta tulleen oudon miehen kuuntelijoista poistui paikalta uskoen kuulleensa profeetan ääntä. Eikä ole mikään ihme, että tällainen ilmiö kuohutti syvästi näiden tuskastuneiden ja odotuksentäyteisten juutalaisten sielua. Niin pitkälle kuin juutalaisten historia ulottui, Abrahamin hurskaat lapset eivät olleet milloinkaan yhtä syvästi kaivanneet ”Israelin lohdutusta” tai palavammin odottaneet ”kuningaskunnan uudelleenpystyttämistä”{20}{21}. Niin pitkälle kuin juutalaisten historia ulottuikin, ei Johanneksen sanoma siitä, että ”taivaan valtakunta on lähellä”, olisi milloinkaan aikaisemmin voinut saavuttaa yhtä syvää ja kaiken kattavaa vastakaikua kuin sinä ajankohtana, jolloin hän niin salaperäisesti ilmestyi Jordanvirran eteläisen ylityspaikan töyräälle{22}."
                 },
                 {
                     "par_ref": "135:6.3",
@@ -230,17 +230,17 @@
                 {
                     "par_ref": "135:6.6",
                     "par_pageref": "1502.4",
-                    "par_content": "Johanneksen viipyessä vielä Betanian kahluupaikalla papit ja leviitat lähettivät tämän vuoden toukokuussa hänen luokseen lähetystön kysymään, väittikö hän olevansa Messias ja keneltä hän oli saanut valtuudet saarnaamiseensa{26}. Johannes vastasi kysymyksen esittäjille seuraavin sanoin: ”Menkää ja kertokaa isännillenne, että olette kuulleet ’erämaassa huutavan äänen’ ikään kuin profeetta olisi puhunut sanoen: ’Valmistakaa tie Herralle, suoristakaa valtatie meidän Jumalallemme. Kaikki laaksot täytettäköön, kaikki vuoret ja kukkulat alennettakoon; koleikot tulkoot tasangoksi ja louhokset laakeaksi maaksi; ja kaikki liha on näkevä Jumalan pelastuksen.’”"
+                    "par_content": "Johanneksen viipyessä vielä Betanian kahluupaikalla papit ja leviitat lähettivät tämän vuoden toukokuussa hänen luokseen lähetystön kysymään, väittikö hän olevansa Messias ja keneltä hän oli saanut valtuudet saarnaamiseensa{26}. Johannes vastasi kysymyksen esittäjille seuraavin sanoin: ”Menkää ja kertokaa isännillenne, että olette kuulleet ’erämaassa huutavan äänen’ ikään kuin profeetta olisi puhunut sanoen: ’Valmistakaa tie Herralle, suoristakaa valtatie meidän Jumalallemme. Kaikki laaksot täytettäköön, kaikki vuoret ja kukkulat alennettakoon; koleikot tulkoot tasangoksi ja louhokset laakeaksi maaksi; ja kaikki liha on näkevä Jumalan pelastuksen.’”{27}"
                 },
                 {
                     "par_ref": "135:6.7",
                     "par_pageref": "1502.5",
-                    "par_content": "Johannes oli urhea mutta tahditon saarnaaja{28}. Kun hän eräänä päivänä oli saarnaamassa ja kastamassa Jordanin länsirannalla, paikalle saapui ryhmä fariseuksia ja muutama saddukeus, jotka tarjoutuivat kastettaviksi. Ennen kuin Johannes johdatti heidät veteen, hän puhutteli heitä ryhmänä ja sanoi: ”Kuka teille antoi varoituksen, että pakenisitte tulevaa vihaa, niin kuin kyykäärmeet tulen edestä? Minä kastan teidät, mutta kehotan teitä kantamaan vilpittömän katumuksen arvoisia hedelmiä, mikäli mielitte saada syntinne anteeksi. Älkää minulle sanoko, että Abraham on isänne. Sanon teille, että Jumala kykenee näistä edessänne olevista kahdestatoista kivestä herättämään Abrahamille oivallisia lapsia. Ja nytkin on kirves pantuna puitten juurelle. Jokainen puu, joka ei tee hyvää hedelmää, tulee hakatuksi maahan ja viskatuksi tuleen.” (Johanneksen mainitsemat kaksitoista kiveä olivat kuuluisat muistomerkkikivet, jotka Joosua pystytti sen muistoksi, että ”kaksitoista heimoa” juuri tuolla kohdin ylittivät joen luvattuun maahan ensimmäistä kertaa saapuessaan.)"
+                    "par_content": "Johannes oli urhea mutta tahditon saarnaaja{28}. Kun hän eräänä päivänä oli saarnaamassa ja kastamassa Jordanin länsirannalla, paikalle saapui ryhmä fariseuksia ja muutama saddukeus, jotka tarjoutuivat kastettaviksi. Ennen kuin Johannes johdatti heidät veteen, hän puhutteli heitä ryhmänä ja sanoi: ”Kuka teille antoi varoituksen, että pakenisitte tulevaa vihaa, niin kuin kyykäärmeet tulen edestä? Minä kastan teidät, mutta kehotan teitä kantamaan vilpittömän katumuksen arvoisia hedelmiä, mikäli mielitte saada syntinne anteeksi. Älkää minulle sanoko, että Abraham on isänne. Sanon teille, että Jumala kykenee näistä edessänne olevista kahdestatoista kivestä herättämään Abrahamille oivallisia lapsia. Ja nytkin on kirves pantuna puitten juurelle. Jokainen puu, joka ei tee hyvää hedelmää, tulee hakatuksi maahan ja viskatuksi tuleen{29}.” (Johanneksen mainitsemat kaksitoista kiveä olivat kuuluisat muistomerkkikivet, jotka Joosua pystytti sen muistoksi, että ”kaksitoista heimoa” juuri tuolla kohdin ylittivät joen luvattuun maahan ensimmäistä kertaa saapuessaan{30}.)"
                 },
                 {
                     "par_ref": "135:6.8",
                     "par_pageref": "1502.6",
-                    "par_content": "Johannes piti opetuslapsilleen oppitunteja, joiden kuluessa hän antoi heille neuvoja heidän uuden elämänsä yksityiskohdista ja pyrki vastaamaan heidän moniin kysymyksiinsä{31}. Hän neuvoi opettajia opettamaan sekä lain hengessä että sen kirjaimen mukaisesti. Hän neuvoi rikkaita antamaan ruokaa köyhille. Veronkantajille hän sanoi: ”Älkää ketään pakottako maksamaan enempää kuin on tehtäväksenne annettu.” Sotilaille hän sanoi: ”Älkää tehkö väkivaltaa älkääkä keneltäkään kiskoko mitään vääryydellä — tyytykää siihen, mitä palkaksi saatte.” Seuraavan neuvon hän sen sijaan osoitti kaikille: ”Valmistautukaa aikakauden päättymiseen — taivaan valtakunta on lähellä.”"
+                    "par_content": "Johannes piti opetuslapsilleen oppitunteja, joiden kuluessa hän antoi heille neuvoja heidän uuden elämänsä yksityiskohdista ja pyrki vastaamaan heidän moniin kysymyksiinsä{31}. Hän neuvoi opettajia opettamaan sekä lain hengessä että sen kirjaimen mukaisesti. Hän neuvoi rikkaita antamaan ruokaa köyhille. Veronkantajille hän sanoi: ”Älkää ketään pakottako maksamaan enempää kuin on tehtäväksenne annettu{32}.” Sotilaille hän sanoi: ”Älkää tehkö väkivaltaa älkääkä keneltäkään kiskoko mitään vääryydellä — tyytykää siihen, mitä palkaksi saatte{33}.” Seuraavan neuvon hän sen sijaan osoitti kaikille: ”Valmistautukaa aikakauden päättymiseen — taivaan valtakunta on lähellä{34}.”"
                 }
             ]
         },
@@ -257,7 +257,7 @@
                 {
                     "par_ref": "135:7.2",
                     "par_pageref": "1503.2",
-                    "par_content": "Taivaltaessaan pohjoista kohti Johannes ajatteli paljon Jeesusta. Hän pysähtyi runsaalla kymmenellä paikkakunnalla matkatessaan Jordanin vartta yläjuoksun suuntaan. Adamissa ollessaan hän viittasi ensimmäisen kerran puheessaan ”toiseen, joka on tuleva minun jälkeeni” vastatessaan opetuslastensa esittämään suoraan kysymykseen: ”Oletko sinä Messias?” Ja hänen puheensa jatkui: ”Minun jälkeeni tulee hän, joka on minua suurempi ja jonka sandaalinhihnojakaan en ole kyllin arvollinen edes maahan kumartuessani avaamaan{36}. Minä kastan teidät vedellä, mutta hän tulee kastamaan teidät Pyhällä Hengellä. Ja hänellä on kädessään viskaimensa, ja hän puhdistaa puimatanterensa perin pohjin; hän kokoaa nisun aittaansa, mutta ruumenet hän polttaa tuomiopäivän tulella.”"
+                    "par_content": "Taivaltaessaan pohjoista kohti Johannes ajatteli paljon Jeesusta. Hän pysähtyi runsaalla kymmenellä paikkakunnalla matkatessaan Jordanin vartta yläjuoksun suuntaan. Adamissa ollessaan hän viittasi ensimmäisen kerran puheessaan ”toiseen, joka on tuleva minun jälkeeni” vastatessaan opetuslastensa esittämään suoraan kysymykseen: ”Oletko sinä Messias?” Ja hänen puheensa jatkui: ”Minun jälkeeni tulee hän, joka on minua suurempi ja jonka sandaalinhihnojakaan en ole kyllin arvollinen edes maahan kumartuessani avaamaan{36}. Minä kastan teidät vedellä, mutta hän tulee kastamaan teidät Pyhällä Hengellä. Ja hänellä on kädessään viskaimensa, ja hän puhdistaa puimatanterensa perin pohjin; hän kokoaa nisun aittaansa, mutta ruumenet hän polttaa tuomiopäivän tulella.”{37}"
                 },
                 {
                     "par_ref": "135:7.3",
@@ -299,12 +299,12 @@
                 {
                     "par_ref": "135:8.6",
                     "par_pageref": "1504.4",
-                    "par_content": "Jeesuksen äänessä kaikui lopullisuuden ja arvovallan sointi. Johannes vapisi liikutuksesta valmistautuessaan kastamaan Jeesus Nasaretilaisen Jordanvirrassa keskipäivän aikaan maanantaina tammikuun 14. päivänä vuonna 26 jKr. Niin Johannes sitten kastoi Jeesuksen ja kaksi tämän veljeä: Jaakobin ja Juudan. Ja kun Johannes oli nämä kolme kastanut, hän lähetti muut sen päivän kastettavat pois ilmoittaen jatkavansa kastamista seuraavana päivänä puolilta päivin{42}. Ihmisten vielä tehdessä lähtöä nämä neljä miestä, jotka yhä seisoivat vedessä, kuulivat oudon äänen, ja kohta ilmaantui aivan Jeesuksen pään yläpuolelle hetkeksi näky, ja he kuulivat äänen sanovan: ”Tämä on rakastettu Poikani, joka on minulle suuresti mieleen.” Jeesuksen kasvoilla tapahtui suuri muutos; sanaakaan sanomatta hän nousi vedestä ja poistui heidän luotaan ja suuntasi kulkunsa kohti idässä siintäviä kukkuloita. Eikä yksikään ihminen nähnyt Jeesusta neljäänkymmeneen päivään."
+                    "par_content": "Jeesuksen äänessä kaikui lopullisuuden ja arvovallan sointi. Johannes vapisi liikutuksesta valmistautuessaan kastamaan Jeesus Nasaretilaisen Jordanvirrassa keskipäivän aikaan maanantaina tammikuun 14. päivänä vuonna 26 jKr. Niin Johannes sitten kastoi Jeesuksen ja kaksi tämän veljeä: Jaakobin ja Juudan. Ja kun Johannes oli nämä kolme kastanut, hän lähetti muut sen päivän kastettavat pois ilmoittaen jatkavansa kastamista seuraavana päivänä puolilta päivin{42}. Ihmisten vielä tehdessä lähtöä nämä neljä miestä, jotka yhä seisoivat vedessä, kuulivat oudon äänen, ja kohta ilmaantui aivan Jeesuksen pään yläpuolelle hetkeksi näky, ja he kuulivat äänen sanovan: ”Tämä on rakastettu Poikani, joka on minulle suuresti mieleen.” Jeesuksen kasvoilla tapahtui suuri muutos; sanaakaan sanomatta hän nousi vedestä ja poistui heidän luotaan ja suuntasi kulkunsa kohti idässä siintäviä kukkuloita{43}. Eikä yksikään ihminen nähnyt Jeesusta neljäänkymmeneen päivään."
                 },
                 {
                     "par_ref": "135:8.7",
                     "par_pageref": "1504.5",
-                    "par_content": "Johannes seurasi Jeesusta niin pitkälle, että ehti kertoa tälle tarinan Gabrielin vierailusta hänen äitinsä luona, ennen kuin heistä kumpikaan oli syntynyt, siten kuin hän tämän tarinan niin monet kerrat oli kuullut äitinsä huulilta{44}. Hän antoi Jeesuksen mennä tietään, sen jälkeen kun oli sanonut: ”Nyt tiedän varmaksi, että olet Vapahtaja.” Mutta Jeesus ei vastannut hänelle mitään."
+                    "par_content": "Johannes seurasi Jeesusta niin pitkälle, että ehti kertoa tälle tarinan Gabrielin vierailusta hänen äitinsä luona, ennen kuin heistä kumpikaan oli syntynyt, siten kuin hän tämän tarinan niin monet kerrat oli kuullut äitinsä huulilta{44}. Hän antoi Jeesuksen mennä tietään, sen jälkeen kun oli sanonut: ”Nyt tiedän varmaksi, että olet Vapahtaja{45}.” Mutta Jeesus ei vastannut hänelle mitään."
                 }
             ]
         },
@@ -453,64 +453,64 @@
         }
     ],
     "footnotes": [
-        "*Elisabetin salaisuus*: Lc 1:24.",
-        "*Sakariuksen uni*: Lc 1:11-23.",
-        "*Johannes Kastajan syntymä*: Lc 1:57.",
-        "*Johannes ympärileikataan*: Lc 1:59.",
-        "*Johanneksesta tulee nasaretilainen*: Lc 1:15.",
-        "*Johanneksen pukeutumistapa*: Mt 3:4a; Mc 1:6a; Lc 1:80.",
-        "*Juudean erämaa*: Mt 3:1; Lc 3:2.",
-        "*Johanneksen ruokavalio*: Mt 3:4; Mc 1:6.",
-        "*Danielin suuri kuva*: Dn 2:31-33.",
-        "*Ikuinen valtakunta*: Dn 2:44.",
-        "*Ikuinen valtakunta*: Dn 7:14. *Anna valtakunta Korkeimmille*: Dn 7:27.",
-        "*Näky Ihmisen Pojan tulemisesta*: Dn 7:13-14.",
+        "*Elisabetin salaisuus*: Luuk 1:24.",
+        "*Sakariuksen uni*: Luuk 1:11-23.",
+        "*Johannes Kastajan syntymä*: Luuk 1:57.",
+        "*Johannes ympärileikataan*: Luuk 1:59.",
+        "*Johanneksesta tulee nasaretilainen*: Luuk 1:15.",
+        "*Johanneksen pukeutumistapa*: Matt 3:4a; Mark 1:6a; Luuk 1:80.",
+        "*Juudean erämaa*: Matt 3:1; Luuk 3:2.",
+        "*Johanneksen ruokavalio*: Matt 3:4; Mark 1:6.",
+        "*Danielin suuri kuva*: Dan 2:31-33.",
+        "*Ikuinen valtakunta*: Dan 2:44.",
+        "*Ikuinen valtakunta*: Dan 7:14. *Anna valtakunta Korkeimmille*: Dan 7:27.",
+        "*Näky Ihmisen Pojan tulemisesta*: Dan 7:13-14.",
         "*Lähetä Elias ensin*: Mal 4:5-6.",
-        "*Messias hallitsee taivaassa ja maan päällä*: Mt 6:10; Lc 11:2.",
-        "*Uusi taivas ja uusi maa*: Is 65:17; Is 66:22; Ap 21:1.",
-        "*Ihmisen Poika*: Ez 2:1,3,6,8; Ez 3:1-4,10,17; Dn 7:13,14; Mt 8:20; Mc 2:10; Lc 5:24; Jn 1:51; Ap 1:13; Ap 14:14; 1 Enoch 46:1-6; 1 Enoch 48:1-7; 1 Enoch 60:10; 1 Enoch 62:1-14; 1 Enoch 63:11; 1 Enoch 69:26-29; 1 Enoch 70:1-2; 1 Enoch 71:14,16.",
-        "*Johannes saarnasi parannusta*: Mt 3:2; Mc 1:4.",
-        "*Johanneksen ilmoitus*: Mt 3:3; Mc 1:2-8; Lc 3:2-6.",
-        "*Pakene tulevaa vihaa*: Mt 3:7; Lc 3:7.",
-        "*Johannes alkaa saarnata*: Mt 3:1; Mc 1:4,7-8; Lc 3:2-3.",
-        "*Israelin lohdutus*: Lc 2:25.",
-        "*Valtakunnan palauttaminen*: Hch 1:6.",
-        "*Taivasten valtakunta on käsillä*: Mt 3:2; Mc 1:15.",
-        "*Elian henki ja voima*: Lc 1:17.",
-        "*Kastakaa syntien anteeksiantamiseksi*: Mt 3:5-6; Mc 1:4-5; Lc 3:3.",
-        "*Johanneksen saarna*: Jn 1:28.",
-        "*Valtuuskunnan kysely*: Jn 1:19-27.",
-        "*Johanneksen vastaus*: Is 40:3-5; Mt 3:3; Mc 1:2-3; Lc 3:4-5; Jn 1:23.",
-        "*Johanneksen tahditon viesti*: Mt 3:7-10; Lc 3:7-9.",
-        "*Arvokas hedelmä*: Mt 7:16-20; Mt 12:33-34; Lc 3:9-10; Lc 6:43-44; Jn 15:2.",
-        "*Kaksitoista muistokiveä*: Jos 4:1-9.",
-        "*Johanneksen opetuslapsille järjestämät oppitunnit*: Lc 3:10-11.",
-        "*Oppitunti veronkantajille*: Lc 3:12-13.",
-        "*Oppitunti sotilaille*: Lc 3:14.",
-        "*Oppitunti kaikille*: Mt 3:2; Mc 1:15.",
-        "*Johannes hämmentynyt valtakunnasta*: Jn 1:31a.",
-        "*Johannes vaan Messiaan edelläkävijä*: Mt 3:11-12; Mc 1:7-8; Lc 3:16-17; Jn 1:26-27.",
-        "*Johannes kieltää olevansa Messias*: Mt 3:11; Mc 1:7-8; Lc 3:15-17; Jn 1:24-26.",
-        "*Kadu ja kaste*: Lc 3:3.",
-        "*Johannes saapuu Pellaan*: Jn 1:28.",
-        "*Jeesus menee Pellaan*: Mc 1:9; Lc 3:21; Jn 1:29.",
-        "*Johanneksen vastalause*: Mt 3:14-15.",
-        "*Jeesuksen kaste ja Jumalan ääni*: Mt 3:16-17; Mc 1:10-11; Lc 3:22; Jn 1:32-34.",
-        "*Neljäkymmentä päivää yksin*: Mt 4:1-11; Mc 1:12-13; Lc 4:1-13.",
-        "*Gabrielin vierailu Isabelin luona*: Lc 1:11-19,24-25.",
-        "*Nyt tiedän varmasti*: Jn 1:34.",
-        "*Jeesus kertoi Gabrielin vierailusta Marian luona*: Lc 1:26-38.",
-        "*Valtuuskunnan kysymykset*: Jn 1:19-21; Jn 1:24-26.",
-        "*Joosuan hyökkäys*: Jos 12:7-24.",
-        "*Johanneksen ilmoitus*: Mc 1:7; Jn 1:29-32. *Laskeutuva henki ja ääni*: Mt 3:16-17; Mc 1:10-11; Lc 3:21-22.",
-        "*Jeesus lähtee Galileaan*: Lc 4:14; Jn 1:43a.",
-        "*Johannes hyökkää Herodeksen kimppuun*: Mt 14:3b-4; Mc 6:17b-19; Lc 3:19.",
-        "*Johannes pidätetään*: Mt 14:3; Mc 1:14,6:17; Lc 3:19.",
-        "*Johanneksen opetuslasten kysymykset*: Jn 3:25-36a.",
-        "*Lisää kysymyksiä Johannekselta*: Mt 11:2-6; Lc 7:19-23.",
-        "*Herodes ja Johannes*: Mt 14:3-5; Mc 6:17-19.",
-        "*Johannes kohtaa Herodeksen*: Mc 6:20.",
-        "*Herodeksen syntymäpäiväjuhla*: Mt 14:6a; Mc 6:21."
+        "*Messias hallitsee taivaassa ja maan päällä*: Matt 6:10; Luuk 11:2.",
+        "*Uusi taivas ja uusi maa*: Jes 65:17; Jes 66:22; Ilm 21:1.",
+        "*Ihmisen Poika*: Hes 2:1,3,6,8; Hes 3:1-4,10,17; Dan 7:13,14; Matt 8:20; Mark 2:10; Luuk 5:24; Joh 1:51; Ilm 1:13; Ilm 14:14; 1 Hen 46:1-6; 1 Hen 48:1-7; 1 Hen 60:10; 1 Hen 62:1-14; 1 Hen 63:11; 1 Hen 69:26-29; 1 Hen 70:1-2; 1 Hen 71:14,16.",
+        "*Johannes saarnasi parannusta*: Matt 3:2; Mark 1:4.",
+        "*Johanneksen ilmoitus*: Matt 3:3; Mark 1:2-8; Luuk 3:2-6.",
+        "*Pakene tulevaa vihaa*: Matt 3:7; Luuk 3:7.",
+        "*Johannes alkaa saarnata*: Matt 3:1; Mark 1:4,7-8; Luuk 3:2-3.",
+        "*Israelin lohdutus*: Luuk 2:25.",
+        "*Valtakunnan palauttaminen*: Apt 1:6.",
+        "*Taivasten valtakunta on käsillä*: Matt 3:2; Mark 1:15.",
+        "*Elian henki ja voima*: Luuk 1:17.",
+        "*Kastakaa syntien anteeksiantamiseksi*: Matt 3:5-6; Mark 1:4-5; Luuk 3:3.",
+        "*Johanneksen saarna*: Joh 1:28.",
+        "*Valtuuskunnan kysely*: Joh 1:19-27.",
+        "*Johanneksen vastaus*: Jes 40:3-5; Matt 3:3; Mark 1:2-3; Luuk 3:4-5; Joh 1:23.",
+        "*Johanneksen tahditon viesti*: Matt 3:7-10; Luuk 3:7-9.",
+        "*Arvokas hedelmä*: Matt 7:16-20; Matt 12:33-34; Luuk 3:9-10; Luuk 6:43-44; Joh 15:2.",
+        "*Kaksitoista muistokiveä*: Joos 4:1-9.",
+        "*Johanneksen opetuslapsille järjestämät oppitunnit*: Luuk 3:10-11.",
+        "*Oppitunti veronkantajille*: Luuk 3:12-13.",
+        "*Oppitunti sotilaille*: Luuk 3:14.",
+        "*Oppitunti kaikille*: Matt 3:2; Mark 1:15.",
+        "*Johannes hämmentynyt valtakunnasta*: Joh 1:31a.",
+        "*Johannes vaan Messiaan edelläkävijä*: Matt 3:11-12; Mark 1:7-8; Luuk 3:16-17; Joh 1:26-27.",
+        "*Johannes kieltää olevansa Messias*: Matt 3:11; Mark 1:7-8; Luuk 3:15-17; Joh 1:24-26.",
+        "*Kadu ja kaste*: Luuk 3:3.",
+        "*Johannes saapuu Pellaan*: Joh 1:28.",
+        "*Jeesus menee Pellaan*: Mark 1:9; Luuk 3:21; Joh 1:29.",
+        "*Johanneksen vastalause*: Matt 3:14-15.",
+        "*Jeesuksen kaste ja Jumalan ääni*: Matt 3:16-17; Mark 1:10-11; Luuk 3:22; Joh 1:32-34.",
+        "*Neljäkymmentä päivää yksin*: Matt 4:1-11; Mark 1:12-13; Luuk 4:1-13.",
+        "*Gabrielin vierailu Isabelin luona*: Luuk 1:11-19,24-25.",
+        "*Nyt tiedän varmasti*: Joh 1:34.",
+        "*Jeesus kertoi Gabrielin vierailusta Marian luona*: Luuk 1:26-38.",
+        "*Valtuuskunnan kysymykset*: Joh 1:19-21; Joh 1:24-26.",
+        "*Joosuan hyökkäys*: Joos 12:7-24.",
+        "*Johanneksen ilmoitus*: Mark 1:7; Joh 1:29-32. *Laskeutuva henki ja ääni*: Matt 3:16-17; Mark 1:10-11; Luuk 3:21-22.",
+        "*Jeesus lähtee Galileaan*: Luuk 4:14; Joh 1:43a.",
+        "*Johannes hyökkää Herodeksen kimppuun*: Matt 14:3b-4; Mark 6:17b-19; Luuk 3:19.",
+        "*Johannes pidätetään*: Matt 14:3; Mark 1:14,6:17; Luuk 3:19.",
+        "*Johanneksen opetuslasten kysymykset*: Joh 3:25-36a.",
+        "*Lisää kysymyksiä Johannekselta*: Matt 11:2-6; Luuk 7:19-23.",
+        "*Herodes ja Johannes*: Matt 14:3-5; Mark 6:17-19.",
+        "*Johannes kohtaa Herodeksen*: Mark 6:20.",
+        "*Herodeksen syntymäpäiväjuhla*: Matt 14:6a; Mark 6:21."
     ],
     "paper_title": "Johannes Kastaja"
 }

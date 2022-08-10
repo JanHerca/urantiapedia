@@ -8,7 +8,7 @@
                 {
                     "par_ref": "113:0.1",
                     "par_pageref": "1241.1",
-                    "par_content": "KERTOMUKSET ajallisuuden hoivaavista hengistä ja avaruuden sanansaattajajoukoista esitettyämme otamme nyt tarkastelumme kohteeksi suojelusenkelit. Nämä serafit ovat omistautuneet hoivaamaan niitä yksittäisiä kuolevaisia, joiden ylevöitymiseksi ja täydellistymiseksi koko valtava hengelliseen edistymiseen tähtäävä eloonjäämisjärjestelmä on laadittu. Urantian menneinä aikoina nämä kohtalonsuojelijat olivat lähestulkoon ainoa tunnettu enkeliryhmä. Planetaariset serafit ovat todellakin hoivaavia henkiä, ja heidät on lähetetty matkaan suorittamaan palveluksia niille, jotka jäävät eloon. Nämä palvelevat serafit ovat toimineet kuolevaisen ihmisen hengellisinä auttajina kaikissa menneisyyden ja nykyisyyden suurtapahtumissa{0}. Monen ilmoituksen suhteen pitää paikkansa, että ”sanoma lausuttiin enkelten suulla”; monet taivaasta tulleet käskyt on ”saatu enkelien toimen kautta”."
+                    "par_content": "KERTOMUKSET ajallisuuden hoivaavista hengistä ja avaruuden sanansaattajajoukoista esitettyämme otamme nyt tarkastelumme kohteeksi suojelusenkelit. Nämä serafit ovat omistautuneet hoivaamaan niitä yksittäisiä kuolevaisia, joiden ylevöitymiseksi ja täydellistymiseksi koko valtava hengelliseen edistymiseen tähtäävä eloonjäämisjärjestelmä on laadittu. Urantian menneinä aikoina nämä kohtalonsuojelijat olivat lähestulkoon ainoa tunnettu enkeliryhmä. Planetaariset serafit ovat todellakin hoivaavia henkiä, ja heidät on lähetetty matkaan suorittamaan palveluksia niille, jotka jäävät eloon. Nämä palvelevat serafit ovat toimineet kuolevaisen ihmisen hengellisinä auttajina kaikissa menneisyyden ja nykyisyyden suurtapahtumissa{0}{1}. Monen ilmoituksen suhteen pitää paikkansa, että ”sanoma lausuttiin enkelten suulla”; monet taivaasta tulleet käskyt on ”saatu enkelien toimen kautta”."
                 },
                 {
                     "par_ref": "113:0.2",
@@ -25,7 +25,7 @@
                 {
                     "par_ref": "113:1.1",
                     "par_pageref": "1241.3",
-                    "par_content": "Oppi suojelusenkeleistä ei ole mikään myytti, sillä tietyillä ihmisryhmillä tosiaankin on henkilökohtaiset enkelinsä{2}. Juuri tästä seikasta tietoisena Jeesus taivaan valtakunnan lapsista puhuessaan sanoi: ”Katsokaakin, ettette halveksu yhtäkään näistä pienistä, sillä minä sanon teille, että heidän enkelinsä näkevät aina minun Isäni hengen läsnäolon.”"
+                    "par_content": "Oppi suojelusenkeleistä ei ole mikään myytti, sillä tietyillä ihmisryhmillä tosiaankin on henkilökohtaiset enkelinsä{2}. Juuri tästä seikasta tietoisena Jeesus taivaan valtakunnan lapsista puhuessaan sanoi: ”Katsokaakin, ettette halveksu yhtäkään näistä pienistä, sillä minä sanon teille, että heidän enkelinsä näkevät aina minun Isäni hengen läsnäolon{3}.”"
                 },
                 {
                     "par_ref": "113:1.2",
@@ -338,13 +338,13 @@
         }
     ],
     "footnotes": [
-        "*Enkelien puhuma sana*: Heb 2:2.",
-        "*Enkelien toimesta vastaanotettu*: Hch 7:53.",
+        "*Enkelien puhuma sana*: Hepr 2:2.",
+        "*Enkelien toimesta vastaanotettu*: Apt 7:53.",
         "*Suojelusenkelit*: Bar 6:7.",
-        "*Älkää halveksiko pieniä*: Mt 18:10.",
-        "*Lähettäkää enkeleitä keräämään valittuja*: Mt 24:31; Mc 13:27.",
-        "*Vääräuskoisten ylösnousemus*: Hch 24:15.",
-        "*Luotu alemmaksi kuin enkelit*: Sal 8:4-5; Heb 2:6-7."
+        "*Älkää halveksiko pieniä*: Matt 18:10.",
+        "*Lähettäkää enkeleitä keräämään valittuja*: Matt 24:31; Mark 13:27.",
+        "*Vääräuskoisten ylösnousemus*: Apt 24:15.",
+        "*Luotu alemmaksi kuin enkelit*: Ps 8:4-5; Hepr 2:6-7."
     ],
     "paper_title": "Kohtalonsuojelijaserafit"
 }

@@ -30,7 +30,7 @@
                 {
                     "par_ref": "90:1.1",
                     "par_pageref": "986.4",
-                    "par_content": "Shamaani oli johtava poppamies, seremoniaalinen fetissi-ihminen ja kehitysuskonnon kaikkien toimitusten keskuspersoonallisuus. Monien ryhmien keskuudessa shamaani oli arvoasteikossa sotapäällikköä ylempänä, mikä merkitsi alkavaa kirkon ylivaltaa valtioon nähden. Toisinaan shamaani toimi pappina ja jopa pappiskuninkaana{0}. Joillakin myöhempien aikojen heimoilla oli sekä aikaisempien aikojen shamaanipoppamiehiä (tietäjiä) että myöhemmin ilmaantuneita shamaanipappeja. Ja monissa tapauksissa shamaanin virasta tuli perinnöllinen."
+                    "par_content": "Shamaani oli johtava poppamies, seremoniaalinen fetissi-ihminen ja kehitysuskonnon kaikkien toimitusten keskuspersoonallisuus. Monien ryhmien keskuudessa shamaani oli arvoasteikossa sotapäällikköä ylempänä, mikä merkitsi alkavaa kirkon ylivaltaa valtioon nähden. Toisinaan shamaani toimi pappina ja jopa pappiskuninkaana{0}. Joillakin myöhempien aikojen heimoilla oli sekä aikaisempien aikojen shamaanipoppamiehiä (tietäjiä) että myöhemmin ilmaantuneita shamaanipappeja{1}. Ja monissa tapauksissa shamaanin virasta tuli perinnöllinen."
                 },
                 {
                     "par_ref": "90:1.2",
@@ -87,7 +87,7 @@
                 {
                     "par_ref": "90:2.5",
                     "par_pageref": "988.1",
-                    "par_content": "Poppamiehet luottivat suuresti merkkeihin ja enteisiin, sellaisiin kuin ”Milloin kuulette kahinaa silkkiäispuiden latvuksista, silloin herätkää toimimaan{3}.” Jo ihmisrodun historian alkuaikoina shamaanit kohdistivat huomionsa taivaan tähtiin. Alkeelliseen astrologiaan uskottiin, ja sitä harjoitettiin maailmanlaajuisesti; unientulkitseminen levisi niin ikään laajalle. Eikä aikaakaan, kun kaiken tämän jälkeen ilmaantuivat temperamentikkaat shamaanittaret, jotka vakuuttivat, että heillä oli kyky pitää yhteyttä vainajahenkiin."
+                    "par_content": "Poppamiehet luottivat suuresti merkkeihin ja enteisiin, sellaisiin kuin ”Milloin kuulette kahinaa silkkiäispuiden latvuksista, silloin herätkää toimimaan{3}.” Jo ihmisrodun historian alkuaikoina shamaanit kohdistivat huomionsa taivaan tähtiin. Alkeelliseen astrologiaan uskottiin, ja sitä harjoitettiin maailmanlaajuisesti; unientulkitseminen levisi niin ikään laajalle{4}. Eikä aikaakaan, kun kaiken tämän jälkeen ilmaantuivat temperamentikkaat shamaanittaret, jotka vakuuttivat, että heillä oli kyky pitää yhteyttä vainajahenkiin{5}."
                 },
                 {
                     "par_ref": "90:2.6",
@@ -258,7 +258,7 @@
                 {
                     "par_ref": "90:5.3",
                     "par_pageref": "992.4",
-                    "par_content": "Sanoista tulee rituaalin osa, niin kuin ”aamen” ja ”seela” -sanojen käyttö osoittaa{8}. Kiroilemisen tapa, rienaaminen, edustaa pyhien nimien entisen, rituaaliin kuuluneen toistamisen arvotonta käyttöä. Pyhiinvaellusten tekeminen pyhiin temppeleihin on ikivanha rituaali. Seuraavaksi rituaali muuttui monimutkaisiksi puhdistautumis-, peseytymis- ja pyhittäytymisseremonioiksi. Heimojen alkukantaisten salaseurojen vihkimysmenot olivat todellisuudessa karkea uskonnollinen riitti. Ammoisten mysteerikulttien palvontamenetelmä oli vain kertyneen uskonnollisen rituaalin pitkä yhtäjaksoinen esitys. Lopulta rituaalista kehittyivät nykyisentyyppinen sosiaalinen seremonianormisto ja uskonnollinen palvonta, meno, johon sisältyy rukoilua, laulua, vuoroluentaa sekä muita yksittäin tai ryhmässä suoritettavia hartaudenharjoituksia."
+                    "par_content": "Sanoista tulee rituaalin osa, niin kuin ”aamen” ja ”seela” -sanojen käyttö osoittaa{8}{9}. Kiroilemisen tapa, rienaaminen, edustaa pyhien nimien entisen, rituaaliin kuuluneen toistamisen arvotonta käyttöä. Pyhiinvaellusten tekeminen pyhiin temppeleihin on ikivanha rituaali. Seuraavaksi rituaali muuttui monimutkaisiksi puhdistautumis-, peseytymis- ja pyhittäytymisseremonioiksi{10}{11}{12}. Heimojen alkukantaisten salaseurojen vihkimysmenot olivat todellisuudessa karkea uskonnollinen riitti. Ammoisten mysteerikulttien palvontamenetelmä oli vain kertyneen uskonnollisen rituaalin pitkä yhtäjaksoinen esitys. Lopulta rituaalista kehittyivät nykyisentyyppinen sosiaalinen seremonianormisto ja uskonnollinen palvonta, meno, johon sisältyy rukoilua, laulua, vuoroluentaa sekä muita yksittäin tai ryhmässä suoritettavia hartaudenharjoituksia."
                 },
                 {
                     "par_ref": "90:5.4",
@@ -294,19 +294,19 @@
         }
     ],
     "footnotes": [
-        "*Shamaanit (papit)*: Ex 2:16; Ex 28:1-43; Ex 29:4-9,29; Nm 18:1-10.",
-        "*näkijät*: 2 Re 17:13; 1 Cr 29:29; 1 Sam 9:8-11,18-19; 2 Sam 15:27.",
-        "*Noituus*: Ex 22:18; Dt 18:10-12; 1 Sam 15:23.",
-        "*Kun kuulet tuulen äänen*: 1 Cr 14:15; 2 Sam 5:24.",
-        "*Astrologia*: Is 47:13; Dn 2:2; Am 5:26; Mt 2:7,9-10.",
+        "*Shamaanit (papit)*: 2 Moos 2:16; 2 Moos 28:1-43; 2 Moos 29:4-9,29; 4 Moos 18:1-10.",
+        "*näkijät*: 2 Kun 17:13; 1 Aik 29:29; 1 Sam 9:8-11,18-19; 2 Sam 15:27.",
+        "*Noituus*: 2 Moos 22:18; 5 Moos 18:10-12; 1 Sam 15:23.",
+        "*Kun kuulet tuulen äänen*: 1 Aik 14:15; 2 Sam 5:24.",
+        "*Astrologia*: Jes 47:13; Dan 2:2; Aam 5:26; Matt 2:7,9-10.",
         "*Shamaanit*: 1 Sam 28:7-19.",
-        "*Onnen tähdet*: Mt 2:2.",
-        "*Kaikkivaltiaan nuolet*: Job 6:4; Sal 38:1-2.",
-        "*”Aamen” rituaalina*: Nm 5:22.",
-        "*”Selah” rituaalina*: Sal 3:2.",
-        "*Puhdista: (Punaisen hiehon rituaali)*: Nm 19:1-22. *alttarin*: Lv 8:15. *sodassa saadusta saaliista*: Nm 31:12-24. *pappien vaatteista*: Ex 29:4. *tabernaakkelista*: Ex 29:41-44. *synnyttäneestä naisesta*: Lv 12:1-7.",
-        "*Puhdista: seurakunnan synneistä*: Lv 4:13-21. *yksilön synneistä*: Lv 5:1-13. *spitaalista*: Lv 14:2-11. *synneistä*: Lv 6:8-18.",
-        "*Pyhittää voitelemalla*: Ex 40:9-11. *Herran kautta*: Lv 22:9,16. *ensisyntyneistä miehistä*: Ex 13:2. *ihmisistä*: Ex 19:10,14. *majan ja alueen*: Ex 29:41-44."
+        "*Onnen tähdet*: Matt 2:2.",
+        "*Kaikkivaltiaan nuolet*: Job 6:4; Ps 38:1-2.",
+        "*”Aamen” rituaalina*: 4 Moos 5:22.",
+        "*”Selah” rituaalina*: Ps 3:2.",
+        "*Puhdista: (Punaisen hiehon rituaali)*: 4 Moos 19:1-22. *alttarin*: 3 Moos 8:15. *sodassa saadusta saaliista*: 4 Moos 31:12-24. *pappien vaatteista*: 2 Moos 29:4. *tabernaakkelista*: 2 Moos 29:41-44. *synnyttäneestä naisesta*: 3 Moos 12:1-7.",
+        "*Puhdista: seurakunnan synneistä*: 3 Moos 4:13-21. *yksilön synneistä*: 3 Moos 5:1-13. *spitaalista*: 3 Moos 14:2-11. *synneistä*: 3 Moos 6:8-18.",
+        "*Pyhittää voitelemalla*: 2 Moos 40:9-11. *Herran kautta*: 3 Moos 22:9,16. *ensisyntyneistä miehistä*: 2 Moos 13:2. *ihmisistä*: 2 Moos 19:10,14. *majan ja alueen*: 2 Moos 29:41-44."
     ],
     "paper_title": "Shamanismi — poppamiehet ja papit"
 }

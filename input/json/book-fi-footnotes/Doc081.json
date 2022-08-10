@@ -40,7 +40,7 @@
                 {
                     "par_ref": "81:1.4",
                     "par_pageref": "900.6",
-                    "par_content": "Koska ensimmäiset viljelijät käyttivät varsin yleisesti orjatyövoimaa, sekä metsästäjä että karjapaimen suhtautuivat entiseen aikaan viljelijään halveksuvasti. Iät ja ajat maan viljelemistä pidettiin toisarvoisena puuhana{0}. Siitä johtui ajatus, että maatyö oli kirous, vaikka se päinvastoin on kaikista siunauksista suurin. Vielä Kainin ja Aabelin aikana paimentolaisten antamia uhreja pidettiin suuremmassa arvossa kuin viljelijäväestön tuomia uhrilahjoja."
+                    "par_content": "Koska ensimmäiset viljelijät käyttivät varsin yleisesti orjatyövoimaa, sekä metsästäjä että karjapaimen suhtautuivat entiseen aikaan viljelijään halveksuvasti. Iät ja ajat maan viljelemistä pidettiin toisarvoisena puuhana{0}. Siitä johtui ajatus, että maatyö oli kirous, vaikka se päinvastoin on kaikista siunauksista suurin{1}. Vielä Kainin ja Aabelin aikana paimentolaisten antamia uhreja pidettiin suuremmassa arvossa kuin viljelijäväestön tuomia uhrilahjoja."
                 },
                 {
                     "par_ref": "81:1.5",
@@ -571,9 +571,9 @@
         }
     ],
     "footnotes": [
-        "*Alempiarvoinen työ*: Gn 3:17-19.",
-        "*Mieluiten pastoraaliset tarjoukset*: Gn 4:2-5.",
-        "*Yksi kieli*: Gn 11:1-9."
+        "*Alempiarvoinen työ*: 1 Moos 3:17-19.",
+        "*Mieluiten pastoraaliset tarjoukset*: 1 Moos 4:2-5.",
+        "*Yksi kieli*: 1 Moos 11:1-9."
     ],
     "paper_title": "Nykysivilisaation kehittyminen"
 }

@@ -25,7 +25,7 @@
                 {
                     "par_ref": "121:1.2",
                     "par_pageref": "1332.3",
-                    "par_content": "Hyvänä esimerkkinä kaikkien näiden maailmassa vaikuttaneiden tekijöiden yhteensattumisesta ovat Paavalin toimet{0}. Uskonnolliselta kulttuuriltaan heprealaisista heprealaisin Paavali julisti kreikan kielellä evankeliumia juutalaisesta Messiaasta ja oli itse Rooman kansalainen."
+                    "par_content": "Hyvänä esimerkkinä kaikkien näiden maailmassa vaikuttaneiden tekijöiden yhteensattumisesta ovat Paavalin toimet{0}{1}{2}. Uskonnolliselta kulttuuriltaan heprealaisista heprealaisin Paavali julisti kreikan kielellä evankeliumia juutalaisesta Messiaasta ja oli itse Rooman kansalainen."
                 },
                 {
                     "par_ref": "121:1.3",
@@ -92,7 +92,7 @@
                 {
                     "par_ref": "121:2.5",
                     "par_pageref": "1333.7",
-                    "par_content": "Jokainen juutalaisten synagoga suvaitsi liepeillään ryhmää ei-juutalaisia eli gentiilejä uskovaisia, ”hurskaita” eli ”Jumalaa pelkääväisiä” ihmisiä, ja juuri tästä proselyyteiksi kutsuttujen ryhmästä Paavali sai pääosan ensimmäisistä kristinuskoonkääntyjistään{3}. Olipa Jerusaleminkin temppelissä oma gentiileille tarkoitettu koristeellinen pihansa. Jerusalemin ja Antiokian kulttuurin, kaupan ja uskonharjoituksen välillä vallitsi varsin läheinen yhteys. Antiokiassa Paavalin opetuslapsia kutsuttiin ensi kertaa ”kristityiksi”."
+                    "par_content": "Jokainen juutalaisten synagoga suvaitsi liepeillään ryhmää ei-juutalaisia eli gentiilejä uskovaisia, ”hurskaita” eli ”Jumalaa pelkääväisiä” ihmisiä, ja juuri tästä proselyyteiksi kutsuttujen ryhmästä Paavali sai pääosan ensimmäisistä kristinuskoonkääntyjistään{3}{4}. Olipa Jerusaleminkin temppelissä oma gentiileille tarkoitettu koristeellinen pihansa. Jerusalemin ja Antiokian kulttuurin, kaupan ja uskonharjoituksen välillä vallitsi varsin läheinen yhteys. Antiokiassa Paavalin opetuslapsia kutsuttiin ensi kertaa ”kristityiksi”{5}."
                 },
                 {
                     "par_ref": "121:2.6",
@@ -206,7 +206,7 @@
                 {
                     "par_ref": "121:4.3",
                     "par_pageref": "1336.1",
-                    "par_content": "2. *Stoalainen.* Stoalaisuus oli verraton parempien yhteiskuntaluokkien filosofia. Stoalaiset uskoivat, että kaikkea luontoa hallitsi valvova Järki-Kohtalo. He opettivat, että ihmisen sielu oli jumalallinen, että sielu oli teljettynä fyysistä luontoa olevaan pahaan ruumiiseen. Ihmisen sielu saavutti vapauden eläessään sopusoinnussa luonnon kanssa, Jumalan kanssa; näin hyve tuli olemaan itsensä palkkio. Stoalaisuus ylsi ylevään moraalisuuteen, ihanteisiin, joita ei mikään puhtaasti ihmisperäinen filosofian järjestelmä ole sen koommin ylittänyt. Vaikka stoalaiset tunnustautuivatkin ”Jumalan jälkeläisiksi”, he eivät kuitenkaan tunteneet häntä eivätkä niin ollen löytäneet häntä{9}. Stoalaisuus jäi filosofiaksi, siitä ei koskaan tullut uskontoa. Sen kannattajat koettivat virittää mielensä Universaalisen Mielen harmoniaan, mutta he eivät kyenneet näkemään itseään rakastavan Isän lapsiksi. Paavali oli vahvasti stoalaisuuteen päin kallellaan kirjoittaessaan: ”Olipa tilani mikä hyvänsä, olen oppinut siihen tyytymään.”"
+                    "par_content": "2. *Stoalainen.* Stoalaisuus oli verraton parempien yhteiskuntaluokkien filosofia. Stoalaiset uskoivat, että kaikkea luontoa hallitsi valvova Järki-Kohtalo. He opettivat, että ihmisen sielu oli jumalallinen, että sielu oli teljettynä fyysistä luontoa olevaan pahaan ruumiiseen. Ihmisen sielu saavutti vapauden eläessään sopusoinnussa luonnon kanssa, Jumalan kanssa; näin hyve tuli olemaan itsensä palkkio. Stoalaisuus ylsi ylevään moraalisuuteen, ihanteisiin, joita ei mikään puhtaasti ihmisperäinen filosofian järjestelmä ole sen koommin ylittänyt. Vaikka stoalaiset tunnustautuivatkin ”Jumalan jälkeläisiksi”, he eivät kuitenkaan tunteneet häntä eivätkä niin ollen löytäneet häntä{9}. Stoalaisuus jäi filosofiaksi, siitä ei koskaan tullut uskontoa. Sen kannattajat koettivat virittää mielensä Universaalisen Mielen harmoniaan, mutta he eivät kyenneet näkemään itseään rakastavan Isän lapsiksi. Paavali oli vahvasti stoalaisuuteen päin kallellaan kirjoittaessaan: ”Olipa tilani mikä hyvänsä, olen oppinut siihen tyytymään{10}.”"
                 },
                 {
                     "par_ref": "121:4.4",
@@ -283,7 +283,7 @@
                 {
                     "par_ref": "121:5.11",
                     "par_pageref": "1337.7",
-                    "par_content": "4. Mutta olivatpa näiden mysteerien seremoniat luonteeltaan mitä hyvänsä, olivatpa niiden kohtuuttomuudet minkämääräisiä tahansa, siitä huolimatta ne poikkeuksetta lupasivat harjoittajilleen *pelastuksen,* ”vapahduksen pahasta, kuolemanjälkeisen eloonjäämisen ja jatkuvan elämän autuuden maailmoissa tämän murheen ja orjuuden maailman tuolla puolen”{11}."
+                    "par_content": "4. Mutta olivatpa näiden mysteerien seremoniat luonteeltaan mitä hyvänsä, olivatpa niiden kohtuuttomuudet minkämääräisiä tahansa, siitä huolimatta ne poikkeuksetta lupasivat harjoittajilleen *pelastuksen,* ”vapahduksen pahasta, kuolemanjälkeisen eloonjäämisen ja jatkuvan elämän autuuden maailmoissa tämän murheen ja orjuuden maailman tuolla puolen”{11}{12}{13}{14}."
                 },
                 {
                     "par_ref": "121:5.12",
@@ -402,7 +402,7 @@
                 {
                     "par_ref": "121:7.5",
                     "par_pageref": "1340.3",
-                    "par_content": "Nämä olosuhteet tekivät juutalaisille mahdottomaksi täyttää jumalallista osaansa uuden, uskonnollisesta vapahduksesta ja hengellisestä vapaudesta kertovan evankeliumin sanansaattajina. He eivät kyenneet murtamaan perinteiden kahleita. Jeremia oli kertonut ”laista, joka kirjoitettaisiin ihmisten sydämiin”, Hesekiel oli puhunut ”uudesta hengestä, joka eläisi ihmisen sielussa”, ja psalmista oli rukoillut, että Jumala ”loisi sisimpäämme puhtaan sydämen ja herättäisi oikean hengen{15}.” Mutta kun hyviin tekoihin ja lain orjuuteen perustuva juutalainen uskonto joutui traditionalistisen jähmeyden aiheuttaman pysähtyneisyyden uhriksi, uskonnollisen kehityksen liikevoima siirtyi kohti länttä, Euroopan kansojen pariin."
+                    "par_content": "Nämä olosuhteet tekivät juutalaisille mahdottomaksi täyttää jumalallista osaansa uuden, uskonnollisesta vapahduksesta ja hengellisestä vapaudesta kertovan evankeliumin sanansaattajina. He eivät kyenneet murtamaan perinteiden kahleita. Jeremia oli kertonut ”laista, joka kirjoitettaisiin ihmisten sydämiin”, Hesekiel oli puhunut ”uudesta hengestä, joka eläisi ihmisen sielussa”, ja psalmista oli rukoillut, että Jumala ”loisi sisimpäämme puhtaan sydämen ja herättäisi oikean hengen{15}.” Mutta kun hyviin tekoihin ja lain orjuuteen perustuva juutalainen uskonto joutui traditionalistisen jähmeyden aiheuttaman pysähtyneisyyden uhriksi, uskonnollisen kehityksen liikevoima siirtyi kohti länttä, Euroopan kansojen pariin{16}{17}."
                 },
                 {
                     "par_ref": "121:7.6",
@@ -464,7 +464,7 @@
                 {
                     "par_ref": "121:8.4",
                     "par_pageref": "1341.5",
-                    "par_content": "2. *Matteuksen evankeliumi.* Niin kutsuttu evankeliumi Matteuksen mukaan on Mestarin elämää käsittelevä esitys, joka kirjoitettiin juutalaiskristittyjen mielenylennykseksi. Kyseisen esityksen laatija pyrkii Jeesuksen elämän osalta alituiseen osoittamaan, että suuri osa hänen tekemisistään tapahtui, ”jotta profeetan sanat kävisivät toteen{18}.” Matteuksen evankeliumi esittää Jeesuksen Daavidin poikana ja kuvaa hänet lakia ja profeettoja suuresti kunnioittavana."
+                    "par_content": "2. *Matteuksen evankeliumi.* Niin kutsuttu evankeliumi Matteuksen mukaan on Mestarin elämää käsittelevä esitys, joka kirjoitettiin juutalaiskristittyjen mielenylennykseksi. Kyseisen esityksen laatija pyrkii Jeesuksen elämän osalta alituiseen osoittamaan, että suuri osa hänen tekemisistään tapahtui, ”jotta profeetan sanat kävisivät toteen{18}.” Matteuksen evankeliumi esittää Jeesuksen Daavidin poikana ja kuvaa hänet lakia ja profeettoja suuresti kunnioittavana{19}."
                 },
                 {
                     "par_ref": "121:8.5",
@@ -484,7 +484,7 @@
                 {
                     "par_ref": "121:8.8",
                     "par_pageref": "1342.3",
-                    "par_content": "3. *Luukkaan evankeliumi.* Pisidian Antiokiasta kotoisin ollut lääkäri Luukas oli Paavalin käännyttämä ei-juutalainen, ja hän kirjoitti Mestarin elämästä aivan erilaisen tarinan. Hän alkoi kulkea Paavalin mukana vuonna 47 jKr, ja sai tässä yhteydessä kuulla Jeesuksen elämästä ja opetuksista. Luukas säilyttää omassa kirjoituksessaan paljon aineistoa, joka kertoo ”Herran Jeesuksen Kristuksen armeliaisuudesta” siinä muodossa, jossa hän nämä tiedot Paavalilta ja muilta keräsi{20}. Luukas tuo esille Mestarin, joka oli ”publikaanien ja syntisten ystävä”. Hän muotoili kirjoittamansa monet muistiinmerkinnät evankeliumiksi vasta Paavalin kuoleman jälkeen. Luukas kirjoitti evankeliuminsa vuonna 82 Akaiassa. Hän suunnitteli kolmea kirjaa, jotka käsittelisivät Kristuksen ja kristinuskon historiaa, mutta hän kuoli vuonna 90 jKr, juuri kun hän olisi saanut valmiiksi toisen näistä teoksista, ”Apostolien teot”."
+                    "par_content": "3. *Luukkaan evankeliumi.* Pisidian Antiokiasta kotoisin ollut lääkäri Luukas oli Paavalin käännyttämä ei-juutalainen, ja hän kirjoitti Mestarin elämästä aivan erilaisen tarinan. Hän alkoi kulkea Paavalin mukana vuonna 47 jKr, ja sai tässä yhteydessä kuulla Jeesuksen elämästä ja opetuksista. Luukas säilyttää omassa kirjoituksessaan paljon aineistoa, joka kertoo ”Herran Jeesuksen Kristuksen armeliaisuudesta” siinä muodossa, jossa hän nämä tiedot Paavalilta ja muilta keräsi{20}. Luukas tuo esille Mestarin, joka oli ”publikaanien ja syntisten ystävä”{21}. Hän muotoili kirjoittamansa monet muistiinmerkinnät evankeliumiksi vasta Paavalin kuoleman jälkeen. Luukas kirjoitti evankeliuminsa vuonna 82 Akaiassa. Hän suunnitteli kolmea kirjaa, jotka käsittelisivät Kristuksen ja kristinuskon historiaa, mutta hän kuoli vuonna 90 jKr, juuri kun hän olisi saanut valmiiksi toisen näistä teoksista, ”Apostolien teot”."
                 },
                 {
                     "par_ref": "121:8.9",
@@ -520,28 +520,28 @@
         }
     ],
     "footnotes": [
-        "*Paavali, heprealainen heprealainen*: 2 Co 11:22; Flp 3:5.",
-        "*Paavali puhui kreikan kielellä*: Hch 21:37-40; Hch 22:2-3.",
-        "*Paavali oli Rooman kansalainen*: Hch 16:37-39; Hch 22:24-29.",
-        "*”hurskas” ei-juutalainen*: Hch 10:7; Hch 17:4,17.",
-        "*”jumalaapelkäävä” ei-juutalainen*: Hch 10:2,22.",
-        "*Ensimmäiset kristityt Antiokiassa*: Hch 11:26.",
-        "*Useimmat juutalaiset odottivat Messiasta*: Lc 3:15.",
-        "*Valittu kansa*: 1 Re 3:8; 1 Cr 17:21-22; Sal 33:12; Sal 105:6,43; Sal 135:4; Is 41:8-9; Is 43:21; Is 44:1; Dt 7:6; Dt 14:2.",
-        "*Kuningas Herodes*: Mt 2:1; Lc 1:5a.",
-        "*Stoalaiset ”Jumalan jälkeläisiä”*: Hch 17:28-29.",
-        "*Opettele olemaan tyytyväinen*: Flp 4:11.",
-        "*Vapautus pahasta*: Job 5:19; Sal 140:1; Pr 2:12; Mt 6:13; Lc 11:4; Gl 1:4; 2 Ti 4:18.",
-        "*Kuolemasta selviytyminen: ylösnousemus*: Mt 22:30-33; Mt 27:52-53; Mc 12:24-27; Lc 14:14; Lc 20:35-38; Jn 5:28-29.",
-        "*Autuaat valtakunnat*: Jn 14:2-3; Ap 3:12; Ap 21:2-4.",
-        "*Elämä kuoleman jälkeen*: Dn 12:2; Mt 19:16,29; Mt 25:46; Mc 10:17,30; Lc 10:25; Lc 18:18,30; Jn 3:15-16,36; Jn 4:14,36; Jn 5:24,39; Jn 6:27,40,47; Jn 6:54,68; Jn 8:51-52; Jn 10:28; Jn 11:25-26; Jn 12:25,50; Jn 17:2-3; Hch 13:46-48; Ro 2:7; Ro 5:21; Ro 6:22-23; Gl 6:8; 1 Ti 1:16; 1 Ti 6:12,19; Tit 1:2; Tit 3:7; 1 Jn 1:2; 1 Jn 2:25; 1 Jn 3:15; 1 Jn 5:11,13,20; Jud 1:21; Ap 22:5.",
+        "*Paavali, heprealainen heprealainen*: 2 Kor 11:22; Fil 3:5.",
+        "*Paavali puhui kreikan kielellä*: Apt 21:37-40; Apt 22:2-3.",
+        "*Paavali oli Rooman kansalainen*: Apt 16:37-39; Apt 22:24-29.",
+        "*”hurskas” ei-juutalainen*: Apt 10:7; Apt 17:4,17.",
+        "*”jumalaapelkäävä” ei-juutalainen*: Apt 10:2,22.",
+        "*Ensimmäiset kristityt Antiokiassa*: Apt 11:26.",
+        "*Useimmat juutalaiset odottivat Messiasta*: Luuk 3:15.",
+        "*Valittu kansa*: 1 Kun 3:8; 1 Aik 17:21-22; Ps 33:12; Ps 105:6,43; Ps 135:4; Jes 41:8-9; Jes 43:21; Jes 44:1; 5 Moos 7:6; 5 Moos 14:2.",
+        "*Kuningas Herodes*: Matt 2:1; Luuk 1:5a.",
+        "*Stoalaiset ”Jumalan jälkeläisiä”*: Apt 17:28-29.",
+        "*Opettele olemaan tyytyväinen*: Fil 4:11.",
+        "*Vapautus pahasta*: Job 5:19; Ps 140:1; Sananl 2:12; Matt 6:13; Luuk 11:4; Gal 1:4; 2 Tim 4:18.",
+        "*Kuolemasta selviytyminen: ylösnousemus*: Matt 22:30-33; Matt 27:52-53; Mark 12:24-27; Luuk 14:14; Luuk 20:35-38; Joh 5:28-29.",
+        "*Autuaat valtakunnat*: Joh 14:2-3; Ilm 3:12; Ilm 21:2-4.",
+        "*Elämä kuoleman jälkeen*: Dan 12:2; Matt 19:16,29; Matt 25:46; Mark 10:17,30; Luuk 10:25; Luuk 18:18,30; Joh 3:15-16,36; Joh 4:14,36; Joh 5:24,39; Joh 6:27,40,47; Joh 6:54,68; Joh 8:51-52; Joh 10:28; Joh 11:25-26; Joh 12:25,50; Joh 17:2-3; Apt 13:46-48; Room 2:7; Room 5:21; Room 6:22-23; Gal 6:8; 1 Tim 1:16; 1 Tim 6:12,19; Tit 1:2; Tit 3:7; 1 Joh 1:2; 1 Joh 2:25; 1 Joh 3:15; 1 Joh 5:11,13,20; Juud 1:21; Ilm 22:5.",
         "*Ihmisten sydämiin kirjoitettu laki*: Jer 31:33; Jer 32:40.",
-        "*Uusi henki, joka elää ihmisten sydämissä*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15.",
-        "*Luo puhdas sydän, uusi henki*: Sal 51:10.",
-        "*Profetia 1) Neitsyt tulee raskaaksi ja synnyttää pojan ja antaa hänelle nimen Immanuel*: Is 7:14: Mt 1:22-23. *Profetia 2) Beet-Lehemistä on tuleva Messias*: Mic 5:2: Mt 2:5-6. *Profetia 3) Kutsutaan poikani Egyptistä*: Ho 11:1: Mt 2:15. *Profetia 4) ääni kuuluu Ramassa*: Jer 31:15: Mt 2:17-18. *Profetia 5) Häntä kutsutaan nasiiriksi*: Jg 13:5: Mt 2:23. *Profetia 6) Sebulonin ja Naftalin kansa on nähnyt suuren valon*: Is 9:1-2: Mt 4:14-16. *Profetia 7) Hän on kantanut surumme*: Is 53:4: Mt 8:17. *Profetia 8) Katso, minun palvelijani, jonka minä olen valinnut*: Is 42:1-4: Mt 12:17-21. *Profetia 9) Kuulkaa kyllä, mutta älkää ymmärtäkö*: Is 6:9-10: Mt 13:14. *Profetia 10) Minä avaan suuni vertaukseksi*: Ps 78:2: Mt 13:35. *Profetia 11) Kuningas ratsastaa aasin selässä*: Zec 9:9: Mt 21:4-5. *Profetia 12) He punnitsivat minun palkkani kolmekymmentä hopearahaa*: Zec 11:12: Mt 27:9-10. *Profetia 13) He jakavat vaatteeni keskenään.*: Ps 22:18: Mt 27:35.",
-        "*Daavidin sukulinja*: Mt 1:1,6-17; Mt 9:27; Mt 12:23; Mt 15:22; Mt 20:30-31; Mt 21:9,15; Mt 22:42.",
-        "*Herran Jeesuksen Kristuksen armo*: Lc 2:40; Hch 11:23; Hch 13:43; Hch 14:3,26; Hch 15:11,40; Hch 18:27; Hch 20:24,32; 1 Co 13:14.",
-        "*publikaanien ja syntisten ystävä*: Lc 5:29-30; Lc 7:29,34; Lc 15:1-2; Lc 19:2-6."
+        "*Uusi henki, joka elää ihmisten sydämissä*: Hes 11:19; Hes 18:31; Hes 36:26-27; Joel 2:28-29; Luuk 24:49; Joh 7:39; Joh 14:16-18,23,26; Joh 15:4,26; Joh 16:7-8,13-14; Joh 17:21-23; Apt 1:5,8a; Apt 2:1-4,16-18; Apt 2:33; 2 Kor 13:5; Gal 2:20; Gal 4:6; Ef 1:13; Ef 4:30; 1 Joh 4:12-15.",
+        "*Luo puhdas sydän, uusi henki*: Ps 51:10.",
+        "*Profetia 1) Neitsyt tulee raskaaksi ja synnyttää pojan ja antaa hänelle nimen Immanuel*: Jes 7:14: Mt 1:22-23. *Profetia 2) Beet-Lehemistä on tuleva Messias*: Miika 5:2: Mt 2:5-6. *Profetia 3) Kutsutaan poikani Egyptistä*: Hoos 11:1: Mt 2:15. *Profetia 4) ääni kuuluu Ramassa*: Jer 31:15: Mt 2:17-18. *Profetia 5) Häntä kutsutaan nasiiriksi*: Tuom 13:5: Mt 2:23. *Profetia 6) Sebulonin ja Naftalin kansa on nähnyt suuren valon*: Jes 9:1-2: Mt 4:14-16. *Profetia 7) Hän on kantanut surumme*: Jes 53:4: Mt 8:17. *Profetia 8) Katso, minun palvelijani, jonka minä olen valinnut*: Jes 42:1-4: Mt 12:17-21. *Profetia 9) Kuulkaa kyllä, mutta älkää ymmärtäkö*: Jes 6:9-10: Mt 13:14. *Profetia 10) Minä avaan suuni vertaukseksi*: Ps 78:2: Mt 13:35. *Profetia 11) Kuningas ratsastaa aasin selässä*: Sak 9:9: Mt 21:4-5. *Profetia 12) He punnitsivat minun palkkani kolmekymmentä hopearahaa*: Sak 11:12: Mt 27:9-10. *Profetia 13) He jakavat vaatteeni keskenään.*: Ps 22:18: Mt 27:35.",
+        "*Daavidin sukulinja*: Matt 1:1,6-17; Matt 9:27; Matt 12:23; Matt 15:22; Matt 20:30-31; Matt 21:9,15; Matt 22:42.",
+        "*Herran Jeesuksen Kristuksen armo*: Luuk 2:40; Apt 11:23; Apt 13:43; Apt 14:3,26; Apt 15:11,40; Apt 18:27; Apt 20:24,32; 1 Kor 13:14.",
+        "*publikaanien ja syntisten ystävä*: Luuk 5:29-30; Luuk 7:29,34; Luuk 15:1-2; Luuk 19:2-6."
     ],
     "paper_title": "Mikaelin lahjoittautumisen aikaiset olot"
 }

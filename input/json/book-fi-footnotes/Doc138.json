@@ -129,7 +129,7 @@
                 {
                     "par_ref": "138:3.4",
                     "par_pageref": "1540.7",
-                    "par_content": "He palasivat kaikki yhdessä Matteuksen kotiin, jossa he aina ilta-aterian alkamiseen saakka keskustelivat paljon politiikasta ja uskonnosta{3}. Leevin perhe oli jo kauan aikaa ollut mukana liike-elämässä ja veronkantotoiminnassa. Fariseukset olisivat sen vuoksi nimitelleet monia Matteuksen näille juhlaillallisille kutsumia vieraita ”publikaaneiksi ja syntisiksi”."
+                    "par_content": "He palasivat kaikki yhdessä Matteuksen kotiin, jossa he aina ilta-aterian alkamiseen saakka keskustelivat paljon politiikasta ja uskonnosta{3}. Leevin perhe oli jo kauan aikaa ollut mukana liike-elämässä ja veronkantotoiminnassa{4}. Fariseukset olisivat sen vuoksi nimitelleet monia Matteuksen näille juhlaillallisille kutsumia vieraita ”publikaaneiksi ja syntisiksi”."
                 },
                 {
                     "par_ref": "138:3.5",
@@ -324,7 +324,7 @@
                 {
                     "par_ref": "138:8.8",
                     "par_pageref": "1545.9",
-                    "par_content": "Jeesus teki apostoleilleen selväksi, mikä ero vallitsi toisaalta juutalaisten opettaman niin kutsuttuja hyviä töitä tekemällä suoritetun katumusharjoituksen ja toisaalta uskon kautta tapahtuvan mielenmuutoksen — uudestisyntymän — välillä, jonka Jeesus vaati valtakuntaanpääsyn hintana{12}. Hän opetti apostoleilleen, että *usko* oli ainoa edellytys pääsylle Isän valtakuntaan. Johannes oli opettanut heille ”katumusta — pakoa kohta tulevan vihan tieltä”. Jeesus opetti: ”Usko on se avoin ovi, josta astutaan sisälle läsnä olevaan, täydelliseen ja ikuiseen Jumalan rakkauteen.” Jeesus ei puhunut profeetan tavoin, kuten tekee se, joka tulee julistamaan Jumalan sanaa. Hän tuntui puhuvan itsestään henkilönä, jolla on valtaa. Jeesus koetti kääntää heidän mielensä ihmeiden etsiskelystä todellisen ja omakohtaisen kokemuksen löytämiseen tyydytyksestä ja vakuuttuneisuudesta, jotka tuottaa se, että ihmisen sisimmässä on rakkautta ja pelastavaa armoa edustava Jumalan henki."
+                    "par_content": "Jeesus teki apostoleilleen selväksi, mikä ero vallitsi toisaalta juutalaisten opettaman niin kutsuttuja hyviä töitä tekemällä suoritetun katumusharjoituksen ja toisaalta uskon kautta tapahtuvan mielenmuutoksen — uudestisyntymän — välillä, jonka Jeesus vaati valtakuntaanpääsyn hintana{12}{13}. Hän opetti apostoleilleen, että *usko* oli ainoa edellytys pääsylle Isän valtakuntaan. Johannes oli opettanut heille ”katumusta — pakoa kohta tulevan vihan tieltä”. Jeesus opetti: ”Usko on se avoin ovi, josta astutaan sisälle läsnä olevaan, täydelliseen ja ikuiseen Jumalan rakkauteen{14}.” Jeesus ei puhunut profeetan tavoin, kuten tekee se, joka tulee julistamaan Jumalan sanaa. Hän tuntui puhuvan itsestään henkilönä, jolla on valtaa. Jeesus koetti kääntää heidän mielensä ihmeiden etsiskelystä todellisen ja omakohtaisen kokemuksen löytämiseen tyydytyksestä ja vakuuttuneisuudesta, jotka tuottaa se, että ihmisen sisimmässä on rakkautta ja pelastavaa armoa edustava Jumalan henki."
                 },
                 {
                     "par_ref": "138:8.9",
@@ -429,23 +429,23 @@
         }
     ],
     "footnotes": [
-        "*Kukaan profeetta ei ole ilman kunniaa paitsi kotonaan*: Mt 13:57; Mc 6:4; Lc 4:24; Jn 4:44.",
-        "*Apostolien raamatunnimet*: Mt 10:2-4; Mc 3:16-19; Lc 6:14-16; Hch 1:13.",
-        "*Matteus valittu*: Mt 9:9; Mc 2:14; Lc 5:27-28.",
-        "*Matteuksen juhlaillallinen*: Mt 9:10; Mc 2:15; Lc 5:29.",
-        "*publikaanit ja syntiset*: Mt 9:10-11; Mt 11:19; Mc 2:15-16; Lc 5:30; Lc 7:34; Lc 15:1.",
-        "*Terve ei tarvitse lääkäriä*: Mt 9:11-13; Mc 2:16-17; Lc 5:30-32.",
-        "*Kaikkien Jumalaa etsivien tasa-arvo*: 2 Cr 19:7; Job 34:19; Ec lo 35:12; Hch 10:34; Ro 2:11; Gl 2:6; Gl 3:28; Ef 6:9; Col 3:11.",
-        "*Valtakunnan evankeliumi*: Mt 4:23; Mt 9:35; Mt 24:14; Mc 1:14-15.",
-        "*Uusi ja parempi tie*: Jn 14:6; Heb 10:20.",
-        "*Apostolit ihmisten kalastajiksi*: Mt 4:19; Mc 1:17; Lc 5:10b.",
-        "*Puhukaa vain sitä, mitä kuulette; ei kuulopuheita*: Jn 8:26; Hch 4:20.",
-        "*Älkää kertoko kenellekään vedestä viiniksi*: Jn 2:1-11.",
-        "*Tehkää parannus, paetkaa tulevaa vihaa*: Mt 3:2,7; Lc 3:3,7.",
-        "*Mielenmuutos uskon kautta, uudestisyntyneet*: Jn 3:3-8; Gl 2:16; Gl 3:2; Stg 2:14.",
-        "*Usko on avoin ovi*: Mt 17:20; Mt 21:11; Lc 17:6; Hch 14:27.",
-        "*Perhe näki Jeesuksen itsensä vierellä*: Mc 3:21.",
-        "*Juudas kantoi säkkiä*: Jn 12:6; Jn 13:29."
+        "*Kukaan profeetta ei ole ilman kunniaa paitsi kotonaan*: Matt 13:57; Mark 6:4; Luuk 4:24; Joh 4:44.",
+        "*Apostolien raamatunnimet*: Matt 10:2-4; Mark 3:16-19; Luuk 6:14-16; Apt 1:13.",
+        "*Matteus valittu*: Matt 9:9; Mark 2:14; Luuk 5:27-28.",
+        "*Matteuksen juhlaillallinen*: Matt 9:10; Mark 2:15; Luuk 5:29.",
+        "*publikaanit ja syntiset*: Matt 9:10-11; Matt 11:19; Mark 2:15-16; Luuk 5:30; Luuk 7:34; Luuk 15:1.",
+        "*Terve ei tarvitse lääkäriä*: Matt 9:11-13; Mark 2:16-17; Luuk 5:30-32.",
+        "*Kaikkien Jumalaa etsivien tasa-arvo*: 2 Aik 19:7; Job 34:19; Sir 35:12; Apt 10:34; Room 2:11; Gal 2:6; Gal 3:28; Ef 6:9; Kol 3:11.",
+        "*Valtakunnan evankeliumi*: Matt 4:23; Matt 9:35; Matt 24:14; Mark 1:14-15.",
+        "*Uusi ja parempi tie*: Joh 14:6; Hepr 10:20.",
+        "*Apostolit ihmisten kalastajiksi*: Matt 4:19; Mark 1:17; Luuk 5:10b.",
+        "*Puhukaa vain sitä, mitä kuulette; ei kuulopuheita*: Joh 8:26; Apt 4:20.",
+        "*Älkää kertoko kenellekään vedestä viiniksi*: Joh 2:1-11.",
+        "*Tehkää parannus, paetkaa tulevaa vihaa*: Matt 3:2,7; Luuk 3:3,7.",
+        "*Mielenmuutos uskon kautta, uudestisyntyneet*: Joh 3:3-8; Gal 2:16; Gal 3:2; Jaak 2:14.",
+        "*Usko on avoin ovi*: Matt 17:20; Matt 21:11; Luuk 17:6; Apt 14:27.",
+        "*Perhe näki Jeesuksen itsensä vierellä*: Mark 3:21.",
+        "*Juudas kantoi säkkiä*: Joh 12:6; Joh 13:29."
     ],
     "paper_title": "Valtakunnan sanansaattajain kouluttaminen"
 }
