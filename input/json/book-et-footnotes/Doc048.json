@@ -60,7 +60,7 @@
                 {
                     "par_ref": "48:1.7",
                     "par_pageref": "542.4",
-                    "par_content": "Paulus teadis morontiamaailmade olemasolust ja morontiamaterjalide reaalsusest, sest ta kirjutas: „Neil on parem ja jäädavam varandus taevas{0}.” Ja need morontiamaterjalid on reaalsed, tõelised, nii nagu „linnas, millel on kindlad alused ja mille ehitaja ning looja on Jumal”. Iga niisugune imeline sfäär on „parem, see on taevane kodumaa”."
+                    "par_content": "Paulus teadis morontiamaailmade olemasolust ja morontiamaterjalide reaalsusest, sest ta kirjutas: „Neil on parem ja jäädavam varandus taevas{0}.” Ja need morontiamaterjalid on reaalsed, tõelised, nii nagu „linnas, millel on kindlad alused ja mille ehitaja ning looja on Jumal”{1}. Iga niisugune imeline sfäär on „parem, see on taevane kodumaa”{2}."
                 }
             ]
         },
@@ -505,7 +505,7 @@
                 {
                     "par_ref": "48:6.8",
                     "par_pageref": "552.6",
-                    "par_content": "Ka Urantial annavad nad inimestest tõe ja õigluse õpetajatele nõu järgida õpetust „Jumala heldusest, mis suunab sind meelt parandama”, kuulutada „Jumala armastust, mis ajab kogu kartuse välja”{5}. Neid tõdesid on teie maailmas välja kuulutatud ka nõnda:"
+                    "par_content": "Ka Urantial annavad nad inimestest tõe ja õigluse õpetajatele nõu järgida õpetust „Jumala heldusest, mis suunab sind meelt parandama”, kuulutada „Jumala armastust, mis ajab kogu kartuse välja”{5}{6}. Neid tõdesid on teie maailmas välja kuulutatud ka nõnda:{7}"
                 },
                 {
                     "par_ref": "48:6.9",
@@ -580,7 +580,7 @@
                 {
                     "par_ref": "48:6.23",
                     "par_pageref": "553.4",
-                    "par_content": "Te peaksite mõtlema terminitele „taevas” ja „taevaste taevas”{8}. Enamiku teie prohvetite ettekujutuses oli taevas esimene kohaliku süsteemi eluasemeilmadest. Kui apostel rääkis „kolmanda taevani tõmbamisest”, pidas ta silmas kogemust, kus tema Kohandaja temast magamise ajal eraldus ning projitseerus selles ebatavalises seisundis kolmandasse seitsmest eluasemeilmast. Mõnel teie targal oli nägemus suuremast taevast, „taevaste taevast”, millest seitsmekordse eluasemeilma kogemus oli alles esimene, teine oli Jerusem, kolmas Edentia ja selle satelliidid, neljas Salvington koos seda ümbritsevate haridussfääridega, viies Uversa, kuues Havona ja seitsmes Paradiis."
+                    "par_content": "Te peaksite mõtlema terminitele „taevas” ja „taevaste taevas”{8}. Enamiku teie prohvetite ettekujutuses oli taevas esimene kohaliku süsteemi eluasemeilmadest. Kui apostel rääkis „kolmanda taevani tõmbamisest”, pidas ta silmas kogemust, kus tema Kohandaja temast magamise ajal eraldus ning projitseerus selles ebatavalises seisundis kolmandasse seitsmest eluasemeilmast{9}. Mõnel teie targal oli nägemus suuremast taevast, „taevaste taevast”, millest seitsmekordse eluasemeilma kogemus oli alles esimene, teine oli Jerusem, kolmas Edentia ja selle satelliidid, neljas Salvington koos seda ümbritsevate haridussfääridega, viies Uversa, kuues Havona ja seitsmes Paradiis."
                 },
                 {
                     "par_ref": "48:6.24",
@@ -850,17 +850,17 @@
         }
     ],
     "footnotes": [
-        "*Taevas paremat ainet*: Mt 6:19-20; Heb 10:34.",
-        "*Linna ehitaja, tegija on Jumal*: 2 Co 5:1; Heb 11:10.",
-        "*Parem -taevalik- maa*: Heb 11:16.",
-        "*Kõik asjad toimivad koos*: Ro 8:28.",
-        "*Ego deflateerimine*: Ro 12:3; 2 Co 12:7; Gl 6:3.",
-        "*Jumala headus viib*: Ro 2:4.",
-        "*Jumala armastus ajab hirmu välja*: 1 Jn 4:18.",
-        "*23. psalm*: Sal 23:1-6.",
-        "*Taevas, taevas taevas*: 1 Re 8:27; 2 Cr 2:6; 2 Cr 6:18; Neh 9:6; Sal 148:4; Dt 10:14.",
-        "*Kolmandas taevas kinni*: 2 Co 12:2.",
-        "*Jeesuse mõistus*: 1 Co 2:16; Flp 2:5."
+        "*Taevas paremat ainet*: Mt 6:19-20; Hb 10:34.",
+        "*Linna ehitaja, tegija on Jumal*: 2Kr 5:1; Hb 11:10.",
+        "*Parem -taevalik- maa*: Hb 11:16.",
+        "*Kõik asjad toimivad koos*: Rm 8:28.",
+        "*Ego deflateerimine*: Rm 12:3; 2Kr 12:7; Gl 6:3.",
+        "*Jumala headus viib*: Rm 2:4.",
+        "*Jumala armastus ajab hirmu välja*: 1Jh 4:18.",
+        "*23. psalm*: Ps 23:1-6.",
+        "*Taevas, taevas taevas*: 1Kn 8:27; 2Aj 2:6; 2Aj 6:18; Ne 9:6; Ps 148:4; 5Ms 10:14.",
+        "*Kolmandas taevas kinni*: 2Kr 12:2.",
+        "*Jeesuse mõistus*: 1Kr 2:16; Fl 2:5."
     ],
     "paper_title": "Morontiaelu"
 }

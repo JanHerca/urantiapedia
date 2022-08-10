@@ -203,7 +203,7 @@
                 {
                     "par_ref": "87:5.4",
                     "par_pageref": "962.5",
-                    "par_content": "Arvati, et pahad vaimud on eriti kadedad inimeste jõukusele ja tavatsevad selle eest kätte maksta mõne inimese kaudu *kurja silma* abil{1}. Kultuse osa, mis seondus vaimude vältimisega, tegeles üsna palju kurja silma vempudega. Hirm selle ees levis peaaegu üle kogu maailma. Ilusad naised pidid kandma loori, et end kurja silma eest kaitsta; hiljem kasutasid seda võtet paljud naised, kes soovisid, et neid ilusaks peetaks. Kurjade vaimude hirmu tõttu lubati lapsi harva pärast pimeduse saabumist õue ja varajastes palvetes sisaldus alati soov „päästa meid kurja silma eest”."
+                    "par_content": "Arvati, et pahad vaimud on eriti kadedad inimeste jõukusele ja tavatsevad selle eest kätte maksta mõne inimese kaudu *kurja silma* abil{1}. Kultuse osa, mis seondus vaimude vältimisega, tegeles üsna palju kurja silma vempudega. Hirm selle ees levis peaaegu üle kogu maailma. Ilusad naised pidid kandma loori, et end kurja silma eest kaitsta; hiljem kasutasid seda võtet paljud naised, kes soovisid, et neid ilusaks peetaks{2}. Kurjade vaimude hirmu tõttu lubati lapsi harva pärast pimeduse saabumist õue ja varajastes palvetes sisaldus alati soov „päästa meid kurja silma eest”."
                 },
                 {
                     "par_ref": "87:5.5",
@@ -340,7 +340,7 @@
                 {
                     "par_ref": "87:6.16",
                     "par_pageref": "965.3",
-                    "par_content": "Järgmisena võeti kasutusele rituaalsed tõotused ja pühad vanded{4}. Enamiku vannetega kaasnes enesepiinamine ja -vigastamine, hiljem paastumine ja palvetamine. Mõne aja pärast hakati enesesalgamist pidama kindlaks veenmisvahendiks; eriti kehtis see suguelust hoidumise suhtes. Nii kujunesid ürginimesel välja väga karmid usutavad, uskumused, et enesepiinamine ja enesesalgamine on tõhusad rituaalid, millega sundida vaime vastu nende enda tahtmist soodsalt reageerima."
+                    "par_content": "Järgmisena võeti kasutusele rituaalsed tõotused ja pühad vanded{4}. Enamiku vannetega kaasnes enesepiinamine ja -vigastamine, hiljem paastumine ja palvetamine{5}. Mõne aja pärast hakati enesesalgamist pidama kindlaks veenmisvahendiks; eriti kehtis see suguelust hoidumise suhtes. Nii kujunesid ürginimesel välja väga karmid usutavad, uskumused, et enesepiinamine ja enesesalgamine on tõhusad rituaalid, millega sundida vaime vastu nende enda tahtmist soodsalt reageerima."
                 },
                 {
                     "par_ref": "87:6.17",
@@ -413,12 +413,12 @@
         }
     ],
     "footnotes": [
-        "*Teadmata jumalad*: Hch 17:22-23.",
-        "*Evil eye*: Pr 23:6; Pr 28:22; Dt 15:9; Dt 28:54,56; Mc 7:22.",
-        "*Päästke meid kurja silma eest*: Mt 6:13; Lc 11:4.",
-        "*Vesiristimine*: Mt 3:6,11; Mc 1:4-5,8; Lc 3:3,7,16; Jn 1:25-26,31,33; Jn 3:22-23; Hch 1:5.",
-        "*Pühad tõotused ja vanded*: Gn 31:13; Ex 22:11; 2 Cr 15:12-15; Lv 5:4; Sal 105:9-10; Nm 6:2-15; Nm 30:2-16; Dt 29:12-15.",
-        "*Karistus vande rikkumise eest*: Jg 11:30-39."
+        "*Teadmata jumalad*: Ap 17:22-23.",
+        "*Evil eye*: Õp 23:6; Õp 28:22; 5Ms 15:9; 5Ms 28:54,56; Mk 7:22.",
+        "*Päästke meid kurja silma eest*: Mt 6:13; Lk 11:4.",
+        "*Vesiristimine*: Mt 3:6,11; Mk 1:4-5,8; Lk 3:3,7,16; Jh 1:25-26,31,33; Jh 3:22-23; Ap 1:5.",
+        "*Pühad tõotused ja vanded*: 1Ms 31:13; 2Ms 22:11; 2Aj 15:12-15; 3Ms 5:4; Ps 105:9-10; 4Ms 6:2-15; 4Ms 30:2-16; 5Ms 29:12-15.",
+        "*Karistus vande rikkumise eest*: Km 11:30-39."
     ],
     "paper_title": "Tondikultused"
 }

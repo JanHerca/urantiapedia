@@ -237,7 +237,7 @@
                 {
                     "par_ref": "0:2.12",
                     "par_pageref": "4.6",
-                    "par_content": "1. *Jumal-Isa—*Looja, Juhtija ja Alalhoidja{0}. Kõikne Isa, Jumaluse Esimene Isik;"
+                    "par_content": "1. *Jumal-Isa—*Looja, Juhtija ja Alalhoidja{0}{1}{2}. Kõikne Isa, Jumaluse Esimene Isik;"
                 },
                 {
                     "par_ref": "0:2.13",
@@ -953,16 +953,16 @@
         }
     ],
     "footnotes": [
-        "*Jumal kui kõige looja*: Gn 1:1-27; Gn 2:4-23; Ex 20:11; Neh 9:6; Sal 146:6; Is 42:5; Jer 51:15-16; Mc 13:19; Jn 1:1-3; Hch 4:24; Hch 14:15; Ef 3:9; Col 1:16; 1 P 4:19; Ap 4:11; Ap 10:6. *Jumal kui taeva ja maa looja*: Ex 31:17; 2 Re 19:15; 2 Cr 2:12; Sal 115:15-16; Sal 121:2; Sal 124:8; Sal 134:3; Is 37:16; Is 45:12-18; Jer 10:11-12; Jer 32:17; Ap 14:7. *Jumal kui mehe, naise looja*: Gn 5:1-2. *Jumal kui inimese looja*: Ec lo 33:10; Mal 2:10. *Jumal kui maa looja*: Is 40:26,28; Am 4:13. *Jumal kui tarkuse looja*: Ec lo 1:1-4; Bar 3:32-36. *Jumal kui maailmade looja*: Heb 1:2.",
-        "*Jumal kui kontrollija*: Job 38:1-39:30; Sal 104:1-32; Sal 148:6-12; Hch 14:15.",
-        "*Jumal kui kaitsja*: Sal 37:17,24; Sal 63:8; Sal 145:14; Is 41:10,13; Heb 1:3.",
-        "*Jumal kui kõrgeim*: Sal 136:2-3; Dn 2:47; Dn 10:17; Jos 22:22; 1 P 2:13.",
-        "*Igavene Jumal*: Dt 33:27; Ro 1:20; 1 Ti 1:17.",
-        "*MINA OLEN*: Ex 3:13-14.",
-        "*Paradiis*: Lc 23:43; 2 Co 12:4; Ap 2:7.",
-        "*Inimesed teevad Isa tahtmist*: Sal 143:10; Ec lo 15:11-20; Mt 6:10; Mt 7:21; Mt 12:50; Mc 3:35; Lc 8:21; Lc 11:2; Jn 7:16-17; Jn 9:31; Jn 14:21,24; Jn 15:10,14-16.",
-        "*Vaimuvalgus*: Esd 7:55; Is 9:2; Mt 4:16; Mt 5:14-16; Lc 1:79; Lc 2:32; Jn 1:4-9; Jn 3:19-21; Jn 8:12; Jn 9:5; Jn 12:46; 1 Jn 1:5; 1 Jn 2:8.",
-        "*Paradiisi Kolmainsus*: Mt 28:19; Hch 2:32-33; 2 Co 13:14; 1 Jn 5:7. *Paradiisi Kolmainsus (Pauluse varajane vaade)*: 1 Co 12:4-6."
+        "*Jumal kui kõige looja*: 1Ms 1:1-27; 1Ms 2:4-23; 2Ms 20:11; Ne 9:6; Ps 146:6; Js 42:5; Jr 51:15-16; Mk 13:19; Jh 1:1-3; Ap 4:24; Ap 14:15; Ef 3:9; Kl 1:16; 1Pt 4:19; Ilm 4:11; Ilm 10:6. *Jumal kui taeva ja maa looja*: 2Ms 31:17; 2Kn 19:15; 2Aj 2:12; Ps 115:15-16; Ps 121:2; Ps 124:8; Ps 134:3; Js 37:16; Js 45:12-18; Jr 10:11-12; Jr 32:17; Ilm 14:7. *Jumal kui mehe, naise looja*: 1Ms 5:1-2. *Jumal kui inimese looja*: Srk 33:10; Ml 2:10. *Jumal kui maa looja*: Js 40:26,28; Am 4:13. *Jumal kui tarkuse looja*: Srk 1:1-4; Brk 3:32-36. *Jumal kui maailmade looja*: Hb 1:2.",
+        "*Jumal kui kontrollija*: Ii 38:1-39:30; Ps 104:1-32; Ps 148:6-12; Ap 14:15.",
+        "*Jumal kui kaitsja*: Ps 37:17,24; Ps 63:8; Ps 145:14; Js 41:10,13; Hb 1:3.",
+        "*Jumal kui kõrgeim*: Ps 136:2-3; Tn 2:47; Tn 10:17; Jos 22:22; 1Pt 2:13.",
+        "*Igavene Jumal*: 5Ms 33:27; Rm 1:20; 1Tm 1:17.",
+        "*Mina olen*: 2Ms 3:13-14.",
+        "*Paradiis*: Lk 23:43; 2Kr 12:4; Ilm 2:7.",
+        "*Inimesed teevad Isa tahtmist*: Ps 143:10; Srk 15:11-20; Mt 6:10; Mt 7:21; Mt 12:50; Mk 3:35; Lk 8:21; Lk 11:2; Jh 7:16-17; Jh 9:31; Jh 14:21,24; Jh 15:10,14-16.",
+        "*Vaimuvalgus*: Hs 7:55; Js 9:2; Mt 4:16; Mt 5:14-16; Lk 1:79; Lk 2:32; Jh 1:4-9; Jh 3:19-21; Jh 8:12; Jh 9:5; Jh 12:46; 1Jh 1:5; 1Jh 2:8.",
+        "*Paradiisi Kolmainsus*: Mt 28:19; Ap 2:32-33; 2Kr 13:14; 1Jh 5:7. *Paradiisi Kolmainsus (Pauluse varajane vaade)*: 1Kr 12:4-6."
     ],
     "paper_title": "Eessõna"
 }

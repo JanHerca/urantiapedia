@@ -40,7 +40,7 @@
                 {
                     "par_ref": "126:1.2",
                     "par_pageref": "1387.2",
-                    "par_content": "See mägi oli olnud veidi enam kui saja aasta eest Baali kõrgendik, nüüd oli see aga kuulsa Iisraeli pühamehe Siimeoni haud{0}. Siimeoni mäe tipust vaatas Jeesus alla Naatsaretile ja selle ümbrusele. Ta silmitses Megiddot, meenutades lugu Egiptuse sõjaväe esimesest suurest võidust Aasias ning seda, kuidas üks teine samasugune sõjavägi alistas hiljem Juudamaa kuninga Hoosea. Kaugele ei jäänud ka Taanak, kus Deboora ja Baarak alistasid Siisera. Eemal võis ta näha Dothani künkaid, kus, nagu talle oli räägitud, vennad olid müünud Joosepi Egiptusesse orjaks. Siis libises ta pilk üle Eebali ja Gerisimi ja ta meenutas pärimusi Aabrahamist, Jaakobist ja Abimelekist. Nii meenutas ta oma isa Joosepi rahva ajaloosündmusi ja pärimusi ning mõtiskles nende üle."
+                    "par_content": "See mägi oli olnud veidi enam kui saja aasta eest Baali kõrgendik, nüüd oli see aga kuulsa Iisraeli pühamehe Siimeoni haud{0}. Siimeoni mäe tipust vaatas Jeesus alla Naatsaretile ja selle ümbrusele. Ta silmitses Megiddot, meenutades lugu Egiptuse sõjaväe esimesest suurest võidust Aasias ning seda, kuidas üks teine samasugune sõjavägi alistas hiljem Juudamaa kuninga Hoosea{1}. Kaugele ei jäänud ka Taanak, kus Deboora ja Baarak alistasid Siisera{2}. Eemal võis ta näha Dothani künkaid, kus, nagu talle oli räägitud, vennad olid müünud Joosepi Egiptusesse orjaks{3}. Siis libises ta pilk üle Eebali ja Gerisimi ja ta meenutas pärimusi Aabrahamist, Jaakobist ja Abimelekist. Nii meenutas ta oma isa Joosepi rahva ajaloosündmusi ja pärimusi ning mõtiskles nende üle."
                 },
                 {
                     "par_ref": "126:1.3",
@@ -149,7 +149,7 @@
                 {
                     "par_ref": "126:3.6",
                     "par_pageref": "1390.1",
-                    "par_content": "Sel aastal leidis Jeesus niinimetatud Eenoki raamatust ühe lõigu, mille mõjul ta hakkas hiljem tähistama oma annetumismissiooni Urantial terminiga „Inimese Poeg”{9}. Ta oli juudi messia idee põhjalikult läbi kaalunud ja kindlalt veendunud, et talle polnud määratud selleks messiaks saada. Ta ihkas oma isa rahvast aidata, kuid ei lootnud kunagi juhtida juutide vägesid Palestiinas välismaist ülemvõimu kukutama. Ta teadis, et ei asu kunagi Jeruusalemmas Taaveti troonile. Ning ta ei arvanud ka, et tema missiooniks on olla vaimne vabastaja või moraaliõpetaja ainuüksi juudi rahvale. Seepärast ei saanud tema elu missioon mingis mõttes täita heebrea pühakirjade pinevaid igatsusi ja oletatavaid ennustusi messiast; vähemalt mitte nii, nagu juudid neist prohvetite ennustustest aru said. Ta oli ka kindel, et ei ilmu kunagi Inimese Pojana, keda oli kirjeldanud prohvet Taaniel."
+                    "par_content": "Sel aastal leidis Jeesus niinimetatud Eenoki raamatust ühe lõigu, mille mõjul ta hakkas hiljem tähistama oma annetumismissiooni Urantial terminiga „Inimese Poeg”{9}. Ta oli juudi messia idee põhjalikult läbi kaalunud ja kindlalt veendunud, et talle polnud määratud selleks messiaks saada. Ta ihkas oma isa rahvast aidata, kuid ei lootnud kunagi juhtida juutide vägesid Palestiinas välismaist ülemvõimu kukutama. Ta teadis, et ei asu kunagi Jeruusalemmas Taaveti troonile. Ning ta ei arvanud ka, et tema missiooniks on olla vaimne vabastaja või moraaliõpetaja ainuüksi juudi rahvale. Seepärast ei saanud tema elu missioon mingis mõttes täita heebrea pühakirjade pinevaid igatsusi ja oletatavaid ennustusi messiast; vähemalt mitte nii, nagu juudid neist prohvetite ennustustest aru said. Ta oli ka kindel, et ei ilmu kunagi Inimese Pojana, keda oli kirjeldanud prohvet Taaniel{10}."
                 },
                 {
                     "par_ref": "126:3.7",
@@ -314,26 +314,26 @@
         }
     ],
     "footnotes": [
-        "*Baali kõrge koht*: Nm 22:41.",
-        "*Joosija lüüa*: 2 Re 23:29-30; 2 Cr 35:20-24.",
-        "*Sisera lüüa*: Jg 4:10-16.",
-        "*Joosep müüdi orjaks*: Gn 37:23-28.",
-        "*Jeesus kasvas inimese ja Jumala soosingus*: Lc 2:52.",
-        "*Istus kellegi jalge ees*: Hch 22:3.",
-        "*Õde Ruth sündis*: Mt 13:56; Mc 6:3.",
-        "*Issanda palve*: Mt 6:9-13; Lc 11:2-4.",
-        "*Oma isa asjade kohta*: Lc 2:49.",
-        "*Inimese poeg*: Ez 2:1,3,6,8; Ez 3:1-4,10,17; Dn 7:13-14; Mt 8:20; Mc 2:10; Lc 5:24; Jn 1:51; Ap 1:13; Ap 14:14; 1 Enoch 46:1-6; 1 Enoch 48:1-7; 1 Enoch 60:10; 1 Enoch 62:1,14; 1 Enoch 63:11; 1 Enoch 69:26-29; 1 Enoch 70:1-2; 1 Enoch 71:14-16.",
-        "*Mitte Taanieli Inimese Poeg*: Dn 7:13-14.",
-        "*Oma isa asjast*: Lc 2:49.",
-        "*Jeesuse esimene jumalateenistus*: Lc 4:16-20.",
-        "*Pühakirja loetud: „Issanda Vaim on minu peal“*: Is 61:1-3.",
+        "*Baali kõrge koht*: 4Ms 22:41.",
+        "*Joosija lüüa*: 2Kn 23:29-30; 2Aj 35:20-24.",
+        "*Sisera lüüa*: Km 4:10-16.",
+        "*Joosep müüdi orjaks*: 1Ms 37:23-28.",
+        "*Jeesus kasvas inimese ja Jumala soosingus*: Lk 2:52.",
+        "*Istus kellegi jalge ees*: Ap 22:3.",
+        "*Õde Ruth sündis*: Mt 13:56; Mk 6:3.",
+        "*Issanda palve*: Mt 6:9-13; Lk 11:2-4.",
+        "*Oma isa asjade kohta*: Lk 2:49.",
+        "*Inimese poeg*: Hs 2:1,3,6,8; Hs 3:1-4,10,17; Tn 7:13-14; Mt 8:20; Mk 2:10; Lk 5:24; Jh 1:51; Ilm 1:13; Ilm 14:14; 1Een 46:1-6; 1Een 48:1-7; 1Een 60:10; 1Een 62:1,14; 1Een 63:11; 1Een 69:26-29; 1Een 70:1-2; 1Een 71:14-16.",
+        "*Mitte Taanieli Inimese Poeg*: Tn 7:13-14.",
+        "*Oma isa asjade kohta*: Lk 2:49.",
+        "*Jeesuse esimene jumalateenistus*: Lk 4:16-20.",
+        "*Pühakirja loetud: „Issanda Vaim on minu peal“*: Js 61:1-3.",
         "*Pühakiri loetud: Otsige head, mitte kurja*: Am 5:14-15.",
-        "*Pühakiri loetud: Peske teid, tehke teid puhtaks*: Is 1:16-17.",
-        "*Pühakiri loe: Millega ma tulen Issanda ette?*: Miq 6:6-8.",
-        "*Pühakiri loe: Kellega te siis tahate Jumalat võrrelda?*: Is 40:18,22,26,29; Is 41:10,13.",
-        "*Pühakiri loe: Teie olete minu tunnistajad, ütleb Issand*: Is 43:10-11.",
-        "*See rebane, Heroodes*: Lc 13:32."
+        "*Pühakiri loetud: Peske teid, tehke teid puhtaks*: Js 1:16-17.",
+        "*Pühakiri loe: Millega ma tulen Issanda ette?*: Mi 6:6-8.",
+        "*Pühakiri loe: Kellega te siis tahate Jumalat võrrelda?*: Js 40:18,22,26,29; Js 41:10,13.",
+        "*Pühakiri loe: Teie olete minu tunnistajad, ütleb Issand*: Js 43:10-11.",
+        "*See rebane, Heroodes*: Lk 13:32."
     ],
     "paper_title": "Kaks otsustavat aastat"
 }

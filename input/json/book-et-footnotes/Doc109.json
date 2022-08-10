@@ -250,7 +250,7 @@
                 {
                     "par_ref": "109:6.5",
                     "par_pageref": "1200.5",
-                    "par_content": "See Kohandaja saavutas Jeesuse inimmeeles hiilgava võidu — see meel jäi elu igas olukorras pühendunult ustavaks Isa tahtele, öeldes: „Sinu, mitte minu tahtmine sündigu{3}.” See otsustav pühendumine on tõeline läbipääsuluba inimmeele piiratusest lõplikku jumalikkusesse."
+                    "par_content": "See Kohandaja saavutas Jeesuse inimmeeles hiilgava võidu — see meel jäi elu igas olukorras pühendunult ustavaks Isa tahtele, öeldes: „Sinu, mitte minu tahtmine sündigu{3}{4}.” See otsustav pühendumine on tõeline läbipääsuluba inimmeele piiratusest lõplikku jumalikkusesse."
                 },
                 {
                     "par_ref": "109:6.6",
@@ -318,11 +318,11 @@
         }
     ],
     "footnotes": [
-        "*Kellel on, sellele antakse, aga kellel ei ole...*: Mt 13:12; Mt 25:29; Mc 4:25; Lc 8:18; Lc 19:26.",
-        "*Valgustus*: 1 Co 2:6-16.",
-        "*Keegi ei saa teenida kahte peremeest*: Mt 6:24; Lc 16:13.",
-        "*Jeesus tegi Isa tahtmist*: Jn 4:34; Jn 5:30; Jn 6:38-40; Jn 15:10; Jn 17:4.",
-        "*Mitte minu tahtmist, vaid Isa tahtmist*: Mt 26:39,42,44; Mc 14:36,39; Lc 22:42."
+        "*Kellel on, sellele antakse, aga kellel ei ole...*: Mt 13:12; Mt 25:29; Mk 4:25; Lk 8:18; Lk 19:26.",
+        "*Valgustus*: 1Kr 2:6-16.",
+        "*Keegi ei saa teenida kahte peremeest*: Mt 6:24; Lk 16:13.",
+        "*Jeesus tegi Isa tahtmist*: Jh 4:34; Jh 5:30; Jh 6:38-40; Jh 15:10; Jh 17:4.",
+        "*Mitte minu tahtmist, vaid Isa tahtmist*: Mt 26:39,42,44; Mk 14:36,39; Lk 22:42."
     ],
     "paper_title": "Kohandajate suhe universumi loodud-olenditega"
 }

@@ -327,7 +327,7 @@
                 {
                     "par_ref": "78:7.3",
                     "par_pageref": "874.8",
-                    "par_content": "Peaaegu viis tuhat aastat hiljem, kui Babüloonias vangis olnud heebrea preestrid püüdsid juudi rahva põlvnemist uurides jõuda välja Aadamani, oli neil selle loo kokkupanemisega suuri raskusi; ühel neist tuli mõte sellest üldse loobuda, lasta kogu maailmal uppuda oma kurjuses Noa veeuputuse ajal ning saada selliselt võimalus rääkida Aabrahamist kui Noa ühe ellujäänud poja otsesest järglasest{0}."
+                    "par_content": "Peaaegu viis tuhat aastat hiljem, kui Babüloonias vangis olnud heebrea preestrid püüdsid juudi rahva põlvnemist uurides jõuda välja Aadamani, oli neil selle loo kokkupanemisega suuri raskusi; ühel neist tuli mõte sellest üldse loobuda, lasta kogu maailmal uppuda oma kurjuses Noa veeuputuse ajal ning saada selliselt võimalus rääkida Aabrahamist kui Noa ühe ellujäänud poja otsesest järglasest{0}{1}."
                 },
                 {
                     "par_ref": "78:7.4",
@@ -337,7 +337,7 @@
                 {
                     "par_ref": "78:7.5",
                     "par_pageref": "875.2",
-                    "par_content": "Aga Noa on tõepoolest elanud: ta oli Ereki lähedal Aramise-nimelises jõeäärses asulas veinimeister ja pidas aasta-aastalt jõe tõusude kohta kroonikat{3}. Teda naeruvääristati kõvasti, kui ta käis jõe mõlemal kaldal ringi, soovitades ehitada kõik majad puust ja paadikujulised, ning võtta üleujutushooaja lähenedes pere loomad õhtuks paati. Ta käis igal aastal jõeäärsetes naaberasulates hoiatamas, mitme päeva pärast üleujutus saabub. Lõpuks ühel aastal oli iga-aastane üleujutus ebatavaliselt tugevate vihmade tõttu palju suurem kui harilikult ning vee järsk tõus pühkis minema kogu küla, vaid Noa koos lähedaste pereliikmetega pääses oma paatelamus."
+                    "par_content": "Aga Noa on tõepoolest elanud: ta oli Ereki lähedal Aramise-nimelises jõeäärses asulas veinimeister ja pidas aasta-aastalt jõe tõusude kohta kroonikat{3}. Teda naeruvääristati kõvasti, kui ta käis jõe mõlemal kaldal ringi, soovitades ehitada kõik majad puust ja paadikujulised, ning võtta üleujutushooaja lähenedes pere loomad õhtuks paati. Ta käis igal aastal jõeäärsetes naaberasulates hoiatamas, mitme päeva pärast üleujutus saabub. Lõpuks ühel aastal oli iga-aastane üleujutus ebatavaliselt tugevate vihmade tõttu palju suurem kui harilikult ning vee järsk tõus pühkis minema kogu küla, vaid Noa koos lähedaste pereliikmetega pääses oma paatelamus.{4}"
                 },
                 {
                     "par_ref": "78:7.6",
@@ -425,12 +425,12 @@
         }
     ],
     "footnotes": [
-        "*Juudi genealoogia*: Gn 4:1-2,17-26; Gn 5:3-32; Gn 6:9-10; Gn 10:1-32; Gn 11:10-26.",
-        "*Maailma hävitamine*: Gn 6:5-10.",
-        "*No worldwide flood*: Gn 7:10-24.",
-        "*Noah elas*: Gn 6:9-10.",
-        "*Tõeline üleujutus*: Gn 7:10-24.",
-        "*Sargon*: Is 20:1."
+        "*Juudi genealoogia*: 1Ms 4:1-2,17-26; 1Ms 5:3-32; 1Ms 6:9-10; 1Ms 10:1-32; 1Ms 11:10-26.",
+        "*Maailma hävitamine*: 1Ms 6:5-10.",
+        "*No worldwide flood*: 1Ms 7:10-24.",
+        "*Noah elas*: 1Ms 6:9-10.",
+        "*Tõeline üleujutus*: 1Ms 7:10-24.",
+        "*Sargon*: Js 20:1."
     ],
     "paper_title": "Violetne rass pärast Aadamat"
 }

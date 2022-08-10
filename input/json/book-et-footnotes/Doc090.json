@@ -30,7 +30,7 @@
                 {
                     "par_ref": "90:1.1",
                     "par_pageref": "986.4",
-                    "par_content": "Šamaan oli auväärt ravitseja, tseremoniaalne inimene-ebajumal ja keskne isik, kelle ümber koondusid kõik arengulise religiooni rituaalid. Paljudes rahvarühmades oli šamaan sõjapealikust tähtsam, mis tähistas kiriku ülemvõimu algust. Vahel täitis šamaan preestri ja mõnikord isegi preester-kuninga ülesandeid{0}. Mõnes hilisemas hõimus tegutsesid üheaegselt nii varasem šamaan-ravitseja (nägija) kui ka hiljem ilmunud šamaan-preester. Ja paljudel juhtudel muutus šamaaniamet päritavaks."
+                    "par_content": "Šamaan oli auväärt ravitseja, tseremoniaalne inimene-ebajumal ja keskne isik, kelle ümber koondusid kõik arengulise religiooni rituaalid. Paljudes rahvarühmades oli šamaan sõjapealikust tähtsam, mis tähistas kiriku ülemvõimu algust. Vahel täitis šamaan preestri ja mõnikord isegi preester-kuninga ülesandeid{0}. Mõnes hilisemas hõimus tegutsesid üheaegselt nii varasem šamaan-ravitseja (nägija) kui ka hiljem ilmunud šamaan-preester{1}. Ja paljudel juhtudel muutus šamaaniamet päritavaks."
                 },
                 {
                     "par_ref": "90:1.2",
@@ -87,7 +87,7 @@
                 {
                     "par_ref": "90:2.5",
                     "par_pageref": "988.1",
-                    "par_content": "Ravitsejad usaldasid väga märke ja endeid, näiteks: „Kui sa kuuled kahinat mooruspuude ladvus, siis kiirusta{3}.” Juba inimkonna ajaloo algusaegadel pöörasid šamaanid tähelepanu tähtedele. Algelist astroloogiat usuti ja harrastati kõikjal maailmas; laialt oli levinud ka unenägude seletamine. Õige pea lisandusid temperamentsed naisšamaanid, kes kuulutasid, et on võimelised suhtlema surnute vaimudega."
+                    "par_content": "Ravitsejad usaldasid väga märke ja endeid, näiteks: „Kui sa kuuled kahinat mooruspuude ladvus, siis kiirusta{3}.” Juba inimkonna ajaloo algusaegadel pöörasid šamaanid tähelepanu tähtedele. Algelist astroloogiat usuti ja harrastati kõikjal maailmas; laialt oli levinud ka unenägude seletamine{4}. Õige pea lisandusid temperamentsed naisšamaanid, kes kuulutasid, et on võimelised suhtlema surnute vaimudega{5}."
                 },
                 {
                     "par_ref": "90:2.6",
@@ -258,7 +258,7 @@
                 {
                     "par_ref": "90:5.3",
                     "par_pageref": "992.4",
-                    "par_content": "Mõne rituaali juurde kuuluvad teatud sõnad, näiteks „aamen” ja „sela”{8}. Kirumise ehk vandumise komme on kunagise pühade nimede rituaalse kordamise prostitutsioon. Palverännakute korraldamine pühadesse templitesse on väga iidne rituaal. See kujunes hiljem keeruliseks puhastumis- ja pühitsemistseremooniaks. Ürghõimude salaühingute pidulikud vastuvõtutseremooniad olid tegelikult tahumatud usuriitused. Vanaaja salakultuste jumalakummardamismeetodid olid üksnes kõigi senituntud usurituaalide pikad ettekanded. Lõpuks arenesid rituaalid nüüdisaegseteks ühiskondlikeks tseremooniateks ja religioosseks jumalateenistuseks, mis hõlmasid palveid, laule, ühislugemist ja muid individuaalseid ning rühmaviisilisi vaimulikke palvusi."
+                    "par_content": "Mõne rituaali juurde kuuluvad teatud sõnad, näiteks „aamen” ja „sela”{8}{9}. Kirumise ehk vandumise komme on kunagise pühade nimede rituaalse kordamise prostitutsioon. Palverännakute korraldamine pühadesse templitesse on väga iidne rituaal. See kujunes hiljem keeruliseks puhastumis- ja pühitsemistseremooniaks{10}{11}{12}. Ürghõimude salaühingute pidulikud vastuvõtutseremooniad olid tegelikult tahumatud usuriitused. Vanaaja salakultuste jumalakummardamismeetodid olid üksnes kõigi senituntud usurituaalide pikad ettekanded. Lõpuks arenesid rituaalid nüüdisaegseteks ühiskondlikeks tseremooniateks ja religioosseks jumalateenistuseks, mis hõlmasid palveid, laule, ühislugemist ja muid individuaalseid ning rühmaviisilisi vaimulikke palvusi."
                 },
                 {
                     "par_ref": "90:5.4",
@@ -294,19 +294,19 @@
         }
     ],
     "footnotes": [
-        "*Šamaanid (preestrid)*: Ex 2:16; Ex 28:1-43; Ex 29:4-9,29; Nm 18:1-10.",
-        "*Nägijaid*: 2 Re 17:13; 1 Cr 29:29; 1 Sam 9:8-11,18-19; 2 Sam 15:27.",
-        "*Nõidumine*: Ex 22:18; Dt 18:10-12; 1 Sam 15:23.",
-        "*Kui kuuled tuule häält*: 1 Cr 14:15; 2 Sam 5:24.",
-        "*Astroloogia*: Is 47:13; Dn 2:2; Am 5:26; Mt 2:7,9-10.",
-        "*Šamaanid*: 1 Sam 28:7-19.",
+        "*Šamaanid (preestrid)*: 2Ms 2:16; 2Ms 28:1-43; 2Ms 29:4-9,29; 4Ms 18:1-10.",
+        "*Nägijaid*: 2Kn 17:13; 1Aj 29:29; 1Sm 9:8-11,18-19; 2Sm 15:27.",
+        "*Nõidumine*: 2Ms 22:18; 5Ms 18:10-12; 1Sm 15:23.",
+        "*Kui kuuled tuule häält*: 1Aj 14:15; 2Sm 5:24.",
+        "*Astroloogia*: Js 47:13; Tn 2:2; Am 5:26; Mt 2:7,9-10.",
+        "*Šamaanid*: 1Sm 28:7-19.",
         "*Õnnetähed*: Mt 2:2.",
-        "*Kõigevägevuse nooled*: Job 6:4; Sal 38:1-2.",
-        "*„Aamen“ kui rituaal*: Nm 5:22.",
-        "*„Selah“ kui rituaal*: Sal 3:2.",
-        "*Puhastada: (Punase mullika rituaal)*: Nm 19:1-22. *altari*: Lv 8:15. *sõjas saadud saagist*: Nm 31:12-24. *preestrite rõivastest*: Ex 29:4. *tabernaakli*: Ex 29:41-44. *naistest pärast sünnitust*: Lv 12:1-7.",
-        "*Puhastada: koguduse pattudest*: Lv 4:13-21. *individuaalsetest pattudest*: Lv 5:1-13. *pidalitõvest*: Lv 14:2-11. *võlgadest*: Lv 6:8-18.",
-        "*pühitseda võidmisega*: Ex 40:9-11. *Issanda poolt*: Lv 22:9,16. *esmakordselt sündinud meestest*: Ex 13:2. *inimeste*: Ex 19:10,14. *tabernaakli ja piirkonna*: Ex 29:41-44."
+        "*Kõigevägevuse nooled*: Ii 6:4; Ps 38:1-2.",
+        "*„Aamen“ kui rituaal*: 4Ms 5:22.",
+        "*„Selah“ kui rituaal*: Ps 3:2.",
+        "*Puhastada: (Punase mullika rituaal)*: 4Ms 19:1-22. *altari*: 3Ms 8:15. *sõjas saadud saagist*: 4Ms 31:12-24. *preestrite rõivastest*: 2Ms 29:4. *tabernaakli*: 2Ms 29:41-44. *naistest pärast sünnitust*: 3Ms 12:1-7.",
+        "*Puhastada: koguduse pattudest*: 3Ms 4:13-21. *individuaalsetest pattudest*: 3Ms 5:1-13. *pidalitõvest*: 3Ms 14:2-11. *võlgadest*: 3Ms 6:8-18.",
+        "*pühitseda võidmisega*: 2Ms 40:9-11. *Issanda poolt*: 3Ms 22:9,16. *esmakordselt sündinud meestest*: 2Ms 13:2. *inimeste*: 2Ms 19:10,14. *tabernaakli ja piirkonna*: 2Ms 29:41-44."
     ],
     "paper_title": "Šamanism — ravitsejad ja preestrid"
 }

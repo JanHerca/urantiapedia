@@ -295,7 +295,7 @@
                 {
                     "par_ref": "24:6.2",
                     "par_pageref": "269.6",
-                    "par_content": "Mul pole keelatud teile rääkida nende Aspirantide Teejuhtide tööst, kuid see on nii ülivaimne, et ma ei usu end suutvat anda ainelisele meelele õiget ettekujutust nende mitmekülgsest tegevusest. Eluasemeilmades, kui teie silmaring on avardunud ja te olete vabanenud aineliste võrdluste kammitsaist, võite hakata mõistma nende reaalsuste tähendust, mida „silm ei ole näinud ega kõrv kuulnud ja mis kunagi ei ole inimmeelde mõisteks saanud”, ja isegi neid asju, mis „Jumal on valmistanud neile, kes niisuguseid igavesi tõdesid armastavad”{0}. Teie silmaring ja vaimne arusaamisvõime pole määratud jääma alatiseks nii piiratuks."
+                    "par_content": "Mul pole keelatud teile rääkida nende Aspirantide Teejuhtide tööst, kuid see on nii ülivaimne, et ma ei usu end suutvat anda ainelisele meelele õiget ettekujutust nende mitmekülgsest tegevusest. Eluasemeilmades, kui teie silmaring on avardunud ja te olete vabanenud aineliste võrdluste kammitsaist, võite hakata mõistma nende reaalsuste tähendust, mida „silm ei ole näinud ega kõrv kuulnud ja mis kunagi ei ole inimmeelde mõisteks saanud”, ja isegi neid asju, mis „Jumal on valmistanud neile, kes niisuguseid igavesi tõdesid armastavad”{0}{1}. Teie silmaring ja vaimne arusaamisvõime pole määratud jääma alatiseks nii piiratuks."
                 },
                 {
                     "par_ref": "24:6.3",
@@ -393,8 +393,8 @@
         }
     ],
     "footnotes": [
-        "*Silm ei näe, kõrv ei kuule*: Is 64:4.",
-        "*Mida Jumal on valmistanud*: 1 Co 2:9."
+        "*Silm ei näe, kõrv ei kuule*: Js 64:4.",
+        "*Mida Jumal on valmistanud*: 1Kr 2:9."
     ],
     "paper_title": "Lõpmatu Vaimu kõrgemad isiksused"
 }

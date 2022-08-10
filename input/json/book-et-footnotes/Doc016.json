@@ -365,7 +365,7 @@
                 {
                     "par_ref": "16:6.2",
                     "par_pageref": "191.5",
-                    "par_content": "Niisugustes maailmades nagu Urantia ei kohta me Seitsme Meistervaimu vahetut mõju inimrasside ettevõtmistele. Teie elu kulgeb Nebadoni Loova Vaimu otsese mõju all. Ent siiski valitsevad needsamad Meistervaimud kõikide loodud-olendite meele põhilisi reaktsioone, sest nemad on kõigi mõistuslike ja vaimsete potentsiaalide tegelik allikas{0}. Need potentsiaalid on kohandatud iga kohaliku universumi tingimustele, et toimida arenevaid aja- ja ruumimaailmu asustavate üksikisikute elus."
+                    "par_content": "Niisugustes maailmades nagu Urantia ei kohta me Seitsme Meistervaimu vahetut mõju inimrasside ettevõtmistele. Teie elu kulgeb Nebadoni Loova Vaimu otsese mõju all. Ent siiski valitsevad needsamad Meistervaimud kõikide loodud-olendite meele põhilisi reaktsioone, sest nemad on kõigi mõistuslike ja vaimsete potentsiaalide tegelik allikas{0}{1}. Need potentsiaalid on kohandatud iga kohaliku universumi tingimustele, et toimida arenevaid aja- ja ruumimaailmu asustavate üksikisikute elus."
                 },
                 {
                     "par_ref": "16:6.3",
@@ -596,7 +596,7 @@
                 {
                     "par_ref": "16:9.4",
                     "par_pageref": "195.10",
-                    "par_content": "Inimesele omane eneseteadvus tähendab ka seda, et ei aduta mitte ainult enese teadvusliku mina, vaid teistegi minade reaalsust ning veel sedagi, et niisugune äratundmine on vastastikune, et mina tuntakse, kui ta ise tunneb{3}. See avaldub inimese sotsiaalses elus. Ent kaasolendi reaalsuses ei saa te kunagi olla niisama absoluutselt kindel kui teie enese sisimas elava Jumala kohaloleku reaalsuses. Sotsiaalne teadvus ei ole võõrandamatu nagu jumalateadvus, vaid on kultuurilise arengu saadus, mis sõltub teadmistest ja sümbolitest ning sellest, millist osa mängivad sealjuures inimese olemuslikud annid — teadus, kõlblus ja religioon. Ning ühiskonnastunud kujul moodustavadki need kosmilised kingid tsivilisatsiooni."
+                    "par_content": "Inimesele omane eneseteadvus tähendab ka seda, et ei aduta mitte ainult enese teadvusliku mina, vaid teistegi minade reaalsust ning veel sedagi, et niisugune äratundmine on vastastikune, et mina tuntakse, kui ta ise tunneb{3}. See avaldub inimese sotsiaalses elus. Ent kaasolendi reaalsuses ei saa te kunagi olla niisama absoluutselt kindel kui teie enese sisimas elava Jumala kohaloleku reaalsuses{4}. Sotsiaalne teadvus ei ole võõrandamatu nagu jumalateadvus, vaid on kultuurilise arengu saadus, mis sõltub teadmistest ja sümbolitest ning sellest, millist osa mängivad sealjuures inimese olemuslikud annid — teadus, kõlblus ja religioon. Ning ühiskonnastunud kujul moodustavadki need kosmilised kingid tsivilisatsiooni."
                 },
                 {
                     "par_ref": "16:9.5",
@@ -662,12 +662,12 @@
         }
     ],
     "footnotes": [
-        "*Adjutandi vaimud*: Ap 5:6.",
-        "*Jeesuse mõistus*: Sal 2:5; 1 Co 2:16.",
-        "*Sugulasvaimud*: Ro 12:15; Ro 15:5-6; 1 Co 1:10; 1 Co 13:11; Flp 1:27; Flp 2:2; Flp 4:2; 1 P 3:8; 1 P 4:1.",
-        "*Ise teada nagu ta teab*: 1 Co 13:12.",
-        "*Jumala vaim elab meis (T/A)*: Job 32:8,18; Is 63:10-11; Ez 37:14; Mt 10:20; Lc 17:21; Jn 17:21-23; Ro 8:9-11; 1 Co 3:16-17; 1 Co 6:19; 2 Co 6:16; Gl 2:20; 1 Jn 3:24; 1 Jn 4:12-15; Ap 21:3.",
-        "*Jeesus näitas inimesele Jumalat*: Mt 5:45-48; Mt 6:1,4,6; Mt 11:25-27; Mc 11:25-26; Lc 6:35-36; Lc 10:22; Jn 1:18; Jn 3:31-34; Jn 4:21-24; Jn 6:45-46; Jn 10:36-38; Jn 14:6-11,20; Jn 15:15; Jn 16:25; Jn 17:8,25-26."
+        "*Adjutandi vaimud*: Ilm 5:6.",
+        "*Jeesuse mõistus*: Ps 2:5; 1Kr 2:16.",
+        "*Sugulasvaimud*: Rm 12:15; Rm 15:5-6; 1Kr 1:10; 1Kr 13:11; Fl 1:27; Fl 2:2; Fl 4:2; 1Pt 3:8; 1Pt 4:1.",
+        "*Ise teada nagu ta teab*: 1Kr 13:12.",
+        "*Jumala vaim elab meis (T/A)*: Ii 32:8,18; Js 63:10-11; Hs 37:14; Mt 10:20; Lk 17:21; Jh 17:21-23; Rm 8:9-11; 1Kr 3:16-17; 1Kr 6:19; 2Kr 6:16; Gl 2:20; 1Jh 3:24; 1Jh 4:12-15; Ilm 21:3.",
+        "*Jeesus näitas inimesele Jumalat*: Mt 5:45-48; Mt 6:1,4,6; Mt 11:25-27; Mk 11:25-26; Lk 6:35-36; Lk 10:22; Jh 1:18; Jh 3:31-34; Jh 4:21-24; Jh 6:45-46; Jh 10:36-38; Jh 14:6-11,20; Jh 15:15; Jh 16:25; Jh 17:8,25-26."
     ],
     "paper_title": "Seitse Meistervaimu"
 }

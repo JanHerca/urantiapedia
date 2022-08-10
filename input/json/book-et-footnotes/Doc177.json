@@ -144,7 +144,7 @@
                 {
                     "par_ref": "177:3.7",
                     "par_pageref": "1924.3",
-                    "par_content": "Samal ajal kui laagris need sündmused toimusid, olid ülempreestrid ja vanemad Jeruusalemmas imestunud, miks Jeesus polnud enam rahvahulgale esinema tulnud. Tõsi küll, ta oli eelmisel päeval templist lahkudes öelnud: „Ma jätan teie koja maha{1}.” Ent nad ei saanud aru, miks ta oleks pidanud loobuma suurest eelisest, mida talle pakkus rahvahulga sõbralik suhtumine. Nad küll kartsid, et ta võib rahvast rahutustele õhutada, kuid Meistri viimased sõnad rahvale olid manitsenud inimesi alluma mõistlikult „Moosese asemele istujate” võimule. Linn oli askeldamist täis, sest üheaegselt valmistuti paasapühaks ja viimistleti plaane Jeesuse hävitamiseks."
+                    "par_content": "Samal ajal kui laagris need sündmused toimusid, olid ülempreestrid ja vanemad Jeruusalemmas imestunud, miks Jeesus polnud enam rahvahulgale esinema tulnud. Tõsi küll, ta oli eelmisel päeval templist lahkudes öelnud: „Ma jätan teie koja maha{1}.” Ent nad ei saanud aru, miks ta oleks pidanud loobuma suurest eelisest, mida talle pakkus rahvahulga sõbralik suhtumine. Nad küll kartsid, et ta võib rahvast rahutustele õhutada, kuid Meistri viimased sõnad rahvale olid manitsenud inimesi alluma mõistlikult „Moosese asemele istujate” võimule{2}. Linn oli askeldamist täis, sest üheaegselt valmistuti paasapühaks ja viimistleti plaane Jeesuse hävitamiseks."
                 },
                 {
                     "par_ref": "177:3.8",
@@ -161,7 +161,7 @@
                 {
                     "par_ref": "177:4.1",
                     "par_pageref": "1924.5",
-                    "par_content": "Veidi pärast seda, kui Jeesus ja Johannes Markus laagrist lahkusid, kadus Juudas Iskariot oma vendade seast ja tuli tagasi alles hilisõhtul. See segaduses ja rahulolematu apostel läks, hoolimata Meistri konkreetsest palvest hoiduda Jeruusalemma sisenemast, kiirustades ülempreester Kaifase majja Jeesuse vaenlastega kohtuma{3}. Seal toimus tol hommikul veidi pärast kümmet Suurkohtu mitteametlik istung. Koosolek oli kutsutud kokku, et arutada, milliseid süüdistusi Jeesusele esitada, ja otsustada, kuidas viia ta Rooma ametivõimude ette, et saada tsiviilvõimudelt vajalik kinnitus surmaotsusele, mille nad olid talle juba langetanud."
+                    "par_content": "Veidi pärast seda, kui Jeesus ja Johannes Markus laagrist lahkusid, kadus Juudas Iskariot oma vendade seast ja tuli tagasi alles hilisõhtul. See segaduses ja rahulolematu apostel läks, hoolimata Meistri konkreetsest palvest hoiduda Jeruusalemma sisenemast, kiirustades ülempreester Kaifase majja Jeesuse vaenlastega kohtuma{3}. Seal toimus tol hommikul veidi pärast kümmet Suurkohtu mitteametlik istung. Koosolek oli kutsutud kokku, et arutada, milliseid süüdistusi Jeesusele esitada, ja otsustada, kuidas viia ta Rooma ametivõimude ette, et saada tsiviilvõimudelt vajalik kinnitus surmaotsusele, mille nad olid talle juba langetanud{4}."
                 },
                 {
                     "par_ref": "177:4.2",
@@ -259,15 +259,15 @@
         }
     ],
     "footnotes": [
-        "*Palvetage „Meie Isa“*: Lc 11:2.",
-        "*Jäta maja tühjaks*: Mt 23:38; Lc 13:35.",
+        "*Palvetage „Meie Isa“*: Lk 11:2.",
+        "*Jäta maja tühjaks*: Mt 23:38; Lk 13:35.",
         "*Need, kes istuvad Moosese istmel*: Mt 23:2.",
-        "*Juudas läheb Kaifase majja*: Mt 26:14; Mc 14:10; Lc 22:4a.",
-        "*Sanhedriini koosolek Kaiafase juures*: Mt 26:3-4; Mc 14:1b; Lc 22:2.",
-        "*Kuradi vürst*: Mt 9:34; Mt 10:25; Mt 12:24,27; Mc 3:22; Lc 11:15,18-19.",
-        "*Hirm rahvahulkade ees*: Mt 26:5; Mc 14:2; Lc 22:2b.",
+        "*Juudas läheb Kaifase majja*: Mt 26:14; Mk 14:10; Lk 22:4a.",
+        "*Sanhedriini koosolek Kaiafase juures*: Mt 26:3-4; Mk 14:1b; Lk 22:2.",
+        "*Kuradi vürst*: Mt 9:34; Mt 10:25; Mt 12:24,27; Mk 3:22; Lk 11:15,18-19.",
+        "*Hirm rahvahulkade ees*: Mt 26:5; Mk 14:2; Lk 22:2b.",
         "*Juudas küsib „Kui palju?“*: Mt 26:15a.",
-        "*„Tasu“, kui reedab Jeesuse*: Mt 26:16; Mc 14:11; Lc 22:4-6."
+        "*„Tasu“, kui reedab Jeesuse*: Mt 26:16; Mk 14:11; Lk 22:4-6."
     ],
     "paper_title": "Kolmapäev — puhkepäev"
 }

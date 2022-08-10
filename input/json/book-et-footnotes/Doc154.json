@@ -13,7 +13,7 @@
                 {
                     "par_ref": "154:0.2",
                     "par_pageref": "1717.2",
-                    "par_content": "Üks Herodese ametliku perekonna liige, Suusa, kelle naine kuulus naiste hoolekandekorpusesse, oli talle teatanud, et Jeesus ei kavatse maistesse valitsemisasjadesse sekkuda; et teda huvitab ainult usklike vaimse vennaskonna loomine ja et ta nimetab seda taevariigiks. Herodes uskus Suusa ettekandeid nii kindlalt, et keeldus Jeesuse tegevust segamast. Herodese suhtumist Jeesuse tegevusse mõjutas tol ajal ka tema ebausklik hirm Ristija Johannese ees{0}. Herodes oli üks neist usust taganenud juutidest, kes ei uskunud midagi, kuid kartis kõike. Ta südametunnistus vaevas teda selle pärast, et ta oli Johannese tapnud, ning ta ei tahtnud sekkuda Jeesuse-vastastesse intriigidesse. Ta teadis paljudest haigetest, keda Jeesus olevat terveks ravinud, ja pidas teda kas prohvetiks või siis vähemalt suhteliselt kahjutuks usufanaatikuks."
+                    "par_content": "Üks Herodese ametliku perekonna liige, Suusa, kelle naine kuulus naiste hoolekandekorpusesse, oli talle teatanud, et Jeesus ei kavatse maistesse valitsemisasjadesse sekkuda; et teda huvitab ainult usklike vaimse vennaskonna loomine ja et ta nimetab seda taevariigiks. Herodes uskus Suusa ettekandeid nii kindlalt, et keeldus Jeesuse tegevust segamast. Herodese suhtumist Jeesuse tegevusse mõjutas tol ajal ka tema ebausklik hirm Ristija Johannese ees{0}. Herodes oli üks neist usust taganenud juutidest, kes ei uskunud midagi, kuid kartis kõike{1}. Ta südametunnistus vaevas teda selle pärast, et ta oli Johannese tapnud, ning ta ei tahtnud sekkuda Jeesuse-vastastesse intriigidesse. Ta teadis paljudest haigetest, keda Jeesus olevat terveks ravinud, ja pidas teda kas prohvetiks või siis vähemalt suhteliselt kahjutuks usufanaatikuks."
                 },
                 {
                     "par_ref": "154:0.3",
@@ -258,14 +258,14 @@
         }
     ],
     "footnotes": [
-        "*Heroodese suhtumine Jeesusesse*: Mc 6:14; Lc 9:7.",
-        "*Heroodese hirmud*: Mt 14:1-2; Mc 6:14-20; Lc 9:7-9.",
-        "*Jeesuse pere saabub*: Mt 12:46; Mc 3:31; Lc 8:19.",
-        "*Jeesus teatas perekonna ootamisest*: Mt 12:47; Mc 3:32; Lc 8:20.",
-        "*Kes on minu perekond?*: Mt 12:48-50; Mc 3:33-35; Lc 8:21.",
-        "*Õnnistatud on ema, kes sind sünnitas*: Lc 11:27-28.",
-        "*Vaenlased oma majapidamises*: Mt 10:35-36; Mc 13:12; Lc 12:52-53.",
-        "*Ei ole kohta, kuhu pead panna*: Mt 8:20; Lc 9:58."
+        "*Heroodese suhtumine Jeesusesse*: Mk 6:14; Lk 9:7.",
+        "*Heroodese hirmud*: Mt 14:1-2; Mk 6:14-20; Lk 9:7-9.",
+        "*Jeesuse pere saabub*: Mt 12:46; Mk 3:31; Lk 8:19.",
+        "*Jeesus teatas perekonna ootamisest*: Mt 12:47; Mk 3:32; Lk 8:20.",
+        "*Kes on minu perekond?*: Mt 12:48-50; Mk 3:33-35; Lk 8:21.",
+        "*Õnnistatud on ema, kes sind sünnitas*: Lk 11:27-28.",
+        "*Vaenlased oma majapidamises*: Mt 10:35-36; Mk 13:12; Lk 12:52-53.",
+        "*Ei ole kohta, kuhu pead panna*: Mt 8:20; Lk 9:58."
     ],
     "paper_title": "Viimased päevad Kapernaumas"
 }

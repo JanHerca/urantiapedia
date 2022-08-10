@@ -223,7 +223,7 @@
                 {
                     "par_ref": "40:5.19",
                     "par_pageref": "447.4",
-                    "par_content": "Mis puutub surelike ellujäämise võimalustesse, siis tehkem siinkohal alatiseks selgeks: kõik hinged sureliku eksistentsi kõikvõimalikest faasidest jäävad ellu, kui nad avaldavad valmisolekut teha koostööd oma sisimas elava Kohandajaga ja ilmutavad soovi leida Jumalat ning saavutada jumalikku täiuslikkust, olgugi need soovid alles esimesed nõrgad virvendused primitiivsest arusaamisest, et on olemas „tõeline valgus, mis valgustab igat inimest, kes tuleb maailma”{1}."
+                    "par_content": "Mis puutub surelike ellujäämise võimalustesse, siis tehkem siinkohal alatiseks selgeks: kõik hinged sureliku eksistentsi kõikvõimalikest faasidest jäävad ellu, kui nad avaldavad valmisolekut teha koostööd oma sisimas elava Kohandajaga ja ilmutavad soovi leida Jumalat ning saavutada jumalikku täiuslikkust, olgugi need soovid alles esimesed nõrgad virvendused primitiivsest arusaamisest, et on olemas „tõeline valgus, mis valgustab igat inimest, kes tuleb maailma”{1}{2}."
                 }
             ]
         },
@@ -240,7 +240,7 @@
                 {
                     "par_ref": "40:6.2",
                     "par_pageref": "448.1",
-                    "par_content": "See, et nii madalad ja ainelised loodud-olendid nagu Urantia inimolendid on Jumala pojad, Kõigekõrgema usulapsed, on püha ja taevalik asjaolu. „Vaadake, missuguse armastuse Isa on meile andnud, et meid hüütakse Jumala poegadeks{4}.” „Aga kõigile, kes teda vastu võtsid, andis ta meelevalla saada Jumala poegadeks.” Kuigi „ei ole veel saanud avalikuks, mis te tulevikus olete”, olete te praegu siiski „kõik usu kaudu Jumala lapsed”; „sest te ei ole saanud orjapõlve vaimu, et peaksite jälle kartma, vaid te olete saanud pojaksolemise vaimu, kelles te hüüate „meie Isa””. Vanaaja prohvet kõneles igavese Jumala nimel: „Neile annan ma oma majas koha ja parema nime kui pojad; neile annan ma igavese nime, mida ei saa ära võtta.” „Aga et te nüüd olete pojad, on Jumal läkitanud teie südamesse oma Poja vaimu.”"
+                    "par_content": "See, et nii madalad ja ainelised loodud-olendid nagu Urantia inimolendid on Jumala pojad, Kõigekõrgema usulapsed, on püha ja taevalik asjaolu. „Vaadake, missuguse armastuse Isa on meile andnud, et meid hüütakse Jumala poegadeks{4}.” „Aga kõigile, kes teda vastu võtsid, andis ta meelevalla saada Jumala poegadeks{5}.” Kuigi „ei ole veel saanud avalikuks, mis te tulevikus olete”, olete te praegu siiski „kõik usu kaudu Jumala lapsed”; „sest te ei ole saanud orjapõlve vaimu, et peaksite jälle kartma, vaid te olete saanud pojaksolemise vaimu, kelles te hüüate „meie Isa””{6}{7}{8}. Vanaaja prohvet kõneles igavese Jumala nimel: „Neile annan ma oma majas koha ja parema nime kui pojad; neile annan ma igavese nime, mida ei saa ära võtta{9}.” „Aga et te nüüd olete pojad, on Jumal läkitanud teie südamesse oma Poja vaimu{10}.”"
                 },
                 {
                     "par_ref": "40:6.3",
@@ -458,7 +458,7 @@
                 {
                     "par_ref": "40:10.13",
                     "par_pageref": "454.2",
-                    "par_content": "Seega võib analüüsi tulemusena öelda, et pojaseisuse tõusvate klasside saatuste võrdlemiseks oleks vaevalt kohane kasutada sõnu „oluline” või „vähetähtis”. Kõigil neil Jumala poegadel on ühine isa, Jumal, ja Jumal armastab kõiki oma loodud-olenditest poegi ühtviisi: ta ei pea rohkem lugu tõusutee saatustest kui loodud-olenditest, kes neid saatusi võiksid saavutada{13}. Isa armastab *kõiki* oma poegi ning see armastus on tõeline, püha, jumalik, piiritu, igavene ja ainulaadne *— sellele* pojale ja *tollele* pojale individuaalselt, isiklikult ja ainuliselt talle osaks saanud armastus. Ja niisugune armastus varjutab täielikult kõik muud asjaolud. Pojaksolek on loodud-olendi ülim suhe Loojaga."
+                    "par_content": "Seega võib analüüsi tulemusena öelda, et pojaseisuse tõusvate klasside saatuste võrdlemiseks oleks vaevalt kohane kasutada sõnu „oluline” või „vähetähtis”. Kõigil neil Jumala poegadel on ühine isa, Jumal, ja Jumal armastab kõiki oma loodud-olenditest poegi ühtviisi: ta ei pea rohkem lugu tõusutee saatustest kui loodud-olenditest, kes neid saatusi võiksid saavutada{13}{14}. Isa armastab *kõiki* oma poegi ning see armastus on tõeline, püha, jumalik, piiritu, igavene ja ainulaadne *— sellele* pojale ja *tollele* pojale individuaalselt, isiklikult ja ainuliselt talle osaks saanud armastus. Ja niisugune armastus varjutab täielikult kõik muud asjaolud. Pojaksolek on loodud-olendi ülim suhe Loojaga."
                 },
                 {
                     "par_ref": "40:10.14",
@@ -474,21 +474,21 @@
         }
     ],
     "footnotes": [
-        "*Te olete veidi madalamal kui inglid*: Sal 8:5; Heb 2:7.",
-        "*Tõeline valgus*: Is 9:2; Is 49:6; Mt 4:16; Lc 1:79; Lc 2:32; Jn 1:4-9; Jn 8:12; Jn 9:5; Jn 12:35-36,46; 1 Jn 2:8.",
-        "*Tõeline valgus, mis valgustab kõiki*: Jn 1:9.",
-        "*Usk Jumala pojad*: 1 Cr 22:10; Sal 2:7; Is 56:5; Mt 5:9,16,45; Lc 20:36; Jn 1:12-13; Jn 11:52; Hch 17:28-29; Ro 8:14-17,19,21; Ro 9:26; 2 Co 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Flp 2:15; Heb 12:5-8; 1 Jn 3:1-2,10; 1 Jn 5:2; Ap 21:7; 2 Sam 7:14.",
-        "*Vaata, milline armastus*: 1 Jn 3:1.",
-        "*Võtke vastu Jeesus*: Jn 1:12.",
-        "*Ei ole veel ilmunud, mis saab olema*: 1 Jn 3:2.",
+        "*Te olete veidi madalamal kui inglid*: Ps 8:5; Hb 2:7.",
+        "*Tõeline valgus*: Js 9:2; Js 49:6; Mt 4:16; Lk 1:79; Lk 2:32; Jh 1:4-9; Jh 8:12; Jh 9:5; Jh 12:35-36,46; 1Jh 2:8.",
+        "*Tõeline valgus, mis valgustab kõiki*: Jh 1:9.",
+        "*Usk Jumala pojad*: 1Aj 22:10; Ps 2:7; Js 56:5; Mt 5:9,16,45; Lk 20:36; Jh 1:12-13; Jh 11:52; Ap 17:28-29; Rm 8:14-17,19,21; Rm 9:26; 2Kr 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Fl 2:15; Hb 12:5-8; 1Jh 3:1-2,10; 1Jh 5:2; Ilm 21:7; 2Sm 7:14.",
+        "*Vaata, milline armastus*: 1Jh 3:1.",
+        "*Võtke vastu Jeesus*: Jh 1:12.",
+        "*Ei ole veel ilmunud, mis saab olema*: 1Jh 3:2.",
         "*Nüüd olete te usu pojad*: Gl 3:26.",
-        "*Saanud poja vaimu*: Ro 8:15.",
-        "*Ma annan igavese nime*: Is 56:5.",
+        "*Saanud poja vaimu*: Rm 8:15.",
+        "*Ma annan igavese nime*: Js 56:5.",
         "*Poja vaim teie südames*: Gl 4:6.",
-        "*Olge te täiuslikud*: Gn 17:1; 1 Re 8:61; Lv 19:2; Dt 18:13; Mt 5:48; 2 Co 13:11; Stg 1:4; 1 P 1:16.",
-        "*Seitsekümmend korda seitse*: Mt 18:22; Lc 17:3-4.",
-        "*Jumala armastus poegade vastu*: Jn 3:16; 1 Jn 3:1; 1 Jn 4:9-10.",
-        "*Jumal ei austa inimesi*: 2 Cr 19:7; Job 34:19; Ec lo 35:12; Hch 10:34; Ro 2:11; Gl 2:6; Gl 3:28; Ef 6:9; Col 3:11."
+        "*Ole sa täiuslik*: 1Ms 17:1; 1Kn 8:61; 3Ms 19:2; 5Ms 18:13; Mt 5:48; 2Kr 13:11; Jk 1:4; 1Pt 1:16.",
+        "*Seitsekümmend korda seitse*: Mt 18:22; Lk 17:3-4.",
+        "*Jumala armastus poegade vastu*: Jh 3:16; 1Jh 3:1; 1Jh 4:9-10.",
+        "*Jumal ei austa inimesi*: 2Aj 19:7; Ii 34:19; Srk 35:12; Ap 10:34; Rm 2:11; Gl 2:6; Gl 3:28; Ef 6:9; Kl 3:11."
     ],
     "paper_title": "Tõusvad Jumala pojad"
 }

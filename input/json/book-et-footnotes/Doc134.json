@@ -176,7 +176,7 @@
                 {
                     "par_ref": "134:4.7",
                     "par_pageref": "1487.4",
-                    "par_content": "Jumal on vaim ja Jumal paigutab oma vaim-mina ühe fragmendi inimsüdame sisimasse{3}. Vaimselt on kõik inimesed võrdsed. Taevariigis pole kaste, klasse, ühiskonnakihte ega majanduslikke rühmi. Te kõik olete vennad."
+                    "par_content": "Jumal on vaim ja Jumal paigutab oma vaim-mina ühe fragmendi inimsüdame sisimasse{3}. Vaimselt on kõik inimesed võrdsed{4}. Taevariigis pole kaste, klasse, ühiskonnakihte ega majanduslikke rühmi. Te kõik olete vennad{5}."
                 },
                 {
                     "par_ref": "134:4.8",
@@ -516,7 +516,7 @@
                 {
                     "par_ref": "134:9.8",
                     "par_pageref": "1495.5",
-                    "par_content": "Aja jooksul jõudsid Kapernauma kuuldused kellestki Johannesest, kes jutlustas ja patukahetsejaid Jordanis ristis ning kelle jutlus kõlas nii: „Taevariik on lähedal; parandage meelt ja laske end ristida{14}.” Jeesus kuulis neid jutte sedamööda, kuidas Johannes liikus aegamisi piki Jordani orgu edasi, alustanud Jeruusalemmale kõige lähemast koolmekohast. Kuid Jeesus töötas endist viisi ja valmistas paate, kuni Johannes oli jõudnud järgmise aasta, 26. a pKr jaanuarikuuks jõge mööda Pella lähedale; siis pani ta tööriistad käest, teatades: „Minu tund on tulnud,” ja läks Johannese juurde, et end ristida lasta."
+                    "par_content": "Aja jooksul jõudsid Kapernauma kuuldused kellestki Johannesest, kes jutlustas ja patukahetsejaid Jordanis ristis ning kelle jutlus kõlas nii: „Taevariik on lähedal; parandage meelt ja laske end ristida{14}.” Jeesus kuulis neid jutte sedamööda, kuidas Johannes liikus aegamisi piki Jordani orgu edasi, alustanud Jeruusalemmale kõige lähemast koolmekohast{15}. Kuid Jeesus töötas endist viisi ja valmistas paate, kuni Johannes oli jõudnud järgmise aasta, 26. a pKr jaanuarikuuks jõge mööda Pella lähedale; siis pani ta tööriistad käest, teatades: „Minu tund on tulnud,” ja läks Johannese juurde, et end ristida lasta."
                 },
                 {
                     "par_ref": "134:9.9",
@@ -527,22 +527,22 @@
         }
     ],
     "footnotes": [
-        "*Jumal on armastus*: 1 Jn 4:7-11,16,19.",
-        "*Jumal on vaim, tema kuningriik on vaimne*: Jn 3:5; Jn 4:24.",
-        "*Ühtsus, mitte ühetaolisus*: Ro 14:17-19; 1 Co 1:10; 1 Co 10:17; 1 Co 12:17-31; Ef 4:3-6,11-13.",
-        "*Elav vaim*: Job 32:8,18; Is 63:10-11; Ez 37:14; Mt 10:20; Lc 17:21; Jn 17:21-23; Ro 8:9-11; 1 Co 3:16-17; 1 Co 6:19; 2 Co 6:16; Gl 2:20; 1 Jn 3:24; 1 Jn 4:12-15; Ap 21:3.",
-        "*Kõik inimesed on vaimselt võrdsed*: 2 Cr 19:7; Job 34:19; Ec lo 35:12; Hch 10:34; Ro 2:11; Gl 2:6; Gl 3:28; Ef 6:9; Col 3:11.",
+        "*Jumal on armastus*: 1Jh 4:7-11,16,19.",
+        "*Jumal on vaim, tema kuningriik on vaimne*: Jh 3:5; Jh 4:24.",
+        "*Ühtsus, mitte ühetaolisus*: Rm 14:17-19; 1Kr 1:10; 1Kr 10:17; 1Kr 12:17-31; Ef 4:3-6,11-13.",
+        "*Elav vaim*: Ii 32:8,18; Js 63:10-11; Hs 37:14; Mt 10:20; Lk 17:21; Jh 17:21-23; Rm 8:9-11; 1Kr 3:16-17; 1Kr 6:19; 2Kr 6:16; Gl 2:20; 1Jh 3:24; 1Jh 4:12-15; Ilm 21:3.",
+        "*Kõik inimesed on vaimselt võrdsed*: 2Aj 19:7; Ii 34:19; Srk 35:12; Ap 10:34; Rm 2:11; Gl 2:6; Gl 3:28; Ef 6:9; Kl 3:11.",
         "*Te olete kõik vennad*: Mt 23:8.",
-        "*Kõige kõrgemad valitsevad inimeste kuningriikides*: Dn 4:17,25,32; Dn 5:21.",
-        "*Sõjad, sõjahüüded*: Mt 24:6-7; Mc 13:7-8; Lc 21:9-10.",
-        "*Kuidas saada rahu, head tahet*: Lc 2:14.",
-        "*Paulus Antiookias*: Hch 11:25-26.",
-        "*Kohandaja viib Jeesuse mäele*: Mt 4:1; Mc 1:12; Lc 4:1.",
-        "*Kas Jeesus paastus või sõi?*: Mt 4:2; Mc 1:13; Lc 4:2.",
-        "*„Jeesuse tempatsioonid“*: Mt 4:3-11; Mc 1:13; Lc 4:2-13.",
-        "*Gilboa, kus Saul suri*: 1 Cr 10:1-5; 1 Sam 31:1-4; 2 Sam 1:1-10.",
+        "*Kõige kõrgemad valitsevad inimeste kuningriikides*: Tn 4:17,25,32; Tn 5:21.",
+        "*Sõjad, sõjahüüded*: Mt 24:6-7; Mk 13:7-8; Lk 21:9-10.",
+        "*Kuidas saada rahu, head tahet*: Lk 2:14.",
+        "*Paulus Antiookias*: Ap 11:25-26.",
+        "*Kohandaja viib Jeesuse mäele*: Mt 4:1; Mk 1:12; Lk 4:1.",
+        "*Kas Jeesus paastus või sõi?*: Mt 4:2; Mk 1:13; Lk 4:2.",
+        "*„Jeesuse tempatsioonid“*: Mt 4:3-11; Mk 1:13; Lk 4:2-13.",
+        "*Gilboa, kus Saul suri*: 1Aj 10:1-5; 1Sm 31:1-4; 2Sm 1:1-10.",
         "*Johannese jutlus*: Mt 3:1-2,5-6.",
-        "*Kuningriik on käes; tee meeleparandus*: Mt 3:2; Lc 3:3."
+        "*Kuningriik on käes; tee meeleparandus*: Mt 3:2; Lk 3:3."
     ],
     "paper_title": "Üleminekuaastad"
 }

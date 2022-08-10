@@ -216,7 +216,7 @@
                 {
                     "par_ref": "84:4.8",
                     "par_pageref": "936.1",
-                    "par_content": "Naiste niinimetatud tagasihoidlikkus oma rõivastuse ja enese näitamise suhtes arenes välja surmahirmust, et keegi võib neid menstruatsiooni ajal märgata. Sel ajal teiste silma alla sattumist peeti tõsiseks patuks, tabu rikkumiseks. Vana aja kommete järgi pidi iga naine neiueast kuni sünnitamisvõime kadumiseni olema iga kuu terve nädala täielikus perekondlikus ja sotsiaalses karantiinis{5}. Kõik, mida ta puudutas, millel istus või lamas, oli „rüvetatud”. Kaua aega oli tavaks peksta tütarlast julmalt pärast iga menstruatsiooni, et kurja vaimu tema kehast välja ajada. Ent kui naine oli sünnitamiseast väljas, koheldi teda tavaliselt lugupidavamalt ning talle anti rohkem õigusi ja privileege. Seda kõike arvestades polnud ime, et naisi peeti alamateks olevusteks. Isegi kreeklased pidasid menstrueerivat naist üheks kolmest suurest rüvedusest, ülejäänud kaks olid sealiha ja küüslauk."
+                    "par_content": "Naiste niinimetatud tagasihoidlikkus oma rõivastuse ja enese näitamise suhtes arenes välja surmahirmust, et keegi võib neid menstruatsiooni ajal märgata. Sel ajal teiste silma alla sattumist peeti tõsiseks patuks, tabu rikkumiseks. Vana aja kommete järgi pidi iga naine neiueast kuni sünnitamisvõime kadumiseni olema iga kuu terve nädala täielikus perekondlikus ja sotsiaalses karantiinis{5}. Kõik, mida ta puudutas, millel istus või lamas, oli „rüvetatud”{6}. Kaua aega oli tavaks peksta tütarlast julmalt pärast iga menstruatsiooni, et kurja vaimu tema kehast välja ajada. Ent kui naine oli sünnitamiseast väljas, koheldi teda tavaliselt lugupidavamalt ning talle anti rohkem õigusi ja privileege. Seda kõike arvestades polnud ime, et naisi peeti alamateks olevusteks. Isegi kreeklased pidasid menstrueerivat naist üheks kolmest suurest rüvedusest, ülejäänud kaks olid sealiha ja küüslauk."
                 },
                 {
                     "par_ref": "84:4.9",
@@ -560,15 +560,15 @@
         }
     ],
     "footnotes": [
-        "*Elu hingamine*: Gn 2:7.",
-        "*Elu veri*: Lv 15:19; Lv 17:11.",
-        "*Issand on minu karjane*: Sal 23:1.",
-        "*Süüdista naisi*: Gn 3:12-17.",
-        "*Sünnitus „roojane“*: Lv 12:2-8; Lc 2:22-24.",
-        "*Karantiin*: Lv 15:19-20.",
-        "*Rüvetatud, kui puudutad menstruatsiooniga naist*: Lv 15:21-22.",
-        "*Armastus lapselaste vastu*: Pr 17:6.",
-        "*Lapse kasvatamine*: Pr 22:6."
+        "*Elu hingamine*: 1Ms 2:7.",
+        "*Elu veri*: 3Ms 15:19; 3Ms 17:11.",
+        "*Issand on minu karjane*: Ps 23:1.",
+        "*Süüdista naisi*: 1Ms 3:12-17.",
+        "*Sünnitus „roojane“*: 3Ms 12:2-8; Lk 2:22-24.",
+        "*Karantiin*: 3Ms 15:19-20.",
+        "*Rüvetatud, kui puudutad menstruatsiooniga naist*: 3Ms 15:21-22.",
+        "*Armastus lapselaste vastu*: Õp 17:6.",
+        "*Lapse kasvatamine*: Õp 22:6."
     ],
     "paper_title": "Abielu ja perekonnaelu"
 }

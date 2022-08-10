@@ -40,7 +40,7 @@
                 {
                     "par_ref": "81:1.4",
                     "par_pageref": "900.6",
-                    "par_content": "Kuna varajaste põlluharijate seas oli orjade kasutamine laialt levinud, pidasid nii karjakasvataja kui ka kütt põllumeest endast alamaks. Maaharimine jäi terveteks ajastuteks alandavaks tegevuseks; sealt ka arvamus, et mullatöö on needus, kuigi see on suurim kõigist õnnistustest{0}. Isegi Kaini ja Aabeli ajal olid karjakasvatajate ohvrid kõrgemalt hinnatud kui põlluharijate omad."
+                    "par_content": "Kuna varajaste põlluharijate seas oli orjade kasutamine laialt levinud, pidasid nii karjakasvataja kui ka kütt põllumeest endast alamaks. Maaharimine jäi terveteks ajastuteks alandavaks tegevuseks; sealt ka arvamus, et mullatöö on needus, kuigi see on suurim kõigist õnnistustest{0}. Isegi Kaini ja Aabeli ajal olid karjakasvatajate ohvrid kõrgemalt hinnatud kui põlluharijate omad{1}."
                 },
                 {
                     "par_ref": "81:1.5",
@@ -571,9 +571,9 @@
         }
     ],
     "footnotes": [
-        "*Lihttöö*: Gn 3:17-19.",
-        "*Eelistatud pastoraalteenused*: Gn 4:2-5.",
-        "*Üks keel*: Gn 11:1-9."
+        "*Lihttöö*: 1Ms 3:17-19.",
+        "*Eelistatud pastoraalteenused*: 1Ms 4:2-5.",
+        "*Üks keel*: 1Ms 11:1-9."
     ],
     "paper_title": "Nüüdisaegse tsivilisatsiooni areng"
 }

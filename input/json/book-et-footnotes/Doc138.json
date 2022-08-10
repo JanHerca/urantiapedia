@@ -129,7 +129,7 @@
                 {
                     "par_ref": "138:3.4",
                     "par_pageref": "1540.7",
-                    "par_content": "Siis läksid nad kõik tagasi Matteuse majja, kus räägiti kuni õhtusöögini palju poliitikast ja religioonist{3}. Leevide pere oli tegelnud äri ja maksukogumisega juba pikka aega, seepärast oleksid variserid võinud paljusid sellele Matteuse banketile kutsutud külalisi „tölneriteks ja patusteks” nimetada."
+                    "par_content": "Siis läksid nad kõik tagasi Matteuse majja, kus räägiti kuni õhtusöögini palju poliitikast ja religioonist{3}. Leevide pere oli tegelnud äri ja maksukogumisega juba pikka aega, seepärast oleksid variserid võinud paljusid sellele Matteuse banketile kutsutud külalisi „tölneriteks ja patusteks” nimetada{4}."
                 },
                 {
                     "par_ref": "138:3.5",
@@ -324,7 +324,7 @@
                 {
                     "par_ref": "138:8.8",
                     "par_pageref": "1545.9",
-                    "par_content": "Jeesus selgitas oma apostlitele, mis vahe on juutide õpetatud niinimetatud heategude kaudu toimuva meeleparanduse ja usust — uuestisünnist — tuleneva meelemuutuse vahel, mida ta nõudis taevariiki pääsemise hinnana{12}. Ta õpetas oma apostlitele, et *usk* on Isa taevariiki astumise ainus tingimus. Johannes oli neile õpetanud „meeleparandust — põgenemist tulevase viha eest”. Jeesus õpetas: „Usk on avali uks Jumala praegusesse, täiuslikku ja igavesse armastusse astumiseks”. Jeesus ei rääkinud nagu prohvet, kes tuleb Jumala sõna kuulutama. Ta näis rääkivat enda nimel kui keegi, kel on meelevald. Jeesus püüdis viia nende meele imede otsimiselt tõelise ja isikliku kogemuse leidmisele sisimas elava Jumala armastuse ja päästva armulisuse vaimu pakutava rahuldus- ja kindlustunde kaudu."
+                    "par_content": "Jeesus selgitas oma apostlitele, mis vahe on juutide õpetatud niinimetatud heategude kaudu toimuva meeleparanduse ja usust — uuestisünnist — tuleneva meelemuutuse vahel, mida ta nõudis taevariiki pääsemise hinnana{12}{13}. Ta õpetas oma apostlitele, et *usk* on Isa taevariiki astumise ainus tingimus. Johannes oli neile õpetanud „meeleparandust — põgenemist tulevase viha eest”. Jeesus õpetas: „Usk on avali uks Jumala praegusesse, täiuslikku ja igavesse armastusse astumiseks”{14}. Jeesus ei rääkinud nagu prohvet, kes tuleb Jumala sõna kuulutama. Ta näis rääkivat enda nimel kui keegi, kel on meelevald. Jeesus püüdis viia nende meele imede otsimiselt tõelise ja isikliku kogemuse leidmisele sisimas elava Jumala armastuse ja päästva armulisuse vaimu pakutava rahuldus- ja kindlustunde kaudu."
                 },
                 {
                     "par_ref": "138:8.9",
@@ -429,23 +429,23 @@
         }
     ],
     "footnotes": [
-        "*Ükski prohvet ei ole ilma austuseta, välja arvatud tema kodus*: Mt 13:57; Mc 6:4; Lc 4:24; Jn 4:44.",
-        "*Apostlite piibellikud nimed*: Mt 10:2-4; Mc 3:16-19; Lc 6:14-16; Hch 1:13.",
-        "*Matteuse valitud*: Mt 9:9; Mc 2:14; Lc 5:27-28.",
-        "*Matteuse bankett*: Mt 9:10; Mc 2:15; Lc 5:29.",
-        "*Kommunaalid ja patused*: Mt 9:10-11; Mt 11:19; Mc 2:15-16; Lc 5:30; Lc 7:34; Lc 15:1.",
-        "*Terved ei vaja arsti*: Mt 9:11-13; Mc 2:16-17; Lc 5:30-32.",
-        "*Kõigi, kes Jumalat otsivad, võrdsus*: 2 Cr 19:7; Job 34:19; Ec lo 35:12; Hch 10:34; Ro 2:11; Gl 2:6; Gl 3:28; Ef 6:9; Col 3:11.",
-        "*Kuningriigi evangeelium*: Mt 4:23; Mt 9:35; Mt 24:14; Mc 1:14-15.",
-        "*Uus ja parem tee*: Jn 14:6; Heb 10:20.",
-        "*Apostlid, et olla inimeste kalurid*: Mt 4:19; Mc 1:17; Lc 5:10b.",
-        "*Räägi ainult seda, mida kuuldud; mitte kuuldut*: Jn 8:26; Hch 4:20.",
-        "*Ärge rääkige kellelegi veest veiniks*: Jn 2:1-11.",
-        "*Tehke meeleparandus, põgenege tulevast viha*: Mt 3:2,7; Lc 3:3,7.",
-        "*Meelemuutus usu kaudu, uuestisündinud*: Jn 3:3-8; Gl 2:16; Gl 3:2; Stg 2:14.",
-        "*Usk on avatud uks*: Mt 17:20; Mt 21:11; Lc 17:6; Hch 14:27.",
-        "*Perekond nägi Jeesust kui enda kõrval*: Mc 3:21.",
-        "*Juudas kandis kotti*: Jn 12:6; Jn 13:29."
+        "*Ükski prohvet ei ole ilma austuseta, välja arvatud tema kodus*: Mt 13:57; Mk 6:4; Lk 4:24; Jh 4:44.",
+        "*Apostlite piibellikud nimed*: Mt 10:2-4; Mk 3:16-19; Lk 6:14-16; Ap 1:13.",
+        "*Matteuse valitud*: Mt 9:9; Mk 2:14; Lk 5:27-28.",
+        "*Matteuse bankett*: Mt 9:10; Mk 2:15; Lk 5:29.",
+        "*Kommunaalid ja patused*: Mt 9:10-11; Mt 11:19; Mk 2:15-16; Lk 5:30; Lk 7:34; Lk 15:1.",
+        "*Terved ei vaja arsti*: Mt 9:11-13; Mk 2:16-17; Lk 5:30-32.",
+        "*Kõigi, kes Jumalat otsivad, võrdsus*: 2Aj 19:7; Ii 34:19; Srk 35:12; Ap 10:34; Rm 2:11; Gl 2:6; Gl 3:28; Ef 6:9; Kl 3:11.",
+        "*Kuningriigi evangeelium*: Mt 4:23; Mt 9:35; Mt 24:14; Mk 1:14-15.",
+        "*Uus ja parem tee*: Jh 14:6; Hb 10:20.",
+        "*Apostlid, et olla inimeste kalurid*: Mt 4:19; Mk 1:17; Lk 5:10b.",
+        "*Räägi ainult seda, mida kuuldud; mitte kuuldut*: Jh 8:26; Ap 4:20.",
+        "*Ärge rääkige kellelegi veest veiniks*: Jh 2:1-11.",
+        "*Tehke meeleparandus, põgenege tulevast viha*: Mt 3:2,7; Lk 3:3,7.",
+        "*Meelemuutus usu kaudu, uuestisündinud*: Jh 3:3-8; Gl 2:16; Gl 3:2; Jk 2:14.",
+        "*Usk on avatud uks*: Mt 17:20; Mt 21:11; Lk 17:6; Ap 14:27.",
+        "*Perekond nägi Jeesust kui enda kõrval*: Mk 3:21.",
+        "*Juudas kandis kotti*: Jh 12:6; Jh 13:29."
     ],
     "paper_title": "Taevariigi sõnumitoojate koolitus"
 }

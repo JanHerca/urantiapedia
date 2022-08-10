@@ -127,7 +127,7 @@
                 {
                     "par_ref": "103:2.9",
                     "par_pageref": "1131.8",
-                    "par_content": "Ent enne kui laps on piisavalt arenenud, et omandada kõlbelist võimekust ja suuta valida altruistliku teenimise teed, on tal juba välja kujunenud tugev ja väga ühtne egoistlik loomus. Just selle tegeliku olukorra alusel on tekkinud teooria võitlusest „kõrgema” ja „madalama” loomuse, „endise patuse” ja „uue õilsa loomuse” vahel{2}. Normaalsele lapsele saab elus juba väga varakult selgeks, et „õndsam on anda kui saada”."
+                    "par_content": "Ent enne kui laps on piisavalt arenenud, et omandada kõlbelist võimekust ja suuta valida altruistliku teenimise teed, on tal juba välja kujunenud tugev ja väga ühtne egoistlik loomus. Just selle tegeliku olukorra alusel on tekkinud teooria võitlusest „kõrgema” ja „madalama” loomuse, „endise patuse” ja „uue õilsa loomuse” vahel{2}. Normaalsele lapsele saab elus juba väga varakult selgeks, et „õndsam on anda kui saada”{3}."
                 },
                 {
                     "par_ref": "103:2.10",
@@ -213,7 +213,7 @@
                 {
                     "par_ref": "103:5.2",
                     "par_pageref": "1133.7",
-                    "par_content": "See teistele head tegemise idee-ideaal — tung keelata oma egole midagi oma ligimese heaks — on algul väga piiratud{5}. Ürginimene peab ligimesteks vaid väga lähedasi inimesi, kes teda heanaaberlikult kohtlevad; religioosse tsivilisatsiooni arenedes hakkab ligimese mõiste hõlmama suguharu, hõimu, rahvast. Jeesus laiendas ligimese mõiste kogu inimkonnale, nii et me peaksime isegi oma vaenlasi armastama. Igas normaalses inimeses on miski, mis ütleb talle, et see õpetus on kõlbeline — õige. Isegi need, kes seda ideaali oma elus kõige vähem rakendavad, möönavad, et see on teoreetiliselt õige."
+                    "par_content": "See teistele head tegemise idee-ideaal — tung keelata oma egole midagi oma ligimese heaks — on algul väga piiratud{5}. Ürginimene peab ligimesteks vaid väga lähedasi inimesi, kes teda heanaaberlikult kohtlevad; religioosse tsivilisatsiooni arenedes hakkab ligimese mõiste hõlmama suguharu, hõimu, rahvast{6}{7}. Jeesus laiendas ligimese mõiste kogu inimkonnale, nii et me peaksime isegi oma vaenlasi armastama{8}{9}. Igas normaalses inimeses on miski, mis ütleb talle, et see õpetus on kõlbeline — õige. Isegi need, kes seda ideaali oma elus kõige vähem rakendavad, möönavad, et see on teoreetiliselt õige."
                 },
                 {
                     "par_ref": "103:5.3",
@@ -542,20 +542,20 @@
         }
     ],
     "footnotes": [
-        "*Vaim inimeses (Püha Vaim)*: Gn 1:2; Ex 31:3; Ex 35:31; Job 33:4; Sal 51:10-11; Sal 139:7; Pr 1:23; Is 44:3; Is 59:21; Is 61:1; Is 63:10-11; Lc 4:1; Lc 11:13; Jn 1:33; Jn 3:5; 2 Ti 1:14. *Vaim inimeses (Tõe Vaim)*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15. *Vaim inimeses (Mõtete Kohandaja)*: Job 32:8,18; Is 63:10-11; Ez 37:14; Mt 10:20; Lc 17:21; Jn 17:21-23; Ro 8:9-11; 1 Co 3:16-17; 1 Co 6:19; 2 Co 6:16; Gl 2:20; 1 Jn 3:24; 1 Jn 4:12-15; Ap 21:3.",
-        "*Vaimne „sünnipäev“*: Jn 1:13; Jn 3:3-8.",
-        "*Kõrgem ja madalam loomus*: Ro 6:6; Ef 4:22-24; Col 3:9-10.",
-        "*Rohkem õnnistatud anda*: Hch 20:35.",
-        "*Kohandaja kuldne reegel*: Mt 7:12; Lc 6:31.",
+        "*Vaim inimeses (Püha Vaim)*: 1Ms 1:2; 2Ms 31:3; 2Ms 35:31; Ii 33:4; Ps 51:10-11; Ps 139:7; Õp 1:23; Js 44:3; Js 59:21; Js 61:1; Js 63:10-11; Lk 4:1; Lk 11:13; Jh 1:33; Jh 3:5; 2Tm 1:14. *Vaim inimeses (Tõe Vaim)*: Hs 11:19; Hs 18:31; Hs 36:26-27; Jl 2:28-29; Lk 24:49; Jh 7:39; Jh 14:16-18,23,26; Jh 15:4,26; Jh 16:7,13-14; Jh 17:21-23; Ap 1:5,8a; Ap 2:1-4,16-18; Ap 2:33; 2Kr 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1Jh 4:12-15. *Vaim inimeses (Mõtete Kohandaja)*: Ii 32:8,18; Js 63:10-11; Hs 37:14; Mt 10:20; Lk 17:21; Jh 17:21-23; Rm 8:9-11; 1Kr 3:16-17; 1Kr 6:19; 2Kr 6:16; Gl 2:20; 1Jh 3:24; 1Jh 4:12-15; Ilm 21:3.",
+        "*Vaimne „sünnipäev“*: Jh 1:13; Jh 3:3-8.",
+        "*Kõrgem ja madalam loomus*: Rm 6:6; Ef 4:22-24; Kl 3:9-10.",
+        "*Õnnelikum on anda*: Ap 20:35.",
+        "*Kohandaja kuldne reegel*: Mt 7:12; Lk 6:31.",
         "*Tee teistele head*: Gl 6:10.",
-        "*Armasta ligimest nagu iseennast*: Lv 19:18,34; Mt 5:43-44; Mt 19:19; Mt 22:39; Mc 12:31,33; Lc 10:27; Ro 13:9b; Gl 5:13-14; Stg 2:8.",
-        "*Armastage üksteist*: 1 Ts 4:9; 1 P 1:22; 1 Jn 3:11,23; 1 Jn 4:7,11-12,21; 2 Jn 1:5.",
-        "*Armastage kaaslasi, nagu Jeesus armastas*: Jn 13:34-35; Jn 15:12,17.",
-        "*Armastage vaenlasi*: Mt 5:44; Lc 6:27,35.",
-        "*Kui päästad elu, siis kaota seda; kui kaotad, siis leia*: Mt 10:39; Mt 16:25; Mc 8:35; Lc 9:24; Lc 17:33; Jn 12:25.",
-        "*Kui vaimu Issand*: 2 Co 3:17.",
-        "*Jumal on vaim*: Jn 4:24.",
-        "*MINA OLEN*: Ex 3:13-14."
+        "*Armasta ligimest nagu iseennast*: 3Ms 19:18,34; Mt 5:43-44; Mt 19:19; Mt 22:39; Mk 12:31,33; Lk 10:27; Rm 13:9b; Gl 5:13-14; Jk 2:8.",
+        "*Armastage üksteist*: 1Ts 4:9; 1Pt 1:22; 1Jh 3:11,23; 1Jh 4:7,11-12,21; 2Jh 1:5.",
+        "*Armastage kaaslasi, nagu Jeesus armastas*: Jh 13:34-35; Jh 15:12,17.",
+        "*Armastage vaenlasi*: Mt 5:44; Lk 6:27,35.",
+        "*Kui päästad elu, siis kaota seda; kui kaotad, siis leia*: Mt 10:39; Mt 16:25; Mk 8:35; Lk 9:24; Lk 17:33; Jh 12:25.",
+        "*Kui vaimu Issand*: 2Kr 3:17.",
+        "*Jumal on vaim*: Jh 4:24.",
+        "*Mina olen*: 2Ms 3:13-14."
     ],
     "paper_title": "Usukogemuse reaalsus"
 }

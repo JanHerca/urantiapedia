@@ -162,7 +162,7 @@
                 {
                     "par_ref": "106:2.6",
                     "par_pageref": "1165.3",
-                    "par_content": "Nebadoni Miikael on nagu Paradiisi-Isa, sest tal on samasugune Paradiisi täiuslikkus; nii saavad arenevad surelikud kunagi kogemusliku Ülima sarnasteks, sest nad omandavad tõeliselt osa tema arenevast täiuslikkusest{0}."
+                    "par_content": "Nebadoni Miikael on nagu Paradiisi-Isa, sest tal on samasugune Paradiisi täiuslikkus; nii saavad arenevad surelikud kunagi kogemusliku Ülima sarnasteks, sest nad omandavad tõeliselt osa tema arenevast täiuslikkusest{0}{1}."
                 },
                 {
                     "par_ref": "106:2.7",
@@ -552,9 +552,9 @@
         }
     ],
     "footnotes": [
-        "*Miikaeli täiuslikkus*: Jn 14:9-10.",
-        "*Ole sa täiuslik*: Gn 17:1; 1 Re 8:61; Lv 19:2; Dt 18:13; Mt 5:48; 2 Co 13:11; Stg 1:4; 1 P 1:16.",
-        "*Mina olen*: Ex 3:13-14."
+        "*Miikaeli täiuslikkus*: Jh 14:9-10.",
+        "*Ole sa täiuslik*: 1Ms 17:1; 1Kn 8:61; 3Ms 19:2; 5Ms 18:13; Mt 5:48; 2Kr 13:11; Jk 1:4; 1Pt 1:16.",
+        "*Mina olen*: 2Ms 3:13-14."
     ],
     "paper_title": "Reaalsuse universumitasandid"
 }

@@ -40,7 +40,7 @@
                 {
                     "par_ref": "149:1.2",
                     "par_pageref": "1669.1",
-                    "par_content": "Selle misjoniretke ajal tekkis terve rida iseäralikke ja seletamatuid tervenemisnähtusi — ning need jätkusid kogu Jeesuse ülejäänud maise elu ajal{0}. Kolmekuulise reisi jooksul ravis Jeesus Juudamaal, Idumeas, Galileas, Süürias, Tüüroses, Siidonis ja teisel pool Jordani jõge haigete alateadvuse kaudu terveks enam kui sada meest, naist ja last, ning kui need oma kodudesse tagasi pöördusid, suurendasid nad Jeesuse kuulsust veelgi. Nad talitasid nii, hoolimata sellest, et Jeesus keelas iga kord, kui ta niisugust spontaanset tervenemist märkas, tervekssaanul kindlasti „sellest kellelegi rääkida”."
+                    "par_content": "Selle misjoniretke ajal tekkis terve rida iseäralikke ja seletamatuid tervenemisnähtusi — ning need jätkusid kogu Jeesuse ülejäänud maise elu ajal{0}. Kolmekuulise reisi jooksul ravis Jeesus Juudamaal, Idumeas, Galileas, Süürias, Tüüroses, Siidonis ja teisel pool Jordani jõge haigete alateadvuse kaudu terveks enam kui sada meest, naist ja last, ning kui need oma kodudesse tagasi pöördusid, suurendasid nad Jeesuse kuulsust veelgi. Nad talitasid nii, hoolimata sellest, et Jeesus keelas iga kord, kui ta niisugust spontaanset tervenemist märkas, tervekssaanul kindlasti „sellest kellelegi rääkida”{1}."
                 },
                 {
                     "par_ref": "149:1.3",
@@ -132,7 +132,7 @@
                 {
                     "par_ref": "149:2.10",
                     "par_pageref": "1671.5",
-                    "par_content": "Kui Jeesus rahvaga suhtles, nägid nad, et ta oli täiesti vaba oma aja ebausust. Ta oli vaba religioossetest eelarvamustest, ta polnud kunagi sallimatu. Tema südames polnud midagi, mis oleks meenutanud sotsiaalset antagonismi. Ta võttis oma isade religioonist üle kõik hea, kuid ei kõhelnud kõrvale heitmast inimest kammitseva ebausuga seotud traditsioone. Ta julges õpetada, et loodusõnnetused, ajalikud õnnetusjuhtumid ja muud õnnetused pole jumaliku kohtumõistmise nuhtlused ega Ettehooldusest põhjustatud saladuslikud korraldused{5}. Ta mõistis hukka orjaliku andumuse tähenduseta tseremooniatele ja paljastas materialistliku palveldamise ekslikkuse. Ta kuulutas julgelt inimese vaimset vabadust ega kartnud õpetada, et lihas elavad surelikud on tõepoolest tões elava Jumala pojad."
+                    "par_content": "Kui Jeesus rahvaga suhtles, nägid nad, et ta oli täiesti vaba oma aja ebausust. Ta oli vaba religioossetest eelarvamustest, ta polnud kunagi sallimatu. Tema südames polnud midagi, mis oleks meenutanud sotsiaalset antagonismi. Ta võttis oma isade religioonist üle kõik hea, kuid ei kõhelnud kõrvale heitmast inimest kammitseva ebausuga seotud traditsioone. Ta julges õpetada, et loodusõnnetused, ajalikud õnnetusjuhtumid ja muud õnnetused pole jumaliku kohtumõistmise nuhtlused ega Ettehooldusest põhjustatud saladuslikud korraldused{5}. Ta mõistis hukka orjaliku andumuse tähenduseta tseremooniatele ja paljastas materialistliku palveldamise ekslikkuse{6}. Ta kuulutas julgelt inimese vaimset vabadust ega kartnud õpetada, et lihas elavad surelikud on tõepoolest tões elava Jumala pojad{7}."
                 },
                 {
                     "par_ref": "149:2.11",
@@ -142,7 +142,7 @@
                 {
                     "par_ref": "149:2.12",
                     "par_pageref": "1672.1",
-                    "par_content": "Jeesuse pooldajad kuuletusid talle, ilma et ta oleks neid selleks sundinud. Ainult kolm meest, keda ta oli isiklikult kutsunud, keeldusid vastu võtmast kutset tema jüngriks hakata{9}. Tal oli eriline võime inimesi kaasa tõmmata, kuid ta polnud diktaator. Ta äratas usaldust ja tema käske ei pannud mitte keegi kunagi pahaks. Ta võttis endale absoluutse võimu oma jüngrite üle, kuid keegi ei esitanud sellele kunagi vastuväiteid. Ta lubas poolehoidjail end Meistriks kutsuda."
+                    "par_content": "Jeesuse pooldajad kuuletusid talle, ilma et ta oleks neid selleks sundinud. Ainult kolm meest, keda ta oli isiklikult kutsunud, keeldusid vastu võtmast kutset tema jüngriks hakata{9}. Tal oli eriline võime inimesi kaasa tõmmata, kuid ta polnud diktaator. Ta äratas usaldust ja tema käske ei pannud mitte keegi kunagi pahaks. Ta võttis endale absoluutse võimu oma jüngrite üle, kuid keegi ei esitanud sellele kunagi vastuväiteid. Ta lubas poolehoidjail end Meistriks kutsuda{10}."
                 },
                 {
                     "par_ref": "149:2.13",
@@ -191,7 +191,7 @@
                 {
                     "par_ref": "149:4.2",
                     "par_pageref": "1673.2",
-                    "par_content": "„Viha on ainelise taseme nähtus, mis näitab üldiselt seda, mil määral vaimne olemus ei suuda intellektuaalset ja füüsilist olemust kontrollida{11}. Viha näitab nii tolerantse vennaarmastuse kui ka teie enesest lugupidamise ja enesekontrolli puudumist. Viha kurnab tervist, madaldab meelt ja pärsib inimhinge vaimset õpetajat. Kas te pole siis pühakirjadest lugenud, et „raev tapab rumala” ning et inimene „kisub vihas oma hinge lõhki”? Et „pikameelsel on palju arukust”, aga „kannatamatu näitab suurimat rumalust”? Te kõik teate, et „rahulik vastus vaigistab raevu” ja „haavavad sõnad õhutavad viha”. „Arukus teeb inimese pikameelseks”, aga „mees, kes ei talitse oma meelt, on otsekui kaitsetu, müürideta linn”. „Raev võib olla julm ja viha pöörane.” „Viha pidavad inimesed õhutavad riidu ja raevutsejatel on palju üleastumisi.” „Ära lase oma meelt kergesti saada pahaseks, sest pahameel asub alpide põues.”” Enne kui Jeesus oma jutu lõpetas, ütles ta veel: „Laske armastusel niimoodi oma südant valitseda, et teie vaimust suunajal poleks raske vabastada teid kalduvusest anda voli neile loomaliku viha puhangutele, mis jumaliku pojaseisusega kokku ei sobi.”"
+                    "par_content": "„Viha on ainelise taseme nähtus, mis näitab üldiselt seda, mil määral vaimne olemus ei suuda intellektuaalset ja füüsilist olemust kontrollida{11}. Viha näitab nii tolerantse vennaarmastuse kui ka teie enesest lugupidamise ja enesekontrolli puudumist{12}. Viha kurnab tervist, madaldab meelt ja pärsib inimhinge vaimset õpetajat. Kas te pole siis pühakirjadest lugenud, et „raev tapab rumala” ning et inimene „kisub vihas oma hinge lõhki”? Et „pikameelsel on palju arukust”, aga „kannatamatu näitab suurimat rumalust”? Te kõik teate, et „rahulik vastus vaigistab raevu” ja „haavavad sõnad õhutavad viha”{13}{14}{15}{16}{17}{18}. „Arukus teeb inimese pikameelseks”, aga „mees, kes ei talitse oma meelt, on otsekui kaitsetu, müürideta linn”{19}. „Raev võib olla julm ja viha pöörane{20}.” „Viha pidavad inimesed õhutavad riidu ja raevutsejatel on palju üleastumisi{21}.” „Ära lase oma meelt kergesti saada pahaseks, sest pahameel asub alpide põues{22}.”” Enne kui Jeesus oma jutu lõpetas, ütles ta veel: „Laske armastusel niimoodi oma südant valitseda, et teie vaimust suunajal poleks raske vabastada teid kalduvusest anda voli neile loomaliku viha puhangutele, mis jumaliku pojaseisusega kokku ei sobi.”"
                 },
                 {
                     "par_ref": "149:4.3",
@@ -228,12 +228,12 @@
                 {
                     "par_ref": "149:5.2",
                     "par_pageref": "1674.4",
-                    "par_content": "„Siimon, mõned inimesed on loomu poolest teistest õnnelikumad. Palju, väga palju sõltub inimese valmisolekust lasta end juhtida ja suunata temas elaval Isa vaimul. Kas te pole pühakirjadest lugenud targa mehe sõnu: „Inimese vaim on Issanda lamp, see uurib läbi kõik südamesopid”? Ning et need vaimust juhitud surelikud ütlevad: „Mõõdunöörid on mulle langenud meeldivate paikade peale, ka on pärisosa ilus mu meelest{23}.” „Õigete inimeste pisku on parem kui paljude õelate suur varandus”, sest „hea mees küllastub oma tegudest”. „Rõõmus süda teeb näo rõõmsaks ja tal on alati pidu. Parem pisut Issanda kartuses kui suur varandus rahutuses. Parem taimetoit armastuses kui nuumhärg vihas. Parem pisut õigluses kui palju ülekohtus.” „Rõõmus süda toob head tervenemist.” „Parem üks peotäis rahus kui kaks peotäit vaevas ja vaimunärimises.”"
+                    "par_content": "„Siimon, mõned inimesed on loomu poolest teistest õnnelikumad. Palju, väga palju sõltub inimese valmisolekust lasta end juhtida ja suunata temas elaval Isa vaimul. Kas te pole pühakirjadest lugenud targa mehe sõnu: „Inimese vaim on Issanda lamp, see uurib läbi kõik südamesopid”? Ning et need vaimust juhitud surelikud ütlevad: „Mõõdunöörid on mulle langenud meeldivate paikade peale, ka on pärisosa ilus mu meelest{23}{24}.” „Õigete inimeste pisku on parem kui paljude õelate suur varandus”, sest „hea mees küllastub oma tegudest”{25}{26}. „Rõõmus süda teeb näo rõõmsaks ja tal on alati pidu{27}. Parem pisut Issanda kartuses kui suur varandus rahutuses{28}. Parem taimetoit armastuses kui nuumhärg vihas. Parem pisut õigluses kui palju ülekohtus{29}.” „Rõõmus süda toob head tervenemist{30}.” „Parem üks peotäis rahus kui kaks peotäit vaevas ja vaimunärimises{31}.”"
                 },
                 {
                     "par_ref": "149:5.3",
                     "par_pageref": "1674.5",
-                    "par_content": "Suur osa inimese muredest sünnib pettumusest oma ambitsioonide nurjumise ja uhkuse haavamise pärast. Ehkki inimestel on enda ees kohustus oma maist elu võimalikult hästi elada, peaksid nad pärast siiraid pingutusi võtma oma saatuse rõõmsalt vastu ja püüdma leidlikult võimalikult hästi ära kasutada seda, mis on nende osaks saanud. Liigagi paljud inimese hädad tärkavad tema enda südames pesitseva hirmu pinnasest. „Õel põgeneb, kuigi ei ole tagaajajat{32}.” „Õelad on otsekui mässav meri, mis ei saa rahuneda ja mille veed kobrutavad kõntsa ja muda. Õelatel ei ole rahu, ütleb Jumal.”"
+                    "par_content": "Suur osa inimese muredest sünnib pettumusest oma ambitsioonide nurjumise ja uhkuse haavamise pärast. Ehkki inimestel on enda ees kohustus oma maist elu võimalikult hästi elada, peaksid nad pärast siiraid pingutusi võtma oma saatuse rõõmsalt vastu ja püüdma leidlikult võimalikult hästi ära kasutada seda, mis on nende osaks saanud. Liigagi paljud inimese hädad tärkavad tema enda südames pesitseva hirmu pinnasest. „Õel põgeneb, kuigi ei ole tagaajajat{32}.” „Õelad on otsekui mässav meri, mis ei saa rahuneda ja mille veed kobrutavad kõntsa ja muda{33}. Õelatel ei ole rahu, ütleb Jumal.”"
                 },
                 {
                     "par_ref": "149:5.4",
@@ -290,7 +290,7 @@
                 {
                     "par_ref": "149:6.8",
                     "par_pageref": "1676.2",
-                    "par_content": "Taevariigis, mida ma olen tulnud kuulutama, ei ole kõrget ega vägevat kuningat; see taevariik on jumalik pere. Selle intellektiolendite kaugeleulatuva vennaskonna kõigi poolt tunnustatud ja tingimusteta palveldatav kese ja pea on minu ja teie Isa{39}. Mina olen tema Poeg ja ka teie olete tema pojad. Seepärast on igavesti tõsi, et meie teiega oleme taevastes valdustes vennad, seda enam, et me oleme saanud lihalikeks vendadeks maises elus. Lakake siis kartmast Jumalat nagu kuningat ja teenimast teda nagu isandat; õppige tundma harrast austust tema kui Looja vastu; austage teda kui oma vaimse nooruse Isa; armastage teda kui halastavat kaitsjat ja lõppkokkuvõttes palveldage teda kui oma küpsema vaimse tunnetusvõime ja tänutunde armastavat ja kõiketeadvat Isa."
+                    "par_content": "Taevariigis, mida ma olen tulnud kuulutama, ei ole kõrget ega vägevat kuningat; see taevariik on jumalik pere. Selle intellektiolendite kaugeleulatuva vennaskonna kõigi poolt tunnustatud ja tingimusteta palveldatav kese ja pea on minu ja teie Isa{39}. Mina olen tema Poeg ja ka teie olete tema pojad{40}. Seepärast on igavesti tõsi, et meie teiega oleme taevastes valdustes vennad, seda enam, et me oleme saanud lihalikeks vendadeks maises elus. Lakake siis kartmast Jumalat nagu kuningat ja teenimast teda nagu isandat; õppige tundma harrast austust tema kui Looja vastu; austage teda kui oma vaimse nooruse Isa; armastage teda kui halastavat kaitsjat ja lõppkokkuvõttes palveldage teda kui oma küpsema vaimse tunnetusvõime ja tänutunde armastavat ja kõiketeadvat Isa."
                 },
                 {
                     "par_ref": "149:6.9",
@@ -305,12 +305,12 @@
                 {
                     "par_ref": "149:6.11",
                     "par_pageref": "1676.5",
-                    "par_content": "Te teete hästi, kui olete vagurad Jumala ees ja ohjeldate end inimeste ees, kuid olgu teie vagurus vaimse päritoluga ja mitte ennast õiglaseks pidava üleolekutunde enesepettuslik ilmutamine. Prohvet kõneles targasti, kui ta ütles: „Käige alandlikult koos oma Jumalaga”, sest taevane Isa on küll Lõpmatu ja Igavene, kuid elab ka „rõhutute ning vaimult alandlike juures”{41}. Mu Isa põlastab uhkust, jälestab silmakirjalikkust ja tunneb vastikust kurjuse suhtes. Ning just rõhutamaks siiruse väärtust ja täielikku usaldust taevase Isa armastava toetuse ja truu juhtimise vastu, olengi ma kasutanud nii sageli väikese lapse näidet, et kirjeldada meelehoiakut ja vaimureageeringut, mis on nii olulised sureliku inimese astumiseks taevariigi vaimureaalsustesse."
+                    "par_content": "Te teete hästi, kui olete vagurad Jumala ees ja ohjeldate end inimeste ees, kuid olgu teie vagurus vaimse päritoluga ja mitte ennast õiglaseks pidava üleolekutunde enesepettuslik ilmutamine. Prohvet kõneles targasti, kui ta ütles: „Käige alandlikult koos oma Jumalaga”, sest taevane Isa on küll Lõpmatu ja Igavene, kuid elab ka „rõhutute ning vaimult alandlike juures”{41}{42}. Mu Isa põlastab uhkust, jälestab silmakirjalikkust ja tunneb vastikust kurjuse suhtes. Ning just rõhutamaks siiruse väärtust ja täielikku usaldust taevase Isa armastava toetuse ja truu juhtimise vastu, olengi ma kasutanud nii sageli väikese lapse näidet, et kirjeldada meelehoiakut ja vaimureageeringut, mis on nii olulised sureliku inimese astumiseks taevariigi vaimureaalsustesse{43}."
                 },
                 {
                     "par_ref": "149:6.12",
                     "par_pageref": "1677.1",
-                    "par_content": "Prohvet Jeremija kirjeldas hästi paljusid surelikke, kui ta ütles: „Te olete suus Jumala ligidal, kuid südames temast kaugel”{44}. Ja kas te pole lugenud ka selle prohveti kohutavat hoiatust, kes ütles: „Tema preestrid õpetavad tasu eest ja tema prohvetid ennustavad raha eest. Ometi peavad nad end vagadeks ja kuulutavad, et Issand on nende keskel.” Kas pole teid kindlalt hoiatatud nende eest, „kes räägivad oma ligimestega rahust, kuigi nende südames on kurjus”, nende eest, „kes räägivad libedate huultega ja kahepaikse südamega”? Kõigist usaldava inimese kurvastustest pole miski nii kohutav kui „haavad, mis on löödud oma usaldatud sõprade kojas”."
+                    "par_content": "Prohvet Jeremija kirjeldas hästi paljusid surelikke, kui ta ütles: „Te olete suus Jumala ligidal, kuid südames temast kaugel”{44}. Ja kas te pole lugenud ka selle prohveti kohutavat hoiatust, kes ütles: „Tema preestrid õpetavad tasu eest ja tema prohvetid ennustavad raha eest{45}. Ometi peavad nad end vagadeks ja kuulutavad, et Issand on nende keskel{46}{47}{48}.” Kas pole teid kindlalt hoiatatud nende eest, „kes räägivad oma ligimestega rahust, kuigi nende südames on kurjus”, nende eest, „kes räägivad libedate huultega ja kahepaikse südamega”? Kõigist usaldava inimese kurvastustest pole miski nii kohutav kui „haavad, mis on löödud oma usaldatud sõprade kojas”."
                 }
             ]
         },
@@ -338,55 +338,55 @@
         }
     ],
     "footnotes": [
-        "*Tervendused*: Mc 3:7-8.",
-        "*Ära räägi kellelegi*: Mt 8:4; Mt 9:30; Mt 12:16; Mt 16:20; Mc 1:43-44; Mc 5:43; Mc 7:36; Mc 8:30; Mc 9:9; Lc 5:14; Lc 8:56; Lc 9:21.",
-        "*Välja läinud jõud*: Mc 5:30; Lc 6:19; Lc 8:46.",
-        "*Elu ilmutatud valgus*: Is 9:2; Mt 4:16; Jn 8:12.",
-        "*Naisjüngrid*: Mt 27:55; Mc 15:40-41; Lc 8:1-3; Lc 23:27,49,55; Lc 24:10,22,24; Hch 1:14; Hch 5:14.",
-        "*Katastroofid, mitte kohtuotsused*: Lc 13:1-5.",
+        "*Tervendused*: Mk 3:7-8.",
+        "*Ära räägi kellelegi*: Mt 8:4; Mt 9:30; Mt 12:16; Mt 16:20; Mk 1:43-44; Mk 5:43; Mk 7:36; Mk 8:30; Mk 9:9; Lk 5:14; Lk 8:56; Lk 9:21.",
+        "*Välja läinud jõud*: Mk 5:30; Lk 6:19; Lk 8:46.",
+        "*Elu ilmutatud valgus*: Js 9:2; Mt 4:16; Jh 8:12.",
+        "*Naisjüngrid*: Mt 27:55; Mk 15:40-41; Lk 8:1-3; Lk 23:27,49,55; Lk 24:10,22,24; Ap 1:14; Ap 5:14.",
+        "*Katastroofid, mitte kohtuotsused*: Lk 13:1-5.",
         "*Orjameelse kummardamise viga*: Mt 23:1-39.",
-        "*Elava Jumala pojad*: 1 Cr 22:10; Sal 2:7; Is 56:5; Mt 5:9,16,45; Lc 20:36; Jn 1:12-13; Jn 11:52; Jn 20:17b; Hch 17:28-29; Ro 8:14-17,19,21; Ro 9:26; 2 Co 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Flp 2:15; Heb 12:5-8; 1 Jn 3:1-2,10; 1 Jn 5:2; Ap 21:7; 2 Sam 7:14.",
-        "*Puhas süda*: Mt 15:10-20; Mc 7:14-23.",
-        "*Kolm meest keeldusid isiklikust kutsest*: Mt 8:18-22; Mt 19:16-22; Mc 10:17-22; Lc 9:57-62; Lc 18:18-23.",
-        "*Mehed kutsusid teda meistriks*: Mt 8:19; Mc 4:38; Lc 3:12; Jn 4:31.",
-        "*Viha, materiaalne ilming*: Ef 4:30-32; Col 3:8; Stg 1:20.",
-        "*Ei kontrolli iseennast*: Pr 25:28.",
-        "*Viha tapab rumala inimese*: Job 5:2.",
-        "*Viha rebib ennast tükkideks*: Job 18:4.",
-        "*Patsiendil on suur mõistmine*: Pr 14:29a.",
-        "*Kiirelt tujutu näitab rumalust*: Pr 14:29b.",
-        "*Pehme vastus pöörab ära viha*: Pr 15:1a.",
-        "*Rasked sõnad äratavad viha*: Pr 15:1b.",
-        "*Mõistlikkus lükkab viha edasi*: Pr 19:11.",
-        "*Viha on julm ja ennekuulmatu*: Pr 27:4.",
-        "*Vihased mehed õhutavad tüli*: Pr 29:22.",
-        "*Viha puhkab rumalate rinnal*: Ec 7:9.",
-        "*Inimese vaim on Issanda küünal*: Pr 20:27.",
-        "*Hea pärand*: Sal 16:6.",
-        "*Õiglase vähe on parem kui kurja rikkus*: Sal 37:16.",
-        "*Hea inimene rahul endas*: Pr 14:14.",
-        "*Rõõmus süda on rõõmsameelne nägu*: Pr 15:13. *Rõõmus süda on pidev pidu*: Pr 15:15.",
-        "*Parem vähe austusega*: Pr 15:16-17.",
-        "*Parem vähe õiglusega*: Pr 16:8.",
-        "*Rõõmus süda on hea ravim*: Pr 17:22.",
-        "*Parem on natuke koos rahulikkusega*: Ec 4:6.",
-        "*Kurjad põgenevad, kui keegi ei jälgi*: Pr 28:1.",
-        "*Kuri nagu rahutu meri*: Is 57:20-21.",
-        "*Karda Issandat*: Sal 34:9,11.",
-        "*Hirmu tähendused*: Lv 19:14; Sal 22:23; Pr 1:7; Jer 23:4.",
-        "*Jumala headus viib meeleparandusele*: Ro 2:4.",
-        "*Jumala kartusest algab tarkus*: Sal 111:10; Pr 1:7.",
-        "*Karda Jumalat kogu inimese kohus*: Ec 12:13.",
-        "*Jumal on meie Isa*: 1 Cr 22:10; Sal 89:26-27; Jer 3:19; Mt 5:9,16,45,48; Mt 6:1,9,14; Mt 6:26,32; Mt 7:11; Mt 18:14; Mt 23:9; Mc 11:25-26; Lc 6:36; Lc 11:2,13; Jn 20:17b; Ro 1:7; Ro 8:14-15; 1 Co 1:3; 2 Co 1:2; 2 Co 6:18; Gl 1:4; Gl 4:6-7; Ef 1:2; Flp 1:2; Col 1:2; 1 Ts 1:1,3; 2 Ts 1:1-2; 1 Ti 1:2; Flm 1:2; 2 Sam 7:14.",
-        "*Me oleme Tema pojad*: 1 Cr 22:10; Sal 2:7; Is 56:5; Mt 5:9,16,45; Lc 20:36; Jn 1:12-13; Jn 11:52; Hch 17:28-29; Ro 8:14-17,19,21; Ro 9:26; 2 Co 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Flp 2:15; Heb 12:5-8; 1 Jn 3:1-2,10; 1 Jn 5:2; Ap 21:7; 2 Sam 7:14.",
-        "*Käige alandlikult Jumalaga*: Miq 6:8.",
-        "*Usaldusväärne meel ja alandlik vaim*: Is 57:15.",
-        "*Lapselik usk*: Mt 18:2-4; Mt 19:13-14; Mc 9:33-37; Mc 10:13-16; Lc 9:46-48; Lc 18:15-17.",
-        "*Suudes lähedal, südames kaugel*: Jer 12:2.",
-        "*Preestrid õpetavad palgaliselt*: Miq 3:11.",
-        "*Räägi rahu, aga tee pahandust*: Sal 28:3.",
-        "*Huultega meelitada*: Sal 5:9; Sal 12:2; Sal 78:36.",
-        "*Usaldusväärse sõbra poolt haavatud*: Zac 13:6."
+        "*Elava Jumala pojad*: 1Aj 22:10; Ps 2:7; Js 56:5; Mt 5:9,16,45; Lk 20:36; Jh 1:12-13; Jh 11:52; Jh 20:17b; Ap 17:28-29; Rm 8:14-17,19,21; Rm 9:26; 2Kr 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Fl 2:15; Hb 12:5-8; 1Jh 3:1-2,10; 1Jh 5:2; Ilm 21:7; 2Sm 7:14.",
+        "*Puhas süda*: Mt 15:10-20; Mk 7:14-23.",
+        "*Kolm meest keeldusid isiklikust kutsest*: Mt 8:18-22; Mt 19:16-22; Mk 10:17-22; Lk 9:57-62; Lk 18:18-23.",
+        "*Mehed kutsusid teda meistriks*: Mt 8:19; Mk 4:38; Lk 3:12; Jh 4:31.",
+        "*Viha, materiaalne ilming*: Ef 4:30-32; Kl 3:8; Jk 1:20.",
+        "*Ei kontrolli iseennast*: Õp 25:28.",
+        "*Viha tapab rumala inimese*: Ii 5:2.",
+        "*Viha rebib ennast tükkideks*: Ii 18:4.",
+        "*Patsiendil on suur mõistmine*: Õp 14:29a.",
+        "*Kiirelt tujutu näitab rumalust*: Õp 14:29b.",
+        "*Pehme vastus pöörab ära viha*: Õp 15:1a.",
+        "*Rasked sõnad äratavad viha*: Õp 15:1b.",
+        "*Mõistlikkus lükkab viha edasi*: Õp 19:11.",
+        "*Viha on julm ja ennekuulmatu*: Õp 27:4.",
+        "*Vihased mehed õhutavad tüli*: Õp 29:22.",
+        "*Viha puhkab rumalate rinnal*: Kg 7:9.",
+        "*Inimese vaim on Issanda küünal*: Õp 20:27.",
+        "*Hea pärand*: Ps 16:6.",
+        "*Õiglase vähe on parem kui kurja rikkus*: Ps 37:16.",
+        "*Hea inimene rahul endas*: Õp 14:14.",
+        "*Rõõmus süda on rõõmsameelne nägu*: Õp 15:13. *Rõõmus süda on pidev pidu*: Õp 15:15.",
+        "*Parem vähe austusega*: Õp 15:16-17.",
+        "*Parem vähe õiglusega*: Õp 16:8.",
+        "*Rõõmus süda on hea ravim*: Õp 17:22.",
+        "*Parem on natuke koos rahulikkusega*: Kg 4:6.",
+        "*Kurjad põgenevad, kui keegi ei jälgi*: Õp 28:1.",
+        "*Kuri nagu rahutu meri*: Js 57:20-21.",
+        "*Karda Issandat*: Ps 34:9,11.",
+        "*Hirmu tähendused*: 3Ms 19:14; Ps 22:23; Õp 1:7; Jr 23:4.",
+        "*Jumala headus viib meeleparandusele*: Rm 2:4.",
+        "*Jumala kartusest algab tarkus*: Ps 111:10; Õp 1:7.",
+        "*Karda Jumalat kogu inimese kohus*: Kg 12:13.",
+        "*Jumal on meie isa*: 1Aj 22:10; Ps 89:26-27; Jr 3:19; Mt 5:9,16,45,48; Mt 6:1,9,14; Mt 6:26,32; Mt 7:11; Mt 18:14; Mt 23:9; Mk 11:25-26; Lk 6:36; Lk 11:2,13; Jh 20:17b; Rm 1:7; Rm 8:14-15; 1Kr 1:3; 2Kr 1:2; 2Kr 6:18; Gl 1:4; Gl 4:6-7; Ef 1:2; Fl 1:2; Kl 1:2; 1Ts 1:1,3; 2Ts 1:1-2; 1Tm 1:2; Fm 1:2; 2Sm 7:14.",
+        "*Me oleme Tema pojad*: 1Aj 22:10; Ps 2:7; Js 56:5; Mt 5:9,16,45; Lk 20:36; Jh 1:12-13; Jh 11:52; Ap 17:28-29; Rm 8:14-17,19,21; Rm 9:26; 2Kr 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Fl 2:15; Hb 12:5-8; 1Jh 3:1-2,10; 1Jh 5:2; Ilm 21:7; 2Sm 7:14.",
+        "*Käige alandlikult Jumalaga*: Mi 6:8.",
+        "*Usaldusväärne meel ja alandlik vaim*: Js 57:15.",
+        "*Lapselik usk*: Mt 18:2-4; Mt 19:13-14; Mk 9:33-37; Mk 10:13-16; Lk 9:46-48; Lk 18:15-17.",
+        "*Suudes lähedal, südames kaugel*: Jr 12:2.",
+        "*Preestrid õpetavad palgaliselt*: Mi 3:11.",
+        "*Räägi rahu, aga tee pahandust*: Ps 28:3.",
+        "*Huultega meelitada*: Ps 5:9; Ps 12:2; Ps 78:36.",
+        "*Usaldusväärse sõbra poolt haavatud*: Sk 13:6."
     ],
     "paper_title": "Teine jutlustamisreis"
 }

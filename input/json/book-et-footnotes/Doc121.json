@@ -25,7 +25,7 @@
                 {
                     "par_ref": "121:1.2",
                     "par_pageref": "1332.3",
-                    "par_content": "Kogu seda maailmas valitsenud mõjude kombinatsiooni illustreerib hästi Pauluse tegevus, kes, kuuludes heebrealasena heebrea kultuuri, kuulutas juudi messiase evangeeliumi kreeka keeles, olles ise Rooma kodanik{0}."
+                    "par_content": "Kogu seda maailmas valitsenud mõjude kombinatsiooni illustreerib hästi Pauluse tegevus, kes, kuuludes heebrealasena heebrea kultuuri, kuulutas juudi messiase evangeeliumi kreeka keeles, olles ise Rooma kodanik{0}{1}{2}."
                 },
                 {
                     "par_ref": "121:1.3",
@@ -92,7 +92,7 @@
                 {
                     "par_ref": "121:2.5",
                     "par_pageref": "1333.7",
-                    "par_content": "Iga juudi sünagoog leppis sellega, et tema ümber oli paganatest usklike rühm, „vagad” või „jumalakartlikud” inimesed, ja need niinimetatud proselüüdid moodustasidki esialgu Pauluse poolt ristiusku pööratute enamiku{3}. Ka Jeruusalemma templil oli oma rikkalikult kaunistatud õu paganate jaoks. Jeruusalemma ja Antiookia kultuur, kaubandus ja palveldamiskombed olid omavahel väga tihedalt seotud. Antiookias hakati Pauluse jüngreid esmakordselt „kristlasteks” nimetama."
+                    "par_content": "Iga juudi sünagoog leppis sellega, et tema ümber oli paganatest usklike rühm, „vagad” või „jumalakartlikud” inimesed, ja need niinimetatud proselüüdid moodustasidki esialgu Pauluse poolt ristiusku pööratute enamiku{3}{4}. Ka Jeruusalemma templil oli oma rikkalikult kaunistatud õu paganate jaoks. Jeruusalemma ja Antiookia kultuur, kaubandus ja palveldamiskombed olid omavahel väga tihedalt seotud. Antiookias hakati Pauluse jüngreid esmakordselt „kristlasteks” nimetama{5}."
                 },
                 {
                     "par_ref": "121:2.6",
@@ -206,7 +206,7 @@
                 {
                     "par_ref": "121:4.3",
                     "par_pageref": "1336.1",
-                    "par_content": "2. *stoikud.* Stoitsism oli kõrgemate klasside arenenum filosoofia. Stoikud uskusid, et kogu loodut valitseb Mõistus-Saatus. Nad õpetasid, et inimese hing on jumalik, kuid vangistatud pahelisse füüsilisse kehasse. Inimese hing saavutab vabaduse, kui elatakse kooskõlas loodusega, Jumalaga: seega saab voorus iseenesest tasutud. Stoitsism tõusis üleva moraalsuseni, ideaalideni, milleni polnud küündinud veel ükski puhtinimlik filosoofiline süsteem. Kuigi stoikud kuulutasid, et nad on „Jumala sugu”, ei suutnud nad teda tunda ega seepärast ka leida{9}. Stoitsism jäi filosoofiaks, sellest ei saanud kunagi religiooni. Selle pooldajad püüdsid häälestada oma meelt Kõikse Meele harmooniale, kuid ei suutnud end kujutleda armastava Isa lastena. Paulus kaldus tugevasti stoitsismi, kui ta kirjutas: „Ma olen õppinud olema rahul sellega, mis mul on...”;"
+                    "par_content": "2. *stoikud.* Stoitsism oli kõrgemate klasside arenenum filosoofia. Stoikud uskusid, et kogu loodut valitseb Mõistus-Saatus. Nad õpetasid, et inimese hing on jumalik, kuid vangistatud pahelisse füüsilisse kehasse. Inimese hing saavutab vabaduse, kui elatakse kooskõlas loodusega, Jumalaga: seega saab voorus iseenesest tasutud. Stoitsism tõusis üleva moraalsuseni, ideaalideni, milleni polnud küündinud veel ükski puhtinimlik filosoofiline süsteem. Kuigi stoikud kuulutasid, et nad on „Jumala sugu”, ei suutnud nad teda tunda ega seepärast ka leida{9}. Stoitsism jäi filosoofiaks, sellest ei saanud kunagi religiooni. Selle pooldajad püüdsid häälestada oma meelt Kõikse Meele harmooniale, kuid ei suutnud end kujutleda armastava Isa lastena. Paulus kaldus tugevasti stoitsismi, kui ta kirjutas: „Ma olen õppinud olema rahul sellega, mis mul on{10}...”;"
                 },
                 {
                     "par_ref": "121:4.4",
@@ -283,7 +283,7 @@
                 {
                     "par_ref": "121:5.11",
                     "par_pageref": "1337.7",
-                    "par_content": "4. ent missugune ka poleks olnud tseremooniate olemus või liialduste määr, lubasid need müsteeriumid alati oma pühendunutele *pääsemist,* „pääsu kurjast, ellujäämist pärast surma ja kestvat elu õndsates maailmades teisel pool seda kannatuste ja orjuse maailma”{11}."
+                    "par_content": "4. ent missugune ka poleks olnud tseremooniate olemus või liialduste määr, lubasid need müsteeriumid alati oma pühendunutele *pääsemist,* „pääsu kurjast, ellujäämist pärast surma ja kestvat elu õndsates maailmades teisel pool seda kannatuste ja orjuse maailma”{11}{12}{13}{14}."
                 },
                 {
                     "par_ref": "121:5.12",
@@ -402,7 +402,7 @@
                 {
                     "par_ref": "121:7.5",
                     "par_pageref": "1340.3",
-                    "par_content": "Nende asjaolude tõttu oli juutidel võimatu kogeda neile ettekuulutatud saatust usu-ja vaimuvabaduse uue evangeeliumi sõnumitoojatena. Nad ei suutnud oma traditsioonide ahelaid murda. Jeremija oli rääkinud „käsuõpetusest, mis kirjutatakse inimeste südamesse”, Hesekiel oli kõnelnud „inimese hinge elama tulevast uuest vaimust” ja psalmilaulik oli palvetanud, et Jumal „looks sisse puhta südame ja tooks uue õige vaimu”{15}. Kui juutide heade tegude ja orjalikkuse religioon langes pärimusliku inertsuse ohvriks, kandus religioosse arengu puhang lääne poole Euroopa rahvastele."
+                    "par_content": "Nende asjaolude tõttu oli juutidel võimatu kogeda neile ettekuulutatud saatust usu-ja vaimuvabaduse uue evangeeliumi sõnumitoojatena. Nad ei suutnud oma traditsioonide ahelaid murda. Jeremija oli rääkinud „käsuõpetusest, mis kirjutatakse inimeste südamesse”, Hesekiel oli kõnelnud „inimese hinge elama tulevast uuest vaimust” ja psalmilaulik oli palvetanud, et Jumal „looks sisse puhta südame ja tooks uue õige vaimu”{15}. Kui juutide heade tegude ja orjalikkuse religioon langes pärimusliku inertsuse ohvriks, kandus religioosse arengu puhang lääne poole Euroopa rahvastele{16}{17}."
                 },
                 {
                     "par_ref": "121:7.6",
@@ -464,7 +464,7 @@
                 {
                     "par_ref": "121:8.4",
                     "par_pageref": "1341.5",
-                    "par_content": "2. *Matteuse evangeelium.* Niinimetatud Matteuse evangeelium on Meistri elulugu, mis kirjutati üles juutidest kristlaste harimiseks. Selle kroonika autor püüab Jeesuse elu varal pidevalt näidata, et suure osa oma tegudest tegi Jeesus selleks, „et läheks täide, mis prohvet oli rääkinud”{18}. Matteuse evangeelium kirjeldab Jeesust kui Taaveti poega, kes pidas väga lugu seadustest ja prohvetitest."
+                    "par_content": "2. *Matteuse evangeelium.* Niinimetatud Matteuse evangeelium on Meistri elulugu, mis kirjutati üles juutidest kristlaste harimiseks. Selle kroonika autor püüab Jeesuse elu varal pidevalt näidata, et suure osa oma tegudest tegi Jeesus selleks, „et läheks täide, mis prohvet oli rääkinud”{18}. Matteuse evangeelium kirjeldab Jeesust kui Taaveti poega, kes pidas väga lugu seadustest ja prohvetitest{19}."
                 },
                 {
                     "par_ref": "121:8.5",
@@ -484,7 +484,7 @@
                 {
                     "par_ref": "121:8.8",
                     "par_pageref": "1342.3",
-                    "par_content": "3. *Luuka evangeelium.* Luukas oli Pisiidias elav Antiookia arst, Pauluse mõjul pöördunud pagan, kes kirjutas Meistri elust hoopis teistsuguse loo. Ta hakkas järgima Paulust ja õppima Jeesuse elu ja õpetusi 47. aastal pKr{20}. Luuka ürikus on säilinud palju „Issanda Jeesuse Kristuse armust” faktidena, mis ta oli kogunud Pauluselt ja teisteltki. Luukas esitab Meistrit kui „tölnerite ja patuste sõpra”. Ta sõnastas oma paljud märkmed evangeeliumiks alles pärast Pauluse surma. Luukas kirjutas 82. aastal Ahhaias. Ta kavatses kirjutada Kristusest ja ristiusu ajaloost kolm raamatut, kuid suri 90. aastal, jõudmata teist raamatut, „Apostlite tegusid”, päriselt lõpetada."
+                    "par_content": "3. *Luuka evangeelium.* Luukas oli Pisiidias elav Antiookia arst, Pauluse mõjul pöördunud pagan, kes kirjutas Meistri elust hoopis teistsuguse loo. Ta hakkas järgima Paulust ja õppima Jeesuse elu ja õpetusi 47. aastal pKr{20}. Luuka ürikus on säilinud palju „Issanda Jeesuse Kristuse armust” faktidena, mis ta oli kogunud Pauluselt ja teisteltki{21}. Luukas esitab Meistrit kui „tölnerite ja patuste sõpra”. Ta sõnastas oma paljud märkmed evangeeliumiks alles pärast Pauluse surma. Luukas kirjutas 82. aastal Ahhaias. Ta kavatses kirjutada Kristusest ja ristiusu ajaloost kolm raamatut, kuid suri 90. aastal, jõudmata teist raamatut, „Apostlite tegusid”, päriselt lõpetada."
                 },
                 {
                     "par_ref": "121:8.9",
@@ -520,28 +520,28 @@
         }
     ],
     "footnotes": [
-        "*Paulus, heebrealane heebrealasest*: 2 Co 11:22; Flp 3:5.",
-        "*Paulus rääkis kreeka keeles*: Hch 21:37-40; Hch 22:2-3.",
-        "*Paulus oli Rooma kodanik*: Hch 16:37-39; Hch 22:24-29.",
-        "*„Õigeusulised“ paganad*: Hch 10:7; Hch 17:4,17.",
-        "*„jumalakartlikud“ paganad*: Hch 10:2,22.",
-        "*Esimesena kutsuti kristlasteks Antiookias*: Hch 11:26.",
-        "*Enamik juute ootas Messiat*: Lc 3:15.",
-        "*Valitud rahvas*: 1 Re 3:8; 1 Cr 17:21-22; Sal 33:12; Sal 105:6,43; Sal 135:4; Is 41:8-9; Is 43:21; Is 44:1; Dt 7:6; Dt 14:2.",
-        "*Kuningas Heroodes*: Mt 2:1; Lc 1:5a.",
-        "*Stoikud „Jumala järeltulijad“*: Hch 17:28-29.",
-        "*Õpi olema rahul*: Flp 4:11.",
-        "*Vabastus kurjusest*: Job 5:19; Sal 140:1; Pr 2:12; Mt 6:13; Lc 11:4; Gl 1:4; 2 Ti 4:18.",
-        "*Surma üleelamine: ülestõusmine*: Mt 22:30-33; Mt 27:52-53; Mc 12:24-27; Lc 14:14; Lc 20:35-38; Jn 5:28-29.",
-        "*Õndsad maailmad*: Jn 14:2-3; Ap 3:12; Ap 21:2-4.",
-        "*Elu pärast surma*: Dn 12:2; Mt 19:16,29; Mt 25:46; Mc 10:17,30; Lc 10:25; Lc 18:18,30; Jn 3:15-16,36; Jn 4:14,36; Jn 5:24,39; Jn 6:27,40,47; Jn 6:54,68; Jn 8:51-52; Jn 10:28; Jn 11:25-26; Jn 12:25,50; Jn 17:2-3; Hch 13:46-48; Ro 2:7; Ro 5:21; Ro 6:22-23; Gl 6:8; 1 Ti 1:16; 1 Ti 6:12,19; Tit 1:2; Tit 3:7; 1 Jn 1:2; 1 Jn 2:25; 1 Jn 3:15; 1 Jn 5:11,13,20; Jud 1:21; Ap 22:5.",
-        "*Inimeste südamesse kirjutatud seadus*: Jer 31:33; Jer 32:40.",
-        "*Uus vaim, elab inimeste südames*: Ez 11:19; Ez 18:31; Ez 36:26-27; Jl 2:28-29; Lc 24:49; Jn 7:39; Jn 14:16-18,23,26; Jn 15:4,26; Jn 16:7-8,13-14; Jn 17:21-23; Hch 1:5,8a; Hch 2:1-4,16-18; Hch 2:33; 2 Co 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1 Jn 4:12-15.",
-        "*Loo puhas süda, uus vaim*: Sal 51:10.",
-        "*Prohvetus 1) Neitsi rasestub ja sünnitab poja ja paneb tema nimeks Immanuel*: Is 7:14: Mt 1:22-23. *Prohvetlus 2) Pet-Lehemist tuleb Messias*: Mic 5:2: Mt 2:5-6. *Prohvetlus 3) Kutsutakse minu poeg Egiptusest välja*: Ho 11:1: Mt 2:15. *Prohvetus 4) Ramahis on kuulda häält*: Jer 31:15: Mt 2:17-18. *Ennustus 5) Teda kutsutakse nasiiriks*: Jg 13:5: Mt 2:23. *Ennustus 6) Sebuloni ja Naftali rahvas on näinud suurt valgust*: Is 9:1-2: Mt 4:14-16. *Ennustus 7) Ta on kandnud meie mured*: Is 53:4: Mt 8:17. *Prohvetus 8) Vaata, minu sulane, kelle ma olen valinud*: Is 42:1-4: Mt 12:17-21. *Prohvet 9) Kuulge küll, aga ärge mõistke*: Is 6:9-10: Mt 13:14. *Ennustus 10) Ma avan oma suu tähendamissõnas*: Ps 78:2: Mt 13:35. *Ennustus 11) Kuningas ratsutab eesli seljas*: Zec 9:9: Mt 21:4-5. *Ennustus 12) Nad kaalusid minu palga eest kolmkümmend hõbemünti*: Zec 11:12: Mt 27:9-10. *Ennustus 13) Nad jagavad mu rõivad nende vahel*: Ps 22:18: Mt 27:35.",
+        "*Paulus, heebrealane heebrealasest*: 2Kr 11:22; Fl 3:5.",
+        "*Paulus rääkis kreeka keeles*: Ap 21:37-40; Ap 22:2-3.",
+        "*Paulus oli Rooma kodanik*: Ap 16:37-39; Ap 22:24-29.",
+        "*„Õigeusulised“ paganad*: Ap 10:7; Ap 17:4,17.",
+        "*„jumalakartlikud“ paganad*: Ap 10:2,22.",
+        "*Esimesena kutsuti kristlasteks Antiookias*: Ap 11:26.",
+        "*Enamik juute ootas Messiat*: Lk 3:15.",
+        "*Valitud rahvas*: 1Kn 3:8; 1Aj 17:21-22; Ps 33:12; Ps 105:6,43; Ps 135:4; Js 41:8-9; Js 43:21; Js 44:1; 5Ms 7:6; 5Ms 14:2.",
+        "*Kuningas Heroodes*: Mt 2:1; Lk 1:5a.",
+        "*Stoikud „Jumala järeltulijad“*: Ap 17:28-29.",
+        "*Õpi olema rahul*: Fl 4:11.",
+        "*Vabastus kurjusest*: Ii 5:19; Ps 140:1; Õp 2:12; Mt 6:13; Lk 11:4; Gl 1:4; 2Tm 4:18.",
+        "*Surma üleelamine: ülestõusmine*: Mt 22:30-33; Mt 27:52-53; Mk 12:24-27; Lk 14:14; Lk 20:35-38; Jh 5:28-29.",
+        "*Õndsad maailmad*: Jh 14:2-3; Ilm 3:12; Ilm 21:2-4.",
+        "*Elu pärast surma*: Tn 12:2; Mt 19:16,29; Mt 25:46; Mk 10:17,30; Lk 10:25; Lk 18:18,30; Jh 3:15-16,36; Jh 4:14,36; Jh 5:24,39; Jh 6:27,40,47; Jh 6:54,68; Jh 8:51-52; Jh 10:28; Jh 11:25-26; Jh 12:25,50; Jh 17:2-3; Ap 13:46-48; Rm 2:7; Rm 5:21; Rm 6:22-23; Gl 6:8; 1Tm 1:16; 1Tm 6:12,19; Tt 1:2; Tt 3:7; 1Jh 1:2; 1Jh 2:25; 1Jh 3:15; 1Jh 5:11,13,20; Jd 1:21; Ilm 22:5.",
+        "*Inimeste südamesse kirjutatud seadus*: Jr 31:33; Jr 32:40.",
+        "*Uus vaim, elab inimeste südames*: Hs 11:19; Hs 18:31; Hs 36:26-27; Jl 2:28-29; Lk 24:49; Jh 7:39; Jh 14:16-18,23,26; Jh 15:4,26; Jh 16:7-8,13-14; Jh 17:21-23; Ap 1:5,8a; Ap 2:1-4,16-18; Ap 2:33; 2Kr 13:5; Gl 2:20; Gl 4:6; Ef 1:13; Ef 4:30; 1Jh 4:12-15.",
+        "*Loo puhas süda, uus vaim*: Ps 51:10.",
+        "*Prohvetus 1) Neitsi rasestub ja sünnitab poja ja paneb tema nimeks Immanuel*: Js 7:14: Mt 1:22-23. *Prohvetlus 2) Pet-Lehemist tuleb Messias*: Mi 5:2: Mt 2:5-6. *Prohvetlus 3) Kutsutakse minu poeg Egiptusest välja*: Ho 11:1: Mt 2:15. *Prohvetus 4) Ramahis on kuulda häält*: Jr 31:15: Mt 2:17-18. *Ennustus 5) Teda kutsutakse nasiiriks*: Km 13:5: Mt 2:23. *Ennustus 6) Sebuloni ja Naftali rahvas on näinud suurt valgust*: Js 9:1-2: Mt 4:14-16. *Ennustus 7) Ta on kandnud meie mured*: Js 53:4: Mt 8:17. *Prohvetus 8) Vaata, minu sulane, kelle ma olen valinud*: Js 42:1-4: Mt 12:17-21. *Prohvet 9) Kuulge küll, aga ärge mõistke*: Js 6:9-10: Mt 13:14. *Ennustus 10) Ma avan oma suu tähendamissõnas*: Ps 78:2: Mt 13:35. *Ennustus 11) Kuningas ratsutab eesli seljas*: Sk 9:9: Mt 21:4-5. *Ennustus 12) Nad kaalusid minu palga eest kolmkümmend hõbemünti*: Sk 11:12: Mt 27:9-10. *Ennustus 13) Nad jagavad mu rõivad nende vahel*: Ps 22:18: Mt 27:35.",
         "*Taaveti suguvõsa*: Mt 1:1,6-17; Mt 9:27; Mt 12:23; Mt 15:22; Mt 20:30-31; Mt 21:9,15; Mt 22:42.",
-        "*Issanda Jeesuse Kristuse arm*: Lc 2:40; Hch 11:23; Hch 13:43; Hch 14:3,26; Hch 15:11,40; Hch 18:27; Hch 20:24,32; 1 Co 13:14.",
-        "*publiku, patuste sõber*: Lc 5:29-30; Lc 7:29,34; Lc 15:1-2; Lc 19:2-6."
+        "*Issanda Jeesuse Kristuse arm*: Lk 2:40; Ap 11:23; Ap 13:43; Ap 14:3,26; Ap 15:11,40; Ap 18:27; Ap 20:24,32; 1Kr 13:14.",
+        "*publiku, patuste sõber*: Lk 5:29-30; Lk 7:29,34; Lk 15:1-2; Lk 19:2-6."
     ],
     "paper_title": "Miikaeli annetumise aeg"
 }

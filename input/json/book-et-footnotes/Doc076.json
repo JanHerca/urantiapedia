@@ -52,7 +52,7 @@
                 {
                     "par_ref": "76:2.1",
                     "par_pageref": "848.1",
-                    "par_content": "Vähem kui kaks aastat pärast Kaini sündis Aabel, Aadama ja Eeva esimene teises aias sündinud laps{2}. Kui Aabel sai kaheteistkümneaastaseks, otsustas ta hakata karjakasvatajaks, Kain oli valinud põllumeheameti."
+                    "par_content": "Vähem kui kaks aastat pärast Kaini sündis Aabel, Aadama ja Eeva esimene teises aias sündinud laps{2}{3}. Kui Aabel sai kaheteistkümneaastaseks, otsustas ta hakata karjakasvatajaks, Kain oli valinud põllumeheameti."
                 },
                 {
                     "par_ref": "76:2.2",
@@ -87,12 +87,12 @@
                 {
                     "par_ref": "76:2.8",
                     "par_pageref": "849.2",
-                    "par_content": "Kaini elu Mesopotaamias ei olnud eriti õnnelik, sest ta oli nii erilise üleastumise sümbol. Kaaslased ei olnud tema vastu lausa ebasõbralikud, ent talle ei jäänud märkamata nende alateadlik pahakspanu tema juuresoleku suhtes. Kain teadis aga, et kuna ta ei kandnud mingit hõimumärki, võis esimene juhuslikult vastutulev naaberhõimu liige teda ära tappa{6}. Hirm ja veidi ka süümepiin ajendasid teda kahetsema. Kaini sisimas ei olnud kunagi Kohandaja elanud, ta oli alati perekonna distsipliini trotsinud ja oma isa usku põlanud. Aga nüüd läks ta ema Eeva juurde ja palus tema vaimset abi ja juhendamist ning kui ta siiralt jumalikku abi palus, tuli Kohandaja temasse elama. See Kohandaja, kes elas ta sisimas ja sealt välja vaatas, andis Kainile selge eelise, mis tegi ta Aadama paljukardetud hõimu liikmetega võrdseks."
+                    "par_content": "Kaini elu Mesopotaamias ei olnud eriti õnnelik, sest ta oli nii erilise üleastumise sümbol. Kaaslased ei olnud tema vastu lausa ebasõbralikud, ent talle ei jäänud märkamata nende alateadlik pahakspanu tema juuresoleku suhtes. Kain teadis aga, et kuna ta ei kandnud mingit hõimumärki, võis esimene juhuslikult vastutulev naaberhõimu liige teda ära tappa{6}. Hirm ja veidi ka süümepiin ajendasid teda kahetsema. Kaini sisimas ei olnud kunagi Kohandaja elanud, ta oli alati perekonna distsipliini trotsinud ja oma isa usku põlanud. Aga nüüd läks ta ema Eeva juurde ja palus tema vaimset abi ja juhendamist ning kui ta siiralt jumalikku abi palus, tuli Kohandaja temasse elama. See Kohandaja, kes elas ta sisimas ja sealt välja vaatas, andis Kainile selge eelise, mis tegi ta Aadama paljukardetud hõimu liikmetega võrdseks{7}."
                 },
                 {
                     "par_ref": "76:2.9",
                     "par_pageref": "849.3",
-                    "par_content": "Nii lahkus Kain teisest Eedenist hommiku poole, Noodimaale{8}. Ta sai oma isa ühe rahvarühma suureks juhiks ja täitis teataval määral Serapatatia ettekuulutused, sest edendas tõesti kogu oma eluaja selle nodiitiderühma ja adamiitide vahelist rahu. Kain abiellus kauge nõbu Remonaga ja nende esimene poeg Hanok sai Eelami nodiitide juhiks. Nii püsis elamiitide ning adamiitide vahel sadu aastaid rahu."
+                    "par_content": "Nii lahkus Kain teisest Eedenist hommiku poole, Noodimaale{8}. Ta sai oma isa ühe rahvarühma suureks juhiks ja täitis teataval määral Serapatatia ettekuulutused, sest edendas tõesti kogu oma eluaja selle nodiitiderühma ja adamiitide vahelist rahu. Kain abiellus kauge nõbu Remonaga ja nende esimene poeg Hanok sai Eelami nodiitide juhiks{9}. Nii püsis elamiitide ning adamiitide vahel sadu aastaid rahu."
                 }
             ]
         },
@@ -119,7 +119,7 @@
                 {
                     "par_ref": "76:3.4",
                     "par_pageref": "849.7",
-                    "par_content": "Usujuhid ehk preesterkond sai alguse Setist, Aadama ja Eeva vanimast teises aias sündinud ellujäänud pojast{10}. Ta sündis sada kakskümmend üheksa aastat pärast Aadama saabumist Urantiale. Sett süvenes oma isa rahva vaimse seisundi parandamisse ja sai teise aia uue preesterkonna peaks. Tema poeg Enos seadis sisse uue palveldamiskorra ja pojapoeg Keenan asutas uue välismisjoniteenistuse kaugema ja lähema ümbruskonna hõimude tarvis."
+                    "par_content": "Usujuhid ehk preesterkond sai alguse Setist, Aadama ja Eeva vanimast teises aias sündinud ellujäänud pojast{10}. Ta sündis sada kakskümmend üheksa aastat pärast Aadama saabumist Urantiale. Sett süvenes oma isa rahva vaimse seisundi parandamisse ja sai teise aia uue preesterkonna peaks. Tema poeg Enos seadis sisse uue palveldamiskorra ja pojapoeg Keenan asutas uue välismisjoniteenistuse kaugema ja lähema ümbruskonna hõimude tarvis{11}{12}."
                 },
                 {
                     "par_ref": "76:3.5",
@@ -276,22 +276,22 @@
         }
     ],
     "footnotes": [
-        "*Idasuunaline reis*: Gn 3:23-24.",
-        "*Higi nende näost*: Gn 3:19.",
-        "*Aabeli sünd*: Gn 4:2.",
-        "*Kaini sünd*: Gn 4:1.",
-        "*Ohvrid*: Gn 4:3-5.",
-        "*Kain tapab Aabeli*: Gn 4:8.",
-        "*No Tribal Mark*: Gn 4:13-15.",
-        "*Aadama hõimu märk*: Gn 4:15.",
-        "*Kain põgeneb Nodi*: Gn 4:16.",
-        "*Kain sigitab Eenoki*: Gn 4:17.",
-        "*Seeti sünd*: Gn 5:3.",
-        "*Enos*: Gn 5:6.",
-        "*Kenan (Kainan)*: Gn 5:9.",
-        "*Puude viljad*: Gn 1:29; Gn 2:16; Gn 3:2.",
-        "*Rassiline tõus*: Gn 6:2.",
-        "*Aadama surm*: Gn 5:5."
+        "*Idasuunaline reis*: 1Ms 3:23-24.",
+        "*Higi nende näost*: 1Ms 3:19.",
+        "*Aabeli sünd*: 1Ms 4:2.",
+        "*Kaini sünd*: 1Ms 4:1.",
+        "*Ohvrid*: 1Ms 4:3-5.",
+        "*Kain tapab Aabeli*: 1Ms 4:8.",
+        "*No Tribal Mark*: 1Ms 4:13-15.",
+        "*Aadama hõimu märk*: 1Ms 4:15.",
+        "*Kain põgeneb Nodi*: 1Ms 4:16.",
+        "*Kain sigitab Eenoki*: 1Ms 4:17.",
+        "*Seeti sünd*: 1Ms 5:3.",
+        "*Enos*: 1Ms 5:6.",
+        "*Kenan (Kainan)*: 1Ms 5:9.",
+        "*Puude viljad*: 1Ms 1:29; 1Ms 2:16; 1Ms 3:2.",
+        "*Rassiline tõus*: 1Ms 6:2.",
+        "*Aadama surm*: 1Ms 5:5."
     ],
     "paper_title": "Teine aed"
 }

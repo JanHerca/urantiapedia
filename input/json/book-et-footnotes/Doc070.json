@@ -100,7 +100,7 @@
                 {
                     "par_ref": "70:1.15",
                     "par_pageref": "784.11",
-                    "par_content": "Need vana aja hõimud sõdisid alati oma jumalate käsul, oma juhtide või ravitsejate korraldusel. Heebrealased uskusid niisugust „sõja Jumalat” ja jutustus nende röövretkest midjani rahva vastu on tüüpiline lugu iidsete hõimusõdade metsikutest julmustest{0}. See sõjakäik, mille käigus tapeti kõik mehed ja hiljem kõik poisid ja kõik naised, kes polnud neitsid, oleks teinud kakssada tuhat aastat tagasi au igale hõimujuhile. Kõike seda tehti „Iisraeli Issanda Jumala nimel”."
+                    "par_content": "Need vana aja hõimud sõdisid alati oma jumalate käsul, oma juhtide või ravitsejate korraldusel. Heebrealased uskusid niisugust „sõja Jumalat” ja jutustus nende röövretkest midjani rahva vastu on tüüpiline lugu iidsete hõimusõdade metsikutest julmustest{0}{1}{2}. See sõjakäik, mille käigus tapeti kõik mehed ja hiljem kõik poisid ja kõik naised, kes polnud neitsid, oleks teinud kakssada tuhat aastat tagasi au igale hõimujuhile{3}. Kõike seda tehti „Iisraeli Issanda Jumala nimel”."
                 },
                 {
                     "par_ref": "70:1.16",
@@ -798,7 +798,7 @@
                 {
                     "par_ref": "70:10.9",
                     "par_pageref": "795.6",
-                    "par_content": "Ühiskond võttis juba varakult omaks kättemaksu: silm silma, elu elu vastu{12}. Veretasu õigust tunnistasid kõik arenevad hõimud. Kättemaks sai ürgse elu eesmärgiks, kuid religioon on hiljem neid varaseid hõimutavasid oluliselt muutnud. Ilmutatud religiooni jutlustajad on alati kuulutanud: „„Minu käes on kättemaks,” ütleb Issand.” Tapmine kättemaksuna kirjutamata seaduse alusel ei erinenud varastel aegadel eriti praegusaja mõrvadest."
+                    "par_content": "Ühiskond võttis juba varakult omaks kättemaksu: silm silma, elu elu vastu{12}{13}. Veretasu õigust tunnistasid kõik arenevad hõimud{14}. Kättemaks sai ürgse elu eesmärgiks, kuid religioon on hiljem neid varaseid hõimutavasid oluliselt muutnud. Ilmutatud religiooni jutlustajad on alati kuulutanud: „„Minu käes on kättemaks,” ütleb Issand{15}.” Tapmine kättemaksuna kirjutamata seaduse alusel ei erinenud varastel aegadel eriti praegusaja mõrvadest."
                 },
                 {
                     "par_ref": "70:10.10",
@@ -813,7 +813,7 @@
                 {
                     "par_ref": "70:10.12",
                     "par_pageref": "796.2",
-                    "par_content": "Veel üks edasiminek oli trahvide määramine karistuseks tabude rikkumise eest. Nendest trahvidest sai esimene avalik tulu. Veretasu asemele tuli ka „vereluna” maksmise komme{16}. Kahjutasu maksti tavaliselt naiste või kariloomadega, alles palju hiljem hakati määrama kuriteo karistuseks tõelisi rahatrahve. Ning et karistuse mõte seisnes sisuliselt hüvitamises, kujunes kõigele, kaasa arvatud inimelu, lõppkokkuvõttes hind, mida sai kahjutasuks maksta. Heebrealased kaotasid vereluna maksmise kombe esimesena. Mooses õpetas, et nad ei tohi „võtta lunahinda tapja hinge eest, kes on surma väärt, vaid teda karistatagu surmaga”."
+                    "par_content": "Veel üks edasiminek oli trahvide määramine karistuseks tabude rikkumise eest. Nendest trahvidest sai esimene avalik tulu. Veretasu asemele tuli ka „vereluna” maksmise komme{16}. Kahjutasu maksti tavaliselt naiste või kariloomadega, alles palju hiljem hakati määrama kuriteo karistuseks tõelisi rahatrahve. Ning et karistuse mõte seisnes sisuliselt hüvitamises, kujunes kõigele, kaasa arvatud inimelu, lõppkokkuvõttes hind, mida sai kahjutasuks maksta. Heebrealased kaotasid vereluna maksmise kombe esimesena. Mooses õpetas, et nad ei tohi „võtta lunahinda tapja hinge eest, kes on surma väärt, vaid teda karistatagu surmaga”{17}."
                 },
                 {
                     "par_ref": "70:10.13",
@@ -1028,27 +1028,27 @@
         }
     ],
     "footnotes": [
-        "*Lahingute jumal*: 1 Cr 14:15; 2 Cr 20:15; 2 Cr 32:8; Sal 24:8; Dt 7:21-23; Dt 20:1-4; 1 Sam 17:47.",
-        "*Barbarite rüüsteretked*: Nm 31:3-31.",
-        "*Neitsite säästmine*: Jg 21:10-12.",
-        "*Issanda, Iisraeli Jumala nimel*: Nm 31:1-2; Dt 7:16-24; Dt 20:1; Jg 11:21,23; 1 Sam 15:2-3.",
-        "*Sisera armee tapmine*: Jg 4:16.",
-        "*Eesnahkade kaasavara*: 1 Sam 18:25-27.",
-        "*Meistrite võitlus*: 1 Sam 17:1-51.",
-        "*Jumal on armastus*: 1 Jn 4:8,16.",
-        "*Võõraid koheldakse nagu kohalikke*: Lv 19:34.",
-        "*Vanemate nõukogu*: Gn 50:7; Ex 3:16-18.",
-        "*Oma rahva isa*: Gn 19:37-38; Gn 36:9,43; Nm 3:24.",
-        "*Usalduse test*: Nm 5:12-31.",
-        "*Silmast silma*: Ex 21:23-24; Lv 24:20; Dt 19:21; Mt 5:38.",
-        "*Elu elu eest*: Ex 21:23.",
-        "*Vere kättemaks*: Dt 19:6,12; Jos 20:3-9.",
-        "*Kättemaks on Jumala oma*: Sal 94:1; Is 35:4; Nah 1:2; Dt 32:35,41,43.",
-        "*Hüvitusraha*: Ex 21:28.",
-        "*Mõrvari eest lunaraha ei võta*: Nm 35:31.",
-        "*Põletage täiskasvanud naine tulega*: Gn 38:24; Lv 21:9.",
-        "*Sa ei tohi tappa*: Ex 20:13; Dt 5:17.",
-        "*See on komme*: Jer 32:11; Jg 11:39."
+        "*Lahingute jumal*: 1Aj 14:15; 2Aj 20:15; 2Aj 32:8; Ps 24:8; 5Ms 7:21-23; 5Ms 20:1-4; 1Sm 17:47.",
+        "*Barbarite rüüsteretked*: 4Ms 31:3-31.",
+        "*Neitsite säästmine*: Km 21:10-12.",
+        "*Issanda, Iisraeli Jumala nimel*: 4Ms 31:1-2; 5Ms 7:16-24; 5Ms 20:1; Km 11:21,23; 1Sm 15:2-3.",
+        "*Sisera armee tapmine*: Km 4:16.",
+        "*Eesnahkade kaasavara*: 1Sm 18:25-27.",
+        "*Meistrite võitlus*: 1Sm 17:1-51.",
+        "*Jumal on armastus*: 1Jh 4:8,16.",
+        "*Võõraid koheldakse nagu kohalikke*: 3Ms 19:34.",
+        "*Vanemate nõukogu*: 1Ms 50:7; 2Ms 3:16-18.",
+        "*Oma rahva isa*: 1Ms 19:37-38; 1Ms 36:9,43; 4Ms 3:24.",
+        "*Usalduse test*: 4Ms 5:12-31.",
+        "*Silmast silma*: 2Ms 21:23-24; 3Ms 24:20; 5Ms 19:21; Mt 5:38.",
+        "*Elu elu eest*: 2Ms 21:23.",
+        "*Vere kättemaks*: 5Ms 19:6,12; Jos 20:3-9.",
+        "*Kättemaks on Jumala oma*: Ps 94:1; Js 35:4; Na 1:2; 5Ms 32:35,41,43.",
+        "*Hüvitusraha*: 2Ms 21:28.",
+        "*Mõrvari eest lunaraha ei võta*: 4Ms 35:31.",
+        "*Põletage täiskasvanud naine tulega*: 1Ms 38:24; 3Ms 21:9.",
+        "*Sa ei tohi tappa*: 2Ms 20:13; 5Ms 5:17.",
+        "*See on komme*: Jr 32:11; Km 11:39."
     ],
     "paper_title": "Inimvalitsuse areng"
 }

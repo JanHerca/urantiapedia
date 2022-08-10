@@ -178,7 +178,7 @@
                 {
                     "par_ref": "27:5.1",
                     "par_pageref": "301.6",
-                    "par_content": "Supernavidest teadmistehoidjad on kõrgemad „elavad kirjad”, mida teavad ja loevad kõik, kes Paradiisis elavad{4}. Nad on jumalikud tõekroonikad, tõeliste teadmiste elavad raamatud. Te olete kuulnud ülestähendustest, mis on kirjas „eluraamatus”. Teadmistehoidjad on just niisugused elavad raamatud, täiuslikud kroonikad, mis on jäädvustatud jumaliku elu ja ülima kindluse igavestele tahvlitele. Tegelikult on nad elavad, automaatsed raamatukogud. Nende esimese astme supernavide sisimas on universumite faktid, mis on tegelikult neisse inglitesse jäädvustatud, ja sisemiselt on ka võimatu, et nende täiuslike ning igavikutõde ja aja arukust täis hoidjate meelde jääks pidama midagi ebatõest."
+                    "par_content": "Supernavidest teadmistehoidjad on kõrgemad „elavad kirjad”, mida teavad ja loevad kõik, kes Paradiisis elavad{4}. Nad on jumalikud tõekroonikad, tõeliste teadmiste elavad raamatud. Te olete kuulnud ülestähendustest, mis on kirjas „eluraamatus”{5}. Teadmistehoidjad on just niisugused elavad raamatud, täiuslikud kroonikad, mis on jäädvustatud jumaliku elu ja ülima kindluse igavestele tahvlitele. Tegelikult on nad elavad, automaatsed raamatukogud. Nende esimese astme supernavide sisimas on universumite faktid, mis on tegelikult neisse inglitesse jäädvustatud, ja sisemiselt on ka võimatu, et nende täiuslike ning igavikutõde ja aja arukust täis hoidjate meelde jääks pidama midagi ebatõest."
                 },
                 {
                     "par_ref": "27:5.2",
@@ -303,12 +303,12 @@
         }
     ],
     "footnotes": [
-        "*Identiteet surma ajal*: Lc 23:46.",
-        "*Seal ei ole öö*: Ap 22:3-5. *Elagu igavesti*: Hch 13:46-48. *Pühkige ära kõik pisarad*: Ap 7:17; Ap 21:4. *Elagu igavesti*: Dn 12:2; Mt 19:16,29; Mt 25:46; Mc 10:17,30; Lc 10:25; Lc 18:18,30; Jn 3:15-16,36; Jn 4:14,36; Jn 5:24,39; Jn 6:27,40,47; Jn 6:51,68; Jn 8:51-52; Jn 10:28; Jn 11:25-26; Jn 12:25,50; Jn 17:2-3; Ro 2:7; Ro 5:21; Ro 6:22-23; Gl 6:8; 1 Ti 1:16; 1 Ti 6:12,19; Tit 1:2; Tit 3:7; 1 Jn 1:2; 1 Jn 2:25; 1 Jn 3:15; 1 Jn 5:11,13,20; Jud 1:21; Ap 22:5.",
-        "*Originaalmuster*: Ex 25:40; Ez 43:10; 1 Ti 1:16; Heb 8:5; Heb 9:23.",
-        "*Võõrad väravate sees*: Ex 20:10; Dt 5:14; Dt 31:12.",
-        "*Elavad kirjad*: 2 Co 3:1-3.",
-        "*Elu raamat*: Flp 4:3; Ap 3:5; Ap 13:8; Ap 17:8; Ap 20:12,15; Ap 21:27; Ap 22:19."
+        "*Identiteet surma ajal*: Lk 23:46.",
+        "*Seal ei ole öö*: Ilm 22:3-5. *Elagu igavesti*: Ap 13:46-48. *Pühkige ära kõik pisarad*: Ilm 7:17; Ilm 21:4. *Elagu igavesti*: Tn 12:2; Mt 19:16,29; Mt 25:46; Mk 10:17,30; Lk 10:25; Lk 18:18,30; Jh 3:15-16,36; Jh 4:14,36; Jh 5:24,39; Jh 6:27,40,47; Jh 6:51,68; Jh 8:51-52; Jh 10:28; Jh 11:25-26; Jh 12:25,50; Jh 17:2-3; Rm 2:7; Rm 5:21; Rm 6:22-23; Gl 6:8; 1Tm 1:16; 1Tm 6:12,19; Tt 1:2; Tt 3:7; 1Jh 1:2; 1Jh 2:25; 1Jh 3:15; 1Jh 5:11,13,20; Jd 1:21; Ilm 22:5.",
+        "*Originaalmuster*: 2Ms 25:40; Hs 43:10; 1Tm 1:16; Hb 8:5; Hb 9:23.",
+        "*Võõrad väravate sees*: 2Ms 20:10; 5Ms 5:14; 5Ms 31:12.",
+        "*Elavad kirjad*: 2Kr 3:1-3.",
+        "*Elu raamat*: Fl 4:3; Ilm 3:5; Ilm 13:8; Ilm 17:8; Ilm 20:12,15; Ilm 21:27; Ilm 22:19."
     ],
     "paper_title": "Esimese astme supernavide hoolekanne"
 }

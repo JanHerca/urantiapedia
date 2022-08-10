@@ -303,7 +303,7 @@
                 {
                     "par_ref": "127:5.4",
                     "par_pageref": "1403.2",
-                    "par_content": "Siis toimus Jeesusel otsustav jutuajamine Rebekaga. Jeesus polnud seni oma suhetes poistel ja tüdrukutel, noormeestel ja neidudel erilist vahet teinud. Ta meel oli olnud liialt tegevuses praktiliste maiste asjatoimetuste pakiliste probleemidega ja põnevate mõtisklustega oma lõpuks saabuvast „Isa ülesande täitmise” elujärgust, et ta oleks kunagi tõsiselt kaalunud isikliku armastuse teostamist inimlikus abielus{1}. Nüüd oli ta aga silmitsi ühega neist probleemidest, millega iga tavaline inimene kokku puutub ja mis tal lahendada tuleb. Teda tõesti „kiusati kõiges nagu teid endidki”."
+                    "par_content": "Siis toimus Jeesusel otsustav jutuajamine Rebekaga. Jeesus polnud seni oma suhetes poistel ja tüdrukutel, noormeestel ja neidudel erilist vahet teinud. Ta meel oli olnud liialt tegevuses praktiliste maiste asjatoimetuste pakiliste probleemidega ja põnevate mõtisklustega oma lõpuks saabuvast „Isa ülesande täitmise” elujärgust, et ta oleks kunagi tõsiselt kaalunud isikliku armastuse teostamist inimlikus abielus{1}. Nüüd oli ta aga silmitsi ühega neist probleemidest, millega iga tavaline inimene kokku puutub ja mis tal lahendada tuleb. Teda tõesti „kiusati kõiges nagu teid endidki”{2}."
                 },
                 {
                     "par_ref": "127:5.5",
@@ -313,7 +313,7 @@
                 {
                     "par_ref": "127:5.6",
                     "par_pageref": "1403.4",
-                    "par_content": "Rebeka oli ääretult kurb. Ta ei lasknud kellelgi end lohutada ja anus isa Naatsaretist lahkuma, kuni too lõpuks nõustuski Sepphorisesse kolima. Hilisematel aastatel andis Rebeka kõigile oma paljudele kosilastele ühesuguse vastuse. Ta elas vaid ühe eesmärgiga — oodata ära tund, mil see tema jaoks suurim kunagi elanud mees alustab oma elava tõe õpetaja elujärku. Ning Rebeka järgnes talle pühendunult tema avaliku teenistuse sündmusrikastel aastatel, olles (Jeesuse teadmata) kohal ka sel päeval, mil mees võidukalt Jeruusalemma ratsutas. Ta seisis „teiste naiste seas” Maarja kõrval ka sel saatuslikul traagilisel õhtupoolikul, mil see talle ja loendamatutele kõrgetele maailmadele „ainus armas ja suurim kümnete tuhandete seas” Inimese Poeg ristil rippus{3}."
+                    "par_content": "Rebeka oli ääretult kurb. Ta ei lasknud kellelgi end lohutada ja anus isa Naatsaretist lahkuma, kuni too lõpuks nõustuski Sepphorisesse kolima. Hilisematel aastatel andis Rebeka kõigile oma paljudele kosilastele ühesuguse vastuse. Ta elas vaid ühe eesmärgiga — oodata ära tund, mil see tema jaoks suurim kunagi elanud mees alustab oma elava tõe õpetaja elujärku. Ning Rebeka järgnes talle pühendunult tema avaliku teenistuse sündmusrikastel aastatel, olles (Jeesuse teadmata) kohal ka sel päeval, mil mees võidukalt Jeruusalemma ratsutas. Ta seisis „teiste naiste seas” Maarja kõrval ka sel saatuslikul traagilisel õhtupoolikul, mil see talle ja loendamatutele kõrgetele maailmadele „ainus armas ja suurim kümnete tuhandete seas” Inimese Poeg ristil rippus{3}{4}.{5}"
                 }
             ]
         },
@@ -406,13 +406,13 @@
         }
     ],
     "footnotes": [
-        "*Nähes Teda, kes on nähtamatu*: Heb 11:27.",
-        "*Oma Isa asjadest*: Lc 2:49.",
-        "*Kõigis punktides proovile pandud nagu sina*: Heb 4:15.",
-        "*Triumfaalne sisenemine*: Mt 21:8-9; Mc 11:8-11a; Lc 19:36-38; Jn 12:12-13.",
-        "*Maarja ja teised naised, ristilöömise tunnistajad*: Mt 27:55-56; Mc 15:40; Lc 23:49; Jn 19:25.",
-        "*Üks ülimalt armas*: Cnt 5:16. *Suurim kümne tuhande seas*: Cnt 5:10.",
-        "*Sööge paasapüha „Moosese seadust“*: Ex 12:1-28."
+        "*Nähes Teda, kes on nähtamatu*: Hb 11:27.",
+        "*Oma isa asjade kohta*: Lk 2:49.",
+        "*Kõigis punktides proovile pandud nagu sina*: Hb 4:15.",
+        "*Triumfaalne sisenemine*: Mt 21:8-9; Mk 11:8-11a; Lk 19:36-38; Jh 12:12-13.",
+        "*Maarja ja teised naised, ristilöömise tunnistajad*: Mt 27:55-56; Mk 15:40; Lk 23:49; Jh 19:25.",
+        "*Üks ülimalt armas*: Ül 5:16. *Suurim kümne tuhande seas*: Ül 5:10.",
+        "*Sööge paasapüha „Moosese seadust“*: 2Ms 12:1-28."
     ],
     "paper_title": "Noorusaastad"
 }

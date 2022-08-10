@@ -13,7 +13,7 @@
                 {
                     "par_ref": "10:0.2",
                     "par_pageref": "108.2",
-                    "par_content": "Paradiisi-Kolmsus kannab mõjusalt hoolt Jumaluse igavese olemuse täieliku avaldamise ja täiusliku ilmutamise eest{0}. Kolmsuse Alalised Pojad pakuvad samal moel täielikku ja täiuslikku ilmutust jumalikust õiglusest. Kolmsus on jumalusühtsus ning see ühtsus toetub igavesti kolme algse, kooskõlastatud ja kaaseksisteeriva isiksuse — Jumal-Isa, Jumal-Poja ja Jumal-Vaimu — jumaliku ühtsuse absoluutsele alusele."
+                    "par_content": "Paradiisi-Kolmsus kannab mõjusalt hoolt Jumaluse igavese olemuse täieliku avaldamise ja täiusliku ilmutamise eest{0}. Kolmsuse Alalised Pojad pakuvad samal moel täielikku ja täiuslikku ilmutust jumalikust õiglusest. Kolmsus on jumalusühtsus ning see ühtsus toetub igavesti kolme algse, kooskõlastatud ja kaaseksisteeriva isiksuse — Jumal-Isa, Jumal-Poja ja Jumal-Vaimu — jumaliku ühtsuse absoluutsele alusele{1}."
                 },
                 {
                     "par_ref": "10:0.3",
@@ -124,7 +124,7 @@
                 {
                     "par_ref": "10:3.3",
                     "par_pageref": "111.1",
-                    "par_content": "Jumalikud Pojad on tõepoolest „Jumala Sõna”, aga Vaimu lapsed on tõesti „Jumala Tegu”{4}. Jumal räägib Poja kaudu ja koos Pojaga, tegutseb Lõpmatu Vaimu läbi ning kõigis universumi toiminguis on Poeg ja Vaim oivaliselt vennalikud, töötades otsekui kaks võrdset venda, kes imetlevad ja armastavad ühist, lugupeetud ja jumalikku austust pälvinud Isa."
+                    "par_content": "Jumalikud Pojad on tõepoolest „Jumala Sõna”, aga Vaimu lapsed on tõesti „Jumala Tegu”{4}{5}. Jumal räägib Poja kaudu ja koos Pojaga, tegutseb Lõpmatu Vaimu läbi ning kõigis universumi toiminguis on Poeg ja Vaim oivaliselt vennalikud, töötades otsekui kaks võrdset venda, kes imetlevad ja armastavad ühist, lugupeetud ja jumalikku austust pälvinud Isa."
                 },
                 {
                     "par_ref": "10:3.4",
@@ -402,7 +402,7 @@
                 {
                     "par_ref": "10:7.1",
                     "par_pageref": "115.3",
-                    "par_content": "Jumaluse Esimene, Teine ja Kolmas Isik on omavahel võrdsed ja nad on üks{6}. „Issand, meie Jumal, on üks Jumal.” Igaveste Jumaluste jumalikus Kolmsuses on varjul eesmärgi täius ja toimimise ühtsus. Isa, Poeg ja Ühine Toimija on tõeliselt ja jumalikult üks. Tõsi on kirjakoht, mis ütleb: „Mina olen esimene ja mina olen viimane ja peale minu ei ole ühtegi teist Jumalat.”"
+                    "par_content": "Jumaluse Esimene, Teine ja Kolmas Isik on omavahel võrdsed ja nad on üks{6}. „Issand, meie Jumal, on üks Jumal{7}.” Igaveste Jumaluste jumalikus Kolmsuses on varjul eesmärgi täius ja toimimise ühtsus. Isa, Poeg ja Ühine Toimija on tõeliselt ja jumalikult üks. Tõsi on kirjakoht, mis ütleb: „Mina olen esimene ja mina olen viimane ja peale minu ei ole ühtegi teist Jumalat{8}{9}.”"
                 },
                 {
                     "par_ref": "10:7.2",
@@ -490,16 +490,16 @@
         }
     ],
     "footnotes": [
-        "*Paradise Trinity*: Mt 28:19; Hch 2:32-33; 2 Co 13:14; 1 Jn 5:7.",
-        "*Paradise Trinity (Pauluse varajane vaade)*: 1 Co 12:4-6.",
-        "*Paradiisi pojad*: Mt 11:27; Lc 10:22; Jn 1:14,18; Jn 6:45-46; Jn 8:26; Jn 12:49-50; Jn 14:7-11,20; Jn 17:6,25-26.",
-        "*Jumala näo järgi loodud inimene*: Gn 1:26.",
-        "*„Jumala Sõna“*: Jn 1:1-4,14.",
-        "*Jumala tegu*: Gn 1:1ff.",
-        "*Jumaluse ühtsus*: 1 Jn 5:7.",
-        "*Issand, meie Jumal, on üks Jumal*: 2 Re 19:19; 1 Cr 17:20; Neh 9:6; Sal 86:10; Ec lo 36:5; Is 37:16; Is 44:6,8; Is 45:5-6,21; Dt 4:35,39; Dt 6:4; Mc 12:29,32; Jn 17:3; Ro 3:30; 1 Co 8:4-6; Gl 3:20; Ef 4:6; 1 Ti 2:5; Stg 2:19; 1 Sam 2:2; 2 Sam 7:22.",
-        "*Esimene, viimane ja ainus Jumal*: Is 41:4; Is 44:6; Is 48:12; Ap 1:17; Ap 2:8.",
-        "*Alfa ja oomega*: Ap 1:8,11; Ap 21:6; Ap 22:13."
+        "*Paradiisi Kolmainsus*: Mt 28:19; Ap 2:32-33; 2Kr 13:14; 1Jh 5:7.",
+        "*Paradiisi Kolmainsus (Pauluse varajane vaade)*: 1Kr 12:4-6.",
+        "*Paradiisi pojad*: Mt 11:27; Lk 10:22; Jh 1:14,18; Jh 6:45-46; Jh 8:26; Jh 12:49-50; Jh 14:7-11,20; Jh 17:6,25-26.",
+        "*Jumala näo järgi loodud inimene*: 1Ms 1:26.",
+        "*„Jumala Sõna“*: Jh 1:1-4,14.",
+        "*Jumala tegu*: 1Ms 1:1ff.",
+        "*Jumaluse ühtsus*: 1Jh 5:7.",
+        "*Issand, meie Jumal, on üks Jumal*: 2Kn 19:19; 1Aj 17:20; Ne 9:6; Ps 86:10; Srk 36:5; Js 37:16; Js 44:6,8; Js 45:5-6,21; 5Ms 4:35,39; 5Ms 6:4; Mk 12:29,32; Jh 17:3; Rm 3:30; 1Kr 8:4-6; Gl 3:20; Ef 4:6; 1Tm 2:5; Jk 2:19; 1Sm 2:2; 2Sm 7:22.",
+        "*Esimene, viimane ja ainus Jumal*: Js 41:4; Js 44:6; Js 48:12; Ilm 1:17; Ilm 2:8.",
+        "*Alfa ja oomega*: Ilm 1:8,11; Ilm 21:6; Ilm 22:13."
     ],
     "paper_title": "Paradiisi-Kolmsus"
 }

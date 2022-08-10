@@ -40,7 +40,7 @@
                 {
                     "par_ref": "7:1.1",
                     "par_pageref": "81.6",
-                    "par_content": "Kõik, mida õpetatakse Jumala immanentsuse kohta, tema kõikse kohaloleku, kõikvõimsuse ja kõiketeadmise kohta, kehtib vaimses vallas võrdsel määral ka Poja suhtes. Kogu loodu ehe ja universaalne vaimugravitatsioon, see puhtakujuline vaimuringlus viib otseselt Paradiisi, Teise Allika ja Keskme juurde tagasi. Tema suunab seda alati olemasolevat ja eksimatut vaimset võimu, mis toimib kõikide tõeliste vaimsete väärtuste hulgas ja juhib neid. Nõnda on Igavesel Pojal absoluutne vaimne sõltumatus. Kujundlikult võiks öelda, et kõik vaimureaalsused ja vaimsustatud väärtused on tema peos{0}. Kõikse vaimugravitatsiooni juhtimine *on* kõikne vaimne suveräänsus."
+                    "par_content": "Kõik, mida õpetatakse Jumala immanentsuse kohta, tema kõikse kohaloleku, kõikvõimsuse ja kõiketeadmise kohta, kehtib vaimses vallas võrdsel määral ka Poja suhtes. Kogu loodu ehe ja universaalne vaimugravitatsioon, see puhtakujuline vaimuringlus viib otseselt Paradiisi, Teise Allika ja Keskme juurde tagasi. Tema suunab seda alati olemasolevat ja eksimatut vaimset võimu, mis toimib kõikide tõeliste vaimsete väärtuste hulgas ja juhib neid. Nõnda on Igavesel Pojal absoluutne vaimne sõltumatus. Kujundlikult võiks öelda, et kõik vaimureaalsused ja vaimsustatud väärtused on tema peos{0}. Kõikse vaimugravitatsiooni juhtimine *on* kõikne vaimne suveräänsus{1}."
                 },
                 {
                     "par_ref": "7:1.2",
@@ -213,7 +213,7 @@
                 {
                     "par_ref": "7:5.1",
                     "par_pageref": "86.2",
-                    "par_content": "Igavene Poeg ühines jäägitult Kõikse Isaga, et kuulutada kogu loodule seda võimast käsku: „Olge täiuslikud, nii nagu on täiuslik teie Isa Havonas{6}.” Ning sellest hetkest peale on too kutsuv käsk ajendanud Igavese Poja ning temaga kooskõlastatud ning seostatud Poegade hiigelperekonna kõiki ellujäämisplaane ja annetumiskavasid. Just nende annetumiskavade tõttu ongi Jumala Poegadest saanud „tee, tõde ja elu” kõikide arenevate loodud-olendite jaoks."
+                    "par_content": "Igavene Poeg ühines jäägitult Kõikse Isaga, et kuulutada kogu loodule seda võimast käsku: „Olge täiuslikud, nii nagu on täiuslik teie Isa Havonas{6}.” Ning sellest hetkest peale on too kutsuv käsk ajendanud Igavese Poja ning temaga kooskõlastatud ning seostatud Poegade hiigelperekonna kõiki ellujäämisplaane ja annetumiskavasid. Just nende annetumiskavade tõttu ongi Jumala Poegadest saanud „tee, tõde ja elu” kõikide arenevate loodud-olendite jaoks{7}."
                 },
                 {
                     "par_ref": "7:5.2",
@@ -358,16 +358,16 @@
         }
     ],
     "footnotes": [
-        "*Hoidke käe õõnsuses*: Is 40:12.",
-        "*Vaimude raskusjõud*: Jer 31:3; Jn 6:44; Jn 12:32.",
-        "*Vaimu gravitatsioon*: Jer 31:3; Jn 6:44; Jn 12:32.",
-        "*Tõelised vaimuväärtused*: 1 Co 13:1.",
-        "*Inimene on loodud Jumala näo järgi*: Gn 1:26.",
-        "*Ole sa täiuslik*: Gn 17:1; Lv 19:2; 1 Re 8:61; Dt 18:13; Mt 5:48; 2 Co 13:11; Stg 1:4; 1 P 1:16.",
-        "*Ole sa täiuslik*: Gn 17:1; 1 Re 8:61; Lv 19:2; Dt 18:13; Mt 5:48; 2 Co 13:11; Stg 1:4; 1 P 1:16.",
-        "*Tee, tõde ja elu*: Jn 14:6.",
-        "*Pojad kuulutasid rõõmu*: Job 38:7.",
-        "*Pojad on tee*: Jn 14:6."
+        "*Hoidke käe õõnsuses*: Js 40:12.",
+        "*Vaimgravitatsioon*: Jr 31:3; Jh 6:44; Jh 12:32.",
+        "*Vaimgravitatsioon*: Jr 31:3; Jh 6:44; Jh 12:32.",
+        "*Tõelised vaimuväärtused*: 1Kr 13:1.",
+        "*Inimene on loodud Jumala näo järgi*: 1Ms 1:26.",
+        "*Ole sa täiuslik*: 1Ms 17:1; 3Ms 19:2; 1Kn 8:61; 5Ms 18:13; Mt 5:48; 2Kr 13:11; Jk 1:4; 1Pt 1:16.",
+        "*Ole sa täiuslik*: 1Ms 17:1; 1Kn 8:61; 3Ms 19:2; 5Ms 18:13; Mt 5:48; 2Kr 13:11; Jk 1:4; 1Pt 1:16.",
+        "*Tee, tõde ja elu*: Jh 14:6.",
+        "*Pojad kuulutasid rõõmu*: Ii 38:7.",
+        "*Pojad on tee*: Jh 14:6."
     ],
     "paper_title": "Igavese Poja suhe universumiga"
 }

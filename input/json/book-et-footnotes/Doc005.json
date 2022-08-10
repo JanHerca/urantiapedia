@@ -97,7 +97,7 @@
                 {
                     "par_ref": "5:2.2",
                     "par_pageref": "64.5",
-                    "par_content": "Jumal elab kõigis tema vaimust sündinud poegades. Paradiisi-Poegadel on alati pääs Jumala juurde „Isa paremale käele” ja kõikidel tema loodud isiksustel on ligipääs „Isa sülele”{0}. See viitab isiksusringlusele — ükskõik millal, ükskõik kus ja ükskõik kuidas sellega ühendus saadakse — või hõlmab isiklikku teadlikku kontakti ja suhtlemist Kõikse Isaga kas keskses asupaigas või mõnes muus selleks mõeldud kohas, näiteks ühes Paradiisi seitsmest pühast sfäärist."
+                    "par_content": "Jumal elab kõigis tema vaimust sündinud poegades. Paradiisi-Poegadel on alati pääs Jumala juurde „Isa paremale käele” ja kõikidel tema loodud isiksustel on ligipääs „Isa sülele”{0}{1}. See viitab isiksusringlusele — ükskõik millal, ükskõik kus ja ükskõik kuidas sellega ühendus saadakse — või hõlmab isiklikku teadlikku kontakti ja suhtlemist Kõikse Isaga kas keskses asupaigas või mõnes muus selleks mõeldud kohas, näiteks ühes Paradiisi seitsmest pühast sfäärist."
                 },
                 {
                     "par_ref": "5:2.3",
@@ -211,7 +211,7 @@
                 {
                     "par_ref": "5:4.8",
                     "par_pageref": "67.6",
-                    "par_content": "Kreeka religiooni tunnuslauseks oli „Tunne iseennast”, heebrealaste õpetuse tuumaks aga „Tunne oma Jumalat”; kristlased kuulutavad evangeeliumi, mis on suunatud „Issanda Jeesuse Kristuse tundmisele”; Jeesuse rõõmusõnum oli „Tunne Jumalat ja ennast kui Jumala poega”{5}. Need erinevad arusaamad religiooni eesmärgist määravad ära üksikisiku suhtumise paljudes olukordades, annavad aimu palveldamise sügavusest ja isiklike palvetavade olemusest. Iga religiooni vaimse staatuse saab kindlaks määrata sellele omaste palvete iseloomu põhjal."
+                    "par_content": "Kreeka religiooni tunnuslauseks oli „Tunne iseennast”, heebrealaste õpetuse tuumaks aga „Tunne oma Jumalat”; kristlased kuulutavad evangeeliumi, mis on suunatud „Issanda Jeesuse Kristuse tundmisele”; Jeesuse rõõmusõnum oli „Tunne Jumalat ja ennast kui Jumala poega”{5}{6}{7}. Need erinevad arusaamad religiooni eesmärgist määravad ära üksikisiku suhtumise paljudes olukordades, annavad aimu palveldamise sügavusest ja isiklike palvetavade olemusest. Iga religiooni vaimse staatuse saab kindlaks määrata sellele omaste palvete iseloomu põhjal."
                 },
                 {
                     "par_ref": "5:4.9",
@@ -406,15 +406,15 @@
         }
     ],
     "footnotes": [
-        "*Isa parem käsi*: Sal 110:1; Mt 22:43-44; Mc 12:36; Mc 16:19; Lc 20:42; Hch 7:55-56; Ro 8:34; Col 3:1; Heb 1:3; Heb 8:1; Heb 10:12; Heb 12:2; 1 P 3:22.",
-        "*Isa süles*: Jn 1:18.",
-        "*Jumala Vaim sinu sees*: Job 32:8,18; Is 63:10-11; Ez 37:14; Mt 10:20; Lc 17:21; Jn 17:21-23; Ro 8:9-11; 1 Co 3:16-17; 1 Co 6:19; 2 Co 6:16; Gl 2:20; 1 Jn 3:24; 1 Jn 4:12-15; Ap 21:3.",
-        "*Nende viljade järgi tunned nad ära*: Mt 7:16-20; Lc 6:43-44; Gl 5:22-23; Ef 5:9.",
-        "*Kestev rahu*: Sal 119:165; Is 26:3; Nm 6:26; Lc 1:79; Lc 2:14; Jn 14:27; Jn 16:33; Ro 14:17; 1 Co 14:33; Flp 4:7. *sügav kindlustunne*: Is 32:17; Ef 3:12; Col 2:2; 1 Ts 1:5; 2 Ti 1:12; Heb 6:11; Heb 10:22; 1 Jn 3:19.",
-        "*Tunne oma Jumalat*: 1 Cr 28:9; Jer 9:24; Jer 31:34; Os 6:6.",
-        "*Tunne Issandat Jeesust Kristust*: Flp 3:8; 2 P 1:8; 2 P 3:18.",
-        "*Tunne Jumalat ja ennast kui poega*: Jn 14:7,17,20; Flp 3:9-10; Heb 8:11; 1 Jn 2:3-5. *Me oleme Jumala lapsed*: 1 Cr 22:10; Sal 2:7; Is 56:5; Mt 5:9,16,45; Lc 20:36; Jn 1:12-13; Jn 11:52; Hch 17:28-29; Ro 8:14-17,19,21; Ro 9:26; 2 Co 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Flp 2:15; Heb 12:5-8; 1 Jn 3:1-2,10; 1 Jn 5:2; Ap 21:7; 2 Sam 7:14.",
-        "*Vaimu raskus*: Jer 31:3; Jn 6:44; Jn 12:32."
+        "*Isa parem käsi*: Ps 110:1; Mt 22:43-44; Mk 12:36; Mk 16:19; Lk 20:42; Ap 7:55-56; Rm 8:34; Kl 3:1; Hb 1:3; Hb 8:1; Hb 10:12; Hb 12:2; 1Pt 3:22.",
+        "*Isa rind*: Jh 1:18.",
+        "*Jumala Vaim sinu sees*: Ii 32:8,18; Js 63:10-11; Hs 37:14; Mt 10:20; Lk 17:21; Jh 17:21-23; Rm 8:9-11; 1Kr 3:16-17; 1Kr 6:19; 2Kr 6:16; Gl 2:20; 1Jh 3:24; 1Jh 4:12-15; Ilm 21:3.",
+        "*Nende viljade järgi tunneb neid ära*: Mt 7:16-20; Lk 6:43-44; Gl 5:22-23; Ef 5:9.",
+        "*Kestev rahu*: Ps 119:165; Js 26:3; 4Ms 6:26; Lk 1:79; Lk 2:14; Jh 14:27; Jh 16:33; Rm 14:17; 1Kr 14:33; Fl 4:7. *sügav kindlustunne*: Js 32:17; Ef 3:12; Kl 2:2; 1Ts 1:5; 2Tm 1:12; Hb 6:11; Hb 10:22; 1Jh 3:19.",
+        "*Tunne oma Jumalat*: 1Aj 28:9; Jr 9:24; Jr 31:34; Ho 6:6.",
+        "*Tunne Issandat Jeesust Kristust*: Fl 3:8; 2Pt 1:8; 2Pt 3:18.",
+        "*Tunne Jumalat ja ennast kui poega*: Jh 14:7,17,20; Fl 3:9-10; Hb 8:11; 1Jh 2:3-5. *Me oleme Jumala lapsed*: 1Aj 22:10; Ps 2:7; Js 56:5; Mt 5:9,16,45; Lk 20:36; Jh 1:12-13; Jh 11:52; Ap 17:28-29; Rm 8:14-17,19,21; Rm 9:26; 2Kr 6:18; Gl 3:26; Gl 4:5-7; Ef 1:5; Fl 2:15; Hb 12:5-8; 1Jh 3:1-2,10; 1Jh 5:2; Ilm 21:7; 2Sm 7:14.",
+        "*Vaimgravitatsioon*: Jr 31:3; Jh 6:44; Jh 12:32."
     ],
     "paper_title": "Jumala suhe üksikisikuga"
 }

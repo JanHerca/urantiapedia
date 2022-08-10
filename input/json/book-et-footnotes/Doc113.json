@@ -8,7 +8,7 @@
                 {
                     "par_ref": "113:0.1",
                     "par_pageref": "1241.1",
-                    "par_content": "LÕPETANUD jutustused Aja Hoolekandevaimudest ja Ruumi Sõnumitoojate Hulkadest, asume vaatlema kaitseingleid, seeraveid, kes on pühendunud nende üksiksurelike eest hoolitsemisele, kelle tõusuks ja täiustumiseks on kogu see tohutu ellujäämisprogramm ette nähtud. Need saatuse kaitsjad on olnud Urantial varasematel ajastutel peaaegu ainus äratuntud ingliterühm. Planeedi seeravid olid tegelikult hoolekandevaimud, kes saadeti teenima neid, kes pidid ellu jääma. Need abistavad seeravid on tegutsenud kõigi mineviku ja oleviku suursündmuste ajal sureliku inimese vaimsete abilistena. Nii mõneski ilmutuses „räägiti sõna inglite kaudu”, nii mõnedki taeva käsuõpetused on „saadud inglite teenistuse kaudu”{0}."
+                    "par_content": "LÕPETANUD jutustused Aja Hoolekandevaimudest ja Ruumi Sõnumitoojate Hulkadest, asume vaatlema kaitseingleid, seeraveid, kes on pühendunud nende üksiksurelike eest hoolitsemisele, kelle tõusuks ja täiustumiseks on kogu see tohutu ellujäämisprogramm ette nähtud. Need saatuse kaitsjad on olnud Urantial varasematel ajastutel peaaegu ainus äratuntud ingliterühm. Planeedi seeravid olid tegelikult hoolekandevaimud, kes saadeti teenima neid, kes pidid ellu jääma. Need abistavad seeravid on tegutsenud kõigi mineviku ja oleviku suursündmuste ajal sureliku inimese vaimsete abilistena. Nii mõneski ilmutuses „räägiti sõna inglite kaudu”, nii mõnedki taeva käsuõpetused on „saadud inglite teenistuse kaudu”{0}{1}."
                 },
                 {
                     "par_ref": "113:0.2",
@@ -25,7 +25,7 @@
                 {
                     "par_ref": "113:1.1",
                     "par_pageref": "1241.3",
-                    "par_content": "Õpetus kaitseinglitest ei ole müüt, mõnel inimolendite rühmal ongi tegelikult isiklikud inglid{2}. Just seda pidas Jeesus silmas, kui ta taevariigi lastest kõneldes ütles: „Vaadake ette, et te ühtki neist pisukesist ei põlga; sest ma ütlen teile, et nende inglid taevas näevad alati mu Isa vaimu kohalolekut.”"
+                    "par_content": "Õpetus kaitseinglitest ei ole müüt, mõnel inimolendite rühmal ongi tegelikult isiklikud inglid{2}. Just seda pidas Jeesus silmas, kui ta taevariigi lastest kõneldes ütles: „Vaadake ette, et te ühtki neist pisukesist ei põlga; sest ma ütlen teile, et nende inglid taevas näevad alati mu Isa vaimu kohalolekut{3}.”"
                 },
                 {
                     "par_ref": "113:1.2",
@@ -338,13 +338,13 @@
         }
     ],
     "footnotes": [
-        "*Inglite poolt räägitud sõna*: Heb 2:2.",
-        "*Inglite poolt vastu võetud*: Hch 7:53.",
-        "*Kaitseinglid*: Bar 6:7.",
+        "*Inglite poolt räägitud sõna*: Hb 2:2.",
+        "*Inglite poolt vastu võetud*: Ap 7:53.",
+        "*Kaitseinglid*: Brk 6:7.",
         "*Ära põlga väikesi*: Mt 18:10.",
-        "*Saatke inglid valikuid koguma*: Mt 24:31; Mc 13:27.",
-        "*Vääramatute ülestõusmine*: Hch 24:15.",
-        "*Loodi madalamale kui inglid*: Sal 8:4-5; Heb 2:6-7."
+        "*Saatke inglid valikuid koguma*: Mt 24:31; Mk 13:27.",
+        "*Vääramatute ülestõusmine*: Ap 24:15.",
+        "*Loodi madalamale kui inglid*: Ps 8:4-5; Hb 2:6-7."
     ],
     "paper_title": "Seeravlikud saatuse kaitsjad"
 }
