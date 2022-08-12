@@ -1,0 +1,311 @@
+<!--
+https://urantia-book.org/urantiabook/bible_refs/Galatians_1.html
+bible_ref = Bible Chapter:Vers
+par_pageref = UB 1st English Edition Page:Line
+par_ref = UB Paper:Sec:Ppgh
+type = See _readme
+-->
+
+| book      | bible_ref | par_pageref | par_ref        | text                                | type |
+| --------- | --------- | ----------- | -------------- | ----------------------------------- | ---- |
+| Galatians | 1:4       | 2067:8-9    | 194:4.6/9-10   | God: loving Father of all men       | C    |
+| Galatians | 1:4       | 1676:17-18  | 149:6.8/7-8    | God is our Father                   | C    |
+| Galatians | 1:4       | 1590:35     | 141:4.2/3      | God is our Father                   | C    |
+| Galatians | 1:4       | 1454:16-17  | 131:10.5/1-3   | God is MY Father                    | C    |
+| Galatians | 1:4       | 1337:27-28  | 121:5.11/4-5   | Deliverance from evil               | C    |
+| Galatians | 1:6-9     | 1768:18-27  | 159:4.6/all    | Scripture not infallible (Contra)   | C    |
+| Galatians | 1:19      | 1357:5-6    | 123:1.5/1-4    | Jesus' brother, James               | C    |
+| Galatians | 2:6       | 1568:30-31  | 140:1.2/6-7    | Not the God of Jew or Gentile       | S    |
+| Galatians | 2:6       | 1831:8      | 166:4.11/8-9   | God is no respecter of persons      | C    |
+| Galatians | 2:6       | 454:17-19   | 40:10.13/4-9   | God is no respecter of persons      | C    |
+| Galatians | 2:6       | 1899:18     | 174:2.2/10-11  | Jesus is no respecter of persons    | C    |
+| Galatians | 2:6       | 1662:46-47  | 148:6.2/16-18  | No respecter of persons             | C    |
+| Galatians | 2:6       | 27:8        | 1:4.6/7        | God is no respecter of persons      | C    |
+| Galatians | 2:6       | 1536:10     | 137:8.6/5-6    | No respecter of persons             | C    |
+| Galatians | 2:6       | 1909:35     | 175:2.3/24     | God is no respecter of persons      | C    |
+| Galatians | 2:6       | 2047:37     | 192:2.2/8-9    | God is no respecter of persons      | C    |
+| Galatians | 2:6       | 36:43-44    | 2:3.1/9-10     | God is no respecter of persons      | C    |
+| Galatians | 2:6       | 1736:10-12  | 156:2.4/9-12   | No favoritism by God                | C    |
+| Galatians | 2:6       | 1608:20     | 143:1.5/8-9    | No respecter of persons             | C    |
+| Galatians | 2:6       | 1468:30     | 133:0.3/22-23  | God is no respecter of persons      | C    |
+| Galatians | 2:6       | 138:22      | 12:7.8/5-7     | God is no respecter of persons      | C    |
+| Galatians | 2:6       | 1487:12-13  | 134:4.7/3-5    | All people are spiritually equal    | C    |
+| Galatians | 2:6       | 1290:43-44  | 117:6.22/1     | No respecter of persons             | C    |
+| Galatians | 2:6       | 2034:1-2    | 190:4.1/12-14  | Neither Jew nor Gentile             | S    |
+| Galatians | 2:6       | 46:32-33    | 3:1.12/13-14   | God is no respecter of persons      | C    |
+| Galatians | 2:6       | 1731:6-7    | 155:6.2/16-17  | God is no respecter of races        | C    |
+| Galatians | 2:6       | 1541:38-41  | 138:4.2/13-18  | Equality for all who seek God       | C    |
+| Galatians | 2:6       | 1564:16-17  | 139:10.9/7-8   | Jesus is no respecter of persons    | C    |
+| Galatians | 2:6       | 1536:37     | 137:8.11/1-3   | Neither Jew nor Gentile             | C    |
+| Galatians | 2:6       | 1226:2      | 112:0.10/7     | God is no respecter of persons      | C    |
+| Galatians | 2:6       | 1679:23-25  | 150:1.3/15-18  | Equality of persons                 | C    |
+| Galatians | 2:6       | 2033:14-15  | 190:3.1/22-25  | In kingdom, no differences          | C    |
+| Galatians | 2:6       | 1958:12-16  | 181:2.14/17-25 | God/Son no respecter of persons     | C    |
+| Galatians | 2:10      | 2067:22     | 194:4.7/7-8    | Ministered to poor                  | S    |
+| Galatians | 2:11-14   | 1551:22-25  | 139:2.7/4-8    | Peter reversed self                 | C    |
+| Galatians | 2:16      | 1113:15-16  | 101:6.9/6-9    | Faith of Jesus                      | C    |
+| Galatians | 2:16      | 2094:14     | 196:3.4/3-4    | Justified by faith                  | S    |
+| Galatians | 2:16      | 1545:35-37  | 138:8.8/1-6    | Change of mind by faith: new birth  | C    |
+| Galatians | 2:16      | 1610:3-5    | 143:2.6/1-5    | Saved by faith, not deeds           | C    |
+| Galatians | 2:20      | 1340:25-26  | 121:7.5/7-8    | New spirit, live in men's hearts    | C    |
+| Galatians | 2:20      | 379:36      | 34:5.5/1-2     | Spirit of Truth                     | C    |
+| Galatians | 2:20      | 1642:8-9    | 146:3.5/10-12  | Living Spirit of the Father (TA)    | C    |
+| Galatians | 2:20      | 1588:41-43  | 141:2.1/33-36  | Spirit of God within us             | C    |
+| Galatians | 2:20      | 1961:24-28  | 181:2.24/9-15  | Spirit of Truth will be with you    | C    |
+| Galatians | 2:20      | 1181:14     | 107:4.7/1-2    | Indwelling spirit: the Adjuster     | C    |
+| Galatians | 2:20      | 64:42-43    | 5:2.3/7-9      | God's spirit within you             | C    |
+| Galatians | 2:20      | 365:32-33   | 32:5.8/8-10    | Spirit of Truth                     | C    |
+| Galatians | 2:20      | 2035:38-39  | 190:5.4/55-56  | Pour out spirit on all flesh        | C    |
+| Galatians | 2:20      | 1954:2      | 181:1.4/3      | Pour out my spirit on all flesh     | C    |
+| Galatians | 2:20      | 1949:3-5    | 180:4.5/5-9    | I will send “my spirit”             | C    |
+| Galatians | 2:20      | 1947:14-17  | 180:3.3/all    | Promise of comforter                | C    |
+| Galatians | 2:20      | 381:2-3     | 34:6.7/3-4     | Spirit of God in man                | C    |
+| Galatians | 2:20      | 1454:12     | 131:10.4/12    | God's spirit lives in man's heart   | C    |
+| Galatians | 2:20      | 382:11      | 34:7.1/8-9     | Spirit of Truth                     | C    |
+| Galatians | 2:20      | 230:7-8     | 20:6.8/12-15   | Spirit of truth                     | C    |
+| Galatians | 2:20      | 195:45-46   | 16:9.4/6-9     | God's spirit lives in us (T/A)      | C    |
+| Galatians | 2:20      | 377:31-32   | 34:4.1/3-4     | Spirit of Truth                     | C    |
+| Galatians | 2:20      | 1453:38-39  | 131:10.2/6-7   | God's spirit dwells in human soul   | C    |
+| Galatians | 2:20      | 1859:10-11  | 170:1.8/7-8    | Kingdom within you                  | S    |
+| Galatians | 2:20      | 39:32-33    | 2:5.6/12-16    | God's spirit in you (T/A)           | C    |
+| Galatians | 2:20      | 1328:5      | 120:2.4/9      | Spirit of Truth                     | C    |
+| Galatians | 2:20      | 1474:22-23  | 133:4.4/5-7    | God dwells in your soul             | C    |
+| Galatians | 2:20      | 224:21      | 20:1.6/5       | Son poured out spirit on flesh      | C    |
+| Galatians | 2:20      | 1130:31-35  | 103:1.6/3-12   | Spirit in man (Thought Adjuster)    | C    |
+| Galatians | 2:20      | 1130:31-35  | 103:1.6/3-12   | Spirit in man (Spirit of Truth)     | C    |
+| Galatians | 2:20      | 1328:22-23  | 120:2.6/16-17  | Spirit of Truth                     | C    |
+| Galatians | 2:20      | 1569:15-17  | 140:1.5/8-12   | Kingdom of God is within you        | S    |
+| Galatians | 2:20      | 1487:11-12  | 134:4.7/1-2    | The indwelling spirit               | C    |
+| Galatians | 2:20      | 1474:33     | 133:4.5/8-9    | God's spirit lives in us            | C    |
+| Galatians | 2:20      | 1591:15-16  | 141:4.5/14-15  | Jesus to pour out His spirit        | C    |
+| Galatians | 2:20      | 1642:18     | 146:3.6/15-17  | Spirit of Truth                     | C    |
+| Galatians | 2:20      | 596:31-32   | 52:5.6/11-12   | Spirit poured out on all flesh      | R    |
+| Galatians | 2:20      | 1861:24-25  | 170:2.20/9-10  | Kingdom of God within               | C    |
+| Galatians | 2:20      | 1958:6-8    | 181:2.14/7-10  | Follow new teacher in hearts        | C    |
+| Galatians | 2:20      | 139:8       | 12:7.12/14     | God dwells in us                    | C    |
+| Galatians | 2:20      | 2044:34-35  | 191:6.3/7-8    | Spirit of Truth                     | C    |
+| Galatians | 2:20      | 1918:45-46  | 176:4.3/5-6    | Another teacher, Spirit of Truth    | S    |
+| Galatians | 2:20      | 2063:34-40  | 194:3.6/1-12   | Spirit of Truth bestowed on all     | C    |
+| Galatians | 2:20      | 2084:24     | 195:10.4/1     | God's kingdom is within you         | S    |
+| Galatians | 2:20      | 1841:22-23  | 167:7.4/15     | God's spirit lives within           | C    |
+| Galatians | 2:20      | 241:40-42   | 21:5.7/5-8     | Spirit of Truth                     | C    |
+| Galatians | 2:20      | 45:6-7      | 3:1.4/3        | He lives in us                      | R    |
+| Galatians | 2:20      | 1951:44-46  | 180:6.3/all    | Spirit of Truth                     | C    |
+| Galatians | 2:20      | 2057:23-24  | 193:5.2/5-6    | Send Spirit of Truth                | C    |
+| Galatians | 2:20      | 1536:12-14  | 137:8.7/2-5    | Spirit of Truth                     | C    |
+| Galatians | 2:20      | 1664:25     | 148:6.10/17-18 | God dwells within you               | C    |
+| Galatians | 3:2       | 1545:35-37  | 138:8.8/1-6    | Change of mind by faith: new birth  | C    |
+| Galatians | 3:6       | 1017:35     | 93:4.5/15      | Counted for righteousness           | R    |
+| Galatians | 3:8       | 2035:22     | 190:5.4/26-27  | All nations to be blessed           | C    |
+| Galatians | 3:11      | 1537:21-22  | 137:8.17/2-4   | Faith is the price of entry         | C    |
+| Galatians | 3:11,24   | 2094:14     | 196:3.4/3-4    | Justified by faith                  | S    |
+| Galatians | 3:13      | 2003:7-9    | 186:5.7/1-4    | No “atonement for sin” Contra:      | C    |
+| Galatians | 3:13-14   | 1864:25-28  | 170:5.6/all    | Jesus as Redeemer of church         | C    |
+| Galatians | 3:20      | 1453:36     | 131:10.2/1     | One God                             | C    |
+| Galatians | 3:20      | 1009:32-33  | 92:5.8/7-8     | One God                             | C    |
+| Galatians | 3:20      | 1011:32     | 92:6.6/13      | One God                             | C    |
+| Galatians | 3:20      | 1058:27-28  | 96:5.5/6-7     | The Lord is one God                 | C    |
+| Galatians | 3:20      | 31:36       | 1:7.6/10       | The Lord God is one                 | R    |
+| Galatians | 3:20      | 21:8-9      | 1:0.1/7-8      | No God beside you                   | C    |
+| Galatians | 3:20      | 640:19-21   | 56:4.4/1-5     | God is one                          | C    |
+| Galatians | 3:20      | 115:16      | 10:7.1/3       | The Lord our God is one God         | C    |
+| Galatians | 3:20      | 513:41      | 45:4.8/5       | One God                             | C    |
+| Galatians | 3:22      | 1113:15-16  | 101:6.9/6-9    | Faith of Jesus                      | C    |
+| Galatians | 3:24      | 1682:46     | 150:5.3/4-5    | Saved by faith                      | S    |
+| Galatians | 3:26      | 1091:16-17  | 99:5.5/5-7     | All are children of God             | C    |
+| Galatians | 3:26      | 1590:36     | 141:4.2/5-6    | We are God's children               | C    |
+| Galatians | 3:26      | 2052:28     | 193:0.3/11-12  | You are sons of God on earth        | C    |
+| Galatians | 3:26      | 2034:4-5    | 190:4.1/19     | Sons of faith                       | C    |
+| Galatians | 3:26      | 2033:15-17  | 190:3.1/25-28  | Gospel of sonship                   | C    |
+| Galatians | 3:26      | 1957:36-37  | 181:2.12/16-17 | Believers, sons of God              | C    |
+| Galatians | 3:26      | 2053:14     | 193:0.5/16     | We are sons of God on earth         | C    |
+| Galatians | 3:26      | 2053:38     | 193:1.2/8-9    | All men are sons of God             | C    |
+| Galatians | 3:26      | 1571:14     | 140:3.16/4     | Sons of living God                  | C    |
+| Galatians | 3:26      | 1958:17     | 181:2.14/26    | Believers are sons of God           | C    |
+| Galatians | 3:26      | 1710:16     | 153:2.4/10-11  | Brotherhood of sons of God          | C    |
+| Galatians | 3:26      | 1610:19-20  | 143:2.7/11-15  | Liberated sons of God               | C    |
+| Galatians | 3:26      | 1945:21     | 180:1.6/12-13  | Believers are sons of God           | C    |
+| Galatians | 3:26      | 1601:18-19  | 142:5.2/18-20  | Children of living God              | C    |
+| Galatians | 3:26      | 2087:15-16  | 196:0.2/12-13  | Every child a son of God            | C    |
+| Galatians | 3:26      | 1453:39     | 131:10.2/7-8   | We are the children of God          | C    |
+| Galatians | 3:26      | 1861:30     | 170:2.20/19    | Liberated sons of God               | C    |
+| Galatians | 3:26      | 1569:20-21  | 140:1.6/5-8    | Children of the living God          | C    |
+| Galatians | 3:26      | 1610:13     | 143:2.7/1-2    | Sonship by faith                    | C    |
+| Galatians | 3:26      | 1588:46     | 141:2.2/5-6    | Faith-sons of God                   | C    |
+| Galatians | 3:26      | 1861:29     | 170:2.20/17    | Children of God                     | C    |
+| Galatians | 3:26      | 1671:40-41  | 149:2.10/17-19 | Sons of living God                  | C    |
+| Galatians | 3:26      | 1596:22-23  | 142:1.1/9-11   | Faith-children of living God        | C    |
+| Galatians | 3:26      | 39:19       | 2:5.4/8        | We are sons of God                  | C    |
+| Galatians | 3:26      | 67:33       | 5:4.8/7        | We are children of God              | C    |
+| Galatians | 3:26      | 1454:46-47  | 131:10.8/9-11  | Father-child relationship           | C    |
+| Galatians | 3:26      | 1454:29-30  | 131:10.6/5-7   | Father-child relationship           | C    |
+| Galatians | 3:26      | 381:27-28   | 34:6.10/8-9    | Sons of God                         | C    |
+| Galatians | 3:26      | 447:40      | 40:6.1/1       | Faith sons of God                   | C    |
+| Galatians | 3:26      | 96:39       | 8:6.4/13-15    | Sons of God                         | C    |
+| Galatians | 3:26      | 1860:6-8    | 170:2.8/all    | Salvaged sons of God                | S    |
+| Galatians | 3:26      | 1676:17-18  | 149:6.8/7-8    | We are His sons                     | C    |
+| Galatians | 3:26      | 448:8       | 40:6.2/10-11   | Now you are faith sons              | R    |
+| Galatians | 3:26      | 25:4        | 1:3.1/5        | Offspring of God                    | C    |
+| Galatians | 3:26      | 2035:12-13  | 190:5.4/9-10   | All men are sons of God             | C    |
+| Galatians | 3:27-28   | 1865:16-17  | 170:5.13/8-11  | Baptism, admission to social order  | C    |
+| Galatians | 3:28      | 1958:12-16  | 181:2.14/17-25 | God/Son no respecter of persons     | C    |
+| Galatians | 3:28      | 1468:30     | 133:0.3/22-23  | God is no respecter of persons      | C    |
+| Galatians | 3:28      | 1564:16-17  | 139:10.9/7-8   | Jesus is no respecter of persons    | C    |
+| Galatians | 3:28      | 1487:12-13  | 134:4.7/3-5    | All people are spiritually equal    | C    |
+| Galatians | 3:28      | 27:8        | 1:4.6/7        | God is no respecter of persons      | C    |
+| Galatians | 3:28      | 2047:37     | 192:2.2/8-9    | God is no respecter of persons      | C    |
+| Galatians | 3:28      | 1831:8      | 166:4.11/8-9   | God is no respecter of persons      | C    |
+| Galatians | 3:28      | 1536:10     | 137:8.6/5-6    | No respecter of persons             | C    |
+| Galatians | 3:28      | 2033:14-15  | 190:3.1/22-25  | In kingdom, no differences          | C    |
+| Galatians | 3:28      | 46:32-33    | 3:1.12/13-14   | God is no respecter of persons      | C    |
+| Galatians | 3:28      | 1662:46-47  | 148:6.2/16-18  | No respecter of persons             | C    |
+| Galatians | 3:28      | 1679:23-25  | 150:1.3/15-18  | Equality of persons                 | R    |
+| Galatians | 3:28      | 1541:38-41  | 138:4.2/13-18  | Equality for all who seek God       | C    |
+| Galatians | 3:28      | 1957:44-46  | 181:2.13/13-16 | More needed before harmony          | C    |
+| Galatians | 3:28      | 1536:37     | 137:8.11/1-3   | Neither Jew nor Gentile             | C    |
+| Galatians | 3:28      | 1731:6-7    | 155:6.2/16-17  | God is no respecter of races        | C    |
+| Galatians | 3:28      | 1608:20     | 143:1.5/8-9    | No respecter of persons             | C    |
+| Galatians | 3:28      | 1226:2      | 112:0.10/7     | God is no respecter of persons      | C    |
+| Galatians | 3:28      | 1736:10-12  | 156:2.4/9-12   | No favoritism by God                | C    |
+| Galatians | 3:28      | 1909:35     | 175:2.3/24     | God is no respecter of persons      | C    |
+| Galatians | 3:28      | 1290:43-44  | 117:6.22/1     | No respecter of persons             | C    |
+| Galatians | 3:28      | 138:22      | 12:7.8/5-7     | God is no respecter of persons      | C    |
+| Galatians | 3:28      | 2034:1-2    | 190:4.1/12-14  | Neither Jew nor Gentile             | S    |
+| Galatians | 3:28      | 36:43-44    | 2:3.1/9-10     | God is no respecter of persons      | C    |
+| Galatians | 3:28      | 1899:18     | 174:2.2/10-11  | Jesus is no respecter of persons    | C    |
+| Galatians | 3:28      | 454:17-19   | 40:10.13/4-9   | God is no respecter of persons      | C    |
+| Galatians | 3:28      | 1568:30-31  | 140:1.2/6-7    | Not the God of Jew or Gentile       | S    |
+| Galatians | 4:4-5     | 1864:25-28  | 170:5.6/all    | Jesus as Redeemer of church         | C    |
+| Galatians | 4:5-7     | 1588:46     | 141:2.2/5-6    | Faith-sons of God                   | C    |
+| Galatians | 4:5-7     | 1569:20-21  | 140:1.6/5-8    | Children of the living God          | C    |
+| Galatians | 4:5-7     | 67:33       | 5:4.8/7        | We are children of God              | C    |
+| Galatians | 4:5-7     | 1861:29     | 170:2.20/17    | Children of God                     | C    |
+| Galatians | 4:5-7     | 1590:36     | 141:4.2/5-6    | We are God's children               | C    |
+| Galatians | 4:5-7     | 1454:46-47  | 131:10.8/9-11  | Father-child relationship           | C    |
+| Galatians | 4:5-7     | 96:39       | 8:6.4/13-15    | Sons of God                         | C    |
+| Galatians | 4:5-7     | 2033:15-17  | 190:3.1/25-28  | Gospel of sonship                   | C    |
+| Galatians | 4:5-7     | 2035:12-13  | 190:5.4/9-10   | All men are sons of God             | C    |
+| Galatians | 4:5-7     | 1861:30     | 170:2.20/19    | Liberated sons of God               | C    |
+| Galatians | 4:5-7     | 2053:14     | 193:0.5/16     | We are sons of God on earth         | C    |
+| Galatians | 4:5-7     | 39:19       | 2:5.4/8        | We are sons of God                  | C    |
+| Galatians | 4:5-7     | 381:27-28   | 34:6.10/8-9    | Sons of God                         | C    |
+| Galatians | 4:5-7     | 1571:14     | 140:3.16/4     | Sons of living God                  | C    |
+| Galatians | 4:5-7     | 447:40      | 40:6.1/1       | Faith sons of God                   | C    |
+| Galatians | 4:5-7     | 1860:6-8    | 170:2.8/all    | Salvaged sons of God                | S    |
+| Galatians | 4:5-7     | 1601:18-19  | 142:5.2/18-20  | Children of living God              | C    |
+| Galatians | 4:5-7     | 2087:15-16  | 196:0.2/12-13  | Every child a son of God            | C    |
+| Galatians | 4:5-7     | 1091:16-17  | 99:5.5/5-7     | All are children of God             | C    |
+| Galatians | 4:5-7     | 1596:22-23  | 142:1.1/9-11   | Faith-children of living God        | C    |
+| Galatians | 4:5-7     | 25:4        | 1:3.1/5        | Offspring of God                    | C    |
+| Galatians | 4:5-7     | 1957:36-37  | 181:2.12/16-17 | Believers, sons of God              | C    |
+| Galatians | 4:5-7     | 1676:17-18  | 149:6.8/7-8    | We are His sons                     | C    |
+| Galatians | 4:5-7     | 1610:19-20  | 143:2.7/11-15  | Liberated sons of God               | C    |
+| Galatians | 4:5-7     | 1453:39     | 131:10.2/7-8   | We are the children of God          | C    |
+| Galatians | 4:5-7     | 1710:16     | 153:2.4/10-11  | Brotherhood of sons of God          | C    |
+| Galatians | 4:5-7     | 2053:38     | 193:1.2/8-9    | All men are sons of God             | C    |
+| Galatians | 4:5-7     | 1958:17     | 181:2.14/26    | Believers are sons of God           | C    |
+| Galatians | 4:5-7     | 2052:28     | 193:0.3/11-12  | You are sons of God on earth        | C    |
+| Galatians | 4:5-7     | 1671:40-41  | 149:2.10/17-19 | Sons of living God                  | C    |
+| Galatians | 4:5-7     | 1454:29-30  | 131:10.6/5-7   | Father-child relationship           | C    |
+| Galatians | 4:5-7     | 1945:21     | 180:1.6/12-13  | Believers are sons of God           | C    |
+| Galatians | 4:6       | 1949:3-5    | 180:4.5/5-9    | I will send “my spirit”             | C    |
+| Galatians | 4:6       | 1958:6-8    | 181:2.14/7-10  | Follow new teacher in hearts        | C    |
+| Galatians | 4:6       | 1591:15-16  | 141:4.5/14-15  | Jesus to pour out His spirit        | C    |
+| Galatians | 4:6       | 1954:2      | 181:1.4/3      | Pour out my spirit on all flesh     | C    |
+| Galatians | 4:6       | 1947:14-17  | 180:3.3/all    | Promise of comforter                | C    |
+| Galatians | 4:6       | 1918:45-46  | 176:4.3/5-6    | Another teacher, Spirit of Truth    | S    |
+| Galatians | 4:6       | 377:31-32   | 34:4.1/3-4     | Spirit of Truth                     | C    |
+| Galatians | 4:6       | 1536:12-14  | 137:8.7/2-5    | Spirit of Truth                     | C    |
+| Galatians | 4:6       | 448:13-14   | 40:6.2/19-21   | Spirit of Son in your hearts        | R    |
+| Galatians | 4:6       | 596:31-32   | 52:5.6/11-12   | Spirit poured out on all flesh      | R    |
+| Galatians | 4:6       | 241:40-42   | 21:5.7/5-8     | Spirit of Truth                     | C    |
+| Galatians | 4:6       | 230:7-8     | 20:6.8/12-15   | Spirit of truth                     | C    |
+| Galatians | 4:6       | 1130:31-35  | 103:1.6/3-12   | Spirit in man (Spirit of Truth)     | C    |
+| Galatians | 4:6       | 379:36      | 34:5.5/1-2     | Spirit of Truth                     | C    |
+| Galatians | 4:6       | 1340:25-26  | 121:7.5/7-8    | New spirit, live in men's hearts    | C    |
+| Galatians | 4:6       | 382:11      | 34:7.1/8-9     | Spirit of Truth                     | C    |
+| Galatians | 4:6       | 1951:44-46  | 180:6.3/all    | Spirit of Truth                     | C    |
+| Galatians | 4:6       | 1642:18     | 146:3.6/15-17  | Spirit of Truth                     | C    |
+| Galatians | 4:6       | 1328:5      | 120:2.4/9      | Spirit of Truth                     | C    |
+| Galatians | 4:6       | 365:32-33   | 32:5.8/8-10    | Spirit of Truth                     | C    |
+| Galatians | 4:6       | 2057:23-24  | 193:5.2/5-6    | Send Spirit of Truth                | C    |
+| Galatians | 4:6       | 2044:34-35  | 191:6.3/7-8    | Spirit of Truth                     | C    |
+| Galatians | 4:6       | 2063:34-40  | 194:3.6/1-12   | Spirit of Truth bestowed on all     | C    |
+| Galatians | 4:6       | 1961:24-28  | 181:2.24/9-15  | Spirit of Truth will be with you    | C    |
+| Galatians | 4:6       | 1328:22-23  | 120:2.6/16-17  | Spirit of Truth                     | C    |
+| Galatians | 4:6       | 224:21      | 20:1.6/5       | Son poured out spirit on flesh      | C    |
+| Galatians | 4:6       | 2035:38-39  | 190:5.4/55-56  | Pour out spirit on all flesh        | C    |
+| Galatians | 4:6-7     | 2067:8-9    | 194:4.6/9-10   | God: loving Father of all men       | C    |
+| Galatians | 4:6-7     | 1454:16-17  | 131:10.5/1-3   | God is MY Father                    | C    |
+| Galatians | 4:6-7     | 1609:38-38  | 143:2.4/16-19  | Liberated sons of the Spirit        | C    |
+| Galatians | 4:6-7     | 1676:17-18  | 149:6.8/7-8    | God is our Father                   | C    |
+| Galatians | 4:6-7     | 1590:35     | 141:4.2/3      | God is our Father                   | C    |
+| Galatians | 5:1,13    | 1328:14-15  | 120:2.6/1-2    | Free spiritual captives             | C    |
+| Galatians | 5:13      | 613:18      | 54:1.1/1       | True & false liberty                | C    |
+| Galatians | 5:13      | 1859:36-38  | 170:2.2/all    | Gospel set man free                 | C    |
+| Galatians | 5:13-14   | 2042:6-7    | 191:4.3/30-31  | Love one another                    | C    |
+| Galatians | 5:13-14   | 1133:42-43  | 103:5.2/2-3    | Love neighbors as self              | C    |
+| Galatians | 5:13-14   | 1932:19     | 178:1.17/2     | Love one another                    | C    |
+| Galatians | 5:13-14   | 1955:41-42  | 181:2.4/8-11   | Love one another                    | S    |
+| Galatians | 5:13-14   | 1206:40-42  | 110:3.9/all    | By loving fellow man                | C    |
+| Galatians | 5:14      | 1770:4-5    | 159:5.9/4      | Love neighbor as self               | R    |
+| Galatians | 5:14      | 1446:11     | 131:2.13/2     | Love neighbors as yourself          | R    |
+| Galatians | 5:14      | 1453:37     | 131:10.2/3-4   | Love neighbor as self               | C    |
+| Galatians | 5:14      | 1901:18     | 174:4.2/16-17  | Love neighbor as self               | C    |
+| Galatians | 5:14      | 1862:8      | 170:3.6/all    | Love thy neighbor                   | S    |
+| Galatians | 5:14      | 1950:17-18  | 180:5.7/11-12  | Love neighbor as self               | C    |
+| Galatians | 5:14      | 1769:26     | 159:5.4/all    | Love neighbor as self               | R    |
+| Galatians | 5:14      | 1445:47     | 131:2.11/1-2   | Love your neighbor as yourself      | R    |
+| Galatians | 5:14      | 1805:11     | 163:4.8/2-4    | Love neighbor as self               | S    |
+| Galatians | 5:16      | 1610:5-7    | 143:2.6/5-8    | Faith-sons are masters of self      | C    |
+| Galatians | 5:16-17   | 1577:4-6    | 140:6.7/3-7    | Two views, flesh vs. spirit         | C    |
+| Galatians | 5:18      | 1738:8-9    | 156:5.2/9      | Led by the spirit                   | C    |
+| Galatians | 5:22-23   | 1714:36-37  | 153:4.4/6-11   | Tree known by good fruit            | S    |
+| Galatians | 5:22-23   | 2062:40     | 194:3.1/19-20  | Spirit fruit                        | R    |
+| Galatians | 5:22-23   | 2054:29-33  | 193:2.2/22-32  | Fruits of the spirit                | S    |
+| Galatians | 5:22-23   | 2053:44-45  | 193:1.2/20-21  | Fruits of the spirit                | S    |
+| Galatians | 5:22-23   | 1596:26-27  | 142:1.1/15-17  | Fruits of the spirit                | C    |
+| Galatians | 5:22-23   | 1738:7      | 156:5.2/7      | Fruits of the spirit                | C    |
+| Galatians | 5:22-23   | 1601:9-10   | 142:5.2/1-3    | Judge by fruits of spirit           | C    |
+| Galatians | 5:22-23   | 381:44-45   | 34:6.13/5-8    | Fruits of the spirit                | R    |
+| Galatians | 5:22-23   | 1569:7-8    | 140:1.4/4-7    | Works: fruit of spirit, to continue | C    |
+| Galatians | 5:22-23   | 65:5        | 5:2.4/16-17    | By their fruits know them           | R    |
+| Galatians | 5:22-23   | 1610:24-27  | 143:2.8/5-12   | Fruits of the spirit                | C    |
+| Galatians | 5:22-23   | 1946:25-26  | 180:2.5/12-14  | Fruit of the spirit                 | C    |
+| Galatians | 5:22-23   | 382:12-13   | 34:7.1/11      | Fruits of the spirit                | C    |
+| Galatians | 5:22-23   | 1571:32-37  | 140:3.19/3-12  | Fruit of the spirit                 | C    |
+| Galatians | 5:22-23   | 1961:44-45  | 181:2.26/18-19 | Fruits of the spirit                | C    |
+| Galatians | 5:22-23   | 1126:34     | 102:7.5/3      | Social fruits of spirit             | C    |
+| Galatians | 5:22-23   | 1091:20     | 99:5.6/5       | Fruits of the spirit                | R    |
+| Galatians | 5:22-23   | 1572:27     | 140:4.7/1      | Fruit of the spirit                 | C    |
+| Galatians | 5:22-23   | 1917:31     | 176:3.5/9      | Fruit of the spirit                 | S    |
+| Galatians | 6:3       | 549:11-12   | 48:4.14/8-10   | Ego deflation                       | C    |
+| Galatians | 6:7       | 1663:2      | 148:6.3/3-4    | Men reap what they sow              | C    |
+| Galatians | 6:7       | 1445:35     | 131:2.9/15-16  | Reap what you sow                   | C    |
+| Galatians | 6:7       | 37:1-2      | 2:3.2/5-7      | One reaps what one sows             | R    |
+| Galatians | 6:7       | 2048:34-35  | 192:2.8/10-11  | Reaping and sowing                  | C    |
+| Galatians | 6:8       | 299:43      | 27:1.5/11      | Live forever                        | C    |
+| Galatians | 6:8       | 1113:7-8    | 101:6.8/36     | Eternal life                        | C    |
+| Galatians | 6:8       | 44:5-6      | 3:0.1/5-6      | Everlasting life                    | C    |
+| Galatians | 6:8       | 2053:36-37  | 193:1.2/5-7    | Faith Sons never die                | C    |
+| Galatians | 6:8       | 1711:36-37  | 153:2.11/19-20 | Believers have eternal life         | C    |
+| Galatians | 6:8       | 1750:16-17  | 157:6.10/4-7   | Believe truth, have eternal life    | C    |
+| Galatians | 6:8       | 1861:23     | 170:2.20/6-7   | Eternal / everlasting life          | C    |
+| Galatians | 6:8       | 1792:4-5    | 162:2.7/8-9    | Eternal life                        | C    |
+| Galatians | 6:8       | 1797:19-30  | 162:7.5/all    | Believers never die                 | C    |
+| Galatians | 6:8       | 2035:38     | 190:5.4/54-55  | Believers live forever              | C    |
+| Galatians | 6:8       | 1957:21-23  | 181:2.11/18-21 | Eternal / everlasting life          | C    |
+| Galatians | 6:8       | 1642:29-30  | 146:3.7/8-10   | Eternal life                        | C    |
+| Galatians | 6:8       | 35:36-37    | 2:2.1/8        | Eternal life                        | C    |
+| Galatians | 6:8       | 1337:28     | 121:5.11/5     | Life after death                    | C    |
+| Galatians | 6:8       | 1843:10     | 168:0.7/4-5    | Whosoever believes never dies       | C    |
+| Galatians | 6:8       | 1859:36-38  | 170:2.2/all    | Hope for eternal Life               | S    |
+| Galatians | 6:8       | 1409:8      | 128:1.10/25    | Giver of life eternal               | C    |
+| Galatians | 6:9       | 1740:43     | 156:5.21/1-2   | Be not weary in well doing          | C    |
+| Galatians | 6:9       | 1897:36     | 174:0.2/50     | Be not weary in well doing          | C    |
+| Galatians | 6:9a      | 1808:6-7    | 163:6.7/4      | Be not weary in well doing          | C    |
+| Galatians | 6:10      | 2042:6      | 191:4.3/29     | Household of faith                  | C    |
+| Galatians | 6:10      | 1930:18-20  | 178:1.5/7-11   | Double responsibility: man & God    | C    |
+| Galatians | 6:10      | 1133:42     | 103:5.2/1      | Do good to others                   | C    |
+| Galatians | 6:14      | 2069:10-11  | 195:0.2/4-7    | Proclaimed “gospel”                 | C    |
+| Galatians | 6:16      | 1954:3-4    | 181:1.4/6-7    | As many as receive him blessed      | C    |

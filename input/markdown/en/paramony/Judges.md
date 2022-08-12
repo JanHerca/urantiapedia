@@ -1,0 +1,30 @@
+<!--
+https://urantia-book.org/urantiabook/bible_refs/Judges_1.html
+bible_ref = Bible Chapter:Vers
+par_pageref = UB 1st English Edition Page:Line
+par_ref = UB Paper:Sec:Ppgh
+type = See _readme
+-->
+
+| book   | bible_ref | par_pageref | par_ref       | text                           | type |
+| ------ | --------- | ----------- | ------------- | ------------------------------ | ---- |
+| Judges | 2:12      | 57:44-45    | 4:3.2/1-3     | God said to be angry           | C    |
+| Judges | 2:13      | 1042:26-28  | 95:1.3/5-8    | Compet. “gods” Baal, Ashtaroth | C    |
+| Judges | 2:13      | 1043:10     | 95:1.7/3-4    | Ashtoreth                      | C    |
+| Judges | 2:18      | 36:1-2      | 2:2.2/5-7     | God is said to repent          | C    |
+| Judges | 2:18      | 58:6        | 4:3.4/1-2     | God is said to repent          | C    |
+| Judges | 3:5-6     | 1071:41-43  | 97:9.1/5-9    | Israelites & Canaanites        | R    |
+| Judges | 4:10-16   | 1387:16     | 126:1.2/12-13 | Sisera defeated                | C    |
+| Judges | 4:16      | 785:1-2     | 70:1.17/5-6   | Slaughter                      | R    |
+| Judges | 6:20-21   | 947:16      | 85:4.2/18     | Angels of fire                 | C    |
+| Judges | 9:15      | 437:42      | 39:5.7/1      | Spirits of Trust               | C    |
+| Judges | 9:23      | 1060:35-36  | 96:7.6/4-5    | Sends evil spirits             | R    |
+| Judges | 10:6      | 1042:26-28  | 95:1.3/5-8    | Compet. “gods” Baal, Ashtaroth | C    |
+| Judges | 10:6      | 1043:10     | 95:1.7/3-4    | Ashtoreth                      | C    |
+| Judges | 11:21,23  | 784:40-41   | 70:1.15/13    | In name of Lord God of Israel  | R    |
+| Judges | 11:30-39  | 965:12-13   | 87:6.9/3-5    | Penalty for violating oaths    | C    |
+| Judges | 11:30-39  | 980:41-44   | 89:6.3/1-7    | Jephthah's daughter            | C    |
+| Judges | 11:36     | 1597:9-10   | 142:2.1/13-15 | Takes vengeance on sinners     | C    |
+| Judges | 11:39     | 797:26      | 70:11.6/7-8   | It is the custom               | R    |
+| Judges | 21:10-12  | 784:37-39   | 70:1.15/7-10  | Sparing virgins                | C    |
+| Judges | 21:11     | 779:11-12   | 69:8.3/9-11   | Hebrews “utterly destroy”      | C    |

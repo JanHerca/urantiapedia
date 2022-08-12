@@ -1,0 +1,30 @@
+<!--
+https://urantia-book.org/urantiabook/bible_refs/2Peter_1.html
+bible_ref = Bible Chapter:Vers
+par_pageref = UB 1st English Edition Page:Line
+par_ref = UB Paper:Sec:Ppgh
+type = See _readme
+-->
+
+| book    | bible_ref | par_pageref | par_ref       | text                               | type |
+| ------- | --------- | ----------- | ------------- | ---------------------------------- | ---- |
+| 2 Peter | 1:3-4     | 34:10       | 2:1.2/10      | God is Divine                      | C    |
+| 2 Peter | 1:4       | 1609:34-36  | 143:2.4/9-13  | Faith in promises                  | C    |
+| 2 Peter | 1:8       | 67:32       | 5:4.8/4-5     | Know Lord Jesus Christ             | R    |
+| 2 Peter | 1:11      | 1537:14     | 137:8.16/1-2  | Kingdom everlasting domain         | C    |
+| 2 Peter | 1:17      | 538:10-11   | 47:8.4/9-10   | This is a beloved son              | R    |
+| 2 Peter | 2:4       | 1327:24-28  | 120:2.2/20-26 | Terminate rebellion                | C    |
+| 2 Peter | 2:11      | 419:33-34   | 38:2.4/3-5    | Angels don't accuse you            | R    |
+| 2 Peter | 3:8       | 153:28-29   | 14:1.5/16-18  | Thousand years but a day           | R    |
+| 2 Peter | 3:9       | 39:8-9      | 2:5.2/11-12   | Not willing any should perish      | R    |
+| 2 Peter | 3:10,12   | 1860:40     | 170:2.14/6-7  | Believe end sudden, spectacular    | C    |
+| 2 Peter | 3:13      | 174:1       | 15:7.1/1      | New heaven                         | C    |
+| 2 Peter | 3:13      | 1914:1      | 176:1.6/14-15 | New heavens and new earth          | C    |
+| 2 Peter | 3:13      | 599:46-48   | 52:7.11/4-7   | New heaven & new earth             | R    |
+| 2 Peter | 3:13-14   | 600:17-21   | 52:7.15/all   | New earth is righteous             | R    |
+| 2 Peter | 3:15      | 2067:21     | 194:4.7/5-6   | Called “brother” & “sister”        | C    |
+| 2 Peter | 3:18      | 1917:30     | 176:3.5/6     | Grow in grace                      | S    |
+| 2 Peter | 3:18      | 2054:40-41  | 193:2.2/44-46 | But grow up in spirit              | S    |
+| 2 Peter | 3:18      | 1656:43     | 147:8.5/10-11 | Grow in grace                      | C    |
+| 2 Peter | 3:18      | 67:32       | 5:4.8/4-5     | Know Lord Jesus Christ             | R    |
+| 2 Peter | 3:18      | 2056:15     | 193:4.3/13-14 | Disciples grew in grace, knowledge | S    |

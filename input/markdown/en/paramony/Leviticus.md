@@ -1,0 +1,114 @@
+<!--
+https://urantia-book.org/urantiabook/bible_refs/Leviticus_1.html
+bible_ref = Bible Chapter:Vers
+par_pageref = UB 1st English Edition Page:Line
+par_ref = UB Paper:Sec:Ppgh
+type = See _readme
+-->
+
+| book      | bible_ref    | par_pageref | par_ref        | text                                | type |
+| --------- | ------------ | ----------- | -------------- | ----------------------------------- | ---- |
+| Leviticus | 26:1         | 969:17-19   | 88:2.5/7-10    | No graven image of anything         | R    |
+| Leviticus | 19:18,34     | 1133:42-43  | 103:5.2/2-3    | Love neighbors as self              | C    |
+| Leviticus | 1:9,13,17    | 977:46-49   | 89:4.3/1-4     | Sweet savor in the nostrils of God  | C    |
+| Leviticus | 19:2         | 1584:28-29  | 140:10.1/10-11 | Be you perfect                      | C    |
+| Leviticus | 24:17,21     | 1576:28-29  | 140:6.4/5-6    | 2nd part: Subject to judgment       | R    |
+| Leviticus | 14:2-11      | 992:29-30   | 90:5.3/6-8     | Cleanse leprosy                     | C    |
+| Leviticus | 19:18,34     | 1769:26     | 159:5.4/all    | Love neighbor as self               | R    |
+| Leviticus | 5:1-13       | 992:29-30   | 90:5.3/6-8     | Cleanse individual sins             | C    |
+| Leviticus | 19:2         | 1176:17     | 107:0.3/1-2    | Be you perfect                      | C    |
+| Leviticus | 5:4          | 965:11-12   | 87:6.9/1-3     | Sacred vows and oaths               | C    |
+| Leviticus | 19:2         | 1165:24-25  | 106:2.6/3-6    | Be you perfect                      | C    |
+| Leviticus | 22:9,16      | 992:29-30   | 90:5.3/6-8     | Sanctify by the Lord                | C    |
+| Leviticus | 12:1-7       | 992:29-30   | 90:5.3/6-8     | Purify woman after childbirth       | C    |
+| Leviticus | 24:20        | 1580:1      | 140:8.5/5-6    | Eye for eye, tooth for tooth        | S    |
+| Leviticus | 19:2         | 1961:33-34  | 181:2.25/8-10  | Spiritually perfecting              | C    |
+| Leviticus | 6:8-18       | 992:29-30   | 90:5.3/6-8     | Cleanse trespasses                  | C    |
+| Leviticus | 19:2         | 1446:15-16  | 131:2.13/8-10  | Be like God and live                | R    |
+| Leviticus | 19:18,34     | 1770:4-5    | 159:5.9/4      | Love neighbor as self               | R    |
+| Leviticus | 27:30-32     | 1016:16-18  | 93:3.1/5-9     | Tithing system                      | C    |
+| Leviticus | 19:2         | 1571:16-17  | 140:3.16/7-9   | Be you perfect                      | C    |
+| Leviticus | 19:2         | 1784:43-44  | 161:1.10/5-6   | Be you perfect                      | C    |
+| Leviticus | 19:2         | 1091:9-10   | 99:5.3/6-7     | Be perfect                          | C    |
+| Leviticus | 25:23        | 1064:36-37  | 97:3.2/7-8     | Yaweh says keep land                | R    |
+| Leviticus | 26:14-39     | 976:3-4     | 89:2.4/5-6     | Community calamity                  | C    |
+| Leviticus | 19:14        | 1675:18-19  | 149:6.3/1-4    | Meanings of fear                    | C    |
+| Leviticus | 12:2,6-8     | 1354:17-19  | 122:10.2/2-9   | Joseph “poor”                       | S    |
+| Leviticus | 8:15         | 992:29-30   | 90:5.3/6-8     | Purify altar                        | C    |
+| Leviticus | 10:6         | 1597:8-9    | 142:2.1/13     | A god of great wrath, fierce anger  | C    |
+| Leviticus | 1:3,10       | 978:30-31   | 89:4.8/6-8     | Sacrificed best of everything       | C    |
+| Leviticus | 19:2         | 1537:2      | 137:8.13/8-9   | Be you perfect                      | C    |
+| Leviticus | 2:3,10       | 978:37-38   | 89:4.10/1-4    | Eating of sacrifices                | C    |
+| Leviticus | 19:2         | 1573:6-7    | 140:4.11/2-3   | Be you perfect                      | C    |
+| Leviticus | 19:18        | 1770:5-7    | 159:5.9/5-8    | Not take vengeance                  | R    |
+| Leviticus | 1:1-9:24     | 974:12-16   | 89:0.2/4-10    | Sacrificial system                  | C    |
+| Leviticus | 13:45        | 976:11      | 89:2.5/7       | Ritual confession: unclean          | C    |
+| Leviticus | 11:1-47      | 974:24-27   | 89:1.1/4-7     | Spirit-sanctioned taboos            | C    |
+| Leviticus | 23:3         | 1042:18-23  | 95:1.2/4-12    | Sabbath-keeping                     | C    |
+| Leviticus | 19:2         | 1444:42-43  | 131:2.6/7-8    | Be you perfect                      | R    |
+| Leviticus | 11:7-8       | 975:12-13   | 89:1.5/4-5     | Pork taboos                         | C    |
+| Leviticus | 19:18,34     | 1862:8      | 170:3.6/all    | Love thy neighbor                   | S    |
+| Leviticus | 27:1-34      | 981:44-48   | 89:7.1/1-2     | Sacrificial system                  | C    |
+| Leviticus | 10:1-2       | 974:34-35   | 89:1.2/9-11    | Fear of violating taboos            | C    |
+| Leviticus | 19:2         | 1583:37-38  | 140:8.32/5-7   | Be you perfect                      | C    |
+| Leviticus | 22:18-25     | 1888:26-27  | 173:1.1/7-9    | Sacrifice animals “without blemish” | C    |
+| Leviticus | 6:16-18,29   | 978:37-38   | 89:4.10/1-4    | Eating of sacrifices                | C    |
+| Leviticus | 19:18,34     | 1446:11     | 131:2.13/2     | Love neighbors as yourself          | R    |
+| Leviticus | 19:18,34     | 1453:37     | 131:10.2/3-4   | Love neighbor as self               | C    |
+| Leviticus | 19:18,34     | 1950:17-18  | 180:5.7/11-12  | Love neighbor as self               | C    |
+| Leviticus | 4:13-21      | 992:29-30   | 90:5.3/6-8     | Cleanse congregation's sins         | C    |
+| Leviticus | 23:3-8,21,37 | 1415:36     | 128:6.6/5      | Holy convocation                    | R    |
+| Leviticus | 24:20        | 1770:32     | 159:5.11/7     | Eye for an eye                      | C    |
+| Leviticus | 19:12        | 971:43-44   | 88:5.5/1-3     | Name fetish                         | C    |
+| Leviticus | 19:2         | 1953:34-35  | 181:1.2/13-15  | Become spiritually perfected        | C    |
+| Leviticus | 19:2         | 1604:35-36  | 142:7.13/13-14 | Be you perfect                      | C    |
+| Leviticus | 23:39-43     | 1793:42-43  | 162:4.1/5-6    | Feast of booths                     | C    |
+| Leviticus | 19:18,34     | 1805:11     | 163:4.8/2-4    | Love neighbor as self               | S    |
+| Leviticus | 19:18,34     | 1901:18     | 174:4.2/16-17  | Love neighbor as self               | S    |
+| Leviticus | 2:2-3,6,8    | 1352:41-43  | 122:9.1/7-12   | Purification                        | C    |
+| Leviticus | 24:11-16     | 971:43-44   | 88:5.5/1-3     | Name fetish                         | C    |
+| Leviticus | 24:20        | 1577:17     | 140:6.9/3-4    | Eye for eye, tooth for tooth        | R    |
+| Leviticus | 3:17         | 955:17-18   | 86:5.11/7-10   | Animal fat taboo                    | C    |
+| Leviticus | 19:18,34     | 1206:40-42  | 110:3.9/all    | By loving fellow man                | C    |
+| Leviticus | 19:18,34     | 1445:47     | 131:2.11/1-2   | Love your neighbor as yourself      | R    |
+| Leviticus | 19:2         | 1574:45     | 140:5.15/5-6   | Be perfect                          | R    |
+| Leviticus | 18:21        | 1042:26-28  | 95:1.3/5-8     | Competing “gods” Molech             | C    |
+| Leviticus | 20:2-5       | 1042:26-28  | 95:1.3/5-8     | Competing “gods” Molech             | C    |
+| Leviticus | 7:22-25      | 955:17-18   | 86:5.11/7-10   | Animal fat taboo                    | C    |
+| Leviticus | 19:2         | 290:20      | 26:4.5/5-6     | Be you perfect                      | R    |
+| Leviticus | 21:9         | 796:25-26   | 70:10.14/7-9   | Burn adultress with fire            | R    |
+| Leviticus | 19:2         | 295:10-11   | 26:9.3/13      | Be you perfect                      | C    |
+| Leviticus | 10:1-2       | 778:1-2     | 69:6.6/1-3     | Fire from Gods                      | C    |
+| Leviticus | 25:4-5       | 505:37-38   | 44:5.8/3-6     | Divine / physical rest              | C    |
+| Leviticus | 19:2         | 86:11-12    | 7:5.1/4-5      | Be you perfect                      | R    |
+| Leviticus | 19:18.34     | 2042:6-7    | 191:4.3/30-31  | Love one another                    | C    |
+| Leviticus | 19:2         | 86:3        | 7:4.7/4-5      | Be you perfect                      | R    |
+| Leviticus | 19:2         | 348:21      | 31:3.6/2-3     | Be you perfect                      | R    |
+| Leviticus | 19:2         | 411:5       | 37:5.3/5       | Be you perfect                      | R    |
+| Leviticus | 19:2         | 21:30-31    | 1:0.3/18-19    | Be you perfect                      | C    |
+| Leviticus | 9:24         | 778:1-2     | 69:6.6/1-3     | Fire from Gods                      | C    |
+| Leviticus | 17:11        | 716:23-24   | 63:6.4/12-13   | Blood Sacrifice                     | C    |
+| Leviticus | 6:12-13      | 777:44-46   | 69:6.5/2-6     | Sacred fire                         | C    |
+| Leviticus | 19:2         | 22:15-16    | 1:0.6/2-3      | Be you perfect                      | C    |
+| Leviticus | 19:2         | 1610:10-12  | 143:2.6/14-17  | Seek perfection                     | C    |
+| Leviticus | 19:34        | 787:38-39   | 70:3.8/12-14   | Stranger treated as local           | R    |
+| Leviticus | 24:20        | 795:36-37   | 70:10.9/2      | Eye for eye                         | C    |
+| Leviticus | 19:2         | 297:5-6     | 26:11.4/2-3    | Be you perfect                      | C    |
+| Leviticus | 19:2         | 449:14      | 40:7.4/2-3     | Be you perfect                      | R    |
+| Leviticus | 18:21        | 947:26-28   | 85:4.4/7-11    | Fire reverence                      | C    |
+| Leviticus | 17:11        | 932:41-43   | 84:2.1/1-6     | Blood of life                       | C    |
+| Leviticus | 12:2-8       | 935:36-38   | 84:4.6/1-6     | Childbirth “unclean”                | C    |
+| Leviticus | 15:19-20     | 936:8-10    | 84:4.8/6-10    | Quarantine                          | C    |
+| Leviticus | 15:21-22     | 936:10-11   | 84:4.8/10-12   | Defiled by touching                 | C    |
+| Leviticus | 19:2         | 149:3-4     | 13:2.8/5-7     | Becoming perfect                    | C    |
+| Leviticus | 26:30        | 945:24-26   | 85:1.5/3-6     | High places                         | C    |
+| Leviticus | 19:18,34     | 1955:41-42  | 181:2.4/8-11   | Love one another                    | S    |
+| Leviticus | 15:19        | 932:41-43   | 84:2.1/1-6     | Blood of life                       | C    |
+| Leviticus | 4:32         | 946:38      | 85:3.4/13-14   | Sacrificial lamb                    | C    |
+| Leviticus | 1:14         | 946:38-39   | 85:3.4/15      | Dove of peace                       | C    |
+| Leviticus | 19:18,34     | 1932:19     | 178:1.17/2     | Love one another                    | S    |
+| Leviticus | 18:9         | 918:46-47   | 82:5.4/19-21   | Prohibited unions                   | C    |
+| Leviticus | 12:2-5       | 915:13      | 82:2.5/1-2     | Female bias                         | C    |
+| Leviticus | 26:13-39     | 229:45      | 20:6.7/4       | “Stern Justice”                     | C    |
+| Leviticus | 19:2         | 637:8-9     | 56:0.1/10-11   | Be you perfect, as I am             | R    |
+| Leviticus | 6:1-30       | 1738:34-39  | 156:5.4/12-21  | “God said”                          | C    |
