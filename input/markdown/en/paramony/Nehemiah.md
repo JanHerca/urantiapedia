@@ -9,7 +9,7 @@ type = See _readme
 | book     | bible_ref | par_pageref | par_ref        | text                           | type |
 | -------- | --------- | ----------- | -------------- | ------------------------------ | ---- |
 | Nehemiah | 1:4-5     | 879:34      | 79:1.9/7-8     | One God in heaven              | C    |
-| Nehemiah | 1:9       | 1770:47-48  | 159:5.13/1-3   | Repent for forgiveness (OT)    | C    |
+| Nehemiah | 1:9       | 1770:47-48  | 159:5.13/1-3   | Repent for forgiveness (Old Testament)    | C    |
 | Nehemiah | 1:10      | 1598:40     | 142:3.7/4      | All-powerful                   | C    |
 | Nehemiah | 1:10      | 23:15       | 1:1.4/16       | God's power                    | C    |
 | Nehemiah | 1:10      | 1454:2      | 131:10.3/10-11 | God is all powerful            | C    |
@@ -42,5 +42,5 @@ type = See _readme
 | Nehemiah | 9:6       | 74:11-12    | 6:1.3/8-10     | God made everything            | C    |
 | Nehemiah | 9:6       | 1454:28-29  | 131:10.6/4     | The Creator                    | C    |
 | Nehemiah | 9:6       | 1058:27-28  | 96:5.5/6-7     | The Lord is one God            | C    |
-| Nehemiah | 9:6       | 21:8-12     | 1:0.1/7-11     | Pt 1: You are God alone        | R    |
+| Nehemiah | 9:6       | 21:8-12     | 1:0.1/7-11     | Part 1: You are God alone        | R    |
 | Nehemiah | 9:32      | 1057:11     | 96:4.5/14      | Mighty, terrible               | R    |

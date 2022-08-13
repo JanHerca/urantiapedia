@@ -9,7 +9,7 @@ type = See _readme
 | book | bible_ref | par_pageref | par_ref        | text                           | type |
 | ---- | --------- | ----------- | -------------- | ------------------------------ | ---- |
 | Amos | 3:13      | 2064:35-36  | 194:3.11/15-17 | No longer Lord of Hosts        | C    |
-| Amos | 4:13      | 1065:38-40  | 97:4.3/1-5     | Pt 1:He who formed mountain    | R    |
+| Amos | 4:13      | 1065:38-40  | 97:4.3/1-5     | Part 1: He who formed mountain   | R    |
 | Amos | 4:13      | 1453:41-42  | 131:10.2/11-13 | God made all things and beings | C    |
 | Amos | 4:13      | 1048:19-21  | 95:5.9/4-7     | God created                    | C    |
 | Amos | 4:13      | 34:6        | 2:1.2/2-3      | Faithful and Divine Creator    | C    |
@@ -19,9 +19,9 @@ type = See _readme
 | Amos | 4:13      | 1444:5-6    | 131:2.2/1-3    | God created the earth          | C    |
 | Amos | 4:13      | 1598:38     | 142:3.7/3      | Universal Creator              | C    |
 | Amos | 5:1-27    | 1071:5-7    | 97:8.3/9-12    | Amos' threat & warning         | C    |
-| Amos | 5:8       | 1065:38-40  | 97:4.3/1-5     | Pt 2: Seek creator of heavens  | R    |
+| Amos | 5:8       | 1065:38-40  | 97:4.3/1-5     | Part 2: Seek creator of heavens  | R    |
 | Amos | 5:8       | 458:8       | 41:3.1/1       | Our starry associates          | C    |
-| Amos | 5:14-15   | 1392:1-3    | 126:4.3/all    | Scripture read                 | R    |
+| Amos | 5:14-15   | 1392:1-3    | 126:4.3/all    | Scripture read: Seek good, and not evil                 | R    |
 | Amos | 5:21-24   | 1066:1-2    | 97:4.4/2-3     | Ritual vs. righteousness       | C    |
 | Amos | 5:26      | 988:7-8     | 90:2.5/5-8     | Astrology                      | C    |
 | Amos | 7:3,6     | 36:1-2      | 2:2.2/5-7      | God is said to repent          | C    |

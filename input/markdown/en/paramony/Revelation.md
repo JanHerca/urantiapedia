@@ -79,7 +79,7 @@ type = See _readme
 | Revelation | 4:4,10       | 1251:31-43  | 114:2.1/all    | Urantia management                        | C    |
 | Revelation | 4:4,10       | 866:24-26   | 77:9.5/8-11    | 24 Counselors                             | C    |
 | Revelation | 4:5          | 401:32-34   | 36:5.1/1-5     | Adjutant mind spirits                     | C    |
-| Revelation | 4:5          | 378:28      | 34:4.8/1-2     | Seven spirits of God -- like lamps        | R    |
+| Revelation | 4:5          | 378:28      | 34:4.8/1-2     | Seven spirits of God — like lamps        | R    |
 | Revelation | 4:5          | 522:29-30   | 46:3.4/1-2     | Jerusem broadcasts                        | C    |
 | Revelation | 4:5          | 1269:31     | 116:2.1/1      | Seven spirits of God                      | C    |
 | Revelation | 4:5          | 401:40-42   | 36:5.2/1-5     | Adjutant mind spirits                     | C    |
@@ -121,11 +121,11 @@ type = See _readme
 | Revelation | 7:11         | 866:24-26   | 77:9.5/8-11    | 24 Counselors                             | C    |
 | Revelation | 7:14         | 538:27-28   | 47:8.7/11      | Through great tribulation                 | R    |
 | Revelation | 7:14         | 1533:29-31  | 137:6.5/24-28  | Kingdom of tribulation and joy            | C    |
-| Revelation | 7:17         | 299:44-46   | 27:1.5/11-15   | Pt 3: Wipe away all tears                 | R    |
+| Revelation | 7:17         | 299:44-46   | 27:1.5/11-15   | Part 3: Wipe away all tears                 | R    |
 | Revelation | 7:17         | 1954:4-6    | 181:1.4/8-10   | SoT becomes well of living water          | C    |
 | Revelation | 8:2,6        | 1255:34     | 114:6.8/2      | Angels of the trumpets                    | R    |
 | Revelation | 9:11         | 602:9       | 53:1.5/1-2     | Abaddon: chief of rebel staff             | C    |
-| Revelation | 10:1         | 422:4       | 38:6.3/13      | His mighty angels (quotation) (quotation) | R    |
+| Revelation | 10:1         | 422:4       | 38:6.3/13      | His mighty angels  | R    |
 | Revelation | 10:6         | 1011:32-33  | 92:6.6/13-14   | God created heaven & earth                | C    |
 | Revelation | 10:6         | 74:11-12    | 6:1.3/8-10     | God made everything                       | C    |
 | Revelation | 10:6         | 1048:19-21  | 95:5.9/4-7     | God created                               | C    |
@@ -221,7 +221,7 @@ type = See _readme
 | Revelation | 21:3         | 1664:25     | 148:6.10/17-18 | God dwells within you                     | C    |
 | Revelation | 21:3         | 1487:11-12  | 134:4.7/1-2    | The indwelling spirit                     | C    |
 | Revelation | 21:3         | 1569:15-17  | 140:1.5/8-12   | Kingdom of God is within you              | C    |
-| Revelation | 21:3         | 381:2-3     | 34:6.7/3-4     | U R temple; God dwells in you             | C    |
+| Revelation | 21:3         | 381:2-3     | 34:6.7/3-4     | You are the temple of God; God dwells in you             | C    |
 | Revelation | 21:3         | 45:6-7      | 3:1.4/3        | He lives in us                            | R    |
 | Revelation | 21:3         | 1454:12     | 131:10.4/12    | God's spirit lives in man's heart         | C    |
 | Revelation | 21:3         | 139:8       | 12:7.12/14     | God dwells in us                          | C    |
@@ -239,7 +239,7 @@ type = See _readme
 | Revelation | 21:3         | 64:42-43    | 5:2.3/7-9      | God's spirit within you                   | C    |
 | Revelation | 21:3         | 1588:41-43  | 141:2.1/33-36  | Spirit of God within us                   | C    |
 | Revelation | 21:3         | 1193:5-6    | 108:6.2/9-10   | Kingdom of heaven in you                  | C    |
-| Revelation | 21:4         | 299:44-46   | 27:1.5/11-15   | Pt 3: Wipe away all tears                 | R    |
+| Revelation | 21:4         | 299:44-46   | 27:1.5/11-15   | Part 3: Wipe away all tears                 | R    |
 | Revelation | 21:6         | 115:19      | 10:7.1/8-9     | Alpha & Omega                             | C    |
 | Revelation | 21:6         | 1408:48-49  | 128:1.10/9-11  | I am Alpha and Omega                      | R    |
 | Revelation | 21:6         | 34:31-32    | 2:1.5/3-4      | He is the beginning and end               | C    |
@@ -287,7 +287,7 @@ type = See _readme
 | Revelation | 22:2,14      | 825:31-32   | 73:6.1/1-2     | Tree of life                              | C    |
 | Revelation | 22:2,14      | 946:3-4     | 85:2.4/13-15   | Tree of life                              | C    |
 | Revelation | 22:2,14      | 825:40-41   | 73:6.3/4       | Tree of life                              | R    |
-| Revelation | 22:3-5       | 299:40-43   | 27:1.5/4-10    | Pt 1: No night there                      | R    |
+| Revelation | 22:3-5       | 299:40-43   | 27:1.5/4-10    | Part 1: No night there                      | R    |
 | Revelation | 22:5         | 1711:36-37  | 153:2.11/all   | Believers have eternal life               | C    |
 | Revelation | 22:5         | 1409:8      | 128:1.10/25    | Giver of life eternal                     | C    |
 | Revelation | 22:5         | 1843:10     | 168:0.7/4-5    | Whosoever believes never dies             | C    |

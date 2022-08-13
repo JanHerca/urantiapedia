@@ -177,7 +177,7 @@ type = See _readme
 | 2 Corinthians | 13:5      | 596:31-32   | 52:5.6/11-12   | Spirit poured out on all flesh     | R    |
 | 2 Corinthians | 6:18      | 1453:39     | 131:10.2/7-8   | We are the children of God         | C    |
 | 2 Corinthians | 3:17      | 2063:28-29  | 194:3.5/3-4    | Spirit liberty                     | R    |
-| 2 Corinthians | 6:16      | 381:2-3     | 34:6.7/3-4     | U R temple; God dwells in you      | R    |
+| 2 Corinthians | 6:16      | 381:2-3     | 34:6.7/3-4     | You are the temple of God; God dwells in you      | R    |
 | 2 Corinthians | 6:18      | 1590:36     | 141:4.2/5-6    | We are God's children              | C    |
 | 2 Corinthians | 5:18-21   | 28:5-6      | 1:5.4/3-8      | God's love for world               | C    |
 | 2 Corinthians | 6:18      | 1596:22-23  | 142:1.1/9-11   | Faith-children of living God       | C    |

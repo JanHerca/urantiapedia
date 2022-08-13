@@ -15,7 +15,7 @@ type = See _readme
 | 1 Corinthians | 1:3        | 1454:29-30  | 131:10.6/5-7   | Father-child relationship            | C    |
 | 1 Corinthians | 1:3        | 1676:17-18  | 149:6.8/7-8    | God is our Father                    | C    |
 | 1 Corinthians | 1:3        | 1454:16-17  | 131:10.5/1-3   | God is MY Father                     | C    |
-| 1 Corinthians | 1:9        | 55:1        | 4:1.3/1        | # 1: God is faithful                 | R    |
+| 1 Corinthians | 1:9        | 55:1        | 4:1.3/1        | # 1 God is faithful                 | R    |
 | 1 Corinthians | 1:9        | 1584:32-33  | 140:10.1/18-19 | Fellowship with God                  | C    |
 | 1 Corinthians | 1:9-10     | 2034:4      | 190:4.1/18-19  | Fellowship, brotherhood              | C    |
 | 1 Corinthians | 1:10       | 1487:7-8    | 134:4.6/1-3    | Unity, not uniformity                | C    |
@@ -75,7 +75,7 @@ type = See _readme
 | 1 Corinthians | 3:16-17    | 1861:24-25  | 170:2.20/9-10  | Kingdom of God within                | C    |
 | 1 Corinthians | 3:16-17    | 139:8       | 12:7.12/14     | God dwells in us                     | C    |
 | 1 Corinthians | 3:16-17    | 195:45-46   | 16:9.4/6-9     | God's spirit lives in us (T/A)       | C    |
-| 1 Corinthians | 3:16-17    | 381:2-3     | 34:6.7/3-4     | U R temple; God dwells in you        | R    |
+| 1 Corinthians | 3:16-17    | 381:2-3     | 34:6.7/3-4     | You are the temple of God; God dwells in you        | R    |
 | 1 Corinthians | 4:20       | 2035:40-41  | 190:5.4/58-60  | Gospel of the kingdom                | S    |
 | 1 Corinthians | 4:20       | 1608:22-24  | 143:1.5/11-15  | Gospel of the kingdom                | C    |
 | 1 Corinthians | 4:20       | 1710:16     | 153:2.4/11     | Kingdom of God                       | C    |
@@ -109,7 +109,7 @@ type = See _readme
 | 1 Corinthians | 6:19       | 1193:5-6    | 108:6.2/9-10   | Kingdom of heaven in you             | C    |
 | 1 Corinthians | 6:19       | 1453:38-39  | 131:10.2/6-7   | God's spirit dwells in human soul    | C    |
 | 1 Corinthians | 6:19       | 1664:25     | 148:6.10/17-18 | God dwells within you                | C    |
-| 1 Corinthians | 6:19       | 381:2-3     | 34:6.7/3-4     | U R temple; God dwells in you        | R    |
+| 1 Corinthians | 6:19       | 381:2-3     | 34:6.7/3-4     | You are the temple of God; God dwells in you        | R    |
 | 1 Corinthians | 6:19       | 1181:14     | 107:4.7/1-2    | Indwelling spirit: the Adjuster      | C    |
 | 1 Corinthians | 6:19       | 1642:8-9    | 146:3.5/10-12  | Living Spirit of the Father (TA)     | C    |
 | 1 Corinthians | 6:19       | 1204:13-16  | 110:1.5/1-7    | Body is tabernacle                   | C    |
@@ -133,14 +133,14 @@ type = See _readme
 | 1 Corinthians | 8:4-6      | 1009:32-33  | 92:5.8/7-8     | One God                              | C    |
 | 1 Corinthians | 8:4-6      | 1781:47-50  | 160:5.9/7-12   | One God and false gods               | C    |
 | 1 Corinthians | 8:4-6      | 115:16      | 10:7.1/3       | The Lord our God is one God          | C    |
-| 1 Corinthians | 8:6        | 34:5        | 2:1.2/1-2      | Pt 1: One God, the Father            | R    |
+| 1 Corinthians | 8:6        | 34:5        | 2:1.2/1-2      | Part 1: One God, the Father            | R    |
 | 1 Corinthians | 8:6        | 125:29      | 11:8.1/8-9     | God is all things                    | C    |
 | 1 Corinthians | 8:6        | 125:29-30   | 11:8.1/9-10    | In God all things consist            | C    |
 | 1 Corinthians | 8:6        | 44:34       | 3:1.2/11       | God is all and in all                | C    |
 | 1 Corinthians | 8:6        | 646:4-5     | 56:9.14/7-8    | God is all and in all things         | C    |
 | 1 Corinthians | 8:6        | 1900:29-30  | 174:3.2/30-32  | God's relation to all things         | C    |
 | 1 Corinthians | 8:19       | 1859:10-11  | 170:1.8/7-8    | Kingdom within you                   | S    |
-| 1 Corinthians | 10:13      | 55:1        | 4:1.3/1        | # 1: God is faithful                 | R    |
+| 1 Corinthians | 10:13      | 55:1        | 4:1.3/1        | # 1 God is faithful                 | R    |
 | 1 Corinthians | 10:17      | 1487:7-8    | 134:4.6/1-3    | Unity, not uniformity                | C    |
 | 1 Corinthians | 10:17      | 619:3-10    | 54:6.3/10-23   | Social impact of deeds               | C    |
 | 1 Corinthians | 10:26,28   | 51:4-5      | 3:5.2/7-8      | Earth is Lord's, and fullness        | R    |
@@ -196,7 +196,7 @@ type = See _readme
 | 1 Corinthians | 14:34-35   | 1679:36-38  | 150:1.3/38-41  | Paul's view of women                 | C    |
 | 1 Corinthians | 15:3       | 2003:7-9    | 186:5.7/1-4    | No “atonement for sin” Contra:       | C    |
 | 1 Corinthians | 15:5a      | 2039:18-19  | 191:1.1/1-3    | Jesus appears to Peter               | C    |
-| 1 Corinthians | 15:5b      | 2040:18-22  | 191:2.1/1-9    | 1st appearance to apostles           | S    |
+| 1 Corinthians | 15:5b      | 2040:18-22  | 191:2.1/1-9    | First appearance to apostles           | S    |
 | 1 Corinthians | 15:6a      | 2050:40-44  | 192:4.3/5-12   | Jesus appears to 500                 | S    |
 | 1 Corinthians | 15:6a      | 2050:33-37  | 192:4.2/all    | Over 500 believers meet              | S    |
 | 1 Corinthians | 15:7a      | 2032:5-13   | 190:2.3/1-15   | Appearance to James                  | S    |

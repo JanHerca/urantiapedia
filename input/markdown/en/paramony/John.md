@@ -12,7 +12,7 @@ type = See _readme
 | John | 1:1            | 1815:41     | 164:5.2/24-25  | Father and I are one                 | S    |
 | John | 1:1            | 1409:5-6    | 128:1.10/20-21 | Eternal Word of eternal God          | C    |
 | John | 1:1            | 80:3-5      | 6:8.3/13-17    | Father and Son one                   | C    |
-| John | 1:1            | 74:10-11    | 6:1.3/6-8      | Pt 1: The Word & God                 | R    |
+| John | 1:1            | 74:10-11    | 6:1.3/6-8      | Part 1: The Word & God                 | R    |
 | John | 1:1            | 28:19-20    | 1:5.6/6-7      | Father and Son one                   | C    |
 | John | 1:1            | 1985:9      | 184:4.6/12-13  | Jesus & Father are one               | C    |
 | John | 1:1            | 1784:27     | 161:1.8/6-7    | Jesus & Father are one               | C    |
@@ -38,7 +38,7 @@ type = See _readme
 | John | 1:1-3          | 234:3-4     | 21:0.1/1-3     | Creator Sons                         | C    |
 | John | 1:1-3          | 235:37-38   | 21:2.1/1-4     | Creator Sons create                  | C    |
 | John | 1:1-3          | 1048:19-21  | 95:5.9/4-7     | God created                          | C    |
-| John | 1:1-3          | 74:11-12    | 6:1.3/8-10     | Pt 2: God made everything            | R    |
+| John | 1:1-3          | 74:11-12    | 6:1.3/8-10     | Part 2: God made everything            | R    |
 | John | 1:1-3          | 654:1-3     | 57:3.8/1-5     | Michael's creation                   | C    |
 | John | 1:1-3          | 1444:5-6    | 131:2.2/1-3    | God created everything               | C    |
 | John | 1:1-4          | 513:43      | 45:4.9/3       | The One Source of Life               | R    |
@@ -192,7 +192,7 @@ type = See _readme
 | John | 1:45-46        | 1526:45-55  | 137:2.6/all    | Philip and Nathaniel                 | S    |
 | John | 1:45-49        | 1558:8-9    | 139:6.1/1-3    | Nathaniel (brought by Philip)        | S    |
 | John | 1:46           | 1558:25-26  | 139:6.3/15-16  | Can any good thing, Nazareth         | R    |
-| John | 1:46           | 1363:2      | 123:5.7/13-14  | Can any good thing come ..           | R    |
+| John | 1:46           | 1363:2      | 123:5.7/13-14  | Can any good thing come ...           | R    |
 | John | 1:47           | 1558:19-20  | 139:6.3/4      | Without guile                        | R    |
 | John | 1:47-51        | 1527:9-13   | 137:2.7/all    | Nathaniel selected                   | S    |
 | John | 1:51           | 1390:4      | 126:3.6/4      | Son of Man                           | R    |
@@ -342,7 +342,7 @@ type = See _readme
 | John | 3:31-34        | 1710:15     | 153:2.4/8-9    | Jesus came to reveal Father          | C    |
 | John | 3:31-34        | 196:10      | 16:9.6/1       | Jesus revealed God to man            | C    |
 | John | 3:31-35        | 1855:47-48  | 169:4.2/14-16  | Reveal combined nature               | S    |
-| John | 3:34           | 45:12       | 3:1.4/11-12    | Pt 3: Spirit speaks from within      | R    |
+| John | 3:34           | 45:12       | 3:1.4/11-12    | Part 3: Spirit speaks from within      | R    |
 | John | 3:35           | 1786:36-37  | 161:2.9/9-10   | Partnership with God                 | C    |
 | John | 3:35-36        | 1965:40     | 182:1.10/12    | I am the Infinite Father of children | S    |
 | John | 3:36           | 1610:3-5    | 143:2.6/1-5    | Saved by faith, not deeds            | C    |
@@ -420,7 +420,7 @@ type = See _readme
 | John | 4:24           | 96:11-14    | 8:5.6/all      | God is a spirit                      | C    |
 | John | 4:24           | 1782:21-22  | 160:5.11/15    | God is spirit                        | C    |
 | John | 4:24           | 74:4        | 6:1.2/6-7      | God is spirit                        | R    |
-| John | 4:24           | 26:17       | 1:3.8/9        | Pt 1: God is spirit                  | R    |
+| John | 4:24           | 26:17       | 1:3.8/9        | Part 1: God is spirit                  | R    |
 | John | 4:24           | 513:33-34   | 45:4.5/4       | The Great Spirit                     | R    |
 | John | 4:24           | 723:30      | 64:6.7/7       | Great Spirit                         | R    |
 | John | 4:24           | 25:1-2      | 1:3.1/1        | God is a spirit                      | R    |
@@ -468,7 +468,7 @@ type = See _readme
 | John | 4:35           | 1800:30-33  | 163:1.3/4-7    | Harvest is plenteous, laborers few   | S    |
 | John | 4:39-41        | 1615:31-33  | 143:6.2/1-5    | Preaching on Gerizim                 | S    |
 | John | 4:43           | 1644:24-25  | 146:5.1/1-3    | To Galilee (Cana)                    | S    |
-| John | 4:44           | 1686:33-35  | 150:9.1/10-14  | Jesus quotes “scripture” (???)       | S    |
+| John | 4:44           | 1686:33-35  | 150:9.1/10-14  | Jesus quotes “scripture”        | S    |
 | John | 4:44           | 1538:19     | 138:0.2/3-6    | Prophet not without honor            | C    |
 | John | 4:46           | 1644:26-30  | 146:5.1/5-13   | Nobleman's son ill                   | S    |
 | John | 4:47-53        | 1644:31-45  | 146:5.2/1-27   | Jesus foresees recovery              | S    |
@@ -497,12 +497,12 @@ type = See _readme
 | John | 5:17-18        | 28:19-20    | 1:5.6/6-7      | Father and Son one                   | C    |
 | John | 5:17-18        | 1815:41     | 164:5.2/24-25  | Father and I are one                 | S    |
 | John | 5:17-18        | 80:3-5      | 6:8.3/13-17    | Father and Son one                   | C    |
-| John | 5:18           | 74:10-11    | 6:1.3/6-8      | Pt 1: The Word & God                 | R    |
+| John | 5:18           | 74:10-11    | 6:1.3/6-8      | Part 1: The Word & God                 | R    |
 | John | 5:19           | 644:8-9     | 56:8.4/3-5     | Son imitates father                  | R    |
 | John | 5:19-23        | 1711:29     | 153:2.11/6-7   | Father teaches son                   | C    |
 | John | 5:19-24        | 1965:40     | 182:1.10/12    | I am the Infinite Father of children | S    |
 | John | 5:20           | 1855:45-46  | 169:4.2/10-11  | Father & Son know all things         | S    |
-| John | 5:21           | 399:35-39   | 36:3.4/all     | Vital spark--mystery of life         | C    |
+| John | 5:21           | 399:35-39   | 36:3.4/all     | Vital spark—mystery of life         | C    |
 | John | 5:23,30,36-37  | 2054:25-27  | 193:2.2/18-19  | Father sent me                       | S    |
 | John | 5:24           | 1642:7-8    | 146:3.5/9-10   | Believers receive spirit             | C    |
 | John | 5:24           | 1731:16-17  | 155:6.3/11     | Death unto life                      | C    |
@@ -527,7 +527,7 @@ type = See _readme
 | John | 5:25-29        | 1328:3      | 120:2.4/5      | Dispensational judgment              | C    |
 | John | 5:25-29        | 2053:8-10   | 193:0.5/6-9    | Dispensational resurrection          | S    |
 | John | 5:25-29        | 2024:13-21  | 189:3.1/all    | Dispensational resurrection          | C    |
-| John | 5:26           | 35:36-37    | 2:2.1/7        | Pt 1: God has life in himself        | R    |
+| John | 5:26           | 35:36-37    | 2:2.1/7        | Part 1: God has life in himself        | R    |
 | John | 5:26           | 1642:3-4    | 146:3.5/1-4    | Son given life by Father             | C    |
 | John | 5:28-29        | 568:21      | 49:6.1/1       | Terrestrial escape                   | C    |
 | John | 5:28-29        | 532:39-40   | 47:3.1/1-3     | Resurrection                         | C    |
@@ -697,7 +697,7 @@ type = See _readme
 | John | 6:61-62        | 1715:25-36  | 153:5.3/all    | Disciples consoled                   | S    |
 | John | 6:63           | 380:39-40   | 34:6.5/9-10    | It is the Spirit that quickens       | R    |
 | John | 6:63           | 380:40      | 34:6.5/10      | The Spirit gives life                | R    |
-| John | 6:63           | 399:35-39   | 36:3.4/all     | Vital spark--mystery of life         | C    |
+| John | 6:63           | 399:35-39   | 36:3.4/all     | Vital spark—mystery of life         | C    |
 | John | 6:63-70        | 1715:37-50  | 153:5.4/all    | Be of good cheer                     | S    |
 | John | 6:68           | 1965:38     | 182:1.10/10    | I am the secret of survival          | S    |
 | John | 6:69           | 2084:25     | 195:10.4/3-4   | God is a living Spirit               | C    |
@@ -792,7 +792,7 @@ type = See _readme
 | John | 8:12           | 1731:18     | 155:6.3/13-14  | Darkness into light                  | C    |
 | John | 8:12           | 1795:19     | 162:5.3/5-6    | Many prefer to sit in darkness       | S    |
 | John | 8:12           | 1458:33-35  | 132:2.9/1-5    | Possession of light of life          | C    |
-| John | 8:12           | 1181:6      | 107:4.5/7      | #2 Light of life                     | R    |
+| John | 8:12           | 1181:6      | 107:4.5/7      | # 2 Light of life                     | R    |
 | John | 8:12           | 10:1-3      | 0:6.9/4-7      | Spirit light                         | C    |
 | John | 8:12           | 1795:1      | 162:5.2/1      | Jesus is the light of the world      | S    |
 | John | 8:12           | 1353:38     | 122:9.5/39-40  | Light to Gentiles                    | C    |
@@ -969,7 +969,7 @@ type = See _readme
 | John | 10:30,38       | 1815:41     | 164:5.2/24-25  | Father and I are one                 | S    |
 | John | 10:30,38       | 367:5-6     | 33:1.4/5-7     | Father & Son are one                 | C    |
 | John | 10:30,38       | 80:3-5      | 6:8.3/13-17    | Father and Son one                   | C    |
-| John | 10:30,38       | 74:10-11    | 6:1.3/6-8      | Pt 1: The Word & God                 | R    |
+| John | 10:30,38       | 74:10-11    | 6:1.3/6-8      | Part 1: The Word & God                 | R    |
 | John | 10:30,38       | 1711:28-29  | 153:2.11/6     | Father and I are one                 | C    |
 | John | 10:30,38       | 28:19-20    | 1:5.6/6-7      | Father and Son one                   | C    |
 | John | 10:30,38       | 2092:2      | 196:2.2/6-7    | Jesus' oneness with Father           | S    |
@@ -1282,7 +1282,7 @@ type = See _readme
 | John | 14:1           | 1575:26-27  | 140:5.18/7-8   | Peace cures troubled heart           | R    |
 | John | 14:1-2         | 1947:18-25  | 180:3.4/all    | Many mansions                        | S    |
 | John | 14:1a,27b      | 1954:7-10   | 181:1.5/1-7    | Let not your heart be troubled       | S    |
-| John | 14:1a,27b      | 1955:4      | 181:1.9/10-11  | 1st part Heart not troubled          | R    |
+| John | 14:1a,27b      | 1955:4      | 181:1.9/10-11  | Part 1: Heart not troubled          | R    |
 | John | 14:2           | 1951:46     | 180:6.3/5-6    | Many mansions                        | S    |
 | John | 14:2           | 1475:22-24  | 133:4.9/14-17  | Many mansions                        | C    |
 | John | 14:2           | 1934:46-47  | 178:3.4/5-7    | Father's house has many abodes       | S    |
@@ -1364,10 +1364,10 @@ type = See _readme
 | John | 14:9-10        | 1165:23-24  | 106:2.6/1-3    | Michael's perfection                 | C    |
 | John | 14:9-11        | 1331:18-20  | 120:4.3/4-8    | Jesus, God and man                   | C    |
 | John | 14:9-11        | 1947:45-53  | 180:3.9/all    | Who has seen me, seen Father         | S    |
-| John | 14:9-11,20     | 74:10-11    | 6:1.3/6-8      | Pt 1: The Word & God                 | R    |
+| John | 14:9-11,20     | 74:10-11    | 6:1.3/6-8      | Part 1: The Word & God                 | R    |
 | John | 14:9-12,19-20  | 1232:24     | 112:5.2/1-2    | We come from Eternal Father          | C    |
 | John | 14:10          | 1855:48-49  | 169:4.2/16-17  | Show conjont work                    | S    |
-| John | 14:10-11,20    | 45:12-13    | 3:1.4/13       | Pt 1: Father lives in child          | R    |
+| John | 14:10-11,20    | 45:12-13    | 3:1.4/13       | Part 1: Father lives in child          | R    |
 | John | 14:10-11,20    | 1786:33     | 161:2.9/3-4    | God seems to be in him               | C    |
 | John | 14:12b,28      | 2052:15-16  | 193:0.2/7-9    | Told: Jesus must return to Father    | S    |
 | John | 14:12b-28      | 2055:30     | 193:3.2/39-40  | I go to the Father                   | S    |
@@ -1377,7 +1377,7 @@ type = See _readme
 | John | 14:13-14       | 1945:37-40  | 180:2.1/25-30  | If ask anything my spirit wills      | S    |
 | John | 14:13-14       | 1946:6-7    | 180:2.4/1-3    | Error regarding “prayer”             | S    |
 | John | 14:13-14       | 1639:39-42  | 146:2.10/1-6   | Pray for real needs and desires      | S    |
-| John | 14:13-14       | 1619:13-15  | 144:2.3/22-27  | Ask -- receive                       | S    |
+| John | 14:13-14       | 1619:13-15  | 144:2.3/22-27  | Ask — receive                       | S    |
 | John | 14:13-14       | 1849:19-20  | 168:4.13/1-3   | Ask and receive                      | S    |
 | John | 14:16-18       | 1948:9-21   | 180:4.1/1-23   | Not leave you desolate               | S    |
 | John | 14:16-18       | 1594:3-4    | 141:7.4/10-13  | Promised to send Spirit of Truth     | S    |
@@ -1407,7 +1407,7 @@ type = See _readme
 | John | 14:16-18,23,26 | 1947:14-17  | 180:3.3/all    | Promise of comforter                 | C    |
 | John | 14:16-18,23,26 | 1961:24-28  | 181:2.24/9-15  | Spirit of Truth will be with you     | C    |
 | John | 14:16-18,23-26 | 2035:38-39  | 190:5.4/55-56  | Pour out spirit on all flesh         | C    |
-| John | 14:16-18,26    | 45:13       | 3:1.4/14-15    | Pt 3: Guiding spirit                 | R    |
+| John | 14:16-18,26    | 45:13       | 3:1.4/14-15    | Part 3: Guiding spirit                 | R    |
 | John | 14:19-21a      | 1948:27-33  | 180:4.2/1-12   | Father in Son in us                  | S    |
 | John | 14:20          | 1454:14     | 131:10.4/17    | We live n God                        | S    |
 | John | 14:20          | 1750:30     | 157:6.13/1-2   | Father and I are one                 | S    |
@@ -1448,7 +1448,7 @@ type = See _readme
 | John | 14:27a         | 1575:26     | 140:5.18/6-7   | Jesus' peace                         | R    |
 | John | 14:27a         | 1954:28-29  | 181:1.7/1-4    | Jesus gives peace to followers       | S    |
 | John | 14:27b         | 1575:26-27  | 140:5.18/7-8   | Be not afraid                        | R    |
-| John | 14:27c         | 1955:4      | 181:1.9/10-11  | 2nd part Nor be afraid               | R    |
+| John | 14:27c         | 1955:4      | 181:1.9/10-11  | Part 2: Nor be afraid               | R    |
 | John | 14:28a         | 1759:39-46  | 158:7.3/1-14   | Apostles hear passion again          | S    |
 | John | 14:28a         | 2052:16-18  | 193:0.2/9-12   | Told of death & resurrection         | S    |
 | John | 14:28a         | 1954:11-13  | 181:1.5/9-12   | Must die but will rise               | C    |
@@ -1644,7 +1644,7 @@ type = See _readme
 | John | 16:23-24       | 1639:18-23  | 146:2.7/all    | When prayers are answered            | C    |
 | John | 16:23-24,26    | 1952:26-28  | 180:6.7/25-28  | Ask in Jesus' name                   | S    |
 | John | 16:24          | 1849:19-20  | 168:4.13/1-3   | Ask and receive                      | S    |
-| John | 16:24          | 1619:13-15  | 144:2.3/22-27  | Ask -- receive                       | S    |
+| John | 16:24          | 1619:13-15  | 144:2.3/22-27  | Ask — receive                       | S    |
 | John | 16:24          | 1838:41-42  | 167:5.2/23-24  | Ask and receive                      | S    |
 | John | 16:25          | 1710:15     | 153:2.4/8-9    | Jesus came to reveal Father          | C    |
 | John | 16:25          | 1820:41-42  | 165:3.8/7-8    | Came to reveal Father                | C    |
@@ -1747,7 +1747,7 @@ type = See _readme
 | John | 17:11,21-22    | 80:3-5      | 6:8.3/13-17    | Father and Son one                   | C    |
 | John | 17:11,21-22    | 1786:39     | 161:2.9/13-14  | Jesus & Father are one               | S    |
 | John | 17:11,21-22    | 361:17-18   | 32:3.6/21-23   | Father & Son are one                 | C    |
-| John | 17:11,21-22    | 74:10-11    | 6:1.3/6-8      | Pt 1: The Word & God                 | R    |
+| John | 17:11,21-22    | 74:10-11    | 6:1.3/6-8      | Part 1: The Word & God                 | R    |
 | John | 17:11,21-22    | 1784:27     | 161:1.8/6-7    | Jesus & Father are one               | C    |
 | John | 17:11,21-22    | 1855:44     | 169:4.2/8-9    | Jesus & Father are one               | S    |
 | John | 17:11,21-22    | 1815:41     | 164:5.2/24-25  | Father and I are one                 | S    |
@@ -1866,14 +1866,14 @@ type = See _readme
 | John | 18:15-16       | 1980:7-16   | 184:2.1/all    | Peter enters courtyard               | S    |
 | John | 18:15a         | 1975:32     | 183:3.10/12    | Peter follows afar off               | S    |
 | John | 18:15b         | 1975:31-32  | 183:3.10/11    | John follows closely                 | S    |
-| John | 18:17          | 1980:31-38  | 184:2.4/all    | 1st denial                           | S    |
+| John | 18:17          | 1980:31-38  | 184:2.4/all    | First denial                           | S    |
 | John | 18:17,25-27    | 1551:6-8    | 139:2.5/6-11   | Peter's denial                       | S    |
 | John | 18:17,25-27    | 1551:15-17  | 139:2.6/13-15  | Peter's denial                       | S    |
 | John | 18:18          | 1980:17-18  | 184:2.2/1-3    | Peter warms self                     | S    |
 | John | 18:19-23       | 1979:25-39  | 184:1.6/all    | Hearing before Annas                 | S    |
 | John | 18:24          | 1980:1-5    | 184:1.9/all    | Jesus taken to Caiaphas              | S    |
-| John | 18:25          | 1980:39-43  | 184:2.5/all    | 2nd denial                           | S    |
-| John | 18:26-27a      | 1981:3-8    | 184:2.7/all    | 3rd denial                           | S    |
+| John | 18:25          | 1980:39-43  | 184:2.5/all    | Second denial                           | S    |
+| John | 18:26-27a      | 1981:3-8    | 184:2.7/all    | Third denial                           | S    |
 | John | 18:27b         | 1981:13-14  | 184:2.8/8-10   | Cock crowed                          | S    |
 | John | 18:28a         | 1986:12-14  | 184:5.8/all    | Jesus led to Pilate                  | S    |
 | John | 18:28b         | 1987:17-24  | 185:0.3/all    | Trial outside buildings              | S    |
@@ -1991,7 +1991,7 @@ type = See _readme
 | John | 20:17b         | 1590:35     | 141:4.2/3      | God is our Father                    | C    |
 | John | 20:17b         | 1454:29-30  | 131:10.6/5-7   | Father-child relationship            | C    |
 | John | 20:17b         | 1454:46-47  | 131:10.8/9-11  | Father-child relationship            | C    |
-| John | 20:19          | 2040:18-22  | 191:2.1/1-9    | 1st appearance to apostles           | S    |
+| John | 20:19          | 2040:18-22  | 191:2.1/1-9    | First appearance to apostles           | S    |
 | John | 20:21          | 2054:25-27  | 193:2.2/18-19  | Father sent me                       | S    |
 | John | 20:21          | 1934:28-30  | 178:3.2/20-23  | I send you forth as I was sent       | S    |
 | John | 20:21          | 2055:17-18  | 193:3.2/17-18  | As God sent me, I send you           | S    |
@@ -2027,7 +2027,7 @@ type = See _readme
 | John | 21:9-10        | 2046:37-39  | 192:1.5/4-6    | Jesus prepares beakfast              | S    |
 | John | 21:11          | 2046:45-50  | 192:1.7/1-4    | Peter lands net / fish               | S    |
 | John | 21:12-13       | 2047:1-5    | 192:1.8/1-9    | Jesus serves breakfast               | S    |
-| John | 21:14          | 2047:9-10   | 192:1.9/1-2    | Apostles see Jesus for 3rd time      | S    |
+| John | 21:14          | 2047:9-10   | 192:1.9/1-2    | Apostles see Jesus for third time      | S    |
 | John | 21:15          | 2047:33-35  | 192:2.2/1-5    | Feed my lambs                        | S    |
 | John | 21:15-17       | 1861:29     | 170:2.20/17    | Father's fold                        | S    |
 | John | 21:16          | 2047:40-43  | 192:2.3/1-7    | Take care of my sheep                | S    |

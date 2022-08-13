@@ -50,7 +50,7 @@ type = See _readme
 | Proverbs | 15:1      | 1555:40-41  | 139:4.13/11-12 | Soft answer turns away wrath       | R    |
 | Proverbs | 15:1a     | 1673:20     | 149:4.2/15     | Soft answer turns away wrath       | R    |
 | Proverbs | 15:1b     | 1673:20     | 149:4.2/16     | Grievous words stir up anger       | R    |
-| Proverbs | 15:3      | 48:46       | 3:3.1/7-8      | # 2: Eyes of Lord every place      | R    |
+| Proverbs | 15:3      | 48:46       | 3:3.1/7-8      | # 2 Eyes of Lord every place      | R    |
 | Proverbs | 15:13     | 1674:30-31  | 149:5.2/13-15  | Merry heart, cheerful face         | R    |
 | Proverbs | 15:15     | 1674:30-31  | 149:5.2/14-15  | Merry heart, continual feast       | R    |
 | Proverbs | 15:16-17  | 1674:31-33  | 149:5.2/15-19  | Better little with reverence       | R    |
@@ -59,7 +59,7 @@ type = See _readme
 | Proverbs | 16:18     | 1223:7-8    | 111:6.10/4     | Pride goes before a fall           | R    |
 | Proverbs | 16:18     | 1444:43-44  | 131:2.6/8-10   | Pride goes before destruction      | R    |
 | Proverbs | 16:25     | 1566:32     | 139:12.5/19-20 | A way that seems right             | R    |
-| Proverbs | 16:32     | 317:10      | 28:6.20/17     | # 1: Takes a city                  | R    |
+| Proverbs | 16:32     | 317:10      | 28:6.20/17     | # 1 Takes a city                  | R    |
 | Proverbs | 16:32     | 1444:44     | 131:2.6/10-11  | He who rules own spirit, mighty    | R    |
 | Proverbs | 16:32     | 1609:22-23  | 143:2.3/1-3    | He who rules self is great         | C    |
 | Proverbs | 16:33     | 34:6        | 2:1.2/3        | God as Disposer                    | C    |

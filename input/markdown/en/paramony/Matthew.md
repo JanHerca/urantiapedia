@@ -129,7 +129,7 @@ type = See _readme
 | Matthew | 4:3            | 1517:43-48  | 136:6.1/15-25  | So-called “temptation” to get food     | S    |
 | Matthew | 4:3-4          | 1518:24-25  | 136:6.4/12-14  | Man not live by bread alone            | R    |
 | Matthew | 4:3-11         | 1514:27-28  | 136:4.3/6-9    | “Temptation” was earlier               | C    |
-| Matthew | 4:3-11         | 1493:33-45  | 134:8.6-8/all  | “Tempation” of Jesus                   | S    |
+| Matthew | 4:3-11         | 1493:33-45  | 134:8.6-8/all  | “Temptation” of Jesus                   | S    |
 | Matthew | 4:4            | 1777:21     | 160:3.1/5-6    | Man cannot live by bread alone         | R    |
 | Matthew | 4:5-6          | 1521:2-4    | 136:8.5/7-11   | Decides not to walk off temple         | C    |
 | Matthew | 4:5-6          | 1519:23-33  | 136:7.1/7-25   | So-called “temptation” to jump         | S    |
@@ -292,7 +292,7 @@ type = See _readme
 | Matthew | 5:17           | 1576:18-20  | 140:6.2/12-16  | Not destroy, but fulfill the law       | C    |
 | Matthew | 5:20           | 1576:22-23  | 140:6.3/1-4    | Beyond righteousness                   | C    |
 | Matthew | 5:20           | 1861:37-40  | 170:3.1/all    | Righteousness by faith                 | S    |
-| Matthew | 5:21           | 1576:28     | 140:6.4/5      | 1st part: You shall not kill           | R    |
+| Matthew | 5:21           | 1576:28     | 140:6.4/5      | Part 1: You shall not kill           | R    |
 | Matthew | 5:21           | 1790:38     | 162:2.1/24     | Thou shall not kill                    | R    |
 | Matthew | 5:21-22        | 1576:27-31  | 140:6.4/4-12   | New commandments                       | S    |
 | Matthew | 5:27-28        | 1576:34-36  | 140:6.5/1-6    | Lust is Adultery                       | C    |
@@ -404,7 +404,7 @@ type = See _readme
 | Matthew | 6:8            | 49:16-17    | 3:3.2/23-24    | He knows needs before ask              | R    |
 | Matthew | 6:9            | 23:24       | 1:1.5/16       | Calling God “our Father”               | R    |
 | Matthew | 6:9            | 1103:19     | 100:7.16/2-3   | Our Father in heaven                   | R    |
-| Matthew | 6:9            | 1923:12     | 177:2.7/11     | Pray “Our Father --”                   | S    |
+| Matthew | 6:9            | 1923:12     | 177:2.7/11     | Pray “Our Father —”                   | S    |
 | Matthew | 6:9            | 22:28-30    | 1:1.1/12-14    | Calling God “our Father”               | C    |
 | Matthew | 6:9-10         | 1511:46-48  | 136:2.4/5-8    | Jesus' prayer                          | R    |
 | Matthew | 6:9-13         | 1620:1-10   | 144:3.3/all    | Lord's prayer                          | S    |
@@ -497,7 +497,7 @@ type = See _readme
 | Matthew | 7:6            | 1571:29-30  | 140:3.18/10-13 | Cast not pearls to swine               | S    |
 | Matthew | 7:6            | 1585:11-12  | 140:10.4/6-7   | Do not cast pearls before swine        | S    |
 | Matthew | 7:7            | 1454:22-24  | 131:10.5/12-15 | Ask and it will be given you           | C    |
-| Matthew | 7:7-8          | 1619:13-15  | 144:2.3/22-27  | Ask -- receive                         | S    |
+| Matthew | 7:7-8          | 1619:13-15  | 144:2.3/22-27  | Ask — receive                         | S    |
 | Matthew | 7:7-8          | 1849:19-20  | 168:4.13/1-3   | Ask and receive                        | S    |
 | Matthew | 7:7-8          | 1440:22-23  | 130:8.2/16-18  | Seek and find                          | C    |
 | Matthew | 7:7-8          | 1838:41-42  | 167:5.2/23-24  | Ask and receive; seek and find         | S    |
@@ -701,7 +701,7 @@ type = See _readme
 | Matthew | 10:3           | 1561:2      | 139:8.1/1-2    | Thomas Didymus                         | C    |
 | Matthew | 10:3           | 1563:15     | 139:10.1/1-2   | Alpheus twins: James & Judas           | C    |
 | Matthew | 10:3           | 1559:13     | 139:6.9/1      | Nathaniel Bartholomew                  | C    |
-| Matthew | 10:3           | 1563:37     | 139:10.5/1-2   | AKA Thaddeus & Lebbeus                 | C    |
+| Matthew | 10:3           | 1563:37     | 139:10.5/1-2   | Also known as Thaddeus & Lebbeus                 | C    |
 | Matthew | 10:3           | 1559:21-23  | 139:7.1/1-5    | Matthew Levi, publican                 | C    |
 | Matthew | 10:4           | 1564:34     | 139:11.1/1     | Simon Zelotes added                    | C    |
 | Matthew | 10:4           | 1565:42     | 139:12.1/1-2   | Judas Iscariot chosen                  | C    |
@@ -745,7 +745,7 @@ type = See _readme
 | Matthew | 10:17-21       | 1584:10-13  | 140:9.3/6-12   | Warning: beaten in synagogues          | C    |
 | Matthew | 10:19-20       | 1584:13-15  | 140:9.3/12-16  | Testimony of spirit within             | C    |
 | Matthew | 10:20          | 139:8       | 12:7.12/14     | God dwells in us                       | C    |
-| Matthew | 10:20          | 45:12       | 3:1.4/11-12    | Pt 3: Spirit speaks from within        | R    |
+| Matthew | 10:20          | 45:12       | 3:1.4/11-12    | Part 3: Spirit speaks from within        | R    |
 | Matthew | 10:20          | 1487:11-12  | 134:4.7/1-2    | The indwelling spirit                  | C    |
 | Matthew | 10:20          | 1130:31-35  | 103:1.6/3-12   | Spirit in man (Thought Adjuster)       | C    |
 | Matthew | 10:20          | 1588:41-43  | 141:2.1/33-36  | Spirit of God within us                | C    |
@@ -969,7 +969,7 @@ type = See _readme
 | Matthew | 13:16-17       | 1807:28-33  | 163:6.4/all    | Evaluation of mission                  | S    |
 | Matthew | 13:18-23       | 1689:46-64  | 151:2.2/all    | Peter's interpretation                 | S    |
 | Matthew | 13:18-23       | 1690:18-38  | 151:2.3/all    | Nathaniel's interpretation             | C    |
-| Matthew | 13:24-30       | 1693:31-43  | 151:4.1/all    | 3rd parable of sower                   | S    |
+| Matthew | 13:24-30       | 1693:31-43  | 151:4.1/all    | Third parable of sower                   | S    |
 | Matthew | 13:24-30       | 1429:21-23  | 130:1.6/10-14  | Wheat and tares                        | C    |
 | Matthew | 13:31          | 1931:44     | 178:1.15/3     | Mustard seed                           | S    |
 | Matthew | 13:31-32       | 1693:44-48  | 151:4.2/all    | Parable of mustard seed                | S    |
@@ -1123,7 +1123,7 @@ type = See _readme
 | Matthew | 16:26          | 1581:28-29  | 140:8.17/5-6   | What profit to gain world              | R    |
 | Matthew | 16:26          | 1822:38-39  | 165:4.9/all    | What if gain world, lose soul?         | S    |
 | Matthew | 16:27          | 2092:42-43  | 196:2.5/15-16  | Belief in soon-returning Lord          | C    |
-| Matthew | 16:27          | 1915:1-4    | 176:2.4/all    | 2nd coming with power                  | S    |
+| Matthew | 16:27          | 1915:1-4    | 176:2.4/all    | Second coming with power                  | S    |
 | Matthew | 16:27          | 1916:26     | 176:3.3/2-3    | Return of Son of Man                   | S    |
 | Matthew | 16:27          | 596:38      | 52:5.7/3-4     | Come in glory with angels              | R    |
 | Matthew | 17:1           | 1752:16-17  | 158:0.2/14-16  | Three who share experience             | S    |
@@ -1158,9 +1158,9 @@ type = See _readme
 | Matthew | 17:23b         | 1759:15     | 158:6.6/1      | Disciples sorrowful                    | S    |
 | Matthew | 17:24-25a      | 1743:27-36  | 157:1.1/1-17   | Temple tax collecters                  | S    |
 | Matthew | 17:26-27       | 1744:2-8    | 157:1.2/7-19   | Raise money and pay tax                | S    |
-| Matthew | 18:1-4         | 1834:42-44  | 167:1.5/34-36  | Exalted-humbled-exalted                | S    |
+| Matthew | 18:1-4         | 1834:42-44  | 167:1.5/34-36  | Whoever humbles himself will be exalted                | S    |
 | Matthew | 18:1-4         | 1907:13-14  | 175:1.10/8-11  | Humbled / exalted                      | S    |
-| Matthew | 18:1-4         | 1838:27-28  | 167:5.1/31-33  | Exalted-humbled-exalted                | S    |
+| Matthew | 18:1-4         | 1838:27-28  | 167:5.1/31-33  | Whoever humbles himself will be exalted                | S    |
 | Matthew | 18:1-4         | 466:33-34   | 41:10.5/11-12  | Who would be greatest                  | C    |
 | Matthew | 18:1-4         | 1761:17-19  | 158:8.1/22-24  | Humble himself                         | S    |
 | Matthew | 18:1-4,23      | 1608:22-24  | 143:1.5/11-15  | Gospel of the kingdom                  | C    |
@@ -1304,7 +1304,7 @@ type = See _readme
 | Matthew | 19:24          | 382:1-3     | 34:6.13/16-19  | Kingdom of God                         | C    |
 | Matthew | 19:24          | 1803:5-8    | 163:2.10/all   | Love of wealth                         | S    |
 | Matthew | 19:26          | 1453:41     | 131:10.2/10-11 | With God, all things possible          | C    |
-| Matthew | 19:26          | 34:13-14    | 2:1.2/16-17    | Pt 1: All things possible              | R    |
+| Matthew | 19:26          | 34:13-14    | 2:1.2/16-17    | Part 1: All things possible              | R    |
 | Matthew | 19:26          | 291:26-27   | 26:5.3/13-15   | With God nothing impossible            | R    |
 | Matthew | 19:26          | 1803:34-40  | 163:3.2/all    | With God, nothing is impossible        | S    |
 | Matthew | 19:26          | 1757:34-35  | 158:5.2/28-29  | All things possible to believers       | C    |
@@ -1356,7 +1356,7 @@ type = See _readme
 | Matthew | 20:26-27       | 1907:12-13  | 175:1.10/6-8   | Who would be greatest: serve           | S    |
 | Matthew | 20:26-27       | 647:31-32   | 56:10.14/11-12 | If be greatest, become server          | R    |
 | Matthew | 20:26-27       | 1569:18-20  | 140:1.6/1-4    | Become great by ministry               | S    |
-| Matthew | 20:26-27       | 316:40      | 28:6.18/17-18  | Greatest be server of all (quotation)  | R    |
+| Matthew | 20:26-27       | 316:40      | 28:6.18/17-18  | Greatest be server of all   | R    |
 | Matthew | 20:26-27       | 1862:13-14  | 170:3.8/4-7    | Loving service                         | S    |
 | Matthew | 20:28          | 1750:11-12  | 157:6.9/2-5    | Jesus came to minister                 | S    |
 | Matthew | 20:28          | 2003:7-9    | 186:5.7/1-4    | No “atonement for sin” Contra:         | C    |
@@ -1391,7 +1391,7 @@ type = See _readme
 | Matthew | 21:22          | 1838:41-42  | 167:5.2/23-24  | Ask and receive                        | S    |
 | Matthew | 21:22          | 1619:13-15  | 144:2.3/22-27  | Ask, seek, knock                       | S    |
 | Matthew | 21:22          | 1849:19-20  | 168:4.13/1-3   | Ask and receive                        | S    |
-| Matthew | 21:23          | 1891:28-32  | 173:2.2/11-18  | “By what authority...do things?”       | S    |
+| Matthew | 21:23          | 1891:28-32  | 173:2.2/11-18  | “By what authority do you do these things?”       | S    |
 | Matthew | 21:24-25a      | 1892:6-9    | 173:2.4/10-15  | Jesus asks questions                   | S    |
 | Matthew | 21:25b-27      | 1892:10-24  | 173:2.5/all    | Gets no answers                        | S    |
 | Matthew | 21:28-31a      | 1893:5-12   | 173:3.1/6-20   | Parable of two sons (part 1)           | S    |
@@ -1428,14 +1428,14 @@ type = See _readme
 | Matthew | 22:16          | 1958:12-16  | 181:2.14/17-25 | God/Son no respecter of persons        | C    |
 | Matthew | 22:16          | 1594:23-24  | 141:7.10/1-4   | Teacher from heaven                    | C    |
 | Matthew | 22:16-21       | 1899:13-26  | 174:2.2/all    | Jesus questioned by students           | S    |
-| Matthew | 22:17-21       | 1899:20-26  | 174:2.2/13-25  | Render unto Caesar / God               | S    |
+| Matthew | 22:17-21       | 1899:20-26  | 174:2.2/13-25  | Render unto Caesar what is Caesar's, God what is God's               | S    |
 | Matthew | 22:21          | 1740:19-20  | 156:5.16/8-10  | Render to God and Caesar               | C    |
 | Matthew | 22:21          | 1991:9-11   | 185:3.1/14-17  | Jesus' view on tribute                 | S    |
-| Matthew | 22:21          | 1580:16-17  | 140:8.9/8-10   | Render unto Caesar / God               | R    |
+| Matthew | 22:21          | 1580:16-17  | 140:8.9/8-10   | Render unto Caesar what is Caesar's, God what is God's               | R    |
 | Matthew | 22:21          | 1114:25-26  | 101:7.5/6-8    | Separate Caesar's & God's due          | C    |
-| Matthew | 22:21          | 1929:32-34  | 178:1.3/1-6    | Render unto Caesar / God               | S    |
+| Matthew | 22:21          | 1929:32-34  | 178:1.3/1-6    | Render unto Caesar what is Caesar's, God what is God's               | S    |
 | Matthew | 22:21          | 1474:14-15  | 133:4.3/1-3    | Render unto Caesar & God               | R    |
-| Matthew | 22:21          | 1957:4-5    | 181:2.10/12-14 | Render unto Caesar / God               | S    |
+| Matthew | 22:21          | 1957:4-5    | 181:2.10/12-14 | Render unto Caesar what is Caesar's, God what is God's               | S    |
 | Matthew | 22:22          | 1899:27-30  | 174:2.3/all    | Challengers withdraw                   | S    |
 | Matthew | 22:23          | 1900:34-35  | 174:3.3/7-8    | People marvelled                       | S    |
 | Matthew | 22:23-28       | 1900:2-12   | 174:3.1/all    | Question on resurrection               | S    |
@@ -1511,10 +1511,10 @@ type = See _readme
 | Matthew | 23:11-12       | 1536:38-39  | 137:8.11/3-5   | Greatest is server of all              | S    |
 | Matthew | 23:11-12       | 1758:33-35  | 158:6.3/8-12   | Greatest must be server                | C    |
 | Matthew | 23:11-12       | 1761:20-21  | 158:8.1/27-29  | To be first, minister                  | S    |
-| Matthew | 23:11-12       | 316:40      | 28:6.18/17-18  | Greatest be server of all (quotation)  | R    |
+| Matthew | 23:11-12       | 316:40      | 28:6.18/17-18  | Greatest be server of all   | R    |
 | Matthew | 23:11-12       | 1761:17-19  | 158:8.1/22-24  | Humble himself                         | S    |
-| Matthew | 23:12          | 1834:42-44  | 167:1.5/34-36  | Exalted-humbled-exalted                | S    |
-| Matthew | 23:12          | 1838:27-28  | 167:5.1/31-33  | Exalted-humbled-exalted                | S    |
+| Matthew | 23:12          | 1834:42-44  | 167:1.5/34-36  | Whoever humbles himself will be exalted                | S    |
+| Matthew | 23:12          | 1838:27-28  | 167:5.1/31-33  | Whoever humbles himself will be exalted                | S    |
 | Matthew | 23:12          | 1907:13-14  | 175:1.10/8-11  | Humbled / exalted                      | S    |
 | Matthew | 23:13          | 1608:22-24  | 143:1.5/11-15  | Gospel of the kingdom                  | C    |
 | Matthew | 23:13          | 382:1-3     | 34:6.13/16-19  | Kingdom of heaven                      | C    |
@@ -1524,23 +1524,23 @@ type = See _readme
 | Matthew | 23:13          | 2035:40-41  | 190:5.4/58-60  | Gospel of the kingdom                  | S    |
 | Matthew | 23:13          | 1856:23-24  | 169:4.6/5-6    | Kingdom of heaven                      | S    |
 | Matthew | 23:13          | 2052:34-35  | 193:0.4/1-3    | Gospel of the kingdom                  | C    |
-| Matthew | 23:13          | 1907:24-27  | 175:1.12/1-8   | 1st Woe                                | S    |
+| Matthew | 23:13          | 1907:24-27  | 175:1.12/1-8   | First Woe                                | S    |
 | Matthew | 23:13          | 1536:8      | 137:8.6/1-2    | Proclaim setting up of kingdom         | C    |
 | Matthew | 23:14          | 1907:5-8    | 175:1.9/9-11   | Leaders desire honors                  | S    |
-| Matthew | 23:14          | 1907:34-37  | 175:1.14/all   | 3rd Woe                                | S    |
-| Matthew | 23:15          | 1907:30-33  | 175:1.13/all   | 2nd Woe                                | S    |
-| Matthew | 23:16a         | 1907:38-40  | 175:1.15/all   | 4th Woe                                | S    |
-| Matthew | 23:16b-19      | 1907:41-50  | 175:1.16/all   | 5th Woe                                | S    |
+| Matthew | 23:14          | 1907:34-37  | 175:1.14/all   | Third Woe                                | S    |
+| Matthew | 23:15          | 1907:30-33  | 175:1.13/all   | Second Woe                                | S    |
+| Matthew | 23:16a         | 1907:38-40  | 175:1.15/all   | Fourth Woe                                | S    |
+| Matthew | 23:16b-19      | 1907:41-50  | 175:1.16/all   | Fifth Woe                                | S    |
 | Matthew | 23:23          | 1826:17-22  | 166:1.4/26-35  | Almsgiving not enough                  | S    |
-| Matthew | 23:23-24       | 1908:1-5    | 175:1.17/all   | 6th Woe                                | S    |
+| Matthew | 23:23-24       | 1908:1-5    | 175:1.17/all   | Sixth Woe                                | S    |
 | Matthew | 23:24          | 1736:41-42  | 156:2.8/14-15  | Gnats and camels                       | C    |
 | Matthew | 23:25          | 1826:8-9    | 166:1.4/9-12   | Clean outside dirty inside             | S    |
-| Matthew | 23:25-26       | 1908:6-13   | 175:1.18/1-9   | 7th Woe                                | S    |
+| Matthew | 23:25-26       | 1908:6-13   | 175:1.18/1-9   | Seventh Woe                                | S    |
 | Matthew | 23:27-28       | 1826:43-46  | 166:1.5/33-39  | Whitened sepulchres                    | S    |
-| Matthew | 23:27-28       | 1908:14-18  | 175:1.19/all   | 8th Woe                                | S    |
+| Matthew | 23:27-28       | 1908:14-18  | 175:1.19/all   | Eighth Woe                                | S    |
 | Matthew | 23:28          | 1826:9-12   | 166:1.4/12-16  | Wicked, self-righteous                 | S    |
 | Matthew | 23:29-31       | 1826:32-35  | 166:1.5/13-21  | Tombs for Prophets                     | S    |
-| Matthew | 23:29-32       | 1908:19-26  | 175:1.20/all   | 9th Woe                                | S    |
+| Matthew | 23:29-32       | 1908:19-26  | 175:1.20/all   | Ninth Woe                                | S    |
 | Matthew | 23:33          | 1908:27-29  | 175:1.21/all   | 10th Woe                               | S    |
 | Matthew | 23:34-36       | 1908:30-41  | 175:1.22/all   | Offer of pardon                        | S    |
 | Matthew | 23:37          | 1908:42-44  | 175:1.23/all   | Lament over Jerusalem                  | S    |
@@ -1617,7 +1617,7 @@ type = See _readme
 | Matthew | 24:30          | 2092:42-43  | 196:2.5/15-16  | Belief in soon-returning Lord          | C    |
 | Matthew | 24:30-31       | 1569:13-15  | 140:1.5/6-8    | No unseemly demonstration              | C    |
 | Matthew | 24:30-31       | 1591:16-17  | 141:4.5/15-17  | Kingdom comes in power & glory         | C    |
-| Matthew | 24:30b         | 1915:1-4    | 176:2.4/all    | 2nd coming with power                  | S    |
+| Matthew | 24:30b         | 1915:1-4    | 176:2.4/all    | Second coming with power                  | S    |
 | Matthew | 24:30b         | 1916:26     | 176:3.3/2-3    | Return of Son of Man                   | S    |
 | Matthew | 24:31          | 568:45-46   | 49:6.5/4-6     | Angels gather elect                    | R    |
 | Matthew | 24:31          | 1247:32-33  | 113:6.7/6-9    | Send angels to gather elect            | R    |
@@ -1660,7 +1660,7 @@ type = See _readme
 | Matthew | 25:29          | 1689:22-24  | 151:1.4/13-17  | More given to more, less to less       | S    |
 | Matthew | 25:29          | 1917:27-28  | 176:3.5/1-4    | End Parable of Talents                 | S    |
 | Matthew | 25:31          | 1916:26     | 176:3.3/2-3    | Return of Son of Man                   | S    |
-| Matthew | 25:31          | 1915:1-4    | 176:2.4/all    | 2nd coming with power                  | S    |
+| Matthew | 25:31          | 1915:1-4    | 176:2.4/all    | Second coming with power                  | S    |
 | Matthew | 25:31          | 596:38      | 52:5.7/3-4     | Come in glory with angels              | R    |
 | Matthew | 25:31          | 2092:42-43  | 196:2.5/15-16  | Belief in soon-returning Lord          | C    |
 | Matthew | 25:31-34       | 1860:15-17  | 170:2.10/6-10  | Belief in an earthly kingdom           | S    |
@@ -1746,10 +1746,10 @@ type = See _readme
 | Matthew | 26:39,42,44    | 1520:34-35  | 136:8.3/11-12  | Jesus decides: live by Father's will   | C    |
 | Matthew | 26:39,42,44    | 1774:28     | 160:1.11/19-20 | “Not my will but yours be done”        | R    |
 | Matthew | 26:39,42,44    | 1200:41     | 109:6.5/5      | Not my will, but Father's              | R    |
-| Matthew | 26:40          | 1968:16-20  | 182:3.2/1-9    | 1st time apostles sleep                | S    |
+| Matthew | 26:40          | 1968:16-20  | 182:3.2/1-9    | First time apostles sleep                | S    |
 | Matthew | 26:41b         | 1968:32-33  | 182:3.4/4-5    | Spirit is willing, flesh is weak       | S    |
 | Matthew | 26:42          | 1968:21-24  | 182:3.2/10-17  | 2d Gethsemane prayer                   | S    |
-| Matthew | 26:43          | 1968:27-30  | 182:3.3/all    | 2nd time apostles sleep                | S    |
+| Matthew | 26:43          | 1968:27-30  | 182:3.3/all    | Second time apostles sleep                | S    |
 | Matthew | 26:44-46       | 1968:31-41  | 182:3.4/1-21   | 3d prayer, 3d sleep                    | S    |
 | Matthew | 26:47          | 1973:29-31  | 183:2.4/all    | Judas leads armed band                 | S    |
 | Matthew | 26:48          | 1974:4-6    | 183:3.3/1-6    | The plan                               | S    |
@@ -1781,15 +1781,15 @@ type = See _readme
 | Matthew | 26:67          | 1983:45-49  | 184:3.15/1-9   | Disorder in the court                  | S    |
 | Matthew | 26:67-68       | 1984:16-22  | 184:4.1/19-21  | Indignities to Jesus                   | S    |
 | Matthew | 26:67-68       | 2000:12-14  | 186:2.10/5-8   | Jesus felt no anger                    | S    |
-| Matthew | 26:69-70       | 1980:31-38  | 184:2.4/all    | 1st denial                             | S    |
+| Matthew | 26:69-70       | 1980:31-38  | 184:2.4/all    | First denial                             | S    |
 | Matthew | 26:69-75       | 1551:15-17  | 139:2.6/13-15  | Peter's denial                         | S    |
 | Matthew | 26:69-75       | 1551:6-8    | 139:2.5/6-11   | Peter's denial                         | S    |
-| Matthew | 26:71-72       | 1980:44-50  | 184:2.6/all    | 2nd denial                             | S    |
-| Matthew | 26:73-74a      | 1981:3-8    | 184:2.7/all    | 3rd denial                             | S    |
+| Matthew | 26:71-72       | 1980:44-50  | 184:2.6/all    | Second denial                             | S    |
+| Matthew | 26:73-74a      | 1981:3-8    | 184:2.7/all    | Third denial                             | S    |
 | Matthew | 26:74b         | 1981:13-14  | 184:2.8/8-10   | Cock crowed                            | S    |
 | Matthew | 26:75a         | 1981:14-15  | 184:2.8/10-12  | Peter remembered                       | S    |
 | Matthew | 26:75b         | 1981:24-25  | 184:2.9/3-5    | Peter wept bitterly                    | S    |
-| Matthew | 27:1           | 1985:22-25  | 184:5.1/1-7    | 2nd meeting of court                   | S    |
+| Matthew | 27:1           | 1985:22-25  | 184:5.1/1-7    | Second meeting of court                   | S    |
 | Matthew | 27:2           | 1986:12-14  | 184:5.8/all    | Jesus led to Pilate                    | S    |
 | Matthew | 27:3-5         | 1567:41-44  | 139:12.13/all  | Judas' Suicide                         | R    |
 | Matthew | 27:3a          | 1997:38-42  | 186:1.2/3-10   | Judas' remorse                         | S    |
@@ -1949,6 +1949,6 @@ type = See _readme
 | Matthew | 28:20          | 2053:19     | 193:0.5/26     | I am with you always                   | S    |
 | Matthew | 28:20          | 2033:20     | 190:3.1/33-34  | Great promise                          | S    |
 | Matthew | 28:20          | 45:8-9      | 3:1.4/6-7      | Ever-present God                       | R    |
-| Matthew | 28:20          | 45:13       | 3:1.4/13-14    | Pt 2: God always with us               | R    |
+| Matthew | 28:20          | 45:13       | 3:1.4/13-14    | Part 2: God always with us               | R    |
 | Matthew | 28:20          | 2054:6-7    | 193:1.2/36-37  | I am with you always                   | S    |
 | Matthew | 28:20b         | 2044:36     | 191:6.3/10-11  | I am with you always                   | S    |

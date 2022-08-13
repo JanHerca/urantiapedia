@@ -21,7 +21,7 @@ type = See _readme
 | Exodus | 3:6         | 1900:43-44  | 174:3.4/14-16  | God of living                      | C    |
 | Exodus | 3:6         | 23:27-29    | 1:1.6/6-8      | Calling God “God”                  | C    |
 | Exodus | 3:6         | 1965:24-25  | 182:1.9/6-9    | I AM                               | C    |
-| Exodus | 3:7         | 1662:16-17  | 148:5.5/13     | 1st part: I know your sorrows      | R    |
+| Exodus | 3:7         | 1662:16-17  | 148:5.5/13     | Part 1: I know your sorrows      | R    |
 | Exodus | 3:7         | 49:6-8      | 3:3.2/6-8      | I know their sorrows               | R    |
 | Exodus | 3:8,17      | 1054:46     | 96:2.2/3-4     | Flow with milk and honey           | R    |
 | Exodus | 3:13-14     | 1139:32     | 103:7.12/15    | I AM                               | C    |
@@ -76,22 +76,22 @@ type = See _readme
 | Exodus | 14:8-29     | 1056:16-20  | 96:3.5/9-18    | The Exodus                         | C    |
 | Exodus | 14:13       | 1704:11-12  | 152:5.3/11-12  | Fear not, be still, see salvation  | R    |
 | Exodus | 15:2        | 41:6        | 2:6.3/11       | God of salvation                   | C    |
-| Exodus | 15:3        | 1058:42     | 96:5.7/3-4     | Pt 2: A man of war                 | R    |
+| Exodus | 15:3        | 1058:42     | 96:5.7/3-4     | Part 2: A man of war                 | R    |
 | Exodus | 15:6        | 23:15       | 1:1.4/16       | God's power                        | C    |
 | Exodus | 15:6        | 1454:2      | 131:10.3/10-11 | God is all powerful                | C    |
 | Exodus | 15:6        | 1598:40     | 142:3.7/4      | All-powerful                       | C    |
-| Exodus | 15:6        | 1058:43     | 96:5.7/4-5     | Pt 5: Dashes enemies in pieces     | R    |
-| Exodus | 15:6        | 1058:43     | 96:5.7/4-5     | Pt 4: Glorious in power            | R    |
+| Exodus | 15:6        | 1058:43     | 96:5.7/4-5     | Part 5: Dashes enemies in pieces     | R    |
+| Exodus | 15:6        | 1058:43     | 96:5.7/4-5     | Part 4: Glorious in power            | R    |
 | Exodus | 15:6        | 1454:29     | 131:10.6/4     | The Power                          | C    |
 | Exodus | 15:7        | 229:45      | 20:6.7/5       | “Divine wrath”                     | C    |
 | Exodus | 15:11       | 1058:29     | 96:5.5/8-9     | Who is like our God among all      | R    |
-| Exodus | 15:11       | 1063:35-36  | 97:1.7/8-9     | Pt 2: Who can compare              | R    |
+| Exodus | 15:11       | 1063:35-36  | 97:1.7/8-9     | Part 2: Who can compare              | R    |
 | Exodus | 16:10       | 947:17-19   | 85:4.3/1-5     | Ominous clouds                     | C    |
 | Exodus | 16:14-15    | 1710:48-49  | 153:2.8/4-6    | Manna in wilderness                | R    |
 | Exodus | 16:23-26    | 1042:18-23  | 95:1.2/4-12    | Sabbath-keeping                    | C    |
 | Exodus | 18:9        | 1454:8-10   | 131:10.4/5-9   | If more knew goodness of God       | C    |
 | Exodus | 19:3,11-23  | 945:26-27   | 85:1.5/6-8     | Holy mountains                     | C    |
-| Exodus | 19:6        | 1536:3      | 137:8.4/4-5    | pt 1 A holy people                 | R    |
+| Exodus | 19:6        | 1536:3      | 137:8.4/4-5    | Part 1: A holy people                | R    |
 | Exodus | 19:9,16     | 947:17-19   | 85:4.3/1-5     | Ominous clouds                     | C    |
 | Exodus | 19:10,14    | 992:29-30   | 90:5.3/6-8     | Sanctify people                    | C    |
 | Exodus | 19:16-18    | 1599:38     | 142:3.21/1-2   | Mt. Sinai                          | C    |
@@ -142,7 +142,7 @@ type = See _readme
 | Exodus | 20:12       | 751:26-27   | 66:7.15/1-2    | Respect parents/elders             | C    |
 | Exodus | 20:12       | 1373:4-5    | 124:4.9/14-16  | Honor your father & mother         | R    |
 | Exodus | 20:12       | 1712:29     | 153:3.3/15-16  | Honor parents                      | R    |
-| Exodus | 20:13       | 1576:28     | 140:6.4/5      | 1st part: You shall not kill       | R    |
+| Exodus | 20:13       | 1576:28     | 140:6.4/5      | Part 1: You shall not kill       | R    |
 | Exodus | 20:13       | 796:45      | 70:11.2/6      | You shall not kill                 | R    |
 | Exodus | 20:13       | 1790:38     | 162:2.1/24     | Thou shall not kill                | R    |
 | Exodus | 20:13       | 751:23      | 66:7.12/1-2    | Don't kill people                  | C    |

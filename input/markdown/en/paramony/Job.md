@@ -21,21 +21,21 @@ type = See _readme
 | Job  | 2:1         | 511:35-36   | 45:2.4/11-12   | When the Sons of God meet         | R    |
 | Job  | 2:1-7       | 602:1-2     | 53:1.4/1-4     | Satan                             | C    |
 | Job  | 3:11        | 954:8       | 86:5.2/5       | Give up the ghost                 | R    |
-| Job  | 4:1--5:27   | 1663:15-23  | 148:6.4/all    | Eliphaz, 1st friend               | S    |
+| Job  | 4:1--5:27   | 1663:15-23  | 148:6.4/all    | Eliphaz, the first friend               | S    |
 | Job  | 4:8         | 1445:21-22  | 131:2.8/10-11  | Men reap evil they sow            | R    |
 | Job  | 4:8         | 37:1-2      | 2:3.2/5-7      | One reaps what one sows           | R    |
 | Job  | 4:8         | 1445:35     | 131:2.9/15-16  | Reap what you sow                 | R    |
 | Job  | 4:8         | 1663:2      | 148:6.3/3-4    | Men reap what they sow            | C    |
 | Job  | 4:17        | 1059:44-45  | 96:6.4/5-7     | Is man more just than God         | R    |
 | Job  | 5:2         | 1673:17     | 149:4.2/10-11  | Wrath kills foolish man           | R    |
-| Job  | 5:6         | 1662:30-31  | 148:5.5/38-39  | 2nd pt: Affliction not from dust  | R    |
+| Job  | 5:6         | 1662:30-31  | 148:5.5/38-39  | Part 2: Affliction not from dust  | R    |
 | Job  | 5:9         | 33:39       | 2:1.1/8-10     | Marvels without number            | R    |
 | Job  | 5:12-13     | 1060:37-38  | 96:7.6/7-9     | Disappoints devices of crafty     | R    |
-| Job  | 5:17-18     | 1662:30     | 148:5.5/38     | 1st pt: Correction in suffering   | R    |
+| Job  | 5:17-18     | 1662:30     | 148:5.5/38     | Part 1: Correction in suffering   | R    |
 | Job  | 5:19        | 1337:27-28  | 121:5.11/4-5   | Deliverance from evil             | C    |
 | Job  | 6:4         | 990:19      | 90:3.8/8-9     | Arrows of the Almighty            | R    |
 | Job  | 6:10        | 1053:39-40  | 96:1.9/6       | The Holy One                      | C    |
-| Job  | 8:1-22      | 1663:24-30  | 148:6.5/all    | Bildad, 2nd friend                | S    |
+| Job  | 8:1-22      | 1663:24-30  | 148:6.5/all    | Bildad, second friend                | S    |
 | Job  | 9:1--10:22  | 1663:31-39  | 148:6.6/all    | Job's hopelessness                | S    |
 | Job  | 9:4-10      | 319:3-5     | 29:0.1/1-5     | Physical creation                 | C    |
 | Job  | 9:9         | 458:8       | 41:3.1/1       | Our starry associates             | C    |
@@ -43,11 +43,11 @@ type = See _readme
 | Job  | 9:10        | 33:39       | 2:1.1/8-10     | Marvels without number            | R    |
 | Job  | 9:11        | 25:10-11    | 1:3.2/1-3      | I see Him not...                  | R    |
 | Job  | 9:13        | 57:44-45    | 4:3.2/1-3      | God said to be angry              | C    |
-| Job  | 11:1-20     | 1663:48-53  | 148:6.8/all    | Zophar, 3rd friend                | C    |
-| Job  | 11:7        | 1059:45-47  | 96:6.4/7-9     | Pt 1: Can you find God            | R    |
+| Job  | 11:1-20     | 1663:48-53  | 148:6.8/all    | Zophar, third friend                | C    |
+| Job  | 11:7        | 1059:45-47  | 96:6.4/7-9     | Part 1: Can you find God            | R    |
 | Job  | 12:10       | 1155:21     | 105:2.11/15-16 | Live, move, and have our being    | C    |
 | Job  | 12:10       | 1283:11-12  | 117:3.12/5-8   | We live, move, have our being     | C    |
-| Job  | 12:13       | 33:36       | 2:1.1/3        | Pt 1: Understanding is infinite   | R    |
+| Job  | 12:13       | 33:36       | 2:1.1/3        | Part 1: Understanding is infinite   | R    |
 | Job  | 13:15       | 1108:45     | 101:3.4/49-50  | Even though he slay me            | R    |
 | Job  | 13:16       | 41:6        | 2:6.3/11       | God of salvation                  | C    |
 | Job  | 13:19       | 954:8       | 86:5.2/5       | Give up the ghost                 | R    |
@@ -105,10 +105,10 @@ type = See _readme
 | Job  | 33:4        | 96:10       | 8:5.5/8-9      | Spirit of God (Holy Spirit)       | C    |
 | Job  | 33:4        | 380:40      | 34:6.5/10      | The Spirit gives life             | R    |
 | Job  | 33:4        | 377:33      | 34:4.1/5-6     | Holy Spirit                       | C    |
-| Job  | 33:24       | 1060:42-45  | 96:7.7/6-9     | Pt 1: Gracious to the repentant   | R    |
+| Job  | 33:24       | 1060:42-45  | 96:7.7/6-9     | Part 1: Gracious to the repentant   | R    |
 | Job  | 33:26       | 1060:39-41  | 96:7.7/2-5     | He shall pray to God              | R    |
 | Job  | 33:27-28    | 1440:26-28  | 130:8.2/23-27  | He looks down upon men            | R    |
-| Job  | 33:27-28    | 1060:42-45  | 96:7.7/9-13    | Pt 2: If any say I sinned         | R    |
+| Job  | 33:27-28    | 1060:42-45  | 96:7.7/9-13    | Part 2: If any say I sinned         | R    |
 | Job  | 34:13       | 34:6        | 2:1.2/3        | God as Disposer                   | C    |
 | Job  | 34:15       | 981:35      | 89:6.7/10      | # 2 Dust to dust                  | R    |
 | Job  | 34:15       | 1230:23-24  | 112:3.5/1-3    | Dust to dust                      | C    |
@@ -138,19 +138,19 @@ type = See _readme
 | Job  | 34:19       | 1909:35     | 175:2.3/24     | God is no respecter of persons    | C    |
 | Job  | 34:19       | 2034:1-2    | 190:4.1/12-14  | Neither Jew nor Gentile           | S    |
 | Job  | 34:19       | 1958:12-16  | 181:2.14/17-25 | God/Son no respecter of persons   | C    |
-| Job  | 36:4        | 48:46       | 3:3.1/6-7      | # 1: Perfect in knowledge         | R    |
+| Job  | 36:4        | 48:46       | 3:3.1/6-7      | # 1 Perfect in knowledge         | R    |
 | Job  | 36:22       | 1598:40     | 142:3.7/4      | All-powerful                      | C    |
 | Job  | 36:22       | 1454:2      | 131:10.3/10-11 | God is all powerful               | C    |
 | Job  | 36:22       | 23:15       | 1:1.4/16       | God's power                       | C    |
 | Job  | 36:22       | 1454:29     | 131:10.6/4     | The Power                         | C    |
 | Job  | 36:26       | 317:12      | 28:6.21/1-3    | God is great                      | C    |
 | Job  | 36:26       | 33:39-41    | 2:1.1/10-12    | God is great                      | R    |
-| Job  | 36:26       | 1059:45-47  | 96:6.4/9-10    | Pt 2: Behold God is great         | R    |
-| Job  | 37:16       | 48:46       | 3:3.1/6-7      | # 1: Perfect in knowledge         | R    |
+| Job  | 36:26       | 1059:45-47  | 96:6.4/9-10    | Part 2: Behold God is great         | R    |
+| Job  | 37:16       | 48:46       | 3:3.1/6-7      | # 1 Perfect in knowledge         | R    |
 | Job  | 37:16       | 48:45-46    | 3:3.1/6        | He who balances the clouds        | R    |
-| Job  | 37:23       | 33:35       | 2:1.1/1-2      | Pt 1: Touching the infinite       | R    |
+| Job  | 37:23       | 33:35       | 2:1.1/1-2      | Part 1: Touching the infinite       | R    |
 | Job  | 37:23       | 23:15       | 1:1.4/16       | God's power                       | C    |
-| Job  | 37:23       | 1059:45-47  | 96:6.4/11-12   | Pt 3: Touching the Almighty       | R    |
+| Job  | 37:23       | 1059:45-47  | 96:6.4/11-12   | Part 3: Touching the Almighty       | R    |
 | Job  | 37:23       | 1454:29     | 131:10.6/4     | The Power                         | C    |
 | Job  | 37:23       | 1598:40     | 142:3.7/4      | All-powerful                      | C    |
 | Job  | 37:23       | 1059:40-41  | 96:6.3/15      | God of power, judgment,           | R    |

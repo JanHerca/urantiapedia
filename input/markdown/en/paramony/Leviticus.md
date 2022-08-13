@@ -12,7 +12,7 @@ type = See _readme
 | Leviticus | 19:18,34     | 1133:42-43  | 103:5.2/2-3    | Love neighbors as self              | C    |
 | Leviticus | 1:9,13,17    | 977:46-49   | 89:4.3/1-4     | Sweet savor in the nostrils of God  | C    |
 | Leviticus | 19:2         | 1584:28-29  | 140:10.1/10-11 | Be you perfect                      | C    |
-| Leviticus | 24:17,21     | 1576:28-29  | 140:6.4/5-6    | 2nd part: Subject to judgment       | R    |
+| Leviticus | 24:17,21     | 1576:28-29  | 140:6.4/5-6    | Part 2: Subject to judgment       | R    |
 | Leviticus | 14:2-11      | 992:29-30   | 90:5.3/6-8     | Cleanse leprosy                     | C    |
 | Leviticus | 19:18,34     | 1769:26     | 159:5.4/all    | Love neighbor as self               | R    |
 | Leviticus | 5:1-13       | 992:29-30   | 90:5.3/6-8     | Cleanse individual sins             | C    |

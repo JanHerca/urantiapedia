@@ -71,7 +71,7 @@ type = See _readme
 | 1 Peter | 3:9-12    | 1580:8-9    | 140:8.7/all    | Futility of returning evil for evil  | S    |
 | 1 Peter | 3:12      | 95:21-22    | 8:4.8/7-9      | Eyes of Lord over righteous          | R    |
 | 1 Peter | 3:12      | 55:10-11    | 4:1.4/11-13    | Eyes of Lord are over righteous      | R    |
-| 1 Peter | 3:12      | 48:46       | 3:3.1/7-8      | # 2: Eyes of Lord every place        | R    |
+| 1 Peter | 3:12      | 48:46       | 3:3.1/7-8      | # 2 Eyes of Lord every place        | R    |
 | 1 Peter | 3:12      | 95:22-23    | 8:4.8/7-10     | Divine ears ever open                | R    |
 | 1 Peter | 3:14      | 1820:13-14  | 165:3.3/7-9    | Fear not killers of body             | C    |
 | 1 Peter | 3:19-20   | 610:34-47   | 53:9.1/1-24    | Present status of rebellion          | C    |
@@ -87,7 +87,7 @@ type = See _readme
 | 1 Peter | 4:19      | 1598:38     | 142:3.7/3      | Universal Creator                    | C    |
 | 1 Peter | 4:19      | 1454:28-29  | 131:10.6/4     | The Creator                          | C    |
 | 1 Peter | 4:19      | 0004:12-13  | 0:2.9/all      | God as Creator of everything         | C    |
-| 1 Peter | 4:19      | 34:5        | 2:1.2/2        | Pt 2: A faithful Creator             | R    |
+| 1 Peter | 4:19      | 34:5        | 2:1.2/2        | Part 2: A faithful Creator             | R    |
 | 1 Peter | 4:19      | 1453:41-42  | 131:10.2/11-13 | God made all things and beings       | C    |
 | 1 Peter | 4:19      | 1048:19-21  | 95:5.9/4-7     | God created                          | C    |
 | 1 Peter | 4:19      | 1444:5-6    | 131:2.2/1-3    | God created everything               | C    |

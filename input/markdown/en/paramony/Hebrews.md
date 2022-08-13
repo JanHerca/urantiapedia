@@ -169,7 +169,7 @@ type = See _readme
 | Hebrews | 11:10          | 542:26      | 48:1.7/6-8     | City: builder, maker, is God       | R    |
 | Hebrews | 11:16          | 1237:24-25  | 112:7.2/2-3    | Shores of a better world           | C    |
 | Hebrews | 11:16          | 1570:10-12  | 140:3.1/5-8    | Citizens of heaven                 | C    |
-| Hebrews | 11:16          | 542:27      | 48:1.7/9       | Better --heavenly-- country        | R    |
+| Hebrews | 11:16          | 542:27      | 48:1.7/9       | Better —heavenly— country        | R    |
 | Hebrews | 11:27          | 1121:10-11  | 102:2.8/14-15  | Live as if seeing invisible one    | R    |
 | Hebrews | 11:27          | 363:28-29   | 32:4.7/4-5     | Invisible God manifested           | C    |
 | Hebrews | 11:27          | 1401:2      | 127:3.15/9     | Seeing Him who is invisible        | R    |

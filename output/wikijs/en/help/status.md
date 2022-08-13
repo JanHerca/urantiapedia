@@ -50,14 +50,14 @@ Table of tasks and languages to support, showing current progress:
 | English    | `en` | :heavy_check_mark: | :clock2: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :clock2:  |
 | Spanish    | `es` | :heavy_check_mark: | :clock2: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      | :clock2:  |
 | Estonian   | `et` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
-| Farsi      | `fa` |      :clock2:      |          | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |      :clock2:      |      :clock2:      |                    | :clock2:  |
+| Farsi      | `fa` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
 | Finnish    | `fi` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
 | French     | `fr` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
-| Hebrew     | `he` |      :clock2:      |          |                    | :heavy_check_mark: |      :clock2:      |      :clock2:      |                    |                    | :clock2:  |
+| Hebrew     | `he` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
 | Hungarian  | `hu` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
 | Indonesian | `id` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
 | Italian    | `it` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
-| Japanese   | `ja` | :heavy_check_mark: |          |                    | :heavy_check_mark: |      :clock2:      |      :clock2:      |                    |                    | :clock2:  |
+| Japanese   | `ja` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
 | Korean     | `ko` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
 | Lithuanian | `lt` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
 | Dutch      | `nl` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
@@ -176,14 +176,14 @@ The next table summarizes all the progress with each type of content:
 | English    | `en` | :heavy_check_mark: | :heavy_check_mark: | :clock2:  | :clock2: | :heavy_check_mark: |                | :clock2: 1 / 17 | :clock2: 50 / 927 |            |         | :clock2: 1 / 20 |                  |        |           |
 | Spanish    | `es` | :heavy_check_mark: |      :clock2:      | :clock2:  | :clock2: | :heavy_check_mark: |                | :clock2: 1 / 17 | :clock2: 50 / 927 |            |         | :clock2: 1 / 20 |                  |        |           |
 | Estonian   | `et` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
-| Farsi      | `fa` |      :clock2:      |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
+| Farsi      | `fa` | :heavy_check_mark: |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
 | Finnish    | `fi` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
 | French     | `fr` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
-| Hebrew     | `he` |      :clock2:      |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
+| Hebrew     | `he` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
 | Hungarian  | `hu` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
 | Indonesian | `id` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
 | Italian    | `it` | :heavy_check_mark: |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
-| Japanese   | `ja` |      :clock2:      |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
+| Japanese   | `ja` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
 | Korean     | `ko` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
 | Lithuanian | `lt` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
 | Dutch      | `nl` | :heavy_check_mark: |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
@@ -200,8 +200,7 @@ The next table summarizes all the progress with each type of content:
 Here you can find a list of tasks that currently are not active. If you are a contributor or want to be one check this list frequently to see where you can do your best additions. If a task is indented under above that means that the task depends on previous to start.
 
 - The Urantia Book :blue_book: :
-  - Automatic translation of _Paramony_ footnotes: `id`, `ja`, `ko`, `lt`, `nl`, `pl`, `pt`, `ru`, `sv`.
-    - Review of previous translation: `bg`, `cs`, `da`, `de`, `el`, `et`, `fa`, `fi`, `fr`, `he`, `hu`, `it`, `ro`.
+  - Review of automatic translation made for _Paramony_ footnotes except `es` and `en`.
 - The Bible :closed_book: :
   - Obtain a public domain Bible: `et`, `fi`, `fr`, `he`, `hu`, `id`, `ja`, `ko`, `lt`, `pl`, `pt`, `ro`, `ru`, `sv`.
   - Automatic translation of Paramony footnotes: all languages apart from `bg`, `en` and `es`.

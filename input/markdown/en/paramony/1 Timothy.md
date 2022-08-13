@@ -73,7 +73,7 @@ type = See _readme
 | 1 Timothy | 6:12,19   | 2053:36-37  | 193:1.2/5-7    | Faith Sons never die                | C    |
 | 1 Timothy | 6:12:19   | 1409:8      | 128:1.10/25    | Giver of life eternal               | C    |
 | 1 Timothy | 6:13      | 403:41-45   | 36:6.1/all     | Life, both material and spiritual   | C    |
-| 1 Timothy | 6:13      | 399:35-39   | 36:3.4/all     | Vital spark--mystery of life        | C    |
+| 1 Timothy | 6:13      | 399:35-39   | 36:3.4/all     | Vital spark—mystery of life        | C    |
 | 1 Timothy | 6:15      | 725:39      | 64:6.26/9      | God of Gods                         | R    |
 | 1 Timothy | 6:15      | 240:11-12   | 21:4.5/15      | King of Kings                       | R    |
 | 1 Timothy | 6:16      | 25:22-23    | 1:3.3/14-16    | Light none can approach             | R    |

@@ -29,7 +29,7 @@ type = See _readme
 | 1 Kings | 8:27          | 553:26      | 48:6.12/12     | Heaven, heaven of heavens       | R    |
 | 1 Kings | 8:30,34,36,39 | 1475:4-7    | 133:4.7/10-16  | Justice, fairness, & mercy      | C    |
 | 1 Kings | 8:39          | 363:42      | 32:4.8/18-19   | Lord knows his children         | R    |
-| 1 Kings | 8:46-48       | 1770:47-48  | 159:5.13/1-3   | Repent for forgiveness (OT)     | C    |
+| 1 Kings | 8:46-48       | 1770:47-48  | 159:5.13/1-3   | Repent for forgiveness (Old Testament)     | C    |
 | 1 Kings | 8:61          | 1176:17     | 107:0.3/1-2    | Be you perfect                  | C    |
 | 1 Kings | 8:61          | 1165:24-25  | 106:2.6/3-6    | Be you perfect                  | C    |
 | 1 Kings | 8:61          | 22:15-16    | 1:0.6/2-3      | Be you perfect                  | C    |
@@ -60,7 +60,7 @@ type = See _readme
 | 1 Kings | 9:15          | 1073:39-41  | 97:9.16/7-10   | Taxes for Buildings             | C    |
 | 1 Kings | 9:26-27       | 1073:41-42  | 97:9.16/10-12  | Hebrew navy                     | C    |
 | 1 Kings | 11:3          | 1073:42     | 97:9.16/12-13  | Solomon's harem                 | C    |
-| 1 Kings | 11:5,7,33     | 1042:26-28  | 95:1.3/5-8     | “Gods” Ashtoreth, Milcom        | C    |
+| 1 Kings | 11:5,7,33     | 1042:26-28  | 95:1.3/5-8     | “Gods” Ashtoreth and Milcom        | C    |
 | 1 Kings | 11:5,33       | 1043:10     | 95:1.7/3-4     | Ashtoreth                       | C    |
 | 1 Kings | 13:26         | 1738:34-39  | 156:5.4/12-21  | “God said”                      | C    |
 | 1 Kings | 14:9          | 57:44-45    | 4:3.2/1-3      | God said to be angry            | C    |

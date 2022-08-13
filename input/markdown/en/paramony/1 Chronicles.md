@@ -97,8 +97,8 @@ type = See _readme
 | 1 Chronicles | 29:11-12  | 1598:40     | 142:3.7/4      | All-powerful                  | C    |
 | 1 Chronicles | 29:11-12  | 1454:29     | 131:10.6/4     | The Power                     | C    |
 | 1 Chronicles | 29:11-12  | 1454:2      | 131:10.3/10-11 | God is all powerful           | C    |
-| 1 Chronicles | 29:11-12  | 41:6-8      | 2:6.3/13-14    | Pt 2: God is all-powerful     | R    |
-| 1 Chronicles | 29:11a    | 1064:4-7    | 97:1.10/4-8    | Pt 1: Yours is greatness      | R    |
+| 1 Chronicles | 29:11-12  | 41:6-8      | 2:6.3/13-14    | Part 2: God is all-powerful     | R    |
+| 1 Chronicles | 29:11a    | 1064:4-7    | 97:1.10/4-8    | Part 1: Yours is greatness      | R    |
 | 1 Chronicles | 29:11b    | 1064:1-2    | 97:1.9/11-12   | Yours is the kingdom, Lord    | R    |
-| 1 Chronicles | 29:12     | 1064:4-7    | 97:1.10/4-8    | Pt 2: In your hands, power    | R    |
+| 1 Chronicles | 29:12     | 1064:4-7    | 97:1.10/4-8    | Part 2: In your hands, power    | R    |
 | 1 Chronicles | 29:29     | 986:32-34   | 90:1.1/8-12    | Seers                         | C    |

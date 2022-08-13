@@ -41,7 +41,7 @@ type = See _readme
 | 2 Chronicles | 19:7        | 36:43-44    | 2:3.1/9-10     | God is no respecter of persons   | R    |
 | 2 Chronicles | 5:13        | 38:11-12    | 2:4.1/11       | His mercy endures forever        | R    |
 | 2 Chronicles | 7:3,6       | 38:11-12    | 2:4.1/11       | His mercy endures forever        | R    |
-| 2 Chronicles | 6:38-39     | 1770:47-48  | 159:5.13/1-3   | Repent for forgiveness (OT)      | C    |
+| 2 Chronicles | 6:38-39     | 1770:47-48  | 159:5.13/1-3   | Repent for forgiveness (Old Testament)      | C    |
 | 2 Chronicles | 2:12        | 74:11-12    | 6:1.3/8-10     | God made everything              | C    |
 | 2 Chronicles | 19:7        | 138:22      | 12:7.8/5-7     | God is no respecter of persons   | C    |
 | 2 Chronicles | 30:9        | 75:30-31    | 6:3.2/1-3      | Mercy ministry                   | C    |

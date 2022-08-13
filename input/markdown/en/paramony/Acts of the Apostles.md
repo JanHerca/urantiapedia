@@ -121,7 +121,7 @@ type = See _readme
 | Acts of the Apostles | 2:1-21      | 1187:18-20  | 108:2.3/15-18  | Adjusters after Pentecost                 | C    |
 | Acts of the Apostles | 2:1-40      | 1918:47     | 176:4.3/6-7    | Day of Pentecost                          | S    |
 | Acts of the Apostles | 2:1a,5      | 2060:2-4    | 194:1.1/1-5    | Pentecost, many there                     | S    |
-| Acts of the Apostles | 2:4         | 45:12       | 3:1.4/11-12    | Pt 3: Spirit speaks from within           | R    |
+| Acts of the Apostles | 2:4         | 45:12       | 3:1.4/11-12    | Part 3: Spirit speaks from within           | R    |
 | Acts of the Apostles | 2:4a        | 2059:35-43  | 194:0.6/all    | Filled with the spirit                    | S    |
 | Acts of the Apostles | 2:4b-12     | 2060:15-19  | 194:1.2/12-19  | Speaking in other tongues                 | S    |
 | Acts of the Apostles | 2:14-41     | 2060:9-11   | 194:1.2/1-5    | Peter's sermon                            | S    |
@@ -135,7 +135,7 @@ type = See _readme
 | Acts of the Apostles | 2:21        | 1102:18-19  | 100:7.6/6-7    | Whosoever will may come                   | C    |
 | Acts of the Apostles | 2:21        | 1820:44-45  | 165:3.8/13-14  | Whosoever will may come                   | C    |
 | Acts of the Apostles | 2:21        | 365:29      | 32:5.8/3-4     | Whosoever will may come                   | C    |
-| Acts of the Apostles | 2:22-23     | 2066:35-37  | 194:4.4/8-12   | 2nd part: All filled with spirit          | R    |
+| Acts of the Apostles | 2:22-23     | 2066:35-37  | 194:4.4/8-12   | Part 2: All filled with spirit          | R    |
 | Acts of the Apostles | 2:29-36     | 2092:40-43  | 196:2.5/12-16  | Exaltation of risen Christ                | C    |
 | Acts of the Apostles | 2:32-33     | 881:25      | 79:3.4/6-7     | Paradise Trinity                          | C    |
 | Acts of the Apostles | 2:32-33     | 2067:40     | 194:4.9/3-4    | Trinity                                   | C    |
@@ -144,7 +144,7 @@ type = See _readme
 | Acts of the Apostles | 2:32-33     | 1304:29     | 118:10.2/1-2   | The Trinity                               | C    |
 | Acts of the Apostles | 2:32-33     | 1144:48-51  | 104:1.12/all   | Later trinity concept                     | C    |
 | Acts of the Apostles | 2:32-33     | 640:33-35   | 56:5.1/2-7     | Trinity                                   | C    |
-| Acts of the Apostles | 2:32-33     | 2066:38-41  | 194:4.4/15-19  | 2nd part: All filled with spirit          | R    |
+| Acts of the Apostles | 2:32-33     | 2066:38-41  | 194:4.4/15-19  | Part 2: All filled with spirit          | R    |
 | Acts of the Apostles | 2:32-33     | 236:28-29   | 21:2.8/5-6     | Trinity personalities                     | C    |
 | Acts of the Apostles | 2:33        | 379:36      | 34:5.5/1-2     | Spirit of Truth                           | C    |
 | Acts of the Apostles | 2:33        | 2063:34-40  | 194:3.6/1-12   | Spirit of Truth bestowed on all           | C    |
@@ -172,7 +172,7 @@ type = See _readme
 | Acts of the Apostles | 2:33        | 1340:25-26  | 121:7.5/7-8    | New spirit, live in men's hearts          | C    |
 | Acts of the Apostles | 2:33        | 1130:31-35  | 103:1.6/3-12   | Spirit in man (Spirit of Truth)           | C    |
 | Acts of the Apostles | 2:33        | 596:31-32   | 52:5.6/11-12   | Spirit poured out on all flesh            | R    |
-| Acts of the Apostles | 2:36        | 2066:39     | 194:4.4/15-16  | 2nd part: All filled with spirit          | R    |
+| Acts of the Apostles | 2:36        | 2066:39     | 194:4.4/15-16  | Part 2: All filled with spirit          | R    |
 | Acts of the Apostles | 2:38,41     | 1865:16-17  | 170:5.13/8-11  | Baptism, admission to social order        | C    |
 | Acts of the Apostles | 2:38-39     | 1954:3-4    | 181:1.4/6-7    | As many as receive him blessed            | C    |
 | Acts of the Apostles | 2:41        | 1549:28     | 139:1.6/13-14  | 2,000 souls added to kingdom              | S    |
@@ -184,11 +184,11 @@ type = See _readme
 | Acts of the Apostles | 2:44-45     | 976:25      | 89:3.2/8-9     | Property seen as spiritual handicap       | C    |
 | Acts of the Apostles | 2:45        | 2067:31-32  | 194:4.7/23-26  | Selling of assets                         | S    |
 | Acts of the Apostles | 2:46        | 1558:41-42  | 139:6.5/12-14  | Came to bring gladness                    | C    |
-| Acts of the Apostles | 2:46-47a    | 2066:24-26  | 194:4.3/1-5    | 1st part: They took food gladly           | R    |
+| Acts of the Apostles | 2:46-47a    | 2066:24-26  | 194:4.3/1-5    | Part 1: They took food gladly           | R    |
 | Acts of the Apostles | 3:2,10      | 1379:4      | 125:1.5/3      | Gate Beautiful                            | R    |
 | Acts of the Apostles | 3:16        | 1739:43-48  | 156:5.12/all   | Implicit faith                            | C    |
-| Acts of the Apostles | 3:18        | 2066:37-38  | 194:4.4/12-14  | 2nd part: All filled with spirit          | R    |
-| Acts of the Apostles | 3:19-21a    | 2066:41-44  | 194:4.4/20-24  | 2nd part: All filled with spirit          | R    |
+| Acts of the Apostles | 3:18        | 2066:37-38  | 194:4.4/12-14  | Part 2: All filled with spirit          | R    |
+| Acts of the Apostles | 3:19-21a    | 2066:41-44  | 194:4.4/20-24  | Part 2: All filled with spirit          | R    |
 | Acts of the Apostles | 3:24        | 1062:18     | 97:1.1/1       | Samuel, first Hebrew prophet              | C    |
 | Acts of the Apostles | 3:25        | 1509:26     | 136:1.1/14-15  | Seed of Abraham                           | R    |
 | Acts of the Apostles | 4:10-12     | 2069:10-11  | 195:0.2/4-7    | Proclaimed “gospel”                       | C    |
@@ -211,7 +211,7 @@ type = See _readme
 | Acts of the Apostles | 4:24        | 1409:7      | 128:1.10/22-23 | Creator of heaven & earth                 | C    |
 | Acts of the Apostles | 4:25        | 1725:35-36  | 155:1.3/2-3    | Why do the heathen rage                   | C    |
 | Acts of the Apostles | 4:25-26     | 1725:12-14  | 155:1.1/2-7    | Why do the heathen rage                   | R    |
-| Acts of the Apostles | 4:31b-32    | 2066:26-30  | 194:4.3/6-12   | 2nd part: All filled with spirit          | R    |
+| Acts of the Apostles | 4:31b-32    | 2066:26-30  | 194:4.3/6-12   | Part 2: All filled with spirit          | R    |
 | Acts of the Apostles | 4:32        | 2065:32-33  | 194:3.17/7-8   | Spirit unity                              | R    |
 | Acts of the Apostles | 4:33        | 1957:13-14  | 181:2.11/3-4   | Preach gospel in great power              | S    |
 | Acts of the Apostles | 5:1-10      | 60:16       | 4:5.3/5        | Strike down people in anger               | C    |
@@ -340,7 +340,7 @@ type = See _readme
 | Acts of the Apostles | 13:46-48    | 1843:10     | 168:0.7/4-5    | Whosoever believes never dies             | C    |
 | Acts of the Apostles | 13:46-48    | 35:36-37    | 2:2.1/8        | Eternal life                              | C    |
 | Acts of the Apostles | 13:46-48    | 1337:28     | 121:5.11/5     | Life after death                          | C    |
-| Acts of the Apostles | 13:46-48    | 299:42-43   | 27:1.5/11      | Pt 2: Live forever                        | C    |
+| Acts of the Apostles | 13:46-48    | 299:42-43   | 27:1.5/11      | Part 2: Live forever                        | C    |
 | Acts of the Apostles | 13:46-48    | 44:5-6      | 3:0.1/5-6      | Everlasting life                          | C    |
 | Acts of the Apostles | 13:46-48    | 1861:23     | 170:2.20/6-7   | Eternal / everlasting life                | C    |
 | Acts of the Apostles | 13:46-48    | 1797:19-30  | 162:7.5/all    | Believers never die                       | C    |

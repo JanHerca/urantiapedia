@@ -40,7 +40,7 @@ type = See _readme
 | Deuteronomy | 4:35,39     | 1009:32-33  | 92:5.8/7-8     | One God                            | C    |
 | Deuteronomy | 4:35,39     | 640:19-21   | 56:4.4/1-5     | God is one                         | C    |
 | Deuteronomy | 4:35,39     | 1444:6-7    | 131:2.2/3-5    | One God, none beside Him           | R    |
-| Deuteronomy | 4:35,39     | 1058:27-28  | 96:5.5/6-7     | Pt 2: There is none beside         | R    |
+| Deuteronomy | 4:35,39     | 1058:27-28  | 96:5.5/6-7     | Part 2: There is none beside         | R    |
 | Deuteronomy | 4:39        | 44:26-27    | 3:1.1/5-6      | In heaven above, earth below       | R    |
 | Deuteronomy | 4:39        | 879:34      | 79:1.9/7-8     | One God in heaven                  | R    |
 | Deuteronomy | 5:4-5       | 1599:38     | 142:3.21/1-2   | Mt. Sinai                          | C    |
@@ -76,7 +76,7 @@ type = See _readme
 | Deuteronomy | 5:16        | 751:26-27   | 66:7.15/1-2    | Respect parents / elders           | C    |
 | Deuteronomy | 5:17        | 796:45      | 70:11.2/6      | You shall not kill                 | R    |
 | Deuteronomy | 5:17        | 751:23      | 66:7.12/1-2    | Don't kill people                  | C    |
-| Deuteronomy | 5:17        | 1576:28     | 140:6.4/5      | 1st part: You shall not kill       | R    |
+| Deuteronomy | 5:17        | 1576:28     | 140:6.4/5      | Part 1: You shall not kill       | R    |
 | Deuteronomy | 5:17        | 1790:38     | 162:2.1/24     | Thou shall not kill                | R    |
 | Deuteronomy | 5:18        | 1576:34     | 140:6.5/2      | No adultery                        | R    |
 | Deuteronomy | 5:19        | 751:24      | 66:7.13/1-2    | Don't steal                        | C    |
@@ -88,7 +88,7 @@ type = See _readme
 | Deuteronomy | 5:26        | 2084:25     | 195:10.4/3-4   | God is a living Spirit             | C    |
 | Deuteronomy | 6:4         | 1009:32-33  | 92:5.8/7-8     | Hear, O Israel, one God            | R    |
 | Deuteronomy | 6:4         | 31:36       | 1:7.6/10       | The Lord God is one                | R    |
-| Deuteronomy | 6:4         | 1058:27-28  | 96:5.5/6-7     | Pt 1: The Lord is one God          | R    |
+| Deuteronomy | 6:4         | 1058:27-28  | 96:5.5/6-7     | Part 1: The Lord is one God          | R    |
 | Deuteronomy | 6:4         | 1011:32     | 92:6.6/13      | One God                            | C    |
 | Deuteronomy | 6:4         | 21:8-9      | 1:0.1/7-8      | No God beside you                  | C    |
 | Deuteronomy | 6:4         | 1453:36     | 131:10.2/1     | One God                            | C    |
@@ -116,7 +116,7 @@ type = See _readme
 | Deuteronomy | 7:6-15      | 1071:4-5    | 97:8.3/7-9     | God's promise to chosen people     | C    |
 | Deuteronomy | 7:8         | 1057:19-21  | 96:4.6/13-17   | Nor forget the covenant            | R    |
 | Deuteronomy | 7:9         | 1445:20     | 131:2.8/6-8    | The Lord is faithful               | R    |
-| Deuteronomy | 7:9         | 55:1        | 4:1.3/1        | # 1: God is faithful               | R    |
+| Deuteronomy | 7:9         | 55:1        | 4:1.3/1        | # 1 God is faithful               | R    |
 | Deuteronomy | 7:11        | 1058:39-40  | 96:5.6/13-14   | Keep all commandments              | R    |
 | Deuteronomy | 7:13-15     | 1058:17-21  | 96:5.4/8-15    | He will love you, bless you        | R    |
 | Deuteronomy | 7:16-24     | 784:40-41   | 70:1.15/13     | In name of Lord God of Israel      | R    |
@@ -252,7 +252,7 @@ type = See _readme
 | Deuteronomy | 28:58       | 1057:11     | 96:4.5/14      | Fearful                            | R    |
 | Deuteronomy | 28:all      | 1058:37-38  | 96:5.6/8-10    | God kills when you disobey         | R    |
 | Deuteronomy | 29:12-15    | 965:11-12   | 87:6.9/3-5     | Sacred vows and oaths              | C    |
-| Deuteronomy | 30:2-3      | 1770:47-48  | 159:5.13/1-3   | Repent for forgiveness (OT)        | C    |
+| Deuteronomy | 30:2-3      | 1770:47-48  | 159:5.13/1-3   | Repent for forgiveness (Old Testament)        | C    |
 | Deuteronomy | 30:6,16,20  | 1901:10-20  | 174:4.2/all    | Greatest commandment               | S    |
 | Deuteronomy | 30:6,16,20  | 1206:38-39  | 110:3.8/all    | By loving God                      | C    |
 | Deuteronomy | 30:6,16,20  | 1805:10     | 163:4.8/2-4    | Love God with all your heart       | C    |
@@ -285,6 +285,6 @@ type = See _readme
 | Deuteronomy | 33:27       | 55:6-7      | 4:1.4/4-5      | Eternal God our refuge             | R    |
 | Deuteronomy | 33:27       | 0005:9      | 0:3.2/4        | Eternal God                        | C    |
 | Deuteronomy | 33:27       | 1057:17-18  | 96:4.6/10-12   | Eternal God is my refuge           | R    |
-| Deuteronomy | 33:27       | 41:3        | 2:6.3/5        | Pt 2: God is our refuge            | R    |
-| Deuteronomy | 33:27       | 1662:17-18  | 148:5.5/13-15  | 2nd part: God is my refuge         | R    |
+| Deuteronomy | 33:27       | 41:3        | 2:6.3/5        | Part 2: God is our refuge            | R    |
+| Deuteronomy | 33:27       | 1662:17-18  | 148:5.5/13-15  | Part 2: God is my refuge         | R    |
 | Deuteronomy | 33:29       | 945:24-26   | 85:1.5/3-6     | High places                        | C    |

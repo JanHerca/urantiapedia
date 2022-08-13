@@ -22,7 +22,7 @@ type = See _readme
 | Ezekiel | 3:1-4,10,17   | 1407:26-27  | 128:1.2/1-4    | Son of Man                        | C    |
 | Ezekiel | 3:1-4,10,17   | 1501:22-28  | 135:5.7/8-17   | The Son of Man                    | R    |
 | Ezekiel | 3:1-4,10,17   | 1390:4      | 126:3.6/4      | Son of Man                        | R    |
-| Ezekiel | 3:12          | 1536:6      | 137:8.4/10-11  | pt 6 Blessed be glory of Lord     | R    |
+| Ezekiel | 3:12          | 1536:6      | 137:8.4/10-11  | Part 6: Blessed be glory of Lord    | R    |
 | Ezekiel | 5:13          | 57:44-45    | 4:3.2/1-3      | God said to be angry              | C    |
 | Ezekiel | 5:16-17       | 60:16-17    | 4:5.3/5-7      | Natural catastrophies as curse    | C    |
 | Ezekiel | 10:2,9        | 438:41-44   | 39:5.14/5-10   | Enshrouded by light               | C    |
@@ -145,7 +145,7 @@ type = See _readme
 | Ezekiel | 36:26-27      | 1328:22-23  | 120:2.6/16-17  | Spirit of Truth                   | C    |
 | Ezekiel | 36:26-27      | 377:31-32   | 34:4.1/3-4     | Spirit of Truth                   | C    |
 | Ezekiel | 36:26-27      | 382:11      | 34:7.1/8-9     | Spirit of Truth                   | C    |
-| Ezekiel | 36:27         | 45:12       | 3:1.4/11-12    | Pt 3: Spirit speaks from within   | R    |
+| Ezekiel | 36:27         | 45:12       | 3:1.4/11-12    | Part 3: Spirit speaks from within   | R    |
 | Ezekiel | 36:27         | 45:6-7      | 3:1.4/3        | He lives in us                    | R    |
 | Ezekiel | 36:35         | 492:11      | 43:6.2/7-8     | The garden of Eden                | R    |
 | Ezekiel | 37:14         | 195:45-46   | 16:9.4/6-9     | God's spirit lives in us (T/A)    | C    |

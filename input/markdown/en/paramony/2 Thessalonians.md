@@ -14,7 +14,7 @@ type = See _readme
 | 2 Thessalonians | 1:1-2     | 1454:29-30  | 131:10.6/5-7  | Father-child relationship     | C    |
 | 2 Thessalonians | 1:1-2     | 1454:46-47  | 131:10.8/9-11 | Father-child relationship     | C    |
 | 2 Thessalonians | 1:1-2     | 1676:17-18  | 149:6.8/7-8   | God is our Father             | C    |
-| 2 Thessalonians | 1:7       | 422:4       | 38:6.3/13     | His mighty angels (quotation) | R    |
+| 2 Thessalonians | 1:7       | 422:4       | 38:6.3/13     | His mighty angels  | R    |
 | 2 Thessalonians | 3:10      | 1579:24     | 140:8.2/5-6   | It don't work, don't eat      | C    |
 | 2 Thessalonians | 3:10      | 773:32-33   | 69:2.5/11-12  | If not work, not eat          | R    |
 | 2 Thessalonians | 3:13      | 1897:36     | 174:0.2/50    | Be not weary in well doing    | C    |

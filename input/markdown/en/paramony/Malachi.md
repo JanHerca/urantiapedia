@@ -14,7 +14,7 @@ type = See _readme
 | Malachi | 2:10      | 1453:41-42  | 131:10.2/11-13 | God made all things and beings | C    |
 | Malachi | 2:10      | 1444:5-6    | 131:2.2/1-3    | God created man                | C    |
 | Malachi | 2:10      | 1048:19-21  | 95:5.9/4-7     | God created                    | C    |
-| Malachi | 2:10      | 34:5        | 2:1.2/1-2      | Pt 1: One God, the Father      | R    |
+| Malachi | 2:10      | 34:5        | 2:1.2/1-2      | Part 1: One God, the Father      | R    |
 | Malachi | 2:10      | 0004:12-13  | 0:2.9/all1     | God as Creator of man          | C    |
 | Malachi | 2:10      | 34:6        | 2:1.2/2-3      | Faithful and Divine Creator    | C    |
 | Malachi | 2:10      | 74:11-12    | 6:1.3/8-10     | God made everything            | C    |

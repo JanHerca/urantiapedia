@@ -10,7 +10,7 @@ type = See _readme
 | -------- | ------------ | ----------- | -------------- | ---------------------------------- | ---- |
 | 1 Samuel | 1:3          | 1053:41     | 96:1.9/9       | The Lord of Hosts                  | C    |
 | 1 Samuel | 1:3,11       | 2064:35-36  | 194:3.11/15-17 | No longer Lord of Hosts            | C    |
-| 1 Samuel | 2:2          | 1063:35-36  | 97:1.7/8       | Pt 1: None as holy as Lord         | R    |
+| 1 Samuel | 2:2          | 1063:35-36  | 97:1.7/8       | Part 1: None as holy as Lord         | R    |
 | 1 Samuel | 2:2          | 1009:32-33  | 92:5.8/7-8     | One God                            | C    |
 | 1 Samuel | 2:2          | 1011:32     | 92:6.6/13      | One God                            | C    |
 | 1 Samuel | 2:2          | 1444:6-7    | 131:2.2/3-5    | One God, none beside Him           | R    |
@@ -21,12 +21,12 @@ type = See _readme
 | 1 Samuel | 2:2          | 513:41      | 45:4.8/5       | One God                            | C    |
 | 1 Samuel | 2:2          | 640:19-21   | 56:4.4/1-5     | God is one                         | C    |
 | 1 Samuel | 2:2          | 31:36       | 1:7.6/10       | The Lord God is one                | R    |
-| 1 Samuel | 2:3          | 1063:38-40  | 97:1.8/3-4     | Pt 1: God of knowledge             | R    |
+| 1 Samuel | 2:3          | 1063:38-40  | 97:1.8/3-4     | Part 1: God of knowledge             | R    |
 | 1 Samuel | 2:7-8        | 1063:26-28  | 97:1.6/5-9     | Lord enriches & impoverishes       | R    |
 | 1 Samuel | 2:8          | 1062:38-39  | 97:1.3/11-13   | Pillars of the earth are Lord's    | R    |
 | 1 Samuel | 2:10         | 1409:8      | 128:1.10/24-25 | Judge of all the earth             | C    |
-| 1 Samuel | 2:10         | 1063:38-40  | 97:1.8/5       | Pt 2: Judge ends of earth          | R    |
-| 1 Samuel | 7:3          | 1770:47-48  | 159:5.13/1-3   | Repent for forgiveness (OT)        | C    |
+| 1 Samuel | 2:10         | 1063:38-40  | 97:1.8/5       | Part 2: Judge ends of earth          | R    |
+| 1 Samuel | 7:3          | 1770:47-48  | 159:5.13/1-3   | Repent for forgiveness (Old Testament)        | C    |
 | 1 Samuel | 7:3-4        | 1042:26-28  | 95:1.3/5-8     | Competing “gods” Ashtaroth         | C    |
 | 1 Samuel | 7:3-4        | 1043:10     | 95:1.7/3-4     | Ashtoreth                          | C    |
 | 1 Samuel | 7:3-4        | 1062:33-34  | 97:1.3/1-4     | Rough and ready                    | C    |
@@ -37,7 +37,7 @@ type = See _readme
 | 1 Samuel | 11:8         | 1072:7-8    | 97:9.3/8-11    | Numbers inflated                   | C    |
 | 1 Samuel | 11:14-15     | 1072:11-12  | 97:9.4/5-7     | Facts changed                      | C    |
 | 1 Samuel | 11:15        | 1072:5-7    | 97:9.3/5-8     | Saul made king by troops           | C    |
-| 1 Samuel | 12:10        | 1042:26-28  | 95:1.3/5-8     | Compet. “gods” Baal, Ashtaroth     | C    |
+| 1 Samuel | 12:10        | 1042:26-28  | 95:1.3/5-8     | Competing “gods” Baal, Ashtaroth     | C    |
 | 1 Samuel | 12:10        | 1043:10     | 95:1.7/3-4     | Ashtoreth                          | C    |
 | 1 Samuel | 12:17-18     | 947:17-19   | 85:4.3/1-5     | Unwelcomed rain                    | C    |
 | 1 Samuel | 12:22        | 45:7-8      | 3:1.4/4-5      | He will not forsake                | C    |

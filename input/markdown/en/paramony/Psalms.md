@@ -10,7 +10,7 @@ type = See _readme
 | ------ | -------------- | ----------- | -------------- | ----------------------------------------- | ---- |
 | Psalms | 1:1-3          | 1662:43-45  | 148:6.2/11-14  | Job: God blesses faithful                 | C    |
 | Psalms | 1:6            | 1444:40-41  | 131:2.6/3-4    | God knows way of righteous                | R    |
-| Psalms | 1:all          | 1047:1-3    | 95:4.5/6-8     | Amenemope wrote 1st Psalm                 | S    |
+| Psalms | 1:all          | 1047:1-3    | 95:4.5/6-8     | Amenemope wrote first Psalm                 | S    |
 | Psalms | 2:1            | 1725:35-36  | 155:1.3/2-3    | Why do the heathen rage                   | C    |
 | Psalms | 2:4-5          | 1725:19-21  | 155:1.2/7-10   | Correcting views of God                   | C    |
 | Psalms | 2:7            | 1671:40-41  | 149:2.10/17-19 | Sons of living God                        | C    |
@@ -87,7 +87,7 @@ type = See _readme
 | Psalms | 19:1           | 1107:5-7    | 101:2.9/5-8    | God's handiwork                           | C    |
 | Psalms | 19:1-3         | 1444:10-12  | 131:2.2/10-14  | Heavens declare glory of God              | R    |
 | Psalms | 19:6           | 45:3-5      | 3:1.3/2-5      | He goes from heaven                       | R    |
-| Psalms | 19:12-13       | 1640:15-17  | 146:2.13/6-11  | 2nd part: Purge me from sins              | R    |
+| Psalms | 19:12-13       | 1640:15-17  | 146:2.13/6-11  | Part 2: Purge me from sins              | R    |
 | Psalms | 2:1-3          | 1725:12-15  | 155:1.1/2-9    | Why do the heathen rage                   | R    |
 | Psalms | 2:5            | 191:34-38   | 16:6.2/5-13    | Mind of Jesus                             | C    |
 | Psalms | 2:7            | 366:15      | 33:1.1/5-6     | Only begotten Son                         | C    |
@@ -111,7 +111,7 @@ type = See _readme
 | Psalms | 24:1           | 51:4-5      | 3:5.2/7-8      | Earth is Lord's, and fullness             | R    |
 | Psalms | 24:3-4         | 492:14-16   | 43:6.3/4-8     | Who shall ascend the hill                 | R    |
 | Psalms | 24:5           | 41:6        | 2:6.3/11       | God of salvation                          | C    |
-| Psalms | 24:8           | 1058:42     | 96:5.7/4       | Pt 3: A God of battles                    | R    |
+| Psalms | 24:8           | 1058:42     | 96:5.7/4       | Part 3: A God of battles                    | R    |
 | Psalms | 24:8           | 784:35      | 70:1.15/4      | God of battles                            | R    |
 | Psalms | 24:10          | 2064:35-36  | 194:3.11/15-17 | No longer Lord of Hosts                   | C    |
 | Psalms | 25:5           | 41:6        | 2:6.3/11       | God of salvation                          | C    |
@@ -138,7 +138,7 @@ type = See _readme
 | Psalms | 33:6           | 234:3-4     | 21:0.1/1-3     | Creator Sons                              | C    |
 | Psalms | 33:6           | 235:37-38   | 21:2.1/1-4     | Creator Sons create                       | C    |
 | Psalms | 33:6           | 319:3-5     | 29:0.1/1-5     | Physical creation                         | C    |
-| Psalms | 33:6           | 21:8-12     | 1:0.1/11-12    | Pt 2: By sons of God all made             | R    |
+| Psalms | 33:6           | 21:8-12     | 1:0.1/11-12    | Part 2: By sons of God all made             | R    |
 | Psalms | 33:12          | 1018:25     | 93:5.1/2       | Chosen people                             | R    |
 | Psalms | 33:12          | 1055:6      | 96:2.3/5-6     | Chosen people                             | C    |
 | Psalms | 33:12          | 1065:37     | 97:4.2/21      | Chosen people                             | C    |
@@ -149,7 +149,7 @@ type = See _readme
 | Psalms | 34:8           | 1444:20-21  | 131:2.3/11-12  | Taste & see that God is good              | R    |
 | Psalms | 34:8           | 42:41-42    | 2:7.6/11-12    | Spiritual flavor                          | C    |
 | Psalms | 34:8           | 41:5        | 2:6.3/8-9      | Taste and see / blessed                   | R    |
-| Psalms | 34:8           | 41:3        | 2:6.3/4        | Pt 1: God is good                         | R    |
+| Psalms | 34:8           | 41:3        | 2:6.3/4        | Part 1: God is good                         | R    |
 | Psalms | 34:9,11        | 1675:6      | 149:6.1/3-4    | Fear the Lord                             | R    |
 | Psalms | 34:15          | 55:10-11    | 4:1.4/11-13    | Eyes of Lord are over righteous           | R    |
 | Psalms | 34:15          | 95:22-23    | 8:4.8/7-10     | Divine ears ever open                     | R    |
@@ -189,7 +189,7 @@ type = See _readme
 | Psalms | 46:7,11        | 1057:17-18  | 96:4.6/10-12   | God of Jacob is my refuge                 | R    |
 | Psalms | 46:7,11        | 1011:32     | 92:6.6/12      | Lord God of hosts                         | C    |
 | Psalms | 46:10          | 1453:42-43  | 131:10.2/13-14 | We can know God                           | C    |
-| Psalms | 47:2           | 1536:5      | 137:8.4/8-9    | pt 4 He is a great king                   | R    |
+| Psalms | 47:2           | 1536:5      | 137:8.4/8-9    | Part 4: He is a great king                  | R    |
 | Psalms | 50:15          | 1567:4      | 139:12.7/15-16 | Whosoever will may come                   | C    |
 | Psalms | 50:15          | 39:7        | 2:5.2/8-9      | Whosoever will may come                   | C    |
 | Psalms | 50:15          | 1820:44-45  | 165:3.8/13-14  | Whosoever will may come                   | C    |
@@ -201,7 +201,7 @@ type = See _readme
 | Psalms | 51:10          | 1769:24     | 159:5.2/all    | Create in me a clean heart                | R    |
 | Psalms | 51:10          | 1610:10-12  | 143:2.6/14-17  | Cleansing self                            | C    |
 | Psalms | 51:10          | 1340:26-27  | 121:7.5/9-10   | Create clean heart, new spirit            | R    |
-| Psalms | 51:10          | 1640:15-17  | 146:2.13/6-11  | 1st part: Create a clean heart            | R    |
+| Psalms | 51:10          | 1640:15-17  | 146:2.13/6-11  | Part 1: Create a clean heart            | R    |
 | Psalms | 51:10          | 1609:30-34  | 143:2.4/1-9    | Transformation                            | C    |
 | Psalms | 51:10-11       | 1130:31-35  | 103:1.6/3-12   | Spirit in man (Holy Spirit)               | C    |
 | Psalms | 51:10-11       | 95:38-40    | 8:5.3/1-4      | Spirit of God (Holy Spirit)               | C    |
@@ -227,7 +227,7 @@ type = See _readme
 | Psalms | 66:18          | 1445:23     | 131:2.8/11-13  | God does not hear iniquitous              | R    |
 | Psalms | 68:4           | 1053:41     | 96:1.9/9       | Jah                                       | C    |
 | Psalms | 68:10          | 34:10       | 2:1.2/11       | God is bountiful                          | C    |
-| Psalms | 68:19-20       | 41:5-6      | 2:6.3/10-11    | Pt 2: God of salvation                    | R    |
+| Psalms | 68:19-20       | 41:5-6      | 2:6.3/10-11    | Part 2: God of salvation                    | R    |
 | Psalms | 69:4           | 1947:13     | 180:3.2/17     | They hated without cause                  | R    |
 | Psalms | 69:30-31       | 1640:46-48  | 146:2.16/9-13  | Praise God with song                      | R    |
 | Psalms | 69:32          | 24:10       | 1:2.3/13       | God seeking                               | C    |
@@ -239,9 +239,9 @@ type = See _readme
 | Psalms | 72:17          | 2035:23-24  | 190:5.4/29     | Nations call Him blessed                  | C    |
 | Psalms | 72:19          | 1444:36-37  | 131:2.5/7-8    | Let earth be filled with glory            | R    |
 | Psalms | 73:1           | 317:12      | 28:6.21/1-3    | God is good                               | C    |
-| Psalms | 73:1           | 41:3        | 2:6.3/4        | Pt 1: God is good                         | R    |
+| Psalms | 73:1           | 41:3        | 2:6.3/4        | Part 1: God is good                         | R    |
 | Psalms | 74:2           | 945:26-27   | 85:1.5/6-8     | Holy mountains                            | C    |
-| Psalms | 77:19          | 33:35-36    | 2:1.1/2-3      | Pt 2: Divine footsteps                    | R    |
+| Psalms | 77:19          | 33:35-36    | 2:1.1/2-3      | Part 2: Divine footsteps                    | R    |
 | Psalms | 78:17,35,56    | 1016:25     | 93:3.2/12      | Most High                                 | C    |
 | Psalms | 78:17,35,56    | 1015:21-23  | 93:2.3/5-9     | Most High God                             | C    |
 | Psalms | 78:17,35,56    | 488:15      | 43:3.1/1       | Most Highs                                | C    |
@@ -249,7 +249,7 @@ type = See _readme
 | Psalms | 79:9           | 41:6        | 2:6.3/11       | God of salvation                          | C    |
 | Psalms | 8:5            | 445:20-21   | 40:5.2/5-7     | You are a little lower than angels        | C    |
 | Psalms | 8:5            | 441:8       | 39:8.7/3       | Angels created a little higher            | R    |
-| Psalms | 80:4,19        | 421:45      | 38:6.2/14      | Lord God of hosts (quotation) (quotation) | R    |
+| Psalms | 80:4,19        | 421:45      | 38:6.2/14      | Lord God of hosts  | R    |
 | Psalms | 80:14          | 879:34      | 79:1.9/7-8     | One God in heaven                         | C    |
 | Psalms | 82:5-8         | 1794:43     | 162:4.4/40-41  | Psalm 82 verses 5-8                       | S    |
 | Psalms | 82:6           | 1661:6      | 148:4.10/2-3   | You are God's children                    | R    |
@@ -262,7 +262,7 @@ type = See _readme
 | Psalms | 83:18          | 1598:16-20  | 142:3.3/all    | Yahweh, God of Sinai clans                | S    |
 | Psalms | 83:18          | 1053:43     | 96:1.10/1      | Jehovah (Yahweh)                          | C    |
 | Psalms | 84:2           | 836:20-21   | 74:7.7/5-6     | Desire of the soul                        | R    |
-| Psalms | 84:3           | 1536:4-5    | 137:8.4/7-8    | pt 3, Yahweh is king, God                 | R    |
+| Psalms | 84:3           | 1536:4-5    | 137:8.4/7-8    | Part 3: Yahweh is king, God                 | R    |
 | Psalms | 84:11          | 34:12       | 2:1.2/13-14    | He imparts Himself to men                 | C    |
 | Psalms | 84:11          | 1445:29     | 131:2.9/4-6    | God withholds no good thing               | R    |
 | Psalms | 84:12          | 41:5        | 2:6.3/9        | Blessed is he who trusts                  | R    |
@@ -283,9 +283,9 @@ type = See _readme
 | Psalms | 86:10          | 1011:32     | 92:6.6/13      | One God                                   | C    |
 | Psalms | 86:15          | 39:40       | 2:5.7/11       | God is merciful                           | C    |
 | Psalms | 88:1           | 41:6        | 2:6.3/11       | God of salvation                          | C    |
-| Psalms | 89:6           | 1063:35-36  | 97:1.7/8-9     | Pt 2: Who can compare                     | R    |
+| Psalms | 89:6           | 1063:35-36  | 97:1.7/8-9     | Part 2: Who can compare                     | R    |
 | Psalms | 89:7           | 495:20-21   | 43:9.1/4       | Assemblies of Paradise                    | R    |
-| Psalms | 89:18          | 1536:6      | 137:8.4/11     | pt 7 For he is our king                   | R    |
+| Psalms | 89:18          | 1536:6      | 137:8.4/11     | Part 7: For he is our king                  | R    |
 | Psalms | 89:26          | 23:24       | 1:1.5/16       | Calling God “our Father”                  | R    |
 | Psalms | 89:26          | 22:28-30    | 1:1.1/12-14    | Calling God “our Father”                  | C    |
 | Psalms | 89:26          | 25:4        | 1:3.1/5        | Offspring of God                          | C    |
@@ -347,7 +347,7 @@ type = See _readme
 | Psalms | 103:17         | 1444:23-24  | 131:2.4/1-4    | Mercy of God is everlasting               | R    |
 | Psalms | 103:17         | 38:10-11    | 2:4.1/9-10     | His mercy is everlasting                  | R    |
 | Psalms | 104:1-32       | 0004:12-13  | 0:2.9/all      | God as Controller                         | C    |
-| Psalms | 104:2          | 21:8-12     | 1:0.1/12-14    | Pt 3: Creator covers self                 | R    |
+| Psalms | 104:2          | 21:8-12     | 1:0.1/12-14    | Part 3: Creator covers self                 | R    |
 | Psalms | 104:2-9        | 319:3-5     | 29:0.1/1-5     | Physical creation                         | C    |
 | Psalms | 104:4          | 947:16      | 85:4.2/18      | Angels of fire                            | C    |
 | Psalms | 104:24         | 1444:12-13  | 131:2.2/15-16  | In wisdom He made all things              | R    |
@@ -395,7 +395,7 @@ type = See _readme
 | Psalms | 111:1          | 495:20-21   | 43:9.1/4       | Assemblies of Paradise                    | R    |
 | Psalms | 111:2          | 1444:12     | 131:2.2/15     | Lord's work is great                      | R    |
 | Psalms | 111:4          | 1444:24-25  | 131:2.4/4-5    | God gracious, compassionate               | R    |
-| Psalms | 111:4          | 41:5-6      | 2:6.3/10-11    | Pt 1: Lord is gracious                    | R    |
+| Psalms | 111:4          | 41:5-6      | 2:6.3/10-11    | Part 1: Lord is gracious                    | R    |
 | Psalms | 111:6          | 23:15       | 1:1.4/16       | God's power                               | C    |
 | Psalms | 111:6          | 1454:2      | 131:10.3/10-11 | God is all powerful                       | C    |
 | Psalms | 111:6          | 1598:40     | 142:3.7/4      | All-powerful                              | C    |
@@ -445,15 +445,15 @@ type = See _readme
 | Psalms | 118:1-29       | 1943:12-14  | 179:5.10/all   | Ended by singing hymn                     | S    |
 | Psalms | 118:9          | 1704:17-18  | 152:5.3/17-18  | Better to trust Lord than princes         | R    |
 | Psalms | 118:22         | 1894:23-24  | 173:4.4/11-13  | Becomes cornerstone                       | C    |
-| Psalms | 118:26         | 1882:12     | 172:3.9/12-13  | Blessed is he who comes --                | R    |
+| Psalms | 118:26         | 1882:12     | 172:3.9/12-13  | Blessed is he who comes —                | R    |
 | Psalms | 119:103        | 42:41-42    | 2:7.6/11-12    | Spiritual flavor                          | C    |
 | Psalms | 119:165        | 1446:5-6    | 131:2.12/1-3   | Great peace to lovers of law              | R    |
 | Psalms | 119:165        | 66:47       | 5:4.2/3        | Lasting peace                             | C    |
-| Psalms | 119:172        | 55:1        | 4:1.3/1-2      | # 2: God's laws are just                  | R    |
-| Psalms | 119:67         | 1662:15     | 148:5.5/10-11  | 1st pt. Before afflicted, strayed         | R    |
-| Psalms | 119:71         | 1662:15-16  | 148:5.5/11-13  | 2nd pt. Affliction good for me            | R    |
+| Psalms | 119:172        | 55:1        | 4:1.3/1-2      | # 2 God's laws are just                  | R    |
+| Psalms | 119:67         | 1662:15     | 148:5.5/10-11  | Part 1: Before afflicted, strayed         | R    |
+| Psalms | 119:71         | 1662:15-16  | 148:5.5/11-13  | Part 2: Affliction good for me            | R    |
 | Psalms | 119:89-90      | 55:2-4      | 4:1.3/3-6      | Word settled in heaven                    | R    |
-| Psalms | 119:93         | 399:35-39   | 36:3.4/all     | Vital spark--mystery of life              | C    |
+| Psalms | 119:93         | 399:35-39   | 36:3.4/all     | Vital spark—mystery of life              | C    |
 | Psalms | 121:1          | 945:26-27   | 85:1.5/6-8     | Holy mountains                            | C    |
 | Psalms | 121:2          | 21:9-10     | 1:0.1/8-11     | God created heaven & earth                | C    |
 | Psalms | 121:2          | 1598:38     | 142:3.7/3      | Universal Creator                         | C    |
@@ -467,7 +467,7 @@ type = See _readme
 | Psalms | 121:2          | 1454:28-29  | 131:10.6/4     | The Creator                               | C    |
 | Psalms | 121:2          | 34:6        | 2:1.2/2-3      | Faithful and Divine Creator               | C    |
 | Psalms | 121:4          | 55:8-9      | 4:1.4/8-9      | Shall neither slumber, sleep              | R    |
-| Psalms | 121:8          | 1372:33-34  | 124:4.7/8-10   | Lord preserves going out ..               | R    |
+| Psalms | 121:8          | 1372:33-34  | 124:4.7/8-10   | Lord preserves going out ...               | R    |
 | Psalms | 124:8          | 0004:12-13  | 0:2.9/all      | God as Creator of heaven, earth           | C    |
 | Psalms | 124:8          | 21:9-10     | 1:0.1/8-11     | God created heaven & earth                | C    |
 | Psalms | 124:8          | 1453:41-42  | 131:10.2/11-13 | God made all things and beings            | C    |
@@ -505,7 +505,7 @@ type = See _readme
 | Psalms | 136:2          | 513:45      | 45:4.10/3      | The God of Gods                           | R    |
 | Psalms | 136:2-3        | 0004:18-22  | 0:2.12/all     | God the Supreme                           | C    |
 | Psalms | 136:26         | 879:34      | 79:1.9/7-8     | One God in heaven                         | C    |
-| Psalms | 138:2          | 1536:5-6    | 137:8.4/9-10   | pt 5 Loving-kindness                      | R    |
+| Psalms | 138:2          | 1536:5-6    | 137:8.4/9-10   | Part 5: Loving-kindness                     | R    |
 | Psalms | 139:2-3        | 49:11-13    | 3:3.2/14-17    | God knows doing & thinking                | R    |
 | Psalms | 139:7          | 377:33      | 34:4.1/5-6     | Holy Spirit                               | C    |
 | Psalms | 139:7          | 44:27-28    | 3:1.1/7-9      | Where go to avoid God?                    | R    |
@@ -528,7 +528,7 @@ type = See _readme
 | Psalms | 143:10         | 0008:42     | 0:5.10/3-4     | People do Father's will                   | R    |
 | Psalms | 143:10         | 1453:43-44  | 131:10.2/14-16 | Live the will of Father, reveal Him       | C    |
 | Psalms | 143:10         | 1278:5-7    | 117:0.1/5-6    | Do will of God                            | C    |
-| Psalms | 145:3          | 33:36       | 2:1.1/4        | Pt 2: Greatness unsearchable              | R    |
+| Psalms | 145:3          | 33:36       | 2:1.1/4        | Part 2: Greatness unsearchable              | R    |
 | Psalms | 145:3          | 1444:13     | 131:2.2/16-17  | His greatness unsearchable                | R    |
 | Psalms | 145:8          | 1598:40     | 142:3.7/4-5    | All-merciful                              | C    |
 | Psalms | 145:8          | 1454:29     | 131:10.6/5     | The Mercy                                 | C    |
@@ -536,7 +536,7 @@ type = See _readme
 | Psalms | 145:8          | 1444:24-25  | 131:2.4/4-5    | God gracious, compassionate               | R    |
 | Psalms | 145:8          | 39:40       | 2:5.7/11       | God is merciful                           | C    |
 | Psalms | 145:8          | 75:30-31    | 6:3.2/1-3      | Mercy ministry                            | C    |
-| Psalms | 145:8          | 41:5-6      | 2:6.3/10-11    | Pt 1: Lord is gracious                    | R    |
+| Psalms | 145:8          | 41:5-6      | 2:6.3/10-11    | Part 1: Lord is gracious                    | R    |
 | Psalms | 145:9          | 1444:25-26  | 131:2.4/5-6    | God is good, tender mercies               | R    |
 | Psalms | 145:13         | 1445:10-11  | 131:2.7/10-12  | Kingdom is everlasting                    | R    |
 | Psalms | 145:14         | 0004:12-13  | 0:2.9/all      | God as Upholder                           | C    |
@@ -555,7 +555,7 @@ type = See _readme
 | Psalms | 146:6          | 1444:5-6    | 131:2.2/1-3    | God created everything                    | C    |
 | Psalms | 146:6          | 0004:12-13  | 0:2.9/all      | God as Creator of everything              | C    |
 | Psalms | 146:6          | 21:9-10     | 1:0.1/8-11     | God created heaven & earth                | C    |
-| Psalms | 147:3          | 41:6-8      | 2:6.3/11-13    | Pt 1: He heals brokenhearted              | R    |
+| Psalms | 147:3          | 41:6-8      | 2:6.3/11-13    | Part 1: He heals brokenhearted              | R    |
 | Psalms | 147:3          | 1444:26     | 131:2.4/6-8    | Heals brokenhearted & binds               | R    |
 | Psalms | 147:3          | 1662:22-23  | 148:5.5/23-24  | He heals the brokenhearted                | R    |
 | Psalms | 147:4          | 1444:14     | 131:2.2/17-18  | He knows name, number of stars            | R    |
@@ -564,7 +564,7 @@ type = See _readme
 | Psalms | 147:4          | 458:8       | 41:3.1/1       | Our starry associates                     | C    |
 | Psalms | 147:4          | 165:46-47   | 15:2.1/1-2     | Star's name & number                      | C    |
 | Psalms | 147:5          | 1598:40     | 142:3.7/4      | All-powerful                              | C    |
-| Psalms | 147:5          | 33:36       | 2:1.1/3        | Pt 1: Understanding is infinite           | R    |
+| Psalms | 147:5          | 33:36       | 2:1.1/3        | Part 1: Understanding is infinite           | R    |
 | Psalms | 147:5          | 1444:15     | 131:2.3/1-3    | Power great, understanding                | R    |
 | Psalms | 147:5          | 1454:2      | 131:10.3/10-11 | God is all powerful                       | C    |
 | Psalms | 147:5          | 1454:29     | 131:10.6/4     | The Power                                 | C    |

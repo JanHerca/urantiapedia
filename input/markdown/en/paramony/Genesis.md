@@ -25,7 +25,7 @@ type = See _readme
 | Genesis | 1:1-27         | 0004:12-13  | 0:2.9/all      | God as Creator of everything       | C    |
 | Genesis | 1:1-31         | 836:44-45   | 74:8.1/1-4     | Tradition of creation              | C    |
 | Genesis | 1:1ff          | 111:5       | 10:3.3/3       | Act of God                         | R    |
-| Genesis | 1:1ff          | 34:13-14    | 2:1.2/16-18    | Pt 2: Cause of causes              | R    |
+| Genesis | 1:1ff          | 34:13-14    | 2:1.2/16-18    | Part 2: Cause of causes              | R    |
 | Genesis | 1:2            | 377:33      | 34:4.1/5-6     | Holy Spirit                        | C    |
 | Genesis | 1:2            | 1053:39     | 96:1.9/4       | The Spirit of God                  | C    |
 | Genesis | 1:2            | 1130:31-35  | 103:1.6/3-12   | Spirit in man (Holy Spirit)        | C    |
@@ -80,7 +80,7 @@ type = See _readme
 | Genesis | 2:7            | 700:12      | 61:6.1/1-2     | Early man                          | C    |
 | Genesis | 2:7            | 716:1-2     | 63:6.1/7-8     | Breath giver                       | R    |
 | Genesis | 2:7            | 376:20      | 34:2.5/16      | Breath of life                     | R    |
-| Genesis | 2:7            | 953:6       | 86:4.3/3       | (Italics) Breath of life           | R    |
+| Genesis | 2:7            | 953:6       | 86:4.3/3       | Breath of life           | R    |
 | Genesis | 2:7            | 932:1-2     | 84:1.3/13-15   | Breath of life                     | C    |
 | Genesis | 2:7            | 769:32-33   | 68:6.1/4-5     | Dust you are, to dust return       | R    |
 | Genesis | 2:7            | 707:42-43   | 62:5.1/1-3     | First human beings                 | C    |
@@ -270,7 +270,7 @@ type = See _readme
 | Genesis | 14:18-20,22    | 1016:25     | 93:3.2/12      | Most High                          | C    |
 | Genesis | 14:18-22       | 1598:21-27  | 142:3.4/all    | El Elyon, the Most High God        | S    |
 | Genesis | 14:18-22       | 1053:10-12  | 96:1.4/1-5     | El Elyon                           | C    |
-| Genesis | 14:18ff        | 1018:6      | 93:4.14/7-9    | Melchizedek, king of Salem ..      | R    |
+| Genesis | 14:18ff        | 1018:6      | 93:4.14/7-9    | Melchizedek, king of Salem ...      | R    |
 | Genesis | 14:18ff        | 514:16      | 45:4.16/4-5    | Machiventa Melchizedek             | R    |
 | Genesis | 14:18ff        | 491:43-44   | 43:5.17/15-16  | Melchizedek, king of Salem         | R    |
 | Genesis | 14:20          | 491:45-46   | 43:5.17/19-20  | Blessed be the Most High           | R    |
@@ -343,7 +343,7 @@ type = See _readme
 | Genesis | 18:14          | 1757:34-35  | 158:5.2/28-29  | All things possible to believers   | C    |
 | Genesis | 18:14          | 1453:41     | 131:10.2/10-11 | With God, all things possible      | C    |
 | Genesis | 18:14          | 1803:34-40  | 163:3.2/all    | With God, nothing is impossible    | S    |
-| Genesis | 18:14          | 34:13-14    | 2:1.2/16-17    | Pt 1: All things possible          | R    |
+| Genesis | 18:14          | 34:13-14    | 2:1.2/16-17    | Part 1: All things possible          | R    |
 | Genesis | 18:14          | 291:26-27   | 26:5.3/13-15   | With God nothing impossible        | R    |
 | Genesis | 18:14          | 46:42       | 3:2.2/3        | With God all things possible       | R    |
 | Genesis | 18:16-33       | 1021:18-22  | 93:6.7/5-11    | Fact and myth                      | C    |
@@ -413,7 +413,7 @@ type = See _readme
 | Genesis | 31:54          | 1018:12-13  | 93:4.14/17-20  | Belief in sacrifice                | C    |
 | Genesis | 32:32          | 1055:6      | 96:2.3/4       | Children of Israel                 | C    |
 | Genesis | 35:11          | 836:29      | 74:7.8/9       | Loins of the father                | R    |
-| Genesis | 35:11          | 1058:42     | 96:5.7/3       | Pt 1: The Almighty                 | R    |
+| Genesis | 35:11          | 1058:42     | 96:5.7/3       | Part 1: The Almighty                 | R    |
 | Genesis | 36:9,43        | 789:40-41   | 70:6.2/4       | Father of his people               | R    |
 | Genesis | 37:19          | 1023:21-22  | 93:9.5/8-10    | Dreamer                            | C    |
 | Genesis | 37:23-28       | 1387:17-18  | 126:1.2/13-16  | Joseph sold                        | C    |

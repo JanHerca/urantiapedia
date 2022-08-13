@@ -56,7 +56,7 @@ type = See _readme
 | Jeremiah | 10:12     | 1598:40     | 142:3.7/4      | All-powerful                     | C    |
 | Jeremiah | 10:13     | 947:17-19   | 85:4.3/1-5     | Unwelcomed rain                  | C    |
 | Jeremiah | 10:16     | 47:20       | 3:2.5/5-6      | Source of all things             | C    |
-| Jeremiah | 12:1      | 1067:43-45  | 97:6.4/1-6     | Pt 1: Righteous is Lord          | R    |
+| Jeremiah | 12:1      | 1067:43-45  | 97:6.4/1-6     | Part 1: Righteous is Lord          | R    |
 | Jeremiah | 12:2      | 1677:3-4    | 149:6.12/2-4   | Near in mouth, far in heart      | R    |
 | Jeremiah | 15:5-6    | 1074:37     | 97:9.22/14-15  | Jeremiah: Jerusalem to fall      | C    |
 | Jeremiah | 15:9      | 954:8       | 86:5.2/5       | Give up the ghost                | R    |
@@ -72,7 +72,7 @@ type = See _readme
 | Jeremiah | 23:4      | 1675:18-19  | 149:6.3/1-4    | Meanings of fear                 | C    |
 | Jeremiah | 23:5-6    | 1946:1-2    | 180:2.3/1-3    | Stem or branch of vine           | C    |
 | Jeremiah | 23:6      | 1682:39     | 150:5.2/16-17  | The Lord our righteousness       | R    |
-| Jeremiah | 23:23     | 45:11-12    | 3:1.4/11-13    | Pt 1: God not far off            | R    |
+| Jeremiah | 23:23     | 45:11-12    | 3:1.4/11-13    | Part 1: God not far off            | R    |
 | Jeremiah | 23:23-24  | 44:29-30    | 3:1.2/1-3      | God at hand & far away           | R    |
 | Jeremiah | 23:24     | 1444:30-31  | 131:2.4/14-15  | No hiding from God               | R    |
 | Jeremiah | 23:25-26  | 954:40-41   | 86:5.7/4-6     | God “speaking” in dreams         | C    |
@@ -132,9 +132,9 @@ type = See _readme
 | Jeremiah | 32:17     | 1598:40     | 142:3.7/4      | All-powerful                     | C    |
 | Jeremiah | 32:17     | 1454:29     | 131:10.6/4     | The Power                        | C    |
 | Jeremiah | 32:17     | 1598:38     | 142:3.7/3      | Universal Creator                | C    |
-| Jeremiah | 32:17     | 34:13-14    | 2:1.2/16-17    | Pt 1: All things possible        | R    |
+| Jeremiah | 32:17     | 34:13-14    | 2:1.2/16-17    | Part 1: All things possible        | R    |
 | Jeremiah | 32:18-19  | 36:2-3      | 2:2.2/7-9      | God is immutable, infallible     | C    |
-| Jeremiah | 32:19     | 1067:43-45  | 97:6.4/1-6     | Pt 2: Great in counsel           | R    |
+| Jeremiah | 32:19     | 1067:43-45  | 97:6.4/1-6     | Part 2: Great in counsel           | R    |
 | Jeremiah | 32:27     | 1803:34-40  | 163:3.2/all    | With God, nothing is impossible  | S    |
 | Jeremiah | 32:27     | 46:42       | 3:2.2/3        | With God all things possible     | R    |
 | Jeremiah | 32:27     | 291:26-27   | 26:5.3/13-15   | With God nothing impossible      | R    |
@@ -143,12 +143,12 @@ type = See _readme
 | Jeremiah | 32:27     | 1453:41     | 131:10.2/10-11 | With God, all things possible    | C    |
 | Jeremiah | 32:35     | 947:26-28   | 85:4.4/7-11    | Fire reverence                   | C    |
 | Jeremiah | 32:40     | 1340:24-25  | 121:7.5/6-7    | Law written in men's hearts      | R    |
-| Jeremiah | 33:11     | 41:3        | 2:6.3/4        | Pt 1: God is good                | R    |
+| Jeremiah | 33:11     | 41:3        | 2:6.3/4        | Part 1: God is good                | R    |
 | Jeremiah | 33:15     | 1946:1-2    | 180:2.3/1-3    | Stem or branch of vine           | C    |
 | Jeremiah | 33:16     | 1682:39     | 150:5.2/16-17  | The Lord our righteousness       | R    |
-| Jeremiah | 35:15     | 1770:47-48  | 159:5.13/1-3   | Repent for forgiveness (OT)      | C    |
+| Jeremiah | 35:15     | 1770:47-48  | 159:5.13/1-3   | Repent for forgiveness (Old Testament)      | C    |
 | Jeremiah | 35:17     | 1011:32     | 92:6.6/12      | Lord God of hosts                | C    |
-| Jeremiah | 36:3      | 1770:47-48  | 159:5.13/1-3   | Repent for forgiveness (OT)      | C    |
+| Jeremiah | 36:3      | 1770:47-48  | 159:5.13/1-3   | Repent for forgiveness (Old Testament)      | C    |
 | Jeremiah | 38:2-3    | 1068:1-2    | 97:6.4/10-11   | Jeremiah counsels surrender      | C    |
 | Jeremiah | 38:2-3    | 1075:6-7    | 97:9.25/11-12  | Warning of doom                  | C    |
 | Jeremiah | 38:2-9    | 1075:10-11  | 97:9.26/1-3    | Utter destruction                | R    |

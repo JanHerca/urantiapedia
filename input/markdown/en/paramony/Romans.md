@@ -153,7 +153,7 @@ type = See _readme
 | Romans | 6:22-23        | 1711:36-37  | 153:2.11/all   | Believers have eternal life         | C    |
 | Romans | 6:23           | 1965:38     | 182:1.10/10    | I am the secret of survival         | C    |
 | Romans | 6:23           | 1204:46-47  | 110:2.2/6      | Survival is gift                    | C    |
-| Romans | 6:23           | 45:6-8      | 3:1.4/4-5      | Pt 2: Gift close companion          | R    |
+| Romans | 6:23           | 45:6-8      | 3:1.4/4-5      | Part 2: Gift close companion          | R    |
 | Romans | 6:23           | 529:18      | 46:8.4/5       | The wages of sin is death           | R    |
 | Romans | 6:23           | 975:40-41   | 89:2.2/10-11   | Death and sin                       | C    |
 | Romans | 6:23           | 23:14-15    | 1:1.4/15       | Gift of life                        | C    |
@@ -175,7 +175,7 @@ type = See _readme
 | Romans | 8:9-11         | 2084:24     | 195:10.4/1     | God's kingdom is within you         | S    |
 | Romans | 8:9-11         | 1204:13-16  | 110:1.5/1-7    | Body is tabernacle                  | C    |
 | Romans | 8:9-11         | 1130:31-35  | 103:1.6/3-12   | Spirit in man (Thought Adjuster)    | C    |
-| Romans | 8:9-11         | 381:2-3     | 34:6.7/3-4     | U R temple; God dwells in you       | R    |
+| Romans | 8:9-11         | 381:2-3     | 34:6.7/3-4     | You are the temple of God; God dwells in you       | R    |
 | Romans | 8:9-11         | 1588:41-43  | 141:2.1/33-36  | Spirit of God within us             | C    |
 | Romans | 8:9-11         | 1474:33     | 133:4.5/8-9    | God's spirit lives in us            | C    |
 | Romans | 8:9-11         | 1664:25     | 148:6.10/17-18 | God dwells within you               | C    |
@@ -270,7 +270,7 @@ type = See _readme
 | Romans | 8:34-39        | 2092:40-43  | 196:2.5/12-16  | Exaltation of risen Christ          | C    |
 | Romans | 8:35-39        | 1608:28-30  | 143:1.6/7-11   | Demands courageous service          | C    |
 | Romans | 8:37           | 2084:9      | 195:10.1/15    | More than conquerors                | C    |
-| Romans | 8:38-39        | 1101:9-12   | 100:6.6/8-13   | I am persuaded--inseparable         | R    |
+| Romans | 8:38-39        | 1101:9-12   | 100:6.6/8-13   | I am persuaded—inseparable         | R    |
 | Romans | 9:24           | 1568:30-31  | 140:1.2/6-7    | Not the God of Jew or Gentile       | S    |
 | Romans | 9:24           | 1536:37     | 137:8.11/1-3   | Neither Jew nor Gentile             | C    |
 | Romans | 9:26           | 1590:36     | 141:4.2/5-6    | We are God's children               | C    |

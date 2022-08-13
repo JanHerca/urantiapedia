@@ -162,7 +162,7 @@ type = See _readme
 | Mark | 3:17           | 1552:23     | 139:3.1/2-3    | Sons of thunder                       | R    |
 | Mark | 3:17           | 1955:37     | 181:2.4/1-2    | Sons of thunder                       | S    |
 | Mark | 3:17           | 1553:9      | 139:3.5/13     | Sons of thunder                       | R    |
-| Mark | 3:18           | 1563:37     | 139:10.5/1-2   | AKA Thaddeus & Lebbeus                | C    |
+| Mark | 3:18           | 1563:37     | 139:10.5/1-2   | Also known as Thaddeus & Lebbeus                | C    |
 | Mark | 3:18           | 1564:34     | 139:11.1/1     | Simon Zelotes added                   | C    |
 | Mark | 3:18           | 1561:2      | 139:8.1/1-2    | Thomas Didymus                        | C    |
 | Mark | 3:18           | 1559:13     | 139:6.9/1      | Nathaniel Bartholomew                 | C    |
@@ -233,7 +233,7 @@ type = See _readme
 | Mark | 4:25           | 1199:1-3    | 109:4.5/12-17  | To have given, from have not taken    | C    |
 | Mark | 4:25           | 1692:15-16  | 151:3.1/29-32  | He who has is given more              | S    |
 | Mark | 4:25           | 1917:27-28  | 176:3.5/1-4    | Who has is given; has not, taken      | S    |
-| Mark | 4:26-29        | 1693:20-27  | 151:3.15/1-13  | 2nd parable of sower                  | S    |
+| Mark | 4:26-29        | 1693:20-27  | 151:3.15/1-13  | Second parable of sower                  | S    |
 | Mark | 4:30           | 1710:16     | 153:2.4/11     | Kingdom of God                        | C    |
 | Mark | 4:30-32        | 1693:44-48  | 151:4.2/all    | Parable of mustard seed               | S    |
 | Mark | 4:31           | 1931:44     | 178:1.15/3     | Mustard seed                          | S    |
@@ -536,7 +536,7 @@ type = See _readme
 | Mark | 10:27          | 1757:34-35  | 158:5.2/28-29  | All things possible to believers      | C    |
 | Mark | 10:27          | 291:26-27   | 26:5.3/13-15   | With God nothing impossible           | R    |
 | Mark | 10:27          | 46:42       | 3:2.2/3        | With God all things possible          | R    |
-| Mark | 10:27          | 34:13-14    | 2:1.2/16-17    | Pt 1: All things possible             | R    |
+| Mark | 10:27          | 34:13-14    | 2:1.2/16-17    | Part 1: All things possible             | R    |
 | Mark | 10:27          | 1453:41     | 131:10.2/10-11 | With God, all things possible         | C    |
 | Mark | 10:27          | 1803:34-40  | 163:3.2/all    | With God, nothing is impossible       | S    |
 | Mark | 10:28-30       | 1804:5-10   | 163:3.4/1-10   | Reward for service                    | S    |
@@ -569,7 +569,7 @@ type = See _readme
 | Mark | 10:43-44       | 1569:18-20  | 140:1.6/1-4    | Become great by ministry              | S    |
 | Mark | 10:43-44       | 466:33-34   | 41:10.5/11-12  | Who would be greatest                 | C    |
 | Mark | 10:43-44       | 1907:12-13  | 175:1.10/6-8   | Who would be greatest: serve          | S    |
-| Mark | 10:43-44       | 316:40      | 28:6.18/17-18  | Greatest be server of all (quotation) | R    |
+| Mark | 10:43-44       | 316:40      | 28:6.18/17-18  | Greatest be server of all  | R    |
 | Mark | 10:43-44       | 1758:33-35  | 158:6.3/8-12   | Greatest must be server               | C    |
 | Mark | 10:43-44       | 1761:9-19   | 158:8.1/7-24   | Who is greatest                       | S    |
 | Mark | 10:43-44       | 1761:20-21  | 158:8.1/27-29  | To be first, minister                 | S    |
@@ -603,7 +603,7 @@ type = See _readme
 | Mark | 11:24          | 1849:19-20  | 168:4.13/1-3   | Ask and receive                       | S    |
 | Mark | 11:24          | 1454:22-24  | 131:10.5/12-15 | Ask and it will be given you          | C    |
 | Mark | 11:24          | 1849:3-4    | 168:4.10/1-3   | Nurtured by faith                     | C    |
-| Mark | 11:24          | 1619:13-15  | 144:2.3/22-27  | Ask -- receive                        | S    |
+| Mark | 11:24          | 1619:13-15  | 144:2.3/22-27  | Ask — receive                        | S    |
 | Mark | 11:24          | 1838:41-42  | 167:5.2/23-24  | Ask and receive                       | S    |
 | Mark | 11:24-26       | 1639:18-23  | 146:2.7/all    | When prayers are answered             | C    |
 | Mark | 11:25-26       | 1475:4-7    | 133:4.7/10-16  | Justice, fairness, & mercy            | C    |
@@ -627,7 +627,7 @@ type = See _readme
 | Mark | 11:25-26       | 2067:8-9    | 194:4.6/9-10   | God: loving Father of all men         | C    |
 | Mark | 11:25-26       | 1590:35     | 141:4.2/3      | God is our Father                     | C    |
 | Mark | 11:25-26       | 2017:44-45  | 188:4.13/10-11 | Forgive our debts as we forgive       | R    |
-| Mark | 11:27-28       | 1891:28-32  | 173:2.2/11-18  | “By what authority...do things?”      | S    |
+| Mark | 11:27-28       | 1891:28-32  | 173:2.2/11-18  | “By what authority do you do these things?”      | S    |
 | Mark | 11:29-30       | 1892:6-9    | 173:2.4/10-15  | Jesus asks questions                  | S    |
 | Mark | 11:31-33       | 1892:10-24  | 173:2.5/all    | Gets no answers                       | S    |
 | Mark | 12:1-9a        | 1893:45-60  | 173:4.2/all    | Parable of absent landlord (part 1)   | S    |
@@ -639,14 +639,14 @@ type = See _readme
 | Mark | 12:14          | 1564:16-17  | 139:10.9/7-8   | Jesus is no respecter of persons      | R    |
 | Mark | 12:14          | 1958:12-16  | 181:2.14/17-25 | God/Son no respecter of persons       | C    |
 | Mark | 12:14-17a      | 1899:13-26  | 174:2.2/all    | Jesus questioned by students          | S    |
-| Mark | 12:14-17a      | 1899:20-26  | 174:2.2/13-25  | Render unto Caesar / God              | S    |
+| Mark | 12:14-17a      | 1899:20-26  | 174:2.2/13-25  | Render unto Caesar what is Caesar's, God what is God's              | S    |
 | Mark | 12:17          | 1991:9-11   | 185:3.1/14-17  | Jesus' view on tribute                | S    |
 | Mark | 12:17          | 1114:25-26  | 101:7.5/6-8    | Separate Caesar's & God's due         | C    |
-| Mark | 12:17          | 1957:4-5    | 181:2.10/12-14 | Render unto Caesar / God              | S    |
+| Mark | 12:17          | 1957:4-5    | 181:2.10/12-14 | Render unto Caesar what is Caesar's, God what is God's              | S    |
 | Mark | 12:17          | 1740:19-20  | 156:5.16/8-10  | Render to God and Caesar              | C    |
 | Mark | 12:17          | 1474:14-15  | 133:4.3/1-3    | Render unto Caesar & God              | R    |
-| Mark | 12:17          | 1929:32-34  | 178:1.3/1-6    | Render unto Caesar / God              | S    |
-| Mark | 12:17          | 1580:16-17  | 140:8.9/8-10   | Render unto Caesar / God              | R    |
+| Mark | 12:17          | 1929:32-34  | 178:1.3/1-6    | Render unto Caesar what is Caesar's, God what is God's              | S    |
+| Mark | 12:17          | 1580:16-17  | 140:8.9/8-10   | Render unto Caesar what is Caesar's, God what is God's              | R    |
 | Mark | 12:17b         | 1899:27-30  | 174:2.3/all    | Challengers withdraw                  | S    |
 | Mark | 12:18-23       | 1900:2-12   | 174:3.1/all    | Question on resurrection              | S    |
 | Mark | 12:19          | 919:3-4     | 82:5.5/5-8     | Barren widows                         | C    |
@@ -767,7 +767,7 @@ type = See _readme
 | Mark | 13:24-26       | 1860:15-17  | 170:2.10/6-10  | Belief in an earthly kingdom          | S    |
 | Mark | 13:24-27       | 1863:42-47  | 170:4.6/1-11   | End times                             | C    |
 | Mark | 13:24-27       | 1860:40     | 170:2.14/6-7   | Believe end sudden, spectacular       | C    |
-| Mark | 13:26          | 1915:1-4    | 176:2.4/all    | 2nd coming with power                 | S    |
+| Mark | 13:26          | 1915:1-4    | 176:2.4/all    | Second coming with power                 | S    |
 | Mark | 13:26          | 1591:16-17  | 141:4.5/15-17  | Kingdom:comes in power & glory        | C    |
 | Mark | 13:26          | 1569:13-15  | 140:1.5/6-8    | No unseemly demonstration             | C    |
 | Mark | 13:26          | 2092:42-43  | 196:2.5/15-16  | Belief in soon-returning Lord         | C    |
@@ -820,7 +820,7 @@ type = See _readme
 | Mark | 14:30          | 1981:14-15  | 184:2.8/10-12  | Words of warning                      | S    |
 | Mark | 14:32-36       | 1968:5-15   | 182:3.1/all    | Gethsemane prayer                     | S    |
 | Mark | 14:33          | 1966:16-18  | 182:2.2/14-16  | 3 disciples chosen                    | S    |
-| Mark | 14:36          | 34:13-14    | 2:1.2/16-17    | Pt 1: All things possible             | R    |
+| Mark | 14:36          | 34:13-14    | 2:1.2/16-17    | Part 1: All things possible             | R    |
 | Mark | 14:36          | 1803:34-40  | 163:3.2/all    | With God, nothing is impossible       | S    |
 | Mark | 14:36          | 229:46      | 20:6.7/6       | Drink the cup                         | R    |
 | Mark | 14:36          | 1757:34-35  | 158:5.2/28-29  | All things possible to believers      | C    |
@@ -852,9 +852,9 @@ type = See _readme
 | Mark | 14:36,39       | 1523:31-33  | 136:10.1/6-8   | Pledge to live by will of Father      | R    |
 | Mark | 14:36,39       | 1861:27     | 170:2.20/15    | Jesus taught “Father's will”          | C    |
 | Mark | 14:36.39       | 1221:33-35  | 111:5.6/7-10   | Not my will but God's will            | C    |
-| Mark | 14:37          | 1968:16-20  | 182:3.2/1-9    | 1st time apostles sleep               | S    |
+| Mark | 14:37          | 1968:16-20  | 182:3.2/1-9    | First time apostles sleep               | S    |
 | Mark | 14:39          | 1968:21-24  | 182:3.2/10-17  | 2d Gethsemane prayer                  | S    |
-| Mark | 14:40          | 1968:27-30  | 182:3.3/all    | 2nd time apostles sleep               | S    |
+| Mark | 14:40          | 1968:27-30  | 182:3.3/all    | Second time apostles sleep               | S    |
 | Mark | 14:41-42       | 1968:31-41  | 182:3.4/1-21   | 3d prayer, 3d sleep                   | S    |
 | Mark | 14:43          | 1973:29-31  | 183:2.4/all    | Judas leads armed band                | S    |
 | Mark | 14:44          | 1974:4-6    | 183:3.3/1-6    | The plan                              | S    |
@@ -879,22 +879,22 @@ type = See _readme
 | Mark | 14:61b-62a     | 1999:6-9    | 186:2.2/3-9    | Jesus ans questions re: divinity      | S    |
 | Mark | 14:62          | 1916:26     | 176:3.3/2-3    | Return of Son of Man                  | S    |
 | Mark | 14:62          | 1860:15-17  | 170:2.10/6-10  | Belief in an earthly kingdom          | S    |
-| Mark | 14:62          | 1915:1-4    | 176:2.4/all    | 2nd coming with power                 | S    |
+| Mark | 14:62          | 1915:1-4    | 176:2.4/all    | Second coming with power                 | S    |
 | Mark | 14:63-64       | 1983:28-32  | 184:3.12/all   | High Priest's response                | S    |
 | Mark | 14:65          | 1984:16-22  | 184:4.1/19-21  | Indignities to Jesus                  | S    |
 | Mark | 14:65          | 1983:45-49  | 184:3.15/1-9   | Disorder in the court                 | S    |
 | Mark | 14:65          | 2000:12-14  | 186:2.10/5-8   | Jesus felt no anger                   | S    |
-| Mark | 14:66-68a      | 1980:31-38  | 184:2.4/all    | 1st denial                            | S    |
+| Mark | 14:66-68a      | 1980:31-38  | 184:2.4/all    | First denial                            | S    |
 | Mark | 14:66-72       | 1551:15-17  | 139:2.6/13-15  | Peter's denial                        | S    |
 | Mark | 14:66-72       | 1551:6-8    | 139:2.5/6-11   | Peter's denial                        | S    |
 | Mark | 14:68b,72a     | 1981:13-14  | 184:2.8/8-10   | Cock crowed                           | S    |
-| Mark | 14:69-70a      | 1980:44-50  | 184:2.6/all    | 2nd denial                            | S    |
-| Mark | 14:70b-71      | 1981:3-8    | 184:2.7/all    | 3rd denial                            | S    |
+| Mark | 14:69-70a      | 1980:44-50  | 184:2.6/all    | Second denial                            | S    |
+| Mark | 14:70b-71      | 1981:3-8    | 184:2.7/all    | Third denial                            | S    |
 | Mark | 14:72          | 1575:6-10   | 140:5.16/6-15  | Not unmanly to weep                   | C    |
 | Mark | 14:72b         | 1981:14-15  | 184:2.8/10-12  | Peter remembered                      | S    |
 | Mark | 14:72c         | 1981:24-25  | 184:2.9/3-5    | Peter wept bitterly                   | S    |
 | Mark | 14:25          | 1710:16     | 153:2.4/11     | Kingdom of God                        | C    |
-| Mark | 15:1a          | 1985:22-25  | 184:5.1/1-7    | 2nd meeting of court                  | S    |
+| Mark | 15:1a          | 1985:22-25  | 184:5.1/1-7    | Second meeting of court                  | S    |
 | Mark | 15:1b          | 1986:12-14  | 184:5.8/all    | Jesus led to Pilate                   | S    |
 | Mark | 15:2           | 1999:6-9    | 186:2.2/3-9    | Jesus ans questions re: divinity      | S    |
 | Mark | 15:2a          | 1991:13-14  | 185:3.2/1-4    | Are you King of Jews?                 | S    |
@@ -977,7 +977,7 @@ type = See _readme
 | Mark | 16:8,10-11     | 2027:8-11   | 189:4.13/1-6   | Women tell, not believed              | S    |
 | Mark | 16:12          | 2034:27-37  | 190:5.2/all    | Road to Emmaus                        | S    |
 | Mark | 16:13a         | 2036:9-13   | 190:5.8/all    | Good news: risen Lord                 | S    |
-| Mark | 16:14a         | 2040:18-22  | 191:2.1/1-9    | 1st appearance to apostles            | S    |
+| Mark | 16:14a         | 2040:18-22  | 191:2.1/1-9    | First appearance to apostles            | S    |
 | Mark | 16:14b         | 2040:23-27  | 191:2.1/10-17  | Jesus chides apostles                 | S    |
 | Mark | 16:15          | 1824:43-44  | 165:6.3/28-30  | Great Commission                      | C    |
 | Mark | 16:15          | 2053:38-40  | 193:1.2/9-12   | Teach God's love to world             | C    |

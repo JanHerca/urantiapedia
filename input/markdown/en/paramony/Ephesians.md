@@ -123,7 +123,7 @@ type = See _readme
 | Ephesians | 4:3-6,11-13 | 1487:7-8    | 134:4.6/1-3    | Unity, not uniformity                | C    |
 | Ephesians | 4:3-12      | 1591:30     | 141:5.1/17-18  | Require spirit unity                 | C    |
 | Ephesians | 4:6         | 513:41      | 45:4.8/5       | One God                              | C    |
-| Ephesians | 4:6         | 34:5        | 2:1.2/1-2      | Pt 1: One God, the Father            | R    |
+| Ephesians | 4:6         | 34:5        | 2:1.2/1-2      | Part 1: One God, the Father            | R    |
 | Ephesians | 4:6         | 640:19-21   | 56:4.4/1-5     | God is one                           | C    |
 | Ephesians | 4:6         | 1900:29-30  | 174:3.2/30-32  | God's relation to all things         | C    |
 | Ephesians | 4:6         | 115:16      | 10:7.1/3       | The Lord our God is one God          | C    |

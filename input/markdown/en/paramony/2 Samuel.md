@@ -16,7 +16,7 @@ type = See _readme
 | 2 Samuel | 5:3         | 1073:4-5    | 97:9.11/7-9    | Annointed King of Israel         | R    |
 | 2 Samuel | 5:6-9       | 1073:9-10   | 97:9.11/15-18  | David's victory                  | C    |
 | 2 Samuel | 5:6-9       | 1073:5-8    | 97:9.11/9-12   | Jerusalem                        | C    |
-| 2 Samuel | 5:10        | 421:45      | 38:6.2/14      | Lord God of hosts (quotation)    | R    |
+| 2 Samuel | 5:10        | 421:45      | 38:6.2/14      | Lord God of hosts     | R    |
 | 2 Samuel | 5:10        | 1073:10     | 97:9.11/15-18  | Lord God of Hosts                | R    |
 | 2 Samuel | 5:10        | 2064:35-36  | 194:3.11/15-17 | No longer Lord of Hosts          | C    |
 | 2 Samuel | 5:17-25     | 1073:8-9    | 97:9.11/14-15  | Philistine attack                | C    |
@@ -90,7 +90,7 @@ type = See _readme
 | 2 Samuel | 22:14       | 1016:25     | 93:3.2/12      | Most High                        | C    |
 | 2 Samuel | 22:14-15    | 947:19-20   | 85:4.3/6-7     | Thunder                          | C    |
 | 2 Samuel | 22:23       | 1059:40-41  | 96:6.3/15      | God of judgment                  | C    |
-| 2 Samuel | 22:26       | 1063:38-40  | 97:1.8/6-7     | Pt 3: Mercy to merciful          | R    |
+| 2 Samuel | 22:26       | 1063:38-40  | 97:1.8/6-7     | Part 3: Mercy to merciful          | R    |
 | 2 Samuel | 22:31       | 34:8        | 2:1.2/7        | No mistakes                      | C    |
 | 2 Samuel | 22:33       | 1454:2      | 131:10.3/10-11 | God is all powerful              | C    |
 | 2 Samuel | 22:33       | 23:15       | 1:1.4/16       | God's power                      | C    |

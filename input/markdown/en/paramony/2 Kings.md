@@ -55,7 +55,7 @@ type = See _readme
 | 2 Kings | 19:22       | 1053:39-40  | 96:1.9/6       | The Holy One                       | C    |
 | 2 Kings | 21:1-2      | 1074:38-39  | 97:9.23/1-3    | Boy king Manasseh                  | C    |
 | 2 Kings | 22:13       | 1597:8-9    | 142:2.1/13     | A god of great wrath, fierce anger | C    |
-| 2 Kings | 23:13       | 1042:26-28  | 95:1.3/5-8     | “Gods” Ashtoreth, Chemosh          | C    |
+| 2 Kings | 23:13       | 1042:26-28  | 95:1.3/5-8     | “Gods” Ashtoreth and Chemosh          | C    |
 | 2 Kings | 23:13       | 1043:10     | 95:1.7/3-4     | Ashtoreth                          | C    |
 | 2 Kings | 23:25-30    | 1074:44-46  | 97:9.24/1-5    | Josiah's folly                     | C    |
 | 2 Kings | 23:29-30    | 1387:15     | 126:1.2/10-11  | Josiah defeated                    | C    |

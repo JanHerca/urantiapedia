@@ -18,5 +18,5 @@ type = See _readme
 | Nahum | 1:3       | 1598:40     | 142:3.7/4      | All-powerful              | C    |
 | Nahum | 1:3       | 57:44-45    | 4:3.2/1-3      | God said to be angry      | C    |
 | Nahum | 1:3       | 1454:29     | 131:10.6/4     | The Power                 | C    |
-| Nahum | 1:7       | 41:3        | 2:6.3/4        | Pt 1: God is good         | R    |
+| Nahum | 1:7       | 41:3        | 2:6.3/4        | Part 1: God is good         | R    |
 | Nahum | 2:13      | 2064:35-36  | 194:3.11/15-17 | No longer Lord of Hosts   | C    |

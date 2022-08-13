@@ -16,7 +16,7 @@ type = See _readme
 | Micah | 4:4       | 2064:35-36  | 194:3.11/15-17 | No longer Lord of Hosts        | C    |
 | Micah | 4:4-5     | 1067:10-12  | 97:5.5/6-9     | Every man sit under own vine   | R    |
 | Micah | 4:5       | 1858:27-29  | 170:1.3/all    | The kingdom as a future hope   | S    |
-| Micah | 6:6-8     | 1392:7-13   | 126:4.5/all    | Scripture read                 | R    |
+| Micah | 6:6-8     | 1392:7-13   | 126:4.5/all    | Scripture read: Wherewith shall I come before the Lord                 | R    |
 | Micah | 6:6-8     | 1067:13-18  | 97:5.6/2-10    | Shall I come w/ burnt offering | R    |
 | Micah | 6:8       | 1676:45     | 149:6.11/6-7   | Walk humbly with God           | C    |
 | Micah | 7:7       | 41:6        | 2:6.3/11       | God of salvation               | C    |

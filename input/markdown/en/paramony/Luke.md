@@ -43,10 +43,10 @@ type = See _readme
 | Luke | 1:37           | 1757:34-35  | 158:5.2/28-29  | All things possible to believers       | C    |
 | Luke | 1:37           | 1803:34-40  | 163:3.2/all    | With God, nothing is impossible        | S    |
 | Luke | 1:37           | 46:42       | 3:2.2/3        | With God all things possible           | R    |
-| Luke | 1:37           | 34:13-14    | 2:1.2/16-17    | Pt 1: All things possible              | R    |
+| Luke | 1:37           | 34:13-14    | 2:1.2/16-17    | Part 1: All things possible              | R    |
 | Luke | 1:37           | 291:26-27   | 26:5.3/13-15   | With God nothing impossible            | R    |
 | Luke | 1:39-40        | 1346:7-9    | 122:2.6/3-7    | Mary visits Elizabeth                  | S    |
-| Luke | 1:52           | 1834:42-44  | 167:1.5/34-36  | Exalted-humbled-exalted                | C    |
+| Luke | 1:52           | 1834:42-44  | 167:1.5/34-36  | Whoever humbles himself will be exalted                | C    |
 | Luke | 1:52           | 1907:13-14  | 175:1.10/8-11  | Humbled / exalted                      | S    |
 | Luke | 1:53           | 2093:16-17  | 196:2.8/2-4    | Jesus condemned the rich               | C    |
 | Luke | 1:56           | 1346:12-13  | 122:2.6/12-13  | Length of visit                        | S    |
@@ -61,7 +61,7 @@ type = See _readme
 | Luke | 1:79           | 66:47       | 5:4.2/3        | Lasting peace                          | C    |
 | Luke | 1:79           | 447:38-39   | 40:5.16/9-10   | True light                             | C    |
 | Luke | 1:79           | 590:33      | 52:1.7/3       | Lighted by the true light              | R    |
-| Luke | 1:79           | 1181:6      | 107:4.5/6      | #1: Pilot light                        | C    |
+| Luke | 1:79           | 1181:6      | 107:4.5/6      | # 1 Pilot light                        | C    |
 | Luke | 1:79           | 1181:7-8    | 107:4.5/9-10   | Spirit luminosity                      | C    |
 | Luke | 1:79           | 2042:1-2    | 191:4.3/20-22  | Light in spiritual darkness            | S    |
 | Luke | 1:79           | 1731:18     | 155:6.3/13-14  | Darkness into light                    | C    |
@@ -214,7 +214,7 @@ type = See _readme
 | Luke | 4:13           | 1514:27-28  | 136:4.3/6-9    | “Temptation” was earlier               | C    |
 | Luke | 4:14           | 1526:6      | 137:2.2/1-2    | Jesus to Galilee                       | S    |
 | Luke | 4:14           | 1506:11-12  | 135:9.9/1-3    | Jesus goes to Galilee                  | S    |
-| Luke | 4:16-20        | 1391:36-38  | 126:4.1/7-10   | Jesus' 1st worship service             | S    |
+| Luke | 4:16-20        | 1391:36-38  | 126:4.1/7-10   | Jesus' first worship service             | S    |
 | Luke | 4:16a          | 1683:36-43  | 150:6.3/all    | Return to Nazareth                     | S    |
 | Luke | 4:16b          | 1684:37-38  | 150:8.1/1-4    | Crowd at Synagogue                     | S    |
 | Luke | 4:17-19        | 1686:7-11   | 150:8.9/all    | Jesus reads prophets                   | S    |
@@ -776,7 +776,7 @@ type = See _readme
 | Luke | 11:2           | 1774:28     | 160:1.11/19-20 | “Not my will but yours be done”        | R    |
 | Luke | 11:2           | 1303:7      | 118:8.11/12    | My will that your will be done         | R    |
 | Luke | 11:2           | 1511:46-48  | 136:2.4/5-8    | Jesus' prayer                          | R    |
-| Luke | 11:2           | 1923:12     | 177:2.7/11     | Pray “Our Father --”                   | S    |
+| Luke | 11:2           | 1923:12     | 177:2.7/11     | Pray “Our Father —”                   | S    |
 | Luke | 11:2           | 1453:43-44  | 131:10.2/14-16 | Live the will of Father, reveal Him    | C    |
 | Luke | 11:2           | 22:28-30    | 1:1.1/12-14    | Calling God “our Father”               | C    |
 | Luke | 11:2           | 1221:33-35  | 111:5.6/7-10   | Not my will but God's will             | C    |
@@ -851,19 +851,19 @@ type = See _readme
 | Luke | 11:37-41       | 1850:22-23  | 169:0.6/all    | Apostles didn't wash hands             | S    |
 | Luke | 11:38          | 1825:23-30  | 166:1.2/4-15   | Jesus not wash hands                   | S    |
 | Luke | 11:39          | 1826:8-12   | 166:1.4/9-16   | Clean outside dirty inside             | S    |
-| Luke | 11:39-40       | 1908:6-13   | 175:1.18/1-9   | 7th Woe                                | S    |
+| Luke | 11:39-40       | 1908:6-13   | 175:1.18/1-9   | Seventh Woe                                | S    |
 | Luke | 11:39-53       | 1911:20-22  | 175:4.12/all   | Sanhedrin angry over farewell talk     | S    |
 | Luke | 11:40          | 1287:47-49  | 117:6.1/2-5    | He is within and without               | C    |
 | Luke | 11:40-41       | 1826:13-17  | 166:1.4/18-25  | God looks at both inner & outer        | S    |
 | Luke | 11:42          | 1826:17-22  | 166:1.4/26-35  | Almsgiving not enough                  | S    |
-| Luke | 11:42          | 1908:1-5    | 175:1.17/all   | 6th Woe                                | S    |
+| Luke | 11:42          | 1908:1-5    | 175:1.17/all   | Sixth Woe                                | S    |
 | Luke | 11:43          | 1907:3-5    | 175:1.9/5-7    | Leaders desire honors                  | S    |
 | Luke | 11:43          | 1826:22-24  | 166:1.4/35-39  | Woe to seekers of honor                | S    |
 | Luke | 11:45-50       | 1826:25-38  | 166:1.5/1-25   | More “woes”                            | S    |
 | Luke | 11:46          | 1906:47-49  | 175:1.8/28-32  | Weighty burdens                        | S    |
-| Luke | 11:47-48       | 1908:19-26  | 175:1.20/all   | 9th Woe                                | S    |
+| Luke | 11:47-48       | 1908:19-26  | 175:1.20/all   | Ninth Woe                                | S    |
 | Luke | 11:49-51       | 1908:30-41  | 175:1.22/all   | Offer of pardon                        | S    |
-| Luke | 11:52          | 1907:24-27  | 175:1.12/1-8   | 1st Woe                                | S    |
+| Luke | 11:52          | 1907:24-27  | 175:1.12/1-8   | First Woe                                | S    |
 | Luke | 11:52          | 1826:38-41  | 166:1.5/25-30  | Lawyers hide knowledge                 | S    |
 | Luke | 11:53-54       | 1826:47-53  | 166:1.6/all    | Pharisees wait to “catch” Jesus        | S    |
 | Luke | 12:1           | 1820:4-5    | 165:3.2/3-4    | Beware leaven of Pharisees             | S    |
@@ -986,8 +986,8 @@ type = See _readme
 | Luke | 14:7a          | 1833:33-39  | 167:1.2/all    | Seat of honor                          | S    |
 | Luke | 14:11          | 1907:13-14  | 175:1.10/8-11  | Humbled / exalted                      | S    |
 | Luke | 14:11          | 1761:17-19  | 158:8.1/22-24  | Humble himself                         | S    |
-| Luke | 14:11          | 1838:27-28  | 167:5.1/31-33  | Exalted-humbled-exalted                | S    |
-| Luke | 14:11          | 1834:42-44  | 167:1.5/34-36  | Exalted-humbled-exalted                | S    |
+| Luke | 14:11          | 1838:27-28  | 167:5.1/31-33  | Whoever humbles himself will be exalted                | S    |
+| Luke | 14:11          | 1834:42-44  | 167:1.5/34-36  | Whoever humbles himself will be exalted                | S    |
 | Luke | 14:12-14       | 1580:38-39  | 140:8.12/1-4   | Make feasts for poor                   | S    |
 | Luke | 14:13          | 1594:12     | 141:7.8/4-5    | Began work with poor                   | S    |
 | Luke | 14:14          | 1337:28     | 121:5.11/5     | Survival of death: resurrection        | C    |
@@ -1102,7 +1102,7 @@ type = See _readme
 | Luke | 17:21          | 1859:10-11  | 170:1.8/7-8    | Kingdom within you                     | S    |
 | Luke | 17:21          | 1569:15-17  | 140:1.5/8-12   | Kingdom of God is within you           | S    |
 | Luke | 17:21          | 2084:24     | 195:10.4/1     | God's kingdom is within you            | S    |
-| Luke | 17:21          | 381:2-3     | 34:6.7/3-4     | U R temple; God dwells in you          | C    |
+| Luke | 17:21          | 381:2-3     | 34:6.7/3-4     | You are the temple of God; God dwells in you          | C    |
 | Luke | 17:21          | 139:8       | 12:7.12/14     | God dwells in us                       | C    |
 | Luke | 17:21          | 1862:35     | 170:3.11/1     | New view: kingdom within               | S    |
 | Luke | 17:21          | 39:32-33    | 2:5.6/12-16    | God's spirit in you (T/A)              | C    |
@@ -1139,9 +1139,9 @@ type = See _readme
 | Luke | 18:9-14        | 1838:14-28  | 167:5.1/8-33   | Parable of two prayers                 | S    |
 | Luke | 18:10-14       | 1573:46-47  | 140:5.7/8-10   | Publican's prayer                      | S    |
 | Luke | 18:14          | 1761:17-19  | 158:8.1/22-24  | Humble himself                         | S    |
-| Luke | 18:14          | 1834:42-44  | 167:1.5/34-36  | Exalted-humbled-exalted                | S    |
+| Luke | 18:14          | 1834:42-44  | 167:1.5/34-36  | Whoever humbles himself will be exalted                | S    |
 | Luke | 18:14          | 1907:13-14  | 175:1.10/8-11  | Humbled / exalted                      | S    |
-| Luke | 18:14          | 1838:27-28  | 167:5.1/31-33  | Exalted-humbled-exalted                | S    |
+| Luke | 18:14          | 1838:27-28  | 167:5.1/31-33  | Whoever humbles himself will be exalted                | S    |
 | Luke | 18:15          | 1839:40-48  | 167:6.1/1-15   | Mothers bring children                 | S    |
 | Luke | 18:15-17       | 1676:48-52  | 149:6.11/11-19 | Childlike faith                        | C    |
 | Luke | 18:15-17       | 2089:41-42  | 196:0.12/14-15 | Become as a child                      | R    |
@@ -1199,7 +1199,7 @@ type = See _readme
 | Luke | 18:24-25       | 1803:27-33  | 163:3.1/5-16   | Camel go through needle's eye          | S    |
 | Luke | 18:25          | 1803:5-8    | 163:2.10/all   | Love of wealth                         | S    |
 | Luke | 18:27          | 291:26-27   | 26:5.3/13-15   | With God nothing impossible            | R    |
-| Luke | 18:27          | 34:13-14    | 2:1.2/16-17    | Pt 1: All things possible              | R    |
+| Luke | 18:27          | 34:13-14    | 2:1.2/16-17    | Part 1: All things possible              | R    |
 | Luke | 18:27          | 1803:34-40  | 163:3.2/all    | With God, nothing is impossible        | S    |
 | Luke | 18:27          | 1757:34-35  | 158:5.2/28-29  | All things possible to believers       | C    |
 | Luke | 18:27          | 1453:41     | 131:10.2/10-11 | With God, all things possible          | C    |
@@ -1266,7 +1266,7 @@ type = See _readme
 | Luke | 19:45b         | 1888:33-35  | 173:1.1/19-23  | Sale of unblemished animals            | S    |
 | Luke | 19:45b         | 1889:10-13  | 173:1.3/1-7    | Money changers                         | S    |
 | Luke | 19:47b-48      | 1890:36-42  | 173:1.9/all    | Officials angry, plot Jesus' death     | S    |
-| Luke | 20:1-2         | 1891:28-32  | 173:2.2/11-18  | “By what authority...do things?”       | S    |
+| Luke | 20:1-2         | 1891:28-32  | 173:2.2/11-18  | “By what authority do you do these things?”       | S    |
 | Luke | 20:3-4         | 1892:6-9    | 173:2.4/10-15  | Jesus asks questions                   | S    |
 | Luke | 20:5-8         | 1892:10-24  | 173:2.5/all    | Gets no answers                        | S    |
 | Luke | 20:9-16a       | 1893:45-60  | 173:4.2/all    | Parable of absent landlord (part 1)    | S    |
@@ -1277,10 +1277,10 @@ type = See _readme
 | Luke | 20:21          | 1958:12-16  | 181:2.14/17-25 | God/Son no respecter of persons        | C    |
 | Luke | 20:21          | 1564:16-17  | 139:10.9/7-8   | Jesus is no respecter of persons       | R    |
 | Luke | 20:21-25       | 1899:13-26  | 174:2.2/all    | Jesus questioned by students           | S    |
-| Luke | 20:22-25       | 1899:20-26  | 174:2.2/13-25  | Render unto Caesar / God               | S    |
-| Luke | 20:25          | 1580:16-17  | 140:8.9/8-10   | Render unto Caesar / God               | R    |
-| Luke | 20:25          | 1957:4-5    | 181:2.10/12-14 | Render unto Caesar / God               | S    |
-| Luke | 20:25          | 1929:32-34  | 178:1.3/1-6    | Render unto Caesar / God               | S    |
+| Luke | 20:22-25       | 1899:20-26  | 174:2.2/13-25  | Render unto Caesar what is Caesar's, God what is God's               | S    |
+| Luke | 20:25          | 1580:16-17  | 140:8.9/8-10   | Render unto Caesar what is Caesar's, God what is God's               | R    |
+| Luke | 20:25          | 1957:4-5    | 181:2.10/12-14 | Render unto Caesar what is Caesar's, God what is God's               | S    |
+| Luke | 20:25          | 1929:32-34  | 178:1.3/1-6    | Render unto Caesar what is Caesar's, God what is God's               | S    |
 | Luke | 20:25          | 1740:19-20  | 156:5.16/8-10  | Render to God and Caesar               | S    |
 | Luke | 20:25          | 1991:9-11   | 185:3.1/14-17  | Jesus' view on tribute                 | S    |
 | Luke | 20:25          | 1114:25-26  | 101:7.5/6-8    | Separate Caesar's & God's due          | C    |
@@ -1364,7 +1364,7 @@ type = See _readme
 | Luke | 21:27          | 1860:15-17  | 170:2.10/6-10  | Belief in an earthly kingdom           | S    |
 | Luke | 21:27          | 1591:16-17  | 141:4.5/15-17  | Kingdom comes in power & glory         | C    |
 | Luke | 21:27          | 2092:42-43  | 196:2.5/15-16  | Belief in soon-returning Lord          | C    |
-| Luke | 21:27          | 1915:1-4    | 176:2.4/all    | 2nd coming with power                  | S    |
+| Luke | 21:27          | 1915:1-4    | 176:2.4/all    | Second coming with power                  | S    |
 | Luke | 21:29-31       | 1915:14-19  | 176:2.6/7-17   | Be wise to ripening of age             | S    |
 | Luke | 21:29-32       | 1710:16     | 153:2.4/11     | Kingdom of God                         | C    |
 | Luke | 21:29-32       | 1588:25-28  | 141:2.1/4-8    | Kingdom of God already here            | C    |
@@ -1416,7 +1416,7 @@ type = See _readme
 | Luke | 22:26          | 1569:18-20  | 140:1.6/1-4    | Become great by ministry               | S    |
 | Luke | 22:26          | 466:33-34   | 41:10.5/11-12  | Who would be greatest                  | C    |
 | Luke | 22:26          | 1536:38-39  | 137:8.11/3-5   | Greatest is server of all              | S    |
-| Luke | 22:26          | 316:40      | 28:6.18/17-18  | Greatest be server of all (quotation)  | R    |
+| Luke | 22:26          | 316:40      | 28:6.18/17-18  | Greatest be server of all   | R    |
 | Luke | 22:26          | 1862:13-14  | 170:3.8/4-7    | Loving service                         | S    |
 | Luke | 22:26          | 1907:12-13  | 175:1.10/6-8   | Who would be greatest: serve           | S    |
 | Luke | 22:26          | 1761:9-19   | 158:8.1/7-24   | Who is greatest                        | S    |
@@ -1480,9 +1480,9 @@ type = See _readme
 | Luke | 22:55          | 1980:17-18  | 184:2.2/1-3    | Peter warms self                       | S    |
 | Luke | 22:55-62       | 1551:15-17  | 139:2.6/13-15  | Peter's denial                         | S    |
 | Luke | 22:55-62       | 1551:6-8    | 139:2.5/6-11   | Peter's denial                         | S    |
-| Luke | 22:56-57       | 1980:31-38  | 184:2.4/all    | 1st denial                             | S    |
-| Luke | 22:58          | 1980:39-43  | 184:2.5/all    | 2nd denial                             | S    |
-| Luke | 22:59-60a      | 1981:3-8    | 184:2.7/all    | 3rd denial                             | S    |
+| Luke | 22:56-57       | 1980:31-38  | 184:2.4/all    | First denial                             | S    |
+| Luke | 22:58          | 1980:39-43  | 184:2.5/all    | Second denial                             | S    |
+| Luke | 22:59-60a      | 1981:3-8    | 184:2.7/all    | Third denial                             | S    |
 | Luke | 22:60b         | 1981:13-14  | 184:2.8/8-10   | Cock crowed                            | S    |
 | Luke | 22:61a         | 1981:15-20  | 184:2.8/12-21  | Jesus looks at Peter                   | S    |
 | Luke | 22:61b         | 1981:14-15  | 184:2.8/10-12  | Peter remembered                       | S    |
@@ -1543,8 +1543,8 @@ type = See _readme
 | Luke | 23:36          | 2008:37-40  | 187:3.5/all    | Jesus: “I thirst”                      | S    |
 | Luke | 23:38          | 2007:22-24  | 187:2.5/1-4    | Sign: KING OF JEWS                     | S    |
 | Luke | 23:38          | 2005:7-9    | 187:1.2/15-19  | Sign: KING OF JEWS                     | S    |
-| Luke | 23:39          | 2008:45-46  | 187:4.1/1-3    | 1st brigand's challenge                | S    |
-| Luke | 23:40-42       | 2009:1-4    | 187:4.1/3-10   | 2nd bigand's defense                   | S    |
+| Luke | 23:39          | 2008:45-46  | 187:4.1/1-3    | First brigand's challenge                | S    |
+| Luke | 23:40-42       | 2009:1-4    | 187:4.1/3-10   | Second bigand's defense                   | S    |
 | Luke | 23:43          | 2009:4-9    | 187:4.1/10-19  | Jesus' saving response                 | S    |
 | Luke | 23:43          | 0007:31     | 0:4.11/all     | Paradise                               | C    |
 | Luke | 23:43          | 222:17-18   | 19:7.1/1-3     | Paradise                               | C    |
@@ -1602,7 +1602,7 @@ type = See _readme
 | Luke | 24:33          | 2036:6-8    | 190:5.7/all    | Return to Jerusalem                    | S    |
 | Luke | 24:34          | 2039:18-19  | 191:1.1/1-3    | Jesus appears to Peter                 | S    |
 | Luke | 24:34-35       | 2036:9-13   | 190:5.8/all    | Good news: risen Lord                  | S    |
-| Luke | 24:36          | 2040:18-22  | 191:2.1/1-9    | 1st appearance to apostles             | S    |
+| Luke | 24:36          | 2040:18-22  | 191:2.1/1-9    | First appearance to apostles             | S    |
 | Luke | 24:37-38,44-46 | 2040:23-27  | 191:2.1/10-17  | Jesus chides apostles                  | S    |
 | Luke | 24:44-48       | 2052:12-21  | 193:0.2/all    | Jesus' discourse to leaders            | S    |
 | Luke | 24:47          | 1608:22-24  | 143:1.5/11-15  | Go preach gospel to everyone           | C    |

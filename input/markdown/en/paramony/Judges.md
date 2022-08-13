@@ -9,7 +9,7 @@ type = See _readme
 | book   | bible_ref | par_pageref | par_ref       | text                           | type |
 | ------ | --------- | ----------- | ------------- | ------------------------------ | ---- |
 | Judges | 2:12      | 57:44-45    | 4:3.2/1-3     | God said to be angry           | C    |
-| Judges | 2:13      | 1042:26-28  | 95:1.3/5-8    | Compet. “gods” Baal, Ashtaroth | C    |
+| Judges | 2:13      | 1042:26-28  | 95:1.3/5-8    | Competing “gods” Baal, Ashtaroth | C    |
 | Judges | 2:13      | 1043:10     | 95:1.7/3-4    | Ashtoreth                      | C    |
 | Judges | 2:18      | 36:1-2      | 2:2.2/5-7     | God is said to repent          | C    |
 | Judges | 2:18      | 58:6        | 4:3.4/1-2     | God is said to repent          | C    |
@@ -19,7 +19,7 @@ type = See _readme
 | Judges | 6:20-21   | 947:16      | 85:4.2/18     | Angels of fire                 | C    |
 | Judges | 9:15      | 437:42      | 39:5.7/1      | Spirits of Trust               | C    |
 | Judges | 9:23      | 1060:35-36  | 96:7.6/4-5    | Sends evil spirits             | R    |
-| Judges | 10:6      | 1042:26-28  | 95:1.3/5-8    | Compet. “gods” Baal, Ashtaroth | C    |
+| Judges | 10:6      | 1042:26-28  | 95:1.3/5-8    | Competing “gods” Baal, Ashtaroth | C    |
 | Judges | 10:6      | 1043:10     | 95:1.7/3-4    | Ashtoreth                      | C    |
 | Judges | 11:21,23  | 784:40-41   | 70:1.15/13    | In name of Lord God of Israel  | R    |
 | Judges | 11:30-39  | 965:12-13   | 87:6.9/3-5    | Penalty for violating oaths    | C    |

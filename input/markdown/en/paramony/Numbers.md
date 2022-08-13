@@ -67,5 +67,5 @@ type = See _readme
 | Numbers | 31:9,15-18   | 779:18-19   | 69:8.4/5-7     | Capture females                    | C    |
 | Numbers | 31:12-24     | 992:29-30   | 90:5.3/6-8     | Purify booty taken in war          | C    |
 | Numbers | 35:6,11,14   | 775:19      | 69:4.4/5-6     | Cities of refuge                   | R    |
-| Numbers | 35:30        | 1576:28-29  | 140:6.4/5-6    | 2nd part: Subject to judgment      | R    |
+| Numbers | 35:30        | 1576:28-29  | 140:6.4/5-6    | Part 2: Subject to judgment      | R    |
 | Numbers | 35:31        | 796:16-17   | 70:10.12/16-18 | Take no ransom for murderer        | R    |

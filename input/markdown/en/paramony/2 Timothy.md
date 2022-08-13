@@ -9,7 +9,7 @@ type = See _readme
 | book      | bible_ref  | par_pageref | par_ref       | text                              | type |
 | --------- | ---------- | ----------- | ------------- | --------------------------------- | ---- |
 | 2 Timothy | 1:12       | 66:47       | 5:4.2/4       | Profound assurance                | C    |
-| 2 Timothy | 1:14       | 381:2-3     | 34:6.7/3-4    | U R temple; God dwells in you     | R    |
+| 2 Timothy | 1:14       | 381:2-3     | 34:6.7/3-4    | You are the temple of God; God dwells in you     | R    |
 | 2 Timothy | 1:14       | 95:38-40    | 8:5.3/1-4     | Spirit of God (Holy Spirit)       | C    |
 | 2 Timothy | 1:14       | 45:6-7      | 3:1.4/3       | He lives in us                    | R    |
 | 2 Timothy | 1:14       | 1609:36-38  | 143:2.4/13-16 | You become temples of God         | C    |

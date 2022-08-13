@@ -12,7 +12,7 @@ type = See _readme
 | Isaiah | 1:4            | 57:44-45    | 4:3.2/1-3      | God said to be angry               | C    |
 | Isaiah | 1:4            | 1053:39-40  | 96:1.9/6       | The Holy One                       | C    |
 | Isaiah | 1:9            | 2064:35-36  | 194:3.11/15-17 | No longer Lord of Hosts            | C    |
-| Isaiah | 1:16-17        | 1392:4-6    | 126:4.4/all    | Scripture read                     | R    |
+| Isaiah | 1:16-17        | 1392:4-6    | 126:4.4/all    | Scripture read: Wash you, make you clean                     | R    |
 | Isaiah | 1:18           | 1066:38-41  | 97:5.2/14-18   | Come let us reason together        | R    |
 | Isaiah | 1:18           | 1445:37-39  | 131:2.10/1-4   | Come let us reason together        | R    |
 | Isaiah | 1:18-20        | 1475:4-7    | 133:4.7/10-16  | Justice, fairness, & mercy         | C    |
@@ -117,7 +117,7 @@ type = See _readme
 | Isaiah | 32:15-17       | 1601:30-32  | 142:5.4/2-5    | When spirit poured out, peace      | R    |
 | Isaiah | 32:17          | 66:47       | 5:4.2/4        | Profound assurance                 | C    |
 | Isaiah | 32:17-18       | 1454:31-32  | 131:10.6/9-10  | By faith attain peace              | C    |
-| Isaiah | 33:22          | 1536:3-4    | 137:8.4/6-7    | pt 2, Yahweh is judge, etc.        | R    |
+| Isaiah | 33:22          | 1536:3-4    | 137:8.4/6-7    | Part 2: Yahweh is judge, etc.        | R    |
 | Isaiah | 34:1           | 47:20       | 3:2.5/5-6      | Source of all things               | C    |
 | Isaiah | 34:8           | 1597:9-10   | 142:2.1/13-15  | Takes vengeance on sinners         | C    |
 | Isaiah | 35:2           | 34:8-9      | 2:1.2/8        | Glory of God                       | C    |
@@ -149,12 +149,12 @@ type = See _readme
 | Isaiah | 40:1           | 1584:5      | 140:9.2/8-9    | Comfort the oppressed              | S    |
 | Isaiah | 40:3-5         | 1502:28-33  | 135:6.6/5-15   | John's reply                       | R    |
 | Isaiah | 40:11          | 2035:25-26  | 190:5.4/31-34  | Feed flock as true shepherd        | R    |
-| Isaiah | 40:11          | 1069:20-25  | 97:7.8/2-5     | Pt 1: Feed flock as shepherd       | R    |
+| Isaiah | 40:11          | 1069:20-25  | 97:7.8/2-5     | Part 1: Feed flock as shepherd       | R    |
 | Isaiah | 40:12          | 81:37-38    | 7:1.1/12-14    | Hold in hollow of hand             | C    |
-| Isaiah | 40:12a         | 27:40-42    | 1:5.3/8-10     | Pt 1: Measures waters in hand      | R    |
+| Isaiah | 40:12a         | 27:40-42    | 1:5.3/8-10     | Part 1: Measures waters in hand      | R    |
 | Isaiah | 40:15          | 1068:45     | 97:7.5/7-8     | Behold he takes up isles           | R    |
-| Isaiah | 40:18,22,26,29 | 1392:14-17  | 126:4.6/1-9    | Scripture read                     | R    |
-| Isaiah | 40:22          | 27:42-43    | 1:5.3/10-13    | Pt 2: Sits on circle of earth      | R    |
+| Isaiah | 40:18,22,26,29 | 1392:14-17  | 126:4.6/1-9    | Scripture read: To whom then will ye liken God?                     | R    |
+| Isaiah | 40:22          | 27:42-43    | 1:5.3/10-13    | Part 2: Sits on circle of earth      | R    |
 | Isaiah | 40:26          | 49:2-3      | 3:3.1/12-13    | Number and name of stars           | R    |
 | Isaiah | 40:26          | 27:43-45    | 1:5.3/13-16    | Lift up your eyes...               | R    |
 | Isaiah | 40:26,28       | 1444:5-6    | 131:2.2/1-3    | God created the earth              | C    |
@@ -169,9 +169,9 @@ type = See _readme
 | Isaiah | 40:28          | 23:31       | 1:1.6/11-12    | Everlasting God                    | C    |
 | Isaiah | 40:28          | 21:9-10     | 1:0.1/8-11     | God created heaven & earth         | C    |
 | Isaiah | 40:29          | 1662:24-25  | 148:5.5/28-30  | He gives power to faint            | R    |
-| Isaiah | 40:29          | 1069:20-25  | 97:7.8/5-7     | Pt 2: He gives power to faint      | R    |
+| Isaiah | 40:29          | 1069:20-25  | 97:7.8/5-7     | Part 2: He gives power to faint      | R    |
 | Isaiah | 40:31          | 1444:46-48  | 131:2.6/15-18  | Wait on God, renew strength        | R    |
-| Isaiah | 40:31          | 1069:20-25  | 97:7.8/7-10    | Pt 3: Who wait upon the lord       | R    |
+| Isaiah | 40:31          | 1069:20-25  | 97:7.8/7-10    | Part 3: Who wait upon the lord       | R    |
 | Isaiah | 41:4           | 1069:4-5    | 97:7.6/7-8     | I am the first and the last        | R    |
 | Isaiah | 41:4           | 34:6-7      | 2:1.2/4        | God, our source & destiny          | C    |
 | Isaiah | 41:4           | 34:12-13    | 2:1.2/15       | He is the beginning and end        | C    |
@@ -193,7 +193,7 @@ type = See _readme
 | Isaiah | 41:10,13-14    | 1046:32-33  | 95:4.3/3-4     | Saved from fear                    | R    |
 | Isaiah | 41:13          | 1769:27-28  | 159:5.5/all    | Fear not, I will help              | R    |
 | Isaiah | 41:17          | 2035:22-23  | 190:5.4/27-29  | Hear cry of poor and needy         | R    |
-| Isaiah | 41:17          | 1069:38-39  | 97:7.9/24      | Pt 2: God would not forsake        | R    |
+| Isaiah | 41:17          | 1069:38-39  | 97:7.9/24      | Part 2: God would not forsake        | R    |
 | Isaiah | 42:1           | 1509:24     | 136:1.1/10-11  | # 1 Servant of the Lord            | R    |
 | Isaiah | 42:1-2         | 1932:20     | 178:1.17/2-3   | Do not strive with men             | C    |
 | Isaiah | 42:3           | 1662:26     | 148:5.5/30-31  | Bruised reed He not break          | R    |
@@ -215,20 +215,20 @@ type = See _readme
 | Isaiah | 43:1           | 1069:11     | 97:7.7/3-6     | Lord says: I created you           | R    |
 | Isaiah | 43:2           | 1291:15     | 117:6.27/3-4   | God is with us                     | C    |
 | Isaiah | 43:2           | 1662:27-28  | 148:5.5/32-35  | Waters of affliction, rivers       | R    |
-| Isaiah | 43:2           | 1069:12-13  | 97:7.7/6-7     | Pt 1: Pass through waters          | R    |
-| Isaiah | 43:4           | 1069:12-13  | 97:7.7/7-8     | Pt 2: You are precious             | R    |
+| Isaiah | 43:2           | 1069:12-13  | 97:7.7/6-7     | Part 1: Pass through waters          | R    |
+| Isaiah | 43:4           | 1069:12-13  | 97:7.7/7-8     | Part 2: You are precious             | R    |
 | Isaiah | 43:6-7         | 1661:7-9    | 148:4.10/6-9   | I created them for my glory        | R    |
-| Isaiah | 43:7           | 1069:41-43  | 97:7.10/3-7    | Pt 1: I made man for my glory      | R    |
-| Isaiah | 43:10-11       | 1392:23-25  | 126:4.7/all    | Scripture read                     | R    |
+| Isaiah | 43:7           | 1069:41-43  | 97:7.10/3-7    | Part 1: I made man for my glory      | R    |
+| Isaiah | 43:10-11       | 1392:23-25  | 126:4.7/all    | Scripture read: Ye are my witnesses, saith the Lord                     | R    |
 | Isaiah | 43:20-21       | 1058:38-39  | 96:5.6/11-12   | Chosen people of God               | C    |
 | Isaiah | 43:20-21       | 1075:29-31  | 97:10.1/1-6    | Chosen people                      | C    |
 | Isaiah | 43:20-21       | 1065:37     | 97:4.2/21      | Chosen people                      | C    |
 | Isaiah | 43:20-21       | 1018:25     | 93:5.1/2       | Chosen people                      | R    |
 | Isaiah | 43:20-21       | 1055:6      | 96:2.3/5-6     | Chosen people                      | C    |
 | Isaiah | 43:21          | 1334:23     | 121:2.8/26     | Chosen people                      | R    |
-| Isaiah | 43:21          | 1069:41-43  | 97:7.10/3-7    | Pt 2: Show forth my praise         | R    |
-| Isaiah | 43:22-26       | 1071:10-11  | 97:8.3/18-20   | 2nd Isaiah: sacrifice / redemption | C    |
-| Isaiah | 43:25          | 1069:41-43  | 97:7.10/3-7    | Pt 3: I blot out transgressions    | R    |
+| Isaiah | 43:21          | 1069:41-43  | 97:7.10/3-7    | Part 2: Show forth my praise         | R    |
+| Isaiah | 43:22-26       | 1071:10-11  | 97:8.3/18-20   | Second Isaiah: sacrifice / redemption | C    |
+| Isaiah | 43:25          | 1069:41-43  | 97:7.10/3-7    | Part 3: I blot out transgressions    | R    |
 | Isaiah | 43:25          | 39:16-18    | 2:5.4/4-6      | God blots out sins                 | R    |
 | Isaiah | 44:1           | 1075:29-31  | 97:10.1/1-6    | Chosen people                      | C    |
 | Isaiah | 44:1           | 1055:6      | 96:2.3/5-6     | Chosen people                      | C    |
@@ -271,7 +271,7 @@ type = See _readme
 | Isaiah | 45:5-6,21      | 1009:32-33  | 92:5.8/7-8     | One God                            | C    |
 | Isaiah | 45:5-6.21      | 31:36       | 1:7.6/10       | The Lord God is one                | R    |
 | Isaiah | 45:12          | 828:8-10    | 74:0.1/10-13   | Creation of mankind                | C    |
-| Isaiah | 45:12          | 1069:3-4    | 97:7.6/5-6     | 1st part: I made earth, man        | R    |
+| Isaiah | 45:12          | 1069:3-4    | 97:7.6/5-6     | Part 1: I made earth, man        | R    |
 | Isaiah | 45:12,18       | 654:1-3     | 57:3.8/1-5     | Michael's creation                 | C    |
 | Isaiah | 45:12,18       | 1048:19-21  | 95:5.9/4-7     | God created                        | C    |
 | Isaiah | 45:12,18       | 1011:32-33  | 92:6.6/13-14   | God created heaven & earth         | C    |
@@ -285,7 +285,7 @@ type = See _readme
 | Isaiah | 45:12,18       | 1444:5-6    | 131:2.2/1-3    | God created heaven & earth         | C    |
 | Isaiah | 45:12,18       | 1453:41-42  | 131:10.2/11-13 | God made all things and beings     | C    |
 | Isaiah | 45:12-18       | 0004:12-13  | 0:2.9/all      | God as Creator of heaven, earth    | C    |
-| Isaiah | 45:18          | 1069:3-4    | 97:7.6/6-7     | 2nd part: Created not in vain      | R    |
+| Isaiah | 45:18          | 1069:3-4    | 97:7.6/6-7     | Part 2: Created not in vain      | R    |
 | Isaiah | 45:18          | 21:18-20    | 1:0.2/7-10     | Created earth to be inhabited      | R    |
 | Isaiah | 45:18          | 1445:30-31  | 131:2.9/8-9    | Creator speaks                     | R    |
 | Isaiah | 45:21          | 1069:9      | 97:7.6/15-16   | No God beside me, a just God       | R    |
@@ -306,15 +306,15 @@ type = See _readme
 | Isaiah | 49:6           | 447:38-39   | 40:5.16/9-10   | True light                         | C    |
 | Isaiah | 49:6           | 590:33      | 52:1.7/3       | Lighted by the true light          | R    |
 | Isaiah | 49:9           | 1328:14-15  | 120:2.6/1-2    | Free spiritual captives            | C    |
-| Isaiah | 49:15          | 1069:38-39  | 97:7.9/24      | Pt 1: God would not forget         | R    |
-| Isaiah | 49:15-16       | 1069:14-17  | 97:7.7/8-12    | Pt 1: Can a woman forget           | R    |
+| Isaiah | 49:15          | 1069:38-39  | 97:7.9/24      | Part 1: God would not forget         | R    |
+| Isaiah | 49:15-16       | 1069:14-17  | 97:7.7/8-12    | Part 1: Can a woman forget           | R    |
 | Isaiah | 50:10          | 1795:19     | 162:5.3/5-6    | Many prefer to sit in darkness     | S    |
 | Isaiah | 51:3           | 492:7       | 43:6.1/11      | The gardens of God                 | R    |
 | Isaiah | 51:5           | 1682:35-36  | 150:5.2/9-11   | Arms enfold people                 | R    |
-| Isaiah | 51:6           | 1069:6-8    | 97:7.6/10-12   | Pt 1: Heavens may vanish           | R    |
-| Isaiah | 51:8           | 1069:6-8    | 97:7.6/12-13   | Pt 2: Salvation to generations     | R    |
+| Isaiah | 51:6           | 1069:6-8    | 97:7.6/10-12   | Part 1: Heavens may vanish           | R    |
+| Isaiah | 51:8           | 1069:6-8    | 97:7.6/12-13   | Part 2: Salvation to generations     | R    |
 | Isaiah | 51:11          | 2035:33     | 190:5.4/45-46  | Everlasting joy                    | R    |
-| Isaiah | 51:16          | 1069:14-17  | 97:7.7/12-14   | Pt 2: Cover with shadow            | R    |
+| Isaiah | 51:16          | 1069:14-17  | 97:7.7/12-14   | Part 2: Cover with shadow            | R    |
 | Isaiah | 53:1           | 1902:45-46  | 174:5.3/15-17  | Who believes Lord revealed         | R    |
 | Isaiah | 53:3           | 1103:3      | 100:7.13/1-2   | Not man of sorrows                 | C    |
 | Isaiah | 53:3           | 1425:21     | 129:4.4/5-6    | Man of sorrows, knew grief         | R    |
@@ -401,9 +401,9 @@ type = See _readme
 | Isaiah | 58:3.6         | 976:16-17   | 89:3.1/2-3     | Ritual fasting                     | C    |
 | Isaiah | 58:5-7         | 1656:18-24  | 147:8.3/all    | Why not do good?                   | S    |
 | Isaiah | 58:8-12        | 1656:25-36  | 147:8.4/all    | Light break forth                  | S    |
-| Isaiah | 58:11          | 1070:7-10   | 97:7.12/7-12   | Pt 1: Lord guides continually      | R    |
+| Isaiah | 58:11          | 1070:7-10   | 97:7.12/7-12   | Part 1: Lord guides continually      | R    |
 | Isaiah | 59:1           | 1069:35-36  | 97:7.9/17-20   | Lord's hand not shortened          | R    |
-| Isaiah | 59:19          | 1070:7-10   | 97:7.12/7-12   | Pt 2: Spirit defends attacks       | R    |
+| Isaiah | 59:19          | 1070:7-10   | 97:7.12/7-12   | Part 2: Spirit defends attacks       | R    |
 | Isaiah | 59:21          | 1130:31-35  | 103:1.6/3-12   | Spirit in man (Holy Spirit)        | C    |
 | Isaiah | 59:21          | 95:38-40    | 8:5.3/1-4      | Spirit of God (Holy Spirit)        | C    |
 | Isaiah | 59:21          | 377:33      | 34:4.1/5-6     | Holy Spirit                        | C    |
@@ -427,7 +427,7 @@ type = See _readme
 | Isaiah | 61:1-2         | 1662:28-30  | 148:5.5/35-37  | Sent to bind up broken hearted     | R    |
 | Isaiah | 61:1-2         | 1626:43-45  | 144:8.3/1-5    | Good tidings preached to poor      | C    |
 | Isaiah | 61:1-2a        | 1686:8-11   | 150:8.9/3-9    | Spirit of Lord is upon me          | R    |
-| Isaiah | 61:1-3         | 1391:41-47  | 126:4.2/all    | Scripture read                     | R    |
+| Isaiah | 61:1-3         | 1391:41-47  | 126:4.2/all    | Scripture read: The Spirit of the Lord is upon me                     | R    |
 | Isaiah | 61:2-3         | 2035:31     | 190:5.4/42     | He will comfort mourners           | C    |
 | Isaiah | 61:7           | 2035:33     | 190:5.4/45-46  | Everlasting joy                    | R    |
 | Isaiah | 61:10          | 1445:41     | 131:2.10/8     | God is joy of my soul              | R    |
@@ -487,9 +487,9 @@ type = See _readme
 | Isaiah | 65:24          | 1577:31-32  | 140:6.11/7-9   | God knows before you ask           | S    |
 | Isaiah | 65:24          | 49:16-17    | 3:3.2/23-24    | He knows needs before ask          | R    |
 | Isaiah | 66:1           | 1069:45-46  | 97:7.11/4-5    | Heaven is throne, earth stool      | R    |
-| Isaiah | 66:1-2         | 1532:40-45  | 137:6.2/4-11   | (Jesus reads selected verses)      | R    |
-| Isaiah | 66:5-8         | 1532:45-51  | 137:6.2/11-22  | (Jesus reads selected verses)      | R    |
-| Isaiah | 66:12-14       | 1533:4-7    | 137:6.2/22-28  | (Jesus reads selected verses)      | R    |
+| Isaiah | 66:1-2         | 1532:40-45  | 137:6.2/4-11   | Jesus reads selected verses      | R    |
+| Isaiah | 66:5-8         | 1532:45-51  | 137:6.2/11-22  | Jesus reads selected verses      | R    |
+| Isaiah | 66:12-14       | 1533:4-7    | 137:6.2/22-28  | Jesus reads selected verses      | R    |
 | Isaiah | 66:22          | 1914:1      | 176:1.6/14-15  | New heavens and new earth          | C    |
 | Isaiah | 66:22          | 174:1       | 15:7.1/1       | New heaven                         | C    |
 | Isaiah | 66:22          | 599:46-48   | 52:7.11/4-7    | New heaven & new earth             | R    |
