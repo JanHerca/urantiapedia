@@ -470,7 +470,7 @@
 | Can you find God?                                                                       | Ar gali rasti Dievą?                                                     |
 | Canaanites never destroyed                                                              | Kanaaniečiai niekada nebuvo sunaikinti                                   |
 | Cannot find God by knowledge                                                            | Negaliu rasti Dievo pagal žinojimą                                       |
-| Cannot see my face..                                                                    | Nematau savo veido..                                                     |
+| Cannot see my face...                                                                    | Nematau savo veido..                                                     |
 | Cano pleasant to Eve's eyes                                                             | Cano malonus Ievos akims                                                 |
 | Captain of our salvation                                                                | Mūsų išganymo kapitonas                                                  |
 | Capture females                                                                         | Sugauti pateles                                                          |
@@ -1659,7 +1659,7 @@
 | In darkness a great light                                                               | Tamsoje puiki šviesa                                                     |
 | In everything give thanks                                                               | Už viską padėkok                                                         |
 | In God all things consist                                                               | Dieve viskas susideda                                                    |
-| In God man lives, moves..                                                               | Dieve žmogus gyvena, juda..                                              |
+| In God man lives, moves...                                                               | Dieve žmogus gyvena, juda..                                              |
 | In God no variableness                                                                  | Dieve jokio kintamumo                                                    |
 | In God we live & move                                                                   | Dieve mes gyvename ir judame                                             |
 | In God's image                                                                          | Pagal Dievo paveikslą                                                    |
@@ -2090,7 +2090,7 @@
 | Kingdom of God at hand                                                                  | Dievo karalystė arti                                                     |
 | Kingdom of God is at hand                                                               | Dievo karalystė arti                                                     |
 | Kingdom of God is within you                                                            | Dievo karalystė yra jumyse                                               |
-| Kingdom of God not meat..                                                               | Dievo karalystė ne mėsa..                                                |
+| Kingdom of God not meat...                                                               | Dievo karalystė ne mėsa..                                                |
 | Kingdom of God within                                                                   | Dievo karalystė viduje                                                   |
 | Kingdom of God/heaven at hand                                                           | Dievo karalystė / dangus arti                                            |
 | Kingdom of heaven                                                                       | Dangaus karalystė                                                        |

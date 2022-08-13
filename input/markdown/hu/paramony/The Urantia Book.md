@@ -493,7 +493,7 @@
 | Can you find God?                                                                       | Megtalálod-e Istent?                                                   |
 | Canaanites never destroyed                                                              | A kánaániak soha nem pusztultak el                                     |
 | Cannot find God by knowledge                                                            | Istent nem lehet megtalálni az ismeret által                           |
-| Cannot see my face..                                                                    | Nem látom az arcom...                                                  |
+| Cannot see my face...                                                                    | Nem látom az arcom...                                                  |
 | Cano pleasant to Eve's eyes                                                             | Cano kellemes Éva szemének                                             |
 | Captain of our salvation                                                                | Üdvösségünk kapitánya                                                  |
 | Capture females                                                                         | Nőstényeket elfogni                                                    |
@@ -1725,7 +1725,7 @@
 | In everything give thanks                                                               | Mindenben adjatok hálát                                                |
 | In God all things consist                                                               | Istenben áll minden                                                    |
 | In God all things consist                                                               | Istenben van minden                                                    |
-| In God man lives, moves..                                                               | Istenben él az ember, mozog...                                         |
+| In God man lives, moves...                                                               | Istenben él az ember, mozog...                                         |
 | In God no variableness                                                                  | Istenben nincs változékonyság                                          |
 | In God we live & move                                                                   | Istenben élünk és mozgunk                                              |
 | In God's image                                                                          | Isten képmása                                                          |
@@ -2161,7 +2161,7 @@
 | Kingdom of God at hand                                                                  | Isten országa közel van                                                |
 | Kingdom of God is at hand                                                               | Isten országa közel van                                                |
 | Kingdom of God is within you                                                            | Isten országa bennetek van                                             |
-| Kingdom of God not meat..                                                               | Isten országa nem hús...                                               |
+| Kingdom of God not meat...                                                               | Isten országa nem hús...                                               |
 | Kingdom of God within                                                                   | Isten országa belül                                                    |
 | Kingdom of God/heaven at hand                                                           | Isten országa / mennyország közel van                                  |
 | Kingdom of Heaven                                                                       | A mennyek országa                                                      |

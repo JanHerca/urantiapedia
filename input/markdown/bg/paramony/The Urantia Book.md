@@ -531,7 +531,7 @@
 | Can you find God?                                                                       | Можете ли да намерите Бог?                                                      |
 | Canaanites never destroyed                                                              | Ханаанците никога не са били унищожени                                          |
 | Cannot find God by knowledge                                                            | Не можеш да намериш Бога чрез познание                                          |
-| Cannot see my face..                                                                    | Не виждам лицето ми ...                                                         |
+| Cannot see my face...                                                                    | Не виждам лицето ми ...                                                         |
 | Cano pleasant to Eve's eyes                                                             | Кано приятен за очите на Ева                                                    |
 | Captain of our salvation                                                                | Капитан на нашето спасение                                                      |
 | Capture females                                                                         | Уловете женските                                                                |
@@ -1882,7 +1882,7 @@
 | In everything give thanks                                                               | Във всичко благодарете                                                          |
 | In God all things consist                                                               | В Бога всичко се състои                                                         |
 | In God all things consist                                                               | В Бога всичко се състои                                                         |
-| In God man lives, moves..                                                               | В Бог човекът живее, движи се ...                                               |
+| In God man lives, moves...                                                               | В Бог човекът живее, движи се ...                                               |
 | In God no variableness                                                                  | В Бога няма променливост                                                        |
 | In God we live & move                                                                   | В Бога живеем и се движим                                                       |
 | In God's image                                                                          | По Божи образ                                                                   |
@@ -2348,7 +2348,7 @@
 | Kingdom of God is at hand                                                               | Божието царство е близо                                                         |
 | Kingdom of God is at hand                                                               | Божието царство е близо                                                         |
 | Kingdom of God is within you                                                            | Божието царство е във вас                                                       |
-| Kingdom of God not meat..                                                               | Божието царство не е месо..                                                     |
+| Kingdom of God not meat...                                                               | Божието царство не е месо..                                                     |
 | Kingdom of God within                                                                   | Царството Божие вътре                                                           |
 | Kingdom of God/heaven at hand                                                           | Царството Божие/небето наближи                                                  |
 | Kingdom of heaven                                                                       | Небесно царство                                                                 |

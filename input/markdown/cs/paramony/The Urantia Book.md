@@ -531,7 +531,7 @@
 | Can you find God?                                                                       | Můžete najít Boha?                                               |
 | Canaanites never destroyed                                                              | Kanaánci nebyli nikdy zničeni                                    |
 | Cannot find God by knowledge                                                            | Poznáním Boha nenajdeme                                          |
-| Cannot see my face..                                                                    | Nevidím svou tvář..                                              |
+| Cannot see my face...                                                                    | Nevidím svou tvář..                                              |
 | Cano pleasant to Eve's eyes                                                             | Kano příjemný pro Eviny oči                                      |
 | Captain of our salvation                                                                | Kapitán naší spásy                                               |
 | Capture females                                                                         | Chytit samice                                                    |
@@ -1882,7 +1882,7 @@
 | In everything give thanks                                                               | Ve všem děkujte                                                  |
 | In God all things consist                                                               | V Bohu je všechno                                                |
 | In God all things consist                                                               | V Bohu všechno spočívá                                           |
-| In God man lives, moves..                                                               | V Bohu člověk žije, pohybuje se...                               |
+| In God man lives, moves...                                                               | V Bohu člověk žije, pohybuje se...                               |
 | In God no variableness                                                                  | V Bohu není proměnlivosti                                        |
 | In God we live & move                                                                   | V Bohu žijeme a pohybujeme se                                    |
 | In God's image                                                                          | K Božímu obrazu                                                  |
@@ -2348,7 +2348,7 @@
 | Kingdom of God is at hand                                                               | Boží království se přiblížilo                                    |
 | Kingdom of God is at hand                                                               | Království Boží se přiblížilo                                    |
 | Kingdom of God is within you                                                            | Boží království je ve vás                                        |
-| Kingdom of God not meat..                                                               | Království Boží není maso..                                      |
+| Kingdom of God not meat...                                                               | Království Boží není maso..                                      |
 | Kingdom of God within                                                                   | Království Boží uvnitř                                           |
 | Kingdom of God/heaven at hand                                                           | Království Boží/nebe se přiblížilo                               |
 | Kingdom of heaven                                                                       | Království nebeské                                               |

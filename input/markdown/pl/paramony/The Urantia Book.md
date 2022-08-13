@@ -470,7 +470,7 @@
 | Can you find God?                                                                       | Czy możesz znaleźć Boga?                                                    |
 | Canaanites never destroyed                                                              | Kananejczycy nigdy nie zniszczeni                                           |
 | Cannot find God by knowledge                                                            | Nie można znaleźć Boga przez wiedzę                                         |
-| Cannot see my face..                                                                    | Nie widzę mojej twarzy...                                                   |
+| Cannot see my face...                                                                    | Nie widzę mojej twarzy...                                                   |
 | Cano pleasant to Eve's eyes                                                             | Cano przyjemny dla oczu Ewy                                                 |
 | Captain of our salvation                                                                | Kapitanie naszego zbawienia                                                 |
 | Capture females                                                                         | Schwytaj samice                                                             |
@@ -1659,7 +1659,7 @@
 | In darkness a great light                                                               | W ciemności wielkie światło                                                 |
 | In everything give thanks                                                               | We wszystkim dziękuj                                                        |
 | In God all things consist                                                               | W Bogu wszystko składa się                                                  |
-| In God man lives, moves..                                                               | W Bogu człowiek żyje, porusza się..                                         |
+| In God man lives, moves...                                                               | W Bogu człowiek żyje, porusza się..                                         |
 | In God no variableness                                                                  | W Bogu nie ma zmienności                                                    |
 | In God we live & move                                                                   | W Bogu żyjemy i poruszamy się                                               |
 | In God's image                                                                          | Na obraz Boga                                                               |
@@ -2090,7 +2090,7 @@
 | Kingdom of God at hand                                                                  | Królestwo Boże na wyciągnięcie ręki                                         |
 | Kingdom of God is at hand                                                               | Królestwo Boże jest na wyciągnięcie ręki                                    |
 | Kingdom of God is within you                                                            | Królestwo Boże jest w tobie                                                 |
-| Kingdom of God not meat..                                                               | Królestwo Boże nie mięso...                                                 |
+| Kingdom of God not meat...                                                               | Królestwo Boże nie mięso...                                                 |
 | Kingdom of God within                                                                   | Królestwo Boże w                                                            |
 | Kingdom of God/heaven at hand                                                           | Królestwo Boże/niebo na wyciągnięcie ręki                                   |
 | Kingdom of heaven                                                                       | Królestwo niebieskie                                                        |

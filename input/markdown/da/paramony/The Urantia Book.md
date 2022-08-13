@@ -486,7 +486,7 @@
 | Can you find God?                                                                       | Kan du finde Gud?                                                                        |
 | Canaanites never destroyed                                                              | Kanaanæerne aldrig udryddet                                                              |
 | Cannot find God by knowledge                                                            | Man kan ikke finde Gud gennem viden                                                      |
-| Cannot see my face..                                                                    | Kan ikke se mit ansigt...                                                                |
+| Cannot see my face...                                                                    | Kan ikke se mit ansigt...                                                                |
 | Cano pleasant to Eve's eyes                                                             | Cano behagelig for Evas øjne                                                             |
 | Captain of our salvation                                                                | Kaptajn af vores frelse                                                                  |
 | Capture females                                                                         | Indfange kvinder                                                                         |
@@ -1702,7 +1702,7 @@
 | In darkness a great light                                                               | I mørket et stort lys                                                                    |
 | In everything give thanks                                                               | Tak i alting                                                                             |
 | In God all things consist                                                               | I Gud består alle ting                                                                   |
-| In God man lives, moves..                                                               | I Gud lever mennesket, bevæger sig...                                                    |
+| In God man lives, moves...                                                               | I Gud lever mennesket, bevæger sig...                                                    |
 | In God no variableness                                                                  | I Gud er der ingen foranderlighed                                                        |
 | In God we live & move                                                                   | I Gud lever og bevæger vi os                                                             |
 | In God's image                                                                          | I Guds billede                                                                           |
@@ -2142,7 +2142,7 @@
 | Kingdom of God at hand                                                                  | Guds rige er nær                                                                         |
 | Kingdom of God is at hand                                                               | Guds rige er nær                                                                         |
 | Kingdom of God is within you                                                            | Guds rige er i jer                                                                       |
-| Kingdom of God not meat..                                                               | Guds rige ikke kød...                                                                    |
+| Kingdom of God not meat...                                                               | Guds rige ikke kød...                                                                    |
 | Kingdom of God within                                                                   | Guds rige indeni                                                                         |
 | Kingdom of God/heaven at hand                                                           | Guds rige/himlen er nær                                                                  |
 | Kingdom of heaven                                                                       | himmeriges rige                                                                          |

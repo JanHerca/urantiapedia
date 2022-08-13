@@ -491,7 +491,7 @@
 | Can you find God?                                                                       | Kannst du Gott finden?                                                                                                |
 | Canaanites never destroyed                                                              | Kanaaniter nie vernichtet                                                                                             |
 | Cannot find God by knowledge                                                            | Man kann Gott nicht durch Wissen finden                                                                               |
-| Cannot see my face..                                                                    | Kann mein Angesicht nicht sehen...                                                                                    |
+| Cannot see my face...                                                                    | Kann mein Angesicht nicht sehen...                                                                                    |
 | Cano pleasant to Eve's eyes                                                             | Cano angenehm für Evas Augen                                                                                          |
 | Captain of our salvation                                                                | Hauptmann unseres Heils                                                                                               |
 | Capture females                                                                         | Frauen gefangen nehmen                                                                                                |
@@ -1703,7 +1703,7 @@
 | In darkness a great light                                                               | In der Finsternis ein großes Licht                                                                                    |
 | In everything give thanks                                                               | Dankt in allem                                                                                                        |
 | In God all things consist                                                               | In Gott bestehen alle Dinge                                                                                           |
-| In God man lives, moves..                                                               | In Gott lebt der Mensch, bewegt sich...                                                                               |
+| In God man lives, moves...                                                               | In Gott lebt der Mensch, bewegt sich...                                                                               |
 | In God no variableness                                                                  | In Gott keine Veränderlichkeit                                                                                        |
 | In God we live & move                                                                   | In Gott leben und bewegen wir uns                                                                                     |
 | In God's image                                                                          | Nach dem Bilde Gottes                                                                                                 |
@@ -2145,7 +2145,7 @@
 | Kingdom of God at hand                                                                  | Das Reich Gottes ist nahe                                                                                             |
 | Kingdom of God is at hand                                                               | Das Reich Gottes ist nahe                                                                                             |
 | Kingdom of God is within you                                                            | Das Reich Gottes ist in euch                                                                                          |
-| Kingdom of God not meat..                                                               | Reich Gottes nicht Fleisch...                                                                                         |
+| Kingdom of God not meat...                                                               | Reich Gottes nicht Fleisch...                                                                                         |
 | Kingdom of God within                                                                   | Reich Gottes im Innern                                                                                                |
 | Kingdom of God/heaven at hand                                                           | Das Reich Gottes/Himmelreich ist nahe                                                                                 |
 | Kingdom of heaven                                                                       | Himmelreich                                                                                                           |

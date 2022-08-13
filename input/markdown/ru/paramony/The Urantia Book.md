@@ -470,7 +470,7 @@
 | Can you find God?                                                                       | Сможете ли вы найти Бога?                                           |
 | Canaanites never destroyed                                                              | Хананеи никогда не уничтожали                                       |
 | Cannot find God by knowledge                                                            | Не могу найти Бога по знанию                                        |
-| Cannot see my face..                                                                    | Не могу видеть мое лицо..                                           |
+| Cannot see my face...                                                                    | Не могу видеть мое лицо..                                           |
 | Cano pleasant to Eve's eyes                                                             | Кано приятный глазу Евы                                             |
 | Captain of our salvation                                                                | Капитан нашего спасения                                             |
 | Capture females                                                                         | Захват женщин                                                       |
@@ -1659,7 +1659,7 @@
 | In darkness a great light                                                               | Во тьме великий свет                                                |
 | In everything give thanks                                                               | За все благодарите                                                  |
 | In God all things consist                                                               | В Боге все состоит                                                  |
-| In God man lives, moves..                                                               | В Боге человек живет, движется..                                    |
+| In God man lives, moves...                                                               | В Боге человек живет, движется..                                    |
 | In God no variableness                                                                  | В Боге нет изменчивости                                             |
 | In God we live & move                                                                   | В Боге мы живем и движемся                                          |
 | In God's image                                                                          | По образу Божьему                                                   |
@@ -2090,7 +2090,7 @@
 | Kingdom of God at hand                                                                  | Царство Божье под рукой                                             |
 | Kingdom of God is at hand                                                               | Царство Божье близко                                                |
 | Kingdom of God is within you                                                            | Царство Божие внутри вас                                            |
-| Kingdom of God not meat..                                                               | Царство Божие не мясо..                                             |
+| Kingdom of God not meat...                                                               | Царство Божие не мясо..                                             |
 | Kingdom of God within                                                                   | Царство Божье внутри                                                |
 | Kingdom of God/heaven at hand                                                           | Царство Божье/небеса под рукой                                      |
 | Kingdom of heaven                                                                       | Царство небесное                                                    |

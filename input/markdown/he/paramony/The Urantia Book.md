@@ -474,7 +474,7 @@
 | Can you find God?                                                                       | האם אתה יכול למצוא את אלוהים?                                 |
 | Canaanites never destroyed                                                              | כנענים מעולם לא השמידו                                        |
 | Cannot find God by knowledge                                                            | לא יכול למצוא את אלוהים על ידי ידע                            |
-| Cannot see my face..                                                                    | לא יכול לראות את הפנים שלי..                                  |
+| Cannot see my face...                                                                    | לא יכול לראות את הפנים שלי..                                  |
 | Cano pleasant to Eve's eyes                                                             | קנו נעים לעיניה של חוה                                        |
 | Captain of our salvation                                                                | קפטן ישועתנו                                                  |
 | Capture females                                                                         | ללכוד נקבות                                                   |
@@ -1669,7 +1669,7 @@
 | In darkness a great light                                                               | בחושך אור גדול                                                |
 | In everything give thanks                                                               | בכל דבר תודו                                                  |
 | In God all things consist                                                               | באלוהים כל הדברים מורכבים                                     |
-| In God man lives, moves..                                                               | באלוהים האדם חי, זז..                                         |
+| In God man lives, moves...                                                               | באלוהים האדם חי, זז..                                         |
 | In God no variableness                                                                  | באלוהים אין משתנה                                             |
 | In God we live & move                                                                   | באלוהים אנחנו חיים וזזים                                      |
 | In God's image                                                                          | בצלם אלוהים                                                   |
@@ -2101,7 +2101,7 @@
 | Kingdom of God at hand                                                                  | מלכות אלוהים בהישג יד                                         |
 | Kingdom of God is at hand                                                               | מלכות אלוהים בפתח                                             |
 | Kingdom of God is within you                                                            | מלכות אלוהים בתוכך                                            |
-| Kingdom of God not meat..                                                               | מלכות אלוהים לא בשר..                                         |
+| Kingdom of God not meat...                                                               | מלכות אלוהים לא בשר..                                         |
 | Kingdom of God within                                                                   | מלכות אלוהים בפנים                                            |
 | Kingdom of God/heaven at hand                                                           | מלכות אלוהים/גן עדן בהישג יד                                  |
 | Kingdom of heaven                                                                       | מלכות שמים                                                    |

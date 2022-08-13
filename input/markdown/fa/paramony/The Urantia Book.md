@@ -491,7 +491,7 @@
 | Can you find God?                                                                       | آیا می توانی خدا را پیدا کنی؟                                              |
 | Canaanites never destroyed                                                              | کنعانیان هرگز نابود نشدند                                                  |
 | Cannot find God by knowledge                                                            | با علم نمی توان خدا را پیدا کرد                                            |
-| Cannot see my face..                                                                    | چهره ام را نمی بیند..                                                      |
+| Cannot see my face...                                                                    | چهره ام را نمی بیند..                                                      |
 | Cano pleasant to Eve's eyes                                                             | کانو دلپذیر به چشم حوا                                                     |
 | Captain of our salvation                                                                | کاپیتان نجات ما                                                            |
 | Capture females                                                                         | گرفتن ماده ها                                                              |
@@ -1703,7 +1703,7 @@
 | In darkness a great light                                                               | در تاریکی یک نور بزرگ                                                      |
 | In everything give thanks                                                               | در همه چیز تشکر کنید                                                       |
 | In God all things consist                                                               | در خدا همه چیز شامل                                                        |
-| In God man lives, moves..                                                               | در خدا انسان زندگی می کند، حرکت می کند..                                   |
+| In God man lives, moves...                                                               | در خدا انسان زندگی می کند، حرکت می کند..                                   |
 | In God no variableness                                                                  | در خدا هیچ متغیری                                                          |
 | In God we live & move                                                                   | در خدا زندگی می کنیم و حرکت می کنیم                                        |
 | In God's image                                                                          | به تصویر خدا                                                               |
@@ -2145,7 +2145,7 @@
 | Kingdom of God at hand                                                                  | پادشاهی خدا در دست است                                                     |
 | Kingdom of God is at hand                                                               | پادشاهی خدا نزدیک است                                                      |
 | Kingdom of God is within you                                                            | پادشاهی خدا در درون شماست                                                  |
-| Kingdom of God not meat..                                                               | پادشاهی خدا گوشت نیست..                                                    |
+| Kingdom of God not meat...                                                               | پادشاهی خدا گوشت نیست..                                                    |
 | Kingdom of God within                                                                   | پادشاهی خدا در درون                                                        |
 | Kingdom of God/heaven at hand                                                           | پادشاهی خدا/بهشت در دست است                                                |
 | Kingdom of heaven                                                                       | پادشاهی آسمان                                                              |

@@ -470,7 +470,7 @@
 | Can you find God?                                                                       | あなたは神を見つけることができますか？                                 |
 | Canaanites never destroyed                                                              | カナン人は決して滅びなかった                                           |
 | Cannot find God by knowledge                                                            | 知識で神を見つけることはできません                                     |
-| Cannot see my face..                                                                    | 顔が見えない..                                                         |
+| Cannot see my face...                                                                    | 顔が見えない..                                                         |
 | Cano pleasant to Eve's eyes                                                             | イブの目に心地よいカノ                                                 |
 | Captain of our salvation                                                                | 私たちの救いの船長                                                     |
 | Capture females                                                                         | 女性を捕まえる                                                         |
@@ -1659,7 +1659,7 @@
 | In darkness a great light                                                               | 暗闇の中で大きな光                                                     |
 | In everything give thanks                                                               | すべてに感謝                                                           |
 | In God all things consist                                                               | 神においてすべてのものは成っている                                     |
-| In God man lives, moves..                                                               | 神の中で人は生き、動きます。                                           |
+| In God man lives, moves...                                                               | 神の中で人は生き、動きます。                                           |
 | In God no variableness                                                                  | 神には可変性はありません                                               |
 | In God we live & move                                                                   | 神の中で私たちは生き、動きます。                                       |
 | In God's image                                                                          | 神のイメージで                                                         |
@@ -2090,7 +2090,7 @@
 | Kingdom of God at hand                                                                  | 目の前にある神の王国                                                   |
 | Kingdom of God is at hand                                                               | 神の王国は近づいています                                               |
 | Kingdom of God is within you                                                            | 神の王国はあなたの中にあります                                         |
-| Kingdom of God not meat..                                                               | 肉ではなく神の王国..                                                   |
+| Kingdom of God not meat...                                                               | 肉ではなく神の王国..                                                   |
 | Kingdom of God within                                                                   | 内なる神の王国                                                         |
 | Kingdom of God/heaven at hand                                                           | 神の王国/天国を目前に                                                  |
 | Kingdom of heaven                                                                       | 天国の王国                                                             |

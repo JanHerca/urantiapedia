@@ -500,7 +500,7 @@
 | Can you find God?                                                                       | Μπορείς να βρεις τον Θεό;                                                                          |
 | Canaanites never destroyed                                                              | Οι Χαναναίοι δεν καταστράφηκαν ποτέ                                                                |
 | Cannot find God by knowledge                                                            | Δεν μπορούμε να βρούμε τον Θεό με τη γνώση                                                         |
-| Cannot see my face..                                                                    | Δεν μπορώ να δω το πρόσωπό μου...                                                                  |
+| Cannot see my face...                                                                    | Δεν μπορώ να δω το πρόσωπό μου...                                                                  |
 | Cano pleasant to Eve's eyes                                                             | Cano ευχάριστο στα μάτια της Εύας                                                                  |
 | Captain of our salvation                                                                | Αρχηγός της σωτηρίας μας                                                                           |
 | Capture females                                                                         | Αιχμαλωτίστε τα θηλυκά                                                                             |
@@ -1718,7 +1718,7 @@
 | In everything give thanks                                                               | Σε όλα να ευχαριστείτε                                                                             |
 | In God all things consist                                                               | Εν Θεώ τα πάντα συνίστανται                                                                        |
 | In God all things consist                                                               | Στον Θεό συνίστανται τα πάντα                                                                      |
-| In God man lives, moves..                                                               | Στον Θεό ο άνθρωπος ζει, κινείται...                                                               |
+| In God man lives, moves...                                                               | Στον Θεό ο άνθρωπος ζει, κινείται...                                                               |
 | In God no variableness                                                                  | Στον Θεό δεν υπάρχει μεταβλητότητα                                                                 |
 | In God we live & move                                                                   | Στον Θεό ζούμε και κινούμαστε                                                                      |
 | In God's image                                                                          | κατ' εικόνα του Θεού                                                                               |
@@ -2157,7 +2157,7 @@
 | Kingdom of God is at hand                                                               | Η βασιλεία του Θεού είναι κοντά                                                                    |
 | Kingdom of God is at hand                                                               | Η Βασιλεία του Θεού είναι κοντά                                                                    |
 | Kingdom of God is within you                                                            | Η βασιλεία του Θεού είναι μέσα σας                                                                 |
-| Kingdom of God not meat..                                                               | Η βασιλεία του Θεού δεν είναι κρέας...                                                             |
+| Kingdom of God not meat...                                                               | Η βασιλεία του Θεού δεν είναι κρέας...                                                             |
 | Kingdom of God within                                                                   | Η Βασιλεία του Θεού μέσα                                                                           |
 | Kingdom of God/heaven at hand                                                           | Η βασιλεία του Θεού/ο παράδεισος είναι κοντά                                                       |
 | Kingdom of heaven                                                                       | Βασίλειο του ουρανού                                                                               |

@@ -484,7 +484,7 @@
 | Can you find God?                                                                       | Pouvez-vous trouver Dieu ?                                                                  |
 | Canaanites never destroyed                                                              | Les Cananéens ne sont jamais détruits                                                       |
 | Cannot find God by knowledge                                                            | On ne peut trouver Dieu par la connaissance                                                 |
-| Cannot see my face..                                                                    | Je ne peux pas voir mon visage..                                                            |
+| Cannot see my face...                                                                    | Je ne peux pas voir mon visage..                                                            |
 | Cano pleasant to Eve's eyes                                                             | Cano agréable aux yeux d'Eve                                                                |
 | Captain of our salvation                                                                | Capitaine de notre salut                                                                    |
 | Capture females                                                                         | Capturer les femmes                                                                         |
@@ -1709,7 +1709,7 @@
 | In darkness a great light                                                               | Dans les ténèbres, une grande lumière                                                       |
 | In everything give thanks                                                               | En toute chose, remerciez                                                                   |
 | In God all things consist                                                               | En Dieu tout consiste                                                                       |
-| In God man lives, moves..                                                               | En Dieu l'homme vit, se déplace..                                                           |
+| In God man lives, moves...                                                               | En Dieu l'homme vit, se déplace..                                                           |
 | In God no variableness                                                                  | En Dieu pas de variabilité                                                                  |
 | In God we live & move                                                                   | En Dieu nous vivons & bougeons                                                              |
 | In God's image                                                                          | A l'image de Dieu                                                                           |
@@ -2153,7 +2153,7 @@
 | Kingdom of God is at hand                                                               | Le royaume de Dieu est à portée de main                                                     |
 | Kingdom of God is at hand                                                               | Le Royaume de Dieu est à portée de main                                                     |
 | Kingdom of God is within you                                                            | Le royaume de Dieu est en vous                                                              |
-| Kingdom of God not meat..                                                               | Royaume de Dieu pas de viande..                                                             |
+| Kingdom of God not meat...                                                               | Royaume de Dieu pas de viande..                                                             |
 | Kingdom of God within                                                                   | Le royaume de Dieu à l'intérieur                                                            |
 | Kingdom of God/heaven at hand                                                           | Le royaume de Dieu/les cieux sont proches                                                   |
 | Kingdom of heaven                                                                       | Royaume des cieux                                                                           |

@@ -487,7 +487,7 @@
 | Can you find God?                                                                       | Puoi trovare Dio?                                                              |
 | Canaanites never destroyed                                                              | Canaaniti mai distrutti                                                        |
 | Cannot find God by knowledge                                                            | Non si può trovare Dio con la conoscenza                                       |
-| Cannot see my face..                                                                    | Non posso vedere il mio volto...                                               |
+| Cannot see my face...                                                                    | Non posso vedere il mio volto...                                               |
 | Cano pleasant to Eve's eyes                                                             | Cano piacevole agli occhi di Eva                                               |
 | Captain of our salvation                                                                | Capitano della nostra salvezza                                                 |
 | Capture females                                                                         | Catturare le femmine                                                           |
@@ -1701,7 +1701,7 @@
 | In darkness a great light                                                               | Nelle tenebre una grande luce                                                  |
 | In everything give thanks                                                               | In ogni cosa rendete grazie                                                    |
 | In God all things consist                                                               | In Dio consistono tutte le cose                                                |
-| In God man lives, moves..                                                               | In Dio l'uomo vive, si muove...                                                |
+| In God man lives, moves...                                                               | In Dio l'uomo vive, si muove...                                                |
 | In God no variableness                                                                  | In Dio non c'è variabilità                                                     |
 | In God we live & move                                                                   | In Dio viviamo e ci muoviamo                                                   |
 | In God's image                                                                          | A immagine di Dio                                                              |
@@ -2137,7 +2137,7 @@
 | Kingdom of God at hand                                                                  | Il Regno di Dio è vicino                                                       |
 | Kingdom of God is at hand                                                               | Il Regno di Dio è vicino                                                       |
 | Kingdom of God is within you                                                            | Il regno di Dio è dentro di voi                                                |
-| Kingdom of God not meat..                                                               | Regno di Dio non carne                                                         |
+| Kingdom of God not meat...                                                               | Regno di Dio non carne                                                         |
 | Kingdom of God within                                                                   | Regno di Dio dentro                                                            |
 | Kingdom of God/heaven at hand                                                           | Il regno di Dio/il cielo è vicino                                              |
 | Kingdom of heaven                                                                       | Regno dei cieli                                                                |

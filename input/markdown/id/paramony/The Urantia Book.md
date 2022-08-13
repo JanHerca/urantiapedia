@@ -470,7 +470,7 @@
 | Can you find God?                                                                       | Dapatkah Anda menemukan Tuhan?                                                                                     |
 | Canaanites never destroyed                                                              | Orang Kanaan tidak pernah dihancurkan                                                                              |
 | Cannot find God by knowledge                                                            | Tidak dapat menemukan Tuhan dengan pengetahuan                                                                     |
-| Cannot see my face..                                                                    | Tidak bisa melihat wajahku..                                                                                       |
+| Cannot see my face...                                                                    | Tidak bisa melihat wajahku..                                                                                       |
 | Cano pleasant to Eve's eyes                                                             | Cano menyenangkan di mata Hawa                                                                                     |
 | Captain of our salvation                                                                | Kapten keselamatan kita                                                                                            |
 | Capture females                                                                         | Tangkap betina                                                                                                     |
@@ -1659,7 +1659,7 @@
 | In darkness a great light                                                               | Dalam kegelapan sebuah cahaya besar                                                                                |
 | In everything give thanks                                                               | Dalam segala hal bersyukur                                                                                         |
 | In God all things consist                                                               | Di dalam Tuhan segala sesuatu terdiri                                                                              |
-| In God man lives, moves..                                                               | Dalam Tuhan manusia hidup, bergerak..                                                                              |
+| In God man lives, moves...                                                               | Dalam Tuhan manusia hidup, bergerak..                                                                              |
 | In God no variableness                                                                  | Dalam Tuhan tidak ada variabel                                                                                     |
 | In God we live & move                                                                   | Di dalam Tuhan kita hidup & bergerak                                                                               |
 | In God's image                                                                          | Menurut gambar Tuhan                                                                                               |
@@ -2090,7 +2090,7 @@
 | Kingdom of God at hand                                                                  | Kerajaan Allah sudah dekat                                                                                         |
 | Kingdom of God is at hand                                                               | Kerajaan Allah sudah dekat                                                                                         |
 | Kingdom of God is within you                                                            | Kerajaan Allah ada di dalam dirimu                                                                                 |
-| Kingdom of God not meat..                                                               | Kerajaan Allah bukan daging..                                                                                      |
+| Kingdom of God not meat...                                                               | Kerajaan Allah bukan daging..                                                                                      |
 | Kingdom of God within                                                                   | Kerajaan Allah di dalam                                                                                            |
 | Kingdom of God/heaven at hand                                                           | Kerajaan Allah/surga sudah dekat                                                                                   |
 | Kingdom of heaven                                                                       | Kerajaan surga                                                                                                     |

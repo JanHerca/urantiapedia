@@ -470,7 +470,7 @@
 | Can you find God?                                                                       | Îl poți găsi pe Dumnezeu?                                                                      |
 | Canaanites never destroyed                                                              | Canaaniții nu au distrus niciodată                                                             |
 | Cannot find God by knowledge                                                            | Nu-L pot găsi pe Dumnezeu prin cunoaștere                                                      |
-| Cannot see my face..                                                                    | Nu pot să-mi văd fața..                                                                        |
+| Cannot see my face...                                                                    | Nu pot să-mi văd fața..                                                                        |
 | Cano pleasant to Eve's eyes                                                             | Cano plăcut pentru ochii Evei                                                                  |
 | Captain of our salvation                                                                | Căpitanul mântuirii noastre                                                                    |
 | Capture females                                                                         | Captură femele                                                                                 |
@@ -1659,7 +1659,7 @@
 | In darkness a great light                                                               | În întuneric o mare lumină                                                                     |
 | In everything give thanks                                                               | În toate mulțumiți                                                                             |
 | In God all things consist                                                               | În Dumnezeu constau toate                                                                      |
-| In God man lives, moves..                                                               | În Dumnezeu omul trăiește, se mișcă..                                                          |
+| In God man lives, moves...                                                               | În Dumnezeu omul trăiește, se mișcă..                                                          |
 | In God no variableness                                                                  | În Dumnezeu nicio variabilitate                                                                |
 | In God we live & move                                                                   | În Dumnezeu trăim și ne mișcăm                                                                 |
 | In God's image                                                                          | După chipul lui Dumnezeu                                                                       |
@@ -2090,7 +2090,7 @@
 | Kingdom of God at hand                                                                  | Împărăția lui Dumnezeu la îndemână                                                             |
 | Kingdom of God is at hand                                                               | Împărăția lui Dumnezeu este aproape                                                            |
 | Kingdom of God is within you                                                            | Împărăția lui Dumnezeu este în tine                                                            |
-| Kingdom of God not meat..                                                               | Împărăția lui Dumnezeu nu carne..                                                              |
+| Kingdom of God not meat...                                                               | Împărăția lui Dumnezeu nu carne..                                                              |
 | Kingdom of God within                                                                   | Împărăția lui Dumnezeu în                                                                      |
 | Kingdom of God/heaven at hand                                                           | Împărăția lui Dumnezeu/cerul la îndemână                                                       |
 | Kingdom of heaven                                                                       | Împărăția cerurilor                                                                            |

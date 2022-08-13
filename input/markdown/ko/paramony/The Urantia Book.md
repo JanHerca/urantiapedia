@@ -470,7 +470,7 @@
 | Can you find God?                                                                       | 당신은 신을 찾을 수 있습니까?                                            |
 | Canaanites never destroyed                                                              | 가나안 사람들은 결코 파괴되지 않았습니다                                 |
 | Cannot find God by knowledge                                                            | 지식으로 하나님을 찾을 수 없다                                           |
-| Cannot see my face..                                                                    | 내 얼굴을 볼 수 없습니다..                                               |
+| Cannot see my face...                                                                    | 내 얼굴을 볼 수 없습니다..                                               |
 | Cano pleasant to Eve's eyes                                                             | Eve의 눈에 즐거운 카노                                                   |
 | Captain of our salvation                                                                | 우리 구원의 선장                                                         |
 | Capture females                                                                         | 여성 캡처                                                                |
@@ -1659,7 +1659,7 @@
 | In darkness a great light                                                               | 어둠 속에서 큰 빛                                                        |
 | In everything give thanks                                                               | 모든 것에서 감사합니다                                                   |
 | In God all things consist                                                               | 하나님 안에 모든 것이 구성되어                                           |
-| In God man lives, moves..                                                               | 하나님 안에서 사람은 살고, 움직인다..                                    |
+| In God man lives, moves...                                                               | 하나님 안에서 사람은 살고, 움직인다..                                    |
 | In God no variableness                                                                  | 하나님 안에는 변수가 없습니다                                            |
 | In God we live & move                                                                   | 하나님 안에서 우리는 살고 움직입니다                                     |
 | In God's image                                                                          | 하나님의 형상으로                                                        |
@@ -2090,7 +2090,7 @@
 | Kingdom of God at hand                                                                  | 손에 하나님의 왕국                                                       |
 | Kingdom of God is at hand                                                               | 하나님의 나라가 가까이에 있습니다                                        |
 | Kingdom of God is within you                                                            | 하나님의 나라는 당신 안에 있습니다                                       |
-| Kingdom of God not meat..                                                               | 고기가 아닌 하나님의 나라..                                              |
+| Kingdom of God not meat...                                                               | 고기가 아닌 하나님의 나라..                                              |
 | Kingdom of God within                                                                   | 하나님의 나라 안에                                                       |
 | Kingdom of God/heaven at hand                                                           | 하나님의 왕국 / 손에 천국                                                |
 | Kingdom of heaven                                                                       | 천국의 왕국                                                              |

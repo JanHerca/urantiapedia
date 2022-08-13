@@ -489,7 +489,7 @@
 | Can you find God?                                                                       | Löydätkö Jumalan?                                                                      |
 | Canaanites never destroyed                                                              | Kanaanilaiset eivät koskaan tuhoutuneet                                                |
 | Cannot find God by knowledge                                                            | Jumalaa ei voi löytää tuntemalla                                                       |
-| Cannot see my face..                                                                    | En näe kasvojani...                                                                    |
+| Cannot see my face...                                                                    | En näe kasvojani...                                                                    |
 | Cano pleasant to Eve's eyes                                                             | Cano miellyttää Eevan silmiä                                                           |
 | Captain of our salvation                                                                | Pelastuksemme kapteeni                                                                 |
 | Capture females                                                                         | Vangitsemaan naaraat                                                                   |
@@ -1708,7 +1708,7 @@
 | In darkness a great light                                                               | Pimeydessä suuri valo                                                                  |
 | In everything give thanks                                                               | Kaikessa kiittäkää                                                                     |
 | In God all things consist                                                               | Jumalassa kaikki on                                                                    |
-| In God man lives, moves..                                                               | Jumalassa ihminen elää, liikkuu...                                                     |
+| In God man lives, moves...                                                               | Jumalassa ihminen elää, liikkuu...                                                     |
 | In God no variableness                                                                  | Jumalassa ei ole vaihtelua                                                             |
 | In God we live & move                                                                   | Jumalassa me elämme ja liikumme                                                        |
 | In God's image                                                                          | Jumalan kuvassa                                                                        |
@@ -2146,7 +2146,7 @@
 | Kingdom of God at hand                                                                  | Jumalan valtakunta on käsillä                                                          |
 | Kingdom of God is at hand                                                               | Jumalan valtakunta on käsillä                                                          |
 | Kingdom of God is within you                                                            | Jumalan valtakunta on sisällänne                                                       |
-| Kingdom of God not meat..                                                               | Jumalan valtakunta ei ole lihaa...                                                     |
+| Kingdom of God not meat...                                                               | Jumalan valtakunta ei ole lihaa...                                                     |
 | Kingdom of God within                                                                   | Jumalan valtakunta sisällä                                                             |
 | Kingdom of God/heaven at hand                                                           | Jumalan valtakunta/taivas on lähellä                                                   |
 | Kingdom of heaven                                                                       | taivaan valtakunta                                                                     |

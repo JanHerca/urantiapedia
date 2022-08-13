@@ -491,7 +491,7 @@
 | Can you find God?                                                                       | Kas sa leiad Jumalat?                                                       |
 | Canaanites never destroyed                                                              | Kaananlased ei ole kunagi hävitatud                                         |
 | Cannot find God by knowledge                                                            | Ei saa leida Jumalat tundmise teel                                          |
-| Cannot see my face..                                                                    | Ei näe minu nägu...                                                         |
+| Cannot see my face...                                                                    | Ei näe minu nägu...                                                         |
 | Cano pleasant to Eve's eyes                                                             | Cano meeldiv Eeva silmadele                                                 |
 | Captain of our salvation                                                                | Meie päästmise kapten                                                       |
 | Capture females                                                                         | Naised vangistada                                                           |
@@ -1703,7 +1703,7 @@
 | In everything give thanks                                                               | Kõiges andke tänu                                                           |
 | In God all things consist                                                               | Jumalas on kõik                                                             |
 | In God all things consist                                                               | Jumalas seisavad kõik asjad                                                 |
-| In God man lives, moves..                                                               | Jumalas elab inimene, liigub...                                             |
+| In God man lives, moves...                                                               | Jumalas elab inimene, liigub...                                             |
 | In God no variableness                                                                  | Jumalas ei ole muutlikkust                                                  |
 | In God we live & move                                                                   | Jumalas me elame ja liigume                                                 |
 | In God's image                                                                          | Jumala kuju                                                                 |
@@ -2139,7 +2139,7 @@
 | Kingdom of God at hand                                                                  | Jumala Kuningriik on käes                                                   |
 | Kingdom of God is at hand                                                               | Jumala Kuningriik on käes                                                   |
 | Kingdom of God is within you                                                            | Jumala kuningriik on teie sees                                              |
-| Kingdom of God not meat..                                                               | Jumala kuningriik ei ole liha...                                            |
+| Kingdom of God not meat...                                                               | Jumala kuningriik ei ole liha...                                            |
 | Kingdom of God within                                                                   | Jumala kuningriik sees                                                      |
 | Kingdom of God/heaven at hand                                                           | Jumala Kuningriik/taevas on käeulatuses                                     |
 | Kingdom of Heaven                                                                       | Kuningriik                                                                  |

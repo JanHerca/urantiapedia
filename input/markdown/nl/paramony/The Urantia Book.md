@@ -470,7 +470,7 @@
 | Can you find God?                                                                       | Kun je God vinden?                                                                      |
 | Canaanites never destroyed                                                              | Kanaänieten zijn nooit vernietigd                                                       |
 | Cannot find God by knowledge                                                            | Kan God niet vinden door kennis                                                         |
-| Cannot see my face..                                                                    | Kan mijn gezicht niet zien..                                                            |
+| Cannot see my face...                                                                    | Kan mijn gezicht niet zien..                                                            |
 | Cano pleasant to Eve's eyes                                                             | Cano aangenaam voor Eva's ogen                                                          |
 | Captain of our salvation                                                                | Kapitein van onze redding                                                               |
 | Capture females                                                                         | Vang vrouwen                                                                            |
@@ -1659,7 +1659,7 @@
 | In darkness a great light                                                               | In duisternis een groot licht                                                           |
 | In everything give thanks                                                               | Dank in alles                                                                           |
 | In God all things consist                                                               | In God bestaan ​​alle dingen                                                            |
-| In God man lives, moves..                                                               | In God leeft, beweegt de mens..                                                         |
+| In God man lives, moves...                                                               | In God leeft, beweegt de mens..                                                         |
 | In God no variableness                                                                  | In God geen veranderlijkheid                                                            |
 | In God we live & move                                                                   | In God leven & bewegen we                                                               |
 | In God's image                                                                          | Naar Gods beeld                                                                         |
@@ -2090,7 +2090,7 @@
 | Kingdom of God at hand                                                                  | Koninkrijk van God nabij                                                                |
 | Kingdom of God is at hand                                                               | Koninkrijk van God is nabij                                                             |
 | Kingdom of God is within you                                                            | Koninkrijk van God is in jou                                                            |
-| Kingdom of God not meat..                                                               | Koninkrijk van God geen vlees..                                                         |
+| Kingdom of God not meat...                                                               | Koninkrijk van God geen vlees..                                                         |
 | Kingdom of God within                                                                   | Koninkrijk van God binnenin                                                             |
 | Kingdom of God/heaven at hand                                                           | Koninkrijk van God/hemel nabij                                                          |
 | Kingdom of heaven                                                                       | Koninkrijk der hemelen                                                                  |
