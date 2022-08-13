@@ -867,7 +867,7 @@ Luke	12:3	#	165:3.3/#	Proclamad desde los tejados	S	#
 Luke	12:4	#	100:2.7/#	Para un creyente que conoce a Dios	R	#
 Luke	12:4,4,7,32	#	140:8.20/#	Jesús decía «No temáis»	R	#
 Luke	12:4-5	#	165:3.3/#	No temáis a los que pueden matar el cuerpo	S	#
-Luke	12:4-7,,32	#	100:7.15/#	No temáis	R	#
+Luke	12:4-7,32	#	100:7.15/#	No temáis	R	#
 Luke	12:6	#	3:3.1/#	Los gorriones no caen sin que Dios lo sepa	R	#
 Luke	12:6-7	#	150:4.3/#	Los gorriones no valen nada; los cabellos de vuestra cabeza están contados	S	#
 Luke	12:6-7	#	165:3.4/#	Los gorriones caen, los cabellos están contados	S	#
