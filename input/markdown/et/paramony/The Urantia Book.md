@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | „Jumala Sõna“                                                               |
 | “You are the Christ”                                                                    | „Sina oled Kristus“                                                         |
 | “Yours is power and glory” added                                                        | „Sinu on vägi ja au“ lisatud                                                |
-| {Peace passing understanding                                                            | {Peace passing understanding                                                |
+| Peace passing understanding                                                             | Peace passing understanding                                                 |
 | # 1 Know and be known                                                                   | # 1 Tunne ja saa teada                                                      |
 | # 1 Life for life                                                                       | # 1 Elu elu eest                                                            |
 | # 1: God is faithful                                                                    | # 1: Jumal on ustav                                                         |
@@ -482,7 +482,7 @@
 | Calling God “God”                                                                       | Jumala nimetamine „Jumal“                                                   |
 | Calling God “our Father”                                                                | Jumala kutsumine „meie isaks“                                               |
 | Calling God “our Father”                                                                | Nimetades Jumalat „meie Isaks“                                              |
-| Cambiados por la ley del amor                                                           | Cambiados por la ley del amor                                               |
+| Changed by law of love                                                                  | Muudetud armastuse seadusega                                                |
 | Camel go through needle's eye                                                           | Kaamel läheb läbi nõelasilma                                                |
 | Can a woman forget?                                                                     | Kas naine võib unustada?                                                    |
 | Can any good thing come from Nazareth?                                                  | Kas Naatsaretist võib tulla midagi head?                                    |
@@ -860,7 +860,7 @@
 | Equality of persons                                                                     | Isikute võrdõiguslikkus                                                     |
 | Error of slavish worship                                                                | Orjameelse kummardamise viga                                                |
 | Error regarding “prayer”                                                                | Viga seoses „palvega“                                                       |
-| esus went about doing good                                                              | Jeesus läks ja tegi head                                                    |
+| Jesus went about doing good                                                             | Jeesus läks ja tegi head                                                    |
 | Eternal and everlasting life                                                            | Igavene ja igavene elu                                                      |
 | Eternal and everlasting life in the kingdom to come                                     | Igavene ja igavene elu tulevases kuningriigis                               |
 | Eternal God                                                                             | Igavene Jumal                                                               |
@@ -2165,8 +2165,8 @@
 | Know reality of your beliefs                                                            | Tunne oma uskumuste tegelikkust                                             |
 | Know your God                                                                           | Tunne oma Jumalat                                                           |
 | Kyrios                                                                                  | Kyrios                                                                      |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                            |
-| La mujer siria                                                                          | La mujer siria                                                              |
+| Faith was reckoned to him in righteousness                                              | Usk arvati talle õiguseks                                                   |
+| The syrian woman                                                                        | Süüria naine                                                                |
 | Laborer is worthy of hire                                                               | Tööline on palga vääriline                                                  |
 | Laborers together                                                                       | Töötajad koos                                                               |
 | Lament                                                                                  | Lament                                                                      |

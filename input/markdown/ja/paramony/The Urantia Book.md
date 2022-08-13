@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | 神の「言葉」                                                           |
 | “You are the Christ”                                                                    | 「あなたはキリストです」                                               |
 | “Yours is power and glory” added                                                        | 「あなたのものは力と栄光」を追加                                       |
-| {Peace passing understanding                                                            | {平和通過理解                                                          |
+| Peace passing understanding                                                             | 平和通過理解                                                           |
 | # 1 Know and be known                                                                   | # 1 知って知られる                                                     |
 | # 1 Life for life                                                                       | ＃1 人生のための人生                                                   |
 | # 1: God is faithful                                                                    | ＃1：神は忠実です                                                      |
@@ -253,7 +253,7 @@
 | Arrows of the Almighty                                                                  | 全能の矢                                                               |
 | As a man thinks, so is he                                                               | 男が考えるように、彼もそうです                                         |
 | As done by Peter and John                                                               | ピーターとジョンによって行われたように                                 |
-| As God sent me, I send you                                                              | As God sent me, I send you                                             |
+| As God sent me, I send you                                                              | 神が私を送ったように、私はあなたを送ります                             |
 | As heavens higher than earth                                                            | 地球よりも高い天として                                                 |
 | As I was with Moses                                                                     | モーセと一緒だったように                                               |
 | As Jesus passed by                                                                      | イエスが通り過ぎたとき                                                 |
@@ -299,7 +299,7 @@
 | Be not deceived                                                                         | だまされないでください                                                 |
 | Be not dismayed by future events                                                        | 将来の出来事にがっかりしないでください                                 |
 | Be not dismayed, believe                                                                | がっかりしないで、信じてください                                       |
-| Be not weary in well doing                                                              | Be not weary in well doing                                             |
+| Be not weary in well doing                                                              | 善行に疲れてはならない                                                 |
 | Be of good cheer                                                                        | 元気を出してください                                                   |
 | Be patient, wait upon the Lord                                                          | 忍耐強く、主を待ちましょう                                             |
 | Be perfect                                                                              | 完璧であること                                                         |
@@ -349,7 +349,7 @@
 | Believers assemble                                                                      | 信者が集まる                                                           |
 | Believers have eternal life                                                             | 信者には永遠の命がある                                                 |
 | Believers live forever                                                                  | 信者は永遠に生きる                                                     |
-| Believers lonely without new heart                                                      | Believers lonely without new heart                                     |
+| Believers lonely without new heart                                                      | 新しい心なしで孤独な信者                                               |
 | Believers never die                                                                     | 信者は死なない                                                         |
 | Believers receive spirit                                                                | 信者は精神を受け取る                                                   |
 | Believers, sons of God                                                                  | 信者、神の息子                                                         |
@@ -377,7 +377,7 @@
 | Birth of Seth                                                                           | セスの誕生                                                             |
 | Blame women                                                                             | 女性を責める                                                           |
 | Blasphemer: says equal with God                                                         | 冒涜者: 神と等しいと言う                                               |
-| Blessed are the poor                                                                    |                                                                        |
+| Blessed are the poor                                                                    | 貧しい人々は幸いです                                                   |
 | Blessed be glory of Lord                                                                | 主の栄光を祝福                                                         |
 | Blessed be the Most High                                                                | 至高者に祝福あれ                                                       |
 | Blessed is he who comes in the name of the Lord                                         | 主の御名によって来る者に祝福あれ                                       |
@@ -461,7 +461,7 @@
 | Called “brother” & “sister”                                                             | 「お兄ちゃん」「お姉ちゃん」と呼ばれる                                 |
 | Calling God “God”                                                                       | 神を「神」と呼ぶ                                                       |
 | Calling God “our Father”                                                                | 神を「私たちの父」と呼ぶ                                               |
-| Cambiados por la ley del amor                                                           | Cambiados によって la ley del amor                                     |
+| Changed by law of love                                                                  | 愛の法則で変わる                                                       |
 | Camel go through needle's eye                                                           | Camel go through needle's eye                                          |
 | Can a woman forget?                                                                     | 女性は忘れられますか？                                                 |
 | Can any good thing come from Nazareth?                                                  | ナザレから何か良いものが来るでしょうか。                               |
@@ -496,7 +496,7 @@
 | Charges supported                                                                       | 対応料金                                                               |
 | Chasten us for own profit                                                               | 自分の利益のために私たちを懲らしめる                                   |
 | Chief ruler criticizes healing                                                          | 総支配人が癒しを批判                                                   |
-| Chiefest of ten thousand                                                                | Chiefest of ten thousand                                               |
+| Chiefest of ten thousand                                                                | 万の首領                                                               |
 | Child of the Most High                                                                  | 最も高いの子                                                           |
 | Child rearing                                                                           | 子育て                                                                 |
 | Child sacrifice                                                                         | 子供の犠牲                                                             |
@@ -528,7 +528,7 @@
 | Circumcision                                                                            | 割礼                                                                   |
 | Circumcision and dedication                                                             | 割礼と献身                                                             |
 | Cities built by God                                                                     | 神によって建てられた都市                                               |
-| Cities of refuge                                                                        | Cities of refuge                                                       |
+| Cities of refuge                                                                        | 避難都市                                                               |
 | Citizens of heaven                                                                      | 天国の市民                                                             |
 | City builder, maker, is God                                                             | 都市のビルダー、メーカーは神                                           |
 | City of God                                                                             | 神の都                                                                 |
@@ -585,7 +585,7 @@
 | Conversations with Melchizedek                                                          | メルキゼデクとの会話                                                   |
 | Cornelius' conversion                                                                   | コーネリアスの回心                                                     |
 | Correcting wrong views of God                                                           | 神に対する間違った見方を正す                                           |
-| Correction in suffering                                                                 | Correction in suffering                                                |
+| Correction in suffering                                                                 | 苦しみの矯正                                                           |
 | Cost of discipleship                                                                    | 弟子の費用                                                             |
 | Cost of ointment                                                                        | 軟膏の費用                                                             |
 | Cost of war                                                                             | 戦争の費用                                                             |
@@ -609,7 +609,7 @@
 | Creator of heaven & earth                                                               | 天と地の創造者                                                         |
 | Creator Son bestowals                                                                   | クリエイターの息子の贈り物                                             |
 | Creator Sons                                                                            | クリエイターの息子                                                     |
-| Creator Sons create                                                                     | Creator Sons 作成                                                      |
+| Creator Sons create                                                                     | クリエイターの息子が作成します                                         |
 | Creator Sons reveal Father                                                              | クリエイターの息子が父を明らかに                                       |
 | Cretan believers                                                                        | クレタ信者                                                             |
 | Crispus                                                                                 | クリスパス                                                             |
@@ -649,7 +649,7 @@
 | David retires                                                                           | デビッドは引退します                                                   |
 | David to Hebron                                                                         | ダビデからヘブロン                                                     |
 | David weds Abigail                                                                      | デビッドはアビゲイルと結婚します                                       |
-| David weds Maacah                                                                       | David weds Maacah                                                      |
+| David weds Maacah                                                                       | ダビデはマアカと結婚する                                               |
 | David's “army”                                                                          | ダビデの「軍隊」                                                       |
 | David's Lord                                                                            | ダビデの主                                                             |
 | David's victory                                                                         | ダビデの勝利                                                           |
@@ -747,7 +747,7 @@
 | Does not afflict willingly                                                              | 喜んで苦しまない                                                       |
 | Doing the Father's will                                                                 | 父の意志を行う                                                         |
 | Don't be anxious                                                                        | 心配しないで                                                           |
-| Don't glory in riches                                                                   | Don't glory in riches                                                  |
+| Don't glory in riches                                                                   | 富を誇るな                                                             |
 | Don't kill people                                                                       | 人を殺さないで                                                         |
 | Don't know voice                                                                        | 声がわからない                                                         |
 | Don't lie to judges                                                                     | 審査員に嘘をつくな                                                     |
@@ -786,7 +786,7 @@
 | Eden                                                                                    | エデン                                                                 |
 | Edentia gardens                                                                         | エデンティア庭園                                                       |
 | Effect of rejecting God                                                                 | 神を拒絶する効果                                                       |
-| Ego deflation                                                                           | Ego deflation                                                          |
+| Ego deflation                                                                           | エゴデフレ                                                             |
 | Egyptian enslavement                                                                    | エジプトの奴隷                                                         |
 | Eighth woe                                                                              | 第八の災い                                                             |
 | El                                                                                      | エル                                                                   |
@@ -834,7 +834,7 @@
 | Equality of persons                                                                     | 人の平等                                                               |
 | Error of slavish worship                                                                | 奴隷崇拝の誤り                                                         |
 | Error regarding “prayer”                                                                | 「祈り」に関するエラー                                                 |
-| esus went about doing good                                                              | esus は良いことをした                                                  |
+| Jesus went about doing good                                                             | esus は良いことをした                                                  |
 | Eternal and everlasting life                                                            | 永遠と永遠の命                                                         |
 | Eternal and everlasting life in the kingdom to come                                     | Eternal and everlasting life in the kingdom to come                    |
 | Eternal God                                                                             | 永遠の神                                                               |
@@ -1016,11 +1016,11 @@
 | Fire fetish                                                                             | 火フェチ                                                               |
 | Fire from Gods                                                                          | 神々からの火                                                           |
 | Fire reverence                                                                          | 火の畏敬                                                               |
-| Fire reverence (Hanuka)                                                                 | Fire reverence (Hanuka)                                                |
+| Fire reverence (Hanuka)                                                                 | 火の崇拝 (Hanuka)                                                      |
 | First appearance to apostles                                                            | 使徒初登場                                                             |
 | First brigand's challenge                                                               | 最初の山賊の挑戦                                                       |
 | First called “Christians” at Antioch                                                    | アンティオキアで最初に「クリスチャン」と呼ばれる                       |
-| First called “Christians” in Antioch                                                    | First called “Christians” in Antioch                                   |
+| First called “Christians” in Antioch                                                    | アンティオキアで最初に「クリスチャン」と呼ばれた                       |
 | First denial                                                                            | 最初の否定                                                             |
 | First Gethsemane prayer                                                                 | 最初のゲッセマネの祈り                                                 |
 | First human beings                                                                      | 最初の人間                                                             |
@@ -2113,8 +2113,8 @@
 | Know reality of your beliefs                                                            | あなたの信念の現実を知る                                               |
 | Know your God                                                                           | あなたの神を知る                                                       |
 | Kyrios                                                                                  | キリオス                                                               |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                       |
-| La mujer siria                                                                          | ラ ムヘール シリア                                                     |
+| Faith was reckoned to him in righteousness                                              | 信仰は義として彼に認められた                                           |
+| The syrian woman                                                                        | ラ ムヘール シリア                                                     |
 | Laborer is worthy of hire                                                               | 労働者は雇う価値がある                                                 |
 | Laborers together                                                                       | 一緒に労働者                                                           |
 | Lament                                                                                  | 嘆く                                                                   |
@@ -3214,7 +3214,7 @@
 | Shepherd willing to die                                                                 | 喜んで死ぬ羊飼い                                                       |
 | Shores of a better world                                                                | より良い世界の海岸                                                     |
 | Should seek spiritual bread                                                             | 霊的なパンを求める必要があります                                       |
-| Should work in daylight                                                                 |                                                                        |
+| Should work in daylight                                                                 | 昼間に働かなければならない                                             |
 | Show conjont work                                                                       | コンジョイントワークを表示                                             |
 | Show forth my praise                                                                    | 私の賛美を示してください                                               |
 | Show us a sign                                                                          | サインを見せて                                                         |
@@ -3587,7 +3587,7 @@
 | There is a river                                                                        | 川があります                                                           |
 | There is no God but me, a just and saving God                                           | 私以外に神はなく、正義と救いの神です                                   |
 | There is no prophet without honor except in his home                                    | 彼の家以外に名誉のない預言者はいない                                   |
-| There is none beside                                                                    |                                                                        |
+| There is none beside                                                                    | 横には何もない                                                         |
 | There was no star in Bethlehem                                                          | ベツレヘムには星がありませんでした。                                   |
 | They called him Rabbi                                                                   | 彼らは彼をラビと呼んだ                                                 |
 | They hated without cause                                                                | 彼らは理由もなく嫌っていた                                             |
@@ -3941,7 +3941,7 @@
 | Yahweh is our judge                                                                     | ヤハウェは私たちの裁判官です                                           |
 | Yahweh is our king and God                                                              | ヤハウェは私たちの王であり神です                                       |
 | Yahweh, God of Sinai clans                                                              | ヤハウェ、シナイ族の神                                                 |
-| Yaweh says keep land                                                                    | Yaweh は土地を保持すると言います                                       |
+| Yaweh says keep land                                                                    | ヤハウェは土地を守れと言う                                             |
 | Yaweh versus Baal                                                                       | ヤウェ対バアル                                                         |
 | Ye are all brethren                                                                     | あなたがたは皆兄弟です                                                 |
 | Ye of little faith                                                                      | 信仰の薄いあなたがた                                                   |

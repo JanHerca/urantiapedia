@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | „Cuvântul” lui Dumnezeu                                                                        |
 | “You are the Christ”                                                                    | „Tu ești Hristosul”                                                                            |
 | “Yours is power and glory” added                                                        | „A Ta este puterea și gloria” a adăugat                                                        |
-| {Peace passing understanding                                                            | {Pacea trecătoare de înțelegere                                                                |
+| Peace passing understanding                                                             | Pacea trecătoare de înțelegere                                                                 |
 | # 1 Know and be known                                                                   | # 1 Cunoașteți și fiți cunoscuți                                                               |
 | # 1 Life for life                                                                       | # 1 Viață pentru viață                                                                         |
 | # 1: God is faithful                                                                    | #1: Dumnezeu este credincios                                                                   |
@@ -461,7 +461,7 @@
 | Called “brother” & “sister”                                                             | Numit „frate” și „sora”                                                                        |
 | Calling God “God”                                                                       | Numirea lui Dumnezeu „Dumnezeu”                                                                |
 | Calling God “our Father”                                                                | Numirea lui Dumnezeu „Tatăl nostru”                                                            |
-| Cambiados por la ley del amor                                                           | Cambiados por la ley del amor                                                                  |
+| Changed by law of love                                                                  | Schimbat de legea iubirii                                                                      |
 | Camel go through needle's eye                                                           | Cămila trece prin ochiul acului                                                                |
 | Can a woman forget?                                                                     | Poate o femeie să uite?                                                                        |
 | Can any good thing come from Nazareth?                                                  | Poate veni ceva bun din Nazaret?                                                               |
@@ -834,7 +834,7 @@
 | Equality of persons                                                                     | Egalitatea persoanelor                                                                         |
 | Error of slavish worship                                                                | Error of slavish worship                                                                       |
 | Error regarding “prayer”                                                                | Eroare cu privire la „rugăciune”                                                               |
-| esus went about doing good                                                              | esus a mers făcând bine                                                                        |
+| Jesus went about doing good                                                             | esus a mers făcând bine                                                                        |
 | Eternal and everlasting life                                                            | Viața veșnică și veșnică                                                                       |
 | Eternal and everlasting life in the kingdom to come                                     | Viața veșnică și veșnică în împărăția viitoare                                                 |
 | Eternal God                                                                             | Dumnezeu etern                                                                                 |
@@ -2113,8 +2113,8 @@
 | Know reality of your beliefs                                                            | Cunoașteți realitatea convingerilor dvs.                                                       |
 | Know your God                                                                           | Cunoaște-ți pe Dumnezeu                                                                        |
 | Kyrios                                                                                  | Kyrios                                                                                         |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                                               |
-| La mujer siria                                                                          | La mujer siria                                                                                 |
+| Faith was reckoned to him in righteousness                                              | Credința i-a fost socotită în dreptate                                                         |
+| The syrian woman                                                                        | Femeia siriană                                                                                 |
 | Laborer is worthy of hire                                                               | Muncitorul este demn de angajat                                                                |
 | Laborers together                                                                       | Muncitori împreună                                                                             |
 | Lament                                                                                  | Lament                                                                                         |

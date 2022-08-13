@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | «Λόγος» του Θεού                                                                                   |
 | “You are the Christ”                                                                    | «Εσύ είσαι ο Χριστός»                                                                              |
 | “Yours is power and glory” added                                                        | «Δική σου είναι η δύναμη και η δόξα» προστίθεται                                                   |
-| {Peace passing understanding                                                            | {Ειρήνη που περνάει την κατανόηση                                                                  |
+| Peace passing understanding                                                             | Ειρήνη που περνάει την κατανόηση                                                                   |
 | # 1 Know and be known                                                                   | # 1 Γνώρισε και γίνε γνωστός                                                                       |
 | # 1 Life for life                                                                       | Νο 1 Ζωή για ζωή                                                                                   |
 | # 1: God is faithful                                                                    | # 1: Ο Θεός είναι πιστός                                                                           |
@@ -491,7 +491,7 @@
 | Called “brother” & “sister”                                                             | Αποκαλούνται «αδελφός» & «αδελφή»                                                                  |
 | Calling God “God”                                                                       | Αποκαλώντας τον Θεό «Θεό»                                                                          |
 | Calling God “our Father”                                                                | Αποκαλώντας τον Θεό «Πατέρα μας»                                                                   |
-| Cambiados por la ley del amor                                                           | Cambiados por la ley del amor                                                                      |
+| Changed by law of love                                                                  | Άλλαξε ο νόμος της αγάπης                                                                          |
 | Camel go through needle's eye                                                           | Η καμήλα περνάει από το μάτι της βελόνας                                                           |
 | Can a woman forget?                                                                     | Μπορεί μια γυναίκα να ξεχάσει;                                                                     |
 | Can any good thing come from Nazareth?                                                  | Μπορεί κάποιο καλό πράγμα να έρθει από τη Ναζαρέτ;                                                 |
@@ -867,7 +867,7 @@
 | Equality of persons                                                                     | Ισότητα των προσώπων                                                                               |
 | Error of slavish worship                                                                | Λάθος της δουλοπρεπούς λατρείας                                                                    |
 | Error regarding “prayer”                                                                | Λάθος σχετικά με την «προσευχή»                                                                    |
-| esus went about doing good                                                              | ο Ιησούς πήγε και έκανε καλό                                                                       |
+| Jesus went about doing good                                                             | ο Ιησούς πήγε και έκανε καλό                                                                       |
 | Eternal and everlasting life                                                            | Αιώνια και αιώνια ζωή                                                                              |
 | Eternal and everlasting life in the kingdom to come                                     | Αιώνια και αιώνια ζωή στη βασιλεία που έρχεται                                                     |
 | Eternal God                                                                             | Αιώνιος Θεός                                                                                       |
@@ -2181,8 +2181,8 @@
 | Know reality of your beliefs                                                            | Γνωρίστε την πραγματικότητα των πεποιθήσεών σας                                                    |
 | Know your God                                                                           | Γνώρισε τον Θεό σου                                                                                |
 | Kyrios                                                                                  | Kyrios                                                                                             |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                                                   |
-| La mujer siria                                                                          | La mujer siria                                                                                     |
+| Faith was reckoned to him in righteousness                                              | Η πίστη του υπολογίστηκε σε δικαιοσύνη                                                             |
+| The syrian woman                                                                        | Η Σύρια                                                                                            |
 | Laborer is worthy of hire                                                               | Ο εργάτης είναι άξιος του μισθού                                                                   |
 | Laborers together                                                                       | Εργάτες μαζί                                                                                       |
 | Lament                                                                                  | Θρήνος                                                                                             |

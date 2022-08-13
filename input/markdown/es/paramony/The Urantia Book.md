@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | «Verbo» de Dios                                                             |
 | “You are the Christ”                                                                    | «Tú eres el Cristo»                                                         |
 | “Yours is power and glory” added                                                        | Adición de «tuyo es el poder y la gloria»                                   |
-| {Peace passing understanding                                                            | Paz que sobrepasa toda comprensión                                          |
+| Peace passing understanding                                                            | Paz que sobrepasa toda comprensión                                          |
 | # 1 Know and be known                                                                   | Conocer y ser conocido                                                      |
 | # 1 Life for life                                                                       | Una vida por una vida                                                       |
 | # 1: God is faithful                                                                    | Dios es fiel                                                                |
@@ -105,6 +105,7 @@
 | Adjuster leads Jesus to mountain                                                        | El ajustador conduce a Jesús a la montaña                                   |
 | Adjusters after Pentecost                                                               | Ajustadores después de Pentecostés                                          |
 | Adjutant mind spirits                                                                   | Espíritus ayudantes de la mente                                             |
+| Adjutant Mind Spirits                                                                   | Espíritus ayudantes de la mente                                             |
 | Admission by faith                                                                      | Admisión por la fe                                                          |
 | Adonai                                                                                  | Adonai                                                                      |
 | Adopted ancestor                                                                        | Antepasado adoptado                                                         |
@@ -336,6 +337,7 @@
 | Behold he takes up isles                                                                | Mirad, levanta las islas                                                    |
 | Behold the man                                                                          | Hé aquí al hombre                                                           |
 | Behold the man!                                                                         | ¡He aquí al hombre!                                                         |
+| Behold the Man!                                                                         | ¡He aquí al hombre!                                                         |
 | Behold what manner of love                                                              | Mirad la clase de amor                                                      |
 | Belief and non-belief                                                                   | Creyentes y no creyentes                                                    |
 | Belief in an earthly kingdom                                                            | La creencia en un reino inminente                                           |
@@ -404,6 +406,7 @@
 | Born of God, keep selves                                                                | El nacido de Dios se protege a sí mismo                                     |
 | Born of spirit                                                                          | Nacido del espíritu                                                         |
 | Born of the spirit                                                                      | Nacer del espíritu                                                          |
+| Born of the Spirit                                                                      | Nacer del espíritu                                                          |
 | Bosom of the Father                                                                     | Seno del Padre                                                              |
 | Both see Jesus as Messiah                                                               | Ambos veían a Jesús como el Mesías                                          |
 | Box of ointment                                                                         | Frasco de incienso                                                          |
@@ -412,6 +415,7 @@
 | Boy king Manasseh                                                                       | El rey niño Manasés                                                         |
 | Branch exists for fruit                                                                 | El sarmiento sólo existe para producir frutos                               |
 | Bread of life                                                                           | El pan de la vida                                                           |
+| Bread of Life                                                                           | El pan de la vida                                                           |
 | Breakfast with Pharisee                                                                 | El desayuno con el fariseo                                                  |
 | Breath & spirit                                                                         | Respiración y espíritu                                                      |
 | Breath giver                                                                            | Aquel que da Aliento                                                        |
@@ -461,7 +465,7 @@
 | Called “brother” & “sister”                                                             | Se llamaban unos a otros hermanos y hermanas                                |
 | Calling God “God”                                                                       | Llamar a Dios «Dios»                                                        |
 | Calling God “our Father”                                                                | Llamar a Dios «nuestro Padre»                                               |
-| Cambiados por la ley del amor                                                           | Cambiados por la ley del amor                                               |
+| Changed by law of love                                                                  | Cambiados por la ley del amor                                               |
 | Camel go through needle's eye                                                           | Un camello por el ojo de la aguja                                           |
 | Can a woman forget?                                                                     | ¿Puede una mujer olvidar?                                                   |
 | Can any good thing come from Nazareth?                                                  | ¿Puede salir algo bueno de Nazaret?                                         |
@@ -834,7 +838,7 @@
 | Equality of persons                                                                     | Igualdad de todos los seres humanos                                         |
 | Error of slavish worship                                                                | Error de las ceremonias sin sentido                                         |
 | Error regarding “prayer”                                                                | Error relativo a la «oración»                                               |
-| esus went about doing good                                                              | Jesús iba haciendo el bien                                                  |
+| Jesus went about doing good                                                              | Jesús iba haciendo el bien                                                  |
 | Eternal and everlasting life                                                            | La vida eterna                                                              |
 | Eternal and everlasting life in the kingdom to come                                     | La vida eterna en el reino venidero                                         |
 | Eternal God                                                                             | Dios es eterno                                                              |
@@ -1090,6 +1094,7 @@
 | From Book of Wisdom                                                                     | Del Libro de la Sabiduría                                                   |
 | Fruit of spirit: love                                                                   | El fruto del espíritu: el amor                                              |
 | Fruit of the spirit                                                                     | Frutos del espíritu                                                         |
+| Fruits of the spirit                                                                    | Frutos del espíritu                                                         |
 | Fruits of the trees                                                                     | Frutos de los árboles                                                       |
 | Full of grace and truth                                                                 | Lleno de benevolencia y de verdad                                           |
 | Full of joy and happiness                                                               | Llena de alegría y felicidad                                                |
@@ -1214,6 +1219,7 @@
 | God is immutable, infallible                                                            | Dios es inmutable e infalible                                               |
 | God is joy of my soul                                                                   | Dios es la alegría de mi alma                                               |
 | God is love                                                                             | Dios es amor                                                                |
+| God is Love                                                                             | Dios es amor                                                                |
 | God is merciful                                                                         | Dios es misericordioso                                                      |
 | God is merciful & gracious                                                              | Misericordioso y benevolente                                                |
 | God is my refuge                                                                        | Dios es mi refugio                                                          |
@@ -1330,6 +1336,7 @@
 | God's thoughts are higher                                                               | Los pensamientos de Dios son más elevados                                   |
 | Going to Nazareth                                                                       | Viaje a Nazaret                                                             |
 | Golden rule                                                                             | La regla de oro                                                             |
+| Golden Rule                                                                             | La regla de oro                                                             |
 | Golden rule (negative)                                                                  | La regla de oro (negativa)                                                  |
 | Golden rule (old, negative)                                                             | La antigua regla de oro, en modo negativo                                   |
 | Golden Rule from Adjuster                                                               | La Regla de Oro procedente del Ajustador                                    |
@@ -1350,6 +1357,7 @@
 | Gospel of Salvation                                                                     | Evangelio de salvación                                                      |
 | Gospel of sonship                                                                       | El evangelio de la filiación                                                |
 | Gospel of the kingdom                                                                   | El evangelio del reino                                                      |
+| Gospel of the Kingdom                                                                   | El evangelio del reino                                                      |
 | Gospel preached to poor                                                                 | El evangelio predicado a los pobres                                         |
 | Gospel set man free                                                                     | El evangelio libera a los hombres                                           |
 | Gospel to go to all the world                                                           | El evangelio por todo el mundo                                              |
@@ -1357,6 +1365,7 @@
 | Grace of Lord Jesus Christ                                                              | La gracia del Señor Jesucristo                                              |
 | Gracious to the repentant                                                               | Es misericordioso con el que se arrepiente                                  |
 | Great Commission                                                                        | El gran encargo                                                             |
+| Great commission                                                                        | El gran encargo                                                             |
 | Great gulf between you & God                                                            | Un gran espacio entre Dios y nosotros                                       |
 | Great in counsel                                                                        | Grande en sus consejos                                                      |
 | Great promise                                                                           | La gran promesa                                                             |
@@ -1505,6 +1514,7 @@
 | His Father's house                                                                      | La casa de su Padre                                                         |
 | His greatness unsearchable                                                              | La grandeza del Señor es inescrutable                                       |
 | His Mercy endures forever                                                               | Su misericordia dura para siempre                                           |
+| His mercy endures forever                                                               | Su misericordia dura para siempre                                           |
 | His mighty angels                                                                       | Sus ángeles poderosos                                                       |
 | His righteousness is like the mountains                                                 | Su rectitud es como las montañas                                            |
 | Hold in hollow of hand                                                                  | Mantiene en el hueco de su mano                                             |
@@ -2044,6 +2054,7 @@
 | Judas' rare question                                                                    | La rara pregunta de Judas                                                   |
 | Judas' remorse                                                                          | Los remordimientos de Judas                                                 |
 | Judas' suicide                                                                          | El suicidio de Judas                                                        |
+| Judas' Suicide                                                                          | El suicidio de Judas                                                        |
 | Judge by fruits of spirit                                                               | Judgad por los frutos del espíritu                                          |
 | Judge ends of earth                                                                     | El Señor juzgará la Tierra                                                  |
 | Judge justly                                                                            | Judga justamente                                                            |
@@ -2094,6 +2105,7 @@
 | Kingdom of God within                                                                   | El reino en vosotros                                                        |
 | Kingdom of God/heaven at hand                                                           | El reino de Dios/los cielos está cerca                                      |
 | Kingdom of heaven                                                                       | El reino de los cielos                                                      |
+| Kingdom of Heaven                                                                       | El reino de los cielos                                                      |
 | Kingdom of heaven at hand                                                               | El reino de los cielos está cerca                                           |
 | Kingdom of heaven in you                                                                | Reino de los cielos dentro de vosotros                                      |
 | Kingdom of heaven within you                                                            | El reino dentro de vosotros                                                 |
@@ -2113,8 +2125,8 @@
 | Know reality of your beliefs                                                            | Conocerás la realidad de lo que crees                                       |
 | Know your God                                                                           | Conoce a Dios                                                               |
 | Kyrios                                                                                  | Kyrios                                                                      |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                            |
-| La mujer siria                                                                          | La mujer siria                                                              |
+| Faith was reckoned to him in righteousness                                              | La fe le fue contado en justicia                                            |
+| The syrian woman                                                                        | La mujer siria                                                              |
 | Laborer is worthy of hire                                                               | El obrero merece su salario                                                 |
 | Laborers together                                                                       | Trabajar juntos                                                             |
 | Lament                                                                                  | Lamento                                                                     |
@@ -2212,6 +2224,7 @@
 | Lord enriches & impoverishes                                                            | El Señor enriquece y empobrece                                              |
 | Lord executes loving-kindness                                                           | El que lleva a cabo la bondad                                               |
 | Lord God of hosts                                                                       | Señor Dios de los ejércitos                                                 |
+| Lord God of Hosts                                                                       | Señor Dios de los ejércitos                                                 |
 | Lord God of Israel                                                                      | Señor Dios de Israel                                                        |
 | Lord guides continually                                                                 | El Señor os guiará continuamente                                            |
 | Lord is God, none beside him                                                            | El Señor es Dios, no otro sino él                                           |
@@ -2635,8 +2648,10 @@
 | One language                                                                            | Una lengua                                                                  |
 | One reaps what one sows                                                                 | Se recoge lo que siembra                                                    |
 | One truth                                                                               | Verdad Única                                                                |
+| One Truth                                                                               | Verdad Única                                                                |
 | One's gift makes room                                                                   | El talento es el que asegura la posición                                    |
 | Only begotten son                                                                       | Hijo unigénito                                                              |
+| Only begotten Son                                                                       | Hijo unigénito                                                              |
 | Only begotten Sons                                                                      | Hijos unigénitos de Dios                                                    |
 | Only God knows when                                                                     | Sólo Dios sabe cuándo                                                       |
 | Only one lawgiver                                                                       | Sólo un legislador                                                          |
@@ -2680,6 +2695,7 @@
 | Parable of leaven                                                                       | Parábola de la levadura                                                     |
 | Parable of lost coin                                                                    | Parábola de la moneda perdida                                               |
 | Parable of lost sheep                                                                   | La parábola de la oveja perdida                                             |
+| Parable of Lost sheep                                                                   | La parábola de la oveja perdida                                             |
 | Parable of lost son                                                                     | Parábola del hijo perdido                                                   |
 | Parable of marriage feast (part 1)                                                      | Parábola del festín de bodas (parte 1)                                      |
 | Parable of marriage feast (part 2)                                                      | Parábola del festín de bodas (parte 2)                                      |
@@ -3255,10 +3271,12 @@
 | Son given life by Father                                                                | Hijo dotado de la vida del Padre                                            |
 | Son imitates father                                                                     | El Hijo imita al Padre                                                      |
 | Son is “word”                                                                           | El hijo es la «palabra»                                                     |
+| Son is “Word”                                                                           | El hijo es la «palabra»                                                     |
 | Son is mercy                                                                            | El Hijo es misericordia                                                     |
 | Son lifted up                                                                           | El Hijo será elevado                                                        |
 | Son of David                                                                            | Hijo de David                                                               |
 | Son of man                                                                              | Hijo del Hombre                                                             |
+| Son of Man                                                                              | Hijo del Hombre                                                             |
 | Son poured out spirit on flesh                                                          | El hijo derramó su espíritu sobre la carne                                  |
 | Son wasted his on riotous living                                                        | El hijo malgastó todo en una vida disipada                                  |
 | Son, sun of righteousness                                                               | El Hijo, sol de recitud                                                     |

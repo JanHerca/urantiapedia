@@ -41,7 +41,6 @@
 | “Word” of God                                                                           | Guds »ord«                                                                               |
 | “You are the Christ”                                                                    | »Du er Kristus«                                                                          |
 | “Yours is power and glory” added                                                        | »Din er magt og herlighed« tilføjet                                                      |
-| {Peace passing understanding                                                            | {Fred overgår forståelse                                                                 |
 | # 1 Know and be known                                                                   | # 1 Kend og bliv kendt                                                                   |
 | # 1 Life for life                                                                       | # 1 Liv for livet                                                                        |
 | # 1: God is faithful                                                                    | # 1: Gud er trofast                                                                      |
@@ -479,7 +478,6 @@
 | Calling God “God”                                                                       | Kalde Gud »Gud«                                                                          |
 | Calling God “our Father”                                                                | Kald Gud »vor Fader«                                                                     |
 | Calling God “our Father”                                                                | Kalde Gud »vor Fader«                                                                    |
-| Cambiados por la ley del amor                                                           | Cambiados por la ley del amor                                                            |
 | Camel go through needle's eye                                                           | Kamel går gennem nåleøjet                                                                |
 | Can a woman forget?                                                                     | Kan en kvinde glemme?                                                                    |
 | Can any good thing come from Nazareth?                                                  | Kan noget godt komme fra Nazareth?                                                       |
@@ -507,6 +505,7 @@
 | Challengers withdraw                                                                    | Udfordrerne trækker sig tilbage                                                          |
 | Champions fight                                                                         | Kamp mellem mestre                                                                       |
 | Change of mind by faith, the new born                                                   | Ændre sind ved tro, den nyfødte                                                          |
+| Changed by law of love                                                                  | Ændret af kærlighedens lov                                                               |
 | Changed to law of love                                                                  | Ændret til kærlighedens lov                                                              |
 | Changing earlier instructions                                                           | Ændring af tidligere instruktioner                                                       |
 | Character growth                                                                        | Karakterudvikling                                                                        |
@@ -855,7 +854,6 @@
 | Equality of persons                                                                     | Ligestilling af personer                                                                 |
 | Error of slavish worship                                                                | Fejl ved slavisk tilbedelse                                                              |
 | Error regarding “prayer”                                                                | Fejl vedrørende »bøn«                                                                    |
-| esus went about doing good                                                              | esus gik rundt og gjorde godt                                                            |
 | Eternal and everlasting life                                                            | Evigt og evigt liv                                                                       |
 | Eternal and everlasting life in the kingdom to come                                     | Evigt og evigt liv i det kommende rige                                                   |
 | Eternal God                                                                             | den evige Gud                                                                            |
@@ -929,6 +927,7 @@
 | Faith saves your soul                                                                   | Troen redder din sjæl                                                                    |
 | Faith Sons never die                                                                    | Tro Sønner dør aldrig                                                                    |
 | Faith sons of God                                                                       | Guds tro sønner                                                                          |
+| Faith was reckoned to him in righteousness                                              | Troen blev tilregnet ham i retfærdighed                                                  |
 | Faith when you are sacrificed                                                           | Tro, når du bliver ofret                                                                 |
 | Faith without works is dead                                                             | Tro uden gerninger er død                                                                |
 | Faith-children of living God                                                            | Troende børn af den levende Gud                                                          |
@@ -1958,6 +1957,7 @@
 | Jesus was not of Davidic line                                                           | Jesus var ikke af davidisk slægt                                                         |
 | Jesus was truth made manifest                                                           | Jesus var sandheden åbenbaret                                                            |
 | Jesus weeps, goes to tomb                                                               | Jesus græder, går til graven                                                             |
+| Jesus went about doing good                                                             | Jesus gik rundt og gjorde godt                                                            |
 | Jesus went about doing good                                                             | Jesus gik rundt og gjorde det gode                                                       |
 | Jesus went about doing good                                                             | Jesus gik rundt og gjorde godt                                                           |
 | Jesus will speak plainly                                                                | Jesus vil tale klart og tydeligt                                                         |
@@ -2167,8 +2167,6 @@
 | Know reality of your beliefs                                                            | Kend virkeligheden af dine overbevisninger                                               |
 | Know your God                                                                           | Kend din Gud                                                                             |
 | Kyrios                                                                                  | Kyrios                                                                                   |
-| La fe le fue contado en justicia                                                        | La fe le fue le fue contado en justicia                                                  |
-| La mujer siria                                                                          | La mujer siria                                                                           |
 | Laborer is worthy of hire                                                               | Arbejdsmand er værd at hyre                                                              |
 | Laborers together                                                                       | Arbejdere sammen                                                                         |
 | Lament                                                                                  | Klage                                                                                    |
@@ -2816,6 +2814,7 @@
 | Peace cures troubled heart                                                              | Fred helbreder bekymrede hjerter                                                         |
 | Peace on earth                                                                          | Fred på jorden                                                                           |
 | Peace on earth, good will                                                               | Fred på jorden, god vilje                                                                |
+| Peace passing understanding                                                             | Fred overgår forståelse                                                                  |
 | Peace past understanding                                                                | Fred overgår al forståelse                                                               |
 | Peace with God                                                                          | Fred med Gud                                                                             |
 | Peacemakers called sons of God                                                          | Fredsstiftere kaldes Guds sønner                                                         |
@@ -3657,6 +3656,7 @@
 | The Spirit of God                                                                       | Guds ånd                                                                                 |
 | The strange preacher                                                                    | Den mærkelige prædikant                                                                  |
 | The Supreme Chief                                                                       | Den øverste leder                                                                        |
+| The syrian woman                                                                        | Den syriske kvinde                                                                       |
 | The Transfiguration                                                                     | Forvandlingen                                                                            |
 | The Trinity                                                                             | Treenigheden                                                                             |
 | The Trinity (Paul's early view)                                                         | Treenigheden (Paulus' tidlige opfattelse)                                                |

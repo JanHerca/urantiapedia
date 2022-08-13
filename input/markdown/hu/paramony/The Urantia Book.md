@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | Isten Igéje                                                            |
 | “You are the Christ”                                                                    | Te vagy a Krisztus                                                     |
 | “Yours is power and glory” added                                                        | „Tiéd a hatalom és a dicsőség” hozzáadva                               |
-| {Peace passing understanding                                                            | {Béke, ami a megértésen múlik                                          |
+| Peace passing understanding                                                             | Béke, ami a megértésen múlik                                           |
 | # 1 Know and be known                                                                   | # 1. Ismerd meg és légy ismert                                         |
 | # 1 Life for life                                                                       | 1. élet az életért                                                     |
 | # 1: God is faithful                                                                    | # 1: Isten hűséges                                                     |
@@ -484,7 +484,7 @@
 | Calling God “God”                                                                       | Istent „Istennek” nevezni                                              |
 | Calling God “our Father”                                                                | Istent Atyánknak hívjuk                                                |
 | Calling God “our Father”                                                                | Istent Atyánknak nevezni                                               |
-| Cambiados por la ley del amor                                                           | Cambiados por la ley del amor                                          |
+| Changed by law of love                                                                  | A szeretet törvénye megváltoztatta                                     |
 | Camel go through needle's eye                                                           | A teve átmegy a tű fokán                                               |
 | Can a woman forget?                                                                     | Tud-e egy asszony felejteni?                                           |
 | Can any good thing come from Nazareth?                                                  | Jöhet-e valami jó dolog Názáretből?                                    |
@@ -863,7 +863,7 @@
 | Equality of persons                                                                     | A személyek egyenlősége                                                |
 | Error of slavish worship                                                                | A szolgai imádat hibája                                                |
 | Error regarding “prayer”                                                                | Tévedés az „imádsággal” kapcsolatban                                   |
-| esus went about doing good                                                              | Jézus jót cselekedett                                                  |
+| Jesus went about doing good                                                             | Jézus jót cselekedett                                                  |
 | Eternal and everlasting life                                                            | Örök és örök élet                                                      |
 | Eternal and everlasting life in the kingdom to come                                     | Örök és örök élet az eljövendő országban                               |
 | Eternal God                                                                             | Örökkévaló Isten                                                       |
@@ -2187,8 +2187,8 @@
 | Know reality of your beliefs                                                            | Ismerd meg hited valóságát                                             |
 | Know your God                                                                           | Ismerd meg Istenedet                                                   |
 | Kyrios                                                                                  | Kyrios                                                                 |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                       |
-| La mujer siria                                                                          | La mujer siria                                                         |
+| Faith was reckoned to him in righteousness                                              | A hitet igazságban számították be neki                                 |
+| The syrian woman                                                                        | A szíriai nő                                                           |
 | Laborer is worthy of hire                                                               | A munkás méltó a bérre                                                 |
 | Laborers together                                                                       | Együtt dolgoznak                                                       |
 | Lament                                                                                  | Siralom                                                                |

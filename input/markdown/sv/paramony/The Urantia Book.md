@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | Guds "ord"                                                                            |
 | “You are the Christ”                                                                    | "Du är Kristus"                                                                       |
 | “Yours is power and glory” added                                                        | "Din är makt och ära" tillade                                                         |
-| {Peace passing understanding                                                            | {Fredsöverskridande förståelse                                                        |
+| Peace passing understanding                                                             | Fredsöverskridande förståelse                                                         |
 | # 1 Know and be known                                                                   | # 1 Känn och bli känd                                                                 |
 | # 1 Life for life                                                                       | # 1 Liv för livet                                                                     |
 | # 1: God is faithful                                                                    | # 1: Gud är trofast                                                                   |
@@ -456,14 +456,14 @@
 | Caleb and Joshua                                                                        | Kaleb och Josua                                                                       |
 | Caligastia's plot                                                                       | Caligastias tomt                                                                      |
 | Call down fire                                                                          | Kalla ner eld                                                                         |
-| Call down fire on Samaritans                                                            | Kan en kvinna glömma?                                                                 |
-| Call no man “spiritual father”                                                          | Kalla ner eld mot samariter                                                           |
-| Called “brother” & “sister”                                                             | Kalla ingen man "andlig far"                                                          |
-| Calling God “God”                                                                       | Kallas "bror" & "syster"                                                              |
-| Calling God “our Father”                                                                | Kallar Gud "Gud"                                                                      |
-| Cambiados por la ley del amor                                                           | Att kalla Gud "vår Fader"                                                             |
-| Camel go through needle's eye                                                           | Cambiados por la ley del amor                                                         |
-| Can a woman forget?                                                                     | Kamel går genom nålsögat                                                              |
+| Call down fire on Samaritans                                                            | Kalla ner eld mot samariter                                                           |
+| Call no man “spiritual father”                                                          | Kalla ingen man "andlig far"                                                          |
+| Called “brother” & “sister”                                                             | Kallas "bror" & "syster"                                                              |
+| Calling God “God”                                                                       | Kallar Gud "Gud"                                                                      |
+| Calling God “our Father”                                                                | Att kalla Gud "vår Fader"                                                             |
+| Changed by law of love                                                                  | Ändrad av kärlekens lag                                                               |
+| Camel go through needle's eye                                                           | Kamel går genom nålsögat                                                              |
+| Can a woman forget?                                                                     | Kan en kvinna glömma?                                                                 |
 | Can any good thing come from Nazareth?                                                  | Kan något gott komma från Nasaret?                                                    |
 | Can anything good come out of Nazareth?                                                 | Kan det komma något gott ur Nasaret?                                                  |
 | Can know God only in hearts                                                             | Kan bara känna Gud i hjärtan                                                          |
@@ -834,7 +834,7 @@
 | Equality of persons                                                                     | Jämställdhet för personer                                                             |
 | Error of slavish worship                                                                | Fel av slavisk dyrkan                                                                 |
 | Error regarding “prayer”                                                                | Fel angående "bön"                                                                    |
-| esus went about doing good                                                              | esus gick omkring och gjorde gott                                                     |
+| Jesus went about doing good                                                             | esus gick omkring och gjorde gott                                                     |
 | Eternal and everlasting life                                                            | Evigt och evigt liv                                                                   |
 | Eternal and everlasting life in the kingdom to come                                     | Evigt och evigt liv i det kommande riket                                              |
 | Eternal God                                                                             | Evige Gud                                                                             |
@@ -2113,8 +2113,8 @@
 | Know reality of your beliefs                                                            | Känna till verkligheten av dina övertygelser                                          |
 | Know your God                                                                           | Lär känna din Gud                                                                     |
 | Kyrios                                                                                  | Kyrios                                                                                |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                                      |
-| La mujer siria                                                                          | La mujer siria                                                                        |
+| Faith was reckoned to him in righteousness                                              | Tro blev honom tillräknad i rättfärdighet                                             |
+| The syrian woman                                                                        | Den syriska kvinnan                                                                   |
 | Laborer is worthy of hire                                                               | Arbetare är värd att anställa                                                         |
 | Laborers together                                                                       | Arbetare tillsammans                                                                  |
 | Lament                                                                                  | Beklaga                                                                               |

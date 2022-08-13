@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | Jumalan sana                                                                           |
 | “You are the Christ”                                                                    | ”Sinä olet Kristus”                                                                    |
 | “Yours is power and glory” added                                                        | ”Sinun on voima ja kunnia” lisätty                                                     |
-| {Peace passing understanding                                                            | {Peace passing understanding                                                           |
+| Peace passing understanding                                                             | Peace passing understanding                                                            |
 | # 1 Know and be known                                                                   | # 1 Tunne ja tule tunnetuksi                                                           |
 | # 1 Life for life                                                                       | # 1 Elämä elämästä                                                                     |
 | # 1: God is faithful                                                                    | # 1: Jumala on uskollinen                                                              |
@@ -480,7 +480,7 @@
 | Calling God “God”                                                                       | Jumalan kutsuminen Jumalaksi                                                           |
 | Calling God “our Father”                                                                | Jumalan kutsuminen Isäksi                                                              |
 | Calling God “our Father”                                                                | Kutsumme Jumalaa Isäksi                                                                |
-| Cambiados por la ley del amor                                                           | Cambiados por la ley del amor                                                          |
+| Changed by law of love                                                                  | Rakkauden lain muuttama                                                                |
 | Camel go through needle's eye                                                           | Kameli menee neulansilmän läpi                                                         |
 | Can a woman forget?                                                                     | Voiko nainen unohtaa?                                                                  |
 | Can any good thing come from Nazareth?                                                  | Voiko Nasaretista tulla mitään hyvää?                                                  |
@@ -857,7 +857,7 @@
 | Equality of persons                                                                     | Henkilöiden tasa-arvo                                                                  |
 | Error of slavish worship                                                                | Orjallisen palvonnan virhe                                                             |
 | Error regarding “prayer”                                                                | Rukousta koskeva virhe                                                                 |
-| esus went about doing good                                                              | Jeesus kulki ja teki hyvää                                                             |
+| Jesus went about doing good                                                             | Jeesus kulki ja teki hyvää                                                             |
 | Eternal and everlasting life                                                            | Ikuinen ja ikuinen elämä                                                               |
 | Eternal and everlasting life in the kingdom to come                                     | Ikuinen ja ikuinen elämä tulevassa valtakunnassa                                       |
 | Eternal God                                                                             | Ikuinen Jumala                                                                         |
@@ -2171,8 +2171,8 @@
 | Know reality of your beliefs                                                            | Tunne uskomustesi todellisuus                                                          |
 | Know your God                                                                           | Tunne Jumalasi                                                                         |
 | Kyrios                                                                                  | Kyrios                                                                                 |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                                       |
-| La mujer siria                                                                          | La mujer siria                                                                         |
+| Faith was reckoned to him in righteousness                                              | Usko luettiin hänelle vanhurskaudessa                                                  |
+| The syrian woman                                                                        | Syyrialainen nainen                                                                    |
 | Laborer is worthy of hire                                                               | Työntekijä on palkkansa arvoinen                                                       |
 | Laborers together                                                                       | Työntekijät yhdessä                                                                    |
 | Lament                                                                                  | Valitusvirsi                                                                           |

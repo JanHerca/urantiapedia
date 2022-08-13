@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | „Wort“ Gottes                                                                                                         |
 | “You are the Christ”                                                                    | Du bist der Christus                                                                                                  |
 | “Yours is power and glory” added                                                        | Dein ist die Kraft und die Herrlichkeit                                                                               |
-| {Peace passing understanding                                                            | {Friede, der über den Verstand geht                                                                                   |
+| Peace passing understanding                                                             | Friede, der über den Verstand geht                                                                                    |
 | # 1 Know and be known                                                                   | # 1 Erkenne und werde erkannt                                                                                         |
 | # 1 Life for life                                                                       | # 1 Leben für Leben                                                                                                   |
 | # 1: God is faithful                                                                    | # 1: Gott ist treu                                                                                                    |
@@ -482,7 +482,7 @@
 | Called “brother” & “sister”                                                             | Als „Bruder“ & „Schwester“ bezeichnet                                                                                 |
 | Calling God “God”                                                                       | Gott „Gott“ nennen                                                                                                    |
 | Calling God “our Father”                                                                | Gott „unser Vater“ nennen                                                                                             |
-| Cambiados por la ley del amor                                                           | Cambiados por la ley del amor                                                                                         |
+| Changed by law of love                                                                  | Verändert durch das Gesetz der Liebe                                                                                  |
 | Camel go through needle's eye                                                           | Ein Kamel geht durch ein Nadelöhr                                                                                     |
 | Can a woman forget?                                                                     | Kann eine Frau vergessen?                                                                                             |
 | Can any good thing come from Nazareth?                                                  | Kann etwas Gutes aus Nazareth kommen?                                                                                 |
@@ -859,7 +859,7 @@
 | Equality of persons                                                                     | Die Gleichheit der Menschen                                                                                           |
 | Error of slavish worship                                                                | Irrtum der sklavischen Anbetung                                                                                       |
 | Error regarding “prayer”                                                                | Irrtum in Bezug auf „Gebet“                                                                                           |
-| esus went about doing good                                                              | Jesus ging umher und tat Gutes                                                                                        |
+| Jesus went about doing good                                                             | Jesus ging umher und tat Gutes                                                                                        |
 | Eternal and everlasting life                                                            | Ewiges und immerwährendes Leben                                                                                       |
 | Eternal and everlasting life in the kingdom to come                                     | Ewiges und immerwährendes Leben im kommenden Reich                                                                    |
 | Eternal God                                                                             | Ewiger Gott                                                                                                           |
@@ -2169,8 +2169,8 @@
 | Know reality of your beliefs                                                            | Erkenne die Realität deines Glaubens                                                                                  |
 | Know your God                                                                           | Erkenne deinen Gott                                                                                                   |
 | Kyrios                                                                                  | Kyrios                                                                                                                |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                                                                      |
-| La mujer siria                                                                          | La mujer siria                                                                                                        |
+| Faith was reckoned to him in righteousness                                              | Der Glaube wurde ihm zur Gerechtigkeit gerechnet                                                                      |
+| The syrian woman                                                                        | Die syrische Frau                                                                                                     |
 | Laborer is worthy of hire                                                               | Wer arbeitet, ist des Lohns wert                                                                                      |
 | Laborers together                                                                       | Arbeiter zusammen                                                                                                     |
 | Lament                                                                                  | Klage                                                                                                                 |

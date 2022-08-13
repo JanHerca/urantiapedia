@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | Dievo „žodis“                                                            |
 | “You are the Christ”                                                                    | „Tu esi Kristus“                                                         |
 | “Yours is power and glory” added                                                        | „Tavo galia ir šlovė“ pridėta                                            |
-| {Peace passing understanding                                                            | {Praeinantis taikos supratimas                                           |
+| Peace passing understanding                                                             | Praeinantis taikos supratimas                                            |
 | # 1 Know and be known                                                                   | # 1 Žinokite ir būk žinomi                                               |
 | # 1 Life for life                                                                       | # 1 Gyvenimas už gyvenimą                                                |
 | # 1: God is faithful                                                                    | # 1: Dievas ištikimas                                                    |
@@ -461,7 +461,7 @@
 | Called “brother” & “sister”                                                             | Vadinamas „broliu“ ir „seserimi“                                         |
 | Calling God “God”                                                                       | Dievo vadinimas „Dievu“                                                  |
 | Calling God “our Father”                                                                | Dievą vadinti „Tėve mūsų“                                                |
-| Cambiados por la ley del amor                                                           | Cambiados por la ley del amor                                            |
+| Changed by law of love                                                                  | Pakeistas meilės įstatymo                                                |
 | Camel go through needle's eye                                                           | Kupranugaris išlįs pro adatos akį                                        |
 | Can a woman forget?                                                                     | Ar moteris gali pamiršti?                                                |
 | Can any good thing come from Nazareth?                                                  | Ar iš Nazareto gali kilti kas nors gero?                                 |
@@ -834,7 +834,7 @@
 | Equality of persons                                                                     | Asmenų lygybė                                                            |
 | Error of slavish worship                                                                | Vergiško garbinimo klaida                                                |
 | Error regarding “prayer”                                                                | Klaida dėl „maldos“                                                      |
-| esus went about doing good                                                              | esus vaziavo daryti gera                                                 |
+| Jesus went about doing good                                                             | esus vaziavo daryti gera                                                 |
 | Eternal and everlasting life                                                            | Amžinas ir amžinas gyvenimas                                             |
 | Eternal and everlasting life in the kingdom to come                                     | Amžinas ir amžinas gyvenimas būsimoje karalystėje                        |
 | Eternal God                                                                             | Amžinasis Dievas                                                         |
@@ -2113,8 +2113,8 @@
 | Know reality of your beliefs                                                            | Žinokite savo įsitikinimų tikrovę                                        |
 | Know your God                                                                           | Pažink savo Dievą                                                        |
 | Kyrios                                                                                  | Kyrios                                                                   |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                         |
-| La mujer siria                                                                          | La mujer siria                                                           |
+| Faith was reckoned to him in righteousness                                              | Tikėjimas jam buvo įskaitytas teisumu                                    |
+| The syrian woman                                                                        | Sirijos moteris                                                          |
 | Laborer is worthy of hire                                                               | Darbuotoją verta samdyti                                                 |
 | Laborers together                                                                       | Darbininkai kartu                                                        |
 | Lament                                                                                  | Rauda                                                                    |

@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | „Słowo” Boga                                                                |
 | “You are the Christ”                                                                    | „Ty jesteś Chrystusem”                                                      |
 | “Yours is power and glory” added                                                        | „Twoja jest moc i chwała” dodano                                            |
-| {Peace passing understanding                                                            | {Pokój przechodzący zrozumienie                                             |
+| Peace passing understanding                                                             | Pokój przechodzący zrozumienie                                              |
 | # 1 Know and be known                                                                   | # 1 Wiedz i bądź znany                                                      |
 | # 1 Life for life                                                                       | # 1 Życie za życie                                                          |
 | # 1: God is faithful                                                                    | #1: Bóg jest wierny                                                         |
@@ -461,7 +461,7 @@
 | Called “brother” & “sister”                                                             | Nazywany „bratem” i „siostrą”                                               |
 | Calling God “God”                                                                       | Nazywanie Boga „Bogiem”                                                     |
 | Calling God “our Father”                                                                | Nazywanie Boga „naszym Ojcem”                                               |
-| Cambiados por la ley del amor                                                           | Cambiados por la ley del amor                                               |
+| Changed by law of love                                                                  | Zmieniony przez prawo miłości                                               |
 | Camel go through needle's eye                                                           | Wielbłąd przechodzi przez ucho igły                                         |
 | Can a woman forget?                                                                     | Czy kobieta może zapomnieć?                                                 |
 | Can any good thing come from Nazareth?                                                  | Czy cokolwiek dobrego może pochodzić z Nazaretu?                            |
@@ -834,7 +834,7 @@
 | Equality of persons                                                                     | Równość osób                                                                |
 | Error of slavish worship                                                                | Błąd kultu niewolniczego                                                    |
 | Error regarding “prayer”                                                                | Błąd dotyczący „modlitwy”                                                   |
-| esus went about doing good                                                              | esus poszedł robić dobrze                                                   |
+| Jesus went about doing good                                                             | esus poszedł robić dobrze                                                   |
 | Eternal and everlasting life                                                            | Życie wieczne i wieczne                                                     |
 | Eternal and everlasting life in the kingdom to come                                     | Życie wieczne i wieczne w przyszłym królestwie                              |
 | Eternal God                                                                             | Wieczny Bóg                                                                 |
@@ -2113,8 +2113,8 @@
 | Know reality of your beliefs                                                            | Poznaj rzeczywistość swoich przekonań                                       |
 | Know your God                                                                           | Poznaj swojego Boga                                                         |
 | Kyrios                                                                                  | Kyrios                                                                      |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                            |
-| La mujer siria                                                                          | La mujer siria                                                              |
+| Faith was reckoned to him in righteousness                                              | Wiara została mu poczytana za sprawiedliwość                                |
+| The syrian woman                                                                        | Syryjska kobieta                                                            |
 | Laborer is worthy of hire                                                               | Robotnik jest godny wynajęcia                                               |
 | Laborers together                                                                       | Pracownicy razem                                                            |
 | Lament                                                                                  | Lament                                                                      |

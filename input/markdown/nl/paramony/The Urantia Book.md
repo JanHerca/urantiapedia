@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | "Woord" van God                                                                         |
 | “You are the Christ”                                                                    | "Jij bent de Christus"                                                                  |
 | “Yours is power and glory” added                                                        | “Yours is power and glory” toegevoegd                                                   |
-| {Peace passing understanding                                                            | {Vrede voorbij begrip                                                                   |
+| Peace passing understanding                                                             | Vrede voorbij begrip                                                                    |
 | # 1 Know and be known                                                                   | # 1 Weten en gekend worden                                                              |
 | # 1 Life for life                                                                       | # 1 Leven voor het leven                                                                |
 | # 1: God is faithful                                                                    | #1: God is trouw                                                                        |
@@ -461,7 +461,7 @@
 | Called “brother” & “sister”                                                             | Genaamd "broer" & "zus"                                                                 |
 | Calling God “God”                                                                       | Calling God “God”                                                                       |
 | Calling God “our Father”                                                                | God "onze Vader" noemen                                                                 |
-| Cambiados por la ley del amor                                                           | Cambiados por la ley del amor                                                           |
+| Changed by law of love                                                                  | Veranderd door de wet van liefde                                                        |
 | Camel go through needle's eye                                                           | Kameel gaat door het oog van de naald                                                   |
 | Can a woman forget?                                                                     | Kan een vrouw het vergeten?                                                             |
 | Can any good thing come from Nazareth?                                                  | Can any good thing come from Nazareth?                                                  |
@@ -834,7 +834,7 @@
 | Equality of persons                                                                     | Gelijkheid van personen                                                                 |
 | Error of slavish worship                                                                | Fout van slaafse aanbidding                                                             |
 | Error regarding “prayer”                                                                | Fout met betrekking tot "gebed"                                                         |
-| esus went about doing good                                                              | esus ging over goed doen                                                                |
+| Jesus went about doing good                                                             | esus ging over goed doen                                                                |
 | Eternal and everlasting life                                                            | Eeuwig en eeuwig leven                                                                  |
 | Eternal and everlasting life in the kingdom to come                                     | Eeuwig en eeuwig leven in het komende koninkrijk                                        |
 | Eternal God                                                                             | Eeuwige God                                                                             |
@@ -2113,8 +2113,8 @@
 | Know reality of your beliefs                                                            | Ken de realiteit van je overtuigingen                                                   |
 | Know your God                                                                           | Ken je God                                                                              |
 | Kyrios                                                                                  | Kyrios                                                                                  |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                                        |
-| La mujer siria                                                                          | La mujer siria                                                                          |
+| Faith was reckoned to him in righteousness                                              | Het geloof werd hem in gerechtigheid gerekend                                           |
+| The syrian woman                                                                        | De Syrische vrouw                                                                       |
 | Laborer is worthy of hire                                                               | Arbeider is het waard om aangenomen te worden                                           |
 | Laborers together                                                                       | Arbeiders samen                                                                         |
 | Lament                                                                                  | klaagzang                                                                               |

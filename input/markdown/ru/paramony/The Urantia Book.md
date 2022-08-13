@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | «Слово» Бога                                                        |
 | “You are the Christ”                                                                    | «Ты Христос»                                                        |
 | “Yours is power and glory” added                                                        | “Yours is power and glory” added                                    |
-| {Peace passing understanding                                                            | {Мирное понимание                                                   |
+| Peace passing understanding                                                             | Мирное понимание                                                    |
 | # 1 Know and be known                                                                   | # 1 Знай и будь известен                                            |
 | # 1 Life for life                                                                       | # 1 Жизнь за жизнь                                                  |
 | # 1: God is faithful                                                                    | № 1: Бог верен                                                      |
@@ -461,7 +461,7 @@
 | Called “brother” & “sister”                                                             | Называется «брат» и «сестра»                                        |
 | Calling God “God”                                                                       | Называть Бога «Богом»                                               |
 | Calling God “our Father”                                                                | Называть Бога «Отцом нашим»                                         |
-| Cambiados por la ley del amor                                                           | Камбиадос для любви                                                 |
+| Changed by law of love                                                                  | Изменено по закону любви                                            |
 | Camel go through needle's eye                                                           | Верблюд пройти через игольное ушко                                  |
 | Can a woman forget?                                                                     | Может ли женщина забыть?                                            |
 | Can any good thing come from Nazareth?                                                  | Может ли быть что-нибудь доброе из Назарета?                        |
@@ -834,7 +834,7 @@
 | Equality of persons                                                                     | Равенство лиц                                                       |
 | Error of slavish worship                                                                | Ошибка рабского поклонения                                          |
 | Error regarding “prayer”                                                                | Ошибка относительно «молитвы»                                       |
-| esus went about doing good                                                              | есус творил добро                                                   |
+| Jesus went about doing good                                                             | есус творил добро                                                   |
 | Eternal and everlasting life                                                            | Вечная и вечная жизнь                                               |
 | Eternal and everlasting life in the kingdom to come                                     | Вечная и вечная жизнь в грядущем царстве                            |
 | Eternal God                                                                             | Вечный Бог                                                          |
@@ -2113,8 +2113,8 @@
 | Know reality of your beliefs                                                            | Знай реальность своих убеждений                                     |
 | Know your God                                                                           | Знай своего Бога                                                    |
 | Kyrios                                                                                  | Кириос                                                              |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                    |
-| La mujer siria                                                                          | La mujer Siria                                                      |
+| Faith was reckoned to him in righteousness                                              | Вера вменилась ему в праведность                                    |
+| The syrian woman                                                                        | Сирийская женщина                                                   |
 | Laborer is worthy of hire                                                               | Рабочий достоин найма                                               |
 | Laborers together                                                                       | Рабочие вместе                                                      |
 | Lament                                                                                  | Плач                                                                |

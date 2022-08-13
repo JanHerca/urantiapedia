@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | “Palavra” de Deus                                                                     |
 | “You are the Christ”                                                                    | “Tu és o Cristo”                                                                      |
 | “Yours is power and glory” added                                                        | “Teu é o poder e a glória” adicionado                                                 |
-| {Peace passing understanding                                                            | {Paz passando entendimento                                                            |
+| Peace passing understanding                                                             | Paz passando entendimento                                                             |
 | # 1 Know and be known                                                                   | # 1 Conheça e seja conhecido                                                          |
 | # 1 Life for life                                                                       | # 1 Vida pela vida                                                                    |
 | # 1: God is faithful                                                                    | # 1: Deus é fiel                                                                      |
@@ -461,7 +461,7 @@
 | Called “brother” & “sister”                                                             | Chamado de “irmão” e “irmã”                                                           |
 | Calling God “God”                                                                       | Chamando Deus de “Deus”                                                               |
 | Calling God “our Father”                                                                | Chamando Deus de “nosso Pai”                                                          |
-| Cambiados por la ley del amor                                                           | Cambiados pela lei do amor                                                            |
+| Changed by law of love                                                                  | Alterado pela lei do amor                                                             |
 | Camel go through needle's eye                                                           | Camelo passa pelo buraco da agulha                                                    |
 | Can a woman forget?                                                                     | Uma mulher pode esquecer?                                                             |
 | Can any good thing come from Nazareth?                                                  | Alguma coisa boa pode vir de Nazaré?                                                  |
@@ -834,7 +834,7 @@
 | Equality of persons                                                                     | Igualdade das pessoas                                                                 |
 | Error of slavish worship                                                                | Erro de adoração escrava                                                              |
 | Error regarding “prayer”                                                                | Erro em relação à “oração”                                                            |
-| esus went about doing good                                                              | esus foi fazendo o bem                                                                |
+| Jesus went about doing good                                                             | esus foi fazendo o bem                                                                |
 | Eternal and everlasting life                                                            | Vida eterna e eterna                                                                  |
 | Eternal and everlasting life in the kingdom to come                                     | Eternal and everlasting life in the kingdom to come                                   |
 | Eternal God                                                                             | Deus eterno                                                                           |
@@ -2113,8 +2113,8 @@
 | Know reality of your beliefs                                                            | Conheça a realidade de suas crenças                                                   |
 | Know your God                                                                           | Conheça o seu Deus                                                                    |
 | Kyrios                                                                                  | Kyrios                                                                                |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                                      |
-| La mujer siria                                                                          | La mujer síria                                                                        |
+| Faith was reckoned to him in righteousness                                              | A fé lhe foi imputada em justiça                                                      |
+| The syrian woman                                                                        | A mulher síria                                                                        |
 | Laborer is worthy of hire                                                               | Trabalhador é digno de contratação                                                    |
 | Laborers together                                                                       | Trabalhadores juntos                                                                  |
 | Lament                                                                                  | Lamento                                                                               |

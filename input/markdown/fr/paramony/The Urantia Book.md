@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | «La parole» de Dieu                                                                         |
 | “You are the Christ”                                                                    | «Vous êtes le Christ»                                                                       |
 | “Yours is power and glory” added                                                        | A toi la puissance et la gloire «ajouté»                                                    |
-| {Peace passing understanding                                                            | La paix passant par la compréhension                                                        |
+| Peace passing understanding                                                             | La paix passant par la compréhension                                                        |
 | # 1 Know and be known                                                                   | # 1 Connaître et être connu                                                                 |
 | # 1 Life for life                                                                       | # 1 Vie pour la vie                                                                         |
 | # 1: God is faithful                                                                    | #1 : Dieu est fidèle                                                                        |
@@ -475,7 +475,7 @@
 | Called “brother” & “sister”                                                             | Appelés «frère» et «soeur»                                                                  |
 | Calling God “God”                                                                       | Appeler Dieu «Dieu»                                                                         |
 | Calling God “our Father”                                                                | Appeler Dieu «notre Père»                                                                   |
-| Cambiados por la ley del amor                                                           | Cambiados por la ley del amor                                                               |
+| Changed by law of love                                                                  | Changé par la loi de l'amour                                                                |
 | Camel go through needle's eye                                                           | Un chameau passe par le trou d'une aiguille                                                 |
 | Can a woman forget?                                                                     | Une femme peut-elle oublier ?                                                               |
 | Can any good thing come from Nazareth?                                                  | Une bonne chose peut-elle venir de Nazareth ?                                               |
@@ -853,7 +853,7 @@
 | Equality of persons                                                                     | L'égalité des personnes                                                                     |
 | Error of slavish worship                                                                | Erreur de l'adoration servile                                                               |
 | Error regarding “prayer”                                                                | Erreur concernant la «prière»                                                               |
-| esus went about doing good                                                              | Jésus se mit à faire le bien                                                                |
+| Jesus went about doing good                                                             | Jésus se mit à faire le bien                                                                |
 | Eternal and everlasting life                                                            | Vie éternelle et perpétuelle                                                                |
 | Eternal and everlasting life in the kingdom to come                                     | La vie éternelle dans le royaume à venir                                                    |
 | Eternal God                                                                             | Dieu éternel                                                                                |
@@ -2178,8 +2178,8 @@
 | Know reality of your beliefs                                                            | Connaissez la réalité de vos croyances                                                      |
 | Know your God                                                                           | Connais ton Dieu                                                                            |
 | Kyrios                                                                                  | Kyrios                                                                                      |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                                            |
-| La mujer siria                                                                          | La mujer siria                                                                              |
+| Faith was reckoned to him in righteousness                                              | La foi lui a été imputée à justice                                                          |
+| The syrian woman                                                                        | La femme syrienne                                                                           |
 | Laborer is worthy of hire                                                               | Le travailleur est digne d'être embauché                                                    |
 | Laborers together                                                                       | Travailleurs ensemble                                                                       |
 | Lament                                                                                  | Lamentation                                                                                 |

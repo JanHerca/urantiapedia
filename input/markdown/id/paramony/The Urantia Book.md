@@ -461,7 +461,7 @@
 | Called “brother” & “sister”                                                             | Disebut “kakak” & “kakak”                                                                                          |
 | Calling God “God”                                                                       | Menyebut Tuhan “Tuhan”                                                                                             |
 | Calling God “our Father”                                                                | Menyebut Tuhan “Bapa kami”                                                                                         |
-| Cambiados por la ley del amor                                                           | Cambiados por la ley del amor                                                                                      |
+| Changed by law of love                                                                  | Diubah oleh hukum cinta                                                                                            |
 | Camel go through needle's eye                                                           | Unta masuk lubang jarum                                                                                            |
 | Can a woman forget?                                                                     | Bisakah seorang wanita melupakan?                                                                                  |
 | Can any good thing come from Nazareth?                                                  | Bisakah hal baik datang dari Nazaret?                                                                              |
@@ -834,7 +834,7 @@
 | Equality of persons                                                                     | Kesetaraan orang                                                                                                   |
 | Error of slavish worship                                                                | Kesalahan ibadah budak                                                                                             |
 | Error regarding “prayer”                                                                | Kesalahan mengenai “doa”                                                                                           |
-| esus went about doing good                                                              | esus berkeliling berbuat baik                                                                                      |
+| Jesus went about doing good                                                             | esus berkeliling berbuat baik                                                                                      |
 | Eternal and everlasting life                                                            | Kehidupan yang kekal dan abadi                                                                                     |
 | Eternal and everlasting life in the kingdom to come                                     | Kehidupan yang kekal dan abadi di kerajaan yang akan datang                                                        |
 | Eternal God                                                                             | Dewa Abadi                                                                                                         |
@@ -2113,8 +2113,8 @@
 | Know reality of your beliefs                                                            | Ketahui realitas keyakinan Anda                                                                                    |
 | Know your God                                                                           | Kenali Tuhanmu                                                                                                     |
 | Kyrios                                                                                  | Kyrios                                                                                                             |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                                                                   |
-| La mujer siria                                                                          | La mujer siria                                                                                                     |
+| Faith was reckoned to him in righteousness                                              | Iman diperhitungkan kepadanya dalam kebenaran                                                                      |
+| The syrian woman                                                                        | wanita suriah                                                                                                      |
 | Laborer is worthy of hire                                                               | Buruh layak disewa                                                                                                 |
 | Laborers together                                                                       | Buruh bersama                                                                                                      |
 | Lament                                                                                  | Ratapan                                                                                                            |

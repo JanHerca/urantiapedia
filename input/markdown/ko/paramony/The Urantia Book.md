@@ -41,7 +41,7 @@
 | “Word” of God                                                                           | 하나님의 "말씀"                                                          |
 | “You are the Christ”                                                                    | “당신은 그리스도이십니다”                                                |
 | “Yours is power and glory” added                                                        | "당신의 것은 권세와 영광입니다" 추가                                     |
-| {Peace passing understanding                                                            | {평화통일 이해                                                           |
+| Peace passing understanding                                                             | 평화통일 이해                                                            |
 | # 1 Know and be known                                                                   | # 1 Know and be known                                                    |
 | # 1 Life for life                                                                       | # 1 평생을 위한 삶                                                       |
 | # 1: God is faithful                                                                    | # 1: 하나님은 신실하십니다                                               |
@@ -461,7 +461,7 @@
 | Called “brother” & “sister”                                                             | "형제" & "자매"라고                                                      |
 | Calling God “God”                                                                       | 하나님을 “하나님”이라고 부르다                                           |
 | Calling God “our Father”                                                                | 하나님을 “우리 아버지”라고 부르다                                        |
-| Cambiados por la ley del amor                                                           | Cambiados por la ley del amor                                            |
+| Changed by law of love                                                                  | 사랑의 법칙으로 바뀌었다                                                 |
 | Camel go through needle's eye                                                           | 낙타는 바늘의 눈을 통과                                                  |
 | Can a woman forget?                                                                     | 여자가 잊을 수 있습니까?                                                 |
 | Can any good thing come from Nazareth?                                                  | 나사렛에서 무슨 선한 것이 날 수 있겠습니까?                              |
@@ -834,7 +834,7 @@
 | Equality of persons                                                                     | 사람의 평등                                                              |
 | Error of slavish worship                                                                | 노예 숭배의 오류                                                         |
 | Error regarding “prayer”                                                                | "기도"에 관한 오류                                                       |
-| esus went about doing good                                                              | esus는 좋은 일을 하러 갔다                                               |
+| Jesus went about doing good                                                             | esus는 좋은 일을 하러 갔다                                               |
 | Eternal and everlasting life                                                            | 영원하고 영원한 생명                                                     |
 | Eternal and everlasting life in the kingdom to come                                     | 장차 올 왕국에서의 영생과 영생                                           |
 | Eternal God                                                                             | 영원하신 하나님                                                          |
@@ -2113,8 +2113,8 @@
 | Know reality of your beliefs                                                            | 당신의 신념의 현실을 알고                                                |
 | Know your God                                                                           | 당신의 신을 아십시오                                                     |
 | Kyrios                                                                                  | 키리오스                                                                 |
-| La fe le fue contado en justicia                                                        | La fe le fue contado en justicia                                         |
-| La mujer siria                                                                          | 라 무제르 시리아                                                         |
+| Faith was reckoned to him in righteousness                                              | 믿음은 그에게 의로 여겨졌다                                              |
+| The syrian woman                                                                        | 시리아 여성                                                              |
 | Laborer is worthy of hire                                                               | 노동자는 고용의 가치가 있습니다                                          |
 | Laborers together                                                                       | 함께 일하는 노동자                                                       |
 | Lament                                                                                  | 애도                                                                     |
