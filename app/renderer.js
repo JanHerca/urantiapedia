@@ -396,7 +396,7 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'BOOK_JSON_BIBLEREF_MARKDOWN_TO_JSON') {
 		//Read UB (*.json) + Bible Refs (*.md) => write (*.json)
 		book.readFromJSON(jsonDir)
-			.then(() => paramony.readFromMarkdown('The Urantia Book'))
+			.then(() => paramony.readForUB())
 			.then(() => {
 				book.footnotes = paramony.footnotes;
 				return book.updateRefs();
@@ -488,14 +488,21 @@ const handle_exeButtonClick = () => {
 		// Read Bible Refs (*.txt) + read Bible (*.tex) => write (*.wiki)
 		bibleref.readFromTXT(txtDir)
 			.then(() => bible.readFromLaTeX(latexDir))
-			.then(() => bible.writeToWikiText(wikiDir, bibleref))
+			.then(() => bible.writeToWikiText(wikiDir, bibleref.biblebooks))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIBLE_TEX_BIBLEREF_TXT_TO_WIKIJS') {
 		// Read Bible Refs (*.txt) + read Bible (*.tex) => write (*.html)
 		bibleref.readFromTXT(txtDir)
 			.then(() => bible.readFromLaTeX(latexDir))
-			.then(() => bible.writeToWikijs(htmlDir, bibleref))
+			.then(() => bible.writeToWikijs(htmlDir, bibleref.biblebooks))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'BIBLE_TEX_BIBLEREF_MARKDOWN_TO_WIKIJS') {
+		// Read Bible Refs (*.md) + read Bible (*.tex) => write (*.html)
+		paramony.readForBible()
+			//.then(() => bible.readFromLaTeX(latexDir))
+			//.then(() => bible.writeToWikijs(htmlDir, paramony.biblebooks))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIBLE_TEX_TO_BIBLEINDEX_MEDIAWIKI') {
@@ -643,8 +650,11 @@ const showProgress = (show) => {
 
 const showErrors = (errors) => {
 	controls.logArea.innerHTML = errors.map(err=> {
-		const stack = err.stack.split('at').slice(0, 2).join('at');
-		return `<p class="text-danger mb-1">${err.message} | ${stack}</p>`;
+		return err.stack.split('\n').map((s,i) => {
+			return (i === 0 ?
+				`<p class="text-danger mt-1 mb-0">${s}</p>` :
+				`<p class="text-danger ml-3 mb-0 small">${s}</p>`);
+		}).join('');
 	}).join('');
 };
 

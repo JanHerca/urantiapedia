@@ -242,6 +242,53 @@ exports.readFile = (filePath) => {
 };
 
 /**
+ * Writes a text file.
+ * @param {string} filePath File.
+ * @param {string} content Content.
+ * @return {Promise}
+ */
+exports.writeFile = (filePath, content) => {
+	return new Promise((resolve, reject) => {
+		fs.writeFile(filePath, content, 'utf-8', (err) => {
+			if (err) {
+				reject([err]);
+				return;
+			}
+			resolve(null);
+		});
+	});
+};
+
+/**
+ * Writes a HTML for Wiki.js only if content is new or file not exists.
+ * Updates date of last modification avoiding a new date for creation date.
+ * @param {string} filePath File.
+ * @param {string} header Header.
+ * @param {string} body Body.
+ * @return {Promise}
+ */
+exports.writeHTMLToWikijs = (filePath, header, body) => {
+	return new Promise((resolve, reject) => {
+		exports.readFile(filePath)
+			.then(previousLines => {
+				const curLines = (header + body).split('\n');
+				const newHeader = exports.fixWikijsHeader(header, 
+					previousLines, curLines);
+				if (newHeader) {
+					exports.writeFile(filePath, newHeader + body)
+						.then(resolve, reject);
+					return;
+				}
+				resolve(null);
+			})
+			.catch(err => {
+				exports.writeFile(filePath, header + body)
+					.then(resolve, reject);
+			});
+	});
+};
+
+/**
  * Checks a text with an array of components.
  * This function is required because RegExp has problems to search components
  * that are full words and start or end with spacial chars like accent.

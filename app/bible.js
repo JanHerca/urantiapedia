@@ -1,18 +1,20 @@
 //Reader/Writer for Bible in different formats (LaTeX/JSON/Wiki)
 
 const LaTeXSeparator = require('./enums').LaTeXSeparator;
-//TODO: Books to add:
-// Macabeos I y II, Eclesiástico, Sabiduría, Historia de Bel y el Dragón,
-// Oración de Manasés, Tobit, Enoc, Asunción de Moisés
 const BibleAbbs = require('./abb');
-const extractStr = require('./utils').extractStr;
-const reflectPromise = require('./utils').reflectPromise;
-const extendArray = require('./utils').extendArray;
-const readFrom = require('./utils').readFrom;
-const getWikijsHeader = require('./utils').getWikijsHeader;
-const getWikijsLinks = require('./utils').getWikijsLinks;
-const getWikijsBookRefLink = require('./utils').getWikijsBookRefLink;
-const getError = require('./utils').getError;
+const {extractStr, reflectPromise, extendArray, readFrom, getWikijsHeader, 
+	getWikijsLinks, getWikijsBookRefLink, getError, 
+	writeHTMLToWikijs} = require('./utils');
+// const reflectPromise = require('./utils').reflectPromise;
+// const extendArray = require('./utils').extendArray;
+// const readFrom = require('./utils').readFrom;
+// const readFile = require('./utils').readFile;
+// const writeFile = require('./utils')
+// const getWikijsHeader = require('./utils').getWikijsHeader;
+// const fixWikijsHeader = require('./utils').fixWikijsHeader;
+// const getWikijsLinks = require('./utils').getWikijsLinks;
+// const getWikijsBookRefLink = require('./utils').getWikijsBookRefLink;
+// const getError = require('./utils').getError;
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -164,10 +166,10 @@ class Bible {
 	//***********************************************************************
 
 	/**
-	 * Writes `Bible` in HTML format that can be imported in Wiki.js, each chapter
+	 * Writes `Bible` in HTML format for Wiki.js, each chapter
 	 * a file. It requires reading previously from any format.
 	 * @param {string} dirPath Folder path.
-	 * @param {?BibleRef} bibleref An optional Bible Reference.
+	 * @param {?Object[]} bibleref An optional Bible Reference.
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * array of errors in reject function.
 	 */
@@ -176,7 +178,7 @@ class Bible {
 	};
 
 	/**
-	 * Writes a chapter of `Bible` in HTML format that can be imported in Wiki.js.
+	 * Writes a chapter of `Bible` in HTML format for Wiki.js.
 	 * @param {string} filePath Output file.
 	 * @param {Object} book Book object.
 	 * @param {Object} chapter Object with chapter data.
@@ -186,7 +188,6 @@ class Bible {
 	 */
 	writeFileToWikijs = (filePath, book, chapter, book_bibleref) => {
 		return new Promise((resolve, reject) => {
-			let html = '';
 			const chIndex = parseInt(chapter.title);
 			const refs = (book_bibleref && !isNaN(chIndex) ? 
 				book_bibleref.refs.filter(r=> r.bible_chapter === chIndex) : []);
@@ -200,6 +201,8 @@ class Bible {
 			}
 
 			//Header
+			let body = '';
+			let header = '';
 			const chapterText = Strings['bookChapter'][this.language];
 			const prevChapter = book.chapters
 				.find(c=>c.title === (chIndex - 1).toString());
@@ -216,10 +219,10 @@ class Bible {
 				`${Strings['bookIndexName'][this.language]}</a>`;
 			const title = `${book.title} - ${chapterText} ${chapter.title}`;
 
-			html += getWikijsHeader(title);
-			html += '\r\n';
-			html += getWikijsLinks(prevLink, indexLink, nextLink);
-			// html += `<h1>${title}</h1>\r\n`;
+			header += getWikijsHeader(title);
+			header += '\r\n';
+			body += getWikijsLinks(prevLink, indexLink, nextLink);
+			// body += `<h1>${title}</h1>\r\n`;
 
 			const writePar = (par) => {
 				const v = par.substring(0, par.indexOf(' '));
@@ -234,7 +237,7 @@ class Bible {
 						return `<sup id="cite${f.cite}">` +
 							`<a href="#fn${f.cite}">[${f.cite}]</a></sup>`;
 					}).join(' ') : '');
-				html += `<p${id}>${vers} ${text} ${footnotes}</p>\r\n`;
+				body += `<p${id}>${vers} ${text} ${footnotes}</p>\r\n`;
 			};
 
 			//Verses previous to any section
@@ -242,30 +245,27 @@ class Bible {
 
 			//Verses in sections
 			chapter.sections.forEach(section => {
-				html += `<h2> ${section.title} </h2>\r\n`;
+				body += `<h2> ${section.title} </h2>\r\n`;
 				section.pars.forEach(writePar);
 			});
 
 			//References section
 			if (wfootnotes.length > 0) {
-				html += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
-				html += `<div${fnStyle}>\r\n<ol>\r\n`;
-				wfootnotes.forEach(f => html += '  ' + f.html);
-				html += '</ol>\r\n</div>\r\n';
+				body += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
+				body += `<div${fnStyle}>\r\n<ol>\r\n`;
+				wfootnotes.forEach(f => body += '  ' + f.html);
+				body += '</ol>\r\n</div>\r\n';
 			}
 
-			fs.writeFile(filePath, html, 'utf-8', (err) => {
-				if (err) {
-					reject(err);
-					return;
-				}
-				resolve(null);
-			});
+			//Only write if content is new or file not exists
+			//Avoid a new date for creation date
+			writeHTMLToWikijs(filePath, header, body)
+				.then(resolve, reject);
 		});
 	};
 
 	/**
-	 * Converts the array of references to Wiki.js, the format for Wiki.js.
+	 * Converts the array of references to HTML for Wiki.js.
 	 * @param {Array.<Object>} refs References.
 	 * @return {Array.<string>}
 	 */
@@ -299,7 +299,7 @@ class Bible {
 	};
 
 	/**
-	 * Writes a full index of `Bible` in HTML format that can be imported in Wiki.js.
+	 * Writes a full index of `Bible` in HTML format for Wiki.js.
 	 * It requires reading previously from any format.
 	 * @param {string} dirPath Folder path.
 	 * @return {Promise} Promise that returns null in resolve function or an
@@ -311,10 +311,14 @@ class Bible {
 				.map(e => e[0]);
 			const filePath = path.join(dirPath, `bible.html`);
 			const bibleIndex = Strings['bibleFullIndex'][this.language];
-			let html = '';
-			html += getWikijsHeader(bibleIndex);
-			html += '\r\n<ul>\r\n';
-			html += booknames.map(name => {
+
+			//Header
+			let body = '';
+			let header = '';
+			header += getWikijsHeader(bibleIndex);
+			header += '\r\n';
+			body += '\r\n<ul>\r\n';
+			body += booknames.map(name => {
 				const book = this.biblebooks.find(book => book.title === name);
 				if (!book) return '';
 				const bookNameEN = book.titleEN.replace(/ /g, '_');
@@ -324,19 +328,17 @@ class Bible {
 				}).join(' ');
 				return `\t<li>${name}: ${chapters}</li>\r\n`;
 			}).join('');
-			html += '</ul>\r\n';
-			fs.writeFile(filePath, html, 'utf-8', (err) => {
-				if (err) {
-					reject(err);
-					return;
-				}
-				resolve(null);
-			});
+			body += '</ul>\r\n';
+
+			//Only write if content is new or file not exists
+			//Avoid a new date for creation date
+			writeHTMLToWikijs(filePath, header, body)
+				.then(resolve, reject);
 		});
 	};
 
 	/**
-	 * Writes an index of `Bible` in HTML format that can be imported in Wiki.js.
+	 * Writes an index of `Bible` in HTML format for Wiki.js.
 	 * It requires reading previously from any format.
 	 * @param {string} dirPath Folder path.
 	 * @return {Promise} Promise that returns null in resolve function or an
@@ -365,27 +367,26 @@ class Bible {
 						const title = `${book.title} - ${indexName}`;
 						const filePath = path.join(dirPath, bookNameEN, 
 							`Index.html`);
-						let html = '';
-						html += getWikijsHeader(title);
-						html += `<ul>\r\n`;
-						html += book.chapters
+						let header = '';
+						let body = '';
+						header += getWikijsHeader(title);
+						header += '\r\n';
+						body += `<ul>\r\n`;
+						body += book.chapters
 							.map((c, i) => {
 								const path = `${book.path}/${i+1}`;
 								const text = `${chapterName} ${i+1}`;
 								return `\t<li><a href="${path}">${text}</a></li>\r\n`;
 							})
 							.join(' ');
-						html += '</ul>\r\n';
-						html += `<p><a href="${bibleIndexPath}" ` +
+						body += '</ul>\r\n';
+						body += `<p><a href="${bibleIndexPath}" ` +
 							`title="${bibleIndex}">` + 
 							`${bibleIndex}</a></p>\r\n`;
-						fs.writeFile(filePath, html, 'utf-8', (err) => {
-							if (err) {
-								reject2(err);
-								return;
-							}
-							resolve2(null);
-						});
+						//Only write if content is new or file not exists
+						//Avoid a new date for creation date
+						writeHTMLToWikijs(filePath, header, body)
+							.then(resolve2, reject2);
 					});
 			});
 			promises.push(this.writeFullIndexToWikijs(indexPath));
@@ -401,7 +402,7 @@ class Bible {
 	 * Writes `Bible` in MediaWiki format, each chapter a file.
 	 * It requires reading previously from any format.
 	 * @param {string} dirPath Folder path.
-	 * @param {?BibleRef} bibleref An optional Bible Reference.
+	 * @param {?Object[]} bibleref An optional Bible Reference.
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * array of errors in reject function.
 	 */
@@ -658,7 +659,7 @@ class Bible {
 	 * Requires previously to read the Bible in any format.
 	 * @param {string} dirPath Folder path.
 	 * @param {string} format Output format: `wiki`, `html`.
-	 * @param {?BibleRef} bibleref An optional Bible Reference.
+	 * @param {?Object[]} bibleref An optional Bible Reference.
 	 * @return {Promise} Promise that returns null in resolve function or
 	 * an array of errors in reject function.
 	 */
@@ -682,7 +683,7 @@ class Bible {
 
 						let p, book_bibleref;
 						if (bibleref) {
-							book_bibleref = bibleref.biblebooks.find(b => 
+							book_bibleref = bibleref.find(b => 
 								b.titleEN === book.titleEN);
 						}
 						if (format === 'wiki') {
@@ -701,8 +702,9 @@ class Bible {
 				});
 				Promise.all(promises)
 					.then((results) => {
-						const errors = [];
-						results.forEach(r => extendArray(errors, r.error));
+						const errors = results.reduce((acc, r) => {
+							return acc.concat(r.error ? r.error : [] );
+						}, []);
 						if (errors.length === 0) {
 							resolve(null);
 						} else {

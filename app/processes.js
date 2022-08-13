@@ -188,13 +188,29 @@ const Processes = {
 		}
 	},
 	"BIBLE_TEX_BIBLEREF_TXT_TO_WIKIJS": {
-		active: true,
+		active: false,
 		desc: {
 			en: "Convert Bible (LaTeX) + Refs (TXT) to Wiki.js",
 			es: "Convertir Biblia (LaTeX) + Refs (TXT) a Wiki.js"
 		},
 		controls: ['dirTTextbox', 'dirLTextbox', 'dirHTextbox'],
 		paths: [['input', 'txt', 'bible-refs-{0}'], 
+			['input', 'tex', 'bible-{0}', '{extraPath}'], 
+			['output', 'wikijs', '{0}', 'Bible']],
+		/*emptyLan: [null, null, 'en'],*/
+		extraPath: {
+			en: 'ASV',
+			es: 'RV1960'
+		}
+	},
+	"BIBLE_TEX_BIBLEREF_MARKDOWN_TO_WIKIJS": {
+		active: true,
+		desc: {
+			en: "Convert Bible (LaTeX) + Refs (MARKDOWN) to Wiki.js",
+			es: "Convertir Biblia (LaTeX) + Refs (MARKDOWN) a Wiki.js"
+		},
+		controls: ['dirTTextbox', 'dirLTextbox', 'dirHTextbox'],
+		paths: [['input', 'markdown', '{0}', 'paramony'], 
 			['input', 'tex', 'bible-{0}', '{extraPath}'], 
 			['output', 'wikijs', '{0}', 'Bible']],
 		/*emptyLan: [null, null, 'en'],*/
