@@ -1157,7 +1157,7 @@ const BibleAbbreviations = {
 		'1 Mac': ['I Maccabei', '/it/Bible/1_Maccabees', 'OT'],
 		'2 Mac': ['II Maccabei', '/it/Bible/2_Maccabees', 'OT'],
 		'Gb': ['Giobbe', '/it/Bible/Job', 'OT'],
-		'Sal': ['Salmi ', '/it/Bible/Psalms', 'OT'],
+		'Sal': ['Salmi', '/it/Bible/Psalms', 'OT'],
 		'Pr': ['Proverbi', '/it/Bible/Proverbs', 'OT'],
 		'Qo': ['Ecclesiaste', '/it/Bible/Ecclesiastes', 'OT'],
 		'Ct': ['Cantico dei Cantici', '/it/Bible/Song_of_Solomon', 'OT'],
