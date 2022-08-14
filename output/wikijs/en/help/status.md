@@ -52,9 +52,9 @@ Table of tasks and languages to support, showing current progress:
 | Estonian   | `et` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
 | Farsi      | `fa` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :clock2:  |
 | Finnish    | `fi` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :clock2:  |
-| French     | `fr` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |      :clock2:      | :clock2:  |
-| Hebrew     | `he` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
-| Hungarian  | `hu` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
+| French     | `fr` | :heavy_check_mark: |          |      :clock2:      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |      :clock2:      | :clock2:  |
+| Hebrew     | `he` | :heavy_check_mark: |          |      :clock2:      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
+| Hungarian  | `hu` | :heavy_check_mark: |          |      :clock2:      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
 | Indonesian | `id` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
 | Italian    | `it` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :clock2:  |
 | Japanese   | `ja` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
