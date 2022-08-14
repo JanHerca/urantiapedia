@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | Béke, ami a megértésen múlik                                           |
 | # 1 Know and be known                                                                   | # 1. Ismerd meg és légy ismert                                         |
 | # 1 Life for life                                                                       | 1. élet az életért                                                     |
-| # 1: God is faithful                                                                    | # 1: Isten hűséges                                                     |
-| # 1: Perfect in knowledge                                                               | 1. számú: Tökéletes tudás                                              |
-| # 1: Takes a city                                                                       | # 1: Vesz egy várost                                                   |
+| # 1 God is faithful                                                                    | # 1 Isten hűséges                                                     |
+| # 1 Perfect in knowledge                                                               | 1. számú: Tökéletes tudás                                              |
+| # 1 Takes a city                                                                       | # 1 Vesz egy várost                                                   |
 | # 2 Dust to dust                                                                        | # 2. Por a porért                                                      |
 | # 2 Love and be loved                                                                   | # 2 Szeress és szeressenek                                             |
-| # 2: Eyes of Lord every place                                                           | # 2: Az Úr szeme mindenütt                                             |
-| # 2: God's laws are just                                                                | # 2: Isten törvényei igazságosak                                       |
+| # 2 Eyes of Lord every place                                                           | # 2 Az Úr szeme mindenütt                                             |
+| # 2 God's laws are just                                                                | # 2 Isten törvényei igazságosak                                       |
 | 23rd Psalm                                                                              | 23. zsoltár                                                            |
 | 24 sentinels / elders                                                                   | 24 őrszem / vén                                                        |
 | A believed miracle                                                                      | Hitt csoda                                                             |

@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | Pacea trecătoare de înțelegere                                                                 |
 | # 1 Know and be known                                                                   | # 1 Cunoașteți și fiți cunoscuți                                                               |
 | # 1 Life for life                                                                       | # 1 Viață pentru viață                                                                         |
-| # 1: God is faithful                                                                    | #1: Dumnezeu este credincios                                                                   |
-| # 1: Perfect in knowledge                                                               | # 1: Perfect în cunoaștere                                                                     |
-| # 1: Takes a city                                                                       | # 1: Ocupă un oraș                                                                             |
+| # 1 God is faithful                                                                    | #1: Dumnezeu este credincios                                                                   |
+| # 1 Perfect in knowledge                                                               | # 1 Perfect în cunoaștere                                                                     |
+| # 1 Takes a city                                                                       | # 1 Ocupă un oraș                                                                             |
 | # 2 Dust to dust                                                                        | # 2 Dust to dust                                                                               |
 | # 2 Love and be loved                                                                   | # 2 Iubește și fii iubit                                                                       |
-| # 2: Eyes of Lord every place                                                           | # 2: Ochii Domnului în fiecare loc                                                             |
-| # 2: God's laws are just                                                                | # 2: Legile lui Dumnezeu sunt doar                                                             |
+| # 2 Eyes of Lord every place                                                           | # 2 Ochii Domnului în fiecare loc                                                             |
+| # 2 God's laws are just                                                                | # 2 Legile lui Dumnezeu sunt doar                                                             |
 | 23rd Psalm                                                                              | Psalmul 23                                                                                     |
 | 24 sentinels / elders                                                                   | 24 santinele / batrani                                                                         |
 | A believed miracle                                                                      | Un miracol crezut                                                                              |

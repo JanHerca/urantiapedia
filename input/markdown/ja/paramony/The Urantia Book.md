@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | 平和通過理解                                                           |
 | # 1 Know and be known                                                                   | # 1 知って知られる                                                     |
 | # 1 Life for life                                                                       | ＃1 人生のための人生                                                   |
-| # 1: God is faithful                                                                    | ＃1：神は忠実です                                                      |
-| # 1: Perfect in knowledge                                                               | # 1: 完璧な知識                                                        |
-| # 1: Takes a city                                                                       | # 1: 都市を取る                                                        |
+| # 1 God is faithful                                                                    | ＃1：神は忠実です                                                      |
+| # 1 Perfect in knowledge                                                               | # 1 完璧な知識                                                        |
+| # 1 Takes a city                                                                       | # 1 都市を取る                                                        |
 | # 2 Dust to dust                                                                        | #2 ほこりからほこり                                                    |
 | # 2 Love and be loved                                                                   | #2 愛し愛される                                                        |
-| # 2: Eyes of Lord every place                                                           | ＃2：あらゆる場所の主の目                                              |
-| # 2: God's laws are just                                                                | ＃2：神の法則はただです                                                |
+| # 2 Eyes of Lord every place                                                           | ＃2：あらゆる場所の主の目                                              |
+| # 2 God's laws are just                                                                | ＃2：神の法則はただです                                                |
 | 23rd Psalm                                                                              | 第 23 詩篇                                                             |
 | 24 sentinels / elders                                                                   | 24 センチネル / 長老                                                   |
 | A believed miracle                                                                      | 信じられた奇跡                                                         |

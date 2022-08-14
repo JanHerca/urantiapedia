@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | Peace passing understanding                                                 |
 | # 1 Know and be known                                                                   | # 1 Tunne ja saa teada                                                      |
 | # 1 Life for life                                                                       | # 1 Elu elu eest                                                            |
-| # 1: God is faithful                                                                    | # 1: Jumal on ustav                                                         |
-| # 1: Perfect in knowledge                                                               | # 1: Täiuslik teadmistes                                                    |
-| # 1: Takes a city                                                                       | # 1: võtab linna                                                            |
+| # 1 God is faithful                                                                    | # 1 Jumal on ustav                                                         |
+| # 1 Perfect in knowledge                                                               | # 1 Täiuslik teadmistes                                                    |
+| # 1 Takes a city                                                                       | # 1 võtab linna                                                            |
 | # 2 Dust to dust                                                                        | # 2 Tolm tolmuks                                                            |
 | # 2 Love and be loved                                                                   | # 2 Armasta ja ole armastatud                                               |
-| # 2: Eyes of Lord every place                                                           | # 2: Issanda silmad igas kohas                                              |
-| # 2: God's laws are just                                                                | # 2: Jumala seadused on õiglased                                            |
+| # 2 Eyes of Lord every place                                                           | # 2 Issanda silmad igas kohas                                              |
+| # 2 God's laws are just                                                                | # 2 Jumala seadused on õiglased                                            |
 | 23rd Psalm                                                                              | 23. psalm                                                                   |
 | 24 sentinels / elders                                                                   | 24 valvurit / vanemat                                                       |
 | A believed miracle                                                                      | Usutav ime                                                                  |

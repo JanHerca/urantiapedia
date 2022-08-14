@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | La pace passa attraverso la comprensione                                       |
 | # 1 Know and be known                                                                   | # 1 Conoscere ed essere conosciuti                                             |
 | # 1 Life for life                                                                       | # 1 Vita per la vita                                                           |
-| # 1: God is faithful                                                                    | # 1: Dio è fedele                                                              |
-| # 1: Perfect in knowledge                                                               | # 1: Perfetto nella conoscenza                                                 |
-| # 1: Takes a city                                                                       | Numero 1: prende una città                                                     |
+| # 1 God is faithful                                                                    | # 1 Dio è fedele                                                              |
+| # 1 Perfect in knowledge                                                               | # 1 Perfetto nella conoscenza                                                 |
+| # 1 Takes a city                                                                       | Numero 1: prende una città                                                     |
 | # 2 Dust to dust                                                                        | # 2 Polvere alla polvere                                                       |
 | # 2 Love and be loved                                                                   | # 2 Amare ed essere amati                                                      |
-| # 2: Eyes of Lord every place                                                           | # 2: Occhi di Signore ogni luogo                                               |
-| # 2: God's laws are just                                                                | # 2: Le leggi di Dio sono giuste                                               |
+| # 2 Eyes of Lord every place                                                           | # 2 Occhi di Signore ogni luogo                                               |
+| # 2 God's laws are just                                                                | # 2 Le leggi di Dio sono giuste                                               |
 | 23rd Psalm                                                                              | Salmo 23°                                                                      |
 | 24 sentinels / elders                                                                   | 24 sentinelle / anziani                                                        |
 | A believed miracle                                                                      | Un miracolo creduto                                                            |

@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | Peace passing understanding                                                            |
 | # 1 Know and be known                                                                   | # 1 Tunne ja tule tunnetuksi                                                           |
 | # 1 Life for life                                                                       | # 1 Elämä elämästä                                                                     |
-| # 1: God is faithful                                                                    | # 1: Jumala on uskollinen                                                              |
-| # 1: Perfect in knowledge                                                               | # 1: Täydellinen tiedossa                                                              |
-| # 1: Takes a city                                                                       | # 1: vie kaupungin                                                                     |
+| # 1 God is faithful                                                                    | # 1 Jumala on uskollinen                                                              |
+| # 1 Perfect in knowledge                                                               | # 1 Täydellinen tiedossa                                                              |
+| # 1 Takes a city                                                                       | # 1 vie kaupungin                                                                     |
 | # 2 Dust to dust                                                                        | # 2 Pölystä pölyksi                                                                    |
 | # 2 Love and be loved                                                                   | # 2 Rakasta ja tule rakastetuksi                                                       |
-| # 2: Eyes of Lord every place                                                           | # 2: Herran silmät joka paikassa                                                       |
-| # 2: God's laws are just                                                                | # 2: Jumalan lait ovat oikeudenmukaisia                                                |
+| # 2 Eyes of Lord every place                                                           | # 2 Herran silmät joka paikassa                                                       |
+| # 2 God's laws are just                                                                | # 2 Jumalan lait ovat oikeudenmukaisia                                                |
 | 23rd Psalm                                                                              | 23. psalmi                                                                             |
 | 24 sentinels / elders                                                                   | 24 vartijaa / vanhinta                                                                 |
 | A believed miracle                                                                      | Uskottu ihme                                                                           |

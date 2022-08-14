@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | Pokój przechodzący zrozumienie                                              |
 | # 1 Know and be known                                                                   | # 1 Wiedz i bądź znany                                                      |
 | # 1 Life for life                                                                       | # 1 Życie za życie                                                          |
-| # 1: God is faithful                                                                    | #1: Bóg jest wierny                                                         |
-| # 1: Perfect in knowledge                                                               | # 1: Doskonała w wiedzy                                                     |
-| # 1: Takes a city                                                                       | # 1: Zajmuje miasto                                                         |
+| # 1 God is faithful                                                                    | #1: Bóg jest wierny                                                         |
+| # 1 Perfect in knowledge                                                               | # 1 Doskonała w wiedzy                                                     |
+| # 1 Takes a city                                                                       | # 1 Zajmuje miasto                                                         |
 | # 2 Dust to dust                                                                        | # 2 Kurz w pył                                                              |
 | # 2 Love and be loved                                                                   | # 2 Kochaj i bądź kochany                                                   |
-| # 2: Eyes of Lord every place                                                           | # 2: Oczy Pana w każdym miejscu                                             |
-| # 2: God's laws are just                                                                | # 2: Prawa Boże są po prostu                                                |
+| # 2 Eyes of Lord every place                                                           | # 2 Oczy Pana w każdym miejscu                                             |
+| # 2 God's laws are just                                                                | # 2 Prawa Boże są po prostu                                                |
 | 23rd Psalm                                                                              | Psalm 23                                                                    |
 | 24 sentinels / elders                                                                   | 24 wartowników / starszych                                                  |
 | A believed miracle                                                                      | Uwierzony cud                                                               |

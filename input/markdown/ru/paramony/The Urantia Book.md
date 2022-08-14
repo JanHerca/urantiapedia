@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | Мирное понимание                                                    |
 | # 1 Know and be known                                                                   | # 1 Знай и будь известен                                            |
 | # 1 Life for life                                                                       | # 1 Жизнь за жизнь                                                  |
-| # 1: God is faithful                                                                    | № 1: Бог верен                                                      |
-| # 1: Perfect in knowledge                                                               | # 1: Совершенство в знаниях                                         |
-| # 1: Takes a city                                                                       | # 1: Захват города                                                  |
+| # 1 God is faithful                                                                    | № 1: Бог верен                                                      |
+| # 1 Perfect in knowledge                                                               | # 1 Совершенство в знаниях                                         |
+| # 1 Takes a city                                                                       | # 1 Захват города                                                  |
 | # 2 Dust to dust                                                                        | №2 Прах к праху                                                     |
 | # 2 Love and be loved                                                                   | #2 Люби и будь любимой                                              |
-| # 2: Eyes of Lord every place                                                           | # 2: Глаза Господа повсюду                                          |
-| # 2: God's laws are just                                                                | # 2: Божьи законы справедливы                                       |
+| # 2 Eyes of Lord every place                                                           | # 2 Глаза Господа повсюду                                          |
+| # 2 God's laws are just                                                                | # 2 Божьи законы справедливы                                       |
 | 23rd Psalm                                                                              | 23-й псалом                                                         |
 | 24 sentinels / elders                                                                   | 24 стража/старейшины                                                |
 | A believed miracle                                                                      | Верующее чудо                                                       |

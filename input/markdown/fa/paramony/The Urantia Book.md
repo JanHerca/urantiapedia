@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | درک گذر از صلح                                                             |
 | # 1 Know and be known                                                                   | # 1 بدانید و شناخته شوید                                                   |
 | # 1 Life for life                                                                       | # 1 زندگی برای زندگی                                                       |
-| # 1: God is faithful                                                                    | شماره 1: خدا وفادار است                                                    |
-| # 1: Perfect in knowledge                                                               | شماره 1: کامل در دانش                                                      |
-| # 1: Takes a city                                                                       | # 1: یک شهر را می گیرد                                                     |
+| # 1 God is faithful                                                                    | شماره 1: خدا وفادار است                                                    |
+| # 1 Perfect in knowledge                                                               | شماره 1: کامل در دانش                                                      |
+| # 1 Takes a city                                                                       | # 1 یک شهر را می گیرد                                                     |
 | # 2 Dust to dust                                                                        | # 2 گرد و غبار به گرد و غبار                                               |
 | # 2 Love and be loved                                                                   | # 2 عشق بورز و دوست داشته شوند                                             |
-| # 2: Eyes of Lord every place                                                           | شماره 2: چشمان پروردگار همه جا                                             |
-| # 2: God's laws are just                                                                | شماره 2: قوانین خدا عادلانه است                                            |
+| # 2 Eyes of Lord every place                                                           | شماره 2: چشمان پروردگار همه جا                                             |
+| # 2 God's laws are just                                                                | شماره 2: قوانین خدا عادلانه است                                            |
 | 23rd Psalm                                                                              | مزمور بیست و سوم                                                           |
 | 24 sentinels / elders                                                                   | 24 نگهبان / بزرگان                                                         |
 | A believed miracle                                                                      | معجزه باورکردنی                                                            |

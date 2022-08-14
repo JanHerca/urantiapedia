@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | Ειρήνη που περνάει την κατανόηση                                                                   |
 | # 1 Know and be known                                                                   | # 1 Γνώρισε και γίνε γνωστός                                                                       |
 | # 1 Life for life                                                                       | Νο 1 Ζωή για ζωή                                                                                   |
-| # 1: God is faithful                                                                    | # 1: Ο Θεός είναι πιστός                                                                           |
-| # 1: Perfect in knowledge                                                               | # 1: Τέλειος στη γνώση                                                                             |
-| # 1: Takes a city                                                                       | # 1: Παίρνει μια πόλη                                                                              |
+| # 1 God is faithful                                                                    | # 1 Ο Θεός είναι πιστός                                                                           |
+| # 1 Perfect in knowledge                                                               | # 1 Τέλειος στη γνώση                                                                             |
+| # 1 Takes a city                                                                       | # 1 Παίρνει μια πόλη                                                                              |
 | # 2 Dust to dust                                                                        | # 2 Dust to dust                                                                                   |
 | # 2 Love and be loved                                                                   | # 2 Αγαπήστε και αγαπηθείτε                                                                        |
-| # 2: Eyes of Lord every place                                                           | # 2: Τα μάτια του Κυρίου σε κάθε τόπο                                                              |
-| # 2: God's laws are just                                                                | # 2: Οι νόμοι του Θεού είναι δίκαιοι                                                               |
+| # 2 Eyes of Lord every place                                                           | # 2 Τα μάτια του Κυρίου σε κάθε τόπο                                                              |
+| # 2 God's laws are just                                                                | # 2 Οι νόμοι του Θεού είναι δίκαιοι                                                               |
 | 23rd Psalm                                                                              | 23ος Ψαλμός                                                                                        |
 | 24 sentinels / elders                                                                   | 24 φρουροί / πρεσβύτεροι                                                                           |
 | A believed miracle                                                                      | Ένα πιστευτό θαύμα                                                                                 |

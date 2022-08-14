@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | 평화통일 이해                                                            |
 | # 1 Know and be known                                                                   | # 1 Know and be known                                                    |
 | # 1 Life for life                                                                       | # 1 평생을 위한 삶                                                       |
-| # 1: God is faithful                                                                    | # 1: 하나님은 신실하십니다                                               |
-| # 1: Perfect in knowledge                                                               | # 1: 완벽한 지식                                                         |
-| # 1: Takes a city                                                                       | # 1: 도시를 차지합니다                                                   |
+| # 1 God is faithful                                                                    | # 1 하나님은 신실하십니다                                               |
+| # 1 Perfect in knowledge                                                               | # 1 완벽한 지식                                                         |
+| # 1 Takes a city                                                                       | # 1 도시를 차지합니다                                                   |
 | # 2 Dust to dust                                                                        | # 2 먼지에서 먼지로                                                      |
 | # 2 Love and be loved                                                                   | # 2 사랑하고 사랑받기                                                    |
-| # 2: Eyes of Lord every place                                                           | # 2: 모든 곳에서 주님의 눈                                               |
-| # 2: God's laws are just                                                                | # 2: 하나님의 법은 공의롭습니다                                          |
+| # 2 Eyes of Lord every place                                                           | # 2 모든 곳에서 주님의 눈                                               |
+| # 2 God's laws are just                                                                | # 2 하나님의 법은 공의롭습니다                                          |
 | 23rd Psalm                                                                              | 시편 23편                                                                |
 | 24 sentinels / elders                                                                   | 24 파수꾼 / 장로                                                         |
 | A believed miracle                                                                      | 믿어진 기적                                                              |

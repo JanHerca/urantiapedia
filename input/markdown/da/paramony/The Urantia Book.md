@@ -43,13 +43,13 @@
 | “Yours is power and glory” added                                                        | »Din er magt og herlighed« tilføjet                                                      |
 | # 1 Know and be known                                                                   | # 1 Kend og bliv kendt                                                                   |
 | # 1 Life for life                                                                       | # 1 Liv for livet                                                                        |
-| # 1: God is faithful                                                                    | # 1: Gud er trofast                                                                      |
-| # 1: Perfect in knowledge                                                               | nr. 1: fuldkommen i viden                                                                |
-| # 1: Takes a city                                                                       | # 1: Tager en by                                                                         |
+| # 1 God is faithful                                                                    | # 1 Gud er trofast                                                                      |
+| # 1 Perfect in knowledge                                                               | nr. 1: fuldkommen i viden                                                                |
+| # 1 Takes a city                                                                       | # 1 Tager en by                                                                         |
 | # 2 Dust to dust                                                                        | # 2 Støv til støv                                                                        |
 | # 2 Love and be loved                                                                   | nr. 2 Elsker og bliver elsket                                                            |
-| # 2: Eyes of Lord every place                                                           | nr. 2: Herrens øjne alle steder                                                          |
-| # 2: God's laws are just                                                                | nr. 2: Guds love er retfærdige                                                           |
+| # 2 Eyes of Lord every place                                                           | nr. 2: Herrens øjne alle steder                                                          |
+| # 2 God's laws are just                                                                | nr. 2: Guds love er retfærdige                                                           |
 | 23rd Psalm                                                                              | 23. salme                                                                                |
 | 24 sentinels / elders                                                                   | 24 vagtposter / ældste                                                                   |
 | A believed miracle                                                                      | Et troet mirakel                                                                         |

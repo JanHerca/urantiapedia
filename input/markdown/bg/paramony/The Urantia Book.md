@@ -43,13 +43,13 @@
 | “Yours is power and glory” added                                                        | „Твоя е силата и славата“                                                       |
 | # 1 Know and be known                                                                   | # 1 Знаете и бъдете известни                                                    |
 | # 1 Life for life                                                                       | # 1 Живот за живот                                                              |
-| # 1: God is faithful                                                                    | # 1: Бог е верен                                                                |
-| # 1: Perfect in knowledge                                                               | # 1: съвършен в знанието                                                        |
-| # 1: Takes a city                                                                       | # 1: Заема град                                                                 |
+| # 1 God is faithful                                                                    | # 1 Бог е верен                                                                |
+| # 1 Perfect in knowledge                                                               | # 1 съвършен в знанието                                                        |
+| # 1 Takes a city                                                                       | # 1 Заема град                                                                 |
 | # 2 Dust to dust                                                                        | # 2 Прах до прах                                                                |
 | # 2 Love and be loved                                                                   | # 2 Обичайте и бъдете обичани                                                   |
-| # 2: Eyes of Lord every place                                                           | # 2: Очите на Господ на всяко място                                             |
-| # 2: God's laws are just                                                                | # 2: Божиите закони са справедливи                                              |
+| # 2 Eyes of Lord every place                                                           | # 2 Очите на Господ на всяко място                                             |
+| # 2 God's laws are just                                                                | # 2 Божиите закони са справедливи                                              |
 | 23rd Psalm                                                                              | 23-ти псалом                                                                    |
 | 24 sentinels / elders                                                                   | 24 стражари/старейшини                                                          |
 | A believed miracle                                                                      | Чудо, в което се вярва                                                          |

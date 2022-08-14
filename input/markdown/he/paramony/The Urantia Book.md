@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | הבנה עוברת שלום                                               |
 | # 1 Know and be known                                                                   | # 1 לדעת ולהיות ידוע                                          |
 | # 1 Life for life                                                                       | # 1 חיים לכל החיים                                            |
-| # 1: God is faithful                                                                    | # 1: אלוהים נאמן                                              |
-| # 1: Perfect in knowledge                                                               | # 1: מושלם בידע                                               |
-| # 1: Takes a city                                                                       | # 1: לוקח עיר                                                 |
+| # 1 God is faithful                                                                    | # 1 אלוהים נאמן                                              |
+| # 1 Perfect in knowledge                                                               | # 1 מושלם בידע                                               |
+| # 1 Takes a city                                                                       | # 1 לוקח עיר                                                 |
 | # 2 Dust to dust                                                                        | # 2 אבק לאבק                                                  |
 | # 2 Love and be loved                                                                   | # 2 לאהוב ולהיות נאהב                                         |
-| # 2: Eyes of Lord every place                                                           | # 2: עיני האדון בכל מקום                                      |
-| # 2: God's laws are just                                                                | # 2: חוקי אלוהים הם צודקים                                    |
+| # 2 Eyes of Lord every place                                                           | # 2 עיני האדון בכל מקום                                      |
+| # 2 God's laws are just                                                                | # 2 חוקי אלוהים הם צודקים                                    |
 | 23rd Psalm                                                                              | מזמור כ"ג                                                     |
 | 24 sentinels / elders                                                                   | 24 זקיפים / זקנים                                             |
 | A believed miracle                                                                      | נס מאמין                                                      |

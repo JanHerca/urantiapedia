@@ -43,13 +43,13 @@
 | “Yours is power and glory” added                                                        | „Tvá je moc a sláva“ přidáno                                     |
 | # 1 Know and be known                                                                   | # 1 Poznej a buď poznán                                          |
 | # 1 Life for life                                                                       | # 1 Život pro život                                              |
-| # 1: God is faithful                                                                    | # 1: Bůh je věrný                                                |
-| # 1: Perfect in knowledge                                                               | # 1: Dokonalý v poznání                                          |
-| # 1: Takes a city                                                                       | # 1: Zaujme město                                                |
+| # 1 God is faithful                                                                    | # 1 Bůh je věrný                                                |
+| # 1 Perfect in knowledge                                                               | # 1 Dokonalý v poznání                                          |
+| # 1 Takes a city                                                                       | # 1 Zaujme město                                                |
 | # 2 Dust to dust                                                                        | # 2 Prach na prach                                               |
 | # 2 Love and be loved                                                                   | # 2 Milovat a být milován                                        |
-| # 2: Eyes of Lord every place                                                           | # 2: Oči Pána na každém místě                                    |
-| # 2: God's laws are just                                                                | # 2: Boží zákony jsou spravedlivé                                |
+| # 2 Eyes of Lord every place                                                           | # 2 Oči Pána na každém místě                                    |
+| # 2 God's laws are just                                                                | # 2 Boží zákony jsou spravedlivé                                |
 | 23rd Psalm                                                                              | 23. žalm                                                         |
 | 24 sentinels / elders                                                                   | 24 strážců / starších                                            |
 | A believed miracle                                                                      | Zázrak, kterému se věří                                          |

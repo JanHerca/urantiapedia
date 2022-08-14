@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | Vrede voorbij begrip                                                                    |
 | # 1 Know and be known                                                                   | # 1 Weten en gekend worden                                                              |
 | # 1 Life for life                                                                       | # 1 Leven voor het leven                                                                |
-| # 1: God is faithful                                                                    | #1: God is trouw                                                                        |
-| # 1: Perfect in knowledge                                                               | #1: Perfect in kennis                                                                   |
-| # 1: Takes a city                                                                       | #1: Neemt een stad                                                                      |
+| # 1 God is faithful                                                                    | #1: God is trouw                                                                        |
+| # 1 Perfect in knowledge                                                               | #1: Perfect in kennis                                                                   |
+| # 1 Takes a city                                                                       | #1: Neemt een stad                                                                      |
 | # 2 Dust to dust                                                                        | #2 Stof tot stof                                                                        |
 | # 2 Love and be loved                                                                   | #2 Heb lief en word bemind                                                              |
-| # 2: Eyes of Lord every place                                                           | #2: Ogen van Heer overal                                                                |
-| # 2: God's laws are just                                                                | #2: Gods wetten zijn gewoon                                                             |
+| # 2 Eyes of Lord every place                                                           | #2: Ogen van Heer overal                                                                |
+| # 2 God's laws are just                                                                | #2: Gods wetten zijn gewoon                                                             |
 | 23rd Psalm                                                                              | 23e Psalm                                                                               |
 | 24 sentinels / elders                                                                   | 24 schildwachten / oudsten                                                              |
 | A believed miracle                                                                      | Een geloofd wonder                                                                      |

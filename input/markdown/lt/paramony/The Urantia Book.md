@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | Praeinantis taikos supratimas                                            |
 | # 1 Know and be known                                                                   | # 1 Žinokite ir būk žinomi                                               |
 | # 1 Life for life                                                                       | # 1 Gyvenimas už gyvenimą                                                |
-| # 1: God is faithful                                                                    | # 1: Dievas ištikimas                                                    |
-| # 1: Perfect in knowledge                                                               | # 1: Tobulos žinios                                                      |
-| # 1: Takes a city                                                                       | # 1: užima miestą                                                        |
+| # 1 God is faithful                                                                    | # 1 Dievas ištikimas                                                    |
+| # 1 Perfect in knowledge                                                               | # 1 Tobulos žinios                                                      |
+| # 1 Takes a city                                                                       | # 1 užima miestą                                                        |
 | # 2 Dust to dust                                                                        | # 2 Dulkės į dulkes                                                      |
 | # 2 Love and be loved                                                                   | # 2 Mylėk ir būk mylimas                                                 |
-| # 2: Eyes of Lord every place                                                           | # 2: Viešpaties akys visur                                               |
-| # 2: God's laws are just                                                                | # 2: Dievo įstatymai yra tik                                             |
+| # 2 Eyes of Lord every place                                                           | # 2 Viešpaties akys visur                                               |
+| # 2 God's laws are just                                                                | # 2 Dievo įstatymai yra tik                                             |
 | 23rd Psalm                                                                              | 23 psalmė                                                                |
 | 24 sentinels / elders                                                                   | 24 sargybiniai / seniūnai                                                |
 | A believed miracle                                                                      | Tikėtas stebuklas                                                        |

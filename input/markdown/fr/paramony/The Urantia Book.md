@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | La paix passant par la compréhension                                                        |
 | # 1 Know and be known                                                                   | # 1 Connaître et être connu                                                                 |
 | # 1 Life for life                                                                       | # 1 Vie pour la vie                                                                         |
-| # 1: God is faithful                                                                    | #1 : Dieu est fidèle                                                                        |
-| # 1: Perfect in knowledge                                                               | #1 : Parfait dans la connaissance                                                           |
-| # 1: Takes a city                                                                       | #1 : Prend une ville                                                                        |
+| # 1 God is faithful                                                                    | #1 : Dieu est fidèle                                                                        |
+| # 1 Perfect in knowledge                                                               | #1 : Parfait dans la connaissance                                                           |
+| # 1 Takes a city                                                                       | #1 : Prend une ville                                                                        |
 | # 2 Dust to dust                                                                        | # 2 De la poussière à la poussière                                                          |
 | # 2 Love and be loved                                                                   | #2 Aimer et être aimé                                                                       |
-| # 2: Eyes of Lord every place                                                           | #2 : Les yeux du Seigneur en tout lieu                                                      |
-| # 2: God's laws are just                                                                | #2 : Les lois de Dieu sont justes                                                           |
+| # 2 Eyes of Lord every place                                                           | #2 : Les yeux du Seigneur en tout lieu                                                      |
+| # 2 God's laws are just                                                                | #2 : Les lois de Dieu sont justes                                                           |
 | 23rd Psalm                                                                              | 23ème psaume                                                                                |
 | 24 sentinels / elders                                                                   | 24 sentinelles/anciens                                                                      |
 | A believed miracle                                                                      | Un miracle cru                                                                              |

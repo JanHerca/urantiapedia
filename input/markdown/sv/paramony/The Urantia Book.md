@@ -44,13 +44,13 @@
 | Peace passing understanding                                                             | Fredsöverskridande förståelse                                                         |
 | # 1 Know and be known                                                                   | # 1 Känn och bli känd                                                                 |
 | # 1 Life for life                                                                       | # 1 Liv för livet                                                                     |
-| # 1: God is faithful                                                                    | # 1: Gud är trofast                                                                   |
-| # 1: Perfect in knowledge                                                               | # 1: Perfekt i kunskap                                                                |
-| # 1: Takes a city                                                                       | # 1: Tar en stad                                                                      |
+| # 1 God is faithful                                                                    | # 1 Gud är trofast                                                                   |
+| # 1 Perfect in knowledge                                                               | # 1 Perfekt i kunskap                                                                |
+| # 1 Takes a city                                                                       | # 1 Tar en stad                                                                      |
 | # 2 Dust to dust                                                                        | # 2 Damm till damm                                                                    |
 | # 2 Love and be loved                                                                   | # 2 Älska och bli älskad                                                              |
-| # 2: Eyes of Lord every place                                                           | # 2: Herrens ögon varje plats                                                         |
-| # 2: God's laws are just                                                                | # 2: Guds lagar är rättvisa                                                           |
+| # 2 Eyes of Lord every place                                                           | # 2 Herrens ögon varje plats                                                         |
+| # 2 God's laws are just                                                                | # 2 Guds lagar är rättvisa                                                           |
 | 23rd Psalm                                                                              | 23:e Psalmen                                                                          |
 | 24 sentinels / elders                                                                   | 24 vaktposter / äldste                                                                |
 | A believed miracle                                                                      | Ett trott mirakel                                                                     |
