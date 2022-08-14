@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | „Lozorius prisikels“.                                   |
 | “Meat” to do will of Father, “work”                    | „Mėsa“ vykdyti Tėvo valią, „darbas“                     |
 | “Temptation” of Jesus                                  | Jėzaus „gundymas“.                                      |
+| # 1 God is faithful                                    | # 1 Dievas yra ištikimas                                |
+| # 1 Perfect in knowledge                               | # 1 Tobulos žinios                                      |
 | # 1 Pilot light                                        | # 1 kontrolinė lemputė                                  |
 | # 1 Pilot light                                        | # 1 kontrolinė lemputė                                  |
 | # 1 Servant of the Lord                                | # 1 Viešpaties tarnas                                   |
+| # 1 Takes a city                                       | # 1 Paima miestą                                        |
+| # 2 Eyes of Lord every place                           | # 2 Viešpaties akys kiekvienoje vietoje                 |
+| # 2 God's laws are just                                | # 2 Dievo įstatymai yra teisingi                        |
 | # 2 Light of life                                      | # 2 Gyvenimo šviesa                                     |
 | # 2 The Son of Man                                     | # 2 Žmogaus Sūnus                                       |
 | 10 Taboos                                              | 10 tabu                                                 |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | Didelio pykčio, nuožmaus pykčio dievas                  |
 | A new heaven & new earth                               | Naujas dangus ir nauja žemė                             |
 | About John the Baptist                                 | Apie Joną Krikštytoją                                   |
-| Also known as Thaddeus & Lebbeus                       | Taip pat žinomas kaip Thaddeus & Lebbeus                |
 | All nations to be blessed                              | Palaimintos visos tautos                                |
 | Alpheus twins: James & Judas                           | Alfėjaus dvyniai: Jokūbas ir Judas                      |
+| Also known as Thaddeus & Lebbeus                       | Taip pat žinomas kaip Thaddeus & Lebbeus                |
 | Amenemope wrote first Psalm                            | Amenemope parašė pirmąją psalmę                         |
 | Amos' threat & warning                                 | Amoso grasinimas ir įspėjimas                           |
 | Angels going up & down                                 | Angelai kyla aukštyn ir žemyn                           |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | Nusileidęs iš dangaus                                   |
 | Commingle good & evil, die                             | Sumaišykite gėrį ir blogį, mirkite                      |
 | Commit to Him keeping of souls                         | Įsipareigokite Jam saugoti sielas                       |
-| Competing “gods” Baal, Ashtaroth                       | Konkuruojantys „dievai“ Baalas, Aštarotas               |
 | Competing “gods” Ashtaroth                             | Konkuruojantys „dievai“ Aštarotas                       |
 | Competing “gods” Baal                                  | Konkuruojantys „dievai“ Baalas                          |
+| Competing “gods” Baal, Ashtaroth                       | Konkuruojantys „dievai“ Baalas, Aštarotas               |
 | Competing “gods” Molech                                | Konkuruojantys „dievai“ Molechas                        |
 | Contrite mind & humble spirit                          | Atgailaujantis protas ir nuolanki dvasia                |
 | Correcting views of God                                | Pažiūrų į Dievą taisymas                                |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | Pabaiga, 23d psalmė                                     |
 | Ended by singing hymn                                  | Baigta giedant himną                                    |
 | Eternal / everlasting life                             | Amžinasis / amžinasis gyvenimas                         |
-| Whoever humbles himself will be exalted                | Kas nusižemins, bus išaukštintas                        |
 | Eye, light of body                                     | Akys, kūno šviesa                                       |
 | Eyes:are the windows of soul                           | Akys: yra sielos langai                                 |
 | Ezekiel: service / devotion                            | Ezechielis: tarnystė / atsidavimas                      |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | Priimkite Jėzų: Dievo sūnūs                             |
 | Recorded as: “God calling..”                           | Įrašyta kaip: „Dievas šaukia...“                        |
 | Religion of LOVE                                       | MEILĖS religija                                         |
+| Render unto Caesar & God                               | Atiduokite ciesoriui ir Dievui                          |
 | Render unto Caesar what is Caesar's, God what is God's | Atiduokite ciesoriui, kas ciesoriaus, Dievui, kas Dievo |
 | Repent for forgiveness (Old Testament)                 | Atgailaukite dėl atleidimo (Senasis Testamentas)        |
 | Repent, God forgives                                   | Atgailaukite, Dievas atleidžia                          |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | Matė Mesiją kaip Dovydo sūnų                            |
 | Saw Messiah as Son of Man                              | Matė Mesiją kaip Žmogaus Sūnų                           |
 | Scripture not infallible (Contra)                      | Raštas neklystantis (Contra)                            |
-| Scripture read: Wherewith shall I come before the Lord | Raštas skaito: „Kuo aš eisiu Viešpaties akivaizdoje?    |
-| Scripture read: To whom then will ye liken God?        | Raštas skaito: Su kuo jūs palyginsite Dievą?            |
+| Scripture read                                         | Skaitytas Raštas                                        |
 | Scripture read: Seek good, and not evil                | Raštas skaito: Ieškokite gėrio, o ne blogio             |
 | Scripture read: The Spirit of the Lord is upon me      | Raštas skaito: Viešpaties Dvasia ant manęs              |
+| Scripture read: To whom then will ye liken God?        | Raštas skaito: Su kuo jūs palyginsite Dievą?            |
 | Scripture read: Wash you, make you clean               | Raštas skaito: Nusiplauk, apsivalyk                     |
+| Scripture read: Wherewith shall I come before the Lord | Raštas skaito: „Kuo aš eisiu Viešpaties akivaizdoje?    |
 | Scripture read: Ye are my witnesses, saith the Lord    | Raštas skaito: Jūs esate mano liudytojai, sako Viešpats |
 | Search and find me                                     | Ieškok ir surask mane                                   |
 | Second bigand's defense                                | Antroji bigando gynyba                                  |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | Pasitikėk Dievu visa širdimi                            |
 | Turn away from words: act                              | Nusigręžk nuo žodžių: veik                              |
 | Two views, flesh vs. spirit                            | Du požiūriai, kūnas prieš dvasią                        |
-| You are the temple of God; God dwells in you           | Tu esi Dievo šventykla; Dievas gyvena tavyje            |
 | Underneath, everlasting arms                           | Apačioje amžinos rankos                                 |
 | Utter destruction                                      | Visiškas sunaikinimas                                   |
 | Vertebrates: fish                                      | Stuburiniai gyvūnai: žuvys                              |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | Kas turi, tas duota; neturi, paėmė                      |
 | Who has seen me, seen Father                           | Kas mane matė, matė Tėvą                                |
 | Who would be greatest: serve                           | Kas būtų didžiausias: tarnauti                          |
+| Whoever humbles himself will be exalted                | Kas nusižemins, bus išaukštintas                        |
 | Why do the heathen rage                                | Kodėl pagonys siautėja                                  |
 | Why Jesus wept                                         | Kodėl Jėzus verkė                                       |
 | Why Jews wished to kill Jesus                          | Kodėl žydai norėjo nužudyti Jėzų                        |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | Pyktis yra žiaurus, baisus                              |
 | Writing in sand                                        | Rašymas smėlyje                                         |
 | Yaweh v. Baal                                          | Yaweh prieš Baalą                                       |
+| You are the temple of God; God dwells in you           | Tu esi Dievo šventykla; Dievas gyvena tavyje            |
 | Your ears hear: this is way                            | Jūsų ausys girdi: tai yra būdas                         |
 | Your sins hold back good                               | Tavo nuodėmės sulaiko gėrį                              |
 | Yours is power, glory added                            | Tavo galia, pridėta šlovė                               |

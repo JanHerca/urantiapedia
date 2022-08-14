@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | "لازاروس برخواهد خاست."                                     |
 | “Meat” to do will of Father, “work”                    | "گوشت" برای انجام اراده پدر، "کار"                          |
 | “Temptation” of Jesus                                  | "وسوسه" عیسی                                                |
+| # 1 God is faithful                                    | شماره 1 خدا وفادار است                                      |
+| # 1 Perfect in knowledge                               | # 1 در دانش کامل است                                        |
 | # 1 Pilot light                                        | چراغ خلبان شماره 1                                          |
 | # 1 Pilot light                                        | چراغ خلبان شماره 1                                          |
 | # 1 Servant of the Lord                                | شماره 1 بنده خداوند                                         |
+| # 1 Takes a city                                       | شماره 1 یک شهر را می گیرد                                   |
+| # 2 Eyes of Lord every place                           | # 2 چشمان پروردگار در هر مکان                               |
+| # 2 God's laws are just                                | شماره 2 قوانین خدا عادلانه است                              |
 | # 2 Light of life                                      | # 2 نور زندگی                                               |
 | # 2 The Son of Man                                     | شماره 2 پسر انسان                                           |
 | 10 Taboos                                              | 10 تابو                                                     |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | خدای خشم بزرگ، خشم شدید                                     |
 | A new heaven & new earth                               | آسمان جدید و زمین جدید                                      |
 | About John the Baptist                                 | درباره یحیی باپتیست                                         |
-| Also known as Thaddeus & Lebbeus                       | همچنین به عنوان Thaddeus & Lebbeus شناخته می شود            |
 | All nations to be blessed                              | همه ملت ها برکت داشته باشند                                 |
 | Alpheus twins: James & Judas                           | دوقلوهای آلفیوس: جیمز و یهودا                               |
+| Also known as Thaddeus & Lebbeus                       | همچنین به عنوان Thaddeus & Lebbeus شناخته می شود            |
 | Amenemope wrote first Psalm                            | آمنه موپ اولین مزمور را نوشت                                |
 | Amos' threat & warning                                 | تهدید و هشدار آموس                                          |
 | Angels going up & down                                 | بالا و پایین رفتن فرشتگان                                   |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | از بهشت فرود آمد                                            |
 | Commingle good & evil, die                             | خوب و بد را با هم ترکیب کن، بمیر                            |
 | Commit to Him keeping of souls                         | حفظ جانها را به او متعهد کنید                               |
-| Competing “gods” Baal, Ashtaroth                       | "خدایان" رقیب بعل، اشتروت                                   |
 | Competing “gods” Ashtaroth                             | "خدایان" رقیب اشتاروث                                       |
 | Competing “gods” Baal                                  | "خدایان" رقیب بعل                                           |
+| Competing “gods” Baal, Ashtaroth                       | "خدایان" رقیب بعل، اشتروت                                   |
 | Competing “gods” Molech                                | "خدایان" رقیب مولک                                          |
 | Contrite mind & humble spirit                          | ذهن متاسف و روح متواضع                                      |
 | Correcting views of God                                | اصلاح دیدگاه خدا                                            |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | پایان، مزمور 23d                                            |
 | Ended by singing hymn                                  | با خواندن سرود به پایان رسید                                |
 | Eternal / everlasting life                             | زندگی ابدی / ابدی                                           |
-| Whoever humbles himself will be exalted                | هر که خود را فروتن کند سرفراز می شود                        |
 | Eye, light of body                                     | چشم، نور بدن                                                |
 | Eyes:are the windows of soul                           | چشم ها: پنجره های روح هستند                                 |
 | Ezekiel: service / devotion                            | حزقیال: خدمت / فداکاری                                      |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | عیسی را بپذیرید: پسران خدا                                  |
 | Recorded as: “God calling..”                           | ضبط شده به عنوان: "خداوند صدا می کند.."                     |
 | Religion of LOVE                                       | دین عشق                                                     |
+| Render unto Caesar & God                               | به سزار و خدا بده                                           |
 | Render unto Caesar what is Caesar's, God what is God's | آنچه از آن قیصر است به قیصر، و آنچه از آن خداست به خدا بده  |
 | Repent for forgiveness (Old Testament)                 | توبه برای بخشش (عهد عتیق)                                   |
 | Repent, God forgives                                   | توبه کن خدا می بخشه                                         |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | مسیح را پسر داوود دید                                       |
 | Saw Messiah as Son of Man                              | مسیح را به عنوان پسر انسان دید                              |
 | Scripture not infallible (Contra)                      | کتاب مقدس خطاناپذیر نیست (برعکس)                            |
-| Scripture read: Wherewith shall I come before the Lord | در کتاب مقدس آمده است: با آن به حضور خداوند خواهم آمد       |
-| Scripture read: To whom then will ye liken God?        | در این کتاب آمده است: پس خدا را به چه کسی تشبیه خواهید کرد؟ |
+| Scripture read                                         | کتاب مقدس خوانده شود                                        |
 | Scripture read: Seek good, and not evil                | در کتاب مقدس آمده است: به دنبال خیر باشید، نه بد            |
 | Scripture read: The Spirit of the Lord is upon me      | در کتاب مقدس آمده است: روح خداوند بر من است                 |
+| Scripture read: To whom then will ye liken God?        | در این کتاب آمده است: پس خدا را به چه کسی تشبیه خواهید کرد؟ |
 | Scripture read: Wash you, make you clean               | کتاب مقدس خوانده شده: شما را بشوید، شما را تمیز کند         |
+| Scripture read: Wherewith shall I come before the Lord | در کتاب مقدس آمده است: با آن به حضور خداوند خواهم آمد       |
 | Scripture read: Ye are my witnesses, saith the Lord    | در کتاب مقدس آمده است: خداوند می گوید: شما شاهدان من هستید  |
 | Search and find me                                     | جستجو کن و مرا پیدا کن                                      |
 | Second bigand's defense                                | دفاع دوم بزرگ                                               |
@@ -638,7 +644,7 @@
 | Take up responsibilities, follow me                    | مسئولیت ها را بر عهده بگیرید، مرا دنبال کنید                |
 | Taste & see that God is good                           | بچشید و ببینید که خدا خوب است                               |
 | Temple to be demolished                                | معبدی که قرار است ویران شود                                 |
-| Temporal v. spiritual                                  | زمانی در مقابل معنوی                                                  |
+| Temporal v. spiritual                                  | زمانی در مقابل معنوی                                        |
 | Thanks for mercies                                     | ممنون از رحمت                                               |
 | That fox (Herod)                                       | آن روباه (هرودیس)                                           |
 | The agreement                                          | توافق                                                       |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | با تمام وجودت به خدا توکل کن                                |
 | Turn away from words: act                              | رو گردان از کلمات: عمل کن                                   |
 | Two views, flesh vs. spirit                            | دو دیدگاه، گوشت در مقابل روح                                |
-| You are the temple of God; God dwells in you           | شما معبد خدا هستید. خدا در تو ساکن است                      |
 | Underneath, everlasting arms                           | در زیر، بازوهای ابدی                                        |
 | Utter destruction                                      | نابودی مطلق                                                 |
 | Vertebrates: fish                                      | مهره داران: ماهی                                            |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | هر که دارد داده می شود; نشده است، گرفته است                 |
 | Who has seen me, seen Father                           | کسی که مرا دیده، پدر را دیده است                            |
 | Who would be greatest: serve                           | چه کسی بهترین خواهد بود: خدمت کردن                          |
+| Whoever humbles himself will be exalted                | هر که خود را فروتن کند سرفراز می شود                        |
 | Why do the heathen rage                                | چرا بتها خشمگین می شوند                                     |
 | Why Jesus wept                                         | چرا عیسی گریه کرد                                           |
 | Why Jews wished to kill Jesus                          | چرا یهودیان می خواستند عیسی را بکشند؟                       |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | خشم بی رحمانه، ظالمانه است                                  |
 | Writing in sand                                        | نوشتن روی شن                                                |
 | Yaweh v. Baal                                          | یاوه علیه بعل                                               |
+| You are the temple of God; God dwells in you           | شما معبد خدا هستید. خدا در تو ساکن است                      |
 | Your ears hear: this is way                            | گوش شما می شنود: این راه است                                |
 | Your sins hold back good                               | گناهان شما جلوی خوبی را می گیرد                             |
 | Yours is power, glory added                            | قدرت مال توست، جلال اضافه شده است                           |

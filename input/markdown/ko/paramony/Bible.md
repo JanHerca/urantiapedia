@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | “나사로가 일어날 것이다.”                               |
 | “Meat” to do will of Father, “work”                    | 아버지의 뜻을 이루는 '고기', '일'                       |
 | “Temptation” of Jesus                                  | 예수님의 “유혹”                                         |
+| # 1 God is faithful                                    | # 1 하나님은 신실하시다                                 |
+| # 1 Perfect in knowledge                               | # 1 지식이 완벽하다                                     |
 | # 1 Pilot light                                        | # 1 파일럿 라이트                                       |
 | # 1 Pilot light                                        | # 1 파일럿 라이트                                       |
 | # 1 Servant of the Lord                                | # 1 주님의 종                                           |
+| # 1 Takes a city                                       | # 1 도시를 차지합니다.                                  |
+| # 2 Eyes of Lord every place                           | # 2 주님의 눈 모든 곳                                   |
+| # 2 God's laws are just                                | # 2 하나님의 법은 공의롭다                              |
 | # 2 Light of life                                      | # 2 생명의 빛                                           |
 | # 2 The Son of Man                                     | # 2 사람의 아들                                         |
 | 10 Taboos                                              | 10 금기                                                 |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | 큰 진노의 신, 맹렬한 분노                               |
 | A new heaven & new earth                               | 새 하늘과 새 땅                                         |
 | About John the Baptist                                 | 세례 요한에 대하여                                      |
-| Also known as Thaddeus & Lebbeus                       | Thaddeus & Lebbeus라고도 함                             |
 | All nations to be blessed                              | 모든 민족이 축복받을                                    |
 | Alpheus twins: James & Judas                           | 알페우스 쌍둥이: 야고보와 유다                          |
+| Also known as Thaddeus & Lebbeus                       | Thaddeus & Lebbeus라고도 함                             |
 | Amenemope wrote first Psalm                            | 아메네모페는 첫 번째 시편을 썼습니다.                   |
 | Amos' threat & warning                                 | 아모스의 위협과 경고                                    |
 | Angels going up & down                                 | 오르락내리락하는 천사들                                 |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | 하늘에서 내려오다                                       |
 | Commingle good & evil, die                             | 선과 악이 뒤섞여 죽어라                                 |
 | Commit to Him keeping of souls                         | 영혼을 지키시는 그분께 헌신하라                         |
-| Competing “gods” Baal, Ashtaroth                       | 경쟁하는 “신들” 바알, 아스다롯                          |
 | Competing “gods” Ashtaroth                             | 경쟁하는 "신들" Ashtaroth                               |
 | Competing “gods” Baal                                  | 경쟁하는 "신들" 바알                                    |
+| Competing “gods” Baal, Ashtaroth                       | 경쟁하는 “신들” 바알, 아스다롯                          |
 | Competing “gods” Molech                                | 경쟁하는 "신" 몰렉                                      |
 | Contrite mind & humble spirit                          | 통회하는 마음과 겸손한 마음                             |
 | Correcting views of God                                | 하나님에 대한 올바른 견해                               |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | 끝, 시편 23d                                            |
 | Ended by singing hymn                                  | 찬송가를 부르며 마무리                                  |
 | Eternal / everlasting life                             | 영원한/영원한 생명                                      |
-| Whoever humbles himself will be exalted                | 자기를 낮추는 자는 높아지리라                           |
 | Eye, light of body                                     | 눈, 몸의 빛                                             |
 | Eyes:are the windows of soul                           | 눈은 영혼의 창                                          |
 | Ezekiel: service / devotion                            | 에스겔: 봉사/헌신                                       |
@@ -191,8 +195,8 @@
 | God withholds no good thing                            | 신은 좋은 것을 아끼지 않는다                            |
 | God: maker, preserver                                  | 신: 창조자, 보존자                                      |
 | God's divine character deep, wise                      | 깊고 지혜로운 하나님의 성품                             |
-| God's spirit in you (T/A)                              | 당신 안에 있는 하나님의 영 (T/A)                        |
 | God's Spirit in you (T/A)                              | 당신 안에 계신 하나님의 영 (T/A)                        |
+| God's spirit in you (T/A)                              | 당신 안에 있는 하나님의 영 (T/A)                        |
 | God/Son no respecter of persons                        | 신/아들 사람을 차별하지 않음                            |
 | Good man satisfied w/in self                           | 좋은 사람은 자기 자신에 만족한다                        |
 | Good to give thanks                                    | 감사합니다                                              |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | 예수를 영접하라: 하나님의 아들들                        |
 | Recorded as: “God calling..”                           | 녹음: "하나님이 부르신.."                               |
 | Religion of LOVE                                       | 사랑의 종교                                             |
+| Render unto Caesar & God                               | 카이사르와 신에게 바치다                                |
 | Render unto Caesar what is Caesar's, God what is God's | 가이사의 것은 가이사에게, 하나님의 것은 하나님께 바치라 |
 | Repent for forgiveness (Old Testament)                 | 용서를 위한 회개(구약)                                  |
 | Repent, God forgives                                   | 회개하라, 하나님은 용서하신다                           |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | 메시아를 다윗의 자손으로 보았음                         |
 | Saw Messiah as Son of Man                              | 메시아를 인자로 보았음                                  |
 | Scripture not infallible (Contra)                      | 성경은 무오하지 않다(대조)                              |
-| Scripture read: Wherewith shall I come before the Lord | 성구: 내가 무엇을 가지고 여호와 앞에 나아가리이까       |
-| Scripture read: To whom then will ye liken God?        | 성구: 그러면 너희가 하나님을 누구에게 비하리요?         |
+| Scripture read                                         | 성경 읽기                                               |
 | Scripture read: Seek good, and not evil                | 성경말씀: 선을 구하고 악을 구하지 말라                  |
 | Scripture read: The Spirit of the Lord is upon me      | 성경말씀: 주의 영이 내게 임하셨도다                     |
+| Scripture read: To whom then will ye liken God?        | 성구: 그러면 너희가 하나님을 누구에게 비하리요?         |
 | Scripture read: Wash you, make you clean               | 성구: 너를 씻기라, 깨끗하게 하라                        |
+| Scripture read: Wherewith shall I come before the Lord | 성구: 내가 무엇을 가지고 여호와 앞에 나아가리이까       |
 | Scripture read: Ye are my witnesses, saith the Lord    | 성구: 너희는 나의 증인이라 주가 말하노라                |
 | Search and find me                                     | 나를 찾아줘                                             |
 | Second bigand's defense                                | 두 번째 빅간드의 방어                                   |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | 마음을 다해 하나님을 신뢰하라                           |
 | Turn away from words: act                              | 말을 멀리하다: 행동하다                                 |
 | Two views, flesh vs. spirit                            | 두 가지 견해, 육과 영                                   |
-| You are the temple of God; God dwells in you           | 당신은 하나님의 성전입니다. 하나님은 당신 안에 거하신다 |
 | Underneath, everlasting arms                           | 밑에 영원한 팔                                          |
 | Utter destruction                                      | 완전한 파괴                                             |
 | Vertebrates: fish                                      | 척추동물: 물고기                                        |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | 누구에게 주어진다; 하지 않았다, 취하지 않았다           |
 | Who has seen me, seen Father                           | 누가 나를 보았느냐 아버지를 보았느냐                    |
 | Who would be greatest: serve                           | 누가 가장 위대한가: 서브                                |
+| Whoever humbles himself will be exalted                | 자기를 낮추는 자는 높아지리라                           |
 | Why do the heathen rage                                | 이교도들이 분노하는 이유                                |
 | Why Jesus wept                                         | 예수님이 우신 이유                                      |
 | Why Jews wished to kill Jesus                          | 유대인들이 예수를 죽이려 한 이유                        |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | 분노는 잔인하고 터무니없다                              |
 | Writing in sand                                        | 모래에 쓰기                                             |
 | Yaweh v. Baal                                          | 야웨 대 바알                                            |
+| You are the temple of God; God dwells in you           | 당신은 하나님의 성전입니다. 하나님은 당신 안에 거하신다 |
 | Your ears hear: this is way                            | 귀로 들린다: 이것이 길이다                              |
 | Your sins hold back good                               | 너의 죄가 선을 가로막는다                               |
 | Yours is power, glory added                            | 당신의 힘, 영광이 추가되었습니다                        |

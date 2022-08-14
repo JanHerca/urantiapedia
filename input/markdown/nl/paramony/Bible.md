@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | "Lazarus zal opstaan."                                |
 | “Meat” to do will of Father, “work”                    | “Vlees” om de wil van Vader te doen, “werk”           |
 | “Temptation” of Jesus                                  | “Verleiding” van Jezus                                |
+| # 1 God is faithful                                    | #1 God is trouw                                       |
+| # 1 Perfect in knowledge                               | #1 Perfect in kennis                                  |
 | # 1 Pilot light                                        | #1 Controlelampje                                     |
 | # 1 Pilot light                                        | #1 Controlelampje                                     |
 | # 1 Servant of the Lord                                | #1 Dienaar van de Heer                                |
+| # 1 Takes a city                                       | #1 Neemt een stad in beslag                           |
+| # 2 Eyes of Lord every place                           | #2 Ogen van Heer elke plaats                          |
+| # 2 God's laws are just                                | #2 Gods wetten zijn rechtvaardig                      |
 | # 2 Light of life                                      | #2 Levenslicht                                        |
 | # 2 The Son of Man                                     | #2 De Mensenzoon                                      |
 | 10 Taboos                                              | 10 taboes                                             |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | Een god van grote toorn, felle woede                  |
 | A new heaven & new earth                               | Een nieuwe hemel & nieuwe aarde                       |
 | About John the Baptist                                 | Over Johannes de Doper                                |
-| Also known as Thaddeus & Lebbeus                       | Ook bekend als Thaddeus & Lebbeus                     |
 | All nations to be blessed                              | Alle naties om gezegend te worden                     |
 | Alpheus twins: James & Judas                           | Alpheus-tweeling: James & Judas                       |
+| Also known as Thaddeus & Lebbeus                       | Ook bekend als Thaddeus & Lebbeus                     |
 | Amenemope wrote first Psalm                            | Amenemope schreef de eerste Psalm                     |
 | Amos' threat & warning                                 | Amos' dreigement en waarschuwing                      |
 | Angels going up & down                                 | Engelen gaan op en neer                               |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | Komt uit de hemel                                     |
 | Commingle good & evil, die                             | Vermeng goed en kwaad, sterf                          |
 | Commit to Him keeping of souls                         | Vertrouw Hem toe om zielen te bewaren                 |
-| Competing “gods” Baal, Ashtaroth                       | Concurrerende "goden" Baal, Ashtaroth                 |
 | Competing “gods” Ashtaroth                             | Concurrerende "goden" Ashtaroth                       |
 | Competing “gods” Baal                                  | Concurrerende „goden” Baäl                            |
+| Competing “gods” Baal, Ashtaroth                       | Concurrerende "goden" Baal, Ashtaroth                 |
 | Competing “gods” Molech                                | Concurrerende „goden” Molech                          |
 | Contrite mind & humble spirit                          | Berouwvolle geest & nederige geest                    |
 | Correcting views of God                                | Zicht op God corrigeren                               |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | Einde, 23e Psalm                                      |
 | Ended by singing hymn                                  | Afgesloten met het zingen van hymne                   |
 | Eternal / everlasting life                             | Eeuwig / eeuwig leven                                 |
-| Whoever humbles himself will be exalted                | Wie zichzelf vernedert, zal verheven worden           |
 | Eye, light of body                                     | Oog, licht van lichaam                                |
 | Eyes:are the windows of soul                           | Ogen: zijn de vensters van de ziel                    |
 | Ezekiel: service / devotion                            | Ezechiël: dienst/toewijding                           |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | Ontvang Jezus: zonen van God                          |
 | Recorded as: “God calling..”                           | Opgenomen als: "God roept.."                          |
 | Religion of LOVE                                       | Religie van de LIEFDE                                 |
+| Render unto Caesar & God                               | Geef terug aan Caesar en God                          |
 | Render unto Caesar what is Caesar's, God what is God's | Geef Caesar wat van Caesar is, God wat van God is     |
 | Repent for forgiveness (Old Testament)                 | Bekeer u voor vergeving (Oude Testament)              |
 | Repent, God forgives                                   | Bekeer u, God vergeeft                                |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | Zag de Messias als zoon van David                     |
 | Saw Messiah as Son of Man                              | Zag de Messias als Mensenzoon                         |
 | Scripture not infallible (Contra)                      | Schrift niet onfeilbaar (Contra)                      |
-| Scripture read: Wherewith shall I come before the Lord | Schrift lezen: Waarmee zal ik voor de Heer komen?     |
-| Scripture read: To whom then will ye liken God?        | De Schrift luidt: Met wie wilt u God dan vergelijken? |
+| Scripture read                                         | Schrift lezen                                         |
 | Scripture read: Seek good, and not evil                | Schrifttekst: Zoek het goede, en niet het kwade       |
 | Scripture read: The Spirit of the Lord is upon me      | Schrift lezen: De Geest van de Heer is op mij         |
+| Scripture read: To whom then will ye liken God?        | De Schrift luidt: Met wie wilt u God dan vergelijken? |
 | Scripture read: Wash you, make you clean               | Schrift lezen: Was je, maak je schoon                 |
+| Scripture read: Wherewith shall I come before the Lord | Schrift lezen: Waarmee zal ik voor de Heer komen?     |
 | Scripture read: Ye are my witnesses, saith the Lord    | Schrift lezen: Gij zijt mijn getuigen, zegt de Heer   |
 | Search and find me                                     | Zoek en vind mij                                      |
 | Second bigand's defense                                | De verdediging van de tweede bigand                   |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | Vertrouw God met heel je hart                         |
 | Turn away from words: act                              | Keer je af van woorden: act                           |
 | Two views, flesh vs. spirit                            | Twee weergaven, vlees versus geest                    |
-| You are the temple of God; God dwells in you           | U bent de tempel van God; God woont in jou            |
 | Underneath, everlasting arms                           | Onder, eeuwige armen                                  |
 | Utter destruction                                      | totale vernietiging                                   |
 | Vertebrates: fish                                      | Gewervelde dieren: vis                                |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | Wie heeft is gegeven; heeft niet, genomen             |
 | Who has seen me, seen Father                           | Wie heeft mij gezien, heeft vader gezien?             |
 | Who would be greatest: serve                           | Wie zou de beste zijn: dienen                         |
+| Whoever humbles himself will be exalted                | Wie zichzelf vernedert, zal verheven worden           |
 | Why do the heathen rage                                | Waarom woeden de heidenen?                            |
 | Why Jesus wept                                         | Waarom Jezus huilde                                   |
 | Why Jews wished to kill Jesus                          | Waarom Joden Jezus wilden doden?                      |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | Toorn is wreed, schandalig                            |
 | Writing in sand                                        | Schrijven in zand                                     |
 | Yaweh v. Baal                                          | Yaweh v. Baäl                                         |
+| You are the temple of God; God dwells in you           | U bent de tempel van God; God woont in jou            |
 | Your ears hear: this is way                            | Je oren horen: dit is de weg                          |
 | Your sins hold back good                               | Je zonden houden goed tegen                           |
 | Yours is power, glory added                            | De jouwe is macht, glorie toegevoegd                  |

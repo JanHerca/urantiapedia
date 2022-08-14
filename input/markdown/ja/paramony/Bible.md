@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | 「ラザロは立ち上がる」                                   |
 | “Meat” to do will of Father, “work”                    | 父の意志を行う「肉」、「仕事」                           |
 | “Temptation” of Jesus                                  | イエスの「誘惑」                                         |
+| # 1 God is faithful                                    | #1 神は忠実です                                          |
+| # 1 Perfect in knowledge                               | #1 完璧な知識                                            |
 | # 1 Pilot light                                        | #1 パイロットランプ                                      |
 | # 1 Pilot light                                        | #1 パイロットランプ                                      |
 | # 1 Servant of the Lord                                | #1 主のしもべ                                            |
+| # 1 Takes a city                                       | #1 都市を取る                                            |
+| # 2 Eyes of Lord every place                           | #2 至る所にアイズ オブ ロード                            |
+| # 2 God's laws are just                                | #2 神の法則はただ                                        |
 | # 2 Light of life                                      | #2 生命の光                                              |
 | # 2 The Son of Man                                     | #2 人の子                                                |
 | 10 Taboos                                              | 10 禁忌                                                  |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | 大憤怒、激怒の神                                         |
 | A new heaven & new earth                               | 新しい天と新しい地                                       |
 | About John the Baptist                                 | 洗礼者ヨハネについて                                     |
-| Also known as Thaddeus & Lebbeus                       | サデウスとレベウスとも呼ばれる                           |
 | All nations to be blessed                              | 祝福されるすべての国                                     |
 | Alpheus twins: James & Judas                           | アルフェウスの双子：ジェームズとユダ                     |
+| Also known as Thaddeus & Lebbeus                       | サデウスとレベウスとも呼ばれる                           |
 | Amenemope wrote first Psalm                            | アメネモペが最初の詩篇を書いた                           |
 | Amos' threat & warning                                 | アモスの脅威と警告                                       |
 | Angels going up & down                                 | 上り下りする天使たち                                     |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | 天から降りてくる                                         |
 | Commingle good & evil, die                             | 善悪混じり合って死ぬ                                     |
 | Commit to Him keeping of souls                         | 魂を守ることを神に委ねる                                 |
-| Competing “gods” Baal, Ashtaroth                       | 競合する「神々」バアル、アシュタロト                     |
 | Competing “gods” Ashtaroth                             | 競合する「神々」アシュタロト                             |
 | Competing “gods” Baal                                  | 競合する「神々」バアル                                   |
+| Competing “gods” Baal, Ashtaroth                       | 競合する「神々」バアル、アシュタロト                     |
 | Competing “gods” Molech                                | 競合する「神々」モレク                                   |
 | Contrite mind & humble spirit                          | 悔恨の心と謙虚な精神                                     |
 | Correcting views of God                                | 神の見方を正す                                           |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | 終わり、詩篇第 23 篇                                     |
 | Ended by singing hymn                                  | 賛美歌を歌って終了                                       |
 | Eternal / everlasting life                             | 永遠/永遠の命                                            |
-| Whoever humbles himself will be exalted                | 自分を低くする人は誰でも高められる                       |
 | Eye, light of body                                     | 目、体の光                                               |
 | Eyes:are the windows of soul                           | 目：魂の窓                                               |
 | Ezekiel: service / devotion                            | エゼキエル：奉仕/献身                                    |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | イエスを受け入れる：神の息子たち                         |
 | Recorded as: “God calling..”                           | 記録: 「神が呼んでいる..」                               |
 | Religion of LOVE                                       | 愛の宗教                                                 |
+| Render unto Caesar & God                               | シーザーと神に引き渡す                                   |
 | Render unto Caesar what is Caesar's, God what is God's | シーザーのものはシーザーに、神のものは神に返しなさい     |
 | Repent for forgiveness (Old Testament)                 | 赦しを悔い改める（旧約聖書）                             |
 | Repent, God forgives                                   | 悔い改めよ、神は許す                                     |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | ダビデの息子としてメシアを見た                           |
 | Saw Messiah as Son of Man                              | メシアを人の子として見た                                 |
 | Scripture not infallible (Contra)                      | 聖書は無謬ではない (コントラ)                            |
-| Scripture read: Wherewith shall I come before the Lord | 聖書の朗読: どうして私は主の前に来ることができますか     |
-| Scripture read: To whom then will ye liken God?        | 聖書の朗読：では、あなたがたは神を誰に例えますか？       |
+| Scripture read                                         | 聖書の朗読                                               |
 | Scripture read: Seek good, and not evil                | 聖書の朗読：悪ではなく、善を求めなさい                   |
 | Scripture read: The Spirit of the Lord is upon me      | 聖書の朗読：主の御霊がわたしの上にある                   |
+| Scripture read: To whom then will ye liken God?        | 聖書の朗読：では、あなたがたは神を誰に例えますか？       |
 | Scripture read: Wash you, make you clean               | 聖書の朗読：あなたを洗って、あなたをきれいにしてください |
+| Scripture read: Wherewith shall I come before the Lord | 聖書の朗読: どうして私は主の前に来ることができますか     |
 | Scripture read: Ye are my witnesses, saith the Lord    | 聖書の朗読：あなたがたは私の証人であると主は言われる     |
 | Search and find me                                     | 検索して私を見つけてください                             |
 | Second bigand's defense                                | 番目の bigand の防御                                     |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | 心を尽くして神を信頼する                                 |
 | Turn away from words: act                              | 言葉に背を向ける：行動する                               |
 | Two views, flesh vs. spirit                            | つのビュー、肉体と精神                                   |
-| You are the temple of God; God dwells in you           | あなたは神の神殿です。神はあなたの中に宿る               |
 | Underneath, everlasting arms                           | 永遠の腕の下で                                           |
 | Utter destruction                                      | 完全な破壊                                               |
 | Vertebrates: fish                                      | 脊椎動物: 魚                                             |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | 誰が与えられています。取っていない                       |
 | Who has seen me, seen Father                           | 誰が私を見た、父を見た                                   |
 | Who would be greatest: serve                           | 誰が最も偉大か: サーブ                                   |
+| Whoever humbles himself will be exalted                | 自分を低くする人は誰でも高められる                       |
 | Why do the heathen rage                                | なぜ異教徒は激怒するのか                                 |
 | Why Jesus wept                                         | イエスが泣いた理由                                       |
 | Why Jews wished to kill Jesus                          | ユダヤ人がイエスを殺そうとした理由                       |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | 怒りは残酷で、とんでもない                               |
 | Writing in sand                                        | 砂に書く                                                 |
 | Yaweh v. Baal                                          | ヤウェ対バアル                                           |
+| You are the temple of God; God dwells in you           | あなたは神の神殿です。神はあなたの中に宿る               |
 | Your ears hear: this is way                            | あなたの耳に聞こえます：これが道です                     |
 | Your sins hold back good                               | あなたの罪は善を妨げます                                 |
 | Yours is power, glory added                            | Yours is power 栄光が加わりました                        |

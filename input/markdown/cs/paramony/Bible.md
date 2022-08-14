@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | "Lazar vstane."                                      |
 | “Meat” to do will of Father, “work”                    | „Maso“ k plnění vůle Otce, „práce“                   |
 | “Temptation” of Jesus                                  | Ježíšovo „pokušení“.                                 |
+| # 1 God is faithful                                    | # 1 Bůh je věrný                                     |
+| # 1 Perfect in knowledge                               | # 1 Perfektní ve znalostech                          |
 | # 1 Pilot light                                        | # 1 Kontrolní světlo                                 |
 | # 1 Pilot light                                        | # 1 Kontrolní světlo                                 |
 | # 1 Servant of the Lord                                | # 1 Služebník Páně                                   |
+| # 1 Takes a city                                       | # 1 Zabírá město                                     |
+| # 2 Eyes of Lord every place                           | # 2 Oči Páně na každém místě                         |
+| # 2 God's laws are just                                | # 2 Boží zákony jsou spravedlivé                     |
 | # 2 Light of life                                      | # 2 Světlo života                                    |
 | # 2 The Son of Man                                     | # 2 Syn člověka                                      |
 | 10 Taboos                                              | 10 tabu                                              |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | Bůh velkého hněvu, divokého hněvu                    |
 | A new heaven & new earth                               | Nové nebe a nová země                                |
 | About John the Baptist                                 | O Janu Křtiteli                                      |
-| Also known as Thaddeus & Lebbeus                       | Také známý jako Thaddeus & Lebbeus                   |
 | All nations to be blessed                              | Všechny národy k požehnání                           |
 | Alpheus twins: James & Judas                           | Alpheus dvojčata: James & Judas                      |
+| Also known as Thaddeus & Lebbeus                       | Také známý jako Thaddeus & Lebbeus                   |
 | Amenemope wrote first Psalm                            | Amenemope napsal první žalm                          |
 | Amos' threat & warning                                 | Amosova hrozba a varování                            |
 | Angels going up & down                                 | Andělé jdou nahoru a dolů                            |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | Sestup z nebe                                        |
 | Commingle good & evil, die                             | Smíchejte dobro a zlo, zemřete                       |
 | Commit to Him keeping of souls                         | Svěřte mu zachování duší                             |
-| Competing “gods” Baal, Ashtaroth                       | Konkurenční „bohové“ Baal, Ashtaroth                 |
 | Competing “gods” Ashtaroth                             | Soutěžící „bohové“ Ashtaroth                         |
 | Competing “gods” Baal                                  | Soutěžící „bohové“ Baal                              |
+| Competing “gods” Baal, Ashtaroth                       | Konkurenční „bohové“ Baal, Ashtaroth                 |
 | Competing “gods” Molech                                | Soutěžící „bohové“ Molech                            |
 | Contrite mind & humble spirit                          | Zkroušená mysl a pokorný duch                        |
 | Correcting views of God                                | Opravování pohledů na Boha                           |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | Konec, 23d žalm                                      |
 | Ended by singing hymn                                  | Zakončeno zpěvem hymny                               |
 | Eternal / everlasting life                             | Věčný / věčný život                                  |
-| Whoever humbles himself will be exalted                | Kdo se poníží, bude povýšen                          |
 | Eye, light of body                                     | Oko, světlo těla                                     |
 | Eyes:are the windows of soul                           | Oči: jsou okna duše                                  |
 | Ezekiel: service / devotion                            | Ezechiel: služba / oddanost                          |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | Přijměte Ježíše: Synové Boží                         |
 | Recorded as: “God calling..”                           | Zaznamenáno jako: „Bůh volá...“                      |
 | Religion of LOVE                                       | Náboženství LÁSKY                                    |
+| Render unto Caesar & God                               | Vydejte se Caesarovi a Bohu                          |
 | Render unto Caesar what is Caesar's, God what is God's | Dávejte Caesarovi, co je Caesarovo, Bohu, co je Boží |
 | Repent for forgiveness (Old Testament)                 | Čiňte pokání za odpuštění (Starý zákon)              |
 | Repent, God forgives                                   | Čiňte pokání, Bůh odpouští                           |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | Viděl Mesiáše jako syna Davidova                     |
 | Saw Messiah as Son of Man                              | Viděl Mesiáše jako Syna člověka                      |
 | Scripture not infallible (Contra)                      | Písmo není neomylné (Contra)                         |
-| Scripture read: Wherewith shall I come before the Lord | Písmo zní: Čím přijdu před Hospodina                 |
-| Scripture read: To whom then will ye liken God?        | Písmo zní: Ke komu tedy připodobníte Boha?           |
+| Scripture read                                         | Písmo čteno                                          |
 | Scripture read: Seek good, and not evil                | Písmo čte: Hledejte dobro, a ne zlo                  |
 | Scripture read: The Spirit of the Lord is upon me      | Písmo čte: Duch Páně je nade mnou                    |
+| Scripture read: To whom then will ye liken God?        | Písmo zní: Ke komu tedy připodobníte Boha?           |
 | Scripture read: Wash you, make you clean               | Písmo čte: Umyj se, očisti tě                        |
+| Scripture read: Wherewith shall I come before the Lord | Písmo zní: Čím přijdu před Hospodina                 |
 | Scripture read: Ye are my witnesses, saith the Lord    | Písmo zní: Vy jste moji svědkové, praví Hospodin     |
 | Search and find me                                     | Hledej a najdi mě                                    |
 | Second bigand's defense                                | Obrana druhého biganda                               |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | Důvěřuj Bohu celým svým srdcem                       |
 | Turn away from words: act                              | Odvrať se od slov: jednat                            |
 | Two views, flesh vs. spirit                            | Dva pohledy, tělo vs                                 |
-| You are the temple of God; God dwells in you           | Vy jste chrám Boží; Bůh přebývá ve vás               |
 | Underneath, everlasting arms                           | Pod věčnými pažemi                                   |
 | Utter destruction                                      | Naprostá destrukce                                   |
 | Vertebrates: fish                                      | Obratlovci: ryby                                     |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | Kdo má, je dáno; nemá, vzal                          |
 | Who has seen me, seen Father                           | Kdo viděl mě, viděl otce                             |
 | Who would be greatest: serve                           | Kdo by byl největší: sloužit                         |
+| Whoever humbles himself will be exalted                | Kdo se poníží, bude povýšen                          |
 | Why do the heathen rage                                | Proč se pohané hněvají                               |
 | Why Jesus wept                                         | Proč Ježíš plakal                                    |
 | Why Jews wished to kill Jesus                          | Proč Židé chtěli zabít Ježíše                        |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | Hněv je krutý, pobuřující                            |
 | Writing in sand                                        | Psaní do písku                                       |
 | Yaweh v. Baal                                          | Yaweh proti Baalovi                                  |
+| You are the temple of God; God dwells in you           | Vy jste chrám Boží; Bůh přebývá ve vás               |
 | Your ears hear: this is way                            | Vaše uši slyší: toto je cesta                        |
 | Your sins hold back good                               | Tvé hříchy dobře zadržují                            |
 | Yours is power, glory added                            | Tvoje je moc, sláva přidána                          |

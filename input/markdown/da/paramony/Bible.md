@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | "Lazarus vil opstå."                                      |
 | “Meat” to do will of Father, “work”                    | "Kød" at gøre Faders vilje, "arbejde"                     |
 | “Temptation” of Jesus                                  | Jesu "fristelse".                                         |
+| # 1 God is faithful                                    | # 1 Gud er trofast                                        |
+| # 1 Perfect in knowledge                               | # 1 Perfekt i viden                                       |
 | # 1 Pilot light                                        | # 1 Pilot lys                                             |
 | # 1 Pilot light                                        | # 1 Pilot lys                                             |
 | # 1 Servant of the Lord                                | # 1 Herrens tjener                                        |
+| # 1 Takes a city                                       | # 1 tager en by                                           |
+| # 2 Eyes of Lord every place                           | # 2 Herrens øjne hvert sted                               |
+| # 2 God's laws are just                                | # 2 Guds love er retfærdige                               |
 | # 2 Light of life                                      | # 2 Livets lys                                            |
 | # 2 The Son of Man                                     | #2 Menneskesønnen                                         |
 | 10 Taboos                                              | 10 tabuer                                                 |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | En gud med stor vrede, voldsom vrede                      |
 | A new heaven & new earth                               | En ny himmel og ny jord                                   |
 | About John the Baptist                                 | Om Johannes Døberen                                       |
-| Also known as Thaddeus & Lebbeus                       | Også kendt som Thaddeus & Lebbeus                         |
 | All nations to be blessed                              | Alle nationer skal velsignes                              |
 | Alpheus twins: James & Judas                           | Alpheus tvillinger: James & Judas                         |
+| Also known as Thaddeus & Lebbeus                       | Også kendt som Thaddeus & Lebbeus                         |
 | Amenemope wrote first Psalm                            | Amenemope skrev den første salme                          |
 | Amos' threat & warning                                 | Amos' trussel og advarsel                                 |
 | Angels going up & down                                 | Engle går op og ned                                       |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | Kommer ned fra himlen                                     |
 | Commingle good & evil, die                             | Bland godt og ondt, dø                                    |
 | Commit to Him keeping of souls                         | Forpligt ham til at bevare sjæle                          |
-| Competing “gods” Baal, Ashtaroth                       | Konkurrerende "guder" Baal, Ashtaroth                     |
 | Competing “gods” Ashtaroth                             | Konkurrerende "guder" Ashtaroth                           |
 | Competing “gods” Baal                                  | Konkurrerende "guder" Baal                                |
+| Competing “gods” Baal, Ashtaroth                       | Konkurrerende "guder" Baal, Ashtaroth                     |
 | Competing “gods” Molech                                | Konkurrerende "guder" Molech                              |
 | Contrite mind & humble spirit                          | Angerfuldt sind og ydmyg ånd                              |
 | Correcting views of God                                | Korrigerende syn på Gud                                   |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | Slutning, 23d Salme                                       |
 | Ended by singing hymn                                  | Afsluttes med at synge salme                              |
 | Eternal / everlasting life                             | Evigt / evigt liv                                         |
-| Whoever humbles himself will be exalted                | Den, der ydmyger sig selv, vil blive ophøjet              |
 | Eye, light of body                                     | Øje, lys af kroppen                                       |
 | Eyes:are the windows of soul                           | Øjne: er sjælens vinduer                                  |
 | Ezekiel: service / devotion                            | Ezekiel: tjeneste / andagt                                |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | Modtag Jesus: Guds sønner                                 |
 | Recorded as: “God calling..”                           | Optaget som: "Gud kalder..."                              |
 | Religion of LOVE                                       | Kærlighedens religion                                     |
+| Render unto Caesar & God                               | Overgiv til Cæsar og Gud                                  |
 | Render unto Caesar what is Caesar's, God what is God's | Giv kejseren, hvad der er kejserens, Gud hvad der er Guds |
 | Repent for forgiveness (Old Testament)                 | Omvend dig for tilgivelse (Gamle Testamente)              |
 | Repent, God forgives                                   | Omvend dig, Gud tilgiver                                  |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | Så Messias som søn af David                               |
 | Saw Messiah as Son of Man                              | Så Messias som Menneskesøn                                |
 | Scripture not infallible (Contra)                      | Skriften ikke ufejlbarlig (Contra)                        |
-| Scripture read: Wherewith shall I come before the Lord | Skriften lød: Hvormed skal jeg komme frem for Herren      |
-| Scripture read: To whom then will ye liken God?        | Skriften lød: Hvem vil I da ligne Gud med?                |
+| Scripture read                                         | Skriften læst                                             |
 | Scripture read: Seek good, and not evil                | Skriften lød: Søg det gode og ikke det onde               |
 | Scripture read: The Spirit of the Lord is upon me      | Skriften lød: Herrens Ånd er over mig                     |
+| Scripture read: To whom then will ye liken God?        | Skriften lød: Hvem vil I da ligne Gud med?                |
 | Scripture read: Wash you, make you clean               | Skriften lød: Vask dig, gør dig ren                       |
+| Scripture read: Wherewith shall I come before the Lord | Skriften lød: Hvormed skal jeg komme frem for Herren      |
 | Scripture read: Ye are my witnesses, saith the Lord    | Skriften læser: I er mine vidner, siger Herren            |
 | Search and find me                                     | Søg og find mig                                           |
 | Second bigand's defense                                | Anden bigands forsvar                                     |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | Stol på Gud af hele dit hjerte                            |
 | Turn away from words: act                              | Vend dig væk fra ord: handle                              |
 | Two views, flesh vs. spirit                            | To synspunkter, kød vs ånd                                |
-| You are the temple of God; God dwells in you           | Du er Guds tempel; Gud bor i dig                          |
 | Underneath, everlasting arms                           | Nedenunder evige arme                                     |
 | Utter destruction                                      | Fuldstændig ødelæggelse                                   |
 | Vertebrates: fish                                      | Hvirveldyr: fisk                                          |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | Hvem har er givet; har ikke, taget                        |
 | Who has seen me, seen Father                           | Hvem har set mig, set far                                 |
 | Who would be greatest: serve                           | Hvem ville være størst: tjene                             |
+| Whoever humbles himself will be exalted                | Den, der ydmyger sig selv, vil blive ophøjet              |
 | Why do the heathen rage                                | Hvorfor raser hedningene                                  |
 | Why Jesus wept                                         | Hvorfor Jesus græd                                        |
 | Why Jews wished to kill Jesus                          | Hvorfor jøder ønskede at dræbe Jesus                      |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | Vrede er grusom, skandaløs                                |
 | Writing in sand                                        | Skriver i sand                                            |
 | Yaweh v. Baal                                          | Yaweh mod Baal                                            |
+| You are the temple of God; God dwells in you           | Du er Guds tempel; Gud bor i dig                          |
 | Your ears hear: this is way                            | Dine ører hører: sådan er det                             |
 | Your sins hold back good                               | Dine synder holder godt tilbage                           |
 | Yours is power, glory added                            | Din er magt, herlighed tilføjet                           |

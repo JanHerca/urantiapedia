@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | "Laatsarus tõuseb üles."                                           |
 | “Meat” to do will of Father, “work”                    | "Liha" Isa tahte täitmiseks, "töö"                                 |
 | “Temptation” of Jesus                                  | Jeesuse "kiusatus".                                                |
+| # 1 God is faithful                                    | # 1 Jumal on ustav                                                 |
+| # 1 Perfect in knowledge                               | # 1 Täiuslik teadmistega                                           |
 | # 1 Pilot light                                        | # 1 Pilootlamp                                                     |
 | # 1 Pilot light                                        | # 1 Pilootlamp                                                     |
 | # 1 Servant of the Lord                                | # 1 Issanda sulane                                                 |
+| # 1 Takes a city                                       | # 1 võtab linna                                                    |
+| # 2 Eyes of Lord every place                           | # 2 Issanda silma igas kohas                                       |
+| # 2 God's laws are just                                | # 2 Jumala seadused on õiglased                                    |
 | # 2 Light of life                                      | # 2 Elu valgus                                                     |
 | # 2 The Son of Man                                     | # 2 Inimese poeg                                                   |
 | 10 Taboos                                              | 10 tabud                                                           |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | Suure viha, ägeda viha jumal                                       |
 | A new heaven & new earth                               | Uus taevas ja uus maa                                              |
 | About John the Baptist                                 | Ristija Johannese kohta                                            |
-| Also known as Thaddeus & Lebbeus                       | Tuntud ka kui Thaddeus & Lebbeus                                   |
 | All nations to be blessed                              | Kõik rahvad olgu õnnistatud                                        |
 | Alpheus twins: James & Judas                           | Alfeuse kaksikud: Jaakobus ja Juudas                               |
+| Also known as Thaddeus & Lebbeus                       | Tuntud ka kui Thaddeus & Lebbeus                                   |
 | Amenemope wrote first Psalm                            | Amenemope kirjutas esimese psalmi                                  |
 | Amos' threat & warning                                 | Amose ähvardus ja hoiatus                                          |
 | Angels going up & down                                 | Inglid lähevad üles ja alla                                        |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | Taevast alla tulles                                                |
 | Commingle good & evil, die                             | Sega hea ja kuri, sure                                             |
 | Commit to Him keeping of souls                         | Pühendage Temale hingede hoidmist                                  |
-| Competing “gods” Baal, Ashtaroth                       | Konkureerivad "jumalad" Baal, Ashtaroth                            |
 | Competing “gods” Ashtaroth                             | Konkureerivad "jumalad" Ashtaroth                                  |
 | Competing “gods” Baal                                  | Võistlevad "jumalad" Baal                                          |
+| Competing “gods” Baal, Ashtaroth                       | Konkureerivad "jumalad" Baal, Ashtaroth                            |
 | Competing “gods” Molech                                | Konkureerivad "jumalad" Molech                                     |
 | Contrite mind & humble spirit                          | Kahetsusväärne meel ja alandlik vaim                               |
 | Correcting views of God                                | Jumala vaadete parandamine                                         |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | Lõpp, 23. psalm                                                    |
 | Ended by singing hymn                                  | Lõpetatud hümni laulmisega                                         |
 | Eternal / everlasting life                             | Igavene / igavene elu                                              |
-| Whoever humbles himself will be exalted                | Kes ennast alandab, seda ülendatakse                               |
 | Eye, light of body                                     | Silm, keha valgus                                                  |
 | Eyes:are the windows of soul                           | Silmad: on hinge aknad                                             |
 | Ezekiel: service / devotion                            | Hesekiel: teenimine / pühendumus                                   |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | Võtke vastu Jeesus: Jumala pojad                                   |
 | Recorded as: “God calling..”                           | Salvestatud kui: "Jumal kutsub..."                                 |
 | Religion of LOVE                                       | ARMASTUSE religioon                                                |
+| Render unto Caesar & God                               | Andke keisrile ja Jumalale                                         |
 | Render unto Caesar what is Caesar's, God what is God's | Andke keisrile, mis kuulub keisrile, Jumalale, mis kuulub Jumalale |
 | Repent for forgiveness (Old Testament)                 | Parandage andestust (Vana Testament)                               |
 | Repent, God forgives                                   | Parandage meelt, Jumal andestab                                    |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | Nägi Messiat Taaveti pojana                                        |
 | Saw Messiah as Son of Man                              | Nägi Messiat Inimese Pojana                                        |
 | Scripture not infallible (Contra)                      | Pühakiri ei ole eksimatu (Contra)                                  |
-| Scripture read: Wherewith shall I come before the Lord | Pühakiri ütleb: Millega ma tulen Issanda ette                      |
-| Scripture read: To whom then will ye liken God?        | Pühakiri ütleb: Kellega te siis Jumalat võrdlete?                  |
+| Scripture read                                         | Pühakiri loetud                                                    |
 | Scripture read: Seek good, and not evil                | Pühakiri ütleb: Otsige head, mitte kurja                           |
 | Scripture read: The Spirit of the Lord is upon me      | Pühakiri loeb: Issanda Vaim on minu peal                           |
+| Scripture read: To whom then will ye liken God?        | Pühakiri ütleb: Kellega te siis Jumalat võrdlete?                  |
 | Scripture read: Wash you, make you clean               | Pühakiri: Pese sind, tee sind puhtaks                              |
+| Scripture read: Wherewith shall I come before the Lord | Pühakiri ütleb: Millega ma tulen Issanda ette                      |
 | Scripture read: Ye are my witnesses, saith the Lord    | Pühakiri: "Te olete minu tunnistajad, ütleb Issand                 |
 | Search and find me                                     | Otsi ja leia mind                                                  |
 | Second bigand's defense                                | Teise bigandi kaitse                                               |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | Usalda Jumalat kogu südamest                                       |
 | Turn away from words: act                              | Pöörake sõnadest eemale: tegutsege                                 |
 | Two views, flesh vs. spirit                            | Kaks vaadet, liha vs vaim                                          |
-| You are the temple of God; God dwells in you           | Sa oled Jumala tempel; Jumal elab sinus                            |
 | Underneath, everlasting arms                           | All, igavesed käed                                                 |
 | Utter destruction                                      | Täielik häving                                                     |
 | Vertebrates: fish                                      | Selgroogsed: kalad                                                 |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | Kellel on, on antud; ei ole, võtnud                                |
 | Who has seen me, seen Father                           | Kes on mind näinud, see on näinud Isa                              |
 | Who would be greatest: serve                           | Kes oleks suurem: teenida                                          |
+| Whoever humbles himself will be exalted                | Kes ennast alandab, seda ülendatakse                               |
 | Why do the heathen rage                                | Miks paganad raevutsevad                                           |
 | Why Jesus wept                                         | Miks Jeesus nuttis                                                 |
 | Why Jews wished to kill Jesus                          | Miks juudid tahtsid Jeesust tappa                                  |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | Viha on julm, ennekuulmatu                                         |
 | Writing in sand                                        | Liivasse kirjutamine                                               |
 | Yaweh v. Baal                                          | Yaweh v. Baal                                                      |
+| You are the temple of God; God dwells in you           | Sa oled Jumala tempel; Jumal elab sinus                            |
 | Your ears hear: this is way                            | Teie kõrvad kuulevad: see on viis                                  |
 | Your sins hold back good                               | Teie patud hoiavad tagasi head                                     |
 | Yours is power, glory added                            | Sinu päralt on võim, lisatud au                                    |

@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | – Lázár fel fog támadni.                                          |
 | “Meat” to do will of Father, “work”                    | „Hús” az Atya akaratának teljesítésére, „munka”                   |
 | “Temptation” of Jesus                                  | Jézus „megkísértése”.                                             |
+| # 1 God is faithful                                    | # 1 Isten hűséges                                                 |
+| # 1 Perfect in knowledge                               | # 1 Tökéletes tudás                                               |
 | # 1 Pilot light                                        | # 1 Pilot lámpa                                                   |
 | # 1 Pilot light                                        | # 1 Pilot lámpa                                                   |
 | # 1 Servant of the Lord                                | # 1 Az Úr szolgája                                                |
+| # 1 Takes a city                                       | # 1 Elvesz egy várost                                             |
+| # 2 Eyes of Lord every place                           | # 2 Az Úr szeme minden helyen                                     |
+| # 2 God's laws are just                                | # 2 Isten törvényei igazságosak                                   |
 | # 2 Light of life                                      | # 2 Az élet fénye                                                 |
 | # 2 The Son of Man                                     | # 2 Az ember fia                                                  |
 | 10 Taboos                                              | 10 tabu                                                           |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | A nagy harag, heves harag istene                                  |
 | A new heaven & new earth                               | Új ég és új föld                                                  |
 | About John the Baptist                                 | Keresztelő Jánosról                                               |
-| Also known as Thaddeus & Lebbeus                       | Thaddeus és Lebbeus néven is ismert                               |
 | All nations to be blessed                              | Minden nemzet áldott                                              |
 | Alpheus twins: James & Judas                           | Alfeusz ikrek: Jakab és Júdás                                     |
+| Also known as Thaddeus & Lebbeus                       | Thaddeus és Lebbeus néven is ismert                               |
 | Amenemope wrote first Psalm                            | Amenemope írta az első zsoltárt                                   |
 | Amos' threat & warning                                 | Amos fenyegetés és figyelmeztetés                                 |
 | Angels going up & down                                 | Angyalok fel és le                                                |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | Leszáll a mennyből                                                |
 | Commingle good & evil, die                             | Keverd össze a jót és a rosszat, halj meg                         |
 | Commit to Him keeping of souls                         | Vállald rá a lelkek megőrzését                                    |
-| Competing “gods” Baal, Ashtaroth                       | Versengő „istenek” Baal, Astarót                                  |
 | Competing “gods” Ashtaroth                             | Versengő „istenek” Ashtaroth                                      |
 | Competing “gods” Baal                                  | Versengő „istenek” Baal                                           |
+| Competing “gods” Baal, Ashtaroth                       | Versengő „istenek” Baal, Astarót                                  |
 | Competing “gods” Molech                                | Versengő „istenek” Molech                                         |
 | Contrite mind & humble spirit                          | Bánó elme és alázatos lélek                                       |
 | Correcting views of God                                | Isten nézeteinek helyesbítése                                     |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | Vége, 23. zsoltár                                                 |
 | Ended by singing hymn                                  | Himnusz eléneklésével fejeződött be                               |
 | Eternal / everlasting life                             | Örök / örök élet                                                  |
-| Whoever humbles himself will be exalted                | Aki megalázza magát, felmagasztaltatik                            |
 | Eye, light of body                                     | Szem, test fénye                                                  |
 | Eyes:are the windows of soul                           | Szemek: a lélek ablakai                                           |
 | Ezekiel: service / devotion                            | Ezékiel: szolgálat / odaadás                                      |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | Fogadjátok be Jézust: Isten fiait                                 |
 | Recorded as: “God calling..”                           | Rögzítve: "Isten hív..."                                          |
 | Religion of LOVE                                       | A SZERETET vallása                                                |
+| Render unto Caesar & God                               | Adjátok át a császárnak és Istennek                               |
 | Render unto Caesar what is Caesar's, God what is God's | Adjátok meg a császárnak, ami a császáré, Istennek, ami az Istené |
 | Repent for forgiveness (Old Testament)                 | Bűnbánat a megbocsátásért (Ószövetség)                            |
 | Repent, God forgives                                   | Térj meg, Isten megbocsát                                         |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | Látta a Messiást Dávid fiaként                                    |
 | Saw Messiah as Son of Man                              | Látta a Messiást az Ember Fiának                                  |
 | Scripture not infallible (Contra)                      | A Szentírás nem tévedhetetlen (Contra)                            |
-| Scripture read: Wherewith shall I come before the Lord | A Szentírás így szól: Mivel mehetek az Úr elé?                    |
-| Scripture read: To whom then will ye liken God?        | A Szentírás így szól: Kihez hasonlítjátok hát Istent?             |
+| Scripture read                                         | Olvasott Szentírás                                                |
 | Scripture read: Seek good, and not evil                | A Szentírás így szól: Jót keress, és ne rosszat                   |
 | Scripture read: The Spirit of the Lord is upon me      | A Szentírás így szól: Az Úr Lelke van rajtam                      |
+| Scripture read: To whom then will ye liken God?        | A Szentírás így szól: Kihez hasonlítjátok hát Istent?             |
 | Scripture read: Wash you, make you clean               | A Szentírás így szól: Moss meg, tisztíts meg                      |
+| Scripture read: Wherewith shall I come before the Lord | A Szentírás így szól: Mivel mehetek az Úr elé?                    |
 | Scripture read: Ye are my witnesses, saith the Lord    | A Szentírás így szól: Ti vagytok az én tanúim, azt mondja az Úr   |
 | Search and find me                                     | Keress és találj meg                                              |
 | Second bigand's defense                                | Második bigand védelme                                            |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | Bízz Istenben teljes szívedből                                    |
 | Turn away from words: act                              | Fordulj el a szavaktól: cselekedj                                 |
 | Two views, flesh vs. spirit                            | Két nézet, test kontra szellem                                    |
-| You are the temple of God; God dwells in you           | Te vagy Isten temploma; Isten benned lakozik                      |
 | Underneath, everlasting arms                           | Alatta, örök karok                                                |
 | Utter destruction                                      | Teljes pusztítás                                                  |
 | Vertebrates: fish                                      | Gerincesek: halak                                                 |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | Akinek van, az adatott; nem, vette                                |
 | Who has seen me, seen Father                           | Aki látott engem, látta Atyát                                     |
 | Who would be greatest: serve                           | Ki lenne a legnagyobb: szolgáljon                                 |
+| Whoever humbles himself will be exalted                | Aki megalázza magát, felmagasztaltatik                            |
 | Why do the heathen rage                                | Miért dühöngnek a pogányok?                                       |
 | Why Jesus wept                                         | Miért sírt Jézus                                                  |
 | Why Jews wished to kill Jesus                          | Miért akarták a zsidók megölni Jézust?                            |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | A harag kegyetlen, felháborító                                    |
 | Writing in sand                                        | Homokban írás                                                     |
 | Yaweh v. Baal                                          | Yaweh kontra Baal                                                 |
+| You are the temple of God; God dwells in you           | Te vagy Isten temploma; Isten benned lakozik                      |
 | Your ears hear: this is way                            | A füled hallja: ez az út                                          |
 | Your sins hold back good                               | A te bűneid visszatartják a jót                                   |
 | Yours is power, glory added                            | Tiéd a hatalom, hozzá a dicsőség                                  |

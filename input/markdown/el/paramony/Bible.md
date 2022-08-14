@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | «Ο Λάζαρος θα αναστηθεί».                                                   |
 | “Meat” to do will of Father, “work”                    | «Κρέας» για να κάνουμε το θέλημα του Πατέρα, «έργο»                         |
 | “Temptation” of Jesus                                  | «Πειρασμός» του Ιησού                                                       |
+| # 1 God is faithful                                    | # 1 Ο Θεός είναι πιστός                                                     |
+| # 1 Perfect in knowledge                               | # 1 Τέλεια στη γνώση                                                        |
 | # 1 Pilot light                                        | # 1 Φως πιλότου                                                             |
 | # 1 Pilot light                                        | # 1 Φως πιλότου                                                             |
 | # 1 Servant of the Lord                                | # 1 Υπηρέτης του Κυρίου                                                     |
+| # 1 Takes a city                                       | # 1 Παίρνει μια πόλη                                                        |
+| # 2 Eyes of Lord every place                           | # 2 Eyes of Lord κάθε μέρος                                                 |
+| # 2 God's laws are just                                | # 2 Οι νόμοι του Θεού είναι δίκαιοι                                         |
 | # 2 Light of life                                      | # 2 Φως της ζωής                                                            |
 | # 2 The Son of Man                                     | # 2 Ο Υιός του Ανθρώπου                                                     |
 | 10 Taboos                                              | 10 Ταμπού                                                                   |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | Ένας θεός μεγάλης οργής, άγριου θυμού                                       |
 | A new heaven & new earth                               | Ένας νέος ουρανός και μια νέα γη                                            |
 | About John the Baptist                                 | Σχετικά με τον Ιωάννη τον Βαπτιστή                                          |
-| Also known as Thaddeus & Lebbeus                       | Γνωστό και ως Thaddeus & Lebbeus                                            |
 | All nations to be blessed                              | Όλα τα έθνη να είναι ευλογημένα                                             |
 | Alpheus twins: James & Judas                           | Δίδυμοι Αλφειού: Ιάκωβος & Ιούδας                                           |
+| Also known as Thaddeus & Lebbeus                       | Γνωστό και ως Thaddeus & Lebbeus                                            |
 | Amenemope wrote first Psalm                            | Η Αμενέμοπη έγραψε τον πρώτο Ψαλμό                                          |
 | Amos' threat & warning                                 | Απειλή και προειδοποίηση του Amos                                           |
 | Angels going up & down                                 | Άγγελοι που ανεβοκατεβαίνουν                                                |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | Κατεβαίνοντας από τον ουρανό                                                |
 | Commingle good & evil, die                             | Συνδυάστε το καλό και το κακό, πεθάνετε                                     |
 | Commit to Him keeping of souls                         | Δεσμευτείτε σε Αυτόν να κρατά τις ψυχές                                     |
-| Competing “gods” Baal, Ashtaroth                       | Συναγωνιστικοί «θεοί» Βάαλ, Ασταρόθ                                         |
 | Competing “gods” Ashtaroth                             | Συναγωνιστικοί «θεοί» Ashtaroth                                             |
 | Competing “gods” Baal                                  | Συναγωνιστικοί «θεοί» Βάαλ                                                  |
+| Competing “gods” Baal, Ashtaroth                       | Συναγωνιστικοί «θεοί» Βάαλ, Ασταρόθ                                         |
 | Competing “gods” Molech                                | Συναγωνιζόμενοι «θεοί» Μολέχ                                                |
 | Contrite mind & humble spirit                          | Συντετριμμένο μυαλό και ταπεινό πνεύμα                                      |
 | Correcting views of God                                | Διορθώνοντας τις απόψεις του Θεού                                           |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | Τέλος, 23η Ψαλμός                                                           |
 | Ended by singing hymn                                  | Τελείωσε τραγουδώντας τον ύμνο                                              |
 | Eternal / everlasting life                             | Αιώνια / αιώνια ζωή                                                         |
-| Whoever humbles himself will be exalted                | Όποιος ταπεινώσει τον εαυτό του θα υψωθεί                                   |
 | Eye, light of body                                     | Μάτι, φως σώματος                                                           |
 | Eyes:are the windows of soul                           | Μάτια: είναι τα παράθυρα της ψυχής                                          |
 | Ezekiel: service / devotion                            | Ιεζεκιήλ: υπηρεσία / αφοσίωση                                               |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | Λάβετε τον Ιησού: γιοι του Θεού                                             |
 | Recorded as: “God calling..”                           | Ηχογραφήθηκε ως: "Ο Θεός καλεί..."                                          |
 | Religion of LOVE                                       | Θρησκεία της ΑΓΑΠΗΣ                                                         |
+| Render unto Caesar & God                               | Αποδώστε στον Καίσαρα και τον Θεό                                           |
 | Render unto Caesar what is Caesar's, God what is God's | Δώστε στον Καίσαρα ό,τι είναι του Καίσαρα, στον Θεό αυτό που είναι του Θεού |
 | Repent for forgiveness (Old Testament)                 | Μετανοήστε για συγχώρεση (Παλαιά Διαθήκη)                                   |
 | Repent, God forgives                                   | Μετανοήστε, ο Θεός συγχωρεί                                                 |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | Είδε τον Μεσσία ως γιο του Δαβίδ                                            |
 | Saw Messiah as Son of Man                              | Είδε τον Μεσσία ως Υιό του Ανθρώπου                                         |
 | Scripture not infallible (Contra)                      | Η Γραφή δεν είναι αλάνθαστη (Κόντρα)                                        |
-| Scripture read: Wherewith shall I come before the Lord | Η Γραφή διαβάζει: Με τα οποία θα έρθω ενώπιον του Κυρίου                    |
-| Scripture read: To whom then will ye liken God?        | Η Γραφή διαβάζει: Με ποιον λοιπόν θα παρομοιάσετε τον Θεό;                  |
+| Scripture read                                         | Διαβάστηκε η Γραφή                                                          |
 | Scripture read: Seek good, and not evil                | Η Γραφή διαβάζει: Να αναζητάτε το καλό και όχι το κακό                      |
 | Scripture read: The Spirit of the Lord is upon me      | Η Γραφή διαβάζει: Το Πνεύμα του Κυρίου είναι επάνω μου                      |
+| Scripture read: To whom then will ye liken God?        | Η Γραφή διαβάζει: Με ποιον λοιπόν θα παρομοιάσετε τον Θεό;                  |
 | Scripture read: Wash you, make you clean               | Η Γραφή διαβάζει: Να σε πλύνεις, να σε καθαρίσεις                           |
+| Scripture read: Wherewith shall I come before the Lord | Η Γραφή διαβάζει: Με τα οποία θα έρθω ενώπιον του Κυρίου                    |
 | Scripture read: Ye are my witnesses, saith the Lord    | Η Γραφή διαβάζει: Είστε οι μάρτυρές μου, λέει ο Κύριος                      |
 | Search and find me                                     | Ψάξε και βρες με                                                            |
 | Second bigand's defense                                | Η άμυνα του δεύτερου μεγάλου                                                |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | Εμπιστεύσου τον Θεό με όλη σου την καρδιά                                   |
 | Turn away from words: act                              | Απομακρύνσου από τις λέξεις: πράξε                                          |
 | Two views, flesh vs. spirit                            | Δύο απόψεις, σάρκα εναντίον πνεύματος                                       |
-| You are the temple of God; God dwells in you           | Είστε ο ναός του Θεού. Ο Θεός κατοικεί μέσα σου                             |
 | Underneath, everlasting arms                           | Από κάτω, αιώνια χέρια                                                      |
 | Utter destruction                                      | Απόλυτη καταστροφή                                                          |
 | Vertebrates: fish                                      | Σπονδυλωτά: ψάρια                                                           |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | Ποιος έχει δίνεται? δεν έχει, λάβει                                         |
 | Who has seen me, seen Father                           | Όποιος με είδε, είδε τον Πατέρα                                             |
 | Who would be greatest: serve                           | Ποιος θα ήταν καλύτερος: υπηρετήστε                                         |
+| Whoever humbles himself will be exalted                | Όποιος ταπεινώσει τον εαυτό του θα υψωθεί                                   |
 | Why do the heathen rage                                | Γιατί οργίζονται οι ειδωλολάτρες                                            |
 | Why Jesus wept                                         | Γιατί ο Ιησούς έκλαψε                                                       |
 | Why Jews wished to kill Jesus                          | Γιατί οι Εβραίοι ήθελαν να σκοτώσουν τον Ιησού                              |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | Η οργή είναι σκληρή, εξωφρενική                                             |
 | Writing in sand                                        | Γράψιμο στην άμμο                                                           |
 | Yaweh v. Baal                                          | Yaweh εναντίον Baal                                                         |
+| You are the temple of God; God dwells in you           | Είστε ο ναός του Θεού. Ο Θεός κατοικεί μέσα σου                             |
 | Your ears hear: this is way                            | Τα αυτιά σας ακούνε: αυτός είναι ο τρόπος                                   |
 | Your sins hold back good                               | Οι αμαρτίες σου συγκρατούν το καλό                                          |
 | Yours is power, glory added                            | Δική σου είναι η δύναμη, η δόξα προστέθηκε                                  |

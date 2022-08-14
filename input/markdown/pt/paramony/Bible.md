@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | “Lázaro ressuscitará.”                                         |
 | “Meat” to do will of Father, “work”                    | “Carne” para fazer a vontade do Pai, “trabalho”                |
 | “Temptation” of Jesus                                  | “Tentação” de Jesus                                            |
+| # 1 God is faithful                                    | #1 Deus é fiel                                                 |
+| # 1 Perfect in knowledge                               | # 1 Perfeito em conhecimento                                   |
 | # 1 Pilot light                                        | # 1 Luz piloto                                                 |
 | # 1 Pilot light                                        | # 1 Luz piloto                                                 |
 | # 1 Servant of the Lord                                | #1 Servo do Senhor                                             |
+| # 1 Takes a city                                       | # 1 Toma uma cidade                                            |
+| # 2 Eyes of Lord every place                           | # 2 Olhos do Senhor em todos os lugares                        |
+| # 2 God's laws are just                                | # 2 As leis de Deus são apenas                                 |
 | # 2 Light of life                                      | #2 Luz da vida                                                 |
 | # 2 The Son of Man                                     | #2 O Filho do Homem                                            |
 | 10 Taboos                                              | 10 tabus                                                       |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | Um deus de grande ira, raiva feroz                             |
 | A new heaven & new earth                               | Um novo céu e nova terra                                       |
 | About John the Baptist                                 | Sobre João Batista                                             |
-| Also known as Thaddeus & Lebbeus                       | Também conhecido como Tadeu e Lebeu                            |
 | All nations to be blessed                              | Todas as nações serão abençoadas                               |
 | Alpheus twins: James & Judas                           | Gêmeos Alfeu: Tiago e Judas                                    |
+| Also known as Thaddeus & Lebbeus                       | Também conhecido como Tadeu e Lebeu                            |
 | Amenemope wrote first Psalm                            | Amenemope escreveu o primeiro Salmo                            |
 | Amos' threat & warning                                 | Ameaça e aviso de Amós                                         |
 | Angels going up & down                                 | Anjos subindo e descendo                                       |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | Descendo do céu                                                |
 | Commingle good & evil, die                             | Misture o bem e o mal, morra                                   |
 | Commit to Him keeping of souls                         | Comprometa-se com Ele guardando as almas                       |
-| Competing “gods” Baal, Ashtaroth                       | Competindo “deuses” Baal, Ashtaroth                            |
 | Competing “gods” Ashtaroth                             | Competindo “deuses” Ashtaroth                                  |
 | Competing “gods” Baal                                  | Baal de “deuses” concorrentes                                  |
+| Competing “gods” Baal, Ashtaroth                       | Competindo “deuses” Baal, Ashtaroth                            |
 | Competing “gods” Molech                                | Competindo “deuses” Moloque                                    |
 | Contrite mind & humble spirit                          | Mente contrito e espírito humilde                              |
 | Correcting views of God                                | Corrigindo visões de Deus                                      |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | Fim, Salmo 23d                                                 |
 | Ended by singing hymn                                  | Terminou cantando hino                                         |
 | Eternal / everlasting life                             | Vida eterna / eterna                                           |
-| Whoever humbles himself will be exalted                | Quem se humilha será exaltado                                  |
 | Eye, light of body                                     | Olho, luz do corpo                                             |
 | Eyes:are the windows of soul                           | Olhos: são as janelas da alma                                  |
 | Ezekiel: service / devotion                            | Ezequiel: serviço / devoção                                    |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | Receba Jesus: filhos de Deus                                   |
 | Recorded as: “God calling..”                           | Gravado como: “Deus chamando..”                                |
 | Religion of LOVE                                       | Religião do AMOR                                               |
+| Render unto Caesar & God                               | Render a César e Deus                                          |
 | Render unto Caesar what is Caesar's, God what is God's | Dai a César o que é de César, Deus o que é de Deus             |
 | Repent for forgiveness (Old Testament)                 | Arrependa-se para o perdão (Antigo Testamento)                 |
 | Repent, God forgives                                   | Arrependa-se, Deus perdoa                                      |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | Viu o Messias como filho de Davi                               |
 | Saw Messiah as Son of Man                              | Viu o Messias como Filho do Homem                              |
 | Scripture not infallible (Contra)                      | Escritura não infalível (Contra)                               |
-| Scripture read: Wherewith shall I come before the Lord | Leitura da Escritura: Com que me apresentarei perante o Senhor |
-| Scripture read: To whom then will ye liken God?        | As escrituras dizem: A quem, então, comparareis a Deus?        |
+| Scripture read                                         | Escritura lida                                                 |
 | Scripture read: Seek good, and not evil                | Escritura lê: Busque o bem, e não o mal                        |
 | Scripture read: The Spirit of the Lord is upon me      | Escritura lê: O Espírito do Senhor está sobre mim              |
+| Scripture read: To whom then will ye liken God?        | As escrituras dizem: A quem, então, comparareis a Deus?        |
 | Scripture read: Wash you, make you clean               | Leitura da Escritura: Lava-te, limpa-te                        |
+| Scripture read: Wherewith shall I come before the Lord | Leitura da Escritura: Com que me apresentarei perante o Senhor |
 | Scripture read: Ye are my witnesses, saith the Lord    | Escritura lê: Vós sois minhas testemunhas, diz o Senhor        |
 | Search and find me                                     | Procure e me encontre                                          |
 | Second bigand's defense                                | Defesa do segundo bigand                                       |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | Confie em Deus de todo o seu coração                           |
 | Turn away from words: act                              | Afaste-se das palavras: agir                                   |
 | Two views, flesh vs. spirit                            | Duas visões, carne vs. espírito                                |
-| You are the temple of God; God dwells in you           | Você é o templo de Deus; Deus habita em você                   |
 | Underneath, everlasting arms                           | Por baixo, braços eternos                                      |
 | Utter destruction                                      | Destruição total                                               |
 | Vertebrates: fish                                      | Vertebrados: peixes                                            |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | Quem tem é dado; não tomou,                                    |
 | Who has seen me, seen Father                           | Quem me viu, viu Pai                                           |
 | Who would be greatest: serve                           | Quem seria o maior: servir                                     |
+| Whoever humbles himself will be exalted                | Quem se humilha será exaltado                                  |
 | Why do the heathen rage                                | Por que os pagãos se enfurecem                                 |
 | Why Jesus wept                                         | Por que Jesus chorou                                           |
 | Why Jews wished to kill Jesus                          | Por que os judeus desejavam matar Jesus                        |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | A ira é cruel, ultrajante                                      |
 | Writing in sand                                        | Escrevendo na areia                                            |
 | Yaweh v. Baal                                          | Yaweh v. Baal                                                  |
+| You are the temple of God; God dwells in you           | Você é o templo de Deus; Deus habita em você                   |
 | Your ears hear: this is way                            | Seus ouvidos ouvem: este é o caminho                           |
 | Your sins hold back good                               | Seus pecados retêm bem                                         |
 | Yours is power, glory added                            | Teu é poder, glória adicionada                                 |

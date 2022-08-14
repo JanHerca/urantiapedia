@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | "לזרוס יקום".                            |
 | “Meat” to do will of Father, “work”                    | "בשר" לעשות רצונו של אבא, "עבודה"        |
 | “Temptation” of Jesus                                  | "פיתוי" של ישוע                          |
+| # 1 God is faithful                                    | # 1 אלוהים נאמן                          |
+| # 1 Perfect in knowledge                               | # 1 מושלם בידע                           |
 | # 1 Pilot light                                        | # 1 אור טייס                             |
 | # 1 Pilot light                                        | # 1 אור טייס                             |
 | # 1 Servant of the Lord                                | # 1 עבד האדון                            |
+| # 1 Takes a city                                       | # 1 לוקח עיר                             |
+| # 2 Eyes of Lord every place                           | # 2 עיני האדון בכל מקום                  |
+| # 2 God's laws are just                                | # 2 חוקי אלוהים צודקים                   |
 | # 2 Light of life                                      | # 2 אור החיים                            |
 | # 2 The Son of Man                                     | # 2 בן האדם                              |
 | 10 Taboos                                              | 10 טאבו                                  |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | אל של כעס גדול, כעס עז                   |
 | A new heaven & new earth                               | גן עדן חדש וארץ חדשה                     |
 | About John the Baptist                                 | על יוחנן המטביל                          |
-| Also known as Thaddeus & Lebbeus                       | ידוע גם בשם Thaddeus & Lebbeus           |
 | All nations to be blessed                              | כל העמים יתברכו                          |
 | Alpheus twins: James & Judas                           | תאומי אלפאוס: ג'יימס ויהודה              |
+| Also known as Thaddeus & Lebbeus                       | ידוע גם בשם Thaddeus & Lebbeus           |
 | Amenemope wrote first Psalm                            | אמנמופה כתבה מזמור ראשון                 |
 | Amos' threat & warning                                 | האיום והאזהרה של עמוס                    |
 | Angels going up & down                                 | מלאכים עולים ויורדים                     |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | יורד מגן עדן                             |
 | Commingle good & evil, die                             | לערבב טוב ורע, למות                      |
 | Commit to Him keeping of souls                         | התחייבו עליו שמירת נפשות                 |
-| Competing “gods” Baal, Ashtaroth                       | "אלים" מתחרים בעל, אשתרות                |
 | Competing “gods” Ashtaroth                             | "אלים" מתחרים אשתרות                     |
 | Competing “gods” Baal                                  | "אלים" מתחרים בעל                        |
+| Competing “gods” Baal, Ashtaroth                       | "אלים" מתחרים בעל, אשתרות                |
 | Competing “gods” Molech                                | "אלים" מתחרים מולך                       |
 | Contrite mind & humble spirit                          | נפש חרטה ורוח צנועה                      |
 | Correcting views of God                                | תיקון השקפות של אלוהים                   |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | סוף, מזמור כ"ג                           |
 | Ended by singing hymn                                  | הסתיים בשירת מזמור                       |
 | Eternal / everlasting life                             | חיי נצח / נצח                            |
-| Whoever humbles himself will be exalted                | מי שישפיל את עצמו יתעלה                  |
 | Eye, light of body                                     | עין, אור גוף                             |
 | Eyes:are the windows of soul                           | עיניים: הן חלונות הנשמה                  |
 | Ezekiel: service / devotion                            | יחזקאל: שירות / מסירות נפש               |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | קבלו את ישוע: בני אלוהים                 |
 | Recorded as: “God calling..”                           | הוקלט כ: "אלוהים קורא..."                |
 | Religion of LOVE                                       | דת של אהבה                               |
+| Render unto Caesar & God                               | תנו לקיסר ואלוהים                        |
 | Render unto Caesar what is Caesar's, God what is God's | תן לקיסר מה של קיסר, אלוהים מה של אלוהים |
 | Repent for forgiveness (Old Testament)                 | לחזור בתשובה לסליחה (הברית הישנה)        |
 | Repent, God forgives                                   | תחזור בתשובה, אלוהים סולח                |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | ראה את משיח כבן דוד                      |
 | Saw Messiah as Son of Man                              | ראה את משיח כבן אדם                      |
 | Scripture not infallible (Contra)                      | כתבי הקודש לא טעו (קונטרה)               |
-| Scripture read: Wherewith shall I come before the Lord | הכתוב קרא: במה אבוא לפני ה'              |
-| Scripture read: To whom then will ye liken God?        | קראו בכתובים: למי תשוו את אלוהים?        |
+| Scripture read                                         | קריאת הכתובים                            |
 | Scripture read: Seek good, and not evil                | קראו בכתובים: חפשו את הטוב, ולא את הרע   |
 | Scripture read: The Spirit of the Lord is upon me      | כתבי הקודש: רוח ה' עלי                   |
+| Scripture read: To whom then will ye liken God?        | קראו בכתובים: למי תשוו את אלוהים?        |
 | Scripture read: Wash you, make you clean               | כתבי הקודש: רחץ אותך, תנקה אותך          |
+| Scripture read: Wherewith shall I come before the Lord | הכתוב קרא: במה אבוא לפני ה'              |
 | Scripture read: Ye are my witnesses, saith the Lord    | קראו הכתוב: עדי אתם, נאום ה'             |
 | Search and find me                                     | חפש ומצא אותי                            |
 | Second bigand's defense                                | הגנה שניה של ביגאנד                      |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | בטח באלוהים בכל לבבך                     |
 | Turn away from words: act                              | התרחק ממילים: מעשה                       |
 | Two views, flesh vs. spirit                            | שתי השקפות, בשר מול רוח                  |
-| You are the temple of God; God dwells in you           | אתה מקדש אלוהים; אלוהים שוכן בך          |
 | Underneath, everlasting arms                           | מתחת, זרועות נצח                         |
 | Utter destruction                                      | הרס מוחלט                                |
 | Vertebrates: fish                                      | בעלי חוליות: דגים                        |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | למי יש ניתן; לא, לקח                     |
 | Who has seen me, seen Father                           | מי שראה אותי, ראה את אבא                 |
 | Who would be greatest: serve                           | מי יהיה הגדול ביותר: משרת                |
+| Whoever humbles himself will be exalted                | מי שישפיל את עצמו יתעלה                  |
 | Why do the heathen rage                                | למה הגויים זועמים                        |
 | Why Jesus wept                                         | מדוע ישוע בכה                            |
 | Why Jews wished to kill Jesus                          | מדוע יהודים רצו להרוג את ישו             |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | זעם הוא אכזרי, מקומם                     |
 | Writing in sand                                        | כתיבה בחול                               |
 | Yaweh v. Baal                                          | יהוה נ' הבעל                             |
+| You are the temple of God; God dwells in you           | אתה מקדש אלוהים; אלוהים שוכן בך          |
 | Your ears hear: this is way                            | אוזניך שומעות: זו הדרך                   |
 | Your sins hold back good                               | החטאים שלך מעכבים טוב                    |
 | Yours is power, glory added                            | שלך הוא הכוח, הוספה תהילה                |

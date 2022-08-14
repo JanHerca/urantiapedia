@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | "Lazarus nousee ylös."                                           |
 | “Meat” to do will of Father, “work”                    | "Liha" tehdä Isän tahto, "työ"                                   |
 | “Temptation” of Jesus                                  | Jeesuksen "kiusaus".                                             |
+| # 1 God is faithful                                    | # 1 Jumala on uskollinen                                         |
+| # 1 Perfect in knowledge                               | # 1 Täydellinen tiedossa                                         |
 | # 1 Pilot light                                        | # 1 Ohjausvalo                                                   |
 | # 1 Pilot light                                        | # 1 Ohjausvalo                                                   |
 | # 1 Servant of the Lord                                | # 1 Herran palvelija                                             |
+| # 1 Takes a city                                       | # 1 ottaa kaupungin                                              |
+| # 2 Eyes of Lord every place                           | # 2 Herran silmää joka paikassa                                  |
+| # 2 God's laws are just                                | # 2 Jumalan lait ovat oikeudenmukaisia                           |
 | # 2 Light of life                                      | # 2 Elämän valo                                                  |
 | # 2 The Son of Man                                     | #2 Ihmisen Poika                                                 |
 | 10 Taboos                                              | 10 tabua                                                         |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | Suuren vihan, raivokkaan vihan jumala                            |
 | A new heaven & new earth                               | Uusi taivas ja uusi maa                                          |
 | About John the Baptist                                 | Tietoja Johannes Kastajasta                                      |
-| Also known as Thaddeus & Lebbeus                       | Tunnetaan myös nimellä Thaddeus & Lebbeus                        |
 | All nations to be blessed                              | Kaikki kansat ovat siunattuja                                    |
 | Alpheus twins: James & Judas                           | Alfeuksen kaksoset: Jaakob ja Juudas                             |
+| Also known as Thaddeus & Lebbeus                       | Tunnetaan myös nimellä Thaddeus & Lebbeus                        |
 | Amenemope wrote first Psalm                            | Amenemope kirjoitti ensimmäisen psalmin                          |
 | Amos' threat & warning                                 | Amosin uhkaus ja varoitus                                        |
 | Angels going up & down                                 | Enkelit ylös ja alas                                             |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | Tulee alas taivaasta                                             |
 | Commingle good & evil, die                             | Sekoita hyvä ja paha, kuole                                      |
 | Commit to Him keeping of souls                         | Sitoudu Hänelle sielujen säilyttämiseen                          |
-| Competing “gods” Baal, Ashtaroth                       | Kilpailevat "jumalat" Baal, Ashtaroth                            |
 | Competing “gods” Ashtaroth                             | Kilpailevat "jumalat" Ashtaroth                                  |
 | Competing “gods” Baal                                  | Kilpailevat "jumalat" Baal                                       |
+| Competing “gods” Baal, Ashtaroth                       | Kilpailevat "jumalat" Baal, Ashtaroth                            |
 | Competing “gods” Molech                                | Kilpailevat "jumalat" Molech                                     |
 | Contrite mind & humble spirit                          | Murtunut mieli ja nöyrä henki                                    |
 | Correcting views of God                                | Oikaista näkemyksiä Jumalasta                                    |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | Loppu, 23p Psalmi                                                |
 | Ended by singing hymn                                  | Päättyi hymnin laulamiseen                                       |
 | Eternal / everlasting life                             | Ikuinen / ikuinen elämä                                          |
-| Whoever humbles himself will be exalted                | Joka alentaa itsensä, se korotetaan                              |
 | Eye, light of body                                     | Silmä, kehon valo                                                |
 | Eyes:are the windows of soul                           | Silmät: ovat sielun ikkunat                                      |
 | Ezekiel: service / devotion                            | Hesekiel: palvelu / omistautuminen                               |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | Ottakaa vastaan Jeesus: Jumalan pojat                            |
 | Recorded as: “God calling..”                           | Äänitetty: "Jumala kutsuu..."                                    |
 | Religion of LOVE                                       | RAKKAUDEN uskonto                                                |
+| Render unto Caesar & God                               | Antakaa keisarille ja Jumalalle                                  |
 | Render unto Caesar what is Caesar's, God what is God's | Antakaa keisarille, mikä keisarin on, Jumalalle, mikä on Jumalan |
 | Repent for forgiveness (Old Testament)                 | Tee parannus anteeksiannosta (Vanha testamentti)                 |
 | Repent, God forgives                                   | Tee parannus, Jumala antaa anteeksi                              |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | Näki Messiaan Daavidin poikana                                   |
 | Saw Messiah as Son of Man                              | Näki Messiaan Ihmisen Poikana                                    |
 | Scripture not infallible (Contra)                      | Raamattu ei ole erehtymätön (Contra)                             |
-| Scripture read: Wherewith shall I come before the Lord | Raamattu lukee: Millä minä tulen Herran eteen                    |
-| Scripture read: To whom then will ye liken God?        | Raamattu lukee: Keneen te sitten vertaatte Jumalaa?              |
+| Scripture read                                         | Raamattu luettua                                                 |
 | Scripture read: Seek good, and not evil                | Raamattu lukee: Etsi hyvää, älä pahaa                            |
 | Scripture read: The Spirit of the Lord is upon me      | Raamattu lukee: Herran Henki on minun päälläni                   |
+| Scripture read: To whom then will ye liken God?        | Raamattu lukee: Keneen te sitten vertaatte Jumalaa?              |
 | Scripture read: Wash you, make you clean               | Raamattu lukee: Pese sinut, puhdista sinut                       |
+| Scripture read: Wherewith shall I come before the Lord | Raamattu lukee: Millä minä tulen Herran eteen                    |
 | Scripture read: Ye are my witnesses, saith the Lord    | Raamattu lukee: Te olette minun todistajiani, sanoo Herra        |
 | Search and find me                                     | Etsi ja löydä minut                                              |
 | Second bigand's defense                                | Toisen bigandin puolustus                                        |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | Luota Jumalaan koko sydämestäsi                                  |
 | Turn away from words: act                              | Käänny pois sanoista: toimi                                      |
 | Two views, flesh vs. spirit                            | Kaksi näkemystä, liha vs. henki                                  |
-| You are the temple of God; God dwells in you           | Sinä olet Jumalan temppeli; Jumala asuu sinussa                  |
 | Underneath, everlasting arms                           | Alla, ikuiset käsivarret                                         |
 | Utter destruction                                      | Täydellinen tuho                                                 |
 | Vertebrates: fish                                      | Selkärankaiset: kalat                                            |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | Kenellä on, on annettu; ei ole ottanut                           |
 | Who has seen me, seen Father                           | Joka on nähnyt minut, on nähnyt Isän                             |
 | Who would be greatest: serve                           | Kuka olisi suurin: palvele                                       |
+| Whoever humbles himself will be exalted                | Joka alentaa itsensä, se korotetaan                              |
 | Why do the heathen rage                                | Miksi pakanat raivoavat                                          |
 | Why Jesus wept                                         | Miksi Jeesus itki                                                |
 | Why Jews wished to kill Jesus                          | Miksi juutalaiset halusivat tappaa Jeesuksen                     |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | Viha on julmaa, törkeää                                          |
 | Writing in sand                                        | Kirjoittaminen hiekkaan                                          |
 | Yaweh v. Baal                                          | Yaweh v. Baal                                                    |
+| You are the temple of God; God dwells in you           | Sinä olet Jumalan temppeli; Jumala asuu sinussa                  |
 | Your ears hear: this is way                            | Korvasi kuulevat: tämä on tapa                                   |
 | Your sins hold back good                               | Sinun syntisi pitävät hyvää                                      |
 | Yours is power, glory added                            | Sinun on voima, lisätty kunnia                                   |

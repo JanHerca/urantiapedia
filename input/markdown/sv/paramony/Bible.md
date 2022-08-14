@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | "Lasarus kommer att uppstå."                          |
 | “Meat” to do will of Father, “work”                    | "Kött" att göra faders vilja, "arbete"                |
 | “Temptation” of Jesus                                  | Jesu "frestelse".                                     |
+| # 1 God is faithful                                    | # 1 Gud är trofast                                    |
+| # 1 Perfect in knowledge                               | # 1 Perfekt i kunskap                                 |
 | # 1 Pilot light                                        | # 1 Pilotljus                                         |
 | # 1 Pilot light                                        | # 1 Pilotljus                                         |
 | # 1 Servant of the Lord                                | # 1 Herrens tjänare                                   |
+| # 1 Takes a city                                       | # 1 Tar en stad                                       |
+| # 2 Eyes of Lord every place                           | # 2 Herrens ögon överallt                             |
+| # 2 God's laws are just                                | # 2 Guds lagar är rättvisa                            |
 | # 2 Light of life                                      | # 2 Livets ljus                                       |
 | # 2 The Son of Man                                     | # 2 Människosonen                                     |
 | 10 Taboos                                              | 10 tabun                                              |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | En gud av stor vrede, häftig vrede                    |
 | A new heaven & new earth                               | En ny himmel och ny jord                              |
 | About John the Baptist                                 | Om Johannes Döparen                                   |
-| Also known as Thaddeus & Lebbeus                       | Även känd som Thaddeus & Lebbeus                      |
 | All nations to be blessed                              | Alla nationer ska välsignas                           |
 | Alpheus twins: James & Judas                           | Alpheus tvillingar: James & Judas                     |
+| Also known as Thaddeus & Lebbeus                       | Även känd som Thaddeus & Lebbeus                      |
 | Amenemope wrote first Psalm                            | Amenemope skrev första psalmen                        |
 | Amos' threat & warning                                 | Amos hot & varning                                    |
 | Angels going up & down                                 | Änglar som går upp och ner                            |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | Kommer ner från himlen                                |
 | Commingle good & evil, die                             | Blanda gott och ont, dö                               |
 | Commit to Him keeping of souls                         | Överlåt på honom att bevara själar                    |
-| Competing “gods” Baal, Ashtaroth                       | Tävlande "gudar" Baal, Ashtaroth                      |
 | Competing “gods” Ashtaroth                             | Tävlande "gudar" Ashtaroth                            |
 | Competing “gods” Baal                                  | Konkurrerande "gudar" Baal                            |
+| Competing “gods” Baal, Ashtaroth                       | Tävlande "gudar" Baal, Ashtaroth                      |
 | Competing “gods” Molech                                | Konkurrerande "gudar" Molech                          |
 | Contrite mind & humble spirit                          | Ångerfullt sinne och ödmjuk ande                      |
 | Correcting views of God                                | Rätta syn på Gud                                      |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | Slut, 23d Psalm                                       |
 | Ended by singing hymn                                  | Avslutas med att sjunga psalm                         |
 | Eternal / everlasting life                             | Evigt / evigt liv                                     |
-| Whoever humbles himself will be exalted                | Den som ödmjukar sig själv kommer att bli upphöjd     |
 | Eye, light of body                                     | Öga, ljus i kroppen                                   |
 | Eyes:are the windows of soul                           | Ögon: är själens fönster                              |
 | Ezekiel: service / devotion                            | Hesekiel: gudstjänst / andakt                         |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | Ta emot Jesus: Guds söner                             |
 | Recorded as: “God calling..”                           | Inspelat som: "Gud kallar..."                         |
 | Religion of LOVE                                       | KÄRLEKENs religion                                    |
+| Render unto Caesar & God                               | Ge till Caesar och Gud                                |
 | Render unto Caesar what is Caesar's, God what is God's | Ge kejsaren vad som är kejsarens, Gud vad som är Guds |
 | Repent for forgiveness (Old Testament)                 | Omvänd dig för förlåtelse (Gamla testamentet)         |
 | Repent, God forgives                                   | Omvänd er, Gud förlåter                               |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | Såg Messias som Davids son                            |
 | Saw Messiah as Son of Man                              | Såg Messias som Människosonen                         |
 | Scripture not infallible (Contra)                      | Skriften inte ofelbar (Contra)                        |
-| Scripture read: Wherewith shall I come before the Lord | Skriften lyder: Varmed skall jag komma inför Herren   |
-| Scripture read: To whom then will ye liken God?        | Skriften läser: Vid vem vill ni då likna Gud?         |
+| Scripture read                                         | Skriften läst                                         |
 | Scripture read: Seek good, and not evil                | Skriften läser: Sök det goda och inte det onda        |
 | Scripture read: The Spirit of the Lord is upon me      | Skriften läser: Herrens Ande är över mig              |
+| Scripture read: To whom then will ye liken God?        | Skriften läser: Vid vem vill ni då likna Gud?         |
 | Scripture read: Wash you, make you clean               | Skriften läser: Tvätta dig, gör dig ren               |
+| Scripture read: Wherewith shall I come before the Lord | Skriften lyder: Varmed skall jag komma inför Herren   |
 | Scripture read: Ye are my witnesses, saith the Lord    | Skriften lyder: Ni är mina vittnen, säger Herren      |
 | Search and find me                                     | Sök och hitta mig                                     |
 | Second bigand's defense                                | Andra bigands försvar                                 |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | Lita på Gud av hela ditt hjärta                       |
 | Turn away from words: act                              | Vänd dig bort från ord: agera                         |
 | Two views, flesh vs. spirit                            | Två synpunkter, kött vs ande                          |
-| You are the temple of God; God dwells in you           | Du är Guds tempel; Gud bor i dig                      |
 | Underneath, everlasting arms                           | Under, eviga armar                                    |
 | Utter destruction                                      | Fullkomlig förstörelse                                |
 | Vertebrates: fish                                      | Ryggradsdjur: fisk                                    |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | Vem har är given; har inte, tagit                     |
 | Who has seen me, seen Father                           | Vem har sett mig, sett far                            |
 | Who would be greatest: serve                           | Vem skulle vara störst: tjäna                         |
+| Whoever humbles himself will be exalted                | Den som ödmjukar sig själv kommer att bli upphöjd     |
 | Why do the heathen rage                                | Varför rasar hedningarna                              |
 | Why Jesus wept                                         | Varför Jesus grät                                     |
 | Why Jews wished to kill Jesus                          | Varför judar ville döda Jesus                         |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | Vreden är grym, upprörande                            |
 | Writing in sand                                        | Att skriva i sanden                                   |
 | Yaweh v. Baal                                          | Yaweh mot Baal                                        |
+| You are the temple of God; God dwells in you           | Du är Guds tempel; Gud bor i dig                      |
 | Your ears hear: this is way                            | Dina öron hör: så här                                 |
 | Your sins hold back good                               | Dina synder håller tillbaka gott                      |
 | Yours is power, glory added                            | Din är makt, ära tillagd                              |

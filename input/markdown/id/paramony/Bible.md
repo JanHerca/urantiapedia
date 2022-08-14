@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | “Lazarus akan bangkit.”                                          |
 | “Meat” to do will of Father, “work”                    | "Daging" untuk melakukan kehendak Bapa, "bekerja"                |
 | “Temptation” of Jesus                                  | “Pencobaan” Yesus                                                |
+| # 1 God is faithful                                    | #1 Tuhan itu setia                                               |
+| # 1 Perfect in knowledge                               | #1 Sempurna dalam pengetahuan                                    |
 | # 1 Pilot light                                        | # 1 Lampu pilot                                                  |
 | # 1 Pilot light                                        | # 1 Lampu pilot                                                  |
 | # 1 Servant of the Lord                                | #1 Hamba Tuhan                                                   |
+| # 1 Takes a city                                       | # 1 Membawa kota                                                 |
+| # 2 Eyes of Lord every place                           | #2 Mata Tuhan di setiap tempat                                   |
+| # 2 God's laws are just                                | #2 Hukum Tuhan itu adil                                          |
 | # 2 Light of life                                      | #2 Cahaya kehidupan                                              |
 | # 2 The Son of Man                                     | #2 Anak Manusia                                                  |
 | 10 Taboos                                              | 10 Tabu                                                          |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | Dewa murka besar, kemarahan sengit                               |
 | A new heaven & new earth                               | Langit baru & bumi baru                                          |
 | About John the Baptist                                 | Tentang Yohanes Pembaptis                                        |
-| Also known as Thaddeus & Lebbeus                       | Juga dikenal sebagai Thaddeus & Lebbeus                          |
 | All nations to be blessed                              | Semua bangsa diberkati                                           |
 | Alpheus twins: James & Judas                           | Kembar Alpheus: James & Yudas                                    |
+| Also known as Thaddeus & Lebbeus                       | Juga dikenal sebagai Thaddeus & Lebbeus                          |
 | Amenemope wrote first Psalm                            | Amenemope menulis Mazmur pertama                                 |
 | Amos' threat & warning                                 | Ancaman & peringatan Amos                                        |
 | Angels going up & down                                 | Malaikat naik & turun                                            |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | Turun dari surga                                                 |
 | Commingle good & evil, die                             | Campurkan kebaikan & kejahatan, mati                             |
 | Commit to Him keeping of souls                         | Berkomitmen kepada-Nya menjaga jiwa                              |
-| Competing “gods” Baal, Ashtaroth                       | Bersaing "dewa" Baal, Ashtaroth                                  |
 | Competing “gods” Ashtaroth                             | Ashtaroth yang bersaing dengan "dewa"                            |
 | Competing “gods” Baal                                  | Baal "dewa" yang bersaing                                        |
+| Competing “gods” Baal, Ashtaroth                       | Bersaing "dewa" Baal, Ashtaroth                                  |
 | Competing “gods” Molech                                | Bersaing "dewa" Molech                                           |
 | Contrite mind & humble spirit                          | Pikiran yang menyesal & semangat yang rendah hati                |
 | Correcting views of God                                | Memperbaiki pandangan tentang Tuhan                              |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | Akhir, Mazmur 23d                                                |
 | Ended by singing hymn                                  | Diakhiri dengan menyanyikan himne                                |
 | Eternal / everlasting life                             | Hidup yang kekal/abadi                                           |
-| Whoever humbles himself will be exalted                | Barang siapa merendahkan dirinya akan ditinggikan                |
 | Eye, light of body                                     | Mata, cahaya tubuh                                               |
 | Eyes:are the windows of soul                           | Mata: adalah jendela jiwa                                        |
 | Ezekiel: service / devotion                            | Yehezkiel: pelayanan / pengabdian                                |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | Terima Yesus: anak-anak Allah                                    |
 | Recorded as: “God calling..”                           | Direkam sebagai: "Tuhan memanggil .."                            |
 | Religion of LOVE                                       | Agama CINTA                                                      |
+| Render unto Caesar & God                               | Berikan kepada Caesar & Tuhan                                    |
 | Render unto Caesar what is Caesar's, God what is God's | Berikan kepada Kaisar apa milik Kaisar, Tuhan apa milik Tuhan    |
 | Repent for forgiveness (Old Testament)                 | Bertobat untuk pengampunan (Perjanjian Lama)                     |
 | Repent, God forgives                                   | Bertobatlah, Tuhan mengampuni                                    |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | Melihat Mesias sebagai anak Daud                                 |
 | Saw Messiah as Son of Man                              | Melihat Mesias sebagai Anak Manusia                              |
 | Scripture not infallible (Contra)                      | Kitab Suci tidak sempurna (Kontra)                               |
-| Scripture read: Wherewith shall I come before the Lord | Bacaan Kitab Suci: Dengan apakah aku akan menghadap Tuhan        |
-| Scripture read: To whom then will ye liken God?        | Bacaan Kitab Suci: Maka dengan siapa kamu akan menyamakan Allah? |
+| Scripture read                                         | Bacaan Kitab Suci                                                |
 | Scripture read: Seek good, and not evil                | Bacaan Kitab Suci: Carilah yang baik, dan jangan yang jahat      |
 | Scripture read: The Spirit of the Lord is upon me      | Bacaan Kitab Suci: Roh Tuhan ada padaku                          |
+| Scripture read: To whom then will ye liken God?        | Bacaan Kitab Suci: Maka dengan siapa kamu akan menyamakan Allah? |
 | Scripture read: Wash you, make you clean               | Bacaan Kitab Suci: Cuci kamu, bersihkan kamu                     |
+| Scripture read: Wherewith shall I come before the Lord | Bacaan Kitab Suci: Dengan apakah aku akan menghadap Tuhan        |
 | Scripture read: Ye are my witnesses, saith the Lord    | Bacaan Kitab Suci: Kamu adalah saksi-Ku, firman Tuhan            |
 | Search and find me                                     | Cari dan temukan aku                                             |
 | Second bigand's defense                                | Pertahanan bigand kedua                                          |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | Percayakan Tuhan dengan segenap hatimu                           |
 | Turn away from words: act                              | Berpaling dari kata-kata: bertindak                              |
 | Two views, flesh vs. spirit                            | Dua pandangan, daging vs roh                                     |
-| You are the temple of God; God dwells in you           | Anda adalah bait Allah; Tuhan tinggal di dalam kamu              |
 | Underneath, everlasting arms                           | Di bawah, lengan abadi                                           |
 | Utter destruction                                      | Kehancuran total                                                 |
 | Vertebrates: fish                                      | Vertebrata: ikan                                                 |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | Siapa yang telah diberikan; belum, diambil                       |
 | Who has seen me, seen Father                           | Siapa yang telah melihat saya, melihat Ayah                      |
 | Who would be greatest: serve                           | Siapa yang akan menjadi yang terbaik: layani                     |
+| Whoever humbles himself will be exalted                | Barang siapa merendahkan dirinya akan ditinggikan                |
 | Why do the heathen rage                                | Mengapa orang kafir mengamuk?                                    |
 | Why Jesus wept                                         | Mengapa Yesus menangis?                                          |
 | Why Jews wished to kill Jesus                          | Mengapa orang Yahudi ingin membunuh Yesus                        |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | Murka itu kejam, keterlaluan                                     |
 | Writing in sand                                        | Menulis di pasir                                                 |
 | Yaweh v. Baal                                          | Yaweh v. Baal                                                    |
+| You are the temple of God; God dwells in you           | Anda adalah bait Allah; Tuhan tinggal di dalam kamu              |
 | Your ears hear: this is way                            | Telingamu mendengar: begini caranya                              |
 | Your sins hold back good                               | Dosamu menahan kebaikan                                          |
 | Yours is power, glory added                            | Milikmu adalah kekuatan, kemuliaan ditambahkan                   |

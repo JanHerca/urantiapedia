@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | „Lazăr va învia.”                                                                  |
 | “Meat” to do will of Father, “work”                    | „Carne” a face voia Tatălui, „muncă”                                               |
 | “Temptation” of Jesus                                  | „Ispitirea” lui Isus                                                               |
+| # 1 God is faithful                                    | # 1 Dumnezeu este credincios                                                       |
+| # 1 Perfect in knowledge                               | # 1 Perfect în cunoaștere                                                          |
 | # 1 Pilot light                                        | # 1 Lumină pilot                                                                   |
 | # 1 Pilot light                                        | # 1 Lumină pilot                                                                   |
 | # 1 Servant of the Lord                                | # 1 Slujitorul Domnului                                                            |
+| # 1 Takes a city                                       | # 1 Ocupă un oraș                                                                  |
+| # 2 Eyes of Lord every place                           | # 2 Ochii Domnului în fiecare loc                                                  |
+| # 2 God's laws are just                                | # 2 Legile lui Dumnezeu sunt drepte                                                |
 | # 2 Light of life                                      | # 2 Lumina vieții                                                                  |
 | # 2 The Son of Man                                     | # 2 Fiul Omului                                                                    |
 | 10 Taboos                                              | 10 tabuuri                                                                         |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | Un zeu al mâniei mari, al furiei aprige                                            |
 | A new heaven & new earth                               | Un cer nou și un pământ nou                                                        |
 | About John the Baptist                                 | Despre Ioan Botezătorul                                                            |
-| Also known as Thaddeus & Lebbeus                       | Cunoscut și sub numele de Thaddeus & Lebbeus                                       |
 | All nations to be blessed                              | Toate națiunile să fie binecuvântate                                               |
 | Alpheus twins: James & Judas                           | Gemenii Alpheus: James și Iuda                                                     |
+| Also known as Thaddeus & Lebbeus                       | Cunoscut și sub numele de Thaddeus & Lebbeus                                       |
 | Amenemope wrote first Psalm                            | Amenemope a scris primul Psalm                                                     |
 | Amos' threat & warning                                 | Amenințarea și avertismentul lui Amos                                              |
 | Angels going up & down                                 | Îngerii merg în sus și în jos                                                      |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | Coborând din ceruri                                                                |
 | Commingle good & evil, die                             | Amestecă binele și răul, mori                                                      |
 | Commit to Him keeping of souls                         | Angajează-I Lui păzirea sufletelor                                                 |
-| Competing “gods” Baal, Ashtaroth                       | „Zei” concurenți Baal, Aștarot                                                     |
 | Competing “gods” Ashtaroth                             | „Zei” concurente Ashtaroth                                                         |
 | Competing “gods” Baal                                  | Baal „zei” concurente                                                              |
+| Competing “gods” Baal, Ashtaroth                       | „Zei” concurenți Baal, Aștarot                                                     |
 | Competing “gods” Molech                                | „Zei” concurenti Molech                                                            |
 | Contrite mind & humble spirit                          | Minte stricată și spirit umil                                                      |
 | Correcting views of God                                | Corectarea vederilor despre Dumnezeu                                               |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | Sfârșit, psalmul 23                                                                |
 | Ended by singing hymn                                  | S-a încheiat cântând un imn                                                        |
 | Eternal / everlasting life                             | Viață veșnică / eternă                                                             |
-| Whoever humbles himself will be exalted                | Cine se smerește pe sine va fi înălțat                                             |
 | Eye, light of body                                     | Ochi, lumina corpului                                                              |
 | Eyes:are the windows of soul                           | Ochii: sunt ferestrele sufletului                                                  |
 | Ezekiel: service / devotion                            | Ezechiel: slujire / devotament                                                     |
@@ -191,8 +195,8 @@
 | God withholds no good thing                            | Dumnezeu nu reține nimic bun                                                       |
 | God: maker, preserver                                  | Dumnezeu: făcător, păstrător                                                       |
 | God's divine character deep, wise                      | Caracterul divin al lui Dumnezeu profund, înțelept                                 |
-| God's spirit in you (T/A)                              | Spiritul lui Dumnezeu în tine (T/A)                                                |
 | God's Spirit in you (T/A)                              | Duhul lui Dumnezeu în tine (T/A)                                                   |
+| God's spirit in you (T/A)                              | Spiritul lui Dumnezeu în tine (T/A)                                                |
 | God/Son no respecter of persons                        | Dumnezeu/Fiul nu face respect pentru persoane                                      |
 | Good man satisfied w/in self                           | Om bun mulțumit de sine                                                            |
 | Good to give thanks                                    | E bine să mulțumesc                                                                |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | Primiți-L pe Isus: fiii lui Dumnezeu                                               |
 | Recorded as: “God calling..”                           | Înregistrat ca: „Dumnezeu cheamă..”                                                |
 | Religion of LOVE                                       | Religia IUBIRII                                                                    |
+| Render unto Caesar & God                               | Dați-i lui Cezar și lui Dumnezeu                                                   |
 | Render unto Caesar what is Caesar's, God what is God's | Dați Cezarului ceea ce este al Cezarului, Dumnezeului ceea ce este al lui Dumnezeu |
 | Repent for forgiveness (Old Testament)                 | Pocăiți-vă pentru iertare (Vechiul Testament)                                      |
 | Repent, God forgives                                   | Pocăiți-vă, Dumnezeu iartă                                                         |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | L-a văzut pe Mesia ca fiu al lui David                                             |
 | Saw Messiah as Son of Man                              | L-a văzut pe Mesia ca Fiul Omului                                                  |
 | Scripture not infallible (Contra)                      | Scriptura nu este infailibilă (Contra)                                             |
-| Scripture read: Wherewith shall I come before the Lord | Scriptura citește: Cu ce voi veni înaintea Domnului                                |
-| Scripture read: To whom then will ye liken God?        | Scriptura citește: Cu cine, deci, îl veți asemăna pe Dumnezeu?                     |
+| Scripture read                                         | Scriptura citită                                                                   |
 | Scripture read: Seek good, and not evil                | Scriptura citește: Căutați binele și nu răul                                       |
 | Scripture read: The Spirit of the Lord is upon me      | Scriptura citește: Duhul Domnului este peste mine                                  |
+| Scripture read: To whom then will ye liken God?        | Scriptura citește: Cu cine, deci, îl veți asemăna pe Dumnezeu?                     |
 | Scripture read: Wash you, make you clean               | Scriptura citește: Spală-te, curăță-te                                             |
+| Scripture read: Wherewith shall I come before the Lord | Scriptura citește: Cu ce voi veni înaintea Domnului                                |
 | Scripture read: Ye are my witnesses, saith the Lord    | Scriptura citește: Voi sunteți martorii Mei, zice Domnul                           |
 | Search and find me                                     | Caută și găsește-mă                                                                |
 | Second bigand's defense                                | Apărarea celui de-al doilea bigand                                                 |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | Încrede-te în Dumnezeu din toată inima ta                                          |
 | Turn away from words: act                              | Îndepărtează-te de cuvinte: acționează                                             |
 | Two views, flesh vs. spirit                            | Două vederi, carne vs. duh                                                         |
-| You are the temple of God; God dwells in you           | Tu ești templul lui Dumnezeu; Dumnezeu locuiește în tine                           |
 | Underneath, everlasting arms                           | Dedesubt, brațe veșnice                                                            |
 | Utter destruction                                      | Distrugere totală                                                                  |
 | Vertebrates: fish                                      | Vertebrate: pești                                                                  |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | Cine are este dat; nu a luat                                                       |
 | Who has seen me, seen Father                           | Cine m-a văzut pe mine, l-a văzut pe Tată                                          |
 | Who would be greatest: serve                           | Cine ar fi cel mai mare: servi                                                     |
+| Whoever humbles himself will be exalted                | Cine se smerește pe sine va fi înălțat                                             |
 | Why do the heathen rage                                | De ce se înfurie păgânii                                                           |
 | Why Jesus wept                                         | De ce a plâns Isus                                                                 |
 | Why Jews wished to kill Jesus                          | De ce au vrut evreii să-l omoare pe Isus                                           |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | Mânia este crudă, revoltătoare                                                     |
 | Writing in sand                                        | Scrierea în nisip                                                                  |
 | Yaweh v. Baal                                          | Yaweh v. Baal                                                                      |
+| You are the temple of God; God dwells in you           | Tu ești templul lui Dumnezeu; Dumnezeu locuiește în tine                           |
 | Your ears hear: this is way                            | Urechile tale aud: aceasta este calea                                              |
 | Your sins hold back good                               | Păcatele tale țin bine                                                             |
 | Yours is power, glory added                            | A ta este puterea, a adăugat gloria                                                |

@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | «Lázaro resucitará»                                                         |
 | “Meat” to do will of Father, “work”                    | Hacer la voluntad del Padre, «trabajar»                                     |
 | “Temptation” of Jesus                                  | Tentaciones de Jesús                                                        |
+| # 1 God is faithful                                    | #1 Dios es fiel                                                             |
+| # 1 Perfect in knowledge                               | #1 Perfecto en conocimiento                                                 |
 | # 1 Pilot light                                        | # 1 Luz piloto                                                              |
 | # 1 Pilot light                                        | Luminosidad espiritual                                                      |
 | # 1 Servant of the Lord                                | # 1 El Siervo del Señor                                                     |
+| # 1 Takes a city                                       | #1 Toma una ciudad                                                          |
+| # 2 Eyes of Lord every place                           | #2 Ojos de Señor en todo lugar                                              |
+| # 2 God's laws are just                                | #2 Las leyes de Dios son justas                                             |
 | # 2 Light of life                                      | Luminosidad espiritual                                                      |
 | # 2 The Son of Man                                     | # 2 El Hijo del Hombre                                                      |
 | 10 Taboos                                              | Los diez mandamientos como tabúes                                           |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | Un Dios de gran ira e intenso furor                                         |
 | A new heaven & new earth                               | Un nuevo cielo y una nueva Tierra                                           |
 | About John the Baptist                                 | Jesús habla sobre Juan Bautista                                             |
-| Also known as Thaddeus & Lebbeus                       | También llamados Tadeo y Lebeo                                              |
 | All nations to be blessed                              | Todas las naciones serán bendecidas                                         |
 | Alpheus twins: James & Judas                           | Los gemelos Alfeo, Santiago y Judas                                         |
+| Also known as Thaddeus & Lebbeus                       | También llamados Tadeo y Lebeo                                              |
 | Amenemope wrote first Psalm                            | Amenemope escribió el primer salmo                                          |
 | Amos' threat & warning                                 | La amenaza y advertencia de Amós                                            |
 | Angels going up & down                                 | Los ángeles subiendo y bajando                                              |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | Descendiendo del Cielo                                                      |
 | Commingle good & evil, die                             | Al mezclar bien con mal moriréis                                            |
 | Commit to Him keeping of souls                         | Deberíamos aprender a confiarle nuestra alma                                |
-| Competing “gods” Baal, Ashtaroth                       | Los «dioses» competidores Baal y Astarot                                    |
 | Competing “gods” Ashtaroth                             | Los «dioses» competidores Astarot                                           |
 | Competing “gods” Baal                                  | Los «dioses» competidores Baal                                              |
+| Competing “gods” Baal, Ashtaroth                       | Los «dioses» competidores Baal y Astarot                                    |
 | Competing “gods” Molech                                | Los «dioses» competidores Moloc                                             |
 | Contrite mind & humble spirit                          | Mente contrita y espíritu humilde                                           |
 | Correcting views of God                                | Corrigiendo las concepciones erróneas sobre Dios                            |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | Final, Salmo 23                                                             |
 | Ended by singing hymn                                  | Final con un canto (Salmo 118)                                              |
 | Eternal / everlasting life                             | La vida eterna en el reino venidero                                         |
-| Whoever humbles himself will be exalted                | Quien se humilla será ensalzado                                             |
 | Eye, light of body                                     | El ojo es la lámpara del cuerpo                                             |
 | Eyes:are the windows of soul                           | Los ojos son las ventanas del alma                                          |
 | Ezekiel: service / devotion                            | Ezequiel y el servicio y la devoción                                        |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | Recibir a Jesús es ser hijos de Dios                                        |
 | Recorded as: “God calling..”                           | Registrado como «Dios llamó»                                                |
 | Religion of LOVE                                       | Una religión de AMOR                                                        |
+| Render unto Caesar & God                               | Da al César y a Dios                                                        |
 | Render unto Caesar what is Caesar's, God what is God's | Al César lo del César y a Dios lo de Dios                                   |
 | Repent for forgiveness (Old Testament)                 | Arrepentimiento para el perdón (AT)                                         |
 | Repent, God forgives                                   | Que vuelvan a mí, y tendré misericordia de ellos                            |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | El Mesías como hijo de David                                                |
 | Saw Messiah as Son of Man                              | El Mesías como Hijo del Hombre                                              |
 | Scripture not infallible (Contra)                      | En contra de la infalibilidad de las escrituras                             |
-| Scripture read: Wherewith shall I come before the Lord | Lectura de la escritura: ¿Con qué me presentaré ante el Señor?              |
-| Scripture read: To whom then will ye liken God?        | Lectura de la escritura: ¿Con quién, entonces, compararéis a Dios?          |
+| Scripture read                                         | Lectura de las escrituras                                                   |
 | Scripture read: Seek good, and not evil                | Lectura de la escritura: Buscad el bien y no el mal                         |
 | Scripture read: The Spirit of the Lord is upon me      | Lectura de la escritura: El espíritu de Señor está sobre mí                 |
+| Scripture read: To whom then will ye liken God?        | Lectura de la escritura: ¿Con quién, entonces, compararéis a Dios?          |
 | Scripture read: Wash you, make you clean               | Lectura de la escritura: Lavaos, purificaos                                 |
+| Scripture read: Wherewith shall I come before the Lord | Lectura de la escritura: ¿Con qué me presentaré ante el Señor?              |
 | Scripture read: Ye are my witnesses, saith the Lord    | Lectura de la escritura: Y tú eres mi testigo, dice el Señor                |
 | Search and find me                                     | Si me buscáis, me encontraréis                                              |
 | Second bigand's defense                                | El segundo bandido defiende a Jesús                                         |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | Confiaré en el Señor con todo mi corazón                                    |
 | Turn away from words: act                              | Apartarse de las palabras y actuar                                          |
 | Two views, flesh vs. spirit                            | Dos visiones, la carne y el espíritu                                        |
-| You are the temple of God; God dwells in you           | Sois el templo de Dios, y os habita el espíritu                             |
 | Underneath, everlasting arms                           | Nos sostienen sus brazos eternos                                            |
 | Utter destruction                                      | La destrucción de la ciudad                                                 |
 | Vertebrates: fish                                      | Los peces vertebrados                                                       |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | Parábola de los talentos, final                                             |
 | Who has seen me, seen Father                           | Quien me ha visto, ha visto al Padre                                        |
 | Who would be greatest: serve                           | Quién es más grande: el servidor                                            |
+| Whoever humbles himself will be exalted                | Quien se humilla será ensalzado                                             |
 | Why do the heathen rage                                | ¿Por qué están furiosos los paganos?                                        |
 | Why Jesus wept                                         | ¿Por qué lloró Jesús?                                                       |
 | Why Jews wished to kill Jesus                          | ¿Por qué los judíos querían matar a Jesús?                                  |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | La ira es cruel y ultrajante                                                |
 | Writing in sand                                        | Jesús escribe en la arena                                                   |
 | Yaweh v. Baal                                          | Yahvé contra Baal                                                           |
+| You are the temple of God; God dwells in you           | Sois el templo de Dios, y os habita el espíritu                             |
 | Your ears hear: this is way                            | Vuestros oídos escucharán `éste es el camino'                               |
 | Your sins hold back good                               | Son vuestros pecados los que os han apartado de las cosas buenas            |
 | Yours is power, glory added                            | Adición de tuyo es el poder y la gloria                                     |

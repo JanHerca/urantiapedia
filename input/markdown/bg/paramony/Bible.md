@@ -6,9 +6,14 @@
 | “Lazarus will rise.”                                   | "Лазар ще възкръсне."                                |
 | “Meat” to do will of Father, “work”                    | „Месо“, за да вършим волята на Отец, „работа“        |
 | “Temptation” of Jesus                                  | „Изкушението“ на Исус                                |
+| # 1 God is faithful                                    | # 1 Бог е верен                                      |
+| # 1 Perfect in knowledge                               | # 1 Перфектен в знанията                             |
 | # 1 Pilot light                                        | # 1 Пилотна светлина                                 |
 | # 1 Pilot light                                        | # 1 Пилотна светлина                                 |
 | # 1 Servant of the Lord                                | # 1 Слуга на Господа                                 |
+| # 1 Takes a city                                       | # 1 Взема град                                       |
+| # 2 Eyes of Lord every place                           | # 2 Очите на Господ всяко място                      |
+| # 2 God's laws are just                                | # 2 Божиите закони са справедливи                    |
 | # 2 Light of life                                      | # 2 Светлина на живота                               |
 | # 2 The Son of Man                                     | # 2 Човешкият син                                    |
 | 10 Taboos                                              | 10 табута                                            |
@@ -24,9 +29,9 @@
 | A god of great wrath, fierce anger                     | Бог на голям гняв, свиреп гняв                       |
 | A new heaven & new earth                               | Ново небе и нова земя                                |
 | About John the Baptist                                 | За Йоан Кръстител                                    |
-| Also known as Thaddeus & Lebbeus                       | Известен също като Thaddeus & Lebbeus                |
 | All nations to be blessed                              | Всички народи да бъдат благословени                  |
 | Alpheus twins: James & Judas                           | Алфееви близнаци: Яков и Юда                         |
+| Also known as Thaddeus & Lebbeus                       | Известен също като Thaddeus & Lebbeus                |
 | Amenemope wrote first Psalm                            | Аменемопе написал първия псалм                       |
 | Amos' threat & warning                                 | Заплахата и предупреждението на Амос                 |
 | Angels going up & down                                 | Ангели се качват и слизат                            |
@@ -101,9 +106,9 @@
 | Coming down from heaven                                | Слиза от небето                                      |
 | Commingle good & evil, die                             | Смесете доброто и злото, умрете                      |
 | Commit to Him keeping of souls                         | Поверете на Него пазенето на душите                  |
-| Competing “gods” Baal, Ashtaroth                       | Конкуриращи се „богове“ Ваал, Ащарот                 |
 | Competing “gods” Ashtaroth                             | Конкуриращи се „богове“ Астарот                      |
 | Competing “gods” Baal                                  | Конкуриращи се „богове“ Ваал                         |
+| Competing “gods” Baal, Ashtaroth                       | Конкуриращи се „богове“ Ваал, Ащарот                 |
 | Competing “gods” Molech                                | Конкуриращи се „богове“ Молох                        |
 | Contrite mind & humble spirit                          | Разкаян ум и смирен дух                              |
 | Correcting views of God                                | Коригиране на възгледите за Бог                      |
@@ -136,7 +141,6 @@
 | End, 23d Psalm                                         | Край, 23 псалм                                       |
 | Ended by singing hymn                                  | Завърши с пеене на химн                              |
 | Eternal / everlasting life                             | Вечен / вечен живот                                  |
-| Whoever humbles himself will be exalted                | Който се смири, ще бъде въздигнат                    |
 | Eye, light of body                                     | Око, светлина на тялото                              |
 | Eyes:are the windows of soul                           | Очи: са прозорците на душата                         |
 | Ezekiel: service / devotion                            | Езекиил: служение / преданост                        |
@@ -558,6 +562,7 @@
 | Receive Jesus: sons of God                             | Приемете Исус: Божии синове                          |
 | Recorded as: “God calling..”                           | Записано като: „Бог вика...“                         |
 | Religion of LOVE                                       | Религията на ЛЮБОВТА                                 |
+| Render unto Caesar & God                               | Въздайте на Цезаря и Бог                             |
 | Render unto Caesar what is Caesar's, God what is God's | Отдайте на кесаря кесаревото, на Бога - Божието      |
 | Repent for forgiveness (Old Testament)                 | Покайте се за прошка (Стар завет)                    |
 | Repent, God forgives                                   | Покай се, Бог прощава                                |
@@ -578,11 +583,12 @@
 | Saw Messiah as son of David                            | Видях Месия като син на Давид                        |
 | Saw Messiah as Son of Man                              | Видях Месията като Син човешки                       |
 | Scripture not infallible (Contra)                      | Писанието не е безпогрешно (Contra)                  |
-| Scripture read: Wherewith shall I come before the Lord | Писанието гласеше: С какво да дойда пред Господа     |
-| Scripture read: To whom then will ye liken God?        | Писанието гласи: Тогава на кого ще уподобите Бога?   |
+| Scripture read                                         | Прочетено писание                                    |
 | Scripture read: Seek good, and not evil                | Писанието гласи: Търсете доброто, а не злото         |
 | Scripture read: The Spirit of the Lord is upon me      | Писанието гласи: Духът Господен е върху мен          |
+| Scripture read: To whom then will ye liken God?        | Писанието гласи: Тогава на кого ще уподобите Бога?   |
 | Scripture read: Wash you, make you clean               | Писанието се чете: Измийте се, очистете се           |
+| Scripture read: Wherewith shall I come before the Lord | Писанието гласеше: С какво да дойда пред Господа     |
 | Scripture read: Ye are my witnesses, saith the Lord    | Писанието гласи: Вие сте Мои свидетели, казва Господ |
 | Search and find me                                     | Търси и ме намери                                    |
 | Second bigand's defense                                | Защитата на втория биганд                            |
@@ -665,7 +671,6 @@
 | Trust God with all your heart                          | Доверете се на Бог с цялото си сърце                 |
 | Turn away from words: act                              | Отвърнете се от думите: действайте                   |
 | Two views, flesh vs. spirit                            | Две гледни точки, плът срещу дух                     |
-| You are the temple of God; God dwells in you           | Вие сте Божият храм; Бог обитава в теб               |
 | Underneath, everlasting arms                           | Отдолу вечни ръце                                    |
 | Utter destruction                                      | Пълно унищожение                                     |
 | Vertebrates: fish                                      | Гръбначни животни: риби                              |
@@ -691,6 +696,7 @@
 | Who has is given; has not, taken                       | Който има, дадено му е; не е, взето                  |
 | Who has seen me, seen Father                           | Който ме е видял, видял е татко                      |
 | Who would be greatest: serve                           | Кой би бил най-великият: служи                       |
+| Whoever humbles himself will be exalted                | Който се смири, ще бъде въздигнат                    |
 | Why do the heathen rage                                | Защо езичниците беснеят                              |
 | Why Jesus wept                                         | Защо Исус плака                                      |
 | Why Jews wished to kill Jesus                          | Защо евреите искаха да убият Исус                    |
@@ -703,6 +709,7 @@
 | Wrath is cruel, outrageous                             | Гневът е жесток, възмутителен                        |
 | Writing in sand                                        | Писане в пясък                                       |
 | Yaweh v. Baal                                          | Яве срещу Ваал                                       |
+| You are the temple of God; God dwells in you           | Вие сте Божият храм; Бог обитава в теб               |
 | Your ears hear: this is way                            | Ушите ви чуват: това е начинът                       |
 | Your sins hold back good                               | Вашите грехове възпират добре                        |
 | Yours is power, glory added                            | Твоя е силата, добавена слава                        |
