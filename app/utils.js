@@ -510,14 +510,21 @@ exports.getBookTitle = (paper, language, upper) => {
 	const paperWord = Strings['bookPaper'][language];
 	const t = paper.paper_title;
 	const i = paper.paper_index;
+	const paperWord2 = (paperWord.indexOf('{') != -1 ? 
+		exports.strformat(paperWord, i) : paperWord);
 	const tu = t.toUpperCase();
+	const pu = paperWord2.toUpperCase();
 	const tt = (upper ? tu : t);
 	if (i === 0) {
 		//Prologue
 		return tt;
 	}
-	return (tu.startsWith(paperWord.toUpperCase()) ? tt : 
-		`${(upper ? paperWord.toUpperCase() : paperWord)} ${i}. ${tt}`);
+	if (tu.startsWith(pu)) {
+		return tt;
+	} else if (paperWord.indexOf('{') != -1) {
+		return `${upper ? pu : paperWord2}. ${tt}`;
+	}
+	return `${(upper ? pu : paperWord)} ${i}. ${tt}`;
 };
 
 /**

@@ -501,8 +501,42 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'BIBLE_TEX_BIBLEREF_MARKDOWN_TO_WIKIJS') {
 		// Read Bible Refs (*.md) + read Bible (*.tex) => write (*.html)
 		paramony.readForBible()
-			//.then(() => bible.readFromLaTeX(latexDir))
-			//.then(() => bible.writeToWikijs(htmlDir, paramony.biblebooks))
+			// .then(() => {
+			// 	return bibleref.readFromTXT(path.join(app.getAppPath(),
+			// 		'input/txt/bible-refs-es'));
+			// })
+			// .then(() => {
+			// 	const notfound = [];
+			// 	paramony.noTranslated.forEach(nt => {
+			// 		const book = bibleref.biblebooks.find(b => b.titleEN === nt.titleEN);
+			// 		if (!book) {
+			// 			notfound.push(`${nt.titleEN}|${nt.bible_ref}|${nt.lu_erf}|${nt.text}`);
+			// 			return;
+			// 		}
+			// 		const ref = book.refs.find(r => r.bible_ref === nt.bible_ref && r.lu_ref === nt.lu_ref);
+			// 		if (!ref) {
+			// 			notfound.push(`${nt.titleEN}|${nt.bible_ref}|${nt.lu_erf}|${nt.text}`);
+			// 			return;
+			// 		}
+			// 		nt.textES = ref.text;
+			// 		nt.result = `| ${nt.text} | ${nt.textES}`;
+			// 	});
+			// 	const results = paramony.noTranslated.map(nt => nt.result).join('\n');
+			// 	console.log(results);
+			// 	console.log('Not found:');
+			// 	console.log(notfound.join('\n'));
+			// })
+			.then(() => {
+				const notr = paramony.noTranslated.map(nt => {
+					return `${nt.titleEN}|${nt.bible_ref}|${nt.lu_erf}|${nt.text}`;
+				});
+				if (notr.length > 0) {
+					console.log('Not translated:');
+					console.log(notr.join('\n'));
+				}
+				return bible.readFromLaTeX(latexDir);
+			})
+			.then(() => bible.writeToWikijs(htmlDir, paramony.biblebooks))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIBLE_TEX_TO_BIBLEINDEX_MEDIAWIKI') {

@@ -167,16 +167,15 @@ class Paramony {
 					if (linesOther) {
 						this.readFileOther('Bible', linesOther);
 					}
-					// return (this.language === 'en' ? Promise.resolve(null) :
-					// 	readFile(filePathOtherBible));
+					return (this.language === 'en' ? Promise.resolve(null) :
+						readFile(filePathOtherBible));
+				})
+				.then(linesOther => {
+					if (linesOther) {
+						this.readFileOther('Bible', linesOther);
+					}
 					resolve(null);
 				})
-				// .then(linesOther => {
-				// 	if (linesOther) {
-				// 		this.readFileOther('Bible', linesOther);
-				// 	}
-				// 	resolve(null);
-				// })
 				.catch(reject);;
 		});
 	};
@@ -359,7 +358,12 @@ class Paramony {
 					if (tr) {
 						ref.text = tr.translation;
 					} else {
-						this.noTranslated.push(ref.text);
+						this.noTranslated.push({
+							titleEN: book.titleEN,
+							bible_ref: ref.bible_ref,
+							lu_ref: ref.lu_ref,
+							text: ref.text
+						});
 					}
 				});
 			});
