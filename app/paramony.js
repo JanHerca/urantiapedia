@@ -159,20 +159,15 @@ class Paramony {
 					results.forEach(r => extendArray(errors, r.error));
 					if (errors.length === 0) {
 						return (this.language === 'en' ? Promise.resolve(null) :
-							readFile(filePathOtherUB));
+							Promise.all([readFile(filePathOtherUB),
+								readFile(filePathOtherBible)]));
 					}
 					return Promise.reject(errors);
 				})
-				.then(linesOther => {
-					if (linesOther) {
-						this.readFileOther('Bible', linesOther);
-					}
-					return (this.language === 'en' ? Promise.resolve(null) :
-						readFile(filePathOtherBible));
-				})
-				.then(linesOther => {
-					if (linesOther) {
-						this.readFileOther('Bible', linesOther);
+				.then(linesAr => {
+					if (linesAr) {
+						const lines = [...linesAr[0], ...linesAr[1]];
+						this.readFileOther('Bible', lines);
 					}
 					resolve(null);
 				})

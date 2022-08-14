@@ -510,12 +510,12 @@ const handle_exeButtonClick = () => {
 			// 	paramony.noTranslated.forEach(nt => {
 			// 		const book = bibleref.biblebooks.find(b => b.titleEN === nt.titleEN);
 			// 		if (!book) {
-			// 			notfound.push(`${nt.titleEN}|${nt.bible_ref}|${nt.lu_erf}|${nt.text}`);
+			// 			notfound.push(`${nt.titleEN}|${nt.bible_ref}|${nt.lu_ref}|${nt.text}`);
 			// 			return;
 			// 		}
 			// 		const ref = book.refs.find(r => r.bible_ref === nt.bible_ref && r.lu_ref === nt.lu_ref);
 			// 		if (!ref) {
-			// 			notfound.push(`${nt.titleEN}|${nt.bible_ref}|${nt.lu_erf}|${nt.text}`);
+			// 			notfound.push(`${nt.titleEN}|${nt.bible_ref}|${nt.lu_ref}|${nt.text}`);
 			// 			return;
 			// 		}
 			// 		nt.textES = ref.text;
@@ -528,7 +528,7 @@ const handle_exeButtonClick = () => {
 			// })
 			.then(() => {
 				const notr = paramony.noTranslated.map(nt => {
-					return `${nt.titleEN}|${nt.bible_ref}|${nt.lu_erf}|${nt.text}`;
+					return `${nt.titleEN}|${nt.bible_ref}|${nt.lu_ref}|${nt.text}`;
 				});
 				if (notr.length > 0) {
 					console.log('Not translated:');
