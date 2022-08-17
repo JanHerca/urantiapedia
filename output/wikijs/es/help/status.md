@@ -52,20 +52,21 @@ Relación de tareas e idiomas a soportar, con indicación del progreso actual:
 | Estonio    |  `et`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    |  :clock2:   |
 | Persa      |  `fa`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |  :clock2:   |
 | Finlandés  |  `fi`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |  :clock2:   |
-| Francés    |  `fr`  | :heavy_check_mark: |          |      :clock2:      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |      :clock2:      |  :clock2:   |
-| Hebreo     |  `he`  | :heavy_check_mark: |          |      :clock2:      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    |  :clock2:   |
-| Húngaro    |  `hu`  | :heavy_check_mark: |          |      :clock2:      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    |  :clock2:   |
-| Indonesio  |  `id`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    |  :clock2:   |
+| Francés    |  `fr`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |      :clock2:      |  :clock2:   |
+| Hebreo     |  `he`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    |  :clock2:   |
+| Húngaro    |  `hu`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    |  :clock2:   |
+| Indonesio  |  `id`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    |  :clock2:   |
 | Italiano   |  `it`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |  :clock2:   |
-| Japonés    |  `ja`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    |  :clock2:   |
-| Coreano    |  `ko`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    |  :clock2:   |
+| Japonés    |  `ja`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    |  :clock2:   |
+| Coreano    |  `ko`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    |  :clock2:   |
 | Lituano    |  `lt`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    |  :clock2:   |
 | Neerlandés |  `nl`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |  :clock2:   |
-| Polaco     |  `pl`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    |  :clock2:   |
-| Portugués  |  `pt`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    |  :clock2:   |
-| Rumano     |  `ro`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    |  :clock2:   |
-| Ruso       |  `ru`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    |  :clock2:   |
-| Sueco      |  `sv`  | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    |  :clock2:   |
+| Polaco     |  `pl`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    |  :clock2:   |
+| Portugués  |  `pt`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    |  :clock2:   |
+| Rumano     |  `ro`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    |  :clock2:   |
+| Ruso       |  `ru`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    |  :clock2:   |
+| Sueco      |  `sv`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    |  :clock2:   |
+| Turco      |  `tr`  | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    |  :clock2:   |
 
 ## Fase II - Libros, artículos, ayudas de estudio, esquemas e índices
 
@@ -113,6 +114,7 @@ Para cada idioma, el contenido esperado en esta fase es:
 | Rumano     |  `ro`  |               |                 |                   |
 | Ruso       |  `ru`  |               |                 |                   |
 | Sueco      |  `sv`  |               |                 |                   |
+| Turco      |  `tr`  |               |                 |                   |
 
 ## Fase III - Traductor
 
@@ -153,6 +155,7 @@ Para cada idioma, el contenido esperado en esta fase es:
 | Rumano     |  `ro`  |                 |                    |
 | Ruso       |  `ru`  |                 |                    |
 | Sueco      |  `sv`  |                 |                    |
+| Turco      |  `tr`  |                 |                    |
 
 ## Fase V - Presentaciones
 
@@ -173,7 +176,7 @@ La siguiente tabla resume todos los avances con cada tipo de contenido:
 | Danés      |  `da`  | :heavy_check_mark: |                    |  :clock2:   |          | :heavy_check_mark: |                         |                 |                   |                   |          |                 |                    |                |            |
 | Alemán     |  `de`  | :heavy_check_mark: |                    |  :clock2:   |          | :heavy_check_mark: |                         |                 |                   |                   |          |                 |                    |                |            |
 | Griego     |  `el`  | :heavy_check_mark: |                    |  :clock2:   |          | :heavy_check_mark: |                         |                 |                   |                   |          |                 |                    |                |            |
-| Inglés     |  `en`  | :heavy_check_mark: | :heavy_check_mark: |  :clock2:   | :clock2: | :heavy_check_mark: |       :clock2:          | :clock2: 1 / 17 | :clock2: 50 / 927 |                   |          | :clock2: 1 / 20 |                    |                |            |
+| Inglés     |  `en`  | :heavy_check_mark: | :heavy_check_mark: |  :clock2:   | :clock2: | :heavy_check_mark: |        :clock2:         | :clock2: 1 / 17 | :clock2: 50 / 927 |                   |          | :clock2: 1 / 20 |                    |                |            |
 | Español    |  `es`  | :heavy_check_mark: | :heavy_check_mark: |  :clock2:   | :clock2: | :heavy_check_mark: |                         | :clock2: 1 / 17 | :clock2: 50 / 927 |                   |          | :clock2: 1 / 20 |                    |                |            |
 | Estonio    |  `et`  | :heavy_check_mark: |                    |  :clock2:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
 | Persa      |  `fa`  | :heavy_check_mark: |                    |  :clock2:   |          | :heavy_check_mark: |                         |                 |                   |                   |          |                 |                    |                |            |
@@ -181,17 +184,18 @@ La siguiente tabla resume todos los avances con cada tipo de contenido:
 | Francés    |  `fr`  | :heavy_check_mark: |      :clock2:      |  :clock2:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
 | Hebreo     |  `he`  | :heavy_check_mark: |                    |  :clock2:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
 | Húngaro    |  `hu`  | :heavy_check_mark: |                    |  :clock2:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
-| Indonesio  |  `id`  | :heavy_check_mark: |                    |  :clock2:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Indonesio  |  `id`  | :heavy_check_mark: |                    |  :clock2:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
 | Italiano   |  `it`  | :heavy_check_mark: |                    |  :clock2:   |          | :heavy_check_mark: |                         |                 |                   |                   |          |                 |                    |                |            |
-| Japonés    |  `ja`  | :heavy_check_mark: |                    |  :clock2:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
-| Coreano    |  `ko`  | :heavy_check_mark: |                    |  :clock2:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Japonés    |  `ja`  | :heavy_check_mark: |                    |  :clock2:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
+| Coreano    |  `ko`  | :heavy_check_mark: |                    |  :clock2:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
 | Lituano    |  `lt`  | :heavy_check_mark: |                    |  :clock2:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
 | Neerlandés |  `nl`  | :heavy_check_mark: |                    |  :clock2:   |          | :heavy_check_mark: |                         |                 |                   |                   |          |                 |                    |                |            |
-| Polaco     |  `pl`  | :heavy_check_mark: |                    |  :clock2:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
-| Portugués  |  `pt`  | :heavy_check_mark: |                    |  :clock2:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
-| Rumano     |  `ro`  | :heavy_check_mark: |                    |  :clock2:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
-| Ruso       |  `ru`  | :heavy_check_mark: |                    |  :clock2:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
-| Sueco      |  `sv`  | :heavy_check_mark: |                    |  :clock2:   |          |                    |                         |                 |                   |                   |          |                 |                    |                |            |
+| Polaco     |  `pl`  | :heavy_check_mark: |                    |  :clock2:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
+| Portugués  |  `pt`  | :heavy_check_mark: |                    |  :clock2:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
+| Rumano     |  `ro`  | :heavy_check_mark: |                    |  :clock2:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
+| Ruso       |  `ru`  | :heavy_check_mark: |                    |  :clock2:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
+| Sueco      |  `sv`  | :heavy_check_mark: |                    |  :clock2:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
+| Turco      |  `tr`  | :heavy_check_mark: |                    |  :clock2:   |          |      :clock2:      |                         |                 |                   |                   |          |                 |                    |                |            |
 
 (1) El Libro de Urantia y la Biblia con _Paramony_ incluidos.
 
@@ -202,9 +206,8 @@ Aquí puedes encontrar una lista de tareas que actualmente no están activas. Si
 - El libro de Urantia :blue_book: :
   - Revisión de la traducción automática de las notas al pie del _Paramony_ excepto en: `es` y `en`.
 - La Biblia :closed_book: :
-  - Obtener una Biblia de dominio público: `et`, `fi`, `fr`, `he`, `hu`, `id`, `ja`, `ko`, `lt`, `pl`, `pt` , `ro`, `ru`, `sv`.
-  - Traducción automática de las notas a pie de página del Paramony: todos los idiomas excepto `bg`, `en` y `es`.
-    - Revisión de la traducción anterior: todos los idiomas excepto `en` y `es`
+  - Obtener una Biblia de dominio público: `et` y `lt`.
+  - Revisión de la traducción automática de las notas a pie de página del _Paramony_: todos los idiomas excepto `en` y `es`
 - El índice de Términos :card_index: :
   - Producir la primera versión para `en` y `es`. Esta es una tarea pesada que ha sido dividida por letras del alfabeto. Las letras `A` a `G` ya están terminadas y quedan las letras `H` a `Z`.
     - Traducción automática del índice de Términos: no se recomienda iniciar estas tareas hasta que se complete la anterior porque algún proceso automático ayudará aquí.

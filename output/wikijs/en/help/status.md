@@ -52,20 +52,21 @@ Table of tasks and languages to support, showing current progress:
 | Estonian   | `et` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
 | Farsi      | `fa` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :clock2:  |
 | Finnish    | `fi` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :clock2:  |
-| French     | `fr` | :heavy_check_mark: |          |      :clock2:      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |      :clock2:      | :clock2:  |
-| Hebrew     | `he` | :heavy_check_mark: |          |      :clock2:      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
-| Hungarian  | `hu` | :heavy_check_mark: |          |      :clock2:      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
-| Indonesian | `id` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
+| French     | `fr` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |      :clock2:      | :clock2:  |
+| Hebrew     | `he` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
+| Hungarian  | `hu` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
+| Indonesian | `id` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
 | Italian    | `it` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :clock2:  |
-| Japanese   | `ja` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
-| Korean     | `ko` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
+| Japanese   | `ja` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
+| Korean     | `ko` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
 | Lithuanian | `lt` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
 | Dutch      | `nl` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :clock2:  |
-| Polish     | `pl` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
-| Portuguese | `pt` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
-| Romanian   | `ro` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
-| Russian    | `ru` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
-| Swedish    | `sv` | :heavy_check_mark: |          |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :clock2:  |
+| Polish     | `pl` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
+| Portuguese | `pt` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
+| Romanian   | `ro` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
+| Russian    | `ru` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
+| Swedish    | `sv` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
+| Turkish    | `tr` | :heavy_check_mark: |          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :clock2:      |                    | :clock2:  |
 
 ## Milestone II - Books, articles, study aids, schemas and indexes
 
@@ -113,6 +114,7 @@ For each language the content expected in this milestone is:
 | Romanian   | `ro` |                |                 |                   |
 | Russian    | `ru` |                |                 |                   |
 | Swedish    | `sv` |                |                 |                   |
+| Turkish    | `tr` |                |                 |                   |
 
 ## Milestone III - Translator
 
@@ -153,6 +155,7 @@ For each language the content expected in this milestone is:
 | Romanian   | `ro` |             |                  |
 | Russian    | `ru` |             |                  |
 | Swedish    | `sv` |             |                  |
+| Turkish    | `tr` |             |                  |
 
 ## Milestone V - Slides
 
@@ -173,25 +176,26 @@ The next table summarizes all the progress with each type of content:
 | Danish     | `da` | :heavy_check_mark: |                    | :clock2:  |          | :heavy_check_mark: |                |                 |                   |            |         |                 |                  |        |           |
 | German     | `de` | :heavy_check_mark: |                    | :clock2:  |          | :heavy_check_mark: |                |                 |                   |            |         |                 |                  |        |           |
 | Greek      | `el` | :heavy_check_mark: |                    | :clock2:  |          | :heavy_check_mark: |                |                 |                   |            |         |                 |                  |        |           |
-| English    | `en` | :heavy_check_mark: | :heavy_check_mark: | :clock2:  | :clock2: | :heavy_check_mark: |                | :clock2: 1 / 17 | :clock2: 50 / 927 |            |         | :clock2: 1 / 20 |                  |        |           |
+| English    | `en` | :heavy_check_mark: | :heavy_check_mark: | :clock2:  | :clock2: | :heavy_check_mark: |    :clock2:    | :clock2: 1 / 17 | :clock2: 50 / 927 |            |         | :clock2: 1 / 20 |                  |        |           |
 | Spanish    | `es` | :heavy_check_mark: | :heavy_check_mark: | :clock2:  | :clock2: | :heavy_check_mark: |                | :clock2: 1 / 17 | :clock2: 50 / 927 |            |         | :clock2: 1 / 20 |                  |        |           |
 | Estonian   | `et` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
 | Farsi      | `fa` | :heavy_check_mark: |                    | :clock2:  |          | :heavy_check_mark: |                |                 |                   |            |         |                 |                  |        |           |
 | Finnish    | `fi` | :heavy_check_mark: |                    | :clock2:  |          | :heavy_check_mark: |                |                 |                   |            |         |                 |                  |        |           |
-| French     | `fr` | :heavy_check_mark: |      :clock2:      | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
-| Hebrew     | `he` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
-| Hungarian  | `hu` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
-| Indonesian | `id` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
+| French     | `fr` | :heavy_check_mark: |      :clock2:      | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
+| Hebrew     | `he` | :heavy_check_mark: |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
+| Hungarian  | `hu` | :heavy_check_mark: |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
+| Indonesian | `id` | :heavy_check_mark: |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
 | Italian    | `it` | :heavy_check_mark: |                    | :clock2:  |          | :heavy_check_mark: |                |                 |                   |            |         |                 |                  |        |           |
-| Japanese   | `ja` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
-| Korean     | `ko` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
+| Japanese   | `ja` | :heavy_check_mark: |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
+| Korean     | `ko` | :heavy_check_mark: |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
 | Lithuanian | `lt` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
 | Dutch      | `nl` | :heavy_check_mark: |                    | :clock2:  |          | :heavy_check_mark: |                |                 |                   |            |         |                 |                  |        |           |
-| Polish     | `pl` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
-| Portuguese | `pt` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
-| Romanian   | `ro` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
-| Russian    | `ru` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
-| Swedish    | `sv` | :heavy_check_mark: |                    | :clock2:  |          |                    |                |                 |                   |            |         |                 |                  |        |           |
+| Polish     | `pl` | :heavy_check_mark: |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
+| Portuguese | `pt` | :heavy_check_mark: |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
+| Romanian   | `ro` | :heavy_check_mark: |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
+| Russian    | `ru` | :heavy_check_mark: |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
+| Swedish    | `sv` | :heavy_check_mark: |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
+| Turkish    | `tr` | :heavy_check_mark: |                    | :clock2:  |          |      :clock2:      |                |                 |                   |            |         |                 |                  |        |           |
 
 (1) Urantia Book and Bible with the _Paramony_ included.
 
@@ -201,10 +205,9 @@ Here you can find a list of tasks that currently are not active. If you are a co
 
 - The Urantia Book :blue_book: :
   - Review of automatic translation made for _Paramony_ footnotes except `es` and `en`.
-- The Bible :closed_book: :
-  - Obtain a public domain Bible: `et`, `fi`, `fr`, `he`, `hu`, `id`, `ja`, `ko`, `lt`, `pl`, `pt`, `ro`, `ru`, `sv`.
-  - Automatic translation of Paramony footnotes: all languages apart from `bg`, `en` and `es`.
-    - Review of previous translation: all languages apart from `en` and `es`
+- The Bible :closed_book:
+  - Obtain a public domain Bible: `et` and `lt`.
+  - Review of automatic translation of _Paramony_ footnotes: all languages except `en` and `es`.
 - The Topic Index :card_index: :
   - Produce the first version for `en` and `es`. This is a heavy task that has been divided by letters of the alphabet. Letters `A` to `G` are already finished and remain letters `H` to `Z`.
     - Automatic translation of Topic Index: it is not recommended to start this tasks until previous is completed because some automatic process will help here.

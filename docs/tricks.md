@@ -57,6 +57,7 @@ Search by page ref: `"par_pageref": "359.\d+"` in `./input/json/book-e*-footnote
 
 ## VS Code tricks
 
+* Multi cursor: Select through search, then Ctrl + Shift + L (no place a cursor in each selection), then Alt + Click (to modify cursors location at once)
 * Sort lines: Select the lines to sort, then View / Command Palette (Ctrl + P and >) and type or use Sort Lines Ascending or Sort Lines Descending.
 * Format Markdown tables: click inside the table anywhere and Shift + Alt + F
 

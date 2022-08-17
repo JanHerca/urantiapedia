@@ -23,7 +23,8 @@ const Strings = {
 		pt: "O Livro de Urântia",
 		ro: "Cartea Urantia",
 		ru: "Книга Урантии",
-		sv: "Urantiaboken"
+		sv: "Urantiaboken",
+		tr: "Urantia’nın Kitabı"
 	},
 	"bookPart0": {
 		bg: "Предисловие",
@@ -49,7 +50,8 @@ const Strings = {
 		pt: "Introdução",
 		ro: "Introducere",
 		ru: "Предисловие",
-		sv: "Förord"
+		sv: "Förord",
+		tr: "Önsöz"
 	},
 	"bookPart1": {
 		bg: "ЧАСТ I - Централната и свръхвселените",
@@ -75,7 +77,8 @@ const Strings = {
 		pt: "PARTE I - O Universo Central e os Superuniversos",
 		ro: "Partea I - Universul Central şi Supraunversurile",
 		ru: "Часть I - Центральная Вселенная и Сверхвселенных",
-		sv: "DEL I - Centraluniversumet och superuniverserna"
+		sv: "DEL I - Centraluniversumet och superuniverserna",
+		tr: "Kısım I / Bölüm 1 - Merkezi ve Aşkın Evrenleri"
 	},
 	"bookPart2": {
 		bg: "ЧАСТ II - Локалната вселена",
@@ -101,7 +104,8 @@ const Strings = {
 		pt: "PARTE II - O Universo Local",
 		ro: "Partea a II a - Universul local",
 		ru: "Часть II - Локальная Вселенная",
-		sv: "DEL II - Lokaluniversumet"
+		sv: "DEL II - Lokaluniversumet",
+		tr: "Kısım II / Bölüm 2 - Yerel Evrenler"
 	},
 	"bookPart3": {
 		bg: "ЧАСТ III - Историята на Урантия",
@@ -127,7 +131,8 @@ const Strings = {
 		pt: "PARTE III - A História de Urântia",
 		ro: "Partea a III a - Istoria Urantia",
 		ru: "Часть III - История Урантии",
-		sv: "DEL III - Urantias historia"
+		sv: "DEL III - Urantias historia",
+		tr: "Kısım III / Bölüm 3 - Urantia’nın Tarihi"
 	},
 	"bookPart4": {
 		bg: "ЧАСТ IV - Животът и ученията на Иисус",
@@ -153,7 +158,8 @@ const Strings = {
 		pt: "PARTE IV - A Vida e os Ensinamentos de Jesus",
 		ro: "Partea a IV a - Viaţa şi învăţăturile lui Iisus",
 		ru: "Часть IV - Жизнь и Учения Иисуса",
-		sv: "DEL IV - Jesu liv och förkunnelse"
+		sv: "DEL IV - Jesu liv och förkunnelse",
+		tr: "Kısım IV / Bölüm 4 - İsa’nın Hayatı ve Öğretileri"
 	},
 	"bookAbb": {
 		bg: "КУ",
@@ -179,7 +185,8 @@ const Strings = {
 		pt: "LU",
 		ro: "CU",
 		ru: "КУ",
-		sv: "Ub"
+		sv: "Ub",
+		tr: "UK"
 	},
 	"bookPaper": {
 		bg: "Документ",
@@ -205,7 +212,8 @@ const Strings = {
 		pt: "Documento",
 		ro: "Capitolul",
 		ru: "Документ",
-		sv: "Kapitel"
+		sv: "Kapitel",
+		tr: "Makale"
 	},
 	"bookPaperAbb": {
 		bg: "Документ",
@@ -231,7 +239,8 @@ const Strings = {
 		pt: "Doc",
 		ro: "Cap",
 		ru: "Док",
-		sv: "Kap"
+		sv: "Kap",
+		tr: "Mak"
 	},
 	"bookChapter": {
 		bg: "глава",
@@ -257,7 +266,8 @@ const Strings = {
 		pt: "Capítulo",
 		ro: "Capitol",
 		ru: "Глава",
-		sv: "Kapitel"
+		sv: "Kapitel",
+		tr: "Bölüm"
 	},
 	"bookIndexName": {
 		bg: "Индекс",
@@ -283,7 +293,8 @@ const Strings = {
 		pt: "Índice",
 		ro: "Index",
 		ru: "Индекс",
-		sv: "Index"
+		sv: "Index",
+		tr: "Dizin"
 	},
 	"bookExtIndexName": {
 		bg: "Съдържание на книгата",
@@ -309,7 +320,8 @@ const Strings = {
 		pt: "Índice Detalhado",
 		ro: "Conţinutul Cărţii",
 		ru: "Содержание книги",
-		sv: "Innehållsförteckning"
+		sv: "Innehållsförteckning",
+		tr: "Genişletilmiş Dizin"
 	},
 	"bookLanguages": {
 		bg: "Bulgarian",
@@ -335,7 +347,8 @@ const Strings = {
 		pt: "Portuguese",
 		ro: "Romanian",
 		ru: "Russian",
-		sv: "Swedish"
+		sv: "Swedish",
+		tr: "Turkish"
 	},
 	"bibleOldTestament": {
 		bg: "Старият завет",
@@ -361,7 +374,8 @@ const Strings = {
 		pt: "Antigo Testamento",
 		ro: "Vechiul Testament",
 		ru: "Ветхий Завет",
-		sv: "Gamla testamentet"
+		sv: "Gamla testamentet",
+		tr: "Eski Antlaşma"
 	},
 	"bibleNewTestament": {
 		bg: "Нов завет",
@@ -387,7 +401,8 @@ const Strings = {
 		pt: "Novo Testamento",
 		ro: "Noul Testament",
 		ru: "Новый Завет",
-		sv: "Nya testamentet"
+		sv: "Nya testamentet",
+		tr: "Yeni Antlaşma"
 	},
 	"bibleApocrypha": {
 		bg: "апокриф",
@@ -413,7 +428,8 @@ const Strings = {
 		pt: "Apócrifo",
 		ro: "Apocrife",
 		ru: "Апокрифы",
-		sv: "De apokryfiska böckerna"
+		sv: "De apokryfiska böckerna",
+		tr: "Apokrif"
 	},
 	"bibleFullIndex": {
 		bg: "Пълен индекс на Библията",
@@ -439,7 +455,8 @@ const Strings = {
 		pt: "Índice Completo da Bíblia",
 		ro: "Indexul complet al Bibliei",
 		ru: "Полный индекс Библии",
-		sv: "Fullständigt index över Bibeln"
+		sv: "Fullständigt index över Bibeln",
+		tr: "Tam İncil Dizini"
 	},
 	"topicIndexTitle_ALL": {
 		bg: "Индекс на всички теми",
@@ -465,7 +482,8 @@ const Strings = {
 		pt: "Índice de todos os tópicos",
 		ro: "Indexul tuturor subiectelor",
 		ru: "Указатель всех тем",
-		sv: "Index över alla ämnen"
+		sv: "Index över alla ämnen",
+		tr: "Tüm terimlerin indeksi"
 	},
 	"topicIndexTitle_PERSON": {
 		bg: "Индекс на личности, хора, индивиди или групи и стари богове",
@@ -491,7 +509,8 @@ const Strings = {
 		pt: "Índice de personalidades, pessoas, indivíduos ou grupos e deuses antigos",
 		ro: "Index de personalități, oameni indivizi sau grupuri și zei vechi",
 		ru: "Указатель личностей, людей, отдельных лиц или групп и старых богов",
-		sv: "Register över personligheter, människor individer eller grupper och gamla gudar"
+		sv: "Register över personligheter, människor individer eller grupper och gamla gudar",
+		tr: "Kişilikler, bireysel veya toplu kişiler ve eski tanrılar dizini"
 	},
 	"topicIndexTitle_PLACE": {
 		bg: "Индекс на местата на Земята или във Вселената",
@@ -517,7 +536,8 @@ const Strings = {
 		pt: "Índice de lugares, seja na Terra ou no Universo",
 		ro: "Indexul locurilor, fie pe Pământ, fie pe Univers",
 		ru: "Указатель мест на Земле или во Вселенной",
-		sv: "Index över platser, antingen på jorden eller på universum"
+		sv: "Index över platser, antingen på jorden eller på universum",
+		tr: "Hem Dünyadaki hem de Evrendeki yerlerin indeksi"
 	},
 	"topicIndexTitle_ORDER": {
 		bg: "Индекс на разредите и видовете същества",
@@ -543,7 +563,8 @@ const Strings = {
 		pt: "Índice de ordens e tipos de seres",
 		ro: "Indice de ordine și tipuri de ființe",
 		ru: "Указатель порядков и типов существ",
-		sv: "Index över beställningar och typer av varelser"
+		sv: "Index över beställningar och typer av varelser",
+		tr: "Varlıkların düzenleri ve tipolojileri dizini"
 	},
 	"topicIndexTitle_RACE": {
 		bg: "Индекс на раси, племена или народи",
@@ -569,7 +590,8 @@ const Strings = {
 		pt: "Índice de raças, tribos ou povos",
 		ro: "Index de rase, triburi sau popoare",
 		ru: "Указатель рас, племен или народов",
-		sv: "Index över raser, stammar eller folk"
+		sv: "Index över raser, stammar eller folk",
+		tr: "Irklar, kabileler veya halklar dizini"
 	},
 	"topicIndexTitle_RELIGION": {
 		bg: "Индекс на религии, култове, вярвания",
@@ -595,7 +617,8 @@ const Strings = {
 		pt: "Índice de religiões, cultos, crenças",
 		ro: "Index de religii, culte, credințe",
 		ru: "Указатель религий, культов, верований",
-		sv: "Index över religioner, kulter, övertygelser"
+		sv: "Index över religioner, kulter, övertygelser",
+		tr: "Dinler, kültler, inançlar endeksi"
 	},
 	"lblLanguage": {
 		en: "Urantiapedia Language:",
@@ -977,7 +1000,8 @@ const Strings = {
 		pt: "Ver também",
 		ro: "Vezi si",
 		ru: "Смотрите также",
-		sv: "Se även"
+		sv: "Se även",
+		tr: "Ayrıca bakınız"
 	},
 	"topic_links": {
 		bg: "връзки",
@@ -1003,7 +1027,8 @@ const Strings = {
 		pt: "Ligações",
 		ro: "Link-uri",
 		ru: "ссылки",
-		sv: "Länkar"
+		sv: "Länkar",
+		tr: "Bağlantılar"
 	},
 	"topic_external_links": {
 		bg: "външни връзки",
@@ -1029,7 +1054,8 @@ const Strings = {
 		pt: "Ligações externas",
 		ro: "Linkuri externe",
 		ru: "внешние ссылки",
-		sv: "Externa länkar"
+		sv: "Externa länkar",
+		tr: "Dış bağlantılar"
 	},
 	"topic_references": {
 		bg: "препратки",
@@ -1055,7 +1081,8 @@ const Strings = {
 		pt: "Referências",
 		ro: "Referințe",
 		ru: "использованная литература",
-		sv: "Referenser"
+		sv: "Referenser",
+		tr: "Referanslar"
 	},
 	"topicindex_save_confirm": {
 		en: "Save changes to Topic Index?",
