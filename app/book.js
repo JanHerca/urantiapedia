@@ -3,22 +3,10 @@
 const LSep = require('./enums').LaTeXSeparator;
 const HSep = require('./enums').HTMLSeparator;
 const BibleAbbs = require('./abb');
-const extractStr = require('./utils').extractStr;
-const reflectPromise = require('./utils').reflectPromise;
-const extendArray = require('./utils').extendArray;
-const replaceTags = require('./utils').replaceTags;
-const removeHTMLTags = require('./utils').removeHTMLTags;
-const readFrom = require('./utils').readFrom;
-const readFile = require('./utils').readFile;
-const replaceWords = require('./utils').replaceWords;
-const getAllIndexes = require('./utils').getAllIndexes;
-const strformat = require('./utils').strformat;
-const getWikijsHeader = require('./utils').getWikijsHeader;
-const fixWikijsHeader = require('./utils').fixWikijsHeader;
-const getWikijsLinks = require('./utils').getWikijsLinks;
-const getWikijsBookLink = require('./utils').getWikijsBookLink;
-const getBookTitle = require('./utils').getBookTitle;
-const getError = require('./utils').getError;
+const {extractStr, reflectPromise, extendArray, replaceTags, removeHTMLTags,
+	readFrom, replaceWords, getAllIndexes, strformat, getWikijsHeader,
+	getWikijsLinks, getWikijsBookLink, writeHTMLToWikijs, 
+	getBookTitle, getError} = require('./utils');
 const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
@@ -1474,8 +1462,8 @@ class Book {
 			}
 
 			//Header
-			let html = '';
-			let html2 = '';
+			let body = '';
+			let header = '';
 			let error_par_ref;
 			const index = paper.paper_index;
 			const prev = index - 1;
@@ -1495,25 +1483,15 @@ class Book {
 
 			const title = getBookTitle(paper, this.language, true);
 
-			const writeFile = () => {
-				fs.writeFile(filePath, html2 + html, 'utf-8', (err) => {
-					if (err) {
-						reject(err);
-						return;
-					}
-					resolve(null);
-				});
-			};
-
-			html2 += getWikijsHeader(title);
-			html2 += '\r\n';
-			html += getWikijsLinks(prevLink, indexLink, nextLink);
-			// html += `<h1>${title}</h1>\r\n`;
-			if (this.language === 'en') {
+			header += getWikijsHeader(title/*, ['the urantia book—papers']*/);
+			header += '\r\n';
+			body += getWikijsLinks(prevLink, indexLink, nextLink);
+			// body += `<h1>${title}</h1>\r\n`;
+			if (['en', 'es'].includes(this.language)) {
 				stri = (index === 0 ? stri + '_1' : stri);
-				html += `<p style="text-align: center;">\r\n` +
+				body += `<p style="text-align: center;">\r\n` +
 					`<audio controls="controls" preload="none">\r\n` +
-					`<source src="/audio/ub_${stri}.mp3" type="audio/mpeg">\r\n` +
+					`<source src="/audio/audio-${this.language}/ub_${stri}.mp3" type="audio/mpeg">\r\n` +
 					`</audio>\r\n` +
 					`</p>\r\n`;
 			}
@@ -1528,10 +1506,10 @@ class Book {
 					.toUpperCase() : null);
 				const sind = section.section_index;
 				if (stitle) {
-					html += `<h2 id="p${sind}" class="toc-header"> ` +
+					body += `<h2 id="p${sind}" class="toc-header"> ` +
 						`<a href="#p${sind}" class="toc-anchor">¶</a> ${stitle} </h2>\r\n`;
 				} else {
-					html += `<span id="p${sind}"> ` +
+					body += `<span id="p${sind}"> ` +
 						`<a href="#p${sind}" class="toc-anchor">¶</a> </span>\r\n`;
 				}
 
@@ -1554,8 +1532,8 @@ class Book {
 					di = aref[0];
 					si = aref[1];
 					pi = aref[2];
-					html += `<p id="p${si}_${pi}">`;
-					html += `<sup><small>${par.par_ref}</small></sup>  `;
+					body += `<p id="p${si}_${pi}">`;
+					body += `<sup><small>${par.par_ref}</small></sup>  `;
 
 					replaceErr = [];
 					// Urantia Book has a paragraph with `*  *  *` so check here
@@ -1628,29 +1606,29 @@ class Book {
 							`</sup>`);
 						footnoteIndex++;
 					}
-					html += `${pcontent}</p>\r\n`;
+					body += `${pcontent}</p>\r\n`;
 
 					//Image if exists
 					image = imageCatalog.getImageForRef(par.par_ref);
 					if (image) {
-						html += image;
+						body += image;
 					}
 				});
 			});
 
 			//Footer
-			html += '<br/>\r\n';
-			html += getWikijsLinks(prevLink, indexLink, nextLink);
+			body += '<br/>\r\n';
+			body += getWikijsLinks(prevLink, indexLink, nextLink);
 
 			//References section
 			if (wfootnotes.length > 0) {
-				html += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
-				html += '<div style="-moz-column-width: 30em; ' + 
+				body += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
+				body += '<div style="-moz-column-width: 30em; ' + 
 					'-webkit-column-width: 30em; column-width: 30em; ' + 
 					'margin-top: 1em;">\r\n<ol style="margin: 0; ' +
 					'padding-top: 0px;">\r\n';
-				wfootnotes.forEach(f => html += '  ' + f);
-				html += '</ol>\r\n</div>\r\n';
+				wfootnotes.forEach(f => body += '  ' + f);
+				body += '</ol>\r\n</div>\r\n';
 			}
 			
 			if (error) {
@@ -1662,21 +1640,8 @@ class Book {
 			}
 			//Only write if content is new or file not exists
 			//Update date created avoiding a new date for it
-			readFile(filePath)
-				.then(previousLines => {
-					const curLines = (html2 + html).split('\n');
-					const newHeader = fixWikijsHeader(html2, previousLines, 
-						curLines);
-					if (newHeader) {
-						html2 = newHeader;
-						writeFile();
-						return;
-					}
-					resolve(null);
-				})
-				.catch(err2 => {
-					writeFile();
-				});
+			writeHTMLToWikijs(filePath, header, body)
+				.then(resolve, reject);
 		});
 	};
 

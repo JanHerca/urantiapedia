@@ -98,6 +98,8 @@ class ImageCatalog {
 	 */
 	readFileOther = (lines) => {
 		let comment = false;
+		const title2 = `title_${this.language}`;
+		const text2 = `text_${this.language}`;
 		lines.forEach(line => {
 			if (!comment && line.startsWith('<!--')) {
 				comment = true;
@@ -110,12 +112,12 @@ class ImageCatalog {
 					values[0] != 'title' && 
 					values[0].indexOf('---') === -1) {
 					this.images.forEach(s => {
-						const imgs = s.list
-							.filter(i => i.title == values[0]);
-						imgs.forEach(i => {
-							i[`title_${this.language}`] = values[1];
-						});
-
+						s.list
+							.filter(i => i.text == values[0])
+							.forEach(i => i[text2] = values[1]);
+						s.list
+							.filter(i => i.title == values[0])
+							.forEach(i => i[title2] = values[1]);
 					});
 				}
 			}
@@ -144,16 +146,23 @@ class ImageCatalog {
 		let img = null;
 		this.images.find(s => {
 			const i = s.list.find(item => item.ref === ref);
+			const link = (s.path.indexOf('Jesus_life') != -1 ?
+				'Wikimedia' : (s.path.indexOf('Gary_Tonge') != -1 ?
+				'Vision Afar' : 'Link'));
 			if (i && s.path && i.file) {
 				const id = ref.replace(/:|\./g, '_');
+				let text =  (this.language === 'en' ?
+					i.text : i[`text_${this.language}`]) ;
+				text = (text ? text : '');
 				let title =  (this.language === 'en' ?
 					i.title : i[`title_${this.language}`]) ;
 				title = (title ? '<em>' + title + '</em>': '');
 				const author = (i.author && i.author != '' ? i.author : '');
 				const year = (i.year && i.year != '' ? i.year : '');
 				const url = (i.url && i.url != '' ? 
-					`<a href="${i.url}" target="_blank">Wikimedia</a>` : '');
-				const captions = [title, author, year, url].filter(n => n != '');
+					`<a href="${i.url}" target="_blank">${link}</a>` : '');
+				const captions = [text, title, author, year, url]
+					.filter(n => n != '');
 				let footer = '';
 				if (captions.length > 0) {
 					footer = 

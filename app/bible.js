@@ -5,16 +5,6 @@ const BibleAbbs = require('./abb');
 const {extractStr, reflectPromise, extendArray, readFrom, getWikijsHeader, 
 	getWikijsLinks, getWikijsBookRefLink, getError, 
 	writeHTMLToWikijs} = require('./utils');
-// const reflectPromise = require('./utils').reflectPromise;
-// const extendArray = require('./utils').extendArray;
-// const readFrom = require('./utils').readFrom;
-// const readFile = require('./utils').readFile;
-// const writeFile = require('./utils')
-// const getWikijsHeader = require('./utils').getWikijsHeader;
-// const fixWikijsHeader = require('./utils').fixWikijsHeader;
-// const getWikijsLinks = require('./utils').getWikijsLinks;
-// const getWikijsBookRefLink = require('./utils').getWikijsBookRefLink;
-// const getError = require('./utils').getError;
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');

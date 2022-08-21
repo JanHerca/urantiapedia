@@ -51,6 +51,8 @@ Other replacements:
 ì => “
 î => ”
 
+„  ”
+
 Search end of sentences: [\.”\?!] 
 Search by page ref: `"par_pageref": "359.\d+"` in `./input/json/book-e*-footnotes`
 
