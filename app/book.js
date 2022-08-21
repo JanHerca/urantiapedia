@@ -1491,7 +1491,7 @@ class Book {
 				stri = (index === 0 ? stri + '_1' : stri);
 				body += `<p style="text-align: center;">\r\n` +
 					`<audio controls="controls" preload="none">\r\n` +
-					`<source src="/audio/audio-${this.language}/ub_${stri}.mp3" type="audio/mpeg">\r\n` +
+					`<source src="/audio/audio_${this.language}/ub_${stri}.mp3" type="audio/mpeg">\r\n` +
 					`</audio>\r\n` +
 					`</p>\r\n`;
 			}
