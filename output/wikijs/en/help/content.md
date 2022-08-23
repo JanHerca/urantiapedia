@@ -201,7 +201,7 @@ This type of content includes also schemas or drawings with schematics. The are 
 
 ## Topics
 
-These are a type of article related to a specific topic of *The Urantia Book*. For example, a concept like *absonity*, or a person like *Grandfanda*, or a type of being like *Thought Adjusters*, or a place like *Nazareth* or *Orvonton*, an event like *the arrival of Adam and Eve*, and so on.
+These are a type of article related to a specific topic of *The Urantia Book*. For example, could be concepts like [absonity](/en/topic/absonity), or people like [Grandfanda](/en/topic/Grandfanda), or types of beings like [Thought Adjusters](/en/topic/Thought_Adjusters), or places like [Nazareth](/en/topic/Nazareth) or [Orvonton](/en/topic/Orvonton_(superuniverse)), or events like the [arrival of Adam and Eve](/en/topic/Adam#arrival-of-adam-and-eve), etc.
 
 Each topic will have the common sections *References* with links to *The Urantia Book*, *Links* with links to other pages in *Urantiapedia*, and *External links* section for more links outside the page. For example, the page about *Nazareth* can contain a brief and basic explanation about Nazareth (where it is, why it is important, geographic coordinates with links to maps), but the *Links* section can have a link to an article in which a reader delves into the city of Jesus, what it was like in Jesus time and what archaeological finds have been found that seem to corroborate or not the book's claims.
 

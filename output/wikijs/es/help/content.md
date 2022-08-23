@@ -201,7 +201,7 @@ Este tipo de contenido incluye también esquemas o dibujos con esquemas. Hay una
 
 ## Términos
 
-Estos son un tipo especial de artículos relativos a un tema concreto relacionado con *El Libro de Urantia*. Por ejemplo, un concepto como la *absonidad*, o una persona como *Grandfanda*, o un tipo de ser como los *Ajustadores del Pensamiento*, o un lugar como *Nazaret* u *Orvonton*, un evento como *la llegada de Adán y Eva*, etc.
+Estos son un tipo especial de artículos relativos a un tema concreto relacionado con *El Libro de Urantia*. Por ejemplo, podrían ser conceptos como la [absonidad](/es/topic/absonity), o personas como [Grandfanda](/es/topic/Grandfanda), o tipos de seres como los [Ajustadores del Pensamiento](/es/topic/Thought_Adjusters), o lugares como [Nazaret](/es/topic/Nazareth) u [Orvonton](/es/topic/Orvonton_(superuniverse)), o eventos como la [llegada de Adán y Eva](/es/topic/Adam#llegada-de-ad%C3%A1n-y-eva), etc.
 
 Cada término tendrá las secciones habituales de *Referencias* con enlaces a *El Libro de Urantia*, *Enlaces* con enlaces a otras páginas de la *Urantiapedia*. Por ejemplo, la página sobre *Nazaret* puede contener una explicación sucinta y básica sobre Nazaret (qué lugar es, porqué es importante, coordenadas geográficas con enlace a mapas), pero la sección de *Enlaces* puede tener un artículo en el que un lector profundiza sobre la ciudad de Jesús, cómo era en sus tiempos y qué hallazgos arqueológicos se han encontrado que parezcan corroborar o no las afirmaciones del libro.
 
