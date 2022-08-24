@@ -27,7 +27,7 @@ class Book {
 			pars: 'p',
 			languages: ['bg', 'cs', 'da', 'de', 'en', 'es', 'es-1993', 'et',
 				'fi', 'fr', 'hu', 'id', 'it', 'lt', 'nl', 'pl', 'pt', 'ro',
-				'ru', 'sv']
+				'ru', 'sv', 'tr']
 		},
 		{
 			name: 'greek',
@@ -1490,7 +1490,7 @@ class Book {
 			if (['en', 'es'].includes(this.language)) {
 				stri = (index === 0 ? stri + '_1' : stri);
 				body += `<p style="text-align: center;">\r\n` +
-					`<audio controls="controls" preload="none">\r\n` +
+					`<audio controls="controls" style="width:400px" preload="none">\r\n` +
 					`<source src="/audio/audio_${this.language}/ub_${stri}.mp3" type="audio/mpeg">\r\n` +
 					`</audio>\r\n` +
 					`</p>\r\n`;
