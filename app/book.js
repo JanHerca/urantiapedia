@@ -1506,7 +1506,7 @@ class Book {
 					.toUpperCase() : null);
 				const sind = section.section_index;
 				if (stitle) {
-					body += `<h2 id="p${sind}" class="toc-header"> ` +
+					body += `<h2 id="p${sind}" class="toc-header">` +
 						`<a href="#p${sind}" class="toc-anchor">¶</a> ${stitle} </h2>\r\n`;
 				} else {
 					body += `<span id="p${sind}"> ` +
