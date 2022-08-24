@@ -1,0 +1,31 @@
+---
+title: Amos
+description: 
+published: true
+date: 2021-12-08T13:55:38.362Z
+tags: 
+editor: markdown
+dateCreated: 2021-11-28T13:55:38.362Z
+---
+
+The Book of Amos is the third of the Twelve Minor Prophets in the Old Testament (Tanakh) and the second in the Greek Septuagint tradition. Amos, an older contemporary of Hosea and Isaiah, was active c. 750 BC during the reign of Jeroboam II (788–747 BC) of Samaria (aka. Northern Israel), making Amos the first prophetic book of the Bible to be written. Amos lived in the kingdom of Judah but preached in the northern kingdom of Israel. His major themes of social justice, God's omnipotence, and divine judgment became staples of prophecy.
+
+## Index
+
+- [Chapter 1](/Bible/Amos/1)
+- [Chapter 2](/Bible/Amos/2)
+- [Chapter 3](/Bible/Amos/3)
+- [Chapter 4](/Bible/Amos/4)
+- [Chapter 5](/Bible/Amos/5)
+- [Chapter 6](/Bible/Amos/6)
+- [Chapter 7](/Bible/Amos/7)
+- [Chapter 8](/Bible/Amos/8)
+- [Chapter 9](/Bible/Amos/9)
+
+
+[Full Index of The Bible](/en/index/bible)
+
+
+## External links
+
+- https://en.wikipedia.org/wiki/Book_of_Amos
