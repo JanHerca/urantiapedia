@@ -3,423 +3,516 @@ This file contains only translations of different texts
 Main tables are in /input/markdown/en/image_catalog.md
 -->
 
-| title                                                                           | translation                                                                   |
-| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| A Holy Woman Wipes the Face of Jesus                                            | Pyhä nainen pyyhkii Jeesuksen kasvot                                          |
-| A lesson in humility                                                            | Nöyryyden oppitunti                                                           |
-| A Woman Cries Out in a Crowd                                                    | Nainen huutaa väkijoukossa                                                    |
-| Address to Saint Philip                                                         | Osoite Saint Philipille                                                       |
-| Agnus-Dei: The Scapegoat                                                        | Agnus-Dei: Apupukki                                                           |
-| All the City Was Gathered at His Door                                           | Koko kaupunki oli kokoontunut Hänen ovelleen                                  |
-| Angel and the Shepherds                                                         | Enkeli ja paimenet                                                            |
-| Angels Holding a Dial Indicating the Different Hours of the Acts of the Passion | Enkelit pitelevät kellotaulua, joka osoittaa intohimon tekojen eri tunteja    |
-| Anguish                                                                         | Ahdistus                                                                      |
-| Annas and Caiaphas                                                              | Hannas ja Kaifas                                                              |
-| Anointing of Jesus                                                              | Jeesuksen voitelu                                                             |
-| Barabbas                                                                        | Barabbas                                                                      |
-| Bartimaeus                                                                      | Bartimeus                                                                     |
-| Birds-Eye View of the Forum                                                     | Foorumi lintuperspektiivistä                                                  |
-| Burial of Christ                                                                | Kristuksen hautaaminen                                                        |
-| But No Man Laid Hands Upon Him                                                  | Mutta kukaan ei pannut kätensä häneen                                         |
-| Calming a storm                                                                 | Myrskyn tyynnyttäminen                                                        |
-| Christ and Mary Magdalene                                                       | Kristus ja Maria Magdaleena                                                   |
-| Christ And The Rich Young Ruler                                                 | Kristus ja rikas nuori hallitsija                                             |
-| Christ Appears on the Shore of Lake Tiberias                                    | Kristus ilmestyy Tiberias-järven rannalle                                     |
-| Christ at the Cross                                                             | Kristus ristillä                                                              |
-| Christ Carried Down to the Tomb                                                 | Kristus kannettiin haudalle                                                   |
-| Christ healing the sick                                                         | Kristus parantaa sairaita                                                     |
-| Christ in the Storm on the Sea of Galilee                                       | Kristus myrskyssä Galileanmerellä                                             |
-| Christ in the Wilderness                                                        | Kristus erämaassa                                                             |
-| Christ on the Cross                                                             | Kristus ristillä                                                              |
-| Christ on the Sea of Galilee                                                    | Kristus Galileanmerellä                                                       |
-| Conspiracy of the Jews                                                          | Juutalaisten salaliitto                                                       |
-| Consummatum Est                                                                 | Consummatum Est                                                               |
-| Crucified Christ                                                                | Ristiinnaulittu Kristus                                                       |
-| Crucifixion                                                                     | Ristiinnaulitseminen                                                          |
-| Curses Against the Pharisees                                                    | Kirouksia fariseuksia vastaan ​​                                              |
-| Ecce homo                                                                       | Ecce homo                                                                     |
-| Elisabeth                                                                       | Elisabeth                                                                     |
-| Entry into Jerusalem                                                            | Pääsy Jerusalemiin                                                            |
-| Feed My Lambs                                                                   | Feed My Lambs                                                                 |
-| Feeding the multitude                                                           | Ruokkimassa ihmisiä                                                           |
-| Flight into Egypt                                                               | Lento Egyptiin                                                                |
-| Get Thee Behind Me Satan                                                        | Hanki sinut taakseni Saatana                                                  |
-| Gethsemane                                                                      | Getsemane                                                                     |
-| He Heals the Lame                                                               | Hän parantaa ramman                                                           |
-| He Sent them out Two by Two                                                     | Hän lähetti ne kaksi kerrallaan                                               |
-| He Vanished from Their Sight                                                    | Hän katosi heidän näkyvistään                                                 |
-| He Went on His Way to Ephraim                                                   | Hän lähti matkalle Efraimiin                                                  |
-| He Went Through the Villages                                                    | Hän kulki kylien läpi                                                         |
-| He Who is of God Hears the Word of God                                          | Hän, joka on Jumalasta, kuulee Jumalan sanan                                  |
-| He Who Winnows His Wheat                                                        | Hän, joka voittaa vehnänsä                                                    |
-| Healing the sick                                                                | Sairaiden parantaminen                                                        |
-| Herod                                                                           | Herodes                                                                       |
-| I have fought a good fight                                                      | Olen taistellut hyvän taistelun                                               |
-| I Thirst: The Vinegar Given to Jesus                                            | Jano: Jeesukselle annettu etikka                                              |
-| In the Villages the Sick Were Presented to Him                                  | Kylissä sairaita esiteltiin hänelle                                           |
-| Interview between Jesus and Nicodemus                                           | Jeesuksen ja Nikodeemuksen haastattelu                                        |
-| Jerusalem Jerusalem                                                             | Jerusalem Jerusalem                                                           |
-| Jerusalem pilgrims                                                              | Jerusalemin pyhiinvaeltajat                                                   |
-| Jesus Alone on the Cross                                                        | Jeesus yksin ristillä                                                         |
-| Jesus Amidst The Doctors In The Temple                                          | Jeesus temppelin lääkäreiden keskellä                                         |
-| Jesus Among the Doctors                                                         | Jeesus lääkäreiden joukossa                                                   |
-| Jesus and his Mother at the Fountain                                            | Jeesus ja hänen äitinsä lähteellä                                             |
-| Jesus and Nicodemus                                                             | Jeesus ja Nikodemus                                                           |
-| Jesus and the Little Child                                                      | Jeesus ja pieni lapsi                                                         |
-| Jesus Appears to Mary Magdalene                                                 | Jeesus ilmestyy Maria Magdalenalle                                            |
-| Jesus appears to the disciples                                                  | Jeesus ilmestyy opetuslapsille                                                |
-| Jesus Appears to the Holy Women                                                 | Jeesus ilmestyy pyhille naisille                                              |
-| Jesus at Pilate's court                                                         | Jeesus Pilatuksen hovissa                                                     |
-| Jesus Bearing the Cross                                                         | Jeesus kantaa ristiä                                                          |
-| Jesus Before Herod                                                              | Jeesus Herodeksen edessä                                                      |
-| Jesus Before Pilate - First Interview                                           | Jeesus Pilatuksen edessä - Ensimmäinen haastattelu                            |
-| Jesus Before Pilate - Second Interview                                          | Jeesus Pilatuksen edessä - Toinen haastattelu                                 |
-| Jesus Being Crucified                                                           | Jeesus ristiinnaulitaan                                                       |
-| Jesus calls Levi                                                                | Jeesus kutsuu Leeviä                                                          |
-| Jesus Carried to the Tomb                                                       | Jeesus kannettiin haudalle                                                    |
-| Jesus Carried up to a Pinnacle of the Temple                                    | Jeesus kannettiin temppelin huipulle                                          |
-| Jesus Casts Out The Money Changers                                              | Jeesus karkottaa rahanvaihtajat                                               |
-| Jesus Chases a Possessed Man                                                    | Jeesus jahtaa riivattua miestä                                                |
-| Jesus Commands the Apostles to Rest                                             | Jeesus käskee apostoleja lepäämään                                            |
-| Jesus Discourses with His Disciples                                             | Jeesus keskustelee opetuslastensa kanssa                                      |
-| Jesus Falls Beneath the Cross                                                   | Jeesus putoaa ristin alle                                                     |
-| Jesus Forbids the Carrying of Loads                                             | Jeesus kieltää kuormien kantamisen                                            |
-| Jesus Found in the Temple                                                       | Jeesus löydettiin temppelistä                                                 |
-| Jesus Goes in the Evening to Bethany                                            | Jeesus menee illalla Betaniaan                                                |
-| Jesus Goes Up Alone onto a Mountain to Pray                                     | Jeesus nousee yksin vuorelle rukoilemaan                                      |
-| Jesus Heals a Mute Possessed Man                                                | Jeesus parantaa mykkärin miehen                                               |
-| Jesus Heals the Blind and Lame on the Mountain                                  | Jeesus parantaa sokeita ja rampoja vuorella                                   |
-| Jesus Heals The Widow of Nains Son                                              | Jeesus parantaa Nainsin lesken pojan                                          |
-| Jesus in the house of Annas                                                     | Jeesus Hannaksen talossa                                                      |
-| Jesus in the Sepulchre                                                          | Jeesus haudassa                                                               |
-| Jesus in way to Getsemani                                                       | Jeesus matkalla Getsemaniin                                                   |
-| Jesus Leaves the Praetorium                                                     | Jeesus lähtee preetoriosta                                                    |
-| Jesus Led from Caiaphas to Pilate                                               | Jeesus johti Kaifasta Pilatukseen                                             |
-| Jesus Led from Herod to Pilate                                                  | Jeesus johti Herodekselta Pilatukselle                                        |
-| Jesus Mary Magdalene and Martha at Bethany                                      | Jeesus Maria Magdaleena ja Martta Betaniassa                                  |
-| Jesus Meets His Mother                                                          | Jeesus tapaa äitinsä                                                          |
-| Jesus Ministered to by Angels                                                   | Enkelit palvelivat Jeesusta                                                   |
-| Jesus Preaches in a Ship                                                        | Jeesus saarnaa laivassa                                                       |
-| Jesus Sleeping During the Tempest                                               | Jeesus nukkuu myrskyn aikana                                                  |
-| Jesus Speaks Near the Treasury                                                  | Jeesus puhuu lähellä aarrekammiota                                            |
-| Jesus Stilling the Tempest                                                      | Jeesus pysäyttää myrskyn                                                      |
-| Jesus Stripped of His Clothing                                                  | Jeesus riisuttu vaatteensa                                                    |
-| Jesus Taken from the Cistern                                                    | Jeesus otettu vesisäiliöstä                                                   |
-| Jesus Teaches in the Synagogues                                                 | Jeesus opettaa synagogissa                                                    |
-| Jesus Teaches the People by the Sea                                             | Jeesus opettaa ihmisiä meren rannalla                                         |
-| Jesus Teaching on the Sea-Shore                                                 | Jeesus opettaa meren rannalla                                                 |
-| Jesus Tempted                                                                   | Jeesus kiusattiin                                                             |
-| Jesus Tempted in the Wilderness                                                 | Jeesus kiusattu erämaassa                                                     |
-| Jesus Transported by a Spirit onto a High Mountain                              | Hengen kuljettama Jeesus korkealle vuorelle                                   |
-| Jesus Traveling                                                                 | Jeesus matkustaa                                                              |
-| Jesus Unrolls the Book in the Synagogue                                         | Jeesus avaa kirjan synagogassa                                                |
-| Jesus Walks in the Portico of Solomon                                           | Jeesus kävelee Salomon Porticossa                                             |
-| Jesus Walks on the Sea                                                          | Jeesus kävelee merellä                                                        |
-| Jesus Went Out into a Desert Place                                              | Jeesus meni erämaahan                                                         |
-| Jesus Wept                                                                      | Jeesus itki                                                                   |
-| Joseph and Mary arrive at Bethlehem                                             | Joosef ja Maria saapuvat Betlehemiin                                          |
-| Joseph of Arimathaea                                                            | Joosef Arimatialainen                                                         |
-| Joseph of Arimathaea Seeks Pilate to Beg Permission to Remove the Body of Jesus | Joosef Arimatialainen pyytää Pilatusta anomaan lupaa poistaa Jeesuksen ruumis |
-| Journey of the Magi                                                             | Maagien matka                                                                 |
-| Judas Goes to Find the Jews                                                     | Juudas lähtee etsimään juutalaisia ​​                                         |
-| Judas Hangs Himself                                                             | Juudas hirttää itsensä                                                        |
-| Judas Iscariot                                                                  | Juudas Iskariot                                                               |
-| Judas Leaves the Cenacle                                                        | Juudas lähtee Cenaclesta                                                      |
-| Judas Returns the Money                                                         | Juudas palauttaa rahat                                                        |
-| Judas treachery                                                                 | Juudaksen petos                                                               |
-| Last Supper                                                                     | Viimeinen ehtoollinen                                                         |
-| Lazarus                                                                         | Lasarus                                                                       |
-| Lazarus come forth                                                              | Lasarus tulee esiin                                                           |
-| Let Him Be Crucified                                                            | Ristiinnaulitkoon hänet                                                       |
-| Lord I Am Not Worthy                                                            | Herra En ole arvoinen                                                         |
-| Lydia of Thyatira                                                               | Lydia Tyatiralainen                                                           |
-| Magi enters Jerusalem                                                           | Magi saapuu Jerusalemiin                                                      |
-| Magi in the House of Herod                                                      | Tietäjät Herodeksen talossa                                                   |
-| Maltreatments in the House of Caiaphas                                          | Pahoinpitelyt Kaifaan talossa                                                 |
-| Martha                                                                          | Martta                                                                        |
-| Martha and Mary                                                                 | Martha ja Mary                                                                |
-| Mary Magdalene and the Holy Women                                               | Maria Magdaleena ja pyhät naiset                                              |
-| Mary Magdalene at the Feet of Jesus                                             | Maria Magdaleena Jeesuksen jaloissa                                           |
-| Mary Magdalene Questions the Angels                                             | Maria Magdaleena kyselee enkeleitä                                            |
-| Mary sister Lazarus                                                             | Marian sisar Lasarus                                                          |
-| Mater Dolorosa                                                                  | Mater Dolorosa                                                                |
-| Meal of Our Lord and the Apostles                                               | Herramme ja apostolien ateria                                                 |
-| Moses                                                                           | Mooses                                                                        |
-| My God My God why hast thou forsaken me                                         | Jumalani, Jumalani, miksi hylkäsit minut                                      |
-| My Name is Legion                                                               | Nimeni on Legion                                                              |
-| My Soul is Sorrowful unto Death                                                 | Sieluni on murheellinen kuolemaan asti                                        |
-| Nathaniel Under the Fig Tree                                                    | Nataniel viikunapuun alla                                                     |
-| Nicodemus                                                                       | Nikodemus                                                                     |
-| Noli me tangere                                                                 | Noli me tangere                                                               |
-| On Entering the House Salute It                                                 | Sisääntulossa Tervehdi sitä                                                   |
-| On Return from Jerusalem, It is Noticed that Jesus is Lost                      | Jerusalemista palatessa huomataan, että Jeesus on kadonnut                    |
-| Ordaining of the Twelve Apostles                                                | Kahdentoista apostolin asettaminen                                            |
-| Our Lord Jesus Christ                                                           | Herramme Jeesus Kristus                                                       |
-| Pilate Washes His Hands                                                         | Pilatus pesee kätensä                                                         |
-| Portrait of Zacharias and Elizabeth                                             | Sakariaan ja Elisabetin muotokuva                                             |
-| Preparation For The Last Supper                                                 | Valmistautuminen viimeiseen ehtoolliseen                                      |
-| Priscilla, wife of Aquila                                                       | Priscilla, Aquilan vaimo                                                      |
-| Raising of Lazarus                                                              | Lasaruksen herättäminen                                                       |
-| Reconstruction of Golgotha                                                      | Golgatan jälleenrakennus                                                      |
-| Reconstruction of Golgotha and the Holy Sepulchre                               | Golgatan ja pyhän haudan jälleenrakennus                                      |
-| Resurrection of Lazarus                                                         | Lasaruksen ylösnousemus                                                       |
-| Resurrection of the son                                                         | Pojan ylösnousemus                                                            |
-| Return from Egypt                                                               | Paluu Egyptistä                                                               |
-| Road to Emmaus                                                                  | Tie Emmaukseen                                                                |
-| Saint Andrew                                                                    | Pyhä Andreas                                                                  |
-| Saint Anne                                                                      | Pyhä Anna                                                                     |
-| Saint Bartholomew                                                               | Pyhä Bartolomeus                                                              |
-| Saint James Major                                                               | Saint James Major                                                             |
-| Saint James the Less                                                            | Pyhä Jaakob Vähemmän                                                          |
-| Saint John the Baptist and the Pharisees                                        | Pyhä Johannes Kastaja ja fariseukset                                          |
-| Saint John the Baptist Sees Jesus from Afar                                     | Pyhä Johannes Kastaja näkee Jeesuksen kaukaa                                  |
-| Saint John the Evangelist                                                       | Pyhä Johannes evankelista                                                     |
-| Saint Joseph                                                                    | Pyhä Joosef                                                                   |
-| Saint Joseph Seeks a Lodging in Bethlehem                                       | Pyhä Joosef etsii majoitusta Betlehemistä                                     |
-| Saint Luke                                                                      | Pyhä Luukas                                                                   |
-| Saint Mark                                                                      | Pyhä Markus                                                                   |
-| Saint Matthew                                                                   | Pyhä Matteus                                                                  |
-| Saint Paul                                                                      | Saint Paul                                                                    |
-| Saint Peter                                                                     | Pyhä Pietari                                                                  |
-| Saint Peter Alerted by Saint John                                               | Pyhä Pietari varoitti Saint John                                              |
-| Saint Peter and Saint John Follow from Afar                                     | Pyhä Pietari ja Pyhä Johannes seuraavat kaukaa                                |
-| Saint Peter and Saint John Run                                                  | Pyhän Pietarin ja Pyhän Johanneksen juoksu                                    |
-| Saint Peter Walks on the Sea                                                    | Pyhä Pietari kävelee merellä                                                  |
-| Saint Philip                                                                    | Pyhä Philip                                                                   |
-| Saint Simon                                                                     | Pyhä Simon                                                                    |
-| Saint Thaddeus or Saint Jude                                                    | Pyhä Tadeus tai Pyhä Juudas                                                   |
-| Saint Thomas                                                                    | Pyhä Tuomas                                                                   |
-| Sermon On The Mount                                                             | Saarna vuorella                                                               |
-| Simeon                                                                          | Simeon                                                                        |
-| Simon the Cyrenian and His Two Sons                                             | Simon kyreneläinen ja hänen kaksi poikaansa                                   |
-| Simon the Cyrenian Compelled                                                    | Simon kyreniläinen pakko                                                      |
-| Sir what must I do                                                              | Herra mitä minun pitää tehdä                                                  |
-| St. Peter Released from Prison                                                  | St. Peter vapautettiin vankilasta                                             |
-| Suffer the Children                                                             | Kärsi lapset                                                                  |
-| Suffer the Little Children to Come unto Me                                      | Anna pienten lasten tulla luokseni                                            |
-| The Accursed Fig Tree                                                           | Kirottu viikunapuu                                                            |
-| The Adoration of the Magi                                                       | Maagien palvonta                                                              |
-| The Adoration of the Shepherds                                                  | Paimenten palvonta                                                            |
-| The Adulterous Woman                                                            | Avionrikkoja nainen                                                           |
-| The Adulterous Woman Alone with Jesus                                           | Avionrikkoja nainen yksin Jeesuksen kanssa                                    |
-| The Angel Seated on the Stone of the Tomb                                       | Enkeli istuu haudan kivellä                                                   |
-| The Annunciation                                                                | Ilmoitus                                                                      |
-| The Anxiety of Saint Joseph                                                     | Pyhän Joosefin ahdistus                                                       |
-| The Apostles Hiding Place                                                       | Apostolien piilopaikka                                                        |
-| The Appearance of Christ at the Cenacle                                         | Kristuksen ilmestyminen Cenaclessa                                            |
-| The Ascension                                                                   | Ascension                                                                     |
-| The Axe in the Trunk of the Tree                                                | Kirves puun rungossa                                                          |
-| The Bad Rich Man in Hell                                                        | Huono rikas mies helvetissä                                                   |
-| The Baptism of Jesus                                                            | Jeesuksen kaste                                                               |
-| The Baptism of Christ                                                           | Kristuksen kaste                                                              |
-| The Betrothal of the Holy Virgin and Saint Joseph                               | Pyhän Neitsyen ja Pyhän Joosefin kihlaukset                                   |
-| The Betrothed of Cana                                                           | Kaanan kihlattu                                                               |
-| The Birth of Our Lord Jesus Christ                                              | Herramme Jeesuksen Kristuksen syntymä                                         |
-| The Blind and Mute Man Possessed by Devils                                      | Sokea ja mykkä mies paholaisten riivaama                                      |
-| The Blind in the Ditch                                                          | Sokeat ojassa                                                                 |
-| The Blind Man Washes in the Pool of Siloam                                      | Sokea mies peseytyy Siloamin altaassa                                         |
-| The Blind of Capernaum                                                          | Kapernaumin sokea                                                             |
-| The Body of Jesus Carried                                                       | Jeesuksen ruumis kannettiin                                                   |
-| The Bridge of Kedron                                                            | Kedronin silta                                                                |
-| The Brow of the Hill near Nazareth                                              | Kukkulan otsa lähellä Nasaretia                                               |
-| The call of Andrew and Peter                                                    | Andreaksen ja Pietarin kutsu                                                  |
-| The Calling of Saint James and Saint John                                       | Pyhän Jaakobin ja Pyhän Johanneksen kutsumus                                  |
-| The Calling of Saint John and Saint Andrew                                      | Pyhän Johanneksen ja Pyhän Andreaksen kutsumus                                |
-| The Calling of Saint Matthew                                                    | Pyhän Matteuksen kutsumus                                                     |
-| The Calling of Saint Peter and Saint Andrew                                     | Pyhän Pietarin ja Pyhän Andreaksen kutsumus                                   |
-| The Canaanites Daughter                                                         | Kanaanilaisten tytär                                                          |
-| The Centurion                                                                   | Centurion                                                                     |
-| The Chasm in the Rock in the Cave                                               | Kuilu kalliossa luolassa                                                      |
-| The Chief Priests Ask Jesus                                                     | Ylipapit kysyvät Jeesukselta                                                  |
-| The Chief Priests Take Counsel Together                                         | Ylipapit neuvottelevat yhdessä                                                |
-| The Childhood of Saint John the Baptist                                         | Pyhän Johannes Kastajan lapsuus                                               |
-| The Cock Crowed                                                                 | Kukko lauloi                                                                  |
-| The Communion of the Apostles                                                   | Apostolien ehtoollinen                                                        |
-| The Confession of Saint Longinus                                                | Pyhän Longinuksen tunnustus                                                   |
-| The Confession of the Centurion                                                 | Sadanpäämiehen tunnustus                                                      |
-| The Corner Stone                                                                | Kulmakivi                                                                     |
-| The Crowning of Thorns                                                          | Orjantappurien kruunu                                                         |
-| The Crucifixion                                                                 | Ristiinnaulitseminen                                                          |
-| The Daughter of Herodias Dancing                                                | Herodiaan tytär tanssii                                                       |
-| The Daughter of Jairus                                                          | Jairuksen tytär                                                               |
-| The Daughters of Jerusalem                                                      | Jerusalemin tyttäret                                                          |
-| The Dead Appear in Jerusalem                                                    | Kuolleet ilmestyvät Jerusalemiin                                              |
-| The Dead Appear in the Temple                                                   | Kuolleet ilmestyvät temppeliin                                                |
-| The Death of Jesus                                                              | Jeesuksen kuolema                                                             |
-| The Descent from the Cross                                                      | Laskeutuminen ristiltä                                                        |
-| The Disbelief of Saint Thomas                                                   | Pyhän Tuomaan epäusko                                                         |
-| The Disciples Admire the Buildings                                              | Opetuslapset ihailevat rakennuksia                                            |
-| The Disciples Eat Wheat on the Sabbath                                          | Opetuslapset syövät vehnää sapattina                                          |
-| The Disciples Having Left Their Hiding                                          | Opetuslapset jättäneet piilonsa                                               |
-| The Disciples of Jesus Baptize                                                  | Jeesuksen opetuslapset kastavat                                               |
-| The Disciples See Christ Walking on the Water                                   | Opetuslapset näkevät Kristuksen kävelevän veden päällä                        |
-| The Disciples visit tomb                                                        | Opetuslapset vierailevat haudalla                                             |
-| The Ear of Malchus                                                              | Malchuksen korva                                                              |
-| The Earthquake                                                                  | Maanjäristys                                                                  |
-| The Enemy Who Sows                                                              | Vihollinen, joka kylvää                                                       |
-| The ever present                                                                | Aina läsnä oleva                                                              |
-| The Evil Counsel                                                                | Paha neuvo                                                                    |
-| The Exhortation to the Apostles                                                 | Kehotus apostoleille                                                          |
-| The False Witnesses                                                             | Väärät todistajat                                                             |
-| The First Denial of Saint Peter                                                 | Pyhän Pietarin ensimmäinen kieltäminen                                        |
-| The First Nail                                                                  | Ensimmäinen kynsi                                                             |
-| The First Shall Be Last                                                         | Ensimmäinen on viimeinen                                                      |
-| The Five Wedges                                                                 | Viisi kiilaa                                                                  |
-| The Flight into Egypt                                                           | Lento Egyptiin                                                                |
-| The Flight of the Apostles                                                      | Apostolien lento                                                              |
-| The Foal of Bethpage                                                            | Bethpagen varsa                                                               |
-| The Foolish Virgins                                                             | Tyhmät neitsyet                                                               |
-| The Four Guards Sat Down and Watched Him                                        | Neljä vartijaa istui ja katseli häntä                                         |
-| The Garments Divided by Cast Lots                                               | Valuerillä jaetut vaatteet                                                    |
-| The Gentiles Ask to See Jesus                                                   | Pakanat pyytävät nähdä Jeesuksen                                              |
-| The Good Samaritan                                                              | Laupias samarialainen                                                         |
-| The Good Shepherd                                                               | Hyvä paimen                                                                   |
-| The Grotto of the Agony                                                         | Agonyn luola                                                                  |
-| The Guards Falling Backwards                                                    | Vartijat putoavat taaksepäin                                                  |
-| The Head of Saint John the Baptist on a Charger                                 | Pyhän Johannes Kastajan pää laturilla                                         |
-| The Healed Blind Man Tells His Story to the Jews                                | Parannettu sokea mies kertoo tarinansa juutalaisille                          |
-| The Healing of Malchus                                                          | Malchuksen paraneminen                                                        |
-| The Healing of Peters Mother-in-law                                             | Petersin anopin paraneminen                                                   |
-| The Healing of Ten Lepers                                                       | Kymmenen spitaalisen paraneminen                                              |
-| The Healing of the Blind Man                                                    | Sokean miehen paraneminen                                                     |
-| The Healing of the Lepers at Capernaum                                          | Spitaalisten paraneminen Kapernaumissa                                        |
-| The Healing of the Officer's Son                                                | Upseerin pojan paraneminen                                                    |
-| The Hidden Treasure                                                             | Piilotettu aarre                                                              |
-| The Holy Face                                                                   | Pyhät kasvot                                                                  |
-| The Holy Stair                                                                  | Pyhä portaat                                                                  |
-| The Holy Virgin in Her Youth                                                    | Pyhä Neitsyt nuoruudessaan                                                    |
-| The Holy Virgin in Old Age                                                      | Pyhä Neitsyt vanhuudessa                                                      |
-| The Holy Virgin Kisses the Face                                                 | Pyhä Neitsyt suutelee kasvoja                                                 |
-| The Holy Virgin Receives the Body                                               | Pyhä Neitsyt vastaanottaa ruumiin                                             |
-| The Holy Women                                                                  | Pyhät naiset                                                                  |
-| The Holy Women Watch from Afar                                                  | Pyhät naiset katsovat kaukaa                                                  |
-| The Hope of the World                                                           | Maailman toivo                                                                |
-| The Jews Took Up Rocks to Stone Jesus                                           | Juutalaiset ottivat kiviä kivittääkseen Jeesuksen                             |
-| The Judgment of the Sanhedrin                                                   | Sanhedrinin tuomio                                                            |
-| The Judgment on the Gabbatha                                                    | Tuomio Gabbathasta                                                            |
-| The Kiss of Judas                                                               | Juudaksen suudelma                                                            |
-| The Last Sermon of Our Lord                                                     | Herramme viimeinen saarna                                                     |
-| The Last Sigh of Christ                                                         | Kristuksen viimeinen huokaus                                                  |
-| The Last supper                                                                 | Viimeinen illallinen                                                          |
-| The life of Jesus of Nazareth                                                   | Jeesuksen Nasaretilaisen elämä                                                |
-| The little child set in their midst                                             | Pieni lapsi asetettu heidän keskelle                                          |
-| The Lord Wept                                                                   | Herra itki                                                                    |
-| The Lords Prayer                                                                | Herran rukous                                                                 |
-| The Lost Drachma                                                                | Kadonnut drakma                                                               |
-| The Madgalene Runs to the Cenacle                                               | Madgalene juoksee Cenaclelle                                                  |
-| The Magdalene Before Her Conversion                                             | Magdaleena ennen kääntymystä                                                  |
-| The Magnificat                                                                  | Magnificat                                                                    |
-| The Man at the Plough                                                           | Mies auralla                                                                  |
-| The Man Who Hoards                                                              | Mies, joka hamstraa                                                           |
-| The Man with an Infirmity of Thirty-Eight Years                                 | Mies, jolla on vamma 38 vuotta                                                |
-| The Man with the jar of water                                                   | Mies vesipurkin kanssa                                                        |
-| The Man with the Withered Hand                                                  | Mies, jolla on kuihtunut käsi                                                 |
-| The Marriage at Cana                                                            | Avioliitto Canassa                                                            |
-| The Massacre of the Innocents                                                   | Viattomien verilöyly                                                          |
-| The Meal in the House of Matthew                                                | Ateria Matteuksen talossa                                                     |
-| The Meal in the House of the Pharisee                                           | Ateria fariseuksen talossa                                                    |
-| The Merchants Chased from the Temple                                            | Kauppiaat ajoivat takaa temppelistä                                           |
-| The Message of Pilate's Wife                                                    | Pilatuksen vaimon viesti                                                      |
-| The Miracle of the Loaves and Fishes                                            | Leipien ja kalojen ihme                                                       |
-| The Miraculous Draught of Fishes                                                | Kalojen ihmeellinen luonnos                                                   |
-| The Miraculous Haul of Fishes                                                   | Ihmeellinen kaloja                                                            |
-| The Morning Judgment                                                            | Aamun tuomio                                                                  |
-| The Nail for the Feet                                                           | Jalkojen kynsi                                                                |
-| The Ointment of the Magdalene                                                   | Magdalenan voide                                                              |
-| The Palsied Man Let Down through the Roof                                       | Palsoitu mies putosi katon läpi                                               |
-| The Pardon of the Good Thief                                                    | Hyvän varkaan anteeksianto                                                    |
-| The People Seek Jesus to Make Him King                                          | Ihmiset etsivät Jeesusta tehdäkseen Hänestä kuninkaan                         |
-| The Pharisee and the publican                                                   | Fariseus ja publikaani                                                        |
-| The Pharisees and the Herodians Conspire Against Jesus                          | Fariseukset ja herodialaiset tekevät salaliiton Jeesusta vastaan ​​           |
-| The Pharisees and the Saduccees Come to Tempt Jesus                             | Fariseukset ja sadukeukset tulevat kiusaamaan Jeesusta                        |
-| The Pharisees Question Jesus                                                    | Fariseukset kyselevät Jeesusta                                                |
-| The Pilgrims of Emmaus on the Road                                              | Emmauksen pyhiinvaeltajat tiellä                                              |
-| The Piscina Probatica or Pool of Bethesda                                       | Piscina Probatica tai Bethesdan allas                                         |
-| The Poor Lazarus at the Rich Man's Door                                         | Köyhä Lasarus rikkaan miehen ovella                                           |
-| The Possessed Boy at the Foot of Mount Tabor                                    | Riisuttu poika Tabor-vuoren juurella                                          |
-| The Possessed Man in the Synagogue                                              | Riisuttu mies synagogassa                                                     |
-| The Presentation of Jesus in the Temple                                         | Jeesuksen esitys temppelissä                                                  |
-| The Primacy of Saint Peter                                                      | Pyhän Pietarin ensisijaisuus                                                  |
-| The Procession in the Streets                                                   | Kulkue kaduilla                                                               |
-| The Procession in the Temple                                                    | Kulkue temppelissä                                                            |
-| The Procession Nearing Calvary                                                  | Kulkue lähestyy Golgatata                                                     |
-| The Procession of Judas                                                         | Juudaksen kulkue                                                              |
-| The Procession on the Mount of Olives                                           | Kulkue Öljymäellä                                                             |
-| The Prodigal Son                                                                | Tuhlaajapoika                                                                 |
-| The Prodigal Son Begging                                                        | Tuhlaajapoika kerjäämässä                                                     |
-| The Prophecy of the Destruction of the Temple                                   | Profetia temppelin tuhosta                                                    |
-| The Protestations of Saint Peter                                                | Pyhän Pietarin protestit                                                      |
-| The raising of the cross                                                        | Ristin nostaminen                                                             |
-| The Repentant Mary Magdalene                                                    | Katuva Maria Magdaleena                                                       |
-| The Resurrection                                                                | Ylösnousemus                                                                  |
-| The Resurrection heralds                                                        | Ylösnousemuksen saarnaajat                                                    |
-| The Resurrection Of Christ                                                      | Kristuksen ylösnousemus                                                       |
-| The Resurrection of the Widows Son at Nain                                      | Leskien pojan ylösnousemus Nainissa                                           |
-| The Return of the Prodigal Son                                                  | Tuhlaajapojan paluu                                                           |
-| The Rich Young Man Went Away Sorrowful                                          | Rikas nuori mies lähti surullisena                                            |
-| The rich young ruler                                                            | Rikas nuori hallitsija                                                        |
-| The Scourging on the Back                                                       | Ruoskiminen selässä                                                           |
-| The Scourging on the Front                                                      | Ruoskiminen edessä                                                            |
-| The Scribe Stood to Tempt Jesus                                                 | Kirjanoppinut seisoi kiusaamassa Jeesusta                                     |
-| The Second Denial of Saint Peter                                                | Pyhän Pietarin toinen kieltäminen                                             |
-| The Second Miraculous Draught of Fishes                                         | Toinen ihmeellinen kalaluonnos                                                |
-| The Sermon of the Beatitudes                                                    | Autuaiden saarna                                                              |
-| The Sermon on the Mount                                                         | Vuorisaarna                                                                   |
-| The Shepherds and the Angel                                                     | Paimenet ja enkeli                                                            |
-| The Sick Awaiting the Passage of Jesus                                          | Sairaat odottavat Jeesuksen kuolemaa                                          |
-| The Sojourn in Egypt                                                            | Vierailu Egyptissä                                                            |
-| The Son of the Vineyard                                                         | Viinitarhan poika                                                             |
-| The Sorrow of Saint Peter                                                       | Pyhän Pietarin suru                                                           |
-| The Sorrowful Mother                                                            | Surullinen äiti                                                               |
-| The Soul of the Good Thief                                                      | Hyvän varkaan sielu                                                           |
-| The Sower                                                                       | Kylväjä                                                                       |
-| The Strike of the Lance                                                         | The Strike of the Lance                                                       |
-| The Swine Driven into the Sea                                                   | Mereen ajetut siat                                                            |
-| The Temptation in the Wilderness                                                | Kiusaus erämaassa                                                             |
-| The Testing of the Suitors of the Holy Virgin                                   | Pyhän Neitsyen kosijoiden koe                                                 |
-| The Thieves Legs Are Broken                                                     | Varkaiden jalat rikki                                                         |
-| The Third Denial of Peter                                                       | Pietarin kolmas kieltäminen                                                   |
-| The Title on the Cross                                                          | Otsikko ristillä                                                              |
-| The Torn Cloak                                                                  | Revitty viitta                                                                |
-| The Tower of Siloam                                                             | Siloamin torni                                                                |
-| The transfiguration                                                             | Muutos                                                                        |
-| The Tribunal of Annas                                                           | Annaksen tuomioistuin                                                         |
-| The Tribute Money                                                               | Tribute Money                                                                 |
-| The Two Blind Men at Jericho                                                    | Kaksi sokeaa Jerikossa                                                        |
-| The Two Marys Watch the Tomb                                                    | Kaksi Mariaa katsovat hautaa                                                  |
-| The Two Men Possessed with Devils                                               | Kaksi paholaisten riivaamaa miestä                                            |
-| The Two Women at the Mill                                                       | Kaksi naista tehtaalla                                                        |
-| The Vase of Myrrh and Gall                                                      | Myrrhin ja Gallin maljakko                                                    |
-| The Vine Dresser and the Fig Tree                                               | Vine Dresser ja viikunapuu                                                    |
-| The Vision of Saint Joseph                                                      | Pyhän Joosefin näky                                                           |
-| The Vision of Zacharias                                                         | Sakariaan visio                                                               |
-| The Visitation                                                                  | Vierailu                                                                      |
-| The Voice from on High                                                          | Ääni korkealta                                                                |
-| The Voice in the Desert                                                         | Ääni autiomaassa                                                              |
-| The Washing of the Feet                                                         | Jalkojen pesu                                                                 |
-| The Watch Over the Tomb                                                         | Vartio haudasta                                                               |
-| The wedding at Cana                                                             | Häät Canassa                                                                  |
-| The Widows Mite                                                                 | The Widows Mite                                                               |
-| The Wise Virgins                                                                | Viisaat neitsyet                                                              |
-| The Woman of Canaan                                                             | Kanaanin nainen                                                               |
-| The Woman of Samaria at the Well (Nalda the samaritan)                          | Samarialainen nainen kaivolla (Nalda samarialainen)                           |
-| The Woman with an Infirmity of Eighteen Years                                   | Nainen, jolla on 18 vuoden sairaus                                            |
-| The Woman with an Issue of Blood                                                | Nainen, jolla on veriongelma                                                  |
-| The Youth of Jesus                                                              | Jeesuksen nuoriso                                                             |
-| They Dressed Him in His Own Garments                                            | He pukivat hänet omiin vaatteisiinsa                                          |
-| Three hundred and sixty-five                                                    | Kolmesataakuusikymmentäviisi                                                  |
-| Touch Me Not                                                                    | Älä kosketa minua                                                             |
-| Transfiguration                                                                 | Muutos                                                                        |
-| Two or Three Gathered in my Name                                                | Kaksi tai kolme kokoontunut minun nimessäni                                   |
-| What is truth?                                                                  | Mikä on totuus?                                                               |
-| What Our Lord Saw from the Cross                                                | Mitä Herramme näki ristiltä                                                   |
-| With Passover Approaching, Jesus Goes Up to Jerusalem                           | Pääsiäisen lähestyessä Jeesus menee ylös Jerusalemiin                         |
-| Woe unto You Scribes and Pharisees                                              | Voi teitä kirjanoppineet ja fariseukset                                       |
-| Woman at the Sepulchre                                                          | Nainen haudalla                                                               |
-| Woman at the Well (Nalda the samaritan)                                         | Nainen kaivolla (Nalda samarialainen)                                         |
-| You Could Not Watch One Hour                                                    | Et voinut katsoa yhtä tuntia                                                  |
-| You Follow Me for the Miracles                                                  | Seuraat minua ihmeiden puolesta                                               |
-| Zacchaeus in the Sycamore Awaiting the Passage of Jesus                         | Sakkeus Sycamoressa odottamassa Jeesuksen matkaa                              |
-| Zachaeus in tree                                                                | Sakkeus puussa                                                                |
-| Zacharias Killed Between the Temple and the Altar                               | Sakarias tapettiin temppelin ja alttarin välissä                              |
-| Jesus face                                                                      | Jeesuksen kasvot                                                              |
+| title                                                                                          | translation                                                                                                |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Paradise and Sacred Spheres                                                                    | Paratiisi ja pyhät sfäärit                                                                                 |
+| Havona worlds                                                                                  | Havonan maailmat                                                                                           |
+| The Gran Universe                                                                              | Gran Universe                                                                                              |
+| The Master Universe                                                                            | Mestariuniversumi                                                                                          |
+| The Outer Space Levels                                                                         | Ulkoavaruuden tasot                                                                                        |
+| Edentia, Constellation capital, Norlatiadek                                                    | Edentia, Constellation pääkaupunki, Norlatiadek                                                            |
+| Edentia, 771 total spheres                                                                     | Edentia, yhteensä 771 palloa                                                                               |
+| Edentia, comparison of its satellites with Urantia                                             | Edentia, sen satelliittien vertailu Urantiaan                                                              |
+| Edentia, comparison of its headquarters with our sun                                           | Edentia, sen päämajan vertailu aurinkoomme                                                                 |
+| Seventh Havona Circuit, 250 million or less spheres, possibly 8.8 times larger than Uversa     | Seitsemäs Havona Circuit, 250 miljoonaa tai vähemmän palloa, mahdollisesti 8,8 kertaa suurempi kuin Uversa |
+| Sixth Havona Circuit, more than 214 million spheres, possibly 10.2 times larger than Uversa    | Kuudes Havona Circuit, yli 214 miljoonaa palloa, mahdollisesti 10,2 kertaa suurempi kuin Uversa            |
+| Fifth Havona Circuit, more than 178 million spheres, possibly 12.1 times larger than Uversa    | Viides Havona Circuit, yli 178 miljoonaa palloa, mahdollisesti 12,1 kertaa suurempi kuin Uversa            |
+| Fourth Havona Circuit, more than 142 million spheres, possibly 14.9 times larger than Uversa   | Neljäs Havona Circuit, yli 142 miljoonaa palloa, mahdollisesti 14,9 kertaa suurempi kuin Uversa            |
+| Third Havona Circuit, more than 107 million spheres, possibly 19.8 times larger than Uversa    | Kolmas Havona Circuit, yli 107 miljoonaa palloa, mahdollisesti 19,8 kertaa suurempi kuin Uversa            |
+| Second Havona Circuit, more than 71 million spheres, possibly 29.4 times larger than Uversa    | Toinen Havona Circuit, yli 71 miljoonaa palloa, mahdollisesti 29,4 kertaa suurempi kuin Uversa             |
+| First Havona Circuit, more than 35 million spheres, possibly 58.1 times larger than Uversa     | Ensimmäinen Havona Circuit, yli 35 miljoonaa palloa, mahdollisesti 58,1 kertaa suurempi kuin Uversa        |
+| Seven Havona Circuits comparison                                                               | Seitsemän Havona-piirin vertailu                                                                           |
+| A Sphere of First Havona Circuit compared with a Sacred Sphere                                 | Ensimmäisen Havona-piirin sfääri verrattuna pyhään sfääriin                                                |
+| A Sphere of First Havona Circuit compared with a Sacred Sphere, 8,200 light-years in diameter  | Ensimmäisen Havona-piirin pallo verrattuna pyhään palloon, halkaisijaltaan 8 200 valovuotta                |
+| The 21 Sacred Spheres of Paradise, aprox. 8,200 light-years in diameter                        | Paratiisin 21 pyhää sfääriä, noin Halkaisijaltaan 8200 valovuotta                                          |
+| Jerusem, comparison of its headquarters with our sun                                           | Jerusem, sen päämajan vertailu aurinkoomme                                                                 |
+| Satellites of Jerusem, the Transitional culture worlds                                         | Jerusemin satelliitit, siirtymäkauden kulttuurimaailmat                                                    |
+| Jerusem, System capital of Satania                                                             | Jerusem, Satanian järjestelmän pääkaupunki                                                                 |
+| Jerusem, comparison of its headquarters with our sun, is 100 bigger than Urantia               | Jerusem, sen päämajan vertailu aurinkoomme, on 100 suurempi kuin Urantia                                   |
+| Urantia, Jupiter and our sun compared with Jerusem                                             | Urantia, Jupiter ja aurinkomme verrattuna Jerusemiin                                                       |
+| The Isle of Paradise, viewed from the “east”, compared with Sacred Spheres                     | Paratiisin saari "idästä" katsottuna pyhiin sfääreihin verrattuna                                          |
+| Paradise, aprox. 1.9 million light-years north to south, 1.63 million light-years west to east | Paratiisi, n. 1,9 miljoonaa valovuotta pohjoisesta etelään, 1,63 miljoonaa valovuotta lännestä itään       |
+| The Isle of Paradise, surrounded by Sacred Speheres and Havona Circuits                        | Isle of Paradise, jota ympäröivät pyhät sfäärit ja Havona Circuit                                          |
+| Size comparison of Havona Circuits, Sacred Spheres and Paradise                                | Havonan piirien, pyhien sfäärien ja paratiisin kokovertailu                                                |
+| Size comparison of Havona Circuits (one thousand million), Sacred Spheres (21) and Paradise    | Havona Circuits (tuhat miljoonaa), Sacred Spheres (21) ja Paratiisin kokovertailu                          |
+| Salvington, Nebadon headquarters, 491 total spheres                                            | Salvington, Nebadonin päämaja, yhteensä 491 sfääriä                                                        |
+| Salvington, home world of Michael of Nebadon                                                   | Salvington, Michael of Nebadonin kotimaailma                                                               |
+| Comparison of Urantia and our sun to Salvington headquarters                                   | Urantian ja aurinkomme vertailu Salvingtonin päämajaan                                                     |
+| Umajor The Fifth, capital of Splandon, our major sector                                        | Umajor Viides, päätoimialamme, Splandonin pääkaupunki                                                      |
+| Umajor The Fifth, comparison of headquarters with the orbit of Saturn                          | Umajor The Fifth, päämajan vertailu Saturnuksen kiertoradalle                                              |
+| Satellites of Umajor The Fifth, comparison with our sun                                        | Umajor The Fifth -satelliitit, vertailu aurinkoomme                                                        |
+| Uminor The Third, capital of Ensa, our minor sector                                            | Uminor Kolmas, Ensan pääkaupunki, sivusektorimme                                                           |
+| Uminor The Third satellites and headquarters compared to our sun                               | Uminor Kolmannet satelliitit ja päämaja verrattuna aurinkoomme                                             |
+| Uminor The Third headquarters fits in the space between our sun and Urantia                    | Uminor Kolmas päämaja sopii aurinkomme ja Urantian väliseen tilaan                                         |
+| Uminor The Third, 8 total spheres                                                              | Uminor Kolmas, yhteensä 8 palloa                                                                           |
+| Uminor The Third satellites and headquarters compared to our sun                               | Uminor Kolmannet satelliitit ja päämaja verrattuna aurinkoomme                                             |
+| Uversa, superuniverse capital, Orvonton                                                        | Uversa, superuniversumin pääkaupunki, Orvonton                                                             |
+| Uversa diameter is a little less that 3 times the orbit of Neptune                             | Uversan halkaisija on hieman vähemmän kuin 3 kertaa Neptunuksen kiertorata                                 |
+| Uversa headquaters and satellites, 491 total spheres                                           | Uversan päämaja ja satelliitit, yhteensä 491 sfääriä                                                       |
+| Uversa satellites, the finishing schools of the universes, 1000 times bigger than our sun      | Uversa-satelliitit, universumien loppukoulut, 1000 kertaa aurinkoamme suuremmat                            |
+| Uversa headquarters and its satellites                                                         | Uversan päämaja ja sen satelliitit                                                                         |
+| Edentia, Norlatiadek headquarters                                                              | Edentia, Norlatiadekin pääkonttori                                                                         |
+| Jerusem, Satania headquarters                                                                  | Jerusem, Satanian päämaja                                                                                  |
+| Salvington, Nebadon headquarters                                                               | Salvington, Nebadonin päämaja                                                                              |
+| The Master Universe                                                                            | Mestariuniversumi                                                                                          |
+| Our significant worlds of spiritual growth in the superuniverse of Orvonton                    | Merkittävät henkisen kasvumme maailmamme Orvontonin superuniversumissa                                     |
+| The Master Universe                                                                            | Mestariuniversumi                                                                                          |
+| The Master Universe Map, detail of Orvonton                                                    | Master Universe -kartta, Orvontonin yksityiskohta                                                          |
+| The Master Universe Map, detail of First and Second Outer Space Levels                         | Master Universe -kartta, yksityiskohta ensimmäisestä ja toisesta ulkoavaruuden tasosta                     |
+| The Master Universe Map, detail of distances (not at linear scale)                             | Master Universe -kartta, yksityiskohdat etäisyyksistä (ei lineaarisessa mittakaavassa)                     |
+| The Master Universe Map, detail of vertical cross (not at linear scale)                        | Master Universe -kartta, pystysuoran ristin yksityiskohta (ei lineaarisessa mittakaavassa)                 |
+| The Master Universe Map, detail of vertical cross of Paradise                                  | Mestariuniversumin kartta, yksityiskohta Paratiisin pystyrististä                                          |
+| Monmatia location in the Local System                                                          | Monmatian sijainti paikallisessa järjestelmässä                                                            |
+| Monmatia, our solar system                                                                     | Monmatia, aurinkokuntamme                                                                                  |
+| The Isle of Paradise                                                                           | Paratiisin saari                                                                                           |
+| Cosmic neighborhood                                                                            | Kosminen naapurusto                                                                                        |
+| Jerusem and the mansion worlds                                                                 | Jerusem ja mansiomaailmat                                                                                  |
+| Emergence of universes                                                                         | Universumien syntyminen                                                                                    |
+| Anova, othe oldest inhabited world of Satania, a satellite of an anormous dark planet          | Anova, Satanian vanhin asuttu maailma, valtavan pimeän planeetan satelliitti                               |
+| Earth formation                                                                                | Maan muodostuminen                                                                                         |
+| Other inhabited worlds in the universe                                                         | Muut asutut maailmat universumissa                                                                         |
+| Greater activities are taking place                                                            | Suurempia aktiviteetteja on luvassa                                                                        |
+| The formation of a solar system                                                                | Aurinkokunnan muodostuminen                                                                                |
+| Anova, an advanced civilization in Satania                                                     | Anova, kehittynyt sivilisaatio Sataniassa                                                                  |
+| A planet in the golden age of light and life                                                   | Planeetta valon ja elämän kultakaudella                                                                    |
+| Jerusem, the center of the circles of the ascending mortals, with a reproduction of Edentia    | Jerusem, ylösnousevien kuolevaisten ympyröiden keskus, jossa on Edentian kopio                             |
+| Urantia Book cosmology                                                                         | Urantia-kirjan kosmologia                                                                                  |
+| Architectural Spheres of Ascension                                                             | Ascensionin arkkitehtoniset sfäärit                                                                        |
+| The Master Universe Map                                                                        | Mestariuniversumin kartta                                                                                  |
+| Our Cosmic Neighborhood                                                                        | Kosminen naapurustomme                                                                                     |
+| Cosmic Jesus                                                                                   | Kosminen Jeesus                                                                                            |
+| Higher Consciousness                                                                           | Korkeampi Tietoisuus                                                                                       |
+| Jerusem                                                                                        | Jerusem                                                                                                    |
+| Resurrection morning                                                                           | Ylösnousemuksen aamu                                                                                       |
+| Revelation                                                                                     | Paljastus                                                                                                  |
+| Trinity                                                                                        | Kolminaisuus                                                                                               |
+| Prometheus                                                                                     | Prometheus                                                                                                 |
+| Visions of our place in the heavens                                                            | Visioita paikastamme taivaassa                                                                             |
+| Light and Life                                                                                 | Valo ja Elämä                                                                                              |
+| Visions of other worlds                                                                        | Visioita muista maailmoista                                                                                |
+| Embrace                                                                                        | Omaksua                                                                                                    |
+| Antares                                                                                        | Antares                                                                                                    |
+| Angona approaches our sun                                                                      | Angona lähestyy aurinkoamme                                                                                |
+| Earth from space                                                                               | Maa avaruudesta                                                                                            |
+| α Scorpii and Rho Ophiuchi cloud complex                                                       | α Scorpii ja Rho Ophiuchi pilvikompleksi                                                                   |
+| The solar interior                                                                             | Aurinkoenergian sisustus                                                                                   |
+| Crab Nebula                                                                                    | Rapusumu                                                                                                   |
+| Planet nine                                                                                    | Planeetta yhdeksän                                                                                         |
+| A Holy Woman Wipes the Face of Jesus                                                           | Pyhä nainen pyyhkii Jeesuksen kasvot                                                                       |
+| A lesson in humility                                                                           | Nöyryyden oppitunti                                                                                        |
+| A Woman Cries Out in a Crowd                                                                   | Nainen huutaa väkijoukossa                                                                                 |
+| Address to Saint Philip                                                                        | Osoite Saint Philipille                                                                                    |
+| Agnus-Dei: The Scapegoat                                                                       | Agnus-Dei: Apupukki                                                                                        |
+| All the City Was Gathered at His Door                                                          | Koko kaupunki oli kokoontunut Hänen ovelleen                                                               |
+| Angel and the Shepherds                                                                        | Enkeli ja paimenet                                                                                         |
+| Angels Holding a Dial Indicating the Different Hours of the Acts of the Passion                | Enkelit pitelevät kellotaulua, joka osoittaa intohimon tekojen eri tunteja                                 |
+| Anguish                                                                                        | Ahdistus                                                                                                   |
+| Annas and Caiaphas                                                                             | Hannas ja Kaifas                                                                                           |
+| Anointing of Jesus                                                                             | Jeesuksen voitelu                                                                                          |
+| Barabbas                                                                                       | Barabbas                                                                                                   |
+| Bartimaeus                                                                                     | Bartimeus                                                                                                  |
+| Birds-Eye View of the Forum                                                                    | Foorumi lintuperspektiivistä                                                                               |
+| Burial of Christ                                                                               | Kristuksen hautaaminen                                                                                     |
+| But No Man Laid Hands Upon Him                                                                 | Mutta kukaan ei pannut kätensä häneen                                                                      |
+| Calming a storm                                                                                | Myrskyn tyynnyttäminen                                                                                     |
+| Christ and Mary Magdalene                                                                      | Kristus ja Maria Magdaleena                                                                                |
+| Christ And The Rich Young Ruler                                                                | Kristus ja rikas nuori hallitsija                                                                          |
+| Christ Appears on the Shore of Lake Tiberias                                                   | Kristus ilmestyy Tiberias-järven rannalle                                                                  |
+| Christ at the Cross                                                                            | Kristus ristillä                                                                                           |
+| Christ Carried Down to the Tomb                                                                | Kristus kannettiin haudalle                                                                                |
+| Christ healing the sick                                                                        | Kristus parantaa sairaita                                                                                  |
+| Christ in the Storm on the Sea of Galilee                                                      | Kristus myrskyssä Galileanmerellä                                                                          |
+| Christ in the Wilderness                                                                       | Kristus erämaassa                                                                                          |
+| Christ on the Cross                                                                            | Kristus ristillä                                                                                           |
+| Christ on the Sea of Galilee                                                                   | Kristus Galileanmerellä                                                                                    |
+| Conspiracy of the Jews                                                                         | Juutalaisten salaliitto                                                                                    |
+| Consummatum Est                                                                                | Consummatum Est                                                                                            |
+| Crucified Christ                                                                               | Ristiinnaulittu Kristus                                                                                    |
+| Crucifixion                                                                                    | Ristiinnaulitseminen                                                                                       |
+| Curses Against the Pharisees                                                                   | Kirouksia fariseuksia vastaan ​​                                                                           |
+| Ecce homo                                                                                      | Ecce homo                                                                                                  |
+| Elisabeth                                                                                      | Elisabeth                                                                                                  |
+| Entry into Jerusalem                                                                           | Pääsy Jerusalemiin                                                                                         |
+| Feed My Lambs                                                                                  | Feed My Lambs                                                                                              |
+| Feeding the multitude                                                                          | Ruokkimassa ihmisiä                                                                                        |
+| Flight into Egypt                                                                              | Lento Egyptiin                                                                                             |
+| Get Thee Behind Me Satan                                                                       | Hanki sinut taakseni Saatana                                                                               |
+| Gethsemane                                                                                     | Getsemane                                                                                                  |
+| He Heals the Lame                                                                              | Hän parantaa ramman                                                                                        |
+| He Sent them out Two by Two                                                                    | Hän lähetti ne kaksi kerrallaan                                                                            |
+| He Vanished from Their Sight                                                                   | Hän katosi heidän näkyvistään                                                                              |
+| He Went on His Way to Ephraim                                                                  | Hän lähti matkalle Efraimiin                                                                               |
+| He Went Through the Villages                                                                   | Hän kulki kylien läpi                                                                                      |
+| He Who is of God Hears the Word of God                                                         | Hän, joka on Jumalasta, kuulee Jumalan sanan                                                               |
+| He Who Winnows His Wheat                                                                       | Hän, joka voittaa vehnänsä                                                                                 |
+| Healing the sick                                                                               | Sairaiden parantaminen                                                                                     |
+| Herod                                                                                          | Herodes                                                                                                    |
+| I have fought a good fight                                                                     | Olen taistellut hyvän taistelun                                                                            |
+| I Thirst: The Vinegar Given to Jesus                                                           | Jano: Jeesukselle annettu etikka                                                                           |
+| In the Villages the Sick Were Presented to Him                                                 | Kylissä sairaita esiteltiin hänelle                                                                        |
+| Interview between Jesus and Nicodemus                                                          | Jeesuksen ja Nikodeemuksen haastattelu                                                                     |
+| Jerusalem Jerusalem                                                                            | Jerusalem Jerusalem                                                                                        |
+| Jerusalem pilgrims                                                                             | Jerusalemin pyhiinvaeltajat                                                                                |
+| Jesus Alone on the Cross                                                                       | Jeesus yksin ristillä                                                                                      |
+| Jesus Amidst The Doctors In The Temple                                                         | Jeesus temppelin lääkäreiden keskellä                                                                      |
+| Jesus Among the Doctors                                                                        | Jeesus lääkäreiden joukossa                                                                                |
+| Jesus and his Mother at the Fountain                                                           | Jeesus ja hänen äitinsä lähteellä                                                                          |
+| Jesus and Nicodemus                                                                            | Jeesus ja Nikodemus                                                                                        |
+| Jesus and the Little Child                                                                     | Jeesus ja pieni lapsi                                                                                      |
+| Jesus Appears to Mary Magdalene                                                                | Jeesus ilmestyy Maria Magdalenalle                                                                         |
+| Jesus appears to the disciples                                                                 | Jeesus ilmestyy opetuslapsille                                                                             |
+| Jesus Appears to the Holy Women                                                                | Jeesus ilmestyy pyhille naisille                                                                           |
+| Jesus at Pilate's court                                                                        | Jeesus Pilatuksen hovissa                                                                                  |
+| Jesus Bearing the Cross                                                                        | Jeesus kantaa ristiä                                                                                       |
+| Jesus Before Herod                                                                             | Jeesus Herodeksen edessä                                                                                   |
+| Jesus Before Pilate - First Interview                                                          | Jeesus Pilatuksen edessä - Ensimmäinen haastattelu                                                         |
+| Jesus Before Pilate - Second Interview                                                         | Jeesus Pilatuksen edessä - Toinen haastattelu                                                              |
+| Jesus Being Crucified                                                                          | Jeesus ristiinnaulitaan                                                                                    |
+| Jesus calls Levi                                                                               | Jeesus kutsuu Leeviä                                                                                       |
+| Jesus Carried to the Tomb                                                                      | Jeesus kannettiin haudalle                                                                                 |
+| Jesus Carried up to a Pinnacle of the Temple                                                   | Jeesus kannettiin temppelin huipulle                                                                       |
+| Jesus Casts Out The Money Changers                                                             | Jeesus karkottaa rahanvaihtajat                                                                            |
+| Jesus Chases a Possessed Man                                                                   | Jeesus jahtaa riivattua miestä                                                                             |
+| Jesus Commands the Apostles to Rest                                                            | Jeesus käskee apostoleja lepäämään                                                                         |
+| Jesus Discourses with His Disciples                                                            | Jeesus keskustelee opetuslastensa kanssa                                                                   |
+| Jesus Falls Beneath the Cross                                                                  | Jeesus putoaa ristin alle                                                                                  |
+| Jesus Forbids the Carrying of Loads                                                            | Jeesus kieltää kuormien kantamisen                                                                         |
+| Jesus Found in the Temple                                                                      | Jeesus löydettiin temppelistä                                                                              |
+| Jesus Goes in the Evening to Bethany                                                           | Jeesus menee illalla Betaniaan                                                                             |
+| Jesus Goes Up Alone onto a Mountain to Pray                                                    | Jeesus nousee yksin vuorelle rukoilemaan                                                                   |
+| Jesus Heals a Mute Possessed Man                                                               | Jeesus parantaa mykkärin miehen                                                                            |
+| Jesus Heals the Blind and Lame on the Mountain                                                 | Jeesus parantaa sokeita ja rampoja vuorella                                                                |
+| Jesus Heals The Widow of Nains Son                                                             | Jeesus parantaa Nainsin lesken pojan                                                                       |
+| Jesus in the house of Annas                                                                    | Jeesus Hannaksen talossa                                                                                   |
+| Jesus in the Sepulchre                                                                         | Jeesus haudassa                                                                                            |
+| Jesus in way to Getsemani                                                                      | Jeesus matkalla Getsemaniin                                                                                |
+| Jesus Leaves the Praetorium                                                                    | Jeesus lähtee preetoriosta                                                                                 |
+| Jesus Led from Caiaphas to Pilate                                                              | Jeesus johti Kaifasta Pilatukseen                                                                          |
+| Jesus Led from Herod to Pilate                                                                 | Jeesus johti Herodekselta Pilatukselle                                                                     |
+| Jesus Mary Magdalene and Martha at Bethany                                                     | Jeesus Maria Magdaleena ja Martta Betaniassa                                                               |
+| Jesus Meets His Mother                                                                         | Jeesus tapaa äitinsä                                                                                       |
+| Jesus Ministered to by Angels                                                                  | Enkelit palvelivat Jeesusta                                                                                |
+| Jesus Preaches in a Ship                                                                       | Jeesus saarnaa laivassa                                                                                    |
+| Jesus Sleeping During the Tempest                                                              | Jeesus nukkuu myrskyn aikana                                                                               |
+| Jesus Speaks Near the Treasury                                                                 | Jeesus puhuu lähellä aarrekammiota                                                                         |
+| Jesus Stilling the Tempest                                                                     | Jeesus pysäyttää myrskyn                                                                                   |
+| Jesus Stripped of His Clothing                                                                 | Jeesus riisuttu vaatteensa                                                                                 |
+| Jesus Taken from the Cistern                                                                   | Jeesus otettu vesisäiliöstä                                                                                |
+| Jesus Teaches in the Synagogues                                                                | Jeesus opettaa synagogissa                                                                                 |
+| Jesus Teaches the People by the Sea                                                            | Jeesus opettaa ihmisiä meren rannalla                                                                      |
+| Jesus Teaching on the Sea-Shore                                                                | Jeesus opettaa meren rannalla                                                                              |
+| Jesus Tempted                                                                                  | Jeesus kiusattiin                                                                                          |
+| Jesus Tempted in the Wilderness                                                                | Jeesus kiusattu erämaassa                                                                                  |
+| Jesus Transported by a Spirit onto a High Mountain                                             | Hengen kuljettama Jeesus korkealle vuorelle                                                                |
+| Jesus Traveling                                                                                | Jeesus matkustaa                                                                                           |
+| Jesus Unrolls the Book in the Synagogue                                                        | Jeesus avaa kirjan synagogassa                                                                             |
+| Jesus Walks in the Portico of Solomon                                                          | Jeesus kävelee Salomon Porticossa                                                                          |
+| Jesus Walks on the Sea                                                                         | Jeesus kävelee merellä                                                                                     |
+| Jesus Went Out into a Desert Place                                                             | Jeesus meni erämaahan                                                                                      |
+| Jesus Wept                                                                                     | Jeesus itki                                                                                                |
+| Joseph and Mary arrive at Bethlehem                                                            | Joosef ja Maria saapuvat Betlehemiin                                                                       |
+| Joseph of Arimathaea                                                                           | Joosef Arimatialainen                                                                                      |
+| Joseph of Arimathaea Seeks Pilate to Beg Permission to Remove the Body of Jesus                | Joosef Arimatialainen pyytää Pilatusta anomaan lupaa poistaa Jeesuksen ruumis                              |
+| Journey of the Magi                                                                            | Maagien matka                                                                                              |
+| Judas Goes to Find the Jews                                                                    | Juudas lähtee etsimään juutalaisia ​​                                                                      |
+| Judas Hangs Himself                                                                            | Juudas hirttää itsensä                                                                                     |
+| Judas Iscariot                                                                                 | Juudas Iskariot                                                                                            |
+| Judas Leaves the Cenacle                                                                       | Juudas lähtee Cenaclesta                                                                                   |
+| Judas Returns the Money                                                                        | Juudas palauttaa rahat                                                                                     |
+| Judas treachery                                                                                | Juudaksen petos                                                                                            |
+| Last Supper                                                                                    | Viimeinen ehtoollinen                                                                                      |
+| Lazarus                                                                                        | Lasarus                                                                                                    |
+| Lazarus come forth                                                                             | Lasarus tulee esiin                                                                                        |
+| Let Him Be Crucified                                                                           | Ristiinnaulitkoon hänet                                                                                    |
+| Lord I Am Not Worthy                                                                           | Herra En ole arvoinen                                                                                      |
+| Lydia of Thyatira                                                                              | Lydia Tyatiralainen                                                                                        |
+| Magi enters Jerusalem                                                                          | Magi saapuu Jerusalemiin                                                                                   |
+| Magi in the House of Herod                                                                     | Tietäjät Herodeksen talossa                                                                                |
+| Maltreatments in the House of Caiaphas                                                         | Pahoinpitelyt Kaifaan talossa                                                                              |
+| Martha                                                                                         | Martta                                                                                                     |
+| Martha and Mary                                                                                | Martha ja Mary                                                                                             |
+| Mary Magdalene and the Holy Women                                                              | Maria Magdaleena ja pyhät naiset                                                                           |
+| Mary Magdalene at the Feet of Jesus                                                            | Maria Magdaleena Jeesuksen jaloissa                                                                        |
+| Mary Magdalene Questions the Angels                                                            | Maria Magdaleena kyselee enkeleitä                                                                         |
+| Mary sister Lazarus                                                                            | Marian sisar Lasarus                                                                                       |
+| Mater Dolorosa                                                                                 | Mater Dolorosa                                                                                             |
+| Meal of Our Lord and the Apostles                                                              | Herramme ja apostolien ateria                                                                              |
+| Moses                                                                                          | Mooses                                                                                                     |
+| My God My God why hast thou forsaken me                                                        | Jumalani, Jumalani, miksi hylkäsit minut                                                                   |
+| My Name is Legion                                                                              | Nimeni on Legion                                                                                           |
+| My Soul is Sorrowful unto Death                                                                | Sieluni on murheellinen kuolemaan asti                                                                     |
+| Nathaniel Under the Fig Tree                                                                   | Nataniel viikunapuun alla                                                                                  |
+| Nicodemus                                                                                      | Nikodemus                                                                                                  |
+| Noli me tangere                                                                                | Noli me tangere                                                                                            |
+| On Entering the House Salute It                                                                | Sisääntulossa Tervehdi sitä                                                                                |
+| On Return from Jerusalem, It is Noticed that Jesus is Lost                                     | Jerusalemista palatessa huomataan, että Jeesus on kadonnut                                                 |
+| Ordaining of the Twelve Apostles                                                               | Kahdentoista apostolin asettaminen                                                                         |
+| Our Lord Jesus Christ                                                                          | Herramme Jeesus Kristus                                                                                    |
+| Pilate Washes His Hands                                                                        | Pilatus pesee kätensä                                                                                      |
+| Portrait of Zacharias and Elizabeth                                                            | Sakariaan ja Elisabetin muotokuva                                                                          |
+| Preparation For The Last Supper                                                                | Valmistautuminen viimeiseen ehtoolliseen                                                                   |
+| Priscilla, wife of Aquila                                                                      | Priscilla, Aquilan vaimo                                                                                   |
+| Raising of Lazarus                                                                             | Lasaruksen herättäminen                                                                                    |
+| Reconstruction of Golgotha                                                                     | Golgatan jälleenrakennus                                                                                   |
+| Reconstruction of Golgotha and the Holy Sepulchre                                              | Golgatan ja pyhän haudan jälleenrakennus                                                                   |
+| Resurrection of Lazarus                                                                        | Lasaruksen ylösnousemus                                                                                    |
+| Resurrection of the son                                                                        | Pojan ylösnousemus                                                                                         |
+| Return from Egypt                                                                              | Paluu Egyptistä                                                                                            |
+| Road to Emmaus                                                                                 | Tie Emmaukseen                                                                                             |
+| Saint Andrew                                                                                   | Pyhä Andreas                                                                                               |
+| Saint Anne                                                                                     | Pyhä Anna                                                                                                  |
+| Saint Bartholomew                                                                              | Pyhä Bartolomeus                                                                                           |
+| Saint James Major                                                                              | Saint James Major                                                                                          |
+| Saint James the Less                                                                           | Pyhä Jaakob Vähemmän                                                                                       |
+| Saint John the Baptist and the Pharisees                                                       | Pyhä Johannes Kastaja ja fariseukset                                                                       |
+| Saint John the Baptist Sees Jesus from Afar                                                    | Pyhä Johannes Kastaja näkee Jeesuksen kaukaa                                                               |
+| Saint John the Evangelist                                                                      | Pyhä Johannes evankelista                                                                                  |
+| Saint Joseph                                                                                   | Pyhä Joosef                                                                                                |
+| Saint Joseph Seeks a Lodging in Bethlehem                                                      | Pyhä Joosef etsii majoitusta Betlehemistä                                                                  |
+| Saint Luke                                                                                     | Pyhä Luukas                                                                                                |
+| Saint Mark                                                                                     | Pyhä Markus                                                                                                |
+| Saint Matthew                                                                                  | Pyhä Matteus                                                                                               |
+| Saint Paul                                                                                     | Saint Paul                                                                                                 |
+| Saint Peter                                                                                    | Pyhä Pietari                                                                                               |
+| Saint Peter Alerted by Saint John                                                              | Pyhä Pietari varoitti Saint John                                                                           |
+| Saint Peter and Saint John Follow from Afar                                                    | Pyhä Pietari ja Pyhä Johannes seuraavat kaukaa                                                             |
+| Saint Peter and Saint John Run                                                                 | Pyhän Pietarin ja Pyhän Johanneksen juoksu                                                                 |
+| Saint Peter Walks on the Sea                                                                   | Pyhä Pietari kävelee merellä                                                                               |
+| Saint Philip                                                                                   | Pyhä Philip                                                                                                |
+| Saint Simon                                                                                    | Pyhä Simon                                                                                                 |
+| Saint Thaddeus or Saint Jude                                                                   | Pyhä Tadeus tai Pyhä Juudas                                                                                |
+| Saint Thomas                                                                                   | Pyhä Tuomas                                                                                                |
+| Sermon On The Mount                                                                            | Saarna vuorella                                                                                            |
+| Simeon                                                                                         | Simeon                                                                                                     |
+| Simon the Cyrenian and His Two Sons                                                            | Simon kyreneläinen ja hänen kaksi poikaansa                                                                |
+| Simon the Cyrenian Compelled                                                                   | Simon kyreniläinen pakko                                                                                   |
+| Sir what must I do                                                                             | Herra mitä minun pitää tehdä                                                                               |
+| St. Peter Released from Prison                                                                 | St. Peter vapautettiin vankilasta                                                                          |
+| Suffer the Children                                                                            | Kärsi lapset                                                                                               |
+| Suffer the Little Children to Come unto Me                                                     | Anna pienten lasten tulla luokseni                                                                         |
+| The Accursed Fig Tree                                                                          | Kirottu viikunapuu                                                                                         |
+| The Adoration of the Magi                                                                      | Maagien palvonta                                                                                           |
+| The Adoration of the Shepherds                                                                 | Paimenten palvonta                                                                                         |
+| The Adulterous Woman                                                                           | Avionrikkoja nainen                                                                                        |
+| The Adulterous Woman Alone with Jesus                                                          | Avionrikkoja nainen yksin Jeesuksen kanssa                                                                 |
+| The Angel Seated on the Stone of the Tomb                                                      | Enkeli istuu haudan kivellä                                                                                |
+| The Annunciation                                                                               | Ilmoitus                                                                                                   |
+| The Anxiety of Saint Joseph                                                                    | Pyhän Joosefin ahdistus                                                                                    |
+| The Apostles Hiding Place                                                                      | Apostolien piilopaikka                                                                                     |
+| The Appearance of Christ at the Cenacle                                                        | Kristuksen ilmestyminen Cenaclessa                                                                         |
+| The Ascension                                                                                  | Ascension                                                                                                  |
+| The Axe in the Trunk of the Tree                                                               | Kirves puun rungossa                                                                                       |
+| The Bad Rich Man in Hell                                                                       | Huono rikas mies helvetissä                                                                                |
+| The Baptism of Jesus                                                                           | Jeesuksen kaste                                                                                            |
+| The Baptism of Christ                                                                          | Kristuksen kaste                                                                                           |
+| The Betrothal of the Holy Virgin and Saint Joseph                                              | Pyhän Neitsyen ja Pyhän Joosefin kihlaukset                                                                |
+| The Betrothed of Cana                                                                          | Kaanan kihlattu                                                                                            |
+| The Birth of Our Lord Jesus Christ                                                             | Herramme Jeesuksen Kristuksen syntymä                                                                      |
+| The Blind and Mute Man Possessed by Devils                                                     | Sokea ja mykkä mies paholaisten riivaama                                                                   |
+| The Blind in the Ditch                                                                         | Sokeat ojassa                                                                                              |
+| The Blind Man Washes in the Pool of Siloam                                                     | Sokea mies peseytyy Siloamin altaassa                                                                      |
+| The Blind of Capernaum                                                                         | Kapernaumin sokea                                                                                          |
+| The Body of Jesus Carried                                                                      | Jeesuksen ruumis kannettiin                                                                                |
+| The Bridge of Kedron                                                                           | Kedronin silta                                                                                             |
+| The Brow of the Hill near Nazareth                                                             | Kukkulan otsa lähellä Nasaretia                                                                            |
+| The call of Andrew and Peter                                                                   | Andreaksen ja Pietarin kutsu                                                                               |
+| The Calling of Saint James and Saint John                                                      | Pyhän Jaakobin ja Pyhän Johanneksen kutsumus                                                               |
+| The Calling of Saint John and Saint Andrew                                                     | Pyhän Johanneksen ja Pyhän Andreaksen kutsumus                                                             |
+| The Calling of Saint Matthew                                                                   | Pyhän Matteuksen kutsumus                                                                                  |
+| The Calling of Saint Peter and Saint Andrew                                                    | Pyhän Pietarin ja Pyhän Andreaksen kutsumus                                                                |
+| The Canaanites Daughter                                                                        | Kanaanilaisten tytär                                                                                       |
+| The Centurion                                                                                  | Centurion                                                                                                  |
+| The Chasm in the Rock in the Cave                                                              | Kuilu kalliossa luolassa                                                                                   |
+| The Chief Priests Ask Jesus                                                                    | Ylipapit kysyvät Jeesukselta                                                                               |
+| The Chief Priests Take Counsel Together                                                        | Ylipapit neuvottelevat yhdessä                                                                             |
+| The Childhood of Saint John the Baptist                                                        | Pyhän Johannes Kastajan lapsuus                                                                            |
+| The Cock Crowed                                                                                | Kukko lauloi                                                                                               |
+| The Communion of the Apostles                                                                  | Apostolien ehtoollinen                                                                                     |
+| The Confession of Saint Longinus                                                               | Pyhän Longinuksen tunnustus                                                                                |
+| The Confession of the Centurion                                                                | Sadanpäämiehen tunnustus                                                                                   |
+| The Corner Stone                                                                               | Kulmakivi                                                                                                  |
+| The Crowning of Thorns                                                                         | Orjantappurien kruunu                                                                                      |
+| The Crucifixion                                                                                | Ristiinnaulitseminen                                                                                       |
+| The Daughter of Herodias Dancing                                                               | Herodiaan tytär tanssii                                                                                    |
+| The Daughter of Jairus                                                                         | Jairuksen tytär                                                                                            |
+| The Daughters of Jerusalem                                                                     | Jerusalemin tyttäret                                                                                       |
+| The Dead Appear in Jerusalem                                                                   | Kuolleet ilmestyvät Jerusalemiin                                                                           |
+| The Dead Appear in the Temple                                                                  | Kuolleet ilmestyvät temppeliin                                                                             |
+| The Death of Jesus                                                                             | Jeesuksen kuolema                                                                                          |
+| The Descent from the Cross                                                                     | Laskeutuminen ristiltä                                                                                     |
+| The Disbelief of Saint Thomas                                                                  | Pyhän Tuomaan epäusko                                                                                      |
+| The Disciples Admire the Buildings                                                             | Opetuslapset ihailevat rakennuksia                                                                         |
+| The Disciples Eat Wheat on the Sabbath                                                         | Opetuslapset syövät vehnää sapattina                                                                       |
+| The Disciples Having Left Their Hiding                                                         | Opetuslapset jättäneet piilonsa                                                                            |
+| The Disciples of Jesus Baptize                                                                 | Jeesuksen opetuslapset kastavat                                                                            |
+| The Disciples See Christ Walking on the Water                                                  | Opetuslapset näkevät Kristuksen kävelevän veden päällä                                                     |
+| The Disciples visit tomb                                                                       | Opetuslapset vierailevat haudalla                                                                          |
+| The Ear of Malchus                                                                             | Malchuksen korva                                                                                           |
+| The Earthquake                                                                                 | Maanjäristys                                                                                               |
+| The Enemy Who Sows                                                                             | Vihollinen, joka kylvää                                                                                    |
+| The ever present                                                                               | Aina läsnä oleva                                                                                           |
+| The Evil Counsel                                                                               | Paha neuvo                                                                                                 |
+| The Exhortation to the Apostles                                                                | Kehotus apostoleille                                                                                       |
+| The False Witnesses                                                                            | Väärät todistajat                                                                                          |
+| The First Denial of Saint Peter                                                                | Pyhän Pietarin ensimmäinen kieltäminen                                                                     |
+| The First Nail                                                                                 | Ensimmäinen kynsi                                                                                          |
+| The First Shall Be Last                                                                        | Ensimmäinen on viimeinen                                                                                   |
+| The Five Wedges                                                                                | Viisi kiilaa                                                                                               |
+| The Flight into Egypt                                                                          | Lento Egyptiin                                                                                             |
+| The Flight of the Apostles                                                                     | Apostolien lento                                                                                           |
+| The Foal of Bethpage                                                                           | Bethpagen varsa                                                                                            |
+| The Foolish Virgins                                                                            | Tyhmät neitsyet                                                                                            |
+| The Four Guards Sat Down and Watched Him                                                       | Neljä vartijaa istui ja katseli häntä                                                                      |
+| The Garments Divided by Cast Lots                                                              | Valuerillä jaetut vaatteet                                                                                 |
+| The Gentiles Ask to See Jesus                                                                  | Pakanat pyytävät nähdä Jeesuksen                                                                           |
+| The Good Samaritan                                                                             | Laupias samarialainen                                                                                      |
+| The Good Shepherd                                                                              | Hyvä paimen                                                                                                |
+| The Grotto of the Agony                                                                        | Agonyn luola                                                                                               |
+| The Guards Falling Backwards                                                                   | Vartijat putoavat taaksepäin                                                                               |
+| The Head of Saint John the Baptist on a Charger                                                | Pyhän Johannes Kastajan pää laturilla                                                                      |
+| The Healed Blind Man Tells His Story to the Jews                                               | Parannettu sokea mies kertoo tarinansa juutalaisille                                                       |
+| The Healing of Malchus                                                                         | Malchuksen paraneminen                                                                                     |
+| The Healing of Peters Mother-in-law                                                            | Petersin anopin paraneminen                                                                                |
+| The Healing of Ten Lepers                                                                      | Kymmenen spitaalisen paraneminen                                                                           |
+| The Healing of the Blind Man                                                                   | Sokean miehen paraneminen                                                                                  |
+| The Healing of the Lepers at Capernaum                                                         | Spitaalisten paraneminen Kapernaumissa                                                                     |
+| The Healing of the Officer's Son                                                               | Upseerin pojan paraneminen                                                                                 |
+| The Hidden Treasure                                                                            | Piilotettu aarre                                                                                           |
+| The Holy Face                                                                                  | Pyhät kasvot                                                                                               |
+| The Holy Stair                                                                                 | Pyhä portaat                                                                                               |
+| The Holy Virgin in Her Youth                                                                   | Pyhä Neitsyt nuoruudessaan                                                                                 |
+| The Holy Virgin in Old Age                                                                     | Pyhä Neitsyt vanhuudessa                                                                                   |
+| The Holy Virgin Kisses the Face                                                                | Pyhä Neitsyt suutelee kasvoja                                                                              |
+| The Holy Virgin Receives the Body                                                              | Pyhä Neitsyt vastaanottaa ruumiin                                                                          |
+| The Holy Women                                                                                 | Pyhät naiset                                                                                               |
+| The Holy Women Watch from Afar                                                                 | Pyhät naiset katsovat kaukaa                                                                               |
+| The Hope of the World                                                                          | Maailman toivo                                                                                             |
+| The Jews Took Up Rocks to Stone Jesus                                                          | Juutalaiset ottivat kiviä kivittääkseen Jeesuksen                                                          |
+| The Judgment of the Sanhedrin                                                                  | Sanhedrinin tuomio                                                                                         |
+| The Judgment on the Gabbatha                                                                   | Tuomio Gabbathasta                                                                                         |
+| The Kiss of Judas                                                                              | Juudaksen suudelma                                                                                         |
+| The Last Sermon of Our Lord                                                                    | Herramme viimeinen saarna                                                                                  |
+| The Last Sigh of Christ                                                                        | Kristuksen viimeinen huokaus                                                                               |
+| The Last supper                                                                                | Viimeinen illallinen                                                                                       |
+| The life of Jesus of Nazareth                                                                  | Jeesuksen Nasaretilaisen elämä                                                                             |
+| The little child set in their midst                                                            | Pieni lapsi asetettu heidän keskelle                                                                       |
+| The Lord Wept                                                                                  | Herra itki                                                                                                 |
+| The Lords Prayer                                                                               | Herran rukous                                                                                              |
+| The Lost Drachma                                                                               | Kadonnut drakma                                                                                            |
+| The Madgalene Runs to the Cenacle                                                              | Madgalene juoksee Cenaclelle                                                                               |
+| The Magdalene Before Her Conversion                                                            | Magdaleena ennen kääntymystä                                                                               |
+| The Magnificat                                                                                 | Magnificat                                                                                                 |
+| The Man at the Plough                                                                          | Mies auralla                                                                                               |
+| The Man Who Hoards                                                                             | Mies, joka hamstraa                                                                                        |
+| The Man with an Infirmity of Thirty-Eight Years                                                | Mies, jolla on vamma 38 vuotta                                                                             |
+| The Man with the jar of water                                                                  | Mies vesipurkin kanssa                                                                                     |
+| The Man with the Withered Hand                                                                 | Mies, jolla on kuihtunut käsi                                                                              |
+| The Marriage at Cana                                                                           | Avioliitto Canassa                                                                                         |
+| The Massacre of the Innocents                                                                  | Viattomien verilöyly                                                                                       |
+| The Meal in the House of Matthew                                                               | Ateria Matteuksen talossa                                                                                  |
+| The Meal in the House of the Pharisee                                                          | Ateria fariseuksen talossa                                                                                 |
+| The Merchants Chased from the Temple                                                           | Kauppiaat ajoivat takaa temppelistä                                                                        |
+| The Message of Pilate's Wife                                                                   | Pilatuksen vaimon viesti                                                                                   |
+| The Miracle of the Loaves and Fishes                                                           | Leipien ja kalojen ihme                                                                                    |
+| The Miraculous Draught of Fishes                                                               | Kalojen ihmeellinen luonnos                                                                                |
+| The Miraculous Haul of Fishes                                                                  | Ihmeellinen kaloja                                                                                         |
+| The Morning Judgment                                                                           | Aamun tuomio                                                                                               |
+| The Nail for the Feet                                                                          | Jalkojen kynsi                                                                                             |
+| The Ointment of the Magdalene                                                                  | Magdalenan voide                                                                                           |
+| The Palsied Man Let Down through the Roof                                                      | Palsoitu mies putosi katon läpi                                                                            |
+| The Pardon of the Good Thief                                                                   | Hyvän varkaan anteeksianto                                                                                 |
+| The People Seek Jesus to Make Him King                                                         | Ihmiset etsivät Jeesusta tehdäkseen Hänestä kuninkaan                                                      |
+| The Pharisee and the publican                                                                  | Fariseus ja publikaani                                                                                     |
+| The Pharisees and the Herodians Conspire Against Jesus                                         | Fariseukset ja herodialaiset tekevät salaliiton Jeesusta vastaan ​​                                        |
+| The Pharisees and the Saduccees Come to Tempt Jesus                                            | Fariseukset ja sadukeukset tulevat kiusaamaan Jeesusta                                                     |
+| The Pharisees Question Jesus                                                                   | Fariseukset kyselevät Jeesusta                                                                             |
+| The Pilgrims of Emmaus on the Road                                                             | Emmauksen pyhiinvaeltajat tiellä                                                                           |
+| The Piscina Probatica or Pool of Bethesda                                                      | Piscina Probatica tai Bethesdan allas                                                                      |
+| The Poor Lazarus at the Rich Man's Door                                                        | Köyhä Lasarus rikkaan miehen ovella                                                                        |
+| The Possessed Boy at the Foot of Mount Tabor                                                   | Riisuttu poika Tabor-vuoren juurella                                                                       |
+| The Possessed Man in the Synagogue                                                             | Riisuttu mies synagogassa                                                                                  |
+| The Presentation of Jesus in the Temple                                                        | Jeesuksen esitys temppelissä                                                                               |
+| The Primacy of Saint Peter                                                                     | Pyhän Pietarin ensisijaisuus                                                                               |
+| The Procession in the Streets                                                                  | Kulkue kaduilla                                                                                            |
+| The Procession in the Temple                                                                   | Kulkue temppelissä                                                                                         |
+| The Procession Nearing Calvary                                                                 | Kulkue lähestyy Golgatata                                                                                  |
+| The Procession of Judas                                                                        | Juudaksen kulkue                                                                                           |
+| The Procession on the Mount of Olives                                                          | Kulkue Öljymäellä                                                                                          |
+| The Prodigal Son                                                                               | Tuhlaajapoika                                                                                              |
+| The Prodigal Son Begging                                                                       | Tuhlaajapoika kerjäämässä                                                                                  |
+| The Prophecy of the Destruction of the Temple                                                  | Profetia temppelin tuhosta                                                                                 |
+| The Protestations of Saint Peter                                                               | Pyhän Pietarin protestit                                                                                   |
+| The raising of the cross                                                                       | Ristin nostaminen                                                                                          |
+| The Repentant Mary Magdalene                                                                   | Katuva Maria Magdaleena                                                                                    |
+| The Resurrection                                                                               | Ylösnousemus                                                                                               |
+| The Resurrection heralds                                                                       | Ylösnousemuksen saarnaajat                                                                                 |
+| The Resurrection Of Christ                                                                     | Kristuksen ylösnousemus                                                                                    |
+| The Resurrection of the Widows Son at Nain                                                     | Leskien pojan ylösnousemus Nainissa                                                                        |
+| The Return of the Prodigal Son                                                                 | Tuhlaajapojan paluu                                                                                        |
+| The Rich Young Man Went Away Sorrowful                                                         | Rikas nuori mies lähti surullisena                                                                         |
+| The rich young ruler                                                                           | Rikas nuori hallitsija                                                                                     |
+| The Scourging on the Back                                                                      | Ruoskiminen selässä                                                                                        |
+| The Scourging on the Front                                                                     | Ruoskiminen edessä                                                                                         |
+| The Scribe Stood to Tempt Jesus                                                                | Kirjanoppinut seisoi kiusaamassa Jeesusta                                                                  |
+| The Second Denial of Saint Peter                                                               | Pyhän Pietarin toinen kieltäminen                                                                          |
+| The Second Miraculous Draught of Fishes                                                        | Toinen ihmeellinen kalaluonnos                                                                             |
+| The Sermon of the Beatitudes                                                                   | Autuaiden saarna                                                                                           |
+| The Sermon on the Mount                                                                        | Vuorisaarna                                                                                                |
+| The Shepherds and the Angel                                                                    | Paimenet ja enkeli                                                                                         |
+| The Sick Awaiting the Passage of Jesus                                                         | Sairaat odottavat Jeesuksen kuolemaa                                                                       |
+| The Sojourn in Egypt                                                                           | Vierailu Egyptissä                                                                                         |
+| The Son of the Vineyard                                                                        | Viinitarhan poika                                                                                          |
+| The Sorrow of Saint Peter                                                                      | Pyhän Pietarin suru                                                                                        |
+| The Sorrowful Mother                                                                           | Surullinen äiti                                                                                            |
+| The Soul of the Good Thief                                                                     | Hyvän varkaan sielu                                                                                        |
+| The Sower                                                                                      | Kylväjä                                                                                                    |
+| The Strike of the Lance                                                                        | The Strike of the Lance                                                                                    |
+| The Swine Driven into the Sea                                                                  | Mereen ajetut siat                                                                                         |
+| The Temptation in the Wilderness                                                               | Kiusaus erämaassa                                                                                          |
+| The Testing of the Suitors of the Holy Virgin                                                  | Pyhän Neitsyen kosijoiden koe                                                                              |
+| The Thieves Legs Are Broken                                                                    | Varkaiden jalat rikki                                                                                      |
+| The Third Denial of Peter                                                                      | Pietarin kolmas kieltäminen                                                                                |
+| The Title on the Cross                                                                         | Otsikko ristillä                                                                                           |
+| The Torn Cloak                                                                                 | Revitty viitta                                                                                             |
+| The Tower of Siloam                                                                            | Siloamin torni                                                                                             |
+| The transfiguration                                                                            | Muutos                                                                                                     |
+| The Tribunal of Annas                                                                          | Annaksen tuomioistuin                                                                                      |
+| The Tribute Money                                                                              | Tribute Money                                                                                              |
+| The Two Blind Men at Jericho                                                                   | Kaksi sokeaa Jerikossa                                                                                     |
+| The Two Marys Watch the Tomb                                                                   | Kaksi Mariaa katsovat hautaa                                                                               |
+| The Two Men Possessed with Devils                                                              | Kaksi paholaisten riivaamaa miestä                                                                         |
+| The Two Women at the Mill                                                                      | Kaksi naista tehtaalla                                                                                     |
+| The Vase of Myrrh and Gall                                                                     | Myrrhin ja Gallin maljakko                                                                                 |
+| The Vine Dresser and the Fig Tree                                                              | Vine Dresser ja viikunapuu                                                                                 |
+| The Vision of Saint Joseph                                                                     | Pyhän Joosefin näky                                                                                        |
+| The Vision of Zacharias                                                                        | Sakariaan visio                                                                                            |
+| The Visitation                                                                                 | Vierailu                                                                                                   |
+| The Voice from on High                                                                         | Ääni korkealta                                                                                             |
+| The Voice in the Desert                                                                        | Ääni autiomaassa                                                                                           |
+| The Washing of the Feet                                                                        | Jalkojen pesu                                                                                              |
+| The Watch Over the Tomb                                                                        | Vartio haudasta                                                                                            |
+| The wedding at Cana                                                                            | Häät Canassa                                                                                               |
+| The Widows Mite                                                                                | The Widows Mite                                                                                            |
+| The Wise Virgins                                                                               | Viisaat neitsyet                                                                                           |
+| The Woman of Canaan                                                                            | Kanaanin nainen                                                                                            |
+| The Woman of Samaria at the Well (Nalda the samaritan)                                         | Samarialainen nainen kaivolla (Nalda samarialainen)                                                        |
+| The Woman with an Infirmity of Eighteen Years                                                  | Nainen, jolla on 18 vuoden sairaus                                                                         |
+| The Woman with an Issue of Blood                                                               | Nainen, jolla on veriongelma                                                                               |
+| The Youth of Jesus                                                                             | Jeesuksen nuoriso                                                                                          |
+| They Dressed Him in His Own Garments                                                           | He pukivat hänet omiin vaatteisiinsa                                                                       |
+| Three hundred and sixty-five                                                                   | Kolmesataakuusikymmentäviisi                                                                               |
+| Touch Me Not                                                                                   | Älä kosketa minua                                                                                          |
+| Transfiguration                                                                                | Muutos                                                                                                     |
+| Two or Three Gathered in my Name                                                               | Kaksi tai kolme kokoontunut minun nimessäni                                                                |
+| What is truth?                                                                                 | Mikä on totuus?                                                                                            |
+| What Our Lord Saw from the Cross                                                               | Mitä Herramme näki ristiltä                                                                                |
+| With Passover Approaching, Jesus Goes Up to Jerusalem                                          | Pääsiäisen lähestyessä Jeesus menee ylös Jerusalemiin                                                      |
+| Woe unto You Scribes and Pharisees                                                             | Voi teitä kirjanoppineet ja fariseukset                                                                    |
+| Woman at the Sepulchre                                                                         | Nainen haudalla                                                                                            |
+| Woman at the Well (Nalda the samaritan)                                                        | Nainen kaivolla (Nalda samarialainen)                                                                      |
+| You Could Not Watch One Hour                                                                   | Et voinut katsoa yhtä tuntia                                                                               |
+| You Follow Me for the Miracles                                                                 | Seuraat minua ihmeiden puolesta                                                                            |
+| Zacchaeus in the Sycamore Awaiting the Passage of Jesus                                        | Sakkeus Sycamoressa odottamassa Jeesuksen matkaa                                                           |
+| Zachaeus in tree                                                                               | Sakkeus puussa                                                                                             |
+| Zacharias Killed Between the Temple and the Altar                                              | Sakarias tapettiin temppelin ja alttarin välissä                                                           |
+| Jesus face                                                                                     | Jeesuksen kasvot                                                                                           |
