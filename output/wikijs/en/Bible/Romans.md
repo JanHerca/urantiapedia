@@ -1,0 +1,39 @@
+---
+title: Romans
+description: 
+published: true
+date: 2021-12-08T13:55:38.362Z
+tags: 
+editor: markdown
+dateCreated: 2021-11-28T13:55:38.362Z
+---
+
+The Epistle to the Romans is the sixth book in the New Testament, and the longest of the thirteen Pauline epistles. Biblical scholars agree that it was composed by Paul the Apostle to explain that salvation is offered through the gospel of Jesus Christ.
+
+## Index
+
+- [Chapter 1](/Bible/Romans/1)
+- [Chapter 2](/Bible/Romans/2)
+- [Chapter 3](/Bible/Romans/3)
+- [Chapter 4](/Bible/Romans/4)
+- [Chapter 5](/Bible/Romans/5)
+- [Chapter 6](/Bible/Romans/6)
+- [Chapter 7](/Bible/Romans/7)
+- [Chapter 8](/Bible/Romans/8)
+- [Chapter 9](/Bible/Romans/9)
+- [Chapter 10](/Bible/Romans/10)
+- [Chapter 11](/Bible/Romans/11)
+- [Chapter 12](/Bible/Romans/12)
+- [Chapter 13](/Bible/Romans/13)
+- [Chapter 14](/Bible/Romans/14)
+- [Chapter 15](/Bible/Romans/15)
+- [Chapter 16](/Bible/Romans/16)
+
+
+
+[Full Index of The Bible](/en/index/bible)
+
+
+## External links
+
+- https://en.wikipedia.org/wiki/Epistle_to_the_Romans
