@@ -3,7 +3,7 @@
 const LaTeXSeparator = require('./enums').LaTeXSeparator;
 const BibleAbbs = require('./abb');
 const {extractStr, reflectPromise, extendArray, readFrom, getWikijsHeader, 
-	getWikijsLinks, getWikijsBookRefLink, getError, 
+	getWikijsLinks, getWikijsBookRefLink, getError, writeFile,
 	writeHTMLToWikijs} = require('./utils');
 const fs = require('fs');
 const path = require('path');
@@ -382,6 +382,45 @@ class Bible {
 			promises.push(this.writeFullIndexToWikijs(indexPath));
 			Promise.all(promises).then(resolve, reject);
 		});
+	};
+
+	/**
+	 * Updates titles in Bible pages.
+	 * @param {string} dirPath Folder path.
+	 * @return {Promise} Promise that returns null in resolve function or an
+	 * array of errors in reject function.
+	 */
+	updateWikijsTitles = (dirPath) => {
+		return readFrom(dirPath, '.md', () => {return null;}, (filePath) => {
+			return new Promise((resolve, reject) => {
+				fs.readFile(filePath, (errFile, buf) => {
+					if (errFile) {
+						reject([errFile]);
+						return;
+					}
+					const lines = buf.toString().split('\n');
+					const idx = lines.findIndex(line => line.startsWith('title: '));
+					if (idx === -1) {
+						reject([new Error('Title line not found')]);
+						return;
+					}
+					const title = lines[idx].split(':')[1].trim();
+					const booknames = Object.values(BibleAbbs[this.language])
+						.map(e => e[0]);
+					const booknamesEN = Object.values(BibleAbbs['en'])
+						.map(e=> e[0]);
+					const iTitle = booknamesEN.indexOf(title);
+					if (iTitle === -1) {
+						reject([new Error(`Title ${title} not found`)]);
+						return;
+					}
+					const newTitle = booknames[iTitle];
+					lines[idx] = `title: ${newTitle}`;
+					writeFile(filePath, lines.join('\n'))
+						.then(resolve, reject);
+				});
+			});
+		}, this);
 	};
 
 	//***********************************************************************

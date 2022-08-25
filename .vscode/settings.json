@@ -8,7 +8,9 @@
           "comments": "on",
           "strings": "on",
           "other": "on"
-        }
+        },
+        "editor.wordWrap": "wordWrapColumn"
       },
-      "editor.wordWrapColumn": 80
+      "editor.wordWrapColumn": 80,
+      "prettier.proseWrap": "always"
 }

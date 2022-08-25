@@ -262,6 +262,15 @@ const Processes = {
 			es: 'RV1960'
 		}
 	},
+	"BIBLE_UPDATE_TITLES_WIKIJS": {
+		active: true,
+		desc: {
+			en: "Update titles in Bible pages (MARKDOWN)",
+			es: "Actualizar títulos en páginas de la Biblia (MARKDOWN)",
+		},
+		controls: ['dirTTextbox'],
+		paths: [['output', 'wikijs', '{0}', 'Bible']]
+	},
 	"TOPICS_TXT_TO_MEDIAWIKI": {
 		active: false,
 		desc: {

@@ -19,6 +19,7 @@ const strformat = require('./utils').strformat;
 const extendArray = require('./utils').extendArray;
 const replaceWords = require('./utils').replaceWords;
 const getMostSimilarSentence = require('./utils').getMostSimilarSentence;
+const readFrom = require('./utils').readFrom;
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
 const DialogEditSeeAlsos = require('./dialog_editseealsos');
@@ -555,6 +556,11 @@ const handle_exeButtonClick = () => {
 		// Read Bible (*.tex) => write Wiki (*.xml)
 		bible.readFromLaTeX(latexDir)
 			.then(() => bible.writeToWikiXML(wikiDir, merge))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'BIBLE_UPDATE_TITLES_WIKIJS') {
+		// Read Bible pages (*.md) => update titles => write (*.md)
+		bible.updateWikijsTitles(txtDir)
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'TOPICS_TXT_TO_MEDIAWIKI') {
