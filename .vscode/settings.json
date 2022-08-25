@@ -9,5 +9,6 @@
           "strings": "on",
           "other": "on"
         }
-      }
+      },
+      "editor.wordWrapColumn": 80
 }
