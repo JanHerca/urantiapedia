@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-The Book of Proverbs (Hebrew: מִשְלֵי, Mīšlē, "Proverbs (of Solomon)") is a book in the third section (called Ketuvim) of the Hebrew Bible and a book of the Christian Old Testament. When translated into Greek and Latin, the title took on different forms: in the Greek Septuagint (LXX) it became Παροιμίαι (Paroimiai, "Proverbs"); in the Latin Vulgate the title was Proverbia, from which the English name is derived.
+The Book of Proverbs (Hebrew: מִשְלֵי, Mīšlē, “Proverbs (of Solomon)”) is a book in the third section (called Ketuvim) of the Hebrew Bible and a book of the Christian Old Testament. When translated into Greek and Latin, the title took on different forms: in the Greek Septuagint (LXX) it became Παροιμίαι (Paroimiai, “Proverbs”); in the Latin Vulgate the title was Proverbia, from which the English name is derived.
 
-Proverbs is not merely an anthology but a "collection of collections" relating to a pattern of life which lasted for more than a millennium. It is an example of the biblical wisdom literature, and raises questions of values, moral behaviour, the meaning of human life, and right conduct, and its theological foundation is that "the fear of God (meaning submission to the will of God) is the beginning of wisdom". Wisdom is praised for her role in creation; God acquired her before all else, and through her he gave order to chaos; and since humans have life and prosperity by conforming to the order of creation, seeking wisdom is the essence and goal of life.
+Proverbs is not merely an anthology but a “collection of collections” relating to a pattern of life which lasted for more than a millennium. It is an example of the biblical wisdom literature, and raises questions of values, moral behaviour, the meaning of human life, and right conduct, and its theological foundation is that “the fear of God (meaning submission to the will of God) is the beginning of wisdom”. Wisdom is praised for her role in creation; God acquired her before all else, and through her he gave order to chaos; and since humans have life and prosperity by conforming to the order of creation, seeking wisdom is the essence and goal of life.
 
 ## Index
 

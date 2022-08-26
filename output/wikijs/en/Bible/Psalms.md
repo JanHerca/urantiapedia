@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-The Book of Psalms (/sɑːmz/ SAHMZ or /sɔː(l)mz/ SAW(L)MZ; Hebrew: תְּהִלִּים, Tehillim, lit. "praises"), also known as the Psalms, or the Psalter, is the first book of the Ketuvim ("Writings"), the third section of the Tanakh, and a book of the Old Testament. The title is derived from the Greek translation, ψαλμοί (psalmoi), meaning "instrumental music" and, by extension, "the words accompanying the music". The book is an anthology of individual Hebrew religious hymns, with 150 in the Jewish and Western Christian tradition and more in the Eastern Christian churches. Many are linked to the name of David, but modern scholarship rejects his authorship, instead attributing the composition of the psalms to various authors writing between the 9th and 5th centuries BC.
+The Book of Psalms (/sɑːmz/ SAHMZ or /sɔː(l)mz/ SAW(L)MZ; Hebrew: תְּהִלִּים, Tehillim, lit. “praises”), also known as the Psalms, or the Psalter, is the first book of the Ketuvim (“Writings”), the third section of the Tanakh, and a book of the Old Testament. The title is derived from the Greek translation, ψαλμοί (psalmoi), meaning “instrumental music” and, by extension, “the words accompanying the music”. The book is an anthology of individual Hebrew religious hymns, with 150 in the Jewish and Western Christian tradition and more in the Eastern Christian churches. Many are linked to the name of David, but modern scholarship rejects his authorship, instead attributing the composition of the psalms to various authors writing between the 9th and 5th centuries BC.
 
 ## Index
 

@@ -8,11 +8,11 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-The Book of Micah is the sixth of the twelve minor prophets in the Hebrew Bible. Ostensibly, it records the sayings of Micah, whose name is Mikayahu (Hebrew: מִיכָיָ֫הוּ), meaning "Who is like Yahweh?", an 8th-century BCE prophet from the village of Moresheth in Judah (Hebrew name from the opening verse: מיכה המרשתי).
+The Book of Micah is the sixth of the twelve minor prophets in the Hebrew Bible. Ostensibly, it records the sayings of Micah, whose name is Mikayahu (Hebrew: מִיכָיָ֫הוּ), meaning “Who is like Yahweh?”, an 8th-century BCE prophet from the village of Moresheth in Judah (Hebrew name from the opening verse: מיכה המרשתי).
 
-The book has three major divisions, chapters 1–2, 3–5 and 6–7, each introduced by the word "Hear," with a pattern of alternating announcements of doom and expressions of hope within each division. Micah reproaches unjust leaders, defends the rights of the poor against the rich and powerful; while looking forward to a world at peace centered on Zion under the leadership of a new Davidic monarch.
+The book has three major divisions, chapters 1–2, 3–5 and 6–7, each introduced by the word “Hear,” with a pattern of alternating announcements of doom and expressions of hope within each division. Micah reproaches unjust leaders, defends the rights of the poor against the rich and powerful; while looking forward to a world at peace centered on Zion under the leadership of a new Davidic monarch.
 
-While the book is relatively short, it includes lament (1.8–16; 7.8–10), theophany (1.3–4), hymnic prayer of petition and confidence (7.14–20), and the "covenant lawsuit" (6.1–8), a distinct genre in which Yahweh (God) sues Israel for breach of contract of the Mosaic covenant.
+While the book is relatively short, it includes lament (1.8–16; 7.8–10), theophany (1.3–4), hymnic prayer of petition and confidence (7.14–20), and the “covenant lawsuit” (6.1–8), a distinct genre in which Yahweh (God) sues Israel for breach of contract of the Mosaic covenant.
 
 ## Index
 

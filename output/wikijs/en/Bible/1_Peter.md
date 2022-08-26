@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-The First Epistle of Peter is a book of the New Testament. The author presents himself as Peter the Apostle. The ending of the letter includes a statement that implies that it was written from "Babylon", which is possibly a reference to Rome. The letter is addressed to the "chosen pilgrims of the diaspora" in Asia Minor suffering religious persecution.
+The First Epistle of Peter is a book of the New Testament. The author presents himself as Peter the Apostle. The ending of the letter includes a statement that implies that it was written from “Babylon”, which is possibly a reference to Rome. The letter is addressed to the “chosen pilgrims of the diaspora” in Asia Minor suffering religious persecution.
 
 ## Index
 

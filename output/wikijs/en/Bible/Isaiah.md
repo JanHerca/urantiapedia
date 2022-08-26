@@ -12,7 +12,7 @@ The Book of Isaiah (Hebrew: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu
 
 The book can be read as an extended meditation on the destiny of Jerusalem into and after the Exile. The Deutero-Isaian part of the book describes how God will make Jerusalem the centre of his worldwide rule through a royal saviour (a messiah) who will destroy the oppressor (Babylon); this messiah is the Persian king Cyrus the Great, who is merely the agent who brings about Yahweh's kingship. Isaiah speaks out against corrupt leaders and for the disadvantaged, and roots righteousness in God's holiness rather than in Israel's covenant.
 
-Isaiah was one of the most popular works among Jews in the Second Temple period (c. 515 BCE – 70 CE). In Christian circles, it was held in such high regard as to be called "the Fifth Gospel", and its influence extends beyond Christianity to English literature and to Western culture in general, from the libretto of Handel's Messiah to a host of such everyday phrases as "swords into ploughshares" and "voice in the wilderness".
+Isaiah was one of the most popular works among Jews in the Second Temple period (c. 515 BCE – 70 CE). In Christian circles, it was held in such high regard as to be called “the Fifth Gospel”, and its influence extends beyond Christianity to English literature and to Western culture in general, from the libretto of Handel's Messiah to a host of such everyday phrases as “swords into ploughshares” and “voice in the wilderness”.
 
 ## Index
 

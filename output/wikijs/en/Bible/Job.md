@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 The Book of Job (/dʒoʊb/; Biblical Hebrew: אִיּוֹב, romanized: ʾIyyōḇ), or simply Job, addresses theodicy, why God permits evil in the world, through the experiences of the eponymous protagonist. Job is a wealthy and God-fearing man with a comfortable life and a large family; God, having asked Satan (הַשָּׂטָן, haśśāṭān, 'lit. 'the accuser'') for his opinion of Job's piety, decides to take away Job's wealth, family and material comforts, following Satan's accusation that if Job were rendered penniless and without his family, he would turn away from God.
 
-The book is found in the Ketuvim ("Writings") section of the Hebrew Bible (Tanakh), and is the first of the Poetic Books in the Old Testament of the Christian Bible. Scholars are generally agreed that it was written between the 7th and 4th centuries BCE.
+The book is found in the Ketuvim (“Writings”) section of the Hebrew Bible (Tanakh), and is the first of the Poetic Books in the Old Testament of the Christian Bible. Scholars are generally agreed that it was written between the 7th and 4th centuries BCE.
 
 ## Index
 

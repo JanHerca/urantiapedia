@@ -12,7 +12,7 @@ The Second Epistle to Timothy is one of the three pastoral epistles traditionall
 
 Although the pastorals are written under Paul's name, they are different from his other epistles, and since the early 19th century, scholars have increasingly seen them as the work of an unknown student of Paul's doctrine. They do not address Paul's common themes, such as the believers' unity with Christ, and they reflect a church hierarchy that is more organized and defined than the church was in Paul's time.
 
-Nonetheless, a number of major scholars have defended the traditional authorship of 2 Timothy.[4][6][7]
+Nonetheless, a number of major scholars have defended the traditional authorship of 2 Timothy.
 
 ## Index
 

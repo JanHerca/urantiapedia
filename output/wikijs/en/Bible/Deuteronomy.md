@@ -14,7 +14,7 @@ Chapters 1–30 of the book consist of three sermons or speeches delivered to th
 
 The final four chapters (31–34) contain the Song of Moses, the Blessing of Moses, and the narratives recounting the passing of the mantle of leadership from Moses to Joshua and, finally, the death of Moses on Mount Nebo.
 
-One of its most significant verses is [Deuteronomy 6:4](/Bible/Deuteronomy/6#v4), the Shema Yisrael, which has become the definitive statement of Jewish identity: "Hear, O Israel: the LORD our God, the LORD is one." Verses 6:4–5 were also quoted by Jesus in [Mark 12:28–34](/Bible/Mark/12#v28) as the Great Commandment.
+One of its most significant verses is [Deuteronomy 6:4](/Bible/Deuteronomy/6#v4), the Shema Yisrael, which has become the definitive statement of Jewish identity: “Hear, O Israel: the LORD our God, the LORD is one.” Verses 6:4–5 were also quoted by Jesus in [Mark 12:28–34](/Bible/Mark/12#v28) as the Great Commandment.
 
 ## Index
 

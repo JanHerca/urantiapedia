@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-The Book of Joel is collected as one of the twelve minor prophets of the Nevi'im ("Prophets") in the Hebrew Bible, and as a book in its own right in the Christian Old Testament.
+The Book of Joel is collected as one of the twelve minor prophets of the Nevi'im (“Prophets”) in the Hebrew Bible, and as a book in its own right in the Christian Old Testament.
 
 ## Index
 

@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 The Epistle of James is a general epistle and one of the 21 epistles (didactic letters) in the New Testament.
 
-The author identifies himself as "James, a servant of God and of the Lord Jesus Christ" who is writing to "the twelve tribes scattered abroad" (James 1:1). The epistle is traditionally attributed to James the brother of Jesus (James the Just), and the audience is generally considered to be Jewish Christians, who were dispersed outside Israel.
+The author identifies himself as “James, a servant of God and of the Lord Jesus Christ” who is writing to “the twelve tribes scattered abroad” (James 1:1). The epistle is traditionally attributed to James the brother of Jesus (James the Just), and the audience is generally considered to be Jewish Christians, who were dispersed outside Israel.
 
 Framing his letter within an overall theme of patient perseverance during trials and temptations, James writes in order to encourage his readers to live consistently with what they have learned in Christ. He condemns various sins, including pride, hypocrisy, favouritism, and slander. He encourages and implores believers to humbly live by godly, rather than worldly wisdom and to pray in all situations.
 

@@ -1,5 +1,5 @@
 ---
-title: Prayer_of_Manesseh
+title: Prayer of Manesseh
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 The Prayer of Manasses, also known as the Prayer of Manasseh is a short work of 15 verses recording a penitential prayer attributed to king Manasseh of Judah. The majority of scholars believe that the Prayer of Manasseh was written in Greek (while a minority argues for a Semitic original) in the second or first century BC. It is recognised that it could also have been written in the first half of the 1st century AD, but in any case before the Destruction of the Second Temple in 70 AD. Another work by the same title, written in Hebrew, was found among the Dead Sea Scrolls (4Q381:17).
 
-Manasseh is recorded in the Bible as one of the most idolatrous kings of Judah (2 Kings 21:1–18; 2 Chronicles 33:1–9). The second Book of Chronicles, but not the second Book of Kings, records that Manasseh was taken captive by the Assyrians (2 Chronicles 33:11–13). While a prisoner, Manasseh prayed for mercy, and upon being freed and restored to the throne turned from his idolatrous ways (2 Chronicles 33:15–17). A reference to the prayer, but not the prayer itself, is made in 2 Chronicles 33:19, which says that the prayer is written in "the annals of the kings of Israel".
+Manasseh is recorded in the Bible as one of the most idolatrous kings of Judah (2 Kings 21:1–18; 2 Chronicles 33:1–9). The second Book of Chronicles, but not the second Book of Kings, records that Manasseh was taken captive by the Assyrians (2 Chronicles 33:11–13). While a prisoner, Manasseh prayed for mercy, and upon being freed and restored to the throne turned from his idolatrous ways (2 Chronicles 33:15–17). A reference to the prayer, but not the prayer itself, is made in 2 Chronicles 33:19, which says that the prayer is written in “the annals of the kings of Israel”.
 
 The prayer is considered apocryphal by Jews, Catholics and Protestants. It was placed at the end of 2 Chronicles in the late 4th-century Vulgate. Over a millennium later, Martin Luther included the prayer in his 74-book translation of the Bible into German. It was part of the 1537 Matthew Bible, and the 1599 Geneva Bible. It also appears in the Apocrypha of the King James Bible and of the original 1609/1610 Douai-Rheims Bible. Pope Clement VIII included the prayer in an appendix to the Vulgate.
 

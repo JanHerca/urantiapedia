@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-The Book of Wisdom, or the Wisdom of Solomon, is a Jewish work written in Greek and most likely composed in Alexandria, Egypt. Generally dated to the mid-first century BC, the central theme of the work is "wisdom" itself, appearing under two principal aspects. The first aspect is, in its relation to humankind, wisdom is the perfection of knowledge of the righteous as a gift from God showing itself in action. The second aspect is, in direct relation to God, wisdom is with God from all eternity. It is one of the seven Sapiential or wisdom books in the Septuagint, the others being Psalms, Proverbs, Ecclesiastes, Song of Songs (Song of Solomon), Job, and Sirach. It is included in the canons of the Catholic Church and the Eastern Orthodox Church. Most Protestants consider it part of the Apocrypha.
+The Book of Wisdom, or the Wisdom of Solomon, is a Jewish work written in Greek and most likely composed in Alexandria, Egypt. Generally dated to the mid-first century BC, the central theme of the work is “wisdom” itself, appearing under two principal aspects. The first aspect is, in its relation to humankind, wisdom is the perfection of knowledge of the righteous as a gift from God showing itself in action. The second aspect is, in direct relation to God, wisdom is with God from all eternity. It is one of the seven Sapiential or wisdom books in the Septuagint, the others being Psalms, Proverbs, Ecclesiastes, Song of Songs (Song of Solomon), Job, and Sirach. It is included in the canons of the Catholic Church and the Eastern Orthodox Church. Most Protestants consider it part of the Apocrypha.
 
 ## Index
 

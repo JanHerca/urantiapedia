@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-The Epistle to the Ephesians is the tenth book of the New Testament. Its authorship has traditionally been attributed to Paul the Apostle but starting in 1792, this has been challenged as Deutero-Pauline, that is, pseudepigrapha written in Paul's name by a later author strongly influenced by Paul's thought, probably "by a loyal disciple to sum up Paul's teaching and to apply it to a new situation fifteen to twenty-five years after the Apostle's death".
+The Epistle to the Ephesians is the tenth book of the New Testament. Its authorship has traditionally been attributed to Paul the Apostle but starting in 1792, this has been challenged as Deutero-Pauline, that is, pseudepigrapha written in Paul's name by a later author strongly influenced by Paul's thought, probably “by a loyal disciple to sum up Paul's teaching and to apply it to a new situation fifteen to twenty-five years after the Apostle's death”.
 
 ## Index
 

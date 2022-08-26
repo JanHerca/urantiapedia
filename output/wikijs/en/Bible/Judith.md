@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-The Book of Judith is a deuterocanonical book, included in the Septuagint and the Catholic and Eastern Orthodox Christian Old Testament of the Bible, but excluded from the Hebrew canon and assigned by Protestants to the apocrypha. It tells of a Jewish widow, Judith, who uses her beauty and charm to destroy an Assyrian general and save Israel from oppression. The surviving Greek manuscripts contain several historical anachronisms, which is why some protestant scholars now consider the book non-historical: a parable, a theological novel, or perhaps the first historical novel. The name Judith (Hebrew: יְהוּדִית, Modern: Yehudit, Tiberian: Yəhûḏîṯ, "Praised" or "Jewess") is the feminine form of Judah.
+The Book of Judith is a deuterocanonical book, included in the Septuagint and the Catholic and Eastern Orthodox Christian Old Testament of the Bible, but excluded from the Hebrew canon and assigned by Protestants to the apocrypha. It tells of a Jewish widow, Judith, who uses her beauty and charm to destroy an Assyrian general and save Israel from oppression. The surviving Greek manuscripts contain several historical anachronisms, which is why some protestant scholars now consider the book non-historical: a parable, a theological novel, or perhaps the first historical novel. The name Judith (Hebrew: יְהוּדִית, Modern: Yehudit, Tiberian: Yəhûḏîṯ, “Praised” or “Jewess”) is the feminine form of Judah.
 
 ## Index
 

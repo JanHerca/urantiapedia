@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-The Book of Chronicles (Hebrew: דִּבְרֵי־הַיָּמִים Dīvrē-hayYāmīm) is a book in the Hebrew Bible, found as two books (1–2 Chronicles) in the Christian Old Testament. Chronicles is the final book of the Hebrew Bible, concluding the third section of the Jewish Tanakh, the Ketuvim ("Writings"). It contains a genealogy starting with Adam and a history of ancient Judah and Israel up to the Edict of Cyrus in 539 BC.
+The Book of Chronicles (Hebrew: דִּבְרֵי־הַיָּמִים Dīvrē-hayYāmīm) is a book in the Hebrew Bible, found as two books (1–2 Chronicles) in the Christian Old Testament. Chronicles is the final book of the Hebrew Bible, concluding the third section of the Jewish Tanakh, the Ketuvim (“Writings”). It contains a genealogy starting with Adam and a history of ancient Judah and Israel up to the Edict of Cyrus in 539 BC.
 
 The book was divided into two books in the Septuagint and translated mid 3rd century BC. In Christian contexts Chronicles is referred to in the plural as the Books of Chronicles, after the Latin name chronicon given to the text by Jerome, but are also rarely referred to by their Greek name as the Books of Paralipomenon. In Christian Bibles, they usually follow the two Books of Kings and precede Ezra–Nehemiah, the last history-oriented book of the Protestant Old Testament.
 

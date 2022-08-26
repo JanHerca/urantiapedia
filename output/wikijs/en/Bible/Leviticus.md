@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-The book of Leviticus (/lɪˈvɪtɪkəs/, from Ancient Greek: Λευιτικόν, Leuïtikón; Hebrew: וַיִּקְרָא, Vayyīqrāʾ, "And He called") is the third book of the Torah (the Pentateuch) and of the Old Testament, also known as the Third Book of Moses. Scholars generally agree that it developed over a long period of time, reaching its present form during the Persian Period, from 538–332 BC.
+The book of Leviticus (/lɪˈvɪtɪkəs/, from Ancient Greek: Λευιτικόν, Leuïtikón; Hebrew: וַיִּקְרָא, Vayyīqrāʾ, “And He called”) is the third book of the Torah (the Pentateuch) and of the Old Testament, also known as the Third Book of Moses. Scholars generally agree that it developed over a long period of time, reaching its present form during the Persian Period, from 538–332 BC.
 
 Most of its chapters (1–7, 11–27) consist of Yahweh's speeches to Moses, which Yahweh tells Moses to repeat to the Israelites. This takes place within the story of the Israelites' Exodus after they escaped Egypt and reached Mount Sinai ([Exodus 19:1](/Bible/Exodus/19#v1)). The Book of Exodus narrates how Moses led the Israelites in building the Tabernacle (Exodus 35–40) with God's instructions ([Exodus 25–31](/Bible/Exodus/25)). In Leviticus, God tells the Israelites and their priests, the Levites, how to make offerings in the Tabernacle and how to conduct themselves while camped around the holy tent sanctuary. Leviticus takes place during the month or month and a half between the completion of the Tabernacle ([Exodus 40:17](/Bible/Exodus/40#v17)) and the Israelites' departure from Sinai (Numbers [1:1](/Bible/Numbers/1#v1), [10:11](/Bible/Numbers/10#v11)).
 

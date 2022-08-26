@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-The Book of Jeremiah (Hebrew: ספר יִרְמְיָהוּ) is the second of the Latter Prophets in the Hebrew Bible, and the second of the Prophets in the Christian Old Testament. The superscription at chapter Jeremiah 1:1–3 identifies the book as "the words of Jeremiah son of Hilkiah". Of all the prophets, Jeremiah comes through most clearly as a person, ruminating to his scribe Baruch about his role as a servant of God with little good news for his audience.
+The Book of Jeremiah (Hebrew: ספר יִרְמְיָהוּ) is the second of the Latter Prophets in the Hebrew Bible, and the second of the Prophets in the Christian Old Testament. The superscription at chapter Jeremiah 1:1–3 identifies the book as “the words of Jeremiah son of Hilkiah”. Of all the prophets, Jeremiah comes through most clearly as a person, ruminating to his scribe Baruch about his role as a servant of God with little good news for his audience.
 
 His book is intended as a message to the Jews in exile in Babylon, explaining the disaster of exile as God's response to Israel's pagan worship: the people, says Jeremiah, are like an unfaithful wife and rebellious children, their infidelity and rebelliousness made judgment inevitable, although restoration and a new covenant are foreshadowed. Authentic oracles of Jeremiah are probably to be found in the poetic sections of chapters 1 –25, but the book as a whole has been heavily edited and added to by the prophet's followers (including perhaps his companion, the scribe Baruch) and later generations of Deuteronomists.
 
