@@ -1,0 +1,140 @@
+---
+title: 1 kniha Henochova
+description: 
+published: true
+date: 2021-12-08T13:55:38.362Z
+tags: 
+editor: markdown
+dateCreated: 2021-11-28T13:55:38.362Z
+---
+
+Kniha Enochova (také 1 Enoch; [poznámka 1] Ge'ez: መጽሐፈ ሄኖክ, maṣḥafa hēnok) je starověký hebrejský apokalyptický náboženský text, připisovaný tradicí Enochovi, pradědu Noema. Enoch obsahuje jedinečný materiál o původu démonů a Nephilim, proč někteří andělé spadli z nebe, vysvětlení, proč byla potopa Genesis morálně nezbytná, a prorocký výklad tisícileté vlády Mesiáše.
+
+Starší části (hlavně v Knize hlídačů) textu se odhadují na dobu asi 300–200 př. n. l. a nejnovější část (Kniha podobenství) pravděpodobně do roku 100 př. n. l.
+
+Různé aramejské fragmenty nalezené ve svitcích od Mrtvého moře, stejně jako řecké a latinské fragmenty koiné, jsou důkazem, že Kniha Henochova byla známa Židům a raným blízkovýchodním křesťanům. Tato kniha byla také citována některými autory 1. a 2. století jako v Testamentech dvanácti patriarchů. S některým obsahem příběhu byli obeznámeni i autoři Nového zákona. Krátká část 1. Enocha (1:9) je citována v Novozákonním listě Judově, Juda 1:14–15, a je tam připisována „Enochovi sedmému od Adama“ (1. Enochovi 60:8), i když část 1. Enocha je midraš v Deuteronomiu 33:2. Mezi svitky od Mrtvého moře se zachovalo několik kopií dřívějších částí 1. Enocha.
+
+Není součástí biblického kánonu používaného Židy, kromě Beta Israel (etiopští Židé). Zatímco Etiopská ortodoxní církev Tewahedo a Eritrejská ortodoxní církev Tewahedo považují Knihu Enocha za kanonickou, jiné křesťanské skupiny ji považují za nekanonickou nebo neinspirovanou, ale mohou ji přijmout jako nějakou historickou nebo teologickou zajímavost.
+
+Dnes je zcela existující pouze v etiopském jazyce Ge'ez, s dřívějšími aramejskými fragmenty ze svitků od Mrtvého moře a několika řeckými a latinskými fragmenty. Pro toto a jiné důvody, tradiční etiopská víra je to originální jazyk práce byl Ge'ez, zatímco moderní učenci argumentují, že to bylo nejprve psáno v jeden Aramaic nebo hebrejština, jazyky nejprve použité pro židovské texty; Efraim Izák naznačuje, že Kniha Enochova, stejně jako Kniha Danielova, byla složena částečně v aramejštině a částečně v hebrejštině. Není známo, že by se zachovala žádná hebrejská verze. Kniha sama tvrdí, že jejím autorem byl Enoch před biblickou potopou.
+
+Nejúplnější Enochova kniha pochází z etiopských rukopisů, maṣḥafa hēnok (መጽሐፈ ሄኖክ), napsaných v Ge'ez, které koncem 18. století přinesl do Evropy James Bruce a v 19. století byly přeloženy do angličtiny.
+
+## Index
+
+- [Kapitola 1](/cs/Bible/Enoch/1)
+- [Kapitola 2](/cs/Bible/Enoch/2)
+- [Kapitola 3](/cs/Bible/Enoch/3)
+- [Kapitola 4](/cs/Bible/Enoch/4)
+- [Kapitola 5](/cs/Bible/Enoch/5)
+- [Kapitola 6](/cs/Bible/Enoch/6)
+- [Kapitola 7](/cs/Bible/Enoch/7)
+- [Kapitola 8](/cs/Bible/Enoch/8)
+- [Kapitola 9](/cs/Bible/Enoch/9)
+- [Kapitola 10](/cs/Bible/Enoch/10)
+- [Kapitola 11](/cs/Bible/Enoch/11)
+- [Kapitola 12](/cs/Bible/Enoch/12)
+- [Kapitola 13](/cs/Bible/Enoch/13)
+- [Kapitola 14](/cs/Bible/Enoch/14)
+- [Kapitola 15](/cs/Bible/Enoch/15)
+- [Kapitola 16](/cs/Bible/Enoch/16)
+- [Kapitola 17](/cs/Bible/Enoch/17)
+- [Kapitola 18](/cs/Bible/Enoch/18)
+- [Kapitola 19](/cs/Bible/Enoch/19)
+- [Kapitola 20](/cs/Bible/Enoch/20)
+- [Kapitola 21](/cs/Bible/Enoch/21)
+- [Kapitola 22](/cs/Bible/Enoch/22)
+- [Kapitola 23](/cs/Bible/Enoch/23)
+- [Kapitola 24](/cs/Bible/Enoch/24)
+- [Kapitola 25](/cs/Bible/Enoch/25)
+- [Kapitola 26](/cs/Bible/Enoch/26)
+- [Kapitola 27](/cs/Bible/Enoch/27)
+- [Kapitola 28](/cs/Bible/Enoch/28)
+- [Kapitola 29](/cs/Bible/Enoch/29)
+- [Kapitola 30](/cs/Bible/Enoch/30)
+- [Kapitola 31](/cs/Bible/Enoch/31)
+- [Kapitola 32](/cs/Bible/Enoch/32)
+- [Kapitola 33](/cs/Bible/Enoch/33)
+- [Kapitola 34](/cs/Bible/Enoch/34)
+- [Kapitola 35](/cs/Bible/Enoch/35)
+- [Kapitola 36](/cs/Bible/Enoch/36)
+- [Kapitola 37](/cs/Bible/Enoch/37)
+- [Kapitola 38](/cs/Bible/Enoch/38)
+- [Kapitola 39](/cs/Bible/Enoch/39)
+- [Kapitola 40](/cs/Bible/Enoch/40)
+- [Kapitola 41](/cs/Bible/Enoch/41)
+- [Kapitola 42](/cs/Bible/Enoch/42)
+- [Kapitola 43](/cs/Bible/Enoch/43)
+- [Kapitola 44](/cs/Bible/Enoch/44)
+- [Kapitola 45](/cs/Bible/Enoch/45)
+- [Kapitola 46](/cs/Bible/Enoch/46)
+- [Kapitola 47](/cs/Bible/Enoch/47)
+- [Kapitola 48](/cs/Bible/Enoch/48)
+- [Kapitola 49](/cs/Bible/Enoch/49)
+- [Kapitola 50](/cs/Bible/Enoch/50)
+- [Kapitola 51](/cs/Bible/Enoch/51)
+- [Kapitola 52](/cs/Bible/Enoch/52)
+- [Kapitola 53](/cs/Bible/Enoch/53)
+- [Kapitola 54](/cs/Bible/Enoch/54)
+- [Kapitola 55](/cs/Bible/Enoch/55)
+- [Kapitola 56](/cs/Bible/Enoch/56)
+- [Kapitola 57](/cs/Bible/Enoch/57)
+- [Kapitola 58](/cs/Bible/Enoch/58)
+- [Kapitola 59](/cs/Bible/Enoch/59)
+- [Kapitola 60](/cs/Bible/Enoch/60)
+- [Kapitola 61](/cs/Bible/Enoch/61)
+- [Kapitola 62](/cs/Bible/Enoch/62)
+- [Kapitola 63](/cs/Bible/Enoch/63)
+- [Kapitola 64](/cs/Bible/Enoch/64)
+- [Kapitola 65](/cs/Bible/Enoch/65)
+- [Kapitola 66](/cs/Bible/Enoch/66)
+- [Kapitola 67](/cs/Bible/Enoch/67)
+- [Kapitola 68](/cs/Bible/Enoch/68)
+- [Kapitola 69](/cs/Bible/Enoch/69)
+- [Kapitola 70](/cs/Bible/Enoch/70)
+- [Kapitola 71](/cs/Bible/Enoch/71)
+- [Kapitola 72](/cs/Bible/Enoch/72)
+- [Kapitola 73](/cs/Bible/Enoch/73)
+- [Kapitola 74](/cs/Bible/Enoch/74)
+- [Kapitola 75](/cs/Bible/Enoch/75)
+- [Kapitola 76](/cs/Bible/Enoch/76)
+- [Kapitola 77](/cs/Bible/Enoch/77)
+- [Kapitola 78](/cs/Bible/Enoch/78)
+- [Kapitola 79](/cs/Bible/Enoch/79)
+- [Kapitola 80](/cs/Bible/Enoch/80)
+- [Kapitola 81](/cs/Bible/Enoch/81)
+- [Kapitola 82](/cs/Bible/Enoch/82)
+- [Kapitola 83](/cs/Bible/Enoch/83)
+- [Kapitola 84](/cs/Bible/Enoch/84)
+- [Kapitola 85](/cs/Bible/Enoch/85)
+- [Kapitola 86](/cs/Bible/Enoch/86)
+- [Kapitola 87](/cs/Bible/Enoch/87)
+- [Kapitola 88](/cs/Bible/Enoch/88)
+- [Kapitola 89](/cs/Bible/Enoch/89)
+- [Kapitola 90](/cs/Bible/Enoch/90)
+- [Kapitola 91](/cs/Bible/Enoch/91)
+- [Kapitola 92](/cs/Bible/Enoch/92)
+- [Kapitola 93](/cs/Bible/Enoch/93)
+- [Kapitola 94](/cs/Bible/Enoch/94)
+- [Kapitola 95](/cs/Bible/Enoch/95)
+- [Kapitola 96](/cs/Bible/Enoch/96)
+- [Kapitola 97](/cs/Bible/Enoch/97)
+- [Kapitola 98](/cs/Bible/Enoch/98)
+- [Kapitola 99](/cs/Bible/Enoch/99)
+- [Kapitola 100](/cs/Bible/Enoch/100)
+- [Kapitola 101](/cs/Bible/Enoch/101)
+- [Kapitola 102](/cs/Bible/Enoch/102)
+- [Kapitola 103](/cs/Bible/Enoch/103)
+- [Kapitola 104](/cs/Bible/Enoch/104)
+- [Kapitola 105](/cs/Bible/Enoch/105)
+- [Kapitola 106](/cs/Bible/Enoch/106)
+- [Kapitola 107](/cs/Bible/Enoch/107)
+- [Kapitola 108](/cs/Bible/Enoch/108)
+
+
+[Úplný rejstřík Bible](/cs/index/bible)
+
+
+## External links
+
+- https://en.wikipedia.org/wiki/Book_of_Enoch
