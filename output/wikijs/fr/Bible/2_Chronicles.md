@@ -1,0 +1,60 @@
+---
+title: II Chroniques
+description: 
+published: true
+date: 2021-12-08T13:55:38.362Z
+tags: 
+editor: markdown
+dateCreated: 2021-11-28T13:55:38.362Z
+---
+
+Le Livre des Chroniques (hébreu : דִּבְרֵי־הַיָּמִים Dīvrē-hayYāmīm) est un livre de la Bible hébraïque, trouvé en deux livres (1–2 Chroniques) dans l'Ancien Testament chrétien. Chroniques est le dernier livre de la Bible hébraïque, concluant la troisième section du Tanakh juif, les Ketuvim ("Écrits"). Il contient une généalogie commençant par Adam et une histoire de l'ancien Juda et d'Israël jusqu'à l'édit de Cyrus en 539 av.
+
+Le livre a été divisé en deux livres dans la Septante et traduit au milieu du IIIe siècle av. Dans les contextes chrétiens, les Chroniques sont désignées au pluriel comme les Livres des Chroniques, d'après le nom latin chronicon donné au texte par Jérôme, mais sont également rarement désignées par leur nom grec comme les Livres de Paralipomenon. Dans les Bibles chrétiennes, ils suivent généralement les deux Livres des Rois et précèdent Esdras-Néhémie, le dernier livre axé sur l'histoire de l'Ancien Testament protestant. 
+
+## Index
+
+- [Chapitre 1](/fr/Bible/2_Chronicles/1)
+- [Chapitre 2](/fr/Bible/2_Chronicles/2)
+- [Chapitre 3](/fr/Bible/2_Chronicles/3)
+- [Chapitre 4](/fr/Bible/2_Chronicles/4)
+- [Chapitre 5](/fr/Bible/2_Chronicles/5)
+- [Chapitre 6](/fr/Bible/2_Chronicles/6)
+- [Chapitre 7](/fr/Bible/2_Chronicles/7)
+- [Chapitre 8](/fr/Bible/2_Chronicles/8)
+- [Chapitre 9](/fr/Bible/2_Chronicles/9)
+- [Chapitre 10](/fr/Bible/2_Chronicles/10)
+- [Chapitre 11](/fr/Bible/2_Chronicles/11)
+- [Chapitre 12](/fr/Bible/2_Chronicles/12)
+- [Chapitre 13](/fr/Bible/2_Chronicles/13)
+- [Chapitre 14](/fr/Bible/2_Chronicles/14)
+- [Chapitre 15](/fr/Bible/2_Chronicles/15)
+- [Chapitre 16](/fr/Bible/2_Chronicles/16)
+- [Chapitre 17](/fr/Bible/2_Chronicles/17)
+- [Chapitre 18](/fr/Bible/2_Chronicles/18)
+- [Chapitre 19](/fr/Bible/2_Chronicles/19)
+- [Chapitre 20](/fr/Bible/2_Chronicles/20)
+- [Chapitre 21](/fr/Bible/2_Chronicles/21)
+- [Chapitre 22](/fr/Bible/2_Chronicles/22)
+- [Chapitre 23](/fr/Bible/2_Chronicles/23)
+- [Chapitre 24](/fr/Bible/2_Chronicles/24)
+- [Chapitre 25](/fr/Bible/2_Chronicles/25)
+- [Chapitre 26](/fr/Bible/2_Chronicles/26)
+- [Chapitre 27](/fr/Bible/2_Chronicles/27)
+- [Chapitre 28](/fr/Bible/2_Chronicles/28)
+- [Chapitre 29](/fr/Bible/2_Chronicles/29)
+- [Chapitre 30](/fr/Bible/2_Chronicles/30)
+- [Chapitre 31](/fr/Bible/2_Chronicles/31)
+- [Chapitre 32](/fr/Bible/2_Chronicles/32)
+- [Chapitre 33](/fr/Bible/2_Chronicles/33)
+- [Chapitre 34](/fr/Bible/2_Chronicles/34)
+- [Chapitre 35](/fr/Bible/2_Chronicles/35)
+- [Chapitre 36](/fr/Bible/2_Chronicles/36)
+
+
+[Index complet de la Bible](/fr/index/bible)
+
+
+## External links
+
+- https://en.wikipedia.org/wiki/Books_of_Chronicles
