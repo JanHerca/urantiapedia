@@ -1,3 +1,4 @@
+//https://www.wordproject.org/
 //http://www.viceregency.com/Abbrev.htm
 //https://www.jjs-online.net/pdfs/SBL-Abbrev.pdf
 //English (biblical & extrabiblical): https://www.biblija.net/help.es/abbrevs.es.php
@@ -1934,7 +1935,7 @@ const BibleAbbreviations = {
 		'Lev': ['Levililer', '/tr/Bible/Leviticus', 'OT'],
 		'Say': ['Çölde Sayım', '/tr/Bible/Numbers', 'OT'],
 		'Yas': ['Yasa\'nın Tekrarı', '/tr/Bible/Deuteronomy', 'OT'],
-		'Yeş': ['Yeşu', '/tr/Bible/Joshua', 'OT'],
+		'Yeşu': ['Yeşu', '/tr/Bible/Joshua', 'OT'],
 		'Hak': ['Hakimler', '/tr/Bible/Judges', 'OT'],
 		'Rut': ['Rut', '/tr/Bible/Ruth', 'OT'],
 		'1 Sa': ['1 Samuel', '/tr/Bible/1_Samuel', 'OT'],

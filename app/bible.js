@@ -88,6 +88,9 @@ class Bible {
 		let bookIndex = -1;
 		let currentChapter = null;
 		let currentSection = null;
+		let previousVer = 0;
+		let currentVer = 0;
+		let m = 0;
 		const booknames = Object.values(BibleAbbs[this.language]).map(e => e[0]);
 		const booknamesEN = Object.values(BibleAbbs['en']).map(e=> e[0]);
 		const bookpaths = Object.values(BibleAbbs[this.language]).map(e => e[1]);
@@ -110,6 +113,8 @@ class Bible {
 					book.abb = bookabbs[bookIndex];
 				}
 			} else if (line.startsWith(LaTeXSeparator.CHAPTER_START)) {
+				previousVer = 0;
+				currentVer = null;
 				extract = extractStr(line, LaTeXSeparator.CHAPTER_START,
 					LaTeXSeparator.END);
 				if (!extract) {
@@ -141,10 +146,35 @@ class Bible {
 				}
 			} else if (line.startsWith(LaTeXSeparator.PAR_START)) {
 				extract = line.substring(5).trim();
-				if (!currentSection && currentChapter) {
-					currentChapter.pars.push(extract);
-				} else if (currentSection) {
-					currentSection.pars.push(extract);
+				currentVer = extract.substring(0, extract.indexOf(' '));
+				currentVer = (!isNaN(parseInt(currentVer)) ? 
+					parseInt(currentVer) : null);
+				if (currentVer == null || currentVer <= previousVer) {
+					errors.push(this.getError('bible_chapter_missing_verses', baseName, book.chapters.length, extract));
+				} else {
+					m = 1;
+					if (this.language === 'tr' && 
+						previousVer != null && currentVer != null &&
+						previousVer + m < currentVer) {
+						//A fix for weird verses in Turkish
+						while (previousVer + m < currentVer) {
+							if (!currentSection && currentChapter) {
+								currentChapter.pars.push(`${previousVer + m} ` +
+									`(#${book.chapters.length}:${previousVer})`);
+							} else if (currentSection) {
+								currentSection.pars.push(`${previousVer + m} ` +
+									`(#${book.chapters.length}:${previousVer})`);
+							}
+							m++;
+						}
+						
+					}
+					if (!currentSection && currentChapter) {
+						currentChapter.pars.push(extract);
+					} else if (currentSection) {
+						currentSection.pars.push(extract);
+					}
+					previousVer = currentVer;
 				}
 			}
 		});
@@ -184,6 +214,8 @@ class Bible {
 			const wfootnotes = this.footnotesToWikijs(refs);
 			const fnStyle = (wfootnotes.length > 10 ? 
 				' style="column-width: 30em;"' : '');
+			const foundVers = [];
+			const missingVers = [];
 			if (isNaN(chIndex)) {
 				reject(this.getError('bible_section_not_number', filePath, 
 					chapter.title));
@@ -213,11 +245,14 @@ class Bible {
 			header += '\r\n';
 			body += getWikijsLinks(prevLink, indexLink, nextLink);
 			// body += `<h1>${title}</h1>\r\n`;
-
+			
 			const writePar = (par) => {
 				const v = par.substring(0, par.indexOf(' '));
 				const p = par.substring(par.indexOf(' '));
 				const isNumber = !isNaN(parseInt(v));
+				if (isNumber) {
+					foundVers.push(parseInt(v));
+				}
 				const id = (isNumber ? ` id="v${v}"` : '');
 				const vers = (isNumber ? `<sup><small>${v}</small></sup>` : '');
 				const text = (isNumber ? p : par);
@@ -238,6 +273,19 @@ class Bible {
 				body += `<h2> ${section.title} </h2>\r\n`;
 				section.pars.forEach(writePar);
 			});
+
+			//Check if we have all chapter verses
+			const lastVer = Math.max(...foundVers);
+			for (let iVer = 1; iVer <= lastVer; iVer++) {
+				if (foundVers.indexOf(iVer) === -1) {
+					missingVers.push(iVer);
+				}
+			}
+			if (missingVers.length > 0) {
+				reject(this.getError('bible_chapter_missing_verses', filePath, 
+					chapter.title, missingVers.join(', ')));
+				return;
+			}
 
 			//References section
 			if (wfootnotes.length > 0) {

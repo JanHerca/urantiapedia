@@ -912,6 +912,10 @@ const Strings = {
 		en: "{0}, line {1}: Section before chapter?",
 		es: "{0}, línea {1}: Sección antes de capítulo?"
 	},
+	"bible_chapter_missing_verses": {
+		en: "{0}, chapter {1}: Chapter has some missing verses: {2}",
+		es: "{0}, capítulo {1}: El capítulo no tiene algunos versículos: {2}"
+	},
 	"dir_no_access": {
 		en: "{0}, line {1}: Folder {0} not accessible",
 		es: "{0}, línea {1}: El directorio {0} no está accesible"
