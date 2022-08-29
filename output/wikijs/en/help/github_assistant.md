@@ -55,7 +55,7 @@ To download the files you have two options:
 
 To download everything go to main page of the project in GitHub and in the green button that says *Code*, select the option *Download ZIP*. The browser will start downloading a ZIP file with the most updated content. Save it in any folder or check your *Downloads* folder to locate the file.
 
-Be aware that it can be a long download because the project contains a good amount of files. You should have at least 200-300 MB of free space in your computer.
+Be aware that it can be a long download because the project contains a good amount of files. You should have at least 2-3 GB of free space in your computer.
 
 Once download has ended you will have a file called `urantiapedia-master.zip`. This is a compressed file so please uncompress it in any folder. If you don't know how to uncompress a ZIP file it is very easy. In Windows, for example, right click with the mouse in the file and select *Extract all* to open the uncompressing tool.
 
@@ -75,7 +75,7 @@ Now we can edit them in a Text Editor.
 
 ## Edit the files in a Text Editor
 
-To edit the files we can use any tool that can edit TXT files. However, it is highly recommended to use software that can show hidden characters and white space. It is important to show them because this extra chars are used to create the structure of files and if we remove them we can corrupt files.
+To edit the files we can use any tool that can edit text files files. However, it is highly recommended to use software that can show hidden characters and white space. It is important to show them because this extra chars are used to create the structure of files and if we remove them we can corrupt files.
 
 The most recommended software is *Visual Studio Code*, but others can make the job:
 * *Visual Studio Code*: https://code.visualstudio.com/
@@ -85,7 +85,7 @@ The most recommended software is *Visual Studio Code*, but others can make the j
 
 All of them are free to use.
 
-The steps to setup the editor are these:
+If you are going to use *Visual Studio Code* the steps to setup it are these:
 1. Download *Visual Studio Code*. Go the website and click in *Download* button.
 2. Install it. During installation it is recommended to check the *Add action 'Open with Code' to folder context menu* if you are a Windows user. With this an option will be added to your context menu of Windows folders so you can easily open the content of a any folder in the editor.
 3. Open it. First time it is opened you can set up some settings. Skip them all.
@@ -100,7 +100,7 @@ To know the content of the GitHub project and its structure, check [Content of G
 
 ## Sending changes to Administrators
 
-Collaboration through GitHub has the advantage that anything can be done easily through the GitHub web. But to make *Assistant Editors* work really simple, they can send the files edited by sending them in an email to any of the maintainers in the project.
+Collaboration through GitHub has the advantage that anything can be done easily through the GitHub web. But to make *Assistant Editors* work really simple, they can send the files edited by sending them in an email to any of the maintainers in the project or to urantiapedia@gmail.com.
 
 If you have been in contact with any of the administrators of the project, you can send them directly your work. Then it is really easy for maintainers to update the *Urantiapedia* GitHub website with the new content, and through it, to update *Urantiapedia* site. You will be notified when the changes are made in the web, that usually takes no more than an hour, to check that your changes have been updated correctly.
 

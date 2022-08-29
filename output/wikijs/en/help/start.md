@@ -43,7 +43,7 @@ A Wiki is a webpage maintained and edited collaboratively by a user community. A
 
 To facilitate addition of content, a program called *Urantiapedia Tools* is under development. This program automates format conversion tasks and helps with content review tasks.
 
-Both *Urantiapedia Tools* and *Wiki.js* will receive new functionality as *Urantiapedia* extends its content types. The developments and the content files are available from the web [Urantiapedia at GitHub](https://github.com/JanHerca/urantiapedia). This website is public and anyone can make contributions following the GitHub methodology.
+Both *Urantiapedia Tools* and *Wiki.js* will receive new functionality as *Urantiapedia* extends its content types. The developments and the content files are available from the web [Urantiapedia at GitHub](https://github.com/JanHerca/urantiapedia). This website is public and anyone can make contributions following the GitHub methodology or just sending content through email.
 
 ## How is it organized?
 
@@ -64,7 +64,7 @@ For more information on the content check here: [Content](/en/help/content)
 
 For each language to be included in the *Urantipedia*, all tasks will be carried out in specific milestones:
 1. Milestone I - The Urantia Book, the Bible and Topic Index
-2. Milestone II - Books, articles and indexes
+2. Milestone II - Books, articles, study aids, diagrams and indexes
 3. Milestone III - Translator
 4. Milestone IV - Interactive maps
 5. Milestone V - Slides

@@ -53,9 +53,9 @@ Para descargar los ficheros tienes dos opciones:
 
 ### Descargar todo el proyecto
 
-Para descargar todo el proyecto navega a la página del proyecto en GitHub y en el botón verde que dice *Code*, selecciona la opción *Download ZIP* (*Descargar ZIP*). El navegador empezará a descargar el fichero ZIP con el contenido más actualizado. Guárdalo en cualquier carpeta o comprueba tu carpeta de *Descargas* pra localizar el fichero.
+Para descargar todo el proyecto navega a la página del proyecto en GitHub y en el botón verde que dice *Code*, selecciona la opción *Download ZIP* (*Descargar ZIP*). El navegador empezará a descargar el fichero ZIP con el contenido más actualizado. Guárdalo en cualquier carpeta o comprueba tu carpeta de *Descargas* para localizar el fichero.
 
-Ten en cuenta que puede ser una descarga larga porque el proyecto contiene un buen número de archivos. Deberías tener al menos 200-300 MB de espacio libre en el PC.
+Ten en cuenta que puede ser una descarga larga porque el proyecto contiene un buen número de archivos. Deberías tener al menos 2-3 GB de espacio libre en el PC.
 
 Una vez finalizada la descarga, tendrás un fichero llamado `urantiapedia-master.zip`. Este es un archivo comprimido, así que descomprímelo en cualquier carpeta. Si no sabes cómo descomprimir un archivo ZIP es muy fácil. En Windows, por ejemplo, haz clic con el botón derecho del ratón en el fichero y selecciona *Extraer todo* para abrir la herramienta de descompresión.
 
@@ -67,15 +67,15 @@ En el caso de que no quieras descargar todo el proyecto, puedes hacer esto.
 
 Navega a esta URL: https://github.com/JanHerca/urantiapedia/tree/master/input/
 
-Esta es la página de GitHub con los archivos. Puedes moverse por las carpetas en la página de GitHub. Cuando necesite un archivo, haga clic derecho con el ratón sobre el nombre del mismo y selecciona *Save link as* (*Guardar enlace como*). Eso abrirá el cuadro de diálogo para guardar cada fichero.
+Esta es la página de GitHub con los archivos. Puedes moverte por las carpetas en la página de GitHub. Cuando necesites un archivo, haz clic derecho con el ratón sobre el nombre del mismo y selecciona *Save link as* (*Guardar enlace como*). Eso abrirá el cuadro de diálogo para guardar cada fichero.
 
 De esta manera puedes elegir qué ficheros quieres descargar, lo cual es una mejor opción si no tienes mucho espacio libre en tu disco duro o no requieres el proyecto completo.
 
-Ahora podemos editarlos en un editor de texto.
+Ahora podemos editar los archivos en un editor de texto.
 
 ## Editar los ficheros en un editor de texto
 
-Para editar los ficheros podemos usar cualquier herramienta que pueda editar archivos TXT. Sin embargo, se recomienda encarecidamente utilizar un software que pueda mostrar caracteres ocultos y espacios en blanco. Es importante mostrarlos porque estos caracteres adicionales se utilizan para crear la estructura de los archivos y si los eliminamos podemos dañar los archivos.
+Para editar los ficheros podemos usar cualquier herramienta que pueda editar archivos de tipo texto. Sin embargo, se recomienda encarecidamente utilizar un software que pueda mostrar caracteres ocultos y espacios en blanco. Es importante mostrarlos porque estos caracteres adicionales se utilizan para crear la estructura de los archivos y si los eliminamos podemos dañar los archivos.
 
 El software más recomendado es *Visual Studio Code*, pero otros pueden hacer el trabajo:
 * *Visual Studio Code*: https://code.visualstudio.com/
@@ -85,14 +85,14 @@ El software más recomendado es *Visual Studio Code*, pero otros pueden hacer el
 
 Todos ellos son de uso gratuito.
 
-Los pasos para configurar el editor son estos:
+Si utilizas *Visual Studio Code* los pasos para configurarlo son estos:
 1. Descarga *Visual Studio Code*. Navega al sitio web y haz clic en el botón *Download* (*Descargar*).
-2. Instálalo. Durante la instalación, se recomienda marcar la opción *Add action 'Open with Code' to folder context menu* (*Agregar acción 'Abrir con Code' al menú contextual de la carpeta*) si se es usuario de Windows. Con esto, se agregará una opción al menú contextual de las carpetas de Windows para poder abrir fácilmente el contenido de cualquier carpeta en el editor.
-3. Ábre VS Code. La primera vez que se abre, puedes configurar algunos ajustes. Sáltalos todos.
+2. Instálalo. Durante la instalación, se recomienda marcar la opción *Add action 'Open with Code' to folder context menu* (*Agregar acción 'Abrir con Code' al menú contextual de la carpeta*) si eres usuario de Windows. Con esto, se agregará una opción al menú contextual de las carpetas de Windows para poder abrir fácilmente el contenido de cualquier carpeta en el editor.
+3. Abre *VS Code*. La primera vez que se abre, puedes configurar algunos ajustes. Sáltalos todos.
 4. Ve al menú *File* (*Archivo*) y selecciona *Open Folder* (*Abrir carpeta*). Luego selecciona la carpeta con el proyecto completo o con los archivos individuales que has descargado.
 5. Abre cualquiera de los archivos.
 6. Una extensión que puede hacerte la vida más fácil es *Sync Scroll*. Esta extensión permite desplazarse en varios archivos en paralelo, algo que ayuda mucho a la hora de editar en varios idiomas al mismo tiempo.
-7. Para instalar la extensión, ve al panel *Extensions* (*Extensiones*). Escribe *Sync Scroll* en el cuadro de búsqueda. Haz clic en el botón *Install* (*Instalar*) en la extensión. Ahora tendrás un botón en la barra de estado para activar o desactivar *Sync Scroll*. Es necesario tener varios ficheros abiertos en paralelo para ver esta opción. Para ello haz botón derecho con el ratón en un fichero abierto en la lista de ficheros abiertos y selecciona *Open to the side* (*Abrir en el lateral*).
+7. Para instalar la extensión, ve al panel *Extensions* (*Extensiones*). Escribe *Sync Scroll* en el cuadro de búsqueda. Haz clic en el botón *Install* (*Instalar*) en la extensión. Ahora tendrás un botón en la barra de estado para activar o desactivar *Sync Scroll*. Es necesario tener varios ficheros abiertos en paralelo para ver esta opción. Para ello haz clic con el botón derecho del ratón en un fichero abierto en la lista de ficheros y selecciona *Open to the side* (*Abrir en el lateral*).
 
 
 ## Contenido del proyecto Urantiapedia en GitHub
@@ -101,13 +101,15 @@ Para conocer el contenido del proyecto en GitHub y cómo está estructurado, con
 
 ## Envío de cambios a los administradores
 
-La colaboración a través de GitHub tiene la ventaja de que cualquier cosa se puede hacer fácilmente a través de la web de GitHub. Pero para hacer que los *Editores asistentes* funcionen de manera realmente simple, pueden enviar los archivos editados a través del correo electrónico a cualquiera de los administradores del proyecto.
+La colaboración a través de GitHub tiene la ventaja de que cualquier cosa se puede hacer fácilmente a través de la web de GitHub. Pero para hacer que los *Editores asistentes* funcionen de manera realmente simple, pueden enviar los archivos editados a través del correo electrónico a cualquiera de los administradores del proyecto o bien a urantiapedia@gmail.com.
 
-Si has estado en contacto con alguno de los administradores del proyecto, puedes enviarles directamente tu trabajo. Posteriormente, resulta muy sencillo para los administradores actualizar el sitio web de la *Urantiapedia* en GitHub con el nuevo contenido y, a través de él, actualizar la página *Urantiapedia*. Se te notificará cuando se realicen los cambios en la web, lo que no suele tardar más de una hora, para que puedas comprobar que tus cambios se han actualizado correctamente.
+Si has estado en contacto con alguno de los administradores del proyecto, puedes enviarles directamente tu trabajo. Posteriormente, resulta muy sencillo para los administradores actualizar el sitio web de *Urantiapedia* en GitHub con el nuevo contenido y, a través de él, actualizar la página *Urantiapedia*. Se te notificará cuándo están listos los cambios en la web, lo que no suele tardar más de una hora, para que puedas comprobar que tus cambios se han actualizado correctamente.
 
 ## Tareas
 
 Sobre las fases del proyecto consulta [Fases de la Urantiapedia](/es/help/phases).
+
+### Fase I: El Libro de Urantia, la Biblia y el Índice de Términos
 
 Una vez tenemos el input en las carpetas correctas, para cada idioma, durante la fase I, los pasos a dar son:
 1. Traducción del *Paramony* del inglés al idioma de destino. Consulta [Traducción del Paramony](/es/help/github_paramony).
@@ -123,6 +125,19 @@ Una vez tenemos el input en las carpetas correctas, para cada idioma, durante la
 Los «Editores Jefe» y los «Editores Asistente» realizarán las tareas 1 a 3. Los «Administradores» se encargan de las tareas 4 a 9.
 
 ![](/image/formats.png)
+
+### Fase II: Libros, artículos, ayudas de estudio, diagramas e índices
+
+Las tareas a realizar en esta fase son:
+1. Crear un catálogo de libros que se consideran fuentes de *El Libro de Urantia* o contienen paralelos interesantes. Consulta [Catálogo de libros «fuente»](/es/help/github_sourcebooks_catalog).
+2. Obtener los libros anteriores en formato texto Markdown. Consulta [Obtener libros «fuente»](/es/help/github_sourcebooks_markdown).
+3. Crear un catálogo de artículos escritos por lectores. Consulta [Catálogo de artículos](/es/help/github_articles_catalog).
+4. Obtener los artículos anteriores en formato Markdown. Consulta [Obtener artículos](/es/help/github_articles_markdown).
+5. Crear un catálogo de ayudas de estudio. Consulta [Catálogo de ayudas de estudio](/es/help/github_studyaids_catalog).
+6. Obtener las ayudas de estudio anteriores en formato Markdown. Consulta [Obtener ayudas de estudio](/es/help/github_studyaids_markdown).
+7. Crear un catálogo de diagramas. Consulta [Catálogo de diagramas](/es/help/github_diagrams_catalog).
+8. Obtener los diagramas anteriores en formato mapa de imágenes HTML o preferiblemente SVG. Consulta [Obtener diagramas](/es/help/github_diagrams_markdown).
+9. Crear el catálogo de imágenes del proyecto. Consulta [Catálogo de imágenes](/es/help/github_images_catalog).
 
 ## Enlaces externos
 

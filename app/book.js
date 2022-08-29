@@ -1487,10 +1487,10 @@ class Book {
 			header += '\r\n';
 			body += getWikijsLinks(prevLink, indexLink, nextLink);
 			// body += `<h1>${title}</h1>\r\n`;
-			if (['en', 'es'].includes(this.language)) {
+			if (['en', 'es', 'fr'].includes(this.language)) {
 				stri = (index === 0 ? stri + '_1' : stri);
 				body += `<p style="text-align: center;">\r\n` +
-					`<audio controls="controls" style="width:400px" preload="none">\r\n` +
+					`<audio controls="controls" style="width:100%;max-width:400px;" preload="none">\r\n` +
 					`<source src="/audio/audio_${this.language}/ub_${stri}.mp3" type="audio/mpeg">\r\n` +
 					`</audio>\r\n` +
 					`</p>\r\n`;

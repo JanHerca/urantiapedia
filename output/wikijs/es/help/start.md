@@ -42,7 +42,7 @@ Una Wiki es una página web mantenida y editada de forma colaborativa por una co
 
 Para facilitar la incorporación de contenido se está desarrollando una aplicación llamada *Urantiapedia Tools* que automatiza tareas de conversión de formatos y ayuda con tareas de revisión del contenido.
 
-Tanto las *Urantiapedia Tools* como *Wiki.js* irán recibiendo nuevas funcionalidades a medida que la *Urantiapedia* vaya extendiendo sus tipos de contenido. Tanto los desarrollos como los archivos con el contenido están disponibles en la web de la [Urantiapedia en GitHub](https://github.com/JanHerca/urantiapedia). Esta web es pública y cualquiera puede hacer aportaciones siguiendo la metodología de GitHub.
+Tanto las *Urantiapedia Tools* como *Wiki.js* irán recibiendo nuevas funcionalidades a medida que la *Urantiapedia* vaya extendiendo sus tipos de contenido. Tanto los desarrollos como los archivos con el contenido están disponibles en la web de la [Urantiapedia en GitHub](https://github.com/JanHerca/urantiapedia). Esta web es pública y cualquiera puede hacer aportaciones siguiendo la metodología de GitHub o simplemente mediante envíos por correo electrónico.
 
 ## ¿Cómo está organizado?
 
@@ -63,7 +63,7 @@ Para obtener más información sobre el contenido: [Contenido](/es/help/content)
 
 Para cada idioma a incluir en la *Urantipedia* se ejecutará el trabajo en varias fases:
 1. Fase I - El Libro de Urantia, la Biblia y el Índice de Términos
-2. Fase II - Libros, artículos e índices
+2. Fase II - Libros, artículos, ayudas de estudio, diagramas e índices
 3. Fase III - Traductor
 4. Fase IV - Mapas interactivos
 5. Fase V - Presentaciones
