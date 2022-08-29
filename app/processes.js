@@ -351,6 +351,15 @@ const Processes = {
 		paths: [['input', 'txt', 'articles-{0}'], 
 			['input', 'mediawiki', 'articles-{0}']]
 	},
+	"ALL_INDEXES": {
+		active: true,
+		desc: {
+			en: "Create the List of All Indexes to Wiki.js",
+			es: "Crear el Listado de Todos los Índices en Wiki.js"
+		},
+		controls: ['dirHTextbox'],
+		paths: [['output', 'wikijs', '{0}']]
+	},
 	"PARALELL_INDEX": {
 		active: true,
 		desc: {

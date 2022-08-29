@@ -15,11 +15,9 @@ const Articles = require('./articles');
 const ImageCatalog = require('./imagecatalog');
 const Processes = require('./processes');
 const Strings = require('./strings');
-const strformat = require('./utils').strformat;
-const extendArray = require('./utils').extendArray;
-const replaceWords = require('./utils').replaceWords;
-const getMostSimilarSentence = require('./utils').getMostSimilarSentence;
-const readFrom = require('./utils').readFrom;
+const BibleAbbs = require('./abb');
+const {strformat, extendArray, replaceWords, getMostSimilarSentence, 
+	getWikijsHeader, writeHTMLToWikijs, getError} = require('./utils');
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
 const DialogEditSeeAlsos = require('./dialog_editseealsos');
@@ -640,6 +638,10 @@ const handle_exeButtonClick = () => {
 			.then(() => articles.writeToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
+	} else if (process === 'ALL_INDEXES') {
+		getListOfAllIndexes(htmlDir)
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'PARALELL_INDEX') {
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeParalells(wikiDir))
@@ -779,6 +781,69 @@ const onProgress = (baseName) => {
 	const uilan = settings.language;
 	logInfos.splice(0, 0, strformat(Strings['proccessing'][uilan], baseName));
 	showInfos(logInfos);
+};
+
+const getListOfAllIndexes = (dirPath) => {
+	return new Promise((resolve, reject) => {
+		const baseName = path.basename(dirPath);
+		fs.access(dirPath, fs.constants.W_OK, (err) => {
+			if (err) {
+				reject([getError(lan, 'dir_no_access', baseName)]);
+				return;
+			}
+			const filePath = path.join(dirPath, 'index.html');
+			const title = Strings['indexAll'][lan];
+			const bname = Strings['bookName'][lan];
+			const iname = Strings['bookIndexName'][lan];
+			const ename = Strings['bookExtIndexName'][lan];
+			const sname = Strings['bibleName'][lan];
+			const bbooks = Object.values(BibleAbbs[lan]);
+			const oldTestBooks = bbooks.filter(e => e[2] === 'OT');
+			const newTestBooks = bbooks.filter(e => e[2] === 'NT');
+			const apoBooks = bbooks.filter(e => e[2] === 'APO');
+			const allBooks = [
+				[Strings['bibleOldTestament'][lan], oldTestBooks],
+				[Strings['bibleNewTestament'][lan], newTestBooks],
+				[Strings['bibleApocrypha'][lan], apoBooks],
+			];
+			//Header
+			let body = '';
+			let header = '';
+			header += getWikijsHeader(title, ['index']);
+			header += '\r\n';
+
+			body += `<p>${Strings['indexAllDesc'][lan]}</p>\r\n\r\n`;
+			body += `<h2>${Strings['indexAllBooks'][lan]}</h2>\r\n\r\n`;
+			body += `<h3>${bname}</h3>\r\n`;
+			body += `<ul>\r\n` +
+				`    <li><a href="/${lan}/The_Urantia_Book/Index" title="${bname} ${iname}">${bname} - ${iname}</a></li>\r\n` +
+				`    <li><a href="/${lan}/The_Urantia_Book/Index_Extended" title="${bname} ${ename}">${bname} - ${ename}</a></li>\r\n` +
+				`</ul>\r\n\r\n`;
+			body += `<h3>${sname}</h3>\r\n\r\n`;
+			body += `<ul>\r\n` +
+				`    <li><a href="/${lan}/index/bible" title="${sname} ${iname}">${sname} - ${iname}</a></li>\r\n` +
+				`</ul>\r\n\r\n`;
+			allBooks.forEach((ab,j) => {
+				const hstyle = (j != 2 ?
+					' style="-moz-column-width: 11.5em; -webkit-column-width: 11.5em; column-width: 11.5em; margin-top: 1em;"' : '');
+				body += `<h4${hstyle}>${ab[0]}</h4>\r\n`;
+				body += `<div>\r\n`;
+				body += `    <ul style="margin: 0; padding-top: 0px;">\r\n` +
+					ab[1].map((book,i) => {
+						const style = (j != 2 && i === 0 ? 
+							' style="margin-top:0px;"' : '');
+						return `        <li${style}><a href="${book[1]}" title="${book[0]}">${book[0]}</a></li>\r\n`;
+					}).join('') +
+					`    </ul>\r\n` +
+					`</div>\r\n\r\n`;
+			});
+			
+			//Only write if content is new or file not exists
+			//Avoid a new date for creation date
+			writeHTMLToWikijs(filePath, header, body)
+				.then(resolve, reject);
+		});
+	});
 };
 
 // -----------------------------------------------------------------------------
