@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+<figure class="table chapter-navigator">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/github">Chief Editors help</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Index</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/devs">Developers help</a></td>
+        <td><a href="/en/help/github">Chief Editors help</a></td>
+        <td><a href="/en/help">Index</a></td>
+        <td><a href="/en/help/devs">Developers help</a></td>
       </tr>
     </tbody>
   </table>
@@ -75,7 +75,7 @@ Now we can edit them in a Text Editor.
 
 ## Edit the files in a Text Editor
 
-To edit the files we can use any tool that can edit text files files. However, it is highly recommended to use software that can show hidden characters and white space. It is important to show them because this extra chars are used to create the structure of files and if we remove them we can corrupt files.
+To edit the files we can use any tool that can edit text files. However, it is highly recommended to use software that can show hidden characters and white space. It is important to show them because this extra chars are used to create the structure of files and if we remove them we can corrupt files.
 
 The most recommended software is *Visual Studio Code*, but others can make the job:
 * *Visual Studio Code*: https://code.visualstudio.com/
@@ -108,6 +108,8 @@ If you have been in contact with any of the administrators of the project, you c
 
 To know about the milestones of the project check [Milestones of Urantiapedia](/en/help/phases).
 
+### Milestone I: The Urantia Book, the Bible and Topic Index
+
 Once we have the input in the correct folders, for each language, the steps to take in Milestone I are:
 1. Translating *Paramony* from English to the target language. Check [Translation of Paramony](/en/help/github_paramony).
 2. Translating and reviewing *Topic Index* from English to the target language. Check [Translation an revision of Topic Index](/en/help/github_topicindex).
@@ -123,6 +125,19 @@ Once we have the input in the correct folders, for each language, the steps to t
 
 ![](/image/formats.png)
 
+### Milestone II: Books, articles, study aids, schemas and indexes
+
+The tasks to be carried out in this milestone are:
+1. Create a catalog of books that are considered sources of *The Urantia Book* or contain interesting parallels. See [Source Book Catalog](/en/help/github_sourcebooks_catalog).
+2. Get previous books in Markdown text format. See [Get “source” books](/en/help/github_sourcebooks_markdown).
+3. Create a catalog of articles written by readers. See [Articles Catalog](/en/help/github_articles_catalog).
+4. Get previous articles in Markdown format. See [Get Articles](/en/help/github_articles_markdown).
+5. Create a catalog of study aids. See [Study Aids Catalog](/es/help/github_studyaids_catalog).
+6. Get the above study aids in Markdown format. See [Get study aids](/en/help/github_studyaids_markdown).
+7. Create a catalog of diagrams. See [Diagrams Catalog](/en/help/github_diagrams_catalog).
+8. Obtain the above diagrams in HTML image map format or preferably SVG. See [Get Diagrams](/en/help/github_diagrams_markdown).
+9. Create the project image catalog. See [Images Catalog](/en/help/github_images_catalog).
+
 ## External links
 
 - [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
@@ -133,13 +148,13 @@ Once we have the input in the correct folders, for each language, the steps to t
 
 <br>
 
-<figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+<figure class="table chapter-navigator">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/github">Chief Editors help</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Index</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/devs">Developers help</a></td>
+        <td><a href="/en/help/github">Chief Editors help</a></td>
+        <td><a href="/en/help">Index</a></td>
+        <td><a href="/en/help/devs">Developers help</a></td>
       </tr>
     </tbody>
   </table>

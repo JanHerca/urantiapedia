@@ -28,6 +28,25 @@ CSS will automatically be minified. */
     text-overflow: initial;
     white-space: inherit;
 }
+.v-main .contents figure.chapter-navigator table {
+    border-bottom: 0.2em solid #c8ccd1;
+    border-left: 1px solid #c8ccd1;
+    border-right: 1px solid #c8ccd1;
+    border-top: 1px solid #c8ccd1;
+    table-layout: fixed; 
+    width: 100%;
+}
+.v-main .contents figure.chapter-navigator table tbody tr td {
+    padding: 0.4em 0.5em;
+    border: 1px solid #c8ccd1;
+    width:33%;
+}
+.v-main .contents figure.chapter-navigator table tbody tr td:nth-child(2) {
+    text-align: center;
+}
+.v-main .contents figure.chapter-navigator table tbody tr td:nth-child(3) {
+    text-align: right;
+}
 @media (max-width:1000px) {
     .v-main .contents figure.image-style-align-right,
     .v-main .contents figure.image-style-align-left {

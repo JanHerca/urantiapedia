@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
 ---
 
-<figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+<figure class="table chapter-navigator">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/github_upload">Subir contenido de forma masiva a Urantiapedia</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"></td>
+        <td><a href="/es/help/github_upload">Subir contenido de forma masiva a Urantiapedia</a></td>
+        <td><a href="/es/help">Índice</a></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -721,13 +721,13 @@ Veáse los enlaces externos para saber más acerca del uso de Matemáticas en Ma
 
 <br>
 
-<figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+<figure class="table chapter-navigator">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/github_upload">Subir contenido de forma masiva a Urantiapedia</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"></td>
+        <td><a href="/es/help/github_upload">Subir contenido de forma masiva a Urantiapedia</a></td>
+        <td><a href="/es/help">Índice</a></td>
+        <td></td>
       </tr>
     </tbody>
   </table>

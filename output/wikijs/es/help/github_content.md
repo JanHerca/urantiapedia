@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+<figure class="table chapter-navigator">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/github_setting">Configurar el proyecto de GitHub</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/github_paramony">Traducción del Paramony</a></td>
+        <td><a href="/es/help/github_setting">Configurar el proyecto de GitHub</a></td>
+        <td><a href="/es/help">Índice</a></td>
+        <td><a href="/es/help/github_paramony">Traducción del Paramony</a></td>
       </tr>
     </tbody>
   </table>
@@ -131,13 +131,13 @@ Todas las carpetas indicadas arriba para la carpeta `output` se crean usando las
 
 <br>
 
-<figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+<figure class="table chapter-navigator">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/github_setting">Configurar el proyecto de GitHub</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/github_paramony">Traducción del Paramony</a></td>
+        <td><a href="/es/help/github_setting">Configurar el proyecto de GitHub</a></td>
+        <td><a href="/es/help">Índice</a></td>
+        <td><a href="/es/help/github_paramony">Traducción del Paramony</a></td>
       </tr>
     </tbody>
   </table>

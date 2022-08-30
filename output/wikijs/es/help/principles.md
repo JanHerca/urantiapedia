@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-<figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+<figure class="table chapter-navigator">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/start">Empezar con la Urantiapedia</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/content">Contenido de la Urantiapedia</a></td>
+        <td><a href="/es/help/start">Empezar con la Urantiapedia</a></td>
+        <td><a href="/es/help">Índice</a></td>
+        <td><a href="/es/help/content">Contenido de la Urantiapedia</a></td>
       </tr>
     </tbody>
   </table>
@@ -185,13 +185,13 @@ El objetivo de *Urantiapedia* es ayudar en la comprensión de todo el contenido 
 
 <br>
 
-<figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+<figure class="table chapter-navigator">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/start">Empezar con la Urantiapedia</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/content">Contenido de la Urantiapedia</a></td>
+        <td><a href="/es/help/start">Empezar con la Urantiapedia</a></td>
+        <td><a href="/es/help">Índice</a></td>
+        <td><a href="/es/help/content">Contenido de la Urantiapedia</a></td>
       </tr>
     </tbody>
   </table>

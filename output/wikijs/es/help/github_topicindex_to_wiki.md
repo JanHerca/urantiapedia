@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+<figure class="table chapter-navigator">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/github_footnotes">Adición de notas al pie</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/github_book_to_wiki">Conversión de El Libro de Urantia</a></td>
+        <td><a href="/es/help/github_footnotes">Adición de notas al pie</a></td>
+        <td><a href="/es/help">Índice</a></td>
+        <td><a href="/es/help/github_book_to_wiki">Conversión de El Libro de Urantia</a></td>
       </tr>
     </tbody>
   </table>
@@ -46,13 +46,13 @@ Los ficheros de salida ya tienen el formato que permite subirlos directamente a 
 
 <br>
 
-<figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+<figure class="table chapter-navigator">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/help/github_footnotes">Adición de notas al pie</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/help">Índice</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/help/github_book_to_wiki">Conversión de El Libro de Urantia</a></td>
+        <td><a href="/es/help/github_footnotes">Adición de notas al pie</a></td>
+        <td><a href="/es/help">Índice</a></td>
+        <td><a href="/es/help/github_book_to_wiki">Conversión de El Libro de Urantia</a></td>
       </tr>
     </tbody>
   </table>

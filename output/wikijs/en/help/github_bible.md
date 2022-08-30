@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+<figure class="table chapter-navigator">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/github_topicindex">Translation an revision of Topic Index</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Index</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/github_book_json">Conversion to JSON</a></td>
+        <td><a href="/en/help/github_topicindex">Translation an revision of Topic Index</a></td>
+        <td><a href="/en/help">Index</a></td>
+        <td><a href="/en/help/github_book_json">Conversion to JSON</a></td>
       </tr>
     </tbody>
   </table>
@@ -187,13 +187,13 @@ Num. | Abr. | English title
 
 <br>
 
-<figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+<figure class="table chapter-navigator">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/help/github_topicindex">Translation an revision of Topic Index</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/help">Index</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/help/github_book_json">Conversion to JSON</a></td>
+        <td><a href="/en/help/github_topicindex">Translation an revision of Topic Index</a></td>
+        <td><a href="/en/help">Index</a></td>
+        <td><a href="/en/help/github_book_json">Conversion to JSON</a></td>
       </tr>
     </tbody>
   </table>

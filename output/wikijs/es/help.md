@@ -45,7 +45,7 @@ Este es el índice principal de documentación sobre Urantiapedia en sí. Por fa
     5. [Catálogo de ayudas de estudio](/es/help/github_studyaids_catalog)
     6. [Obtener ayudas de estudio](/es/help/github_studyaids_markdown)
     7. [Catálogo de diagramas](/es/help/github_diagrams_catalog)
-    8. [Obtener diagramas](/es/help/github_diagrams_markdown)
+    8. [Obtener diagramas](/es/help/github_diagrams_svg)
     9. [Catálogo de imágenes](/es/help/github_images_catalog)
 - Ayuda sobre edición en la Urantiapedia 
   1. [Ayuda del formato Markdown](/es/help/markdown)
