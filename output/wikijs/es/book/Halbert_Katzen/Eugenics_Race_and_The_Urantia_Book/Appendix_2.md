@@ -9,12 +9,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_1">Apéndice 1. Taxonomía basada en El Libro de Urantia</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Índice</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_3">Apéndice 3. ¿Cómo se usa en el libro la superioridad e inferioridad?</a></td>
+        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_1">Apéndice 1. Taxonomía basada en El Libro de Urantia</a></td>
+        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Índice</a></td>
+        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_3">Apéndice 3. ¿Cómo se usa en el libro la superioridad e inferioridad?</a></td>
       </tr>
     </tbody>
   </table>
@@ -229,12 +229,12 @@ El ejército de los EE.UU. no acepta a nadie con un coeficiente intelectual infe
 <br/>
 
 <figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_1">Apéndice 1. Taxonomía basada en El Libro de Urantia</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Índice</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_3">Apéndice 3. ¿Cómo se usa en el libro la superioridad e inferioridad?</a></td>
+        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_1">Apéndice 1. Taxonomía basada en El Libro de Urantia</a></td>
+        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Índice</a></td>
+        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_3">Apéndice 3. ¿Cómo se usa en el libro la superioridad e inferioridad?</a></td>
       </tr>
     </tbody>
   </table>

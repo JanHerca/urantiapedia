@@ -9,12 +9,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/Index">Índice</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/1">I. Las doctrinas formalmente posibles</a></td>
+        <td></td>
+        <td><a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/Index">Índice</a></td>
+        <td><a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/1">I. Las doctrinas formalmente posibles</a></td>
       </tr>
     </tbody>
   </table>
@@ -69,12 +69,12 @@ Como un esfuerzo por introducir modos de pensamiento más estrictos en la teolog
 C. H.
 
 <figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/Index">Índice </a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/1">I. Las doctrinas formalmente posibles</a></td>
+        <td></td>
+        <td><a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/Index">Índice </a></td>
+        <td><a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/1">I. Las doctrinas formalmente posibles</a></td>
       </tr>
     </tbody>
   </table>

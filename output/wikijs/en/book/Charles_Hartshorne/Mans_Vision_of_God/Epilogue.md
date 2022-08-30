@@ -9,12 +9,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/10">X. Conclusion (Summary of the Arguments)</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Index">Index</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Acknowledgments">Acknowledgments</a></td>
+        <td><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/10">X. Conclusion (Summary of the Arguments)</a></td>
+        <td><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Index">Index</a></td>
+        <td><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Acknowledgments">Acknowledgments</a></td>
       </tr>
     </tbody>
   </table>
@@ -43,12 +43,12 @@ However, the three elements are apparently not at all “persons.” Yet there a
 While theologians and logicians (with many exceptions) tend to enforce the cruel and fallacious dilemma — either a discredited, ill-generalized, inexact logic, or the abandonment of the belief that love is the highest wisdom and the most far-reaching power — while this happens, the world shows as never before the need of men to be able to retain and intensify this belief, and to do so with their intelligence, not in dangerous contempt of responsible, self critical, cooperative thinking.
 
 <figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/10">X. Conclusion (Summary of the Arguments)</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Index">Index</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Acknowledgments">Acknowledgments</a></td>
+        <td><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/10">X. Conclusion (Summary of the Arguments)</a></td>
+        <td><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Index">Index</a></td>
+        <td><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Acknowledgments">Acknowledgments</a></td>
       </tr>
     </tbody>
   </table>

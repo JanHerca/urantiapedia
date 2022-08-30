@@ -9,12 +9,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_1">Appendix 1. Urantia Book-based Taxonomy</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Index</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_3">Appendix 3. How Are Superior(ity) and Inferior(ity) Used?</a></td>
+        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_1">Appendix 1. Urantia Book-based Taxonomy</a></td>
+        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Index</a></td>
+        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_3">Appendix 3. How Are Superior(ity) and Inferior(ity) Used?</a></td>
       </tr>
     </tbody>
   </table>
@@ -229,12 +229,12 @@ What are the genetic factors related to both temperament and intelligence?
 <br/>
 
 <figure class="table">
-  <table style="border-bottom:0.2em solid #c8ccd1;border-left:1px solid #c8ccd1;border-right:1px solid #c8ccd1;border-top:1px solid #c8ccd1;table-layout: fixed; width: 100%;">
+  <table>
     <tbody>
       <tr>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;"><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_1">Appendix 1. Urantia Book-based Taxonomy</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: center;"><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Index</a></td>
-        <td style="padding:0.4em 0.5em;border:1px solid #c8ccd1;width:33%;text-align: right;"><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_3">Appendix 3. How Are Superior(ity) and Inferior(ity) Used?</a></td>
+        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_1">Appendix 1. Urantia Book-based Taxonomy</a></td>
+        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Index</a></td>
+        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_3">Appendix 3. How Are Superior(ity) and Inferior(ity) Used?</a></td>
       </tr>
     </tbody>
   </table>

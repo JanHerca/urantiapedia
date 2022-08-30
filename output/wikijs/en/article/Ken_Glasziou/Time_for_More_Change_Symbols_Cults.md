@@ -1,5 +1,5 @@
 ---
-title: Time for More Change? Symbols, Cults, and _The Urantia Book_
+title: Time for More Change? Symbols, Cults, and The Urantia Book
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
