@@ -68,6 +68,8 @@ If you have modified the listing from the file on GitHub, you have two options f
 
 - [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

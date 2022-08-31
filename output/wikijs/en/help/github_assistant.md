@@ -123,6 +123,8 @@ Once we have the input in the correct folders, for each language, the steps to t
 
 *Chief Editors* and *Assistant Editors* perform tasks 1-3. *Admins* perform tasks 4-9.
 
+Currently all the tasks of this phase except 2 have been completed.
+
 ![](/image/formats.png)
 
 ### Milestone II: Books, articles, study aids, schemas and indexes
@@ -135,8 +137,10 @@ The tasks to be carried out in this milestone are:
 5. Create a catalog of study aids. See [Study Aids Catalog](/es/help/github_studyaids_catalog).
 6. Get the above study aids in Markdown format. See [Get study aids](/en/help/github_studyaids_markdown).
 7. Create a catalog of diagrams. See [Diagrams Catalog](/en/help/github_diagrams_catalog).
-8. Obtain the above diagrams in HTML image map format or preferably SVG. See [Get Diagrams](/en/help/github_diagrams_markdown).
+8. Obtain the above diagrams in HTML image map format or preferably SVG. See [Get Diagrams](/en/help/github_diagrams_svg).
 9. Create the project image catalog. See [Images Catalog](/en/help/github_images_catalog).
+
+*Chief Editors* and *Assistant Editors* can perform all tasks in this Milestone. The documentation for each task details what one or the other can contribute.
 
 ## External links
 

@@ -70,6 +70,8 @@ If you are a “Chief Editor” using GitHub you can submit articles as detailed
 
 - [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

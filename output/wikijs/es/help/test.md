@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-06-04T17:38:14.733Z
+date: 2022-08-30T19:14:05.265Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:54:53.296Z
@@ -309,6 +309,20 @@ With a reference later in the document defining the URL location:
 **Result**
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
+
+## SVG
+
+SVG can be included as any other content supported by browsers:
+
+```svg
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
+```
+
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
 
 ## Plugins
 

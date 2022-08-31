@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_diagrams_markdown">Get diagrams</a></td>
+        <td><a href="/en/help/github_diagrams_svg">Get diagrams</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/markdown">Markdown formatting help</a></td>
       </tr>
@@ -111,11 +111,13 @@ To push changes you have two options: 1) if you are a “Chief Editor” use Git
 
 - [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_diagrams_markdown">Get diagrams</a></td>
+        <td><a href="/en/help/github_diagrams_svg">Get diagrams</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/markdown">Markdown formatting help</a></td>
       </tr>

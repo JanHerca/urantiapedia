@@ -70,6 +70,8 @@ Si eres un «Editor Jefe» utilizando GitHub puedes enviar los artículos tal co
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

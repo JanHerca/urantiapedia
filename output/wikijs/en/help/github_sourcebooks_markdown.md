@@ -147,7 +147,7 @@ As you can see, one asterisk or hyphen means italics, and two means bold.
 
 If the author quotes a text, that citation should be highlighted as follows:
 
-```
+```wrap
 As the great Seneca once said:
 > «There is no favorable wind for those who do not know where they are going».
 ```
@@ -156,7 +156,7 @@ Simply add the `>` mark and separate the quote with a space.
 
 If the quote is long and has several paragraphs, it can be written like this:
 
-```
+```wrap
 In several places Cicero comments:
 > Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 > 
@@ -171,7 +171,7 @@ Since when converting each chapter of a book into a web page we lose the informa
 
 The page mark must be included between the words that go from one page to another as follows:
 
-```
+```wrap
 Beyond the asteroids come the four great planets Jupiter, Saturn, Uranus, and Neptune, all of them much larger than Earth. Jupiter, the largest, is, according to Sampson, 88,640 miles [142,652 km] in diameter, or <span id="p18">[<sup><small>p. 18</small></sup>]</span> more than eleven times the diameter of the earth; Fourteen hundred Earth-sized bodies could be packed inside Jupiter and leave room to spare. Saturn, next in order, is second only to Jupiter in size, with a diameter of about 70,000 miles [112,654 km]. These two are by far the largest of the planets.
 ```
 
@@ -179,7 +179,7 @@ You can see that the markup is: `<span id="p18">[<sup><small>p. 18</small></sup>
 
 Since this task can be tedious, one way to make it simpler is to put in a shorter alternative markup, like `ppp18` if using the previous example. Then a “Chief Editor” can detect these marks and replace them with the definitive ones automatically. That is, it would also be worth:
 
-```
+```wrap
 Beyond the asteroids come the four great planets Jupiter, Saturn, Uranus, and Neptune, all of them much larger than Earth. Jupiter, the largest, has, according to Sampson, a diameter of 88,640 miles [142,652 km], or ppp18 more than eleven times the diameter of the earth; Fourteen hundred Earth-sized bodies could be packed inside Jupiter and leave room to spare. Saturn, next in order, is second only to Jupiter in size, with a diameter of about 70,000 miles [112,654 km]. These two are by far the largest of the planets.
 ```
 
@@ -206,7 +206,7 @@ Since this task of including the image can be tedious, “Assistant Editors” c
 
 When the text mentions an image it is a good idea to place an internal link to that image. For example, continuing with the image shown above, to include a reference it would be put like this:
 
-```
+```wrap
 ...each of them too faint to be seen individually without telescopic aid (see [Plate I](#Universe_plate_01)).
 
 ...as we saw in [Plate VIII](/en/book/Sir_James_Jeans/The_Universe_Around_Us/#Universe_plate_01) of the previous chapter...
@@ -220,7 +220,7 @@ Since this task of including image references can be tedious, “Assistant Edito
 
 If the book has footnotes, or chapter endnotes, or blanket notes that appear at the end of the book, but for which a mark is placed in the book by number or indication, those footnote marks will always be converted to footnotes, as follows:
 
-```
+```wrap
 The fact that Altair and Saturn appear equally bright in the sky can only mean that Altair is 80,000 times farther away than Saturn[^1].
 
 . . .
@@ -262,6 +262,7 @@ If you are a “Chief Editor” using GitHub you can submit the books you create
 - [Internet Archive - Books](https://archive.org/details/books)
 - [Markdown Format Help](/en/help/markdown)
 
+<br>
 
 
 <figure class="table chapter-navigator">

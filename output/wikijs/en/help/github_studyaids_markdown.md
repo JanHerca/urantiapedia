@@ -78,6 +78,8 @@ If you are a “Chief Editor” using GitHub you can submit study aids as detail
 
 - [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -124,6 +124,8 @@ Una vez tenemos el input en las carpetas correctas, para cada idioma, durante la
 
 Los «Editores Jefe» y los «Editores Asistente» realizarán las tareas 1 a 3. Los «Administradores» se encargan de las tareas 4 a 9.
 
+Actualmente todas las tareas de esta fase excepto la 2 han sido completadas.
+
 ![](/image/formats.png)
 
 ### Fase II: Libros, artículos, ayudas de estudio, diagramas e índices
@@ -136,8 +138,10 @@ Las tareas a realizar en esta fase son:
 5. Crear un catálogo de ayudas de estudio. Consulta [Catálogo de ayudas de estudio](/es/help/github_studyaids_catalog).
 6. Obtener las ayudas de estudio anteriores en formato Markdown. Consulta [Obtener ayudas de estudio](/es/help/github_studyaids_markdown).
 7. Crear un catálogo de diagramas. Consulta [Catálogo de diagramas](/es/help/github_diagrams_catalog).
-8. Obtener los diagramas anteriores en formato mapa de imágenes HTML o preferiblemente SVG. Consulta [Obtener diagramas](/es/help/github_diagrams_markdown).
+8. Obtener los diagramas anteriores en formato mapa de imágenes HTML o preferiblemente SVG. Consulta [Obtener diagramas](/es/help/github_diagrams_svg).
 9. Crear el catálogo de imágenes del proyecto. Consulta [Catálogo de imágenes](/es/help/github_images_catalog).
+
+Tanto los «Editores Jefe» como los «Editores Asistente» pueden encargarse de todas las tareas de esta fase. En la documentación de cada tarea se detalla lo que uno u otro puede aportar.
 
 ## Enlaces externos
 

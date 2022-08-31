@@ -88,6 +88,8 @@ Si eres un «Editor Jefe» utilizando GitHub puedes enviar los diagramas tal com
 - [Formato de mapa de imágenes HTML](https://www.w3schools.com/html/html_images_imagemap.asp)
 - [Inkscape](https://inkscape.org/es/)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -59,6 +59,8 @@ Si has modificado el listado a partir del fichero que hay en GitHub, tienes dos 
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

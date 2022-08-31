@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/es/help/github_upload">Bulk upload content to Urantiapedia</a></td>
-        <td><a href="/es/help">Índice</a></td>
+        <td><a href="/es/help">Index</a></td>
         <td><a href="/es/help/github_sourcebooks_markdown">Get “source” books</a></td>
       </tr>
     </tbody>
@@ -32,11 +32,11 @@ Several prominent readers have long compiled these parallels. Reader Duane L. Fa
 
 This task is the creation of a list of all the non-biblical books that have been detected with parallels with *The Urantia Book*. An invaluable source for this listing is to go to Matthew Block's website.
 
-The provisional list of books can be found here: [Books](/en/books).
+The provisional list of books can be found here: [Books](/en/book).
 
 To edit that list, you can do it in two ways:
-- Log in here at *Urantiapedia*. Go to the list of books: [Books](/en/books). Put the page in edition in the menu *Page actions > Edit* in the upper right button panel. A simple Markdown editor will open where you can edit the book listing. (IMPORTANT: to be able to do this you need an Administrator to enable editing permissions on that page.)
-- In the GitHub project, modify this file: `/output/wikijs/en/books.md`. To modify it, you can simply download that file or the entire project from GitHub. See the [Assistant Editors help](/en/help/github_assistant) to learn how to download things from GitHub.
+- Log in here at *Urantiapedia*. Go to the list of books: [Books](/en/book). Put the page in edition in the menu *Page actions > Edit* in the upper right button panel. A simple Markdown editor will open where you can edit the book listing. (IMPORTANT: to be able to do this you need an Administrator to enable editing permissions on that page.)
+- In the GitHub project, modify this file: `/output/wikijs/en/book.md`. To modify it, you can simply download that file or the entire project from GitHub. See the [Assistant Editors help](/en/help/github_assistant) to learn how to download things from GitHub.
 
 In either of the two previous cases, the file to be edited is a very simple Markdown file where for each book you must include the title, the author, and the year of the first edition.
 
@@ -48,13 +48,15 @@ If you have modified the listing from the file on GitHub, you have two options f
 - [Paramony](https://www.amazon.com/Paramony-Duane-L-Faw/dp/0965197255/ref=sr_1_2?crid=2FCT0LM14FRVT)
 - [“Sources” of The Urantia Book](https://urantiabooksources.com/)
 
+<br>
+
 
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td><a href="/es/help/github_upload">Bulk upload content to Urantiapedia</a></td>
-        <td><a href="/es/help">Índice</a></td>
+        <td><a href="/es/help">Index</a></td>
         <td><a href="/es/help/github_sourcebooks_markdown">Get “source” books</a></td>
       </tr>
     </tbody>

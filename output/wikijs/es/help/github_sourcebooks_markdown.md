@@ -147,7 +147,7 @@ Como puede verse un asterisco o guión significa cursiva, y dos significan negri
 
 Si el autor cita un texto, debe resaltarse esa cita como sigue:
 
-```
+```wrap
 Como ya dijo el gran Séneca:
 > «No hay viento favorable para el que no sabe adónde va».
 ```
@@ -156,7 +156,7 @@ Simplemente añadir la marca `>` y separada con un espacio la cita.
 
 Si la cita es extensa y tiene varios párrafos se puede poner así:
 
-```
+```wrap
 En varios lugares lo comenta Cicerón:
 > Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 > 
@@ -171,7 +171,7 @@ Puesto que al convertir cada capítulo de un libro en una página web perdemos l
 
 La marca de página debe incluirse entre las palabras en las que se pasa de una página a otra como sigue:
 
-```
+```wrap
 Más allá de los asteroides vienen los cuatro grandes planetas Júpiter, Saturno, Urano y Neptuno, todos ellos mucho más grandes que la Tierra. Júpiter, el más grande, tiene, según Sampson, un diámetro de 88.640 millas [142.652 km], o <span id="p18">[<sup><small>p. 18</small></sup>]</span> más de once veces el diámetro de la tierra; mil cuatrocientos cuerpos del tamaño de la Tierra podrían estar empaquetados dentro de Júpiter y dejar espacio de sobra. Saturno, que le sigue en orden, solo es superado por Júpiter en tamaño, con un diámetro de unas 70.000 millas [112.654 km]. Estos dos son, con mucho, los más grandes de los planetas.
 ```
 
@@ -179,7 +179,7 @@ Se puede ver que la marca es: `<span id="p18">[<sup><small>p. 18</small></sup>]<
 
 Como esta tarea puede ser tediosa una manera de hacerla más simple puede ser colocar una marca alternativa más corta, como `ppp18`, por seguir con el ejemplo anterior. Luego un «Editor Jefe» puede detectar esas marcas y reemplazarlas por las definitivas de un modo automático. Es decir, así también valdría:
 
-```
+```wrap
 Más allá de los asteroides vienen los cuatro grandes planetas Júpiter, Saturno, Urano y Neptuno, todos ellos mucho más grandes que la Tierra. Júpiter, el más grande, tiene, según Sampson, un diámetro de 88.640 millas [142.652 km], o ppp18 más de once veces el diámetro de la tierra; mil cuatrocientos cuerpos del tamaño de la Tierra podrían estar empaquetados dentro de Júpiter y dejar espacio de sobra. Saturno, que le sigue en orden, solo es superado por Júpiter en tamaño, con un diámetro de unas 70.000 millas [112.654 km]. Estos dos son, con mucho, los más grandes de los planetas.
 ```
 
@@ -206,7 +206,7 @@ Puesto que esta tarea de incluir la imagen puede ser tediosa el «Editor Asisten
 
 Cuando el texto menciona una imagen es buena idea colocar un enlace interno a esa imagen. Por ejemplo, siguiendo con la imagen que se mostraba arriba, para incluir una referencia se pondría así:
 
-```
+```wrap
 ... cada una de ellas demasiado tenue para ser vistas individualmente sin ayuda telescópica (ver [Lámina I](#Universe_plate_01)).
 
 ... como ya vimos en la [Lámina VIII](/es/book/Sir_James_Jeans/The_Universe_Around_Us/#Universe_plate_01) del capítulo anterior ...
@@ -220,7 +220,7 @@ Puesto que esta tarea de incluir las referencias a imágenes puede ser tediosa e
 
 Si el libro tiene notas al pie de página, o notas al final del capítulo, o notas globales que aparecen al final del libro, pero de las cuales se coloca una marca en el libro mediante un número o una indicación, esas marcas de anotación se convertirán en notas a pie de página siempre, como sigue:
 
-```
+```wrap
 El hecho de que Altair y Saturno parezcan igualmente brillantes en el cielo solo puede significar que Altair está 80.000 veces más lejos que Saturno[^1].
 
 . . . 
@@ -262,7 +262,7 @@ Si eres un «Editor Jefe» utilizando GitHub puedes enviar los libros creados po
 - [Internet Archive - Books](https://archive.org/details/books)
 - [Ayuda del formato Markdown](/es/help/markdown)
 
-
+<br>
 
 <figure class="table chapter-navigator">
   <table>

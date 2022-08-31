@@ -48,7 +48,7 @@ Para subir contenido sigue estos pasos:
       <tr>
         <td><a href="/es/help/github_bible_to_wiki">Conversión de La Biblia</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/markdown">Ayuda del formato Markdown</a></td>
+        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros «fuente»</a></td>
       </tr>
     </tbody>
   </table>

@@ -311,6 +311,29 @@ With a reference later in the document defining the URL location:
 
 [id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
 
+## SVG
+
+SVG can be included as any other content supported by browsers:
+
+```svg
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
+```
+
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
+
+## Maps
+
+**Markdown**
+```
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
+```
+**Result**
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
+
 
 ## Plugins
 
@@ -680,9 +703,6 @@ Earth mass = $M^\odot$
 See [Mathjax](https://www.mathjax.org/)
 See [Mathjax documentation](http://docs.mathjax.org/en/latest/index.html)
 See [LaTeX Math expressions](https://www.overleaf.com/learn/latex/Mathematical_expressions)
-
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1NbCCF05Yq94NTPWBwSt_cXvLWYI&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 

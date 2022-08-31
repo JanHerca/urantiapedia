@@ -53,15 +53,12 @@ ___
 ---
 ***
 ```
-
 **Result**
 ___
 ---
 ***
 
 ## Typographic replacements
-
-Enable typographer option to see result.
 
 **Markdown**
 ```
@@ -73,7 +70,6 @@ test.. test... test..... test?..... test!....
 
 "Smartypants, double quotes" and 'single quotes'
 ```
-
 **Result**
 
 © © ® ® ™ ™ § § ±
@@ -95,7 +91,6 @@ _This is italic text_
 ~~Strikethrough~~
 ***Bold & italic***
 ```
-
 **Result**
 **This is bold text**
 __This is bold text__
@@ -202,25 +197,60 @@ Custom blockquotes
 
 ## Code
 
+### Inline code
+
+**Markdown**
+```
 Inline `code`
 
-Indented code
+```
+**Result**
+Inline `code`
 
+### Indented code
+
+**Markdown**
+```
     // Some comments
     line 1 of code
     line 2 of code
     line 3 of code
 
+```
+**Result**
+    // Some comments
+    line 1 of code
+    line 2 of code
+    line 3 of code
 
-Block code "fences"
+### Block code "fences"
 
+**Markdown**
+~~~
+```
+Sample text here...
+```
+~~~
+**Result**
 ```
 Sample text here...
 ```
 
-Syntax highlighting
+### Syntax highlighting
 
-``` js
+**Markdown**
+~~~
+```js
+var foo = function (bar) {
+  return bar++;
+};
+
+console.log(foo(5));
+```
+~~~
+**Result**
+
+```js
 var foo = function (bar) {
   return bar++;
 };
@@ -323,6 +353,33 @@ With a reference later in the document defining the URL location:
 **Result**
 
 [id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
+
+## SVG
+
+SVG can be included as any other content supported by browsers:
+
+**Markdown**
+
+```svg
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
+```
+
+**Result**
+
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
+
+## Maps
+
+**Markdown**
+```
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
+```
+**Result**
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 ## Plugins
@@ -692,15 +749,6 @@ Earth mass = $M^\odot$
 Earth mass = $M^\odot$
 
 See external links for more on Math use in Markdown.
-
-## Maps
-
-**Markdown**
-```
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
-```
-**Result**
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## External links
 

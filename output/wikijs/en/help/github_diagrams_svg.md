@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/en/help/github_diagrams_catalog">Creating a catalog of diagrams</a></td>
-        <td><a href="/en/help">Índice</a></td>
+        <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_images_catalog">Creating an image catalog</a></td>
       </tr>
     </tbody>
@@ -88,12 +88,14 @@ If you are a “Chief Editor” using GitHub you can submit diagrams as detailed
 - [HTML Image Map Format](https://www.w3schools.com/html/html_images_imagemap.asp)
 - [Inkscape](https://inkscape.org/en/)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td><a href="/en/help/github_diagrams_catalog">Creating a catalog of diagrams</a></td>
-        <td><a href="/en/help">Índice</a></td>
+        <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_images_catalog">Creating an image catalog</a></td>
       </tr>
     </tbody>

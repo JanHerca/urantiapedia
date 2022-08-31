@@ -52,15 +52,12 @@ ___
 ---
 ***
 ```
-
 **Resultado**
 ___
 ---
 ***
 
 ## Reemplazos tipográficos
-
-Habilita la opción de tipógrafo para ver el resultado.
 
 **Markdown**
 ```
@@ -70,9 +67,8 @@ test.. test... test..... test?..... test!....
 
 !!!!!! ???? ,,  -- ---
 
-"Smartypants, double quotes" and 'single quotes'
+"Bermudas, comillas dobles" y 'comillas simples'
 ```
-
 **Resultado**
 
 © © ® ® ™ ™ § § ±
@@ -81,27 +77,26 @@ test… test… test… test?.. test!..
 
 !!! ??? , – —
 
-“Smartypants, double quotes” and ‘single quotes’
+Bermudas, comillas dobles” y ‘comillas simples’
 
 ## Énfasis
 
 **Markdown**
 ```
-**This is bold text**
-__This is bold text__
-*This is italic text*
-_This is italic text_
-~~Strikethrough~~
-***Bold & italic***
+**Esto es texto en negrita**
+__Esto es texto en negrita__
+*Esto es texto en cursiva*
+_Esto es texto en cursiva_
+~~Tachado~~
+***Negrita y cursiva***
 ```
-
 **Resultado**
-**This is bold text**
-__This is bold text__
-*This is italic text*
-_This is italic text_
-~~Strikethrough~~
-***Bold & italic***
+**Esto es texto en negrita**
+__Esto es texto en negrita__
+*Esto es texto en cursiva*
+_Esto es texto en cursiva_
+~~Tachado~~
+***Negrita y cursiva***
 
 ## Citas y bloques
 
@@ -201,25 +196,61 @@ Bloques personalizadas
 
 ## Código
 
+### Código inline
+
+**Markdown**
+```
 Inline `code`
 
-Código indentado
+```
+**Resultado**
+Inline `code`
 
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
+### Código indentado
 
-
-Bloques de código con "barreras"
+**Markdown**
+```
+    // Comentario de código
+    línea 1 de código
+    línea 2 de código
+    línea 3 de código
 
 ```
-Sample text here...
+**Resultado**
+    // Comentario de código
+    línea 1 de código
+    línea 2 de código
+    línea 3 de código
+
+
+### Bloques de código con "barreras"
+
+**Markdown**
+~~~
+```
+El texto aquí...
+```
+~~~
+**Resultado**
+```
+El texto aquí...
 ```
 
-Remarcado de sintaxis
+### Remarcado de sintaxis
 
-``` js
+**Markdown**
+~~~
+```js
+var foo = function (bar) {
+  return bar++;
+};
+
+console.log(foo(5));
+```
+~~~
+**Resultado**
+
+```js
 var foo = function (bar) {
   return bar++;
 };
@@ -323,6 +354,32 @@ Con una referencia más adelante en el documento que define la ubicación de la 
 
 [id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
 
+## SVG
+
+SVG se puede incluir como cualquier otro contenido soportado por los navegadores:
+
+**Markdown**
+
+```svg
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
+```
+
+**Resultado**
+
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
+
+## Mapas
+
+**Markdown**
+```
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
+```
+**Resultado**
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Plugins
 
@@ -691,15 +748,6 @@ Earth mass = $M^\odot$
 Earth mass = $M^\odot$
 
 Veáse los enlaces externos para saber más acerca del uso de Matemáticas en Markdown.
-
-## Mapas
-
-**Markdown**
-```
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
-```
-**Resultado**
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Enlaces externos
 

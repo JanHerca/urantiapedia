@@ -32,11 +32,11 @@ Desde hace tiempo varios lectores destacados han realizado trabajos de recopilac
 
 En esta tarea se tratará de crear un listado de todos los libros no bíblicos que se han detectado con paralelos con *El Libro de Urantia*. Una fuente invaluable para obtener este listado es acudir al sitio web anterior de Matthew Block.
 
-El listado provisional de libros se encuentra aquí: [Libros](/es/books).
+El listado provisional de libros se encuentra aquí: [Libros](/es/book).
 
 Para editar ese listado, puedes hacerlo de dos maneras:
-- Haz log in aquí en *Urantiapedia*. Ve al listado de libros: [Libros](/es/books). Pon la página en edición en el menú *Acciones > Editar* (*Page actions > Edit*) en la botonera superior derecha. Se abrirá un sencillo editor Markdown donde puedes editar el listado de libros. (IMPORTANTE: para poder hacer esto necesitas que un Administrador te habilite permisos de edición en esa página.)
-- En el proyecto de GitHub modifica este archivo: `/output/wikijs/es/books.md`. Para modificarlo puedes descargarte simplemente ese archivo o todo el proyecto de GitHub. Consulta el [Manual para Editores Asistentes](/es/help/github_assistant) para saber cómo descargar cosas de GitHub.
+- Haz log in aquí en *Urantiapedia*. Ve al listado de libros: [Libros](/es/book). Pon la página en edición en el menú *Acciones > Editar* (*Page actions > Edit*) en la botonera superior derecha. Se abrirá un sencillo editor Markdown donde puedes editar el listado de libros. (IMPORTANTE: para poder hacer esto necesitas que un Administrador te habilite permisos de edición en esa página.)
+- En el proyecto de GitHub modifica este archivo: `/output/wikijs/es/book.md`. Para modificarlo puedes descargarte simplemente ese archivo o todo el proyecto de GitHub. Consulta el [Manual para Editores Asistentes](/es/help/github_assistant) para saber cómo descargar cosas de GitHub.
 
 En cualquiera de los dos casos anteriores el fichero a editar es un archivo Markdown muy simple donde para cada libro hay que incluir el título, el autor, y el año de la primera edición.
 
@@ -50,6 +50,7 @@ Si has modificado el listado a partir del fichero que hay en GitHub, tienes dos 
 - [Paramony](https://www.amazon.com/Paramony-Duane-L-Faw/dp/0965197255/ref=sr_1_2?crid=2FCT0LM14FRVT)
 - [«Fuentes» de El Libro de Urantia](https://urantiabooksources.com/)
 
+<br>
 
 <figure class="table chapter-navigator">
   <table>
