@@ -10,23 +10,31 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 This is the main index for documentation on Urantiapedia itself. Please read carefully this manual in regard with the parts that are related with your roles in the site.
 
-- Starter Help
+- The Urantiapedia project
   1. [Starting with Urantiapedia](/en/help/start)
   2. [Principles ruling Urantiapedia](/en/help/principles)
   3. [Urantiapedia content](/en/help/content)
   4. [Project Milestones](/en/help/phases)
   5. [Languages supported](/en/help/languages)
   6. [Current Status](/en/help/status)
-- Help about roles
+- About roles
   1. [Collaborator profiles](/en/help/roles)
   2. [Administrators help](/en/help/admin)
   3. [Chief Editors help](/en/help/github)
   4. [Assistant Editors help](/en/help/github_assistant)
   5. [Developers help](/en/help/devs)
-- Help about using GitHub
+- How to use this website
+  1. [Interface and basic use of Urantiapedia](/en/help/web_basics)
+  2. [Manage pages](/en/help/web_pages)
+  3. [Use of editors](/en/help/web_editors)
+    - [Using the visual editor](/en/help/web_visual_editor)
+    - [Using the Markdown editor](/en/help/web_markdown_editor)
+      - [Markdown format help](/en/help/markdown)
+    - [Using the HTML editor](/en/help/web_html_editor)
+- How to use Urantiapedia projects in GitHub
   1. [Setting up GitHub project](/en/help/github_setting)
   2. [Content of GitHub project](/en/help/github_content)
-- Tasks in GitHub
+- Tasks for collaborators
   - Milestone I - The Urantia Book, the Bible and Topic Index
     1. [Translation of Paramony](/en/help/github_paramony)
     2. [Translation an revision of Topic Index](/en/help/github_topicindex)
@@ -47,5 +55,3 @@ This is the main index for documentation on Urantiapedia itself. Please read car
     7. [Diagrams catalog](/en/help/github_diagrams_catalog)
     8. [Get Diagrams](/en/help/github_diagrams_svg)
     9. [Images Catalog](/en/help/github_images_catalog)
-- Help about editing in Urantiapedia 
-  1. [Markdown format help](/en/help/markdown)

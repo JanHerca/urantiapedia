@@ -30,32 +30,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## About GitHub
 
-[Urantiapedia](https://github.com/JanHerca/urantiapedia) project on GitHub is a project created to serve as a quick start-up procedure for *Urantiapedia* content. It contains files in certain formats and software that help automate the creation of initial content.
+Urantiapedia has two public projects in GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) and [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) created to serve as a quick start-up procedure for initial content. It contains files in certain formats and software that help automate the creation of initial content.
 
 ## Who is this manual for?
 
-This manual is for users called "Chief Editors", or users that comply with these requirements:
-- registered users with an account on [Blue Fields](https://blue-fields.netlify.app/), on [Urantiapedia](https://urantiapedia.org) and on [GitHub](https://github.com/).
-- authorized as project collaborators by the team that runs the project on [Blue Fields](https://blue-fields.netlify.app/) platform.
-- authorized as "Chief Editors" by "Administrators" of [Urantiapedia](https://urantiapedia.org).
-- with a good knowledge of Git and GitHub management.
-- with good knowledge of *The Urantia Book* in at least one language in which it is published, but better if it is English and a second language on which the book is translated.
-- they wish to collaborate in a selfless way in the addition of information related to *The Urantia Book* in the *Urantiapedia*.
+This manual is for users called “Chief Editors”, or users that comply with these requirements:
+- They have an account in this with editing permissions, and another in [GitHub](https://github.com/).
+- They can add content to both Urantiapedia projects in GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) and [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). They can do bulk load of changes using the second project.
+- They have a good knowledge of Git and GitHub management.
+- They have good knowledge of *The Urantia Book* in at least one language in which it is published, but better if it is English and a second language on which the book is translated.
+- They wish to collaborate in a selfless way in the addition of information related to *The Urantia Book* in the *Urantiapedia*.
 
 ## GitHub workflow
 
-The process will be as follows:
-1. "Chief Editor" creates a *fork* (a copy in its own account) of *Urantiapedia* project on GitHub: https://github.com/JanHerca/urantiapedia.
-2. "Chief Editor" creates a local copy of the project on PC. The local copy must be of the latest version of *Urantiapedia* content (the master branch). This is done first through a *clone* action and later through *pulls* actions to the project, that downloads any change to the local copy.
-3. "Chief Editor" makes changes in the local copy to the files indicated in this manual and in the way explained. "Chief Editor" makes commmits to the local copy.
-4. "Chief Editor" sends changes to GitHub through a *push*. 
-5. "Chief Editor" performs a *pull request* in GitHub web. 
-6. The *pull requests* of "Chief Editors" are reviewed by "Administrators", who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and "Chief Editors" will be notified to fix them.
-7. When changes are OK "Administrator" do a *pull* to download changes to the own copy.
-8. "Administrator" converts files from [Urantiapedia](https://github.com/JanHerca/urantiapedia) repo to files in Wiki.js format (HTML) using *Urantiapedia Tools* and copy them to [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) repo. This project is a synced copy with *Urantiapedia* website.
-9. "Administrator" uploads changes to remote [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) repo.
-10. *Urantiapedia* website is synced automatically. Now changes are visible to all, in order to check and validate that they are correct.
-11. The process is repeated as many times as needed, returning to point 3.
+The process for a “Chief Editor” will be as follows:
+1. Creates a *fork* (a copy in its own account) of *Urantiapedia* projects on GitHub: 
+  - https://github.com/JanHerca/urantiapedia
+  - https://github.com/JanHerca/urantiapedia-backup
+2. Creates a local copy of the projects on PC. The local copy must be of the latest version of *Urantiapedia* content (the master branch). This is done first through a *clone* action and later through *pulls* actions to the projects, that downloads any change to the local copy.
+3. Makes changes in the local copy of the Urantiapedia project to the files indicated in this manual and in the way explained. He or she makes commmits to the local copy.
+4. Sends partical changes (not ready to be uploaded to the web) to Urantiapedia project in GitHub through a *push*. 
+5. When there is a set of changes ready for the web , synchronizes the Urantiapedia project with Urantiapedia-backup project and upload changes through a *push*. 
+6. Then creates a *pull requests* from the GitHub websote for both projects: Urantiapedia and Urantiapedia-backup.
+7. This *pull requests* of “Chief Editors” are reviewed by “Administrators”, who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and “Chief Editors” will be notified to fix them.
+8. When changes are OK an “Administrator” do a *merge* of them and they are uploaded automatically to the web. They are usually available in a few minutes depending on the number of changes and their type.
 
 ![](/image/github_workflow.png)
 
@@ -70,7 +68,8 @@ To know the content of the GitHub project and its structure, check [Content of G
 
 To know about the milestones of the project check [Milestones of Urantiapedia](/en/help/phases).
 
-Once we have the input in the correct folders, for each language, the steps to take in Milestone I are:
+### Milestone I: The Urantia Book, the Bible and Topic Index
+
 1. Translating *Paramony* from English to the target language. Check [Translation of Paramony](/en/help/github_paramony).
 2. Translating and reviewing *Topic Index* from English to the target language. Check [Translation an revision of Topic Index](/en/help/github_topicindex).
 3. Obtaining a public-domain translation of *The Bible* in the target language. Check [Obtaining The Bible](/en/help/github_bible).
@@ -81,9 +80,21 @@ Once we have the input in the correct folders, for each language, the steps to t
 8. Converting *The Bible* from LaTeX to Wiki.js with footnotes. Check [Converting Bible](/en/help/github_bible_to_wiki).
 9. Commiting changes to [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) project. Check [Bulk upload content to Urantiapedia](/en/help/github_upload).
 
-*Chief Editors* and *Assistant Editors* perform tasks 1-3. *Admins* perform tasks 4-9.
+Currently all tasks except 2 have been completed.
 
 ![](/image/formats.png)
+
+### Milestone II: Books, articles, study aids, schemas and indexes
+
+1. Create a catalog of books that are considered sources of *The Urantia Book* or contain interesting parallels. See [Source Book Catalog](/en/help/github_sourcebooks_catalog).
+2. Get previous books. See [Get “source” books](/en/help/github_sourcebooks_markdown).
+3. Create a catalog of articles written by readers. See [Articles Catalog](/en/help/github_articles_catalog).
+4. Get previous articles. See [Get Articles](/en/help/github_articles_markdown).
+5. Create a catalog of study aids. See [Study Aids Catalog](/es/help/github_studyaids_catalog).
+6. Get the above study aids. See [Get study aids](/en/help/github_studyaids_markdown).
+7. Create a catalog of diagrams. See [Diagrams Catalog](/en/help/github_diagrams_catalog).
+8. Obtain the above diagrams in HTML image map format or preferably SVG. See [Get Diagrams](/en/help/github_diagrams_svg).
+9. Create the project image catalog. See [Images Catalog](/en/help/github_images_catalog).
 
 ## External links
 

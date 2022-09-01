@@ -12,19 +12,37 @@ dateCreated: 2022-04-05T10:55:15.557Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_upload">Subir contenido de forma masiva a Urantiapedia</a></td>
+        <td><a href="/es/help/web_markdown_editor">Uso del editor Markdown</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td></td>
+        <td><a href="/es/help/web_html_editor">Uso del editor HTML</a></td>
       </tr>
     </tbody>
   </table>
 </figure>
 
-Este es un listado completo del formato Markdown que es compatible con *Urantiapedia*. Para cada ejemplo se proporciona el marcado y el resultado. Echa un vistazo a todas las opciones disponibles antes de usar el formato Markdown en cualquier página.
+## Visión general
+
+Markdown es un lenguaje de marcado ligero con sintaxis de formato de texto plano. Es la sintaxis de facto para escribir documentación en los principales repositorios de código, como GitHub.
+
+*Urantiapedia* admite la [especificación completa CommonMark](https://spec.commonmark.org/) + agrega algunas extensiones útiles (incluidos los complementos Github Flavored Markdown). Mediante el uso deal de `markdown-it` se soportan [plugins de sintaxis](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
+
+Esta es una lista completa del marcado Markdown que es compatible con *Urantiapedia*. Para cada elemento admitido, tiene: cómo usarlo en el editor, accesos directos si existen y ejemplos con el marcado y el resultado. Eche un vistazo a todas las opciones disponibles antes de usar el formato Markdown en cualquier página.
 
 ---
 
 ## Encabezados
+
+### Tab {.tabset}
+
+#### Uso
+Mediante 1 a 6 símbolos **almohadilla**, seguidos de un espacio, antes del texto.
+
+#### Acceso
+- En la línea deseada, haz clic en el botón desplegable ![Header](https://docs.requarks.io/assets/ui/ui-markdown-headers.png =x30){.radius-4} en la barra de herramientas.
+- En la línea deseada, presiona <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Derecha</kbd> para aumentar el nivel del encabezado.
+- En la línea deseada, presiona <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Izquierda</kbd> para disminuir el nivel del encabezado.
+
+#### Ejemplos
 
 **Markdown**
 ```
@@ -44,7 +62,19 @@ Este es un listado completo del formato Markdown que es compatible con *Urantiap
 <div style="padding-bottom:5px;color: #616161; font-weight: bold;background:linear-gradient(90deg,#616161,rgba(25,118,210,0)) left bottom #fff0 no-repeat;;background-size:100% 1px;">h6 Heading</div>
 
 Para una lista de emojis soportados ver más abajo. 
+
 ## Líneas horizontales
+
+### Tab {.tabset}
+
+#### Uso
+
+Usando símbolos de **triple guion** en una línea dedicada.
+
+#### Acceso
+- Haciendo clic en el botón ![Regla horizontal](https://docs.requarks.io/assets/ui/ui-markdown-hr.png =x30){.radius-4} en la barra de herramientas.
+
+#### Ejemplos
 
 **Markdown**
 ```
@@ -58,6 +88,13 @@ ___
 ***
 
 ## Reemplazos tipográficos
+
+### Tab {.tabset}
+
+#### Uso
+Escribe con normalidad en el texto.
+
+#### Ejemplos
 
 **Markdown**
 ```
@@ -77,9 +114,23 @@ test… test… test… test?.. test!..
 
 !!! ??? , – —
 
-Bermudas, comillas dobles” y ‘comillas simples’
+“Bermudas, comillas dobles” y ‘comillas simples’
 
 ## Énfasis
+
+### Tab {.tabset}
+
+#### Uso
+
+Cursiva: uso de un símbolo de **asterisco simple** antes y después de la selección de texto.
+
+Negrita: Usar símbolos de **doble asterisco** antes y después de la selección de texto.
+
+#### Acceso
+- Seleccionando texto y luego haciendo clic en el botón ![Bold](/assets/ui/ui-markdown-bold.png =x30){.radius-4} en la barra de herramientas.
+- Seleccionando texto, luego presionando <kbd>CTRL</kbd> + <kbd>B</kbd>
+
+#### Ejemplos
 
 **Markdown**
 ```
@@ -100,6 +151,16 @@ _Esto es texto en cursiva_
 
 ## Citas y bloques
 
+### Tab {.tabset}
+
+#### Uso
+Usar un símbolo **mayor que**, seguido de un espacio, antes de cada línea de texto.
+
+#### Acceso
+- Seleccionando texto y luego haciendo clic en el botón ![Blockquote](https://docs.requarks.io/assets/ui/ui-markdown-blockquotes.png =x30){.radius-4} en la barra de herramientas.
+
+#### Ejemplo 1
+
 **Markdown**
 ```
 > Las citas se pueden anidar...
@@ -110,6 +171,8 @@ _Esto es texto en cursiva_
 > Las citas se pueden anidar...
 >> ...usando de signos adicionales de mayor que uno al lado del otro...
 > > > ...o con espacios entre signos.
+
+#### Ejemplo 2
 
 Bloques personalizadas
 **Markdown**
@@ -139,9 +202,18 @@ Bloques personalizadas
 > Este es un bloque de error
 {.is-danger}
 
-## Listas
+## Listas no ordenadas
 
-### No ordenadas
+### Tab {.tabset}
+
+#### Uso
+
+Usar un símbolo de **asterisco** o **guión**, seguido de un espacio, antes de cada línea de texto.
+
+#### Acceso
+- Seleccionando texto, luego haciendo clic en el botón ![Blockquote](/assets/ui/ui-markdown-ul.png =x30){.radius-4} en la barra de herramientas.
+
+#### Ejemplos
 
 **Markdown**
 ```
@@ -162,7 +234,55 @@ Bloques personalizadas
     - Nulla volutpat aliquam velit
 + Muy fácil!
 
-### Ordenadas
+#### Estilos
+
+Añadiendo una class en una línea separada, después de la lista, puedes cambiar el aspecto de la lista:
+
+- `links-list`
+- `grid-list`
+
+**Markdown**
+
+```markdown
+- Grid Item 1
+- Grid Item 2
+- Grid Item 3
+{.grid-list}
+
+- [Lorem ipsum dolor sit amet *Subtitle description here*](https://www.google.com)
+- [Consectetur adipiscing elit *Another subtitle description here*](https://www.google.com)
+- [Morbi vehicula aliquam *Third subtitle description here*](https://www.google.com)
+{.links-list}
+```
+**Resultado**
+
+- Grid Item 1
+- Grid Item 2
+- Grid Item 3
+{.grid-list}
+
+y
+
+- [Link Title 1 *Subtitle description here*](https://www.google.com)
+- [Link Title 2 *Another subtitle description here*](https://www.google.com)
+- [Link Title 3 *Third subtitle description here*](https://www.google.com)
+{.links-list}
+
+> Ten en cuenta que estos estilos son específicos de Urantiapedia y cambiarán al estilo de lista estándar en otras aplicaciones.
+{.is-warning}
+
+## Listas Ordenadas
+
+### Tab {.tabset}
+
+#### Uso
+
+Usando un **número**, seguido de un símbolo de **punto**, seguido de un espacio, antes de cada línea de texto.
+
+#### Acceso
+- Seleccionando texto y luego haciendo clic en el botón ![Blockquote](/assets/ui/ui-markdown-ol.png =x30){.radius-4} en la barra de herramientas.
+
+#### Ejemplo 1
 
 **Markdown**
 ```
@@ -183,7 +303,9 @@ Bloques personalizadas
 1. Puedes usar números secuenciales...
 1. ...o mantener todos los números como `1.`
 
-### Comenzar numeración con offset:
+#### Ejemplo 2
+
+Comenzar numeración con offset:
 
 **Markdown**
 ```
@@ -194,9 +316,18 @@ Bloques personalizadas
 57. foo
 1. bar
 
-## Código
+## Código inline
 
-### Código inline
+### Tab {.tabset}
+
+#### Uso
+
+Usando un símbolo de **comilla invertida** antes y después de la selección de texto.
+
+#### Acceso
+- Seleccionando texto, luego haciendo clic en el botón ![Código en línea](/assets/ui/ui-markdown-inlinecode.png =x30){.radius-4} en la barra de herramientas.
+
+#### Ejemplos
 
 **Markdown**
 ```
@@ -206,7 +337,15 @@ Inline `code`
 **Resultado**
 Inline `code`
 
-### Código indentado
+## Código indentado
+
+### Tab {.tabset}
+
+#### Uso
+
+Introduciendo tabulaciones delante de cada línea.
+
+#### Ejemplos
 
 **Markdown**
 ```
@@ -223,7 +362,18 @@ Inline `code`
     línea 3 de código
 
 
-### Bloques de código con "barreras"
+## Bloques de código con "barreras"
+
+### Tab {.tabset}
+
+#### Uso
+
+Usar símbolos de **triples acentos graves** antes y después de la selección de texto, en líneas dedicadas.
+
+#### Acceso
+- Usando la herramienta **Bloque de código** en la barra de herramientas izquierda.
+
+#### Ejemplos
 
 **Markdown**
 ~~~
@@ -260,6 +410,14 @@ console.log(foo(5));
 
 ## Tablas
 
+### Tab {.tabset}
+
+#### Uso
+
+Separar las celdas de la tabla con la **barra vertical**.
+
+#### Ejemplo 1
+
 **Markdown**
 
 ```
@@ -277,6 +435,8 @@ console.log(foo(5));
 | data   | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
+
+#### Ejemplo 2
 
 Columnas alineadas a la derecha
 
@@ -300,6 +460,16 @@ Columnas alineadas a la derecha
 
 ## Enlaces
 
+### Tab {.tabset}
+
+#### Uso
+
+Usando la sintaxis `[Texto del enlace](Objetivo del enlace)`.
+
+#### Acceso
+- Usando la herramienta **Enlace** en la barra de herramientas izquierda.
+
+#### Ejemplos
 
 **Markdown**
 
@@ -322,6 +492,17 @@ Enlace autoconvertido https://github.com/nodeca/pica (habilitar linkify para ver
 
 ## Imágenes
 
+### Tab {.tabset}
+
+#### Uso
+
+Usando la sintaxis `![Imagen de pie de foto](Fuente de la imagen)`.
+
+#### Acceso
+- Usando la herramienta **Recursos** en la barra de herramientas izquierda.
+
+#### Ejemplos
+
 **Markdown**
 ```
 ![Minion](https://octodex.github.com/images/minion.png =300x300)
@@ -331,6 +512,8 @@ Enlace autoconvertido https://github.com/nodeca/pica (habilitar linkify para ver
 **Resultado**
 ![Minion](https://octodex.github.com/images/minion.png =300x300)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat" =300x300)
+
+#### Estilo
 
 Al igual que los enlaces, las imágenes también tienen una sintaxis de estilo de nota al pie
 
@@ -343,6 +526,8 @@ Al igual que los enlaces, las imágenes también tienen una sintaxis de estilo d
 
 ![Alt text][id]
 
+#### Referencias
+
 Con una referencia más adelante en el documento que define la ubicación de la URL:
 
 **Markdown**
@@ -354,9 +539,38 @@ Con una referencia más adelante en el documento que define la ubicación de la 
 
 [id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
 
+#### Dimensiones
+
+A veces, las imágenes son demasiado grandes o tal vez deseas que la imagen ocupe todo el espacio disponible.
+
+Simplemente en las dimensiones al final de la ruta de la imagen en el siguiente formato:
+
+```
+![Image](/link/to/image.jpg =100x50)
+```
+
+También puedes omitir uno de los valores para mantener automáticamente la relación de imagen:
+
+```
+![Image](/link/to/image.jpg =100x)
+![Image](/link/to/image.jpg =x50)
+```
+
+También es posible utilizar otras unidades, como %. Útil cuando necesitas que la imagen ocupe todo el espacio disponible:
+
+```
+![Image](/link/to/image.jpg =100%x)
+```
+
 ## SVG
 
-SVG se puede incluir como cualquier otro contenido soportado por los navegadores:
+### Tab {.tabset}
+
+#### Uso
+
+SVG se puede incluir como cualquier otro contenido soportado por los navegadores
+
+#### Ejemplo
 
 **Markdown**
 
@@ -374,6 +588,14 @@ SVG se puede incluir como cualquier otro contenido soportado por los navegadores
 
 ## Mapas
 
+### Tab {.tabset}
+
+#### Uso
+
+Mediante un `iframe` que apunte a un mapa hecho en una plataforma de mapas.
+
+#### Ejemplo
+
 **Markdown**
 ```
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
@@ -381,42 +603,89 @@ SVG se puede incluir como cualquier otro contenido soportado por los navegadores
 **Resultado**
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
 
-## Plugins
+## Emojies
 
-La característica principal de `markdown-it` es un soporte muy efectivo de [plugins de sintaxis](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
+### Tab {.tabset}
 
+#### Uso
 
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-**Markdown**
-```
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-```
-
-**Resultado**
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
+Usando la sintaxis `:identifier:`
 
 Ver emojis soportados en [Emoji Cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 Ver [cómo cambiar el output](https://github.com/markdown-it/markdown-it-emoji#change-output) con twemoji.
 
+https://github.com/markdown-it/markdown-it-emoji
 
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
+#### Ejemplos
 
 **Markdown**
 ```
-- 19^th^
+> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
+>
+> Shortcuts (emoticons): :-) :-( 8-) ;)
+```
+
+**Resultado**
+> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
+>
+> Shortcuts (emoticons): :-) :-( 8-) ;)
+
+## Subíndice
+
+### Tab {.tabset}
+
+#### Uso
+
+Usar un símbolo de **tilde simple** antes y después de la selección de texto.
+
+https://github.com/markdown-it/markdown-it-sub
+
+#### Acceso
+- Seleccionando texto, luego haciendo clic en el botón ![Subíndice](/assets/ui/ui-markdown-sub.png =x30){.radius-4} en la barra de herramientas.
+
+#### Ejemplos
+
+**Markdown**
+```
 - H~2~O
 ```
 
 **Resultado**
-- 19^th^
 - H~2~O
 
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
+## Superíndice
+
+### Tab {.tabset}
+
+#### Uso
+
+Usando un símbolo de intercalación **único** antes y después de la selección de texto.
+
+https://github.com/markdown-it/markdown-it-sup
+
+#### Atajos
+- Seleccionando texto, luego haciendo clic en el botón ![Superíndice](/assets/ui/ui-markdown-sup.png =x30){.radius-4} en la barra de herramientas.
+
+#### Ejemplos
+
+**Markdown**
+```
+- 19^th^
+```
+
+**Resultado**
+- 19^th^
+
+
+## \<ins>
+
+### Tab {.tabset}
+
+#### Uso
+
+https://github.com/markdown-it/markdown-it-ins
+
+#### Ejemplos
 
 **Markdown**
 ```
@@ -426,7 +695,15 @@ Ver [cómo cambiar el output](https://github.com/markdown-it/markdown-it-emoji#c
 **Resultado**
 ++Inserted text++
 
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
+## \<mark>
+
+### Tab {.tabset}
+
+#### Uso
+
+https://github.com/markdown-it/markdown-it-mark
+
+#### Ejemplos
 
 **Markdown**
 ```
@@ -436,7 +713,17 @@ Ver [cómo cambiar el output](https://github.com/markdown-it/markdown-it-emoji#c
 **Resultado**
 ==Marked text==
 
-### [Notas al pie](https://github.com/markdown-it/markdown-it-footnote)
+## Notas al pie
+
+### Tab {.tabset}
+
+#### Uso
+
+Utiliza la sintaxis `[^1]` para la ubicación de la nota al pie en el texto principal, y `[^1]: esto es una nota al pie` para la nota al pie real. Las propias notas al pie aparecerán automáticamente en la parte inferior de la página debajo de una línea horizontal.
+
+https://github.com/markdown-it/markdown-it-footnote
+
+#### Ejemplos
 
 **Markdown**
 ```
@@ -470,7 +757,15 @@ Duplicated footnote reference[^second].
 
 [^second]: Footnote text.
 
-### [Listas de definiciones](https://github.com/markdown-it/markdown-it-deflist)
+## Listas de definiciones
+
+### Tab {.tabset}
+
+#### Uso
+
+https://github.com/markdown-it/markdown-it-deflist
+
+#### Ejemplos
 
 **Markdown**
 ```
@@ -502,7 +797,7 @@ Term 2 with *inline markup*
 
     Third paragraph of definition 2.
 
-_Compact style:_
+#### Estilo compacto
 
 **Markdown**
 ```
@@ -522,7 +817,15 @@ Term 2
   ~ Definition 2a
   ~ Definition 2b
 
-### [Abreviaturas](https://github.com/markdown-it/markdown-it-abbr)
+## Abreviaturas 
+
+### Tab {.tabset}
+
+#### Uso
+
+https://github.com/markdown-it/markdown-it-abbr
+
+#### Ejemplos
 
 This is HTML abbreviation example.
 
@@ -536,7 +839,15 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 **Resultado**
 *[HTML]: Hyper Text Markup Language
 
-### [Contenedores personalizados](https://github.com/markdown-it/markdown-it-container)
+## Contenedores personalizados
+
+### Tab {.tabset}
+
+#### Uso
+
+https://github.com/markdown-it/markdown-it-container
+
+#### Ejemplos
 
 **Markdown**
 ```
@@ -550,7 +861,13 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 *here be dragons*
 :::
 
-### [Tablas avanzadas](https://github.com/RedBug312/markdown-it-multimd-table)
+## Tablas avanzadas
+
+### Tab {.tabset}
+
+#### Uso
+
+https://github.com/RedBug312/markdown-it-multimd-table
 
 #### Con agrupación, alineación y escape
 
@@ -632,6 +949,8 @@ Citric acid cycle | 2 ATP ||
 **30--32** ATP |||
 [Net ATP yields per hexose]
 
+#### Título agrupado
+
 **Markdown**
 ```
 | Archetypes ||
@@ -658,7 +977,17 @@ Heaven | The Apostles
 Hell | Jesus and the stories of His Life and Teachings 
 Salvation | The “Second Coming” 
 
-### [Mathjax](https://github.com/classeur/markdown-it-mathjax)
+## Mathjax 
+
+### Tab {.tabset}
+
+#### Uso
+
+Veáse los enlaces externos para saber más acerca del uso de Matemáticas en Markdown.
+
+https://github.com/classeur/markdown-it-mathjax
+
+#### Ejemplo 1
 
 Procesa TeX mostrando textos matemáticos
 
@@ -674,6 +1003,8 @@ $$1 *2* 3$$
 
 Processes TeX in-line math $1 *2* 3$
 
+#### Ejemplo 2
+
 **Markdown**
 ```
 When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
@@ -689,6 +1020,8 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 $$\frac{1}{\sqrt{x^2 + 1}}$$
 
+#### Ejemplo 3
+
 **Markdown**
 ```
 __O^1^ O^2^ O^3^ O^4^ O^5^ O^6^ O^7^ O^8^ O^9^ <u>O</u>^10^ O^11^ O^12^__
@@ -696,6 +1029,8 @@ __O^1^ O^2^ O^3^ O^4^ O^5^ O^6^ O^7^ O^8^ O^9^ <u>O</u>^10^ O^11^ O^12^__
 
 **Resultado**
 __O^1^ O^2^ O^3^ O^4^ O^5^ O^6^ O^7^ O^8^ O^9^ <u>O</u>^10^ O^11^ O^12^__
+
+#### Ejemplo 4
 
 **Markdown**
 ```
@@ -705,6 +1040,8 @@ $$V = H_0 * D, $$
 **Resultado**
 $$V = H_0 * D, $$
 
+#### Ejemplo 5
+
 **Markdown**
 ```
 In most part yes, in $1/4$ no.
@@ -712,6 +1049,8 @@ In most part yes, in $1/4$ no.
 
 **Resultado**
 In most part yes, in $1/4$ no.
+
+#### Ejemplo 6
 
 **Markdown**
 ```
@@ -731,6 +1070,8 @@ Binary operators | \times \otimes \oplus \cup \cap | $\times \otimes \oplus \cup
 Relation operators | < > \subset \supset \subseteq \supseteq | $< > \subset \supset \subseteq \supseteq$
 Others | \int \oint \sum \prod | $\int \oint \sum \prod$
 
+#### Ejemplo 7
+
 **Markdown**
 ```
 $$ \max dS/dt = \pm \begin{cases} wR, R \leq D \\ wD, R \geq D  \end{cases}$$
@@ -738,6 +1079,8 @@ $$ \max dS/dt = \pm \begin{cases} wR, R \leq D \\ wD, R \geq D  \end{cases}$$
 
 **Resultado**
 $$ \max dS/dt = \pm \begin{cases} wR, R \leq D \\ wD, R \geq D  \end{cases}$$
+
+#### Ejemplo 8
 
 **Markdown**
 ```
@@ -747,7 +1090,53 @@ Earth mass = $M^\odot$
 **Resultado**
 Earth mass = $M^\odot$
 
-Veáse los enlaces externos para saber más acerca del uso de Matemáticas en Markdown.
+
+
+## Content Tabs
+
+### Tab {.tabset}
+
+#### Uso
+
+Usar encabezados y agregar la clase `{.tabset}` al encabezado principal. El texto del encabezado principal no se mostrará en el resultado final.
+
+Ten en cuenta que puedes usar cualquier nivel de encabezado, siempre que los encabezados secundarios estén un nivel más alto. Por ejemplo, si un encabezado principal es `###` *(h3)*, los encabezados de las pestañas deben ser `####` *(h4)*. El nivel de encabezado máximo para un padre es 5 y los hijos 6.
+
+#### Ejemplos
+
+```
+# Tabs {.tabset}
+## First Tab
+
+Any content here will go into the first tab...
+
+## Second Tab
+
+Any content here will go into the second tab...
+
+## Third Tab
+
+Any content here will go into the third tab...
+```
+
+## Mostrar teclas
+
+### Tab {.tabset}
+
+#### Uso
+
+Usando `<kbd>` antes y `</kbd>` después de la selección de texto.
+
+#### Acceso
+- Seleccionando texto, luego haciendo clic en el botón ![Teclas del teclado](/assets/ui/ui-markdown-kbd.png =x30){.radius-4} en la barra de herramientas.
+
+#### Ejemplos
+
+```html
+Lorem ipsum dolor <kbd>CTRL</kbd> + <kbd>C</kbd>
+```
+
+Lorem ipsum dolor <kbd>CTRL</kbd> + <kbd>C</kbd>
 
 ## Enlaces externos
 
@@ -773,9 +1162,9 @@ Veáse los enlaces externos para saber más acerca del uso de Matemáticas en Ma
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_upload">Subir contenido de forma masiva a Urantiapedia</a></td>
+        <td><a href="/es/help/web_markdown_editor">Uso del editor Markdown</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td></td>
+        <td><a href="/es/help/web_html_editor">Uso del editor HTML</a></td>
       </tr>
     </tbody>
   </table>

@@ -30,32 +30,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Acerca de GitHub
 
-El proyecto *Urantiapedia* en GitHub (https://github.com/JanHerca/urantiapedia) es un proyecto creado para servir de procedimiento rápido de creación inicial de contenido de la *Urantiapedia*. Contiene unos archivos en ciertos formatos y un software que ayudan a automatizar la creación de un contenido inicial.
+*Urantiapedia* tiene dos proyectos públicos en GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) y [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) creados para servir de procedimiento rápido de creación inicial de contenidos. Contiene unos archivos en ciertos formatos y un software que ayudan a automatizar la creación de un contenido inicial.
 
 ## A quién va dirigido este manual
 
 Este manual va dirigido a los usuarios denominados «Editores Jefe», es decir, aquellos usuarios que cumplen los siguientes requisitos:
-- registrados con una cuenta en [Blue Fields](https://blue-fields.netlify.app/), en [Urantiapedia](https://urantiapedia.org) y en [GitHub](https://github.com/).
-- autorizados como colaboradores del proyecto por el equipo que dirige el proyecto en la plataforma [Blue Fields](https://blue-fields.netlify.app/).
-- autorizados como «Editores Jefe» por un usuario «Administrador» de [Urantiapedia](https://urantiapedia.org).
-- con buenos conocimientos de manejo de Git y GitHub.
-- con buen conocimiento de *El Libro de Urantia* al menos en un idioma en los que está publicado, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
-- desean colaborar de forma desinteresada en la incorporación de información relativa a *El Libro de Urantia* en la *Urantiapedia*.
+- Tienen una cuenta en esta web con permisos de edición, y una cuenta en [GitHub](https://github.com/).
+- Pueden aportar contenido a los dos proyectos de Urantiapedia en GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) y [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Pueden hacer cambios de forma masiva usando el segundo proyecto.
+- Tienen buenos conocimientos de manejo de Git y GitHub.
+- Tienen buen conocimiento de *El Libro de Urantia* al menos en un idioma en los que está publicado, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
+- Desean colaborar de forma desinteresada en la incorporación de información relativa a *El Libro de Urantia* en la *Urantiapedia*.
 
 ## Procedimiento de trabajo en GitHub
 
-El proceso a seguir será el siguiente:
-1. El «Editor Jefe» crea un *fork* (una copia en su propia cuenta) del proyecto de la *Urantiapedia* en GitHub: https://github.com/JanHerca/urantiapedia.
-2. El «Editor Jefe» crea una copia local del proyecto en su PC. La copia local debe ser de la última versión del contenido de la *Urantiapedia* (la rama master). Esto se hace primero con una acción *clone* y luego con acciones *pull* contra el proyecto, lo que descarga cualquier cambio a nuestra copia local.
-3. El «Editor Jefe» realiza los cambios que desea en la copia local a los archivos que se indican en este manual y del modo en como se indica.Realiza *commits* a su copia local.
-4. El «Editor Jefe» envía cambios a GitHub mediante acciones *push*.
-5. El «Editor Jefe» realiza un *pull request* desde la web de GitHub. 
-6. Los *pull request* de los «Editores Jefe» son revisados por los «Administradores», que se encargan de hacer un *merge* con la rama principal (master) de todos aquellos cambios que estén correctos. Cualquier cambio que no esté correcto será rechazado y se notificará a los «Editores Jefe» para que los corrijan.
-7. Cuando los cambios están correctos el «Administrador» hace un *pull* para bajarse los cambios a su copia local.
-8. El «Administrador» convierte los archivos del repositorio de [Urantiapedia](https://github.com/JanHerca/urantiapedia) en ficheros en formato Wiki.js (HTML) usando las *Urantiapedia Tools* y los copia al repositorio de [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Este proyecto es una copia sincronizada con la web de la *Urantiapedia*.
-9. El «Administrador» sube los cambios al repositorio remoto de [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup).
-10. La web de la *Urantiapedia* se sincroniza de forma automática. Ahora los cambios quedan visibles para todos, para poder comprobar y validar que quedan bien.
-11. El proceso se repite cuantas veces sea necesario regresando al punto 3.
+El proceso a seguir para el «Editor Jefe» será el siguiente:
+1. Crea un *fork* (una copia en su propia cuenta) de los proyectos de la *Urantiapedia* en GitHub: 
+  - https://github.com/JanHerca/urantiapedia
+  - https://github.com/JanHerca/urantiapedia-backup
+2. Crea una copia local de los proyectos en su PC. La copia local debe ser de la última versión del contenido de la *Urantiapedia* (la rama master). Esto se hace primero con una acción *clone* y luego con acciones *pull* contra los proyectos, lo que descarga cualquier cambio a nuestra copia local.
+3. Realiza los cambios que desea en la copia local del proyecto Urantiapedia a los archivos que se indican en este manual y del modo en como se indica. Realiza *commits* a su copia local.
+4. Envía cambios parciales (aún no listos para subir a la web) a su proyecto Urantiapedia en GitHub mediante acciones *push*.
+5. Cuando tiene un conjunto de cambios que desea subir a la web, sincroniza el proyecto Urantiapedia con el proyecto Urantiapedia-backup y sube los cambios de ambos a sus proyectos mediante acciones *push*.
+6. Realiza entonces un *pull request* desde la web de GitHub para ambos proyectos: Urantiapedia y Urantiapedia-backup. 
+7. Estos *pull request* de los «Editores Jefe» son revisados por los «Administradores», que se encargan de hacer un *merge* con la rama principal (master) de todos aquellos cambios que estén correctos. Cualquier cambio que no esté correcto será rechazado y se notificará a los «Editores Jefe» para que los corrijan.
+8. Cuando los cambios están correctos y el «Administrador» hace un *merge* los cambios se suben automáticamente a la web y suelen estar disponibles en unos minutos dependiendo del número de cambios y su tipo.
 
 ![](/image/github_workflow.png)
 ## Configurar el proyecto Urantiapedia
@@ -69,7 +67,8 @@ Para conocer el contenido del proyecto en GitHub y cómo está estructurado, con
 
 Sobre las fases del proyecto consulta [Fases de la Urantiapedia](/es/help/phases).
 
-Una vez tenemos el input en las carpetas correctas, para cada idioma, durante la fase I, los pasos a dar son:
+### Fase I: El Libro de Urantia, la Biblia y el Índice de Términos
+
 1. Traducción del *Paramony* del inglés al idioma de destino. Consulta [Traducción del Paramony](/es/help/github_paramony).
 2. Traducción y revisión del *Índice de términos* del inglés al idioma de destino. Consulta [Traducción y revisión del Índice de términos](/es/help/github_topicindex).
 3. Obtención de una traducción de La Biblia en el idioma de destino. Consulta [Obtener la Biblia](/es/help/github_bible).
@@ -80,9 +79,21 @@ Una vez tenemos el input en las carpetas correctas, para cada idioma, durante la
 8. Conversión de *La Biblia* de LaTeX a Wiki.js con notas al pie. Consulta [Conversión de La Biblia](/es/help/github_bible_to_wiki).
 9. Subir cambios a [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Consulta [Subir contenido de forma masiva a Urantiapedia](/es/help/github_upload).
 
-Los «Editores Jefe» y los «Editores Asistente» realizarán las tareas 1 a 3. Los «Administradores» se encargan de las tareas 4 a 9.
+Actualmente todas las tareas excepto la 2 han sido completadas.
 
 ![](/image/formats.png)
+
+### Fase II: Libros, artículos, ayudas de estudio, diagramas e índices
+
+1. Crear un catálogo de libros que se consideran fuentes de *El Libro de Urantia* o contienen paralelos interesantes. Consulta [Catálogo de libros «fuente»](/es/help/github_sourcebooks_catalog).
+2. Obtener los libros anteriores. Consulta [Obtener libros «fuente»](/es/help/github_sourcebooks_markdown).
+3. Crear un catálogo de artículos escritos por lectores. Consulta [Catálogo de artículos](/es/help/github_articles_catalog).
+4. Obtener los artículos. Consulta [Obtener artículos](/es/help/github_articles_markdown).
+5. Crear un catálogo de ayudas de estudio. Consulta [Catálogo de ayudas de estudio](/es/help/github_studyaids_catalog).
+6. Obtener las ayudas de estudio anteriores. Consulta [Obtener ayudas de estudio](/es/help/github_studyaids_markdown).
+7. Crear un catálogo de diagramas. Consulta [Catálogo de diagramas](/es/help/github_diagrams_catalog).
+8. Obtener los diagramas anteriores en formato mapa de imágenes HTML o preferiblemente SVG. Consulta [Obtener diagramas](/es/help/github_diagrams_svg).
+9. Crear el catálogo de imágenes del proyecto. Consulta [Catálogo de imágenes](/es/help/github_images_catalog).
 
 ## Enlaces externos
 

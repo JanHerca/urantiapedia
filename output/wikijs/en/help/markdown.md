@@ -12,19 +12,36 @@ dateCreated: 2022-04-05T10:55:15.557Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_upload">Bulk upload content to Urantiapedia</a></td>
+        <td><a href="/en/help/web_markdown_editor">Using the Markdown editor</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td></td>
+        <td><a href="/en/help/web_html_editor">Using the HTML editor</a></td>
       </tr>
     </tbody>
   </table>
 </figure>
 
-This is a comprehensive list of Markdown markup that is supported in *Urantiapedia*. For each example is provided the markup and the result. Give a look at all the available options before using Markdown format in any page.
+## Overview
+
+Markdown is a lightweight markup language with plain text formatting syntax. It's the de-facto syntax for writing documentation on major code repositories such as GitHub.
+
+*Urantiapedia* supports the full [CommonMark specification](https://spec.commonmark.org/) + adds some useful extensions (including the Github Flavored Markdown addons).
+
+This is a comprehensive list of Markdown markup that is supported in *Urantiapedia*. For each element supported you have: how to use it in editor, shortcuts if exist and examples with the markup and the result. Give a look at all the available options before using Markdown format in any page.
 
 ---
 
 ## Headings
+### Tab {.tabset}
+
+#### Usage
+Using between 1 and 6 **hashtag** symbol(s), followed by a space, before the text selection.
+
+#### Shortcuts
+- On the desired line, then clicking the ![Header](https://docs.requarks.io/assets/ui/ui-markdown-headers.png =x30){.radius-4} dropdown button in the toolbar.
+- On the desired line, press <kbd>CTRL</kbd> + <kbd>ALT</kbd> +  <kbd>Right</kbd> to increase the header level.
+- On the desired line, press <kbd>CTRL</kbd> + <kbd>ALT</kbd> +  <kbd>Left</kbd> to decrease the header level.
+
+#### Example
 
 **Markdown**
 ```
@@ -45,7 +62,18 @@ This is a comprehensive list of Markdown markup that is supported in *Urantiaped
 
 For a list of supported emojis see below.
 
-## Horizontal Rules
+## Horizontal lines
+
+### Tab {.tabset}
+
+#### Usage
+
+Using **triple dash** symbols on a dedicated line.
+
+#### Shortcuts
+- By clicking the ![Horizontal Rule](/assets/ui/ui-markdown-hr.png =x30){.radius-4} button in the toolbar.
+
+#### Examples
 
 **Markdown**
 ```
@@ -82,6 +110,20 @@ test… test… test… test?.. test!..
 
 ## Emphasis
 
+### Tab {.tabset}
+
+#### Usage
+
+Italic: Using a **single asterisk** symbol before and after the text selection.
+
+Bold: Using **double asterisks** symbols before and after the text selection.
+
+#### Shortcuts
+- By selecting text, then clicking the ![Bold](/assets/ui/ui-markdown-bold.png =x30){.radius-4} button in the toolbar.
+- By selecting text, then pressing <kbd>CTRL</kbd> + <kbd>B</kbd>
+
+#### Examples
+
 **Markdown**
 ```
 **This is bold text**
@@ -101,6 +143,16 @@ _This is italic text_
 
 ## Blockquotes
 
+### Tab {.tabset}
+
+#### Usage
+Using a **greater-than** symbol, followed by a space, before each line of text.
+
+#### Shortcuts
+- By selecting text, then clicking the ![Blockquote](https://docs.requarks.io/assets/ui/ui-markdown-blockquotes.png =x30){.radius-4} button in the toolbar.
+
+#### Example 1
+
 **Markdown**
 ```
 > Blockquotes can also be nested...
@@ -111,6 +163,8 @@ _This is italic text_
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.
+
+#### Example 2
 
 Custom blockquotes
 **Markdown**
@@ -140,9 +194,18 @@ Custom blockquotes
 > This is an error blockquote
 {.is-danger}
 
-## Lists
+## Unordered Lists
 
-### Unordered
+### Tab {.tabset}
+
+#### Usage
+
+Using an **asterisk** or a **dash** symbol, followed by a space, before each line of text.
+
+#### Shortcuts
+- By selecting text, then clicking the ![Blockquote](/assets/ui/ui-markdown-ul.png =x30){.radius-4} button in the toolbar.
+
+#### Examples
 
 **Markdown**
 ```
@@ -163,7 +226,55 @@ Custom blockquotes
     - Nulla volutpat aliquam velit
 + Very easy!
 
-### Ordered
+#### Stylings
+
+By adding a class on a separate line, after the list, you can change the look of the list:
+
+- `links-list`
+- `grid-list`
+
+For example:
+
+```markdown
+- Grid Item 1
+- Grid Item 2
+- Grid Item 3
+{.grid-list}
+
+- [Lorem ipsum dolor sit amet *Subtitle description here*](https://www.google.com)
+- [Consectetur adipiscing elit *Another subtitle description here*](https://www.google.com)
+- [Morbi vehicula aliquam *Third subtitle description here*](https://www.google.com)
+{.links-list}
+```
+will result in:
+
+- Grid Item 1
+- Grid Item 2
+- Grid Item 3
+{.grid-list}
+
+and:
+
+- [Link Title 1 *Subtitle description here*](https://www.google.com)
+- [Link Title 2 *Another subtitle description here*](https://www.google.com)
+- [Link Title 3 *Third subtitle description here*](https://www.google.com)
+{.links-list}
+
+> Note that these stylings are specific to Urantiapedia and will fallback to standard list styling in other applications.
+{.is-warning}
+
+## Ordered Lists
+
+### Tab {.tabset}
+
+#### Usage
+
+Using an **number**, followed by a **dot** symbol, followed by a space, before each line of text.
+
+#### Shortcuts
+- By selecting text, then clicking the ![Blockquote](/assets/ui/ui-markdown-ol.png =x30){.radius-4} button in the toolbar.
+
+#### Example 1
 
 **Markdown**
 ```
@@ -184,12 +295,13 @@ Custom blockquotes
 1. You can use sequential numbers...
 1. ...or keep all the numbers as `1.`
 
-### Start numbering with offset:
+#### Example 2
+Start numbering with offset:
 
 **Markdown**
 ```
-57. foo
-1. bar
+1.  foo
+2. bar
 ```
 **Result**
 57. foo
@@ -774,12 +886,13 @@ See external links for more on Math use in Markdown.
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_upload">Bulk upload content to Urantiapedia</a></td>
+        <td><a href="/en/help/web_markdown_editor">Using the Markdown editor</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td></td>
+        <td><a href="/en/help/web_html_editor">Using the HTML editor</a></td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 

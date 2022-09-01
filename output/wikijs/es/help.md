@@ -10,23 +10,31 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 Este es el índice principal de documentación sobre Urantiapedia en sí. Por favor, lee atentamente este manual con respecto a las partes que están relacionadas con tus funciones en el sitio.
 
-- Ayuda inicial
+- El proyecto Urantiapedia
   1. [Empezar con la Urantiapedia](/es/help/start)
   2. [Principios que rigen Urantiapedia](/es/help/principles)
   3. [Contenido de la Urantiapedia](/es/help/content)
   4. [Fases de la Urantiapedia](/es/help/phases)
   5. [Idiomas soportados](/es/help/languages)
   6. [Progreso actual del proyecto](/es/help/status)
-- Ayuda acerca de los perfiles
+- Acerca de los perfiles
   1. [Perfiles de colaboradores](/es/help/roles)
   2. [Manual para Administradores](/es/help/admin)
   3. [Manual para Editores Jefe](/es/help/github)
   4. [Manual para Editores Asistentes](/es/help/github_assistant)
   5. [Manual para Desarrolladores](/es/help/devs)
-- Ayuda sobre cómo usar GitHub
-  1. [Configurar el proyecto de GitHub](/es/help/github_setting)
-  2. [Contenido del proyecto de GitHub](/es/help/github_content)
-- Tareas en GitHub
+- Cómo usar esta web
+  1. [Interfaz y uso básico de Urantiapedia](/es/help/web_basics)
+  2. [Manejo de páginas](/es/help/web_pages)
+  3. [Uso de editores](/es/help/web_editors)
+    - [Uso del editor visual](/es/help/web_visual_editor)
+    - [Uso del editor Markdown](/es/help/web_markdown_editor)
+      - [Ayuda del formato Markdown](/es/help/markdown)
+    - [Uso del editor HTML](/es/help/web_html_editor)
+- Cómo usar los proyectos de Urantiapedia en GitHub
+  1. [Configurar el proyecto Urantiapedia de GitHub](/es/help/github_setting)
+  2. [Contenido del proyecto Urantiapedia de GitHub](/es/help/github_content)
+- Tareas para colaboradores
   - Fase I: El Libro de Urantia, la Biblia y el Índice de Términos
     1. [Traducción del Paramony](/es/help/github_paramony)
     2. [Traducción y revisión del Índice de términos](/es/help/github_topicindex)
@@ -47,5 +55,3 @@ Este es el índice principal de documentación sobre Urantiapedia en sí. Por fa
     7. [Catálogo de diagramas](/es/help/github_diagrams_catalog)
     8. [Obtener diagramas](/es/help/github_diagrams_svg)
     9. [Catálogo de imágenes](/es/help/github_images_catalog)
-- Ayuda sobre edición en la Urantiapedia 
-  1. [Ayuda del formato Markdown](/es/help/markdown)

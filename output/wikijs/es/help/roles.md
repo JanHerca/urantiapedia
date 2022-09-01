@@ -30,6 +30,8 @@ Los perfiles que estamos buscando para colaborar son estos:
 
 Los *Administradores* se encargan del mantenimiento del servidor web, la página, la carga masiva de datos, y son los únicos con permiso para editar *El Libro de Urantia*, *La Biblia* y otro contenido específico. Leer más aquí: [Manual para Administradores](/es/help/admin).
 
+* Tienen una cuenta en esta web con permisos de administración, y una cuenta en [GitHub](https://github.com/).
+* Aportan contenido a los dos proyectos de Urantiapedia en GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) y [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Pueden hacer cambios de forma masiva usando el segundo proyecto.
 * El cometido será gestionar el servidor y la página web.
 * Se necesitará un buen conocimiento de Linux, [Docker](https://www.docker.com/), [Kubernetes](https://es.wikipedia.org/wiki/Kubernetes), [Git](https://git-scm.com/) y [GitHub](https://github.com/).
 * Será importante tener aptitud para trabajar en equipo en entornos opensource.
@@ -37,21 +39,23 @@ Los *Administradores* se encargan del mantenimiento del servidor web, la página
 
 ## Perfil de «Editor Jefe»
 
-Los *Editores Jefe* necesitan una cuenta en [GitHub](https://github.com/) y aportan contenido en el [proyecto Urantiapedia de GitHub](https://github.com/JanHerca/urantiapedia) añadiendo revisiones y traducciones que luego se puedan cargar de forma masiva. Consultar: [Manual para Editores Jefe](/es/help/github).
+Los *Editores Jefe* también pueden aportar contenido a través de GitHub, como los Administradores, incluso de forma masiva. No gestionan la web pero tienen todas las capacidades de edición de un Administrador, con la excepción de *El Libro de Urantia*, *La Biblia* y algún otro contenido sensible. Consultar: [Manual para Editores Jefe](/es/help/github).
 
-* El primer cometido será actualizar el contenido del *Topic Index*, que es la tarea más extensa de la fase I. Luego se continuará con otros contenidos de la fase II y siguientes.
-* Se necesitará un buen conocimiento de *El Libro de Urantia* al menos en un idioma, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
-* Será importante tener aptitud para escribir bien y con corrección.
-* Ayudará tener ganas de dedicar tiempo y tener paciencia y constancia.
+* Tienen una cuenta en esta web con permisos de edición, y una cuenta en [GitHub](https://github.com/).
+* Aportan contenido a los dos proyectos de Urantiapedia en GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) y [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Pueden hacer cambios de forma masiva usando el segundo proyecto.
+* Necesitan un buen conocimiento de *El Libro de Urantia* al menos en un idioma, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
+* Es importante tener aptitud para escribir bien y con corrección.
+* Ayuda tener ganas de dedicar tiempo, paciencia y constancia.
 * Es importante tener un buen conocimiento de uso de [Git](https://git-scm.com/) y [GitHub](https://github.com/).
 
 ## Perfil de «Editor Asistente»
 
-Los *Editores Asistentes* tienen una cuenta en esta web, y tras pasar ciertas validaciones pueden editar ciertas secciones de la web como el *Índice de Términos*, los artículos, y otro material no reservado a los administradores. Los *Editores Asistentes* también pueden enviar a los *Editores Jefe* revisiones y traducciones para cargarlas de forma masiva sin tener que usar GitHub, lo que facilita el trabajo a este tipo de colaboradores. Consultar: [Manual para Editores Asistente](/es/help/github_assistant).
+Los *Editores Asistentes* pueden editar ciertas secciones de la web para las que se les proporcione permisos. También pueden enviar revisiones y traducciones por correo para que los *Administradores* o *Editores Jefe* las carguen de forma masiva, lo que facilita el trabajo a este tipo de colaboradores. Consultar: [Manual para Editores Asistente](/es/help/github_assistant).
 
-* Se necesitará un buen conocimiento de *El Libro de Urantia* al menos en un idioma, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
-* Será importante tener aptitud para escribir bien y con corrección.
-* No será necesario ningún conocimiento informático especial pues el principal trabajo  se hace a través de esta web o del email.
+* Tienen una cuenta en esta web con permisos de edición. No usan GitHub, y para hacer adiciones o bien las envían por correo o bien las hacen directamente en esta web.
+* Necesitan un buen conocimiento de *El Libro de Urantia* al menos en un idioma, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
+* Es importante tener aptitud para escribir bien y con corrección.
+* No es necesario ningún conocimiento informático especial pues el principal trabajo se hace a través de esta web o del email.
 
 ## Perfil de «Autor»
 
@@ -59,23 +63,28 @@ Los *Autores* son *Editores Asistentes* que aparte de poder editar lo que cualqu
 
 ## Perfil de «Desarrollador»
 
-Los *Desarrolladores* tienen una cuenta en [GitHub](https://github.com/) y desarrollan la funcionalidad de las *Urantiapedia Tools* y de *Wiki.js*. Consultar: [Manual para Desarrolladores](/es/help/devs).
+Los *Desarrolladores* desarrollan la funcionalidad de las [Urantiapedia Tools](https://github.com/JanHerca/urantiapedia/tree/master/app) y expanden el software [Wiki.js](https://js.wiki/) en que está basado Urantiapedia. Consultar: [Manual para Desarrolladores](/es/help/devs).
 
-* El cometido será desarrollar las funcionalidades de las *Urantiapedia Tools* y de *Wiki.js* necesarias para el proyecto.
-* Se necesitará un buen conocimiento de HTML, CSS, Javascript, [Node.js](https://nodejs.org/es/), [Git](https://git-scm.com/), [GitHub](https://github.com/), [Bootstrap](https://getbootstrap.com/), y [Vue.js](https://vuejs.org/).
-* Será importante tener aptitud para trabajar en equipo en entornos opensource.
+* Tienen una cuenta en esta web y en [GitHub](https://github.com/).
+* El cometido será desarrollar las funcionalidades de las *Urantiapedia Tools* y de *Wiki.js* necesarias para el proyecto. Las modificaciones a Wiki.js se están centralizando aquí: [Wiki.js](https://github.com/JanHerca/wiki), que es un *fork* del proyecto original.
+* Es necesario un buen conocimiento de HTML, CSS, Javascript, [Node.js](https://nodejs.org/es/), [Git](https://git-scm.com/), [GitHub](https://github.com/), [Bootstrap](https://getbootstrap.com/), y [Vue.js](https://vuejs.org/).
+* Es importante tener aptitud para trabajar en equipo en entornos opensource.
 * Buen nivel de inglés pues toda la documentación y comentarios de código son en inglés.
 
 ## Perfil de «Revisor»
 
-* La tarea será garantizar la corrección de los usuarios y el contenido. Los revisores tendrán permisos para bloquear usuarios o contenidos que no cumplan con las políticas y buenas prácticas de la web.
-* Será necesario un buen conocimiento del *Libro de Urantia* en al menos un idioma, pero mejor si es inglés y un segundo idioma al que se traduce el libro.
-* No serán necesarios conocimientos informáticos especiales ya que el trabajo principal se realiza a través de la web.
+* La tarea es garantizar la corrección de los usuarios y el contenido. Los revisores tienen permisos para bloquear usuarios o contenidos que no cumplan con las políticas y buenas prácticas de la web.
+* Es necesario un buen conocimiento del *Libro de Urantia* en al menos un idioma, pero mejor si es inglés y un segundo idioma al que se traduce el libro.
+* No es necesario conocimientos informáticos especiales ya que el trabajo principal se realiza a través de la web.
 
 ## Enlaces externos
 
-- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
-- [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Urantiapedia en Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125)
+- [Urantiapedia - Proyecto principal en GitHub](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - Proyecto para cargas masivas en GitHub](https://github.com/JanHerca/urantiapedia-backup)
+- [Wiki.js - Proyecto personalizado para Urantiapedia](https://github.com/JanHerca/wiki)
+- [GitHub](https://github.com/)
 - [Fundación Urantia](https://www.urantia.org/)
 - [Blue Fields](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)

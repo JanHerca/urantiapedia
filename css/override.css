@@ -47,6 +47,10 @@ CSS will automatically be minified. */
 .v-main .contents figure.chapter-navigator table tbody tr td:nth-child(3) {
     text-align: right;
 }
+.v-main .contents pre.prismjs.language-wrap {
+    word-wrap: break-word;
+    white-space: normal;
+}
 @media (max-width:1000px) {
     .v-main .contents figure.image-style-align-right,
     .v-main .contents figure.image-style-align-left {
