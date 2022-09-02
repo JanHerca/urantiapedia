@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 Aquí se describe cómo crear un catálogo de artículos escritos por lectores relativos a _El Libro de Urantia_.
 
 ## Proceso

@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 Aquí se describe cómo crear el catálogo de imágenes del proyecto. Este catálogo es un archivo que es usado para automatizar la inclusión de ilustraciones en *El Libro de Urantia* y otras partes de *Urantiapedia*.
 
 El aspecto visual de Urantiapedia es algo que vamos a cuidar. Todo el contenido se va a intentar que sea lo más visual posible, con ilustraciones de calidad. 

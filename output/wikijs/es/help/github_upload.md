@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 Par subir contenido a la Urantiapedia se usa un proyecto GitHub con una copia completa de [Urantiapedia](https://urantiapedia.org). El proyecto está aquí:
 
 [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup)

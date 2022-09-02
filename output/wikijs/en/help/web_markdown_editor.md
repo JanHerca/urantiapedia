@@ -1,5 +1,5 @@
 ---
-title: Uso del editor Markdown
+title: Using the Markdown editor
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/web_visual_editor">Uso del editor visual</a></td>
-        <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/web_html_editor">Uso del editor HTML</a></td>
+        <td><a href="/en/help/web_visual_editor">Using the visual editor</a></td>
+        <td><a href="/en/help">Index</a></td>
+        <td><a href="/en/help/markdown">Markdown format help</a></td>
       </tr>
     </tbody>
   </table>
@@ -22,35 +22,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ![help_markdown_editor.png](/image/help_markdown_editor.png){.radius-5 .decor-shadow}
 
-En la captura de pantalla se muestran los controles más destacados del Editor Markdown:
-1. Título de la página
-2. Botonera de guardado:
-    - Botón **Guardado / Guardar**. Si pone **Guardado** es que no hay cambios; si pone **Guardar** haz click para hacer los cambios permanentes. **¡Las páginas no se auto-guardan por lo que no olvides de guardar frecuentemente!** :point_left:
-    - Botón **Página**: permite volver a modificar los metadatos de la página, como el título, descripción, y etiquetas.
-    - Botón **Cerrar**: cuando has terminado con la página cierra aquí para volver al modo de lectura.
-3. Barra de botones de formato. Selecciona un texto ya haz clic para aplicar. Las opciones son (de izquierda a derecha):
-    - Negrita
-    - Cursiva
-    - Tachado
-    - Encabezados
-    - Subíndice
-    - Superíndice
-    - Citas y bloques
-    - Lista no numerada
-    - Lista numerada
-    - Bloque de código
-    - Estilo teclado
-    - Línea de separación
-4. Barra de botones de inserción. Coloca el cursor donde quieras hacer la inserción y haz click. Las opciones son (de arriba a abajo):
-    - Vínculo a otra página dentro de Urantiapedia. (Para un vínculo a otro sitio web en Markdown basta con poner la URL, sin más).
-    - Imagen: se abre el selector de imágenes.
-    - Bloque (*aún no disponible*)
-    - Código (*aún no disponible*)
-    - Vídeo y audio (*aún no disponible*)
-    - Diagramas. Abre el editor `Draw.io` y permite insertar diagramas creados con él.
-    - Expresiones matemáticas (*aún no disponible*)
-    - Ayuda con tablas (*aún no disponible*)
-5. Ayuda del Formato Markdown: este botón abre un listado de ejemplos de cómo escribir formato Markdown.
+The screenshot shows the most important controls of the Markdown Editor:
+1. Page Title
+2. Save button bar:
+    - **Saved / Save** button. If it says **Saved**, there are no changes; if it says **Save** click to make the changes permanent. **Pages don't auto-save so don't forget to save often!** :point_left:
+    - Button **Page**: allows you to re-modify the metadata of the page, such as the title, description, and tags.
+    - **Close** button: when you are done with the page, close here to return to reading mode.
+3. Format button bar. Select a text and click to apply. The options are (from left to right):
+    - Bold
+    - Italics
+    - Strikethrough
+    - Headers
+    - Subscript
+    - Superscript
+    - Quotations and blocks
+    - Unordered list
+    - Ordered list
+    - Code block
+    - Keyboard style
+    - Horizontal line
+4. Insert button bar. Place the cursor where you want to insert and click. The options are (from top to bottom):
+    - Link to another page within Urantiapedia. (For a link to another website in Markdown, just put the URL, no more).
+    - Image: opens the image selector.
+    - Block (*not yet available*)
+    - Code (*not yet available*)
+    - Video and audio (*not yet available*)
+    - Diagrams. Opens the `Draw.io` editor and allows you to insert diagrams created with it.
+    - Mathematical expressions (*not yet available*)
+    - Help with tables (*not yet available*)
+5. Markdown Formatting Help: This button opens a list of examples of how to write Markdown formatting.
 
 <br>
 
@@ -58,9 +58,9 @@ En la captura de pantalla se muestran los controles más destacados del Editor M
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/web_visual_editor">Uso del editor visual</a></td>
-        <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/web_html_editor">Uso del editor HTML</a></td>
+        <td><a href="/en/help/web_visual_editor">Using the visual editor</a></td>
+        <td><a href="/en/help">Index</a></td>
+        <td><a href="/en/help/markdown">Markdown format help</a></td>
       </tr>
     </tbody>
   </table>

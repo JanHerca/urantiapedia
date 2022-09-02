@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 For committing content to Urantiapedia it is used a GitHub project with a full backup of the [Urantiapedia](https://urantiapedia.org) website. The project is here:
 
 [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup)

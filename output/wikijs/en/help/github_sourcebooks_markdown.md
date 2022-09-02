@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 Described here is how to obtain the books that are supposed to be sources of *The Urantia Book* or have any relation or parallel to *The Urantia Book*, and have been cataloged following the task [Creating a Catalog of "Source" Books](/en/help/github_sourcebooks_catalog).
 
 ## Process

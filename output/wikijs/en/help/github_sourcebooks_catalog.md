@@ -12,14 +12,14 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_upload">Bulk upload content to Urantiapedia</a></td>
-        <td><a href="/es/help">Index</a></td>
-        <td><a href="/es/help/github_sourcebooks_markdown">Get “source” books</a></td>
+        <td><a href="/en/help/github_upload">Bulk upload content to Urantiapedia</a></td>
+        <td><a href="/en/help">Index</a></td>
+        <td><a href="/en/help/github_sourcebooks_markdown">Get “source” books</a></td>
       </tr>
     </tbody>
   </table>
 </figure>
-
+ 
 Here we describe how to create a catalog of books that are supposed to be sources of *The Urantia Book* or have some relationship or parallel to *The Urantia Book*.
 
 ## Context
@@ -55,9 +55,9 @@ If you have modified the listing from the file on GitHub, you have two options f
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_upload">Bulk upload content to Urantiapedia</a></td>
-        <td><a href="/es/help">Index</a></td>
-        <td><a href="/es/help/github_sourcebooks_markdown">Get “source” books</a></td>
+        <td><a href="/en/help/github_upload">Bulk upload content to Urantiapedia</a></td>
+        <td><a href="/en/help">Index</a></td>
+        <td><a href="/en/help/github_sourcebooks_markdown">Get “source” books</a></td>
       </tr>
     </tbody>
   </table>

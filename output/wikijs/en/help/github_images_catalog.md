@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 Here's how to create the project image catalog. This catalog is a file that is used to automate the inclusion of illustrations in *The Urantia Book* and other parts of *Urantiapedia*.
 
 The visual aspect of Urantiapedia is something that we are going to take care of. All content will try to be as visual as possible, with quality illustrations.

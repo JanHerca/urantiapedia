@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 Aquí se describe cómo obtener las ayudas de estudio de _El Libro de Urantia_, y que han sido catalogadas siguiendo la tarea [Creación de un catálogo de ayudas de estudio](/es/help/github_studyaids_catalog).
 
 ## Proceso

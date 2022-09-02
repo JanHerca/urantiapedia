@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 Aquí se describe cómo obtener los artículos de lectores relativos a _El Libro de Urantia_, y que han sido catalogados siguiendo la tarea [Creación de un catálogo de artículos](/es/help/github_articles_catalog).
 
 ## Proceso

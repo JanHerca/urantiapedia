@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 Here is how to create a catalog of articles written by readers related to _The Urantia Book_.
 
 ## Process

@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 Here is how to create a catalog of _The Urantia Book_ study aids.
 
 The difference between an article and a study aid is that the former is simply a short text, usually appearing in a magazine, and on _Urantiapedia_ it will be a single web page; while the second is a more complete text, which in _Urantiapedia_ could be one page or several within a folder (such as books), and which is above all oriented towards the study and understanding of a complex topic of *The Urantia Book*.

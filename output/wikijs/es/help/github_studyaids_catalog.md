@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 Aquí se describe cómo crear un catálogo de ayudas de estudio de _El Libro de Urantia_.
 
 La diferencia entre un artículo y una ayuda de estudio es que el primero es simplemente un texto breve, normalmente aparecido en una publiación, y que en Urantiapedia será una única página web; mientras que el segundo es un texto más completo, que en Urantiapedia podrá ser una página o varias dentro de una carpeta (como los libros), y que está sobre todo orientado hacia el estudio y comprensión de *El Libro de Urantia* en algún tema complejo. 

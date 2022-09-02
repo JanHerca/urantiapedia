@@ -90,7 +90,7 @@ Currently all tasks except 2 have been completed.
 2. Get previous books. See [Get “source” books](/en/help/github_sourcebooks_markdown).
 3. Create a catalog of articles written by readers. See [Articles Catalog](/en/help/github_articles_catalog).
 4. Get previous articles. See [Get Articles](/en/help/github_articles_markdown).
-5. Create a catalog of study aids. See [Study Aids Catalog](/es/help/github_studyaids_catalog).
+5. Create a catalog of study aids. See [Study Aids Catalog](/en/help/github_studyaids_catalog).
 6. Get the above study aids. See [Get study aids](/en/help/github_studyaids_markdown).
 7. Create a catalog of diagrams. See [Diagrams Catalog](/en/help/github_diagrams_catalog).
 8. Obtain the above diagrams in HTML image map format or preferably SVG. See [Get Diagrams](/en/help/github_diagrams_svg).

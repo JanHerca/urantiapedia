@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 Aquí se describe cómo obtener los diagramas de _El Libro de Urantia_, y que han sido catalogados siguiendo la tarea [Creación de un catálogo de diagramas](/es/help/github_diagrams_catalog).
 
 ## Proceso

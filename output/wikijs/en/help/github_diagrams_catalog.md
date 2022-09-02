@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 Here is how to create a catalog of _The Urantia Book_ diagrams.
 
 ## Process

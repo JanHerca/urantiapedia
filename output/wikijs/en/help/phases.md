@@ -101,7 +101,7 @@ Few standards currently exist for saving a map definition. The [KML](https://dev
 - Geometry animations, associated or not with guided tours, that allow showing, for example, an itinerary or visualizing the migration of a race.
 
 The developments that will be needed in *Wiki.js* are:
-- A client-side map editor that uses existing 2D and 3D map APIs (such as [Google Maps](https://www.google.com/maps) and [Google Earth](https://www.google.com/intl/es/earth/)) and allows you to create the map in the standard.
+- A client-side map editor that uses existing 2D and 3D map APIs (such as [Google Maps](https://www.google.com/maps) and [Google Earth](https://www.google.com/intl/en/earth/)) and allows you to create the map in the standard.
 - A server-side renderer that converts the standard into a web viewer that renders the created map.
 - The web viewer that presents the created map on the client side, a simplified version (without editing tools) of the map editor.
 
