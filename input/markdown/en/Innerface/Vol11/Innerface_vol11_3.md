@@ -232,7 +232,7 @@ In fact the carbon cycle operates only in large high temperature stars (as point
 
 Image here
 
-# Neutrinos, Neutrons, and Neutron Stars.
+# Neutrinos, Neutrons, and Neutron Stars
 
 Summary
 
@@ -291,7 +291,7 @@ Hoyle, F., and J. Narlikar. The Physics Astronomy Frontier. (W.H. Freeman & Co. 
 Sutton, C. Spaceship Neutrino. (Cambridge University Press, Cambridge, 1992)
 
 
-Renewal of the Search for the Neutron Star
+# Renewal of the Search for the Neutron Star
 
 
 Hypotheses on the possible origins of the Urantia Paper's statement on star collapse:
@@ -425,7 +425,7 @@ The mandate to the revelators permitted “the supplying of information which wi
 
 Image here
 
-# Cooking up a Universe.
+# Cooking up a Universe
 
 Summary
 
@@ -454,7 +454,7 @@ P.S. Did you know?? If a soup composed of the nucleotide ingredients (building b
 
 Image here
 
-# Antigravity is Back.
+# Antigravity is Back
 
 Summary
 
@@ -481,7 +481,7 @@ Among other things The Urantia Book tells us that, “antigravity is a power of 
 
 Image here
 
-# Colliding Black Holes and the Urantia Papers.
+# Colliding Black Holes and the Urantia Papers
 
 Summary
 
@@ -583,7 +583,7 @@ Le Grand, H.E. “Drifting Continents and Shifting Theories.” (Cambridge Unive
 Encyclopedia Britannica (CDRom edition)
 
 
-## Continental Drift--2.
+## Continental Drift--2
 
 The prophetic nature of The Urantia Book's account of continental drift and some of its consequences have now received approval in a book by professor of geology, M.A.S. McMenamin, entitled “The Garden of Ediacara,” reported by Larry Mullins in the recent “Spiritual Fellowship Journal.” The following quotes coming from McMenamin's book followed upon that author having his attention drawn to The Urantia Book's content:
 
@@ -633,7 +633,7 @@ The presence of marsupial fossils in Oligocene strata (about 35 to 40 million ye
 3. J. Gribbin, Genesis, (1982)
 4. W.D. Dalziel, Earth before Pangea, Scientific American 272 (1) 28. (1995)
 5. L..J Mullins and M.J. Sprunger. (2000) A History of the Urantia Papers. (Penumbra Press, Boulder.)
-6. # Radiometric chemistry: Age of the Earth
+# Radiometric chemistry: Age of the Earth
 
 Prior to about 1955-6, the most popular guess at the age of our Earth was 3 to 3.4 billion years. All was about to change with the advent the use of radioisotopes in dating procedures.
 

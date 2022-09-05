@@ -351,6 +351,16 @@ const Processes = {
 		paths: [['input', 'txt', 'articles-{0}'], 
 			['input', 'mediawiki', 'articles-{0}']]
 	},
+	"ARTICLE_CATALOG_MARKDOWN_TO_WIKIJS": {
+		active: true,
+		desc: {
+			en: "Convert a catalog of Articles (MARKDOWN) to Wiki.js",
+			es: "Convertir un catálogo de Artículos (MARKDOWN) a Wiki.js",
+		},
+		controls: ['dirTTextbox', 'dirWTextbox'],
+		paths: [['output', '{0}', 'index', 'articles.md'], 
+			['output', '{0}', 'article']]
+	},
 	"ALL_INDEXES": {
 		active: true,
 		desc: {

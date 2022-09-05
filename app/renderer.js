@@ -638,6 +638,11 @@ const handle_exeButtonClick = () => {
 			.then(() => articles.writeToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
+	} else if (process === 'ARTICLE_CATALOG_MARKDOWN_TO_WIKIJS') {
+		// Read Article Catalog (article.md) => create pages in Wiki.js
+		articles.readCatalog()
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'ALL_INDEXES') {
 		getListOfAllIndexes(htmlDir)
 			.then(() => onSuccess(okMsgs))

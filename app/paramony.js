@@ -100,10 +100,10 @@ class Paramony {
 	 * array of errors in reject function.
 	 */
 	readForUB = () => {
-		const filePathEN = path.join(app.getAppPath(), 
-			`input/markdown/en/paramony/The Urantia Book.md`);
-		const filePathOther = path.join(app.getAppPath(), 
-			`input/markdown/${this.language}/paramony/The Urantia Book.md`);
+		const filePathEN = path.join(app.getAppPath(), 'input', 'markdown', 
+			'en', 'paramony', 'The Urantia Book.md');
+		const filePathOther = path.join(app.getAppPath(), 'input', 'markdown',
+			`${this.language}`,'paramony', 'The Urantia Book.md');
 		return new Promise((resolve, reject) => {
 			this.footnotes.length = 0;
 			this.translations.length = 0;
@@ -130,22 +130,22 @@ class Paramony {
 	 */
 	readForBible = () => {
 		const bookNames = this.booknamesEN.filter(name => {
-			const filePathEN = path.join(app.getAppPath(), 
-				`input/markdown/en/paramony/${name}.md`);
+			const filePathEN = path.join(app.getAppPath(), 'input', 'markdown',
+				'en', 'paramony', `${name}.md`);
 			return fs.existsSync(filePathEN);
 		});
-		const filePathOtherUB = path.join(app.getAppPath(), 
-			`input/markdown/${this.language}/paramony/The Urantia Book.md`);
-		const filePathOtherBible = path.join(app.getAppPath(), 
-			`input/markdown/${this.language}/paramony/Bible.md`);
+		const filePathOtherUB = path.join(app.getAppPath(), 'input', 'markdown',
+			`${this.language}`,'paramony', 'The Urantia Book.md');
+		const filePathOtherBible = path.join(app.getAppPath(), 'input', 
+			'markdown', `${this.language}`, 'paramony', 'Bible.md');
 		return new Promise((resolve, reject) => {
 			this.biblebooks.length = 0;
 			this.translations.length = 0;
 			this.noTranslated.length = 0;
 			const promises = bookNames.map(name => {
 				const promise = new Promise((resolve2, reject2) => {
-					const filePathEN = path.join(app.getAppPath(), 
-						`input/markdown/en/paramony/${name}.md`);
+					const filePathEN = path.join(app.getAppPath(), 'input', 
+						'markdown', 'en', 'paramony', `${name}.md`);
 					readFile(filePathEN)
 						.then(linesEN => this.readFileEN(name, linesEN))
 						.then(resolve2)

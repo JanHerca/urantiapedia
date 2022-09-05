@@ -314,8 +314,7 @@ But does that not still leave us floundering with an unanswered question--how ca
 Reference
 Scientific American, Volume 289, No. 6 (2003) The New Moon.
 
-# The Ridiculous--Passenger Birds and
-Secondary Midwayers
+# The Ridiculous--Passenger Birds and Secondary Midwayers
 
 Summary
 
@@ -336,7 +335,7 @@ These unusual offspring were called the secondary midwayers. Though incapable of
 
 If Urantia Book readers read such material in the Bible or the Koran they would likely collapse in raucous laughter. So surely these two examples must force us to consider whether the revelators have repeatedly challenged our intellects, virtually begging us to refrain from converting their precious revelation into an infallible icon.
 
-Miscellaneous erroneous material summarized
+## Miscellaneous erroneous material summarized
 
 The best known 'errors' in the Papers are the distance to the Andromeda galaxy, the “instantaneous disruption” of elements higher than the one-hundredth, the planet Mercury always turning the same face to the sun, and the human chromosome number. All of them were simply direct quotations of the then current knowledge.
 
