@@ -44,12 +44,12 @@ En la captura de pantalla se muestran los controles más destacados del Editor M
 4. Barra de botones de inserción. Coloca el cursor donde quieras hacer la inserción y haz click. Las opciones son (de arriba a abajo):
     - Vínculo a otra página dentro de Urantiapedia. (Para un vínculo a otro sitio web en Markdown basta con poner la URL, sin más).
     - Imagen: se abre el selector de imágenes.
-    - Bloque (*aún no disponible*)
-    - Código (*aún no disponible*)
-    - Vídeo y audio (*aún no disponible*)
+    - Bloque (*aún no disponible*, debe insertarse manualmente)
+    - Código (*aún no disponible*, debe insertarse manualmente)
+    - Vídeo y audio (*aún no disponible*, debe insertarse manualmente)
     - Diagramas. Abre el editor `Draw.io` y permite insertar diagramas creados con él.
-    - Expresiones matemáticas (*aún no disponible*)
-    - Ayuda con tablas (*aún no disponible*)
+    - Expresiones matemáticas (*aún no disponible*, debe insertarse manualmente)
+    - Ayuda con tablas (*aún no disponible*, debe insertarse manualmente)
 5. Ayuda del Formato Markdown: este botón abre un listado de ejemplos de cómo escribir formato Markdown.
 
 <br>
