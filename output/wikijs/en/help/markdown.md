@@ -2,10 +2,10 @@
 title: Markdown format help
 description: 
 published: true
-date: 2022-07-30T10:07:46.165Z
+date: 2022-09-06T09:08:14.892Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-05T10:55:15.557Z
+dateCreated: 2022-08-01T19:59:13.093Z
 ---
 
 <figure class="table chapter-navigator">
@@ -19,7 +19,7 @@ dateCreated: 2022-04-05T10:55:15.557Z
     </tbody>
   </table>
 </figure>
-
+ 
 ## Overview
 
 Markdown is a lightweight markup language with plain text formatting syntax. It's the de-facto syntax for writing documentation on major code repositories such as GitHub.
@@ -71,7 +71,7 @@ For a list of supported emojis see below.
 Using **triple dash** symbols on a dedicated line.
 
 #### Shortcuts
-- By clicking the ![Horizontal Rule](/assets/ui/ui-markdown-hr.png =x30){.radius-4} button in the toolbar.
+- By clicking the ![Horizontal Rule](https://docs.requarks.io/assets/ui/ui-markdown-hr.png =x30){.radius-4} button in the toolbar.
 
 #### Examples
 
@@ -87,6 +87,13 @@ ___
 ***
 
 ## Typographic replacements
+
+### Tab {.tabset}
+
+#### Usage
+Type text as usual.
+
+#### Examples
 
 **Markdown**
 ```
@@ -119,7 +126,7 @@ Italic: Using a **single asterisk** symbol before and after the text selection.
 Bold: Using **double asterisks** symbols before and after the text selection.
 
 #### Shortcuts
-- By selecting text, then clicking the ![Bold](/assets/ui/ui-markdown-bold.png =x30){.radius-4} button in the toolbar.
+- By selecting text, then clicking the ![Bold](https://docs.requarks.io/assets/ui/ui-markdown-bold.png =x30){.radius-4} button in the toolbar.
 - By selecting text, then pressing <kbd>CTRL</kbd> + <kbd>B</kbd>
 
 #### Examples
@@ -203,7 +210,7 @@ Custom blockquotes
 Using an **asterisk** or a **dash** symbol, followed by a space, before each line of text.
 
 #### Shortcuts
-- By selecting text, then clicking the ![Blockquote](/assets/ui/ui-markdown-ul.png =x30){.radius-4} button in the toolbar.
+- By selecting text, then clicking the ![Blockquote](https://docs.requarks.io/assets/ui/ui-markdown-ul.png =x30){.radius-4} button in the toolbar.
 
 #### Examples
 
@@ -233,7 +240,7 @@ By adding a class on a separate line, after the list, you can change the look of
 - `links-list`
 - `grid-list`
 
-For example:
+**Markdown**
 
 ```markdown
 - Grid Item 1
@@ -246,7 +253,7 @@ For example:
 - [Morbi vehicula aliquam *Third subtitle description here*](https://www.google.com)
 {.links-list}
 ```
-will result in:
+**Result**
 
 - Grid Item 1
 - Grid Item 2
@@ -272,7 +279,7 @@ and:
 Using an **number**, followed by a **dot** symbol, followed by a space, before each line of text.
 
 #### Shortcuts
-- By selecting text, then clicking the ![Blockquote](/assets/ui/ui-markdown-ol.png =x30){.radius-4} button in the toolbar.
+- By selecting text, then clicking the ![Blockquote](https://docs.requarks.io/assets/ui/ui-markdown-ol.png =x30){.radius-4} button in the toolbar.
 
 #### Example 1
 
@@ -311,6 +318,17 @@ Start numbering with offset:
 
 ### Inline code
 
+### Tab {.tabset}
+
+#### Usage
+
+Using **backticks** before and after the text selected.
+
+#### Shortcuts
+- By selecting text, then clicking the ![Inline code](https://docs.requarks.io/assets/ui/ui-markdown-inlinecode.png =x30){.radius-4} button on the toolbar.
+
+#### Examples
+
 **Markdown**
 ```
 Inline `code`
@@ -320,6 +338,14 @@ Inline `code`
 Inline `code`
 
 ### Indented code
+
+### Tab {.tabset}
+
+#### Usage
+
+Adding tabs before each line.
+
+#### Examples
 
 **Markdown**
 ```
@@ -337,6 +363,18 @@ Inline `code`
 
 ### Block code "fences"
 
+### Tab {.tabset}
+
+#### Usage
+
+Use **triple backticks** symbols before and after text selection, on dedicated lines.
+
+#### Shortcuts
+
+- Using the **Code Block** tool on the left toolbar.
+
+#### Examples
+
 **Markdown**
 ~~~
 ```
@@ -349,6 +387,17 @@ Sample text here...
 ```
 
 ### Syntax highlighting
+
+### Tab {.tabset}
+
+#### Usage
+
+Use **triple backticks** symbols before and after the text selection, on dedicated lines, and then the programming language code (`js`, `html`, `css`, etc).
+
+#### Shortcuts
+- Using the **Code Block** tool on the left toolbar.
+
+#### Examples
 
 **Markdown**
 ~~~
@@ -372,6 +421,14 @@ console.log(foo(5));
 
 ## Tables
 
+### Tab {.tabset}
+
+#### Usage
+
+Separate cells in the table using **vertical bar**.
+
+#### Example 1
+
 **Markdown**
 
 ```
@@ -389,6 +446,9 @@ console.log(foo(5));
 | data   | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
+
+
+#### Example 2
 
 Right aligned columns
 
@@ -412,6 +472,16 @@ Right aligned columns
 
 ## Links
 
+### Tab {.tabset}
+
+#### Usage
+
+Using the syntax `[Link Text](Link Target)`.
+
+#### Access
+- Using the **Link** tool on the left toolbar.
+
+#### Examples
 
 **Markdown**
 
@@ -434,6 +504,17 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 ## Images
 
+### Tab {.tabset}
+
+#### Usage
+
+Using the syntax `![Caption Image](Image Source)`.
+
+#### Access
+- Using the **Resources** tool on the left toolbar.
+
+#### Examples
+
 **Markdown**
 ```
 ![Minion](https://octodex.github.com/images/minion.png =300x300)
@@ -443,6 +524,8 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 **Result**
 ![Minion](https://octodex.github.com/images/minion.png =300x300)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat" =300x300)
+
+#### Styling
 
 Like links, Images also have a footnote style syntax
 
@@ -455,6 +538,8 @@ Like links, Images also have a footnote style syntax
 
 ![Alt text][id]
 
+#### References
+
 With a reference later in the document defining the URL location:
 
 **Markdown**
@@ -466,9 +551,38 @@ With a reference later in the document defining the URL location:
 
 [id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
 
+#### Dimensions
+
+Sometimes the images are too big or maybe you want the image to take up all the available space.
+
+Simply in the dimensions at the end of the image path in the following format:
+
+```
+![Image](/link/to/image.jpg =100x50)
+```
+
+You can also omit one of the values to automatically maintain the image ratio:
+
+```
+![Image](/link/to/image.jpg =100x)
+![Image](/link/to/image.jpg =x50)
+```
+
+It is also possible to use other units, such as %. Useful when you need the image to take up all the available space:
+
+```
+![Image](/link/to/image.jpg =100%x)
+```
+
 ## SVG
 
-SVG can be included as any other content supported by browsers:
+### Tab {.tabset}
+
+#### Usage
+
+SVG can be included as any other content supported by browsers.
+
+#### Examples
 
 **Markdown**
 
@@ -486,6 +600,14 @@ SVG can be included as any other content supported by browsers:
 
 ## Maps
 
+### Tab {.tabset}
+
+#### Usage
+
+By means of an `iframe` that points to a map made on a map platform. This is a temporary way to add dynamic maps until the map editor is available.
+
+#### Example
+
 **Markdown**
 ```
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
@@ -493,13 +615,20 @@ SVG can be included as any other content supported by browsers:
 **Result**
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BmwnWua1TecE9a0-es5FFKCRO2ZmqYQ&ehbc=2E312F" width="640" height="480"></iframe>
 
+## Emojies
 
-## Plugins
+### Tab {.tabset}
 
-The killer feature of `markdown-it` is very effective support of [syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
+#### Usage
 
+Using the `:identifier:` syntax
 
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
+See supported emojis in [Emoji Cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+See [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
+
+https://github.com/markdown-it/markdown-it-emoji
+
+#### Examples
 
 **Markdown**
 ```
@@ -517,19 +646,61 @@ See supported emojis at [Emoji Cheat sheet](https://www.webfx.com/tools/emoji-ch
 See [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
 
 
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
+## Subscript
+
+### Tab {.tabset}
+
+#### Usage
+
+Use a **simple tilde** symbol before and after the text selection.
+
+https://github.com/markdown-it/markdown-it-sub
+
+#### Shortcuts
+- Selecting text, then clicking the ![Subscript](https://docs.requarks.io/assets/ui/ui-markdown-sub.png =x30){.radius-4} button on the toolbar .
+
+#### Examples
 
 **Markdown**
 ```
-- 19^th^
 - H~2~O
 ```
 
 **Result**
-- 19^th^
 - H~2~O
 
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
+## Superscript
+
+### Tab {.tabset}
+
+#### Usage
+
+Using a **unique** caret before and after the text selection.
+
+https://github.com/markdown-it/markdown-it-sup
+
+#### Shortcuts
+- Selecting text, then clicking the ![Superscript](https://docs.requarks.io/assets/ui/ui-markdown-sup.png =x30){.radius-4} button on the toolbar .
+
+#### Examples
+
+**mark down**
+```
+- 19^th^
+```
+
+**Result**
+- 19^th^
+
+## Inserted text
+
+### Tab {.tabset}
+
+#### Usage
+
+https://github.com/markdown-it/markdown-it-ins
+
+#### Examples
 
 **Markdown**
 ```
@@ -539,7 +710,15 @@ See [how to change output](https://github.com/markdown-it/markdown-it-emoji#chan
 **Result**
 ++Inserted text++
 
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
+## Mark text
+
+### Tab {.tabset}
+
+#### Usage
+
+https://github.com/markdown-it/markdown-it-mark
+
+#### Examples
 
 **Markdown**
 ```
@@ -549,7 +728,17 @@ See [how to change output](https://github.com/markdown-it/markdown-it-emoji#chan
 **Result**
 ==Marked text==
 
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
+## Footnotes
+
+### Tab {.tabset}
+
+#### Use
+
+Use the syntax `[^1]` for the footnote location in the main text, and `[^1]: this is a footnote` for the actual footnote. The footnotes themselves will automatically appear at the bottom of the page below a horizontal line.
+
+https://github.com/markdown-it/markdown-it-footnote
+
+#### Examples
 
 **Markdown**
 ```
@@ -583,7 +772,15 @@ Duplicated footnote reference[^second].
 
 [^second]: Footnote text.
 
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
+## Definition lists
+
+### Tab {.tabset}
+
+#### Use
+
+https://github.com/markdown-it/markdown-it-deflist
+
+#### Examples
 
 **Markdown**
 ```
@@ -615,7 +812,7 @@ Term 2 with *inline markup*
 
     Third paragraph of definition 2.
 
-_Compact style:_
+#### Compact style
 
 **Markdown**
 ```
@@ -635,7 +832,15 @@ Term 2
   ~ Definition 2a
   ~ Definition 2b
 
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
+## Abbreviations
+
+### Tab {.tabset}
+
+#### Usage
+
+https://github.com/markdown-it/markdown-it-abbr
+
+#### Examples
 
 This is HTML abbreviation example.
 
@@ -649,7 +854,15 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 **Result**
 *[HTML]: Hyper Text Markup Language
 
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
+## Custom containers
+
+### Tab {.tabset}
+
+#### Usage
+
+https://github.com/markdown-it/markdown-it-container
+
+#### Examples
 
 **Markdown**
 ```
@@ -663,7 +876,13 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 *here be dragons*
 :::
 
-### [Advanced tables](https://github.com/RedBug312/markdown-it-multimd-table)
+## Advanced tables
+
+### Tab {.tabset}
+
+#### Usage
+
+https://github.com/RedBug312/markdown-it-multimd-table
 
 #### With grouping, alignment, and scaping
 
@@ -745,6 +964,8 @@ Citric acid cycle | 2 ATP ||
 **30--32** ATP |||
 [Net ATP yields per hexose]
 
+#### Title grouped
+
 **Markdown**
 ```
 | Archetypes ||
@@ -771,7 +992,17 @@ Heaven | The Apostles
 Hell | Jesus and the stories of His Life and Teachings 
 Salvation | The “Second Coming” 
 
-### [Mathjax](https://github.com/classeur/markdown-it-mathjax)
+## Mathematical expressions (Mathjax)
+
+### Tab {.tabset}
+
+#### Usage
+
+See the external links to learn more about using Math in Markdown.
+
+https://github.com/classeur/markdown-it-mathjax
+
+#### Example 1
 
 Processes TeX displayed math
 
@@ -785,6 +1016,8 @@ Processes TeX in-line math $1 *2* 3$
 **Result**
 $$1 *2* 3$$
 
+#### Example 2
+
 Processes TeX in-line math $1 *2* 3$
 
 **Markdown**
@@ -802,6 +1035,8 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 $$\frac{1}{\sqrt{x^2 + 1}}$$
 
+#### Example 3
+
 **Markdown**
 ```
 __O^1^ O^2^ O^3^ O^4^ O^5^ O^6^ O^7^ O^8^ O^9^ <u>O</u>^10^ O^11^ O^12^__
@@ -809,6 +1044,9 @@ __O^1^ O^2^ O^3^ O^4^ O^5^ O^6^ O^7^ O^8^ O^9^ <u>O</u>^10^ O^11^ O^12^__
 
 **Result**
 __O^1^ O^2^ O^3^ O^4^ O^5^ O^6^ O^7^ O^8^ O^9^ <u>O</u>^10^ O^11^ O^12^__
+
+
+#### Example 4
 
 **Markdown**
 ```
@@ -818,6 +1056,8 @@ $$V = H_0 * D, $$
 **Result**
 $$V = H_0 * D, $$
 
+#### Example 5
+
 **Markdown**
 ```
 In most part yes, in $1/4$ no.
@@ -825,6 +1065,8 @@ In most part yes, in $1/4$ no.
 
 **Result**
 In most part yes, in $1/4$ no.
+
+#### Example 6
 
 **Markdown**
 ```
@@ -844,6 +1086,8 @@ Binary operators | \times \otimes \oplus \cup \cap | $\times \otimes \oplus \cup
 Relation operators | < > \subset \supset \subseteq \supseteq | $< > \subset \supset \subseteq \supseteq$
 Others | \int \oint \sum \prod | $\int \oint \sum \prod$
 
+#### Example 7
+
 **Markdown**
 ```
 $$ \max dS/dt = \pm \begin{cases} wR, R \leq D \\ wD, R \geq D  \end{cases}$$
@@ -851,6 +1095,8 @@ $$ \max dS/dt = \pm \begin{cases} wR, R \leq D \\ wD, R \geq D  \end{cases}$$
 
 **Result**
 $$ \max dS/dt = \pm \begin{cases} wR, R \leq D \\ wD, R \geq D  \end{cases}$$
+
+#### Example 8
 
 **Markdown**
 ```
@@ -860,7 +1106,51 @@ Earth mass = $M^\odot$
 **Result**
 Earth mass = $M^\odot$
 
-See external links for more on Math use in Markdown.
+## Content Tabs
+
+### Tab {.tabset}
+
+#### Usage
+
+Use headers and add the `{.tabset}` class to the main header. The main header text will not be displayed in the final result.
+
+Note that you can use any header level, as long as the child headers are one level higher. For example, if a main header is `###` *(h3)*, tab headers should be `####` *(h4)*. The maximum header level for a parent is 5 and children are 6.
+
+#### Examples
+
+```
+# Tabs {.tabset}
+## FirstTab
+
+Any content here will go into the first tab...
+
+## Second Tab
+
+Any content here will go into the second tab...
+
+##ThirdTab
+
+Any content here will go into the third tab...
+```
+
+## Show keyboard keys
+
+### Tab {.tabset}
+
+#### Usage
+
+Using `<kbd>` before and `</kbd>` after the text selection.
+
+#### Access
+- Selecting text, then clicking the ![Keyboard Keys](https://docs.requarks.io/assets/ui/ui-markdown-kbd.png =x30){.radius-4} button on the bar of tools.
+
+#### Examples
+
+```html
+Lorem ipsum pain <kbd>CTRL</kbd> + <kbd>C</kbd>
+```
+
+Lorem ipsum pain <kbd>CTRL</kbd> + <kbd>C</kbd>
 
 ## External links
 

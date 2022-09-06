@@ -2,10 +2,10 @@
 title: Ayuda del formato Markdown
 description: 
 published: true
-date: 2022-07-30T10:07:46.165Z
+date: 2022-09-06T09:15:53.591Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-05T10:55:15.557Z
+dateCreated: 2022-08-01T20:01:17.168Z
 ---
 
 <figure class="table chapter-navigator">
@@ -19,7 +19,7 @@ dateCreated: 2022-04-05T10:55:15.557Z
     </tbody>
   </table>
 </figure>
-
+ 
 ## Visión general
 
 Markdown es un lenguaje de marcado ligero con sintaxis de formato de texto plano. Es la sintaxis de facto para escribir documentación en los principales repositorios de código, como GitHub.
@@ -127,7 +127,7 @@ Cursiva: uso de un símbolo de **asterisco simple** antes y después de la selec
 Negrita: Usar símbolos de **doble asterisco** antes y después de la selección de texto.
 
 #### Acceso
-- Seleccionando texto y luego haciendo clic en el botón ![Bold](/assets/ui/ui-markdown-bold.png =x30){.radius-4} en la barra de herramientas.
+- Seleccionando texto y luego haciendo clic en el botón ![Bold](https://docs.requarks.io/assets/ui/ui-markdown-bold.png =x30){.radius-4} en la barra de herramientas.
 - Seleccionando texto, luego presionando <kbd>CTRL</kbd> + <kbd>B</kbd>
 
 #### Ejemplos
@@ -211,7 +211,7 @@ Bloques personalizadas
 Usar un símbolo de **asterisco** o **guión**, seguido de un espacio, antes de cada línea de texto.
 
 #### Acceso
-- Seleccionando texto, luego haciendo clic en el botón ![Blockquote](/assets/ui/ui-markdown-ul.png =x30){.radius-4} en la barra de herramientas.
+- Seleccionando texto, luego haciendo clic en el botón ![Blockquote](https://docs.requarks.io/assets/ui/ui-markdown-ul.png =x30){.radius-4} en la barra de herramientas.
 
 #### Ejemplos
 
@@ -280,7 +280,7 @@ y
 Usando un **número**, seguido de un símbolo de **punto**, seguido de un espacio, antes de cada línea de texto.
 
 #### Acceso
-- Seleccionando texto y luego haciendo clic en el botón ![Blockquote](/assets/ui/ui-markdown-ol.png =x30){.radius-4} en la barra de herramientas.
+- Seleccionando texto y luego haciendo clic en el botón ![Blockquote](https://docs.requarks.io/assets/ui/ui-markdown-ol.png =x30){.radius-4} en la barra de herramientas.
 
 #### Ejemplo 1
 
@@ -325,7 +325,7 @@ Comenzar numeración con offset:
 Usando un símbolo de **comilla invertida** antes y después de la selección de texto.
 
 #### Acceso
-- Seleccionando texto, luego haciendo clic en el botón ![Código en línea](/assets/ui/ui-markdown-inlinecode.png =x30){.radius-4} en la barra de herramientas.
+- Seleccionando texto, luego haciendo clic en el botón ![Código en línea](https://docs.requarks.io/assets/ui/ui-markdown-inlinecode.png =x30){.radius-4} en la barra de herramientas.
 
 #### Ejemplos
 
@@ -387,6 +387,17 @@ El texto aquí...
 ```
 
 ### Remarcado de sintaxis
+
+### Tab {.tabset}
+
+#### Uso
+
+Usar símbolos de **triples acentos graves** antes y después de la selección de texto, en líneas dedicadas, y luego el código de lenguaje de programación (`js`, `html`, `css`, etc).
+
+#### Acceso
+- Usando la herramienta **Bloque de código** en la barra de herramientas izquierda.
+
+#### Ejemplos
 
 **Markdown**
 ~~~
@@ -515,7 +526,7 @@ Usando la sintaxis `![Imagen de pie de foto](Fuente de la imagen)`.
 
 #### Estilo
 
-Al igual que los enlaces, las imágenes también tienen una sintaxis de estilo de nota al pie
+Al igual que los enlaces, las imágenes también tienen una sintaxis de estilo de nota al pie.
 
 **Markdown**
 ```
@@ -568,7 +579,7 @@ También es posible utilizar otras unidades, como %. Útil cuando necesitas que 
 
 #### Uso
 
-SVG se puede incluir como cualquier otro contenido soportado por los navegadores
+SVG se puede incluir como cualquier otro contenido soportado por los navegadores.
 
 #### Ejemplo
 
@@ -592,7 +603,7 @@ SVG se puede incluir como cualquier otro contenido soportado por los navegadores
 
 #### Uso
 
-Mediante un `iframe` que apunte a un mapa hecho en una plataforma de mapas.
+Mediante un `iframe` que apunte a un mapa hecho en una plataforma de mapas. Esto es una forma temporal de añadir mapas dinámicos hasta que el editor de mapas esté disponible.
 
 #### Ejemplo
 
@@ -641,7 +652,7 @@ Usar un símbolo de **tilde simple** antes y después de la selección de texto.
 https://github.com/markdown-it/markdown-it-sub
 
 #### Acceso
-- Seleccionando texto, luego haciendo clic en el botón ![Subíndice](/assets/ui/ui-markdown-sub.png =x30){.radius-4} en la barra de herramientas.
+- Seleccionando texto, luego haciendo clic en el botón ![Subíndice](https://docs.requarks.io/assets/ui/ui-markdown-sub.png =x30){.radius-4} en la barra de herramientas.
 
 #### Ejemplos
 
@@ -664,7 +675,7 @@ Usando un símbolo de intercalación **único** antes y después de la selecció
 https://github.com/markdown-it/markdown-it-sup
 
 #### Atajos
-- Seleccionando texto, luego haciendo clic en el botón ![Superíndice](/assets/ui/ui-markdown-sup.png =x30){.radius-4} en la barra de herramientas.
+- Seleccionando texto, luego haciendo clic en el botón ![Superíndice](https://docs.requarks.io/assets/ui/ui-markdown-sup.png =x30){.radius-4} en la barra de herramientas.
 
 #### Ejemplos
 
@@ -677,7 +688,7 @@ https://github.com/markdown-it/markdown-it-sup
 - 19^th^
 
 
-## \<ins>
+## Texto insertado
 
 ### Tab {.tabset}
 
@@ -695,7 +706,7 @@ https://github.com/markdown-it/markdown-it-ins
 **Resultado**
 ++Inserted text++
 
-## \<mark>
+## Texto marcado
 
 ### Tab {.tabset}
 
@@ -977,7 +988,7 @@ Heaven | The Apostles
 Hell | Jesus and the stories of His Life and Teachings 
 Salvation | The “Second Coming” 
 
-## Mathjax 
+## Expresiones matemáticas (Mathjax)
 
 ### Tab {.tabset}
 
@@ -1128,7 +1139,7 @@ Any content here will go into the third tab...
 Usando `<kbd>` antes y `</kbd>` después de la selección de texto.
 
 #### Acceso
-- Seleccionando texto, luego haciendo clic en el botón ![Teclas del teclado](/assets/ui/ui-markdown-kbd.png =x30){.radius-4} en la barra de herramientas.
+- Seleccionando texto, luego haciendo clic en el botón ![Teclas del teclado](https://docs.requarks.io/assets/ui/ui-markdown-kbd.png =x30){.radius-4} en la barra de herramientas.
 
 #### Ejemplos
 
@@ -1169,4 +1180,3 @@ Lorem ipsum dolor <kbd>CTRL</kbd> + <kbd>C</kbd>
     </tbody>
   </table>
 </figure>
-

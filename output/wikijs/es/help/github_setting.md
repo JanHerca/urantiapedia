@@ -50,9 +50,11 @@ Node.js es un requisito para hacer funcionar las *Urantiapedia Tools*.
 
 ## Hacer un fork del proyecto Urantiapedia
 
-1. Abre la página del proyecto de la *Urantiapedia*: https://github.com/JanHerca/urantiapedia
-2. Crea un *fork* del proyecto. Un *fork* no es sino una copia de un proyecto en tu propia cuenta, de modo que los cambios hechos a la copia no afecten al proyecto original. Para hacer el *fork* haz click en el botón *Fork* de la esquina superior derecha de la página de GitHub.
-3. En unos pocos segundos una copia del proyecto de la *Urantiapedia* se creará en tu cuenta de GitHub. Este proyecto es una copia neuva y completa en la que puedes hacer todos los cambios que necesites sin afectar al proyecto original.
+1. Abre las páginas de los proyectos de la *Urantiapedia*: 
+   - https://github.com/JanHerca/urantiapedia
+   - https://github.com/JanHerca/urantiapedia-backup
+2. Crea un *fork* de los proyectos. Un *fork* no es sino una copia de un proyecto en tu propia cuenta, de modo que los cambios hechos a la copia no afecten al proyecto original. Para hacer los *fork* haz click en el botón *Fork* de la esquina superior derecha de cada página de proyecto GitHub.
+3. En unos pocos segundos una copia de los proyectos de la *Urantiapedia* se creará en tu cuenta de GitHub. Estos proyectos son una copia nueva y completa en la que puedes hacer todos los cambios que necesites sin afectar a los proyectos originales.
 
 ## Instala VS Code y GitLens
 
@@ -64,11 +66,11 @@ Es muy recomendable el uso de Visual Studio Code.
 4. En VS Code haz click en el botón Extensiones en la botonera lateral izquierda. Es muy recomendable instlar una extensión llamada "GitLens". Suele estar en la lista de las extensiones más populares. Localízala y haz click en el botón de instalar.
 5. Ahora tendrás un nuevo botón para GitLens en la botonera de la izquierad de VS Code. Haz click en él y click en el botón "Welcome (Quick setup)". Se abre la página Welcome. Es recomendabble seleccionar "Source control layout" como vista por defecto. Esto hace que GitLens se fusione con el panel "Source control" por edfecto de VS Code.
 
-## Clona el proyecto Urantiapedia
+## Clona los proyectos de Urantiapedia
 
 1. Abre la web de GitHub y navega a tu cuenta.
-2. Abre tu fork del proyecto de la Urantiapedia que has creado antes.
-3. En la página principal localiza un menú verde llamado "Code" y en él haz click para copiar la URL del proyecto, algo como `https://github.com/<username>/urantiapedia.git`.
+2. Abre tus forks de los proyectos de la Urantiapedia que has creado antes.
+3. En la página principal localiza un menú verde llamado "Code" y en él haz click para copiar la URL del proyecto, algo como `https://github.com/<username>/urantiapedia.git` y `https://github.com/<username>/urantiapedia-backup.git`.
 4. Abre VS Code, abre el panel "Source control" y haz click en "Clone repository".
 5. En la casilla de texto que aparece teclea o pega la ruta copiada antes.
 6. Selecciona "Clone from GitHub".
@@ -77,8 +79,8 @@ Es muy recomendable el uso de Visual Studio Code.
 9. Haz click en Authorize github.
 10. Ahora se te redirige a una nueva página web donde se abre un mensaje. Haz click en "Open VS Code".
 11. Ahora haz click en Open para permitir el uso de la ruta proporcionada. Si algo va mal repite desde el punto 4.
-12. Cuando se muestra el nombre del repositorio de tu proyecto de la Urantiapedia repository en la central de comandos selecciónalo. Aparecerá un cuadro de diálogo preguntango por una carpeta. Selecciona cualquier carpeta o crea una para el proyecto.
-13. Espera unos segundos para que VS Code clone el repo. Finalmente haz click en "Open repo". También haz click en "Yes, I trust the authors".
+12. Cuando se muestra el nombre del repositorio de tu proyecto de la Urantiapedia en la central de comandos selecciónalo. Aparecerá un cuadro de diálogo preguntando por una carpeta. Selecciona cualquier carpeta o crea una para el proyecto.
+13. Espera unos segundos para que VS Code clone el repositorio. Finalmente haz click en "Open repo". También haz click en "Yes, I trust the authors".
 14. El proyecto se abrirá correctamente.
 
 ## Configurar las *Urantiapedia Tools*
@@ -89,14 +91,14 @@ Las *Urantiapedia Tools* es una aplicación de escritorio desarrollada en JavaSc
 2. Opcionalmente, en Windows puedes abrir el menú contextual de la carpeta raíz y seleccionar "Abrir con Code".
 3. Abre un terminal usando Terminal > New Terminal. Asegúrate de que el terminal está abierto en la carpeta raíz del proyecto. 
 4. Para instalar las dependencias ejecuta: `npm install`. Espera hasta que todas se instalan.
-5. El proyecto se configura con una configuración de ejecución por defecto. Presiona F5 para ejecutar la apliación o en el terminal ejecuta `npm start`.
-6. La aplicación se abre. Por defecto se abre una ventana Dev Tools para poder depurar. Si no está desarrollando puedes ignorarla o cerrarla.
+5. El proyecto se configura con una configuración de ejecución por defecto. Presiona F5 para ejecutar la aplicación o en el terminal ejecuta `npm start`.
+6. La aplicación se abre. Por defecto se abre una ventana Dev Tools para poder depurar. Si no estás desarrollando puedes ignorarla o cerrarla.
 
 ![](/image/uptools.png)
 
 ## Hacer commit y push de cambios
 
-Tu repositorio local es una copia completa del proyecto para que pueda guardar los cambios cada vez que tengas algunos cambios que se puedan publicar.
+Tus repositorios locales son una copia completa de los proyecto para que puedas guardar los cambios cada vez que tengas algunos cambios que se puedan publicar.
 
 1. Verás que tienes cambios cuando aparezca un número en el icono del botón "Source control".
 2. Haz click en "Source control".
@@ -105,22 +107,30 @@ Tu repositorio local es una copia completa del proyecto para que pueda guardar l
 5. Para enviar tus cambios a tu repositorio remoto en GitHub, haz click en el botón "Sync changes" que aparece cuando existen nuevos *commits*. Esto hará un *pull* y *push* recibiendo y enviando cualquier cambio entre tu copias local y remota del proyecto.
 6. Puedes verificar que tus *commits* se envían correctamente abriendo tu página de GitHub Urantiapedia.
 
-## Crear "pull requests" para el proyecto principal de Urantiapedia
+## Sincronizar cambios entre los proyectos
 
-Cuando tengas un número suficiente de *commits* enviados a tu propia *fork* del proyecto Urantiapedia, puedes enviar tus cambios al proyecto principal para que los cambios puedan revisarse y fusionarse en él. Esto se denomina "pull request" en la terminología de GitHub.
+El proyecto Urantiapedia es la versión para desarrollo y trabajo con los contenidos. El proyecto Urantiapedia-backup contiene únicamente el contenido, y está sincronizado con la página web, por lo que introducir cambios en él equivale a hacer cambios masivos en la web.
 
-1. Abre tu página de Urantiapedia en GitHub.
+Si tus cambios en el proyecto Urantiapedia incluyen cambios en el contenido (carpeta `/output/wikijs`) debes sincronizar esos cambios con el proyecto Urantiapedia-backup con cualquier utilidad de sincronización o bien simplemente copiando y pegando entre carpetas.
+
+## Crear "pull requests" para los proyectos de Urantiapedia
+
+Cuando tengas un número suficiente de *commits* enviados a tus propios *forks* de los proyectos Urantiapedia, puedes enviar tus cambios a esos proyectos para que los cambios puedan revisarse y fusionarse en ellos. Esto se denomina "pull request" en la terminología de GitHub.
+
+1. Abre cada una de las páginas de Urantiapedia en GitHub.
+   - `https://github.com/<username>/urantiapedia`
+   - `https://github.com/<username>/urantiapedia-backup`
 2. Asegúrate de estar en la rama principal que se llama "master". La rama aparece en un menú en la parte superior de la lista de archivos.
 3. Selecciona el menú Contribute que aparece a continuación y luego selecciona "Open pull request". Si el menú dice "This branch is not ahead of the upstream master" ("Esta rama no está por delante de la rama master"), primero debes hacer un *fetch* del proyecto principal. Mira más adelante.
 4. Agrega un título a tus contribuciones. También puedes agregar una descripción.
-5. Haz click en "Create pull request".
-6. Esto enviará una notificación a los usuarios "administradores" del proyecto que fusionarán sus cambios si no encuentran problemas.
+5. Haz click en "Create pull request". Haz un "pull request" por cada proyecto en el que tengas cambios.
+6. Esto enviará una notificación a los "administradores" del proyecto que fusionarán sus cambios si no encuentran problemas.
 
-## Sincroniza tu fork
+## Sincroniza tu forks
 
-Como *Urantiapedia* es el esfuerzo de un equipo de colaboradores, es común que en cualquier momento tu fork del proyecto no esté sincronizado con el proyecto principal. Es una buena práctica que antes de cualquier *pull request* sincronices tu *fork* con el proyecto principal.
+Como *Urantiapedia* es el esfuerzo de un equipo de colaboradores, es común que en cualquier momento tus forks de los proyectos no esté sincronizado con los proyectos principales. Es una buena práctica que antes de cualquier *pull request* sincronices tus *forks* con los proyectos principales.
 
-1. Abre tu página de Urantiapedia en GitHub.
+1. Abre cualquier de tus páginas de Urantiapedia en GitHub.
 2. Selecciona el menú "Fetch upstream" que aparece debajo del selector de ramas y haz click en "Fetch and merge". Esto copiará todos los cambios nuevos del proyecto principal a tu fork del proyecto.
 3. Ve a VS Code.
 4. Abre el proyecto como ya se ha explicado.
@@ -136,7 +146,7 @@ Como *Urantiapedia* es el esfuerzo de un equipo de colaboradores, es común que 
 - [Wiki.js](https://js.wiki/)
 
 <br>
-
+ 
 <figure class="table chapter-navigator">
   <table>
     <tbody>

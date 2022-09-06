@@ -51,9 +51,11 @@ Node.js is a requirement to make *Urantiapedia Tools* work.
 
 ## Fork Urantiapedia project
 
-1. Open the *Urantiapedia* project page: https://github.com/JanHerca/urantiapedia
-2. Create a *fork* of the project. A *fork* is nothing but a proper copy of an existing project in our account, so that the changes made to this project do not affect the original project. To make the *fork* click on the *Fork* button in the upper right corner of GitHub page.
-3. In a few seconds a copy of *Urantiapedia* project will be created within your GitHub account. This project is a fresh copy in which you can make the changes you need, without affecting the original project.
+1. Open *Urantiapedia* project pages: 
+   - https://github.com/JanHerca/urantiapedia
+   - https://github.com/JanHerca/urantiapedia-backup
+2. Create a *fork* of each project. A *fork* is nothing but a proper copy of an existing project in our account, so that the changes made to this project do not affect the original project. To make the *forks* click on the *Fork* button in the upper right corner of each GitHub page.
+3. In a few seconds a copy of *Urantiapedia* projects will be created within your GitHub account. These projects are a fresh copy in which you can make the changes you need, without affecting the original projects.
 
 ## Install VS Code and GitLens
 
@@ -65,11 +67,11 @@ It is recommended the use of Visual Studio Code.
 4. In VS Code click in Extensions button on the left side buttonbar. It is highly recommended to install an extension called "GitLens". It is usually among the most popular extensions. Locate it and click in install button.
 5. Now you will have a new button for GitLens in VS Code left buttonbar. Click on it and click in "Welcome (Quick setup)" button. The Welcome page opens. It is recommended to select "Source control layout" as the default view. This makes GitLens to merge with the default "Source control" panel in VS Code.
 
-## Clone Urantiapedia project
+## Clone Urantiapedia projects
 
 1. Open GitHub web and go to your account.
-2. Open your fork of Urantiapedia project you created before.
-3. On the main page locate a green menu named "Code" and in it click to copy the URL of the project, something like `https://github.com/<username>/urantiapedia.git`.
+2. Open your forks of Urantiapedia projects you created before.
+3. On the main page locate a green menu named "Code" and in it click to copy the URL of the project, something like `https://github.com/<username>/urantiapedia.git` and `https://github.com/<username>/urantiapedia-backup.git`.
 4. Open VS Code, open "Source control" panel and click in "Clone repository".
 5. In the textbox that appears type or paste the previous path copied.
 6. Select "Clone from GitHub".
@@ -97,7 +99,7 @@ It is recommended the use of Visual Studio Code.
 
 ## Commit and push changes
 
-Your local repository is a fll copy of the project so you can save changes in it each time you have some changes that can be posted.
+Your local repositories are a full copy of the projects so you can save changes in them each time you have some changes that can be posted.
 
 1. You will see that you have changes when a number appears in the "Source control" button icon.
 2. Click in "Source control".
@@ -106,22 +108,30 @@ Your local repository is a fll copy of the project so you can save changes in it
 5. To send your changes to your remote repository in GitHub click in the "Sync changes" button that appears when new commits exists. This will pull and push any changes between your local and remote copies of the project.
 6. You can check that your commits are pushed correctly opening your GitHub Urantiapedia page.
 
-## Create "pull requests" to main Urantiapedia project
+## Synchronize changes between projects
 
-When you have an enough number of commits pushed to your own fork of the Urantiapedia project, you can send your changes to the main project so that changes can be reviewed and merged in it. This is called a "pull request" in GitHub terminology.
+The Urantiapedia project is the version for development and work with the contents. The Urantiapedia-backup project contains only the content, and is in sync with the web page, so making changes to it is equivalent to making massive changes to the web.
 
-1. Open your Urantiapedia page in GitHub.
+If your changes to the Urantiapedia project include changes to the content (`/output/wikijs` folder) you must sync those changes to the Urantiapedia-backup project with any sync utility or by simply copying and pasting between folders.
+
+## Create "pull requests" to Urantiapedia projects
+
+When you have an enough number of commits pushed to your own forks of the Urantiapedia projects, you can send your changes to the projects so that changes can be reviewed and merged in it. This is called a "pull request" in GitHub terminology.
+
+1. Open each of Urantiapedia pages in GitHub.
+   - `https://github.com/<username>/urantiapedia`
+   - `https://github.com/<username>/urantiapedia-backup`
 2. Ensure your are in the main branch that is called "master". The branch appears in a menu on top of the list of files.
 3. Select the menu Contribute that appears below, and then select "Open pull request". If the menu says "This branch is not ahead of the upstream master" you must do first a fetch of the main project. See below.
 4. Add a title to your contributions. You can also add a description.
-5. Click on "Create pull request".
+5. Click on "Create pull request". Do a "pull request" for each project with changes.
 6. This will send a notification to "admin" users of the project that will merge your changes if they find no problems.
 
-## Sync your fork
+## Sync your forks
 
-As *Urantiapedia* is the effort of a team of collaborators, it is common that at any point in time your fork project will be out of sync with the main project. It is a good practice that before any pull request you sync your fork with the main project.
+As *Urantiapedia* is the effort of a team of collaborators, it is common that at any point in time your forks of projects will be out of sync with the main projects. It is a good practice that before any pull request you sync your forks with the main projects.
 
-1. Open your Urantiapedia page in GitHub.
+1. Open any of your Urantiapedia pages in GitHub.
 2. Select the menu "Fetch upstream" that appears below the branch selector and click in "Fetch and merge". This will copy all new changes from main project to your fork project.
 3. Go to VS Code.
 4. Open the project and previously explained.
@@ -138,7 +148,7 @@ As *Urantiapedia* is the effort of a team of collaborators, it is common that at
 
 
 <br>
-
+ 
 <figure class="table chapter-navigator">
   <table>
     <tbody>

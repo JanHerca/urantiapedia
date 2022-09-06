@@ -2,10 +2,10 @@
 title: Uso de editores
 description: 
 published: true
-date: 2021-11-28T14:02:03.086Z
+date: 2022-09-06T09:18:46.845Z
 tags: 
 editor: markdown
-dateCreated: 2021-11-28T14:02:03.086Z
+dateCreated: 2022-09-02T14:33:14.502Z
 ---
 
 <figure class="table chapter-navigator">
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 Al crear una página, puedes utilizar el editor que prefieras. Algunos usuarios prefieren escribir contenido en Markdown, mientras que otros prefieren un editor más visual.
 
 ## Lista de editores
@@ -34,7 +34,6 @@ Al crear una página, puedes utilizar el editor que prefieras. Algunos usuarios 
 - [API Docs *REST / GraphQL *(próximamente)**](/es/help/web_api)
 - [Blog *Cronología de publicaciones *(próximamente)**](/es/help/web_blog)
 - [Tabular *similar a Excel *(próximamente)**](/es/help/web_tabular)
-{.lista de enlaces}
 
 ## Cambiar editor
 
@@ -57,7 +56,6 @@ Selecciona el editor que deseas usar en adelante y haz clic en **Convertir**.
 > &#8727; Al pasar de Markdown a HTML, los diagramas `draw.io` se mantendrán como su imagen renderizada final. Ya no se podrá editar el diagrama.
 > &#8727; Al pasar de Markdown a HTML, los conjuntos de pestañas se revertirán a encabezados y párrafos estándar (como se ve en el editor de Markdown).
 > &#8727; Al pasar de HTML a Markdown, las clases CSS personalizadas y los elementos HTML que no existen en el lenguaje Markdown no se conservarán.
-{.es-advertencia}
 
 Como referencia, se producen las siguientes conversiones de formato en función del editor de origen / destino seleccionado:
 
