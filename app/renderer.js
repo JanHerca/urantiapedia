@@ -640,7 +640,10 @@ const handle_exeButtonClick = () => {
 			.catch(onFail);
 	} else if (process === 'ARTICLE_CATALOG_MARKDOWN_TO_WIKIJS') {
 		// Read Article Catalog (article.md) => create pages in Wiki.js
+		const sourceName = 'Innerface International';
 		articles.readCatalog()
+			.then(() => articles.searchFiles(htmlDir, '.md'))
+			.then(() => articles.writeToWikijs(htmlDir, sourceName))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'ALL_INDEXES') {

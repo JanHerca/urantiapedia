@@ -177,7 +177,7 @@ exports.removeHTMLTags = function(content, initTag, endTag, removeContent, error
  * rejects.
  * @param {string} dirPath Folder path.
  * @param {string} format Format as '.txt' or '.tex'. Several formats can be
- * passed tis way: '.html;.htm'
+ * passed this way: '.html;.htm'
  * @param {Function} clearFunction Function to clear data before reading. It must
  * be a function without params that returns nothing.
  * @param {Function} readFunction Function to execute with each file. It must be

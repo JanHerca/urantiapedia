@@ -1,11 +1,8 @@
 //Reader/Writer for converting articles to *.wiki
 
 const {app} = require('electron').remote;
-const readFrom = require('./utils').readFrom;
-const readFile = require('./utils').readFile;
-const reflectPromise = require('./utils').reflectPromise;
-const extendArray = require('./utils').extendArray;
-const getError = require('./utils').getError;
+const {readFrom, readFile, reflectPromise, extendArray, getError, 
+	writeFile, getWikijsHeader, sentenceSimilarity} = require('./utils');
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -13,6 +10,7 @@ const Strings = require('./strings');
 class Articles {
 	language = 'en';
 	docs = [];
+	filenames = [];
 	onProgressFn = null;
 
 	setLanguage = (language) => {
@@ -156,7 +154,6 @@ class Articles {
 								header.length === values.length) {
 								const article = {};
 								values.forEach((v,i) => article[header[i]] = v);
-								//TODO: add to article a valid file name and a valid path (mainly a valid author name)
 								section.list.push(article);
 							}
 						}
@@ -174,19 +171,56 @@ class Articles {
 		});
 	};
 
+	/**
+	 * Searches files.
+	 * @param {string} dirPath Output folder.
+	 * @param {string} format Format as '.txt' or '.tex'. Several formats can be
+	 * passed this way: '.html;.htm'
+	 */
+	searchFiles = (dirPath, format) => {
+		return new Promise((resolve, reject) => {
+			this.filenames.length = 0;
+			const inputFolder = path.join(dirPath, '__input');
+			fs.readdir(inputFolder, (err, files) => {
+				if (err) {
+					reject([this.getError('folder_no_access', inputFolder)]);
+					return;
+				}
+				const formats = format.split(';');
+				const ffiles = files.filter(file => {
+					return (formats.indexOf(path.extname(file)) != -1);
+				});
+				if (ffiles.length === 0) {
+					reject([this.getError('files_not_with_format', format)]);
+					return;
+				}
+				this.filenames = ffiles.map(file => {
+					return {
+						filename: file,
+						words: file.replace(/\.md$/g, '')
+							.replace(/__/g, ' ').replace(/[—\-_]/g,' ')
+					}
+				});
+				resolve(null);
+			});
+		});
+	};
+
 	//***********************************************************************
 	// Wiki.js
 	//***********************************************************************
 
 	/**
 	 * Writes articles only with header, author and external link. Requires a
-	 * previous read of metadata of articles with `readCatalog`.
+	 * previous read of metadata of articles with `readCatalog` and 
+	 * `searchFiles`.
 	 * @param {string} dirPath Output folder.
 	 * @param {string} source Name of the source to process (for example 
 	 * `Innerface International`) or null to process all them.
 	 */
-	writeEmptyArticles = (dirPath, source) => {
+	writeToWikijs = (dirPath, source) => {
 		return new Promise((resolve, reject) => {
+			const newCatalog = path.join(dirPath, '__articles.md');
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
 				if (err) {
 					reject([this.getError('folder_no_access', dirPath)]);
@@ -194,14 +228,75 @@ class Articles {
 				}
 			});
 			const sources = this.docs
-				.filter(section => source == null || section.name === source);
+				.filter(section => (source == null || section.name === source));
 			const promises = [];
-			sources.forEach(src => {
-				src.list.forEach(article => {
-					//TODO: Add to promises a reflected one that writes an article
-					//TODO: Check if file exists and return a resolved promise
+			sources.forEach(src => {src.list
+				.filter(article => article.Status != ':ballot_box_with_check:')
+				.forEach(article => {
+					const words = article.Title.replace(/[—-]/g, ' ');
+					const arFN = this.filenames.map(f => {
+						return [f.filename, sentenceSimilarity(f.words, words)];
+					});
+					arFN.sort((a,b) => b[1] - a[1]);
+					const ok = arFN[0][1] > 0.5;
+					article.File = '  ';
+					article.Input = '  ';
+					if (!ok) {
+						promises.push(reflectPromise(Promise.resolve(null)));
+					}
+					article.File = arFN[0][0]
+						.replace(/\.md$/g, '')
+						.replace(/__/g, ' ')
+						.replace(/[\.:,“'”\?!\(\)]/g, '')
+						.replace(/[ —-]/g, '_');
+					article.Input = arFN[0][0];
+					const folder = article.Author
+						.replace(/[\.']/g, '')
+						.replace(/ /g, '_');
+					const filePath = (article.Author === '' ?
+						path.join(dirPath, article.File + '.html') :
+						path.join(dirPath, folder, article.File + '.html'));
+					const title = '"' + article.Title + '"';
+					const tags = (article.Tags && article.Tags.length > 0 ?
+						article.Tags.split(',').map(i => i.trim()) : null);
+					const author = article.Author;
+					const web = article.Webpage;
+
+					article.Title = `[${article.Title}](/${this.language}/` +
+						`article${article.Author === '' ? '' : '/' + folder}/` +
+						`${article.File})`;
+
+					let md = getWikijsHeader(title, tags);
+					md += '\r\n';
+					md += (article.Author === '' ? '' :
+						`<p>Author: <b>${author}</b></p>\r\n\r\n`);
+					//TODO: write content looking for file with content???
+					md += `<h2>External links</h2>\r\n\r\n`;
+					md += `<ul>\r\n<li>Article in ${source}: ${web}</li>\r\n</ul>\r\n\r\n`;
+
+					if (article.Author != '' && 
+						!fs.existsSync(path.join(dirPath, folder))) {
+						fs.mkdirSync(path.join(dirPath, folder));
+					}
+					promises.push(reflectPromise(writeFile(filePath, md)));
 				});
 			});
+			let nc = '';
+			sources.forEach(src => {
+				nc += `## ${src.name}\r\n\r\n`;
+				src.list.forEach((article, i) => {
+					const values = Object.values(article);
+					const keys = Object.keys(article);
+					const sep = keys.map(k => k.replace(/./g,'-'));
+					if (i == 0) {
+						nc += '| ' + keys.join(' | ') + ' |\r\n';
+						nc += '| ' + sep.join(' | ') +' |\r\n';
+					}
+					nc += '| ' + values.join(' | ') + ' |\r\n';
+				});
+			});
+			promises.push(reflectPromise(writeFile(newCatalog, nc)));
+
 			Promise.all(promises)
 				.then((results) => {
 					const errors = [];
