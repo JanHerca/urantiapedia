@@ -641,8 +641,9 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'ARTICLE_CATALOG_MARKDOWN_TO_WIKIJS') {
 		// Read Article Catalog (article.md) => create pages in Wiki.js
 		const sourceName = 'Innerface International';
+		const inputFolder = path.join(htmlDir, '__input');
 		articles.readCatalog()
-			.then(() => articles.searchFiles(htmlDir, '.md'))
+			.then(() => articles.readFromMarkdown(inputFolder))
 			.then(() => articles.writeToWikijs(htmlDir, sourceName))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);

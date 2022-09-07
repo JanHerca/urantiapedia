@@ -10,7 +10,7 @@ const Strings = require('./strings');
 class Articles {
 	language = 'en';
 	docs = [];
-	filenames = [];
+	files = [];
 	onProgressFn = null;
 
 	setLanguage = (language) => {
@@ -23,15 +23,30 @@ class Articles {
 	 * @returns {Promise}
 	 */
 	readFromTXT = (dirPath) => {
-		return readFrom(dirPath, '.txt', this.clear,
+		return readFrom(dirPath, '.txt', this.clearDocs,
 			this.readFileFromTXT, this);
+	};
+
+	/**
+	 * Reads all articles in Markdown format in a folder.
+	 */
+	readFromMarkdown = (dirPath) => {
+		return readFrom(dirPath, '.md', this.clearFiles,
+			this.readFileFromMarkdown, this);
 	};
 
 	/**
 	 * Clears articles previously read.
 	 */
-	clear = () => {
+	clearDocs = () => {
 		this.docs = [];
+	};
+
+	/**
+	 * Clears files previously read.
+	 */
+	clearFiles = () => {
+		this.files = [];
 	};
 
 	//***********************************************************************
@@ -124,7 +139,7 @@ class Articles {
 		filePath = filePath || path.join(app.getAppPath(), 'output', 'wikijs', 
 			`${this.language}`, 'index', 'articles.md')
 		return new Promise((resolve, reject) => {
-			this.clear();
+			this.clearDocs();
 			readFile(filePath)
 				.then(lines => {
 					const errors = [];
@@ -172,6 +187,38 @@ class Articles {
 	};
 
 	/**
+	 * Reads an article file in Markdown.
+	 * @param {string} filePath File path.
+	 * @return {Promise}
+	 */
+	readFileFromMarkdown = (filePath) => {
+		const baseName = path.basename(filePath);
+		return new Promise((resolve, reject) => {
+			if (this.onProgressFn) {
+				this.onProgressFn(baseName);
+			}
+			
+			fs.readFile(filePath, (errFile, buf) => {
+				if (errFile) {
+					reject([errFile]);
+					return;
+				}
+
+				const content = buf.toString();
+				this.files.push({
+					filename: baseName,
+					words: baseName
+						.replace(/\.md$/g, '')
+						.replace(/\-\-|__/g, ' ')
+						.replace(/[—\-_]/g,' '),
+					content: content
+				});
+				resolve(null);
+			});
+		});
+	};
+
+	/**
 	 * Searches files.
 	 * @param {string} dirPath Output folder.
 	 * @param {string} format Format as '.txt' or '.tex'. Several formats can be
@@ -179,7 +226,7 @@ class Articles {
 	 */
 	searchFiles = (dirPath, format) => {
 		return new Promise((resolve, reject) => {
-			this.filenames.length = 0;
+			this.clearFiles();
 			const inputFolder = path.join(dirPath, '__input');
 			fs.readdir(inputFolder, (err, files) => {
 				if (err) {
@@ -194,11 +241,13 @@ class Articles {
 					reject([this.getError('files_not_with_format', format)]);
 					return;
 				}
-				this.filenames = ffiles.map(file => {
+				this.files = ffiles.map(file => {
 					return {
 						filename: file,
-						words: file.replace(/\.md$/g, '')
-							.replace(/__/g, ' ').replace(/[—\-_]/g,' ')
+						words: file
+							.replace(/\.md$/g, '')
+							.replace(/\-\-|__/g, ' ')
+							.replace(/[—\-_]/g,' ')
 					}
 				});
 				resolve(null);
@@ -230,26 +279,36 @@ class Articles {
 			const sources = this.docs
 				.filter(section => (source == null || section.name === source));
 			const promises = [];
-			sources.forEach(src => {src.list
-				.filter(article => article.Status != ':ballot_box_with_check:')
-				.forEach(article => {
-					const words = article.Title.replace(/[—-]/g, ' ');
-					const arFN = this.filenames.map(f => {
+			sources.forEach(src => {
+				src.list.forEach(article => {
+					article.File = '  ';
+					article.Input = '  ';
+
+					if (article.Status === ':ballot_box_with_check:') {
+						promises.push(reflectPromise(Promise.resolve(null)));
+						return;
+					}
+			
+					const words = article.Title
+						.replace(/[“'”]/g, '')
+						.replace(/[—-]/g, ' ');
+					const arFN = this.files.map(f => {
 						return [f.filename, sentenceSimilarity(f.words, words)];
 					});
 					arFN.sort((a,b) => b[1] - a[1]);
 					const ok = arFN[0][1] > 0.5;
-					article.File = '  ';
-					article.Input = '  ';
 					if (!ok) {
 						promises.push(reflectPromise(Promise.resolve(null)));
+						return;
 					}
-					article.File = arFN[0][0]
+					const input = arFN[0][0];
+					article.File = input
 						.replace(/\.md$/g, '')
-						.replace(/__/g, ' ')
+						.replace(/\-\-|__/g, ' ')
 						.replace(/[\.:,“'”\?!\(\)]/g, '')
-						.replace(/[ —-]/g, '_');
-					article.Input = arFN[0][0];
+						.replace(/[ —\-]/g, '_');
+					article.Input = input;
+
 					const folder = article.Author
 						.replace(/[\.']/g, '')
 						.replace(/ /g, '_');
@@ -261,6 +320,8 @@ class Articles {
 						article.Tags.split(',').map(i => i.trim()) : null);
 					const author = article.Author;
 					const web = article.Webpage;
+					const content = this.files
+						.find(f => f.filename === input).content;
 
 					article.Title = `[${article.Title}](/${this.language}/` +
 						`article${article.Author === '' ? '' : '/' + folder}/` +
@@ -270,7 +331,7 @@ class Articles {
 					md += '\r\n';
 					md += (article.Author === '' ? '' :
 						`<p>Author: <b>${author}</b></p>\r\n\r\n`);
-					//TODO: write content looking for file with content???
+					md += content + '\r\n\r\n';
 					md += `<h2>External links</h2>\r\n\r\n`;
 					md += `<ul>\r\n<li>Article in ${source}: ${web}</li>\r\n</ul>\r\n\r\n`;
 
