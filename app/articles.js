@@ -1,7 +1,12 @@
 //Reader/Writer for converting articles to *.wiki
 
 const {app} = require('electron').remote;
-const {readFrom, readFile, reflectPromise, extendArray, getError, 
+const markdownIt = require('markdown-it')({
+	html: true,
+	linkify: true,
+	typographer: true
+});
+const {readFrom, readFile, reflectPromise, extendArray, getError, getAllIndexes,
 	writeFile, getWikijsHeader, sentenceSimilarity} = require('./utils');
 const fs = require('fs');
 const path = require('path');
@@ -136,54 +141,78 @@ class Articles {
 	 * @return {Promise}
 	 */
 	readCatalog = (filePath) => {
-		filePath = filePath || path.join(app.getAppPath(), 'output', 'wikijs', 
-			`${this.language}`, 'index', 'articles.md')
+		// filePath = filePath || path.join(app.getAppPath(), 'output', 'wikijs', 
+		// 	`${this.language}`, 'index', 'articles.md');
+		filePath = filePath || path.join(app.getAppPath(), 'tests', 
+			'article', 'articles.md');
 		return new Promise((resolve, reject) => {
 			this.clearDocs();
-			readFile(filePath)
-				.then(lines => {
-					const errors = [];
-					let comment = false;
-					let section = null;
-					let header = [];
-					lines.forEach((line, i) => {
-						if (!comment && line.startsWith('---')) {
-							comment = true;
-						}
-						if (!comment && line.startsWith('#')) {
-							section = {
-								name: line.replace(/#/g, '').trim(),
-								list: []
-							};
-							this.docs.push(section);
-						}
-						if (!comment && line.indexOf('|') != -1) {
-							const values = line.trim()
-								.replace(/^\||\|$/g, '')
-								.split('|').map(v => v.trim());
-							if (values[0] === 'Status') {
-								header = values;
-							} else if (section && values.length > 0 &&
-								values[0] != 'Status' && 
-								values[0].indexOf('---') === -1 &&
-								header.length === values.length) {
-								const article = {};
-								values.forEach((v,i) => article[header[i]] = v);
-								section.list.push(article);
-							}
-						}
-						if (comment && line.trim().startsWith('---')) {
-							comment = false;
-						}
-					});
-					if (errors.length > 0) {
-						reject(errors);
-						return
+			readFile(filePath).then(lines => {
+				const errors = [];
+				let comment = false;
+				let section = null;
+				let header = [];
+				lines.forEach((line, i) => {
+					if (!comment && line.startsWith('---')) {
+						comment = true;
 					}
-					resolve(null);
-				})
-				.catch(reject);
+					if (!comment && line.startsWith('#')) {
+						section = {
+							name: line.replace(/#/g, '').trim(),
+							list: []
+						};
+						this.docs.push(section);
+					}
+					if (!comment && line.indexOf('|') != -1) {
+						const values = line.trim()
+							.replace(/^\||\|$/g, '')
+							.split('|').map(v => v.trim());
+						if (values[0] === 'Status') {
+							header = values;
+						} else if (section && values.length > 0 &&
+							values[0] != 'Status' && 
+							values[0].indexOf('---') === -1 &&
+							header.length === values.length) {
+							const article = {};
+							values.forEach((v,i) => article[header[i]] = v);
+							// this.fixArticleData(article);
+							section.list.push(article);
+						}
+					}
+					if (comment && line.trim().startsWith('---')) {
+						comment = false;
+					}
+				});
+				if (errors.length > 0) {
+					reject(errors);
+					return
+				}
+				resolve(null);
+			}).catch(reject);
 		});
+	};
+
+	/**
+	 * Fixes article data.
+	 * @param {Object} article Article.
+	 * @param {Error[]} errors Errors.
+	 */
+	fixArticleData = (article, errors) => {
+		if (article.Title && getAllIndexes(article.Title, '(').length > 1) {
+			errors.push(this.getError('article_bad_title'));
+			return;
+		}
+		if (article.Status === ':white_square_button:' && 
+			article.Title && article.Title.startsWith('[')) {
+			const titleParts = articleTitle
+				.split(/[\[\]\(\)]/g).filter(p=>p!='');
+			if (titleParts.length != 2) {
+				errors.push(this.getError('article_bad_title'));
+				return;
+			}
+			article.Title = titleParts[0];
+
+		}
 	};
 
 	/**
@@ -204,14 +233,14 @@ class Articles {
 					return;
 				}
 
-				const content = buf.toString();
+				const rendered = markdownIt.render(buf.toString());
 				this.files.push({
 					filename: baseName,
 					words: baseName
 						.replace(/\.md$/g, '')
 						.replace(/\-\-|__/g, ' ')
 						.replace(/[—\-_]/g,' '),
-					content: content
+					content: rendered
 				});
 				resolve(null);
 			});

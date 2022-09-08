@@ -1200,6 +1200,10 @@ const Strings = {
 		en: "Save changes to Topic Index?",
 		es: "¿Guardar cambios al Índice de Términos?"
 	},
+	"article_bad_title": {
+		en: "Article title is not correct",
+		es: "El título del artículo no es correcto"
+	},
 	"folder_no_access": {
 		en: "Folder {0} is not accessible",
 		es: "El directorio {0} no está accesible"
