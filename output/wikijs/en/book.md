@@ -18,7 +18,9 @@ This and other information about how books are organized in the project can be f
 
 Here is a tentative list of books to be included:
 
-- _Man’s Vision of God and the Logic of Theism_, Charles Hartshorne (1941)
+### Books supposed to be sources
+
+- [Man’s Vision of God and the Logic of Theism](/en/book/Charles_Hartshorne/Mans_Vision_of_God/Index), Charles Hartshorne (1941)
 - _The Doctrine of God_, Albert C. Knudson (1931)
 - _The Universe Unfolding_, Robert H. Baker (1932)
 - _Stars and Atoms_, Sir Arthur S. Eddington (1927)
@@ -36,4 +38,8 @@ Here is a tentative list of books to be included:
 - _A Dictionary Of The Bible_, William Smith (1870)
 - _The Life and Times of Jesus the Messiah_, Alfred Edersheim
 
-This list will grow with time.
+### Books from readers
+
+- [Eugenics Race and The Urantia Book](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index), by Halbert Katzen
+
+These lists will grow with time.

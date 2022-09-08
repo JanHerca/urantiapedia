@@ -20,7 +20,7 @@ CHICAGO — NUEVA YORK <br>
 1941 <br>
 </p>
 
-* [Prefacio](/es/book/Charles_Hartshorne/Mans_Vision_of_God/Prefacio)
+* [Prefacio](/es/book/Charles_Hartshorne/Mans_Vision_of_God/Preface)
 * [I. Las doctrinas formalmente posibles](/es/book/Charles_Hartshorne/Mans_Vision_of_God/1)
 * [II. Un programa de teología filosófica](/es/book/Charles_Hartshorne/Mans_Vision_of_God/2)
 * [III. Las dos ramas de la teología histórica](/es/book/Charles_Hartshorne/Mans_Vision_of_God/3)
@@ -32,7 +32,7 @@ CHICAGO — NUEVA YORK <br>
 * [IX. Lo necesariamente existente (argumento ontológico)](/es/book/Charles_Hartshorne/Mans_Vision_of_God/9)
 * [X. Conclusión (Resumen de los Argumentos)](/es/book/Charles_Hartshorne/Mans_Vision_of_God/10)
 * [Epílogo. Panenteísmo, relatividad trascendental y la Trinidad](/es/book/Charles_Hartshorne/Mans_Vision_of_God/Epilogue)
-* [Agradecimientos](/es/book/Charles_Hartshorne/Mans_Vision_of_God/Agradecimientos)
+* [Agradecimientos](/es/book/Charles_Hartshorne/Mans_Vision_of_God/Acknowledgments)
 
 > Todos conocemos la naturaleza de la vida y lo real, aunque solo con un cuidado exquisito podemos decir la verdad sobre ellos.
 >

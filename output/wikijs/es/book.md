@@ -16,7 +16,9 @@ Al incorporar estos libros a Urantiapedia se va a proceder del mismo modo que co
 
 Aquí se incluye una lista provisional de los libros que van a incluirse:
 
-- _Man’s Vision of God and the Logic of Theism_, Charles Hartshorne (1941)
+### Libros que se suponen fuentes
+
+- [La visión del hombre de Dios y la lógica del teísmo (Man’s Vision of God and the Logic of Theism)](/es/book/Charles_Hartshorne/Mans_Vision_of_God/Index), Charles Hartshorne (1941)
 - _The Doctrine of God_, Albert C. Knudson (1931)
 - _The Universe Unfolding_, Robert H. Baker (1932)
 - _Stars and Atoms_, Sir Arthur S. Eddington (1927)
@@ -33,5 +35,9 @@ Aquí se incluye una lista provisional de los libros que van a incluirse:
 - _Dictionary of The Bible_, James Hastings (1909)
 - _A Dictionary Of The Bible_, William Smith (1870)
 - _The Life and Times of Jesus the Messiah_, Alfred Edersheim
+
+### Libros de lectores
+
+- [Eugenesia, razas y El Libro de Urantia](/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index), de Halbert Katzen
 
 Esta lista se incrementará con el tiempo.
