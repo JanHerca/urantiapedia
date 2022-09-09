@@ -348,7 +348,7 @@ class Articles {
 					const tags = (article.Tags && article.Tags.length > 0 ?
 						article.Tags.split(',').map(i => i.trim()) : null);
 					const author = article.Author;
-					const web = article.Webpage;
+					const web = `<a href="${article.Webpage}">${article.Webpage}</a>`;
 					const content = this.files
 						.find(f => f.filename === input).content;
 

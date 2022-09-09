@@ -12,6 +12,7 @@
 //French: http://tug.ctan.org/tex-archive/macros/latex/contrib/bibleref-french/Lacroux-Bible.pdf
 //German: https://www.die-bibel.de/bibeln/wissen-zur-bibel/inhalt-und-aufbau-der-bibel/abkuerzungen-der-bibel/
 //German: https://www.bibelwissenschaft.de/wibilex/abkuerzungen/
+//Lithuanian: https://studybible.info/Lithuanian
 //Hungarian: http://lexikon.katolikus.hu/ROVIDITESEK/BIBLIA.HTML
 //Japanese: http://km-ch.org/04_reihai/041_tsuite/041s01_bible.html
 //Korean: https://www.bskorea.or.kr/bible/korbib_shortword01.php
