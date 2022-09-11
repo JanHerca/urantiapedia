@@ -91,6 +91,7 @@ class Bible {
 		let previousVer = 0;
 		let currentVer = 0;
 		let m = 0;
+		const isTR = this.language === 'tr';
 		const booknames = Object.values(BibleAbbs[this.language]).map(e => e[0]);
 		const booknamesEN = Object.values(BibleAbbs['en']).map(e=> e[0]);
 		const bookpaths = Object.values(BibleAbbs[this.language]).map(e => e[1]);
@@ -144,17 +145,18 @@ class Bible {
 						currentChapter.sections.push(currentSection);
 					}
 				}
-			} else if (line.startsWith(LaTeXSeparator.PAR_START)) {
+			} else if (line.startsWith(LaTeXSeparator.PAR_START) &&
+				!line.startsWith(LaTeXSeparator.PART_START)) {
 				extract = line.substring(5).trim();
 				currentVer = extract.substring(0, extract.indexOf(' '));
 				currentVer = (!isNaN(parseInt(currentVer)) ? 
 					parseInt(currentVer) : null);
-				if (currentVer == null || currentVer <= previousVer) {
+				if (currentVer != null && (currentVer <= previousVer ||
+					(!isTR && currentVer != previousVer + 1))) {
 					errors.push(this.getError('bible_chapter_missing_verses', baseName, book.chapters.length, extract));
 				} else {
 					m = 1;
-					if (this.language === 'tr' && 
-						previousVer != null && currentVer != null &&
+					if (isTR && previousVer != null && currentVer != null &&
 						previousVer + m < currentVer) {
 						//A fix for weird verses in Turkish
 						while (previousVer + m < currentVer) {
@@ -174,7 +176,9 @@ class Bible {
 					} else if (currentSection) {
 						currentSection.pars.push(extract);
 					}
-					previousVer = currentVer;
+					if (currentVer != null) {
+						previousVer = currentVer;
+					}
 				}
 			}
 		});

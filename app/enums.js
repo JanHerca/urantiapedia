@@ -1,5 +1,6 @@
 exports.LaTeXSeparator = {
 	TITLE_START: '\\title{',
+	PART_START: '\\part{',
 	CHAPTER_START: '\\chapter{',
 	SECTION_START: '\\section*{',
 	PAR_START: '\\par',
