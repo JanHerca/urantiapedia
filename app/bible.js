@@ -291,6 +291,10 @@ class Bible {
 				return;
 			}
 
+			//Footer
+			body += '<br/>\r\n';
+			body += getWikijsLinks(prevLink, indexLink, nextLink);
+
 			//References section
 			if (wfootnotes.length > 0) {
 				body += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;

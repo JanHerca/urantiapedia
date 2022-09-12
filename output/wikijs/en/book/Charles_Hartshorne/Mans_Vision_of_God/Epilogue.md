@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -42,7 +42,9 @@ However, the three elements are apparently not at all “persons.” Yet there a
 
 While theologians and logicians (with many exceptions) tend to enforce the cruel and fallacious dilemma — either a discredited, ill-generalized, inexact logic, or the abandonment of the belief that love is the highest wisdom and the most far-reaching power — while this happens, the world shows as never before the need of men to be able to retain and intensify this belief, and to do so with their intelligence, not in dangerous contempt of responsible, self critical, cooperative thinking.
 
-<figure class="table">
+<br>
+
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -53,5 +55,7 @@ While theologians and logicians (with many exceptions) tend to enforce the cruel
     </tbody>
   </table>
 </figure>
+
+## Footnotes
 
 [^1] On the positivistic view that metaphysical and theological conceptions are meaningless, see my article, “Anthropomorphic Tendencies in Positivism,” _Philosophy of Science_, 1941. D. H. Parker's _Experience and Substance_ (University of Michigan Press, 1941) is an able defense and exposition of a type of metaphysics roughly similar to that expressed in this book. See also A. C. Garnett’s _Reality and Value_ (Yale University Press, 1987) ; or Paul Weiss, op. cit.; or W. P. Montague, op. cit.; or the philosophical writings of A. N. Whitehead (The Macmillan Co., 1926 to 1938).

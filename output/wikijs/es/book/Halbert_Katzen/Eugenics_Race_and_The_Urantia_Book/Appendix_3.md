@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -45,7 +45,7 @@ Se ofrece un listado de referencias a los conceptos señalados[^1]:
 
 <br/>
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -61,7 +61,7 @@ Se ofrece un listado de referencias a los conceptos señalados[^1]:
 
 * Este informe en el sitio web UBTheNews: http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/
 
-## Referencias
+## Notas y Referencias
 
 [^1]: *Nota del editor*: Por un tema de compacidad de este informe este apéndice se ha simplificado respecto al original inglés en UBTheNews, mostrando únicamente el listado de referencias. Para una lectura completa acuda a *El Libro de Urantia*.
 

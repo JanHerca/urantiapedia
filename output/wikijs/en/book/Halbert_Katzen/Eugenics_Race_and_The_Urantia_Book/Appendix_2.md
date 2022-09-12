@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -228,7 +228,7 @@ What are the genetic factors related to both temperament and intelligence?
 
 <br/>
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -250,7 +250,7 @@ What are the genetic factors related to both temperament and intelligence?
 
 * This report in UBTheNews webpage: http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/
 
-## References
+## Footnotes & References
 
 [^1]: http://ubannotated.com/ubthenews/reports_list/
 

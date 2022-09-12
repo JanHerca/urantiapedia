@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -68,7 +68,9 @@ Como un esfuerzo por introducir modos de pensamiento más estrictos en la teolog
 
 C. H.
 
-<figure class="table">
+<br>
+
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>

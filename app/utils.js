@@ -420,25 +420,14 @@ exports.fixWikijsHeader = (header, prevLines, curLines) => {
  * @return {string}
  */
 exports.getWikijsLinks = (prevLink, indexLink, nextLink) => {
-	// const colorBg = '#ffffff;';
-	const borderB = '0.2em solid #c8ccd1;';
-	const borderO = '1px solid #c8ccd1;';
-	const styleTable = /*`background-color:${colorBg}` +*/
-		`border-bottom:${borderB}` +
-		`border-left:${borderO}` +
-		`border-right:${borderO}` +
-		`border-top:${borderO}` +
-		`table-layout: fixed; width: 100%;`;
-		/*`width: 100%;`;*/
-	const styleCell = `padding:0.4em 0.5em;border:${borderO};width:33%;`;
 	const links =
-		`<figure class="table">\r\n` +
-		`  <table style="${styleTable}">\r\n` +
+		`<figure class="table chapter-navigator">\r\n` +
+		`  <table>\r\n` +
 		`    <tbody>\r\n` +
 		`      <tr>\r\n` +
-		`        <td style="${styleCell}">${prevLink}</td>\r\n` +
-		`        <td style="${styleCell}text-align: center;">${indexLink}</td>\r\n` +
-		`        <td style="${styleCell}text-align: right;">${nextLink}</td>\r\n` +
+		`        <td>${prevLink}</td>\r\n` +
+		`        <td>${indexLink}</td>\r\n` +
+		`        <td>${nextLink}</td>\r\n` +
 		`      </tr>\r\n` +
 		`    </tbody>\r\n` +
 		`  </table>\r\n` +

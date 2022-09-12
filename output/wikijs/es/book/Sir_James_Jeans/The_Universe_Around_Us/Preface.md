@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>

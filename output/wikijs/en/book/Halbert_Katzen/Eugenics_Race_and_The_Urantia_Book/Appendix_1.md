@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -260,7 +260,7 @@ Within *The Urantia Book*’s framework for defining humanity, the essential hum
 
 <br/>
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -287,7 +287,7 @@ Within *The Urantia Book*’s framework for defining humanity, the essential hum
 
 * This report in UBTheNews webpage: http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/
 
-## References
+## Footnotes & References
 
 [^1]: [UB 65:3.4](/en/The_Urantia_Book/65#p3_4)
 

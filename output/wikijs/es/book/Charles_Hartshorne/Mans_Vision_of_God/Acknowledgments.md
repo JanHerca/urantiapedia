@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -32,8 +32,9 @@ El autor desea agradecer a los siguientes editores el permiso para citar trabajo
 * Yale University Press—de John Dewey, _A Common Faith_.
 * También desea agradecer al Sr. ED Kennedy por permitirle citar su poema, publicado en _New Republic_.
 
+<br>
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>

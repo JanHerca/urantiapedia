@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -32,7 +32,9 @@ The autHor wishes to thank the following publishers permission to quote from wor
 * Yale University Press—from John Dewey, _A Common Faith_. 
 * He wishes also to thank Mr. E. D. Kennedy for permission quote his poem, published in the _New Republic_. 
 
-<figure class="table">
+<br>
+
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>

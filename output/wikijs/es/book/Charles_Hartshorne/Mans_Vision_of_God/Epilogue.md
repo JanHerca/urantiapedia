@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -42,7 +42,9 @@ Sin embargo, los tres elementos aparentemente no son en absoluto «personas». S
 
 Mientras que los teólogos y los lógicos (con muchas excepciones) tienden a imponer el dilema cruel y falaz —ya sea una lógica desacreditada, mal generalizada e inexacta, o el abandono de la creencia de que el amor es la sabiduría más alta y el poder de mayor alcance— mientras Sucede esto, el mundo muestra como nunca antes la necesidad de los hombres de poder retener e intensificar esta creencia, y hacerlo con su inteligencia, no en un peligroso desprecio del pensamiento responsable, autocrítico, cooperativo.
 
-<figure class="table">
+<br>
+
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -53,5 +55,7 @@ Mientras que los teólogos y los lógicos (con muchas excepciones) tienden a imp
     </tbody>
   </table>
 </figure>
+
+## Notas
 
 [^1] Sobre la visión positivista de que las concepciones metafísicas y teológicas no tienen sentido, véase mi artículo, «Anthropomorphic Tendencies in Positivism», _Philosophy of Science_, 1941. _Experience and Substance_ de DH Parker (University of Michigan Press, 1941) es una defensa capaz y exposición de un tipo de metafísica más o menos similar a la expresada en este libro. Véase también _Reality and Value_ de AC Garnett (Yale University Press, 1987); o Paul Weiss, op. cit.; o WP Montague, op. cit.; o los escritos filosóficos de AN Whitehead (The Macmillan Co., 1926 a 1938).

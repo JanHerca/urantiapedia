@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -260,7 +260,7 @@ Dentro del marco de *El Libro de Urantia* para definir a la humanidad, la cualid
 
 <br/>
 
-<figure class="table">
+<figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
@@ -287,7 +287,7 @@ Dentro del marco de *El Libro de Urantia* para definir a la humanidad, la cualid
 
 * Este informe en el sitio web UBTheNews: http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/
 
-## Referencias
+## Notas y Referencias
 
 [^1]: [LU 65:3.4](/es/The_Urantia_Book/65#p3_4)
 
