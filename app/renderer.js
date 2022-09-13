@@ -8,6 +8,7 @@ const pug = require('pug');
 
 const Book = require('./book');
 const Paramony = require('./paramony');
+const Paralells = require('./paralells');
 const Bible = require('./bible');
 const BibleRef = require('./bibleref');
 const TopicIndex = require('./topicindex');
@@ -31,6 +32,7 @@ const store = new Store();
 
 const book = new Book();
 const paramony = new Paramony();
+const paralells = new Paralells();
 const bible = new Bible();
 const bibleref = new BibleRef();
 const topicindex = new TopicIndex();
@@ -306,6 +308,7 @@ const handle_drpLanguageChange = (evt) => {
 	lan = controls.drpLanguage.value;
 	book.setLanguage(lan);
 	paramony.setLanguage(lan);
+	paralells.setLanguage(lan);
 	bible.setLanguage(lan);
 	bibleref.setLanguage(lan);
 	topicindex.setLanguage(lan);
@@ -356,26 +359,32 @@ const handle_exeButtonClick = () => {
 	}
 
 	if (process === 'BIBLEREF_TXT_BOOK_JSON_TO_TXT') {
-		// Read UB (*.json) + Bible Refs (*.txt) => write translation (*.txt)
+		// Reads UB (*.json) + 
+		// Reads Bible Refs (*.txt) => 
+		// Writes translation (*.txt)
 		book.readFromJSON(jsonDir)
 			.then(() => bibleref.readFromTXT(txtDir))
 			.then(() => bibleref.translate(txtDir, book))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIBLEREF_JSON_TO_MARKDOWN') {
-		// Read Bible Refs (*.json) => write Bible Refs (*.md)
+		// Reads Bible Refs (*.json) => 
+		// Writes Bible Refs (*.md)
 		paramony.readFromJSON()
 			.then(() => paramony.writeToMarkdown('The Urantia Book'))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TO_BIBLEREF_JSON') {
-		// Read UB (*.json) from a translation with Bible Refs => write (*.json)
+		// Reads UB (*.json) from a translation with Bible Refs => 
+		// Writes (*.json)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeRefsToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_JSON_BIBLEREF_JSON_TO_JSON') {
-		//Read UB (*.json) + Bible Refs (*.json) => write (*.json)
+		// Reads UB (*.json) + 
+		// Reads Bible Refs (*.json) => 
+		// Writes (*.json)
 		book.readFromJSON(jsonDir)
 			.then(() => book.readRefsFromJSON(jsonDir))
 			.then(() => book.updateRefs())
@@ -393,7 +402,9 @@ const handle_exeButtonClick = () => {
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_JSON_BIBLEREF_MARKDOWN_TO_JSON') {
-		//Read UB (*.json) + Bible Refs (*.md) => write (*.json)
+		// Reads UB (*.json) + 
+		// Reads Bible Refs (*.md) => 
+		// Writes (*.json)
 		book.readFromJSON(jsonDir)
 			.then(() => paramony.readForUB())
 			.then(() => {
@@ -414,19 +425,23 @@ const handle_exeButtonClick = () => {
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_HTML_TO_JSON') {
-		// Read UB (*.html) => write (*.json)
+		// Reads UB (*.html) => 
+		// Writes (*.json)
 		book.readFromHTML(htmlDir)
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_TEX_TO_JSON') {
-		// Read UB (*.tex) => write (*.json)
+		// Reads UB (*.tex) => 
+		// Writes (*.json)
 		book.readFromLaTeX(latexDir)
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_TEX_TOPICS_TXT_TO_MEDIAWIKI') {
-		// Read UB (*.tex) + Topic Index (*.txt) => write (*.wiki)
+		// Reads UB (*.tex) + 
+		// Reads Topic Index (*.txt) => 
+		// Writes (*.wiki)
 		book.readFromLaTeX(latexDir)
 			.then(() => topicindex.readFromTXT(txtDir, category))
 			.then(() => book.writeToWikiText(wikiDir, topicindex))
@@ -434,8 +449,13 @@ const handle_exeButtonClick = () => {
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TOPICS_TXT_TO_WIKIJS') {
-		// Read image catalog (*.md) + Read UB (*.json) + Topic Index (*.txt) => write (Wiki.js *.html)
+		// Reads image catalog (*.md) + 
+		// Reads paralells (*.md) +
+		// Reads UB (*.json) + 
+		// Reads Topic Index (*.txt) => 
+		// Writes (Wiki.js *.html)
 		imageCatalog.read()
+			.then(() => paralells.read())
 			.then(() => book.readFromJSON(jsonDir))
 			.then(() => topicindex.exists(txtDir))
 			.then((exists) => {
@@ -448,23 +468,27 @@ const handle_exeButtonClick = () => {
 					topicindexEN.readFromTXT(ti));
 			})
 			.then(() => book.writeToWikijs(htmlDir, topicindex, topicindexEN,
-				imageCatalog))
+				imageCatalog, paralells))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TO_TEX') {
-		// Read UB (*.json) => write (*.tex) 
+		// Reads UB (*.json) => 
+		// Writes (*.tex) 
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeToLaTeX(latexDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TO_TXT') {
-		// Read UB (*.json) => write (*.txt)
+		// Reads UB (*.json) => 
+		// Writes (*.txt)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeToTXT(txtDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TOPICS_TXT_TO_MEDIAWIKI') {
-		// Read UB (*.json) + Topic Index (*.txt) => write (*.wiki)
+		// Reads UB (*.json) + 
+		// Reads Topic Index (*.txt) => 
+		// Writes (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => topicindex.readFromTXT(txtDir))
 			.then(() => book.writeToWikiText(wikiDir, topicindex))
@@ -472,33 +496,41 @@ const handle_exeButtonClick = () => {
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_INDEX_JSON_TO_MEDIAWIKI') {
-		//Read UB (*.json) => write Indexes (*.wiki)
+		// Reads UB (*.json) => 
+		// Writes Indexes (*.wiki)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeIndexToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_INDEX_JSON_TO_WIKIJS') {
-		//Read UB (*.json) => write Indexes (*.html)
+		// Reads UB (*.json) => 
+		// Writes Indexes (*.html)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeIndexToWikijs(htmlDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIBLE_TEX_BIBLEREF_TXT_TO_MEDIAWIKI') {
-		// Read Bible Refs (*.txt) + read Bible (*.tex) => write (*.wiki)
+		// Reads Bible Refs (*.txt) + 
+		// Reads Bible (*.tex) => 
+		// Write (*.wiki)
 		bibleref.readFromTXT(txtDir)
 			.then(() => bible.readFromLaTeX(latexDir))
 			.then(() => bible.writeToWikiText(wikiDir, bibleref.biblebooks))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIBLE_TEX_BIBLEREF_TXT_TO_WIKIJS') {
-		// Read Bible Refs (*.txt) + read Bible (*.tex) => write (*.html)
+		// Reads Bible Refs (*.txt) + 
+		// Reads Bible (*.tex) => 
+		// Writes (*.html)
 		bibleref.readFromTXT(txtDir)
 			.then(() => bible.readFromLaTeX(latexDir))
 			.then(() => bible.writeToWikijs(htmlDir, bibleref.biblebooks))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIBLE_TEX_BIBLEREF_MARKDOWN_TO_WIKIJS') {
-		// Read Bible Refs (*.md) + read Bible (*.tex) => write (*.html)
+		// Reads Bible Refs (*.md) + 
+		// Reads Bible (*.tex) => 
+		// Writes (*.html)
 		paramony.readForBible()
 			// .then(() => {
 			// 	return bibleref.readFromTXT(path.join(app.getAppPath(),
@@ -539,36 +571,42 @@ const handle_exeButtonClick = () => {
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIBLE_TEX_TO_BIBLEINDEX_MEDIAWIKI') {
-		// Read Bible (*.tex) => write index (*.wiki)
+		// Reads Bible (*.tex) => 
+		// Writes index (*.wiki)
 		bible.readFromLaTeX(latexDir)
 			.then(() => bible.writeIndexToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIBLE_TEX_TO_BIBLEINDEX_WIKIJS') {
-		// Read Bible (*.tex) => write index (*.html)
+		// Reads Bible (*.tex) => 
+		// Writes index (*.html)
 		bible.readFromLaTeX(latexDir)
 			.then(() => bible.writeIndexToWikijs(htmlDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	}else if (process === 'BIBLE_TEX_TO_WIKIXML') {
-		// Read Bible (*.tex) => write Wiki (*.xml)
+		// Reads Bible (*.tex) => 
+		// Writes Wiki (*.xml)
 		bible.readFromLaTeX(latexDir)
 			.then(() => bible.writeToWikiXML(wikiDir, merge))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIBLE_UPDATE_TITLES_WIKIJS') {
-		// Read Bible pages (*.md) => update titles => write (*.md)
+		// Reads Bible pages (*.md) => 
+		// Updates titles => Writes (*.md)
 		bible.updateWikijsTitles(txtDir)
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'TOPICS_TXT_TO_MEDIAWIKI') {
-		// Read TopicIndex (*.txt) => write (*.wiki)
+		// Reads TopicIndex (*.txt) => 
+		// Writes (*.wiki)
 		topicindex.readFromTXT(txtDir, category, letter)
 			.then(() => topicindex.writeToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'TOPICS_TXT_TO_WIKIJS') {
-		// Read TopicIndex (*.txt) => write (*.html)
+		// Reads TopicIndex (*.txt) => 
+		// Writes (*.html)
 		if (lan === 'en') {
 			topicindex.readFromTXT(txtDir, category, letter)
 				.then(() => topicindex.writeToWikijs(htmlDir))
@@ -585,13 +623,15 @@ const handle_exeButtonClick = () => {
 				.catch(onFail);
 		}
 	} else if (process === 'TOPICS_INDEX_TXT_TO_MEDIAWIKI') {
-		// Read TopicIndex index (*.txt) => write (*.wiki)
+		// Reads TopicIndex index (*.txt) => 
+		// Writes (*.wiki)
 		topicindex.readFromTXT(txtDir, category, letter)
 			.then(() => topicindex.writeIndexToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'TOPICS_INDEX_TXT_TO_WIKIJS') {
-		// Read TopicIndex index (*.txt) => write (*.html)
+		// Reads TopicIndex index (*.txt) => 
+		// Writes (*.html)
 		if (lan === 'en') {
 			topicindex.readFromTXT(txtDir, category, letter)
 				.then(() => topicindex.writeIndexToWikijs(htmlDir, category))
@@ -609,7 +649,9 @@ const handle_exeButtonClick = () => {
 				.catch(onFail);
 		}
 	} else if (process === 'REVIEW_TOPIC_TXT_LU_JSON') {
-		// Read TopicIndex (*.txt) => Read UB (*.json) => check
+		// Reads TopicIndex (*.txt) => 
+		// Reads UB (*.json) => 
+		// Checks
 		topicindex.readFromTXT(txtDir, category, letter)
 			.then(() => book.readFromJSON(jsonDir))
 			.then(() => topicindex.check(book))
@@ -620,7 +662,8 @@ const handle_exeButtonClick = () => {
 				showTopic(topicindex.topics[0].name);
 			}).catch(onFail);
 	} else if (process === 'SUM_TOPIC_TXT') {
-		// Read TopicIndex (*.txt) => summary
+		// Reads TopicIndex (*.txt) => 
+		// Summary
 		topicindex.readFromTXT(txtDir)
 			.then(() => {
 				let summary = topicindex.getSummary();
@@ -628,18 +671,21 @@ const handle_exeButtonClick = () => {
 				showTopicSummary(summary);
 			}).catch(onFail);
 	} else if (process === 'NORM_TOPIC_TXT') {
-		// Read TopicIndex (*.txt) => rewrite but modifying first entry line
+		// Reads TopicIndex (*.txt) => 
+		// Rewrites but modifying first entry line
 		topicindex.normalize(txtDir)
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'ARTICLE_TXT_TO_MEDIAWIKI') {
-		// Read TXT folder => write (*.wiki)
+		// Reads TXT folder => 
+		// Writes (*.wiki)
 		articles.readFromTXT(txtDir)
 			.then(() => articles.writeToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'ARTICLE_CATALOG_MARKDOWN_TO_WIKIJS') {
-		// Read Article Catalog (article.md) => create pages in Wiki.js
+		// Reads Article Catalog (article.md) => 
+		// Create pages in Wiki.js
 		const sourceName = 'Innerface International';
 		const inputFolder = path.join(htmlDir, '__input');
 		articles.readCatalog()
@@ -648,15 +694,19 @@ const handle_exeButtonClick = () => {
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'ALL_INDEXES') {
+		// Creates a page of all indexes
 		getListOfAllIndexes(htmlDir)
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'PARALELL_INDEX') {
+		// Reads UB (*.json)
+		// Writes paralells (*.md) [IN PROGRESS]
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeParalells(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'TEST') {
+		// Process for doing tests
 		const htmlDir2 = path.join(htmlDir, 'test.html');
 		topicindex.readFromTXT(txtDir)
 			.then(() => {
