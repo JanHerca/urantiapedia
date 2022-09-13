@@ -1,3 +1,4 @@
+//https://studybible.info/version/
 //https://www.wordproject.org/
 //http://www.viceregency.com/Abbrev.htm
 //https://www.jjs-online.net/pdfs/SBL-Abbrev.pdf
