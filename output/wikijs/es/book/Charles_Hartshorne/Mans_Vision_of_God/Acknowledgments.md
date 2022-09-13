@@ -1,5 +1,5 @@
 ---
-title: "La visión del hombre de Dios y la lógica del teísmo — Acknowledgments"
+title: "La visión del hombre de Dios y la lógica del teísmo — Agradecimientos"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z

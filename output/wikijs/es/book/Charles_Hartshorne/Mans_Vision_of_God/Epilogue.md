@@ -1,5 +1,5 @@
 ---
-title: "La visión del hombre de Dios y la lógica del teísmo — Epilogue. Panentheism, Transcendental Relativity, and the Trinity"
+title: "La visión del hombre de Dios y la lógica del teísmo — Epílogo. Panenteísmo, relatividad trascendental y la Trinidad"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -58,4 +58,4 @@ Mientras que los teólogos y los lógicos (con muchas excepciones) tienden a imp
 
 ## Notas
 
-[^1] Sobre la visión positivista de que las concepciones metafísicas y teológicas no tienen sentido, véase mi artículo, «Anthropomorphic Tendencies in Positivism», _Philosophy of Science_, 1941. _Experience and Substance_ de DH Parker (University of Michigan Press, 1941) es una defensa capaz y exposición de un tipo de metafísica más o menos similar a la expresada en este libro. Véase también _Reality and Value_ de AC Garnett (Yale University Press, 1987); o Paul Weiss, op. cit.; o WP Montague, op. cit.; o los escritos filosóficos de AN Whitehead (The Macmillan Co., 1926 a 1938).
+[^1]: Sobre la visión positivista de que las concepciones metafísicas y teológicas no tienen sentido, véase mi artículo, «Anthropomorphic Tendencies in Positivism», _Philosophy of Science_, 1941. _Experience and Substance_ de DH Parker (University of Michigan Press, 1941) es una defensa capaz y exposición de un tipo de metafísica más o menos similar a la expresada en este libro. Véase también _Reality and Value_ de AC Garnett (Yale University Press, 1987); o Paul Weiss, op. cit.; o WP Montague, op. cit.; o los escritos filosóficos de AN Whitehead (The Macmillan Co., 1926 a 1938).
