@@ -4,6 +4,7 @@
 
 const {app} = require('electron').remote;
 const path = require('path');
+const fs = require('fs');
 const readFile = require('./utils').readFile;
 const Strings = require('./strings');
 
@@ -74,12 +75,14 @@ class Paralells {
 			'en', 'paralells.md');
 		const filePathOther = path.join(app.getAppPath(), 'input', 'markdown',
 			`${this.language}`,'paralells.md');
+		const existsOther = fs.existsSync(filePathOther);
 		return new Promise((resolve, reject) => {
 			this.clear();
 			readFile(filePathEN)
 				.then(linesEN => this.readFileEN(linesEN))
 				.then(() => {
-					return (this.language === 'en' ? Promise.resolve(null) :
+					return (this.language === 'en' || !existsOther ? 
+						Promise.resolve(null) :
 						readFile(filePathOther));
 				})
 				.then(linesOther => {
@@ -202,11 +205,12 @@ class Paralells {
 				const tr = this.translations.find(t => t.text === book.title);
 				const title = (lan === 'en' ? book.title : 
 					(tr ? tr.translation : book.title));
+				const blan = (tr ? lan : 'en');
 				const chapter = vals[1];
 				const ch = (isNaN(parseInt(chapter)) ? '' :
 					Strings['bookChapter'][lan].toLowerCase() + ' ');
 				const page = vals[2];
-				const path = `/${lan}/book/${book.path}/${chapter}#p${page}`;
+				const path = `/${blan}/book/${book.path}/${chapter}#p${page}`;
 				const html = `${f.ub_ref}: <i>${title}</i>, ${book.author}, ` +
 					`<a href="${path}">${ch}${chapter}, p. ${page}</a>`;
 				return {
