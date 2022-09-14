@@ -111,7 +111,7 @@ const BibleAbbreviations = {
 		'Man': ['Prayer of Manesseh', '/bg/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tb': ['Tobit', '/bg/Bible/Tobit', 'APO'],
 		'Jdt': ['Judith', '/bg/Bible/Judith', 'APO'],
-		'1 Enoch': ['Първа книга Енох', '/bg/Bible/Enoch', 'APO'],
+		'1 Enoch': ['Първа книга Енох', '/bg/Bible/Book_of_Enoch', 'APO'],
 		'As. Mos.': ['Assumption of Moses', '/bg/Bible/Assumption_of_Moses', 'APO']
 	},
 	cs: {
@@ -190,7 +190,7 @@ const BibleAbbreviations = {
 		'Man': ['Modlitba Manassesova', '/cs/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tb': ['Tóbit', '/cs/Bible/Tobit', 'APO'],
 		'Jdt': ['Júdit', '/cs/Bible/Judith', 'APO'],
-		'1 Hen': ['1 kniha Henochova', '/cs/Bible/Enoch', 'APO'],
+		'1 Hen': ['1 kniha Henochova', '/cs/Bible/Book_of_Enoch', 'APO'],
 		'NanMoj': ['Nanebevzetí Mojžíše', '/cs/Bible/Assumption_of_Moses', 'APO']
 	},
 	da: {
@@ -269,7 +269,7 @@ const BibleAbbreviations = {
 		'ManB': ['Manasses Bøn', '/da/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tob': ['Tobits Bog', '/da/Bible/Tobit', 'APO'],
 		'Judit': ['Judits Bog', '/da/Bible/Judith', 'APO'],
-		'1 Enok': ['Første Enoksbog', '/da/Bible/Enoch', 'APO'],
+		'1 Enok': ['Første Enoksbog', '/da/Bible/Book_of_Enoch', 'APO'],
 		'Moshim': ['Moses\' himmelfart', '/da/Bible/Assumption_of_Moses', 'APO']
 	},
 	de: {
@@ -348,7 +348,7 @@ const BibleAbbreviations = {
 		'GebMan': ['Das Gebet Manesses', '/de/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tob': ['Das Buch Tobias', '/de/Bible/Tobit', 'APO'],
 		'Jdt': ['Judit', '/de/Bible/Judith', 'APO'],
-		'1 Hen': ['Erstes Henochbuch', '/de/Bible/Enoch', 'APO'],
+		'1 Hen': ['Erstes Henochbuch', '/de/Bible/Book_of_Enoch', 'APO'],
 		'AssMos': ['Himmelfahrt des Mose', '/de/Bible/Assumption_of_Moses', 'APO']
 	},
 	el: {
@@ -427,7 +427,7 @@ const BibleAbbreviations = {
 		'Μαν': ['Προσευχή του Μανασσή', '/el/Bible/Prayer_of_Manesseh', 'APO'],
 		'Τβ': ['Τωβίτ', '/el/Bible/Tobit', 'APO'],
 		'Ιδθ': ['Ιουδίθ', '/el/Bible/Judith', 'APO'],
-		'Α Ενώχ': ['Πρώτος Ενώχ', '/el/Bible/Enoch', 'APO'],
+		'Α Ενώχ': ['Πρώτος Ενώχ', '/el/Bible/Book_of_Enoch', 'APO'],
 		'Αν Μωυ': ['Ανάληψη του Μωυσή', '/el/Bible/Assumption_of_Moses', 'APO']
 	},
 	en: {
@@ -506,7 +506,7 @@ const BibleAbbreviations = {
 		'Man': ['Prayer of Manesseh', '/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tb': ['Tobit', '/Bible/Tobit', 'APO'],
 		'Jdt': ['Judith', '/Bible/Judith', 'APO'],
-		'1 Enoch': ['Book of Enoch', '/Bible/Enoch', 'APO'],
+		'1 Enoch': ['Book of Enoch', '/Bible/Book_of_Enoch', 'APO'],
 		'As. Mos.': ['Assumption of Moses', '/Bible/Assumption_of_Moses', 'APO']
 	},
 	es: {
@@ -585,7 +585,7 @@ const BibleAbbreviations = {
 		'Man': ['Oración de Manasés', '/es/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tb': ['Tobit', '/es/Bible/Tobit', 'APO'],
 		'Jdt': ['Judith', '/es/Bible/Judith', 'APO'],
-		'1 Enoc': ['Libro de Enoc', '/es/Bible/Enoch', 'APO'],
+		'1 Enoc': ['Libro de Enoc', '/es/Bible/Book_of_Enoch', 'APO'],
 		'As. Mos.': ['Asunción de Moisés', '/es/Bible/Assumption_of_Moses', 'APO']
 	},
 	et: {
@@ -664,7 +664,7 @@ const BibleAbbreviations = {
 		'Mn': ['Manasse palve', '/et/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tb': ['Toobit', '/et/Bible/Tobit', 'APO'],
 		'Ju': ['Juudit', '/et/Bible/Judith', 'APO'],
-		'1Een': ['Eenoki raamat', '/et/Bible/Enoch', 'APO'],
+		'1Een': ['Eenoki raamat', '/et/Bible/Book_of_Enoch', 'APO'],
 		'MsTv': ['Moosese taevaminemine', '/et/Bible/Assumption_of_Moses', 'APO']
 	},
 	fa: {
@@ -743,7 +743,7 @@ const BibleAbbreviations = {
 		'Man': ['دعای منسی', '/fa/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tb': ['توبیت', '/fa/Bible/Tobit', 'APO'],
 		'Jdt': ['جودیت', '/fa/Bible/Judith', 'APO'],
-		'1 Enoc': ['کتاب خنوخ', '/fa/Bible/Enoch', 'APO'],
+		'1 Enoc': ['کتاب خنوخ', '/fa/Bible/Book_of_Enoch', 'APO'],
 		'As. Mos.': ['فرض موسی', '/fa/Bible/Assumption_of_Moses', 'APO']
 	},
 	fi: {
@@ -822,7 +822,7 @@ const BibleAbbreviations = {
 		'Man r': ['Manassen rukous', '/fi/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tob': ['Tobitin kirja', '/fi/Bible/Tobit', 'APO'],
 		'Judit': ['Juditin kirja', '/fi/Bible/Judith', 'APO'],
-		'1 Hen': ['Henokin kirja', '/fi/Bible/Enoch', 'APO'],
+		'1 Hen': ['Henokin kirja', '/fi/Bible/Book_of_Enoch', 'APO'],
 		'Mos t': ['Mooseksen taivaaseenastuminen', '/fi/Bible/Assumption_of_Moses', 'APO']
 	},
 	fr: {
@@ -901,7 +901,7 @@ const BibleAbbreviations = {
 		'Man': ['Prière de Manassé', '/fr/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tb': ['Tobie', '/fr/Bible/Tobit', 'APO'],
 		'Jdt': ['Judith', '/fr/Bible/Judith', 'APO'],
-		'1 Hénoch': ['Livre d\'Hénoch', '/fr/Bible/Enoch', 'APO'],
+		'1 Hénoch': ['Livre d\'Hénoch', '/fr/Bible/Book_of_Enoch', 'APO'],
 		'As. Mo.': ['Assomption de Moïse', '/fr/Bible/Assumption_of_Moses', 'APO']
 	},
 	he: {
@@ -980,7 +980,7 @@ const BibleAbbreviations = {
 		'מנש': ['תפילת מנשה', '/he/Bible/Prayer_of_Manesseh', 'APO'],
 		'טו': ['טוביה', '/he/Bible/Tobit', 'APO'],
 		'יהודית': ['יהודית', '/he/Bible/Judith', 'APO'],
-		'חנ א׳': ['ספר חנוך א׳', '/he/Bible/Enoch', 'APO'],
+		'חנ א׳': ['ספר חנוך א׳', '/he/Bible/Book_of_Enoch', 'APO'],
 		'משה': ['הנחת משה', '/he/Bible/Assumption_of_Moses', 'APO']
 	},
 	hu: {
@@ -1059,7 +1059,7 @@ const BibleAbbreviations = {
 		'Man': ['Manassé imája', '/hu/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tób': ['Tóbiás', '/hu/Bible/Tobit', 'APO'],
 		'Jud': ['Judit', '/hu/Bible/Judith', 'APO'],
-		'1 Éno': ['Énok első könyve', '/hu/Bible/Enoch', 'APO'],
+		'1 Éno': ['Énok első könyve', '/hu/Bible/Book_of_Enoch', 'APO'],
 		'Mózmen': ['Mózes mennybemenetele', '/hu/Bible/Assumption_of_Moses', 'APO']
 	},
 	id: {
@@ -1138,7 +1138,7 @@ const BibleAbbreviations = {
 		'Man': ['Doa Manasye', '/id/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tb': ['Tobit', '/id/Bible/Tobit', 'APO'],
 		'Ydt': ['Yudit', '/id/Bible/Judith', 'APO'],
-		'1 Hen': ['Kitab Henokh', '/id/Bible/Enoch', 'APO'],
+		'1 Hen': ['Kitab Henokh', '/id/Bible/Book_of_Enoch', 'APO'],
 		'AsMus': ['Asumsi Musa', '/id/Bible/Assumption_of_Moses', 'APO']
 	},
 	it: {
@@ -1217,7 +1217,7 @@ const BibleAbbreviations = {
 		'Man': ['Preghiera di Manasse', '/it/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tb': ['Tobia', '/it/Bible/Tobit', 'APO'],
 		'Gdt': ['Giuditta', '/it/Bible/Judith', 'APO'],
-		'1 Enoc': ['Libro di Enoch', '/it/Bible/Enoch', 'APO'],
+		'1 Enoc': ['Libro di Enoch', '/it/Bible/Book_of_Enoch', 'APO'],
 		'As. Mos.': ['Assunzione di Mosè', '/it/Bible/Assumption_of_Moses', 'APO']
 	},
 	ja: {
@@ -1296,7 +1296,7 @@ const BibleAbbreviations = {
 		'マナ': ['マナセの祈り', '/ja/Bible/Prayer_of_Manesseh', 'APO'],
 		'トビ': ['トビト記', '/ja/Bible/Tobit', 'APO'],
 		'ユデ': ['ユディト記', '/ja/Bible/Judith', 'APO'],
-		'エノク1': ['エノク書', '/ja/Bible/Enoch', 'APO'],
+		'エノク1': ['エノク書', '/ja/Bible/Book_of_Enoch', 'APO'],
 		'モー': ['モーセの仮定', '/ja/Bible/Assumption_of_Moses', 'APO']
 	},
 	ko: {
@@ -1375,7 +1375,7 @@ const BibleAbbreviations = {
 		'므나': ['므나쎄의 기도', '/ko/Bible/Prayer_of_Manesseh', 'APO'],
 		'토비': ['토비트', '/ko/Bible/Tobit', 'APO'],
 		'유딧': ['유딧', '/ko/Bible/Judith', 'APO'],
-		'1에녹': ['에녹서', '/ko/Bible/Enoch', 'APO'],
+		'1에녹': ['에녹서', '/ko/Bible/Book_of_Enoch', 'APO'],
 		'모세': ['모세의 가정', '/ko/Bible/Assumption_of_Moses', 'APO']
 	},
 	lt: {
@@ -1454,7 +1454,7 @@ const BibleAbbreviations = {
 		'Man': ['Manaso malda', '/lt/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tob': ['Tobito knyga', '/lt/Bible/Tobit', 'APO'],
 		'Jdt': ['Juditos knyga', '/lt/Bible/Judith', 'APO'],
-		'1 Enocho': ['Enocho knyga', '/lt/Bible/Enoch', 'APO'],
+		'1 Enocho': ['Enocho knyga', '/lt/Bible/Book_of_Enoch', 'APO'],
 		'Moz': ['Mozės ėmimas į dangų', '/lt/Bible/Assumption_of_Moses', 'APO']
 	},
 	nl: {
@@ -1533,7 +1533,7 @@ const BibleAbbreviations = {
 		'Man': ['Het gebed van Manasse', '/nl/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tb': ['Tobit', '/nl/Bible/Tobit', 'APO'],
 		'Jdt': ['Judith', '/nl/Bible/Judith', 'APO'],
-		'1 Hen': ['Eerste boek van Henoch', '/nl/Bible/Enoch', 'APO'],
+		'1 Hen': ['Eerste boek van Henoch', '/nl/Bible/Book_of_Enoch', 'APO'],
 		'HemMoz': ['Hemelvaart van Mozes', '/nl/Bible/Assumption_of_Moses', 'APO']
 	},
 	pl: {
@@ -1612,7 +1612,7 @@ const BibleAbbreviations = {
 		'Man': ['Modlitwa Manassesa', '/pl/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tb': ['Tobiasza', '/pl/Bible/Tobit', 'APO'],
 		'Jdt': ['Judyty', '/pl/Bible/Judith', 'APO'],
-		'1 Hen': ['Księga Henocha', '/pl/Bible/Enoch', 'APO'],
+		'1 Hen': ['Księga Henocha', '/pl/Bible/Book_of_Enoch', 'APO'],
 		'WniMoj': ['Wniebowzięcie Mojżesza', '/pl/Bible/Assumption_of_Moses', 'APO']
 	},
 	pt: {
@@ -1691,7 +1691,7 @@ const BibleAbbreviations = {
 		'Man': ['Prece de Manassés', '/pt/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tb': ['Tobias', '/pt/Bible/Tobit', 'APO'],
 		'Jdt': ['Judite', '/pt/Bible/Judith', 'APO'],
-		'1 Enoque': ['Primeiro Livro de Enoque', '/pt/Bible/Enoch', 'APO'],
+		'1 Enoque': ['Primeiro Livro de Enoque', '/pt/Bible/Book_of_Enoch', 'APO'],
 		'As. Mo.': ['Assunção de Moisés', '/pt/Bible/Assumption_of_Moses', 'APO']
 	},
 	ro: {
@@ -1770,7 +1770,7 @@ const BibleAbbreviations = {
 		'Man': ['Rugăciunea lui Manase', '/ro/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tob': ['Tobit', '/ro/Bible/Tobit', 'APO'],
 		'Iudi': ['Iudita', '/ro/Bible/Judith', 'APO'],
-		'1 Enoh': ['Cartea lui Enoh', '/ro/Bible/Enoch', 'APO'],
+		'1 Enoh': ['Cartea lui Enoh', '/ro/Bible/Book_of_Enoch', 'APO'],
 		'AdMos': ['Adormirea lui Moise', '/ro/Bible/Assumption_of_Moses', 'APO']
 	},
 	ru: {
@@ -1849,7 +1849,7 @@ const BibleAbbreviations = {
 		'Man': ['Prayer of Manesseh', '/ru/Bible/Prayer_of_Manesseh', 'APO'],
 		'Тов': ['Товита', '/ru/Bible/Tobit', 'APO'],
 		'Иудифь': ['Иудифь', '/ru/Bible/Judith', 'APO'],
-		'1 Enoch': ['Book of Enoch', '/ru/Bible/Enoch', 'APO'],
+		'1 Enoch': ['Book of Enoch', '/ru/Bible/Book_of_Enoch', 'APO'],
 		'As. Mos.': ['Assumption of Moses', '/ru/Bible/Assumption_of_Moses', 'APO']
 	},
 	sv: {
@@ -1928,7 +1928,7 @@ const BibleAbbreviations = {
 		'Man': ['Manasses bön', '/sv/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tob': ['Tobit', '/sv/Bible/Tobit', 'APO'],
 		'Judit': ['Judit', '/sv/Bible/Judith', 'APO'],
-		'1 Hen': ['Henoks bok', '/sv/Bible/Enoch', 'APO'],
+		'1 Hen': ['Henoks bok', '/sv/Bible/Book_of_Enoch', 'APO'],
 		'MosAn': ['Mose antagande', '/sv/Bible/Assumption_of_Moses', 'APO']
 	},
 	tr: {
@@ -2007,7 +2007,7 @@ const BibleAbbreviations = {
 		'Man': ['Maneşşe’nin Duası', '/tr/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tob': ['Tobit', '/tr/Bible/Tobit', 'APO'],
 		'Yud': ['Yudit', '/tr/Bible/Judith', 'APO'],
-		'1 Han': ['Hanok kitabı', '/tr/Bible/Enoch', 'APO'],
+		'1 Han': ['Hanok kitabı', '/tr/Bible/Book_of_Enoch', 'APO'],
 		'Mus Var': ['Musa\'nın Varsayımı', '/tr/Bible/Assumption_of_Moses', 'APO']
 	}
 };
