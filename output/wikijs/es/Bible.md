@@ -112,5 +112,5 @@ Aquí se presenta un listado provisional de los libros bíblicos y extra-bíblic
 
 - [Historia de Bel y el Dragón](/es/Bible/Bel_and_the_Dragon/Index)
 - [Oración de Manasés](/es/Bible/Prayer_of_Manesseh/Index)
-- [Libro de Enoc](/es/Bible/Enoch/Index)
+- [Libro de Enoc](/es/Bible/Book_of_Enoch/Index)
 - [Asunción de Moisés](/es/Bible/Assumption_of_Moses/Index)

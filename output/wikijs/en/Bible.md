@@ -111,5 +111,5 @@ Here is a provisional list of biblical and extra-biblical books to be included:
 
 - [Bel and the Dragon](/en/Bible/Bel_and_the_Dragon/Index)
 - [Prayer of Manesseh](/en/Bible/Prayer_of_Manesseh/Index)
-- [Book of Enoch](/en/Bible/Enoch/Index)
+- [Book of Enoch](/en/Bible/Book_of_Enoch/Index)
 - [Assumption of Moses](/en/Bible/Assumption_of_Moses/Index)
