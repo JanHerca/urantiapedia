@@ -34,21 +34,21 @@ You can see more information about how the maps are organized in the project in 
 
 Here is a tentative list of maps to be included:
 
-| Status                  | Title                                                                                | Author    | Type   |
-| ----------------------- | ------------------------------------------------------------------------------------ | --------- | ------ |
-| :ballot_box_with_check: | [Places visited by Jesus in Palestine](/en/map/Places_visited_by_Jesus_in_Palestine) | Jan Herca | Framed |
-| :white_square_button:   | Map of Palestine at the time of Jesus (with relief)                                  |           |        |
-| :white_square_button:   | The Sea of Galilee at the time of Jesus                                              |           |        |
-| :white_square_button:   | Jerusalem in the time of Jesus                                                       |           |        |
-| :white_square_button:   | The Great voyages of Jesus - The Mediterranean journey                               |           |        |
-| :white_square_button:   | The Great voyages of Jesus - The journey to Mesopotamia                              |           |        |
-| :white_square_button:   | The Great voyages of Jesus - The caravan trip to the Caspian Sea                     |           |        |
-| :white_square_button:   | The Great voyages of Jesus - The travel through Palestine and Syria                  |           |        |
-| :white_square_button:   | The Preaching of Jesus - Five Months of Trial (August 26 - January 27)               |           |        |
-| :white_square_button:   | The Preaching of Jesus - First Tour of Galilee (January to March 28)                 |           |        |
-| :white_square_button:   | The Preaching of Jesus - Second Galilee Tour (October - December 28)                 |           |        |
-| :white_square_button:   | The Preaching of Jesus - Third Tour of Galilee (January to March 29)                 |           |        |
-| :white_square_button:   | The Preaching of Jesus - Fleeing through North (May - August 29)                     |           |        |
-| :white_square_button:   | The Preaching of Jesus - The Decapolis Tour (August - September 29)                  |           |        |
-| :white_square_button:   | The preaching of Jesus - The mission of Perea (January to March 30)                  |           |        |
-| :white_square_button:   | The appearances of Jesus                                                             |           |        |
+| Status                  | Title                                                                                                                      | Author    | Type   |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
+| :ballot_box_with_check: | [Places visited by Jesus in Palestine](/en/map/Places_visited_by_Jesus_in_Palestine)                                       | Jan Herca | Framed |
+| :white_square_button:   | Map of Palestine at the time of Jesus (with relief)                                                                        |           |        |
+| :white_square_button:   | The Sea of Galilee at the time of Jesus                                                                                    |           |        |
+| :white_square_button:   | Jerusalem in the time of Jesus                                                                                             |           |        |
+| :white_square_button:   | The Great voyages of Jesus - The Mediterranean journey                                                                     |           |        |
+| :white_square_button:   | The Great voyages of Jesus - The journey to Mesopotamia                                                                    |           |        |
+| :white_square_button:   | The Great voyages of Jesus - The caravan trip to the Caspian Sea                                                           |           |        |
+| :white_square_button:   | The Great voyages of Jesus - The travel through Palestine and Syria                                                        |           |        |
+| :white_square_button:   | The Preaching of Jesus - Five Months of Trial (August 26 - January 27)                                                     |           |        |
+| :white_square_button:   | The Preaching of Jesus - First Tour of Galilee (January to March 28)                                                       |           |        |
+| :ballot_box_with_check: | [The Preaching of Jesus - Second Galilee Tour (October - December 28)](/en/map/The_Preaching_of_Jesus_Second_Galilee_Tour) | Jan Herca | Framed |
+| :white_square_button:   | The Preaching of Jesus - Third Tour of Galilee (January to March 29)                                                       |           |        |
+| :white_square_button:   | The Preaching of Jesus - Fleeing through North (May - August 29)                                                           |           |        |
+| :white_square_button:   | The Preaching of Jesus - The Decapolis Tour (August - September 29)                                                        |           |        |
+| :white_square_button:   | The preaching of Jesus - The mission of Perea (January to March 30)                                                        |           |        |
+| :white_square_button:   | The appearances of Jesus                                                                                                   |           |        |

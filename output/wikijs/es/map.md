@@ -34,21 +34,21 @@ Puedes ver más información sobre cómo están organizados los mapas en el proy
 
 Aquí se incluye una lista provisional de mapas que van a incluirse:
 
-| Estado                  | Título                                                                                   | Autor     | Tipo       |
-| ----------------------- | ---------------------------------------------------------------------------------------- | --------- | ---------- |
-| :ballot_box_with_check: | [Lugares visitados por Jesús en Palestina](/es/map/Places_visited_by_Jesus_in_Palestine) | Jan Herca | Incrustado |
-| :white_square_button:   | Mapa de Palestina en tiempos de Jesús (con relieve)                                      |           |            |
-| :white_square_button:   | El mar de Galilea en tiempos de Jesús                                                    |           |            |
-| :white_square_button:   | Jerusalén en tiempos de Jesús                                                            |           |            |
-| :white_square_button:   | Los grandes viajes de Jesús - El viaje por el Mediterráneo                               |           |            |
-| :white_square_button:   | Los grandes viajes de Jesús - El viaje a Mesopotamia                                     |           |            |
-| :white_square_button:   | Los grandes viajes de Jesús - El viaje al mar Caspio                                     |           |            |
-| :white_square_button:   | Los grandes viajes de Jesús - El viaje por Palestina y Siria                             |           |            |
-| :white_square_button:   | La predicación de Jesús - Los cinco meses de prueba (agosto de 26 a enero de 27)         |           |            |
-| :white_square_button:   | La predicación de Jesús - Primera gira por Galilea (enero a marzo de 28)                 |           |            |
-| :white_square_button:   | La predicación de Jesús - Segunda gira por Galilea (octubre a diciembre de 28)           |           |            |
-| :white_square_button:   | La predicación de Jesús - Tercera gira por Galilea (enero a marzo de 29)                 |           |            |
-| :white_square_button:   | La predicación de Jesús - La huida al norte (mayo a agosto de 29)                        |           |            |
-| :white_square_button:   | La predicación de Jesús - La gira por la Decápolis (agosto a septiembre de 29)           |           |            |
-| :white_square_button:   | La predicación de Jesús - La misión de Perea (enero a marzo de 30)                       |           |            |
-| :white_square_button:   | Las apariciones de Jesús                                                                 |           |            |
+| Estado                  | Título                                                                                                                               | Autor     | Tipo       |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------- | ---------- |
+| :ballot_box_with_check: | [Lugares visitados por Jesús en Palestina](/es/map/Places_visited_by_Jesus_in_Palestine)                                             | Jan Herca | Incrustado |
+| :white_square_button:   | Mapa de Palestina en tiempos de Jesús (con relieve)                                                                                  |           |            |
+| :white_square_button:   | El mar de Galilea en tiempos de Jesús                                                                                                |           |            |
+| :white_square_button:   | Jerusalén en tiempos de Jesús                                                                                                        |           |            |
+| :white_square_button:   | Los grandes viajes de Jesús - El viaje por el Mediterráneo                                                                           |           |            |
+| :white_square_button:   | Los grandes viajes de Jesús - El viaje a Mesopotamia                                                                                 |           |            |
+| :white_square_button:   | Los grandes viajes de Jesús - El viaje al mar Caspio                                                                                 |           |            |
+| :white_square_button:   | Los grandes viajes de Jesús - El viaje por Palestina y Siria                                                                         |           |            |
+| :white_square_button:   | La predicación de Jesús - Los cinco meses de prueba (agosto de 26 a enero de 27)                                                     |           |            |
+| :white_square_button:   | La predicación de Jesús - Primera gira por Galilea (enero a marzo de 28)                                                             |           |            |
+| :ballot_box_with_check: | [La predicación de Jesús - Segunda gira por Galilea (octubre a diciembre de 28)](/es/map/The_Preaching_of_Jesus_Second_Galilee_Tour) | Jan Herca | Incrustado |
+| :white_square_button:   | La predicación de Jesús - Tercera gira por Galilea (enero a marzo de 29)                                                             |           |            |
+| :white_square_button:   | La predicación de Jesús - La huida al norte (mayo a agosto de 29)                                                                    |           |            |
+| :white_square_button:   | La predicación de Jesús - La gira por la Decápolis (agosto a septiembre de 29)                                                       |           |            |
+| :white_square_button:   | La predicación de Jesús - La misión de Perea (enero a marzo de 30)                                                                   |           |            |
+| :white_square_button:   | Las apariciones de Jesús                                                                                                             |           |            |

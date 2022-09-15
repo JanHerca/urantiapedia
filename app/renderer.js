@@ -14,6 +14,7 @@ const BibleRef = require('./bibleref');
 const TopicIndex = require('./topicindex');
 const Articles = require('./articles');
 const ImageCatalog = require('./imagecatalog');
+const MapCatalog = require('./mapcatalog');
 const Processes = require('./processes');
 const Strings = require('./strings');
 const BibleAbbs = require('./abb');
@@ -39,6 +40,7 @@ const topicindex = new TopicIndex();
 const topicindexEN = new TopicIndex();
 const articles = new Articles();
 const imageCatalog = new ImageCatalog();
+const mapCatalog = new MapCatalog();
 const editAliasDialog = new DialogEditAlias();
 const editRefsDialog = new DialogEditRefs();
 const editSeeAlsosDialog = new DialogEditSeeAlsos();
@@ -314,6 +316,7 @@ const handle_drpLanguageChange = (evt) => {
 	topicindex.setLanguage(lan);
 	articles.setLanguage(lan);
 	imageCatalog.setLanguage(lan);
+	mapCatalog.setLanguage(lan);
 	updateDefaultPaths();
 };
 
@@ -450,11 +453,13 @@ const handle_exeButtonClick = () => {
 			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TOPICS_TXT_TO_WIKIJS') {
 		// Reads image catalog (*.md) + 
+		// Reads map catalog (*.md) +
 		// Reads paralells (*.md) +
 		// Reads UB (*.json) + 
 		// Reads Topic Index (*.txt) => 
 		// Writes (Wiki.js *.html)
 		imageCatalog.read()
+			.then(() => mapCatalog.read())
 			.then(() => paralells.read())
 			.then(() => book.readFromJSON(jsonDir))
 			.then(() => topicindex.exists(txtDir))
@@ -468,7 +473,7 @@ const handle_exeButtonClick = () => {
 					topicindexEN.readFromTXT(ti));
 			})
 			.then(() => book.writeToWikijs(htmlDir, topicindex, topicindexEN,
-				imageCatalog, paralells))
+				imageCatalog, mapCatalog, paralells))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TO_TEX') {

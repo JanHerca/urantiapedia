@@ -728,6 +728,33 @@ const Strings = {
 		sv: "Böcker",
 		tr: "Kitabın"
 	},
+	"lblOpenMap": {
+		bg: "Отворете картата",
+		cs: "Otevřít mapu",
+		da: "Åbn kort",
+		de: "Karte öffnen",
+		el: "Άνοιγμα χάρτη",
+		en: "Open map",
+		es: "Abrir mapa",
+		et: "Ava kaart",
+		fa: "نقشه را باز کنید",
+		fi: "Avaa kartta",
+		fr: "Ouvrir la carte",
+		he: "פתח את המפה",
+		hu: "Nyissa meg a térképet",
+		id: "Buka peta",
+		it: "Apri mappa",
+		ja: "地図を開く",
+		ko: "지도 열기",
+		lt: "Atidaryti žemėlapį",
+		nl: "Kaart openen",
+		pl: "Otwórz mapę",
+		pt: "Abrir mapa",
+		ro: "Deschide harta",
+		ru: "Открыть карту",
+		sv: "Öppna kartan",
+		tr: "Haritayı aç"
+	},
 	"lblLanguage": {
 		en: "Urantiapedia Language:",
 		es: "Idioma de la Urantiapedia:"

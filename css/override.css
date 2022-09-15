@@ -51,6 +51,20 @@ CSS will automatically be minified. */
     word-wrap: break-word;
     white-space: normal;
 }
+.v-main .contents blockquote.is-map {
+    display: flex;
+}
+.v-main .contents blockquote.is-map:before {
+    content: "\F034D"
+}
+.v-main .contents blockquote.is-map a {
+    color: #fff;
+    text-decoration: none;
+}
+.v-main .contents blockquote.is-map img {
+    width: 200px;
+    padding-top: 16px
+}
 @media (max-width:1000px) {
     .v-main .contents figure.image-style-align-right,
     .v-main .contents figure.image-style-align-left {

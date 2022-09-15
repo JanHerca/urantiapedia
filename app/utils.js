@@ -242,6 +242,42 @@ exports.readFile = (filePath) => {
 };
 
 /**
+ * Reads file pairs (in english and another language) and call the given
+ * functions.
+ * @param {string} filePathEN File path in English.
+ * @param {string} filePathOther File path in other language.
+ * @param {string} language Language to process.
+ * @param {Function} clearFn Clear function.
+ * @param {Function} readENFn Function to read file in English.
+ * @param {Function} readOtherFn Function to read file in other language.
+ * @param {Object} thisObj Object to pass as 'this'.
+ * @returns {Promise} Promise that returns null in resolve function or an 
+ * array of errors in reject function.
+ */
+exports.readFilePairs = (filePathEN, filePathOther, language, clearFn,
+	readENFn, readOtherFn, thisObj) => {
+	return new Promise((resolve, reject) => {
+		const promises = (language === 'en' ?
+			[exports.readFile(filePathEN)] : 
+			[exports.readFile(filePathEN), exports.readFile(filePathOther)]);
+		Promise.all(promises)
+			.then(results => {
+				const linesEN = results[0];
+				const linesOther = (results.length > 1 ? results[1] : null);
+				clearFn.call(thisObj);
+				readENFn.call(thisObj, linesEN);
+				if (!linesOther) {
+					resolve(null);
+					return;
+				}
+				readOtherFn.call(thisObj, linesOther);
+				resolve(null);
+			})
+			.catch(reject);
+	});
+};
+
+/**
  * Writes a text file.
  * @param {string} filePath File.
  * @param {string} content Content.
@@ -401,7 +437,7 @@ exports.fixWikijsHeader = (header, prevLines, curLines) => {
 	const curDate = curLines
 		.findIndex(line => line.startsWith('dateCreated:'));
 	const changedLines = prevLines
-		.filter((line, i) => line.trim() != curLines[i].trim() && !line.startsWith('date'));
+		.filter((line, i) => line != curLines[i] && !line.startsWith('date'));
 	if (changedLines.length > 0) {
 		if (prevDate != -1 && curDate != -1) {
 			newHeader = header.replace(curLines[curDate], prevLines[prevDate]);

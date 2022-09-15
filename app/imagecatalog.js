@@ -4,11 +4,26 @@
 
 const {app} = require('electron').remote;
 const path = require('path');
-const readFile = require('./utils').readFile;
+const readFilePairs = require('./utils').readFilePairs;
+const strformat = require('./utils').strformat;
 
 class ImageCatalog {
 	language = 'en';
 	images = [];
+
+	//Values:
+	// 0 - Figure ID
+	// 1 - classnames
+	// 2 - image path
+	// 3 - image file
+	// 4 - image caption
+	template =
+		'<figure id="Figure_{0}" class="{1}">\r\n' + 
+		'  <img src="{2}/{3}">\r\n' +
+		'  <figcaption>\r\n' +
+		'    {4}\r\n' +
+		'  </figcaption>\r\n' +
+		'</figure>\r\n';
 
 	setLanguage = (language) => {
 		this.language = language;
@@ -30,26 +45,9 @@ class ImageCatalog {
 		const filePathEN = path.join(app.getAppPath(), 
 			`input/markdown/en/image_catalog.md`);
 		const filePathCur = path.join(app.getAppPath(), 
-			`input/markdown/${this.language}/image_catalog.md`)
-		return new Promise((resolve, reject) => {
-			const promises = (this.language === 'en' ?
-				[readFile(filePathEN)] : 
-				[readFile(filePathEN), readFile(filePathCur)]);
-			Promise.all(promises)
-				.then(results => {
-					const linesEN = results[0];
-					const linesOther = (results.length > 1 ? results[1] : null);
-					this.clear();
-					this.readFileEN(linesEN);
-					if (!linesOther) {
-						resolve(null);
-						return;
-					}
-					this.readFileOther(linesOther);
-					resolve(null);
-				})
-				.catch(reject);
-		});
+			`input/markdown/${this.language}/image_catalog.md`);
+		return readFilePairs(filePathEN, filePathCur, this.language,
+			this.clear, this.readFileEN, this.readFileOther, this);
 	};
 
 	/**
@@ -163,13 +161,6 @@ class ImageCatalog {
 					`<a href="${i.url}" target="_blank">${link}</a>` : '');
 				const captions = [text, title, author, year, url]
 					.filter(n => n != '');
-				let footer = '';
-				if (captions.length > 0) {
-					footer = 
-						`<figcaption>\r\n` +
-							`${captions.join(', ')}\r\n` +
-						`</figcaption>\r\n`;
-				}
 				let cls = 'image urantiapedia';
 				if (i.float === 'R') {
 					cls += ' image-style-align-right';
@@ -177,11 +168,8 @@ class ImageCatalog {
 					cls += ' image-style-align-left';
 				}
 
-				img = 
-					`<figure id="Figure_${id}" class="${cls}">\r\n` + 
-						`<img src="${s.path}/${i.file}">\r\n` +
-						`${footer}` +
-					`</figure>\r\n`;
+				img = strformat(this.template, id, cls, s.path, i.file, 
+					captions.join(', '));
 			}
 			return (i != null);
 		});

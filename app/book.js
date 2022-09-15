@@ -1414,14 +1414,15 @@ class Book {
 	 * previous param is english then this is not required. If it is not english
 	 * then this param is required.
 	 * @param {?ImageCatalog} imageCatalog Image catalog.
+	 * @param {?MapCatalog} mapCatalog Map catalog.
 	 * @param {?Paralells} paralells Paralells.
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * array of errors in reject function.
 	 */
-	writeToWikijs = (dirPath, topicIndex, topicIndexEN, imageCatalog, 
-		paralells) => {
+	writeToWikijs = (dirPath, topicIndex, topicIndexEN, imageCatalog,
+		mapCatalog, paralells) => {
 		return this.writeTo(dirPath, 'html', topicIndex, topicIndexEN, 
-			imageCatalog, paralells);
+			imageCatalog, mapCatalog, paralells);
 	};
 
 	/**
@@ -1434,12 +1435,13 @@ class Book {
 	 * previous param is english then this is not required. If it is not english
 	 * then this param is required.
 	 * @param {?ImageCatalog} imageCatalog Image catalog.
+	 * @param {?MapCatalog} mapCatalog Map catalog.
 	 * @param {?Paralells} paralells Paralells.
 	 * @return {Promise} Promise that returns null in resolve function and an
 	 * error in reject function.
 	 */
 	writeFileToWikijs = (filePath, paper, topicIndex, topicIndexEN, 
-		imageCatalog, paralells) => {
+		imageCatalog, mapCatalog, paralells) => {
 		return new Promise((resolve, reject) => {
 			const index = paper.paper_index;
 			const prev = index - 1;
@@ -1518,7 +1520,7 @@ class Book {
 				}
 
 				section.pars.forEach(par => {
-					let pcontent, aref, topics, di, si, pi, image;
+					let pcontent, aref, topics, di, si, pi, image, map;
 					const all_items = [];
 					if (!par.par_ref || !par.par_content) {
 						error = 'book_par_no_refcontent';
@@ -1626,6 +1628,12 @@ class Book {
 					image = imageCatalog.getImageForRef(par.par_ref);
 					if (image) {
 						body += image;
+					}
+
+					//Map if exists
+					map = mapCatalog.getMapForRef(par.par_ref);
+					if (map) {
+						body += map;
 					}
 				});
 			});
@@ -2674,7 +2682,7 @@ class Book {
 	 * an array of errors in reject function.
 	 */
 	writeTo = (dirPath, format, topicIndex, topicIndexEN, imageCatalog, 
-		paralells) => {
+		mapCatalog, paralells) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
@@ -2701,7 +2709,7 @@ class Book {
 					} else if (format === 'html') {
 						filePath = path.join(dirPath, `${i}.${format}`);
 						p = this.writeFileToWikijs(filePath, paper, topicIndex,
-							topicIndexEN, imageCatalog, paralells);
+							topicIndexEN, imageCatalog, mapCatalog, paralells);
 					} else if (format === 'txt') {
 						filePath = path.join(dirPath, 
 							`UB_${stri}${i == 0 ? '_1' : ''}.${format}`);
