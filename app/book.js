@@ -793,7 +793,7 @@ class Book {
 				}
 				section.pars.forEach((par, j) => {
 					let pcontent, end;
-					if (!par.par_ref || !par.par_content || !par.par_pageref) {
+					if (!par.par_content) {
 						error = 'book_par_no_refcontent';
 						return;
 					}
