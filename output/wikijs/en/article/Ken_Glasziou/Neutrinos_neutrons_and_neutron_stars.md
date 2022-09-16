@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 Author: **Ken Glasziou, Ph.D.**
 
 <figure class="image urantiapedia">
-<img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/neutron_star.jpg" width="580" height="387">
+<img src="/image/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars/neutron_star.jpg" width="580" height="387">
 <figcaption><em>Image 1. Artist's conception of a neutron star</em></figcaption>
 </figure>
 
@@ -116,7 +116,7 @@ Following on from the forgotten Gamow and Schoenfeld paper, the next suggestion 
 Dennis Overbye, in his book *Lonely Hearts of the Cosmos*[^21] records that, for supernovae, almost all the energy of the inward free fall comes out in the form of neutrinos. The success of this scenario (as proposed by Chiu) depends on a feature of the weak interaction called the *neutral currents*[^33]. Without this, the neutrinos do not supply enough 'oomph' and theorists had no good explanation for how stars explode. In actuality the existence of the *neutral current* for the *weak interaction* was not demonstrated until the mid 1970's.
 
 <figure class="image urantiapedia">
-<img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/supernova-1054-crab-nebula.jpg">
+<img src="/image/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars/supernova-1054-crab-nebula.jpg">
 <figcaption><em>Image 3. The most famous supernova, SN1054, or the Crab Nebula, whose explosion was seen from Earth in July 1054.</em></figcaption>
 </figure>
 

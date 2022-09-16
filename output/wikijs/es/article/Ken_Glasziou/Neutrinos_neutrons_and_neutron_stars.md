@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 Autor: **Ken Glasziou, Ph.D.** | Traductor: **Jan Herca**
 
 <figure class="image urantiapedia">
-<img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/neutron_star.jpg" width="580" height="387">
+<img src="/image/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars/neutron_star.jpg" width="580" height="387">
 <figcaption><em><b>Figura 1.</b> Concepción artística de una estrella de neutrones</em></figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ En un pocas décimas de segundo, la bola de hierro se colapsa a cerca de 50 km d
 La luz que nosotros vemos del Sol proviene sólo de su superficie más exterior. Sin embargo, la energía que mueve la luz solar (y la vida en la Tierra) se origina en el caluroso y denso horno termonuclear en el núcleo del Sol. Aunque a la luz solar le lleva sólo cerca de ocho minutos viajar del Sol a la Tierra, a la energía del núcleo solar que hace surgir esta luz le lleva del orden de un millón de años difundirse desde el núcleo hasta la superficie. En otras palabras, un sol (o estrella) es relativamente «opaco» (como dice *El Libro de Urantia*[^2]) a la energía que se difunde de su núcleo termonuclear hasta su superficie, por lo que esto suministra la presión necesaria para prevenir el colapso gravitacional. Pero esto no es cierto de las pequeñas partículas neutrales, conocidas desde la mitad de los años 30 por el nombre de «neutrinos». Estas partículas son tan pequeñas e irreactivas que el pasaje desde el núcleo de nuestro Sol hasta su exterior sólo lleva 3 segundos.
 
 <figure class="image urantiapedia">
-<img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/Composite_image_of_Supernova_1987A.jpg">
+<img src="/image/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars/Composite_image_of_Supernova_1987A.jpg">
 <figcaption><em><b>Figura 2.</b> Remanente de la supernova SN1987A como composición de varias longitudes de onda. ALMA (radio, en rojo), Hubble (luz visible, en verde) y Chandra (rayos X, en azul).</em></figcaption>
 </figure>
 
@@ -116,7 +116,7 @@ Después del olvidado documento de Gamow y Schoenfeld, la siguiente sugerencia d
 Dennis Overbye, en su libro *Corazones solitarios del cosmos*[^21] registra que, para las supernovas, casi toda la energía de la caída libre hacia adentro sale en forma de neutrinos. El éxito de este escenario (según lo propuesto por Chiu) depende de una característica de la interacción débil llamada las *corrientes neutras*[^33]. Sin esto, los neutrinos no proporcionan suficiente «empuje» y los teóricos no tienen una buena explicación de cómo explotan las estrellas. En realidad, la existencia de la *corriente neutral* para la *interacción débil* no se demostró hasta mediados de la década de 1970.
 
 <figure class="image urantiapedia">
-<img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/supernova-1054-crab-nebula.jpg">
+<img src="/image/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars/supernova-1054-crab-nebula.jpg">
 <figcaption><em><b>Figura 3.</b> La supernova más célebre, SN1054, o nebulosa del Cangrejo, cuya explosión fue vista desde la Tierra en julio de 1054.</em></figcaption>
 </figure>
 
